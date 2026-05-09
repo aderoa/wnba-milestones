@@ -2,6 +2,22 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-09 02:34 UTC
+
+- **Shakira Austin** reached **700** career rebounds (now 700) — _Final — WSH @ TOR_
+- **Marina Mabrey** tied **Natalie Williams** for **#98** all-time in points (career 2,894) — up from #100 entering today — _Final — WSH @ TOR_
+- **Kayla Thornton** passed **Kara Braxton** for **#136** all-time in points (career 2,238) — up from #138 entering today — _End of 1st — GS @ SEA_
+- **Kayla Thornton** passed **Matee Ajavon** for **#137** all-time in points (career 2,238) — up from #138 entering today — _End of 1st — GS @ SEA_
+- **Kayla Thornton** passed **Sheryl Swoopes** for **#81** all-time in three-pointers (career 271) — _End of 1st — GS @ SEA_
+- **Kayla Thornton** passed **Charlotte Smith** for **#105** all-time in fouls (career 639) — up from #106 entering today — _End of 1st — GS @ SEA_
+- **Gabby Williams** passed **Ariel Atkins** for **#183** all-time in rebounds (career 760) — up from #184 entering today — _End of 1st — GS @ SEA_
+- **Gabby Williams** passed **Erin Perperoglou** for **#186** all-time in turnovers (career 306) — up from #187 entering today — _End of 1st — GS @ SEA_
+- **Gabby Williams** passed **Jennifer Lacy** for **#188** all-time in turnovers (career 306) — _End of 1st — GS @ SEA_
+- **Tiffany Hayes** tied **DeLisha Milton-Jones** for **#51** all-time in assists (career 921) — up from #52 entering today — _End of 1st — GS @ SEA_
+- **Tiffany Hayes** passed **Yolanda Griffith** for **#27** all-time in fouls (career 992) — _End of 1st — GS @ SEA_
+- **Veronica Burton** reached **100** career three-pointers (now 100) — _End of 1st — GS @ SEA_
+- **Stefanie Dolson** tied **Moriah Jefferson** for **#82** all-time in assists (career 685) — up from #83 entering today — _End of 1st — GS @ SEA_
+
 ## 2026-05-09 01:41 UTC
 
 - **Breanna Stewart** tied **Tina Charles** for **#13** all-time in blocks (career 428) — up from #14 entering today — _1:26 - 4th — CON @ NY_
