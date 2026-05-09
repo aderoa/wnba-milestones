@@ -2,6 +2,20 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-09 17:16 UTC
+
+- **Jessica Shepard** passed **Carolyn Swords** for **#165** all-time in rebounds (career 816) — up from #166 entering today — _3:57 - 1st — DAL @ IND_
+- **Alanna Smith** tied **Diamond DeShields** for **#199** all-time in fouls (career 445) — new to top 200 today — _3:57 - 1st — DAL @ IND_
+- **Alanna Smith** tied **Sugar Rodgers** for **#200** all-time in fouls (career 445) — new to top 200 today — _3:57 - 1st — DAL @ IND_
+- **Odyssey Sims** tied **Brittney Sykes** for **#97** all-time in three-pointers (career 231) — up from #99 entering today — _3:57 - 1st — DAL @ IND_
+- **Odyssey Sims** tied **Nneka Ogwumike** for **#98** all-time in three-pointers (career 231) — up from #99 entering today — _3:57 - 1st — DAL @ IND_
+- **Myisha Hines-Allen** passed **Karima Christmas-Kelly** for **#175** all-time in fouls (career 495) — up from #177 entering today — _3:57 - 1st — DAL @ IND_
+- **Myisha Hines-Allen** passed **Ann Wauters** for **#176** all-time in fouls (career 495) — up from #177 entering today — _3:57 - 1st — DAL @ IND_
+- **Myisha Hines-Allen** passed **Riquna Williams** for **#178** all-time in fouls (career 495) — _3:57 - 1st — DAL @ IND_
+- **Aliyah Boston** passed **Dana Evans** for **#174** all-time in assists (career 380) — up from #175 entering today — _3:57 - 1st — DAL @ IND_
+- **Caitlin Clark** passed **Elizabeth Williams** for **#140** all-time in assists (career 453) — _3:57 - 1st — DAL @ IND_
+- **Damiris Dantas** passed **Marissa Coleman** for **#133** all-time in rebounds (career 996) — _3:57 - 1st — DAL @ IND_
+
 ## 2026-05-09 05:36 UTC
 
 - **Kayla Thornton** passed **Shekinna Stricklen** for **#135** all-time in points (career 2,248) — up from #138 entering today — _Final — GS @ SEA_
