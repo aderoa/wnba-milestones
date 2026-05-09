@@ -6,14 +6,26 @@ ESPN every 2 minutes during game windows.
 Tracks **PTS, REB, AST, BLK, STL, FG3M, TOV, PF** for all active players,
 detecting top-200 rank passes/ties and every multiple of 100 in career totals.
 
+## 📊 Live dashboard
+
+**[aderoa.github.io/wnba-milestones](https://aderoa.github.io/wnba-milestones/)** — auto-refreshing leaderboards with live in-game overlay and recent milestone events. The page reads `data/leaderboards_live.json` (regenerated every 2 min by the cron) and refreshes itself every 60 seconds.
+
+For browsing the raw markdown artifacts directly on GitHub:
+
+- **[LEADERBOARDS.md](LEADERBOARDS.md)** — markdown version of the rankings
+- **[MILESTONES.md](MILESTONES.md)** — newest-first event log of fired milestones
+
 ## What gets surfaced
 
 | File | What it shows | Updates |
 |------|---------------|---------|
+| `index.html` | The dashboard rendered from `data/leaderboards_live.json` | Each cron tick (auto-refresh on the page every 60s) |
 | `MILESTONES.md` | Discrete milestone events (Stewart passed Jackson, Bonner hit 7,800 reb) — newest at top | Each poll that fires anything new |
 | `LEADERBOARDS.md` | Current top-200 in each stat with **live in-game totals** for players currently playing (🔴 + delta) | Every poll, regardless of milestones |
-| `data/fired_milestones.json` | Structured dedup ledger of every fired milestone — useful for dashboards/queries | Each poll |
-| Actions tab job summary | Per-tick view: active games + new milestones (visible in Actions UI) | Every poll |
+| `data/leaderboards_live.json` | Compact JSON snapshot used by the dashboard | Every poll |
+| `data/milestones_log.json` | Structured event log (last 250 fires) | Each poll that fires anything |
+| `data/fired_milestones.json` | Dedup ledger (just keys) | Each poll |
+| Actions tab job summary | Per-tick view: active games + new milestones | Every poll |
 
 ## Architecture
 
@@ -56,13 +68,15 @@ No secrets. No external storage beyond this repo.
 ## Setup
 
 1. Create the repo (`aderoa/wnba-milestones`) and push these files.
-2. **Smoke test** — Actions tab → "WNBA Milestones Tracker" → "Run workflow"
+2. **Enable GitHub Pages** — Settings → Pages → Branch: `main`, folder: `/ (root)`. Save. After ~1 minute, the dashboard will be live at `https://<your-username>.github.io/wnba-milestones/`.
+3. **Smoke test** — Actions tab → "WNBA Milestones Tracker" → "Run workflow"
    with `dry_run = true`. Should finish without error and print active games
    in the run log.
-3. **Live test** — once today's games tip off (4:30 PT for NYL @ CON), trigger
-   another run without `dry_run`. If anyone hit a milestone in that window,
-   `MILESTONES.md` will appear (or update) on the next commit by the bot.
-4. Cron takes over from there: `*/2 22-23 * * *` and `*/2 0-5 * * *` UTC.
+4. **Live test** — once today's games tip off (4:30 PT for NYL @ CON), trigger
+   another run without `dry_run`. The dashboard will start showing live deltas
+   on the next page refresh (auto every 60s, or hard-refresh).
+5. Cron takes over from there: `*/2 22-23 * * *` and `*/2 0-5 * * *` UTC for
+   the live tracker, plus a daily `0 11 * * *` UTC for the season refresh.
 
 ## Maintenance
 
