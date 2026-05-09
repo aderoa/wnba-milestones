@@ -279,12 +279,28 @@ def match_player(name, espn_id, by_norm, by_pid, id_map, unmatched):
 def format_event_md(e):
     stat_name = STAT_LABEL.get(e["stat"], e["stat"])
     if e["kind"] == "rank_pass":
-        line = (f"**{e['player']}** passed **{e['passed_player']}** for "
-                f"**#{e['rank']}** all-time in {stat_name} "
-                f"(career {e['new_total']:,})")
-        line += _rank_movement_suffix(e)
+        # Backward compat: support both new `passed_players` (list) and
+        # legacy `passed_player` (single string) from older events.
+        players = e.get("passed_players") or (
+            [e["passed_player"]] if e.get("passed_player") else []
+        )
+        if not players:
+            line = json.dumps(e)
+        else:
+            if len(players) == 1:
+                names = f"**{players[0]}**"
+            elif len(players) == 2:
+                names = f"**{players[0]}** and **{players[1]}**"
+            else:
+                names = (", ".join(f"**{p}**" for p in players[:-1])
+                         + f", and **{players[-1]}**")
+            line = (f"**{e['player']}** passed {names} for "
+                    f"**#{e['rank']}** all-time in {stat_name} "
+                    f"(career {e['new_total']:,})")
+            line += _rank_movement_suffix(e)
     elif e["kind"] == "rank_tie":
-        line = (f"**{e['player']}** tied **{e['passed_player']}** for "
+        # Legacy events only — firing logic no longer creates ties.
+        line = (f"**{e['player']}** tied **{e.get('passed_player', 'unknown')}** for "
                 f"**#{e['rank']}** all-time in {stat_name} "
                 f"(career {e['new_total']:,})")
         line += _rank_movement_suffix(e)
@@ -362,6 +378,9 @@ def parse_milestones_md(md_path):
     Used to derive milestones_log.json on every track.py run, ensuring the
     structured log always reflects the canonical markdown — including events
     from previous runs whose JSON file wasn't committed.
+
+    Tie events (legacy from before the firing logic was changed) are filtered
+    out so the dashboard only shows pass + round milestones.
     """
     if not md_path.exists():
         return []
@@ -384,6 +403,9 @@ def parse_milestones_md(md_path):
             text_clean = line[2:]
             text_clean = _MD_BOLD_RE.sub(r'\1', text_clean)
             text_clean = _MD_ITALIC_RE.sub(r'(\1)', text_clean)
+            # Skip tie events (legacy, no longer fired but remain in MD history)
+            if " tied " in text_clean and " for #" in text_clean:
+                continue
             events.append({"ts": ts_iso, "text": text_clean})
     return events
 
@@ -500,28 +522,36 @@ def main():
                         "game_context": ctx,
                     })
 
-                # Rank pass / tie
+                # Rank passes — collect all passes for this (player, stat, tick)
+                # into a single consolidated event. Ties are skipped entirely
+                # (they were noise).
                 lb = leaderboards.get(stat) or []
                 # Look up start-of-day rank once per (player, stat) so we can
-                # annotate rank-change events with "up from #N entering today".
+                # annotate the event with "up from #N entering today".
                 entering_rank = get_entering_rank(pid, stat, leaderboards)
+                passes_this_tick = []
                 for ev in rank_pass_events(stat, lb, pid, prev, new_total):
-                    if ev["type"] == "pass":
-                        kind = "rank_pass"
-                        key_val = f"pass_{ev['rank']}_{ev['passed_player_id']}"
-                    else:
-                        kind = "rank_tie"
-                        key_val = f"tie_{ev['rank']}_{ev['passed_player_id']}"
-                    key = fired_key(pid, stat, kind, key_val)
+                    if ev["type"] != "pass":
+                        continue  # skip ties
+                    key_val = f"pass_{ev['rank']}_{ev['passed_player_id']}"
+                    key = fired_key(pid, stat, "rank_pass", key_val)
                     if key in fired:
                         continue
                     fired.add(key)
+                    passes_this_tick.append(ev)
+
+                if passes_this_tick:
+                    # Best rank reached = lowest rank number among passes
+                    best_rank = min(p["rank"] for p in passes_this_tick)
+                    passed_names = [p["passed_player"] for p in passes_this_tick]
+                    passed_ids = [p["passed_player_id"] for p in passes_this_tick]
                     new_events.append({
-                        "kind": kind, "player": rec["player_name"], "player_id": pid,
-                        "stat": stat, "rank": ev["rank"],
-                        "passed_player": ev["passed_player"],
-                        "passed_player_id": ev["passed_player_id"],
-                        "new_total": new_total, "threshold": ev["threshold"],
+                        "kind": "rank_pass",
+                        "player": rec["player_name"], "player_id": pid,
+                        "stat": stat, "rank": best_rank,
+                        "passed_players": passed_names,
+                        "passed_player_ids": passed_ids,
+                        "new_total": new_total,
                         "entering_rank": entering_rank,
                         "game_context": ctx,
                     })
@@ -563,6 +593,7 @@ def main():
             active_pids_in_games=active_pids_in_games,
             out_path=LB_MD_PATH,
             last_updated_utc=polled_at_utc,
+            leaderboards=leaderboards,
         )
         leaderboard.render_live_json(
             all_totals=all_totals,
@@ -572,6 +603,7 @@ def main():
             recent_milestones=recent_milestones,  # already newest-first
             out_path=LIVE_JSON_PATH,
             last_updated_utc=polled_at_utc,
+            leaderboards=leaderboards,
         )
         write_job_summary(new_events, polled_at_utc, active_games)
 
