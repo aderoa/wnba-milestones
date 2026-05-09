@@ -1,458 +1,1334 @@
 [
   {
     "ts": "2026-05-09T21:51:00+00:00",
-    "text": "NaLyssa Smith passed Tiffany Hayes for #146 all-time in blocks (career 88) \u2014 up from #149 entering today \u2014 (1:42 - 4th \u2014 PHX @ LV)"
+    "text": "NaLyssa Smith passed Tiffany Hayes for #146 all-time in blocks (career 88) \u2014 up from #149 entering today \u2014 (1:42 - 4th \u2014 PHX @ LV)",
+    "kind": "rank_pass",
+    "player": "NaLyssa Smith",
+    "stat": "blocks",
+    "rank": 146,
+    "passed_players": [
+      "Tiffany Hayes"
+    ],
+    "new_total": 88
   },
   {
     "ts": "2026-05-09T21:27:00+00:00",
-    "text": "Kahleah Copper passed Dearica Hamby for #55 all-time in points (career 4,092) \u2014 up from #56 entering today \u2014 (49.0 - 3rd \u2014 PHX @ LV)"
+    "text": "Kahleah Copper passed Dearica Hamby for #55 all-time in points (career 4,092) \u2014 up from #56 entering today \u2014 (49.0 - 3rd \u2014 PHX @ LV)",
+    "kind": "rank_pass",
+    "player": "Kahleah Copper",
+    "stat": "points",
+    "rank": 55,
+    "passed_players": [
+      "Dearica Hamby"
+    ],
+    "new_total": 4092
   },
   {
     "ts": "2026-05-09T21:11:00+00:00",
-    "text": "Alyssa Thomas reached 4,500 career points (now 4,500) \u2014 (8:07 - 3rd \u2014 PHX @ LV)"
+    "text": "Alyssa Thomas reached 4,500 career points (now 4,500) \u2014 (8:07 - 3rd \u2014 PHX @ LV)",
+    "kind": "round",
+    "player": "Alyssa Thomas",
+    "stat": "points",
+    "value": 4500,
+    "new_total": 4500
   },
   {
     "ts": "2026-05-09T21:11:00+00:00",
-    "text": "Natasha Mack reached 100 career blocks (now 100) \u2014 (8:07 - 3rd \u2014 PHX @ LV)"
+    "text": "Natasha Mack reached 100 career blocks (now 100) \u2014 (8:07 - 3rd \u2014 PHX @ LV)",
+    "kind": "round",
+    "player": "Natasha Mack",
+    "stat": "blocks",
+    "value": 100,
+    "new_total": 100
   },
   {
     "ts": "2026-05-09T21:11:00+00:00",
-    "text": "NaLyssa Smith passed Le'coe Willingham for #118 all-time in rebounds (career 1,055) \u2014 up from #119 entering today \u2014 (8:07 - 3rd \u2014 PHX @ LV)"
+    "text": "NaLyssa Smith passed Le'coe Willingham for #118 all-time in rebounds (career 1,055) \u2014 up from #119 entering today \u2014 (8:07 - 3rd \u2014 PHX @ LV)",
+    "kind": "rank_pass",
+    "player": "NaLyssa Smith",
+    "stat": "rebounds",
+    "rank": 118,
+    "passed_players": [
+      "Le'coe Willingham"
+    ],
+    "new_total": 1055
   },
   {
     "ts": "2026-05-09T21:11:00+00:00",
-    "text": "NaLyssa Smith passed Astou Ndiaye-Diatta for #147 all-time in blocks (career 87) \u2014 up from #149 entering today \u2014 (8:07 - 3rd \u2014 PHX @ LV)"
+    "text": "NaLyssa Smith passed Astou Ndiaye-Diatta for #147 all-time in blocks (career 87) \u2014 up from #149 entering today \u2014 (8:07 - 3rd \u2014 PHX @ LV)",
+    "kind": "rank_pass",
+    "player": "NaLyssa Smith",
+    "stat": "blocks",
+    "rank": 147,
+    "passed_players": [
+      "Astou Ndiaye-Diatta"
+    ],
+    "new_total": 87
   },
   {
     "ts": "2026-05-09T21:11:00+00:00",
-    "text": "NaLyssa Smith passed Kayla Thornton for #148 all-time in blocks (career 87) \u2014 up from #149 entering today \u2014 (8:07 - 3rd \u2014 PHX @ LV)"
+    "text": "NaLyssa Smith passed Kayla Thornton for #148 all-time in blocks (career 87) \u2014 up from #149 entering today \u2014 (8:07 - 3rd \u2014 PHX @ LV)",
+    "kind": "rank_pass",
+    "player": "NaLyssa Smith",
+    "stat": "blocks",
+    "rank": 148,
+    "passed_players": [
+      "Kayla Thornton"
+    ],
+    "new_total": 87
   },
   {
     "ts": "2026-05-09T21:11:00+00:00",
-    "text": "Jackie Young passed DeLisha Milton-Jones for #64 all-time in three-pointers (career 313) \u2014 up from #66 entering today \u2014 (8:07 - 3rd \u2014 PHX @ LV)"
+    "text": "Jackie Young passed DeLisha Milton-Jones for #64 all-time in three-pointers (career 313) \u2014 up from #66 entering today \u2014 (8:07 - 3rd \u2014 PHX @ LV)",
+    "kind": "rank_pass",
+    "player": "Jackie Young",
+    "stat": "three-pointers",
+    "rank": 64,
+    "passed_players": [
+      "DeLisha Milton-Jones"
+    ],
+    "new_total": 313
   },
   {
     "ts": "2026-05-09T21:11:00+00:00",
-    "text": "Jackie Young passed Ruthie Bolton for #65 all-time in three-pointers (career 313) \u2014 up from #66 entering today \u2014 (8:07 - 3rd \u2014 PHX @ LV)"
+    "text": "Jackie Young passed Ruthie Bolton for #65 all-time in three-pointers (career 313) \u2014 up from #66 entering today \u2014 (8:07 - 3rd \u2014 PHX @ LV)",
+    "kind": "rank_pass",
+    "player": "Jackie Young",
+    "stat": "three-pointers",
+    "rank": 65,
+    "passed_players": [
+      "Ruthie Bolton"
+    ],
+    "new_total": 313
   },
   {
     "ts": "2026-05-09T21:11:00+00:00",
-    "text": "Jackie Young passed Shameka Christon for #137 all-time in turnovers (career 426) \u2014 (8:07 - 3rd \u2014 PHX @ LV)"
+    "text": "Jackie Young passed Shameka Christon for #137 all-time in turnovers (career 426) \u2014 (8:07 - 3rd \u2014 PHX @ LV)",
+    "kind": "rank_pass",
+    "player": "Jackie Young",
+    "stat": "turnovers",
+    "rank": 137,
+    "passed_players": [
+      "Shameka Christon"
+    ],
+    "new_total": 426
   },
   {
     "ts": "2026-05-09T20:28:00+00:00",
-    "text": "A'ja Wilson passed Alysha Clark for #96 all-time in assists (career 615) \u2014 up from #97 entering today \u2014 (7:59 - 2nd \u2014 PHX @ LV)"
+    "text": "A'ja Wilson passed Alysha Clark for #96 all-time in assists (career 615) \u2014 up from #97 entering today \u2014 (7:59 - 2nd \u2014 PHX @ LV)",
+    "kind": "rank_pass",
+    "player": "A'ja Wilson",
+    "stat": "assists",
+    "rank": 96,
+    "passed_players": [
+      "Alysha Clark"
+    ],
+    "new_total": 615
   },
   {
     "ts": "2026-05-09T20:28:00+00:00",
-    "text": "Chelsea Gray passed Candice Dupree for #23 all-time in turnovers (career 871) \u2014 up from #24 entering today \u2014 (7:59 - 2nd \u2014 PHX @ LV)"
+    "text": "Chelsea Gray passed Candice Dupree for #23 all-time in turnovers (career 871) \u2014 up from #24 entering today \u2014 (7:59 - 2nd \u2014 PHX @ LV)",
+    "kind": "rank_pass",
+    "player": "Chelsea Gray",
+    "stat": "turnovers",
+    "rank": 23,
+    "passed_players": [
+      "Candice Dupree"
+    ],
+    "new_total": 871
   },
   {
     "ts": "2026-05-09T20:28:00+00:00",
-    "text": "Jackie Young passed Tiffany Jackson for #130 all-time in rebounds (career 1,005) \u2014 (7:59 - 2nd \u2014 PHX @ LV)"
+    "text": "Jackie Young passed Tiffany Jackson for #130 all-time in rebounds (career 1,005) \u2014 (7:59 - 2nd \u2014 PHX @ LV)",
+    "kind": "rank_pass",
+    "player": "Jackie Young",
+    "stat": "rebounds",
+    "rank": 130,
+    "passed_players": [
+      "Tiffany Jackson"
+    ],
+    "new_total": 1005
   },
   {
     "ts": "2026-05-09T20:28:00+00:00",
-    "text": "Jackie Young passed Tan White for #67 all-time in three-pointers (career 312) \u2014 (7:59 - 2nd \u2014 PHX @ LV)"
+    "text": "Jackie Young passed Tan White for #67 all-time in three-pointers (career 312) \u2014 (7:59 - 2nd \u2014 PHX @ LV)",
+    "kind": "rank_pass",
+    "player": "Jackie Young",
+    "stat": "three-pointers",
+    "rank": 67,
+    "passed_players": [
+      "Tan White"
+    ],
+    "new_total": 312
   },
   {
     "ts": "2026-05-09T20:28:00+00:00",
-    "text": "Jewell Loyd passed Jasmine Thomas for #140 all-time in blocks (career 92) \u2014 up from #141 entering today \u2014 (7:59 - 2nd \u2014 PHX @ LV)"
+    "text": "Jewell Loyd passed Jasmine Thomas for #140 all-time in blocks (career 92) \u2014 up from #141 entering today \u2014 (7:59 - 2nd \u2014 PHX @ LV)",
+    "kind": "rank_pass",
+    "player": "Jewell Loyd",
+    "stat": "blocks",
+    "rank": 140,
+    "passed_players": [
+      "Jasmine Thomas"
+    ],
+    "new_total": 92
   },
   {
     "ts": "2026-05-09T20:28:00+00:00",
-    "text": "Jewell Loyd passed Kayla Alexander for #142 all-time in blocks (career 92) \u2014 (7:59 - 2nd \u2014 PHX @ LV)"
+    "text": "Jewell Loyd passed Kayla Alexander for #142 all-time in blocks (career 92) \u2014 (7:59 - 2nd \u2014 PHX @ LV)",
+    "kind": "rank_pass",
+    "player": "Jewell Loyd",
+    "stat": "blocks",
+    "rank": 142,
+    "passed_players": [
+      "Kayla Alexander"
+    ],
+    "new_total": 92
   },
   {
     "ts": "2026-05-09T19:44:00+00:00",
-    "text": "Jessica Shepard passed Amanda Zahui B for #162 all-time in rebounds (career 822) \u2014 up from #166 entering today \u2014 (Final \u2014 DAL @ IND)"
+    "text": "Jessica Shepard passed Amanda Zahui B for #162 all-time in rebounds (career 822) \u2014 up from #166 entering today \u2014 (Final \u2014 DAL @ IND)",
+    "kind": "rank_pass",
+    "player": "Jessica Shepard",
+    "stat": "rebounds",
+    "rank": 162,
+    "passed_players": [
+      "Amanda Zahui B"
+    ],
+    "new_total": 822
   },
   {
     "ts": "2026-05-09T19:44:00+00:00",
-    "text": "Jessica Shepard passed Barbara Farris for #163 all-time in rebounds (career 822) \u2014 up from #166 entering today \u2014 (Final \u2014 DAL @ IND)"
+    "text": "Jessica Shepard passed Barbara Farris for #163 all-time in rebounds (career 822) \u2014 up from #166 entering today \u2014 (Final \u2014 DAL @ IND)",
+    "kind": "rank_pass",
+    "player": "Jessica Shepard",
+    "stat": "rebounds",
+    "rank": 163,
+    "passed_players": [
+      "Barbara Farris"
+    ],
+    "new_total": 822
   },
   {
     "ts": "2026-05-09T19:44:00+00:00",
-    "text": "Jessica Shepard passed Marina Mabrey for #164 all-time in rebounds (career 822) \u2014 up from #166 entering today \u2014 (Final \u2014 DAL @ IND)"
+    "text": "Jessica Shepard passed Marina Mabrey for #164 all-time in rebounds (career 822) \u2014 up from #166 entering today \u2014 (Final \u2014 DAL @ IND)",
+    "kind": "rank_pass",
+    "player": "Jessica Shepard",
+    "stat": "rebounds",
+    "rank": 164,
+    "passed_players": [
+      "Marina Mabrey"
+    ],
+    "new_total": 822
   },
   {
     "ts": "2026-05-09T19:44:00+00:00",
-    "text": "Jessica Shepard passed Kristen Rasmussen for #195 all-time in assists (career 346) \u2014 up from #199 entering today \u2014 (Final \u2014 DAL @ IND)"
+    "text": "Jessica Shepard passed Kristen Rasmussen for #195 all-time in assists (career 346) \u2014 up from #199 entering today \u2014 (Final \u2014 DAL @ IND)",
+    "kind": "rank_pass",
+    "player": "Jessica Shepard",
+    "stat": "assists",
+    "rank": 195,
+    "passed_players": [
+      "Kristen Rasmussen"
+    ],
+    "new_total": 346
   },
   {
     "ts": "2026-05-09T19:44:00+00:00",
-    "text": "Jessica Shepard passed Penny Toler for #196 all-time in assists (career 346) \u2014 up from #199 entering today \u2014 (Final \u2014 DAL @ IND)"
+    "text": "Jessica Shepard passed Penny Toler for #196 all-time in assists (career 346) \u2014 up from #199 entering today \u2014 (Final \u2014 DAL @ IND)",
+    "kind": "rank_pass",
+    "player": "Jessica Shepard",
+    "stat": "assists",
+    "rank": 196,
+    "passed_players": [
+      "Penny Toler"
+    ],
+    "new_total": 346
   },
   {
     "ts": "2026-05-09T19:44:00+00:00",
-    "text": "Jessica Shepard passed Ezi Magbegor for #197 all-time in assists (career 346) \u2014 up from #199 entering today \u2014 (Final \u2014 DAL @ IND)"
+    "text": "Jessica Shepard passed Ezi Magbegor for #197 all-time in assists (career 346) \u2014 up from #199 entering today \u2014 (Final \u2014 DAL @ IND)",
+    "kind": "rank_pass",
+    "player": "Jessica Shepard",
+    "stat": "assists",
+    "rank": 197,
+    "passed_players": [
+      "Ezi Magbegor"
+    ],
+    "new_total": 346
   },
   {
     "ts": "2026-05-09T19:44:00+00:00",
-    "text": "Odyssey Sims passed Renee Montgomery for #69 all-time in points (career 3,534) \u2014 up from #71 entering today \u2014 (Final \u2014 DAL @ IND)"
+    "text": "Odyssey Sims passed Renee Montgomery for #69 all-time in points (career 3,534) \u2014 up from #71 entering today \u2014 (Final \u2014 DAL @ IND)",
+    "kind": "rank_pass",
+    "player": "Odyssey Sims",
+    "stat": "points",
+    "rank": 69,
+    "passed_players": [
+      "Renee Montgomery"
+    ],
+    "new_total": 3534
   },
   {
     "ts": "2026-05-09T19:44:00+00:00",
-    "text": "Odyssey Sims passed Vickie Johnson for #26 all-time in assists (career 1,203) \u2014 up from #27 entering today \u2014 (Final \u2014 DAL @ IND)"
+    "text": "Odyssey Sims passed Vickie Johnson for #26 all-time in assists (career 1,203) \u2014 up from #27 entering today \u2014 (Final \u2014 DAL @ IND)",
+    "kind": "rank_pass",
+    "player": "Odyssey Sims",
+    "stat": "assists",
+    "rank": 26,
+    "passed_players": [
+      "Vickie Johnson"
+    ],
+    "new_total": 1203
   },
   {
     "ts": "2026-05-09T19:44:00+00:00",
-    "text": "Aliyah Boston passed Danielle Adams for #178 all-time in points (career 1,821) \u2014 up from #180 entering today \u2014 (Final \u2014 DAL @ IND)"
+    "text": "Aliyah Boston passed Danielle Adams for #178 all-time in points (career 1,821) \u2014 up from #180 entering today \u2014 (Final \u2014 DAL @ IND)",
+    "kind": "rank_pass",
+    "player": "Aliyah Boston",
+    "stat": "points",
+    "rank": 178,
+    "passed_players": [
+      "Danielle Adams"
+    ],
+    "new_total": 1821
   },
   {
     "ts": "2026-05-09T19:44:00+00:00",
-    "text": "Aliyah Boston passed Damiris Dantas for #179 all-time in points (career 1,821) \u2014 up from #180 entering today \u2014 (Final \u2014 DAL @ IND)"
+    "text": "Aliyah Boston passed Damiris Dantas for #179 all-time in points (career 1,821) \u2014 up from #180 entering today \u2014 (Final \u2014 DAL @ IND)",
+    "kind": "rank_pass",
+    "player": "Aliyah Boston",
+    "stat": "points",
+    "rank": 179,
+    "passed_players": [
+      "Damiris Dantas"
+    ],
+    "new_total": 1821
   },
   {
     "ts": "2026-05-09T19:44:00+00:00",
-    "text": "Aliyah Boston passed Le'coe Willingham for #118 all-time in rebounds (career 1,055) \u2014 up from #120 entering today \u2014 (Final \u2014 DAL @ IND)"
+    "text": "Aliyah Boston passed Le'coe Willingham for #118 all-time in rebounds (career 1,055) \u2014 up from #120 entering today \u2014 (Final \u2014 DAL @ IND)",
+    "kind": "rank_pass",
+    "player": "Aliyah Boston",
+    "stat": "rebounds",
+    "rank": 118,
+    "passed_players": [
+      "Le'coe Willingham"
+    ],
+    "new_total": 1055
   },
   {
     "ts": "2026-05-09T19:44:00+00:00",
-    "text": "Aliyah Boston passed NaLyssa Smith for #119 all-time in rebounds (career 1,055) \u2014 up from #120 entering today \u2014 (Final \u2014 DAL @ IND)"
+    "text": "Aliyah Boston passed NaLyssa Smith for #119 all-time in rebounds (career 1,055) \u2014 up from #120 entering today \u2014 (Final \u2014 DAL @ IND)",
+    "kind": "rank_pass",
+    "player": "Aliyah Boston",
+    "stat": "rebounds",
+    "rank": 119,
+    "passed_players": [
+      "NaLyssa Smith"
+    ],
+    "new_total": 1055
   },
   {
     "ts": "2026-05-09T19:44:00+00:00",
-    "text": "Kelsey Mitchell passed Chiney Ogwumike for #126 all-time in fouls (career 583) \u2014 up from #129 entering today \u2014 (Final \u2014 DAL @ IND)"
+    "text": "Kelsey Mitchell passed Chiney Ogwumike for #126 all-time in fouls (career 583) \u2014 up from #129 entering today \u2014 (Final \u2014 DAL @ IND)",
+    "kind": "rank_pass",
+    "player": "Kelsey Mitchell",
+    "stat": "fouls",
+    "rank": 126,
+    "passed_players": [
+      "Chiney Ogwumike"
+    ],
+    "new_total": 583
   },
   {
     "ts": "2026-05-09T19:44:00+00:00",
-    "text": "Kelsey Mitchell passed Hamchetou Maiga-Ba for #127 all-time in fouls (career 583) \u2014 up from #129 entering today \u2014 (Final \u2014 DAL @ IND)"
+    "text": "Kelsey Mitchell passed Hamchetou Maiga-Ba for #127 all-time in fouls (career 583) \u2014 up from #129 entering today \u2014 (Final \u2014 DAL @ IND)",
+    "kind": "rank_pass",
+    "player": "Kelsey Mitchell",
+    "stat": "fouls",
+    "rank": 127,
+    "passed_players": [
+      "Hamchetou Maiga-Ba"
+    ],
+    "new_total": 583
   },
   {
     "ts": "2026-05-09T19:44:00+00:00",
-    "text": "Kelsey Mitchell passed Olympia Scott for #128 all-time in fouls (career 583) \u2014 up from #129 entering today \u2014 (Final \u2014 DAL @ IND)"
+    "text": "Kelsey Mitchell passed Olympia Scott for #128 all-time in fouls (career 583) \u2014 up from #129 entering today \u2014 (Final \u2014 DAL @ IND)",
+    "kind": "rank_pass",
+    "player": "Kelsey Mitchell",
+    "stat": "fouls",
+    "rank": 128,
+    "passed_players": [
+      "Olympia Scott"
+    ],
+    "new_total": 583
   },
   {
     "ts": "2026-05-09T19:44:00+00:00",
-    "text": "Caitlin Clark reached 1,000 career points (now 1,003) \u2014 (Final \u2014 DAL @ IND)"
+    "text": "Caitlin Clark reached 1,000 career points (now 1,003) \u2014 (Final \u2014 DAL @ IND)",
+    "kind": "round",
+    "player": "Caitlin Clark",
+    "stat": "points",
+    "value": 1000,
+    "new_total": 1003
   },
   {
     "ts": "2026-05-09T18:38:00+00:00",
-    "text": "Jessica Shepard passed Sonja Henning for #198 all-time in assists (career 344) \u2014 up from #199 entering today \u2014 (17.6 - 3rd \u2014 DAL @ IND)"
+    "text": "Jessica Shepard passed Sonja Henning for #198 all-time in assists (career 344) \u2014 up from #199 entering today \u2014 (17.6 - 3rd \u2014 DAL @ IND)",
+    "kind": "rank_pass",
+    "player": "Jessica Shepard",
+    "stat": "assists",
+    "rank": 198,
+    "passed_players": [
+      "Sonja Henning"
+    ],
+    "new_total": 344
   },
   {
     "ts": "2026-05-09T18:38:00+00:00",
-    "text": "Alanna Smith passed Kayla Thornton for #186 all-time in assists (career 356) \u2014 (17.6 - 3rd \u2014 DAL @ IND)"
+    "text": "Alanna Smith passed Kayla Thornton for #186 all-time in assists (career 356) \u2014 (17.6 - 3rd \u2014 DAL @ IND)",
+    "kind": "rank_pass",
+    "player": "Alanna Smith",
+    "stat": "assists",
+    "rank": 186,
+    "passed_players": [
+      "Kayla Thornton"
+    ],
+    "new_total": 356
   },
   {
     "ts": "2026-05-09T18:38:00+00:00",
-    "text": "Alanna Smith passed Merlakia Jones for #187 all-time in assists (career 356) \u2014 (17.6 - 3rd \u2014 DAL @ IND)"
+    "text": "Alanna Smith passed Merlakia Jones for #187 all-time in assists (career 356) \u2014 (17.6 - 3rd \u2014 DAL @ IND)",
+    "kind": "rank_pass",
+    "player": "Alanna Smith",
+    "stat": "assists",
+    "rank": 187,
+    "passed_players": [
+      "Merlakia Jones"
+    ],
+    "new_total": 356
   },
   {
     "ts": "2026-05-09T18:38:00+00:00",
-    "text": "Alanna Smith passed Erin Phillips for #183 all-time in steals (career 183) \u2014 (17.6 - 3rd \u2014 DAL @ IND)"
+    "text": "Alanna Smith passed Erin Phillips for #183 all-time in steals (career 183) \u2014 (17.6 - 3rd \u2014 DAL @ IND)",
+    "kind": "rank_pass",
+    "player": "Alanna Smith",
+    "stat": "steals",
+    "rank": 183,
+    "passed_players": [
+      "Erin Phillips"
+    ],
+    "new_total": 183
   },
   {
     "ts": "2026-05-09T18:38:00+00:00",
-    "text": "Alanna Smith passed Sabrina Ionescu for #184 all-time in steals (career 183) \u2014 (17.6 - 3rd \u2014 DAL @ IND)"
+    "text": "Alanna Smith passed Sabrina Ionescu for #184 all-time in steals (career 183) \u2014 (17.6 - 3rd \u2014 DAL @ IND)",
+    "kind": "rank_pass",
+    "player": "Alanna Smith",
+    "stat": "steals",
+    "rank": 184,
+    "passed_players": [
+      "Sabrina Ionescu"
+    ],
+    "new_total": 183
   },
   {
     "ts": "2026-05-09T18:38:00+00:00",
-    "text": "Odyssey Sims passed Jasmine Thomas for #70 all-time in points (career 3,529) \u2014 up from #71 entering today \u2014 (17.6 - 3rd \u2014 DAL @ IND)"
+    "text": "Odyssey Sims passed Jasmine Thomas for #70 all-time in points (career 3,529) \u2014 up from #71 entering today \u2014 (17.6 - 3rd \u2014 DAL @ IND)",
+    "kind": "rank_pass",
+    "player": "Odyssey Sims",
+    "stat": "points",
+    "rank": 70,
+    "passed_players": [
+      "Jasmine Thomas"
+    ],
+    "new_total": 3529
   },
   {
     "ts": "2026-05-09T18:38:00+00:00",
-    "text": "Odyssey Sims reached 600 career fouls (now 600) \u2014 (17.6 - 3rd \u2014 DAL @ IND)"
+    "text": "Odyssey Sims reached 600 career fouls (now 600) \u2014 (17.6 - 3rd \u2014 DAL @ IND)",
+    "kind": "round",
+    "player": "Odyssey Sims",
+    "stat": "fouls",
+    "value": 600,
+    "new_total": 600
   },
   {
     "ts": "2026-05-09T18:38:00+00:00",
-    "text": "Arike Ogunbowale passed Kristi Toliver for #39 all-time in points (career 4,481) \u2014 up from #40 entering today \u2014 (17.6 - 3rd \u2014 DAL @ IND)"
+    "text": "Arike Ogunbowale passed Kristi Toliver for #39 all-time in points (career 4,481) \u2014 up from #40 entering today \u2014 (17.6 - 3rd \u2014 DAL @ IND)",
+    "kind": "rank_pass",
+    "player": "Arike Ogunbowale",
+    "stat": "points",
+    "rank": 39,
+    "passed_players": [
+      "Kristi Toliver"
+    ],
+    "new_total": 4481
   },
   {
     "ts": "2026-05-09T18:38:00+00:00",
-    "text": "Arike Ogunbowale passed Ashley Robinson for #132 all-time in fouls (career 568) \u2014 up from #133 entering today \u2014 (17.6 - 3rd \u2014 DAL @ IND)"
+    "text": "Arike Ogunbowale passed Ashley Robinson for #132 all-time in fouls (career 568) \u2014 up from #133 entering today \u2014 (17.6 - 3rd \u2014 DAL @ IND)",
+    "kind": "rank_pass",
+    "player": "Arike Ogunbowale",
+    "stat": "fouls",
+    "rank": 132,
+    "passed_players": [
+      "Ashley Robinson"
+    ],
+    "new_total": 568
   },
   {
     "ts": "2026-05-09T18:38:00+00:00",
-    "text": "Arike Ogunbowale passed Ivory Latta for #134 all-time in fouls (career 568) \u2014 (17.6 - 3rd \u2014 DAL @ IND)"
+    "text": "Arike Ogunbowale passed Ivory Latta for #134 all-time in fouls (career 568) \u2014 (17.6 - 3rd \u2014 DAL @ IND)",
+    "kind": "rank_pass",
+    "player": "Arike Ogunbowale",
+    "stat": "fouls",
+    "rank": 134,
+    "passed_players": [
+      "Ivory Latta"
+    ],
+    "new_total": 568
   },
   {
     "ts": "2026-05-09T18:38:00+00:00",
-    "text": "Kelsey Mitchell reached 800 career assists (now 802) \u2014 (17.6 - 3rd \u2014 DAL @ IND)"
+    "text": "Kelsey Mitchell reached 800 career assists (now 802) \u2014 (17.6 - 3rd \u2014 DAL @ IND)",
+    "kind": "round",
+    "player": "Kelsey Mitchell",
+    "stat": "assists",
+    "value": 800,
+    "new_total": 802
   },
   {
     "ts": "2026-05-09T18:38:00+00:00",
-    "text": "Kelsey Mitchell passed Epiphanny Prince for #70 all-time in assists (career 802) \u2014 up from #71 entering today \u2014 (17.6 - 3rd \u2014 DAL @ IND)"
+    "text": "Kelsey Mitchell passed Epiphanny Prince for #70 all-time in assists (career 802) \u2014 up from #71 entering today \u2014 (17.6 - 3rd \u2014 DAL @ IND)",
+    "kind": "rank_pass",
+    "player": "Kelsey Mitchell",
+    "stat": "assists",
+    "rank": 70,
+    "passed_players": [
+      "Epiphanny Prince"
+    ],
+    "new_total": 802
   },
   {
     "ts": "2026-05-09T18:38:00+00:00",
-    "text": "Sophie Cunningham reached 300 career assists (now 300) \u2014 (17.6 - 3rd \u2014 DAL @ IND)"
+    "text": "Sophie Cunningham reached 300 career assists (now 300) \u2014 (17.6 - 3rd \u2014 DAL @ IND)",
+    "kind": "round",
+    "player": "Sophie Cunningham",
+    "stat": "assists",
+    "value": 300,
+    "new_total": 300
   },
   {
     "ts": "2026-05-09T18:38:00+00:00",
-    "text": "Sophie Cunningham passed Merlakia Jones for #162 all-time in fouls (career 507) \u2014 up from #168 entering today \u2014 (17.6 - 3rd \u2014 DAL @ IND)"
+    "text": "Sophie Cunningham passed Merlakia Jones for #162 all-time in fouls (career 507) \u2014 up from #168 entering today \u2014 (17.6 - 3rd \u2014 DAL @ IND)",
+    "kind": "rank_pass",
+    "player": "Sophie Cunningham",
+    "stat": "fouls",
+    "rank": 162,
+    "passed_players": [
+      "Merlakia Jones"
+    ],
+    "new_total": 507
   },
   {
     "ts": "2026-05-09T18:38:00+00:00",
-    "text": "Sophie Cunningham passed Rushia Brown for #163 all-time in fouls (career 507) \u2014 up from #168 entering today \u2014 (17.6 - 3rd \u2014 DAL @ IND)"
+    "text": "Sophie Cunningham passed Rushia Brown for #163 all-time in fouls (career 507) \u2014 up from #168 entering today \u2014 (17.6 - 3rd \u2014 DAL @ IND)",
+    "kind": "rank_pass",
+    "player": "Sophie Cunningham",
+    "stat": "fouls",
+    "rank": 163,
+    "passed_players": [
+      "Rushia Brown"
+    ],
+    "new_total": 507
   },
   {
     "ts": "2026-05-09T18:38:00+00:00",
-    "text": "Sophie Cunningham passed Shekinna Stricklen for #164 all-time in fouls (career 507) \u2014 up from #168 entering today \u2014 (17.6 - 3rd \u2014 DAL @ IND)"
+    "text": "Sophie Cunningham passed Shekinna Stricklen for #164 all-time in fouls (career 507) \u2014 up from #168 entering today \u2014 (17.6 - 3rd \u2014 DAL @ IND)",
+    "kind": "rank_pass",
+    "player": "Sophie Cunningham",
+    "stat": "fouls",
+    "rank": 164,
+    "passed_players": [
+      "Shekinna Stricklen"
+    ],
+    "new_total": 507
   },
   {
     "ts": "2026-05-09T18:38:00+00:00",
-    "text": "Sophie Cunningham passed Allison Feaster for #165 all-time in fouls (career 507) \u2014 up from #168 entering today \u2014 (17.6 - 3rd \u2014 DAL @ IND)"
+    "text": "Sophie Cunningham passed Allison Feaster for #165 all-time in fouls (career 507) \u2014 up from #168 entering today \u2014 (17.6 - 3rd \u2014 DAL @ IND)",
+    "kind": "rank_pass",
+    "player": "Sophie Cunningham",
+    "stat": "fouls",
+    "rank": 165,
+    "passed_players": [
+      "Allison Feaster"
+    ],
+    "new_total": 507
   },
   {
     "ts": "2026-05-09T18:38:00+00:00",
-    "text": "Sophie Cunningham passed Erin Perperoglou for #166 all-time in fouls (career 507) \u2014 up from #168 entering today \u2014 (17.6 - 3rd \u2014 DAL @ IND)"
+    "text": "Sophie Cunningham passed Erin Perperoglou for #166 all-time in fouls (career 507) \u2014 up from #168 entering today \u2014 (17.6 - 3rd \u2014 DAL @ IND)",
+    "kind": "rank_pass",
+    "player": "Sophie Cunningham",
+    "stat": "fouls",
+    "rank": 166,
+    "passed_players": [
+      "Erin Perperoglou"
+    ],
+    "new_total": 507
   },
   {
     "ts": "2026-05-09T18:38:00+00:00",
-    "text": "Sophie Cunningham passed Napheesa Collier for #167 all-time in fouls (career 507) \u2014 up from #168 entering today \u2014 (17.6 - 3rd \u2014 DAL @ IND)"
+    "text": "Sophie Cunningham passed Napheesa Collier for #167 all-time in fouls (career 507) \u2014 up from #168 entering today \u2014 (17.6 - 3rd \u2014 DAL @ IND)",
+    "kind": "rank_pass",
+    "player": "Sophie Cunningham",
+    "stat": "fouls",
+    "rank": 167,
+    "passed_players": [
+      "Napheesa Collier"
+    ],
+    "new_total": 507
   },
   {
     "ts": "2026-05-09T18:38:00+00:00",
-    "text": "Caitlin Clark passed Sydney Colson for #138 all-time in assists (career 457) \u2014 up from #139 entering today \u2014 (17.6 - 3rd \u2014 DAL @ IND)"
+    "text": "Caitlin Clark passed Sydney Colson for #138 all-time in assists (career 457) \u2014 up from #139 entering today \u2014 (17.6 - 3rd \u2014 DAL @ IND)",
+    "kind": "rank_pass",
+    "player": "Caitlin Clark",
+    "stat": "assists",
+    "rank": 138,
+    "passed_players": [
+      "Sydney Colson"
+    ],
+    "new_total": 457
   },
   {
     "ts": "2026-05-09T18:38:00+00:00",
-    "text": "Caitlin Clark passed Alanna Smith for #141 all-time in three-pointers (career 153) \u2014 up from #142 entering today \u2014 (17.6 - 3rd \u2014 DAL @ IND)"
+    "text": "Caitlin Clark passed Alanna Smith for #141 all-time in three-pointers (career 153) \u2014 up from #142 entering today \u2014 (17.6 - 3rd \u2014 DAL @ IND)",
+    "kind": "rank_pass",
+    "player": "Caitlin Clark",
+    "stat": "three-pointers",
+    "rank": 141,
+    "passed_players": [
+      "Alanna Smith"
+    ],
+    "new_total": 153
   },
   {
     "ts": "2026-05-09T18:38:00+00:00",
-    "text": "Damiris Dantas passed Danielle Adams for #178 all-time in points (career 1,821) \u2014 up from #179 entering today \u2014 (17.6 - 3rd \u2014 DAL @ IND)"
+    "text": "Damiris Dantas passed Danielle Adams for #178 all-time in points (career 1,821) \u2014 up from #179 entering today \u2014 (17.6 - 3rd \u2014 DAL @ IND)",
+    "kind": "rank_pass",
+    "player": "Damiris Dantas",
+    "stat": "points",
+    "rank": 178,
+    "passed_players": [
+      "Danielle Adams"
+    ],
+    "new_total": 1821
   },
   {
     "ts": "2026-05-09T18:38:00+00:00",
-    "text": "Damiris Dantas passed Nykesha Sales for #162 all-time in blocks (career 81) \u2014 (17.6 - 3rd \u2014 DAL @ IND)"
+    "text": "Damiris Dantas passed Nykesha Sales for #162 all-time in blocks (career 81) \u2014 (17.6 - 3rd \u2014 DAL @ IND)",
+    "kind": "rank_pass",
+    "player": "Damiris Dantas",
+    "stat": "blocks",
+    "rank": 162,
+    "passed_players": [
+      "Nykesha Sales"
+    ],
+    "new_total": 81
   },
   {
     "ts": "2026-05-09T18:38:00+00:00",
-    "text": "Damiris Dantas passed Rushia Brown for #163 all-time in blocks (career 81) \u2014 (17.6 - 3rd \u2014 DAL @ IND)"
+    "text": "Damiris Dantas passed Rushia Brown for #163 all-time in blocks (career 81) \u2014 (17.6 - 3rd \u2014 DAL @ IND)",
+    "kind": "rank_pass",
+    "player": "Damiris Dantas",
+    "stat": "blocks",
+    "rank": 163,
+    "passed_players": [
+      "Rushia Brown"
+    ],
+    "new_total": 81
   },
   {
     "ts": "2026-05-09T18:38:00+00:00",
-    "text": "Damiris Dantas passed Sheryl Swoopes for #152 all-time in fouls (career 521) \u2014 up from #155 entering today \u2014 (17.6 - 3rd \u2014 DAL @ IND)"
+    "text": "Damiris Dantas passed Sheryl Swoopes for #152 all-time in fouls (career 521) \u2014 up from #155 entering today \u2014 (17.6 - 3rd \u2014 DAL @ IND)",
+    "kind": "rank_pass",
+    "player": "Damiris Dantas",
+    "stat": "fouls",
+    "rank": 152,
+    "passed_players": [
+      "Sheryl Swoopes"
+    ],
+    "new_total": 521
   },
   {
     "ts": "2026-05-09T17:44:00+00:00",
-    "text": "Alanna Smith passed Diamond DeShields for #199 all-time in fouls (career 446) \u2014 new to top 200 today \u2014 (4:21 - 2nd \u2014 DAL @ IND)"
+    "text": "Alanna Smith passed Diamond DeShields for #199 all-time in fouls (career 446) \u2014 new to top 200 today \u2014 (4:21 - 2nd \u2014 DAL @ IND)",
+    "kind": "rank_pass",
+    "player": "Alanna Smith",
+    "stat": "fouls",
+    "rank": 199,
+    "passed_players": [
+      "Diamond DeShields"
+    ],
+    "new_total": 446
   },
   {
     "ts": "2026-05-09T17:44:00+00:00",
-    "text": "Alanna Smith passed Sugar Rodgers for #200 all-time in fouls (career 446) \u2014 new to top 200 today \u2014 (4:21 - 2nd \u2014 DAL @ IND)"
+    "text": "Alanna Smith passed Sugar Rodgers for #200 all-time in fouls (career 446) \u2014 new to top 200 today \u2014 (4:21 - 2nd \u2014 DAL @ IND)",
+    "kind": "rank_pass",
+    "player": "Alanna Smith",
+    "stat": "fouls",
+    "rank": 200,
+    "passed_players": [
+      "Sugar Rodgers"
+    ],
+    "new_total": 446
   },
   {
     "ts": "2026-05-09T17:44:00+00:00",
-    "text": "Odyssey Sims passed Janel McCarville for #121 all-time in fouls (career 599) \u2014 up from #122 entering today \u2014 (4:21 - 2nd \u2014 DAL @ IND)"
+    "text": "Odyssey Sims passed Janel McCarville for #121 all-time in fouls (career 599) \u2014 up from #122 entering today \u2014 (4:21 - 2nd \u2014 DAL @ IND)",
+    "kind": "rank_pass",
+    "player": "Odyssey Sims",
+    "stat": "fouls",
+    "rank": 121,
+    "passed_players": [
+      "Janel McCarville"
+    ],
+    "new_total": 599
   },
   {
     "ts": "2026-05-09T17:44:00+00:00",
-    "text": "Paige Bueckers reached 700 career points (now 701) \u2014 (4:21 - 2nd \u2014 DAL @ IND)"
+    "text": "Paige Bueckers reached 700 career points (now 701) \u2014 (4:21 - 2nd \u2014 DAL @ IND)",
+    "kind": "round",
+    "player": "Paige Bueckers",
+    "stat": "points",
+    "value": 700,
+    "new_total": 701
   },
   {
     "ts": "2026-05-09T17:44:00+00:00",
-    "text": "Alysha Clark passed Ariel Atkins for #130 all-time in turnovers (career 438) \u2014 (4:21 - 2nd \u2014 DAL @ IND)"
+    "text": "Alysha Clark passed Ariel Atkins for #130 all-time in turnovers (career 438) \u2014 (4:21 - 2nd \u2014 DAL @ IND)",
+    "kind": "rank_pass",
+    "player": "Alysha Clark",
+    "stat": "turnovers",
+    "rank": 130,
+    "passed_players": [
+      "Ariel Atkins"
+    ],
+    "new_total": 438
   },
   {
     "ts": "2026-05-09T17:44:00+00:00",
-    "text": "Alysha Clark passed Betnijah Laney-Hamilton for #131 all-time in turnovers (career 438) \u2014 (4:21 - 2nd \u2014 DAL @ IND)"
+    "text": "Alysha Clark passed Betnijah Laney-Hamilton for #131 all-time in turnovers (career 438) \u2014 (4:21 - 2nd \u2014 DAL @ IND)",
+    "kind": "rank_pass",
+    "player": "Alysha Clark",
+    "stat": "turnovers",
+    "rank": 131,
+    "passed_players": [
+      "Betnijah Laney-Hamilton"
+    ],
+    "new_total": 438
   },
   {
     "ts": "2026-05-09T17:44:00+00:00",
-    "text": "Aliyah Boston reached 1,800 career points (now 1,805) \u2014 (4:21 - 2nd \u2014 DAL @ IND)"
+    "text": "Aliyah Boston reached 1,800 career points (now 1,805) \u2014 (4:21 - 2nd \u2014 DAL @ IND)",
+    "kind": "round",
+    "player": "Aliyah Boston",
+    "stat": "points",
+    "value": 1800,
+    "new_total": 1805
   },
   {
     "ts": "2026-05-09T17:44:00+00:00",
-    "text": "Kelsey Mitchell passed Breanna Stewart for #87 all-time in turnovers (career 550) \u2014 up from #88 entering today \u2014 (4:21 - 2nd \u2014 DAL @ IND)"
+    "text": "Kelsey Mitchell passed Breanna Stewart for #87 all-time in turnovers (career 550) \u2014 up from #88 entering today \u2014 (4:21 - 2nd \u2014 DAL @ IND)",
+    "kind": "rank_pass",
+    "player": "Kelsey Mitchell",
+    "stat": "turnovers",
+    "rank": 87,
+    "passed_players": [
+      "Breanna Stewart"
+    ],
+    "new_total": 550
   },
   {
     "ts": "2026-05-09T17:44:00+00:00",
-    "text": "Kelsey Mitchell passed Lauren Jackson for #89 all-time in turnovers (career 550) \u2014 (4:21 - 2nd \u2014 DAL @ IND)"
+    "text": "Kelsey Mitchell passed Lauren Jackson for #89 all-time in turnovers (career 550) \u2014 (4:21 - 2nd \u2014 DAL @ IND)",
+    "kind": "rank_pass",
+    "player": "Kelsey Mitchell",
+    "stat": "turnovers",
+    "rank": 89,
+    "passed_players": [
+      "Lauren Jackson"
+    ],
+    "new_total": 550
   },
   {
     "ts": "2026-05-09T17:44:00+00:00",
-    "text": "Sophie Cunningham passed Kelly Miller for #69 all-time in three-pointers (career 306) \u2014 up from #70 entering today \u2014 (4:21 - 2nd \u2014 DAL @ IND)"
+    "text": "Sophie Cunningham passed Kelly Miller for #69 all-time in three-pointers (career 306) \u2014 up from #70 entering today \u2014 (4:21 - 2nd \u2014 DAL @ IND)",
+    "kind": "rank_pass",
+    "player": "Sophie Cunningham",
+    "stat": "three-pointers",
+    "rank": 69,
+    "passed_players": [
+      "Kelly Miller"
+    ],
+    "new_total": 306
   },
   {
     "ts": "2026-05-09T17:44:00+00:00",
-    "text": "Damiris Dantas passed Andrea Stinson for #106 all-time in three-pointers (career 208) \u2014 up from #107 entering today \u2014 (4:21 - 2nd \u2014 DAL @ IND)"
+    "text": "Damiris Dantas passed Andrea Stinson for #106 all-time in three-pointers (career 208) \u2014 up from #107 entering today \u2014 (4:21 - 2nd \u2014 DAL @ IND)",
+    "kind": "rank_pass",
+    "player": "Damiris Dantas",
+    "stat": "three-pointers",
+    "rank": 106,
+    "passed_players": [
+      "Andrea Stinson"
+    ],
+    "new_total": 208
   },
   {
     "ts": "2026-05-09T17:44:00+00:00",
-    "text": "Damiris Dantas passed Bridget Pettis for #199 all-time in turnovers (career 285) \u2014 new to top 200 today \u2014 (4:21 - 2nd \u2014 DAL @ IND)"
+    "text": "Damiris Dantas passed Bridget Pettis for #199 all-time in turnovers (career 285) \u2014 new to top 200 today \u2014 (4:21 - 2nd \u2014 DAL @ IND)",
+    "kind": "rank_pass",
+    "player": "Damiris Dantas",
+    "stat": "turnovers",
+    "rank": 199,
+    "passed_players": [
+      "Bridget Pettis"
+    ],
+    "new_total": 285
   },
   {
     "ts": "2026-05-09T17:44:00+00:00",
-    "text": "Damiris Dantas passed Rachel Banham for #200 all-time in turnovers (career 285) \u2014 new to top 200 today \u2014 (4:21 - 2nd \u2014 DAL @ IND)"
+    "text": "Damiris Dantas passed Rachel Banham for #200 all-time in turnovers (career 285) \u2014 new to top 200 today \u2014 (4:21 - 2nd \u2014 DAL @ IND)",
+    "kind": "rank_pass",
+    "player": "Damiris Dantas",
+    "stat": "turnovers",
+    "rank": 200,
+    "passed_players": [
+      "Rachel Banham"
+    ],
+    "new_total": 285
   },
   {
     "ts": "2026-05-09T17:44:00+00:00",
-    "text": "Damiris Dantas passed Nikki McCray for #153 all-time in fouls (career 519) \u2014 up from #155 entering today \u2014 (4:21 - 2nd \u2014 DAL @ IND)"
+    "text": "Damiris Dantas passed Nikki McCray for #153 all-time in fouls (career 519) \u2014 up from #155 entering today \u2014 (4:21 - 2nd \u2014 DAL @ IND)",
+    "kind": "rank_pass",
+    "player": "Damiris Dantas",
+    "stat": "fouls",
+    "rank": 153,
+    "passed_players": [
+      "Nikki McCray"
+    ],
+    "new_total": 519
   },
   {
     "ts": "2026-05-09T17:44:00+00:00",
-    "text": "Damiris Dantas passed Alex Bentley for #154 all-time in fouls (career 519) \u2014 up from #155 entering today \u2014 (4:21 - 2nd \u2014 DAL @ IND)"
+    "text": "Damiris Dantas passed Alex Bentley for #154 all-time in fouls (career 519) \u2014 up from #155 entering today \u2014 (4:21 - 2nd \u2014 DAL @ IND)",
+    "kind": "rank_pass",
+    "player": "Damiris Dantas",
+    "stat": "fouls",
+    "rank": 154,
+    "passed_players": [
+      "Alex Bentley"
+    ],
+    "new_total": 519
   },
   {
     "ts": "2026-05-09T17:16:00+00:00",
-    "text": "Jessica Shepard passed Carolyn Swords for #165 all-time in rebounds (career 816) \u2014 up from #166 entering today \u2014 (3:57 - 1st \u2014 DAL @ IND)"
+    "text": "Jessica Shepard passed Carolyn Swords for #165 all-time in rebounds (career 816) \u2014 up from #166 entering today \u2014 (3:57 - 1st \u2014 DAL @ IND)",
+    "kind": "rank_pass",
+    "player": "Jessica Shepard",
+    "stat": "rebounds",
+    "rank": 165,
+    "passed_players": [
+      "Carolyn Swords"
+    ],
+    "new_total": 816
   },
   {
     "ts": "2026-05-09T17:16:00+00:00",
-    "text": "Myisha Hines-Allen passed Karima Christmas-Kelly for #175 all-time in fouls (career 495) \u2014 up from #177 entering today \u2014 (3:57 - 1st \u2014 DAL @ IND)"
+    "text": "Myisha Hines-Allen passed Karima Christmas-Kelly for #175 all-time in fouls (career 495) \u2014 up from #177 entering today \u2014 (3:57 - 1st \u2014 DAL @ IND)",
+    "kind": "rank_pass",
+    "player": "Myisha Hines-Allen",
+    "stat": "fouls",
+    "rank": 175,
+    "passed_players": [
+      "Karima Christmas-Kelly"
+    ],
+    "new_total": 495
   },
   {
     "ts": "2026-05-09T17:16:00+00:00",
-    "text": "Myisha Hines-Allen passed Ann Wauters for #176 all-time in fouls (career 495) \u2014 up from #177 entering today \u2014 (3:57 - 1st \u2014 DAL @ IND)"
+    "text": "Myisha Hines-Allen passed Ann Wauters for #176 all-time in fouls (career 495) \u2014 up from #177 entering today \u2014 (3:57 - 1st \u2014 DAL @ IND)",
+    "kind": "rank_pass",
+    "player": "Myisha Hines-Allen",
+    "stat": "fouls",
+    "rank": 176,
+    "passed_players": [
+      "Ann Wauters"
+    ],
+    "new_total": 495
   },
   {
     "ts": "2026-05-09T17:16:00+00:00",
-    "text": "Myisha Hines-Allen passed Riquna Williams for #178 all-time in fouls (career 495) \u2014 (3:57 - 1st \u2014 DAL @ IND)"
+    "text": "Myisha Hines-Allen passed Riquna Williams for #178 all-time in fouls (career 495) \u2014 (3:57 - 1st \u2014 DAL @ IND)",
+    "kind": "rank_pass",
+    "player": "Myisha Hines-Allen",
+    "stat": "fouls",
+    "rank": 178,
+    "passed_players": [
+      "Riquna Williams"
+    ],
+    "new_total": 495
   },
   {
     "ts": "2026-05-09T17:16:00+00:00",
-    "text": "Aliyah Boston passed Dana Evans for #174 all-time in assists (career 380) \u2014 up from #175 entering today \u2014 (3:57 - 1st \u2014 DAL @ IND)"
+    "text": "Aliyah Boston passed Dana Evans for #174 all-time in assists (career 380) \u2014 up from #175 entering today \u2014 (3:57 - 1st \u2014 DAL @ IND)",
+    "kind": "rank_pass",
+    "player": "Aliyah Boston",
+    "stat": "assists",
+    "rank": 174,
+    "passed_players": [
+      "Dana Evans"
+    ],
+    "new_total": 380
   },
   {
     "ts": "2026-05-09T17:16:00+00:00",
-    "text": "Caitlin Clark passed Elizabeth Williams for #140 all-time in assists (career 453) \u2014 (3:57 - 1st \u2014 DAL @ IND)"
+    "text": "Caitlin Clark passed Elizabeth Williams for #140 all-time in assists (career 453) \u2014 (3:57 - 1st \u2014 DAL @ IND)",
+    "kind": "rank_pass",
+    "player": "Caitlin Clark",
+    "stat": "assists",
+    "rank": 140,
+    "passed_players": [
+      "Elizabeth Williams"
+    ],
+    "new_total": 453
   },
   {
     "ts": "2026-05-09T17:16:00+00:00",
-    "text": "Damiris Dantas passed Marissa Coleman for #133 all-time in rebounds (career 996) \u2014 (3:57 - 1st \u2014 DAL @ IND)"
+    "text": "Damiris Dantas passed Marissa Coleman for #133 all-time in rebounds (career 996) \u2014 (3:57 - 1st \u2014 DAL @ IND)",
+    "kind": "rank_pass",
+    "player": "Damiris Dantas",
+    "stat": "rebounds",
+    "rank": 133,
+    "passed_players": [
+      "Marissa Coleman"
+    ],
+    "new_total": 996
   },
   {
     "ts": "2026-05-09T05:36:00+00:00",
-    "text": "Kayla Thornton passed Shekinna Stricklen for #135 all-time in points (career 2,248) \u2014 up from #138 entering today \u2014 (Final \u2014 GS @ SEA)"
+    "text": "Kayla Thornton passed Shekinna Stricklen for #135 all-time in points (career 2,248) \u2014 up from #138 entering today \u2014 (Final \u2014 GS @ SEA)",
+    "kind": "rank_pass",
+    "player": "Kayla Thornton",
+    "stat": "points",
+    "rank": 135,
+    "passed_players": [
+      "Shekinna Stricklen"
+    ],
+    "new_total": 2248
   },
   {
     "ts": "2026-05-09T05:36:00+00:00",
-    "text": "Kayla Thornton passed Azur\u00e1 Stevens for #197 all-time in turnovers (career 288) \u2014 up from #198 entering today \u2014 (Final \u2014 GS @ SEA)"
+    "text": "Kayla Thornton passed Azur\u00e1 Stevens for #197 all-time in turnovers (career 288) \u2014 up from #198 entering today \u2014 (Final \u2014 GS @ SEA)",
+    "kind": "rank_pass",
+    "player": "Kayla Thornton",
+    "stat": "turnovers",
+    "rank": 197,
+    "passed_players": [
+      "Azur\u00e1 Stevens"
+    ],
+    "new_total": 288
   },
   {
     "ts": "2026-05-09T05:36:00+00:00",
-    "text": "Gabby Williams passed Michele Timms for #117 all-time in assists (career 550) \u2014 up from #118 entering today \u2014 (Final \u2014 GS @ SEA)"
+    "text": "Gabby Williams passed Michele Timms for #117 all-time in assists (career 550) \u2014 up from #118 entering today \u2014 (Final \u2014 GS @ SEA)",
+    "kind": "rank_pass",
+    "player": "Gabby Williams",
+    "stat": "assists",
+    "rank": 117,
+    "passed_players": [
+      "Michele Timms"
+    ],
+    "new_total": 550
   },
   {
     "ts": "2026-05-09T05:36:00+00:00",
-    "text": "Kiah Stokes passed Candice Dupree for #29 all-time in blocks (career 319) \u2014 up from #30 entering today \u2014 (Final \u2014 GS @ SEA)"
+    "text": "Kiah Stokes passed Candice Dupree for #29 all-time in blocks (career 319) \u2014 up from #30 entering today \u2014 (Final \u2014 GS @ SEA)",
+    "kind": "rank_pass",
+    "player": "Kiah Stokes",
+    "stat": "blocks",
+    "rank": 29,
+    "passed_players": [
+      "Candice Dupree"
+    ],
+    "new_total": 319
   },
   {
     "ts": "2026-05-09T05:36:00+00:00",
-    "text": "Veronica Burton passed Rhyne Howard for #131 all-time in assists (career 485) \u2014 up from #132 entering today \u2014 (Final \u2014 GS @ SEA)"
+    "text": "Veronica Burton passed Rhyne Howard for #131 all-time in assists (career 485) \u2014 up from #132 entering today \u2014 (Final \u2014 GS @ SEA)",
+    "kind": "rank_pass",
+    "player": "Veronica Burton",
+    "stat": "assists",
+    "rank": 131,
+    "passed_players": [
+      "Rhyne Howard"
+    ],
+    "new_total": 485
   },
   {
     "ts": "2026-05-09T05:36:00+00:00",
-    "text": "Stefanie Dolson passed Moriah Jefferson for #82 all-time in assists (career 686) \u2014 up from #83 entering today \u2014 (Final \u2014 GS @ SEA)"
+    "text": "Stefanie Dolson passed Moriah Jefferson for #82 all-time in assists (career 686) \u2014 up from #83 entering today \u2014 (Final \u2014 GS @ SEA)",
+    "kind": "rank_pass",
+    "player": "Stefanie Dolson",
+    "stat": "assists",
+    "rank": 82,
+    "passed_players": [
+      "Moriah Jefferson"
+    ],
+    "new_total": 686
   },
   {
     "ts": "2026-05-09T05:36:00+00:00",
-    "text": "Stefanie Dolson passed Helen Darling for #78 all-time in turnovers (career 577) \u2014 up from #80 entering today \u2014 (Final \u2014 GS @ SEA)"
+    "text": "Stefanie Dolson passed Helen Darling for #78 all-time in turnovers (career 577) \u2014 up from #80 entering today \u2014 (Final \u2014 GS @ SEA)",
+    "kind": "rank_pass",
+    "player": "Stefanie Dolson",
+    "stat": "turnovers",
+    "rank": 78,
+    "passed_players": [
+      "Helen Darling"
+    ],
+    "new_total": 577
   },
   {
     "ts": "2026-05-09T05:36:00+00:00",
-    "text": "Stefanie Dolson passed Nykesha Sales for #79 all-time in turnovers (career 577) \u2014 up from #80 entering today \u2014 (Final \u2014 GS @ SEA)"
+    "text": "Stefanie Dolson passed Nykesha Sales for #79 all-time in turnovers (career 577) \u2014 up from #80 entering today \u2014 (Final \u2014 GS @ SEA)",
+    "kind": "rank_pass",
+    "player": "Stefanie Dolson",
+    "stat": "turnovers",
+    "rank": 79,
+    "passed_players": [
+      "Nykesha Sales"
+    ],
+    "new_total": 577
   },
   {
     "ts": "2026-05-09T05:36:00+00:00",
-    "text": "Dominique Malonga reached 200 career rebounds (now 203) \u2014 (Final \u2014 GS @ SEA)"
+    "text": "Dominique Malonga reached 200 career rebounds (now 203) \u2014 (Final \u2014 GS @ SEA)",
+    "kind": "round",
+    "player": "Dominique Malonga",
+    "stat": "rebounds",
+    "value": 200,
+    "new_total": 203
   },
   {
     "ts": "2026-05-09T05:36:00+00:00",
-    "text": "Natisha Hiedeman passed Erin Perperoglou for #180 all-time in steals (career 185) \u2014 up from #181 entering today \u2014 (Final \u2014 GS @ SEA)"
+    "text": "Natisha Hiedeman passed Erin Perperoglou for #180 all-time in steals (career 185) \u2014 up from #181 entering today \u2014 (Final \u2014 GS @ SEA)",
+    "kind": "rank_pass",
+    "player": "Natisha Hiedeman",
+    "stat": "steals",
+    "rank": 180,
+    "passed_players": [
+      "Erin Perperoglou"
+    ],
+    "new_total": 185
   },
   {
     "ts": "2026-05-09T02:34:00+00:00",
-    "text": "Shakira Austin reached 700 career rebounds (now 700) \u2014 (Final \u2014 WSH @ TOR)"
+    "text": "Shakira Austin reached 700 career rebounds (now 700) \u2014 (Final \u2014 WSH @ TOR)",
+    "kind": "round",
+    "player": "Shakira Austin",
+    "stat": "rebounds",
+    "value": 700,
+    "new_total": 700
   },
   {
     "ts": "2026-05-09T02:34:00+00:00",
-    "text": "Kayla Thornton passed Kara Braxton for #136 all-time in points (career 2,238) \u2014 up from #138 entering today \u2014 (End of 1st \u2014 GS @ SEA)"
+    "text": "Kayla Thornton passed Kara Braxton for #136 all-time in points (career 2,238) \u2014 up from #138 entering today \u2014 (End of 1st \u2014 GS @ SEA)",
+    "kind": "rank_pass",
+    "player": "Kayla Thornton",
+    "stat": "points",
+    "rank": 136,
+    "passed_players": [
+      "Kara Braxton"
+    ],
+    "new_total": 2238
   },
   {
     "ts": "2026-05-09T02:34:00+00:00",
-    "text": "Kayla Thornton passed Matee Ajavon for #137 all-time in points (career 2,238) \u2014 up from #138 entering today \u2014 (End of 1st \u2014 GS @ SEA)"
+    "text": "Kayla Thornton passed Matee Ajavon for #137 all-time in points (career 2,238) \u2014 up from #138 entering today \u2014 (End of 1st \u2014 GS @ SEA)",
+    "kind": "rank_pass",
+    "player": "Kayla Thornton",
+    "stat": "points",
+    "rank": 137,
+    "passed_players": [
+      "Matee Ajavon"
+    ],
+    "new_total": 2238
   },
   {
     "ts": "2026-05-09T02:34:00+00:00",
-    "text": "Kayla Thornton passed Sheryl Swoopes for #81 all-time in three-pointers (career 271) \u2014 (End of 1st \u2014 GS @ SEA)"
+    "text": "Kayla Thornton passed Sheryl Swoopes for #81 all-time in three-pointers (career 271) \u2014 (End of 1st \u2014 GS @ SEA)",
+    "kind": "rank_pass",
+    "player": "Kayla Thornton",
+    "stat": "three-pointers",
+    "rank": 81,
+    "passed_players": [
+      "Sheryl Swoopes"
+    ],
+    "new_total": 271
   },
   {
     "ts": "2026-05-09T02:34:00+00:00",
-    "text": "Kayla Thornton passed Charlotte Smith for #105 all-time in fouls (career 639) \u2014 up from #106 entering today \u2014 (End of 1st \u2014 GS @ SEA)"
+    "text": "Kayla Thornton passed Charlotte Smith for #105 all-time in fouls (career 639) \u2014 up from #106 entering today \u2014 (End of 1st \u2014 GS @ SEA)",
+    "kind": "rank_pass",
+    "player": "Kayla Thornton",
+    "stat": "fouls",
+    "rank": 105,
+    "passed_players": [
+      "Charlotte Smith"
+    ],
+    "new_total": 639
   },
   {
     "ts": "2026-05-09T02:34:00+00:00",
-    "text": "Gabby Williams passed Ariel Atkins for #183 all-time in rebounds (career 760) \u2014 up from #184 entering today \u2014 (End of 1st \u2014 GS @ SEA)"
+    "text": "Gabby Williams passed Ariel Atkins for #183 all-time in rebounds (career 760) \u2014 up from #184 entering today \u2014 (End of 1st \u2014 GS @ SEA)",
+    "kind": "rank_pass",
+    "player": "Gabby Williams",
+    "stat": "rebounds",
+    "rank": 183,
+    "passed_players": [
+      "Ariel Atkins"
+    ],
+    "new_total": 760
   },
   {
     "ts": "2026-05-09T02:34:00+00:00",
-    "text": "Gabby Williams passed Erin Perperoglou for #186 all-time in turnovers (career 306) \u2014 up from #187 entering today \u2014 (End of 1st \u2014 GS @ SEA)"
+    "text": "Gabby Williams passed Erin Perperoglou for #186 all-time in turnovers (career 306) \u2014 up from #187 entering today \u2014 (End of 1st \u2014 GS @ SEA)",
+    "kind": "rank_pass",
+    "player": "Gabby Williams",
+    "stat": "turnovers",
+    "rank": 186,
+    "passed_players": [
+      "Erin Perperoglou"
+    ],
+    "new_total": 306
   },
   {
     "ts": "2026-05-09T02:34:00+00:00",
-    "text": "Gabby Williams passed Jennifer Lacy for #188 all-time in turnovers (career 306) \u2014 (End of 1st \u2014 GS @ SEA)"
+    "text": "Gabby Williams passed Jennifer Lacy for #188 all-time in turnovers (career 306) \u2014 (End of 1st \u2014 GS @ SEA)",
+    "kind": "rank_pass",
+    "player": "Gabby Williams",
+    "stat": "turnovers",
+    "rank": 188,
+    "passed_players": [
+      "Jennifer Lacy"
+    ],
+    "new_total": 306
   },
   {
     "ts": "2026-05-09T02:34:00+00:00",
-    "text": "Tiffany Hayes passed Yolanda Griffith for #27 all-time in fouls (career 992) \u2014 (End of 1st \u2014 GS @ SEA)"
+    "text": "Tiffany Hayes passed Yolanda Griffith for #27 all-time in fouls (career 992) \u2014 (End of 1st \u2014 GS @ SEA)",
+    "kind": "rank_pass",
+    "player": "Tiffany Hayes",
+    "stat": "fouls",
+    "rank": 27,
+    "passed_players": [
+      "Yolanda Griffith"
+    ],
+    "new_total": 992
   },
   {
     "ts": "2026-05-09T02:34:00+00:00",
-    "text": "Veronica Burton reached 100 career three-pointers (now 100) \u2014 (End of 1st \u2014 GS @ SEA)"
+    "text": "Veronica Burton reached 100 career three-pointers (now 100) \u2014 (End of 1st \u2014 GS @ SEA)",
+    "kind": "round",
+    "player": "Veronica Burton",
+    "stat": "three-pointers",
+    "value": 100,
+    "new_total": 100
   },
   {
     "ts": "2026-05-09T01:41:00+00:00",
-    "text": "Jonquel Jones passed DeLisha Milton-Jones for #14 all-time in rebounds (career 2,575) \u2014 up from #15 entering today \u2014 (1:26 - 4th \u2014 CON @ NY)"
+    "text": "Jonquel Jones passed DeLisha Milton-Jones for #14 all-time in rebounds (career 2,575) \u2014 up from #15 entering today \u2014 (1:26 - 4th \u2014 CON @ NY)",
+    "kind": "rank_pass",
+    "player": "Jonquel Jones",
+    "stat": "rebounds",
+    "rank": 14,
+    "passed_players": [
+      "DeLisha Milton-Jones"
+    ],
+    "new_total": 2575
   },
   {
     "ts": "2026-05-09T01:41:00+00:00",
-    "text": "Shakira Austin passed LaToya Sanders for #200 all-time in rebounds (career 698) \u2014 new to top 200 today \u2014 (2:13 - 4th \u2014 WSH @ TOR)"
+    "text": "Shakira Austin passed LaToya Sanders for #200 all-time in rebounds (career 698) \u2014 new to top 200 today \u2014 (2:13 - 4th \u2014 WSH @ TOR)",
+    "kind": "rank_pass",
+    "player": "Shakira Austin",
+    "stat": "rebounds",
+    "rank": 200,
+    "passed_players": [
+      "LaToya Sanders"
+    ],
+    "new_total": 698
   },
   {
     "ts": "2026-05-09T01:41:00+00:00",
-    "text": "Shakira Austin passed Theresa Plaisance for #121 all-time in blocks (career 103) \u2014 up from #125 entering today \u2014 (2:13 - 4th \u2014 WSH @ TOR)"
+    "text": "Shakira Austin passed Theresa Plaisance for #121 all-time in blocks (career 103) \u2014 up from #125 entering today \u2014 (2:13 - 4th \u2014 WSH @ TOR)",
+    "kind": "rank_pass",
+    "player": "Shakira Austin",
+    "stat": "blocks",
+    "rank": 121,
+    "passed_players": [
+      "Theresa Plaisance"
+    ],
+    "new_total": 103
   },
   {
     "ts": "2026-05-09T01:41:00+00:00",
-    "text": "Brittney Sykes passed Vicky Bullett for #66 all-time in steals (career 354) \u2014 up from #68 entering today \u2014 (2:13 - 4th \u2014 WSH @ TOR)"
+    "text": "Brittney Sykes passed Vicky Bullett for #66 all-time in steals (career 354) \u2014 up from #68 entering today \u2014 (2:13 - 4th \u2014 WSH @ TOR)",
+    "kind": "rank_pass",
+    "player": "Brittney Sykes",
+    "stat": "steals",
+    "rank": 66,
+    "passed_players": [
+      "Vicky Bullett"
+    ],
+    "new_total": 354
   },
   {
     "ts": "2026-05-09T01:41:00+00:00",
-    "text": "Marina Mabrey passed Jennifer Gillom for #99 all-time in points (career 2,892) \u2014 up from #100 entering today \u2014 (2:13 - 4th \u2014 WSH @ TOR)"
+    "text": "Marina Mabrey passed Jennifer Gillom for #99 all-time in points (career 2,892) \u2014 up from #100 entering today \u2014 (2:13 - 4th \u2014 WSH @ TOR)",
+    "kind": "rank_pass",
+    "player": "Marina Mabrey",
+    "stat": "points",
+    "rank": 99,
+    "passed_players": [
+      "Jennifer Gillom"
+    ],
+    "new_total": 2892
   },
   {
     "ts": "2026-05-09T01:06:00+00:00",
-    "text": "Jonquel Jones reached 600 career assists (now 600) \u2014 (3:47 - 3rd \u2014 CON @ NY)"
+    "text": "Jonquel Jones reached 600 career assists (now 600) \u2014 (3:47 - 3rd \u2014 CON @ NY)",
+    "kind": "round",
+    "player": "Jonquel Jones",
+    "stat": "assists",
+    "value": 600,
+    "new_total": 600
   },
   {
     "ts": "2026-05-09T01:06:00+00:00",
-    "text": "A'ja Wilson passed Armintie Herrington for #149 all-time in fouls (career 524) \u2014 (End of 3rd \u2014 WSH @ TOR)"
+    "text": "A'ja Wilson passed Armintie Herrington for #149 all-time in fouls (career 524) \u2014 (End of 3rd \u2014 WSH @ TOR)",
+    "kind": "rank_pass",
+    "player": "A'ja Wilson",
+    "stat": "fouls",
+    "rank": 149,
+    "passed_players": [
+      "Armintie Herrington"
+    ],
+    "new_total": 524
   },
   {
     "ts": "2026-05-09T01:06:00+00:00",
-    "text": "Brittney Sykes passed Tan White for #85 all-time in turnovers (career 558) \u2014 (End of 3rd \u2014 WSH @ TOR)"
+    "text": "Brittney Sykes passed Tan White for #85 all-time in turnovers (career 558) \u2014 (End of 3rd \u2014 WSH @ TOR)",
+    "kind": "rank_pass",
+    "player": "Brittney Sykes",
+    "stat": "turnovers",
+    "rank": 85,
+    "passed_players": [
+      "Tan White"
+    ],
+    "new_total": 558
   },
   {
     "ts": "2026-05-09T01:06:00+00:00",
-    "text": "Marina Mabrey passed Carolyn Swords for #164 all-time in rebounds (career 817) \u2014 (End of 3rd \u2014 WSH @ TOR)"
+    "text": "Marina Mabrey passed Carolyn Swords for #164 all-time in rebounds (career 817) \u2014 (End of 3rd \u2014 WSH @ TOR)",
+    "kind": "rank_pass",
+    "player": "Marina Mabrey",
+    "stat": "rebounds",
+    "rank": 164,
+    "passed_players": [
+      "Carolyn Swords"
+    ],
+    "new_total": 817
   },
   {
     "ts": "2026-05-09T01:06:00+00:00",
-    "text": "Marina Mabrey passed Armintie Herrington for #149 all-time in fouls (career 524) \u2014 (End of 3rd \u2014 WSH @ TOR)"
+    "text": "Marina Mabrey passed Armintie Herrington for #149 all-time in fouls (career 524) \u2014 (End of 3rd \u2014 WSH @ TOR)",
+    "kind": "rank_pass",
+    "player": "Marina Mabrey",
+    "stat": "fouls",
+    "rank": 149,
+    "passed_players": [
+      "Armintie Herrington"
+    ],
+    "new_total": 524
   },
   {
     "ts": "2026-05-09T00:48:00+00:00",
-    "text": "Brittney Sykes passed Svetlana Abrosimova for #67 all-time in steals (career 353) \u2014 (5:19 - 3rd \u2014 WSH @ TOR)"
+    "text": "Brittney Sykes passed Svetlana Abrosimova for #67 all-time in steals (career 353) \u2014 (5:19 - 3rd \u2014 WSH @ TOR)",
+    "kind": "rank_pass",
+    "player": "Brittney Sykes",
+    "stat": "steals",
+    "rank": 67,
+    "passed_players": [
+      "Svetlana Abrosimova"
+    ],
+    "new_total": 353
   },
   {
     "ts": "2026-05-09T00:48:00+00:00",
-    "text": "Marina Mabrey passed Jessica Shepard for #165 all-time in rebounds (career 814) \u2014 (5:19 - 3rd \u2014 WSH @ TOR)"
+    "text": "Marina Mabrey passed Jessica Shepard for #165 all-time in rebounds (career 814) \u2014 (5:19 - 3rd \u2014 WSH @ TOR)",
+    "kind": "rank_pass",
+    "player": "Marina Mabrey",
+    "stat": "rebounds",
+    "rank": 165,
+    "passed_players": [
+      "Jessica Shepard"
+    ],
+    "new_total": 814
   },
   {
     "ts": "2026-05-09T00:44:00+00:00",
-    "text": "Breanna Stewart passed Lauren Jackson for #15 all-time in points (career 6,006) \u2014 (Halftime \u2014 CON @ NY)"
+    "text": "Breanna Stewart passed Lauren Jackson for #15 all-time in points (career 6,006) \u2014 (Halftime \u2014 CON @ NY)",
+    "kind": "rank_pass",
+    "player": "Breanna Stewart",
+    "stat": "points",
+    "rank": 15,
+    "passed_players": [
+      "Lauren Jackson"
+    ],
+    "new_total": 6006
   },
   {
     "ts": "2026-05-09T00:44:00+00:00",
-    "text": "Breanna Stewart passed Seimone Augustus for #16 all-time in points (career 6,006) \u2014 (Halftime \u2014 CON @ NY)"
+    "text": "Breanna Stewart passed Seimone Augustus for #16 all-time in points (career 6,006) \u2014 (Halftime \u2014 CON @ NY)",
+    "kind": "rank_pass",
+    "player": "Breanna Stewart",
+    "stat": "points",
+    "rank": 16,
+    "passed_players": [
+      "Seimone Augustus"
+    ],
+    "new_total": 6006
   },
   {
     "ts": "2026-05-09T00:44:00+00:00",
-    "text": "Marina Mabrey passed Lauren Jackson for #29 all-time in three-pointers (career 437) \u2014 (7:51 - 3rd \u2014 WSH @ TOR)"
+    "text": "Marina Mabrey passed Lauren Jackson for #29 all-time in three-pointers (career 437) \u2014 (7:51 - 3rd \u2014 WSH @ TOR)",
+    "kind": "rank_pass",
+    "player": "Marina Mabrey",
+    "stat": "three-pointers",
+    "rank": 29,
+    "passed_players": [
+      "Lauren Jackson"
+    ],
+    "new_total": 437
   }
 ]
