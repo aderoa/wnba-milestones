@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-09 21:52 UTC_
+_Last updated: 2026-05-09 21:53 UTC_
 
 ## Contents
 
@@ -210,7 +210,7 @@ _Last updated: 2026-05-09 21:52 UTC_
 | 189 | Armintie Herrington | 1,696 |
 | 190 | Nikki Teasley | 1,690 |
 | 191 | Shenise Johnson | 1,688 |
-| 192 | **NaLyssa Smith** 🔴 +9 | 1,685 |
+| 192 | **NaLyssa Smith** 🔴 +11 | 1,687 |
 | 193 | Sophie Cunningham | 1,669 |
 | 194 | Gabby Williams | 1,597 |
 | 195 | Janell Burse | 1,580 |
