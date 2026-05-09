@@ -173,10 +173,11 @@
   td.rank {
     font-family: var(--header-font);
     color: var(--muted);
-    width: 56px;
+    width: 84px;
     text-align: right;
     padding-right: 18px;
     font-weight: 500;
+    white-space: nowrap;
   }
   tr.live td.rank { color: var(--text); }
   td.total {
@@ -240,27 +241,33 @@
     align-items: center;
     gap: 14px;
   }
-  .filter-toggle {
-    background: var(--bg-elev);
+  .filter-group {
+    display: inline-flex;
     border: 1px solid var(--border);
+    border-radius: 6px;
+    overflow: hidden;
+    background: var(--bg-elev);
+  }
+  .filter-pill {
+    background: transparent;
+    border: none;
     color: var(--muted);
     font-family: var(--header-font);
     font-size: 0.7rem;
     font-weight: 600;
     letter-spacing: 0.06em;
     text-transform: uppercase;
-    padding: 5px 10px;
-    border-radius: 5px;
+    padding: 6px 12px;
     cursor: pointer;
-    transition: all 0.12s;
+    transition: background 0.12s, color 0.12s;
   }
-  .filter-toggle:hover { color: var(--text); border-color: var(--border-strong); }
-  .filter-toggle.on {
+  .filter-pill + .filter-pill { border-left: 1px solid var(--border); }
+  .filter-pill:hover:not(.active) { color: var(--text); }
+  .filter-pill.active {
     background: var(--text);
     color: var(--bg-elev);
-    border-color: var(--text);
   }
-  .filter-toggle.hidden { display: none; }
+  .filter-group.hidden { display: none; }
   .meta-row .refreshing {
     display: inline-flex;
     align-items: center;
@@ -270,9 +277,20 @@
   .rank-up {
     color: var(--pass);
     font-family: var(--header-font);
+    font-size: 0.72rem;
+    margin-left: 4px;
+    font-weight: 700;
+    vertical-align: 1px;
+  }
+  .passed-list {
+    color: var(--muted);
     font-size: 0.78rem;
+    font-weight: 400;
     margin-left: 6px;
-    font-weight: 600;
+  }
+  .passed-list strong {
+    color: var(--text);
+    font-weight: 500;
   }
   .spinner {
     width: 10px; height: 10px;
@@ -308,7 +326,7 @@
     td.total { width: 80px; font-size: 0.85rem; }
     tbody td { padding: 8px 10px; font-size: 0.85rem; }
     thead th { padding: 9px 10px; }
-    td.rank { padding-right: 10px; width: 42px; }
+    td.rank { padding-right: 10px; width: 64px; }
   }
 
   /* Embed mode: hide chrome for use inside iframes (Presto, etc.) */
@@ -340,7 +358,10 @@
 <div class="meta-row">
   <span id="last-updated">—</span>
   <div class="meta-controls">
-    <button id="active-toggle" class="filter-toggle" title="Show only players currently in a game">Show: All players</button>
+    <div class="filter-group" id="filter-group">
+      <button class="filter-pill active" data-filter="all">All players</button>
+      <button class="filter-pill" data-filter="active">Active only</button>
+    </div>
     <span class="refreshing" id="refreshing"><span class="spinner"></span> auto-refresh 60s</span>
   </div>
 </div>
@@ -423,11 +444,21 @@ function updateView() {
   const isMilestones = currentStat === 'MILESTONES';
   document.getElementById('table-wrap').style.display = isMilestones ? 'none' : '';
   document.getElementById('milestones-wrap').style.display = isMilestones ? '' : 'none';
-  // Hide active-only toggle on the Milestones tab — doesn't apply
-  const toggle = document.getElementById('active-toggle');
-  if (toggle) toggle.classList.toggle('hidden', isMilestones);
+  // Hide filter controls on the Milestones tab — doesn't apply
+  const filterGroup = document.getElementById('filter-group');
+  if (filterGroup) filterGroup.classList.toggle('hidden', isMilestones);
   if (isMilestones) renderMilestones();
   else renderTable();
+}
+
+function formatNameList(names) {
+  if (!names || names.length === 0) return '';
+  if (names.length === 1) return `<strong>${escapeHtml(names[0])}</strong>`;
+  if (names.length === 2) {
+    return `<strong>${escapeHtml(names[0])}</strong> and <strong>${escapeHtml(names[1])}</strong>`;
+  }
+  const head = names.slice(0, -1).map(n => `<strong>${escapeHtml(n)}</strong>`).join(', ');
+  return `${head}, and <strong>${escapeHtml(names[names.length - 1])}</strong>`;
 }
 
 function renderTable() {
@@ -443,18 +474,23 @@ function renderTable() {
     return;
   }
   tbody.innerHTML = rows.map(r => {
-    let nameCell = r.name;
+    // Rank cell: number, plus ↑N if they've climbed today
+    let rankCell = String(r.rank);
+    if (r.live && r.baseline_rank && r.baseline_rank > r.rank) {
+      const moved = r.baseline_rank - r.rank;
+      rankCell += `<span class="rank-up" title="Up ${moved} from #${r.baseline_rank} entering today">↑${moved}</span>`;
+    }
+    // Name cell: name, then live marker, +delta, and inline passed list
+    let nameCell = escapeHtml(r.name);
     if (r.live) {
       nameCell += '<span class="live-marker">🔴</span>';
       if (r.delta > 0) nameCell += `<span class="delta">+${r.delta}</span>`;
-      // Rank-up indicator: positions gained today (if baseline known)
-      if (r.baseline_rank && r.baseline_rank > r.rank) {
-        const moved = r.baseline_rank - r.rank;
-        nameCell += `<span class="rank-up" title="Up ${moved} from #${r.baseline_rank}">↑${moved}</span>`;
+      if (r.passed_today && r.passed_today.length > 0) {
+        nameCell += `<span class="passed-list">passed ${formatNameList(r.passed_today)}</span>`;
       }
     }
     return `<tr class="${r.live ? 'live' : ''}">
-      <td class="rank">${r.rank}</td>
+      <td class="rank">${rankCell}</td>
       <td>${nameCell}</td>
       <td class="total">${fmt(r.total)}</td>
     </tr>`;
@@ -537,12 +573,16 @@ async function fetchData() {
 
 renderTabs();
 
-// Wire active-only filter toggle
-document.getElementById('active-toggle').addEventListener('click', (ev) => {
-  activeOnly = !activeOnly;
-  ev.target.textContent = activeOnly ? 'Show: Active only' : 'Show: All players';
-  ev.target.classList.toggle('on', activeOnly);
-  updateView();
+// Wire active-only / all-players segmented filter
+document.querySelectorAll('.filter-pill').forEach(btn => {
+  btn.addEventListener('click', () => {
+    const choice = btn.dataset.filter;
+    activeOnly = (choice === 'active');
+    document.querySelectorAll('.filter-pill').forEach(b => {
+      b.classList.toggle('active', b.dataset.filter === choice);
+    });
+    updateView();
+  });
 });
 
 fetchData();
