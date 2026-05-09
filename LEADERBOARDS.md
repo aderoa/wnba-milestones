@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-09 21:39 UTC_
+_Last updated: 2026-05-09 21:40 UTC_
 
 ## Contents
 
@@ -73,7 +73,7 @@ _Last updated: 2026-05-09 21:39 UTC_
 | 52 | Allisha Gray | 4,157 |
 | 53 | Rebekkah Brunson | 4,133 |
 | 54 | Jonquel Jones | 4,096 |
-| 55 | **Kahleah Copper** 🔴 +11 | 4,094 |
+| 54 | **Kahleah Copper** 🔴 +13 | 4,096 |
 | 56 | Dearica Hamby | 4,090 |
 | 57 | Courtney Williams | 4,061 |
 | 58 | Asjha Jones | 3,986 |
@@ -319,7 +319,7 @@ _Last updated: 2026-05-09 21:39 UTC_
 | 93 | Tiffany Hayes | 1,233 |
 | 94 | Seimone Augustus | 1,228 |
 | 95 | Jia Perkins | 1,220 |
-| 96 | **Brianna Turner** 🔴 +1 | 1,215 |
+| 96 | **Brianna Turner** 🔴 +2 | 1,216 |
 | 97 | Myisha Hines-Allen | 1,214 |
 | 98 | DeMya Walker | 1,199 |
 | 99 | Latasha Byears | 1,190 |
@@ -675,8 +675,8 @@ _Last updated: 2026-05-09 21:39 UTC_
 | 39 | Napheesa Collier | 239 |
 | 40 | Emma Meesseman | 238 |
 | 41 | Azurá Stevens | 230 |
+| 42 | **Brianna Turner** 🔴 +1 | 228 |
 | 42 | Chasity Melvin | 228 |
-| 43 | **Brianna Turner** 🔴 | 227 |
 | 44 | Sancho Lyttle | 221 |
 | 44 | Skylar Diggins | 221 |
 | 46 | Alana Beard | 220 |
