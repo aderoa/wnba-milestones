@@ -1,0 +1,9618 @@
+{
+  "PTS": [
+    {
+      "rank": 1,
+      "player_id": 100940,
+      "player_name": "Diana Taurasi",
+      "total": 10608
+    },
+    {
+      "rank": 2,
+      "player_id": 202250,
+      "player_name": "Tina Charles",
+      "total": 8396
+    },
+    {
+      "rank": 3,
+      "player_id": 201886,
+      "player_name": "DeWanna Bonner",
+      "total": 7805
+    },
+    {
+      "rank": 4,
+      "player_id": 100076,
+      "player_name": "Tina Thompson",
+      "total": 7470
+    },
+    {
+      "rank": 5,
+      "player_id": 100646,
+      "player_name": "Tamika Catchings",
+      "total": 7371
+    },
+    {
+      "rank": 6,
+      "player_id": 203014,
+      "player_name": "Nneka Ogwumike",
+      "total": 7305
+    },
+    {
+      "rank": 7,
+      "player_id": 200676,
+      "player_name": "Candice Dupree",
+      "total": 6861
+    },
+    {
+      "rank": 8,
+      "player_id": 100720,
+      "player_name": "Sue Bird",
+      "total": 6802
+    },
+    {
+      "rank": 9,
+      "player_id": 200665,
+      "player_name": "Cappie Pondexter",
+      "total": 6781
+    },
+    {
+      "rank": 10,
+      "player_id": 201496,
+      "player_name": "Candace Parker",
+      "total": 6574
+    },
+    {
+      "rank": 11,
+      "player_id": 100404,
+      "player_name": "Katie Smith",
+      "total": 6450
+    },
+    {
+      "rank": 12,
+      "player_id": 201480,
+      "player_name": "Sylvia Fowles",
+      "total": 6413
+    },
+    {
+      "rank": 13,
+      "player_id": 100003,
+      "player_name": "Lisa Leslie",
+      "total": 6251
+    },
+    {
+      "rank": 14,
+      "player_id": 204319,
+      "player_name": "Jewell Loyd",
+      "total": 6027
+    },
+    {
+      "rank": 15,
+      "player_id": 100682,
+      "player_name": "Lauren Jackson",
+      "total": 6005
+    },
+    {
+      "rank": 16,
+      "player_id": 200671,
+      "player_name": "Seimone Augustus",
+      "total": 6005
+    },
+    {
+      "rank": 17,
+      "player_id": 1627668,
+      "player_name": "Breanna Stewart",
+      "total": 5985
+    },
+    {
+      "rank": 18,
+      "player_id": 203398,
+      "player_name": "Brittney Griner",
+      "total": 5954
+    },
+    {
+      "rank": 19,
+      "player_id": 100342,
+      "player_name": "Becky Hammon",
+      "total": 5816
+    },
+    {
+      "rank": 20,
+      "player_id": 201881,
+      "player_name": "Angel McCoughtry",
+      "total": 5797
+    },
+    {
+      "rank": 21,
+      "player_id": 1628932,
+      "player_name": "A'ja Wilson",
+      "total": 5719
+    },
+    {
+      "rank": 22,
+      "player_id": 100396,
+      "player_name": "DeLisha Milton-Jones",
+      "total": 5571
+    },
+    {
+      "rank": 23,
+      "player_id": 100666,
+      "player_name": "Katie Douglas",
+      "total": 5545
+    },
+    {
+      "rank": 24,
+      "player_id": 100915,
+      "player_name": "Lindsay Whalen",
+      "total": 5511
+    },
+    {
+      "rank": 25,
+      "player_id": 203400,
+      "player_name": "Skylar Diggins",
+      "total": 5489
+    },
+    {
+      "rank": 26,
+      "player_id": 203825,
+      "player_name": "Kayla McBride",
+      "total": 5389
+    },
+    {
+      "rank": 27,
+      "player_id": 100721,
+      "player_name": "Swin Cash",
+      "total": 5119
+    },
+    {
+      "rank": 28,
+      "player_id": 100236,
+      "player_name": "Tangela Smith",
+      "total": 5035
+    },
+    {
+      "rank": 29,
+      "player_id": 100412,
+      "player_name": "Taj McWilliams-Franklin",
+      "total": 4992
+    },
+    {
+      "rank": 30,
+      "player_id": 202632,
+      "player_name": "Maya Moore",
+      "total": 4984
+    },
+    {
+      "rank": 31,
+      "player_id": 203026,
+      "player_name": "Tiffany Hayes",
+      "total": 4926
+    },
+    {
+      "rank": 32,
+      "player_id": 100072,
+      "player_name": "Sheryl Swoopes",
+      "total": 4875
+    },
+    {
+      "rank": 33,
+      "player_id": 1628909,
+      "player_name": "Kelsey Mitchell",
+      "total": 4813
+    },
+    {
+      "rank": 34,
+      "player_id": 100949,
+      "player_name": "Alana Beard",
+      "total": 4740
+    },
+    {
+      "rank": 35,
+      "player_id": 100356,
+      "player_name": "Chamique Holdsclaw",
+      "total": 4713
+    },
+    {
+      "rank": 36,
+      "player_id": 203399,
+      "player_name": "Elena Delle Donne",
+      "total": 4706
+    },
+    {
+      "rank": 37,
+      "player_id": 100634,
+      "player_name": "Penny Taylor",
+      "total": 4595
+    },
+    {
+      "rank": 38,
+      "player_id": 203826,
+      "player_name": "Alyssa Thomas",
+      "total": 4488
+    },
+    {
+      "rank": 39,
+      "player_id": 201911,
+      "player_name": "Kristi Toliver",
+      "total": 4474
+    },
+    {
+      "rank": 40,
+      "player_id": 1629481,
+      "player_name": "Arike Ogunbowale",
+      "total": 4464
+    },
+    {
+      "rank": 41,
+      "player_id": 201518,
+      "player_name": "Crystal Langhorne",
+      "total": 4433
+    },
+    {
+      "rank": 42,
+      "player_id": 100952,
+      "player_name": "Jia Perkins",
+      "total": 4433
+    },
+    {
+      "rank": 43,
+      "player_id": 203833,
+      "player_name": "Chelsea Gray",
+      "total": 4409
+    },
+    {
+      "rank": 44,
+      "player_id": 203827,
+      "player_name": "Natasha Howard",
+      "total": 4367
+    },
+    {
+      "rank": 45,
+      "player_id": 202664,
+      "player_name": "Courtney Vandersloot",
+      "total": 4352
+    },
+    {
+      "rank": 46,
+      "player_id": 200674,
+      "player_name": "Sophia Young-Malcolm",
+      "total": 4300
+    },
+    {
+      "rank": 47,
+      "player_id": 100888,
+      "player_name": "Plenette Pierson",
+      "total": 4258
+    },
+    {
+      "rank": 48,
+      "player_id": 200673,
+      "player_name": "Monique Currie",
+      "total": 4253
+    },
+    {
+      "rank": 49,
+      "player_id": 100103,
+      "player_name": "Vickie Johnson",
+      "total": 4230
+    },
+    {
+      "rank": 50,
+      "player_id": 100419,
+      "player_name": "Yolanda Griffith",
+      "total": 4224
+    },
+    {
+      "rank": 51,
+      "player_id": 1628276,
+      "player_name": "Kelsey Plum",
+      "total": 4207
+    },
+    {
+      "rank": 52,
+      "player_id": 1628277,
+      "player_name": "Allisha Gray",
+      "total": 4157
+    },
+    {
+      "rank": 53,
+      "player_id": 100944,
+      "player_name": "Rebekkah Brunson",
+      "total": 4133
+    },
+    {
+      "rank": 54,
+      "player_id": 204324,
+      "player_name": "Dearica Hamby",
+      "total": 4090
+    },
+    {
+      "rank": 55,
+      "player_id": 1627673,
+      "player_name": "Jonquel Jones",
+      "total": 4086
+    },
+    {
+      "rank": 56,
+      "player_id": 1627674,
+      "player_name": "Kahleah Copper",
+      "total": 4083
+    },
+    {
+      "rank": 57,
+      "player_id": 1627675,
+      "player_name": "Courtney Williams",
+      "total": 4061
+    },
+    {
+      "rank": 58,
+      "player_id": 100723,
+      "player_name": "Asjha Jones",
+      "total": 3986
+    },
+    {
+      "rank": 59,
+      "player_id": 100639,
+      "player_name": "Deanna Nolan",
+      "total": 3971
+    },
+    {
+      "rank": 60,
+      "player_id": 100415,
+      "player_name": "Nykesha Sales",
+      "total": 3931
+    },
+    {
+      "rank": 61,
+      "player_id": 100484,
+      "player_name": "Betty Lennox",
+      "total": 3856
+    },
+    {
+      "rank": 62,
+      "player_id": 201516,
+      "player_name": "Allie Quigley",
+      "total": 3786
+    },
+    {
+      "rank": 63,
+      "player_id": 100433,
+      "player_name": "Chasity Melvin",
+      "total": 3781
+    },
+    {
+      "rank": 64,
+      "player_id": 100874,
+      "player_name": "Kara Lawson",
+      "total": 3670
+    },
+    {
+      "rank": 65,
+      "player_id": 100012,
+      "player_name": "Mwadi Mabika",
+      "total": 3576
+    },
+    {
+      "rank": 66,
+      "player_id": 201067,
+      "player_name": "Camille Smith",
+      "total": 3551
+    },
+    {
+      "rank": 67,
+      "player_id": 1629483,
+      "player_name": "Napheesa Collier",
+      "total": 3542
+    },
+    {
+      "rank": 68,
+      "player_id": 100410,
+      "player_name": "Shannon Johnson",
+      "total": 3542
+    },
+    {
+      "rank": 69,
+      "player_id": 201904,
+      "player_name": "Renee Montgomery",
+      "total": 3533
+    },
+    {
+      "rank": 70,
+      "player_id": 202662,
+      "player_name": "Jasmine Thomas",
+      "total": 3522
+    },
+    {
+      "rank": 71,
+      "player_id": 203824,
+      "player_name": "Odyssey Sims",
+      "total": 3514
+    },
+    {
+      "rank": 72,
+      "player_id": 100008,
+      "player_name": "Tamecka Dixon",
+      "total": 3507
+    },
+    {
+      "rank": 73,
+      "player_id": 100628,
+      "player_name": "Tammy Sutton-Brown",
+      "total": 3498
+    },
+    {
+      "rank": 74,
+      "player_id": 101023,
+      "player_name": "Sancho Lyttle",
+      "total": 3478
+    },
+    {
+      "rank": 75,
+      "player_id": 201056,
+      "player_name": "Ivory Latta",
+      "total": 3447
+    },
+    {
+      "rank": 76,
+      "player_id": 1628279,
+      "player_name": "Brittney Sykes",
+      "total": 3425
+    },
+    {
+      "rank": 77,
+      "player_id": 1629498,
+      "player_name": "Jackie Young",
+      "total": 3412
+    },
+    {
+      "rank": 78,
+      "player_id": 100919,
+      "player_name": "Nicole Powell",
+      "total": 3407
+    },
+    {
+      "rank": 79,
+      "player_id": 202259,
+      "player_name": "Epiphanny Prince",
+      "total": 3381
+    },
+    {
+      "rank": 80,
+      "player_id": 1628878,
+      "player_name": "Ariel Atkins",
+      "total": 3361
+    },
+    {
+      "rank": 81,
+      "player_id": 100729,
+      "player_name": "Michelle Snow",
+      "total": 3361
+    },
+    {
+      "rank": 82,
+      "player_id": 100347,
+      "player_name": "Tamika Whitmore",
+      "total": 3359
+    },
+    {
+      "rank": 83,
+      "player_id": 100416,
+      "player_name": "Sheri Sam",
+      "total": 3353
+    },
+    {
+      "rank": 84,
+      "player_id": 100059,
+      "player_name": "Andrea Stinson",
+      "total": 3351
+    },
+    {
+      "rank": 85,
+      "player_id": 101030,
+      "player_name": "Tanisha Wright",
+      "total": 3324
+    },
+    {
+      "rank": 86,
+      "player_id": 100239,
+      "player_name": "Margo Dydek",
+      "total": 3214
+    },
+    {
+      "rank": 87,
+      "player_id": 202658,
+      "player_name": "Danielle Robinson",
+      "total": 3160
+    },
+    {
+      "rank": 88,
+      "player_id": 100046,
+      "player_name": "Wendy Palmer",
+      "total": 3135
+    },
+    {
+      "rank": 89,
+      "player_id": 203828,
+      "player_name": "Stefanie Dolson",
+      "total": 3128
+    },
+    {
+      "rank": 90,
+      "player_id": 201919,
+      "player_name": "Shavonte Zellous",
+      "total": 3103
+    },
+    {
+      "rank": 91,
+      "player_id": 201896,
+      "player_name": "Briann January",
+      "total": 3082
+    },
+    {
+      "rank": 92,
+      "player_id": 204365,
+      "player_name": "Erica Wheeler",
+      "total": 3060
+    },
+    {
+      "rank": 93,
+      "player_id": 100812,
+      "player_name": "Erika de Souza",
+      "total": 3046
+    },
+    {
+      "rank": 94,
+      "player_id": 100937,
+      "player_name": "Shameka Christon",
+      "total": 3039
+    },
+    {
+      "rank": 95,
+      "player_id": 1629477,
+      "player_name": "Sabrina Ionescu",
+      "total": 3030
+    },
+    {
+      "rank": 96,
+      "player_id": 100685,
+      "player_name": "Marie Ferdinand-Harris",
+      "total": 3001
+    },
+    {
+      "rank": 97,
+      "player_id": 203416,
+      "player_name": "Emma Meesseman",
+      "total": 2966
+    },
+    {
+      "rank": 98,
+      "player_id": 100366,
+      "player_name": "Natalie Williams",
+      "total": 2894
+    },
+    {
+      "rank": 99,
+      "player_id": 100030,
+      "player_name": "Jennifer Gillom",
+      "total": 2888
+    },
+    {
+      "rank": 100,
+      "player_id": 1629497,
+      "player_name": "Marina Mabrey",
+      "total": 2867
+    },
+    {
+      "rank": 101,
+      "player_id": 204333,
+      "player_name": "Natasha Cloud",
+      "total": 2863
+    },
+    {
+      "rank": 102,
+      "player_id": 100796,
+      "player_name": "Iziane Castro Marques",
+      "total": 2862
+    },
+    {
+      "rank": 103,
+      "player_id": 204322,
+      "player_name": "Elizabeth Williams",
+      "total": 2841
+    },
+    {
+      "rank": 104,
+      "player_id": 202252,
+      "player_name": "Alysha Clark",
+      "total": 2787
+    },
+    {
+      "rank": 105,
+      "player_id": 202650,
+      "player_name": "Jantel Lavender",
+      "total": 2775
+    },
+    {
+      "rank": 106,
+      "player_id": 1628280,
+      "player_name": "Brionna Jones",
+      "total": 2765
+    },
+    {
+      "rank": 107,
+      "player_id": 100384,
+      "player_name": "Dominique Canty",
+      "total": 2763
+    },
+    {
+      "rank": 108,
+      "player_id": 100234,
+      "player_name": "Ticha Penicheiro",
+      "total": 2729
+    },
+    {
+      "rank": 109,
+      "player_id": 100363,
+      "player_name": "Adrienne Goodson",
+      "total": 2705
+    },
+    {
+      "rank": 110,
+      "player_id": 203029,
+      "player_name": "Riquna Williams",
+      "total": 2659
+    },
+    {
+      "rank": 111,
+      "player_id": 201502,
+      "player_name": "Essence Carson",
+      "total": 2647
+    },
+    {
+      "rank": 112,
+      "player_id": 201046,
+      "player_name": "Lindsey Harding",
+      "total": 2647
+    },
+    {
+      "rank": 113,
+      "player_id": 201477,
+      "player_name": "Tamera Young",
+      "total": 2641
+    },
+    {
+      "rank": 114,
+      "player_id": 202633,
+      "player_name": "Liz Cambage",
+      "total": 2634
+    },
+    {
+      "rank": 115,
+      "player_id": 100075,
+      "player_name": "Janeth Arcain",
+      "total": 2633
+    },
+    {
+      "rank": 116,
+      "player_id": 101024,
+      "player_name": "Temeka Johnson",
+      "total": 2620
+    },
+    {
+      "rank": 117,
+      "player_id": 201507,
+      "player_name": "Leilani Mitchell",
+      "total": 2618
+    },
+    {
+      "rank": 118,
+      "player_id": 100073,
+      "player_name": "Cynthia Cooper",
+      "total": 2601
+    },
+    {
+      "rank": 119,
+      "player_id": 101020,
+      "player_name": "Tan White",
+      "total": 2595
+    },
+    {
+      "rank": 120,
+      "player_id": 204323,
+      "player_name": "Cheyenne Parker-Tyus",
+      "total": 2565
+    },
+    {
+      "rank": 121,
+      "player_id": 100627,
+      "player_name": "Kelly Miller",
+      "total": 2558
+    },
+    {
+      "rank": 122,
+      "player_id": 203017,
+      "player_name": "Glory Johnson",
+      "total": 2531
+    },
+    {
+      "rank": 123,
+      "player_id": 100198,
+      "player_name": "Nikki McCray",
+      "total": 2521
+    },
+    {
+      "rank": 124,
+      "player_id": 100345,
+      "player_name": "Crystal Robinson",
+      "total": 2496
+    },
+    {
+      "rank": 125,
+      "player_id": 1627676,
+      "player_name": "Tiffany Mitchell",
+      "total": 2480
+    },
+    {
+      "rank": 126,
+      "player_id": 100656,
+      "player_name": "Ruth Riley",
+      "total": 2434
+    },
+    {
+      "rank": 127,
+      "player_id": 100658,
+      "player_name": "Svetlana Abrosimova",
+      "total": 2414
+    },
+    {
+      "rank": 128,
+      "player_id": 100493,
+      "player_name": "Anna DeForge",
+      "total": 2413
+    },
+    {
+      "rank": 129,
+      "player_id": 100533,
+      "player_name": "DeMya Walker",
+      "total": 2379
+    },
+    {
+      "rank": 130,
+      "player_id": 203410,
+      "player_name": "Alex Bentley",
+      "total": 2350
+    },
+    {
+      "rank": 131,
+      "player_id": 1631009,
+      "player_name": "Rhyne Howard",
+      "total": 2329
+    },
+    {
+      "rank": 132,
+      "player_id": 100092,
+      "player_name": "Merlakia Jones",
+      "total": 2308
+    },
+    {
+      "rank": 133,
+      "player_id": 201913,
+      "player_name": "Kia Vaughn",
+      "total": 2288
+    },
+    {
+      "rank": 134,
+      "player_id": 100170,
+      "player_name": "Allison Feaster",
+      "total": 2258
+    },
+    {
+      "rank": 135,
+      "player_id": 203015,
+      "player_name": "Shekinna Stricklen",
+      "total": 2245
+    },
+    {
+      "rank": 136,
+      "player_id": 101025,
+      "player_name": "Kara Braxton",
+      "total": 2237
+    },
+    {
+      "rank": 137,
+      "player_id": 201492,
+      "player_name": "Matee Ajavon",
+      "total": 2237
+    },
+    {
+      "rank": 138,
+      "player_id": 203866,
+      "player_name": "Kayla Thornton",
+      "total": 2235
+    },
+    {
+      "rank": 139,
+      "player_id": 204335,
+      "player_name": "Betnijah Laney-Hamilton",
+      "total": 2228
+    },
+    {
+      "rank": 140,
+      "player_id": 100372,
+      "player_name": "Dawn Staley",
+      "total": 2228
+    },
+    {
+      "rank": 141,
+      "player_id": 1628922,
+      "player_name": "Azur\u00e1 Stevens",
+      "total": 2219
+    },
+    {
+      "rank": 142,
+      "player_id": 101019,
+      "player_name": "Janel McCarville",
+      "total": 2215
+    },
+    {
+      "rank": 143,
+      "player_id": 1629479,
+      "player_name": "Teaira McCowan",
+      "total": 2215
+    },
+    {
+      "rank": 144,
+      "player_id": 1628244,
+      "player_name": "Sami Whitcomb",
+      "total": 2211
+    },
+    {
+      "rank": 145,
+      "player_id": 100105,
+      "player_name": "Sophia Witherspoon",
+      "total": 2210
+    },
+    {
+      "rank": 146,
+      "player_id": 1628915,
+      "player_name": "Kia Nurse",
+      "total": 2188
+    },
+    {
+      "rank": 147,
+      "player_id": 100016,
+      "player_name": "Ruthie Bolton",
+      "total": 2175
+    },
+    {
+      "rank": 148,
+      "player_id": 100445,
+      "player_name": "Ann Wauters",
+      "total": 2170
+    },
+    {
+      "rank": 149,
+      "player_id": 203406,
+      "player_name": "Layshia Clarendon",
+      "total": 2168
+    },
+    {
+      "rank": 150,
+      "player_id": 1630149,
+      "player_name": "Satou Sabally",
+      "total": 2161
+    },
+    {
+      "rank": 151,
+      "player_id": 100199,
+      "player_name": "Murriel Page",
+      "total": 2146
+    },
+    {
+      "rank": 152,
+      "player_id": 201889,
+      "player_name": "Marissa Coleman",
+      "total": 2140
+    },
+    {
+      "rank": 153,
+      "player_id": 100413,
+      "player_name": "Tari Phillips",
+      "total": 2134
+    },
+    {
+      "rank": 154,
+      "player_id": 1628886,
+      "player_name": "Jordin Canada",
+      "total": 2132
+    },
+    {
+      "rank": 155,
+      "player_id": 100843,
+      "player_name": "Cheryl Ford",
+      "total": 2116
+    },
+    {
+      "rank": 156,
+      "player_id": 100043,
+      "player_name": "Elena Baranova",
+      "total": 2110
+    },
+    {
+      "rank": 157,
+      "player_id": 1627672,
+      "player_name": "Aerial Powers",
+      "total": 2068
+    },
+    {
+      "rank": 158,
+      "player_id": 100690,
+      "player_name": "Coco Miller",
+      "total": 2030
+    },
+    {
+      "rank": 159,
+      "player_id": 1628890,
+      "player_name": "Diamond DeShields",
+      "total": 2026
+    },
+    {
+      "rank": 160,
+      "player_id": 100058,
+      "player_name": "Vicky Bullett",
+      "total": 2018
+    },
+    {
+      "rank": 161,
+      "player_id": 1629496,
+      "player_name": "Ezi Magbegor",
+      "total": 1995
+    },
+    {
+      "rank": 162,
+      "player_id": 203829,
+      "player_name": "Bria Hartley",
+      "total": 1967
+    },
+    {
+      "rank": 163,
+      "player_id": 203823,
+      "player_name": "Chiney Ogwumike",
+      "total": 1964
+    },
+    {
+      "rank": 164,
+      "player_id": 100932,
+      "player_name": "Nicole Ohlde",
+      "total": 1959
+    },
+    {
+      "rank": 165,
+      "player_id": 100421,
+      "player_name": "Kedra Holland-Corn",
+      "total": 1938
+    },
+    {
+      "rank": 166,
+      "player_id": 101049,
+      "player_name": "Cathrine Kraayeveld",
+      "total": 1926
+    },
+    {
+      "rank": 167,
+      "player_id": 101033,
+      "player_name": "Roneeka Hodges",
+      "total": 1925
+    },
+    {
+      "rank": 168,
+      "player_id": 100027,
+      "player_name": "Latasha Byears",
+      "total": 1920
+    },
+    {
+      "rank": 169,
+      "player_id": 202640,
+      "player_name": "Karima Christmas-Kelly",
+      "total": 1919
+    },
+    {
+      "rank": 170,
+      "player_id": 202638,
+      "player_name": "Jessica Breland",
+      "total": 1918
+    },
+    {
+      "rank": 171,
+      "player_id": 100556,
+      "player_name": "Nakia Sanford",
+      "total": 1915
+    },
+    {
+      "rank": 172,
+      "player_id": 100928,
+      "player_name": "Ebony Hoffman",
+      "total": 1909
+    },
+    {
+      "rank": 173,
+      "player_id": 201499,
+      "player_name": "Candice Wiggins",
+      "total": 1901
+    },
+    {
+      "rank": 174,
+      "player_id": 1628899,
+      "player_name": "Myisha Hines-Allen",
+      "total": 1873
+    },
+    {
+      "rank": 175,
+      "player_id": 204330,
+      "player_name": "Isabelle Harrison",
+      "total": 1832
+    },
+    {
+      "rank": 176,
+      "player_id": 203403,
+      "player_name": "Tianna Hawkins",
+      "total": 1825
+    },
+    {
+      "rank": 177,
+      "player_id": 201049,
+      "player_name": "Noelle Quinn",
+      "total": 1824
+    },
+    {
+      "rank": 178,
+      "player_id": 202634,
+      "player_name": "Danielle Adams",
+      "total": 1820
+    },
+    {
+      "rank": 179,
+      "player_id": 203024,
+      "player_name": "Damiris Dantas",
+      "total": 1814
+    },
+    {
+      "rank": 180,
+      "player_id": 1641648,
+      "player_name": "Aliyah Boston",
+      "total": 1798
+    },
+    {
+      "rank": 181,
+      "player_id": 201501,
+      "player_name": "Charde Houston",
+      "total": 1797
+    },
+    {
+      "rank": 182,
+      "player_id": 100544,
+      "player_name": "Kamila Vodichkova",
+      "total": 1767
+    },
+    {
+      "rank": 183,
+      "player_id": 1627671,
+      "player_name": "Rachel Banham",
+      "total": 1767
+    },
+    {
+      "rank": 184,
+      "player_id": 100284,
+      "player_name": "Tully Bevilaqua",
+      "total": 1763
+    },
+    {
+      "rank": 185,
+      "player_id": 100247,
+      "player_name": "Sandy Brondello",
+      "total": 1759
+    },
+    {
+      "rank": 186,
+      "player_id": 203411,
+      "player_name": "Sugar Rodgers",
+      "total": 1733
+    },
+    {
+      "rank": 187,
+      "player_id": 1627669,
+      "player_name": "Moriah Jefferson",
+      "total": 1722
+    },
+    {
+      "rank": 188,
+      "player_id": 1629567,
+      "player_name": "Natisha Hiedeman",
+      "total": 1710
+    },
+    {
+      "rank": 189,
+      "player_id": 201048,
+      "player_name": "Armintie Herrington",
+      "total": 1696
+    },
+    {
+      "rank": 190,
+      "player_id": 100724,
+      "player_name": "Nikki Teasley",
+      "total": 1690
+    },
+    {
+      "rank": 191,
+      "player_id": 203018,
+      "player_name": "Shenise Johnson",
+      "total": 1688
+    },
+    {
+      "rank": 192,
+      "player_id": 1631019,
+      "player_name": "NaLyssa Smith",
+      "total": 1676
+    },
+    {
+      "rank": 193,
+      "player_id": 1629482,
+      "player_name": "Sophie Cunningham",
+      "total": 1666
+    },
+    {
+      "rank": 194,
+      "player_id": 1628931,
+      "player_name": "Gabby Williams",
+      "total": 1590
+    },
+    {
+      "rank": 195,
+      "player_id": 100660,
+      "player_name": "Janell Burse",
+      "total": 1580
+    },
+    {
+      "rank": 196,
+      "player_id": 100973,
+      "player_name": "Le'coe Willingham",
+      "total": 1552
+    },
+    {
+      "rank": 197,
+      "player_id": 1628278,
+      "player_name": "Shatori Walker-Kimbrough",
+      "total": 1544
+    },
+    {
+      "rank": 198,
+      "player_id": 204296,
+      "player_name": "Rebecca Allen",
+      "total": 1514
+    },
+    {
+      "rank": 199,
+      "player_id": 1628881,
+      "player_name": "Monique Billings",
+      "total": 1505
+    },
+    {
+      "rank": 200,
+      "player_id": 101080,
+      "player_name": "Jennifer Lacy",
+      "total": 1504
+    }
+  ],
+  "REB": [
+    {
+      "rank": 1,
+      "player_id": 202250,
+      "player_name": "Tina Charles",
+      "total": 4262
+    },
+    {
+      "rank": 2,
+      "player_id": 201480,
+      "player_name": "Sylvia Fowles",
+      "total": 4005
+    },
+    {
+      "rank": 3,
+      "player_id": 201496,
+      "player_name": "Candace Parker",
+      "total": 3467
+    },
+    {
+      "rank": 4,
+      "player_id": 100944,
+      "player_name": "Rebekkah Brunson",
+      "total": 3345
+    },
+    {
+      "rank": 5,
+      "player_id": 100646,
+      "player_name": "Tamika Catchings",
+      "total": 3313
+    },
+    {
+      "rank": 6,
+      "player_id": 100003,
+      "player_name": "Lisa Leslie",
+      "total": 3303
+    },
+    {
+      "rank": 7,
+      "player_id": 203014,
+      "player_name": "Nneka Ogwumike",
+      "total": 3268
+    },
+    {
+      "rank": 8,
+      "player_id": 201886,
+      "player_name": "DeWanna Bonner",
+      "total": 3203
+    },
+    {
+      "rank": 9,
+      "player_id": 200676,
+      "player_name": "Candice Dupree",
+      "total": 3132
+    },
+    {
+      "rank": 10,
+      "player_id": 100076,
+      "player_name": "Tina Thompson",
+      "total": 3065
+    },
+    {
+      "rank": 11,
+      "player_id": 100412,
+      "player_name": "Taj McWilliams-Franklin",
+      "total": 3006
+    },
+    {
+      "rank": 12,
+      "player_id": 203826,
+      "player_name": "Alyssa Thomas",
+      "total": 2740
+    },
+    {
+      "rank": 13,
+      "player_id": 101023,
+      "player_name": "Sancho Lyttle",
+      "total": 2596
+    },
+    {
+      "rank": 14,
+      "player_id": 100396,
+      "player_name": "DeLisha Milton-Jones",
+      "total": 2574
+    },
+    {
+      "rank": 15,
+      "player_id": 1627673,
+      "player_name": "Jonquel Jones",
+      "total": 2570
+    },
+    {
+      "rank": 16,
+      "player_id": 203398,
+      "player_name": "Brittney Griner",
+      "total": 2525
+    },
+    {
+      "rank": 17,
+      "player_id": 100721,
+      "player_name": "Swin Cash",
+      "total": 2521
+    },
+    {
+      "rank": 18,
+      "player_id": 1628932,
+      "player_name": "A'ja Wilson",
+      "total": 2494
+    },
+    {
+      "rank": 19,
+      "player_id": 100729,
+      "player_name": "Michelle Snow",
+      "total": 2476
+    },
+    {
+      "rank": 20,
+      "player_id": 1627668,
+      "player_name": "Breanna Stewart",
+      "total": 2474
+    },
+    {
+      "rank": 21,
+      "player_id": 201518,
+      "player_name": "Crystal Langhorne",
+      "total": 2454
+    },
+    {
+      "rank": 22,
+      "player_id": 100682,
+      "player_name": "Lauren Jackson",
+      "total": 2444
+    },
+    {
+      "rank": 23,
+      "player_id": 100419,
+      "player_name": "Yolanda Griffith",
+      "total": 2440
+    },
+    {
+      "rank": 24,
+      "player_id": 100236,
+      "player_name": "Tangela Smith",
+      "total": 2328
+    },
+    {
+      "rank": 25,
+      "player_id": 204324,
+      "player_name": "Dearica Hamby",
+      "total": 2317
+    },
+    {
+      "rank": 26,
+      "player_id": 100812,
+      "player_name": "Erika de Souza",
+      "total": 2220
+    },
+    {
+      "rank": 27,
+      "player_id": 100940,
+      "player_name": "Diana Taurasi",
+      "total": 2201
+    },
+    {
+      "rank": 28,
+      "player_id": 203827,
+      "player_name": "Natasha Howard",
+      "total": 2174
+    },
+    {
+      "rank": 29,
+      "player_id": 100239,
+      "player_name": "Margo Dydek",
+      "total": 2138
+    },
+    {
+      "rank": 30,
+      "player_id": 100356,
+      "player_name": "Chamique Holdsclaw",
+      "total": 2123
+    },
+    {
+      "rank": 31,
+      "player_id": 100433,
+      "player_name": "Chasity Melvin",
+      "total": 2097
+    },
+    {
+      "rank": 32,
+      "player_id": 100628,
+      "player_name": "Tammy Sutton-Brown",
+      "total": 2010
+    },
+    {
+      "rank": 33,
+      "player_id": 100843,
+      "player_name": "Cheryl Ford",
+      "total": 1907
+    },
+    {
+      "rank": 34,
+      "player_id": 204322,
+      "player_name": "Elizabeth Williams",
+      "total": 1904
+    },
+    {
+      "rank": 35,
+      "player_id": 100888,
+      "player_name": "Plenette Pierson",
+      "total": 1834
+    },
+    {
+      "rank": 36,
+      "player_id": 100366,
+      "player_name": "Natalie Williams",
+      "total": 1832
+    },
+    {
+      "rank": 37,
+      "player_id": 100046,
+      "player_name": "Wendy Palmer",
+      "total": 1824
+    },
+    {
+      "rank": 38,
+      "player_id": 200674,
+      "player_name": "Sophia Young-Malcolm",
+      "total": 1807
+    },
+    {
+      "rank": 39,
+      "player_id": 100915,
+      "player_name": "Lindsay Whalen",
+      "total": 1805
+    },
+    {
+      "rank": 40,
+      "player_id": 201067,
+      "player_name": "Camille Smith",
+      "total": 1802
+    },
+    {
+      "rank": 41,
+      "player_id": 100723,
+      "player_name": "Asjha Jones",
+      "total": 1751
+    },
+    {
+      "rank": 42,
+      "player_id": 1627675,
+      "player_name": "Courtney Williams",
+      "total": 1747
+    },
+    {
+      "rank": 43,
+      "player_id": 204329,
+      "player_name": "Kiah Stokes",
+      "total": 1742
+    },
+    {
+      "rank": 44,
+      "player_id": 1629479,
+      "player_name": "Teaira McCowan",
+      "total": 1670
+    },
+    {
+      "rank": 45,
+      "player_id": 200673,
+      "player_name": "Monique Currie",
+      "total": 1666
+    },
+    {
+      "rank": 46,
+      "player_id": 203828,
+      "player_name": "Stefanie Dolson",
+      "total": 1650
+    },
+    {
+      "rank": 47,
+      "player_id": 203017,
+      "player_name": "Glory Johnson",
+      "total": 1640
+    },
+    {
+      "rank": 48,
+      "player_id": 100103,
+      "player_name": "Vickie Johnson",
+      "total": 1634
+    },
+    {
+      "rank": 49,
+      "player_id": 201913,
+      "player_name": "Kia Vaughn",
+      "total": 1626
+    },
+    {
+      "rank": 50,
+      "player_id": 203399,
+      "player_name": "Elena Delle Donne",
+      "total": 1619
+    },
+    {
+      "rank": 51,
+      "player_id": 100656,
+      "player_name": "Ruth Riley",
+      "total": 1603
+    },
+    {
+      "rank": 52,
+      "player_id": 201907,
+      "player_name": "Courtney Paris",
+      "total": 1596
+    },
+    {
+      "rank": 53,
+      "player_id": 100072,
+      "player_name": "Sheryl Swoopes",
+      "total": 1596
+    },
+    {
+      "rank": 54,
+      "player_id": 100199,
+      "player_name": "Murriel Page",
+      "total": 1595
+    },
+    {
+      "rank": 55,
+      "player_id": 202632,
+      "player_name": "Maya Moore",
+      "total": 1589
+    },
+    {
+      "rank": 56,
+      "player_id": 202638,
+      "player_name": "Jessica Breland",
+      "total": 1586
+    },
+    {
+      "rank": 57,
+      "player_id": 202650,
+      "player_name": "Jantel Lavender",
+      "total": 1569
+    },
+    {
+      "rank": 58,
+      "player_id": 100666,
+      "player_name": "Katie Douglas",
+      "total": 1562
+    },
+    {
+      "rank": 59,
+      "player_id": 201881,
+      "player_name": "Angel McCoughtry",
+      "total": 1561
+    },
+    {
+      "rank": 60,
+      "player_id": 100634,
+      "player_name": "Penny Taylor",
+      "total": 1552
+    },
+    {
+      "rank": 61,
+      "player_id": 200665,
+      "player_name": "Cappie Pondexter",
+      "total": 1513
+    },
+    {
+      "rank": 62,
+      "player_id": 1629483,
+      "player_name": "Napheesa Collier",
+      "total": 1510
+    },
+    {
+      "rank": 63,
+      "player_id": 100234,
+      "player_name": "Ticha Penicheiro",
+      "total": 1485
+    },
+    {
+      "rank": 64,
+      "player_id": 100720,
+      "player_name": "Sue Bird",
+      "total": 1466
+    },
+    {
+      "rank": 65,
+      "player_id": 100919,
+      "player_name": "Nicole Powell",
+      "total": 1457
+    },
+    {
+      "rank": 66,
+      "player_id": 202252,
+      "player_name": "Alysha Clark",
+      "total": 1454
+    },
+    {
+      "rank": 67,
+      "player_id": 201477,
+      "player_name": "Tamera Young",
+      "total": 1433
+    },
+    {
+      "rank": 68,
+      "player_id": 204323,
+      "player_name": "Cheyenne Parker-Tyus",
+      "total": 1424
+    },
+    {
+      "rank": 69,
+      "player_id": 100949,
+      "player_name": "Alana Beard",
+      "total": 1420
+    },
+    {
+      "rank": 70,
+      "player_id": 100556,
+      "player_name": "Nakia Sanford",
+      "total": 1419
+    },
+    {
+      "rank": 71,
+      "player_id": 101025,
+      "player_name": "Kara Braxton",
+      "total": 1387
+    },
+    {
+      "rank": 72,
+      "player_id": 202664,
+      "player_name": "Courtney Vandersloot",
+      "total": 1383
+    },
+    {
+      "rank": 73,
+      "player_id": 100404,
+      "player_name": "Katie Smith",
+      "total": 1383
+    },
+    {
+      "rank": 74,
+      "player_id": 100928,
+      "player_name": "Ebony Hoffman",
+      "total": 1376
+    },
+    {
+      "rank": 75,
+      "player_id": 100416,
+      "player_name": "Sheri Sam",
+      "total": 1356
+    },
+    {
+      "rank": 76,
+      "player_id": 100347,
+      "player_name": "Tamika Whitmore",
+      "total": 1355
+    },
+    {
+      "rank": 77,
+      "player_id": 203416,
+      "player_name": "Emma Meesseman",
+      "total": 1350
+    },
+    {
+      "rank": 78,
+      "player_id": 1628277,
+      "player_name": "Allisha Gray",
+      "total": 1347
+    },
+    {
+      "rank": 79,
+      "player_id": 1628881,
+      "player_name": "Monique Billings",
+      "total": 1345
+    },
+    {
+      "rank": 80,
+      "player_id": 100043,
+      "player_name": "Elena Baranova",
+      "total": 1335
+    },
+    {
+      "rank": 81,
+      "player_id": 1628280,
+      "player_name": "Brionna Jones",
+      "total": 1333
+    },
+    {
+      "rank": 82,
+      "player_id": 204319,
+      "player_name": "Jewell Loyd",
+      "total": 1331
+    },
+    {
+      "rank": 83,
+      "player_id": 201503,
+      "player_name": "Erlana Larkins",
+      "total": 1329
+    },
+    {
+      "rank": 84,
+      "player_id": 100012,
+      "player_name": "Mwadi Mabika",
+      "total": 1327
+    },
+    {
+      "rank": 85,
+      "player_id": 202251,
+      "player_name": "Jayne Appel Marinelli",
+      "total": 1326
+    },
+    {
+      "rank": 86,
+      "player_id": 203866,
+      "player_name": "Kayla Thornton",
+      "total": 1308
+    },
+    {
+      "rank": 87,
+      "player_id": 100484,
+      "player_name": "Betty Lennox",
+      "total": 1296
+    },
+    {
+      "rank": 88,
+      "player_id": 100413,
+      "player_name": "Tari Phillips",
+      "total": 1274
+    },
+    {
+      "rank": 89,
+      "player_id": 101019,
+      "player_name": "Janel McCarville",
+      "total": 1261
+    },
+    {
+      "rank": 90,
+      "player_id": 202633,
+      "player_name": "Liz Cambage",
+      "total": 1258
+    },
+    {
+      "rank": 91,
+      "player_id": 1629496,
+      "player_name": "Ezi Magbegor",
+      "total": 1243
+    },
+    {
+      "rank": 92,
+      "player_id": 1628922,
+      "player_name": "Azur\u00e1 Stevens",
+      "total": 1237
+    },
+    {
+      "rank": 93,
+      "player_id": 203026,
+      "player_name": "Tiffany Hayes",
+      "total": 1233
+    },
+    {
+      "rank": 94,
+      "player_id": 200671,
+      "player_name": "Seimone Augustus",
+      "total": 1228
+    },
+    {
+      "rank": 95,
+      "player_id": 100952,
+      "player_name": "Jia Perkins",
+      "total": 1220
+    },
+    {
+      "rank": 96,
+      "player_id": 1629488,
+      "player_name": "Brianna Turner",
+      "total": 1214
+    },
+    {
+      "rank": 97,
+      "player_id": 1628899,
+      "player_name": "Myisha Hines-Allen",
+      "total": 1208
+    },
+    {
+      "rank": 98,
+      "player_id": 100533,
+      "player_name": "DeMya Walker",
+      "total": 1199
+    },
+    {
+      "rank": 99,
+      "player_id": 100027,
+      "player_name": "Latasha Byears",
+      "total": 1190
+    },
+    {
+      "rank": 100,
+      "player_id": 101030,
+      "player_name": "Tanisha Wright",
+      "total": 1190
+    },
+    {
+      "rank": 101,
+      "player_id": 100058,
+      "player_name": "Vicky Bullett",
+      "total": 1189
+    },
+    {
+      "rank": 102,
+      "player_id": 203833,
+      "player_name": "Chelsea Gray",
+      "total": 1188
+    },
+    {
+      "rank": 103,
+      "player_id": 203825,
+      "player_name": "Kayla McBride",
+      "total": 1182
+    },
+    {
+      "rank": 104,
+      "player_id": 100415,
+      "player_name": "Nykesha Sales",
+      "total": 1148
+    },
+    {
+      "rank": 105,
+      "player_id": 100410,
+      "player_name": "Shannon Johnson",
+      "total": 1143
+    },
+    {
+      "rank": 106,
+      "player_id": 1627674,
+      "player_name": "Kahleah Copper",
+      "total": 1140
+    },
+    {
+      "rank": 107,
+      "player_id": 100526,
+      "player_name": "Adrian Williams-Strong",
+      "total": 1131
+    },
+    {
+      "rank": 108,
+      "player_id": 100059,
+      "player_name": "Andrea Stinson",
+      "total": 1127
+    },
+    {
+      "rank": 109,
+      "player_id": 100725,
+      "player_name": "Tamika Raymond",
+      "total": 1127
+    },
+    {
+      "rank": 110,
+      "player_id": 100363,
+      "player_name": "Adrienne Goodson",
+      "total": 1126
+    },
+    {
+      "rank": 111,
+      "player_id": 100639,
+      "player_name": "Deanna Nolan",
+      "total": 1112
+    },
+    {
+      "rank": 112,
+      "player_id": 203823,
+      "player_name": "Chiney Ogwumike",
+      "total": 1110
+    },
+    {
+      "rank": 113,
+      "player_id": 100342,
+      "player_name": "Becky Hammon",
+      "total": 1108
+    },
+    {
+      "rank": 114,
+      "player_id": 100445,
+      "player_name": "Ann Wauters",
+      "total": 1105
+    },
+    {
+      "rank": 115,
+      "player_id": 1628279,
+      "player_name": "Brittney Sykes",
+      "total": 1105
+    },
+    {
+      "rank": 116,
+      "player_id": 204333,
+      "player_name": "Natasha Cloud",
+      "total": 1080
+    },
+    {
+      "rank": 117,
+      "player_id": 100658,
+      "player_name": "Svetlana Abrosimova",
+      "total": 1078
+    },
+    {
+      "rank": 118,
+      "player_id": 100973,
+      "player_name": "Le'coe Willingham",
+      "total": 1054
+    },
+    {
+      "rank": 119,
+      "player_id": 1631019,
+      "player_name": "NaLyssa Smith",
+      "total": 1054
+    },
+    {
+      "rank": 120,
+      "player_id": 1641648,
+      "player_name": "Aliyah Boston",
+      "total": 1051
+    },
+    {
+      "rank": 121,
+      "player_id": 204330,
+      "player_name": "Isabelle Harrison",
+      "total": 1049
+    },
+    {
+      "rank": 122,
+      "player_id": 100932,
+      "player_name": "Nicole Ohlde",
+      "total": 1040
+    },
+    {
+      "rank": 123,
+      "player_id": 100008,
+      "player_name": "Tamecka Dixon",
+      "total": 1035
+    },
+    {
+      "rank": 124,
+      "player_id": 100544,
+      "player_name": "Kamila Vodichkova",
+      "total": 1031
+    },
+    {
+      "rank": 125,
+      "player_id": 202662,
+      "player_name": "Jasmine Thomas",
+      "total": 1027
+    },
+    {
+      "rank": 126,
+      "player_id": 101049,
+      "player_name": "Cathrine Kraayeveld",
+      "total": 1013
+    },
+    {
+      "rank": 127,
+      "player_id": 100627,
+      "player_name": "Kelly Miller",
+      "total": 1011
+    },
+    {
+      "rank": 128,
+      "player_id": 201049,
+      "player_name": "Noelle Quinn",
+      "total": 1011
+    },
+    {
+      "rank": 129,
+      "player_id": 1629498,
+      "player_name": "Jackie Young",
+      "total": 1002
+    },
+    {
+      "rank": 130,
+      "player_id": 201050,
+      "player_name": "Tiffany Jackson",
+      "total": 1002
+    },
+    {
+      "rank": 131,
+      "player_id": 203403,
+      "player_name": "Tianna Hawkins",
+      "total": 1000
+    },
+    {
+      "rank": 132,
+      "player_id": 203024,
+      "player_name": "Damiris Dantas",
+      "total": 995
+    },
+    {
+      "rank": 133,
+      "player_id": 201889,
+      "player_name": "Marissa Coleman",
+      "total": 995
+    },
+    {
+      "rank": 134,
+      "player_id": 100552,
+      "player_name": "Kristen Rasmussen",
+      "total": 993
+    },
+    {
+      "rank": 135,
+      "player_id": 1629477,
+      "player_name": "Sabrina Ionescu",
+      "total": 993
+    },
+    {
+      "rank": 136,
+      "player_id": 202658,
+      "player_name": "Danielle Robinson",
+      "total": 988
+    },
+    {
+      "rank": 137,
+      "player_id": 201919,
+      "player_name": "Shavonte Zellous",
+      "total": 978
+    },
+    {
+      "rank": 138,
+      "player_id": 100874,
+      "player_name": "Kara Lawson",
+      "total": 976
+    },
+    {
+      "rank": 139,
+      "player_id": 100030,
+      "player_name": "Jennifer Gillom",
+      "total": 964
+    },
+    {
+      "rank": 140,
+      "player_id": 100384,
+      "player_name": "Dominique Canty",
+      "total": 961
+    },
+    {
+      "rank": 141,
+      "player_id": 201048,
+      "player_name": "Armintie Herrington",
+      "total": 960
+    },
+    {
+      "rank": 142,
+      "player_id": 203400,
+      "player_name": "Skylar Diggins",
+      "total": 955
+    },
+    {
+      "rank": 143,
+      "player_id": 100660,
+      "player_name": "Janell Burse",
+      "total": 944
+    },
+    {
+      "rank": 144,
+      "player_id": 100092,
+      "player_name": "Merlakia Jones",
+      "total": 927
+    },
+    {
+      "rank": 145,
+      "player_id": 201500,
+      "player_name": "Nicky Anosike",
+      "total": 922
+    },
+    {
+      "rank": 146,
+      "player_id": 100075,
+      "player_name": "Janeth Arcain",
+      "total": 916
+    },
+    {
+      "rank": 147,
+      "player_id": 1630149,
+      "player_name": "Satou Sabally",
+      "total": 912
+    },
+    {
+      "rank": 148,
+      "player_id": 202640,
+      "player_name": "Karima Christmas-Kelly",
+      "total": 908
+    },
+    {
+      "rank": 149,
+      "player_id": 203831,
+      "player_name": "Natalie Achonwa",
+      "total": 895
+    },
+    {
+      "rank": 150,
+      "player_id": 101024,
+      "player_name": "Temeka Johnson",
+      "total": 889
+    },
+    {
+      "rank": 151,
+      "player_id": 200691,
+      "player_name": "Mistie Bass",
+      "total": 888
+    },
+    {
+      "rank": 152,
+      "player_id": 100937,
+      "player_name": "Shameka Christon",
+      "total": 867
+    },
+    {
+      "rank": 153,
+      "player_id": 202663,
+      "player_name": "Krystal Thomas",
+      "total": 862
+    },
+    {
+      "rank": 154,
+      "player_id": 204365,
+      "player_name": "Erica Wheeler",
+      "total": 852
+    },
+    {
+      "rank": 155,
+      "player_id": 201507,
+      "player_name": "Leilani Mitchell",
+      "total": 845
+    },
+    {
+      "rank": 156,
+      "player_id": 1629501,
+      "player_name": "Alanna Smith",
+      "total": 834
+    },
+    {
+      "rank": 157,
+      "player_id": 201502,
+      "player_name": "Essence Carson",
+      "total": 833
+    },
+    {
+      "rank": 158,
+      "player_id": 201911,
+      "player_name": "Kristi Toliver",
+      "total": 829
+    },
+    {
+      "rank": 159,
+      "player_id": 100685,
+      "player_name": "Marie Ferdinand-Harris",
+      "total": 828
+    },
+    {
+      "rank": 160,
+      "player_id": 1642291,
+      "player_name": "Angel Reese",
+      "total": 823
+    },
+    {
+      "rank": 161,
+      "player_id": 100037,
+      "player_name": "Marlies Askamp",
+      "total": 822
+    },
+    {
+      "rank": 162,
+      "player_id": 204320,
+      "player_name": "Amanda Zahui B",
+      "total": 819
+    },
+    {
+      "rank": 163,
+      "player_id": 100494,
+      "player_name": "Barbara Farris",
+      "total": 819
+    },
+    {
+      "rank": 164,
+      "player_id": 202670,
+      "player_name": "Carolyn Swords",
+      "total": 814
+    },
+    {
+      "rank": 165,
+      "player_id": 1629491,
+      "player_name": "Jessica Shepard",
+      "total": 813
+    },
+    {
+      "rank": 166,
+      "player_id": 1629497,
+      "player_name": "Marina Mabrey",
+      "total": 811
+    },
+    {
+      "rank": 167,
+      "player_id": 203437,
+      "player_name": "Tierra Ruffin-Pratt",
+      "total": 799
+    },
+    {
+      "rank": 168,
+      "player_id": 1628269,
+      "player_name": "Nia Coffey",
+      "total": 795
+    },
+    {
+      "rank": 169,
+      "player_id": 100371,
+      "player_name": "Charlotte Smith",
+      "total": 794
+    },
+    {
+      "rank": 170,
+      "player_id": 100060,
+      "player_name": "Rhonda Mapp",
+      "total": 788
+    },
+    {
+      "rank": 171,
+      "player_id": 1628920,
+      "player_name": "Mercedes Russell",
+      "total": 786
+    },
+    {
+      "rank": 172,
+      "player_id": 204335,
+      "player_name": "Betnijah Laney-Hamilton",
+      "total": 783
+    },
+    {
+      "rank": 173,
+      "player_id": 100104,
+      "player_name": "Sue Wicks",
+      "total": 780
+    },
+    {
+      "rank": 174,
+      "player_id": 201046,
+      "player_name": "Lindsey Harding",
+      "total": 779
+    },
+    {
+      "rank": 175,
+      "player_id": 100233,
+      "player_name": "Tiffani Johnson",
+      "total": 778
+    },
+    {
+      "rank": 176,
+      "player_id": 203824,
+      "player_name": "Odyssey Sims",
+      "total": 776
+    },
+    {
+      "rank": 177,
+      "player_id": 100101,
+      "player_name": "Teresa Weatherspoon",
+      "total": 775
+    },
+    {
+      "rank": 178,
+      "player_id": 1631044,
+      "player_name": "Naz Hillmon",
+      "total": 773
+    },
+    {
+      "rank": 179,
+      "player_id": 100493,
+      "player_name": "Anna DeForge",
+      "total": 769
+    },
+    {
+      "rank": 180,
+      "player_id": 203402,
+      "player_name": "Kelsey Bone",
+      "total": 769
+    },
+    {
+      "rank": 181,
+      "player_id": 101020,
+      "player_name": "Tan White",
+      "total": 769
+    },
+    {
+      "rank": 182,
+      "player_id": 100284,
+      "player_name": "Tully Bevilaqua",
+      "total": 767
+    },
+    {
+      "rank": 183,
+      "player_id": 1628878,
+      "player_name": "Ariel Atkins",
+      "total": 758
+    },
+    {
+      "rank": 184,
+      "player_id": 1628931,
+      "player_name": "Gabby Williams",
+      "total": 758
+    },
+    {
+      "rank": 185,
+      "player_id": 203406,
+      "player_name": "Layshia Clarendon",
+      "total": 756
+    },
+    {
+      "rank": 186,
+      "player_id": 100667,
+      "player_name": "Brooke Wyckoff",
+      "total": 751
+    },
+    {
+      "rank": 187,
+      "player_id": 100690,
+      "player_name": "Coco Miller",
+      "total": 750
+    },
+    {
+      "rank": 188,
+      "player_id": 202652,
+      "player_name": "Alex Montgomery",
+      "total": 735
+    },
+    {
+      "rank": 189,
+      "player_id": 100942,
+      "player_name": "Ashley Robinson",
+      "total": 734
+    },
+    {
+      "rank": 190,
+      "player_id": 203018,
+      "player_name": "Shenise Johnson",
+      "total": 729
+    },
+    {
+      "rank": 191,
+      "player_id": 1628244,
+      "player_name": "Sami Whitcomb",
+      "total": 726
+    },
+    {
+      "rank": 192,
+      "player_id": 203015,
+      "player_name": "Shekinna Stricklen",
+      "total": 726
+    },
+    {
+      "rank": 193,
+      "player_id": 1629481,
+      "player_name": "Arike Ogunbowale",
+      "total": 722
+    },
+    {
+      "rank": 194,
+      "player_id": 1628276,
+      "player_name": "Kelsey Plum",
+      "total": 715
+    },
+    {
+      "rank": 195,
+      "player_id": 100243,
+      "player_name": "Olympia Scott",
+      "total": 711
+    },
+    {
+      "rank": 196,
+      "player_id": 101026,
+      "player_name": "Katie Mattera",
+      "total": 708
+    },
+    {
+      "rank": 197,
+      "player_id": 100097,
+      "player_name": "Rushia Brown",
+      "total": 706
+    },
+    {
+      "rank": 198,
+      "player_id": 201516,
+      "player_name": "Allie Quigley",
+      "total": 702
+    },
+    {
+      "rank": 199,
+      "player_id": 202259,
+      "player_name": "Epiphanny Prince",
+      "total": 701
+    },
+    {
+      "rank": 200,
+      "player_id": 201506,
+      "player_name": "LaToya Sanders",
+      "total": 695
+    }
+  ],
+  "AST": [
+    {
+      "rank": 1,
+      "player_id": 100720,
+      "player_name": "Sue Bird",
+      "total": 3234
+    },
+    {
+      "rank": 2,
+      "player_id": 202664,
+      "player_name": "Courtney Vandersloot",
+      "total": 2887
+    },
+    {
+      "rank": 3,
+      "player_id": 100234,
+      "player_name": "Ticha Penicheiro",
+      "total": 2588
+    },
+    {
+      "rank": 4,
+      "player_id": 100940,
+      "player_name": "Diana Taurasi",
+      "total": 2389
+    },
+    {
+      "rank": 5,
+      "player_id": 100915,
+      "player_name": "Lindsay Whalen",
+      "total": 2347
+    },
+    {
+      "rank": 6,
+      "player_id": 203833,
+      "player_name": "Chelsea Gray",
+      "total": 1870
+    },
+    {
+      "rank": 7,
+      "player_id": 203826,
+      "player_name": "Alyssa Thomas",
+      "total": 1820
+    },
+    {
+      "rank": 8,
+      "player_id": 203400,
+      "player_name": "Skylar Diggins",
+      "total": 1768
+    },
+    {
+      "rank": 9,
+      "player_id": 204333,
+      "player_name": "Natasha Cloud",
+      "total": 1733
+    },
+    {
+      "rank": 10,
+      "player_id": 100342,
+      "player_name": "Becky Hammon",
+      "total": 1705
+    },
+    {
+      "rank": 11,
+      "player_id": 201496,
+      "player_name": "Candace Parker",
+      "total": 1634
+    },
+    {
+      "rank": 12,
+      "player_id": 200665,
+      "player_name": "Cappie Pondexter",
+      "total": 1575
+    },
+    {
+      "rank": 13,
+      "player_id": 100646,
+      "player_name": "Tamika Catchings",
+      "total": 1484
+    },
+    {
+      "rank": 14,
+      "player_id": 202658,
+      "player_name": "Danielle Robinson",
+      "total": 1480
+    },
+    {
+      "rank": 15,
+      "player_id": 100410,
+      "player_name": "Shannon Johnson",
+      "total": 1423
+    },
+    {
+      "rank": 16,
+      "player_id": 101030,
+      "player_name": "Tanisha Wright",
+      "total": 1423
+    },
+    {
+      "rank": 17,
+      "player_id": 101024,
+      "player_name": "Temeka Johnson",
+      "total": 1382
+    },
+    {
+      "rank": 18,
+      "player_id": 1627675,
+      "player_name": "Courtney Williams",
+      "total": 1365
+    },
+    {
+      "rank": 19,
+      "player_id": 202662,
+      "player_name": "Jasmine Thomas",
+      "total": 1355
+    },
+    {
+      "rank": 20,
+      "player_id": 201896,
+      "player_name": "Briann January",
+      "total": 1339
+    },
+    {
+      "rank": 21,
+      "player_id": 100372,
+      "player_name": "Dawn Staley",
+      "total": 1337
+    },
+    {
+      "rank": 22,
+      "player_id": 100101,
+      "player_name": "Teresa Weatherspoon",
+      "total": 1333
+    },
+    {
+      "rank": 23,
+      "player_id": 201911,
+      "player_name": "Kristi Toliver",
+      "total": 1301
+    },
+    {
+      "rank": 24,
+      "player_id": 100404,
+      "player_name": "Katie Smith",
+      "total": 1258
+    },
+    {
+      "rank": 25,
+      "player_id": 204365,
+      "player_name": "Erica Wheeler",
+      "total": 1256
+    },
+    {
+      "rank": 26,
+      "player_id": 100103,
+      "player_name": "Vickie Johnson",
+      "total": 1202
+    },
+    {
+      "rank": 27,
+      "player_id": 203824,
+      "player_name": "Odyssey Sims",
+      "total": 1201
+    },
+    {
+      "rank": 28,
+      "player_id": 201507,
+      "player_name": "Leilani Mitchell",
+      "total": 1197
+    },
+    {
+      "rank": 29,
+      "player_id": 1628276,
+      "player_name": "Kelsey Plum",
+      "total": 1193
+    },
+    {
+      "rank": 30,
+      "player_id": 201886,
+      "player_name": "DeWanna Bonner",
+      "total": 1176
+    },
+    {
+      "rank": 31,
+      "player_id": 201904,
+      "player_name": "Renee Montgomery",
+      "total": 1140
+    },
+    {
+      "rank": 32,
+      "player_id": 1628886,
+      "player_name": "Jordin Canada",
+      "total": 1139
+    },
+    {
+      "rank": 33,
+      "player_id": 204319,
+      "player_name": "Jewell Loyd",
+      "total": 1133
+    },
+    {
+      "rank": 34,
+      "player_id": 100721,
+      "player_name": "Swin Cash",
+      "total": 1131
+    },
+    {
+      "rank": 35,
+      "player_id": 201046,
+      "player_name": "Lindsey Harding",
+      "total": 1090
+    },
+    {
+      "rank": 36,
+      "player_id": 100666,
+      "player_name": "Katie Douglas",
+      "total": 1069
+    },
+    {
+      "rank": 37,
+      "player_id": 1629477,
+      "player_name": "Sabrina Ionescu",
+      "total": 1067
+    },
+    {
+      "rank": 38,
+      "player_id": 100949,
+      "player_name": "Alana Beard",
+      "total": 1061
+    },
+    {
+      "rank": 39,
+      "player_id": 100634,
+      "player_name": "Penny Taylor",
+      "total": 1049
+    },
+    {
+      "rank": 40,
+      "player_id": 100384,
+      "player_name": "Dominique Canty",
+      "total": 1042
+    },
+    {
+      "rank": 41,
+      "player_id": 100072,
+      "player_name": "Sheryl Swoopes",
+      "total": 1037
+    },
+    {
+      "rank": 42,
+      "player_id": 202250,
+      "player_name": "Tina Charles",
+      "total": 1033
+    },
+    {
+      "rank": 43,
+      "player_id": 1629498,
+      "player_name": "Jackie Young",
+      "total": 1029
+    },
+    {
+      "rank": 44,
+      "player_id": 100724,
+      "player_name": "Nikki Teasley",
+      "total": 982
+    },
+    {
+      "rank": 45,
+      "player_id": 100008,
+      "player_name": "Tamecka Dixon",
+      "total": 960
+    },
+    {
+      "rank": 46,
+      "player_id": 100874,
+      "player_name": "Kara Lawson",
+      "total": 946
+    },
+    {
+      "rank": 47,
+      "player_id": 203825,
+      "player_name": "Kayla McBride",
+      "total": 945
+    },
+    {
+      "rank": 48,
+      "player_id": 100639,
+      "player_name": "Deanna Nolan",
+      "total": 930
+    },
+    {
+      "rank": 49,
+      "player_id": 1627668,
+      "player_name": "Breanna Stewart",
+      "total": 927
+    },
+    {
+      "rank": 50,
+      "player_id": 100627,
+      "player_name": "Kelly Miller",
+      "total": 927
+    },
+    {
+      "rank": 51,
+      "player_id": 100396,
+      "player_name": "DeLisha Milton-Jones",
+      "total": 921
+    },
+    {
+      "rank": 52,
+      "player_id": 203026,
+      "player_name": "Tiffany Hayes",
+      "total": 920
+    },
+    {
+      "rank": 53,
+      "player_id": 201881,
+      "player_name": "Angel McCoughtry",
+      "total": 915
+    },
+    {
+      "rank": 54,
+      "player_id": 203406,
+      "player_name": "Layshia Clarendon",
+      "total": 911
+    },
+    {
+      "rank": 55,
+      "player_id": 200671,
+      "player_name": "Seimone Augustus",
+      "total": 911
+    },
+    {
+      "rank": 56,
+      "player_id": 200676,
+      "player_name": "Candice Dupree",
+      "total": 902
+    },
+    {
+      "rank": 57,
+      "player_id": 202632,
+      "player_name": "Maya Moore",
+      "total": 896
+    },
+    {
+      "rank": 58,
+      "player_id": 203014,
+      "player_name": "Nneka Ogwumike",
+      "total": 896
+    },
+    {
+      "rank": 59,
+      "player_id": 1629481,
+      "player_name": "Arike Ogunbowale",
+      "total": 889
+    },
+    {
+      "rank": 60,
+      "player_id": 201056,
+      "player_name": "Ivory Latta",
+      "total": 885
+    },
+    {
+      "rank": 61,
+      "player_id": 100457,
+      "player_name": "Helen Darling",
+      "total": 882
+    },
+    {
+      "rank": 62,
+      "player_id": 100412,
+      "player_name": "Taj McWilliams-Franklin",
+      "total": 879
+    },
+    {
+      "rank": 63,
+      "player_id": 201049,
+      "player_name": "Noelle Quinn",
+      "total": 878
+    },
+    {
+      "rank": 64,
+      "player_id": 100003,
+      "player_name": "Lisa Leslie",
+      "total": 873
+    },
+    {
+      "rank": 65,
+      "player_id": 100284,
+      "player_name": "Tully Bevilaqua",
+      "total": 853
+    },
+    {
+      "rank": 66,
+      "player_id": 100952,
+      "player_name": "Jia Perkins",
+      "total": 837
+    },
+    {
+      "rank": 67,
+      "player_id": 1628279,
+      "player_name": "Brittney Sykes",
+      "total": 814
+    },
+    {
+      "rank": 68,
+      "player_id": 100059,
+      "player_name": "Andrea Stinson",
+      "total": 810
+    },
+    {
+      "rank": 69,
+      "player_id": 100076,
+      "player_name": "Tina Thompson",
+      "total": 803
+    },
+    {
+      "rank": 70,
+      "player_id": 202259,
+      "player_name": "Epiphanny Prince",
+      "total": 800
+    },
+    {
+      "rank": 71,
+      "player_id": 1628909,
+      "player_name": "Kelsey Mitchell",
+      "total": 799
+    },
+    {
+      "rank": 72,
+      "player_id": 100012,
+      "player_name": "Mwadi Mabika",
+      "total": 774
+    },
+    {
+      "rank": 73,
+      "player_id": 100416,
+      "player_name": "Sheri Sam",
+      "total": 745
+    },
+    {
+      "rank": 74,
+      "player_id": 200673,
+      "player_name": "Monique Currie",
+      "total": 740
+    },
+    {
+      "rank": 75,
+      "player_id": 1629497,
+      "player_name": "Marina Mabrey",
+      "total": 736
+    },
+    {
+      "rank": 76,
+      "player_id": 1628277,
+      "player_name": "Allisha Gray",
+      "total": 730
+    },
+    {
+      "rank": 77,
+      "player_id": 100414,
+      "player_name": "Elaine Powell",
+      "total": 728
+    },
+    {
+      "rank": 78,
+      "player_id": 100356,
+      "player_name": "Chamique Holdsclaw",
+      "total": 698
+    },
+    {
+      "rank": 79,
+      "player_id": 201919,
+      "player_name": "Shavonte Zellous",
+      "total": 693
+    },
+    {
+      "rank": 80,
+      "player_id": 201516,
+      "player_name": "Allie Quigley",
+      "total": 690
+    },
+    {
+      "rank": 81,
+      "player_id": 204324,
+      "player_name": "Dearica Hamby",
+      "total": 688
+    },
+    {
+      "rank": 82,
+      "player_id": 1627669,
+      "player_name": "Moriah Jefferson",
+      "total": 685
+    },
+    {
+      "rank": 83,
+      "player_id": 203828,
+      "player_name": "Stefanie Dolson",
+      "total": 683
+    },
+    {
+      "rank": 84,
+      "player_id": 203416,
+      "player_name": "Emma Meesseman",
+      "total": 681
+    },
+    {
+      "rank": 85,
+      "player_id": 100415,
+      "player_name": "Nykesha Sales",
+      "total": 677
+    },
+    {
+      "rank": 86,
+      "player_id": 203829,
+      "player_name": "Bria Hartley",
+      "total": 661
+    },
+    {
+      "rank": 87,
+      "player_id": 1628263,
+      "player_name": "Lindsay Allen",
+      "total": 657
+    },
+    {
+      "rank": 88,
+      "player_id": 100484,
+      "player_name": "Betty Lennox",
+      "total": 651
+    },
+    {
+      "rank": 89,
+      "player_id": 100888,
+      "player_name": "Plenette Pierson",
+      "total": 651
+    },
+    {
+      "rank": 90,
+      "player_id": 1628878,
+      "player_name": "Ariel Atkins",
+      "total": 646
+    },
+    {
+      "rank": 91,
+      "player_id": 203410,
+      "player_name": "Alex Bentley",
+      "total": 645
+    },
+    {
+      "rank": 92,
+      "player_id": 100723,
+      "player_name": "Asjha Jones",
+      "total": 637
+    },
+    {
+      "rank": 93,
+      "player_id": 100382,
+      "player_name": "Jennifer Azzi",
+      "total": 636
+    },
+    {
+      "rank": 94,
+      "player_id": 203398,
+      "player_name": "Brittney Griner",
+      "total": 633
+    },
+    {
+      "rank": 95,
+      "player_id": 1628244,
+      "player_name": "Sami Whitcomb",
+      "total": 623
+    },
+    {
+      "rank": 96,
+      "player_id": 202252,
+      "player_name": "Alysha Clark",
+      "total": 614
+    },
+    {
+      "rank": 97,
+      "player_id": 1628932,
+      "player_name": "A'ja Wilson",
+      "total": 613
+    },
+    {
+      "rank": 98,
+      "player_id": 100359,
+      "player_name": "Debbie Black",
+      "total": 612
+    },
+    {
+      "rank": 99,
+      "player_id": 100073,
+      "player_name": "Cynthia Cooper",
+      "total": 602
+    },
+    {
+      "rank": 100,
+      "player_id": 1627673,
+      "player_name": "Jonquel Jones",
+      "total": 599
+    },
+    {
+      "rank": 101,
+      "player_id": 101023,
+      "player_name": "Sancho Lyttle",
+      "total": 592
+    },
+    {
+      "rank": 102,
+      "player_id": 201067,
+      "player_name": "Camille Smith",
+      "total": 590
+    },
+    {
+      "rank": 103,
+      "player_id": 201048,
+      "player_name": "Armintie Herrington",
+      "total": 589
+    },
+    {
+      "rank": 104,
+      "player_id": 1629567,
+      "player_name": "Natisha Hiedeman",
+      "total": 581
+    },
+    {
+      "rank": 105,
+      "player_id": 101020,
+      "player_name": "Tan White",
+      "total": 578
+    },
+    {
+      "rank": 106,
+      "player_id": 201492,
+      "player_name": "Matee Ajavon",
+      "total": 577
+    },
+    {
+      "rank": 107,
+      "player_id": 1629483,
+      "player_name": "Napheesa Collier",
+      "total": 570
+    },
+    {
+      "rank": 108,
+      "player_id": 204335,
+      "player_name": "Betnijah Laney-Hamilton",
+      "total": 569
+    },
+    {
+      "rank": 109,
+      "player_id": 100919,
+      "player_name": "Nicole Powell",
+      "total": 567
+    },
+    {
+      "rank": 110,
+      "player_id": 101028,
+      "player_name": "Loree Moore",
+      "total": 562
+    },
+    {
+      "rank": 111,
+      "player_id": 203827,
+      "player_name": "Natasha Howard",
+      "total": 562
+    },
+    {
+      "rank": 112,
+      "player_id": 200674,
+      "player_name": "Sophia Young-Malcolm",
+      "total": 554
+    },
+    {
+      "rank": 113,
+      "player_id": 100236,
+      "player_name": "Tangela Smith",
+      "total": 554
+    },
+    {
+      "rank": 114,
+      "player_id": 201477,
+      "player_name": "Tamera Young",
+      "total": 552
+    },
+    {
+      "rank": 115,
+      "player_id": 101019,
+      "player_name": "Janel McCarville",
+      "total": 551
+    },
+    {
+      "rank": 116,
+      "player_id": 100658,
+      "player_name": "Svetlana Abrosimova",
+      "total": 551
+    },
+    {
+      "rank": 117,
+      "player_id": 100029,
+      "player_name": "Michele Timms",
+      "total": 549
+    },
+    {
+      "rank": 118,
+      "player_id": 1628931,
+      "player_name": "Gabby Williams",
+      "total": 546
+    },
+    {
+      "rank": 119,
+      "player_id": 100685,
+      "player_name": "Marie Ferdinand-Harris",
+      "total": 528
+    },
+    {
+      "rank": 120,
+      "player_id": 100239,
+      "player_name": "Margo Dydek",
+      "total": 524
+    },
+    {
+      "rank": 121,
+      "player_id": 100796,
+      "player_name": "Iziane Castro Marques",
+      "total": 509
+    },
+    {
+      "rank": 122,
+      "player_id": 204327,
+      "player_name": "Brittany Boyd-Jones",
+      "total": 508
+    },
+    {
+      "rank": 123,
+      "player_id": 100433,
+      "player_name": "Chasity Melvin",
+      "total": 508
+    },
+    {
+      "rank": 124,
+      "player_id": 100493,
+      "player_name": "Anna DeForge",
+      "total": 503
+    },
+    {
+      "rank": 125,
+      "player_id": 100690,
+      "player_name": "Coco Miller",
+      "total": 503
+    },
+    {
+      "rank": 126,
+      "player_id": 1628899,
+      "player_name": "Myisha Hines-Allen",
+      "total": 497
+    },
+    {
+      "rank": 127,
+      "player_id": 1627671,
+      "player_name": "Rachel Banham",
+      "total": 495
+    },
+    {
+      "rank": 128,
+      "player_id": 100345,
+      "player_name": "Crystal Robinson",
+      "total": 488
+    },
+    {
+      "rank": 129,
+      "player_id": 1627676,
+      "player_name": "Tiffany Mitchell",
+      "total": 488
+    },
+    {
+      "rank": 130,
+      "player_id": 100944,
+      "player_name": "Rebekkah Brunson",
+      "total": 486
+    },
+    {
+      "rank": 131,
+      "player_id": 1631009,
+      "player_name": "Rhyne Howard",
+      "total": 481
+    },
+    {
+      "rank": 132,
+      "player_id": 1631007,
+      "player_name": "Veronica Burton",
+      "total": 479
+    },
+    {
+      "rank": 133,
+      "player_id": 100392,
+      "player_name": "Ukari Figgs",
+      "total": 470
+    },
+    {
+      "rank": 134,
+      "player_id": 100075,
+      "player_name": "Janeth Arcain",
+      "total": 469
+    },
+    {
+      "rank": 135,
+      "player_id": 1627674,
+      "player_name": "Kahleah Copper",
+      "total": 463
+    },
+    {
+      "rank": 136,
+      "player_id": 101039,
+      "player_name": "Erin Phillips",
+      "total": 462
+    },
+    {
+      "rank": 137,
+      "player_id": 201480,
+      "player_name": "Sylvia Fowles",
+      "total": 461
+    },
+    {
+      "rank": 138,
+      "player_id": 202641,
+      "player_name": "Sydney Colson",
+      "total": 454
+    },
+    {
+      "rank": 139,
+      "player_id": 1642286,
+      "player_name": "Caitlin Clark",
+      "total": 452
+    },
+    {
+      "rank": 140,
+      "player_id": 204322,
+      "player_name": "Elizabeth Williams",
+      "total": 452
+    },
+    {
+      "rank": 141,
+      "player_id": 1630149,
+      "player_name": "Satou Sabally",
+      "total": 451
+    },
+    {
+      "rank": 142,
+      "player_id": 100419,
+      "player_name": "Yolanda Griffith",
+      "total": 451
+    },
+    {
+      "rank": 143,
+      "player_id": 203399,
+      "player_name": "Elena Delle Donne",
+      "total": 450
+    },
+    {
+      "rank": 144,
+      "player_id": 100222,
+      "player_name": "Kristi Harrower",
+      "total": 450
+    },
+    {
+      "rank": 145,
+      "player_id": 100198,
+      "player_name": "Nikki McCray",
+      "total": 450
+    },
+    {
+      "rank": 146,
+      "player_id": 100656,
+      "player_name": "Ruth Riley",
+      "total": 449
+    },
+    {
+      "rank": 147,
+      "player_id": 100533,
+      "player_name": "DeMya Walker",
+      "total": 446
+    },
+    {
+      "rank": 148,
+      "player_id": 201502,
+      "player_name": "Essence Carson",
+      "total": 445
+    },
+    {
+      "rank": 149,
+      "player_id": 1630112,
+      "player_name": "Tyasha Harris",
+      "total": 441
+    },
+    {
+      "rank": 150,
+      "player_id": 100729,
+      "player_name": "Michelle Snow",
+      "total": 437
+    },
+    {
+      "rank": 151,
+      "player_id": 100682,
+      "player_name": "Lauren Jackson",
+      "total": 435
+    },
+    {
+      "rank": 152,
+      "player_id": 100363,
+      "player_name": "Adrienne Goodson",
+      "total": 433
+    },
+    {
+      "rank": 153,
+      "player_id": 201518,
+      "player_name": "Crystal Langhorne",
+      "total": 433
+    },
+    {
+      "rank": 154,
+      "player_id": 100043,
+      "player_name": "Elena Baranova",
+      "total": 430
+    },
+    {
+      "rank": 155,
+      "player_id": 1630134,
+      "player_name": "Sug Sutton",
+      "total": 430
+    },
+    {
+      "rank": 156,
+      "player_id": 203437,
+      "player_name": "Tierra Ruffin-Pratt",
+      "total": 424
+    },
+    {
+      "rank": 157,
+      "player_id": 100421,
+      "player_name": "Kedra Holland-Corn",
+      "total": 423
+    },
+    {
+      "rank": 158,
+      "player_id": 1630101,
+      "player_name": "Crystal Dangerfield",
+      "total": 418
+    },
+    {
+      "rank": 159,
+      "player_id": 201499,
+      "player_name": "Candice Wiggins",
+      "total": 417
+    },
+    {
+      "rank": 160,
+      "player_id": 1630462,
+      "player_name": "Aari McDonald",
+      "total": 415
+    },
+    {
+      "rank": 161,
+      "player_id": 100835,
+      "player_name": "Erin Thorn",
+      "total": 414
+    },
+    {
+      "rank": 162,
+      "player_id": 203857,
+      "player_name": "Jamierra Faulkner",
+      "total": 410
+    },
+    {
+      "rank": 163,
+      "player_id": 100199,
+      "player_name": "Murriel Page",
+      "total": 410
+    },
+    {
+      "rank": 164,
+      "player_id": 100170,
+      "player_name": "Allison Feaster",
+      "total": 406
+    },
+    {
+      "rank": 165,
+      "player_id": 100204,
+      "player_name": "Rita Williams",
+      "total": 403
+    },
+    {
+      "rank": 166,
+      "player_id": 201889,
+      "player_name": "Marissa Coleman",
+      "total": 399
+    },
+    {
+      "rank": 167,
+      "player_id": 1628915,
+      "player_name": "Kia Nurse",
+      "total": 397
+    },
+    {
+      "rank": 168,
+      "player_id": 100722,
+      "player_name": "Stacey Dales",
+      "total": 395
+    },
+    {
+      "rank": 169,
+      "player_id": 203411,
+      "player_name": "Sugar Rodgers",
+      "total": 393
+    },
+    {
+      "rank": 170,
+      "player_id": 100937,
+      "player_name": "Shameka Christon",
+      "total": 389
+    },
+    {
+      "rank": 171,
+      "player_id": 100496,
+      "player_name": "Tamicha Jackson",
+      "total": 389
+    },
+    {
+      "rank": 172,
+      "player_id": 203029,
+      "player_name": "Riquna Williams",
+      "total": 387
+    },
+    {
+      "rank": 173,
+      "player_id": 1627700,
+      "player_name": "Julie Allemand",
+      "total": 383
+    },
+    {
+      "rank": 174,
+      "player_id": 1630389,
+      "player_name": "Dana Evans",
+      "total": 379
+    },
+    {
+      "rank": 175,
+      "player_id": 1641648,
+      "player_name": "Aliyah Boston",
+      "total": 378
+    },
+    {
+      "rank": 176,
+      "player_id": 202638,
+      "player_name": "Jessica Breland",
+      "total": 377
+    },
+    {
+      "rank": 177,
+      "player_id": 203018,
+      "player_name": "Shenise Johnson",
+      "total": 376
+    },
+    {
+      "rank": 178,
+      "player_id": 203855,
+      "player_name": "Stephanie Talbot",
+      "total": 372
+    },
+    {
+      "rank": 179,
+      "player_id": 100187,
+      "player_name": "Suzie McConnell Serio",
+      "total": 370
+    },
+    {
+      "rank": 180,
+      "player_id": 203024,
+      "player_name": "Damiris Dantas",
+      "total": 367
+    },
+    {
+      "rank": 181,
+      "player_id": 101033,
+      "player_name": "Roneeka Hodges",
+      "total": 362
+    },
+    {
+      "rank": 182,
+      "player_id": 100353,
+      "player_name": "Andrea Nagy",
+      "total": 361
+    },
+    {
+      "rank": 183,
+      "player_id": 1628890,
+      "player_name": "Diamond DeShields",
+      "total": 361
+    },
+    {
+      "rank": 184,
+      "player_id": 201503,
+      "player_name": "Erlana Larkins",
+      "total": 361
+    },
+    {
+      "rank": 185,
+      "player_id": 1629501,
+      "player_name": "Alanna Smith",
+      "total": 355
+    },
+    {
+      "rank": 186,
+      "player_id": 100092,
+      "player_name": "Merlakia Jones",
+      "total": 355
+    },
+    {
+      "rank": 187,
+      "player_id": 203866,
+      "player_name": "Kayla Thornton",
+      "total": 354
+    },
+    {
+      "rank": 188,
+      "player_id": 1629524,
+      "player_name": "Bridget Carleton",
+      "total": 352
+    },
+    {
+      "rank": 189,
+      "player_id": 100371,
+      "player_name": "Charlotte Smith",
+      "total": 352
+    },
+    {
+      "rank": 190,
+      "player_id": 100016,
+      "player_name": "Ruthie Bolton",
+      "total": 352
+    },
+    {
+      "rank": 191,
+      "player_id": 202650,
+      "player_name": "Jantel Lavender",
+      "total": 350
+    },
+    {
+      "rank": 192,
+      "player_id": 100247,
+      "player_name": "Sandy Brondello",
+      "total": 349
+    },
+    {
+      "rank": 193,
+      "player_id": 100928,
+      "player_name": "Ebony Hoffman",
+      "total": 347
+    },
+    {
+      "rank": 194,
+      "player_id": 100347,
+      "player_name": "Tamika Whitmore",
+      "total": 347
+    },
+    {
+      "rank": 195,
+      "player_id": 100552,
+      "player_name": "Kristen Rasmussen",
+      "total": 345
+    },
+    {
+      "rank": 196,
+      "player_id": 100004,
+      "player_name": "Penny Toler",
+      "total": 345
+    },
+    {
+      "rank": 197,
+      "player_id": 1629496,
+      "player_name": "Ezi Magbegor",
+      "total": 344
+    },
+    {
+      "rank": 198,
+      "player_id": 100336,
+      "player_name": "Sonja Henning",
+      "total": 341
+    },
+    {
+      "rank": 199,
+      "player_id": 1629491,
+      "player_name": "Jessica Shepard",
+      "total": 337
+    },
+    {
+      "rank": 200,
+      "player_id": 201487,
+      "player_name": "Alexis Hornbuckle",
+      "total": 336
+    }
+  ],
+  "BLK": [
+    {
+      "rank": 1,
+      "player_id": 100239,
+      "player_name": "Margo Dydek",
+      "total": 873
+    },
+    {
+      "rank": 2,
+      "player_id": 203398,
+      "player_name": "Brittney Griner",
+      "total": 859
+    },
+    {
+      "rank": 3,
+      "player_id": 100003,
+      "player_name": "Lisa Leslie",
+      "total": 818
+    },
+    {
+      "rank": 4,
+      "player_id": 201480,
+      "player_name": "Sylvia Fowles",
+      "total": 721
+    },
+    {
+      "rank": 5,
+      "player_id": 201496,
+      "player_name": "Candace Parker",
+      "total": 619
+    },
+    {
+      "rank": 6,
+      "player_id": 100682,
+      "player_name": "Lauren Jackson",
+      "total": 586
+    },
+    {
+      "rank": 7,
+      "player_id": 100628,
+      "player_name": "Tammy Sutton-Brown",
+      "total": 555
+    },
+    {
+      "rank": 8,
+      "player_id": 100236,
+      "player_name": "Tangela Smith",
+      "total": 554
+    },
+    {
+      "rank": 9,
+      "player_id": 1628932,
+      "player_name": "A'ja Wilson",
+      "total": 533
+    },
+    {
+      "rank": 10,
+      "player_id": 100656,
+      "player_name": "Ruth Riley",
+      "total": 505
+    },
+    {
+      "rank": 11,
+      "player_id": 204322,
+      "player_name": "Elizabeth Williams",
+      "total": 483
+    },
+    {
+      "rank": 12,
+      "player_id": 100412,
+      "player_name": "Taj McWilliams-Franklin",
+      "total": 443
+    },
+    {
+      "rank": 13,
+      "player_id": 202250,
+      "player_name": "Tina Charles",
+      "total": 428
+    },
+    {
+      "rank": 14,
+      "player_id": 1627668,
+      "player_name": "Breanna Stewart",
+      "total": 425
+    },
+    {
+      "rank": 15,
+      "player_id": 1627673,
+      "player_name": "Jonquel Jones",
+      "total": 404
+    },
+    {
+      "rank": 16,
+      "player_id": 100729,
+      "player_name": "Michelle Snow",
+      "total": 403
+    },
+    {
+      "rank": 17,
+      "player_id": 100646,
+      "player_name": "Tamika Catchings",
+      "total": 383
+    },
+    {
+      "rank": 18,
+      "player_id": 100076,
+      "player_name": "Tina Thompson",
+      "total": 372
+    },
+    {
+      "rank": 19,
+      "player_id": 100812,
+      "player_name": "Erika de Souza",
+      "total": 370
+    },
+    {
+      "rank": 20,
+      "player_id": 202638,
+      "player_name": "Jessica Breland",
+      "total": 367
+    },
+    {
+      "rank": 21,
+      "player_id": 203827,
+      "player_name": "Natasha Howard",
+      "total": 357
+    },
+    {
+      "rank": 22,
+      "player_id": 1629496,
+      "player_name": "Ezi Magbegor",
+      "total": 354
+    },
+    {
+      "rank": 23,
+      "player_id": 100940,
+      "player_name": "Diana Taurasi",
+      "total": 349
+    },
+    {
+      "rank": 24,
+      "player_id": 203399,
+      "player_name": "Elena Delle Donne",
+      "total": 349
+    },
+    {
+      "rank": 25,
+      "player_id": 201886,
+      "player_name": "DeWanna Bonner",
+      "total": 344
+    },
+    {
+      "rank": 26,
+      "player_id": 100396,
+      "player_name": "DeLisha Milton-Jones",
+      "total": 339
+    },
+    {
+      "rank": 27,
+      "player_id": 100419,
+      "player_name": "Yolanda Griffith",
+      "total": 323
+    },
+    {
+      "rank": 28,
+      "player_id": 100043,
+      "player_name": "Elena Baranova",
+      "total": 320
+    },
+    {
+      "rank": 29,
+      "player_id": 200676,
+      "player_name": "Candice Dupree",
+      "total": 316
+    },
+    {
+      "rank": 30,
+      "player_id": 204329,
+      "player_name": "Kiah Stokes",
+      "total": 316
+    },
+    {
+      "rank": 31,
+      "player_id": 203828,
+      "player_name": "Stefanie Dolson",
+      "total": 304
+    },
+    {
+      "rank": 32,
+      "player_id": 100058,
+      "player_name": "Vicky Bullett",
+      "total": 288
+    },
+    {
+      "rank": 33,
+      "player_id": 100944,
+      "player_name": "Rebekkah Brunson",
+      "total": 281
+    },
+    {
+      "rank": 34,
+      "player_id": 202633,
+      "player_name": "Liz Cambage",
+      "total": 264
+    },
+    {
+      "rank": 35,
+      "player_id": 203014,
+      "player_name": "Nneka Ogwumike",
+      "total": 260
+    },
+    {
+      "rank": 36,
+      "player_id": 100721,
+      "player_name": "Swin Cash",
+      "total": 258
+    },
+    {
+      "rank": 37,
+      "player_id": 204323,
+      "player_name": "Cheyenne Parker-Tyus",
+      "total": 250
+    },
+    {
+      "rank": 38,
+      "player_id": 100888,
+      "player_name": "Plenette Pierson",
+      "total": 242
+    },
+    {
+      "rank": 39,
+      "player_id": 1629483,
+      "player_name": "Napheesa Collier",
+      "total": 239
+    },
+    {
+      "rank": 40,
+      "player_id": 203416,
+      "player_name": "Emma Meesseman",
+      "total": 238
+    },
+    {
+      "rank": 41,
+      "player_id": 1628922,
+      "player_name": "Azur\u00e1 Stevens",
+      "total": 230
+    },
+    {
+      "rank": 42,
+      "player_id": 100433,
+      "player_name": "Chasity Melvin",
+      "total": 228
+    },
+    {
+      "rank": 43,
+      "player_id": 1629488,
+      "player_name": "Brianna Turner",
+      "total": 227
+    },
+    {
+      "rank": 44,
+      "player_id": 101023,
+      "player_name": "Sancho Lyttle",
+      "total": 221
+    },
+    {
+      "rank": 45,
+      "player_id": 203400,
+      "player_name": "Skylar Diggins",
+      "total": 221
+    },
+    {
+      "rank": 46,
+      "player_id": 100949,
+      "player_name": "Alana Beard",
+      "total": 220
+    },
+    {
+      "rank": 47,
+      "player_id": 1629479,
+      "player_name": "Teaira McCowan",
+      "total": 220
+    },
+    {
+      "rank": 48,
+      "player_id": 1629501,
+      "player_name": "Alanna Smith",
+      "total": 219
+    },
+    {
+      "rank": 49,
+      "player_id": 100660,
+      "player_name": "Janell Burse",
+      "total": 216
+    },
+    {
+      "rank": 50,
+      "player_id": 100072,
+      "player_name": "Sheryl Swoopes",
+      "total": 216
+    },
+    {
+      "rank": 51,
+      "player_id": 201506,
+      "player_name": "LaToya Sanders",
+      "total": 207
+    },
+    {
+      "rank": 52,
+      "player_id": 100942,
+      "player_name": "Ashley Robinson",
+      "total": 204
+    },
+    {
+      "rank": 53,
+      "player_id": 100723,
+      "player_name": "Asjha Jones",
+      "total": 204
+    },
+    {
+      "rank": 54,
+      "player_id": 101019,
+      "player_name": "Janel McCarville",
+      "total": 201
+    },
+    {
+      "rank": 55,
+      "player_id": 204296,
+      "player_name": "Rebecca Allen",
+      "total": 195
+    },
+    {
+      "rank": 56,
+      "player_id": 202251,
+      "player_name": "Jayne Appel Marinelli",
+      "total": 194
+    },
+    {
+      "rank": 57,
+      "player_id": 201881,
+      "player_name": "Angel McCoughtry",
+      "total": 193
+    },
+    {
+      "rank": 58,
+      "player_id": 202664,
+      "player_name": "Courtney Vandersloot",
+      "total": 193
+    },
+    {
+      "rank": 59,
+      "player_id": 100199,
+      "player_name": "Murriel Page",
+      "total": 193
+    },
+    {
+      "rank": 60,
+      "player_id": 100648,
+      "player_name": "Kelly Schumacher",
+      "total": 183
+    },
+    {
+      "rank": 61,
+      "player_id": 100227,
+      "player_name": "Maria Stepanova",
+      "total": 182
+    },
+    {
+      "rank": 62,
+      "player_id": 201907,
+      "player_name": "Courtney Paris",
+      "total": 178
+    },
+    {
+      "rank": 63,
+      "player_id": 100933,
+      "player_name": "Vanessa Hayden",
+      "total": 177
+    },
+    {
+      "rank": 64,
+      "player_id": 202632,
+      "player_name": "Maya Moore",
+      "total": 176
+    },
+    {
+      "rank": 65,
+      "player_id": 201913,
+      "player_name": "Kia Vaughn",
+      "total": 175
+    },
+    {
+      "rank": 66,
+      "player_id": 204320,
+      "player_name": "Amanda Zahui B",
+      "total": 171
+    },
+    {
+      "rank": 67,
+      "player_id": 100932,
+      "player_name": "Nicole Ohlde",
+      "total": 171
+    },
+    {
+      "rank": 68,
+      "player_id": 202650,
+      "player_name": "Jantel Lavender",
+      "total": 170
+    },
+    {
+      "rank": 69,
+      "player_id": 201067,
+      "player_name": "Camille Smith",
+      "total": 169
+    },
+    {
+      "rank": 70,
+      "player_id": 100937,
+      "player_name": "Shameka Christon",
+      "total": 165
+    },
+    {
+      "rank": 71,
+      "player_id": 100843,
+      "player_name": "Cheryl Ford",
+      "total": 160
+    },
+    {
+      "rank": 72,
+      "player_id": 101025,
+      "player_name": "Kara Braxton",
+      "total": 157
+    },
+    {
+      "rank": 73,
+      "player_id": 100533,
+      "player_name": "DeMya Walker",
+      "total": 155
+    },
+    {
+      "rank": 74,
+      "player_id": 100347,
+      "player_name": "Tamika Whitmore",
+      "total": 155
+    },
+    {
+      "rank": 75,
+      "player_id": 100445,
+      "player_name": "Ann Wauters",
+      "total": 153
+    },
+    {
+      "rank": 76,
+      "player_id": 100104,
+      "player_name": "Sue Wicks",
+      "total": 153
+    },
+    {
+      "rank": 77,
+      "player_id": 1628277,
+      "player_name": "Allisha Gray",
+      "total": 151
+    },
+    {
+      "rank": 78,
+      "player_id": 201047,
+      "player_name": "Jessica Davenport",
+      "total": 151
+    },
+    {
+      "rank": 79,
+      "player_id": 1628269,
+      "player_name": "Nia Coffey",
+      "total": 151
+    },
+    {
+      "rank": 80,
+      "player_id": 201054,
+      "player_name": "Alison Bales",
+      "total": 148
+    },
+    {
+      "rank": 81,
+      "player_id": 100356,
+      "player_name": "Chamique Holdsclaw",
+      "total": 143
+    },
+    {
+      "rank": 82,
+      "player_id": 1641648,
+      "player_name": "Aliyah Boston",
+      "total": 140
+    },
+    {
+      "rank": 83,
+      "player_id": 201919,
+      "player_name": "Shavonte Zellous",
+      "total": 139
+    },
+    {
+      "rank": 84,
+      "player_id": 100634,
+      "player_name": "Penny Taylor",
+      "total": 136
+    },
+    {
+      "rank": 85,
+      "player_id": 203016,
+      "player_name": "Devereaux Peters",
+      "total": 133
+    },
+    {
+      "rank": 86,
+      "player_id": 201500,
+      "player_name": "Nicky Anosike",
+      "total": 133
+    },
+    {
+      "rank": 87,
+      "player_id": 200671,
+      "player_name": "Seimone Augustus",
+      "total": 133
+    },
+    {
+      "rank": 88,
+      "player_id": 101026,
+      "player_name": "Katie Mattera",
+      "total": 131
+    },
+    {
+      "rank": 89,
+      "player_id": 100556,
+      "player_name": "Nakia Sanford",
+      "total": 131
+    },
+    {
+      "rank": 90,
+      "player_id": 1628279,
+      "player_name": "Brittney Sykes",
+      "total": 129
+    },
+    {
+      "rank": 91,
+      "player_id": 100667,
+      "player_name": "Brooke Wyckoff",
+      "total": 129
+    },
+    {
+      "rank": 92,
+      "player_id": 101049,
+      "player_name": "Cathrine Kraayeveld",
+      "total": 129
+    },
+    {
+      "rank": 93,
+      "player_id": 203823,
+      "player_name": "Chiney Ogwumike",
+      "total": 127
+    },
+    {
+      "rank": 94,
+      "player_id": 100552,
+      "player_name": "Kristen Rasmussen",
+      "total": 127
+    },
+    {
+      "rank": 95,
+      "player_id": 100666,
+      "player_name": "Katie Douglas",
+      "total": 126
+    },
+    {
+      "rank": 96,
+      "player_id": 200691,
+      "player_name": "Mistie Bass",
+      "total": 126
+    },
+    {
+      "rank": 97,
+      "player_id": 1628280,
+      "player_name": "Brionna Jones",
+      "total": 125
+    },
+    {
+      "rank": 98,
+      "player_id": 1628881,
+      "player_name": "Monique Billings",
+      "total": 123
+    },
+    {
+      "rank": 99,
+      "player_id": 100366,
+      "player_name": "Natalie Williams",
+      "total": 122
+    },
+    {
+      "rank": 100,
+      "player_id": 203826,
+      "player_name": "Alyssa Thomas",
+      "total": 121
+    },
+    {
+      "rank": 101,
+      "player_id": 100928,
+      "player_name": "Ebony Hoffman",
+      "total": 121
+    },
+    {
+      "rank": 102,
+      "player_id": 201502,
+      "player_name": "Essence Carson",
+      "total": 121
+    },
+    {
+      "rank": 103,
+      "player_id": 1631135,
+      "player_name": "Olivia Nelson-Ododa",
+      "total": 121
+    },
+    {
+      "rank": 104,
+      "player_id": 203833,
+      "player_name": "Chelsea Gray",
+      "total": 119
+    },
+    {
+      "rank": 105,
+      "player_id": 202663,
+      "player_name": "Krystal Thomas",
+      "total": 118
+    },
+    {
+      "rank": 106,
+      "player_id": 100059,
+      "player_name": "Andrea Stinson",
+      "total": 117
+    },
+    {
+      "rank": 107,
+      "player_id": 201518,
+      "player_name": "Crystal Langhorne",
+      "total": 117
+    },
+    {
+      "rank": 108,
+      "player_id": 200673,
+      "player_name": "Monique Currie",
+      "total": 114
+    },
+    {
+      "rank": 109,
+      "player_id": 100642,
+      "player_name": "Amanda Lassiter",
+      "total": 111
+    },
+    {
+      "rank": 110,
+      "player_id": 100544,
+      "player_name": "Kamila Vodichkova",
+      "total": 111
+    },
+    {
+      "rank": 111,
+      "player_id": 200674,
+      "player_name": "Sophia Young-Malcolm",
+      "total": 111
+    },
+    {
+      "rank": 112,
+      "player_id": 100413,
+      "player_name": "Tari Phillips",
+      "total": 111
+    },
+    {
+      "rank": 113,
+      "player_id": 1628878,
+      "player_name": "Ariel Atkins",
+      "total": 109
+    },
+    {
+      "rank": 114,
+      "player_id": 100659,
+      "player_name": "Erin Perperoglou",
+      "total": 108
+    },
+    {
+      "rank": 115,
+      "player_id": 203017,
+      "player_name": "Glory Johnson",
+      "total": 108
+    },
+    {
+      "rank": 116,
+      "player_id": 100529,
+      "player_name": "Sylvia Crawley",
+      "total": 106
+    },
+    {
+      "rank": 117,
+      "player_id": 202670,
+      "player_name": "Carolyn Swords",
+      "total": 104
+    },
+    {
+      "rank": 118,
+      "player_id": 100002,
+      "player_name": "Rebecca Lobo",
+      "total": 104
+    },
+    {
+      "rank": 119,
+      "player_id": 100030,
+      "player_name": "Jennifer Gillom",
+      "total": 103
+    },
+    {
+      "rank": 120,
+      "player_id": 100952,
+      "player_name": "Jia Perkins",
+      "total": 103
+    },
+    {
+      "rank": 121,
+      "player_id": 203849,
+      "player_name": "Theresa Plaisance",
+      "total": 102
+    },
+    {
+      "rank": 122,
+      "player_id": 1627675,
+      "player_name": "Courtney Williams",
+      "total": 101
+    },
+    {
+      "rank": 123,
+      "player_id": 100639,
+      "player_name": "Deanna Nolan",
+      "total": 101
+    },
+    {
+      "rank": 124,
+      "player_id": 204324,
+      "player_name": "Dearica Hamby",
+      "total": 101
+    },
+    {
+      "rank": 125,
+      "player_id": 1631022,
+      "player_name": "Shakira Austin",
+      "total": 101
+    },
+    {
+      "rank": 126,
+      "player_id": 201884,
+      "player_name": "Chante Black",
+      "total": 100
+    },
+    {
+      "rank": 127,
+      "player_id": 202634,
+      "player_name": "Danielle Adams",
+      "total": 100
+    },
+    {
+      "rank": 128,
+      "player_id": 100919,
+      "player_name": "Nicole Powell",
+      "total": 100
+    },
+    {
+      "rank": 129,
+      "player_id": 1630442,
+      "player_name": "Natasha Mack",
+      "total": 99
+    },
+    {
+      "rank": 130,
+      "player_id": 100012,
+      "player_name": "Mwadi Mabika",
+      "total": 98
+    },
+    {
+      "rank": 131,
+      "player_id": 203831,
+      "player_name": "Natalie Achonwa",
+      "total": 98
+    },
+    {
+      "rank": 132,
+      "player_id": 1631009,
+      "player_name": "Rhyne Howard",
+      "total": 97
+    },
+    {
+      "rank": 133,
+      "player_id": 202623,
+      "player_name": "Aneika Morello",
+      "total": 96
+    },
+    {
+      "rank": 134,
+      "player_id": 100233,
+      "player_name": "Tiffani Johnson",
+      "total": 96
+    },
+    {
+      "rank": 135,
+      "player_id": 1627677,
+      "player_name": "Imani McGee-Stafford",
+      "total": 95
+    },
+    {
+      "rank": 136,
+      "player_id": 204330,
+      "player_name": "Isabelle Harrison",
+      "total": 95
+    },
+    {
+      "rank": 137,
+      "player_id": 201058,
+      "player_name": "Sandrine Gruda",
+      "total": 94
+    },
+    {
+      "rank": 138,
+      "player_id": 1642289,
+      "player_name": "Kamilla Cardoso",
+      "total": 93
+    },
+    {
+      "rank": 139,
+      "player_id": 1631083,
+      "player_name": "Emily Engstler",
+      "total": 92
+    },
+    {
+      "rank": 140,
+      "player_id": 202662,
+      "player_name": "Jasmine Thomas",
+      "total": 91
+    },
+    {
+      "rank": 141,
+      "player_id": 204319,
+      "player_name": "Jewell Loyd",
+      "total": 91
+    },
+    {
+      "rank": 142,
+      "player_id": 203405,
+      "player_name": "Kayla Alexander",
+      "total": 91
+    },
+    {
+      "rank": 143,
+      "player_id": 201516,
+      "player_name": "Allie Quigley",
+      "total": 90
+    },
+    {
+      "rank": 144,
+      "player_id": 202252,
+      "player_name": "Alysha Clark",
+      "total": 89
+    },
+    {
+      "rank": 145,
+      "player_id": 201889,
+      "player_name": "Marissa Coleman",
+      "total": 88
+    },
+    {
+      "rank": 146,
+      "player_id": 203026,
+      "player_name": "Tiffany Hayes",
+      "total": 87
+    },
+    {
+      "rank": 147,
+      "player_id": 100387,
+      "player_name": "Astou Ndiaye-Diatta",
+      "total": 86
+    },
+    {
+      "rank": 148,
+      "player_id": 203866,
+      "player_name": "Kayla Thornton",
+      "total": 86
+    },
+    {
+      "rank": 149,
+      "player_id": 1631019,
+      "player_name": "NaLyssa Smith",
+      "total": 86
+    },
+    {
+      "rank": 150,
+      "player_id": 100526,
+      "player_name": "Adrian Williams-Strong",
+      "total": 85
+    },
+    {
+      "rank": 151,
+      "player_id": 201503,
+      "player_name": "Erlana Larkins",
+      "total": 85
+    },
+    {
+      "rank": 152,
+      "player_id": 1629480,
+      "player_name": "Kalani Brown",
+      "total": 85
+    },
+    {
+      "rank": 153,
+      "player_id": 100400,
+      "player_name": "Kristin Folkl",
+      "total": 85
+    },
+    {
+      "rank": 154,
+      "player_id": 201501,
+      "player_name": "Charde Houston",
+      "total": 84
+    },
+    {
+      "rank": 155,
+      "player_id": 1628278,
+      "player_name": "Shatori Walker-Kimbrough",
+      "total": 84
+    },
+    {
+      "rank": 156,
+      "player_id": 201477,
+      "player_name": "Tamera Young",
+      "total": 83
+    },
+    {
+      "rank": 157,
+      "player_id": 100371,
+      "player_name": "Charlotte Smith",
+      "total": 81
+    },
+    {
+      "rank": 158,
+      "player_id": 100514,
+      "player_name": "Cintia dos Santos",
+      "total": 81
+    },
+    {
+      "rank": 159,
+      "player_id": 100048,
+      "player_name": "Jessie Hicks",
+      "total": 81
+    },
+    {
+      "rank": 160,
+      "player_id": 204333,
+      "player_name": "Natasha Cloud",
+      "total": 81
+    },
+    {
+      "rank": 161,
+      "player_id": 203024,
+      "player_name": "Damiris Dantas",
+      "total": 80
+    },
+    {
+      "rank": 162,
+      "player_id": 100415,
+      "player_name": "Nykesha Sales",
+      "total": 80
+    },
+    {
+      "rank": 163,
+      "player_id": 100097,
+      "player_name": "Rushia Brown",
+      "total": 80
+    },
+    {
+      "rank": 164,
+      "player_id": 203838,
+      "player_name": "Astou Ndour-Fall",
+      "total": 78
+    },
+    {
+      "rank": 165,
+      "player_id": 100404,
+      "player_name": "Katie Smith",
+      "total": 78
+    },
+    {
+      "rank": 166,
+      "player_id": 100713,
+      "player_name": "Slobodanka Tuvic",
+      "total": 78
+    },
+    {
+      "rank": 167,
+      "player_id": 100340,
+      "player_name": "Kara Wolters",
+      "total": 77
+    },
+    {
+      "rank": 168,
+      "player_id": 1629497,
+      "player_name": "Marina Mabrey",
+      "total": 77
+    },
+    {
+      "rank": 169,
+      "player_id": 201049,
+      "player_name": "Noelle Quinn",
+      "total": 77
+    },
+    {
+      "rank": 170,
+      "player_id": 203437,
+      "player_name": "Tierra Ruffin-Pratt",
+      "total": 77
+    },
+    {
+      "rank": 171,
+      "player_id": 101080,
+      "player_name": "Jennifer Lacy",
+      "total": 76
+    },
+    {
+      "rank": 172,
+      "player_id": 203411,
+      "player_name": "Sugar Rodgers",
+      "total": 76
+    },
+    {
+      "rank": 173,
+      "player_id": 101020,
+      "player_name": "Tan White",
+      "total": 76
+    },
+    {
+      "rank": 174,
+      "player_id": 201050,
+      "player_name": "Tiffany Jackson",
+      "total": 76
+    },
+    {
+      "rank": 175,
+      "player_id": 202640,
+      "player_name": "Karima Christmas-Kelly",
+      "total": 75
+    },
+    {
+      "rank": 176,
+      "player_id": 202254,
+      "player_name": "Kelsey Griffin",
+      "total": 75
+    },
+    {
+      "rank": 177,
+      "player_id": 203403,
+      "player_name": "Tianna Hawkins",
+      "total": 75
+    },
+    {
+      "rank": 178,
+      "player_id": 202259,
+      "player_name": "Epiphanny Prince",
+      "total": 74
+    },
+    {
+      "rank": 179,
+      "player_id": 203855,
+      "player_name": "Stephanie Talbot",
+      "total": 74
+    },
+    {
+      "rank": 180,
+      "player_id": 100740,
+      "player_name": "Ayana Walker",
+      "total": 73
+    },
+    {
+      "rank": 181,
+      "player_id": 201918,
+      "player_name": "Lindsay Wisdom-Hylton",
+      "total": 73
+    },
+    {
+      "rank": 182,
+      "player_id": 200665,
+      "player_name": "Cappie Pondexter",
+      "total": 72
+    },
+    {
+      "rank": 183,
+      "player_id": 100930,
+      "player_name": "Christi Thomas",
+      "total": 72
+    },
+    {
+      "rank": 184,
+      "player_id": 100243,
+      "player_name": "Olympia Scott",
+      "total": 72
+    },
+    {
+      "rank": 185,
+      "player_id": 100720,
+      "player_name": "Sue Bird",
+      "total": 72
+    },
+    {
+      "rank": 186,
+      "player_id": 100037,
+      "player_name": "Marlies Askamp",
+      "total": 71
+    },
+    {
+      "rank": 187,
+      "player_id": 101030,
+      "player_name": "Tanisha Wright",
+      "total": 71
+    },
+    {
+      "rank": 188,
+      "player_id": 100046,
+      "player_name": "Wendy Palmer",
+      "total": 70
+    },
+    {
+      "rank": 189,
+      "player_id": 1628920,
+      "player_name": "Mercedes Russell",
+      "total": 69
+    },
+    {
+      "rank": 190,
+      "player_id": 1628899,
+      "player_name": "Myisha Hines-Allen",
+      "total": 69
+    },
+    {
+      "rank": 191,
+      "player_id": 100060,
+      "player_name": "Rhonda Mapp",
+      "total": 69
+    },
+    {
+      "rank": 192,
+      "player_id": 1630149,
+      "player_name": "Satou Sabally",
+      "total": 67
+    },
+    {
+      "rank": 193,
+      "player_id": 100410,
+      "player_name": "Shannon Johnson",
+      "total": 67
+    },
+    {
+      "rank": 194,
+      "player_id": 1630386,
+      "player_name": "Awak Kuier",
+      "total": 65
+    },
+    {
+      "rank": 195,
+      "player_id": 100345,
+      "player_name": "Crystal Robinson",
+      "total": 65
+    },
+    {
+      "rank": 196,
+      "player_id": 1631031,
+      "player_name": "Queen Egbo",
+      "total": 65
+    },
+    {
+      "rank": 197,
+      "player_id": 203029,
+      "player_name": "Riquna Williams",
+      "total": 65
+    },
+    {
+      "rank": 198,
+      "player_id": 1629477,
+      "player_name": "Sabrina Ionescu",
+      "total": 65
+    },
+    {
+      "rank": 199,
+      "player_id": 1629498,
+      "player_name": "Jackie Young",
+      "total": 64
+    },
+    {
+      "rank": 200,
+      "player_id": 100091,
+      "player_name": "Eva Nemcova",
+      "total": 63
+    }
+  ],
+  "STL": [
+    {
+      "rank": 1,
+      "player_id": 100646,
+      "player_name": "Tamika Catchings",
+      "total": 1072
+    },
+    {
+      "rank": 2,
+      "player_id": 100234,
+      "player_name": "Ticha Penicheiro",
+      "total": 761
+    },
+    {
+      "rank": 3,
+      "player_id": 100720,
+      "player_name": "Sue Bird",
+      "total": 724
+    },
+    {
+      "rank": 4,
+      "player_id": 100949,
+      "player_name": "Alana Beard",
+      "total": 710
+    },
+    {
+      "rank": 5,
+      "player_id": 203014,
+      "player_name": "Nneka Ogwumike",
+      "total": 668
+    },
+    {
+      "rank": 6,
+      "player_id": 100072,
+      "player_name": "Sheryl Swoopes",
+      "total": 657
+    },
+    {
+      "rank": 7,
+      "player_id": 100952,
+      "player_name": "Jia Perkins",
+      "total": 634
+    },
+    {
+      "rank": 8,
+      "player_id": 201886,
+      "player_name": "DeWanna Bonner",
+      "total": 631
+    },
+    {
+      "rank": 9,
+      "player_id": 101023,
+      "player_name": "Sancho Lyttle",
+      "total": 630
+    },
+    {
+      "rank": 10,
+      "player_id": 201881,
+      "player_name": "Angel McCoughtry",
+      "total": 627
+    },
+    {
+      "rank": 11,
+      "player_id": 100666,
+      "player_name": "Katie Douglas",
+      "total": 623
+    },
+    {
+      "rank": 12,
+      "player_id": 100396,
+      "player_name": "DeLisha Milton-Jones",
+      "total": 619
+    },
+    {
+      "rank": 13,
+      "player_id": 100412,
+      "player_name": "Taj McWilliams-Franklin",
+      "total": 577
+    },
+    {
+      "rank": 14,
+      "player_id": 100284,
+      "player_name": "Tully Bevilaqua",
+      "total": 571
+    },
+    {
+      "rank": 15,
+      "player_id": 203826,
+      "player_name": "Alyssa Thomas",
+      "total": 556
+    },
+    {
+      "rank": 16,
+      "player_id": 202664,
+      "player_name": "Courtney Vandersloot",
+      "total": 544
+    },
+    {
+      "rank": 17,
+      "player_id": 100419,
+      "player_name": "Yolanda Griffith",
+      "total": 527
+    },
+    {
+      "rank": 18,
+      "player_id": 201496,
+      "player_name": "Candace Parker",
+      "total": 521
+    },
+    {
+      "rank": 19,
+      "player_id": 100940,
+      "player_name": "Diana Taurasi",
+      "total": 515
+    },
+    {
+      "rank": 20,
+      "player_id": 100915,
+      "player_name": "Lindsay Whalen",
+      "total": 500
+    },
+    {
+      "rank": 21,
+      "player_id": 100003,
+      "player_name": "Lisa Leslie",
+      "total": 490
+    },
+    {
+      "rank": 22,
+      "player_id": 100410,
+      "player_name": "Shannon Johnson",
+      "total": 490
+    },
+    {
+      "rank": 23,
+      "player_id": 201480,
+      "player_name": "Sylvia Fowles",
+      "total": 490
+    },
+    {
+      "rank": 24,
+      "player_id": 100415,
+      "player_name": "Nykesha Sales",
+      "total": 486
+    },
+    {
+      "rank": 25,
+      "player_id": 100342,
+      "player_name": "Becky Hammon",
+      "total": 485
+    },
+    {
+      "rank": 26,
+      "player_id": 100634,
+      "player_name": "Penny Taylor",
+      "total": 479
+    },
+    {
+      "rank": 27,
+      "player_id": 200674,
+      "player_name": "Sophia Young-Malcolm",
+      "total": 477
+    },
+    {
+      "rank": 28,
+      "player_id": 100101,
+      "player_name": "Teresa Weatherspoon",
+      "total": 463
+    },
+    {
+      "rank": 29,
+      "player_id": 100944,
+      "player_name": "Rebekkah Brunson",
+      "total": 456
+    },
+    {
+      "rank": 30,
+      "player_id": 100236,
+      "player_name": "Tangela Smith",
+      "total": 455
+    },
+    {
+      "rank": 31,
+      "player_id": 100076,
+      "player_name": "Tina Thompson",
+      "total": 452
+    },
+    {
+      "rank": 32,
+      "player_id": 202632,
+      "player_name": "Maya Moore",
+      "total": 449
+    },
+    {
+      "rank": 33,
+      "player_id": 203400,
+      "player_name": "Skylar Diggins",
+      "total": 445
+    },
+    {
+      "rank": 34,
+      "player_id": 204319,
+      "player_name": "Jewell Loyd",
+      "total": 441
+    },
+    {
+      "rank": 35,
+      "player_id": 100416,
+      "player_name": "Sheri Sam",
+      "total": 438
+    },
+    {
+      "rank": 36,
+      "player_id": 201067,
+      "player_name": "Camille Smith",
+      "total": 437
+    },
+    {
+      "rank": 37,
+      "player_id": 203833,
+      "player_name": "Chelsea Gray",
+      "total": 436
+    },
+    {
+      "rank": 38,
+      "player_id": 203827,
+      "player_name": "Natasha Howard",
+      "total": 434
+    },
+    {
+      "rank": 39,
+      "player_id": 200676,
+      "player_name": "Candice Dupree",
+      "total": 431
+    },
+    {
+      "rank": 40,
+      "player_id": 202259,
+      "player_name": "Epiphanny Prince",
+      "total": 429
+    },
+    {
+      "rank": 41,
+      "player_id": 101030,
+      "player_name": "Tanisha Wright",
+      "total": 427
+    },
+    {
+      "rank": 42,
+      "player_id": 203825,
+      "player_name": "Kayla McBride",
+      "total": 418
+    },
+    {
+      "rank": 43,
+      "player_id": 1627668,
+      "player_name": "Breanna Stewart",
+      "total": 410
+    },
+    {
+      "rank": 44,
+      "player_id": 100404,
+      "player_name": "Katie Smith",
+      "total": 408
+    },
+    {
+      "rank": 45,
+      "player_id": 200665,
+      "player_name": "Cappie Pondexter",
+      "total": 405
+    },
+    {
+      "rank": 46,
+      "player_id": 100919,
+      "player_name": "Nicole Powell",
+      "total": 401
+    },
+    {
+      "rank": 47,
+      "player_id": 202662,
+      "player_name": "Jasmine Thomas",
+      "total": 394
+    },
+    {
+      "rank": 48,
+      "player_id": 202658,
+      "player_name": "Danielle Robinson",
+      "total": 389
+    },
+    {
+      "rank": 49,
+      "player_id": 100639,
+      "player_name": "Deanna Nolan",
+      "total": 388
+    },
+    {
+      "rank": 50,
+      "player_id": 201896,
+      "player_name": "Briann January",
+      "total": 386
+    },
+    {
+      "rank": 51,
+      "player_id": 204324,
+      "player_name": "Dearica Hamby",
+      "total": 386
+    },
+    {
+      "rank": 52,
+      "player_id": 100721,
+      "player_name": "Swin Cash",
+      "total": 384
+    },
+    {
+      "rank": 53,
+      "player_id": 202250,
+      "player_name": "Tina Charles",
+      "total": 384
+    },
+    {
+      "rank": 54,
+      "player_id": 200673,
+      "player_name": "Monique Currie",
+      "total": 378
+    },
+    {
+      "rank": 55,
+      "player_id": 203026,
+      "player_name": "Tiffany Hayes",
+      "total": 378
+    },
+    {
+      "rank": 56,
+      "player_id": 100356,
+      "player_name": "Chamique Holdsclaw",
+      "total": 376
+    },
+    {
+      "rank": 57,
+      "player_id": 100012,
+      "player_name": "Mwadi Mabika",
+      "total": 370
+    },
+    {
+      "rank": 58,
+      "player_id": 1628878,
+      "player_name": "Ariel Atkins",
+      "total": 365
+    },
+    {
+      "rank": 59,
+      "player_id": 100682,
+      "player_name": "Lauren Jackson",
+      "total": 360
+    },
+    {
+      "rank": 60,
+      "player_id": 101020,
+      "player_name": "Tan White",
+      "total": 360
+    },
+    {
+      "rank": 61,
+      "player_id": 1628886,
+      "player_name": "Jordin Canada",
+      "total": 359
+    },
+    {
+      "rank": 62,
+      "player_id": 100103,
+      "player_name": "Vickie Johnson",
+      "total": 357
+    },
+    {
+      "rank": 63,
+      "player_id": 100384,
+      "player_name": "Dominique Canty",
+      "total": 356
+    },
+    {
+      "rank": 64,
+      "player_id": 201904,
+      "player_name": "Renee Montgomery",
+      "total": 356
+    },
+    {
+      "rank": 65,
+      "player_id": 100008,
+      "player_name": "Tamecka Dixon",
+      "total": 355
+    },
+    {
+      "rank": 66,
+      "player_id": 100058,
+      "player_name": "Vicky Bullett",
+      "total": 353
+    },
+    {
+      "rank": 67,
+      "player_id": 100658,
+      "player_name": "Svetlana Abrosimova",
+      "total": 352
+    },
+    {
+      "rank": 68,
+      "player_id": 1628279,
+      "player_name": "Brittney Sykes",
+      "total": 351
+    },
+    {
+      "rank": 69,
+      "player_id": 1628277,
+      "player_name": "Allisha Gray",
+      "total": 349
+    },
+    {
+      "rank": 70,
+      "player_id": 100075,
+      "player_name": "Janeth Arcain",
+      "total": 346
+    },
+    {
+      "rank": 71,
+      "player_id": 100457,
+      "player_name": "Helen Darling",
+      "total": 343
+    },
+    {
+      "rank": 72,
+      "player_id": 100059,
+      "player_name": "Andrea Stinson",
+      "total": 342
+    },
+    {
+      "rank": 73,
+      "player_id": 204365,
+      "player_name": "Erica Wheeler",
+      "total": 342
+    },
+    {
+      "rank": 74,
+      "player_id": 201048,
+      "player_name": "Armintie Herrington",
+      "total": 340
+    },
+    {
+      "rank": 75,
+      "player_id": 204333,
+      "player_name": "Natasha Cloud",
+      "total": 340
+    },
+    {
+      "rank": 76,
+      "player_id": 1629481,
+      "player_name": "Arike Ogunbowale",
+      "total": 339
+    },
+    {
+      "rank": 77,
+      "player_id": 100372,
+      "player_name": "Dawn Staley",
+      "total": 338
+    },
+    {
+      "rank": 78,
+      "player_id": 1628932,
+      "player_name": "A'ja Wilson",
+      "total": 335
+    },
+    {
+      "rank": 79,
+      "player_id": 100685,
+      "player_name": "Marie Ferdinand-Harris",
+      "total": 331
+    },
+    {
+      "rank": 80,
+      "player_id": 100433,
+      "player_name": "Chasity Melvin",
+      "total": 330
+    },
+    {
+      "rank": 81,
+      "player_id": 201507,
+      "player_name": "Leilani Mitchell",
+      "total": 330
+    },
+    {
+      "rank": 82,
+      "player_id": 201911,
+      "player_name": "Kristi Toliver",
+      "total": 329
+    },
+    {
+      "rank": 83,
+      "player_id": 201492,
+      "player_name": "Matee Ajavon",
+      "total": 328
+    },
+    {
+      "rank": 84,
+      "player_id": 203824,
+      "player_name": "Odyssey Sims",
+      "total": 326
+    },
+    {
+      "rank": 85,
+      "player_id": 1629483,
+      "player_name": "Napheesa Collier",
+      "total": 325
+    },
+    {
+      "rank": 86,
+      "player_id": 100484,
+      "player_name": "Betty Lennox",
+      "total": 323
+    },
+    {
+      "rank": 87,
+      "player_id": 100628,
+      "player_name": "Tammy Sutton-Brown",
+      "total": 319
+    },
+    {
+      "rank": 88,
+      "player_id": 100888,
+      "player_name": "Plenette Pierson",
+      "total": 317
+    },
+    {
+      "rank": 89,
+      "player_id": 101024,
+      "player_name": "Temeka Johnson",
+      "total": 317
+    },
+    {
+      "rank": 90,
+      "player_id": 100359,
+      "player_name": "Debbie Black",
+      "total": 315
+    },
+    {
+      "rank": 91,
+      "player_id": 202252,
+      "player_name": "Alysha Clark",
+      "total": 314
+    },
+    {
+      "rank": 92,
+      "player_id": 201518,
+      "player_name": "Crystal Langhorne",
+      "total": 314
+    },
+    {
+      "rank": 93,
+      "player_id": 1627675,
+      "player_name": "Courtney Williams",
+      "total": 308
+    },
+    {
+      "rank": 94,
+      "player_id": 100928,
+      "player_name": "Ebony Hoffman",
+      "total": 308
+    },
+    {
+      "rank": 95,
+      "player_id": 201477,
+      "player_name": "Tamera Young",
+      "total": 305
+    },
+    {
+      "rank": 96,
+      "player_id": 100421,
+      "player_name": "Kedra Holland-Corn",
+      "total": 301
+    },
+    {
+      "rank": 97,
+      "player_id": 1628931,
+      "player_name": "Gabby Williams",
+      "total": 296
+    },
+    {
+      "rank": 98,
+      "player_id": 201046,
+      "player_name": "Lindsey Harding",
+      "total": 295
+    },
+    {
+      "rank": 99,
+      "player_id": 101019,
+      "player_name": "Janel McCarville",
+      "total": 294
+    },
+    {
+      "rank": 100,
+      "player_id": 100627,
+      "player_name": "Kelly Miller",
+      "total": 290
+    },
+    {
+      "rank": 101,
+      "player_id": 203017,
+      "player_name": "Glory Johnson",
+      "total": 289
+    },
+    {
+      "rank": 102,
+      "player_id": 204322,
+      "player_name": "Elizabeth Williams",
+      "total": 285
+    },
+    {
+      "rank": 103,
+      "player_id": 201502,
+      "player_name": "Essence Carson",
+      "total": 285
+    },
+    {
+      "rank": 104,
+      "player_id": 200671,
+      "player_name": "Seimone Augustus",
+      "total": 280
+    },
+    {
+      "rank": 105,
+      "player_id": 100413,
+      "player_name": "Tari Phillips",
+      "total": 277
+    },
+    {
+      "rank": 106,
+      "player_id": 203416,
+      "player_name": "Emma Meesseman",
+      "total": 276
+    },
+    {
+      "rank": 107,
+      "player_id": 100812,
+      "player_name": "Erika de Souza",
+      "total": 276
+    },
+    {
+      "rank": 108,
+      "player_id": 1629498,
+      "player_name": "Jackie Young",
+      "total": 271
+    },
+    {
+      "rank": 109,
+      "player_id": 100204,
+      "player_name": "Rita Williams",
+      "total": 271
+    },
+    {
+      "rank": 110,
+      "player_id": 100366,
+      "player_name": "Natalie Williams",
+      "total": 270
+    },
+    {
+      "rank": 111,
+      "player_id": 201500,
+      "player_name": "Nicky Anosike",
+      "total": 270
+    },
+    {
+      "rank": 112,
+      "player_id": 100345,
+      "player_name": "Crystal Robinson",
+      "total": 267
+    },
+    {
+      "rank": 113,
+      "player_id": 100493,
+      "player_name": "Anna DeForge",
+      "total": 266
+    },
+    {
+      "rank": 114,
+      "player_id": 1628280,
+      "player_name": "Brionna Jones",
+      "total": 265
+    },
+    {
+      "rank": 115,
+      "player_id": 100729,
+      "player_name": "Michelle Snow",
+      "total": 262
+    },
+    {
+      "rank": 116,
+      "player_id": 202640,
+      "player_name": "Karima Christmas-Kelly",
+      "total": 261
+    },
+    {
+      "rank": 117,
+      "player_id": 203029,
+      "player_name": "Riquna Williams",
+      "total": 260
+    },
+    {
+      "rank": 118,
+      "player_id": 201049,
+      "player_name": "Noelle Quinn",
+      "total": 256
+    },
+    {
+      "rank": 119,
+      "player_id": 100414,
+      "player_name": "Elaine Powell",
+      "total": 255
+    },
+    {
+      "rank": 120,
+      "player_id": 203866,
+      "player_name": "Kayla Thornton",
+      "total": 255
+    },
+    {
+      "rank": 121,
+      "player_id": 101028,
+      "player_name": "Loree Moore",
+      "total": 255
+    },
+    {
+      "rank": 122,
+      "player_id": 100016,
+      "player_name": "Ruthie Bolton",
+      "total": 254
+    },
+    {
+      "rank": 123,
+      "player_id": 1628276,
+      "player_name": "Kelsey Plum",
+      "total": 253
+    },
+    {
+      "rank": 124,
+      "player_id": 100731,
+      "player_name": "Hamchetou Maiga-Ba",
+      "total": 251
+    },
+    {
+      "rank": 125,
+      "player_id": 100347,
+      "player_name": "Tamika Whitmore",
+      "total": 251
+    },
+    {
+      "rank": 126,
+      "player_id": 1627673,
+      "player_name": "Jonquel Jones",
+      "total": 246
+    },
+    {
+      "rank": 127,
+      "player_id": 1628244,
+      "player_name": "Sami Whitcomb",
+      "total": 246
+    },
+    {
+      "rank": 128,
+      "player_id": 100027,
+      "player_name": "Latasha Byears",
+      "total": 245
+    },
+    {
+      "rank": 129,
+      "player_id": 203410,
+      "player_name": "Alex Bentley",
+      "total": 244
+    },
+    {
+      "rank": 130,
+      "player_id": 201056,
+      "player_name": "Ivory Latta",
+      "total": 243
+    },
+    {
+      "rank": 131,
+      "player_id": 201503,
+      "player_name": "Erlana Larkins",
+      "total": 242
+    },
+    {
+      "rank": 132,
+      "player_id": 201919,
+      "player_name": "Shavonte Zellous",
+      "total": 241
+    },
+    {
+      "rank": 133,
+      "player_id": 100690,
+      "player_name": "Coco Miller",
+      "total": 237
+    },
+    {
+      "rank": 134,
+      "player_id": 201889,
+      "player_name": "Marissa Coleman",
+      "total": 236
+    },
+    {
+      "rank": 135,
+      "player_id": 100198,
+      "player_name": "Nikki McCray",
+      "total": 235
+    },
+    {
+      "rank": 136,
+      "player_id": 100092,
+      "player_name": "Merlakia Jones",
+      "total": 232
+    },
+    {
+      "rank": 137,
+      "player_id": 100656,
+      "player_name": "Ruth Riley",
+      "total": 231
+    },
+    {
+      "rank": 138,
+      "player_id": 200684,
+      "player_name": "Scholanda Dorrell",
+      "total": 230
+    },
+    {
+      "rank": 139,
+      "player_id": 100874,
+      "player_name": "Kara Lawson",
+      "total": 229
+    },
+    {
+      "rank": 140,
+      "player_id": 100046,
+      "player_name": "Wendy Palmer",
+      "total": 226
+    },
+    {
+      "rank": 141,
+      "player_id": 201487,
+      "player_name": "Alexis Hornbuckle",
+      "total": 225
+    },
+    {
+      "rank": 142,
+      "player_id": 100843,
+      "player_name": "Cheryl Ford",
+      "total": 224
+    },
+    {
+      "rank": 143,
+      "player_id": 100097,
+      "player_name": "Rushia Brown",
+      "total": 221
+    },
+    {
+      "rank": 144,
+      "player_id": 100533,
+      "player_name": "DeMya Walker",
+      "total": 220
+    },
+    {
+      "rank": 145,
+      "player_id": 100030,
+      "player_name": "Jennifer Gillom",
+      "total": 220
+    },
+    {
+      "rank": 146,
+      "player_id": 100170,
+      "player_name": "Allison Feaster",
+      "total": 219
+    },
+    {
+      "rank": 147,
+      "player_id": 1628909,
+      "player_name": "Kelsey Mitchell",
+      "total": 217
+    },
+    {
+      "rank": 148,
+      "player_id": 203018,
+      "player_name": "Shenise Johnson",
+      "total": 217
+    },
+    {
+      "rank": 149,
+      "player_id": 100526,
+      "player_name": "Adrian Williams-Strong",
+      "total": 216
+    },
+    {
+      "rank": 150,
+      "player_id": 1627669,
+      "player_name": "Moriah Jefferson",
+      "total": 216
+    },
+    {
+      "rank": 151,
+      "player_id": 100723,
+      "player_name": "Asjha Jones",
+      "total": 215
+    },
+    {
+      "rank": 152,
+      "player_id": 201499,
+      "player_name": "Candice Wiggins",
+      "total": 215
+    },
+    {
+      "rank": 153,
+      "player_id": 100043,
+      "player_name": "Elena Baranova",
+      "total": 215
+    },
+    {
+      "rank": 154,
+      "player_id": 204323,
+      "player_name": "Cheyenne Parker-Tyus",
+      "total": 213
+    },
+    {
+      "rank": 155,
+      "player_id": 203015,
+      "player_name": "Shekinna Stricklen",
+      "total": 213
+    },
+    {
+      "rank": 156,
+      "player_id": 100724,
+      "player_name": "Nikki Teasley",
+      "total": 211
+    },
+    {
+      "rank": 157,
+      "player_id": 1631009,
+      "player_name": "Rhyne Howard",
+      "total": 210
+    },
+    {
+      "rank": 158,
+      "player_id": 100796,
+      "player_name": "Iziane Castro Marques",
+      "total": 209
+    },
+    {
+      "rank": 159,
+      "player_id": 1627676,
+      "player_name": "Tiffany Mitchell",
+      "total": 209
+    },
+    {
+      "rank": 160,
+      "player_id": 201913,
+      "player_name": "Kia Vaughn",
+      "total": 208
+    },
+    {
+      "rank": 161,
+      "player_id": 100105,
+      "player_name": "Sophia Witherspoon",
+      "total": 208
+    },
+    {
+      "rank": 162,
+      "player_id": 1627674,
+      "player_name": "Kahleah Copper",
+      "total": 207
+    },
+    {
+      "rank": 163,
+      "player_id": 100937,
+      "player_name": "Shameka Christon",
+      "total": 205
+    },
+    {
+      "rank": 164,
+      "player_id": 202638,
+      "player_name": "Jessica Breland",
+      "total": 204
+    },
+    {
+      "rank": 165,
+      "player_id": 100199,
+      "player_name": "Murriel Page",
+      "total": 204
+    },
+    {
+      "rank": 166,
+      "player_id": 1628278,
+      "player_name": "Shatori Walker-Kimbrough",
+      "total": 204
+    },
+    {
+      "rank": 167,
+      "player_id": 100363,
+      "player_name": "Adrienne Goodson",
+      "total": 203
+    },
+    {
+      "rank": 168,
+      "player_id": 204335,
+      "player_name": "Betnijah Laney-Hamilton",
+      "total": 202
+    },
+    {
+      "rank": 169,
+      "player_id": 1628922,
+      "player_name": "Azur\u00e1 Stevens",
+      "total": 201
+    },
+    {
+      "rank": 170,
+      "player_id": 1629497,
+      "player_name": "Marina Mabrey",
+      "total": 201
+    },
+    {
+      "rank": 171,
+      "player_id": 201516,
+      "player_name": "Allie Quigley",
+      "total": 198
+    },
+    {
+      "rank": 172,
+      "player_id": 203406,
+      "player_name": "Layshia Clarendon",
+      "total": 195
+    },
+    {
+      "rank": 173,
+      "player_id": 100336,
+      "player_name": "Sonja Henning",
+      "total": 194
+    },
+    {
+      "rank": 174,
+      "player_id": 203437,
+      "player_name": "Tierra Ruffin-Pratt",
+      "total": 194
+    },
+    {
+      "rank": 175,
+      "player_id": 100073,
+      "player_name": "Cynthia Cooper",
+      "total": 192
+    },
+    {
+      "rank": 176,
+      "player_id": 100496,
+      "player_name": "Tamicha Jackson",
+      "total": 188
+    },
+    {
+      "rank": 177,
+      "player_id": 100029,
+      "player_name": "Michele Timms",
+      "total": 187
+    },
+    {
+      "rank": 178,
+      "player_id": 201501,
+      "player_name": "Charde Houston",
+      "total": 185
+    },
+    {
+      "rank": 179,
+      "player_id": 201050,
+      "player_name": "Tiffany Jackson",
+      "total": 185
+    },
+    {
+      "rank": 180,
+      "player_id": 100659,
+      "player_name": "Erin Perperoglou",
+      "total": 184
+    },
+    {
+      "rank": 181,
+      "player_id": 1629567,
+      "player_name": "Natisha Hiedeman",
+      "total": 184
+    },
+    {
+      "rank": 182,
+      "player_id": 1629501,
+      "player_name": "Alanna Smith",
+      "total": 182
+    },
+    {
+      "rank": 183,
+      "player_id": 101039,
+      "player_name": "Erin Phillips",
+      "total": 182
+    },
+    {
+      "rank": 184,
+      "player_id": 1629477,
+      "player_name": "Sabrina Ionescu",
+      "total": 182
+    },
+    {
+      "rank": 185,
+      "player_id": 1628899,
+      "player_name": "Myisha Hines-Allen",
+      "total": 181
+    },
+    {
+      "rank": 186,
+      "player_id": 100556,
+      "player_name": "Nakia Sanford",
+      "total": 181
+    },
+    {
+      "rank": 187,
+      "player_id": 204296,
+      "player_name": "Rebecca Allen",
+      "total": 181
+    },
+    {
+      "rank": 188,
+      "player_id": 1628890,
+      "player_name": "Diamond DeShields",
+      "total": 180
+    },
+    {
+      "rank": 189,
+      "player_id": 204330,
+      "player_name": "Isabelle Harrison",
+      "total": 180
+    },
+    {
+      "rank": 190,
+      "player_id": 100031,
+      "player_name": "Bridget Pettis",
+      "total": 177
+    },
+    {
+      "rank": 191,
+      "player_id": 204327,
+      "player_name": "Brittany Boyd-Jones",
+      "total": 176
+    },
+    {
+      "rank": 192,
+      "player_id": 203823,
+      "player_name": "Chiney Ogwumike",
+      "total": 176
+    },
+    {
+      "rank": 193,
+      "player_id": 100725,
+      "player_name": "Tamika Raymond",
+      "total": 175
+    },
+    {
+      "rank": 194,
+      "player_id": 203399,
+      "player_name": "Elena Delle Donne",
+      "total": 174
+    },
+    {
+      "rank": 195,
+      "player_id": 1629496,
+      "player_name": "Ezi Magbegor",
+      "total": 174
+    },
+    {
+      "rank": 196,
+      "player_id": 100239,
+      "player_name": "Margo Dydek",
+      "total": 174
+    },
+    {
+      "rank": 197,
+      "player_id": 100544,
+      "player_name": "Kamila Vodichkova",
+      "total": 173
+    },
+    {
+      "rank": 198,
+      "player_id": 1628881,
+      "player_name": "Monique Billings",
+      "total": 170
+    },
+    {
+      "rank": 199,
+      "player_id": 101025,
+      "player_name": "Kara Braxton",
+      "total": 168
+    },
+    {
+      "rank": 200,
+      "player_id": 203411,
+      "player_name": "Sugar Rodgers",
+      "total": 168
+    }
+  ],
+  "FG3M": [
+    {
+      "rank": 1,
+      "player_id": 100940,
+      "player_name": "Diana Taurasi",
+      "total": 1440
+    },
+    {
+      "rank": 2,
+      "player_id": 100720,
+      "player_name": "Sue Bird",
+      "total": 1001
+    },
+    {
+      "rank": 3,
+      "player_id": 100404,
+      "player_name": "Katie Smith",
+      "total": 906
+    },
+    {
+      "rank": 4,
+      "player_id": 100342,
+      "player_name": "Becky Hammon",
+      "total": 825
+    },
+    {
+      "rank": 5,
+      "player_id": 100076,
+      "player_name": "Tina Thompson",
+      "total": 745
+    },
+    {
+      "rank": 6,
+      "player_id": 100666,
+      "player_name": "Katie Douglas",
+      "total": 723
+    },
+    {
+      "rank": 7,
+      "player_id": 203825,
+      "player_name": "Kayla McBride",
+      "total": 722
+    },
+    {
+      "rank": 8,
+      "player_id": 1628909,
+      "player_name": "Kelsey Mitchell",
+      "total": 669
+    },
+    {
+      "rank": 9,
+      "player_id": 204319,
+      "player_name": "Jewell Loyd",
+      "total": 667
+    },
+    {
+      "rank": 10,
+      "player_id": 201886,
+      "player_name": "DeWanna Bonner",
+      "total": 663
+    },
+    {
+      "rank": 11,
+      "player_id": 201911,
+      "player_name": "Kristi Toliver",
+      "total": 651
+    },
+    {
+      "rank": 12,
+      "player_id": 100646,
+      "player_name": "Tamika Catchings",
+      "total": 605
+    },
+    {
+      "rank": 13,
+      "player_id": 1628276,
+      "player_name": "Kelsey Plum",
+      "total": 588
+    },
+    {
+      "rank": 14,
+      "player_id": 100874,
+      "player_name": "Kara Lawson",
+      "total": 583
+    },
+    {
+      "rank": 15,
+      "player_id": 100919,
+      "player_name": "Nicole Powell",
+      "total": 579
+    },
+    {
+      "rank": 16,
+      "player_id": 1629481,
+      "player_name": "Arike Ogunbowale",
+      "total": 545
+    },
+    {
+      "rank": 17,
+      "player_id": 201056,
+      "player_name": "Ivory Latta",
+      "total": 536
+    },
+    {
+      "rank": 18,
+      "player_id": 201904,
+      "player_name": "Renee Montgomery",
+      "total": 532
+    },
+    {
+      "rank": 19,
+      "player_id": 202632,
+      "player_name": "Maya Moore",
+      "total": 530
+    },
+    {
+      "rank": 20,
+      "player_id": 1628244,
+      "player_name": "Sami Whitcomb",
+      "total": 511
+    },
+    {
+      "rank": 21,
+      "player_id": 201516,
+      "player_name": "Allie Quigley",
+      "total": 510
+    },
+    {
+      "rank": 22,
+      "player_id": 201507,
+      "player_name": "Leilani Mitchell",
+      "total": 508
+    },
+    {
+      "rank": 23,
+      "player_id": 203015,
+      "player_name": "Shekinna Stricklen",
+      "total": 468
+    },
+    {
+      "rank": 24,
+      "player_id": 200665,
+      "player_name": "Cappie Pondexter",
+      "total": 464
+    },
+    {
+      "rank": 25,
+      "player_id": 1629477,
+      "player_name": "Sabrina Ionescu",
+      "total": 460
+    },
+    {
+      "rank": 26,
+      "player_id": 1627668,
+      "player_name": "Breanna Stewart",
+      "total": 454
+    },
+    {
+      "rank": 27,
+      "player_id": 203026,
+      "player_name": "Tiffany Hayes",
+      "total": 447
+    },
+    {
+      "rank": 28,
+      "player_id": 1628878,
+      "player_name": "Ariel Atkins",
+      "total": 440
+    },
+    {
+      "rank": 29,
+      "player_id": 100682,
+      "player_name": "Lauren Jackson",
+      "total": 436
+    },
+    {
+      "rank": 30,
+      "player_id": 1629497,
+      "player_name": "Marina Mabrey",
+      "total": 436
+    },
+    {
+      "rank": 31,
+      "player_id": 100937,
+      "player_name": "Shameka Christon",
+      "total": 434
+    },
+    {
+      "rank": 32,
+      "player_id": 1628277,
+      "player_name": "Allisha Gray",
+      "total": 426
+    },
+    {
+      "rank": 33,
+      "player_id": 100345,
+      "player_name": "Crystal Robinson",
+      "total": 425
+    },
+    {
+      "rank": 34,
+      "player_id": 203400,
+      "player_name": "Skylar Diggins",
+      "total": 425
+    },
+    {
+      "rank": 35,
+      "player_id": 100012,
+      "player_name": "Mwadi Mabika",
+      "total": 415
+    },
+    {
+      "rank": 36,
+      "player_id": 203833,
+      "player_name": "Chelsea Gray",
+      "total": 410
+    },
+    {
+      "rank": 37,
+      "player_id": 100634,
+      "player_name": "Penny Taylor",
+      "total": 407
+    },
+    {
+      "rank": 38,
+      "player_id": 203029,
+      "player_name": "Riquna Williams",
+      "total": 407
+    },
+    {
+      "rank": 39,
+      "player_id": 100952,
+      "player_name": "Jia Perkins",
+      "total": 396
+    },
+    {
+      "rank": 40,
+      "player_id": 202252,
+      "player_name": "Alysha Clark",
+      "total": 390
+    },
+    {
+      "rank": 41,
+      "player_id": 101033,
+      "player_name": "Roneeka Hodges",
+      "total": 389
+    },
+    {
+      "rank": 42,
+      "player_id": 202664,
+      "player_name": "Courtney Vandersloot",
+      "total": 385
+    },
+    {
+      "rank": 43,
+      "player_id": 201896,
+      "player_name": "Briann January",
+      "total": 381
+    },
+    {
+      "rank": 44,
+      "player_id": 202662,
+      "player_name": "Jasmine Thomas",
+      "total": 376
+    },
+    {
+      "rank": 45,
+      "player_id": 100170,
+      "player_name": "Allison Feaster",
+      "total": 372
+    },
+    {
+      "rank": 46,
+      "player_id": 100484,
+      "player_name": "Betty Lennox",
+      "total": 372
+    },
+    {
+      "rank": 47,
+      "player_id": 1627671,
+      "player_name": "Rachel Banham",
+      "total": 372
+    },
+    {
+      "rank": 48,
+      "player_id": 202259,
+      "player_name": "Epiphanny Prince",
+      "total": 368
+    },
+    {
+      "rank": 49,
+      "player_id": 1631009,
+      "player_name": "Rhyne Howard",
+      "total": 366
+    },
+    {
+      "rank": 50,
+      "player_id": 1627673,
+      "player_name": "Jonquel Jones",
+      "total": 356
+    },
+    {
+      "rank": 51,
+      "player_id": 1628915,
+      "player_name": "Kia Nurse",
+      "total": 356
+    },
+    {
+      "rank": 52,
+      "player_id": 100415,
+      "player_name": "Nykesha Sales",
+      "total": 352
+    },
+    {
+      "rank": 53,
+      "player_id": 101049,
+      "player_name": "Cathrine Kraayeveld",
+      "total": 343
+    },
+    {
+      "rank": 54,
+      "player_id": 203399,
+      "player_name": "Elena Delle Donne",
+      "total": 343
+    },
+    {
+      "rank": 55,
+      "player_id": 201496,
+      "player_name": "Candace Parker",
+      "total": 342
+    },
+    {
+      "rank": 56,
+      "player_id": 1627674,
+      "player_name": "Kahleah Copper",
+      "total": 341
+    },
+    {
+      "rank": 57,
+      "player_id": 100639,
+      "player_name": "Deanna Nolan",
+      "total": 340
+    },
+    {
+      "rank": 58,
+      "player_id": 100493,
+      "player_name": "Anna DeForge",
+      "total": 334
+    },
+    {
+      "rank": 59,
+      "player_id": 204333,
+      "player_name": "Natasha Cloud",
+      "total": 331
+    },
+    {
+      "rank": 60,
+      "player_id": 204365,
+      "player_name": "Erica Wheeler",
+      "total": 320
+    },
+    {
+      "rank": 61,
+      "player_id": 203411,
+      "player_name": "Sugar Rodgers",
+      "total": 317
+    },
+    {
+      "rank": 62,
+      "player_id": 201889,
+      "player_name": "Marissa Coleman",
+      "total": 315
+    },
+    {
+      "rank": 63,
+      "player_id": 100410,
+      "player_name": "Shannon Johnson",
+      "total": 313
+    },
+    {
+      "rank": 64,
+      "player_id": 100396,
+      "player_name": "DeLisha Milton-Jones",
+      "total": 312
+    },
+    {
+      "rank": 65,
+      "player_id": 100016,
+      "player_name": "Ruthie Bolton",
+      "total": 312
+    },
+    {
+      "rank": 66,
+      "player_id": 1629498,
+      "player_name": "Jackie Young",
+      "total": 311
+    },
+    {
+      "rank": 67,
+      "player_id": 101020,
+      "player_name": "Tan White",
+      "total": 311
+    },
+    {
+      "rank": 68,
+      "player_id": 100421,
+      "player_name": "Kedra Holland-Corn",
+      "total": 307
+    },
+    {
+      "rank": 69,
+      "player_id": 100627,
+      "player_name": "Kelly Miller",
+      "total": 305
+    },
+    {
+      "rank": 70,
+      "player_id": 1629482,
+      "player_name": "Sophie Cunningham",
+      "total": 305
+    },
+    {
+      "rank": 71,
+      "player_id": 100724,
+      "player_name": "Nikki Teasley",
+      "total": 304
+    },
+    {
+      "rank": 72,
+      "player_id": 100103,
+      "player_name": "Vickie Johnson",
+      "total": 295
+    },
+    {
+      "rank": 73,
+      "player_id": 200671,
+      "player_name": "Seimone Augustus",
+      "total": 293
+    },
+    {
+      "rank": 74,
+      "player_id": 201499,
+      "player_name": "Candice Wiggins",
+      "total": 290
+    },
+    {
+      "rank": 75,
+      "player_id": 100284,
+      "player_name": "Tully Bevilaqua",
+      "total": 290
+    },
+    {
+      "rank": 76,
+      "player_id": 100949,
+      "player_name": "Alana Beard",
+      "total": 288
+    },
+    {
+      "rank": 77,
+      "player_id": 200673,
+      "player_name": "Monique Currie",
+      "total": 284
+    },
+    {
+      "rank": 78,
+      "player_id": 1629567,
+      "player_name": "Natisha Hiedeman",
+      "total": 284
+    },
+    {
+      "rank": 79,
+      "player_id": 100796,
+      "player_name": "Iziane Castro Marques",
+      "total": 275
+    },
+    {
+      "rank": 80,
+      "player_id": 203866,
+      "player_name": "Kayla Thornton",
+      "total": 270
+    },
+    {
+      "rank": 81,
+      "player_id": 100072,
+      "player_name": "Sheryl Swoopes",
+      "total": 270
+    },
+    {
+      "rank": 82,
+      "player_id": 203828,
+      "player_name": "Stefanie Dolson",
+      "total": 266
+    },
+    {
+      "rank": 83,
+      "player_id": 1629524,
+      "player_name": "Bridget Carleton",
+      "total": 262
+    },
+    {
+      "rank": 84,
+      "player_id": 100105,
+      "player_name": "Sophia Witherspoon",
+      "total": 260
+    },
+    {
+      "rank": 85,
+      "player_id": 100372,
+      "player_name": "Dawn Staley",
+      "total": 254
+    },
+    {
+      "rank": 86,
+      "player_id": 203829,
+      "player_name": "Bria Hartley",
+      "total": 253
+    },
+    {
+      "rank": 87,
+      "player_id": 1627675,
+      "player_name": "Courtney Williams",
+      "total": 253
+    },
+    {
+      "rank": 88,
+      "player_id": 204296,
+      "player_name": "Rebecca Allen",
+      "total": 252
+    },
+    {
+      "rank": 89,
+      "player_id": 201881,
+      "player_name": "Angel McCoughtry",
+      "total": 249
+    },
+    {
+      "rank": 90,
+      "player_id": 100835,
+      "player_name": "Erin Thorn",
+      "total": 243
+    },
+    {
+      "rank": 91,
+      "player_id": 203410,
+      "player_name": "Alex Bentley",
+      "total": 239
+    },
+    {
+      "rank": 92,
+      "player_id": 100073,
+      "player_name": "Cynthia Cooper",
+      "total": 239
+    },
+    {
+      "rank": 93,
+      "player_id": 1628922,
+      "player_name": "Azur\u00e1 Stevens",
+      "total": 238
+    },
+    {
+      "rank": 94,
+      "player_id": 100658,
+      "player_name": "Svetlana Abrosimova",
+      "total": 235
+    },
+    {
+      "rank": 95,
+      "player_id": 100236,
+      "player_name": "Tangela Smith",
+      "total": 235
+    },
+    {
+      "rank": 96,
+      "player_id": 100722,
+      "player_name": "Stacey Dales",
+      "total": 232
+    },
+    {
+      "rank": 97,
+      "player_id": 1628279,
+      "player_name": "Brittney Sykes",
+      "total": 231
+    },
+    {
+      "rank": 98,
+      "player_id": 203014,
+      "player_name": "Nneka Ogwumike",
+      "total": 231
+    },
+    {
+      "rank": 99,
+      "player_id": 203824,
+      "player_name": "Odyssey Sims",
+      "total": 229
+    },
+    {
+      "rank": 100,
+      "player_id": 100043,
+      "player_name": "Elena Baranova",
+      "total": 224
+    },
+    {
+      "rank": 101,
+      "player_id": 201502,
+      "player_name": "Essence Carson",
+      "total": 223
+    },
+    {
+      "rank": 102,
+      "player_id": 100920,
+      "player_name": "Kelly Mazzante",
+      "total": 218
+    },
+    {
+      "rank": 103,
+      "player_id": 100416,
+      "player_name": "Sheri Sam",
+      "total": 218
+    },
+    {
+      "rank": 104,
+      "player_id": 1630149,
+      "player_name": "Satou Sabally",
+      "total": 212
+    },
+    {
+      "rank": 105,
+      "player_id": 101039,
+      "player_name": "Erin Phillips",
+      "total": 211
+    },
+    {
+      "rank": 106,
+      "player_id": 100059,
+      "player_name": "Andrea Stinson",
+      "total": 207
+    },
+    {
+      "rank": 107,
+      "player_id": 203024,
+      "player_name": "Damiris Dantas",
+      "total": 207
+    },
+    {
+      "rank": 108,
+      "player_id": 200686,
+      "player_name": "Shanna Zolman",
+      "total": 199
+    },
+    {
+      "rank": 109,
+      "player_id": 204335,
+      "player_name": "Betnijah Laney-Hamilton",
+      "total": 197
+    },
+    {
+      "rank": 110,
+      "player_id": 101024,
+      "player_name": "Temeka Johnson",
+      "total": 197
+    },
+    {
+      "rank": 111,
+      "player_id": 202250,
+      "player_name": "Tina Charles",
+      "total": 197
+    },
+    {
+      "rank": 112,
+      "player_id": 1628882,
+      "player_name": "Lexie Brown",
+      "total": 194
+    },
+    {
+      "rank": 113,
+      "player_id": 100915,
+      "player_name": "Lindsay Whalen",
+      "total": 193
+    },
+    {
+      "rank": 114,
+      "player_id": 1628927,
+      "player_name": "Victoria Vivians",
+      "total": 192
+    },
+    {
+      "rank": 115,
+      "player_id": 202634,
+      "player_name": "Danielle Adams",
+      "total": 188
+    },
+    {
+      "rank": 116,
+      "player_id": 1629483,
+      "player_name": "Napheesa Collier",
+      "total": 188
+    },
+    {
+      "rank": 117,
+      "player_id": 201049,
+      "player_name": "Noelle Quinn",
+      "total": 184
+    },
+    {
+      "rank": 118,
+      "player_id": 202640,
+      "player_name": "Karima Christmas-Kelly",
+      "total": 181
+    },
+    {
+      "rank": 119,
+      "player_id": 1627672,
+      "player_name": "Aerial Powers",
+      "total": 179
+    },
+    {
+      "rank": 120,
+      "player_id": 201067,
+      "player_name": "Camille Smith",
+      "total": 179
+    },
+    {
+      "rank": 121,
+      "player_id": 100721,
+      "player_name": "Swin Cash",
+      "total": 176
+    },
+    {
+      "rank": 122,
+      "player_id": 100198,
+      "player_name": "Nikki McCray",
+      "total": 175
+    },
+    {
+      "rank": 123,
+      "player_id": 1628278,
+      "player_name": "Shatori Walker-Kimbrough",
+      "total": 174
+    },
+    {
+      "rank": 124,
+      "player_id": 203401,
+      "player_name": "Tayler Hill",
+      "total": 174
+    },
+    {
+      "rank": 125,
+      "player_id": 203849,
+      "player_name": "Theresa Plaisance",
+      "total": 172
+    },
+    {
+      "rank": 126,
+      "player_id": 100642,
+      "player_name": "Amanda Lassiter",
+      "total": 170
+    },
+    {
+      "rank": 127,
+      "player_id": 201919,
+      "player_name": "Shavonte Zellous",
+      "total": 167
+    },
+    {
+      "rank": 128,
+      "player_id": 203403,
+      "player_name": "Tianna Hawkins",
+      "total": 167
+    },
+    {
+      "rank": 129,
+      "player_id": 1628269,
+      "player_name": "Nia Coffey",
+      "total": 165
+    },
+    {
+      "rank": 130,
+      "player_id": 100371,
+      "player_name": "Charlotte Smith",
+      "total": 164
+    },
+    {
+      "rank": 131,
+      "player_id": 100392,
+      "player_name": "Ukari Figgs",
+      "total": 162
+    },
+    {
+      "rank": 132,
+      "player_id": 100375,
+      "player_name": "Edna Campbell",
+      "total": 161
+    },
+    {
+      "rank": 133,
+      "player_id": 1630389,
+      "player_name": "Dana Evans",
+      "total": 160
+    },
+    {
+      "rank": 134,
+      "player_id": 101080,
+      "player_name": "Jennifer Lacy",
+      "total": 160
+    },
+    {
+      "rank": 135,
+      "player_id": 1630112,
+      "player_name": "Tyasha Harris",
+      "total": 160
+    },
+    {
+      "rank": 136,
+      "player_id": 1630462,
+      "player_name": "Aari McDonald",
+      "total": 158
+    },
+    {
+      "rank": 137,
+      "player_id": 100382,
+      "player_name": "Jennifer Azzi",
+      "total": 158
+    },
+    {
+      "rank": 138,
+      "player_id": 203827,
+      "player_name": "Natasha Howard",
+      "total": 157
+    },
+    {
+      "rank": 139,
+      "player_id": 100031,
+      "player_name": "Bridget Pettis",
+      "total": 153
+    },
+    {
+      "rank": 140,
+      "player_id": 100030,
+      "player_name": "Jennifer Gillom",
+      "total": 153
+    },
+    {
+      "rank": 141,
+      "player_id": 1629501,
+      "player_name": "Alanna Smith",
+      "total": 152
+    },
+    {
+      "rank": 142,
+      "player_id": 1642286,
+      "player_name": "Caitlin Clark",
+      "total": 151
+    },
+    {
+      "rank": 143,
+      "player_id": 100204,
+      "player_name": "Rita Williams",
+      "total": 150
+    },
+    {
+      "rank": 144,
+      "player_id": 1627669,
+      "player_name": "Moriah Jefferson",
+      "total": 149
+    },
+    {
+      "rank": 145,
+      "player_id": 203855,
+      "player_name": "Stephanie Talbot",
+      "total": 149
+    },
+    {
+      "rank": 146,
+      "player_id": 1627676,
+      "player_name": "Tiffany Mitchell",
+      "total": 149
+    },
+    {
+      "rank": 147,
+      "player_id": 1628890,
+      "player_name": "Diamond DeShields",
+      "total": 147
+    },
+    {
+      "rank": 148,
+      "player_id": 100046,
+      "player_name": "Wendy Palmer",
+      "total": 146
+    },
+    {
+      "rank": 149,
+      "player_id": 100457,
+      "player_name": "Helen Darling",
+      "total": 144
+    },
+    {
+      "rank": 150,
+      "player_id": 201492,
+      "player_name": "Matee Ajavon",
+      "total": 144
+    },
+    {
+      "rank": 151,
+      "player_id": 203018,
+      "player_name": "Shenise Johnson",
+      "total": 143
+    },
+    {
+      "rank": 152,
+      "player_id": 1629478,
+      "player_name": "Katie Lou Samuelson",
+      "total": 142
+    },
+    {
+      "rank": 153,
+      "player_id": 203835,
+      "player_name": "Jordan Hooper",
+      "total": 141
+    },
+    {
+      "rank": 154,
+      "player_id": 100690,
+      "player_name": "Coco Miller",
+      "total": 139
+    },
+    {
+      "rank": 155,
+      "player_id": 204324,
+      "player_name": "Dearica Hamby",
+      "total": 138
+    },
+    {
+      "rank": 156,
+      "player_id": 101028,
+      "player_name": "Loree Moore",
+      "total": 138
+    },
+    {
+      "rank": 157,
+      "player_id": 101030,
+      "player_name": "Tanisha Wright",
+      "total": 138
+    },
+    {
+      "rank": 158,
+      "player_id": 204321,
+      "player_name": "Kaleena Mosqueda-Lewis",
+      "total": 137
+    },
+    {
+      "rank": 159,
+      "player_id": 1629546,
+      "player_name": "Marine Johann\u00e8s",
+      "total": 136
+    },
+    {
+      "rank": 160,
+      "player_id": 1630446,
+      "player_name": "Michaela Onyenwere",
+      "total": 136
+    },
+    {
+      "rank": 161,
+      "player_id": 201062,
+      "player_name": "Shay Murphy",
+      "total": 134
+    },
+    {
+      "rank": 162,
+      "player_id": 100667,
+      "player_name": "Brooke Wyckoff",
+      "total": 132
+    },
+    {
+      "rank": 163,
+      "player_id": 202626,
+      "player_name": "Jenna O'Hea",
+      "total": 132
+    },
+    {
+      "rank": 164,
+      "player_id": 1628317,
+      "player_name": "Karlie Samuelson",
+      "total": 131
+    },
+    {
+      "rank": 165,
+      "player_id": 204320,
+      "player_name": "Amanda Zahui B",
+      "total": 130
+    },
+    {
+      "rank": 166,
+      "player_id": 100091,
+      "player_name": "Eva Nemcova",
+      "total": 130
+    },
+    {
+      "rank": 167,
+      "player_id": 1630101,
+      "player_name": "Crystal Dangerfield",
+      "total": 129
+    },
+    {
+      "rank": 168,
+      "player_id": 100234,
+      "player_name": "Ticha Penicheiro",
+      "total": 128
+    },
+    {
+      "rank": 169,
+      "player_id": 100029,
+      "player_name": "Michele Timms",
+      "total": 127
+    },
+    {
+      "rank": 170,
+      "player_id": 1628899,
+      "player_name": "Myisha Hines-Allen",
+      "total": 127
+    },
+    {
+      "rank": 171,
+      "player_id": 100008,
+      "player_name": "Tamecka Dixon",
+      "total": 126
+    },
+    {
+      "rank": 172,
+      "player_id": 201501,
+      "player_name": "Charde Houston",
+      "total": 124
+    },
+    {
+      "rank": 173,
+      "player_id": 100003,
+      "player_name": "Lisa Leslie",
+      "total": 123
+    },
+    {
+      "rank": 174,
+      "player_id": 201086,
+      "player_name": "Sidney Spencer",
+      "total": 122
+    },
+    {
+      "rank": 175,
+      "player_id": 100398,
+      "player_name": "Tonya Edwards",
+      "total": 118
+    },
+    {
+      "rank": 176,
+      "player_id": 1628931,
+      "player_name": "Gabby Williams",
+      "total": 117
+    },
+    {
+      "rank": 177,
+      "player_id": 101018,
+      "player_name": "Edwige Lawson-Wade",
+      "total": 116
+    },
+    {
+      "rank": 178,
+      "player_id": 100685,
+      "player_name": "Marie Ferdinand-Harris",
+      "total": 116
+    },
+    {
+      "rank": 179,
+      "player_id": 100928,
+      "player_name": "Ebony Hoffman",
+      "total": 115
+    },
+    {
+      "rank": 180,
+      "player_id": 203035,
+      "player_name": "Shey Peddy",
+      "total": 115
+    },
+    {
+      "rank": 181,
+      "player_id": 100370,
+      "player_name": "Stephanie White",
+      "total": 115
+    },
+    {
+      "rank": 182,
+      "player_id": 100394,
+      "player_name": "Gordana Grubin",
+      "total": 114
+    },
+    {
+      "rank": 183,
+      "player_id": 100247,
+      "player_name": "Sandy Brondello",
+      "total": 114
+    },
+    {
+      "rank": 184,
+      "player_id": 1628886,
+      "player_name": "Jordin Canada",
+      "total": 111
+    },
+    {
+      "rank": 185,
+      "player_id": 203830,
+      "player_name": "Shoni Schimmel",
+      "total": 111
+    },
+    {
+      "rank": 186,
+      "player_id": 203416,
+      "player_name": "Emma Meesseman",
+      "total": 109
+    },
+    {
+      "rank": 187,
+      "player_id": 1631086,
+      "player_name": "Lexie Hull",
+      "total": 109
+    },
+    {
+      "rank": 188,
+      "player_id": 200684,
+      "player_name": "Scholanda Dorrell",
+      "total": 109
+    },
+    {
+      "rank": 189,
+      "player_id": 100696,
+      "player_name": "Belinda Snell",
+      "total": 108
+    },
+    {
+      "rank": 190,
+      "player_id": 1642288,
+      "player_name": "Rickea Jackson",
+      "total": 108
+    },
+    {
+      "rank": 191,
+      "player_id": 1629568,
+      "player_name": "Kennedy Burke",
+      "total": 107
+    },
+    {
+      "rank": 192,
+      "player_id": 203406,
+      "player_name": "Layshia Clarendon",
+      "total": 107
+    },
+    {
+      "rank": 193,
+      "player_id": 1630142,
+      "player_name": "Leonie Fiebich",
+      "total": 106
+    },
+    {
+      "rank": 194,
+      "player_id": 101084,
+      "player_name": "Laurie Koehn",
+      "total": 105
+    },
+    {
+      "rank": 195,
+      "player_id": 202656,
+      "player_name": "Jeanette Pohlen-Mavunga",
+      "total": 103
+    },
+    {
+      "rank": 196,
+      "player_id": 100651,
+      "player_name": "Kiesha Brown",
+      "total": 103
+    },
+    {
+      "rank": 197,
+      "player_id": 100100,
+      "player_name": "Adrienne Johnson",
+      "total": 102
+    },
+    {
+      "rank": 198,
+      "player_id": 100935,
+      "player_name": "Amber Jacobs",
+      "total": 101
+    },
+    {
+      "rank": 199,
+      "player_id": 1631007,
+      "player_name": "Veronica Burton",
+      "total": 99
+    },
+    {
+      "rank": 200,
+      "player_id": 201483,
+      "player_name": "Amber Holt",
+      "total": 97
+    }
+  ],
+  "TOV": [
+    {
+      "rank": 1,
+      "player_id": 100940,
+      "player_name": "Diana Taurasi",
+      "total": 1516
+    },
+    {
+      "rank": 2,
+      "player_id": 100720,
+      "player_name": "Sue Bird",
+      "total": 1393
+    },
+    {
+      "rank": 3,
+      "player_id": 100342,
+      "player_name": "Becky Hammon",
+      "total": 1219
+    },
+    {
+      "rank": 4,
+      "player_id": 100076,
+      "player_name": "Tina Thompson",
+      "total": 1213
+    },
+    {
+      "rank": 5,
+      "player_id": 100003,
+      "player_name": "Lisa Leslie",
+      "total": 1186
+    },
+    {
+      "rank": 6,
+      "player_id": 100396,
+      "player_name": "DeLisha Milton-Jones",
+      "total": 1173
+    },
+    {
+      "rank": 7,
+      "player_id": 202664,
+      "player_name": "Courtney Vandersloot",
+      "total": 1145
+    },
+    {
+      "rank": 8,
+      "player_id": 100721,
+      "player_name": "Swin Cash",
+      "total": 1127
+    },
+    {
+      "rank": 9,
+      "player_id": 100234,
+      "player_name": "Ticha Penicheiro",
+      "total": 1125
+    },
+    {
+      "rank": 10,
+      "player_id": 201496,
+      "player_name": "Candace Parker",
+      "total": 1062
+    },
+    {
+      "rank": 11,
+      "player_id": 100646,
+      "player_name": "Tamika Catchings",
+      "total": 1041
+    },
+    {
+      "rank": 12,
+      "player_id": 202250,
+      "player_name": "Tina Charles",
+      "total": 1040
+    },
+    {
+      "rank": 13,
+      "player_id": 100915,
+      "player_name": "Lindsay Whalen",
+      "total": 1002
+    },
+    {
+      "rank": 14,
+      "player_id": 203826,
+      "player_name": "Alyssa Thomas",
+      "total": 965
+    },
+    {
+      "rank": 15,
+      "player_id": 201480,
+      "player_name": "Sylvia Fowles",
+      "total": 961
+    },
+    {
+      "rank": 16,
+      "player_id": 101030,
+      "player_name": "Tanisha Wright",
+      "total": 954
+    },
+    {
+      "rank": 17,
+      "player_id": 201881,
+      "player_name": "Angel McCoughtry",
+      "total": 949
+    },
+    {
+      "rank": 18,
+      "player_id": 200665,
+      "player_name": "Cappie Pondexter",
+      "total": 945
+    },
+    {
+      "rank": 19,
+      "player_id": 100404,
+      "player_name": "Katie Smith",
+      "total": 935
+    },
+    {
+      "rank": 20,
+      "player_id": 100410,
+      "player_name": "Shannon Johnson",
+      "total": 934
+    },
+    {
+      "rank": 21,
+      "player_id": 100412,
+      "player_name": "Taj McWilliams-Franklin",
+      "total": 898
+    },
+    {
+      "rank": 22,
+      "player_id": 203400,
+      "player_name": "Skylar Diggins",
+      "total": 879
+    },
+    {
+      "rank": 23,
+      "player_id": 200676,
+      "player_name": "Candice Dupree",
+      "total": 869
+    },
+    {
+      "rank": 24,
+      "player_id": 203833,
+      "player_name": "Chelsea Gray",
+      "total": 869
+    },
+    {
+      "rank": 25,
+      "player_id": 100949,
+      "player_name": "Alana Beard",
+      "total": 854
+    },
+    {
+      "rank": 26,
+      "player_id": 201886,
+      "player_name": "DeWanna Bonner",
+      "total": 826
+    },
+    {
+      "rank": 27,
+      "player_id": 100666,
+      "player_name": "Katie Douglas",
+      "total": 824
+    },
+    {
+      "rank": 28,
+      "player_id": 100484,
+      "player_name": "Betty Lennox",
+      "total": 800
+    },
+    {
+      "rank": 29,
+      "player_id": 202662,
+      "player_name": "Jasmine Thomas",
+      "total": 796
+    },
+    {
+      "rank": 30,
+      "player_id": 100356,
+      "player_name": "Chamique Holdsclaw",
+      "total": 789
+    },
+    {
+      "rank": 31,
+      "player_id": 203827,
+      "player_name": "Natasha Howard",
+      "total": 784
+    },
+    {
+      "rank": 32,
+      "player_id": 201518,
+      "player_name": "Crystal Langhorne",
+      "total": 782
+    },
+    {
+      "rank": 33,
+      "player_id": 203014,
+      "player_name": "Nneka Ogwumike",
+      "total": 782
+    },
+    {
+      "rank": 34,
+      "player_id": 204319,
+      "player_name": "Jewell Loyd",
+      "total": 780
+    },
+    {
+      "rank": 35,
+      "player_id": 201067,
+      "player_name": "Camille Smith",
+      "total": 779
+    },
+    {
+      "rank": 36,
+      "player_id": 100888,
+      "player_name": "Plenette Pierson",
+      "total": 773
+    },
+    {
+      "rank": 37,
+      "player_id": 201896,
+      "player_name": "Briann January",
+      "total": 771
+    },
+    {
+      "rank": 38,
+      "player_id": 100239,
+      "player_name": "Margo Dydek",
+      "total": 758
+    },
+    {
+      "rank": 39,
+      "player_id": 100236,
+      "player_name": "Tangela Smith",
+      "total": 751
+    },
+    {
+      "rank": 40,
+      "player_id": 201911,
+      "player_name": "Kristi Toliver",
+      "total": 748
+    },
+    {
+      "rank": 41,
+      "player_id": 203398,
+      "player_name": "Brittney Griner",
+      "total": 732
+    },
+    {
+      "rank": 42,
+      "player_id": 200673,
+      "player_name": "Monique Currie",
+      "total": 724
+    },
+    {
+      "rank": 43,
+      "player_id": 100729,
+      "player_name": "Michelle Snow",
+      "total": 723
+    },
+    {
+      "rank": 44,
+      "player_id": 100008,
+      "player_name": "Tamecka Dixon",
+      "total": 716
+    },
+    {
+      "rank": 45,
+      "player_id": 201904,
+      "player_name": "Renee Montgomery",
+      "total": 697
+    },
+    {
+      "rank": 46,
+      "player_id": 101024,
+      "player_name": "Temeka Johnson",
+      "total": 696
+    },
+    {
+      "rank": 47,
+      "player_id": 100634,
+      "player_name": "Penny Taylor",
+      "total": 695
+    },
+    {
+      "rank": 48,
+      "player_id": 100384,
+      "player_name": "Dominique Canty",
+      "total": 685
+    },
+    {
+      "rank": 49,
+      "player_id": 100533,
+      "player_name": "DeMya Walker",
+      "total": 684
+    },
+    {
+      "rank": 50,
+      "player_id": 100723,
+      "player_name": "Asjha Jones",
+      "total": 682
+    },
+    {
+      "rank": 51,
+      "player_id": 202658,
+      "player_name": "Danielle Robinson",
+      "total": 680
+    },
+    {
+      "rank": 52,
+      "player_id": 100072,
+      "player_name": "Sheryl Swoopes",
+      "total": 677
+    },
+    {
+      "rank": 53,
+      "player_id": 100628,
+      "player_name": "Tammy Sutton-Brown",
+      "total": 672
+    },
+    {
+      "rank": 54,
+      "player_id": 100639,
+      "player_name": "Deanna Nolan",
+      "total": 669
+    },
+    {
+      "rank": 55,
+      "player_id": 100433,
+      "player_name": "Chasity Melvin",
+      "total": 666
+    },
+    {
+      "rank": 56,
+      "player_id": 204365,
+      "player_name": "Erica Wheeler",
+      "total": 665
+    },
+    {
+      "rank": 57,
+      "player_id": 204333,
+      "player_name": "Natasha Cloud",
+      "total": 665
+    },
+    {
+      "rank": 58,
+      "player_id": 100103,
+      "player_name": "Vickie Johnson",
+      "total": 660
+    },
+    {
+      "rank": 59,
+      "player_id": 204324,
+      "player_name": "Dearica Hamby",
+      "total": 657
+    },
+    {
+      "rank": 60,
+      "player_id": 100419,
+      "player_name": "Yolanda Griffith",
+      "total": 653
+    },
+    {
+      "rank": 61,
+      "player_id": 100416,
+      "player_name": "Sheri Sam",
+      "total": 650
+    },
+    {
+      "rank": 62,
+      "player_id": 1627675,
+      "player_name": "Courtney Williams",
+      "total": 643
+    },
+    {
+      "rank": 63,
+      "player_id": 100372,
+      "player_name": "Dawn Staley",
+      "total": 643
+    },
+    {
+      "rank": 64,
+      "player_id": 100656,
+      "player_name": "Ruth Riley",
+      "total": 637
+    },
+    {
+      "rank": 65,
+      "player_id": 100658,
+      "player_name": "Svetlana Abrosimova",
+      "total": 631
+    },
+    {
+      "rank": 66,
+      "player_id": 203825,
+      "player_name": "Kayla McBride",
+      "total": 622
+    },
+    {
+      "rank": 67,
+      "player_id": 203824,
+      "player_name": "Odyssey Sims",
+      "total": 616
+    },
+    {
+      "rank": 68,
+      "player_id": 100944,
+      "player_name": "Rebekkah Brunson",
+      "total": 615
+    },
+    {
+      "rank": 69,
+      "player_id": 200671,
+      "player_name": "Seimone Augustus",
+      "total": 613
+    },
+    {
+      "rank": 70,
+      "player_id": 1628276,
+      "player_name": "Kelsey Plum",
+      "total": 611
+    },
+    {
+      "rank": 71,
+      "player_id": 1627673,
+      "player_name": "Jonquel Jones",
+      "total": 606
+    },
+    {
+      "rank": 72,
+      "player_id": 203026,
+      "player_name": "Tiffany Hayes",
+      "total": 605
+    },
+    {
+      "rank": 73,
+      "player_id": 100101,
+      "player_name": "Teresa Weatherspoon",
+      "total": 601
+    },
+    {
+      "rank": 74,
+      "player_id": 201046,
+      "player_name": "Lindsey Harding",
+      "total": 600
+    },
+    {
+      "rank": 75,
+      "player_id": 100347,
+      "player_name": "Tamika Whitmore",
+      "total": 600
+    },
+    {
+      "rank": 76,
+      "player_id": 100627,
+      "player_name": "Kelly Miller",
+      "total": 596
+    },
+    {
+      "rank": 77,
+      "player_id": 1627674,
+      "player_name": "Kahleah Copper",
+      "total": 579
+    },
+    {
+      "rank": 78,
+      "player_id": 100457,
+      "player_name": "Helen Darling",
+      "total": 575
+    },
+    {
+      "rank": 79,
+      "player_id": 100415,
+      "player_name": "Nykesha Sales",
+      "total": 575
+    },
+    {
+      "rank": 80,
+      "player_id": 203828,
+      "player_name": "Stefanie Dolson",
+      "total": 575
+    },
+    {
+      "rank": 81,
+      "player_id": 100059,
+      "player_name": "Andrea Stinson",
+      "total": 571
+    },
+    {
+      "rank": 82,
+      "player_id": 101025,
+      "player_name": "Kara Braxton",
+      "total": 570
+    },
+    {
+      "rank": 83,
+      "player_id": 100198,
+      "player_name": "Nikki McCray",
+      "total": 565
+    },
+    {
+      "rank": 84,
+      "player_id": 101023,
+      "player_name": "Sancho Lyttle",
+      "total": 563
+    },
+    {
+      "rank": 85,
+      "player_id": 101020,
+      "player_name": "Tan White",
+      "total": 557
+    },
+    {
+      "rank": 86,
+      "player_id": 1628279,
+      "player_name": "Brittney Sykes",
+      "total": 556
+    },
+    {
+      "rank": 87,
+      "player_id": 1628909,
+      "player_name": "Kelsey Mitchell",
+      "total": 549
+    },
+    {
+      "rank": 88,
+      "player_id": 100682,
+      "player_name": "Lauren Jackson",
+      "total": 549
+    },
+    {
+      "rank": 89,
+      "player_id": 1627668,
+      "player_name": "Breanna Stewart",
+      "total": 545
+    },
+    {
+      "rank": 90,
+      "player_id": 201492,
+      "player_name": "Matee Ajavon",
+      "total": 544
+    },
+    {
+      "rank": 91,
+      "player_id": 100363,
+      "player_name": "Adrienne Goodson",
+      "total": 542
+    },
+    {
+      "rank": 92,
+      "player_id": 203406,
+      "player_name": "Layshia Clarendon",
+      "total": 536
+    },
+    {
+      "rank": 93,
+      "player_id": 201056,
+      "player_name": "Ivory Latta",
+      "total": 534
+    },
+    {
+      "rank": 94,
+      "player_id": 100796,
+      "player_name": "Iziane Castro Marques",
+      "total": 534
+    },
+    {
+      "rank": 95,
+      "player_id": 100012,
+      "player_name": "Mwadi Mabika",
+      "total": 532
+    },
+    {
+      "rank": 96,
+      "player_id": 100556,
+      "player_name": "Nakia Sanford",
+      "total": 531
+    },
+    {
+      "rank": 97,
+      "player_id": 202632,
+      "player_name": "Maya Moore",
+      "total": 527
+    },
+    {
+      "rank": 98,
+      "player_id": 100874,
+      "player_name": "Kara Lawson",
+      "total": 526
+    },
+    {
+      "rank": 99,
+      "player_id": 201507,
+      "player_name": "Leilani Mitchell",
+      "total": 525
+    },
+    {
+      "rank": 100,
+      "player_id": 100919,
+      "player_name": "Nicole Powell",
+      "total": 525
+    },
+    {
+      "rank": 101,
+      "player_id": 100685,
+      "player_name": "Marie Ferdinand-Harris",
+      "total": 518
+    },
+    {
+      "rank": 102,
+      "player_id": 1629477,
+      "player_name": "Sabrina Ionescu",
+      "total": 517
+    },
+    {
+      "rank": 103,
+      "player_id": 201919,
+      "player_name": "Shavonte Zellous",
+      "total": 517
+    },
+    {
+      "rank": 104,
+      "player_id": 100046,
+      "player_name": "Wendy Palmer",
+      "total": 517
+    },
+    {
+      "rank": 105,
+      "player_id": 100284,
+      "player_name": "Tully Bevilaqua",
+      "total": 514
+    },
+    {
+      "rank": 106,
+      "player_id": 100952,
+      "player_name": "Jia Perkins",
+      "total": 513
+    },
+    {
+      "rank": 107,
+      "player_id": 1629481,
+      "player_name": "Arike Ogunbowale",
+      "total": 503
+    },
+    {
+      "rank": 108,
+      "player_id": 201477,
+      "player_name": "Tamera Young",
+      "total": 501
+    },
+    {
+      "rank": 109,
+      "player_id": 100724,
+      "player_name": "Nikki Teasley",
+      "total": 493
+    },
+    {
+      "rank": 110,
+      "player_id": 100413,
+      "player_name": "Tari Phillips",
+      "total": 493
+    },
+    {
+      "rank": 111,
+      "player_id": 101019,
+      "player_name": "Janel McCarville",
+      "total": 491
+    },
+    {
+      "rank": 112,
+      "player_id": 1628886,
+      "player_name": "Jordin Canada",
+      "total": 489
+    },
+    {
+      "rank": 113,
+      "player_id": 100812,
+      "player_name": "Erika de Souza",
+      "total": 483
+    },
+    {
+      "rank": 114,
+      "player_id": 1629497,
+      "player_name": "Marina Mabrey",
+      "total": 483
+    },
+    {
+      "rank": 115,
+      "player_id": 200674,
+      "player_name": "Sophia Young-Malcolm",
+      "total": 482
+    },
+    {
+      "rank": 116,
+      "player_id": 100366,
+      "player_name": "Natalie Williams",
+      "total": 480
+    },
+    {
+      "rank": 117,
+      "player_id": 100928,
+      "player_name": "Ebony Hoffman",
+      "total": 470
+    },
+    {
+      "rank": 118,
+      "player_id": 100414,
+      "player_name": "Elaine Powell",
+      "total": 469
+    },
+    {
+      "rank": 119,
+      "player_id": 201516,
+      "player_name": "Allie Quigley",
+      "total": 467
+    },
+    {
+      "rank": 120,
+      "player_id": 201913,
+      "player_name": "Kia Vaughn",
+      "total": 454
+    },
+    {
+      "rank": 121,
+      "player_id": 100075,
+      "player_name": "Janeth Arcain",
+      "total": 453
+    },
+    {
+      "rank": 122,
+      "player_id": 1628277,
+      "player_name": "Allisha Gray",
+      "total": 449
+    },
+    {
+      "rank": 123,
+      "player_id": 100043,
+      "player_name": "Elena Baranova",
+      "total": 444
+    },
+    {
+      "rank": 124,
+      "player_id": 202650,
+      "player_name": "Jantel Lavender",
+      "total": 444
+    },
+    {
+      "rank": 125,
+      "player_id": 1628932,
+      "player_name": "A'ja Wilson",
+      "total": 441
+    },
+    {
+      "rank": 126,
+      "player_id": 100445,
+      "player_name": "Ann Wauters",
+      "total": 440
+    },
+    {
+      "rank": 127,
+      "player_id": 1627676,
+      "player_name": "Tiffany Mitchell",
+      "total": 439
+    },
+    {
+      "rank": 128,
+      "player_id": 100421,
+      "player_name": "Kedra Holland-Corn",
+      "total": 438
+    },
+    {
+      "rank": 129,
+      "player_id": 202252,
+      "player_name": "Alysha Clark",
+      "total": 437
+    },
+    {
+      "rank": 130,
+      "player_id": 1628878,
+      "player_name": "Ariel Atkins",
+      "total": 437
+    },
+    {
+      "rank": 131,
+      "player_id": 204335,
+      "player_name": "Betnijah Laney-Hamilton",
+      "total": 435
+    },
+    {
+      "rank": 132,
+      "player_id": 204323,
+      "player_name": "Cheyenne Parker-Tyus",
+      "total": 435
+    },
+    {
+      "rank": 133,
+      "player_id": 100030,
+      "player_name": "Jennifer Gillom",
+      "total": 434
+    },
+    {
+      "rank": 134,
+      "player_id": 100932,
+      "player_name": "Nicole Ohlde",
+      "total": 434
+    },
+    {
+      "rank": 135,
+      "player_id": 100199,
+      "player_name": "Murriel Page",
+      "total": 432
+    },
+    {
+      "rank": 136,
+      "player_id": 1629498,
+      "player_name": "Jackie Young",
+      "total": 424
+    },
+    {
+      "rank": 137,
+      "player_id": 100937,
+      "player_name": "Shameka Christon",
+      "total": 424
+    },
+    {
+      "rank": 138,
+      "player_id": 100073,
+      "player_name": "Cynthia Cooper",
+      "total": 422
+    },
+    {
+      "rank": 139,
+      "player_id": 1629483,
+      "player_name": "Napheesa Collier",
+      "total": 422
+    },
+    {
+      "rank": 140,
+      "player_id": 201049,
+      "player_name": "Noelle Quinn",
+      "total": 422
+    },
+    {
+      "rank": 141,
+      "player_id": 203829,
+      "player_name": "Bria Hartley",
+      "total": 419
+    },
+    {
+      "rank": 142,
+      "player_id": 1628244,
+      "player_name": "Sami Whitcomb",
+      "total": 416
+    },
+    {
+      "rank": 143,
+      "player_id": 100690,
+      "player_name": "Coco Miller",
+      "total": 410
+    },
+    {
+      "rank": 144,
+      "player_id": 202259,
+      "player_name": "Epiphanny Prince",
+      "total": 408
+    },
+    {
+      "rank": 145,
+      "player_id": 101049,
+      "player_name": "Cathrine Kraayeveld",
+      "total": 406
+    },
+    {
+      "rank": 146,
+      "player_id": 201502,
+      "player_name": "Essence Carson",
+      "total": 405
+    },
+    {
+      "rank": 147,
+      "player_id": 202633,
+      "player_name": "Liz Cambage",
+      "total": 403
+    },
+    {
+      "rank": 148,
+      "player_id": 100092,
+      "player_name": "Merlakia Jones",
+      "total": 398
+    },
+    {
+      "rank": 149,
+      "player_id": 203017,
+      "player_name": "Glory Johnson",
+      "total": 397
+    },
+    {
+      "rank": 150,
+      "player_id": 201889,
+      "player_name": "Marissa Coleman",
+      "total": 396
+    },
+    {
+      "rank": 151,
+      "player_id": 100105,
+      "player_name": "Sophia Witherspoon",
+      "total": 386
+    },
+    {
+      "rank": 152,
+      "player_id": 100731,
+      "player_name": "Hamchetou Maiga-Ba",
+      "total": 385
+    },
+    {
+      "rank": 153,
+      "player_id": 100544,
+      "player_name": "Kamila Vodichkova",
+      "total": 381
+    },
+    {
+      "rank": 154,
+      "player_id": 202638,
+      "player_name": "Jessica Breland",
+      "total": 378
+    },
+    {
+      "rank": 155,
+      "player_id": 201048,
+      "player_name": "Armintie Herrington",
+      "total": 377
+    },
+    {
+      "rank": 156,
+      "player_id": 204322,
+      "player_name": "Elizabeth Williams",
+      "total": 376
+    },
+    {
+      "rank": 157,
+      "player_id": 100493,
+      "player_name": "Anna DeForge",
+      "total": 374
+    },
+    {
+      "rank": 158,
+      "player_id": 100843,
+      "player_name": "Cheryl Ford",
+      "total": 374
+    },
+    {
+      "rank": 159,
+      "player_id": 100170,
+      "player_name": "Allison Feaster",
+      "total": 372
+    },
+    {
+      "rank": 160,
+      "player_id": 203416,
+      "player_name": "Emma Meesseman",
+      "total": 367
+    },
+    {
+      "rank": 161,
+      "player_id": 1628899,
+      "player_name": "Myisha Hines-Allen",
+      "total": 363
+    },
+    {
+      "rank": 162,
+      "player_id": 100027,
+      "player_name": "Latasha Byears",
+      "total": 360
+    },
+    {
+      "rank": 163,
+      "player_id": 100058,
+      "player_name": "Vicky Bullett",
+      "total": 359
+    },
+    {
+      "rank": 164,
+      "player_id": 201050,
+      "player_name": "Tiffany Jackson",
+      "total": 354
+    },
+    {
+      "rank": 165,
+      "player_id": 100526,
+      "player_name": "Adrian Williams-Strong",
+      "total": 353
+    },
+    {
+      "rank": 166,
+      "player_id": 201499,
+      "player_name": "Candice Wiggins",
+      "total": 349
+    },
+    {
+      "rank": 167,
+      "player_id": 100660,
+      "player_name": "Janell Burse",
+      "total": 347
+    },
+    {
+      "rank": 168,
+      "player_id": 1628280,
+      "player_name": "Brionna Jones",
+      "total": 346
+    },
+    {
+      "rank": 169,
+      "player_id": 101028,
+      "player_name": "Loree Moore",
+      "total": 339
+    },
+    {
+      "rank": 170,
+      "player_id": 100371,
+      "player_name": "Charlotte Smith",
+      "total": 337
+    },
+    {
+      "rank": 171,
+      "player_id": 200684,
+      "player_name": "Scholanda Dorrell",
+      "total": 335
+    },
+    {
+      "rank": 172,
+      "player_id": 1629479,
+      "player_name": "Teaira McCowan",
+      "total": 334
+    },
+    {
+      "rank": 173,
+      "player_id": 1627672,
+      "player_name": "Aerial Powers",
+      "total": 333
+    },
+    {
+      "rank": 174,
+      "player_id": 1628890,
+      "player_name": "Diamond DeShields",
+      "total": 333
+    },
+    {
+      "rank": 175,
+      "player_id": 201501,
+      "player_name": "Charde Houston",
+      "total": 331
+    },
+    {
+      "rank": 176,
+      "player_id": 201503,
+      "player_name": "Erlana Larkins",
+      "total": 326
+    },
+    {
+      "rank": 177,
+      "player_id": 100204,
+      "player_name": "Rita Williams",
+      "total": 326
+    },
+    {
+      "rank": 178,
+      "player_id": 100973,
+      "player_name": "Le'coe Willingham",
+      "total": 325
+    },
+    {
+      "rank": 179,
+      "player_id": 100243,
+      "player_name": "Olympia Scott",
+      "total": 324
+    },
+    {
+      "rank": 180,
+      "player_id": 1630149,
+      "player_name": "Satou Sabally",
+      "total": 323
+    },
+    {
+      "rank": 181,
+      "player_id": 100494,
+      "player_name": "Barbara Farris",
+      "total": 315
+    },
+    {
+      "rank": 182,
+      "player_id": 1627669,
+      "player_name": "Moriah Jefferson",
+      "total": 314
+    },
+    {
+      "rank": 183,
+      "player_id": 203410,
+      "player_name": "Alex Bentley",
+      "total": 313
+    },
+    {
+      "rank": 184,
+      "player_id": 1628915,
+      "player_name": "Kia Nurse",
+      "total": 313
+    },
+    {
+      "rank": 185,
+      "player_id": 100725,
+      "player_name": "Tamika Raymond",
+      "total": 311
+    },
+    {
+      "rank": 186,
+      "player_id": 100659,
+      "player_name": "Erin Perperoglou",
+      "total": 305
+    },
+    {
+      "rank": 187,
+      "player_id": 1628931,
+      "player_name": "Gabby Williams",
+      "total": 305
+    },
+    {
+      "rank": 188,
+      "player_id": 101080,
+      "player_name": "Jennifer Lacy",
+      "total": 305
+    },
+    {
+      "rank": 189,
+      "player_id": 203403,
+      "player_name": "Tianna Hawkins",
+      "total": 303
+    },
+    {
+      "rank": 190,
+      "player_id": 204330,
+      "player_name": "Isabelle Harrison",
+      "total": 300
+    },
+    {
+      "rank": 191,
+      "player_id": 1628881,
+      "player_name": "Monique Billings",
+      "total": 300
+    },
+    {
+      "rank": 192,
+      "player_id": 100345,
+      "player_name": "Crystal Robinson",
+      "total": 299
+    },
+    {
+      "rank": 193,
+      "player_id": 100029,
+      "player_name": "Michele Timms",
+      "total": 297
+    },
+    {
+      "rank": 194,
+      "player_id": 1642286,
+      "player_name": "Caitlin Clark",
+      "total": 289
+    },
+    {
+      "rank": 195,
+      "player_id": 201487,
+      "player_name": "Alexis Hornbuckle",
+      "total": 288
+    },
+    {
+      "rank": 196,
+      "player_id": 100552,
+      "player_name": "Kristen Rasmussen",
+      "total": 288
+    },
+    {
+      "rank": 197,
+      "player_id": 1628922,
+      "player_name": "Azur\u00e1 Stevens",
+      "total": 286
+    },
+    {
+      "rank": 198,
+      "player_id": 203866,
+      "player_name": "Kayla Thornton",
+      "total": 286
+    },
+    {
+      "rank": 199,
+      "player_id": 100031,
+      "player_name": "Bridget Pettis",
+      "total": 284
+    },
+    {
+      "rank": 200,
+      "player_id": 1627671,
+      "player_name": "Rachel Banham",
+      "total": 284
+    }
+  ],
+  "PF": [
+    {
+      "rank": 1,
+      "player_id": 100940,
+      "player_name": "Diana Taurasi",
+      "total": 1732
+    },
+    {
+      "rank": 2,
+      "player_id": 100396,
+      "player_name": "DeLisha Milton-Jones",
+      "total": 1574
+    },
+    {
+      "rank": 3,
+      "player_id": 100236,
+      "player_name": "Tangela Smith",
+      "total": 1396
+    },
+    {
+      "rank": 4,
+      "player_id": 100003,
+      "player_name": "Lisa Leslie",
+      "total": 1391
+    },
+    {
+      "rank": 5,
+      "player_id": 100076,
+      "player_name": "Tina Thompson",
+      "total": 1270
+    },
+    {
+      "rank": 6,
+      "player_id": 100646,
+      "player_name": "Tamika Catchings",
+      "total": 1229
+    },
+    {
+      "rank": 7,
+      "player_id": 100656,
+      "player_name": "Ruth Riley",
+      "total": 1215
+    },
+    {
+      "rank": 8,
+      "player_id": 100404,
+      "player_name": "Katie Smith",
+      "total": 1199
+    },
+    {
+      "rank": 9,
+      "player_id": 100628,
+      "player_name": "Tammy Sutton-Brown",
+      "total": 1193
+    },
+    {
+      "rank": 10,
+      "player_id": 100888,
+      "player_name": "Plenette Pierson",
+      "total": 1175
+    },
+    {
+      "rank": 11,
+      "player_id": 100433,
+      "player_name": "Chasity Melvin",
+      "total": 1165
+    },
+    {
+      "rank": 12,
+      "player_id": 201067,
+      "player_name": "Camille Smith",
+      "total": 1159
+    },
+    {
+      "rank": 13,
+      "player_id": 100949,
+      "player_name": "Alana Beard",
+      "total": 1153
+    },
+    {
+      "rank": 14,
+      "player_id": 100721,
+      "player_name": "Swin Cash",
+      "total": 1146
+    },
+    {
+      "rank": 15,
+      "player_id": 100412,
+      "player_name": "Taj McWilliams-Franklin",
+      "total": 1145
+    },
+    {
+      "rank": 16,
+      "player_id": 200673,
+      "player_name": "Monique Currie",
+      "total": 1137
+    },
+    {
+      "rank": 17,
+      "player_id": 203014,
+      "player_name": "Nneka Ogwumike",
+      "total": 1131
+    },
+    {
+      "rank": 18,
+      "player_id": 101030,
+      "player_name": "Tanisha Wright",
+      "total": 1109
+    },
+    {
+      "rank": 19,
+      "player_id": 100729,
+      "player_name": "Michelle Snow",
+      "total": 1108
+    },
+    {
+      "rank": 20,
+      "player_id": 203827,
+      "player_name": "Natasha Howard",
+      "total": 1088
+    },
+    {
+      "rank": 21,
+      "player_id": 203828,
+      "player_name": "Stefanie Dolson",
+      "total": 1079
+    },
+    {
+      "rank": 22,
+      "player_id": 201480,
+      "player_name": "Sylvia Fowles",
+      "total": 1049
+    },
+    {
+      "rank": 23,
+      "player_id": 202250,
+      "player_name": "Tina Charles",
+      "total": 1037
+    },
+    {
+      "rank": 24,
+      "player_id": 100915,
+      "player_name": "Lindsay Whalen",
+      "total": 998
+    },
+    {
+      "rank": 25,
+      "player_id": 100944,
+      "player_name": "Rebekkah Brunson",
+      "total": 996
+    },
+    {
+      "rank": 26,
+      "player_id": 203026,
+      "player_name": "Tiffany Hayes",
+      "total": 991
+    },
+    {
+      "rank": 27,
+      "player_id": 100419,
+      "player_name": "Yolanda Griffith",
+      "total": 991
+    },
+    {
+      "rank": 28,
+      "player_id": 100682,
+      "player_name": "Lauren Jackson",
+      "total": 982
+    },
+    {
+      "rank": 29,
+      "player_id": 100556,
+      "player_name": "Nakia Sanford",
+      "total": 979
+    },
+    {
+      "rank": 30,
+      "player_id": 100723,
+      "player_name": "Asjha Jones",
+      "total": 971
+    },
+    {
+      "rank": 31,
+      "player_id": 203398,
+      "player_name": "Brittney Griner",
+      "total": 965
+    },
+    {
+      "rank": 32,
+      "player_id": 100239,
+      "player_name": "Margo Dydek",
+      "total": 950
+    },
+    {
+      "rank": 33,
+      "player_id": 101023,
+      "player_name": "Sancho Lyttle",
+      "total": 947
+    },
+    {
+      "rank": 34,
+      "player_id": 100012,
+      "player_name": "Mwadi Mabika",
+      "total": 941
+    },
+    {
+      "rank": 35,
+      "player_id": 100347,
+      "player_name": "Tamika Whitmore",
+      "total": 940
+    },
+    {
+      "rank": 36,
+      "player_id": 202664,
+      "player_name": "Courtney Vandersloot",
+      "total": 938
+    },
+    {
+      "rank": 37,
+      "player_id": 203826,
+      "player_name": "Alyssa Thomas",
+      "total": 925
+    },
+    {
+      "rank": 38,
+      "player_id": 201896,
+      "player_name": "Briann January",
+      "total": 921
+    },
+    {
+      "rank": 39,
+      "player_id": 100234,
+      "player_name": "Ticha Penicheiro",
+      "total": 913
+    },
+    {
+      "rank": 40,
+      "player_id": 201919,
+      "player_name": "Shavonte Zellous",
+      "total": 907
+    },
+    {
+      "rank": 41,
+      "player_id": 201886,
+      "player_name": "DeWanna Bonner",
+      "total": 891
+    },
+    {
+      "rank": 42,
+      "player_id": 202252,
+      "player_name": "Alysha Clark",
+      "total": 883
+    },
+    {
+      "rank": 43,
+      "player_id": 100533,
+      "player_name": "DeMya Walker",
+      "total": 882
+    },
+    {
+      "rank": 44,
+      "player_id": 200676,
+      "player_name": "Candice Dupree",
+      "total": 876
+    },
+    {
+      "rank": 45,
+      "player_id": 100199,
+      "player_name": "Murriel Page",
+      "total": 872
+    },
+    {
+      "rank": 46,
+      "player_id": 200665,
+      "player_name": "Cappie Pondexter",
+      "total": 869
+    },
+    {
+      "rank": 47,
+      "player_id": 1627673,
+      "player_name": "Jonquel Jones",
+      "total": 860
+    },
+    {
+      "rank": 48,
+      "player_id": 100812,
+      "player_name": "Erika de Souza",
+      "total": 858
+    },
+    {
+      "rank": 49,
+      "player_id": 201881,
+      "player_name": "Angel McCoughtry",
+      "total": 857
+    },
+    {
+      "rank": 50,
+      "player_id": 100484,
+      "player_name": "Betty Lennox",
+      "total": 851
+    },
+    {
+      "rank": 51,
+      "player_id": 100008,
+      "player_name": "Tamecka Dixon",
+      "total": 849
+    },
+    {
+      "rank": 52,
+      "player_id": 100366,
+      "player_name": "Natalie Williams",
+      "total": 847
+    },
+    {
+      "rank": 53,
+      "player_id": 201477,
+      "player_name": "Tamera Young",
+      "total": 847
+    },
+    {
+      "rank": 54,
+      "player_id": 201496,
+      "player_name": "Candace Parker",
+      "total": 834
+    },
+    {
+      "rank": 55,
+      "player_id": 100634,
+      "player_name": "Penny Taylor",
+      "total": 832
+    },
+    {
+      "rank": 56,
+      "player_id": 100384,
+      "player_name": "Dominique Canty",
+      "total": 831
+    },
+    {
+      "rank": 57,
+      "player_id": 100046,
+      "player_name": "Wendy Palmer",
+      "total": 831
+    },
+    {
+      "rank": 58,
+      "player_id": 100410,
+      "player_name": "Shannon Johnson",
+      "total": 813
+    },
+    {
+      "rank": 59,
+      "player_id": 100284,
+      "player_name": "Tully Bevilaqua",
+      "total": 813
+    },
+    {
+      "rank": 60,
+      "player_id": 204324,
+      "player_name": "Dearica Hamby",
+      "total": 798
+    },
+    {
+      "rank": 61,
+      "player_id": 100415,
+      "player_name": "Nykesha Sales",
+      "total": 796
+    },
+    {
+      "rank": 62,
+      "player_id": 100928,
+      "player_name": "Ebony Hoffman",
+      "total": 791
+    },
+    {
+      "rank": 63,
+      "player_id": 203400,
+      "player_name": "Skylar Diggins",
+      "total": 790
+    },
+    {
+      "rank": 64,
+      "player_id": 100720,
+      "player_name": "Sue Bird",
+      "total": 775
+    },
+    {
+      "rank": 65,
+      "player_id": 100416,
+      "player_name": "Sheri Sam",
+      "total": 766
+    },
+    {
+      "rank": 66,
+      "player_id": 204365,
+      "player_name": "Erica Wheeler",
+      "total": 758
+    },
+    {
+      "rank": 67,
+      "player_id": 201913,
+      "player_name": "Kia Vaughn",
+      "total": 755
+    },
+    {
+      "rank": 68,
+      "player_id": 100103,
+      "player_name": "Vickie Johnson",
+      "total": 752
+    },
+    {
+      "rank": 69,
+      "player_id": 101025,
+      "player_name": "Kara Braxton",
+      "total": 748
+    },
+    {
+      "rank": 70,
+      "player_id": 201518,
+      "player_name": "Crystal Langhorne",
+      "total": 737
+    },
+    {
+      "rank": 71,
+      "player_id": 100937,
+      "player_name": "Shameka Christon",
+      "total": 734
+    },
+    {
+      "rank": 72,
+      "player_id": 100342,
+      "player_name": "Becky Hammon",
+      "total": 733
+    },
+    {
+      "rank": 73,
+      "player_id": 100027,
+      "player_name": "Latasha Byears",
+      "total": 730
+    },
+    {
+      "rank": 74,
+      "player_id": 201911,
+      "player_name": "Kristi Toliver",
+      "total": 722
+    },
+    {
+      "rank": 75,
+      "player_id": 204333,
+      "player_name": "Natasha Cloud",
+      "total": 718
+    },
+    {
+      "rank": 76,
+      "player_id": 1627674,
+      "player_name": "Kahleah Copper",
+      "total": 715
+    },
+    {
+      "rank": 77,
+      "player_id": 100843,
+      "player_name": "Cheryl Ford",
+      "total": 713
+    },
+    {
+      "rank": 78,
+      "player_id": 100952,
+      "player_name": "Jia Perkins",
+      "total": 711
+    },
+    {
+      "rank": 79,
+      "player_id": 100457,
+      "player_name": "Helen Darling",
+      "total": 709
+    },
+    {
+      "rank": 80,
+      "player_id": 204322,
+      "player_name": "Elizabeth Williams",
+      "total": 708
+    },
+    {
+      "rank": 81,
+      "player_id": 1628277,
+      "player_name": "Allisha Gray",
+      "total": 706
+    },
+    {
+      "rank": 82,
+      "player_id": 201492,
+      "player_name": "Matee Ajavon",
+      "total": 701
+    },
+    {
+      "rank": 83,
+      "player_id": 100919,
+      "player_name": "Nicole Powell",
+      "total": 701
+    },
+    {
+      "rank": 84,
+      "player_id": 101020,
+      "player_name": "Tan White",
+      "total": 698
+    },
+    {
+      "rank": 85,
+      "player_id": 100666,
+      "player_name": "Katie Douglas",
+      "total": 697
+    },
+    {
+      "rank": 86,
+      "player_id": 202658,
+      "player_name": "Danielle Robinson",
+      "total": 692
+    },
+    {
+      "rank": 87,
+      "player_id": 200674,
+      "player_name": "Sophia Young-Malcolm",
+      "total": 687
+    },
+    {
+      "rank": 88,
+      "player_id": 202632,
+      "player_name": "Maya Moore",
+      "total": 686
+    },
+    {
+      "rank": 89,
+      "player_id": 202662,
+      "player_name": "Jasmine Thomas",
+      "total": 685
+    },
+    {
+      "rank": 90,
+      "player_id": 1628878,
+      "player_name": "Ariel Atkins",
+      "total": 684
+    },
+    {
+      "rank": 91,
+      "player_id": 201507,
+      "player_name": "Leilani Mitchell",
+      "total": 684
+    },
+    {
+      "rank": 92,
+      "player_id": 100345,
+      "player_name": "Crystal Robinson",
+      "total": 682
+    },
+    {
+      "rank": 93,
+      "player_id": 101080,
+      "player_name": "Jennifer Lacy",
+      "total": 680
+    },
+    {
+      "rank": 94,
+      "player_id": 101024,
+      "player_name": "Temeka Johnson",
+      "total": 680
+    },
+    {
+      "rank": 95,
+      "player_id": 100627,
+      "player_name": "Kelly Miller",
+      "total": 676
+    },
+    {
+      "rank": 96,
+      "player_id": 100356,
+      "player_name": "Chamique Holdsclaw",
+      "total": 667
+    },
+    {
+      "rank": 97,
+      "player_id": 1628279,
+      "player_name": "Brittney Sykes",
+      "total": 662
+    },
+    {
+      "rank": 98,
+      "player_id": 203403,
+      "player_name": "Tianna Hawkins",
+      "total": 662
+    },
+    {
+      "rank": 99,
+      "player_id": 204323,
+      "player_name": "Cheyenne Parker-Tyus",
+      "total": 660
+    },
+    {
+      "rank": 100,
+      "player_id": 1628276,
+      "player_name": "Kelsey Plum",
+      "total": 658
+    },
+    {
+      "rank": 101,
+      "player_id": 100413,
+      "player_name": "Tari Phillips",
+      "total": 648
+    },
+    {
+      "rank": 102,
+      "player_id": 100685,
+      "player_name": "Marie Ferdinand-Harris",
+      "total": 646
+    },
+    {
+      "rank": 103,
+      "player_id": 204319,
+      "player_name": "Jewell Loyd",
+      "total": 644
+    },
+    {
+      "rank": 104,
+      "player_id": 1627668,
+      "player_name": "Breanna Stewart",
+      "total": 640
+    },
+    {
+      "rank": 105,
+      "player_id": 100371,
+      "player_name": "Charlotte Smith",
+      "total": 638
+    },
+    {
+      "rank": 106,
+      "player_id": 203866,
+      "player_name": "Kayla Thornton",
+      "total": 638
+    },
+    {
+      "rank": 107,
+      "player_id": 100660,
+      "player_name": "Janell Burse",
+      "total": 632
+    },
+    {
+      "rank": 108,
+      "player_id": 100932,
+      "player_name": "Nicole Ohlde",
+      "total": 631
+    },
+    {
+      "rank": 109,
+      "player_id": 100030,
+      "player_name": "Jennifer Gillom",
+      "total": 629
+    },
+    {
+      "rank": 110,
+      "player_id": 100639,
+      "player_name": "Deanna Nolan",
+      "total": 628
+    },
+    {
+      "rank": 111,
+      "player_id": 1628280,
+      "player_name": "Brionna Jones",
+      "total": 625
+    },
+    {
+      "rank": 112,
+      "player_id": 1629479,
+      "player_name": "Teaira McCowan",
+      "total": 618
+    },
+    {
+      "rank": 113,
+      "player_id": 201907,
+      "player_name": "Courtney Paris",
+      "total": 617
+    },
+    {
+      "rank": 114,
+      "player_id": 100690,
+      "player_name": "Coco Miller",
+      "total": 615
+    },
+    {
+      "rank": 115,
+      "player_id": 100667,
+      "player_name": "Brooke Wyckoff",
+      "total": 614
+    },
+    {
+      "rank": 116,
+      "player_id": 100658,
+      "player_name": "Svetlana Abrosimova",
+      "total": 613
+    },
+    {
+      "rank": 117,
+      "player_id": 203406,
+      "player_name": "Layshia Clarendon",
+      "total": 609
+    },
+    {
+      "rank": 118,
+      "player_id": 204329,
+      "player_name": "Kiah Stokes",
+      "total": 605
+    },
+    {
+      "rank": 119,
+      "player_id": 1627676,
+      "player_name": "Tiffany Mitchell",
+      "total": 604
+    },
+    {
+      "rank": 120,
+      "player_id": 203833,
+      "player_name": "Chelsea Gray",
+      "total": 603
+    },
+    {
+      "rank": 121,
+      "player_id": 101019,
+      "player_name": "Janel McCarville",
+      "total": 597
+    },
+    {
+      "rank": 122,
+      "player_id": 203824,
+      "player_name": "Odyssey Sims",
+      "total": 597
+    },
+    {
+      "rank": 123,
+      "player_id": 100544,
+      "player_name": "Kamila Vodichkova",
+      "total": 596
+    },
+    {
+      "rank": 124,
+      "player_id": 100101,
+      "player_name": "Teresa Weatherspoon",
+      "total": 589
+    },
+    {
+      "rank": 125,
+      "player_id": 203416,
+      "player_name": "Emma Meesseman",
+      "total": 585
+    },
+    {
+      "rank": 126,
+      "player_id": 203823,
+      "player_name": "Chiney Ogwumike",
+      "total": 580
+    },
+    {
+      "rank": 127,
+      "player_id": 100731,
+      "player_name": "Hamchetou Maiga-Ba",
+      "total": 580
+    },
+    {
+      "rank": 128,
+      "player_id": 100243,
+      "player_name": "Olympia Scott",
+      "total": 580
+    },
+    {
+      "rank": 129,
+      "player_id": 1628909,
+      "player_name": "Kelsey Mitchell",
+      "total": 579
+    },
+    {
+      "rank": 130,
+      "player_id": 1629496,
+      "player_name": "Ezi Magbegor",
+      "total": 576
+    },
+    {
+      "rank": 131,
+      "player_id": 100973,
+      "player_name": "Le'coe Willingham",
+      "total": 571
+    },
+    {
+      "rank": 132,
+      "player_id": 100942,
+      "player_name": "Ashley Robinson",
+      "total": 567
+    },
+    {
+      "rank": 133,
+      "player_id": 1629481,
+      "player_name": "Arike Ogunbowale",
+      "total": 565
+    },
+    {
+      "rank": 134,
+      "player_id": 201056,
+      "player_name": "Ivory Latta",
+      "total": 565
+    },
+    {
+      "rank": 135,
+      "player_id": 100494,
+      "player_name": "Barbara Farris",
+      "total": 563
+    },
+    {
+      "rank": 136,
+      "player_id": 202638,
+      "player_name": "Jessica Breland",
+      "total": 562
+    },
+    {
+      "rank": 137,
+      "player_id": 1627675,
+      "player_name": "Courtney Williams",
+      "total": 553
+    },
+    {
+      "rank": 138,
+      "player_id": 100372,
+      "player_name": "Dawn Staley",
+      "total": 551
+    },
+    {
+      "rank": 139,
+      "player_id": 203017,
+      "player_name": "Glory Johnson",
+      "total": 550
+    },
+    {
+      "rank": 140,
+      "player_id": 203437,
+      "player_name": "Tierra Ruffin-Pratt",
+      "total": 550
+    },
+    {
+      "rank": 141,
+      "player_id": 201503,
+      "player_name": "Erlana Larkins",
+      "total": 546
+    },
+    {
+      "rank": 142,
+      "player_id": 202251,
+      "player_name": "Jayne Appel Marinelli",
+      "total": 543
+    },
+    {
+      "rank": 143,
+      "player_id": 201904,
+      "player_name": "Renee Montgomery",
+      "total": 543
+    },
+    {
+      "rank": 144,
+      "player_id": 201889,
+      "player_name": "Marissa Coleman",
+      "total": 541
+    },
+    {
+      "rank": 145,
+      "player_id": 100552,
+      "player_name": "Kristen Rasmussen",
+      "total": 533
+    },
+    {
+      "rank": 146,
+      "player_id": 204320,
+      "player_name": "Amanda Zahui B",
+      "total": 530
+    },
+    {
+      "rank": 147,
+      "player_id": 201499,
+      "player_name": "Candice Wiggins",
+      "total": 525
+    },
+    {
+      "rank": 148,
+      "player_id": 202259,
+      "player_name": "Epiphanny Prince",
+      "total": 525
+    },
+    {
+      "rank": 149,
+      "player_id": 201048,
+      "player_name": "Armintie Herrington",
+      "total": 523
+    },
+    {
+      "rank": 150,
+      "player_id": 1629497,
+      "player_name": "Marina Mabrey",
+      "total": 522
+    },
+    {
+      "rank": 151,
+      "player_id": 1628932,
+      "player_name": "A'ja Wilson",
+      "total": 521
+    },
+    {
+      "rank": 152,
+      "player_id": 100072,
+      "player_name": "Sheryl Swoopes",
+      "total": 519
+    },
+    {
+      "rank": 153,
+      "player_id": 100198,
+      "player_name": "Nikki McCray",
+      "total": 517
+    },
+    {
+      "rank": 154,
+      "player_id": 203410,
+      "player_name": "Alex Bentley",
+      "total": 516
+    },
+    {
+      "rank": 155,
+      "player_id": 203024,
+      "player_name": "Damiris Dantas",
+      "total": 516
+    },
+    {
+      "rank": 156,
+      "player_id": 202650,
+      "player_name": "Jantel Lavender",
+      "total": 513
+    },
+    {
+      "rank": 157,
+      "player_id": 100363,
+      "player_name": "Adrienne Goodson",
+      "total": 512
+    },
+    {
+      "rank": 158,
+      "player_id": 100075,
+      "player_name": "Janeth Arcain",
+      "total": 512
+    },
+    {
+      "rank": 159,
+      "player_id": 100059,
+      "player_name": "Andrea Stinson",
+      "total": 511
+    },
+    {
+      "rank": 160,
+      "player_id": 203825,
+      "player_name": "Kayla McBride",
+      "total": 507
+    },
+    {
+      "rank": 161,
+      "player_id": 100058,
+      "player_name": "Vicky Bullett",
+      "total": 507
+    },
+    {
+      "rank": 162,
+      "player_id": 100092,
+      "player_name": "Merlakia Jones",
+      "total": 506
+    },
+    {
+      "rank": 163,
+      "player_id": 100097,
+      "player_name": "Rushia Brown",
+      "total": 505
+    },
+    {
+      "rank": 164,
+      "player_id": 203015,
+      "player_name": "Shekinna Stricklen",
+      "total": 505
+    },
+    {
+      "rank": 165,
+      "player_id": 100170,
+      "player_name": "Allison Feaster",
+      "total": 504
+    },
+    {
+      "rank": 166,
+      "player_id": 100659,
+      "player_name": "Erin Perperoglou",
+      "total": 504
+    },
+    {
+      "rank": 167,
+      "player_id": 1629483,
+      "player_name": "Napheesa Collier",
+      "total": 504
+    },
+    {
+      "rank": 168,
+      "player_id": 1629482,
+      "player_name": "Sophie Cunningham",
+      "total": 504
+    },
+    {
+      "rank": 169,
+      "player_id": 1629498,
+      "player_name": "Jackie Young",
+      "total": 503
+    },
+    {
+      "rank": 170,
+      "player_id": 100796,
+      "player_name": "Iziane Castro Marques",
+      "total": 502
+    },
+    {
+      "rank": 171,
+      "player_id": 1628881,
+      "player_name": "Monique Billings",
+      "total": 502
+    },
+    {
+      "rank": 172,
+      "player_id": 100043,
+      "player_name": "Elena Baranova",
+      "total": 501
+    },
+    {
+      "rank": 173,
+      "player_id": 100526,
+      "player_name": "Adrian Williams-Strong",
+      "total": 497
+    },
+    {
+      "rank": 174,
+      "player_id": 201502,
+      "player_name": "Essence Carson",
+      "total": 497
+    },
+    {
+      "rank": 175,
+      "player_id": 202640,
+      "player_name": "Karima Christmas-Kelly",
+      "total": 494
+    },
+    {
+      "rank": 176,
+      "player_id": 100445,
+      "player_name": "Ann Wauters",
+      "total": 493
+    },
+    {
+      "rank": 177,
+      "player_id": 1628899,
+      "player_name": "Myisha Hines-Allen",
+      "total": 493
+    },
+    {
+      "rank": 178,
+      "player_id": 203029,
+      "player_name": "Riquna Williams",
+      "total": 493
+    },
+    {
+      "rank": 179,
+      "player_id": 201501,
+      "player_name": "Charde Houston",
+      "total": 487
+    },
+    {
+      "rank": 180,
+      "player_id": 201046,
+      "player_name": "Lindsey Harding",
+      "total": 486
+    },
+    {
+      "rank": 181,
+      "player_id": 101049,
+      "player_name": "Cathrine Kraayeveld",
+      "total": 484
+    },
+    {
+      "rank": 182,
+      "player_id": 204330,
+      "player_name": "Isabelle Harrison",
+      "total": 484
+    },
+    {
+      "rank": 183,
+      "player_id": 202633,
+      "player_name": "Liz Cambage",
+      "total": 483
+    },
+    {
+      "rank": 184,
+      "player_id": 100060,
+      "player_name": "Rhonda Mapp",
+      "total": 483
+    },
+    {
+      "rank": 185,
+      "player_id": 1628244,
+      "player_name": "Sami Whitcomb",
+      "total": 480
+    },
+    {
+      "rank": 186,
+      "player_id": 200671,
+      "player_name": "Seimone Augustus",
+      "total": 477
+    },
+    {
+      "rank": 187,
+      "player_id": 201516,
+      "player_name": "Allie Quigley",
+      "total": 475
+    },
+    {
+      "rank": 188,
+      "player_id": 1627671,
+      "player_name": "Rachel Banham",
+      "total": 472
+    },
+    {
+      "rank": 189,
+      "player_id": 1628922,
+      "player_name": "Azur\u00e1 Stevens",
+      "total": 463
+    },
+    {
+      "rank": 190,
+      "player_id": 100930,
+      "player_name": "Christi Thomas",
+      "total": 463
+    },
+    {
+      "rank": 191,
+      "player_id": 1628915,
+      "player_name": "Kia Nurse",
+      "total": 463
+    },
+    {
+      "rank": 192,
+      "player_id": 100724,
+      "player_name": "Nikki Teasley",
+      "total": 463
+    },
+    {
+      "rank": 193,
+      "player_id": 100104,
+      "player_name": "Sue Wicks",
+      "total": 462
+    },
+    {
+      "rank": 194,
+      "player_id": 203831,
+      "player_name": "Natalie Achonwa",
+      "total": 459
+    },
+    {
+      "rank": 195,
+      "player_id": 100874,
+      "player_name": "Kara Lawson",
+      "total": 457
+    },
+    {
+      "rank": 196,
+      "player_id": 201487,
+      "player_name": "Alexis Hornbuckle",
+      "total": 450
+    },
+    {
+      "rank": 197,
+      "player_id": 203829,
+      "player_name": "Bria Hartley",
+      "total": 448
+    },
+    {
+      "rank": 198,
+      "player_id": 1628269,
+      "player_name": "Nia Coffey",
+      "total": 448
+    },
+    {
+      "rank": 199,
+      "player_id": 1628890,
+      "player_name": "Diamond DeShields",
+      "total": 445
+    },
+    {
+      "rank": 200,
+      "player_id": 203411,
+      "player_name": "Sugar Rodgers",
+      "total": 445
+    }
+  ]
+}
