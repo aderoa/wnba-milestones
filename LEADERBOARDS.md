@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-09 21:44 UTC_
+_Last updated: 2026-05-09 21:45 UTC_
 
 ## Contents
 
@@ -461,7 +461,7 @@ _Last updated: 2026-05-09 21:44 UTC_
 | 30 | **DeWanna Bonner** 🔴 +2 | 1,178 |
 | 31 | Renee Montgomery | 1,140 |
 | 32 | Jordin Canada | 1,139 |
-| 33 | **Jewell Loyd** 🔴 +1 | 1,134 |
+| 33 | **Jewell Loyd** 🔴 +2 | 1,135 |
 | 34 | Swin Cash | 1,131 |
 | 35 | Lindsey Harding | 1,090 |
 | 36 | Katie Douglas | 1,069 |
