@@ -1,418 +1,174 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>WNBA Milestones · HoopsMatic</title>
-<meta name="description" content="Live top-200 WNBA career leaderboards across 8 stats with in-game overlay and milestone tracking.">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@500;600;700&display=swap" rel="stylesheet">
-<style>
-  :root {
-    --bg: #fafafa;
-    --bg-elev: #ffffff;
-    --bg-table-head: #f3f4f6;
-    --bg-live-row: #fef2f2;
-    --text: #111827;
-    --text-soft: #4b5563;
-    --muted: #6b7280;
-    --border: #e5e7eb;
-    --border-strong: #d1d5db;
-    --accent: #b45309;
-    --live: #dc2626;
-    --pass: #047857;
-    --header-font: 'JetBrains Mono', ui-monospace, 'SF Mono', Menlo, monospace;
-    --body-font: 'Inter', system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
-  }
+# wnba-milestones
 
-  * { box-sizing: border-box; }
-  html, body { margin: 0; padding: 0; }
-  body {
-    background: var(--bg);
-    color: var(--text);
-    font-family: var(--body-font);
-    font-size: 15px;
-    line-height: 1.5;
-    -webkit-font-smoothing: antialiased;
-  }
+Live milestone tracker + dynamic top-200 leaderboards for the WNBA. Polls
+ESPN every 2 minutes during game windows.
 
-  .container { max-width: 980px; margin: 0 auto; padding: 28px 18px 64px; }
+Tracks **PTS, REB, AST, BLK, STL, FG3M, TOV, PF** for all active players,
+detecting top-200 rank passes/ties and every multiple of 100 in career totals.
 
-  header { margin-bottom: 18px; }
-  .brand {
-    font-family: var(--header-font);
-    font-size: 0.62rem;
-    letter-spacing: 0.18em;
-    text-transform: uppercase;
-    color: var(--muted);
-    font-weight: 600;
-  }
-  h1 {
-    font-family: var(--header-font);
-    font-size: 1.6rem;
-    font-weight: 700;
-    margin: 4px 0 4px;
-    letter-spacing: -0.01em;
-  }
-  .subtitle { color: var(--text-soft); font-size: 0.92rem; margin-bottom: 0; }
-  .subtitle code { font-family: var(--header-font); font-size: 0.85em; color: var(--text); }
+## 📊 Live dashboard
 
-  .live-bar {
-    background: var(--bg-elev);
-    border: 1px solid var(--border);
-    border-radius: 10px;
-    padding: 12px 14px;
-    font-size: 0.88rem;
-    margin: 18px 0 22px;
-    display: flex;
-    flex-wrap: wrap;
-    gap: 12px;
-    align-items: center;
-  }
-  .live-pulse {
-    display: inline-block;
-    width: 8px; height: 8px;
-    background: var(--live);
-    border-radius: 50%;
-    animation: pulse 1.5s ease-in-out infinite;
-  }
-  @keyframes pulse { 0%,100% { opacity: 1; transform: scale(1); } 50% { opacity: 0.45; transform: scale(0.85); } }
-  .game-pill {
-    background: var(--bg-table-head);
-    padding: 4px 10px;
-    border-radius: 6px;
-    font-family: var(--header-font);
-    font-size: 0.78rem;
-    color: var(--text-soft);
-  }
-  .game-pill .status { color: var(--live); margin-left: 4px; font-weight: 600; }
+**[aderoa.github.io/wnba-milestones](https://aderoa.github.io/wnba-milestones/)** — auto-refreshing leaderboards with live in-game overlay and recent milestone events. The page reads `data/leaderboards_live.json` (regenerated every 2 min by the cron) and refreshes itself every 60 seconds.
 
-  .tabs {
-    display: flex; gap: 6px; flex-wrap: wrap;
-    margin-bottom: 14px;
-  }
-  .tab {
-    font-family: var(--header-font);
-    font-size: 0.62rem;
-    font-weight: 600;
-    letter-spacing: 0.08em;
-    text-transform: uppercase;
-    padding: 9px 13px;
-    border: 1px solid var(--border);
-    border-radius: 7px;
-    background: var(--bg-elev);
-    cursor: pointer;
-    color: var(--muted);
-    transition: all 0.12s;
-    user-select: none;
-  }
-  .tab:hover { color: var(--text); border-color: var(--border-strong); }
-  .tab.active {
-    background: var(--text);
-    color: var(--bg-elev);
-    border-color: var(--text);
-  }
+For browsing the raw markdown artifacts directly on GitHub:
 
-  .table-wrap {
-    background: var(--bg-elev);
-    border: 1px solid var(--border);
-    border-radius: 10px;
-    overflow: hidden;
-  }
-  table { width: 100%; border-collapse: collapse; }
-  thead th {
-    background: var(--bg-table-head);
-    font-family: var(--header-font);
-    font-size: 0.62rem;
-    font-weight: 600;
-    letter-spacing: 0.08em;
-    text-transform: uppercase;
-    text-align: left;
-    padding: 11px 14px;
-    color: var(--muted);
-    border-bottom: 1px solid var(--border);
-    position: sticky; top: 0;
-  }
-  thead th.right { text-align: right; }
-  tbody td {
-    padding: 9px 14px;
-    font-size: 0.92rem;
-    border-bottom: 1px solid var(--border);
-    color: var(--text);
-  }
-  tbody tr:last-child td { border-bottom: none; }
-  tbody tr.live { background: var(--bg-live-row); }
-  tbody tr.live td { font-weight: 600; }
-  td.rank {
-    font-family: var(--header-font);
-    color: var(--muted);
-    width: 56px;
-    text-align: right;
-    padding-right: 18px;
-    font-weight: 500;
-  }
-  tr.live td.rank { color: var(--text); }
-  td.total {
-    font-family: var(--header-font);
-    font-weight: 600;
-    text-align: right;
-    width: 110px;
-    color: var(--text);
-  }
-  .live-marker { color: var(--live); margin-left: 8px; font-size: 0.75rem; }
-  .delta {
-    color: var(--accent);
-    font-family: var(--header-font);
-    font-size: 0.78rem;
-    margin-left: 6px;
-    font-weight: 600;
-  }
+- **[LEADERBOARDS.md](LEADERBOARDS.md)** — markdown version of the rankings
+- **[MILESTONES.md](MILESTONES.md)** — newest-first event log of fired milestones
 
-  .section-title {
-    font-family: var(--header-font);
-    font-size: 0.7rem;
-    text-transform: uppercase;
-    letter-spacing: 0.1em;
-    color: var(--muted);
-    font-weight: 600;
-    margin: 36px 0 12px;
-  }
-  .milestones-list { display: flex; flex-direction: column; gap: 6px; }
-  .milestone-item {
-    background: var(--bg-elev);
-    border: 1px solid var(--border);
-    border-radius: 8px;
-    padding: 10px 14px;
-    font-size: 0.9rem;
-    line-height: 1.4;
-  }
-  .milestone-ts {
-    color: var(--muted);
-    font-family: var(--header-font);
-    font-size: 0.7rem;
-    margin-bottom: 2px;
-  }
-  .milestone-text strong {
-    font-weight: 600;
-    color: var(--text);
-  }
+## What gets surfaced
 
-  .meta-row {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    flex-wrap: wrap;
-    gap: 8px;
-    color: var(--muted);
-    font-size: 0.78rem;
-    font-family: var(--header-font);
-    margin-bottom: 14px;
-  }
-  .meta-row .refreshing {
-    display: inline-flex;
-    align-items: center;
-    gap: 6px;
-  }
-  .spinner {
-    width: 10px; height: 10px;
-    border: 2px solid var(--border-strong);
-    border-top-color: var(--text);
-    border-radius: 50%;
-    animation: spin 0.7s linear infinite;
-  }
-  @keyframes spin { to { transform: rotate(360deg); } }
+| File | What it shows | Updates |
+|------|---------------|---------|
+| `index.html` | The dashboard rendered from `data/leaderboards_live.json` | Each cron tick (auto-refresh on the page every 60s) |
+| `MILESTONES.md` | Discrete milestone events (Stewart passed Jackson, Bonner hit 7,800 reb) — newest at top | Each poll that fires anything new |
+| `LEADERBOARDS.md` | Current top-200 in each stat with **live in-game totals** for players currently playing (🔴 + delta) | Every poll, regardless of milestones |
+| `data/leaderboards_live.json` | Compact JSON snapshot used by the dashboard | Every poll |
+| `data/milestones_log.json` | Structured event log (last 250 fires) | Each poll that fires anything |
+| `data/fired_milestones.json` | Dedup ledger (just keys) | Each poll |
+| Actions tab job summary | Per-tick view: active games + new milestones | Every poll |
 
-  footer {
-    margin-top: 56px;
-    padding-top: 18px;
-    border-top: 1px solid var(--border);
-    color: var(--muted);
-    font-size: 0.78rem;
-    text-align: center;
-  }
-  footer a { color: var(--text-soft); text-decoration: none; }
-  footer a:hover { text-decoration: underline; }
+## Architecture
 
-  .empty-state {
-    padding: 40px 20px;
-    text-align: center;
-    color: var(--muted);
-    font-size: 0.92rem;
-  }
-  .error-state { color: var(--live); }
+```
+data/_merged_base.csv          historical career CSV (frozen, refresh occasionally)
+data/season_current.json       current-season totals from stats.wnba.com (refreshed daily)
+       │
+       ▼
+scripts/compute_baseline.py    merges CSV historical + current-season delta
+       │
+       ├──▶ data/leaderboards.json        top-200 per stat (used by milestone detector)
+       ├──▶ data/entering_totals.json     active players' career totals
+       ├──▶ data/all_career_totals.json   every player's career totals (for live re-rank)
+       └──▶ LEADERBOARDS.md                rendered top-200 (no live overlay)
+                          │
+                          ▼
+   scripts/track.py  ◀───────  GH Actions cron every 2 min during games
+       │  (pulls ESPN scoreboard + summary)
+       │
+       ├──▶ MILESTONES.md                 discrete events (newest at top, committed)
+       ├──▶ LEADERBOARDS.md                re-rendered every poll w/ live overlay
+       ├──▶ data/fired_milestones.json    dedup ledger (committed)
+       ├──▶ data/unmatched_names.json     ESPN names we couldn't match (audit)
+       └──▶ GitHub Actions job summary    per-run snapshot
 
-  @media (max-width: 600px) {
-    .container { padding: 20px 12px 48px; }
-    h1 { font-size: 1.3rem; }
-    td.total { width: 80px; font-size: 0.85rem; }
-    tbody td { padding: 8px 10px; font-size: 0.85rem; }
-    thead th { padding: 9px 10px; }
-    td.rank { padding-right: 10px; width: 42px; }
-  }
-</style>
-</head>
-<body>
-<div class="container">
+scripts/refresh_season.py      runs once daily — fetches stats.wnba.com → season_current.json
+scripts/leaderboard.py         shared rendering helper
+```
 
-<header>
-  <div class="brand">HoopsMatic / WNBA Milestones</div>
-  <h1>WNBA All-Time Leaderboards</h1>
-  <p class="subtitle">Live top-200 in <code>PTS · REB · AST · BLK · STL · 3PM · TOV · PF</code>. Active in-game players are flagged with their today-delta.</p>
-</header>
+Two cron workflows:
 
-<div class="live-bar" id="live-bar">
-  <span style="color:var(--muted)">Loading game state…</span>
-</div>
+- **`wnba_milestones.yml`** — every 2 min during game windows (22:00 UTC – 06:00 UTC),
+  polls ESPN, detects crossings, updates `MILESTONES.md` + `LEADERBOARDS.md`.
+- **`refresh_season.yml`** — once daily at 11:00 UTC (after games end, before the
+  next day's games start), pulls current-season totals from stats.wnba.com and
+  regenerates baseline files.
 
-<div class="meta-row">
-  <span id="last-updated">—</span>
-  <span class="refreshing" id="refreshing"><span class="spinner"></span> auto-refresh 60s</span>
-</div>
+No secrets. No external storage beyond this repo.
 
-<div class="tabs" id="tabs"></div>
+## Setup
 
-<div class="table-wrap">
-  <table>
-    <thead>
-      <tr>
-        <th class="right">Rank</th>
-        <th>Player</th>
-        <th class="right">Career total</th>
-      </tr>
-    </thead>
-    <tbody id="rows">
-      <tr><td colspan="3" class="empty-state">Loading rankings…</td></tr>
-    </tbody>
-  </table>
-</div>
+1. Create the repo (`aderoa/wnba-milestones`) and push these files.
+2. **Enable GitHub Pages** — Settings → Pages → Branch: `main`, folder: `/ (root)`. Save. After ~1 minute, the dashboard will be live at `https://<your-username>.github.io/wnba-milestones/`.
+3. **Smoke test** — Actions tab → "WNBA Milestones Tracker" → "Run workflow"
+   with `dry_run = true`. Should finish without error and print active games
+   in the run log.
+4. **Live test** — once today's games tip off (4:30 PT for NYL @ CON), trigger
+   another run without `dry_run`. The dashboard will start showing live deltas
+   on the next page refresh (auto every 60s, or hard-refresh).
+5. Cron takes over from there: `*/2 22-23 * * *` and `*/2 0-5 * * *` UTC for
+   the live tracker, plus a daily `0 11 * * *` UTC for the season refresh.
 
-<h2 class="section-title">Recent milestones</h2>
-<div id="milestones-list" class="milestones-list">
-  <div class="empty-state" style="padding:24px;border:1px solid var(--border);border-radius:8px;background:var(--bg-elev)">
-    None yet — milestones will appear here as players cross thresholds.
-  </div>
-</div>
+## Maintenance
 
-<footer>
-  <a href="https://github.com/aderoa/wnba-milestones" target="_blank" rel="noopener">github.com/aderoa/wnba-milestones</a>
-  · auto-updated by GitHub Actions
-</footer>
-</div>
+### Daily season refresh (automatic)
 
-<script>
-const STATS = ['PTS', 'REB', 'AST', 'BLK', 'STL', 'FG3M', 'TOV', 'PF'];
-const TITLES = {
-  PTS: 'Points', REB: 'Rebounds', AST: 'Assists', BLK: 'Blocks',
-  STL: 'Steals', FG3M: 'Three-pointers', TOV: 'Turnovers', PF: 'Fouls'
-};
+The `refresh_season.yml` workflow runs daily at 11:00 UTC. It calls
+`scripts/refresh_season.py` which hits `stats.wnba.com` via `nba_api`, pulls
+`LeagueDashPlayerStats` totals for the current season (default `2026-27`), and
+writes `data/season_current.json`. Then `compute_baseline.py` regenerates
+everything (leaderboards, entering totals, full career totals, LEADERBOARDS.md)
+by combining the frozen CSV with that fresh delta.
 
-let currentStat = (location.hash || '').replace('#', '').toUpperCase();
-if (!STATS.includes(currentStat)) currentStat = 'PTS';
-let liveData = null;
+This means:
 
-function fmt(n) { return n.toLocaleString(); }
+- **Rookies** appearing in stats.wnba.com but not in the CSV are auto-added to
+  the active set on the next refresh. No manual intervention needed.
+- **Returning vets** have their career totals automatically updated to include
+  the current season's contribution.
+- **Stat corrections** propagate: if the WNBA retroactively adjusts a stat,
+  the next daily refresh picks it up.
 
-function renderTabs() {
-  const el = document.getElementById('tabs');
-  el.innerHTML = STATS.map(s =>
-    `<div class="tab ${s === currentStat ? 'active' : ''}" data-stat="${s}">${TITLES[s]}</div>`
-  ).join('');
-  el.querySelectorAll('.tab').forEach(t => {
-    t.addEventListener('click', () => {
-      currentStat = t.dataset.stat;
-      history.replaceState(null, '', '#' + currentStat);
-      renderTabs();
-      renderTable();
-    });
-  });
+### Refreshing the historical CSV (rare)
+
+Only needed when the full historical record changes — e.g., once per offseason
+when last year's stats are finalized, or if you discover an error in older
+data. Replace `data/_merged_base.csv` with the new export from your existing
+pipeline, then push. `compute_baseline.py` will run on the next daily refresh
+or you can trigger it manually.
+
+### Manual season override
+
+If you need to point at a different season (e.g., to backfill 2025-26 corrections,
+or testing), trigger `refresh_season.yml` manually with the `season` input set
+to e.g. `2025-26`.
+
+### Player name matching
+
+ESPN and stats.wnba.com use different player IDs. We match by normalized name
+(lowercase, no diacritics, no Jr/Sr/II/III/IV suffixes). Unmatched names land
+in `data/unmatched_names.json` for audit. To pin a stubborn case, edit
+`data/player_id_map.json`:
+
+```json
+{
+  "<espn_athlete_id>": <stats_wnba_player_id>
 }
+```
 
-function renderTable() {
-  const tbody = document.getElementById('rows');
-  if (!liveData || !liveData.stats || !liveData.stats[currentStat]) {
-    tbody.innerHTML = '<tr><td colspan="3" class="empty-state">No data for this stat.</td></tr>';
-    return;
-  }
-  const rows = liveData.stats[currentStat].rows;
-  tbody.innerHTML = rows.map(r => {
-    let nameCell = r.name;
-    if (r.live) {
-      nameCell += '<span class="live-marker">🔴</span>';
-      if (r.delta > 0) nameCell += `<span class="delta">+${r.delta}</span>`;
-    }
-    return `<tr class="${r.live ? 'live' : ''}">
-      <td class="rank">${r.rank}</td>
-      <td>${nameCell}</td>
-      <td class="total">${fmt(r.total)}</td>
-    </tr>`;
-  }).join('');
-}
+### Adjusting the tracked stats
 
-function renderLiveBar() {
-  const el = document.getElementById('live-bar');
-  if (!liveData) return;
-  const games = (liveData.active_games || []).filter(g => g.in_progress);
-  if (games.length === 0) {
-    el.innerHTML = '<span style="color:var(--muted)">No games currently in progress.</span>';
-    return;
-  }
-  el.innerHTML = `<span class="live-pulse"></span>
-    <strong>${games.length} live game${games.length > 1 ? 's' : ''}</strong>
-    ${games.map(g => `<span class="game-pill">${g.short || '—'}<span class="status">${g.status || ''}</span></span>`).join('')}`;
-}
+Edit `STATS = [...]` at the top of `scripts/compute_baseline.py` and
+`scripts/track.py`, then re-run `compute_baseline.py`. If you want a stat
+universe change to retroactively re-evaluate existing fires, also clear
+`data/fired_milestones.json`.
 
-function renderMilestones() {
-  const el = document.getElementById('milestones-list');
-  const list = liveData && liveData.recent_milestones || [];
-  if (list.length === 0) {
-    el.innerHTML = `<div class="empty-state" style="padding:24px;border:1px solid var(--border);border-radius:8px;background:var(--bg-elev)">
-      None yet — milestones will appear here as players cross thresholds.
-    </div>`;
-    return;
-  }
-  el.innerHTML = list.slice(0, 20).map(m => {
-    const t = new Date(m.ts);
-    const tStr = t.toLocaleString([], { month: 'short', day: 'numeric', hour: 'numeric', minute: '2-digit' });
-    return `<div class="milestone-item">
-      <div class="milestone-ts">${tStr}</div>
-      <div class="milestone-text">${escapeHtml(m.text)}</div>
-    </div>`;
-  }).join('');
-}
+## Files
 
-function renderTimestamp() {
-  const el = document.getElementById('last-updated');
-  if (!liveData) { el.textContent = '—'; return; }
-  const t = new Date(liveData.last_polled_utc);
-  el.textContent = `Last poll: ${t.toLocaleString([], { hour: 'numeric', minute: '2-digit', second: '2-digit' })}`;
-}
+| Path | Purpose |
+|------|---------|
+| `MILESTONES.md` | Newest-first event log of fired milestones |
+| `LEADERBOARDS.md` | Top-200 per stat with live in-game overlay |
+| `.github/workflows/wnba_milestones.yml` | Live tracker cron (every 2 min, game windows) |
+| `.github/workflows/refresh_season.yml` | Daily season refresh (11:00 UTC) |
+| `scripts/compute_baseline.py` | Merge CSV + season delta, regenerate baselines |
+| `scripts/refresh_season.py` | Daily fetch from stats.wnba.com via nba_api |
+| `scripts/track.py` | Live ESPN poll, crossing detection, log writer |
+| `scripts/leaderboard.py` | Shared markdown rendering |
+| `data/_merged_base.csv` | Historical career data input (frozen, occasional refresh) |
+| `data/season_current.json` | Current season's totals (refreshed daily) |
+| `data/leaderboards.json` | Top-200 per stat (regenerated) |
+| `data/entering_totals.json` | Active player career totals (regenerated) |
+| `data/all_career_totals.json` | All players' career totals (regenerated) |
+| `data/fired_milestones.json` | Dedup ledger (auto-committed) |
+| `data/unmatched_names.json` | ESPN names that didn't match (audit) |
+| `data/player_id_map.json` | Manual ESPN→stats overrides (optional) |
 
-function escapeHtml(s) {
-  const div = document.createElement('div');
-  div.textContent = String(s == null ? '' : s);
-  return div.innerHTML;
-}
+## Known limitations
 
-async function fetchData() {
-  try {
-    const res = await fetch('data/leaderboards_live.json?_=' + Date.now());
-    if (!res.ok) throw new Error('HTTP ' + res.status);
-    liveData = await res.json();
-    renderLiveBar();
-    renderTable();
-    renderMilestones();
-    renderTimestamp();
-  } catch (e) {
-    console.error('Fetch failed:', e);
-    const bar = document.getElementById('live-bar');
-    bar.innerHTML = `<span class="error-state">Failed to load live state: ${escapeHtml(e.message)}.</span>`;
-  }
-}
-
-renderTabs();
-fetchData();
-setInterval(fetchData, 60000);
-</script>
-</body>
-</html>
+- **stats.wnba.com flakiness** — the daily refresh sometimes fails or times
+  out. `refresh_season.py` retries 4× with exponential backoff before giving
+  up. If a daily run fails, the leaderboard stays at yesterday's totals until
+  the next successful run; manually re-trigger `refresh_season.yml` to recover
+  faster.
+- **Season-string format** — defaults to `2026-27`. If `nba_api` rejects that
+  format mid-season (it's been finicky historically), override via the
+  workflow's `season` input or the `CURRENT_SEASON` env var.
+- **GH Actions cron drift** — scheduled runs are best-effort and can be 5–15
+  min late under load. If you want sub-minute fidelity for the live tracker,
+  move to the Cloudflare Worker cron path.
+- **Stat corrections within the live window** — if a box score is corrected
+  during the same game, we don't un-fire a milestone. The next daily refresh
+  rebases on stats.wnba.com so the leaderboard self-corrects, but
+  `MILESTONES.md` would show a now-incorrect entry.
+- **Player name collisions** — two active players sharing a normalized name
+  would route to the first match. Add an entry to `player_id_map.json` if so.

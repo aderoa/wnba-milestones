@@ -115,5 +115,43 @@ def render(all_totals, overrides, active_pids_in_games, out_path,
     Path(out_path).write_text("\n".join(lines))
 
 
+def render_live_json(all_totals, overrides, active_pids_in_games, active_games,
+                     recent_milestones, out_path, last_updated_utc=None):
+    """
+    Write a compact JSON snapshot of the current leaderboards + live game state.
+    Read by index.html for the live dashboard.
+
+    active_games — list of dicts with {short, status, in_progress}
+    recent_milestones — list of dicts with {ts, text, kind, ...}
+    """
+    last_updated_utc = last_updated_utc or dt.datetime.now(dt.timezone.utc)
+
+    stats_block = {}
+    for stat in STATS:
+        rows = build_ranked_rows(all_totals, stat, overrides, active_pids_in_games)
+        stats_block[stat] = {
+            "title": STAT_TITLE[stat],
+            "rows": [
+                {
+                    "rank": r["rank"],
+                    "name": r["player_name"],
+                    "total": r["total"],
+                    "live": r["is_live"],
+                    "delta": r["delta"],
+                }
+                for r in rows
+            ],
+        }
+
+    payload = {
+        "schema_version": 1,
+        "last_polled_utc": last_updated_utc.isoformat(),
+        "active_games": active_games or [],
+        "stats": stats_block,
+        "recent_milestones": (recent_milestones or [])[:25],
+    }
+    Path(out_path).write_text(json.dumps(payload, separators=(",", ":")))
+
+
 def load_all_totals(path):
     return json.loads(Path(path).read_text())

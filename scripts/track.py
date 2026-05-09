@@ -43,6 +43,8 @@ LB_PATH = DATA / "leaderboards.json"
 ET_PATH = DATA / "entering_totals.json"
 ALL_PATH = DATA / "all_career_totals.json"
 FIRED_PATH = DATA / "fired_milestones.json"
+MILESTONES_LOG_PATH = DATA / "milestones_log.json"
+LIVE_JSON_PATH = DATA / "leaderboards_live.json"
 ID_MAP_PATH = DATA / "player_id_map.json"
 UNMATCHED_PATH = DATA / "unmatched_names.json"
 LOG_PATH = ROOT / "MILESTONES.md"
@@ -470,13 +472,47 @@ def main():
             save_json(UNMATCHED_PATH, prev_um)
         if new_events:
             prepend_log_block(new_events, polled_at_utc)
-        # Always re-render LEADERBOARDS.md so live in-game progress is visible
-        # even when no discrete milestone has fired yet.
+            # Maintain a structured event log (capped at last 250) so the live
+            # dashboard can show recent milestones without parsing markdown.
+            milestones_log = load_json(MILESTONES_LOG_PATH, [])
+            for e in new_events:
+                milestones_log.append({
+                    "ts": polled_at_utc.isoformat(),
+                    "kind": e.get("kind"),
+                    "stat": e.get("stat"),
+                    "player": e.get("player"),
+                    "text": format_event_md(e).replace("**", "").replace("_", ""),
+                })
+            milestones_log = milestones_log[-250:]
+            save_json(MILESTONES_LOG_PATH, milestones_log)
+        # Build the live game-state list (lightweight — just what the dashboard
+        # needs to render the "live games" pill).
+        active_games_view = [
+            {
+                "short": g.get("short"),
+                "status": g.get("status_detail") or g.get("status"),
+                "in_progress": g.get("status") in in_progress_statuses,
+            }
+            for g in active_games
+        ]
+        recent_milestones = load_json(MILESTONES_LOG_PATH, [])
+        # Always re-render LEADERBOARDS.md (markdown) and the JSON snapshot used
+        # by the live dashboard, so in-game progress is visible even between
+        # discrete milestone fires.
         leaderboard.render(
             all_totals=all_totals,
             overrides=live_overrides,
             active_pids_in_games=active_pids_in_games,
             out_path=LB_MD_PATH,
+            last_updated_utc=polled_at_utc,
+        )
+        leaderboard.render_live_json(
+            all_totals=all_totals,
+            overrides=live_overrides,
+            active_pids_in_games=active_pids_in_games,
+            active_games=active_games_view,
+            recent_milestones=list(reversed(recent_milestones)),  # newest first
+            out_path=LIVE_JSON_PATH,
             last_updated_utc=polled_at_utc,
         )
         write_job_summary(new_events, polled_at_utc, active_games)

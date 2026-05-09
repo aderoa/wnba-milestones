@@ -1,527 +1,1657 @@
-"""
-track.py
---------
-Live WNBA milestone tracker. Called by GitHub Actions every 2 minutes during
-game windows.
-
-Flow:
-  1. Pull today's WNBA games from ESPN scoreboard
-  2. For each in-progress / recently-final game, pull the box score
-  3. For each tracked active player, compute new career totals per stat
-  4. Detect crossings:
-       - rank passes inside top-200 leaderboards
-       - rank ties (player's new total == an above-rank player's total)
-       - round-hundred crossings (career total crosses a multiple of 100)
-  5. Prepend any newly-fired milestones to MILESTONES.md and write to the
-     GitHub Actions run summary
-  6. Persist the fired set to data/fired_milestones.json (committed by workflow)
-
-No external network beyond ESPN. No secrets needed.
-
-Optional flags:
-  --dry-run          Don't write anything, just print
-  --force-game ID    Pull a specific ESPN event ID (for testing)
-"""
-import argparse
-import datetime as dt
-import json
-import os
-import sys
-import unicodedata
-import re
-from pathlib import Path
-
-import requests
-
-# Allow importing leaderboard.py from same dir
-sys.path.insert(0, str(Path(__file__).resolve().parent))
-import leaderboard
-
-ROOT = Path(__file__).resolve().parent.parent
-DATA = ROOT / "data"
-LB_PATH = DATA / "leaderboards.json"
-ET_PATH = DATA / "entering_totals.json"
-ALL_PATH = DATA / "all_career_totals.json"
-FIRED_PATH = DATA / "fired_milestones.json"
-MILESTONES_LOG_PATH = DATA / "milestones_log.json"
-LIVE_JSON_PATH = DATA / "leaderboards_live.json"
-ID_MAP_PATH = DATA / "player_id_map.json"
-UNMATCHED_PATH = DATA / "unmatched_names.json"
-LOG_PATH = ROOT / "MILESTONES.md"
-LB_MD_PATH = ROOT / "LEADERBOARDS.md"
-
-STATS = ["PTS", "REB", "AST", "BLK", "STL", "FG3M", "TOV", "PF"]
-
-# ESPN's box-score uses different short names. We translate.
-ESPN_STAT_MAP = {
-    "PTS": "PTS",
-    "REB": "REB",
-    "AST": "AST",
-    "BLK": "BLK",
-    "STL": "STL",
-    "TO": "TOV",
-    "PF": "PF",
-    # "3PT" is special: string "made-attempted", parsed below.
-}
-
-ESPN_SCOREBOARD = "https://site.api.espn.com/apis/site/v2/sports/basketball/wnba/scoreboard"
-ESPN_SUMMARY = "https://site.api.espn.com/apis/site/v2/sports/basketball/wnba/summary"
-
-ACTIVE_STATUSES = {
-    "STATUS_IN_PROGRESS", "STATUS_HALFTIME", "STATUS_END_PERIOD",
-    "STATUS_FIRST_HALF", "STATUS_SECOND_HALF", "STATUS_END_OF_PERIOD",
-    "STATUS_FINAL", "STATUS_FULL_TIME",
-}
-
-STAT_LABEL = {
-    "PTS": "points", "REB": "rebounds", "AST": "assists",
-    "BLK": "blocks", "STL": "steals", "FG3M": "three-pointers",
-    "TOV": "turnovers", "PF": "fouls",
-}
-
-
-# ---------- name helpers ----------
-
-def normalize_name(name):
-    if not isinstance(name, str):
-        return ""
-    n = unicodedata.normalize("NFKD", name).encode("ASCII", "ignore").decode()
-    n = n.lower()
-    n = re.sub(r"\s+(jr|sr|ii|iii|iv)\.?\s*$", "", n)
-    n = re.sub(r"[^a-z0-9\s]", "", n)
-    n = re.sub(r"\s+", " ", n).strip()
-    return n
-
-
-# ---------- IO ----------
-
-def load_json(path, default):
-    if not path.exists():
-        return default
-    try:
-        return json.loads(path.read_text())
-    except json.JSONDecodeError:
-        print(f"WARN: {path} malformed — treating as empty", file=sys.stderr)
-        return default
-
-
-def save_json(path, data):
-    path.write_text(json.dumps(data, indent=2, default=str))
-
-
-# ---------- ESPN ----------
-
-def fetch_scoreboard():
-    r = requests.get(ESPN_SCOREBOARD, timeout=20)
-    r.raise_for_status()
-    return r.json()
-
-
-def fetch_summary(event_id):
-    r = requests.get(ESPN_SUMMARY, params={"event": event_id}, timeout=20)
-    r.raise_for_status()
-    return r.json()
-
-
-def list_active_games(scoreboard):
-    out = []
-    for ev in scoreboard.get("events", []):
-        comp = (ev.get("competitions") or [{}])[0]
-        status_type = (comp.get("status") or {}).get("type") or {}
-        status_name = status_type.get("name", "")
-        if status_name in ACTIVE_STATUSES:
-            out.append({
-                "id": str(ev.get("id")),
-                "status": status_name,
-                "short": ev.get("shortName"),
-                "date": ev.get("date"),
-                "status_detail": status_type.get("detail", ""),
-            })
-    return out
-
-
-def parse_box_player(player_entry, names):
-    """Pull our STATS dict out of one ESPN athlete entry."""
-    stats_arr = player_entry.get("stats") or []
-    if not stats_arr or len(stats_arr) != len(names):
-        return None
-
-    out = {}
-    for our_key in STATS:
-        if our_key == "FG3M":
-            try:
-                idx = names.index("3PT")
-                made = stats_arr[idx].split("-")[0]
-                out["FG3M"] = int(made) if made.lstrip("-").isdigit() else 0
-            except (ValueError, IndexError):
-                out["FG3M"] = 0
-        else:
-            espn_key = next((k for k, v in ESPN_STAT_MAP.items() if v == our_key), None)
-            if espn_key is None:
-                out[our_key] = 0
-                continue
-            try:
-                idx = names.index(espn_key)
-                v = stats_arr[idx]
-                out[our_key] = int(v) if str(v).lstrip("-").isdigit() else 0
-            except (ValueError, IndexError):
-                out[our_key] = 0
-    return out
-
-
-def extract_player_lines(summary):
-    """Yield (name, espn_id, stats_dict) for every player in the box."""
-    box = summary.get("boxscore") or {}
-    for team in box.get("players") or []:
-        for stat_group in team.get("statistics") or []:
-            names = stat_group.get("names") or []
-            if "PTS" not in names:
-                continue
-            for ath in stat_group.get("athletes") or []:
-                athlete = ath.get("athlete") or {}
-                ath_name = athlete.get("displayName") or athlete.get("fullName")
-                ath_id = str(athlete.get("id")) if athlete.get("id") else None
-                if ath.get("didNotPlay") or not ath_name:
-                    continue
-                stats = parse_box_player(ath, names)
-                if stats is None:
-                    continue
-                yield ath_name, ath_id, stats
-
-
-def game_context(summary):
-    """Short string like 'Q3 5:42 — NYL @ CON'."""
-    header = summary.get("header") or {}
-    comps = header.get("competitions") or []
-    if not comps:
-        return ""
-    comp = comps[0]
-    status = comp.get("status") or {}
-    detail = (status.get("type") or {}).get("shortDetail") or ""
-    competitors = comp.get("competitors") or []
-    teams = []
-    for c in competitors:
-        abbr = (c.get("team") or {}).get("abbreviation")
-        if abbr:
-            teams.append(abbr)
-    matchup = " @ ".join(reversed(teams)) if len(teams) == 2 else ""
-    parts = [p for p in [detail, matchup] if p]
-    return " — ".join(parts)
-
-
-# ---------- crossing detection ----------
-
-def round_hundred_crossings(prev_total, new_total):
-    if new_total <= prev_total:
-        return
-    start = (prev_total // 100 + 1) * 100
-    for v in range(start, new_total + 1, 100):
-        yield v
-
-
-def rank_pass_events(stat, leaderboard, player_id, prev_total, new_total):
-    if new_total <= prev_total:
-        return
-    for entry in leaderboard:
-        if entry["player_id"] == player_id:
-            continue
-        threshold = entry["total"]
-        if prev_total < threshold and new_total == threshold:
-            yield {
-                "type": "tie", "stat": stat, "rank": entry["rank"],
-                "passed_player": entry["player_name"],
-                "passed_player_id": entry["player_id"],
-                "threshold": threshold,
-            }
-        elif prev_total <= threshold and new_total > threshold:
-            yield {
-                "type": "pass", "stat": stat, "rank": entry["rank"],
-                "passed_player": entry["player_name"],
-                "passed_player_id": entry["player_id"],
-                "threshold": threshold,
-            }
-
-
-def fired_key(player_id, stat, kind, value):
-    return f"{player_id}:{stat}:{kind}:{value}"
-
-
-# ---------- player matching ----------
-
-def build_matcher(entering_totals):
-    by_norm = {}
-    by_pid = {}
-    for v in entering_totals.values():
-        by_pid[v["player_id"]] = v
-        by_norm[v["norm_name"]] = v
-    return by_norm, by_pid
-
-
-def match_player(name, espn_id, by_norm, by_pid, id_map, unmatched):
-    if espn_id and espn_id in id_map:
-        pid = id_map[espn_id]
-        return by_pid.get(pid)
-    norm = normalize_name(name)
-    if norm in by_norm:
-        return by_norm[norm]
-    parts = norm.split()
-    if len(parts) >= 2:
-        last_only = parts[-1]
-        candidates = [v for k, v in by_norm.items() if k.endswith(" " + last_only)]
-        if len(candidates) == 1:
-            return candidates[0]
-    unmatched.setdefault(name, espn_id)
-    return None
-
-
-# ---------- formatting ----------
-
-def format_event_md(e):
-    stat_name = STAT_LABEL.get(e["stat"], e["stat"])
-    if e["kind"] == "rank_pass":
-        line = (f"**{e['player']}** passed **{e['passed_player']}** for "
-                f"**#{e['rank']}** all-time in {stat_name} "
-                f"(career {e['new_total']:,})")
-    elif e["kind"] == "rank_tie":
-        line = (f"**{e['player']}** tied **{e['passed_player']}** for "
-                f"**#{e['rank']}** all-time in {stat_name} "
-                f"(career {e['new_total']:,})")
-    elif e["kind"] == "round":
-        line = (f"**{e['player']}** reached **{e['value']:,}** career "
-                f"{stat_name} (now {e['new_total']:,})")
-    else:
-        line = json.dumps(e)
-    if e.get("game_context"):
-        line += f" — _{e['game_context']}_"
-    return line
-
-
-INTRO = (
-    "# WNBA Milestones\n\n"
-    "Auto-updated by the tracker workflow. Newest entries at the top. "
-    "Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, "
-    "AST, BLK, STL, 3PM, TOV, PF for active players.\n\n"
-)
-
-
-def prepend_log_block(events, polled_at_utc):
-    """Prepend a new dated section to MILESTONES.md."""
-    timestamp = polled_at_utc.strftime("%Y-%m-%d %H:%M UTC")
-    new_block_lines = [f"## {timestamp}", ""]
-    for e in events:
-        new_block_lines.append(f"- {format_event_md(e)}")
-    new_block_lines.append("")
-    new_block = "\n".join(new_block_lines)
-
-    if LOG_PATH.exists():
-        existing = LOG_PATH.read_text()
-        if existing.startswith("# WNBA Milestones"):
-            idx = existing.find("\n## ")
-            body = existing[idx + 1:] if idx != -1 else ""
-        else:
-            body = existing
-    else:
-        body = ""
-
-    LOG_PATH.write_text(INTRO + new_block + "\n" + body)
-
-
-def write_job_summary(events, polled_at_utc, active_games):
-    summary_path = os.environ.get("GITHUB_STEP_SUMMARY")
-    if not summary_path:
-        return
-    lines = [
-        f"## WNBA Milestones — {polled_at_utc.strftime('%Y-%m-%d %H:%M UTC')}",
-        "",
-        f"Active/recent games this poll: **{len(active_games)}**",
-        "",
-    ]
-    if active_games:
-        for g in active_games:
-            lines.append(f"- {g.get('short')} ({g.get('status')})")
-        lines.append("")
-    if events:
-        lines.append(f"### {len(events)} new milestone(s)")
-        lines.append("")
-        for e in events:
-            lines.append(f"- {format_event_md(e)}")
-    else:
-        lines.append("_No new milestones this poll._")
-    lines.append("")
-    with open(summary_path, "a") as f:
-        f.write("\n".join(lines))
-
-
-# ---------- main ----------
-
-def main():
-    ap = argparse.ArgumentParser()
-    ap.add_argument("--dry-run", action="store_true")
-    ap.add_argument("--force-game", help="Force-poll a specific ESPN event ID")
-    args = ap.parse_args()
-
-    leaderboards = load_json(LB_PATH, {})
-    entering = load_json(ET_PATH, {})
-    all_totals = load_json(ALL_PATH, {})
-    fired = set(load_json(FIRED_PATH, []))
-    id_map = load_json(ID_MAP_PATH, {})
-    unmatched = {}
-
-    if not leaderboards or not entering or not all_totals:
-        print("ERROR: missing baseline files. Run compute_baseline.py first.",
-              file=sys.stderr)
-        return 1
-
-    by_norm, by_pid = build_matcher(entering)
-
-    polled_at_utc = dt.datetime.now(dt.timezone.utc)
-
-    if args.force_game:
-        active_games = [{"id": args.force_game, "status": "FORCED",
-                         "short": f"event {args.force_game}"}]
-    else:
-        sb = fetch_scoreboard()
-        active_games = list_active_games(sb)
-
-    print(f"Active/recent games: {len(active_games)}")
-    for g in active_games:
-        print(f"  - {g.get('short')} ({g.get('status')}) id={g['id']}")
-
-    new_events = []
-    # Live state for the leaderboard overlay
-    live_overrides = {}        # {pid_int: {stat: live_total}}
-    active_pids_in_games = set()  # players whose game is still in progress (🔴)
-    in_progress_statuses = {
-        "STATUS_IN_PROGRESS", "STATUS_HALFTIME", "STATUS_END_PERIOD",
-        "STATUS_FIRST_HALF", "STATUS_SECOND_HALF", "STATUS_END_OF_PERIOD",
-    }
-
-    for g in active_games:
-        try:
-            summary = fetch_summary(g["id"])
-        except Exception as exc:
-            print(f"WARN: failed to fetch game {g['id']}: {exc}", file=sys.stderr)
-            continue
-
-        ctx = game_context(summary)
-        is_in_progress = g.get("status") in in_progress_statuses
-
-        for name, espn_id, stats in extract_player_lines(summary):
-            rec = match_player(name, espn_id, by_norm, by_pid, id_map, unmatched)
-            if rec is None:
-                continue
-            pid = rec["player_id"]
-
-            # Build live override for the leaderboard view
-            live_overrides[pid] = {
-                stat: rec[stat] + stats.get(stat, 0) for stat in STATS
-            }
-            if is_in_progress:
-                active_pids_in_games.add(pid)
-
-            for stat in STATS:
-                prev = rec[stat]
-                new_total = prev + stats.get(stat, 0)
-                if new_total <= prev:
-                    continue
-
-                # Round-hundred crossings
-                for v in round_hundred_crossings(prev, new_total):
-                    key = fired_key(pid, stat, "round", v)
-                    if key in fired:
-                        continue
-                    fired.add(key)
-                    new_events.append({
-                        "kind": "round", "player": rec["player_name"],
-                        "player_id": pid, "stat": stat,
-                        "value": v, "new_total": new_total,
-                        "game_context": ctx,
-                    })
-
-                # Rank pass / tie
-                lb = leaderboards.get(stat) or []
-                for ev in rank_pass_events(stat, lb, pid, prev, new_total):
-                    if ev["type"] == "pass":
-                        kind = "rank_pass"
-                        key_val = f"pass_{ev['rank']}_{ev['passed_player_id']}"
-                    else:
-                        kind = "rank_tie"
-                        key_val = f"tie_{ev['rank']}_{ev['passed_player_id']}"
-                    key = fired_key(pid, stat, kind, key_val)
-                    if key in fired:
-                        continue
-                    fired.add(key)
-                    new_events.append({
-                        "kind": kind, "player": rec["player_name"], "player_id": pid,
-                        "stat": stat, "rank": ev["rank"],
-                        "passed_player": ev["passed_player"],
-                        "passed_player_id": ev["passed_player_id"],
-                        "new_total": new_total, "threshold": ev["threshold"],
-                        "game_context": ctx,
-                    })
-
-    print(f"New milestones this poll: {len(new_events)}")
-    for e in new_events:
-        print(f"  - {format_event_md(e)}")
-
-    if not args.dry_run:
-        save_json(FIRED_PATH, sorted(fired))
-        if unmatched:
-            prev_um = load_json(UNMATCHED_PATH, {})
-            prev_um.update(unmatched)
-            save_json(UNMATCHED_PATH, prev_um)
-        if new_events:
-            prepend_log_block(new_events, polled_at_utc)
-            # Maintain a structured event log (capped at last 250) so the live
-            # dashboard can show recent milestones without parsing markdown.
-            milestones_log = load_json(MILESTONES_LOG_PATH, [])
-            for e in new_events:
-                milestones_log.append({
-                    "ts": polled_at_utc.isoformat(),
-                    "kind": e.get("kind"),
-                    "stat": e.get("stat"),
-                    "player": e.get("player"),
-                    "text": format_event_md(e).replace("**", "").replace("_", ""),
-                })
-            milestones_log = milestones_log[-250:]
-            save_json(MILESTONES_LOG_PATH, milestones_log)
-        # Build the live game-state list (lightweight — just what the dashboard
-        # needs to render the "live games" pill).
-        active_games_view = [
-            {
-                "short": g.get("short"),
-                "status": g.get("status_detail") or g.get("status"),
-                "in_progress": g.get("status") in in_progress_statuses,
-            }
-            for g in active_games
-        ]
-        recent_milestones = load_json(MILESTONES_LOG_PATH, [])
-        # Always re-render LEADERBOARDS.md (markdown) and the JSON snapshot used
-        # by the live dashboard, so in-game progress is visible even between
-        # discrete milestone fires.
-        leaderboard.render(
-            all_totals=all_totals,
-            overrides=live_overrides,
-            active_pids_in_games=active_pids_in_games,
-            out_path=LB_MD_PATH,
-            last_updated_utc=polled_at_utc,
-        )
-        leaderboard.render_live_json(
-            all_totals=all_totals,
-            overrides=live_overrides,
-            active_pids_in_games=active_pids_in_games,
-            active_games=active_games_view,
-            recent_milestones=list(reversed(recent_milestones)),  # newest first
-            out_path=LIVE_JSON_PATH,
-            last_updated_utc=polled_at_utc,
-        )
-        write_job_summary(new_events, polled_at_utc, active_games)
-
-    if unmatched:
-        print(f"Unmatched ESPN names: {list(unmatched.keys())}")
-
-    return 0
-
-
-if __name__ == "__main__":
-    sys.exit(main())
+# WNBA All-Time Leaderboards
+
+Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
+
+_Last updated: 2026-05-09 00:18 UTC_
+
+## Contents
+
+- [Points](#points)
+- [Rebounds](#rebounds)
+- [Assists](#assists)
+- [Blocks](#blocks)
+- [Steals](#steals)
+- [Three-pointers](#three-pointers)
+- [Turnovers](#turnovers)
+- [Personal fouls](#personal-fouls)
+
+## Points
+
+| Rank | Player | Total |
+|-----:|--------|------:|
+| 1 | Diana Taurasi | 10,608 |
+| 2 | Tina Charles | 8,396 |
+| 3 | DeWanna Bonner | 7,805 |
+| 4 | Tina Thompson | 7,470 |
+| 5 | Tamika Catchings | 7,371 |
+| 6 | Nneka Ogwumike | 7,305 |
+| 7 | Candice Dupree | 6,861 |
+| 8 | Sue Bird | 6,802 |
+| 9 | Cappie Pondexter | 6,781 |
+| 10 | Candace Parker | 6,574 |
+| 11 | Katie Smith | 6,450 |
+| 12 | Sylvia Fowles | 6,413 |
+| 13 | Lisa Leslie | 6,251 |
+| 14 | Jewell Loyd | 6,027 |
+| 15 | Lauren Jackson | 6,005 |
+| 15 | Seimone Augustus | 6,005 |
+| 17 | Breanna Stewart | 5,985 |
+| 18 | Brittney Griner | 5,954 |
+| 19 | Becky Hammon | 5,816 |
+| 20 | Angel McCoughtry | 5,797 |
+| 21 | A'ja Wilson | 5,719 |
+| 22 | DeLisha Milton-Jones | 5,571 |
+| 23 | Katie Douglas | 5,545 |
+| 24 | Lindsay Whalen | 5,511 |
+| 25 | Skylar Diggins | 5,489 |
+| 26 | Kayla McBride | 5,389 |
+| 27 | Swin Cash | 5,119 |
+| 28 | Tangela Smith | 5,035 |
+| 29 | Taj McWilliams-Franklin | 4,992 |
+| 30 | Maya Moore | 4,984 |
+| 31 | Tiffany Hayes | 4,926 |
+| 32 | Sheryl Swoopes | 4,875 |
+| 33 | Kelsey Mitchell | 4,813 |
+| 34 | Alana Beard | 4,740 |
+| 35 | Chamique Holdsclaw | 4,713 |
+| 36 | Elena Delle Donne | 4,706 |
+| 37 | Penny Taylor | 4,595 |
+| 38 | Alyssa Thomas | 4,488 |
+| 39 | Kristi Toliver | 4,474 |
+| 40 | Arike Ogunbowale | 4,464 |
+| 41 | Crystal Langhorne | 4,433 |
+| 41 | Jia Perkins | 4,433 |
+| 43 | Chelsea Gray | 4,409 |
+| 44 | Natasha Howard | 4,367 |
+| 45 | Courtney Vandersloot | 4,352 |
+| 46 | Sophia Young-Malcolm | 4,300 |
+| 47 | Plenette Pierson | 4,258 |
+| 48 | Monique Currie | 4,253 |
+| 49 | Vickie Johnson | 4,230 |
+| 50 | Yolanda Griffith | 4,224 |
+| 51 | Kelsey Plum | 4,207 |
+| 52 | Allisha Gray | 4,157 |
+| 53 | Rebekkah Brunson | 4,133 |
+| 54 | Dearica Hamby | 4,090 |
+| 55 | Jonquel Jones | 4,086 |
+| 56 | Kahleah Copper | 4,083 |
+| 57 | Courtney Williams | 4,061 |
+| 58 | Asjha Jones | 3,986 |
+| 59 | Deanna Nolan | 3,971 |
+| 60 | Nykesha Sales | 3,931 |
+| 61 | Betty Lennox | 3,856 |
+| 62 | Allie Quigley | 3,786 |
+| 63 | Chasity Melvin | 3,781 |
+| 64 | Kara Lawson | 3,670 |
+| 65 | Mwadi Mabika | 3,576 |
+| 66 | Camille Smith | 3,551 |
+| 67 | Napheesa Collier | 3,542 |
+| 67 | Shannon Johnson | 3,542 |
+| 69 | Renee Montgomery | 3,533 |
+| 70 | Jasmine Thomas | 3,522 |
+| 71 | Odyssey Sims | 3,514 |
+| 72 | Tamecka Dixon | 3,507 |
+| 73 | Tammy Sutton-Brown | 3,498 |
+| 74 | Sancho Lyttle | 3,478 |
+| 75 | Ivory Latta | 3,447 |
+| 76 | Brittney Sykes | 3,425 |
+| 77 | Jackie Young | 3,412 |
+| 78 | Nicole Powell | 3,407 |
+| 79 | Epiphanny Prince | 3,381 |
+| 80 | Ariel Atkins | 3,361 |
+| 80 | Michelle Snow | 3,361 |
+| 82 | Tamika Whitmore | 3,359 |
+| 83 | Sheri Sam | 3,353 |
+| 84 | Andrea Stinson | 3,351 |
+| 85 | Tanisha Wright | 3,324 |
+| 86 | Margo Dydek | 3,214 |
+| 87 | Danielle Robinson | 3,160 |
+| 88 | Wendy Palmer | 3,135 |
+| 89 | Stefanie Dolson | 3,128 |
+| 90 | Shavonte Zellous | 3,103 |
+| 91 | Briann January | 3,082 |
+| 92 | Erica Wheeler | 3,060 |
+| 93 | Erika de Souza | 3,046 |
+| 94 | Shameka Christon | 3,039 |
+| 95 | Sabrina Ionescu | 3,030 |
+| 96 | Marie Ferdinand-Harris | 3,001 |
+| 97 | Emma Meesseman | 2,966 |
+| 98 | Natalie Williams | 2,894 |
+| 99 | Jennifer Gillom | 2,888 |
+| 100 | Marina Mabrey | 2,867 |
+| 101 | Natasha Cloud | 2,863 |
+| 102 | Iziane Castro Marques | 2,862 |
+| 103 | Elizabeth Williams | 2,841 |
+| 104 | Alysha Clark | 2,787 |
+| 105 | Jantel Lavender | 2,775 |
+| 106 | Brionna Jones | 2,765 |
+| 107 | Dominique Canty | 2,763 |
+| 108 | Ticha Penicheiro | 2,729 |
+| 109 | Adrienne Goodson | 2,705 |
+| 110 | Riquna Williams | 2,659 |
+| 111 | Essence Carson | 2,647 |
+| 111 | Lindsey Harding | 2,647 |
+| 113 | Tamera Young | 2,641 |
+| 114 | Liz Cambage | 2,634 |
+| 115 | Janeth Arcain | 2,633 |
+| 116 | Temeka Johnson | 2,620 |
+| 117 | Leilani Mitchell | 2,618 |
+| 118 | Cynthia Cooper | 2,601 |
+| 119 | Tan White | 2,595 |
+| 120 | Cheyenne Parker-Tyus | 2,565 |
+| 121 | Kelly Miller | 2,558 |
+| 122 | Glory Johnson | 2,531 |
+| 123 | Nikki McCray | 2,521 |
+| 124 | Crystal Robinson | 2,496 |
+| 125 | Tiffany Mitchell | 2,480 |
+| 126 | Ruth Riley | 2,434 |
+| 127 | Svetlana Abrosimova | 2,414 |
+| 128 | Anna DeForge | 2,413 |
+| 129 | DeMya Walker | 2,379 |
+| 130 | Alex Bentley | 2,350 |
+| 131 | Rhyne Howard | 2,329 |
+| 132 | Merlakia Jones | 2,308 |
+| 133 | Kia Vaughn | 2,288 |
+| 134 | Allison Feaster | 2,258 |
+| 135 | Shekinna Stricklen | 2,245 |
+| 136 | Kara Braxton | 2,237 |
+| 136 | Matee Ajavon | 2,237 |
+| 138 | Kayla Thornton | 2,235 |
+| 139 | Betnijah Laney-Hamilton | 2,228 |
+| 139 | Dawn Staley | 2,228 |
+| 141 | Azurá Stevens | 2,219 |
+| 142 | Janel McCarville | 2,215 |
+| 142 | Teaira McCowan | 2,215 |
+| 144 | Sami Whitcomb | 2,211 |
+| 145 | Sophia Witherspoon | 2,210 |
+| 146 | Kia Nurse | 2,188 |
+| 147 | Ruthie Bolton | 2,175 |
+| 148 | Ann Wauters | 2,170 |
+| 149 | Layshia Clarendon | 2,168 |
+| 150 | Satou Sabally | 2,161 |
+| 151 | Murriel Page | 2,146 |
+| 152 | Marissa Coleman | 2,140 |
+| 153 | Tari Phillips | 2,134 |
+| 154 | Jordin Canada | 2,132 |
+| 155 | Cheryl Ford | 2,116 |
+| 156 | Elena Baranova | 2,110 |
+| 157 | Aerial Powers | 2,068 |
+| 158 | Coco Miller | 2,030 |
+| 159 | Diamond DeShields | 2,026 |
+| 160 | Vicky Bullett | 2,018 |
+| 161 | Ezi Magbegor | 1,995 |
+| 162 | Bria Hartley | 1,967 |
+| 163 | Chiney Ogwumike | 1,964 |
+| 164 | Nicole Ohlde | 1,959 |
+| 165 | Kedra Holland-Corn | 1,938 |
+| 166 | Cathrine Kraayeveld | 1,926 |
+| 167 | Roneeka Hodges | 1,925 |
+| 168 | Latasha Byears | 1,920 |
+| 169 | Karima Christmas-Kelly | 1,919 |
+| 170 | Jessica Breland | 1,918 |
+| 171 | Nakia Sanford | 1,915 |
+| 172 | Ebony Hoffman | 1,909 |
+| 173 | Candice Wiggins | 1,901 |
+| 174 | Myisha Hines-Allen | 1,873 |
+| 175 | Isabelle Harrison | 1,832 |
+| 176 | Tianna Hawkins | 1,825 |
+| 177 | Noelle Quinn | 1,824 |
+| 178 | Danielle Adams | 1,820 |
+| 179 | Damiris Dantas | 1,814 |
+| 180 | Aliyah Boston | 1,798 |
+| 181 | Charde Houston | 1,797 |
+| 182 | Kamila Vodichkova | 1,767 |
+| 182 | Rachel Banham | 1,767 |
+| 184 | Tully Bevilaqua | 1,763 |
+| 185 | Sandy Brondello | 1,759 |
+| 186 | Sugar Rodgers | 1,733 |
+| 187 | Moriah Jefferson | 1,722 |
+| 188 | Natisha Hiedeman | 1,710 |
+| 189 | Armintie Herrington | 1,696 |
+| 190 | Nikki Teasley | 1,690 |
+| 191 | Shenise Johnson | 1,688 |
+| 192 | NaLyssa Smith | 1,676 |
+| 193 | Sophie Cunningham | 1,666 |
+| 194 | Gabby Williams | 1,590 |
+| 195 | Janell Burse | 1,580 |
+| 196 | Le'coe Willingham | 1,552 |
+| 197 | Shatori Walker-Kimbrough | 1,544 |
+| 198 | Rebecca Allen | 1,514 |
+| 199 | Monique Billings | 1,505 |
+| 200 | Jennifer Lacy | 1,504 |
+
+## Rebounds
+
+| Rank | Player | Total |
+|-----:|--------|------:|
+| 1 | Tina Charles | 4,262 |
+| 2 | Sylvia Fowles | 4,005 |
+| 3 | Candace Parker | 3,467 |
+| 4 | Rebekkah Brunson | 3,345 |
+| 5 | Tamika Catchings | 3,313 |
+| 6 | Lisa Leslie | 3,303 |
+| 7 | Nneka Ogwumike | 3,268 |
+| 8 | DeWanna Bonner | 3,203 |
+| 9 | Candice Dupree | 3,132 |
+| 10 | Tina Thompson | 3,065 |
+| 11 | Taj McWilliams-Franklin | 3,006 |
+| 12 | Alyssa Thomas | 2,740 |
+| 13 | Sancho Lyttle | 2,596 |
+| 14 | DeLisha Milton-Jones | 2,574 |
+| 15 | Jonquel Jones | 2,570 |
+| 16 | Brittney Griner | 2,525 |
+| 17 | Swin Cash | 2,521 |
+| 18 | A'ja Wilson | 2,494 |
+| 19 | Michelle Snow | 2,476 |
+| 20 | Breanna Stewart | 2,474 |
+| 21 | Crystal Langhorne | 2,454 |
+| 22 | Lauren Jackson | 2,444 |
+| 23 | Yolanda Griffith | 2,440 |
+| 24 | Tangela Smith | 2,328 |
+| 25 | Dearica Hamby | 2,317 |
+| 26 | Erika de Souza | 2,220 |
+| 27 | Diana Taurasi | 2,201 |
+| 28 | Natasha Howard | 2,174 |
+| 29 | Margo Dydek | 2,138 |
+| 30 | Chamique Holdsclaw | 2,123 |
+| 31 | Chasity Melvin | 2,097 |
+| 32 | Tammy Sutton-Brown | 2,010 |
+| 33 | Cheryl Ford | 1,907 |
+| 34 | Elizabeth Williams | 1,904 |
+| 35 | Plenette Pierson | 1,834 |
+| 36 | Natalie Williams | 1,832 |
+| 37 | Wendy Palmer | 1,824 |
+| 38 | Sophia Young-Malcolm | 1,807 |
+| 39 | Lindsay Whalen | 1,805 |
+| 40 | Camille Smith | 1,802 |
+| 41 | Asjha Jones | 1,751 |
+| 42 | Courtney Williams | 1,747 |
+| 43 | Kiah Stokes | 1,742 |
+| 44 | Teaira McCowan | 1,670 |
+| 45 | Monique Currie | 1,666 |
+| 46 | Stefanie Dolson | 1,650 |
+| 47 | Glory Johnson | 1,640 |
+| 48 | Vickie Johnson | 1,634 |
+| 49 | Kia Vaughn | 1,626 |
+| 50 | Elena Delle Donne | 1,619 |
+| 51 | Ruth Riley | 1,603 |
+| 52 | Courtney Paris | 1,596 |
+| 52 | Sheryl Swoopes | 1,596 |
+| 54 | Murriel Page | 1,595 |
+| 55 | Maya Moore | 1,589 |
+| 56 | Jessica Breland | 1,586 |
+| 57 | Jantel Lavender | 1,569 |
+| 58 | Katie Douglas | 1,562 |
+| 59 | Angel McCoughtry | 1,561 |
+| 60 | Penny Taylor | 1,552 |
+| 61 | Cappie Pondexter | 1,513 |
+| 62 | Napheesa Collier | 1,510 |
+| 63 | Ticha Penicheiro | 1,485 |
+| 64 | Sue Bird | 1,466 |
+| 65 | Nicole Powell | 1,457 |
+| 66 | Alysha Clark | 1,454 |
+| 67 | Tamera Young | 1,433 |
+| 68 | Cheyenne Parker-Tyus | 1,424 |
+| 69 | Alana Beard | 1,420 |
+| 70 | Nakia Sanford | 1,419 |
+| 71 | Kara Braxton | 1,387 |
+| 72 | Courtney Vandersloot | 1,383 |
+| 72 | Katie Smith | 1,383 |
+| 74 | Ebony Hoffman | 1,376 |
+| 75 | Sheri Sam | 1,356 |
+| 76 | Tamika Whitmore | 1,355 |
+| 77 | Emma Meesseman | 1,350 |
+| 78 | Allisha Gray | 1,347 |
+| 79 | Monique Billings | 1,345 |
+| 80 | Elena Baranova | 1,335 |
+| 81 | Brionna Jones | 1,333 |
+| 82 | Jewell Loyd | 1,331 |
+| 83 | Erlana Larkins | 1,329 |
+| 84 | Mwadi Mabika | 1,327 |
+| 85 | Jayne Appel Marinelli | 1,326 |
+| 86 | Kayla Thornton | 1,308 |
+| 87 | Betty Lennox | 1,296 |
+| 88 | Tari Phillips | 1,274 |
+| 89 | Janel McCarville | 1,261 |
+| 90 | Liz Cambage | 1,258 |
+| 91 | Ezi Magbegor | 1,243 |
+| 92 | Azurá Stevens | 1,237 |
+| 93 | Tiffany Hayes | 1,233 |
+| 94 | Seimone Augustus | 1,228 |
+| 95 | Jia Perkins | 1,220 |
+| 96 | Brianna Turner | 1,214 |
+| 97 | Myisha Hines-Allen | 1,208 |
+| 98 | DeMya Walker | 1,199 |
+| 99 | Latasha Byears | 1,190 |
+| 99 | Tanisha Wright | 1,190 |
+| 101 | Vicky Bullett | 1,189 |
+| 102 | Chelsea Gray | 1,188 |
+| 103 | Kayla McBride | 1,182 |
+| 104 | Nykesha Sales | 1,148 |
+| 105 | Shannon Johnson | 1,143 |
+| 106 | Kahleah Copper | 1,140 |
+| 107 | Adrian Williams-Strong | 1,131 |
+| 108 | Andrea Stinson | 1,127 |
+| 108 | Tamika Raymond | 1,127 |
+| 110 | Adrienne Goodson | 1,126 |
+| 111 | Deanna Nolan | 1,112 |
+| 112 | Chiney Ogwumike | 1,110 |
+| 113 | Becky Hammon | 1,108 |
+| 114 | Ann Wauters | 1,105 |
+| 114 | Brittney Sykes | 1,105 |
+| 116 | Natasha Cloud | 1,080 |
+| 117 | Svetlana Abrosimova | 1,078 |
+| 118 | Le'coe Willingham | 1,054 |
+| 118 | NaLyssa Smith | 1,054 |
+| 120 | Aliyah Boston | 1,051 |
+| 121 | Isabelle Harrison | 1,049 |
+| 122 | Nicole Ohlde | 1,040 |
+| 123 | Tamecka Dixon | 1,035 |
+| 124 | Kamila Vodichkova | 1,031 |
+| 125 | Jasmine Thomas | 1,027 |
+| 126 | Cathrine Kraayeveld | 1,013 |
+| 127 | Kelly Miller | 1,011 |
+| 127 | Noelle Quinn | 1,011 |
+| 129 | Jackie Young | 1,002 |
+| 129 | Tiffany Jackson | 1,002 |
+| 131 | Tianna Hawkins | 1,000 |
+| 132 | Damiris Dantas | 995 |
+| 132 | Marissa Coleman | 995 |
+| 134 | Kristen Rasmussen | 993 |
+| 134 | Sabrina Ionescu | 993 |
+| 136 | Danielle Robinson | 988 |
+| 137 | Shavonte Zellous | 978 |
+| 138 | Kara Lawson | 976 |
+| 139 | Jennifer Gillom | 964 |
+| 140 | Dominique Canty | 961 |
+| 141 | Armintie Herrington | 960 |
+| 142 | Skylar Diggins | 955 |
+| 143 | Janell Burse | 944 |
+| 144 | Merlakia Jones | 927 |
+| 145 | Nicky Anosike | 922 |
+| 146 | Janeth Arcain | 916 |
+| 147 | Satou Sabally | 912 |
+| 148 | Karima Christmas-Kelly | 908 |
+| 149 | Natalie Achonwa | 895 |
+| 150 | Temeka Johnson | 889 |
+| 151 | Mistie Bass | 888 |
+| 152 | Shameka Christon | 867 |
+| 153 | Krystal Thomas | 862 |
+| 154 | Erica Wheeler | 852 |
+| 155 | Leilani Mitchell | 845 |
+| 156 | Alanna Smith | 834 |
+| 157 | Essence Carson | 833 |
+| 158 | Kristi Toliver | 829 |
+| 159 | Marie Ferdinand-Harris | 828 |
+| 160 | Angel Reese | 823 |
+| 161 | Marlies Askamp | 822 |
+| 162 | Amanda Zahui B | 819 |
+| 162 | Barbara Farris | 819 |
+| 164 | Carolyn Swords | 814 |
+| 165 | Jessica Shepard | 813 |
+| 166 | Marina Mabrey | 811 |
+| 167 | Tierra Ruffin-Pratt | 799 |
+| 168 | Nia Coffey | 795 |
+| 169 | Charlotte Smith | 794 |
+| 170 | Rhonda Mapp | 788 |
+| 171 | Mercedes Russell | 786 |
+| 172 | Betnijah Laney-Hamilton | 783 |
+| 173 | Sue Wicks | 780 |
+| 174 | Lindsey Harding | 779 |
+| 175 | Tiffani Johnson | 778 |
+| 176 | Odyssey Sims | 776 |
+| 177 | Teresa Weatherspoon | 775 |
+| 178 | Naz Hillmon | 773 |
+| 179 | Anna DeForge | 769 |
+| 179 | Kelsey Bone | 769 |
+| 179 | Tan White | 769 |
+| 182 | Tully Bevilaqua | 767 |
+| 183 | Ariel Atkins | 758 |
+| 183 | Gabby Williams | 758 |
+| 185 | Layshia Clarendon | 756 |
+| 186 | Brooke Wyckoff | 751 |
+| 187 | Coco Miller | 750 |
+| 188 | Alex Montgomery | 735 |
+| 189 | Ashley Robinson | 734 |
+| 190 | Shenise Johnson | 729 |
+| 191 | Sami Whitcomb | 726 |
+| 191 | Shekinna Stricklen | 726 |
+| 193 | Arike Ogunbowale | 722 |
+| 194 | Kelsey Plum | 715 |
+| 195 | Olympia Scott | 711 |
+| 196 | Katie Mattera | 708 |
+| 197 | Rushia Brown | 706 |
+| 198 | Allie Quigley | 702 |
+| 199 | Epiphanny Prince | 701 |
+| 200 | LaToya Sanders | 695 |
+
+## Assists
+
+| Rank | Player | Total |
+|-----:|--------|------:|
+| 1 | Sue Bird | 3,234 |
+| 2 | Courtney Vandersloot | 2,887 |
+| 3 | Ticha Penicheiro | 2,588 |
+| 4 | Diana Taurasi | 2,389 |
+| 5 | Lindsay Whalen | 2,347 |
+| 6 | Chelsea Gray | 1,870 |
+| 7 | Alyssa Thomas | 1,820 |
+| 8 | Skylar Diggins | 1,768 |
+| 9 | Natasha Cloud | 1,733 |
+| 10 | Becky Hammon | 1,705 |
+| 11 | Candace Parker | 1,634 |
+| 12 | Cappie Pondexter | 1,575 |
+| 13 | Tamika Catchings | 1,484 |
+| 14 | Danielle Robinson | 1,480 |
+| 15 | Shannon Johnson | 1,423 |
+| 15 | Tanisha Wright | 1,423 |
+| 17 | Temeka Johnson | 1,382 |
+| 18 | Courtney Williams | 1,365 |
+| 19 | Jasmine Thomas | 1,355 |
+| 20 | Briann January | 1,339 |
+| 21 | Dawn Staley | 1,337 |
+| 22 | Teresa Weatherspoon | 1,333 |
+| 23 | Kristi Toliver | 1,301 |
+| 24 | Katie Smith | 1,258 |
+| 25 | Erica Wheeler | 1,256 |
+| 26 | Vickie Johnson | 1,202 |
+| 27 | Odyssey Sims | 1,201 |
+| 28 | Leilani Mitchell | 1,197 |
+| 29 | Kelsey Plum | 1,193 |
+| 30 | DeWanna Bonner | 1,176 |
+| 31 | Renee Montgomery | 1,140 |
+| 32 | Jordin Canada | 1,139 |
+| 33 | Jewell Loyd | 1,133 |
+| 34 | Swin Cash | 1,131 |
+| 35 | Lindsey Harding | 1,090 |
+| 36 | Katie Douglas | 1,069 |
+| 37 | Sabrina Ionescu | 1,067 |
+| 38 | Alana Beard | 1,061 |
+| 39 | Penny Taylor | 1,049 |
+| 40 | Dominique Canty | 1,042 |
+| 41 | Sheryl Swoopes | 1,037 |
+| 42 | Tina Charles | 1,033 |
+| 43 | Jackie Young | 1,029 |
+| 44 | Nikki Teasley | 982 |
+| 45 | Tamecka Dixon | 960 |
+| 46 | Kara Lawson | 946 |
+| 47 | Kayla McBride | 945 |
+| 48 | Deanna Nolan | 930 |
+| 49 | Breanna Stewart | 927 |
+| 49 | Kelly Miller | 927 |
+| 51 | DeLisha Milton-Jones | 921 |
+| 52 | Tiffany Hayes | 920 |
+| 53 | Angel McCoughtry | 915 |
+| 54 | Layshia Clarendon | 911 |
+| 54 | Seimone Augustus | 911 |
+| 56 | Candice Dupree | 902 |
+| 57 | Maya Moore | 896 |
+| 57 | Nneka Ogwumike | 896 |
+| 59 | Arike Ogunbowale | 889 |
+| 60 | Ivory Latta | 885 |
+| 61 | Helen Darling | 882 |
+| 62 | Taj McWilliams-Franklin | 879 |
+| 63 | Noelle Quinn | 878 |
+| 64 | Lisa Leslie | 873 |
+| 65 | Tully Bevilaqua | 853 |
+| 66 | Jia Perkins | 837 |
+| 67 | Brittney Sykes | 814 |
+| 68 | Andrea Stinson | 810 |
+| 69 | Tina Thompson | 803 |
+| 70 | Epiphanny Prince | 800 |
+| 71 | Kelsey Mitchell | 799 |
+| 72 | Mwadi Mabika | 774 |
+| 73 | Sheri Sam | 745 |
+| 74 | Monique Currie | 740 |
+| 75 | Marina Mabrey | 736 |
+| 76 | Allisha Gray | 730 |
+| 77 | Elaine Powell | 728 |
+| 78 | Chamique Holdsclaw | 698 |
+| 79 | Shavonte Zellous | 693 |
+| 80 | Allie Quigley | 690 |
+| 81 | Dearica Hamby | 688 |
+| 82 | Moriah Jefferson | 685 |
+| 83 | Stefanie Dolson | 683 |
+| 84 | Emma Meesseman | 681 |
+| 85 | Nykesha Sales | 677 |
+| 86 | Bria Hartley | 661 |
+| 87 | Lindsay Allen | 657 |
+| 88 | Betty Lennox | 651 |
+| 88 | Plenette Pierson | 651 |
+| 90 | Ariel Atkins | 646 |
+| 91 | Alex Bentley | 645 |
+| 92 | Asjha Jones | 637 |
+| 93 | Jennifer Azzi | 636 |
+| 94 | Brittney Griner | 633 |
+| 95 | Sami Whitcomb | 623 |
+| 96 | Alysha Clark | 614 |
+| 97 | A'ja Wilson | 613 |
+| 98 | Debbie Black | 612 |
+| 99 | Cynthia Cooper | 602 |
+| 100 | Jonquel Jones | 599 |
+| 101 | Sancho Lyttle | 592 |
+| 102 | Camille Smith | 590 |
+| 103 | Armintie Herrington | 589 |
+| 104 | Natisha Hiedeman | 581 |
+| 105 | Tan White | 578 |
+| 106 | Matee Ajavon | 577 |
+| 107 | Napheesa Collier | 570 |
+| 108 | Betnijah Laney-Hamilton | 569 |
+| 109 | Nicole Powell | 567 |
+| 110 | Loree Moore | 562 |
+| 110 | Natasha Howard | 562 |
+| 112 | Sophia Young-Malcolm | 554 |
+| 112 | Tangela Smith | 554 |
+| 114 | Tamera Young | 552 |
+| 115 | Janel McCarville | 551 |
+| 115 | Svetlana Abrosimova | 551 |
+| 117 | Michele Timms | 549 |
+| 118 | Gabby Williams | 546 |
+| 119 | Marie Ferdinand-Harris | 528 |
+| 120 | Margo Dydek | 524 |
+| 121 | Iziane Castro Marques | 509 |
+| 122 | Brittany Boyd-Jones | 508 |
+| 122 | Chasity Melvin | 508 |
+| 124 | Anna DeForge | 503 |
+| 124 | Coco Miller | 503 |
+| 126 | Myisha Hines-Allen | 497 |
+| 127 | Rachel Banham | 495 |
+| 128 | Crystal Robinson | 488 |
+| 128 | Tiffany Mitchell | 488 |
+| 130 | Rebekkah Brunson | 486 |
+| 131 | Rhyne Howard | 481 |
+| 132 | Veronica Burton | 479 |
+| 133 | Ukari Figgs | 470 |
+| 134 | Janeth Arcain | 469 |
+| 135 | Kahleah Copper | 463 |
+| 136 | Erin Phillips | 462 |
+| 137 | Sylvia Fowles | 461 |
+| 138 | Sydney Colson | 454 |
+| 139 | Caitlin Clark | 452 |
+| 139 | Elizabeth Williams | 452 |
+| 141 | Satou Sabally | 451 |
+| 141 | Yolanda Griffith | 451 |
+| 143 | Elena Delle Donne | 450 |
+| 143 | Kristi Harrower | 450 |
+| 143 | Nikki McCray | 450 |
+| 146 | Ruth Riley | 449 |
+| 147 | DeMya Walker | 446 |
+| 148 | Essence Carson | 445 |
+| 149 | Tyasha Harris | 441 |
+| 150 | Michelle Snow | 437 |
+| 151 | Lauren Jackson | 435 |
+| 152 | Adrienne Goodson | 433 |
+| 152 | Crystal Langhorne | 433 |
+| 154 | Elena Baranova | 430 |
+| 154 | Sug Sutton | 430 |
+| 156 | Tierra Ruffin-Pratt | 424 |
+| 157 | Kedra Holland-Corn | 423 |
+| 158 | Crystal Dangerfield | 418 |
+| 159 | Candice Wiggins | 417 |
+| 160 | Aari McDonald | 415 |
+| 161 | Erin Thorn | 414 |
+| 162 | Jamierra Faulkner | 410 |
+| 162 | Murriel Page | 410 |
+| 164 | Allison Feaster | 406 |
+| 165 | Rita Williams | 403 |
+| 166 | Marissa Coleman | 399 |
+| 167 | Kia Nurse | 397 |
+| 168 | Stacey Dales | 395 |
+| 169 | Sugar Rodgers | 393 |
+| 170 | Shameka Christon | 389 |
+| 170 | Tamicha Jackson | 389 |
+| 172 | Riquna Williams | 387 |
+| 173 | Julie Allemand | 383 |
+| 174 | Dana Evans | 379 |
+| 175 | Aliyah Boston | 378 |
+| 176 | Jessica Breland | 377 |
+| 177 | Shenise Johnson | 376 |
+| 178 | Stephanie Talbot | 372 |
+| 179 | Suzie McConnell Serio | 370 |
+| 180 | Damiris Dantas | 367 |
+| 181 | Roneeka Hodges | 362 |
+| 182 | Andrea Nagy | 361 |
+| 182 | Diamond DeShields | 361 |
+| 182 | Erlana Larkins | 361 |
+| 185 | Alanna Smith | 355 |
+| 185 | Merlakia Jones | 355 |
+| 187 | Kayla Thornton | 354 |
+| 188 | Bridget Carleton | 352 |
+| 188 | Charlotte Smith | 352 |
+| 188 | Ruthie Bolton | 352 |
+| 191 | Jantel Lavender | 350 |
+| 192 | Sandy Brondello | 349 |
+| 193 | Ebony Hoffman | 347 |
+| 193 | Tamika Whitmore | 347 |
+| 195 | Kristen Rasmussen | 345 |
+| 195 | Penny Toler | 345 |
+| 197 | Ezi Magbegor | 344 |
+| 198 | Sonja Henning | 341 |
+| 199 | Jessica Shepard | 337 |
+| 200 | Alexis Hornbuckle | 336 |
+
+## Blocks
+
+| Rank | Player | Total |
+|-----:|--------|------:|
+| 1 | Margo Dydek | 873 |
+| 2 | Brittney Griner | 859 |
+| 3 | Lisa Leslie | 818 |
+| 4 | Sylvia Fowles | 721 |
+| 5 | Candace Parker | 619 |
+| 6 | Lauren Jackson | 586 |
+| 7 | Tammy Sutton-Brown | 555 |
+| 8 | Tangela Smith | 554 |
+| 9 | A'ja Wilson | 533 |
+| 10 | Ruth Riley | 505 |
+| 11 | Elizabeth Williams | 483 |
+| 12 | Taj McWilliams-Franklin | 443 |
+| 13 | Tina Charles | 428 |
+| 14 | Breanna Stewart | 425 |
+| 15 | Jonquel Jones | 404 |
+| 16 | Michelle Snow | 403 |
+| 17 | Tamika Catchings | 383 |
+| 18 | Tina Thompson | 372 |
+| 19 | Erika de Souza | 370 |
+| 20 | Jessica Breland | 367 |
+| 21 | Natasha Howard | 357 |
+| 22 | Ezi Magbegor | 354 |
+| 23 | Diana Taurasi | 349 |
+| 23 | Elena Delle Donne | 349 |
+| 25 | DeWanna Bonner | 344 |
+| 26 | DeLisha Milton-Jones | 339 |
+| 27 | Yolanda Griffith | 323 |
+| 28 | Elena Baranova | 320 |
+| 29 | Candice Dupree | 316 |
+| 29 | Kiah Stokes | 316 |
+| 31 | Stefanie Dolson | 304 |
+| 32 | Vicky Bullett | 288 |
+| 33 | Rebekkah Brunson | 281 |
+| 34 | Liz Cambage | 264 |
+| 35 | Nneka Ogwumike | 260 |
+| 36 | Swin Cash | 258 |
+| 37 | Cheyenne Parker-Tyus | 250 |
+| 38 | Plenette Pierson | 242 |
+| 39 | Napheesa Collier | 239 |
+| 40 | Emma Meesseman | 238 |
+| 41 | Azurá Stevens | 230 |
+| 42 | Chasity Melvin | 228 |
+| 43 | Brianna Turner | 227 |
+| 44 | Sancho Lyttle | 221 |
+| 44 | Skylar Diggins | 221 |
+| 46 | Alana Beard | 220 |
+| 46 | Teaira McCowan | 220 |
+| 48 | Alanna Smith | 219 |
+| 49 | Janell Burse | 216 |
+| 49 | Sheryl Swoopes | 216 |
+| 51 | LaToya Sanders | 207 |
+| 52 | Ashley Robinson | 204 |
+| 52 | Asjha Jones | 204 |
+| 54 | Janel McCarville | 201 |
+| 55 | Rebecca Allen | 195 |
+| 56 | Jayne Appel Marinelli | 194 |
+| 57 | Angel McCoughtry | 193 |
+| 57 | Courtney Vandersloot | 193 |
+| 57 | Murriel Page | 193 |
+| 60 | Kelly Schumacher | 183 |
+| 61 | Maria Stepanova | 182 |
+| 62 | Courtney Paris | 178 |
+| 63 | Vanessa Hayden | 177 |
+| 64 | Maya Moore | 176 |
+| 65 | Kia Vaughn | 175 |
+| 66 | Amanda Zahui B | 171 |
+| 66 | Nicole Ohlde | 171 |
+| 68 | Jantel Lavender | 170 |
+| 69 | Camille Smith | 169 |
+| 70 | Shameka Christon | 165 |
+| 71 | Cheryl Ford | 160 |
+| 72 | Kara Braxton | 157 |
+| 73 | DeMya Walker | 155 |
+| 73 | Tamika Whitmore | 155 |
+| 75 | Ann Wauters | 153 |
+| 75 | Sue Wicks | 153 |
+| 77 | Allisha Gray | 151 |
+| 77 | Jessica Davenport | 151 |
+| 77 | Nia Coffey | 151 |
+| 80 | Alison Bales | 148 |
+| 81 | Chamique Holdsclaw | 143 |
+| 82 | Aliyah Boston | 140 |
+| 83 | Shavonte Zellous | 139 |
+| 84 | Penny Taylor | 136 |
+| 85 | Devereaux Peters | 133 |
+| 85 | Nicky Anosike | 133 |
+| 85 | Seimone Augustus | 133 |
+| 88 | Katie Mattera | 131 |
+| 88 | Nakia Sanford | 131 |
+| 90 | Brittney Sykes | 129 |
+| 90 | Brooke Wyckoff | 129 |
+| 90 | Cathrine Kraayeveld | 129 |
+| 93 | Chiney Ogwumike | 127 |
+| 93 | Kristen Rasmussen | 127 |
+| 95 | Katie Douglas | 126 |
+| 95 | Mistie Bass | 126 |
+| 97 | Brionna Jones | 125 |
+| 98 | Monique Billings | 123 |
+| 99 | Natalie Williams | 122 |
+| 100 | Alyssa Thomas | 121 |
+| 100 | Ebony Hoffman | 121 |
+| 100 | Essence Carson | 121 |
+| 100 | Olivia Nelson-Ododa | 121 |
+| 104 | Chelsea Gray | 119 |
+| 105 | Krystal Thomas | 118 |
+| 106 | Andrea Stinson | 117 |
+| 106 | Crystal Langhorne | 117 |
+| 108 | Monique Currie | 114 |
+| 109 | Amanda Lassiter | 111 |
+| 109 | Kamila Vodichkova | 111 |
+| 109 | Sophia Young-Malcolm | 111 |
+| 109 | Tari Phillips | 111 |
+| 113 | Ariel Atkins | 109 |
+| 114 | Erin Perperoglou | 108 |
+| 114 | Glory Johnson | 108 |
+| 116 | Sylvia Crawley | 106 |
+| 117 | Carolyn Swords | 104 |
+| 117 | Rebecca Lobo | 104 |
+| 119 | Jennifer Gillom | 103 |
+| 119 | Jia Perkins | 103 |
+| 121 | Theresa Plaisance | 102 |
+| 122 | Courtney Williams | 101 |
+| 122 | Deanna Nolan | 101 |
+| 122 | Dearica Hamby | 101 |
+| 122 | Shakira Austin | 101 |
+| 126 | Chante Black | 100 |
+| 126 | Danielle Adams | 100 |
+| 126 | Nicole Powell | 100 |
+| 129 | Natasha Mack | 99 |
+| 130 | Mwadi Mabika | 98 |
+| 130 | Natalie Achonwa | 98 |
+| 132 | Rhyne Howard | 97 |
+| 133 | Aneika Morello | 96 |
+| 133 | Tiffani Johnson | 96 |
+| 135 | Imani McGee-Stafford | 95 |
+| 135 | Isabelle Harrison | 95 |
+| 137 | Sandrine Gruda | 94 |
+| 138 | Kamilla Cardoso | 93 |
+| 139 | Emily Engstler | 92 |
+| 140 | Jasmine Thomas | 91 |
+| 140 | Jewell Loyd | 91 |
+| 140 | Kayla Alexander | 91 |
+| 143 | Allie Quigley | 90 |
+| 144 | Alysha Clark | 89 |
+| 145 | Marissa Coleman | 88 |
+| 146 | Tiffany Hayes | 87 |
+| 147 | Astou Ndiaye-Diatta | 86 |
+| 147 | Kayla Thornton | 86 |
+| 147 | NaLyssa Smith | 86 |
+| 150 | Adrian Williams-Strong | 85 |
+| 150 | Erlana Larkins | 85 |
+| 150 | Kalani Brown | 85 |
+| 150 | Kristin Folkl | 85 |
+| 154 | Charde Houston | 84 |
+| 154 | Shatori Walker-Kimbrough | 84 |
+| 156 | Tamera Young | 83 |
+| 157 | Charlotte Smith | 81 |
+| 157 | Cintia dos Santos | 81 |
+| 157 | Jessie Hicks | 81 |
+| 157 | Natasha Cloud | 81 |
+| 161 | Damiris Dantas | 80 |
+| 161 | Nykesha Sales | 80 |
+| 161 | Rushia Brown | 80 |
+| 164 | Astou Ndour-Fall | 78 |
+| 164 | Katie Smith | 78 |
+| 164 | Slobodanka Tuvic | 78 |
+| 167 | Kara Wolters | 77 |
+| 167 | Marina Mabrey | 77 |
+| 167 | Noelle Quinn | 77 |
+| 167 | Tierra Ruffin-Pratt | 77 |
+| 171 | Jennifer Lacy | 76 |
+| 171 | Sugar Rodgers | 76 |
+| 171 | Tan White | 76 |
+| 171 | Tiffany Jackson | 76 |
+| 175 | Karima Christmas-Kelly | 75 |
+| 175 | Kelsey Griffin | 75 |
+| 175 | Tianna Hawkins | 75 |
+| 178 | Epiphanny Prince | 74 |
+| 178 | Stephanie Talbot | 74 |
+| 180 | Ayana Walker | 73 |
+| 180 | Lindsay Wisdom-Hylton | 73 |
+| 182 | Cappie Pondexter | 72 |
+| 182 | Christi Thomas | 72 |
+| 182 | Olympia Scott | 72 |
+| 182 | Sue Bird | 72 |
+| 186 | Marlies Askamp | 71 |
+| 186 | Tanisha Wright | 71 |
+| 188 | Wendy Palmer | 70 |
+| 189 | Mercedes Russell | 69 |
+| 189 | Myisha Hines-Allen | 69 |
+| 189 | Rhonda Mapp | 69 |
+| 192 | Satou Sabally | 67 |
+| 192 | Shannon Johnson | 67 |
+| 194 | Awak Kuier | 65 |
+| 194 | Crystal Robinson | 65 |
+| 194 | Queen Egbo | 65 |
+| 194 | Riquna Williams | 65 |
+| 194 | Sabrina Ionescu | 65 |
+| 199 | Jackie Young | 64 |
+| 200 | Eva Nemcova | 63 |
+
+## Steals
+
+| Rank | Player | Total |
+|-----:|--------|------:|
+| 1 | Tamika Catchings | 1,072 |
+| 2 | Ticha Penicheiro | 761 |
+| 3 | Sue Bird | 724 |
+| 4 | Alana Beard | 710 |
+| 5 | Nneka Ogwumike | 668 |
+| 6 | Sheryl Swoopes | 657 |
+| 7 | Jia Perkins | 634 |
+| 8 | DeWanna Bonner | 631 |
+| 9 | Sancho Lyttle | 630 |
+| 10 | Angel McCoughtry | 627 |
+| 11 | Katie Douglas | 623 |
+| 12 | DeLisha Milton-Jones | 619 |
+| 13 | Taj McWilliams-Franklin | 577 |
+| 14 | Tully Bevilaqua | 571 |
+| 15 | Alyssa Thomas | 556 |
+| 16 | Courtney Vandersloot | 544 |
+| 17 | Yolanda Griffith | 527 |
+| 18 | Candace Parker | 521 |
+| 19 | Diana Taurasi | 515 |
+| 20 | Lindsay Whalen | 500 |
+| 21 | Lisa Leslie | 490 |
+| 21 | Shannon Johnson | 490 |
+| 21 | Sylvia Fowles | 490 |
+| 24 | Nykesha Sales | 486 |
+| 25 | Becky Hammon | 485 |
+| 26 | Penny Taylor | 479 |
+| 27 | Sophia Young-Malcolm | 477 |
+| 28 | Teresa Weatherspoon | 463 |
+| 29 | Rebekkah Brunson | 456 |
+| 30 | Tangela Smith | 455 |
+| 31 | Tina Thompson | 452 |
+| 32 | Maya Moore | 449 |
+| 33 | Skylar Diggins | 445 |
+| 34 | Jewell Loyd | 441 |
+| 35 | Sheri Sam | 438 |
+| 36 | Camille Smith | 437 |
+| 37 | Chelsea Gray | 436 |
+| 38 | Natasha Howard | 434 |
+| 39 | Candice Dupree | 431 |
+| 40 | Epiphanny Prince | 429 |
+| 41 | Tanisha Wright | 427 |
+| 42 | Kayla McBride | 418 |
+| 43 | Breanna Stewart | 410 |
+| 44 | Katie Smith | 408 |
+| 45 | Cappie Pondexter | 405 |
+| 46 | Nicole Powell | 401 |
+| 47 | Jasmine Thomas | 394 |
+| 48 | Danielle Robinson | 389 |
+| 49 | Deanna Nolan | 388 |
+| 50 | Briann January | 386 |
+| 50 | Dearica Hamby | 386 |
+| 52 | Swin Cash | 384 |
+| 52 | Tina Charles | 384 |
+| 54 | Monique Currie | 378 |
+| 54 | Tiffany Hayes | 378 |
+| 56 | Chamique Holdsclaw | 376 |
+| 57 | Mwadi Mabika | 370 |
+| 58 | Ariel Atkins | 365 |
+| 59 | Lauren Jackson | 360 |
+| 59 | Tan White | 360 |
+| 61 | Jordin Canada | 359 |
+| 62 | Vickie Johnson | 357 |
+| 63 | Dominique Canty | 356 |
+| 63 | Renee Montgomery | 356 |
+| 65 | Tamecka Dixon | 355 |
+| 66 | Vicky Bullett | 353 |
+| 67 | Svetlana Abrosimova | 352 |
+| 68 | Brittney Sykes | 351 |
+| 69 | Allisha Gray | 349 |
+| 70 | Janeth Arcain | 346 |
+| 71 | Helen Darling | 343 |
+| 72 | Andrea Stinson | 342 |
+| 72 | Erica Wheeler | 342 |
+| 74 | Armintie Herrington | 340 |
+| 74 | Natasha Cloud | 340 |
+| 76 | Arike Ogunbowale | 339 |
+| 77 | Dawn Staley | 338 |
+| 78 | A'ja Wilson | 335 |
+| 79 | Marie Ferdinand-Harris | 331 |
+| 80 | Chasity Melvin | 330 |
+| 80 | Leilani Mitchell | 330 |
+| 82 | Kristi Toliver | 329 |
+| 83 | Matee Ajavon | 328 |
+| 84 | Odyssey Sims | 326 |
+| 85 | Napheesa Collier | 325 |
+| 86 | Betty Lennox | 323 |
+| 87 | Tammy Sutton-Brown | 319 |
+| 88 | Plenette Pierson | 317 |
+| 88 | Temeka Johnson | 317 |
+| 90 | Debbie Black | 315 |
+| 91 | Alysha Clark | 314 |
+| 91 | Crystal Langhorne | 314 |
+| 93 | Courtney Williams | 308 |
+| 93 | Ebony Hoffman | 308 |
+| 95 | Tamera Young | 305 |
+| 96 | Kedra Holland-Corn | 301 |
+| 97 | Gabby Williams | 296 |
+| 98 | Lindsey Harding | 295 |
+| 99 | Janel McCarville | 294 |
+| 100 | Kelly Miller | 290 |
+| 101 | Glory Johnson | 289 |
+| 102 | Elizabeth Williams | 285 |
+| 102 | Essence Carson | 285 |
+| 104 | Seimone Augustus | 280 |
+| 105 | Tari Phillips | 277 |
+| 106 | Emma Meesseman | 276 |
+| 106 | Erika de Souza | 276 |
+| 108 | Jackie Young | 271 |
+| 108 | Rita Williams | 271 |
+| 110 | Natalie Williams | 270 |
+| 110 | Nicky Anosike | 270 |
+| 112 | Crystal Robinson | 267 |
+| 113 | Anna DeForge | 266 |
+| 114 | Brionna Jones | 265 |
+| 115 | Michelle Snow | 262 |
+| 116 | Karima Christmas-Kelly | 261 |
+| 117 | Riquna Williams | 260 |
+| 118 | Noelle Quinn | 256 |
+| 119 | Elaine Powell | 255 |
+| 119 | Kayla Thornton | 255 |
+| 119 | Loree Moore | 255 |
+| 122 | Ruthie Bolton | 254 |
+| 123 | Kelsey Plum | 253 |
+| 124 | Hamchetou Maiga-Ba | 251 |
+| 124 | Tamika Whitmore | 251 |
+| 126 | Jonquel Jones | 246 |
+| 126 | Sami Whitcomb | 246 |
+| 128 | Latasha Byears | 245 |
+| 129 | Alex Bentley | 244 |
+| 130 | Ivory Latta | 243 |
+| 131 | Erlana Larkins | 242 |
+| 132 | Shavonte Zellous | 241 |
+| 133 | Coco Miller | 237 |
+| 134 | Marissa Coleman | 236 |
+| 135 | Nikki McCray | 235 |
+| 136 | Merlakia Jones | 232 |
+| 137 | Ruth Riley | 231 |
+| 138 | Scholanda Dorrell | 230 |
+| 139 | Kara Lawson | 229 |
+| 140 | Wendy Palmer | 226 |
+| 141 | Alexis Hornbuckle | 225 |
+| 142 | Cheryl Ford | 224 |
+| 143 | Rushia Brown | 221 |
+| 144 | DeMya Walker | 220 |
+| 144 | Jennifer Gillom | 220 |
+| 146 | Allison Feaster | 219 |
+| 147 | Kelsey Mitchell | 217 |
+| 147 | Shenise Johnson | 217 |
+| 149 | Adrian Williams-Strong | 216 |
+| 149 | Moriah Jefferson | 216 |
+| 151 | Asjha Jones | 215 |
+| 151 | Candice Wiggins | 215 |
+| 151 | Elena Baranova | 215 |
+| 154 | Cheyenne Parker-Tyus | 213 |
+| 154 | Shekinna Stricklen | 213 |
+| 156 | Nikki Teasley | 211 |
+| 157 | Rhyne Howard | 210 |
+| 158 | Iziane Castro Marques | 209 |
+| 158 | Tiffany Mitchell | 209 |
+| 160 | Kia Vaughn | 208 |
+| 160 | Sophia Witherspoon | 208 |
+| 162 | Kahleah Copper | 207 |
+| 163 | Shameka Christon | 205 |
+| 164 | Jessica Breland | 204 |
+| 164 | Murriel Page | 204 |
+| 164 | Shatori Walker-Kimbrough | 204 |
+| 167 | Adrienne Goodson | 203 |
+| 168 | Betnijah Laney-Hamilton | 202 |
+| 169 | Azurá Stevens | 201 |
+| 169 | Marina Mabrey | 201 |
+| 171 | Allie Quigley | 198 |
+| 172 | Layshia Clarendon | 195 |
+| 173 | Sonja Henning | 194 |
+| 173 | Tierra Ruffin-Pratt | 194 |
+| 175 | Cynthia Cooper | 192 |
+| 176 | Tamicha Jackson | 188 |
+| 177 | Michele Timms | 187 |
+| 178 | Charde Houston | 185 |
+| 178 | Tiffany Jackson | 185 |
+| 180 | Erin Perperoglou | 184 |
+| 180 | Natisha Hiedeman | 184 |
+| 182 | Alanna Smith | 182 |
+| 182 | Erin Phillips | 182 |
+| 182 | Sabrina Ionescu | 182 |
+| 185 | Myisha Hines-Allen | 181 |
+| 185 | Nakia Sanford | 181 |
+| 185 | Rebecca Allen | 181 |
+| 188 | Diamond DeShields | 180 |
+| 188 | Isabelle Harrison | 180 |
+| 190 | Bridget Pettis | 177 |
+| 191 | Brittany Boyd-Jones | 176 |
+| 191 | Chiney Ogwumike | 176 |
+| 193 | Tamika Raymond | 175 |
+| 194 | Elena Delle Donne | 174 |
+| 194 | Ezi Magbegor | 174 |
+| 194 | Margo Dydek | 174 |
+| 197 | Kamila Vodichkova | 173 |
+| 198 | Monique Billings | 170 |
+| 199 | Kara Braxton | 168 |
+| 199 | Sugar Rodgers | 168 |
+
+## Three-pointers
+
+| Rank | Player | Total |
+|-----:|--------|------:|
+| 1 | Diana Taurasi | 1,440 |
+| 2 | Sue Bird | 1,001 |
+| 3 | Katie Smith | 906 |
+| 4 | Becky Hammon | 825 |
+| 5 | Tina Thompson | 745 |
+| 6 | Katie Douglas | 723 |
+| 7 | Kayla McBride | 722 |
+| 8 | Kelsey Mitchell | 669 |
+| 9 | Jewell Loyd | 667 |
+| 10 | DeWanna Bonner | 663 |
+| 11 | Kristi Toliver | 651 |
+| 12 | Tamika Catchings | 605 |
+| 13 | Kelsey Plum | 588 |
+| 14 | Kara Lawson | 583 |
+| 15 | Nicole Powell | 579 |
+| 16 | Arike Ogunbowale | 545 |
+| 17 | Ivory Latta | 536 |
+| 18 | Renee Montgomery | 532 |
+| 19 | Maya Moore | 530 |
+| 20 | Sami Whitcomb | 511 |
+| 21 | Allie Quigley | 510 |
+| 22 | Leilani Mitchell | 508 |
+| 23 | Shekinna Stricklen | 468 |
+| 24 | Cappie Pondexter | 464 |
+| 25 | Sabrina Ionescu | 460 |
+| 26 | Breanna Stewart | 454 |
+| 27 | Tiffany Hayes | 447 |
+| 28 | Ariel Atkins | 440 |
+| 29 | Lauren Jackson | 436 |
+| 29 | Marina Mabrey | 436 |
+| 31 | Shameka Christon | 434 |
+| 32 | Allisha Gray | 426 |
+| 33 | Crystal Robinson | 425 |
+| 33 | Skylar Diggins | 425 |
+| 35 | Mwadi Mabika | 415 |
+| 36 | Chelsea Gray | 410 |
+| 37 | Penny Taylor | 407 |
+| 37 | Riquna Williams | 407 |
+| 39 | Jia Perkins | 396 |
+| 40 | Alysha Clark | 390 |
+| 41 | Roneeka Hodges | 389 |
+| 42 | Courtney Vandersloot | 385 |
+| 43 | Briann January | 381 |
+| 44 | Jasmine Thomas | 376 |
+| 45 | Allison Feaster | 372 |
+| 45 | Betty Lennox | 372 |
+| 45 | Rachel Banham | 372 |
+| 48 | Epiphanny Prince | 368 |
+| 49 | Rhyne Howard | 366 |
+| 50 | Jonquel Jones | 356 |
+| 50 | Kia Nurse | 356 |
+| 52 | Nykesha Sales | 352 |
+| 53 | Cathrine Kraayeveld | 343 |
+| 53 | Elena Delle Donne | 343 |
+| 55 | Candace Parker | 342 |
+| 56 | Kahleah Copper | 341 |
+| 57 | Deanna Nolan | 340 |
+| 58 | Anna DeForge | 334 |
+| 59 | Natasha Cloud | 331 |
+| 60 | Erica Wheeler | 320 |
+| 61 | Sugar Rodgers | 317 |
+| 62 | Marissa Coleman | 315 |
+| 63 | Shannon Johnson | 313 |
+| 64 | DeLisha Milton-Jones | 312 |
+| 64 | Ruthie Bolton | 312 |
+| 66 | Jackie Young | 311 |
+| 66 | Tan White | 311 |
+| 68 | Kedra Holland-Corn | 307 |
+| 69 | Kelly Miller | 305 |
+| 69 | Sophie Cunningham | 305 |
+| 71 | Nikki Teasley | 304 |
+| 72 | Vickie Johnson | 295 |
+| 73 | Seimone Augustus | 293 |
+| 74 | Candice Wiggins | 290 |
+| 74 | Tully Bevilaqua | 290 |
+| 76 | Alana Beard | 288 |
+| 77 | Monique Currie | 284 |
+| 77 | Natisha Hiedeman | 284 |
+| 79 | Iziane Castro Marques | 275 |
+| 80 | Kayla Thornton | 270 |
+| 80 | Sheryl Swoopes | 270 |
+| 82 | Stefanie Dolson | 266 |
+| 83 | Bridget Carleton | 262 |
+| 84 | Sophia Witherspoon | 260 |
+| 85 | Dawn Staley | 254 |
+| 86 | Bria Hartley | 253 |
+| 86 | Courtney Williams | 253 |
+| 88 | Rebecca Allen | 252 |
+| 89 | Angel McCoughtry | 249 |
+| 90 | Erin Thorn | 243 |
+| 91 | Alex Bentley | 239 |
+| 91 | Cynthia Cooper | 239 |
+| 93 | Azurá Stevens | 238 |
+| 94 | Svetlana Abrosimova | 235 |
+| 94 | Tangela Smith | 235 |
+| 96 | Stacey Dales | 232 |
+| 97 | Brittney Sykes | 231 |
+| 97 | Nneka Ogwumike | 231 |
+| 99 | Odyssey Sims | 229 |
+| 100 | Elena Baranova | 224 |
+| 101 | Essence Carson | 223 |
+| 102 | Kelly Mazzante | 218 |
+| 102 | Sheri Sam | 218 |
+| 104 | Satou Sabally | 212 |
+| 105 | Erin Phillips | 211 |
+| 106 | Andrea Stinson | 207 |
+| 106 | Damiris Dantas | 207 |
+| 108 | Shanna Zolman | 199 |
+| 109 | Betnijah Laney-Hamilton | 197 |
+| 109 | Temeka Johnson | 197 |
+| 109 | Tina Charles | 197 |
+| 112 | Lexie Brown | 194 |
+| 113 | Lindsay Whalen | 193 |
+| 114 | Victoria Vivians | 192 |
+| 115 | Danielle Adams | 188 |
+| 115 | Napheesa Collier | 188 |
+| 117 | Noelle Quinn | 184 |
+| 118 | Karima Christmas-Kelly | 181 |
+| 119 | Aerial Powers | 179 |
+| 119 | Camille Smith | 179 |
+| 121 | Swin Cash | 176 |
+| 122 | Nikki McCray | 175 |
+| 123 | Shatori Walker-Kimbrough | 174 |
+| 123 | Tayler Hill | 174 |
+| 125 | Theresa Plaisance | 172 |
+| 126 | Amanda Lassiter | 170 |
+| 127 | Shavonte Zellous | 167 |
+| 127 | Tianna Hawkins | 167 |
+| 129 | Nia Coffey | 165 |
+| 130 | Charlotte Smith | 164 |
+| 131 | Ukari Figgs | 162 |
+| 132 | Edna Campbell | 161 |
+| 133 | Dana Evans | 160 |
+| 133 | Jennifer Lacy | 160 |
+| 133 | Tyasha Harris | 160 |
+| 136 | Aari McDonald | 158 |
+| 136 | Jennifer Azzi | 158 |
+| 138 | Natasha Howard | 157 |
+| 139 | Bridget Pettis | 153 |
+| 139 | Jennifer Gillom | 153 |
+| 141 | Alanna Smith | 152 |
+| 142 | Caitlin Clark | 151 |
+| 143 | Rita Williams | 150 |
+| 144 | Moriah Jefferson | 149 |
+| 144 | Stephanie Talbot | 149 |
+| 144 | Tiffany Mitchell | 149 |
+| 147 | Diamond DeShields | 147 |
+| 148 | Wendy Palmer | 146 |
+| 149 | Helen Darling | 144 |
+| 149 | Matee Ajavon | 144 |
+| 151 | Shenise Johnson | 143 |
+| 152 | Katie Lou Samuelson | 142 |
+| 153 | Jordan Hooper | 141 |
+| 154 | Coco Miller | 139 |
+| 155 | Dearica Hamby | 138 |
+| 155 | Loree Moore | 138 |
+| 155 | Tanisha Wright | 138 |
+| 158 | Kaleena Mosqueda-Lewis | 137 |
+| 159 | Marine Johannès | 136 |
+| 159 | Michaela Onyenwere | 136 |
+| 161 | Shay Murphy | 134 |
+| 162 | Brooke Wyckoff | 132 |
+| 162 | Jenna O'Hea | 132 |
+| 164 | Karlie Samuelson | 131 |
+| 165 | Amanda Zahui B | 130 |
+| 165 | Eva Nemcova | 130 |
+| 167 | Crystal Dangerfield | 129 |
+| 168 | Ticha Penicheiro | 128 |
+| 169 | Michele Timms | 127 |
+| 169 | Myisha Hines-Allen | 127 |
+| 171 | Tamecka Dixon | 126 |
+| 172 | Charde Houston | 124 |
+| 173 | Lisa Leslie | 123 |
+| 174 | Sidney Spencer | 122 |
+| 175 | Tonya Edwards | 118 |
+| 176 | Gabby Williams | 117 |
+| 177 | Edwige Lawson-Wade | 116 |
+| 177 | Marie Ferdinand-Harris | 116 |
+| 179 | Ebony Hoffman | 115 |
+| 179 | Shey Peddy | 115 |
+| 179 | Stephanie White | 115 |
+| 182 | Gordana Grubin | 114 |
+| 182 | Sandy Brondello | 114 |
+| 184 | Jordin Canada | 111 |
+| 184 | Shoni Schimmel | 111 |
+| 186 | Emma Meesseman | 109 |
+| 186 | Lexie Hull | 109 |
+| 186 | Scholanda Dorrell | 109 |
+| 189 | Belinda Snell | 108 |
+| 189 | Rickea Jackson | 108 |
+| 191 | Kennedy Burke | 107 |
+| 191 | Layshia Clarendon | 107 |
+| 193 | Leonie Fiebich | 106 |
+| 194 | Laurie Koehn | 105 |
+| 195 | Jeanette Pohlen-Mavunga | 103 |
+| 195 | Kiesha Brown | 103 |
+| 197 | Adrienne Johnson | 102 |
+| 198 | Amber Jacobs | 101 |
+| 199 | Veronica Burton | 99 |
+| 200 | Amber Holt | 97 |
+| 200 | Julie Vanloo | 97 |
+
+## Turnovers
+
+| Rank | Player | Total |
+|-----:|--------|------:|
+| 1 | Diana Taurasi | 1,516 |
+| 2 | Sue Bird | 1,393 |
+| 3 | Becky Hammon | 1,219 |
+| 4 | Tina Thompson | 1,213 |
+| 5 | Lisa Leslie | 1,186 |
+| 6 | DeLisha Milton-Jones | 1,173 |
+| 7 | Courtney Vandersloot | 1,145 |
+| 8 | Swin Cash | 1,127 |
+| 9 | Ticha Penicheiro | 1,125 |
+| 10 | Candace Parker | 1,062 |
+| 11 | Tamika Catchings | 1,041 |
+| 12 | Tina Charles | 1,040 |
+| 13 | Lindsay Whalen | 1,002 |
+| 14 | Alyssa Thomas | 965 |
+| 15 | Sylvia Fowles | 961 |
+| 16 | Tanisha Wright | 954 |
+| 17 | Angel McCoughtry | 949 |
+| 18 | Cappie Pondexter | 945 |
+| 19 | Katie Smith | 935 |
+| 20 | Shannon Johnson | 934 |
+| 21 | Taj McWilliams-Franklin | 898 |
+| 22 | Skylar Diggins | 879 |
+| 23 | Candice Dupree | 869 |
+| 23 | Chelsea Gray | 869 |
+| 25 | Alana Beard | 854 |
+| 26 | DeWanna Bonner | 826 |
+| 27 | Katie Douglas | 824 |
+| 28 | Betty Lennox | 800 |
+| 29 | Jasmine Thomas | 796 |
+| 30 | Chamique Holdsclaw | 789 |
+| 31 | Natasha Howard | 784 |
+| 32 | Crystal Langhorne | 782 |
+| 32 | Nneka Ogwumike | 782 |
+| 34 | Jewell Loyd | 780 |
+| 35 | Camille Smith | 779 |
+| 36 | Plenette Pierson | 773 |
+| 37 | Briann January | 771 |
+| 38 | Margo Dydek | 758 |
+| 39 | Tangela Smith | 751 |
+| 40 | Kristi Toliver | 748 |
+| 41 | Brittney Griner | 732 |
+| 42 | Monique Currie | 724 |
+| 43 | Michelle Snow | 723 |
+| 44 | Tamecka Dixon | 716 |
+| 45 | Renee Montgomery | 697 |
+| 46 | Temeka Johnson | 696 |
+| 47 | Penny Taylor | 695 |
+| 48 | Dominique Canty | 685 |
+| 49 | DeMya Walker | 684 |
+| 50 | Asjha Jones | 682 |
+| 51 | Danielle Robinson | 680 |
+| 52 | Sheryl Swoopes | 677 |
+| 53 | Tammy Sutton-Brown | 672 |
+| 54 | Deanna Nolan | 669 |
+| 55 | Chasity Melvin | 666 |
+| 56 | Erica Wheeler | 665 |
+| 56 | Natasha Cloud | 665 |
+| 58 | Vickie Johnson | 660 |
+| 59 | Dearica Hamby | 657 |
+| 60 | Yolanda Griffith | 653 |
+| 61 | Sheri Sam | 650 |
+| 62 | Courtney Williams | 643 |
+| 62 | Dawn Staley | 643 |
+| 64 | Ruth Riley | 637 |
+| 65 | Svetlana Abrosimova | 631 |
+| 66 | Kayla McBride | 622 |
+| 67 | Odyssey Sims | 616 |
+| 68 | Rebekkah Brunson | 615 |
+| 69 | Seimone Augustus | 613 |
+| 70 | Kelsey Plum | 611 |
+| 71 | Jonquel Jones | 606 |
+| 72 | Tiffany Hayes | 605 |
+| 73 | Teresa Weatherspoon | 601 |
+| 74 | Lindsey Harding | 600 |
+| 74 | Tamika Whitmore | 600 |
+| 76 | Kelly Miller | 596 |
+| 77 | Kahleah Copper | 579 |
+| 78 | Helen Darling | 575 |
+| 78 | Nykesha Sales | 575 |
+| 78 | Stefanie Dolson | 575 |
+| 81 | Andrea Stinson | 571 |
+| 82 | Kara Braxton | 570 |
+| 83 | Nikki McCray | 565 |
+| 84 | Sancho Lyttle | 563 |
+| 85 | Tan White | 557 |
+| 86 | Brittney Sykes | 556 |
+| 87 | Kelsey Mitchell | 549 |
+| 87 | Lauren Jackson | 549 |
+| 89 | Breanna Stewart | 545 |
+| 90 | Matee Ajavon | 544 |
+| 91 | Adrienne Goodson | 542 |
+| 92 | Layshia Clarendon | 536 |
+| 93 | Ivory Latta | 534 |
+| 93 | Iziane Castro Marques | 534 |
+| 95 | Mwadi Mabika | 532 |
+| 96 | Nakia Sanford | 531 |
+| 97 | Maya Moore | 527 |
+| 98 | Kara Lawson | 526 |
+| 99 | Leilani Mitchell | 525 |
+| 99 | Nicole Powell | 525 |
+| 101 | Marie Ferdinand-Harris | 518 |
+| 102 | Sabrina Ionescu | 517 |
+| 102 | Shavonte Zellous | 517 |
+| 102 | Wendy Palmer | 517 |
+| 105 | Tully Bevilaqua | 514 |
+| 106 | Jia Perkins | 513 |
+| 107 | Arike Ogunbowale | 503 |
+| 108 | Tamera Young | 501 |
+| 109 | Nikki Teasley | 493 |
+| 109 | Tari Phillips | 493 |
+| 111 | Janel McCarville | 491 |
+| 112 | Jordin Canada | 489 |
+| 113 | Erika de Souza | 483 |
+| 113 | Marina Mabrey | 483 |
+| 115 | Sophia Young-Malcolm | 482 |
+| 116 | Natalie Williams | 480 |
+| 117 | Ebony Hoffman | 470 |
+| 118 | Elaine Powell | 469 |
+| 119 | Allie Quigley | 467 |
+| 120 | Kia Vaughn | 454 |
+| 121 | Janeth Arcain | 453 |
+| 122 | Allisha Gray | 449 |
+| 123 | Elena Baranova | 444 |
+| 123 | Jantel Lavender | 444 |
+| 125 | A'ja Wilson | 441 |
+| 126 | Ann Wauters | 440 |
+| 127 | Tiffany Mitchell | 439 |
+| 128 | Kedra Holland-Corn | 438 |
+| 129 | Alysha Clark | 437 |
+| 129 | Ariel Atkins | 437 |
+| 131 | Betnijah Laney-Hamilton | 435 |
+| 131 | Cheyenne Parker-Tyus | 435 |
+| 133 | Jennifer Gillom | 434 |
+| 133 | Nicole Ohlde | 434 |
+| 135 | Murriel Page | 432 |
+| 136 | Jackie Young | 424 |
+| 136 | Shameka Christon | 424 |
+| 138 | Cynthia Cooper | 422 |
+| 138 | Napheesa Collier | 422 |
+| 138 | Noelle Quinn | 422 |
+| 141 | Bria Hartley | 419 |
+| 142 | Sami Whitcomb | 416 |
+| 143 | Coco Miller | 410 |
+| 144 | Epiphanny Prince | 408 |
+| 145 | Cathrine Kraayeveld | 406 |
+| 146 | Essence Carson | 405 |
+| 147 | Liz Cambage | 403 |
+| 148 | Merlakia Jones | 398 |
+| 149 | Glory Johnson | 397 |
+| 150 | Marissa Coleman | 396 |
+| 151 | Sophia Witherspoon | 386 |
+| 152 | Hamchetou Maiga-Ba | 385 |
+| 153 | Kamila Vodichkova | 381 |
+| 154 | Jessica Breland | 378 |
+| 155 | Armintie Herrington | 377 |
+| 156 | Elizabeth Williams | 376 |
+| 157 | Anna DeForge | 374 |
+| 157 | Cheryl Ford | 374 |
+| 159 | Allison Feaster | 372 |
+| 160 | Emma Meesseman | 367 |
+| 161 | Myisha Hines-Allen | 363 |
+| 162 | Latasha Byears | 360 |
+| 163 | Vicky Bullett | 359 |
+| 164 | Tiffany Jackson | 354 |
+| 165 | Adrian Williams-Strong | 353 |
+| 166 | Candice Wiggins | 349 |
+| 167 | Janell Burse | 347 |
+| 168 | Brionna Jones | 346 |
+| 169 | Loree Moore | 339 |
+| 170 | Charlotte Smith | 337 |
+| 171 | Scholanda Dorrell | 335 |
+| 172 | Teaira McCowan | 334 |
+| 173 | Aerial Powers | 333 |
+| 173 | Diamond DeShields | 333 |
+| 175 | Charde Houston | 331 |
+| 176 | Erlana Larkins | 326 |
+| 176 | Rita Williams | 326 |
+| 178 | Le'coe Willingham | 325 |
+| 179 | Olympia Scott | 324 |
+| 180 | Satou Sabally | 323 |
+| 181 | Barbara Farris | 315 |
+| 182 | Moriah Jefferson | 314 |
+| 183 | Alex Bentley | 313 |
+| 183 | Kia Nurse | 313 |
+| 185 | Tamika Raymond | 311 |
+| 186 | Erin Perperoglou | 305 |
+| 186 | Gabby Williams | 305 |
+| 186 | Jennifer Lacy | 305 |
+| 189 | Tianna Hawkins | 303 |
+| 190 | Isabelle Harrison | 300 |
+| 190 | Monique Billings | 300 |
+| 192 | Crystal Robinson | 299 |
+| 193 | Michele Timms | 297 |
+| 194 | Caitlin Clark | 289 |
+| 195 | Alexis Hornbuckle | 288 |
+| 195 | Kristen Rasmussen | 288 |
+| 197 | Azurá Stevens | 286 |
+| 197 | Kayla Thornton | 286 |
+| 199 | Bridget Pettis | 284 |
+| 199 | Rachel Banham | 284 |
+
+## Personal fouls
+
+| Rank | Player | Total |
+|-----:|--------|------:|
+| 1 | Diana Taurasi | 1,732 |
+| 2 | DeLisha Milton-Jones | 1,574 |
+| 3 | Tangela Smith | 1,396 |
+| 4 | Lisa Leslie | 1,391 |
+| 5 | Tina Thompson | 1,270 |
+| 6 | Tamika Catchings | 1,229 |
+| 7 | Ruth Riley | 1,215 |
+| 8 | Katie Smith | 1,199 |
+| 9 | Tammy Sutton-Brown | 1,193 |
+| 10 | Plenette Pierson | 1,175 |
+| 11 | Chasity Melvin | 1,165 |
+| 12 | Camille Smith | 1,159 |
+| 13 | Alana Beard | 1,153 |
+| 14 | Swin Cash | 1,146 |
+| 15 | Taj McWilliams-Franklin | 1,145 |
+| 16 | Monique Currie | 1,137 |
+| 17 | Nneka Ogwumike | 1,131 |
+| 18 | Tanisha Wright | 1,109 |
+| 19 | Michelle Snow | 1,108 |
+| 20 | Natasha Howard | 1,088 |
+| 21 | Stefanie Dolson | 1,079 |
+| 22 | Sylvia Fowles | 1,049 |
+| 23 | Tina Charles | 1,037 |
+| 24 | Lindsay Whalen | 998 |
+| 25 | Rebekkah Brunson | 996 |
+| 26 | Tiffany Hayes | 991 |
+| 26 | Yolanda Griffith | 991 |
+| 28 | Lauren Jackson | 982 |
+| 29 | Nakia Sanford | 979 |
+| 30 | Asjha Jones | 971 |
+| 31 | Brittney Griner | 965 |
+| 32 | Margo Dydek | 950 |
+| 33 | Sancho Lyttle | 947 |
+| 34 | Mwadi Mabika | 941 |
+| 35 | Tamika Whitmore | 940 |
+| 36 | Courtney Vandersloot | 938 |
+| 37 | Alyssa Thomas | 925 |
+| 38 | Briann January | 921 |
+| 39 | Ticha Penicheiro | 913 |
+| 40 | Shavonte Zellous | 907 |
+| 41 | DeWanna Bonner | 891 |
+| 42 | Alysha Clark | 883 |
+| 43 | DeMya Walker | 882 |
+| 44 | Candice Dupree | 876 |
+| 45 | Murriel Page | 872 |
+| 46 | Cappie Pondexter | 869 |
+| 47 | Jonquel Jones | 860 |
+| 48 | Erika de Souza | 858 |
+| 49 | Angel McCoughtry | 857 |
+| 50 | Betty Lennox | 851 |
+| 51 | Tamecka Dixon | 849 |
+| 52 | Natalie Williams | 847 |
+| 52 | Tamera Young | 847 |
+| 54 | Candace Parker | 834 |
+| 55 | Penny Taylor | 832 |
+| 56 | Dominique Canty | 831 |
+| 56 | Wendy Palmer | 831 |
+| 58 | Shannon Johnson | 813 |
+| 58 | Tully Bevilaqua | 813 |
+| 60 | Dearica Hamby | 798 |
+| 61 | Nykesha Sales | 796 |
+| 62 | Ebony Hoffman | 791 |
+| 63 | Skylar Diggins | 790 |
+| 64 | Sue Bird | 775 |
+| 65 | Sheri Sam | 766 |
+| 66 | Erica Wheeler | 758 |
+| 67 | Kia Vaughn | 755 |
+| 68 | Vickie Johnson | 752 |
+| 69 | Kara Braxton | 748 |
+| 70 | Crystal Langhorne | 737 |
+| 71 | Shameka Christon | 734 |
+| 72 | Becky Hammon | 733 |
+| 73 | Latasha Byears | 730 |
+| 74 | Kristi Toliver | 722 |
+| 75 | Natasha Cloud | 718 |
+| 76 | Kahleah Copper | 715 |
+| 77 | Cheryl Ford | 713 |
+| 78 | Jia Perkins | 711 |
+| 79 | Helen Darling | 709 |
+| 80 | Elizabeth Williams | 708 |
+| 81 | Allisha Gray | 706 |
+| 82 | Matee Ajavon | 701 |
+| 82 | Nicole Powell | 701 |
+| 84 | Tan White | 698 |
+| 85 | Katie Douglas | 697 |
+| 86 | Danielle Robinson | 692 |
+| 87 | Sophia Young-Malcolm | 687 |
+| 88 | Maya Moore | 686 |
+| 89 | Jasmine Thomas | 685 |
+| 90 | Ariel Atkins | 684 |
+| 90 | Leilani Mitchell | 684 |
+| 92 | Crystal Robinson | 682 |
+| 93 | Jennifer Lacy | 680 |
+| 93 | Temeka Johnson | 680 |
+| 95 | Kelly Miller | 676 |
+| 96 | Chamique Holdsclaw | 667 |
+| 97 | Brittney Sykes | 662 |
+| 97 | Tianna Hawkins | 662 |
+| 99 | Cheyenne Parker-Tyus | 660 |
+| 100 | Kelsey Plum | 658 |
+| 101 | Tari Phillips | 648 |
+| 102 | Marie Ferdinand-Harris | 646 |
+| 103 | Jewell Loyd | 644 |
+| 104 | Breanna Stewart | 640 |
+| 105 | Charlotte Smith | 638 |
+| 105 | Kayla Thornton | 638 |
+| 107 | Janell Burse | 632 |
+| 108 | Nicole Ohlde | 631 |
+| 109 | Jennifer Gillom | 629 |
+| 110 | Deanna Nolan | 628 |
+| 111 | Brionna Jones | 625 |
+| 112 | Teaira McCowan | 618 |
+| 113 | Courtney Paris | 617 |
+| 114 | Coco Miller | 615 |
+| 115 | Brooke Wyckoff | 614 |
+| 116 | Svetlana Abrosimova | 613 |
+| 117 | Layshia Clarendon | 609 |
+| 118 | Kiah Stokes | 605 |
+| 119 | Tiffany Mitchell | 604 |
+| 120 | Chelsea Gray | 603 |
+| 121 | Janel McCarville | 597 |
+| 121 | Odyssey Sims | 597 |
+| 123 | Kamila Vodichkova | 596 |
+| 124 | Teresa Weatherspoon | 589 |
+| 125 | Emma Meesseman | 585 |
+| 126 | Chiney Ogwumike | 580 |
+| 126 | Hamchetou Maiga-Ba | 580 |
+| 126 | Olympia Scott | 580 |
+| 129 | Kelsey Mitchell | 579 |
+| 130 | Ezi Magbegor | 576 |
+| 131 | Le'coe Willingham | 571 |
+| 132 | Ashley Robinson | 567 |
+| 133 | Arike Ogunbowale | 565 |
+| 133 | Ivory Latta | 565 |
+| 135 | Barbara Farris | 563 |
+| 136 | Jessica Breland | 562 |
+| 137 | Courtney Williams | 553 |
+| 138 | Dawn Staley | 551 |
+| 139 | Glory Johnson | 550 |
+| 139 | Tierra Ruffin-Pratt | 550 |
+| 141 | Erlana Larkins | 546 |
+| 142 | Jayne Appel Marinelli | 543 |
+| 142 | Renee Montgomery | 543 |
+| 144 | Marissa Coleman | 541 |
+| 145 | Kristen Rasmussen | 533 |
+| 146 | Amanda Zahui B | 530 |
+| 147 | Candice Wiggins | 525 |
+| 147 | Epiphanny Prince | 525 |
+| 149 | Armintie Herrington | 523 |
+| 150 | Marina Mabrey | 522 |
+| 151 | A'ja Wilson | 521 |
+| 152 | Sheryl Swoopes | 519 |
+| 153 | Nikki McCray | 517 |
+| 154 | Alex Bentley | 516 |
+| 154 | Damiris Dantas | 516 |
+| 156 | Jantel Lavender | 513 |
+| 157 | Adrienne Goodson | 512 |
+| 157 | Janeth Arcain | 512 |
+| 159 | Andrea Stinson | 511 |
+| 160 | Kayla McBride | 507 |
+| 160 | Vicky Bullett | 507 |
+| 162 | Merlakia Jones | 506 |
+| 163 | Rushia Brown | 505 |
+| 163 | Shekinna Stricklen | 505 |
+| 165 | Allison Feaster | 504 |
+| 165 | Erin Perperoglou | 504 |
+| 165 | Napheesa Collier | 504 |
+| 165 | Sophie Cunningham | 504 |
+| 169 | Jackie Young | 503 |
+| 170 | Iziane Castro Marques | 502 |
+| 170 | Monique Billings | 502 |
+| 172 | Elena Baranova | 501 |
+| 173 | Adrian Williams-Strong | 497 |
+| 173 | Essence Carson | 497 |
+| 175 | Karima Christmas-Kelly | 494 |
+| 176 | Ann Wauters | 493 |
+| 176 | Myisha Hines-Allen | 493 |
+| 176 | Riquna Williams | 493 |
+| 179 | Charde Houston | 487 |
+| 180 | Lindsey Harding | 486 |
+| 181 | Cathrine Kraayeveld | 484 |
+| 181 | Isabelle Harrison | 484 |
+| 183 | Liz Cambage | 483 |
+| 183 | Rhonda Mapp | 483 |
+| 185 | Sami Whitcomb | 480 |
+| 186 | Seimone Augustus | 477 |
+| 187 | Allie Quigley | 475 |
+| 188 | Rachel Banham | 472 |
+| 189 | Azurá Stevens | 463 |
+| 189 | Christi Thomas | 463 |
+| 189 | Kia Nurse | 463 |
+| 189 | Nikki Teasley | 463 |
+| 193 | Sue Wicks | 462 |
+| 194 | Natalie Achonwa | 459 |
+| 195 | Kara Lawson | 457 |
+| 196 | Alexis Hornbuckle | 450 |
+| 197 | Bria Hartley | 448 |
+| 197 | Nia Coffey | 448 |
+| 199 | Diamond DeShields | 445 |
+| 199 | Sugar Rodgers | 445 |

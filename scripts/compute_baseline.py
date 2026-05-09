@@ -30,6 +30,8 @@ LB_PATH = ROOT / "data" / "leaderboards.json"
 ET_PATH = ROOT / "data" / "entering_totals.json"
 ALL_PATH = ROOT / "data" / "all_career_totals.json"
 LB_MD_PATH = ROOT / "LEADERBOARDS.md"
+LIVE_JSON_PATH = ROOT / "data" / "leaderboards_live.json"
+MILESTONES_LOG_PATH = ROOT / "data" / "milestones_log.json"
 
 STATS = ["PTS", "REB", "AST", "BLK", "STL", "FG3M", "TOV", "PF"]
 TOP_N = 200
@@ -180,6 +182,25 @@ def main() -> int:
         last_updated_utc=dt.datetime.now(dt.timezone.utc),
     )
     print(f"Wrote {LB_MD_PATH}")
+
+    # ---- Live JSON snapshot used by index.html (no live overlay) ----
+    # Preserve any existing milestone history when regenerating
+    recent = []
+    if MILESTONES_LOG_PATH.exists():
+        try:
+            recent = json.loads(MILESTONES_LOG_PATH.read_text())
+        except json.JSONDecodeError:
+            recent = []
+    leaderboard.render_live_json(
+        all_totals=all_totals,
+        overrides={},
+        active_pids_in_games=set(),
+        active_games=[],
+        recent_milestones=list(reversed(recent)),
+        out_path=LIVE_JSON_PATH,
+        last_updated_utc=dt.datetime.now(dt.timezone.utc),
+    )
+    print(f"Wrote {LIVE_JSON_PATH}")
 
     # Spot-check Stewart
     stew = next((v for v in entering.values() if "stewart" in v["norm_name"]
