@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-09 00:44 UTC_
+_Last updated: 2026-05-09 00:48 UTC_
 
 ## Contents
 
@@ -118,7 +118,7 @@ _Last updated: 2026-05-09 00:44 UTC_
 | 97 | Emma Meesseman | 2,966 |
 | 98 | Natalie Williams | 2,894 |
 | 99 | Jennifer Gillom | 2,888 |
-| 100 | **Marina Mabrey** 🔴 +13 | 2,880 |
+| 100 | **Marina Mabrey** 🔴 +16 | 2,883 |
 | 101 | Natasha Cloud | 2,863 |
 | 102 | Iziane Castro Marques | 2,862 |
 | 103 | Elizabeth Williams | 2,841 |
@@ -388,8 +388,8 @@ _Last updated: 2026-05-09 00:44 UTC_
 | 162 | Amanda Zahui B | 819 |
 | 162 | Barbara Farris | 819 |
 | 164 | Carolyn Swords | 814 |
-| 165 | Jessica Shepard | 813 |
-| 166 | **Marina Mabrey** 🔴 +1 | 812 |
+| 164 | **Marina Mabrey** 🔴 +3 | 814 |
+| 166 | Jessica Shepard | 813 |
 | 167 | Tierra Ruffin-Pratt | 799 |
 | 168 | Nia Coffey | 795 |
 | 169 | Charlotte Smith | 794 |
@@ -424,6 +424,7 @@ _Last updated: 2026-05-09 00:44 UTC_
 | 198 | Allie Quigley | 702 |
 | 199 | Epiphanny Prince | 701 |
 | 200 | LaToya Sanders | 695 |
+| 200 | **Shakira Austin** 🔴 +6 | 695 |
 
 ## Assists
 
@@ -904,9 +905,9 @@ _Last updated: 2026-05-09 00:44 UTC_
 | 63 | Dominique Canty | 356 |
 | 63 | Renee Montgomery | 356 |
 | 65 | Tamecka Dixon | 355 |
+| 66 | **Brittney Sykes** 🔴 +2 | 353 |
 | 66 | Vicky Bullett | 353 |
-| 67 | **Brittney Sykes** 🔴 +1 | 352 |
-| 67 | Svetlana Abrosimova | 352 |
+| 68 | Svetlana Abrosimova | 352 |
 | 69 | Allisha Gray | 349 |
 | 70 | Janeth Arcain | 346 |
 | 71 | Helen Darling | 343 |
@@ -1072,7 +1073,7 @@ _Last updated: 2026-05-09 00:44 UTC_
 | 26 | **Breanna Stewart** 🔴 | 454 |
 | 27 | Tiffany Hayes | 447 |
 | 28 | Ariel Atkins | 440 |
-| 29 | **Marina Mabrey** 🔴 +1 | 437 |
+| 29 | **Marina Mabrey** 🔴 +2 | 438 |
 | 30 | Lauren Jackson | 436 |
 | 31 | Shameka Christon | 434 |
 | 32 | Allisha Gray | 426 |
@@ -1333,8 +1334,8 @@ _Last updated: 2026-05-09 00:44 UTC_
 | 82 | Kara Braxton | 570 |
 | 83 | Nikki McCray | 565 |
 | 84 | Sancho Lyttle | 563 |
+| 85 | **Brittney Sykes** 🔴 +1 | 557 |
 | 85 | Tan White | 557 |
-| 86 | **Brittney Sykes** 🔴 | 556 |
 | 87 | Kelsey Mitchell | 549 |
 | 87 | Lauren Jackson | 549 |
 | 89 | **Breanna Stewart** 🔴 +2 | 547 |
