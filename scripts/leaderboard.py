@@ -136,14 +136,32 @@ def render_live_json(all_totals, overrides, active_pids_in_games, active_games,
     Read by index.html for the live dashboard.
 
     active_games — list of dicts with {short, status, in_progress}
-    recent_milestones — list of dicts with {ts, text, kind, ...}
+    recent_milestones — list of dicts with {ts, text, kind, player, ...}
     leaderboards — optional top-200 baseline ranks (used to compute rank-up
                    indicators on live rows)
     """
     last_updated_utc = last_updated_utc or dt.datetime.now(dt.timezone.utc)
 
+    # Aggregate today's passes per (stat, player) so the dashboard can show
+    # "passed X, Y" inline next to live overlays. Keyed by (stat_label, player_name).
+    today_prefix = last_updated_utc.strftime("%Y-%m-%d")
+    passes_today_by_key = {}
+    for entry in (recent_milestones or []):
+        if not entry.get("ts", "").startswith(today_prefix):
+            continue
+        if entry.get("kind") != "rank_pass":
+            continue
+        stat = entry.get("stat")
+        player = entry.get("player")
+        passed = entry.get("passed_players")
+        if not (stat and player and passed):
+            continue
+        key = (stat, player)
+        passes_today_by_key.setdefault(key, []).extend(passed)
+
     stats_block = {}
     for stat in STATS:
+        stat_label = STAT_TITLE[stat].lower()  # 'Points' -> 'points' (matches MD output)
         rows = build_ranked_rows(all_totals, stat, overrides,
                                  active_pids_in_games, leaderboards)
         stats_block[stat] = {
@@ -156,13 +174,16 @@ def render_live_json(all_totals, overrides, active_pids_in_games, active_games,
                     "live": r["is_live"],
                     "delta": r["delta"],
                     "baseline_rank": r.get("baseline_rank"),
+                    "passed_today": passes_today_by_key.get(
+                        (stat_label, r["player_name"]), []
+                    ),
                 }
                 for r in rows
             ],
         }
 
     payload = {
-        "schema_version": 2,
+        "schema_version": 3,
         "last_polled_utc": last_updated_utc.isoformat(),
         "active_games": active_games or [],
         "stats": stats_block,
