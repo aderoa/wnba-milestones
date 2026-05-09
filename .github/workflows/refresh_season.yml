@@ -44,6 +44,7 @@ jobs:
       - name: Fetch current-season totals from stats.wnba.com
         env:
           CURRENT_SEASON: ${{ github.event.inputs.season || '2026-27' }}
+        continue-on-error: true
         run: python scripts/refresh_season.py
 
       - name: Regenerate baseline + leaderboard
@@ -55,7 +56,7 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data/season_current.json data/leaderboards.json \
                   data/entering_totals.json data/all_career_totals.json \
-                  LEADERBOARDS.md 2>/dev/null || true
+                  data/leaderboards_live.json LEADERBOARDS.md 2>/dev/null || true
           if git diff --cached --quiet; then
             echo "No changes to commit (no games yet, or already up to date)."
           else
