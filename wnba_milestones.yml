@@ -1,0 +1,79 @@
+name: WNBA Milestones Tracker
+
+# Polls ESPN every 2 minutes during WNBA game windows, detects career milestone
+# crossings (top-200 rank passes + multiples of 100) for active players, and
+# emails a digest via Resend when any fire.
+#
+# Window: 22:00 UTC – 06:00 UTC (covers all WNBA tip times across US time zones,
+# including doubleheaders that end past midnight ET).
+
+on:
+  schedule:
+    # Every 2 minutes from 22:00 UTC (= 3 PM PT / 6 PM ET) through 05:58 UTC
+    # next day, covering the full game window.
+    - cron: '*/2 22-23 * * *'
+    - cron: '*/2 0-5 * * *'
+  workflow_dispatch:
+    inputs:
+      force_game:
+        description: "Force-poll a specific ESPN event ID (testing only)"
+        required: false
+        default: ""
+      dry_run:
+        description: "If 'true', skip sending email"
+        required: false
+        default: "false"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: wnba-milestones
+  cancel-in-progress: false
+
+jobs:
+  track:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install deps
+        run: pip install requests pandas
+
+      - name: Ensure baseline files exist
+        run: |
+          if [ ! -f data/leaderboards.json ] || [ ! -f data/entering_totals.json ]; then
+            echo "Baseline missing — regenerating from CSV"
+            python scripts/compute_baseline.py
+          fi
+
+      - name: Run live tracker
+        run: |
+          ARGS=""
+          if [ "${{ github.event.inputs.dry_run }}" = "true" ]; then
+            ARGS="$ARGS --dry-run"
+          fi
+          if [ -n "${{ github.event.inputs.force_game }}" ]; then
+            ARGS="$ARGS --force-game ${{ github.event.inputs.force_game }}"
+          fi
+          python scripts/track.py $ARGS
+
+      - name: Commit state files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add MILESTONES.md LEADERBOARDS.md data/fired_milestones.json data/unmatched_names.json 2>/dev/null || true
+          if git diff --cached --quiet; then
+            echo "No state changes to commit."
+          else
+            git commit -m "track: update milestone state"
+            # Pull-rebase to handle the rare race where two cron ticks overlap
+            git pull --rebase --autostash origin "${GITHUB_REF_NAME}" || true
+            git push
+          fi

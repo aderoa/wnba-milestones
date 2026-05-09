@@ -1,0 +1,65 @@
+name: WNBA Daily Season Refresh
+
+# Once a day, after all WNBA games have wrapped, fetch current-season player
+# totals from stats.wnba.com and regenerate the baseline files. Keeps the
+# leaderboard and milestone-detection thresholds correct across days without
+# requiring you to touch the CSV pipeline.
+#
+# Schedule: 11:00 UTC = 4:00 AM PT / 7:00 AM ET. Latest WNBA games end ~5:00 UTC,
+# so 11:00 gives ~6 hours of buffer. Earliest next-day games tip ~17:00 UTC,
+# leaving another 6 hours of margin before the live tracker resumes.
+
+on:
+  schedule:
+    - cron: '0 11 * * *'
+  workflow_dispatch:
+    inputs:
+      season:
+        description: "Override season label (default: 2026-27)"
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+
+concurrency:
+  group: wnba-season-refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install deps
+        run: pip install requests pandas nba_api
+
+      - name: Fetch current-season totals from stats.wnba.com
+        env:
+          CURRENT_SEASON: ${{ github.event.inputs.season || '2026-27' }}
+        run: python scripts/refresh_season.py
+
+      - name: Regenerate baseline + leaderboard
+        run: python scripts/compute_baseline.py
+
+      - name: Commit refreshed state
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/season_current.json data/leaderboards.json \
+                  data/entering_totals.json data/all_career_totals.json \
+                  LEADERBOARDS.md 2>/dev/null || true
+          if git diff --cached --quiet; then
+            echo "No changes to commit (no games yet, or already up to date)."
+          else
+            git commit -m "refresh: daily season totals + baseline"
+            git pull --rebase --autostash origin "${GITHUB_REF_NAME}" || true
+            git push
+          fi
