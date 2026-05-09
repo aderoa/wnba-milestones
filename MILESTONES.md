@@ -2,6 +2,28 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-09 05:36 UTC
+
+- **Kayla Thornton** passed **Shekinna Stricklen** for **#135** all-time in points (career 2,248) — up from #138 entering today — _Final — GS @ SEA_
+- **Kayla Thornton** tied **Alanna Smith** for **#185** all-time in assists (career 355) — up from #187 entering today — _Final — GS @ SEA_
+- **Kayla Thornton** tied **Merlakia Jones** for **#186** all-time in assists (career 355) — up from #187 entering today — _Final — GS @ SEA_
+- **Kayla Thornton** tied **Alexis Hornbuckle** for **#195** all-time in turnovers (career 288) — up from #198 entering today — _Final — GS @ SEA_
+- **Kayla Thornton** tied **Kristen Rasmussen** for **#196** all-time in turnovers (career 288) — up from #198 entering today — _Final — GS @ SEA_
+- **Kayla Thornton** passed **Azurá Stevens** for **#197** all-time in turnovers (career 288) — up from #198 entering today — _Final — GS @ SEA_
+- **Kayla Thornton** tied **Breanna Stewart** for **#104** all-time in fouls (career 640) — up from #106 entering today — _Final — GS @ SEA_
+- **Gabby Williams** passed **Michele Timms** for **#117** all-time in assists (career 550) — up from #118 entering today — _Final — GS @ SEA_
+- **Gabby Williams** tied **Tonya Edwards** for **#175** all-time in three-pointers (career 118) — up from #176 entering today — _Final — GS @ SEA_
+- **Kiah Stokes** passed **Candice Dupree** for **#29** all-time in blocks (career 319) — up from #30 entering today — _Final — GS @ SEA_
+- **Veronica Burton** passed **Rhyne Howard** for **#131** all-time in assists (career 485) — up from #132 entering today — _Final — GS @ SEA_
+- **Veronica Burton** tied **Amber Jacobs** for **#198** all-time in three-pointers (career 101) — up from #199 entering today — _Final — GS @ SEA_
+- **Stefanie Dolson** passed **Moriah Jefferson** for **#82** all-time in assists (career 686) — up from #83 entering today — _Final — GS @ SEA_
+- **Stefanie Dolson** passed **Helen Darling** for **#78** all-time in turnovers (career 577) — up from #80 entering today — _Final — GS @ SEA_
+- **Stefanie Dolson** passed **Nykesha Sales** for **#79** all-time in turnovers (career 577) — up from #80 entering today — _Final — GS @ SEA_
+- **Dominique Malonga** reached **200** career rebounds (now 203) — _Final — GS @ SEA_
+- **Natisha Hiedeman** tied **Charde Houston** for **#178** all-time in steals (career 185) — up from #181 entering today — _Final — GS @ SEA_
+- **Natisha Hiedeman** tied **Tiffany Jackson** for **#179** all-time in steals (career 185) — up from #181 entering today — _Final — GS @ SEA_
+- **Natisha Hiedeman** passed **Erin Perperoglou** for **#180** all-time in steals (career 185) — up from #181 entering today — _Final — GS @ SEA_
+
 ## 2026-05-09 02:34 UTC
 
 - **Shakira Austin** reached **700** career rebounds (now 700) — _Final — WSH @ TOR_
