@@ -8,9 +8,8 @@ name: WNBA Milestones Tracker
 # including doubleheaders that end past midnight ET).
 
 on:
-  schedule:
-    - cron: '*/2 16-23 * * *'
-    - cron: '*/2 0-5 * * *'
+  repository_dispatch:
+    types: [live_tracker_tick]
   workflow_dispatch:
     inputs:
       force_game:
