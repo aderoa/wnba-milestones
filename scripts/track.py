@@ -370,17 +370,59 @@ _MD_SECTION_RE = re.compile(
 _MD_BOLD_RE = re.compile(r'\*\*(.+?)\*\*')
 _MD_ITALIC_RE = re.compile(r'_(.+?)_')
 
+# Structured-field extractors (run against the bold/italic-stripped text).
+_PASS_RE = re.compile(
+    r'^(?P<player>.+?) passed (?P<passed>.+?) for #(?P<rank>\d+) all-time in '
+    r'(?P<stat>[a-z][a-z\- ]*?) \(career (?P<total>[\d,]+)\)'
+)
+_ROUND_RE = re.compile(
+    r'^(?P<player>.+?) reached (?P<value>[\d,]+) career '
+    r'(?P<stat>[a-z][a-z\- ]*?) \(now (?P<total>[\d,]+)\)'
+)
+
+
+def _split_passed_names(s):
+    """Parse 'X', 'X and Y', or 'X, Y, and Z' into a list."""
+    s = s.strip()
+    if ", and " in s:
+        head, tail = s.rsplit(", and ", 1)
+        return [n.strip() for n in head.split(", ")] + [tail.strip()]
+    if " and " in s:
+        return [n.strip() for n in s.split(" and ")]
+    return [s]
+
+
+def _extract_milestone_fields(text):
+    """Pull structured fields out of a milestone line. Returns {} if unparseable."""
+    m = _PASS_RE.match(text)
+    if m:
+        return {
+            "kind": "rank_pass",
+            "player": m.group("player").strip(),
+            "stat": m.group("stat").strip(),
+            "rank": int(m.group("rank")),
+            "passed_players": _split_passed_names(m.group("passed")),
+            "new_total": int(m.group("total").replace(",", "")),
+        }
+    m = _ROUND_RE.match(text)
+    if m:
+        return {
+            "kind": "round",
+            "player": m.group("player").strip(),
+            "stat": m.group("stat").strip(),
+            "value": int(m.group("value").replace(",", "")),
+            "new_total": int(m.group("total").replace(",", "")),
+        }
+    return {}
+
 
 def parse_milestones_md(md_path):
     """
-    Parse MILESTONES.md into a list of {ts, text} dicts, newest first.
+    Parse MILESTONES.md into a list of structured event dicts, newest first.
 
-    Used to derive milestones_log.json on every track.py run, ensuring the
-    structured log always reflects the canonical markdown — including events
-    from previous runs whose JSON file wasn't committed.
-
-    Tie events (legacy from before the firing logic was changed) are filtered
-    out so the dashboard only shows pass + round milestones.
+    Each entry: {ts, text, kind, player, stat, ...}. Tie events (legacy from
+    before the firing logic was changed) are filtered out so the dashboard
+    only shows pass + round milestones.
     """
     if not md_path.exists():
         return []
@@ -406,7 +448,9 @@ def parse_milestones_md(md_path):
             # Skip tie events (legacy, no longer fired but remain in MD history)
             if " tied " in text_clean and " for #" in text_clean:
                 continue
-            events.append({"ts": ts_iso, "text": text_clean})
+            entry = {"ts": ts_iso, "text": text_clean}
+            entry.update(_extract_milestone_fields(text_clean))
+            events.append(entry)
     return events
 
 
