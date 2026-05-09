@@ -113,6 +113,32 @@
     color: var(--bg-elev);
     border-color: var(--text);
   }
+  .tab-count {
+    display: inline-block;
+    background: var(--bg-table-head);
+    color: var(--muted);
+    padding: 1px 7px;
+    border-radius: 10px;
+    font-size: 0.62rem;
+    margin-left: 4px;
+    vertical-align: 1px;
+  }
+  .tab.active .tab-count {
+    background: rgba(255,255,255,0.18);
+    color: var(--bg-elev);
+  }
+
+  .milestone-day { margin-bottom: 18px; }
+  .milestone-day:last-child { margin-bottom: 0; }
+  .milestone-day-header {
+    font-family: var(--header-font);
+    font-size: 0.68rem;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: var(--muted);
+    font-weight: 600;
+    padding: 0 4px 8px;
+  }
 
   .table-wrap {
     background: var(--bg-elev);
@@ -272,7 +298,7 @@
 
 <div class="tabs" id="tabs"></div>
 
-<div class="table-wrap">
+<div class="table-wrap" id="table-wrap">
   <table>
     <thead>
       <tr>
@@ -287,10 +313,11 @@
   </table>
 </div>
 
-<h2 class="section-title">Recent milestones</h2>
-<div id="milestones-list" class="milestones-list">
-  <div class="empty-state" style="padding:24px;border:1px solid var(--border);border-radius:8px;background:var(--bg-elev)">
-    None yet — milestones will appear here as players cross thresholds.
+<div class="milestones-wrap" id="milestones-wrap" style="display:none">
+  <div id="milestones-list" class="milestones-list">
+    <div class="empty-state" style="padding:24px;border:1px solid var(--border);border-radius:8px;background:var(--bg-elev)">
+      None yet — milestones will appear here as players cross thresholds.
+    </div>
   </div>
 </div>
 
@@ -302,30 +329,45 @@
 
 <script>
 const STATS = ['PTS', 'REB', 'AST', 'BLK', 'STL', 'FG3M', 'TOV', 'PF'];
+const TABS = [...STATS, 'MILESTONES'];
 const TITLES = {
   PTS: 'Points', REB: 'Rebounds', AST: 'Assists', BLK: 'Blocks',
-  STL: 'Steals', FG3M: 'Three-pointers', TOV: 'Turnovers', PF: 'Fouls'
+  STL: 'Steals', FG3M: 'Three-pointers', TOV: 'Turnovers', PF: 'Fouls',
+  MILESTONES: 'Milestones',
 };
 
 let currentStat = (location.hash || '').replace('#', '').toUpperCase();
-if (!STATS.includes(currentStat)) currentStat = 'PTS';
+if (!TABS.includes(currentStat)) currentStat = 'PTS';
 let liveData = null;
 
 function fmt(n) { return n.toLocaleString(); }
 
 function renderTabs() {
   const el = document.getElementById('tabs');
-  el.innerHTML = STATS.map(s =>
-    `<div class="tab ${s === currentStat ? 'active' : ''}" data-stat="${s}">${TITLES[s]}</div>`
-  ).join('');
+  const milestoneCount = liveData && liveData.recent_milestones ? liveData.recent_milestones.length : 0;
+  el.innerHTML = TABS.map(s => {
+    let label = TITLES[s];
+    if (s === 'MILESTONES' && milestoneCount > 0) {
+      label += ` <span class="tab-count">${milestoneCount}</span>`;
+    }
+    return `<div class="tab ${s === currentStat ? 'active' : ''}" data-stat="${s}">${label}</div>`;
+  }).join('');
   el.querySelectorAll('.tab').forEach(t => {
     t.addEventListener('click', () => {
       currentStat = t.dataset.stat;
       history.replaceState(null, '', '#' + currentStat);
       renderTabs();
-      renderTable();
+      updateView();
     });
   });
+}
+
+function updateView() {
+  const isMilestones = currentStat === 'MILESTONES';
+  document.getElementById('table-wrap').style.display = isMilestones ? 'none' : '';
+  document.getElementById('milestones-wrap').style.display = isMilestones ? '' : 'none';
+  if (isMilestones) renderMilestones();
+  else renderTable();
 }
 
 function renderTable() {
@@ -371,14 +413,27 @@ function renderMilestones() {
     </div>`;
     return;
   }
-  el.innerHTML = list.slice(0, 20).map(m => {
-    const t = new Date(m.ts);
-    const tStr = t.toLocaleString([], { month: 'short', day: 'numeric', hour: 'numeric', minute: '2-digit' });
-    return `<div class="milestone-item">
-      <div class="milestone-ts">${tStr}</div>
-      <div class="milestone-text">${escapeHtml(m.text)}</div>
-    </div>`;
-  }).join('');
+  // Group by date for visual hierarchy
+  const byDate = {};
+  list.forEach(m => {
+    const d = new Date(m.ts);
+    const key = d.toLocaleDateString([], { weekday: 'short', month: 'short', day: 'numeric' });
+    (byDate[key] = byDate[key] || []).push(m);
+  });
+  const html = Object.entries(byDate).map(([date, items]) => `
+    <div class="milestone-day">
+      <div class="milestone-day-header">${date}</div>
+      ${items.map(m => {
+        const t = new Date(m.ts);
+        const tStr = t.toLocaleTimeString([], { hour: 'numeric', minute: '2-digit' });
+        return `<div class="milestone-item">
+          <div class="milestone-ts">${tStr}</div>
+          <div class="milestone-text">${escapeHtml(m.text)}</div>
+        </div>`;
+      }).join('')}
+    </div>
+  `).join('');
+  el.innerHTML = html;
 }
 
 function renderTimestamp() {
@@ -399,9 +454,9 @@ async function fetchData() {
     const res = await fetch('data/leaderboards_live.json?_=' + Date.now());
     if (!res.ok) throw new Error('HTTP ' + res.status);
     liveData = await res.json();
+    renderTabs();
     renderLiveBar();
-    renderTable();
-    renderMilestones();
+    updateView();
     renderTimestamp();
   } catch (e) {
     console.error('Fetch failed:', e);
