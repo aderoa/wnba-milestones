@@ -282,10 +282,12 @@ def format_event_md(e):
         line = (f"**{e['player']}** passed **{e['passed_player']}** for "
                 f"**#{e['rank']}** all-time in {stat_name} "
                 f"(career {e['new_total']:,})")
+        line += _rank_movement_suffix(e)
     elif e["kind"] == "rank_tie":
         line = (f"**{e['player']}** tied **{e['passed_player']}** for "
                 f"**#{e['rank']}** all-time in {stat_name} "
                 f"(career {e['new_total']:,})")
+        line += _rank_movement_suffix(e)
     elif e["kind"] == "round":
         line = (f"**{e['player']}** reached **{e['value']:,}** career "
                 f"{stat_name} (now {e['new_total']:,})")
@@ -294,6 +296,26 @@ def format_event_md(e):
     if e.get("game_context"):
         line += f" — _{e['game_context']}_"
     return line
+
+
+def _rank_movement_suffix(e):
+    """Return ' — up from #X entering today' or similar, when applicable."""
+    entering = e.get("entering_rank")
+    new_rank = e.get("rank")
+    if entering is None:
+        # Player wasn't in top-200 at start of day — they just broke into it
+        return " — new to top 200 today"
+    if entering > new_rank:
+        return f" — up from #{entering} entering today"
+    return ""
+
+
+def get_entering_rank(player_id, stat, leaderboards):
+    """Return the player's pre-game rank in this stat, or None if outside top-200."""
+    for entry in leaderboards.get(stat, []) or []:
+        if entry["player_id"] == player_id:
+            return entry["rank"]
+    return None
 
 
 INTRO = (
@@ -324,6 +346,46 @@ def prepend_log_block(events, polled_at_utc):
         body = ""
 
     LOG_PATH.write_text(INTRO + new_block + "\n" + body)
+
+
+_MD_SECTION_RE = re.compile(
+    r'^## (\d{4}-\d{2}-\d{2} \d{2}:\d{2} UTC)\s*$', re.MULTILINE
+)
+_MD_BOLD_RE = re.compile(r'\*\*(.+?)\*\*')
+_MD_ITALIC_RE = re.compile(r'_(.+?)_')
+
+
+def parse_milestones_md(md_path):
+    """
+    Parse MILESTONES.md into a list of {ts, text} dicts, newest first.
+
+    Used to derive milestones_log.json on every track.py run, ensuring the
+    structured log always reflects the canonical markdown — including events
+    from previous runs whose JSON file wasn't committed.
+    """
+    if not md_path.exists():
+        return []
+    text = md_path.read_text()
+    parts = _MD_SECTION_RE.split(text)
+    # parts: [preamble, ts1, body1, ts2, body2, ...]
+    events = []
+    for i in range(1, len(parts), 2):
+        ts_str = parts[i]
+        body = parts[i + 1] if i + 1 < len(parts) else ""
+        try:
+            ts_iso = (dt.datetime.strptime(ts_str, "%Y-%m-%d %H:%M UTC")
+                      .replace(tzinfo=dt.timezone.utc).isoformat())
+        except ValueError:
+            continue
+        for line in body.splitlines():
+            line = line.strip()
+            if not line.startswith("- "):
+                continue
+            text_clean = line[2:]
+            text_clean = _MD_BOLD_RE.sub(r'\1', text_clean)
+            text_clean = _MD_ITALIC_RE.sub(r'(\1)', text_clean)
+            events.append({"ts": ts_iso, "text": text_clean})
+    return events
 
 
 def write_job_summary(events, polled_at_utc, active_games):
@@ -440,6 +502,9 @@ def main():
 
                 # Rank pass / tie
                 lb = leaderboards.get(stat) or []
+                # Look up start-of-day rank once per (player, stat) so we can
+                # annotate rank-change events with "up from #N entering today".
+                entering_rank = get_entering_rank(pid, stat, leaderboards)
                 for ev in rank_pass_events(stat, lb, pid, prev, new_total):
                     if ev["type"] == "pass":
                         kind = "rank_pass"
@@ -457,6 +522,7 @@ def main():
                         "passed_player": ev["passed_player"],
                         "passed_player_id": ev["passed_player_id"],
                         "new_total": new_total, "threshold": ev["threshold"],
+                        "entering_rank": entering_rank,
                         "game_context": ctx,
                     })
 
@@ -472,19 +538,12 @@ def main():
             save_json(UNMATCHED_PATH, prev_um)
         if new_events:
             prepend_log_block(new_events, polled_at_utc)
-            # Maintain a structured event log (capped at last 250) so the live
-            # dashboard can show recent milestones without parsing markdown.
-            milestones_log = load_json(MILESTONES_LOG_PATH, [])
-            for e in new_events:
-                milestones_log.append({
-                    "ts": polled_at_utc.isoformat(),
-                    "kind": e.get("kind"),
-                    "stat": e.get("stat"),
-                    "player": e.get("player"),
-                    "text": format_event_md(e).replace("**", "").replace("_", ""),
-                })
-            milestones_log = milestones_log[-250:]
-            save_json(MILESTONES_LOG_PATH, milestones_log)
+        # Derive milestones_log.json from MILESTONES.md so it always reflects
+        # the canonical log — including any historical events from runs that
+        # didn't commit the JSON file. Newest-first to match the dashboard's
+        # expected order.
+        recent_milestones = parse_milestones_md(LOG_PATH)
+        save_json(MILESTONES_LOG_PATH, recent_milestones[:250])
         # Build the live game-state list (lightweight — just what the dashboard
         # needs to render the "live games" pill).
         active_games_view = [
@@ -495,7 +554,6 @@ def main():
             }
             for g in active_games
         ]
-        recent_milestones = load_json(MILESTONES_LOG_PATH, [])
         # Always re-render LEADERBOARDS.md (markdown) and the JSON snapshot used
         # by the live dashboard, so in-game progress is visible even between
         # discrete milestone fires.
@@ -511,7 +569,7 @@ def main():
             overrides=live_overrides,
             active_pids_in_games=active_pids_in_games,
             active_games=active_games_view,
-            recent_milestones=list(reversed(recent_milestones)),  # newest first
+            recent_milestones=recent_milestones,  # already newest-first
             out_path=LIVE_JSON_PATH,
             last_updated_utc=polled_at_utc,
         )
