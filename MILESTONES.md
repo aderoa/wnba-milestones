@@ -2,6 +2,30 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-09 19:44 UTC
+
+- **Jessica Shepard** tied **Marlies Askamp** for **#161** all-time in rebounds (career 822) — up from #166 entering today — _Final — DAL @ IND_
+- **Jessica Shepard** passed **Amanda Zahui B** for **#162** all-time in rebounds (career 822) — up from #166 entering today — _Final — DAL @ IND_
+- **Jessica Shepard** passed **Barbara Farris** for **#163** all-time in rebounds (career 822) — up from #166 entering today — _Final — DAL @ IND_
+- **Jessica Shepard** passed **Marina Mabrey** for **#164** all-time in rebounds (career 822) — up from #166 entering today — _Final — DAL @ IND_
+- **Jessica Shepard** passed **Kristen Rasmussen** for **#195** all-time in assists (career 346) — up from #199 entering today — _Final — DAL @ IND_
+- **Jessica Shepard** passed **Penny Toler** for **#196** all-time in assists (career 346) — up from #199 entering today — _Final — DAL @ IND_
+- **Jessica Shepard** passed **Ezi Magbegor** for **#197** all-time in assists (career 346) — up from #199 entering today — _Final — DAL @ IND_
+- **Alanna Smith** tied **Erin Perperoglou** for **#181** all-time in steals (career 184) — up from #182 entering today — _Final — DAL @ IND_
+- **Odyssey Sims** passed **Renee Montgomery** for **#69** all-time in points (career 3,534) — up from #71 entering today — _Final — DAL @ IND_
+- **Odyssey Sims** tied **Tiffani Johnson** for **#175** all-time in rebounds (career 778) — up from #176 entering today — _Final — DAL @ IND_
+- **Odyssey Sims** passed **Vickie Johnson** for **#26** all-time in assists (career 1,203) — up from #27 entering today — _Final — DAL @ IND_
+- **Myisha Hines-Allen** tied **Brianna Turner** for **#96** all-time in rebounds (career 1,214) — up from #97 entering today — _Final — DAL @ IND_
+- **Aliyah Boston** passed **Danielle Adams** for **#178** all-time in points (career 1,821) — up from #180 entering today — _Final — DAL @ IND_
+- **Aliyah Boston** passed **Damiris Dantas** for **#179** all-time in points (career 1,821) — up from #180 entering today — _Final — DAL @ IND_
+- **Aliyah Boston** passed **Le'coe Willingham** for **#118** all-time in rebounds (career 1,055) — up from #120 entering today — _Final — DAL @ IND_
+- **Aliyah Boston** passed **NaLyssa Smith** for **#119** all-time in rebounds (career 1,055) — up from #120 entering today — _Final — DAL @ IND_
+- **Kelsey Mitchell** tied **Tina Thompson** for **#69** all-time in assists (career 803) — up from #71 entering today — _Final — DAL @ IND_
+- **Kelsey Mitchell** passed **Chiney Ogwumike** for **#126** all-time in fouls (career 583) — up from #129 entering today — _Final — DAL @ IND_
+- **Kelsey Mitchell** passed **Hamchetou Maiga-Ba** for **#127** all-time in fouls (career 583) — up from #129 entering today — _Final — DAL @ IND_
+- **Kelsey Mitchell** passed **Olympia Scott** for **#128** all-time in fouls (career 583) — up from #129 entering today — _Final — DAL @ IND_
+- **Caitlin Clark** reached **1,000** career points (now 1,003) — _Final — DAL @ IND_
+
 ## 2026-05-09 18:38 UTC
 
 - **Jessica Shepard** tied **Marina Mabrey** for **#164** all-time in rebounds (career 818) — up from #166 entering today — _17.6 - 3rd — DAL @ IND_
