@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-09 21:51 UTC
+
+- **NaLyssa Smith** passed **Tiffany Hayes** for **#146** all-time in blocks (career 88) — up from #149 entering today — _1:42 - 4th — PHX @ LV_
+
 ## 2026-05-09 21:27 UTC
 
 - **Kahleah Copper** passed **Dearica Hamby** for **#55** all-time in points (career 4,092) — up from #56 entering today — _49.0 - 3rd — PHX @ LV_
