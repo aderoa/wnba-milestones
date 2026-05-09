@@ -72,7 +72,23 @@ def main():
         df = fetch_totals()
     except RuntimeError as exc:
         print(f"ERROR: {exc}", file=sys.stderr)
-        return 1
+        # stats.nba.com is famously flaky from CI runners. Don't fail the
+        # workflow — preserve any previous successful refresh, or write an
+        # empty placeholder if this is the first run. compute_baseline.py
+        # falls back to CSV-only baseline if season_current.json is empty.
+        if SC_PATH.exists():
+            print(f"Keeping existing {SC_PATH} from previous successful refresh.")
+        else:
+            out = {
+                "season": CURRENT_SEASON,
+                "as_of": dt.datetime.now(dt.timezone.utc).isoformat(),
+                "row_count": 0,
+                "players": {},
+                "fetch_error": str(exc),
+            }
+            SC_PATH.write_text(json.dumps(out, indent=2))
+            print(f"Wrote empty {SC_PATH} (no existing file to fall back to)")
+        return 0
 
     # Fail-safe: if we got 0 rows, write an empty file rather than blank the
     # whole baseline. This handles the season-not-started case gracefully.
