@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-09 21:11 UTC_
+_Last updated: 2026-05-09 21:21 UTC_
 
 ## Contents
 
@@ -39,7 +39,7 @@ _Last updated: 2026-05-09 21:11 UTC_
 | 18 | Brittney Griner | 5,967 |
 | 19 | Becky Hammon | 5,816 |
 | 20 | Angel McCoughtry | 5,797 |
-| 21 | **A'ja Wilson** 🔴 +14 | 5,733 |
+| 21 | **A'ja Wilson** 🔴 +19 | 5,738 |
 | 22 | DeLisha Milton-Jones | 5,571 |
 | 23 | Katie Douglas | 5,545 |
 | 24 | Lindsay Whalen | 5,511 |
@@ -56,7 +56,7 @@ _Last updated: 2026-05-09 21:11 UTC_
 | 35 | Chamique Holdsclaw | 4,713 |
 | 36 | Elena Delle Donne | 4,706 |
 | 37 | Penny Taylor | 4,595 |
-| 38 | **Alyssa Thomas** 🔴 +12 | 4,500 |
+| 38 | **Alyssa Thomas** 🔴 +18 | 4,506 |
 | 39 | Arike Ogunbowale | 4,486 |
 | 40 | Kristi Toliver | 4,474 |
 | 41 | Crystal Langhorne | 4,433 |
@@ -74,7 +74,7 @@ _Last updated: 2026-05-09 21:11 UTC_
 | 53 | Rebekkah Brunson | 4,133 |
 | 54 | Jonquel Jones | 4,096 |
 | 55 | Dearica Hamby | 4,090 |
-| 56 | **Kahleah Copper** 🔴 +5 | 4,088 |
+| 55 | **Kahleah Copper** 🔴 +7 | 4,090 |
 | 57 | Courtney Williams | 4,061 |
 | 58 | Asjha Jones | 3,986 |
 | 59 | Deanna Nolan | 3,971 |
@@ -210,7 +210,7 @@ _Last updated: 2026-05-09 21:11 UTC_
 | 189 | Armintie Herrington | 1,696 |
 | 190 | Nikki Teasley | 1,690 |
 | 191 | Shenise Johnson | 1,688 |
-| 192 | **NaLyssa Smith** 🔴 +3 | 1,679 |
+| 192 | **NaLyssa Smith** 🔴 +6 | 1,682 |
 | 193 | Sophie Cunningham | 1,669 |
 | 194 | Gabby Williams | 1,597 |
 | 195 | Janell Burse | 1,580 |
@@ -231,7 +231,7 @@ _Last updated: 2026-05-09 21:11 UTC_
 | 5 | Tamika Catchings | 3,313 |
 | 6 | Lisa Leslie | 3,303 |
 | 7 | Nneka Ogwumike | 3,268 |
-| 8 | **DeWanna Bonner** 🔴 +5 | 3,208 |
+| 8 | **DeWanna Bonner** 🔴 +6 | 3,209 |
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
@@ -341,8 +341,8 @@ _Last updated: 2026-05-09 21:11 UTC_
 | 115 | Ann Wauters | 1,105 |
 | 116 | Natasha Cloud | 1,080 |
 | 117 | Svetlana Abrosimova | 1,078 |
-| 118 | Aliyah Boston | 1,055 |
-| 118 | **NaLyssa Smith** 🔴 +1 | 1,055 |
+| 118 | **NaLyssa Smith** 🔴 +3 | 1,057 |
+| 119 | Aliyah Boston | 1,055 |
 | 120 | Le'coe Willingham | 1,054 |
 | 121 | Isabelle Harrison | 1,049 |
 | 122 | Nicole Ohlde | 1,040 |
@@ -352,7 +352,7 @@ _Last updated: 2026-05-09 21:11 UTC_
 | 126 | Cathrine Kraayeveld | 1,013 |
 | 127 | Kelly Miller | 1,011 |
 | 127 | Noelle Quinn | 1,011 |
-| 129 | **Jackie Young** 🔴 +4 | 1,006 |
+| 129 | **Jackie Young** 🔴 +6 | 1,008 |
 | 130 | Tiffany Jackson | 1,002 |
 | 131 | Tianna Hawkins | 1,000 |
 | 132 | Damiris Dantas | 996 |
@@ -434,8 +434,8 @@ _Last updated: 2026-05-09 21:11 UTC_
 | 3 | Ticha Penicheiro | 2,588 |
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
-| 6 | **Chelsea Gray** 🔴 +4 | 1,874 |
-| 7 | **Alyssa Thomas** 🔴 +5 | 1,825 |
+| 6 | **Chelsea Gray** 🔴 +6 | 1,876 |
+| 7 | **Alyssa Thomas** 🔴 +6 | 1,826 |
 | 8 | Skylar Diggins | 1,768 |
 | 9 | Natasha Cloud | 1,733 |
 | 10 | Becky Hammon | 1,705 |
@@ -658,7 +658,7 @@ _Last updated: 2026-05-09 21:11 UTC_
 | 22 | Ezi Magbegor | 354 |
 | 23 | Diana Taurasi | 349 |
 | 23 | Elena Delle Donne | 349 |
-| 25 | **DeWanna Bonner** 🔴 +1 | 345 |
+| 25 | **DeWanna Bonner** 🔴 +2 | 346 |
 | 26 | DeLisha Milton-Jones | 339 |
 | 27 | Yolanda Griffith | 323 |
 | 28 | Elena Baranova | 320 |
@@ -853,7 +853,7 @@ _Last updated: 2026-05-09 21:11 UTC_
 | 12 | DeLisha Milton-Jones | 619 |
 | 13 | Taj McWilliams-Franklin | 577 |
 | 14 | Tully Bevilaqua | 571 |
-| 15 | **Alyssa Thomas** 🔴 +2 | 558 |
+| 15 | **Alyssa Thomas** 🔴 +3 | 559 |
 | 16 | Courtney Vandersloot | 544 |
 | 17 | Yolanda Griffith | 527 |
 | 18 | Candace Parker | 521 |
@@ -1271,7 +1271,7 @@ _Last updated: 2026-05-09 21:11 UTC_
 | 20 | Shannon Johnson | 934 |
 | 21 | Taj McWilliams-Franklin | 898 |
 | 22 | Skylar Diggins | 879 |
-| 23 | **Chelsea Gray** 🔴 +2 | 871 |
+| 23 | **Chelsea Gray** 🔴 +3 | 872 |
 | 24 | Candice Dupree | 869 |
 | 25 | Alana Beard | 854 |
 | 26 | **DeWanna Bonner** 🔴 | 826 |

@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-09 21:21 UTC
+
+- **Kahleah Copper** tied **Dearica Hamby** for **#55** all-time in points (career 4,090) — up from #56 entering today — _4:19 - 3rd — PHX @ LV_
+
 ## 2026-05-09 21:11 UTC
 
 - **Alyssa Thomas** reached **4,500** career points (now 4,500) — _8:07 - 3rd — PHX @ LV_
