@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-09 21:24 UTC_
+_Last updated: 2026-05-09 21:25 UTC_
 
 ## Contents
 
@@ -291,7 +291,7 @@ _Last updated: 2026-05-09 21:24 UTC_
 | 65 | Nicole Powell | 1,457 |
 | 66 | Alysha Clark | 1,455 |
 | 67 | Tamera Young | 1,433 |
-| 68 | **Cheyenne Parker-Tyus** 🔴 +2 | 1,426 |
+| 68 | **Cheyenne Parker-Tyus** 🔴 +3 | 1,427 |
 | 69 | Alana Beard | 1,420 |
 | 70 | Nakia Sanford | 1,419 |
 | 71 | Kara Braxton | 1,387 |
@@ -435,7 +435,7 @@ _Last updated: 2026-05-09 21:24 UTC_
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
 | 6 | **Chelsea Gray** 🔴 +6 | 1,876 |
-| 7 | **Alyssa Thomas** 🔴 +7 | 1,827 |
+| 7 | **Alyssa Thomas** 🔴 +8 | 1,828 |
 | 8 | Skylar Diggins | 1,768 |
 | 9 | Natasha Cloud | 1,733 |
 | 10 | Becky Hammon | 1,705 |
@@ -846,7 +846,7 @@ _Last updated: 2026-05-09 21:24 UTC_
 | 5 | Nneka Ogwumike | 668 |
 | 6 | Sheryl Swoopes | 657 |
 | 7 | Jia Perkins | 634 |
-| 8 | **DeWanna Bonner** 🔴 | 631 |
+| 8 | **DeWanna Bonner** 🔴 +1 | 632 |
 | 9 | Sancho Lyttle | 630 |
 | 10 | Angel McCoughtry | 627 |
 | 11 | Katie Douglas | 623 |
@@ -1380,7 +1380,7 @@ _Last updated: 2026-05-09 21:24 UTC_
 | 128 | Kedra Holland-Corn | 438 |
 | 130 | Ariel Atkins | 437 |
 | 130 | Betnijah Laney-Hamilton | 437 |
-| 132 | **Cheyenne Parker-Tyus** 🔴 | 435 |
+| 132 | **Cheyenne Parker-Tyus** 🔴 +1 | 436 |
 | 133 | Jennifer Gillom | 434 |
 | 133 | Nicole Ohlde | 434 |
 | 135 | Murriel Page | 432 |
@@ -1553,7 +1553,7 @@ _Last updated: 2026-05-09 21:24 UTC_
 | 96 | Chamique Holdsclaw | 667 |
 | 97 | Brittney Sykes | 666 |
 | 98 | Tianna Hawkins | 662 |
-| 99 | **Cheyenne Parker-Tyus** 🔴 | 660 |
+| 99 | **Cheyenne Parker-Tyus** 🔴 +1 | 661 |
 | 100 | Kelsey Plum | 658 |
 | 101 | Tari Phillips | 648 |
 | 102 | **Jewell Loyd** 🔴 +2 | 646 |
