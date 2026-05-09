@@ -68,7 +68,9 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add MILESTONES.md LEADERBOARDS.md data/fired_milestones.json data/unmatched_names.json 2>/dev/null || true
+          git add MILESTONES.md LEADERBOARDS.md \
+                  data/fired_milestones.json data/unmatched_names.json \
+                  data/leaderboards_live.json data/milestones_log.json 2>/dev/null || true
           if git diff --cached --quiet; then
             echo "No state changes to commit."
           else
