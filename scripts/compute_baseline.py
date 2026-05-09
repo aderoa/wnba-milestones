@@ -180,6 +180,7 @@ def main() -> int:
         active_pids_in_games=set(),
         out_path=LB_MD_PATH,
         last_updated_utc=dt.datetime.now(dt.timezone.utc),
+        leaderboards=leaderboards,
     )
     print(f"Wrote {LB_MD_PATH}")
 
@@ -199,6 +200,7 @@ def main() -> int:
         recent_milestones=list(reversed(recent)),
         out_path=LIVE_JSON_PATH,
         last_updated_utc=dt.datetime.now(dt.timezone.utc),
+        leaderboards=leaderboards,
     )
     print(f"Wrote {LIVE_JSON_PATH}")
 
