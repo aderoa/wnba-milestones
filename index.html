@@ -235,10 +235,44 @@
     font-family: var(--header-font);
     margin-bottom: 14px;
   }
+  .meta-controls {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+  }
+  .filter-toggle {
+    background: var(--bg-elev);
+    border: 1px solid var(--border);
+    color: var(--muted);
+    font-family: var(--header-font);
+    font-size: 0.7rem;
+    font-weight: 600;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    padding: 5px 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: all 0.12s;
+  }
+  .filter-toggle:hover { color: var(--text); border-color: var(--border-strong); }
+  .filter-toggle.on {
+    background: var(--text);
+    color: var(--bg-elev);
+    border-color: var(--text);
+  }
+  .filter-toggle.hidden { display: none; }
   .meta-row .refreshing {
     display: inline-flex;
     align-items: center;
     gap: 6px;
+  }
+
+  .rank-up {
+    color: var(--pass);
+    font-family: var(--header-font);
+    font-size: 0.78rem;
+    margin-left: 6px;
+    font-weight: 600;
   }
   .spinner {
     width: 10px; height: 10px;
@@ -276,6 +310,18 @@
     thead th { padding: 9px 10px; }
     td.rank { padding-right: 10px; width: 42px; }
   }
+
+  /* Embed mode: hide chrome for use inside iframes (Presto, etc.) */
+  body.embed header,
+  body.embed footer { display: none; }
+  body.embed .container { padding: 12px; max-width: none; }
+
+  /* Log-only mode: show just the milestones list */
+  body.log-only .live-bar,
+  body.log-only .meta-row,
+  body.log-only .tabs,
+  body.log-only .table-wrap { display: none !important; }
+  body.log-only #milestones-wrap { display: block !important; }
 </style>
 </head>
 <body>
@@ -293,7 +339,10 @@
 
 <div class="meta-row">
   <span id="last-updated">—</span>
-  <span class="refreshing" id="refreshing"><span class="spinner"></span> auto-refresh 60s</span>
+  <div class="meta-controls">
+    <button id="active-toggle" class="filter-toggle" title="Show only players currently in a game">Show: All players</button>
+    <span class="refreshing" id="refreshing"><span class="spinner"></span> auto-refresh 60s</span>
+  </div>
 </div>
 
 <div class="tabs" id="tabs"></div>
@@ -336,9 +385,17 @@ const TITLES = {
   MILESTONES: 'Milestones',
 };
 
+// URL params: ?embed=1 (Presto-friendly chrome-less view), ?view=log (only milestones)
+const params = new URLSearchParams(location.search);
+if (params.get('embed') === '1') document.body.classList.add('embed');
+const initialView = params.get('view');
+if (initialView === 'log') document.body.classList.add('log-only');
+
 let currentStat = (location.hash || '').replace('#', '').toUpperCase();
+if (initialView === 'log') currentStat = 'MILESTONES';
 if (!TABS.includes(currentStat)) currentStat = 'PTS';
 let liveData = null;
+let activeOnly = false;
 
 function fmt(n) { return n.toLocaleString(); }
 
@@ -366,6 +423,9 @@ function updateView() {
   const isMilestones = currentStat === 'MILESTONES';
   document.getElementById('table-wrap').style.display = isMilestones ? 'none' : '';
   document.getElementById('milestones-wrap').style.display = isMilestones ? '' : 'none';
+  // Hide active-only toggle on the Milestones tab — doesn't apply
+  const toggle = document.getElementById('active-toggle');
+  if (toggle) toggle.classList.toggle('hidden', isMilestones);
   if (isMilestones) renderMilestones();
   else renderTable();
 }
@@ -376,12 +436,22 @@ function renderTable() {
     tbody.innerHTML = '<tr><td colspan="3" class="empty-state">No data for this stat.</td></tr>';
     return;
   }
-  const rows = liveData.stats[currentStat].rows;
+  let rows = liveData.stats[currentStat].rows;
+  if (activeOnly) rows = rows.filter(r => r.live);
+  if (rows.length === 0) {
+    tbody.innerHTML = '<tr><td colspan="3" class="empty-state">No active players right now.</td></tr>';
+    return;
+  }
   tbody.innerHTML = rows.map(r => {
     let nameCell = r.name;
     if (r.live) {
       nameCell += '<span class="live-marker">🔴</span>';
       if (r.delta > 0) nameCell += `<span class="delta">+${r.delta}</span>`;
+      // Rank-up indicator: positions gained today (if baseline known)
+      if (r.baseline_rank && r.baseline_rank > r.rank) {
+        const moved = r.baseline_rank - r.rank;
+        nameCell += `<span class="rank-up" title="Up ${moved} from #${r.baseline_rank}">↑${moved}</span>`;
+      }
     }
     return `<tr class="${r.live ? 'live' : ''}">
       <td class="rank">${r.rank}</td>
@@ -466,6 +536,15 @@ async function fetchData() {
 }
 
 renderTabs();
+
+// Wire active-only filter toggle
+document.getElementById('active-toggle').addEventListener('click', (ev) => {
+  activeOnly = !activeOnly;
+  ev.target.textContent = activeOnly ? 'Show: Active only' : 'Show: All players';
+  ev.target.classList.toggle('on', activeOnly);
+  updateView();
+});
+
 fetchData();
 setInterval(fetchData, 60000);
 </script>
