@@ -2,6 +2,22 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-09 01:41 UTC
+
+- **Breanna Stewart** tied **Tina Charles** for **#13** all-time in blocks (career 428) — up from #14 entering today — _1:26 - 4th — CON @ NY_
+- **Jonquel Jones** passed **DeLisha Milton-Jones** for **#14** all-time in rebounds (career 2,575) — up from #15 entering today — _1:26 - 4th — CON @ NY_
+- **Julie Vanloo** tied **Veronica Burton** for **#199** all-time in three-pointers (career 99) — new to top 200 today — _1:26 - 4th — CON @ NY_
+- **Shakira Austin** passed **LaToya Sanders** for **#200** all-time in rebounds (career 698) — new to top 200 today — _2:13 - 4th — WSH @ TOR_
+- **Shakira Austin** tied **Jennifer Gillom** for **#119** all-time in blocks (career 103) — up from #125 entering today — _2:13 - 4th — WSH @ TOR_
+- **Shakira Austin** tied **Jia Perkins** for **#120** all-time in blocks (career 103) — up from #125 entering today — _2:13 - 4th — WSH @ TOR_
+- **Shakira Austin** passed **Theresa Plaisance** for **#121** all-time in blocks (career 103) — up from #125 entering today — _2:13 - 4th — WSH @ TOR_
+- **A'ja Wilson** tied **Candice Wiggins** for **#147** all-time in fouls (career 525) — up from #151 entering today — _2:13 - 4th — WSH @ TOR_
+- **A'ja Wilson** tied **Epiphanny Prince** for **#148** all-time in fouls (career 525) — up from #151 entering today — _2:13 - 4th — WSH @ TOR_
+- **Brittney Sykes** passed **Vicky Bullett** for **#66** all-time in steals (career 354) — up from #68 entering today — _2:13 - 4th — WSH @ TOR_
+- **Marina Mabrey** passed **Jennifer Gillom** for **#99** all-time in points (career 2,892) — up from #100 entering today — _2:13 - 4th — WSH @ TOR_
+- **Marina Mabrey** tied **Candice Wiggins** for **#147** all-time in fouls (career 525) — up from #150 entering today — _2:13 - 4th — WSH @ TOR_
+- **Marina Mabrey** tied **Epiphanny Prince** for **#148** all-time in fouls (career 525) — up from #150 entering today — _2:13 - 4th — WSH @ TOR_
+
 ## 2026-05-09 01:06 UTC
 
 - **Breanna Stewart** tied **Kelsey Mitchell** for **#87** all-time in turnovers (career 549) — _3:47 - 3rd — CON @ NY_
