@@ -403,6 +403,10 @@ def _extract_milestone_fields(text):
             "rank": int(m.group("rank")),
             "passed_players": _split_passed_names(m.group("passed")),
             "new_total": int(m.group("total").replace(",", "")),
+            # Preserve the suffix (game context, "up from #N entering today")
+            # so we can reattach it when rendering merged events. Internal-use,
+            # stripped before returning to callers.
+            "_tail": text[m.end():],
         }
     m = _ROUND_RE.match(text)
     if m:
@@ -412,8 +416,68 @@ def _extract_milestone_fields(text):
             "stat": m.group("stat").strip(),
             "value": int(m.group("value").replace(",", "")),
             "new_total": int(m.group("total").replace(",", "")),
+            "_tail": text[m.end():],
         }
     return {}
+
+
+def _format_merged_pass(evt):
+    """Re-render a (possibly merged) pass event's text from structured fields."""
+    names = evt["passed_players"]
+    if len(names) == 1:
+        names_str = names[0]
+    elif len(names) == 2:
+        names_str = f"{names[0]} and {names[1]}"
+    else:
+        names_str = ", ".join(names[:-1]) + f", and {names[-1]}"
+    base = (f"{evt['player']} passed {names_str} for #{evt['rank']} "
+            f"all-time in {evt['stat']} (career {evt['new_total']:,})")
+    return base + evt.get("_tail", "")
+
+
+def _consolidate_section_events(section_events):
+    """
+    Within a single MD section (one poll timestamp), merge pass events that
+    share the same (player, stat, new_total) into a single event whose
+    passed_players is the union of all merged events' lists. The rank becomes
+    the lowest (best) rank achieved. Round events pass through untouched.
+
+    This runs at parse time so the dashboard shows pre-consolidation events
+    (fired before the consolidate-at-fire-time patch) cleanly.
+    """
+    out = []
+    by_key = {}  # (player, stat, new_total) -> index in out
+
+    for evt in section_events:
+        if evt.get("kind") != "rank_pass":
+            out.append(evt)
+            continue
+        key = (evt.get("player"), evt.get("stat"), evt.get("new_total"))
+        if key in by_key:
+            # Merge into the existing group
+            existing = out[by_key[key]]
+            for name in evt.get("passed_players", []):
+                if name not in existing["passed_players"]:
+                    existing["passed_players"].append(name)
+            if evt.get("rank") is not None and existing.get("rank") is not None:
+                existing["rank"] = min(existing["rank"], evt["rank"])
+        else:
+            # First event for this group — copy passed_players list to avoid
+            # mutating the source dict
+            copy = dict(evt)
+            copy["passed_players"] = list(evt.get("passed_players", []))
+            out.append(copy)
+            by_key[key] = len(out) - 1
+
+    # Regenerate text for any pass event (merged or not), so the rendered
+    # output matches the consolidated structured fields. Round events keep
+    # their original text. Strip _tail before returning.
+    for evt in out:
+        if evt.get("kind") == "rank_pass":
+            evt["text"] = _format_merged_pass(evt)
+        evt.pop("_tail", None)
+
+    return out
 
 
 def parse_milestones_md(md_path):
@@ -422,7 +486,8 @@ def parse_milestones_md(md_path):
 
     Each entry: {ts, text, kind, player, stat, ...}. Tie events (legacy from
     before the firing logic was changed) are filtered out so the dashboard
-    only shows pass + round milestones.
+    only shows pass + round milestones. Pass events sharing (player, stat,
+    new_total) within the same poll are consolidated retroactively.
     """
     if not md_path.exists():
         return []
@@ -438,6 +503,7 @@ def parse_milestones_md(md_path):
                       .replace(tzinfo=dt.timezone.utc).isoformat())
         except ValueError:
             continue
+        section_events = []
         for line in body.splitlines():
             line = line.strip()
             if not line.startswith("- "):
@@ -450,7 +516,9 @@ def parse_milestones_md(md_path):
                 continue
             entry = {"ts": ts_iso, "text": text_clean}
             entry.update(_extract_milestone_fields(text_clean))
-            events.append(entry)
+            section_events.append(entry)
+        section_events = _consolidate_section_events(section_events)
+        events.extend(section_events)
     return events
 
 
