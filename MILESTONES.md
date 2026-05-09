@@ -2,6 +2,31 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-09 17:44 UTC
+
+- **Alanna Smith** passed **Diamond DeShields** for **#199** all-time in fouls (career 446) — new to top 200 today — _4:21 - 2nd — DAL @ IND_
+- **Alanna Smith** passed **Sugar Rodgers** for **#200** all-time in fouls (career 446) — new to top 200 today — _4:21 - 2nd — DAL @ IND_
+- **Odyssey Sims** tied **Jasmine Thomas** for **#70** all-time in points (career 3,522) — up from #71 entering today — _4:21 - 2nd — DAL @ IND_
+- **Odyssey Sims** passed **Janel McCarville** for **#121** all-time in fouls (career 599) — up from #122 entering today — _4:21 - 2nd — DAL @ IND_
+- **Paige Bueckers** reached **700** career points (now 701) — _4:21 - 2nd — DAL @ IND_
+- **Alysha Clark** tied **Kedra Holland-Corn** for **#128** all-time in turnovers (career 438) — up from #129 entering today — _4:21 - 2nd — DAL @ IND_
+- **Alysha Clark** passed **Ariel Atkins** for **#130** all-time in turnovers (career 438) — _4:21 - 2nd — DAL @ IND_
+- **Alysha Clark** passed **Betnijah Laney-Hamilton** for **#131** all-time in turnovers (career 438) — _4:21 - 2nd — DAL @ IND_
+- **Aliyah Boston** reached **1,800** career points (now 1,805) — _4:21 - 2nd — DAL @ IND_
+- **Kelsey Mitchell** passed **Breanna Stewart** for **#87** all-time in turnovers (career 550) — up from #88 entering today — _4:21 - 2nd — DAL @ IND_
+- **Kelsey Mitchell** passed **Lauren Jackson** for **#89** all-time in turnovers (career 550) — _4:21 - 2nd — DAL @ IND_
+- **Kelsey Mitchell** tied **Chiney Ogwumike** for **#126** all-time in fouls (career 580) — up from #129 entering today — _4:21 - 2nd — DAL @ IND_
+- **Kelsey Mitchell** tied **Hamchetou Maiga-Ba** for **#127** all-time in fouls (career 580) — up from #129 entering today — _4:21 - 2nd — DAL @ IND_
+- **Kelsey Mitchell** tied **Olympia Scott** for **#128** all-time in fouls (career 580) — up from #129 entering today — _4:21 - 2nd — DAL @ IND_
+- **Sophie Cunningham** passed **Kelly Miller** for **#69** all-time in three-pointers (career 306) — up from #70 entering today — _4:21 - 2nd — DAL @ IND_
+- **Caitlin Clark** tied **Sydney Colson** for **#138** all-time in assists (career 454) — up from #139 entering today — _4:21 - 2nd — DAL @ IND_
+- **Damiris Dantas** passed **Andrea Stinson** for **#106** all-time in three-pointers (career 208) — up from #107 entering today — _4:21 - 2nd — DAL @ IND_
+- **Damiris Dantas** passed **Bridget Pettis** for **#199** all-time in turnovers (career 285) — new to top 200 today — _4:21 - 2nd — DAL @ IND_
+- **Damiris Dantas** passed **Rachel Banham** for **#200** all-time in turnovers (career 285) — new to top 200 today — _4:21 - 2nd — DAL @ IND_
+- **Damiris Dantas** tied **Sheryl Swoopes** for **#152** all-time in fouls (career 519) — up from #155 entering today — _4:21 - 2nd — DAL @ IND_
+- **Damiris Dantas** passed **Nikki McCray** for **#153** all-time in fouls (career 519) — up from #155 entering today — _4:21 - 2nd — DAL @ IND_
+- **Damiris Dantas** passed **Alex Bentley** for **#154** all-time in fouls (career 519) — up from #155 entering today — _4:21 - 2nd — DAL @ IND_
+
 ## 2026-05-09 17:16 UTC
 
 - **Jessica Shepard** passed **Carolyn Swords** for **#165** all-time in rebounds (career 816) — up from #166 entering today — _3:57 - 1st — DAL @ IND_
