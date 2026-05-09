@@ -2,6 +2,19 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-09 20:28 UTC
+
+- **A'ja Wilson** passed **Alysha Clark** for **#96** all-time in assists (career 615) — up from #97 entering today — _7:59 - 2nd — PHX @ LV_
+- **Chelsea Gray** passed **Candice Dupree** for **#23** all-time in turnovers (career 871) — up from #24 entering today — _7:59 - 2nd — PHX @ LV_
+- **Chelsea Gray** tied **Tiffany Mitchell** for **#119** all-time in fouls (career 604) — up from #120 entering today — _7:59 - 2nd — PHX @ LV_
+- **Jackie Young** passed **Tiffany Jackson** for **#130** all-time in rebounds (career 1,005) — _7:59 - 2nd — PHX @ LV_
+- **Jackie Young** tied **DeLisha Milton-Jones** for **#64** all-time in three-pointers (career 312) — up from #66 entering today — _7:59 - 2nd — PHX @ LV_
+- **Jackie Young** tied **Ruthie Bolton** for **#65** all-time in three-pointers (career 312) — up from #66 entering today — _7:59 - 2nd — PHX @ LV_
+- **Jackie Young** passed **Tan White** for **#67** all-time in three-pointers (career 312) — _7:59 - 2nd — PHX @ LV_
+- **Jewell Loyd** tied **Emily Engstler** for **#139** all-time in blocks (career 92) — up from #141 entering today — _7:59 - 2nd — PHX @ LV_
+- **Jewell Loyd** passed **Jasmine Thomas** for **#140** all-time in blocks (career 92) — up from #141 entering today — _7:59 - 2nd — PHX @ LV_
+- **Jewell Loyd** passed **Kayla Alexander** for **#142** all-time in blocks (career 92) — _7:59 - 2nd — PHX @ LV_
+
 ## 2026-05-09 19:44 UTC
 
 - **Jessica Shepard** tied **Marlies Askamp** for **#161** all-time in rebounds (career 822) — up from #166 entering today — _Final — DAL @ IND_
