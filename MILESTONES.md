@@ -2,6 +2,52 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-09 18:38 UTC
+
+- **Jessica Shepard** tied **Marina Mabrey** for **#164** all-time in rebounds (career 818) — up from #166 entering today — _17.6 - 3rd — DAL @ IND_
+- **Jessica Shepard** tied **Ezi Magbegor** for **#197** all-time in assists (career 344) — up from #199 entering today — _17.6 - 3rd — DAL @ IND_
+- **Jessica Shepard** passed **Sonja Henning** for **#198** all-time in assists (career 344) — up from #199 entering today — _17.6 - 3rd — DAL @ IND_
+- **Alanna Smith** passed **Kayla Thornton** for **#186** all-time in assists (career 356) — _17.6 - 3rd — DAL @ IND_
+- **Alanna Smith** passed **Merlakia Jones** for **#187** all-time in assists (career 356) — _17.6 - 3rd — DAL @ IND_
+- **Alanna Smith** tied **Alana Beard** for **#46** all-time in blocks (career 220) — up from #48 entering today — _17.6 - 3rd — DAL @ IND_
+- **Alanna Smith** tied **Teaira McCowan** for **#47** all-time in blocks (career 220) — up from #48 entering today — _17.6 - 3rd — DAL @ IND_
+- **Alanna Smith** passed **Erin Phillips** for **#183** all-time in steals (career 183) — _17.6 - 3rd — DAL @ IND_
+- **Alanna Smith** passed **Sabrina Ionescu** for **#184** all-time in steals (career 183) — _17.6 - 3rd — DAL @ IND_
+- **Odyssey Sims** passed **Jasmine Thomas** for **#70** all-time in points (career 3,529) — up from #71 entering today — _17.6 - 3rd — DAL @ IND_
+- **Odyssey Sims** tied **Vickie Johnson** for **#26** all-time in assists (career 1,202) — up from #27 entering today — _17.6 - 3rd — DAL @ IND_
+- **Odyssey Sims** tied **Matee Ajavon** for **#83** all-time in steals (career 328) — up from #84 entering today — _17.6 - 3rd — DAL @ IND_
+- **Odyssey Sims** reached **600** career fouls (now 600) — _17.6 - 3rd — DAL @ IND_
+- **Arike Ogunbowale** passed **Kristi Toliver** for **#39** all-time in points (career 4,481) — up from #40 entering today — _17.6 - 3rd — DAL @ IND_
+- **Arike Ogunbowale** passed **Ashley Robinson** for **#132** all-time in fouls (career 568) — up from #133 entering today — _17.6 - 3rd — DAL @ IND_
+- **Arike Ogunbowale** passed **Ivory Latta** for **#134** all-time in fouls (career 568) — _17.6 - 3rd — DAL @ IND_
+- **Aliyah Boston** tied **Damiris Dantas** for **#179** all-time in points (career 1,814) — up from #180 entering today — _17.6 - 3rd — DAL @ IND_
+- **Aliyah Boston** tied **Le'coe Willingham** for **#118** all-time in rebounds (career 1,054) — up from #120 entering today — _17.6 - 3rd — DAL @ IND_
+- **Aliyah Boston** tied **NaLyssa Smith** for **#119** all-time in rebounds (career 1,054) — up from #120 entering today — _17.6 - 3rd — DAL @ IND_
+- **Kelsey Mitchell** reached **800** career assists (now 802) — _17.6 - 3rd — DAL @ IND_
+- **Kelsey Mitchell** passed **Epiphanny Prince** for **#70** all-time in assists (career 802) — up from #71 entering today — _17.6 - 3rd — DAL @ IND_
+- **Sophie Cunningham** reached **300** career assists (now 300) — _17.6 - 3rd — DAL @ IND_
+- **Sophie Cunningham** tied **Kayla McBride** for **#160** all-time in fouls (career 507) — up from #168 entering today — _17.6 - 3rd — DAL @ IND_
+- **Sophie Cunningham** tied **Vicky Bullett** for **#161** all-time in fouls (career 507) — up from #168 entering today — _17.6 - 3rd — DAL @ IND_
+- **Sophie Cunningham** passed **Merlakia Jones** for **#162** all-time in fouls (career 507) — up from #168 entering today — _17.6 - 3rd — DAL @ IND_
+- **Sophie Cunningham** passed **Rushia Brown** for **#163** all-time in fouls (career 507) — up from #168 entering today — _17.6 - 3rd — DAL @ IND_
+- **Sophie Cunningham** passed **Shekinna Stricklen** for **#164** all-time in fouls (career 507) — up from #168 entering today — _17.6 - 3rd — DAL @ IND_
+- **Sophie Cunningham** passed **Allison Feaster** for **#165** all-time in fouls (career 507) — up from #168 entering today — _17.6 - 3rd — DAL @ IND_
+- **Sophie Cunningham** passed **Erin Perperoglou** for **#166** all-time in fouls (career 507) — up from #168 entering today — _17.6 - 3rd — DAL @ IND_
+- **Sophie Cunningham** passed **Napheesa Collier** for **#167** all-time in fouls (career 507) — up from #168 entering today — _17.6 - 3rd — DAL @ IND_
+- **Caitlin Clark** passed **Sydney Colson** for **#138** all-time in assists (career 457) — up from #139 entering today — _17.6 - 3rd — DAL @ IND_
+- **Caitlin Clark** tied **Bridget Pettis** for **#139** all-time in three-pointers (career 153) — up from #142 entering today — _17.6 - 3rd — DAL @ IND_
+- **Caitlin Clark** tied **Jennifer Gillom** for **#140** all-time in three-pointers (career 153) — up from #142 entering today — _17.6 - 3rd — DAL @ IND_
+- **Caitlin Clark** passed **Alanna Smith** for **#141** all-time in three-pointers (career 153) — up from #142 entering today — _17.6 - 3rd — DAL @ IND_
+- **Damiris Dantas** passed **Danielle Adams** for **#178** all-time in points (career 1,821) — up from #179 entering today — _17.6 - 3rd — DAL @ IND_
+- **Damiris Dantas** tied **Charlotte Smith** for **#157** all-time in blocks (career 81) — up from #161 entering today — _17.6 - 3rd — DAL @ IND_
+- **Damiris Dantas** tied **Cintia dos Santos** for **#158** all-time in blocks (career 81) — up from #161 entering today — _17.6 - 3rd — DAL @ IND_
+- **Damiris Dantas** tied **Jessie Hicks** for **#159** all-time in blocks (career 81) — up from #161 entering today — _17.6 - 3rd — DAL @ IND_
+- **Damiris Dantas** tied **Natasha Cloud** for **#160** all-time in blocks (career 81) — up from #161 entering today — _17.6 - 3rd — DAL @ IND_
+- **Damiris Dantas** passed **Nykesha Sales** for **#162** all-time in blocks (career 81) — _17.6 - 3rd — DAL @ IND_
+- **Damiris Dantas** passed **Rushia Brown** for **#163** all-time in blocks (career 81) — _17.6 - 3rd — DAL @ IND_
+- **Damiris Dantas** tied **A'ja Wilson** for **#151** all-time in fouls (career 521) — up from #155 entering today — _17.6 - 3rd — DAL @ IND_
+- **Damiris Dantas** passed **Sheryl Swoopes** for **#152** all-time in fouls (career 521) — up from #155 entering today — _17.6 - 3rd — DAL @ IND_
+
 ## 2026-05-09 17:44 UTC
 
 - **Alanna Smith** passed **Diamond DeShields** for **#199** all-time in fouls (career 446) — new to top 200 today — _4:21 - 2nd — DAL @ IND_
