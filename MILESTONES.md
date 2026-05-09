@@ -2,6 +2,32 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-09 21:11 UTC
+
+- **Alyssa Thomas** reached **4,500** career points (now 4,500) — _8:07 - 3rd — PHX @ LV_
+- **Natasha Mack** reached **100** career blocks (now 100) — _8:07 - 3rd — PHX @ LV_
+- **Natasha Mack** tied **Chante Black** for **#126** all-time in blocks (career 100) — up from #129 entering today — _8:07 - 3rd — PHX @ LV_
+- **Natasha Mack** tied **Danielle Adams** for **#127** all-time in blocks (career 100) — up from #129 entering today — _8:07 - 3rd — PHX @ LV_
+- **Natasha Mack** tied **Nicole Powell** for **#128** all-time in blocks (career 100) — up from #129 entering today — _8:07 - 3rd — PHX @ LV_
+- **NaLyssa Smith** passed **Le'coe Willingham** for **#118** all-time in rebounds (career 1,055) — up from #119 entering today — _8:07 - 3rd — PHX @ LV_
+- **NaLyssa Smith** tied **Tiffany Hayes** for **#146** all-time in blocks (career 87) — up from #149 entering today — _8:07 - 3rd — PHX @ LV_
+- **NaLyssa Smith** passed **Astou Ndiaye-Diatta** for **#147** all-time in blocks (career 87) — up from #149 entering today — _8:07 - 3rd — PHX @ LV_
+- **NaLyssa Smith** passed **Kayla Thornton** for **#148** all-time in blocks (career 87) — up from #149 entering today — _8:07 - 3rd — PHX @ LV_
+- **Chelsea Gray** tied **Vicky Bullett** for **#101** all-time in rebounds (career 1,189) — up from #102 entering today — _8:07 - 3rd — PHX @ LV_
+- **Chelsea Gray** tied **Alyssa Thomas** for **#100** all-time in blocks (career 121) — up from #104 entering today — _8:07 - 3rd — PHX @ LV_
+- **Chelsea Gray** tied **Ebony Hoffman** for **#101** all-time in blocks (career 121) — up from #104 entering today — _8:07 - 3rd — PHX @ LV_
+- **Chelsea Gray** tied **Essence Carson** for **#102** all-time in blocks (career 121) — up from #104 entering today — _8:07 - 3rd — PHX @ LV_
+- **Chelsea Gray** tied **Olivia Nelson-Ododa** for **#103** all-time in blocks (career 121) — up from #104 entering today — _8:07 - 3rd — PHX @ LV_
+- **Jackie Young** tied **Shannon Johnson** for **#63** all-time in three-pointers (career 313) — up from #66 entering today — _8:07 - 3rd — PHX @ LV_
+- **Jackie Young** passed **DeLisha Milton-Jones** for **#64** all-time in three-pointers (career 313) — up from #66 entering today — _8:07 - 3rd — PHX @ LV_
+- **Jackie Young** passed **Ruthie Bolton** for **#65** all-time in three-pointers (career 313) — up from #66 entering today — _8:07 - 3rd — PHX @ LV_
+- **Jackie Young** passed **Shameka Christon** for **#137** all-time in turnovers (career 426) — _8:07 - 3rd — PHX @ LV_
+- **Jackie Young** tied **Allison Feaster** for **#165** all-time in fouls (career 504) — up from #169 entering today — _8:07 - 3rd — PHX @ LV_
+- **Jackie Young** tied **Erin Perperoglou** for **#166** all-time in fouls (career 504) — up from #169 entering today — _8:07 - 3rd — PHX @ LV_
+- **Jackie Young** tied **Napheesa Collier** for **#167** all-time in fouls (career 504) — up from #169 entering today — _8:07 - 3rd — PHX @ LV_
+- **Jackie Young** tied **Sophie Cunningham** for **#168** all-time in fouls (career 504) — up from #169 entering today — _8:07 - 3rd — PHX @ LV_
+- **Jewell Loyd** tied **Marie Ferdinand-Harris** for **#102** all-time in fouls (career 646) — up from #103 entering today — _8:07 - 3rd — PHX @ LV_
+
 ## 2026-05-09 20:28 UTC
 
 - **A'ja Wilson** passed **Alysha Clark** for **#96** all-time in assists (career 615) — up from #97 entering today — _7:59 - 2nd — PHX @ LV_
