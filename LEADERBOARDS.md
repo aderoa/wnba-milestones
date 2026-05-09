@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-09 21:25 UTC_
+_Last updated: 2026-05-09 21:26 UTC_
 
 ## Contents
 
@@ -21,7 +21,7 @@ _Last updated: 2026-05-09 21:25 UTC_
 |-----:|--------|------:|
 | 1 | Diana Taurasi | 10,608 |
 | 2 | Tina Charles | 8,396 |
-| 3 | **DeWanna Bonner** 🔴 +10 | 7,815 |
+| 3 | **DeWanna Bonner** 🔴 +13 | 7,818 |
 | 4 | Tina Thompson | 7,470 |
 | 5 | Tamika Catchings | 7,371 |
 | 6 | Nneka Ogwumike | 7,305 |
@@ -231,7 +231,7 @@ _Last updated: 2026-05-09 21:25 UTC_
 | 5 | Tamika Catchings | 3,313 |
 | 6 | Lisa Leslie | 3,303 |
 | 7 | Nneka Ogwumike | 3,268 |
-| 8 | **DeWanna Bonner** 🔴 +6 | 3,209 |
+| 8 | **DeWanna Bonner** 🔴 +7 | 3,210 |
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
@@ -435,7 +435,7 @@ _Last updated: 2026-05-09 21:25 UTC_
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
 | 6 | **Chelsea Gray** 🔴 +6 | 1,876 |
-| 7 | **Alyssa Thomas** 🔴 +8 | 1,828 |
+| 7 | **Alyssa Thomas** 🔴 +9 | 1,829 |
 | 8 | Skylar Diggins | 1,768 |
 | 9 | Natasha Cloud | 1,733 |
 | 10 | Becky Hammon | 1,705 |
@@ -1053,7 +1053,7 @@ _Last updated: 2026-05-09 21:25 UTC_
 | 7 | Kayla McBride | 722 |
 | 8 | Kelsey Mitchell | 671 |
 | 9 | **Jewell Loyd** 🔴 | 667 |
-| 10 | **DeWanna Bonner** 🔴 +2 | 665 |
+| 10 | **DeWanna Bonner** 🔴 +3 | 666 |
 | 11 | Kristi Toliver | 651 |
 | 12 | Tamika Catchings | 605 |
 | 13 | Kelsey Plum | 588 |
@@ -1380,7 +1380,7 @@ _Last updated: 2026-05-09 21:25 UTC_
 | 128 | Kedra Holland-Corn | 438 |
 | 130 | Ariel Atkins | 437 |
 | 130 | Betnijah Laney-Hamilton | 437 |
-| 132 | **Cheyenne Parker-Tyus** 🔴 +1 | 436 |
+| 130 | **Cheyenne Parker-Tyus** 🔴 +2 | 437 |
 | 133 | Jennifer Gillom | 434 |
 | 133 | Nicole Ohlde | 434 |
 | 135 | Murriel Page | 432 |
@@ -1552,8 +1552,8 @@ _Last updated: 2026-05-09 21:25 UTC_
 | 95 | Kelly Miller | 676 |
 | 96 | Chamique Holdsclaw | 667 |
 | 97 | Brittney Sykes | 666 |
+| 98 | **Cheyenne Parker-Tyus** 🔴 +2 | 662 |
 | 98 | Tianna Hawkins | 662 |
-| 99 | **Cheyenne Parker-Tyus** 🔴 +1 | 661 |
 | 100 | Kelsey Plum | 658 |
 | 101 | Tari Phillips | 648 |
 | 102 | **Jewell Loyd** 🔴 +2 | 646 |

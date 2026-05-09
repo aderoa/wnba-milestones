@@ -2,6 +2,13 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-09 21:26 UTC
+
+- **Cheyenne Parker-Tyus** tied **Alysha Clark** for **#129** all-time in turnovers (career 437) — up from #132 entering today — _1:25 - 3rd — PHX @ LV_
+- **Cheyenne Parker-Tyus** tied **Ariel Atkins** for **#130** all-time in turnovers (career 437) — up from #132 entering today — _1:25 - 3rd — PHX @ LV_
+- **Cheyenne Parker-Tyus** tied **Betnijah Laney-Hamilton** for **#131** all-time in turnovers (career 437) — up from #132 entering today — _1:25 - 3rd — PHX @ LV_
+- **Cheyenne Parker-Tyus** tied **Tianna Hawkins** for **#98** all-time in fouls (career 662) — up from #99 entering today — _1:25 - 3rd — PHX @ LV_
+
 ## 2026-05-09 21:21 UTC
 
 - **Kahleah Copper** tied **Dearica Hamby** for **#55** all-time in points (career 4,090) — up from #56 entering today — _4:19 - 3rd — PHX @ LV_
