@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-09 21:21 UTC_
+_Last updated: 2026-05-09 21:22 UTC_
 
 ## Contents
 
@@ -21,7 +21,7 @@ _Last updated: 2026-05-09 21:21 UTC_
 |-----:|--------|------:|
 | 1 | Diana Taurasi | 10,608 |
 | 2 | Tina Charles | 8,396 |
-| 3 | **DeWanna Bonner** 🔴 +7 | 7,812 |
+| 3 | **DeWanna Bonner** 🔴 +10 | 7,815 |
 | 4 | Tina Thompson | 7,470 |
 | 5 | Tamika Catchings | 7,371 |
 | 6 | Nneka Ogwumike | 7,305 |
@@ -56,12 +56,12 @@ _Last updated: 2026-05-09 21:21 UTC_
 | 35 | Chamique Holdsclaw | 4,713 |
 | 36 | Elena Delle Donne | 4,706 |
 | 37 | Penny Taylor | 4,595 |
-| 38 | **Alyssa Thomas** 🔴 +18 | 4,506 |
+| 38 | **Alyssa Thomas** 🔴 +20 | 4,508 |
 | 39 | Arike Ogunbowale | 4,486 |
 | 40 | Kristi Toliver | 4,474 |
 | 41 | Crystal Langhorne | 4,433 |
 | 41 | Jia Perkins | 4,433 |
-| 43 | **Chelsea Gray** 🔴 +2 | 4,411 |
+| 43 | **Chelsea Gray** 🔴 +4 | 4,413 |
 | 44 | Natasha Howard | 4,367 |
 | 45 | Courtney Vandersloot | 4,352 |
 | 46 | Sophia Young-Malcolm | 4,300 |
@@ -435,7 +435,7 @@ _Last updated: 2026-05-09 21:21 UTC_
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
 | 6 | **Chelsea Gray** 🔴 +6 | 1,876 |
-| 7 | **Alyssa Thomas** 🔴 +6 | 1,826 |
+| 7 | **Alyssa Thomas** 🔴 +7 | 1,827 |
 | 8 | Skylar Diggins | 1,768 |
 | 9 | Natasha Cloud | 1,733 |
 | 10 | Becky Hammon | 1,705 |
@@ -461,7 +461,7 @@ _Last updated: 2026-05-09 21:21 UTC_
 | 30 | **DeWanna Bonner** 🔴 +2 | 1,178 |
 | 31 | Renee Montgomery | 1,140 |
 | 32 | Jordin Canada | 1,139 |
-| 33 | **Jewell Loyd** 🔴 | 1,133 |
+| 33 | **Jewell Loyd** 🔴 +1 | 1,134 |
 | 34 | Swin Cash | 1,131 |
 | 35 | Lindsey Harding | 1,090 |
 | 36 | Katie Douglas | 1,069 |
@@ -1053,7 +1053,7 @@ _Last updated: 2026-05-09 21:21 UTC_
 | 7 | Kayla McBride | 722 |
 | 8 | Kelsey Mitchell | 671 |
 | 9 | **Jewell Loyd** 🔴 | 667 |
-| 10 | **DeWanna Bonner** 🔴 +1 | 664 |
+| 10 | **DeWanna Bonner** 🔴 +2 | 665 |
 | 11 | Kristi Toliver | 651 |
 | 12 | Tamika Catchings | 605 |
 | 13 | Kelsey Plum | 588 |
