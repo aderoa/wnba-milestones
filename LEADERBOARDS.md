@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-10 19:24 UTC_
+_Last updated: 2026-05-10 19:25 UTC_
 
 ## Contents
 
@@ -36,7 +36,7 @@ _Last updated: 2026-05-10 19:24 UTC_
 | 15 | **Breanna Stewart** 🔴 +3 | 6,019 |
 | 16 | Lauren Jackson | 6,005 |
 | 16 | Seimone Augustus | 6,005 |
-| 18 | **Brittney Griner** 🔴 +16 | 5,983 |
+| 18 | Brittney Griner | 5,983 |
 | 19 | Becky Hammon | 5,816 |
 | 20 | Angel McCoughtry | 5,797 |
 | 21 | A'ja Wilson | 5,719 |
@@ -106,7 +106,7 @@ _Last updated: 2026-05-10 19:24 UTC_
 | 85 | Tanisha Wright | 3,324 |
 | 86 | Margo Dydek | 3,214 |
 | 87 | Danielle Robinson | 3,160 |
-| 88 | **Stefanie Dolson** 🔴 +6 | 3,140 |
+| 88 | Stefanie Dolson | 3,140 |
 | 89 | Wendy Palmer | 3,135 |
 | 90 | Shavonte Zellous | 3,103 |
 | 91 | Briann January | 3,082 |
@@ -205,7 +205,7 @@ _Last updated: 2026-05-10 19:24 UTC_
 | 184 | Tully Bevilaqua | 1,763 |
 | 185 | Sandy Brondello | 1,759 |
 | 186 | Sugar Rodgers | 1,733 |
-| 187 | **Natisha Hiedeman** 🔴 +11 | 1,727 |
+| 187 | Natisha Hiedeman | 1,727 |
 | 188 | Moriah Jefferson | 1,722 |
 | 189 | Armintie Herrington | 1,696 |
 | 190 | Nikki Teasley | 1,690 |
@@ -239,7 +239,7 @@ _Last updated: 2026-05-10 19:24 UTC_
 | 13 | Sancho Lyttle | 2,596 |
 | 14 | **Jonquel Jones** 🔴 +1 | 2,576 |
 | 15 | DeLisha Milton-Jones | 2,574 |
-| 16 | **Brittney Griner** 🔴 +6 | 2,537 |
+| 16 | Brittney Griner | 2,537 |
 | 17 | Swin Cash | 2,521 |
 | 18 | A'ja Wilson | 2,494 |
 | 19 | **Breanna Stewart** 🔴 +1 | 2,485 |
@@ -269,7 +269,7 @@ _Last updated: 2026-05-10 19:24 UTC_
 | 43 | Kiah Stokes | 1,746 |
 | 44 | Teaira McCowan | 1,670 |
 | 45 | Monique Currie | 1,666 |
-| 46 | **Stefanie Dolson** 🔴 +4 | 1,659 |
+| 46 | Stefanie Dolson | 1,659 |
 | 47 | Glory Johnson | 1,640 |
 | 48 | Vickie Johnson | 1,634 |
 | 49 | Kia Vaughn | 1,626 |
@@ -510,7 +510,7 @@ _Last updated: 2026-05-10 19:24 UTC_
 | 79 | Shavonte Zellous | 693 |
 | 80 | Allie Quigley | 690 |
 | 81 | Dearica Hamby | 688 |
-| 82 | **Stefanie Dolson** 🔴 | 686 |
+| 82 | Stefanie Dolson | 686 |
 | 83 | Moriah Jefferson | 685 |
 | 84 | Emma Meesseman | 681 |
 | 85 | Nykesha Sales | 677 |
@@ -522,7 +522,7 @@ _Last updated: 2026-05-10 19:24 UTC_
 | 91 | Alex Bentley | 645 |
 | 92 | Asjha Jones | 637 |
 | 93 | Jennifer Azzi | 636 |
-| 94 | **Brittney Griner** 🔴 | 635 |
+| 94 | Brittney Griner | 635 |
 | 95 | Sami Whitcomb | 623 |
 | 96 | Alysha Clark | 614 |
 | 97 | A'ja Wilson | 613 |
@@ -532,7 +532,7 @@ _Last updated: 2026-05-10 19:24 UTC_
 | 101 | Sancho Lyttle | 592 |
 | 102 | Camille Smith | 590 |
 | 103 | Armintie Herrington | 589 |
-| 104 | **Natisha Hiedeman** 🔴 +3 | 587 |
+| 104 | Natisha Hiedeman | 587 |
 | 105 | Tan White | 578 |
 | 106 | Matee Ajavon | 577 |
 | 107 | **Betnijah Laney-Hamilton** 🔴 | 573 |
@@ -635,7 +635,7 @@ _Last updated: 2026-05-10 19:24 UTC_
 | Rank | Player | Total |
 |-----:|--------|------:|
 | 1 | Margo Dydek | 873 |
-| 2 | **Brittney Griner** 🔴 | 859 |
+| 2 | Brittney Griner | 859 |
 | 3 | Lisa Leslie | 818 |
 | 4 | Sylvia Fowles | 721 |
 | 5 | Candace Parker | 619 |
@@ -664,7 +664,7 @@ _Last updated: 2026-05-10 19:24 UTC_
 | 28 | Elena Baranova | 320 |
 | 29 | Kiah Stokes | 319 |
 | 30 | Candice Dupree | 316 |
-| 31 | **Stefanie Dolson** 🔴 | 306 |
+| 31 | Stefanie Dolson | 306 |
 | 32 | Vicky Bullett | 288 |
 | 33 | Rebekkah Brunson | 281 |
 | 34 | Liz Cambage | 264 |
@@ -733,7 +733,7 @@ _Last updated: 2026-05-10 19:24 UTC_
 | 97 | Brionna Jones | 125 |
 | 98 | Monique Billings | 123 |
 | 99 | Natalie Williams | 122 |
-| 99 | **Olivia Nelson-Ododa** 🔴 +1 | 122 |
+| 99 | Olivia Nelson-Ododa | 122 |
 | 101 | Alyssa Thomas | 121 |
 | 101 | Ebony Hoffman | 121 |
 | 101 | Essence Carson | 121 |
@@ -1016,7 +1016,7 @@ _Last updated: 2026-05-10 19:24 UTC_
 | 175 | Cynthia Cooper | 192 |
 | 176 | Tamicha Jackson | 188 |
 | 177 | Michele Timms | 187 |
-| 178 | **Natisha Hiedeman** 🔴 +1 | 186 |
+| 178 | Natisha Hiedeman | 186 |
 | 179 | Charde Houston | 185 |
 | 179 | Tiffany Jackson | 185 |
 | 181 | Erin Perperoglou | 184 |
@@ -1037,7 +1037,7 @@ _Last updated: 2026-05-10 19:24 UTC_
 | 194 | Margo Dydek | 174 |
 | 197 | Kamila Vodichkova | 173 |
 | 198 | Monique Billings | 170 |
-| 199 | **Brittney Griner** 🔴 +2 | 168 |
+| 199 | Brittney Griner | 168 |
 | 199 | Kara Braxton | 168 |
 | 199 | Sugar Rodgers | 168 |
 
@@ -1122,11 +1122,11 @@ _Last updated: 2026-05-10 19:24 UTC_
 | 74 | Tully Bevilaqua | 290 |
 | 76 | Alana Beard | 288 |
 | 77 | Monique Currie | 284 |
-| 77 | **Natisha Hiedeman** 🔴 | 284 |
+| 77 | Natisha Hiedeman | 284 |
 | 79 | Iziane Castro Marques | 275 |
 | 80 | Kayla Thornton | 273 |
 | 81 | Sheryl Swoopes | 270 |
-| 82 | **Stefanie Dolson** 🔴 | 267 |
+| 82 | Stefanie Dolson | 267 |
 | 83 | Bridget Carleton | 262 |
 | 84 | Sophia Witherspoon | 260 |
 | 85 | Dawn Staley | 254 |
@@ -1152,7 +1152,7 @@ _Last updated: 2026-05-10 19:24 UTC_
 | 105 | Erin Phillips | 211 |
 | 106 | Andrea Stinson | 207 |
 | 106 | Damiris Dantas | 207 |
-| 108 | **Lexie Brown** 🔴 +5 | 199 |
+| 108 | Lexie Brown | 199 |
 | 108 | Shanna Zolman | 199 |
 | 110 | **Betnijah Laney-Hamilton** 🔴 | 197 |
 | 110 | Temeka Johnson | 197 |
@@ -1231,7 +1231,7 @@ _Last updated: 2026-05-10 19:24 UTC_
 | 184 | Jordin Canada | 111 |
 | 184 | Shoni Schimmel | 111 |
 | 186 | Emma Meesseman | 109 |
-| 186 | **Kennedy Burke** 🔴 +2 | 109 |
+| 186 | Kennedy Burke | 109 |
 | 186 | Lexie Hull | 109 |
 | 186 | Scholanda Dorrell | 109 |
 | 190 | Belinda Snell | 108 |
@@ -1290,7 +1290,7 @@ _Last updated: 2026-05-10 19:24 UTC_
 | 38 | Margo Dydek | 758 |
 | 39 | Tangela Smith | 751 |
 | 40 | Kristi Toliver | 748 |
-| 41 | **Brittney Griner** 🔴 +2 | 736 |
+| 41 | Brittney Griner | 736 |
 | 42 | Monique Currie | 724 |
 | 43 | Michelle Snow | 723 |
 | 44 | Tamecka Dixon | 716 |
@@ -1327,7 +1327,7 @@ _Last updated: 2026-05-10 19:24 UTC_
 | 74 | Tamika Whitmore | 600 |
 | 76 | Kelly Miller | 596 |
 | 77 | Kahleah Copper | 579 |
-| 78 | **Stefanie Dolson** 🔴 +1 | 578 |
+| 78 | Stefanie Dolson | 578 |
 | 79 | Helen Darling | 575 |
 | 79 | Nykesha Sales | 575 |
 | 81 | Andrea Stinson | 571 |
@@ -1475,7 +1475,7 @@ _Last updated: 2026-05-10 19:24 UTC_
 | 18 | Tanisha Wright | 1,109 |
 | 19 | Michelle Snow | 1,108 |
 | 20 | Natasha Howard | 1,088 |
-| 21 | **Stefanie Dolson** 🔴 +5 | 1,087 |
+| 21 | Stefanie Dolson | 1,087 |
 | 22 | Sylvia Fowles | 1,049 |
 | 23 | Tina Charles | 1,037 |
 | 24 | Lindsay Whalen | 998 |
@@ -1484,7 +1484,7 @@ _Last updated: 2026-05-10 19:24 UTC_
 | 27 | Yolanda Griffith | 991 |
 | 28 | Lauren Jackson | 982 |
 | 29 | Nakia Sanford | 979 |
-| 30 | **Brittney Griner** 🔴 +5 | 972 |
+| 30 | Brittney Griner | 972 |
 | 31 | Asjha Jones | 971 |
 | 32 | Margo Dydek | 950 |
 | 33 | Sancho Lyttle | 947 |
