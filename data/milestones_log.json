@@ -1,5 +1,14 @@
 [
   {
+    "ts": "2026-05-10T20:27:00+00:00",
+    "text": "Kiki Iriafen reached 100 career turnovers (now 100) \u2014 (6:46 - 3rd \u2014 NY @ WSH)",
+    "kind": "round",
+    "player": "Kiki Iriafen",
+    "stat": "turnovers",
+    "value": 100,
+    "new_total": 100
+  },
+  {
     "ts": "2026-05-10T20:25:00+00:00",
     "text": "Breanna Stewart passed Marie Ferdinand-Harris for #102 all-time in fouls (career 647) \u2014 up from #104 entering today \u2014 (7:36 - 3rd \u2014 NY @ WSH)",
     "kind": "rank_pass",
