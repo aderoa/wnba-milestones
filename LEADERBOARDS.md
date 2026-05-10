@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-10 21:29 UTC_
+_Last updated: 2026-05-10 21:30 UTC_
 
 ## Contents
 
@@ -419,7 +419,7 @@ _Last updated: 2026-05-10 21:29 UTC_
 | 193 | Arike Ogunbowale | 722 |
 | 194 | Kelsey Plum | 715 |
 | 195 | Olympia Scott | 711 |
-| 196 | **Shakira Austin** 🔴 +9 | 709 |
+| 196 | **Shakira Austin** 🔴 +10 | 710 |
 | 197 | Katie Mattera | 708 |
 | 198 | Rushia Brown | 706 |
 | 199 | Allie Quigley | 702 |
