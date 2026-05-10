@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-10 02:34 UTC_
+_Last updated: 2026-05-10 02:35 UTC_
 
 ## Contents
 
@@ -771,8 +771,8 @@ _Last updated: 2026-05-10 02:34 UTC_
 | 135 | Imani McGee-Stafford | 95 |
 | 135 | **Isabelle Harrison** 🔴 | 95 |
 | 137 | **Emily Engstler** 🔴 +2 | 94 |
+| 137 | **Kamilla Cardoso** 🔴 +1 | 94 |
 | 137 | Sandrine Gruda | 94 |
-| 139 | **Kamilla Cardoso** 🔴 | 93 |
 | 140 | Jewell Loyd | 92 |
 | 141 | Jasmine Thomas | 91 |
 | 141 | Kayla Alexander | 91 |
