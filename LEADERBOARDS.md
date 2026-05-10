@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-10 19:36 UTC_
+_Last updated: 2026-05-10 19:37 UTC_
 
 ## Contents
 
@@ -1194,9 +1194,9 @@ _Last updated: 2026-05-10 19:36 UTC_
 | 147 | Diamond DeShields | 147 |
 | 148 | Wendy Palmer | 146 |
 | 149 | Helen Darling | 144 |
+| 149 | **Marine Johannès** 🔴 +3 | 144 |
 | 149 | Matee Ajavon | 144 |
-| 151 | **Marine Johannès** 🔴 +2 | 143 |
-| 151 | Shenise Johnson | 143 |
+| 152 | Shenise Johnson | 143 |
 | 153 | Katie Lou Samuelson | 142 |
 | 154 | Jordan Hooper | 141 |
 | 155 | Coco Miller | 139 |

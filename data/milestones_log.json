@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-10T19:37:00+00:00",
+    "text": "Marine Johann\u00e8s passed Shenise Johnson for #151 all-time in three-pointers (career 144) \u2014 up from #154 entering today \u2014 (5:57 - 2nd \u2014 NY @ WSH)",
+    "kind": "rank_pass",
+    "player": "Marine Johann\u00e8s",
+    "stat": "three-pointers",
+    "rank": 151,
+    "passed_players": [
+      "Shenise Johnson"
+    ],
+    "new_total": 144
+  },
+  {
     "ts": "2026-05-10T19:36:00+00:00",
     "text": "Marine Johann\u00e8s passed Katie Lou Samuelson for #152 all-time in three-pointers (career 143) \u2014 up from #154 entering today \u2014 (6:18 - 2nd \u2014 NY @ WSH)",
     "kind": "rank_pass",
