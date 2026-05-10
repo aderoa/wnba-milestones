@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-10 01:02 UTC_
+_Last updated: 2026-05-10 01:03 UTC_
 
 ## Contents
 
@@ -43,7 +43,7 @@ _Last updated: 2026-05-10 01:02 UTC_
 | 22 | DeLisha Milton-Jones | 5,571 |
 | 23 | Katie Douglas | 5,545 |
 | 24 | Lindsay Whalen | 5,511 |
-| 25 | Skylar Diggins | 5,489 |
+| 25 | **Skylar Diggins** 🔴 | 5,489 |
 | 26 | **Kayla McBride** 🔴 +13 | 5,402 |
 | 27 | Swin Cash | 5,119 |
 | 28 | Tangela Smith | 5,035 |
@@ -365,7 +365,7 @@ _Last updated: 2026-05-10 01:02 UTC_
 | 139 | Jennifer Gillom | 964 |
 | 140 | Dominique Canty | 961 |
 | 141 | Armintie Herrington | 960 |
-| 142 | Skylar Diggins | 955 |
+| 142 | **Skylar Diggins** 🔴 | 955 |
 | 143 | Janell Burse | 944 |
 | 144 | Merlakia Jones | 927 |
 | 145 | Nicky Anosike | 922 |
@@ -436,7 +436,7 @@ _Last updated: 2026-05-10 01:02 UTC_
 | 5 | Lindsay Whalen | 2,347 |
 | 6 | Chelsea Gray | 1,876 |
 | 7 | Alyssa Thomas | 1,829 |
-| 8 | Skylar Diggins | 1,768 |
+| 8 | **Skylar Diggins** 🔴 | 1,768 |
 | 9 | Natasha Cloud | 1,733 |
 | 10 | Becky Hammon | 1,705 |
 | 11 | Candace Parker | 1,634 |
@@ -616,7 +616,7 @@ _Last updated: 2026-05-10 01:02 UTC_
 | 185 | Alanna Smith | 357 |
 | 186 | Kayla Thornton | 355 |
 | 186 | Merlakia Jones | 355 |
-| 188 | Bridget Carleton | 352 |
+| 188 | **Bridget Carleton** 🔴 | 352 |
 | 188 | Charlotte Smith | 352 |
 | 188 | Ruthie Bolton | 352 |
 | 191 | Jantel Lavender | 350 |
@@ -678,7 +678,7 @@ _Last updated: 2026-05-10 01:02 UTC_
 | 42 | Brianna Turner | 228 |
 | 42 | Chasity Melvin | 228 |
 | 44 | Sancho Lyttle | 221 |
-| 44 | Skylar Diggins | 221 |
+| 44 | **Skylar Diggins** 🔴 | 221 |
 | 46 | Alana Beard | 220 |
 | 46 | Alanna Smith | 220 |
 | 46 | Teaira McCowan | 220 |
@@ -771,8 +771,8 @@ _Last updated: 2026-05-10 01:02 UTC_
 | 135 | Imani McGee-Stafford | 95 |
 | 135 | Isabelle Harrison | 95 |
 | 137 | Sandrine Gruda | 94 |
-| 138 | Kamilla Cardoso | 93 |
-| 139 | Emily Engstler | 92 |
+| 138 | **Kamilla Cardoso** 🔴 | 93 |
+| 139 | **Emily Engstler** 🔴 | 92 |
 | 139 | Jewell Loyd | 92 |
 | 141 | Jasmine Thomas | 91 |
 | 141 | Kayla Alexander | 91 |
@@ -871,7 +871,7 @@ _Last updated: 2026-05-10 01:02 UTC_
 | 30 | Tangela Smith | 455 |
 | 31 | Tina Thompson | 452 |
 | 32 | Maya Moore | 449 |
-| 33 | Skylar Diggins | 445 |
+| 33 | **Skylar Diggins** 🔴 | 445 |
 | 34 | Jewell Loyd | 441 |
 | 35 | Sheri Sam | 438 |
 | 36 | Camille Smith | 437 |
@@ -1077,7 +1077,7 @@ _Last updated: 2026-05-10 01:02 UTC_
 | 31 | Shameka Christon | 434 |
 | 32 | **Allisha Gray** 🔴 +1 | 427 |
 | 33 | Crystal Robinson | 425 |
-| 33 | Skylar Diggins | 425 |
+| 33 | **Skylar Diggins** 🔴 | 425 |
 | 35 | Mwadi Mabika | 415 |
 | 36 | Chelsea Gray | 410 |
 | 37 | Penny Taylor | 407 |
@@ -1126,7 +1126,7 @@ _Last updated: 2026-05-10 01:02 UTC_
 | 80 | Kayla Thornton | 273 |
 | 81 | Sheryl Swoopes | 270 |
 | 82 | Stefanie Dolson | 267 |
-| 83 | Bridget Carleton | 262 |
+| 83 | **Bridget Carleton** 🔴 | 262 |
 | 84 | Sophia Witherspoon | 260 |
 | 85 | Dawn Staley | 254 |
 | 86 | Bria Hartley | 253 |
@@ -1233,7 +1233,7 @@ _Last updated: 2026-05-10 01:02 UTC_
 | 186 | Lexie Hull | 109 |
 | 186 | Scholanda Dorrell | 109 |
 | 189 | Belinda Snell | 108 |
-| 189 | Rickea Jackson | 108 |
+| 189 | **Rickea Jackson** 🔴 | 108 |
 | 191 | Kennedy Burke | 107 |
 | 191 | Layshia Clarendon | 107 |
 | 193 | Leonie Fiebich | 106 |
@@ -1270,7 +1270,7 @@ _Last updated: 2026-05-10 01:02 UTC_
 | 19 | Katie Smith | 935 |
 | 20 | Shannon Johnson | 934 |
 | 21 | Taj McWilliams-Franklin | 898 |
-| 22 | Skylar Diggins | 879 |
+| 22 | **Skylar Diggins** 🔴 | 879 |
 | 23 | Chelsea Gray | 872 |
 | 24 | Candice Dupree | 869 |
 | 25 | Alana Beard | 854 |
@@ -1517,7 +1517,7 @@ _Last updated: 2026-05-10 01:02 UTC_
 | 60 | Dearica Hamby | 798 |
 | 61 | Nykesha Sales | 796 |
 | 62 | Ebony Hoffman | 791 |
-| 63 | Skylar Diggins | 790 |
+| 63 | **Skylar Diggins** 🔴 | 790 |
 | 64 | Sue Bird | 775 |
 | 65 | Sheri Sam | 766 |
 | 66 | Erica Wheeler | 758 |
