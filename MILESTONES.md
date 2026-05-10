@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-10 22:40 UTC
+
+- **Jewell Loyd** passed **Brionna Jones** for **#81** all-time in rebounds (career 1,334) — up from #82 entering today — _8:33 - 2nd — LV @ LA_
+
 ## 2026-05-10 22:38 UTC
 
 - **Nneka Ogwumike** passed **Stacey Dales** for **#96** all-time in three-pointers (career 233) — up from #98 entering today — _9:36 - 2nd — LV @ LA_

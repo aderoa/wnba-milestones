@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-10 22:39 UTC_
+_Last updated: 2026-05-10 22:40 UTC_
 
 ## Contents
 
@@ -73,7 +73,7 @@ _Last updated: 2026-05-10 22:39 UTC_
 | 52 | Allisha Gray | 4,157 |
 | 53 | Rebekkah Brunson | 4,133 |
 | 54 | Jonquel Jones | 4,109 |
-| 55 | **Dearica Hamby** 🔴 +2 | 4,092 |
+| 55 | **Dearica Hamby** 🔴 +3 | 4,093 |
 | 56 | Kahleah Copper | 4,083 |
 | 57 | Courtney Williams | 4,061 |
 | 58 | Asjha Jones | 3,986 |
@@ -210,7 +210,7 @@ _Last updated: 2026-05-10 22:39 UTC_
 | 189 | Armintie Herrington | 1,696 |
 | 190 | Nikki Teasley | 1,690 |
 | 191 | Shenise Johnson | 1,688 |
-| 192 | **NaLyssa Smith** 🔴 +6 | 1,682 |
+| 192 | **NaLyssa Smith** 🔴 +8 | 1,684 |
 | 193 | Sophie Cunningham | 1,666 |
 | 194 | Gabby Williams | 1,597 |
 | 195 | Janell Burse | 1,580 |
@@ -304,8 +304,8 @@ _Last updated: 2026-05-10 22:39 UTC_
 | 78 | Allisha Gray | 1,347 |
 | 79 | Monique Billings | 1,345 |
 | 80 | Elena Baranova | 1,335 |
-| 81 | Brionna Jones | 1,333 |
-| 81 | **Jewell Loyd** 🔴 +2 | 1,333 |
+| 81 | **Jewell Loyd** 🔴 +3 | 1,334 |
+| 82 | Brionna Jones | 1,333 |
 | 83 | Erlana Larkins | 1,329 |
 | 84 | Mwadi Mabika | 1,327 |
 | 85 | Jayne Appel Marinelli | 1,326 |
