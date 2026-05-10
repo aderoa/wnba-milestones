@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-10 01:52 UTC_
+_Last updated: 2026-05-10 01:53 UTC_
 
 ## Contents
 
@@ -264,7 +264,7 @@ _Last updated: 2026-05-10 01:52 UTC_
 | 38 | Sophia Young-Malcolm | 1,807 |
 | 39 | Lindsay Whalen | 1,805 |
 | 40 | Camille Smith | 1,802 |
-| 41 | **Courtney Williams** 🔴 +5 | 1,752 |
+| 41 | **Courtney Williams** 🔴 +6 | 1,753 |
 | 42 | Asjha Jones | 1,751 |
 | 43 | Kiah Stokes | 1,746 |
 | 44 | Teaira McCowan | 1,670 |
@@ -398,9 +398,9 @@ _Last updated: 2026-05-10 01:52 UTC_
 | 172 | Betnijah Laney-Hamilton | 785 |
 | 173 | Sue Wicks | 780 |
 | 174 | Lindsey Harding | 779 |
+| 175 | **Naz Hillmon** 🔴 +5 | 778 |
 | 175 | Odyssey Sims | 778 |
 | 175 | Tiffani Johnson | 778 |
-| 177 | **Naz Hillmon** 🔴 +4 | 777 |
 | 178 | Teresa Weatherspoon | 775 |
 | 179 | Anna DeForge | 769 |
 | 179 | Kelsey Bone | 769 |
