@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-10 02:30 UTC_
+_Last updated: 2026-05-10 02:31 UTC_
 
 ## Contents
 
@@ -364,8 +364,8 @@ _Last updated: 2026-05-10 02:30 UTC_
 | 138 | Kara Lawson | 976 |
 | 139 | Jennifer Gillom | 964 |
 | 140 | Dominique Canty | 961 |
-| 141 | Armintie Herrington | 960 |
-| 141 | **Skylar Diggins** 🔴 +5 | 960 |
+| 140 | **Skylar Diggins** 🔴 +6 | 961 |
+| 142 | Armintie Herrington | 960 |
 | 143 | Janell Burse | 944 |
 | 144 | Merlakia Jones | 927 |
 | 145 | Nicky Anosike | 922 |
@@ -1447,8 +1447,8 @@ _Last updated: 2026-05-10 02:30 UTC_
 | 195 | Kayla Thornton | 288 |
 | 195 | Kristen Rasmussen | 288 |
 | 198 | Azurá Stevens | 286 |
-| 199 | Damiris Dantas | 285 |
-| 199 | **Rachel Banham** 🔴 +1 | 285 |
+| 198 | **Rachel Banham** 🔴 +2 | 286 |
+| 200 | Damiris Dantas | 285 |
 
 ## Personal fouls
 

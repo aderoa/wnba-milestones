@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-10 02:31 UTC
+
+- **Skylar Diggins** passed **Armintie Herrington** for **#141** all-time in rebounds (career 961) — up from #142 entering today — _8:51 - 4th — CHI @ POR_
+
 ## 2026-05-10 02:20 UTC
 
 - **Elizabeth Williams** passed **Caitlin Clark** for **#139** all-time in assists (career 453) — up from #140 entering today — _3:07 - 3rd — CHI @ POR_
