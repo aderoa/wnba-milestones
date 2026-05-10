@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-10 22:56 UTC_
+_Last updated: 2026-05-10 22:57 UTC_
 
 ## Contents
 
@@ -69,7 +69,7 @@ _Last updated: 2026-05-10 22:56 UTC_
 | 48 | Monique Currie | 4,253 |
 | 49 | Vickie Johnson | 4,230 |
 | 50 | Yolanda Griffith | 4,224 |
-| 51 | **Kelsey Plum** 🔴 +9 | 4,216 |
+| 51 | **Kelsey Plum** 🔴 +10 | 4,217 |
 | 52 | Allisha Gray | 4,157 |
 | 53 | Rebekkah Brunson | 4,133 |
 | 54 | Jonquel Jones | 4,109 |
@@ -95,7 +95,7 @@ _Last updated: 2026-05-10 22:56 UTC_
 | 74 | Sancho Lyttle | 3,478 |
 | 75 | Ivory Latta | 3,447 |
 | 76 | Brittney Sykes | 3,439 |
-| 77 | **Jackie Young** 🔴 +6 | 3,418 |
+| 77 | **Jackie Young** 🔴 +8 | 3,420 |
 | 78 | Nicole Powell | 3,407 |
 | 79 | Epiphanny Prince | 3,381 |
 | 80 | **Ariel Atkins** 🔴 +4 | 3,365 |
@@ -1376,9 +1376,9 @@ _Last updated: 2026-05-10 22:56 UTC_
 | 123 | Jantel Lavender | 444 |
 | 125 | **A'ja Wilson** 🔴 +2 | 443 |
 | 126 | Ann Wauters | 440 |
+| 127 | **Ariel Atkins** 🔴 +2 | 439 |
 | 127 | Tiffany Mitchell | 439 |
-| 128 | **Ariel Atkins** 🔴 +1 | 438 |
-| 128 | Kedra Holland-Corn | 438 |
+| 129 | Kedra Holland-Corn | 438 |
 | 130 | Alysha Clark | 437 |
 | 130 | Betnijah Laney-Hamilton | 437 |
 | 132 | Cheyenne Parker-Tyus | 435 |
@@ -1558,7 +1558,7 @@ _Last updated: 2026-05-10 22:56 UTC_
 | 101 | Breanna Stewart | 648 |
 | 101 | Tari Phillips | 648 |
 | 103 | Marie Ferdinand-Harris | 646 |
-| 104 | **Jewell Loyd** 🔴 | 644 |
+| 104 | **Jewell Loyd** 🔴 +1 | 645 |
 | 105 | Kayla Thornton | 640 |
 | 106 | Charlotte Smith | 638 |
 | 107 | Janell Burse | 632 |

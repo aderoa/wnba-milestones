@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-10 22:57 UTC
+
+- **Ariel Atkins** passed **Kedra Holland-Corn** for **#128** all-time in turnovers (career 439) — up from #130 entering today — _3:34 - 2nd — LV @ LA_
+
 ## 2026-05-10 22:55 UTC
 
 - **Chelsea Gray** passed **Latasha Byears** and **Tanisha Wright** for **#99** all-time in rebounds (career 1,191) — up from #102 entering today — _4:19 - 2nd — LV @ LA_
