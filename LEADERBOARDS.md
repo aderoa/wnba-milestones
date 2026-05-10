@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-10 23:40 UTC_
+_Last updated: 2026-05-10 23:41 UTC_
 
 ## Contents
 
@@ -24,7 +24,7 @@ _Last updated: 2026-05-10 23:40 UTC_
 | 3 | DeWanna Bonner | 7,805 |
 | 4 | Tina Thompson | 7,470 |
 | 5 | Tamika Catchings | 7,371 |
-| 6 | **Nneka Ogwumike** 🔴 +17 | 7,322 |
+| 6 | **Nneka Ogwumike** 🔴 +19 | 7,324 |
 | 7 | Candice Dupree | 6,861 |
 | 8 | Sue Bird | 6,802 |
 | 9 | Cappie Pondexter | 6,781 |
@@ -39,7 +39,7 @@ _Last updated: 2026-05-10 23:40 UTC_
 | 18 | Brittney Griner | 5,983 |
 | 19 | Becky Hammon | 5,816 |
 | 20 | Angel McCoughtry | 5,797 |
-| 21 | **A'ja Wilson** 🔴 +16 | 5,735 |
+| 21 | **A'ja Wilson** 🔴 +17 | 5,736 |
 | 22 | DeLisha Milton-Jones | 5,571 |
 | 23 | Katie Douglas | 5,545 |
 | 24 | Lindsay Whalen | 5,511 |
@@ -95,7 +95,7 @@ _Last updated: 2026-05-10 23:40 UTC_
 | 74 | Sancho Lyttle | 3,478 |
 | 75 | Ivory Latta | 3,447 |
 | 76 | Brittney Sykes | 3,439 |
-| 77 | **Jackie Young** 🔴 +12 | 3,424 |
+| 77 | **Jackie Young** 🔴 +15 | 3,427 |
 | 78 | Nicole Powell | 3,407 |
 | 79 | Epiphanny Prince | 3,381 |
 | 80 | **Ariel Atkins** 🔴 +8 | 3,369 |
@@ -230,7 +230,7 @@ _Last updated: 2026-05-10 23:40 UTC_
 | 4 | Rebekkah Brunson | 3,345 |
 | 5 | Tamika Catchings | 3,313 |
 | 6 | Lisa Leslie | 3,303 |
-| 7 | **Nneka Ogwumike** 🔴 +6 | 3,274 |
+| 7 | **Nneka Ogwumike** 🔴 +7 | 3,275 |
 | 8 | DeWanna Bonner | 3,203 |
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
@@ -1109,9 +1109,9 @@ _Last updated: 2026-05-10 23:40 UTC_
 | 62 | Marissa Coleman | 315 |
 | 63 | Shannon Johnson | 313 |
 | 64 | DeLisha Milton-Jones | 312 |
+| 64 | **Jackie Young** 🔴 +1 | 312 |
 | 64 | Ruthie Bolton | 312 |
-| 66 | **Jackie Young** 🔴 | 311 |
-| 66 | Tan White | 311 |
+| 67 | Tan White | 311 |
 | 68 | Kedra Holland-Corn | 307 |
 | 69 | Kelly Miller | 305 |
 | 69 | Sophie Cunningham | 305 |
