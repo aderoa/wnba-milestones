@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-10T21:00:00+00:00",
+    "text": "Shakira Austin passed Rushia Brown for #197 all-time in rebounds (career 707) \u2014 up from #200 entering today \u2014 (4:20 - 4th \u2014 NY @ WSH)",
+    "kind": "rank_pass",
+    "player": "Shakira Austin",
+    "stat": "rebounds",
+    "rank": 197,
+    "passed_players": [
+      "Rushia Brown"
+    ],
+    "new_total": 707
+  },
+  {
     "ts": "2026-05-10T20:53:00+00:00",
     "text": "Kiki Iriafen reached 400 career rebounds (now 400) \u2014 (8:54 - 4th \u2014 NY @ WSH)",
     "kind": "round",

@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-10 20:59 UTC_
+_Last updated: 2026-05-10 21:00 UTC_
 
 ## Contents
 
@@ -242,7 +242,7 @@ _Last updated: 2026-05-10 20:59 UTC_
 | 16 | Brittney Griner | 2,537 |
 | 17 | Swin Cash | 2,521 |
 | 18 | A'ja Wilson | 2,494 |
-| 19 | **Breanna Stewart** 🔴 +6 | 2,490 |
+| 19 | **Breanna Stewart** 🔴 +7 | 2,491 |
 | 20 | Michelle Snow | 2,476 |
 | 21 | Crystal Langhorne | 2,454 |
 | 22 | Lauren Jackson | 2,444 |
@@ -420,8 +420,8 @@ _Last updated: 2026-05-10 20:59 UTC_
 | 194 | Kelsey Plum | 715 |
 | 195 | Olympia Scott | 711 |
 | 196 | Katie Mattera | 708 |
-| 197 | Rushia Brown | 706 |
-| 197 | **Shakira Austin** 🔴 +6 | 706 |
+| 197 | **Shakira Austin** 🔴 +7 | 707 |
+| 198 | Rushia Brown | 706 |
 | 199 | Allie Quigley | 702 |
 | 200 | Epiphanny Prince | 701 |
 

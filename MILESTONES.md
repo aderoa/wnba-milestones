@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-10 21:00 UTC
+
+- **Shakira Austin** passed **Rushia Brown** for **#197** all-time in rebounds (career 707) — up from #200 entering today — _4:20 - 4th — NY @ WSH_
+
 ## 2026-05-10 20:53 UTC
 
 - **Kiki Iriafen** reached **400** career rebounds (now 400) — _8:54 - 4th — NY @ WSH_
