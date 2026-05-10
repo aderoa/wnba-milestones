@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-10 23:55 UTC_
+_Last updated: 2026-05-10 23:56 UTC_
 
 ## Contents
 
@@ -68,7 +68,7 @@ _Last updated: 2026-05-10 23:55 UTC_
 | 47 | Plenette Pierson | 4,258 |
 | 48 | Monique Currie | 4,253 |
 | 49 | Vickie Johnson | 4,230 |
-| 50 | **Kelsey Plum** 🔴 +18 | 4,225 |
+| 50 | **Kelsey Plum** 🔴 +19 | 4,226 |
 | 51 | Yolanda Griffith | 4,224 |
 | 52 | Allisha Gray | 4,157 |
 | 53 | Rebekkah Brunson | 4,133 |
@@ -417,7 +417,7 @@ _Last updated: 2026-05-10 23:55 UTC_
 | 191 | Sami Whitcomb | 726 |
 | 191 | Shekinna Stricklen | 726 |
 | 193 | Arike Ogunbowale | 722 |
-| 194 | **Kelsey Plum** 🔴 +3 | 718 |
+| 194 | **Kelsey Plum** 🔴 +4 | 719 |
 | 195 | Olympia Scott | 711 |
 | 196 | Shakira Austin | 710 |
 | 197 | Katie Mattera | 708 |
@@ -675,8 +675,8 @@ _Last updated: 2026-05-10 23:55 UTC_
 | 39 | Napheesa Collier | 239 |
 | 40 | Emma Meesseman | 238 |
 | 41 | Azurá Stevens | 230 |
+| 42 | **Brianna Turner** 🔴 +1 | 228 |
 | 42 | Chasity Melvin | 228 |
-| 43 | **Brianna Turner** 🔴 | 227 |
 | 44 | Sancho Lyttle | 221 |
 | 44 | Skylar Diggins | 221 |
 | 46 | Alana Beard | 220 |
@@ -896,7 +896,7 @@ _Last updated: 2026-05-10 23:55 UTC_
 | 54 | Tiffany Hayes | 378 |
 | 56 | Chamique Holdsclaw | 376 |
 | 57 | Mwadi Mabika | 370 |
-| 58 | **Ariel Atkins** 🔴 +2 | 367 |
+| 58 | **Ariel Atkins** 🔴 +3 | 368 |
 | 59 | Lauren Jackson | 360 |
 | 59 | Tan White | 360 |
 | 61 | Jordin Canada | 359 |
@@ -1272,7 +1272,7 @@ _Last updated: 2026-05-10 23:55 UTC_
 | 20 | Shannon Johnson | 934 |
 | 21 | Taj McWilliams-Franklin | 898 |
 | 22 | Skylar Diggins | 879 |
-| 23 | **Chelsea Gray** 🔴 +5 | 874 |
+| 23 | **Chelsea Gray** 🔴 +6 | 875 |
 | 24 | Candice Dupree | 869 |
 | 25 | Alana Beard | 854 |
 | 26 | DeWanna Bonner | 826 |
