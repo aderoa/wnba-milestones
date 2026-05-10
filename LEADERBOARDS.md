@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-10 00:31 UTC_
+_Last updated: 2026-05-10 00:32 UTC_
 
 ## Contents
 
@@ -70,7 +70,7 @@ _Last updated: 2026-05-10 00:31 UTC_
 | 49 | Vickie Johnson | 4,230 |
 | 50 | Yolanda Griffith | 4,224 |
 | 51 | Kelsey Plum | 4,207 |
-| 52 | **Allisha Gray** 🔴 +4 | 4,161 |
+| 52 | **Allisha Gray** 🔴 +5 | 4,162 |
 | 53 | Rebekkah Brunson | 4,133 |
 | 54 | Jonquel Jones | 4,096 |
 | 54 | Kahleah Copper | 4,096 |
@@ -446,7 +446,7 @@ _Last updated: 2026-05-10 00:31 UTC_
 | 15 | Shannon Johnson | 1,423 |
 | 15 | Tanisha Wright | 1,423 |
 | 17 | Temeka Johnson | 1,382 |
-| 18 | **Courtney Williams** 🔴 +3 | 1,368 |
+| 18 | **Courtney Williams** 🔴 +2 | 1,367 |
 | 19 | Jasmine Thomas | 1,355 |
 | 20 | Briann January | 1,339 |
 | 21 | Dawn Staley | 1,337 |
@@ -474,8 +474,8 @@ _Last updated: 2026-05-10 00:31 UTC_
 | 43 | Jackie Young | 1,032 |
 | 44 | Nikki Teasley | 982 |
 | 45 | Tamecka Dixon | 960 |
-| 46 | Kara Lawson | 946 |
-| 46 | **Kayla McBride** 🔴 +1 | 946 |
+| 46 | **Kayla McBride** 🔴 +2 | 947 |
+| 47 | Kara Lawson | 946 |
 | 48 | Deanna Nolan | 930 |
 | 49 | Breanna Stewart | 929 |
 | 50 | Kelly Miller | 927 |
@@ -931,7 +931,7 @@ _Last updated: 2026-05-10 00:31 UTC_
 | 90 | Debbie Black | 315 |
 | 91 | Alysha Clark | 314 |
 | 91 | Crystal Langhorne | 314 |
-| 93 | **Courtney Williams** 🔴 +1 | 309 |
+| 93 | **Courtney Williams** 🔴 +2 | 310 |
 | 94 | Ebony Hoffman | 308 |
 | 95 | Tamera Young | 305 |
 | 96 | Kedra Holland-Corn | 301 |
@@ -1474,7 +1474,7 @@ _Last updated: 2026-05-10 00:31 UTC_
 | 17 | Nneka Ogwumike | 1,131 |
 | 18 | Tanisha Wright | 1,109 |
 | 19 | Michelle Snow | 1,108 |
-| 20 | **Natasha Howard** 🔴 +1 | 1,089 |
+| 20 | **Natasha Howard** 🔴 +2 | 1,090 |
 | 21 | Stefanie Dolson | 1,082 |
 | 22 | Sylvia Fowles | 1,049 |
 | 23 | Tina Charles | 1,037 |
