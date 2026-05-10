@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-10 19:06 UTC_
+_Last updated: 2026-05-10 19:07 UTC_
 
 ## Contents
 
@@ -205,7 +205,7 @@ _Last updated: 2026-05-10 19:06 UTC_
 | 184 | Tully Bevilaqua | 1,763 |
 | 185 | Sandy Brondello | 1,759 |
 | 186 | Sugar Rodgers | 1,733 |
-| 187 | **Natisha Hiedeman** 🔴 +10 | 1,726 |
+| 187 | **Natisha Hiedeman** 🔴 +11 | 1,727 |
 | 188 | Moriah Jefferson | 1,722 |
 | 189 | Armintie Herrington | 1,696 |
 | 190 | Nikki Teasley | 1,690 |
