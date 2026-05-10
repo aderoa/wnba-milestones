@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-10 17:50 UTC_
+_Last updated: 2026-05-10 17:51 UTC_
 
 ## Contents
 
@@ -1484,7 +1484,7 @@ _Last updated: 2026-05-10 17:50 UTC_
 | 28 | Lauren Jackson | 982 |
 | 29 | Nakia Sanford | 979 |
 | 30 | Asjha Jones | 971 |
-| 31 | **Brittney Griner** 🔴 +1 | 968 |
+| 31 | **Brittney Griner** 🔴 +2 | 969 |
 | 32 | Margo Dydek | 950 |
 | 33 | Sancho Lyttle | 947 |
 | 34 | Mwadi Mabika | 941 |
