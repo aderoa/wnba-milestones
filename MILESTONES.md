@@ -2,6 +2,11 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-10 02:00 UTC
+
+- **Naz Hillmon** passed **Tiffani Johnson** for **#175** all-time in rebounds (career 779) — up from #178 entering today — _2:42 - 4th — ATL @ MIN_
+- **Rhyne Howard** passed **Veronica Burton** for **#131** all-time in assists (career 486) — up from #132 entering today — _2:42 - 4th — ATL @ MIN_
+
 ## 2026-05-10 01:49 UTC
 
 - **Luisa Geiselsoder** reached **200** career points (now 200) — _11.0 - 2nd — CHI @ POR_
