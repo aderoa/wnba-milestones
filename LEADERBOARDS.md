@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-10 19:34 UTC_
+_Last updated: 2026-05-10 19:35 UTC_
 
 ## Contents
 
@@ -33,7 +33,7 @@ _Last updated: 2026-05-10 19:34 UTC_
 | 12 | Sylvia Fowles | 6,413 |
 | 13 | Lisa Leslie | 6,251 |
 | 14 | Jewell Loyd | 6,027 |
-| 15 | **Breanna Stewart** 🔴 +5 | 6,021 |
+| 15 | **Breanna Stewart** 🔴 +7 | 6,023 |
 | 16 | Lauren Jackson | 6,005 |
 | 16 | Seimone Augustus | 6,005 |
 | 18 | Brittney Griner | 5,983 |
@@ -242,7 +242,7 @@ _Last updated: 2026-05-10 19:34 UTC_
 | 16 | Brittney Griner | 2,537 |
 | 17 | Swin Cash | 2,521 |
 | 18 | A'ja Wilson | 2,494 |
-| 19 | **Breanna Stewart** 🔴 +1 | 2,485 |
+| 19 | **Breanna Stewart** 🔴 +2 | 2,486 |
 | 20 | Michelle Snow | 2,476 |
 | 21 | Crystal Langhorne | 2,454 |
 | 22 | Lauren Jackson | 2,444 |
@@ -648,7 +648,7 @@ _Last updated: 2026-05-10 19:34 UTC_
 | 12 | Taj McWilliams-Franklin | 443 |
 | 13 | **Breanna Stewart** 🔴 | 428 |
 | 13 | Tina Charles | 428 |
-| 15 | **Jonquel Jones** 🔴 | 405 |
+| 15 | **Jonquel Jones** 🔴 +1 | 406 |
 | 16 | Michelle Snow | 403 |
 | 17 | Tamika Catchings | 383 |
 | 18 | Tina Thompson | 372 |
@@ -1336,7 +1336,7 @@ _Last updated: 2026-05-10 19:34 UTC_
 | 84 | Sancho Lyttle | 563 |
 | 85 | Brittney Sykes | 558 |
 | 86 | Tan White | 557 |
-| 87 | **Breanna Stewart** 🔴 +1 | 550 |
+| 87 | **Breanna Stewart** 🔴 +2 | 551 |
 | 88 | Kelsey Mitchell | 549 |
 | 88 | Lauren Jackson | 549 |
 | 90 | Matee Ajavon | 544 |
@@ -1557,8 +1557,8 @@ _Last updated: 2026-05-10 19:34 UTC_
 | 100 | Kelsey Plum | 658 |
 | 101 | Tari Phillips | 648 |
 | 102 | Marie Ferdinand-Harris | 646 |
-| 103 | **Breanna Stewart** 🔴 +1 | 644 |
-| 103 | Jewell Loyd | 644 |
+| 103 | **Breanna Stewart** 🔴 +2 | 645 |
+| 104 | Jewell Loyd | 644 |
 | 105 | Kayla Thornton | 640 |
 | 106 | Charlotte Smith | 638 |
 | 107 | Janell Burse | 632 |

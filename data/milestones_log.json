@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-10T19:35:00+00:00",
+    "text": "Breanna Stewart passed Jewell Loyd for #103 all-time in fouls (career 645) \u2014 up from #104 entering today \u2014 (7:15 - 2nd \u2014 NY @ WSH)",
+    "kind": "rank_pass",
+    "player": "Breanna Stewart",
+    "stat": "fouls",
+    "rank": 103,
+    "passed_players": [
+      "Jewell Loyd"
+    ],
+    "new_total": 645
+  },
+  {
     "ts": "2026-05-10T19:33:00+00:00",
     "text": "Jonquel Jones reached 4,100 career points (now 4,101) \u2014 (8:05 - 2nd \u2014 NY @ WSH)",
     "kind": "round",
