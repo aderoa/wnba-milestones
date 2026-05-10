@@ -1,5 +1,14 @@
 [
   {
+    "ts": "2026-05-10T19:23:00+00:00",
+    "text": "Kiki Iriafen reached 600 career points (now 600) \u2014 (35.2 - 1st \u2014 NY @ WSH)",
+    "kind": "round",
+    "player": "Kiki Iriafen",
+    "stat": "points",
+    "value": 600,
+    "new_total": 600
+  },
+  {
     "ts": "2026-05-10T19:19:00+00:00",
     "text": "Breanna Stewart passed Kelsey Mitchell and Lauren Jackson for #88 all-time in turnovers (career 550) \u2014 (2:38 - 1st \u2014 NY @ WSH)",
     "kind": "rank_pass",

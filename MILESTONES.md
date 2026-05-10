@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-10 19:23 UTC
+
+- **Kiki Iriafen** reached **600** career points (now 600) — _35.2 - 1st — NY @ WSH_
+
 ## 2026-05-10 19:19 UTC
 
 - **Breanna Stewart** passed **Kelsey Mitchell** and **Lauren Jackson** for **#88** all-time in turnovers (career 550) — _2:38 - 1st — NY @ WSH_
