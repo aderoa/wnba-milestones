@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-10 02:54 UTC_
+_Last updated: 2026-05-10 02:55 UTC_
 
 ## Contents
 
@@ -768,11 +768,11 @@ _Last updated: 2026-05-10 02:54 UTC_
 | 130 | Rhyne Howard | 98 |
 | 133 | Aneika Morello | 96 |
 | 133 | Tiffani Johnson | 96 |
+| 135 | **Emily Engstler** 🔴 +3 | 95 |
 | 135 | Imani McGee-Stafford | 95 |
 | 135 | **Isabelle Harrison** 🔴 | 95 |
-| 137 | **Emily Engstler** 🔴 +2 | 94 |
-| 137 | **Kamilla Cardoso** 🔴 +1 | 94 |
-| 137 | Sandrine Gruda | 94 |
+| 138 | **Kamilla Cardoso** 🔴 +1 | 94 |
+| 138 | Sandrine Gruda | 94 |
 | 140 | Jewell Loyd | 92 |
 | 141 | Jasmine Thomas | 91 |
 | 141 | Kayla Alexander | 91 |
