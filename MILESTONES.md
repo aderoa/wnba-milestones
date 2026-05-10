@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-10 19:36 UTC
+
+- **Marine Johannès** passed **Katie Lou Samuelson** for **#152** all-time in three-pointers (career 143) — up from #154 entering today — _6:18 - 2nd — NY @ WSH_
+
 ## 2026-05-10 19:35 UTC
 
 - **Breanna Stewart** passed **Jewell Loyd** for **#103** all-time in fouls (career 645) — up from #104 entering today — _7:15 - 2nd — NY @ WSH_
