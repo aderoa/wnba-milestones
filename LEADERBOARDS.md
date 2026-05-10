@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-10 17:24 UTC_
+_Last updated: 2026-05-10 17:25 UTC_
 
 ## Contents
 
@@ -1474,7 +1474,7 @@ _Last updated: 2026-05-10 17:24 UTC_
 | 18 | Tanisha Wright | 1,109 |
 | 19 | Michelle Snow | 1,108 |
 | 20 | Natasha Howard | 1,088 |
-| 21 | **Stefanie Dolson** 🔴 | 1,082 |
+| 21 | **Stefanie Dolson** 🔴 +1 | 1,083 |
 | 22 | Sylvia Fowles | 1,049 |
 | 23 | Tina Charles | 1,037 |
 | 24 | Lindsay Whalen | 998 |
