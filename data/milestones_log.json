@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-10T19:11:00+00:00",
+    "text": "Breanna Stewart passed Deanna Nolan for #48 all-time in assists (career 932) \u2014 up from #49 entering today \u2014 (4:40 - 1st \u2014 NY @ WSH)",
+    "kind": "rank_pass",
+    "player": "Breanna Stewart",
+    "stat": "assists",
+    "rank": 48,
+    "passed_players": [
+      "Deanna Nolan"
+    ],
+    "new_total": 932
+  },
+  {
     "ts": "2026-05-10T19:10:00+00:00",
     "text": "Brittney Griner passed Asjha Jones for #30 all-time in fouls (career 972) \u2014 up from #31 entering today \u2014 (1:07 - 4th \u2014 SEA @ CON)",
     "kind": "rank_pass",

@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-10 19:11 UTC
+
+- **Breanna Stewart** passed **Deanna Nolan** for **#48** all-time in assists (career 932) — up from #49 entering today — _4:40 - 1st — NY @ WSH_
+
 ## 2026-05-10 19:10 UTC
 
 - **Brittney Griner** passed **Asjha Jones** for **#30** all-time in fouls (career 972) — up from #31 entering today — _1:07 - 4th — SEA @ CON_
