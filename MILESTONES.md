@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-10 22:19 UTC
+
+- **Nneka Ogwumike** passed **Brittney Sykes** for **#97** all-time in three-pointers (career 232) — up from #98 entering today — _4:25 - 1st — LV @ LA_
+
 ## 2026-05-10 22:14 UTC
 
 - **Ariel Atkins** passed **Michelle Snow** for **#81** all-time in points (career 3,363) — _8:19 - 1st — LV @ LA_
