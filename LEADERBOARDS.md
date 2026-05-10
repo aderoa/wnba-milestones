@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-10 23:05 UTC_
+_Last updated: 2026-05-10 23:06 UTC_
 
 ## Contents
 
@@ -39,7 +39,7 @@ _Last updated: 2026-05-10 23:05 UTC_
 | 18 | Brittney Griner | 5,983 |
 | 19 | Becky Hammon | 5,816 |
 | 20 | Angel McCoughtry | 5,797 |
-| 21 | **A'ja Wilson** 🔴 +8 | 5,727 |
+| 21 | **A'ja Wilson** 🔴 +10 | 5,729 |
 | 22 | DeLisha Milton-Jones | 5,571 |
 | 23 | Katie Douglas | 5,545 |
 | 24 | Lindsay Whalen | 5,511 |
@@ -69,7 +69,7 @@ _Last updated: 2026-05-10 23:05 UTC_
 | 48 | Monique Currie | 4,253 |
 | 49 | Vickie Johnson | 4,230 |
 | 50 | Yolanda Griffith | 4,224 |
-| 51 | **Kelsey Plum** 🔴 +11 | 4,218 |
+| 51 | **Kelsey Plum** 🔴 +13 | 4,220 |
 | 52 | Allisha Gray | 4,157 |
 | 53 | Rebekkah Brunson | 4,133 |
 | 54 | Jonquel Jones | 4,109 |
@@ -471,7 +471,7 @@ _Last updated: 2026-05-10 23:05 UTC_
 | 40 | Dominique Canty | 1,042 |
 | 41 | Sheryl Swoopes | 1,037 |
 | 42 | Tina Charles | 1,033 |
-| 43 | **Jackie Young** 🔴 +2 | 1,031 |
+| 43 | **Jackie Young** 🔴 +3 | 1,032 |
 | 44 | Nikki Teasley | 982 |
 | 45 | Tamecka Dixon | 960 |
 | 46 | Kara Lawson | 946 |
@@ -896,7 +896,7 @@ _Last updated: 2026-05-10 23:05 UTC_
 | 54 | Tiffany Hayes | 378 |
 | 56 | Chamique Holdsclaw | 376 |
 | 57 | Mwadi Mabika | 370 |
-| 58 | **Ariel Atkins** 🔴 +1 | 366 |
+| 58 | **Ariel Atkins** 🔴 +2 | 367 |
 | 59 | Lauren Jackson | 360 |
 | 59 | Tan White | 360 |
 | 61 | Jordin Canada | 359 |
@@ -1372,9 +1372,9 @@ _Last updated: 2026-05-10 23:05 UTC_
 | 120 | Kia Vaughn | 454 |
 | 121 | Janeth Arcain | 453 |
 | 122 | Allisha Gray | 449 |
+| 123 | **A'ja Wilson** 🔴 +3 | 444 |
 | 123 | Elena Baranova | 444 |
 | 123 | Jantel Lavender | 444 |
-| 125 | **A'ja Wilson** 🔴 +2 | 443 |
 | 126 | Ann Wauters | 440 |
 | 127 | **Ariel Atkins** 🔴 +2 | 439 |
 | 127 | Tiffany Mitchell | 439 |
@@ -1542,9 +1542,9 @@ _Last updated: 2026-05-10 23:05 UTC_
 | 85 | Katie Douglas | 697 |
 | 86 | Danielle Robinson | 692 |
 | 87 | Sophia Young-Malcolm | 687 |
+| 88 | **Ariel Atkins** 🔴 +2 | 686 |
 | 88 | Maya Moore | 686 |
-| 89 | **Ariel Atkins** 🔴 +1 | 685 |
-| 89 | Jasmine Thomas | 685 |
+| 90 | Jasmine Thomas | 685 |
 | 91 | Leilani Mitchell | 684 |
 | 92 | Crystal Robinson | 682 |
 | 93 | Jennifer Lacy | 680 |

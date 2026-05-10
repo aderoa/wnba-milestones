@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-10 23:06 UTC
+
+- **Ariel Atkins** passed **Jasmine Thomas** for **#89** all-time in fouls (career 686) — up from #90 entering today — _57.1 - 2nd — LV @ LA_
+
 ## 2026-05-10 23:04 UTC
 
 - **Erica Wheeler** passed **Andrea Stinson** for **#72** all-time in steals (career 343) — up from #73 entering today — _2:05 - 2nd — LV @ LA_

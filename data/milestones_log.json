@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-10T23:06:00+00:00",
+    "text": "Ariel Atkins passed Jasmine Thomas for #89 all-time in fouls (career 686) \u2014 up from #90 entering today \u2014 (57.1 - 2nd \u2014 LV @ LA)",
+    "kind": "rank_pass",
+    "player": "Ariel Atkins",
+    "stat": "fouls",
+    "rank": 89,
+    "passed_players": [
+      "Jasmine Thomas"
+    ],
+    "new_total": 686
+  },
+  {
     "ts": "2026-05-10T23:04:00+00:00",
     "text": "Erica Wheeler passed Andrea Stinson for #72 all-time in steals (career 343) \u2014 up from #73 entering today \u2014 (2:05 - 2nd \u2014 LV @ LA)",
     "kind": "rank_pass",
