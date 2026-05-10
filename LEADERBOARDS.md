@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-10 00:27 UTC_
+_Last updated: 2026-05-10 00:28 UTC_
 
 ## Contents
 
@@ -75,7 +75,7 @@ _Last updated: 2026-05-10 00:27 UTC_
 | 54 | Jonquel Jones | 4,096 |
 | 54 | Kahleah Copper | 4,096 |
 | 56 | Dearica Hamby | 4,090 |
-| 57 | **Courtney Williams** 🔴 +4 | 4,065 |
+| 57 | **Courtney Williams** 🔴 +6 | 4,067 |
 | 58 | Asjha Jones | 3,986 |
 | 59 | Deanna Nolan | 3,971 |
 | 60 | Nykesha Sales | 3,931 |
@@ -300,8 +300,8 @@ _Last updated: 2026-05-10 00:27 UTC_
 | 74 | Ebony Hoffman | 1,376 |
 | 75 | Sheri Sam | 1,356 |
 | 76 | Tamika Whitmore | 1,355 |
+| 77 | **Allisha Gray** 🔴 +3 | 1,350 |
 | 77 | Emma Meesseman | 1,350 |
-| 78 | **Allisha Gray** 🔴 +2 | 1,349 |
 | 79 | Monique Billings | 1,345 |
 | 80 | Elena Baranova | 1,335 |
 | 81 | Brionna Jones | 1,333 |
@@ -1360,7 +1360,7 @@ _Last updated: 2026-05-10 00:27 UTC_
 | 109 | Nikki Teasley | 493 |
 | 109 | Tari Phillips | 493 |
 | 111 | Janel McCarville | 491 |
-| 112 | **Jordin Canada** 🔴 +1 | 490 |
+| 111 | **Jordin Canada** 🔴 +2 | 491 |
 | 113 | Marina Mabrey | 487 |
 | 114 | Erika de Souza | 483 |
 | 115 | Sophia Young-Malcolm | 482 |
