@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-10 01:12 UTC_
+_Last updated: 2026-05-10 01:13 UTC_
 
 ## Contents
 
@@ -171,7 +171,7 @@ _Last updated: 2026-05-10 01:12 UTC_
 | 150 | Satou Sabally | 2,161 |
 | 151 | Murriel Page | 2,146 |
 | 152 | Marissa Coleman | 2,140 |
-| 153 | **Jordin Canada** 🔴 +5 | 2,137 |
+| 153 | **Jordin Canada** 🔴 +6 | 2,138 |
 | 154 | Tari Phillips | 2,134 |
 | 155 | Cheryl Ford | 2,116 |
 | 156 | Elena Baranova | 2,110 |
@@ -300,8 +300,8 @@ _Last updated: 2026-05-10 01:12 UTC_
 | 74 | Ebony Hoffman | 1,376 |
 | 75 | Sheri Sam | 1,356 |
 | 76 | Tamika Whitmore | 1,355 |
-| 77 | **Allisha Gray** 🔴 +3 | 1,350 |
-| 77 | Emma Meesseman | 1,350 |
+| 77 | **Allisha Gray** 🔴 +4 | 1,351 |
+| 78 | Emma Meesseman | 1,350 |
 | 79 | Monique Billings | 1,345 |
 | 80 | Elena Baranova | 1,335 |
 | 81 | Brionna Jones | 1,333 |
@@ -380,8 +380,8 @@ _Last updated: 2026-05-10 01:12 UTC_
 | 154 | Erica Wheeler | 852 |
 | 155 | Leilani Mitchell | 845 |
 | 156 | Alanna Smith | 837 |
+| 157 | **Angel Reese** 🔴 +10 | 833 |
 | 157 | Essence Carson | 833 |
-| 158 | **Angel Reese** 🔴 +9 | 832 |
 | 159 | Kristi Toliver | 829 |
 | 160 | Marie Ferdinand-Harris | 828 |
 | 161 | Jessica Shepard | 822 |
@@ -907,7 +907,7 @@ _Last updated: 2026-05-10 01:12 UTC_
 | 66 | Brittney Sykes | 354 |
 | 67 | Vicky Bullett | 353 |
 | 68 | Svetlana Abrosimova | 352 |
-| 69 | **Allisha Gray** 🔴 | 349 |
+| 69 | **Allisha Gray** 🔴 +1 | 350 |
 | 70 | Janeth Arcain | 346 |
 | 71 | Helen Darling | 343 |
 | 72 | Andrea Stinson | 342 |
@@ -1279,7 +1279,7 @@ _Last updated: 2026-05-10 01:12 UTC_
 | 28 | Betty Lennox | 800 |
 | 29 | Jasmine Thomas | 796 |
 | 30 | Chamique Holdsclaw | 789 |
-| 31 | **Natasha Howard** 🔴 +3 | 787 |
+| 31 | **Natasha Howard** 🔴 +4 | 788 |
 | 32 | Crystal Langhorne | 782 |
 | 32 | Nneka Ogwumike | 782 |
 | 34 | Jewell Loyd | 781 |
@@ -1474,7 +1474,7 @@ _Last updated: 2026-05-10 01:12 UTC_
 | 17 | Nneka Ogwumike | 1,131 |
 | 18 | Tanisha Wright | 1,109 |
 | 19 | Michelle Snow | 1,108 |
-| 20 | **Natasha Howard** 🔴 +3 | 1,091 |
+| 20 | **Natasha Howard** 🔴 +4 | 1,092 |
 | 21 | Stefanie Dolson | 1,082 |
 | 22 | Sylvia Fowles | 1,049 |
 | 23 | Tina Charles | 1,037 |
