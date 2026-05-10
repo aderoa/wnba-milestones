@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-10 00:10 UTC
+
+- **Nia Coffey** passed **Allisha Gray** and **Jessica Davenport** for **#77** all-time in blocks (career 152) — up from #79 entering today — _5:22 - 1st — ATL @ MIN_
+
 ## 2026-05-10 00:05 UTC
 
 - **Courtney Williams** passed **Ebony Hoffman** for **#94** all-time in steals (career 309) — _8:00 - 1st — ATL @ MIN_

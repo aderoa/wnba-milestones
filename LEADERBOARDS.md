@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-10 00:09 UTC_
+_Last updated: 2026-05-10 00:10 UTC_
 
 ## Contents
 
@@ -171,8 +171,8 @@ _Last updated: 2026-05-10 00:09 UTC_
 | 150 | Satou Sabally | 2,161 |
 | 151 | Murriel Page | 2,146 |
 | 152 | Marissa Coleman | 2,140 |
+| 153 | **Jordin Canada** 🔴 +2 | 2,134 |
 | 153 | Tari Phillips | 2,134 |
-| 154 | **Jordin Canada** 🔴 | 2,132 |
 | 155 | Cheryl Ford | 2,116 |
 | 156 | Elena Baranova | 2,110 |
 | 157 | Aerial Powers | 2,068 |
@@ -382,8 +382,8 @@ _Last updated: 2026-05-10 00:09 UTC_
 | 156 | Alanna Smith | 837 |
 | 157 | Essence Carson | 833 |
 | 158 | Kristi Toliver | 829 |
+| 159 | **Angel Reese** 🔴 +5 | 828 |
 | 159 | Marie Ferdinand-Harris | 828 |
-| 160 | **Angel Reese** 🔴 +4 | 827 |
 | 161 | Jessica Shepard | 822 |
 | 161 | Marlies Askamp | 822 |
 | 163 | Amanda Zahui B | 819 |
@@ -391,7 +391,7 @@ _Last updated: 2026-05-10 00:09 UTC_
 | 165 | Marina Mabrey | 818 |
 | 166 | Carolyn Swords | 814 |
 | 167 | Tierra Ruffin-Pratt | 799 |
-| 168 | **Nia Coffey** 🔴 +3 | 798 |
+| 168 | **Nia Coffey** 🔴 +2 | 797 |
 | 169 | Charlotte Smith | 794 |
 | 170 | Rhonda Mapp | 788 |
 | 171 | Mercedes Russell | 786 |
@@ -710,9 +710,9 @@ _Last updated: 2026-05-10 00:09 UTC_
 | 73 | Tamika Whitmore | 155 |
 | 75 | Ann Wauters | 153 |
 | 75 | Sue Wicks | 153 |
-| 77 | **Allisha Gray** 🔴 | 151 |
-| 77 | Jessica Davenport | 151 |
-| 77 | **Nia Coffey** 🔴 | 151 |
+| 77 | **Nia Coffey** 🔴 +1 | 152 |
+| 78 | **Allisha Gray** 🔴 | 151 |
+| 78 | Jessica Davenport | 151 |
 | 80 | Alison Bales | 148 |
 | 81 | Chamique Holdsclaw | 143 |
 | 82 | Aliyah Boston | 141 |
