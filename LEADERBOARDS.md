@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-10 01:16 UTC_
+_Last updated: 2026-05-10 01:17 UTC_
 
 ## Contents
 
@@ -43,7 +43,7 @@ _Last updated: 2026-05-10 01:16 UTC_
 | 22 | DeLisha Milton-Jones | 5,571 |
 | 23 | Katie Douglas | 5,545 |
 | 24 | Lindsay Whalen | 5,511 |
-| 25 | **Skylar Diggins** 🔴 +2 | 5,491 |
+| 25 | **Skylar Diggins** 🔴 +4 | 5,493 |
 | 26 | **Kayla McBride** 🔴 +13 | 5,402 |
 | 27 | Swin Cash | 5,119 |
 | 28 | Tangela Smith | 5,035 |
@@ -121,7 +121,7 @@ _Last updated: 2026-05-10 01:16 UTC_
 | 100 | Jennifer Gillom | 2,888 |
 | 101 | Natasha Cloud | 2,863 |
 | 102 | Iziane Castro Marques | 2,862 |
-| 103 | Elizabeth Williams | 2,841 |
+| 103 | **Elizabeth Williams** 🔴 | 2,841 |
 | 104 | Alysha Clark | 2,790 |
 | 105 | Jantel Lavender | 2,775 |
 | 106 | Brionna Jones | 2,765 |
@@ -257,7 +257,7 @@ _Last updated: 2026-05-10 01:16 UTC_
 | 31 | Chasity Melvin | 2,097 |
 | 32 | Tammy Sutton-Brown | 2,010 |
 | 33 | Cheryl Ford | 1,907 |
-| 34 | Elizabeth Williams | 1,904 |
+| 34 | **Elizabeth Williams** 🔴 | 1,904 |
 | 35 | Plenette Pierson | 1,834 |
 | 36 | Natalie Williams | 1,832 |
 | 37 | Wendy Palmer | 1,824 |
@@ -365,7 +365,7 @@ _Last updated: 2026-05-10 01:16 UTC_
 | 139 | Jennifer Gillom | 964 |
 | 140 | Dominique Canty | 961 |
 | 141 | Armintie Herrington | 960 |
-| 142 | **Skylar Diggins** 🔴 +2 | 957 |
+| 142 | **Skylar Diggins** 🔴 +3 | 958 |
 | 143 | Janell Burse | 944 |
 | 144 | Merlakia Jones | 927 |
 | 145 | Nicky Anosike | 922 |
@@ -538,7 +538,7 @@ _Last updated: 2026-05-10 01:16 UTC_
 | 107 | Betnijah Laney-Hamilton | 573 |
 | 108 | Napheesa Collier | 570 |
 | 109 | Nicole Powell | 567 |
-| 110 | **Natasha Howard** 🔴 +1 | 563 |
+| 110 | **Natasha Howard** 🔴 +2 | 564 |
 | 111 | Loree Moore | 562 |
 | 112 | Sophia Young-Malcolm | 554 |
 | 112 | Tangela Smith | 554 |
@@ -568,7 +568,7 @@ _Last updated: 2026-05-10 01:16 UTC_
 | 137 | Sylvia Fowles | 461 |
 | 138 | Caitlin Clark | 459 |
 | 139 | Sydney Colson | 454 |
-| 140 | Elizabeth Williams | 452 |
+| 140 | **Elizabeth Williams** 🔴 | 452 |
 | 141 | Satou Sabally | 451 |
 | 141 | Yolanda Griffith | 451 |
 | 143 | Elena Delle Donne | 450 |
@@ -644,7 +644,7 @@ _Last updated: 2026-05-10 01:16 UTC_
 | 8 | Tangela Smith | 554 |
 | 9 | A'ja Wilson | 535 |
 | 10 | Ruth Riley | 505 |
-| 11 | Elizabeth Williams | 483 |
+| 11 | **Elizabeth Williams** 🔴 | 483 |
 | 12 | Taj McWilliams-Franklin | 443 |
 | 13 | Breanna Stewart | 428 |
 | 13 | Tina Charles | 428 |
@@ -940,7 +940,7 @@ _Last updated: 2026-05-10 01:16 UTC_
 | 99 | Janel McCarville | 294 |
 | 100 | Kelly Miller | 290 |
 | 101 | Glory Johnson | 289 |
-| 102 | Elizabeth Williams | 285 |
+| 102 | **Elizabeth Williams** 🔴 | 285 |
 | 102 | Essence Carson | 285 |
 | 104 | Seimone Augustus | 280 |
 | 105 | Tari Phillips | 277 |
@@ -1404,7 +1404,7 @@ _Last updated: 2026-05-10 01:16 UTC_
 | 153 | Kamila Vodichkova | 381 |
 | 154 | Jessica Breland | 378 |
 | 155 | Armintie Herrington | 377 |
-| 156 | Elizabeth Williams | 376 |
+| 156 | **Elizabeth Williams** 🔴 | 376 |
 | 157 | Anna DeForge | 374 |
 | 157 | Cheryl Ford | 374 |
 | 159 | Allison Feaster | 372 |
@@ -1534,7 +1534,7 @@ _Last updated: 2026-05-10 01:16 UTC_
 | 77 | Cheryl Ford | 713 |
 | 78 | Jia Perkins | 711 |
 | 79 | Helen Darling | 709 |
-| 80 | Elizabeth Williams | 708 |
+| 80 | **Elizabeth Williams** 🔴 | 708 |
 | 81 | **Allisha Gray** 🔴 +1 | 707 |
 | 82 | Matee Ajavon | 701 |
 | 82 | Nicole Powell | 701 |
