@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-10 23:07 UTC_
+_Last updated: 2026-05-10 23:08 UTC_
 
 ## Contents
 
@@ -24,7 +24,7 @@ _Last updated: 2026-05-10 23:07 UTC_
 | 3 | DeWanna Bonner | 7,805 |
 | 4 | Tina Thompson | 7,470 |
 | 5 | Tamika Catchings | 7,371 |
-| 6 | **Nneka Ogwumike** 🔴 +13 | 7,318 |
+| 6 | **Nneka Ogwumike** 🔴 +15 | 7,320 |
 | 7 | Candice Dupree | 6,861 |
 | 8 | Sue Bird | 6,802 |
 | 9 | Cappie Pondexter | 6,781 |
@@ -39,7 +39,7 @@ _Last updated: 2026-05-10 23:07 UTC_
 | 18 | Brittney Griner | 5,983 |
 | 19 | Becky Hammon | 5,816 |
 | 20 | Angel McCoughtry | 5,797 |
-| 21 | **A'ja Wilson** 🔴 +10 | 5,729 |
+| 21 | **A'ja Wilson** 🔴 +11 | 5,730 |
 | 22 | DeLisha Milton-Jones | 5,571 |
 | 23 | Katie Douglas | 5,545 |
 | 24 | Lindsay Whalen | 5,511 |
@@ -377,7 +377,7 @@ _Last updated: 2026-05-10 23:07 UTC_
 | 151 | Mistie Bass | 888 |
 | 152 | Shameka Christon | 867 |
 | 153 | Krystal Thomas | 862 |
-| 154 | **Erica Wheeler** 🔴 | 852 |
+| 154 | **Erica Wheeler** 🔴 +1 | 853 |
 | 155 | Leilani Mitchell | 845 |
 | 156 | Alanna Smith | 834 |
 | 157 | Essence Carson | 833 |
@@ -453,7 +453,7 @@ _Last updated: 2026-05-10 23:07 UTC_
 | 22 | Teresa Weatherspoon | 1,333 |
 | 23 | Kristi Toliver | 1,301 |
 | 24 | Katie Smith | 1,258 |
-| 25 | **Erica Wheeler** 🔴 | 1,256 |
+| 25 | **Erica Wheeler** 🔴 +1 | 1,257 |
 | 26 | Vickie Johnson | 1,202 |
 | 27 | Odyssey Sims | 1,201 |
 | 28 | Leilani Mitchell | 1,197 |
@@ -909,8 +909,8 @@ _Last updated: 2026-05-10 23:07 UTC_
 | 68 | Svetlana Abrosimova | 352 |
 | 69 | Allisha Gray | 349 |
 | 70 | Janeth Arcain | 346 |
-| 71 | **Erica Wheeler** 🔴 +1 | 343 |
-| 71 | Helen Darling | 343 |
+| 71 | **Erica Wheeler** 🔴 +2 | 344 |
+| 72 | Helen Darling | 343 |
 | 73 | Andrea Stinson | 342 |
 | 74 | Armintie Herrington | 340 |
 | 74 | Natasha Cloud | 340 |
@@ -1272,7 +1272,7 @@ _Last updated: 2026-05-10 23:07 UTC_
 | 20 | Shannon Johnson | 934 |
 | 21 | Taj McWilliams-Franklin | 898 |
 | 22 | Skylar Diggins | 879 |
-| 23 | **Chelsea Gray** 🔴 +4 | 873 |
+| 23 | **Chelsea Gray** 🔴 +5 | 874 |
 | 24 | Candice Dupree | 869 |
 | 25 | Alana Beard | 854 |
 | 26 | DeWanna Bonner | 826 |
