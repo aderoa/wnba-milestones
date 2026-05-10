@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-10 17:52 UTC_
+_Last updated: 2026-05-10 17:53 UTC_
 
 ## Contents
 
@@ -36,7 +36,7 @@ _Last updated: 2026-05-10 17:52 UTC_
 | 15 | Breanna Stewart | 6,016 |
 | 16 | Lauren Jackson | 6,005 |
 | 16 | Seimone Augustus | 6,005 |
-| 18 | **Brittney Griner** 🔴 +4 | 5,971 |
+| 18 | **Brittney Griner** 🔴 +6 | 5,973 |
 | 19 | Becky Hammon | 5,816 |
 | 20 | Angel McCoughtry | 5,797 |
 | 21 | A'ja Wilson | 5,719 |
@@ -1326,7 +1326,7 @@ _Last updated: 2026-05-10 17:52 UTC_
 | 74 | Tamika Whitmore | 600 |
 | 76 | Kelly Miller | 596 |
 | 77 | Kahleah Copper | 579 |
-| 78 | **Stefanie Dolson** 🔴 | 577 |
+| 78 | **Stefanie Dolson** 🔴 +1 | 578 |
 | 79 | Helen Darling | 575 |
 | 79 | Nykesha Sales | 575 |
 | 81 | Andrea Stinson | 571 |
@@ -1474,7 +1474,7 @@ _Last updated: 2026-05-10 17:52 UTC_
 | 18 | Tanisha Wright | 1,109 |
 | 19 | Michelle Snow | 1,108 |
 | 20 | Natasha Howard | 1,088 |
-| 21 | **Stefanie Dolson** 🔴 +1 | 1,083 |
+| 21 | **Stefanie Dolson** 🔴 +2 | 1,084 |
 | 22 | Sylvia Fowles | 1,049 |
 | 23 | Tina Charles | 1,037 |
 | 24 | Lindsay Whalen | 998 |
