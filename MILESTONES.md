@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-10 01:12 UTC
+
+- **Nia Coffey** passed **Ann Wauters** and **Sue Wicks** for **#75** all-time in blocks (career 154) — up from #79 entering today — _8:58 - 3rd — ATL @ MIN_
+
 ## 2026-05-10 01:08 UTC
 
 - **Bridget Carleton** passed **Charlotte Smith** and **Ruthie Bolton** for **#189** all-time in assists (career 353) — _6:52 - 1st — CHI @ POR_

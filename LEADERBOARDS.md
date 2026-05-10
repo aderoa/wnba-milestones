@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-10 01:11 UTC_
+_Last updated: 2026-05-10 01:12 UTC_
 
 ## Contents
 
@@ -708,9 +708,9 @@ _Last updated: 2026-05-10 01:11 UTC_
 | 72 | Kara Braxton | 157 |
 | 73 | DeMya Walker | 155 |
 | 73 | Tamika Whitmore | 155 |
-| 75 | Ann Wauters | 153 |
-| 75 | **Nia Coffey** 🔴 +2 | 153 |
-| 75 | Sue Wicks | 153 |
+| 75 | **Nia Coffey** 🔴 +3 | 154 |
+| 76 | Ann Wauters | 153 |
+| 76 | Sue Wicks | 153 |
 | 78 | **Allisha Gray** 🔴 | 151 |
 | 78 | Jessica Davenport | 151 |
 | 80 | Alison Bales | 148 |
@@ -771,9 +771,9 @@ _Last updated: 2026-05-10 01:11 UTC_
 | 135 | Imani McGee-Stafford | 95 |
 | 135 | Isabelle Harrison | 95 |
 | 137 | Sandrine Gruda | 94 |
+| 138 | **Emily Engstler** 🔴 +1 | 93 |
 | 138 | **Kamilla Cardoso** 🔴 | 93 |
-| 139 | **Emily Engstler** 🔴 | 92 |
-| 139 | Jewell Loyd | 92 |
+| 140 | Jewell Loyd | 92 |
 | 141 | Jasmine Thomas | 91 |
 | 141 | Kayla Alexander | 91 |
 | 143 | Allie Quigley | 90 |
@@ -1474,7 +1474,7 @@ _Last updated: 2026-05-10 01:11 UTC_
 | 17 | Nneka Ogwumike | 1,131 |
 | 18 | Tanisha Wright | 1,109 |
 | 19 | Michelle Snow | 1,108 |
-| 20 | **Natasha Howard** 🔴 +2 | 1,090 |
+| 20 | **Natasha Howard** 🔴 +3 | 1,091 |
 | 21 | Stefanie Dolson | 1,082 |
 | 22 | Sylvia Fowles | 1,049 |
 | 23 | Tina Charles | 1,037 |
