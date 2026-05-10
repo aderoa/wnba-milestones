@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-10 19:04 UTC_
+_Last updated: 2026-05-10 19:05 UTC_
 
 ## Contents
 
@@ -33,7 +33,7 @@ _Last updated: 2026-05-10 19:04 UTC_
 | 12 | Sylvia Fowles | 6,413 |
 | 13 | Lisa Leslie | 6,251 |
 | 14 | Jewell Loyd | 6,027 |
-| 15 | **Breanna Stewart** 🔴 | 6,016 |
+| 15 | **Breanna Stewart** 🔴 +3 | 6,019 |
 | 16 | Lauren Jackson | 6,005 |
 | 16 | Seimone Augustus | 6,005 |
 | 18 | **Brittney Griner** 🔴 +14 | 5,981 |
@@ -242,7 +242,7 @@ _Last updated: 2026-05-10 19:04 UTC_
 | 16 | **Brittney Griner** 🔴 +5 | 2,536 |
 | 17 | Swin Cash | 2,521 |
 | 18 | A'ja Wilson | 2,494 |
-| 19 | **Breanna Stewart** 🔴 | 2,484 |
+| 19 | **Breanna Stewart** 🔴 +1 | 2,485 |
 | 20 | Michelle Snow | 2,476 |
 | 21 | Crystal Langhorne | 2,454 |
 | 22 | Lauren Jackson | 2,444 |
@@ -1070,7 +1070,7 @@ _Last updated: 2026-05-10 19:04 UTC_
 | 23 | Shekinna Stricklen | 468 |
 | 24 | Cappie Pondexter | 464 |
 | 25 | Sabrina Ionescu | 460 |
-| 26 | **Breanna Stewart** 🔴 | 454 |
+| 26 | **Breanna Stewart** 🔴 +1 | 455 |
 | 27 | Tiffany Hayes | 447 |
 | 28 | Ariel Atkins | 440 |
 | 29 | Marina Mabrey | 439 |
