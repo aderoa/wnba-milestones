@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-10 18:45 UTC_
+_Last updated: 2026-05-10 18:46 UTC_
 
 ## Contents
 
@@ -532,7 +532,7 @@ _Last updated: 2026-05-10 18:45 UTC_
 | 101 | Sancho Lyttle | 592 |
 | 102 | Camille Smith | 590 |
 | 103 | Armintie Herrington | 589 |
-| 104 | **Natisha Hiedeman** 🔴 +2 | 586 |
+| 104 | **Natisha Hiedeman** 🔴 +3 | 587 |
 | 105 | Tan White | 578 |
 | 106 | Matee Ajavon | 577 |
 | 107 | Betnijah Laney-Hamilton | 573 |
