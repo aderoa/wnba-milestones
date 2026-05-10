@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-10 01:34 UTC_
+_Last updated: 2026-05-10 01:35 UTC_
 
 ## Contents
 
@@ -1369,8 +1369,8 @@ _Last updated: 2026-05-10 01:34 UTC_
 | 118 | Elaine Powell | 469 |
 | 119 | Allie Quigley | 467 |
 | 120 | Kia Vaughn | 454 |
+| 121 | **Allisha Gray** 🔴 +4 | 453 |
 | 121 | Janeth Arcain | 453 |
-| 122 | **Allisha Gray** 🔴 +3 | 452 |
 | 123 | Elena Baranova | 444 |
 | 123 | Jantel Lavender | 444 |
 | 125 | A'ja Wilson | 443 |
