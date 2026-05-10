@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-10 18:26 UTC_
+_Last updated: 2026-05-10 18:27 UTC_
 
 ## Contents
 
@@ -1153,9 +1153,9 @@ _Last updated: 2026-05-10 18:26 UTC_
 | 106 | Damiris Dantas | 207 |
 | 108 | Shanna Zolman | 199 |
 | 109 | Betnijah Laney-Hamilton | 197 |
+| 109 | **Lexie Brown** 🔴 +3 | 197 |
 | 109 | Temeka Johnson | 197 |
 | 109 | Tina Charles | 197 |
-| 112 | **Lexie Brown** 🔴 +2 | 196 |
 | 113 | Lindsay Whalen | 193 |
 | 114 | Victoria Vivians | 192 |
 | 115 | Danielle Adams | 188 |
