@@ -1,5 +1,19 @@
 [
   {
+    "ts": "2026-05-10T18:31:00+00:00",
+    "text": "Lexie Brown passed Betnijah Laney-Hamilton, Temeka Johnson, and Tina Charles for #109 all-time in three-pointers (career 199) \u2014 up from #112 entering today \u2014 (3:19 - 3rd \u2014 SEA @ CON)",
+    "kind": "rank_pass",
+    "player": "Lexie Brown",
+    "stat": "three-pointers",
+    "rank": 109,
+    "passed_players": [
+      "Betnijah Laney-Hamilton",
+      "Temeka Johnson",
+      "Tina Charles"
+    ],
+    "new_total": 199
+  },
+  {
     "ts": "2026-05-10T18:26:00+00:00",
     "text": "Lexie Brown reached 1,000 career points (now 1,002) \u2014 (4:33 - 3rd \u2014 SEA @ CON)",
     "kind": "round",
