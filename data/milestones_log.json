@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-10T20:19:00+00:00",
+    "text": "Breanna Stewart passed Jewell Loyd for #14 all-time in points (career 6,029) \u2014 up from #15 entering today \u2014 (9:13 - 3rd \u2014 NY @ WSH)",
+    "kind": "rank_pass",
+    "player": "Breanna Stewart",
+    "stat": "points",
+    "rank": 14,
+    "passed_players": [
+      "Jewell Loyd"
+    ],
+    "new_total": 6029
+  },
+  {
     "ts": "2026-05-10T19:45:00+00:00",
     "text": "Marine Johann\u00e8s passed Helen Darling and Matee Ajavon for #149 all-time in three-pointers (career 145) \u2014 up from #154 entering today \u2014 (3:27 - 2nd \u2014 NY @ WSH)",
     "kind": "rank_pass",

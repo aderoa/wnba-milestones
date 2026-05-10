@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-10 20:19 UTC
+
+- **Breanna Stewart** passed **Jewell Loyd** for **#14** all-time in points (career 6,029) — up from #15 entering today — _9:13 - 3rd — NY @ WSH_
+
 ## 2026-05-10 19:45 UTC
 
 - **Marine Johannès** passed **Helen Darling** and **Matee Ajavon** for **#149** all-time in three-pointers (career 145) — up from #154 entering today — _3:27 - 2nd — NY @ WSH_
