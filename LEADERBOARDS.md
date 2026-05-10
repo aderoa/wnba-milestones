@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-10 22:24 UTC_
+_Last updated: 2026-05-10 22:25 UTC_
 
 ## Contents
 
@@ -95,7 +95,7 @@ _Last updated: 2026-05-10 22:24 UTC_
 | 74 | Sancho Lyttle | 3,478 |
 | 75 | Ivory Latta | 3,447 |
 | 76 | Brittney Sykes | 3,439 |
-| 77 | **Jackie Young** 🔴 | 3,412 |
+| 77 | **Jackie Young** 🔴 +2 | 3,414 |
 | 78 | Nicole Powell | 3,407 |
 | 79 | Epiphanny Prince | 3,381 |
 | 80 | **Ariel Atkins** 🔴 +2 | 3,363 |
@@ -110,7 +110,7 @@ _Last updated: 2026-05-10 22:24 UTC_
 | 89 | Wendy Palmer | 3,135 |
 | 90 | Shavonte Zellous | 3,103 |
 | 91 | Briann January | 3,082 |
-| 92 | Erica Wheeler | 3,060 |
+| 92 | **Erica Wheeler** 🔴 | 3,060 |
 | 93 | Erika de Souza | 3,046 |
 | 94 | Shameka Christon | 3,039 |
 | 95 | Sabrina Ionescu | 3,030 |
@@ -241,7 +241,7 @@ _Last updated: 2026-05-10 22:24 UTC_
 | 15 | DeLisha Milton-Jones | 2,574 |
 | 16 | Brittney Griner | 2,537 |
 | 17 | Swin Cash | 2,521 |
-| 18 | **A'ja Wilson** 🔴 | 2,494 |
+| 18 | **A'ja Wilson** 🔴 +1 | 2,495 |
 | 19 | Breanna Stewart | 2,493 |
 | 20 | Michelle Snow | 2,476 |
 | 21 | Crystal Langhorne | 2,454 |
@@ -377,7 +377,7 @@ _Last updated: 2026-05-10 22:24 UTC_
 | 151 | Mistie Bass | 888 |
 | 152 | Shameka Christon | 867 |
 | 153 | Krystal Thomas | 862 |
-| 154 | Erica Wheeler | 852 |
+| 154 | **Erica Wheeler** 🔴 | 852 |
 | 155 | Leilani Mitchell | 845 |
 | 156 | Alanna Smith | 834 |
 | 157 | Essence Carson | 833 |
@@ -453,7 +453,7 @@ _Last updated: 2026-05-10 22:24 UTC_
 | 22 | Teresa Weatherspoon | 1,333 |
 | 23 | Kristi Toliver | 1,301 |
 | 24 | Katie Smith | 1,258 |
-| 25 | Erica Wheeler | 1,256 |
+| 25 | **Erica Wheeler** 🔴 | 1,256 |
 | 26 | Vickie Johnson | 1,202 |
 | 27 | Odyssey Sims | 1,201 |
 | 28 | Leilani Mitchell | 1,197 |
@@ -911,7 +911,7 @@ _Last updated: 2026-05-10 22:24 UTC_
 | 70 | Janeth Arcain | 346 |
 | 71 | Helen Darling | 343 |
 | 72 | Andrea Stinson | 342 |
-| 72 | Erica Wheeler | 342 |
+| 72 | **Erica Wheeler** 🔴 | 342 |
 | 74 | Armintie Herrington | 340 |
 | 74 | Natasha Cloud | 340 |
 | 76 | Arike Ogunbowale | 339 |
@@ -1104,7 +1104,7 @@ _Last updated: 2026-05-10 22:24 UTC_
 | 57 | Deanna Nolan | 340 |
 | 58 | Anna DeForge | 334 |
 | 59 | Natasha Cloud | 331 |
-| 60 | Erica Wheeler | 320 |
+| 60 | **Erica Wheeler** 🔴 | 320 |
 | 61 | Sugar Rodgers | 317 |
 | 62 | Marissa Coleman | 315 |
 | 63 | Shannon Johnson | 313 |
@@ -1305,7 +1305,7 @@ _Last updated: 2026-05-10 22:24 UTC_
 | 53 | Tammy Sutton-Brown | 672 |
 | 54 | Deanna Nolan | 669 |
 | 55 | Chasity Melvin | 666 |
-| 56 | Erica Wheeler | 665 |
+| 56 | **Erica Wheeler** 🔴 | 665 |
 | 56 | Natasha Cloud | 665 |
 | 58 | Vickie Johnson | 660 |
 | 59 | **Dearica Hamby** 🔴 +1 | 658 |
@@ -1520,7 +1520,7 @@ _Last updated: 2026-05-10 22:24 UTC_
 | 63 | Skylar Diggins | 790 |
 | 64 | Sue Bird | 775 |
 | 65 | Sheri Sam | 766 |
-| 66 | Erica Wheeler | 758 |
+| 66 | **Erica Wheeler** 🔴 | 758 |
 | 67 | Kia Vaughn | 755 |
 | 68 | Vickie Johnson | 752 |
 | 69 | Kara Braxton | 748 |
