@@ -222,6 +222,7 @@
   "203026:AST:rank_tie:tie_51_100396",
   "203026:PF:rank_pass:pass_27_100419",
   "203400:FG3M:rank_pass:pass_33_100345",
+  "203400:PTS:round:5500",
   "203824:AST:rank_pass:pass_26_100103",
   "203824:AST:rank_tie:tie_26_100103",
   "203824:FG3M:rank_tie:tie_97_1628279",
@@ -268,5 +269,6 @@
   "204323:TOV:rank_tie:tie_130_1628878",
   "204323:TOV:rank_tie:tie_131_204335",
   "204329:BLK:rank_pass:pass_29_200676",
+  "204330:PF:rank_pass:pass_181_101049",
   "204330:TOV:rank_pass:pass_191_1628881"
 ]

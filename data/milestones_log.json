@@ -1,5 +1,26 @@
 [
   {
+    "ts": "2026-05-10T01:40:00+00:00",
+    "text": "Skylar Diggins reached 5,500 career points (now 5,500) \u2014 (3:00 - 2nd \u2014 CHI @ POR)",
+    "kind": "round",
+    "player": "Skylar Diggins",
+    "stat": "points",
+    "value": 5500,
+    "new_total": 5500
+  },
+  {
+    "ts": "2026-05-10T01:40:00+00:00",
+    "text": "Isabelle Harrison passed Cathrine Kraayeveld for #181 all-time in fouls (career 486) \u2014 up from #182 entering today \u2014 (3:00 - 2nd \u2014 CHI @ POR)",
+    "kind": "rank_pass",
+    "player": "Isabelle Harrison",
+    "stat": "fouls",
+    "rank": 181,
+    "passed_players": [
+      "Cathrine Kraayeveld"
+    ],
+    "new_total": 486
+  },
+  {
     "ts": "2026-05-10T01:36:00+00:00",
     "text": "Rickea Jackson reached 1,100 career points (now 1,102) \u2014 (5:14 - 2nd \u2014 CHI @ POR)",
     "kind": "round",

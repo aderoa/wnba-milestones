@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-10 01:39 UTC_
+_Last updated: 2026-05-10 01:40 UTC_
 
 ## Contents
 
@@ -43,7 +43,7 @@ _Last updated: 2026-05-10 01:39 UTC_
 | 22 | DeLisha Milton-Jones | 5,571 |
 | 23 | Katie Douglas | 5,545 |
 | 24 | Lindsay Whalen | 5,511 |
-| 25 | **Skylar Diggins** 🔴 +7 | 5,496 |
+| 25 | **Skylar Diggins** 🔴 +11 | 5,500 |
 | 26 | **Kayla McBride** 🔴 +13 | 5,402 |
 | 27 | Swin Cash | 5,119 |
 | 28 | Tangela Smith | 5,035 |
@@ -871,7 +871,7 @@ _Last updated: 2026-05-10 01:39 UTC_
 | 30 | Tangela Smith | 455 |
 | 31 | Tina Thompson | 452 |
 | 32 | Maya Moore | 449 |
-| 33 | **Skylar Diggins** 🔴 | 445 |
+| 33 | **Skylar Diggins** 🔴 +1 | 446 |
 | 34 | Jewell Loyd | 441 |
 | 35 | Sheri Sam | 438 |
 | 36 | Camille Smith | 437 |
@@ -1438,7 +1438,7 @@ _Last updated: 2026-05-10 01:39 UTC_
 | 187 | Erin Perperoglou | 305 |
 | 187 | Jennifer Lacy | 305 |
 | 189 | Tianna Hawkins | 303 |
-| 190 | **Isabelle Harrison** 🔴 +1 | 301 |
+| 190 | **Isabelle Harrison** 🔴 +2 | 302 |
 | 191 | Monique Billings | 300 |
 | 192 | Crystal Robinson | 299 |
 | 193 | Michele Timms | 297 |
@@ -1633,9 +1633,9 @@ _Last updated: 2026-05-10 01:39 UTC_
 | 177 | Ann Wauters | 493 |
 | 177 | Riquna Williams | 493 |
 | 179 | Charde Houston | 487 |
+| 180 | **Isabelle Harrison** 🔴 +2 | 486 |
 | 180 | Lindsey Harding | 486 |
-| 181 | Cathrine Kraayeveld | 484 |
-| 181 | **Isabelle Harrison** 🔴 | 484 |
+| 182 | Cathrine Kraayeveld | 484 |
 | 183 | Liz Cambage | 483 |
 | 183 | Rhonda Mapp | 483 |
 | 185 | Sami Whitcomb | 480 |

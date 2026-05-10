@@ -2,6 +2,11 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-10 01:40 UTC
+
+- **Skylar Diggins** reached **5,500** career points (now 5,500) — _3:00 - 2nd — CHI @ POR_
+- **Isabelle Harrison** passed **Cathrine Kraayeveld** for **#181** all-time in fouls (career 486) — up from #182 entering today — _3:00 - 2nd — CHI @ POR_
+
 ## 2026-05-10 01:36 UTC
 
 - **Rickea Jackson** reached **1,100** career points (now 1,102) — _5:14 - 2nd — CHI @ POR_
