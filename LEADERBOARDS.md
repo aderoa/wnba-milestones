@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-10 21:05 UTC_
+_Last updated: 2026-05-10 21:06 UTC_
 
 ## Contents
 
@@ -476,7 +476,7 @@ _Last updated: 2026-05-10 21:05 UTC_
 | 45 | Tamecka Dixon | 960 |
 | 46 | Kara Lawson | 946 |
 | 47 | Kayla McBride | 945 |
-| 48 | **Breanna Stewart** 🔴 +4 | 933 |
+| 48 | **Breanna Stewart** 🔴 +3 | 932 |
 | 49 | Deanna Nolan | 930 |
 | 50 | Kelly Miller | 927 |
 | 51 | DeLisha Milton-Jones | 921 |
@@ -1319,8 +1319,8 @@ _Last updated: 2026-05-10 21:05 UTC_
 | 67 | Odyssey Sims | 616 |
 | 68 | Rebekkah Brunson | 615 |
 | 69 | Seimone Augustus | 613 |
+| 70 | **Jonquel Jones** 🔴 +3 | 611 |
 | 70 | Kelsey Plum | 611 |
-| 71 | **Jonquel Jones** 🔴 +2 | 610 |
 | 72 | Tiffany Hayes | 605 |
 | 73 | Teresa Weatherspoon | 601 |
 | 74 | Lindsey Harding | 600 |
@@ -1500,7 +1500,7 @@ _Last updated: 2026-05-10 21:05 UTC_
 | 43 | DeMya Walker | 882 |
 | 44 | Candice Dupree | 876 |
 | 45 | Murriel Page | 872 |
-| 46 | **Jonquel Jones** 🔴 +5 | 870 |
+| 46 | **Jonquel Jones** 🔴 +6 | 871 |
 | 47 | Cappie Pondexter | 869 |
 | 48 | Erika de Souza | 858 |
 | 49 | Angel McCoughtry | 857 |
