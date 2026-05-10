@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-10 01:18 UTC_
+_Last updated: 2026-05-10 01:19 UTC_
 
 ## Contents
 
@@ -264,8 +264,8 @@ _Last updated: 2026-05-10 01:18 UTC_
 | 38 | Sophia Young-Malcolm | 1,807 |
 | 39 | Lindsay Whalen | 1,805 |
 | 40 | Camille Smith | 1,802 |
-| 41 | Asjha Jones | 1,751 |
-| 41 | **Courtney Williams** 🔴 +4 | 1,751 |
+| 41 | **Courtney Williams** 🔴 +5 | 1,752 |
+| 42 | Asjha Jones | 1,751 |
 | 43 | Kiah Stokes | 1,746 |
 | 44 | Teaira McCowan | 1,670 |
 | 45 | Monique Currie | 1,666 |
@@ -300,7 +300,7 @@ _Last updated: 2026-05-10 01:18 UTC_
 | 74 | Ebony Hoffman | 1,376 |
 | 75 | Sheri Sam | 1,356 |
 | 76 | Tamika Whitmore | 1,355 |
-| 77 | **Allisha Gray** 🔴 +4 | 1,351 |
+| 77 | **Allisha Gray** 🔴 +5 | 1,352 |
 | 78 | Emma Meesseman | 1,350 |
 | 79 | Monique Billings | 1,345 |
 | 80 | Elena Baranova | 1,335 |
@@ -400,8 +400,8 @@ _Last updated: 2026-05-10 01:18 UTC_
 | 174 | Lindsey Harding | 779 |
 | 175 | Odyssey Sims | 778 |
 | 175 | Tiffani Johnson | 778 |
-| 177 | **Naz Hillmon** 🔴 +2 | 775 |
-| 177 | Teresa Weatherspoon | 775 |
+| 177 | **Naz Hillmon** 🔴 +3 | 776 |
+| 178 | Teresa Weatherspoon | 775 |
 | 179 | Anna DeForge | 769 |
 | 179 | Kelsey Bone | 769 |
 | 179 | Tan White | 769 |
@@ -1370,7 +1370,7 @@ _Last updated: 2026-05-10 01:18 UTC_
 | 119 | Allie Quigley | 467 |
 | 120 | Kia Vaughn | 454 |
 | 121 | Janeth Arcain | 453 |
-| 122 | **Allisha Gray** 🔴 +2 | 451 |
+| 122 | **Allisha Gray** 🔴 +3 | 452 |
 | 123 | Elena Baranova | 444 |
 | 123 | Jantel Lavender | 444 |
 | 125 | A'ja Wilson | 443 |

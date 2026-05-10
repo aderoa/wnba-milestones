@@ -2,6 +2,11 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-10 01:19 UTC
+
+- **Naz Hillmon** passed **Teresa Weatherspoon** for **#177** all-time in rebounds (career 776) — up from #178 entering today — _6:41 - 3rd — ATL @ MIN_
+- **Courtney Williams** passed **Asjha Jones** for **#41** all-time in rebounds (career 1,752) — up from #42 entering today — _6:41 - 3rd — ATL @ MIN_
+
 ## 2026-05-10 01:18 UTC
 
 - **Skylar Diggins** passed **Crystal Robinson** for **#33** all-time in three-pointers (career 426) — up from #34 entering today — _2:14 - 1st — CHI @ POR_
