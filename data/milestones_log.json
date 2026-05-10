@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-10T22:38:00+00:00",
+    "text": "Nneka Ogwumike passed Stacey Dales for #96 all-time in three-pointers (career 233) \u2014 up from #98 entering today \u2014 (9:36 - 2nd \u2014 LV @ LA)",
+    "kind": "rank_pass",
+    "player": "Nneka Ogwumike",
+    "stat": "three-pointers",
+    "rank": 96,
+    "passed_players": [
+      "Stacey Dales"
+    ],
+    "new_total": 233
+  },
+  {
     "ts": "2026-05-10T22:28:00+00:00",
     "text": "Jackie Young passed Rita Williams for #109 all-time in steals (career 272) \u2014 (1:43 - 1st \u2014 LV @ LA)",
     "kind": "rank_pass",
