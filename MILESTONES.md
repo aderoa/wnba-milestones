@@ -2,6 +2,11 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-10 22:55 UTC
+
+- **Chelsea Gray** passed **Latasha Byears** and **Tanisha Wright** for **#99** all-time in rebounds (career 1,191) — up from #102 entering today — _4:19 - 2nd — LV @ LA_
+- **Nneka Ogwumike** passed **Crystal Langhorne** for **#32** all-time in turnovers (career 783) — up from #33 entering today — _4:19 - 2nd — LV @ LA_
+
 ## 2026-05-10 22:49 UTC
 
 - **Ariel Atkins** passed **Alysha Clark** and **Betnijah Laney-Hamilton** for **#129** all-time in turnovers (career 438) — up from #130 entering today — _6:00 - 2nd — LV @ LA_
