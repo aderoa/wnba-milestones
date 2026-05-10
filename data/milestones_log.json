@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-10T02:12:00+00:00",
+    "text": "Allisha Gray passed Tamika Whitmore for #76 all-time in rebounds (career 1,356) \u2014 up from #78 entering today \u2014 (11.3 - 4th \u2014 ATL @ MIN)",
+    "kind": "rank_pass",
+    "player": "Allisha Gray",
+    "stat": "rebounds",
+    "rank": 76,
+    "passed_players": [
+      "Tamika Whitmore"
+    ],
+    "new_total": 1356
+  },
+  {
     "ts": "2026-05-10T02:07:00+00:00",
     "text": "Kayla McBride passed Katie Douglas for #6 all-time in three-pointers (career 724) \u2014 up from #7 entering today \u2014 (1:10 - 4th \u2014 ATL @ MIN)",
     "kind": "rank_pass",
