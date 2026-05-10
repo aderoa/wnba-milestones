@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-10 00:04 UTC_
+_Last updated: 2026-05-10 00:05 UTC_
 
 ## Contents
 
@@ -75,7 +75,7 @@ _Last updated: 2026-05-10 00:04 UTC_
 | 54 | Jonquel Jones | 4,096 |
 | 54 | Kahleah Copper | 4,096 |
 | 56 | Dearica Hamby | 4,090 |
-| 57 | **Courtney Williams** 🔴 | 4,061 |
+| 57 | **Courtney Williams** 🔴 +2 | 4,063 |
 | 58 | Asjha Jones | 3,986 |
 | 59 | Deanna Nolan | 3,971 |
 | 60 | Nykesha Sales | 3,931 |
@@ -931,8 +931,8 @@ _Last updated: 2026-05-10 00:04 UTC_
 | 90 | Debbie Black | 315 |
 | 91 | Alysha Clark | 314 |
 | 91 | Crystal Langhorne | 314 |
-| 93 | **Courtney Williams** 🔴 | 308 |
-| 93 | Ebony Hoffman | 308 |
+| 93 | **Courtney Williams** 🔴 +1 | 309 |
+| 94 | Ebony Hoffman | 308 |
 | 95 | Tamera Young | 305 |
 | 96 | Kedra Holland-Corn | 301 |
 | 97 | Gabby Williams | 297 |
@@ -1370,7 +1370,7 @@ _Last updated: 2026-05-10 00:04 UTC_
 | 119 | Allie Quigley | 467 |
 | 120 | Kia Vaughn | 454 |
 | 121 | Janeth Arcain | 453 |
-| 122 | **Allisha Gray** 🔴 | 449 |
+| 122 | **Allisha Gray** 🔴 +1 | 450 |
 | 123 | Elena Baranova | 444 |
 | 123 | Jantel Lavender | 444 |
 | 125 | A'ja Wilson | 443 |

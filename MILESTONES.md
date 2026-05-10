@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-10 00:05 UTC
+
+- **Courtney Williams** passed **Ebony Hoffman** for **#94** all-time in steals (career 309) — _8:00 - 1st — ATL @ MIN_
+
 ## 2026-05-09 21:51 UTC
 
 - **NaLyssa Smith** passed **Tiffany Hayes** for **#146** all-time in blocks (career 88) — up from #149 entering today — _1:42 - 4th — PHX @ LV_

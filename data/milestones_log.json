@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-10T00:05:00+00:00",
+    "text": "Courtney Williams passed Ebony Hoffman for #94 all-time in steals (career 309) \u2014 (8:00 - 1st \u2014 ATL @ MIN)",
+    "kind": "rank_pass",
+    "player": "Courtney Williams",
+    "stat": "steals",
+    "rank": 94,
+    "passed_players": [
+      "Ebony Hoffman"
+    ],
+    "new_total": 309
+  },
+  {
     "ts": "2026-05-09T21:51:00+00:00",
     "text": "NaLyssa Smith passed Tiffany Hayes for #146 all-time in blocks (career 88) \u2014 up from #149 entering today \u2014 (1:42 - 4th \u2014 PHX @ LV)",
     "kind": "rank_pass",
