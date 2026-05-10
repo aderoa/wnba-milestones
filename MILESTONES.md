@@ -2,6 +2,11 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-10 22:49 UTC
+
+- **Ariel Atkins** passed **Alysha Clark** and **Betnijah Laney-Hamilton** for **#129** all-time in turnovers (career 438) — up from #130 entering today — _6:00 - 2nd — LV @ LA_
+- **Ariel Atkins** passed **Leilani Mitchell** for **#91** all-time in fouls (career 685) — _6:00 - 2nd — LV @ LA_
+
 ## 2026-05-10 22:48 UTC
 
 - **Chelsea Gray** passed **Vicky Bullett** for **#101** all-time in rebounds (career 1,190) — up from #102 entering today — _6:05 - 2nd — LV @ LA_

@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-10 22:48 UTC_
+_Last updated: 2026-05-10 22:49 UTC_
 
 ## Contents
 
@@ -407,7 +407,7 @@ _Last updated: 2026-05-10 22:48 UTC_
 | 179 | Tan White | 769 |
 | 182 | Tully Bevilaqua | 767 |
 | 183 | Gabby Williams | 764 |
-| 184 | **Ariel Atkins** 🔴 +3 | 761 |
+| 184 | **Ariel Atkins** 🔴 +2 | 760 |
 | 185 | Layshia Clarendon | 756 |
 | 186 | Brooke Wyckoff | 751 |
 | 187 | Coco Miller | 750 |
@@ -773,9 +773,9 @@ _Last updated: 2026-05-10 22:48 UTC_
 | 137 | Sandrine Gruda | 94 |
 | 138 | Kamilla Cardoso | 93 |
 | 139 | Emily Engstler | 92 |
-| 140 | Jasmine Thomas | 91 |
-| 140 | **Jewell Loyd** 🔴 | 91 |
-| 140 | Kayla Alexander | 91 |
+| 139 | **Jewell Loyd** 🔴 +1 | 92 |
+| 141 | Jasmine Thomas | 91 |
+| 141 | Kayla Alexander | 91 |
 | 143 | Allie Quigley | 90 |
 | 144 | Alysha Clark | 89 |
 | 145 | Marissa Coleman | 88 |
@@ -1377,10 +1377,10 @@ _Last updated: 2026-05-10 22:48 UTC_
 | 125 | **A'ja Wilson** 🔴 +2 | 443 |
 | 126 | Ann Wauters | 440 |
 | 127 | Tiffany Mitchell | 439 |
+| 128 | **Ariel Atkins** 🔴 +1 | 438 |
 | 128 | Kedra Holland-Corn | 438 |
-| 129 | Alysha Clark | 437 |
-| 129 | **Ariel Atkins** 🔴 | 437 |
-| 129 | Betnijah Laney-Hamilton | 437 |
+| 130 | Alysha Clark | 437 |
+| 130 | Betnijah Laney-Hamilton | 437 |
 | 132 | Cheyenne Parker-Tyus | 435 |
 | 133 | Jennifer Gillom | 434 |
 | 133 | Nicole Ohlde | 434 |
@@ -1543,9 +1543,9 @@ _Last updated: 2026-05-10 22:48 UTC_
 | 86 | Danielle Robinson | 692 |
 | 87 | Sophia Young-Malcolm | 687 |
 | 88 | Maya Moore | 686 |
+| 89 | **Ariel Atkins** 🔴 +1 | 685 |
 | 89 | Jasmine Thomas | 685 |
-| 90 | **Ariel Atkins** 🔴 | 684 |
-| 90 | Leilani Mitchell | 684 |
+| 91 | Leilani Mitchell | 684 |
 | 92 | Crystal Robinson | 682 |
 | 93 | Jennifer Lacy | 680 |
 | 93 | Temeka Johnson | 680 |

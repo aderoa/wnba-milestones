@@ -1,5 +1,30 @@
 [
   {
+    "ts": "2026-05-10T22:49:00+00:00",
+    "text": "Ariel Atkins passed Alysha Clark and Betnijah Laney-Hamilton for #129 all-time in turnovers (career 438) \u2014 up from #130 entering today \u2014 (6:00 - 2nd \u2014 LV @ LA)",
+    "kind": "rank_pass",
+    "player": "Ariel Atkins",
+    "stat": "turnovers",
+    "rank": 129,
+    "passed_players": [
+      "Alysha Clark",
+      "Betnijah Laney-Hamilton"
+    ],
+    "new_total": 438
+  },
+  {
+    "ts": "2026-05-10T22:49:00+00:00",
+    "text": "Ariel Atkins passed Leilani Mitchell for #91 all-time in fouls (career 685) \u2014 (6:00 - 2nd \u2014 LV @ LA)",
+    "kind": "rank_pass",
+    "player": "Ariel Atkins",
+    "stat": "fouls",
+    "rank": 91,
+    "passed_players": [
+      "Leilani Mitchell"
+    ],
+    "new_total": 685
+  },
+  {
     "ts": "2026-05-10T22:48:00+00:00",
     "text": "Chelsea Gray passed Vicky Bullett for #101 all-time in rebounds (career 1,190) \u2014 up from #102 entering today \u2014 (6:05 - 2nd \u2014 LV @ LA)",
     "kind": "rank_pass",
