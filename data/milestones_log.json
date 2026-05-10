@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-10T22:14:00+00:00",
+    "text": "Ariel Atkins passed Michelle Snow for #81 all-time in points (career 3,363) \u2014 (8:19 - 1st \u2014 LV @ LA)",
+    "kind": "rank_pass",
+    "player": "Ariel Atkins",
+    "stat": "points",
+    "rank": 81,
+    "passed_players": [
+      "Michelle Snow"
+    ],
+    "new_total": 3363
+  },
+  {
     "ts": "2026-05-10T21:45:00+00:00",
     "text": "Sonia Citron reached 700 career points (now 700) \u2014 (End of OT \u2014 NY @ WSH)",
     "kind": "round",

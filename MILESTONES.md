@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-10 22:14 UTC
+
+- **Ariel Atkins** passed **Michelle Snow** for **#81** all-time in points (career 3,363) — _8:19 - 1st — LV @ LA_
+
 ## 2026-05-10 21:45 UTC
 
 - **Sonia Citron** reached **700** career points (now 700) — _End of OT — NY @ WSH_

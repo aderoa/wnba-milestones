@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-10 22:13 UTC_
+_Last updated: 2026-05-10 22:14 UTC_
 
 ## Contents
 
@@ -98,8 +98,8 @@ _Last updated: 2026-05-10 22:13 UTC_
 | 77 | **Jackie Young** 🔴 | 3,412 |
 | 78 | Nicole Powell | 3,407 |
 | 79 | Epiphanny Prince | 3,381 |
-| 80 | **Ariel Atkins** 🔴 | 3,361 |
-| 80 | Michelle Snow | 3,361 |
+| 80 | **Ariel Atkins** 🔴 +2 | 3,363 |
+| 81 | Michelle Snow | 3,361 |
 | 82 | Tamika Whitmore | 3,359 |
 | 83 | Sheri Sam | 3,353 |
 | 84 | Andrea Stinson | 3,351 |
@@ -248,7 +248,7 @@ _Last updated: 2026-05-10 22:13 UTC_
 | 22 | Lauren Jackson | 2,444 |
 | 23 | Yolanda Griffith | 2,440 |
 | 24 | Tangela Smith | 2,328 |
-| 25 | **Dearica Hamby** 🔴 | 2,317 |
+| 25 | **Dearica Hamby** 🔴 +2 | 2,319 |
 | 26 | Erika de Souza | 2,220 |
 | 27 | Diana Taurasi | 2,201 |
 | 28 | Natasha Howard | 2,174 |
@@ -457,7 +457,7 @@ _Last updated: 2026-05-10 22:13 UTC_
 | 26 | Vickie Johnson | 1,202 |
 | 27 | Odyssey Sims | 1,201 |
 | 28 | Leilani Mitchell | 1,197 |
-| 29 | **Kelsey Plum** 🔴 | 1,193 |
+| 29 | **Kelsey Plum** 🔴 +1 | 1,194 |
 | 30 | DeWanna Bonner | 1,176 |
 | 31 | Renee Montgomery | 1,140 |
 | 32 | Jordin Canada | 1,139 |
@@ -779,10 +779,10 @@ _Last updated: 2026-05-10 22:13 UTC_
 | 143 | Allie Quigley | 90 |
 | 144 | Alysha Clark | 89 |
 | 145 | Marissa Coleman | 88 |
+| 146 | **NaLyssa Smith** 🔴 +1 | 87 |
 | 146 | Tiffany Hayes | 87 |
-| 147 | Astou Ndiaye-Diatta | 86 |
-| 147 | Kayla Thornton | 86 |
-| 147 | **NaLyssa Smith** 🔴 | 86 |
+| 148 | Astou Ndiaye-Diatta | 86 |
+| 148 | Kayla Thornton | 86 |
 | 150 | Adrian Williams-Strong | 85 |
 | 150 | Erlana Larkins | 85 |
 | 150 | Kalani Brown | 85 |
@@ -1319,8 +1319,8 @@ _Last updated: 2026-05-10 22:13 UTC_
 | 67 | Odyssey Sims | 616 |
 | 68 | Rebekkah Brunson | 615 |
 | 69 | Seimone Augustus | 613 |
-| 70 | Jonquel Jones | 611 |
-| 70 | **Kelsey Plum** 🔴 | 611 |
+| 70 | **Kelsey Plum** 🔴 +1 | 612 |
+| 71 | Jonquel Jones | 611 |
 | 72 | Tiffany Hayes | 605 |
 | 73 | Teresa Weatherspoon | 601 |
 | 74 | Lindsey Harding | 600 |
@@ -1374,7 +1374,7 @@ _Last updated: 2026-05-10 22:13 UTC_
 | 122 | Allisha Gray | 449 |
 | 123 | Elena Baranova | 444 |
 | 123 | Jantel Lavender | 444 |
-| 125 | **A'ja Wilson** 🔴 | 441 |
+| 125 | **A'ja Wilson** 🔴 +1 | 442 |
 | 126 | Ann Wauters | 440 |
 | 127 | Tiffany Mitchell | 439 |
 | 128 | Kedra Holland-Corn | 438 |
@@ -1605,7 +1605,7 @@ _Last updated: 2026-05-10 22:13 UTC_
 | 147 | Epiphanny Prince | 525 |
 | 147 | Marina Mabrey | 525 |
 | 150 | Armintie Herrington | 523 |
-| 151 | **A'ja Wilson** 🔴 | 521 |
+| 151 | **A'ja Wilson** 🔴 +1 | 522 |
 | 152 | Sheryl Swoopes | 519 |
 | 153 | Nikki McCray | 517 |
 | 154 | Alex Bentley | 516 |
