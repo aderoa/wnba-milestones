@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-10 02:25 UTC_
+_Last updated: 2026-05-10 02:26 UTC_
 
 ## Contents
 
@@ -257,7 +257,7 @@ _Last updated: 2026-05-10 02:25 UTC_
 | 31 | Chasity Melvin | 2,097 |
 | 32 | Tammy Sutton-Brown | 2,010 |
 | 33 | Cheryl Ford | 1,907 |
-| 34 | **Elizabeth Williams** 🔴 | 1,904 |
+| 34 | **Elizabeth Williams** 🔴 +1 | 1,905 |
 | 35 | Plenette Pierson | 1,834 |
 | 36 | Natalie Williams | 1,832 |
 | 37 | Wendy Palmer | 1,824 |
@@ -614,9 +614,9 @@ _Last updated: 2026-05-10 02:25 UTC_
 | 182 | Diamond DeShields | 361 |
 | 182 | Erlana Larkins | 361 |
 | 185 | Alanna Smith | 357 |
+| 186 | **Bridget Carleton** 🔴 +3 | 355 |
 | 186 | Kayla Thornton | 355 |
 | 186 | Merlakia Jones | 355 |
-| 188 | **Bridget Carleton** 🔴 +2 | 354 |
 | 189 | Charlotte Smith | 352 |
 | 189 | Ruthie Bolton | 352 |
 | 191 | Jantel Lavender | 350 |
