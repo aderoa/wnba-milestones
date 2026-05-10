@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-10 20:25 UTC
+
+- **Breanna Stewart** passed **Marie Ferdinand-Harris** for **#102** all-time in fouls (career 647) — up from #104 entering today — _7:36 - 3rd — NY @ WSH_
+
 ## 2026-05-10 20:20 UTC
 
 - **Jonquel Jones** passed **Cynthia Cooper** for **#99** all-time in assists (career 603) — up from #100 entering today — _8:51 - 3rd — NY @ WSH_
