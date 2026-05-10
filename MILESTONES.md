@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-10 23:43 UTC
+
+- **Kelsey Plum** passed **Cheyenne Parker-Tyus** for **#99** all-time in fouls (career 661) — up from #100 entering today — _1:21 - 3rd — LV @ LA_
+
 ## 2026-05-10 23:39 UTC
 
 - **Chelsea Gray** passed **Tiffany Mitchell** for **#119** all-time in fouls (career 605) — up from #120 entering today — _3:37 - 3rd — LV @ LA_
