@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-10 17:23 UTC_
+_Last updated: 2026-05-10 17:24 UTC_
 
 ## Contents
 
@@ -733,10 +733,10 @@ _Last updated: 2026-05-10 17:23 UTC_
 | 97 | Brionna Jones | 125 |
 | 98 | Monique Billings | 123 |
 | 99 | Natalie Williams | 122 |
-| 100 | Alyssa Thomas | 121 |
-| 100 | Ebony Hoffman | 121 |
-| 100 | Essence Carson | 121 |
-| 100 | **Olivia Nelson-Ododa** 🔴 | 121 |
+| 99 | **Olivia Nelson-Ododa** 🔴 +1 | 122 |
+| 101 | Alyssa Thomas | 121 |
+| 101 | Ebony Hoffman | 121 |
+| 101 | Essence Carson | 121 |
 | 104 | Chelsea Gray | 119 |
 | 105 | Krystal Thomas | 118 |
 | 106 | Andrea Stinson | 117 |
