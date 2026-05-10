@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-10 20:29 UTC_
+_Last updated: 2026-05-10 20:30 UTC_
 
 ## Contents
 
@@ -1192,8 +1192,8 @@ _Last updated: 2026-05-10 20:29 UTC_
 | 144 | Stephanie Talbot | 149 |
 | 144 | Tiffany Mitchell | 149 |
 | 147 | Diamond DeShields | 147 |
+| 148 | **Marine Johannès** 🔴 +5 | 146 |
 | 148 | Wendy Palmer | 146 |
-| 149 | **Marine Johannès** 🔴 +4 | 145 |
 | 150 | Helen Darling | 144 |
 | 150 | Matee Ajavon | 144 |
 | 152 | Shenise Johnson | 143 |
