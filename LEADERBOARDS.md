@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-10 23:03 UTC_
+_Last updated: 2026-05-10 23:04 UTC_
 
 ## Contents
 
@@ -98,7 +98,7 @@ _Last updated: 2026-05-10 23:03 UTC_
 | 77 | **Jackie Young** 🔴 +8 | 3,420 |
 | 78 | Nicole Powell | 3,407 |
 | 79 | Epiphanny Prince | 3,381 |
-| 80 | **Ariel Atkins** 🔴 +4 | 3,365 |
+| 80 | **Ariel Atkins** 🔴 +6 | 3,367 |
 | 81 | Michelle Snow | 3,361 |
 | 82 | Tamika Whitmore | 3,359 |
 | 83 | Sheri Sam | 3,353 |
@@ -407,7 +407,7 @@ _Last updated: 2026-05-10 23:03 UTC_
 | 179 | Tan White | 769 |
 | 182 | Tully Bevilaqua | 767 |
 | 183 | Gabby Williams | 764 |
-| 184 | **Ariel Atkins** 🔴 +2 | 760 |
+| 184 | **Ariel Atkins** 🔴 +3 | 761 |
 | 185 | Layshia Clarendon | 756 |
 | 186 | Brooke Wyckoff | 751 |
 | 187 | Coco Miller | 750 |
@@ -909,9 +909,9 @@ _Last updated: 2026-05-10 23:03 UTC_
 | 68 | Svetlana Abrosimova | 352 |
 | 69 | Allisha Gray | 349 |
 | 70 | Janeth Arcain | 346 |
+| 71 | **Erica Wheeler** 🔴 +1 | 343 |
 | 71 | Helen Darling | 343 |
-| 72 | Andrea Stinson | 342 |
-| 72 | **Erica Wheeler** 🔴 | 342 |
+| 73 | Andrea Stinson | 342 |
 | 74 | Armintie Herrington | 340 |
 | 74 | Natasha Cloud | 340 |
 | 76 | Arike Ogunbowale | 339 |
@@ -1272,7 +1272,7 @@ _Last updated: 2026-05-10 23:03 UTC_
 | 20 | Shannon Johnson | 934 |
 | 21 | Taj McWilliams-Franklin | 898 |
 | 22 | Skylar Diggins | 879 |
-| 23 | **Chelsea Gray** 🔴 +3 | 872 |
+| 23 | **Chelsea Gray** 🔴 +4 | 873 |
 | 24 | Candice Dupree | 869 |
 | 25 | Alana Beard | 854 |
 | 26 | DeWanna Bonner | 826 |

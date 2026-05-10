@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-10T23:04:00+00:00",
+    "text": "Erica Wheeler passed Andrea Stinson for #72 all-time in steals (career 343) \u2014 up from #73 entering today \u2014 (2:05 - 2nd \u2014 LV @ LA)",
+    "kind": "rank_pass",
+    "player": "Erica Wheeler",
+    "stat": "steals",
+    "rank": 72,
+    "passed_players": [
+      "Andrea Stinson"
+    ],
+    "new_total": 343
+  },
+  {
     "ts": "2026-05-10T22:57:00+00:00",
     "text": "Ariel Atkins passed Kedra Holland-Corn for #128 all-time in turnovers (career 439) \u2014 up from #130 entering today \u2014 (3:34 - 2nd \u2014 LV @ LA)",
     "kind": "rank_pass",
