@@ -2,6 +2,11 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-10 00:44 UTC
+
+- **Jordin Canada** passed **Janel McCarville** for **#111** all-time in turnovers (career 492) — up from #112 entering today — _3:22 - 2nd — ATL @ MIN_
+- **Rhyne Howard** passed **Epiphanny Prince** for **#48** all-time in three-pointers (career 369) — up from #49 entering today — _3:22 - 2nd — ATL @ MIN_
+
 ## 2026-05-10 00:42 UTC
 
 - **Jordin Canada** passed **Renee Montgomery** for **#31** all-time in assists (career 1,141) — up from #32 entering today — _3:54 - 2nd — ATL @ MIN_

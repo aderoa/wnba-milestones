@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-10 00:43 UTC_
+_Last updated: 2026-05-10 00:44 UTC_
 
 ## Contents
 
@@ -149,7 +149,7 @@ _Last updated: 2026-05-10 00:43 UTC_
 | 128 | Anna DeForge | 2,413 |
 | 129 | DeMya Walker | 2,379 |
 | 130 | Alex Bentley | 2,350 |
-| 131 | **Rhyne Howard** 🔴 +6 | 2,335 |
+| 131 | **Rhyne Howard** 🔴 +9 | 2,338 |
 | 132 | Merlakia Jones | 2,308 |
 | 133 | Kia Vaughn | 2,288 |
 | 134 | Allison Feaster | 2,258 |
@@ -1091,8 +1091,8 @@ _Last updated: 2026-05-10 00:43 UTC_
 | 45 | Allison Feaster | 372 |
 | 45 | Betty Lennox | 372 |
 | 45 | Rachel Banham | 372 |
-| 48 | Epiphanny Prince | 368 |
-| 48 | **Rhyne Howard** 🔴 +2 | 368 |
+| 48 | **Rhyne Howard** 🔴 +3 | 369 |
+| 49 | Epiphanny Prince | 368 |
 | 50 | Jonquel Jones | 357 |
 | 51 | Kia Nurse | 356 |
 | 52 | Nykesha Sales | 352 |
@@ -1279,7 +1279,7 @@ _Last updated: 2026-05-10 00:43 UTC_
 | 28 | Betty Lennox | 800 |
 | 29 | Jasmine Thomas | 796 |
 | 30 | Chamique Holdsclaw | 789 |
-| 31 | **Natasha Howard** 🔴 +1 | 785 |
+| 31 | **Natasha Howard** 🔴 +2 | 786 |
 | 32 | Crystal Langhorne | 782 |
 | 32 | Nneka Ogwumike | 782 |
 | 34 | Jewell Loyd | 781 |
@@ -1359,8 +1359,8 @@ _Last updated: 2026-05-10 00:43 UTC_
 | 108 | Tamera Young | 501 |
 | 109 | Nikki Teasley | 493 |
 | 109 | Tari Phillips | 493 |
-| 111 | Janel McCarville | 491 |
-| 111 | **Jordin Canada** 🔴 +2 | 491 |
+| 111 | **Jordin Canada** 🔴 +3 | 492 |
+| 112 | Janel McCarville | 491 |
 | 113 | Marina Mabrey | 487 |
 | 114 | Erika de Souza | 483 |
 | 115 | Sophia Young-Malcolm | 482 |
