@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-10T19:08:00+00:00",
+    "text": "Marine Johann\u00e8s passed Jordan Hooper for #153 all-time in three-pointers (career 142) \u2014 up from #154 entering today \u2014 (6:26 - 1st \u2014 NY @ WSH)",
+    "kind": "rank_pass",
+    "player": "Marine Johann\u00e8s",
+    "stat": "three-pointers",
+    "rank": 153,
+    "passed_players": [
+      "Jordan Hooper"
+    ],
+    "new_total": 142
+  },
+  {
     "ts": "2026-05-10T19:02:00+00:00",
     "text": "Kennedy Burke passed Belinda Snell and Rickea Jackson for #189 all-time in three-pointers (career 109) \u2014 up from #191 entering today \u2014 (3:30 - 4th \u2014 SEA @ CON)",
     "kind": "rank_pass",
