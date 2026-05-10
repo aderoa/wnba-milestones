@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-10 22:32 UTC_
+_Last updated: 2026-05-10 22:33 UTC_
 
 ## Contents
 
@@ -95,7 +95,7 @@ _Last updated: 2026-05-10 22:32 UTC_
 | 74 | Sancho Lyttle | 3,478 |
 | 75 | Ivory Latta | 3,447 |
 | 76 | Brittney Sykes | 3,439 |
-| 77 | **Jackie Young** 🔴 +4 | 3,416 |
+| 77 | **Jackie Young** 🔴 +6 | 3,418 |
 | 78 | Nicole Powell | 3,407 |
 | 79 | Epiphanny Prince | 3,381 |
 | 80 | **Ariel Atkins** 🔴 +2 | 3,363 |
@@ -210,7 +210,7 @@ _Last updated: 2026-05-10 22:32 UTC_
 | 189 | Armintie Herrington | 1,696 |
 | 190 | Nikki Teasley | 1,690 |
 | 191 | Shenise Johnson | 1,688 |
-| 192 | **NaLyssa Smith** 🔴 +5 | 1,681 |
+| 192 | **NaLyssa Smith** 🔴 +6 | 1,682 |
 | 193 | Sophie Cunningham | 1,666 |
 | 194 | Gabby Williams | 1,597 |
 | 195 | Janell Burse | 1,580 |
@@ -305,7 +305,7 @@ _Last updated: 2026-05-10 22:32 UTC_
 | 79 | Monique Billings | 1,345 |
 | 80 | Elena Baranova | 1,335 |
 | 81 | Brionna Jones | 1,333 |
-| 82 | **Jewell Loyd** 🔴 | 1,331 |
+| 82 | **Jewell Loyd** 🔴 +1 | 1,332 |
 | 83 | Erlana Larkins | 1,329 |
 | 84 | Mwadi Mabika | 1,327 |
 | 85 | Jayne Appel Marinelli | 1,326 |
