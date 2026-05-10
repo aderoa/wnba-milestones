@@ -1,5 +1,14 @@
 [
   {
+    "ts": "2026-05-10T00:47:00+00:00",
+    "text": "Kayla McBride reached 5,400 career points (now 5,401) \u2014 (1:25 - 2nd \u2014 ATL @ MIN)",
+    "kind": "round",
+    "player": "Kayla McBride",
+    "stat": "points",
+    "value": 5400,
+    "new_total": 5401
+  },
+  {
     "ts": "2026-05-10T00:44:00+00:00",
     "text": "Jordin Canada passed Janel McCarville for #111 all-time in turnovers (career 492) \u2014 up from #112 entering today \u2014 (3:22 - 2nd \u2014 ATL @ MIN)",
     "kind": "rank_pass",

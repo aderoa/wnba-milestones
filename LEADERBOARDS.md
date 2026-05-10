@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-10 00:46 UTC_
+_Last updated: 2026-05-10 00:47 UTC_
 
 ## Contents
 
@@ -44,7 +44,7 @@ _Last updated: 2026-05-10 00:46 UTC_
 | 23 | Katie Douglas | 5,545 |
 | 24 | Lindsay Whalen | 5,511 |
 | 25 | Skylar Diggins | 5,489 |
-| 26 | **Kayla McBride** 🔴 +7 | 5,396 |
+| 26 | **Kayla McBride** 🔴 +12 | 5,401 |
 | 27 | Swin Cash | 5,119 |
 | 28 | Tangela Smith | 5,035 |
 | 29 | Taj McWilliams-Franklin | 4,992 |
@@ -326,7 +326,7 @@ _Last updated: 2026-05-10 00:46 UTC_
 | 99 | Tanisha Wright | 1,190 |
 | 101 | Chelsea Gray | 1,189 |
 | 101 | Vicky Bullett | 1,189 |
-| 103 | **Kayla McBride** 🔴 +2 | 1,184 |
+| 103 | **Kayla McBride** 🔴 +3 | 1,185 |
 | 104 | Nykesha Sales | 1,148 |
 | 105 | Shannon Johnson | 1,143 |
 | 106 | Kahleah Copper | 1,140 |
@@ -446,7 +446,7 @@ _Last updated: 2026-05-10 00:46 UTC_
 | 15 | Shannon Johnson | 1,423 |
 | 15 | Tanisha Wright | 1,423 |
 | 17 | Temeka Johnson | 1,382 |
-| 18 | **Courtney Williams** 🔴 +3 | 1,368 |
+| 18 | **Courtney Williams** 🔴 +4 | 1,369 |
 | 19 | Jasmine Thomas | 1,355 |
 | 20 | Briann January | 1,339 |
 | 21 | Dawn Staley | 1,337 |
@@ -1050,7 +1050,7 @@ _Last updated: 2026-05-10 00:46 UTC_
 | 4 | Becky Hammon | 825 |
 | 5 | Tina Thompson | 745 |
 | 6 | Katie Douglas | 723 |
-| 7 | **Kayla McBride** 🔴 | 722 |
+| 6 | **Kayla McBride** 🔴 +1 | 723 |
 | 8 | Kelsey Mitchell | 671 |
 | 9 | Jewell Loyd | 667 |
 | 10 | DeWanna Bonner | 666 |
