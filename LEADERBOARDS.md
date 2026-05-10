@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-10 00:40 UTC_
+_Last updated: 2026-05-10 00:41 UTC_
 
 ## Contents
 
@@ -62,7 +62,7 @@ _Last updated: 2026-05-10 00:40 UTC_
 | 41 | Crystal Langhorne | 4,433 |
 | 41 | Jia Perkins | 4,433 |
 | 43 | Chelsea Gray | 4,413 |
-| 44 | **Natasha Howard** 🔴 +2 | 4,369 |
+| 44 | **Natasha Howard** 🔴 +4 | 4,371 |
 | 45 | Courtney Vandersloot | 4,352 |
 | 46 | Sophia Young-Malcolm | 4,300 |
 | 47 | Plenette Pierson | 4,258 |
@@ -70,12 +70,12 @@ _Last updated: 2026-05-10 00:40 UTC_
 | 49 | Vickie Johnson | 4,230 |
 | 50 | Yolanda Griffith | 4,224 |
 | 51 | Kelsey Plum | 4,207 |
-| 52 | **Allisha Gray** 🔴 +6 | 4,163 |
+| 52 | **Allisha Gray** 🔴 +8 | 4,165 |
 | 53 | Rebekkah Brunson | 4,133 |
 | 54 | Jonquel Jones | 4,096 |
 | 54 | Kahleah Copper | 4,096 |
 | 56 | Dearica Hamby | 4,090 |
-| 57 | **Courtney Williams** 🔴 +8 | 4,069 |
+| 57 | **Courtney Williams** 🔴 +10 | 4,071 |
 | 58 | Asjha Jones | 3,986 |
 | 59 | Deanna Nolan | 3,971 |
 | 60 | Nykesha Sales | 3,931 |
@@ -381,7 +381,7 @@ _Last updated: 2026-05-10 00:40 UTC_
 | 155 | Leilani Mitchell | 845 |
 | 156 | Alanna Smith | 837 |
 | 157 | Essence Carson | 833 |
-| 158 | **Angel Reese** 🔴 +7 | 830 |
+| 158 | **Angel Reese** 🔴 +8 | 831 |
 | 159 | Kristi Toliver | 829 |
 | 160 | Marie Ferdinand-Harris | 828 |
 | 161 | Jessica Shepard | 822 |
@@ -931,7 +931,7 @@ _Last updated: 2026-05-10 00:40 UTC_
 | 90 | Debbie Black | 315 |
 | 91 | Alysha Clark | 314 |
 | 91 | Crystal Langhorne | 314 |
-| 93 | **Courtney Williams** 🔴 +2 | 310 |
+| 93 | **Courtney Williams** 🔴 +3 | 311 |
 | 94 | Ebony Hoffman | 308 |
 | 95 | Tamera Young | 305 |
 | 96 | Kedra Holland-Corn | 301 |
@@ -1370,7 +1370,7 @@ _Last updated: 2026-05-10 00:40 UTC_
 | 119 | Allie Quigley | 467 |
 | 120 | Kia Vaughn | 454 |
 | 121 | Janeth Arcain | 453 |
-| 122 | **Allisha Gray** 🔴 +1 | 450 |
+| 122 | **Allisha Gray** 🔴 +2 | 451 |
 | 123 | Elena Baranova | 444 |
 | 123 | Jantel Lavender | 444 |
 | 125 | A'ja Wilson | 443 |
