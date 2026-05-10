@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-10 23:34 UTC_
+_Last updated: 2026-05-10 23:35 UTC_
 
 ## Contents
 
@@ -470,7 +470,7 @@ _Last updated: 2026-05-10 23:34 UTC_
 | 39 | Penny Taylor | 1,049 |
 | 40 | Dominique Canty | 1,042 |
 | 41 | Sheryl Swoopes | 1,037 |
-| 42 | **Jackie Young** 🔴 +5 | 1,034 |
+| 42 | **Jackie Young** 🔴 +6 | 1,035 |
 | 43 | Tina Charles | 1,033 |
 | 44 | Nikki Teasley | 982 |
 | 45 | Tamecka Dixon | 960 |
@@ -896,7 +896,7 @@ _Last updated: 2026-05-10 23:34 UTC_
 | 54 | Tiffany Hayes | 378 |
 | 56 | Chamique Holdsclaw | 376 |
 | 57 | Mwadi Mabika | 370 |
-| 58 | **Ariel Atkins** 🔴 +3 | 368 |
+| 58 | **Ariel Atkins** 🔴 +2 | 367 |
 | 59 | Lauren Jackson | 360 |
 | 59 | Tan White | 360 |
 | 61 | Jordin Canada | 359 |
@@ -1385,7 +1385,7 @@ _Last updated: 2026-05-10 23:34 UTC_
 | 133 | Jennifer Gillom | 434 |
 | 133 | Nicole Ohlde | 434 |
 | 135 | Murriel Page | 432 |
-| 136 | **Jackie Young** 🔴 +2 | 426 |
+| 136 | **Jackie Young** 🔴 +1 | 425 |
 | 137 | Shameka Christon | 424 |
 | 138 | Cynthia Cooper | 422 |
 | 138 | Napheesa Collier | 422 |
