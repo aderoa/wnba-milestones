@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-10 02:19 UTC
+
+- **Skylar Diggins** passed **Sancho Lyttle** for **#44** all-time in blocks (career 222) — up from #45 entering today — _4:01 - 3rd — CHI @ POR_
+
 ## 2026-05-10 02:17 UTC
 
 - **Emily Engstler** passed **Sandrine Gruda** for **#137** all-time in blocks (career 95) — up from #139 entering today — _5:31 - 3rd — CHI @ POR_

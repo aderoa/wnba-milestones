@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-10T02:19:00+00:00",
+    "text": "Skylar Diggins passed Sancho Lyttle for #44 all-time in blocks (career 222) \u2014 up from #45 entering today \u2014 (4:01 - 3rd \u2014 CHI @ POR)",
+    "kind": "rank_pass",
+    "player": "Skylar Diggins",
+    "stat": "blocks",
+    "rank": 44,
+    "passed_players": [
+      "Sancho Lyttle"
+    ],
+    "new_total": 222
+  },
+  {
     "ts": "2026-05-10T02:17:00+00:00",
     "text": "Emily Engstler passed Sandrine Gruda for #137 all-time in blocks (career 95) \u2014 up from #139 entering today \u2014 (5:31 - 3rd \u2014 CHI @ POR)",
     "kind": "rank_pass",

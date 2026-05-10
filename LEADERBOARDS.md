@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-10 02:18 UTC_
+_Last updated: 2026-05-10 02:19 UTC_
 
 ## Contents
 
@@ -193,7 +193,7 @@ _Last updated: 2026-05-10 02:18 UTC_
 | 172 | Ebony Hoffman | 1,909 |
 | 173 | Candice Wiggins | 1,901 |
 | 174 | Myisha Hines-Allen | 1,879 |
-| 175 | **Isabelle Harrison** 🔴 | 1,832 |
+| 175 | **Isabelle Harrison** 🔴 +2 | 1,834 |
 | 176 | Tianna Hawkins | 1,825 |
 | 177 | Noelle Quinn | 1,824 |
 | 178 | Aliyah Boston | 1,821 |
@@ -365,7 +365,7 @@ _Last updated: 2026-05-10 02:18 UTC_
 | 139 | Jennifer Gillom | 964 |
 | 140 | Dominique Canty | 961 |
 | 141 | Armintie Herrington | 960 |
-| 142 | **Skylar Diggins** 🔴 +4 | 959 |
+| 141 | **Skylar Diggins** 🔴 +5 | 960 |
 | 143 | Janell Burse | 944 |
 | 144 | Merlakia Jones | 927 |
 | 145 | Nicky Anosike | 922 |
@@ -677,8 +677,8 @@ _Last updated: 2026-05-10 02:18 UTC_
 | 41 | Azurá Stevens | 230 |
 | 42 | Brianna Turner | 228 |
 | 42 | Chasity Melvin | 228 |
-| 44 | Sancho Lyttle | 221 |
-| 44 | **Skylar Diggins** 🔴 | 221 |
+| 44 | **Skylar Diggins** 🔴 +1 | 222 |
+| 45 | Sancho Lyttle | 221 |
 | 46 | Alana Beard | 220 |
 | 46 | Alanna Smith | 220 |
 | 46 | Teaira McCowan | 220 |
