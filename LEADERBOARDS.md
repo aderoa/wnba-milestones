@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-10 20:55 UTC_
+_Last updated: 2026-05-10 20:56 UTC_
 
 ## Contents
 
@@ -32,7 +32,7 @@ _Last updated: 2026-05-10 20:55 UTC_
 | 11 | Katie Smith | 6,450 |
 | 12 | Sylvia Fowles | 6,413 |
 | 13 | Lisa Leslie | 6,251 |
-| 14 | **Breanna Stewart** 🔴 +17 | 6,033 |
+| 14 | **Breanna Stewart** 🔴 +19 | 6,035 |
 | 15 | Jewell Loyd | 6,027 |
 | 16 | Lauren Jackson | 6,005 |
 | 16 | Seimone Augustus | 6,005 |
@@ -242,7 +242,7 @@ _Last updated: 2026-05-10 20:55 UTC_
 | 16 | Brittney Griner | 2,537 |
 | 17 | Swin Cash | 2,521 |
 | 18 | A'ja Wilson | 2,494 |
-| 19 | **Breanna Stewart** 🔴 +7 | 2,491 |
+| 19 | **Breanna Stewart** 🔴 +6 | 2,490 |
 | 20 | Michelle Snow | 2,476 |
 | 21 | Crystal Langhorne | 2,454 |
 | 22 | Lauren Jackson | 2,444 |
@@ -646,7 +646,7 @@ _Last updated: 2026-05-10 20:55 UTC_
 | 10 | Ruth Riley | 505 |
 | 11 | Elizabeth Williams | 483 |
 | 12 | Taj McWilliams-Franklin | 443 |
-| 13 | **Breanna Stewart** 🔴 +1 | 429 |
+| 13 | **Breanna Stewart** 🔴 +2 | 430 |
 | 14 | Tina Charles | 428 |
 | 15 | **Jonquel Jones** 🔴 +1 | 406 |
 | 16 | Michelle Snow | 403 |
