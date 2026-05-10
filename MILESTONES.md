@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-10 02:54 UTC
+
+- **Skylar Diggins** passed **Jennifer Gillom** for **#139** all-time in rebounds (career 965) — up from #142 entering today — _2:33 - 4th — CHI @ POR_
+
 ## 2026-05-10 02:45 UTC
 
 - **Skylar Diggins** passed **Allisha Gray** for **#32** all-time in three-pointers (career 427) — up from #34 entering today — _4:46 - 4th — CHI @ POR_

@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-10T02:54:00+00:00",
+    "text": "Skylar Diggins passed Jennifer Gillom for #139 all-time in rebounds (career 965) \u2014 up from #142 entering today \u2014 (2:33 - 4th \u2014 CHI @ POR)",
+    "kind": "rank_pass",
+    "player": "Skylar Diggins",
+    "stat": "rebounds",
+    "rank": 139,
+    "passed_players": [
+      "Jennifer Gillom"
+    ],
+    "new_total": 965
+  },
+  {
     "ts": "2026-05-10T02:45:00+00:00",
     "text": "Skylar Diggins passed Allisha Gray for #32 all-time in three-pointers (career 427) \u2014 up from #34 entering today \u2014 (4:46 - 4th \u2014 CHI @ POR)",
     "kind": "rank_pass",
