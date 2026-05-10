@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-10T00:31:00+00:00",
+    "text": "Angel Reese passed Kristi Toliver for #158 all-time in rebounds (career 830) \u2014 up from #160 entering today \u2014 (7:52 - 2nd \u2014 ATL @ MIN)",
+    "kind": "rank_pass",
+    "player": "Angel Reese",
+    "stat": "rebounds",
+    "rank": 158,
+    "passed_players": [
+      "Kristi Toliver"
+    ],
+    "new_total": 830
+  },
+  {
     "ts": "2026-05-10T00:30:00+00:00",
     "text": "Jordin Canada passed Tari Phillips for #153 all-time in points (career 2,137) \u2014 up from #154 entering today \u2014 (7:52 - 2nd \u2014 ATL @ MIN)",
     "kind": "rank_pass",

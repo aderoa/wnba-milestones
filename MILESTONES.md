@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-10 00:31 UTC
+
+- **Angel Reese** passed **Kristi Toliver** for **#158** all-time in rebounds (career 830) — up from #160 entering today — _7:52 - 2nd — ATL @ MIN_
+
 ## 2026-05-10 00:30 UTC
 
 - **Jordin Canada** passed **Tari Phillips** for **#153** all-time in points (career 2,137) — up from #154 entering today — _7:52 - 2nd — ATL @ MIN_

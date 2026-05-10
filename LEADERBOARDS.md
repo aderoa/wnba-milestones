@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-10 00:30 UTC_
+_Last updated: 2026-05-10 00:31 UTC_
 
 ## Contents
 
@@ -265,7 +265,7 @@ _Last updated: 2026-05-10 00:30 UTC_
 | 39 | Lindsay Whalen | 1,805 |
 | 40 | Camille Smith | 1,802 |
 | 41 | Asjha Jones | 1,751 |
-| 42 | **Courtney Williams** 🔴 +2 | 1,749 |
+| 42 | **Courtney Williams** 🔴 +1 | 1,748 |
 | 43 | Kiah Stokes | 1,746 |
 | 44 | Teaira McCowan | 1,670 |
 | 45 | Monique Currie | 1,666 |
@@ -381,8 +381,8 @@ _Last updated: 2026-05-10 00:30 UTC_
 | 155 | Leilani Mitchell | 845 |
 | 156 | Alanna Smith | 837 |
 | 157 | Essence Carson | 833 |
-| 158 | **Angel Reese** 🔴 +6 | 829 |
-| 158 | Kristi Toliver | 829 |
+| 158 | **Angel Reese** 🔴 +7 | 830 |
+| 159 | Kristi Toliver | 829 |
 | 160 | Marie Ferdinand-Harris | 828 |
 | 161 | Jessica Shepard | 822 |
 | 161 | Marlies Askamp | 822 |
@@ -560,7 +560,7 @@ _Last updated: 2026-05-10 00:30 UTC_
 | 128 | Tiffany Mitchell | 488 |
 | 130 | Rebekkah Brunson | 486 |
 | 131 | Veronica Burton | 485 |
-| 132 | **Rhyne Howard** 🔴 +1 | 482 |
+| 132 | **Rhyne Howard** 🔴 +2 | 483 |
 | 133 | Ukari Figgs | 470 |
 | 134 | Janeth Arcain | 469 |
 | 135 | Kahleah Copper | 465 |
@@ -1535,7 +1535,7 @@ _Last updated: 2026-05-10 00:30 UTC_
 | 78 | Jia Perkins | 711 |
 | 79 | Helen Darling | 709 |
 | 80 | Elizabeth Williams | 708 |
-| 81 | **Allisha Gray** 🔴 | 706 |
+| 81 | **Allisha Gray** 🔴 +1 | 707 |
 | 82 | Matee Ajavon | 701 |
 | 82 | Nicole Powell | 701 |
 | 84 | Tan White | 698 |
