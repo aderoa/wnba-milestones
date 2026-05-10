@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-10 02:19 UTC_
+_Last updated: 2026-05-10 02:20 UTC_
 
 ## Contents
 
@@ -193,15 +193,15 @@ _Last updated: 2026-05-10 02:19 UTC_
 | 172 | Ebony Hoffman | 1,909 |
 | 173 | Candice Wiggins | 1,901 |
 | 174 | Myisha Hines-Allen | 1,879 |
-| 175 | **Isabelle Harrison** 🔴 +2 | 1,834 |
+| 175 | **Isabelle Harrison** 🔴 +4 | 1,836 |
 | 176 | Tianna Hawkins | 1,825 |
 | 177 | Noelle Quinn | 1,824 |
 | 178 | Aliyah Boston | 1,821 |
 | 178 | Damiris Dantas | 1,821 |
 | 180 | Danielle Adams | 1,820 |
 | 181 | Charde Houston | 1,797 |
-| 182 | Kamila Vodichkova | 1,767 |
-| 182 | **Rachel Banham** 🔴 | 1,767 |
+| 182 | **Rachel Banham** 🔴 +3 | 1,770 |
+| 183 | Kamila Vodichkova | 1,767 |
 | 184 | Tully Bevilaqua | 1,763 |
 | 185 | Sandy Brondello | 1,759 |
 | 186 | Sugar Rodgers | 1,733 |
@@ -568,7 +568,7 @@ _Last updated: 2026-05-10 02:19 UTC_
 | 137 | Sylvia Fowles | 461 |
 | 138 | Caitlin Clark | 459 |
 | 139 | Sydney Colson | 454 |
-| 140 | **Elizabeth Williams** 🔴 | 452 |
+| 140 | **Elizabeth Williams** 🔴 +1 | 453 |
 | 141 | Satou Sabally | 451 |
 | 141 | Yolanda Griffith | 451 |
 | 143 | Elena Delle Donne | 450 |
@@ -768,10 +768,10 @@ _Last updated: 2026-05-10 02:19 UTC_
 | 130 | Rhyne Howard | 98 |
 | 133 | Aneika Morello | 96 |
 | 133 | Tiffani Johnson | 96 |
-| 135 | **Emily Engstler** 🔴 +3 | 95 |
 | 135 | Imani McGee-Stafford | 95 |
 | 135 | **Isabelle Harrison** 🔴 | 95 |
-| 138 | Sandrine Gruda | 94 |
+| 137 | **Emily Engstler** 🔴 +2 | 94 |
+| 137 | Sandrine Gruda | 94 |
 | 139 | **Kamilla Cardoso** 🔴 | 93 |
 | 140 | Jewell Loyd | 92 |
 | 141 | Jasmine Thomas | 91 |
@@ -1088,9 +1088,9 @@ _Last updated: 2026-05-10 02:19 UTC_
 | 42 | Courtney Vandersloot | 385 |
 | 43 | Briann January | 381 |
 | 44 | Jasmine Thomas | 376 |
-| 45 | Allison Feaster | 372 |
-| 45 | Betty Lennox | 372 |
-| 45 | **Rachel Banham** 🔴 | 372 |
+| 45 | **Rachel Banham** 🔴 +1 | 373 |
+| 46 | Allison Feaster | 372 |
+| 46 | Betty Lennox | 372 |
 | 48 | Rhyne Howard | 369 |
 | 49 | Epiphanny Prince | 368 |
 | 50 | Jonquel Jones | 357 |

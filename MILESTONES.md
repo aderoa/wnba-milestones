@@ -2,6 +2,12 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-10 02:20 UTC
+
+- **Elizabeth Williams** passed **Caitlin Clark** for **#139** all-time in assists (career 453) — up from #140 entering today — _3:07 - 3rd — CHI @ POR_
+- **Rachel Banham** passed **Kamila Vodichkova** for **#182** all-time in points (career 1,770) — up from #183 entering today — _3:07 - 3rd — CHI @ POR_
+- **Rachel Banham** passed **Allison Feaster** and **Betty Lennox** for **#45** all-time in three-pointers (career 373) — up from #47 entering today — _3:07 - 3rd — CHI @ POR_
+
 ## 2026-05-10 02:19 UTC
 
 - **Skylar Diggins** passed **Sancho Lyttle** for **#44** all-time in blocks (career 222) — up from #45 entering today — _4:01 - 3rd — CHI @ POR_
