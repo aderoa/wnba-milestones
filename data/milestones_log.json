@@ -1,5 +1,14 @@
 [
   {
+    "ts": "2026-05-10T23:37:00+00:00",
+    "text": "Dearica Hamby reached 4,100 career points (now 4,101) \u2014 (4:40 - 3rd \u2014 LV @ LA)",
+    "kind": "round",
+    "player": "Dearica Hamby",
+    "stat": "points",
+    "value": 4100,
+    "new_total": 4101
+  },
+  {
     "ts": "2026-05-10T23:31:00+00:00",
     "text": "Jackie Young passed Tina Charles for #42 all-time in assists (career 1,034) \u2014 up from #43 entering today \u2014 (6:22 - 3rd \u2014 LV @ LA)",
     "kind": "rank_pass",

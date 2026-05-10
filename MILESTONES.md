@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-10 23:37 UTC
+
+- **Dearica Hamby** reached **4,100** career points (now 4,101) — _4:40 - 3rd — LV @ LA_
+
 ## 2026-05-10 23:31 UTC
 
 - **Jackie Young** passed **Tina Charles** for **#42** all-time in assists (career 1,034) — up from #43 entering today — _6:22 - 3rd — LV @ LA_
