@@ -1,5 +1,14 @@
 [
   {
+    "ts": "2026-05-10T01:34:00+00:00",
+    "text": "Maya Caldwell reached 100 career turnovers (now 100) \u2014 (16.5 - 3rd \u2014 ATL @ MIN)",
+    "kind": "round",
+    "player": "Maya Caldwell",
+    "stat": "turnovers",
+    "value": 100,
+    "new_total": 100
+  },
+  {
     "ts": "2026-05-10T01:33:00+00:00",
     "text": "Rachel Banham passed Bridget Pettis for #199 all-time in turnovers (career 285) \u2014 up from #200 entering today \u2014 (7:09 - 2nd \u2014 CHI @ POR)",
     "kind": "rank_pass",
