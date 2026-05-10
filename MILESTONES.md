@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-10 18:20 UTC
+
+- **Natisha Hiedeman** passed **Charde Houston** and **Tiffany Jackson** for **#178** all-time in steals (career 186) — up from #179 entering today — _7:34 - 3rd — SEA @ CON_
+
 ## 2026-05-10 17:54 UTC
 
 - **Kennedy Burke** passed **Layshia Clarendon** for **#192** all-time in three-pointers (career 108) — _2:09 - 2nd — SEA @ CON_

@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-05-10T18:20:00+00:00",
+    "text": "Natisha Hiedeman passed Charde Houston and Tiffany Jackson for #178 all-time in steals (career 186) \u2014 up from #179 entering today \u2014 (7:34 - 3rd \u2014 SEA @ CON)",
+    "kind": "rank_pass",
+    "player": "Natisha Hiedeman",
+    "stat": "steals",
+    "rank": 178,
+    "passed_players": [
+      "Charde Houston",
+      "Tiffany Jackson"
+    ],
+    "new_total": 186
+  },
+  {
     "ts": "2026-05-10T17:54:00+00:00",
     "text": "Kennedy Burke passed Layshia Clarendon for #192 all-time in three-pointers (career 108) \u2014 (2:09 - 2nd \u2014 SEA @ CON)",
     "kind": "rank_pass",
