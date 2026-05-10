@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-10 01:27 UTC
+
+- **Kamilla Cardoso** reached **600** career rebounds (now 600) — _8:38 - 2nd — CHI @ POR_
+
 ## 2026-05-10 01:21 UTC
 
 - **Angel Reese** passed **Essence Carson** for **#157** all-time in rebounds (career 834) — up from #160 entering today — _5:50 - 3rd — ATL @ MIN_
