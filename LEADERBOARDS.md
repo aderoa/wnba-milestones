@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-10 22:27 UTC_
+_Last updated: 2026-05-10 22:28 UTC_
 
 ## Contents
 
@@ -417,7 +417,7 @@ _Last updated: 2026-05-10 22:27 UTC_
 | 191 | Sami Whitcomb | 726 |
 | 191 | Shekinna Stricklen | 726 |
 | 193 | Arike Ogunbowale | 722 |
-| 194 | **Kelsey Plum** 🔴 | 715 |
+| 194 | **Kelsey Plum** 🔴 +1 | 716 |
 | 195 | Olympia Scott | 711 |
 | 196 | Shakira Austin | 710 |
 | 197 | Katie Mattera | 708 |
@@ -946,8 +946,8 @@ _Last updated: 2026-05-10 22:27 UTC_
 | 105 | Tari Phillips | 277 |
 | 106 | Emma Meesseman | 276 |
 | 106 | Erika de Souza | 276 |
-| 108 | **Jackie Young** 🔴 | 271 |
-| 108 | Rita Williams | 271 |
+| 108 | **Jackie Young** 🔴 +1 | 272 |
+| 109 | Rita Williams | 271 |
 | 110 | Natalie Williams | 270 |
 | 110 | Nicky Anosike | 270 |
 | 112 | Crystal Robinson | 267 |
