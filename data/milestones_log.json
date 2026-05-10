@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-10T17:54:00+00:00",
+    "text": "Kennedy Burke passed Layshia Clarendon for #192 all-time in three-pointers (career 108) \u2014 (2:09 - 2nd \u2014 SEA @ CON)",
+    "kind": "rank_pass",
+    "player": "Kennedy Burke",
+    "stat": "three-pointers",
+    "rank": 192,
+    "passed_players": [
+      "Layshia Clarendon"
+    ],
+    "new_total": 108
+  },
+  {
     "ts": "2026-05-10T17:27:00+00:00",
     "text": "Stefanie Dolson passed Wendy Palmer for #88 all-time in points (career 3,136) \u2014 up from #89 entering today \u2014 (40.4 - 1st \u2014 SEA @ CON)",
     "kind": "rank_pass",

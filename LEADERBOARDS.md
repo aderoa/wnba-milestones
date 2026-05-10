@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-10 17:53 UTC_
+_Last updated: 2026-05-10 17:54 UTC_
 
 ## Contents
 
@@ -1233,9 +1233,9 @@ _Last updated: 2026-05-10 17:53 UTC_
 | 186 | Lexie Hull | 109 |
 | 186 | Scholanda Dorrell | 109 |
 | 189 | Belinda Snell | 108 |
+| 189 | **Kennedy Burke** 🔴 +1 | 108 |
 | 189 | Rickea Jackson | 108 |
-| 191 | **Kennedy Burke** 🔴 | 107 |
-| 191 | Layshia Clarendon | 107 |
+| 192 | Layshia Clarendon | 107 |
 | 193 | Leonie Fiebich | 106 |
 | 194 | Laurie Koehn | 105 |
 | 195 | Jeanette Pohlen-Mavunga | 103 |
@@ -1474,7 +1474,7 @@ _Last updated: 2026-05-10 17:53 UTC_
 | 18 | Tanisha Wright | 1,109 |
 | 19 | Michelle Snow | 1,108 |
 | 20 | Natasha Howard | 1,088 |
-| 21 | **Stefanie Dolson** 🔴 +2 | 1,084 |
+| 21 | **Stefanie Dolson** 🔴 +3 | 1,085 |
 | 22 | Sylvia Fowles | 1,049 |
 | 23 | Tina Charles | 1,037 |
 | 24 | Lindsay Whalen | 998 |

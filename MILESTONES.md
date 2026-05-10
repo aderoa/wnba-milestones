@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-10 17:54 UTC
+
+- **Kennedy Burke** passed **Layshia Clarendon** for **#192** all-time in three-pointers (career 108) — _2:09 - 2nd — SEA @ CON_
+
 ## 2026-05-10 17:27 UTC
 
 - **Stefanie Dolson** passed **Wendy Palmer** for **#88** all-time in points (career 3,136) — up from #89 entering today — _40.4 - 1st — SEA @ CON_
