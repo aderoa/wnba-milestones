@@ -1,5 +1,19 @@
 [
   {
+    "ts": "2026-05-10T02:44:00+00:00",
+    "text": "Bridget Carleton passed Alanna Smith, Kayla Thornton, and Merlakia Jones for #185 all-time in assists (career 356) \u2014 up from #188 entering today \u2014 (4:59 - 4th \u2014 CHI @ POR)",
+    "kind": "rank_pass",
+    "player": "Bridget Carleton",
+    "stat": "assists",
+    "rank": 185,
+    "passed_players": [
+      "Alanna Smith",
+      "Kayla Thornton",
+      "Merlakia Jones"
+    ],
+    "new_total": 356
+  },
+  {
     "ts": "2026-05-10T02:36:00+00:00",
     "text": "Skylar Diggins passed Dominique Canty for #140 all-time in rebounds (career 962) \u2014 up from #142 entering today \u2014 (7:07 - 4th \u2014 CHI @ POR)",
     "kind": "rank_pass",

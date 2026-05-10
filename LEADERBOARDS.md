@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-10 02:43 UTC_
+_Last updated: 2026-05-10 02:44 UTC_
 
 ## Contents
 
@@ -121,7 +121,7 @@ _Last updated: 2026-05-10 02:43 UTC_
 | 100 | Jennifer Gillom | 2,888 |
 | 101 | Natasha Cloud | 2,863 |
 | 102 | Iziane Castro Marques | 2,862 |
-| 103 | **Elizabeth Williams** 🔴 +3 | 2,844 |
+| 103 | **Elizabeth Williams** 🔴 +8 | 2,849 |
 | 104 | Alysha Clark | 2,790 |
 | 105 | Jantel Lavender | 2,775 |
 | 106 | Brionna Jones | 2,765 |
@@ -436,7 +436,7 @@ _Last updated: 2026-05-10 02:43 UTC_
 | 5 | Lindsay Whalen | 2,347 |
 | 6 | Chelsea Gray | 1,876 |
 | 7 | Alyssa Thomas | 1,829 |
-| 8 | **Skylar Diggins** 🔴 +5 | 1,773 |
+| 8 | **Skylar Diggins** 🔴 +6 | 1,774 |
 | 9 | Natasha Cloud | 1,733 |
 | 10 | Becky Hammon | 1,705 |
 | 11 | Candace Parker | 1,634 |
@@ -614,9 +614,9 @@ _Last updated: 2026-05-10 02:43 UTC_
 | 182 | Diamond DeShields | 361 |
 | 182 | Erlana Larkins | 361 |
 | 185 | Alanna Smith | 357 |
-| 186 | **Bridget Carleton** 🔴 +3 | 355 |
-| 186 | Kayla Thornton | 355 |
-| 186 | Merlakia Jones | 355 |
+| 186 | **Bridget Carleton** 🔴 +4 | 356 |
+| 187 | Kayla Thornton | 355 |
+| 187 | Merlakia Jones | 355 |
 | 189 | Charlotte Smith | 352 |
 | 189 | Ruthie Bolton | 352 |
 | 191 | Jantel Lavender | 350 |

@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-10 02:44 UTC
+
+- **Bridget Carleton** passed **Alanna Smith**, **Kayla Thornton**, and **Merlakia Jones** for **#185** all-time in assists (career 356) — up from #188 entering today — _4:59 - 4th — CHI @ POR_
+
 ## 2026-05-10 02:36 UTC
 
 - **Skylar Diggins** passed **Dominique Canty** for **#140** all-time in rebounds (career 962) — up from #142 entering today — _7:07 - 4th — CHI @ POR_
