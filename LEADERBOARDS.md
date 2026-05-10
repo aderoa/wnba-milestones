@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-10 22:38 UTC_
+_Last updated: 2026-05-10 22:39 UTC_
 
 ## Contents
 
@@ -305,7 +305,7 @@ _Last updated: 2026-05-10 22:38 UTC_
 | 79 | Monique Billings | 1,345 |
 | 80 | Elena Baranova | 1,335 |
 | 81 | Brionna Jones | 1,333 |
-| 82 | **Jewell Loyd** 🔴 +1 | 1,332 |
+| 81 | **Jewell Loyd** 🔴 +2 | 1,333 |
 | 83 | Erlana Larkins | 1,329 |
 | 84 | Mwadi Mabika | 1,327 |
 | 85 | Jayne Appel Marinelli | 1,326 |
@@ -319,7 +319,7 @@ _Last updated: 2026-05-10 22:38 UTC_
 | 93 | Tiffany Hayes | 1,233 |
 | 94 | Seimone Augustus | 1,228 |
 | 95 | Jia Perkins | 1,220 |
-| 96 | **Brianna Turner** 🔴 +1 | 1,215 |
+| 96 | **Brianna Turner** 🔴 +2 | 1,216 |
 | 97 | Myisha Hines-Allen | 1,208 |
 | 98 | DeMya Walker | 1,199 |
 | 99 | Latasha Byears | 1,190 |
@@ -407,7 +407,7 @@ _Last updated: 2026-05-10 22:38 UTC_
 | 179 | Tan White | 769 |
 | 182 | Tully Bevilaqua | 767 |
 | 183 | Gabby Williams | 764 |
-| 184 | **Ariel Atkins** 🔴 | 758 |
+| 184 | **Ariel Atkins** 🔴 +1 | 759 |
 | 185 | Layshia Clarendon | 756 |
 | 186 | Brooke Wyckoff | 751 |
 | 187 | Coco Miller | 750 |
