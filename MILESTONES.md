@@ -2,6 +2,11 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-10 02:01 UTC
+
+- **Naz Hillmon** passed **Lindsey Harding** for **#174** all-time in rebounds (career 780) — up from #178 entering today — _2:05 - 4th — ATL @ MIN_
+- **Rhyne Howard** passed **Nikki Teasley** for **#156** all-time in steals (career 212) — up from #157 entering today — _2:05 - 4th — ATL @ MIN_
+
 ## 2026-05-10 02:00 UTC
 
 - **Naz Hillmon** passed **Tiffani Johnson** for **#175** all-time in rebounds (career 779) — up from #178 entering today — _2:42 - 4th — ATL @ MIN_

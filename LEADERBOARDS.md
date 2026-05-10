@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-10 02:00 UTC_
+_Last updated: 2026-05-10 02:01 UTC_
 
 ## Contents
 
@@ -396,9 +396,9 @@ _Last updated: 2026-05-10 02:00 UTC_
 | 170 | Rhonda Mapp | 788 |
 | 171 | Mercedes Russell | 786 |
 | 172 | Betnijah Laney-Hamilton | 785 |
+| 173 | **Naz Hillmon** 🔴 +7 | 780 |
 | 173 | Sue Wicks | 780 |
-| 174 | Lindsey Harding | 779 |
-| 174 | **Naz Hillmon** 🔴 +6 | 779 |
+| 175 | Lindsey Harding | 779 |
 | 176 | Odyssey Sims | 778 |
 | 176 | Tiffani Johnson | 778 |
 | 178 | Teresa Weatherspoon | 775 |
@@ -459,7 +459,7 @@ _Last updated: 2026-05-10 02:00 UTC_
 | 28 | Leilani Mitchell | 1,197 |
 | 29 | Kelsey Plum | 1,193 |
 | 30 | DeWanna Bonner | 1,178 |
-| 31 | **Jordin Canada** 🔴 +5 | 1,144 |
+| 31 | **Jordin Canada** 🔴 +6 | 1,145 |
 | 32 | Renee Montgomery | 1,140 |
 | 33 | Jewell Loyd | 1,135 |
 | 34 | Swin Cash | 1,131 |
@@ -994,8 +994,8 @@ _Last updated: 2026-05-10 02:00 UTC_
 | 151 | Elena Baranova | 215 |
 | 154 | Cheyenne Parker-Tyus | 213 |
 | 154 | Shekinna Stricklen | 213 |
-| 156 | Nikki Teasley | 211 |
-| 156 | **Rhyne Howard** 🔴 +1 | 211 |
+| 156 | **Rhyne Howard** 🔴 +2 | 212 |
+| 157 | Nikki Teasley | 211 |
 | 158 | Iziane Castro Marques | 209 |
 | 158 | Tiffany Mitchell | 209 |
 | 160 | Kia Vaughn | 208 |
@@ -1310,7 +1310,7 @@ _Last updated: 2026-05-10 02:00 UTC_
 | 59 | Dearica Hamby | 657 |
 | 60 | Yolanda Griffith | 653 |
 | 61 | Sheri Sam | 650 |
-| 62 | **Courtney Williams** 🔴 +1 | 644 |
+| 62 | **Courtney Williams** 🔴 +2 | 645 |
 | 63 | Dawn Staley | 643 |
 | 64 | Ruth Riley | 637 |
 | 65 | Svetlana Abrosimova | 631 |
