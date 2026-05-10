@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-10 01:10 UTC_
+_Last updated: 2026-05-10 01:11 UTC_
 
 ## Contents
 
@@ -70,7 +70,7 @@ _Last updated: 2026-05-10 01:10 UTC_
 | 49 | Vickie Johnson | 4,230 |
 | 50 | Yolanda Griffith | 4,224 |
 | 51 | Kelsey Plum | 4,207 |
-| 52 | **Allisha Gray** 🔴 +8 | 4,165 |
+| 52 | **Allisha Gray** 🔴 +10 | 4,167 |
 | 53 | Rebekkah Brunson | 4,133 |
 | 54 | Jonquel Jones | 4,096 |
 | 54 | Kahleah Copper | 4,096 |
@@ -326,7 +326,7 @@ _Last updated: 2026-05-10 01:10 UTC_
 | 99 | Tanisha Wright | 1,190 |
 | 101 | Chelsea Gray | 1,189 |
 | 101 | Vicky Bullett | 1,189 |
-| 103 | **Kayla McBride** 🔴 +3 | 1,185 |
+| 103 | **Kayla McBride** 🔴 +2 | 1,184 |
 | 104 | Nykesha Sales | 1,148 |
 | 105 | Shannon Johnson | 1,143 |
 | 106 | Kahleah Copper | 1,140 |
@@ -365,7 +365,7 @@ _Last updated: 2026-05-10 01:10 UTC_
 | 139 | Jennifer Gillom | 964 |
 | 140 | Dominique Canty | 961 |
 | 141 | Armintie Herrington | 960 |
-| 142 | **Skylar Diggins** 🔴 +1 | 956 |
+| 142 | **Skylar Diggins** 🔴 +2 | 957 |
 | 143 | Janell Burse | 944 |
 | 144 | Merlakia Jones | 927 |
 | 145 | Nicky Anosike | 922 |
@@ -1279,7 +1279,7 @@ _Last updated: 2026-05-10 01:10 UTC_
 | 28 | Betty Lennox | 800 |
 | 29 | Jasmine Thomas | 796 |
 | 30 | Chamique Holdsclaw | 789 |
-| 31 | **Natasha Howard** 🔴 +2 | 786 |
+| 31 | **Natasha Howard** 🔴 +3 | 787 |
 | 32 | Crystal Langhorne | 782 |
 | 32 | Nneka Ogwumike | 782 |
 | 34 | Jewell Loyd | 781 |
