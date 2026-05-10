@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-10T17:27:00+00:00",
+    "text": "Stefanie Dolson passed Wendy Palmer for #88 all-time in points (career 3,136) \u2014 up from #89 entering today \u2014 (40.4 - 1st \u2014 SEA @ CON)",
+    "kind": "rank_pass",
+    "player": "Stefanie Dolson",
+    "stat": "points",
+    "rank": 88,
+    "passed_players": [
+      "Wendy Palmer"
+    ],
+    "new_total": 3136
+  },
+  {
     "ts": "2026-05-10T17:24:00+00:00",
     "text": "Olivia Nelson-Ododa passed Alyssa Thomas, Ebony Hoffman, and Essence Carson for #100 all-time in blocks (career 122) \u2014 up from #103 entering today \u2014 (1:51 - 1st \u2014 SEA @ CON)",
     "kind": "rank_pass",
