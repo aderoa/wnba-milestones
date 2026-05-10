@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-10 23:30 UTC_
+_Last updated: 2026-05-10 23:31 UTC_
 
 ## Contents
 
@@ -39,7 +39,7 @@ _Last updated: 2026-05-10 23:30 UTC_
 | 18 | Brittney Griner | 5,983 |
 | 19 | Becky Hammon | 5,816 |
 | 20 | Angel McCoughtry | 5,797 |
-| 21 | **A'ja Wilson** 🔴 +11 | 5,730 |
+| 21 | **A'ja Wilson** 🔴 +13 | 5,732 |
 | 22 | DeLisha Milton-Jones | 5,571 |
 | 23 | Katie Douglas | 5,545 |
 | 24 | Lindsay Whalen | 5,511 |
@@ -352,7 +352,7 @@ _Last updated: 2026-05-10 23:30 UTC_
 | 126 | Cathrine Kraayeveld | 1,013 |
 | 127 | Kelly Miller | 1,011 |
 | 127 | Noelle Quinn | 1,011 |
-| 129 | **Jackie Young** 🔴 +1 | 1,003 |
+| 129 | **Jackie Young** 🔴 +2 | 1,004 |
 | 130 | Tiffany Jackson | 1,002 |
 | 131 | Tianna Hawkins | 1,000 |
 | 132 | Damiris Dantas | 995 |
@@ -470,8 +470,8 @@ _Last updated: 2026-05-10 23:30 UTC_
 | 39 | Penny Taylor | 1,049 |
 | 40 | Dominique Canty | 1,042 |
 | 41 | Sheryl Swoopes | 1,037 |
-| 42 | **Jackie Young** 🔴 +4 | 1,033 |
-| 42 | Tina Charles | 1,033 |
+| 42 | **Jackie Young** 🔴 +5 | 1,034 |
+| 43 | Tina Charles | 1,033 |
 | 44 | Nikki Teasley | 982 |
 | 45 | Tamecka Dixon | 960 |
 | 46 | Kara Lawson | 946 |
@@ -896,7 +896,7 @@ _Last updated: 2026-05-10 23:30 UTC_
 | 54 | Tiffany Hayes | 378 |
 | 56 | Chamique Holdsclaw | 376 |
 | 57 | Mwadi Mabika | 370 |
-| 58 | **Ariel Atkins** 🔴 +2 | 367 |
+| 58 | **Ariel Atkins** 🔴 +3 | 368 |
 | 59 | Lauren Jackson | 360 |
 | 59 | Tan White | 360 |
 | 61 | Jordin Canada | 359 |
@@ -1318,8 +1318,8 @@ _Last updated: 2026-05-10 23:30 UTC_
 | 66 | Kayla McBride | 622 |
 | 67 | Odyssey Sims | 616 |
 | 68 | Rebekkah Brunson | 615 |
-| 69 | **Kelsey Plum** 🔴 +2 | 613 |
-| 69 | Seimone Augustus | 613 |
+| 69 | **Kelsey Plum** 🔴 +3 | 614 |
+| 70 | Seimone Augustus | 613 |
 | 71 | Jonquel Jones | 611 |
 | 72 | Tiffany Hayes | 605 |
 | 73 | Teresa Weatherspoon | 601 |
@@ -1376,8 +1376,8 @@ _Last updated: 2026-05-10 23:30 UTC_
 | 123 | Elena Baranova | 444 |
 | 123 | Jantel Lavender | 444 |
 | 126 | Ann Wauters | 440 |
-| 127 | **Ariel Atkins** 🔴 +2 | 439 |
-| 127 | Tiffany Mitchell | 439 |
+| 126 | **Ariel Atkins** 🔴 +3 | 440 |
+| 128 | Tiffany Mitchell | 439 |
 | 129 | Kedra Holland-Corn | 438 |
 | 130 | Alysha Clark | 437 |
 | 130 | Betnijah Laney-Hamilton | 437 |
@@ -1385,7 +1385,7 @@ _Last updated: 2026-05-10 23:30 UTC_
 | 133 | Jennifer Gillom | 434 |
 | 133 | Nicole Ohlde | 434 |
 | 135 | Murriel Page | 432 |
-| 136 | **Jackie Young** 🔴 +1 | 425 |
+| 136 | **Jackie Young** 🔴 +2 | 426 |
 | 137 | Shameka Christon | 424 |
 | 138 | Cynthia Cooper | 422 |
 | 138 | Napheesa Collier | 422 |

@@ -2,6 +2,12 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-10 23:31 UTC
+
+- **Jackie Young** passed **Tina Charles** for **#42** all-time in assists (career 1,034) — up from #43 entering today — _6:22 - 3rd — LV @ LA_
+- **Kelsey Plum** passed **Seimone Augustus** for **#69** all-time in turnovers (career 614) — up from #70 entering today — _6:22 - 3rd — LV @ LA_
+- **Ariel Atkins** passed **Tiffany Mitchell** for **#127** all-time in turnovers (career 440) — up from #130 entering today — _6:22 - 3rd — LV @ LA_
+
 ## 2026-05-10 23:30 UTC
 
 - **Jackie Young** passed **Allison Feaster**, **Erin Perperoglou**, **Napheesa Collier**, and **Sophie Cunningham** for **#165** all-time in fouls (career 505) — up from #169 entering today — _7:38 - 3rd — LV @ LA_
