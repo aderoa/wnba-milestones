@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-10 01:07 UTC_
+_Last updated: 2026-05-10 01:08 UTC_
 
 ## Contents
 
@@ -616,9 +616,9 @@ _Last updated: 2026-05-10 01:07 UTC_
 | 185 | Alanna Smith | 357 |
 | 186 | Kayla Thornton | 355 |
 | 186 | Merlakia Jones | 355 |
-| 188 | **Bridget Carleton** 🔴 | 352 |
-| 188 | Charlotte Smith | 352 |
-| 188 | Ruthie Bolton | 352 |
+| 188 | **Bridget Carleton** 🔴 +1 | 353 |
+| 189 | Charlotte Smith | 352 |
+| 189 | Ruthie Bolton | 352 |
 | 191 | Jantel Lavender | 350 |
 | 192 | Sandy Brondello | 349 |
 | 193 | Ebony Hoffman | 347 |

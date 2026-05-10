@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-05-10T01:08:00+00:00",
+    "text": "Bridget Carleton passed Charlotte Smith and Ruthie Bolton for #189 all-time in assists (career 353) \u2014 (6:52 - 1st \u2014 CHI @ POR)",
+    "kind": "rank_pass",
+    "player": "Bridget Carleton",
+    "stat": "assists",
+    "rank": 189,
+    "passed_players": [
+      "Charlotte Smith",
+      "Ruthie Bolton"
+    ],
+    "new_total": 353
+  },
+  {
     "ts": "2026-05-10T00:53:00+00:00",
     "text": "Nia Coffey passed Bria Hartley for #197 all-time in fouls (career 449) \u2014 up from #198 entering today \u2014 (29.8 - 2nd \u2014 ATL @ MIN)",
     "kind": "rank_pass",
