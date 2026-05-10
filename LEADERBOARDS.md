@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-10 17:21 UTC_
+_Last updated: 2026-05-10 17:22 UTC_
 
 ## Contents
 
@@ -664,7 +664,7 @@ _Last updated: 2026-05-10 17:21 UTC_
 | 28 | Elena Baranova | 320 |
 | 29 | Kiah Stokes | 319 |
 | 30 | Candice Dupree | 316 |
-| 31 | **Stefanie Dolson** 🔴 +1 | 307 |
+| 31 | **Stefanie Dolson** 🔴 | 306 |
 | 32 | Vicky Bullett | 288 |
 | 33 | Rebekkah Brunson | 281 |
 | 34 | Liz Cambage | 264 |
@@ -736,7 +736,7 @@ _Last updated: 2026-05-10 17:21 UTC_
 | 100 | Alyssa Thomas | 121 |
 | 100 | Ebony Hoffman | 121 |
 | 100 | Essence Carson | 121 |
-| 100 | Olivia Nelson-Ododa | 121 |
+| 100 | **Olivia Nelson-Ododa** 🔴 | 121 |
 | 104 | Chelsea Gray | 119 |
 | 105 | Krystal Thomas | 118 |
 | 106 | Andrea Stinson | 117 |
