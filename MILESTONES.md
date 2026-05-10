@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-10 21:27 UTC
+
+- **Shakira Austin** passed **Jennifer Gillom** and **Jia Perkins** for **#119** all-time in blocks (career 104) — up from #121 entering today — _3:43 - OT — NY @ WSH_
+
 ## 2026-05-10 21:26 UTC
 
 - **Shakira Austin** passed **Katie Mattera** for **#196** all-time in rebounds (career 709) — up from #200 entering today — _4:26 - OT — NY @ WSH_
