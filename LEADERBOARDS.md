@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-10 19:44 UTC_
+_Last updated: 2026-05-10 19:45 UTC_
 
 ## Contents
 
@@ -1193,9 +1193,9 @@ _Last updated: 2026-05-10 19:44 UTC_
 | 144 | Tiffany Mitchell | 149 |
 | 147 | Diamond DeShields | 147 |
 | 148 | Wendy Palmer | 146 |
-| 149 | Helen Darling | 144 |
-| 149 | **Marine Johannès** 🔴 +3 | 144 |
-| 149 | Matee Ajavon | 144 |
+| 149 | **Marine Johannès** 🔴 +4 | 145 |
+| 150 | Helen Darling | 144 |
+| 150 | Matee Ajavon | 144 |
 | 152 | Shenise Johnson | 143 |
 | 153 | Katie Lou Samuelson | 142 |
 | 154 | Jordan Hooper | 141 |
@@ -1336,7 +1336,7 @@ _Last updated: 2026-05-10 19:44 UTC_
 | 84 | Sancho Lyttle | 563 |
 | 85 | Brittney Sykes | 558 |
 | 86 | Tan White | 557 |
-| 87 | **Breanna Stewart** 🔴 +1 | 550 |
+| 87 | **Breanna Stewart** 🔴 +2 | 551 |
 | 88 | Kelsey Mitchell | 549 |
 | 88 | Lauren Jackson | 549 |
 | 90 | Matee Ajavon | 544 |
@@ -1556,8 +1556,8 @@ _Last updated: 2026-05-10 19:44 UTC_
 | 99 | Cheyenne Parker-Tyus | 660 |
 | 100 | Kelsey Plum | 658 |
 | 101 | Tari Phillips | 648 |
+| 102 | **Breanna Stewart** 🔴 +3 | 646 |
 | 102 | Marie Ferdinand-Harris | 646 |
-| 103 | **Breanna Stewart** 🔴 +2 | 645 |
 | 104 | Jewell Loyd | 644 |
 | 105 | Kayla Thornton | 640 |
 | 106 | Charlotte Smith | 638 |

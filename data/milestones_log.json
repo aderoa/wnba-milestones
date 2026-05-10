@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-05-10T19:45:00+00:00",
+    "text": "Marine Johann\u00e8s passed Helen Darling and Matee Ajavon for #149 all-time in three-pointers (career 145) \u2014 up from #154 entering today \u2014 (3:27 - 2nd \u2014 NY @ WSH)",
+    "kind": "rank_pass",
+    "player": "Marine Johann\u00e8s",
+    "stat": "three-pointers",
+    "rank": 149,
+    "passed_players": [
+      "Helen Darling",
+      "Matee Ajavon"
+    ],
+    "new_total": 145
+  },
+  {
     "ts": "2026-05-10T19:44:00+00:00",
     "text": "Breanna Stewart passed Tina Charles for #14 all-time in blocks (career 429) \u2014 (4:09 - 2nd \u2014 NY @ WSH)",
     "kind": "rank_pass",
