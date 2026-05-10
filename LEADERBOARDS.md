@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-10 00:52 UTC_
+_Last updated: 2026-05-10 00:53 UTC_
 
 ## Contents
 
@@ -1651,8 +1651,8 @@ _Last updated: 2026-05-10 00:52 UTC_
 | 194 | Natalie Achonwa | 459 |
 | 195 | Kara Lawson | 457 |
 | 196 | Alexis Hornbuckle | 450 |
-| 197 | Bria Hartley | 448 |
-| 197 | **Nia Coffey** 🔴 | 448 |
+| 197 | **Nia Coffey** 🔴 +1 | 449 |
+| 198 | Bria Hartley | 448 |
 | 199 | Alanna Smith | 447 |
 | 200 | Diamond DeShields | 445 |
 | 200 | Sugar Rodgers | 445 |

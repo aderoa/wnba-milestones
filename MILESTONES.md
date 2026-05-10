@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-10 00:53 UTC
+
+- **Nia Coffey** passed **Bria Hartley** for **#197** all-time in fouls (career 449) — up from #198 entering today — _29.8 - 2nd — ATL @ MIN_
+
 ## 2026-05-10 00:47 UTC
 
 - **Kayla McBride** reached **5,400** career points (now 5,401) — _1:25 - 2nd — ATL @ MIN_

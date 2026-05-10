@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-10T00:53:00+00:00",
+    "text": "Nia Coffey passed Bria Hartley for #197 all-time in fouls (career 449) \u2014 up from #198 entering today \u2014 (29.8 - 2nd \u2014 ATL @ MIN)",
+    "kind": "rank_pass",
+    "player": "Nia Coffey",
+    "stat": "fouls",
+    "rank": 197,
+    "passed_players": [
+      "Bria Hartley"
+    ],
+    "new_total": 449
+  },
+  {
     "ts": "2026-05-10T00:47:00+00:00",
     "text": "Kayla McBride reached 5,400 career points (now 5,401) \u2014 (1:25 - 2nd \u2014 ATL @ MIN)",
     "kind": "round",
