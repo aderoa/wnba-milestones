@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-10 01:20 UTC_
+_Last updated: 2026-05-10 01:21 UTC_
 
 ## Contents
 
@@ -380,8 +380,8 @@ _Last updated: 2026-05-10 01:20 UTC_
 | 154 | Erica Wheeler | 852 |
 | 155 | Leilani Mitchell | 845 |
 | 156 | Alanna Smith | 837 |
-| 157 | **Angel Reese** 🔴 +10 | 833 |
-| 157 | Essence Carson | 833 |
+| 157 | **Angel Reese** 🔴 +11 | 834 |
+| 158 | Essence Carson | 833 |
 | 159 | Kristi Toliver | 829 |
 | 160 | Marie Ferdinand-Harris | 828 |
 | 161 | Jessica Shepard | 822 |
@@ -1357,9 +1357,9 @@ _Last updated: 2026-05-10 01:20 UTC_
 | 106 | Jia Perkins | 513 |
 | 107 | Arike Ogunbowale | 506 |
 | 108 | Tamera Young | 501 |
+| 109 | **Jordin Canada** 🔴 +4 | 493 |
 | 109 | Nikki Teasley | 493 |
 | 109 | Tari Phillips | 493 |
-| 111 | **Jordin Canada** 🔴 +3 | 492 |
 | 112 | Janel McCarville | 491 |
 | 113 | Marina Mabrey | 487 |
 | 114 | Erika de Souza | 483 |
