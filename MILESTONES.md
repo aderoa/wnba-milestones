@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-10 00:42 UTC
+
+- **Jordin Canada** passed **Renee Montgomery** for **#31** all-time in assists (career 1,141) — up from #32 entering today — _3:54 - 2nd — ATL @ MIN_
+
 ## 2026-05-10 00:32 UTC
 
 - **Kayla McBride** passed **Kara Lawson** for **#46** all-time in assists (career 947) — up from #47 entering today — _7:36 - 2nd — ATL @ MIN_
