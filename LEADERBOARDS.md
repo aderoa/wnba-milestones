@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-10 23:53 UTC_
+_Last updated: 2026-05-10 23:54 UTC_
 
 ## Contents
 
@@ -68,8 +68,8 @@ _Last updated: 2026-05-10 23:53 UTC_
 | 47 | Plenette Pierson | 4,258 |
 | 48 | Monique Currie | 4,253 |
 | 49 | Vickie Johnson | 4,230 |
-| 50 | Yolanda Griffith | 4,224 |
-| 51 | **Kelsey Plum** 🔴 +15 | 4,222 |
+| 50 | **Kelsey Plum** 🔴 +18 | 4,225 |
+| 51 | Yolanda Griffith | 4,224 |
 | 52 | Allisha Gray | 4,157 |
 | 53 | Rebekkah Brunson | 4,133 |
 | 54 | Jonquel Jones | 4,109 |
@@ -434,7 +434,7 @@ _Last updated: 2026-05-10 23:53 UTC_
 | 3 | Ticha Penicheiro | 2,588 |
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
-| 6 | **Chelsea Gray** 🔴 +3 | 1,873 |
+| 6 | **Chelsea Gray** 🔴 +4 | 1,874 |
 | 7 | Alyssa Thomas | 1,820 |
 | 8 | Skylar Diggins | 1,768 |
 | 9 | Natasha Cloud | 1,733 |
@@ -461,7 +461,7 @@ _Last updated: 2026-05-10 23:53 UTC_
 | 30 | DeWanna Bonner | 1,176 |
 | 31 | Renee Montgomery | 1,140 |
 | 32 | Jordin Canada | 1,139 |
-| 33 | **Jewell Loyd** 🔴 +1 | 1,134 |
+| 33 | **Jewell Loyd** 🔴 +2 | 1,135 |
 | 34 | Swin Cash | 1,131 |
 | 35 | Lindsey Harding | 1,090 |
 | 36 | Katie Douglas | 1,069 |
@@ -1057,7 +1057,7 @@ _Last updated: 2026-05-10 23:53 UTC_
 | 10 | DeWanna Bonner | 663 |
 | 11 | Kristi Toliver | 651 |
 | 12 | Tamika Catchings | 605 |
-| 13 | **Kelsey Plum** 🔴 +1 | 589 |
+| 13 | **Kelsey Plum** 🔴 +2 | 590 |
 | 14 | Kara Lawson | 583 |
 | 15 | Nicole Powell | 579 |
 | 16 | Arike Ogunbowale | 545 |

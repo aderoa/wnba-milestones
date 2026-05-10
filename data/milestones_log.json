@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-10T23:54:00+00:00",
+    "text": "Kelsey Plum passed Yolanda Griffith for #50 all-time in points (career 4,225) \u2014 up from #51 entering today \u2014 (8:45 - 4th \u2014 LV @ LA)",
+    "kind": "rank_pass",
+    "player": "Kelsey Plum",
+    "stat": "points",
+    "rank": 50,
+    "passed_players": [
+      "Yolanda Griffith"
+    ],
+    "new_total": 4225
+  },
+  {
     "ts": "2026-05-10T23:43:00+00:00",
     "text": "Kelsey Plum passed Cheyenne Parker-Tyus for #99 all-time in fouls (career 661) \u2014 up from #100 entering today \u2014 (1:21 - 3rd \u2014 LV @ LA)",
     "kind": "rank_pass",
