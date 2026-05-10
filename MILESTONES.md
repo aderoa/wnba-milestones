@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-10 02:14 UTC
+
+- **Allisha Gray** passed **Jessica Davenport** and **Nia Coffey** for **#78** all-time in blocks (career 152) — _5.5 - 4th — ATL @ MIN_
+
 ## 2026-05-10 02:12 UTC
 
 - **Allisha Gray** passed **Tamika Whitmore** for **#76** all-time in rebounds (career 1,356) — up from #78 entering today — _11.3 - 4th — ATL @ MIN_
