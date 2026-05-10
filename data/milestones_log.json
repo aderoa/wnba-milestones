@@ -1,5 +1,14 @@
 [
   {
+    "ts": "2026-05-10T21:45:00+00:00",
+    "text": "Sonia Citron reached 700 career points (now 700) \u2014 (End of OT \u2014 NY @ WSH)",
+    "kind": "round",
+    "player": "Sonia Citron",
+    "stat": "points",
+    "value": 700,
+    "new_total": 700
+  },
+  {
     "ts": "2026-05-10T21:31:00+00:00",
     "text": "Marine Johann\u00e8s passed Wendy Palmer for #148 all-time in three-pointers (career 147) \u2014 up from #154 entering today \u2014 (1:58 - OT \u2014 NY @ WSH)",
     "kind": "rank_pass",

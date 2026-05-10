@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-10 21:45 UTC
+
+- **Sonia Citron** reached **700** career points (now 700) — _End of OT — NY @ WSH_
+
 ## 2026-05-10 21:31 UTC
 
 - **Marine Johannès** passed **Wendy Palmer** for **#148** all-time in three-pointers (career 147) — up from #154 entering today — _1:58 - OT — NY @ WSH_
