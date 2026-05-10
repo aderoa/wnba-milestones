@@ -1,5 +1,14 @@
 [
   {
+    "ts": "2026-05-10T19:24:00+00:00",
+    "text": "Julie Vanloo reached 100 career three-pointers (now 100) \u2014 (5.8 - 1st \u2014 NY @ WSH)",
+    "kind": "round",
+    "player": "Julie Vanloo",
+    "stat": "three-pointers",
+    "value": 100,
+    "new_total": 100
+  },
+  {
     "ts": "2026-05-10T19:23:00+00:00",
     "text": "Kiki Iriafen reached 600 career points (now 600) \u2014 (35.2 - 1st \u2014 NY @ WSH)",
     "kind": "round",

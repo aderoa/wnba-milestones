@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-10 19:24 UTC
+
+- **Julie Vanloo** reached **100** career three-pointers (now 100) — _5.8 - 1st — NY @ WSH_
+
 ## 2026-05-10 19:23 UTC
 
 - **Kiki Iriafen** reached **600** career points (now 600) — _35.2 - 1st — NY @ WSH_
