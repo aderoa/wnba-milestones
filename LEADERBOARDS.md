@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-10 01:24 UTC_
+_Last updated: 2026-05-10 01:25 UTC_
 
 ## Contents
 
@@ -1534,8 +1534,8 @@ _Last updated: 2026-05-10 01:24 UTC_
 | 77 | Cheryl Ford | 713 |
 | 78 | Jia Perkins | 711 |
 | 79 | Helen Darling | 709 |
+| 80 | **Allisha Gray** 🔴 +2 | 708 |
 | 80 | **Elizabeth Williams** 🔴 | 708 |
-| 81 | **Allisha Gray** 🔴 +1 | 707 |
 | 82 | Matee Ajavon | 701 |
 | 82 | Nicole Powell | 701 |
 | 84 | Tan White | 698 |
