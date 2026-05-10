@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-10 01:45 UTC
+
+- **Jordin Canada** passed **Marissa Coleman** for **#152** all-time in points (career 2,142) — up from #154 entering today — _7:11 - 4th — ATL @ MIN_
+
 ## 2026-05-10 01:41 UTC
 
 - **Naz Hillmon** passed **Odyssey Sims** for **#176** all-time in rebounds (career 777) — up from #178 entering today — _9:00 - 4th — ATL @ MIN_

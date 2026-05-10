@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-10T01:45:00+00:00",
+    "text": "Jordin Canada passed Marissa Coleman for #152 all-time in points (career 2,142) \u2014 up from #154 entering today \u2014 (7:11 - 4th \u2014 ATL @ MIN)",
+    "kind": "rank_pass",
+    "player": "Jordin Canada",
+    "stat": "points",
+    "rank": 152,
+    "passed_players": [
+      "Marissa Coleman"
+    ],
+    "new_total": 2142
+  },
+  {
     "ts": "2026-05-10T01:41:00+00:00",
     "text": "Naz Hillmon passed Odyssey Sims for #176 all-time in rebounds (career 777) \u2014 up from #178 entering today \u2014 (9:00 - 4th \u2014 ATL @ MIN)",
     "kind": "rank_pass",
