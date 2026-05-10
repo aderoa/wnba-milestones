@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-10 01:49 UTC
+
+- **Luisa Geiselsoder** reached **200** career points (now 200) — _11.0 - 2nd — CHI @ POR_
+
 ## 2026-05-10 01:48 UTC
 
 - **Nia Coffey** passed **Alexis Hornbuckle** for **#196** all-time in fouls (career 451) — up from #198 entering today — _5:35 - 4th — ATL @ MIN_
