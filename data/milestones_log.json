@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-10T02:36:00+00:00",
+    "text": "Skylar Diggins passed Dominique Canty for #140 all-time in rebounds (career 962) \u2014 up from #142 entering today \u2014 (7:07 - 4th \u2014 CHI @ POR)",
+    "kind": "rank_pass",
+    "player": "Skylar Diggins",
+    "stat": "rebounds",
+    "rank": 140,
+    "passed_players": [
+      "Dominique Canty"
+    ],
+    "new_total": 962
+  },
+  {
     "ts": "2026-05-10T02:31:00+00:00",
     "text": "Skylar Diggins passed Armintie Herrington for #141 all-time in rebounds (career 961) \u2014 up from #142 entering today \u2014 (8:51 - 4th \u2014 CHI @ POR)",
     "kind": "rank_pass",

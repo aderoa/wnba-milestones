@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-10 02:35 UTC_
+_Last updated: 2026-05-10 02:36 UTC_
 
 ## Contents
 
@@ -363,8 +363,8 @@ _Last updated: 2026-05-10 02:35 UTC_
 | 137 | Shavonte Zellous | 978 |
 | 138 | Kara Lawson | 976 |
 | 139 | Jennifer Gillom | 964 |
-| 140 | Dominique Canty | 961 |
-| 140 | **Skylar Diggins** 🔴 +6 | 961 |
+| 140 | **Skylar Diggins** 🔴 +7 | 962 |
+| 141 | Dominique Canty | 961 |
 | 142 | Armintie Herrington | 960 |
 | 143 | Janell Burse | 944 |
 | 144 | Merlakia Jones | 927 |
