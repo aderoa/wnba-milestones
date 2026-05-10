@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-10 01:15 UTC_
+_Last updated: 2026-05-10 01:16 UTC_
 
 ## Contents
 
@@ -560,7 +560,7 @@ _Last updated: 2026-05-10 01:15 UTC_
 | 128 | Tiffany Mitchell | 488 |
 | 130 | Rebekkah Brunson | 486 |
 | 131 | Veronica Burton | 485 |
-| 132 | **Rhyne Howard** 🔴 +2 | 483 |
+| 132 | **Rhyne Howard** 🔴 +3 | 484 |
 | 133 | Ukari Figgs | 470 |
 | 134 | Janeth Arcain | 469 |
 | 135 | Kahleah Copper | 465 |
