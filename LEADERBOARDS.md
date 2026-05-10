@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-10 00:21 UTC_
+_Last updated: 2026-05-10 00:22 UTC_
 
 ## Contents
 
@@ -251,7 +251,7 @@ _Last updated: 2026-05-10 00:21 UTC_
 | 25 | Dearica Hamby | 2,317 |
 | 26 | Erika de Souza | 2,220 |
 | 27 | Diana Taurasi | 2,201 |
-| 28 | **Natasha Howard** 🔴 | 2,174 |
+| 28 | **Natasha Howard** 🔴 +2 | 2,176 |
 | 29 | Margo Dydek | 2,138 |
 | 30 | Chamique Holdsclaw | 2,123 |
 | 31 | Chasity Melvin | 2,097 |
@@ -765,7 +765,7 @@ _Last updated: 2026-05-10 00:21 UTC_
 | 126 | Nicole Powell | 100 |
 | 130 | Mwadi Mabika | 98 |
 | 130 | Natalie Achonwa | 98 |
-| 132 | **Rhyne Howard** 🔴 | 97 |
+| 130 | **Rhyne Howard** 🔴 +1 | 98 |
 | 133 | Aneika Morello | 96 |
 | 133 | Tiffani Johnson | 96 |
 | 135 | Imani McGee-Stafford | 95 |
