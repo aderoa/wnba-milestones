@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-05-10T19:19:00+00:00",
+    "text": "Breanna Stewart passed Kelsey Mitchell and Lauren Jackson for #88 all-time in turnovers (career 550) \u2014 (2:38 - 1st \u2014 NY @ WSH)",
+    "kind": "rank_pass",
+    "player": "Breanna Stewart",
+    "stat": "turnovers",
+    "rank": 88,
+    "passed_players": [
+      "Kelsey Mitchell",
+      "Lauren Jackson"
+    ],
+    "new_total": 550
+  },
+  {
     "ts": "2026-05-10T19:12:00+00:00",
     "text": "Shakira Austin passed Allie Quigley for #198 all-time in rebounds (career 703) \u2014 up from #200 entering today \u2014 (4:22 - 1st \u2014 NY @ WSH)",
     "kind": "rank_pass",
