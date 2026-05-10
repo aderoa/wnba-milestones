@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-10 00:10 UTC_
+_Last updated: 2026-05-10 00:11 UTC_
 
 ## Contents
 
@@ -149,7 +149,7 @@ _Last updated: 2026-05-10 00:10 UTC_
 | 128 | Anna DeForge | 2,413 |
 | 129 | DeMya Walker | 2,379 |
 | 130 | Alex Bentley | 2,350 |
-| 131 | **Rhyne Howard** 🔴 | 2,329 |
+| 131 | **Rhyne Howard** 🔴 +3 | 2,332 |
 | 132 | Merlakia Jones | 2,308 |
 | 133 | Kia Vaughn | 2,288 |
 | 134 | Allison Feaster | 2,258 |
@@ -301,7 +301,7 @@ _Last updated: 2026-05-10 00:10 UTC_
 | 75 | Sheri Sam | 1,356 |
 | 76 | Tamika Whitmore | 1,355 |
 | 77 | Emma Meesseman | 1,350 |
-| 78 | **Allisha Gray** 🔴 | 1,347 |
+| 78 | **Allisha Gray** 🔴 +1 | 1,348 |
 | 79 | Monique Billings | 1,345 |
 | 80 | Elena Baranova | 1,335 |
 | 81 | Brionna Jones | 1,333 |
@@ -504,7 +504,7 @@ _Last updated: 2026-05-10 00:10 UTC_
 | 73 | Sheri Sam | 745 |
 | 74 | Monique Currie | 740 |
 | 75 | Marina Mabrey | 738 |
-| 76 | **Allisha Gray** 🔴 | 730 |
+| 76 | **Allisha Gray** 🔴 +1 | 731 |
 | 77 | Elaine Powell | 728 |
 | 78 | Chamique Holdsclaw | 698 |
 | 79 | Shavonte Zellous | 693 |
@@ -1092,7 +1092,7 @@ _Last updated: 2026-05-10 00:10 UTC_
 | 45 | Betty Lennox | 372 |
 | 45 | Rachel Banham | 372 |
 | 48 | Epiphanny Prince | 368 |
-| 49 | **Rhyne Howard** 🔴 | 366 |
+| 49 | **Rhyne Howard** 🔴 +1 | 367 |
 | 50 | Jonquel Jones | 357 |
 | 51 | Kia Nurse | 356 |
 | 52 | Nykesha Sales | 352 |
