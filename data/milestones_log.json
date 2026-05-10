@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-10T01:33:00+00:00",
+    "text": "Rachel Banham passed Bridget Pettis for #199 all-time in turnovers (career 285) \u2014 up from #200 entering today \u2014 (7:09 - 2nd \u2014 CHI @ POR)",
+    "kind": "rank_pass",
+    "player": "Rachel Banham",
+    "stat": "turnovers",
+    "rank": 199,
+    "passed_players": [
+      "Bridget Pettis"
+    ],
+    "new_total": 285
+  },
+  {
     "ts": "2026-05-10T01:27:00+00:00",
     "text": "Kamilla Cardoso reached 600 career rebounds (now 600) \u2014 (8:38 - 2nd \u2014 CHI @ POR)",
     "kind": "round",

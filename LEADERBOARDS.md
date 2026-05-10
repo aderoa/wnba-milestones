@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-10 01:32 UTC_
+_Last updated: 2026-05-10 01:33 UTC_
 
 ## Contents
 
@@ -170,8 +170,8 @@ _Last updated: 2026-05-10 01:32 UTC_
 | 149 | Layshia Clarendon | 2,168 |
 | 150 | Satou Sabally | 2,161 |
 | 151 | Murriel Page | 2,146 |
+| 152 | **Jordin Canada** 🔴 +8 | 2,140 |
 | 152 | Marissa Coleman | 2,140 |
-| 153 | **Jordin Canada** 🔴 +6 | 2,138 |
 | 154 | Tari Phillips | 2,134 |
 | 155 | Cheryl Ford | 2,116 |
 | 156 | Elena Baranova | 2,110 |
@@ -1448,8 +1448,7 @@ _Last updated: 2026-05-10 01:32 UTC_
 | 195 | Kristen Rasmussen | 288 |
 | 198 | Azurá Stevens | 286 |
 | 199 | Damiris Dantas | 285 |
-| 200 | Bridget Pettis | 284 |
-| 200 | **Rachel Banham** 🔴 | 284 |
+| 199 | **Rachel Banham** 🔴 +1 | 285 |
 
 ## Personal fouls
 
