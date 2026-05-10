@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-10 02:09 UTC_
+_Last updated: 2026-05-10 02:10 UTC_
 
 ## Contents
 
@@ -380,7 +380,7 @@ _Last updated: 2026-05-10 02:09 UTC_
 | 154 | Erica Wheeler | 852 |
 | 155 | Leilani Mitchell | 845 |
 | 156 | Alanna Smith | 837 |
-| 157 | **Angel Reese** 🔴 +13 | 836 |
+| 156 | **Angel Reese** 🔴 +14 | 837 |
 | 158 | Essence Carson | 833 |
 | 159 | Kristi Toliver | 829 |
 | 160 | Marie Ferdinand-Harris | 828 |
@@ -993,8 +993,8 @@ _Last updated: 2026-05-10 02:09 UTC_
 | 151 | Candice Wiggins | 215 |
 | 151 | Elena Baranova | 215 |
 | 154 | Cheyenne Parker-Tyus | 213 |
+| 154 | **Rhyne Howard** 🔴 +3 | 213 |
 | 154 | Shekinna Stricklen | 213 |
-| 156 | **Rhyne Howard** 🔴 +2 | 212 |
 | 157 | Nikki Teasley | 211 |
 | 158 | Iziane Castro Marques | 209 |
 | 158 | Tiffany Mitchell | 209 |
@@ -1314,7 +1314,7 @@ _Last updated: 2026-05-10 02:09 UTC_
 | 63 | Dawn Staley | 643 |
 | 64 | Ruth Riley | 637 |
 | 65 | Svetlana Abrosimova | 631 |
-| 66 | **Kayla McBride** 🔴 | 622 |
+| 66 | **Kayla McBride** 🔴 +1 | 623 |
 | 67 | Odyssey Sims | 620 |
 | 68 | Rebekkah Brunson | 615 |
 | 69 | Seimone Augustus | 613 |
