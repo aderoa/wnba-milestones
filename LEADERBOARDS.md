@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-10 19:39 UTC_
+_Last updated: 2026-05-10 19:40 UTC_
 
 ## Contents
 
@@ -1320,7 +1320,7 @@ _Last updated: 2026-05-10 19:39 UTC_
 | 68 | Rebekkah Brunson | 615 |
 | 69 | Seimone Augustus | 613 |
 | 70 | Kelsey Plum | 611 |
-| 71 | **Jonquel Jones** 🔴 | 608 |
+| 71 | **Jonquel Jones** 🔴 +1 | 609 |
 | 72 | Tiffany Hayes | 605 |
 | 73 | Teresa Weatherspoon | 601 |
 | 74 | Lindsey Harding | 600 |
