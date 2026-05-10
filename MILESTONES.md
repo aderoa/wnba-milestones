@@ -2,6 +2,11 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-10 01:36 UTC
+
+- **Rickea Jackson** reached **1,100** career points (now 1,102) — _5:14 - 2nd — CHI @ POR_
+- **Rickea Jackson** passed **Belinda Snell** for **#189** all-time in three-pointers (career 109) — up from #190 entering today — _5:14 - 2nd — CHI @ POR_
+
 ## 2026-05-10 01:34 UTC
 
 - **Maya Caldwell** reached **100** career turnovers (now 100) — _16.5 - 3rd — ATL @ MIN_

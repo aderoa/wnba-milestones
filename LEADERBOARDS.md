@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-10 01:35 UTC_
+_Last updated: 2026-05-10 01:36 UTC_
 
 ## Contents
 
@@ -555,7 +555,7 @@ _Last updated: 2026-05-10 01:35 UTC_
 | 124 | Anna DeForge | 503 |
 | 124 | Coco Miller | 503 |
 | 126 | Myisha Hines-Allen | 499 |
-| 127 | **Rachel Banham** 🔴 +1 | 496 |
+| 127 | **Rachel Banham** 🔴 +2 | 497 |
 | 128 | Crystal Robinson | 488 |
 | 128 | Tiffany Mitchell | 488 |
 | 130 | Rebekkah Brunson | 486 |
@@ -1231,9 +1231,9 @@ _Last updated: 2026-05-10 01:35 UTC_
 | 185 | Shoni Schimmel | 111 |
 | 186 | Emma Meesseman | 109 |
 | 186 | Lexie Hull | 109 |
+| 186 | **Rickea Jackson** 🔴 +1 | 109 |
 | 186 | Scholanda Dorrell | 109 |
-| 189 | Belinda Snell | 108 |
-| 189 | **Rickea Jackson** 🔴 | 108 |
+| 190 | Belinda Snell | 108 |
 | 191 | Kennedy Burke | 107 |
 | 191 | Layshia Clarendon | 107 |
 | 193 | Leonie Fiebich | 106 |
