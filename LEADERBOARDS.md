@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-10 17:09 UTC_
+_Last updated: 2026-05-10 17:10 UTC_
 
 ## Contents
 
@@ -1155,7 +1155,7 @@ _Last updated: 2026-05-10 17:09 UTC_
 | 109 | Betnijah Laney-Hamilton | 197 |
 | 109 | Temeka Johnson | 197 |
 | 109 | Tina Charles | 197 |
-| 112 | Lexie Brown | 194 |
+| 112 | **Lexie Brown** 🔴 | 194 |
 | 113 | Lindsay Whalen | 193 |
 | 114 | Victoria Vivians | 192 |
 | 115 | Danielle Adams | 188 |
