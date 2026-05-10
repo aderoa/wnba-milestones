@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-10 00:38 UTC_
+_Last updated: 2026-05-10 00:39 UTC_
 
 ## Contents
 
@@ -326,7 +326,7 @@ _Last updated: 2026-05-10 00:38 UTC_
 | 99 | Tanisha Wright | 1,190 |
 | 101 | Chelsea Gray | 1,189 |
 | 101 | Vicky Bullett | 1,189 |
-| 103 | **Kayla McBride** 🔴 +1 | 1,183 |
+| 103 | **Kayla McBride** 🔴 +2 | 1,184 |
 | 104 | Nykesha Sales | 1,148 |
 | 105 | Shannon Johnson | 1,143 |
 | 106 | Kahleah Copper | 1,140 |
