@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-10 22:12 UTC_
+_Last updated: 2026-05-10 22:13 UTC_
 
 ## Contents
 
@@ -341,8 +341,8 @@ _Last updated: 2026-05-10 22:12 UTC_
 | 115 | Ann Wauters | 1,105 |
 | 116 | Natasha Cloud | 1,080 |
 | 117 | Svetlana Abrosimova | 1,078 |
-| 118 | Le'coe Willingham | 1,054 |
-| 118 | **NaLyssa Smith** 🔴 | 1,054 |
+| 118 | **NaLyssa Smith** 🔴 +1 | 1,055 |
+| 119 | Le'coe Willingham | 1,054 |
 | 120 | Aliyah Boston | 1,051 |
 | 121 | Isabelle Harrison | 1,049 |
 | 122 | Nicole Ohlde | 1,040 |
@@ -1308,7 +1308,7 @@ _Last updated: 2026-05-10 22:12 UTC_
 | 56 | Erica Wheeler | 665 |
 | 56 | Natasha Cloud | 665 |
 | 58 | Vickie Johnson | 660 |
-| 59 | **Dearica Hamby** 🔴 | 657 |
+| 59 | **Dearica Hamby** 🔴 +1 | 658 |
 | 60 | Yolanda Griffith | 653 |
 | 61 | Sheri Sam | 650 |
 | 62 | Courtney Williams | 643 |
@@ -1514,7 +1514,7 @@ _Last updated: 2026-05-10 22:12 UTC_
 | 56 | Wendy Palmer | 831 |
 | 58 | Shannon Johnson | 813 |
 | 58 | Tully Bevilaqua | 813 |
-| 60 | **Dearica Hamby** 🔴 | 798 |
+| 60 | **Dearica Hamby** 🔴 +1 | 799 |
 | 61 | Nykesha Sales | 796 |
 | 62 | Ebony Hoffman | 791 |
 | 63 | Skylar Diggins | 790 |
