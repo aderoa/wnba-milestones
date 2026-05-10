@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-10 22:14 UTC_
+_Last updated: 2026-05-10 22:15 UTC_
 
 ## Contents
 
@@ -210,7 +210,7 @@ _Last updated: 2026-05-10 22:14 UTC_
 | 189 | Armintie Herrington | 1,696 |
 | 190 | Nikki Teasley | 1,690 |
 | 191 | Shenise Johnson | 1,688 |
-| 192 | **NaLyssa Smith** 🔴 | 1,676 |
+| 192 | **NaLyssa Smith** 🔴 +2 | 1,678 |
 | 193 | Sophie Cunningham | 1,666 |
 | 194 | Gabby Williams | 1,597 |
 | 195 | Janell Burse | 1,580 |
@@ -248,7 +248,7 @@ _Last updated: 2026-05-10 22:14 UTC_
 | 22 | Lauren Jackson | 2,444 |
 | 23 | Yolanda Griffith | 2,440 |
 | 24 | Tangela Smith | 2,328 |
-| 25 | **Dearica Hamby** 🔴 +2 | 2,319 |
+| 25 | **Dearica Hamby** 🔴 +3 | 2,320 |
 | 26 | Erika de Souza | 2,220 |
 | 27 | Diana Taurasi | 2,201 |
 | 28 | Natasha Howard | 2,174 |
@@ -324,8 +324,8 @@ _Last updated: 2026-05-10 22:14 UTC_
 | 98 | DeMya Walker | 1,199 |
 | 99 | Latasha Byears | 1,190 |
 | 99 | Tanisha Wright | 1,190 |
+| 101 | **Chelsea Gray** 🔴 +1 | 1,189 |
 | 101 | Vicky Bullett | 1,189 |
-| 102 | **Chelsea Gray** 🔴 | 1,188 |
 | 103 | Kayla McBride | 1,182 |
 | 104 | Nykesha Sales | 1,148 |
 | 105 | Shannon Johnson | 1,143 |
@@ -341,7 +341,7 @@ _Last updated: 2026-05-10 22:14 UTC_
 | 115 | Ann Wauters | 1,105 |
 | 116 | Natasha Cloud | 1,080 |
 | 117 | Svetlana Abrosimova | 1,078 |
-| 118 | **NaLyssa Smith** 🔴 +1 | 1,055 |
+| 118 | **NaLyssa Smith** 🔴 +3 | 1,057 |
 | 119 | Le'coe Willingham | 1,054 |
 | 120 | Aliyah Boston | 1,051 |
 | 121 | Isabelle Harrison | 1,049 |
@@ -606,7 +606,7 @@ _Last updated: 2026-05-10 22:14 UTC_
 | 175 | Aliyah Boston | 378 |
 | 176 | Jessica Breland | 377 |
 | 177 | Shenise Johnson | 376 |
-| 178 | **Stephanie Talbot** 🔴 | 372 |
+| 178 | **Stephanie Talbot** 🔴 +1 | 373 |
 | 179 | Suzie McConnell Serio | 370 |
 | 180 | Damiris Dantas | 367 |
 | 181 | Roneeka Hodges | 362 |
@@ -829,10 +829,10 @@ _Last updated: 2026-05-10 22:14 UTC_
 | 192 | Shannon Johnson | 67 |
 | 194 | Awak Kuier | 65 |
 | 194 | Crystal Robinson | 65 |
+| 194 | **Jackie Young** 🔴 +1 | 65 |
 | 194 | Queen Egbo | 65 |
 | 194 | Riquna Williams | 65 |
 | 194 | Sabrina Ionescu | 65 |
-| 199 | **Jackie Young** 🔴 | 64 |
 | 200 | Eva Nemcova | 63 |
 
 ## Steals
@@ -896,7 +896,7 @@ _Last updated: 2026-05-10 22:14 UTC_
 | 54 | Tiffany Hayes | 378 |
 | 56 | Chamique Holdsclaw | 376 |
 | 57 | Mwadi Mabika | 370 |
-| 58 | **Ariel Atkins** 🔴 | 365 |
+| 58 | **Ariel Atkins** 🔴 +1 | 366 |
 | 59 | Lauren Jackson | 360 |
 | 59 | Tan White | 360 |
 | 61 | Jordin Canada | 359 |
@@ -1272,8 +1272,8 @@ _Last updated: 2026-05-10 22:14 UTC_
 | 20 | Shannon Johnson | 934 |
 | 21 | Taj McWilliams-Franklin | 898 |
 | 22 | Skylar Diggins | 879 |
-| 23 | Candice Dupree | 869 |
-| 23 | **Chelsea Gray** 🔴 | 869 |
+| 23 | **Chelsea Gray** 🔴 +1 | 870 |
+| 24 | Candice Dupree | 869 |
 | 25 | Alana Beard | 854 |
 | 26 | DeWanna Bonner | 826 |
 | 27 | Katie Douglas | 824 |
