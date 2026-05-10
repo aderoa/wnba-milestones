@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-10 19:02 UTC
+
+- **Kennedy Burke** passed **Belinda Snell** and **Rickea Jackson** for **#189** all-time in three-pointers (career 109) — up from #191 entering today — _3:30 - 4th — SEA @ CON_
+
 ## 2026-05-10 18:34 UTC
 
 - **Aneesah Morrow** reached **300** career rebounds (now 300) — _2:30 - 3rd — SEA @ CON_
