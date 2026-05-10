@@ -2,6 +2,11 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-10 00:30 UTC
+
+- **Jordin Canada** passed **Tari Phillips** for **#153** all-time in points (career 2,137) — up from #154 entering today — _7:52 - 2nd — ATL @ MIN_
+- **Jordin Canada** passed **Shoni Schimmel** for **#185** all-time in three-pointers (career 112) — _7:52 - 2nd — ATL @ MIN_
+
 ## 2026-05-10 00:18 UTC
 
 - **Angel Reese** passed **Marie Ferdinand-Harris** for **#159** all-time in rebounds (career 829) — up from #160 entering today — _2:13 - 1st — ATL @ MIN_

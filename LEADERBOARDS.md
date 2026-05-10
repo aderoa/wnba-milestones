@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-10 00:29 UTC_
+_Last updated: 2026-05-10 00:30 UTC_
 
 ## Contents
 
@@ -70,7 +70,7 @@ _Last updated: 2026-05-10 00:29 UTC_
 | 49 | Vickie Johnson | 4,230 |
 | 50 | Yolanda Griffith | 4,224 |
 | 51 | Kelsey Plum | 4,207 |
-| 52 | **Allisha Gray** 🔴 +1 | 4,158 |
+| 52 | **Allisha Gray** 🔴 +4 | 4,161 |
 | 53 | Rebekkah Brunson | 4,133 |
 | 54 | Jonquel Jones | 4,096 |
 | 54 | Kahleah Copper | 4,096 |
@@ -171,8 +171,8 @@ _Last updated: 2026-05-10 00:29 UTC_
 | 150 | Satou Sabally | 2,161 |
 | 151 | Murriel Page | 2,146 |
 | 152 | Marissa Coleman | 2,140 |
-| 153 | **Jordin Canada** 🔴 +2 | 2,134 |
-| 153 | Tari Phillips | 2,134 |
+| 153 | **Jordin Canada** 🔴 +5 | 2,137 |
+| 154 | Tari Phillips | 2,134 |
 | 155 | Cheryl Ford | 2,116 |
 | 156 | Elena Baranova | 2,110 |
 | 157 | Aerial Powers | 2,068 |
@@ -560,7 +560,7 @@ _Last updated: 2026-05-10 00:29 UTC_
 | 128 | Tiffany Mitchell | 488 |
 | 130 | Rebekkah Brunson | 486 |
 | 131 | Veronica Burton | 485 |
-| 132 | **Rhyne Howard** 🔴 | 481 |
+| 132 | **Rhyne Howard** 🔴 +1 | 482 |
 | 133 | Ukari Figgs | 470 |
 | 134 | Janeth Arcain | 469 |
 | 135 | Kahleah Copper | 465 |
@@ -1075,7 +1075,7 @@ _Last updated: 2026-05-10 00:29 UTC_
 | 29 | Marina Mabrey | 439 |
 | 30 | Lauren Jackson | 436 |
 | 31 | Shameka Christon | 434 |
-| 32 | **Allisha Gray** 🔴 | 426 |
+| 32 | **Allisha Gray** 🔴 +1 | 427 |
 | 33 | Crystal Robinson | 425 |
 | 33 | Skylar Diggins | 425 |
 | 35 | Mwadi Mabika | 415 |
@@ -1227,8 +1227,8 @@ _Last updated: 2026-05-10 00:29 UTC_
 | 179 | Stephanie White | 115 |
 | 182 | Gordana Grubin | 114 |
 | 182 | Sandy Brondello | 114 |
-| 184 | **Jordin Canada** 🔴 | 111 |
-| 184 | Shoni Schimmel | 111 |
+| 184 | **Jordin Canada** 🔴 +1 | 112 |
+| 185 | Shoni Schimmel | 111 |
 | 186 | Emma Meesseman | 109 |
 | 186 | Lexie Hull | 109 |
 | 186 | Scholanda Dorrell | 109 |

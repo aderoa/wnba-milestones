@@ -1,5 +1,29 @@
 [
   {
+    "ts": "2026-05-10T00:30:00+00:00",
+    "text": "Jordin Canada passed Tari Phillips for #153 all-time in points (career 2,137) \u2014 up from #154 entering today \u2014 (7:52 - 2nd \u2014 ATL @ MIN)",
+    "kind": "rank_pass",
+    "player": "Jordin Canada",
+    "stat": "points",
+    "rank": 153,
+    "passed_players": [
+      "Tari Phillips"
+    ],
+    "new_total": 2137
+  },
+  {
+    "ts": "2026-05-10T00:30:00+00:00",
+    "text": "Jordin Canada passed Shoni Schimmel for #185 all-time in three-pointers (career 112) \u2014 (7:52 - 2nd \u2014 ATL @ MIN)",
+    "kind": "rank_pass",
+    "player": "Jordin Canada",
+    "stat": "three-pointers",
+    "rank": 185,
+    "passed_players": [
+      "Shoni Schimmel"
+    ],
+    "new_total": 112
+  },
+  {
     "ts": "2026-05-10T00:18:00+00:00",
     "text": "Angel Reese passed Marie Ferdinand-Harris for #159 all-time in rebounds (career 829) \u2014 up from #160 entering today \u2014 (2:13 - 1st \u2014 ATL @ MIN)",
     "kind": "rank_pass",
