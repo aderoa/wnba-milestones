@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-10 19:09 UTC_
+_Last updated: 2026-05-10 19:10 UTC_
 
 ## Contents
 
@@ -422,8 +422,8 @@ _Last updated: 2026-05-10 19:09 UTC_
 | 196 | Katie Mattera | 708 |
 | 197 | Rushia Brown | 706 |
 | 198 | Allie Quigley | 702 |
-| 199 | Epiphanny Prince | 701 |
-| 199 | **Shakira Austin** 🔴 +1 | 701 |
+| 198 | **Shakira Austin** 🔴 +2 | 702 |
+| 200 | Epiphanny Prince | 701 |
 
 ## Assists
 
@@ -1484,8 +1484,8 @@ _Last updated: 2026-05-10 19:09 UTC_
 | 27 | Yolanda Griffith | 991 |
 | 28 | Lauren Jackson | 982 |
 | 29 | Nakia Sanford | 979 |
-| 30 | Asjha Jones | 971 |
-| 30 | **Brittney Griner** 🔴 +4 | 971 |
+| 30 | **Brittney Griner** 🔴 +5 | 972 |
+| 31 | Asjha Jones | 971 |
 | 32 | Margo Dydek | 950 |
 | 33 | Sancho Lyttle | 947 |
 | 34 | Mwadi Mabika | 941 |

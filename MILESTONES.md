@@ -2,6 +2,11 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-10 19:10 UTC
+
+- **Brittney Griner** passed **Asjha Jones** for **#30** all-time in fouls (career 972) — up from #31 entering today — _1:07 - 4th — SEA @ CON_
+- **Shakira Austin** passed **Epiphanny Prince** for **#199** all-time in rebounds (career 702) — up from #200 entering today — _5:49 - 1st — NY @ WSH_
+
 ## 2026-05-10 19:08 UTC
 
 - **Marine Johannès** passed **Jordan Hooper** for **#153** all-time in three-pointers (career 142) — up from #154 entering today — _6:26 - 1st — NY @ WSH_
