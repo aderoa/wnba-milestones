@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-10T02:45:00+00:00",
+    "text": "Skylar Diggins passed Allisha Gray for #32 all-time in three-pointers (career 427) \u2014 up from #34 entering today \u2014 (4:46 - 4th \u2014 CHI @ POR)",
+    "kind": "rank_pass",
+    "player": "Skylar Diggins",
+    "stat": "three-pointers",
+    "rank": 32,
+    "passed_players": [
+      "Allisha Gray"
+    ],
+    "new_total": 427
+  },
+  {
     "ts": "2026-05-10T02:44:00+00:00",
     "text": "Bridget Carleton passed Alanna Smith, Kayla Thornton, and Merlakia Jones for #185 all-time in assists (career 356) \u2014 up from #188 entering today \u2014 (4:59 - 4th \u2014 CHI @ POR)",
     "kind": "rank_pass",

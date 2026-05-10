@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-10 02:44 UTC_
+_Last updated: 2026-05-10 02:45 UTC_
 
 ## Contents
 
@@ -43,7 +43,7 @@ _Last updated: 2026-05-10 02:44 UTC_
 | 22 | DeLisha Milton-Jones | 5,571 |
 | 23 | Katie Douglas | 5,545 |
 | 24 | Lindsay Whalen | 5,511 |
-| 25 | **Skylar Diggins** 🔴 +15 | 5,504 |
+| 25 | **Skylar Diggins** 🔴 +18 | 5,507 |
 | 26 | Kayla McBride | 5,407 |
 | 27 | Swin Cash | 5,119 |
 | 28 | Tangela Smith | 5,035 |
@@ -363,7 +363,7 @@ _Last updated: 2026-05-10 02:44 UTC_
 | 137 | Shavonte Zellous | 978 |
 | 138 | Kara Lawson | 976 |
 | 139 | Jennifer Gillom | 964 |
-| 140 | **Skylar Diggins** 🔴 +7 | 962 |
+| 140 | **Skylar Diggins** 🔴 +8 | 963 |
 | 141 | Dominique Canty | 961 |
 | 142 | Armintie Herrington | 960 |
 | 143 | Janell Burse | 944 |
@@ -567,8 +567,8 @@ _Last updated: 2026-05-10 02:44 UTC_
 | 136 | Erin Phillips | 462 |
 | 137 | Sylvia Fowles | 461 |
 | 138 | Caitlin Clark | 459 |
+| 139 | **Elizabeth Williams** 🔴 +2 | 454 |
 | 139 | Sydney Colson | 454 |
-| 140 | **Elizabeth Williams** 🔴 +1 | 453 |
 | 141 | Satou Sabally | 451 |
 | 141 | Yolanda Griffith | 451 |
 | 143 | Elena Delle Donne | 450 |
@@ -1076,7 +1076,7 @@ _Last updated: 2026-05-10 02:44 UTC_
 | 30 | Lauren Jackson | 436 |
 | 31 | Shameka Christon | 434 |
 | 32 | Allisha Gray | 427 |
-| 33 | **Skylar Diggins** 🔴 +1 | 426 |
+| 32 | **Skylar Diggins** 🔴 +2 | 427 |
 | 34 | Crystal Robinson | 425 |
 | 35 | Mwadi Mabika | 415 |
 | 36 | Chelsea Gray | 410 |
