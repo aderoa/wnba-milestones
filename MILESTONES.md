@@ -2,6 +2,11 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-10 22:43 UTC
+
+- **Nneka Ogwumike** passed **Maya Moore** for **#57** all-time in assists (career 897) — up from #58 entering today — _7:15 - 2nd — LV @ LA_
+- **Dearica Hamby** passed **Jonquel Jones** for **#54** all-time in points (career 4,097) — up from #55 entering today — _7:15 - 2nd — LV @ LA_
+
 ## 2026-05-10 22:40 UTC
 
 - **Jewell Loyd** passed **Brionna Jones** for **#81** all-time in rebounds (career 1,334) — up from #82 entering today — _8:33 - 2nd — LV @ LA_
