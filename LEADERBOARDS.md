@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-10 01:14 UTC_
+_Last updated: 2026-05-10 01:15 UTC_
 
 ## Contents
 
@@ -70,7 +70,7 @@ _Last updated: 2026-05-10 01:14 UTC_
 | 49 | Vickie Johnson | 4,230 |
 | 50 | Yolanda Griffith | 4,224 |
 | 51 | Kelsey Plum | 4,207 |
-| 52 | **Allisha Gray** 🔴 +10 | 4,167 |
+| 52 | **Allisha Gray** 🔴 +12 | 4,169 |
 | 53 | Rebekkah Brunson | 4,133 |
 | 54 | Jonquel Jones | 4,096 |
 | 54 | Kahleah Copper | 4,096 |
@@ -193,7 +193,7 @@ _Last updated: 2026-05-10 01:14 UTC_
 | 172 | Ebony Hoffman | 1,909 |
 | 173 | Candice Wiggins | 1,901 |
 | 174 | Myisha Hines-Allen | 1,879 |
-| 175 | Isabelle Harrison | 1,832 |
+| 175 | **Isabelle Harrison** 🔴 | 1,832 |
 | 176 | Tianna Hawkins | 1,825 |
 | 177 | Noelle Quinn | 1,824 |
 | 178 | Aliyah Boston | 1,821 |
@@ -201,7 +201,7 @@ _Last updated: 2026-05-10 01:14 UTC_
 | 180 | Danielle Adams | 1,820 |
 | 181 | Charde Houston | 1,797 |
 | 182 | Kamila Vodichkova | 1,767 |
-| 182 | Rachel Banham | 1,767 |
+| 182 | **Rachel Banham** 🔴 | 1,767 |
 | 184 | Tully Bevilaqua | 1,763 |
 | 185 | Sandy Brondello | 1,759 |
 | 186 | Sugar Rodgers | 1,733 |
@@ -344,7 +344,7 @@ _Last updated: 2026-05-10 01:14 UTC_
 | 118 | NaLyssa Smith | 1,060 |
 | 119 | Aliyah Boston | 1,055 |
 | 120 | Le'coe Willingham | 1,054 |
-| 121 | Isabelle Harrison | 1,049 |
+| 121 | **Isabelle Harrison** 🔴 | 1,049 |
 | 122 | Nicole Ohlde | 1,040 |
 | 123 | Tamecka Dixon | 1,035 |
 | 124 | Kamila Vodichkova | 1,031 |
@@ -555,7 +555,7 @@ _Last updated: 2026-05-10 01:14 UTC_
 | 124 | Anna DeForge | 503 |
 | 124 | Coco Miller | 503 |
 | 126 | Myisha Hines-Allen | 499 |
-| 127 | Rachel Banham | 495 |
+| 127 | **Rachel Banham** 🔴 | 495 |
 | 128 | Crystal Robinson | 488 |
 | 128 | Tiffany Mitchell | 488 |
 | 130 | Rebekkah Brunson | 486 |
@@ -769,7 +769,7 @@ _Last updated: 2026-05-10 01:14 UTC_
 | 133 | Aneika Morello | 96 |
 | 133 | Tiffani Johnson | 96 |
 | 135 | Imani McGee-Stafford | 95 |
-| 135 | Isabelle Harrison | 95 |
+| 135 | **Isabelle Harrison** 🔴 | 95 |
 | 137 | Sandrine Gruda | 94 |
 | 138 | **Emily Engstler** 🔴 +1 | 93 |
 | 138 | **Kamilla Cardoso** 🔴 | 93 |
@@ -1027,7 +1027,7 @@ _Last updated: 2026-05-10 01:14 UTC_
 | 185 | Nakia Sanford | 181 |
 | 185 | Rebecca Allen | 181 |
 | 188 | Diamond DeShields | 180 |
-| 188 | Isabelle Harrison | 180 |
+| 188 | **Isabelle Harrison** 🔴 | 180 |
 | 190 | Bridget Pettis | 177 |
 | 191 | Brittany Boyd-Jones | 176 |
 | 191 | Chiney Ogwumike | 176 |
@@ -1090,7 +1090,7 @@ _Last updated: 2026-05-10 01:14 UTC_
 | 44 | Jasmine Thomas | 376 |
 | 45 | Allison Feaster | 372 |
 | 45 | Betty Lennox | 372 |
-| 45 | Rachel Banham | 372 |
+| 45 | **Rachel Banham** 🔴 | 372 |
 | 48 | **Rhyne Howard** 🔴 +3 | 369 |
 | 49 | Epiphanny Prince | 368 |
 | 50 | Jonquel Jones | 357 |
@@ -1438,7 +1438,7 @@ _Last updated: 2026-05-10 01:14 UTC_
 | 187 | Erin Perperoglou | 305 |
 | 187 | Jennifer Lacy | 305 |
 | 189 | Tianna Hawkins | 303 |
-| 190 | Isabelle Harrison | 300 |
+| 190 | **Isabelle Harrison** 🔴 | 300 |
 | 190 | Monique Billings | 300 |
 | 192 | Crystal Robinson | 299 |
 | 193 | Michele Timms | 297 |
@@ -1449,7 +1449,7 @@ _Last updated: 2026-05-10 01:14 UTC_
 | 198 | Azurá Stevens | 286 |
 | 199 | Damiris Dantas | 285 |
 | 200 | Bridget Pettis | 284 |
-| 200 | Rachel Banham | 284 |
+| 200 | **Rachel Banham** 🔴 | 284 |
 
 ## Personal fouls
 
@@ -1636,13 +1636,13 @@ _Last updated: 2026-05-10 01:14 UTC_
 | 179 | Charde Houston | 487 |
 | 180 | Lindsey Harding | 486 |
 | 181 | Cathrine Kraayeveld | 484 |
-| 181 | Isabelle Harrison | 484 |
+| 181 | **Isabelle Harrison** 🔴 | 484 |
 | 183 | Liz Cambage | 483 |
 | 183 | Rhonda Mapp | 483 |
 | 185 | Sami Whitcomb | 480 |
 | 186 | Seimone Augustus | 477 |
 | 187 | Allie Quigley | 475 |
-| 188 | Rachel Banham | 472 |
+| 188 | **Rachel Banham** 🔴 | 472 |
 | 189 | Kia Nurse | 465 |
 | 190 | Azurá Stevens | 463 |
 | 190 | Christi Thomas | 463 |
