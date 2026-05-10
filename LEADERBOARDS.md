@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-10 22:28 UTC_
+_Last updated: 2026-05-10 22:29 UTC_
 
 ## Contents
 
@@ -95,7 +95,7 @@ _Last updated: 2026-05-10 22:28 UTC_
 | 74 | Sancho Lyttle | 3,478 |
 | 75 | Ivory Latta | 3,447 |
 | 76 | Brittney Sykes | 3,439 |
-| 77 | **Jackie Young** 🔴 +2 | 3,414 |
+| 77 | **Jackie Young** 🔴 +3 | 3,415 |
 | 78 | Nicole Powell | 3,407 |
 | 79 | Epiphanny Prince | 3,381 |
 | 80 | **Ariel Atkins** 🔴 +2 | 3,363 |
@@ -1318,8 +1318,8 @@ _Last updated: 2026-05-10 22:28 UTC_
 | 66 | Kayla McBride | 622 |
 | 67 | Odyssey Sims | 616 |
 | 68 | Rebekkah Brunson | 615 |
+| 69 | **Kelsey Plum** 🔴 +2 | 613 |
 | 69 | Seimone Augustus | 613 |
-| 70 | **Kelsey Plum** 🔴 +1 | 612 |
 | 71 | Jonquel Jones | 611 |
 | 72 | Tiffany Hayes | 605 |
 | 73 | Teresa Weatherspoon | 601 |
@@ -1520,7 +1520,7 @@ _Last updated: 2026-05-10 22:28 UTC_
 | 63 | Skylar Diggins | 790 |
 | 64 | Sue Bird | 775 |
 | 65 | Sheri Sam | 766 |
-| 66 | **Erica Wheeler** 🔴 | 758 |
+| 66 | **Erica Wheeler** 🔴 +1 | 759 |
 | 67 | Kia Vaughn | 755 |
 | 68 | Vickie Johnson | 752 |
 | 69 | Kara Braxton | 748 |
