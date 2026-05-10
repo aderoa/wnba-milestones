@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-10 19:11 UTC_
+_Last updated: 2026-05-10 19:12 UTC_
 
 ## Contents
 
@@ -421,8 +421,8 @@ _Last updated: 2026-05-10 19:11 UTC_
 | 195 | Olympia Scott | 711 |
 | 196 | Katie Mattera | 708 |
 | 197 | Rushia Brown | 706 |
-| 198 | Allie Quigley | 702 |
-| 198 | **Shakira Austin** 🔴 +2 | 702 |
+| 198 | **Shakira Austin** 🔴 +3 | 703 |
+| 199 | Allie Quigley | 702 |
 | 200 | Epiphanny Prince | 701 |
 
 ## Assists
@@ -528,7 +528,7 @@ _Last updated: 2026-05-10 19:11 UTC_
 | 97 | A'ja Wilson | 613 |
 | 98 | Debbie Black | 612 |
 | 99 | Cynthia Cooper | 602 |
-| 100 | **Jonquel Jones** 🔴 | 600 |
+| 100 | **Jonquel Jones** 🔴 +1 | 601 |
 | 101 | Sancho Lyttle | 592 |
 | 102 | Camille Smith | 590 |
 | 103 | Armintie Herrington | 589 |
@@ -1501,7 +1501,7 @@ _Last updated: 2026-05-10 19:11 UTC_
 | 44 | Candice Dupree | 876 |
 | 45 | Murriel Page | 872 |
 | 46 | Cappie Pondexter | 869 |
-| 47 | **Jonquel Jones** 🔴 | 865 |
+| 47 | **Jonquel Jones** 🔴 +1 | 866 |
 | 48 | Erika de Souza | 858 |
 | 49 | Angel McCoughtry | 857 |
 | 50 | Betty Lennox | 851 |

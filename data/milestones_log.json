@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-10T19:12:00+00:00",
+    "text": "Shakira Austin passed Allie Quigley for #198 all-time in rebounds (career 703) \u2014 up from #200 entering today \u2014 (4:22 - 1st \u2014 NY @ WSH)",
+    "kind": "rank_pass",
+    "player": "Shakira Austin",
+    "stat": "rebounds",
+    "rank": 198,
+    "passed_players": [
+      "Allie Quigley"
+    ],
+    "new_total": 703
+  },
+  {
     "ts": "2026-05-10T19:11:00+00:00",
     "text": "Breanna Stewart passed Deanna Nolan for #48 all-time in assists (career 932) \u2014 up from #49 entering today \u2014 (4:40 - 1st \u2014 NY @ WSH)",
     "kind": "rank_pass",
