@@ -2,6 +2,11 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-10 01:41 UTC
+
+- **Naz Hillmon** passed **Odyssey Sims** for **#176** all-time in rebounds (career 777) — up from #178 entering today — _9:00 - 4th — ATL @ MIN_
+- **Angel Reese** passed **Alanna Smith** for **#156** all-time in rebounds (career 835) — up from #160 entering today — _9:00 - 4th — ATL @ MIN_
+
 ## 2026-05-10 01:40 UTC
 
 - **Skylar Diggins** reached **5,500** career points (now 5,500) — _3:00 - 2nd — CHI @ POR_

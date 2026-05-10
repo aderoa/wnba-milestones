@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-10 01:40 UTC_
+_Last updated: 2026-05-10 01:41 UTC_
 
 ## Contents
 
@@ -43,7 +43,7 @@ _Last updated: 2026-05-10 01:40 UTC_
 | 22 | DeLisha Milton-Jones | 5,571 |
 | 23 | Katie Douglas | 5,545 |
 | 24 | Lindsay Whalen | 5,511 |
-| 25 | **Skylar Diggins** 🔴 +11 | 5,500 |
+| 25 | **Skylar Diggins** 🔴 +12 | 5,501 |
 | 26 | **Kayla McBride** 🔴 +13 | 5,402 |
 | 27 | Swin Cash | 5,119 |
 | 28 | Tangela Smith | 5,035 |
@@ -380,7 +380,7 @@ _Last updated: 2026-05-10 01:40 UTC_
 | 154 | Erica Wheeler | 852 |
 | 155 | Leilani Mitchell | 845 |
 | 156 | Alanna Smith | 837 |
-| 157 | **Angel Reese** 🔴 +11 | 834 |
+| 157 | **Angel Reese** 🔴 +12 | 835 |
 | 158 | Essence Carson | 833 |
 | 159 | Kristi Toliver | 829 |
 | 160 | Marie Ferdinand-Harris | 828 |
@@ -400,7 +400,7 @@ _Last updated: 2026-05-10 01:40 UTC_
 | 174 | Lindsey Harding | 779 |
 | 175 | Odyssey Sims | 778 |
 | 175 | Tiffani Johnson | 778 |
-| 177 | **Naz Hillmon** 🔴 +3 | 776 |
+| 177 | **Naz Hillmon** 🔴 +4 | 777 |
 | 178 | Teresa Weatherspoon | 775 |
 | 179 | Anna DeForge | 769 |
 | 179 | Kelsey Bone | 769 |
