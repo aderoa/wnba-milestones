@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-10 00:07 UTC_
+_Last updated: 2026-05-10 00:08 UTC_
 
 ## Contents
 
@@ -391,7 +391,7 @@ _Last updated: 2026-05-10 00:07 UTC_
 | 165 | Marina Mabrey | 818 |
 | 166 | Carolyn Swords | 814 |
 | 167 | Tierra Ruffin-Pratt | 799 |
-| 168 | **Nia Coffey** 🔴 +2 | 797 |
+| 168 | **Nia Coffey** 🔴 +3 | 798 |
 | 169 | Charlotte Smith | 794 |
 | 170 | Rhonda Mapp | 788 |
 | 171 | Mercedes Russell | 786 |
@@ -1279,7 +1279,7 @@ _Last updated: 2026-05-10 00:07 UTC_
 | 28 | Betty Lennox | 800 |
 | 29 | Jasmine Thomas | 796 |
 | 30 | Chamique Holdsclaw | 789 |
-| 31 | **Natasha Howard** 🔴 | 784 |
+| 31 | **Natasha Howard** 🔴 +1 | 785 |
 | 32 | Crystal Langhorne | 782 |
 | 32 | Nneka Ogwumike | 782 |
 | 34 | Jewell Loyd | 781 |
