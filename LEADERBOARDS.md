@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-10 00:16 UTC_
+_Last updated: 2026-05-10 00:17 UTC_
 
 ## Contents
 
@@ -401,7 +401,7 @@ _Last updated: 2026-05-10 00:16 UTC_
 | 175 | Odyssey Sims | 778 |
 | 175 | Tiffani Johnson | 778 |
 | 177 | Teresa Weatherspoon | 775 |
-| 178 | **Naz Hillmon** 🔴 | 773 |
+| 178 | **Naz Hillmon** 🔴 +1 | 774 |
 | 179 | Anna DeForge | 769 |
 | 179 | Kelsey Bone | 769 |
 | 179 | Tan White | 769 |
@@ -1591,7 +1591,7 @@ _Last updated: 2026-05-10 00:16 UTC_
 | 134 | Ivory Latta | 565 |
 | 135 | Barbara Farris | 563 |
 | 136 | Jessica Breland | 562 |
-| 137 | **Courtney Williams** 🔴 | 553 |
+| 137 | **Courtney Williams** 🔴 +1 | 554 |
 | 138 | Dawn Staley | 551 |
 | 139 | Glory Johnson | 550 |
 | 139 | Tierra Ruffin-Pratt | 550 |
