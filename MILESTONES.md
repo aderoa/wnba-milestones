@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-10 19:33 UTC
+
+- **Jonquel Jones** reached **4,100** career points (now 4,101) — _8:05 - 2nd — NY @ WSH_
+
 ## 2026-05-10 19:24 UTC
 
 - **Julie Vanloo** reached **100** career three-pointers (now 100) — _5.8 - 1st — NY @ WSH_

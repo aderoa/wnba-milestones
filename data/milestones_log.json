@@ -1,5 +1,14 @@
 [
   {
+    "ts": "2026-05-10T19:33:00+00:00",
+    "text": "Jonquel Jones reached 4,100 career points (now 4,101) \u2014 (8:05 - 2nd \u2014 NY @ WSH)",
+    "kind": "round",
+    "player": "Jonquel Jones",
+    "stat": "points",
+    "value": 4100,
+    "new_total": 4101
+  },
+  {
     "ts": "2026-05-10T19:24:00+00:00",
     "text": "Julie Vanloo reached 100 career three-pointers (now 100) \u2014 (5.8 - 1st \u2014 NY @ WSH)",
     "kind": "round",
