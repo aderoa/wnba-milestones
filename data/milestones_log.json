@@ -1,5 +1,29 @@
 [
   {
+    "ts": "2026-05-10T01:18:00+00:00",
+    "text": "Skylar Diggins passed Crystal Robinson for #33 all-time in three-pointers (career 426) \u2014 up from #34 entering today \u2014 (2:14 - 1st \u2014 CHI @ POR)",
+    "kind": "rank_pass",
+    "player": "Skylar Diggins",
+    "stat": "three-pointers",
+    "rank": 33,
+    "passed_players": [
+      "Crystal Robinson"
+    ],
+    "new_total": 426
+  },
+  {
+    "ts": "2026-05-10T01:18:00+00:00",
+    "text": "Isabelle Harrison passed Monique Billings for #191 all-time in turnovers (career 301) \u2014 (2:14 - 1st \u2014 CHI @ POR)",
+    "kind": "rank_pass",
+    "player": "Isabelle Harrison",
+    "stat": "turnovers",
+    "rank": 191,
+    "passed_players": [
+      "Monique Billings"
+    ],
+    "new_total": 301
+  },
+  {
     "ts": "2026-05-10T01:13:00+00:00",
     "text": "Allisha Gray passed Emma Meesseman for #77 all-time in rebounds (career 1,351) \u2014 up from #78 entering today \u2014 (8:31 - 3rd \u2014 ATL @ MIN)",
     "kind": "rank_pass",

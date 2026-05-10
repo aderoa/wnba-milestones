@@ -2,6 +2,11 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-10 01:18 UTC
+
+- **Skylar Diggins** passed **Crystal Robinson** for **#33** all-time in three-pointers (career 426) — up from #34 entering today — _2:14 - 1st — CHI @ POR_
+- **Isabelle Harrison** passed **Monique Billings** for **#191** all-time in turnovers (career 301) — _2:14 - 1st — CHI @ POR_
+
 ## 2026-05-10 01:13 UTC
 
 - **Allisha Gray** passed **Emma Meesseman** for **#77** all-time in rebounds (career 1,351) — up from #78 entering today — _8:31 - 3rd — ATL @ MIN_

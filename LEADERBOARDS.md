@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-10 01:17 UTC_
+_Last updated: 2026-05-10 01:18 UTC_
 
 ## Contents
 
@@ -43,7 +43,7 @@ _Last updated: 2026-05-10 01:17 UTC_
 | 22 | DeLisha Milton-Jones | 5,571 |
 | 23 | Katie Douglas | 5,545 |
 | 24 | Lindsay Whalen | 5,511 |
-| 25 | **Skylar Diggins** 🔴 +4 | 5,493 |
+| 25 | **Skylar Diggins** 🔴 +7 | 5,496 |
 | 26 | **Kayla McBride** 🔴 +13 | 5,402 |
 | 27 | Swin Cash | 5,119 |
 | 28 | Tangela Smith | 5,035 |
@@ -75,7 +75,7 @@ _Last updated: 2026-05-10 01:17 UTC_
 | 54 | Jonquel Jones | 4,096 |
 | 54 | Kahleah Copper | 4,096 |
 | 56 | Dearica Hamby | 4,090 |
-| 57 | **Courtney Williams** 🔴 +10 | 4,071 |
+| 57 | **Courtney Williams** 🔴 +12 | 4,073 |
 | 58 | Asjha Jones | 3,986 |
 | 59 | Deanna Nolan | 3,971 |
 | 60 | Nykesha Sales | 3,931 |
@@ -555,7 +555,7 @@ _Last updated: 2026-05-10 01:17 UTC_
 | 124 | Anna DeForge | 503 |
 | 124 | Coco Miller | 503 |
 | 126 | Myisha Hines-Allen | 499 |
-| 127 | **Rachel Banham** 🔴 | 495 |
+| 127 | **Rachel Banham** 🔴 +1 | 496 |
 | 128 | Crystal Robinson | 488 |
 | 128 | Tiffany Mitchell | 488 |
 | 130 | Rebekkah Brunson | 486 |
@@ -1076,8 +1076,8 @@ _Last updated: 2026-05-10 01:17 UTC_
 | 30 | Lauren Jackson | 436 |
 | 31 | Shameka Christon | 434 |
 | 32 | **Allisha Gray** 🔴 +1 | 427 |
-| 33 | Crystal Robinson | 425 |
-| 33 | **Skylar Diggins** 🔴 | 425 |
+| 33 | **Skylar Diggins** 🔴 +1 | 426 |
+| 34 | Crystal Robinson | 425 |
 | 35 | Mwadi Mabika | 415 |
 | 36 | Chelsea Gray | 410 |
 | 37 | Penny Taylor | 407 |
@@ -1438,8 +1438,8 @@ _Last updated: 2026-05-10 01:17 UTC_
 | 187 | Erin Perperoglou | 305 |
 | 187 | Jennifer Lacy | 305 |
 | 189 | Tianna Hawkins | 303 |
-| 190 | **Isabelle Harrison** 🔴 | 300 |
-| 190 | Monique Billings | 300 |
+| 190 | **Isabelle Harrison** 🔴 +1 | 301 |
+| 191 | Monique Billings | 300 |
 | 192 | Crystal Robinson | 299 |
 | 193 | Michele Timms | 297 |
 | 194 | Caitlin Clark | 294 |
