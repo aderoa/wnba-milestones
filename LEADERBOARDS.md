@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-10 23:35 UTC_
+_Last updated: 2026-05-10 23:36 UTC_
 
 ## Contents
 
@@ -61,7 +61,7 @@ _Last updated: 2026-05-10 23:35 UTC_
 | 40 | Arike Ogunbowale | 4,464 |
 | 41 | Crystal Langhorne | 4,433 |
 | 41 | Jia Perkins | 4,433 |
-| 43 | **Chelsea Gray** 🔴 +5 | 4,414 |
+| 43 | **Chelsea Gray** 🔴 +10 | 4,419 |
 | 44 | Natasha Howard | 4,367 |
 | 45 | Courtney Vandersloot | 4,352 |
 | 46 | Sophia Young-Malcolm | 4,300 |
@@ -248,7 +248,7 @@ _Last updated: 2026-05-10 23:35 UTC_
 | 22 | Lauren Jackson | 2,444 |
 | 23 | Yolanda Griffith | 2,440 |
 | 24 | Tangela Smith | 2,328 |
-| 25 | **Dearica Hamby** 🔴 +4 | 2,321 |
+| 25 | **Dearica Hamby** 🔴 +5 | 2,322 |
 | 26 | Erika de Souza | 2,220 |
 | 27 | Diana Taurasi | 2,201 |
 | 28 | Natasha Howard | 2,174 |
@@ -341,7 +341,7 @@ _Last updated: 2026-05-10 23:35 UTC_
 | 115 | Ann Wauters | 1,105 |
 | 116 | Natasha Cloud | 1,080 |
 | 117 | Svetlana Abrosimova | 1,078 |
-| 118 | **NaLyssa Smith** 🔴 +4 | 1,058 |
+| 118 | **NaLyssa Smith** 🔴 +6 | 1,060 |
 | 119 | Le'coe Willingham | 1,054 |
 | 120 | Aliyah Boston | 1,051 |
 | 121 | Isabelle Harrison | 1,049 |
@@ -461,7 +461,7 @@ _Last updated: 2026-05-10 23:35 UTC_
 | 30 | DeWanna Bonner | 1,176 |
 | 31 | Renee Montgomery | 1,140 |
 | 32 | Jordin Canada | 1,139 |
-| 33 | **Jewell Loyd** 🔴 | 1,133 |
+| 33 | **Jewell Loyd** 🔴 +1 | 1,134 |
 | 34 | Swin Cash | 1,131 |
 | 35 | Lindsey Harding | 1,090 |
 | 36 | Katie Douglas | 1,069 |
@@ -518,7 +518,7 @@ _Last updated: 2026-05-10 23:35 UTC_
 | 87 | Lindsay Allen | 657 |
 | 88 | Betty Lennox | 651 |
 | 88 | Plenette Pierson | 651 |
-| 90 | **Ariel Atkins** 🔴 +2 | 648 |
+| 90 | **Ariel Atkins** 🔴 +3 | 649 |
 | 91 | Alex Bentley | 645 |
 | 92 | Asjha Jones | 637 |
 | 93 | Jennifer Azzi | 636 |
@@ -829,10 +829,10 @@ _Last updated: 2026-05-10 23:35 UTC_
 | 192 | Shannon Johnson | 67 |
 | 194 | Awak Kuier | 65 |
 | 194 | Crystal Robinson | 65 |
+| 194 | **Jackie Young** 🔴 +1 | 65 |
 | 194 | Queen Egbo | 65 |
 | 194 | Riquna Williams | 65 |
 | 194 | Sabrina Ionescu | 65 |
-| 199 | **Jackie Young** 🔴 | 64 |
 | 200 | Eva Nemcova | 63 |
 
 ## Steals
@@ -1080,7 +1080,7 @@ _Last updated: 2026-05-10 23:35 UTC_
 | 33 | Crystal Robinson | 425 |
 | 33 | Skylar Diggins | 425 |
 | 35 | Mwadi Mabika | 415 |
-| 36 | **Chelsea Gray** 🔴 +1 | 411 |
+| 36 | **Chelsea Gray** 🔴 +2 | 412 |
 | 37 | Penny Taylor | 407 |
 | 37 | Riquna Williams | 407 |
 | 39 | Jia Perkins | 396 |
