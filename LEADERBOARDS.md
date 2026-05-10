@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-10 00:33 UTC_
+_Last updated: 2026-05-10 00:34 UTC_
 
 ## Contents
 
@@ -149,7 +149,7 @@ _Last updated: 2026-05-10 00:33 UTC_
 | 128 | Anna DeForge | 2,413 |
 | 129 | DeMya Walker | 2,379 |
 | 130 | Alex Bentley | 2,350 |
-| 131 | **Rhyne Howard** 🔴 +3 | 2,332 |
+| 131 | **Rhyne Howard** 🔴 +6 | 2,335 |
 | 132 | Merlakia Jones | 2,308 |
 | 133 | Kia Vaughn | 2,288 |
 | 134 | Allison Feaster | 2,258 |
@@ -1092,7 +1092,7 @@ _Last updated: 2026-05-10 00:33 UTC_
 | 45 | Betty Lennox | 372 |
 | 45 | Rachel Banham | 372 |
 | 48 | Epiphanny Prince | 368 |
-| 49 | **Rhyne Howard** 🔴 +1 | 367 |
+| 48 | **Rhyne Howard** 🔴 +2 | 368 |
 | 50 | Jonquel Jones | 357 |
 | 51 | Kia Nurse | 356 |
 | 52 | Nykesha Sales | 352 |
