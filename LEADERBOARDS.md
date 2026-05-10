@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-10 22:47 UTC_
+_Last updated: 2026-05-10 22:48 UTC_
 
 ## Contents
 
@@ -322,10 +322,10 @@ _Last updated: 2026-05-10 22:47 UTC_
 | 96 | **Brianna Turner** 🔴 +2 | 1,216 |
 | 97 | Myisha Hines-Allen | 1,208 |
 | 98 | DeMya Walker | 1,199 |
+| 99 | **Chelsea Gray** 🔴 +2 | 1,190 |
 | 99 | Latasha Byears | 1,190 |
 | 99 | Tanisha Wright | 1,190 |
-| 101 | **Chelsea Gray** 🔴 +1 | 1,189 |
-| 101 | Vicky Bullett | 1,189 |
+| 102 | Vicky Bullett | 1,189 |
 | 103 | Kayla McBride | 1,182 |
 | 104 | Nykesha Sales | 1,148 |
 | 105 | Shannon Johnson | 1,143 |
@@ -407,7 +407,7 @@ _Last updated: 2026-05-10 22:47 UTC_
 | 179 | Tan White | 769 |
 | 182 | Tully Bevilaqua | 767 |
 | 183 | Gabby Williams | 764 |
-| 184 | **Ariel Atkins** 🔴 +2 | 760 |
+| 184 | **Ariel Atkins** 🔴 +3 | 761 |
 | 185 | Layshia Clarendon | 756 |
 | 186 | Brooke Wyckoff | 751 |
 | 187 | Coco Miller | 750 |
@@ -1272,7 +1272,7 @@ _Last updated: 2026-05-10 22:47 UTC_
 | 20 | Shannon Johnson | 934 |
 | 21 | Taj McWilliams-Franklin | 898 |
 | 22 | Skylar Diggins | 879 |
-| 23 | **Chelsea Gray** 🔴 +1 | 870 |
+| 23 | **Chelsea Gray** 🔴 +2 | 871 |
 | 24 | Candice Dupree | 869 |
 | 25 | Alana Beard | 854 |
 | 26 | DeWanna Bonner | 826 |
