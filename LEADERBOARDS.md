@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-10 22:46 UTC_
+_Last updated: 2026-05-10 22:47 UTC_
 
 ## Contents
 
@@ -61,7 +61,7 @@ _Last updated: 2026-05-10 22:46 UTC_
 | 40 | Arike Ogunbowale | 4,464 |
 | 41 | Crystal Langhorne | 4,433 |
 | 41 | Jia Perkins | 4,433 |
-| 43 | **Chelsea Gray** 🔴 +3 | 4,412 |
+| 43 | **Chelsea Gray** 🔴 +5 | 4,414 |
 | 44 | Natasha Howard | 4,367 |
 | 45 | Courtney Vandersloot | 4,352 |
 | 46 | Sophia Young-Malcolm | 4,300 |
@@ -98,7 +98,7 @@ _Last updated: 2026-05-10 22:46 UTC_
 | 77 | **Jackie Young** 🔴 +6 | 3,418 |
 | 78 | Nicole Powell | 3,407 |
 | 79 | Epiphanny Prince | 3,381 |
-| 80 | **Ariel Atkins** 🔴 +2 | 3,363 |
+| 80 | **Ariel Atkins** 🔴 +4 | 3,365 |
 | 81 | Michelle Snow | 3,361 |
 | 82 | Tamika Whitmore | 3,359 |
 | 83 | Sheri Sam | 3,353 |
@@ -407,7 +407,7 @@ _Last updated: 2026-05-10 22:46 UTC_
 | 179 | Tan White | 769 |
 | 182 | Tully Bevilaqua | 767 |
 | 183 | Gabby Williams | 764 |
-| 184 | **Ariel Atkins** 🔴 +1 | 759 |
+| 184 | **Ariel Atkins** 🔴 +2 | 760 |
 | 185 | Layshia Clarendon | 756 |
 | 186 | Brooke Wyckoff | 751 |
 | 187 | Coco Miller | 750 |
@@ -606,7 +606,7 @@ _Last updated: 2026-05-10 22:46 UTC_
 | 175 | Aliyah Boston | 378 |
 | 176 | Jessica Breland | 377 |
 | 177 | Shenise Johnson | 376 |
-| 178 | **Stephanie Talbot** 🔴 +2 | 374 |
+| 178 | **Stephanie Talbot** 🔴 +3 | 375 |
 | 179 | Suzie McConnell Serio | 370 |
 | 180 | Damiris Dantas | 367 |
 | 181 | Roneeka Hodges | 362 |
