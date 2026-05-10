@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-10 01:20 UTC
+
+- **Emily Engstler** passed **Kamilla Cardoso** for **#138** all-time in blocks (career 94) — up from #139 entering today — _57.3 - 1st — CHI @ POR_
+
 ## 2026-05-10 01:19 UTC
 
 - **Naz Hillmon** passed **Teresa Weatherspoon** for **#177** all-time in rebounds (career 776) — up from #178 entering today — _6:41 - 3rd — ATL @ MIN_

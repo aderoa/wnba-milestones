@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-10 01:19 UTC_
+_Last updated: 2026-05-10 01:20 UTC_
 
 ## Contents
 
@@ -459,7 +459,7 @@ _Last updated: 2026-05-10 01:19 UTC_
 | 28 | Leilani Mitchell | 1,197 |
 | 29 | Kelsey Plum | 1,193 |
 | 30 | DeWanna Bonner | 1,178 |
-| 31 | **Jordin Canada** 🔴 +2 | 1,141 |
+| 31 | **Jordin Canada** 🔴 +3 | 1,142 |
 | 32 | Renee Montgomery | 1,140 |
 | 33 | Jewell Loyd | 1,135 |
 | 34 | Swin Cash | 1,131 |
@@ -770,9 +770,9 @@ _Last updated: 2026-05-10 01:19 UTC_
 | 133 | Tiffani Johnson | 96 |
 | 135 | Imani McGee-Stafford | 95 |
 | 135 | **Isabelle Harrison** 🔴 | 95 |
+| 137 | **Emily Engstler** 🔴 +2 | 94 |
 | 137 | Sandrine Gruda | 94 |
-| 138 | **Emily Engstler** 🔴 +1 | 93 |
-| 138 | **Kamilla Cardoso** 🔴 | 93 |
+| 139 | **Kamilla Cardoso** 🔴 | 93 |
 | 140 | Jewell Loyd | 92 |
 | 141 | Jasmine Thomas | 91 |
 | 141 | Kayla Alexander | 91 |
