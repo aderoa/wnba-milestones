@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-10 23:29 UTC_
+_Last updated: 2026-05-10 23:30 UTC_
 
 ## Contents
 
@@ -24,7 +24,7 @@ _Last updated: 2026-05-10 23:29 UTC_
 | 3 | DeWanna Bonner | 7,805 |
 | 4 | Tina Thompson | 7,470 |
 | 5 | Tamika Catchings | 7,371 |
-| 6 | **Nneka Ogwumike** 🔴 +15 | 7,320 |
+| 6 | **Nneka Ogwumike** 🔴 +17 | 7,322 |
 | 7 | Candice Dupree | 6,861 |
 | 8 | Sue Bird | 6,802 |
 | 9 | Cappie Pondexter | 6,781 |
@@ -73,7 +73,7 @@ _Last updated: 2026-05-10 23:29 UTC_
 | 52 | Allisha Gray | 4,157 |
 | 53 | Rebekkah Brunson | 4,133 |
 | 54 | Jonquel Jones | 4,109 |
-| 55 | **Dearica Hamby** 🔴 +7 | 4,097 |
+| 55 | **Dearica Hamby** 🔴 +9 | 4,099 |
 | 56 | Kahleah Copper | 4,083 |
 | 57 | Courtney Williams | 4,061 |
 | 58 | Asjha Jones | 3,986 |
@@ -95,7 +95,7 @@ _Last updated: 2026-05-10 23:29 UTC_
 | 74 | Sancho Lyttle | 3,478 |
 | 75 | Ivory Latta | 3,447 |
 | 76 | Brittney Sykes | 3,439 |
-| 77 | **Jackie Young** 🔴 +8 | 3,420 |
+| 77 | **Jackie Young** 🔴 +10 | 3,422 |
 | 78 | Nicole Powell | 3,407 |
 | 79 | Epiphanny Prince | 3,381 |
 | 80 | **Ariel Atkins** 🔴 +6 | 3,367 |
@@ -457,7 +457,7 @@ _Last updated: 2026-05-10 23:29 UTC_
 | 26 | Vickie Johnson | 1,202 |
 | 27 | Odyssey Sims | 1,201 |
 | 28 | Leilani Mitchell | 1,197 |
-| 29 | **Kelsey Plum** 🔴 +1 | 1,194 |
+| 29 | **Kelsey Plum** 🔴 +2 | 1,195 |
 | 30 | DeWanna Bonner | 1,176 |
 | 31 | Renee Montgomery | 1,140 |
 | 32 | Jordin Canada | 1,139 |
@@ -1617,13 +1617,13 @@ _Last updated: 2026-05-10 23:29 UTC_
 | 160 | Kayla McBride | 507 |
 | 160 | Vicky Bullett | 507 |
 | 162 | Merlakia Jones | 506 |
+| 163 | **Jackie Young** 🔴 +2 | 505 |
 | 163 | Rushia Brown | 505 |
 | 163 | Shekinna Stricklen | 505 |
-| 165 | Allison Feaster | 504 |
-| 165 | Erin Perperoglou | 504 |
-| 165 | **Jackie Young** 🔴 +1 | 504 |
-| 165 | Napheesa Collier | 504 |
-| 165 | Sophie Cunningham | 504 |
+| 166 | Allison Feaster | 504 |
+| 166 | Erin Perperoglou | 504 |
+| 166 | Napheesa Collier | 504 |
+| 166 | Sophie Cunningham | 504 |
 | 170 | Iziane Castro Marques | 502 |
 | 170 | Monique Billings | 502 |
 | 172 | Elena Baranova | 501 |

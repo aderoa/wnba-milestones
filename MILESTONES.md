@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-10 23:30 UTC
+
+- **Jackie Young** passed **Allison Feaster**, **Erin Perperoglou**, **Napheesa Collier**, and **Sophie Cunningham** for **#165** all-time in fouls (career 505) — up from #169 entering today — _7:38 - 3rd — LV @ LA_
+
 ## 2026-05-10 23:08 UTC
 
 - **Erica Wheeler** passed **Helen Darling** for **#71** all-time in steals (career 344) — up from #73 entering today — _0.0 - 2nd — LV @ LA_
