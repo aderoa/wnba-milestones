@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-10 22:55 UTC_
+_Last updated: 2026-05-10 22:56 UTC_
 
 ## Contents
 
@@ -417,7 +417,7 @@ _Last updated: 2026-05-10 22:55 UTC_
 | 191 | Sami Whitcomb | 726 |
 | 191 | Shekinna Stricklen | 726 |
 | 193 | Arike Ogunbowale | 722 |
-| 194 | **Kelsey Plum** 🔴 +1 | 716 |
+| 194 | **Kelsey Plum** 🔴 +2 | 717 |
 | 195 | Olympia Scott | 711 |
 | 196 | Shakira Austin | 710 |
 | 197 | Katie Mattera | 708 |
@@ -916,7 +916,7 @@ _Last updated: 2026-05-10 22:55 UTC_
 | 74 | Natasha Cloud | 340 |
 | 76 | Arike Ogunbowale | 339 |
 | 77 | Dawn Staley | 338 |
-| 78 | **A'ja Wilson** 🔴 | 335 |
+| 78 | **A'ja Wilson** 🔴 +1 | 336 |
 | 79 | Marie Ferdinand-Harris | 331 |
 | 80 | Chasity Melvin | 330 |
 | 80 | Leilani Mitchell | 330 |
@@ -1554,7 +1554,7 @@ _Last updated: 2026-05-10 22:55 UTC_
 | 97 | Brittney Sykes | 666 |
 | 98 | Tianna Hawkins | 662 |
 | 99 | Cheyenne Parker-Tyus | 660 |
-| 100 | **Kelsey Plum** 🔴 | 658 |
+| 100 | **Kelsey Plum** 🔴 +1 | 659 |
 | 101 | Breanna Stewart | 648 |
 | 101 | Tari Phillips | 648 |
 | 103 | Marie Ferdinand-Harris | 646 |
