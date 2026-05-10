@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-10 22:59 UTC_
+_Last updated: 2026-05-10 23:00 UTC_
 
 ## Contents
 
@@ -304,7 +304,7 @@ _Last updated: 2026-05-10 22:59 UTC_
 | 78 | Allisha Gray | 1,347 |
 | 79 | Monique Billings | 1,345 |
 | 80 | Elena Baranova | 1,335 |
-| 81 | **Jewell Loyd** 🔴 +3 | 1,334 |
+| 80 | **Jewell Loyd** 🔴 +4 | 1,335 |
 | 82 | Brionna Jones | 1,333 |
 | 83 | Erlana Larkins | 1,329 |
 | 84 | Mwadi Mabika | 1,327 |
@@ -1272,7 +1272,7 @@ _Last updated: 2026-05-10 22:59 UTC_
 | 20 | Shannon Johnson | 934 |
 | 21 | Taj McWilliams-Franklin | 898 |
 | 22 | Skylar Diggins | 879 |
-| 23 | **Chelsea Gray** 🔴 +2 | 871 |
+| 23 | **Chelsea Gray** 🔴 +3 | 872 |
 | 24 | Candice Dupree | 869 |
 | 25 | Alana Beard | 854 |
 | 26 | DeWanna Bonner | 826 |
@@ -1557,8 +1557,8 @@ _Last updated: 2026-05-10 22:59 UTC_
 | 100 | **Kelsey Plum** 🔴 +1 | 659 |
 | 101 | Breanna Stewart | 648 |
 | 101 | Tari Phillips | 648 |
+| 103 | **Jewell Loyd** 🔴 +2 | 646 |
 | 103 | Marie Ferdinand-Harris | 646 |
-| 104 | **Jewell Loyd** 🔴 +1 | 645 |
 | 105 | Kayla Thornton | 640 |
 | 106 | Charlotte Smith | 638 |
 | 107 | Janell Burse | 632 |
