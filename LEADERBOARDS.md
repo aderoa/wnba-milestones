@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-10 22:17 UTC_
+_Last updated: 2026-05-10 22:18 UTC_
 
 ## Contents
 
@@ -39,7 +39,7 @@ _Last updated: 2026-05-10 22:17 UTC_
 | 18 | Brittney Griner | 5,983 |
 | 19 | Becky Hammon | 5,816 |
 | 20 | Angel McCoughtry | 5,797 |
-| 21 | **A'ja Wilson** 🔴 | 5,719 |
+| 21 | **A'ja Wilson** 🔴 +2 | 5,721 |
 | 22 | DeLisha Milton-Jones | 5,571 |
 | 23 | Katie Douglas | 5,545 |
 | 24 | Lindsay Whalen | 5,511 |
@@ -73,7 +73,7 @@ _Last updated: 2026-05-10 22:17 UTC_
 | 52 | Allisha Gray | 4,157 |
 | 53 | Rebekkah Brunson | 4,133 |
 | 54 | Jonquel Jones | 4,109 |
-| 55 | **Dearica Hamby** 🔴 | 4,090 |
+| 55 | **Dearica Hamby** 🔴 +2 | 4,092 |
 | 56 | Kahleah Copper | 4,083 |
 | 57 | Courtney Williams | 4,061 |
 | 58 | Asjha Jones | 3,986 |
@@ -230,7 +230,7 @@ _Last updated: 2026-05-10 22:17 UTC_
 | 4 | Rebekkah Brunson | 3,345 |
 | 5 | Tamika Catchings | 3,313 |
 | 6 | Lisa Leslie | 3,303 |
-| 7 | **Nneka Ogwumike** 🔴 | 3,268 |
+| 7 | **Nneka Ogwumike** 🔴 +1 | 3,269 |
 | 8 | DeWanna Bonner | 3,203 |
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
@@ -352,8 +352,8 @@ _Last updated: 2026-05-10 22:17 UTC_
 | 126 | Cathrine Kraayeveld | 1,013 |
 | 127 | Kelly Miller | 1,011 |
 | 127 | Noelle Quinn | 1,011 |
-| 129 | **Jackie Young** 🔴 | 1,002 |
-| 129 | Tiffany Jackson | 1,002 |
+| 129 | **Jackie Young** 🔴 +1 | 1,003 |
+| 130 | Tiffany Jackson | 1,002 |
 | 131 | Tianna Hawkins | 1,000 |
 | 132 | Damiris Dantas | 995 |
 | 132 | Marissa Coleman | 995 |
@@ -434,7 +434,7 @@ _Last updated: 2026-05-10 22:17 UTC_
 | 3 | Ticha Penicheiro | 2,588 |
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
-| 6 | **Chelsea Gray** 🔴 | 1,870 |
+| 6 | **Chelsea Gray** 🔴 +1 | 1,871 |
 | 7 | Alyssa Thomas | 1,820 |
 | 8 | Skylar Diggins | 1,768 |
 | 9 | Natasha Cloud | 1,733 |
@@ -1573,8 +1573,8 @@ _Last updated: 2026-05-10 22:17 UTC_
 | 116 | Svetlana Abrosimova | 613 |
 | 117 | Layshia Clarendon | 609 |
 | 118 | Kiah Stokes | 608 |
+| 119 | **Chelsea Gray** 🔴 +1 | 604 |
 | 119 | Tiffany Mitchell | 604 |
-| 120 | **Chelsea Gray** 🔴 | 603 |
 | 121 | Janel McCarville | 597 |
 | 121 | Odyssey Sims | 597 |
 | 123 | Kamila Vodichkova | 596 |
