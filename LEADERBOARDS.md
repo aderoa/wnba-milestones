@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-10 20:20 UTC_
+_Last updated: 2026-05-10 20:21 UTC_
 
 ## Contents
 
@@ -72,7 +72,7 @@ _Last updated: 2026-05-10 20:20 UTC_
 | 51 | Kelsey Plum | 4,207 |
 | 52 | Allisha Gray | 4,157 |
 | 53 | Rebekkah Brunson | 4,133 |
-| 54 | **Jonquel Jones** 🔴 +8 | 4,104 |
+| 54 | **Jonquel Jones** 🔴 +13 | 4,109 |
 | 55 | Dearica Hamby | 4,090 |
 | 56 | Kahleah Copper | 4,083 |
 | 57 | Courtney Williams | 4,061 |
@@ -237,7 +237,7 @@ _Last updated: 2026-05-10 20:20 UTC_
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | Alyssa Thomas | 2,740 |
 | 13 | Sancho Lyttle | 2,596 |
-| 14 | **Jonquel Jones** 🔴 +4 | 2,579 |
+| 14 | **Jonquel Jones** 🔴 +6 | 2,581 |
 | 15 | DeLisha Milton-Jones | 2,574 |
 | 16 | Brittney Griner | 2,537 |
 | 17 | Swin Cash | 2,521 |
@@ -1094,7 +1094,7 @@ _Last updated: 2026-05-10 20:20 UTC_
 | 45 | Rachel Banham | 372 |
 | 48 | Epiphanny Prince | 368 |
 | 49 | Rhyne Howard | 366 |
-| 50 | **Jonquel Jones** 🔴 | 357 |
+| 50 | **Jonquel Jones** 🔴 +1 | 358 |
 | 51 | Kia Nurse | 356 |
 | 52 | Nykesha Sales | 352 |
 | 53 | Cathrine Kraayeveld | 343 |
