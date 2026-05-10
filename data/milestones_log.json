@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-10T02:07:00+00:00",
+    "text": "Kayla McBride passed Katie Douglas for #6 all-time in three-pointers (career 724) \u2014 up from #7 entering today \u2014 (1:10 - 4th \u2014 ATL @ MIN)",
+    "kind": "rank_pass",
+    "player": "Kayla McBride",
+    "stat": "three-pointers",
+    "rank": 6,
+    "passed_players": [
+      "Katie Douglas"
+    ],
+    "new_total": 724
+  },
+  {
     "ts": "2026-05-10T02:01:00+00:00",
     "text": "Naz Hillmon passed Lindsey Harding for #174 all-time in rebounds (career 780) \u2014 up from #178 entering today \u2014 (2:05 - 4th \u2014 ATL @ MIN)",
     "kind": "rank_pass",
