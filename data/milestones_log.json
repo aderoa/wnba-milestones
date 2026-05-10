@@ -1,5 +1,14 @@
 [
   {
+    "ts": "2026-05-10T20:53:00+00:00",
+    "text": "Kiki Iriafen reached 400 career rebounds (now 400) \u2014 (8:54 - 4th \u2014 NY @ WSH)",
+    "kind": "round",
+    "player": "Kiki Iriafen",
+    "stat": "rebounds",
+    "value": 400,
+    "new_total": 400
+  },
+  {
     "ts": "2026-05-10T20:47:00+00:00",
     "text": "Betnijah Laney-Hamilton passed Mercedes Russell for #171 all-time in rebounds (career 787) \u2014 up from #172 entering today \u2014 (9.0 - 3rd \u2014 NY @ WSH)",
     "kind": "rank_pass",
