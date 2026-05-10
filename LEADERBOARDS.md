@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-10 02:15 UTC_
+_Last updated: 2026-05-10 02:16 UTC_
 
 ## Contents
 
@@ -365,7 +365,7 @@ _Last updated: 2026-05-10 02:15 UTC_
 | 139 | Jennifer Gillom | 964 |
 | 140 | Dominique Canty | 961 |
 | 141 | Armintie Herrington | 960 |
-| 142 | **Skylar Diggins** 🔴 +3 | 958 |
+| 142 | **Skylar Diggins** 🔴 +4 | 959 |
 | 143 | Janell Burse | 944 |
 | 144 | Merlakia Jones | 927 |
 | 145 | Nicky Anosike | 922 |
@@ -1270,7 +1270,7 @@ _Last updated: 2026-05-10 02:15 UTC_
 | 19 | Katie Smith | 935 |
 | 20 | Shannon Johnson | 934 |
 | 21 | Taj McWilliams-Franklin | 898 |
-| 22 | **Skylar Diggins** 🔴 +2 | 881 |
+| 22 | **Skylar Diggins** 🔴 +3 | 882 |
 | 23 | Chelsea Gray | 872 |
 | 24 | Candice Dupree | 869 |
 | 25 | Alana Beard | 854 |
@@ -1515,8 +1515,8 @@ _Last updated: 2026-05-10 02:15 UTC_
 | 58 | Tully Bevilaqua | 813 |
 | 60 | Dearica Hamby | 798 |
 | 61 | Nykesha Sales | 796 |
-| 62 | Ebony Hoffman | 791 |
-| 62 | **Skylar Diggins** 🔴 +1 | 791 |
+| 62 | **Skylar Diggins** 🔴 +2 | 792 |
+| 63 | Ebony Hoffman | 791 |
 | 64 | Sue Bird | 775 |
 | 65 | Sheri Sam | 766 |
 | 66 | Erica Wheeler | 758 |

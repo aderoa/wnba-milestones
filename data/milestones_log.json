@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-10T02:16:00+00:00",
+    "text": "Skylar Diggins passed Ebony Hoffman for #62 all-time in fouls (career 792) \u2014 up from #63 entering today \u2014 (6:13 - 3rd \u2014 CHI @ POR)",
+    "kind": "rank_pass",
+    "player": "Skylar Diggins",
+    "stat": "fouls",
+    "rank": 62,
+    "passed_players": [
+      "Ebony Hoffman"
+    ],
+    "new_total": 792
+  },
+  {
     "ts": "2026-05-10T02:14:00+00:00",
     "text": "Allisha Gray passed Jessica Davenport and Nia Coffey for #78 all-time in blocks (career 152) \u2014 (5.5 - 4th \u2014 ATL @ MIN)",
     "kind": "rank_pass",
