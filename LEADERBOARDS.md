@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-10 23:41 UTC_
+_Last updated: 2026-05-10 23:42 UTC_
 
 ## Contents
 
@@ -230,7 +230,7 @@ _Last updated: 2026-05-10 23:41 UTC_
 | 4 | Rebekkah Brunson | 3,345 |
 | 5 | Tamika Catchings | 3,313 |
 | 6 | Lisa Leslie | 3,303 |
-| 7 | **Nneka Ogwumike** 🔴 +7 | 3,275 |
+| 7 | **Nneka Ogwumike** 🔴 +8 | 3,276 |
 | 8 | DeWanna Bonner | 3,203 |
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
@@ -241,7 +241,7 @@ _Last updated: 2026-05-10 23:41 UTC_
 | 15 | DeLisha Milton-Jones | 2,574 |
 | 16 | Brittney Griner | 2,537 |
 | 17 | Swin Cash | 2,521 |
-| 18 | **A'ja Wilson** 🔴 +1 | 2,495 |
+| 18 | **A'ja Wilson** 🔴 +2 | 2,496 |
 | 19 | Breanna Stewart | 2,493 |
 | 20 | Michelle Snow | 2,476 |
 | 21 | Crystal Langhorne | 2,454 |
@@ -352,7 +352,7 @@ _Last updated: 2026-05-10 23:41 UTC_
 | 126 | Cathrine Kraayeveld | 1,013 |
 | 127 | Kelly Miller | 1,011 |
 | 127 | Noelle Quinn | 1,011 |
-| 129 | **Jackie Young** 🔴 +2 | 1,004 |
+| 129 | **Jackie Young** 🔴 +3 | 1,005 |
 | 130 | Tiffany Jackson | 1,002 |
 | 131 | Tianna Hawkins | 1,000 |
 | 132 | Damiris Dantas | 995 |
@@ -417,7 +417,7 @@ _Last updated: 2026-05-10 23:41 UTC_
 | 191 | Sami Whitcomb | 726 |
 | 191 | Shekinna Stricklen | 726 |
 | 193 | Arike Ogunbowale | 722 |
-| 194 | **Kelsey Plum** 🔴 +2 | 717 |
+| 194 | **Kelsey Plum** 🔴 +3 | 718 |
 | 195 | Olympia Scott | 711 |
 | 196 | Shakira Austin | 710 |
 | 197 | Katie Mattera | 708 |
@@ -469,8 +469,8 @@ _Last updated: 2026-05-10 23:41 UTC_
 | 38 | Alana Beard | 1,061 |
 | 39 | Penny Taylor | 1,049 |
 | 40 | Dominique Canty | 1,042 |
+| 41 | **Jackie Young** 🔴 +8 | 1,037 |
 | 41 | Sheryl Swoopes | 1,037 |
-| 42 | **Jackie Young** 🔴 +7 | 1,036 |
 | 43 | Tina Charles | 1,033 |
 | 44 | Nikki Teasley | 982 |
 | 45 | Tamecka Dixon | 960 |
@@ -524,8 +524,8 @@ _Last updated: 2026-05-10 23:41 UTC_
 | 93 | Jennifer Azzi | 636 |
 | 94 | Brittney Griner | 635 |
 | 95 | Sami Whitcomb | 623 |
-| 96 | **A'ja Wilson** 🔴 +1 | 614 |
-| 96 | Alysha Clark | 614 |
+| 96 | **A'ja Wilson** 🔴 +2 | 615 |
+| 97 | Alysha Clark | 614 |
 | 98 | Debbie Black | 612 |
 | 99 | Cynthia Cooper | 602 |
 | 99 | Jonquel Jones | 602 |
@@ -642,7 +642,7 @@ _Last updated: 2026-05-10 23:41 UTC_
 | 6 | Lauren Jackson | 586 |
 | 7 | Tammy Sutton-Brown | 555 |
 | 8 | Tangela Smith | 554 |
-| 9 | **A'ja Wilson** 🔴 +1 | 534 |
+| 9 | **A'ja Wilson** 🔴 +2 | 535 |
 | 10 | Ruth Riley | 505 |
 | 11 | Elizabeth Williams | 483 |
 | 12 | Taj McWilliams-Franklin | 443 |
@@ -909,14 +909,14 @@ _Last updated: 2026-05-10 23:41 UTC_
 | 68 | Svetlana Abrosimova | 352 |
 | 69 | Allisha Gray | 349 |
 | 70 | Janeth Arcain | 346 |
-| 71 | **Erica Wheeler** 🔴 +2 | 344 |
+| 71 | **Erica Wheeler** 🔴 +3 | 345 |
 | 72 | Helen Darling | 343 |
 | 73 | Andrea Stinson | 342 |
 | 74 | Armintie Herrington | 340 |
 | 74 | Natasha Cloud | 340 |
 | 76 | Arike Ogunbowale | 339 |
 | 77 | Dawn Staley | 338 |
-| 78 | **A'ja Wilson** 🔴 +1 | 336 |
+| 78 | **A'ja Wilson** 🔴 +2 | 337 |
 | 79 | Marie Ferdinand-Harris | 331 |
 | 80 | Chasity Melvin | 330 |
 | 80 | Leilani Mitchell | 330 |
@@ -1281,9 +1281,9 @@ _Last updated: 2026-05-10 23:41 UTC_
 | 29 | Jasmine Thomas | 796 |
 | 30 | Chamique Holdsclaw | 789 |
 | 31 | Natasha Howard | 784 |
-| 32 | **Nneka Ogwumike** 🔴 +1 | 783 |
+| 31 | **Nneka Ogwumike** 🔴 +2 | 784 |
 | 33 | Crystal Langhorne | 782 |
-| 34 | **Jewell Loyd** 🔴 | 780 |
+| 34 | **Jewell Loyd** 🔴 +1 | 781 |
 | 35 | Camille Smith | 779 |
 | 36 | Plenette Pierson | 773 |
 | 37 | Briann January | 771 |
