@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-10 01:25 UTC_
+_Last updated: 2026-05-10 01:26 UTC_
 
 ## Contents
 
@@ -70,7 +70,7 @@ _Last updated: 2026-05-10 01:25 UTC_
 | 49 | Vickie Johnson | 4,230 |
 | 50 | Yolanda Griffith | 4,224 |
 | 51 | Kelsey Plum | 4,207 |
-| 52 | **Allisha Gray** 🔴 +14 | 4,171 |
+| 52 | **Allisha Gray** 🔴 +16 | 4,173 |
 | 53 | Rebekkah Brunson | 4,133 |
 | 54 | Jonquel Jones | 4,096 |
 | 54 | Kahleah Copper | 4,096 |
@@ -251,7 +251,7 @@ _Last updated: 2026-05-10 01:25 UTC_
 | 25 | Dearica Hamby | 2,317 |
 | 26 | Erika de Souza | 2,220 |
 | 27 | Diana Taurasi | 2,201 |
-| 28 | **Natasha Howard** 🔴 +4 | 2,178 |
+| 28 | **Natasha Howard** 🔴 +5 | 2,179 |
 | 29 | Margo Dydek | 2,138 |
 | 30 | Chamique Holdsclaw | 2,123 |
 | 31 | Chasity Melvin | 2,097 |
@@ -300,7 +300,7 @@ _Last updated: 2026-05-10 01:25 UTC_
 | 74 | Ebony Hoffman | 1,376 |
 | 75 | Sheri Sam | 1,356 |
 | 76 | Tamika Whitmore | 1,355 |
-| 77 | **Allisha Gray** 🔴 +5 | 1,352 |
+| 77 | **Allisha Gray** 🔴 +6 | 1,353 |
 | 78 | Emma Meesseman | 1,350 |
 | 79 | Monique Billings | 1,345 |
 | 80 | Elena Baranova | 1,335 |
@@ -504,7 +504,7 @@ _Last updated: 2026-05-10 01:25 UTC_
 | 73 | Sheri Sam | 745 |
 | 74 | Monique Currie | 740 |
 | 75 | Marina Mabrey | 738 |
-| 76 | **Allisha Gray** 🔴 +2 | 732 |
+| 76 | **Allisha Gray** 🔴 +3 | 733 |
 | 77 | Elaine Powell | 728 |
 | 78 | Chamique Holdsclaw | 698 |
 | 79 | Shavonte Zellous | 693 |
