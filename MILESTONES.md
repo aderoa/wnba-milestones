@@ -2,6 +2,11 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-10 00:18 UTC
+
+- **Angel Reese** passed **Marie Ferdinand-Harris** for **#159** all-time in rebounds (career 829) — up from #160 entering today — _2:13 - 1st — ATL @ MIN_
+- **Courtney Williams** passed **Dawn Staley** for **#63** all-time in turnovers (career 644) — _2:13 - 1st — ATL @ MIN_
+
 ## 2026-05-10 00:12 UTC
 
 - **Natasha Howard** passed **Loree Moore** for **#110** all-time in assists (career 563) — up from #111 entering today — _3:53 - 1st — ATL @ MIN_

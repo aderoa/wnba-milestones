@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-10 00:17 UTC_
+_Last updated: 2026-05-10 00:18 UTC_
 
 ## Contents
 
@@ -381,9 +381,9 @@ _Last updated: 2026-05-10 00:17 UTC_
 | 155 | Leilani Mitchell | 845 |
 | 156 | Alanna Smith | 837 |
 | 157 | Essence Carson | 833 |
+| 158 | **Angel Reese** 🔴 +6 | 829 |
 | 158 | Kristi Toliver | 829 |
-| 159 | **Angel Reese** 🔴 +5 | 828 |
-| 159 | Marie Ferdinand-Harris | 828 |
+| 160 | Marie Ferdinand-Harris | 828 |
 | 161 | Jessica Shepard | 822 |
 | 161 | Marlies Askamp | 822 |
 | 163 | Amanda Zahui B | 819 |
@@ -504,7 +504,7 @@ _Last updated: 2026-05-10 00:17 UTC_
 | 73 | Sheri Sam | 745 |
 | 74 | Monique Currie | 740 |
 | 75 | Marina Mabrey | 738 |
-| 76 | **Allisha Gray** 🔴 +1 | 731 |
+| 76 | **Allisha Gray** 🔴 +2 | 732 |
 | 77 | Elaine Powell | 728 |
 | 78 | Chamique Holdsclaw | 698 |
 | 79 | Shavonte Zellous | 693 |
@@ -995,7 +995,7 @@ _Last updated: 2026-05-10 00:17 UTC_
 | 154 | Cheyenne Parker-Tyus | 213 |
 | 154 | Shekinna Stricklen | 213 |
 | 156 | Nikki Teasley | 211 |
-| 157 | **Rhyne Howard** 🔴 | 210 |
+| 156 | **Rhyne Howard** 🔴 +1 | 211 |
 | 158 | Iziane Castro Marques | 209 |
 | 158 | Tiffany Mitchell | 209 |
 | 160 | Kia Vaughn | 208 |
@@ -1310,8 +1310,8 @@ _Last updated: 2026-05-10 00:17 UTC_
 | 59 | Dearica Hamby | 657 |
 | 60 | Yolanda Griffith | 653 |
 | 61 | Sheri Sam | 650 |
-| 62 | **Courtney Williams** 🔴 | 643 |
-| 62 | Dawn Staley | 643 |
+| 62 | **Courtney Williams** 🔴 +1 | 644 |
+| 63 | Dawn Staley | 643 |
 | 64 | Ruth Riley | 637 |
 | 65 | Svetlana Abrosimova | 631 |
 | 66 | **Kayla McBride** 🔴 | 622 |
