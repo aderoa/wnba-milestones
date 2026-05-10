@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-10 00:03 UTC_
+_Last updated: 2026-05-10 00:04 UTC_
 
 ## Contents
 
@@ -326,7 +326,7 @@ _Last updated: 2026-05-10 00:03 UTC_
 | 99 | Tanisha Wright | 1,190 |
 | 101 | Chelsea Gray | 1,189 |
 | 101 | Vicky Bullett | 1,189 |
-| 103 | **Kayla McBride** 🔴 | 1,182 |
+| 103 | **Kayla McBride** 🔴 +1 | 1,183 |
 | 104 | Nykesha Sales | 1,148 |
 | 105 | Shannon Johnson | 1,143 |
 | 106 | Kahleah Copper | 1,140 |
@@ -383,7 +383,7 @@ _Last updated: 2026-05-10 00:03 UTC_
 | 157 | Essence Carson | 833 |
 | 158 | Kristi Toliver | 829 |
 | 159 | Marie Ferdinand-Harris | 828 |
-| 160 | **Angel Reese** 🔴 | 823 |
+| 160 | **Angel Reese** 🔴 +4 | 827 |
 | 161 | Jessica Shepard | 822 |
 | 161 | Marlies Askamp | 822 |
 | 163 | Amanda Zahui B | 819 |
@@ -1172,7 +1172,7 @@ _Last updated: 2026-05-10 00:03 UTC_
 | 126 | Amanda Lassiter | 170 |
 | 127 | Shavonte Zellous | 167 |
 | 127 | Tianna Hawkins | 167 |
-| 129 | **Nia Coffey** 🔴 | 165 |
+| 129 | **Nia Coffey** 🔴 +1 | 166 |
 | 130 | Charlotte Smith | 164 |
 | 131 | Ukari Figgs | 162 |
 | 132 | Edna Campbell | 161 |
@@ -1360,7 +1360,7 @@ _Last updated: 2026-05-10 00:03 UTC_
 | 109 | Nikki Teasley | 493 |
 | 109 | Tari Phillips | 493 |
 | 111 | Janel McCarville | 491 |
-| 112 | **Jordin Canada** 🔴 | 489 |
+| 112 | **Jordin Canada** 🔴 +1 | 490 |
 | 113 | Marina Mabrey | 487 |
 | 114 | Erika de Souza | 483 |
 | 115 | Sophia Young-Malcolm | 482 |
