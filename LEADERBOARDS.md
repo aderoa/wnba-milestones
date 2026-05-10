@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-10 20:53 UTC_
+_Last updated: 2026-05-10 20:54 UTC_
 
 ## Contents
 
@@ -242,7 +242,7 @@ _Last updated: 2026-05-10 20:53 UTC_
 | 16 | Brittney Griner | 2,537 |
 | 17 | Swin Cash | 2,521 |
 | 18 | A'ja Wilson | 2,494 |
-| 19 | **Breanna Stewart** 🔴 +5 | 2,489 |
+| 19 | **Breanna Stewart** 🔴 +6 | 2,490 |
 | 20 | Michelle Snow | 2,476 |
 | 21 | Crystal Langhorne | 2,454 |
 | 22 | Lauren Jackson | 2,444 |
@@ -881,7 +881,7 @@ _Last updated: 2026-05-10 20:53 UTC_
 | 40 | Epiphanny Prince | 429 |
 | 41 | Tanisha Wright | 427 |
 | 42 | Kayla McBride | 418 |
-| 43 | **Breanna Stewart** 🔴 +1 | 412 |
+| 43 | **Breanna Stewart** 🔴 +2 | 413 |
 | 44 | Katie Smith | 408 |
 | 45 | Cappie Pondexter | 405 |
 | 46 | Nicole Powell | 401 |
@@ -1336,7 +1336,7 @@ _Last updated: 2026-05-10 20:53 UTC_
 | 84 | Sancho Lyttle | 563 |
 | 85 | Brittney Sykes | 558 |
 | 86 | Tan White | 557 |
-| 87 | **Breanna Stewart** 🔴 +2 | 551 |
+| 87 | **Breanna Stewart** 🔴 +3 | 552 |
 | 88 | Kelsey Mitchell | 549 |
 | 88 | Lauren Jackson | 549 |
 | 90 | Matee Ajavon | 544 |
