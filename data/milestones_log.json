@@ -1,5 +1,14 @@
 [
   {
+    "ts": "2026-05-10T18:26:00+00:00",
+    "text": "Lexie Brown reached 1,000 career points (now 1,002) \u2014 (4:33 - 3rd \u2014 SEA @ CON)",
+    "kind": "round",
+    "player": "Lexie Brown",
+    "stat": "points",
+    "value": 1000,
+    "new_total": 1002
+  },
+  {
     "ts": "2026-05-10T18:23:00+00:00",
     "text": "Natisha Hiedeman passed Moriah Jefferson for #187 all-time in points (career 1,724) \u2014 up from #188 entering today \u2014 (6:13 - 3rd \u2014 SEA @ CON)",
     "kind": "rank_pass",

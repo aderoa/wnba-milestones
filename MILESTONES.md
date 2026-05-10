@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-10 18:26 UTC
+
+- **Lexie Brown** reached **1,000** career points (now 1,002) — _4:33 - 3rd — SEA @ CON_
+
 ## 2026-05-10 18:23 UTC
 
 - **Natisha Hiedeman** passed **Moriah Jefferson** for **#187** all-time in points (career 1,724) — up from #188 entering today — _6:13 - 3rd — SEA @ CON_
