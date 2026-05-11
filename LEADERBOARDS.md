@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-11 01:52 UTC_
+_Last updated: 2026-05-11 01:53 UTC_
 
 ## Contents
 
@@ -403,9 +403,9 @@ _Last updated: 2026-05-11 01:52 UTC_
 | 177 | Teresa Weatherspoon | 775 |
 | 178 | Naz Hillmon | 773 |
 | 179 | Anna DeForge | 769 |
+| 179 | **Gabby Williams** 🔴 +5 | 769 |
 | 179 | Kelsey Bone | 769 |
 | 179 | Tan White | 769 |
-| 182 | **Gabby Williams** 🔴 +4 | 768 |
 | 183 | Tully Bevilaqua | 767 |
 | 184 | Ariel Atkins | 762 |
 | 185 | Layshia Clarendon | 756 |
@@ -1435,7 +1435,7 @@ _Last updated: 2026-05-11 01:52 UTC_
 | 182 | Moriah Jefferson | 314 |
 | 184 | Alex Bentley | 313 |
 | 185 | Tamika Raymond | 311 |
-| 186 | **Gabby Williams** 🔴 +2 | 309 |
+| 186 | **Gabby Williams** 🔴 +3 | 310 |
 | 187 | Erin Perperoglou | 305 |
 | 187 | Jennifer Lacy | 305 |
 | 189 | Tianna Hawkins | 303 |
