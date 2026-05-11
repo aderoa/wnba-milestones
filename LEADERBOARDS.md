@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-11 01:06 UTC_
+_Last updated: 2026-05-11 01:07 UTC_
 
 ## Contents
 
@@ -56,7 +56,7 @@ _Last updated: 2026-05-11 01:06 UTC_
 | 35 | Chamique Holdsclaw | 4,713 |
 | 36 | Elena Delle Donne | 4,706 |
 | 37 | Penny Taylor | 4,595 |
-| 38 | **Alyssa Thomas** 🔴 +4 | 4,492 |
+| 38 | **Alyssa Thomas** 🔴 +6 | 4,494 |
 | 39 | Kristi Toliver | 4,474 |
 | 40 | Arike Ogunbowale | 4,464 |
 | 41 | Crystal Langhorne | 4,433 |
@@ -458,7 +458,7 @@ _Last updated: 2026-05-11 01:06 UTC_
 | 27 | Odyssey Sims | 1,201 |
 | 28 | Leilani Mitchell | 1,197 |
 | 29 | Kelsey Plum | 1,195 |
-| 30 | **DeWanna Bonner** 🔴 | 1,176 |
+| 30 | **DeWanna Bonner** 🔴 +1 | 1,177 |
 | 31 | Renee Montgomery | 1,140 |
 | 32 | Jordin Canada | 1,139 |
 | 33 | Jewell Loyd | 1,136 |
@@ -542,10 +542,10 @@ _Last updated: 2026-05-11 01:06 UTC_
 | 110 | Natasha Howard | 562 |
 | 112 | Sophia Young-Malcolm | 554 |
 | 112 | Tangela Smith | 554 |
+| 114 | **Gabby Williams** 🔴 +2 | 552 |
 | 114 | Tamera Young | 552 |
-| 115 | **Gabby Williams** 🔴 +1 | 551 |
-| 115 | Janel McCarville | 551 |
-| 115 | Svetlana Abrosimova | 551 |
+| 116 | Janel McCarville | 551 |
+| 116 | Svetlana Abrosimova | 551 |
 | 118 | Michele Timms | 549 |
 | 119 | Marie Ferdinand-Harris | 528 |
 | 120 | Margo Dydek | 524 |

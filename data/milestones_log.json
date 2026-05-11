@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-05-11T01:07:00+00:00",
+    "text": "Gabby Williams passed Janel McCarville and Svetlana Abrosimova for #115 all-time in assists (career 552) \u2014 up from #117 entering today \u2014 (4:49 - 2nd \u2014 PHX @ GS)",
+    "kind": "rank_pass",
+    "player": "Gabby Williams",
+    "stat": "assists",
+    "rank": 115,
+    "passed_players": [
+      "Janel McCarville",
+      "Svetlana Abrosimova"
+    ],
+    "new_total": 552
+  },
+  {
     "ts": "2026-05-11T01:00:00+00:00",
     "text": "Gabby Williams reached 1,600 career points (now 1,600) \u2014 (7:36 - 2nd \u2014 PHX @ GS)",
     "kind": "round",

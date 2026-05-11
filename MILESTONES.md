@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-11 01:07 UTC
+
+- **Gabby Williams** passed **Janel McCarville** and **Svetlana Abrosimova** for **#115** all-time in assists (career 552) — up from #117 entering today — _4:49 - 2nd — PHX @ GS_
+
 ## 2026-05-11 01:00 UTC
 
 - **Gabby Williams** reached **1,600** career points (now 1,600) — _7:36 - 2nd — PHX @ GS_
