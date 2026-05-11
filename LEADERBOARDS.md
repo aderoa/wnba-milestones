@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-11 00:34 UTC_
+_Last updated: 2026-05-11 00:35 UTC_
 
 ## Contents
 
@@ -329,7 +329,7 @@ _Last updated: 2026-05-11 00:34 UTC_
 | 103 | Kayla McBride | 1,182 |
 | 104 | Nykesha Sales | 1,148 |
 | 105 | Shannon Johnson | 1,143 |
-| 106 | **Kahleah Copper** 🔴 | 1,140 |
+| 106 | **Kahleah Copper** 🔴 +1 | 1,141 |
 | 107 | Adrian Williams-Strong | 1,131 |
 | 108 | Andrea Stinson | 1,127 |
 | 108 | Tamika Raymond | 1,127 |
@@ -563,7 +563,7 @@ _Last updated: 2026-05-11 00:34 UTC_
 | 132 | Rhyne Howard | 481 |
 | 133 | Ukari Figgs | 470 |
 | 134 | Janeth Arcain | 469 |
-| 135 | **Kahleah Copper** 🔴 | 463 |
+| 135 | **Kahleah Copper** 🔴 +1 | 464 |
 | 136 | Erin Phillips | 462 |
 | 137 | Sylvia Fowles | 461 |
 | 138 | Sydney Colson | 454 |
