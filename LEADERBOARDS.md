@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-11 00:05 UTC_
+_Last updated: 2026-05-11 00:06 UTC_
 
 ## Contents
 
@@ -67,8 +67,8 @@ _Last updated: 2026-05-11 00:05 UTC_
 | 46 | Sophia Young-Malcolm | 4,300 |
 | 47 | Plenette Pierson | 4,258 |
 | 48 | Monique Currie | 4,253 |
-| 49 | Vickie Johnson | 4,230 |
-| 50 | **Kelsey Plum** 🔴 +22 | 4,229 |
+| 49 | **Kelsey Plum** 🔴 +27 | 4,234 |
+| 50 | Vickie Johnson | 4,230 |
 | 51 | Yolanda Griffith | 4,224 |
 | 52 | Allisha Gray | 4,157 |
 | 53 | Rebekkah Brunson | 4,133 |
@@ -95,7 +95,7 @@ _Last updated: 2026-05-11 00:05 UTC_
 | 74 | Sancho Lyttle | 3,478 |
 | 75 | Ivory Latta | 3,447 |
 | 76 | Brittney Sykes | 3,439 |
-| 77 | **Jackie Young** 🔴 +15 | 3,427 |
+| 77 | **Jackie Young** 🔴 +20 | 3,432 |
 | 78 | Nicole Powell | 3,407 |
 | 79 | Epiphanny Prince | 3,381 |
 | 80 | **Ariel Atkins** 🔴 +8 | 3,369 |
@@ -230,7 +230,7 @@ _Last updated: 2026-05-11 00:05 UTC_
 | 4 | Rebekkah Brunson | 3,345 |
 | 5 | Tamika Catchings | 3,313 |
 | 6 | Lisa Leslie | 3,303 |
-| 7 | **Nneka Ogwumike** 🔴 +8 | 3,276 |
+| 7 | **Nneka Ogwumike** 🔴 +9 | 3,277 |
 | 8 | DeWanna Bonner | 3,203 |
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
@@ -319,7 +319,7 @@ _Last updated: 2026-05-11 00:05 UTC_
 | 93 | Tiffany Hayes | 1,233 |
 | 94 | Seimone Augustus | 1,228 |
 | 95 | Jia Perkins | 1,220 |
-| 96 | **Brianna Turner** 🔴 +3 | 1,217 |
+| 96 | **Brianna Turner** 🔴 +4 | 1,218 |
 | 97 | Myisha Hines-Allen | 1,208 |
 | 98 | DeMya Walker | 1,199 |
 | 99 | **Chelsea Gray** 🔴 +3 | 1,191 |
@@ -407,7 +407,7 @@ _Last updated: 2026-05-11 00:05 UTC_
 | 179 | Tan White | 769 |
 | 182 | Tully Bevilaqua | 767 |
 | 183 | Gabby Williams | 764 |
-| 184 | **Ariel Atkins** 🔴 +3 | 761 |
+| 184 | **Ariel Atkins** 🔴 +5 | 763 |
 | 185 | Layshia Clarendon | 756 |
 | 186 | Brooke Wyckoff | 751 |
 | 187 | Coco Miller | 750 |
@@ -434,7 +434,7 @@ _Last updated: 2026-05-11 00:05 UTC_
 | 3 | Ticha Penicheiro | 2,588 |
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
-| 6 | **Chelsea Gray** 🔴 +4 | 1,874 |
+| 6 | **Chelsea Gray** 🔴 +5 | 1,875 |
 | 7 | Alyssa Thomas | 1,820 |
 | 8 | Skylar Diggins | 1,768 |
 | 9 | Natasha Cloud | 1,733 |
@@ -875,7 +875,7 @@ _Last updated: 2026-05-11 00:05 UTC_
 | 34 | **Jewell Loyd** 🔴 +1 | 442 |
 | 35 | Sheri Sam | 438 |
 | 36 | Camille Smith | 437 |
-| 37 | **Chelsea Gray** 🔴 | 436 |
+| 36 | **Chelsea Gray** 🔴 +1 | 437 |
 | 38 | Natasha Howard | 434 |
 | 39 | Candice Dupree | 431 |
 | 40 | Epiphanny Prince | 429 |
@@ -1057,7 +1057,7 @@ _Last updated: 2026-05-11 00:05 UTC_
 | 10 | DeWanna Bonner | 663 |
 | 11 | Kristi Toliver | 651 |
 | 12 | Tamika Catchings | 605 |
-| 13 | **Kelsey Plum** 🔴 +3 | 591 |
+| 13 | **Kelsey Plum** 🔴 +4 | 592 |
 | 14 | Kara Lawson | 583 |
 | 15 | Nicole Powell | 579 |
 | 16 | Arike Ogunbowale | 545 |
@@ -1107,10 +1107,10 @@ _Last updated: 2026-05-11 00:05 UTC_
 | 60 | **Erica Wheeler** 🔴 | 320 |
 | 61 | Sugar Rodgers | 317 |
 | 62 | Marissa Coleman | 315 |
+| 63 | **Jackie Young** 🔴 +2 | 313 |
 | 63 | Shannon Johnson | 313 |
-| 64 | DeLisha Milton-Jones | 312 |
-| 64 | **Jackie Young** 🔴 +1 | 312 |
-| 64 | Ruthie Bolton | 312 |
+| 65 | DeLisha Milton-Jones | 312 |
+| 65 | Ruthie Bolton | 312 |
 | 67 | Tan White | 311 |
 | 68 | Kedra Holland-Corn | 307 |
 | 69 | Kelly Miller | 305 |
@@ -1308,7 +1308,7 @@ _Last updated: 2026-05-11 00:05 UTC_
 | 56 | **Erica Wheeler** 🔴 | 665 |
 | 56 | Natasha Cloud | 665 |
 | 58 | Vickie Johnson | 660 |
-| 59 | **Dearica Hamby** 🔴 +1 | 658 |
+| 59 | **Dearica Hamby** 🔴 +2 | 659 |
 | 60 | Yolanda Griffith | 653 |
 | 61 | Sheri Sam | 650 |
 | 62 | Courtney Williams | 643 |

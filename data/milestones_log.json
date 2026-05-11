@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-11T00:06:00+00:00",
+    "text": "Kelsey Plum passed Vickie Johnson for #49 all-time in points (career 4,234) \u2014 up from #51 entering today \u2014 (4:33 - 4th \u2014 LV @ LA)",
+    "kind": "rank_pass",
+    "player": "Kelsey Plum",
+    "stat": "points",
+    "rank": 49,
+    "passed_players": [
+      "Vickie Johnson"
+    ],
+    "new_total": 4234
+  },
+  {
     "ts": "2026-05-11T00:01:00+00:00",
     "text": "Jackie Young passed Sheryl Swoopes for #41 all-time in assists (career 1,038) \u2014 up from #43 entering today \u2014 (6:34 - 4th \u2014 LV @ LA)",
     "kind": "rank_pass",
