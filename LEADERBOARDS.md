@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-11 01:55 UTC_
+_Last updated: 2026-05-11 01:56 UTC_
 
 ## Contents
 
@@ -235,7 +235,7 @@ _Last updated: 2026-05-11 01:55 UTC_
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
-| 12 | **Alyssa Thomas** 🔴 +8 | 2,748 |
+| 12 | **Alyssa Thomas** 🔴 +7 | 2,747 |
 | 13 | Sancho Lyttle | 2,596 |
 | 14 | Jonquel Jones | 2,583 |
 | 15 | DeLisha Milton-Jones | 2,574 |
@@ -435,7 +435,7 @@ _Last updated: 2026-05-11 01:55 UTC_
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
 | 6 | Chelsea Gray | 1,875 |
-| 7 | **Alyssa Thomas** 🔴 +8 | 1,828 |
+| 7 | **Alyssa Thomas** 🔴 +7 | 1,827 |
 | 8 | Skylar Diggins | 1,768 |
 | 9 | Natasha Cloud | 1,733 |
 | 10 | Becky Hammon | 1,705 |
@@ -458,7 +458,7 @@ _Last updated: 2026-05-11 01:55 UTC_
 | 27 | Odyssey Sims | 1,201 |
 | 28 | Leilani Mitchell | 1,197 |
 | 29 | Kelsey Plum | 1,195 |
-| 30 | **DeWanna Bonner** 🔴 +2 | 1,178 |
+| 30 | **DeWanna Bonner** 🔴 +3 | 1,179 |
 | 31 | Renee Montgomery | 1,140 |
 | 32 | Jordin Canada | 1,139 |
 | 33 | Jewell Loyd | 1,136 |
@@ -1559,7 +1559,7 @@ _Last updated: 2026-05-11 01:55 UTC_
 | 101 | Tari Phillips | 648 |
 | 103 | Jewell Loyd | 646 |
 | 103 | Marie Ferdinand-Harris | 646 |
-| 105 | **Kayla Thornton** 🔴 +1 | 641 |
+| 105 | **Kayla Thornton** 🔴 +2 | 642 |
 | 106 | Charlotte Smith | 638 |
 | 107 | Janell Burse | 632 |
 | 108 | Nicole Ohlde | 631 |
