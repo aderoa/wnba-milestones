@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-11 01:05 UTC_
+_Last updated: 2026-05-11 01:06 UTC_
 
 ## Contents
 
@@ -153,7 +153,7 @@ _Last updated: 2026-05-11 01:05 UTC_
 | 132 | Merlakia Jones | 2,308 |
 | 133 | Kia Vaughn | 2,288 |
 | 134 | Allison Feaster | 2,258 |
-| 135 | **Kayla Thornton** 🔴 +3 | 2,251 |
+| 135 | **Kayla Thornton** 🔴 +5 | 2,253 |
 | 136 | Shekinna Stricklen | 2,245 |
 | 137 | Betnijah Laney-Hamilton | 2,243 |
 | 138 | Kara Braxton | 2,237 |
@@ -543,9 +543,9 @@ _Last updated: 2026-05-11 01:05 UTC_
 | 112 | Sophia Young-Malcolm | 554 |
 | 112 | Tangela Smith | 554 |
 | 114 | Tamera Young | 552 |
+| 115 | **Gabby Williams** 🔴 +1 | 551 |
 | 115 | Janel McCarville | 551 |
 | 115 | Svetlana Abrosimova | 551 |
-| 117 | **Gabby Williams** 🔴 | 550 |
 | 118 | Michele Timms | 549 |
 | 119 | Marie Ferdinand-Harris | 528 |
 | 120 | Margo Dydek | 524 |
@@ -935,7 +935,7 @@ _Last updated: 2026-05-11 01:05 UTC_
 | 93 | Ebony Hoffman | 308 |
 | 95 | Tamera Young | 305 |
 | 96 | Kedra Holland-Corn | 301 |
-| 97 | **Gabby Williams** 🔴 +1 | 298 |
+| 97 | **Gabby Williams** 🔴 +2 | 299 |
 | 98 | Lindsey Harding | 295 |
 | 99 | Janel McCarville | 294 |
 | 100 | Kelly Miller | 290 |
@@ -1263,7 +1263,7 @@ _Last updated: 2026-05-11 01:05 UTC_
 | 11 | Tamika Catchings | 1,041 |
 | 12 | Tina Charles | 1,040 |
 | 13 | Lindsay Whalen | 1,002 |
-| 14 | **Alyssa Thomas** 🔴 +1 | 966 |
+| 14 | **Alyssa Thomas** 🔴 +2 | 967 |
 | 15 | Sylvia Fowles | 961 |
 | 16 | Tanisha Wright | 954 |
 | 17 | Angel McCoughtry | 949 |
