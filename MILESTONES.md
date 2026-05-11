@@ -2,6 +2,11 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-11 01:00 UTC
+
+- **Gabby Williams** reached **1,600** career points (now 1,600) — _7:36 - 2nd — PHX @ GS_
+- **Gabby Williams** passed **Tonya Edwards** for **#176** all-time in three-pointers (career 119) — _7:36 - 2nd — PHX @ GS_
+
 ## 2026-05-11 00:50 UTC
 
 - **Veronica Burton** passed **Crystal Robinson** and **Tiffany Mitchell** for **#128** all-time in assists (career 489) — up from #131 entering today — _1:52 - 1st — PHX @ GS_

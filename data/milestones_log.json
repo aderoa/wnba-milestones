@@ -1,5 +1,26 @@
 [
   {
+    "ts": "2026-05-11T01:00:00+00:00",
+    "text": "Gabby Williams reached 1,600 career points (now 1,600) \u2014 (7:36 - 2nd \u2014 PHX @ GS)",
+    "kind": "round",
+    "player": "Gabby Williams",
+    "stat": "points",
+    "value": 1600,
+    "new_total": 1600
+  },
+  {
+    "ts": "2026-05-11T01:00:00+00:00",
+    "text": "Gabby Williams passed Tonya Edwards for #176 all-time in three-pointers (career 119) \u2014 (7:36 - 2nd \u2014 PHX @ GS)",
+    "kind": "rank_pass",
+    "player": "Gabby Williams",
+    "stat": "three-pointers",
+    "rank": 176,
+    "passed_players": [
+      "Tonya Edwards"
+    ],
+    "new_total": 119
+  },
+  {
     "ts": "2026-05-11T00:50:00+00:00",
     "text": "Veronica Burton passed Crystal Robinson and Tiffany Mitchell for #128 all-time in assists (career 489) \u2014 up from #131 entering today \u2014 (1:52 - 1st \u2014 PHX @ GS)",
     "kind": "rank_pass",
