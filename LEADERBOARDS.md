@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-11 00:36 UTC_
+_Last updated: 2026-05-11 00:37 UTC_
 
 ## Contents
 
@@ -935,7 +935,7 @@ _Last updated: 2026-05-11 00:36 UTC_
 | 93 | Ebony Hoffman | 308 |
 | 95 | Tamera Young | 305 |
 | 96 | Kedra Holland-Corn | 301 |
-| 97 | **Gabby Williams** 🔴 | 297 |
+| 97 | **Gabby Williams** 🔴 +1 | 298 |
 | 98 | Lindsey Harding | 295 |
 | 99 | Janel McCarville | 294 |
 | 100 | Kelly Miller | 290 |
@@ -1275,7 +1275,7 @@ _Last updated: 2026-05-11 00:36 UTC_
 | 23 | Chelsea Gray | 875 |
 | 24 | Candice Dupree | 869 |
 | 25 | Alana Beard | 854 |
-| 26 | **DeWanna Bonner** 🔴 | 826 |
+| 26 | **DeWanna Bonner** 🔴 +1 | 827 |
 | 27 | Katie Douglas | 824 |
 | 28 | Betty Lennox | 800 |
 | 29 | Jasmine Thomas | 796 |
