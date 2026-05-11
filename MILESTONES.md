@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-11 01:43 UTC
+
+- **Kayla Thornton** passed **Iziane Castro Marques** for **#79** all-time in three-pointers (career 276) — up from #80 entering today — _6:42 - 3rd — PHX @ GS_
+
 ## 2026-05-11 01:19 UTC
 
 - **Gabby Williams** passed **Tully Bevilaqua** for **#182** all-time in rebounds (career 768) — up from #183 entering today — _Halftime — PHX @ GS_

@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-11T01:43:00+00:00",
+    "text": "Kayla Thornton passed Iziane Castro Marques for #79 all-time in three-pointers (career 276) \u2014 up from #80 entering today \u2014 (6:42 - 3rd \u2014 PHX @ GS)",
+    "kind": "rank_pass",
+    "player": "Kayla Thornton",
+    "stat": "three-pointers",
+    "rank": 79,
+    "passed_players": [
+      "Iziane Castro Marques"
+    ],
+    "new_total": 276
+  },
+  {
     "ts": "2026-05-11T01:19:00+00:00",
     "text": "Gabby Williams passed Tully Bevilaqua for #182 all-time in rebounds (career 768) \u2014 up from #183 entering today \u2014 (Halftime \u2014 PHX @ GS)",
     "kind": "rank_pass",

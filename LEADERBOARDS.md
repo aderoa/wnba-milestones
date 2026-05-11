@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-11 01:42 UTC_
+_Last updated: 2026-05-11 01:43 UTC_
 
 ## Contents
 
@@ -152,7 +152,7 @@ _Last updated: 2026-05-11 01:42 UTC_
 | 131 | Rhyne Howard | 2,329 |
 | 132 | Merlakia Jones | 2,308 |
 | 133 | Kia Vaughn | 2,288 |
-| 134 | **Kayla Thornton** 🔴 +14 | 2,262 |
+| 134 | **Kayla Thornton** 🔴 +17 | 2,265 |
 | 135 | Allison Feaster | 2,258 |
 | 136 | Shekinna Stricklen | 2,245 |
 | 137 | Betnijah Laney-Hamilton | 2,243 |
@@ -231,11 +231,11 @@ _Last updated: 2026-05-11 01:42 UTC_
 | 5 | Tamika Catchings | 3,313 |
 | 6 | Lisa Leslie | 3,303 |
 | 7 | Nneka Ogwumike | 3,278 |
-| 8 | **DeWanna Bonner** 🔴 +4 | 3,207 |
+| 8 | **DeWanna Bonner** 🔴 +5 | 3,208 |
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
-| 12 | **Alyssa Thomas** 🔴 +5 | 2,745 |
+| 12 | **Alyssa Thomas** 🔴 +6 | 2,746 |
 | 13 | Sancho Lyttle | 2,596 |
 | 14 | Jonquel Jones | 2,583 |
 | 15 | DeLisha Milton-Jones | 2,574 |
@@ -265,7 +265,7 @@ _Last updated: 2026-05-11 01:42 UTC_
 | 39 | Lindsay Whalen | 1,805 |
 | 40 | Camille Smith | 1,802 |
 | 41 | Asjha Jones | 1,751 |
-| 42 | **Kiah Stokes** 🔴 +2 | 1,748 |
+| 42 | **Kiah Stokes** 🔴 +3 | 1,749 |
 | 43 | Courtney Williams | 1,747 |
 | 44 | Teaira McCowan | 1,670 |
 | 45 | Monique Currie | 1,666 |
@@ -309,7 +309,7 @@ _Last updated: 2026-05-11 01:42 UTC_
 | 83 | Erlana Larkins | 1,329 |
 | 84 | Mwadi Mabika | 1,327 |
 | 85 | Jayne Appel Marinelli | 1,326 |
-| 86 | **Kayla Thornton** 🔴 +1 | 1,317 |
+| 86 | **Kayla Thornton** 🔴 +2 | 1,318 |
 | 87 | Betty Lennox | 1,296 |
 | 88 | Tari Phillips | 1,274 |
 | 89 | Janel McCarville | 1,261 |
@@ -1123,8 +1123,8 @@ _Last updated: 2026-05-11 01:42 UTC_
 | 76 | Alana Beard | 288 |
 | 77 | Monique Currie | 284 |
 | 77 | Natisha Hiedeman | 284 |
-| 79 | Iziane Castro Marques | 275 |
-| 79 | **Kayla Thornton** 🔴 +2 | 275 |
+| 79 | **Kayla Thornton** 🔴 +3 | 276 |
+| 80 | Iziane Castro Marques | 275 |
 | 81 | Sheryl Swoopes | 270 |
 | 82 | Stefanie Dolson | 267 |
 | 83 | Bridget Carleton | 262 |
