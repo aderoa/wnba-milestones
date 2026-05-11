@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-11 02:03 UTC_
+_Last updated: 2026-05-11 02:04 UTC_
 
 ## Contents
 
@@ -435,7 +435,7 @@ _Last updated: 2026-05-11 02:03 UTC_
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
 | 6 | Chelsea Gray | 1,875 |
-| 7 | **Alyssa Thomas** 🔴 +8 | 1,828 |
+| 7 | **Alyssa Thomas** 🔴 +9 | 1,829 |
 | 8 | Skylar Diggins | 1,768 |
 | 9 | Natasha Cloud | 1,733 |
 | 10 | Becky Hammon | 1,705 |
@@ -458,7 +458,7 @@ _Last updated: 2026-05-11 02:03 UTC_
 | 27 | Odyssey Sims | 1,201 |
 | 28 | Leilani Mitchell | 1,197 |
 | 29 | Kelsey Plum | 1,195 |
-| 30 | **DeWanna Bonner** 🔴 +3 | 1,179 |
+| 30 | **DeWanna Bonner** 🔴 +2 | 1,178 |
 | 31 | Renee Montgomery | 1,140 |
 | 32 | Jordin Canada | 1,139 |
 | 33 | Jewell Loyd | 1,136 |
