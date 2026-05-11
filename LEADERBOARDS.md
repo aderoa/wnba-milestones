@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-11 02:19 UTC_
+_Last updated: 2026-05-11 02:20 UTC_
 
 ## Contents
 
@@ -1326,7 +1326,7 @@ _Last updated: 2026-05-11 02:19 UTC_
 | 74 | Lindsey Harding | 600 |
 | 74 | Tamika Whitmore | 600 |
 | 76 | Kelly Miller | 596 |
-| 77 | **Kahleah Copper** 🔴 +2 | 581 |
+| 77 | **Kahleah Copper** 🔴 +3 | 582 |
 | 78 | Stefanie Dolson | 578 |
 | 79 | Helen Darling | 575 |
 | 79 | Nykesha Sales | 575 |
@@ -1491,7 +1491,7 @@ _Last updated: 2026-05-11 02:19 UTC_
 | 34 | Mwadi Mabika | 941 |
 | 35 | Tamika Whitmore | 940 |
 | 36 | Courtney Vandersloot | 938 |
-| 37 | **Alyssa Thomas** 🔴 +3 | 928 |
+| 37 | **Alyssa Thomas** 🔴 +4 | 929 |
 | 38 | Briann January | 921 |
 | 39 | Ticha Penicheiro | 913 |
 | 40 | Shavonte Zellous | 907 |
