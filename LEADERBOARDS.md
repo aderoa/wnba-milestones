@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-11 01:35 UTC_
+_Last updated: 2026-05-11 01:36 UTC_
 
 ## Contents
 
@@ -74,7 +74,7 @@ _Last updated: 2026-05-11 01:35 UTC_
 | 53 | Rebekkah Brunson | 4,133 |
 | 54 | Jonquel Jones | 4,109 |
 | 55 | Dearica Hamby | 4,102 |
-| 56 | **Kahleah Copper** 🔴 +3 | 4,086 |
+| 56 | **Kahleah Copper** 🔴 +5 | 4,088 |
 | 57 | Courtney Williams | 4,061 |
 | 58 | Asjha Jones | 3,986 |
 | 59 | Deanna Nolan | 3,971 |
@@ -1435,7 +1435,7 @@ _Last updated: 2026-05-11 01:35 UTC_
 | 182 | Moriah Jefferson | 314 |
 | 184 | Alex Bentley | 313 |
 | 185 | Tamika Raymond | 311 |
-| 186 | **Gabby Williams** 🔴 +1 | 308 |
+| 186 | **Gabby Williams** 🔴 +2 | 309 |
 | 187 | Erin Perperoglou | 305 |
 | 187 | Jennifer Lacy | 305 |
 | 189 | Tianna Hawkins | 303 |
@@ -1559,7 +1559,7 @@ _Last updated: 2026-05-11 01:35 UTC_
 | 101 | Tari Phillips | 648 |
 | 103 | Jewell Loyd | 646 |
 | 103 | Marie Ferdinand-Harris | 646 |
-| 105 | **Kayla Thornton** 🔴 | 640 |
+| 105 | **Kayla Thornton** 🔴 +1 | 641 |
 | 106 | Charlotte Smith | 638 |
 | 107 | Janell Burse | 632 |
 | 108 | Nicole Ohlde | 631 |
