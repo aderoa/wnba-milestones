@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-11 01:08 UTC_
+_Last updated: 2026-05-11 01:09 UTC_
 
 ## Contents
 
@@ -153,7 +153,7 @@ _Last updated: 2026-05-11 01:08 UTC_
 | 132 | Merlakia Jones | 2,308 |
 | 133 | Kia Vaughn | 2,288 |
 | 134 | Allison Feaster | 2,258 |
-| 135 | **Kayla Thornton** 🔴 +5 | 2,253 |
+| 135 | **Kayla Thornton** 🔴 +7 | 2,255 |
 | 136 | Shekinna Stricklen | 2,245 |
 | 137 | Betnijah Laney-Hamilton | 2,243 |
 | 138 | Kara Braxton | 2,237 |
@@ -556,7 +556,7 @@ _Last updated: 2026-05-11 01:08 UTC_
 | 124 | Coco Miller | 503 |
 | 126 | Myisha Hines-Allen | 497 |
 | 127 | Rachel Banham | 495 |
-| 128 | **Veronica Burton** 🔴 +4 | 489 |
+| 128 | **Veronica Burton** 🔴 +5 | 490 |
 | 129 | Crystal Robinson | 488 |
 | 129 | Tiffany Mitchell | 488 |
 | 131 | Rebekkah Brunson | 486 |
