@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-11 02:05 UTC_
+_Last updated: 2026-05-11 02:06 UTC_
 
 ## Contents
 
@@ -21,7 +21,7 @@ _Last updated: 2026-05-11 02:05 UTC_
 |-----:|--------|------:|
 | 1 | Diana Taurasi | 10,608 |
 | 2 | Tina Charles | 8,396 |
-| 3 | **DeWanna Bonner** 🔴 +4 | 7,809 |
+| 3 | **DeWanna Bonner** 🔴 +5 | 7,810 |
 | 4 | Tina Thompson | 7,470 |
 | 5 | Tamika Catchings | 7,371 |
 | 6 | Nneka Ogwumike | 7,324 |
@@ -435,7 +435,7 @@ _Last updated: 2026-05-11 02:05 UTC_
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
 | 6 | Chelsea Gray | 1,875 |
-| 7 | **Alyssa Thomas** 🔴 +9 | 1,829 |
+| 7 | **Alyssa Thomas** 🔴 +10 | 1,830 |
 | 8 | Skylar Diggins | 1,768 |
 | 9 | Natasha Cloud | 1,733 |
 | 10 | Becky Hammon | 1,705 |
@@ -1559,7 +1559,7 @@ _Last updated: 2026-05-11 02:05 UTC_
 | 101 | Tari Phillips | 648 |
 | 103 | Jewell Loyd | 646 |
 | 103 | Marie Ferdinand-Harris | 646 |
-| 105 | **Kayla Thornton** 🔴 +2 | 642 |
+| 105 | **Kayla Thornton** 🔴 +3 | 643 |
 | 106 | Charlotte Smith | 638 |
 | 107 | Janell Burse | 632 |
 | 108 | Nicole Ohlde | 631 |
