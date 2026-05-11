@@ -1,5 +1,26 @@
 [
   {
+    "ts": "2026-05-11T00:48:00+00:00",
+    "text": "Kaila Charles reached 300 career rebounds (now 300) \u2014 (3:28 - 1st \u2014 PHX @ GS)",
+    "kind": "round",
+    "player": "Kaila Charles",
+    "stat": "rebounds",
+    "value": 300,
+    "new_total": 300
+  },
+  {
+    "ts": "2026-05-11T00:48:00+00:00",
+    "text": "Veronica Burton passed Rebekkah Brunson for #130 all-time in assists (career 487) \u2014 up from #131 entering today \u2014 (3:28 - 1st \u2014 PHX @ GS)",
+    "kind": "rank_pass",
+    "player": "Veronica Burton",
+    "stat": "assists",
+    "rank": 130,
+    "passed_players": [
+      "Rebekkah Brunson"
+    ],
+    "new_total": 487
+  },
+  {
     "ts": "2026-05-11T00:44:00+00:00",
     "text": "Kiah Stokes passed Layshia Clarendon for #117 all-time in fouls (career 610) \u2014 up from #118 entering today \u2014 (4:10 - 1st \u2014 PHX @ GS)",
     "kind": "rank_pass",

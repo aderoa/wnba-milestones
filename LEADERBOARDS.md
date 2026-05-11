@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-11 00:47 UTC_
+_Last updated: 2026-05-11 00:48 UTC_
 
 ## Contents
 
@@ -558,8 +558,8 @@ _Last updated: 2026-05-11 00:47 UTC_
 | 127 | Rachel Banham | 495 |
 | 128 | Crystal Robinson | 488 |
 | 128 | Tiffany Mitchell | 488 |
-| 130 | Rebekkah Brunson | 486 |
-| 130 | **Veronica Burton** 🔴 +1 | 486 |
+| 130 | **Veronica Burton** 🔴 +2 | 487 |
+| 131 | Rebekkah Brunson | 486 |
 | 132 | Rhyne Howard | 481 |
 | 133 | Ukari Figgs | 470 |
 | 134 | Janeth Arcain | 469 |

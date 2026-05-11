@@ -2,6 +2,11 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-11 00:48 UTC
+
+- **Kaila Charles** reached **300** career rebounds (now 300) — _3:28 - 1st — PHX @ GS_
+- **Veronica Burton** passed **Rebekkah Brunson** for **#130** all-time in assists (career 487) — up from #131 entering today — _3:28 - 1st — PHX @ GS_
+
 ## 2026-05-11 00:44 UTC
 
 - **Kiah Stokes** passed **Layshia Clarendon** for **#117** all-time in fouls (career 610) — up from #118 entering today — _4:10 - 1st — PHX @ GS_
