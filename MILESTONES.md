@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-11 00:13 UTC
+
+- **Brianna Turner** passed **Chasity Melvin** for **#42** all-time in blocks (career 229) — up from #43 entering today — _2:04 - 4th — LV @ LA_
+
 ## 2026-05-11 00:12 UTC
 
 - **Dearica Hamby** reached **800** career fouls (now 800) — _2:59 - 4th — LV @ LA_
