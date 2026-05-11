@@ -2,6 +2,11 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-11 01:14 UTC
+
+- **Kayla Thornton** passed **Allison Feaster** for **#134** all-time in points (career 2,260) — up from #135 entering today — _2:07 - 2nd — PHX @ GS_
+- **Gabby Williams** passed **Tamera Young** for **#114** all-time in assists (career 553) — up from #117 entering today — _2:07 - 2nd — PHX @ GS_
+
 ## 2026-05-11 01:08 UTC
 
 - **Kayla Thornton** passed **Alexis Hornbuckle** and **Kristen Rasmussen** for **#195** all-time in turnovers (career 289) — up from #196 entering today — _4:14 - 2nd — PHX @ GS_

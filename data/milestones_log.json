@@ -1,5 +1,29 @@
 [
   {
+    "ts": "2026-05-11T01:14:00+00:00",
+    "text": "Kayla Thornton passed Allison Feaster for #134 all-time in points (career 2,260) \u2014 up from #135 entering today \u2014 (2:07 - 2nd \u2014 PHX @ GS)",
+    "kind": "rank_pass",
+    "player": "Kayla Thornton",
+    "stat": "points",
+    "rank": 134,
+    "passed_players": [
+      "Allison Feaster"
+    ],
+    "new_total": 2260
+  },
+  {
+    "ts": "2026-05-11T01:14:00+00:00",
+    "text": "Gabby Williams passed Tamera Young for #114 all-time in assists (career 553) \u2014 up from #117 entering today \u2014 (2:07 - 2nd \u2014 PHX @ GS)",
+    "kind": "rank_pass",
+    "player": "Gabby Williams",
+    "stat": "assists",
+    "rank": 114,
+    "passed_players": [
+      "Tamera Young"
+    ],
+    "new_total": 553
+  },
+  {
     "ts": "2026-05-11T01:08:00+00:00",
     "text": "Kayla Thornton passed Alexis Hornbuckle and Kristen Rasmussen for #195 all-time in turnovers (career 289) \u2014 up from #196 entering today \u2014 (4:14 - 2nd \u2014 PHX @ GS)",
     "kind": "rank_pass",

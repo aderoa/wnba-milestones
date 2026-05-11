@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-11 01:13 UTC_
+_Last updated: 2026-05-11 01:14 UTC_
 
 ## Contents
 
@@ -152,8 +152,8 @@ _Last updated: 2026-05-11 01:13 UTC_
 | 131 | Rhyne Howard | 2,329 |
 | 132 | Merlakia Jones | 2,308 |
 | 133 | Kia Vaughn | 2,288 |
-| 134 | Allison Feaster | 2,258 |
-| 134 | **Kayla Thornton** 🔴 +10 | 2,258 |
+| 134 | **Kayla Thornton** 🔴 +12 | 2,260 |
+| 135 | Allison Feaster | 2,258 |
 | 136 | Shekinna Stricklen | 2,245 |
 | 137 | Betnijah Laney-Hamilton | 2,243 |
 | 138 | Kara Braxton | 2,237 |
@@ -542,8 +542,8 @@ _Last updated: 2026-05-11 01:13 UTC_
 | 110 | Natasha Howard | 562 |
 | 112 | Sophia Young-Malcolm | 554 |
 | 112 | Tangela Smith | 554 |
-| 114 | **Gabby Williams** 🔴 +2 | 552 |
-| 114 | Tamera Young | 552 |
+| 114 | **Gabby Williams** 🔴 +3 | 553 |
+| 115 | Tamera Young | 552 |
 | 116 | Janel McCarville | 551 |
 | 116 | Svetlana Abrosimova | 551 |
 | 118 | Michele Timms | 549 |
@@ -1326,7 +1326,7 @@ _Last updated: 2026-05-11 01:13 UTC_
 | 74 | Lindsey Harding | 600 |
 | 74 | Tamika Whitmore | 600 |
 | 76 | Kelly Miller | 596 |
-| 77 | **Kahleah Copper** 🔴 +1 | 580 |
+| 77 | **Kahleah Copper** 🔴 +2 | 581 |
 | 78 | Stefanie Dolson | 578 |
 | 79 | Helen Darling | 575 |
 | 79 | Nykesha Sales | 575 |
