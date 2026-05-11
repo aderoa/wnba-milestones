@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-11T00:15:00+00:00",
+    "text": "Cheyenne Parker-Tyus passed Shekinna Stricklen for #155 all-time in steals (career 214) \u2014 (1:24 - 4th \u2014 LV @ LA)",
+    "kind": "rank_pass",
+    "player": "Cheyenne Parker-Tyus",
+    "stat": "steals",
+    "rank": 155,
+    "passed_players": [
+      "Shekinna Stricklen"
+    ],
+    "new_total": 214
+  },
+  {
     "ts": "2026-05-11T00:13:00+00:00",
     "text": "Brianna Turner passed Chasity Melvin for #42 all-time in blocks (career 229) \u2014 up from #43 entering today \u2014 (2:04 - 4th \u2014 LV @ LA)",
     "kind": "rank_pass",

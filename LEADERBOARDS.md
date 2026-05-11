@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-11 00:14 UTC_
+_Last updated: 2026-05-11 00:15 UTC_
 
 ## Contents
 
@@ -670,12 +670,12 @@ _Last updated: 2026-05-11 00:14 UTC_
 | 34 | Liz Cambage | 264 |
 | 35 | **Nneka Ogwumike** 🔴 | 260 |
 | 36 | Swin Cash | 258 |
-| 37 | **Cheyenne Parker-Tyus** 🔴 | 250 |
+| 37 | **Cheyenne Parker-Tyus** 🔴 +1 | 251 |
 | 38 | Plenette Pierson | 242 |
 | 39 | Napheesa Collier | 239 |
 | 40 | Emma Meesseman | 238 |
 | 41 | Azurá Stevens | 230 |
-| 42 | **Brianna Turner** 🔴 +2 | 229 |
+| 41 | **Brianna Turner** 🔴 +3 | 230 |
 | 43 | Chasity Melvin | 228 |
 | 44 | Sancho Lyttle | 221 |
 | 44 | Skylar Diggins | 221 |
@@ -992,8 +992,8 @@ _Last updated: 2026-05-11 00:14 UTC_
 | 151 | Asjha Jones | 215 |
 | 151 | Candice Wiggins | 215 |
 | 151 | Elena Baranova | 215 |
-| 154 | **Cheyenne Parker-Tyus** 🔴 | 213 |
-| 154 | Shekinna Stricklen | 213 |
+| 154 | **Cheyenne Parker-Tyus** 🔴 +1 | 214 |
+| 155 | Shekinna Stricklen | 213 |
 | 156 | Nikki Teasley | 211 |
 | 157 | Rhyne Howard | 210 |
 | 158 | Iziane Castro Marques | 209 |
