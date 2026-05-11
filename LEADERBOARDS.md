@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-11 01:12 UTC_
+_Last updated: 2026-05-11 01:13 UTC_
 
 ## Contents
 
@@ -153,7 +153,7 @@ _Last updated: 2026-05-11 01:12 UTC_
 | 132 | Merlakia Jones | 2,308 |
 | 133 | Kia Vaughn | 2,288 |
 | 134 | Allison Feaster | 2,258 |
-| 135 | **Kayla Thornton** 🔴 +7 | 2,255 |
+| 134 | **Kayla Thornton** 🔴 +10 | 2,258 |
 | 136 | Shekinna Stricklen | 2,245 |
 | 137 | Betnijah Laney-Hamilton | 2,243 |
 | 138 | Kara Braxton | 2,237 |
@@ -231,7 +231,7 @@ _Last updated: 2026-05-11 01:12 UTC_
 | 5 | Tamika Catchings | 3,313 |
 | 6 | Lisa Leslie | 3,303 |
 | 7 | Nneka Ogwumike | 3,278 |
-| 8 | **DeWanna Bonner** 🔴 +2 | 3,205 |
+| 8 | **DeWanna Bonner** 🔴 +3 | 3,206 |
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
@@ -406,7 +406,7 @@ _Last updated: 2026-05-11 01:12 UTC_
 | 179 | Kelsey Bone | 769 |
 | 179 | Tan White | 769 |
 | 182 | Tully Bevilaqua | 767 |
-| 183 | **Gabby Williams** 🔴 +1 | 765 |
+| 183 | **Gabby Williams** 🔴 +2 | 766 |
 | 184 | Ariel Atkins | 762 |
 | 185 | Layshia Clarendon | 756 |
 | 186 | Brooke Wyckoff | 751 |
@@ -556,7 +556,7 @@ _Last updated: 2026-05-11 01:12 UTC_
 | 124 | Coco Miller | 503 |
 | 126 | Myisha Hines-Allen | 497 |
 | 127 | Rachel Banham | 495 |
-| 128 | **Veronica Burton** 🔴 +5 | 490 |
+| 128 | **Veronica Burton** 🔴 +6 | 491 |
 | 129 | Crystal Robinson | 488 |
 | 129 | Tiffany Mitchell | 488 |
 | 131 | Rebekkah Brunson | 486 |
@@ -1124,7 +1124,7 @@ _Last updated: 2026-05-11 01:12 UTC_
 | 77 | Monique Currie | 284 |
 | 77 | Natisha Hiedeman | 284 |
 | 79 | Iziane Castro Marques | 275 |
-| 80 | **Kayla Thornton** 🔴 +1 | 274 |
+| 79 | **Kayla Thornton** 🔴 +2 | 275 |
 | 81 | Sheryl Swoopes | 270 |
 | 82 | Stefanie Dolson | 267 |
 | 83 | Bridget Carleton | 262 |
