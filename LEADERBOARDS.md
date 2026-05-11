@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-11 00:45 UTC_
+_Last updated: 2026-05-11 00:46 UTC_
 
 ## Contents
 
@@ -662,7 +662,7 @@ _Last updated: 2026-05-11 00:45 UTC_
 | 26 | DeLisha Milton-Jones | 339 |
 | 27 | Yolanda Griffith | 323 |
 | 28 | Elena Baranova | 320 |
-| 28 | **Kiah Stokes** 🔴 +1 | 320 |
+| 29 | **Kiah Stokes** 🔴 | 319 |
 | 30 | Candice Dupree | 316 |
 | 31 | Stefanie Dolson | 306 |
 | 32 | Vicky Bullett | 288 |
