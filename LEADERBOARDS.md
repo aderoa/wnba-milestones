@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-11 00:15 UTC_
+_Last updated: 2026-05-11 00:16 UTC_
 
 ## Contents
 
@@ -138,7 +138,7 @@ _Last updated: 2026-05-11 00:15 UTC_
 | 117 | Leilani Mitchell | 2,618 |
 | 118 | Cynthia Cooper | 2,601 |
 | 119 | Tan White | 2,595 |
-| 120 | **Cheyenne Parker-Tyus** 🔴 | 2,565 |
+| 120 | **Cheyenne Parker-Tyus** 🔴 +2 | 2,567 |
 | 121 | Kelly Miller | 2,558 |
 | 122 | Glory Johnson | 2,531 |
 | 123 | Nikki McCray | 2,521 |
@@ -675,7 +675,7 @@ _Last updated: 2026-05-11 00:15 UTC_
 | 39 | Napheesa Collier | 239 |
 | 40 | Emma Meesseman | 238 |
 | 41 | Azurá Stevens | 230 |
-| 41 | **Brianna Turner** 🔴 +3 | 230 |
+| 42 | **Brianna Turner** 🔴 +2 | 229 |
 | 43 | Chasity Melvin | 228 |
 | 44 | Sancho Lyttle | 221 |
 | 44 | Skylar Diggins | 221 |
