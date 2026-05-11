@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-11 01:17 UTC_
+_Last updated: 2026-05-11 01:18 UTC_
 
 ## Contents
 
@@ -152,7 +152,7 @@ _Last updated: 2026-05-11 01:17 UTC_
 | 131 | Rhyne Howard | 2,329 |
 | 132 | Merlakia Jones | 2,308 |
 | 133 | Kia Vaughn | 2,288 |
-| 134 | **Kayla Thornton** 🔴 +12 | 2,260 |
+| 134 | **Kayla Thornton** 🔴 +14 | 2,262 |
 | 135 | Allison Feaster | 2,258 |
 | 136 | Shekinna Stricklen | 2,245 |
 | 137 | Betnijah Laney-Hamilton | 2,243 |
@@ -265,8 +265,8 @@ _Last updated: 2026-05-11 01:17 UTC_
 | 39 | Lindsay Whalen | 1,805 |
 | 40 | Camille Smith | 1,802 |
 | 41 | Asjha Jones | 1,751 |
-| 42 | Courtney Williams | 1,747 |
-| 42 | **Kiah Stokes** 🔴 +1 | 1,747 |
+| 42 | **Kiah Stokes** 🔴 +2 | 1,748 |
+| 43 | Courtney Williams | 1,747 |
 | 44 | Teaira McCowan | 1,670 |
 | 45 | Monique Currie | 1,666 |
 | 46 | Stefanie Dolson | 1,659 |
@@ -556,7 +556,7 @@ _Last updated: 2026-05-11 01:17 UTC_
 | 124 | Coco Miller | 503 |
 | 126 | Myisha Hines-Allen | 497 |
 | 127 | Rachel Banham | 495 |
-| 128 | **Veronica Burton** 🔴 +6 | 491 |
+| 128 | **Veronica Burton** 🔴 +7 | 492 |
 | 129 | Crystal Robinson | 488 |
 | 129 | Tiffany Mitchell | 488 |
 | 131 | Rebekkah Brunson | 486 |
@@ -956,10 +956,10 @@ _Last updated: 2026-05-11 01:17 UTC_
 | 115 | Michelle Snow | 262 |
 | 116 | Karima Christmas-Kelly | 261 |
 | 117 | Riquna Williams | 260 |
-| 118 | **Kayla Thornton** 🔴 +1 | 256 |
 | 118 | Noelle Quinn | 256 |
-| 120 | Elaine Powell | 255 |
-| 120 | Loree Moore | 255 |
+| 119 | Elaine Powell | 255 |
+| 119 | **Kayla Thornton** 🔴 | 255 |
+| 119 | Loree Moore | 255 |
 | 122 | Ruthie Bolton | 254 |
 | 123 | Kelsey Plum | 253 |
 | 124 | Hamchetou Maiga-Ba | 251 |
