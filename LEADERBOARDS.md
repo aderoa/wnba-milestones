@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-11 00:07 UTC_
+_Last updated: 2026-05-11 00:08 UTC_
 
 ## Contents
 
@@ -1307,8 +1307,8 @@ _Last updated: 2026-05-11 00:07 UTC_
 | 55 | Chasity Melvin | 666 |
 | 56 | **Erica Wheeler** 🔴 | 665 |
 | 56 | Natasha Cloud | 665 |
+| 58 | **Dearica Hamby** 🔴 +3 | 660 |
 | 58 | Vickie Johnson | 660 |
-| 59 | **Dearica Hamby** 🔴 +2 | 659 |
 | 60 | Yolanda Griffith | 653 |
 | 61 | Sheri Sam | 650 |
 | 62 | Courtney Williams | 643 |
