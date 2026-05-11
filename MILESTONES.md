@@ -2,6 +2,11 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-11 02:27 UTC
+
+- **Alyssa Thomas** passed **Ebony Hoffman**, **Essence Carson**, and **Olivia Nelson-Ododa** for **#101** all-time in blocks (career 122) — _2:34 - 4th — PHX @ GS_
+- **Veronica Burton** passed **Rachel Banham** for **#127** all-time in assists (career 496) — up from #131 entering today — _2:34 - 4th — PHX @ GS_
+
 ## 2026-05-11 01:48 UTC
 
 - **Veronica Burton** passed **Amber Jacobs** for **#198** all-time in three-pointers (career 102) — up from #199 entering today — _3:44 - 3rd — PHX @ GS_

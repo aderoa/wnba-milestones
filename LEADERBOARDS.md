@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-11 02:26 UTC_
+_Last updated: 2026-05-11 02:27 UTC_
 
 ## Contents
 
@@ -56,7 +56,7 @@ _Last updated: 2026-05-11 02:26 UTC_
 | 35 | Chamique Holdsclaw | 4,713 |
 | 36 | Elena Delle Donne | 4,706 |
 | 37 | Penny Taylor | 4,595 |
-| 38 | **Alyssa Thomas** 🔴 +17 | 4,505 |
+| 38 | **Alyssa Thomas** 🔴 +19 | 4,507 |
 | 39 | Kristi Toliver | 4,474 |
 | 40 | Arike Ogunbowale | 4,464 |
 | 41 | Crystal Langhorne | 4,433 |
@@ -212,7 +212,7 @@ _Last updated: 2026-05-11 02:26 UTC_
 | 191 | NaLyssa Smith | 1,688 |
 | 191 | Shenise Johnson | 1,688 |
 | 193 | Sophie Cunningham | 1,666 |
-| 194 | **Gabby Williams** 🔴 +13 | 1,610 |
+| 194 | **Gabby Williams** 🔴 +16 | 1,613 |
 | 195 | Janell Burse | 1,580 |
 | 196 | Le'coe Willingham | 1,552 |
 | 197 | Shatori Walker-Kimbrough | 1,544 |
@@ -235,7 +235,7 @@ _Last updated: 2026-05-11 02:26 UTC_
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
-| 12 | **Alyssa Thomas** 🔴 +8 | 2,748 |
+| 12 | **Alyssa Thomas** 🔴 +9 | 2,749 |
 | 13 | Sancho Lyttle | 2,596 |
 | 14 | Jonquel Jones | 2,583 |
 | 15 | DeLisha Milton-Jones | 2,574 |
@@ -555,8 +555,8 @@ _Last updated: 2026-05-11 02:26 UTC_
 | 124 | Anna DeForge | 503 |
 | 124 | Coco Miller | 503 |
 | 126 | Myisha Hines-Allen | 497 |
-| 127 | Rachel Banham | 495 |
-| 127 | **Veronica Burton** 🔴 +10 | 495 |
+| 127 | **Veronica Burton** 🔴 +11 | 496 |
+| 128 | Rachel Banham | 495 |
 | 129 | Crystal Robinson | 488 |
 | 129 | Tiffany Mitchell | 488 |
 | 131 | Rebekkah Brunson | 486 |
@@ -732,11 +732,11 @@ _Last updated: 2026-05-11 02:26 UTC_
 | 95 | Mistie Bass | 126 |
 | 97 | Brionna Jones | 125 |
 | 98 | Monique Billings | 123 |
+| 99 | **Alyssa Thomas** 🔴 +1 | 122 |
 | 99 | Natalie Williams | 122 |
 | 99 | Olivia Nelson-Ododa | 122 |
-| 101 | **Alyssa Thomas** 🔴 | 121 |
-| 101 | Ebony Hoffman | 121 |
-| 101 | Essence Carson | 121 |
+| 102 | Ebony Hoffman | 121 |
+| 102 | Essence Carson | 121 |
 | 104 | Chelsea Gray | 119 |
 | 105 | Krystal Thomas | 118 |
 | 106 | Andrea Stinson | 117 |
@@ -1219,7 +1219,7 @@ _Last updated: 2026-05-11 02:26 UTC_
 | 172 | Charde Houston | 124 |
 | 173 | Lisa Leslie | 123 |
 | 174 | Sidney Spencer | 122 |
-| 175 | **Gabby Williams** 🔴 +2 | 120 |
+| 175 | **Gabby Williams** 🔴 +3 | 121 |
 | 176 | Tonya Edwards | 118 |
 | 177 | Edwige Lawson-Wade | 116 |
 | 177 | Marie Ferdinand-Harris | 116 |
