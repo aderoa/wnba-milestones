@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-11 00:40 UTC_
+_Last updated: 2026-05-11 00:41 UTC_
 
 ## Contents
 
@@ -235,7 +235,7 @@ _Last updated: 2026-05-11 00:40 UTC_
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
-| 12 | **Alyssa Thomas** 🔴 | 2,740 |
+| 12 | **Alyssa Thomas** 🔴 +1 | 2,741 |
 | 13 | Sancho Lyttle | 2,596 |
 | 14 | Jonquel Jones | 2,583 |
 | 15 | DeLisha Milton-Jones | 2,574 |
@@ -266,7 +266,7 @@ _Last updated: 2026-05-11 00:40 UTC_
 | 40 | Camille Smith | 1,802 |
 | 41 | Asjha Jones | 1,751 |
 | 42 | Courtney Williams | 1,747 |
-| 43 | **Kiah Stokes** 🔴 | 1,746 |
+| 42 | **Kiah Stokes** 🔴 +1 | 1,747 |
 | 44 | Teaira McCowan | 1,670 |
 | 45 | Monique Currie | 1,666 |
 | 46 | Stefanie Dolson | 1,659 |
@@ -435,7 +435,7 @@ _Last updated: 2026-05-11 00:40 UTC_
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
 | 6 | Chelsea Gray | 1,875 |
-| 7 | **Alyssa Thomas** 🔴 | 1,820 |
+| 7 | **Alyssa Thomas** 🔴 +1 | 1,821 |
 | 8 | Skylar Diggins | 1,768 |
 | 9 | Natasha Cloud | 1,733 |
 | 10 | Becky Hammon | 1,705 |
@@ -662,7 +662,7 @@ _Last updated: 2026-05-11 00:40 UTC_
 | 26 | DeLisha Milton-Jones | 339 |
 | 27 | Yolanda Griffith | 323 |
 | 28 | Elena Baranova | 320 |
-| 29 | **Kiah Stokes** 🔴 | 319 |
+| 28 | **Kiah Stokes** 🔴 +1 | 320 |
 | 30 | Candice Dupree | 316 |
 | 31 | Stefanie Dolson | 306 |
 | 32 | Vicky Bullett | 288 |
@@ -1263,7 +1263,7 @@ _Last updated: 2026-05-11 00:40 UTC_
 | 11 | Tamika Catchings | 1,041 |
 | 12 | Tina Charles | 1,040 |
 | 13 | Lindsay Whalen | 1,002 |
-| 14 | **Alyssa Thomas** 🔴 | 965 |
+| 14 | **Alyssa Thomas** 🔴 +1 | 966 |
 | 15 | Sylvia Fowles | 961 |
 | 16 | Tanisha Wright | 954 |
 | 17 | Angel McCoughtry | 949 |
@@ -1491,7 +1491,7 @@ _Last updated: 2026-05-11 00:40 UTC_
 | 34 | Mwadi Mabika | 941 |
 | 35 | Tamika Whitmore | 940 |
 | 36 | Courtney Vandersloot | 938 |
-| 37 | **Alyssa Thomas** 🔴 +1 | 926 |
+| 37 | **Alyssa Thomas** 🔴 +2 | 927 |
 | 38 | Briann January | 921 |
 | 39 | Ticha Penicheiro | 913 |
 | 40 | Shavonte Zellous | 907 |
