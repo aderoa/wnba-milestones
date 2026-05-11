@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-05-11T00:50:00+00:00",
+    "text": "Veronica Burton passed Crystal Robinson and Tiffany Mitchell for #128 all-time in assists (career 489) \u2014 up from #131 entering today \u2014 (1:52 - 1st \u2014 PHX @ GS)",
+    "kind": "rank_pass",
+    "player": "Veronica Burton",
+    "stat": "assists",
+    "rank": 128,
+    "passed_players": [
+      "Crystal Robinson",
+      "Tiffany Mitchell"
+    ],
+    "new_total": 489
+  },
+  {
     "ts": "2026-05-11T00:48:00+00:00",
     "text": "Kaila Charles reached 300 career rebounds (now 300) \u2014 (3:28 - 1st \u2014 PHX @ GS)",
     "kind": "round",
