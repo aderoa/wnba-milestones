@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-11 01:51 UTC_
+_Last updated: 2026-05-11 01:52 UTC_
 
 ## Contents
 
@@ -74,7 +74,7 @@ _Last updated: 2026-05-11 01:51 UTC_
 | 53 | Rebekkah Brunson | 4,133 |
 | 54 | Jonquel Jones | 4,109 |
 | 55 | Dearica Hamby | 4,102 |
-| 56 | **Kahleah Copper** 🔴 +6 | 4,089 |
+| 56 | **Kahleah Copper** 🔴 +9 | 4,092 |
 | 57 | Courtney Williams | 4,061 |
 | 58 | Asjha Jones | 3,986 |
 | 59 | Deanna Nolan | 3,971 |
@@ -1100,7 +1100,7 @@ _Last updated: 2026-05-11 01:51 UTC_
 | 53 | Cathrine Kraayeveld | 343 |
 | 53 | Elena Delle Donne | 343 |
 | 55 | Candace Parker | 342 |
-| 56 | **Kahleah Copper** 🔴 | 341 |
+| 55 | **Kahleah Copper** 🔴 +1 | 342 |
 | 57 | Deanna Nolan | 340 |
 | 58 | Anna DeForge | 334 |
 | 59 | Natasha Cloud | 331 |
