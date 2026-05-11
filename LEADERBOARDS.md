@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-11 01:53 UTC_
+_Last updated: 2026-05-11 01:54 UTC_
 
 ## Contents
 
@@ -74,7 +74,7 @@ _Last updated: 2026-05-11 01:53 UTC_
 | 53 | Rebekkah Brunson | 4,133 |
 | 54 | Jonquel Jones | 4,109 |
 | 55 | Dearica Hamby | 4,102 |
-| 56 | **Kahleah Copper** 🔴 +9 | 4,092 |
+| 56 | **Kahleah Copper** 🔴 +11 | 4,094 |
 | 57 | Courtney Williams | 4,061 |
 | 58 | Asjha Jones | 3,986 |
 | 59 | Deanna Nolan | 3,971 |
@@ -435,7 +435,7 @@ _Last updated: 2026-05-11 01:53 UTC_
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
 | 6 | Chelsea Gray | 1,875 |
-| 7 | **Alyssa Thomas** 🔴 +7 | 1,827 |
+| 7 | **Alyssa Thomas** 🔴 +8 | 1,828 |
 | 8 | Skylar Diggins | 1,768 |
 | 9 | Natasha Cloud | 1,733 |
 | 10 | Becky Hammon | 1,705 |
@@ -998,9 +998,9 @@ _Last updated: 2026-05-11 01:53 UTC_
 | 157 | Rhyne Howard | 210 |
 | 158 | Iziane Castro Marques | 209 |
 | 158 | Tiffany Mitchell | 209 |
+| 160 | **Kahleah Copper** 🔴 +1 | 208 |
 | 160 | Kia Vaughn | 208 |
 | 160 | Sophia Witherspoon | 208 |
-| 162 | **Kahleah Copper** 🔴 | 207 |
 | 163 | Shameka Christon | 205 |
 | 164 | Jessica Breland | 204 |
 | 164 | Murriel Page | 204 |
@@ -1434,8 +1434,8 @@ _Last updated: 2026-05-11 01:53 UTC_
 | 182 | Kia Nurse | 314 |
 | 182 | Moriah Jefferson | 314 |
 | 184 | Alex Bentley | 313 |
+| 185 | **Gabby Williams** 🔴 +4 | 311 |
 | 185 | Tamika Raymond | 311 |
-| 186 | **Gabby Williams** 🔴 +3 | 310 |
 | 187 | Erin Perperoglou | 305 |
 | 187 | Jennifer Lacy | 305 |
 | 189 | Tianna Hawkins | 303 |
