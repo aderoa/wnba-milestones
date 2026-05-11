@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-11 01:15 UTC_
+_Last updated: 2026-05-11 01:16 UTC_
 
 ## Contents
 
@@ -235,7 +235,7 @@ _Last updated: 2026-05-11 01:15 UTC_
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
-| 12 | **Alyssa Thomas** 🔴 +3 | 2,743 |
+| 12 | **Alyssa Thomas** 🔴 +4 | 2,744 |
 | 13 | Sancho Lyttle | 2,596 |
 | 14 | Jonquel Jones | 2,583 |
 | 15 | DeLisha Milton-Jones | 2,574 |
@@ -405,8 +405,8 @@ _Last updated: 2026-05-11 01:15 UTC_
 | 179 | Anna DeForge | 769 |
 | 179 | Kelsey Bone | 769 |
 | 179 | Tan White | 769 |
+| 182 | **Gabby Williams** 🔴 +3 | 767 |
 | 182 | Tully Bevilaqua | 767 |
-| 183 | **Gabby Williams** 🔴 +2 | 766 |
 | 184 | Ariel Atkins | 762 |
 | 185 | Layshia Clarendon | 756 |
 | 186 | Brooke Wyckoff | 751 |
@@ -658,7 +658,7 @@ _Last updated: 2026-05-11 01:15 UTC_
 | 22 | Ezi Magbegor | 354 |
 | 23 | Diana Taurasi | 349 |
 | 23 | Elena Delle Donne | 349 |
-| 25 | **DeWanna Bonner** 🔴 | 344 |
+| 25 | **DeWanna Bonner** 🔴 +1 | 345 |
 | 26 | DeLisha Milton-Jones | 339 |
 | 27 | Yolanda Griffith | 323 |
 | 28 | Elena Baranova | 320 |
