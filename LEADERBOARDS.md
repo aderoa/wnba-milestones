@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-11 01:11 UTC_
+_Last updated: 2026-05-11 01:12 UTC_
 
 ## Contents
 
@@ -56,7 +56,7 @@ _Last updated: 2026-05-11 01:11 UTC_
 | 35 | Chamique Holdsclaw | 4,713 |
 | 36 | Elena Delle Donne | 4,706 |
 | 37 | Penny Taylor | 4,595 |
-| 38 | **Alyssa Thomas** 🔴 +6 | 4,494 |
+| 38 | **Alyssa Thomas** 🔴 +8 | 4,496 |
 | 39 | Kristi Toliver | 4,474 |
 | 40 | Arike Ogunbowale | 4,464 |
 | 41 | Crystal Langhorne | 4,433 |
@@ -212,7 +212,7 @@ _Last updated: 2026-05-11 01:11 UTC_
 | 191 | NaLyssa Smith | 1,688 |
 | 191 | Shenise Johnson | 1,688 |
 | 193 | Sophie Cunningham | 1,666 |
-| 194 | **Gabby Williams** 🔴 +5 | 1,602 |
+| 194 | **Gabby Williams** 🔴 +8 | 1,605 |
 | 195 | Janell Burse | 1,580 |
 | 196 | Le'coe Willingham | 1,552 |
 | 197 | Shatori Walker-Kimbrough | 1,544 |
@@ -1219,7 +1219,7 @@ _Last updated: 2026-05-11 01:11 UTC_
 | 172 | Charde Houston | 124 |
 | 173 | Lisa Leslie | 123 |
 | 174 | Sidney Spencer | 122 |
-| 175 | **Gabby Williams** 🔴 +1 | 119 |
+| 175 | **Gabby Williams** 🔴 +2 | 120 |
 | 176 | Tonya Edwards | 118 |
 | 177 | Edwige Lawson-Wade | 116 |
 | 177 | Marie Ferdinand-Harris | 116 |
