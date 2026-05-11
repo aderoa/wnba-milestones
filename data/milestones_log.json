@@ -1,5 +1,14 @@
 [
   {
+    "ts": "2026-05-11T00:12:00+00:00",
+    "text": "Dearica Hamby reached 800 career fouls (now 800) \u2014 (2:59 - 4th \u2014 LV @ LA)",
+    "kind": "round",
+    "player": "Dearica Hamby",
+    "stat": "fouls",
+    "value": 800,
+    "new_total": 800
+  },
+  {
     "ts": "2026-05-11T00:06:00+00:00",
     "text": "Kelsey Plum passed Vickie Johnson for #49 all-time in points (career 4,234) \u2014 up from #51 entering today \u2014 (4:33 - 4th \u2014 LV @ LA)",
     "kind": "rank_pass",

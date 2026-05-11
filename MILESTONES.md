@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-11 00:12 UTC
+
+- **Dearica Hamby** reached **800** career fouls (now 800) — _2:59 - 4th — LV @ LA_
+
 ## 2026-05-11 00:06 UTC
 
 - **Kelsey Plum** passed **Vickie Johnson** for **#49** all-time in points (career 4,234) — up from #51 entering today — _4:33 - 4th — LV @ LA_
