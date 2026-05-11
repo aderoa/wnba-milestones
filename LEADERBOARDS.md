@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-11 00:37 UTC_
+_Last updated: 2026-05-11 00:38 UTC_
 
 ## Contents
 
@@ -1491,7 +1491,7 @@ _Last updated: 2026-05-11 00:37 UTC_
 | 34 | Mwadi Mabika | 941 |
 | 35 | Tamika Whitmore | 940 |
 | 36 | Courtney Vandersloot | 938 |
-| 37 | **Alyssa Thomas** 🔴 | 925 |
+| 37 | **Alyssa Thomas** 🔴 +1 | 926 |
 | 38 | Briann January | 921 |
 | 39 | Ticha Penicheiro | 913 |
 | 40 | Shavonte Zellous | 907 |
