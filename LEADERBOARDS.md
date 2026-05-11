@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-11 01:07 UTC_
+_Last updated: 2026-05-11 01:08 UTC_
 
 ## Contents
 
@@ -935,7 +935,7 @@ _Last updated: 2026-05-11 01:07 UTC_
 | 93 | Ebony Hoffman | 308 |
 | 95 | Tamera Young | 305 |
 | 96 | Kedra Holland-Corn | 301 |
-| 97 | **Gabby Williams** 🔴 +2 | 299 |
+| 97 | **Gabby Williams** 🔴 +3 | 300 |
 | 98 | Lindsey Harding | 295 |
 | 99 | Janel McCarville | 294 |
 | 100 | Kelly Miller | 290 |
@@ -1326,7 +1326,7 @@ _Last updated: 2026-05-11 01:07 UTC_
 | 74 | Lindsey Harding | 600 |
 | 74 | Tamika Whitmore | 600 |
 | 76 | Kelly Miller | 596 |
-| 77 | **Kahleah Copper** 🔴 | 579 |
+| 77 | **Kahleah Copper** 🔴 +1 | 580 |
 | 78 | Stefanie Dolson | 578 |
 | 79 | Helen Darling | 575 |
 | 79 | Nykesha Sales | 575 |
@@ -1444,9 +1444,9 @@ _Last updated: 2026-05-11 01:07 UTC_
 | 192 | Crystal Robinson | 299 |
 | 193 | Michele Timms | 297 |
 | 194 | Caitlin Clark | 289 |
-| 195 | Alexis Hornbuckle | 288 |
-| 195 | **Kayla Thornton** 🔴 | 288 |
-| 195 | Kristen Rasmussen | 288 |
+| 194 | **Kayla Thornton** 🔴 +1 | 289 |
+| 196 | Alexis Hornbuckle | 288 |
+| 196 | Kristen Rasmussen | 288 |
 | 198 | Azurá Stevens | 286 |
 | 199 | Bridget Pettis | 284 |
 | 199 | Rachel Banham | 284 |

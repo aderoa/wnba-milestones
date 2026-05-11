@@ -1,5 +1,27 @@
 [
   {
+    "ts": "2026-05-11T01:08:00+00:00",
+    "text": "Kayla Thornton passed Alexis Hornbuckle and Kristen Rasmussen for #195 all-time in turnovers (career 289) \u2014 up from #196 entering today \u2014 (4:14 - 2nd \u2014 PHX @ GS)",
+    "kind": "rank_pass",
+    "player": "Kayla Thornton",
+    "stat": "turnovers",
+    "rank": 195,
+    "passed_players": [
+      "Alexis Hornbuckle",
+      "Kristen Rasmussen"
+    ],
+    "new_total": 289
+  },
+  {
+    "ts": "2026-05-11T01:08:00+00:00",
+    "text": "Gabby Williams reached 300 career steals (now 300) \u2014 (4:14 - 2nd \u2014 PHX @ GS)",
+    "kind": "round",
+    "player": "Gabby Williams",
+    "stat": "steals",
+    "value": 300,
+    "new_total": 300
+  },
+  {
     "ts": "2026-05-11T01:07:00+00:00",
     "text": "Gabby Williams passed Janel McCarville and Svetlana Abrosimova for #115 all-time in assists (career 552) \u2014 up from #117 entering today \u2014 (4:49 - 2nd \u2014 PHX @ GS)",
     "kind": "rank_pass",
