@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-05-11T01:15:00+00:00",
+    "text": "Kayla Thornton passed Elaine Powell and Loree Moore for #119 all-time in steals (career 256) \u2014 up from #120 entering today \u2014 (2:01 - 2nd \u2014 PHX @ GS)",
+    "kind": "rank_pass",
+    "player": "Kayla Thornton",
+    "stat": "steals",
+    "rank": 119,
+    "passed_players": [
+      "Elaine Powell",
+      "Loree Moore"
+    ],
+    "new_total": 256
+  },
+  {
     "ts": "2026-05-11T01:14:00+00:00",
     "text": "Kayla Thornton passed Allison Feaster for #134 all-time in points (career 2,260) \u2014 up from #135 entering today \u2014 (2:07 - 2nd \u2014 PHX @ GS)",
     "kind": "rank_pass",

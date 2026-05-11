@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-11 01:15 UTC
+
+- **Kayla Thornton** passed **Elaine Powell** and **Loree Moore** for **#119** all-time in steals (career 256) — up from #120 entering today — _2:01 - 2nd — PHX @ GS_
+
 ## 2026-05-11 01:14 UTC
 
 - **Kayla Thornton** passed **Allison Feaster** for **#134** all-time in points (career 2,260) — up from #135 entering today — _2:07 - 2nd — PHX @ GS_
