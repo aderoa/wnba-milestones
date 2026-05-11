@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-11 04:10 UTC_
+_Last updated: 2026-05-11 04:11 UTC_
 
 ## Contents
 
@@ -61,7 +61,7 @@ _Last updated: 2026-05-11 04:10 UTC_
 | 40 | Arike Ogunbowale | 4,464 |
 | 41 | Crystal Langhorne | 4,433 |
 | 41 | Jia Perkins | 4,433 |
-| 43 | Chelsea Gray | 4,425 |
+| 43 | Chelsea Gray | 4,414 |
 | 44 | Natasha Howard | 4,367 |
 | 45 | Courtney Vandersloot | 4,352 |
 | 46 | Sophia Young-Malcolm | 4,300 |
@@ -322,9 +322,9 @@ _Last updated: 2026-05-11 04:10 UTC_
 | 95 | Jia Perkins | 1,220 |
 | 97 | Myisha Hines-Allen | 1,208 |
 | 98 | DeMya Walker | 1,199 |
-| 99 | Chelsea Gray | 1,191 |
-| 100 | Latasha Byears | 1,190 |
-| 100 | Tanisha Wright | 1,190 |
+| 99 | Chelsea Gray | 1,190 |
+| 99 | Latasha Byears | 1,190 |
+| 99 | Tanisha Wright | 1,190 |
 | 102 | Vicky Bullett | 1,189 |
 | 103 | Kayla McBride | 1,182 |
 | 104 | Nykesha Sales | 1,148 |
@@ -434,7 +434,7 @@ _Last updated: 2026-05-11 04:10 UTC_
 | 3 | Ticha Penicheiro | 2,588 |
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
-| 6 | Chelsea Gray | 1,875 |
+| 6 | Chelsea Gray | 1,872 |
 | 7 | Alyssa Thomas | 1,831 |
 | 8 | Skylar Diggins | 1,768 |
 | 9 | Natasha Cloud | 1,733 |
@@ -1080,7 +1080,7 @@ _Last updated: 2026-05-11 04:10 UTC_
 | 33 | Crystal Robinson | 425 |
 | 33 | Skylar Diggins | 425 |
 | 35 | Mwadi Mabika | 415 |
-| 36 | Chelsea Gray | 414 |
+| 36 | Chelsea Gray | 411 |
 | 37 | Penny Taylor | 407 |
 | 37 | Riquna Williams | 407 |
 | 39 | Jia Perkins | 396 |
@@ -1272,7 +1272,7 @@ _Last updated: 2026-05-11 04:10 UTC_
 | 20 | Shannon Johnson | 934 |
 | 21 | Taj McWilliams-Franklin | 898 |
 | 22 | Skylar Diggins | 879 |
-| 23 | Chelsea Gray | 875 |
+| 23 | Chelsea Gray | 871 |
 | 24 | Candice Dupree | 869 |
 | 25 | Alana Beard | 854 |
 | 26 | DeWanna Bonner | 827 |
@@ -1573,8 +1573,8 @@ _Last updated: 2026-05-11 04:10 UTC_
 | 116 | Svetlana Abrosimova | 613 |
 | 117 | Kiah Stokes | 611 |
 | 118 | Layshia Clarendon | 609 |
-| 119 | Chelsea Gray | 606 |
-| 120 | Tiffany Mitchell | 604 |
+| 119 | Chelsea Gray | 604 |
+| 119 | Tiffany Mitchell | 604 |
 | 121 | Janel McCarville | 597 |
 | 121 | Odyssey Sims | 597 |
 | 123 | Kamila Vodichkova | 596 |
