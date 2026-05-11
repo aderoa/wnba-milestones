@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-11 01:43 UTC_
+_Last updated: 2026-05-11 01:44 UTC_
 
 ## Contents
 
@@ -21,7 +21,7 @@ _Last updated: 2026-05-11 01:43 UTC_
 |-----:|--------|------:|
 | 1 | Diana Taurasi | 10,608 |
 | 2 | Tina Charles | 8,396 |
-| 3 | **DeWanna Bonner** 🔴 | 7,805 |
+| 3 | **DeWanna Bonner** 🔴 +2 | 7,807 |
 | 4 | Tina Thompson | 7,470 |
 | 5 | Tamika Catchings | 7,371 |
 | 6 | Nneka Ogwumike | 7,324 |
@@ -231,11 +231,11 @@ _Last updated: 2026-05-11 01:43 UTC_
 | 5 | Tamika Catchings | 3,313 |
 | 6 | Lisa Leslie | 3,303 |
 | 7 | Nneka Ogwumike | 3,278 |
-| 8 | **DeWanna Bonner** 🔴 +5 | 3,208 |
+| 8 | **DeWanna Bonner** 🔴 +6 | 3,209 |
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
-| 12 | **Alyssa Thomas** 🔴 +6 | 2,746 |
+| 12 | **Alyssa Thomas** 🔴 +7 | 2,747 |
 | 13 | Sancho Lyttle | 2,596 |
 | 14 | Jonquel Jones | 2,583 |
 | 15 | DeLisha Milton-Jones | 2,574 |
@@ -435,7 +435,7 @@ _Last updated: 2026-05-11 01:43 UTC_
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
 | 6 | Chelsea Gray | 1,875 |
-| 7 | **Alyssa Thomas** 🔴 +5 | 1,825 |
+| 7 | **Alyssa Thomas** 🔴 +6 | 1,826 |
 | 8 | Skylar Diggins | 1,768 |
 | 9 | Natasha Cloud | 1,733 |
 | 10 | Becky Hammon | 1,705 |
@@ -1275,7 +1275,7 @@ _Last updated: 2026-05-11 01:43 UTC_
 | 23 | Chelsea Gray | 875 |
 | 24 | Candice Dupree | 869 |
 | 25 | Alana Beard | 854 |
-| 26 | **DeWanna Bonner** 🔴 +1 | 827 |
+| 26 | **DeWanna Bonner** 🔴 +2 | 828 |
 | 27 | Katie Douglas | 824 |
 | 28 | Betty Lennox | 800 |
 | 29 | Jasmine Thomas | 796 |
@@ -1495,7 +1495,7 @@ _Last updated: 2026-05-11 01:43 UTC_
 | 38 | Briann January | 921 |
 | 39 | Ticha Penicheiro | 913 |
 | 40 | Shavonte Zellous | 907 |
-| 41 | **DeWanna Bonner** 🔴 | 891 |
+| 41 | **DeWanna Bonner** 🔴 +1 | 892 |
 | 42 | Alysha Clark | 883 |
 | 43 | DeMya Walker | 882 |
 | 44 | Candice Dupree | 876 |
