@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-13 04:04 UTC_
+_Last updated: 2026-05-13 04:05 UTC_
 
 ## Contents
 
@@ -231,7 +231,7 @@ _Last updated: 2026-05-13 04:04 UTC_
 | 5 | Tamika Catchings | 3,313 |
 | 6 | Lisa Leslie | 3,303 |
 | 7 | Nneka Ogwumike | 3,268 |
-| 8 | **DeWanna Bonner** 🔴 +6 | 3,209 |
+| 8 | **DeWanna Bonner** 🔴 +7 | 3,210 |
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
@@ -390,7 +390,7 @@ _Last updated: 2026-05-13 04:04 UTC_
 | 163 | Barbara Farris | 819 |
 | 165 | Marina Mabrey | 818 |
 | 166 | Carolyn Swords | 814 |
-| 167 | **Nia Coffey** 🔴 +8 | 803 |
+| 167 | **Nia Coffey** 🔴 +9 | 804 |
 | 168 | Tierra Ruffin-Pratt | 799 |
 | 169 | Charlotte Smith | 794 |
 | 170 | **Betnijah Laney-Hamilton** 🔴 +3 | 788 |
@@ -1649,7 +1649,7 @@ _Last updated: 2026-05-13 04:04 UTC_
 | 193 | Sue Wicks | 462 |
 | 194 | Natalie Achonwa | 459 |
 | 195 | Kara Lawson | 457 |
-| 196 | **Nia Coffey** 🔴 +4 | 452 |
+| 196 | **Nia Coffey** 🔴 +5 | 453 |
 | 197 | Alexis Hornbuckle | 450 |
 | 198 | Bria Hartley | 448 |
 | 199 | Alanna Smith | 445 |
