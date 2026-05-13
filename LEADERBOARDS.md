@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-13 00:21 UTC_
+_Last updated: 2026-05-13 00:22 UTC_
 
 ## Contents
 
@@ -170,8 +170,8 @@ _Last updated: 2026-05-13 00:21 UTC_
 | 149 | Layshia Clarendon | 2,168 |
 | 150 | Satou Sabally | 2,161 |
 | 151 | Murriel Page | 2,146 |
-| 152 | Marissa Coleman | 2,140 |
-| 153 | **Jordin Canada** 🔴 +7 | 2,139 |
+| 152 | **Jordin Canada** 🔴 +9 | 2,141 |
+| 153 | Marissa Coleman | 2,140 |
 | 154 | Tari Phillips | 2,134 |
 | 155 | Cheryl Ford | 2,116 |
 | 156 | Elena Baranova | 2,110 |
@@ -383,7 +383,7 @@ _Last updated: 2026-05-13 00:21 UTC_
 | 157 | Essence Carson | 833 |
 | 158 | Kristi Toliver | 829 |
 | 159 | Marie Ferdinand-Harris | 828 |
-| 160 | **Angel Reese** 🔴 +1 | 824 |
+| 160 | **Angel Reese** 🔴 +2 | 825 |
 | 161 | Marlies Askamp | 822 |
 | 162 | Amanda Zahui B | 819 |
 | 162 | Barbara Farris | 819 |
