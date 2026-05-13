@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-13 02:08 UTC_
+_Last updated: 2026-05-13 02:09 UTC_
 
 ## Contents
 
@@ -62,7 +62,7 @@ _Last updated: 2026-05-13 02:08 UTC_
 | 41 | Crystal Langhorne | 4,433 |
 | 41 | Jia Perkins | 4,433 |
 | 43 | Chelsea Gray | 4,409 |
-| 44 | **Natasha Howard** 🔴 | 4,367 |
+| 44 | **Natasha Howard** 🔴 +1 | 4,368 |
 | 45 | Courtney Vandersloot | 4,352 |
 | 46 | Sophia Young-Malcolm | 4,300 |
 | 47 | Plenette Pierson | 4,258 |
@@ -231,7 +231,7 @@ _Last updated: 2026-05-13 02:08 UTC_
 | 5 | Tamika Catchings | 3,313 |
 | 6 | Lisa Leslie | 3,303 |
 | 7 | Nneka Ogwumike | 3,268 |
-| 8 | **DeWanna Bonner** 🔴 | 3,203 |
+| 8 | **DeWanna Bonner** 🔴 +1 | 3,204 |
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
@@ -770,9 +770,9 @@ _Last updated: 2026-05-13 02:08 UTC_
 | 133 | Tiffani Johnson | 96 |
 | 135 | Imani McGee-Stafford | 95 |
 | 135 | Isabelle Harrison | 95 |
+| 137 | **Emily Engstler** 🔴 +2 | 94 |
 | 137 | Sandrine Gruda | 94 |
-| 138 | **Emily Engstler** 🔴 +1 | 93 |
-| 138 | Kamilla Cardoso | 93 |
+| 139 | Kamilla Cardoso | 93 |
 | 140 | Jasmine Thomas | 91 |
 | 140 | Jewell Loyd | 91 |
 | 140 | Kayla Alexander | 91 |
