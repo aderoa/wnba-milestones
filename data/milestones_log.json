@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-13T23:51:00+00:00",
+    "text": "Brittney Sykes passed Chamique Holdsclaw for #96 all-time in fouls (career 668) \u2014 up from #97 entering today \u2014 (0.0 - 2nd \u2014 SEA @ TOR)",
+    "kind": "rank_pass",
+    "player": "Brittney Sykes",
+    "stat": "fouls",
+    "rank": 96,
+    "passed_players": [
+      "Chamique Holdsclaw"
+    ],
+    "new_total": 668
+  },
+  {
     "ts": "2026-05-13T23:46:00+00:00",
     "text": "Brittney Sykes passed Brooke Wyckoff and Cathrine Kraayeveld for #91 all-time in blocks (career 130) \u2014 (1:45 - 2nd \u2014 SEA @ TOR)",
     "kind": "rank_pass",
@@ -2951,17 +2963,5 @@
       "Svetlana Abrosimova"
     ],
     "new_total": 353
-  },
-  {
-    "ts": "2026-05-09T00:48:00+00:00",
-    "text": "Marina Mabrey passed Jessica Shepard for #165 all-time in rebounds (career 814) \u2014 (5:19 - 3rd \u2014 WSH @ TOR)",
-    "kind": "rank_pass",
-    "player": "Marina Mabrey",
-    "stat": "rebounds",
-    "rank": 165,
-    "passed_players": [
-      "Jessica Shepard"
-    ],
-    "new_total": 814
   }
 ]
