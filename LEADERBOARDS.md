@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-13 00:15 UTC_
+_Last updated: 2026-05-13 00:16 UTC_
 
 ## Contents
 
@@ -388,8 +388,8 @@ _Last updated: 2026-05-13 00:15 UTC_
 | 162 | Amanda Zahui B | 819 |
 | 162 | Barbara Farris | 819 |
 | 164 | Marina Mabrey | 818 |
-| 165 | Carolyn Swords | 814 |
-| 165 | **Jessica Shepard** 🔴 +1 | 814 |
+| 165 | **Jessica Shepard** 🔴 +2 | 815 |
+| 166 | Carolyn Swords | 814 |
 | 167 | Tierra Ruffin-Pratt | 799 |
 | 168 | Nia Coffey | 795 |
 | 169 | Charlotte Smith | 794 |
@@ -627,7 +627,7 @@ _Last updated: 2026-05-13 00:15 UTC_
 | 195 | Penny Toler | 345 |
 | 197 | Ezi Magbegor | 344 |
 | 198 | Sonja Henning | 341 |
-| 199 | **Jessica Shepard** 🔴 +1 | 338 |
+| 199 | **Jessica Shepard** 🔴 +2 | 339 |
 | 200 | Alexis Hornbuckle | 336 |
 
 ## Blocks
