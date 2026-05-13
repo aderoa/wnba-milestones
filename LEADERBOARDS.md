@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-13 02:11 UTC_
+_Last updated: 2026-05-13 02:12 UTC_
 
 ## Contents
 
@@ -72,9 +72,9 @@ _Last updated: 2026-05-13 02:11 UTC_
 | 51 | Kelsey Plum | 4,207 |
 | 52 | Allisha Gray | 4,183 |
 | 53 | Rebekkah Brunson | 4,133 |
-| 54 | **Jonquel Jones** 🔴 | 4,096 |
+| 54 | **Jonquel Jones** 🔴 +3 | 4,099 |
 | 55 | Dearica Hamby | 4,090 |
-| 56 | **Kahleah Copper** 🔴 | 4,083 |
+| 56 | **Kahleah Copper** 🔴 +2 | 4,085 |
 | 57 | **Courtney Williams** 🔴 | 4,061 |
 | 58 | Asjha Jones | 3,986 |
 | 59 | Deanna Nolan | 3,971 |
@@ -391,7 +391,7 @@ _Last updated: 2026-05-13 02:11 UTC_
 | 165 | Marina Mabrey | 818 |
 | 166 | Carolyn Swords | 814 |
 | 167 | Tierra Ruffin-Pratt | 799 |
-| 168 | **Nia Coffey** 🔴 +2 | 797 |
+| 168 | **Nia Coffey** 🔴 +3 | 798 |
 | 169 | Charlotte Smith | 794 |
 | 170 | Rhonda Mapp | 788 |
 | 171 | **Betnijah Laney-Hamilton** 🔴 +1 | 786 |
@@ -435,7 +435,7 @@ _Last updated: 2026-05-13 02:11 UTC_
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
 | 6 | Chelsea Gray | 1,870 |
-| 7 | **Alyssa Thomas** 🔴 +1 | 1,821 |
+| 7 | **Alyssa Thomas** 🔴 +2 | 1,822 |
 | 8 | Skylar Diggins | 1,768 |
 | 9 | Natasha Cloud | 1,733 |
 | 10 | Becky Hammon | 1,705 |
@@ -535,7 +535,7 @@ _Last updated: 2026-05-13 02:11 UTC_
 | 104 | Natisha Hiedeman | 584 |
 | 105 | Tan White | 578 |
 | 106 | Matee Ajavon | 577 |
-| 107 | **Betnijah Laney-Hamilton** 🔴 +1 | 574 |
+| 107 | **Betnijah Laney-Hamilton** 🔴 +2 | 575 |
 | 108 | Napheesa Collier | 570 |
 | 109 | Nicole Powell | 567 |
 | 110 | Loree Moore | 562 |
@@ -1093,7 +1093,7 @@ _Last updated: 2026-05-13 02:11 UTC_
 | 45 | Rachel Banham | 372 |
 | 48 | Epiphanny Prince | 368 |
 | 49 | Rhyne Howard | 367 |
-| 50 | **Jonquel Jones** 🔴 | 357 |
+| 50 | **Jonquel Jones** 🔴 +1 | 358 |
 | 51 | Kia Nurse | 356 |
 | 52 | Nykesha Sales | 352 |
 | 53 | Cathrine Kraayeveld | 343 |
@@ -1279,7 +1279,7 @@ _Last updated: 2026-05-13 02:11 UTC_
 | 28 | Betty Lennox | 800 |
 | 29 | Jasmine Thomas | 796 |
 | 30 | Chamique Holdsclaw | 789 |
-| 31 | **Natasha Howard** 🔴 | 784 |
+| 31 | **Natasha Howard** 🔴 +1 | 785 |
 | 32 | Crystal Langhorne | 782 |
 | 32 | Nneka Ogwumike | 782 |
 | 34 | Jewell Loyd | 780 |
@@ -1590,7 +1590,7 @@ _Last updated: 2026-05-13 02:11 UTC_
 | 134 | Ivory Latta | 565 |
 | 135 | Barbara Farris | 563 |
 | 136 | Jessica Breland | 562 |
-| 137 | **Courtney Williams** 🔴 | 553 |
+| 137 | **Courtney Williams** 🔴 +1 | 554 |
 | 138 | Dawn Staley | 551 |
 | 139 | Glory Johnson | 550 |
 | 139 | Tierra Ruffin-Pratt | 550 |
