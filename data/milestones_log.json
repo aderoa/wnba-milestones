@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-05-13T01:53:00+00:00",
+    "text": "Jordin Canada passed Lauren Jackson and Tan White for #59 all-time in steals (career 361) \u2014 up from #61 entering today \u2014 (4:11 - 4th \u2014 ATL @ DAL)",
+    "kind": "rank_pass",
+    "player": "Jordin Canada",
+    "stat": "steals",
+    "rank": 59,
+    "passed_players": [
+      "Lauren Jackson",
+      "Tan White"
+    ],
+    "new_total": 361
+  },
+  {
     "ts": "2026-05-13T01:52:00+00:00",
     "text": "Jordin Canada passed Murriel Page for #151 all-time in points (career 2,148) \u2014 up from #154 entering today \u2014 (4:54 - 4th \u2014 ATL @ DAL)",
     "kind": "rank_pass",

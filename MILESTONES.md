@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-13 01:53 UTC
+
+- **Jordin Canada** passed **Lauren Jackson** and **Tan White** for **#59** all-time in steals (career 361) — up from #61 entering today — _4:11 - 4th — ATL @ DAL_
+
 ## 2026-05-13 01:52 UTC
 
 - **Jordin Canada** passed **Murriel Page** for **#151** all-time in points (career 2,148) — up from #154 entering today — _4:54 - 4th — ATL @ DAL_
