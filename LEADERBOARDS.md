@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-13 02:37 UTC_
+_Last updated: 2026-05-13 02:38 UTC_
 
 ## Contents
 
@@ -242,7 +242,7 @@ _Last updated: 2026-05-13 02:37 UTC_
 | 16 | Brittney Griner | 2,531 |
 | 17 | Swin Cash | 2,521 |
 | 18 | A'ja Wilson | 2,494 |
-| 19 | **Breanna Stewart** 🔴 +4 | 2,488 |
+| 19 | **Breanna Stewart** 🔴 +5 | 2,489 |
 | 20 | Michelle Snow | 2,476 |
 | 21 | Crystal Langhorne | 2,454 |
 | 22 | Lauren Jackson | 2,444 |
@@ -646,7 +646,7 @@ _Last updated: 2026-05-13 02:37 UTC_
 | 10 | Ruth Riley | 505 |
 | 11 | Elizabeth Williams | 483 |
 | 12 | Taj McWilliams-Franklin | 443 |
-| 13 | **Breanna Stewart** 🔴 +2 | 430 |
+| 13 | **Breanna Stewart** 🔴 +3 | 431 |
 | 14 | Tina Charles | 428 |
 | 15 | **Jonquel Jones** 🔴 | 405 |
 | 16 | Michelle Snow | 403 |
@@ -1325,7 +1325,7 @@ _Last updated: 2026-05-13 02:37 UTC_
 | 74 | Lindsey Harding | 600 |
 | 74 | Tamika Whitmore | 600 |
 | 76 | Kelly Miller | 596 |
-| 77 | **Kahleah Copper** 🔴 +1 | 580 |
+| 77 | **Kahleah Copper** 🔴 +2 | 581 |
 | 78 | Stefanie Dolson | 577 |
 | 79 | Helen Darling | 575 |
 | 79 | Nykesha Sales | 575 |
@@ -1529,7 +1529,7 @@ _Last updated: 2026-05-13 02:37 UTC_
 | 73 | Latasha Byears | 730 |
 | 74 | Kristi Toliver | 722 |
 | 75 | Natasha Cloud | 718 |
-| 76 | **Kahleah Copper** 🔴 | 715 |
+| 76 | **Kahleah Copper** 🔴 +1 | 716 |
 | 77 | Cheryl Ford | 713 |
 | 78 | Jia Perkins | 711 |
 | 79 | Helen Darling | 709 |
