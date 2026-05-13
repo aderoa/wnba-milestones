@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-13 03:13 UTC_
+_Last updated: 2026-05-13 03:14 UTC_
 
 ## Contents
 
@@ -62,7 +62,7 @@ _Last updated: 2026-05-13 03:13 UTC_
 | 41 | Crystal Langhorne | 4,433 |
 | 41 | Jia Perkins | 4,433 |
 | 43 | Chelsea Gray | 4,409 |
-| 44 | **Natasha Howard** 🔴 +6 | 4,373 |
+| 44 | **Natasha Howard** 🔴 +8 | 4,375 |
 | 45 | Courtney Vandersloot | 4,352 |
 | 46 | Sophia Young-Malcolm | 4,300 |
 | 47 | Plenette Pierson | 4,258 |
@@ -251,7 +251,7 @@ _Last updated: 2026-05-13 03:13 UTC_
 | 25 | Dearica Hamby | 2,317 |
 | 26 | Erika de Souza | 2,220 |
 | 27 | Diana Taurasi | 2,201 |
-| 28 | **Natasha Howard** 🔴 +5 | 2,179 |
+| 28 | **Natasha Howard** 🔴 +6 | 2,180 |
 | 29 | Margo Dydek | 2,138 |
 | 30 | Chamique Holdsclaw | 2,123 |
 | 31 | Chasity Melvin | 2,097 |
@@ -527,8 +527,8 @@ _Last updated: 2026-05-13 03:13 UTC_
 | 96 | Alysha Clark | 614 |
 | 97 | A'ja Wilson | 613 |
 | 98 | Debbie Black | 612 |
-| 99 | Cynthia Cooper | 602 |
-| 99 | **Jonquel Jones** 🔴 +2 | 602 |
+| 99 | **Jonquel Jones** 🔴 +3 | 603 |
+| 100 | Cynthia Cooper | 602 |
 | 101 | Sancho Lyttle | 592 |
 | 102 | Camille Smith | 590 |
 | 103 | Armintie Herrington | 589 |
