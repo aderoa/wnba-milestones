@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-13T02:49:00+00:00",
+    "text": "Betnijah Laney-Hamilton passed Kayla Thornton for #135 all-time in points (career 2,250) \u2014 up from #137 entering today \u2014 (37.4 - 2nd \u2014 NY @ POR)",
+    "kind": "rank_pass",
+    "player": "Betnijah Laney-Hamilton",
+    "stat": "points",
+    "rank": 135,
+    "passed_players": [
+      "Kayla Thornton"
+    ],
+    "new_total": 2250
+  },
+  {
     "ts": "2026-05-13T02:42:00+00:00",
     "text": "Courtney Williams passed Bria Hartley for #86 all-time in three-pointers (career 254) \u2014 up from #87 entering today \u2014 (4:32 - 2nd \u2014 MIN @ PHX)",
     "kind": "rank_pass",

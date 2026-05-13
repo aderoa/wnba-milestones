@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-13 02:49 UTC
+
+- **Betnijah Laney-Hamilton** passed **Kayla Thornton** for **#135** all-time in points (career 2,250) — up from #137 entering today — _37.4 - 2nd — NY @ POR_
+
 ## 2026-05-13 02:42 UTC
 
 - **Courtney Williams** passed **Bria Hartley** for **#86** all-time in three-pointers (career 254) — up from #87 entering today — _4:32 - 2nd — MIN @ PHX_
