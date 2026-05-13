@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-13 02:00 UTC
+
+- **Alysha Clark** passed **Nicole Powell** for **#65** all-time in rebounds (career 1,458) — up from #66 entering today — _1:10 - 4th — ATL @ DAL_
+
 ## 2026-05-13 01:53 UTC
 
 - **Jordin Canada** passed **Lauren Jackson** and **Tan White** for **#59** all-time in steals (career 361) — up from #61 entering today — _4:11 - 4th — ATL @ DAL_

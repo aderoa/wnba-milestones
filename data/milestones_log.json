@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-13T02:00:00+00:00",
+    "text": "Alysha Clark passed Nicole Powell for #65 all-time in rebounds (career 1,458) \u2014 up from #66 entering today \u2014 (1:10 - 4th \u2014 ATL @ DAL)",
+    "kind": "rank_pass",
+    "player": "Alysha Clark",
+    "stat": "rebounds",
+    "rank": 65,
+    "passed_players": [
+      "Nicole Powell"
+    ],
+    "new_total": 1458
+  },
+  {
     "ts": "2026-05-13T01:53:00+00:00",
     "text": "Jordin Canada passed Lauren Jackson and Tan White for #59 all-time in steals (career 361) \u2014 up from #61 entering today \u2014 (4:11 - 4th \u2014 ATL @ DAL)",
     "kind": "rank_pass",
