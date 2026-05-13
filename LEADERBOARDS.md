@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-13 01:22 UTC_
+_Last updated: 2026-05-13 01:23 UTC_
 
 ## Contents
 
@@ -149,7 +149,7 @@ _Last updated: 2026-05-13 01:22 UTC_
 | 128 | Anna DeForge | 2,413 |
 | 129 | DeMya Walker | 2,379 |
 | 130 | Alex Bentley | 2,350 |
-| 131 | **Rhyne Howard** 🔴 +13 | 2,342 |
+| 131 | **Rhyne Howard** 🔴 +14 | 2,343 |
 | 132 | Merlakia Jones | 2,308 |
 | 133 | Kia Vaughn | 2,288 |
 | 134 | Allison Feaster | 2,258 |
@@ -387,8 +387,8 @@ _Last updated: 2026-05-13 01:22 UTC_
 | 161 | Marlies Askamp | 822 |
 | 162 | Amanda Zahui B | 819 |
 | 162 | Barbara Farris | 819 |
+| 164 | **Jessica Shepard** 🔴 +5 | 818 |
 | 164 | Marina Mabrey | 818 |
-| 165 | **Jessica Shepard** 🔴 +4 | 817 |
 | 166 | Carolyn Swords | 814 |
 | 167 | Tierra Ruffin-Pratt | 799 |
 | 168 | Nia Coffey | 795 |
@@ -416,7 +416,7 @@ _Last updated: 2026-05-13 01:22 UTC_
 | 190 | Shenise Johnson | 729 |
 | 191 | Sami Whitcomb | 726 |
 | 191 | Shekinna Stricklen | 726 |
-| 193 | **Arike Ogunbowale** 🔴 +2 | 724 |
+| 193 | **Arike Ogunbowale** 🔴 +3 | 725 |
 | 194 | Kelsey Plum | 715 |
 | 195 | Olympia Scott | 711 |
 | 196 | Katie Mattera | 708 |
