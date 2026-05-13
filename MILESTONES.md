@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-13 04:06 UTC
+
+- **Nia Coffey** passed **Shavonte Zellous** and **Tianna Hawkins** for **#127** all-time in three-pointers (career 168) — up from #129 entering today — _25.6 - 4th — MIN @ PHX_
+
 ## 2026-05-13 03:46 UTC
 
 - **Natasha Mack** passed **Courtney Williams**, **Deanna Nolan**, and **Dearica Hamby** for **#123** all-time in blocks (career 102) — up from #129 entering today — _8:11 - 4th — MIN @ PHX_

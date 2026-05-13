@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-13 04:05 UTC_
+_Last updated: 2026-05-13 04:06 UTC_
 
 ## Contents
 
@@ -235,7 +235,7 @@ _Last updated: 2026-05-13 04:05 UTC_
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
-| 12 | **Alyssa Thomas** 🔴 +2 | 2,742 |
+| 12 | **Alyssa Thomas** 🔴 +3 | 2,743 |
 | 13 | Sancho Lyttle | 2,596 |
 | 14 | **Jonquel Jones** 🔴 +7 | 2,582 |
 | 15 | DeLisha Milton-Jones | 2,574 |
@@ -251,7 +251,7 @@ _Last updated: 2026-05-13 04:05 UTC_
 | 25 | Dearica Hamby | 2,317 |
 | 26 | Erika de Souza | 2,220 |
 | 27 | Diana Taurasi | 2,201 |
-| 28 | **Natasha Howard** 🔴 +10 | 2,184 |
+| 28 | **Natasha Howard** 🔴 +11 | 2,185 |
 | 29 | Margo Dydek | 2,138 |
 | 30 | Chamique Holdsclaw | 2,123 |
 | 31 | Chasity Melvin | 2,097 |
@@ -265,7 +265,7 @@ _Last updated: 2026-05-13 04:05 UTC_
 | 39 | Lindsay Whalen | 1,805 |
 | 40 | Camille Smith | 1,802 |
 | 41 | Asjha Jones | 1,751 |
-| 42 | **Courtney Williams** 🔴 +3 | 1,750 |
+| 41 | **Courtney Williams** 🔴 +4 | 1,751 |
 | 43 | Kiah Stokes | 1,746 |
 | 44 | Teaira McCowan | 1,670 |
 | 45 | Monique Currie | 1,666 |
@@ -654,7 +654,7 @@ _Last updated: 2026-05-13 04:05 UTC_
 | 18 | Tina Thompson | 372 |
 | 19 | Erika de Souza | 370 |
 | 20 | Jessica Breland | 367 |
-| 21 | **Natasha Howard** 🔴 +1 | 358 |
+| 21 | **Natasha Howard** 🔴 | 357 |
 | 22 | Ezi Magbegor | 354 |
 | 23 | Diana Taurasi | 349 |
 | 23 | Elena Delle Donne | 349 |
@@ -1170,9 +1170,9 @@ _Last updated: 2026-05-13 04:05 UTC_
 | 123 | Tayler Hill | 174 |
 | 125 | Theresa Plaisance | 172 |
 | 126 | Amanda Lassiter | 170 |
-| 127 | **Nia Coffey** 🔴 +2 | 167 |
-| 127 | Shavonte Zellous | 167 |
-| 127 | Tianna Hawkins | 167 |
+| 127 | **Nia Coffey** 🔴 +3 | 168 |
+| 128 | Shavonte Zellous | 167 |
+| 128 | Tianna Hawkins | 167 |
 | 130 | Charlotte Smith | 164 |
 | 131 | Ukari Figgs | 162 |
 | 132 | Edna Campbell | 161 |

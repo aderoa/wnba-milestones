@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-05-13T04:06:00+00:00",
+    "text": "Nia Coffey passed Shavonte Zellous and Tianna Hawkins for #127 all-time in three-pointers (career 168) \u2014 up from #129 entering today \u2014 (25.6 - 4th \u2014 MIN @ PHX)",
+    "kind": "rank_pass",
+    "player": "Nia Coffey",
+    "stat": "three-pointers",
+    "rank": 127,
+    "passed_players": [
+      "Shavonte Zellous",
+      "Tianna Hawkins"
+    ],
+    "new_total": 168
+  },
+  {
     "ts": "2026-05-13T03:46:00+00:00",
     "text": "Natasha Mack passed Courtney Williams, Deanna Nolan, and Dearica Hamby for #123 all-time in blocks (career 102) \u2014 up from #129 entering today \u2014 (8:11 - 4th \u2014 MIN @ PHX)",
     "kind": "rank_pass",
