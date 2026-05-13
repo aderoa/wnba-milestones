@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-13T23:38:00+00:00",
+    "text": "Brittney Sykes passed Chiney Ogwumike for #112 all-time in rebounds (career 1,111) \u2014 up from #114 entering today \u2014 (4:42 - 2nd \u2014 SEA @ TOR)",
+    "kind": "rank_pass",
+    "player": "Brittney Sykes",
+    "stat": "rebounds",
+    "rank": 112,
+    "passed_players": [
+      "Chiney Ogwumike"
+    ],
+    "new_total": 1111
+  },
+  {
     "ts": "2026-05-13T23:37:00+00:00",
     "text": "Julie Allemand passed Riquna Williams for #172 all-time in assists (career 388) \u2014 up from #173 entering today \u2014 (5:13 - 2nd \u2014 SEA @ TOR)",
     "kind": "rank_pass",
@@ -2951,17 +2963,5 @@
       "Seimone Augustus"
     ],
     "new_total": 6006
-  },
-  {
-    "ts": "2026-05-09T00:44:00+00:00",
-    "text": "Marina Mabrey passed Lauren Jackson for #29 all-time in three-pointers (career 437) \u2014 (7:51 - 3rd \u2014 WSH @ TOR)",
-    "kind": "rank_pass",
-    "player": "Marina Mabrey",
-    "stat": "three-pointers",
-    "rank": 29,
-    "passed_players": [
-      "Lauren Jackson"
-    ],
-    "new_total": 437
   }
 ]

@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-13 23:38 UTC
+
+- **Brittney Sykes** passed **Chiney Ogwumike** for **#112** all-time in rebounds (career 1,111) — up from #114 entering today — _4:42 - 2nd — SEA @ TOR_
+
 ## 2026-05-13 23:37 UTC
 
 - **Julie Allemand** passed **Riquna Williams** for **#172** all-time in assists (career 388) — up from #173 entering today — _5:13 - 2nd — SEA @ TOR_
