@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-13 03:57 UTC_
+_Last updated: 2026-05-13 03:58 UTC_
 
 ## Contents
 
@@ -73,7 +73,7 @@ _Last updated: 2026-05-13 03:57 UTC_
 | 52 | Allisha Gray | 4,183 |
 | 53 | Rebekkah Brunson | 4,133 |
 | 54 | **Jonquel Jones** 🔴 +15 | 4,111 |
-| 55 | **Kahleah Copper** 🔴 +26 | 4,109 |
+| 54 | **Kahleah Copper** 🔴 +28 | 4,111 |
 | 56 | Dearica Hamby | 4,090 |
 | 57 | **Courtney Williams** 🔴 +11 | 4,072 |
 | 58 | Asjha Jones | 3,986 |
@@ -231,7 +231,7 @@ _Last updated: 2026-05-13 03:57 UTC_
 | 5 | Tamika Catchings | 3,313 |
 | 6 | Lisa Leslie | 3,303 |
 | 7 | Nneka Ogwumike | 3,268 |
-| 8 | **DeWanna Bonner** 🔴 +5 | 3,208 |
+| 8 | **DeWanna Bonner** 🔴 +6 | 3,209 |
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
@@ -1335,7 +1335,7 @@ _Last updated: 2026-05-13 03:57 UTC_
 | 84 | Sancho Lyttle | 563 |
 | 85 | Brittney Sykes | 558 |
 | 86 | Tan White | 557 |
-| 87 | **Breanna Stewart** 🔴 +1 | 550 |
+| 87 | **Breanna Stewart** 🔴 +2 | 551 |
 | 88 | Kelsey Mitchell | 549 |
 | 88 | Lauren Jackson | 549 |
 | 90 | Matee Ajavon | 544 |
@@ -1494,7 +1494,7 @@ _Last updated: 2026-05-13 03:57 UTC_
 | 38 | Briann January | 921 |
 | 39 | Ticha Penicheiro | 913 |
 | 40 | Shavonte Zellous | 907 |
-| 41 | **DeWanna Bonner** 🔴 +2 | 893 |
+| 41 | **DeWanna Bonner** 🔴 +3 | 894 |
 | 42 | Alysha Clark | 885 |
 | 43 | DeMya Walker | 882 |
 | 44 | Candice Dupree | 876 |
@@ -1554,8 +1554,8 @@ _Last updated: 2026-05-13 03:57 UTC_
 | 98 | Tianna Hawkins | 662 |
 | 99 | Cheyenne Parker-Tyus | 660 |
 | 100 | Kelsey Plum | 658 |
+| 101 | **Breanna Stewart** 🔴 +5 | 648 |
 | 101 | Tari Phillips | 648 |
-| 102 | **Breanna Stewart** 🔴 +4 | 647 |
 | 103 | Marie Ferdinand-Harris | 646 |
 | 104 | Jewell Loyd | 644 |
 | 105 | Kayla Thornton | 640 |
