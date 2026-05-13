@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-13 03:37 UTC_
+_Last updated: 2026-05-13 03:38 UTC_
 
 ## Contents
 
@@ -237,7 +237,7 @@ _Last updated: 2026-05-13 03:37 UTC_
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | **Alyssa Thomas** 🔴 +2 | 2,742 |
 | 13 | Sancho Lyttle | 2,596 |
-| 14 | **Jonquel Jones** 🔴 +4 | 2,579 |
+| 14 | **Jonquel Jones** 🔴 +6 | 2,581 |
 | 15 | DeLisha Milton-Jones | 2,574 |
 | 16 | Brittney Griner | 2,531 |
 | 17 | Swin Cash | 2,521 |
@@ -1318,8 +1318,8 @@ _Last updated: 2026-05-13 03:37 UTC_
 | 67 | Odyssey Sims | 617 |
 | 68 | Rebekkah Brunson | 615 |
 | 69 | Seimone Augustus | 613 |
-| 70 | **Jonquel Jones** 🔴 +3 | 611 |
-| 70 | Kelsey Plum | 611 |
+| 70 | **Jonquel Jones** 🔴 +4 | 612 |
+| 71 | Kelsey Plum | 611 |
 | 72 | Tiffany Hayes | 605 |
 | 73 | Teresa Weatherspoon | 601 |
 | 74 | Lindsey Harding | 600 |
@@ -1590,7 +1590,7 @@ _Last updated: 2026-05-13 03:37 UTC_
 | 134 | Ivory Latta | 565 |
 | 135 | Barbara Farris | 563 |
 | 136 | Jessica Breland | 562 |
-| 137 | **Courtney Williams** 🔴 +1 | 554 |
+| 137 | **Courtney Williams** 🔴 +2 | 555 |
 | 138 | Dawn Staley | 551 |
 | 139 | Glory Johnson | 550 |
 | 139 | Tierra Ruffin-Pratt | 550 |

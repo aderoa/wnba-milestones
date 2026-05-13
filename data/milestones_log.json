@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-13T03:38:00+00:00",
+    "text": "Jonquel Jones passed Kelsey Plum for #70 all-time in turnovers (career 612) \u2014 up from #71 entering today \u2014 (7:26 - 4th \u2014 NY @ POR)",
+    "kind": "rank_pass",
+    "player": "Jonquel Jones",
+    "stat": "turnovers",
+    "rank": 70,
+    "passed_players": [
+      "Kelsey Plum"
+    ],
+    "new_total": 612
+  },
+  {
     "ts": "2026-05-13T03:36:00+00:00",
     "text": "Kahleah Copper passed Kia Vaughn and Sophia Witherspoon for #160 all-time in steals (career 209) \u2014 up from #162 entering today \u2014 (44.4 - 3rd \u2014 MIN @ PHX)",
     "kind": "rank_pass",

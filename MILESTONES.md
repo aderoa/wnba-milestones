@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-13 03:38 UTC
+
+- **Jonquel Jones** passed **Kelsey Plum** for **#70** all-time in turnovers (career 612) — up from #71 entering today — _7:26 - 4th — NY @ POR_
+
 ## 2026-05-13 03:36 UTC
 
 - **Kahleah Copper** passed **Kia Vaughn** and **Sophia Witherspoon** for **#160** all-time in steals (career 209) — up from #162 entering today — _44.4 - 3rd — MIN @ PHX_
