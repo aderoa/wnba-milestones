@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-13 01:39 UTC_
+_Last updated: 2026-05-13 01:40 UTC_
 
 ## Contents
 
@@ -385,9 +385,9 @@ _Last updated: 2026-05-13 01:39 UTC_
 | 159 | Kristi Toliver | 829 |
 | 160 | Marie Ferdinand-Harris | 828 |
 | 161 | Marlies Askamp | 822 |
-| 162 | Amanda Zahui B | 819 |
-| 162 | Barbara Farris | 819 |
-| 162 | **Jessica Shepard** 🔴 +6 | 819 |
+| 162 | **Jessica Shepard** 🔴 +7 | 820 |
+| 163 | Amanda Zahui B | 819 |
+| 163 | Barbara Farris | 819 |
 | 165 | Marina Mabrey | 818 |
 | 166 | Carolyn Swords | 814 |
 | 167 | Tierra Ruffin-Pratt | 799 |
@@ -400,8 +400,8 @@ _Last updated: 2026-05-13 01:39 UTC_
 | 174 | Lindsey Harding | 779 |
 | 175 | Tiffani Johnson | 778 |
 | 176 | **Odyssey Sims** 🔴 | 776 |
+| 177 | **Naz Hillmon** 🔴 +2 | 775 |
 | 177 | Teresa Weatherspoon | 775 |
-| 178 | **Naz Hillmon** 🔴 +1 | 774 |
 | 179 | Anna DeForge | 769 |
 | 179 | Kelsey Bone | 769 |
 | 179 | Tan White | 769 |
