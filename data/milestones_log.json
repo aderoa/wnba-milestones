@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-13T02:34:00+00:00",
+    "text": "Betnijah Laney-Hamilton passed Tiffany Mitchell for #127 all-time in turnovers (career 440) \u2014 up from #131 entering today \u2014 (7:28 - 2nd \u2014 NY @ POR)",
+    "kind": "rank_pass",
+    "player": "Betnijah Laney-Hamilton",
+    "stat": "turnovers",
+    "rank": 127,
+    "passed_players": [
+      "Tiffany Mitchell"
+    ],
+    "new_total": 440
+  },
+  {
     "ts": "2026-05-13T02:29:00+00:00",
     "text": "Betnijah Laney-Hamilton passed Kedra Holland-Corn for #128 all-time in turnovers (career 439) \u2014 up from #131 entering today \u2014 (8:44 - 2nd \u2014 NY @ POR)",
     "kind": "rank_pass",

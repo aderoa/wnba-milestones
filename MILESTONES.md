@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-13 02:34 UTC
+
+- **Betnijah Laney-Hamilton** passed **Tiffany Mitchell** for **#127** all-time in turnovers (career 440) — up from #131 entering today — _7:28 - 2nd — NY @ POR_
+
 ## 2026-05-13 02:29 UTC
 
 - **Betnijah Laney-Hamilton** passed **Kedra Holland-Corn** for **#128** all-time in turnovers (career 439) — up from #131 entering today — _8:44 - 2nd — NY @ POR_

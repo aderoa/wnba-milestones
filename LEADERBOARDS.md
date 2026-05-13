@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-13 02:33 UTC_
+_Last updated: 2026-05-13 02:34 UTC_
 
 ## Contents
 
@@ -1375,8 +1375,8 @@ _Last updated: 2026-05-13 02:33 UTC_
 | 123 | Jantel Lavender | 444 |
 | 125 | A'ja Wilson | 441 |
 | 126 | Ann Wauters | 440 |
-| 127 | **Betnijah Laney-Hamilton** 🔴 +2 | 439 |
-| 127 | Tiffany Mitchell | 439 |
+| 126 | **Betnijah Laney-Hamilton** 🔴 +3 | 440 |
+| 128 | Tiffany Mitchell | 439 |
 | 129 | Kedra Holland-Corn | 438 |
 | 130 | Alysha Clark | 437 |
 | 130 | Ariel Atkins | 437 |
