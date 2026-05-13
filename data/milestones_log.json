@@ -1,5 +1,26 @@
 [
   {
+    "ts": "2026-05-13T02:17:00+00:00",
+    "text": "Nia Coffey reached 800 career rebounds (now 800) \u2014 (3:19 - 1st \u2014 MIN @ PHX)",
+    "kind": "round",
+    "player": "Nia Coffey",
+    "stat": "rebounds",
+    "value": 800,
+    "new_total": 800
+  },
+  {
+    "ts": "2026-05-13T02:17:00+00:00",
+    "text": "Nia Coffey passed Tierra Ruffin-Pratt for #167 all-time in rebounds (career 800) \u2014 up from #168 entering today \u2014 (3:19 - 1st \u2014 MIN @ PHX)",
+    "kind": "rank_pass",
+    "player": "Nia Coffey",
+    "stat": "rebounds",
+    "rank": 167,
+    "passed_players": [
+      "Tierra Ruffin-Pratt"
+    ],
+    "new_total": 800
+  },
+  {
     "ts": "2026-05-13T02:07:00+00:00",
     "text": "Betnijah Laney-Hamilton passed Temeka Johnson and Tina Charles for #110 all-time in three-pointers (career 198) \u2014 (7:25 - 1st \u2014 NY @ POR)",
     "kind": "rank_pass",

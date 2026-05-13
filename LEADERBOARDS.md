@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-13 02:16 UTC_
+_Last updated: 2026-05-13 02:17 UTC_
 
 ## Contents
 
@@ -62,7 +62,7 @@ _Last updated: 2026-05-13 02:16 UTC_
 | 41 | Crystal Langhorne | 4,433 |
 | 41 | Jia Perkins | 4,433 |
 | 43 | Chelsea Gray | 4,409 |
-| 44 | **Natasha Howard** 🔴 +3 | 4,370 |
+| 44 | **Natasha Howard** 🔴 +5 | 4,372 |
 | 45 | Courtney Vandersloot | 4,352 |
 | 46 | Sophia Young-Malcolm | 4,300 |
 | 47 | Plenette Pierson | 4,258 |
@@ -242,7 +242,7 @@ _Last updated: 2026-05-13 02:16 UTC_
 | 16 | Brittney Griner | 2,531 |
 | 17 | Swin Cash | 2,521 |
 | 18 | A'ja Wilson | 2,494 |
-| 19 | **Breanna Stewart** 🔴 +2 | 2,486 |
+| 19 | **Breanna Stewart** 🔴 +3 | 2,487 |
 | 20 | Michelle Snow | 2,476 |
 | 21 | Crystal Langhorne | 2,454 |
 | 22 | Lauren Jackson | 2,444 |
@@ -251,7 +251,7 @@ _Last updated: 2026-05-13 02:16 UTC_
 | 25 | Dearica Hamby | 2,317 |
 | 26 | Erika de Souza | 2,220 |
 | 27 | Diana Taurasi | 2,201 |
-| 28 | **Natasha Howard** 🔴 +1 | 2,175 |
+| 28 | **Natasha Howard** 🔴 +4 | 2,178 |
 | 29 | Margo Dydek | 2,138 |
 | 30 | Chamique Holdsclaw | 2,123 |
 | 31 | Chasity Melvin | 2,097 |
@@ -390,8 +390,8 @@ _Last updated: 2026-05-13 02:16 UTC_
 | 163 | Barbara Farris | 819 |
 | 165 | Marina Mabrey | 818 |
 | 166 | Carolyn Swords | 814 |
-| 167 | **Nia Coffey** 🔴 +4 | 799 |
-| 167 | Tierra Ruffin-Pratt | 799 |
+| 167 | **Nia Coffey** 🔴 +5 | 800 |
+| 168 | Tierra Ruffin-Pratt | 799 |
 | 169 | Charlotte Smith | 794 |
 | 170 | Rhonda Mapp | 788 |
 | 171 | **Betnijah Laney-Hamilton** 🔴 +1 | 786 |
@@ -711,8 +711,8 @@ _Last updated: 2026-05-13 02:16 UTC_
 | 75 | Ann Wauters | 153 |
 | 75 | Sue Wicks | 153 |
 | 77 | Allisha Gray | 152 |
-| 78 | Jessica Davenport | 151 |
-| 78 | **Nia Coffey** 🔴 | 151 |
+| 77 | **Nia Coffey** 🔴 +1 | 152 |
+| 79 | Jessica Davenport | 151 |
 | 80 | Alison Bales | 148 |
 | 81 | Chamique Holdsclaw | 143 |
 | 82 | Aliyah Boston | 140 |
@@ -1279,7 +1279,7 @@ _Last updated: 2026-05-13 02:16 UTC_
 | 28 | Betty Lennox | 800 |
 | 29 | Jasmine Thomas | 796 |
 | 30 | Chamique Holdsclaw | 789 |
-| 31 | **Natasha Howard** 🔴 +1 | 785 |
+| 31 | **Natasha Howard** 🔴 +2 | 786 |
 | 32 | Crystal Langhorne | 782 |
 | 32 | Nneka Ogwumike | 782 |
 | 34 | Jewell Loyd | 780 |

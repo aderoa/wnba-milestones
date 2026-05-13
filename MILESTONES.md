@@ -2,6 +2,11 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-13 02:17 UTC
+
+- **Nia Coffey** reached **800** career rebounds (now 800) — _3:19 - 1st — MIN @ PHX_
+- **Nia Coffey** passed **Tierra Ruffin-Pratt** for **#167** all-time in rebounds (career 800) — up from #168 entering today — _3:19 - 1st — MIN @ PHX_
+
 ## 2026-05-13 02:07 UTC
 
 - **Betnijah Laney-Hamilton** passed **Temeka Johnson** and **Tina Charles** for **#110** all-time in three-pointers (career 198) — _7:25 - 1st — NY @ POR_
