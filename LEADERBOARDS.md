@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-13 00:30 UTC_
+_Last updated: 2026-05-13 00:31 UTC_
 
 ## Contents
 
@@ -89,7 +89,7 @@ _Last updated: 2026-05-13 00:30 UTC_
 | 67 | Shannon Johnson | 3,542 |
 | 69 | Renee Montgomery | 3,533 |
 | 70 | Jasmine Thomas | 3,522 |
-| 71 | **Odyssey Sims** 🔴 +2 | 3,516 |
+| 71 | **Odyssey Sims** 🔴 +5 | 3,519 |
 | 72 | Tamecka Dixon | 3,507 |
 | 73 | Tammy Sutton-Brown | 3,498 |
 | 74 | Sancho Lyttle | 3,478 |
@@ -289,7 +289,7 @@ _Last updated: 2026-05-13 00:30 UTC_
 | 63 | Ticha Penicheiro | 1,485 |
 | 64 | Sue Bird | 1,466 |
 | 65 | Nicole Powell | 1,457 |
-| 66 | **Alysha Clark** 🔴 +1 | 1,455 |
+| 66 | **Alysha Clark** 🔴 +2 | 1,456 |
 | 67 | Tamera Young | 1,433 |
 | 68 | Cheyenne Parker-Tyus | 1,424 |
 | 69 | Alana Beard | 1,420 |
@@ -379,11 +379,11 @@ _Last updated: 2026-05-13 00:30 UTC_
 | 153 | Krystal Thomas | 862 |
 | 154 | Erica Wheeler | 852 |
 | 155 | Leilani Mitchell | 845 |
-| 156 | **Alanna Smith** 🔴 +3 | 837 |
+| 156 | **Alanna Smith** 🔴 +4 | 838 |
 | 157 | Essence Carson | 833 |
 | 158 | Kristi Toliver | 829 |
 | 159 | Marie Ferdinand-Harris | 828 |
-| 160 | **Angel Reese** 🔴 +3 | 826 |
+| 160 | **Angel Reese** 🔴 +4 | 827 |
 | 161 | Marlies Askamp | 822 |
 | 162 | Amanda Zahui B | 819 |
 | 162 | Barbara Farris | 819 |
@@ -401,7 +401,7 @@ _Last updated: 2026-05-13 00:30 UTC_
 | 175 | Tiffani Johnson | 778 |
 | 176 | **Odyssey Sims** 🔴 | 776 |
 | 177 | Teresa Weatherspoon | 775 |
-| 178 | **Naz Hillmon** 🔴 | 773 |
+| 178 | **Naz Hillmon** 🔴 +1 | 774 |
 | 179 | Anna DeForge | 769 |
 | 179 | Kelsey Bone | 769 |
 | 179 | Tan White | 769 |
@@ -613,9 +613,9 @@ _Last updated: 2026-05-13 00:30 UTC_
 | 182 | Andrea Nagy | 361 |
 | 182 | Diamond DeShields | 361 |
 | 182 | Erlana Larkins | 361 |
-| 185 | **Alanna Smith** 🔴 | 355 |
-| 185 | Kayla Thornton | 355 |
-| 185 | Merlakia Jones | 355 |
+| 185 | **Alanna Smith** 🔴 +1 | 356 |
+| 186 | Kayla Thornton | 355 |
+| 186 | Merlakia Jones | 355 |
 | 188 | Bridget Carleton | 352 |
 | 188 | Charlotte Smith | 352 |
 | 188 | Ruthie Bolton | 352 |
@@ -1142,7 +1142,7 @@ _Last updated: 2026-05-13 00:30 UTC_
 | 96 | Stacey Dales | 232 |
 | 97 | Brittney Sykes | 231 |
 | 97 | Nneka Ogwumike | 231 |
-| 99 | **Odyssey Sims** 🔴 | 229 |
+| 99 | **Odyssey Sims** 🔴 +1 | 230 |
 | 100 | Elena Baranova | 224 |
 | 101 | Essence Carson | 223 |
 | 102 | Kelly Mazzante | 218 |
