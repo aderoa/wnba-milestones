@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-13 01:03 UTC_
+_Last updated: 2026-05-13 01:04 UTC_
 
 ## Contents
 
@@ -300,8 +300,8 @@ _Last updated: 2026-05-13 01:03 UTC_
 | 74 | Ebony Hoffman | 1,376 |
 | 75 | Sheri Sam | 1,356 |
 | 76 | Tamika Whitmore | 1,355 |
+| 77 | **Allisha Gray** 🔴 +3 | 1,350 |
 | 77 | Emma Meesseman | 1,350 |
-| 78 | **Allisha Gray** 🔴 +2 | 1,349 |
 | 79 | Monique Billings | 1,345 |
 | 80 | Elena Baranova | 1,335 |
 | 81 | Brionna Jones | 1,333 |
@@ -381,7 +381,7 @@ _Last updated: 2026-05-13 01:03 UTC_
 | 155 | Leilani Mitchell | 845 |
 | 156 | **Alanna Smith** 🔴 +6 | 840 |
 | 157 | Essence Carson | 833 |
-| 158 | **Angel Reese** 🔴 +7 | 830 |
+| 158 | **Angel Reese** 🔴 +8 | 831 |
 | 159 | Kristi Toliver | 829 |
 | 160 | Marie Ferdinand-Harris | 828 |
 | 161 | Marlies Askamp | 822 |
