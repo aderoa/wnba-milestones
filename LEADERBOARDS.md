@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-13 02:06 UTC_
+_Last updated: 2026-05-13 02:07 UTC_
 
 ## Contents
 
@@ -155,7 +155,7 @@ _Last updated: 2026-05-13 02:06 UTC_
 | 134 | Allison Feaster | 2,258 |
 | 135 | Kayla Thornton | 2,248 |
 | 136 | Shekinna Stricklen | 2,245 |
-| 137 | **Betnijah Laney-Hamilton** 🔴 | 2,240 |
+| 137 | **Betnijah Laney-Hamilton** 🔴 +3 | 2,243 |
 | 138 | Kara Braxton | 2,237 |
 | 138 | Matee Ajavon | 2,237 |
 | 140 | Dawn Staley | 2,228 |
@@ -242,7 +242,7 @@ _Last updated: 2026-05-13 02:06 UTC_
 | 16 | Brittney Griner | 2,531 |
 | 17 | Swin Cash | 2,521 |
 | 18 | A'ja Wilson | 2,494 |
-| 19 | **Breanna Stewart** 🔴 | 2,484 |
+| 19 | **Breanna Stewart** 🔴 +1 | 2,485 |
 | 20 | Michelle Snow | 2,476 |
 | 21 | Crystal Langhorne | 2,454 |
 | 22 | Lauren Jackson | 2,444 |
@@ -394,8 +394,8 @@ _Last updated: 2026-05-13 02:06 UTC_
 | 168 | **Nia Coffey** 🔴 +1 | 796 |
 | 169 | Charlotte Smith | 794 |
 | 170 | Rhonda Mapp | 788 |
+| 171 | **Betnijah Laney-Hamilton** 🔴 +1 | 786 |
 | 171 | Mercedes Russell | 786 |
-| 172 | **Betnijah Laney-Hamilton** 🔴 | 785 |
 | 173 | Sue Wicks | 780 |
 | 174 | Lindsey Harding | 779 |
 | 175 | Tiffani Johnson | 778 |
@@ -563,7 +563,7 @@ _Last updated: 2026-05-13 02:06 UTC_
 | 131 | Veronica Burton | 485 |
 | 133 | Ukari Figgs | 470 |
 | 134 | Janeth Arcain | 469 |
-| 135 | **Kahleah Copper** 🔴 | 463 |
+| 135 | **Kahleah Copper** 🔴 +1 | 464 |
 | 136 | Erin Phillips | 462 |
 | 137 | Sylvia Fowles | 461 |
 | 138 | Sydney Colson | 454 |
@@ -646,8 +646,8 @@ _Last updated: 2026-05-13 02:06 UTC_
 | 10 | Ruth Riley | 505 |
 | 11 | Elizabeth Williams | 483 |
 | 12 | Taj McWilliams-Franklin | 443 |
-| 13 | **Breanna Stewart** 🔴 | 428 |
-| 13 | Tina Charles | 428 |
+| 13 | **Breanna Stewart** 🔴 +2 | 430 |
+| 14 | Tina Charles | 428 |
 | 15 | **Jonquel Jones** 🔴 | 405 |
 | 16 | Michelle Snow | 403 |
 | 17 | Tamika Catchings | 383 |
@@ -771,8 +771,8 @@ _Last updated: 2026-05-13 02:06 UTC_
 | 135 | Imani McGee-Stafford | 95 |
 | 135 | Isabelle Harrison | 95 |
 | 137 | Sandrine Gruda | 94 |
+| 138 | **Emily Engstler** 🔴 +1 | 93 |
 | 138 | Kamilla Cardoso | 93 |
-| 139 | **Emily Engstler** 🔴 | 92 |
 | 140 | Jasmine Thomas | 91 |
 | 140 | Jewell Loyd | 91 |
 | 140 | Kayla Alexander | 91 |
@@ -1152,9 +1152,9 @@ _Last updated: 2026-05-13 02:06 UTC_
 | 106 | Andrea Stinson | 207 |
 | 106 | Damiris Dantas | 207 |
 | 108 | Shanna Zolman | 199 |
-| 109 | **Betnijah Laney-Hamilton** 🔴 | 197 |
-| 109 | Temeka Johnson | 197 |
-| 109 | Tina Charles | 197 |
+| 109 | **Betnijah Laney-Hamilton** 🔴 +1 | 198 |
+| 110 | Temeka Johnson | 197 |
+| 110 | Tina Charles | 197 |
 | 112 | Lexie Brown | 194 |
 | 113 | Lindsay Whalen | 193 |
 | 114 | Victoria Vivians | 192 |
@@ -1314,7 +1314,7 @@ _Last updated: 2026-05-13 02:06 UTC_
 | 62 | Dawn Staley | 643 |
 | 64 | Ruth Riley | 637 |
 | 65 | Svetlana Abrosimova | 631 |
-| 66 | **Kayla McBride** 🔴 | 622 |
+| 66 | **Kayla McBride** 🔴 +1 | 623 |
 | 67 | Odyssey Sims | 617 |
 | 68 | Rebekkah Brunson | 615 |
 | 69 | Seimone Augustus | 613 |

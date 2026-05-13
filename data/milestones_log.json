@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-05-13T02:07:00+00:00",
+    "text": "Betnijah Laney-Hamilton passed Temeka Johnson and Tina Charles for #110 all-time in three-pointers (career 198) \u2014 (7:25 - 1st \u2014 NY @ POR)",
+    "kind": "rank_pass",
+    "player": "Betnijah Laney-Hamilton",
+    "stat": "three-pointers",
+    "rank": 110,
+    "passed_players": [
+      "Temeka Johnson",
+      "Tina Charles"
+    ],
+    "new_total": 198
+  },
+  {
     "ts": "2026-05-13T02:05:00+00:00",
     "text": "Courtney Williams passed Deanna Nolan and Dearica Hamby for #124 all-time in blocks (career 102) \u2014 (8:51 - 1st \u2014 MIN @ PHX)",
     "kind": "rank_pass",

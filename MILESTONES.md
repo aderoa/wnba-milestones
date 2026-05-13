@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-13 02:07 UTC
+
+- **Betnijah Laney-Hamilton** passed **Temeka Johnson** and **Tina Charles** for **#110** all-time in three-pointers (career 198) — _7:25 - 1st — NY @ POR_
+
 ## 2026-05-13 02:05 UTC
 
 - **Courtney Williams** passed **Deanna Nolan** and **Dearica Hamby** for **#124** all-time in blocks (career 102) — _8:51 - 1st — MIN @ PHX_
