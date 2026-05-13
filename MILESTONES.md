@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-13 23:15 UTC
+
+- **Marina Mabrey** reached **2,900** career points (now 2,901) — _4:04 - 1st — SEA @ TOR_
+
 ## 2026-05-13 23:06 UTC
 
 - **Brittney Sykes** passed **Becky Hammon** for **#113** all-time in rebounds (career 1,109) — up from #114 entering today — _7:26 - 1st — SEA @ TOR_

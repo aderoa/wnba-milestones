@@ -1,5 +1,14 @@
 [
   {
+    "ts": "2026-05-13T23:15:00+00:00",
+    "text": "Marina Mabrey reached 2,900 career points (now 2,901) \u2014 (4:04 - 1st \u2014 SEA @ TOR)",
+    "kind": "round",
+    "player": "Marina Mabrey",
+    "stat": "points",
+    "value": 2900,
+    "new_total": 2901
+  },
+  {
     "ts": "2026-05-13T23:06:00+00:00",
     "text": "Brittney Sykes passed Becky Hammon for #113 all-time in rebounds (career 1,109) \u2014 up from #114 entering today \u2014 (7:26 - 1st \u2014 SEA @ TOR)",
     "kind": "rank_pass",
