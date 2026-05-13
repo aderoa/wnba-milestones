@@ -2,6 +2,11 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-13 23:06 UTC
+
+- **Brittney Sykes** passed **Becky Hammon** for **#113** all-time in rebounds (career 1,109) — up from #114 entering today — _7:26 - 1st — SEA @ TOR_
+- **Marina Mabrey** passed **Natalie Williams** for **#99** all-time in points (career 2,896) — _7:26 - 1st — SEA @ TOR_
+
 ## 2026-05-13 04:06 UTC
 
 - **Nia Coffey** passed **Shavonte Zellous** and **Tianna Hawkins** for **#127** all-time in three-pointers (career 168) — up from #129 entering today — _25.6 - 4th — MIN @ PHX_

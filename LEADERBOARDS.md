@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-13 23:05 UTC_
+_Last updated: 2026-05-13 23:06 UTC_
 
 ## Contents
 
@@ -106,8 +106,8 @@ _Last updated: 2026-05-13 23:05 UTC_
 | 85 | Tanisha Wright | 3,324 |
 | 86 | Margo Dydek | 3,214 |
 | 87 | Danielle Robinson | 3,160 |
-| 88 | Wendy Palmer | 3,135 |
-| 89 | **Stefanie Dolson** 🔴 | 3,134 |
+| 88 | **Stefanie Dolson** 🔴 +3 | 3,137 |
+| 89 | Wendy Palmer | 3,135 |
 | 90 | Shavonte Zellous | 3,103 |
 | 91 | Briann January | 3,082 |
 | 92 | Erica Wheeler | 3,060 |
@@ -116,8 +116,8 @@ _Last updated: 2026-05-13 23:05 UTC_
 | 95 | Sabrina Ionescu | 3,030 |
 | 96 | Marie Ferdinand-Harris | 3,001 |
 | 97 | Emma Meesseman | 2,966 |
-| 98 | **Marina Mabrey** 🔴 | 2,894 |
-| 98 | Natalie Williams | 2,894 |
+| 98 | **Marina Mabrey** 🔴 +2 | 2,896 |
+| 99 | Natalie Williams | 2,894 |
 | 100 | Jennifer Gillom | 2,888 |
 | 101 | Natasha Cloud | 2,863 |
 | 102 | Iziane Castro Marques | 2,862 |
@@ -336,8 +336,8 @@ _Last updated: 2026-05-13 23:05 UTC_
 | 110 | Adrienne Goodson | 1,126 |
 | 111 | Deanna Nolan | 1,112 |
 | 112 | Chiney Ogwumike | 1,110 |
-| 113 | Becky Hammon | 1,108 |
-| 113 | **Brittney Sykes** 🔴 | 1,108 |
+| 113 | **Brittney Sykes** 🔴 +1 | 1,109 |
+| 114 | Becky Hammon | 1,108 |
 | 115 | Ann Wauters | 1,105 |
 | 116 | Natasha Cloud | 1,080 |
 | 117 | Svetlana Abrosimova | 1,078 |
@@ -532,7 +532,7 @@ _Last updated: 2026-05-13 23:05 UTC_
 | 101 | Sancho Lyttle | 592 |
 | 102 | Camille Smith | 590 |
 | 103 | Armintie Herrington | 589 |
-| 104 | **Natisha Hiedeman** 🔴 +1 | 585 |
+| 104 | **Natisha Hiedeman** 🔴 +2 | 586 |
 | 105 | Tan White | 578 |
 | 106 | Matee Ajavon | 577 |
 | 107 | Betnijah Laney-Hamilton | 573 |
@@ -664,7 +664,7 @@ _Last updated: 2026-05-13 23:05 UTC_
 | 28 | Elena Baranova | 320 |
 | 29 | Kiah Stokes | 319 |
 | 30 | Candice Dupree | 316 |
-| 31 | **Stefanie Dolson** 🔴 | 306 |
+| 31 | **Stefanie Dolson** 🔴 +1 | 307 |
 | 32 | Vicky Bullett | 288 |
 | 33 | Rebekkah Brunson | 281 |
 | 34 | Liz Cambage | 264 |
@@ -1125,7 +1125,7 @@ _Last updated: 2026-05-13 23:05 UTC_
 | 79 | Iziane Castro Marques | 275 |
 | 80 | Kayla Thornton | 273 |
 | 81 | Sheryl Swoopes | 270 |
-| 82 | **Stefanie Dolson** 🔴 | 267 |
+| 82 | **Stefanie Dolson** 🔴 +1 | 268 |
 | 83 | Bridget Carleton | 262 |
 | 84 | Sophia Witherspoon | 260 |
 | 85 | Dawn Staley | 254 |
