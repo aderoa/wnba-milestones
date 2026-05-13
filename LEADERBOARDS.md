@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-13 03:31 UTC_
+_Last updated: 2026-05-13 03:32 UTC_
 
 ## Contents
 
@@ -21,7 +21,7 @@ _Last updated: 2026-05-13 03:31 UTC_
 |-----:|--------|------:|
 | 1 | Diana Taurasi | 10,608 |
 | 2 | Tina Charles | 8,396 |
-| 3 | **DeWanna Bonner** 🔴 +14 | 7,819 |
+| 3 | **DeWanna Bonner** 🔴 +16 | 7,821 |
 | 4 | Tina Thompson | 7,470 |
 | 5 | Tamika Catchings | 7,371 |
 | 6 | Nneka Ogwumike | 7,305 |
@@ -73,7 +73,7 @@ _Last updated: 2026-05-13 03:31 UTC_
 | 52 | Allisha Gray | 4,183 |
 | 53 | Rebekkah Brunson | 4,133 |
 | 54 | **Jonquel Jones** 🔴 +13 | 4,109 |
-| 55 | **Kahleah Copper** 🔴 +17 | 4,100 |
+| 55 | **Kahleah Copper** 🔴 +19 | 4,102 |
 | 56 | Dearica Hamby | 4,090 |
 | 57 | **Courtney Williams** 🔴 +7 | 4,068 |
 | 58 | Asjha Jones | 3,986 |
@@ -251,7 +251,7 @@ _Last updated: 2026-05-13 03:31 UTC_
 | 25 | Dearica Hamby | 2,317 |
 | 26 | Erika de Souza | 2,220 |
 | 27 | Diana Taurasi | 2,201 |
-| 28 | **Natasha Howard** 🔴 +8 | 2,182 |
+| 28 | **Natasha Howard** 🔴 +9 | 2,183 |
 | 29 | Margo Dydek | 2,138 |
 | 30 | Chamique Holdsclaw | 2,123 |
 | 31 | Chasity Melvin | 2,097 |
@@ -435,7 +435,7 @@ _Last updated: 2026-05-13 03:31 UTC_
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
 | 6 | Chelsea Gray | 1,870 |
-| 7 | **Alyssa Thomas** 🔴 +4 | 1,824 |
+| 7 | **Alyssa Thomas** 🔴 +5 | 1,825 |
 | 8 | Skylar Diggins | 1,768 |
 | 9 | Natasha Cloud | 1,733 |
 | 10 | Becky Hammon | 1,705 |
@@ -538,7 +538,7 @@ _Last updated: 2026-05-13 03:31 UTC_
 | 107 | **Betnijah Laney-Hamilton** 🔴 +3 | 576 |
 | 108 | Napheesa Collier | 570 |
 | 109 | Nicole Powell | 567 |
-| 110 | **Natasha Howard** 🔴 +1 | 563 |
+| 110 | **Natasha Howard** 🔴 +2 | 564 |
 | 111 | Loree Moore | 562 |
 | 112 | Sophia Young-Malcolm | 554 |
 | 112 | Tangela Smith | 554 |
@@ -853,7 +853,7 @@ _Last updated: 2026-05-13 03:31 UTC_
 | 12 | DeLisha Milton-Jones | 619 |
 | 13 | Taj McWilliams-Franklin | 577 |
 | 14 | Tully Bevilaqua | 571 |
-| 15 | **Alyssa Thomas** 🔴 +1 | 557 |
+| 15 | **Alyssa Thomas** 🔴 +2 | 558 |
 | 16 | Courtney Vandersloot | 544 |
 | 17 | Yolanda Griffith | 527 |
 | 18 | Candace Parker | 521 |
@@ -1314,7 +1314,7 @@ _Last updated: 2026-05-13 03:31 UTC_
 | 63 | Dawn Staley | 643 |
 | 64 | Ruth Riley | 637 |
 | 65 | Svetlana Abrosimova | 631 |
-| 66 | **Kayla McBride** 🔴 +2 | 624 |
+| 66 | **Kayla McBride** 🔴 +3 | 625 |
 | 67 | Odyssey Sims | 617 |
 | 68 | Rebekkah Brunson | 615 |
 | 69 | Seimone Augustus | 613 |
