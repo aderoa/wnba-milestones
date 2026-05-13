@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-13 02:10 UTC_
+_Last updated: 2026-05-13 02:11 UTC_
 
 ## Contents
 
@@ -237,7 +237,7 @@ _Last updated: 2026-05-13 02:10 UTC_
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | **Alyssa Thomas** 🔴 | 2,740 |
 | 13 | Sancho Lyttle | 2,596 |
-| 14 | **Jonquel Jones** 🔴 | 2,575 |
+| 14 | **Jonquel Jones** 🔴 +1 | 2,576 |
 | 15 | DeLisha Milton-Jones | 2,574 |
 | 16 | Brittney Griner | 2,531 |
 | 17 | Swin Cash | 2,521 |
@@ -435,7 +435,7 @@ _Last updated: 2026-05-13 02:10 UTC_
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
 | 6 | Chelsea Gray | 1,870 |
-| 7 | **Alyssa Thomas** 🔴 | 1,820 |
+| 7 | **Alyssa Thomas** 🔴 +1 | 1,821 |
 | 8 | Skylar Diggins | 1,768 |
 | 9 | Natasha Cloud | 1,733 |
 | 10 | Becky Hammon | 1,705 |
@@ -1650,8 +1650,8 @@ _Last updated: 2026-05-13 02:10 UTC_
 | 194 | Natalie Achonwa | 459 |
 | 195 | Kara Lawson | 457 |
 | 196 | Alexis Hornbuckle | 450 |
-| 197 | Bria Hartley | 448 |
-| 197 | **Nia Coffey** 🔴 | 448 |
+| 197 | **Nia Coffey** 🔴 +1 | 449 |
+| 198 | Bria Hartley | 448 |
 | 199 | Alanna Smith | 445 |
 | 199 | Diamond DeShields | 445 |
 | 199 | Sugar Rodgers | 445 |
