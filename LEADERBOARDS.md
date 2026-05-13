@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-13 00:40 UTC_
+_Last updated: 2026-05-13 00:41 UTC_
 
 ## Contents
 
@@ -58,7 +58,7 @@ _Last updated: 2026-05-13 00:40 UTC_
 | 37 | Penny Taylor | 4,595 |
 | 38 | Alyssa Thomas | 4,488 |
 | 39 | Kristi Toliver | 4,474 |
-| 40 | **Arike Ogunbowale** 🔴 +4 | 4,468 |
+| 40 | **Arike Ogunbowale** 🔴 +6 | 4,470 |
 | 41 | Crystal Langhorne | 4,433 |
 | 41 | Jia Perkins | 4,433 |
 | 43 | Chelsea Gray | 4,409 |
@@ -70,7 +70,7 @@ _Last updated: 2026-05-13 00:40 UTC_
 | 49 | Vickie Johnson | 4,230 |
 | 50 | Yolanda Griffith | 4,224 |
 | 51 | Kelsey Plum | 4,207 |
-| 52 | **Allisha Gray** 🔴 +7 | 4,164 |
+| 52 | **Allisha Gray** 🔴 +9 | 4,166 |
 | 53 | Rebekkah Brunson | 4,133 |
 | 54 | Jonquel Jones | 4,096 |
 | 55 | Dearica Hamby | 4,090 |
