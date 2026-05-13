@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-13 01:14 UTC_
+_Last updated: 2026-05-13 01:15 UTC_
 
 ## Contents
 
@@ -57,8 +57,8 @@ _Last updated: 2026-05-13 01:14 UTC_
 | 36 | Elena Delle Donne | 4,706 |
 | 37 | Penny Taylor | 4,595 |
 | 38 | Alyssa Thomas | 4,488 |
+| 39 | **Arike Ogunbowale** 🔴 +10 | 4,474 |
 | 39 | Kristi Toliver | 4,474 |
-| 40 | **Arike Ogunbowale** 🔴 +7 | 4,471 |
 | 41 | Crystal Langhorne | 4,433 |
 | 41 | Jia Perkins | 4,433 |
 | 43 | Chelsea Gray | 4,409 |
@@ -1586,8 +1586,8 @@ _Last updated: 2026-05-13 01:14 UTC_
 | 130 | Ezi Magbegor | 576 |
 | 131 | Le'coe Willingham | 571 |
 | 132 | Ashley Robinson | 567 |
-| 133 | **Arike Ogunbowale** 🔴 | 565 |
-| 133 | Ivory Latta | 565 |
+| 133 | **Arike Ogunbowale** 🔴 +1 | 566 |
+| 134 | Ivory Latta | 565 |
 | 135 | Barbara Farris | 563 |
 | 136 | Jessica Breland | 562 |
 | 137 | Courtney Williams | 553 |
