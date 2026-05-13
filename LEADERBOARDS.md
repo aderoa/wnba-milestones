@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-13 23:06 UTC_
+_Last updated: 2026-05-13 23:07 UTC_
 
 ## Contents
 
@@ -106,7 +106,7 @@ _Last updated: 2026-05-13 23:06 UTC_
 | 85 | Tanisha Wright | 3,324 |
 | 86 | Margo Dydek | 3,214 |
 | 87 | Danielle Robinson | 3,160 |
-| 88 | **Stefanie Dolson** 🔴 +3 | 3,137 |
+| 88 | **Stefanie Dolson** 🔴 +5 | 3,139 |
 | 89 | Wendy Palmer | 3,135 |
 | 90 | Shavonte Zellous | 3,103 |
 | 91 | Briann January | 3,082 |
@@ -116,7 +116,7 @@ _Last updated: 2026-05-13 23:06 UTC_
 | 95 | Sabrina Ionescu | 3,030 |
 | 96 | Marie Ferdinand-Harris | 3,001 |
 | 97 | Emma Meesseman | 2,966 |
-| 98 | **Marina Mabrey** 🔴 +2 | 2,896 |
+| 98 | **Marina Mabrey** 🔴 +5 | 2,899 |
 | 99 | Natalie Williams | 2,894 |
 | 100 | Jennifer Gillom | 2,888 |
 | 101 | Natasha Cloud | 2,863 |
@@ -335,8 +335,8 @@ _Last updated: 2026-05-13 23:06 UTC_
 | 108 | Tamika Raymond | 1,127 |
 | 110 | Adrienne Goodson | 1,126 |
 | 111 | Deanna Nolan | 1,112 |
+| 112 | **Brittney Sykes** 🔴 +2 | 1,110 |
 | 112 | Chiney Ogwumike | 1,110 |
-| 113 | **Brittney Sykes** 🔴 +1 | 1,109 |
 | 114 | Becky Hammon | 1,108 |
 | 115 | Ann Wauters | 1,105 |
 | 116 | Natasha Cloud | 1,080 |
@@ -495,7 +495,7 @@ _Last updated: 2026-05-13 23:06 UTC_
 | 64 | Lisa Leslie | 873 |
 | 65 | Tully Bevilaqua | 853 |
 | 66 | Jia Perkins | 837 |
-| 67 | **Brittney Sykes** 🔴 | 816 |
+| 67 | **Brittney Sykes** 🔴 +1 | 817 |
 | 68 | Andrea Stinson | 810 |
 | 69 | Tina Thompson | 803 |
 | 70 | Epiphanny Prince | 800 |
@@ -1072,7 +1072,7 @@ _Last updated: 2026-05-13 23:06 UTC_
 | 26 | Breanna Stewart | 454 |
 | 27 | Tiffany Hayes | 447 |
 | 28 | Ariel Atkins | 440 |
-| 29 | **Marina Mabrey** 🔴 | 439 |
+| 28 | **Marina Mabrey** 🔴 +1 | 440 |
 | 30 | Lauren Jackson | 436 |
 | 31 | Shameka Christon | 434 |
 | 32 | Allisha Gray | 426 |
