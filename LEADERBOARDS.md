@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-13 02:41 UTC_
+_Last updated: 2026-05-13 02:42 UTC_
 
 ## Contents
 
@@ -75,7 +75,7 @@ _Last updated: 2026-05-13 02:41 UTC_
 | 54 | **Jonquel Jones** 🔴 +8 | 4,104 |
 | 55 | **Kahleah Copper** 🔴 +11 | 4,094 |
 | 56 | Dearica Hamby | 4,090 |
-| 57 | **Courtney Williams** 🔴 | 4,061 |
+| 57 | **Courtney Williams** 🔴 +3 | 4,064 |
 | 58 | Asjha Jones | 3,986 |
 | 59 | Deanna Nolan | 3,971 |
 | 60 | Nykesha Sales | 3,931 |
@@ -474,8 +474,8 @@ _Last updated: 2026-05-13 02:41 UTC_
 | 43 | Jackie Young | 1,029 |
 | 44 | Nikki Teasley | 982 |
 | 45 | Tamecka Dixon | 960 |
-| 46 | Kara Lawson | 946 |
-| 46 | **Kayla McBride** 🔴 +1 | 946 |
+| 46 | **Kayla McBride** 🔴 +2 | 947 |
+| 47 | Kara Lawson | 946 |
 | 48 | **Breanna Stewart** 🔴 +2 | 931 |
 | 49 | Deanna Nolan | 930 |
 | 50 | Kelly Miller | 927 |
@@ -761,8 +761,8 @@ _Last updated: 2026-05-13 02:41 UTC_
 | 124 | Dearica Hamby | 101 |
 | 126 | Chante Black | 100 |
 | 126 | Danielle Adams | 100 |
+| 126 | **Natasha Mack** 🔴 +1 | 100 |
 | 126 | Nicole Powell | 100 |
-| 129 | **Natasha Mack** 🔴 | 99 |
 | 130 | Mwadi Mabika | 98 |
 | 130 | Natalie Achonwa | 98 |
 | 132 | Rhyne Howard | 97 |
@@ -1128,9 +1128,9 @@ _Last updated: 2026-05-13 02:41 UTC_
 | 82 | Stefanie Dolson | 267 |
 | 83 | **Bridget Carleton** 🔴 +2 | 264 |
 | 84 | Sophia Witherspoon | 260 |
+| 85 | **Courtney Williams** 🔴 +1 | 254 |
 | 85 | Dawn Staley | 254 |
-| 86 | Bria Hartley | 253 |
-| 86 | **Courtney Williams** 🔴 | 253 |
+| 87 | Bria Hartley | 253 |
 | 88 | Rebecca Allen | 252 |
 | 89 | Angel McCoughtry | 249 |
 | 90 | Erin Thorn | 243 |
@@ -1262,7 +1262,7 @@ _Last updated: 2026-05-13 02:41 UTC_
 | 11 | Tamika Catchings | 1,041 |
 | 12 | Tina Charles | 1,040 |
 | 13 | Lindsay Whalen | 1,002 |
-| 14 | **Alyssa Thomas** 🔴 | 965 |
+| 14 | **Alyssa Thomas** 🔴 +1 | 966 |
 | 15 | Sylvia Fowles | 961 |
 | 16 | Tanisha Wright | 954 |
 | 17 | Angel McCoughtry | 949 |

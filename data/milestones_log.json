@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-13T02:42:00+00:00",
+    "text": "Courtney Williams passed Bria Hartley for #86 all-time in three-pointers (career 254) \u2014 up from #87 entering today \u2014 (4:32 - 2nd \u2014 MIN @ PHX)",
+    "kind": "rank_pass",
+    "player": "Courtney Williams",
+    "stat": "three-pointers",
+    "rank": 86,
+    "passed_players": [
+      "Bria Hartley"
+    ],
+    "new_total": 254
+  },
+  {
     "ts": "2026-05-13T02:39:00+00:00",
     "text": "Kahleah Copper passed Candace Parker for #55 all-time in three-pointers (career 343) \u2014 up from #56 entering today \u2014 (5:53 - 2nd \u2014 MIN @ PHX)",
     "kind": "rank_pass",
