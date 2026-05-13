@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-13T02:29:00+00:00",
+    "text": "Betnijah Laney-Hamilton passed Kedra Holland-Corn for #128 all-time in turnovers (career 439) \u2014 up from #131 entering today \u2014 (8:44 - 2nd \u2014 NY @ POR)",
+    "kind": "rank_pass",
+    "player": "Betnijah Laney-Hamilton",
+    "stat": "turnovers",
+    "rank": 128,
+    "passed_players": [
+      "Kedra Holland-Corn"
+    ],
+    "new_total": 439
+  },
+  {
     "ts": "2026-05-13T02:25:00+00:00",
     "text": "Betnijah Laney-Hamilton passed Alysha Clark and Ariel Atkins for #129 all-time in turnovers (career 438) \u2014 up from #131 entering today \u2014 (End of 1st \u2014 NY @ POR)",
     "kind": "rank_pass",

@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-13 02:28 UTC_
+_Last updated: 2026-05-13 02:29 UTC_
 
 ## Contents
 
@@ -237,12 +237,12 @@ _Last updated: 2026-05-13 02:28 UTC_
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | **Alyssa Thomas** 🔴 | 2,740 |
 | 13 | Sancho Lyttle | 2,596 |
-| 14 | **Jonquel Jones** 🔴 +1 | 2,576 |
+| 14 | **Jonquel Jones** 🔴 +2 | 2,577 |
 | 15 | DeLisha Milton-Jones | 2,574 |
 | 16 | Brittney Griner | 2,531 |
 | 17 | Swin Cash | 2,521 |
 | 18 | A'ja Wilson | 2,494 |
-| 19 | **Breanna Stewart** 🔴 +3 | 2,487 |
+| 19 | **Breanna Stewart** 🔴 +4 | 2,488 |
 | 20 | Michelle Snow | 2,476 |
 | 21 | Crystal Langhorne | 2,454 |
 | 22 | Lauren Jackson | 2,444 |
@@ -1375,9 +1375,9 @@ _Last updated: 2026-05-13 02:28 UTC_
 | 123 | Jantel Lavender | 444 |
 | 125 | A'ja Wilson | 441 |
 | 126 | Ann Wauters | 440 |
+| 127 | **Betnijah Laney-Hamilton** 🔴 +2 | 439 |
 | 127 | Tiffany Mitchell | 439 |
-| 128 | **Betnijah Laney-Hamilton** 🔴 +1 | 438 |
-| 128 | Kedra Holland-Corn | 438 |
+| 129 | Kedra Holland-Corn | 438 |
 | 130 | Alysha Clark | 437 |
 | 130 | Ariel Atkins | 437 |
 | 132 | Cheyenne Parker-Tyus | 435 |
