@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-13 04:03 UTC_
+_Last updated: 2026-05-13 04:04 UTC_
 
 ## Contents
 
@@ -62,7 +62,7 @@ _Last updated: 2026-05-13 04:03 UTC_
 | 41 | Crystal Langhorne | 4,433 |
 | 41 | Jia Perkins | 4,433 |
 | 43 | Chelsea Gray | 4,409 |
-| 44 | **Natasha Howard** 🔴 +12 | 4,379 |
+| 44 | **Natasha Howard** 🔴 +14 | 4,381 |
 | 45 | Courtney Vandersloot | 4,352 |
 | 46 | Sophia Young-Malcolm | 4,300 |
 | 47 | Plenette Pierson | 4,258 |
@@ -72,8 +72,8 @@ _Last updated: 2026-05-13 04:03 UTC_
 | 51 | Kelsey Plum | 4,207 |
 | 52 | Allisha Gray | 4,183 |
 | 53 | Rebekkah Brunson | 4,133 |
+| 54 | **Jonquel Jones** 🔴 +17 | 4,113 |
 | 54 | **Kahleah Copper** 🔴 +30 | 4,113 |
-| 55 | **Jonquel Jones** 🔴 +15 | 4,111 |
 | 56 | Dearica Hamby | 4,090 |
 | 57 | **Courtney Williams** 🔴 +11 | 4,072 |
 | 58 | Asjha Jones | 3,986 |
@@ -390,7 +390,7 @@ _Last updated: 2026-05-13 04:03 UTC_
 | 163 | Barbara Farris | 819 |
 | 165 | Marina Mabrey | 818 |
 | 166 | Carolyn Swords | 814 |
-| 167 | **Nia Coffey** 🔴 +7 | 802 |
+| 167 | **Nia Coffey** 🔴 +8 | 803 |
 | 168 | Tierra Ruffin-Pratt | 799 |
 | 169 | Charlotte Smith | 794 |
 | 170 | **Betnijah Laney-Hamilton** 🔴 +3 | 788 |
@@ -446,7 +446,7 @@ _Last updated: 2026-05-13 04:03 UTC_
 | 15 | Shannon Johnson | 1,423 |
 | 15 | Tanisha Wright | 1,423 |
 | 17 | Temeka Johnson | 1,382 |
-| 18 | **Courtney Williams** 🔴 +4 | 1,369 |
+| 18 | **Courtney Williams** 🔴 +5 | 1,370 |
 | 19 | Jasmine Thomas | 1,355 |
 | 20 | Briann January | 1,339 |
 | 21 | Dawn Staley | 1,337 |
@@ -654,7 +654,7 @@ _Last updated: 2026-05-13 04:03 UTC_
 | 18 | Tina Thompson | 372 |
 | 19 | Erika de Souza | 370 |
 | 20 | Jessica Breland | 367 |
-| 21 | **Natasha Howard** 🔴 | 357 |
+| 21 | **Natasha Howard** 🔴 +1 | 358 |
 | 22 | Ezi Magbegor | 354 |
 | 23 | Diana Taurasi | 349 |
 | 23 | Elena Delle Donne | 349 |
@@ -711,8 +711,8 @@ _Last updated: 2026-05-13 04:03 UTC_
 | 75 | Ann Wauters | 153 |
 | 75 | Sue Wicks | 153 |
 | 77 | Allisha Gray | 152 |
-| 78 | Jessica Davenport | 151 |
-| 78 | **Nia Coffey** 🔴 | 151 |
+| 77 | **Nia Coffey** 🔴 +1 | 152 |
+| 79 | Jessica Davenport | 151 |
 | 80 | Alison Bales | 148 |
 | 81 | Chamique Holdsclaw | 143 |
 | 82 | Aliyah Boston | 140 |
