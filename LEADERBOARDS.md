@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-13 03:32 UTC_
+_Last updated: 2026-05-13 03:33 UTC_
 
 ## Contents
 
@@ -62,7 +62,7 @@ _Last updated: 2026-05-13 03:32 UTC_
 | 41 | Crystal Langhorne | 4,433 |
 | 41 | Jia Perkins | 4,433 |
 | 43 | Chelsea Gray | 4,409 |
-| 44 | **Natasha Howard** 🔴 +8 | 4,375 |
+| 44 | **Natasha Howard** 🔴 +10 | 4,377 |
 | 45 | Courtney Vandersloot | 4,352 |
 | 46 | Sophia Young-Malcolm | 4,300 |
 | 47 | Plenette Pierson | 4,258 |
@@ -474,7 +474,7 @@ _Last updated: 2026-05-13 03:32 UTC_
 | 43 | Jackie Young | 1,029 |
 | 44 | Nikki Teasley | 982 |
 | 45 | Tamecka Dixon | 960 |
-| 46 | **Kayla McBride** 🔴 +2 | 947 |
+| 46 | **Kayla McBride** 🔴 +3 | 948 |
 | 47 | Kara Lawson | 946 |
 | 48 | **Breanna Stewart** 🔴 +4 | 933 |
 | 49 | Deanna Nolan | 930 |
@@ -1126,7 +1126,7 @@ _Last updated: 2026-05-13 03:32 UTC_
 | 80 | Kayla Thornton | 273 |
 | 81 | Sheryl Swoopes | 270 |
 | 82 | Stefanie Dolson | 267 |
-| 83 | **Bridget Carleton** 🔴 +3 | 265 |
+| 83 | **Bridget Carleton** 🔴 +4 | 266 |
 | 84 | Sophia Witherspoon | 260 |
 | 85 | **Courtney Williams** 🔴 +1 | 254 |
 | 85 | Dawn Staley | 254 |
