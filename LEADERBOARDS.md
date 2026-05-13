@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-13 03:53 UTC_
+_Last updated: 2026-05-13 03:54 UTC_
 
 ## Contents
 
@@ -1125,8 +1125,8 @@ _Last updated: 2026-05-13 03:53 UTC_
 | 79 | Iziane Castro Marques | 275 |
 | 80 | Kayla Thornton | 273 |
 | 81 | Sheryl Swoopes | 270 |
+| 82 | **Bridget Carleton** 🔴 +5 | 267 |
 | 82 | Stefanie Dolson | 267 |
-| 83 | **Bridget Carleton** 🔴 +4 | 266 |
 | 84 | Sophia Witherspoon | 260 |
 | 85 | **Courtney Williams** 🔴 +1 | 254 |
 | 85 | Dawn Staley | 254 |
@@ -1335,9 +1335,9 @@ _Last updated: 2026-05-13 03:53 UTC_
 | 84 | Sancho Lyttle | 563 |
 | 85 | Brittney Sykes | 558 |
 | 86 | Tan White | 557 |
-| 87 | **Breanna Stewart** 🔴 | 549 |
-| 87 | Kelsey Mitchell | 549 |
-| 87 | Lauren Jackson | 549 |
+| 87 | **Breanna Stewart** 🔴 +1 | 550 |
+| 88 | Kelsey Mitchell | 549 |
+| 88 | Lauren Jackson | 549 |
 | 90 | Matee Ajavon | 544 |
 | 91 | Adrienne Goodson | 542 |
 | 92 | Layshia Clarendon | 536 |
