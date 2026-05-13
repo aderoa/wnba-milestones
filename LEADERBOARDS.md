@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-13 00:36 UTC_
+_Last updated: 2026-05-13 00:37 UTC_
 
 ## Contents
 
@@ -58,7 +58,7 @@ _Last updated: 2026-05-13 00:36 UTC_
 | 37 | Penny Taylor | 4,595 |
 | 38 | Alyssa Thomas | 4,488 |
 | 39 | Kristi Toliver | 4,474 |
-| 40 | **Arike Ogunbowale** 🔴 +2 | 4,466 |
+| 40 | **Arike Ogunbowale** 🔴 +4 | 4,468 |
 | 41 | Crystal Langhorne | 4,433 |
 | 41 | Jia Perkins | 4,433 |
 | 43 | Chelsea Gray | 4,409 |
@@ -379,7 +379,7 @@ _Last updated: 2026-05-13 00:36 UTC_
 | 153 | Krystal Thomas | 862 |
 | 154 | Erica Wheeler | 852 |
 | 155 | Leilani Mitchell | 845 |
-| 156 | **Alanna Smith** 🔴 +4 | 838 |
+| 156 | **Alanna Smith** 🔴 +6 | 840 |
 | 157 | Essence Carson | 833 |
 | 158 | Kristi Toliver | 829 |
 | 159 | Marie Ferdinand-Harris | 828 |
@@ -388,7 +388,7 @@ _Last updated: 2026-05-13 00:36 UTC_
 | 162 | Amanda Zahui B | 819 |
 | 162 | Barbara Farris | 819 |
 | 164 | Marina Mabrey | 818 |
-| 165 | **Jessica Shepard** 🔴 +2 | 815 |
+| 165 | **Jessica Shepard** 🔴 +3 | 816 |
 | 166 | Carolyn Swords | 814 |
 | 167 | Tierra Ruffin-Pratt | 799 |
 | 168 | Nia Coffey | 795 |
@@ -627,7 +627,7 @@ _Last updated: 2026-05-13 00:36 UTC_
 | 195 | Penny Toler | 345 |
 | 197 | Ezi Magbegor | 344 |
 | 198 | Sonja Henning | 341 |
-| 199 | **Jessica Shepard** 🔴 +2 | 339 |
+| 199 | **Jessica Shepard** 🔴 +3 | 340 |
 | 200 | Alexis Hornbuckle | 336 |
 
 ## Blocks
@@ -912,9 +912,9 @@ _Last updated: 2026-05-13 00:36 UTC_
 | 71 | Helen Darling | 343 |
 | 72 | Andrea Stinson | 342 |
 | 72 | Erica Wheeler | 342 |
+| 74 | **Arike Ogunbowale** 🔴 +1 | 340 |
 | 74 | Armintie Herrington | 340 |
 | 74 | Natasha Cloud | 340 |
-| 76 | **Arike Ogunbowale** 🔴 | 339 |
 | 77 | Dawn Staley | 338 |
 | 78 | A'ja Wilson | 335 |
 | 79 | Marie Ferdinand-Harris | 331 |
