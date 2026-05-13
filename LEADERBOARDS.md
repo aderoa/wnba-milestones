@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-13 02:50 UTC_
+_Last updated: 2026-05-13 02:51 UTC_
 
 ## Contents
 
@@ -73,7 +73,7 @@ _Last updated: 2026-05-13 02:50 UTC_
 | 52 | Allisha Gray | 4,183 |
 | 53 | Rebekkah Brunson | 4,133 |
 | 54 | **Jonquel Jones** 🔴 +11 | 4,107 |
-| 55 | **Kahleah Copper** 🔴 +11 | 4,094 |
+| 55 | **Kahleah Copper** 🔴 +13 | 4,096 |
 | 56 | Dearica Hamby | 4,090 |
 | 57 | **Courtney Williams** 🔴 +3 | 4,064 |
 | 58 | Asjha Jones | 3,986 |
@@ -251,7 +251,7 @@ _Last updated: 2026-05-13 02:50 UTC_
 | 25 | Dearica Hamby | 2,317 |
 | 26 | Erika de Souza | 2,220 |
 | 27 | Diana Taurasi | 2,201 |
-| 28 | **Natasha Howard** 🔴 +4 | 2,178 |
+| 28 | **Natasha Howard** 🔴 +5 | 2,179 |
 | 29 | Margo Dydek | 2,138 |
 | 30 | Chamique Holdsclaw | 2,123 |
 | 31 | Chasity Melvin | 2,097 |
@@ -1374,8 +1374,8 @@ _Last updated: 2026-05-13 02:50 UTC_
 | 123 | Elena Baranova | 444 |
 | 123 | Jantel Lavender | 444 |
 | 125 | A'ja Wilson | 441 |
-| 126 | Ann Wauters | 440 |
-| 126 | **Betnijah Laney-Hamilton** 🔴 +3 | 440 |
+| 125 | **Betnijah Laney-Hamilton** 🔴 +4 | 441 |
+| 127 | Ann Wauters | 440 |
 | 128 | Tiffany Mitchell | 439 |
 | 129 | Kedra Holland-Corn | 438 |
 | 130 | Alysha Clark | 437 |
