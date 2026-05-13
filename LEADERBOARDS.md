@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-13 02:09 UTC_
+_Last updated: 2026-05-13 02:10 UTC_
 
 ## Contents
 
@@ -44,7 +44,7 @@ _Last updated: 2026-05-13 02:09 UTC_
 | 23 | Katie Douglas | 5,545 |
 | 24 | Lindsay Whalen | 5,511 |
 | 25 | Skylar Diggins | 5,489 |
-| 26 | **Kayla McBride** 🔴 | 5,389 |
+| 26 | **Kayla McBride** 🔴 +2 | 5,391 |
 | 27 | Swin Cash | 5,119 |
 | 28 | Tangela Smith | 5,035 |
 | 29 | Taj McWilliams-Franklin | 4,992 |
@@ -62,7 +62,7 @@ _Last updated: 2026-05-13 02:09 UTC_
 | 41 | Crystal Langhorne | 4,433 |
 | 41 | Jia Perkins | 4,433 |
 | 43 | Chelsea Gray | 4,409 |
-| 44 | **Natasha Howard** 🔴 +1 | 4,368 |
+| 44 | **Natasha Howard** 🔴 +3 | 4,370 |
 | 45 | Courtney Vandersloot | 4,352 |
 | 46 | Sophia Young-Malcolm | 4,300 |
 | 47 | Plenette Pierson | 4,258 |
@@ -154,8 +154,8 @@ _Last updated: 2026-05-13 02:09 UTC_
 | 133 | Kia Vaughn | 2,288 |
 | 134 | Allison Feaster | 2,258 |
 | 135 | Kayla Thornton | 2,248 |
+| 136 | **Betnijah Laney-Hamilton** 🔴 +5 | 2,245 |
 | 136 | Shekinna Stricklen | 2,245 |
-| 137 | **Betnijah Laney-Hamilton** 🔴 +3 | 2,243 |
 | 138 | Kara Braxton | 2,237 |
 | 138 | Matee Ajavon | 2,237 |
 | 140 | Dawn Staley | 2,228 |
@@ -446,7 +446,7 @@ _Last updated: 2026-05-13 02:09 UTC_
 | 15 | Shannon Johnson | 1,423 |
 | 15 | Tanisha Wright | 1,423 |
 | 17 | Temeka Johnson | 1,382 |
-| 18 | **Courtney Williams** 🔴 | 1,365 |
+| 18 | **Courtney Williams** 🔴 +1 | 1,366 |
 | 19 | Jasmine Thomas | 1,355 |
 | 20 | Briann January | 1,339 |
 | 21 | Dawn Staley | 1,337 |
@@ -475,7 +475,7 @@ _Last updated: 2026-05-13 02:09 UTC_
 | 44 | Nikki Teasley | 982 |
 | 45 | Tamecka Dixon | 960 |
 | 46 | Kara Lawson | 946 |
-| 47 | **Kayla McBride** 🔴 | 945 |
+| 46 | **Kayla McBride** 🔴 +1 | 946 |
 | 48 | Deanna Nolan | 930 |
 | 49 | **Breanna Stewart** 🔴 | 929 |
 | 50 | Kelly Miller | 927 |
@@ -880,7 +880,7 @@ _Last updated: 2026-05-13 02:09 UTC_
 | 39 | Candice Dupree | 431 |
 | 40 | Epiphanny Prince | 429 |
 | 41 | Tanisha Wright | 427 |
-| 42 | **Kayla McBride** 🔴 | 418 |
+| 42 | **Kayla McBride** 🔴 +1 | 419 |
 | 43 | **Breanna Stewart** 🔴 | 411 |
 | 44 | Katie Smith | 408 |
 | 45 | Cappie Pondexter | 405 |
