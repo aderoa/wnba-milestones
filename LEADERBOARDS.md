@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-13 01:53 UTC_
+_Last updated: 2026-05-13 01:54 UTC_
 
 ## Contents
 
@@ -897,7 +897,7 @@ _Last updated: 2026-05-13 01:53 UTC_
 | 56 | Chamique Holdsclaw | 376 |
 | 57 | Mwadi Mabika | 370 |
 | 58 | Ariel Atkins | 365 |
-| 59 | **Jordin Canada** 🔴 +2 | 361 |
+| 59 | **Jordin Canada** 🔴 +3 | 362 |
 | 60 | Lauren Jackson | 360 |
 | 60 | Tan White | 360 |
 | 62 | Vickie Johnson | 357 |
@@ -1355,7 +1355,7 @@ _Last updated: 2026-05-13 01:53 UTC_
 | 102 | Wendy Palmer | 517 |
 | 105 | Tully Bevilaqua | 514 |
 | 106 | Jia Perkins | 513 |
-| 107 | **Arike Ogunbowale** 🔴 +1 | 504 |
+| 107 | **Arike Ogunbowale** 🔴 +2 | 505 |
 | 108 | Tamera Young | 501 |
 | 109 | Nikki Teasley | 493 |
 | 109 | Tari Phillips | 493 |
