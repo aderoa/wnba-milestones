@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-13 00:29 UTC_
+_Last updated: 2026-05-13 00:30 UTC_
 
 ## Contents
 
@@ -122,7 +122,7 @@ _Last updated: 2026-05-13 00:29 UTC_
 | 101 | Natasha Cloud | 2,863 |
 | 102 | Iziane Castro Marques | 2,862 |
 | 103 | Elizabeth Williams | 2,841 |
-| 104 | **Alysha Clark** 🔴 | 2,787 |
+| 104 | **Alysha Clark** 🔴 +2 | 2,789 |
 | 105 | Jantel Lavender | 2,775 |
 | 106 | Brionna Jones | 2,765 |
 | 107 | Dominique Canty | 2,763 |
@@ -289,7 +289,7 @@ _Last updated: 2026-05-13 00:29 UTC_
 | 63 | Ticha Penicheiro | 1,485 |
 | 64 | Sue Bird | 1,466 |
 | 65 | Nicole Powell | 1,457 |
-| 66 | **Alysha Clark** 🔴 | 1,454 |
+| 66 | **Alysha Clark** 🔴 +1 | 1,455 |
 | 67 | Tamera Young | 1,433 |
 | 68 | Cheyenne Parker-Tyus | 1,424 |
 | 69 | Alana Beard | 1,420 |
@@ -379,7 +379,7 @@ _Last updated: 2026-05-13 00:29 UTC_
 | 153 | Krystal Thomas | 862 |
 | 154 | Erica Wheeler | 852 |
 | 155 | Leilani Mitchell | 845 |
-| 156 | **Alanna Smith** 🔴 +2 | 836 |
+| 156 | **Alanna Smith** 🔴 +3 | 837 |
 | 157 | Essence Carson | 833 |
 | 158 | Kristi Toliver | 829 |
 | 159 | Marie Ferdinand-Harris | 828 |
