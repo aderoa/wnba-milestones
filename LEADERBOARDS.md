@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-13 02:04 UTC_
+_Last updated: 2026-05-13 02:05 UTC_
 
 ## Contents
 
@@ -21,7 +21,7 @@ _Last updated: 2026-05-13 02:04 UTC_
 |-----:|--------|------:|
 | 1 | Diana Taurasi | 10,608 |
 | 2 | Tina Charles | 8,396 |
-| 3 | **DeWanna Bonner** 🔴 | 7,805 |
+| 3 | **DeWanna Bonner** 🔴 +2 | 7,807 |
 | 4 | Tina Thompson | 7,470 |
 | 5 | Tamika Catchings | 7,371 |
 | 6 | Nneka Ogwumike | 7,305 |
@@ -265,7 +265,7 @@ _Last updated: 2026-05-13 02:04 UTC_
 | 39 | Lindsay Whalen | 1,805 |
 | 40 | Camille Smith | 1,802 |
 | 41 | Asjha Jones | 1,751 |
-| 42 | **Courtney Williams** 🔴 | 1,747 |
+| 42 | **Courtney Williams** 🔴 +1 | 1,748 |
 | 43 | Kiah Stokes | 1,746 |
 | 44 | Teaira McCowan | 1,670 |
 | 45 | Monique Currie | 1,666 |
@@ -391,7 +391,7 @@ _Last updated: 2026-05-13 02:04 UTC_
 | 165 | Marina Mabrey | 818 |
 | 166 | Carolyn Swords | 814 |
 | 167 | Tierra Ruffin-Pratt | 799 |
-| 168 | **Nia Coffey** 🔴 | 795 |
+| 168 | **Nia Coffey** 🔴 +1 | 796 |
 | 169 | Charlotte Smith | 794 |
 | 170 | Rhonda Mapp | 788 |
 | 171 | Mercedes Russell | 786 |
@@ -755,10 +755,10 @@ _Last updated: 2026-05-13 02:04 UTC_
 | 119 | Jennifer Gillom | 103 |
 | 119 | Jia Perkins | 103 |
 | 119 | Shakira Austin | 103 |
+| 122 | **Courtney Williams** 🔴 +1 | 102 |
 | 122 | Theresa Plaisance | 102 |
-| 123 | **Courtney Williams** 🔴 | 101 |
-| 123 | Deanna Nolan | 101 |
-| 123 | Dearica Hamby | 101 |
+| 124 | Deanna Nolan | 101 |
+| 124 | Dearica Hamby | 101 |
 | 126 | Chante Black | 100 |
 | 126 | Danielle Adams | 100 |
 | 126 | Nicole Powell | 100 |
@@ -1126,7 +1126,7 @@ _Last updated: 2026-05-13 02:04 UTC_
 | 80 | Kayla Thornton | 273 |
 | 81 | Sheryl Swoopes | 270 |
 | 82 | Stefanie Dolson | 267 |
-| 83 | **Bridget Carleton** 🔴 | 262 |
+| 83 | **Bridget Carleton** 🔴 +1 | 263 |
 | 84 | Sophia Witherspoon | 260 |
 | 85 | Dawn Staley | 254 |
 | 86 | Bria Hartley | 253 |
