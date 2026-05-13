@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-13 03:15 UTC_
+_Last updated: 2026-05-13 03:16 UTC_
 
 ## Contents
 
@@ -44,7 +44,7 @@ _Last updated: 2026-05-13 03:15 UTC_
 | 23 | Katie Douglas | 5,545 |
 | 24 | Lindsay Whalen | 5,511 |
 | 25 | Skylar Diggins | 5,489 |
-| 26 | **Kayla McBride** 🔴 +12 | 5,401 |
+| 26 | **Kayla McBride** 🔴 +14 | 5,403 |
 | 27 | Swin Cash | 5,119 |
 | 28 | Tangela Smith | 5,035 |
 | 29 | Taj McWilliams-Franklin | 4,992 |
@@ -251,7 +251,7 @@ _Last updated: 2026-05-13 03:15 UTC_
 | 25 | Dearica Hamby | 2,317 |
 | 26 | Erika de Souza | 2,220 |
 | 27 | Diana Taurasi | 2,201 |
-| 28 | **Natasha Howard** 🔴 +6 | 2,180 |
+| 28 | **Natasha Howard** 🔴 +7 | 2,181 |
 | 29 | Margo Dydek | 2,138 |
 | 30 | Chamique Holdsclaw | 2,123 |
 | 31 | Chasity Melvin | 2,097 |
@@ -538,8 +538,8 @@ _Last updated: 2026-05-13 03:15 UTC_
 | 107 | **Betnijah Laney-Hamilton** 🔴 +2 | 575 |
 | 108 | Napheesa Collier | 570 |
 | 109 | Nicole Powell | 567 |
-| 110 | Loree Moore | 562 |
-| 110 | **Natasha Howard** 🔴 | 562 |
+| 110 | **Natasha Howard** 🔴 +1 | 563 |
+| 111 | Loree Moore | 562 |
 | 112 | Sophia Young-Malcolm | 554 |
 | 112 | Tangela Smith | 554 |
 | 114 | Tamera Young | 552 |
