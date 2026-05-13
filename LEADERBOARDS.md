@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-13 23:48 UTC_
+_Last updated: 2026-05-13 23:49 UTC_
 
 ## Contents
 
@@ -1333,7 +1333,7 @@ _Last updated: 2026-05-13 23:48 UTC_
 | 82 | Kara Braxton | 570 |
 | 83 | Nikki McCray | 565 |
 | 84 | Sancho Lyttle | 563 |
-| 85 | **Brittney Sykes** 🔴 +2 | 560 |
+| 85 | **Brittney Sykes** 🔴 +3 | 561 |
 | 86 | Tan White | 557 |
 | 87 | Breanna Stewart | 549 |
 | 87 | Kelsey Mitchell | 549 |
