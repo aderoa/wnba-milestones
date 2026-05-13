@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-13 03:56 UTC_
+_Last updated: 2026-05-13 03:57 UTC_
 
 ## Contents
 
@@ -390,7 +390,7 @@ _Last updated: 2026-05-13 03:56 UTC_
 | 163 | Barbara Farris | 819 |
 | 165 | Marina Mabrey | 818 |
 | 166 | Carolyn Swords | 814 |
-| 167 | **Nia Coffey** 🔴 +6 | 801 |
+| 167 | **Nia Coffey** 🔴 +7 | 802 |
 | 168 | Tierra Ruffin-Pratt | 799 |
 | 169 | Charlotte Smith | 794 |
 | 170 | **Betnijah Laney-Hamilton** 🔴 +3 | 788 |
