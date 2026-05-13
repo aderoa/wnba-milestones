@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-13 01:28 UTC_
+_Last updated: 2026-05-13 01:29 UTC_
 
 ## Contents
 
@@ -380,8 +380,8 @@ _Last updated: 2026-05-13 01:28 UTC_
 | 154 | Erica Wheeler | 852 |
 | 155 | Leilani Mitchell | 845 |
 | 156 | **Alanna Smith** 🔴 +6 | 840 |
-| 157 | **Angel Reese** 🔴 +10 | 833 |
-| 157 | Essence Carson | 833 |
+| 157 | **Angel Reese** 🔴 +11 | 834 |
+| 158 | Essence Carson | 833 |
 | 159 | Kristi Toliver | 829 |
 | 160 | Marie Ferdinand-Harris | 828 |
 | 161 | Marlies Askamp | 822 |
@@ -414,9 +414,9 @@ _Last updated: 2026-05-13 01:28 UTC_
 | 188 | Alex Montgomery | 735 |
 | 189 | Ashley Robinson | 734 |
 | 190 | Shenise Johnson | 729 |
+| 191 | **Arike Ogunbowale** 🔴 +4 | 726 |
 | 191 | Sami Whitcomb | 726 |
 | 191 | Shekinna Stricklen | 726 |
-| 193 | **Arike Ogunbowale** 🔴 +3 | 725 |
 | 194 | Kelsey Plum | 715 |
 | 195 | Olympia Scott | 711 |
 | 196 | Katie Mattera | 708 |
@@ -912,9 +912,9 @@ _Last updated: 2026-05-13 01:28 UTC_
 | 71 | Helen Darling | 343 |
 | 72 | Andrea Stinson | 342 |
 | 72 | Erica Wheeler | 342 |
-| 74 | **Arike Ogunbowale** 🔴 +2 | 341 |
-| 75 | Armintie Herrington | 340 |
-| 75 | Natasha Cloud | 340 |
+| 74 | **Arike Ogunbowale** 🔴 +1 | 340 |
+| 74 | Armintie Herrington | 340 |
+| 74 | Natasha Cloud | 340 |
 | 77 | Dawn Staley | 338 |
 | 78 | A'ja Wilson | 335 |
 | 79 | Marie Ferdinand-Harris | 331 |
