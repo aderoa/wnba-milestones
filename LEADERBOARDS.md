@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-13 00:08 UTC_
+_Last updated: 2026-05-13 00:09 UTC_
 
 ## Contents
 
@@ -416,7 +416,7 @@ _Last updated: 2026-05-13 00:08 UTC_
 | 190 | Shenise Johnson | 729 |
 | 191 | Sami Whitcomb | 726 |
 | 191 | Shekinna Stricklen | 726 |
-| 193 | **Arike Ogunbowale** 🔴 | 722 |
+| 193 | **Arike Ogunbowale** 🔴 +1 | 723 |
 | 194 | Kelsey Plum | 715 |
 | 195 | Olympia Scott | 711 |
 | 196 | Katie Mattera | 708 |
