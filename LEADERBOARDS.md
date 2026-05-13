@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-13 02:24 UTC_
+_Last updated: 2026-05-13 02:25 UTC_
 
 ## Contents
 
@@ -1376,10 +1376,10 @@ _Last updated: 2026-05-13 02:24 UTC_
 | 125 | A'ja Wilson | 441 |
 | 126 | Ann Wauters | 440 |
 | 127 | Tiffany Mitchell | 439 |
+| 128 | **Betnijah Laney-Hamilton** 🔴 +1 | 438 |
 | 128 | Kedra Holland-Corn | 438 |
-| 129 | Alysha Clark | 437 |
-| 129 | Ariel Atkins | 437 |
-| 129 | **Betnijah Laney-Hamilton** 🔴 | 437 |
+| 130 | Alysha Clark | 437 |
+| 130 | Ariel Atkins | 437 |
 | 132 | Cheyenne Parker-Tyus | 435 |
 | 133 | Jennifer Gillom | 434 |
 | 133 | Nicole Ohlde | 434 |

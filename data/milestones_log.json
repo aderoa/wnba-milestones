@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-05-13T02:25:00+00:00",
+    "text": "Betnijah Laney-Hamilton passed Alysha Clark and Ariel Atkins for #129 all-time in turnovers (career 438) \u2014 up from #131 entering today \u2014 (End of 1st \u2014 NY @ POR)",
+    "kind": "rank_pass",
+    "player": "Betnijah Laney-Hamilton",
+    "stat": "turnovers",
+    "rank": 129,
+    "passed_players": [
+      "Alysha Clark",
+      "Ariel Atkins"
+    ],
+    "new_total": 438
+  },
+  {
     "ts": "2026-05-13T02:22:00+00:00",
     "text": "Betnijah Laney-Hamilton passed Shekinna Stricklen for #136 all-time in points (career 2,247) \u2014 up from #137 entering today \u2014 (39.9 - 1st \u2014 NY @ POR)",
     "kind": "rank_pass",

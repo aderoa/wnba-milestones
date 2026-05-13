@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-13 02:25 UTC
+
+- **Betnijah Laney-Hamilton** passed **Alysha Clark** and **Ariel Atkins** for **#129** all-time in turnovers (career 438) — up from #131 entering today — _End of 1st — NY @ POR_
+
 ## 2026-05-13 02:22 UTC
 
 - **Betnijah Laney-Hamilton** passed **Shekinna Stricklen** for **#136** all-time in points (career 2,247) — up from #137 entering today — _39.9 - 1st — NY @ POR_
