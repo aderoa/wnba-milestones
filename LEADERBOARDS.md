@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-13 03:47 UTC_
+_Last updated: 2026-05-13 03:48 UTC_
 
 ## Contents
 
@@ -73,7 +73,7 @@ _Last updated: 2026-05-13 03:47 UTC_
 | 52 | Allisha Gray | 4,183 |
 | 53 | Rebekkah Brunson | 4,133 |
 | 54 | **Jonquel Jones** 🔴 +15 | 4,111 |
-| 55 | **Kahleah Copper** 🔴 +19 | 4,102 |
+| 55 | **Kahleah Copper** 🔴 +21 | 4,104 |
 | 56 | Dearica Hamby | 4,090 |
 | 57 | **Courtney Williams** 🔴 +11 | 4,072 |
 | 58 | Asjha Jones | 3,986 |
@@ -242,7 +242,7 @@ _Last updated: 2026-05-13 03:47 UTC_
 | 16 | Brittney Griner | 2,531 |
 | 17 | Swin Cash | 2,521 |
 | 18 | A'ja Wilson | 2,494 |
-| 19 | **Breanna Stewart** 🔴 +9 | 2,493 |
+| 18 | **Breanna Stewart** 🔴 +10 | 2,494 |
 | 20 | Michelle Snow | 2,476 |
 | 21 | Crystal Langhorne | 2,454 |
 | 22 | Lauren Jackson | 2,444 |
@@ -876,7 +876,7 @@ _Last updated: 2026-05-13 03:47 UTC_
 | 35 | Sheri Sam | 438 |
 | 36 | Camille Smith | 437 |
 | 37 | Chelsea Gray | 436 |
-| 38 | **Natasha Howard** 🔴 | 434 |
+| 38 | **Natasha Howard** 🔴 +1 | 435 |
 | 39 | Candice Dupree | 431 |
 | 40 | Epiphanny Prince | 429 |
 | 41 | Tanisha Wright | 427 |
