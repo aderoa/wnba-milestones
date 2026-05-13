@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-13 02:38 UTC_
+_Last updated: 2026-05-13 02:39 UTC_
 
 ## Contents
 
@@ -73,7 +73,7 @@ _Last updated: 2026-05-13 02:38 UTC_
 | 52 | Allisha Gray | 4,183 |
 | 53 | Rebekkah Brunson | 4,133 |
 | 54 | **Jonquel Jones** 🔴 +5 | 4,101 |
-| 55 | **Kahleah Copper** 🔴 +8 | 4,091 |
+| 55 | **Kahleah Copper** 🔴 +11 | 4,094 |
 | 56 | Dearica Hamby | 4,090 |
 | 57 | **Courtney Williams** 🔴 | 4,061 |
 | 58 | Asjha Jones | 3,986 |
@@ -435,7 +435,7 @@ _Last updated: 2026-05-13 02:38 UTC_
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
 | 6 | Chelsea Gray | 1,870 |
-| 7 | **Alyssa Thomas** 🔴 +2 | 1,822 |
+| 7 | **Alyssa Thomas** 🔴 +3 | 1,823 |
 | 8 | Skylar Diggins | 1,768 |
 | 9 | Natasha Cloud | 1,733 |
 | 10 | Becky Hammon | 1,705 |
@@ -476,8 +476,8 @@ _Last updated: 2026-05-13 02:38 UTC_
 | 45 | Tamecka Dixon | 960 |
 | 46 | Kara Lawson | 946 |
 | 46 | **Kayla McBride** 🔴 +1 | 946 |
+| 48 | **Breanna Stewart** 🔴 +1 | 930 |
 | 48 | Deanna Nolan | 930 |
-| 49 | **Breanna Stewart** 🔴 | 929 |
 | 50 | Kelly Miller | 927 |
 | 51 | DeLisha Milton-Jones | 921 |
 | 51 | Tiffany Hayes | 921 |
@@ -768,10 +768,10 @@ _Last updated: 2026-05-13 02:38 UTC_
 | 132 | Rhyne Howard | 97 |
 | 133 | Aneika Morello | 96 |
 | 133 | Tiffani Johnson | 96 |
+| 135 | **Emily Engstler** 🔴 +3 | 95 |
 | 135 | Imani McGee-Stafford | 95 |
 | 135 | Isabelle Harrison | 95 |
-| 137 | **Emily Engstler** 🔴 +2 | 94 |
-| 137 | Sandrine Gruda | 94 |
+| 138 | Sandrine Gruda | 94 |
 | 139 | Kamilla Cardoso | 93 |
 | 140 | Jasmine Thomas | 91 |
 | 140 | Jewell Loyd | 91 |
@@ -1098,8 +1098,8 @@ _Last updated: 2026-05-13 02:38 UTC_
 | 52 | Nykesha Sales | 352 |
 | 53 | Cathrine Kraayeveld | 343 |
 | 53 | Elena Delle Donne | 343 |
-| 55 | Candace Parker | 342 |
-| 55 | **Kahleah Copper** 🔴 +1 | 342 |
+| 53 | **Kahleah Copper** 🔴 +2 | 343 |
+| 56 | Candace Parker | 342 |
 | 57 | Deanna Nolan | 340 |
 | 58 | Anna DeForge | 334 |
 | 59 | Natasha Cloud | 331 |
@@ -1194,9 +1194,9 @@ _Last updated: 2026-05-13 02:38 UTC_
 | 148 | Wendy Palmer | 146 |
 | 149 | Helen Darling | 144 |
 | 149 | Matee Ajavon | 144 |
+| 151 | **Marine Johannès** 🔴 +2 | 143 |
 | 151 | Shenise Johnson | 143 |
-| 152 | Katie Lou Samuelson | 142 |
-| 152 | **Marine Johannès** 🔴 +1 | 142 |
+| 153 | Katie Lou Samuelson | 142 |
 | 154 | Jordan Hooper | 141 |
 | 155 | Coco Miller | 139 |
 | 156 | Dearica Hamby | 138 |

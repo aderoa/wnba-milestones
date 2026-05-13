@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-13 02:39 UTC
+
+- **Kahleah Copper** passed **Candace Parker** for **#55** all-time in three-pointers (career 343) — up from #56 entering today — _5:53 - 2nd — MIN @ PHX_
+
 ## 2026-05-13 02:34 UTC
 
 - **Betnijah Laney-Hamilton** passed **Tiffany Mitchell** for **#127** all-time in turnovers (career 440) — up from #131 entering today — _7:28 - 2nd — NY @ POR_
