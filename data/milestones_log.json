@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-13T02:22:00+00:00",
+    "text": "Betnijah Laney-Hamilton passed Shekinna Stricklen for #136 all-time in points (career 2,247) \u2014 up from #137 entering today \u2014 (39.9 - 1st \u2014 NY @ POR)",
+    "kind": "rank_pass",
+    "player": "Betnijah Laney-Hamilton",
+    "stat": "points",
+    "rank": 136,
+    "passed_players": [
+      "Shekinna Stricklen"
+    ],
+    "new_total": 2247
+  },
+  {
     "ts": "2026-05-13T02:17:00+00:00",
     "text": "Nia Coffey reached 800 career rebounds (now 800) \u2014 (3:19 - 1st \u2014 MIN @ PHX)",
     "kind": "round",
