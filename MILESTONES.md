@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-13 03:22 UTC
+
+- **Courtney Williams** passed **Theresa Plaisance** for **#122** all-time in blocks (career 103) — up from #123 entering today — _6:21 - 3rd — MIN @ PHX_
+
 ## 2026-05-13 02:51 UTC
 
 - **Betnijah Laney-Hamilton** passed **Ann Wauters** for **#126** all-time in turnovers (career 441) — up from #131 entering today — _Halftime — NY @ POR_
