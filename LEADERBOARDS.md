@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-13 23:41 UTC_
+_Last updated: 2026-05-13 23:42 UTC_
 
 ## Contents
 
@@ -1642,7 +1642,7 @@ _Last updated: 2026-05-13 23:41 UTC_
 | 186 | Seimone Augustus | 477 |
 | 187 | Allie Quigley | 475 |
 | 188 | Rachel Banham | 472 |
-| 189 | **Kia Nurse** 🔴 +1 | 466 |
+| 189 | **Kia Nurse** 🔴 +2 | 467 |
 | 190 | Azurá Stevens | 463 |
 | 190 | Christi Thomas | 463 |
 | 190 | Nikki Teasley | 463 |
