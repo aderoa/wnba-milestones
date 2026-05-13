@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-13 03:51 UTC_
+_Last updated: 2026-05-13 03:52 UTC_
 
 ## Contents
 
@@ -73,7 +73,7 @@ _Last updated: 2026-05-13 03:51 UTC_
 | 52 | Allisha Gray | 4,183 |
 | 53 | Rebekkah Brunson | 4,133 |
 | 54 | **Jonquel Jones** 🔴 +15 | 4,111 |
-| 55 | **Kahleah Copper** 🔴 +24 | 4,107 |
+| 55 | **Kahleah Copper** 🔴 +26 | 4,109 |
 | 56 | Dearica Hamby | 4,090 |
 | 57 | **Courtney Williams** 🔴 +11 | 4,072 |
 | 58 | Asjha Jones | 3,986 |
@@ -435,7 +435,7 @@ _Last updated: 2026-05-13 03:51 UTC_
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
 | 6 | Chelsea Gray | 1,870 |
-| 7 | **Alyssa Thomas** 🔴 +5 | 1,825 |
+| 7 | **Alyssa Thomas** 🔴 +6 | 1,826 |
 | 8 | Skylar Diggins | 1,768 |
 | 9 | Natasha Cloud | 1,733 |
 | 10 | Becky Hammon | 1,705 |
@@ -1529,7 +1529,7 @@ _Last updated: 2026-05-13 03:51 UTC_
 | 73 | Latasha Byears | 730 |
 | 74 | Kristi Toliver | 722 |
 | 75 | Natasha Cloud | 718 |
-| 76 | **Kahleah Copper** 🔴 +1 | 716 |
+| 76 | **Kahleah Copper** 🔴 +2 | 717 |
 | 77 | Cheryl Ford | 713 |
 | 78 | Jia Perkins | 711 |
 | 79 | Helen Darling | 709 |
