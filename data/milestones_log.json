@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-13T23:37:00+00:00",
+    "text": "Julie Allemand passed Riquna Williams for #172 all-time in assists (career 388) \u2014 up from #173 entering today \u2014 (5:13 - 2nd \u2014 SEA @ TOR)",
+    "kind": "rank_pass",
+    "player": "Julie Allemand",
+    "stat": "assists",
+    "rank": 172,
+    "passed_players": [
+      "Riquna Williams"
+    ],
+    "new_total": 388
+  },
+  {
     "ts": "2026-05-13T23:31:00+00:00",
     "text": "Marina Mabrey passed Ariel Atkins for #28 all-time in three-pointers (career 441) \u2014 up from #29 entering today \u2014 (7:04 - 2nd \u2014 SEA @ TOR)",
     "kind": "rank_pass",
