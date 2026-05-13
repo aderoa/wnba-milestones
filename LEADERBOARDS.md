@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-13 23:45 UTC_
+_Last updated: 2026-05-13 23:46 UTC_
 
 ## Contents
 
@@ -206,7 +206,7 @@ _Last updated: 2026-05-13 23:45 UTC_
 | 185 | Sandy Brondello | 1,759 |
 | 186 | Sugar Rodgers | 1,733 |
 | 187 | Moriah Jefferson | 1,722 |
-| 188 | **Natisha Hiedeman** 🔴 | 1,716 |
+| 188 | **Natisha Hiedeman** 🔴 +2 | 1,718 |
 | 189 | Armintie Herrington | 1,696 |
 | 190 | Nikki Teasley | 1,690 |
 | 191 | Shenise Johnson | 1,688 |
@@ -495,7 +495,7 @@ _Last updated: 2026-05-13 23:45 UTC_
 | 64 | Lisa Leslie | 873 |
 | 65 | Tully Bevilaqua | 853 |
 | 66 | Jia Perkins | 837 |
-| 67 | **Brittney Sykes** 🔴 +3 | 819 |
+| 67 | **Brittney Sykes** 🔴 +4 | 820 |
 | 68 | Andrea Stinson | 810 |
 | 69 | Tina Thompson | 803 |
 | 70 | Epiphanny Prince | 800 |
@@ -723,9 +723,9 @@ _Last updated: 2026-05-13 23:45 UTC_
 | 85 | Seimone Augustus | 133 |
 | 88 | Katie Mattera | 131 |
 | 88 | Nakia Sanford | 131 |
-| 90 | **Brittney Sykes** 🔴 | 129 |
-| 90 | Brooke Wyckoff | 129 |
-| 90 | Cathrine Kraayeveld | 129 |
+| 90 | **Brittney Sykes** 🔴 +1 | 130 |
+| 91 | Brooke Wyckoff | 129 |
+| 91 | Cathrine Kraayeveld | 129 |
 | 93 | Chiney Ogwumike | 127 |
 | 93 | Kristen Rasmussen | 127 |
 | 95 | Katie Douglas | 126 |
@@ -1333,7 +1333,7 @@ _Last updated: 2026-05-13 23:45 UTC_
 | 82 | Kara Braxton | 570 |
 | 83 | Nikki McCray | 565 |
 | 84 | Sancho Lyttle | 563 |
-| 85 | **Brittney Sykes** 🔴 +1 | 559 |
+| 85 | **Brittney Sykes** 🔴 +2 | 560 |
 | 86 | Tan White | 557 |
 | 87 | Breanna Stewart | 549 |
 | 87 | Kelsey Mitchell | 549 |

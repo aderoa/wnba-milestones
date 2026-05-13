@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-13 23:46 UTC
+
+- **Brittney Sykes** passed **Brooke Wyckoff** and **Cathrine Kraayeveld** for **#91** all-time in blocks (career 130) — _1:45 - 2nd — SEA @ TOR_
+
 ## 2026-05-13 23:38 UTC
 
 - **Brittney Sykes** passed **Chiney Ogwumike** for **#112** all-time in rebounds (career 1,111) — up from #114 entering today — _4:42 - 2nd — SEA @ TOR_
