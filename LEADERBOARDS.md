@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-13 03:29 UTC_
+_Last updated: 2026-05-13 03:30 UTC_
 
 ## Contents
 
@@ -73,7 +73,7 @@ _Last updated: 2026-05-13 03:29 UTC_
 | 52 | Allisha Gray | 4,183 |
 | 53 | Rebekkah Brunson | 4,133 |
 | 54 | **Jonquel Jones** 🔴 +13 | 4,109 |
-| 55 | **Kahleah Copper** 🔴 +15 | 4,098 |
+| 55 | **Kahleah Copper** 🔴 +17 | 4,100 |
 | 56 | Dearica Hamby | 4,090 |
 | 57 | **Courtney Williams** 🔴 +7 | 4,068 |
 | 58 | Asjha Jones | 3,986 |

@@ -1,5 +1,14 @@
 [
   {
+    "ts": "2026-05-13T03:30:00+00:00",
+    "text": "Kahleah Copper reached 4,100 career points (now 4,100) \u2014 (3:42 - 3rd \u2014 MIN @ PHX)",
+    "kind": "round",
+    "player": "Kahleah Copper",
+    "stat": "points",
+    "value": 4100,
+    "new_total": 4100
+  },
+  {
     "ts": "2026-05-13T03:29:00+00:00",
     "text": "Kayla McBride passed Vicky Bullett for #161 all-time in fouls (career 508) \u2014 (3:56 - 3rd \u2014 MIN @ PHX)",
     "kind": "rank_pass",
