@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-13 00:11 UTC_
+_Last updated: 2026-05-13 00:12 UTC_
 
 ## Contents
 
@@ -171,7 +171,7 @@ _Last updated: 2026-05-13 00:11 UTC_
 | 150 | Satou Sabally | 2,161 |
 | 151 | Murriel Page | 2,146 |
 | 152 | Marissa Coleman | 2,140 |
-| 153 | **Jordin Canada** 🔴 +4 | 2,136 |
+| 153 | **Jordin Canada** 🔴 +7 | 2,139 |
 | 154 | Tari Phillips | 2,134 |
 | 155 | Cheryl Ford | 2,116 |
 | 156 | Elena Baranova | 2,110 |
@@ -560,7 +560,7 @@ _Last updated: 2026-05-13 00:11 UTC_
 | 128 | Tiffany Mitchell | 488 |
 | 130 | Rebekkah Brunson | 486 |
 | 131 | Veronica Burton | 485 |
-| 132 | **Rhyne Howard** 🔴 | 481 |
+| 132 | **Rhyne Howard** 🔴 +1 | 482 |
 | 133 | Ukari Figgs | 470 |
 | 134 | Janeth Arcain | 469 |
 | 135 | Kahleah Copper | 463 |
@@ -1227,8 +1227,8 @@ _Last updated: 2026-05-13 00:11 UTC_
 | 179 | Stephanie White | 115 |
 | 182 | Gordana Grubin | 114 |
 | 182 | Sandy Brondello | 114 |
-| 184 | **Jordin Canada** 🔴 | 111 |
-| 184 | Shoni Schimmel | 111 |
+| 184 | **Jordin Canada** 🔴 +1 | 112 |
+| 185 | Shoni Schimmel | 111 |
 | 186 | Emma Meesseman | 109 |
 | 186 | Lexie Hull | 109 |
 | 186 | Scholanda Dorrell | 109 |
