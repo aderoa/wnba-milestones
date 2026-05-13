@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-13 00:38 UTC_
+_Last updated: 2026-05-13 00:39 UTC_
 
 ## Contents
 
@@ -70,7 +70,7 @@ _Last updated: 2026-05-13 00:38 UTC_
 | 49 | Vickie Johnson | 4,230 |
 | 50 | Yolanda Griffith | 4,224 |
 | 51 | Kelsey Plum | 4,207 |
-| 52 | **Allisha Gray** 🔴 +6 | 4,163 |
+| 52 | **Allisha Gray** 🔴 +7 | 4,164 |
 | 53 | Rebekkah Brunson | 4,133 |
 | 54 | Jonquel Jones | 4,096 |
 | 55 | Dearica Hamby | 4,090 |
@@ -89,7 +89,7 @@ _Last updated: 2026-05-13 00:38 UTC_
 | 67 | Shannon Johnson | 3,542 |
 | 69 | Renee Montgomery | 3,533 |
 | 70 | Jasmine Thomas | 3,522 |
-| 71 | **Odyssey Sims** 🔴 +5 | 3,519 |
+| 71 | **Odyssey Sims** 🔴 +7 | 3,521 |
 | 72 | Tamecka Dixon | 3,507 |
 | 73 | Tammy Sutton-Brown | 3,498 |
 | 74 | Sancho Lyttle | 3,478 |
@@ -149,7 +149,7 @@ _Last updated: 2026-05-13 00:38 UTC_
 | 128 | Anna DeForge | 2,413 |
 | 129 | DeMya Walker | 2,379 |
 | 130 | Alex Bentley | 2,350 |
-| 131 | **Rhyne Howard** 🔴 +4 | 2,333 |
+| 131 | **Rhyne Howard** 🔴 +7 | 2,336 |
 | 132 | Merlakia Jones | 2,308 |
 | 133 | Kia Vaughn | 2,288 |
 | 134 | Allison Feaster | 2,258 |
@@ -382,8 +382,8 @@ _Last updated: 2026-05-13 00:38 UTC_
 | 156 | **Alanna Smith** 🔴 +6 | 840 |
 | 157 | Essence Carson | 833 |
 | 158 | Kristi Toliver | 829 |
+| 159 | **Angel Reese** 🔴 +5 | 828 |
 | 159 | Marie Ferdinand-Harris | 828 |
-| 160 | **Angel Reese** 🔴 +4 | 827 |
 | 161 | Marlies Askamp | 822 |
 | 162 | Amanda Zahui B | 819 |
 | 162 | Barbara Farris | 819 |
@@ -1092,7 +1092,7 @@ _Last updated: 2026-05-13 00:38 UTC_
 | 45 | Betty Lennox | 372 |
 | 45 | Rachel Banham | 372 |
 | 48 | Epiphanny Prince | 368 |
-| 49 | **Rhyne Howard** 🔴 | 366 |
+| 49 | **Rhyne Howard** 🔴 +1 | 367 |
 | 50 | Jonquel Jones | 357 |
 | 51 | Kia Nurse | 356 |
 | 52 | Nykesha Sales | 352 |
