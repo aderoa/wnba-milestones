@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-13 23:31 UTC
+
+- **Marina Mabrey** passed **Ariel Atkins** for **#28** all-time in three-pointers (career 441) — up from #29 entering today — _7:04 - 2nd — SEA @ TOR_
+
 ## 2026-05-13 23:30 UTC
 
 - **Zia Cooke** reached **400** career points (now 400) — _7:16 - 2nd — SEA @ TOR_
