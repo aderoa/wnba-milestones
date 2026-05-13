@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-13 23:15 UTC_
+_Last updated: 2026-05-13 23:16 UTC_
 
 ## Contents
 
@@ -164,7 +164,7 @@ _Last updated: 2026-05-13 23:15 UTC_
 | 142 | Teaira McCowan | 2,215 |
 | 144 | Sami Whitcomb | 2,211 |
 | 145 | Sophia Witherspoon | 2,210 |
-| 146 | Kia Nurse | 2,190 |
+| 146 | **Kia Nurse** 🔴 | 2,190 |
 | 147 | Ruthie Bolton | 2,175 |
 | 148 | Ann Wauters | 2,170 |
 | 149 | Layshia Clarendon | 2,168 |
@@ -387,7 +387,7 @@ _Last updated: 2026-05-13 23:15 UTC_
 | 161 | Marlies Askamp | 822 |
 | 162 | Amanda Zahui B | 819 |
 | 162 | Barbara Farris | 819 |
-| 164 | **Marina Mabrey** 🔴 | 818 |
+| 162 | **Marina Mabrey** 🔴 +1 | 819 |
 | 165 | Carolyn Swords | 814 |
 | 166 | Jessica Shepard | 813 |
 | 167 | Tierra Ruffin-Pratt | 799 |
@@ -495,7 +495,7 @@ _Last updated: 2026-05-13 23:15 UTC_
 | 64 | Lisa Leslie | 873 |
 | 65 | Tully Bevilaqua | 853 |
 | 66 | Jia Perkins | 837 |
-| 67 | **Brittney Sykes** 🔴 +1 | 817 |
+| 67 | **Brittney Sykes** 🔴 +2 | 818 |
 | 68 | Andrea Stinson | 810 |
 | 69 | Tina Thompson | 803 |
 | 70 | Epiphanny Prince | 800 |
@@ -595,7 +595,7 @@ _Last updated: 2026-05-13 23:15 UTC_
 | 164 | Allison Feaster | 406 |
 | 165 | Rita Williams | 403 |
 | 166 | Marissa Coleman | 399 |
-| 167 | Kia Nurse | 398 |
+| 167 | **Kia Nurse** 🔴 | 398 |
 | 168 | Stacey Dales | 395 |
 | 169 | Sugar Rodgers | 393 |
 | 170 | Shameka Christon | 389 |
@@ -1094,7 +1094,7 @@ _Last updated: 2026-05-13 23:15 UTC_
 | 48 | Epiphanny Prince | 368 |
 | 49 | Rhyne Howard | 366 |
 | 50 | Jonquel Jones | 357 |
-| 51 | Kia Nurse | 356 |
+| 51 | **Kia Nurse** 🔴 | 356 |
 | 52 | Nykesha Sales | 352 |
 | 53 | Cathrine Kraayeveld | 343 |
 | 53 | Elena Delle Donne | 343 |
@@ -1430,7 +1430,7 @@ _Last updated: 2026-05-13 23:15 UTC_
 | 179 | Olympia Scott | 324 |
 | 180 | Satou Sabally | 323 |
 | 181 | Barbara Farris | 315 |
-| 182 | Kia Nurse | 314 |
+| 182 | **Kia Nurse** 🔴 | 314 |
 | 182 | Moriah Jefferson | 314 |
 | 184 | Alex Bentley | 313 |
 | 185 | Tamika Raymond | 311 |
@@ -1642,7 +1642,7 @@ _Last updated: 2026-05-13 23:15 UTC_
 | 186 | Seimone Augustus | 477 |
 | 187 | Allie Quigley | 475 |
 | 188 | Rachel Banham | 472 |
-| 189 | Kia Nurse | 465 |
+| 189 | **Kia Nurse** 🔴 | 465 |
 | 190 | Azurá Stevens | 463 |
 | 190 | Christi Thomas | 463 |
 | 190 | Nikki Teasley | 463 |
