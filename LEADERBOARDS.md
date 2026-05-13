@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-13 01:54 UTC_
+_Last updated: 2026-05-13 01:55 UTC_
 
 ## Contents
 
@@ -169,7 +169,7 @@ _Last updated: 2026-05-13 01:54 UTC_
 | 148 | Ann Wauters | 2,170 |
 | 149 | Layshia Clarendon | 2,168 |
 | 150 | Satou Sabally | 2,161 |
-| 151 | **Jordin Canada** 🔴 +16 | 2,148 |
+| 151 | **Jordin Canada** 🔴 +19 | 2,151 |
 | 152 | Murriel Page | 2,146 |
 | 153 | Marissa Coleman | 2,140 |
 | 154 | Tari Phillips | 2,134 |
@@ -613,7 +613,7 @@ _Last updated: 2026-05-13 01:54 UTC_
 | 182 | Andrea Nagy | 361 |
 | 182 | Diamond DeShields | 361 |
 | 182 | Erlana Larkins | 361 |
-| 185 | **Alanna Smith** 🔴 +2 | 357 |
+| 185 | **Alanna Smith** 🔴 +3 | 358 |
 | 186 | Kayla Thornton | 355 |
 | 186 | Merlakia Jones | 355 |
 | 188 | Bridget Carleton | 352 |
@@ -1226,8 +1226,8 @@ _Last updated: 2026-05-13 01:54 UTC_
 | 179 | Shey Peddy | 115 |
 | 179 | Stephanie White | 115 |
 | 182 | Gordana Grubin | 114 |
+| 182 | **Jordin Canada** 🔴 +3 | 114 |
 | 182 | Sandy Brondello | 114 |
-| 184 | **Jordin Canada** 🔴 +2 | 113 |
 | 185 | Shoni Schimmel | 111 |
 | 186 | Emma Meesseman | 109 |
 | 186 | Lexie Hull | 109 |
