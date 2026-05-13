@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-13 02:07 UTC_
+_Last updated: 2026-05-13 02:08 UTC_
 
 ## Contents
 
@@ -251,7 +251,7 @@ _Last updated: 2026-05-13 02:07 UTC_
 | 25 | Dearica Hamby | 2,317 |
 | 26 | Erika de Souza | 2,220 |
 | 27 | Diana Taurasi | 2,201 |
-| 28 | **Natasha Howard** 🔴 | 2,174 |
+| 28 | **Natasha Howard** 🔴 +1 | 2,175 |
 | 29 | Margo Dydek | 2,138 |
 | 30 | Chamique Holdsclaw | 2,123 |
 | 31 | Chasity Melvin | 2,097 |
@@ -391,7 +391,7 @@ _Last updated: 2026-05-13 02:07 UTC_
 | 165 | Marina Mabrey | 818 |
 | 166 | Carolyn Swords | 814 |
 | 167 | Tierra Ruffin-Pratt | 799 |
-| 168 | **Nia Coffey** 🔴 +1 | 796 |
+| 168 | **Nia Coffey** 🔴 +2 | 797 |
 | 169 | Charlotte Smith | 794 |
 | 170 | Rhonda Mapp | 788 |
 | 171 | **Betnijah Laney-Hamilton** 🔴 +1 | 786 |
