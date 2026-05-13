@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-13 02:46 UTC_
+_Last updated: 2026-05-13 02:47 UTC_
 
 ## Contents
 
@@ -21,7 +21,7 @@ _Last updated: 2026-05-13 02:46 UTC_
 |-----:|--------|------:|
 | 1 | Diana Taurasi | 10,608 |
 | 2 | Tina Charles | 8,396 |
-| 3 | **DeWanna Bonner** 🔴 +5 | 7,810 |
+| 3 | **DeWanna Bonner** 🔴 +8 | 7,813 |
 | 4 | Tina Thompson | 7,470 |
 | 5 | Tamika Catchings | 7,371 |
 | 6 | Nneka Ogwumike | 7,305 |
@@ -33,7 +33,7 @@ _Last updated: 2026-05-13 02:46 UTC_
 | 12 | Sylvia Fowles | 6,413 |
 | 13 | Lisa Leslie | 6,251 |
 | 14 | Jewell Loyd | 6,027 |
-| 15 | **Breanna Stewart** 🔴 +2 | 6,018 |
+| 15 | **Breanna Stewart** 🔴 +4 | 6,020 |
 | 16 | Lauren Jackson | 6,005 |
 | 16 | Seimone Augustus | 6,005 |
 | 18 | Brittney Griner | 5,967 |
@@ -44,7 +44,7 @@ _Last updated: 2026-05-13 02:46 UTC_
 | 23 | Katie Douglas | 5,545 |
 | 24 | Lindsay Whalen | 5,511 |
 | 25 | Skylar Diggins | 5,489 |
-| 26 | **Kayla McBride** 🔴 +4 | 5,393 |
+| 26 | **Kayla McBride** 🔴 +6 | 5,395 |
 | 27 | Swin Cash | 5,119 |
 | 28 | Tangela Smith | 5,035 |
 | 29 | Taj McWilliams-Franklin | 4,992 |
@@ -393,9 +393,9 @@ _Last updated: 2026-05-13 02:46 UTC_
 | 167 | **Nia Coffey** 🔴 +5 | 800 |
 | 168 | Tierra Ruffin-Pratt | 799 |
 | 169 | Charlotte Smith | 794 |
+| 170 | **Betnijah Laney-Hamilton** 🔴 +3 | 788 |
 | 170 | Rhonda Mapp | 788 |
-| 171 | **Betnijah Laney-Hamilton** 🔴 +1 | 786 |
-| 171 | Mercedes Russell | 786 |
+| 172 | Mercedes Russell | 786 |
 | 173 | Sue Wicks | 780 |
 | 174 | Lindsey Harding | 779 |
 | 175 | Tiffani Johnson | 778 |
@@ -563,7 +563,7 @@ _Last updated: 2026-05-13 02:46 UTC_
 | 131 | Veronica Burton | 485 |
 | 133 | Ukari Figgs | 470 |
 | 134 | Janeth Arcain | 469 |
-| 135 | **Kahleah Copper** 🔴 +1 | 464 |
+| 135 | **Kahleah Copper** 🔴 +2 | 465 |
 | 136 | Erin Phillips | 462 |
 | 137 | Sylvia Fowles | 461 |
 | 138 | Sydney Colson | 454 |
@@ -1053,7 +1053,7 @@ _Last updated: 2026-05-13 02:46 UTC_
 | 7 | **Kayla McBride** 🔴 | 722 |
 | 8 | Kelsey Mitchell | 669 |
 | 9 | Jewell Loyd | 667 |
-| 10 | **DeWanna Bonner** 🔴 +1 | 664 |
+| 10 | **DeWanna Bonner** 🔴 +2 | 665 |
 | 11 | Kristi Toliver | 651 |
 | 12 | Tamika Catchings | 605 |
 | 13 | Kelsey Plum | 588 |
@@ -1494,7 +1494,7 @@ _Last updated: 2026-05-13 02:46 UTC_
 | 38 | Briann January | 921 |
 | 39 | Ticha Penicheiro | 913 |
 | 40 | Shavonte Zellous | 907 |
-| 41 | **DeWanna Bonner** 🔴 +1 | 892 |
+| 41 | **DeWanna Bonner** 🔴 +2 | 893 |
 | 42 | Alysha Clark | 885 |
 | 43 | DeMya Walker | 882 |
 | 44 | Candice Dupree | 876 |
