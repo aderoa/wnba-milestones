@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-13 02:39 UTC_
+_Last updated: 2026-05-13 02:40 UTC_
 
 ## Contents
 
@@ -33,7 +33,7 @@ _Last updated: 2026-05-13 02:39 UTC_
 | 12 | Sylvia Fowles | 6,413 |
 | 13 | Lisa Leslie | 6,251 |
 | 14 | Jewell Loyd | 6,027 |
-| 15 | **Breanna Stewart** 🔴 | 6,016 |
+| 15 | **Breanna Stewart** 🔴 +2 | 6,018 |
 | 16 | Lauren Jackson | 6,005 |
 | 16 | Seimone Augustus | 6,005 |
 | 18 | Brittney Griner | 5,967 |
@@ -72,7 +72,7 @@ _Last updated: 2026-05-13 02:39 UTC_
 | 51 | Kelsey Plum | 4,207 |
 | 52 | Allisha Gray | 4,183 |
 | 53 | Rebekkah Brunson | 4,133 |
-| 54 | **Jonquel Jones** 🔴 +5 | 4,101 |
+| 54 | **Jonquel Jones** 🔴 +8 | 4,104 |
 | 55 | **Kahleah Copper** 🔴 +11 | 4,094 |
 | 56 | Dearica Hamby | 4,090 |
 | 57 | **Courtney Williams** 🔴 | 4,061 |
@@ -242,7 +242,7 @@ _Last updated: 2026-05-13 02:39 UTC_
 | 16 | Brittney Griner | 2,531 |
 | 17 | Swin Cash | 2,521 |
 | 18 | A'ja Wilson | 2,494 |
-| 19 | **Breanna Stewart** 🔴 +5 | 2,489 |
+| 19 | **Breanna Stewart** 🔴 +6 | 2,490 |
 | 20 | Michelle Snow | 2,476 |
 | 21 | Crystal Langhorne | 2,454 |
 | 22 | Lauren Jackson | 2,444 |
@@ -476,8 +476,8 @@ _Last updated: 2026-05-13 02:39 UTC_
 | 45 | Tamecka Dixon | 960 |
 | 46 | Kara Lawson | 946 |
 | 46 | **Kayla McBride** 🔴 +1 | 946 |
-| 48 | **Breanna Stewart** 🔴 +1 | 930 |
-| 48 | Deanna Nolan | 930 |
+| 48 | **Breanna Stewart** 🔴 +2 | 931 |
+| 49 | Deanna Nolan | 930 |
 | 50 | Kelly Miller | 927 |
 | 51 | DeLisha Milton-Jones | 921 |
 | 51 | Tiffany Hayes | 921 |
@@ -931,8 +931,8 @@ _Last updated: 2026-05-13 02:39 UTC_
 | 90 | Debbie Black | 315 |
 | 91 | Alysha Clark | 314 |
 | 91 | Crystal Langhorne | 314 |
-| 93 | **Courtney Williams** 🔴 | 308 |
-| 93 | Ebony Hoffman | 308 |
+| 93 | **Courtney Williams** 🔴 +1 | 309 |
+| 94 | Ebony Hoffman | 308 |
 | 95 | Tamera Young | 305 |
 | 96 | Kedra Holland-Corn | 301 |
 | 97 | Gabby Williams | 297 |
@@ -1093,7 +1093,7 @@ _Last updated: 2026-05-13 02:39 UTC_
 | 45 | Rachel Banham | 372 |
 | 48 | Epiphanny Prince | 368 |
 | 49 | Rhyne Howard | 367 |
-| 50 | **Jonquel Jones** 🔴 +1 | 358 |
+| 50 | **Jonquel Jones** 🔴 +2 | 359 |
 | 51 | Kia Nurse | 356 |
 | 52 | Nykesha Sales | 352 |
 | 53 | Cathrine Kraayeveld | 343 |
@@ -1172,7 +1172,7 @@ _Last updated: 2026-05-13 02:39 UTC_
 | 126 | Amanda Lassiter | 170 |
 | 127 | Shavonte Zellous | 167 |
 | 127 | Tianna Hawkins | 167 |
-| 129 | **Nia Coffey** 🔴 | 165 |
+| 129 | **Nia Coffey** 🔴 +1 | 166 |
 | 130 | Charlotte Smith | 164 |
 | 131 | Ukari Figgs | 162 |
 | 132 | Edna Campbell | 161 |
@@ -1325,7 +1325,7 @@ _Last updated: 2026-05-13 02:39 UTC_
 | 74 | Lindsey Harding | 600 |
 | 74 | Tamika Whitmore | 600 |
 | 76 | Kelly Miller | 596 |
-| 77 | **Kahleah Copper** 🔴 +2 | 581 |
+| 77 | **Kahleah Copper** 🔴 +3 | 582 |
 | 78 | Stefanie Dolson | 577 |
 | 79 | Helen Darling | 575 |
 | 79 | Nykesha Sales | 575 |
