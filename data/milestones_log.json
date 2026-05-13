@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-13T03:29:00+00:00",
+    "text": "Kayla McBride passed Vicky Bullett for #161 all-time in fouls (career 508) \u2014 (3:56 - 3rd \u2014 MIN @ PHX)",
+    "kind": "rank_pass",
+    "player": "Kayla McBride",
+    "stat": "fouls",
+    "rank": 161,
+    "passed_players": [
+      "Vicky Bullett"
+    ],
+    "new_total": 508
+  },
+  {
     "ts": "2026-05-13T03:27:00+00:00",
     "text": "Kahleah Copper passed Jonquel Jones for #54 all-time in points (career 4,097) \u2014 up from #56 entering today \u2014 (4:33 - 3rd \u2014 MIN @ PHX)",
     "kind": "rank_pass",

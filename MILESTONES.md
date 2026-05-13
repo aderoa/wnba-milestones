@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-13 03:29 UTC
+
+- **Kayla McBride** passed **Vicky Bullett** for **#161** all-time in fouls (career 508) — _3:56 - 3rd — MIN @ PHX_
+
 ## 2026-05-13 03:27 UTC
 
 - **Kahleah Copper** passed **Jonquel Jones** for **#54** all-time in points (career 4,097) — up from #56 entering today — _4:33 - 3rd — MIN @ PHX_
