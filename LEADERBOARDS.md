@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-13 23:46 UTC_
+_Last updated: 2026-05-13 23:47 UTC_
 
 ## Contents
 
@@ -269,7 +269,7 @@ _Last updated: 2026-05-13 23:46 UTC_
 | 43 | Kiah Stokes | 1,746 |
 | 44 | Teaira McCowan | 1,670 |
 | 45 | Monique Currie | 1,666 |
-| 46 | **Stefanie Dolson** 🔴 +1 | 1,656 |
+| 46 | **Stefanie Dolson** 🔴 +2 | 1,657 |
 | 47 | Glory Johnson | 1,640 |
 | 48 | Vickie Johnson | 1,634 |
 | 49 | Kia Vaughn | 1,626 |
@@ -532,7 +532,7 @@ _Last updated: 2026-05-13 23:46 UTC_
 | 101 | Sancho Lyttle | 592 |
 | 102 | Camille Smith | 590 |
 | 103 | Armintie Herrington | 589 |
-| 104 | **Natisha Hiedeman** 🔴 +3 | 587 |
+| 104 | **Natisha Hiedeman** 🔴 +4 | 588 |
 | 105 | Tan White | 578 |
 | 106 | Matee Ajavon | 577 |
 | 107 | Betnijah Laney-Hamilton | 573 |
@@ -664,7 +664,7 @@ _Last updated: 2026-05-13 23:46 UTC_
 | 28 | Elena Baranova | 320 |
 | 29 | Kiah Stokes | 319 |
 | 30 | Candice Dupree | 316 |
-| 31 | **Stefanie Dolson** 🔴 +1 | 307 |
+| 31 | **Stefanie Dolson** 🔴 +2 | 308 |
 | 32 | Vicky Bullett | 288 |
 | 33 | Rebekkah Brunson | 281 |
 | 34 | Liz Cambage | 264 |
