@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-13 01:45 UTC_
+_Last updated: 2026-05-13 01:46 UTC_
 
 ## Contents
 
@@ -169,8 +169,8 @@ _Last updated: 2026-05-13 01:45 UTC_
 | 148 | Ann Wauters | 2,170 |
 | 149 | Layshia Clarendon | 2,168 |
 | 150 | Satou Sabally | 2,161 |
+| 151 | **Jordin Canada** 🔴 +14 | 2,146 |
 | 151 | Murriel Page | 2,146 |
-| 152 | **Jordin Canada** 🔴 +12 | 2,144 |
 | 153 | Marissa Coleman | 2,140 |
 | 154 | Tari Phillips | 2,134 |
 | 155 | Cheryl Ford | 2,116 |
@@ -613,7 +613,7 @@ _Last updated: 2026-05-13 01:45 UTC_
 | 182 | Andrea Nagy | 361 |
 | 182 | Diamond DeShields | 361 |
 | 182 | Erlana Larkins | 361 |
-| 185 | **Alanna Smith** 🔴 +1 | 356 |
+| 185 | **Alanna Smith** 🔴 +2 | 357 |
 | 186 | Kayla Thornton | 355 |
 | 186 | Merlakia Jones | 355 |
 | 188 | Bridget Carleton | 352 |
