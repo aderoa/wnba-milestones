@@ -1,5 +1,14 @@
 [
   {
+    "ts": "2026-05-13T23:30:00+00:00",
+    "text": "Zia Cooke reached 400 career points (now 400) \u2014 (7:16 - 2nd \u2014 SEA @ TOR)",
+    "kind": "round",
+    "player": "Zia Cooke",
+    "stat": "points",
+    "value": 400,
+    "new_total": 400
+  },
+  {
     "ts": "2026-05-13T23:15:00+00:00",
     "text": "Marina Mabrey reached 2,900 career points (now 2,901) \u2014 (4:04 - 1st \u2014 SEA @ TOR)",
     "kind": "round",
