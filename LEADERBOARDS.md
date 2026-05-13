@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-13 01:20 UTC_
+_Last updated: 2026-05-13 01:21 UTC_
 
 ## Contents
 
@@ -57,8 +57,8 @@ _Last updated: 2026-05-13 01:20 UTC_
 | 36 | Elena Delle Donne | 4,706 |
 | 37 | Penny Taylor | 4,595 |
 | 38 | Alyssa Thomas | 4,488 |
-| 39 | **Arike Ogunbowale** 🔴 +10 | 4,474 |
-| 39 | Kristi Toliver | 4,474 |
+| 39 | **Arike Ogunbowale** 🔴 +12 | 4,476 |
+| 40 | Kristi Toliver | 4,474 |
 | 41 | Crystal Langhorne | 4,433 |
 | 41 | Jia Perkins | 4,433 |
 | 43 | Chelsea Gray | 4,409 |
@@ -487,7 +487,7 @@ _Last updated: 2026-05-13 01:20 UTC_
 | 56 | Candice Dupree | 902 |
 | 57 | Maya Moore | 896 |
 | 57 | Nneka Ogwumike | 896 |
-| 59 | **Arike Ogunbowale** 🔴 | 889 |
+| 59 | **Arike Ogunbowale** 🔴 +1 | 890 |
 | 60 | Ivory Latta | 885 |
 | 61 | Helen Darling | 882 |
 | 62 | Taj McWilliams-Franklin | 879 |
@@ -912,9 +912,9 @@ _Last updated: 2026-05-13 01:20 UTC_
 | 71 | Helen Darling | 343 |
 | 72 | Andrea Stinson | 342 |
 | 72 | Erica Wheeler | 342 |
-| 74 | **Arike Ogunbowale** 🔴 +1 | 340 |
-| 74 | Armintie Herrington | 340 |
-| 74 | Natasha Cloud | 340 |
+| 74 | **Arike Ogunbowale** 🔴 +2 | 341 |
+| 75 | Armintie Herrington | 340 |
+| 75 | Natasha Cloud | 340 |
 | 77 | Dawn Staley | 338 |
 | 78 | A'ja Wilson | 335 |
 | 79 | Marie Ferdinand-Harris | 331 |

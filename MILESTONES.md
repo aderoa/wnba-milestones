@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-13 01:21 UTC
+
+- **Arike Ogunbowale** passed **Armintie Herrington** and **Natasha Cloud** for **#74** all-time in steals (career 341) — up from #76 entering today — _4:17 - 3rd — ATL @ DAL_
+
 ## 2026-05-11 02:27 UTC
 
 - **Alyssa Thomas** passed **Ebony Hoffman**, **Essence Carson**, and **Olivia Nelson-Ododa** for **#101** all-time in blocks (career 122) — _2:34 - 4th — PHX @ GS_

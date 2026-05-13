@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-05-13T01:21:00+00:00",
+    "text": "Arike Ogunbowale passed Armintie Herrington and Natasha Cloud for #74 all-time in steals (career 341) \u2014 up from #76 entering today \u2014 (4:17 - 3rd \u2014 ATL @ DAL)",
+    "kind": "rank_pass",
+    "player": "Arike Ogunbowale",
+    "stat": "steals",
+    "rank": 74,
+    "passed_players": [
+      "Armintie Herrington",
+      "Natasha Cloud"
+    ],
+    "new_total": 341
+  },
+  {
     "ts": "2026-05-11T02:27:00+00:00",
     "text": "Alyssa Thomas passed Ebony Hoffman, Essence Carson, and Olivia Nelson-Ododa for #101 all-time in blocks (career 122) \u2014 (2:34 - 4th \u2014 PHX @ GS)",
     "kind": "rank_pass",
