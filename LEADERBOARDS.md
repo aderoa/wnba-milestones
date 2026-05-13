@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-13 03:35 UTC_
+_Last updated: 2026-05-13 03:36 UTC_
 
 ## Contents
 
@@ -72,10 +72,10 @@ _Last updated: 2026-05-13 03:35 UTC_
 | 51 | Kelsey Plum | 4,207 |
 | 52 | Allisha Gray | 4,183 |
 | 53 | Rebekkah Brunson | 4,133 |
-| 54 | **Jonquel Jones** 🔴 +13 | 4,109 |
+| 54 | **Jonquel Jones** 🔴 +15 | 4,111 |
 | 55 | **Kahleah Copper** 🔴 +19 | 4,102 |
 | 56 | Dearica Hamby | 4,090 |
-| 57 | **Courtney Williams** 🔴 +7 | 4,068 |
+| 57 | **Courtney Williams** 🔴 +8 | 4,069 |
 | 58 | Asjha Jones | 3,986 |
 | 59 | Deanna Nolan | 3,971 |
 | 60 | Nykesha Sales | 3,931 |
@@ -446,7 +446,7 @@ _Last updated: 2026-05-13 03:35 UTC_
 | 15 | Shannon Johnson | 1,423 |
 | 15 | Tanisha Wright | 1,423 |
 | 17 | Temeka Johnson | 1,382 |
-| 18 | **Courtney Williams** 🔴 +2 | 1,367 |
+| 18 | **Courtney Williams** 🔴 +3 | 1,368 |
 | 19 | Jasmine Thomas | 1,355 |
 | 20 | Briann January | 1,339 |
 | 21 | Dawn Staley | 1,337 |
@@ -997,10 +997,10 @@ _Last updated: 2026-05-13 03:35 UTC_
 | 156 | Nikki Teasley | 211 |
 | 156 | Rhyne Howard | 211 |
 | 158 | Iziane Castro Marques | 209 |
+| 158 | **Kahleah Copper** 🔴 +2 | 209 |
 | 158 | Tiffany Mitchell | 209 |
-| 160 | **Kahleah Copper** 🔴 +1 | 208 |
-| 160 | Kia Vaughn | 208 |
-| 160 | Sophia Witherspoon | 208 |
+| 161 | Kia Vaughn | 208 |
+| 161 | Sophia Witherspoon | 208 |
 | 163 | Shameka Christon | 205 |
 | 164 | Jessica Breland | 204 |
 | 164 | Murriel Page | 204 |
@@ -1274,7 +1274,7 @@ _Last updated: 2026-05-13 03:35 UTC_
 | 23 | Candice Dupree | 869 |
 | 23 | Chelsea Gray | 869 |
 | 25 | Alana Beard | 854 |
-| 26 | **DeWanna Bonner** 🔴 | 826 |
+| 26 | **DeWanna Bonner** 🔴 +1 | 827 |
 | 27 | Katie Douglas | 824 |
 | 28 | Betty Lennox | 800 |
 | 29 | Jasmine Thomas | 796 |
