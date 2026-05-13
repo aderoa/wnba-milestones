@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-13T03:27:00+00:00",
+    "text": "Kahleah Copper passed Jonquel Jones for #54 all-time in points (career 4,097) \u2014 up from #56 entering today \u2014 (4:33 - 3rd \u2014 MIN @ PHX)",
+    "kind": "rank_pass",
+    "player": "Kahleah Copper",
+    "stat": "points",
+    "rank": 54,
+    "passed_players": [
+      "Jonquel Jones"
+    ],
+    "new_total": 4097
+  },
+  {
     "ts": "2026-05-13T03:22:00+00:00",
     "text": "Courtney Williams passed Theresa Plaisance for #122 all-time in blocks (career 103) \u2014 up from #123 entering today \u2014 (6:21 - 3rd \u2014 MIN @ PHX)",
     "kind": "rank_pass",

@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-13 03:26 UTC_
+_Last updated: 2026-05-13 03:27 UTC_
 
 ## Contents
 
@@ -33,7 +33,7 @@ _Last updated: 2026-05-13 03:26 UTC_
 | 12 | Sylvia Fowles | 6,413 |
 | 13 | Lisa Leslie | 6,251 |
 | 14 | Jewell Loyd | 6,027 |
-| 15 | **Breanna Stewart** 🔴 +6 | 6,022 |
+| 15 | **Breanna Stewart** 🔴 +8 | 6,024 |
 | 16 | Lauren Jackson | 6,005 |
 | 16 | Seimone Augustus | 6,005 |
 | 18 | Brittney Griner | 5,967 |
@@ -73,7 +73,7 @@ _Last updated: 2026-05-13 03:26 UTC_
 | 52 | Allisha Gray | 4,183 |
 | 53 | Rebekkah Brunson | 4,133 |
 | 54 | **Jonquel Jones** 🔴 +13 | 4,109 |
-| 55 | **Kahleah Copper** 🔴 +13 | 4,096 |
+| 55 | **Kahleah Copper** 🔴 +14 | 4,097 |
 | 56 | Dearica Hamby | 4,090 |
 | 57 | **Courtney Williams** 🔴 +7 | 4,068 |
 | 58 | Asjha Jones | 3,986 |
@@ -535,7 +535,7 @@ _Last updated: 2026-05-13 03:26 UTC_
 | 104 | Natisha Hiedeman | 584 |
 | 105 | Tan White | 578 |
 | 106 | Matee Ajavon | 577 |
-| 107 | **Betnijah Laney-Hamilton** 🔴 +2 | 575 |
+| 107 | **Betnijah Laney-Hamilton** 🔴 +3 | 576 |
 | 108 | Napheesa Collier | 570 |
 | 109 | Nicole Powell | 567 |
 | 110 | **Natasha Howard** 🔴 +1 | 563 |
@@ -1473,7 +1473,7 @@ _Last updated: 2026-05-13 03:26 UTC_
 | 17 | Nneka Ogwumike | 1,131 |
 | 18 | Tanisha Wright | 1,109 |
 | 19 | Michelle Snow | 1,108 |
-| 20 | **Natasha Howard** 🔴 +2 | 1,090 |
+| 20 | **Natasha Howard** 🔴 +3 | 1,091 |
 | 21 | Stefanie Dolson | 1,082 |
 | 22 | Sylvia Fowles | 1,049 |
 | 23 | Tina Charles | 1,037 |
