@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-13 02:34 UTC_
+_Last updated: 2026-05-13 02:35 UTC_
 
 ## Contents
 
@@ -73,8 +73,8 @@ _Last updated: 2026-05-13 02:34 UTC_
 | 52 | Allisha Gray | 4,183 |
 | 53 | Rebekkah Brunson | 4,133 |
 | 54 | **Jonquel Jones** 🔴 +5 | 4,101 |
-| 55 | Dearica Hamby | 4,090 |
-| 56 | **Kahleah Copper** 🔴 +5 | 4,088 |
+| 55 | **Kahleah Copper** 🔴 +8 | 4,091 |
+| 56 | Dearica Hamby | 4,090 |
 | 57 | **Courtney Williams** 🔴 | 4,061 |
 | 58 | Asjha Jones | 3,986 |
 | 59 | Deanna Nolan | 3,971 |
@@ -1099,7 +1099,7 @@ _Last updated: 2026-05-13 02:34 UTC_
 | 53 | Cathrine Kraayeveld | 343 |
 | 53 | Elena Delle Donne | 343 |
 | 55 | Candace Parker | 342 |
-| 56 | **Kahleah Copper** 🔴 | 341 |
+| 55 | **Kahleah Copper** 🔴 +1 | 342 |
 | 57 | Deanna Nolan | 340 |
 | 58 | Anna DeForge | 334 |
 | 59 | Natasha Cloud | 331 |
@@ -1126,7 +1126,7 @@ _Last updated: 2026-05-13 02:34 UTC_
 | 80 | Kayla Thornton | 273 |
 | 81 | Sheryl Swoopes | 270 |
 | 82 | Stefanie Dolson | 267 |
-| 83 | **Bridget Carleton** 🔴 +1 | 263 |
+| 83 | **Bridget Carleton** 🔴 +2 | 264 |
 | 84 | Sophia Witherspoon | 260 |
 | 85 | Dawn Staley | 254 |
 | 86 | Bria Hartley | 253 |
