@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-13 03:44 UTC_
+_Last updated: 2026-05-13 03:45 UTC_
 
 ## Contents
 
@@ -62,7 +62,7 @@ _Last updated: 2026-05-13 03:44 UTC_
 | 41 | Crystal Langhorne | 4,433 |
 | 41 | Jia Perkins | 4,433 |
 | 43 | Chelsea Gray | 4,409 |
-| 44 | **Natasha Howard** 🔴 +10 | 4,377 |
+| 44 | **Natasha Howard** 🔴 +12 | 4,379 |
 | 45 | Courtney Vandersloot | 4,352 |
 | 46 | Sophia Young-Malcolm | 4,300 |
 | 47 | Plenette Pierson | 4,258 |
@@ -251,7 +251,7 @@ _Last updated: 2026-05-13 03:44 UTC_
 | 25 | Dearica Hamby | 2,317 |
 | 26 | Erika de Souza | 2,220 |
 | 27 | Diana Taurasi | 2,201 |
-| 28 | **Natasha Howard** 🔴 +9 | 2,183 |
+| 28 | **Natasha Howard** 🔴 +10 | 2,184 |
 | 29 | Margo Dydek | 2,138 |
 | 30 | Chamique Holdsclaw | 2,123 |
 | 31 | Chasity Melvin | 2,097 |
@@ -759,10 +759,10 @@ _Last updated: 2026-05-13 03:44 UTC_
 | 123 | Theresa Plaisance | 102 |
 | 124 | Deanna Nolan | 101 |
 | 124 | Dearica Hamby | 101 |
-| 126 | Chante Black | 100 |
-| 126 | Danielle Adams | 100 |
-| 126 | **Natasha Mack** 🔴 +1 | 100 |
-| 126 | Nicole Powell | 100 |
+| 124 | **Natasha Mack** 🔴 +2 | 101 |
+| 127 | Chante Black | 100 |
+| 127 | Danielle Adams | 100 |
+| 127 | Nicole Powell | 100 |
 | 130 | Mwadi Mabika | 98 |
 | 130 | Natalie Achonwa | 98 |
 | 132 | Rhyne Howard | 97 |

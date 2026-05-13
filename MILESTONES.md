@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-13 03:45 UTC
+
+- **Natasha Mack** passed **Chante Black**, **Danielle Adams**, and **Nicole Powell** for **#126** all-time in blocks (career 101) — up from #129 entering today — _9:18 - 4th — MIN @ PHX_
+
 ## 2026-05-13 03:38 UTC
 
 - **Jonquel Jones** passed **Kelsey Plum** for **#70** all-time in turnovers (career 612) — up from #71 entering today — _7:26 - 4th — NY @ POR_
