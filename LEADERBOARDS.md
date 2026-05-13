@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-13 03:48 UTC_
+_Last updated: 2026-05-13 03:49 UTC_
 
 ## Contents
 
@@ -32,7 +32,7 @@ _Last updated: 2026-05-13 03:48 UTC_
 | 11 | Katie Smith | 6,450 |
 | 12 | Sylvia Fowles | 6,413 |
 | 13 | Lisa Leslie | 6,251 |
-| 14 | **Breanna Stewart** 🔴 +14 | 6,030 |
+| 14 | **Breanna Stewart** 🔴 +16 | 6,032 |
 | 15 | Jewell Loyd | 6,027 |
 | 16 | Lauren Jackson | 6,005 |
 | 16 | Seimone Augustus | 6,005 |
@@ -73,7 +73,7 @@ _Last updated: 2026-05-13 03:48 UTC_
 | 52 | Allisha Gray | 4,183 |
 | 53 | Rebekkah Brunson | 4,133 |
 | 54 | **Jonquel Jones** 🔴 +15 | 4,111 |
-| 55 | **Kahleah Copper** 🔴 +21 | 4,104 |
+| 55 | **Kahleah Copper** 🔴 +23 | 4,106 |
 | 56 | Dearica Hamby | 4,090 |
 | 57 | **Courtney Williams** 🔴 +11 | 4,072 |
 | 58 | Asjha Jones | 3,986 |
@@ -931,7 +931,7 @@ _Last updated: 2026-05-13 03:48 UTC_
 | 90 | Debbie Black | 315 |
 | 91 | Alysha Clark | 314 |
 | 91 | Crystal Langhorne | 314 |
-| 93 | **Courtney Williams** 🔴 +3 | 311 |
+| 93 | **Courtney Williams** 🔴 +2 | 310 |
 | 94 | Ebony Hoffman | 308 |
 | 95 | Tamera Young | 305 |
 | 96 | Kedra Holland-Corn | 301 |
@@ -1490,7 +1490,7 @@ _Last updated: 2026-05-13 03:48 UTC_
 | 34 | Mwadi Mabika | 941 |
 | 35 | Tamika Whitmore | 940 |
 | 36 | Courtney Vandersloot | 938 |
-| 37 | **Alyssa Thomas** 🔴 +1 | 926 |
+| 37 | **Alyssa Thomas** 🔴 +2 | 927 |
 | 38 | Briann January | 921 |
 | 39 | Ticha Penicheiro | 913 |
 | 40 | Shavonte Zellous | 907 |
@@ -1555,8 +1555,8 @@ _Last updated: 2026-05-13 03:48 UTC_
 | 99 | Cheyenne Parker-Tyus | 660 |
 | 100 | Kelsey Plum | 658 |
 | 101 | Tari Phillips | 648 |
-| 102 | **Breanna Stewart** 🔴 +3 | 646 |
-| 102 | Marie Ferdinand-Harris | 646 |
+| 102 | **Breanna Stewart** 🔴 +4 | 647 |
+| 103 | Marie Ferdinand-Harris | 646 |
 | 104 | Jewell Loyd | 644 |
 | 105 | Kayla Thornton | 640 |
 | 106 | Charlotte Smith | 638 |
