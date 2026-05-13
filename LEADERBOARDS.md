@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-13 03:58 UTC_
+_Last updated: 2026-05-13 03:59 UTC_
 
 ## Contents
 
@@ -326,7 +326,7 @@ _Last updated: 2026-05-13 03:58 UTC_
 | 99 | Tanisha Wright | 1,190 |
 | 101 | Vicky Bullett | 1,189 |
 | 102 | Chelsea Gray | 1,188 |
-| 103 | **Kayla McBride** 🔴 +1 | 1,183 |
+| 103 | **Kayla McBride** 🔴 +2 | 1,184 |
 | 104 | Nykesha Sales | 1,148 |
 | 105 | Shannon Johnson | 1,143 |
 | 106 | **Kahleah Copper** 🔴 +1 | 1,141 |
@@ -446,7 +446,7 @@ _Last updated: 2026-05-13 03:58 UTC_
 | 15 | Shannon Johnson | 1,423 |
 | 15 | Tanisha Wright | 1,423 |
 | 17 | Temeka Johnson | 1,382 |
-| 18 | **Courtney Williams** 🔴 +3 | 1,368 |
+| 18 | **Courtney Williams** 🔴 +4 | 1,369 |
 | 19 | Jasmine Thomas | 1,355 |
 | 20 | Briann January | 1,339 |
 | 21 | Dawn Staley | 1,337 |
@@ -881,7 +881,7 @@ _Last updated: 2026-05-13 03:58 UTC_
 | 40 | Epiphanny Prince | 429 |
 | 41 | Tanisha Wright | 427 |
 | 42 | **Kayla McBride** 🔴 +1 | 419 |
-| 43 | **Breanna Stewart** 🔴 | 411 |
+| 43 | **Breanna Stewart** 🔴 +1 | 412 |
 | 44 | Katie Smith | 408 |
 | 45 | Cappie Pondexter | 405 |
 | 46 | Nicole Powell | 401 |
@@ -1170,9 +1170,9 @@ _Last updated: 2026-05-13 03:58 UTC_
 | 123 | Tayler Hill | 174 |
 | 125 | Theresa Plaisance | 172 |
 | 126 | Amanda Lassiter | 170 |
+| 127 | **Nia Coffey** 🔴 +2 | 167 |
 | 127 | Shavonte Zellous | 167 |
 | 127 | Tianna Hawkins | 167 |
-| 129 | **Nia Coffey** 🔴 +1 | 166 |
 | 130 | Charlotte Smith | 164 |
 | 131 | Ukari Figgs | 162 |
 | 132 | Edna Campbell | 161 |
