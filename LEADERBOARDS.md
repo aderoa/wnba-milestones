@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-13 02:54 UTC_
+_Last updated: 2026-05-13 02:55 UTC_
 
 ## Contents
 
@@ -21,7 +21,7 @@ _Last updated: 2026-05-13 02:54 UTC_
 |-----:|--------|------:|
 | 1 | Diana Taurasi | 10,608 |
 | 2 | Tina Charles | 8,396 |
-| 3 | **DeWanna Bonner** 🔴 +8 | 7,813 |
+| 3 | **DeWanna Bonner** 🔴 +10 | 7,815 |
 | 4 | Tina Thompson | 7,470 |
 | 5 | Tamika Catchings | 7,371 |
 | 6 | Nneka Ogwumike | 7,305 |
@@ -75,7 +75,7 @@ _Last updated: 2026-05-13 02:54 UTC_
 | 54 | **Jonquel Jones** 🔴 +11 | 4,107 |
 | 55 | **Kahleah Copper** 🔴 +13 | 4,096 |
 | 56 | Dearica Hamby | 4,090 |
-| 57 | **Courtney Williams** 🔴 +3 | 4,064 |
+| 57 | **Courtney Williams** 🔴 +5 | 4,066 |
 | 58 | Asjha Jones | 3,986 |
 | 59 | Deanna Nolan | 3,971 |
 | 60 | Nykesha Sales | 3,931 |
@@ -265,7 +265,7 @@ _Last updated: 2026-05-13 02:54 UTC_
 | 39 | Lindsay Whalen | 1,805 |
 | 40 | Camille Smith | 1,802 |
 | 41 | Asjha Jones | 1,751 |
-| 42 | **Courtney Williams** 🔴 +1 | 1,748 |
+| 42 | **Courtney Williams** 🔴 +2 | 1,749 |
 | 43 | Kiah Stokes | 1,746 |
 | 44 | Teaira McCowan | 1,670 |
 | 45 | Monique Currie | 1,666 |
@@ -1279,7 +1279,7 @@ _Last updated: 2026-05-13 02:54 UTC_
 | 28 | Betty Lennox | 800 |
 | 29 | Jasmine Thomas | 796 |
 | 30 | Chamique Holdsclaw | 789 |
-| 31 | **Natasha Howard** 🔴 +3 | 787 |
+| 31 | **Natasha Howard** 🔴 +4 | 788 |
 | 32 | Crystal Langhorne | 782 |
 | 32 | Nneka Ogwumike | 782 |
 | 34 | Jewell Loyd | 780 |
@@ -1473,7 +1473,7 @@ _Last updated: 2026-05-13 02:54 UTC_
 | 17 | Nneka Ogwumike | 1,131 |
 | 18 | Tanisha Wright | 1,109 |
 | 19 | Michelle Snow | 1,108 |
-| 20 | **Natasha Howard** 🔴 | 1,088 |
+| 20 | **Natasha Howard** 🔴 +1 | 1,089 |
 | 21 | Stefanie Dolson | 1,082 |
 | 22 | Sylvia Fowles | 1,049 |
 | 23 | Tina Charles | 1,037 |
