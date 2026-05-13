@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-13 02:29 UTC_
+_Last updated: 2026-05-13 02:30 UTC_
 
 ## Contents
 
@@ -21,7 +21,7 @@ _Last updated: 2026-05-13 02:29 UTC_
 |-----:|--------|------:|
 | 1 | Diana Taurasi | 10,608 |
 | 2 | Tina Charles | 8,396 |
-| 3 | **DeWanna Bonner** 🔴 +2 | 7,807 |
+| 3 | **DeWanna Bonner** 🔴 +5 | 7,810 |
 | 4 | Tina Thompson | 7,470 |
 | 5 | Tamika Catchings | 7,371 |
 | 6 | Nneka Ogwumike | 7,305 |
@@ -231,7 +231,7 @@ _Last updated: 2026-05-13 02:29 UTC_
 | 5 | Tamika Catchings | 3,313 |
 | 6 | Lisa Leslie | 3,303 |
 | 7 | Nneka Ogwumike | 3,268 |
-| 8 | **DeWanna Bonner** 🔴 +1 | 3,204 |
+| 8 | **DeWanna Bonner** 🔴 +2 | 3,205 |
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
@@ -458,7 +458,7 @@ _Last updated: 2026-05-13 02:29 UTC_
 | 27 | Vickie Johnson | 1,202 |
 | 28 | Leilani Mitchell | 1,197 |
 | 29 | Kelsey Plum | 1,193 |
-| 30 | **DeWanna Bonner** 🔴 | 1,176 |
+| 30 | **DeWanna Bonner** 🔴 +1 | 1,177 |
 | 31 | Jordin Canada | 1,144 |
 | 32 | Renee Montgomery | 1,140 |
 | 33 | Jewell Loyd | 1,133 |
@@ -1053,7 +1053,7 @@ _Last updated: 2026-05-13 02:29 UTC_
 | 7 | **Kayla McBride** 🔴 | 722 |
 | 8 | Kelsey Mitchell | 669 |
 | 9 | Jewell Loyd | 667 |
-| 10 | **DeWanna Bonner** 🔴 | 663 |
+| 10 | **DeWanna Bonner** 🔴 +1 | 664 |
 | 11 | Kristi Toliver | 651 |
 | 12 | Tamika Catchings | 605 |
 | 13 | Kelsey Plum | 588 |
@@ -1319,7 +1319,7 @@ _Last updated: 2026-05-13 02:29 UTC_
 | 68 | Rebekkah Brunson | 615 |
 | 69 | Seimone Augustus | 613 |
 | 70 | Kelsey Plum | 611 |
-| 71 | **Jonquel Jones** 🔴 | 608 |
+| 71 | **Jonquel Jones** 🔴 +1 | 609 |
 | 72 | Tiffany Hayes | 605 |
 | 73 | Teresa Weatherspoon | 601 |
 | 74 | Lindsey Harding | 600 |
