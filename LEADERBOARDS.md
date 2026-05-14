@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-14 04:22 UTC_
+_Last updated: 2026-05-14 04:23 UTC_
 
 ## Contents
 
@@ -889,7 +889,7 @@ _Last updated: 2026-05-14 04:22 UTC_
 | 47 | Jasmine Thomas | 394 |
 | 48 | Danielle Robinson | 389 |
 | 49 | Deanna Nolan | 388 |
-| 50 | **Dearica Hamby** 🔴 +1 | 387 |
+| 49 | **Dearica Hamby** 🔴 +2 | 388 |
 | 51 | Briann January | 386 |
 | 52 | Swin Cash | 384 |
 | 52 | Tina Charles | 384 |
@@ -1438,8 +1438,8 @@ _Last updated: 2026-05-14 04:22 UTC_
 | 186 | Gabby Williams | 309 |
 | 187 | Erin Perperoglou | 305 |
 | 187 | Jennifer Lacy | 305 |
+| 189 | **Monique Billings** 🔴 +3 | 303 |
 | 189 | Tianna Hawkins | 303 |
-| 190 | **Monique Billings** 🔴 +2 | 302 |
 | 191 | Isabelle Harrison | 300 |
 | 192 | Crystal Robinson | 299 |
 | 193 | Michele Timms | 297 |
