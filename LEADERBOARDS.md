@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-14 03:09 UTC_
+_Last updated: 2026-05-14 03:10 UTC_
 
 ## Contents
 
@@ -1516,8 +1516,8 @@ _Last updated: 2026-05-14 03:09 UTC_
 | 58 | Tully Bevilaqua | 813 |
 | 60 | **Dearica Hamby** 🔴 +1 | 799 |
 | 61 | Nykesha Sales | 796 |
-| 62 | Ebony Hoffman | 791 |
-| 62 | **Skylar Diggins** 🔴 +1 | 791 |
+| 62 | **Skylar Diggins** 🔴 +2 | 792 |
+| 63 | Ebony Hoffman | 791 |
 | 64 | Sue Bird | 775 |
 | 65 | Sheri Sam | 766 |
 | 66 | **Erica Wheeler** 🔴 | 758 |
