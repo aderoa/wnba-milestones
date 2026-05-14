@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-14T04:09:00+00:00",
+    "text": "Kiah Stokes passed Svetlana Abrosimova for #116 all-time in fouls (career 614) \u2014 up from #118 entering today \u2014 (Final \u2014 CHI @ GS)",
+    "kind": "rank_pass",
+    "player": "Kiah Stokes",
+    "stat": "fouls",
+    "rank": 116,
+    "passed_players": [
+      "Svetlana Abrosimova"
+    ],
+    "new_total": 614
+  },
+  {
     "ts": "2026-05-14T04:05:00+00:00",
     "text": "Nneka Ogwumike passed Natasha Howard for #31 all-time in turnovers (career 785) \u2014 up from #33 entering today \u2014 (3:31 - 3rd \u2014 IND @ LA)",
     "kind": "rank_pass",
@@ -2959,18 +2971,5 @@
       "Rachel Banham"
     ],
     "new_total": 285
-  },
-  {
-    "ts": "2026-05-09T17:44:00+00:00",
-    "text": "Damiris Dantas passed Nikki McCray and Alex Bentley for #153 all-time in fouls (career 519) \u2014 up from #155 entering today \u2014 (4:21 - 2nd \u2014 DAL @ IND)",
-    "kind": "rank_pass",
-    "player": "Damiris Dantas",
-    "stat": "fouls",
-    "rank": 153,
-    "passed_players": [
-      "Nikki McCray",
-      "Alex Bentley"
-    ],
-    "new_total": 519
   }
 ]

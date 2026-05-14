@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-14 04:09 UTC
+
+- **Kiah Stokes** passed **Svetlana Abrosimova** for **#116** all-time in fouls (career 614) — up from #118 entering today — _Final — CHI @ GS_
+
 ## 2026-05-14 04:05 UTC
 
 - **Nneka Ogwumike** passed **Natasha Howard** for **#31** all-time in turnovers (career 785) — up from #33 entering today — _3:31 - 3rd — IND @ LA_

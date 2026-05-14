@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-14 04:08 UTC_
+_Last updated: 2026-05-14 04:09 UTC_
 
 ## Contents
 
@@ -377,7 +377,7 @@ _Last updated: 2026-05-14 04:08 UTC_
 | 151 | Mistie Bass | 888 |
 | 152 | Shameka Christon | 867 |
 | 153 | Krystal Thomas | 862 |
-| 154 | **Erica Wheeler** 🔴 | 852 |
+| 154 | **Erica Wheeler** 🔴 +1 | 853 |
 | 155 | Leilani Mitchell | 845 |
 | 156 | Alanna Smith | 834 |
 | 157 | Essence Carson | 833 |
@@ -452,8 +452,8 @@ _Last updated: 2026-05-14 04:08 UTC_
 | 21 | Dawn Staley | 1,337 |
 | 22 | Teresa Weatherspoon | 1,333 |
 | 23 | Kristi Toliver | 1,301 |
+| 24 | **Erica Wheeler** 🔴 +2 | 1,258 |
 | 24 | Katie Smith | 1,258 |
-| 25 | **Erica Wheeler** 🔴 | 1,256 |
 | 26 | Vickie Johnson | 1,202 |
 | 27 | Odyssey Sims | 1,201 |
 | 28 | Leilani Mitchell | 1,197 |
@@ -1571,8 +1571,8 @@ _Last updated: 2026-05-14 04:08 UTC_
 | 113 | Courtney Paris | 617 |
 | 114 | Coco Miller | 615 |
 | 115 | Brooke Wyckoff | 614 |
-| 116 | Kiah Stokes | 613 |
-| 116 | Svetlana Abrosimova | 613 |
+| 115 | Kiah Stokes | 614 |
+| 117 | Svetlana Abrosimova | 613 |
 | 118 | Layshia Clarendon | 609 |
 | 119 | Chelsea Gray | 604 |
 | 119 | Tiffany Mitchell | 604 |
