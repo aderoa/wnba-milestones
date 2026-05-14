@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-14 00:27 UTC_
+_Last updated: 2026-05-14 00:28 UTC_
 
 ## Contents
 
@@ -241,7 +241,7 @@ _Last updated: 2026-05-14 00:27 UTC_
 | 15 | DeLisha Milton-Jones | 2,574 |
 | 16 | Brittney Griner | 2,531 |
 | 17 | Swin Cash | 2,521 |
-| 18 | **A'ja Wilson** 🔴 +3 | 2,497 |
+| 18 | **A'ja Wilson** 🔴 +4 | 2,498 |
 | 19 | Breanna Stewart | 2,484 |
 | 20 | Michelle Snow | 2,476 |
 | 21 | Crystal Langhorne | 2,454 |
@@ -319,7 +319,7 @@ _Last updated: 2026-05-14 00:27 UTC_
 | 93 | Tiffany Hayes | 1,233 |
 | 94 | Seimone Augustus | 1,228 |
 | 95 | Jia Perkins | 1,220 |
-| 96 | Brianna Turner | 1,214 |
+| 96 | **Brianna Turner** 🔴 | 1,214 |
 | 97 | Myisha Hines-Allen | 1,208 |
 | 98 | DeMya Walker | 1,199 |
 | 99 | Latasha Byears | 1,190 |
@@ -676,7 +676,7 @@ _Last updated: 2026-05-14 00:27 UTC_
 | 40 | Emma Meesseman | 238 |
 | 41 | Azurá Stevens | 230 |
 | 42 | Chasity Melvin | 228 |
-| 43 | Brianna Turner | 227 |
+| 43 | **Brianna Turner** 🔴 | 227 |
 | 44 | Sancho Lyttle | 221 |
 | 44 | Skylar Diggins | 221 |
 | 46 | Alana Beard | 220 |
