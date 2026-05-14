@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-14 04:14 UTC_
+_Last updated: 2026-05-14 04:15 UTC_
 
 ## Contents
 
@@ -72,7 +72,7 @@ _Last updated: 2026-05-14 04:14 UTC_
 | 51 | **Kelsey Plum** 🔴 +15 | 4,222 |
 | 52 | Allisha Gray | 4,157 |
 | 53 | Rebekkah Brunson | 4,133 |
-| 54 | **Dearica Hamby** 🔴 +9 | 4,099 |
+| 54 | **Dearica Hamby** 🔴 +11 | 4,101 |
 | 55 | Jonquel Jones | 4,096 |
 | 56 | Kahleah Copper | 4,083 |
 | 57 | Courtney Williams | 4,061 |
@@ -248,7 +248,7 @@ _Last updated: 2026-05-14 04:14 UTC_
 | 22 | Lauren Jackson | 2,444 |
 | 23 | Yolanda Griffith | 2,440 |
 | 24 | Tangela Smith | 2,328 |
-| 25 | **Dearica Hamby** 🔴 +4 | 2,321 |
+| 25 | **Dearica Hamby** 🔴 +5 | 2,322 |
 | 26 | Erika de Souza | 2,220 |
 | 27 | Diana Taurasi | 2,201 |
 | 28 | Natasha Howard | 2,174 |
@@ -910,9 +910,9 @@ _Last updated: 2026-05-14 04:14 UTC_
 | 68 | Svetlana Abrosimova | 352 |
 | 69 | Allisha Gray | 349 |
 | 70 | Janeth Arcain | 346 |
+| 71 | **Erica Wheeler** 🔴 +1 | 343 |
 | 71 | Helen Darling | 343 |
-| 72 | Andrea Stinson | 342 |
-| 72 | **Erica Wheeler** 🔴 | 342 |
+| 73 | Andrea Stinson | 342 |
 | 74 | Armintie Herrington | 340 |
 | 74 | Natasha Cloud | 340 |
 | 76 | Arike Ogunbowale | 339 |
@@ -1307,8 +1307,8 @@ _Last updated: 2026-05-14 04:14 UTC_
 | 55 | Natasha Cloud | 668 |
 | 56 | Chasity Melvin | 666 |
 | 57 | **Erica Wheeler** 🔴 | 665 |
+| 58 | **Dearica Hamby** 🔴 +3 | 660 |
 | 58 | Vickie Johnson | 660 |
-| 59 | **Dearica Hamby** 🔴 +2 | 659 |
 | 60 | Yolanda Griffith | 653 |
 | 61 | Sheri Sam | 650 |
 | 62 | Courtney Williams | 643 |
@@ -1439,7 +1439,7 @@ _Last updated: 2026-05-14 04:14 UTC_
 | 187 | Erin Perperoglou | 305 |
 | 187 | Jennifer Lacy | 305 |
 | 189 | Tianna Hawkins | 303 |
-| 190 | **Monique Billings** 🔴 +1 | 301 |
+| 190 | **Monique Billings** 🔴 +2 | 302 |
 | 191 | Isabelle Harrison | 300 |
 | 192 | Crystal Robinson | 299 |
 | 193 | Michele Timms | 297 |
@@ -1515,7 +1515,7 @@ _Last updated: 2026-05-14 04:14 UTC_
 | 56 | Wendy Palmer | 831 |
 | 58 | Shannon Johnson | 813 |
 | 58 | Tully Bevilaqua | 813 |
-| 60 | **Dearica Hamby** 🔴 +2 | 800 |
+| 60 | **Dearica Hamby** 🔴 +3 | 801 |
 | 61 | Nykesha Sales | 796 |
 | 62 | Skylar Diggins | 792 |
 | 63 | Ebony Hoffman | 791 |
