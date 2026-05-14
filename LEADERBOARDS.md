@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-14 04:32 UTC_
+_Last updated: 2026-05-14 04:33 UTC_
 
 ## Contents
 
@@ -51,7 +51,7 @@ _Last updated: 2026-05-14 04:32 UTC_
 | 30 | Maya Moore | 4,984 |
 | 31 | Tiffany Hayes | 4,927 |
 | 32 | Sheryl Swoopes | 4,875 |
-| 33 | **Kelsey Mitchell** 🔴 +21 | 4,834 |
+| 33 | **Kelsey Mitchell** 🔴 +14 | 4,827 |
 | 34 | Alana Beard | 4,740 |
 | 35 | Chamique Holdsclaw | 4,713 |
 | 36 | Elena Delle Donne | 4,706 |
@@ -67,8 +67,8 @@ _Last updated: 2026-05-14 04:32 UTC_
 | 46 | Sophia Young-Malcolm | 4,300 |
 | 47 | Plenette Pierson | 4,258 |
 | 48 | Monique Currie | 4,253 |
+| 49 | **Kelsey Plum** 🔴 +23 | 4,230 |
 | 49 | Vickie Johnson | 4,230 |
-| 50 | **Kelsey Plum** 🔴 +21 | 4,228 |
 | 51 | Yolanda Griffith | 4,224 |
 | 52 | Allisha Gray | 4,157 |
 | 53 | Rebekkah Brunson | 4,133 |
@@ -509,7 +509,7 @@ _Last updated: 2026-05-14 04:32 UTC_
 | 78 | Chamique Holdsclaw | 698 |
 | 79 | Shavonte Zellous | 693 |
 | 80 | Allie Quigley | 690 |
-| 81 | **Dearica Hamby** 🔴 +1 | 689 |
+| 80 | **Dearica Hamby** 🔴 +2 | 690 |
 | 82 | Stefanie Dolson | 686 |
 | 83 | Moriah Jefferson | 685 |
 | 84 | Emma Meesseman | 681 |
@@ -910,8 +910,8 @@ _Last updated: 2026-05-14 04:32 UTC_
 | 68 | Svetlana Abrosimova | 352 |
 | 69 | Allisha Gray | 349 |
 | 70 | Janeth Arcain | 346 |
-| 71 | **Erica Wheeler** 🔴 +1 | 343 |
-| 71 | Helen Darling | 343 |
+| 71 | **Erica Wheeler** 🔴 +2 | 344 |
+| 72 | Helen Darling | 343 |
 | 73 | Andrea Stinson | 342 |
 | 74 | Armintie Herrington | 340 |
 | 74 | Natasha Cloud | 340 |
@@ -1052,7 +1052,7 @@ _Last updated: 2026-05-14 04:32 UTC_
 | 5 | Tina Thompson | 745 |
 | 6 | Katie Douglas | 723 |
 | 7 | Kayla McBride | 722 |
-| 8 | **Kelsey Mitchell** 🔴 +3 | 672 |
+| 8 | **Kelsey Mitchell** 🔴 +2 | 671 |
 | 9 | Jewell Loyd | 670 |
 | 10 | DeWanna Bonner | 663 |
 | 11 | Kristi Toliver | 651 |
@@ -1336,7 +1336,7 @@ _Last updated: 2026-05-14 04:32 UTC_
 | 84 | Sancho Lyttle | 563 |
 | 85 | Brittney Sykes | 562 |
 | 86 | Tan White | 557 |
-| 87 | **Kelsey Mitchell** 🔴 +2 | 551 |
+| 87 | **Kelsey Mitchell** 🔴 +1 | 550 |
 | 88 | Breanna Stewart | 549 |
 | 88 | Lauren Jackson | 549 |
 | 90 | Matee Ajavon | 544 |
@@ -1443,7 +1443,7 @@ _Last updated: 2026-05-14 04:32 UTC_
 | 191 | Isabelle Harrison | 300 |
 | 192 | Crystal Robinson | 299 |
 | 193 | Michele Timms | 297 |
-| 194 | **Caitlin Clark** 🔴 +4 | 293 |
+| 194 | **Caitlin Clark** 🔴 +5 | 294 |
 | 195 | Alexis Hornbuckle | 288 |
 | 195 | Kayla Thornton | 288 |
 | 195 | Kristen Rasmussen | 288 |
@@ -1581,10 +1581,10 @@ _Last updated: 2026-05-14 04:32 UTC_
 | 123 | Kamila Vodichkova | 596 |
 | 124 | Teresa Weatherspoon | 589 |
 | 125 | Emma Meesseman | 585 |
-| 126 | **Kelsey Mitchell** 🔴 +3 | 582 |
-| 127 | Chiney Ogwumike | 580 |
-| 127 | Hamchetou Maiga-Ba | 580 |
-| 127 | Olympia Scott | 580 |
+| 126 | Chiney Ogwumike | 580 |
+| 126 | Hamchetou Maiga-Ba | 580 |
+| 126 | **Kelsey Mitchell** 🔴 +1 | 580 |
+| 126 | Olympia Scott | 580 |
 | 130 | Ezi Magbegor | 576 |
 | 131 | Le'coe Willingham | 571 |
 | 132 | Ashley Robinson | 567 |
