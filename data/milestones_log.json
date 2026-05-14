@@ -1,5 +1,14 @@
 [
   {
+    "ts": "2026-05-14T01:27:00+00:00",
+    "text": "A'ja Wilson reached 2,500 career rebounds (now 2,500) \u2014 (5:54 - 3rd \u2014 LV @ CON)",
+    "kind": "round",
+    "player": "A'ja Wilson",
+    "stat": "rebounds",
+    "value": 2500,
+    "new_total": 2500
+  },
+  {
     "ts": "2026-05-14T00:54:00+00:00",
     "text": "Marina Mabrey passed Monique Currie for #74 all-time in assists (career 741) \u2014 up from #75 entering today \u2014 (58.1 - 4th \u2014 SEA @ TOR)",
     "kind": "rank_pass",
@@ -2962,18 +2971,5 @@
       "Ariel Atkins"
     ],
     "new_total": 760
-  },
-  {
-    "ts": "2026-05-09T02:34:00+00:00",
-    "text": "Gabby Williams passed Erin Perperoglou and Jennifer Lacy for #186 all-time in turnovers (career 306) \u2014 up from #187 entering today \u2014 (End of 1st \u2014 GS @ SEA)",
-    "kind": "rank_pass",
-    "player": "Gabby Williams",
-    "stat": "turnovers",
-    "rank": 186,
-    "passed_players": [
-      "Erin Perperoglou",
-      "Jennifer Lacy"
-    ],
-    "new_total": 306
   }
 ]
