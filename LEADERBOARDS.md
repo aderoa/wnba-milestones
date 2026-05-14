@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-14 03:38 UTC_
+_Last updated: 2026-05-14 03:39 UTC_
 
 ## Contents
 
@@ -1304,7 +1304,7 @@ _Last updated: 2026-05-14 03:38 UTC_
 | 52 | Sheryl Swoopes | 677 |
 | 53 | Tammy Sutton-Brown | 672 |
 | 54 | Deanna Nolan | 669 |
-| 55 | **Natasha Cloud** 🔴 +2 | 667 |
+| 55 | **Natasha Cloud** 🔴 +3 | 668 |
 | 56 | Chasity Melvin | 666 |
 | 57 | **Erica Wheeler** 🔴 | 665 |
 | 58 | Vickie Johnson | 660 |
@@ -1529,7 +1529,7 @@ _Last updated: 2026-05-14 03:38 UTC_
 | 72 | Becky Hammon | 733 |
 | 73 | Latasha Byears | 730 |
 | 74 | Kristi Toliver | 722 |
-| 75 | **Natasha Cloud** 🔴 +2 | 720 |
+| 75 | **Natasha Cloud** 🔴 +3 | 721 |
 | 76 | Kahleah Copper | 715 |
 | 77 | Cheryl Ford | 713 |
 | 78 | Jia Perkins | 711 |
