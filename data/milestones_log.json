@@ -1,5 +1,19 @@
 [
   {
+    "ts": "2026-05-14T00:25:00+00:00",
+    "text": "Marina Mabrey passed Jessica Breland, Murriel Page, and Shatori Walker-Kimbrough for #164 all-time in steals (career 205) \u2014 up from #169 entering today \u2014 (54.2 - 3rd \u2014 SEA @ TOR)",
+    "kind": "rank_pass",
+    "player": "Marina Mabrey",
+    "stat": "steals",
+    "rank": 164,
+    "passed_players": [
+      "Jessica Breland",
+      "Murriel Page",
+      "Shatori Walker-Kimbrough"
+    ],
+    "new_total": 205
+  },
+  {
     "ts": "2026-05-14T00:22:00+00:00",
     "text": "Marina Mabrey passed Kara Wolters, Noelle Quinn, and Tierra Ruffin-Pratt for #167 all-time in blocks (career 78) \u2014 up from #168 entering today \u2014 (2:33 - 3rd \u2014 SEA @ TOR)",
     "kind": "rank_pass",
@@ -2957,17 +2971,5 @@
       "LaToya Sanders"
     ],
     "new_total": 698
-  },
-  {
-    "ts": "2026-05-09T01:41:00+00:00",
-    "text": "Shakira Austin passed Theresa Plaisance for #121 all-time in blocks (career 103) \u2014 up from #125 entering today \u2014 (2:13 - 4th \u2014 WSH @ TOR)",
-    "kind": "rank_pass",
-    "player": "Shakira Austin",
-    "stat": "blocks",
-    "rank": 121,
-    "passed_players": [
-      "Theresa Plaisance"
-    ],
-    "new_total": 103
   }
 ]

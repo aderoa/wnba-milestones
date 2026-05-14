@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-14 00:25 UTC
+
+- **Marina Mabrey** passed **Jessica Breland**, **Murriel Page**, and **Shatori Walker-Kimbrough** for **#164** all-time in steals (career 205) — up from #169 entering today — _54.2 - 3rd — SEA @ TOR_
+
 ## 2026-05-14 00:22 UTC
 
 - **Marina Mabrey** passed **Kara Wolters**, **Noelle Quinn**, and **Tierra Ruffin-Pratt** for **#167** all-time in blocks (career 78) — up from #168 entering today — _2:33 - 3rd — SEA @ TOR_

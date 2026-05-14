@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-14 00:24 UTC_
+_Last updated: 2026-05-14 00:25 UTC_
 
 ## Contents
 
@@ -138,7 +138,7 @@ _Last updated: 2026-05-14 00:24 UTC_
 | 117 | Leilani Mitchell | 2,618 |
 | 118 | Cynthia Cooper | 2,601 |
 | 119 | Tan White | 2,595 |
-| 120 | **Cheyenne Parker-Tyus** 🔴 +2 | 2,567 |
+| 120 | **Cheyenne Parker-Tyus** 🔴 +3 | 2,568 |
 | 121 | Kelly Miller | 2,558 |
 | 122 | Glory Johnson | 2,531 |
 | 123 | Nikki McCray | 2,521 |
@@ -291,7 +291,7 @@ _Last updated: 2026-05-14 00:24 UTC_
 | 65 | Nicole Powell | 1,457 |
 | 66 | Alysha Clark | 1,454 |
 | 67 | Tamera Young | 1,433 |
-| 68 | **Cheyenne Parker-Tyus** 🔴 | 1,424 |
+| 68 | **Cheyenne Parker-Tyus** 🔴 +1 | 1,425 |
 | 69 | Alana Beard | 1,420 |
 | 70 | Nakia Sanford | 1,419 |
 | 71 | Kara Braxton | 1,387 |
@@ -384,8 +384,8 @@ _Last updated: 2026-05-14 00:24 UTC_
 | 158 | Kristi Toliver | 829 |
 | 159 | Marie Ferdinand-Harris | 828 |
 | 160 | Angel Reese | 823 |
-| 161 | **Marina Mabrey** 🔴 +4 | 822 |
 | 161 | Marlies Askamp | 822 |
+| 162 | **Marina Mabrey** 🔴 +3 | 821 |
 | 163 | Amanda Zahui B | 819 |
 | 163 | Barbara Farris | 819 |
 | 165 | Carolyn Swords | 814 |
@@ -461,7 +461,7 @@ _Last updated: 2026-05-14 00:24 UTC_
 | 30 | DeWanna Bonner | 1,176 |
 | 31 | Renee Montgomery | 1,140 |
 | 32 | Jordin Canada | 1,139 |
-| 33 | **Jewell Loyd** 🔴 | 1,133 |
+| 33 | **Jewell Loyd** 🔴 +1 | 1,134 |
 | 34 | Swin Cash | 1,131 |
 | 35 | Lindsey Harding | 1,090 |
 | 36 | Katie Douglas | 1,069 |
@@ -799,11 +799,11 @@ _Last updated: 2026-05-14 00:24 UTC_
 | 161 | Rushia Brown | 80 |
 | 164 | Astou Ndour-Fall | 78 |
 | 164 | Katie Smith | 78 |
-| 164 | **Marina Mabrey** 🔴 +1 | 78 |
 | 164 | Slobodanka Tuvic | 78 |
-| 168 | Kara Wolters | 77 |
-| 168 | Noelle Quinn | 77 |
-| 168 | Tierra Ruffin-Pratt | 77 |
+| 167 | Kara Wolters | 77 |
+| 167 | **Marina Mabrey** 🔴 | 77 |
+| 167 | Noelle Quinn | 77 |
+| 167 | Tierra Ruffin-Pratt | 77 |
 | 171 | Jennifer Lacy | 76 |
 | 171 | Sugar Rodgers | 76 |
 | 171 | Tan White | 76 |
@@ -1001,11 +1001,11 @@ _Last updated: 2026-05-14 00:24 UTC_
 | 160 | Kia Vaughn | 208 |
 | 160 | Sophia Witherspoon | 208 |
 | 162 | Kahleah Copper | 207 |
+| 163 | **Marina Mabrey** 🔴 +3 | 205 |
 | 163 | Shameka Christon | 205 |
-| 164 | Jessica Breland | 204 |
-| 164 | **Marina Mabrey** 🔴 +2 | 204 |
-| 164 | Murriel Page | 204 |
-| 164 | Shatori Walker-Kimbrough | 204 |
+| 165 | Jessica Breland | 204 |
+| 165 | Murriel Page | 204 |
+| 165 | Shatori Walker-Kimbrough | 204 |
 | 168 | Adrienne Goodson | 203 |
 | 169 | Betnijah Laney-Hamilton | 202 |
 | 170 | Azurá Stevens | 201 |
