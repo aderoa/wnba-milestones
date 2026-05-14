@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-14T02:35:00+00:00",
+    "text": "Natasha Cloud passed Erica Wheeler for #56 all-time in turnovers (career 666) \u2014 up from #57 entering today \u2014 (6:17 - 2nd \u2014 CHI @ GS)",
+    "kind": "rank_pass",
+    "player": "Natasha Cloud",
+    "stat": "turnovers",
+    "rank": 56,
+    "passed_players": [
+      "Erica Wheeler"
+    ],
+    "new_total": 666
+  },
+  {
     "ts": "2026-05-14T02:33:00+00:00",
     "text": "Kiah Stokes passed Asjha Jones for #41 all-time in rebounds (career 1,752) \u2014 up from #43 entering today \u2014 (7:45 - 2nd \u2014 CHI @ GS)",
     "kind": "rank_pass",
@@ -2962,14 +2974,5 @@
       "Erin Perperoglou"
     ],
     "new_total": 185
-  },
-  {
-    "ts": "2026-05-09T02:34:00+00:00",
-    "text": "Shakira Austin reached 700 career rebounds (now 700) \u2014 (Final \u2014 WSH @ TOR)",
-    "kind": "round",
-    "player": "Shakira Austin",
-    "stat": "rebounds",
-    "value": 700,
-    "new_total": 700
   }
 ]

@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-14 02:35 UTC
+
+- **Natasha Cloud** passed **Erica Wheeler** for **#56** all-time in turnovers (career 666) — up from #57 entering today — _6:17 - 2nd — CHI @ GS_
+
 ## 2026-05-14 02:33 UTC
 
 - **Kiah Stokes** passed **Asjha Jones** for **#41** all-time in rebounds (career 1,752) — up from #43 entering today — _7:45 - 2nd — CHI @ GS_
