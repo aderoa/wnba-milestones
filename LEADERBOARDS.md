@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-14 00:15 UTC_
+_Last updated: 2026-05-14 00:16 UTC_
 
 ## Contents
 
@@ -32,7 +32,7 @@ _Last updated: 2026-05-14 00:15 UTC_
 | 11 | Katie Smith | 6,450 |
 | 12 | Sylvia Fowles | 6,413 |
 | 13 | Lisa Leslie | 6,251 |
-| 14 | **Jewell Loyd** 🔴 | 6,027 |
+| 14 | **Jewell Loyd** 🔴 +3 | 6,030 |
 | 15 | Breanna Stewart | 6,016 |
 | 16 | Lauren Jackson | 6,005 |
 | 16 | Seimone Augustus | 6,005 |
@@ -341,8 +341,8 @@ _Last updated: 2026-05-14 00:15 UTC_
 | 115 | Ann Wauters | 1,105 |
 | 116 | Natasha Cloud | 1,080 |
 | 117 | Svetlana Abrosimova | 1,078 |
-| 118 | Le'coe Willingham | 1,054 |
-| 118 | **NaLyssa Smith** 🔴 | 1,054 |
+| 118 | **NaLyssa Smith** 🔴 +1 | 1,055 |
+| 119 | Le'coe Willingham | 1,054 |
 | 120 | Aliyah Boston | 1,051 |
 | 121 | Isabelle Harrison | 1,049 |
 | 122 | Nicole Ohlde | 1,040 |
@@ -471,7 +471,7 @@ _Last updated: 2026-05-14 00:15 UTC_
 | 40 | Dominique Canty | 1,042 |
 | 41 | Sheryl Swoopes | 1,037 |
 | 42 | Tina Charles | 1,033 |
-| 43 | **Jackie Young** 🔴 | 1,029 |
+| 43 | **Jackie Young** 🔴 +1 | 1,030 |
 | 44 | Nikki Teasley | 982 |
 | 45 | Tamecka Dixon | 960 |
 | 46 | Kara Lawson | 946 |
@@ -1052,7 +1052,7 @@ _Last updated: 2026-05-14 00:15 UTC_
 | 6 | Katie Douglas | 723 |
 | 7 | Kayla McBride | 722 |
 | 8 | Kelsey Mitchell | 669 |
-| 9 | **Jewell Loyd** 🔴 | 667 |
+| 9 | **Jewell Loyd** 🔴 +1 | 668 |
 | 10 | DeWanna Bonner | 663 |
 | 11 | Kristi Toliver | 651 |
 | 12 | Tamika Catchings | 605 |
