@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-14 02:46 UTC_
+_Last updated: 2026-05-14 02:47 UTC_
 
 ## Contents
 
@@ -309,7 +309,7 @@ _Last updated: 2026-05-14 02:46 UTC_
 | 83 | Erlana Larkins | 1,329 |
 | 84 | Mwadi Mabika | 1,327 |
 | 85 | Jayne Appel Marinelli | 1,326 |
-| 86 | **Kayla Thornton** 🔴 +3 | 1,319 |
+| 86 | **Kayla Thornton** 🔴 +4 | 1,320 |
 | 87 | Betty Lennox | 1,296 |
 | 88 | Tari Phillips | 1,274 |
 | 89 | Janel McCarville | 1,261 |
@@ -436,7 +436,7 @@ _Last updated: 2026-05-14 02:46 UTC_
 | 5 | Lindsay Whalen | 2,347 |
 | 6 | Chelsea Gray | 1,876 |
 | 7 | Alyssa Thomas | 1,820 |
-| 8 | **Skylar Diggins** 🔴 | 1,768 |
+| 8 | **Skylar Diggins** 🔴 +1 | 1,769 |
 | 9 | **Natasha Cloud** 🔴 | 1,733 |
 | 10 | Becky Hammon | 1,705 |
 | 11 | Candace Parker | 1,634 |
@@ -843,7 +843,7 @@ _Last updated: 2026-05-14 02:46 UTC_
 | 2 | Ticha Penicheiro | 761 |
 | 3 | Sue Bird | 724 |
 | 4 | Alana Beard | 710 |
-| 5 | **Nneka Ogwumike** 🔴 | 668 |
+| 5 | **Nneka Ogwumike** 🔴 +1 | 669 |
 | 6 | Sheryl Swoopes | 657 |
 | 7 | Jia Perkins | 634 |
 | 8 | DeWanna Bonner | 631 |
@@ -871,7 +871,7 @@ _Last updated: 2026-05-14 02:46 UTC_
 | 30 | Tangela Smith | 455 |
 | 31 | Tina Thompson | 452 |
 | 32 | Maya Moore | 449 |
-| 33 | **Skylar Diggins** 🔴 | 445 |
+| 33 | **Skylar Diggins** 🔴 +1 | 446 |
 | 34 | Jewell Loyd | 442 |
 | 35 | Sheri Sam | 438 |
 | 36 | Camille Smith | 437 |
@@ -935,7 +935,7 @@ _Last updated: 2026-05-14 02:46 UTC_
 | 93 | Ebony Hoffman | 308 |
 | 95 | Tamera Young | 305 |
 | 96 | Kedra Holland-Corn | 301 |
-| 97 | **Gabby Williams** 🔴 | 297 |
+| 97 | **Gabby Williams** 🔴 +1 | 298 |
 | 98 | Lindsey Harding | 295 |
 | 99 | Janel McCarville | 294 |
 | 100 | Kelly Miller | 290 |
@@ -985,8 +985,8 @@ _Last updated: 2026-05-14 02:46 UTC_
 | 144 | DeMya Walker | 220 |
 | 144 | Jennifer Gillom | 220 |
 | 146 | Allison Feaster | 219 |
-| 147 | **Kelsey Mitchell** 🔴 | 217 |
-| 147 | Shenise Johnson | 217 |
+| 147 | **Kelsey Mitchell** 🔴 +1 | 218 |
+| 148 | Shenise Johnson | 217 |
 | 149 | Adrian Williams-Strong | 216 |
 | 149 | Moriah Jefferson | 216 |
 | 151 | Asjha Jones | 215 |
@@ -1442,7 +1442,7 @@ _Last updated: 2026-05-14 02:46 UTC_
 | 190 | **Monique Billings** 🔴 | 300 |
 | 192 | Crystal Robinson | 299 |
 | 193 | Michele Timms | 297 |
-| 194 | **Caitlin Clark** 🔴 +2 | 291 |
+| 194 | **Caitlin Clark** 🔴 +3 | 292 |
 | 195 | Alexis Hornbuckle | 288 |
 | 195 | **Kayla Thornton** 🔴 | 288 |
 | 195 | Kristen Rasmussen | 288 |
@@ -1542,9 +1542,9 @@ _Last updated: 2026-05-14 02:46 UTC_
 | 86 | Danielle Robinson | 692 |
 | 87 | Sophia Young-Malcolm | 687 |
 | 88 | Maya Moore | 686 |
+| 89 | **Ariel Atkins** 🔴 +1 | 685 |
 | 89 | Jasmine Thomas | 685 |
-| 90 | **Ariel Atkins** 🔴 | 684 |
-| 90 | Leilani Mitchell | 684 |
+| 91 | Leilani Mitchell | 684 |
 | 92 | Crystal Robinson | 682 |
 | 93 | Jennifer Lacy | 680 |
 | 93 | Temeka Johnson | 680 |

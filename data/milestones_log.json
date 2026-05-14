@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-14T02:47:00+00:00",
+    "text": "Kelsey Mitchell passed Shenise Johnson for #148 all-time in steals (career 218) \u2014 (4:38 - 1st \u2014 IND @ LA)",
+    "kind": "rank_pass",
+    "player": "Kelsey Mitchell",
+    "stat": "steals",
+    "rank": 148,
+    "passed_players": [
+      "Shenise Johnson"
+    ],
+    "new_total": 218
+  },
+  {
     "ts": "2026-05-14T02:45:00+00:00",
     "text": "Dearica Hamby passed Briann January for #50 all-time in steals (career 387) \u2014 up from #51 entering today \u2014 (5:36 - 1st \u2014 IND @ LA)",
     "kind": "rank_pass",
@@ -2965,14 +2977,5 @@
       "Nykesha Sales"
     ],
     "new_total": 577
-  },
-  {
-    "ts": "2026-05-09T05:36:00+00:00",
-    "text": "Dominique Malonga reached 200 career rebounds (now 203) \u2014 (Final \u2014 GS @ SEA)",
-    "kind": "round",
-    "player": "Dominique Malonga",
-    "stat": "rebounds",
-    "value": 200,
-    "new_total": 203
   }
 ]
