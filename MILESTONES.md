@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-14 03:26 UTC
+
+- **Myisha Hines-Allen** reached **500** career assists (now 500) — _20.3 - 2nd — IND @ LA_
+
 ## 2026-05-14 03:18 UTC
 
 - **Elizabeth Williams** passed **Cheryl Ford** for **#33** all-time in rebounds (career 1,908) — up from #34 entering today — _4:39 - 3rd — CHI @ GS_

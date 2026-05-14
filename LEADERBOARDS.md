@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-14 03:25 UTC_
+_Last updated: 2026-05-14 03:26 UTC_
 
 ## Contents
 
@@ -69,7 +69,7 @@ _Last updated: 2026-05-14 03:25 UTC_
 | 48 | Monique Currie | 4,253 |
 | 49 | Vickie Johnson | 4,230 |
 | 50 | Yolanda Griffith | 4,224 |
-| 51 | **Kelsey Plum** 🔴 +11 | 4,218 |
+| 51 | **Kelsey Plum** 🔴 +13 | 4,220 |
 | 52 | Allisha Gray | 4,157 |
 | 53 | Rebekkah Brunson | 4,133 |
 | 54 | **Dearica Hamby** 🔴 +8 | 4,098 |
@@ -119,7 +119,7 @@ _Last updated: 2026-05-14 03:25 UTC_
 | 98 | Marina Mabrey | 2,920 |
 | 99 | Natalie Williams | 2,894 |
 | 100 | Jennifer Gillom | 2,888 |
-| 101 | **Natasha Cloud** 🔴 +4 | 2,867 |
+| 101 | **Natasha Cloud** 🔴 +7 | 2,870 |
 | 102 | Iziane Castro Marques | 2,862 |
 | 103 | **Elizabeth Williams** 🔴 +2 | 2,843 |
 | 104 | Alysha Clark | 2,787 |
@@ -436,7 +436,7 @@ _Last updated: 2026-05-14 03:25 UTC_
 | 5 | Lindsay Whalen | 2,347 |
 | 6 | Chelsea Gray | 1,876 |
 | 7 | Alyssa Thomas | 1,820 |
-| 8 | **Skylar Diggins** 🔴 +5 | 1,773 |
+| 8 | **Skylar Diggins** 🔴 +6 | 1,774 |
 | 9 | **Natasha Cloud** 🔴 | 1,733 |
 | 10 | Becky Hammon | 1,705 |
 | 11 | Candace Parker | 1,634 |
@@ -554,7 +554,7 @@ _Last updated: 2026-05-14 03:25 UTC_
 | 122 | Chasity Melvin | 508 |
 | 124 | Anna DeForge | 503 |
 | 124 | Coco Miller | 503 |
-| 126 | **Myisha Hines-Allen** 🔴 +2 | 499 |
+| 126 | **Myisha Hines-Allen** 🔴 +3 | 500 |
 | 127 | **Rachel Banham** 🔴 | 495 |
 | 128 | **Veronica Burton** 🔴 +4 | 489 |
 | 129 | Crystal Robinson | 488 |
@@ -1103,7 +1103,7 @@ _Last updated: 2026-05-14 03:25 UTC_
 | 56 | Kahleah Copper | 341 |
 | 57 | Deanna Nolan | 340 |
 | 58 | Anna DeForge | 334 |
-| 59 | **Natasha Cloud** 🔴 | 331 |
+| 59 | **Natasha Cloud** 🔴 +1 | 332 |
 | 60 | **Erica Wheeler** 🔴 | 320 |
 | 61 | Sugar Rodgers | 317 |
 | 62 | Marissa Coleman | 315 |
@@ -1443,7 +1443,7 @@ _Last updated: 2026-05-14 03:25 UTC_
 | 191 | Isabelle Harrison | 300 |
 | 192 | Crystal Robinson | 299 |
 | 193 | Michele Timms | 297 |
-| 194 | **Caitlin Clark** 🔴 +3 | 292 |
+| 194 | **Caitlin Clark** 🔴 +4 | 293 |
 | 195 | Alexis Hornbuckle | 288 |
 | 195 | **Kayla Thornton** 🔴 | 288 |
 | 195 | Kristen Rasmussen | 288 |

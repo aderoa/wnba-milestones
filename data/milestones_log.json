@@ -1,5 +1,14 @@
 [
   {
+    "ts": "2026-05-14T03:26:00+00:00",
+    "text": "Myisha Hines-Allen reached 500 career assists (now 500) \u2014 (20.3 - 2nd \u2014 IND @ LA)",
+    "kind": "round",
+    "player": "Myisha Hines-Allen",
+    "stat": "assists",
+    "value": 500,
+    "new_total": 500
+  },
+  {
     "ts": "2026-05-14T03:18:00+00:00",
     "text": "Elizabeth Williams passed Cheryl Ford for #33 all-time in rebounds (career 1,908) \u2014 up from #34 entering today \u2014 (4:39 - 3rd \u2014 CHI @ GS)",
     "kind": "rank_pass",
@@ -2965,17 +2974,5 @@
       "Marissa Coleman"
     ],
     "new_total": 996
-  },
-  {
-    "ts": "2026-05-09T05:36:00+00:00",
-    "text": "Kayla Thornton passed Shekinna Stricklen for #135 all-time in points (career 2,248) \u2014 up from #138 entering today \u2014 (Final \u2014 GS @ SEA)",
-    "kind": "rank_pass",
-    "player": "Kayla Thornton",
-    "stat": "points",
-    "rank": 135,
-    "passed_players": [
-      "Shekinna Stricklen"
-    ],
-    "new_total": 2248
   }
 ]
