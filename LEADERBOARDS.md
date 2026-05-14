@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-14 02:25 UTC_
+_Last updated: 2026-05-14 02:26 UTC_
 
 ## Contents
 
@@ -43,7 +43,7 @@ _Last updated: 2026-05-14 02:25 UTC_
 | 22 | DeLisha Milton-Jones | 5,571 |
 | 23 | Katie Douglas | 5,545 |
 | 24 | Lindsay Whalen | 5,511 |
-| 25 | **Skylar Diggins** 🔴 +5 | 5,494 |
+| 25 | **Skylar Diggins** 🔴 +6 | 5,495 |
 | 26 | Kayla McBride | 5,389 |
 | 27 | Swin Cash | 5,119 |
 | 28 | Tangela Smith | 5,035 |
@@ -365,7 +365,7 @@ _Last updated: 2026-05-14 02:25 UTC_
 | 139 | Jennifer Gillom | 964 |
 | 140 | Dominique Canty | 961 |
 | 141 | Armintie Herrington | 960 |
-| 142 | **Skylar Diggins** 🔴 +2 | 957 |
+| 142 | **Skylar Diggins** 🔴 +3 | 958 |
 | 143 | Janell Burse | 944 |
 | 144 | Merlakia Jones | 927 |
 | 145 | Nicky Anosike | 922 |
