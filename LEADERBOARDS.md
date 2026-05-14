@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-14 00:21 UTC_
+_Last updated: 2026-05-14 00:22 UTC_
 
 ## Contents
 
@@ -39,7 +39,7 @@ _Last updated: 2026-05-14 00:21 UTC_
 | 18 | Brittney Griner | 5,967 |
 | 19 | Becky Hammon | 5,816 |
 | 20 | Angel McCoughtry | 5,797 |
-| 21 | **A'ja Wilson** 🔴 +3 | 5,722 |
+| 21 | **A'ja Wilson** 🔴 +4 | 5,723 |
 | 22 | DeLisha Milton-Jones | 5,571 |
 | 23 | Katie Douglas | 5,545 |
 | 24 | Lindsay Whalen | 5,511 |
@@ -116,7 +116,7 @@ _Last updated: 2026-05-14 00:21 UTC_
 | 95 | Sabrina Ionescu | 3,030 |
 | 96 | Marie Ferdinand-Harris | 3,001 |
 | 97 | Emma Meesseman | 2,966 |
-| 98 | **Marina Mabrey** 🔴 +15 | 2,909 |
+| 98 | **Marina Mabrey** 🔴 +18 | 2,912 |
 | 99 | Natalie Williams | 2,894 |
 | 100 | Jennifer Gillom | 2,888 |
 | 101 | Natasha Cloud | 2,863 |
@@ -138,7 +138,7 @@ _Last updated: 2026-05-14 00:21 UTC_
 | 117 | Leilani Mitchell | 2,618 |
 | 118 | Cynthia Cooper | 2,601 |
 | 119 | Tan White | 2,595 |
-| 120 | Cheyenne Parker-Tyus | 2,565 |
+| 120 | **Cheyenne Parker-Tyus** 🔴 | 2,565 |
 | 121 | Kelly Miller | 2,558 |
 | 122 | Glory Johnson | 2,531 |
 | 123 | Nikki McCray | 2,521 |
@@ -291,7 +291,7 @@ _Last updated: 2026-05-14 00:21 UTC_
 | 65 | Nicole Powell | 1,457 |
 | 66 | Alysha Clark | 1,454 |
 | 67 | Tamera Young | 1,433 |
-| 68 | Cheyenne Parker-Tyus | 1,424 |
+| 68 | **Cheyenne Parker-Tyus** 🔴 | 1,424 |
 | 69 | Alana Beard | 1,420 |
 | 70 | Nakia Sanford | 1,419 |
 | 71 | Kara Braxton | 1,387 |
@@ -384,8 +384,8 @@ _Last updated: 2026-05-14 00:21 UTC_
 | 158 | Kristi Toliver | 829 |
 | 159 | Marie Ferdinand-Harris | 828 |
 | 160 | Angel Reese | 823 |
+| 161 | **Marina Mabrey** 🔴 +4 | 822 |
 | 161 | Marlies Askamp | 822 |
-| 162 | **Marina Mabrey** 🔴 +3 | 821 |
 | 163 | Amanda Zahui B | 819 |
 | 163 | Barbara Farris | 819 |
 | 165 | Carolyn Swords | 814 |
@@ -502,8 +502,8 @@ _Last updated: 2026-05-14 00:21 UTC_
 | 71 | Kelsey Mitchell | 799 |
 | 72 | Mwadi Mabika | 774 |
 | 73 | Sheri Sam | 745 |
+| 74 | **Marina Mabrey** 🔴 +2 | 740 |
 | 74 | Monique Currie | 740 |
-| 75 | **Marina Mabrey** 🔴 +1 | 739 |
 | 76 | Allisha Gray | 730 |
 | 77 | Elaine Powell | 728 |
 | 78 | Chamique Holdsclaw | 698 |
@@ -670,7 +670,7 @@ _Last updated: 2026-05-14 00:21 UTC_
 | 34 | Liz Cambage | 264 |
 | 35 | Nneka Ogwumike | 260 |
 | 36 | Swin Cash | 258 |
-| 37 | Cheyenne Parker-Tyus | 250 |
+| 37 | **Cheyenne Parker-Tyus** 🔴 | 250 |
 | 38 | Plenette Pierson | 242 |
 | 39 | Napheesa Collier | 239 |
 | 40 | Emma Meesseman | 238 |
@@ -799,11 +799,11 @@ _Last updated: 2026-05-14 00:21 UTC_
 | 161 | Rushia Brown | 80 |
 | 164 | Astou Ndour-Fall | 78 |
 | 164 | Katie Smith | 78 |
+| 164 | **Marina Mabrey** 🔴 +1 | 78 |
 | 164 | Slobodanka Tuvic | 78 |
-| 167 | Kara Wolters | 77 |
-| 167 | **Marina Mabrey** 🔴 | 77 |
-| 167 | Noelle Quinn | 77 |
-| 167 | Tierra Ruffin-Pratt | 77 |
+| 168 | Kara Wolters | 77 |
+| 168 | Noelle Quinn | 77 |
+| 168 | Tierra Ruffin-Pratt | 77 |
 | 171 | Jennifer Lacy | 76 |
 | 171 | Sugar Rodgers | 76 |
 | 171 | Tan White | 76 |
@@ -992,7 +992,7 @@ _Last updated: 2026-05-14 00:21 UTC_
 | 151 | Asjha Jones | 215 |
 | 151 | Candice Wiggins | 215 |
 | 151 | Elena Baranova | 215 |
-| 154 | Cheyenne Parker-Tyus | 213 |
+| 154 | **Cheyenne Parker-Tyus** 🔴 | 213 |
 | 154 | Shekinna Stricklen | 213 |
 | 156 | Nikki Teasley | 211 |
 | 157 | Rhyne Howard | 210 |
@@ -1071,7 +1071,7 @@ _Last updated: 2026-05-14 00:21 UTC_
 | 25 | Sabrina Ionescu | 460 |
 | 26 | Breanna Stewart | 454 |
 | 27 | Tiffany Hayes | 447 |
-| 28 | **Marina Mabrey** 🔴 +3 | 442 |
+| 28 | **Marina Mabrey** 🔴 +4 | 443 |
 | 29 | Ariel Atkins | 440 |
 | 30 | Lauren Jackson | 436 |
 | 31 | Shameka Christon | 434 |
@@ -1380,7 +1380,7 @@ _Last updated: 2026-05-14 00:21 UTC_
 | 129 | Alysha Clark | 437 |
 | 129 | Ariel Atkins | 437 |
 | 129 | Betnijah Laney-Hamilton | 437 |
-| 132 | Cheyenne Parker-Tyus | 435 |
+| 132 | **Cheyenne Parker-Tyus** 🔴 | 435 |
 | 133 | Jennifer Gillom | 434 |
 | 133 | Nicole Ohlde | 434 |
 | 135 | Murriel Page | 432 |
@@ -1552,7 +1552,7 @@ _Last updated: 2026-05-14 00:21 UTC_
 | 96 | **Brittney Sykes** 🔴 +1 | 667 |
 | 96 | Chamique Holdsclaw | 667 |
 | 98 | Tianna Hawkins | 662 |
-| 99 | Cheyenne Parker-Tyus | 660 |
+| 99 | **Cheyenne Parker-Tyus** 🔴 | 660 |
 | 100 | Kelsey Plum | 658 |
 | 101 | Tari Phillips | 648 |
 | 102 | Marie Ferdinand-Harris | 646 |

@@ -1,5 +1,19 @@
 [
   {
+    "ts": "2026-05-14T00:22:00+00:00",
+    "text": "Marina Mabrey passed Kara Wolters, Noelle Quinn, and Tierra Ruffin-Pratt for #167 all-time in blocks (career 78) \u2014 up from #168 entering today \u2014 (2:33 - 3rd \u2014 SEA @ TOR)",
+    "kind": "rank_pass",
+    "player": "Marina Mabrey",
+    "stat": "blocks",
+    "rank": 167,
+    "passed_players": [
+      "Kara Wolters",
+      "Noelle Quinn",
+      "Tierra Ruffin-Pratt"
+    ],
+    "new_total": 78
+  },
+  {
     "ts": "2026-05-14T00:19:00+00:00",
     "text": "Stefanie Dolson passed Kahleah Copper for #77 all-time in turnovers (career 580) \u2014 up from #78 entering today \u2014 (4:57 - 3rd \u2014 SEA @ TOR)",
     "kind": "rank_pass",
@@ -2955,17 +2969,5 @@
       "Theresa Plaisance"
     ],
     "new_total": 103
-  },
-  {
-    "ts": "2026-05-09T01:41:00+00:00",
-    "text": "Brittney Sykes passed Vicky Bullett for #66 all-time in steals (career 354) \u2014 up from #68 entering today \u2014 (2:13 - 4th \u2014 WSH @ TOR)",
-    "kind": "rank_pass",
-    "player": "Brittney Sykes",
-    "stat": "steals",
-    "rank": 66,
-    "passed_players": [
-      "Vicky Bullett"
-    ],
-    "new_total": 354
   }
 ]
