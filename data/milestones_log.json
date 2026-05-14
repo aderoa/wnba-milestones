@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-14T03:18:00+00:00",
+    "text": "Elizabeth Williams passed Cheryl Ford for #33 all-time in rebounds (career 1,908) \u2014 up from #34 entering today \u2014 (4:39 - 3rd \u2014 CHI @ GS)",
+    "kind": "rank_pass",
+    "player": "Elizabeth Williams",
+    "stat": "rebounds",
+    "rank": 33,
+    "passed_players": [
+      "Cheryl Ford"
+    ],
+    "new_total": 1908
+  },
+  {
     "ts": "2026-05-14T03:12:00+00:00",
     "text": "Kamilla Cardoso passed Sandrine Gruda for #137 all-time in blocks (career 95) \u2014 up from #138 entering today \u2014 (6:29 - 3rd \u2014 CHI @ GS)",
     "kind": "rank_pass",
@@ -2965,17 +2977,5 @@
       "Shekinna Stricklen"
     ],
     "new_total": 2248
-  },
-  {
-    "ts": "2026-05-09T05:36:00+00:00",
-    "text": "Kayla Thornton passed Azur\u00e1 Stevens for #197 all-time in turnovers (career 288) \u2014 up from #198 entering today \u2014 (Final \u2014 GS @ SEA)",
-    "kind": "rank_pass",
-    "player": "Kayla Thornton",
-    "stat": "turnovers",
-    "rank": 197,
-    "passed_players": [
-      "Azur\u00e1 Stevens"
-    ],
-    "new_total": 288
   }
 ]
