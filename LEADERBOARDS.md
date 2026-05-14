@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-14 04:02 UTC_
+_Last updated: 2026-05-14 04:03 UTC_
 
 ## Contents
 
@@ -1629,8 +1629,8 @@ _Last updated: 2026-05-14 04:02 UTC_
 | 172 | Elena Baranova | 501 |
 | 173 | Adrian Williams-Strong | 497 |
 | 173 | Essence Carson | 497 |
-| 175 | Karima Christmas-Kelly | 494 |
-| 175 | **Myisha Hines-Allen** 🔴 +1 | 494 |
+| 175 | **Myisha Hines-Allen** 🔴 +2 | 495 |
+| 176 | Karima Christmas-Kelly | 494 |
 | 177 | Ann Wauters | 493 |
 | 177 | Riquna Williams | 493 |
 | 179 | Charde Houston | 487 |
