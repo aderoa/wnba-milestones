@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-14 01:23 UTC_
+_Last updated: 2026-05-14 01:24 UTC_
 
 ## Contents
 
@@ -322,9 +322,9 @@ _Last updated: 2026-05-14 01:23 UTC_
 | 96 | **Brianna Turner** 🔴 +3 | 1,217 |
 | 97 | Myisha Hines-Allen | 1,208 |
 | 98 | DeMya Walker | 1,199 |
-| 99 | **Chelsea Gray** 🔴 +2 | 1,190 |
-| 99 | Latasha Byears | 1,190 |
-| 99 | Tanisha Wright | 1,190 |
+| 99 | **Chelsea Gray** 🔴 +3 | 1,191 |
+| 100 | Latasha Byears | 1,190 |
+| 100 | Tanisha Wright | 1,190 |
 | 102 | Vicky Bullett | 1,189 |
 | 103 | Kayla McBride | 1,182 |
 | 104 | Nykesha Sales | 1,148 |
@@ -341,7 +341,7 @@ _Last updated: 2026-05-14 01:23 UTC_
 | 115 | Ann Wauters | 1,105 |
 | 116 | Natasha Cloud | 1,080 |
 | 117 | Svetlana Abrosimova | 1,078 |
-| 118 | **NaLyssa Smith** 🔴 +2 | 1,056 |
+| 118 | **NaLyssa Smith** 🔴 +3 | 1,057 |
 | 119 | Le'coe Willingham | 1,054 |
 | 120 | Aliyah Boston | 1,051 |
 | 121 | Isabelle Harrison | 1,049 |
@@ -470,8 +470,8 @@ _Last updated: 2026-05-14 01:23 UTC_
 | 39 | Penny Taylor | 1,049 |
 | 40 | Dominique Canty | 1,042 |
 | 41 | Sheryl Swoopes | 1,037 |
+| 42 | **Jackie Young** 🔴 +4 | 1,033 |
 | 42 | Tina Charles | 1,033 |
-| 43 | **Jackie Young** 🔴 +3 | 1,032 |
 | 44 | Nikki Teasley | 982 |
 | 45 | Tamecka Dixon | 960 |
 | 46 | Kara Lawson | 946 |
