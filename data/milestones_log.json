@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-05-14T00:33:00+00:00",
+    "text": "Julie Allemand passed Shameka Christon and Tamicha Jackson for #170 all-time in assists (career 390) \u2014 up from #173 entering today \u2014 (8:41 - 4th \u2014 SEA @ TOR)",
+    "kind": "rank_pass",
+    "player": "Julie Allemand",
+    "stat": "assists",
+    "rank": 170,
+    "passed_players": [
+      "Shameka Christon",
+      "Tamicha Jackson"
+    ],
+    "new_total": 390
+  },
+  {
     "ts": "2026-05-14T00:25:00+00:00",
     "text": "Marina Mabrey passed Jessica Breland, Murriel Page, and Shatori Walker-Kimbrough for #164 all-time in steals (career 205) \u2014 up from #169 entering today \u2014 (54.2 - 3rd \u2014 SEA @ TOR)",
     "kind": "rank_pass",
@@ -2959,17 +2972,5 @@
       "DeLisha Milton-Jones"
     ],
     "new_total": 2575
-  },
-  {
-    "ts": "2026-05-09T01:41:00+00:00",
-    "text": "Shakira Austin passed LaToya Sanders for #200 all-time in rebounds (career 698) \u2014 new to top 200 today \u2014 (2:13 - 4th \u2014 WSH @ TOR)",
-    "kind": "rank_pass",
-    "player": "Shakira Austin",
-    "stat": "rebounds",
-    "rank": 200,
-    "passed_players": [
-      "LaToya Sanders"
-    ],
-    "new_total": 698
   }
 ]
