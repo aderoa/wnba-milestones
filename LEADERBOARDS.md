@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-14 02:56 UTC_
+_Last updated: 2026-05-14 02:57 UTC_
 
 ## Contents
 
@@ -248,7 +248,7 @@ _Last updated: 2026-05-14 02:56 UTC_
 | 22 | Lauren Jackson | 2,444 |
 | 23 | Yolanda Griffith | 2,440 |
 | 24 | Tangela Smith | 2,328 |
-| 25 | **Dearica Hamby** 🔴 +2 | 2,319 |
+| 25 | **Dearica Hamby** 🔴 +3 | 2,320 |
 | 26 | Erika de Souza | 2,220 |
 | 27 | Diana Taurasi | 2,201 |
 | 28 | Natasha Howard | 2,174 |
@@ -342,8 +342,8 @@ _Last updated: 2026-05-14 02:56 UTC_
 | 116 | **Natasha Cloud** 🔴 +2 | 1,082 |
 | 117 | Svetlana Abrosimova | 1,078 |
 | 118 | NaLyssa Smith | 1,059 |
+| 119 | **Aliyah Boston** 🔴 +3 | 1,054 |
 | 119 | Le'coe Willingham | 1,054 |
-| 120 | **Aliyah Boston** 🔴 +2 | 1,053 |
 | 121 | Isabelle Harrison | 1,049 |
 | 122 | Nicole Ohlde | 1,040 |
 | 123 | Tamecka Dixon | 1,035 |
@@ -417,7 +417,7 @@ _Last updated: 2026-05-14 02:56 UTC_
 | 191 | Sami Whitcomb | 726 |
 | 191 | Shekinna Stricklen | 726 |
 | 193 | Arike Ogunbowale | 722 |
-| 194 | **Kelsey Plum** 🔴 | 715 |
+| 194 | **Kelsey Plum** 🔴 +1 | 716 |
 | 195 | Olympia Scott | 711 |
 | 196 | Katie Mattera | 708 |
 | 197 | Rushia Brown | 706 |
@@ -715,7 +715,7 @@ _Last updated: 2026-05-14 02:56 UTC_
 | 77 | Nia Coffey | 151 |
 | 80 | Alison Bales | 148 |
 | 81 | Chamique Holdsclaw | 143 |
-| 82 | **Aliyah Boston** 🔴 | 140 |
+| 82 | **Aliyah Boston** 🔴 +1 | 141 |
 | 83 | Shavonte Zellous | 139 |
 | 84 | Penny Taylor | 136 |
 | 85 | Devereaux Peters | 133 |
@@ -833,6 +833,7 @@ _Last updated: 2026-05-14 02:56 UTC_
 | 194 | Riquna Williams | 65 |
 | 194 | Sabrina Ionescu | 65 |
 | 199 | Jackie Young | 64 |
+| 200 | **Cameron Brink** 🔴 +2 | 63 |
 | 200 | Eva Nemcova | 63 |
 
 ## Steals
