@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-14 04:33 UTC_
+_Last updated: 2026-05-14 04:34 UTC_
 
 ## Contents
 
@@ -51,7 +51,7 @@ _Last updated: 2026-05-14 04:33 UTC_
 | 30 | Maya Moore | 4,984 |
 | 31 | Tiffany Hayes | 4,927 |
 | 32 | Sheryl Swoopes | 4,875 |
-| 33 | **Kelsey Mitchell** 🔴 +14 | 4,827 |
+| 33 | **Kelsey Mitchell** 🔴 +21 | 4,834 |
 | 34 | Alana Beard | 4,740 |
 | 35 | Chamique Holdsclaw | 4,713 |
 | 36 | Elena Delle Donne | 4,706 |
@@ -1052,7 +1052,7 @@ _Last updated: 2026-05-14 04:33 UTC_
 | 5 | Tina Thompson | 745 |
 | 6 | Katie Douglas | 723 |
 | 7 | Kayla McBride | 722 |
-| 8 | **Kelsey Mitchell** 🔴 +2 | 671 |
+| 8 | **Kelsey Mitchell** 🔴 +3 | 672 |
 | 9 | Jewell Loyd | 670 |
 | 10 | DeWanna Bonner | 663 |
 | 11 | Kristi Toliver | 651 |
@@ -1336,7 +1336,7 @@ _Last updated: 2026-05-14 04:33 UTC_
 | 84 | Sancho Lyttle | 563 |
 | 85 | Brittney Sykes | 562 |
 | 86 | Tan White | 557 |
-| 87 | **Kelsey Mitchell** 🔴 +1 | 550 |
+| 87 | **Kelsey Mitchell** 🔴 +2 | 551 |
 | 88 | Breanna Stewart | 549 |
 | 88 | Lauren Jackson | 549 |
 | 90 | Matee Ajavon | 544 |
@@ -1581,10 +1581,10 @@ _Last updated: 2026-05-14 04:33 UTC_
 | 123 | Kamila Vodichkova | 596 |
 | 124 | Teresa Weatherspoon | 589 |
 | 125 | Emma Meesseman | 585 |
-| 126 | Chiney Ogwumike | 580 |
-| 126 | Hamchetou Maiga-Ba | 580 |
-| 126 | **Kelsey Mitchell** 🔴 +1 | 580 |
-| 126 | Olympia Scott | 580 |
+| 126 | **Kelsey Mitchell** 🔴 +3 | 582 |
+| 127 | Chiney Ogwumike | 580 |
+| 127 | Hamchetou Maiga-Ba | 580 |
+| 127 | Olympia Scott | 580 |
 | 130 | Ezi Magbegor | 576 |
 | 131 | Le'coe Willingham | 571 |
 | 132 | Ashley Robinson | 567 |
