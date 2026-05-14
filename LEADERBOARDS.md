@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-14 00:19 UTC_
+_Last updated: 2026-05-14 00:20 UTC_
 
 ## Contents
 
@@ -116,7 +116,7 @@ _Last updated: 2026-05-14 00:19 UTC_
 | 95 | Sabrina Ionescu | 3,030 |
 | 96 | Marie Ferdinand-Harris | 3,001 |
 | 97 | Emma Meesseman | 2,966 |
-| 98 | **Marina Mabrey** 🔴 +12 | 2,906 |
+| 98 | **Marina Mabrey** 🔴 +15 | 2,909 |
 | 99 | Natalie Williams | 2,894 |
 | 100 | Jennifer Gillom | 2,888 |
 | 101 | Natasha Cloud | 2,863 |
@@ -495,7 +495,7 @@ _Last updated: 2026-05-14 00:19 UTC_
 | 64 | Lisa Leslie | 873 |
 | 65 | Tully Bevilaqua | 853 |
 | 66 | Jia Perkins | 837 |
-| 67 | **Brittney Sykes** 🔴 +4 | 820 |
+| 67 | **Brittney Sykes** 🔴 +5 | 821 |
 | 68 | Andrea Stinson | 810 |
 | 69 | Tina Thompson | 803 |
 | 70 | Epiphanny Prince | 800 |
@@ -1071,7 +1071,7 @@ _Last updated: 2026-05-14 00:19 UTC_
 | 25 | Sabrina Ionescu | 460 |
 | 26 | Breanna Stewart | 454 |
 | 27 | Tiffany Hayes | 447 |
-| 28 | **Marina Mabrey** 🔴 +2 | 441 |
+| 28 | **Marina Mabrey** 🔴 +3 | 442 |
 | 29 | Ariel Atkins | 440 |
 | 30 | Lauren Jackson | 436 |
 | 31 | Shameka Christon | 434 |
