@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-14T03:43:00+00:00",
+    "text": "Veronica Burton passed Adrienne Johnson for #197 all-time in three-pointers (career 103) \u2014 up from #199 entering today \u2014 (5:01 - 4th \u2014 CHI @ GS)",
+    "kind": "rank_pass",
+    "player": "Veronica Burton",
+    "stat": "three-pointers",
+    "rank": 197,
+    "passed_players": [
+      "Adrienne Johnson"
+    ],
+    "new_total": 103
+  },
+  {
     "ts": "2026-05-14T03:34:00+00:00",
     "text": "Natasha Cloud passed Chasity Melvin for #55 all-time in turnovers (career 667) \u2014 up from #57 entering today \u2014 (7:54 - 4th \u2014 CHI @ GS)",
     "kind": "rank_pass",
@@ -2962,17 +2974,5 @@
       "Dana Evans"
     ],
     "new_total": 380
-  },
-  {
-    "ts": "2026-05-09T17:16:00+00:00",
-    "text": "Caitlin Clark passed Elizabeth Williams for #140 all-time in assists (career 453) \u2014 (3:57 - 1st \u2014 DAL @ IND)",
-    "kind": "rank_pass",
-    "player": "Caitlin Clark",
-    "stat": "assists",
-    "rank": 140,
-    "passed_players": [
-      "Elizabeth Williams"
-    ],
-    "new_total": 453
   }
 ]
