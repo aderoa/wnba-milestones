@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-05-14T02:27:00+00:00",
+    "text": "Kayla Thornton passed Astou Ndiaye-Diatta and NaLyssa Smith for #147 all-time in blocks (career 87) \u2014 up from #148 entering today \u2014 (0.0 - 1st \u2014 CHI @ GS)",
+    "kind": "rank_pass",
+    "player": "Kayla Thornton",
+    "stat": "blocks",
+    "rank": 147,
+    "passed_players": [
+      "Astou Ndiaye-Diatta",
+      "NaLyssa Smith"
+    ],
+    "new_total": 87
+  },
+  {
     "ts": "2026-05-14T02:12:00+00:00",
     "text": "Kiah Stokes passed Elena Baranova for #28 all-time in blocks (career 321) \u2014 up from #29 entering today \u2014 (5:26 - 1st \u2014 CHI @ GS)",
     "kind": "rank_pass",
@@ -2959,17 +2972,5 @@
       "Matee Ajavon"
     ],
     "new_total": 2238
-  },
-  {
-    "ts": "2026-05-09T02:34:00+00:00",
-    "text": "Kayla Thornton passed Sheryl Swoopes for #81 all-time in three-pointers (career 271) \u2014 (End of 1st \u2014 GS @ SEA)",
-    "kind": "rank_pass",
-    "player": "Kayla Thornton",
-    "stat": "three-pointers",
-    "rank": 81,
-    "passed_players": [
-      "Sheryl Swoopes"
-    ],
-    "new_total": 271
   }
 ]

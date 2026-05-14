@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-14 02:27 UTC
+
+- **Kayla Thornton** passed **Astou Ndiaye-Diatta** and **NaLyssa Smith** for **#147** all-time in blocks (career 87) — up from #148 entering today — _0.0 - 1st — CHI @ GS_
+
 ## 2026-05-14 02:12 UTC
 
 - **Kiah Stokes** passed **Elena Baranova** for **#28** all-time in blocks (career 321) — up from #29 entering today — _5:26 - 1st — CHI @ GS_

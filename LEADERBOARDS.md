@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-14 02:26 UTC_
+_Last updated: 2026-05-14 02:27 UTC_
 
 ## Contents
 
@@ -779,10 +779,10 @@ _Last updated: 2026-05-14 02:26 UTC_
 | 143 | Allie Quigley | 90 |
 | 144 | Alysha Clark | 89 |
 | 145 | Marissa Coleman | 88 |
+| 146 | **Kayla Thornton** 🔴 +1 | 87 |
 | 146 | Tiffany Hayes | 87 |
-| 147 | Astou Ndiaye-Diatta | 86 |
-| 147 | **Kayla Thornton** 🔴 | 86 |
-| 147 | NaLyssa Smith | 86 |
+| 148 | Astou Ndiaye-Diatta | 86 |
+| 148 | NaLyssa Smith | 86 |
 | 150 | Adrian Williams-Strong | 85 |
 | 150 | Erlana Larkins | 85 |
 | 150 | Kalani Brown | 85 |
