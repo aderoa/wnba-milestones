@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-14 02:16 UTC_
+_Last updated: 2026-05-14 02:17 UTC_
 
 ## Contents
 
@@ -257,7 +257,7 @@ _Last updated: 2026-05-14 02:16 UTC_
 | 31 | Chasity Melvin | 2,097 |
 | 32 | Tammy Sutton-Brown | 2,010 |
 | 33 | Cheryl Ford | 1,907 |
-| 34 | **Elizabeth Williams** 🔴 | 1,904 |
+| 34 | **Elizabeth Williams** 🔴 +1 | 1,905 |
 | 35 | Plenette Pierson | 1,834 |
 | 36 | Natalie Williams | 1,832 |
 | 37 | Wendy Palmer | 1,824 |
@@ -365,7 +365,7 @@ _Last updated: 2026-05-14 02:16 UTC_
 | 139 | Jennifer Gillom | 964 |
 | 140 | Dominique Canty | 961 |
 | 141 | Armintie Herrington | 960 |
-| 142 | **Skylar Diggins** 🔴 +1 | 956 |
+| 142 | **Skylar Diggins** 🔴 +2 | 957 |
 | 143 | Janell Burse | 944 |
 | 144 | Merlakia Jones | 927 |
 | 145 | Nicky Anosike | 922 |
@@ -644,7 +644,7 @@ _Last updated: 2026-05-14 02:16 UTC_
 | 8 | Tangela Smith | 554 |
 | 9 | A'ja Wilson | 535 |
 | 10 | Ruth Riley | 505 |
-| 11 | **Elizabeth Williams** 🔴 | 483 |
+| 11 | **Elizabeth Williams** 🔴 +1 | 484 |
 | 12 | Taj McWilliams-Franklin | 443 |
 | 13 | Breanna Stewart | 428 |
 | 13 | Tina Charles | 428 |
