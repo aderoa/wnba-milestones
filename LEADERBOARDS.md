@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-14 04:09 UTC_
+_Last updated: 2026-05-14 04:10 UTC_
 
 ## Contents
 
@@ -198,7 +198,7 @@ _Last updated: 2026-05-14 04:09 UTC_
 | 177 | Noelle Quinn | 1,824 |
 | 178 | Danielle Adams | 1,820 |
 | 179 | **Damiris Dantas** 🔴 +3 | 1,817 |
-| 180 | **Aliyah Boston** 🔴 | 1,798 |
+| 180 | **Aliyah Boston** 🔴 +2 | 1,800 |
 | 181 | Charde Houston | 1,797 |
 | 182 | Kamila Vodichkova | 1,767 |
 | 182 | Rachel Banham | 1,767 |
@@ -1521,7 +1521,7 @@ _Last updated: 2026-05-14 04:09 UTC_
 | 63 | Ebony Hoffman | 791 |
 | 64 | Sue Bird | 775 |
 | 65 | Sheri Sam | 766 |
-| 66 | **Erica Wheeler** 🔴 +2 | 760 |
+| 66 | **Erica Wheeler** 🔴 +3 | 761 |
 | 67 | Kia Vaughn | 755 |
 | 68 | Vickie Johnson | 752 |
 | 69 | Kara Braxton | 748 |
@@ -1607,8 +1607,8 @@ _Last updated: 2026-05-14 04:09 UTC_
 | 147 | Epiphanny Prince | 525 |
 | 147 | Marina Mabrey | 525 |
 | 151 | Armintie Herrington | 523 |
-| 152 | **Damiris Dantas** 🔴 +3 | 519 |
-| 152 | Sheryl Swoopes | 519 |
+| 152 | **Damiris Dantas** 🔴 +4 | 520 |
+| 153 | Sheryl Swoopes | 519 |
 | 154 | Nikki McCray | 517 |
 | 155 | Alex Bentley | 516 |
 | 156 | Jantel Lavender | 513 |
