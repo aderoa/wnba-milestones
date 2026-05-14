@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-14 03:12 UTC_
+_Last updated: 2026-05-14 03:13 UTC_
 
 ## Contents
 
@@ -51,7 +51,7 @@ _Last updated: 2026-05-14 03:12 UTC_
 | 30 | Maya Moore | 4,984 |
 | 31 | Tiffany Hayes | 4,927 |
 | 32 | Sheryl Swoopes | 4,875 |
-| 33 | **Kelsey Mitchell** 🔴 +9 | 4,822 |
+| 33 | **Kelsey Mitchell** 🔴 +12 | 4,825 |
 | 34 | Alana Beard | 4,740 |
 | 35 | Chamique Holdsclaw | 4,713 |
 | 36 | Elena Delle Donne | 4,706 |
@@ -403,9 +403,9 @@ _Last updated: 2026-05-14 03:12 UTC_
 | 177 | Teresa Weatherspoon | 775 |
 | 178 | Naz Hillmon | 773 |
 | 179 | Anna DeForge | 769 |
+| 179 | **Gabby Williams** 🔴 +5 | 769 |
 | 179 | Kelsey Bone | 769 |
 | 179 | Tan White | 769 |
-| 182 | **Gabby Williams** 🔴 +4 | 768 |
 | 183 | Tully Bevilaqua | 767 |
 | 184 | **Ariel Atkins** 🔴 | 758 |
 | 185 | Layshia Clarendon | 756 |
@@ -566,7 +566,7 @@ _Last updated: 2026-05-14 03:12 UTC_
 | 135 | Kahleah Copper | 463 |
 | 136 | Erin Phillips | 462 |
 | 137 | Sylvia Fowles | 461 |
-| 138 | **Caitlin Clark** 🔴 +5 | 457 |
+| 138 | **Caitlin Clark** 🔴 +6 | 458 |
 | 139 | Sydney Colson | 454 |
 | 140 | **Elizabeth Williams** 🔴 | 452 |
 | 141 | Satou Sabally | 451 |
@@ -1052,8 +1052,8 @@ _Last updated: 2026-05-14 03:12 UTC_
 | 5 | Tina Thompson | 745 |
 | 6 | Katie Douglas | 723 |
 | 7 | Kayla McBride | 722 |
-| 8 | Jewell Loyd | 670 |
-| 8 | **Kelsey Mitchell** 🔴 +1 | 670 |
+| 8 | **Kelsey Mitchell** 🔴 +2 | 671 |
+| 9 | Jewell Loyd | 670 |
 | 10 | DeWanna Bonner | 663 |
 | 11 | Kristi Toliver | 651 |
 | 12 | Tamika Catchings | 605 |
@@ -1376,9 +1376,9 @@ _Last updated: 2026-05-14 03:12 UTC_
 | 123 | Jantel Lavender | 444 |
 | 125 | A'ja Wilson | 442 |
 | 126 | Ann Wauters | 440 |
+| 127 | **Ariel Atkins** 🔴 +2 | 439 |
 | 127 | Tiffany Mitchell | 439 |
-| 128 | **Ariel Atkins** 🔴 +1 | 438 |
-| 128 | Kedra Holland-Corn | 438 |
+| 129 | Kedra Holland-Corn | 438 |
 | 130 | Alysha Clark | 437 |
 | 130 | Betnijah Laney-Hamilton | 437 |
 | 132 | Cheyenne Parker-Tyus | 436 |
