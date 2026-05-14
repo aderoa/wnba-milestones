@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-14 02:05 UTC_
+_Last updated: 2026-05-14 02:06 UTC_
 
 ## Contents
 
@@ -406,7 +406,7 @@ _Last updated: 2026-05-14 02:05 UTC_
 | 179 | Kelsey Bone | 769 |
 | 179 | Tan White | 769 |
 | 182 | Tully Bevilaqua | 767 |
-| 183 | **Gabby Williams** 🔴 | 764 |
+| 183 | **Gabby Williams** 🔴 +1 | 765 |
 | 184 | Ariel Atkins | 758 |
 | 185 | Layshia Clarendon | 756 |
 | 186 | Brooke Wyckoff | 751 |
