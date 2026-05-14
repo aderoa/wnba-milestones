@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-14T03:50:00+00:00",
+    "text": "Ariel Atkins passed Maya Moore for #88 all-time in fouls (career 687) \u2014 up from #90 entering today \u2014 (8:48 - 3rd \u2014 IND @ LA)",
+    "kind": "rank_pass",
+    "player": "Ariel Atkins",
+    "stat": "fouls",
+    "rank": 88,
+    "passed_players": [
+      "Maya Moore"
+    ],
+    "new_total": 687
+  },
+  {
     "ts": "2026-05-14T03:43:00+00:00",
     "text": "Veronica Burton passed Adrienne Johnson for #197 all-time in three-pointers (career 103) \u2014 up from #199 entering today \u2014 (5:01 - 4th \u2014 CHI @ GS)",
     "kind": "rank_pass",
@@ -2962,17 +2974,5 @@
       "Riquna Williams"
     ],
     "new_total": 495
-  },
-  {
-    "ts": "2026-05-09T17:16:00+00:00",
-    "text": "Aliyah Boston passed Dana Evans for #174 all-time in assists (career 380) \u2014 up from #175 entering today \u2014 (3:57 - 1st \u2014 DAL @ IND)",
-    "kind": "rank_pass",
-    "player": "Aliyah Boston",
-    "stat": "assists",
-    "rank": 174,
-    "passed_players": [
-      "Dana Evans"
-    ],
-    "new_total": 380
   }
 ]

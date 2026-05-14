@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-14 03:50 UTC
+
+- **Ariel Atkins** passed **Maya Moore** for **#88** all-time in fouls (career 687) — up from #90 entering today — _8:48 - 3rd — IND @ LA_
+
 ## 2026-05-14 03:43 UTC
 
 - **Veronica Burton** passed **Adrienne Johnson** for **#197** all-time in three-pointers (career 103) — up from #199 entering today — _5:01 - 4th — CHI @ GS_
