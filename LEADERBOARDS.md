@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-14 03:20 UTC_
+_Last updated: 2026-05-14 03:21 UTC_
 
 ## Contents
 
@@ -43,7 +43,7 @@ _Last updated: 2026-05-14 03:20 UTC_
 | 22 | DeLisha Milton-Jones | 5,571 |
 | 23 | Katie Douglas | 5,545 |
 | 24 | Lindsay Whalen | 5,511 |
-| 25 | **Skylar Diggins** 🔴 +10 | 5,499 |
+| 25 | **Skylar Diggins** 🔴 +13 | 5,502 |
 | 26 | Kayla McBride | 5,389 |
 | 27 | Swin Cash | 5,119 |
 | 28 | Tangela Smith | 5,035 |
@@ -1077,8 +1077,8 @@ _Last updated: 2026-05-14 03:20 UTC_
 | 30 | Lauren Jackson | 436 |
 | 31 | Shameka Christon | 434 |
 | 32 | Allisha Gray | 426 |
-| 33 | Crystal Robinson | 425 |
-| 33 | **Skylar Diggins** 🔴 | 425 |
+| 32 | **Skylar Diggins** 🔴 +1 | 426 |
+| 34 | Crystal Robinson | 425 |
 | 35 | Mwadi Mabika | 415 |
 | 36 | Chelsea Gray | 411 |
 | 37 | Penny Taylor | 407 |
@@ -1435,7 +1435,7 @@ _Last updated: 2026-05-14 03:20 UTC_
 | 182 | Moriah Jefferson | 314 |
 | 184 | Alex Bentley | 313 |
 | 185 | Tamika Raymond | 311 |
-| 186 | **Gabby Williams** 🔴 +1 | 308 |
+| 186 | **Gabby Williams** 🔴 +2 | 309 |
 | 187 | Erin Perperoglou | 305 |
 | 187 | Jennifer Lacy | 305 |
 | 189 | Tianna Hawkins | 303 |
