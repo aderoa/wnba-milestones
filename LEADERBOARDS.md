@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-14 03:57 UTC_
+_Last updated: 2026-05-14 03:58 UTC_
 
 ## Contents
 
@@ -212,7 +212,7 @@ _Last updated: 2026-05-14 03:57 UTC_
 | 191 | Shenise Johnson | 1,688 |
 | 192 | NaLyssa Smith | 1,682 |
 | 193 | **Sophie Cunningham** 🔴 +9 | 1,675 |
-| 194 | **Gabby Williams** 🔴 +15 | 1,612 |
+| 194 | **Gabby Williams** 🔴 +18 | 1,615 |
 | 195 | Janell Burse | 1,580 |
 | 196 | Le'coe Willingham | 1,552 |
 | 197 | Shatori Walker-Kimbrough | 1,544 |
@@ -1219,7 +1219,7 @@ _Last updated: 2026-05-14 03:57 UTC_
 | 172 | Charde Houston | 124 |
 | 173 | Lisa Leslie | 123 |
 | 174 | Sidney Spencer | 122 |
-| 175 | **Gabby Williams** 🔴 +2 | 120 |
+| 175 | **Gabby Williams** 🔴 +3 | 121 |
 | 176 | Tonya Edwards | 118 |
 | 177 | Edwige Lawson-Wade | 116 |
 | 177 | Marie Ferdinand-Harris | 116 |
@@ -1520,7 +1520,7 @@ _Last updated: 2026-05-14 03:57 UTC_
 | 63 | Ebony Hoffman | 791 |
 | 64 | Sue Bird | 775 |
 | 65 | Sheri Sam | 766 |
-| 66 | **Erica Wheeler** 🔴 +1 | 759 |
+| 66 | **Erica Wheeler** 🔴 +2 | 760 |
 | 67 | Kia Vaughn | 755 |
 | 68 | Vickie Johnson | 752 |
 | 69 | Kara Braxton | 748 |
@@ -1580,7 +1580,7 @@ _Last updated: 2026-05-14 03:57 UTC_
 | 123 | Kamila Vodichkova | 596 |
 | 124 | Teresa Weatherspoon | 589 |
 | 125 | Emma Meesseman | 585 |
-| 126 | **Kelsey Mitchell** 🔴 +2 | 581 |
+| 126 | **Kelsey Mitchell** 🔴 +3 | 582 |
 | 127 | Chiney Ogwumike | 580 |
 | 127 | Hamchetou Maiga-Ba | 580 |
 | 127 | Olympia Scott | 580 |
