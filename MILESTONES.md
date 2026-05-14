@@ -2,6 +2,11 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-14 00:12 UTC
+
+- **Natisha Hiedeman** passed **Monique Currie** for **#77** all-time in three-pointers (career 285) — up from #78 entering today — _7:21 - 3rd — SEA @ TOR_
+- **Brittney Sykes** passed **Ivory Latta** for **#75** all-time in points (career 3,448) — up from #76 entering today — _7:21 - 3rd — SEA @ TOR_
+
 ## 2026-05-14 00:10 UTC
 
 - **Brittney Sykes** passed **Deanna Nolan** for **#111** all-time in rebounds (career 1,113) — up from #114 entering today — _8:10 - 3rd — SEA @ TOR_

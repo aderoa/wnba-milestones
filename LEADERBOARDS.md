@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-14 00:11 UTC_
+_Last updated: 2026-05-14 00:12 UTC_
 
 ## Contents
 
@@ -93,8 +93,8 @@ _Last updated: 2026-05-14 00:11 UTC_
 | 72 | Tamecka Dixon | 3,507 |
 | 73 | Tammy Sutton-Brown | 3,498 |
 | 74 | Sancho Lyttle | 3,478 |
-| 75 | **Brittney Sykes** 🔴 +8 | 3,447 |
-| 75 | Ivory Latta | 3,447 |
+| 75 | **Brittney Sykes** 🔴 +9 | 3,448 |
+| 76 | Ivory Latta | 3,447 |
 | 77 | **Jackie Young** 🔴 +2 | 3,414 |
 | 78 | Nicole Powell | 3,407 |
 | 79 | Epiphanny Prince | 3,381 |
@@ -206,7 +206,7 @@ _Last updated: 2026-05-14 00:11 UTC_
 | 185 | Sandy Brondello | 1,759 |
 | 186 | Sugar Rodgers | 1,733 |
 | 187 | Moriah Jefferson | 1,722 |
-| 188 | **Natisha Hiedeman** 🔴 +2 | 1,718 |
+| 188 | **Natisha Hiedeman** 🔴 +5 | 1,721 |
 | 189 | Armintie Herrington | 1,696 |
 | 190 | Nikki Teasley | 1,690 |
 | 191 | Shenise Johnson | 1,688 |
@@ -1120,8 +1120,8 @@ _Last updated: 2026-05-14 00:11 UTC_
 | 74 | Candice Wiggins | 290 |
 | 74 | Tully Bevilaqua | 290 |
 | 76 | Alana Beard | 288 |
-| 77 | Monique Currie | 284 |
-| 77 | **Natisha Hiedeman** 🔴 | 284 |
+| 77 | **Natisha Hiedeman** 🔴 +1 | 285 |
+| 78 | Monique Currie | 284 |
 | 79 | Iziane Castro Marques | 275 |
 | 80 | Kayla Thornton | 273 |
 | 81 | Sheryl Swoopes | 270 |

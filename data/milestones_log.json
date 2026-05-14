@@ -1,5 +1,29 @@
 [
   {
+    "ts": "2026-05-14T00:12:00+00:00",
+    "text": "Natisha Hiedeman passed Monique Currie for #77 all-time in three-pointers (career 285) \u2014 up from #78 entering today \u2014 (7:21 - 3rd \u2014 SEA @ TOR)",
+    "kind": "rank_pass",
+    "player": "Natisha Hiedeman",
+    "stat": "three-pointers",
+    "rank": 77,
+    "passed_players": [
+      "Monique Currie"
+    ],
+    "new_total": 285
+  },
+  {
+    "ts": "2026-05-14T00:12:00+00:00",
+    "text": "Brittney Sykes passed Ivory Latta for #75 all-time in points (career 3,448) \u2014 up from #76 entering today \u2014 (7:21 - 3rd \u2014 SEA @ TOR)",
+    "kind": "rank_pass",
+    "player": "Brittney Sykes",
+    "stat": "points",
+    "rank": 75,
+    "passed_players": [
+      "Ivory Latta"
+    ],
+    "new_total": 3448
+  },
+  {
     "ts": "2026-05-14T00:10:00+00:00",
     "text": "Brittney Sykes passed Deanna Nolan for #111 all-time in rebounds (career 1,113) \u2014 up from #114 entering today \u2014 (8:10 - 3rd \u2014 SEA @ TOR)",
     "kind": "rank_pass",
@@ -2940,29 +2964,5 @@
     "stat": "assists",
     "value": 600,
     "new_total": 600
-  },
-  {
-    "ts": "2026-05-09T01:06:00+00:00",
-    "text": "A'ja Wilson passed Armintie Herrington for #149 all-time in fouls (career 524) \u2014 (End of 3rd \u2014 WSH @ TOR)",
-    "kind": "rank_pass",
-    "player": "A'ja Wilson",
-    "stat": "fouls",
-    "rank": 149,
-    "passed_players": [
-      "Armintie Herrington"
-    ],
-    "new_total": 524
-  },
-  {
-    "ts": "2026-05-09T01:06:00+00:00",
-    "text": "Brittney Sykes passed Tan White for #85 all-time in turnovers (career 558) \u2014 (End of 3rd \u2014 WSH @ TOR)",
-    "kind": "rank_pass",
-    "player": "Brittney Sykes",
-    "stat": "turnovers",
-    "rank": 85,
-    "passed_players": [
-      "Tan White"
-    ],
-    "new_total": 558
   }
 ]
