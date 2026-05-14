@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-14 01:06 UTC_
+_Last updated: 2026-05-14 01:07 UTC_
 
 ## Contents
 
@@ -95,7 +95,7 @@ _Last updated: 2026-05-14 01:06 UTC_
 | 74 | Sancho Lyttle | 3,478 |
 | 75 | Brittney Sykes | 3,457 |
 | 76 | Ivory Latta | 3,447 |
-| 77 | **Jackie Young** 🔴 +10 | 3,422 |
+| 77 | **Jackie Young** 🔴 +9 | 3,421 |
 | 78 | Nicole Powell | 3,407 |
 | 79 | Epiphanny Prince | 3,381 |
 | 80 | Ariel Atkins | 3,361 |
@@ -1108,9 +1108,9 @@ _Last updated: 2026-05-14 01:06 UTC_
 | 62 | Marissa Coleman | 315 |
 | 63 | Shannon Johnson | 313 |
 | 64 | DeLisha Milton-Jones | 312 |
-| 64 | **Jackie Young** 🔴 +1 | 312 |
 | 64 | Ruthie Bolton | 312 |
-| 67 | Tan White | 311 |
+| 66 | **Jackie Young** 🔴 | 311 |
+| 66 | Tan White | 311 |
 | 68 | Kedra Holland-Corn | 307 |
 | 69 | Kelly Miller | 305 |
 | 69 | Sophie Cunningham | 305 |
