@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-14 01:58 UTC_
+_Last updated: 2026-05-14 01:59 UTC_
 
 ## Contents
 
@@ -322,7 +322,7 @@ _Last updated: 2026-05-14 01:58 UTC_
 | 96 | **Brianna Turner** 🔴 +5 | 1,219 |
 | 97 | Myisha Hines-Allen | 1,208 |
 | 98 | DeMya Walker | 1,199 |
-| 99 | **Chelsea Gray** 🔴 +6 | 1,194 |
+| 99 | **Chelsea Gray** 🔴 +7 | 1,195 |
 | 100 | Latasha Byears | 1,190 |
 | 100 | Tanisha Wright | 1,190 |
 | 102 | Vicky Bullett | 1,189 |
