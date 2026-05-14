@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-14T02:45:00+00:00",
+    "text": "Dearica Hamby passed Briann January for #50 all-time in steals (career 387) \u2014 up from #51 entering today \u2014 (5:36 - 1st \u2014 IND @ LA)",
+    "kind": "rank_pass",
+    "player": "Dearica Hamby",
+    "stat": "steals",
+    "rank": 50,
+    "passed_players": [
+      "Briann January"
+    ],
+    "new_total": 387
+  },
+  {
     "ts": "2026-05-14T02:35:00+00:00",
     "text": "Natasha Cloud passed Erica Wheeler for #56 all-time in turnovers (career 666) \u2014 up from #57 entering today \u2014 (6:17 - 2nd \u2014 CHI @ GS)",
     "kind": "rank_pass",
@@ -2962,17 +2974,5 @@
     "stat": "rebounds",
     "value": 200,
     "new_total": 203
-  },
-  {
-    "ts": "2026-05-09T05:36:00+00:00",
-    "text": "Natisha Hiedeman passed Erin Perperoglou for #180 all-time in steals (career 185) \u2014 up from #181 entering today \u2014 (Final \u2014 GS @ SEA)",
-    "kind": "rank_pass",
-    "player": "Natisha Hiedeman",
-    "stat": "steals",
-    "rank": 180,
-    "passed_players": [
-      "Erin Perperoglou"
-    ],
-    "new_total": 185
   }
 ]

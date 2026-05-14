@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-14 02:44 UTC_
+_Last updated: 2026-05-14 02:45 UTC_
 
 ## Contents
 
@@ -73,7 +73,7 @@ _Last updated: 2026-05-14 02:44 UTC_
 | 52 | Allisha Gray | 4,157 |
 | 53 | Rebekkah Brunson | 4,133 |
 | 54 | Jonquel Jones | 4,096 |
-| 55 | **Dearica Hamby** 🔴 | 4,090 |
+| 55 | **Dearica Hamby** 🔴 +2 | 4,092 |
 | 56 | Kahleah Copper | 4,083 |
 | 57 | Courtney Williams | 4,061 |
 | 58 | Asjha Jones | 3,986 |
@@ -217,7 +217,7 @@ _Last updated: 2026-05-14 02:44 UTC_
 | 196 | Le'coe Willingham | 1,552 |
 | 197 | Shatori Walker-Kimbrough | 1,544 |
 | 198 | Rebecca Allen | 1,514 |
-| 199 | **Monique Billings** 🔴 | 1,505 |
+| 199 | **Monique Billings** 🔴 +3 | 1,508 |
 | 200 | Jennifer Lacy | 1,504 |
 
 ## Rebounds
@@ -457,7 +457,7 @@ _Last updated: 2026-05-14 02:44 UTC_
 | 26 | Vickie Johnson | 1,202 |
 | 27 | Odyssey Sims | 1,201 |
 | 28 | Leilani Mitchell | 1,197 |
-| 29 | **Kelsey Plum** 🔴 | 1,193 |
+| 29 | **Kelsey Plum** 🔴 +1 | 1,194 |
 | 30 | DeWanna Bonner | 1,176 |
 | 31 | Renee Montgomery | 1,140 |
 | 32 | Jordin Canada | 1,139 |
@@ -566,8 +566,8 @@ _Last updated: 2026-05-14 02:44 UTC_
 | 135 | Kahleah Copper | 463 |
 | 136 | Erin Phillips | 462 |
 | 137 | Sylvia Fowles | 461 |
+| 138 | **Caitlin Clark** 🔴 +2 | 454 |
 | 138 | Sydney Colson | 454 |
-| 139 | **Caitlin Clark** 🔴 +1 | 453 |
 | 140 | **Elizabeth Williams** 🔴 | 452 |
 | 141 | Satou Sabally | 451 |
 | 141 | Yolanda Griffith | 451 |
@@ -888,8 +888,8 @@ _Last updated: 2026-05-14 02:44 UTC_
 | 47 | Jasmine Thomas | 394 |
 | 48 | Danielle Robinson | 389 |
 | 49 | Deanna Nolan | 388 |
-| 50 | Briann January | 386 |
-| 50 | **Dearica Hamby** 🔴 | 386 |
+| 50 | **Dearica Hamby** 🔴 +1 | 387 |
+| 51 | Briann January | 386 |
 | 52 | Swin Cash | 384 |
 | 52 | Tina Charles | 384 |
 | 54 | Monique Currie | 378 |
@@ -1335,9 +1335,9 @@ _Last updated: 2026-05-14 02:44 UTC_
 | 84 | Sancho Lyttle | 563 |
 | 85 | Brittney Sykes | 562 |
 | 86 | Tan White | 557 |
-| 87 | Breanna Stewart | 549 |
-| 87 | **Kelsey Mitchell** 🔴 | 549 |
-| 87 | Lauren Jackson | 549 |
+| 87 | **Kelsey Mitchell** 🔴 +1 | 550 |
+| 88 | Breanna Stewart | 549 |
+| 88 | Lauren Jackson | 549 |
 | 90 | Matee Ajavon | 544 |
 | 91 | Adrienne Goodson | 542 |
 | 92 | Layshia Clarendon | 536 |

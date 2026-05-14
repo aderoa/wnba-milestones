@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-14 02:45 UTC
+
+- **Dearica Hamby** passed **Briann January** for **#50** all-time in steals (career 387) — up from #51 entering today — _5:36 - 1st — IND @ LA_
+
 ## 2026-05-14 02:35 UTC
 
 - **Natasha Cloud** passed **Erica Wheeler** for **#56** all-time in turnovers (career 666) — up from #57 entering today — _6:17 - 2nd — CHI @ GS_
