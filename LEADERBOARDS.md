@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-14 04:21 UTC_
+_Last updated: 2026-05-14 04:22 UTC_
 
 ## Contents
 
@@ -248,7 +248,7 @@ _Last updated: 2026-05-14 04:21 UTC_
 | 22 | Lauren Jackson | 2,444 |
 | 23 | Yolanda Griffith | 2,440 |
 | 24 | Tangela Smith | 2,328 |
-| 25 | **Dearica Hamby** 🔴 +5 | 2,322 |
+| 25 | **Dearica Hamby** 🔴 +6 | 2,323 |
 | 26 | Erika de Souza | 2,220 |
 | 27 | Diana Taurasi | 2,201 |
 | 28 | Natasha Howard | 2,174 |
@@ -844,7 +844,7 @@ _Last updated: 2026-05-14 04:21 UTC_
 | 2 | Ticha Penicheiro | 761 |
 | 3 | Sue Bird | 724 |
 | 4 | Alana Beard | 710 |
-| 5 | **Nneka Ogwumike** 🔴 +2 | 670 |
+| 5 | **Nneka Ogwumike** 🔴 +3 | 671 |
 | 6 | Sheryl Swoopes | 657 |
 | 7 | Jia Perkins | 634 |
 | 8 | DeWanna Bonner | 631 |
@@ -1307,8 +1307,8 @@ _Last updated: 2026-05-14 04:21 UTC_
 | 55 | Natasha Cloud | 668 |
 | 56 | Chasity Melvin | 666 |
 | 57 | **Erica Wheeler** 🔴 | 665 |
-| 58 | **Dearica Hamby** 🔴 +3 | 660 |
-| 58 | Vickie Johnson | 660 |
+| 58 | **Dearica Hamby** 🔴 +4 | 661 |
+| 59 | Vickie Johnson | 660 |
 | 60 | Yolanda Griffith | 653 |
 | 61 | Sheri Sam | 650 |
 | 62 | Courtney Williams | 643 |
@@ -1336,7 +1336,7 @@ _Last updated: 2026-05-14 04:21 UTC_
 | 84 | Sancho Lyttle | 563 |
 | 85 | Brittney Sykes | 562 |
 | 86 | Tan White | 557 |
-| 87 | **Kelsey Mitchell** 🔴 +1 | 550 |
+| 87 | **Kelsey Mitchell** 🔴 +2 | 551 |
 | 88 | Breanna Stewart | 549 |
 | 88 | Lauren Jackson | 549 |
 | 90 | Matee Ajavon | 544 |
@@ -1515,7 +1515,7 @@ _Last updated: 2026-05-14 04:21 UTC_
 | 56 | Wendy Palmer | 831 |
 | 58 | Shannon Johnson | 813 |
 | 58 | Tully Bevilaqua | 813 |
-| 60 | **Dearica Hamby** 🔴 +3 | 801 |
+| 60 | **Dearica Hamby** 🔴 +4 | 802 |
 | 61 | Nykesha Sales | 796 |
 | 62 | Skylar Diggins | 792 |
 | 63 | Ebony Hoffman | 791 |

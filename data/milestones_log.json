@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-14T04:22:00+00:00",
+    "text": "Dearica Hamby passed Vickie Johnson for #58 all-time in turnovers (career 661) \u2014 up from #59 entering today \u2014 (8:22 - 4th \u2014 IND @ LA)",
+    "kind": "rank_pass",
+    "player": "Dearica Hamby",
+    "stat": "turnovers",
+    "rank": 58,
+    "passed_players": [
+      "Vickie Johnson"
+    ],
+    "new_total": 661
+  },
+  {
     "ts": "2026-05-14T04:21:00+00:00",
     "text": "Monique Billings passed Jackie Young for #169 all-time in fouls (career 504) \u2014 up from #171 entering today \u2014 (8:56 - 4th \u2014 IND @ LA)",
     "kind": "rank_pass",
@@ -2961,14 +2973,5 @@
       "Betnijah Laney-Hamilton"
     ],
     "new_total": 438
-  },
-  {
-    "ts": "2026-05-09T17:44:00+00:00",
-    "text": "Aliyah Boston reached 1,800 career points (now 1,805) \u2014 (4:21 - 2nd \u2014 DAL @ IND)",
-    "kind": "round",
-    "player": "Aliyah Boston",
-    "stat": "points",
-    "value": 1800,
-    "new_total": 1805
   }
 ]

@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-14 04:22 UTC
+
+- **Dearica Hamby** passed **Vickie Johnson** for **#58** all-time in turnovers (career 661) — up from #59 entering today — _8:22 - 4th — IND @ LA_
+
 ## 2026-05-14 04:21 UTC
 
 - **Monique Billings** passed **Jackie Young** for **#169** all-time in fouls (career 504) — up from #171 entering today — _8:56 - 4th — IND @ LA_
