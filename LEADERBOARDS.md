@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-14 03:23 UTC_
+_Last updated: 2026-05-14 03:24 UTC_
 
 ## Contents
 
@@ -119,7 +119,7 @@ _Last updated: 2026-05-14 03:23 UTC_
 | 98 | Marina Mabrey | 2,920 |
 | 99 | Natalie Williams | 2,894 |
 | 100 | Jennifer Gillom | 2,888 |
-| 101 | **Natasha Cloud** 🔴 +2 | 2,865 |
+| 101 | **Natasha Cloud** 🔴 +4 | 2,867 |
 | 102 | Iziane Castro Marques | 2,862 |
 | 103 | **Elizabeth Williams** 🔴 +2 | 2,843 |
 | 104 | Alysha Clark | 2,787 |
@@ -436,7 +436,7 @@ _Last updated: 2026-05-14 03:23 UTC_
 | 5 | Lindsay Whalen | 2,347 |
 | 6 | Chelsea Gray | 1,876 |
 | 7 | Alyssa Thomas | 1,820 |
-| 8 | **Skylar Diggins** 🔴 +4 | 1,772 |
+| 8 | **Skylar Diggins** 🔴 +5 | 1,773 |
 | 9 | **Natasha Cloud** 🔴 | 1,733 |
 | 10 | Becky Hammon | 1,705 |
 | 11 | Candace Parker | 1,634 |
@@ -554,7 +554,7 @@ _Last updated: 2026-05-14 03:23 UTC_
 | 122 | Chasity Melvin | 508 |
 | 124 | Anna DeForge | 503 |
 | 124 | Coco Miller | 503 |
-| 126 | **Myisha Hines-Allen** 🔴 +1 | 498 |
+| 126 | **Myisha Hines-Allen** 🔴 +2 | 499 |
 | 127 | **Rachel Banham** 🔴 | 495 |
 | 128 | **Veronica Burton** 🔴 +4 | 489 |
 | 129 | Crystal Robinson | 488 |
@@ -1580,10 +1580,10 @@ _Last updated: 2026-05-14 03:23 UTC_
 | 123 | Kamila Vodichkova | 596 |
 | 124 | Teresa Weatherspoon | 589 |
 | 125 | Emma Meesseman | 585 |
-| 126 | Chiney Ogwumike | 580 |
-| 126 | Hamchetou Maiga-Ba | 580 |
-| 126 | **Kelsey Mitchell** 🔴 +1 | 580 |
-| 126 | Olympia Scott | 580 |
+| 126 | **Kelsey Mitchell** 🔴 +2 | 581 |
+| 127 | Chiney Ogwumike | 580 |
+| 127 | Hamchetou Maiga-Ba | 580 |
+| 127 | Olympia Scott | 580 |
 | 130 | Ezi Magbegor | 576 |
 | 131 | Le'coe Willingham | 571 |
 | 132 | Ashley Robinson | 567 |
