@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-14 04:03 UTC_
+_Last updated: 2026-05-14 04:04 UTC_
 
 ## Contents
 
@@ -24,7 +24,7 @@ _Last updated: 2026-05-14 04:03 UTC_
 | 3 | DeWanna Bonner | 7,805 |
 | 4 | Tina Thompson | 7,470 |
 | 5 | Tamika Catchings | 7,371 |
-| 6 | **Nneka Ogwumike** 🔴 +7 | 7,312 |
+| 6 | **Nneka Ogwumike** 🔴 +9 | 7,314 |
 | 7 | Candice Dupree | 6,861 |
 | 8 | Sue Bird | 6,802 |
 | 9 | Cappie Pondexter | 6,781 |
@@ -1449,6 +1449,7 @@ _Last updated: 2026-05-14 04:03 UTC_
 | 195 | Kristen Rasmussen | 288 |
 | 198 | Azurá Stevens | 286 |
 | 199 | Bridget Pettis | 284 |
+| 199 | **Damiris Dantas** 🔴 +1 | 284 |
 | 199 | **Rachel Banham** 🔴 | 284 |
 
 ## Personal fouls
@@ -1570,8 +1571,8 @@ _Last updated: 2026-05-14 04:03 UTC_
 | 113 | Courtney Paris | 617 |
 | 114 | Coco Miller | 615 |
 | 115 | Brooke Wyckoff | 614 |
+| 116 | **Kiah Stokes** 🔴 +5 | 613 |
 | 116 | Svetlana Abrosimova | 613 |
-| 117 | **Kiah Stokes** 🔴 +4 | 612 |
 | 118 | Layshia Clarendon | 609 |
 | 119 | Chelsea Gray | 604 |
 | 119 | Tiffany Mitchell | 604 |
@@ -1606,8 +1607,8 @@ _Last updated: 2026-05-14 04:03 UTC_
 | 147 | Epiphanny Prince | 525 |
 | 147 | Marina Mabrey | 525 |
 | 151 | Armintie Herrington | 523 |
+| 152 | **Damiris Dantas** 🔴 +3 | 519 |
 | 152 | Sheryl Swoopes | 519 |
-| 153 | **Damiris Dantas** 🔴 +2 | 518 |
 | 154 | Nikki McCray | 517 |
 | 155 | Alex Bentley | 516 |
 | 156 | Jantel Lavender | 513 |
