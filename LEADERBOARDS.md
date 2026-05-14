@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-14 02:54 UTC_
+_Last updated: 2026-05-14 02:55 UTC_
 
 ## Contents
 
@@ -51,7 +51,7 @@ _Last updated: 2026-05-14 02:54 UTC_
 | 30 | Maya Moore | 4,984 |
 | 31 | Tiffany Hayes | 4,927 |
 | 32 | Sheryl Swoopes | 4,875 |
-| 33 | **Kelsey Mitchell** 🔴 +4 | 4,817 |
+| 33 | **Kelsey Mitchell** 🔴 +6 | 4,819 |
 | 34 | Alana Beard | 4,740 |
 | 35 | Chamique Holdsclaw | 4,713 |
 | 36 | Elena Delle Donne | 4,706 |
@@ -343,7 +343,7 @@ _Last updated: 2026-05-14 02:54 UTC_
 | 117 | Svetlana Abrosimova | 1,078 |
 | 118 | NaLyssa Smith | 1,059 |
 | 119 | Le'coe Willingham | 1,054 |
-| 120 | **Aliyah Boston** 🔴 +1 | 1,052 |
+| 120 | **Aliyah Boston** 🔴 +2 | 1,053 |
 | 121 | Isabelle Harrison | 1,049 |
 | 122 | Nicole Ohlde | 1,040 |
 | 123 | Tamecka Dixon | 1,035 |
@@ -602,8 +602,8 @@ _Last updated: 2026-05-14 02:54 UTC_
 | 171 | Shameka Christon | 389 |
 | 171 | Tamicha Jackson | 389 |
 | 173 | Riquna Williams | 387 |
+| 174 | **Aliyah Boston** 🔴 +1 | 379 |
 | 174 | Dana Evans | 379 |
-| 175 | **Aliyah Boston** 🔴 | 378 |
 | 176 | Jessica Breland | 377 |
 | 177 | Shenise Johnson | 376 |
 | 178 | Stephanie Talbot | 372 |
