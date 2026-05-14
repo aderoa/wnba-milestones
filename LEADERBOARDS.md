@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-14 03:33 UTC_
+_Last updated: 2026-05-14 03:34 UTC_
 
 ## Contents
 
@@ -212,7 +212,7 @@ _Last updated: 2026-05-14 03:33 UTC_
 | 191 | Shenise Johnson | 1,688 |
 | 192 | NaLyssa Smith | 1,682 |
 | 193 | **Sophie Cunningham** 🔴 +7 | 1,673 |
-| 194 | **Gabby Williams** 🔴 +12 | 1,609 |
+| 194 | **Gabby Williams** 🔴 +14 | 1,611 |
 | 195 | Janell Burse | 1,580 |
 | 196 | Le'coe Willingham | 1,552 |
 | 197 | Shatori Walker-Kimbrough | 1,544 |
@@ -543,9 +543,9 @@ _Last updated: 2026-05-14 03:33 UTC_
 | 112 | Sophia Young-Malcolm | 554 |
 | 112 | Tangela Smith | 554 |
 | 114 | Tamera Young | 552 |
+| 115 | **Gabby Williams** 🔴 +1 | 551 |
 | 115 | Janel McCarville | 551 |
 | 115 | Svetlana Abrosimova | 551 |
-| 117 | **Gabby Williams** 🔴 | 550 |
 | 118 | Michele Timms | 549 |
 | 119 | Marie Ferdinand-Harris | 528 |
 | 120 | Margo Dydek | 524 |
@@ -1242,8 +1242,8 @@ _Last updated: 2026-05-14 03:33 UTC_
 | 195 | Jeanette Pohlen-Mavunga | 103 |
 | 195 | Kiesha Brown | 103 |
 | 197 | Adrienne Johnson | 102 |
-| 198 | Amber Jacobs | 101 |
-| 198 | **Veronica Burton** 🔴 | 101 |
+| 197 | **Veronica Burton** 🔴 +1 | 102 |
+| 199 | Amber Jacobs | 101 |
 | 200 | Julie Vanloo | 99 |
 
 ## Turnovers
@@ -1304,8 +1304,8 @@ _Last updated: 2026-05-14 03:33 UTC_
 | 52 | Sheryl Swoopes | 677 |
 | 53 | Tammy Sutton-Brown | 672 |
 | 54 | Deanna Nolan | 669 |
-| 55 | Chasity Melvin | 666 |
-| 55 | **Natasha Cloud** 🔴 +1 | 666 |
+| 55 | **Natasha Cloud** 🔴 +2 | 667 |
+| 56 | Chasity Melvin | 666 |
 | 57 | **Erica Wheeler** 🔴 | 665 |
 | 58 | Vickie Johnson | 660 |
 | 59 | **Dearica Hamby** 🔴 +1 | 658 |
@@ -1529,7 +1529,7 @@ _Last updated: 2026-05-14 03:33 UTC_
 | 72 | Becky Hammon | 733 |
 | 73 | Latasha Byears | 730 |
 | 74 | Kristi Toliver | 722 |
-| 75 | **Natasha Cloud** 🔴 +1 | 719 |
+| 75 | **Natasha Cloud** 🔴 +2 | 720 |
 | 76 | Kahleah Copper | 715 |
 | 77 | Cheryl Ford | 713 |
 | 78 | Jia Perkins | 711 |

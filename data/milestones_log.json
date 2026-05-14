@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-14T03:34:00+00:00",
+    "text": "Natasha Cloud passed Chasity Melvin for #55 all-time in turnovers (career 667) \u2014 up from #57 entering today \u2014 (7:54 - 4th \u2014 CHI @ GS)",
+    "kind": "rank_pass",
+    "player": "Natasha Cloud",
+    "stat": "turnovers",
+    "rank": 55,
+    "passed_players": [
+      "Chasity Melvin"
+    ],
+    "new_total": 667
+  },
+  {
     "ts": "2026-05-14T03:26:00+00:00",
     "text": "Myisha Hines-Allen reached 500 career assists (now 500) \u2014 (20.3 - 2nd \u2014 IND @ LA)",
     "kind": "round",
@@ -2962,17 +2974,5 @@
       "Elizabeth Williams"
     ],
     "new_total": 453
-  },
-  {
-    "ts": "2026-05-09T17:16:00+00:00",
-    "text": "Damiris Dantas passed Marissa Coleman for #133 all-time in rebounds (career 996) \u2014 (3:57 - 1st \u2014 DAL @ IND)",
-    "kind": "rank_pass",
-    "player": "Damiris Dantas",
-    "stat": "rebounds",
-    "rank": 133,
-    "passed_players": [
-      "Marissa Coleman"
-    ],
-    "new_total": 996
   }
 ]
