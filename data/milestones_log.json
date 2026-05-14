@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-14T02:33:00+00:00",
+    "text": "Kiah Stokes passed Asjha Jones for #41 all-time in rebounds (career 1,752) \u2014 up from #43 entering today \u2014 (7:45 - 2nd \u2014 CHI @ GS)",
+    "kind": "rank_pass",
+    "player": "Kiah Stokes",
+    "stat": "rebounds",
+    "rank": 41,
+    "passed_players": [
+      "Asjha Jones"
+    ],
+    "new_total": 1752
+  },
+  {
     "ts": "2026-05-14T02:27:00+00:00",
     "text": "Kayla Thornton passed Astou Ndiaye-Diatta and NaLyssa Smith for #147 all-time in blocks (career 87) \u2014 up from #148 entering today \u2014 (0.0 - 1st \u2014 CHI @ GS)",
     "kind": "rank_pass",
@@ -2959,18 +2971,5 @@
     "stat": "rebounds",
     "value": 700,
     "new_total": 700
-  },
-  {
-    "ts": "2026-05-09T02:34:00+00:00",
-    "text": "Kayla Thornton passed Kara Braxton and Matee Ajavon for #136 all-time in points (career 2,238) \u2014 up from #138 entering today \u2014 (End of 1st \u2014 GS @ SEA)",
-    "kind": "rank_pass",
-    "player": "Kayla Thornton",
-    "stat": "points",
-    "rank": 136,
-    "passed_players": [
-      "Kara Braxton",
-      "Matee Ajavon"
-    ],
-    "new_total": 2238
   }
 ]

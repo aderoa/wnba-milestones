@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-14 02:33 UTC
+
+- **Kiah Stokes** passed **Asjha Jones** for **#41** all-time in rebounds (career 1,752) — up from #43 entering today — _7:45 - 2nd — CHI @ GS_
+
 ## 2026-05-14 02:27 UTC
 
 - **Kayla Thornton** passed **Astou Ndiaye-Diatta** and **NaLyssa Smith** for **#147** all-time in blocks (career 87) — up from #148 entering today — _0.0 - 1st — CHI @ GS_
