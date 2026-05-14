@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-14 00:30 UTC_
+_Last updated: 2026-05-14 00:31 UTC_
 
 ## Contents
 
@@ -1549,8 +1549,8 @@ _Last updated: 2026-05-14 00:30 UTC_
 | 93 | Jennifer Lacy | 680 |
 | 93 | Temeka Johnson | 680 |
 | 95 | Kelly Miller | 676 |
-| 96 | **Brittney Sykes** 🔴 +1 | 667 |
-| 96 | Chamique Holdsclaw | 667 |
+| 96 | **Brittney Sykes** 🔴 +2 | 668 |
+| 97 | Chamique Holdsclaw | 667 |
 | 98 | Tianna Hawkins | 662 |
 | 99 | **Cheyenne Parker-Tyus** 🔴 | 660 |
 | 100 | Kelsey Plum | 658 |
