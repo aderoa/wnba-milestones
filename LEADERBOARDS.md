@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-14 03:32 UTC_
+_Last updated: 2026-05-14 03:33 UTC_
 
 ## Contents
 
@@ -1642,7 +1642,7 @@ _Last updated: 2026-05-14 03:32 UTC_
 | 185 | Sami Whitcomb | 480 |
 | 186 | Seimone Augustus | 477 |
 | 187 | Allie Quigley | 475 |
-| 188 | **Rachel Banham** 🔴 | 472 |
+| 188 | **Rachel Banham** 🔴 +1 | 473 |
 | 189 | Kia Nurse | 466 |
 | 190 | Azurá Stevens | 463 |
 | 190 | Christi Thomas | 463 |
