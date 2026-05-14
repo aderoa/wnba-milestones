@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-14 02:42 UTC_
+_Last updated: 2026-05-14 02:43 UTC_
 
 ## Contents
 
@@ -43,7 +43,7 @@ _Last updated: 2026-05-14 02:42 UTC_
 | 22 | DeLisha Milton-Jones | 5,571 |
 | 23 | Katie Douglas | 5,545 |
 | 24 | Lindsay Whalen | 5,511 |
-| 25 | **Skylar Diggins** 🔴 +8 | 5,497 |
+| 25 | **Skylar Diggins** 🔴 +10 | 5,499 |
 | 26 | Kayla McBride | 5,389 |
 | 27 | Swin Cash | 5,119 |
 | 28 | Tangela Smith | 5,035 |
@@ -69,7 +69,7 @@ _Last updated: 2026-05-14 02:42 UTC_
 | 48 | Monique Currie | 4,253 |
 | 49 | Vickie Johnson | 4,230 |
 | 50 | Yolanda Griffith | 4,224 |
-| 51 | **Kelsey Plum** 🔴 | 4,207 |
+| 51 | **Kelsey Plum** 🔴 +3 | 4,210 |
 | 52 | Allisha Gray | 4,157 |
 | 53 | Rebekkah Brunson | 4,133 |
 | 54 | Jonquel Jones | 4,096 |
@@ -248,7 +248,7 @@ _Last updated: 2026-05-14 02:42 UTC_
 | 22 | Lauren Jackson | 2,444 |
 | 23 | Yolanda Griffith | 2,440 |
 | 24 | Tangela Smith | 2,328 |
-| 25 | **Dearica Hamby** 🔴 | 2,317 |
+| 25 | **Dearica Hamby** 🔴 +1 | 2,318 |
 | 26 | Erika de Souza | 2,220 |
 | 27 | Diana Taurasi | 2,201 |
 | 28 | Natasha Howard | 2,174 |
@@ -264,7 +264,7 @@ _Last updated: 2026-05-14 02:42 UTC_
 | 38 | Sophia Young-Malcolm | 1,807 |
 | 39 | Lindsay Whalen | 1,805 |
 | 40 | Camille Smith | 1,802 |
-| 41 | **Kiah Stokes** 🔴 +8 | 1,754 |
+| 41 | **Kiah Stokes** 🔴 +9 | 1,755 |
 | 42 | Asjha Jones | 1,751 |
 | 43 | Courtney Williams | 1,747 |
 | 44 | Teaira McCowan | 1,670 |
@@ -343,7 +343,7 @@ _Last updated: 2026-05-14 02:42 UTC_
 | 117 | Svetlana Abrosimova | 1,078 |
 | 118 | NaLyssa Smith | 1,059 |
 | 119 | Le'coe Willingham | 1,054 |
-| 120 | **Aliyah Boston** 🔴 | 1,051 |
+| 120 | **Aliyah Boston** 🔴 +1 | 1,052 |
 | 121 | Isabelle Harrison | 1,049 |
 | 122 | Nicole Ohlde | 1,040 |
 | 123 | Tamecka Dixon | 1,035 |
@@ -1056,7 +1056,7 @@ _Last updated: 2026-05-14 02:42 UTC_
 | 10 | DeWanna Bonner | 663 |
 | 11 | Kristi Toliver | 651 |
 | 12 | Tamika Catchings | 605 |
-| 13 | **Kelsey Plum** 🔴 | 588 |
+| 13 | **Kelsey Plum** 🔴 +1 | 589 |
 | 14 | Kara Lawson | 583 |
 | 15 | Nicole Powell | 579 |
 | 16 | Arike Ogunbowale | 545 |
