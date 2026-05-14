@@ -1,5 +1,20 @@
 [
   {
+    "ts": "2026-05-14T04:28:00+00:00",
+    "text": "Monique Billings passed Allison Feaster, Erin Perperoglou, Napheesa Collier, and Sophie Cunningham for #165 all-time in fouls (career 505) \u2014 up from #171 entering today \u2014 (6:37 - 4th \u2014 IND @ LA)",
+    "kind": "rank_pass",
+    "player": "Monique Billings",
+    "stat": "fouls",
+    "rank": 165,
+    "passed_players": [
+      "Allison Feaster",
+      "Erin Perperoglou",
+      "Napheesa Collier",
+      "Sophie Cunningham"
+    ],
+    "new_total": 505
+  },
+  {
     "ts": "2026-05-14T04:24:00+00:00",
     "text": "Kelsey Plum passed Rebekkah Brunson for #68 all-time in turnovers (career 616) \u2014 up from #70 entering today \u2014 (7:49 - 4th \u2014 IND @ LA)",
     "kind": "rank_pass",
@@ -2963,14 +2978,5 @@
       "Janel McCarville"
     ],
     "new_total": 599
-  },
-  {
-    "ts": "2026-05-09T17:44:00+00:00",
-    "text": "Paige Bueckers reached 700 career points (now 701) \u2014 (4:21 - 2nd \u2014 DAL @ IND)",
-    "kind": "round",
-    "player": "Paige Bueckers",
-    "stat": "points",
-    "value": 700,
-    "new_total": 701
   }
 ]
