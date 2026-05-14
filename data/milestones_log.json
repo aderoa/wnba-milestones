@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-05-14T00:09:00+00:00",
+    "text": "Marina Mabrey passed Amanda Zahui B and Barbara Farris for #162 all-time in rebounds (career 820) \u2014 up from #164 entering today \u2014 (8:49 - 3rd \u2014 SEA @ TOR)",
+    "kind": "rank_pass",
+    "player": "Marina Mabrey",
+    "stat": "rebounds",
+    "rank": 162,
+    "passed_players": [
+      "Amanda Zahui B",
+      "Barbara Farris"
+    ],
+    "new_total": 820
+  },
+  {
     "ts": "2026-05-13T23:51:00+00:00",
     "text": "Brittney Sykes passed Chamique Holdsclaw for #96 all-time in fouls (career 668) \u2014 up from #97 entering today \u2014 (0.0 - 2nd \u2014 SEA @ TOR)",
     "kind": "rank_pass",
@@ -2951,17 +2964,5 @@
       "Armintie Herrington"
     ],
     "new_total": 524
-  },
-  {
-    "ts": "2026-05-09T00:48:00+00:00",
-    "text": "Brittney Sykes passed Svetlana Abrosimova for #67 all-time in steals (career 353) \u2014 (5:19 - 3rd \u2014 WSH @ TOR)",
-    "kind": "rank_pass",
-    "player": "Brittney Sykes",
-    "stat": "steals",
-    "rank": 67,
-    "passed_players": [
-      "Svetlana Abrosimova"
-    ],
-    "new_total": 353
   }
 ]
