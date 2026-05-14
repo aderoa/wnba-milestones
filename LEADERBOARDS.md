@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-14 01:49 UTC_
+_Last updated: 2026-05-14 01:50 UTC_
 
 ## Contents
 
@@ -39,7 +39,7 @@ _Last updated: 2026-05-14 01:49 UTC_
 | 18 | Brittney Griner | 5,967 |
 | 19 | Becky Hammon | 5,816 |
 | 20 | Angel McCoughtry | 5,797 |
-| 21 | **A'ja Wilson** 🔴 +21 | 5,740 |
+| 21 | **A'ja Wilson** 🔴 +22 | 5,741 |
 | 22 | DeLisha Milton-Jones | 5,571 |
 | 23 | Katie Douglas | 5,545 |
 | 24 | Lindsay Whalen | 5,511 |
@@ -61,7 +61,7 @@ _Last updated: 2026-05-14 01:49 UTC_
 | 40 | Arike Ogunbowale | 4,464 |
 | 41 | Crystal Langhorne | 4,433 |
 | 41 | Jia Perkins | 4,433 |
-| 43 | **Chelsea Gray** 🔴 +4 | 4,413 |
+| 43 | **Chelsea Gray** 🔴 +7 | 4,416 |
 | 44 | Natasha Howard | 4,367 |
 | 45 | Courtney Vandersloot | 4,352 |
 | 46 | Sophia Young-Malcolm | 4,300 |
@@ -241,7 +241,7 @@ _Last updated: 2026-05-14 01:49 UTC_
 | 15 | DeLisha Milton-Jones | 2,574 |
 | 16 | Brittney Griner | 2,531 |
 | 17 | Swin Cash | 2,521 |
-| 18 | **A'ja Wilson** 🔴 +10 | 2,504 |
+| 18 | **A'ja Wilson** 🔴 +11 | 2,505 |
 | 19 | Breanna Stewart | 2,484 |
 | 20 | Michelle Snow | 2,476 |
 | 21 | Crystal Langhorne | 2,454 |
@@ -524,8 +524,8 @@ _Last updated: 2026-05-14 01:49 UTC_
 | 93 | Jennifer Azzi | 636 |
 | 94 | Brittney Griner | 635 |
 | 95 | Sami Whitcomb | 623 |
+| 96 | **A'ja Wilson** 🔴 +1 | 614 |
 | 96 | Alysha Clark | 614 |
-| 97 | **A'ja Wilson** 🔴 | 613 |
 | 98 | Debbie Black | 612 |
 | 99 | Cynthia Cooper | 602 |
 | 100 | Jonquel Jones | 600 |
@@ -992,8 +992,8 @@ _Last updated: 2026-05-14 01:49 UTC_
 | 151 | Asjha Jones | 215 |
 | 151 | Candice Wiggins | 215 |
 | 151 | Elena Baranova | 215 |
-| 154 | **Cheyenne Parker-Tyus** 🔴 | 213 |
-| 154 | Shekinna Stricklen | 213 |
+| 154 | **Cheyenne Parker-Tyus** 🔴 +1 | 214 |
+| 155 | Shekinna Stricklen | 213 |
 | 156 | Nikki Teasley | 211 |
 | 157 | Rhyne Howard | 210 |
 | 158 | Iziane Castro Marques | 209 |
@@ -1079,7 +1079,7 @@ _Last updated: 2026-05-14 01:49 UTC_
 | 33 | Crystal Robinson | 425 |
 | 33 | Skylar Diggins | 425 |
 | 35 | Mwadi Mabika | 415 |
-| 36 | **Chelsea Gray** 🔴 | 410 |
+| 36 | **Chelsea Gray** 🔴 +1 | 411 |
 | 37 | Penny Taylor | 407 |
 | 37 | Riquna Williams | 407 |
 | 39 | Jia Perkins | 396 |
