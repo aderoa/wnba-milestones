@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-14T04:40:00+00:00",
+    "text": "Erica Wheeler passed Katie Smith for #24 all-time in assists (career 1,259) \u2014 up from #25 entering today \u2014 (1:23 - 4th \u2014 IND @ LA)",
+    "kind": "rank_pass",
+    "player": "Erica Wheeler",
+    "stat": "assists",
+    "rank": 24,
+    "passed_players": [
+      "Katie Smith"
+    ],
+    "new_total": 1259
+  },
+  {
     "ts": "2026-05-14T04:39:00+00:00",
     "text": "Cameron Brink passed Eva Nemcova for #200 all-time in blocks (career 64) \u2014 new to top 200 today \u2014 (2:26 - 4th \u2014 IND @ LA)",
     "kind": "rank_pass",
@@ -2965,18 +2977,5 @@
       "Sheryl Swoopes"
     ],
     "new_total": 521
-  },
-  {
-    "ts": "2026-05-09T17:44:00+00:00",
-    "text": "Alanna Smith passed Diamond DeShields and Sugar Rodgers for #199 all-time in fouls (career 446) \u2014 new to top 200 today \u2014 (4:21 - 2nd \u2014 DAL @ IND)",
-    "kind": "rank_pass",
-    "player": "Alanna Smith",
-    "stat": "fouls",
-    "rank": 199,
-    "passed_players": [
-      "Diamond DeShields",
-      "Sugar Rodgers"
-    ],
-    "new_total": 446
   }
 ]
