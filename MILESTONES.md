@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-14 03:12 UTC
+
+- **Kamilla Cardoso** passed **Sandrine Gruda** for **#137** all-time in blocks (career 95) — up from #138 entering today — _6:29 - 3rd — CHI @ GS_
+
 ## 2026-05-14 03:07 UTC
 
 - **Monique Billings** passed **Allisha Gray** for **#78** all-time in rebounds (career 1,348) — up from #79 entering today — _6:10 - 2nd — IND @ LA_
