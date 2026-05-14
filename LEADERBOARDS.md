@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-14 02:52 UTC_
+_Last updated: 2026-05-14 02:53 UTC_
 
 ## Contents
 
@@ -73,7 +73,7 @@ _Last updated: 2026-05-14 02:52 UTC_
 | 52 | Allisha Gray | 4,157 |
 | 53 | Rebekkah Brunson | 4,133 |
 | 54 | Jonquel Jones | 4,096 |
-| 55 | **Dearica Hamby** 🔴 +2 | 4,092 |
+| 55 | **Dearica Hamby** 🔴 +4 | 4,094 |
 | 56 | Kahleah Copper | 4,083 |
 | 57 | Courtney Williams | 4,061 |
 | 58 | Asjha Jones | 3,986 |
@@ -197,7 +197,7 @@ _Last updated: 2026-05-14 02:52 UTC_
 | 176 | Tianna Hawkins | 1,825 |
 | 177 | Noelle Quinn | 1,824 |
 | 178 | Danielle Adams | 1,820 |
-| 179 | **Damiris Dantas** 🔴 | 1,814 |
+| 179 | **Damiris Dantas** 🔴 +3 | 1,817 |
 | 180 | **Aliyah Boston** 🔴 | 1,798 |
 | 181 | Charde Houston | 1,797 |
 | 182 | Kamila Vodichkova | 1,767 |
@@ -457,7 +457,7 @@ _Last updated: 2026-05-14 02:52 UTC_
 | 26 | Vickie Johnson | 1,202 |
 | 27 | Odyssey Sims | 1,201 |
 | 28 | Leilani Mitchell | 1,197 |
-| 29 | **Kelsey Plum** 🔴 +2 | 1,195 |
+| 29 | **Kelsey Plum** 🔴 +3 | 1,196 |
 | 30 | DeWanna Bonner | 1,176 |
 | 31 | Renee Montgomery | 1,140 |
 | 32 | Jordin Canada | 1,139 |
@@ -577,7 +577,7 @@ _Last updated: 2026-05-14 02:52 UTC_
 | 146 | Ruth Riley | 449 |
 | 147 | DeMya Walker | 446 |
 | 148 | Essence Carson | 445 |
-| 149 | **Tyasha Harris** 🔴 | 441 |
+| 149 | **Tyasha Harris** 🔴 +1 | 442 |
 | 150 | Michelle Snow | 437 |
 | 151 | Lauren Jackson | 435 |
 | 152 | Adrienne Goodson | 433 |
@@ -1149,8 +1149,8 @@ _Last updated: 2026-05-14 02:52 UTC_
 | 102 | Sheri Sam | 218 |
 | 104 | Satou Sabally | 212 |
 | 105 | Erin Phillips | 211 |
-| 106 | Andrea Stinson | 207 |
-| 106 | **Damiris Dantas** 🔴 | 207 |
+| 106 | **Damiris Dantas** 🔴 +1 | 208 |
+| 107 | Andrea Stinson | 207 |
 | 108 | Shanna Zolman | 199 |
 | 109 | Betnijah Laney-Hamilton | 197 |
 | 109 | Temeka Johnson | 197 |
