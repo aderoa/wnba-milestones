@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-14 02:41 UTC_
+_Last updated: 2026-05-14 02:42 UTC_
 
 ## Contents
 
@@ -24,7 +24,7 @@ _Last updated: 2026-05-14 02:41 UTC_
 | 3 | DeWanna Bonner | 7,805 |
 | 4 | Tina Thompson | 7,470 |
 | 5 | Tamika Catchings | 7,371 |
-| 6 | **Nneka Ogwumike** 🔴 | 7,305 |
+| 6 | **Nneka Ogwumike** 🔴 +3 | 7,308 |
 | 7 | Candice Dupree | 6,861 |
 | 8 | Sue Bird | 6,802 |
 | 9 | Cappie Pondexter | 6,781 |
@@ -302,7 +302,7 @@ _Last updated: 2026-05-14 02:41 UTC_
 | 76 | Tamika Whitmore | 1,355 |
 | 77 | Emma Meesseman | 1,350 |
 | 78 | Allisha Gray | 1,347 |
-| 79 | **Monique Billings** 🔴 | 1,345 |
+| 79 | **Monique Billings** 🔴 +1 | 1,346 |
 | 80 | Elena Baranova | 1,335 |
 | 81 | Brionna Jones | 1,333 |
 | 81 | Jewell Loyd | 1,333 |
@@ -405,8 +405,8 @@ _Last updated: 2026-05-14 02:41 UTC_
 | 179 | Anna DeForge | 769 |
 | 179 | Kelsey Bone | 769 |
 | 179 | Tan White | 769 |
+| 182 | **Gabby Williams** 🔴 +3 | 767 |
 | 182 | Tully Bevilaqua | 767 |
-| 183 | **Gabby Williams** 🔴 +2 | 766 |
 | 184 | **Ariel Atkins** 🔴 | 758 |
 | 185 | Layshia Clarendon | 756 |
 | 186 | Brooke Wyckoff | 751 |
@@ -1139,9 +1139,9 @@ _Last updated: 2026-05-14 02:41 UTC_
 | 93 | Azurá Stevens | 238 |
 | 94 | Svetlana Abrosimova | 235 |
 | 94 | Tangela Smith | 235 |
+| 96 | **Nneka Ogwumike** 🔴 +1 | 232 |
 | 96 | Stacey Dales | 232 |
-| 97 | Brittney Sykes | 231 |
-| 97 | **Nneka Ogwumike** 🔴 | 231 |
+| 98 | Brittney Sykes | 231 |
 | 99 | Odyssey Sims | 229 |
 | 100 | Elena Baranova | 224 |
 | 101 | Essence Carson | 223 |
@@ -1442,7 +1442,7 @@ _Last updated: 2026-05-14 02:41 UTC_
 | 190 | **Monique Billings** 🔴 | 300 |
 | 192 | Crystal Robinson | 299 |
 | 193 | Michele Timms | 297 |
-| 194 | **Caitlin Clark** 🔴 +1 | 290 |
+| 194 | **Caitlin Clark** 🔴 +2 | 291 |
 | 195 | Alexis Hornbuckle | 288 |
 | 195 | **Kayla Thornton** 🔴 | 288 |
 | 195 | Kristen Rasmussen | 288 |
