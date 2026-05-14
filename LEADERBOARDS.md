@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-14 03:03 UTC_
+_Last updated: 2026-05-14 03:04 UTC_
 
 ## Contents
 
@@ -217,7 +217,7 @@ _Last updated: 2026-05-14 03:03 UTC_
 | 196 | Le'coe Willingham | 1,552 |
 | 197 | Shatori Walker-Kimbrough | 1,544 |
 | 198 | Rebecca Allen | 1,514 |
-| 199 | **Monique Billings** 🔴 +3 | 1,508 |
+| 199 | **Monique Billings** 🔴 +5 | 1,510 |
 | 200 | Jennifer Lacy | 1,504 |
 
 ## Rebounds
@@ -302,7 +302,7 @@ _Last updated: 2026-05-14 03:03 UTC_
 | 76 | Tamika Whitmore | 1,355 |
 | 77 | Emma Meesseman | 1,350 |
 | 78 | Allisha Gray | 1,347 |
-| 79 | **Monique Billings** 🔴 +1 | 1,346 |
+| 78 | **Monique Billings** 🔴 +2 | 1,347 |
 | 80 | Elena Baranova | 1,335 |
 | 81 | Brionna Jones | 1,333 |
 | 81 | Jewell Loyd | 1,333 |
