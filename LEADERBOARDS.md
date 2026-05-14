@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-14 03:14 UTC_
+_Last updated: 2026-05-14 03:15 UTC_
 
 ## Contents
 
@@ -51,7 +51,7 @@ _Last updated: 2026-05-14 03:14 UTC_
 | 30 | Maya Moore | 4,984 |
 | 31 | Tiffany Hayes | 4,927 |
 | 32 | Sheryl Swoopes | 4,875 |
-| 33 | **Kelsey Mitchell** 🔴 +12 | 4,825 |
+| 33 | **Kelsey Mitchell** 🔴 +14 | 4,827 |
 | 34 | Alana Beard | 4,740 |
 | 35 | Chamique Holdsclaw | 4,713 |
 | 36 | Elena Delle Donne | 4,706 |
@@ -69,7 +69,7 @@ _Last updated: 2026-05-14 03:14 UTC_
 | 48 | Monique Currie | 4,253 |
 | 49 | Vickie Johnson | 4,230 |
 | 50 | Yolanda Griffith | 4,224 |
-| 51 | **Kelsey Plum** 🔴 +7 | 4,214 |
+| 51 | **Kelsey Plum** 🔴 +8 | 4,215 |
 | 52 | Allisha Gray | 4,157 |
 | 53 | Rebekkah Brunson | 4,133 |
 | 54 | **Dearica Hamby** 🔴 +8 | 4,098 |
@@ -554,7 +554,7 @@ _Last updated: 2026-05-14 03:14 UTC_
 | 122 | Chasity Melvin | 508 |
 | 124 | Anna DeForge | 503 |
 | 124 | Coco Miller | 503 |
-| 126 | **Myisha Hines-Allen** 🔴 | 497 |
+| 126 | **Myisha Hines-Allen** 🔴 +1 | 498 |
 | 127 | **Rachel Banham** 🔴 | 495 |
 | 128 | Crystal Robinson | 488 |
 | 128 | Tiffany Mitchell | 488 |
@@ -1435,7 +1435,7 @@ _Last updated: 2026-05-14 03:14 UTC_
 | 182 | Moriah Jefferson | 314 |
 | 184 | Alex Bentley | 313 |
 | 185 | Tamika Raymond | 311 |
-| 186 | **Gabby Williams** 🔴 | 307 |
+| 186 | **Gabby Williams** 🔴 +1 | 308 |
 | 187 | Erin Perperoglou | 305 |
 | 187 | Jennifer Lacy | 305 |
 | 189 | Tianna Hawkins | 303 |
