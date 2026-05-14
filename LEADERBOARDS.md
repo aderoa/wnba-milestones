@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-14 03:06 UTC_
+_Last updated: 2026-05-14 03:07 UTC_
 
 ## Contents
 
@@ -211,7 +211,7 @@ _Last updated: 2026-05-14 03:06 UTC_
 | 190 | Nikki Teasley | 1,690 |
 | 191 | Shenise Johnson | 1,688 |
 | 192 | NaLyssa Smith | 1,682 |
-| 193 | **Sophie Cunningham** 🔴 +2 | 1,668 |
+| 193 | **Sophie Cunningham** 🔴 +5 | 1,671 |
 | 194 | **Gabby Williams** 🔴 +10 | 1,607 |
 | 195 | Janell Burse | 1,580 |
 | 196 | Le'coe Willingham | 1,552 |
@@ -301,8 +301,8 @@ _Last updated: 2026-05-14 03:06 UTC_
 | 75 | Sheri Sam | 1,356 |
 | 76 | Tamika Whitmore | 1,355 |
 | 77 | Emma Meesseman | 1,350 |
-| 78 | Allisha Gray | 1,347 |
-| 78 | **Monique Billings** 🔴 +2 | 1,347 |
+| 78 | **Monique Billings** 🔴 +3 | 1,348 |
+| 79 | Allisha Gray | 1,347 |
 | 80 | Elena Baranova | 1,335 |
 | 81 | Brionna Jones | 1,333 |
 | 81 | Jewell Loyd | 1,333 |
@@ -566,7 +566,7 @@ _Last updated: 2026-05-14 03:06 UTC_
 | 135 | Kahleah Copper | 463 |
 | 136 | Erin Phillips | 462 |
 | 137 | Sylvia Fowles | 461 |
-| 138 | **Caitlin Clark** 🔴 +3 | 455 |
+| 138 | **Caitlin Clark** 🔴 +4 | 456 |
 | 139 | Sydney Colson | 454 |
 | 140 | **Elizabeth Williams** 🔴 | 452 |
 | 141 | Satou Sabally | 451 |
@@ -1113,8 +1113,8 @@ _Last updated: 2026-05-14 03:06 UTC_
 | 66 | Jackie Young | 311 |
 | 66 | Tan White | 311 |
 | 68 | Kedra Holland-Corn | 307 |
-| 69 | Kelly Miller | 305 |
-| 69 | **Sophie Cunningham** 🔴 | 305 |
+| 69 | **Sophie Cunningham** 🔴 +1 | 306 |
+| 70 | Kelly Miller | 305 |
 | 71 | Nikki Teasley | 304 |
 | 72 | Vickie Johnson | 295 |
 | 73 | Seimone Augustus | 293 |
@@ -1542,9 +1542,9 @@ _Last updated: 2026-05-14 03:06 UTC_
 | 85 | Katie Douglas | 697 |
 | 86 | Danielle Robinson | 692 |
 | 87 | Sophia Young-Malcolm | 687 |
+| 88 | **Ariel Atkins** 🔴 +2 | 686 |
 | 88 | Maya Moore | 686 |
-| 89 | **Ariel Atkins** 🔴 +1 | 685 |
-| 89 | Jasmine Thomas | 685 |
+| 90 | Jasmine Thomas | 685 |
 | 91 | Leilani Mitchell | 684 |
 | 92 | Crystal Robinson | 682 |
 | 93 | Jennifer Lacy | 680 |

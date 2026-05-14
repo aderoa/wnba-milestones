@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-14T03:07:00+00:00",
+    "text": "Monique Billings passed Allisha Gray for #78 all-time in rebounds (career 1,348) \u2014 up from #79 entering today \u2014 (6:10 - 2nd \u2014 IND @ LA)",
+    "kind": "rank_pass",
+    "player": "Monique Billings",
+    "stat": "rebounds",
+    "rank": 78,
+    "passed_players": [
+      "Allisha Gray"
+    ],
+    "new_total": 1348
+  },
+  {
     "ts": "2026-05-14T03:06:00+00:00",
     "text": "Monique Billings passed Isabelle Harrison for #190 all-time in turnovers (career 301) \u2014 up from #191 entering today \u2014 (6:52 - 2nd \u2014 IND @ LA)",
     "kind": "rank_pass",
@@ -2965,17 +2977,5 @@
       "Michele Timms"
     ],
     "new_total": 550
-  },
-  {
-    "ts": "2026-05-09T05:36:00+00:00",
-    "text": "Kiah Stokes passed Candice Dupree for #29 all-time in blocks (career 319) \u2014 up from #30 entering today \u2014 (Final \u2014 GS @ SEA)",
-    "kind": "rank_pass",
-    "player": "Kiah Stokes",
-    "stat": "blocks",
-    "rank": 29,
-    "passed_players": [
-      "Candice Dupree"
-    ],
-    "new_total": 319
   }
 ]
