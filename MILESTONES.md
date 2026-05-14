@@ -2,6 +2,11 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-14 00:10 UTC
+
+- **Brittney Sykes** passed **Deanna Nolan** for **#111** all-time in rebounds (career 1,113) — up from #114 entering today — _8:10 - 3rd — SEA @ TOR_
+- **Marina Mabrey** passed **Betnijah Laney-Hamilton** for **#168** all-time in steals (career 203) — up from #169 entering today — _8:10 - 3rd — SEA @ TOR_
+
 ## 2026-05-14 00:09 UTC
 
 - **Marina Mabrey** passed **Amanda Zahui B** and **Barbara Farris** for **#162** all-time in rebounds (career 820) — up from #164 entering today — _8:49 - 3rd — SEA @ TOR_

@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-14 00:09 UTC_
+_Last updated: 2026-05-14 00:10 UTC_
 
 ## Contents
 
@@ -334,8 +334,8 @@ _Last updated: 2026-05-14 00:09 UTC_
 | 108 | Andrea Stinson | 1,127 |
 | 108 | Tamika Raymond | 1,127 |
 | 110 | Adrienne Goodson | 1,126 |
-| 111 | **Brittney Sykes** 🔴 +4 | 1,112 |
-| 111 | Deanna Nolan | 1,112 |
+| 111 | **Brittney Sykes** 🔴 +5 | 1,113 |
+| 112 | Deanna Nolan | 1,112 |
 | 113 | Chiney Ogwumike | 1,110 |
 | 114 | Becky Hammon | 1,108 |
 | 115 | Ann Wauters | 1,105 |
@@ -1006,8 +1006,8 @@ _Last updated: 2026-05-14 00:09 UTC_
 | 164 | Murriel Page | 204 |
 | 164 | Shatori Walker-Kimbrough | 204 |
 | 167 | Adrienne Goodson | 203 |
-| 168 | Betnijah Laney-Hamilton | 202 |
-| 168 | **Marina Mabrey** 🔴 | 202 |
+| 167 | **Marina Mabrey** 🔴 +1 | 203 |
+| 169 | Betnijah Laney-Hamilton | 202 |
 | 170 | Azurá Stevens | 201 |
 | 171 | Allie Quigley | 198 |
 | 172 | Layshia Clarendon | 195 |
