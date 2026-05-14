@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-14 00:12 UTC_
+_Last updated: 2026-05-14 00:13 UTC_
 
 ## Contents
 
@@ -93,9 +93,9 @@ _Last updated: 2026-05-14 00:12 UTC_
 | 72 | Tamecka Dixon | 3,507 |
 | 73 | Tammy Sutton-Brown | 3,498 |
 | 74 | Sancho Lyttle | 3,478 |
-| 75 | **Brittney Sykes** 🔴 +9 | 3,448 |
+| 75 | **Brittney Sykes** 🔴 +13 | 3,452 |
 | 76 | Ivory Latta | 3,447 |
-| 77 | **Jackie Young** 🔴 +2 | 3,414 |
+| 77 | **Jackie Young** 🔴 +4 | 3,416 |
 | 78 | Nicole Powell | 3,407 |
 | 79 | Epiphanny Prince | 3,381 |
 | 80 | Ariel Atkins | 3,361 |
@@ -434,7 +434,7 @@ _Last updated: 2026-05-14 00:12 UTC_
 | 3 | Ticha Penicheiro | 2,588 |
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
-| 6 | **Chelsea Gray** 🔴 | 1,870 |
+| 6 | **Chelsea Gray** 🔴 +1 | 1,871 |
 | 7 | Alyssa Thomas | 1,820 |
 | 8 | Skylar Diggins | 1,768 |
 | 9 | Natasha Cloud | 1,733 |
@@ -503,7 +503,7 @@ _Last updated: 2026-05-14 00:12 UTC_
 | 72 | Mwadi Mabika | 774 |
 | 73 | Sheri Sam | 745 |
 | 74 | Monique Currie | 740 |
-| 75 | **Marina Mabrey** 🔴 | 738 |
+| 75 | **Marina Mabrey** 🔴 +1 | 739 |
 | 76 | Allisha Gray | 730 |
 | 77 | Elaine Powell | 728 |
 | 78 | Chamique Holdsclaw | 698 |
@@ -1003,10 +1003,10 @@ _Last updated: 2026-05-14 00:12 UTC_
 | 162 | Kahleah Copper | 207 |
 | 163 | Shameka Christon | 205 |
 | 164 | Jessica Breland | 204 |
+| 164 | **Marina Mabrey** 🔴 +2 | 204 |
 | 164 | Murriel Page | 204 |
 | 164 | Shatori Walker-Kimbrough | 204 |
-| 167 | Adrienne Goodson | 203 |
-| 167 | **Marina Mabrey** 🔴 +1 | 203 |
+| 168 | Adrienne Goodson | 203 |
 | 169 | Betnijah Laney-Hamilton | 202 |
 | 170 | Azurá Stevens | 201 |
 | 171 | Allie Quigley | 198 |
@@ -1620,9 +1620,9 @@ _Last updated: 2026-05-14 00:12 UTC_
 | 163 | Shekinna Stricklen | 505 |
 | 165 | Allison Feaster | 504 |
 | 165 | Erin Perperoglou | 504 |
+| 165 | **Jackie Young** 🔴 +1 | 504 |
 | 165 | Napheesa Collier | 504 |
 | 165 | Sophie Cunningham | 504 |
-| 169 | **Jackie Young** 🔴 | 503 |
 | 170 | Iziane Castro Marques | 502 |
 | 170 | Monique Billings | 502 |
 | 172 | Elena Baranova | 501 |
