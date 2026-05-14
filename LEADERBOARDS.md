@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-14 04:11 UTC_
+_Last updated: 2026-05-14 04:12 UTC_
 
 ## Contents
 
@@ -198,7 +198,7 @@ _Last updated: 2026-05-14 04:11 UTC_
 | 177 | Noelle Quinn | 1,824 |
 | 178 | Danielle Adams | 1,820 |
 | 179 | **Damiris Dantas** 🔴 +3 | 1,817 |
-| 180 | **Aliyah Boston** 🔴 +2 | 1,800 |
+| 180 | **Aliyah Boston** 🔴 +4 | 1,802 |
 | 181 | Charde Houston | 1,797 |
 | 182 | Kamila Vodichkova | 1,767 |
 | 182 | Rachel Banham | 1,767 |
