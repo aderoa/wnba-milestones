@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-14 04:01 UTC_
+_Last updated: 2026-05-14 04:02 UTC_
 
 ## Contents
 
@@ -192,7 +192,7 @@ _Last updated: 2026-05-14 04:01 UTC_
 | 171 | Nakia Sanford | 1,915 |
 | 172 | Ebony Hoffman | 1,909 |
 | 173 | Candice Wiggins | 1,901 |
-| 174 | **Myisha Hines-Allen** 🔴 | 1,873 |
+| 174 | **Myisha Hines-Allen** 🔴 +2 | 1,875 |
 | 175 | Isabelle Harrison | 1,832 |
 | 176 | Tianna Hawkins | 1,825 |
 | 177 | Noelle Quinn | 1,824 |
@@ -217,7 +217,7 @@ _Last updated: 2026-05-14 04:01 UTC_
 | 196 | Le'coe Willingham | 1,552 |
 | 197 | Shatori Walker-Kimbrough | 1,544 |
 | 198 | Rebecca Allen | 1,514 |
-| 199 | **Monique Billings** 🔴 +7 | 1,512 |
+| 199 | **Monique Billings** 🔴 +8 | 1,513 |
 | 200 | Jennifer Lacy | 1,504 |
 
 ## Rebounds
@@ -577,7 +577,7 @@ _Last updated: 2026-05-14 04:01 UTC_
 | 146 | Ruth Riley | 449 |
 | 147 | DeMya Walker | 446 |
 | 148 | Essence Carson | 445 |
-| 149 | **Tyasha Harris** 🔴 +1 | 442 |
+| 149 | **Tyasha Harris** 🔴 +2 | 443 |
 | 150 | Michelle Snow | 437 |
 | 151 | Lauren Jackson | 435 |
 | 152 | Adrienne Goodson | 433 |
@@ -1037,7 +1037,7 @@ _Last updated: 2026-05-14 04:01 UTC_
 | 194 | Ezi Magbegor | 174 |
 | 194 | Margo Dydek | 174 |
 | 197 | Kamila Vodichkova | 173 |
-| 198 | **Monique Billings** 🔴 +1 | 171 |
+| 198 | **Monique Billings** 🔴 +2 | 172 |
 | 199 | Kara Braxton | 168 |
 | 199 | Sugar Rodgers | 168 |
 
@@ -1281,7 +1281,7 @@ _Last updated: 2026-05-14 04:01 UTC_
 | 29 | Jasmine Thomas | 796 |
 | 30 | Chamique Holdsclaw | 789 |
 | 31 | Natasha Howard | 784 |
-| 32 | **Nneka Ogwumike** 🔴 +1 | 783 |
+| 31 | **Nneka Ogwumike** 🔴 +2 | 784 |
 | 33 | Crystal Langhorne | 782 |
 | 33 | Jewell Loyd | 782 |
 | 35 | Camille Smith | 779 |
