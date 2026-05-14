@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-14T00:19:00+00:00",
+    "text": "Stefanie Dolson passed Kahleah Copper for #77 all-time in turnovers (career 580) \u2014 up from #78 entering today \u2014 (4:57 - 3rd \u2014 SEA @ TOR)",
+    "kind": "rank_pass",
+    "player": "Stefanie Dolson",
+    "stat": "turnovers",
+    "rank": 77,
+    "passed_players": [
+      "Kahleah Copper"
+    ],
+    "new_total": 580
+  },
+  {
     "ts": "2026-05-14T00:13:00+00:00",
     "text": "Marina Mabrey passed Adrienne Goodson for #167 all-time in steals (career 204) \u2014 up from #169 entering today \u2014 (7:00 - 3rd \u2014 SEA @ TOR)",
     "kind": "rank_pass",
@@ -2955,17 +2967,5 @@
       "Vicky Bullett"
     ],
     "new_total": 354
-  },
-  {
-    "ts": "2026-05-09T01:41:00+00:00",
-    "text": "Marina Mabrey passed Jennifer Gillom for #99 all-time in points (career 2,892) \u2014 up from #100 entering today \u2014 (2:13 - 4th \u2014 WSH @ TOR)",
-    "kind": "rank_pass",
-    "player": "Marina Mabrey",
-    "stat": "points",
-    "rank": 99,
-    "passed_players": [
-      "Jennifer Gillom"
-    ],
-    "new_total": 2892
   }
 ]

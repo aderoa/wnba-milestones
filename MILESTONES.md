@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-14 00:19 UTC
+
+- **Stefanie Dolson** passed **Kahleah Copper** for **#77** all-time in turnovers (career 580) — up from #78 entering today — _4:57 - 3rd — SEA @ TOR_
+
 ## 2026-05-14 00:13 UTC
 
 - **Marina Mabrey** passed **Adrienne Goodson** for **#167** all-time in steals (career 204) — up from #169 entering today — _7:00 - 3rd — SEA @ TOR_
