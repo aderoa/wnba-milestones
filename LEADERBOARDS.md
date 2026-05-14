@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-14 02:06 UTC_
+_Last updated: 2026-05-14 02:07 UTC_
 
 ## Contents
 
@@ -309,7 +309,7 @@ _Last updated: 2026-05-14 02:06 UTC_
 | 83 | Erlana Larkins | 1,329 |
 | 84 | Mwadi Mabika | 1,327 |
 | 85 | Jayne Appel Marinelli | 1,326 |
-| 86 | **Kayla Thornton** 🔴 | 1,316 |
+| 86 | **Kayla Thornton** 🔴 +1 | 1,317 |
 | 87 | Betty Lennox | 1,296 |
 | 88 | Tari Phillips | 1,274 |
 | 89 | Janel McCarville | 1,261 |
@@ -406,7 +406,7 @@ _Last updated: 2026-05-14 02:06 UTC_
 | 179 | Kelsey Bone | 769 |
 | 179 | Tan White | 769 |
 | 182 | Tully Bevilaqua | 767 |
-| 183 | **Gabby Williams** 🔴 +1 | 765 |
+| 183 | **Gabby Williams** 🔴 +2 | 766 |
 | 184 | Ariel Atkins | 758 |
 | 185 | Layshia Clarendon | 756 |
 | 186 | Brooke Wyckoff | 751 |
