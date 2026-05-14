@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-14 02:55 UTC_
+_Last updated: 2026-05-14 02:56 UTC_
 
 ## Contents
 
@@ -248,7 +248,7 @@ _Last updated: 2026-05-14 02:55 UTC_
 | 22 | Lauren Jackson | 2,444 |
 | 23 | Yolanda Griffith | 2,440 |
 | 24 | Tangela Smith | 2,328 |
-| 25 | **Dearica Hamby** 🔴 +1 | 2,318 |
+| 25 | **Dearica Hamby** 🔴 +2 | 2,319 |
 | 26 | Erika de Souza | 2,220 |
 | 27 | Diana Taurasi | 2,201 |
 | 28 | Natasha Howard | 2,174 |
@@ -1317,8 +1317,8 @@ _Last updated: 2026-05-14 02:55 UTC_
 | 66 | Kayla McBride | 622 |
 | 67 | Odyssey Sims | 616 |
 | 68 | Rebekkah Brunson | 615 |
-| 69 | **Kelsey Plum** 🔴 +2 | 613 |
-| 69 | Seimone Augustus | 613 |
+| 69 | **Kelsey Plum** 🔴 +3 | 614 |
+| 70 | Seimone Augustus | 613 |
 | 71 | Jonquel Jones | 608 |
 | 72 | Tiffany Hayes | 605 |
 | 73 | Teresa Weatherspoon | 601 |
@@ -1606,8 +1606,8 @@ _Last updated: 2026-05-14 02:55 UTC_
 | 147 | Marina Mabrey | 525 |
 | 151 | Armintie Herrington | 523 |
 | 152 | Sheryl Swoopes | 519 |
-| 153 | **Damiris Dantas** 🔴 +1 | 517 |
-| 153 | Nikki McCray | 517 |
+| 153 | **Damiris Dantas** 🔴 +2 | 518 |
+| 154 | Nikki McCray | 517 |
 | 155 | Alex Bentley | 516 |
 | 156 | Jantel Lavender | 513 |
 | 157 | Adrienne Goodson | 512 |
