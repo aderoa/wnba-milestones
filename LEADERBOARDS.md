@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-14 04:44 UTC_
+_Last updated: 2026-05-14 04:45 UTC_
 
 ## Contents
 
@@ -1520,7 +1520,7 @@ _Last updated: 2026-05-14 04:44 UTC_
 | 63 | Ebony Hoffman | 791 |
 | 64 | Sue Bird | 775 |
 | 65 | Sheri Sam | 766 |
-| 66 | **Erica Wheeler** 🔴 +4 | 762 |
+| 66 | **Erica Wheeler** 🔴 +5 | 763 |
 | 67 | Kia Vaughn | 755 |
 | 68 | Vickie Johnson | 752 |
 | 69 | Kara Braxton | 748 |
