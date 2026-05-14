@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-14 00:29 UTC_
+_Last updated: 2026-05-14 00:30 UTC_
 
 ## Contents
 
@@ -291,7 +291,7 @@ _Last updated: 2026-05-14 00:29 UTC_
 | 65 | Nicole Powell | 1,457 |
 | 66 | Alysha Clark | 1,454 |
 | 67 | Tamera Young | 1,433 |
-| 68 | **Cheyenne Parker-Tyus** 🔴 +1 | 1,425 |
+| 68 | **Cheyenne Parker-Tyus** 🔴 +2 | 1,426 |
 | 69 | Alana Beard | 1,420 |
 | 70 | Nakia Sanford | 1,419 |
 | 71 | Kara Braxton | 1,387 |
@@ -1332,8 +1332,8 @@ _Last updated: 2026-05-14 00:29 UTC_
 | 81 | Andrea Stinson | 571 |
 | 82 | Kara Braxton | 570 |
 | 83 | Nikki McCray | 565 |
+| 84 | **Brittney Sykes** 🔴 +5 | 563 |
 | 84 | Sancho Lyttle | 563 |
-| 85 | **Brittney Sykes** 🔴 +4 | 562 |
 | 86 | Tan White | 557 |
 | 87 | Breanna Stewart | 549 |
 | 87 | Kelsey Mitchell | 549 |
