@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-14 02:45 UTC_
+_Last updated: 2026-05-14 02:46 UTC_
 
 ## Contents
 
@@ -51,7 +51,7 @@ _Last updated: 2026-05-14 02:45 UTC_
 | 30 | Maya Moore | 4,984 |
 | 31 | Tiffany Hayes | 4,927 |
 | 32 | Sheryl Swoopes | 4,875 |
-| 33 | **Kelsey Mitchell** 🔴 +2 | 4,815 |
+| 33 | **Kelsey Mitchell** 🔴 +4 | 4,817 |
 | 34 | Alana Beard | 4,740 |
 | 35 | Chamique Holdsclaw | 4,713 |
 | 36 | Elena Delle Donne | 4,706 |
@@ -365,7 +365,7 @@ _Last updated: 2026-05-14 02:45 UTC_
 | 139 | Jennifer Gillom | 964 |
 | 140 | Dominique Canty | 961 |
 | 141 | Armintie Herrington | 960 |
-| 142 | **Skylar Diggins** 🔴 +3 | 958 |
+| 142 | **Skylar Diggins** 🔴 +4 | 959 |
 | 143 | Janell Burse | 944 |
 | 144 | Merlakia Jones | 927 |
 | 145 | Nicky Anosike | 922 |
@@ -405,8 +405,8 @@ _Last updated: 2026-05-14 02:45 UTC_
 | 179 | Anna DeForge | 769 |
 | 179 | Kelsey Bone | 769 |
 | 179 | Tan White | 769 |
-| 182 | **Gabby Williams** 🔴 +3 | 767 |
-| 182 | Tully Bevilaqua | 767 |
+| 182 | **Gabby Williams** 🔴 +4 | 768 |
+| 183 | Tully Bevilaqua | 767 |
 | 184 | **Ariel Atkins** 🔴 | 758 |
 | 185 | Layshia Clarendon | 756 |
 | 186 | Brooke Wyckoff | 751 |
@@ -1230,7 +1230,7 @@ _Last updated: 2026-05-14 02:45 UTC_
 | 184 | Jordin Canada | 111 |
 | 184 | Shoni Schimmel | 111 |
 | 186 | Emma Meesseman | 109 |
-| 186 | Lexie Hull | 109 |
+| 186 | **Lexie Hull** 🔴 | 109 |
 | 186 | Scholanda Dorrell | 109 |
 | 189 | Belinda Snell | 108 |
 | 189 | **Rickea Jackson** 🔴 | 108 |
@@ -1317,8 +1317,8 @@ _Last updated: 2026-05-14 02:45 UTC_
 | 66 | Kayla McBride | 622 |
 | 67 | Odyssey Sims | 616 |
 | 68 | Rebekkah Brunson | 615 |
+| 69 | **Kelsey Plum** 🔴 +2 | 613 |
 | 69 | Seimone Augustus | 613 |
-| 70 | **Kelsey Plum** 🔴 +1 | 612 |
 | 71 | Jonquel Jones | 608 |
 | 72 | Tiffany Hayes | 605 |
 | 73 | Teresa Weatherspoon | 601 |
@@ -1553,7 +1553,7 @@ _Last updated: 2026-05-14 02:45 UTC_
 | 97 | Chamique Holdsclaw | 667 |
 | 98 | Tianna Hawkins | 662 |
 | 99 | Cheyenne Parker-Tyus | 661 |
-| 100 | **Kelsey Plum** 🔴 | 658 |
+| 100 | **Kelsey Plum** 🔴 +1 | 659 |
 | 101 | Tari Phillips | 648 |
 | 102 | Marie Ferdinand-Harris | 646 |
 | 103 | Jewell Loyd | 645 |
