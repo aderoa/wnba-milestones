@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-14 00:10 UTC_
+_Last updated: 2026-05-14 00:11 UTC_
 
 ## Contents
 
@@ -93,9 +93,9 @@ _Last updated: 2026-05-14 00:10 UTC_
 | 72 | Tamecka Dixon | 3,507 |
 | 73 | Tammy Sutton-Brown | 3,498 |
 | 74 | Sancho Lyttle | 3,478 |
+| 75 | **Brittney Sykes** 🔴 +8 | 3,447 |
 | 75 | Ivory Latta | 3,447 |
-| 76 | **Brittney Sykes** 🔴 +6 | 3,445 |
-| 77 | **Jackie Young** 🔴 | 3,412 |
+| 77 | **Jackie Young** 🔴 +2 | 3,414 |
 | 78 | Nicole Powell | 3,407 |
 | 79 | Epiphanny Prince | 3,381 |
 | 80 | Ariel Atkins | 3,361 |
@@ -241,7 +241,7 @@ _Last updated: 2026-05-14 00:10 UTC_
 | 15 | DeLisha Milton-Jones | 2,574 |
 | 16 | Brittney Griner | 2,531 |
 | 17 | Swin Cash | 2,521 |
-| 18 | **A'ja Wilson** 🔴 | 2,494 |
+| 18 | **A'ja Wilson** 🔴 +1 | 2,495 |
 | 19 | Breanna Stewart | 2,484 |
 | 20 | Michelle Snow | 2,476 |
 | 21 | Crystal Langhorne | 2,454 |
@@ -385,7 +385,7 @@ _Last updated: 2026-05-14 00:10 UTC_
 | 159 | Marie Ferdinand-Harris | 828 |
 | 160 | Angel Reese | 823 |
 | 161 | Marlies Askamp | 822 |
-| 162 | **Marina Mabrey** 🔴 +2 | 820 |
+| 162 | **Marina Mabrey** 🔴 +3 | 821 |
 | 163 | Amanda Zahui B | 819 |
 | 163 | Barbara Farris | 819 |
 | 165 | Carolyn Swords | 814 |
@@ -1604,7 +1604,7 @@ _Last updated: 2026-05-14 00:10 UTC_
 | 147 | Epiphanny Prince | 525 |
 | 147 | **Marina Mabrey** 🔴 | 525 |
 | 150 | Armintie Herrington | 523 |
-| 151 | **A'ja Wilson** 🔴 | 521 |
+| 151 | **A'ja Wilson** 🔴 +1 | 522 |
 | 152 | Sheryl Swoopes | 519 |
 | 153 | Nikki McCray | 517 |
 | 154 | Alex Bentley | 516 |
