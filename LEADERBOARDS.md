@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-14 03:04 UTC_
+_Last updated: 2026-05-14 03:05 UTC_
 
 ## Contents
 
@@ -51,7 +51,7 @@ _Last updated: 2026-05-14 03:04 UTC_
 | 30 | Maya Moore | 4,984 |
 | 31 | Tiffany Hayes | 4,927 |
 | 32 | Sheryl Swoopes | 4,875 |
-| 33 | **Kelsey Mitchell** 🔴 +6 | 4,819 |
+| 33 | **Kelsey Mitchell** 🔴 +9 | 4,822 |
 | 34 | Alana Beard | 4,740 |
 | 35 | Chamique Holdsclaw | 4,713 |
 | 36 | Elena Delle Donne | 4,706 |
@@ -1053,7 +1053,7 @@ _Last updated: 2026-05-14 03:04 UTC_
 | 6 | Katie Douglas | 723 |
 | 7 | Kayla McBride | 722 |
 | 8 | Jewell Loyd | 670 |
-| 9 | **Kelsey Mitchell** 🔴 | 669 |
+| 8 | **Kelsey Mitchell** 🔴 +1 | 670 |
 | 10 | DeWanna Bonner | 663 |
 | 11 | Kristi Toliver | 651 |
 | 12 | Tamika Catchings | 605 |
@@ -1514,7 +1514,7 @@ _Last updated: 2026-05-14 03:04 UTC_
 | 56 | Wendy Palmer | 831 |
 | 58 | Shannon Johnson | 813 |
 | 58 | Tully Bevilaqua | 813 |
-| 60 | **Dearica Hamby** 🔴 | 798 |
+| 60 | **Dearica Hamby** 🔴 +1 | 799 |
 | 61 | Nykesha Sales | 796 |
 | 62 | Ebony Hoffman | 791 |
 | 62 | **Skylar Diggins** 🔴 +1 | 791 |
