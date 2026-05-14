@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-14 04:38 UTC_
+_Last updated: 2026-05-14 04:39 UTC_
 
 ## Contents
 
@@ -832,9 +832,8 @@ _Last updated: 2026-05-14 04:38 UTC_
 | 194 | Queen Egbo | 65 |
 | 194 | Riquna Williams | 65 |
 | 194 | Sabrina Ionescu | 65 |
+| 199 | **Cameron Brink** 🔴 +3 | 64 |
 | 199 | Jackie Young | 64 |
-| 200 | **Cameron Brink** 🔴 +2 | 63 |
-| 200 | Eva Nemcova | 63 |
 
 ## Steals
 
