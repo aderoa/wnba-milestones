@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-14T00:54:00+00:00",
+    "text": "Marina Mabrey passed Monique Currie for #74 all-time in assists (career 741) \u2014 up from #75 entering today \u2014 (58.1 - 4th \u2014 SEA @ TOR)",
+    "kind": "rank_pass",
+    "player": "Marina Mabrey",
+    "stat": "assists",
+    "rank": 74,
+    "passed_players": [
+      "Monique Currie"
+    ],
+    "new_total": 741
+  },
+  {
     "ts": "2026-05-14T00:53:00+00:00",
     "text": "Marina Mabrey passed Shameka Christon for #163 all-time in steals (career 206) \u2014 up from #169 entering today \u2014 (1:42 - 4th \u2014 SEA @ TOR)",
     "kind": "rank_pass",
@@ -2963,17 +2975,5 @@
       "Jennifer Lacy"
     ],
     "new_total": 306
-  },
-  {
-    "ts": "2026-05-09T02:34:00+00:00",
-    "text": "Tiffany Hayes passed Yolanda Griffith for #27 all-time in fouls (career 992) \u2014 (End of 1st \u2014 GS @ SEA)",
-    "kind": "rank_pass",
-    "player": "Tiffany Hayes",
-    "stat": "fouls",
-    "rank": 27,
-    "passed_players": [
-      "Yolanda Griffith"
-    ],
-    "new_total": 992
   }
 ]

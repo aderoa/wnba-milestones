@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-14 00:53 UTC_
+_Last updated: 2026-05-14 00:54 UTC_
 
 ## Contents
 
@@ -502,8 +502,8 @@ _Last updated: 2026-05-14 00:53 UTC_
 | 71 | Kelsey Mitchell | 799 |
 | 72 | Mwadi Mabika | 774 |
 | 73 | Sheri Sam | 745 |
-| 74 | **Marina Mabrey** 🔴 +2 | 740 |
-| 74 | Monique Currie | 740 |
+| 74 | **Marina Mabrey** 🔴 +3 | 741 |
+| 75 | Monique Currie | 740 |
 | 76 | Allisha Gray | 730 |
 | 77 | Elaine Powell | 728 |
 | 78 | Chamique Holdsclaw | 698 |
@@ -1474,7 +1474,7 @@ _Last updated: 2026-05-14 00:53 UTC_
 | 18 | Tanisha Wright | 1,109 |
 | 19 | Michelle Snow | 1,108 |
 | 20 | Natasha Howard | 1,088 |
-| 21 | **Stefanie Dolson** 🔴 +4 | 1,086 |
+| 21 | **Stefanie Dolson** 🔴 +5 | 1,087 |
 | 22 | Sylvia Fowles | 1,049 |
 | 23 | Tina Charles | 1,037 |
 | 24 | Lindsay Whalen | 998 |

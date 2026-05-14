@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-14 00:54 UTC
+
+- **Marina Mabrey** passed **Monique Currie** for **#74** all-time in assists (career 741) — up from #75 entering today — _58.1 - 4th — SEA @ TOR_
+
 ## 2026-05-14 00:53 UTC
 
 - **Marina Mabrey** passed **Shameka Christon** for **#163** all-time in steals (career 206) — up from #169 entering today — _1:42 - 4th — SEA @ TOR_
