@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-14 02:21 UTC_
+_Last updated: 2026-05-14 02:22 UTC_
 
 ## Contents
 
@@ -677,8 +677,8 @@ _Last updated: 2026-05-14 02:21 UTC_
 | 41 | Azurá Stevens | 230 |
 | 42 | Brianna Turner | 228 |
 | 42 | Chasity Melvin | 228 |
-| 44 | Sancho Lyttle | 221 |
-| 44 | **Skylar Diggins** 🔴 | 221 |
+| 44 | **Skylar Diggins** 🔴 +1 | 222 |
+| 45 | Sancho Lyttle | 221 |
 | 46 | Alana Beard | 220 |
 | 46 | Teaira McCowan | 220 |
 | 48 | Alanna Smith | 219 |
