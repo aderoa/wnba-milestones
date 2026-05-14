@@ -1,5 +1,30 @@
 [
   {
+    "ts": "2026-05-14T04:20:00+00:00",
+    "text": "Sophie Cunningham passed NaLyssa Smith for #192 all-time in points (career 1,678) \u2014 up from #193 entering today \u2014 (9:17 - 4th \u2014 IND @ LA)",
+    "kind": "rank_pass",
+    "player": "Sophie Cunningham",
+    "stat": "points",
+    "rank": 192,
+    "passed_players": [
+      "NaLyssa Smith"
+    ],
+    "new_total": 1678
+  },
+  {
+    "ts": "2026-05-14T04:20:00+00:00",
+    "text": "Myisha Hines-Allen passed Nakia Sanford and Rebecca Allen for #186 all-time in steals (career 182) \u2014 (9:17 - 4th \u2014 IND @ LA)",
+    "kind": "rank_pass",
+    "player": "Myisha Hines-Allen",
+    "stat": "steals",
+    "rank": 186,
+    "passed_players": [
+      "Nakia Sanford",
+      "Rebecca Allen"
+    ],
+    "new_total": 182
+  },
+  {
     "ts": "2026-05-14T04:11:00+00:00",
     "text": "Monique Billings passed Emma Meesseman for #77 all-time in rebounds (career 1,351) \u2014 up from #79 entering today \u2014 (2:15 - 3rd \u2014 IND @ LA)",
     "kind": "rank_pass",
@@ -2946,29 +2971,5 @@
       "Lauren Jackson"
     ],
     "new_total": 550
-  },
-  {
-    "ts": "2026-05-09T17:44:00+00:00",
-    "text": "Sophie Cunningham passed Kelly Miller for #69 all-time in three-pointers (career 306) \u2014 up from #70 entering today \u2014 (4:21 - 2nd \u2014 DAL @ IND)",
-    "kind": "rank_pass",
-    "player": "Sophie Cunningham",
-    "stat": "three-pointers",
-    "rank": 69,
-    "passed_players": [
-      "Kelly Miller"
-    ],
-    "new_total": 306
-  },
-  {
-    "ts": "2026-05-09T17:44:00+00:00",
-    "text": "Damiris Dantas passed Andrea Stinson for #106 all-time in three-pointers (career 208) \u2014 up from #107 entering today \u2014 (4:21 - 2nd \u2014 DAL @ IND)",
-    "kind": "rank_pass",
-    "player": "Damiris Dantas",
-    "stat": "three-pointers",
-    "rank": 106,
-    "passed_players": [
-      "Andrea Stinson"
-    ],
-    "new_total": 208
   }
 ]

@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-14 04:19 UTC_
+_Last updated: 2026-05-14 04:20 UTC_
 
 ## Contents
 
@@ -72,7 +72,7 @@ _Last updated: 2026-05-14 04:19 UTC_
 | 51 | **Kelsey Plum** 🔴 +15 | 4,222 |
 | 52 | Allisha Gray | 4,157 |
 | 53 | Rebekkah Brunson | 4,133 |
-| 54 | **Dearica Hamby** 🔴 +11 | 4,101 |
+| 54 | **Dearica Hamby** 🔴 +13 | 4,103 |
 | 55 | Jonquel Jones | 4,096 |
 | 56 | Kahleah Copper | 4,083 |
 | 57 | Courtney Williams | 4,061 |
@@ -211,7 +211,7 @@ _Last updated: 2026-05-14 04:19 UTC_
 | 190 | Nikki Teasley | 1,690 |
 | 191 | Shenise Johnson | 1,688 |
 | 192 | NaLyssa Smith | 1,682 |
-| 193 | **Sophie Cunningham** 🔴 +9 | 1,675 |
+| 193 | **Sophie Cunningham** 🔴 +12 | 1,678 |
 | 194 | Gabby Williams | 1,615 |
 | 195 | Janell Burse | 1,580 |
 | 196 | Le'coe Willingham | 1,552 |
@@ -577,7 +577,7 @@ _Last updated: 2026-05-14 04:19 UTC_
 | 146 | Ruth Riley | 449 |
 | 147 | DeMya Walker | 446 |
 | 148 | Essence Carson | 445 |
-| 149 | **Tyasha Harris** 🔴 +2 | 443 |
+| 149 | **Tyasha Harris** 🔴 +3 | 444 |
 | 150 | Michelle Snow | 437 |
 | 151 | Lauren Jackson | 435 |
 | 152 | Adrienne Goodson | 433 |
@@ -1023,10 +1023,10 @@ _Last updated: 2026-05-14 04:19 UTC_
 | 181 | Erin Perperoglou | 184 |
 | 182 | Alanna Smith | 182 |
 | 182 | Erin Phillips | 182 |
+| 182 | **Myisha Hines-Allen** 🔴 +1 | 182 |
 | 182 | Sabrina Ionescu | 182 |
-| 185 | **Myisha Hines-Allen** 🔴 | 181 |
-| 185 | Nakia Sanford | 181 |
-| 185 | Rebecca Allen | 181 |
+| 186 | Nakia Sanford | 181 |
+| 186 | Rebecca Allen | 181 |
 | 188 | Diamond DeShields | 180 |
 | 188 | Isabelle Harrison | 180 |
 | 190 | Bridget Pettis | 177 |
@@ -1037,7 +1037,7 @@ _Last updated: 2026-05-14 04:19 UTC_
 | 194 | Ezi Magbegor | 174 |
 | 194 | Margo Dydek | 174 |
 | 197 | Kamila Vodichkova | 173 |
-| 198 | **Monique Billings** 🔴 +2 | 172 |
+| 198 | **Monique Billings** 🔴 +1 | 171 |
 | 199 | Kara Braxton | 168 |
 | 199 | Sugar Rodgers | 168 |
 
@@ -1113,7 +1113,7 @@ _Last updated: 2026-05-14 04:19 UTC_
 | 66 | Jackie Young | 311 |
 | 66 | Tan White | 311 |
 | 68 | Kedra Holland-Corn | 307 |
-| 69 | **Sophie Cunningham** 🔴 +1 | 306 |
+| 68 | **Sophie Cunningham** 🔴 +2 | 307 |
 | 70 | Kelly Miller | 305 |
 | 71 | Nikki Teasley | 304 |
 | 72 | Vickie Johnson | 295 |

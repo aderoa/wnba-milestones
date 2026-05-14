@@ -2,6 +2,11 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-14 04:20 UTC
+
+- **Sophie Cunningham** passed **NaLyssa Smith** for **#192** all-time in points (career 1,678) — up from #193 entering today — _9:17 - 4th — IND @ LA_
+- **Myisha Hines-Allen** passed **Nakia Sanford** and **Rebecca Allen** for **#186** all-time in steals (career 182) — _9:17 - 4th — IND @ LA_
+
 ## 2026-05-14 04:11 UTC
 
 - **Monique Billings** passed **Emma Meesseman** for **#77** all-time in rebounds (career 1,351) — up from #79 entering today — _2:15 - 3rd — IND @ LA_
