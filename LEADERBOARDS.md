@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-14 04:00 UTC_
+_Last updated: 2026-05-14 04:01 UTC_
 
 ## Contents
 
@@ -24,7 +24,7 @@ _Last updated: 2026-05-14 04:00 UTC_
 | 3 | DeWanna Bonner | 7,805 |
 | 4 | Tina Thompson | 7,470 |
 | 5 | Tamika Catchings | 7,371 |
-| 6 | **Nneka Ogwumike** 🔴 +5 | 7,310 |
+| 6 | **Nneka Ogwumike** 🔴 +7 | 7,312 |
 | 7 | Candice Dupree | 6,861 |
 | 8 | Sue Bird | 6,802 |
 | 9 | Cappie Pondexter | 6,781 |
@@ -217,7 +217,7 @@ _Last updated: 2026-05-14 04:00 UTC_
 | 196 | Le'coe Willingham | 1,552 |
 | 197 | Shatori Walker-Kimbrough | 1,544 |
 | 198 | Rebecca Allen | 1,514 |
-| 199 | **Monique Billings** 🔴 +6 | 1,511 |
+| 199 | **Monique Billings** 🔴 +7 | 1,512 |
 | 200 | Jennifer Lacy | 1,504 |
 
 ## Rebounds
@@ -1554,7 +1554,7 @@ _Last updated: 2026-05-14 04:00 UTC_
 | 97 | Chamique Holdsclaw | 667 |
 | 98 | Tianna Hawkins | 662 |
 | 99 | Cheyenne Parker-Tyus | 661 |
-| 100 | **Kelsey Plum** 🔴 +2 | 660 |
+| 99 | **Kelsey Plum** 🔴 +3 | 661 |
 | 101 | Tari Phillips | 648 |
 | 102 | Marie Ferdinand-Harris | 646 |
 | 103 | Jewell Loyd | 645 |
