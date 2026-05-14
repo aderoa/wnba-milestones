@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-14T02:02:00+00:00",
+    "text": "Jewell Loyd passed Kelsey Mitchell for #8 all-time in three-pointers (career 670) \u2014 up from #9 entering today \u2014 (3:46 - 4th \u2014 LV @ CON)",
+    "kind": "rank_pass",
+    "player": "Jewell Loyd",
+    "stat": "three-pointers",
+    "rank": 8,
+    "passed_players": [
+      "Kelsey Mitchell"
+    ],
+    "new_total": 670
+  },
+  {
     "ts": "2026-05-14T01:27:00+00:00",
     "text": "A'ja Wilson reached 2,500 career rebounds (now 2,500) \u2014 (5:54 - 3rd \u2014 LV @ CON)",
     "kind": "round",
@@ -2959,17 +2971,5 @@
       "Charlotte Smith"
     ],
     "new_total": 639
-  },
-  {
-    "ts": "2026-05-09T02:34:00+00:00",
-    "text": "Gabby Williams passed Ariel Atkins for #183 all-time in rebounds (career 760) \u2014 up from #184 entering today \u2014 (End of 1st \u2014 GS @ SEA)",
-    "kind": "rank_pass",
-    "player": "Gabby Williams",
-    "stat": "rebounds",
-    "rank": 183,
-    "passed_players": [
-      "Ariel Atkins"
-    ],
-    "new_total": 760
   }
 ]

@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-14 02:02 UTC
+
+- **Jewell Loyd** passed **Kelsey Mitchell** for **#8** all-time in three-pointers (career 670) — up from #9 entering today — _3:46 - 4th — LV @ CON_
+
 ## 2026-05-14 01:27 UTC
 
 - **A'ja Wilson** reached **2,500** career rebounds (now 2,500) — _5:54 - 3rd — LV @ CON_
