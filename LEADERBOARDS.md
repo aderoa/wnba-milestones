@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-14 00:52 UTC_
+_Last updated: 2026-05-14 00:53 UTC_
 
 ## Contents
 
@@ -93,7 +93,7 @@ _Last updated: 2026-05-14 00:52 UTC_
 | 72 | Tamecka Dixon | 3,507 |
 | 73 | Tammy Sutton-Brown | 3,498 |
 | 74 | Sancho Lyttle | 3,478 |
-| 75 | **Brittney Sykes** 🔴 +16 | 3,455 |
+| 75 | **Brittney Sykes** 🔴 +18 | 3,457 |
 | 76 | Ivory Latta | 3,447 |
 | 77 | **Jackie Young** 🔴 +7 | 3,419 |
 | 78 | Nicole Powell | 3,407 |
@@ -1001,8 +1001,8 @@ _Last updated: 2026-05-14 00:52 UTC_
 | 160 | Kia Vaughn | 208 |
 | 160 | Sophia Witherspoon | 208 |
 | 162 | Kahleah Copper | 207 |
-| 163 | **Marina Mabrey** 🔴 +3 | 205 |
-| 163 | Shameka Christon | 205 |
+| 163 | **Marina Mabrey** 🔴 +4 | 206 |
+| 164 | Shameka Christon | 205 |
 | 165 | Jessica Breland | 204 |
 | 165 | Murriel Page | 204 |
 | 165 | Shatori Walker-Kimbrough | 204 |
@@ -1271,8 +1271,8 @@ _Last updated: 2026-05-14 00:52 UTC_
 | 20 | Shannon Johnson | 934 |
 | 21 | Taj McWilliams-Franklin | 898 |
 | 22 | Skylar Diggins | 879 |
-| 23 | Candice Dupree | 869 |
-| 23 | **Chelsea Gray** 🔴 | 869 |
+| 23 | **Chelsea Gray** 🔴 +1 | 870 |
+| 24 | Candice Dupree | 869 |
 | 25 | Alana Beard | 854 |
 | 26 | DeWanna Bonner | 826 |
 | 27 | Katie Douglas | 824 |
@@ -1572,8 +1572,8 @@ _Last updated: 2026-05-14 00:52 UTC_
 | 116 | Svetlana Abrosimova | 613 |
 | 117 | Layshia Clarendon | 609 |
 | 118 | Kiah Stokes | 608 |
+| 119 | **Chelsea Gray** 🔴 +1 | 604 |
 | 119 | Tiffany Mitchell | 604 |
-| 120 | **Chelsea Gray** 🔴 | 603 |
 | 121 | Janel McCarville | 597 |
 | 121 | Odyssey Sims | 597 |
 | 123 | Kamila Vodichkova | 596 |

@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-14 00:53 UTC
+
+- **Marina Mabrey** passed **Shameka Christon** for **#163** all-time in steals (career 206) — up from #169 entering today — _1:42 - 4th — SEA @ TOR_
+
 ## 2026-05-14 00:44 UTC
 
 - **A'ja Wilson** passed **Armintie Herrington** for **#150** all-time in fouls (career 524) — up from #151 entering today — _5:56 - 2nd — LV @ CON_
