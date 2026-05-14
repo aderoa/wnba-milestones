@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-14T04:24:00+00:00",
+    "text": "Kelsey Plum passed Rebekkah Brunson for #68 all-time in turnovers (career 616) \u2014 up from #70 entering today \u2014 (7:49 - 4th \u2014 IND @ LA)",
+    "kind": "rank_pass",
+    "player": "Kelsey Plum",
+    "stat": "turnovers",
+    "rank": 68,
+    "passed_players": [
+      "Rebekkah Brunson"
+    ],
+    "new_total": 616
+  },
+  {
     "ts": "2026-05-14T04:22:00+00:00",
     "text": "Dearica Hamby passed Vickie Johnson for #58 all-time in turnovers (career 661) \u2014 up from #59 entering today \u2014 (8:22 - 4th \u2014 IND @ LA)",
     "kind": "rank_pass",
@@ -2960,18 +2972,5 @@
     "stat": "points",
     "value": 700,
     "new_total": 701
-  },
-  {
-    "ts": "2026-05-09T17:44:00+00:00",
-    "text": "Alysha Clark passed Ariel Atkins and Betnijah Laney-Hamilton for #130 all-time in turnovers (career 438) \u2014 (4:21 - 2nd \u2014 DAL @ IND)",
-    "kind": "rank_pass",
-    "player": "Alysha Clark",
-    "stat": "turnovers",
-    "rank": 130,
-    "passed_players": [
-      "Ariel Atkins",
-      "Betnijah Laney-Hamilton"
-    ],
-    "new_total": 438
   }
 ]
