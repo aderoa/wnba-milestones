@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-14T04:21:00+00:00",
+    "text": "Monique Billings passed Jackie Young for #169 all-time in fouls (career 504) \u2014 up from #171 entering today \u2014 (8:56 - 4th \u2014 IND @ LA)",
+    "kind": "rank_pass",
+    "player": "Monique Billings",
+    "stat": "fouls",
+    "rank": 169,
+    "passed_players": [
+      "Jackie Young"
+    ],
+    "new_total": 504
+  },
+  {
     "ts": "2026-05-14T04:20:00+00:00",
     "text": "Sophie Cunningham passed NaLyssa Smith for #192 all-time in points (career 1,678) \u2014 up from #193 entering today \u2014 (9:17 - 4th \u2014 IND @ LA)",
     "kind": "rank_pass",
@@ -2958,18 +2970,5 @@
     "stat": "points",
     "value": 1800,
     "new_total": 1805
-  },
-  {
-    "ts": "2026-05-09T17:44:00+00:00",
-    "text": "Kelsey Mitchell passed Breanna Stewart and Lauren Jackson for #87 all-time in turnovers (career 550) \u2014 up from #88 entering today \u2014 (4:21 - 2nd \u2014 DAL @ IND)",
-    "kind": "rank_pass",
-    "player": "Kelsey Mitchell",
-    "stat": "turnovers",
-    "rank": 87,
-    "passed_players": [
-      "Breanna Stewart",
-      "Lauren Jackson"
-    ],
-    "new_total": 550
   }
 ]
