@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-14 01:03 UTC_
+_Last updated: 2026-05-14 01:04 UTC_
 
 ## Contents
 
@@ -352,8 +352,8 @@ _Last updated: 2026-05-14 01:03 UTC_
 | 126 | Cathrine Kraayeveld | 1,013 |
 | 127 | Kelly Miller | 1,011 |
 | 127 | Noelle Quinn | 1,011 |
-| 129 | **Jackie Young** 🔴 | 1,002 |
-| 129 | Tiffany Jackson | 1,002 |
+| 129 | **Jackie Young** 🔴 +1 | 1,003 |
+| 130 | Tiffany Jackson | 1,002 |
 | 131 | Tianna Hawkins | 1,000 |
 | 132 | Damiris Dantas | 995 |
 | 132 | Marissa Coleman | 995 |
