@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-14 02:15 UTC_
+_Last updated: 2026-05-14 02:16 UTC_
 
 ## Contents
 
@@ -265,7 +265,7 @@ _Last updated: 2026-05-14 02:15 UTC_
 | 39 | Lindsay Whalen | 1,805 |
 | 40 | Camille Smith | 1,802 |
 | 41 | Asjha Jones | 1,751 |
-| 42 | **Kiah Stokes** 🔴 +4 | 1,750 |
+| 41 | **Kiah Stokes** 🔴 +5 | 1,751 |
 | 43 | Courtney Williams | 1,747 |
 | 44 | Teaira McCowan | 1,670 |
 | 45 | Monique Currie | 1,666 |
@@ -339,7 +339,7 @@ _Last updated: 2026-05-14 02:15 UTC_
 | 113 | Chiney Ogwumike | 1,110 |
 | 114 | Becky Hammon | 1,108 |
 | 115 | Ann Wauters | 1,105 |
-| 116 | **Natasha Cloud** 🔴 | 1,080 |
+| 116 | **Natasha Cloud** 🔴 +1 | 1,081 |
 | 117 | Svetlana Abrosimova | 1,078 |
 | 118 | NaLyssa Smith | 1,059 |
 | 119 | Le'coe Willingham | 1,054 |
@@ -1404,7 +1404,7 @@ _Last updated: 2026-05-14 02:15 UTC_
 | 153 | Kamila Vodichkova | 381 |
 | 154 | Jessica Breland | 378 |
 | 155 | Armintie Herrington | 377 |
-| 156 | **Elizabeth Williams** 🔴 | 376 |
+| 155 | **Elizabeth Williams** 🔴 +1 | 377 |
 | 157 | Anna DeForge | 374 |
 | 157 | Cheryl Ford | 374 |
 | 159 | Allison Feaster | 372 |
@@ -1532,8 +1532,8 @@ _Last updated: 2026-05-14 02:15 UTC_
 | 76 | Kahleah Copper | 715 |
 | 77 | Cheryl Ford | 713 |
 | 78 | Jia Perkins | 711 |
+| 79 | **Elizabeth Williams** 🔴 +1 | 709 |
 | 79 | Helen Darling | 709 |
-| 80 | **Elizabeth Williams** 🔴 | 708 |
 | 81 | Allisha Gray | 706 |
 | 82 | Matee Ajavon | 701 |
 | 82 | Nicole Powell | 701 |
@@ -1558,7 +1558,7 @@ _Last updated: 2026-05-14 02:15 UTC_
 | 102 | Marie Ferdinand-Harris | 646 |
 | 103 | Jewell Loyd | 645 |
 | 104 | Breanna Stewart | 643 |
-| 105 | **Kayla Thornton** 🔴 | 640 |
+| 105 | **Kayla Thornton** 🔴 +1 | 641 |
 | 106 | Charlotte Smith | 638 |
 | 107 | Janell Burse | 632 |
 | 108 | Nicole Ohlde | 631 |
