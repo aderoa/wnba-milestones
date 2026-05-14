@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-14 00:17 UTC_
+_Last updated: 2026-05-14 00:18 UTC_
 
 ## Contents
 
@@ -903,8 +903,8 @@ _Last updated: 2026-05-14 00:17 UTC_
 | 62 | Vickie Johnson | 357 |
 | 63 | Dominique Canty | 356 |
 | 63 | Renee Montgomery | 356 |
+| 65 | **Brittney Sykes** 🔴 +1 | 355 |
 | 65 | Tamecka Dixon | 355 |
-| 66 | **Brittney Sykes** 🔴 | 354 |
 | 67 | Vicky Bullett | 353 |
 | 68 | Svetlana Abrosimova | 352 |
 | 69 | Allisha Gray | 349 |
@@ -1326,14 +1326,14 @@ _Last updated: 2026-05-14 00:17 UTC_
 | 74 | Tamika Whitmore | 600 |
 | 76 | Kelly Miller | 596 |
 | 77 | Kahleah Copper | 579 |
-| 78 | **Stefanie Dolson** 🔴 +1 | 578 |
+| 77 | **Stefanie Dolson** 🔴 +2 | 579 |
 | 79 | Helen Darling | 575 |
 | 79 | Nykesha Sales | 575 |
 | 81 | Andrea Stinson | 571 |
 | 82 | Kara Braxton | 570 |
 | 83 | Nikki McCray | 565 |
 | 84 | Sancho Lyttle | 563 |
-| 85 | **Brittney Sykes** 🔴 +3 | 561 |
+| 85 | **Brittney Sykes** 🔴 +4 | 562 |
 | 86 | Tan White | 557 |
 | 87 | Breanna Stewart | 549 |
 | 87 | Kelsey Mitchell | 549 |
