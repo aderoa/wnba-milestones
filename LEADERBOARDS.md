@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-14 03:44 UTC_
+_Last updated: 2026-05-14 03:45 UTC_
 
 ## Contents
 
@@ -230,7 +230,7 @@ _Last updated: 2026-05-14 03:44 UTC_
 | 4 | Rebekkah Brunson | 3,345 |
 | 5 | Tamika Catchings | 3,313 |
 | 6 | Lisa Leslie | 3,303 |
-| 7 | **Nneka Ogwumike** 🔴 +3 | 3,271 |
+| 7 | **Nneka Ogwumike** 🔴 +4 | 3,272 |
 | 8 | DeWanna Bonner | 3,203 |
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
@@ -407,7 +407,7 @@ _Last updated: 2026-05-14 03:44 UTC_
 | 179 | Kelsey Bone | 769 |
 | 179 | Tan White | 769 |
 | 183 | Tully Bevilaqua | 767 |
-| 184 | **Ariel Atkins** 🔴 | 758 |
+| 184 | **Ariel Atkins** 🔴 +2 | 760 |
 | 185 | Layshia Clarendon | 756 |
 | 186 | Brooke Wyckoff | 751 |
 | 187 | Coco Miller | 750 |
@@ -668,7 +668,7 @@ _Last updated: 2026-05-14 03:44 UTC_
 | 32 | Vicky Bullett | 288 |
 | 33 | Rebekkah Brunson | 281 |
 | 34 | Liz Cambage | 264 |
-| 35 | **Nneka Ogwumike** 🔴 | 260 |
+| 35 | **Nneka Ogwumike** 🔴 +1 | 261 |
 | 36 | Swin Cash | 258 |
 | 37 | Cheyenne Parker-Tyus | 252 |
 | 38 | Plenette Pierson | 242 |
@@ -1037,7 +1037,7 @@ _Last updated: 2026-05-14 03:44 UTC_
 | 194 | Ezi Magbegor | 174 |
 | 194 | Margo Dydek | 174 |
 | 197 | Kamila Vodichkova | 173 |
-| 198 | **Monique Billings** 🔴 | 170 |
+| 198 | **Monique Billings** 🔴 +1 | 171 |
 | 199 | Kara Braxton | 168 |
 | 199 | Sugar Rodgers | 168 |
 
@@ -1317,8 +1317,8 @@ _Last updated: 2026-05-14 03:44 UTC_
 | 65 | Svetlana Abrosimova | 631 |
 | 66 | Kayla McBride | 622 |
 | 67 | Odyssey Sims | 616 |
+| 68 | **Kelsey Plum** 🔴 +4 | 615 |
 | 68 | Rebekkah Brunson | 615 |
-| 69 | **Kelsey Plum** 🔴 +3 | 614 |
 | 70 | Seimone Augustus | 613 |
 | 71 | Jonquel Jones | 608 |
 | 72 | Tiffany Hayes | 605 |
