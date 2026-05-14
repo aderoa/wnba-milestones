@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-14 04:29 UTC_
+_Last updated: 2026-05-14 04:30 UTC_
 
 ## Contents
 
@@ -248,7 +248,7 @@ _Last updated: 2026-05-14 04:29 UTC_
 | 22 | Lauren Jackson | 2,444 |
 | 23 | Yolanda Griffith | 2,440 |
 | 24 | Tangela Smith | 2,328 |
-| 25 | **Dearica Hamby** 🔴 +7 | 2,324 |
+| 25 | **Dearica Hamby** 🔴 +8 | 2,325 |
 | 26 | Erika de Souza | 2,220 |
 | 27 | Diana Taurasi | 2,201 |
 | 28 | Natasha Howard | 2,174 |
@@ -509,7 +509,7 @@ _Last updated: 2026-05-14 04:29 UTC_
 | 78 | Chamique Holdsclaw | 698 |
 | 79 | Shavonte Zellous | 693 |
 | 80 | Allie Quigley | 690 |
-| 81 | **Dearica Hamby** 🔴 | 688 |
+| 81 | **Dearica Hamby** 🔴 +1 | 689 |
 | 82 | Stefanie Dolson | 686 |
 | 83 | Moriah Jefferson | 685 |
 | 84 | Emma Meesseman | 681 |
@@ -715,7 +715,7 @@ _Last updated: 2026-05-14 04:29 UTC_
 | 77 | Nia Coffey | 151 |
 | 80 | Alison Bales | 148 |
 | 81 | Chamique Holdsclaw | 143 |
-| 82 | **Aliyah Boston** 🔴 +1 | 141 |
+| 82 | **Aliyah Boston** 🔴 +2 | 142 |
 | 83 | Shavonte Zellous | 139 |
 | 84 | Penny Taylor | 136 |
 | 85 | Devereaux Peters | 133 |
