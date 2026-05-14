@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-14 02:40 UTC_
+_Last updated: 2026-05-14 02:41 UTC_
 
 ## Contents
 
@@ -211,7 +211,7 @@ _Last updated: 2026-05-14 02:40 UTC_
 | 190 | Nikki Teasley | 1,690 |
 | 191 | Shenise Johnson | 1,688 |
 | 192 | NaLyssa Smith | 1,682 |
-| 193 | **Sophie Cunningham** 🔴 | 1,666 |
+| 193 | **Sophie Cunningham** 🔴 +2 | 1,668 |
 | 194 | **Gabby Williams** 🔴 +7 | 1,604 |
 | 195 | Janell Burse | 1,580 |
 | 196 | Le'coe Willingham | 1,552 |
@@ -264,7 +264,7 @@ _Last updated: 2026-05-14 02:40 UTC_
 | 38 | Sophia Young-Malcolm | 1,807 |
 | 39 | Lindsay Whalen | 1,805 |
 | 40 | Camille Smith | 1,802 |
-| 41 | **Kiah Stokes** 🔴 +6 | 1,752 |
+| 41 | **Kiah Stokes** 🔴 +8 | 1,754 |
 | 42 | Asjha Jones | 1,751 |
 | 43 | Courtney Williams | 1,747 |
 | 44 | Teaira McCowan | 1,670 |
@@ -770,8 +770,8 @@ _Last updated: 2026-05-14 02:40 UTC_
 | 133 | Tiffani Johnson | 96 |
 | 135 | Imani McGee-Stafford | 95 |
 | 135 | Isabelle Harrison | 95 |
+| 137 | **Kamilla Cardoso** 🔴 +1 | 94 |
 | 137 | Sandrine Gruda | 94 |
-| 138 | **Kamilla Cardoso** 🔴 | 93 |
 | 139 | Emily Engstler | 92 |
 | 140 | Jasmine Thomas | 91 |
 | 140 | Jewell Loyd | 91 |
