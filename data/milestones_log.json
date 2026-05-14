@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-14T00:44:00+00:00",
+    "text": "A'ja Wilson passed Armintie Herrington for #150 all-time in fouls (career 524) \u2014 up from #151 entering today \u2014 (5:56 - 2nd \u2014 LV @ CON)",
+    "kind": "rank_pass",
+    "player": "A'ja Wilson",
+    "stat": "fouls",
+    "rank": 150,
+    "passed_players": [
+      "Armintie Herrington"
+    ],
+    "new_total": 524
+  },
+  {
     "ts": "2026-05-14T00:33:00+00:00",
     "text": "Julie Allemand passed Shameka Christon and Tamicha Jackson for #170 all-time in assists (career 390) \u2014 up from #173 entering today \u2014 (8:41 - 4th \u2014 SEA @ TOR)",
     "kind": "rank_pass",
@@ -2960,17 +2972,5 @@
     "stat": "three-pointers",
     "value": 100,
     "new_total": 100
-  },
-  {
-    "ts": "2026-05-09T01:41:00+00:00",
-    "text": "Jonquel Jones passed DeLisha Milton-Jones for #14 all-time in rebounds (career 2,575) \u2014 up from #15 entering today \u2014 (1:26 - 4th \u2014 CON @ NY)",
-    "kind": "rank_pass",
-    "player": "Jonquel Jones",
-    "stat": "rebounds",
-    "rank": 14,
-    "passed_players": [
-      "DeLisha Milton-Jones"
-    ],
-    "new_total": 2575
   }
 ]

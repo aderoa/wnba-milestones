@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-14 00:44 UTC
+
+- **A'ja Wilson** passed **Armintie Herrington** for **#150** all-time in fouls (career 524) — up from #151 entering today — _5:56 - 2nd — LV @ CON_
+
 ## 2026-05-14 00:33 UTC
 
 - **Julie Allemand** passed **Shameka Christon** and **Tamicha Jackson** for **#170** all-time in assists (career 390) — up from #173 entering today — _8:41 - 4th — SEA @ TOR_
