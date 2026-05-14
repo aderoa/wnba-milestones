@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-14 00:41 UTC_
+_Last updated: 2026-05-14 00:42 UTC_
 
 ## Contents
 
@@ -319,7 +319,7 @@ _Last updated: 2026-05-14 00:41 UTC_
 | 93 | Tiffany Hayes | 1,233 |
 | 94 | Seimone Augustus | 1,228 |
 | 95 | Jia Perkins | 1,220 |
-| 96 | **Brianna Turner** 🔴 | 1,214 |
+| 96 | **Brianna Turner** 🔴 +1 | 1,215 |
 | 97 | Myisha Hines-Allen | 1,208 |
 | 98 | DeMya Walker | 1,199 |
 | 99 | Latasha Byears | 1,190 |
@@ -1373,7 +1373,7 @@ _Last updated: 2026-05-14 00:41 UTC_
 | 122 | Allisha Gray | 449 |
 | 123 | Elena Baranova | 444 |
 | 123 | Jantel Lavender | 444 |
-| 125 | **A'ja Wilson** 🔴 | 441 |
+| 125 | **A'ja Wilson** 🔴 +1 | 442 |
 | 126 | Ann Wauters | 440 |
 | 127 | Tiffany Mitchell | 439 |
 | 128 | Kedra Holland-Corn | 438 |
@@ -1384,8 +1384,8 @@ _Last updated: 2026-05-14 00:41 UTC_
 | 133 | Jennifer Gillom | 434 |
 | 133 | Nicole Ohlde | 434 |
 | 135 | Murriel Page | 432 |
-| 136 | **Jackie Young** 🔴 | 424 |
-| 136 | Shameka Christon | 424 |
+| 136 | **Jackie Young** 🔴 +1 | 425 |
+| 137 | Shameka Christon | 424 |
 | 138 | Cynthia Cooper | 422 |
 | 138 | Napheesa Collier | 422 |
 | 138 | Noelle Quinn | 422 |
@@ -1603,8 +1603,8 @@ _Last updated: 2026-05-14 00:41 UTC_
 | 147 | Candice Wiggins | 525 |
 | 147 | Epiphanny Prince | 525 |
 | 147 | **Marina Mabrey** 🔴 | 525 |
+| 150 | **A'ja Wilson** 🔴 +2 | 523 |
 | 150 | Armintie Herrington | 523 |
-| 151 | **A'ja Wilson** 🔴 +1 | 522 |
 | 152 | Sheryl Swoopes | 519 |
 | 153 | Nikki McCray | 517 |
 | 154 | Alex Bentley | 516 |
