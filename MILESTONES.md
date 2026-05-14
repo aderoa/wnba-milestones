@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-14 02:12 UTC
+
+- **Kiah Stokes** passed **Elena Baranova** for **#28** all-time in blocks (career 321) — up from #29 entering today — _5:26 - 1st — CHI @ GS_
+
 ## 2026-05-14 02:02 UTC
 
 - **Jewell Loyd** passed **Kelsey Mitchell** for **#8** all-time in three-pointers (career 670) — up from #9 entering today — _3:46 - 4th — LV @ CON_

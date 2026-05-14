@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-14 02:11 UTC_
+_Last updated: 2026-05-14 02:12 UTC_
 
 ## Contents
 
@@ -212,7 +212,7 @@ _Last updated: 2026-05-14 02:11 UTC_
 | 191 | Shenise Johnson | 1,688 |
 | 192 | NaLyssa Smith | 1,682 |
 | 193 | Sophie Cunningham | 1,666 |
-| 194 | **Gabby Williams** 🔴 +2 | 1,599 |
+| 194 | **Gabby Williams** 🔴 +4 | 1,601 |
 | 195 | Janell Burse | 1,580 |
 | 196 | Le'coe Willingham | 1,552 |
 | 197 | Shatori Walker-Kimbrough | 1,544 |
@@ -265,7 +265,7 @@ _Last updated: 2026-05-14 02:11 UTC_
 | 39 | Lindsay Whalen | 1,805 |
 | 40 | Camille Smith | 1,802 |
 | 41 | Asjha Jones | 1,751 |
-| 42 | **Kiah Stokes** 🔴 +3 | 1,749 |
+| 42 | **Kiah Stokes** 🔴 +4 | 1,750 |
 | 43 | Courtney Williams | 1,747 |
 | 44 | Teaira McCowan | 1,670 |
 | 45 | Monique Currie | 1,666 |
@@ -558,8 +558,8 @@ _Last updated: 2026-05-14 02:11 UTC_
 | 127 | Rachel Banham | 495 |
 | 128 | Crystal Robinson | 488 |
 | 128 | Tiffany Mitchell | 488 |
-| 130 | Rebekkah Brunson | 486 |
-| 131 | **Veronica Burton** 🔴 | 485 |
+| 130 | **Veronica Burton** 🔴 +2 | 487 |
+| 131 | Rebekkah Brunson | 486 |
 | 132 | Rhyne Howard | 481 |
 | 133 | Ukari Figgs | 470 |
 | 134 | Janeth Arcain | 469 |
@@ -661,8 +661,8 @@ _Last updated: 2026-05-14 02:11 UTC_
 | 25 | DeWanna Bonner | 344 |
 | 26 | DeLisha Milton-Jones | 339 |
 | 27 | Yolanda Griffith | 323 |
-| 28 | Elena Baranova | 320 |
-| 28 | **Kiah Stokes** 🔴 +1 | 320 |
+| 28 | **Kiah Stokes** 🔴 +2 | 321 |
+| 29 | Elena Baranova | 320 |
 | 30 | Candice Dupree | 316 |
 | 31 | Stefanie Dolson | 308 |
 | 32 | Vicky Bullett | 288 |
