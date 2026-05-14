@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-14 03:54 UTC_
+_Last updated: 2026-05-14 03:55 UTC_
 
 ## Contents
 
@@ -660,8 +660,8 @@ _Last updated: 2026-05-14 03:54 UTC_
 | 23 | Elena Delle Donne | 349 |
 | 25 | DeWanna Bonner | 344 |
 | 26 | DeLisha Milton-Jones | 339 |
-| 27 | **Kiah Stokes** 🔴 +4 | 323 |
-| 27 | Yolanda Griffith | 323 |
+| 27 | **Kiah Stokes** 🔴 +5 | 324 |
+| 28 | Yolanda Griffith | 323 |
 | 29 | Elena Baranova | 320 |
 | 30 | Candice Dupree | 316 |
 | 31 | Stefanie Dolson | 308 |
@@ -1571,7 +1571,7 @@ _Last updated: 2026-05-14 03:54 UTC_
 | 114 | Coco Miller | 615 |
 | 115 | Brooke Wyckoff | 614 |
 | 116 | Svetlana Abrosimova | 613 |
-| 117 | **Kiah Stokes** 🔴 +3 | 611 |
+| 117 | **Kiah Stokes** 🔴 +4 | 612 |
 | 118 | Layshia Clarendon | 609 |
 | 119 | Chelsea Gray | 604 |
 | 119 | Tiffany Mitchell | 604 |
