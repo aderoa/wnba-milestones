@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-14 04:04 UTC_
+_Last updated: 2026-05-14 04:05 UTC_
 
 ## Contents
 
@@ -43,7 +43,7 @@ _Last updated: 2026-05-14 04:04 UTC_
 | 22 | DeLisha Milton-Jones | 5,571 |
 | 23 | Katie Douglas | 5,545 |
 | 24 | Lindsay Whalen | 5,511 |
-| 25 | **Skylar Diggins** 🔴 +13 | 5,502 |
+| 25 | **Skylar Diggins** 🔴 +15 | 5,504 |
 | 26 | Kayla McBride | 5,389 |
 | 27 | Swin Cash | 5,119 |
 | 28 | Tangela Smith | 5,035 |
@@ -256,7 +256,7 @@ _Last updated: 2026-05-14 04:04 UTC_
 | 30 | Chamique Holdsclaw | 2,123 |
 | 31 | Chasity Melvin | 2,097 |
 | 32 | Tammy Sutton-Brown | 2,010 |
-| 33 | **Elizabeth Williams** 🔴 +6 | 1,910 |
+| 33 | **Elizabeth Williams** 🔴 +7 | 1,911 |
 | 34 | Cheryl Ford | 1,907 |
 | 35 | Plenette Pierson | 1,834 |
 | 36 | Natalie Williams | 1,832 |
@@ -1280,8 +1280,8 @@ _Last updated: 2026-05-14 04:04 UTC_
 | 28 | Betty Lennox | 800 |
 | 29 | Jasmine Thomas | 796 |
 | 30 | Chamique Holdsclaw | 789 |
-| 31 | Natasha Howard | 784 |
-| 31 | **Nneka Ogwumike** 🔴 +2 | 784 |
+| 31 | **Nneka Ogwumike** 🔴 +3 | 785 |
+| 32 | Natasha Howard | 784 |
 | 33 | Crystal Langhorne | 782 |
 | 33 | Jewell Loyd | 782 |
 | 35 | Camille Smith | 779 |
@@ -1472,7 +1472,7 @@ _Last updated: 2026-05-14 04:04 UTC_
 | 14 | Swin Cash | 1,146 |
 | 15 | Taj McWilliams-Franklin | 1,145 |
 | 16 | Monique Currie | 1,137 |
-| 17 | **Nneka Ogwumike** 🔴 +1 | 1,132 |
+| 17 | **Nneka Ogwumike** 🔴 +2 | 1,133 |
 | 18 | Tanisha Wright | 1,109 |
 | 19 | Michelle Snow | 1,108 |
 | 20 | Natasha Howard | 1,088 |
