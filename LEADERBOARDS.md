@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-14 04:42 UTC_
+_Last updated: 2026-05-14 04:43 UTC_
 
 ## Contents
 
@@ -452,7 +452,7 @@ _Last updated: 2026-05-14 04:42 UTC_
 | 21 | Dawn Staley | 1,337 |
 | 22 | Teresa Weatherspoon | 1,333 |
 | 23 | Kristi Toliver | 1,301 |
-| 24 | **Erica Wheeler** 🔴 +3 | 1,259 |
+| 24 | **Erica Wheeler** 🔴 +4 | 1,260 |
 | 25 | Katie Smith | 1,258 |
 | 26 | Vickie Johnson | 1,202 |
 | 27 | Odyssey Sims | 1,201 |
@@ -509,7 +509,7 @@ _Last updated: 2026-05-14 04:42 UTC_
 | 78 | Chamique Holdsclaw | 698 |
 | 79 | Shavonte Zellous | 693 |
 | 80 | Allie Quigley | 690 |
-| 80 | **Dearica Hamby** 🔴 +2 | 690 |
+| 81 | **Dearica Hamby** 🔴 +1 | 689 |
 | 82 | Stefanie Dolson | 686 |
 | 83 | Moriah Jefferson | 685 |
 | 84 | Emma Meesseman | 681 |
@@ -1442,7 +1442,7 @@ _Last updated: 2026-05-14 04:42 UTC_
 | 191 | Isabelle Harrison | 300 |
 | 192 | Crystal Robinson | 299 |
 | 193 | Michele Timms | 297 |
-| 194 | **Caitlin Clark** 🔴 +5 | 294 |
+| 194 | **Caitlin Clark** 🔴 +6 | 295 |
 | 195 | Alexis Hornbuckle | 288 |
 | 195 | Kayla Thornton | 288 |
 | 195 | Kristen Rasmussen | 288 |
