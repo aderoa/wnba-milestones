@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-14 03:07 UTC_
+_Last updated: 2026-05-14 03:08 UTC_
 
 ## Contents
 
@@ -211,7 +211,7 @@ _Last updated: 2026-05-14 03:07 UTC_
 | 190 | Nikki Teasley | 1,690 |
 | 191 | Shenise Johnson | 1,688 |
 | 192 | NaLyssa Smith | 1,682 |
-| 193 | **Sophie Cunningham** 🔴 +5 | 1,671 |
+| 193 | **Sophie Cunningham** 🔴 +7 | 1,673 |
 | 194 | **Gabby Williams** 🔴 +10 | 1,607 |
 | 195 | Janell Burse | 1,580 |
 | 196 | Le'coe Willingham | 1,552 |
@@ -264,7 +264,7 @@ _Last updated: 2026-05-14 03:07 UTC_
 | 38 | Sophia Young-Malcolm | 1,807 |
 | 39 | Lindsay Whalen | 1,805 |
 | 40 | Camille Smith | 1,802 |
-| 41 | **Kiah Stokes** 🔴 +9 | 1,755 |
+| 41 | **Kiah Stokes** 🔴 +10 | 1,756 |
 | 42 | Asjha Jones | 1,751 |
 | 43 | Courtney Williams | 1,747 |
 | 44 | Teaira McCowan | 1,670 |
@@ -342,7 +342,7 @@ _Last updated: 2026-05-14 03:07 UTC_
 | 116 | **Natasha Cloud** 🔴 +2 | 1,082 |
 | 117 | Svetlana Abrosimova | 1,078 |
 | 118 | NaLyssa Smith | 1,059 |
-| 119 | **Aliyah Boston** 🔴 +5 | 1,056 |
+| 119 | **Aliyah Boston** 🔴 +6 | 1,057 |
 | 120 | Le'coe Willingham | 1,054 |
 | 121 | Isabelle Harrison | 1,049 |
 | 122 | Nicole Ohlde | 1,040 |
@@ -365,7 +365,7 @@ _Last updated: 2026-05-14 03:07 UTC_
 | 139 | Jennifer Gillom | 964 |
 | 140 | Dominique Canty | 961 |
 | 141 | Armintie Herrington | 960 |
-| 142 | **Skylar Diggins** 🔴 +4 | 959 |
+| 141 | **Skylar Diggins** 🔴 +5 | 960 |
 | 143 | Janell Burse | 944 |
 | 144 | Merlakia Jones | 927 |
 | 145 | Nicky Anosike | 922 |
@@ -566,7 +566,7 @@ _Last updated: 2026-05-14 03:07 UTC_
 | 135 | Kahleah Copper | 463 |
 | 136 | Erin Phillips | 462 |
 | 137 | Sylvia Fowles | 461 |
-| 138 | **Caitlin Clark** 🔴 +4 | 456 |
+| 138 | **Caitlin Clark** 🔴 +5 | 457 |
 | 139 | Sydney Colson | 454 |
 | 140 | **Elizabeth Williams** 🔴 | 452 |
 | 141 | Satou Sabally | 451 |
