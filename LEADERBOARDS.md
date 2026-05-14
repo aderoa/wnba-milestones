@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-14 01:57 UTC_
+_Last updated: 2026-05-14 01:58 UTC_
 
 ## Contents
 
@@ -32,7 +32,7 @@ _Last updated: 2026-05-14 01:57 UTC_
 | 11 | Katie Smith | 6,450 |
 | 12 | Sylvia Fowles | 6,413 |
 | 13 | Lisa Leslie | 6,251 |
-| 14 | **Jewell Loyd** 🔴 +5 | 6,032 |
+| 14 | **Jewell Loyd** 🔴 +8 | 6,035 |
 | 15 | Breanna Stewart | 6,016 |
 | 16 | Lauren Jackson | 6,005 |
 | 16 | Seimone Augustus | 6,005 |
@@ -319,7 +319,7 @@ _Last updated: 2026-05-14 01:57 UTC_
 | 93 | Tiffany Hayes | 1,233 |
 | 94 | Seimone Augustus | 1,228 |
 | 95 | Jia Perkins | 1,220 |
-| 96 | **Brianna Turner** 🔴 +4 | 1,218 |
+| 96 | **Brianna Turner** 🔴 +5 | 1,219 |
 | 97 | Myisha Hines-Allen | 1,208 |
 | 98 | DeMya Walker | 1,199 |
 | 99 | **Chelsea Gray** 🔴 +6 | 1,194 |
@@ -1051,8 +1051,8 @@ _Last updated: 2026-05-14 01:57 UTC_
 | 5 | Tina Thompson | 745 |
 | 6 | Katie Douglas | 723 |
 | 7 | Kayla McBride | 722 |
+| 8 | **Jewell Loyd** 🔴 +2 | 669 |
 | 8 | Kelsey Mitchell | 669 |
-| 9 | **Jewell Loyd** 🔴 +1 | 668 |
 | 10 | DeWanna Bonner | 663 |
 | 11 | Kristi Toliver | 651 |
 | 12 | Tamika Catchings | 605 |
