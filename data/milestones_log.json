@@ -1,5 +1,29 @@
 [
   {
+    "ts": "2026-05-14T03:06:00+00:00",
+    "text": "Monique Billings passed Isabelle Harrison for #190 all-time in turnovers (career 301) \u2014 up from #191 entering today \u2014 (6:52 - 2nd \u2014 IND @ LA)",
+    "kind": "rank_pass",
+    "player": "Monique Billings",
+    "stat": "turnovers",
+    "rank": 190,
+    "passed_players": [
+      "Isabelle Harrison"
+    ],
+    "new_total": 301
+  },
+  {
+    "ts": "2026-05-14T03:06:00+00:00",
+    "text": "Monique Billings passed Iziane Castro Marques for #170 all-time in fouls (career 503) \u2014 up from #171 entering today \u2014 (6:52 - 2nd \u2014 IND @ LA)",
+    "kind": "rank_pass",
+    "player": "Monique Billings",
+    "stat": "fouls",
+    "rank": 170,
+    "passed_players": [
+      "Iziane Castro Marques"
+    ],
+    "new_total": 503
+  },
+  {
     "ts": "2026-05-14T02:51:00+00:00",
     "text": "Tyasha Harris passed Dana Evans and Jennifer Lacy for #133 all-time in three-pointers (career 161) \u2014 up from #135 entering today \u2014 (3:37 - 1st \u2014 IND @ LA)",
     "kind": "rank_pass",
@@ -2953,29 +2977,5 @@
       "Candice Dupree"
     ],
     "new_total": 319
-  },
-  {
-    "ts": "2026-05-09T05:36:00+00:00",
-    "text": "Veronica Burton passed Rhyne Howard for #131 all-time in assists (career 485) \u2014 up from #132 entering today \u2014 (Final \u2014 GS @ SEA)",
-    "kind": "rank_pass",
-    "player": "Veronica Burton",
-    "stat": "assists",
-    "rank": 131,
-    "passed_players": [
-      "Rhyne Howard"
-    ],
-    "new_total": 485
-  },
-  {
-    "ts": "2026-05-09T05:36:00+00:00",
-    "text": "Stefanie Dolson passed Moriah Jefferson for #82 all-time in assists (career 686) \u2014 up from #83 entering today \u2014 (Final \u2014 GS @ SEA)",
-    "kind": "rank_pass",
-    "player": "Stefanie Dolson",
-    "stat": "assists",
-    "rank": 82,
-    "passed_players": [
-      "Moriah Jefferson"
-    ],
-    "new_total": 686
   }
 ]

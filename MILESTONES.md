@@ -2,6 +2,11 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-14 03:06 UTC
+
+- **Monique Billings** passed **Isabelle Harrison** for **#190** all-time in turnovers (career 301) — up from #191 entering today — _6:52 - 2nd — IND @ LA_
+- **Monique Billings** passed **Iziane Castro Marques** for **#170** all-time in fouls (career 503) — up from #171 entering today — _6:52 - 2nd — IND @ LA_
+
 ## 2026-05-14 02:51 UTC
 
 - **Tyasha Harris** passed **Dana Evans** and **Jennifer Lacy** for **#133** all-time in three-pointers (career 161) — up from #135 entering today — _3:37 - 1st — IND @ LA_

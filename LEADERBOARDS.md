@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-14 03:05 UTC_
+_Last updated: 2026-05-14 03:06 UTC_
 
 ## Contents
 
@@ -72,8 +72,8 @@ _Last updated: 2026-05-14 03:05 UTC_
 | 51 | **Kelsey Plum** 🔴 +7 | 4,214 |
 | 52 | Allisha Gray | 4,157 |
 | 53 | Rebekkah Brunson | 4,133 |
-| 54 | **Dearica Hamby** 🔴 +6 | 4,096 |
-| 54 | Jonquel Jones | 4,096 |
+| 54 | **Dearica Hamby** 🔴 +8 | 4,098 |
+| 55 | Jonquel Jones | 4,096 |
 | 56 | Kahleah Copper | 4,083 |
 | 57 | Courtney Williams | 4,061 |
 | 58 | Asjha Jones | 3,986 |
@@ -110,7 +110,7 @@ _Last updated: 2026-05-14 03:05 UTC_
 | 89 | Wendy Palmer | 3,135 |
 | 90 | Shavonte Zellous | 3,103 |
 | 91 | Briann January | 3,082 |
-| 92 | **Erica Wheeler** 🔴 | 3,060 |
+| 92 | **Erica Wheeler** 🔴 +2 | 3,062 |
 | 93 | Erika de Souza | 3,046 |
 | 94 | Shameka Christon | 3,039 |
 | 95 | Sabrina Ionescu | 3,030 |
@@ -230,7 +230,7 @@ _Last updated: 2026-05-14 03:05 UTC_
 | 4 | Rebekkah Brunson | 3,345 |
 | 5 | Tamika Catchings | 3,313 |
 | 6 | Lisa Leslie | 3,303 |
-| 7 | **Nneka Ogwumike** 🔴 +1 | 3,269 |
+| 7 | **Nneka Ogwumike** 🔴 +2 | 3,270 |
 | 8 | DeWanna Bonner | 3,203 |
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
@@ -309,7 +309,7 @@ _Last updated: 2026-05-14 03:05 UTC_
 | 83 | Erlana Larkins | 1,329 |
 | 84 | Mwadi Mabika | 1,327 |
 | 85 | Jayne Appel Marinelli | 1,326 |
-| 86 | **Kayla Thornton** 🔴 +4 | 1,320 |
+| 86 | **Kayla Thornton** 🔴 +5 | 1,321 |
 | 87 | Betty Lennox | 1,296 |
 | 88 | Tari Phillips | 1,274 |
 | 89 | Janel McCarville | 1,261 |
@@ -518,7 +518,7 @@ _Last updated: 2026-05-14 03:05 UTC_
 | 87 | Lindsay Allen | 657 |
 | 88 | Betty Lennox | 651 |
 | 88 | Plenette Pierson | 651 |
-| 90 | **Ariel Atkins** 🔴 +1 | 647 |
+| 90 | **Ariel Atkins** 🔴 +2 | 648 |
 | 91 | Alex Bentley | 645 |
 | 92 | Asjha Jones | 637 |
 | 93 | Jennifer Azzi | 636 |
@@ -872,7 +872,7 @@ _Last updated: 2026-05-14 03:05 UTC_
 | 30 | Tangela Smith | 455 |
 | 31 | Tina Thompson | 452 |
 | 32 | Maya Moore | 449 |
-| 33 | **Skylar Diggins** 🔴 +1 | 446 |
+| 33 | **Skylar Diggins** 🔴 | 445 |
 | 34 | Jewell Loyd | 442 |
 | 35 | Sheri Sam | 438 |
 | 36 | Camille Smith | 437 |
@@ -897,7 +897,7 @@ _Last updated: 2026-05-14 03:05 UTC_
 | 54 | Tiffany Hayes | 378 |
 | 56 | Chamique Holdsclaw | 376 |
 | 57 | Mwadi Mabika | 370 |
-| 58 | **Ariel Atkins** 🔴 | 365 |
+| 58 | **Ariel Atkins** 🔴 +1 | 366 |
 | 59 | Lauren Jackson | 360 |
 | 59 | Tan White | 360 |
 | 61 | Jordin Canada | 359 |
@@ -1439,8 +1439,8 @@ _Last updated: 2026-05-14 03:05 UTC_
 | 187 | Erin Perperoglou | 305 |
 | 187 | Jennifer Lacy | 305 |
 | 189 | Tianna Hawkins | 303 |
-| 190 | Isabelle Harrison | 300 |
-| 190 | **Monique Billings** 🔴 | 300 |
+| 190 | **Monique Billings** 🔴 +1 | 301 |
+| 191 | Isabelle Harrison | 300 |
 | 192 | Crystal Robinson | 299 |
 | 193 | Michele Timms | 297 |
 | 194 | **Caitlin Clark** 🔴 +3 | 292 |
@@ -1624,8 +1624,8 @@ _Last updated: 2026-05-14 03:05 UTC_
 | 166 | Erin Perperoglou | 504 |
 | 166 | Napheesa Collier | 504 |
 | 166 | **Sophie Cunningham** 🔴 | 504 |
-| 170 | Iziane Castro Marques | 502 |
-| 170 | **Monique Billings** 🔴 | 502 |
+| 170 | **Monique Billings** 🔴 +1 | 503 |
+| 171 | Iziane Castro Marques | 502 |
 | 172 | Elena Baranova | 501 |
 | 173 | Adrian Williams-Strong | 497 |
 | 173 | Essence Carson | 497 |
