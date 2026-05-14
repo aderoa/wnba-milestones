@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-14 03:13 UTC_
+_Last updated: 2026-05-14 03:14 UTC_
 
 ## Contents
 
@@ -212,12 +212,12 @@ _Last updated: 2026-05-14 03:13 UTC_
 | 191 | Shenise Johnson | 1,688 |
 | 192 | NaLyssa Smith | 1,682 |
 | 193 | **Sophie Cunningham** 🔴 +7 | 1,673 |
-| 194 | **Gabby Williams** 🔴 +10 | 1,607 |
+| 194 | **Gabby Williams** 🔴 +12 | 1,609 |
 | 195 | Janell Burse | 1,580 |
 | 196 | Le'coe Willingham | 1,552 |
 | 197 | Shatori Walker-Kimbrough | 1,544 |
 | 198 | Rebecca Allen | 1,514 |
-| 199 | **Monique Billings** 🔴 +5 | 1,510 |
+| 199 | **Monique Billings** 🔴 +6 | 1,511 |
 | 200 | Jennifer Lacy | 1,504 |
 
 ## Rebounds
@@ -230,7 +230,7 @@ _Last updated: 2026-05-14 03:13 UTC_
 | 4 | Rebekkah Brunson | 3,345 |
 | 5 | Tamika Catchings | 3,313 |
 | 6 | Lisa Leslie | 3,303 |
-| 7 | **Nneka Ogwumike** 🔴 +2 | 3,270 |
+| 7 | **Nneka Ogwumike** 🔴 +3 | 3,271 |
 | 8 | DeWanna Bonner | 3,203 |
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
@@ -436,7 +436,7 @@ _Last updated: 2026-05-14 03:13 UTC_
 | 5 | Lindsay Whalen | 2,347 |
 | 6 | Chelsea Gray | 1,876 |
 | 7 | Alyssa Thomas | 1,820 |
-| 8 | **Skylar Diggins** 🔴 +2 | 1,770 |
+| 8 | **Skylar Diggins** 🔴 +3 | 1,771 |
 | 9 | **Natasha Cloud** 🔴 | 1,733 |
 | 10 | Becky Hammon | 1,705 |
 | 11 | Candace Parker | 1,634 |
@@ -1554,7 +1554,7 @@ _Last updated: 2026-05-14 03:13 UTC_
 | 97 | Chamique Holdsclaw | 667 |
 | 98 | Tianna Hawkins | 662 |
 | 99 | Cheyenne Parker-Tyus | 661 |
-| 100 | **Kelsey Plum** 🔴 +1 | 659 |
+| 100 | **Kelsey Plum** 🔴 +2 | 660 |
 | 101 | Tari Phillips | 648 |
 | 102 | Marie Ferdinand-Harris | 646 |
 | 103 | Jewell Loyd | 645 |
@@ -1571,7 +1571,7 @@ _Last updated: 2026-05-14 03:13 UTC_
 | 114 | Coco Miller | 615 |
 | 115 | Brooke Wyckoff | 614 |
 | 116 | Svetlana Abrosimova | 613 |
-| 117 | **Kiah Stokes** 🔴 +2 | 610 |
+| 117 | **Kiah Stokes** 🔴 +3 | 611 |
 | 118 | Layshia Clarendon | 609 |
 | 119 | Chelsea Gray | 604 |
 | 119 | Tiffany Mitchell | 604 |
