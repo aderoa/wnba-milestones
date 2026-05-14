@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-14 03:53 UTC_
+_Last updated: 2026-05-14 03:54 UTC_
 
 ## Contents
 
@@ -211,7 +211,7 @@ _Last updated: 2026-05-14 03:53 UTC_
 | 190 | Nikki Teasley | 1,690 |
 | 191 | Shenise Johnson | 1,688 |
 | 192 | NaLyssa Smith | 1,682 |
-| 193 | **Sophie Cunningham** 🔴 +7 | 1,673 |
+| 193 | **Sophie Cunningham** 🔴 +9 | 1,675 |
 | 194 | **Gabby Williams** 🔴 +15 | 1,612 |
 | 195 | Janell Burse | 1,580 |
 | 196 | Le'coe Willingham | 1,552 |
@@ -301,7 +301,7 @@ _Last updated: 2026-05-14 03:53 UTC_
 | 75 | Sheri Sam | 1,356 |
 | 76 | Tamika Whitmore | 1,355 |
 | 77 | Emma Meesseman | 1,350 |
-| 78 | **Monique Billings** 🔴 +4 | 1,349 |
+| 77 | **Monique Billings** 🔴 +5 | 1,350 |
 | 79 | Allisha Gray | 1,347 |
 | 80 | Elena Baranova | 1,335 |
 | 81 | Brionna Jones | 1,333 |
@@ -602,8 +602,8 @@ _Last updated: 2026-05-14 03:53 UTC_
 | 171 | Shameka Christon | 389 |
 | 171 | Tamicha Jackson | 389 |
 | 173 | Riquna Williams | 387 |
-| 174 | **Aliyah Boston** 🔴 +1 | 379 |
-| 174 | Dana Evans | 379 |
+| 174 | **Aliyah Boston** 🔴 +2 | 380 |
+| 175 | Dana Evans | 379 |
 | 176 | Jessica Breland | 377 |
 | 177 | Shenise Johnson | 376 |
 | 178 | Stephanie Talbot | 372 |
@@ -1232,9 +1232,9 @@ _Last updated: 2026-05-14 03:53 UTC_
 | 184 | Shoni Schimmel | 111 |
 | 186 | Emma Meesseman | 109 |
 | 186 | **Lexie Hull** 🔴 | 109 |
+| 186 | **Rickea Jackson** 🔴 +1 | 109 |
 | 186 | Scholanda Dorrell | 109 |
-| 189 | Belinda Snell | 108 |
-| 189 | **Rickea Jackson** 🔴 | 108 |
+| 190 | Belinda Snell | 108 |
 | 191 | Kennedy Burke | 107 |
 | 191 | Layshia Clarendon | 107 |
 | 193 | Leonie Fiebich | 106 |
