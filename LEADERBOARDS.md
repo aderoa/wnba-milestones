@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-14 03:55 UTC_
+_Last updated: 2026-05-14 03:56 UTC_
 
 ## Contents
 
@@ -248,7 +248,7 @@ _Last updated: 2026-05-14 03:55 UTC_
 | 22 | Lauren Jackson | 2,444 |
 | 23 | Yolanda Griffith | 2,440 |
 | 24 | Tangela Smith | 2,328 |
-| 25 | **Dearica Hamby** 🔴 +3 | 2,320 |
+| 25 | **Dearica Hamby** 🔴 +4 | 2,321 |
 | 26 | Erika de Souza | 2,220 |
 | 27 | Diana Taurasi | 2,201 |
 | 28 | Natasha Howard | 2,174 |
