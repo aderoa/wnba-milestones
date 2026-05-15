@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-15 00:17 UTC_
+_Last updated: 2026-05-15 00:18 UTC_
 
 ## Contents
 
@@ -89,7 +89,7 @@ _Last updated: 2026-05-15 00:17 UTC_
 | 67 | Shannon Johnson | 3,542 |
 | 69 | Renee Montgomery | 3,533 |
 | 70 | Jasmine Thomas | 3,522 |
-| 71 | **Odyssey Sims** 🔴 +2 | 3,516 |
+| 71 | **Odyssey Sims** 🔴 +4 | 3,518 |
 | 72 | Tamecka Dixon | 3,507 |
 | 73 | Tammy Sutton-Brown | 3,498 |
 | 74 | Sancho Lyttle | 3,478 |
@@ -627,7 +627,7 @@ _Last updated: 2026-05-15 00:17 UTC_
 | 195 | Penny Toler | 345 |
 | 197 | Ezi Magbegor | 344 |
 | 198 | Sonja Henning | 341 |
-| 199 | **Jessica Shepard** 🔴 +2 | 339 |
+| 199 | **Jessica Shepard** 🔴 +3 | 340 |
 | 200 | Alexis Hornbuckle | 336 |
 
 ## Blocks
@@ -1020,9 +1020,9 @@ _Last updated: 2026-05-15 00:17 UTC_
 | 178 | Natisha Hiedeman | 185 |
 | 178 | Tiffany Jackson | 185 |
 | 181 | Erin Perperoglou | 184 |
-| 182 | **Alanna Smith** 🔴 | 182 |
-| 182 | Erin Phillips | 182 |
-| 182 | Sabrina Ionescu | 182 |
+| 182 | **Alanna Smith** 🔴 +1 | 183 |
+| 183 | Erin Phillips | 182 |
+| 183 | Sabrina Ionescu | 182 |
 | 185 | Myisha Hines-Allen | 181 |
 | 185 | Nakia Sanford | 181 |
 | 185 | Rebecca Allen | 181 |
