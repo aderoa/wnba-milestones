@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-15 00:29 UTC_
+_Last updated: 2026-05-15 00:30 UTC_
 
 ## Contents
 
@@ -89,7 +89,7 @@ _Last updated: 2026-05-15 00:29 UTC_
 | 67 | Shannon Johnson | 3,542 |
 | 69 | Renee Montgomery | 3,533 |
 | 70 | Jasmine Thomas | 3,522 |
-| 71 | **Odyssey Sims** 🔴 +4 | 3,518 |
+| 71 | **Odyssey Sims** 🔴 +6 | 3,520 |
 | 72 | Tamecka Dixon | 3,507 |
 | 73 | Tammy Sutton-Brown | 3,498 |
 | 74 | Sancho Lyttle | 3,478 |
@@ -399,7 +399,7 @@ _Last updated: 2026-05-15 00:29 UTC_
 | 173 | Sue Wicks | 780 |
 | 174 | Lindsey Harding | 779 |
 | 175 | Tiffani Johnson | 778 |
-| 176 | **Odyssey Sims** 🔴 | 776 |
+| 176 | **Odyssey Sims** 🔴 +1 | 777 |
 | 177 | Teresa Weatherspoon | 775 |
 | 178 | Naz Hillmon | 773 |
 | 179 | Anna DeForge | 769 |
@@ -1279,7 +1279,7 @@ _Last updated: 2026-05-15 00:29 UTC_
 | 28 | Betty Lennox | 800 |
 | 29 | Jasmine Thomas | 796 |
 | 30 | Chamique Holdsclaw | 789 |
-| 31 | **Natasha Howard** 🔴 | 784 |
+| 31 | **Natasha Howard** 🔴 +2 | 786 |
 | 32 | Crystal Langhorne | 782 |
 | 32 | Nneka Ogwumike | 782 |
 | 34 | Jewell Loyd | 780 |
