@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-15 02:17 UTC_
+_Last updated: 2026-05-15 02:18 UTC_
 
 ## Contents
 
@@ -216,7 +216,7 @@ _Last updated: 2026-05-15 02:17 UTC_
 | 195 | Janell Burse | 1,580 |
 | 196 | Le'coe Willingham | 1,552 |
 | 197 | Shatori Walker-Kimbrough | 1,544 |
-| 198 | Rebecca Allen | 1,514 |
+| 198 | **Rebecca Allen** 🔴 | 1,514 |
 | 199 | Monique Billings | 1,505 |
 | 200 | Jennifer Lacy | 1,504 |
 
@@ -688,7 +688,7 @@ _Last updated: 2026-05-15 02:17 UTC_
 | 52 | Ashley Robinson | 204 |
 | 52 | Asjha Jones | 204 |
 | 54 | Janel McCarville | 201 |
-| 55 | Rebecca Allen | 195 |
+| 55 | **Rebecca Allen** 🔴 | 195 |
 | 56 | Jayne Appel Marinelli | 194 |
 | 57 | Angel McCoughtry | 193 |
 | 57 | Courtney Vandersloot | 193 |
@@ -1025,7 +1025,7 @@ _Last updated: 2026-05-15 02:17 UTC_
 | 183 | Sabrina Ionescu | 182 |
 | 185 | Myisha Hines-Allen | 181 |
 | 185 | Nakia Sanford | 181 |
-| 185 | Rebecca Allen | 181 |
+| 185 | **Rebecca Allen** 🔴 | 181 |
 | 188 | Diamond DeShields | 180 |
 | 188 | Isabelle Harrison | 180 |
 | 190 | Bridget Pettis | 177 |
@@ -1131,7 +1131,7 @@ _Last updated: 2026-05-15 02:17 UTC_
 | 85 | Courtney Williams | 256 |
 | 86 | Dawn Staley | 254 |
 | 87 | Bria Hartley | 253 |
-| 88 | Rebecca Allen | 252 |
+| 88 | **Rebecca Allen** 🔴 | 252 |
 | 89 | Angel McCoughtry | 249 |
 | 90 | Erin Thorn | 243 |
 | 91 | Alex Bentley | 239 |
