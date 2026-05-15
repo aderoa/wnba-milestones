@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-15 02:43 UTC_
+_Last updated: 2026-05-15 02:44 UTC_
 
 ## Contents
 
@@ -1243,7 +1243,7 @@ _Last updated: 2026-05-15 02:43 UTC_
 | 197 | Adrienne Johnson | 102 |
 | 198 | Amber Jacobs | 101 |
 | 198 | Veronica Burton | 101 |
-| 200 | **Julie Vanloo** 🔴 | 99 |
+| 200 | **Julie Vanloo** 🔴 +1 | 100 |
 
 ## Turnovers
 
