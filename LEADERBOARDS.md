@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-15 00:08 UTC_
+_Last updated: 2026-05-15 00:09 UTC_
 
 ## Contents
 
@@ -75,7 +75,7 @@ _Last updated: 2026-05-15 00:08 UTC_
 | 54 | Jonquel Jones | 4,096 |
 | 55 | Dearica Hamby | 4,090 |
 | 56 | Kahleah Copper | 4,083 |
-| 57 | **Courtney Williams** 🔴 | 4,061 |
+| 57 | **Courtney Williams** 🔴 +2 | 4,063 |
 | 58 | Asjha Jones | 3,986 |
 | 59 | Deanna Nolan | 3,971 |
 | 60 | Nykesha Sales | 3,931 |
@@ -922,7 +922,7 @@ _Last updated: 2026-05-15 00:08 UTC_
 | 80 | Leilani Mitchell | 330 |
 | 82 | Kristi Toliver | 329 |
 | 83 | Matee Ajavon | 328 |
-| 84 | **Odyssey Sims** 🔴 | 326 |
+| 84 | **Odyssey Sims** 🔴 +1 | 327 |
 | 85 | Napheesa Collier | 325 |
 | 86 | Betty Lennox | 323 |
 | 87 | Tammy Sutton-Brown | 319 |
@@ -1310,8 +1310,8 @@ _Last updated: 2026-05-15 00:08 UTC_
 | 59 | Dearica Hamby | 657 |
 | 60 | Yolanda Griffith | 653 |
 | 61 | Sheri Sam | 650 |
-| 62 | **Courtney Williams** 🔴 | 643 |
-| 62 | Dawn Staley | 643 |
+| 62 | **Courtney Williams** 🔴 +1 | 644 |
+| 63 | Dawn Staley | 643 |
 | 64 | Ruth Riley | 637 |
 | 65 | Svetlana Abrosimova | 631 |
 | 66 | **Kayla McBride** 🔴 | 622 |
