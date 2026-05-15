@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-15 01:33 UTC_
+_Last updated: 2026-05-15 01:34 UTC_
 
 ## Contents
 
@@ -88,8 +88,8 @@ _Last updated: 2026-05-15 01:33 UTC_
 | 67 | Napheesa Collier | 3,542 |
 | 67 | Shannon Johnson | 3,542 |
 | 69 | Renee Montgomery | 3,533 |
-| 70 | Jasmine Thomas | 3,522 |
-| 71 | **Odyssey Sims** 🔴 +6 | 3,520 |
+| 70 | **Odyssey Sims** 🔴 +9 | 3,523 |
+| 71 | Jasmine Thomas | 3,522 |
 | 72 | Tamecka Dixon | 3,507 |
 | 73 | Tammy Sutton-Brown | 3,498 |
 | 74 | Sancho Lyttle | 3,478 |
@@ -613,7 +613,7 @@ _Last updated: 2026-05-15 01:33 UTC_
 | 182 | Andrea Nagy | 361 |
 | 182 | Diamond DeShields | 361 |
 | 182 | Erlana Larkins | 361 |
-| 185 | **Alanna Smith** 🔴 +3 | 358 |
+| 185 | **Alanna Smith** 🔴 +4 | 359 |
 | 186 | Kayla Thornton | 355 |
 | 186 | Merlakia Jones | 355 |
 | 188 | Bridget Carleton | 352 |
@@ -1142,7 +1142,7 @@ _Last updated: 2026-05-15 01:33 UTC_
 | 96 | Stacey Dales | 232 |
 | 97 | Brittney Sykes | 231 |
 | 97 | Nneka Ogwumike | 231 |
-| 99 | **Odyssey Sims** 🔴 | 229 |
+| 99 | **Odyssey Sims** 🔴 +1 | 230 |
 | 100 | Elena Baranova | 224 |
 | 101 | Essence Carson | 223 |
 | 102 | Kelly Mazzante | 218 |
