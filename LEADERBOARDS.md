@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-15 23:36 UTC_
+_Last updated: 2026-05-15 23:37 UTC_
 
 ## Contents
 
@@ -39,7 +39,7 @@ _Last updated: 2026-05-15 23:36 UTC_
 | 18 | Brittney Griner | 5,967 |
 | 19 | Becky Hammon | 5,816 |
 | 20 | Angel McCoughtry | 5,797 |
-| 21 | **A'ja Wilson** 🔴 +4 | 5,723 |
+| 21 | **A'ja Wilson** 🔴 +6 | 5,725 |
 | 22 | DeLisha Milton-Jones | 5,571 |
 | 23 | Katie Douglas | 5,545 |
 | 24 | Lindsay Whalen | 5,511 |
@@ -198,7 +198,7 @@ _Last updated: 2026-05-15 23:36 UTC_
 | 177 | Noelle Quinn | 1,824 |
 | 178 | Danielle Adams | 1,820 |
 | 179 | Damiris Dantas | 1,814 |
-| 180 | **Aliyah Boston** 🔴 +2 | 1,800 |
+| 180 | **Aliyah Boston** 🔴 +5 | 1,803 |
 | 181 | Charde Houston | 1,797 |
 | 182 | Kamila Vodichkova | 1,767 |
 | 182 | Rachel Banham | 1,767 |
@@ -211,7 +211,7 @@ _Last updated: 2026-05-15 23:36 UTC_
 | 190 | Nikki Teasley | 1,690 |
 | 191 | Shenise Johnson | 1,688 |
 | 192 | **NaLyssa Smith** 🔴 +2 | 1,678 |
-| 193 | **Sophie Cunningham** 🔴 | 1,666 |
+| 193 | **Sophie Cunningham** 🔴 +3 | 1,669 |
 | 194 | Gabby Williams | 1,597 |
 | 195 | Janell Burse | 1,580 |
 | 196 | Le'coe Willingham | 1,552 |
@@ -566,8 +566,8 @@ _Last updated: 2026-05-15 23:36 UTC_
 | 135 | Kahleah Copper | 463 |
 | 136 | Erin Phillips | 462 |
 | 137 | Sylvia Fowles | 461 |
-| 138 | Sydney Colson | 454 |
-| 139 | **Caitlin Clark** 🔴 +1 | 453 |
+| 138 | **Caitlin Clark** 🔴 +3 | 455 |
+| 139 | Sydney Colson | 454 |
 | 140 | Elizabeth Williams | 452 |
 | 141 | Satou Sabally | 451 |
 | 141 | Yolanda Griffith | 451 |
@@ -642,7 +642,7 @@ _Last updated: 2026-05-15 23:36 UTC_
 | 6 | Lauren Jackson | 586 |
 | 7 | Tammy Sutton-Brown | 555 |
 | 8 | Tangela Smith | 554 |
-| 9 | **A'ja Wilson** 🔴 | 533 |
+| 9 | **A'ja Wilson** 🔴 +1 | 534 |
 | 10 | Ruth Riley | 505 |
 | 11 | Elizabeth Williams | 483 |
 | 12 | Taj McWilliams-Franklin | 443 |
@@ -1112,8 +1112,8 @@ _Last updated: 2026-05-15 23:36 UTC_
 | 66 | **Jackie Young** 🔴 | 311 |
 | 66 | Tan White | 311 |
 | 68 | Kedra Holland-Corn | 307 |
-| 69 | Kelly Miller | 305 |
-| 69 | **Sophie Cunningham** 🔴 | 305 |
+| 69 | **Sophie Cunningham** 🔴 +1 | 306 |
+| 70 | Kelly Miller | 305 |
 | 71 | Nikki Teasley | 304 |
 | 72 | Vickie Johnson | 295 |
 | 73 | Seimone Augustus | 293 |
@@ -1384,8 +1384,8 @@ _Last updated: 2026-05-15 23:36 UTC_
 | 133 | Jennifer Gillom | 434 |
 | 133 | Nicole Ohlde | 434 |
 | 135 | Murriel Page | 432 |
-| 136 | **Jackie Young** 🔴 | 424 |
-| 136 | Shameka Christon | 424 |
+| 136 | **Jackie Young** 🔴 +1 | 425 |
+| 137 | Shameka Christon | 424 |
 | 138 | Cynthia Cooper | 422 |
 | 138 | Napheesa Collier | 422 |
 | 138 | Noelle Quinn | 422 |
