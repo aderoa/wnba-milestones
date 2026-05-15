@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-15 23:35 UTC_
+_Last updated: 2026-05-15 23:36 UTC_
 
 ## Contents
 
@@ -198,7 +198,7 @@ _Last updated: 2026-05-15 23:35 UTC_
 | 177 | Noelle Quinn | 1,824 |
 | 178 | Danielle Adams | 1,820 |
 | 179 | Damiris Dantas | 1,814 |
-| 180 | **Aliyah Boston** 🔴 | 1,798 |
+| 180 | **Aliyah Boston** 🔴 +2 | 1,800 |
 | 181 | Charde Houston | 1,797 |
 | 182 | Kamila Vodichkova | 1,767 |
 | 182 | Rachel Banham | 1,767 |
@@ -210,7 +210,7 @@ _Last updated: 2026-05-15 23:35 UTC_
 | 189 | Armintie Herrington | 1,696 |
 | 190 | Nikki Teasley | 1,690 |
 | 191 | Shenise Johnson | 1,688 |
-| 192 | **NaLyssa Smith** 🔴 | 1,676 |
+| 192 | **NaLyssa Smith** 🔴 +2 | 1,678 |
 | 193 | **Sophie Cunningham** 🔴 | 1,666 |
 | 194 | Gabby Williams | 1,597 |
 | 195 | Janell Burse | 1,580 |
@@ -324,8 +324,8 @@ _Last updated: 2026-05-15 23:35 UTC_
 | 98 | DeMya Walker | 1,199 |
 | 99 | Latasha Byears | 1,190 |
 | 99 | Tanisha Wright | 1,190 |
+| 101 | **Chelsea Gray** 🔴 +1 | 1,189 |
 | 101 | Vicky Bullett | 1,189 |
-| 102 | **Chelsea Gray** 🔴 | 1,188 |
 | 103 | Kayla McBride | 1,182 |
 | 104 | Nykesha Sales | 1,148 |
 | 105 | Shannon Johnson | 1,143 |
@@ -352,8 +352,8 @@ _Last updated: 2026-05-15 23:35 UTC_
 | 126 | Cathrine Kraayeveld | 1,013 |
 | 127 | Kelly Miller | 1,011 |
 | 127 | Noelle Quinn | 1,011 |
-| 129 | **Jackie Young** 🔴 | 1,002 |
-| 129 | Tiffany Jackson | 1,002 |
+| 129 | **Jackie Young** 🔴 +1 | 1,003 |
+| 130 | Tiffany Jackson | 1,002 |
 | 131 | Tianna Hawkins | 1,000 |
 | 132 | Damiris Dantas | 995 |
 | 132 | Marissa Coleman | 995 |
@@ -567,8 +567,8 @@ _Last updated: 2026-05-15 23:35 UTC_
 | 136 | Erin Phillips | 462 |
 | 137 | Sylvia Fowles | 461 |
 | 138 | Sydney Colson | 454 |
-| 139 | **Caitlin Clark** 🔴 | 452 |
-| 139 | Elizabeth Williams | 452 |
+| 139 | **Caitlin Clark** 🔴 +1 | 453 |
+| 140 | Elizabeth Williams | 452 |
 | 141 | Satou Sabally | 451 |
 | 141 | Yolanda Griffith | 451 |
 | 143 | Elena Delle Donne | 450 |
@@ -606,7 +606,7 @@ _Last updated: 2026-05-15 23:35 UTC_
 | 175 | **Aliyah Boston** 🔴 | 378 |
 | 176 | Jessica Breland | 377 |
 | 177 | Shenise Johnson | 376 |
-| 178 | **Stephanie Talbot** 🔴 | 372 |
+| 178 | **Stephanie Talbot** 🔴 +1 | 373 |
 | 179 | Suzie McConnell Serio | 370 |
 | 180 | Damiris Dantas | 367 |
 | 181 | Roneeka Hodges | 362 |
@@ -1373,7 +1373,7 @@ _Last updated: 2026-05-15 23:35 UTC_
 | 122 | Allisha Gray | 449 |
 | 123 | Elena Baranova | 444 |
 | 123 | Jantel Lavender | 444 |
-| 125 | **A'ja Wilson** 🔴 | 441 |
+| 125 | **A'ja Wilson** 🔴 +1 | 442 |
 | 126 | Ann Wauters | 440 |
 | 127 | Tiffany Mitchell | 439 |
 | 128 | Kedra Holland-Corn | 438 |
