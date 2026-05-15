@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-15 23:44 UTC_
+_Last updated: 2026-05-15 23:45 UTC_
 
 ## Contents
 
@@ -39,7 +39,7 @@ _Last updated: 2026-05-15 23:44 UTC_
 | 18 | Brittney Griner | 5,967 |
 | 19 | Becky Hammon | 5,816 |
 | 20 | Angel McCoughtry | 5,797 |
-| 21 | **A'ja Wilson** 🔴 +10 | 5,729 |
+| 21 | **A'ja Wilson** 🔴 +11 | 5,730 |
 | 22 | DeLisha Milton-Jones | 5,571 |
 | 23 | Katie Douglas | 5,545 |
 | 24 | Lindsay Whalen | 5,511 |
@@ -197,7 +197,7 @@ _Last updated: 2026-05-15 23:44 UTC_
 | 176 | Tianna Hawkins | 1,825 |
 | 177 | Noelle Quinn | 1,824 |
 | 178 | Danielle Adams | 1,820 |
-| 179 | **Damiris Dantas** 🔴 | 1,814 |
+| 179 | **Damiris Dantas** 🔴 +3 | 1,817 |
 | 180 | **Aliyah Boston** 🔴 +5 | 1,803 |
 | 181 | Charde Houston | 1,797 |
 | 182 | Kamila Vodichkova | 1,767 |
@@ -241,7 +241,7 @@ _Last updated: 2026-05-15 23:44 UTC_
 | 15 | DeLisha Milton-Jones | 2,574 |
 | 16 | Brittney Griner | 2,531 |
 | 17 | Swin Cash | 2,521 |
-| 18 | **A'ja Wilson** 🔴 | 2,494 |
+| 18 | **A'ja Wilson** 🔴 +1 | 2,495 |
 | 19 | Breanna Stewart | 2,484 |
 | 20 | Michelle Snow | 2,476 |
 | 21 | Crystal Langhorne | 2,454 |
@@ -305,7 +305,7 @@ _Last updated: 2026-05-15 23:44 UTC_
 | 79 | Allisha Gray | 1,347 |
 | 80 | Elena Baranova | 1,335 |
 | 81 | Brionna Jones | 1,333 |
-| 82 | **Jewell Loyd** 🔴 | 1,331 |
+| 82 | **Jewell Loyd** 🔴 +1 | 1,332 |
 | 83 | Erlana Larkins | 1,329 |
 | 84 | Mwadi Mabika | 1,327 |
 | 85 | Jayne Appel Marinelli | 1,326 |
@@ -355,8 +355,8 @@ _Last updated: 2026-05-15 23:44 UTC_
 | 129 | **Jackie Young** 🔴 +1 | 1,003 |
 | 130 | Tiffany Jackson | 1,002 |
 | 131 | Tianna Hawkins | 1,000 |
-| 132 | **Damiris Dantas** 🔴 | 995 |
-| 132 | Marissa Coleman | 995 |
+| 132 | **Damiris Dantas** 🔴 +1 | 996 |
+| 133 | Marissa Coleman | 995 |
 | 134 | Kristen Rasmussen | 993 |
 | 134 | Sabrina Ionescu | 993 |
 | 136 | Danielle Robinson | 988 |
@@ -577,7 +577,7 @@ _Last updated: 2026-05-15 23:44 UTC_
 | 146 | Ruth Riley | 449 |
 | 147 | DeMya Walker | 446 |
 | 148 | Essence Carson | 445 |
-| 149 | Tyasha Harris | 441 |
+| 149 | **Tyasha Harris** 🔴 +1 | 442 |
 | 150 | Michelle Snow | 437 |
 | 151 | Lauren Jackson | 435 |
 | 152 | Adrienne Goodson | 433 |
@@ -1149,8 +1149,8 @@ _Last updated: 2026-05-15 23:44 UTC_
 | 102 | Sheri Sam | 218 |
 | 104 | Satou Sabally | 212 |
 | 105 | Erin Phillips | 211 |
-| 106 | Andrea Stinson | 207 |
-| 106 | **Damiris Dantas** 🔴 | 207 |
+| 106 | **Damiris Dantas** 🔴 +1 | 208 |
+| 107 | Andrea Stinson | 207 |
 | 108 | Shanna Zolman | 199 |
 | 109 | Betnijah Laney-Hamilton | 197 |
 | 109 | Temeka Johnson | 197 |
@@ -1178,7 +1178,7 @@ _Last updated: 2026-05-15 23:44 UTC_
 | 132 | Edna Campbell | 161 |
 | 133 | Dana Evans | 160 |
 | 133 | Jennifer Lacy | 160 |
-| 133 | Tyasha Harris | 160 |
+| 133 | **Tyasha Harris** 🔴 | 160 |
 | 136 | Aari McDonald | 158 |
 | 136 | Jennifer Azzi | 158 |
 | 138 | Natasha Howard | 157 |
