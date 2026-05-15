@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-15 01:39 UTC_
+_Last updated: 2026-05-15 01:40 UTC_
 
 ## Contents
 
@@ -62,7 +62,7 @@ _Last updated: 2026-05-15 01:39 UTC_
 | 41 | Crystal Langhorne | 4,433 |
 | 41 | Jia Perkins | 4,433 |
 | 43 | Chelsea Gray | 4,409 |
-| 44 | **Natasha Howard** 🔴 +16 | 4,383 |
+| 44 | **Natasha Howard** 🔴 +18 | 4,385 |
 | 45 | Courtney Vandersloot | 4,352 |
 | 46 | Sophia Young-Malcolm | 4,300 |
 | 47 | Plenette Pierson | 4,258 |
@@ -265,7 +265,7 @@ _Last updated: 2026-05-15 01:39 UTC_
 | 39 | Lindsay Whalen | 1,805 |
 | 40 | Camille Smith | 1,802 |
 | 41 | Asjha Jones | 1,751 |
-| 42 | **Courtney Williams** 🔴 +3 | 1,750 |
+| 41 | **Courtney Williams** 🔴 +4 | 1,751 |
 | 43 | Kiah Stokes | 1,746 |
 | 44 | Teaira McCowan | 1,670 |
 | 45 | Monique Currie | 1,666 |
@@ -446,7 +446,7 @@ _Last updated: 2026-05-15 01:39 UTC_
 | 15 | Shannon Johnson | 1,423 |
 | 15 | Tanisha Wright | 1,423 |
 | 17 | Temeka Johnson | 1,382 |
-| 18 | **Courtney Williams** 🔴 +1 | 1,366 |
+| 18 | **Courtney Williams** 🔴 +2 | 1,367 |
 | 19 | Jasmine Thomas | 1,355 |
 | 20 | Briann January | 1,339 |
 | 21 | Dawn Staley | 1,337 |
@@ -613,7 +613,7 @@ _Last updated: 2026-05-15 01:39 UTC_
 | 182 | Andrea Nagy | 361 |
 | 182 | Diamond DeShields | 361 |
 | 182 | Erlana Larkins | 361 |
-| 185 | **Alanna Smith** 🔴 +4 | 359 |
+| 185 | **Alanna Smith** 🔴 +5 | 360 |
 | 186 | Kayla Thornton | 355 |
 | 186 | Merlakia Jones | 355 |
 | 188 | Bridget Carleton | 352 |
@@ -1590,7 +1590,7 @@ _Last updated: 2026-05-15 01:39 UTC_
 | 134 | Ivory Latta | 565 |
 | 135 | Barbara Farris | 563 |
 | 136 | Jessica Breland | 562 |
-| 137 | **Courtney Williams** 🔴 +2 | 555 |
+| 137 | **Courtney Williams** 🔴 +3 | 556 |
 | 138 | Dawn Staley | 551 |
 | 139 | Glory Johnson | 550 |
 | 139 | Tierra Ruffin-Pratt | 550 |
