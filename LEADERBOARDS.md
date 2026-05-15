@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-15 01:40 UTC_
+_Last updated: 2026-05-15 01:41 UTC_
 
 ## Contents
 
@@ -388,7 +388,7 @@ _Last updated: 2026-05-15 01:40 UTC_
 | 162 | Amanda Zahui B | 819 |
 | 162 | Barbara Farris | 819 |
 | 164 | Marina Mabrey | 818 |
-| 165 | **Jessica Shepard** 🔴 +3 | 816 |
+| 165 | **Jessica Shepard** 🔴 +4 | 817 |
 | 166 | Carolyn Swords | 814 |
 | 167 | **Nia Coffey** 🔴 +7 | 802 |
 | 168 | Tierra Ruffin-Pratt | 799 |
@@ -921,8 +921,8 @@ _Last updated: 2026-05-15 01:40 UTC_
 | 80 | Chasity Melvin | 330 |
 | 80 | Leilani Mitchell | 330 |
 | 82 | Kristi Toliver | 329 |
-| 83 | Matee Ajavon | 328 |
-| 83 | **Odyssey Sims** 🔴 +2 | 328 |
+| 82 | **Odyssey Sims** 🔴 +3 | 329 |
+| 84 | Matee Ajavon | 328 |
 | 85 | Napheesa Collier | 325 |
 | 86 | Betty Lennox | 323 |
 | 87 | Tammy Sutton-Brown | 319 |
@@ -931,8 +931,8 @@ _Last updated: 2026-05-15 01:40 UTC_
 | 90 | **Alysha Clark** 🔴 +1 | 315 |
 | 90 | Debbie Black | 315 |
 | 92 | Crystal Langhorne | 314 |
-| 93 | **Courtney Williams** 🔴 | 308 |
-| 93 | Ebony Hoffman | 308 |
+| 93 | **Courtney Williams** 🔴 +1 | 309 |
+| 94 | Ebony Hoffman | 308 |
 | 95 | Tamera Young | 305 |
 | 96 | Kedra Holland-Corn | 301 |
 | 97 | Gabby Williams | 297 |
@@ -1315,7 +1315,7 @@ _Last updated: 2026-05-15 01:40 UTC_
 | 64 | Ruth Riley | 637 |
 | 65 | Svetlana Abrosimova | 631 |
 | 66 | **Kayla McBride** 🔴 +2 | 624 |
-| 67 | **Odyssey Sims** 🔴 | 616 |
+| 67 | **Odyssey Sims** 🔴 +1 | 617 |
 | 68 | Rebekkah Brunson | 615 |
 | 69 | Seimone Augustus | 613 |
 | 70 | Kelsey Plum | 611 |

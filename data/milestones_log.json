@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-15T01:41:00+00:00",
+    "text": "Odyssey Sims passed Matee Ajavon for #83 all-time in steals (career 329) \u2014 up from #84 entering today \u2014 (7:26 - 4th \u2014 MIN @ DAL)",
+    "kind": "rank_pass",
+    "player": "Odyssey Sims",
+    "stat": "steals",
+    "rank": 83,
+    "passed_players": [
+      "Matee Ajavon"
+    ],
+    "new_total": 329
+  },
+  {
     "ts": "2026-05-15T01:32:00+00:00",
     "text": "Kayla McBride passed Chelsea Gray for #102 all-time in rebounds (career 1,189) \u2014 up from #103 entering today \u2014 (29.1 - 3rd \u2014 MIN @ DAL)",
     "kind": "rank_pass",
@@ -2956,22 +2968,5 @@
     "stat": "assists",
     "value": 300,
     "new_total": 300
-  },
-  {
-    "ts": "2026-05-09T18:38:00+00:00",
-    "text": "Sophie Cunningham passed Merlakia Jones, Rushia Brown, Shekinna Stricklen, Allison Feaster, Erin Perperoglou, and Napheesa Collier for #162 all-time in fouls (career 507) \u2014 up from #168 entering today \u2014 (17.6 - 3rd \u2014 DAL @ IND)",
-    "kind": "rank_pass",
-    "player": "Sophie Cunningham",
-    "stat": "fouls",
-    "rank": 162,
-    "passed_players": [
-      "Merlakia Jones",
-      "Rushia Brown",
-      "Shekinna Stricklen",
-      "Allison Feaster",
-      "Erin Perperoglou",
-      "Napheesa Collier"
-    ],
-    "new_total": 507
   }
 ]
