@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-15 02:07 UTC_
+_Last updated: 2026-05-15 02:08 UTC_
 
 ## Contents
 
@@ -535,7 +535,7 @@ _Last updated: 2026-05-15 02:07 UTC_
 | 104 | Natisha Hiedeman | 584 |
 | 105 | Tan White | 578 |
 | 106 | Matee Ajavon | 577 |
-| 107 | **Betnijah Laney-Hamilton** 🔴 | 573 |
+| 107 | **Betnijah Laney-Hamilton** 🔴 +1 | 574 |
 | 108 | Napheesa Collier | 570 |
 | 109 | Nicole Powell | 567 |
 | 110 | **Natasha Howard** 🔴 +4 | 566 |
