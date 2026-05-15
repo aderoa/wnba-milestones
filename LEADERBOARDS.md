@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-15 03:51 UTC_
+_Last updated: 2026-05-15 03:52 UTC_
 
 ## Contents
 
@@ -578,8 +578,8 @@ _Last updated: 2026-05-15 03:51 UTC_
 | 147 | DeMya Walker | 446 |
 | 148 | Essence Carson | 445 |
 | 149 | Tyasha Harris | 441 |
-| 150 | Michelle Snow | 437 |
-| 150 | **Sug Sutton** 🔴 +7 | 437 |
+| 150 | **Sug Sutton** 🔴 +8 | 438 |
+| 151 | Michelle Snow | 437 |
 | 152 | Lauren Jackson | 435 |
 | 153 | Adrienne Goodson | 433 |
 | 153 | Crystal Langhorne | 433 |
@@ -1335,7 +1335,7 @@ _Last updated: 2026-05-15 03:51 UTC_
 | 84 | Sancho Lyttle | 563 |
 | 85 | Brittney Sykes | 558 |
 | 86 | Tan White | 557 |
-| 87 | **Breanna Stewart** 🔴 +3 | 552 |
+| 87 | **Breanna Stewart** 🔴 +2 | 551 |
 | 88 | Kelsey Mitchell | 549 |
 | 88 | Lauren Jackson | 549 |
 | 90 | Matee Ajavon | 544 |
