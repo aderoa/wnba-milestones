@@ -1,5 +1,14 @@
 [
   {
+    "ts": "2026-05-15T00:46:00+00:00",
+    "text": "Paige Bueckers reached 200 career assists (now 200) \u2014 (1:59 - 2nd \u2014 MIN @ DAL)",
+    "kind": "round",
+    "player": "Paige Bueckers",
+    "stat": "assists",
+    "value": 200,
+    "new_total": 200
+  },
+  {
     "ts": "2026-05-15T00:34:00+00:00",
     "text": "Alysha Clark passed Crystal Langhorne for #92 all-time in steals (career 315) \u2014 (5:27 - 2nd \u2014 MIN @ DAL)",
     "kind": "rank_pass",
@@ -2964,18 +2973,5 @@
       "Danielle Adams"
     ],
     "new_total": 1821
-  },
-  {
-    "ts": "2026-05-09T18:38:00+00:00",
-    "text": "Damiris Dantas passed Nykesha Sales and Rushia Brown for #162 all-time in blocks (career 81) \u2014 (17.6 - 3rd \u2014 DAL @ IND)",
-    "kind": "rank_pass",
-    "player": "Damiris Dantas",
-    "stat": "blocks",
-    "rank": 162,
-    "passed_players": [
-      "Nykesha Sales",
-      "Rushia Brown"
-    ],
-    "new_total": 81
   }
 ]
