@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-15 01:13 UTC_
+_Last updated: 2026-05-15 01:14 UTC_
 
 ## Contents
 
@@ -44,7 +44,7 @@ _Last updated: 2026-05-15 01:13 UTC_
 | 23 | Katie Douglas | 5,545 |
 | 24 | Lindsay Whalen | 5,511 |
 | 25 | Skylar Diggins | 5,489 |
-| 26 | **Kayla McBride** 🔴 +2 | 5,391 |
+| 26 | **Kayla McBride** 🔴 +4 | 5,393 |
 | 27 | Swin Cash | 5,119 |
 | 28 | Tangela Smith | 5,035 |
 | 29 | Taj McWilliams-Franklin | 4,992 |
@@ -1355,7 +1355,7 @@ _Last updated: 2026-05-15 01:13 UTC_
 | 102 | Wendy Palmer | 517 |
 | 105 | Tully Bevilaqua | 514 |
 | 106 | Jia Perkins | 513 |
-| 107 | **Arike Ogunbowale** 🔴 | 503 |
+| 107 | **Arike Ogunbowale** 🔴 +1 | 504 |
 | 108 | Tamera Young | 501 |
 | 109 | Nikki Teasley | 493 |
 | 109 | Tari Phillips | 493 |
@@ -1585,8 +1585,8 @@ _Last updated: 2026-05-15 01:13 UTC_
 | 129 | Kelsey Mitchell | 579 |
 | 130 | Ezi Magbegor | 576 |
 | 131 | Le'coe Willingham | 571 |
+| 132 | **Arike Ogunbowale** 🔴 +2 | 567 |
 | 132 | Ashley Robinson | 567 |
-| 133 | **Arike Ogunbowale** 🔴 +1 | 566 |
 | 134 | Ivory Latta | 565 |
 | 135 | Barbara Farris | 563 |
 | 136 | Jessica Breland | 562 |
