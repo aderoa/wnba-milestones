@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-15 00:10 UTC_
+_Last updated: 2026-05-15 00:11 UTC_
 
 ## Contents
 
@@ -89,7 +89,7 @@ _Last updated: 2026-05-15 00:10 UTC_
 | 67 | Shannon Johnson | 3,542 |
 | 69 | Renee Montgomery | 3,533 |
 | 70 | Jasmine Thomas | 3,522 |
-| 71 | **Odyssey Sims** 🔴 +1 | 3,515 |
+| 71 | **Odyssey Sims** 🔴 +2 | 3,516 |
 | 72 | Tamecka Dixon | 3,507 |
 | 73 | Tammy Sutton-Brown | 3,498 |
 | 74 | Sancho Lyttle | 3,478 |
@@ -388,10 +388,10 @@ _Last updated: 2026-05-15 00:10 UTC_
 | 162 | Amanda Zahui B | 819 |
 | 162 | Barbara Farris | 819 |
 | 164 | Marina Mabrey | 818 |
-| 165 | Carolyn Swords | 814 |
-| 165 | **Jessica Shepard** 🔴 +1 | 814 |
+| 165 | **Jessica Shepard** 🔴 +2 | 815 |
+| 166 | Carolyn Swords | 814 |
 | 167 | Tierra Ruffin-Pratt | 799 |
-| 168 | **Nia Coffey** 🔴 +2 | 797 |
+| 168 | **Nia Coffey** 🔴 +3 | 798 |
 | 169 | Charlotte Smith | 794 |
 | 170 | Rhonda Mapp | 788 |
 | 171 | Mercedes Russell | 786 |
@@ -416,7 +416,7 @@ _Last updated: 2026-05-15 00:10 UTC_
 | 190 | Shenise Johnson | 729 |
 | 191 | Sami Whitcomb | 726 |
 | 191 | Shekinna Stricklen | 726 |
-| 193 | **Arike Ogunbowale** 🔴 | 722 |
+| 193 | **Arike Ogunbowale** 🔴 +1 | 723 |
 | 194 | Kelsey Plum | 715 |
 | 195 | Olympia Scott | 711 |
 | 196 | Katie Mattera | 708 |
@@ -627,7 +627,7 @@ _Last updated: 2026-05-15 00:10 UTC_
 | 195 | Penny Toler | 345 |
 | 197 | Ezi Magbegor | 344 |
 | 198 | Sonja Henning | 341 |
-| 199 | **Jessica Shepard** 🔴 | 337 |
+| 199 | **Jessica Shepard** 🔴 +1 | 338 |
 | 200 | Alexis Hornbuckle | 336 |
 
 ## Blocks
@@ -680,8 +680,8 @@ _Last updated: 2026-05-15 00:10 UTC_
 | 44 | Sancho Lyttle | 221 |
 | 44 | Skylar Diggins | 221 |
 | 46 | Alana Beard | 220 |
+| 46 | **Alanna Smith** 🔴 +1 | 220 |
 | 46 | Teaira McCowan | 220 |
-| 48 | **Alanna Smith** 🔴 | 219 |
 | 49 | Janell Burse | 216 |
 | 49 | Sheryl Swoopes | 216 |
 | 51 | LaToya Sanders | 207 |
