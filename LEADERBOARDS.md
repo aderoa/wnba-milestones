@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-15 23:40 UTC_
+_Last updated: 2026-05-15 23:41 UTC_
 
 ## Contents
 
@@ -32,7 +32,7 @@ _Last updated: 2026-05-15 23:40 UTC_
 | 11 | Katie Smith | 6,450 |
 | 12 | Sylvia Fowles | 6,413 |
 | 13 | Lisa Leslie | 6,251 |
-| 14 | Jewell Loyd | 6,027 |
+| 14 | **Jewell Loyd** 🔴 | 6,027 |
 | 15 | Breanna Stewart | 6,016 |
 | 16 | Lauren Jackson | 6,005 |
 | 16 | Seimone Augustus | 6,005 |
@@ -301,11 +301,11 @@ _Last updated: 2026-05-15 23:40 UTC_
 | 75 | Sheri Sam | 1,356 |
 | 76 | Tamika Whitmore | 1,355 |
 | 77 | Emma Meesseman | 1,350 |
-| 78 | **Monique Billings** 🔴 +3 | 1,348 |
+| 78 | **Monique Billings** 🔴 +4 | 1,349 |
 | 79 | Allisha Gray | 1,347 |
 | 80 | Elena Baranova | 1,335 |
 | 81 | Brionna Jones | 1,333 |
-| 82 | Jewell Loyd | 1,331 |
+| 82 | **Jewell Loyd** 🔴 | 1,331 |
 | 83 | Erlana Larkins | 1,329 |
 | 84 | Mwadi Mabika | 1,327 |
 | 85 | Jayne Appel Marinelli | 1,326 |
@@ -461,7 +461,7 @@ _Last updated: 2026-05-15 23:40 UTC_
 | 30 | DeWanna Bonner | 1,176 |
 | 31 | Renee Montgomery | 1,140 |
 | 32 | Jordin Canada | 1,139 |
-| 33 | Jewell Loyd | 1,133 |
+| 33 | **Jewell Loyd** 🔴 | 1,133 |
 | 34 | Swin Cash | 1,131 |
 | 35 | Lindsey Harding | 1,090 |
 | 36 | Katie Douglas | 1,069 |
@@ -471,7 +471,7 @@ _Last updated: 2026-05-15 23:40 UTC_
 | 40 | Dominique Canty | 1,042 |
 | 41 | Sheryl Swoopes | 1,037 |
 | 42 | Tina Charles | 1,033 |
-| 43 | **Jackie Young** 🔴 +2 | 1,031 |
+| 43 | **Jackie Young** 🔴 +3 | 1,032 |
 | 44 | Nikki Teasley | 982 |
 | 45 | Tamecka Dixon | 960 |
 | 46 | Kara Lawson | 946 |
@@ -774,7 +774,7 @@ _Last updated: 2026-05-15 23:40 UTC_
 | 138 | Kamilla Cardoso | 93 |
 | 139 | Emily Engstler | 92 |
 | 140 | Jasmine Thomas | 91 |
-| 140 | Jewell Loyd | 91 |
+| 140 | **Jewell Loyd** 🔴 | 91 |
 | 140 | Kayla Alexander | 91 |
 | 143 | Allie Quigley | 90 |
 | 144 | Alysha Clark | 89 |
@@ -872,7 +872,7 @@ _Last updated: 2026-05-15 23:40 UTC_
 | 31 | Tina Thompson | 452 |
 | 32 | Maya Moore | 449 |
 | 33 | Skylar Diggins | 445 |
-| 34 | Jewell Loyd | 441 |
+| 34 | **Jewell Loyd** 🔴 | 441 |
 | 35 | Sheri Sam | 438 |
 | 36 | Camille Smith | 437 |
 | 37 | **Chelsea Gray** 🔴 | 436 |
@@ -1052,7 +1052,7 @@ _Last updated: 2026-05-15 23:40 UTC_
 | 6 | Katie Douglas | 723 |
 | 7 | Kayla McBride | 722 |
 | 8 | **Kelsey Mitchell** 🔴 +1 | 670 |
-| 9 | Jewell Loyd | 667 |
+| 9 | **Jewell Loyd** 🔴 | 667 |
 | 10 | DeWanna Bonner | 663 |
 | 11 | Kristi Toliver | 651 |
 | 12 | Tamika Catchings | 605 |
@@ -1185,7 +1185,7 @@ _Last updated: 2026-05-15 23:40 UTC_
 | 139 | Bridget Pettis | 153 |
 | 139 | Jennifer Gillom | 153 |
 | 141 | Alanna Smith | 152 |
-| 142 | **Caitlin Clark** 🔴 | 151 |
+| 141 | **Caitlin Clark** 🔴 +1 | 152 |
 | 143 | Rita Williams | 150 |
 | 144 | Moriah Jefferson | 149 |
 | 144 | **Stephanie Talbot** 🔴 | 149 |
@@ -1282,7 +1282,7 @@ _Last updated: 2026-05-15 23:40 UTC_
 | 31 | Natasha Howard | 784 |
 | 32 | Crystal Langhorne | 782 |
 | 32 | Nneka Ogwumike | 782 |
-| 34 | Jewell Loyd | 780 |
+| 34 | **Jewell Loyd** 🔴 | 780 |
 | 35 | Camille Smith | 779 |
 | 36 | Plenette Pierson | 773 |
 | 37 | Briann January | 771 |
@@ -1556,7 +1556,7 @@ _Last updated: 2026-05-15 23:40 UTC_
 | 100 | Kelsey Plum | 658 |
 | 101 | Tari Phillips | 648 |
 | 102 | Marie Ferdinand-Harris | 646 |
-| 103 | Jewell Loyd | 644 |
+| 103 | **Jewell Loyd** 🔴 | 644 |
 | 104 | Breanna Stewart | 643 |
 | 105 | Kayla Thornton | 640 |
 | 106 | Charlotte Smith | 638 |
