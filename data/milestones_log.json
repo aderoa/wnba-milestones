@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-15T02:13:00+00:00",
+    "text": "Sug Sutton passed Elena Baranova for #154 all-time in assists (career 431) \u2014 up from #155 entering today \u2014 (5:53 - 1st \u2014 NY @ POR)",
+    "kind": "rank_pass",
+    "player": "Sug Sutton",
+    "stat": "assists",
+    "rank": 154,
+    "passed_players": [
+      "Elena Baranova"
+    ],
+    "new_total": 431
+  },
+  {
     "ts": "2026-05-15T02:01:00+00:00",
     "text": "Kayla McBride passed Vicky Bullett for #101 all-time in rebounds (career 1,190) \u2014 up from #103 entering today \u2014 (51.0 - 4th \u2014 MIN @ DAL)",
     "kind": "rank_pass",
@@ -2958,18 +2970,6 @@
     "player": "Kelsey Mitchell",
     "stat": "assists",
     "value": 800,
-    "new_total": 802
-  },
-  {
-    "ts": "2026-05-09T18:38:00+00:00",
-    "text": "Kelsey Mitchell passed Epiphanny Prince for #70 all-time in assists (career 802) \u2014 up from #71 entering today \u2014 (17.6 - 3rd \u2014 DAL @ IND)",
-    "kind": "rank_pass",
-    "player": "Kelsey Mitchell",
-    "stat": "assists",
-    "rank": 70,
-    "passed_players": [
-      "Epiphanny Prince"
-    ],
     "new_total": 802
   }
 ]
