@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-15 00:09 UTC_
+_Last updated: 2026-05-15 00:10 UTC_
 
 ## Contents
 
@@ -89,7 +89,7 @@ _Last updated: 2026-05-15 00:09 UTC_
 | 67 | Shannon Johnson | 3,542 |
 | 69 | Renee Montgomery | 3,533 |
 | 70 | Jasmine Thomas | 3,522 |
-| 71 | **Odyssey Sims** 🔴 | 3,514 |
+| 71 | **Odyssey Sims** 🔴 +1 | 3,515 |
 | 72 | Tamecka Dixon | 3,507 |
 | 73 | Tammy Sutton-Brown | 3,498 |
 | 74 | Sancho Lyttle | 3,478 |
