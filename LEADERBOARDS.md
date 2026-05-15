@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-15 01:20 UTC_
+_Last updated: 2026-05-15 01:21 UTC_
 
 ## Contents
 
@@ -613,7 +613,7 @@ _Last updated: 2026-05-15 01:20 UTC_
 | 182 | Andrea Nagy | 361 |
 | 182 | Diamond DeShields | 361 |
 | 182 | Erlana Larkins | 361 |
-| 185 | **Alanna Smith** 🔴 +2 | 357 |
+| 185 | **Alanna Smith** 🔴 +3 | 358 |
 | 186 | Kayla Thornton | 355 |
 | 186 | Merlakia Jones | 355 |
 | 188 | Bridget Carleton | 352 |
@@ -1314,7 +1314,7 @@ _Last updated: 2026-05-15 01:20 UTC_
 | 63 | Dawn Staley | 643 |
 | 64 | Ruth Riley | 637 |
 | 65 | Svetlana Abrosimova | 631 |
-| 66 | **Kayla McBride** 🔴 +1 | 623 |
+| 66 | **Kayla McBride** 🔴 +2 | 624 |
 | 67 | **Odyssey Sims** 🔴 | 616 |
 | 68 | Rebekkah Brunson | 615 |
 | 69 | Seimone Augustus | 613 |
