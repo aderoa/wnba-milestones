@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-15 23:48 UTC_
+_Last updated: 2026-05-15 23:49 UTC_
 
 ## Contents
 
@@ -322,10 +322,10 @@ _Last updated: 2026-05-15 23:48 UTC_
 | 96 | **Brianna Turner** 🔴 | 1,214 |
 | 97 | Myisha Hines-Allen | 1,208 |
 | 98 | DeMya Walker | 1,199 |
+| 99 | **Chelsea Gray** 🔴 +2 | 1,190 |
 | 99 | Latasha Byears | 1,190 |
 | 99 | Tanisha Wright | 1,190 |
-| 101 | **Chelsea Gray** 🔴 +1 | 1,189 |
-| 101 | Vicky Bullett | 1,189 |
+| 102 | Vicky Bullett | 1,189 |
 | 103 | Kayla McBride | 1,182 |
 | 104 | Nykesha Sales | 1,148 |
 | 105 | Shannon Johnson | 1,143 |
@@ -355,7 +355,7 @@ _Last updated: 2026-05-15 23:48 UTC_
 | 129 | **Jackie Young** 🔴 +1 | 1,003 |
 | 130 | Tiffany Jackson | 1,002 |
 | 131 | Tianna Hawkins | 1,000 |
-| 132 | **Damiris Dantas** 🔴 +1 | 996 |
+| 132 | **Damiris Dantas** 🔴 +2 | 997 |
 | 133 | Marissa Coleman | 995 |
 | 134 | Kristen Rasmussen | 993 |
 | 134 | Sabrina Ionescu | 993 |
@@ -1606,9 +1606,9 @@ _Last updated: 2026-05-15 23:48 UTC_
 | 150 | Armintie Herrington | 523 |
 | 151 | **A'ja Wilson** 🔴 | 521 |
 | 152 | Sheryl Swoopes | 519 |
+| 153 | **Damiris Dantas** 🔴 +1 | 517 |
 | 153 | Nikki McCray | 517 |
-| 154 | Alex Bentley | 516 |
-| 154 | **Damiris Dantas** 🔴 | 516 |
+| 155 | Alex Bentley | 516 |
 | 156 | Jantel Lavender | 513 |
 | 157 | Adrienne Goodson | 512 |
 | 157 | Janeth Arcain | 512 |
