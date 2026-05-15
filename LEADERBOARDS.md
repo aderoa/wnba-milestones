@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-15 01:09 UTC_
+_Last updated: 2026-05-15 01:10 UTC_
 
 ## Contents
 
@@ -454,7 +454,7 @@ _Last updated: 2026-05-15 01:09 UTC_
 | 23 | Kristi Toliver | 1,301 |
 | 24 | Katie Smith | 1,258 |
 | 25 | Erica Wheeler | 1,256 |
-| 26 | **Odyssey Sims** 🔴 +2 | 1,203 |
+| 26 | **Odyssey Sims** 🔴 +3 | 1,204 |
 | 27 | Vickie Johnson | 1,202 |
 | 28 | Leilani Mitchell | 1,197 |
 | 29 | Kelsey Plum | 1,193 |
@@ -475,7 +475,7 @@ _Last updated: 2026-05-15 01:09 UTC_
 | 44 | Nikki Teasley | 982 |
 | 45 | Tamecka Dixon | 960 |
 | 46 | Kara Lawson | 946 |
-| 47 | **Kayla McBride** 🔴 | 945 |
+| 46 | **Kayla McBride** 🔴 +1 | 946 |
 | 48 | Deanna Nolan | 930 |
 | 49 | Breanna Stewart | 929 |
 | 50 | Kelly Miller | 927 |
@@ -1170,9 +1170,9 @@ _Last updated: 2026-05-15 01:09 UTC_
 | 123 | Tayler Hill | 174 |
 | 125 | Theresa Plaisance | 172 |
 | 126 | Amanda Lassiter | 170 |
+| 127 | **Nia Coffey** 🔴 +2 | 167 |
 | 127 | Shavonte Zellous | 167 |
 | 127 | Tianna Hawkins | 167 |
-| 129 | **Nia Coffey** 🔴 +1 | 166 |
 | 130 | Charlotte Smith | 164 |
 | 131 | Ukari Figgs | 162 |
 | 132 | Edna Campbell | 161 |
