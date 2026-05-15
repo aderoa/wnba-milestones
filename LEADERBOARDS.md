@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-15 00:31 UTC_
+_Last updated: 2026-05-15 00:32 UTC_
 
 ## Contents
 
@@ -122,7 +122,7 @@ _Last updated: 2026-05-15 00:31 UTC_
 | 101 | Natasha Cloud | 2,863 |
 | 102 | Iziane Castro Marques | 2,862 |
 | 103 | Elizabeth Williams | 2,841 |
-| 104 | Alysha Clark | 2,787 |
+| 104 | **Alysha Clark** 🔴 | 2,787 |
 | 105 | Jantel Lavender | 2,775 |
 | 106 | Brionna Jones | 2,765 |
 | 107 | Dominique Canty | 2,763 |
@@ -289,7 +289,7 @@ _Last updated: 2026-05-15 00:31 UTC_
 | 63 | Ticha Penicheiro | 1,485 |
 | 64 | Sue Bird | 1,466 |
 | 65 | Nicole Powell | 1,457 |
-| 66 | Alysha Clark | 1,454 |
+| 66 | **Alysha Clark** 🔴 | 1,454 |
 | 67 | Tamera Young | 1,433 |
 | 68 | Cheyenne Parker-Tyus | 1,424 |
 | 69 | Alana Beard | 1,420 |
@@ -379,7 +379,7 @@ _Last updated: 2026-05-15 00:31 UTC_
 | 153 | Krystal Thomas | 862 |
 | 154 | Erica Wheeler | 852 |
 | 155 | Leilani Mitchell | 845 |
-| 156 | **Alanna Smith** 🔴 +2 | 836 |
+| 156 | **Alanna Smith** 🔴 +3 | 837 |
 | 157 | Essence Carson | 833 |
 | 158 | Kristi Toliver | 829 |
 | 159 | Marie Ferdinand-Harris | 828 |
@@ -524,7 +524,7 @@ _Last updated: 2026-05-15 00:31 UTC_
 | 93 | Jennifer Azzi | 636 |
 | 94 | Brittney Griner | 635 |
 | 95 | Sami Whitcomb | 623 |
-| 96 | Alysha Clark | 614 |
+| 96 | **Alysha Clark** 🔴 | 614 |
 | 97 | A'ja Wilson | 613 |
 | 98 | Debbie Black | 612 |
 | 99 | Cynthia Cooper | 602 |
@@ -777,7 +777,7 @@ _Last updated: 2026-05-15 00:31 UTC_
 | 140 | Jewell Loyd | 91 |
 | 140 | Kayla Alexander | 91 |
 | 143 | Allie Quigley | 90 |
-| 144 | Alysha Clark | 89 |
+| 144 | **Alysha Clark** 🔴 | 89 |
 | 145 | Marissa Coleman | 88 |
 | 146 | Tiffany Hayes | 87 |
 | 147 | Astou Ndiaye-Diatta | 86 |
@@ -929,7 +929,7 @@ _Last updated: 2026-05-15 00:31 UTC_
 | 88 | Plenette Pierson | 317 |
 | 88 | Temeka Johnson | 317 |
 | 90 | Debbie Black | 315 |
-| 91 | Alysha Clark | 314 |
+| 91 | **Alysha Clark** 🔴 | 314 |
 | 91 | Crystal Langhorne | 314 |
 | 93 | **Courtney Williams** 🔴 | 308 |
 | 93 | Ebony Hoffman | 308 |
@@ -1083,7 +1083,7 @@ _Last updated: 2026-05-15 00:31 UTC_
 | 37 | Penny Taylor | 407 |
 | 37 | Riquna Williams | 407 |
 | 39 | Jia Perkins | 396 |
-| 40 | Alysha Clark | 390 |
+| 40 | **Alysha Clark** 🔴 | 390 |
 | 41 | Roneeka Hodges | 389 |
 | 42 | Courtney Vandersloot | 385 |
 | 43 | Briann January | 381 |
@@ -1279,7 +1279,7 @@ _Last updated: 2026-05-15 00:31 UTC_
 | 28 | Betty Lennox | 800 |
 | 29 | Jasmine Thomas | 796 |
 | 30 | Chamique Holdsclaw | 789 |
-| 31 | **Natasha Howard** 🔴 +2 | 786 |
+| 31 | **Natasha Howard** 🔴 +3 | 787 |
 | 32 | Crystal Langhorne | 782 |
 | 32 | Nneka Ogwumike | 782 |
 | 34 | Jewell Loyd | 780 |
@@ -1377,7 +1377,7 @@ _Last updated: 2026-05-15 00:31 UTC_
 | 126 | Ann Wauters | 440 |
 | 127 | Tiffany Mitchell | 439 |
 | 128 | Kedra Holland-Corn | 438 |
-| 129 | Alysha Clark | 437 |
+| 129 | **Alysha Clark** 🔴 | 437 |
 | 129 | Ariel Atkins | 437 |
 | 129 | Betnijah Laney-Hamilton | 437 |
 | 132 | Cheyenne Parker-Tyus | 435 |
@@ -1473,7 +1473,7 @@ _Last updated: 2026-05-15 00:31 UTC_
 | 17 | Nneka Ogwumike | 1,131 |
 | 18 | Tanisha Wright | 1,109 |
 | 19 | Michelle Snow | 1,108 |
-| 20 | **Natasha Howard** 🔴 | 1,088 |
+| 20 | **Natasha Howard** 🔴 +1 | 1,089 |
 | 21 | Stefanie Dolson | 1,082 |
 | 22 | Sylvia Fowles | 1,049 |
 | 23 | Tina Charles | 1,037 |
@@ -1495,7 +1495,7 @@ _Last updated: 2026-05-15 00:31 UTC_
 | 39 | Ticha Penicheiro | 913 |
 | 40 | Shavonte Zellous | 907 |
 | 41 | DeWanna Bonner | 891 |
-| 42 | Alysha Clark | 883 |
+| 42 | **Alysha Clark** 🔴 | 883 |
 | 43 | DeMya Walker | 882 |
 | 44 | Candice Dupree | 876 |
 | 45 | Murriel Page | 872 |
