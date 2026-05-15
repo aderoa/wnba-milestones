@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-15T01:29:00+00:00",
+    "text": "Courtney Williams passed Dawn Staley for #85 all-time in three-pointers (career 255) \u2014 up from #87 entering today \u2014 (2:09 - 3rd \u2014 MIN @ DAL)",
+    "kind": "rank_pass",
+    "player": "Courtney Williams",
+    "stat": "three-pointers",
+    "rank": 85,
+    "passed_players": [
+      "Dawn Staley"
+    ],
+    "new_total": 255
+  },
+  {
     "ts": "2026-05-15T01:12:00+00:00",
     "text": "Natasha Howard passed Chamique Holdsclaw for #30 all-time in turnovers (career 790) \u2014 up from #31 entering today \u2014 (6:32 - 3rd \u2014 MIN @ DAL)",
     "kind": "rank_pass",
@@ -2961,17 +2973,5 @@
       "Sydney Colson"
     ],
     "new_total": 457
-  },
-  {
-    "ts": "2026-05-09T18:38:00+00:00",
-    "text": "Caitlin Clark passed Alanna Smith for #141 all-time in three-pointers (career 153) \u2014 up from #142 entering today \u2014 (17.6 - 3rd \u2014 DAL @ IND)",
-    "kind": "rank_pass",
-    "player": "Caitlin Clark",
-    "stat": "three-pointers",
-    "rank": 141,
-    "passed_players": [
-      "Alanna Smith"
-    ],
-    "new_total": 153
   }
 ]
