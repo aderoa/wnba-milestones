@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-15 00:37 UTC_
+_Last updated: 2026-05-15 00:38 UTC_
 
 ## Contents
 
@@ -251,7 +251,7 @@ _Last updated: 2026-05-15 00:37 UTC_
 | 25 | Dearica Hamby | 2,317 |
 | 26 | Erika de Souza | 2,220 |
 | 27 | Diana Taurasi | 2,201 |
-| 28 | **Natasha Howard** 🔴 | 2,174 |
+| 28 | **Natasha Howard** 🔴 +1 | 2,175 |
 | 29 | Margo Dydek | 2,138 |
 | 30 | Chamique Holdsclaw | 2,123 |
 | 31 | Chasity Melvin | 2,097 |
@@ -390,8 +390,8 @@ _Last updated: 2026-05-15 00:37 UTC_
 | 164 | Marina Mabrey | 818 |
 | 165 | **Jessica Shepard** 🔴 +3 | 816 |
 | 166 | Carolyn Swords | 814 |
-| 167 | Tierra Ruffin-Pratt | 799 |
-| 168 | **Nia Coffey** 🔴 +3 | 798 |
+| 167 | **Nia Coffey** 🔴 +5 | 800 |
+| 168 | Tierra Ruffin-Pratt | 799 |
 | 169 | Charlotte Smith | 794 |
 | 170 | Rhonda Mapp | 788 |
 | 171 | Mercedes Russell | 786 |
@@ -538,7 +538,7 @@ _Last updated: 2026-05-15 00:37 UTC_
 | 107 | Betnijah Laney-Hamilton | 573 |
 | 108 | Napheesa Collier | 570 |
 | 109 | Nicole Powell | 567 |
-| 110 | **Natasha Howard** 🔴 +1 | 563 |
+| 110 | **Natasha Howard** 🔴 +2 | 564 |
 | 111 | Loree Moore | 562 |
 | 112 | Sophia Young-Malcolm | 554 |
 | 112 | Tangela Smith | 554 |
