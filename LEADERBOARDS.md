@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-15 00:22 UTC_
+_Last updated: 2026-05-15 00:23 UTC_
 
 ## Contents
 
@@ -326,7 +326,7 @@ _Last updated: 2026-05-15 00:22 UTC_
 | 99 | Tanisha Wright | 1,190 |
 | 101 | Vicky Bullett | 1,189 |
 | 102 | Chelsea Gray | 1,188 |
-| 103 | **Kayla McBride** 🔴 | 1,182 |
+| 103 | **Kayla McBride** 🔴 +1 | 1,183 |
 | 104 | Nykesha Sales | 1,148 |
 | 105 | Shannon Johnson | 1,143 |
 | 106 | Kahleah Copper | 1,140 |
@@ -454,8 +454,8 @@ _Last updated: 2026-05-15 00:22 UTC_
 | 23 | Kristi Toliver | 1,301 |
 | 24 | Katie Smith | 1,258 |
 | 25 | Erica Wheeler | 1,256 |
+| 26 | **Odyssey Sims** 🔴 +1 | 1,202 |
 | 26 | Vickie Johnson | 1,202 |
-| 27 | **Odyssey Sims** 🔴 | 1,201 |
 | 28 | Leilani Mitchell | 1,197 |
 | 29 | Kelsey Plum | 1,193 |
 | 30 | DeWanna Bonner | 1,176 |
@@ -1574,8 +1574,8 @@ _Last updated: 2026-05-15 00:22 UTC_
 | 118 | Kiah Stokes | 608 |
 | 119 | Tiffany Mitchell | 604 |
 | 120 | Chelsea Gray | 603 |
-| 121 | **Odyssey Sims** 🔴 +1 | 598 |
-| 122 | Janel McCarville | 597 |
+| 121 | Janel McCarville | 597 |
+| 121 | **Odyssey Sims** 🔴 | 597 |
 | 123 | Kamila Vodichkova | 596 |
 | 124 | Teresa Weatherspoon | 589 |
 | 125 | Emma Meesseman | 585 |
