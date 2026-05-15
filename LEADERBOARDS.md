@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-15 01:12 UTC_
+_Last updated: 2026-05-15 01:13 UTC_
 
 ## Contents
 
@@ -538,7 +538,7 @@ _Last updated: 2026-05-15 01:12 UTC_
 | 107 | Betnijah Laney-Hamilton | 573 |
 | 108 | Napheesa Collier | 570 |
 | 109 | Nicole Powell | 567 |
-| 110 | **Natasha Howard** 🔴 +3 | 565 |
+| 110 | **Natasha Howard** 🔴 +4 | 566 |
 | 111 | Loree Moore | 562 |
 | 112 | Sophia Young-Malcolm | 554 |
 | 112 | Tangela Smith | 554 |
