@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-15 01:46 UTC_
+_Last updated: 2026-05-15 01:47 UTC_
 
 ## Contents
 
@@ -62,7 +62,7 @@ _Last updated: 2026-05-15 01:46 UTC_
 | 41 | Crystal Langhorne | 4,433 |
 | 41 | Jia Perkins | 4,433 |
 | 43 | Chelsea Gray | 4,409 |
-| 44 | **Natasha Howard** 🔴 +18 | 4,385 |
+| 44 | **Natasha Howard** 🔴 +20 | 4,387 |
 | 45 | Courtney Vandersloot | 4,352 |
 | 46 | Sophia Young-Malcolm | 4,300 |
 | 47 | Plenette Pierson | 4,258 |
@@ -251,7 +251,7 @@ _Last updated: 2026-05-15 01:46 UTC_
 | 25 | Dearica Hamby | 2,317 |
 | 26 | Erika de Souza | 2,220 |
 | 27 | Diana Taurasi | 2,201 |
-| 28 | **Natasha Howard** 🔴 +4 | 2,178 |
+| 28 | **Natasha Howard** 🔴 +5 | 2,179 |
 | 29 | Margo Dydek | 2,138 |
 | 30 | Chamique Holdsclaw | 2,123 |
 | 31 | Chasity Melvin | 2,097 |
@@ -921,8 +921,8 @@ _Last updated: 2026-05-15 01:46 UTC_
 | 80 | Chasity Melvin | 330 |
 | 80 | Leilani Mitchell | 330 |
 | 82 | Kristi Toliver | 329 |
-| 82 | **Odyssey Sims** 🔴 +3 | 329 |
-| 84 | Matee Ajavon | 328 |
+| 83 | Matee Ajavon | 328 |
+| 83 | **Odyssey Sims** 🔴 +2 | 328 |
 | 85 | Napheesa Collier | 325 |
 | 86 | Betty Lennox | 323 |
 | 87 | Tammy Sutton-Brown | 319 |
@@ -1019,8 +1019,8 @@ _Last updated: 2026-05-15 01:46 UTC_
 | 178 | Charde Houston | 185 |
 | 178 | Natisha Hiedeman | 185 |
 | 178 | Tiffany Jackson | 185 |
+| 181 | **Alanna Smith** 🔴 +2 | 184 |
 | 181 | Erin Perperoglou | 184 |
-| 182 | **Alanna Smith** 🔴 +1 | 183 |
 | 183 | Erin Phillips | 182 |
 | 183 | Sabrina Ionescu | 182 |
 | 185 | Myisha Hines-Allen | 181 |
