@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-15 02:27 UTC
+
+- **Rebecca Allen** passed **Myisha Hines-Allen** and **Nakia Sanford** for **#185** all-time in steals (career 182) — up from #187 entering today — _21.8 - 1st — NY @ POR_
+
 ## 2026-05-15 02:22 UTC
 
 - **Sug Sutton** passed **Adrienne Goodson** and **Crystal Langhorne** for **#152** all-time in assists (career 434) — up from #155 entering today — _3:26 - 1st — NY @ POR_
