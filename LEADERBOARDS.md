@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-15 23:41 UTC_
+_Last updated: 2026-05-15 23:42 UTC_
 
 ## Contents
 
@@ -39,7 +39,7 @@ _Last updated: 2026-05-15 23:41 UTC_
 | 18 | Brittney Griner | 5,967 |
 | 19 | Becky Hammon | 5,816 |
 | 20 | Angel McCoughtry | 5,797 |
-| 21 | **A'ja Wilson** 🔴 +6 | 5,725 |
+| 21 | **A'ja Wilson** 🔴 +8 | 5,727 |
 | 22 | DeLisha Milton-Jones | 5,571 |
 | 23 | Katie Douglas | 5,545 |
 | 24 | Lindsay Whalen | 5,511 |
@@ -61,7 +61,7 @@ _Last updated: 2026-05-15 23:41 UTC_
 | 40 | Arike Ogunbowale | 4,464 |
 | 41 | Crystal Langhorne | 4,433 |
 | 41 | Jia Perkins | 4,433 |
-| 43 | **Chelsea Gray** 🔴 +2 | 4,411 |
+| 43 | **Chelsea Gray** 🔴 +5 | 4,414 |
 | 44 | Natasha Howard | 4,367 |
 | 45 | Courtney Vandersloot | 4,352 |
 | 46 | Sophia Young-Malcolm | 4,300 |
@@ -470,8 +470,8 @@ _Last updated: 2026-05-15 23:41 UTC_
 | 39 | Penny Taylor | 1,049 |
 | 40 | Dominique Canty | 1,042 |
 | 41 | Sheryl Swoopes | 1,037 |
+| 42 | **Jackie Young** 🔴 +4 | 1,033 |
 | 42 | Tina Charles | 1,033 |
-| 43 | **Jackie Young** 🔴 +3 | 1,032 |
 | 44 | Nikki Teasley | 982 |
 | 45 | Tamecka Dixon | 960 |
 | 46 | Kara Lawson | 946 |
@@ -524,8 +524,8 @@ _Last updated: 2026-05-15 23:41 UTC_
 | 93 | Jennifer Azzi | 636 |
 | 94 | Brittney Griner | 635 |
 | 95 | Sami Whitcomb | 623 |
+| 96 | **A'ja Wilson** 🔴 +1 | 614 |
 | 96 | Alysha Clark | 614 |
-| 97 | **A'ja Wilson** 🔴 | 613 |
 | 98 | Debbie Black | 612 |
 | 99 | Cynthia Cooper | 602 |
 | 100 | Jonquel Jones | 600 |
@@ -1079,7 +1079,7 @@ _Last updated: 2026-05-15 23:41 UTC_
 | 33 | Crystal Robinson | 425 |
 | 33 | Skylar Diggins | 425 |
 | 35 | Mwadi Mabika | 415 |
-| 36 | **Chelsea Gray** 🔴 | 410 |
+| 36 | **Chelsea Gray** 🔴 +1 | 411 |
 | 37 | Penny Taylor | 407 |
 | 37 | Riquna Williams | 407 |
 | 39 | Jia Perkins | 396 |
@@ -1183,9 +1183,9 @@ _Last updated: 2026-05-15 23:41 UTC_
 | 136 | Jennifer Azzi | 158 |
 | 138 | Natasha Howard | 157 |
 | 139 | Bridget Pettis | 153 |
+| 139 | **Caitlin Clark** 🔴 +2 | 153 |
 | 139 | Jennifer Gillom | 153 |
-| 141 | Alanna Smith | 152 |
-| 141 | **Caitlin Clark** 🔴 +1 | 152 |
+| 142 | Alanna Smith | 152 |
 | 143 | Rita Williams | 150 |
 | 144 | Moriah Jefferson | 149 |
 | 144 | **Stephanie Talbot** 🔴 | 149 |
