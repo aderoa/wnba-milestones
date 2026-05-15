@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-15 02:42 UTC_
+_Last updated: 2026-05-15 02:43 UTC_
 
 ## Contents
 
@@ -33,7 +33,7 @@ _Last updated: 2026-05-15 02:42 UTC_
 | 12 | Sylvia Fowles | 6,413 |
 | 13 | Lisa Leslie | 6,251 |
 | 14 | Jewell Loyd | 6,027 |
-| 15 | **Breanna Stewart** 🔴 +5 | 6,021 |
+| 15 | **Breanna Stewart** 🔴 +7 | 6,023 |
 | 16 | Lauren Jackson | 6,005 |
 | 16 | Seimone Augustus | 6,005 |
 | 18 | Brittney Griner | 5,967 |
@@ -237,7 +237,7 @@ _Last updated: 2026-05-15 02:42 UTC_
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | Alyssa Thomas | 2,740 |
 | 13 | Sancho Lyttle | 2,596 |
-| 14 | **Jonquel Jones** 🔴 +3 | 2,578 |
+| 14 | **Jonquel Jones** 🔴 +4 | 2,579 |
 | 15 | DeLisha Milton-Jones | 2,574 |
 | 16 | Brittney Griner | 2,531 |
 | 17 | Swin Cash | 2,521 |
@@ -528,7 +528,7 @@ _Last updated: 2026-05-15 02:42 UTC_
 | 97 | A'ja Wilson | 613 |
 | 98 | Debbie Black | 612 |
 | 99 | Cynthia Cooper | 602 |
-| 100 | **Jonquel Jones** 🔴 +1 | 601 |
+| 99 | **Jonquel Jones** 🔴 +2 | 602 |
 | 101 | Sancho Lyttle | 592 |
 | 102 | Camille Smith | 590 |
 | 103 | Armintie Herrington | 589 |
@@ -1556,8 +1556,8 @@ _Last updated: 2026-05-15 02:42 UTC_
 | 100 | Kelsey Plum | 658 |
 | 101 | Tari Phillips | 648 |
 | 102 | Marie Ferdinand-Harris | 646 |
-| 103 | **Breanna Stewart** 🔴 +1 | 644 |
-| 103 | Jewell Loyd | 644 |
+| 103 | **Breanna Stewart** 🔴 +2 | 645 |
+| 104 | Jewell Loyd | 644 |
 | 105 | Kayla Thornton | 640 |
 | 106 | Charlotte Smith | 638 |
 | 107 | Janell Burse | 632 |
