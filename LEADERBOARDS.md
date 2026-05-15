@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-15 01:37 UTC_
+_Last updated: 2026-05-15 01:38 UTC_
 
 ## Contents
 
@@ -390,7 +390,7 @@ _Last updated: 2026-05-15 01:37 UTC_
 | 164 | Marina Mabrey | 818 |
 | 165 | **Jessica Shepard** 🔴 +3 | 816 |
 | 166 | Carolyn Swords | 814 |
-| 167 | **Nia Coffey** 🔴 +6 | 801 |
+| 167 | **Nia Coffey** 🔴 +7 | 802 |
 | 168 | Tierra Ruffin-Pratt | 799 |
 | 169 | Charlotte Smith | 794 |
 | 170 | Rhonda Mapp | 788 |
