@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-15T02:55:00+00:00",
+    "text": "Sug Sutton passed Lauren Jackson for #151 all-time in assists (career 436) \u2014 up from #155 entering today \u2014 (2.1 - 2nd \u2014 NY @ POR)",
+    "kind": "rank_pass",
+    "player": "Sug Sutton",
+    "stat": "assists",
+    "rank": 151,
+    "passed_players": [
+      "Lauren Jackson"
+    ],
+    "new_total": 436
+  },
+  {
     "ts": "2026-05-15T02:31:00+00:00",
     "text": "Betnijah Laney-Hamilton passed Marina Mabrey for #169 all-time in steals (career 203) \u2014 (End of 1st \u2014 NY @ POR)",
     "kind": "rank_pass",
@@ -2966,14 +2978,5 @@
       "Jasmine Thomas"
     ],
     "new_total": 3529
-  },
-  {
-    "ts": "2026-05-09T18:38:00+00:00",
-    "text": "Odyssey Sims reached 600 career fouls (now 600) \u2014 (17.6 - 3rd \u2014 DAL @ IND)",
-    "kind": "round",
-    "player": "Odyssey Sims",
-    "stat": "fouls",
-    "value": 600,
-    "new_total": 600
   }
 ]

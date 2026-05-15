@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-15 02:51 UTC_
+_Last updated: 2026-05-15 02:55 UTC_
 
 ## Contents
 
@@ -154,8 +154,8 @@ _Last updated: 2026-05-15 02:51 UTC_
 | 133 | Kia Vaughn | 2,288 |
 | 134 | Allison Feaster | 2,258 |
 | 135 | Kayla Thornton | 2,248 |
+| 136 | **Betnijah Laney-Hamilton** 🔴 +5 | 2,245 |
 | 136 | Shekinna Stricklen | 2,245 |
-| 137 | **Betnijah Laney-Hamilton** 🔴 +3 | 2,243 |
 | 138 | Kara Braxton | 2,237 |
 | 138 | Matee Ajavon | 2,237 |
 | 140 | Dawn Staley | 2,228 |
@@ -237,7 +237,7 @@ _Last updated: 2026-05-15 02:51 UTC_
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | Alyssa Thomas | 2,740 |
 | 13 | Sancho Lyttle | 2,596 |
-| 14 | **Jonquel Jones** 🔴 +4 | 2,579 |
+| 14 | **Jonquel Jones** 🔴 +6 | 2,581 |
 | 15 | DeLisha Milton-Jones | 2,574 |
 | 16 | Brittney Griner | 2,531 |
 | 17 | Swin Cash | 2,521 |
@@ -394,8 +394,8 @@ _Last updated: 2026-05-15 02:51 UTC_
 | 168 | Tierra Ruffin-Pratt | 799 |
 | 169 | Charlotte Smith | 794 |
 | 170 | Rhonda Mapp | 788 |
-| 171 | **Betnijah Laney-Hamilton** 🔴 +1 | 786 |
-| 171 | Mercedes Russell | 786 |
+| 171 | **Betnijah Laney-Hamilton** 🔴 +2 | 787 |
+| 172 | Mercedes Russell | 786 |
 | 173 | Sue Wicks | 780 |
 | 174 | Lindsey Harding | 779 |
 | 175 | Tiffani Johnson | 778 |
@@ -535,7 +535,7 @@ _Last updated: 2026-05-15 02:51 UTC_
 | 104 | Natisha Hiedeman | 584 |
 | 105 | Tan White | 578 |
 | 106 | Matee Ajavon | 577 |
-| 107 | **Betnijah Laney-Hamilton** 🔴 +1 | 574 |
+| 107 | **Betnijah Laney-Hamilton** 🔴 +2 | 575 |
 | 108 | Napheesa Collier | 570 |
 | 109 | Nicole Powell | 567 |
 | 110 | Natasha Howard | 566 |
@@ -579,8 +579,8 @@ _Last updated: 2026-05-15 02:51 UTC_
 | 148 | Essence Carson | 445 |
 | 149 | Tyasha Harris | 441 |
 | 150 | Michelle Snow | 437 |
-| 151 | Lauren Jackson | 435 |
-| 151 | **Sug Sutton** 🔴 +5 | 435 |
+| 151 | **Sug Sutton** 🔴 +6 | 436 |
+| 152 | Lauren Jackson | 435 |
 | 153 | Adrienne Goodson | 433 |
 | 153 | Crystal Langhorne | 433 |
 | 155 | Elena Baranova | 430 |
@@ -616,9 +616,9 @@ _Last updated: 2026-05-15 02:51 UTC_
 | 185 | Alanna Smith | 360 |
 | 186 | Kayla Thornton | 355 |
 | 186 | Merlakia Jones | 355 |
-| 188 | **Bridget Carleton** 🔴 | 352 |
-| 188 | Charlotte Smith | 352 |
-| 188 | Ruthie Bolton | 352 |
+| 188 | **Bridget Carleton** 🔴 +1 | 353 |
+| 189 | Charlotte Smith | 352 |
+| 189 | Ruthie Bolton | 352 |
 | 191 | Jantel Lavender | 350 |
 | 192 | Sandy Brondello | 349 |
 | 193 | Ebony Hoffman | 347 |
@@ -1242,8 +1242,8 @@ _Last updated: 2026-05-15 02:51 UTC_
 | 195 | Kiesha Brown | 103 |
 | 197 | Adrienne Johnson | 102 |
 | 198 | Amber Jacobs | 101 |
+| 198 | **Julie Vanloo** 🔴 +2 | 101 |
 | 198 | Veronica Burton | 101 |
-| 200 | **Julie Vanloo** 🔴 +1 | 100 |
 
 ## Turnovers
 

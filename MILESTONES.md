@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-15 02:55 UTC
+
+- **Sug Sutton** passed **Lauren Jackson** for **#151** all-time in assists (career 436) — up from #155 entering today — _2.1 - 2nd — NY @ POR_
+
 ## 2026-05-15 02:31 UTC
 
 - **Betnijah Laney-Hamilton** passed **Marina Mabrey** for **#169** all-time in steals (career 203) — _End of 1st — NY @ POR_
