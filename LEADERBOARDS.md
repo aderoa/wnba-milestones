@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-15 23:49 UTC_
+_Last updated: 2026-05-15 23:50 UTC_
 
 ## Contents
 
@@ -138,7 +138,7 @@ _Last updated: 2026-05-15 23:49 UTC_
 | 117 | Leilani Mitchell | 2,618 |
 | 118 | Cynthia Cooper | 2,601 |
 | 119 | Tan White | 2,595 |
-| 120 | **Cheyenne Parker-Tyus** 🔴 | 2,565 |
+| 120 | **Cheyenne Parker-Tyus** 🔴 +2 | 2,567 |
 | 121 | Kelly Miller | 2,558 |
 | 122 | Glory Johnson | 2,531 |
 | 123 | Nikki McCray | 2,521 |
@@ -434,7 +434,7 @@ _Last updated: 2026-05-15 23:49 UTC_
 | 3 | Ticha Penicheiro | 2,588 |
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
-| 6 | **Chelsea Gray** 🔴 +2 | 1,872 |
+| 6 | **Chelsea Gray** 🔴 +3 | 1,873 |
 | 7 | Alyssa Thomas | 1,820 |
 | 8 | Skylar Diggins | 1,768 |
 | 9 | Natasha Cloud | 1,733 |
@@ -1618,11 +1618,11 @@ _Last updated: 2026-05-15 23:49 UTC_
 | 162 | Merlakia Jones | 506 |
 | 163 | Rushia Brown | 505 |
 | 163 | Shekinna Stricklen | 505 |
-| 165 | Allison Feaster | 504 |
-| 165 | Erin Perperoglou | 504 |
-| 165 | **Jackie Young** 🔴 +1 | 504 |
-| 165 | Napheesa Collier | 504 |
-| 165 | **Sophie Cunningham** 🔴 | 504 |
+| 163 | **Sophie Cunningham** 🔴 +1 | 505 |
+| 166 | Allison Feaster | 504 |
+| 166 | Erin Perperoglou | 504 |
+| 166 | **Jackie Young** 🔴 +1 | 504 |
+| 166 | Napheesa Collier | 504 |
 | 170 | **Monique Billings** 🔴 +1 | 503 |
 | 171 | Iziane Castro Marques | 502 |
 | 172 | Elena Baranova | 501 |
