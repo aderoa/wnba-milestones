@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-15 00:38 UTC_
+_Last updated: 2026-05-15 00:39 UTC_
 
 ## Contents
 
@@ -538,7 +538,7 @@ _Last updated: 2026-05-15 00:38 UTC_
 | 107 | Betnijah Laney-Hamilton | 573 |
 | 108 | Napheesa Collier | 570 |
 | 109 | Nicole Powell | 567 |
-| 110 | **Natasha Howard** 🔴 +2 | 564 |
+| 110 | **Natasha Howard** 🔴 +3 | 565 |
 | 111 | Loree Moore | 562 |
 | 112 | Sophia Young-Malcolm | 554 |
 | 112 | Tangela Smith | 554 |
@@ -1172,7 +1172,7 @@ _Last updated: 2026-05-15 00:38 UTC_
 | 126 | Amanda Lassiter | 170 |
 | 127 | Shavonte Zellous | 167 |
 | 127 | Tianna Hawkins | 167 |
-| 129 | **Nia Coffey** 🔴 | 165 |
+| 129 | **Nia Coffey** 🔴 +1 | 166 |
 | 130 | Charlotte Smith | 164 |
 | 131 | Ukari Figgs | 162 |
 | 132 | Edna Campbell | 161 |
