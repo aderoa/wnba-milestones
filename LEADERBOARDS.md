@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-15 03:12 UTC_
+_Last updated: 2026-05-15 03:13 UTC_
 
 ## Contents
 
@@ -33,7 +33,7 @@ _Last updated: 2026-05-15 03:12 UTC_
 | 12 | Sylvia Fowles | 6,413 |
 | 13 | Lisa Leslie | 6,251 |
 | 14 | Jewell Loyd | 6,027 |
-| 15 | **Breanna Stewart** 🔴 +7 | 6,023 |
+| 15 | **Breanna Stewart** 🔴 +9 | 6,025 |
 | 16 | Lauren Jackson | 6,005 |
 | 16 | Seimone Augustus | 6,005 |
 | 18 | Brittney Griner | 5,967 |
@@ -237,7 +237,7 @@ _Last updated: 2026-05-15 03:12 UTC_
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | Alyssa Thomas | 2,740 |
 | 13 | Sancho Lyttle | 2,596 |
-| 14 | **Jonquel Jones** 🔴 +6 | 2,581 |
+| 14 | **Jonquel Jones** 🔴 +7 | 2,582 |
 | 15 | DeLisha Milton-Jones | 2,574 |
 | 16 | Brittney Griner | 2,531 |
 | 17 | Swin Cash | 2,521 |
@@ -771,8 +771,8 @@ _Last updated: 2026-05-15 03:12 UTC_
 | 135 | Imani McGee-Stafford | 95 |
 | 135 | Isabelle Harrison | 95 |
 | 137 | Sandrine Gruda | 94 |
+| 138 | **Emily Engstler** 🔴 +1 | 93 |
 | 138 | Kamilla Cardoso | 93 |
-| 139 | **Emily Engstler** 🔴 | 92 |
 | 140 | Jasmine Thomas | 91 |
 | 140 | Jewell Loyd | 91 |
 | 140 | Kayla Alexander | 91 |
