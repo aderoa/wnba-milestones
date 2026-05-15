@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-15 02:11 UTC_
+_Last updated: 2026-05-15 02:12 UTC_
 
 ## Contents
 
@@ -583,7 +583,7 @@ _Last updated: 2026-05-15 02:11 UTC_
 | 152 | Adrienne Goodson | 433 |
 | 152 | Crystal Langhorne | 433 |
 | 154 | Elena Baranova | 430 |
-| 154 | Sug Sutton | 430 |
+| 154 | **Sug Sutton** 🔴 | 430 |
 | 156 | Tierra Ruffin-Pratt | 424 |
 | 157 | Kedra Holland-Corn | 423 |
 | 158 | Crystal Dangerfield | 418 |
