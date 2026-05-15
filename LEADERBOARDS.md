@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-15 00:28 UTC_
+_Last updated: 2026-05-15 00:29 UTC_
 
 ## Contents
 
@@ -922,7 +922,7 @@ _Last updated: 2026-05-15 00:28 UTC_
 | 80 | Leilani Mitchell | 330 |
 | 82 | Kristi Toliver | 329 |
 | 83 | Matee Ajavon | 328 |
-| 84 | **Odyssey Sims** 🔴 +1 | 327 |
+| 83 | **Odyssey Sims** 🔴 +2 | 328 |
 | 85 | Napheesa Collier | 325 |
 | 86 | Betty Lennox | 323 |
 | 87 | Tammy Sutton-Brown | 319 |
