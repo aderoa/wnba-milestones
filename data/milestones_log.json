@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-15T02:01:00+00:00",
+    "text": "Kayla McBride passed Vicky Bullett for #101 all-time in rebounds (career 1,190) \u2014 up from #103 entering today \u2014 (51.0 - 4th \u2014 MIN @ DAL)",
+    "kind": "rank_pass",
+    "player": "Kayla McBride",
+    "stat": "rebounds",
+    "rank": 101,
+    "passed_players": [
+      "Vicky Bullett"
+    ],
+    "new_total": 1190
+  },
+  {
     "ts": "2026-05-15T01:41:00+00:00",
     "text": "Odyssey Sims passed Matee Ajavon for #83 all-time in steals (career 329) \u2014 up from #84 entering today \u2014 (7:26 - 4th \u2014 MIN @ DAL)",
     "kind": "rank_pass",
@@ -2959,14 +2971,5 @@
       "Epiphanny Prince"
     ],
     "new_total": 802
-  },
-  {
-    "ts": "2026-05-09T18:38:00+00:00",
-    "text": "Sophie Cunningham reached 300 career assists (now 300) \u2014 (17.6 - 3rd \u2014 DAL @ IND)",
-    "kind": "round",
-    "player": "Sophie Cunningham",
-    "stat": "assists",
-    "value": 300,
-    "new_total": 300
   }
 ]
