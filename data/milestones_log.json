@@ -1,5 +1,14 @@
 [
   {
+    "ts": "2026-05-15T04:00:00+00:00",
+    "text": "Marine Johann\u00e8s reached 200 career assists (now 200) \u2014 (2:08 - 4th \u2014 NY @ POR)",
+    "kind": "round",
+    "player": "Marine Johann\u00e8s",
+    "stat": "assists",
+    "value": 200,
+    "new_total": 200
+  },
+  {
     "ts": "2026-05-15T03:52:00+00:00",
     "text": "Sug Sutton passed Michelle Snow for #150 all-time in assists (career 438) \u2014 up from #155 entering today \u2014 (4:55 - 4th \u2014 NY @ POR)",
     "kind": "rank_pass",
@@ -2965,18 +2974,5 @@
       "Sonja Henning"
     ],
     "new_total": 344
-  },
-  {
-    "ts": "2026-05-09T18:38:00+00:00",
-    "text": "Alanna Smith passed Kayla Thornton and Merlakia Jones for #186 all-time in assists (career 356) \u2014 (17.6 - 3rd \u2014 DAL @ IND)",
-    "kind": "rank_pass",
-    "player": "Alanna Smith",
-    "stat": "assists",
-    "rank": 186,
-    "passed_players": [
-      "Kayla Thornton",
-      "Merlakia Jones"
-    ],
-    "new_total": 356
   }
 ]

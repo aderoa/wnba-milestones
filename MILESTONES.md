@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-15 04:00 UTC
+
+- **Marine Johannès** reached **200** career assists (now 200) — _2:08 - 4th — NY @ POR_
+
 ## 2026-05-15 03:52 UTC
 
 - **Sug Sutton** passed **Michelle Snow** for **#150** all-time in assists (career 438) — up from #155 entering today — _4:55 - 4th — NY @ POR_
