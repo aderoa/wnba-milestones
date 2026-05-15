@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-15 23:37 UTC_
+_Last updated: 2026-05-15 23:38 UTC_
 
 ## Contents
 
@@ -61,7 +61,7 @@ _Last updated: 2026-05-15 23:37 UTC_
 | 40 | Arike Ogunbowale | 4,464 |
 | 41 | Crystal Langhorne | 4,433 |
 | 41 | Jia Perkins | 4,433 |
-| 43 | **Chelsea Gray** 🔴 | 4,409 |
+| 43 | **Chelsea Gray** 🔴 +2 | 4,411 |
 | 44 | Natasha Howard | 4,367 |
 | 45 | Courtney Vandersloot | 4,352 |
 | 46 | Sophia Young-Malcolm | 4,300 |
@@ -217,7 +217,7 @@ _Last updated: 2026-05-15 23:37 UTC_
 | 196 | Le'coe Willingham | 1,552 |
 | 197 | Shatori Walker-Kimbrough | 1,544 |
 | 198 | Rebecca Allen | 1,514 |
-| 199 | **Monique Billings** 🔴 +2 | 1,507 |
+| 199 | **Monique Billings** 🔴 +4 | 1,509 |
 | 200 | Jennifer Lacy | 1,504 |
 
 ## Rebounds
@@ -301,8 +301,8 @@ _Last updated: 2026-05-15 23:37 UTC_
 | 75 | Sheri Sam | 1,356 |
 | 76 | Tamika Whitmore | 1,355 |
 | 77 | Emma Meesseman | 1,350 |
-| 78 | Allisha Gray | 1,347 |
-| 78 | **Monique Billings** 🔴 +2 | 1,347 |
+| 78 | **Monique Billings** 🔴 +3 | 1,348 |
+| 79 | Allisha Gray | 1,347 |
 | 80 | Elena Baranova | 1,335 |
 | 81 | Brionna Jones | 1,333 |
 | 82 | Jewell Loyd | 1,331 |
@@ -471,7 +471,7 @@ _Last updated: 2026-05-15 23:37 UTC_
 | 40 | Dominique Canty | 1,042 |
 | 41 | Sheryl Swoopes | 1,037 |
 | 42 | Tina Charles | 1,033 |
-| 43 | **Jackie Young** 🔴 +1 | 1,030 |
+| 43 | **Jackie Young** 🔴 +2 | 1,031 |
 | 44 | Nikki Teasley | 982 |
 | 45 | Tamecka Dixon | 960 |
 | 46 | Kara Lawson | 946 |
