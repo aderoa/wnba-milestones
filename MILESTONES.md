@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-15 03:23 UTC
+
+- **Julie Vanloo** passed **Amber Jacobs** and **Veronica Burton** for **#198** all-time in three-pointers (career 102) — up from #200 entering today — _4:02 - 3rd — NY @ POR_
+
 ## 2026-05-15 02:55 UTC
 
 - **Sug Sutton** passed **Lauren Jackson** for **#151** all-time in assists (career 436) — up from #155 entering today — _2.1 - 2nd — NY @ POR_

@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-05-15T03:23:00+00:00",
+    "text": "Julie Vanloo passed Amber Jacobs and Veronica Burton for #198 all-time in three-pointers (career 102) \u2014 up from #200 entering today \u2014 (4:02 - 3rd \u2014 NY @ POR)",
+    "kind": "rank_pass",
+    "player": "Julie Vanloo",
+    "stat": "three-pointers",
+    "rank": 198,
+    "passed_players": [
+      "Amber Jacobs",
+      "Veronica Burton"
+    ],
+    "new_total": 102
+  },
+  {
     "ts": "2026-05-15T02:55:00+00:00",
     "text": "Sug Sutton passed Lauren Jackson for #151 all-time in assists (career 436) \u2014 up from #155 entering today \u2014 (2.1 - 2nd \u2014 NY @ POR)",
     "kind": "rank_pass",
@@ -2966,17 +2979,5 @@
       "Sabrina Ionescu"
     ],
     "new_total": 183
-  },
-  {
-    "ts": "2026-05-09T18:38:00+00:00",
-    "text": "Odyssey Sims passed Jasmine Thomas for #70 all-time in points (career 3,529) \u2014 up from #71 entering today \u2014 (17.6 - 3rd \u2014 DAL @ IND)",
-    "kind": "rank_pass",
-    "player": "Odyssey Sims",
-    "stat": "points",
-    "rank": 70,
-    "passed_players": [
-      "Jasmine Thomas"
-    ],
-    "new_total": 3529
   }
 ]
