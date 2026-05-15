@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-15 23:58 UTC_
+_Last updated: 2026-05-15 23:59 UTC_
 
 ## Contents
 
@@ -752,9 +752,9 @@ _Last updated: 2026-05-15 23:58 UTC_
 | 116 | Sylvia Crawley | 106 |
 | 117 | Carolyn Swords | 104 |
 | 117 | Rebecca Lobo | 104 |
-| 119 | Jennifer Gillom | 103 |
-| 119 | Jia Perkins | 103 |
-| 119 | **Shakira Austin** 🔴 | 103 |
+| 117 | **Shakira Austin** 🔴 +1 | 104 |
+| 120 | Jennifer Gillom | 103 |
+| 120 | Jia Perkins | 103 |
 | 122 | Theresa Plaisance | 102 |
 | 123 | Courtney Williams | 101 |
 | 123 | Deanna Nolan | 101 |
@@ -1282,7 +1282,7 @@ _Last updated: 2026-05-15 23:58 UTC_
 | 31 | Natasha Howard | 784 |
 | 32 | Crystal Langhorne | 782 |
 | 32 | Nneka Ogwumike | 782 |
-| 34 | **Jewell Loyd** 🔴 | 780 |
+| 34 | **Jewell Loyd** 🔴 +1 | 781 |
 | 35 | Camille Smith | 779 |
 | 36 | Plenette Pierson | 773 |
 | 37 | Briann January | 771 |
@@ -1380,7 +1380,7 @@ _Last updated: 2026-05-15 23:58 UTC_
 | 129 | Alysha Clark | 437 |
 | 129 | Ariel Atkins | 437 |
 | 129 | Betnijah Laney-Hamilton | 437 |
-| 132 | **Cheyenne Parker-Tyus** 🔴 +1 | 436 |
+| 129 | **Cheyenne Parker-Tyus** 🔴 +2 | 437 |
 | 133 | Jennifer Gillom | 434 |
 | 133 | Nicole Ohlde | 434 |
 | 135 | Murriel Page | 432 |
@@ -1551,12 +1551,12 @@ _Last updated: 2026-05-15 23:58 UTC_
 | 95 | Kelly Miller | 676 |
 | 96 | Chamique Holdsclaw | 667 |
 | 97 | Brittney Sykes | 666 |
-| 98 | Tianna Hawkins | 662 |
-| 99 | **Cheyenne Parker-Tyus** 🔴 +1 | 661 |
+| 98 | **Cheyenne Parker-Tyus** 🔴 +3 | 663 |
+| 99 | Tianna Hawkins | 662 |
 | 100 | Kelsey Plum | 658 |
 | 101 | Tari Phillips | 648 |
 | 102 | Marie Ferdinand-Harris | 646 |
-| 103 | **Jewell Loyd** 🔴 | 644 |
+| 103 | **Jewell Loyd** 🔴 +1 | 645 |
 | 104 | Breanna Stewart | 643 |
 | 105 | Kayla Thornton | 640 |
 | 106 | Charlotte Smith | 638 |
