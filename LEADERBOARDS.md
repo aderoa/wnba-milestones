@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-15 23:42 UTC_
+_Last updated: 2026-05-15 23:43 UTC_
 
 ## Contents
 
@@ -39,7 +39,7 @@ _Last updated: 2026-05-15 23:42 UTC_
 | 18 | Brittney Griner | 5,967 |
 | 19 | Becky Hammon | 5,816 |
 | 20 | Angel McCoughtry | 5,797 |
-| 21 | **A'ja Wilson** 🔴 +8 | 5,727 |
+| 21 | **A'ja Wilson** 🔴 +10 | 5,729 |
 | 22 | DeLisha Milton-Jones | 5,571 |
 | 23 | Katie Douglas | 5,545 |
 | 24 | Lindsay Whalen | 5,511 |
@@ -642,7 +642,7 @@ _Last updated: 2026-05-15 23:42 UTC_
 | 6 | Lauren Jackson | 586 |
 | 7 | Tammy Sutton-Brown | 555 |
 | 8 | Tangela Smith | 554 |
-| 9 | **A'ja Wilson** 🔴 +1 | 534 |
+| 9 | **A'ja Wilson** 🔴 +2 | 535 |
 | 10 | Ruth Riley | 505 |
 | 11 | Elizabeth Williams | 483 |
 | 12 | Taj McWilliams-Franklin | 443 |
@@ -1233,9 +1233,9 @@ _Last updated: 2026-05-15 23:42 UTC_
 | 186 | **Lexie Hull** 🔴 | 109 |
 | 186 | Scholanda Dorrell | 109 |
 | 189 | Belinda Snell | 108 |
+| 189 | **Kennedy Burke** 🔴 +1 | 108 |
 | 189 | Rickea Jackson | 108 |
-| 191 | **Kennedy Burke** 🔴 | 107 |
-| 191 | Layshia Clarendon | 107 |
+| 192 | Layshia Clarendon | 107 |
 | 193 | Leonie Fiebich | 106 |
 | 194 | Laurie Koehn | 105 |
 | 195 | Jeanette Pohlen-Mavunga | 103 |
