@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-15 00:41 UTC_
+_Last updated: 2026-05-15 00:42 UTC_
 
 ## Contents
 
@@ -326,7 +326,7 @@ _Last updated: 2026-05-15 00:41 UTC_
 | 99 | Tanisha Wright | 1,190 |
 | 101 | Vicky Bullett | 1,189 |
 | 102 | Chelsea Gray | 1,188 |
-| 103 | **Kayla McBride** 🔴 +2 | 1,184 |
+| 103 | **Kayla McBride** 🔴 +4 | 1,186 |
 | 104 | Nykesha Sales | 1,148 |
 | 105 | Shannon Johnson | 1,143 |
 | 106 | Kahleah Copper | 1,140 |
@@ -710,9 +710,9 @@ _Last updated: 2026-05-15 00:41 UTC_
 | 73 | Tamika Whitmore | 155 |
 | 75 | Ann Wauters | 153 |
 | 75 | Sue Wicks | 153 |
-| 77 | Allisha Gray | 151 |
-| 77 | Jessica Davenport | 151 |
-| 77 | **Nia Coffey** 🔴 | 151 |
+| 77 | **Nia Coffey** 🔴 +1 | 152 |
+| 78 | Allisha Gray | 151 |
+| 78 | Jessica Davenport | 151 |
 | 80 | Alison Bales | 148 |
 | 81 | Chamique Holdsclaw | 143 |
 | 82 | Aliyah Boston | 140 |
@@ -1650,7 +1650,7 @@ _Last updated: 2026-05-15 00:41 UTC_
 | 194 | Natalie Achonwa | 459 |
 | 195 | Kara Lawson | 457 |
 | 196 | Alexis Hornbuckle | 450 |
-| 197 | Bria Hartley | 448 |
-| 197 | **Nia Coffey** 🔴 | 448 |
+| 197 | **Nia Coffey** 🔴 +1 | 449 |
+| 198 | Bria Hartley | 448 |
 | 199 | Diamond DeShields | 445 |
 | 199 | Sugar Rodgers | 445 |
