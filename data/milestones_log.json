@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-15T01:12:00+00:00",
+    "text": "Natasha Howard passed Chamique Holdsclaw for #30 all-time in turnovers (career 790) \u2014 up from #31 entering today \u2014 (6:32 - 3rd \u2014 MIN @ DAL)",
+    "kind": "rank_pass",
+    "player": "Natasha Howard",
+    "stat": "turnovers",
+    "rank": 30,
+    "passed_players": [
+      "Chamique Holdsclaw"
+    ],
+    "new_total": 790
+  },
+  {
     "ts": "2026-05-15T00:46:00+00:00",
     "text": "Paige Bueckers reached 200 career assists (now 200) \u2014 (1:59 - 2nd \u2014 MIN @ DAL)",
     "kind": "round",
@@ -2961,17 +2973,5 @@
       "Alanna Smith"
     ],
     "new_total": 153
-  },
-  {
-    "ts": "2026-05-09T18:38:00+00:00",
-    "text": "Damiris Dantas passed Danielle Adams for #178 all-time in points (career 1,821) \u2014 up from #179 entering today \u2014 (17.6 - 3rd \u2014 DAL @ IND)",
-    "kind": "rank_pass",
-    "player": "Damiris Dantas",
-    "stat": "points",
-    "rank": 178,
-    "passed_players": [
-      "Danielle Adams"
-    ],
-    "new_total": 1821
   }
 ]

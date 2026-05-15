@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-15 01:11 UTC_
+_Last updated: 2026-05-15 01:12 UTC_
 
 ## Contents
 
@@ -62,7 +62,7 @@ _Last updated: 2026-05-15 01:11 UTC_
 | 41 | Crystal Langhorne | 4,433 |
 | 41 | Jia Perkins | 4,433 |
 | 43 | Chelsea Gray | 4,409 |
-| 44 | **Natasha Howard** 🔴 +7 | 4,374 |
+| 44 | **Natasha Howard** 🔴 +9 | 4,376 |
 | 45 | Courtney Vandersloot | 4,352 |
 | 46 | Sophia Young-Malcolm | 4,300 |
 | 47 | Plenette Pierson | 4,258 |
@@ -251,7 +251,7 @@ _Last updated: 2026-05-15 01:11 UTC_
 | 25 | Dearica Hamby | 2,317 |
 | 26 | Erika de Souza | 2,220 |
 | 27 | Diana Taurasi | 2,201 |
-| 28 | **Natasha Howard** 🔴 +1 | 2,175 |
+| 28 | **Natasha Howard** 🔴 +2 | 2,176 |
 | 29 | Margo Dydek | 2,138 |
 | 30 | Chamique Holdsclaw | 2,123 |
 | 31 | Chasity Melvin | 2,097 |
@@ -326,7 +326,7 @@ _Last updated: 2026-05-15 01:11 UTC_
 | 99 | Tanisha Wright | 1,190 |
 | 101 | Vicky Bullett | 1,189 |
 | 102 | Chelsea Gray | 1,188 |
-| 103 | **Kayla McBride** 🔴 +4 | 1,186 |
+| 102 | **Kayla McBride** 🔴 +6 | 1,188 |
 | 104 | Nykesha Sales | 1,148 |
 | 105 | Shannon Johnson | 1,143 |
 | 106 | Kahleah Copper | 1,140 |
@@ -1278,8 +1278,8 @@ _Last updated: 2026-05-15 01:11 UTC_
 | 27 | Katie Douglas | 824 |
 | 28 | Betty Lennox | 800 |
 | 29 | Jasmine Thomas | 796 |
-| 30 | Chamique Holdsclaw | 789 |
-| 30 | **Natasha Howard** 🔴 +5 | 789 |
+| 30 | **Natasha Howard** 🔴 +6 | 790 |
+| 31 | Chamique Holdsclaw | 789 |
 | 32 | Crystal Langhorne | 782 |
 | 32 | Nneka Ogwumike | 782 |
 | 34 | Jewell Loyd | 780 |
@@ -1314,7 +1314,7 @@ _Last updated: 2026-05-15 01:11 UTC_
 | 63 | Dawn Staley | 643 |
 | 64 | Ruth Riley | 637 |
 | 65 | Svetlana Abrosimova | 631 |
-| 66 | **Kayla McBride** 🔴 | 622 |
+| 66 | **Kayla McBride** 🔴 +1 | 623 |
 | 67 | **Odyssey Sims** 🔴 | 616 |
 | 68 | Rebekkah Brunson | 615 |
 | 69 | Seimone Augustus | 613 |
