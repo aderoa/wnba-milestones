@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-15 02:20 UTC_
+_Last updated: 2026-05-15 02:21 UTC_
 
 ## Contents
 
@@ -1335,9 +1335,9 @@ _Last updated: 2026-05-15 02:20 UTC_
 | 84 | Sancho Lyttle | 563 |
 | 85 | Brittney Sykes | 558 |
 | 86 | Tan White | 557 |
-| 87 | **Breanna Stewart** 🔴 | 549 |
-| 87 | Kelsey Mitchell | 549 |
-| 87 | Lauren Jackson | 549 |
+| 87 | **Breanna Stewart** 🔴 +1 | 550 |
+| 88 | Kelsey Mitchell | 549 |
+| 88 | Lauren Jackson | 549 |
 | 90 | Matee Ajavon | 544 |
 | 91 | Adrienne Goodson | 542 |
 | 92 | Layshia Clarendon | 536 |
@@ -1556,8 +1556,8 @@ _Last updated: 2026-05-15 02:20 UTC_
 | 100 | Kelsey Plum | 658 |
 | 101 | Tari Phillips | 648 |
 | 102 | Marie Ferdinand-Harris | 646 |
+| 103 | **Breanna Stewart** 🔴 +1 | 644 |
 | 103 | Jewell Loyd | 644 |
-| 104 | **Breanna Stewart** 🔴 | 643 |
 | 105 | Kayla Thornton | 640 |
 | 106 | Charlotte Smith | 638 |
 | 107 | Janell Burse | 632 |
