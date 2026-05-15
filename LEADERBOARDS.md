@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-15 01:26 UTC_
+_Last updated: 2026-05-15 01:27 UTC_
 
 ## Contents
 
@@ -62,7 +62,7 @@ _Last updated: 2026-05-15 01:26 UTC_
 | 41 | Crystal Langhorne | 4,433 |
 | 41 | Jia Perkins | 4,433 |
 | 43 | Chelsea Gray | 4,409 |
-| 44 | **Natasha Howard** 🔴 +11 | 4,378 |
+| 44 | **Natasha Howard** 🔴 +13 | 4,380 |
 | 45 | Courtney Vandersloot | 4,352 |
 | 46 | Sophia Young-Malcolm | 4,300 |
 | 47 | Plenette Pierson | 4,258 |
@@ -251,7 +251,7 @@ _Last updated: 2026-05-15 01:26 UTC_
 | 25 | Dearica Hamby | 2,317 |
 | 26 | Erika de Souza | 2,220 |
 | 27 | Diana Taurasi | 2,201 |
-| 28 | **Natasha Howard** 🔴 +3 | 2,177 |
+| 28 | **Natasha Howard** 🔴 +4 | 2,178 |
 | 29 | Margo Dydek | 2,138 |
 | 30 | Chamique Holdsclaw | 2,123 |
 | 31 | Chasity Melvin | 2,097 |
@@ -1314,7 +1314,7 @@ _Last updated: 2026-05-15 01:26 UTC_
 | 63 | Dawn Staley | 643 |
 | 64 | Ruth Riley | 637 |
 | 65 | Svetlana Abrosimova | 631 |
-| 66 | **Kayla McBride** 🔴 +2 | 624 |
+| 66 | **Kayla McBride** 🔴 +1 | 623 |
 | 67 | **Odyssey Sims** 🔴 | 616 |
 | 68 | Rebekkah Brunson | 615 |
 | 69 | Seimone Augustus | 613 |
@@ -1652,5 +1652,6 @@ _Last updated: 2026-05-15 01:26 UTC_
 | 196 | Alexis Hornbuckle | 450 |
 | 196 | **Nia Coffey** 🔴 +2 | 450 |
 | 198 | Bria Hartley | 448 |
+| 199 | **Alanna Smith** 🔴 +2 | 445 |
 | 199 | Diamond DeShields | 445 |
 | 199 | Sugar Rodgers | 445 |
