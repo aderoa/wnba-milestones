@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-15 23:38 UTC_
+_Last updated: 2026-05-15 23:39 UTC_
 
 ## Contents
 
@@ -197,7 +197,7 @@ _Last updated: 2026-05-15 23:38 UTC_
 | 176 | Tianna Hawkins | 1,825 |
 | 177 | Noelle Quinn | 1,824 |
 | 178 | Danielle Adams | 1,820 |
-| 179 | Damiris Dantas | 1,814 |
+| 179 | **Damiris Dantas** 🔴 | 1,814 |
 | 180 | **Aliyah Boston** 🔴 +5 | 1,803 |
 | 181 | Charde Houston | 1,797 |
 | 182 | Kamila Vodichkova | 1,767 |
@@ -355,7 +355,7 @@ _Last updated: 2026-05-15 23:38 UTC_
 | 129 | **Jackie Young** 🔴 +1 | 1,003 |
 | 130 | Tiffany Jackson | 1,002 |
 | 131 | Tianna Hawkins | 1,000 |
-| 132 | Damiris Dantas | 995 |
+| 132 | **Damiris Dantas** 🔴 | 995 |
 | 132 | Marissa Coleman | 995 |
 | 134 | Kristen Rasmussen | 993 |
 | 134 | Sabrina Ionescu | 993 |
@@ -608,7 +608,7 @@ _Last updated: 2026-05-15 23:38 UTC_
 | 177 | Shenise Johnson | 376 |
 | 178 | **Stephanie Talbot** 🔴 +1 | 373 |
 | 179 | Suzie McConnell Serio | 370 |
-| 180 | Damiris Dantas | 367 |
+| 180 | **Damiris Dantas** 🔴 | 367 |
 | 181 | Roneeka Hodges | 362 |
 | 182 | Andrea Nagy | 361 |
 | 182 | Diamond DeShields | 361 |
@@ -794,7 +794,7 @@ _Last updated: 2026-05-15 23:38 UTC_
 | 157 | Cintia dos Santos | 81 |
 | 157 | Jessie Hicks | 81 |
 | 157 | Natasha Cloud | 81 |
-| 161 | Damiris Dantas | 80 |
+| 161 | **Damiris Dantas** 🔴 | 80 |
 | 161 | Nykesha Sales | 80 |
 | 161 | Rushia Brown | 80 |
 | 164 | Astou Ndour-Fall | 78 |
@@ -1150,7 +1150,7 @@ _Last updated: 2026-05-15 23:38 UTC_
 | 104 | Satou Sabally | 212 |
 | 105 | Erin Phillips | 211 |
 | 106 | Andrea Stinson | 207 |
-| 106 | Damiris Dantas | 207 |
+| 106 | **Damiris Dantas** 🔴 | 207 |
 | 108 | Shanna Zolman | 199 |
 | 109 | Betnijah Laney-Hamilton | 197 |
 | 109 | Temeka Johnson | 197 |
@@ -1230,7 +1230,7 @@ _Last updated: 2026-05-15 23:38 UTC_
 | 184 | Jordin Canada | 111 |
 | 184 | Shoni Schimmel | 111 |
 | 186 | Emma Meesseman | 109 |
-| 186 | Lexie Hull | 109 |
+| 186 | **Lexie Hull** 🔴 | 109 |
 | 186 | Scholanda Dorrell | 109 |
 | 189 | Belinda Snell | 108 |
 | 189 | Rickea Jackson | 108 |
@@ -1608,7 +1608,7 @@ _Last updated: 2026-05-15 23:38 UTC_
 | 152 | Sheryl Swoopes | 519 |
 | 153 | Nikki McCray | 517 |
 | 154 | Alex Bentley | 516 |
-| 154 | Damiris Dantas | 516 |
+| 154 | **Damiris Dantas** 🔴 | 516 |
 | 156 | Jantel Lavender | 513 |
 | 157 | Adrienne Goodson | 512 |
 | 157 | Janeth Arcain | 512 |
