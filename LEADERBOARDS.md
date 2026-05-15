@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-15 01:27 UTC_
+_Last updated: 2026-05-15 01:28 UTC_
 
 ## Contents
 
@@ -62,7 +62,7 @@ _Last updated: 2026-05-15 01:27 UTC_
 | 41 | Crystal Langhorne | 4,433 |
 | 41 | Jia Perkins | 4,433 |
 | 43 | Chelsea Gray | 4,409 |
-| 44 | **Natasha Howard** 🔴 +13 | 4,380 |
+| 44 | **Natasha Howard** 🔴 +14 | 4,381 |
 | 45 | Courtney Vandersloot | 4,352 |
 | 46 | Sophia Young-Malcolm | 4,300 |
 | 47 | Plenette Pierson | 4,258 |
@@ -626,8 +626,8 @@ _Last updated: 2026-05-15 01:27 UTC_
 | 195 | Kristen Rasmussen | 345 |
 | 195 | Penny Toler | 345 |
 | 197 | Ezi Magbegor | 344 |
+| 198 | **Jessica Shepard** 🔴 +4 | 341 |
 | 198 | Sonja Henning | 341 |
-| 199 | **Jessica Shepard** 🔴 +3 | 340 |
 | 200 | Alexis Hornbuckle | 336 |
 
 ## Blocks
@@ -1652,6 +1652,6 @@ _Last updated: 2026-05-15 01:27 UTC_
 | 196 | Alexis Hornbuckle | 450 |
 | 196 | **Nia Coffey** 🔴 +2 | 450 |
 | 198 | Bria Hartley | 448 |
-| 199 | **Alanna Smith** 🔴 +2 | 445 |
-| 199 | Diamond DeShields | 445 |
-| 199 | Sugar Rodgers | 445 |
+| 199 | **Alanna Smith** 🔴 +3 | 446 |
+| 200 | Diamond DeShields | 445 |
+| 200 | Sugar Rodgers | 445 |
