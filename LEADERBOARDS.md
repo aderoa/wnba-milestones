@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-15 01:53 UTC_
+_Last updated: 2026-05-15 01:54 UTC_
 
 ## Contents
 
@@ -44,7 +44,7 @@ _Last updated: 2026-05-15 01:53 UTC_
 | 23 | Katie Douglas | 5,545 |
 | 24 | Lindsay Whalen | 5,511 |
 | 25 | Skylar Diggins | 5,489 |
-| 26 | **Kayla McBride** 🔴 +7 | 5,396 |
+| 26 | **Kayla McBride** 🔴 +8 | 5,397 |
 | 27 | Swin Cash | 5,119 |
 | 28 | Tangela Smith | 5,035 |
 | 29 | Taj McWilliams-Franklin | 4,992 |
@@ -387,10 +387,10 @@ _Last updated: 2026-05-15 01:53 UTC_
 | 161 | Marlies Askamp | 822 |
 | 162 | Amanda Zahui B | 819 |
 | 162 | Barbara Farris | 819 |
+| 164 | **Jessica Shepard** 🔴 +5 | 818 |
 | 164 | Marina Mabrey | 818 |
-| 165 | **Jessica Shepard** 🔴 +4 | 817 |
 | 166 | Carolyn Swords | 814 |
-| 167 | **Nia Coffey** 🔴 +7 | 802 |
+| 167 | **Nia Coffey** 🔴 +8 | 803 |
 | 168 | Tierra Ruffin-Pratt | 799 |
 | 169 | Charlotte Smith | 794 |
 | 170 | Rhonda Mapp | 788 |
@@ -414,9 +414,9 @@ _Last updated: 2026-05-15 01:53 UTC_
 | 188 | Alex Montgomery | 735 |
 | 189 | Ashley Robinson | 734 |
 | 190 | Shenise Johnson | 729 |
+| 191 | **Arike Ogunbowale** 🔴 +4 | 726 |
 | 191 | Sami Whitcomb | 726 |
 | 191 | Shekinna Stricklen | 726 |
-| 193 | **Arike Ogunbowale** 🔴 +3 | 725 |
 | 194 | Kelsey Plum | 715 |
 | 195 | Olympia Scott | 711 |
 | 196 | Katie Mattera | 708 |
