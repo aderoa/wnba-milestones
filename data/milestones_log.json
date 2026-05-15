@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-15T02:31:00+00:00",
+    "text": "Betnijah Laney-Hamilton passed Marina Mabrey for #169 all-time in steals (career 203) \u2014 (End of 1st \u2014 NY @ POR)",
+    "kind": "rank_pass",
+    "player": "Betnijah Laney-Hamilton",
+    "stat": "steals",
+    "rank": 169,
+    "passed_players": [
+      "Marina Mabrey"
+    ],
+    "new_total": 203
+  },
+  {
     "ts": "2026-05-15T02:27:00+00:00",
     "text": "Rebecca Allen passed Myisha Hines-Allen and Nakia Sanford for #185 all-time in steals (career 182) \u2014 up from #187 entering today \u2014 (21.8 - 1st \u2014 NY @ POR)",
     "kind": "rank_pass",
@@ -2963,17 +2975,5 @@
     "stat": "fouls",
     "value": 600,
     "new_total": 600
-  },
-  {
-    "ts": "2026-05-09T18:38:00+00:00",
-    "text": "Arike Ogunbowale passed Kristi Toliver for #39 all-time in points (career 4,481) \u2014 up from #40 entering today \u2014 (17.6 - 3rd \u2014 DAL @ IND)",
-    "kind": "rank_pass",
-    "player": "Arike Ogunbowale",
-    "stat": "points",
-    "rank": 39,
-    "passed_players": [
-      "Kristi Toliver"
-    ],
-    "new_total": 4481
   }
 ]

@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-15 02:30 UTC_
+_Last updated: 2026-05-15 02:31 UTC_
 
 ## Contents
 
@@ -1006,8 +1006,8 @@ _Last updated: 2026-05-15 02:30 UTC_
 | 164 | Murriel Page | 204 |
 | 164 | Shatori Walker-Kimbrough | 204 |
 | 167 | Adrienne Goodson | 203 |
-| 168 | **Betnijah Laney-Hamilton** 🔴 | 202 |
-| 168 | Marina Mabrey | 202 |
+| 167 | **Betnijah Laney-Hamilton** 🔴 +1 | 203 |
+| 169 | Marina Mabrey | 202 |
 | 170 | Azurá Stevens | 201 |
 | 171 | Allie Quigley | 198 |
 | 172 | Layshia Clarendon | 195 |

@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-15 02:31 UTC
+
+- **Betnijah Laney-Hamilton** passed **Marina Mabrey** for **#169** all-time in steals (career 203) — _End of 1st — NY @ POR_
+
 ## 2026-05-15 02:27 UTC
 
 - **Rebecca Allen** passed **Myisha Hines-Allen** and **Nakia Sanford** for **#185** all-time in steals (career 182) — up from #187 entering today — _21.8 - 1st — NY @ POR_
