@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-05-15T02:22:00+00:00",
+    "text": "Sug Sutton passed Adrienne Goodson and Crystal Langhorne for #152 all-time in assists (career 434) \u2014 up from #155 entering today \u2014 (3:26 - 1st \u2014 NY @ POR)",
+    "kind": "rank_pass",
+    "player": "Sug Sutton",
+    "stat": "assists",
+    "rank": 152,
+    "passed_players": [
+      "Adrienne Goodson",
+      "Crystal Langhorne"
+    ],
+    "new_total": 434
+  },
+  {
     "ts": "2026-05-15T02:13:00+00:00",
     "text": "Sug Sutton passed Elena Baranova for #154 all-time in assists (career 431) \u2014 up from #155 entering today \u2014 (5:53 - 1st \u2014 NY @ POR)",
     "kind": "rank_pass",
@@ -2962,14 +2975,5 @@
       "Ivory Latta"
     ],
     "new_total": 568
-  },
-  {
-    "ts": "2026-05-09T18:38:00+00:00",
-    "text": "Kelsey Mitchell reached 800 career assists (now 802) \u2014 (17.6 - 3rd \u2014 DAL @ IND)",
-    "kind": "round",
-    "player": "Kelsey Mitchell",
-    "stat": "assists",
-    "value": 800,
-    "new_total": 802
   }
 ]

@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-15 02:21 UTC_
+_Last updated: 2026-05-15 02:22 UTC_
 
 ## Contents
 
@@ -580,9 +580,9 @@ _Last updated: 2026-05-15 02:21 UTC_
 | 149 | Tyasha Harris | 441 |
 | 150 | Michelle Snow | 437 |
 | 151 | Lauren Jackson | 435 |
-| 152 | Adrienne Goodson | 433 |
-| 152 | Crystal Langhorne | 433 |
-| 152 | **Sug Sutton** 🔴 +3 | 433 |
+| 152 | **Sug Sutton** 🔴 +4 | 434 |
+| 153 | Adrienne Goodson | 433 |
+| 153 | Crystal Langhorne | 433 |
 | 155 | Elena Baranova | 430 |
 | 156 | Tierra Ruffin-Pratt | 424 |
 | 157 | Kedra Holland-Corn | 423 |
