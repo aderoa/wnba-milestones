@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-15 01:57 UTC_
+_Last updated: 2026-05-15 01:58 UTC_
 
 ## Contents
 
@@ -62,7 +62,7 @@ _Last updated: 2026-05-15 01:57 UTC_
 | 41 | Crystal Langhorne | 4,433 |
 | 41 | Jia Perkins | 4,433 |
 | 43 | Chelsea Gray | 4,409 |
-| 44 | **Natasha Howard** 🔴 +22 | 4,389 |
+| 44 | **Natasha Howard** 🔴 +24 | 4,391 |
 | 45 | Courtney Vandersloot | 4,352 |
 | 46 | Sophia Young-Malcolm | 4,300 |
 | 47 | Plenette Pierson | 4,258 |
@@ -387,8 +387,8 @@ _Last updated: 2026-05-15 01:57 UTC_
 | 161 | Marlies Askamp | 822 |
 | 162 | Amanda Zahui B | 819 |
 | 162 | Barbara Farris | 819 |
-| 164 | **Jessica Shepard** 🔴 +5 | 818 |
-| 164 | Marina Mabrey | 818 |
+| 162 | **Jessica Shepard** 🔴 +6 | 819 |
+| 165 | Marina Mabrey | 818 |
 | 166 | Carolyn Swords | 814 |
 | 167 | **Nia Coffey** 🔴 +8 | 803 |
 | 168 | Tierra Ruffin-Pratt | 799 |
