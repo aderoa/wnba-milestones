@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-15 00:11 UTC_
+_Last updated: 2026-05-15 00:12 UTC_
 
 ## Contents
 
@@ -379,7 +379,7 @@ _Last updated: 2026-05-15 00:11 UTC_
 | 153 | Krystal Thomas | 862 |
 | 154 | Erica Wheeler | 852 |
 | 155 | Leilani Mitchell | 845 |
-| 156 | **Alanna Smith** 🔴 | 834 |
+| 156 | **Alanna Smith** 🔴 +1 | 835 |
 | 157 | Essence Carson | 833 |
 | 158 | Kristi Toliver | 829 |
 | 159 | Marie Ferdinand-Harris | 828 |
@@ -627,7 +627,7 @@ _Last updated: 2026-05-15 00:11 UTC_
 | 195 | Penny Toler | 345 |
 | 197 | Ezi Magbegor | 344 |
 | 198 | Sonja Henning | 341 |
-| 199 | **Jessica Shepard** 🔴 +1 | 338 |
+| 199 | **Jessica Shepard** 🔴 +2 | 339 |
 | 200 | Alexis Hornbuckle | 336 |
 
 ## Blocks
