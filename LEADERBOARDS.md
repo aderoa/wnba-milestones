@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-15 23:34 UTC_
+_Last updated: 2026-05-15 23:35 UTC_
 
 ## Contents
 
@@ -39,7 +39,7 @@ _Last updated: 2026-05-15 23:34 UTC_
 | 18 | Brittney Griner | 5,967 |
 | 19 | Becky Hammon | 5,816 |
 | 20 | Angel McCoughtry | 5,797 |
-| 21 | **A'ja Wilson** 🔴 +2 | 5,721 |
+| 21 | **A'ja Wilson** 🔴 +4 | 5,723 |
 | 22 | DeLisha Milton-Jones | 5,571 |
 | 23 | Katie Douglas | 5,545 |
 | 24 | Lindsay Whalen | 5,511 |
@@ -95,7 +95,7 @@ _Last updated: 2026-05-15 23:34 UTC_
 | 74 | Sancho Lyttle | 3,478 |
 | 75 | Ivory Latta | 3,447 |
 | 76 | Brittney Sykes | 3,439 |
-| 77 | **Jackie Young** 🔴 | 3,412 |
+| 77 | **Jackie Young** 🔴 +2 | 3,414 |
 | 78 | Nicole Powell | 3,407 |
 | 79 | Epiphanny Prince | 3,381 |
 | 80 | Ariel Atkins | 3,361 |
@@ -217,7 +217,7 @@ _Last updated: 2026-05-15 23:34 UTC_
 | 196 | Le'coe Willingham | 1,552 |
 | 197 | Shatori Walker-Kimbrough | 1,544 |
 | 198 | Rebecca Allen | 1,514 |
-| 199 | **Monique Billings** 🔴 | 1,505 |
+| 199 | **Monique Billings** 🔴 +2 | 1,507 |
 | 200 | Jennifer Lacy | 1,504 |
 
 ## Rebounds
@@ -302,7 +302,7 @@ _Last updated: 2026-05-15 23:34 UTC_
 | 76 | Tamika Whitmore | 1,355 |
 | 77 | Emma Meesseman | 1,350 |
 | 78 | Allisha Gray | 1,347 |
-| 79 | **Monique Billings** 🔴 | 1,345 |
+| 78 | **Monique Billings** 🔴 +2 | 1,347 |
 | 80 | Elena Baranova | 1,335 |
 | 81 | Brionna Jones | 1,333 |
 | 82 | Jewell Loyd | 1,331 |
@@ -341,8 +341,8 @@ _Last updated: 2026-05-15 23:34 UTC_
 | 115 | Ann Wauters | 1,105 |
 | 116 | Natasha Cloud | 1,080 |
 | 117 | Svetlana Abrosimova | 1,078 |
-| 118 | Le'coe Willingham | 1,054 |
-| 118 | **NaLyssa Smith** 🔴 | 1,054 |
+| 118 | **NaLyssa Smith** 🔴 +1 | 1,055 |
+| 119 | Le'coe Willingham | 1,054 |
 | 120 | **Aliyah Boston** 🔴 | 1,051 |
 | 121 | Isabelle Harrison | 1,049 |
 | 122 | Nicole Ohlde | 1,040 |
@@ -434,7 +434,7 @@ _Last updated: 2026-05-15 23:34 UTC_
 | 3 | Ticha Penicheiro | 2,588 |
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
-| 6 | **Chelsea Gray** 🔴 | 1,870 |
+| 6 | **Chelsea Gray** 🔴 +2 | 1,872 |
 | 7 | Alyssa Thomas | 1,820 |
 | 8 | Skylar Diggins | 1,768 |
 | 9 | Natasha Cloud | 1,733 |
@@ -1620,10 +1620,10 @@ _Last updated: 2026-05-15 23:34 UTC_
 | 163 | Shekinna Stricklen | 505 |
 | 165 | Allison Feaster | 504 |
 | 165 | Erin Perperoglou | 504 |
+| 165 | **Jackie Young** 🔴 +1 | 504 |
 | 165 | Napheesa Collier | 504 |
 | 165 | **Sophie Cunningham** 🔴 | 504 |
-| 169 | **Jackie Young** 🔴 | 503 |
-| 169 | **Monique Billings** 🔴 +1 | 503 |
+| 170 | **Monique Billings** 🔴 +1 | 503 |
 | 171 | Iziane Castro Marques | 502 |
 | 172 | Elena Baranova | 501 |
 | 173 | Adrian Williams-Strong | 497 |
