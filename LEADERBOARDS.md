@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-15 00:33 UTC_
+_Last updated: 2026-05-15 00:34 UTC_
 
 ## Contents
 
@@ -326,7 +326,7 @@ _Last updated: 2026-05-15 00:33 UTC_
 | 99 | Tanisha Wright | 1,190 |
 | 101 | Vicky Bullett | 1,189 |
 | 102 | Chelsea Gray | 1,188 |
-| 103 | **Kayla McBride** 🔴 +1 | 1,183 |
+| 103 | **Kayla McBride** 🔴 +2 | 1,184 |
 | 104 | Nykesha Sales | 1,148 |
 | 105 | Shannon Johnson | 1,143 |
 | 106 | Kahleah Copper | 1,140 |
@@ -416,7 +416,7 @@ _Last updated: 2026-05-15 00:33 UTC_
 | 190 | Shenise Johnson | 729 |
 | 191 | Sami Whitcomb | 726 |
 | 191 | Shekinna Stricklen | 726 |
-| 193 | **Arike Ogunbowale** 🔴 +1 | 723 |
+| 193 | **Arike Ogunbowale** 🔴 +2 | 724 |
 | 194 | Kelsey Plum | 715 |
 | 195 | Olympia Scott | 711 |
 | 196 | Katie Mattera | 708 |
@@ -654,7 +654,7 @@ _Last updated: 2026-05-15 00:33 UTC_
 | 18 | Tina Thompson | 372 |
 | 19 | Erika de Souza | 370 |
 | 20 | Jessica Breland | 367 |
-| 21 | **Natasha Howard** 🔴 +1 | 358 |
+| 21 | **Natasha Howard** 🔴 +2 | 359 |
 | 22 | Ezi Magbegor | 354 |
 | 23 | Diana Taurasi | 349 |
 | 23 | Elena Delle Donne | 349 |
@@ -928,9 +928,9 @@ _Last updated: 2026-05-15 00:33 UTC_
 | 87 | Tammy Sutton-Brown | 319 |
 | 88 | Plenette Pierson | 317 |
 | 88 | Temeka Johnson | 317 |
+| 90 | **Alysha Clark** 🔴 +1 | 315 |
 | 90 | Debbie Black | 315 |
-| 91 | **Alysha Clark** 🔴 | 314 |
-| 91 | Crystal Langhorne | 314 |
+| 92 | Crystal Langhorne | 314 |
 | 93 | **Courtney Williams** 🔴 | 308 |
 | 93 | Ebony Hoffman | 308 |
 | 95 | Tamera Young | 305 |
@@ -1586,8 +1586,8 @@ _Last updated: 2026-05-15 00:33 UTC_
 | 130 | Ezi Magbegor | 576 |
 | 131 | Le'coe Willingham | 571 |
 | 132 | Ashley Robinson | 567 |
-| 133 | **Arike Ogunbowale** 🔴 | 565 |
-| 133 | Ivory Latta | 565 |
+| 133 | **Arike Ogunbowale** 🔴 +1 | 566 |
+| 134 | Ivory Latta | 565 |
 | 135 | Barbara Farris | 563 |
 | 136 | Jessica Breland | 562 |
 | 137 | **Courtney Williams** 🔴 | 553 |

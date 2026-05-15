@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-15 00:34 UTC
+
+- **Alysha Clark** passed **Crystal Langhorne** for **#92** all-time in steals (career 315) — _5:27 - 2nd — MIN @ DAL_
+
 ## 2026-05-14 04:40 UTC
 
 - **Erica Wheeler** passed **Katie Smith** for **#24** all-time in assists (career 1,259) — up from #25 entering today — _1:23 - 4th — IND @ LA_
