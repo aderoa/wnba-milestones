@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-15T01:32:00+00:00",
+    "text": "Kayla McBride passed Chelsea Gray for #102 all-time in rebounds (career 1,189) \u2014 up from #103 entering today \u2014 (29.1 - 3rd \u2014 MIN @ DAL)",
+    "kind": "rank_pass",
+    "player": "Kayla McBride",
+    "stat": "rebounds",
+    "rank": 102,
+    "passed_players": [
+      "Chelsea Gray"
+    ],
+    "new_total": 1189
+  },
+  {
     "ts": "2026-05-15T01:29:00+00:00",
     "text": "Courtney Williams passed Dawn Staley for #85 all-time in three-pointers (career 255) \u2014 up from #87 entering today \u2014 (2:09 - 3rd \u2014 MIN @ DAL)",
     "kind": "rank_pass",
@@ -2961,17 +2973,5 @@
       "Napheesa Collier"
     ],
     "new_total": 507
-  },
-  {
-    "ts": "2026-05-09T18:38:00+00:00",
-    "text": "Caitlin Clark passed Sydney Colson for #138 all-time in assists (career 457) \u2014 up from #139 entering today \u2014 (17.6 - 3rd \u2014 DAL @ IND)",
-    "kind": "rank_pass",
-    "player": "Caitlin Clark",
-    "stat": "assists",
-    "rank": 138,
-    "passed_players": [
-      "Sydney Colson"
-    ],
-    "new_total": 457
   }
 ]
