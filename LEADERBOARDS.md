@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-16 02:15 UTC_
+_Last updated: 2026-05-16 02:16 UTC_
 
 ## Contents
 
@@ -72,8 +72,8 @@ _Last updated: 2026-05-16 02:15 UTC_
 | 51 | **Kelsey Plum** 🔴 | 4,207 |
 | 52 | Allisha Gray | 4,157 |
 | 53 | Rebekkah Brunson | 4,133 |
-| 54 | **Dearica Hamby** 🔴 +6 | 4,096 |
-| 54 | Jonquel Jones | 4,096 |
+| 54 | **Dearica Hamby** 🔴 +8 | 4,098 |
+| 55 | Jonquel Jones | 4,096 |
 | 56 | **Kahleah Copper** 🔴 +2 | 4,085 |
 | 57 | Courtney Williams | 4,061 |
 | 58 | Asjha Jones | 3,986 |
@@ -248,7 +248,7 @@ _Last updated: 2026-05-16 02:15 UTC_
 | 22 | Lauren Jackson | 2,444 |
 | 23 | Yolanda Griffith | 2,440 |
 | 24 | Tangela Smith | 2,328 |
-| 25 | **Dearica Hamby** 🔴 +2 | 2,319 |
+| 25 | **Dearica Hamby** 🔴 +3 | 2,320 |
 | 26 | Erika de Souza | 2,220 |
 | 27 | Diana Taurasi | 2,201 |
 | 28 | Natasha Howard | 2,174 |
@@ -329,7 +329,7 @@ _Last updated: 2026-05-16 02:15 UTC_
 | 103 | Kayla McBride | 1,182 |
 | 104 | Nykesha Sales | 1,148 |
 | 105 | Shannon Johnson | 1,143 |
-| 106 | **Kahleah Copper** 🔴 +1 | 1,141 |
+| 106 | **Kahleah Copper** 🔴 +2 | 1,142 |
 | 107 | Adrian Williams-Strong | 1,131 |
 | 108 | Andrea Stinson | 1,127 |
 | 108 | Tamika Raymond | 1,127 |
@@ -644,7 +644,7 @@ _Last updated: 2026-05-16 02:15 UTC_
 | 8 | Tangela Smith | 554 |
 | 9 | A'ja Wilson | 535 |
 | 10 | Ruth Riley | 505 |
-| 11 | **Elizabeth Williams** 🔴 | 483 |
+| 11 | **Elizabeth Williams** 🔴 +1 | 484 |
 | 12 | Taj McWilliams-Franklin | 443 |
 | 13 | Breanna Stewart | 428 |
 | 13 | Tina Charles | 428 |
@@ -843,7 +843,7 @@ _Last updated: 2026-05-16 02:15 UTC_
 | 2 | Ticha Penicheiro | 761 |
 | 3 | Sue Bird | 724 |
 | 4 | Alana Beard | 710 |
-| 5 | **Nneka Ogwumike** 🔴 +1 | 669 |
+| 5 | **Nneka Ogwumike** 🔴 | 668 |
 | 6 | Sheryl Swoopes | 657 |
 | 7 | Jia Perkins | 634 |
 | 8 | **DeWanna Bonner** 🔴 | 631 |
@@ -959,9 +959,9 @@ _Last updated: 2026-05-16 02:15 UTC_
 | 118 | Noelle Quinn | 256 |
 | 119 | Elaine Powell | 255 |
 | 119 | Kayla Thornton | 255 |
+| 119 | **Kelsey Plum** 🔴 +2 | 255 |
 | 119 | Loree Moore | 255 |
-| 122 | **Kelsey Plum** 🔴 +1 | 254 |
-| 122 | Ruthie Bolton | 254 |
+| 123 | Ruthie Bolton | 254 |
 | 124 | Hamchetou Maiga-Ba | 251 |
 | 124 | Tamika Whitmore | 251 |
 | 126 | Jonquel Jones | 248 |
@@ -1516,7 +1516,7 @@ _Last updated: 2026-05-16 02:15 UTC_
 | 60 | **Dearica Hamby** 🔴 | 798 |
 | 61 | Nykesha Sales | 796 |
 | 62 | Ebony Hoffman | 791 |
-| 63 | **Skylar Diggins** 🔴 | 790 |
+| 62 | **Skylar Diggins** 🔴 +1 | 791 |
 | 64 | Sue Bird | 775 |
 | 65 | Sheri Sam | 766 |
 | 66 | **Erica Wheeler** 🔴 | 758 |

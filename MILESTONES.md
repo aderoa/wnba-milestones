@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-16 02:16 UTC
+
+- **Kelsey Plum** passed **Ruthie Bolton** for **#122** all-time in steals (career 255) — up from #123 entering today — _5:20 - 1st — TOR @ LA_
+
 ## 2026-05-16 01:46 UTC
 
 - **Caitlin Clark** passed **Natasha Howard** for **#138** all-time in three-pointers (career 158) — up from #142 entering today — _0.0 - 4th — WSH @ IND_
