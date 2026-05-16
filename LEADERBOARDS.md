@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-16 00:14 UTC_
+_Last updated: 2026-05-16 00:15 UTC_
 
 ## Contents
 
@@ -1442,7 +1442,7 @@ _Last updated: 2026-05-16 00:14 UTC_
 | 190 | **Monique Billings** 🔴 | 300 |
 | 192 | Crystal Robinson | 299 |
 | 193 | Michele Timms | 297 |
-| 194 | **Caitlin Clark** 🔴 +1 | 290 |
+| 194 | **Caitlin Clark** 🔴 +3 | 292 |
 | 195 | Alexis Hornbuckle | 288 |
 | 195 | Kayla Thornton | 288 |
 | 195 | Kristen Rasmussen | 288 |
