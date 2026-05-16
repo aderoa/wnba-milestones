@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-16 03:38 UTC
+
+- **Kia Nurse** reached **600** career rebounds (now 600) — _End of 3rd — TOR @ LA_
+
 ## 2026-05-16 03:30 UTC
 
 - **Elizabeth Williams** passed **Helen Darling** for **#79** all-time in fouls (career 710) — up from #80 entering today — _4:43 - 3rd — CHI @ PHX_

@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-16 03:37 UTC_
+_Last updated: 2026-05-16 03:38 UTC_
 
 ## Contents
 
@@ -69,7 +69,7 @@ _Last updated: 2026-05-16 03:37 UTC_
 | 48 | Monique Currie | 4,253 |
 | 49 | Vickie Johnson | 4,230 |
 | 50 | Yolanda Griffith | 4,224 |
-| 51 | **Kelsey Plum** 🔴 +9 | 4,216 |
+| 51 | **Kelsey Plum** 🔴 +12 | 4,219 |
 | 52 | Allisha Gray | 4,157 |
 | 53 | Rebekkah Brunson | 4,133 |
 | 54 | **Dearica Hamby** 🔴 +19 | 4,109 |
@@ -121,7 +121,7 @@ _Last updated: 2026-05-16 03:37 UTC_
 | 100 | Jennifer Gillom | 2,888 |
 | 101 | **Natasha Cloud** 🔴 +4 | 2,867 |
 | 102 | Iziane Castro Marques | 2,862 |
-| 103 | **Elizabeth Williams** 🔴 | 2,841 |
+| 103 | **Elizabeth Williams** 🔴 +1 | 2,842 |
 | 104 | Alysha Clark | 2,787 |
 | 105 | Jantel Lavender | 2,775 |
 | 106 | Brionna Jones | 2,765 |
@@ -230,7 +230,7 @@ _Last updated: 2026-05-16 03:37 UTC_
 | 4 | Rebekkah Brunson | 3,345 |
 | 5 | Tamika Catchings | 3,313 |
 | 6 | Lisa Leslie | 3,303 |
-| 7 | **Nneka Ogwumike** 🔴 +3 | 3,271 |
+| 7 | **Nneka Ogwumike** 🔴 +4 | 3,272 |
 | 8 | **DeWanna Bonner** 🔴 +6 | 3,209 |
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
@@ -485,7 +485,7 @@ _Last updated: 2026-05-16 03:37 UTC_
 | 54 | Layshia Clarendon | 911 |
 | 54 | Seimone Augustus | 911 |
 | 56 | Candice Dupree | 902 |
-| 57 | **Nneka Ogwumike** 🔴 +2 | 898 |
+| 57 | **Nneka Ogwumike** 🔴 +3 | 899 |
 | 58 | Maya Moore | 896 |
 | 59 | Arike Ogunbowale | 889 |
 | 60 | Ivory Latta | 885 |
@@ -495,7 +495,7 @@ _Last updated: 2026-05-16 03:37 UTC_
 | 64 | Lisa Leslie | 873 |
 | 65 | Tully Bevilaqua | 853 |
 | 66 | Jia Perkins | 837 |
-| 67 | **Brittney Sykes** 🔴 +4 | 820 |
+| 67 | **Brittney Sykes** 🔴 +5 | 821 |
 | 68 | Andrea Stinson | 810 |
 | 69 | Tina Thompson | 803 |
 | 70 | Epiphanny Prince | 800 |
@@ -1056,7 +1056,7 @@ _Last updated: 2026-05-16 03:37 UTC_
 | 10 | **DeWanna Bonner** 🔴 | 663 |
 | 11 | Kristi Toliver | 651 |
 | 12 | Tamika Catchings | 605 |
-| 13 | **Kelsey Plum** 🔴 +1 | 589 |
+| 13 | **Kelsey Plum** 🔴 +2 | 590 |
 | 14 | Kara Lawson | 583 |
 | 15 | Nicole Powell | 579 |
 | 16 | Arike Ogunbowale | 545 |
@@ -1490,7 +1490,7 @@ _Last updated: 2026-05-16 03:37 UTC_
 | 34 | Mwadi Mabika | 941 |
 | 35 | Tamika Whitmore | 940 |
 | 36 | Courtney Vandersloot | 938 |
-| 37 | **Alyssa Thomas** 🔴 +2 | 927 |
+| 37 | **Alyssa Thomas** 🔴 +3 | 928 |
 | 38 | Briann January | 921 |
 | 39 | Ticha Penicheiro | 913 |
 | 40 | Shavonte Zellous | 907 |

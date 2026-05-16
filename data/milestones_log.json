@@ -1,5 +1,14 @@
 [
   {
+    "ts": "2026-05-16T03:38:00+00:00",
+    "text": "Kia Nurse reached 600 career rebounds (now 600) \u2014 (End of 3rd \u2014 TOR @ LA)",
+    "kind": "round",
+    "player": "Kia Nurse",
+    "stat": "rebounds",
+    "value": 600,
+    "new_total": 600
+  },
+  {
     "ts": "2026-05-16T03:30:00+00:00",
     "text": "Elizabeth Williams passed Helen Darling for #79 all-time in fouls (career 710) \u2014 up from #80 entering today \u2014 (4:43 - 3rd \u2014 CHI @ PHX)",
     "kind": "rank_pass",
@@ -2967,17 +2976,5 @@
       "Kristi Toliver"
     ],
     "new_total": 830
-  },
-  {
-    "ts": "2026-05-10T00:30:00+00:00",
-    "text": "Jordin Canada passed Tari Phillips for #153 all-time in points (career 2,137) \u2014 up from #154 entering today \u2014 (7:52 - 2nd \u2014 ATL @ MIN)",
-    "kind": "rank_pass",
-    "player": "Jordin Canada",
-    "stat": "points",
-    "rank": 153,
-    "passed_players": [
-      "Tari Phillips"
-    ],
-    "new_total": 2137
   }
 ]
