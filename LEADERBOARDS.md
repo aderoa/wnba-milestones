@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-16 02:26 UTC_
+_Last updated: 2026-05-16 02:27 UTC_
 
 ## Contents
 
@@ -339,7 +339,7 @@ _Last updated: 2026-05-16 02:26 UTC_
 | 113 | **Brittney Sykes** 🔴 +1 | 1,109 |
 | 114 | Becky Hammon | 1,108 |
 | 115 | Ann Wauters | 1,105 |
-| 116 | **Natasha Cloud** 🔴 +1 | 1,081 |
+| 116 | **Natasha Cloud** 🔴 +2 | 1,082 |
 | 117 | Svetlana Abrosimova | 1,078 |
 | 118 | NaLyssa Smith | 1,058 |
 | 119 | Aliyah Boston | 1,055 |
