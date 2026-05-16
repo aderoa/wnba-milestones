@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-16 02:40 UTC_
+_Last updated: 2026-05-16 02:41 UTC_
 
 ## Contents
 
@@ -328,8 +328,8 @@ _Last updated: 2026-05-16 02:40 UTC_
 | 102 | Vicky Bullett | 1,189 |
 | 103 | Kayla McBride | 1,182 |
 | 104 | Nykesha Sales | 1,148 |
+| 105 | **Kahleah Copper** 🔴 +3 | 1,143 |
 | 105 | Shannon Johnson | 1,143 |
-| 106 | **Kahleah Copper** 🔴 +2 | 1,142 |
 | 107 | Adrian Williams-Strong | 1,131 |
 | 108 | Andrea Stinson | 1,127 |
 | 108 | Tamika Raymond | 1,127 |
@@ -365,7 +365,7 @@ _Last updated: 2026-05-16 02:40 UTC_
 | 139 | Jennifer Gillom | 964 |
 | 140 | Dominique Canty | 961 |
 | 141 | Armintie Herrington | 960 |
-| 142 | **Skylar Diggins** 🔴 +1 | 956 |
+| 142 | **Skylar Diggins** 🔴 +2 | 957 |
 | 143 | Janell Burse | 944 |
 | 144 | Merlakia Jones | 927 |
 | 145 | Nicky Anosike | 922 |
@@ -600,8 +600,8 @@ _Last updated: 2026-05-16 02:40 UTC_
 | 169 | Sugar Rodgers | 393 |
 | 170 | Shameka Christon | 389 |
 | 170 | Tamicha Jackson | 389 |
-| 172 | **Julie Allemand** 🔴 +2 | 387 |
-| 172 | Riquna Williams | 387 |
+| 172 | **Julie Allemand** 🔴 +3 | 388 |
+| 173 | Riquna Williams | 387 |
 | 174 | Aliyah Boston | 379 |
 | 174 | Dana Evans | 379 |
 | 176 | Jessica Breland | 377 |
@@ -998,9 +998,9 @@ _Last updated: 2026-05-16 02:40 UTC_
 | 157 | Rhyne Howard | 210 |
 | 158 | Iziane Castro Marques | 209 |
 | 158 | Tiffany Mitchell | 209 |
-| 160 | **Kahleah Copper** 🔴 +1 | 208 |
 | 160 | Kia Vaughn | 208 |
 | 160 | Sophia Witherspoon | 208 |
+| 162 | **Kahleah Copper** 🔴 | 207 |
 | 163 | Shameka Christon | 205 |
 | 164 | Jessica Breland | 204 |
 | 164 | Murriel Page | 204 |
