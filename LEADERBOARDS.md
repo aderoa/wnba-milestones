@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-16 03:01 UTC_
+_Last updated: 2026-05-16 03:02 UTC_
 
 ## Contents
 
@@ -119,7 +119,7 @@ _Last updated: 2026-05-16 03:01 UTC_
 | 98 | **Marina Mabrey** 🔴 +2 | 2,896 |
 | 99 | Natalie Williams | 2,894 |
 | 100 | Jennifer Gillom | 2,888 |
-| 101 | **Natasha Cloud** 🔴 +2 | 2,865 |
+| 101 | **Natasha Cloud** 🔴 +4 | 2,867 |
 | 102 | Iziane Castro Marques | 2,862 |
 | 103 | **Elizabeth Williams** 🔴 | 2,841 |
 | 104 | Alysha Clark | 2,787 |
@@ -200,7 +200,7 @@ _Last updated: 2026-05-16 03:01 UTC_
 | 179 | Damiris Dantas | 1,817 |
 | 180 | Aliyah Boston | 1,807 |
 | 181 | Charde Houston | 1,797 |
-| 182 | **Rachel Banham** 🔴 +2 | 1,769 |
+| 182 | **Rachel Banham** 🔴 +5 | 1,772 |
 | 183 | Kamila Vodichkova | 1,767 |
 | 184 | Tully Bevilaqua | 1,763 |
 | 185 | Sandy Brondello | 1,759 |
@@ -339,7 +339,7 @@ _Last updated: 2026-05-16 03:01 UTC_
 | 113 | Chiney Ogwumike | 1,110 |
 | 114 | Becky Hammon | 1,108 |
 | 115 | Ann Wauters | 1,105 |
-| 116 | **Natasha Cloud** 🔴 +2 | 1,082 |
+| 116 | **Natasha Cloud** 🔴 +3 | 1,083 |
 | 117 | Svetlana Abrosimova | 1,078 |
 | 118 | NaLyssa Smith | 1,058 |
 | 119 | Aliyah Boston | 1,055 |
@@ -1088,9 +1088,9 @@ _Last updated: 2026-05-16 03:01 UTC_
 | 42 | Courtney Vandersloot | 385 |
 | 43 | Briann January | 381 |
 | 44 | Jasmine Thomas | 376 |
-| 45 | Allison Feaster | 372 |
-| 45 | Betty Lennox | 372 |
-| 45 | **Rachel Banham** 🔴 | 372 |
+| 45 | **Rachel Banham** 🔴 +1 | 373 |
+| 46 | Allison Feaster | 372 |
+| 46 | Betty Lennox | 372 |
 | 48 | Epiphanny Prince | 368 |
 | 49 | Rhyne Howard | 366 |
 | 50 | Jonquel Jones | 357 |
