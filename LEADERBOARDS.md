@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-16 00:20 UTC_
+_Last updated: 2026-05-16 00:21 UTC_
 
 ## Contents
 
@@ -39,7 +39,7 @@ _Last updated: 2026-05-16 00:20 UTC_
 | 18 | Brittney Griner | 5,967 |
 | 19 | Becky Hammon | 5,816 |
 | 20 | Angel McCoughtry | 5,797 |
-| 21 | **A'ja Wilson** 🔴 +17 | 5,736 |
+| 21 | **A'ja Wilson** 🔴 +19 | 5,738 |
 | 22 | DeLisha Milton-Jones | 5,571 |
 | 23 | Katie Douglas | 5,545 |
 | 24 | Lindsay Whalen | 5,511 |
@@ -320,7 +320,7 @@ _Last updated: 2026-05-16 00:20 UTC_
 | 94 | Seimone Augustus | 1,228 |
 | 95 | Jia Perkins | 1,220 |
 | 96 | **Brianna Turner** 🔴 | 1,214 |
-| 97 | **Myisha Hines-Allen** 🔴 | 1,208 |
+| 97 | **Myisha Hines-Allen** 🔴 +1 | 1,209 |
 | 98 | DeMya Walker | 1,199 |
 | 99 | **Chelsea Gray** 🔴 +2 | 1,190 |
 | 99 | Latasha Byears | 1,190 |
@@ -421,8 +421,8 @@ _Last updated: 2026-05-16 00:20 UTC_
 | 195 | Olympia Scott | 711 |
 | 196 | Katie Mattera | 708 |
 | 197 | Rushia Brown | 706 |
-| 198 | Allie Quigley | 702 |
-| 198 | **Shakira Austin** 🔴 +2 | 702 |
+| 198 | **Shakira Austin** 🔴 +3 | 703 |
+| 199 | Allie Quigley | 702 |
 | 200 | Epiphanny Prince | 701 |
 
 ## Assists
@@ -821,10 +821,10 @@ _Last updated: 2026-05-16 00:20 UTC_
 | 182 | Sue Bird | 72 |
 | 186 | Marlies Askamp | 71 |
 | 186 | Tanisha Wright | 71 |
+| 188 | **Myisha Hines-Allen** 🔴 +1 | 70 |
 | 188 | Wendy Palmer | 70 |
-| 189 | Mercedes Russell | 69 |
-| 189 | **Myisha Hines-Allen** 🔴 | 69 |
-| 189 | Rhonda Mapp | 69 |
+| 190 | Mercedes Russell | 69 |
+| 190 | Rhonda Mapp | 69 |
 | 192 | Satou Sabally | 67 |
 | 192 | Shannon Johnson | 67 |
 | 194 | Awak Kuier | 65 |
