@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-16 00:18 UTC_
+_Last updated: 2026-05-16 00:19 UTC_
 
 ## Contents
 
@@ -305,7 +305,7 @@ _Last updated: 2026-05-16 00:18 UTC_
 | 79 | Allisha Gray | 1,347 |
 | 80 | Elena Baranova | 1,335 |
 | 81 | Brionna Jones | 1,333 |
-| 82 | **Jewell Loyd** 🔴 +1 | 1,332 |
+| 81 | **Jewell Loyd** 🔴 +2 | 1,333 |
 | 83 | Erlana Larkins | 1,329 |
 | 84 | Mwadi Mabika | 1,327 |
 | 85 | Jayne Appel Marinelli | 1,326 |
@@ -343,7 +343,7 @@ _Last updated: 2026-05-16 00:18 UTC_
 | 117 | Svetlana Abrosimova | 1,078 |
 | 118 | **NaLyssa Smith** 🔴 +1 | 1,055 |
 | 119 | Le'coe Willingham | 1,054 |
-| 120 | **Aliyah Boston** 🔴 | 1,051 |
+| 120 | **Aliyah Boston** 🔴 +1 | 1,052 |
 | 121 | Isabelle Harrison | 1,049 |
 | 122 | Nicole Ohlde | 1,040 |
 | 123 | Tamecka Dixon | 1,035 |
@@ -524,7 +524,7 @@ _Last updated: 2026-05-16 00:18 UTC_
 | 93 | Jennifer Azzi | 636 |
 | 94 | Brittney Griner | 635 |
 | 95 | Sami Whitcomb | 623 |
-| 96 | **A'ja Wilson** 🔴 +2 | 615 |
+| 96 | **A'ja Wilson** 🔴 +3 | 616 |
 | 97 | Alysha Clark | 614 |
 | 98 | Debbie Black | 612 |
 | 99 | Cynthia Cooper | 602 |
@@ -715,7 +715,7 @@ _Last updated: 2026-05-16 00:18 UTC_
 | 77 | Nia Coffey | 151 |
 | 80 | Alison Bales | 148 |
 | 81 | Chamique Holdsclaw | 143 |
-| 82 | **Aliyah Boston** 🔴 | 140 |
+| 82 | **Aliyah Boston** 🔴 +1 | 141 |
 | 83 | Shavonte Zellous | 139 |
 | 84 | Penny Taylor | 136 |
 | 85 | Devereaux Peters | 133 |
@@ -916,7 +916,7 @@ _Last updated: 2026-05-16 00:18 UTC_
 | 74 | Natasha Cloud | 340 |
 | 76 | Arike Ogunbowale | 339 |
 | 77 | Dawn Staley | 338 |
-| 78 | **A'ja Wilson** 🔴 | 335 |
+| 78 | **A'ja Wilson** 🔴 +1 | 336 |
 | 79 | Marie Ferdinand-Harris | 331 |
 | 80 | Chasity Melvin | 330 |
 | 80 | Leilani Mitchell | 330 |
