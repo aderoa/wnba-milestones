@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-16 02:38 UTC_
+_Last updated: 2026-05-16 02:39 UTC_
 
 ## Contents
 
@@ -770,8 +770,8 @@ _Last updated: 2026-05-16 02:38 UTC_
 | 133 | Tiffani Johnson | 96 |
 | 135 | Imani McGee-Stafford | 95 |
 | 135 | Isabelle Harrison | 95 |
+| 137 | **Kamilla Cardoso** 🔴 +1 | 94 |
 | 137 | Sandrine Gruda | 94 |
-| 138 | **Kamilla Cardoso** 🔴 | 93 |
 | 139 | Emily Engstler | 92 |
 | 140 | Jasmine Thomas | 91 |
 | 140 | Jewell Loyd | 91 |
@@ -1274,7 +1274,7 @@ _Last updated: 2026-05-16 02:38 UTC_
 | 23 | Chelsea Gray | 874 |
 | 24 | Candice Dupree | 869 |
 | 25 | Alana Beard | 854 |
-| 26 | **DeWanna Bonner** 🔴 +1 | 827 |
+| 26 | **DeWanna Bonner** 🔴 +2 | 828 |
 | 27 | Katie Douglas | 824 |
 | 28 | Betty Lennox | 800 |
 | 29 | Jasmine Thomas | 796 |
@@ -1494,7 +1494,7 @@ _Last updated: 2026-05-16 02:38 UTC_
 | 38 | Briann January | 921 |
 | 39 | Ticha Penicheiro | 913 |
 | 40 | Shavonte Zellous | 907 |
-| 41 | **DeWanna Bonner** 🔴 | 891 |
+| 41 | **DeWanna Bonner** 🔴 +1 | 892 |
 | 42 | Alysha Clark | 883 |
 | 43 | DeMya Walker | 882 |
 | 44 | Candice Dupree | 876 |
