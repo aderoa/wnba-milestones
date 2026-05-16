@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-16 03:45 UTC_
+_Last updated: 2026-05-16 03:46 UTC_
 
 ## Contents
 
@@ -1470,7 +1470,7 @@ _Last updated: 2026-05-16 03:45 UTC_
 | 14 | Swin Cash | 1,146 |
 | 15 | Taj McWilliams-Franklin | 1,145 |
 | 16 | Monique Currie | 1,137 |
-| 17 | **Nneka Ogwumike** 🔴 +2 | 1,133 |
+| 17 | **Nneka Ogwumike** 🔴 +3 | 1,134 |
 | 18 | Tanisha Wright | 1,109 |
 | 19 | Michelle Snow | 1,108 |
 | 20 | Natasha Howard | 1,088 |
