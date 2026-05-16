@@ -1,5 +1,19 @@
 [
   {
+    "ts": "2026-05-16T01:41:00+00:00",
+    "text": "Myisha Hines-Allen passed Alanna Smith, Erin Phillips, and Sabrina Ionescu for #182 all-time in steals (career 183) \u2014 up from #185 entering today \u2014 (5.8 - 4th \u2014 WSH @ IND)",
+    "kind": "rank_pass",
+    "player": "Myisha Hines-Allen",
+    "stat": "steals",
+    "rank": 182,
+    "passed_players": [
+      "Alanna Smith",
+      "Erin Phillips",
+      "Sabrina Ionescu"
+    ],
+    "new_total": 183
+  },
+  {
     "ts": "2026-05-16T01:31:00+00:00",
     "text": "Monique Billings passed Rushia Brown and Shekinna Stricklen for #163 all-time in fouls (career 506) \u2014 up from #171 entering today \u2014 (1:41 - 4th \u2014 WSH @ IND)",
     "kind": "rank_pass",
@@ -2959,17 +2973,5 @@
       "Candice Dupree"
     ],
     "new_total": 871
-  },
-  {
-    "ts": "2026-05-09T20:28:00+00:00",
-    "text": "Jackie Young passed Tiffany Jackson for #130 all-time in rebounds (career 1,005) \u2014 (7:59 - 2nd \u2014 PHX @ LV)",
-    "kind": "rank_pass",
-    "player": "Jackie Young",
-    "stat": "rebounds",
-    "rank": 130,
-    "passed_players": [
-      "Tiffany Jackson"
-    ],
-    "new_total": 1005
   }
 ]

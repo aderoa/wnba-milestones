@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-16 01:40 UTC_
+_Last updated: 2026-05-16 01:41 UTC_
 
 ## Contents
 
@@ -39,7 +39,7 @@ _Last updated: 2026-05-16 01:40 UTC_
 | 18 | Brittney Griner | 5,967 |
 | 19 | Becky Hammon | 5,816 |
 | 20 | Angel McCoughtry | 5,797 |
-| 21 | **A'ja Wilson** 🔴 +42 | 5,761 |
+| 21 | **A'ja Wilson** 🔴 +45 | 5,764 |
 | 22 | DeLisha Milton-Jones | 5,571 |
 | 23 | Katie Douglas | 5,545 |
 | 24 | Lindsay Whalen | 5,511 |
@@ -1020,10 +1020,10 @@ _Last updated: 2026-05-16 01:40 UTC_
 | 178 | Natisha Hiedeman | 185 |
 | 178 | Tiffany Jackson | 185 |
 | 181 | Erin Perperoglou | 184 |
-| 182 | Alanna Smith | 182 |
-| 182 | Erin Phillips | 182 |
-| 182 | **Myisha Hines-Allen** 🔴 +1 | 182 |
-| 182 | Sabrina Ionescu | 182 |
+| 182 | **Myisha Hines-Allen** 🔴 +2 | 183 |
+| 183 | Alanna Smith | 182 |
+| 183 | Erin Phillips | 182 |
+| 183 | Sabrina Ionescu | 182 |
 | 186 | Nakia Sanford | 181 |
 | 186 | Rebecca Allen | 181 |
 | 188 | Diamond DeShields | 180 |
