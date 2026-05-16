@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-16T03:14:00+00:00",
+    "text": "Erica Wheeler passed Chasity Melvin for #55 all-time in turnovers (career 667) \u2014 up from #56 entering today \u2014 (8:39 - 3rd \u2014 TOR @ LA)",
+    "kind": "rank_pass",
+    "player": "Erica Wheeler",
+    "stat": "turnovers",
+    "rank": 55,
+    "passed_players": [
+      "Chasity Melvin"
+    ],
+    "new_total": 667
+  },
+  {
     "ts": "2026-05-16T02:52:00+00:00",
     "text": "Kelsey Plum passed Elaine Powell, Kayla Thornton, and Loree Moore for #119 all-time in steals (career 256) \u2014 up from #123 entering today \u2014 (24.9 - 2nd \u2014 TOR @ LA)",
     "kind": "rank_pass",
@@ -2969,17 +2981,5 @@
       "Tiffany Hayes"
     ],
     "new_total": 88
-  },
-  {
-    "ts": "2026-05-09T21:27:00+00:00",
-    "text": "Kahleah Copper passed Dearica Hamby for #55 all-time in points (career 4,092) \u2014 up from #56 entering today \u2014 (49.0 - 3rd \u2014 PHX @ LV)",
-    "kind": "rank_pass",
-    "player": "Kahleah Copper",
-    "stat": "points",
-    "rank": 55,
-    "passed_players": [
-      "Dearica Hamby"
-    ],
-    "new_total": 4092
   }
 ]

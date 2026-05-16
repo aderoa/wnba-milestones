@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-16 03:14 UTC
+
+- **Erica Wheeler** passed **Chasity Melvin** for **#55** all-time in turnovers (career 667) — up from #56 entering today — _8:39 - 3rd — TOR @ LA_
+
 ## 2026-05-16 02:52 UTC
 
 - **Kelsey Plum** passed **Elaine Powell**, **Kayla Thornton**, and **Loree Moore** for **#119** all-time in steals (career 256) — up from #123 entering today — _24.9 - 2nd — TOR @ LA_

@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-16 03:13 UTC_
+_Last updated: 2026-05-16 03:14 UTC_
 
 ## Contents
 
@@ -248,7 +248,7 @@ _Last updated: 2026-05-16 03:13 UTC_
 | 22 | Lauren Jackson | 2,444 |
 | 23 | Yolanda Griffith | 2,440 |
 | 24 | Tangela Smith | 2,328 |
-| 25 | **Dearica Hamby** 🔴 +5 | 2,322 |
+| 25 | **Dearica Hamby** 🔴 +6 | 2,323 |
 | 26 | Erika de Souza | 2,220 |
 | 27 | Diana Taurasi | 2,201 |
 | 28 | Natasha Howard | 2,174 |
@@ -1303,9 +1303,9 @@ _Last updated: 2026-05-16 03:13 UTC_
 | 52 | Sheryl Swoopes | 677 |
 | 53 | Tammy Sutton-Brown | 672 |
 | 54 | Deanna Nolan | 669 |
-| 55 | Chasity Melvin | 666 |
-| 55 | **Erica Wheeler** 🔴 +1 | 666 |
-| 55 | **Natasha Cloud** 🔴 +1 | 666 |
+| 55 | **Erica Wheeler** 🔴 +2 | 667 |
+| 56 | Chasity Melvin | 666 |
+| 56 | **Natasha Cloud** 🔴 +1 | 666 |
 | 58 | Vickie Johnson | 660 |
 | 59 | **Dearica Hamby** 🔴 | 657 |
 | 60 | Yolanda Griffith | 653 |
@@ -1600,7 +1600,7 @@ _Last updated: 2026-05-16 03:13 UTC_
 | 144 | Marissa Coleman | 541 |
 | 145 | Kristen Rasmussen | 533 |
 | 146 | Amanda Zahui B | 530 |
-| 147 | **Marina Mabrey** 🔴 +1 | 526 |
+| 147 | **Marina Mabrey** 🔴 +2 | 527 |
 | 148 | Candice Wiggins | 525 |
 | 148 | Epiphanny Prince | 525 |
 | 150 | A'ja Wilson | 523 |
