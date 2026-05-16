@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-16 00:37 UTC_
+_Last updated: 2026-05-16 00:38 UTC_
 
 ## Contents
 
@@ -51,7 +51,7 @@ _Last updated: 2026-05-16 00:37 UTC_
 | 30 | Maya Moore | 4,984 |
 | 31 | Tiffany Hayes | 4,927 |
 | 32 | Sheryl Swoopes | 4,875 |
-| 33 | **Kelsey Mitchell** 🔴 +7 | 4,820 |
+| 33 | **Kelsey Mitchell** 🔴 +9 | 4,822 |
 | 34 | Alana Beard | 4,740 |
 | 35 | Chamique Holdsclaw | 4,713 |
 | 36 | Elena Delle Donne | 4,706 |
@@ -343,7 +343,7 @@ _Last updated: 2026-05-16 00:37 UTC_
 | 117 | Svetlana Abrosimova | 1,078 |
 | 118 | **NaLyssa Smith** 🔴 +1 | 1,055 |
 | 119 | Le'coe Willingham | 1,054 |
-| 120 | **Aliyah Boston** 🔴 +1 | 1,052 |
+| 120 | **Aliyah Boston** 🔴 +2 | 1,053 |
 | 121 | Isabelle Harrison | 1,049 |
 | 122 | Nicole Ohlde | 1,040 |
 | 123 | Tamecka Dixon | 1,035 |
@@ -715,7 +715,7 @@ _Last updated: 2026-05-16 00:37 UTC_
 | 77 | Nia Coffey | 151 |
 | 80 | Alison Bales | 148 |
 | 81 | Chamique Holdsclaw | 143 |
-| 82 | **Aliyah Boston** 🔴 +1 | 141 |
+| 82 | **Aliyah Boston** 🔴 | 140 |
 | 83 | Shavonte Zellous | 139 |
 | 84 | Penny Taylor | 136 |
 | 85 | Devereaux Peters | 133 |
@@ -731,7 +731,7 @@ _Last updated: 2026-05-16 00:37 UTC_
 | 95 | Katie Douglas | 126 |
 | 95 | Mistie Bass | 126 |
 | 97 | Brionna Jones | 125 |
-| 98 | **Monique Billings** 🔴 | 123 |
+| 98 | **Monique Billings** 🔴 +1 | 124 |
 | 99 | Natalie Williams | 122 |
 | 100 | Alyssa Thomas | 121 |
 | 100 | Ebony Hoffman | 121 |
