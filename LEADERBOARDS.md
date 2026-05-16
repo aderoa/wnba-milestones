@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-16 02:20 UTC_
+_Last updated: 2026-05-16 02:21 UTC_
 
 ## Contents
 
@@ -72,7 +72,7 @@ _Last updated: 2026-05-16 02:20 UTC_
 | 51 | **Kelsey Plum** 🔴 +2 | 4,209 |
 | 52 | Allisha Gray | 4,157 |
 | 53 | Rebekkah Brunson | 4,133 |
-| 54 | **Dearica Hamby** 🔴 +8 | 4,098 |
+| 54 | **Dearica Hamby** 🔴 +10 | 4,100 |
 | 55 | Jonquel Jones | 4,096 |
 | 56 | **Kahleah Copper** 🔴 +2 | 4,085 |
 | 57 | Courtney Williams | 4,061 |
@@ -257,7 +257,7 @@ _Last updated: 2026-05-16 02:20 UTC_
 | 31 | Chasity Melvin | 2,097 |
 | 32 | Tammy Sutton-Brown | 2,010 |
 | 33 | Cheryl Ford | 1,907 |
-| 34 | **Elizabeth Williams** 🔴 | 1,904 |
+| 34 | **Elizabeth Williams** 🔴 +1 | 1,905 |
 | 35 | Plenette Pierson | 1,834 |
 | 36 | Natalie Williams | 1,832 |
 | 37 | Wendy Palmer | 1,824 |
@@ -435,7 +435,7 @@ _Last updated: 2026-05-16 02:20 UTC_
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
 | 6 | Chelsea Gray | 1,880 |
-| 7 | **Alyssa Thomas** 🔴 +3 | 1,823 |
+| 7 | **Alyssa Thomas** 🔴 +4 | 1,824 |
 | 8 | **Skylar Diggins** 🔴 +1 | 1,769 |
 | 9 | **Natasha Cloud** 🔴 | 1,733 |
 | 10 | Becky Hammon | 1,705 |
@@ -568,7 +568,7 @@ _Last updated: 2026-05-16 02:20 UTC_
 | 137 | Sylvia Fowles | 461 |
 | 138 | Caitlin Clark | 460 |
 | 139 | Sydney Colson | 454 |
-| 140 | **Elizabeth Williams** 🔴 | 452 |
+| 140 | **Elizabeth Williams** 🔴 +1 | 453 |
 | 141 | Satou Sabally | 451 |
 | 141 | Yolanda Griffith | 451 |
 | 143 | Elena Delle Donne | 450 |
@@ -1231,10 +1231,10 @@ _Last updated: 2026-05-16 02:20 UTC_
 | 184 | Lexie Hull | 111 |
 | 184 | Shoni Schimmel | 111 |
 | 187 | Emma Meesseman | 109 |
+| 187 | **Rickea Jackson** 🔴 +1 | 109 |
 | 187 | Scholanda Dorrell | 109 |
-| 189 | Belinda Snell | 108 |
-| 189 | Kennedy Burke | 108 |
-| 189 | **Rickea Jackson** 🔴 | 108 |
+| 190 | Belinda Snell | 108 |
+| 190 | Kennedy Burke | 108 |
 | 192 | Layshia Clarendon | 107 |
 | 193 | Leonie Fiebich | 106 |
 | 194 | Laurie Koehn | 105 |
@@ -1490,7 +1490,7 @@ _Last updated: 2026-05-16 02:20 UTC_
 | 34 | Mwadi Mabika | 941 |
 | 35 | Tamika Whitmore | 940 |
 | 36 | Courtney Vandersloot | 938 |
-| 37 | **Alyssa Thomas** 🔴 | 925 |
+| 37 | **Alyssa Thomas** 🔴 +1 | 926 |
 | 38 | Briann January | 921 |
 | 39 | Ticha Penicheiro | 913 |
 | 40 | Shavonte Zellous | 907 |
