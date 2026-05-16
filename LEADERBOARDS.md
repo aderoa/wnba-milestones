@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-16 02:53 UTC_
+_Last updated: 2026-05-16 02:54 UTC_
 
 ## Contents
 
@@ -93,7 +93,7 @@ _Last updated: 2026-05-16 02:53 UTC_
 | 72 | Tamecka Dixon | 3,507 |
 | 73 | Tammy Sutton-Brown | 3,498 |
 | 74 | Sancho Lyttle | 3,478 |
-| 75 | **Brittney Sykes** 🔴 +9 | 3,448 |
+| 75 | **Brittney Sykes** 🔴 +10 | 3,449 |
 | 76 | Ivory Latta | 3,447 |
 | 77 | Jackie Young | 3,425 |
 | 78 | Nicole Powell | 3,407 |
@@ -1333,7 +1333,7 @@ _Last updated: 2026-05-16 02:53 UTC_
 | 82 | Kara Braxton | 570 |
 | 83 | Nikki McCray | 565 |
 | 84 | Sancho Lyttle | 563 |
-| 85 | **Brittney Sykes** 🔴 +2 | 560 |
+| 85 | **Brittney Sykes** 🔴 +3 | 561 |
 | 86 | Tan White | 557 |
 | 87 | Kelsey Mitchell | 552 |
 | 88 | Breanna Stewart | 549 |
@@ -1549,8 +1549,8 @@ _Last updated: 2026-05-16 02:53 UTC_
 | 93 | Jennifer Lacy | 680 |
 | 93 | Temeka Johnson | 680 |
 | 95 | Kelly Miller | 676 |
-| 96 | **Brittney Sykes** 🔴 +1 | 667 |
-| 96 | Chamique Holdsclaw | 667 |
+| 96 | **Brittney Sykes** 🔴 +2 | 668 |
+| 97 | Chamique Holdsclaw | 667 |
 | 98 | Cheyenne Parker-Tyus | 662 |
 | 98 | Tianna Hawkins | 662 |
 | 100 | **Kelsey Plum** 🔴 +3 | 661 |
