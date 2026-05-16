@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-16 01:04 UTC_
+_Last updated: 2026-05-16 01:05 UTC_
 
 ## Contents
 
@@ -670,7 +670,7 @@ _Last updated: 2026-05-16 01:04 UTC_
 | 34 | Liz Cambage | 264 |
 | 35 | Nneka Ogwumike | 260 |
 | 36 | Swin Cash | 258 |
-| 37 | **Cheyenne Parker-Tyus** 🔴 | 250 |
+| 37 | **Cheyenne Parker-Tyus** 🔴 +1 | 251 |
 | 38 | Plenette Pierson | 242 |
 | 39 | Napheesa Collier | 239 |
 | 40 | Emma Meesseman | 238 |
@@ -1373,7 +1373,7 @@ _Last updated: 2026-05-16 01:04 UTC_
 | 122 | Allisha Gray | 449 |
 | 123 | Elena Baranova | 444 |
 | 123 | Jantel Lavender | 444 |
-| 125 | **A'ja Wilson** 🔴 +1 | 442 |
+| 125 | **A'ja Wilson** 🔴 +2 | 443 |
 | 126 | Ann Wauters | 440 |
 | 127 | Tiffany Mitchell | 439 |
 | 128 | Kedra Holland-Corn | 438 |
