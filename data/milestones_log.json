@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-16T04:01:00+00:00",
+    "text": "Natasha Cloud passed Kristi Toliver for #74 all-time in fouls (career 723) \u2014 up from #75 entering today \u2014 (5:17 - 4th \u2014 CHI @ PHX)",
+    "kind": "rank_pass",
+    "player": "Natasha Cloud",
+    "stat": "fouls",
+    "rank": 74,
+    "passed_players": [
+      "Kristi Toliver"
+    ],
+    "new_total": 723
+  },
+  {
     "ts": "2026-05-16T03:59:00+00:00",
     "text": "Dearica Hamby passed Allie Quigley for #80 all-time in assists (career 691) \u2014 up from #81 entering today \u2014 (2:36 - 4th \u2014 TOR @ LA)",
     "kind": "rank_pass",
@@ -2964,17 +2976,5 @@
       "Janel McCarville"
     ],
     "new_total": 492
-  },
-  {
-    "ts": "2026-05-10T00:44:00+00:00",
-    "text": "Rhyne Howard passed Epiphanny Prince for #48 all-time in three-pointers (career 369) \u2014 up from #49 entering today \u2014 (3:22 - 2nd \u2014 ATL @ MIN)",
-    "kind": "rank_pass",
-    "player": "Rhyne Howard",
-    "stat": "three-pointers",
-    "rank": 48,
-    "passed_players": [
-      "Epiphanny Prince"
-    ],
-    "new_total": 369
   }
 ]
