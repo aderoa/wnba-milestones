@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-16 03:59 UTC_
+_Last updated: 2026-05-16 04:00 UTC_
 
 ## Contents
 
@@ -24,7 +24,7 @@ _Last updated: 2026-05-16 03:59 UTC_
 | 3 | **DeWanna Bonner** 🔴 +8 | 7,813 |
 | 4 | Tina Thompson | 7,470 |
 | 5 | Tamika Catchings | 7,371 |
-| 6 | **Nneka Ogwumike** 🔴 +17 | 7,322 |
+| 6 | **Nneka Ogwumike** 🔴 +19 | 7,324 |
 | 7 | Candice Dupree | 6,861 |
 | 8 | Sue Bird | 6,802 |
 | 9 | Cappie Pondexter | 6,781 |
@@ -93,7 +93,7 @@ _Last updated: 2026-05-16 03:59 UTC_
 | 72 | Tamecka Dixon | 3,507 |
 | 73 | Tammy Sutton-Brown | 3,498 |
 | 74 | Sancho Lyttle | 3,478 |
-| 75 | **Brittney Sykes** 🔴 +19 | 3,458 |
+| 75 | **Brittney Sykes** 🔴 +21 | 3,460 |
 | 76 | Ivory Latta | 3,447 |
 | 77 | Jackie Young | 3,425 |
 | 78 | Nicole Powell | 3,407 |
@@ -235,7 +235,7 @@ _Last updated: 2026-05-16 03:59 UTC_
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
-| 12 | **Alyssa Thomas** 🔴 +7 | 2,747 |
+| 12 | **Alyssa Thomas** 🔴 +8 | 2,748 |
 | 13 | Sancho Lyttle | 2,596 |
 | 14 | Jonquel Jones | 2,575 |
 | 15 | DeLisha Milton-Jones | 2,574 |
@@ -437,7 +437,7 @@ _Last updated: 2026-05-16 03:59 UTC_
 | 6 | Chelsea Gray | 1,880 |
 | 7 | **Alyssa Thomas** 🔴 +6 | 1,826 |
 | 8 | **Skylar Diggins** 🔴 +3 | 1,771 |
-| 9 | **Natasha Cloud** 🔴 +6 | 1,739 |
+| 9 | **Natasha Cloud** 🔴 +7 | 1,740 |
 | 10 | Becky Hammon | 1,705 |
 | 11 | Candace Parker | 1,634 |
 | 12 | Cappie Pondexter | 1,575 |
@@ -508,7 +508,7 @@ _Last updated: 2026-05-16 03:59 UTC_
 | 77 | Elaine Powell | 728 |
 | 78 | Chamique Holdsclaw | 698 |
 | 79 | Shavonte Zellous | 693 |
-| 80 | **Dearica Hamby** 🔴 +3 | 691 |
+| 80 | **Dearica Hamby** 🔴 +4 | 692 |
 | 81 | Allie Quigley | 690 |
 | 82 | Stefanie Dolson | 686 |
 | 83 | Moriah Jefferson | 685 |
@@ -1229,8 +1229,8 @@ _Last updated: 2026-05-16 03:59 UTC_
 | 182 | Sandy Brondello | 114 |
 | 184 | Jordin Canada | 111 |
 | 184 | Lexie Hull | 111 |
+| 184 | **Rickea Jackson** 🔴 +3 | 111 |
 | 184 | Shoni Schimmel | 111 |
-| 187 | **Rickea Jackson** 🔴 +2 | 110 |
 | 188 | Emma Meesseman | 109 |
 | 188 | Scholanda Dorrell | 109 |
 | 190 | Belinda Snell | 108 |
@@ -1307,7 +1307,7 @@ _Last updated: 2026-05-16 03:59 UTC_
 | 56 | Chasity Melvin | 666 |
 | 56 | **Natasha Cloud** 🔴 +1 | 666 |
 | 58 | Vickie Johnson | 660 |
-| 59 | **Dearica Hamby** 🔴 +1 | 658 |
+| 59 | **Dearica Hamby** 🔴 +2 | 659 |
 | 60 | Yolanda Griffith | 653 |
 | 61 | Sheri Sam | 650 |
 | 62 | Courtney Williams | 643 |
