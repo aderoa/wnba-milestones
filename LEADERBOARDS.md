@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-16 04:08 UTC_
+_Last updated: 2026-05-16 04:09 UTC_
 
 ## Contents
 
@@ -1227,10 +1227,10 @@ _Last updated: 2026-05-16 04:08 UTC_
 | 179 | Stephanie White | 115 |
 | 182 | Gordana Grubin | 114 |
 | 182 | Sandy Brondello | 114 |
-| 184 | Jordin Canada | 111 |
-| 184 | Lexie Hull | 111 |
-| 184 | **Rickea Jackson** 🔴 +3 | 111 |
-| 184 | Shoni Schimmel | 111 |
+| 184 | **Rickea Jackson** 🔴 +4 | 112 |
+| 185 | Jordin Canada | 111 |
+| 185 | Lexie Hull | 111 |
+| 185 | Shoni Schimmel | 111 |
 | 188 | Emma Meesseman | 109 |
 | 188 | Scholanda Dorrell | 109 |
 | 190 | Belinda Snell | 108 |

@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-05-16T04:09:00+00:00",
+    "text": "Rickea Jackson passed Jordin Canada and Shoni Schimmel for #184 all-time in three-pointers (career 112) \u2014 up from #190 entering today \u2014 (3:32 - 4th \u2014 CHI @ PHX)",
+    "kind": "rank_pass",
+    "player": "Rickea Jackson",
+    "stat": "three-pointers",
+    "rank": 184,
+    "passed_players": [
+      "Jordin Canada",
+      "Shoni Schimmel"
+    ],
+    "new_total": 112
+  },
+  {
     "ts": "2026-05-16T04:03:00+00:00",
     "text": "Marina Mabrey passed Jordin Canada for #112 all-time in turnovers (career 490) \u2014 up from #113 entering today \u2014 (1:23 - 4th \u2014 TOR @ LA)",
     "kind": "rank_pass",
@@ -2967,14 +2980,5 @@
       "Bria Hartley"
     ],
     "new_total": 449
-  },
-  {
-    "ts": "2026-05-10T00:47:00+00:00",
-    "text": "Kayla McBride reached 5,400 career points (now 5,401) \u2014 (1:25 - 2nd \u2014 ATL @ MIN)",
-    "kind": "round",
-    "player": "Kayla McBride",
-    "stat": "points",
-    "value": 5400,
-    "new_total": 5401
   }
 ]

@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-16 04:09 UTC
+
+- **Rickea Jackson** passed **Jordin Canada** and **Shoni Schimmel** for **#184** all-time in three-pointers (career 112) — up from #190 entering today — _3:32 - 4th — CHI @ PHX_
+
 ## 2026-05-16 04:03 UTC
 
 - **Marina Mabrey** passed **Jordin Canada** for **#112** all-time in turnovers (career 490) — up from #113 entering today — _1:23 - 4th — TOR @ LA_
