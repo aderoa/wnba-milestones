@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-16 01:34 UTC_
+_Last updated: 2026-05-16 01:35 UTC_
 
 ## Contents
 
@@ -304,7 +304,7 @@ _Last updated: 2026-05-16 01:34 UTC_
 | 78 | Emma Meesseman | 1,350 |
 | 79 | Allisha Gray | 1,347 |
 | 80 | Elena Baranova | 1,335 |
-| 81 | **Jewell Loyd** 🔴 +3 | 1,334 |
+| 80 | **Jewell Loyd** 🔴 +4 | 1,335 |
 | 82 | Brionna Jones | 1,333 |
 | 83 | Erlana Larkins | 1,329 |
 | 84 | Mwadi Mabika | 1,327 |
@@ -554,7 +554,7 @@ _Last updated: 2026-05-16 01:34 UTC_
 | 122 | Chasity Melvin | 508 |
 | 124 | Anna DeForge | 503 |
 | 124 | Coco Miller | 503 |
-| 126 | **Myisha Hines-Allen** 🔴 +2 | 499 |
+| 126 | **Myisha Hines-Allen** 🔴 +3 | 500 |
 | 127 | Rachel Banham | 495 |
 | 128 | Crystal Robinson | 488 |
 | 128 | Tiffany Mitchell | 488 |
@@ -1181,8 +1181,8 @@ _Last updated: 2026-05-16 01:34 UTC_
 | 133 | **Tyasha Harris** 🔴 | 160 |
 | 136 | Aari McDonald | 158 |
 | 136 | Jennifer Azzi | 158 |
+| 138 | **Caitlin Clark** 🔴 +6 | 157 |
 | 138 | Natasha Howard | 157 |
-| 139 | **Caitlin Clark** 🔴 +5 | 156 |
 | 140 | Bridget Pettis | 153 |
 | 140 | Jennifer Gillom | 153 |
 | 142 | Alanna Smith | 152 |
@@ -1384,7 +1384,7 @@ _Last updated: 2026-05-16 01:34 UTC_
 | 133 | Jennifer Gillom | 434 |
 | 133 | Nicole Ohlde | 434 |
 | 135 | Murriel Page | 432 |
-| 136 | **Jackie Young** 🔴 +3 | 427 |
+| 136 | **Jackie Young** 🔴 +4 | 428 |
 | 137 | Shameka Christon | 424 |
 | 138 | Cynthia Cooper | 422 |
 | 138 | Napheesa Collier | 422 |
