@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-16 00:47 UTC_
+_Last updated: 2026-05-16 00:48 UTC_
 
 ## Contents
 
@@ -216,8 +216,8 @@ _Last updated: 2026-05-16 00:47 UTC_
 | 195 | Janell Burse | 1,580 |
 | 196 | Le'coe Willingham | 1,552 |
 | 197 | Shatori Walker-Kimbrough | 1,544 |
+| 198 | **Monique Billings** 🔴 +9 | 1,514 |
 | 198 | Rebecca Allen | 1,514 |
-| 199 | **Monique Billings** 🔴 +7 | 1,512 |
 | 200 | Jennifer Lacy | 1,504 |
 
 ## Rebounds
@@ -300,8 +300,8 @@ _Last updated: 2026-05-16 00:47 UTC_
 | 74 | Ebony Hoffman | 1,376 |
 | 75 | Sheri Sam | 1,356 |
 | 76 | Tamika Whitmore | 1,355 |
-| 77 | Emma Meesseman | 1,350 |
-| 77 | **Monique Billings** 🔴 +5 | 1,350 |
+| 77 | **Monique Billings** 🔴 +6 | 1,351 |
+| 78 | Emma Meesseman | 1,350 |
 | 79 | Allisha Gray | 1,347 |
 | 80 | Elena Baranova | 1,335 |
 | 81 | Brionna Jones | 1,333 |
@@ -322,7 +322,7 @@ _Last updated: 2026-05-16 00:47 UTC_
 | 96 | **Brianna Turner** 🔴 | 1,214 |
 | 97 | **Myisha Hines-Allen** 🔴 +1 | 1,209 |
 | 98 | DeMya Walker | 1,199 |
-| 99 | **Chelsea Gray** 🔴 +3 | 1,191 |
+| 99 | **Chelsea Gray** 🔴 +4 | 1,192 |
 | 100 | Latasha Byears | 1,190 |
 | 100 | Tanisha Wright | 1,190 |
 | 102 | Vicky Bullett | 1,189 |
@@ -1618,12 +1618,12 @@ _Last updated: 2026-05-16 00:47 UTC_
 | 162 | Merlakia Jones | 506 |
 | 162 | **Sophie Cunningham** 🔴 +2 | 506 |
 | 164 | **Jackie Young** 🔴 +2 | 505 |
+| 164 | **Monique Billings** 🔴 +3 | 505 |
 | 164 | Rushia Brown | 505 |
 | 164 | Shekinna Stricklen | 505 |
-| 167 | Allison Feaster | 504 |
-| 167 | Erin Perperoglou | 504 |
-| 167 | **Monique Billings** 🔴 +2 | 504 |
-| 167 | Napheesa Collier | 504 |
+| 168 | Allison Feaster | 504 |
+| 168 | Erin Perperoglou | 504 |
+| 168 | Napheesa Collier | 504 |
 | 171 | Iziane Castro Marques | 502 |
 | 172 | Elena Baranova | 501 |
 | 173 | Adrian Williams-Strong | 497 |
