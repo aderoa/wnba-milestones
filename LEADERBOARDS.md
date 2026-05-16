@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-16 02:51 UTC_
+_Last updated: 2026-05-16 02:52 UTC_
 
 ## Contents
 
@@ -74,7 +74,7 @@ _Last updated: 2026-05-16 02:51 UTC_
 | 53 | Rebekkah Brunson | 4,133 |
 | 54 | **Dearica Hamby** 🔴 +10 | 4,100 |
 | 55 | Jonquel Jones | 4,096 |
-| 56 | **Kahleah Copper** 🔴 +5 | 4,088 |
+| 56 | **Kahleah Copper** 🔴 +6 | 4,089 |
 | 57 | Courtney Williams | 4,061 |
 | 58 | Asjha Jones | 3,986 |
 | 59 | Deanna Nolan | 3,971 |
@@ -110,7 +110,7 @@ _Last updated: 2026-05-16 02:51 UTC_
 | 89 | Stefanie Dolson | 3,134 |
 | 90 | Shavonte Zellous | 3,103 |
 | 91 | Briann January | 3,082 |
-| 92 | **Erica Wheeler** 🔴 | 3,060 |
+| 92 | **Erica Wheeler** 🔴 +1 | 3,061 |
 | 93 | Erika de Souza | 3,046 |
 | 94 | Shameka Christon | 3,039 |
 | 95 | Sabrina Ionescu | 3,030 |
@@ -235,7 +235,7 @@ _Last updated: 2026-05-16 02:51 UTC_
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
-| 12 | **Alyssa Thomas** 🔴 +4 | 2,744 |
+| 12 | **Alyssa Thomas** 🔴 +5 | 2,745 |
 | 13 | Sancho Lyttle | 2,596 |
 | 14 | Jonquel Jones | 2,575 |
 | 15 | DeLisha Milton-Jones | 2,574 |
@@ -257,7 +257,7 @@ _Last updated: 2026-05-16 02:51 UTC_
 | 31 | Chasity Melvin | 2,097 |
 | 32 | Tammy Sutton-Brown | 2,010 |
 | 33 | Cheryl Ford | 1,907 |
-| 34 | **Elizabeth Williams** 🔴 +1 | 1,905 |
+| 34 | **Elizabeth Williams** 🔴 +2 | 1,906 |
 | 35 | Plenette Pierson | 1,834 |
 | 36 | Natalie Williams | 1,832 |
 | 37 | Wendy Palmer | 1,824 |
@@ -435,7 +435,7 @@ _Last updated: 2026-05-16 02:51 UTC_
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
 | 6 | Chelsea Gray | 1,880 |
-| 7 | **Alyssa Thomas** 🔴 +4 | 1,824 |
+| 7 | **Alyssa Thomas** 🔴 +5 | 1,825 |
 | 8 | **Skylar Diggins** 🔴 +3 | 1,771 |
 | 9 | **Natasha Cloud** 🔴 +3 | 1,736 |
 | 10 | Becky Hammon | 1,705 |
@@ -956,11 +956,11 @@ _Last updated: 2026-05-16 02:51 UTC_
 | 115 | Michelle Snow | 262 |
 | 116 | Karima Christmas-Kelly | 261 |
 | 117 | Riquna Williams | 260 |
+| 118 | **Kelsey Plum** 🔴 +3 | 256 |
 | 118 | Noelle Quinn | 256 |
-| 119 | Elaine Powell | 255 |
-| 119 | Kayla Thornton | 255 |
-| 119 | **Kelsey Plum** 🔴 +2 | 255 |
-| 119 | Loree Moore | 255 |
+| 120 | Elaine Powell | 255 |
+| 120 | Kayla Thornton | 255 |
+| 120 | Loree Moore | 255 |
 | 123 | Ruthie Bolton | 254 |
 | 124 | Hamchetou Maiga-Ba | 251 |
 | 124 | Tamika Whitmore | 251 |
@@ -1333,7 +1333,7 @@ _Last updated: 2026-05-16 02:51 UTC_
 | 82 | Kara Braxton | 570 |
 | 83 | Nikki McCray | 565 |
 | 84 | Sancho Lyttle | 563 |
-| 85 | **Brittney Sykes** 🔴 +1 | 559 |
+| 85 | **Brittney Sykes** 🔴 +2 | 560 |
 | 86 | Tan White | 557 |
 | 87 | Kelsey Mitchell | 552 |
 | 88 | Breanna Stewart | 549 |
@@ -1553,7 +1553,7 @@ _Last updated: 2026-05-16 02:51 UTC_
 | 96 | Chamique Holdsclaw | 667 |
 | 98 | Cheyenne Parker-Tyus | 662 |
 | 98 | Tianna Hawkins | 662 |
-| 100 | **Kelsey Plum** 🔴 +2 | 660 |
+| 100 | **Kelsey Plum** 🔴 +3 | 661 |
 | 101 | Jewell Loyd | 648 |
 | 101 | Tari Phillips | 648 |
 | 103 | Marie Ferdinand-Harris | 646 |
