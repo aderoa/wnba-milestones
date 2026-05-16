@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-16 02:46 UTC_
+_Last updated: 2026-05-16 02:47 UTC_
 
 ## Contents
 
@@ -843,7 +843,7 @@ _Last updated: 2026-05-16 02:46 UTC_
 | 2 | Ticha Penicheiro | 761 |
 | 3 | Sue Bird | 724 |
 | 4 | Alana Beard | 710 |
-| 5 | **Nneka Ogwumike** 🔴 | 668 |
+| 5 | **Nneka Ogwumike** 🔴 +1 | 669 |
 | 6 | Sheryl Swoopes | 657 |
 | 7 | Jia Perkins | 634 |
 | 8 | **DeWanna Bonner** 🔴 | 631 |
