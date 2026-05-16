@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-16 00:12 UTC_
+_Last updated: 2026-05-16 00:13 UTC_
 
 ## Contents
 
@@ -32,7 +32,7 @@ _Last updated: 2026-05-16 00:12 UTC_
 | 11 | Katie Smith | 6,450 |
 | 12 | Sylvia Fowles | 6,413 |
 | 13 | Lisa Leslie | 6,251 |
-| 14 | **Jewell Loyd** 🔴 | 6,027 |
+| 14 | **Jewell Loyd** 🔴 +3 | 6,030 |
 | 15 | Breanna Stewart | 6,016 |
 | 16 | Lauren Jackson | 6,005 |
 | 16 | Seimone Augustus | 6,005 |
@@ -422,8 +422,8 @@ _Last updated: 2026-05-16 00:12 UTC_
 | 196 | Katie Mattera | 708 |
 | 197 | Rushia Brown | 706 |
 | 198 | Allie Quigley | 702 |
-| 199 | Epiphanny Prince | 701 |
-| 199 | **Shakira Austin** 🔴 +1 | 701 |
+| 198 | **Shakira Austin** 🔴 +2 | 702 |
+| 200 | Epiphanny Prince | 701 |
 
 ## Assists
 
@@ -524,8 +524,8 @@ _Last updated: 2026-05-16 00:12 UTC_
 | 93 | Jennifer Azzi | 636 |
 | 94 | Brittney Griner | 635 |
 | 95 | Sami Whitcomb | 623 |
-| 96 | **A'ja Wilson** 🔴 +1 | 614 |
-| 96 | Alysha Clark | 614 |
+| 96 | **A'ja Wilson** 🔴 +2 | 615 |
+| 97 | Alysha Clark | 614 |
 | 98 | Debbie Black | 612 |
 | 99 | Cynthia Cooper | 602 |
 | 100 | Jonquel Jones | 600 |
@@ -1052,7 +1052,7 @@ _Last updated: 2026-05-16 00:12 UTC_
 | 6 | Katie Douglas | 723 |
 | 7 | Kayla McBride | 722 |
 | 8 | **Kelsey Mitchell** 🔴 +1 | 670 |
-| 9 | **Jewell Loyd** 🔴 | 667 |
+| 9 | **Jewell Loyd** 🔴 +1 | 668 |
 | 10 | DeWanna Bonner | 663 |
 | 11 | Kristi Toliver | 651 |
 | 12 | Tamika Catchings | 605 |
