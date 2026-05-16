@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-16 01:12 UTC
+
+- **Monique Billings** passed **Rebecca Allen** for **#198** all-time in points (career 1,515) — up from #199 entering today — _7:39 - 4th — WSH @ IND_
+
 ## 2026-05-16 01:10 UTC
 
 - **Caitlin Clark** passed **Bridget Pettis** and **Jennifer Gillom** for **#139** all-time in three-pointers (career 155) — up from #142 entering today — _8:11 - 4th — WSH @ IND_

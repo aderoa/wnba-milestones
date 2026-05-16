@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-16T01:12:00+00:00",
+    "text": "Monique Billings passed Rebecca Allen for #198 all-time in points (career 1,515) \u2014 up from #199 entering today \u2014 (7:39 - 4th \u2014 WSH @ IND)",
+    "kind": "rank_pass",
+    "player": "Monique Billings",
+    "stat": "points",
+    "rank": 198,
+    "passed_players": [
+      "Rebecca Allen"
+    ],
+    "new_total": 1515
+  },
+  {
     "ts": "2026-05-16T01:10:00+00:00",
     "text": "Caitlin Clark passed Bridget Pettis and Jennifer Gillom for #139 all-time in three-pointers (career 155) \u2014 up from #142 entering today \u2014 (8:11 - 4th \u2014 WSH @ IND)",
     "kind": "rank_pass",
@@ -2958,18 +2970,5 @@
       "Tan White"
     ],
     "new_total": 312
-  },
-  {
-    "ts": "2026-05-09T20:28:00+00:00",
-    "text": "Jewell Loyd passed Jasmine Thomas and Kayla Alexander for #140 all-time in blocks (career 92) \u2014 up from #141 entering today \u2014 (7:59 - 2nd \u2014 PHX @ LV)",
-    "kind": "rank_pass",
-    "player": "Jewell Loyd",
-    "stat": "blocks",
-    "rank": 140,
-    "passed_players": [
-      "Jasmine Thomas",
-      "Kayla Alexander"
-    ],
-    "new_total": 92
   }
 ]
