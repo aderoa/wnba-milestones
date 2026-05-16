@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-16 00:54 UTC_
+_Last updated: 2026-05-16 00:55 UTC_
 
 ## Contents
 
@@ -51,7 +51,7 @@ _Last updated: 2026-05-16 00:54 UTC_
 | 30 | Maya Moore | 4,984 |
 | 31 | Tiffany Hayes | 4,927 |
 | 32 | Sheryl Swoopes | 4,875 |
-| 33 | **Kelsey Mitchell** 🔴 +11 | 4,824 |
+| 33 | **Kelsey Mitchell** 🔴 +14 | 4,827 |
 | 34 | Alana Beard | 4,740 |
 | 35 | Chamique Holdsclaw | 4,713 |
 | 36 | Elena Delle Donne | 4,706 |
@@ -342,8 +342,8 @@ _Last updated: 2026-05-16 00:54 UTC_
 | 116 | Natasha Cloud | 1,080 |
 | 117 | Svetlana Abrosimova | 1,078 |
 | 118 | **NaLyssa Smith** 🔴 +3 | 1,057 |
-| 119 | **Aliyah Boston** 🔴 +3 | 1,054 |
-| 119 | Le'coe Willingham | 1,054 |
+| 119 | **Aliyah Boston** 🔴 +4 | 1,055 |
+| 120 | Le'coe Willingham | 1,054 |
 | 121 | Isabelle Harrison | 1,049 |
 | 122 | Nicole Ohlde | 1,040 |
 | 123 | Tamecka Dixon | 1,035 |
@@ -602,8 +602,8 @@ _Last updated: 2026-05-16 00:54 UTC_
 | 170 | Tamicha Jackson | 389 |
 | 172 | Riquna Williams | 387 |
 | 173 | Julie Allemand | 385 |
+| 174 | **Aliyah Boston** 🔴 +1 | 379 |
 | 174 | Dana Evans | 379 |
-| 175 | **Aliyah Boston** 🔴 | 378 |
 | 176 | Jessica Breland | 377 |
 | 177 | Shenise Johnson | 376 |
 | 178 | **Stephanie Talbot** 🔴 +1 | 373 |
@@ -1051,7 +1051,7 @@ _Last updated: 2026-05-16 00:54 UTC_
 | 5 | Tina Thompson | 745 |
 | 6 | Katie Douglas | 723 |
 | 7 | Kayla McBride | 722 |
-| 8 | **Kelsey Mitchell** 🔴 +1 | 670 |
+| 8 | **Kelsey Mitchell** 🔴 +2 | 671 |
 | 9 | **Jewell Loyd** 🔴 +1 | 668 |
 | 10 | DeWanna Bonner | 663 |
 | 11 | Kristi Toliver | 651 |
@@ -1384,7 +1384,7 @@ _Last updated: 2026-05-16 00:54 UTC_
 | 133 | Jennifer Gillom | 434 |
 | 133 | Nicole Ohlde | 434 |
 | 135 | Murriel Page | 432 |
-| 136 | **Jackie Young** 🔴 +3 | 427 |
+| 136 | **Jackie Young** 🔴 +2 | 426 |
 | 137 | Shameka Christon | 424 |
 | 138 | Cynthia Cooper | 422 |
 | 138 | Napheesa Collier | 422 |
