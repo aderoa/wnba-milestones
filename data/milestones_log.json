@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-05-16T04:30:00+00:00",
+    "text": "Kahleah Copper passed Iziane Castro Marques and Tiffany Mitchell for #158 all-time in steals (career 210) \u2014 up from #162 entering today \u2014 (Final \u2014 CHI @ PHX)",
+    "kind": "rank_pass",
+    "player": "Kahleah Copper",
+    "stat": "steals",
+    "rank": 158,
+    "passed_players": [
+      "Iziane Castro Marques",
+      "Tiffany Mitchell"
+    ],
+    "new_total": 210
+  },
+  {
     "ts": "2026-05-16T04:18:00+00:00",
     "text": "Kahleah Copper passed Shannon Johnson for #105 all-time in rebounds (career 1,144) \u2014 up from #106 entering today \u2014 (52.3 - 4th \u2014 CHI @ PHX)",
     "kind": "rank_pass",
@@ -2967,18 +2980,5 @@
       "Sue Wicks"
     ],
     "new_total": 154
-  },
-  {
-    "ts": "2026-05-10T01:08:00+00:00",
-    "text": "Bridget Carleton passed Charlotte Smith and Ruthie Bolton for #189 all-time in assists (career 353) \u2014 (6:52 - 1st \u2014 CHI @ POR)",
-    "kind": "rank_pass",
-    "player": "Bridget Carleton",
-    "stat": "assists",
-    "rank": 189,
-    "passed_players": [
-      "Charlotte Smith",
-      "Ruthie Bolton"
-    ],
-    "new_total": 353
   }
 ]

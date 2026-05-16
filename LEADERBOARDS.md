@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-16 04:29 UTC_
+_Last updated: 2026-05-16 04:30 UTC_
 
 ## Contents
 
@@ -995,10 +995,10 @@ _Last updated: 2026-05-16 04:29 UTC_
 | 154 | Cheyenne Parker-Tyus | 213 |
 | 154 | Shekinna Stricklen | 213 |
 | 156 | Nikki Teasley | 211 |
+| 157 | Kahleah Copper | 210 |
 | 157 | Rhyne Howard | 210 |
-| 158 | Iziane Castro Marques | 209 |
-| 158 | Kahleah Copper | 209 |
-| 158 | Tiffany Mitchell | 209 |
+| 159 | Iziane Castro Marques | 209 |
+| 159 | Tiffany Mitchell | 209 |
 | 161 | Kia Vaughn | 208 |
 | 161 | Sophia Witherspoon | 208 |
 | 163 | Shameka Christon | 205 |
