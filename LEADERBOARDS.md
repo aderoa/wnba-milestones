@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-16 03:21 UTC_
+_Last updated: 2026-05-16 03:22 UTC_
 
 ## Contents
 
@@ -1528,7 +1528,7 @@ _Last updated: 2026-05-16 03:21 UTC_
 | 72 | Becky Hammon | 733 |
 | 73 | Latasha Byears | 730 |
 | 74 | Kristi Toliver | 722 |
-| 75 | **Natasha Cloud** 🔴 +1 | 719 |
+| 75 | **Natasha Cloud** 🔴 +2 | 720 |
 | 76 | **Kahleah Copper** 🔴 +2 | 717 |
 | 77 | Cheryl Ford | 713 |
 | 78 | Jia Perkins | 711 |
