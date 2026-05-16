@@ -2,6 +2,11 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-16 01:04 UTC
+
+- **Shakira Austin** passed **Carolyn Swords** and **Rebecca Lobo** for **#117** all-time in blocks (career 105) — up from #121 entering today — _End of 3rd — WSH @ IND_
+- **Lexie Hull** passed **Emma Meesseman** and **Scholanda Dorrell** for **#186** all-time in three-pointers (career 110) — up from #187 entering today — _End of 3rd — WSH @ IND_
+
 ## 2026-05-16 01:00 UTC
 
 - **Jackie Young** passed **Merlakia Jones** for **#162** all-time in fouls (career 507) — up from #169 entering today — _3:35 - 3rd — LV @ CON_

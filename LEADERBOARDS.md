@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-16 01:03 UTC_
+_Last updated: 2026-05-16 01:04 UTC_
 
 ## Contents
 
@@ -554,7 +554,7 @@ _Last updated: 2026-05-16 01:03 UTC_
 | 122 | Chasity Melvin | 508 |
 | 124 | Anna DeForge | 503 |
 | 124 | Coco Miller | 503 |
-| 126 | **Myisha Hines-Allen** 🔴 | 497 |
+| 126 | **Myisha Hines-Allen** 🔴 +1 | 498 |
 | 127 | Rachel Banham | 495 |
 | 128 | Crystal Robinson | 488 |
 | 128 | Tiffany Mitchell | 488 |
@@ -750,9 +750,9 @@ _Last updated: 2026-05-16 01:03 UTC_
 | 114 | Erin Perperoglou | 108 |
 | 114 | Glory Johnson | 108 |
 | 116 | Sylvia Crawley | 106 |
-| 117 | Carolyn Swords | 104 |
-| 117 | Rebecca Lobo | 104 |
-| 117 | **Shakira Austin** 🔴 +1 | 104 |
+| 117 | **Shakira Austin** 🔴 +2 | 105 |
+| 118 | Carolyn Swords | 104 |
+| 118 | Rebecca Lobo | 104 |
 | 120 | Jennifer Gillom | 103 |
 | 120 | Jia Perkins | 103 |
 | 122 | Theresa Plaisance | 102 |
@@ -1036,7 +1036,7 @@ _Last updated: 2026-05-16 01:03 UTC_
 | 194 | Ezi Magbegor | 174 |
 | 194 | Margo Dydek | 174 |
 | 197 | Kamila Vodichkova | 173 |
-| 198 | **Monique Billings** 🔴 +1 | 171 |
+| 198 | **Monique Billings** 🔴 +2 | 172 |
 | 199 | Kara Braxton | 168 |
 | 199 | Sugar Rodgers | 168 |
 
@@ -1229,9 +1229,9 @@ _Last updated: 2026-05-16 01:03 UTC_
 | 182 | Sandy Brondello | 114 |
 | 184 | Jordin Canada | 111 |
 | 184 | Shoni Schimmel | 111 |
-| 186 | Emma Meesseman | 109 |
-| 186 | **Lexie Hull** 🔴 | 109 |
-| 186 | Scholanda Dorrell | 109 |
+| 186 | **Lexie Hull** 🔴 +1 | 110 |
+| 187 | Emma Meesseman | 109 |
+| 187 | Scholanda Dorrell | 109 |
 | 189 | Belinda Snell | 108 |
 | 189 | **Kennedy Burke** 🔴 +1 | 108 |
 | 189 | Rickea Jackson | 108 |

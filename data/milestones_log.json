@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-05-16T01:04:00+00:00",
+    "text": "Shakira Austin passed Carolyn Swords and Rebecca Lobo for #117 all-time in blocks (career 105) \u2014 up from #121 entering today \u2014 (End of 3rd \u2014 WSH @ IND)",
+    "kind": "rank_pass",
+    "player": "Shakira Austin",
+    "stat": "blocks",
+    "rank": 117,
+    "passed_players": [
+      "Carolyn Swords",
+      "Rebecca Lobo"
+    ],
+    "new_total": 105
+  },
+  {
+    "ts": "2026-05-16T01:04:00+00:00",
+    "text": "Lexie Hull passed Emma Meesseman and Scholanda Dorrell for #186 all-time in three-pointers (career 110) \u2014 up from #187 entering today \u2014 (End of 3rd \u2014 WSH @ IND)",
+    "kind": "rank_pass",
+    "player": "Lexie Hull",
+    "stat": "three-pointers",
+    "rank": 186,
+    "passed_players": [
+      "Emma Meesseman",
+      "Scholanda Dorrell"
+    ],
+    "new_total": 110
+  },
+  {
     "ts": "2026-05-16T01:00:00+00:00",
     "text": "Jackie Young passed Merlakia Jones for #162 all-time in fouls (career 507) \u2014 up from #169 entering today \u2014 (3:35 - 3rd \u2014 LV @ CON)",
     "kind": "rank_pass",
@@ -2946,31 +2972,5 @@
       "Marina Mabrey"
     ],
     "new_total": 822
-  },
-  {
-    "ts": "2026-05-09T19:44:00+00:00",
-    "text": "Jessica Shepard passed Kristen Rasmussen, Penny Toler, and Ezi Magbegor for #195 all-time in assists (career 346) \u2014 up from #199 entering today \u2014 (Final \u2014 DAL @ IND)",
-    "kind": "rank_pass",
-    "player": "Jessica Shepard",
-    "stat": "assists",
-    "rank": 195,
-    "passed_players": [
-      "Kristen Rasmussen",
-      "Penny Toler",
-      "Ezi Magbegor"
-    ],
-    "new_total": 346
-  },
-  {
-    "ts": "2026-05-09T19:44:00+00:00",
-    "text": "Odyssey Sims passed Renee Montgomery for #69 all-time in points (career 3,534) \u2014 up from #71 entering today \u2014 (Final \u2014 DAL @ IND)",
-    "kind": "rank_pass",
-    "player": "Odyssey Sims",
-    "stat": "points",
-    "rank": 69,
-    "passed_players": [
-      "Renee Montgomery"
-    ],
-    "new_total": 3534
   }
 ]
