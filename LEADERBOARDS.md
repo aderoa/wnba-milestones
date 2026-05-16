@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-16 04:20 UTC_
+_Last updated: 2026-05-16 04:21 UTC_
 
 ## Contents
 
@@ -328,7 +328,7 @@ _Last updated: 2026-05-16 04:20 UTC_
 | 102 | Vicky Bullett | 1,189 |
 | 103 | Kayla McBride | 1,182 |
 | 104 | Nykesha Sales | 1,148 |
-| 105 | **Kahleah Copper** 🔴 +4 | 1,144 |
+| 105 | **Kahleah Copper** 🔴 +5 | 1,145 |
 | 106 | Shannon Johnson | 1,143 |
 | 107 | Adrian Williams-Strong | 1,131 |
 | 108 | Andrea Stinson | 1,127 |
