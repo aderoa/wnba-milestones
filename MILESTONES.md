@@ -2,6 +2,11 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-16 03:30 UTC
+
+- **Elizabeth Williams** passed **Helen Darling** for **#79** all-time in fouls (career 710) — up from #80 entering today — _4:43 - 3rd — CHI @ PHX_
+- **Natasha Cloud** passed **Armintie Herrington** for **#74** all-time in steals (career 341) — up from #75 entering today — _4:43 - 3rd — CHI @ PHX_
+
 ## 2026-05-16 03:29 UTC
 
 - **Rickea Jackson** passed **Emma Meesseman**, **Lexie Hull**, and **Scholanda Dorrell** for **#186** all-time in three-pointers (career 110) — up from #190 entering today — _4:43 - 3rd — CHI @ PHX_

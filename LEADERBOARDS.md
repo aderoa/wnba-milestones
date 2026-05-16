@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-16 03:29 UTC_
+_Last updated: 2026-05-16 03:30 UTC_
 
 ## Contents
 
@@ -116,7 +116,7 @@ _Last updated: 2026-05-16 03:29 UTC_
 | 95 | Sabrina Ionescu | 3,030 |
 | 96 | Marie Ferdinand-Harris | 3,001 |
 | 97 | Emma Meesseman | 2,966 |
-| 98 | **Marina Mabrey** 🔴 +4 | 2,898 |
+| 98 | **Marina Mabrey** 🔴 +7 | 2,901 |
 | 99 | Natalie Williams | 2,894 |
 | 100 | Jennifer Gillom | 2,888 |
 | 101 | **Natasha Cloud** 🔴 +4 | 2,867 |
@@ -799,11 +799,11 @@ _Last updated: 2026-05-16 03:29 UTC_
 | 161 | Rushia Brown | 80 |
 | 164 | Astou Ndour-Fall | 78 |
 | 164 | Katie Smith | 78 |
+| 164 | **Marina Mabrey** 🔴 +1 | 78 |
 | 164 | Slobodanka Tuvic | 78 |
-| 167 | Kara Wolters | 77 |
-| 167 | **Marina Mabrey** 🔴 | 77 |
-| 167 | Noelle Quinn | 77 |
-| 167 | Tierra Ruffin-Pratt | 77 |
+| 168 | Kara Wolters | 77 |
+| 168 | Noelle Quinn | 77 |
+| 168 | Tierra Ruffin-Pratt | 77 |
 | 171 | Jennifer Lacy | 76 |
 | 171 | Sugar Rodgers | 76 |
 | 171 | Tan White | 76 |
@@ -912,8 +912,8 @@ _Last updated: 2026-05-16 03:29 UTC_
 | 71 | **Erica Wheeler** 🔴 +1 | 343 |
 | 71 | Helen Darling | 343 |
 | 73 | Andrea Stinson | 342 |
-| 74 | Armintie Herrington | 340 |
-| 74 | **Natasha Cloud** 🔴 | 340 |
+| 74 | **Natasha Cloud** 🔴 +1 | 341 |
+| 75 | Armintie Herrington | 340 |
 | 76 | Arike Ogunbowale | 339 |
 | 77 | Dawn Staley | 338 |
 | 78 | A'ja Wilson | 336 |
@@ -1072,7 +1072,7 @@ _Last updated: 2026-05-16 03:29 UTC_
 | 26 | Breanna Stewart | 454 |
 | 27 | Tiffany Hayes | 447 |
 | 28 | Ariel Atkins | 440 |
-| 29 | **Marina Mabrey** 🔴 | 439 |
+| 28 | **Marina Mabrey** 🔴 +1 | 440 |
 | 30 | Lauren Jackson | 436 |
 | 31 | Shameka Christon | 434 |
 | 32 | Allisha Gray | 426 |
@@ -1532,8 +1532,8 @@ _Last updated: 2026-05-16 03:29 UTC_
 | 76 | **Kahleah Copper** 🔴 +2 | 717 |
 | 77 | Cheryl Ford | 713 |
 | 78 | Jia Perkins | 711 |
-| 79 | **Elizabeth Williams** 🔴 +1 | 709 |
-| 79 | Helen Darling | 709 |
+| 79 | **Elizabeth Williams** 🔴 +2 | 710 |
+| 80 | Helen Darling | 709 |
 | 81 | Allisha Gray | 706 |
 | 82 | Matee Ajavon | 701 |
 | 82 | Nicole Powell | 701 |
