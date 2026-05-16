@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-16 02:18 UTC_
+_Last updated: 2026-05-16 02:19 UTC_
 
 ## Contents
 
@@ -119,7 +119,7 @@ _Last updated: 2026-05-16 02:18 UTC_
 | 98 | **Marina Mabrey** 🔴 | 2,894 |
 | 98 | Natalie Williams | 2,894 |
 | 100 | Jennifer Gillom | 2,888 |
-| 101 | Natasha Cloud | 2,863 |
+| 101 | **Natasha Cloud** 🔴 | 2,863 |
 | 102 | Iziane Castro Marques | 2,862 |
 | 103 | **Elizabeth Williams** 🔴 | 2,841 |
 | 104 | Alysha Clark | 2,787 |
@@ -230,7 +230,7 @@ _Last updated: 2026-05-16 02:18 UTC_
 | 4 | Rebekkah Brunson | 3,345 |
 | 5 | Tamika Catchings | 3,313 |
 | 6 | Lisa Leslie | 3,303 |
-| 7 | **Nneka Ogwumike** 🔴 +1 | 3,269 |
+| 7 | **Nneka Ogwumike** 🔴 +2 | 3,270 |
 | 8 | **DeWanna Bonner** 🔴 +1 | 3,204 |
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
@@ -339,7 +339,7 @@ _Last updated: 2026-05-16 02:18 UTC_
 | 113 | Becky Hammon | 1,108 |
 | 113 | **Brittney Sykes** 🔴 | 1,108 |
 | 115 | Ann Wauters | 1,105 |
-| 116 | Natasha Cloud | 1,080 |
+| 116 | **Natasha Cloud** 🔴 | 1,080 |
 | 117 | Svetlana Abrosimova | 1,078 |
 | 118 | NaLyssa Smith | 1,058 |
 | 119 | Aliyah Boston | 1,055 |
@@ -437,7 +437,7 @@ _Last updated: 2026-05-16 02:18 UTC_
 | 6 | Chelsea Gray | 1,880 |
 | 7 | **Alyssa Thomas** 🔴 +3 | 1,823 |
 | 8 | **Skylar Diggins** 🔴 +1 | 1,769 |
-| 9 | Natasha Cloud | 1,733 |
+| 9 | **Natasha Cloud** 🔴 | 1,733 |
 | 10 | Becky Hammon | 1,705 |
 | 11 | Candace Parker | 1,634 |
 | 12 | Cappie Pondexter | 1,575 |
@@ -793,7 +793,7 @@ _Last updated: 2026-05-16 02:18 UTC_
 | 157 | Charlotte Smith | 81 |
 | 157 | Cintia dos Santos | 81 |
 | 157 | Jessie Hicks | 81 |
-| 157 | Natasha Cloud | 81 |
+| 157 | **Natasha Cloud** 🔴 | 81 |
 | 161 | Damiris Dantas | 80 |
 | 161 | Nykesha Sales | 80 |
 | 161 | Rushia Brown | 80 |
@@ -903,8 +903,8 @@ _Last updated: 2026-05-16 02:18 UTC_
 | 62 | Vickie Johnson | 357 |
 | 63 | Dominique Canty | 356 |
 | 63 | Renee Montgomery | 356 |
+| 65 | **Brittney Sykes** 🔴 +1 | 355 |
 | 65 | Tamecka Dixon | 355 |
-| 66 | **Brittney Sykes** 🔴 | 354 |
 | 67 | Vicky Bullett | 353 |
 | 68 | Svetlana Abrosimova | 352 |
 | 69 | Allisha Gray | 349 |
@@ -913,7 +913,7 @@ _Last updated: 2026-05-16 02:18 UTC_
 | 72 | Andrea Stinson | 342 |
 | 72 | **Erica Wheeler** 🔴 | 342 |
 | 74 | Armintie Herrington | 340 |
-| 74 | Natasha Cloud | 340 |
+| 74 | **Natasha Cloud** 🔴 | 340 |
 | 76 | Arike Ogunbowale | 339 |
 | 77 | Dawn Staley | 338 |
 | 78 | A'ja Wilson | 336 |
@@ -1102,7 +1102,7 @@ _Last updated: 2026-05-16 02:18 UTC_
 | 56 | **Kahleah Copper** 🔴 | 341 |
 | 57 | Deanna Nolan | 340 |
 | 58 | Anna DeForge | 334 |
-| 59 | Natasha Cloud | 331 |
+| 59 | **Natasha Cloud** 🔴 | 331 |
 | 60 | **Erica Wheeler** 🔴 | 320 |
 | 61 | Sugar Rodgers | 317 |
 | 62 | Marissa Coleman | 315 |
@@ -1280,7 +1280,7 @@ _Last updated: 2026-05-16 02:18 UTC_
 | 29 | Jasmine Thomas | 796 |
 | 30 | Chamique Holdsclaw | 789 |
 | 31 | Natasha Howard | 784 |
-| 32 | **Nneka Ogwumike** 🔴 +1 | 783 |
+| 31 | **Nneka Ogwumike** 🔴 +2 | 784 |
 | 33 | Crystal Langhorne | 782 |
 | 34 | Jewell Loyd | 781 |
 | 35 | Camille Smith | 779 |
@@ -1305,7 +1305,7 @@ _Last updated: 2026-05-16 02:18 UTC_
 | 54 | Deanna Nolan | 669 |
 | 55 | Chasity Melvin | 666 |
 | 56 | **Erica Wheeler** 🔴 | 665 |
-| 56 | Natasha Cloud | 665 |
+| 56 | **Natasha Cloud** 🔴 | 665 |
 | 58 | Vickie Johnson | 660 |
 | 59 | **Dearica Hamby** 🔴 | 657 |
 | 60 | Yolanda Griffith | 653 |
@@ -1528,7 +1528,7 @@ _Last updated: 2026-05-16 02:18 UTC_
 | 72 | Becky Hammon | 733 |
 | 73 | Latasha Byears | 730 |
 | 74 | Kristi Toliver | 722 |
-| 75 | Natasha Cloud | 718 |
+| 75 | **Natasha Cloud** 🔴 | 718 |
 | 76 | **Kahleah Copper** 🔴 | 715 |
 | 77 | Cheryl Ford | 713 |
 | 78 | Jia Perkins | 711 |
@@ -1553,7 +1553,7 @@ _Last updated: 2026-05-16 02:18 UTC_
 | 96 | Chamique Holdsclaw | 667 |
 | 98 | Cheyenne Parker-Tyus | 662 |
 | 98 | Tianna Hawkins | 662 |
-| 100 | **Kelsey Plum** 🔴 | 658 |
+| 100 | **Kelsey Plum** 🔴 +1 | 659 |
 | 101 | Jewell Loyd | 648 |
 | 101 | Tari Phillips | 648 |
 | 103 | Marie Ferdinand-Harris | 646 |
