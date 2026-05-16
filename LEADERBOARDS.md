@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-16 01:15 UTC_
+_Last updated: 2026-05-16 01:16 UTC_
 
 ## Contents
 
@@ -192,7 +192,7 @@ _Last updated: 2026-05-16 01:15 UTC_
 | 171 | Nakia Sanford | 1,915 |
 | 172 | Ebony Hoffman | 1,909 |
 | 173 | Candice Wiggins | 1,901 |
-| 174 | **Myisha Hines-Allen** 🔴 | 1,873 |
+| 174 | **Myisha Hines-Allen** 🔴 +2 | 1,875 |
 | 175 | Isabelle Harrison | 1,832 |
 | 176 | Tianna Hawkins | 1,825 |
 | 177 | Noelle Quinn | 1,824 |
@@ -300,7 +300,7 @@ _Last updated: 2026-05-16 01:15 UTC_
 | 74 | Ebony Hoffman | 1,376 |
 | 75 | Sheri Sam | 1,356 |
 | 76 | Tamika Whitmore | 1,355 |
-| 77 | **Monique Billings** 🔴 +7 | 1,352 |
+| 77 | **Monique Billings** 🔴 +8 | 1,353 |
 | 78 | Emma Meesseman | 1,350 |
 | 79 | Allisha Gray | 1,347 |
 | 80 | Elena Baranova | 1,335 |
@@ -566,7 +566,7 @@ _Last updated: 2026-05-16 01:15 UTC_
 | 135 | Kahleah Copper | 463 |
 | 136 | Erin Phillips | 462 |
 | 137 | Sylvia Fowles | 461 |
-| 138 | **Caitlin Clark** 🔴 +4 | 456 |
+| 138 | **Caitlin Clark** 🔴 +5 | 457 |
 | 139 | Sydney Colson | 454 |
 | 140 | Elizabeth Williams | 452 |
 | 141 | Satou Sabally | 451 |
