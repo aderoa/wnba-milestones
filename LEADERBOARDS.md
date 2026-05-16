@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-16 00:04 UTC_
+_Last updated: 2026-05-16 00:05 UTC_
 
 ## Contents
 
@@ -95,7 +95,7 @@ _Last updated: 2026-05-16 00:04 UTC_
 | 74 | Sancho Lyttle | 3,478 |
 | 75 | Ivory Latta | 3,447 |
 | 76 | Brittney Sykes | 3,439 |
-| 77 | **Jackie Young** 🔴 +6 | 3,418 |
+| 77 | **Jackie Young** 🔴 +7 | 3,419 |
 | 78 | Nicole Powell | 3,407 |
 | 79 | Epiphanny Prince | 3,381 |
 | 80 | Ariel Atkins | 3,361 |
@@ -352,7 +352,7 @@ _Last updated: 2026-05-16 00:04 UTC_
 | 126 | Cathrine Kraayeveld | 1,013 |
 | 127 | Kelly Miller | 1,011 |
 | 127 | Noelle Quinn | 1,011 |
-| 129 | **Jackie Young** 🔴 +1 | 1,003 |
+| 129 | **Jackie Young** 🔴 +2 | 1,004 |
 | 130 | Tiffany Jackson | 1,002 |
 | 131 | Tianna Hawkins | 1,000 |
 | 132 | **Damiris Dantas** 🔴 +2 | 997 |
@@ -423,7 +423,7 @@ _Last updated: 2026-05-16 00:04 UTC_
 | 197 | Rushia Brown | 706 |
 | 198 | Allie Quigley | 702 |
 | 199 | Epiphanny Prince | 701 |
-| 200 | **Shakira Austin** 🔴 | 700 |
+| 199 | **Shakira Austin** 🔴 +1 | 701 |
 
 ## Assists
 
@@ -1271,8 +1271,8 @@ _Last updated: 2026-05-16 00:04 UTC_
 | 20 | Shannon Johnson | 934 |
 | 21 | Taj McWilliams-Franklin | 898 |
 | 22 | Skylar Diggins | 879 |
-| 23 | Candice Dupree | 869 |
-| 23 | **Chelsea Gray** 🔴 | 869 |
+| 23 | **Chelsea Gray** 🔴 +1 | 870 |
+| 24 | Candice Dupree | 869 |
 | 25 | Alana Beard | 854 |
 | 26 | DeWanna Bonner | 826 |
 | 27 | Katie Douglas | 824 |
