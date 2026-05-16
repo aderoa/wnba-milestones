@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-16 00:59 UTC_
+_Last updated: 2026-05-16 01:00 UTC_
 
 ## Contents
 
@@ -434,7 +434,7 @@ _Last updated: 2026-05-16 00:59 UTC_
 | 3 | Ticha Penicheiro | 2,588 |
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
-| 6 | **Chelsea Gray** 🔴 +5 | 1,875 |
+| 6 | **Chelsea Gray** 🔴 +6 | 1,876 |
 | 7 | Alyssa Thomas | 1,820 |
 | 8 | Skylar Diggins | 1,768 |
 | 9 | Natasha Cloud | 1,733 |
@@ -1335,7 +1335,7 @@ _Last updated: 2026-05-16 00:59 UTC_
 | 84 | Sancho Lyttle | 563 |
 | 85 | Brittney Sykes | 558 |
 | 86 | Tan White | 557 |
-| 87 | **Kelsey Mitchell** 🔴 +2 | 551 |
+| 87 | **Kelsey Mitchell** 🔴 +3 | 552 |
 | 88 | Breanna Stewart | 549 |
 | 88 | Lauren Jackson | 549 |
 | 90 | Matee Ajavon | 544 |
@@ -1613,11 +1613,11 @@ _Last updated: 2026-05-16 00:59 UTC_
 | 157 | Adrienne Goodson | 512 |
 | 157 | Janeth Arcain | 512 |
 | 159 | Andrea Stinson | 511 |
+| 160 | **Jackie Young** 🔴 +4 | 507 |
 | 160 | Kayla McBride | 507 |
 | 160 | Vicky Bullett | 507 |
-| 162 | **Jackie Young** 🔴 +3 | 506 |
-| 162 | Merlakia Jones | 506 |
-| 162 | **Sophie Cunningham** 🔴 +2 | 506 |
+| 163 | Merlakia Jones | 506 |
+| 163 | **Sophie Cunningham** 🔴 +2 | 506 |
 | 165 | **Monique Billings** 🔴 +3 | 505 |
 | 165 | Rushia Brown | 505 |
 | 165 | Shekinna Stricklen | 505 |
