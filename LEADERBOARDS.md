@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-16 02:35 UTC_
+_Last updated: 2026-05-16 02:36 UTC_
 
 ## Contents
 
@@ -21,10 +21,10 @@ _Last updated: 2026-05-16 02:35 UTC_
 |-----:|--------|------:|
 | 1 | Diana Taurasi | 10,608 |
 | 2 | Tina Charles | 8,396 |
-| 3 | **DeWanna Bonner** 🔴 +2 | 7,807 |
+| 3 | **DeWanna Bonner** 🔴 +3 | 7,808 |
 | 4 | Tina Thompson | 7,470 |
 | 5 | Tamika Catchings | 7,371 |
-| 6 | **Nneka Ogwumike** 🔴 +7 | 7,312 |
+| 6 | **Nneka Ogwumike** 🔴 +8 | 7,313 |
 | 7 | Candice Dupree | 6,861 |
 | 8 | Sue Bird | 6,802 |
 | 9 | Cappie Pondexter | 6,781 |
@@ -69,7 +69,7 @@ _Last updated: 2026-05-16 02:35 UTC_
 | 48 | Monique Currie | 4,253 |
 | 49 | Vickie Johnson | 4,230 |
 | 50 | Yolanda Griffith | 4,224 |
-| 51 | **Kelsey Plum** 🔴 +2 | 4,209 |
+| 51 | **Kelsey Plum** 🔴 +5 | 4,212 |
 | 52 | Allisha Gray | 4,157 |
 | 53 | Rebekkah Brunson | 4,133 |
 | 54 | **Dearica Hamby** 🔴 +10 | 4,100 |
@@ -1056,7 +1056,7 @@ _Last updated: 2026-05-16 02:35 UTC_
 | 10 | **DeWanna Bonner** 🔴 | 663 |
 | 11 | Kristi Toliver | 651 |
 | 12 | Tamika Catchings | 605 |
-| 13 | **Kelsey Plum** 🔴 | 588 |
+| 13 | **Kelsey Plum** 🔴 +1 | 589 |
 | 14 | Kara Lawson | 583 |
 | 15 | Nicole Powell | 579 |
 | 16 | Arike Ogunbowale | 545 |
@@ -1305,7 +1305,7 @@ _Last updated: 2026-05-16 02:35 UTC_
 | 54 | Deanna Nolan | 669 |
 | 55 | Chasity Melvin | 666 |
 | 55 | **Erica Wheeler** 🔴 +1 | 666 |
-| 57 | **Natasha Cloud** 🔴 | 665 |
+| 55 | **Natasha Cloud** 🔴 +1 | 666 |
 | 58 | Vickie Johnson | 660 |
 | 59 | **Dearica Hamby** 🔴 | 657 |
 | 60 | Yolanda Griffith | 653 |
@@ -1528,7 +1528,7 @@ _Last updated: 2026-05-16 02:35 UTC_
 | 72 | Becky Hammon | 733 |
 | 73 | Latasha Byears | 730 |
 | 74 | Kristi Toliver | 722 |
-| 75 | **Natasha Cloud** 🔴 | 718 |
+| 75 | **Natasha Cloud** 🔴 +1 | 719 |
 | 76 | **Kahleah Copper** 🔴 +1 | 716 |
 | 77 | Cheryl Ford | 713 |
 | 78 | Jia Perkins | 711 |
