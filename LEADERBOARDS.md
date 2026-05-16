@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-16 00:42 UTC_
+_Last updated: 2026-05-16 00:43 UTC_
 
 ## Contents
 
@@ -1384,7 +1384,7 @@ _Last updated: 2026-05-16 00:42 UTC_
 | 133 | Jennifer Gillom | 434 |
 | 133 | Nicole Ohlde | 434 |
 | 135 | Murriel Page | 432 |
-| 136 | **Jackie Young** 🔴 +2 | 426 |
+| 136 | **Jackie Young** 🔴 +3 | 427 |
 | 137 | Shameka Christon | 424 |
 | 138 | Cynthia Cooper | 422 |
 | 138 | Napheesa Collier | 422 |
@@ -1572,8 +1572,8 @@ _Last updated: 2026-05-16 00:42 UTC_
 | 116 | Svetlana Abrosimova | 613 |
 | 117 | Layshia Clarendon | 609 |
 | 118 | Kiah Stokes | 608 |
+| 119 | **Chelsea Gray** 🔴 +1 | 604 |
 | 119 | Tiffany Mitchell | 604 |
-| 120 | **Chelsea Gray** 🔴 | 603 |
 | 121 | Janel McCarville | 597 |
 | 121 | Odyssey Sims | 597 |
 | 123 | Kamila Vodichkova | 596 |
