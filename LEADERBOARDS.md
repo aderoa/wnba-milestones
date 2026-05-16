@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-16 04:04 UTC_
+_Last updated: 2026-05-16 04:05 UTC_
 
 ## Contents
 
@@ -56,7 +56,7 @@ _Last updated: 2026-05-16 04:04 UTC_
 | 35 | Chamique Holdsclaw | 4,713 |
 | 36 | Elena Delle Donne | 4,706 |
 | 37 | Penny Taylor | 4,595 |
-| 38 | **Alyssa Thomas** 🔴 +8 | 4,496 |
+| 38 | **Alyssa Thomas** 🔴 +10 | 4,498 |
 | 39 | Kristi Toliver | 4,474 |
 | 40 | Arike Ogunbowale | 4,464 |
 | 41 | Crystal Langhorne | 4,433 |
@@ -235,7 +235,7 @@ _Last updated: 2026-05-16 04:04 UTC_
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
-| 12 | **Alyssa Thomas** 🔴 +8 | 2,748 |
+| 12 | **Alyssa Thomas** 🔴 +9 | 2,749 |
 | 13 | Sancho Lyttle | 2,596 |
 | 14 | Jonquel Jones | 2,575 |
 | 15 | DeLisha Milton-Jones | 2,574 |
