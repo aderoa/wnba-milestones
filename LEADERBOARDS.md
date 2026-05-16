@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-16 02:47 UTC_
+_Last updated: 2026-05-16 02:48 UTC_
 
 ## Contents
 
@@ -909,8 +909,8 @@ _Last updated: 2026-05-16 02:47 UTC_
 | 68 | Svetlana Abrosimova | 352 |
 | 69 | Allisha Gray | 349 |
 | 70 | Janeth Arcain | 346 |
-| 71 | **Erica Wheeler** 🔴 +2 | 344 |
-| 72 | Helen Darling | 343 |
+| 71 | **Erica Wheeler** 🔴 +1 | 343 |
+| 71 | Helen Darling | 343 |
 | 73 | Andrea Stinson | 342 |
 | 74 | Armintie Herrington | 340 |
 | 74 | **Natasha Cloud** 🔴 | 340 |
