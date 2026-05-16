@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-16 00:19 UTC_
+_Last updated: 2026-05-16 00:20 UTC_
 
 ## Contents
 
@@ -1581,8 +1581,8 @@ _Last updated: 2026-05-16 00:19 UTC_
 | 125 | Emma Meesseman | 585 |
 | 126 | Chiney Ogwumike | 580 |
 | 126 | Hamchetou Maiga-Ba | 580 |
+| 126 | **Kelsey Mitchell** 🔴 +1 | 580 |
 | 126 | Olympia Scott | 580 |
-| 129 | **Kelsey Mitchell** 🔴 | 579 |
 | 130 | Ezi Magbegor | 576 |
 | 131 | Le'coe Willingham | 571 |
 | 132 | Ashley Robinson | 567 |
