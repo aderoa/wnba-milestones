@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-16 01:16 UTC_
+_Last updated: 2026-05-16 01:17 UTC_
 
 ## Contents
 
@@ -320,9 +320,9 @@ _Last updated: 2026-05-16 01:16 UTC_
 | 94 | Seimone Augustus | 1,228 |
 | 95 | Jia Perkins | 1,220 |
 | 96 | **Brianna Turner** 🔴 | 1,214 |
-| 97 | **Myisha Hines-Allen** 🔴 +1 | 1,209 |
+| 97 | **Myisha Hines-Allen** 🔴 +2 | 1,210 |
 | 98 | DeMya Walker | 1,199 |
-| 99 | **Chelsea Gray** 🔴 +4 | 1,192 |
+| 99 | **Chelsea Gray** 🔴 +5 | 1,193 |
 | 100 | Latasha Byears | 1,190 |
 | 100 | Tanisha Wright | 1,190 |
 | 102 | Vicky Bullett | 1,189 |
@@ -1182,7 +1182,7 @@ _Last updated: 2026-05-16 01:16 UTC_
 | 136 | Aari McDonald | 158 |
 | 136 | Jennifer Azzi | 158 |
 | 138 | Natasha Howard | 157 |
-| 139 | **Caitlin Clark** 🔴 +4 | 155 |
+| 139 | **Caitlin Clark** 🔴 +5 | 156 |
 | 140 | Bridget Pettis | 153 |
 | 140 | Jennifer Gillom | 153 |
 | 142 | Alanna Smith | 152 |
