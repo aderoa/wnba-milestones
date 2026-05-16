@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-16 02:30 UTC_
+_Last updated: 2026-05-16 02:31 UTC_
 
 ## Contents
 
@@ -385,9 +385,9 @@ _Last updated: 2026-05-16 02:30 UTC_
 | 159 | Marie Ferdinand-Harris | 828 |
 | 160 | Angel Reese | 823 |
 | 161 | Marlies Askamp | 822 |
-| 162 | Amanda Zahui B | 819 |
-| 162 | Barbara Farris | 819 |
-| 162 | **Marina Mabrey** 🔴 +1 | 819 |
+| 162 | **Marina Mabrey** 🔴 +2 | 820 |
+| 163 | Amanda Zahui B | 819 |
+| 163 | Barbara Farris | 819 |
 | 165 | Carolyn Swords | 814 |
 | 166 | Jessica Shepard | 813 |
 | 167 | Tierra Ruffin-Pratt | 799 |
@@ -1553,7 +1553,7 @@ _Last updated: 2026-05-16 02:30 UTC_
 | 96 | Chamique Holdsclaw | 667 |
 | 98 | Cheyenne Parker-Tyus | 662 |
 | 98 | Tianna Hawkins | 662 |
-| 100 | **Kelsey Plum** 🔴 +1 | 659 |
+| 100 | **Kelsey Plum** 🔴 +2 | 660 |
 | 101 | Jewell Loyd | 648 |
 | 101 | Tari Phillips | 648 |
 | 103 | Marie Ferdinand-Harris | 646 |
