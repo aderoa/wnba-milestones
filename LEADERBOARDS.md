@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-16 00:13 UTC_
+_Last updated: 2026-05-16 00:14 UTC_
 
 ## Contents
 
@@ -51,7 +51,7 @@ _Last updated: 2026-05-16 00:13 UTC_
 | 30 | Maya Moore | 4,984 |
 | 31 | Tiffany Hayes | 4,927 |
 | 32 | Sheryl Swoopes | 4,875 |
-| 33 | **Kelsey Mitchell** 🔴 +3 | 4,816 |
+| 33 | **Kelsey Mitchell** 🔴 +7 | 4,820 |
 | 34 | Alana Beard | 4,740 |
 | 35 | Chamique Holdsclaw | 4,713 |
 | 36 | Elena Delle Donne | 4,706 |
@@ -566,7 +566,7 @@ _Last updated: 2026-05-16 00:13 UTC_
 | 135 | Kahleah Copper | 463 |
 | 136 | Erin Phillips | 462 |
 | 137 | Sylvia Fowles | 461 |
-| 138 | **Caitlin Clark** 🔴 +3 | 455 |
+| 138 | **Caitlin Clark** 🔴 +4 | 456 |
 | 139 | Sydney Colson | 454 |
 | 140 | Elizabeth Williams | 452 |
 | 141 | Satou Sabally | 451 |
@@ -985,8 +985,8 @@ _Last updated: 2026-05-16 00:13 UTC_
 | 144 | DeMya Walker | 220 |
 | 144 | Jennifer Gillom | 220 |
 | 146 | Allison Feaster | 219 |
-| 147 | **Kelsey Mitchell** 🔴 | 217 |
-| 147 | Shenise Johnson | 217 |
+| 147 | **Kelsey Mitchell** 🔴 +1 | 218 |
+| 148 | Shenise Johnson | 217 |
 | 149 | Adrian Williams-Strong | 216 |
 | 149 | Moriah Jefferson | 216 |
 | 151 | Asjha Jones | 215 |
