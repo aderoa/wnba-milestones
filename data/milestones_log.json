@@ -1,5 +1,14 @@
 [
   {
+    "ts": "2026-05-16T03:21:00+00:00",
+    "text": "Kelsey Plum reached 1,200 career assists (now 1,200) \u2014 (6:19 - 3rd \u2014 TOR @ LA)",
+    "kind": "round",
+    "player": "Kelsey Plum",
+    "stat": "assists",
+    "value": 1200,
+    "new_total": 1200
+  },
+  {
     "ts": "2026-05-16T03:16:00+00:00",
     "text": "Kelsey Plum passed Leilani Mitchell for #28 all-time in assists (career 1,198) \u2014 up from #29 entering today \u2014 (8:01 - 3rd \u2014 TOR @ LA)",
     "kind": "rank_pass",
@@ -2968,18 +2977,5 @@
       "Loree Moore"
     ],
     "new_total": 563
-  },
-  {
-    "ts": "2026-05-10T00:10:00+00:00",
-    "text": "Nia Coffey passed Allisha Gray and Jessica Davenport for #77 all-time in blocks (career 152) \u2014 up from #79 entering today \u2014 (5:22 - 1st \u2014 ATL @ MIN)",
-    "kind": "rank_pass",
-    "player": "Nia Coffey",
-    "stat": "blocks",
-    "rank": 77,
-    "passed_players": [
-      "Allisha Gray",
-      "Jessica Davenport"
-    ],
-    "new_total": 152
   }
 ]
