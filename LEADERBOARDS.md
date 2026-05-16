@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-16 03:28 UTC_
+_Last updated: 2026-05-16 03:29 UTC_
 
 ## Contents
 
@@ -74,7 +74,7 @@ _Last updated: 2026-05-16 03:28 UTC_
 | 53 | Rebekkah Brunson | 4,133 |
 | 54 | **Dearica Hamby** 🔴 +19 | 4,109 |
 | 55 | Jonquel Jones | 4,096 |
-| 56 | **Kahleah Copper** 🔴 +11 | 4,094 |
+| 55 | **Kahleah Copper** 🔴 +13 | 4,096 |
 | 57 | Courtney Williams | 4,061 |
 | 58 | Asjha Jones | 3,986 |
 | 59 | Deanna Nolan | 3,971 |
@@ -116,7 +116,7 @@ _Last updated: 2026-05-16 03:28 UTC_
 | 95 | Sabrina Ionescu | 3,030 |
 | 96 | Marie Ferdinand-Harris | 3,001 |
 | 97 | Emma Meesseman | 2,966 |
-| 98 | **Marina Mabrey** 🔴 +2 | 2,896 |
+| 98 | **Marina Mabrey** 🔴 +4 | 2,898 |
 | 99 | Natalie Williams | 2,894 |
 | 100 | Jennifer Gillom | 2,888 |
 | 101 | **Natasha Cloud** 🔴 +4 | 2,867 |
@@ -235,7 +235,7 @@ _Last updated: 2026-05-16 03:28 UTC_
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
-| 12 | **Alyssa Thomas** 🔴 +6 | 2,746 |
+| 12 | **Alyssa Thomas** 🔴 +7 | 2,747 |
 | 13 | Sancho Lyttle | 2,596 |
 | 14 | Jonquel Jones | 2,575 |
 | 15 | DeLisha Milton-Jones | 2,574 |
@@ -1230,9 +1230,9 @@ _Last updated: 2026-05-16 03:28 UTC_
 | 184 | Jordin Canada | 111 |
 | 184 | Lexie Hull | 111 |
 | 184 | Shoni Schimmel | 111 |
-| 187 | Emma Meesseman | 109 |
-| 187 | **Rickea Jackson** 🔴 +1 | 109 |
-| 187 | Scholanda Dorrell | 109 |
+| 187 | **Rickea Jackson** 🔴 +2 | 110 |
+| 188 | Emma Meesseman | 109 |
+| 188 | Scholanda Dorrell | 109 |
 | 190 | Belinda Snell | 108 |
 | 190 | Kennedy Burke | 108 |
 | 192 | Layshia Clarendon | 107 |
@@ -1262,7 +1262,7 @@ _Last updated: 2026-05-16 03:28 UTC_
 | 11 | Tamika Catchings | 1,041 |
 | 12 | Tina Charles | 1,040 |
 | 13 | Lindsay Whalen | 1,002 |
-| 14 | **Alyssa Thomas** 🔴 +2 | 967 |
+| 14 | **Alyssa Thomas** 🔴 +3 | 968 |
 | 15 | Sylvia Fowles | 961 |
 | 16 | Tanisha Wright | 954 |
 | 17 | Angel McCoughtry | 949 |

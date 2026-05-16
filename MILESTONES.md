@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-16 03:29 UTC
+
+- **Rickea Jackson** passed **Emma Meesseman**, **Lexie Hull**, and **Scholanda Dorrell** for **#186** all-time in three-pointers (career 110) — up from #190 entering today — _4:43 - 3rd — CHI @ PHX_
+
 ## 2026-05-16 03:27 UTC
 
 - **Kelsey Plum** passed **Odyssey Sims** for **#27** all-time in assists (career 1,202) — up from #29 entering today — _3:41 - 3rd — TOR @ LA_
