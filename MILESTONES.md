@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-16 00:51 UTC
+
+- **Jewell Loyd** passed **Marie Ferdinand-Harris** for **#102** all-time in fouls (career 647) — up from #103 entering today — _5:11 - 3rd — LV @ CON_
+
 ## 2026-05-16 00:21 UTC
 
 - **Myisha Hines-Allen** passed **Mercedes Russell** and **Rhonda Mapp** for **#189** all-time in blocks (career 70) — up from #190 entering today — _33.3 - 2nd — WSH @ IND_
