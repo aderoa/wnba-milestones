@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-16 01:28 UTC_
+_Last updated: 2026-05-16 01:29 UTC_
 
 ## Contents
 
@@ -1579,10 +1579,10 @@ _Last updated: 2026-05-16 01:28 UTC_
 | 123 | Kamila Vodichkova | 596 |
 | 124 | Teresa Weatherspoon | 589 |
 | 125 | Emma Meesseman | 585 |
-| 126 | Chiney Ogwumike | 580 |
-| 126 | Hamchetou Maiga-Ba | 580 |
-| 126 | **Kelsey Mitchell** 🔴 +1 | 580 |
-| 126 | Olympia Scott | 580 |
+| 126 | **Kelsey Mitchell** 🔴 +2 | 581 |
+| 127 | Chiney Ogwumike | 580 |
+| 127 | Hamchetou Maiga-Ba | 580 |
+| 127 | Olympia Scott | 580 |
 | 130 | Ezi Magbegor | 576 |
 | 131 | Le'coe Willingham | 571 |
 | 132 | Ashley Robinson | 567 |
@@ -1615,9 +1615,9 @@ _Last updated: 2026-05-16 01:28 UTC_
 | 159 | Andrea Stinson | 511 |
 | 160 | **Jackie Young** 🔴 +4 | 507 |
 | 160 | Kayla McBride | 507 |
+| 160 | **Sophie Cunningham** 🔴 +3 | 507 |
 | 160 | Vicky Bullett | 507 |
-| 163 | Merlakia Jones | 506 |
-| 163 | **Sophie Cunningham** 🔴 +2 | 506 |
+| 164 | Merlakia Jones | 506 |
 | 165 | **Monique Billings** 🔴 +3 | 505 |
 | 165 | Rushia Brown | 505 |
 | 165 | Shekinna Stricklen | 505 |
