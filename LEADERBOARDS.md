@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-16 03:35 UTC_
+_Last updated: 2026-05-16 03:36 UTC_
 
 ## Contents
 
@@ -93,7 +93,7 @@ _Last updated: 2026-05-16 03:35 UTC_
 | 72 | Tamecka Dixon | 3,507 |
 | 73 | Tammy Sutton-Brown | 3,498 |
 | 74 | Sancho Lyttle | 3,478 |
-| 75 | **Brittney Sykes** 🔴 +10 | 3,449 |
+| 75 | **Brittney Sykes** 🔴 +13 | 3,452 |
 | 76 | Ivory Latta | 3,447 |
 | 77 | Jackie Young | 3,425 |
 | 78 | Nicole Powell | 3,407 |
@@ -164,7 +164,7 @@ _Last updated: 2026-05-16 03:35 UTC_
 | 142 | Teaira McCowan | 2,215 |
 | 144 | Sami Whitcomb | 2,211 |
 | 145 | Sophia Witherspoon | 2,210 |
-| 146 | Kia Nurse | 2,190 |
+| 146 | **Kia Nurse** 🔴 | 2,190 |
 | 147 | Ruthie Bolton | 2,175 |
 | 148 | Ann Wauters | 2,170 |
 | 149 | Layshia Clarendon | 2,168 |
@@ -595,7 +595,7 @@ _Last updated: 2026-05-16 03:35 UTC_
 | 164 | Allison Feaster | 406 |
 | 165 | Rita Williams | 403 |
 | 166 | Marissa Coleman | 399 |
-| 167 | Kia Nurse | 398 |
+| 167 | **Kia Nurse** 🔴 | 398 |
 | 168 | Stacey Dales | 395 |
 | 169 | Sugar Rodgers | 393 |
 | 170 | **Julie Allemand** 🔴 +4 | 389 |
@@ -1094,7 +1094,7 @@ _Last updated: 2026-05-16 03:35 UTC_
 | 48 | Epiphanny Prince | 368 |
 | 49 | Rhyne Howard | 366 |
 | 50 | Jonquel Jones | 357 |
-| 51 | Kia Nurse | 356 |
+| 51 | **Kia Nurse** 🔴 | 356 |
 | 52 | Nykesha Sales | 352 |
 | 53 | Cathrine Kraayeveld | 343 |
 | 53 | Elena Delle Donne | 343 |
@@ -1430,7 +1430,7 @@ _Last updated: 2026-05-16 03:35 UTC_
 | 179 | Olympia Scott | 324 |
 | 180 | Satou Sabally | 323 |
 | 181 | Barbara Farris | 315 |
-| 182 | Kia Nurse | 314 |
+| 182 | **Kia Nurse** 🔴 | 314 |
 | 182 | Moriah Jefferson | 314 |
 | 184 | Alex Bentley | 313 |
 | 185 | Tamika Raymond | 311 |
@@ -1642,7 +1642,7 @@ _Last updated: 2026-05-16 03:35 UTC_
 | 186 | Seimone Augustus | 477 |
 | 187 | Allie Quigley | 475 |
 | 187 | **Rachel Banham** 🔴 +3 | 475 |
-| 189 | Kia Nurse | 465 |
+| 189 | **Kia Nurse** 🔴 | 465 |
 | 190 | Azurá Stevens | 463 |
 | 190 | Christi Thomas | 463 |
 | 190 | Nikki Teasley | 463 |
