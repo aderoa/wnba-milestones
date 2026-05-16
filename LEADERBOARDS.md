@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-16 03:17 UTC_
+_Last updated: 2026-05-16 03:18 UTC_
 
 ## Contents
 
@@ -72,7 +72,7 @@ _Last updated: 2026-05-16 03:17 UTC_
 | 51 | **Kelsey Plum** 🔴 +7 | 4,214 |
 | 52 | Allisha Gray | 4,157 |
 | 53 | Rebekkah Brunson | 4,133 |
-| 54 | **Dearica Hamby** 🔴 +12 | 4,102 |
+| 54 | **Dearica Hamby** 🔴 +15 | 4,105 |
 | 55 | Jonquel Jones | 4,096 |
 | 56 | **Kahleah Copper** 🔴 +11 | 4,094 |
 | 57 | Courtney Williams | 4,061 |
@@ -230,7 +230,7 @@ _Last updated: 2026-05-16 03:17 UTC_
 | 4 | Rebekkah Brunson | 3,345 |
 | 5 | Tamika Catchings | 3,313 |
 | 6 | Lisa Leslie | 3,303 |
-| 7 | **Nneka Ogwumike** 🔴 +2 | 3,270 |
+| 7 | **Nneka Ogwumike** 🔴 +3 | 3,271 |
 | 8 | **DeWanna Bonner** 🔴 +5 | 3,208 |
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
@@ -456,7 +456,7 @@ _Last updated: 2026-05-16 03:17 UTC_
 | 25 | Katie Smith | 1,258 |
 | 26 | Vickie Johnson | 1,202 |
 | 27 | Odyssey Sims | 1,201 |
-| 28 | **Kelsey Plum** 🔴 +5 | 1,198 |
+| 28 | **Kelsey Plum** 🔴 +6 | 1,199 |
 | 29 | Leilani Mitchell | 1,197 |
 | 30 | **DeWanna Bonner** 🔴 | 1,176 |
 | 31 | Renee Montgomery | 1,140 |
@@ -1549,7 +1549,7 @@ _Last updated: 2026-05-16 03:17 UTC_
 | 93 | Jennifer Lacy | 680 |
 | 93 | Temeka Johnson | 680 |
 | 95 | Kelly Miller | 676 |
-| 96 | **Brittney Sykes** 🔴 +2 | 668 |
+| 96 | **Brittney Sykes** 🔴 +3 | 669 |
 | 97 | Chamique Holdsclaw | 667 |
 | 98 | Cheyenne Parker-Tyus | 662 |
 | 98 | Tianna Hawkins | 662 |
