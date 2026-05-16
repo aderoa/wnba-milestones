@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-16 01:18 UTC_
+_Last updated: 2026-05-16 01:19 UTC_
 
 ## Contents
 
@@ -32,7 +32,7 @@ _Last updated: 2026-05-16 01:18 UTC_
 | 11 | Katie Smith | 6,450 |
 | 12 | Sylvia Fowles | 6,413 |
 | 13 | Lisa Leslie | 6,251 |
-| 14 | **Jewell Loyd** 🔴 +4 | 6,031 |
+| 14 | **Jewell Loyd** 🔴 +6 | 6,033 |
 | 15 | Breanna Stewart | 6,016 |
 | 16 | Lauren Jackson | 6,005 |
 | 16 | Seimone Augustus | 6,005 |
@@ -211,7 +211,7 @@ _Last updated: 2026-05-16 01:18 UTC_
 | 190 | Nikki Teasley | 1,690 |
 | 191 | Shenise Johnson | 1,688 |
 | 192 | **NaLyssa Smith** 🔴 +4 | 1,680 |
-| 193 | **Sophie Cunningham** 🔴 +5 | 1,671 |
+| 193 | **Sophie Cunningham** 🔴 +7 | 1,673 |
 | 194 | Gabby Williams | 1,597 |
 | 195 | Janell Burse | 1,580 |
 | 196 | Le'coe Willingham | 1,552 |
@@ -291,7 +291,7 @@ _Last updated: 2026-05-16 01:18 UTC_
 | 65 | Nicole Powell | 1,457 |
 | 66 | Alysha Clark | 1,454 |
 | 67 | Tamera Young | 1,433 |
-| 68 | **Cheyenne Parker-Tyus** 🔴 +3 | 1,427 |
+| 68 | **Cheyenne Parker-Tyus** 🔴 +2 | 1,426 |
 | 69 | Alana Beard | 1,420 |
 | 70 | Nakia Sanford | 1,419 |
 | 71 | Kara Braxton | 1,387 |
@@ -434,7 +434,7 @@ _Last updated: 2026-05-16 01:18 UTC_
 | 3 | Ticha Penicheiro | 2,588 |
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
-| 6 | **Chelsea Gray** 🔴 +7 | 1,877 |
+| 6 | **Chelsea Gray** 🔴 +8 | 1,878 |
 | 7 | Alyssa Thomas | 1,820 |
 | 8 | Skylar Diggins | 1,768 |
 | 9 | Natasha Cloud | 1,733 |
@@ -461,7 +461,7 @@ _Last updated: 2026-05-16 01:18 UTC_
 | 30 | DeWanna Bonner | 1,176 |
 | 31 | Renee Montgomery | 1,140 |
 | 32 | Jordin Canada | 1,139 |
-| 33 | **Jewell Loyd** 🔴 | 1,133 |
+| 33 | **Jewell Loyd** 🔴 +1 | 1,134 |
 | 34 | Swin Cash | 1,131 |
 | 35 | Lindsey Harding | 1,090 |
 | 36 | Katie Douglas | 1,069 |
@@ -872,7 +872,7 @@ _Last updated: 2026-05-16 01:18 UTC_
 | 31 | Tina Thompson | 452 |
 | 32 | Maya Moore | 449 |
 | 33 | Skylar Diggins | 445 |
-| 34 | **Jewell Loyd** 🔴 | 441 |
+| 34 | **Jewell Loyd** 🔴 +1 | 442 |
 | 35 | Sheri Sam | 438 |
 | 36 | Camille Smith | 437 |
 | 37 | **Chelsea Gray** 🔴 | 436 |
