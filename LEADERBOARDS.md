@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-16 02:34 UTC_
+_Last updated: 2026-05-16 02:35 UTC_
 
 ## Contents
 
@@ -377,7 +377,7 @@ _Last updated: 2026-05-16 02:34 UTC_
 | 151 | Mistie Bass | 888 |
 | 152 | Shameka Christon | 867 |
 | 153 | Krystal Thomas | 862 |
-| 154 | **Erica Wheeler** 🔴 | 852 |
+| 154 | **Erica Wheeler** 🔴 +1 | 853 |
 | 155 | Leilani Mitchell | 845 |
 | 156 | Alanna Smith | 834 |
 | 157 | Essence Carson | 833 |
@@ -600,8 +600,8 @@ _Last updated: 2026-05-16 02:34 UTC_
 | 169 | Sugar Rodgers | 393 |
 | 170 | Shameka Christon | 389 |
 | 170 | Tamicha Jackson | 389 |
+| 172 | **Julie Allemand** 🔴 +2 | 387 |
 | 172 | Riquna Williams | 387 |
-| 173 | **Julie Allemand** 🔴 +1 | 386 |
 | 174 | Aliyah Boston | 379 |
 | 174 | Dana Evans | 379 |
 | 176 | Jessica Breland | 377 |
@@ -1304,8 +1304,8 @@ _Last updated: 2026-05-16 02:34 UTC_
 | 53 | Tammy Sutton-Brown | 672 |
 | 54 | Deanna Nolan | 669 |
 | 55 | Chasity Melvin | 666 |
-| 56 | **Erica Wheeler** 🔴 | 665 |
-| 56 | **Natasha Cloud** 🔴 | 665 |
+| 55 | **Erica Wheeler** 🔴 +1 | 666 |
+| 57 | **Natasha Cloud** 🔴 | 665 |
 | 58 | Vickie Johnson | 660 |
 | 59 | **Dearica Hamby** 🔴 | 657 |
 | 60 | Yolanda Griffith | 653 |
@@ -1490,7 +1490,7 @@ _Last updated: 2026-05-16 02:34 UTC_
 | 34 | Mwadi Mabika | 941 |
 | 35 | Tamika Whitmore | 940 |
 | 36 | Courtney Vandersloot | 938 |
-| 37 | **Alyssa Thomas** 🔴 +1 | 926 |
+| 37 | **Alyssa Thomas** 🔴 +2 | 927 |
 | 38 | Briann January | 921 |
 | 39 | Ticha Penicheiro | 913 |
 | 40 | Shavonte Zellous | 907 |

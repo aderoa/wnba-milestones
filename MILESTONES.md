@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-16 02:35 UTC
+
+- **Erica Wheeler** passed **Natasha Cloud** for **#57** all-time in turnovers (career 666) — _6:45 - 2nd — TOR @ LA_
+
 ## 2026-05-16 02:24 UTC
 
 - **Brittney Sykes** passed **Tamecka Dixon** for **#65** all-time in steals (career 356) — up from #66 entering today — _26.3 - 1st — TOR @ LA_

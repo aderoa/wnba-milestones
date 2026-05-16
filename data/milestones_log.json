@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-16T02:35:00+00:00",
+    "text": "Erica Wheeler passed Natasha Cloud for #57 all-time in turnovers (career 666) \u2014 (6:45 - 2nd \u2014 TOR @ LA)",
+    "kind": "rank_pass",
+    "player": "Erica Wheeler",
+    "stat": "turnovers",
+    "rank": 57,
+    "passed_players": [
+      "Natasha Cloud"
+    ],
+    "new_total": 666
+  },
+  {
     "ts": "2026-05-16T02:24:00+00:00",
     "text": "Brittney Sykes passed Tamecka Dixon for #65 all-time in steals (career 356) \u2014 up from #66 entering today \u2014 (26.3 - 1st \u2014 TOR @ LA)",
     "kind": "rank_pass",
@@ -2959,18 +2971,5 @@
       "Le'coe Willingham"
     ],
     "new_total": 1055
-  },
-  {
-    "ts": "2026-05-09T21:11:00+00:00",
-    "text": "NaLyssa Smith passed Astou Ndiaye-Diatta and Kayla Thornton for #147 all-time in blocks (career 87) \u2014 up from #149 entering today \u2014 (8:07 - 3rd \u2014 PHX @ LV)",
-    "kind": "rank_pass",
-    "player": "NaLyssa Smith",
-    "stat": "blocks",
-    "rank": 147,
-    "passed_players": [
-      "Astou Ndiaye-Diatta",
-      "Kayla Thornton"
-    ],
-    "new_total": 87
   }
 ]
