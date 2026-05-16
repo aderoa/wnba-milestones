@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-16 00:46 UTC_
+_Last updated: 2026-05-16 00:47 UTC_
 
 ## Contents
 
@@ -322,9 +322,9 @@ _Last updated: 2026-05-16 00:46 UTC_
 | 96 | **Brianna Turner** 🔴 | 1,214 |
 | 97 | **Myisha Hines-Allen** 🔴 +1 | 1,209 |
 | 98 | DeMya Walker | 1,199 |
-| 99 | **Chelsea Gray** 🔴 +2 | 1,190 |
-| 99 | Latasha Byears | 1,190 |
-| 99 | Tanisha Wright | 1,190 |
+| 99 | **Chelsea Gray** 🔴 +3 | 1,191 |
+| 100 | Latasha Byears | 1,190 |
+| 100 | Tanisha Wright | 1,190 |
 | 102 | Vicky Bullett | 1,189 |
 | 103 | Kayla McBride | 1,182 |
 | 104 | Nykesha Sales | 1,148 |
@@ -341,7 +341,7 @@ _Last updated: 2026-05-16 00:46 UTC_
 | 115 | Ann Wauters | 1,105 |
 | 116 | Natasha Cloud | 1,080 |
 | 117 | Svetlana Abrosimova | 1,078 |
-| 118 | **NaLyssa Smith** 🔴 +1 | 1,055 |
+| 118 | **NaLyssa Smith** 🔴 +2 | 1,056 |
 | 119 | Le'coe Willingham | 1,054 |
 | 120 | **Aliyah Boston** 🔴 +2 | 1,053 |
 | 121 | Isabelle Harrison | 1,049 |
@@ -1384,7 +1384,7 @@ _Last updated: 2026-05-16 00:46 UTC_
 | 133 | Jennifer Gillom | 434 |
 | 133 | Nicole Ohlde | 434 |
 | 135 | Murriel Page | 432 |
-| 136 | **Jackie Young** 🔴 +2 | 426 |
+| 136 | **Jackie Young** 🔴 +3 | 427 |
 | 137 | Shameka Christon | 424 |
 | 138 | Cynthia Cooper | 422 |
 | 138 | Napheesa Collier | 422 |
@@ -1617,13 +1617,13 @@ _Last updated: 2026-05-16 00:46 UTC_
 | 160 | Vicky Bullett | 507 |
 | 162 | Merlakia Jones | 506 |
 | 162 | **Sophie Cunningham** 🔴 +2 | 506 |
+| 164 | **Jackie Young** 🔴 +2 | 505 |
 | 164 | Rushia Brown | 505 |
 | 164 | Shekinna Stricklen | 505 |
-| 166 | Allison Feaster | 504 |
-| 166 | Erin Perperoglou | 504 |
-| 166 | **Jackie Young** 🔴 +1 | 504 |
-| 166 | **Monique Billings** 🔴 +2 | 504 |
-| 166 | Napheesa Collier | 504 |
+| 167 | Allison Feaster | 504 |
+| 167 | Erin Perperoglou | 504 |
+| 167 | **Monique Billings** 🔴 +2 | 504 |
+| 167 | Napheesa Collier | 504 |
 | 171 | Iziane Castro Marques | 502 |
 | 172 | Elena Baranova | 501 |
 | 173 | Adrian Williams-Strong | 497 |
