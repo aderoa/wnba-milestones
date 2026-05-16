@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-16T04:18:00+00:00",
+    "text": "Kahleah Copper passed Shannon Johnson for #105 all-time in rebounds (career 1,144) \u2014 up from #106 entering today \u2014 (52.3 - 4th \u2014 CHI @ PHX)",
+    "kind": "rank_pass",
+    "player": "Kahleah Copper",
+    "stat": "rebounds",
+    "rank": 105,
+    "passed_players": [
+      "Shannon Johnson"
+    ],
+    "new_total": 1144
+  },
+  {
     "ts": "2026-05-16T04:09:00+00:00",
     "text": "Rickea Jackson passed Jordin Canada and Shoni Schimmel for #184 all-time in three-pointers (career 112) \u2014 up from #190 entering today \u2014 (3:32 - 4th \u2014 CHI @ PHX)",
     "kind": "rank_pass",
@@ -2968,17 +2980,5 @@
       "Ruthie Bolton"
     ],
     "new_total": 353
-  },
-  {
-    "ts": "2026-05-10T00:53:00+00:00",
-    "text": "Nia Coffey passed Bria Hartley for #197 all-time in fouls (career 449) \u2014 up from #198 entering today \u2014 (29.8 - 2nd \u2014 ATL @ MIN)",
-    "kind": "rank_pass",
-    "player": "Nia Coffey",
-    "stat": "fouls",
-    "rank": 197,
-    "passed_players": [
-      "Bria Hartley"
-    ],
-    "new_total": 449
   }
 ]
