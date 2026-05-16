@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-05-16T00:57:00+00:00",
+    "text": "Jackie Young passed Rushia Brown and Shekinna Stricklen for #163 all-time in fouls (career 506) \u2014 up from #169 entering today \u2014 (4:12 - 3rd \u2014 LV @ CON)",
+    "kind": "rank_pass",
+    "player": "Jackie Young",
+    "stat": "fouls",
+    "rank": 163,
+    "passed_players": [
+      "Rushia Brown",
+      "Shekinna Stricklen"
+    ],
+    "new_total": 506
+  },
+  {
     "ts": "2026-05-16T00:51:00+00:00",
     "text": "Jewell Loyd passed Marie Ferdinand-Harris for #102 all-time in fouls (career 647) \u2014 up from #103 entering today \u2014 (5:11 - 3rd \u2014 LV @ CON)",
     "kind": "rank_pass",
@@ -2959,18 +2972,5 @@
       "Vickie Johnson"
     ],
     "new_total": 1203
-  },
-  {
-    "ts": "2026-05-09T19:44:00+00:00",
-    "text": "Aliyah Boston passed Danielle Adams and Damiris Dantas for #178 all-time in points (career 1,821) \u2014 up from #180 entering today \u2014 (Final \u2014 DAL @ IND)",
-    "kind": "rank_pass",
-    "player": "Aliyah Boston",
-    "stat": "points",
-    "rank": 178,
-    "passed_players": [
-      "Danielle Adams",
-      "Damiris Dantas"
-    ],
-    "new_total": 1821
   }
 ]
