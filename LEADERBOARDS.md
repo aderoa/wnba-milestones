@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-16 02:58 UTC_
+_Last updated: 2026-05-16 02:59 UTC_
 
 ## Contents
 
@@ -1404,7 +1404,7 @@ _Last updated: 2026-05-16 02:58 UTC_
 | 153 | Kamila Vodichkova | 381 |
 | 154 | Jessica Breland | 378 |
 | 155 | Armintie Herrington | 377 |
-| 156 | **Elizabeth Williams** 🔴 | 376 |
+| 155 | **Elizabeth Williams** 🔴 +1 | 377 |
 | 157 | Anna DeForge | 374 |
 | 157 | Cheryl Ford | 374 |
 | 159 | Allison Feaster | 372 |
@@ -1532,8 +1532,8 @@ _Last updated: 2026-05-16 02:58 UTC_
 | 76 | **Kahleah Copper** 🔴 +2 | 717 |
 | 77 | Cheryl Ford | 713 |
 | 78 | Jia Perkins | 711 |
+| 79 | **Elizabeth Williams** 🔴 +1 | 709 |
 | 79 | Helen Darling | 709 |
-| 80 | **Elizabeth Williams** 🔴 | 708 |
 | 81 | Allisha Gray | 706 |
 | 82 | Matee Ajavon | 701 |
 | 82 | Nicole Powell | 701 |
