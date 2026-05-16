@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-16 03:26 UTC_
+_Last updated: 2026-05-16 03:27 UTC_
 
 ## Contents
 
@@ -56,7 +56,7 @@ _Last updated: 2026-05-16 03:26 UTC_
 | 35 | Chamique Holdsclaw | 4,713 |
 | 36 | Elena Delle Donne | 4,706 |
 | 37 | Penny Taylor | 4,595 |
-| 38 | **Alyssa Thomas** 🔴 +3 | 4,491 |
+| 38 | **Alyssa Thomas** 🔴 +6 | 4,494 |
 | 39 | Kristi Toliver | 4,474 |
 | 40 | Arike Ogunbowale | 4,464 |
 | 41 | Crystal Langhorne | 4,433 |
@@ -72,7 +72,7 @@ _Last updated: 2026-05-16 03:26 UTC_
 | 51 | **Kelsey Plum** 🔴 +9 | 4,216 |
 | 52 | Allisha Gray | 4,157 |
 | 53 | Rebekkah Brunson | 4,133 |
-| 54 | **Dearica Hamby** 🔴 +17 | 4,107 |
+| 54 | **Dearica Hamby** 🔴 +19 | 4,109 |
 | 55 | Jonquel Jones | 4,096 |
 | 56 | **Kahleah Copper** 🔴 +11 | 4,094 |
 | 57 | Courtney Williams | 4,061 |
@@ -110,7 +110,7 @@ _Last updated: 2026-05-16 03:26 UTC_
 | 89 | Stefanie Dolson | 3,134 |
 | 90 | Shavonte Zellous | 3,103 |
 | 91 | Briann January | 3,082 |
-| 92 | **Erica Wheeler** 🔴 +5 | 3,065 |
+| 92 | **Erica Wheeler** 🔴 +7 | 3,067 |
 | 93 | Erika de Souza | 3,046 |
 | 94 | Shameka Christon | 3,039 |
 | 95 | Sabrina Ionescu | 3,030 |
@@ -231,7 +231,7 @@ _Last updated: 2026-05-16 03:26 UTC_
 | 5 | Tamika Catchings | 3,313 |
 | 6 | Lisa Leslie | 3,303 |
 | 7 | **Nneka Ogwumike** 🔴 +3 | 3,271 |
-| 8 | **DeWanna Bonner** 🔴 +5 | 3,208 |
+| 8 | **DeWanna Bonner** 🔴 +6 | 3,209 |
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
@@ -454,9 +454,9 @@ _Last updated: 2026-05-16 03:26 UTC_
 | 23 | Kristi Toliver | 1,301 |
 | 24 | **Erica Wheeler** 🔴 +3 | 1,259 |
 | 25 | Katie Smith | 1,258 |
+| 26 | **Kelsey Plum** 🔴 +9 | 1,202 |
 | 26 | Vickie Johnson | 1,202 |
-| 27 | **Kelsey Plum** 🔴 +8 | 1,201 |
-| 27 | Odyssey Sims | 1,201 |
+| 28 | Odyssey Sims | 1,201 |
 | 29 | Leilani Mitchell | 1,197 |
 | 30 | **DeWanna Bonner** 🔴 | 1,176 |
 | 31 | Renee Montgomery | 1,140 |
@@ -1318,7 +1318,7 @@ _Last updated: 2026-05-16 03:26 UTC_
 | 67 | Odyssey Sims | 616 |
 | 68 | Rebekkah Brunson | 615 |
 | 69 | Seimone Augustus | 613 |
-| 70 | **Kelsey Plum** 🔴 | 611 |
+| 70 | **Kelsey Plum** 🔴 +1 | 612 |
 | 71 | Jonquel Jones | 608 |
 | 72 | Tiffany Hayes | 605 |
 | 73 | Teresa Weatherspoon | 601 |
