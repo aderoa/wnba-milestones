@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-16 01:22 UTC_
+_Last updated: 2026-05-16 01:23 UTC_
 
 ## Contents
 
@@ -304,8 +304,8 @@ _Last updated: 2026-05-16 01:22 UTC_
 | 78 | Emma Meesseman | 1,350 |
 | 79 | Allisha Gray | 1,347 |
 | 80 | Elena Baranova | 1,335 |
-| 81 | Brionna Jones | 1,333 |
-| 81 | **Jewell Loyd** 🔴 +2 | 1,333 |
+| 81 | **Jewell Loyd** 🔴 +3 | 1,334 |
+| 82 | Brionna Jones | 1,333 |
 | 83 | Erlana Larkins | 1,329 |
 | 84 | Mwadi Mabika | 1,327 |
 | 85 | Jayne Appel Marinelli | 1,326 |
