@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-16 01:23 UTC_
+_Last updated: 2026-05-16 01:24 UTC_
 
 ## Contents
 
@@ -61,7 +61,7 @@ _Last updated: 2026-05-16 01:23 UTC_
 | 40 | Arike Ogunbowale | 4,464 |
 | 41 | Crystal Langhorne | 4,433 |
 | 41 | Jia Perkins | 4,433 |
-| 43 | **Chelsea Gray** 🔴 +9 | 4,418 |
+| 43 | **Chelsea Gray** 🔴 +12 | 4,421 |
 | 44 | Natasha Howard | 4,367 |
 | 45 | Courtney Vandersloot | 4,352 |
 | 46 | Sophia Young-Malcolm | 4,300 |
@@ -322,7 +322,7 @@ _Last updated: 2026-05-16 01:23 UTC_
 | 96 | **Brianna Turner** 🔴 | 1,214 |
 | 97 | **Myisha Hines-Allen** 🔴 +2 | 1,210 |
 | 98 | DeMya Walker | 1,199 |
-| 99 | **Chelsea Gray** 🔴 +5 | 1,193 |
+| 99 | **Chelsea Gray** 🔴 +6 | 1,194 |
 | 100 | Latasha Byears | 1,190 |
 | 100 | Tanisha Wright | 1,190 |
 | 102 | Vicky Bullett | 1,189 |
@@ -606,7 +606,7 @@ _Last updated: 2026-05-16 01:23 UTC_
 | 174 | Dana Evans | 379 |
 | 176 | Jessica Breland | 377 |
 | 177 | Shenise Johnson | 376 |
-| 178 | **Stephanie Talbot** 🔴 +1 | 373 |
+| 178 | **Stephanie Talbot** 🔴 +2 | 374 |
 | 179 | Suzie McConnell Serio | 370 |
 | 180 | **Damiris Dantas** 🔴 | 367 |
 | 181 | Roneeka Hodges | 362 |
@@ -1079,7 +1079,7 @@ _Last updated: 2026-05-16 01:23 UTC_
 | 33 | Crystal Robinson | 425 |
 | 33 | Skylar Diggins | 425 |
 | 35 | Mwadi Mabika | 415 |
-| 36 | **Chelsea Gray** 🔴 +2 | 412 |
+| 36 | **Chelsea Gray** 🔴 +3 | 413 |
 | 37 | Penny Taylor | 407 |
 | 37 | Riquna Williams | 407 |
 | 39 | Jia Perkins | 396 |
