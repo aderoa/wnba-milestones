@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-16 03:11 UTC_
+_Last updated: 2026-05-16 03:12 UTC_
 
 ## Contents
 
@@ -69,7 +69,7 @@ _Last updated: 2026-05-16 03:11 UTC_
 | 48 | Monique Currie | 4,253 |
 | 49 | Vickie Johnson | 4,230 |
 | 50 | Yolanda Griffith | 4,224 |
-| 51 | **Kelsey Plum** 🔴 +9 | 4,216 |
+| 51 | **Kelsey Plum** 🔴 +7 | 4,214 |
 | 52 | Allisha Gray | 4,157 |
 | 53 | Rebekkah Brunson | 4,133 |
 | 54 | **Dearica Hamby** 🔴 +10 | 4,100 |
@@ -1333,7 +1333,7 @@ _Last updated: 2026-05-16 03:11 UTC_
 | 82 | Kara Braxton | 570 |
 | 83 | Nikki McCray | 565 |
 | 84 | Sancho Lyttle | 563 |
-| 85 | **Brittney Sykes** 🔴 +3 | 561 |
+| 85 | **Brittney Sykes** 🔴 +2 | 560 |
 | 86 | Tan White | 557 |
 | 87 | Kelsey Mitchell | 552 |
 | 88 | Breanna Stewart | 549 |
