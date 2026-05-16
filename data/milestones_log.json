@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-16T02:23:00+00:00",
+    "text": "Brittney Sykes passed Nneka Ogwumike for #98 all-time in three-pointers (career 232) \u2014 (1:35 - 1st \u2014 TOR @ LA)",
+    "kind": "rank_pass",
+    "player": "Brittney Sykes",
+    "stat": "three-pointers",
+    "rank": 98,
+    "passed_players": [
+      "Nneka Ogwumike"
+    ],
+    "new_total": 232
+  },
+  {
     "ts": "2026-05-16T02:16:00+00:00",
     "text": "Kelsey Plum passed Ruthie Bolton for #122 all-time in steals (career 255) \u2014 up from #123 entering today \u2014 (5:20 - 1st \u2014 TOR @ LA)",
     "kind": "rank_pass",
@@ -2961,17 +2973,5 @@
       "Ruthie Bolton"
     ],
     "new_total": 313
-  },
-  {
-    "ts": "2026-05-09T21:11:00+00:00",
-    "text": "Jackie Young passed Shameka Christon for #137 all-time in turnovers (career 426) \u2014 (8:07 - 3rd \u2014 PHX @ LV)",
-    "kind": "rank_pass",
-    "player": "Jackie Young",
-    "stat": "turnovers",
-    "rank": 137,
-    "passed_players": [
-      "Shameka Christon"
-    ],
-    "new_total": 426
   }
 ]

@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-16 02:22 UTC_
+_Last updated: 2026-05-16 02:23 UTC_
 
 ## Contents
 
@@ -94,7 +94,7 @@ _Last updated: 2026-05-16 02:22 UTC_
 | 73 | Tammy Sutton-Brown | 3,498 |
 | 74 | Sancho Lyttle | 3,478 |
 | 75 | Ivory Latta | 3,447 |
-| 76 | **Brittney Sykes** 🔴 +2 | 3,441 |
+| 76 | **Brittney Sykes** 🔴 +5 | 3,444 |
 | 77 | Jackie Young | 3,425 |
 | 78 | Nicole Powell | 3,407 |
 | 79 | Epiphanny Prince | 3,381 |
@@ -437,7 +437,7 @@ _Last updated: 2026-05-16 02:22 UTC_
 | 6 | Chelsea Gray | 1,880 |
 | 7 | **Alyssa Thomas** 🔴 +4 | 1,824 |
 | 8 | **Skylar Diggins** 🔴 +1 | 1,769 |
-| 9 | **Natasha Cloud** 🔴 | 1,733 |
+| 9 | **Natasha Cloud** 🔴 +1 | 1,734 |
 | 10 | Becky Hammon | 1,705 |
 | 11 | Candace Parker | 1,634 |
 | 12 | Cappie Pondexter | 1,575 |
@@ -1139,9 +1139,9 @@ _Last updated: 2026-05-16 02:22 UTC_
 | 93 | Azurá Stevens | 238 |
 | 94 | Svetlana Abrosimova | 235 |
 | 94 | Tangela Smith | 235 |
+| 96 | **Brittney Sykes** 🔴 +1 | 232 |
 | 96 | **Nneka Ogwumike** 🔴 +1 | 232 |
 | 96 | Stacey Dales | 232 |
-| 98 | **Brittney Sykes** 🔴 | 231 |
 | 99 | Odyssey Sims | 229 |
 | 100 | Elena Baranova | 224 |
 | 101 | Essence Carson | 223 |
@@ -1447,8 +1447,8 @@ _Last updated: 2026-05-16 02:22 UTC_
 | 195 | Kayla Thornton | 288 |
 | 195 | Kristen Rasmussen | 288 |
 | 198 | Azurá Stevens | 286 |
-| 199 | Bridget Pettis | 284 |
-| 199 | **Rachel Banham** 🔴 | 284 |
+| 199 | **Rachel Banham** 🔴 +1 | 285 |
+| 200 | Bridget Pettis | 284 |
 
 ## Personal fouls
 
@@ -1641,7 +1641,7 @@ _Last updated: 2026-05-16 02:22 UTC_
 | 185 | Sami Whitcomb | 480 |
 | 186 | Seimone Augustus | 477 |
 | 187 | Allie Quigley | 475 |
-| 188 | **Rachel Banham** 🔴 | 472 |
+| 188 | **Rachel Banham** 🔴 +1 | 473 |
 | 189 | Kia Nurse | 465 |
 | 190 | Azurá Stevens | 463 |
 | 190 | Christi Thomas | 463 |
