@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-16 00:48 UTC_
+_Last updated: 2026-05-16 00:49 UTC_
 
 ## Contents
 
@@ -32,7 +32,7 @@ _Last updated: 2026-05-16 00:48 UTC_
 | 11 | Katie Smith | 6,450 |
 | 12 | Sylvia Fowles | 6,413 |
 | 13 | Lisa Leslie | 6,251 |
-| 14 | **Jewell Loyd** 🔴 +3 | 6,030 |
+| 14 | **Jewell Loyd** 🔴 +4 | 6,031 |
 | 15 | Breanna Stewart | 6,016 |
 | 16 | Lauren Jackson | 6,005 |
 | 16 | Seimone Augustus | 6,005 |
@@ -322,7 +322,7 @@ _Last updated: 2026-05-16 00:48 UTC_
 | 96 | **Brianna Turner** 🔴 | 1,214 |
 | 97 | **Myisha Hines-Allen** 🔴 +1 | 1,209 |
 | 98 | DeMya Walker | 1,199 |
-| 99 | **Chelsea Gray** 🔴 +4 | 1,192 |
+| 99 | **Chelsea Gray** 🔴 +5 | 1,193 |
 | 100 | Latasha Byears | 1,190 |
 | 100 | Tanisha Wright | 1,190 |
 | 102 | Vicky Bullett | 1,189 |
@@ -1271,7 +1271,7 @@ _Last updated: 2026-05-16 00:48 UTC_
 | 20 | Shannon Johnson | 934 |
 | 21 | Taj McWilliams-Franklin | 898 |
 | 22 | Skylar Diggins | 879 |
-| 23 | **Chelsea Gray** 🔴 +2 | 871 |
+| 23 | **Chelsea Gray** 🔴 +3 | 872 |
 | 24 | Candice Dupree | 869 |
 | 25 | Alana Beard | 854 |
 | 26 | DeWanna Bonner | 826 |
