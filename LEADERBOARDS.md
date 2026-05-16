@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-16 00:10 UTC_
+_Last updated: 2026-05-16 00:11 UTC_
 
 ## Contents
 
@@ -1555,8 +1555,8 @@ _Last updated: 2026-05-16 00:10 UTC_
 | 98 | Tianna Hawkins | 662 |
 | 100 | Kelsey Plum | 658 |
 | 101 | Tari Phillips | 648 |
+| 102 | **Jewell Loyd** 🔴 +2 | 646 |
 | 102 | Marie Ferdinand-Harris | 646 |
-| 103 | **Jewell Loyd** 🔴 +1 | 645 |
 | 104 | Breanna Stewart | 643 |
 | 105 | Kayla Thornton | 640 |
 | 106 | Charlotte Smith | 638 |
