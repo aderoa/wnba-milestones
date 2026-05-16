@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-05-16T01:31:00+00:00",
+    "text": "Monique Billings passed Rushia Brown and Shekinna Stricklen for #163 all-time in fouls (career 506) \u2014 up from #171 entering today \u2014 (1:41 - 4th \u2014 WSH @ IND)",
+    "kind": "rank_pass",
+    "player": "Monique Billings",
+    "stat": "fouls",
+    "rank": 163,
+    "passed_players": [
+      "Rushia Brown",
+      "Shekinna Stricklen"
+    ],
+    "new_total": 506
+  },
+  {
     "ts": "2026-05-16T01:12:00+00:00",
     "text": "Monique Billings passed Rebecca Allen for #198 all-time in points (career 1,515) \u2014 up from #199 entering today \u2014 (7:39 - 4th \u2014 WSH @ IND)",
     "kind": "rank_pass",
@@ -2958,17 +2971,5 @@
       "Tiffany Jackson"
     ],
     "new_total": 1005
-  },
-  {
-    "ts": "2026-05-09T20:28:00+00:00",
-    "text": "Jackie Young passed Tan White for #67 all-time in three-pointers (career 312) \u2014 (7:59 - 2nd \u2014 PHX @ LV)",
-    "kind": "rank_pass",
-    "player": "Jackie Young",
-    "stat": "three-pointers",
-    "rank": 67,
-    "passed_players": [
-      "Tan White"
-    ],
-    "new_total": 312
   }
 ]

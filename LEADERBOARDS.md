@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-16 01:30 UTC_
+_Last updated: 2026-05-16 01:31 UTC_
 
 ## Contents
 
@@ -241,7 +241,7 @@ _Last updated: 2026-05-16 01:30 UTC_
 | 15 | DeLisha Milton-Jones | 2,574 |
 | 16 | Brittney Griner | 2,531 |
 | 17 | Swin Cash | 2,521 |
-| 18 | **A'ja Wilson** 🔴 +2 | 2,496 |
+| 18 | **A'ja Wilson** 🔴 +3 | 2,497 |
 | 19 | Breanna Stewart | 2,484 |
 | 20 | Michelle Snow | 2,476 |
 | 21 | Crystal Langhorne | 2,454 |
@@ -1371,9 +1371,9 @@ _Last updated: 2026-05-16 01:30 UTC_
 | 120 | Kia Vaughn | 454 |
 | 121 | Janeth Arcain | 453 |
 | 122 | Allisha Gray | 449 |
+| 123 | **A'ja Wilson** 🔴 +3 | 444 |
 | 123 | Elena Baranova | 444 |
 | 123 | Jantel Lavender | 444 |
-| 125 | **A'ja Wilson** 🔴 +2 | 443 |
 | 126 | Ann Wauters | 440 |
 | 127 | Tiffany Mitchell | 439 |
 | 128 | Kedra Holland-Corn | 438 |
@@ -1618,9 +1618,9 @@ _Last updated: 2026-05-16 01:30 UTC_
 | 160 | **Sophie Cunningham** 🔴 +3 | 507 |
 | 160 | Vicky Bullett | 507 |
 | 164 | Merlakia Jones | 506 |
-| 165 | **Monique Billings** 🔴 +3 | 505 |
-| 165 | Rushia Brown | 505 |
-| 165 | Shekinna Stricklen | 505 |
+| 164 | **Monique Billings** 🔴 +4 | 506 |
+| 166 | Rushia Brown | 505 |
+| 166 | Shekinna Stricklen | 505 |
 | 168 | Allison Feaster | 504 |
 | 168 | Erin Perperoglou | 504 |
 | 168 | Napheesa Collier | 504 |
