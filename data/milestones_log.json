@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-05-16T01:10:00+00:00",
+    "text": "Caitlin Clark passed Bridget Pettis and Jennifer Gillom for #139 all-time in three-pointers (career 155) \u2014 up from #142 entering today \u2014 (8:11 - 4th \u2014 WSH @ IND)",
+    "kind": "rank_pass",
+    "player": "Caitlin Clark",
+    "stat": "three-pointers",
+    "rank": 139,
+    "passed_players": [
+      "Bridget Pettis",
+      "Jennifer Gillom"
+    ],
+    "new_total": 155
+  },
+  {
     "ts": "2026-05-16T01:04:00+00:00",
     "text": "Shakira Austin passed Carolyn Swords and Rebecca Lobo for #117 all-time in blocks (career 105) \u2014 up from #121 entering today \u2014 (End of 3rd \u2014 WSH @ IND)",
     "kind": "rank_pass",
@@ -2958,19 +2971,5 @@
       "Kayla Alexander"
     ],
     "new_total": 92
-  },
-  {
-    "ts": "2026-05-09T19:44:00+00:00",
-    "text": "Jessica Shepard passed Amanda Zahui B, Barbara Farris, and Marina Mabrey for #162 all-time in rebounds (career 822) \u2014 up from #166 entering today \u2014 (Final \u2014 DAL @ IND)",
-    "kind": "rank_pass",
-    "player": "Jessica Shepard",
-    "stat": "rebounds",
-    "rank": 162,
-    "passed_players": [
-      "Amanda Zahui B",
-      "Barbara Farris",
-      "Marina Mabrey"
-    ],
-    "new_total": 822
   }
 ]
