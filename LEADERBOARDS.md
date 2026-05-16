@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-16 03:55 UTC_
+_Last updated: 2026-05-16 03:56 UTC_
 
 ## Contents
 
@@ -495,7 +495,7 @@ _Last updated: 2026-05-16 03:55 UTC_
 | 64 | Lisa Leslie | 873 |
 | 65 | Tully Bevilaqua | 853 |
 | 66 | Jia Perkins | 837 |
-| 67 | **Brittney Sykes** 🔴 +6 | 822 |
+| 67 | **Brittney Sykes** 🔴 +7 | 823 |
 | 68 | Andrea Stinson | 810 |
 | 69 | Tina Thompson | 803 |
 | 70 | Epiphanny Prince | 800 |
@@ -594,8 +594,8 @@ _Last updated: 2026-05-16 03:55 UTC_
 | 162 | Murriel Page | 410 |
 | 164 | Allison Feaster | 406 |
 | 165 | Rita Williams | 403 |
+| 166 | **Kia Nurse** 🔴 +1 | 399 |
 | 166 | Marissa Coleman | 399 |
-| 167 | **Kia Nurse** 🔴 | 398 |
 | 168 | Stacey Dales | 395 |
 | 169 | Sugar Rodgers | 393 |
 | 170 | **Julie Allemand** 🔴 +4 | 389 |
@@ -755,8 +755,8 @@ _Last updated: 2026-05-16 03:55 UTC_
 | 118 | Rebecca Lobo | 104 |
 | 120 | Jennifer Gillom | 103 |
 | 120 | Jia Perkins | 103 |
-| 120 | **Natasha Mack** 🔴 +4 | 103 |
-| 123 | Theresa Plaisance | 102 |
+| 122 | **Natasha Mack** 🔴 +3 | 102 |
+| 122 | Theresa Plaisance | 102 |
 | 124 | Courtney Williams | 101 |
 | 124 | Deanna Nolan | 101 |
 | 124 | **Dearica Hamby** 🔴 | 101 |
