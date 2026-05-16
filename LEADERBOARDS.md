@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-16 02:14 UTC_
+_Last updated: 2026-05-16 02:15 UTC_
 
 ## Contents
 
@@ -72,8 +72,8 @@ _Last updated: 2026-05-16 02:14 UTC_
 | 51 | **Kelsey Plum** 🔴 | 4,207 |
 | 52 | Allisha Gray | 4,157 |
 | 53 | Rebekkah Brunson | 4,133 |
+| 54 | **Dearica Hamby** 🔴 +6 | 4,096 |
 | 54 | Jonquel Jones | 4,096 |
-| 55 | **Dearica Hamby** 🔴 +4 | 4,094 |
 | 56 | **Kahleah Copper** 🔴 +2 | 4,085 |
 | 57 | Courtney Williams | 4,061 |
 | 58 | Asjha Jones | 3,986 |
@@ -201,7 +201,7 @@ _Last updated: 2026-05-16 02:14 UTC_
 | 180 | Aliyah Boston | 1,807 |
 | 181 | Charde Houston | 1,797 |
 | 182 | Kamila Vodichkova | 1,767 |
-| 182 | Rachel Banham | 1,767 |
+| 182 | **Rachel Banham** 🔴 | 1,767 |
 | 184 | Tully Bevilaqua | 1,763 |
 | 185 | Sandy Brondello | 1,759 |
 | 186 | Sugar Rodgers | 1,733 |
@@ -235,7 +235,7 @@ _Last updated: 2026-05-16 02:14 UTC_
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
-| 12 | **Alyssa Thomas** 🔴 +1 | 2,741 |
+| 12 | **Alyssa Thomas** 🔴 +2 | 2,742 |
 | 13 | Sancho Lyttle | 2,596 |
 | 14 | Jonquel Jones | 2,575 |
 | 15 | DeLisha Milton-Jones | 2,574 |
@@ -329,7 +329,7 @@ _Last updated: 2026-05-16 02:14 UTC_
 | 103 | Kayla McBride | 1,182 |
 | 104 | Nykesha Sales | 1,148 |
 | 105 | Shannon Johnson | 1,143 |
-| 106 | **Kahleah Copper** 🔴 | 1,140 |
+| 106 | **Kahleah Copper** 🔴 +1 | 1,141 |
 | 107 | Adrian Williams-Strong | 1,131 |
 | 108 | Andrea Stinson | 1,127 |
 | 108 | Tamika Raymond | 1,127 |
@@ -555,7 +555,7 @@ _Last updated: 2026-05-16 02:14 UTC_
 | 124 | Anna DeForge | 503 |
 | 124 | Coco Miller | 503 |
 | 126 | Myisha Hines-Allen | 502 |
-| 127 | Rachel Banham | 495 |
+| 127 | **Rachel Banham** 🔴 | 495 |
 | 128 | Crystal Robinson | 488 |
 | 128 | Tiffany Mitchell | 488 |
 | 130 | Rebekkah Brunson | 486 |
@@ -960,8 +960,8 @@ _Last updated: 2026-05-16 02:14 UTC_
 | 119 | Elaine Powell | 255 |
 | 119 | Kayla Thornton | 255 |
 | 119 | Loree Moore | 255 |
+| 122 | **Kelsey Plum** 🔴 +1 | 254 |
 | 122 | Ruthie Bolton | 254 |
-| 123 | **Kelsey Plum** 🔴 | 253 |
 | 124 | Hamchetou Maiga-Ba | 251 |
 | 124 | Tamika Whitmore | 251 |
 | 126 | Jonquel Jones | 248 |
@@ -1090,7 +1090,7 @@ _Last updated: 2026-05-16 02:14 UTC_
 | 44 | Jasmine Thomas | 376 |
 | 45 | Allison Feaster | 372 |
 | 45 | Betty Lennox | 372 |
-| 45 | Rachel Banham | 372 |
+| 45 | **Rachel Banham** 🔴 | 372 |
 | 48 | Epiphanny Prince | 368 |
 | 49 | Rhyne Howard | 366 |
 | 50 | Jonquel Jones | 357 |
@@ -1448,7 +1448,7 @@ _Last updated: 2026-05-16 02:14 UTC_
 | 195 | Kristen Rasmussen | 288 |
 | 198 | Azurá Stevens | 286 |
 | 199 | Bridget Pettis | 284 |
-| 199 | Rachel Banham | 284 |
+| 199 | **Rachel Banham** 🔴 | 284 |
 
 ## Personal fouls
 
@@ -1641,7 +1641,7 @@ _Last updated: 2026-05-16 02:14 UTC_
 | 185 | Sami Whitcomb | 480 |
 | 186 | Seimone Augustus | 477 |
 | 187 | Allie Quigley | 475 |
-| 188 | Rachel Banham | 472 |
+| 188 | **Rachel Banham** 🔴 | 472 |
 | 189 | Kia Nurse | 465 |
 | 190 | Azurá Stevens | 463 |
 | 190 | Christi Thomas | 463 |
