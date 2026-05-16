@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-16 02:21 UTC_
+_Last updated: 2026-05-16 02:22 UTC_
 
 ## Contents
 
@@ -235,7 +235,7 @@ _Last updated: 2026-05-16 02:21 UTC_
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
-| 12 | **Alyssa Thomas** 🔴 +2 | 2,742 |
+| 12 | **Alyssa Thomas** 🔴 +3 | 2,743 |
 | 13 | Sancho Lyttle | 2,596 |
 | 14 | Jonquel Jones | 2,575 |
 | 15 | DeLisha Milton-Jones | 2,574 |
@@ -248,7 +248,7 @@ _Last updated: 2026-05-16 02:21 UTC_
 | 22 | Lauren Jackson | 2,444 |
 | 23 | Yolanda Griffith | 2,440 |
 | 24 | Tangela Smith | 2,328 |
-| 25 | **Dearica Hamby** 🔴 +3 | 2,320 |
+| 25 | **Dearica Hamby** 🔴 +4 | 2,321 |
 | 26 | Erika de Souza | 2,220 |
 | 27 | Diana Taurasi | 2,201 |
 | 28 | Natasha Howard | 2,174 |
@@ -456,8 +456,8 @@ _Last updated: 2026-05-16 02:21 UTC_
 | 25 | **Erica Wheeler** 🔴 | 1,256 |
 | 26 | Vickie Johnson | 1,202 |
 | 27 | Odyssey Sims | 1,201 |
+| 28 | **Kelsey Plum** 🔴 +4 | 1,197 |
 | 28 | Leilani Mitchell | 1,197 |
-| 29 | **Kelsey Plum** 🔴 +3 | 1,196 |
 | 30 | **DeWanna Bonner** 🔴 | 1,176 |
 | 31 | Renee Montgomery | 1,140 |
 | 32 | Jordin Canada | 1,139 |
@@ -509,7 +509,7 @@ _Last updated: 2026-05-16 02:21 UTC_
 | 78 | Chamique Holdsclaw | 698 |
 | 79 | Shavonte Zellous | 693 |
 | 80 | Allie Quigley | 690 |
-| 81 | **Dearica Hamby** 🔴 +1 | 689 |
+| 80 | **Dearica Hamby** 🔴 +2 | 690 |
 | 82 | Stefanie Dolson | 686 |
 | 83 | Moriah Jefferson | 685 |
 | 84 | Emma Meesseman | 681 |
@@ -1513,7 +1513,7 @@ _Last updated: 2026-05-16 02:21 UTC_
 | 56 | Wendy Palmer | 831 |
 | 58 | Shannon Johnson | 813 |
 | 58 | Tully Bevilaqua | 813 |
-| 60 | **Dearica Hamby** 🔴 | 798 |
+| 60 | **Dearica Hamby** 🔴 +1 | 799 |
 | 61 | Nykesha Sales | 796 |
 | 62 | Ebony Hoffman | 791 |
 | 62 | **Skylar Diggins** 🔴 +1 | 791 |
