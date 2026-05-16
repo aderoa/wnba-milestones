@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-16 03:30 UTC_
+_Last updated: 2026-05-16 03:31 UTC_
 
 ## Contents
 
@@ -452,7 +452,7 @@ _Last updated: 2026-05-16 03:30 UTC_
 | 21 | Dawn Staley | 1,337 |
 | 22 | Teresa Weatherspoon | 1,333 |
 | 23 | Kristi Toliver | 1,301 |
-| 24 | **Erica Wheeler** 🔴 +3 | 1,259 |
+| 24 | **Erica Wheeler** 🔴 +4 | 1,260 |
 | 25 | Katie Smith | 1,258 |
 | 26 | **Kelsey Plum** 🔴 +9 | 1,202 |
 | 26 | Vickie Johnson | 1,202 |
