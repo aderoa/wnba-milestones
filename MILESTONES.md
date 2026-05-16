@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-16 04:03 UTC
+
+- **Marina Mabrey** passed **Jordin Canada** for **#112** all-time in turnovers (career 490) — up from #113 entering today — _1:23 - 4th — TOR @ LA_
+
 ## 2026-05-16 04:01 UTC
 
 - **Natasha Cloud** passed **Kristi Toliver** for **#74** all-time in fouls (career 723) — up from #75 entering today — _5:17 - 4th — CHI @ PHX_

@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-16 04:02 UTC_
+_Last updated: 2026-05-16 04:03 UTC_
 
 ## Contents
 
@@ -67,8 +67,8 @@ _Last updated: 2026-05-16 04:02 UTC_
 | 46 | Sophia Young-Malcolm | 4,300 |
 | 47 | Plenette Pierson | 4,258 |
 | 48 | Monique Currie | 4,253 |
+| 49 | **Kelsey Plum** 🔴 +23 | 4,230 |
 | 49 | Vickie Johnson | 4,230 |
-| 50 | **Kelsey Plum** 🔴 +22 | 4,229 |
 | 51 | Yolanda Griffith | 4,224 |
 | 52 | Allisha Gray | 4,157 |
 | 53 | Rebekkah Brunson | 4,133 |
@@ -1360,8 +1360,8 @@ _Last updated: 2026-05-16 04:02 UTC_
 | 109 | Nikki Teasley | 493 |
 | 109 | Tari Phillips | 493 |
 | 111 | Janel McCarville | 491 |
-| 112 | Jordin Canada | 489 |
-| 112 | **Marina Mabrey** 🔴 +2 | 489 |
+| 112 | **Marina Mabrey** 🔴 +3 | 490 |
+| 113 | Jordin Canada | 489 |
 | 114 | Erika de Souza | 483 |
 | 115 | Sophia Young-Malcolm | 482 |
 | 116 | Natalie Williams | 480 |
@@ -1600,7 +1600,7 @@ _Last updated: 2026-05-16 04:02 UTC_
 | 144 | Marissa Coleman | 541 |
 | 145 | Kristen Rasmussen | 533 |
 | 146 | Amanda Zahui B | 530 |
-| 147 | **Marina Mabrey** 🔴 +2 | 527 |
+| 147 | **Marina Mabrey** 🔴 +3 | 528 |
 | 148 | Candice Wiggins | 525 |
 | 148 | Epiphanny Prince | 525 |
 | 150 | A'ja Wilson | 523 |
