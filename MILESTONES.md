@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-16 01:46 UTC
+
+- **Caitlin Clark** passed **Natasha Howard** for **#138** all-time in three-pointers (career 158) — up from #142 entering today — _0.0 - 4th — WSH @ IND_
+
 ## 2026-05-16 01:41 UTC
 
 - **Myisha Hines-Allen** passed **Alanna Smith**, **Erin Phillips**, and **Sabrina Ionescu** for **#182** all-time in steals (career 183) — up from #185 entering today — _5.8 - 4th — WSH @ IND_

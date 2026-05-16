@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-16T01:46:00+00:00",
+    "text": "Caitlin Clark passed Natasha Howard for #138 all-time in three-pointers (career 158) \u2014 up from #142 entering today \u2014 (0.0 - 4th \u2014 WSH @ IND)",
+    "kind": "rank_pass",
+    "player": "Caitlin Clark",
+    "stat": "three-pointers",
+    "rank": 138,
+    "passed_players": [
+      "Natasha Howard"
+    ],
+    "new_total": 158
+  },
+  {
     "ts": "2026-05-16T01:41:00+00:00",
     "text": "Myisha Hines-Allen passed Alanna Smith, Erin Phillips, and Sabrina Ionescu for #182 all-time in steals (career 183) \u2014 up from #185 entering today \u2014 (5.8 - 4th \u2014 WSH @ IND)",
     "kind": "rank_pass",
@@ -2961,17 +2973,5 @@
       "Alysha Clark"
     ],
     "new_total": 615
-  },
-  {
-    "ts": "2026-05-09T20:28:00+00:00",
-    "text": "Chelsea Gray passed Candice Dupree for #23 all-time in turnovers (career 871) \u2014 up from #24 entering today \u2014 (7:59 - 2nd \u2014 PHX @ LV)",
-    "kind": "rank_pass",
-    "player": "Chelsea Gray",
-    "stat": "turnovers",
-    "rank": 23,
-    "passed_players": [
-      "Candice Dupree"
-    ],
-    "new_total": 871
   }
 ]
