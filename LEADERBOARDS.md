@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-16 02:49 UTC_
+_Last updated: 2026-05-16 02:50 UTC_
 
 ## Contents
 
@@ -21,7 +21,7 @@ _Last updated: 2026-05-16 02:49 UTC_
 |-----:|--------|------:|
 | 1 | Diana Taurasi | 10,608 |
 | 2 | Tina Charles | 8,396 |
-| 3 | **DeWanna Bonner** 🔴 +4 | 7,809 |
+| 3 | **DeWanna Bonner** 🔴 +6 | 7,811 |
 | 4 | Tina Thompson | 7,470 |
 | 5 | Tamika Catchings | 7,371 |
 | 6 | **Nneka Ogwumike** 🔴 +11 | 7,316 |
@@ -69,7 +69,7 @@ _Last updated: 2026-05-16 02:49 UTC_
 | 48 | Monique Currie | 4,253 |
 | 49 | Vickie Johnson | 4,230 |
 | 50 | Yolanda Griffith | 4,224 |
-| 51 | **Kelsey Plum** 🔴 +5 | 4,212 |
+| 51 | **Kelsey Plum** 🔴 +7 | 4,214 |
 | 52 | Allisha Gray | 4,157 |
 | 53 | Rebekkah Brunson | 4,133 |
 | 54 | **Dearica Hamby** 🔴 +10 | 4,100 |
@@ -93,8 +93,8 @@ _Last updated: 2026-05-16 02:49 UTC_
 | 72 | Tamecka Dixon | 3,507 |
 | 73 | Tammy Sutton-Brown | 3,498 |
 | 74 | Sancho Lyttle | 3,478 |
-| 75 | Ivory Latta | 3,447 |
-| 76 | **Brittney Sykes** 🔴 +7 | 3,446 |
+| 75 | **Brittney Sykes** 🔴 +9 | 3,448 |
+| 76 | Ivory Latta | 3,447 |
 | 77 | Jackie Young | 3,425 |
 | 78 | Nicole Powell | 3,407 |
 | 79 | Epiphanny Prince | 3,381 |
@@ -598,9 +598,9 @@ _Last updated: 2026-05-16 02:49 UTC_
 | 167 | Kia Nurse | 398 |
 | 168 | Stacey Dales | 395 |
 | 169 | Sugar Rodgers | 393 |
+| 170 | **Julie Allemand** 🔴 +4 | 389 |
 | 170 | Shameka Christon | 389 |
 | 170 | Tamicha Jackson | 389 |
-| 172 | **Julie Allemand** 🔴 +3 | 388 |
 | 173 | Riquna Williams | 387 |
 | 174 | Aliyah Boston | 379 |
 | 174 | Dana Evans | 379 |
@@ -732,11 +732,11 @@ _Last updated: 2026-05-16 02:49 UTC_
 | 95 | Mistie Bass | 126 |
 | 97 | Brionna Jones | 125 |
 | 97 | Monique Billings | 125 |
+| 99 | **Alyssa Thomas** 🔴 +1 | 122 |
 | 99 | Natalie Williams | 122 |
-| 100 | **Alyssa Thomas** 🔴 | 121 |
-| 100 | Ebony Hoffman | 121 |
-| 100 | Essence Carson | 121 |
-| 100 | Olivia Nelson-Ododa | 121 |
+| 101 | Ebony Hoffman | 121 |
+| 101 | Essence Carson | 121 |
+| 101 | Olivia Nelson-Ododa | 121 |
 | 104 | Chelsea Gray | 119 |
 | 105 | Krystal Thomas | 118 |
 | 106 | Andrea Stinson | 117 |
