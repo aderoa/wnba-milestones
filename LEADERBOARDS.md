@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-16 03:31 UTC_
+_Last updated: 2026-05-16 03:32 UTC_
 
 ## Contents
 
@@ -334,8 +334,8 @@ _Last updated: 2026-05-16 03:31 UTC_
 | 108 | Andrea Stinson | 1,127 |
 | 108 | Tamika Raymond | 1,127 |
 | 110 | Adrienne Goodson | 1,126 |
+| 111 | **Brittney Sykes** 🔴 +4 | 1,112 |
 | 111 | Deanna Nolan | 1,112 |
-| 112 | **Brittney Sykes** 🔴 +3 | 1,111 |
 | 113 | Chiney Ogwumike | 1,110 |
 | 114 | Becky Hammon | 1,108 |
 | 115 | Ann Wauters | 1,105 |
