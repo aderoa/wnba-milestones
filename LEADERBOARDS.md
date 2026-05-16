@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-16 04:18 UTC_
+_Last updated: 2026-05-16 04:19 UTC_
 
 ## Contents
 
@@ -912,7 +912,7 @@ _Last updated: 2026-05-16 04:18 UTC_
 | 71 | Erica Wheeler | 343 |
 | 71 | Helen Darling | 343 |
 | 73 | Andrea Stinson | 342 |
-| 74 | **Natasha Cloud** 🔴 +1 | 341 |
+| 73 | **Natasha Cloud** 🔴 +2 | 342 |
 | 75 | Armintie Herrington | 340 |
 | 76 | Arike Ogunbowale | 339 |
 | 77 | Dawn Staley | 338 |
@@ -1304,8 +1304,8 @@ _Last updated: 2026-05-16 04:18 UTC_
 | 53 | Tammy Sutton-Brown | 672 |
 | 54 | Deanna Nolan | 669 |
 | 55 | Erica Wheeler | 668 |
-| 56 | Chasity Melvin | 666 |
-| 56 | **Natasha Cloud** 🔴 +1 | 666 |
+| 56 | **Natasha Cloud** 🔴 +2 | 667 |
+| 57 | Chasity Melvin | 666 |
 | 58 | Vickie Johnson | 660 |
 | 59 | Dearica Hamby | 659 |
 | 60 | Yolanda Griffith | 653 |
@@ -1325,7 +1325,7 @@ _Last updated: 2026-05-16 04:18 UTC_
 | 74 | Lindsey Harding | 600 |
 | 74 | Tamika Whitmore | 600 |
 | 76 | Kelly Miller | 596 |
-| 77 | **Kahleah Copper** 🔴 | 579 |
+| 77 | **Kahleah Copper** 🔴 +1 | 580 |
 | 78 | Stefanie Dolson | 577 |
 | 79 | Helen Darling | 575 |
 | 79 | Nykesha Sales | 575 |
