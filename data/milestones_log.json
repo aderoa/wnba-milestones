@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-16T03:59:00+00:00",
+    "text": "Dearica Hamby passed Allie Quigley for #80 all-time in assists (career 691) \u2014 up from #81 entering today \u2014 (2:36 - 4th \u2014 TOR @ LA)",
+    "kind": "rank_pass",
+    "player": "Dearica Hamby",
+    "stat": "assists",
+    "rank": 80,
+    "passed_players": [
+      "Allie Quigley"
+    ],
+    "new_total": 691
+  },
+  {
     "ts": "2026-05-16T03:51:00+00:00",
     "text": "Natasha Mack passed Theresa Plaisance for #122 all-time in blocks (career 103) \u2014 up from #129 entering today \u2014 (7:54 - 4th \u2014 CHI @ PHX)",
     "kind": "rank_pass",
@@ -2964,17 +2976,5 @@
       "Epiphanny Prince"
     ],
     "new_total": 369
-  },
-  {
-    "ts": "2026-05-10T00:42:00+00:00",
-    "text": "Jordin Canada passed Renee Montgomery for #31 all-time in assists (career 1,141) \u2014 up from #32 entering today \u2014 (3:54 - 2nd \u2014 ATL @ MIN)",
-    "kind": "rank_pass",
-    "player": "Jordin Canada",
-    "stat": "assists",
-    "rank": 31,
-    "passed_players": [
-      "Renee Montgomery"
-    ],
-    "new_total": 1141
   }
 ]
