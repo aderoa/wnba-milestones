@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-16T03:47:00+00:00",
+    "text": "Brittney Sykes passed Stacey Dales for #96 all-time in three-pointers (career 233) \u2014 up from #97 entering today \u2014 (6:40 - 4th \u2014 TOR @ LA)",
+    "kind": "rank_pass",
+    "player": "Brittney Sykes",
+    "stat": "three-pointers",
+    "rank": 96,
+    "passed_players": [
+      "Stacey Dales"
+    ],
+    "new_total": 233
+  },
+  {
     "ts": "2026-05-16T03:38:00+00:00",
     "text": "Kia Nurse reached 600 career rebounds (now 600) \u2014 (End of 3rd \u2014 TOR @ LA)",
     "kind": "round",
@@ -2964,17 +2976,5 @@
       "Kara Lawson"
     ],
     "new_total": 947
-  },
-  {
-    "ts": "2026-05-10T00:31:00+00:00",
-    "text": "Angel Reese passed Kristi Toliver for #158 all-time in rebounds (career 830) \u2014 up from #160 entering today \u2014 (7:52 - 2nd \u2014 ATL @ MIN)",
-    "kind": "rank_pass",
-    "player": "Angel Reese",
-    "stat": "rebounds",
-    "rank": 158,
-    "passed_players": [
-      "Kristi Toliver"
-    ],
-    "new_total": 830
   }
 ]

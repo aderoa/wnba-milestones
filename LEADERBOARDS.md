@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-16 03:46 UTC_
+_Last updated: 2026-05-16 03:47 UTC_
 
 ## Contents
 
@@ -68,8 +68,8 @@ _Last updated: 2026-05-16 03:46 UTC_
 | 47 | Plenette Pierson | 4,258 |
 | 48 | Monique Currie | 4,253 |
 | 49 | Vickie Johnson | 4,230 |
-| 50 | Yolanda Griffith | 4,224 |
-| 51 | **Kelsey Plum** 🔴 +15 | 4,222 |
+| 50 | **Kelsey Plum** 🔴 +18 | 4,225 |
+| 51 | Yolanda Griffith | 4,224 |
 | 52 | Allisha Gray | 4,157 |
 | 53 | Rebekkah Brunson | 4,133 |
 | 54 | **Dearica Hamby** 🔴 +19 | 4,109 |
@@ -93,7 +93,7 @@ _Last updated: 2026-05-16 03:46 UTC_
 | 72 | Tamecka Dixon | 3,507 |
 | 73 | Tammy Sutton-Brown | 3,498 |
 | 74 | Sancho Lyttle | 3,478 |
-| 75 | **Brittney Sykes** 🔴 +16 | 3,455 |
+| 75 | **Brittney Sykes** 🔴 +19 | 3,458 |
 | 76 | Ivory Latta | 3,447 |
 | 77 | Jackie Young | 3,425 |
 | 78 | Nicole Powell | 3,407 |
@@ -495,7 +495,7 @@ _Last updated: 2026-05-16 03:46 UTC_
 | 64 | Lisa Leslie | 873 |
 | 65 | Tully Bevilaqua | 853 |
 | 66 | Jia Perkins | 837 |
-| 67 | **Brittney Sykes** 🔴 +5 | 821 |
+| 67 | **Brittney Sykes** 🔴 +6 | 822 |
 | 68 | Andrea Stinson | 810 |
 | 69 | Tina Thompson | 803 |
 | 70 | Epiphanny Prince | 800 |
@@ -1056,7 +1056,7 @@ _Last updated: 2026-05-16 03:46 UTC_
 | 10 | **DeWanna Bonner** 🔴 | 663 |
 | 11 | Kristi Toliver | 651 |
 | 12 | Tamika Catchings | 605 |
-| 13 | **Kelsey Plum** 🔴 +3 | 591 |
+| 13 | **Kelsey Plum** 🔴 +4 | 592 |
 | 14 | Kara Lawson | 583 |
 | 15 | Nicole Powell | 579 |
 | 16 | Arike Ogunbowale | 545 |
@@ -1139,9 +1139,9 @@ _Last updated: 2026-05-16 03:46 UTC_
 | 93 | Azurá Stevens | 238 |
 | 94 | Svetlana Abrosimova | 235 |
 | 94 | Tangela Smith | 235 |
-| 96 | **Brittney Sykes** 🔴 +1 | 232 |
-| 96 | **Nneka Ogwumike** 🔴 +1 | 232 |
-| 96 | Stacey Dales | 232 |
+| 96 | **Brittney Sykes** 🔴 +2 | 233 |
+| 97 | **Nneka Ogwumike** 🔴 +1 | 232 |
+| 97 | Stacey Dales | 232 |
 | 99 | Odyssey Sims | 229 |
 | 100 | Elena Baranova | 224 |
 | 101 | Essence Carson | 223 |
@@ -1307,7 +1307,7 @@ _Last updated: 2026-05-16 03:46 UTC_
 | 56 | Chasity Melvin | 666 |
 | 56 | **Natasha Cloud** 🔴 +1 | 666 |
 | 58 | Vickie Johnson | 660 |
-| 59 | **Dearica Hamby** 🔴 | 657 |
+| 59 | **Dearica Hamby** 🔴 +1 | 658 |
 | 60 | Yolanda Griffith | 653 |
 | 61 | Sheri Sam | 650 |
 | 62 | Courtney Williams | 643 |

@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-16 03:47 UTC
+
+- **Brittney Sykes** passed **Stacey Dales** for **#96** all-time in three-pointers (career 233) — up from #97 entering today — _6:40 - 4th — TOR @ LA_
+
 ## 2026-05-16 03:38 UTC
 
 - **Kia Nurse** reached **600** career rebounds (now 600) — _End of 3rd — TOR @ LA_
