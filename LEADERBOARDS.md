@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-16 03:24 UTC_
+_Last updated: 2026-05-16 03:25 UTC_
 
 ## Contents
 
@@ -72,7 +72,7 @@ _Last updated: 2026-05-16 03:24 UTC_
 | 51 | **Kelsey Plum** 🔴 +9 | 4,216 |
 | 52 | Allisha Gray | 4,157 |
 | 53 | Rebekkah Brunson | 4,133 |
-| 54 | **Dearica Hamby** 🔴 +15 | 4,105 |
+| 54 | **Dearica Hamby** 🔴 +17 | 4,107 |
 | 55 | Jonquel Jones | 4,096 |
 | 56 | **Kahleah Copper** 🔴 +11 | 4,094 |
 | 57 | Courtney Williams | 4,061 |
@@ -110,7 +110,7 @@ _Last updated: 2026-05-16 03:24 UTC_
 | 89 | Stefanie Dolson | 3,134 |
 | 90 | Shavonte Zellous | 3,103 |
 | 91 | Briann January | 3,082 |
-| 92 | **Erica Wheeler** 🔴 +2 | 3,062 |
+| 92 | **Erica Wheeler** 🔴 +5 | 3,065 |
 | 93 | Erika de Souza | 3,046 |
 | 94 | Shameka Christon | 3,039 |
 | 95 | Sabrina Ionescu | 3,030 |
@@ -455,8 +455,8 @@ _Last updated: 2026-05-16 03:24 UTC_
 | 24 | **Erica Wheeler** 🔴 +3 | 1,259 |
 | 25 | Katie Smith | 1,258 |
 | 26 | Vickie Johnson | 1,202 |
+| 27 | **Kelsey Plum** 🔴 +8 | 1,201 |
 | 27 | Odyssey Sims | 1,201 |
-| 28 | **Kelsey Plum** 🔴 +7 | 1,200 |
 | 29 | Leilani Mitchell | 1,197 |
 | 30 | **DeWanna Bonner** 🔴 | 1,176 |
 | 31 | Renee Montgomery | 1,140 |
@@ -846,7 +846,7 @@ _Last updated: 2026-05-16 03:24 UTC_
 | 5 | **Nneka Ogwumike** 🔴 +1 | 669 |
 | 6 | Sheryl Swoopes | 657 |
 | 7 | Jia Perkins | 634 |
-| 8 | **DeWanna Bonner** 🔴 | 631 |
+| 8 | **DeWanna Bonner** 🔴 +1 | 632 |
 | 9 | Sancho Lyttle | 630 |
 | 10 | Angel McCoughtry | 627 |
 | 11 | Katie Douglas | 623 |
@@ -1103,7 +1103,7 @@ _Last updated: 2026-05-16 03:24 UTC_
 | 57 | Deanna Nolan | 340 |
 | 58 | Anna DeForge | 334 |
 | 59 | **Natasha Cloud** 🔴 | 331 |
-| 60 | **Erica Wheeler** 🔴 | 320 |
+| 60 | **Erica Wheeler** 🔴 +1 | 321 |
 | 61 | Sugar Rodgers | 317 |
 | 62 | Marissa Coleman | 315 |
 | 63 | Shannon Johnson | 313 |
@@ -1528,7 +1528,7 @@ _Last updated: 2026-05-16 03:24 UTC_
 | 72 | Becky Hammon | 733 |
 | 73 | Latasha Byears | 730 |
 | 74 | Kristi Toliver | 722 |
-| 75 | **Natasha Cloud** 🔴 +2 | 720 |
+| 75 | **Natasha Cloud** 🔴 +3 | 721 |
 | 76 | **Kahleah Copper** 🔴 +2 | 717 |
 | 77 | Cheryl Ford | 713 |
 | 78 | Jia Perkins | 711 |
