@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-16T03:51:00+00:00",
+    "text": "Natasha Mack passed Theresa Plaisance for #122 all-time in blocks (career 103) \u2014 up from #129 entering today \u2014 (7:54 - 4th \u2014 CHI @ PHX)",
+    "kind": "rank_pass",
+    "player": "Natasha Mack",
+    "stat": "blocks",
+    "rank": 122,
+    "passed_players": [
+      "Theresa Plaisance"
+    ],
+    "new_total": 103
+  },
+  {
     "ts": "2026-05-16T03:47:00+00:00",
     "text": "Brittney Sykes passed Stacey Dales for #96 all-time in three-pointers (career 233) \u2014 up from #97 entering today \u2014 (6:40 - 4th \u2014 TOR @ LA)",
     "kind": "rank_pass",
@@ -2964,17 +2976,5 @@
       "Renee Montgomery"
     ],
     "new_total": 1141
-  },
-  {
-    "ts": "2026-05-10T00:32:00+00:00",
-    "text": "Kayla McBride passed Kara Lawson for #46 all-time in assists (career 947) \u2014 up from #47 entering today \u2014 (7:36 - 2nd \u2014 ATL @ MIN)",
-    "kind": "rank_pass",
-    "player": "Kayla McBride",
-    "stat": "assists",
-    "rank": 46,
-    "passed_players": [
-      "Kara Lawson"
-    ],
-    "new_total": 947
   }
 ]
