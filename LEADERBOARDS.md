@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-16 02:24 UTC_
+_Last updated: 2026-05-16 02:25 UTC_
 
 ## Contents
 
@@ -74,7 +74,7 @@ _Last updated: 2026-05-16 02:24 UTC_
 | 53 | Rebekkah Brunson | 4,133 |
 | 54 | **Dearica Hamby** 🔴 +10 | 4,100 |
 | 55 | Jonquel Jones | 4,096 |
-| 56 | **Kahleah Copper** 🔴 +2 | 4,085 |
+| 56 | **Kahleah Copper** 🔴 +4 | 4,087 |
 | 57 | Courtney Williams | 4,061 |
 | 58 | Asjha Jones | 3,986 |
 | 59 | Deanna Nolan | 3,971 |
@@ -248,7 +248,7 @@ _Last updated: 2026-05-16 02:24 UTC_
 | 22 | Lauren Jackson | 2,444 |
 | 23 | Yolanda Griffith | 2,440 |
 | 24 | Tangela Smith | 2,328 |
-| 25 | **Dearica Hamby** 🔴 +4 | 2,321 |
+| 25 | **Dearica Hamby** 🔴 +5 | 2,322 |
 | 26 | Erika de Souza | 2,220 |
 | 27 | Diana Taurasi | 2,201 |
 | 28 | Natasha Howard | 2,174 |
@@ -336,8 +336,8 @@ _Last updated: 2026-05-16 02:24 UTC_
 | 110 | Adrienne Goodson | 1,126 |
 | 111 | Deanna Nolan | 1,112 |
 | 112 | Chiney Ogwumike | 1,110 |
-| 113 | Becky Hammon | 1,108 |
-| 113 | **Brittney Sykes** 🔴 | 1,108 |
+| 113 | **Brittney Sykes** 🔴 +1 | 1,109 |
+| 114 | Becky Hammon | 1,108 |
 | 115 | Ann Wauters | 1,105 |
 | 116 | **Natasha Cloud** 🔴 | 1,080 |
 | 117 | Svetlana Abrosimova | 1,078 |
@@ -555,7 +555,7 @@ _Last updated: 2026-05-16 02:24 UTC_
 | 124 | Anna DeForge | 503 |
 | 124 | Coco Miller | 503 |
 | 126 | Myisha Hines-Allen | 502 |
-| 127 | **Rachel Banham** 🔴 | 495 |
+| 127 | **Rachel Banham** 🔴 +1 | 496 |
 | 128 | Crystal Robinson | 488 |
 | 128 | Tiffany Mitchell | 488 |
 | 130 | Rebekkah Brunson | 486 |
