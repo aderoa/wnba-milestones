@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-16 03:42 UTC_
+_Last updated: 2026-05-16 03:43 UTC_
 
 ## Contents
 
@@ -24,7 +24,7 @@ _Last updated: 2026-05-16 03:42 UTC_
 | 3 | **DeWanna Bonner** 🔴 +6 | 7,811 |
 | 4 | Tina Thompson | 7,470 |
 | 5 | Tamika Catchings | 7,371 |
-| 6 | **Nneka Ogwumike** 🔴 +15 | 7,320 |
+| 6 | **Nneka Ogwumike** 🔴 +17 | 7,322 |
 | 7 | Candice Dupree | 6,861 |
 | 8 | Sue Bird | 6,802 |
 | 9 | Cappie Pondexter | 6,781 |
@@ -93,7 +93,7 @@ _Last updated: 2026-05-16 03:42 UTC_
 | 72 | Tamecka Dixon | 3,507 |
 | 73 | Tammy Sutton-Brown | 3,498 |
 | 74 | Sancho Lyttle | 3,478 |
-| 75 | **Brittney Sykes** 🔴 +13 | 3,452 |
+| 75 | **Brittney Sykes** 🔴 +16 | 3,455 |
 | 76 | Ivory Latta | 3,447 |
 | 77 | Jackie Young | 3,425 |
 | 78 | Nicole Powell | 3,407 |
@@ -452,7 +452,7 @@ _Last updated: 2026-05-16 03:42 UTC_
 | 21 | Dawn Staley | 1,337 |
 | 22 | Teresa Weatherspoon | 1,333 |
 | 23 | Kristi Toliver | 1,301 |
-| 24 | **Erica Wheeler** 🔴 +4 | 1,260 |
+| 24 | **Erica Wheeler** 🔴 +5 | 1,261 |
 | 25 | Katie Smith | 1,258 |
 | 26 | **Kelsey Plum** 🔴 +9 | 1,202 |
 | 26 | Vickie Johnson | 1,202 |
