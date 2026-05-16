@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-16 01:01 UTC_
+_Last updated: 2026-05-16 01:02 UTC_
 
 ## Contents
 
@@ -291,7 +291,7 @@ _Last updated: 2026-05-16 01:01 UTC_
 | 65 | Nicole Powell | 1,457 |
 | 66 | Alysha Clark | 1,454 |
 | 67 | Tamera Young | 1,433 |
-| 68 | **Cheyenne Parker-Tyus** 🔴 +1 | 1,425 |
+| 68 | **Cheyenne Parker-Tyus** 🔴 +2 | 1,426 |
 | 69 | Alana Beard | 1,420 |
 | 70 | Nakia Sanford | 1,419 |
 | 71 | Kara Braxton | 1,387 |
@@ -1022,10 +1022,10 @@ _Last updated: 2026-05-16 01:01 UTC_
 | 181 | Erin Perperoglou | 184 |
 | 182 | Alanna Smith | 182 |
 | 182 | Erin Phillips | 182 |
+| 182 | **Myisha Hines-Allen** 🔴 +1 | 182 |
 | 182 | Sabrina Ionescu | 182 |
-| 185 | **Myisha Hines-Allen** 🔴 | 181 |
-| 185 | Nakia Sanford | 181 |
-| 185 | Rebecca Allen | 181 |
+| 186 | Nakia Sanford | 181 |
+| 186 | Rebecca Allen | 181 |
 | 188 | Diamond DeShields | 180 |
 | 188 | Isabelle Harrison | 180 |
 | 190 | Bridget Pettis | 177 |
@@ -1036,7 +1036,7 @@ _Last updated: 2026-05-16 01:01 UTC_
 | 194 | Ezi Magbegor | 174 |
 | 194 | Margo Dydek | 174 |
 | 197 | Kamila Vodichkova | 173 |
-| 198 | **Monique Billings** 🔴 | 170 |
+| 198 | **Monique Billings** 🔴 +1 | 171 |
 | 199 | Kara Braxton | 168 |
 | 199 | Sugar Rodgers | 168 |
 
