@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-16 00:03 UTC_
+_Last updated: 2026-05-16 00:04 UTC_
 
 ## Contents
 
@@ -95,7 +95,7 @@ _Last updated: 2026-05-16 00:03 UTC_
 | 74 | Sancho Lyttle | 3,478 |
 | 75 | Ivory Latta | 3,447 |
 | 76 | Brittney Sykes | 3,439 |
-| 77 | **Jackie Young** 🔴 +4 | 3,416 |
+| 77 | **Jackie Young** 🔴 +6 | 3,418 |
 | 78 | Nicole Powell | 3,407 |
 | 79 | Epiphanny Prince | 3,381 |
 | 80 | Ariel Atkins | 3,361 |
@@ -1335,7 +1335,7 @@ _Last updated: 2026-05-16 00:03 UTC_
 | 84 | Sancho Lyttle | 563 |
 | 85 | Brittney Sykes | 558 |
 | 86 | Tan White | 557 |
-| 87 | **Kelsey Mitchell** 🔴 +1 | 550 |
+| 87 | **Kelsey Mitchell** 🔴 +2 | 551 |
 | 88 | Breanna Stewart | 549 |
 | 88 | Lauren Jackson | 549 |
 | 90 | Matee Ajavon | 544 |
@@ -1616,9 +1616,9 @@ _Last updated: 2026-05-16 00:03 UTC_
 | 160 | Kayla McBride | 507 |
 | 160 | Vicky Bullett | 507 |
 | 162 | Merlakia Jones | 506 |
-| 163 | Rushia Brown | 505 |
-| 163 | Shekinna Stricklen | 505 |
-| 163 | **Sophie Cunningham** 🔴 +1 | 505 |
+| 162 | **Sophie Cunningham** 🔴 +2 | 506 |
+| 164 | Rushia Brown | 505 |
+| 164 | Shekinna Stricklen | 505 |
 | 166 | Allison Feaster | 504 |
 | 166 | Erin Perperoglou | 504 |
 | 166 | **Jackie Young** 🔴 +1 | 504 |
