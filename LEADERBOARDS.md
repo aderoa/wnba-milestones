@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-16 00:17 UTC_
+_Last updated: 2026-05-16 00:18 UTC_
 
 ## Contents
 
@@ -192,7 +192,7 @@ _Last updated: 2026-05-16 00:17 UTC_
 | 171 | Nakia Sanford | 1,915 |
 | 172 | Ebony Hoffman | 1,909 |
 | 173 | Candice Wiggins | 1,901 |
-| 174 | Myisha Hines-Allen | 1,873 |
+| 174 | **Myisha Hines-Allen** 🔴 | 1,873 |
 | 175 | Isabelle Harrison | 1,832 |
 | 176 | Tianna Hawkins | 1,825 |
 | 177 | Noelle Quinn | 1,824 |
@@ -320,7 +320,7 @@ _Last updated: 2026-05-16 00:17 UTC_
 | 94 | Seimone Augustus | 1,228 |
 | 95 | Jia Perkins | 1,220 |
 | 96 | **Brianna Turner** 🔴 | 1,214 |
-| 97 | Myisha Hines-Allen | 1,208 |
+| 97 | **Myisha Hines-Allen** 🔴 | 1,208 |
 | 98 | DeMya Walker | 1,199 |
 | 99 | **Chelsea Gray** 🔴 +2 | 1,190 |
 | 99 | Latasha Byears | 1,190 |
@@ -352,7 +352,7 @@ _Last updated: 2026-05-16 00:17 UTC_
 | 126 | Cathrine Kraayeveld | 1,013 |
 | 127 | Kelly Miller | 1,011 |
 | 127 | Noelle Quinn | 1,011 |
-| 129 | **Jackie Young** 🔴 +3 | 1,005 |
+| 129 | **Jackie Young** 🔴 +4 | 1,006 |
 | 130 | Tiffany Jackson | 1,002 |
 | 131 | Tianna Hawkins | 1,000 |
 | 132 | **Damiris Dantas** 🔴 +2 | 997 |
@@ -554,7 +554,7 @@ _Last updated: 2026-05-16 00:17 UTC_
 | 122 | Chasity Melvin | 508 |
 | 124 | Anna DeForge | 503 |
 | 124 | Coco Miller | 503 |
-| 126 | Myisha Hines-Allen | 497 |
+| 126 | **Myisha Hines-Allen** 🔴 | 497 |
 | 127 | Rachel Banham | 495 |
 | 128 | Crystal Robinson | 488 |
 | 128 | Tiffany Mitchell | 488 |
@@ -823,7 +823,7 @@ _Last updated: 2026-05-16 00:17 UTC_
 | 186 | Tanisha Wright | 71 |
 | 188 | Wendy Palmer | 70 |
 | 189 | Mercedes Russell | 69 |
-| 189 | Myisha Hines-Allen | 69 |
+| 189 | **Myisha Hines-Allen** 🔴 | 69 |
 | 189 | Rhonda Mapp | 69 |
 | 192 | Satou Sabally | 67 |
 | 192 | Shannon Johnson | 67 |
@@ -1023,7 +1023,7 @@ _Last updated: 2026-05-16 00:17 UTC_
 | 182 | Alanna Smith | 182 |
 | 182 | Erin Phillips | 182 |
 | 182 | Sabrina Ionescu | 182 |
-| 185 | Myisha Hines-Allen | 181 |
+| 185 | **Myisha Hines-Allen** 🔴 | 181 |
 | 185 | Nakia Sanford | 181 |
 | 185 | Rebecca Allen | 181 |
 | 188 | Diamond DeShields | 180 |
@@ -1213,7 +1213,7 @@ _Last updated: 2026-05-16 00:17 UTC_
 | 167 | Crystal Dangerfield | 129 |
 | 168 | Ticha Penicheiro | 128 |
 | 169 | Michele Timms | 127 |
-| 169 | Myisha Hines-Allen | 127 |
+| 169 | **Myisha Hines-Allen** 🔴 | 127 |
 | 171 | Tamecka Dixon | 126 |
 | 172 | Charde Houston | 124 |
 | 173 | Lisa Leslie | 123 |
@@ -1409,7 +1409,7 @@ _Last updated: 2026-05-16 00:17 UTC_
 | 157 | Cheryl Ford | 374 |
 | 159 | Allison Feaster | 372 |
 | 160 | Emma Meesseman | 367 |
-| 161 | Myisha Hines-Allen | 363 |
+| 161 | **Myisha Hines-Allen** 🔴 | 363 |
 | 162 | Latasha Byears | 360 |
 | 163 | Vicky Bullett | 359 |
 | 164 | Tiffany Jackson | 354 |
@@ -1630,7 +1630,7 @@ _Last updated: 2026-05-16 00:17 UTC_
 | 173 | Essence Carson | 497 |
 | 175 | Karima Christmas-Kelly | 494 |
 | 176 | Ann Wauters | 493 |
-| 176 | Myisha Hines-Allen | 493 |
+| 176 | **Myisha Hines-Allen** 🔴 | 493 |
 | 176 | Riquna Williams | 493 |
 | 179 | Charde Houston | 487 |
 | 180 | Lindsey Harding | 486 |
