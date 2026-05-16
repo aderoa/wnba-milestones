@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-16 02:36 UTC_
+_Last updated: 2026-05-16 02:37 UTC_
 
 ## Contents
 
@@ -21,10 +21,10 @@ _Last updated: 2026-05-16 02:36 UTC_
 |-----:|--------|------:|
 | 1 | Diana Taurasi | 10,608 |
 | 2 | Tina Charles | 8,396 |
-| 3 | **DeWanna Bonner** 🔴 +3 | 7,808 |
+| 3 | **DeWanna Bonner** 🔴 +4 | 7,809 |
 | 4 | Tina Thompson | 7,470 |
 | 5 | Tamika Catchings | 7,371 |
-| 6 | **Nneka Ogwumike** 🔴 +8 | 7,313 |
+| 6 | **Nneka Ogwumike** 🔴 +9 | 7,314 |
 | 7 | Candice Dupree | 6,861 |
 | 8 | Sue Bird | 6,802 |
 | 9 | Cappie Pondexter | 6,781 |
@@ -1361,7 +1361,7 @@ _Last updated: 2026-05-16 02:36 UTC_
 | 109 | Tari Phillips | 493 |
 | 111 | Janel McCarville | 491 |
 | 112 | Jordin Canada | 489 |
-| 113 | **Marina Mabrey** 🔴 +1 | 488 |
+| 112 | **Marina Mabrey** 🔴 +2 | 489 |
 | 114 | Erika de Souza | 483 |
 | 115 | Sophia Young-Malcolm | 482 |
 | 116 | Natalie Williams | 480 |
@@ -1600,9 +1600,9 @@ _Last updated: 2026-05-16 02:36 UTC_
 | 144 | Marissa Coleman | 541 |
 | 145 | Kristen Rasmussen | 533 |
 | 146 | Amanda Zahui B | 530 |
-| 147 | Candice Wiggins | 525 |
-| 147 | Epiphanny Prince | 525 |
-| 147 | **Marina Mabrey** 🔴 | 525 |
+| 147 | **Marina Mabrey** 🔴 +1 | 526 |
+| 148 | Candice Wiggins | 525 |
+| 148 | Epiphanny Prince | 525 |
 | 150 | A'ja Wilson | 523 |
 | 150 | Armintie Herrington | 523 |
 | 152 | Sheryl Swoopes | 519 |

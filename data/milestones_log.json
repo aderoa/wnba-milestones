@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-05-16T02:37:00+00:00",
+    "text": "Marina Mabrey passed Candice Wiggins and Epiphanny Prince for #147 all-time in fouls (career 526) \u2014 up from #149 entering today \u2014 (6:07 - 2nd \u2014 TOR @ LA)",
+    "kind": "rank_pass",
+    "player": "Marina Mabrey",
+    "stat": "fouls",
+    "rank": 147,
+    "passed_players": [
+      "Candice Wiggins",
+      "Epiphanny Prince"
+    ],
+    "new_total": 526
+  },
+  {
     "ts": "2026-05-16T02:35:00+00:00",
     "text": "Erica Wheeler passed Natasha Cloud for #57 all-time in turnovers (career 666) \u2014 (6:45 - 2nd \u2014 TOR @ LA)",
     "kind": "rank_pass",
@@ -2959,17 +2972,5 @@
     "stat": "blocks",
     "value": 100,
     "new_total": 100
-  },
-  {
-    "ts": "2026-05-09T21:11:00+00:00",
-    "text": "NaLyssa Smith passed Le'coe Willingham for #118 all-time in rebounds (career 1,055) \u2014 up from #119 entering today \u2014 (8:07 - 3rd \u2014 PHX @ LV)",
-    "kind": "rank_pass",
-    "player": "NaLyssa Smith",
-    "stat": "rebounds",
-    "rank": 118,
-    "passed_players": [
-      "Le'coe Willingham"
-    ],
-    "new_total": 1055
   }
 ]
