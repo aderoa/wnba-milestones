@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-16 02:13 UTC_
+_Last updated: 2026-05-16 02:14 UTC_
 
 ## Contents
 
@@ -24,7 +24,7 @@ _Last updated: 2026-05-16 02:13 UTC_
 | 3 | **DeWanna Bonner** 🔴 +2 | 7,807 |
 | 4 | Tina Thompson | 7,470 |
 | 5 | Tamika Catchings | 7,371 |
-| 6 | **Nneka Ogwumike** 🔴 +5 | 7,310 |
+| 6 | **Nneka Ogwumike** 🔴 +7 | 7,312 |
 | 7 | Candice Dupree | 6,861 |
 | 8 | Sue Bird | 6,802 |
 | 9 | Cappie Pondexter | 6,781 |
@@ -485,7 +485,7 @@ _Last updated: 2026-05-16 02:13 UTC_
 | 54 | Layshia Clarendon | 911 |
 | 54 | Seimone Augustus | 911 |
 | 56 | Candice Dupree | 902 |
-| 57 | **Nneka Ogwumike** 🔴 +1 | 897 |
+| 57 | **Nneka Ogwumike** 🔴 +2 | 898 |
 | 58 | Maya Moore | 896 |
 | 59 | Arike Ogunbowale | 889 |
 | 60 | Ivory Latta | 885 |
@@ -509,7 +509,7 @@ _Last updated: 2026-05-16 02:13 UTC_
 | 78 | Chamique Holdsclaw | 698 |
 | 79 | Shavonte Zellous | 693 |
 | 80 | Allie Quigley | 690 |
-| 81 | **Dearica Hamby** 🔴 | 688 |
+| 81 | **Dearica Hamby** 🔴 +1 | 689 |
 | 82 | Stefanie Dolson | 686 |
 | 83 | Moriah Jefferson | 685 |
 | 84 | Emma Meesseman | 681 |
@@ -601,7 +601,7 @@ _Last updated: 2026-05-16 02:13 UTC_
 | 170 | Shameka Christon | 389 |
 | 170 | Tamicha Jackson | 389 |
 | 172 | Riquna Williams | 387 |
-| 173 | **Julie Allemand** 🔴 | 385 |
+| 173 | **Julie Allemand** 🔴 +1 | 386 |
 | 174 | Aliyah Boston | 379 |
 | 174 | Dana Evans | 379 |
 | 176 | Jessica Breland | 377 |
@@ -843,7 +843,7 @@ _Last updated: 2026-05-16 02:13 UTC_
 | 2 | Ticha Penicheiro | 761 |
 | 3 | Sue Bird | 724 |
 | 4 | Alana Beard | 710 |
-| 5 | **Nneka Ogwumike** 🔴 | 668 |
+| 5 | **Nneka Ogwumike** 🔴 +1 | 669 |
 | 6 | Sheryl Swoopes | 657 |
 | 7 | Jia Perkins | 634 |
 | 8 | **DeWanna Bonner** 🔴 | 631 |
@@ -1549,8 +1549,8 @@ _Last updated: 2026-05-16 02:13 UTC_
 | 93 | Jennifer Lacy | 680 |
 | 93 | Temeka Johnson | 680 |
 | 95 | Kelly Miller | 676 |
+| 96 | **Brittney Sykes** 🔴 +1 | 667 |
 | 96 | Chamique Holdsclaw | 667 |
-| 97 | **Brittney Sykes** 🔴 | 666 |
 | 98 | Cheyenne Parker-Tyus | 662 |
 | 98 | Tianna Hawkins | 662 |
 | 100 | **Kelsey Plum** 🔴 | 658 |
