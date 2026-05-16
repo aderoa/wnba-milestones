@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-16 02:07 UTC_
+_Last updated: 2026-05-16 02:08 UTC_
 
 ## Contents
 
@@ -24,7 +24,7 @@ _Last updated: 2026-05-16 02:07 UTC_
 | 3 | **DeWanna Bonner** 🔴 | 7,805 |
 | 4 | Tina Thompson | 7,470 |
 | 5 | Tamika Catchings | 7,371 |
-| 6 | **Nneka Ogwumike** 🔴 | 7,305 |
+| 6 | **Nneka Ogwumike** 🔴 +3 | 7,308 |
 | 7 | Candice Dupree | 6,861 |
 | 8 | Sue Bird | 6,802 |
 | 9 | Cappie Pondexter | 6,781 |
@@ -231,7 +231,7 @@ _Last updated: 2026-05-16 02:07 UTC_
 | 5 | Tamika Catchings | 3,313 |
 | 6 | Lisa Leslie | 3,303 |
 | 7 | **Nneka Ogwumike** 🔴 | 3,268 |
-| 8 | **DeWanna Bonner** 🔴 | 3,203 |
+| 8 | **DeWanna Bonner** 🔴 +1 | 3,204 |
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
@@ -248,7 +248,7 @@ _Last updated: 2026-05-16 02:07 UTC_
 | 22 | Lauren Jackson | 2,444 |
 | 23 | Yolanda Griffith | 2,440 |
 | 24 | Tangela Smith | 2,328 |
-| 25 | **Dearica Hamby** 🔴 | 2,317 |
+| 25 | **Dearica Hamby** 🔴 +1 | 2,318 |
 | 26 | Erika de Souza | 2,220 |
 | 27 | Diana Taurasi | 2,201 |
 | 28 | Natasha Howard | 2,174 |
@@ -457,7 +457,7 @@ _Last updated: 2026-05-16 02:07 UTC_
 | 26 | Vickie Johnson | 1,202 |
 | 27 | Odyssey Sims | 1,201 |
 | 28 | Leilani Mitchell | 1,197 |
-| 29 | **Kelsey Plum** 🔴 | 1,193 |
+| 29 | **Kelsey Plum** 🔴 +2 | 1,195 |
 | 30 | **DeWanna Bonner** 🔴 | 1,176 |
 | 31 | Renee Montgomery | 1,140 |
 | 32 | Jordin Canada | 1,139 |
@@ -1139,9 +1139,9 @@ _Last updated: 2026-05-16 02:07 UTC_
 | 93 | Azurá Stevens | 238 |
 | 94 | Svetlana Abrosimova | 235 |
 | 94 | Tangela Smith | 235 |
+| 96 | **Nneka Ogwumike** 🔴 +1 | 232 |
 | 96 | Stacey Dales | 232 |
-| 97 | **Brittney Sykes** 🔴 | 231 |
-| 97 | **Nneka Ogwumike** 🔴 | 231 |
+| 98 | **Brittney Sykes** 🔴 | 231 |
 | 99 | Odyssey Sims | 229 |
 | 100 | Elena Baranova | 224 |
 | 101 | Essence Carson | 223 |
@@ -1274,14 +1274,14 @@ _Last updated: 2026-05-16 02:07 UTC_
 | 23 | Chelsea Gray | 874 |
 | 24 | Candice Dupree | 869 |
 | 25 | Alana Beard | 854 |
-| 26 | **DeWanna Bonner** 🔴 | 826 |
+| 26 | **DeWanna Bonner** 🔴 +1 | 827 |
 | 27 | Katie Douglas | 824 |
 | 28 | Betty Lennox | 800 |
 | 29 | Jasmine Thomas | 796 |
 | 30 | Chamique Holdsclaw | 789 |
 | 31 | Natasha Howard | 784 |
-| 32 | Crystal Langhorne | 782 |
-| 32 | **Nneka Ogwumike** 🔴 | 782 |
+| 32 | **Nneka Ogwumike** 🔴 +1 | 783 |
+| 33 | Crystal Langhorne | 782 |
 | 34 | Jewell Loyd | 781 |
 | 35 | Camille Smith | 779 |
 | 36 | Plenette Pierson | 773 |
