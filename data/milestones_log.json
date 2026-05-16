@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-16T03:16:00+00:00",
+    "text": "Kelsey Plum passed Leilani Mitchell for #28 all-time in assists (career 1,198) \u2014 up from #29 entering today \u2014 (8:01 - 3rd \u2014 TOR @ LA)",
+    "kind": "rank_pass",
+    "player": "Kelsey Plum",
+    "stat": "assists",
+    "rank": 28,
+    "passed_players": [
+      "Leilani Mitchell"
+    ],
+    "new_total": 1198
+  },
+  {
     "ts": "2026-05-16T03:15:00+00:00",
     "text": "Brittney Sykes passed Vickie Johnson for #62 all-time in steals (career 358) \u2014 up from #66 entering today \u2014 (8:04 - 3rd \u2014 TOR @ LA)",
     "kind": "rank_pass",
@@ -2969,17 +2981,5 @@
       "Jessica Davenport"
     ],
     "new_total": 152
-  },
-  {
-    "ts": "2026-05-10T00:05:00+00:00",
-    "text": "Courtney Williams passed Ebony Hoffman for #94 all-time in steals (career 309) \u2014 (8:00 - 1st \u2014 ATL @ MIN)",
-    "kind": "rank_pass",
-    "player": "Courtney Williams",
-    "stat": "steals",
-    "rank": 94,
-    "passed_players": [
-      "Ebony Hoffman"
-    ],
-    "new_total": 309
   }
 ]

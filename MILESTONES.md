@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-16 03:16 UTC
+
+- **Kelsey Plum** passed **Leilani Mitchell** for **#28** all-time in assists (career 1,198) — up from #29 entering today — _8:01 - 3rd — TOR @ LA_
+
 ## 2026-05-16 03:15 UTC
 
 - **Brittney Sykes** passed **Vickie Johnson** for **#62** all-time in steals (career 358) — up from #66 entering today — _8:04 - 3rd — TOR @ LA_
