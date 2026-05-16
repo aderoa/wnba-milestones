@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-16 03:53 UTC_
+_Last updated: 2026-05-16 03:54 UTC_
 
 ## Contents
 
@@ -110,7 +110,7 @@ _Last updated: 2026-05-16 03:53 UTC_
 | 89 | Stefanie Dolson | 3,134 |
 | 90 | Shavonte Zellous | 3,103 |
 | 91 | Briann January | 3,082 |
-| 92 | **Erica Wheeler** 🔴 +7 | 3,067 |
+| 92 | **Erica Wheeler** 🔴 +10 | 3,070 |
 | 93 | Erika de Souza | 3,046 |
 | 94 | Shameka Christon | 3,039 |
 | 95 | Sabrina Ionescu | 3,030 |
@@ -1103,7 +1103,7 @@ _Last updated: 2026-05-16 03:53 UTC_
 | 57 | Deanna Nolan | 340 |
 | 58 | Anna DeForge | 334 |
 | 59 | **Natasha Cloud** 🔴 | 331 |
-| 60 | **Erica Wheeler** 🔴 +1 | 321 |
+| 60 | **Erica Wheeler** 🔴 +2 | 322 |
 | 61 | Sugar Rodgers | 317 |
 | 62 | Marissa Coleman | 315 |
 | 63 | Shannon Johnson | 313 |
