@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-16 02:37 UTC_
+_Last updated: 2026-05-16 02:38 UTC_
 
 ## Contents
 
@@ -365,7 +365,7 @@ _Last updated: 2026-05-16 02:37 UTC_
 | 139 | Jennifer Gillom | 964 |
 | 140 | Dominique Canty | 961 |
 | 141 | Armintie Herrington | 960 |
-| 142 | **Skylar Diggins** 🔴 | 955 |
+| 142 | **Skylar Diggins** 🔴 +1 | 956 |
 | 143 | Janell Burse | 944 |
 | 144 | Merlakia Jones | 927 |
 | 145 | Nicky Anosike | 922 |
@@ -436,7 +436,7 @@ _Last updated: 2026-05-16 02:37 UTC_
 | 5 | Lindsay Whalen | 2,347 |
 | 6 | Chelsea Gray | 1,880 |
 | 7 | **Alyssa Thomas** 🔴 +4 | 1,824 |
-| 8 | **Skylar Diggins** 🔴 +2 | 1,770 |
+| 8 | **Skylar Diggins** 🔴 +3 | 1,771 |
 | 9 | **Natasha Cloud** 🔴 +3 | 1,736 |
 | 10 | Becky Hammon | 1,705 |
 | 11 | Candace Parker | 1,634 |
@@ -755,11 +755,11 @@ _Last updated: 2026-05-16 02:37 UTC_
 | 118 | Rebecca Lobo | 104 |
 | 120 | Jennifer Gillom | 103 |
 | 120 | Jia Perkins | 103 |
+| 122 | **Natasha Mack** 🔴 +3 | 102 |
 | 122 | Theresa Plaisance | 102 |
-| 123 | Courtney Williams | 101 |
-| 123 | Deanna Nolan | 101 |
-| 123 | **Dearica Hamby** 🔴 | 101 |
-| 123 | **Natasha Mack** 🔴 +2 | 101 |
+| 124 | Courtney Williams | 101 |
+| 124 | Deanna Nolan | 101 |
+| 124 | **Dearica Hamby** 🔴 | 101 |
 | 127 | Chante Black | 100 |
 | 127 | Danielle Adams | 100 |
 | 127 | Nicole Powell | 100 |
