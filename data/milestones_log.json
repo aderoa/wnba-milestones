@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-16T03:15:00+00:00",
+    "text": "Brittney Sykes passed Vickie Johnson for #62 all-time in steals (career 358) \u2014 up from #66 entering today \u2014 (8:04 - 3rd \u2014 TOR @ LA)",
+    "kind": "rank_pass",
+    "player": "Brittney Sykes",
+    "stat": "steals",
+    "rank": 62,
+    "passed_players": [
+      "Vickie Johnson"
+    ],
+    "new_total": 358
+  },
+  {
     "ts": "2026-05-16T03:14:00+00:00",
     "text": "Erica Wheeler passed Chasity Melvin for #55 all-time in turnovers (career 667) \u2014 up from #56 entering today \u2014 (8:39 - 3rd \u2014 TOR @ LA)",
     "kind": "rank_pass",
@@ -2969,17 +2981,5 @@
       "Ebony Hoffman"
     ],
     "new_total": 309
-  },
-  {
-    "ts": "2026-05-09T21:51:00+00:00",
-    "text": "NaLyssa Smith passed Tiffany Hayes for #146 all-time in blocks (career 88) \u2014 up from #149 entering today \u2014 (1:42 - 4th \u2014 PHX @ LV)",
-    "kind": "rank_pass",
-    "player": "NaLyssa Smith",
-    "stat": "blocks",
-    "rank": 146,
-    "passed_players": [
-      "Tiffany Hayes"
-    ],
-    "new_total": 88
   }
 ]
