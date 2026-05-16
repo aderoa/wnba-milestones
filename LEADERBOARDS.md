@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-16 02:42 UTC_
+_Last updated: 2026-05-16 02:43 UTC_
 
 ## Contents
 
@@ -24,7 +24,7 @@ _Last updated: 2026-05-16 02:42 UTC_
 | 3 | **DeWanna Bonner** 🔴 +4 | 7,809 |
 | 4 | Tina Thompson | 7,470 |
 | 5 | Tamika Catchings | 7,371 |
-| 6 | **Nneka Ogwumike** 🔴 +9 | 7,314 |
+| 6 | **Nneka Ogwumike** 🔴 +11 | 7,316 |
 | 7 | Candice Dupree | 6,861 |
 | 8 | Sue Bird | 6,802 |
 | 9 | Cappie Pondexter | 6,781 |
@@ -377,7 +377,7 @@ _Last updated: 2026-05-16 02:42 UTC_
 | 151 | Mistie Bass | 888 |
 | 152 | Shameka Christon | 867 |
 | 153 | Krystal Thomas | 862 |
-| 154 | **Erica Wheeler** 🔴 +1 | 853 |
+| 154 | **Erica Wheeler** 🔴 +2 | 854 |
 | 155 | Leilani Mitchell | 845 |
 | 156 | Alanna Smith | 834 |
 | 157 | Essence Carson | 833 |
@@ -453,7 +453,7 @@ _Last updated: 2026-05-16 02:42 UTC_
 | 22 | Teresa Weatherspoon | 1,333 |
 | 23 | Kristi Toliver | 1,301 |
 | 24 | Katie Smith | 1,258 |
-| 25 | **Erica Wheeler** 🔴 | 1,256 |
+| 25 | **Erica Wheeler** 🔴 +1 | 1,257 |
 | 26 | Vickie Johnson | 1,202 |
 | 27 | Odyssey Sims | 1,201 |
 | 28 | **Kelsey Plum** 🔴 +4 | 1,197 |
