@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-05-16T02:49:00+00:00",
+    "text": "Brittney Sykes passed Dominique Canty and Renee Montgomery for #63 all-time in steals (career 357) \u2014 up from #66 entering today \u2014 (1:51 - 2nd \u2014 TOR @ LA)",
+    "kind": "rank_pass",
+    "player": "Brittney Sykes",
+    "stat": "steals",
+    "rank": 63,
+    "passed_players": [
+      "Dominique Canty",
+      "Renee Montgomery"
+    ],
+    "new_total": 357
+  },
+  {
     "ts": "2026-05-16T02:37:00+00:00",
     "text": "Marina Mabrey passed Candice Wiggins and Epiphanny Prince for #147 all-time in fouls (career 526) \u2014 up from #149 entering today \u2014 (6:07 - 2nd \u2014 TOR @ LA)",
     "kind": "rank_pass",
@@ -2963,14 +2976,5 @@
     "stat": "points",
     "value": 4500,
     "new_total": 4500
-  },
-  {
-    "ts": "2026-05-09T21:11:00+00:00",
-    "text": "Natasha Mack reached 100 career blocks (now 100) \u2014 (8:07 - 3rd \u2014 PHX @ LV)",
-    "kind": "round",
-    "player": "Natasha Mack",
-    "stat": "blocks",
-    "value": 100,
-    "new_total": 100
   }
 ]

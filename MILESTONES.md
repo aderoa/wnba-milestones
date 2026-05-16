@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-16 02:49 UTC
+
+- **Brittney Sykes** passed **Dominique Canty** and **Renee Montgomery** for **#63** all-time in steals (career 357) — up from #66 entering today — _1:51 - 2nd — TOR @ LA_
+
 ## 2026-05-16 02:37 UTC
 
 - **Marina Mabrey** passed **Candice Wiggins** and **Epiphanny Prince** for **#147** all-time in fouls (career 526) — up from #149 entering today — _6:07 - 2nd — TOR @ LA_

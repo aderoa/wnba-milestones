@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-16 02:48 UTC_
+_Last updated: 2026-05-16 02:49 UTC_
 
 ## Contents
 
@@ -94,7 +94,7 @@ _Last updated: 2026-05-16 02:48 UTC_
 | 73 | Tammy Sutton-Brown | 3,498 |
 | 74 | Sancho Lyttle | 3,478 |
 | 75 | Ivory Latta | 3,447 |
-| 76 | **Brittney Sykes** 🔴 +5 | 3,444 |
+| 76 | **Brittney Sykes** 🔴 +7 | 3,446 |
 | 77 | Jackie Young | 3,425 |
 | 78 | Nicole Powell | 3,407 |
 | 79 | Epiphanny Prince | 3,381 |
@@ -231,7 +231,7 @@ _Last updated: 2026-05-16 02:48 UTC_
 | 5 | Tamika Catchings | 3,313 |
 | 6 | Lisa Leslie | 3,303 |
 | 7 | **Nneka Ogwumike** 🔴 +2 | 3,270 |
-| 8 | **DeWanna Bonner** 🔴 +3 | 3,206 |
+| 8 | **DeWanna Bonner** 🔴 +4 | 3,207 |
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
@@ -900,10 +900,10 @@ _Last updated: 2026-05-16 02:48 UTC_
 | 59 | Lauren Jackson | 360 |
 | 59 | Tan White | 360 |
 | 61 | Jordin Canada | 359 |
+| 62 | **Brittney Sykes** 🔴 +3 | 357 |
 | 62 | Vickie Johnson | 357 |
-| 63 | **Brittney Sykes** 🔴 +2 | 356 |
-| 63 | Dominique Canty | 356 |
-| 63 | Renee Montgomery | 356 |
+| 64 | Dominique Canty | 356 |
+| 64 | Renee Montgomery | 356 |
 | 66 | Tamecka Dixon | 355 |
 | 67 | Vicky Bullett | 353 |
 | 68 | Svetlana Abrosimova | 352 |
@@ -1262,7 +1262,7 @@ _Last updated: 2026-05-16 02:48 UTC_
 | 11 | Tamika Catchings | 1,041 |
 | 12 | Tina Charles | 1,040 |
 | 13 | Lindsay Whalen | 1,002 |
-| 14 | **Alyssa Thomas** 🔴 +1 | 966 |
+| 14 | **Alyssa Thomas** 🔴 +2 | 967 |
 | 15 | Sylvia Fowles | 961 |
 | 16 | Tanisha Wright | 954 |
 | 17 | Angel McCoughtry | 949 |
