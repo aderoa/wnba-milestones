@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-15 23:59 UTC_
+_Last updated: 2026-05-16 00:00 UTC_
 
 ## Contents
 
@@ -95,7 +95,7 @@ _Last updated: 2026-05-15 23:59 UTC_
 | 74 | Sancho Lyttle | 3,478 |
 | 75 | Ivory Latta | 3,447 |
 | 76 | Brittney Sykes | 3,439 |
-| 77 | **Jackie Young** 🔴 +2 | 3,414 |
+| 77 | **Jackie Young** 🔴 +4 | 3,416 |
 | 78 | Nicole Powell | 3,407 |
 | 79 | Epiphanny Prince | 3,381 |
 | 80 | Ariel Atkins | 3,361 |
@@ -210,7 +210,7 @@ _Last updated: 2026-05-15 23:59 UTC_
 | 189 | Armintie Herrington | 1,696 |
 | 190 | Nikki Teasley | 1,690 |
 | 191 | Shenise Johnson | 1,688 |
-| 192 | **NaLyssa Smith** 🔴 +2 | 1,678 |
+| 192 | **NaLyssa Smith** 🔴 +4 | 1,680 |
 | 193 | **Sophie Cunningham** 🔴 +5 | 1,671 |
 | 194 | Gabby Williams | 1,597 |
 | 195 | Janell Burse | 1,580 |
@@ -1380,7 +1380,7 @@ _Last updated: 2026-05-15 23:59 UTC_
 | 129 | Alysha Clark | 437 |
 | 129 | Ariel Atkins | 437 |
 | 129 | Betnijah Laney-Hamilton | 437 |
-| 129 | **Cheyenne Parker-Tyus** 🔴 +2 | 437 |
+| 132 | **Cheyenne Parker-Tyus** 🔴 +1 | 436 |
 | 133 | Jennifer Gillom | 434 |
 | 133 | Nicole Ohlde | 434 |
 | 135 | Murriel Page | 432 |
@@ -1551,8 +1551,8 @@ _Last updated: 2026-05-15 23:59 UTC_
 | 95 | Kelly Miller | 676 |
 | 96 | Chamique Holdsclaw | 667 |
 | 97 | Brittney Sykes | 666 |
-| 98 | **Cheyenne Parker-Tyus** 🔴 +3 | 663 |
-| 99 | Tianna Hawkins | 662 |
+| 98 | **Cheyenne Parker-Tyus** 🔴 +2 | 662 |
+| 98 | Tianna Hawkins | 662 |
 | 100 | Kelsey Plum | 658 |
 | 101 | Tari Phillips | 648 |
 | 102 | Marie Ferdinand-Harris | 646 |
