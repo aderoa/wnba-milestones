@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-16 03:43 UTC_
+_Last updated: 2026-05-16 03:44 UTC_
 
 ## Contents
 
@@ -69,7 +69,7 @@ _Last updated: 2026-05-16 03:43 UTC_
 | 48 | Monique Currie | 4,253 |
 | 49 | Vickie Johnson | 4,230 |
 | 50 | Yolanda Griffith | 4,224 |
-| 51 | **Kelsey Plum** 🔴 +12 | 4,219 |
+| 51 | **Kelsey Plum** 🔴 +15 | 4,222 |
 | 52 | Allisha Gray | 4,157 |
 | 53 | Rebekkah Brunson | 4,133 |
 | 54 | **Dearica Hamby** 🔴 +19 | 4,109 |
@@ -452,7 +452,7 @@ _Last updated: 2026-05-16 03:43 UTC_
 | 21 | Dawn Staley | 1,337 |
 | 22 | Teresa Weatherspoon | 1,333 |
 | 23 | Kristi Toliver | 1,301 |
-| 24 | **Erica Wheeler** 🔴 +5 | 1,261 |
+| 24 | **Erica Wheeler** 🔴 +6 | 1,262 |
 | 25 | Katie Smith | 1,258 |
 | 26 | **Kelsey Plum** 🔴 +9 | 1,202 |
 | 26 | Vickie Johnson | 1,202 |
@@ -1056,7 +1056,7 @@ _Last updated: 2026-05-16 03:43 UTC_
 | 10 | **DeWanna Bonner** 🔴 | 663 |
 | 11 | Kristi Toliver | 651 |
 | 12 | Tamika Catchings | 605 |
-| 13 | **Kelsey Plum** 🔴 +2 | 590 |
+| 13 | **Kelsey Plum** 🔴 +3 | 591 |
 | 14 | Kara Lawson | 583 |
 | 15 | Nicole Powell | 579 |
 | 16 | Arike Ogunbowale | 545 |
@@ -1513,7 +1513,7 @@ _Last updated: 2026-05-16 03:43 UTC_
 | 56 | Wendy Palmer | 831 |
 | 58 | Shannon Johnson | 813 |
 | 58 | Tully Bevilaqua | 813 |
-| 60 | **Dearica Hamby** 🔴 +3 | 801 |
+| 60 | **Dearica Hamby** 🔴 +4 | 802 |
 | 61 | Nykesha Sales | 796 |
 | 62 | **Skylar Diggins** 🔴 +3 | 793 |
 | 63 | Ebony Hoffman | 791 |
