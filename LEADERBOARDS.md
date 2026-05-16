@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-16 00:58 UTC_
+_Last updated: 2026-05-16 00:59 UTC_
 
 ## Contents
 
@@ -1409,7 +1409,7 @@ _Last updated: 2026-05-16 00:58 UTC_
 | 157 | Cheryl Ford | 374 |
 | 159 | Allison Feaster | 372 |
 | 160 | Emma Meesseman | 367 |
-| 161 | **Myisha Hines-Allen** 🔴 | 363 |
+| 161 | **Myisha Hines-Allen** 🔴 +1 | 364 |
 | 162 | Latasha Byears | 360 |
 | 163 | Vicky Bullett | 359 |
 | 164 | Tiffany Jackson | 354 |
@@ -1629,9 +1629,9 @@ _Last updated: 2026-05-16 00:58 UTC_
 | 173 | Adrian Williams-Strong | 497 |
 | 173 | Essence Carson | 497 |
 | 175 | Karima Christmas-Kelly | 494 |
-| 176 | Ann Wauters | 493 |
-| 176 | **Myisha Hines-Allen** 🔴 | 493 |
-| 176 | Riquna Williams | 493 |
+| 175 | **Myisha Hines-Allen** 🔴 +1 | 494 |
+| 177 | Ann Wauters | 493 |
+| 177 | Riquna Williams | 493 |
 | 179 | Charde Houston | 487 |
 | 180 | Lindsey Harding | 486 |
 | 181 | Cathrine Kraayeveld | 484 |
