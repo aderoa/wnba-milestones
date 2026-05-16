@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-16 01:58 UTC_
+_Last updated: 2026-05-16 01:59 UTC_
 
 ## Contents
 
@@ -420,7 +420,7 @@ _Last updated: 2026-05-16 01:58 UTC_
 | 194 | Kelsey Plum | 715 |
 | 195 | Olympia Scott | 711 |
 | 196 | Katie Mattera | 708 |
-| 197 | **Shakira Austin** 🔴 +7 | 707 |
+| 196 | **Shakira Austin** 🔴 +8 | 708 |
 | 198 | Rushia Brown | 706 |
 | 199 | Allie Quigley | 702 |
 | 200 | Epiphanny Prince | 701 |
