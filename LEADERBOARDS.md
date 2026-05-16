@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-16 02:23 UTC_
+_Last updated: 2026-05-16 02:24 UTC_
 
 ## Contents
 
@@ -495,7 +495,7 @@ _Last updated: 2026-05-16 02:23 UTC_
 | 64 | Lisa Leslie | 873 |
 | 65 | Tully Bevilaqua | 853 |
 | 66 | Jia Perkins | 837 |
-| 67 | **Brittney Sykes** 🔴 +2 | 818 |
+| 67 | **Brittney Sykes** 🔴 +3 | 819 |
 | 68 | Andrea Stinson | 810 |
 | 69 | Tina Thompson | 803 |
 | 70 | Epiphanny Prince | 800 |
@@ -901,10 +901,10 @@ _Last updated: 2026-05-16 02:23 UTC_
 | 59 | Tan White | 360 |
 | 61 | Jordin Canada | 359 |
 | 62 | Vickie Johnson | 357 |
+| 63 | **Brittney Sykes** 🔴 +2 | 356 |
 | 63 | Dominique Canty | 356 |
 | 63 | Renee Montgomery | 356 |
-| 65 | **Brittney Sykes** 🔴 +1 | 355 |
-| 65 | Tamecka Dixon | 355 |
+| 66 | Tamecka Dixon | 355 |
 | 67 | Vicky Bullett | 353 |
 | 68 | Svetlana Abrosimova | 352 |
 | 69 | Allisha Gray | 349 |

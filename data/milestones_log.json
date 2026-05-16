@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-16T02:24:00+00:00",
+    "text": "Brittney Sykes passed Tamecka Dixon for #65 all-time in steals (career 356) \u2014 up from #66 entering today \u2014 (26.3 - 1st \u2014 TOR @ LA)",
+    "kind": "rank_pass",
+    "player": "Brittney Sykes",
+    "stat": "steals",
+    "rank": 65,
+    "passed_players": [
+      "Tamecka Dixon"
+    ],
+    "new_total": 356
+  },
+  {
     "ts": "2026-05-16T02:23:00+00:00",
     "text": "Brittney Sykes passed Nneka Ogwumike for #98 all-time in three-pointers (career 232) \u2014 (1:35 - 1st \u2014 TOR @ LA)",
     "kind": "rank_pass",
@@ -2960,18 +2972,5 @@
       "Kayla Thornton"
     ],
     "new_total": 87
-  },
-  {
-    "ts": "2026-05-09T21:11:00+00:00",
-    "text": "Jackie Young passed DeLisha Milton-Jones and Ruthie Bolton for #64 all-time in three-pointers (career 313) \u2014 up from #66 entering today \u2014 (8:07 - 3rd \u2014 PHX @ LV)",
-    "kind": "rank_pass",
-    "player": "Jackie Young",
-    "stat": "three-pointers",
-    "rank": 64,
-    "passed_players": [
-      "DeLisha Milton-Jones",
-      "Ruthie Bolton"
-    ],
-    "new_total": 313
   }
 ]
