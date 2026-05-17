@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-17 19:03 UTC
+
+- **Angel Reese** reached **200** career turnovers (now 200) — _5:03 - 3rd — LV @ ATL_
+
 ## 2026-05-17 19:02 UTC
 
 - **Allisha Gray** passed **Helen Darling** for **#79** all-time in fouls (career 710) — up from #81 entering today — _5:34 - 3rd — LV @ ATL_
