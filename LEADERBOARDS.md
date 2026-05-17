@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-17 23:28 UTC_
+_Last updated: 2026-05-17 23:29 UTC_
 
 ## Contents
 
@@ -339,7 +339,7 @@ _Last updated: 2026-05-17 23:28 UTC_
 | 113 | Becky Hammon | 1,108 |
 | 113 | **Brittney Sykes** 🔴 | 1,108 |
 | 115 | Ann Wauters | 1,105 |
-| 116 | **Natasha Cloud** 🔴 +1 | 1,081 |
+| 116 | **Natasha Cloud** 🔴 +2 | 1,082 |
 | 117 | Svetlana Abrosimova | 1,078 |
 | 118 | NaLyssa Smith | 1,060 |
 | 119 | Le'coe Willingham | 1,054 |
@@ -1580,7 +1580,7 @@ _Last updated: 2026-05-17 23:28 UTC_
 | 123 | Kamila Vodichkova | 596 |
 | 124 | Teresa Weatherspoon | 589 |
 | 125 | Emma Meesseman | 585 |
-| 126 | **Kelsey Mitchell** 🔴 +2 | 581 |
+| 126 | **Kelsey Mitchell** 🔴 +3 | 582 |
 | 127 | Chiney Ogwumike | 580 |
 | 127 | Hamchetou Maiga-Ba | 580 |
 | 127 | Olympia Scott | 580 |
@@ -1614,8 +1614,8 @@ _Last updated: 2026-05-17 23:28 UTC_
 | 157 | Adrienne Goodson | 512 |
 | 157 | Janeth Arcain | 512 |
 | 159 | Andrea Stinson | 511 |
-| 160 | **Kayla McBride** 🔴 | 507 |
-| 160 | Vicky Bullett | 507 |
+| 160 | **Kayla McBride** 🔴 +1 | 508 |
+| 161 | Vicky Bullett | 507 |
 | 162 | Merlakia Jones | 506 |
 | 163 | Jackie Young | 505 |
 | 163 | Rushia Brown | 505 |
