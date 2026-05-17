@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-17 23:53 UTC_
+_Last updated: 2026-05-17 23:54 UTC_
 
 ## Contents
 
@@ -24,7 +24,7 @@ _Last updated: 2026-05-17 23:53 UTC_
 | 3 | DeWanna Bonner | 7,805 |
 | 4 | Tina Thompson | 7,470 |
 | 5 | Tamika Catchings | 7,371 |
-| 6 | **Nneka Ogwumike** 🔴 +6 | 7,311 |
+| 6 | **Nneka Ogwumike** 🔴 +9 | 7,314 |
 | 7 | Candice Dupree | 6,861 |
 | 8 | Sue Bird | 6,802 |
 | 9 | Cappie Pondexter | 6,781 |
@@ -106,7 +106,7 @@ _Last updated: 2026-05-17 23:53 UTC_
 | 85 | Tanisha Wright | 3,324 |
 | 86 | Margo Dydek | 3,214 |
 | 87 | Danielle Robinson | 3,160 |
-| 88 | **Stefanie Dolson** 🔴 +4 | 3,138 |
+| 88 | **Stefanie Dolson** 🔴 +6 | 3,140 |
 | 89 | Wendy Palmer | 3,135 |
 | 90 | Shavonte Zellous | 3,103 |
 | 91 | Briann January | 3,082 |
@@ -211,7 +211,7 @@ _Last updated: 2026-05-17 23:53 UTC_
 | 190 | Nikki Teasley | 1,690 |
 | 191 | NaLyssa Smith | 1,689 |
 | 192 | Shenise Johnson | 1,688 |
-| 193 | **Sophie Cunningham** 🔴 +15 | 1,681 |
+| 193 | **Sophie Cunningham** 🔴 +17 | 1,683 |
 | 194 | Gabby Williams | 1,597 |
 | 195 | Janell Burse | 1,580 |
 | 196 | Le'coe Willingham | 1,552 |
@@ -248,7 +248,7 @@ _Last updated: 2026-05-17 23:53 UTC_
 | 22 | Lauren Jackson | 2,444 |
 | 23 | Yolanda Griffith | 2,440 |
 | 24 | Tangela Smith | 2,328 |
-| 25 | **Dearica Hamby** 🔴 +5 | 2,322 |
+| 25 | **Dearica Hamby** 🔴 +6 | 2,323 |
 | 26 | Erika de Souza | 2,220 |
 | 27 | Diana Taurasi | 2,201 |
 | 28 | **Natasha Howard** 🔴 +5 | 2,179 |
@@ -508,8 +508,8 @@ _Last updated: 2026-05-17 23:53 UTC_
 | 77 | Elaine Powell | 728 |
 | 78 | Chamique Holdsclaw | 698 |
 | 79 | Shavonte Zellous | 693 |
-| 80 | Allie Quigley | 690 |
-| 80 | **Dearica Hamby** 🔴 +2 | 690 |
+| 80 | **Dearica Hamby** 🔴 +3 | 691 |
+| 81 | Allie Quigley | 690 |
 | 82 | **Stefanie Dolson** 🔴 +1 | 687 |
 | 83 | Moriah Jefferson | 685 |
 | 84 | Emma Meesseman | 681 |
@@ -532,7 +532,7 @@ _Last updated: 2026-05-17 23:53 UTC_
 | 101 | Sancho Lyttle | 592 |
 | 102 | Camille Smith | 590 |
 | 103 | Armintie Herrington | 589 |
-| 104 | **Natisha Hiedeman** 🔴 +1 | 585 |
+| 104 | **Natisha Hiedeman** 🔴 +2 | 586 |
 | 105 | Tan White | 578 |
 | 106 | Matee Ajavon | 577 |
 | 107 | Betnijah Laney-Hamilton | 573 |
@@ -564,9 +564,9 @@ _Last updated: 2026-05-17 23:53 UTC_
 | 133 | Ukari Figgs | 470 |
 | 134 | Janeth Arcain | 469 |
 | 135 | Kahleah Copper | 463 |
+| 136 | **Caitlin Clark** 🔴 +10 | 462 |
 | 136 | Erin Phillips | 462 |
-| 137 | **Caitlin Clark** 🔴 +9 | 461 |
-| 137 | Sylvia Fowles | 461 |
+| 138 | Sylvia Fowles | 461 |
 | 139 | Sydney Colson | 454 |
 | 140 | **Elizabeth Williams** 🔴 | 452 |
 | 141 | Satou Sabally | 451 |
@@ -1443,7 +1443,7 @@ _Last updated: 2026-05-17 23:53 UTC_
 | 190 | **Monique Billings** 🔴 | 300 |
 | 192 | Crystal Robinson | 299 |
 | 193 | Michele Timms | 297 |
-| 194 | **Caitlin Clark** 🔴 +4 | 293 |
+| 194 | **Caitlin Clark** 🔴 +5 | 294 |
 | 195 | Alexis Hornbuckle | 288 |
 | 195 | Kayla Thornton | 288 |
 | 195 | Kristen Rasmussen | 288 |

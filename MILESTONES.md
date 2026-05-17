@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-17 23:54 UTC
+
+- **Caitlin Clark** passed **Sylvia Fowles** for **#137** all-time in assists (career 462) — up from #139 entering today — _8:23 - 4th — SEA @ IND_
+
 ## 2026-05-17 23:46 UTC
 
 - **Kamilla Cardoso** passed **Imani McGee-Stafford** and **Isabelle Harrison** for **#135** all-time in blocks (career 96) — up from #138 entering today — _2:14 - 2nd — CHI @ MIN_

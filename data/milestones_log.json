@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-17T23:54:00+00:00",
+    "text": "Caitlin Clark passed Sylvia Fowles for #137 all-time in assists (career 462) \u2014 up from #139 entering today \u2014 (8:23 - 4th \u2014 SEA @ IND)",
+    "kind": "rank_pass",
+    "player": "Caitlin Clark",
+    "stat": "assists",
+    "rank": 137,
+    "passed_players": [
+      "Sylvia Fowles"
+    ],
+    "new_total": 462
+  },
+  {
     "ts": "2026-05-17T23:46:00+00:00",
     "text": "Kamilla Cardoso passed Imani McGee-Stafford and Isabelle Harrison for #135 all-time in blocks (career 96) \u2014 up from #138 entering today \u2014 (2:14 - 2nd \u2014 CHI @ MIN)",
     "kind": "rank_pass",
@@ -2983,14 +2995,5 @@
       "Alanna Smith"
     ],
     "new_total": 835
-  },
-  {
-    "ts": "2026-05-10T01:40:00+00:00",
-    "text": "Skylar Diggins reached 5,500 career points (now 5,500) \u2014 (3:00 - 2nd \u2014 CHI @ POR)",
-    "kind": "round",
-    "player": "Skylar Diggins",
-    "stat": "points",
-    "value": 5500,
-    "new_total": 5500
   }
 ]
