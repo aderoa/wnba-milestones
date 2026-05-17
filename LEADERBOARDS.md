@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-17 18:55 UTC_
+_Last updated: 2026-05-17 18:56 UTC_
 
 ## Contents
 
@@ -61,7 +61,7 @@ _Last updated: 2026-05-17 18:55 UTC_
 | 40 | Arike Ogunbowale | 4,464 |
 | 41 | Crystal Langhorne | 4,433 |
 | 41 | Jia Perkins | 4,433 |
-| 43 | **Chelsea Gray** 🔴 +13 | 4,422 |
+| 43 | **Chelsea Gray** 🔴 +16 | 4,425 |
 | 44 | Natasha Howard | 4,367 |
 | 45 | Courtney Vandersloot | 4,352 |
 | 46 | Sophia Young-Malcolm | 4,300 |
@@ -170,8 +170,8 @@ _Last updated: 2026-05-17 18:55 UTC_
 | 149 | Layshia Clarendon | 2,168 |
 | 150 | Satou Sabally | 2,161 |
 | 151 | Murriel Page | 2,146 |
-| 152 | Marissa Coleman | 2,140 |
-| 153 | **Jordin Canada** 🔴 +7 | 2,139 |
+| 152 | **Jordin Canada** 🔴 +9 | 2,141 |
+| 153 | Marissa Coleman | 2,140 |
 | 154 | Tari Phillips | 2,134 |
 | 155 | Cheryl Ford | 2,116 |
 | 156 | Elena Baranova | 2,110 |
@@ -341,7 +341,7 @@ _Last updated: 2026-05-17 18:55 UTC_
 | 115 | Ann Wauters | 1,105 |
 | 116 | Natasha Cloud | 1,080 |
 | 117 | Svetlana Abrosimova | 1,078 |
-| 118 | **NaLyssa Smith** 🔴 +2 | 1,056 |
+| 118 | **NaLyssa Smith** 🔴 +3 | 1,057 |
 | 119 | Le'coe Willingham | 1,054 |
 | 120 | Aliyah Boston | 1,051 |
 | 121 | Isabelle Harrison | 1,049 |
@@ -1079,7 +1079,7 @@ _Last updated: 2026-05-17 18:55 UTC_
 | 33 | Crystal Robinson | 425 |
 | 33 | Skylar Diggins | 425 |
 | 35 | Mwadi Mabika | 415 |
-| 36 | **Chelsea Gray** 🔴 +3 | 413 |
+| 36 | **Chelsea Gray** 🔴 +4 | 414 |
 | 37 | Penny Taylor | 407 |
 | 37 | Riquna Williams | 407 |
 | 39 | Jia Perkins | 396 |
