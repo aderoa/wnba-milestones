@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-17 23:32 UTC_
+_Last updated: 2026-05-17 23:33 UTC_
 
 ## Contents
 
@@ -51,7 +51,7 @@ _Last updated: 2026-05-17 23:32 UTC_
 | 30 | Maya Moore | 4,984 |
 | 31 | Tiffany Hayes | 4,927 |
 | 32 | Sheryl Swoopes | 4,875 |
-| 33 | **Kelsey Mitchell** 🔴 +14 | 4,827 |
+| 33 | **Kelsey Mitchell** 🔴 +17 | 4,830 |
 | 34 | Alana Beard | 4,740 |
 | 35 | Chamique Holdsclaw | 4,713 |
 | 36 | Elena Delle Donne | 4,706 |
@@ -248,7 +248,7 @@ _Last updated: 2026-05-17 23:32 UTC_
 | 22 | Lauren Jackson | 2,444 |
 | 23 | Yolanda Griffith | 2,440 |
 | 24 | Tangela Smith | 2,328 |
-| 25 | **Dearica Hamby** 🔴 +3 | 2,320 |
+| 25 | **Dearica Hamby** 🔴 +4 | 2,321 |
 | 26 | Erika de Souza | 2,220 |
 | 27 | Diana Taurasi | 2,201 |
 | 28 | **Natasha Howard** 🔴 +4 | 2,178 |
@@ -566,7 +566,7 @@ _Last updated: 2026-05-17 23:32 UTC_
 | 135 | Kahleah Copper | 463 |
 | 136 | Erin Phillips | 462 |
 | 137 | Sylvia Fowles | 461 |
-| 138 | **Caitlin Clark** 🔴 +7 | 459 |
+| 138 | **Caitlin Clark** 🔴 +8 | 460 |
 | 139 | Sydney Colson | 454 |
 | 140 | **Elizabeth Williams** 🔴 | 452 |
 | 141 | Satou Sabally | 451 |
@@ -1052,8 +1052,8 @@ _Last updated: 2026-05-17 23:32 UTC_
 | 5 | Tina Thompson | 745 |
 | 6 | Katie Douglas | 723 |
 | 7 | **Kayla McBride** 🔴 | 722 |
-| 8 | Jewell Loyd | 669 |
-| 8 | **Kelsey Mitchell** 🔴 | 669 |
+| 8 | **Kelsey Mitchell** 🔴 +1 | 670 |
+| 9 | Jewell Loyd | 669 |
 | 10 | DeWanna Bonner | 663 |
 | 11 | Kristi Toliver | 651 |
 | 12 | Tamika Catchings | 605 |
@@ -1304,8 +1304,8 @@ _Last updated: 2026-05-17 23:32 UTC_
 | 52 | Sheryl Swoopes | 677 |
 | 53 | Tammy Sutton-Brown | 672 |
 | 54 | Deanna Nolan | 669 |
-| 55 | Chasity Melvin | 666 |
-| 55 | **Erica Wheeler** 🔴 +1 | 666 |
+| 55 | **Erica Wheeler** 🔴 +2 | 667 |
+| 56 | Chasity Melvin | 666 |
 | 57 | **Natasha Cloud** 🔴 | 665 |
 | 58 | Vickie Johnson | 660 |
 | 59 | **Dearica Hamby** 🔴 +1 | 658 |
@@ -1471,7 +1471,7 @@ _Last updated: 2026-05-17 23:32 UTC_
 | 14 | Swin Cash | 1,146 |
 | 15 | Taj McWilliams-Franklin | 1,145 |
 | 16 | Monique Currie | 1,137 |
-| 17 | **Nneka Ogwumike** 🔴 | 1,131 |
+| 17 | **Nneka Ogwumike** 🔴 +1 | 1,132 |
 | 18 | Tanisha Wright | 1,109 |
 | 19 | Michelle Snow | 1,108 |
 | 20 | **Natasha Howard** 🔴 +1 | 1,089 |
