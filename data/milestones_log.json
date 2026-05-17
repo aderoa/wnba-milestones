@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-17T18:58:00+00:00",
+    "text": "Allisha Gray passed Elizabeth Williams for #80 all-time in fouls (career 709) \u2014 up from #81 entering today \u2014 (7:52 - 3rd \u2014 LV @ ATL)",
+    "kind": "rank_pass",
+    "player": "Allisha Gray",
+    "stat": "fouls",
+    "rank": 80,
+    "passed_players": [
+      "Elizabeth Williams"
+    ],
+    "new_total": 709
+  },
+  {
     "ts": "2026-05-17T17:54:00+00:00",
     "text": "Stephanie Talbot passed Epiphanny Prince for #178 all-time in blocks (career 75) \u2014 up from #179 entering today \u2014 (4:48 - 1st \u2014 LV @ ATL)",
     "kind": "rank_pass",
@@ -2967,17 +2979,5 @@
       "Monique Billings"
     ],
     "new_total": 301
-  },
-  {
-    "ts": "2026-05-10T01:13:00+00:00",
-    "text": "Allisha Gray passed Emma Meesseman for #77 all-time in rebounds (career 1,351) \u2014 up from #78 entering today \u2014 (8:31 - 3rd \u2014 ATL @ MIN)",
-    "kind": "rank_pass",
-    "player": "Allisha Gray",
-    "stat": "rebounds",
-    "rank": 77,
-    "passed_players": [
-      "Emma Meesseman"
-    ],
-    "new_total": 1351
   }
 ]

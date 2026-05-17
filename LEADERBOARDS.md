@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-17 18:57 UTC_
+_Last updated: 2026-05-17 18:58 UTC_
 
 ## Contents
 
@@ -210,7 +210,7 @@ _Last updated: 2026-05-17 18:57 UTC_
 | 189 | Armintie Herrington | 1,696 |
 | 190 | Nikki Teasley | 1,690 |
 | 191 | Shenise Johnson | 1,688 |
-| 192 | **NaLyssa Smith** 🔴 +2 | 1,678 |
+| 192 | **NaLyssa Smith** 🔴 +6 | 1,682 |
 | 193 | Sophie Cunningham | 1,666 |
 | 194 | Gabby Williams | 1,597 |
 | 195 | Janell Burse | 1,580 |
@@ -241,7 +241,7 @@ _Last updated: 2026-05-17 18:57 UTC_
 | 15 | DeLisha Milton-Jones | 2,574 |
 | 16 | Brittney Griner | 2,531 |
 | 17 | Swin Cash | 2,521 |
-| 18 | **A'ja Wilson** 🔴 +2 | 2,496 |
+| 18 | **A'ja Wilson** 🔴 +3 | 2,497 |
 | 19 | Breanna Stewart | 2,484 |
 | 20 | Michelle Snow | 2,476 |
 | 21 | Crystal Langhorne | 2,454 |
@@ -300,7 +300,7 @@ _Last updated: 2026-05-17 18:57 UTC_
 | 74 | Ebony Hoffman | 1,376 |
 | 75 | Sheri Sam | 1,356 |
 | 76 | Tamika Whitmore | 1,355 |
-| 77 | **Allisha Gray** 🔴 +6 | 1,353 |
+| 77 | **Allisha Gray** 🔴 +7 | 1,354 |
 | 78 | Emma Meesseman | 1,350 |
 | 79 | Monique Billings | 1,345 |
 | 80 | Elena Baranova | 1,335 |
@@ -341,7 +341,7 @@ _Last updated: 2026-05-17 18:57 UTC_
 | 115 | Ann Wauters | 1,105 |
 | 116 | Natasha Cloud | 1,080 |
 | 117 | Svetlana Abrosimova | 1,078 |
-| 118 | **NaLyssa Smith** 🔴 +3 | 1,057 |
+| 118 | **NaLyssa Smith** 🔴 +4 | 1,058 |
 | 119 | Le'coe Willingham | 1,054 |
 | 120 | Aliyah Boston | 1,051 |
 | 121 | Isabelle Harrison | 1,049 |
@@ -434,7 +434,7 @@ _Last updated: 2026-05-17 18:57 UTC_
 | 3 | Ticha Penicheiro | 2,588 |
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
-| 6 | **Chelsea Gray** 🔴 +5 | 1,875 |
+| 6 | **Chelsea Gray** 🔴 +6 | 1,876 |
 | 7 | Alyssa Thomas | 1,820 |
 | 8 | Skylar Diggins | 1,768 |
 | 9 | Natasha Cloud | 1,733 |
@@ -1532,9 +1532,9 @@ _Last updated: 2026-05-17 18:57 UTC_
 | 76 | Kahleah Copper | 715 |
 | 77 | Cheryl Ford | 713 |
 | 78 | Jia Perkins | 711 |
+| 79 | **Allisha Gray** 🔴 +3 | 709 |
 | 79 | Helen Darling | 709 |
-| 80 | **Allisha Gray** 🔴 +2 | 708 |
-| 80 | Elizabeth Williams | 708 |
+| 81 | Elizabeth Williams | 708 |
 | 82 | Matee Ajavon | 701 |
 | 82 | Nicole Powell | 701 |
 | 84 | Tan White | 698 |
