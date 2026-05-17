@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-17 23:26 UTC_
+_Last updated: 2026-05-17 23:27 UTC_
 
 ## Contents
 
@@ -119,7 +119,7 @@ _Last updated: 2026-05-17 23:26 UTC_
 | 98 | **Marina Mabrey** 🔴 +6 | 2,900 |
 | 99 | Natalie Williams | 2,894 |
 | 100 | Jennifer Gillom | 2,888 |
-| 101 | **Natasha Cloud** 🔴 | 2,863 |
+| 101 | **Natasha Cloud** 🔴 +2 | 2,865 |
 | 102 | Iziane Castro Marques | 2,862 |
 | 103 | **Elizabeth Williams** 🔴 +2 | 2,843 |
 | 104 | Alysha Clark | 2,787 |
@@ -205,7 +205,7 @@ _Last updated: 2026-05-17 23:26 UTC_
 | 184 | Tully Bevilaqua | 1,763 |
 | 185 | Sandy Brondello | 1,759 |
 | 186 | Sugar Rodgers | 1,733 |
-| 187 | **Natisha Hiedeman** 🔴 +11 | 1,727 |
+| 187 | **Natisha Hiedeman** 🔴 +13 | 1,729 |
 | 188 | Moriah Jefferson | 1,722 |
 | 189 | Armintie Herrington | 1,696 |
 | 190 | Nikki Teasley | 1,690 |
@@ -269,7 +269,7 @@ _Last updated: 2026-05-17 23:26 UTC_
 | 43 | Kiah Stokes | 1,746 |
 | 44 | Teaira McCowan | 1,670 |
 | 45 | Monique Currie | 1,666 |
-| 46 | **Stefanie Dolson** 🔴 +1 | 1,656 |
+| 46 | **Stefanie Dolson** 🔴 +2 | 1,657 |
 | 47 | Glory Johnson | 1,640 |
 | 48 | Vickie Johnson | 1,634 |
 | 49 | Kia Vaughn | 1,626 |
@@ -302,7 +302,7 @@ _Last updated: 2026-05-17 23:26 UTC_
 | 75 | Sheri Sam | 1,356 |
 | 77 | Tamika Whitmore | 1,355 |
 | 78 | Emma Meesseman | 1,350 |
-| 79 | **Monique Billings** 🔴 +3 | 1,348 |
+| 79 | **Monique Billings** 🔴 +4 | 1,349 |
 | 80 | Jewell Loyd | 1,336 |
 | 81 | Elena Baranova | 1,335 |
 | 82 | Brionna Jones | 1,333 |
@@ -320,7 +320,7 @@ _Last updated: 2026-05-17 23:26 UTC_
 | 94 | Seimone Augustus | 1,228 |
 | 95 | Jia Perkins | 1,220 |
 | 96 | Brianna Turner | 1,215 |
-| 97 | **Myisha Hines-Allen** 🔴 +4 | 1,212 |
+| 97 | **Myisha Hines-Allen** 🔴 +5 | 1,213 |
 | 98 | DeMya Walker | 1,199 |
 | 99 | Chelsea Gray | 1,193 |
 | 100 | Latasha Byears | 1,190 |
@@ -889,7 +889,7 @@ _Last updated: 2026-05-17 23:26 UTC_
 | 47 | Jasmine Thomas | 394 |
 | 48 | Danielle Robinson | 389 |
 | 49 | Deanna Nolan | 388 |
-| 50 | **Dearica Hamby** 🔴 +1 | 387 |
+| 49 | **Dearica Hamby** 🔴 +2 | 388 |
 | 51 | Briann January | 386 |
 | 52 | Swin Cash | 384 |
 | 52 | Tina Charles | 384 |
@@ -1017,9 +1017,9 @@ _Last updated: 2026-05-17 23:26 UTC_
 | 175 | Cynthia Cooper | 192 |
 | 176 | Tamicha Jackson | 188 |
 | 177 | Michele Timms | 187 |
-| 178 | Charde Houston | 185 |
-| 178 | **Natisha Hiedeman** 🔴 | 185 |
-| 178 | Tiffany Jackson | 185 |
+| 178 | **Natisha Hiedeman** 🔴 +1 | 186 |
+| 179 | Charde Houston | 185 |
+| 179 | Tiffany Jackson | 185 |
 | 181 | Erin Perperoglou | 184 |
 | 182 | Alanna Smith | 182 |
 | 182 | Erin Phillips | 182 |
@@ -1315,7 +1315,7 @@ _Last updated: 2026-05-17 23:26 UTC_
 | 62 | Dawn Staley | 643 |
 | 64 | Ruth Riley | 637 |
 | 65 | Svetlana Abrosimova | 631 |
-| 66 | **Kayla McBride** 🔴 | 622 |
+| 66 | **Kayla McBride** 🔴 +1 | 623 |
 | 67 | Odyssey Sims | 616 |
 | 68 | Rebekkah Brunson | 615 |
 | 69 | **Kelsey Plum** 🔴 +2 | 613 |
@@ -1443,7 +1443,7 @@ _Last updated: 2026-05-17 23:26 UTC_
 | 190 | **Monique Billings** 🔴 | 300 |
 | 192 | Crystal Robinson | 299 |
 | 193 | Michele Timms | 297 |
-| 194 | **Caitlin Clark** 🔴 +2 | 291 |
+| 194 | **Caitlin Clark** 🔴 +3 | 292 |
 | 195 | Alexis Hornbuckle | 288 |
 | 195 | Kayla Thornton | 288 |
 | 195 | Kristen Rasmussen | 288 |
