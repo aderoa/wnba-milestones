@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-17 23:21 UTC_
+_Last updated: 2026-05-17 23:22 UTC_
 
 ## Contents
 
@@ -116,8 +116,8 @@ _Last updated: 2026-05-17 23:21 UTC_
 | 95 | Sabrina Ionescu | 3,030 |
 | 96 | Marie Ferdinand-Harris | 3,001 |
 | 97 | Emma Meesseman | 2,966 |
-| 98 | **Marina Mabrey** 🔴 | 2,894 |
-| 98 | Natalie Williams | 2,894 |
+| 98 | **Marina Mabrey** 🔴 +3 | 2,897 |
+| 99 | Natalie Williams | 2,894 |
 | 100 | Jennifer Gillom | 2,888 |
 | 101 | **Natasha Cloud** 🔴 | 2,863 |
 | 102 | Iziane Castro Marques | 2,862 |
@@ -164,7 +164,7 @@ _Last updated: 2026-05-17 23:21 UTC_
 | 142 | Teaira McCowan | 2,215 |
 | 144 | Sami Whitcomb | 2,211 |
 | 145 | Sophia Witherspoon | 2,210 |
-| 146 | **Kia Nurse** 🔴 +2 | 2,192 |
+| 146 | **Kia Nurse** 🔴 +5 | 2,195 |
 | 147 | Ruthie Bolton | 2,175 |
 | 148 | Ann Wauters | 2,170 |
 | 149 | Layshia Clarendon | 2,168 |
@@ -1072,7 +1072,7 @@ _Last updated: 2026-05-17 23:21 UTC_
 | 26 | Breanna Stewart | 454 |
 | 27 | Tiffany Hayes | 447 |
 | 28 | Ariel Atkins | 440 |
-| 29 | **Marina Mabrey** 🔴 | 439 |
+| 28 | **Marina Mabrey** 🔴 +1 | 440 |
 | 30 | Lauren Jackson | 436 |
 | 31 | Shameka Christon | 434 |
 | 32 | Allisha Gray | 427 |
@@ -1094,7 +1094,7 @@ _Last updated: 2026-05-17 23:21 UTC_
 | 48 | Epiphanny Prince | 368 |
 | 49 | Rhyne Howard | 366 |
 | 50 | Jonquel Jones | 357 |
-| 51 | **Kia Nurse** 🔴 | 356 |
+| 50 | **Kia Nurse** 🔴 +1 | 357 |
 | 52 | Nykesha Sales | 352 |
 | 53 | Cathrine Kraayeveld | 343 |
 | 53 | Elena Delle Donne | 343 |
@@ -1280,8 +1280,8 @@ _Last updated: 2026-05-17 23:21 UTC_
 | 29 | Jasmine Thomas | 796 |
 | 30 | Chamique Holdsclaw | 789 |
 | 31 | **Natasha Howard** 🔴 | 784 |
-| 32 | Crystal Langhorne | 782 |
-| 32 | **Nneka Ogwumike** 🔴 | 782 |
+| 32 | **Nneka Ogwumike** 🔴 +1 | 783 |
+| 33 | Crystal Langhorne | 782 |
 | 34 | Jewell Loyd | 780 |
 | 35 | Camille Smith | 779 |
 | 36 | Plenette Pierson | 773 |
