@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-17 18:17 UTC_
+_Last updated: 2026-05-17 18:18 UTC_
 
 ## Contents
 
@@ -70,7 +70,7 @@ _Last updated: 2026-05-17 18:17 UTC_
 | 49 | Vickie Johnson | 4,230 |
 | 50 | Yolanda Griffith | 4,224 |
 | 51 | Kelsey Plum | 4,207 |
-| 52 | **Allisha Gray** 🔴 +6 | 4,163 |
+| 52 | **Allisha Gray** 🔴 +8 | 4,165 |
 | 53 | Rebekkah Brunson | 4,133 |
 | 54 | Jonquel Jones | 4,096 |
 | 55 | Dearica Hamby | 4,090 |
@@ -434,7 +434,7 @@ _Last updated: 2026-05-17 18:17 UTC_
 | 3 | Ticha Penicheiro | 2,588 |
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
-| 6 | **Chelsea Gray** 🔴 +2 | 1,872 |
+| 6 | **Chelsea Gray** 🔴 +3 | 1,873 |
 | 7 | Alyssa Thomas | 1,820 |
 | 8 | Skylar Diggins | 1,768 |
 | 9 | Natasha Cloud | 1,733 |
@@ -737,7 +737,7 @@ _Last updated: 2026-05-17 18:17 UTC_
 | 100 | Ebony Hoffman | 121 |
 | 100 | Essence Carson | 121 |
 | 100 | Olivia Nelson-Ododa | 121 |
-| 104 | **Chelsea Gray** 🔴 | 119 |
+| 104 | **Chelsea Gray** 🔴 +1 | 120 |
 | 105 | Krystal Thomas | 118 |
 | 106 | Andrea Stinson | 117 |
 | 106 | Crystal Langhorne | 117 |
