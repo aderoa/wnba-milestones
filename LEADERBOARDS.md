@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-17 18:03 UTC_
+_Last updated: 2026-05-17 18:04 UTC_
 
 ## Contents
 
@@ -1552,7 +1552,7 @@ _Last updated: 2026-05-17 18:03 UTC_
 | 96 | Chamique Holdsclaw | 667 |
 | 97 | Brittney Sykes | 666 |
 | 98 | Tianna Hawkins | 662 |
-| 99 | **Cheyenne Parker-Tyus** 🔴 | 660 |
+| 99 | **Cheyenne Parker-Tyus** 🔴 +1 | 661 |
 | 100 | Kelsey Plum | 658 |
 | 101 | Tari Phillips | 648 |
 | 102 | **Jewell Loyd** 🔴 +2 | 646 |
