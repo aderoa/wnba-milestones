@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-17 22:19 UTC_
+_Last updated: 2026-05-17 22:20 UTC_
 
 ## Contents
 
@@ -269,7 +269,7 @@ _Last updated: 2026-05-17 22:19 UTC_
 | 43 | Kiah Stokes | 1,746 |
 | 44 | Teaira McCowan | 1,670 |
 | 45 | Monique Currie | 1,666 |
-| 46 | **Stefanie Dolson** 🔴 | 1,655 |
+| 46 | **Stefanie Dolson** 🔴 +1 | 1,656 |
 | 47 | Glory Johnson | 1,640 |
 | 48 | Vickie Johnson | 1,634 |
 | 49 | Kia Vaughn | 1,626 |
@@ -320,7 +320,7 @@ _Last updated: 2026-05-17 22:19 UTC_
 | 94 | Seimone Augustus | 1,228 |
 | 95 | Jia Perkins | 1,220 |
 | 96 | Brianna Turner | 1,215 |
-| 97 | **Myisha Hines-Allen** 🔴 | 1,208 |
+| 97 | **Myisha Hines-Allen** 🔴 +2 | 1,210 |
 | 98 | DeMya Walker | 1,199 |
 | 99 | Chelsea Gray | 1,193 |
 | 100 | Latasha Byears | 1,190 |
@@ -1022,10 +1022,10 @@ _Last updated: 2026-05-17 22:19 UTC_
 | 181 | Erin Perperoglou | 184 |
 | 182 | Alanna Smith | 182 |
 | 182 | Erin Phillips | 182 |
+| 182 | **Myisha Hines-Allen** 🔴 +1 | 182 |
 | 182 | Sabrina Ionescu | 182 |
-| 185 | **Myisha Hines-Allen** 🔴 | 181 |
-| 185 | Nakia Sanford | 181 |
-| 185 | Rebecca Allen | 181 |
+| 186 | Nakia Sanford | 181 |
+| 186 | Rebecca Allen | 181 |
 | 188 | Diamond DeShields | 180 |
 | 188 | Isabelle Harrison | 180 |
 | 190 | Bridget Pettis | 177 |
@@ -1185,7 +1185,7 @@ _Last updated: 2026-05-17 22:19 UTC_
 | 139 | Bridget Pettis | 153 |
 | 139 | Jennifer Gillom | 153 |
 | 141 | Alanna Smith | 152 |
-| 142 | **Caitlin Clark** 🔴 | 151 |
+| 141 | **Caitlin Clark** 🔴 +1 | 152 |
 | 143 | Rita Williams | 150 |
 | 144 | Moriah Jefferson | 149 |
 | 144 | Stephanie Talbot | 149 |
