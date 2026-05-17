@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-17 23:05 UTC_
+_Last updated: 2026-05-17 23:06 UTC_
 
 ## Contents
 
@@ -69,7 +69,7 @@ _Last updated: 2026-05-17 23:05 UTC_
 | 48 | Monique Currie | 4,253 |
 | 49 | Vickie Johnson | 4,230 |
 | 50 | Yolanda Griffith | 4,224 |
-| 51 | **Kelsey Plum** 🔴 +2 | 4,209 |
+| 51 | **Kelsey Plum** 🔴 +4 | 4,211 |
 | 52 | Allisha Gray | 4,182 |
 | 53 | Rebekkah Brunson | 4,133 |
 | 54 | Jonquel Jones | 4,096 |
@@ -192,7 +192,7 @@ _Last updated: 2026-05-17 23:05 UTC_
 | 171 | Nakia Sanford | 1,915 |
 | 172 | Ebony Hoffman | 1,909 |
 | 173 | Candice Wiggins | 1,901 |
-| 174 | **Myisha Hines-Allen** 🔴 +4 | 1,877 |
+| 174 | **Myisha Hines-Allen** 🔴 +6 | 1,879 |
 | 175 | Isabelle Harrison | 1,832 |
 | 176 | Tianna Hawkins | 1,825 |
 | 177 | Noelle Quinn | 1,824 |
@@ -230,7 +230,7 @@ _Last updated: 2026-05-17 23:05 UTC_
 | 4 | Rebekkah Brunson | 3,345 |
 | 5 | Tamika Catchings | 3,313 |
 | 6 | Lisa Leslie | 3,303 |
-| 7 | **Nneka Ogwumike** 🔴 | 3,268 |
+| 7 | **Nneka Ogwumike** 🔴 +1 | 3,269 |
 | 8 | DeWanna Bonner | 3,203 |
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
@@ -326,7 +326,7 @@ _Last updated: 2026-05-17 23:05 UTC_
 | 100 | Latasha Byears | 1,190 |
 | 100 | Tanisha Wright | 1,190 |
 | 102 | Vicky Bullett | 1,189 |
-| 103 | **Kayla McBride** 🔴 | 1,182 |
+| 103 | **Kayla McBride** 🔴 +1 | 1,183 |
 | 104 | Nykesha Sales | 1,148 |
 | 105 | Shannon Johnson | 1,143 |
 | 106 | Kahleah Copper | 1,140 |
@@ -566,7 +566,7 @@ _Last updated: 2026-05-17 23:05 UTC_
 | 135 | Kahleah Copper | 463 |
 | 136 | Erin Phillips | 462 |
 | 137 | Sylvia Fowles | 461 |
-| 138 | **Caitlin Clark** 🔴 +3 | 455 |
+| 138 | **Caitlin Clark** 🔴 +5 | 457 |
 | 139 | Sydney Colson | 454 |
 | 140 | Elizabeth Williams | 452 |
 | 141 | Satou Sabally | 451 |
