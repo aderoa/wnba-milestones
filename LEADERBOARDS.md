@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-17 19:44 UTC_
+_Last updated: 2026-05-17 19:45 UTC_
 
 ## Contents
 
@@ -398,8 +398,8 @@ _Last updated: 2026-05-17 19:44 UTC_
 | 172 | Betnijah Laney-Hamilton | 785 |
 | 173 | Sue Wicks | 780 |
 | 174 | Lindsey Harding | 779 |
-| 174 | **Naz Hillmon** 🔴 +6 | 779 |
-| 176 | Tiffani Johnson | 778 |
+| 175 | **Naz Hillmon** 🔴 +5 | 778 |
+| 175 | Tiffani Johnson | 778 |
 | 177 | Odyssey Sims | 776 |
 | 178 | Teresa Weatherspoon | 775 |
 | 179 | Anna DeForge | 769 |
