@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-17 19:09 UTC_
+_Last updated: 2026-05-17 19:10 UTC_
 
 ## Contents
 
@@ -322,7 +322,7 @@ _Last updated: 2026-05-17 19:09 UTC_
 | 96 | **Brianna Turner** 🔴 +1 | 1,215 |
 | 97 | Myisha Hines-Allen | 1,208 |
 | 98 | DeMya Walker | 1,199 |
-| 99 | **Chelsea Gray** 🔴 +4 | 1,192 |
+| 99 | **Chelsea Gray** 🔴 +5 | 1,193 |
 | 100 | Latasha Byears | 1,190 |
 | 100 | Tanisha Wright | 1,190 |
 | 102 | Vicky Bullett | 1,189 |
@@ -1555,8 +1555,8 @@ _Last updated: 2026-05-17 19:09 UTC_
 | 99 | **Cheyenne Parker-Tyus** 🔴 +1 | 661 |
 | 100 | Kelsey Plum | 658 |
 | 101 | Tari Phillips | 648 |
-| 102 | **Jewell Loyd** 🔴 +2 | 646 |
-| 102 | Marie Ferdinand-Harris | 646 |
+| 102 | **Jewell Loyd** 🔴 +3 | 647 |
+| 103 | Marie Ferdinand-Harris | 646 |
 | 104 | Breanna Stewart | 643 |
 | 105 | Kayla Thornton | 640 |
 | 106 | Charlotte Smith | 638 |
