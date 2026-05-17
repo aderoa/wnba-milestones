@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-17 23:39 UTC_
+_Last updated: 2026-05-17 23:40 UTC_
 
 ## Contents
 
@@ -93,7 +93,7 @@ _Last updated: 2026-05-17 23:39 UTC_
 | 72 | Tamecka Dixon | 3,507 |
 | 73 | Tammy Sutton-Brown | 3,498 |
 | 74 | Sancho Lyttle | 3,478 |
-| 75 | **Brittney Sykes** 🔴 +11 | 3,450 |
+| 75 | **Brittney Sykes** 🔴 +14 | 3,453 |
 | 76 | Ivory Latta | 3,447 |
 | 77 | Jackie Young | 3,412 |
 | 78 | Nicole Powell | 3,407 |
@@ -211,7 +211,7 @@ _Last updated: 2026-05-17 23:39 UTC_
 | 190 | Nikki Teasley | 1,690 |
 | 191 | NaLyssa Smith | 1,689 |
 | 192 | Shenise Johnson | 1,688 |
-| 193 | **Sophie Cunningham** 🔴 +9 | 1,675 |
+| 193 | **Sophie Cunningham** 🔴 +10 | 1,676 |
 | 194 | Gabby Williams | 1,597 |
 | 195 | Janell Burse | 1,580 |
 | 196 | Le'coe Willingham | 1,552 |
@@ -230,7 +230,7 @@ _Last updated: 2026-05-17 23:39 UTC_
 | 4 | Rebekkah Brunson | 3,345 |
 | 5 | Tamika Catchings | 3,313 |
 | 6 | Lisa Leslie | 3,303 |
-| 7 | **Nneka Ogwumike** 🔴 +3 | 3,271 |
+| 7 | **Nneka Ogwumike** 🔴 +4 | 3,272 |
 | 8 | DeWanna Bonner | 3,203 |
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
@@ -1140,8 +1140,8 @@ _Last updated: 2026-05-17 23:39 UTC_
 | 93 | Azurá Stevens | 238 |
 | 94 | Svetlana Abrosimova | 235 |
 | 94 | Tangela Smith | 235 |
-| 96 | **Brittney Sykes** 🔴 +1 | 232 |
-| 96 | Stacey Dales | 232 |
+| 96 | **Brittney Sykes** 🔴 +2 | 233 |
+| 97 | Stacey Dales | 232 |
 | 98 | **Nneka Ogwumike** 🔴 | 231 |
 | 99 | Odyssey Sims | 229 |
 | 100 | Elena Baranova | 224 |
@@ -1550,8 +1550,8 @@ _Last updated: 2026-05-17 23:39 UTC_
 | 93 | Jennifer Lacy | 680 |
 | 93 | Temeka Johnson | 680 |
 | 95 | Kelly Miller | 676 |
+| 96 | **Brittney Sykes** 🔴 +1 | 667 |
 | 96 | Chamique Holdsclaw | 667 |
-| 97 | **Brittney Sykes** 🔴 | 666 |
 | 98 | Tianna Hawkins | 662 |
 | 99 | Cheyenne Parker-Tyus | 661 |
 | 100 | **Kelsey Plum** 🔴 | 658 |
@@ -1607,9 +1607,9 @@ _Last updated: 2026-05-17 23:39 UTC_
 | 149 | Epiphanny Prince | 525 |
 | 151 | Armintie Herrington | 523 |
 | 152 | Sheryl Swoopes | 519 |
+| 153 | **Damiris Dantas** 🔴 +1 | 517 |
 | 153 | Nikki McCray | 517 |
-| 154 | Alex Bentley | 516 |
-| 154 | **Damiris Dantas** 🔴 | 516 |
+| 155 | Alex Bentley | 516 |
 | 156 | Jantel Lavender | 513 |
 | 157 | Adrienne Goodson | 512 |
 | 157 | Janeth Arcain | 512 |
