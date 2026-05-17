@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-17 18:35 UTC_
+_Last updated: 2026-05-17 18:36 UTC_
 
 ## Contents
 
@@ -241,7 +241,7 @@ _Last updated: 2026-05-17 18:35 UTC_
 | 15 | DeLisha Milton-Jones | 2,574 |
 | 16 | Brittney Griner | 2,531 |
 | 17 | Swin Cash | 2,521 |
-| 18 | **A'ja Wilson** 🔴 +2 | 2,496 |
+| 18 | **A'ja Wilson** 🔴 +3 | 2,497 |
 | 19 | Breanna Stewart | 2,484 |
 | 20 | Michelle Snow | 2,476 |
 | 21 | Crystal Langhorne | 2,454 |
@@ -304,8 +304,8 @@ _Last updated: 2026-05-17 18:35 UTC_
 | 78 | Emma Meesseman | 1,350 |
 | 79 | Monique Billings | 1,345 |
 | 80 | Elena Baranova | 1,335 |
-| 81 | Brionna Jones | 1,333 |
-| 81 | **Jewell Loyd** 🔴 +2 | 1,333 |
+| 81 | **Jewell Loyd** 🔴 +3 | 1,334 |
+| 82 | Brionna Jones | 1,333 |
 | 83 | Erlana Larkins | 1,329 |
 | 84 | Mwadi Mabika | 1,327 |
 | 85 | Jayne Appel Marinelli | 1,326 |
@@ -352,7 +352,7 @@ _Last updated: 2026-05-17 18:35 UTC_
 | 126 | Cathrine Kraayeveld | 1,013 |
 | 127 | Kelly Miller | 1,011 |
 | 127 | Noelle Quinn | 1,011 |
-| 129 | **Jackie Young** 🔴 +1 | 1,003 |
+| 129 | **Jackie Young** 🔴 +2 | 1,004 |
 | 130 | Tiffany Jackson | 1,002 |
 | 131 | Tianna Hawkins | 1,000 |
 | 132 | Damiris Dantas | 995 |
@@ -461,7 +461,7 @@ _Last updated: 2026-05-17 18:35 UTC_
 | 30 | DeWanna Bonner | 1,176 |
 | 31 | **Jordin Canada** 🔴 +1 | 1,140 |
 | 31 | Renee Montgomery | 1,140 |
-| 33 | **Jewell Loyd** 🔴 +1 | 1,134 |
+| 33 | **Jewell Loyd** 🔴 +2 | 1,135 |
 | 34 | Swin Cash | 1,131 |
 | 35 | Lindsey Harding | 1,090 |
 | 36 | Katie Douglas | 1,069 |
