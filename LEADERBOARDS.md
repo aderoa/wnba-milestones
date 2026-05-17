@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-17 23:43 UTC_
+_Last updated: 2026-05-17 23:44 UTC_
 
 ## Contents
 
@@ -72,7 +72,7 @@ _Last updated: 2026-05-17 23:43 UTC_
 | 51 | **Kelsey Plum** 🔴 +8 | 4,215 |
 | 52 | Allisha Gray | 4,182 |
 | 53 | Rebekkah Brunson | 4,133 |
-| 54 | **Dearica Hamby** 🔴 +7 | 4,097 |
+| 54 | **Dearica Hamby** 🔴 +9 | 4,099 |
 | 55 | Jonquel Jones | 4,096 |
 | 56 | Kahleah Copper | 4,083 |
 | 57 | **Courtney Williams** 🔴 +5 | 4,066 |
@@ -265,7 +265,7 @@ _Last updated: 2026-05-17 23:43 UTC_
 | 39 | Lindsay Whalen | 1,805 |
 | 40 | Camille Smith | 1,802 |
 | 41 | Asjha Jones | 1,751 |
-| 42 | **Courtney Williams** 🔴 +2 | 1,749 |
+| 42 | **Courtney Williams** 🔴 +3 | 1,750 |
 | 43 | Kiah Stokes | 1,746 |
 | 44 | Teaira McCowan | 1,670 |
 | 45 | Monique Currie | 1,666 |
@@ -770,8 +770,8 @@ _Last updated: 2026-05-17 23:43 UTC_
 | 133 | Tiffani Johnson | 96 |
 | 135 | Imani McGee-Stafford | 95 |
 | 135 | Isabelle Harrison | 95 |
-| 137 | **Kamilla Cardoso** 🔴 +1 | 94 |
-| 137 | Sandrine Gruda | 94 |
+| 135 | **Kamilla Cardoso** 🔴 +2 | 95 |
+| 138 | Sandrine Gruda | 94 |
 | 139 | Emily Engstler | 92 |
 | 140 | Jasmine Thomas | 91 |
 | 140 | Jewell Loyd | 91 |
@@ -1620,10 +1620,10 @@ _Last updated: 2026-05-17 23:43 UTC_
 | 163 | Jackie Young | 505 |
 | 163 | Rushia Brown | 505 |
 | 163 | Shekinna Stricklen | 505 |
-| 166 | Allison Feaster | 504 |
-| 166 | Erin Perperoglou | 504 |
-| 166 | Napheesa Collier | 504 |
-| 166 | **Sophie Cunningham** 🔴 | 504 |
+| 163 | **Sophie Cunningham** 🔴 +1 | 505 |
+| 167 | Allison Feaster | 504 |
+| 167 | Erin Perperoglou | 504 |
+| 167 | Napheesa Collier | 504 |
 | 170 | **Monique Billings** 🔴 +1 | 503 |
 | 171 | Iziane Castro Marques | 502 |
 | 172 | Elena Baranova | 501 |

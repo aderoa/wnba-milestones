@@ -1,5 +1,14 @@
 [
   {
+    "ts": "2026-05-17T23:44:00+00:00",
+    "text": "Sophie Cunningham reached 200 career turnovers (now 200) \u2014 (1:18 - 3rd \u2014 SEA @ IND)",
+    "kind": "round",
+    "player": "Sophie Cunningham",
+    "stat": "turnovers",
+    "value": 200,
+    "new_total": 200
+  },
+  {
     "ts": "2026-05-17T23:35:00+00:00",
     "text": "Kia Nurse passed Jonquel Jones for #50 all-time in three-pointers (career 358) \u2014 up from #51 entering today \u2014 (6:40 - 2nd \u2014 TOR @ LA)",
     "kind": "rank_pass",
@@ -2982,14 +2991,5 @@
       "Cathrine Kraayeveld"
     ],
     "new_total": 486
-  },
-  {
-    "ts": "2026-05-10T01:36:00+00:00",
-    "text": "Rickea Jackson reached 1,100 career points (now 1,102) \u2014 (5:14 - 2nd \u2014 CHI @ POR)",
-    "kind": "round",
-    "player": "Rickea Jackson",
-    "stat": "points",
-    "value": 1100,
-    "new_total": 1102
   }
 ]
