@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-17 23:30 UTC_
+_Last updated: 2026-05-17 23:31 UTC_
 
 ## Contents
 
@@ -24,7 +24,7 @@ _Last updated: 2026-05-17 23:30 UTC_
 | 3 | DeWanna Bonner | 7,805 |
 | 4 | Tina Thompson | 7,470 |
 | 5 | Tamika Catchings | 7,371 |
-| 6 | **Nneka Ogwumike** 🔴 +2 | 7,307 |
+| 6 | **Nneka Ogwumike** 🔴 +4 | 7,309 |
 | 7 | Candice Dupree | 6,861 |
 | 8 | Sue Bird | 6,802 |
 | 9 | Cappie Pondexter | 6,781 |
@@ -51,7 +51,7 @@ _Last updated: 2026-05-17 23:30 UTC_
 | 30 | Maya Moore | 4,984 |
 | 31 | Tiffany Hayes | 4,927 |
 | 32 | Sheryl Swoopes | 4,875 |
-| 33 | **Kelsey Mitchell** 🔴 +12 | 4,825 |
+| 33 | **Kelsey Mitchell** 🔴 +14 | 4,827 |
 | 34 | Alana Beard | 4,740 |
 | 35 | Chamique Holdsclaw | 4,713 |
 | 36 | Elena Delle Donne | 4,706 |
@@ -93,8 +93,8 @@ _Last updated: 2026-05-17 23:30 UTC_
 | 72 | Tamecka Dixon | 3,507 |
 | 73 | Tammy Sutton-Brown | 3,498 |
 | 74 | Sancho Lyttle | 3,478 |
-| 75 | Ivory Latta | 3,447 |
-| 76 | **Brittney Sykes** 🔴 +7 | 3,446 |
+| 75 | **Brittney Sykes** 🔴 +9 | 3,448 |
+| 76 | Ivory Latta | 3,447 |
 | 77 | Jackie Young | 3,412 |
 | 78 | Nicole Powell | 3,407 |
 | 79 | Epiphanny Prince | 3,381 |
@@ -336,8 +336,8 @@ _Last updated: 2026-05-17 23:30 UTC_
 | 110 | Adrienne Goodson | 1,126 |
 | 111 | Deanna Nolan | 1,112 |
 | 112 | Chiney Ogwumike | 1,110 |
-| 113 | Becky Hammon | 1,108 |
-| 113 | **Brittney Sykes** 🔴 | 1,108 |
+| 113 | **Brittney Sykes** 🔴 +1 | 1,109 |
+| 114 | Becky Hammon | 1,108 |
 | 115 | Ann Wauters | 1,105 |
 | 116 | **Natasha Cloud** 🔴 +2 | 1,082 |
 | 117 | Svetlana Abrosimova | 1,078 |
@@ -566,7 +566,7 @@ _Last updated: 2026-05-17 23:30 UTC_
 | 135 | Kahleah Copper | 463 |
 | 136 | Erin Phillips | 462 |
 | 137 | Sylvia Fowles | 461 |
-| 138 | **Caitlin Clark** 🔴 +6 | 458 |
+| 138 | **Caitlin Clark** 🔴 +7 | 459 |
 | 139 | Sydney Colson | 454 |
 | 140 | **Elizabeth Williams** 🔴 | 452 |
 | 141 | Satou Sabally | 451 |
@@ -910,9 +910,9 @@ _Last updated: 2026-05-17 23:30 UTC_
 | 68 | Svetlana Abrosimova | 352 |
 | 69 | Allisha Gray | 349 |
 | 70 | Janeth Arcain | 346 |
+| 71 | **Erica Wheeler** 🔴 +1 | 343 |
 | 71 | Helen Darling | 343 |
-| 72 | Andrea Stinson | 342 |
-| 72 | **Erica Wheeler** 🔴 | 342 |
+| 73 | Andrea Stinson | 342 |
 | 74 | Armintie Herrington | 340 |
 | 74 | **Natasha Cloud** 🔴 | 340 |
 | 76 | Arike Ogunbowale | 339 |
@@ -1334,7 +1334,7 @@ _Last updated: 2026-05-17 23:30 UTC_
 | 82 | Kara Braxton | 570 |
 | 83 | Nikki McCray | 565 |
 | 84 | Sancho Lyttle | 563 |
-| 85 | **Brittney Sykes** 🔴 +1 | 559 |
+| 85 | **Brittney Sykes** 🔴 +2 | 560 |
 | 86 | Tan White | 557 |
 | 87 | Breanna Stewart | 549 |
 | 87 | **Kelsey Mitchell** 🔴 | 549 |
