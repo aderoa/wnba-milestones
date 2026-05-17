@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-17 19:50 UTC
+
+- **A'ja Wilson** passed **Candice Wiggins**, **Epiphanny Prince**, and **Marina Mabrey** for **#147** all-time in fouls (career 526) — up from #151 entering today — _59.9 - 4th — LV @ ATL_
+
 ## 2026-05-17 19:49 UTC
 
 - **Stephanie Talbot** passed **Karima Christmas-Kelly**, **Kelsey Griffin**, and **Tianna Hawkins** for **#175** all-time in blocks (career 76) — up from #179 entering today — _1:17 - 4th — LV @ ATL_

@@ -1,5 +1,19 @@
 [
   {
+    "ts": "2026-05-17T19:50:00+00:00",
+    "text": "A'ja Wilson passed Candice Wiggins, Epiphanny Prince, and Marina Mabrey for #147 all-time in fouls (career 526) \u2014 up from #151 entering today \u2014 (59.9 - 4th \u2014 LV @ ATL)",
+    "kind": "rank_pass",
+    "player": "A'ja Wilson",
+    "stat": "fouls",
+    "rank": 147,
+    "passed_players": [
+      "Candice Wiggins",
+      "Epiphanny Prince",
+      "Marina Mabrey"
+    ],
+    "new_total": 526
+  },
+  {
     "ts": "2026-05-17T19:49:00+00:00",
     "text": "Stephanie Talbot passed Karima Christmas-Kelly, Kelsey Griffin, and Tianna Hawkins for #175 all-time in blocks (career 76) \u2014 up from #179 entering today \u2014 (1:17 - 4th \u2014 LV @ ATL)",
     "kind": "rank_pass",
@@ -2973,14 +2987,5 @@
       "Bridget Pettis"
     ],
     "new_total": 285
-  },
-  {
-    "ts": "2026-05-10T01:27:00+00:00",
-    "text": "Kamilla Cardoso reached 600 career rebounds (now 600) \u2014 (8:38 - 2nd \u2014 CHI @ POR)",
-    "kind": "round",
-    "player": "Kamilla Cardoso",
-    "stat": "rebounds",
-    "value": 600,
-    "new_total": 600
   }
 ]
