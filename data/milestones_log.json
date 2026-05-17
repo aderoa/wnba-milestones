@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-17T23:35:00+00:00",
+    "text": "Kia Nurse passed Jonquel Jones for #50 all-time in three-pointers (career 358) \u2014 up from #51 entering today \u2014 (6:40 - 2nd \u2014 TOR @ LA)",
+    "kind": "rank_pass",
+    "player": "Kia Nurse",
+    "stat": "three-pointers",
+    "rank": 50,
+    "passed_players": [
+      "Jonquel Jones"
+    ],
+    "new_total": 358
+  },
+  {
     "ts": "2026-05-17T19:53:00+00:00",
     "text": "A'ja Wilson passed Elena Baranova and Jantel Lavender for #123 all-time in turnovers (career 445) \u2014 up from #125 entering today \u2014 (36.5 - 4th \u2014 LV @ ATL)",
     "kind": "rank_pass",
@@ -2979,17 +2991,5 @@
     "stat": "points",
     "value": 1100,
     "new_total": 1102
-  },
-  {
-    "ts": "2026-05-10T01:36:00+00:00",
-    "text": "Rickea Jackson passed Belinda Snell for #189 all-time in three-pointers (career 109) \u2014 up from #190 entering today \u2014 (5:14 - 2nd \u2014 CHI @ POR)",
-    "kind": "rank_pass",
-    "player": "Rickea Jackson",
-    "stat": "three-pointers",
-    "rank": 189,
-    "passed_players": [
-      "Belinda Snell"
-    ],
-    "new_total": 109
   }
 ]
