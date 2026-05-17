@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-17 18:18 UTC_
+_Last updated: 2026-05-17 18:19 UTC_
 
 ## Contents
 
@@ -897,9 +897,9 @@ _Last updated: 2026-05-17 18:18 UTC_
 | 56 | Chamique Holdsclaw | 376 |
 | 57 | Mwadi Mabika | 370 |
 | 58 | Ariel Atkins | 365 |
-| 59 | **Jordin Canada** 🔴 +1 | 360 |
-| 59 | Lauren Jackson | 360 |
-| 59 | Tan White | 360 |
+| 59 | **Jordin Canada** 🔴 +2 | 361 |
+| 60 | Lauren Jackson | 360 |
+| 60 | Tan White | 360 |
 | 62 | Vickie Johnson | 357 |
 | 63 | Dominique Canty | 356 |
 | 63 | Renee Montgomery | 356 |
@@ -1271,8 +1271,8 @@ _Last updated: 2026-05-17 18:18 UTC_
 | 20 | Shannon Johnson | 934 |
 | 21 | Taj McWilliams-Franklin | 898 |
 | 22 | Skylar Diggins | 879 |
-| 23 | Candice Dupree | 869 |
-| 23 | **Chelsea Gray** 🔴 | 869 |
+| 23 | **Chelsea Gray** 🔴 +1 | 870 |
+| 24 | Candice Dupree | 869 |
 | 25 | Alana Beard | 854 |
 | 26 | DeWanna Bonner | 826 |
 | 27 | Katie Douglas | 824 |
@@ -1373,7 +1373,7 @@ _Last updated: 2026-05-17 18:18 UTC_
 | 122 | **Allisha Gray** 🔴 +1 | 450 |
 | 123 | Elena Baranova | 444 |
 | 123 | Jantel Lavender | 444 |
-| 125 | **A'ja Wilson** 🔴 +1 | 442 |
+| 125 | **A'ja Wilson** 🔴 +2 | 443 |
 | 126 | Ann Wauters | 440 |
 | 127 | Tiffany Mitchell | 439 |
 | 128 | Kedra Holland-Corn | 438 |
@@ -1604,7 +1604,7 @@ _Last updated: 2026-05-17 18:18 UTC_
 | 147 | Epiphanny Prince | 525 |
 | 147 | Marina Mabrey | 525 |
 | 150 | Armintie Herrington | 523 |
-| 151 | **A'ja Wilson** 🔴 | 521 |
+| 151 | **A'ja Wilson** 🔴 +1 | 522 |
 | 152 | Sheryl Swoopes | 519 |
 | 153 | Nikki McCray | 517 |
 | 154 | Alex Bentley | 516 |
