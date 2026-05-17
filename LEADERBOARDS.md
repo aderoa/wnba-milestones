@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-17 22:42 UTC_
+_Last updated: 2026-05-17 22:43 UTC_
 
 ## Contents
 
@@ -510,7 +510,7 @@ _Last updated: 2026-05-17 22:42 UTC_
 | 79 | Shavonte Zellous | 693 |
 | 80 | Allie Quigley | 690 |
 | 81 | Dearica Hamby | 688 |
-| 82 | **Stefanie Dolson** 🔴 | 686 |
+| 82 | **Stefanie Dolson** 🔴 +1 | 687 |
 | 83 | Moriah Jefferson | 685 |
 | 84 | Emma Meesseman | 681 |
 | 85 | Nykesha Sales | 677 |
