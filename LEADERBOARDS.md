@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-17 19:19 UTC_
+_Last updated: 2026-05-17 19:20 UTC_
 
 ## Contents
 
@@ -381,9 +381,9 @@ _Last updated: 2026-05-17 19:19 UTC_
 | 155 | Leilani Mitchell | 845 |
 | 156 | Alanna Smith | 834 |
 | 157 | Essence Carson | 833 |
-| 158 | Kristi Toliver | 829 |
-| 159 | **Angel Reese** 🔴 +5 | 828 |
-| 159 | Marie Ferdinand-Harris | 828 |
+| 158 | **Angel Reese** 🔴 +7 | 830 |
+| 159 | Kristi Toliver | 829 |
+| 160 | Marie Ferdinand-Harris | 828 |
 | 161 | Marlies Askamp | 822 |
 | 162 | Amanda Zahui B | 819 |
 | 162 | Barbara Farris | 819 |
