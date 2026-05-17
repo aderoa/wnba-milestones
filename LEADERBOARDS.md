@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-17 19:48 UTC_
+_Last updated: 2026-05-17 19:49 UTC_
 
 ## Contents
 
@@ -39,7 +39,7 @@ _Last updated: 2026-05-17 19:48 UTC_
 | 18 | Brittney Griner | 5,967 |
 | 19 | Becky Hammon | 5,816 |
 | 20 | Angel McCoughtry | 5,797 |
-| 21 | **A'ja Wilson** 🔴 +18 | 5,737 |
+| 21 | **A'ja Wilson** 🔴 +20 | 5,739 |
 | 22 | DeLisha Milton-Jones | 5,571 |
 | 23 | Katie Douglas | 5,545 |
 | 24 | Lindsay Whalen | 5,511 |
@@ -322,7 +322,7 @@ _Last updated: 2026-05-17 19:48 UTC_
 | 96 | **Brianna Turner** 🔴 +1 | 1,215 |
 | 97 | Myisha Hines-Allen | 1,208 |
 | 98 | DeMya Walker | 1,199 |
-| 99 | **Chelsea Gray** 🔴 +5 | 1,193 |
+| 99 | **Chelsea Gray** 🔴 +6 | 1,194 |
 | 100 | Latasha Byears | 1,190 |
 | 100 | Tanisha Wright | 1,190 |
 | 102 | Vicky Bullett | 1,189 |
@@ -805,13 +805,13 @@ _Last updated: 2026-05-17 19:48 UTC_
 | 167 | Noelle Quinn | 77 |
 | 167 | Tierra Ruffin-Pratt | 77 |
 | 171 | Jennifer Lacy | 76 |
+| 171 | **Stephanie Talbot** 🔴 +2 | 76 |
 | 171 | Sugar Rodgers | 76 |
 | 171 | Tan White | 76 |
 | 171 | Tiffany Jackson | 76 |
-| 175 | Karima Christmas-Kelly | 75 |
-| 175 | Kelsey Griffin | 75 |
-| 175 | **Stephanie Talbot** 🔴 +1 | 75 |
-| 175 | Tianna Hawkins | 75 |
+| 176 | Karima Christmas-Kelly | 75 |
+| 176 | Kelsey Griffin | 75 |
+| 176 | Tianna Hawkins | 75 |
 | 179 | Epiphanny Prince | 74 |
 | 180 | Ayana Walker | 73 |
 | 180 | Lindsay Wisdom-Hylton | 73 |

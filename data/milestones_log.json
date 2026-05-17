@@ -1,5 +1,19 @@
 [
   {
+    "ts": "2026-05-17T19:49:00+00:00",
+    "text": "Stephanie Talbot passed Karima Christmas-Kelly, Kelsey Griffin, and Tianna Hawkins for #175 all-time in blocks (career 76) \u2014 up from #179 entering today \u2014 (1:17 - 4th \u2014 LV @ ATL)",
+    "kind": "rank_pass",
+    "player": "Stephanie Talbot",
+    "stat": "blocks",
+    "rank": 175,
+    "passed_players": [
+      "Karima Christmas-Kelly",
+      "Kelsey Griffin",
+      "Tianna Hawkins"
+    ],
+    "new_total": 76
+  },
+  {
     "ts": "2026-05-17T19:33:00+00:00",
     "text": "Jackie Young passed Awak Kuier, Crystal Robinson, Queen Egbo, Riquna Williams, and Sabrina Ionescu for #194 all-time in blocks (career 66) \u2014 up from #199 entering today \u2014 (5:48 - 4th \u2014 LV @ ATL)",
     "kind": "rank_pass",
@@ -2968,17 +2982,5 @@
     "stat": "rebounds",
     "value": 600,
     "new_total": 600
-  },
-  {
-    "ts": "2026-05-10T01:21:00+00:00",
-    "text": "Angel Reese passed Essence Carson for #157 all-time in rebounds (career 834) \u2014 up from #160 entering today \u2014 (5:50 - 3rd \u2014 ATL @ MIN)",
-    "kind": "rank_pass",
-    "player": "Angel Reese",
-    "stat": "rebounds",
-    "rank": 157,
-    "passed_players": [
-      "Essence Carson"
-    ],
-    "new_total": 834
   }
 ]
