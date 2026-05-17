@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-17 22:15 UTC_
+_Last updated: 2026-05-17 22:16 UTC_
 
 ## Contents
 
@@ -206,7 +206,7 @@ _Last updated: 2026-05-17 22:15 UTC_
 | 185 | Sandy Brondello | 1,759 |
 | 186 | Sugar Rodgers | 1,733 |
 | 187 | Moriah Jefferson | 1,722 |
-| 188 | **Natisha Hiedeman** 🔴 | 1,716 |
+| 188 | **Natisha Hiedeman** 🔴 +3 | 1,719 |
 | 189 | Armintie Herrington | 1,696 |
 | 190 | Nikki Teasley | 1,690 |
 | 191 | NaLyssa Smith | 1,689 |
@@ -1120,8 +1120,8 @@ _Last updated: 2026-05-17 22:15 UTC_
 | 74 | Candice Wiggins | 290 |
 | 74 | Tully Bevilaqua | 290 |
 | 76 | Alana Beard | 288 |
-| 77 | Monique Currie | 284 |
-| 77 | **Natisha Hiedeman** 🔴 | 284 |
+| 77 | **Natisha Hiedeman** 🔴 +1 | 285 |
+| 78 | Monique Currie | 284 |
 | 79 | Iziane Castro Marques | 275 |
 | 80 | Kayla Thornton | 273 |
 | 81 | Sheryl Swoopes | 270 |
@@ -1474,7 +1474,7 @@ _Last updated: 2026-05-17 22:15 UTC_
 | 18 | Tanisha Wright | 1,109 |
 | 19 | Michelle Snow | 1,108 |
 | 20 | Natasha Howard | 1,088 |
-| 21 | **Stefanie Dolson** 🔴 | 1,082 |
+| 21 | **Stefanie Dolson** 🔴 +1 | 1,083 |
 | 22 | Sylvia Fowles | 1,049 |
 | 23 | Tina Charles | 1,037 |
 | 24 | Lindsay Whalen | 998 |
