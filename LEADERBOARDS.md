@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-17 23:06 UTC_
+_Last updated: 2026-05-17 23:07 UTC_
 
 ## Contents
 
@@ -51,7 +51,7 @@ _Last updated: 2026-05-17 23:06 UTC_
 | 30 | Maya Moore | 4,984 |
 | 31 | Tiffany Hayes | 4,927 |
 | 32 | Sheryl Swoopes | 4,875 |
-| 33 | **Kelsey Mitchell** 🔴 +6 | 4,819 |
+| 33 | **Kelsey Mitchell** 🔴 +8 | 4,821 |
 | 34 | Alana Beard | 4,740 |
 | 35 | Chamique Holdsclaw | 4,713 |
 | 36 | Elena Delle Donne | 4,706 |
@@ -62,7 +62,7 @@ _Last updated: 2026-05-17 23:06 UTC_
 | 41 | Crystal Langhorne | 4,433 |
 | 41 | Jia Perkins | 4,433 |
 | 43 | Chelsea Gray | 4,430 |
-| 44 | **Natasha Howard** 🔴 | 4,367 |
+| 44 | **Natasha Howard** 🔴 +2 | 4,369 |
 | 45 | Courtney Vandersloot | 4,352 |
 | 46 | Sophia Young-Malcolm | 4,300 |
 | 47 | Plenette Pierson | 4,258 |
@@ -106,8 +106,8 @@ _Last updated: 2026-05-17 23:06 UTC_
 | 85 | Tanisha Wright | 3,324 |
 | 86 | Margo Dydek | 3,214 |
 | 87 | Danielle Robinson | 3,160 |
-| 88 | Wendy Palmer | 3,135 |
-| 89 | **Stefanie Dolson** 🔴 | 3,134 |
+| 88 | **Stefanie Dolson** 🔴 +2 | 3,136 |
+| 89 | Wendy Palmer | 3,135 |
 | 90 | Shavonte Zellous | 3,103 |
 | 91 | Briann January | 3,082 |
 | 92 | **Erica Wheeler** 🔴 | 3,060 |
@@ -251,7 +251,7 @@ _Last updated: 2026-05-17 23:06 UTC_
 | 25 | **Dearica Hamby** 🔴 | 2,317 |
 | 26 | Erika de Souza | 2,220 |
 | 27 | Diana Taurasi | 2,201 |
-| 28 | **Natasha Howard** 🔴 | 2,174 |
+| 28 | **Natasha Howard** 🔴 +1 | 2,175 |
 | 29 | Margo Dydek | 2,138 |
 | 30 | Chamique Holdsclaw | 2,123 |
 | 31 | Chasity Melvin | 2,097 |
@@ -387,7 +387,7 @@ _Last updated: 2026-05-17 23:06 UTC_
 | 161 | Marlies Askamp | 822 |
 | 162 | Amanda Zahui B | 819 |
 | 162 | Barbara Farris | 819 |
-| 164 | **Marina Mabrey** 🔴 | 818 |
+| 162 | **Marina Mabrey** 🔴 +1 | 819 |
 | 165 | Carolyn Swords | 814 |
 | 166 | Jessica Shepard | 813 |
 | 167 | Tierra Ruffin-Pratt | 799 |
@@ -502,8 +502,8 @@ _Last updated: 2026-05-17 23:06 UTC_
 | 70 | **Kelsey Mitchell** 🔴 +1 | 800 |
 | 72 | Mwadi Mabika | 774 |
 | 73 | Sheri Sam | 745 |
+| 74 | **Marina Mabrey** 🔴 +2 | 740 |
 | 74 | Monique Currie | 740 |
-| 75 | **Marina Mabrey** 🔴 +1 | 739 |
 | 76 | Allisha Gray | 731 |
 | 77 | Elaine Powell | 728 |
 | 78 | Chamique Holdsclaw | 698 |
@@ -566,7 +566,7 @@ _Last updated: 2026-05-17 23:06 UTC_
 | 135 | Kahleah Copper | 463 |
 | 136 | Erin Phillips | 462 |
 | 137 | Sylvia Fowles | 461 |
-| 138 | **Caitlin Clark** 🔴 +5 | 457 |
+| 138 | **Caitlin Clark** 🔴 +6 | 458 |
 | 139 | Sydney Colson | 454 |
 | 140 | Elizabeth Williams | 452 |
 | 141 | Satou Sabally | 451 |
@@ -880,7 +880,7 @@ _Last updated: 2026-05-17 23:06 UTC_
 | 39 | Candice Dupree | 431 |
 | 40 | Epiphanny Prince | 429 |
 | 41 | Tanisha Wright | 427 |
-| 42 | **Kayla McBride** 🔴 | 418 |
+| 42 | **Kayla McBride** 🔴 +1 | 419 |
 | 43 | Breanna Stewart | 411 |
 | 44 | Katie Smith | 408 |
 | 45 | Cappie Pondexter | 405 |
