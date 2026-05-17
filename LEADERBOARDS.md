@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-17 23:08 UTC_
+_Last updated: 2026-05-17 23:09 UTC_
 
 ## Contents
 
@@ -1601,9 +1601,9 @@ _Last updated: 2026-05-17 23:08 UTC_
 | 145 | Kristen Rasmussen | 533 |
 | 146 | Amanda Zahui B | 530 |
 | 147 | A'ja Wilson | 526 |
-| 148 | Candice Wiggins | 525 |
-| 148 | Epiphanny Prince | 525 |
-| 148 | **Marina Mabrey** 🔴 | 525 |
+| 147 | **Marina Mabrey** 🔴 +1 | 526 |
+| 149 | Candice Wiggins | 525 |
+| 149 | Epiphanny Prince | 525 |
 | 151 | Armintie Herrington | 523 |
 | 152 | Sheryl Swoopes | 519 |
 | 153 | Nikki McCray | 517 |
