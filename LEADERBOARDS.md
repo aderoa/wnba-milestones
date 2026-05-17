@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-17 18:58 UTC_
+_Last updated: 2026-05-17 18:59 UTC_
 
 ## Contents
 
@@ -1603,8 +1603,8 @@ _Last updated: 2026-05-17 18:58 UTC_
 | 147 | Candice Wiggins | 525 |
 | 147 | Epiphanny Prince | 525 |
 | 147 | Marina Mabrey | 525 |
-| 150 | **A'ja Wilson** 🔴 +2 | 523 |
-| 150 | Armintie Herrington | 523 |
+| 150 | **A'ja Wilson** 🔴 +3 | 524 |
+| 151 | Armintie Herrington | 523 |
 | 152 | Sheryl Swoopes | 519 |
 | 153 | Nikki McCray | 517 |
 | 154 | Alex Bentley | 516 |
