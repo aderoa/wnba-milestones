@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-17 23:07 UTC_
+_Last updated: 2026-05-17 23:08 UTC_
 
 ## Contents
 
@@ -62,7 +62,7 @@ _Last updated: 2026-05-17 23:07 UTC_
 | 41 | Crystal Langhorne | 4,433 |
 | 41 | Jia Perkins | 4,433 |
 | 43 | Chelsea Gray | 4,430 |
-| 44 | **Natasha Howard** 🔴 +2 | 4,369 |
+| 44 | **Natasha Howard** 🔴 +4 | 4,371 |
 | 45 | Courtney Vandersloot | 4,352 |
 | 46 | Sophia Young-Malcolm | 4,300 |
 | 47 | Plenette Pierson | 4,258 |
@@ -73,7 +73,7 @@ _Last updated: 2026-05-17 23:07 UTC_
 | 52 | Allisha Gray | 4,182 |
 | 53 | Rebekkah Brunson | 4,133 |
 | 54 | Jonquel Jones | 4,096 |
-| 55 | **Dearica Hamby** 🔴 | 4,090 |
+| 55 | **Dearica Hamby** 🔴 +2 | 4,092 |
 | 56 | Kahleah Copper | 4,083 |
 | 57 | **Courtney Williams** 🔴 | 4,061 |
 | 58 | Asjha Jones | 3,986 |
@@ -205,7 +205,7 @@ _Last updated: 2026-05-17 23:07 UTC_
 | 184 | Tully Bevilaqua | 1,763 |
 | 185 | Sandy Brondello | 1,759 |
 | 186 | Sugar Rodgers | 1,733 |
-| 187 | **Natisha Hiedeman** 🔴 +9 | 1,725 |
+| 187 | **Natisha Hiedeman** 🔴 +11 | 1,727 |
 | 188 | Moriah Jefferson | 1,722 |
 | 189 | Armintie Herrington | 1,696 |
 | 190 | Nikki Teasley | 1,690 |
@@ -248,10 +248,10 @@ _Last updated: 2026-05-17 23:07 UTC_
 | 22 | Lauren Jackson | 2,444 |
 | 23 | Yolanda Griffith | 2,440 |
 | 24 | Tangela Smith | 2,328 |
-| 25 | **Dearica Hamby** 🔴 | 2,317 |
+| 25 | **Dearica Hamby** 🔴 +1 | 2,318 |
 | 26 | Erika de Souza | 2,220 |
 | 27 | Diana Taurasi | 2,201 |
-| 28 | **Natasha Howard** 🔴 +1 | 2,175 |
+| 28 | **Natasha Howard** 🔴 +2 | 2,176 |
 | 29 | Margo Dydek | 2,138 |
 | 30 | Chamique Holdsclaw | 2,123 |
 | 31 | Chasity Melvin | 2,097 |
@@ -265,7 +265,7 @@ _Last updated: 2026-05-17 23:07 UTC_
 | 39 | Lindsay Whalen | 1,805 |
 | 40 | Camille Smith | 1,802 |
 | 41 | Asjha Jones | 1,751 |
-| 42 | **Courtney Williams** 🔴 +1 | 1,748 |
+| 42 | **Courtney Williams** 🔴 | 1,747 |
 | 43 | Kiah Stokes | 1,746 |
 | 44 | Teaira McCowan | 1,670 |
 | 45 | Monique Currie | 1,666 |
@@ -453,7 +453,7 @@ _Last updated: 2026-05-17 23:07 UTC_
 | 22 | Teresa Weatherspoon | 1,333 |
 | 23 | Kristi Toliver | 1,301 |
 | 24 | Katie Smith | 1,258 |
-| 25 | **Erica Wheeler** 🔴 | 1,256 |
+| 25 | **Erica Wheeler** 🔴 +1 | 1,257 |
 | 26 | Vickie Johnson | 1,202 |
 | 27 | Odyssey Sims | 1,201 |
 | 28 | Leilani Mitchell | 1,197 |
@@ -876,7 +876,7 @@ _Last updated: 2026-05-17 23:07 UTC_
 | 35 | Sheri Sam | 438 |
 | 36 | Camille Smith | 437 |
 | 36 | Chelsea Gray | 437 |
-| 38 | **Natasha Howard** 🔴 | 434 |
+| 38 | **Natasha Howard** 🔴 +1 | 435 |
 | 39 | Candice Dupree | 431 |
 | 40 | Epiphanny Prince | 429 |
 | 41 | Tanisha Wright | 427 |
@@ -901,10 +901,10 @@ _Last updated: 2026-05-17 23:07 UTC_
 | 60 | Lauren Jackson | 360 |
 | 60 | Tan White | 360 |
 | 62 | Vickie Johnson | 357 |
+| 63 | **Brittney Sykes** 🔴 +2 | 356 |
 | 63 | Dominique Canty | 356 |
 | 63 | Renee Montgomery | 356 |
-| 65 | **Brittney Sykes** 🔴 +1 | 355 |
-| 65 | Tamecka Dixon | 355 |
+| 66 | Tamecka Dixon | 355 |
 | 67 | Vicky Bullett | 353 |
 | 68 | Svetlana Abrosimova | 352 |
 | 69 | Allisha Gray | 349 |
@@ -1317,8 +1317,8 @@ _Last updated: 2026-05-17 23:07 UTC_
 | 66 | **Kayla McBride** 🔴 | 622 |
 | 67 | Odyssey Sims | 616 |
 | 68 | Rebekkah Brunson | 615 |
+| 69 | **Kelsey Plum** 🔴 +2 | 613 |
 | 69 | Seimone Augustus | 613 |
-| 70 | **Kelsey Plum** 🔴 +1 | 612 |
 | 71 | Jonquel Jones | 608 |
 | 72 | Tiffany Hayes | 605 |
 | 73 | Teresa Weatherspoon | 601 |
