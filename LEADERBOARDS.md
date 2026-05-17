@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-17 23:11 UTC_
+_Last updated: 2026-05-17 23:12 UTC_
 
 ## Contents
 
@@ -73,7 +73,7 @@ _Last updated: 2026-05-17 23:11 UTC_
 | 52 | Allisha Gray | 4,182 |
 | 53 | Rebekkah Brunson | 4,133 |
 | 54 | Jonquel Jones | 4,096 |
-| 55 | **Dearica Hamby** 🔴 +2 | 4,092 |
+| 55 | **Dearica Hamby** 🔴 +4 | 4,094 |
 | 56 | Kahleah Copper | 4,083 |
 | 57 | **Courtney Williams** 🔴 | 4,061 |
 | 58 | Asjha Jones | 3,986 |
@@ -200,8 +200,8 @@ _Last updated: 2026-05-17 23:11 UTC_
 | 179 | **Damiris Dantas** 🔴 +3 | 1,817 |
 | 180 | Aliyah Boston | 1,798 |
 | 181 | Charde Houston | 1,797 |
-| 182 | Kamila Vodichkova | 1,767 |
-| 182 | **Rachel Banham** 🔴 | 1,767 |
+| 182 | **Rachel Banham** 🔴 +3 | 1,770 |
+| 183 | Kamila Vodichkova | 1,767 |
 | 184 | Tully Bevilaqua | 1,763 |
 | 185 | Sandy Brondello | 1,759 |
 | 186 | Sugar Rodgers | 1,733 |
@@ -485,8 +485,8 @@ _Last updated: 2026-05-17 23:11 UTC_
 | 54 | Layshia Clarendon | 911 |
 | 54 | Seimone Augustus | 911 |
 | 56 | Candice Dupree | 902 |
-| 57 | Maya Moore | 896 |
-| 57 | **Nneka Ogwumike** 🔴 | 896 |
+| 57 | **Nneka Ogwumike** 🔴 +1 | 897 |
+| 58 | Maya Moore | 896 |
 | 59 | Arike Ogunbowale | 889 |
 | 60 | Ivory Latta | 885 |
 | 61 | Helen Darling | 882 |
@@ -1088,9 +1088,9 @@ _Last updated: 2026-05-17 23:11 UTC_
 | 42 | Courtney Vandersloot | 385 |
 | 43 | Briann January | 381 |
 | 44 | Jasmine Thomas | 376 |
-| 45 | Allison Feaster | 372 |
-| 45 | Betty Lennox | 372 |
-| 45 | **Rachel Banham** 🔴 | 372 |
+| 45 | **Rachel Banham** 🔴 +1 | 373 |
+| 46 | Allison Feaster | 372 |
+| 46 | Betty Lennox | 372 |
 | 48 | Epiphanny Prince | 368 |
 | 49 | Rhyne Howard | 366 |
 | 50 | Jonquel Jones | 357 |
@@ -1473,7 +1473,7 @@ _Last updated: 2026-05-17 23:11 UTC_
 | 17 | **Nneka Ogwumike** 🔴 | 1,131 |
 | 18 | Tanisha Wright | 1,109 |
 | 19 | Michelle Snow | 1,108 |
-| 20 | **Natasha Howard** 🔴 | 1,088 |
+| 20 | **Natasha Howard** 🔴 +1 | 1,089 |
 | 21 | **Stefanie Dolson** 🔴 +2 | 1,084 |
 | 22 | Sylvia Fowles | 1,049 |
 | 23 | Tina Charles | 1,037 |
@@ -1513,7 +1513,7 @@ _Last updated: 2026-05-17 23:11 UTC_
 | 56 | Wendy Palmer | 831 |
 | 58 | Shannon Johnson | 813 |
 | 58 | Tully Bevilaqua | 813 |
-| 60 | **Dearica Hamby** 🔴 +1 | 799 |
+| 60 | **Dearica Hamby** 🔴 +2 | 800 |
 | 61 | Nykesha Sales | 796 |
 | 62 | Ebony Hoffman | 791 |
 | 63 | Skylar Diggins | 790 |
