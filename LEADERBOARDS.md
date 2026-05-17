@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-17 18:59 UTC_
+_Last updated: 2026-05-17 19:00 UTC_
 
 ## Contents
 
@@ -39,7 +39,7 @@ _Last updated: 2026-05-17 18:59 UTC_
 | 18 | Brittney Griner | 5,967 |
 | 19 | Becky Hammon | 5,816 |
 | 20 | Angel McCoughtry | 5,797 |
-| 21 | **A'ja Wilson** 🔴 +14 | 5,733 |
+| 21 | **A'ja Wilson** 🔴 +17 | 5,736 |
 | 22 | DeLisha Milton-Jones | 5,571 |
 | 23 | Katie Douglas | 5,545 |
 | 24 | Lindsay Whalen | 5,511 |
@@ -70,7 +70,7 @@ _Last updated: 2026-05-17 18:59 UTC_
 | 49 | Vickie Johnson | 4,230 |
 | 50 | Yolanda Griffith | 4,224 |
 | 51 | Kelsey Plum | 4,207 |
-| 52 | **Allisha Gray** 🔴 +13 | 4,170 |
+| 52 | **Allisha Gray** 🔴 +15 | 4,172 |
 | 53 | Rebekkah Brunson | 4,133 |
 | 54 | Jonquel Jones | 4,096 |
 | 55 | Dearica Hamby | 4,090 |
@@ -210,7 +210,7 @@ _Last updated: 2026-05-17 18:59 UTC_
 | 189 | Armintie Herrington | 1,696 |
 | 190 | Nikki Teasley | 1,690 |
 | 191 | Shenise Johnson | 1,688 |
-| 192 | **NaLyssa Smith** 🔴 +6 | 1,682 |
+| 192 | **NaLyssa Smith** 🔴 +8 | 1,684 |
 | 193 | Sophie Cunningham | 1,666 |
 | 194 | Gabby Williams | 1,597 |
 | 195 | Janell Burse | 1,580 |
@@ -241,7 +241,7 @@ _Last updated: 2026-05-17 18:59 UTC_
 | 15 | DeLisha Milton-Jones | 2,574 |
 | 16 | Brittney Griner | 2,531 |
 | 17 | Swin Cash | 2,521 |
-| 18 | **A'ja Wilson** 🔴 +3 | 2,497 |
+| 18 | **A'ja Wilson** 🔴 +4 | 2,498 |
 | 19 | Breanna Stewart | 2,484 |
 | 20 | Michelle Snow | 2,476 |
 | 21 | Crystal Langhorne | 2,454 |
@@ -322,9 +322,9 @@ _Last updated: 2026-05-17 18:59 UTC_
 | 96 | **Brianna Turner** 🔴 +1 | 1,215 |
 | 97 | Myisha Hines-Allen | 1,208 |
 | 98 | DeMya Walker | 1,199 |
-| 99 | **Chelsea Gray** 🔴 +2 | 1,190 |
-| 99 | Latasha Byears | 1,190 |
-| 99 | Tanisha Wright | 1,190 |
+| 99 | **Chelsea Gray** 🔴 +3 | 1,191 |
+| 100 | Latasha Byears | 1,190 |
+| 100 | Tanisha Wright | 1,190 |
 | 102 | Vicky Bullett | 1,189 |
 | 103 | Kayla McBride | 1,182 |
 | 104 | Nykesha Sales | 1,148 |
@@ -459,7 +459,7 @@ _Last updated: 2026-05-17 18:59 UTC_
 | 28 | Leilani Mitchell | 1,197 |
 | 29 | Kelsey Plum | 1,193 |
 | 30 | DeWanna Bonner | 1,176 |
-| 31 | **Jordin Canada** 🔴 +3 | 1,142 |
+| 31 | **Jordin Canada** 🔴 +4 | 1,143 |
 | 32 | Renee Montgomery | 1,140 |
 | 33 | **Jewell Loyd** 🔴 +1 | 1,134 |
 | 34 | Swin Cash | 1,131 |
@@ -470,8 +470,8 @@ _Last updated: 2026-05-17 18:59 UTC_
 | 39 | Penny Taylor | 1,049 |
 | 40 | Dominique Canty | 1,042 |
 | 41 | Sheryl Swoopes | 1,037 |
-| 42 | **Jackie Young** 🔴 +4 | 1,033 |
-| 42 | Tina Charles | 1,033 |
+| 42 | **Jackie Young** 🔴 +5 | 1,034 |
+| 43 | Tina Charles | 1,033 |
 | 44 | Nikki Teasley | 982 |
 | 45 | Tamecka Dixon | 960 |
 | 46 | Kara Lawson | 946 |
@@ -606,7 +606,7 @@ _Last updated: 2026-05-17 18:59 UTC_
 | 175 | Aliyah Boston | 378 |
 | 176 | Jessica Breland | 377 |
 | 177 | Shenise Johnson | 376 |
-| 178 | **Stephanie Talbot** 🔴 | 372 |
+| 178 | **Stephanie Talbot** 🔴 +1 | 373 |
 | 179 | Suzie McConnell Serio | 370 |
 | 180 | Damiris Dantas | 367 |
 | 181 | Roneeka Hodges | 362 |
@@ -897,7 +897,7 @@ _Last updated: 2026-05-17 18:59 UTC_
 | 56 | Chamique Holdsclaw | 376 |
 | 57 | Mwadi Mabika | 370 |
 | 58 | Ariel Atkins | 365 |
-| 59 | **Jordin Canada** 🔴 +3 | 362 |
+| 59 | **Jordin Canada** 🔴 +4 | 363 |
 | 60 | Lauren Jackson | 360 |
 | 60 | Tan White | 360 |
 | 62 | Vickie Johnson | 357 |
@@ -1271,7 +1271,7 @@ _Last updated: 2026-05-17 18:59 UTC_
 | 20 | Shannon Johnson | 934 |
 | 21 | Taj McWilliams-Franklin | 898 |
 | 22 | Skylar Diggins | 879 |
-| 23 | **Chelsea Gray** 🔴 +2 | 871 |
+| 23 | **Chelsea Gray** 🔴 +3 | 872 |
 | 24 | Candice Dupree | 869 |
 | 25 | Alana Beard | 854 |
 | 26 | DeWanna Bonner | 826 |
