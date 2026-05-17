@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-17 18:22 UTC_
+_Last updated: 2026-05-17 18:23 UTC_
 
 ## Contents
 
@@ -171,7 +171,7 @@ _Last updated: 2026-05-17 18:22 UTC_
 | 150 | Satou Sabally | 2,161 |
 | 151 | Murriel Page | 2,146 |
 | 152 | Marissa Coleman | 2,140 |
-| 153 | **Jordin Canada** 🔴 +6 | 2,138 |
+| 153 | **Jordin Canada** 🔴 +7 | 2,139 |
 | 154 | Tari Phillips | 2,134 |
 | 155 | Cheryl Ford | 2,116 |
 | 156 | Elena Baranova | 2,110 |
@@ -322,10 +322,10 @@ _Last updated: 2026-05-17 18:22 UTC_
 | 96 | **Brianna Turner** 🔴 +1 | 1,215 |
 | 97 | Myisha Hines-Allen | 1,208 |
 | 98 | DeMya Walker | 1,199 |
+| 99 | **Chelsea Gray** 🔴 +2 | 1,190 |
 | 99 | Latasha Byears | 1,190 |
 | 99 | Tanisha Wright | 1,190 |
-| 101 | **Chelsea Gray** 🔴 +1 | 1,189 |
-| 101 | Vicky Bullett | 1,189 |
+| 102 | Vicky Bullett | 1,189 |
 | 103 | Kayla McBride | 1,182 |
 | 104 | Nykesha Sales | 1,148 |
 | 105 | Shannon Johnson | 1,143 |
@@ -399,8 +399,8 @@ _Last updated: 2026-05-17 18:22 UTC_
 | 173 | Sue Wicks | 780 |
 | 174 | Lindsey Harding | 779 |
 | 175 | Tiffani Johnson | 778 |
-| 176 | **Naz Hillmon** 🔴 +3 | 776 |
-| 176 | Odyssey Sims | 776 |
+| 176 | **Naz Hillmon** 🔴 +4 | 777 |
+| 177 | Odyssey Sims | 776 |
 | 178 | Teresa Weatherspoon | 775 |
 | 179 | Anna DeForge | 769 |
 | 179 | Kelsey Bone | 769 |
