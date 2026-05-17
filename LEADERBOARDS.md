@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-17 22:22 UTC_
+_Last updated: 2026-05-17 22:23 UTC_
 
 ## Contents
 
@@ -211,7 +211,7 @@ _Last updated: 2026-05-17 22:22 UTC_
 | 190 | Nikki Teasley | 1,690 |
 | 191 | NaLyssa Smith | 1,689 |
 | 192 | Shenise Johnson | 1,688 |
-| 193 | Sophie Cunningham | 1,666 |
+| 193 | **Sophie Cunningham** 🔴 | 1,666 |
 | 194 | Gabby Williams | 1,597 |
 | 195 | Janell Burse | 1,580 |
 | 196 | Le'coe Willingham | 1,552 |
@@ -1113,7 +1113,7 @@ _Last updated: 2026-05-17 22:22 UTC_
 | 66 | Tan White | 311 |
 | 68 | Kedra Holland-Corn | 307 |
 | 69 | Kelly Miller | 305 |
-| 69 | Sophie Cunningham | 305 |
+| 69 | **Sophie Cunningham** 🔴 | 305 |
 | 71 | Nikki Teasley | 304 |
 | 72 | Vickie Johnson | 295 |
 | 73 | Seimone Augustus | 293 |
@@ -1155,7 +1155,7 @@ _Last updated: 2026-05-17 22:22 UTC_
 | 109 | Betnijah Laney-Hamilton | 197 |
 | 109 | Temeka Johnson | 197 |
 | 109 | Tina Charles | 197 |
-| 112 | Lexie Brown | 194 |
+| 112 | **Lexie Brown** 🔴 | 194 |
 | 113 | Lindsay Whalen | 193 |
 | 114 | Victoria Vivians | 192 |
 | 115 | Danielle Adams | 188 |
@@ -1622,7 +1622,7 @@ _Last updated: 2026-05-17 22:22 UTC_
 | 166 | Allison Feaster | 504 |
 | 166 | Erin Perperoglou | 504 |
 | 166 | Napheesa Collier | 504 |
-| 166 | Sophie Cunningham | 504 |
+| 166 | **Sophie Cunningham** 🔴 | 504 |
 | 170 | **Monique Billings** 🔴 +1 | 503 |
 | 171 | Iziane Castro Marques | 502 |
 | 172 | Elena Baranova | 501 |
