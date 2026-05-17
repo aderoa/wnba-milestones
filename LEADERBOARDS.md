@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-17 23:49 UTC_
+_Last updated: 2026-05-17 23:50 UTC_
 
 ## Contents
 
@@ -44,7 +44,7 @@ _Last updated: 2026-05-17 23:49 UTC_
 | 23 | Katie Douglas | 5,545 |
 | 24 | Lindsay Whalen | 5,511 |
 | 25 | Skylar Diggins | 5,489 |
-| 26 | **Kayla McBride** 🔴 +10 | 5,399 |
+| 26 | **Kayla McBride** 🔴 +12 | 5,401 |
 | 27 | Swin Cash | 5,119 |
 | 28 | Tangela Smith | 5,035 |
 | 29 | Taj McWilliams-Franklin | 4,992 |
@@ -248,7 +248,7 @@ _Last updated: 2026-05-17 23:49 UTC_
 | 22 | Lauren Jackson | 2,444 |
 | 23 | Yolanda Griffith | 2,440 |
 | 24 | Tangela Smith | 2,328 |
-| 25 | **Dearica Hamby** 🔴 +4 | 2,321 |
+| 25 | **Dearica Hamby** 🔴 +5 | 2,322 |
 | 26 | Erika de Souza | 2,220 |
 | 27 | Diana Taurasi | 2,201 |
 | 28 | **Natasha Howard** 🔴 +5 | 2,179 |
@@ -264,8 +264,8 @@ _Last updated: 2026-05-17 23:49 UTC_
 | 38 | Sophia Young-Malcolm | 1,807 |
 | 39 | Lindsay Whalen | 1,805 |
 | 40 | Camille Smith | 1,802 |
-| 41 | Asjha Jones | 1,751 |
-| 41 | **Courtney Williams** 🔴 +4 | 1,751 |
+| 41 | **Courtney Williams** 🔴 +5 | 1,752 |
+| 42 | Asjha Jones | 1,751 |
 | 43 | Kiah Stokes | 1,746 |
 | 44 | Teaira McCowan | 1,670 |
 | 45 | Monique Currie | 1,666 |
@@ -437,7 +437,7 @@ _Last updated: 2026-05-17 23:49 UTC_
 | 6 | Chelsea Gray | 1,876 |
 | 7 | Alyssa Thomas | 1,820 |
 | 8 | Skylar Diggins | 1,768 |
-| 9 | **Natasha Cloud** 🔴 +2 | 1,735 |
+| 9 | **Natasha Cloud** 🔴 +3 | 1,736 |
 | 10 | Becky Hammon | 1,705 |
 | 11 | Candace Parker | 1,634 |
 | 12 | Cappie Pondexter | 1,575 |
@@ -457,7 +457,7 @@ _Last updated: 2026-05-17 23:49 UTC_
 | 26 | Vickie Johnson | 1,202 |
 | 27 | Odyssey Sims | 1,201 |
 | 28 | Leilani Mitchell | 1,197 |
-| 29 | **Kelsey Plum** 🔴 +1 | 1,194 |
+| 29 | **Kelsey Plum** 🔴 +2 | 1,195 |
 | 30 | DeWanna Bonner | 1,176 |
 | 31 | Jordin Canada | 1,144 |
 | 32 | Renee Montgomery | 1,140 |
@@ -1311,8 +1311,8 @@ _Last updated: 2026-05-17 23:49 UTC_
 | 59 | **Dearica Hamby** 🔴 +1 | 658 |
 | 60 | Yolanda Griffith | 653 |
 | 61 | Sheri Sam | 650 |
-| 62 | **Courtney Williams** 🔴 | 643 |
-| 62 | Dawn Staley | 643 |
+| 62 | **Courtney Williams** 🔴 +1 | 644 |
+| 63 | Dawn Staley | 643 |
 | 64 | Ruth Riley | 637 |
 | 65 | Svetlana Abrosimova | 631 |
 | 66 | **Kayla McBride** 🔴 +1 | 623 |
