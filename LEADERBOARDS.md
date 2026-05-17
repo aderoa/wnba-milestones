@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-17 19:45 UTC_
+_Last updated: 2026-05-17 19:46 UTC_
 
 ## Contents
 
@@ -504,7 +504,7 @@ _Last updated: 2026-05-17 19:45 UTC_
 | 73 | Sheri Sam | 745 |
 | 74 | Monique Currie | 740 |
 | 75 | Marina Mabrey | 738 |
-| 76 | **Allisha Gray** 🔴 | 730 |
+| 76 | **Allisha Gray** 🔴 +1 | 731 |
 | 77 | Elaine Powell | 728 |
 | 78 | Chamique Holdsclaw | 698 |
 | 79 | Shavonte Zellous | 693 |
