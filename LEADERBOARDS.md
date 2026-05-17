@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-17 22:17 UTC_
+_Last updated: 2026-05-17 22:18 UTC_
 
 ## Contents
 
@@ -217,7 +217,7 @@ _Last updated: 2026-05-17 22:17 UTC_
 | 196 | Le'coe Willingham | 1,552 |
 | 197 | Shatori Walker-Kimbrough | 1,544 |
 | 198 | Rebecca Allen | 1,514 |
-| 199 | **Monique Billings** 🔴 | 1,505 |
+| 199 | **Monique Billings** 🔴 +2 | 1,507 |
 | 200 | Jennifer Lacy | 1,504 |
 
 ## Rebounds
@@ -566,8 +566,8 @@ _Last updated: 2026-05-17 22:17 UTC_
 | 135 | Kahleah Copper | 463 |
 | 136 | Erin Phillips | 462 |
 | 137 | Sylvia Fowles | 461 |
+| 138 | **Caitlin Clark** 🔴 +2 | 454 |
 | 138 | Sydney Colson | 454 |
-| 139 | **Caitlin Clark** 🔴 +1 | 453 |
 | 140 | Elizabeth Williams | 452 |
 | 141 | Satou Sabally | 451 |
 | 141 | Yolanda Griffith | 451 |
@@ -1623,8 +1623,8 @@ _Last updated: 2026-05-17 22:17 UTC_
 | 166 | Erin Perperoglou | 504 |
 | 166 | Napheesa Collier | 504 |
 | 166 | Sophie Cunningham | 504 |
-| 170 | Iziane Castro Marques | 502 |
-| 170 | **Monique Billings** 🔴 | 502 |
+| 170 | **Monique Billings** 🔴 +1 | 503 |
+| 171 | Iziane Castro Marques | 502 |
 | 172 | Elena Baranova | 501 |
 | 173 | Adrian Williams-Strong | 497 |
 | 173 | Essence Carson | 497 |
