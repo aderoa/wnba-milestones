@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-17 18:11 UTC_
+_Last updated: 2026-05-17 18:12 UTC_
 
 ## Contents
 
@@ -70,7 +70,7 @@ _Last updated: 2026-05-17 18:11 UTC_
 | 49 | Vickie Johnson | 4,230 |
 | 50 | Yolanda Griffith | 4,224 |
 | 51 | Kelsey Plum | 4,207 |
-| 52 | **Allisha Gray** 🔴 +3 | 4,160 |
+| 52 | **Allisha Gray** 🔴 +6 | 4,163 |
 | 53 | Rebekkah Brunson | 4,133 |
 | 54 | Jonquel Jones | 4,096 |
 | 55 | Dearica Hamby | 4,090 |
@@ -399,9 +399,9 @@ _Last updated: 2026-05-17 18:11 UTC_
 | 173 | Sue Wicks | 780 |
 | 174 | Lindsey Harding | 779 |
 | 175 | Tiffani Johnson | 778 |
+| 176 | **Naz Hillmon** 🔴 +3 | 776 |
 | 176 | Odyssey Sims | 776 |
-| 177 | **Naz Hillmon** 🔴 +2 | 775 |
-| 177 | Teresa Weatherspoon | 775 |
+| 178 | Teresa Weatherspoon | 775 |
 | 179 | Anna DeForge | 769 |
 | 179 | Kelsey Bone | 769 |
 | 179 | Tan White | 769 |
@@ -459,8 +459,8 @@ _Last updated: 2026-05-17 18:11 UTC_
 | 28 | Leilani Mitchell | 1,197 |
 | 29 | Kelsey Plum | 1,193 |
 | 30 | DeWanna Bonner | 1,176 |
+| 31 | **Jordin Canada** 🔴 +1 | 1,140 |
 | 31 | Renee Montgomery | 1,140 |
-| 32 | **Jordin Canada** 🔴 | 1,139 |
 | 33 | **Jewell Loyd** 🔴 | 1,133 |
 | 34 | Swin Cash | 1,131 |
 | 35 | Lindsey Harding | 1,090 |
@@ -1075,7 +1075,7 @@ _Last updated: 2026-05-17 18:11 UTC_
 | 29 | Marina Mabrey | 439 |
 | 30 | Lauren Jackson | 436 |
 | 31 | Shameka Christon | 434 |
-| 32 | **Allisha Gray** 🔴 | 426 |
+| 32 | **Allisha Gray** 🔴 +1 | 427 |
 | 33 | Crystal Robinson | 425 |
 | 33 | Skylar Diggins | 425 |
 | 35 | Mwadi Mabika | 415 |
@@ -1533,8 +1533,8 @@ _Last updated: 2026-05-17 18:11 UTC_
 | 77 | Cheryl Ford | 713 |
 | 78 | Jia Perkins | 711 |
 | 79 | Helen Darling | 709 |
+| 80 | **Allisha Gray** 🔴 +2 | 708 |
 | 80 | Elizabeth Williams | 708 |
-| 81 | **Allisha Gray** 🔴 +1 | 707 |
 | 82 | Matee Ajavon | 701 |
 | 82 | Nicole Powell | 701 |
 | 84 | Tan White | 698 |
