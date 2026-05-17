@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-17 23:47 UTC_
+_Last updated: 2026-05-17 23:48 UTC_
 
 ## Contents
 
@@ -256,7 +256,7 @@ _Last updated: 2026-05-17 23:47 UTC_
 | 30 | Chamique Holdsclaw | 2,123 |
 | 31 | Chasity Melvin | 2,097 |
 | 32 | Tammy Sutton-Brown | 2,010 |
-| 33 | **Elizabeth Williams** 🔴 +4 | 1,908 |
+| 33 | **Elizabeth Williams** 🔴 +5 | 1,909 |
 | 34 | Cheryl Ford | 1,907 |
 | 35 | Plenette Pierson | 1,834 |
 | 36 | Natalie Williams | 1,832 |
@@ -326,7 +326,7 @@ _Last updated: 2026-05-17 23:47 UTC_
 | 100 | Latasha Byears | 1,190 |
 | 100 | Tanisha Wright | 1,190 |
 | 102 | Vicky Bullett | 1,189 |
-| 103 | **Kayla McBride** 🔴 +1 | 1,183 |
+| 103 | **Kayla McBride** 🔴 +2 | 1,184 |
 | 104 | Nykesha Sales | 1,148 |
 | 105 | Shannon Johnson | 1,143 |
 | 106 | Kahleah Copper | 1,140 |
