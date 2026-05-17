@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-17 23:52 UTC_
+_Last updated: 2026-05-17 23:53 UTC_
 
 ## Contents
 
@@ -106,11 +106,11 @@ _Last updated: 2026-05-17 23:52 UTC_
 | 85 | Tanisha Wright | 3,324 |
 | 86 | Margo Dydek | 3,214 |
 | 87 | Danielle Robinson | 3,160 |
-| 88 | **Stefanie Dolson** 🔴 +2 | 3,136 |
+| 88 | **Stefanie Dolson** 🔴 +4 | 3,138 |
 | 89 | Wendy Palmer | 3,135 |
 | 90 | Shavonte Zellous | 3,103 |
 | 91 | Briann January | 3,082 |
-| 92 | **Erica Wheeler** 🔴 | 3,060 |
+| 92 | **Erica Wheeler** 🔴 +1 | 3,061 |
 | 93 | Erika de Souza | 3,046 |
 | 94 | Shameka Christon | 3,039 |
 | 95 | Sabrina Ionescu | 3,030 |
@@ -320,7 +320,7 @@ _Last updated: 2026-05-17 23:52 UTC_
 | 94 | Seimone Augustus | 1,228 |
 | 95 | Jia Perkins | 1,220 |
 | 96 | Brianna Turner | 1,215 |
-| 97 | **Myisha Hines-Allen** 🔴 +5 | 1,213 |
+| 97 | **Myisha Hines-Allen** 🔴 +6 | 1,214 |
 | 98 | DeMya Walker | 1,199 |
 | 99 | Chelsea Gray | 1,193 |
 | 100 | Latasha Byears | 1,190 |
@@ -532,7 +532,7 @@ _Last updated: 2026-05-17 23:52 UTC_
 | 101 | Sancho Lyttle | 592 |
 | 102 | Camille Smith | 590 |
 | 103 | Armintie Herrington | 589 |
-| 104 | **Natisha Hiedeman** 🔴 | 584 |
+| 104 | **Natisha Hiedeman** 🔴 +1 | 585 |
 | 105 | Tan White | 578 |
 | 106 | Matee Ajavon | 577 |
 | 107 | Betnijah Laney-Hamilton | 573 |
