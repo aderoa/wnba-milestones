@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-17 19:59 UTC_
+_Last updated: 2026-05-17 20:00 UTC_
 
 ## Contents
 
@@ -875,7 +875,7 @@ _Last updated: 2026-05-17 19:59 UTC_
 | 34 | **Jewell Loyd** 🔴 +1 | 442 |
 | 35 | Sheri Sam | 438 |
 | 36 | Camille Smith | 437 |
-| 37 | **Chelsea Gray** 🔴 | 436 |
+| 36 | **Chelsea Gray** 🔴 +1 | 437 |
 | 38 | Natasha Howard | 434 |
 | 39 | Candice Dupree | 431 |
 | 40 | Epiphanny Prince | 429 |
@@ -1370,7 +1370,7 @@ _Last updated: 2026-05-17 19:59 UTC_
 | 119 | Allie Quigley | 467 |
 | 120 | Kia Vaughn | 454 |
 | 121 | Janeth Arcain | 453 |
-| 122 | **Allisha Gray** 🔴 +1 | 450 |
+| 122 | **Allisha Gray** 🔴 +2 | 451 |
 | 123 | **A'ja Wilson** 🔴 +4 | 445 |
 | 124 | Elena Baranova | 444 |
 | 124 | Jantel Lavender | 444 |
