@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-17 19:34 UTC_
+_Last updated: 2026-05-17 19:35 UTC_
 
 ## Contents
 
@@ -1616,13 +1616,13 @@ _Last updated: 2026-05-17 19:34 UTC_
 | 160 | Kayla McBride | 507 |
 | 160 | Vicky Bullett | 507 |
 | 162 | Merlakia Jones | 506 |
+| 163 | **Jackie Young** 🔴 +2 | 505 |
 | 163 | Rushia Brown | 505 |
 | 163 | Shekinna Stricklen | 505 |
-| 165 | Allison Feaster | 504 |
-| 165 | Erin Perperoglou | 504 |
-| 165 | **Jackie Young** 🔴 +1 | 504 |
-| 165 | Napheesa Collier | 504 |
-| 165 | Sophie Cunningham | 504 |
+| 166 | Allison Feaster | 504 |
+| 166 | Erin Perperoglou | 504 |
+| 166 | Napheesa Collier | 504 |
+| 166 | Sophie Cunningham | 504 |
 | 170 | Iziane Castro Marques | 502 |
 | 170 | Monique Billings | 502 |
 | 172 | Elena Baranova | 501 |
