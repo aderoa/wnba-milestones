@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-17 19:26 UTC_
+_Last updated: 2026-05-17 19:27 UTC_
 
 ## Contents
 
@@ -209,8 +209,8 @@ _Last updated: 2026-05-17 19:26 UTC_
 | 188 | Natisha Hiedeman | 1,716 |
 | 189 | Armintie Herrington | 1,696 |
 | 190 | Nikki Teasley | 1,690 |
+| 191 | **NaLyssa Smith** 🔴 +12 | 1,688 |
 | 191 | Shenise Johnson | 1,688 |
-| 192 | **NaLyssa Smith** 🔴 +10 | 1,686 |
 | 193 | Sophie Cunningham | 1,666 |
 | 194 | Gabby Williams | 1,597 |
 | 195 | Janell Burse | 1,580 |
@@ -470,7 +470,7 @@ _Last updated: 2026-05-17 19:26 UTC_
 | 39 | Penny Taylor | 1,049 |
 | 40 | Dominique Canty | 1,042 |
 | 41 | Sheryl Swoopes | 1,037 |
-| 42 | **Jackie Young** 🔴 +6 | 1,035 |
+| 42 | **Jackie Young** 🔴 +7 | 1,036 |
 | 43 | Tina Charles | 1,033 |
 | 44 | Nikki Teasley | 982 |
 | 45 | Tamecka Dixon | 960 |
@@ -897,7 +897,7 @@ _Last updated: 2026-05-17 19:26 UTC_
 | 56 | Chamique Holdsclaw | 376 |
 | 57 | Mwadi Mabika | 370 |
 | 58 | Ariel Atkins | 365 |
-| 59 | **Jordin Canada** 🔴 +4 | 363 |
+| 59 | **Jordin Canada** 🔴 +5 | 364 |
 | 60 | Lauren Jackson | 360 |
 | 60 | Tan White | 360 |
 | 62 | Vickie Johnson | 357 |
