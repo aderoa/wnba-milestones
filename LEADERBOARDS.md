@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-17 18:12 UTC_
+_Last updated: 2026-05-17 18:13 UTC_
 
 ## Contents
 
@@ -32,7 +32,7 @@ _Last updated: 2026-05-17 18:12 UTC_
 | 11 | Katie Smith | 6,450 |
 | 12 | Sylvia Fowles | 6,413 |
 | 13 | Lisa Leslie | 6,251 |
-| 14 | **Jewell Loyd** 🔴 | 6,027 |
+| 14 | **Jewell Loyd** 🔴 +3 | 6,030 |
 | 15 | Breanna Stewart | 6,016 |
 | 16 | Lauren Jackson | 6,005 |
 | 16 | Seimone Augustus | 6,005 |
@@ -61,7 +61,7 @@ _Last updated: 2026-05-17 18:12 UTC_
 | 40 | Arike Ogunbowale | 4,464 |
 | 41 | Crystal Langhorne | 4,433 |
 | 41 | Jia Perkins | 4,433 |
-| 43 | **Chelsea Gray** 🔴 +7 | 4,416 |
+| 43 | **Chelsea Gray** 🔴 +10 | 4,419 |
 | 44 | Natasha Howard | 4,367 |
 | 45 | Courtney Vandersloot | 4,352 |
 | 46 | Sophia Young-Malcolm | 4,300 |
@@ -324,8 +324,8 @@ _Last updated: 2026-05-17 18:12 UTC_
 | 98 | DeMya Walker | 1,199 |
 | 99 | Latasha Byears | 1,190 |
 | 99 | Tanisha Wright | 1,190 |
+| 101 | **Chelsea Gray** 🔴 +1 | 1,189 |
 | 101 | Vicky Bullett | 1,189 |
-| 102 | **Chelsea Gray** 🔴 | 1,188 |
 | 103 | Kayla McBride | 1,182 |
 | 104 | Nykesha Sales | 1,148 |
 | 105 | Shannon Johnson | 1,143 |
@@ -461,7 +461,7 @@ _Last updated: 2026-05-17 18:12 UTC_
 | 30 | DeWanna Bonner | 1,176 |
 | 31 | **Jordin Canada** 🔴 +1 | 1,140 |
 | 31 | Renee Montgomery | 1,140 |
-| 33 | **Jewell Loyd** 🔴 | 1,133 |
+| 33 | **Jewell Loyd** 🔴 +1 | 1,134 |
 | 34 | Swin Cash | 1,131 |
 | 35 | Lindsey Harding | 1,090 |
 | 36 | Katie Douglas | 1,069 |
@@ -1052,7 +1052,7 @@ _Last updated: 2026-05-17 18:12 UTC_
 | 6 | Katie Douglas | 723 |
 | 7 | Kayla McBride | 722 |
 | 8 | Kelsey Mitchell | 669 |
-| 9 | **Jewell Loyd** 🔴 | 667 |
+| 9 | **Jewell Loyd** 🔴 +1 | 668 |
 | 10 | DeWanna Bonner | 663 |
 | 11 | Kristi Toliver | 651 |
 | 12 | Tamika Catchings | 605 |
@@ -1079,7 +1079,7 @@ _Last updated: 2026-05-17 18:12 UTC_
 | 33 | Crystal Robinson | 425 |
 | 33 | Skylar Diggins | 425 |
 | 35 | Mwadi Mabika | 415 |
-| 36 | **Chelsea Gray** 🔴 +1 | 411 |
+| 36 | **Chelsea Gray** 🔴 +2 | 412 |
 | 37 | Penny Taylor | 407 |
 | 37 | Riquna Williams | 407 |
 | 39 | Jia Perkins | 396 |
@@ -1370,7 +1370,7 @@ _Last updated: 2026-05-17 18:12 UTC_
 | 119 | Allie Quigley | 467 |
 | 120 | Kia Vaughn | 454 |
 | 121 | Janeth Arcain | 453 |
-| 122 | **Allisha Gray** 🔴 | 449 |
+| 122 | **Allisha Gray** 🔴 +1 | 450 |
 | 123 | Elena Baranova | 444 |
 | 123 | Jantel Lavender | 444 |
 | 125 | **A'ja Wilson** 🔴 +1 | 442 |
