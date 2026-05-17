@@ -2,6 +2,11 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-17 19:28 UTC
+
+- **NaLyssa Smith** passed **Shenise Johnson** for **#191** all-time in points (career 1,689) — up from #192 entering today — _8:36 - 4th — LV @ ATL_
+- **Jewell Loyd** passed **Elena Baranova** for **#80** all-time in rebounds (career 1,336) — up from #82 entering today — _8:36 - 4th — LV @ ATL_
+
 ## 2026-05-17 19:03 UTC
 
 - **Angel Reese** reached **200** career turnovers (now 200) — _5:03 - 3rd — LV @ ATL_

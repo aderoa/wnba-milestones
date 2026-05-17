@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-17 19:27 UTC_
+_Last updated: 2026-05-17 19:28 UTC_
 
 ## Contents
 
@@ -209,8 +209,8 @@ _Last updated: 2026-05-17 19:27 UTC_
 | 188 | Natisha Hiedeman | 1,716 |
 | 189 | Armintie Herrington | 1,696 |
 | 190 | Nikki Teasley | 1,690 |
-| 191 | **NaLyssa Smith** 🔴 +12 | 1,688 |
-| 191 | Shenise Johnson | 1,688 |
+| 191 | **NaLyssa Smith** 🔴 +13 | 1,689 |
+| 192 | Shenise Johnson | 1,688 |
 | 193 | Sophie Cunningham | 1,666 |
 | 194 | Gabby Williams | 1,597 |
 | 195 | Janell Burse | 1,580 |
@@ -303,8 +303,8 @@ _Last updated: 2026-05-17 19:27 UTC_
 | 76 | Tamika Whitmore | 1,355 |
 | 78 | Emma Meesseman | 1,350 |
 | 79 | Monique Billings | 1,345 |
-| 80 | Elena Baranova | 1,335 |
-| 80 | **Jewell Loyd** 🔴 +4 | 1,335 |
+| 80 | **Jewell Loyd** 🔴 +5 | 1,336 |
+| 81 | Elena Baranova | 1,335 |
 | 82 | Brionna Jones | 1,333 |
 | 83 | Erlana Larkins | 1,329 |
 | 84 | Mwadi Mabika | 1,327 |
@@ -1620,9 +1620,9 @@ _Last updated: 2026-05-17 19:27 UTC_
 | 163 | Shekinna Stricklen | 505 |
 | 165 | Allison Feaster | 504 |
 | 165 | Erin Perperoglou | 504 |
+| 165 | **Jackie Young** 🔴 +1 | 504 |
 | 165 | Napheesa Collier | 504 |
 | 165 | Sophie Cunningham | 504 |
-| 169 | **Jackie Young** 🔴 | 503 |
 | 170 | Iziane Castro Marques | 502 |
 | 170 | Monique Billings | 502 |
 | 172 | Elena Baranova | 501 |
