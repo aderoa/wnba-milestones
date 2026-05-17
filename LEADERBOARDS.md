@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-17 18:38 UTC_
+_Last updated: 2026-05-17 18:39 UTC_
 
 ## Contents
 
@@ -32,7 +32,7 @@ _Last updated: 2026-05-17 18:38 UTC_
 | 11 | Katie Smith | 6,450 |
 | 12 | Sylvia Fowles | 6,413 |
 | 13 | Lisa Leslie | 6,251 |
-| 14 | **Jewell Loyd** 🔴 +3 | 6,030 |
+| 14 | **Jewell Loyd** 🔴 +6 | 6,033 |
 | 15 | Breanna Stewart | 6,016 |
 | 16 | Lauren Jackson | 6,005 |
 | 16 | Seimone Augustus | 6,005 |
@@ -434,7 +434,7 @@ _Last updated: 2026-05-17 18:38 UTC_
 | 3 | Ticha Penicheiro | 2,588 |
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
-| 6 | **Chelsea Gray** 🔴 +4 | 1,874 |
+| 6 | **Chelsea Gray** 🔴 +5 | 1,875 |
 | 7 | Alyssa Thomas | 1,820 |
 | 8 | Skylar Diggins | 1,768 |
 | 9 | Natasha Cloud | 1,733 |
@@ -459,9 +459,9 @@ _Last updated: 2026-05-17 18:38 UTC_
 | 28 | Leilani Mitchell | 1,197 |
 | 29 | Kelsey Plum | 1,193 |
 | 30 | DeWanna Bonner | 1,176 |
-| 31 | **Jordin Canada** 🔴 +2 | 1,141 |
+| 31 | **Jordin Canada** 🔴 +3 | 1,142 |
 | 32 | Renee Montgomery | 1,140 |
-| 33 | **Jewell Loyd** 🔴 +2 | 1,135 |
+| 33 | **Jewell Loyd** 🔴 +1 | 1,134 |
 | 34 | Swin Cash | 1,131 |
 | 35 | Lindsey Harding | 1,090 |
 | 36 | Katie Douglas | 1,069 |
@@ -897,7 +897,7 @@ _Last updated: 2026-05-17 18:38 UTC_
 | 56 | Chamique Holdsclaw | 376 |
 | 57 | Mwadi Mabika | 370 |
 | 58 | Ariel Atkins | 365 |
-| 59 | **Jordin Canada** 🔴 +2 | 361 |
+| 59 | **Jordin Canada** 🔴 +3 | 362 |
 | 60 | Lauren Jackson | 360 |
 | 60 | Tan White | 360 |
 | 62 | Vickie Johnson | 357 |
@@ -1051,8 +1051,8 @@ _Last updated: 2026-05-17 18:38 UTC_
 | 5 | Tina Thompson | 745 |
 | 6 | Katie Douglas | 723 |
 | 7 | Kayla McBride | 722 |
+| 8 | **Jewell Loyd** 🔴 +2 | 669 |
 | 8 | Kelsey Mitchell | 669 |
-| 9 | **Jewell Loyd** 🔴 +1 | 668 |
 | 10 | DeWanna Bonner | 663 |
 | 11 | Kristi Toliver | 651 |
 | 12 | Tamika Catchings | 605 |
@@ -1271,7 +1271,7 @@ _Last updated: 2026-05-17 18:38 UTC_
 | 20 | Shannon Johnson | 934 |
 | 21 | Taj McWilliams-Franklin | 898 |
 | 22 | Skylar Diggins | 879 |
-| 23 | **Chelsea Gray** 🔴 +1 | 870 |
+| 23 | **Chelsea Gray** 🔴 +2 | 871 |
 | 24 | Candice Dupree | 869 |
 | 25 | Alana Beard | 854 |
 | 26 | DeWanna Bonner | 826 |
