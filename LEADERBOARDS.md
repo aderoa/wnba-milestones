@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-17 23:09 UTC_
+_Last updated: 2026-05-17 23:10 UTC_
 
 ## Contents
 
@@ -69,7 +69,7 @@ _Last updated: 2026-05-17 23:09 UTC_
 | 48 | Monique Currie | 4,253 |
 | 49 | Vickie Johnson | 4,230 |
 | 50 | Yolanda Griffith | 4,224 |
-| 51 | **Kelsey Plum** 🔴 +4 | 4,211 |
+| 51 | **Kelsey Plum** 🔴 +7 | 4,214 |
 | 52 | Allisha Gray | 4,182 |
 | 53 | Rebekkah Brunson | 4,133 |
 | 54 | Jonquel Jones | 4,096 |
@@ -452,8 +452,8 @@ _Last updated: 2026-05-17 23:09 UTC_
 | 21 | Dawn Staley | 1,337 |
 | 22 | Teresa Weatherspoon | 1,333 |
 | 23 | Kristi Toliver | 1,301 |
+| 24 | **Erica Wheeler** 🔴 +2 | 1,258 |
 | 24 | Katie Smith | 1,258 |
-| 25 | **Erica Wheeler** 🔴 +1 | 1,257 |
 | 26 | Vickie Johnson | 1,202 |
 | 27 | Odyssey Sims | 1,201 |
 | 28 | Leilani Mitchell | 1,197 |
@@ -1006,8 +1006,8 @@ _Last updated: 2026-05-17 23:09 UTC_
 | 164 | Murriel Page | 204 |
 | 164 | Shatori Walker-Kimbrough | 204 |
 | 167 | Adrienne Goodson | 203 |
-| 168 | Betnijah Laney-Hamilton | 202 |
-| 168 | **Marina Mabrey** 🔴 | 202 |
+| 167 | **Marina Mabrey** 🔴 +1 | 203 |
+| 169 | Betnijah Laney-Hamilton | 202 |
 | 170 | Azurá Stevens | 201 |
 | 171 | Allie Quigley | 198 |
 | 172 | Layshia Clarendon | 195 |
@@ -1056,7 +1056,7 @@ _Last updated: 2026-05-17 23:09 UTC_
 | 10 | DeWanna Bonner | 663 |
 | 11 | Kristi Toliver | 651 |
 | 12 | Tamika Catchings | 605 |
-| 13 | **Kelsey Plum** 🔴 | 588 |
+| 13 | **Kelsey Plum** 🔴 +1 | 589 |
 | 14 | Kara Lawson | 583 |
 | 15 | Nicole Powell | 579 |
 | 16 | Arike Ogunbowale | 545 |
@@ -1307,7 +1307,7 @@ _Last updated: 2026-05-17 23:09 UTC_
 | 56 | **Erica Wheeler** 🔴 | 665 |
 | 56 | **Natasha Cloud** 🔴 | 665 |
 | 58 | Vickie Johnson | 660 |
-| 59 | **Dearica Hamby** 🔴 | 657 |
+| 59 | **Dearica Hamby** 🔴 +1 | 658 |
 | 60 | Yolanda Griffith | 653 |
 | 61 | Sheri Sam | 650 |
 | 62 | **Courtney Williams** 🔴 | 643 |
@@ -1333,7 +1333,7 @@ _Last updated: 2026-05-17 23:09 UTC_
 | 82 | Kara Braxton | 570 |
 | 83 | Nikki McCray | 565 |
 | 84 | Sancho Lyttle | 563 |
-| 85 | **Brittney Sykes** 🔴 | 558 |
+| 85 | **Brittney Sykes** 🔴 +1 | 559 |
 | 86 | Tan White | 557 |
 | 87 | Breanna Stewart | 549 |
 | 87 | **Kelsey Mitchell** 🔴 | 549 |
@@ -1513,7 +1513,7 @@ _Last updated: 2026-05-17 23:09 UTC_
 | 56 | Wendy Palmer | 831 |
 | 58 | Shannon Johnson | 813 |
 | 58 | Tully Bevilaqua | 813 |
-| 60 | **Dearica Hamby** 🔴 | 798 |
+| 60 | **Dearica Hamby** 🔴 +1 | 799 |
 | 61 | Nykesha Sales | 796 |
 | 62 | Ebony Hoffman | 791 |
 | 63 | Skylar Diggins | 790 |
