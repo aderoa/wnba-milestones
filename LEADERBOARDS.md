@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-17 22:40 UTC_
+_Last updated: 2026-05-17 22:41 UTC_
 
 ## Contents
 
@@ -302,7 +302,7 @@ _Last updated: 2026-05-17 22:40 UTC_
 | 75 | Sheri Sam | 1,356 |
 | 77 | Tamika Whitmore | 1,355 |
 | 78 | Emma Meesseman | 1,350 |
-| 79 | **Monique Billings** 🔴 +2 | 1,347 |
+| 79 | **Monique Billings** 🔴 +3 | 1,348 |
 | 80 | Jewell Loyd | 1,336 |
 | 81 | Elena Baranova | 1,335 |
 | 82 | Brionna Jones | 1,333 |
@@ -1629,9 +1629,9 @@ _Last updated: 2026-05-17 22:40 UTC_
 | 173 | Adrian Williams-Strong | 497 |
 | 173 | Essence Carson | 497 |
 | 175 | Karima Christmas-Kelly | 494 |
-| 176 | Ann Wauters | 493 |
-| 176 | **Myisha Hines-Allen** 🔴 | 493 |
-| 176 | Riquna Williams | 493 |
+| 175 | **Myisha Hines-Allen** 🔴 +1 | 494 |
+| 177 | Ann Wauters | 493 |
+| 177 | Riquna Williams | 493 |
 | 179 | Charde Houston | 487 |
 | 180 | Lindsey Harding | 486 |
 | 181 | Cathrine Kraayeveld | 484 |
