@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-17 23:42 UTC_
+_Last updated: 2026-05-17 23:43 UTC_
 
 ## Contents
 
@@ -119,7 +119,7 @@ _Last updated: 2026-05-17 23:42 UTC_
 | 98 | **Marina Mabrey** 🔴 +6 | 2,900 |
 | 99 | Natalie Williams | 2,894 |
 | 100 | Jennifer Gillom | 2,888 |
-| 101 | **Natasha Cloud** 🔴 +2 | 2,865 |
+| 101 | **Natasha Cloud** 🔴 +4 | 2,867 |
 | 102 | Iziane Castro Marques | 2,862 |
 | 103 | **Elizabeth Williams** 🔴 +2 | 2,843 |
 | 104 | Alysha Clark | 2,787 |
@@ -211,7 +211,7 @@ _Last updated: 2026-05-17 23:42 UTC_
 | 190 | Nikki Teasley | 1,690 |
 | 191 | NaLyssa Smith | 1,689 |
 | 192 | Shenise Johnson | 1,688 |
-| 193 | **Sophie Cunningham** 🔴 +12 | 1,678 |
+| 193 | **Sophie Cunningham** 🔴 +15 | 1,681 |
 | 194 | Gabby Williams | 1,597 |
 | 195 | Janell Burse | 1,580 |
 | 196 | Le'coe Willingham | 1,552 |
@@ -269,7 +269,7 @@ _Last updated: 2026-05-17 23:42 UTC_
 | 43 | Kiah Stokes | 1,746 |
 | 44 | Teaira McCowan | 1,670 |
 | 45 | Monique Currie | 1,666 |
-| 46 | **Stefanie Dolson** 🔴 +3 | 1,658 |
+| 46 | **Stefanie Dolson** 🔴 +4 | 1,659 |
 | 47 | Glory Johnson | 1,640 |
 | 48 | Vickie Johnson | 1,634 |
 | 49 | Kia Vaughn | 1,626 |
@@ -457,7 +457,7 @@ _Last updated: 2026-05-17 23:42 UTC_
 | 26 | Vickie Johnson | 1,202 |
 | 27 | Odyssey Sims | 1,201 |
 | 28 | Leilani Mitchell | 1,197 |
-| 29 | **Kelsey Plum** 🔴 | 1,193 |
+| 29 | **Kelsey Plum** 🔴 +1 | 1,194 |
 | 30 | DeWanna Bonner | 1,176 |
 | 31 | Jordin Canada | 1,144 |
 | 32 | Renee Montgomery | 1,140 |
@@ -498,8 +498,8 @@ _Last updated: 2026-05-17 23:42 UTC_
 | 67 | **Brittney Sykes** 🔴 | 816 |
 | 68 | Andrea Stinson | 810 |
 | 69 | Tina Thompson | 803 |
-| 70 | Epiphanny Prince | 800 |
-| 70 | **Kelsey Mitchell** 🔴 +1 | 800 |
+| 70 | **Kelsey Mitchell** 🔴 +2 | 801 |
+| 71 | Epiphanny Prince | 800 |
 | 72 | Mwadi Mabika | 774 |
 | 73 | Sheri Sam | 745 |
 | 74 | **Marina Mabrey** 🔴 +2 | 740 |
@@ -664,7 +664,7 @@ _Last updated: 2026-05-17 23:42 UTC_
 | 28 | Elena Baranova | 320 |
 | 29 | Kiah Stokes | 319 |
 | 30 | Candice Dupree | 316 |
-| 31 | **Stefanie Dolson** 🔴 | 306 |
+| 31 | **Stefanie Dolson** 🔴 +1 | 307 |
 | 32 | Vicky Bullett | 288 |
 | 33 | Rebekkah Brunson | 281 |
 | 34 | Liz Cambage | 264 |
@@ -1113,8 +1113,8 @@ _Last updated: 2026-05-17 23:42 UTC_
 | 66 | Jackie Young | 311 |
 | 66 | Tan White | 311 |
 | 68 | Kedra Holland-Corn | 307 |
-| 69 | Kelly Miller | 305 |
-| 69 | **Sophie Cunningham** 🔴 | 305 |
+| 69 | **Sophie Cunningham** 🔴 +1 | 306 |
+| 70 | Kelly Miller | 305 |
 | 71 | Nikki Teasley | 304 |
 | 72 | Vickie Johnson | 295 |
 | 73 | Seimone Augustus | 293 |
@@ -1156,7 +1156,7 @@ _Last updated: 2026-05-17 23:42 UTC_
 | 109 | Betnijah Laney-Hamilton | 197 |
 | 109 | Temeka Johnson | 197 |
 | 109 | Tina Charles | 197 |
-| 112 | **Lexie Brown** 🔴 | 194 |
+| 112 | **Lexie Brown** 🔴 +1 | 195 |
 | 113 | Lindsay Whalen | 193 |
 | 114 | Victoria Vivians | 192 |
 | 115 | Danielle Adams | 188 |
