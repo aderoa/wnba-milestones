@@ -2,6 +2,11 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-17 19:53 UTC
+
+- **A'ja Wilson** passed **Elena Baranova** and **Jantel Lavender** for **#123** all-time in turnovers (career 445) — up from #125 entering today — _36.5 - 4th — LV @ ATL_
+- **Jordin Canada** passed **Ariel Atkins** for **#58** all-time in steals (career 366) — up from #61 entering today — _36.5 - 4th — LV @ ATL_
+
 ## 2026-05-17 19:50 UTC
 
 - **A'ja Wilson** passed **Candice Wiggins**, **Epiphanny Prince**, and **Marina Mabrey** for **#147** all-time in fouls (career 526) — up from #151 entering today — _59.9 - 4th — LV @ ATL_

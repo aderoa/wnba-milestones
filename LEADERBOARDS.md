@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-17 19:52 UTC_
+_Last updated: 2026-05-17 19:53 UTC_
 
 ## Contents
 
@@ -170,7 +170,7 @@ _Last updated: 2026-05-17 19:52 UTC_
 | 149 | Layshia Clarendon | 2,168 |
 | 150 | Satou Sabally | 2,161 |
 | 151 | Murriel Page | 2,146 |
-| 152 | **Jordin Canada** 🔴 +9 | 2,141 |
+| 152 | **Jordin Canada** 🔴 +11 | 2,143 |
 | 153 | Marissa Coleman | 2,140 |
 | 154 | Tari Phillips | 2,134 |
 | 155 | Cheryl Ford | 2,116 |
@@ -322,7 +322,7 @@ _Last updated: 2026-05-17 19:52 UTC_
 | 96 | **Brianna Turner** 🔴 +1 | 1,215 |
 | 97 | Myisha Hines-Allen | 1,208 |
 | 98 | DeMya Walker | 1,199 |
-| 99 | **Chelsea Gray** 🔴 +6 | 1,194 |
+| 99 | **Chelsea Gray** 🔴 +5 | 1,193 |
 | 100 | Latasha Byears | 1,190 |
 | 100 | Tanisha Wright | 1,190 |
 | 102 | Vicky Bullett | 1,189 |
@@ -896,8 +896,8 @@ _Last updated: 2026-05-17 19:52 UTC_
 | 54 | Tiffany Hayes | 378 |
 | 56 | Chamique Holdsclaw | 376 |
 | 57 | Mwadi Mabika | 370 |
-| 58 | Ariel Atkins | 365 |
-| 58 | **Jordin Canada** 🔴 +6 | 365 |
+| 58 | **Jordin Canada** 🔴 +7 | 366 |
+| 59 | Ariel Atkins | 365 |
 | 60 | Lauren Jackson | 360 |
 | 60 | Tan White | 360 |
 | 62 | Vickie Johnson | 357 |
@@ -1371,9 +1371,9 @@ _Last updated: 2026-05-17 19:52 UTC_
 | 120 | Kia Vaughn | 454 |
 | 121 | Janeth Arcain | 453 |
 | 122 | **Allisha Gray** 🔴 +1 | 450 |
-| 123 | **A'ja Wilson** 🔴 +3 | 444 |
-| 123 | Elena Baranova | 444 |
-| 123 | Jantel Lavender | 444 |
+| 123 | **A'ja Wilson** 🔴 +4 | 445 |
+| 124 | Elena Baranova | 444 |
+| 124 | Jantel Lavender | 444 |
 | 126 | Ann Wauters | 440 |
 | 127 | Tiffany Mitchell | 439 |
 | 128 | Kedra Holland-Corn | 438 |

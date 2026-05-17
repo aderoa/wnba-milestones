@@ -1,5 +1,30 @@
 [
   {
+    "ts": "2026-05-17T19:53:00+00:00",
+    "text": "A'ja Wilson passed Elena Baranova and Jantel Lavender for #123 all-time in turnovers (career 445) \u2014 up from #125 entering today \u2014 (36.5 - 4th \u2014 LV @ ATL)",
+    "kind": "rank_pass",
+    "player": "A'ja Wilson",
+    "stat": "turnovers",
+    "rank": 123,
+    "passed_players": [
+      "Elena Baranova",
+      "Jantel Lavender"
+    ],
+    "new_total": 445
+  },
+  {
+    "ts": "2026-05-17T19:53:00+00:00",
+    "text": "Jordin Canada passed Ariel Atkins for #58 all-time in steals (career 366) \u2014 up from #61 entering today \u2014 (36.5 - 4th \u2014 LV @ ATL)",
+    "kind": "rank_pass",
+    "player": "Jordin Canada",
+    "stat": "steals",
+    "rank": 58,
+    "passed_players": [
+      "Ariel Atkins"
+    ],
+    "new_total": 366
+  },
+  {
     "ts": "2026-05-17T19:50:00+00:00",
     "text": "A'ja Wilson passed Candice Wiggins, Epiphanny Prince, and Marina Mabrey for #147 all-time in fouls (career 526) \u2014 up from #151 entering today \u2014 (59.9 - 4th \u2014 LV @ ATL)",
     "kind": "rank_pass",
@@ -2966,26 +2991,5 @@
       "Belinda Snell"
     ],
     "new_total": 109
-  },
-  {
-    "ts": "2026-05-10T01:34:00+00:00",
-    "text": "Maya Caldwell reached 100 career turnovers (now 100) \u2014 (16.5 - 3rd \u2014 ATL @ MIN)",
-    "kind": "round",
-    "player": "Maya Caldwell",
-    "stat": "turnovers",
-    "value": 100,
-    "new_total": 100
-  },
-  {
-    "ts": "2026-05-10T01:33:00+00:00",
-    "text": "Rachel Banham passed Bridget Pettis for #199 all-time in turnovers (career 285) \u2014 up from #200 entering today \u2014 (7:09 - 2nd \u2014 CHI @ POR)",
-    "kind": "rank_pass",
-    "player": "Rachel Banham",
-    "stat": "turnovers",
-    "rank": 199,
-    "passed_players": [
-      "Bridget Pettis"
-    ],
-    "new_total": 285
   }
 ]
