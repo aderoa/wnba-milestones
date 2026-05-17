@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-17 19:18 UTC_
+_Last updated: 2026-05-17 19:19 UTC_
 
 ## Contents
 
@@ -1359,8 +1359,8 @@ _Last updated: 2026-05-17 19:18 UTC_
 | 108 | Tamera Young | 501 |
 | 109 | Nikki Teasley | 493 |
 | 109 | Tari Phillips | 493 |
-| 111 | Janel McCarville | 491 |
-| 111 | **Jordin Canada** 🔴 +2 | 491 |
+| 111 | **Jordin Canada** 🔴 +3 | 492 |
+| 112 | Janel McCarville | 491 |
 | 113 | Marina Mabrey | 487 |
 | 114 | Erika de Souza | 483 |
 | 115 | Sophia Young-Malcolm | 482 |
