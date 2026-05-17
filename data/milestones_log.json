@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-17T17:54:00+00:00",
+    "text": "Stephanie Talbot passed Epiphanny Prince for #178 all-time in blocks (career 75) \u2014 up from #179 entering today \u2014 (4:48 - 1st \u2014 LV @ ATL)",
+    "kind": "rank_pass",
+    "player": "Stephanie Talbot",
+    "stat": "blocks",
+    "rank": 178,
+    "passed_players": [
+      "Epiphanny Prince"
+    ],
+    "new_total": 75
+  },
+  {
     "ts": "2026-05-16T04:30:00+00:00",
     "text": "Kahleah Copper passed Iziane Castro Marques and Tiffany Mitchell for #158 all-time in steals (career 210) \u2014 up from #162 entering today \u2014 (Final \u2014 CHI @ PHX)",
     "kind": "rank_pass",
@@ -2967,18 +2979,5 @@
       "Emma Meesseman"
     ],
     "new_total": 1351
-  },
-  {
-    "ts": "2026-05-10T01:12:00+00:00",
-    "text": "Nia Coffey passed Ann Wauters and Sue Wicks for #75 all-time in blocks (career 154) \u2014 up from #79 entering today \u2014 (8:58 - 3rd \u2014 ATL @ MIN)",
-    "kind": "rank_pass",
-    "player": "Nia Coffey",
-    "stat": "blocks",
-    "rank": 75,
-    "passed_players": [
-      "Ann Wauters",
-      "Sue Wicks"
-    ],
-    "new_total": 154
   }
 ]

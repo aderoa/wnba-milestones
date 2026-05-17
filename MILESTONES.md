@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-17 17:54 UTC
+
+- **Stephanie Talbot** passed **Epiphanny Prince** for **#178** all-time in blocks (career 75) — up from #179 entering today — _4:48 - 1st — LV @ ATL_
+
 ## 2026-05-16 04:30 UTC
 
 - **Kahleah Copper** passed **Iziane Castro Marques** and **Tiffany Mitchell** for **#158** all-time in steals (career 210) — up from #162 entering today — _Final — CHI @ PHX_

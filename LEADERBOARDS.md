@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-17 17:53 UTC_
+_Last updated: 2026-05-17 17:54 UTC_
 
 ## Contents
 
@@ -810,9 +810,9 @@ _Last updated: 2026-05-17 17:53 UTC_
 | 171 | Tiffany Jackson | 76 |
 | 175 | Karima Christmas-Kelly | 75 |
 | 175 | Kelsey Griffin | 75 |
+| 175 | **Stephanie Talbot** 🔴 +1 | 75 |
 | 175 | Tianna Hawkins | 75 |
-| 178 | Epiphanny Prince | 74 |
-| 178 | **Stephanie Talbot** 🔴 | 74 |
+| 179 | Epiphanny Prince | 74 |
 | 180 | Ayana Walker | 73 |
 | 180 | Lindsay Wisdom-Hylton | 73 |
 | 182 | Cappie Pondexter | 72 |
