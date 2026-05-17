@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-17 19:25 UTC_
+_Last updated: 2026-05-17 19:26 UTC_
 
 ## Contents
 
@@ -210,7 +210,7 @@ _Last updated: 2026-05-17 19:25 UTC_
 | 189 | Armintie Herrington | 1,696 |
 | 190 | Nikki Teasley | 1,690 |
 | 191 | Shenise Johnson | 1,688 |
-| 192 | **NaLyssa Smith** 🔴 +8 | 1,684 |
+| 192 | **NaLyssa Smith** 🔴 +10 | 1,686 |
 | 193 | Sophie Cunningham | 1,666 |
 | 194 | Gabby Williams | 1,597 |
 | 195 | Janell Burse | 1,580 |
@@ -341,7 +341,7 @@ _Last updated: 2026-05-17 19:25 UTC_
 | 115 | Ann Wauters | 1,105 |
 | 116 | Natasha Cloud | 1,080 |
 | 117 | Svetlana Abrosimova | 1,078 |
-| 118 | **NaLyssa Smith** 🔴 +4 | 1,058 |
+| 118 | **NaLyssa Smith** 🔴 +5 | 1,059 |
 | 119 | Le'coe Willingham | 1,054 |
 | 120 | Aliyah Boston | 1,051 |
 | 121 | Isabelle Harrison | 1,049 |
@@ -470,7 +470,7 @@ _Last updated: 2026-05-17 19:25 UTC_
 | 39 | Penny Taylor | 1,049 |
 | 40 | Dominique Canty | 1,042 |
 | 41 | Sheryl Swoopes | 1,037 |
-| 42 | **Jackie Young** 🔴 +5 | 1,034 |
+| 42 | **Jackie Young** 🔴 +6 | 1,035 |
 | 43 | Tina Charles | 1,033 |
 | 44 | Nikki Teasley | 982 |
 | 45 | Tamecka Dixon | 960 |
@@ -1359,8 +1359,8 @@ _Last updated: 2026-05-17 19:25 UTC_
 | 108 | Tamera Young | 501 |
 | 109 | Nikki Teasley | 493 |
 | 109 | Tari Phillips | 493 |
-| 111 | **Jordin Canada** 🔴 +3 | 492 |
-| 112 | Janel McCarville | 491 |
+| 111 | Janel McCarville | 491 |
+| 111 | **Jordin Canada** 🔴 +2 | 491 |
 | 113 | Marina Mabrey | 487 |
 | 114 | Erika de Souza | 483 |
 | 115 | Sophia Young-Malcolm | 482 |
