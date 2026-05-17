@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-17 18:16 UTC_
+_Last updated: 2026-05-17 18:17 UTC_
 
 ## Contents
 
@@ -61,7 +61,7 @@ _Last updated: 2026-05-17 18:16 UTC_
 | 40 | Arike Ogunbowale | 4,464 |
 | 41 | Crystal Langhorne | 4,433 |
 | 41 | Jia Perkins | 4,433 |
-| 43 | **Chelsea Gray** 🔴 +10 | 4,419 |
+| 43 | **Chelsea Gray** 🔴 +13 | 4,422 |
 | 44 | Natasha Howard | 4,367 |
 | 45 | Courtney Vandersloot | 4,352 |
 | 46 | Sophia Young-Malcolm | 4,300 |
@@ -319,7 +319,7 @@ _Last updated: 2026-05-17 18:16 UTC_
 | 93 | Tiffany Hayes | 1,233 |
 | 94 | Seimone Augustus | 1,228 |
 | 95 | Jia Perkins | 1,220 |
-| 96 | **Brianna Turner** 🔴 | 1,214 |
+| 96 | **Brianna Turner** 🔴 +1 | 1,215 |
 | 97 | Myisha Hines-Allen | 1,208 |
 | 98 | DeMya Walker | 1,199 |
 | 99 | Latasha Byears | 1,190 |
@@ -471,7 +471,7 @@ _Last updated: 2026-05-17 18:16 UTC_
 | 40 | Dominique Canty | 1,042 |
 | 41 | Sheryl Swoopes | 1,037 |
 | 42 | Tina Charles | 1,033 |
-| 43 | **Jackie Young** 🔴 +2 | 1,031 |
+| 43 | **Jackie Young** 🔴 +3 | 1,032 |
 | 44 | Nikki Teasley | 982 |
 | 45 | Tamecka Dixon | 960 |
 | 46 | Kara Lawson | 946 |
@@ -872,7 +872,7 @@ _Last updated: 2026-05-17 18:16 UTC_
 | 31 | Tina Thompson | 452 |
 | 32 | Maya Moore | 449 |
 | 33 | Skylar Diggins | 445 |
-| 34 | **Jewell Loyd** 🔴 | 441 |
+| 34 | **Jewell Loyd** 🔴 +1 | 442 |
 | 35 | Sheri Sam | 438 |
 | 36 | Camille Smith | 437 |
 | 37 | **Chelsea Gray** 🔴 | 436 |
@@ -1079,7 +1079,7 @@ _Last updated: 2026-05-17 18:16 UTC_
 | 33 | Crystal Robinson | 425 |
 | 33 | Skylar Diggins | 425 |
 | 35 | Mwadi Mabika | 415 |
-| 36 | **Chelsea Gray** 🔴 +2 | 412 |
+| 36 | **Chelsea Gray** 🔴 +3 | 413 |
 | 37 | Penny Taylor | 407 |
 | 37 | Riquna Williams | 407 |
 | 39 | Jia Perkins | 396 |
@@ -1360,7 +1360,7 @@ _Last updated: 2026-05-17 18:16 UTC_
 | 109 | Nikki Teasley | 493 |
 | 109 | Tari Phillips | 493 |
 | 111 | Janel McCarville | 491 |
-| 112 | **Jordin Canada** 🔴 +1 | 490 |
+| 111 | **Jordin Canada** 🔴 +2 | 491 |
 | 113 | Marina Mabrey | 487 |
 | 114 | Erika de Souza | 483 |
 | 115 | Sophia Young-Malcolm | 482 |
