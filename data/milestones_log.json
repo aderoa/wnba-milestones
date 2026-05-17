@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-05-17T23:46:00+00:00",
+    "text": "Kamilla Cardoso passed Imani McGee-Stafford and Isabelle Harrison for #135 all-time in blocks (career 96) \u2014 up from #138 entering today \u2014 (2:14 - 2nd \u2014 CHI @ MIN)",
+    "kind": "rank_pass",
+    "player": "Kamilla Cardoso",
+    "stat": "blocks",
+    "rank": 135,
+    "passed_players": [
+      "Imani McGee-Stafford",
+      "Isabelle Harrison"
+    ],
+    "new_total": 96
+  },
+  {
     "ts": "2026-05-17T23:44:00+00:00",
     "text": "Sophie Cunningham reached 200 career turnovers (now 200) \u2014 (1:18 - 3rd \u2014 SEA @ IND)",
     "kind": "round",
@@ -2979,17 +2992,5 @@
     "stat": "points",
     "value": 5500,
     "new_total": 5500
-  },
-  {
-    "ts": "2026-05-10T01:40:00+00:00",
-    "text": "Isabelle Harrison passed Cathrine Kraayeveld for #181 all-time in fouls (career 486) \u2014 up from #182 entering today \u2014 (3:00 - 2nd \u2014 CHI @ POR)",
-    "kind": "rank_pass",
-    "player": "Isabelle Harrison",
-    "stat": "fouls",
-    "rank": 181,
-    "passed_players": [
-      "Cathrine Kraayeveld"
-    ],
-    "new_total": 486
   }
 ]

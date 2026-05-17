@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-17 23:45 UTC_
+_Last updated: 2026-05-17 23:46 UTC_
 
 ## Contents
 
@@ -75,7 +75,7 @@ _Last updated: 2026-05-17 23:45 UTC_
 | 54 | **Dearica Hamby** 🔴 +9 | 4,099 |
 | 55 | Jonquel Jones | 4,096 |
 | 56 | Kahleah Copper | 4,083 |
-| 57 | **Courtney Williams** 🔴 +5 | 4,066 |
+| 57 | **Courtney Williams** 🔴 +7 | 4,068 |
 | 58 | Asjha Jones | 3,986 |
 | 59 | Deanna Nolan | 3,971 |
 | 60 | Nykesha Sales | 3,931 |
@@ -119,7 +119,7 @@ _Last updated: 2026-05-17 23:45 UTC_
 | 98 | **Marina Mabrey** 🔴 +6 | 2,900 |
 | 99 | Natalie Williams | 2,894 |
 | 100 | Jennifer Gillom | 2,888 |
-| 101 | **Natasha Cloud** 🔴 +4 | 2,867 |
+| 101 | **Natasha Cloud** 🔴 +6 | 2,869 |
 | 102 | Iziane Castro Marques | 2,862 |
 | 103 | **Elizabeth Williams** 🔴 +2 | 2,843 |
 | 104 | Alysha Clark | 2,787 |
@@ -269,7 +269,7 @@ _Last updated: 2026-05-17 23:45 UTC_
 | 43 | Kiah Stokes | 1,746 |
 | 44 | Teaira McCowan | 1,670 |
 | 45 | Monique Currie | 1,666 |
-| 46 | **Stefanie Dolson** 🔴 +4 | 1,659 |
+| 46 | **Stefanie Dolson** 🔴 +5 | 1,660 |
 | 47 | Glory Johnson | 1,640 |
 | 48 | Vickie Johnson | 1,634 |
 | 49 | Kia Vaughn | 1,626 |
@@ -565,8 +565,8 @@ _Last updated: 2026-05-17 23:45 UTC_
 | 134 | Janeth Arcain | 469 |
 | 135 | Kahleah Copper | 463 |
 | 136 | Erin Phillips | 462 |
+| 137 | **Caitlin Clark** 🔴 +9 | 461 |
 | 137 | Sylvia Fowles | 461 |
-| 138 | **Caitlin Clark** 🔴 +8 | 460 |
 | 139 | Sydney Colson | 454 |
 | 140 | **Elizabeth Williams** 🔴 | 452 |
 | 141 | Satou Sabally | 451 |
@@ -723,9 +723,9 @@ _Last updated: 2026-05-17 23:45 UTC_
 | 85 | Seimone Augustus | 133 |
 | 88 | Katie Mattera | 131 |
 | 88 | Nakia Sanford | 131 |
-| 90 | **Brittney Sykes** 🔴 | 129 |
-| 90 | Brooke Wyckoff | 129 |
-| 90 | Cathrine Kraayeveld | 129 |
+| 90 | **Brittney Sykes** 🔴 +1 | 130 |
+| 91 | Brooke Wyckoff | 129 |
+| 91 | Cathrine Kraayeveld | 129 |
 | 93 | Chiney Ogwumike | 127 |
 | 93 | Kristen Rasmussen | 127 |
 | 95 | Katie Douglas | 126 |
@@ -767,10 +767,10 @@ _Last updated: 2026-05-17 23:45 UTC_
 | 130 | Natalie Achonwa | 98 |
 | 132 | Rhyne Howard | 97 |
 | 133 | Aneika Morello | 96 |
+| 133 | **Kamilla Cardoso** 🔴 +3 | 96 |
 | 133 | Tiffani Johnson | 96 |
-| 135 | Imani McGee-Stafford | 95 |
-| 135 | Isabelle Harrison | 95 |
-| 135 | **Kamilla Cardoso** 🔴 +2 | 95 |
+| 136 | Imani McGee-Stafford | 95 |
+| 136 | Isabelle Harrison | 95 |
 | 138 | Sandrine Gruda | 94 |
 | 139 | Emily Engstler | 92 |
 | 140 | Jasmine Thomas | 91 |
