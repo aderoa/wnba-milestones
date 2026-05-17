@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-17 23:36 UTC_
+_Last updated: 2026-05-17 23:37 UTC_
 
 ## Contents
 
@@ -44,7 +44,7 @@ _Last updated: 2026-05-17 23:36 UTC_
 | 23 | Katie Douglas | 5,545 |
 | 24 | Lindsay Whalen | 5,511 |
 | 25 | Skylar Diggins | 5,489 |
-| 26 | **Kayla McBride** 🔴 +7 | 5,396 |
+| 26 | **Kayla McBride** 🔴 +9 | 5,398 |
 | 27 | Swin Cash | 5,119 |
 | 28 | Tangela Smith | 5,035 |
 | 29 | Taj McWilliams-Franklin | 4,992 |
@@ -1443,7 +1443,7 @@ _Last updated: 2026-05-17 23:36 UTC_
 | 190 | **Monique Billings** 🔴 | 300 |
 | 192 | Crystal Robinson | 299 |
 | 193 | Michele Timms | 297 |
-| 194 | **Caitlin Clark** 🔴 +3 | 292 |
+| 194 | **Caitlin Clark** 🔴 +4 | 293 |
 | 195 | Alexis Hornbuckle | 288 |
 | 195 | Kayla Thornton | 288 |
 | 195 | Kristen Rasmussen | 288 |
@@ -1651,7 +1651,7 @@ _Last updated: 2026-05-17 23:36 UTC_
 | 194 | Natalie Achonwa | 459 |
 | 195 | Kara Lawson | 457 |
 | 196 | Alexis Hornbuckle | 450 |
-| 197 | **Nia Coffey** 🔴 +1 | 449 |
+| 196 | **Nia Coffey** 🔴 +2 | 450 |
 | 198 | Bria Hartley | 448 |
 | 199 | Diamond DeShields | 445 |
 | 199 | Sugar Rodgers | 445 |
