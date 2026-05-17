@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-17 17:56 UTC_
+_Last updated: 2026-05-17 17:57 UTC_
 
 ## Contents
 
@@ -341,8 +341,8 @@ _Last updated: 2026-05-17 17:56 UTC_
 | 115 | Ann Wauters | 1,105 |
 | 116 | Natasha Cloud | 1,080 |
 | 117 | Svetlana Abrosimova | 1,078 |
-| 118 | Le'coe Willingham | 1,054 |
-| 118 | **NaLyssa Smith** 🔴 | 1,054 |
+| 118 | **NaLyssa Smith** 🔴 +1 | 1,055 |
+| 119 | Le'coe Willingham | 1,054 |
 | 120 | Aliyah Boston | 1,051 |
 | 121 | Isabelle Harrison | 1,049 |
 | 122 | Nicole Ohlde | 1,040 |
@@ -383,7 +383,7 @@ _Last updated: 2026-05-17 17:56 UTC_
 | 157 | Essence Carson | 833 |
 | 158 | Kristi Toliver | 829 |
 | 159 | Marie Ferdinand-Harris | 828 |
-| 160 | **Angel Reese** 🔴 | 823 |
+| 160 | **Angel Reese** 🔴 +1 | 824 |
 | 161 | Marlies Askamp | 822 |
 | 162 | Amanda Zahui B | 819 |
 | 162 | Barbara Farris | 819 |
@@ -779,10 +779,10 @@ _Last updated: 2026-05-17 17:56 UTC_
 | 143 | Allie Quigley | 90 |
 | 144 | Alysha Clark | 89 |
 | 145 | Marissa Coleman | 88 |
-| 146 | **NaLyssa Smith** 🔴 +1 | 87 |
 | 146 | Tiffany Hayes | 87 |
-| 148 | Astou Ndiaye-Diatta | 86 |
-| 148 | Kayla Thornton | 86 |
+| 147 | Astou Ndiaye-Diatta | 86 |
+| 147 | Kayla Thornton | 86 |
+| 147 | **NaLyssa Smith** 🔴 | 86 |
 | 150 | Adrian Williams-Strong | 85 |
 | 150 | Erlana Larkins | 85 |
 | 150 | Kalani Brown | 85 |
