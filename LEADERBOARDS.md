@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-17 23:33 UTC_
+_Last updated: 2026-05-17 23:34 UTC_
 
 ## Contents
 
@@ -44,7 +44,7 @@ _Last updated: 2026-05-17 23:33 UTC_
 | 23 | Katie Douglas | 5,545 |
 | 24 | Lindsay Whalen | 5,511 |
 | 25 | Skylar Diggins | 5,489 |
-| 26 | **Kayla McBride** 🔴 +4 | 5,393 |
+| 26 | **Kayla McBride** 🔴 +7 | 5,396 |
 | 27 | Swin Cash | 5,119 |
 | 28 | Tangela Smith | 5,035 |
 | 29 | Taj McWilliams-Franklin | 4,992 |
@@ -72,10 +72,10 @@ _Last updated: 2026-05-17 23:33 UTC_
 | 51 | **Kelsey Plum** 🔴 +8 | 4,215 |
 | 52 | Allisha Gray | 4,182 |
 | 53 | Rebekkah Brunson | 4,133 |
-| 54 | Jonquel Jones | 4,096 |
-| 55 | **Dearica Hamby** 🔴 +5 | 4,095 |
+| 54 | **Dearica Hamby** 🔴 +7 | 4,097 |
+| 55 | Jonquel Jones | 4,096 |
 | 56 | Kahleah Copper | 4,083 |
-| 57 | **Courtney Williams** 🔴 +2 | 4,063 |
+| 57 | **Courtney Williams** 🔴 +5 | 4,066 |
 | 58 | Asjha Jones | 3,986 |
 | 59 | Deanna Nolan | 3,971 |
 | 60 | Nykesha Sales | 3,931 |
@@ -230,7 +230,7 @@ _Last updated: 2026-05-17 23:33 UTC_
 | 4 | Rebekkah Brunson | 3,345 |
 | 5 | Tamika Catchings | 3,313 |
 | 6 | Lisa Leslie | 3,303 |
-| 7 | **Nneka Ogwumike** 🔴 +2 | 3,270 |
+| 7 | **Nneka Ogwumike** 🔴 +3 | 3,271 |
 | 8 | DeWanna Bonner | 3,203 |
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
@@ -251,7 +251,7 @@ _Last updated: 2026-05-17 23:33 UTC_
 | 25 | **Dearica Hamby** 🔴 +4 | 2,321 |
 | 26 | Erika de Souza | 2,220 |
 | 27 | Diana Taurasi | 2,201 |
-| 28 | **Natasha Howard** 🔴 +4 | 2,178 |
+| 28 | **Natasha Howard** 🔴 +5 | 2,179 |
 | 29 | Margo Dydek | 2,138 |
 | 30 | Chamique Holdsclaw | 2,123 |
 | 31 | Chasity Melvin | 2,097 |
@@ -446,7 +446,7 @@ _Last updated: 2026-05-17 23:33 UTC_
 | 15 | Shannon Johnson | 1,423 |
 | 15 | Tanisha Wright | 1,423 |
 | 17 | Temeka Johnson | 1,382 |
-| 18 | **Courtney Williams** 🔴 | 1,365 |
+| 18 | **Courtney Williams** 🔴 +1 | 1,366 |
 | 19 | Jasmine Thomas | 1,355 |
 | 20 | Briann January | 1,339 |
 | 21 | Dawn Staley | 1,337 |
@@ -538,7 +538,7 @@ _Last updated: 2026-05-17 23:33 UTC_
 | 107 | Betnijah Laney-Hamilton | 573 |
 | 108 | Napheesa Collier | 570 |
 | 109 | Nicole Powell | 567 |
-| 110 | **Natasha Howard** 🔴 +2 | 564 |
+| 110 | **Natasha Howard** 🔴 +4 | 566 |
 | 111 | Loree Moore | 562 |
 | 112 | Sophia Young-Malcolm | 554 |
 | 112 | Tangela Smith | 554 |
@@ -1051,7 +1051,7 @@ _Last updated: 2026-05-17 23:33 UTC_
 | 4 | Becky Hammon | 825 |
 | 5 | Tina Thompson | 745 |
 | 6 | Katie Douglas | 723 |
-| 7 | **Kayla McBride** 🔴 | 722 |
+| 6 | **Kayla McBride** 🔴 +1 | 723 |
 | 8 | **Kelsey Mitchell** 🔴 +1 | 670 |
 | 9 | Jewell Loyd | 669 |
 | 10 | DeWanna Bonner | 663 |
@@ -1129,9 +1129,9 @@ _Last updated: 2026-05-17 23:33 UTC_
 | 82 | **Stefanie Dolson** 🔴 | 267 |
 | 83 | Bridget Carleton | 262 |
 | 84 | Sophia Witherspoon | 260 |
+| 85 | **Courtney Williams** 🔴 +1 | 254 |
 | 85 | Dawn Staley | 254 |
-| 86 | Bria Hartley | 253 |
-| 86 | **Courtney Williams** 🔴 | 253 |
+| 87 | Bria Hartley | 253 |
 | 88 | Rebecca Allen | 252 |
 | 89 | Angel McCoughtry | 249 |
 | 90 | Erin Thorn | 243 |
@@ -1474,7 +1474,7 @@ _Last updated: 2026-05-17 23:33 UTC_
 | 17 | **Nneka Ogwumike** 🔴 +1 | 1,132 |
 | 18 | Tanisha Wright | 1,109 |
 | 19 | Michelle Snow | 1,108 |
-| 20 | **Natasha Howard** 🔴 +1 | 1,089 |
+| 20 | **Natasha Howard** 🔴 +2 | 1,090 |
 | 21 | **Stefanie Dolson** 🔴 +2 | 1,084 |
 | 22 | Sylvia Fowles | 1,049 |
 | 23 | Tina Charles | 1,037 |
@@ -1601,7 +1601,7 @@ _Last updated: 2026-05-17 23:33 UTC_
 | 144 | Marissa Coleman | 541 |
 | 145 | Kristen Rasmussen | 533 |
 | 146 | Amanda Zahui B | 530 |
-| 147 | **Marina Mabrey** 🔴 +2 | 527 |
+| 147 | **Marina Mabrey** 🔴 +3 | 528 |
 | 148 | A'ja Wilson | 526 |
 | 149 | Candice Wiggins | 525 |
 | 149 | Epiphanny Prince | 525 |
