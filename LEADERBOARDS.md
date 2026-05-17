@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-17 23:10 UTC_
+_Last updated: 2026-05-17 23:11 UTC_
 
 ## Contents
 
@@ -770,8 +770,8 @@ _Last updated: 2026-05-17 23:10 UTC_
 | 133 | Tiffani Johnson | 96 |
 | 135 | Imani McGee-Stafford | 95 |
 | 135 | Isabelle Harrison | 95 |
+| 137 | **Kamilla Cardoso** 🔴 +1 | 94 |
 | 137 | Sandrine Gruda | 94 |
-| 138 | **Kamilla Cardoso** 🔴 | 93 |
 | 139 | Emily Engstler | 92 |
 | 140 | Jasmine Thomas | 91 |
 | 140 | Jewell Loyd | 91 |
@@ -1279,7 +1279,7 @@ _Last updated: 2026-05-17 23:10 UTC_
 | 28 | Betty Lennox | 800 |
 | 29 | Jasmine Thomas | 796 |
 | 30 | Chamique Holdsclaw | 789 |
-| 31 | **Natasha Howard** 🔴 +1 | 785 |
+| 31 | **Natasha Howard** 🔴 | 784 |
 | 32 | Crystal Langhorne | 782 |
 | 32 | **Nneka Ogwumike** 🔴 | 782 |
 | 34 | Jewell Loyd | 780 |
@@ -1304,8 +1304,8 @@ _Last updated: 2026-05-17 23:10 UTC_
 | 53 | Tammy Sutton-Brown | 672 |
 | 54 | Deanna Nolan | 669 |
 | 55 | Chasity Melvin | 666 |
-| 56 | **Erica Wheeler** 🔴 | 665 |
-| 56 | **Natasha Cloud** 🔴 | 665 |
+| 55 | **Erica Wheeler** 🔴 +1 | 666 |
+| 57 | **Natasha Cloud** 🔴 | 665 |
 | 58 | Vickie Johnson | 660 |
 | 59 | **Dearica Hamby** 🔴 +1 | 658 |
 | 60 | Yolanda Griffith | 653 |
@@ -1519,7 +1519,7 @@ _Last updated: 2026-05-17 23:10 UTC_
 | 63 | Skylar Diggins | 790 |
 | 64 | Sue Bird | 775 |
 | 65 | Sheri Sam | 766 |
-| 66 | **Erica Wheeler** 🔴 | 758 |
+| 66 | **Erica Wheeler** 🔴 +1 | 759 |
 | 67 | Kia Vaughn | 755 |
 | 68 | Vickie Johnson | 752 |
 | 69 | Kara Braxton | 748 |
