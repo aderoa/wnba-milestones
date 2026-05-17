@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-17 18:01 UTC_
+_Last updated: 2026-05-17 18:02 UTC_
 
 ## Contents
 
@@ -300,8 +300,8 @@ _Last updated: 2026-05-17 18:01 UTC_
 | 74 | Ebony Hoffman | 1,376 |
 | 75 | Sheri Sam | 1,356 |
 | 76 | Tamika Whitmore | 1,355 |
+| 77 | **Allisha Gray** 🔴 +3 | 1,350 |
 | 77 | Emma Meesseman | 1,350 |
-| 78 | **Allisha Gray** 🔴 +2 | 1,349 |
 | 79 | Monique Billings | 1,345 |
 | 80 | Elena Baranova | 1,335 |
 | 81 | Brionna Jones | 1,333 |
@@ -401,7 +401,7 @@ _Last updated: 2026-05-17 18:01 UTC_
 | 175 | Tiffani Johnson | 778 |
 | 176 | Odyssey Sims | 776 |
 | 177 | Teresa Weatherspoon | 775 |
-| 178 | **Naz Hillmon** 🔴 | 773 |
+| 178 | **Naz Hillmon** 🔴 +1 | 774 |
 | 179 | Anna DeForge | 769 |
 | 179 | Kelsey Bone | 769 |
 | 179 | Tan White | 769 |
@@ -434,7 +434,7 @@ _Last updated: 2026-05-17 18:01 UTC_
 | 3 | Ticha Penicheiro | 2,588 |
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
-| 6 | **Chelsea Gray** 🔴 +1 | 1,871 |
+| 6 | **Chelsea Gray** 🔴 +2 | 1,872 |
 | 7 | Alyssa Thomas | 1,820 |
 | 8 | Skylar Diggins | 1,768 |
 | 9 | Natasha Cloud | 1,733 |
@@ -946,7 +946,7 @@ _Last updated: 2026-05-17 18:01 UTC_
 | 105 | Tari Phillips | 277 |
 | 106 | Emma Meesseman | 276 |
 | 106 | Erika de Souza | 276 |
-| 108 | **Jackie Young** 🔴 +1 | 272 |
+| 108 | **Jackie Young** 🔴 +2 | 273 |
 | 109 | Rita Williams | 271 |
 | 110 | Natalie Williams | 270 |
 | 110 | Nicky Anosike | 270 |
@@ -1360,7 +1360,7 @@ _Last updated: 2026-05-17 18:01 UTC_
 | 109 | Nikki Teasley | 493 |
 | 109 | Tari Phillips | 493 |
 | 111 | Janel McCarville | 491 |
-| 112 | **Jordin Canada** 🔴 | 489 |
+| 112 | **Jordin Canada** 🔴 +1 | 490 |
 | 113 | Marina Mabrey | 487 |
 | 114 | Erika de Souza | 483 |
 | 115 | Sophia Young-Malcolm | 482 |
@@ -1384,8 +1384,8 @@ _Last updated: 2026-05-17 18:01 UTC_
 | 133 | Jennifer Gillom | 434 |
 | 133 | Nicole Ohlde | 434 |
 | 135 | Murriel Page | 432 |
-| 136 | **Jackie Young** 🔴 | 424 |
-| 136 | Shameka Christon | 424 |
+| 136 | **Jackie Young** 🔴 +1 | 425 |
+| 137 | Shameka Christon | 424 |
 | 138 | Cynthia Cooper | 422 |
 | 138 | Napheesa Collier | 422 |
 | 138 | Noelle Quinn | 422 |
@@ -1534,7 +1534,7 @@ _Last updated: 2026-05-17 18:01 UTC_
 | 78 | Jia Perkins | 711 |
 | 79 | Helen Darling | 709 |
 | 80 | Elizabeth Williams | 708 |
-| 81 | **Allisha Gray** 🔴 | 706 |
+| 81 | **Allisha Gray** 🔴 +1 | 707 |
 | 82 | Matee Ajavon | 701 |
 | 82 | Nicole Powell | 701 |
 | 84 | Tan White | 698 |
