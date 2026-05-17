@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-17 19:33 UTC
+
+- **Jackie Young** passed **Awak Kuier**, **Crystal Robinson**, **Queen Egbo**, **Riquna Williams**, and **Sabrina Ionescu** for **#194** all-time in blocks (career 66) — up from #199 entering today — _5:48 - 4th — LV @ ATL_
+
 ## 2026-05-17 19:28 UTC
 
 - **NaLyssa Smith** passed **Shenise Johnson** for **#191** all-time in points (career 1,689) — up from #192 entering today — _8:36 - 4th — LV @ ATL_

@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-17 19:32 UTC_
+_Last updated: 2026-05-17 19:33 UTC_
 
 ## Contents
 
@@ -341,7 +341,7 @@ _Last updated: 2026-05-17 19:32 UTC_
 | 115 | Ann Wauters | 1,105 |
 | 116 | Natasha Cloud | 1,080 |
 | 117 | Svetlana Abrosimova | 1,078 |
-| 118 | **NaLyssa Smith** 🔴 +5 | 1,059 |
+| 118 | **NaLyssa Smith** 🔴 +6 | 1,060 |
 | 119 | Le'coe Willingham | 1,054 |
 | 120 | Aliyah Boston | 1,051 |
 | 121 | Isabelle Harrison | 1,049 |
@@ -827,12 +827,12 @@ _Last updated: 2026-05-17 19:32 UTC_
 | 189 | Rhonda Mapp | 69 |
 | 192 | Satou Sabally | 67 |
 | 192 | Shannon Johnson | 67 |
-| 194 | Awak Kuier | 65 |
-| 194 | Crystal Robinson | 65 |
-| 194 | **Jackie Young** 🔴 +1 | 65 |
-| 194 | Queen Egbo | 65 |
-| 194 | Riquna Williams | 65 |
-| 194 | Sabrina Ionescu | 65 |
+| 194 | **Jackie Young** 🔴 +2 | 66 |
+| 195 | Awak Kuier | 65 |
+| 195 | Crystal Robinson | 65 |
+| 195 | Queen Egbo | 65 |
+| 195 | Riquna Williams | 65 |
+| 195 | Sabrina Ionescu | 65 |
 | 200 | Eva Nemcova | 63 |
 
 ## Steals
@@ -897,7 +897,7 @@ _Last updated: 2026-05-17 19:32 UTC_
 | 56 | Chamique Holdsclaw | 376 |
 | 57 | Mwadi Mabika | 370 |
 | 58 | Ariel Atkins | 365 |
-| 59 | **Jordin Canada** 🔴 +5 | 364 |
+| 58 | **Jordin Canada** 🔴 +6 | 365 |
 | 60 | Lauren Jackson | 360 |
 | 60 | Tan White | 360 |
 | 62 | Vickie Johnson | 357 |
@@ -1384,7 +1384,7 @@ _Last updated: 2026-05-17 19:32 UTC_
 | 133 | Jennifer Gillom | 434 |
 | 133 | Nicole Ohlde | 434 |
 | 135 | Murriel Page | 432 |
-| 136 | **Jackie Young** 🔴 +1 | 425 |
+| 136 | **Jackie Young** 🔴 +2 | 426 |
 | 137 | Shameka Christon | 424 |
 | 138 | Cynthia Cooper | 422 |
 | 138 | Napheesa Collier | 422 |
