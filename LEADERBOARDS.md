@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-17 23:23 UTC_
+_Last updated: 2026-05-17 23:24 UTC_
 
 ## Contents
 
@@ -51,7 +51,7 @@ _Last updated: 2026-05-17 23:23 UTC_
 | 30 | Maya Moore | 4,984 |
 | 31 | Tiffany Hayes | 4,927 |
 | 32 | Sheryl Swoopes | 4,875 |
-| 33 | **Kelsey Mitchell** 🔴 +8 | 4,821 |
+| 33 | **Kelsey Mitchell** 🔴 +10 | 4,823 |
 | 34 | Alana Beard | 4,740 |
 | 35 | Chamique Holdsclaw | 4,713 |
 | 36 | Elena Delle Donne | 4,706 |
@@ -248,7 +248,7 @@ _Last updated: 2026-05-17 23:23 UTC_
 | 22 | Lauren Jackson | 2,444 |
 | 23 | Yolanda Griffith | 2,440 |
 | 24 | Tangela Smith | 2,328 |
-| 25 | **Dearica Hamby** 🔴 +1 | 2,318 |
+| 25 | **Dearica Hamby** 🔴 +2 | 2,319 |
 | 26 | Erika de Souza | 2,220 |
 | 27 | Diana Taurasi | 2,201 |
 | 28 | **Natasha Howard** 🔴 +4 | 2,178 |
@@ -257,7 +257,7 @@ _Last updated: 2026-05-17 23:23 UTC_
 | 31 | Chasity Melvin | 2,097 |
 | 32 | Tammy Sutton-Brown | 2,010 |
 | 33 | Cheryl Ford | 1,907 |
-| 34 | **Elizabeth Williams** 🔴 +2 | 1,906 |
+| 33 | **Elizabeth Williams** 🔴 +3 | 1,907 |
 | 35 | Plenette Pierson | 1,834 |
 | 36 | Natalie Williams | 1,832 |
 | 37 | Wendy Palmer | 1,824 |
@@ -509,7 +509,7 @@ _Last updated: 2026-05-17 23:23 UTC_
 | 78 | Chamique Holdsclaw | 698 |
 | 79 | Shavonte Zellous | 693 |
 | 80 | Allie Quigley | 690 |
-| 81 | **Dearica Hamby** 🔴 | 688 |
+| 81 | **Dearica Hamby** 🔴 +1 | 689 |
 | 82 | **Stefanie Dolson** 🔴 +1 | 687 |
 | 83 | Moriah Jefferson | 685 |
 | 84 | Emma Meesseman | 681 |
@@ -833,6 +833,7 @@ _Last updated: 2026-05-17 23:23 UTC_
 | 195 | Queen Egbo | 65 |
 | 195 | Riquna Williams | 65 |
 | 195 | Sabrina Ionescu | 65 |
+| 200 | **Cameron Brink** 🔴 +2 | 63 |
 | 200 | Eva Nemcova | 63 |
 
 ## Steals
@@ -1404,7 +1405,7 @@ _Last updated: 2026-05-17 23:23 UTC_
 | 153 | Kamila Vodichkova | 381 |
 | 154 | Jessica Breland | 378 |
 | 155 | Armintie Herrington | 377 |
-| 156 | **Elizabeth Williams** 🔴 | 376 |
+| 155 | **Elizabeth Williams** 🔴 +1 | 377 |
 | 157 | Anna DeForge | 374 |
 | 157 | Cheryl Ford | 374 |
 | 159 | Allison Feaster | 372 |
@@ -1519,7 +1520,7 @@ _Last updated: 2026-05-17 23:23 UTC_
 | 63 | Skylar Diggins | 790 |
 | 64 | Sue Bird | 775 |
 | 65 | Sheri Sam | 766 |
-| 66 | **Erica Wheeler** 🔴 +1 | 759 |
+| 66 | **Erica Wheeler** 🔴 +2 | 760 |
 | 67 | Kia Vaughn | 755 |
 | 68 | Vickie Johnson | 752 |
 | 69 | Kara Braxton | 748 |
