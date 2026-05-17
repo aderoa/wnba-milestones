@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-17 17:50 UTC_
+_Last updated: 2026-05-17 17:51 UTC_
 
 ## Contents
 
@@ -39,7 +39,7 @@ _Last updated: 2026-05-17 17:50 UTC_
 | 18 | Brittney Griner | 5,967 |
 | 19 | Becky Hammon | 5,816 |
 | 20 | Angel McCoughtry | 5,797 |
-| 21 | **A'ja Wilson** 🔴 +3 | 5,722 |
+| 21 | **A'ja Wilson** 🔴 +5 | 5,724 |
 | 22 | DeLisha Milton-Jones | 5,571 |
 | 23 | Katie Douglas | 5,545 |
 | 24 | Lindsay Whalen | 5,511 |
@@ -434,7 +434,7 @@ _Last updated: 2026-05-17 17:50 UTC_
 | 3 | Ticha Penicheiro | 2,588 |
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
-| 6 | **Chelsea Gray** 🔴 | 1,870 |
+| 6 | **Chelsea Gray** 🔴 +1 | 1,871 |
 | 7 | Alyssa Thomas | 1,820 |
 | 8 | Skylar Diggins | 1,768 |
 | 9 | Natasha Cloud | 1,733 |
@@ -710,9 +710,9 @@ _Last updated: 2026-05-17 17:50 UTC_
 | 73 | Tamika Whitmore | 155 |
 | 75 | Ann Wauters | 153 |
 | 75 | Sue Wicks | 153 |
-| 77 | **Allisha Gray** 🔴 | 151 |
-| 77 | Jessica Davenport | 151 |
-| 77 | Nia Coffey | 151 |
+| 77 | **Allisha Gray** 🔴 +1 | 152 |
+| 78 | Jessica Davenport | 151 |
+| 78 | Nia Coffey | 151 |
 | 80 | Alison Bales | 148 |
 | 81 | Chamique Holdsclaw | 143 |
 | 82 | Aliyah Boston | 140 |
@@ -946,8 +946,8 @@ _Last updated: 2026-05-17 17:50 UTC_
 | 105 | Tari Phillips | 277 |
 | 106 | Emma Meesseman | 276 |
 | 106 | Erika de Souza | 276 |
-| 108 | **Jackie Young** 🔴 | 271 |
-| 108 | Rita Williams | 271 |
+| 108 | **Jackie Young** 🔴 +1 | 272 |
+| 109 | Rita Williams | 271 |
 | 110 | Natalie Williams | 270 |
 | 110 | Nicky Anosike | 270 |
 | 112 | Crystal Robinson | 267 |
