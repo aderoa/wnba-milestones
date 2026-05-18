@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-18T01:14:00+00:00",
+    "text": "Kelsey Plum passed Tianna Hawkins for #98 all-time in fouls (career 663) \u2014 up from #100 entering today \u2014 (1:15 - 4th \u2014 TOR @ LA)",
+    "kind": "rank_pass",
+    "player": "Kelsey Plum",
+    "stat": "fouls",
+    "rank": 98,
+    "passed_players": [
+      "Tianna Hawkins"
+    ],
+    "new_total": 663
+  },
+  {
     "ts": "2026-05-18T00:53:00+00:00",
     "text": "Dearica Hamby passed Deanna Nolan for #49 all-time in steals (career 389) \u2014 up from #51 entering today \u2014 (7:58 - 4th \u2014 TOR @ LA)",
     "kind": "rank_pass",
@@ -2984,17 +2996,5 @@
       "Lindsey Harding"
     ],
     "new_total": 780
-  },
-  {
-    "ts": "2026-05-10T02:01:00+00:00",
-    "text": "Rhyne Howard passed Nikki Teasley for #156 all-time in steals (career 212) \u2014 up from #157 entering today \u2014 (2:05 - 4th \u2014 ATL @ MIN)",
-    "kind": "rank_pass",
-    "player": "Rhyne Howard",
-    "stat": "steals",
-    "rank": 156,
-    "passed_players": [
-      "Nikki Teasley"
-    ],
-    "new_total": 212
   }
 ]

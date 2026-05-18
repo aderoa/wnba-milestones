@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-18 01:13 UTC_
+_Last updated: 2026-05-18 01:14 UTC_
 
 ## Contents
 
@@ -93,7 +93,7 @@ _Last updated: 2026-05-18 01:13 UTC_
 | 72 | Tamecka Dixon | 3,507 |
 | 73 | Tammy Sutton-Brown | 3,498 |
 | 74 | Sancho Lyttle | 3,478 |
-| 75 | **Brittney Sykes** 🔴 +33 | 3,472 |
+| 75 | **Brittney Sykes** 🔴 +34 | 3,473 |
 | 76 | Ivory Latta | 3,447 |
 | 77 | Jackie Young | 3,412 |
 | 78 | Nicole Powell | 3,407 |
@@ -901,10 +901,10 @@ _Last updated: 2026-05-18 01:13 UTC_
 | 59 | Ariel Atkins | 365 |
 | 60 | Lauren Jackson | 360 |
 | 60 | Tan White | 360 |
+| 62 | **Brittney Sykes** 🔴 +3 | 357 |
 | 62 | Vickie Johnson | 357 |
-| 63 | **Brittney Sykes** 🔴 +2 | 356 |
-| 63 | Dominique Canty | 356 |
-| 63 | Renee Montgomery | 356 |
+| 64 | Dominique Canty | 356 |
+| 64 | Renee Montgomery | 356 |
 | 66 | Tamecka Dixon | 355 |
 | 67 | Vicky Bullett | 353 |
 | 68 | Svetlana Abrosimova | 352 |
@@ -1281,7 +1281,7 @@ _Last updated: 2026-05-18 01:13 UTC_
 | 29 | Jasmine Thomas | 796 |
 | 30 | Chamique Holdsclaw | 789 |
 | 31 | Natasha Howard | 787 |
-| 32 | **Nneka Ogwumike** 🔴 +1 | 783 |
+| 32 | **Nneka Ogwumike** 🔴 +2 | 784 |
 | 33 | Crystal Langhorne | 782 |
 | 34 | Jewell Loyd | 780 |
 | 35 | Camille Smith | 779 |
@@ -1552,8 +1552,8 @@ _Last updated: 2026-05-18 01:13 UTC_
 | 95 | Kelly Miller | 676 |
 | 96 | **Brittney Sykes** 🔴 +3 | 669 |
 | 97 | Chamique Holdsclaw | 667 |
-| 98 | **Kelsey Plum** 🔴 +4 | 662 |
-| 98 | Tianna Hawkins | 662 |
+| 98 | **Kelsey Plum** 🔴 +5 | 663 |
+| 99 | Tianna Hawkins | 662 |
 | 100 | Cheyenne Parker-Tyus | 661 |
 | 101 | Jewell Loyd | 648 |
 | 101 | Tari Phillips | 648 |
