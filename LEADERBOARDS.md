@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-18 00:22 UTC_
+_Last updated: 2026-05-18 00:23 UTC_
 
 ## Contents
 
@@ -75,7 +75,7 @@ _Last updated: 2026-05-18 00:22 UTC_
 | 54 | **Dearica Hamby** 🔴 +13 | 4,103 |
 | 55 | Jonquel Jones | 4,096 |
 | 56 | Kahleah Copper | 4,083 |
-| 57 | **Courtney Williams** 🔴 +9 | 4,070 |
+| 57 | **Courtney Williams** 🔴 +12 | 4,073 |
 | 58 | Asjha Jones | 3,986 |
 | 59 | Deanna Nolan | 3,971 |
 | 60 | Nykesha Sales | 3,931 |
@@ -93,7 +93,7 @@ _Last updated: 2026-05-18 00:22 UTC_
 | 72 | Tamecka Dixon | 3,507 |
 | 73 | Tammy Sutton-Brown | 3,498 |
 | 74 | Sancho Lyttle | 3,478 |
-| 75 | **Brittney Sykes** 🔴 +14 | 3,453 |
+| 75 | **Brittney Sykes** 🔴 +17 | 3,456 |
 | 76 | Ivory Latta | 3,447 |
 | 77 | Jackie Young | 3,412 |
 | 78 | Nicole Powell | 3,407 |
@@ -1129,8 +1129,8 @@ _Last updated: 2026-05-18 00:22 UTC_
 | 82 | Stefanie Dolson | 267 |
 | 83 | Bridget Carleton | 262 |
 | 84 | Sophia Witherspoon | 260 |
-| 85 | **Courtney Williams** 🔴 +1 | 254 |
-| 85 | Dawn Staley | 254 |
+| 85 | **Courtney Williams** 🔴 +2 | 255 |
+| 86 | Dawn Staley | 254 |
 | 87 | Bria Hartley | 253 |
 | 88 | Rebecca Allen | 252 |
 | 89 | Angel McCoughtry | 249 |
@@ -1550,7 +1550,7 @@ _Last updated: 2026-05-18 00:22 UTC_
 | 93 | Jennifer Lacy | 680 |
 | 93 | Temeka Johnson | 680 |
 | 95 | Kelly Miller | 676 |
-| 96 | **Brittney Sykes** 🔴 +3 | 669 |
+| 96 | **Brittney Sykes** 🔴 +2 | 668 |
 | 97 | Chamique Holdsclaw | 667 |
 | 98 | Tianna Hawkins | 662 |
 | 99 | Cheyenne Parker-Tyus | 661 |
