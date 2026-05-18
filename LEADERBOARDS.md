@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-18 00:49 UTC_
+_Last updated: 2026-05-18 00:50 UTC_
 
 ## Contents
 
@@ -437,7 +437,7 @@ _Last updated: 2026-05-18 00:49 UTC_
 | 6 | Chelsea Gray | 1,876 |
 | 7 | Alyssa Thomas | 1,820 |
 | 8 | Skylar Diggins | 1,768 |
-| 9 | **Natasha Cloud** 🔴 +5 | 1,738 |
+| 9 | **Natasha Cloud** 🔴 +6 | 1,739 |
 | 10 | Becky Hammon | 1,705 |
 | 11 | Candace Parker | 1,634 |
 | 12 | Cappie Pondexter | 1,575 |
