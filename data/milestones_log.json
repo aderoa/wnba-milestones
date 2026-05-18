@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-18T00:53:00+00:00",
+    "text": "Dearica Hamby passed Deanna Nolan for #49 all-time in steals (career 389) \u2014 up from #51 entering today \u2014 (7:58 - 4th \u2014 TOR @ LA)",
+    "kind": "rank_pass",
+    "player": "Dearica Hamby",
+    "stat": "steals",
+    "rank": 49,
+    "passed_players": [
+      "Deanna Nolan"
+    ],
+    "new_total": 389
+  },
+  {
     "ts": "2026-05-18T00:46:00+00:00",
     "text": "Dearica Hamby passed Loree Moore and Tanisha Wright for #157 all-time in three-pointers (career 139) \u2014 (2.5 - 3rd \u2014 TOR @ LA)",
     "kind": "rank_pass",
@@ -2984,17 +2996,5 @@
       "Nikki Teasley"
     ],
     "new_total": 212
-  },
-  {
-    "ts": "2026-05-10T02:00:00+00:00",
-    "text": "Naz Hillmon passed Tiffani Johnson for #175 all-time in rebounds (career 779) \u2014 up from #178 entering today \u2014 (2:42 - 4th \u2014 ATL @ MIN)",
-    "kind": "rank_pass",
-    "player": "Naz Hillmon",
-    "stat": "rebounds",
-    "rank": 175,
-    "passed_players": [
-      "Tiffani Johnson"
-    ],
-    "new_total": 779
   }
 ]

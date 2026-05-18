@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-18 00:53 UTC
+
+- **Dearica Hamby** passed **Deanna Nolan** for **#49** all-time in steals (career 389) — up from #51 entering today — _7:58 - 4th — TOR @ LA_
+
 ## 2026-05-18 00:46 UTC
 
 - **Dearica Hamby** passed **Loree Moore** and **Tanisha Wright** for **#157** all-time in three-pointers (career 139) — _2.5 - 3rd — TOR @ LA_
