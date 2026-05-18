@@ -1,5 +1,26 @@
 [
   {
+    "ts": "2026-05-18T00:34:00+00:00",
+    "text": "Kia Nurse reached 2,200 career points (now 2,200) \u2014 (3:59 - 3rd \u2014 TOR @ LA)",
+    "kind": "round",
+    "player": "Kia Nurse",
+    "stat": "points",
+    "value": 2200,
+    "new_total": 2200
+  },
+  {
+    "ts": "2026-05-18T00:34:00+00:00",
+    "text": "Kia Nurse passed Moriah Jefferson for #183 all-time in turnovers (career 315) \u2014 (3:59 - 3rd \u2014 TOR @ LA)",
+    "kind": "rank_pass",
+    "player": "Kia Nurse",
+    "stat": "turnovers",
+    "rank": 183,
+    "passed_players": [
+      "Moriah Jefferson"
+    ],
+    "new_total": 315
+  },
+  {
     "ts": "2026-05-18T00:19:00+00:00",
     "text": "Elizabeth Williams passed Armintie Herrington for #155 all-time in turnovers (career 378) \u2014 up from #156 entering today \u2014 (4:06 - 3rd \u2014 CHI @ MIN)",
     "kind": "rank_pass",
@@ -2971,29 +2992,5 @@
     "stat": "points",
     "value": 200,
     "new_total": 200
-  },
-  {
-    "ts": "2026-05-10T01:48:00+00:00",
-    "text": "Nia Coffey passed Alexis Hornbuckle for #196 all-time in fouls (career 451) \u2014 up from #198 entering today \u2014 (5:35 - 4th \u2014 ATL @ MIN)",
-    "kind": "rank_pass",
-    "player": "Nia Coffey",
-    "stat": "fouls",
-    "rank": 196,
-    "passed_players": [
-      "Alexis Hornbuckle"
-    ],
-    "new_total": 451
-  },
-  {
-    "ts": "2026-05-10T01:45:00+00:00",
-    "text": "Jordin Canada passed Marissa Coleman for #152 all-time in points (career 2,142) \u2014 up from #154 entering today \u2014 (7:11 - 4th \u2014 ATL @ MIN)",
-    "kind": "rank_pass",
-    "player": "Jordin Canada",
-    "stat": "points",
-    "rank": 152,
-    "passed_players": [
-      "Marissa Coleman"
-    ],
-    "new_total": 2142
   }
 ]

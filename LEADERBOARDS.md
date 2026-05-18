@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-18 00:33 UTC_
+_Last updated: 2026-05-18 00:34 UTC_
 
 ## Contents
 
@@ -110,7 +110,7 @@ _Last updated: 2026-05-18 00:33 UTC_
 | 89 | Wendy Palmer | 3,135 |
 | 90 | Shavonte Zellous | 3,103 |
 | 91 | Briann January | 3,082 |
-| 92 | **Erica Wheeler** 🔴 +2 | 3,062 |
+| 92 | **Erica Wheeler** 🔴 +4 | 3,064 |
 | 93 | Erika de Souza | 3,046 |
 | 94 | Shameka Christon | 3,039 |
 | 95 | Sabrina Ionescu | 3,030 |
@@ -164,7 +164,7 @@ _Last updated: 2026-05-18 00:33 UTC_
 | 142 | Teaira McCowan | 2,215 |
 | 144 | Sami Whitcomb | 2,211 |
 | 145 | Sophia Witherspoon | 2,210 |
-| 146 | **Kia Nurse** 🔴 +8 | 2,198 |
+| 146 | **Kia Nurse** 🔴 +10 | 2,200 |
 | 147 | Ruthie Bolton | 2,175 |
 | 148 | Ann Wauters | 2,170 |
 | 149 | Layshia Clarendon | 2,168 |
@@ -457,7 +457,7 @@ _Last updated: 2026-05-18 00:33 UTC_
 | 26 | Vickie Johnson | 1,202 |
 | 27 | Odyssey Sims | 1,201 |
 | 28 | Leilani Mitchell | 1,197 |
-| 29 | **Kelsey Plum** 🔴 +2 | 1,195 |
+| 29 | **Kelsey Plum** 🔴 +3 | 1,196 |
 | 30 | DeWanna Bonner | 1,176 |
 | 31 | Jordin Canada | 1,144 |
 | 32 | Renee Montgomery | 1,140 |
@@ -1431,8 +1431,8 @@ _Last updated: 2026-05-18 00:33 UTC_
 | 179 | Olympia Scott | 324 |
 | 180 | Satou Sabally | 323 |
 | 181 | Barbara Farris | 315 |
-| 182 | **Kia Nurse** 🔴 | 314 |
-| 182 | Moriah Jefferson | 314 |
+| 181 | **Kia Nurse** 🔴 +1 | 315 |
+| 183 | Moriah Jefferson | 314 |
 | 184 | Alex Bentley | 313 |
 | 185 | Tamika Raymond | 311 |
 | 186 | Gabby Williams | 307 |
@@ -1643,7 +1643,7 @@ _Last updated: 2026-05-18 00:33 UTC_
 | 186 | Seimone Augustus | 477 |
 | 187 | Allie Quigley | 475 |
 | 188 | **Rachel Banham** 🔴 +1 | 473 |
-| 189 | **Kia Nurse** 🔴 | 465 |
+| 189 | **Kia Nurse** 🔴 +1 | 466 |
 | 190 | Azurá Stevens | 463 |
 | 190 | Christi Thomas | 463 |
 | 190 | Nikki Teasley | 463 |

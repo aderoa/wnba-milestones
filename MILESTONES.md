@@ -2,6 +2,11 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-18 00:34 UTC
+
+- **Kia Nurse** reached **2,200** career points (now 2,200) — _3:59 - 3rd — TOR @ LA_
+- **Kia Nurse** passed **Moriah Jefferson** for **#183** all-time in turnovers (career 315) — _3:59 - 3rd — TOR @ LA_
+
 ## 2026-05-18 00:19 UTC
 
 - **Elizabeth Williams** passed **Armintie Herrington** for **#155** all-time in turnovers (career 378) — up from #156 entering today — _4:06 - 3rd — CHI @ MIN_
