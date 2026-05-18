@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-18 00:30 UTC_
+_Last updated: 2026-05-18 00:31 UTC_
 
 ## Contents
 
@@ -75,7 +75,7 @@ _Last updated: 2026-05-18 00:30 UTC_
 | 54 | **Dearica Hamby** 🔴 +13 | 4,103 |
 | 55 | Jonquel Jones | 4,096 |
 | 56 | Kahleah Copper | 4,083 |
-| 57 | **Courtney Williams** 🔴 +12 | 4,073 |
+| 57 | **Courtney Williams** 🔴 +14 | 4,075 |
 | 58 | Asjha Jones | 3,986 |
 | 59 | Deanna Nolan | 3,971 |
 | 60 | Nykesha Sales | 3,931 |
@@ -881,7 +881,7 @@ _Last updated: 2026-05-18 00:30 UTC_
 | 39 | Candice Dupree | 431 |
 | 40 | Epiphanny Prince | 429 |
 | 41 | Tanisha Wright | 427 |
-| 42 | **Kayla McBride** 🔴 +2 | 420 |
+| 42 | **Kayla McBride** 🔴 +3 | 421 |
 | 43 | Breanna Stewart | 411 |
 | 44 | Katie Smith | 408 |
 | 45 | Cappie Pondexter | 405 |
@@ -1305,13 +1305,13 @@ _Last updated: 2026-05-18 00:30 UTC_
 | 53 | Tammy Sutton-Brown | 672 |
 | 54 | Deanna Nolan | 669 |
 | 55 | **Erica Wheeler** 🔴 +3 | 668 |
-| 56 | Chasity Melvin | 666 |
-| 57 | **Natasha Cloud** 🔴 | 665 |
+| 56 | **Natasha Cloud** 🔴 +2 | 667 |
+| 57 | Chasity Melvin | 666 |
 | 58 | Vickie Johnson | 660 |
 | 59 | **Dearica Hamby** 🔴 +1 | 658 |
 | 60 | Yolanda Griffith | 653 |
 | 61 | Sheri Sam | 650 |
-| 62 | **Courtney Williams** 🔴 +1 | 644 |
+| 62 | **Courtney Williams** 🔴 +2 | 645 |
 | 63 | Dawn Staley | 643 |
 | 64 | Ruth Riley | 637 |
 | 65 | Svetlana Abrosimova | 631 |
