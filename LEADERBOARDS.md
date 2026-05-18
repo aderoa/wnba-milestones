@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-18 00:15 UTC_
+_Last updated: 2026-05-18 00:16 UTC_
 
 ## Contents
 
@@ -72,7 +72,7 @@ _Last updated: 2026-05-18 00:15 UTC_
 | 51 | **Kelsey Plum** 🔴 +8 | 4,215 |
 | 52 | Allisha Gray | 4,182 |
 | 53 | Rebekkah Brunson | 4,133 |
-| 54 | **Dearica Hamby** 🔴 +9 | 4,099 |
+| 54 | **Dearica Hamby** 🔴 +11 | 4,101 |
 | 55 | Jonquel Jones | 4,096 |
 | 56 | Kahleah Copper | 4,083 |
 | 57 | **Courtney Williams** 🔴 +7 | 4,068 |
@@ -116,7 +116,7 @@ _Last updated: 2026-05-18 00:15 UTC_
 | 95 | Sabrina Ionescu | 3,030 |
 | 96 | Marie Ferdinand-Harris | 3,001 |
 | 97 | Emma Meesseman | 2,966 |
-| 98 | **Marina Mabrey** 🔴 +7 | 2,901 |
+| 98 | **Marina Mabrey** 🔴 +9 | 2,903 |
 | 99 | Natalie Williams | 2,894 |
 | 100 | Jennifer Gillom | 2,888 |
 | 101 | **Natasha Cloud** 🔴 +6 | 2,869 |
@@ -417,7 +417,7 @@ _Last updated: 2026-05-18 00:15 UTC_
 | 191 | Sami Whitcomb | 726 |
 | 191 | Shekinna Stricklen | 726 |
 | 193 | Arike Ogunbowale | 722 |
-| 194 | **Kelsey Plum** 🔴 | 715 |
+| 194 | **Kelsey Plum** 🔴 +1 | 716 |
 | 195 | Olympia Scott | 711 |
 | 196 | Katie Mattera | 708 |
 | 197 | Rushia Brown | 706 |
@@ -1520,7 +1520,7 @@ _Last updated: 2026-05-18 00:15 UTC_
 | 63 | Skylar Diggins | 790 |
 | 64 | Sue Bird | 775 |
 | 65 | Sheri Sam | 766 |
-| 66 | **Erica Wheeler** 🔴 +2 | 760 |
+| 66 | **Erica Wheeler** 🔴 +3 | 761 |
 | 67 | Kia Vaughn | 755 |
 | 68 | Vickie Johnson | 752 |
 | 69 | Kara Braxton | 748 |
