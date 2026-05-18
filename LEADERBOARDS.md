@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-18 01:03 UTC_
+_Last updated: 2026-05-18 01:04 UTC_
 
 ## Contents
 
@@ -93,7 +93,7 @@ _Last updated: 2026-05-18 01:03 UTC_
 | 72 | Tamecka Dixon | 3,507 |
 | 73 | Tammy Sutton-Brown | 3,498 |
 | 74 | Sancho Lyttle | 3,478 |
-| 75 | **Brittney Sykes** 🔴 +27 | 3,466 |
+| 75 | **Brittney Sykes** 🔴 +29 | 3,468 |
 | 76 | Ivory Latta | 3,447 |
 | 77 | Jackie Young | 3,412 |
 | 78 | Nicole Powell | 3,407 |
@@ -325,8 +325,8 @@ _Last updated: 2026-05-18 01:03 UTC_
 | 99 | Chelsea Gray | 1,193 |
 | 100 | Latasha Byears | 1,190 |
 | 100 | Tanisha Wright | 1,190 |
+| 102 | **Kayla McBride** 🔴 +7 | 1,189 |
 | 102 | Vicky Bullett | 1,189 |
-| 103 | **Kayla McBride** 🔴 +6 | 1,188 |
 | 104 | Nykesha Sales | 1,148 |
 | 105 | Shannon Johnson | 1,143 |
 | 106 | Kahleah Copper | 1,140 |
@@ -502,7 +502,7 @@ _Last updated: 2026-05-18 01:03 UTC_
 | 71 | Epiphanny Prince | 800 |
 | 72 | Mwadi Mabika | 774 |
 | 73 | Sheri Sam | 745 |
-| 74 | **Marina Mabrey** 🔴 +3 | 741 |
+| 74 | **Marina Mabrey** 🔴 +4 | 742 |
 | 75 | Monique Currie | 740 |
 | 76 | Allisha Gray | 731 |
 | 77 | Elaine Powell | 728 |
