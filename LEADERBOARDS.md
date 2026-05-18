@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-18 00:21 UTC_
+_Last updated: 2026-05-18 00:22 UTC_
 
 ## Contents
 
@@ -75,7 +75,7 @@ _Last updated: 2026-05-18 00:21 UTC_
 | 54 | **Dearica Hamby** 🔴 +13 | 4,103 |
 | 55 | Jonquel Jones | 4,096 |
 | 56 | Kahleah Copper | 4,083 |
-| 57 | **Courtney Williams** 🔴 +7 | 4,068 |
+| 57 | **Courtney Williams** 🔴 +9 | 4,070 |
 | 58 | Asjha Jones | 3,986 |
 | 59 | Deanna Nolan | 3,971 |
 | 60 | Nykesha Sales | 3,931 |
@@ -110,7 +110,7 @@ _Last updated: 2026-05-18 00:21 UTC_
 | 89 | Wendy Palmer | 3,135 |
 | 90 | Shavonte Zellous | 3,103 |
 | 91 | Briann January | 3,082 |
-| 92 | **Erica Wheeler** 🔴 +1 | 3,061 |
+| 92 | **Erica Wheeler** 🔴 +2 | 3,062 |
 | 93 | Erika de Souza | 3,046 |
 | 94 | Shameka Christon | 3,039 |
 | 95 | Sabrina Ionescu | 3,030 |
@@ -200,7 +200,7 @@ _Last updated: 2026-05-18 00:21 UTC_
 | 179 | Damiris Dantas | 1,817 |
 | 180 | Aliyah Boston | 1,798 |
 | 181 | Charde Houston | 1,797 |
-| 182 | **Rachel Banham** 🔴 +5 | 1,772 |
+| 182 | **Rachel Banham** 🔴 +7 | 1,774 |
 | 183 | Kamila Vodichkova | 1,767 |
 | 184 | Tully Bevilaqua | 1,763 |
 | 185 | Sandy Brondello | 1,759 |
@@ -251,7 +251,7 @@ _Last updated: 2026-05-18 00:21 UTC_
 | 25 | **Dearica Hamby** 🔴 +7 | 2,324 |
 | 26 | Erika de Souza | 2,220 |
 | 27 | Diana Taurasi | 2,201 |
-| 28 | **Natasha Howard** 🔴 +7 | 2,181 |
+| 28 | **Natasha Howard** 🔴 +8 | 2,182 |
 | 29 | Margo Dydek | 2,138 |
 | 30 | Chamique Holdsclaw | 2,123 |
 | 31 | Chasity Melvin | 2,097 |
@@ -1614,7 +1614,7 @@ _Last updated: 2026-05-18 00:21 UTC_
 | 157 | Adrienne Goodson | 512 |
 | 157 | Janeth Arcain | 512 |
 | 159 | Andrea Stinson | 511 |
-| 160 | **Kayla McBride** 🔴 +1 | 508 |
+| 160 | **Kayla McBride** 🔴 +2 | 509 |
 | 161 | Vicky Bullett | 507 |
 | 162 | Merlakia Jones | 506 |
 | 162 | Sophie Cunningham | 506 |
