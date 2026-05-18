@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-18 00:39 UTC_
+_Last updated: 2026-05-18 00:40 UTC_
 
 ## Contents
 
@@ -116,10 +116,10 @@ _Last updated: 2026-05-18 00:39 UTC_
 | 95 | Sabrina Ionescu | 3,030 |
 | 96 | Marie Ferdinand-Harris | 3,001 |
 | 97 | Emma Meesseman | 2,966 |
-| 98 | **Marina Mabrey** 🔴 +9 | 2,903 |
+| 98 | **Marina Mabrey** 🔴 +10 | 2,904 |
 | 99 | Natalie Williams | 2,894 |
 | 100 | Jennifer Gillom | 2,888 |
-| 101 | **Natasha Cloud** 🔴 +6 | 2,869 |
+| 101 | **Natasha Cloud** 🔴 +9 | 2,872 |
 | 102 | Iziane Castro Marques | 2,862 |
 | 103 | **Elizabeth Williams** 🔴 +2 | 2,843 |
 | 104 | Alysha Clark | 2,787 |
@@ -391,7 +391,7 @@ _Last updated: 2026-05-18 00:39 UTC_
 | 165 | Carolyn Swords | 814 |
 | 166 | Jessica Shepard | 813 |
 | 167 | Tierra Ruffin-Pratt | 799 |
-| 168 | **Nia Coffey** 🔴 +1 | 796 |
+| 168 | **Nia Coffey** 🔴 +2 | 797 |
 | 169 | Charlotte Smith | 794 |
 | 170 | Rhonda Mapp | 788 |
 | 171 | Mercedes Russell | 786 |
@@ -537,7 +537,7 @@ _Last updated: 2026-05-18 00:39 UTC_
 | 106 | Matee Ajavon | 577 |
 | 107 | Betnijah Laney-Hamilton | 573 |
 | 108 | Napheesa Collier | 570 |
-| 109 | **Natasha Howard** 🔴 +6 | 568 |
+| 109 | **Natasha Howard** 🔴 +7 | 569 |
 | 110 | Nicole Powell | 567 |
 | 111 | Loree Moore | 562 |
 | 112 | Sophia Young-Malcolm | 554 |
@@ -1103,7 +1103,7 @@ _Last updated: 2026-05-18 00:39 UTC_
 | 56 | Kahleah Copper | 341 |
 | 57 | Deanna Nolan | 340 |
 | 58 | Anna DeForge | 334 |
-| 59 | **Natasha Cloud** 🔴 | 331 |
+| 59 | **Natasha Cloud** 🔴 +1 | 332 |
 | 60 | **Erica Wheeler** 🔴 | 320 |
 | 61 | Sugar Rodgers | 317 |
 | 62 | Marissa Coleman | 315 |
@@ -1554,7 +1554,7 @@ _Last updated: 2026-05-18 00:39 UTC_
 | 97 | Chamique Holdsclaw | 667 |
 | 98 | Tianna Hawkins | 662 |
 | 99 | Cheyenne Parker-Tyus | 661 |
-| 100 | **Kelsey Plum** 🔴 +1 | 659 |
+| 100 | **Kelsey Plum** 🔴 +2 | 660 |
 | 101 | Jewell Loyd | 648 |
 | 101 | Tari Phillips | 648 |
 | 103 | Marie Ferdinand-Harris | 646 |
