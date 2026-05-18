@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-18 00:58 UTC_
+_Last updated: 2026-05-18 00:59 UTC_
 
 ## Contents
 
@@ -230,7 +230,7 @@ _Last updated: 2026-05-18 00:58 UTC_
 | 4 | Rebekkah Brunson | 3,345 |
 | 5 | Tamika Catchings | 3,313 |
 | 6 | Lisa Leslie | 3,303 |
-| 7 | **Nneka Ogwumike** 🔴 +4 | 3,272 |
+| 7 | **Nneka Ogwumike** 🔴 +5 | 3,273 |
 | 8 | DeWanna Bonner | 3,203 |
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
@@ -326,7 +326,7 @@ _Last updated: 2026-05-18 00:58 UTC_
 | 100 | Latasha Byears | 1,190 |
 | 100 | Tanisha Wright | 1,190 |
 | 102 | Vicky Bullett | 1,189 |
-| 103 | **Kayla McBride** 🔴 +5 | 1,187 |
+| 103 | **Kayla McBride** 🔴 +6 | 1,188 |
 | 104 | Nykesha Sales | 1,148 |
 | 105 | Shannon Johnson | 1,143 |
 | 106 | Kahleah Copper | 1,140 |
