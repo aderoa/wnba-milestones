@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-18 01:02 UTC_
+_Last updated: 2026-05-18 01:03 UTC_
 
 ## Contents
 
@@ -67,8 +67,8 @@ _Last updated: 2026-05-18 01:02 UTC_
 | 46 | Sophia Young-Malcolm | 4,300 |
 | 47 | Plenette Pierson | 4,258 |
 | 48 | Monique Currie | 4,253 |
-| 49 | Vickie Johnson | 4,230 |
-| 50 | **Kelsey Plum** 🔴 +22 | 4,229 |
+| 49 | **Kelsey Plum** 🔴 +24 | 4,231 |
+| 50 | Vickie Johnson | 4,230 |
 | 51 | Yolanda Griffith | 4,224 |
 | 52 | Allisha Gray | 4,182 |
 | 53 | Rebekkah Brunson | 4,133 |
@@ -200,7 +200,7 @@ _Last updated: 2026-05-18 01:02 UTC_
 | 179 | Damiris Dantas | 1,817 |
 | 180 | Aliyah Boston | 1,798 |
 | 181 | Charde Houston | 1,797 |
-| 182 | **Rachel Banham** 🔴 +12 | 1,779 |
+| 182 | **Rachel Banham** 🔴 +13 | 1,780 |
 | 183 | Kamila Vodichkova | 1,767 |
 | 184 | Tully Bevilaqua | 1,763 |
 | 185 | Sandy Brondello | 1,759 |
@@ -1591,7 +1591,7 @@ _Last updated: 2026-05-18 01:02 UTC_
 | 133 | Ivory Latta | 565 |
 | 135 | Barbara Farris | 563 |
 | 136 | Jessica Breland | 562 |
-| 137 | **Courtney Williams** 🔴 | 553 |
+| 137 | **Courtney Williams** 🔴 +1 | 554 |
 | 138 | Dawn Staley | 551 |
 | 139 | Glory Johnson | 550 |
 | 139 | Tierra Ruffin-Pratt | 550 |
@@ -1601,7 +1601,7 @@ _Last updated: 2026-05-18 01:02 UTC_
 | 144 | Marissa Coleman | 541 |
 | 145 | Kristen Rasmussen | 533 |
 | 146 | Amanda Zahui B | 530 |
-| 147 | **Marina Mabrey** 🔴 +4 | 529 |
+| 146 | **Marina Mabrey** 🔴 +5 | 530 |
 | 148 | A'ja Wilson | 526 |
 | 149 | Candice Wiggins | 525 |
 | 149 | Epiphanny Prince | 525 |
@@ -1614,7 +1614,7 @@ _Last updated: 2026-05-18 01:02 UTC_
 | 157 | Adrienne Goodson | 512 |
 | 157 | Janeth Arcain | 512 |
 | 159 | Andrea Stinson | 511 |
-| 160 | **Kayla McBride** 🔴 +3 | 510 |
+| 159 | **Kayla McBride** 🔴 +4 | 511 |
 | 161 | Vicky Bullett | 507 |
 | 162 | Merlakia Jones | 506 |
 | 162 | Sophie Cunningham | 506 |
