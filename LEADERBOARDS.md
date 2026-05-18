@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-18 00:16 UTC_
+_Last updated: 2026-05-18 00:17 UTC_
 
 ## Contents
 
@@ -72,7 +72,7 @@ _Last updated: 2026-05-18 00:16 UTC_
 | 51 | **Kelsey Plum** 🔴 +8 | 4,215 |
 | 52 | Allisha Gray | 4,182 |
 | 53 | Rebekkah Brunson | 4,133 |
-| 54 | **Dearica Hamby** 🔴 +11 | 4,101 |
+| 54 | **Dearica Hamby** 🔴 +12 | 4,102 |
 | 55 | Jonquel Jones | 4,096 |
 | 56 | Kahleah Copper | 4,083 |
 | 57 | **Courtney Williams** 🔴 +7 | 4,068 |
@@ -877,7 +877,7 @@ _Last updated: 2026-05-18 00:16 UTC_
 | 35 | Sheri Sam | 438 |
 | 36 | Camille Smith | 437 |
 | 36 | Chelsea Gray | 437 |
-| 38 | **Natasha Howard** 🔴 +1 | 435 |
+| 38 | **Natasha Howard** 🔴 +2 | 436 |
 | 39 | Candice Dupree | 431 |
 | 40 | Epiphanny Prince | 429 |
 | 41 | Tanisha Wright | 427 |
@@ -1448,8 +1448,8 @@ _Last updated: 2026-05-18 00:16 UTC_
 | 195 | Kayla Thornton | 288 |
 | 195 | Kristen Rasmussen | 288 |
 | 198 | Azurá Stevens | 286 |
-| 199 | Bridget Pettis | 284 |
-| 199 | **Rachel Banham** 🔴 | 284 |
+| 199 | **Rachel Banham** 🔴 +1 | 285 |
+| 200 | Bridget Pettis | 284 |
 
 ## Personal fouls
 
@@ -1550,8 +1550,8 @@ _Last updated: 2026-05-18 00:16 UTC_
 | 93 | Jennifer Lacy | 680 |
 | 93 | Temeka Johnson | 680 |
 | 95 | Kelly Miller | 676 |
-| 96 | **Brittney Sykes** 🔴 +1 | 667 |
-| 96 | Chamique Holdsclaw | 667 |
+| 96 | **Brittney Sykes** 🔴 +2 | 668 |
+| 97 | Chamique Holdsclaw | 667 |
 | 98 | Tianna Hawkins | 662 |
 | 99 | Cheyenne Parker-Tyus | 661 |
 | 100 | **Kelsey Plum** 🔴 | 658 |
