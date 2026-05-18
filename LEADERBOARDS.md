@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-18 01:01 UTC_
+_Last updated: 2026-05-18 01:02 UTC_
 
 ## Contents
 
@@ -24,7 +24,7 @@ _Last updated: 2026-05-18 01:01 UTC_
 | 3 | DeWanna Bonner | 7,805 |
 | 4 | Tina Thompson | 7,470 |
 | 5 | Tamika Catchings | 7,371 |
-| 6 | **Nneka Ogwumike** 🔴 +11 | 7,316 |
+| 6 | **Nneka Ogwumike** 🔴 +14 | 7,319 |
 | 7 | Candice Dupree | 6,861 |
 | 8 | Sue Bird | 6,802 |
 | 9 | Cappie Pondexter | 6,781 |
@@ -116,7 +116,7 @@ _Last updated: 2026-05-18 01:01 UTC_
 | 95 | Sabrina Ionescu | 3,030 |
 | 96 | Marie Ferdinand-Harris | 3,001 |
 | 97 | Emma Meesseman | 2,966 |
-| 98 | **Marina Mabrey** 🔴 +11 | 2,905 |
+| 98 | **Marina Mabrey** 🔴 +14 | 2,908 |
 | 99 | Natalie Williams | 2,894 |
 | 100 | Jennifer Gillom | 2,888 |
 | 101 | **Natasha Cloud** 🔴 +11 | 2,874 |
@@ -251,7 +251,7 @@ _Last updated: 2026-05-18 01:01 UTC_
 | 25 | **Dearica Hamby** 🔴 +7 | 2,324 |
 | 26 | Erika de Souza | 2,220 |
 | 27 | Diana Taurasi | 2,201 |
-| 28 | **Natasha Howard** 🔴 +8 | 2,182 |
+| 28 | **Natasha Howard** 🔴 +9 | 2,183 |
 | 29 | Margo Dydek | 2,138 |
 | 30 | Chamique Holdsclaw | 2,123 |
 | 31 | Chasity Melvin | 2,097 |
@@ -456,8 +456,8 @@ _Last updated: 2026-05-18 01:01 UTC_
 | 25 | Katie Smith | 1,258 |
 | 26 | Vickie Johnson | 1,202 |
 | 27 | Odyssey Sims | 1,201 |
-| 28 | **Kelsey Plum** 🔴 +4 | 1,197 |
-| 28 | Leilani Mitchell | 1,197 |
+| 28 | **Kelsey Plum** 🔴 +5 | 1,198 |
+| 29 | Leilani Mitchell | 1,197 |
 | 30 | DeWanna Bonner | 1,176 |
 | 31 | Jordin Canada | 1,144 |
 | 32 | Renee Montgomery | 1,140 |
@@ -495,7 +495,7 @@ _Last updated: 2026-05-18 01:01 UTC_
 | 64 | Lisa Leslie | 873 |
 | 65 | Tully Bevilaqua | 853 |
 | 66 | Jia Perkins | 837 |
-| 67 | **Brittney Sykes** 🔴 +1 | 817 |
+| 67 | **Brittney Sykes** 🔴 +2 | 818 |
 | 68 | Andrea Stinson | 810 |
 | 69 | Tina Thompson | 803 |
 | 70 | Kelsey Mitchell | 801 |
@@ -537,7 +537,7 @@ _Last updated: 2026-05-18 01:01 UTC_
 | 106 | Matee Ajavon | 577 |
 | 107 | Betnijah Laney-Hamilton | 573 |
 | 108 | Napheesa Collier | 570 |
-| 108 | **Natasha Howard** 🔴 +8 | 570 |
+| 109 | **Natasha Howard** 🔴 +7 | 569 |
 | 110 | Nicole Powell | 567 |
 | 111 | Loree Moore | 562 |
 | 112 | Sophia Young-Malcolm | 554 |
@@ -1072,8 +1072,8 @@ _Last updated: 2026-05-18 01:01 UTC_
 | 25 | Sabrina Ionescu | 460 |
 | 26 | Breanna Stewart | 454 |
 | 27 | Tiffany Hayes | 447 |
-| 28 | Ariel Atkins | 440 |
-| 28 | **Marina Mabrey** 🔴 +1 | 440 |
+| 28 | **Marina Mabrey** 🔴 +2 | 441 |
+| 29 | Ariel Atkins | 440 |
 | 30 | Lauren Jackson | 436 |
 | 31 | Shameka Christon | 434 |
 | 32 | Allisha Gray | 427 |
@@ -1141,8 +1141,8 @@ _Last updated: 2026-05-18 01:01 UTC_
 | 94 | Svetlana Abrosimova | 235 |
 | 94 | Tangela Smith | 235 |
 | 96 | **Brittney Sykes** 🔴 +3 | 234 |
+| 97 | **Nneka Ogwumike** 🔴 +1 | 232 |
 | 97 | Stacey Dales | 232 |
-| 98 | **Nneka Ogwumike** 🔴 | 231 |
 | 99 | Odyssey Sims | 229 |
 | 100 | Elena Baranova | 224 |
 | 101 | Essence Carson | 223 |
@@ -1529,7 +1529,7 @@ _Last updated: 2026-05-18 01:01 UTC_
 | 72 | Becky Hammon | 733 |
 | 73 | Latasha Byears | 730 |
 | 74 | Kristi Toliver | 722 |
-| 75 | **Natasha Cloud** 🔴 +2 | 720 |
+| 75 | **Natasha Cloud** 🔴 +3 | 721 |
 | 76 | Kahleah Copper | 715 |
 | 77 | Cheryl Ford | 713 |
 | 78 | Jia Perkins | 711 |
