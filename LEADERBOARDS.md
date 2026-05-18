@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-18 00:40 UTC_
+_Last updated: 2026-05-18 00:41 UTC_
 
 ## Contents
 
@@ -69,7 +69,7 @@ _Last updated: 2026-05-18 00:40 UTC_
 | 48 | Monique Currie | 4,253 |
 | 49 | Vickie Johnson | 4,230 |
 | 50 | Yolanda Griffith | 4,224 |
-| 51 | **Kelsey Plum** 🔴 +11 | 4,218 |
+| 51 | **Kelsey Plum** 🔴 +15 | 4,222 |
 | 52 | Allisha Gray | 4,182 |
 | 53 | Rebekkah Brunson | 4,133 |
 | 54 | **Dearica Hamby** 🔴 +13 | 4,103 |
@@ -116,7 +116,7 @@ _Last updated: 2026-05-18 00:40 UTC_
 | 95 | Sabrina Ionescu | 3,030 |
 | 96 | Marie Ferdinand-Harris | 3,001 |
 | 97 | Emma Meesseman | 2,966 |
-| 98 | **Marina Mabrey** 🔴 +10 | 2,904 |
+| 98 | **Marina Mabrey** 🔴 +11 | 2,905 |
 | 99 | Natalie Williams | 2,894 |
 | 100 | Jennifer Gillom | 2,888 |
 | 101 | **Natasha Cloud** 🔴 +9 | 2,872 |
@@ -339,7 +339,7 @@ _Last updated: 2026-05-18 00:40 UTC_
 | 113 | **Brittney Sykes** 🔴 +1 | 1,109 |
 | 114 | Becky Hammon | 1,108 |
 | 115 | Ann Wauters | 1,105 |
-| 116 | **Natasha Cloud** 🔴 +5 | 1,085 |
+| 116 | **Natasha Cloud** 🔴 +6 | 1,086 |
 | 117 | Svetlana Abrosimova | 1,078 |
 | 118 | NaLyssa Smith | 1,060 |
 | 119 | Le'coe Willingham | 1,054 |
@@ -437,7 +437,7 @@ _Last updated: 2026-05-18 00:40 UTC_
 | 6 | Chelsea Gray | 1,876 |
 | 7 | Alyssa Thomas | 1,820 |
 | 8 | Skylar Diggins | 1,768 |
-| 9 | **Natasha Cloud** 🔴 +4 | 1,737 |
+| 9 | **Natasha Cloud** 🔴 +5 | 1,738 |
 | 10 | Becky Hammon | 1,705 |
 | 11 | Candace Parker | 1,634 |
 | 12 | Cappie Pondexter | 1,575 |
@@ -1474,7 +1474,7 @@ _Last updated: 2026-05-18 00:40 UTC_
 | 17 | **Nneka Ogwumike** 🔴 +1 | 1,132 |
 | 18 | Tanisha Wright | 1,109 |
 | 19 | Michelle Snow | 1,108 |
-| 20 | **Natasha Howard** 🔴 +2 | 1,090 |
+| 20 | **Natasha Howard** 🔴 +3 | 1,091 |
 | 21 | Stefanie Dolson | 1,085 |
 | 22 | Sylvia Fowles | 1,049 |
 | 23 | Tina Charles | 1,037 |
