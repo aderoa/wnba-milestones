@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-18 00:50 UTC_
+_Last updated: 2026-05-18 00:51 UTC_
 
 ## Contents
 
@@ -119,7 +119,7 @@ _Last updated: 2026-05-18 00:50 UTC_
 | 98 | **Marina Mabrey** 🔴 +11 | 2,905 |
 | 99 | Natalie Williams | 2,894 |
 | 100 | Jennifer Gillom | 2,888 |
-| 101 | **Natasha Cloud** 🔴 +9 | 2,872 |
+| 101 | **Natasha Cloud** 🔴 +11 | 2,874 |
 | 102 | Iziane Castro Marques | 2,862 |
 | 103 | **Elizabeth Williams** 🔴 +2 | 2,843 |
 | 104 | Alysha Clark | 2,787 |
@@ -452,7 +452,7 @@ _Last updated: 2026-05-18 00:50 UTC_
 | 21 | Dawn Staley | 1,337 |
 | 22 | Teresa Weatherspoon | 1,333 |
 | 23 | Kristi Toliver | 1,301 |
-| 24 | **Erica Wheeler** 🔴 +5 | 1,261 |
+| 24 | **Erica Wheeler** 🔴 +6 | 1,262 |
 | 25 | Katie Smith | 1,258 |
 | 26 | Vickie Johnson | 1,202 |
 | 27 | Odyssey Sims | 1,201 |
@@ -1280,7 +1280,7 @@ _Last updated: 2026-05-18 00:50 UTC_
 | 28 | Betty Lennox | 800 |
 | 29 | Jasmine Thomas | 796 |
 | 30 | Chamique Holdsclaw | 789 |
-| 31 | **Natasha Howard** 🔴 +2 | 786 |
+| 31 | **Natasha Howard** 🔴 +3 | 787 |
 | 32 | **Nneka Ogwumike** 🔴 +1 | 783 |
 | 33 | Crystal Langhorne | 782 |
 | 34 | Jewell Loyd | 780 |
@@ -1448,7 +1448,7 @@ _Last updated: 2026-05-18 00:50 UTC_
 | 195 | Kayla Thornton | 288 |
 | 195 | Kristen Rasmussen | 288 |
 | 198 | Azurá Stevens | 286 |
-| 198 | **Rachel Banham** 🔴 +2 | 286 |
+| 199 | **Rachel Banham** 🔴 +1 | 285 |
 | 200 | Bridget Pettis | 284 |
 
 ## Personal fouls
@@ -1520,7 +1520,7 @@ _Last updated: 2026-05-18 00:50 UTC_
 | 63 | Skylar Diggins | 790 |
 | 64 | Sue Bird | 775 |
 | 65 | Sheri Sam | 766 |
-| 66 | **Erica Wheeler** 🔴 +4 | 762 |
+| 66 | **Erica Wheeler** 🔴 +5 | 763 |
 | 67 | Kia Vaughn | 755 |
 | 68 | Vickie Johnson | 752 |
 | 69 | Kara Braxton | 748 |
