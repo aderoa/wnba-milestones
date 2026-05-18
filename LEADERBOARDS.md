@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-18 00:48 UTC_
+_Last updated: 2026-05-18 00:49 UTC_
 
 ## Contents
 
@@ -326,7 +326,7 @@ _Last updated: 2026-05-18 00:48 UTC_
 | 100 | Latasha Byears | 1,190 |
 | 100 | Tanisha Wright | 1,190 |
 | 102 | Vicky Bullett | 1,189 |
-| 103 | **Kayla McBride** 🔴 +4 | 1,186 |
+| 103 | **Kayla McBride** 🔴 +5 | 1,187 |
 | 104 | Nykesha Sales | 1,148 |
 | 105 | Shannon Johnson | 1,143 |
 | 106 | Kahleah Copper | 1,140 |
@@ -446,7 +446,7 @@ _Last updated: 2026-05-18 00:48 UTC_
 | 15 | Shannon Johnson | 1,423 |
 | 15 | Tanisha Wright | 1,423 |
 | 17 | Temeka Johnson | 1,382 |
-| 18 | **Courtney Williams** 🔴 +2 | 1,367 |
+| 18 | **Courtney Williams** 🔴 +3 | 1,368 |
 | 19 | Jasmine Thomas | 1,355 |
 | 20 | Briann January | 1,339 |
 | 21 | Dawn Staley | 1,337 |
@@ -1315,7 +1315,7 @@ _Last updated: 2026-05-18 00:48 UTC_
 | 63 | Dawn Staley | 643 |
 | 64 | Ruth Riley | 637 |
 | 65 | Svetlana Abrosimova | 631 |
-| 66 | **Kayla McBride** 🔴 +1 | 623 |
+| 66 | **Kayla McBride** 🔴 +2 | 624 |
 | 67 | Odyssey Sims | 616 |
 | 68 | Rebekkah Brunson | 615 |
 | 69 | **Kelsey Plum** 🔴 +2 | 613 |
@@ -1448,7 +1448,7 @@ _Last updated: 2026-05-18 00:48 UTC_
 | 195 | Kayla Thornton | 288 |
 | 195 | Kristen Rasmussen | 288 |
 | 198 | Azurá Stevens | 286 |
-| 199 | **Rachel Banham** 🔴 +1 | 285 |
+| 198 | **Rachel Banham** 🔴 +2 | 286 |
 | 200 | Bridget Pettis | 284 |
 
 ## Personal fouls
