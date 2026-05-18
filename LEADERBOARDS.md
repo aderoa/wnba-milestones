@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-18 00:11 UTC_
+_Last updated: 2026-05-18 00:12 UTC_
 
 ## Contents
 
@@ -116,7 +116,7 @@ _Last updated: 2026-05-18 00:11 UTC_
 | 95 | Sabrina Ionescu | 3,030 |
 | 96 | Marie Ferdinand-Harris | 3,001 |
 | 97 | Emma Meesseman | 2,966 |
-| 98 | **Marina Mabrey** 🔴 +6 | 2,900 |
+| 98 | **Marina Mabrey** 🔴 +7 | 2,901 |
 | 99 | Natalie Williams | 2,894 |
 | 100 | Jennifer Gillom | 2,888 |
 | 101 | **Natasha Cloud** 🔴 +6 | 2,869 |
@@ -204,8 +204,8 @@ _Last updated: 2026-05-18 00:11 UTC_
 | 183 | Kamila Vodichkova | 1,767 |
 | 184 | Tully Bevilaqua | 1,763 |
 | 185 | Sandy Brondello | 1,759 |
-| 186 | Sugar Rodgers | 1,733 |
-| 187 | **Natisha Hiedeman** 🔴 +16 | 1,732 |
+| 186 | **Natisha Hiedeman** 🔴 +19 | 1,735 |
+| 187 | Sugar Rodgers | 1,733 |
 | 188 | Moriah Jefferson | 1,722 |
 | 189 | Armintie Herrington | 1,696 |
 | 190 | Nikki Teasley | 1,690 |
@@ -385,7 +385,7 @@ _Last updated: 2026-05-18 00:11 UTC_
 | 159 | Kristi Toliver | 829 |
 | 160 | Marie Ferdinand-Harris | 828 |
 | 161 | Marlies Askamp | 822 |
-| 162 | **Marina Mabrey** 🔴 +2 | 820 |
+| 162 | **Marina Mabrey** 🔴 +3 | 821 |
 | 163 | Amanda Zahui B | 819 |
 | 163 | Barbara Farris | 819 |
 | 165 | Carolyn Swords | 814 |
@@ -1121,7 +1121,7 @@ _Last updated: 2026-05-18 00:11 UTC_
 | 74 | Candice Wiggins | 290 |
 | 74 | Tully Bevilaqua | 290 |
 | 76 | Alana Beard | 288 |
-| 77 | **Natisha Hiedeman** 🔴 +2 | 286 |
+| 77 | **Natisha Hiedeman** 🔴 +3 | 287 |
 | 78 | Monique Currie | 284 |
 | 79 | Iziane Castro Marques | 275 |
 | 80 | Kayla Thornton | 273 |

@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-18T00:12:00+00:00",
+    "text": "Natisha Hiedeman passed Sugar Rodgers for #186 all-time in points (career 1,735) \u2014 up from #188 entering today \u2014 (2:23 - 4th \u2014 SEA @ IND)",
+    "kind": "rank_pass",
+    "player": "Natisha Hiedeman",
+    "stat": "points",
+    "rank": 186,
+    "passed_players": [
+      "Sugar Rodgers"
+    ],
+    "new_total": 1735
+  },
+  {
     "ts": "2026-05-17T23:54:00+00:00",
     "text": "Caitlin Clark passed Sylvia Fowles for #137 all-time in assists (career 462) \u2014 up from #139 entering today \u2014 (8:23 - 4th \u2014 SEA @ IND)",
     "kind": "rank_pass",
@@ -2983,17 +2995,5 @@
       "Odyssey Sims"
     ],
     "new_total": 777
-  },
-  {
-    "ts": "2026-05-10T01:41:00+00:00",
-    "text": "Angel Reese passed Alanna Smith for #156 all-time in rebounds (career 835) \u2014 up from #160 entering today \u2014 (9:00 - 4th \u2014 ATL @ MIN)",
-    "kind": "rank_pass",
-    "player": "Angel Reese",
-    "stat": "rebounds",
-    "rank": 156,
-    "passed_players": [
-      "Alanna Smith"
-    ],
-    "new_total": 835
   }
 ]
