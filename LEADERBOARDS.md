@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-18 00:51 UTC_
+_Last updated: 2026-05-18 00:52 UTC_
 
 ## Contents
 
@@ -256,7 +256,7 @@ _Last updated: 2026-05-18 00:51 UTC_
 | 30 | Chamique Holdsclaw | 2,123 |
 | 31 | Chasity Melvin | 2,097 |
 | 32 | Tammy Sutton-Brown | 2,010 |
-| 33 | **Elizabeth Williams** 🔴 +7 | 1,911 |
+| 33 | **Elizabeth Williams** 🔴 +8 | 1,912 |
 | 34 | Cheryl Ford | 1,907 |
 | 35 | Plenette Pierson | 1,834 |
 | 36 | Natalie Williams | 1,832 |
@@ -391,7 +391,7 @@ _Last updated: 2026-05-18 00:51 UTC_
 | 165 | Carolyn Swords | 814 |
 | 166 | Jessica Shepard | 813 |
 | 167 | Tierra Ruffin-Pratt | 799 |
-| 168 | **Nia Coffey** 🔴 +2 | 797 |
+| 168 | **Nia Coffey** 🔴 +3 | 798 |
 | 169 | Charlotte Smith | 794 |
 | 170 | Rhonda Mapp | 788 |
 | 171 | Mercedes Russell | 786 |
@@ -1318,8 +1318,8 @@ _Last updated: 2026-05-18 00:51 UTC_
 | 66 | **Kayla McBride** 🔴 +2 | 624 |
 | 67 | Odyssey Sims | 616 |
 | 68 | Rebekkah Brunson | 615 |
-| 69 | **Kelsey Plum** 🔴 +2 | 613 |
-| 69 | Seimone Augustus | 613 |
+| 69 | **Kelsey Plum** 🔴 +3 | 614 |
+| 70 | Seimone Augustus | 613 |
 | 71 | Jonquel Jones | 608 |
 | 72 | Tiffany Hayes | 605 |
 | 73 | Teresa Weatherspoon | 601 |
@@ -1554,7 +1554,7 @@ _Last updated: 2026-05-18 00:51 UTC_
 | 97 | Chamique Holdsclaw | 667 |
 | 98 | Tianna Hawkins | 662 |
 | 99 | Cheyenne Parker-Tyus | 661 |
-| 100 | **Kelsey Plum** 🔴 +2 | 660 |
+| 99 | **Kelsey Plum** 🔴 +3 | 661 |
 | 101 | Jewell Loyd | 648 |
 | 101 | Tari Phillips | 648 |
 | 103 | Marie Ferdinand-Harris | 646 |
