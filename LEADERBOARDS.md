@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-18 00:12 UTC_
+_Last updated: 2026-05-18 00:13 UTC_
 
 ## Contents
 
@@ -1362,7 +1362,7 @@ _Last updated: 2026-05-18 00:12 UTC_
 | 109 | Tari Phillips | 493 |
 | 111 | Janel McCarville | 491 |
 | 111 | Jordin Canada | 491 |
-| 113 | **Marina Mabrey** 🔴 +1 | 488 |
+| 113 | **Marina Mabrey** 🔴 +2 | 489 |
 | 114 | Erika de Souza | 483 |
 | 115 | Sophia Young-Malcolm | 482 |
 | 116 | Natalie Williams | 480 |
@@ -1650,7 +1650,7 @@ _Last updated: 2026-05-18 00:12 UTC_
 | 193 | Sue Wicks | 462 |
 | 194 | Natalie Achonwa | 459 |
 | 195 | Kara Lawson | 457 |
-| 196 | **Nia Coffey** 🔴 +3 | 451 |
+| 196 | **Nia Coffey** 🔴 +4 | 452 |
 | 197 | Alexis Hornbuckle | 450 |
 | 198 | Bria Hartley | 448 |
 | 199 | Diamond DeShields | 445 |
