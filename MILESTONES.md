@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-18 00:19 UTC
+
+- **Elizabeth Williams** passed **Armintie Herrington** for **#155** all-time in turnovers (career 378) — up from #156 entering today — _4:06 - 3rd — CHI @ MIN_
+
 ## 2026-05-18 00:12 UTC
 
 - **Natisha Hiedeman** passed **Sugar Rodgers** for **#186** all-time in points (career 1,735) — up from #188 entering today — _2:23 - 4th — SEA @ IND_

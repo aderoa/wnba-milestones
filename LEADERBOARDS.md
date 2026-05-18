@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-18 00:18 UTC_
+_Last updated: 2026-05-18 00:19 UTC_
 
 ## Contents
 
@@ -62,7 +62,7 @@ _Last updated: 2026-05-18 00:18 UTC_
 | 41 | Crystal Langhorne | 4,433 |
 | 41 | Jia Perkins | 4,433 |
 | 43 | Chelsea Gray | 4,430 |
-| 44 | **Natasha Howard** 🔴 +10 | 4,377 |
+| 44 | **Natasha Howard** 🔴 +12 | 4,379 |
 | 45 | Courtney Vandersloot | 4,352 |
 | 46 | Sophia Young-Malcolm | 4,300 |
 | 47 | Plenette Pierson | 4,258 |
@@ -248,7 +248,7 @@ _Last updated: 2026-05-18 00:18 UTC_
 | 22 | Lauren Jackson | 2,444 |
 | 23 | Yolanda Griffith | 2,440 |
 | 24 | Tangela Smith | 2,328 |
-| 25 | **Dearica Hamby** 🔴 +6 | 2,323 |
+| 25 | **Dearica Hamby** 🔴 +7 | 2,324 |
 | 26 | Erika de Souza | 2,220 |
 | 27 | Diana Taurasi | 2,201 |
 | 28 | **Natasha Howard** 🔴 +7 | 2,181 |
@@ -256,7 +256,7 @@ _Last updated: 2026-05-18 00:18 UTC_
 | 30 | Chamique Holdsclaw | 2,123 |
 | 31 | Chasity Melvin | 2,097 |
 | 32 | Tammy Sutton-Brown | 2,010 |
-| 33 | **Elizabeth Williams** 🔴 +5 | 1,909 |
+| 33 | **Elizabeth Williams** 🔴 +6 | 1,910 |
 | 34 | Cheryl Ford | 1,907 |
 | 35 | Plenette Pierson | 1,834 |
 | 36 | Natalie Williams | 1,832 |
@@ -881,7 +881,7 @@ _Last updated: 2026-05-18 00:18 UTC_
 | 39 | Candice Dupree | 431 |
 | 40 | Epiphanny Prince | 429 |
 | 41 | Tanisha Wright | 427 |
-| 42 | **Kayla McBride** 🔴 +1 | 419 |
+| 42 | **Kayla McBride** 🔴 +2 | 420 |
 | 43 | Breanna Stewart | 411 |
 | 44 | Katie Smith | 408 |
 | 45 | Cappie Pondexter | 405 |
@@ -1403,9 +1403,9 @@ _Last updated: 2026-05-18 00:18 UTC_
 | 151 | Sophia Witherspoon | 386 |
 | 152 | Hamchetou Maiga-Ba | 385 |
 | 153 | Kamila Vodichkova | 381 |
+| 154 | **Elizabeth Williams** 🔴 +2 | 378 |
 | 154 | Jessica Breland | 378 |
-| 155 | Armintie Herrington | 377 |
-| 155 | **Elizabeth Williams** 🔴 +1 | 377 |
+| 156 | Armintie Herrington | 377 |
 | 157 | Anna DeForge | 374 |
 | 157 | Cheryl Ford | 374 |
 | 159 | Allison Feaster | 372 |
