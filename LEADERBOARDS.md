@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-18 00:37 UTC_
+_Last updated: 2026-05-18 00:38 UTC_
 
 ## Contents
 
@@ -44,7 +44,7 @@ _Last updated: 2026-05-18 00:37 UTC_
 | 23 | Katie Douglas | 5,545 |
 | 24 | Lindsay Whalen | 5,511 |
 | 25 | Skylar Diggins | 5,489 |
-| 26 | **Kayla McBride** 🔴 +14 | 5,403 |
+| 26 | **Kayla McBride** 🔴 +17 | 5,406 |
 | 27 | Swin Cash | 5,119 |
 | 28 | Tangela Smith | 5,035 |
 | 29 | Taj McWilliams-Franklin | 4,992 |
@@ -62,7 +62,7 @@ _Last updated: 2026-05-18 00:37 UTC_
 | 41 | Crystal Langhorne | 4,433 |
 | 41 | Jia Perkins | 4,433 |
 | 43 | Chelsea Gray | 4,430 |
-| 44 | **Natasha Howard** 🔴 +13 | 4,380 |
+| 44 | **Natasha Howard** 🔴 +15 | 4,382 |
 | 45 | Courtney Vandersloot | 4,352 |
 | 46 | Sophia Young-Malcolm | 4,300 |
 | 47 | Plenette Pierson | 4,258 |
@@ -93,7 +93,7 @@ _Last updated: 2026-05-18 00:37 UTC_
 | 72 | Tamecka Dixon | 3,507 |
 | 73 | Tammy Sutton-Brown | 3,498 |
 | 74 | Sancho Lyttle | 3,478 |
-| 75 | **Brittney Sykes** 🔴 +21 | 3,460 |
+| 75 | **Brittney Sykes** 🔴 +23 | 3,462 |
 | 76 | Ivory Latta | 3,447 |
 | 77 | Jackie Young | 3,412 |
 | 78 | Nicole Powell | 3,407 |
@@ -475,7 +475,7 @@ _Last updated: 2026-05-18 00:37 UTC_
 | 44 | Nikki Teasley | 982 |
 | 45 | Tamecka Dixon | 960 |
 | 46 | Kara Lawson | 946 |
-| 47 | **Kayla McBride** 🔴 | 945 |
+| 46 | **Kayla McBride** 🔴 +1 | 946 |
 | 48 | Deanna Nolan | 930 |
 | 49 | Breanna Stewart | 929 |
 | 50 | Kelly Miller | 927 |
@@ -537,8 +537,8 @@ _Last updated: 2026-05-18 00:37 UTC_
 | 106 | Matee Ajavon | 577 |
 | 107 | Betnijah Laney-Hamilton | 573 |
 | 108 | Napheesa Collier | 570 |
+| 109 | **Natasha Howard** 🔴 +5 | 567 |
 | 109 | Nicole Powell | 567 |
-| 110 | **Natasha Howard** 🔴 +4 | 566 |
 | 111 | Loree Moore | 562 |
 | 112 | Sophia Young-Malcolm | 554 |
 | 112 | Tangela Smith | 554 |
@@ -1050,8 +1050,8 @@ _Last updated: 2026-05-18 00:37 UTC_
 | 3 | Katie Smith | 906 |
 | 4 | Becky Hammon | 825 |
 | 5 | Tina Thompson | 745 |
-| 6 | Katie Douglas | 723 |
-| 6 | **Kayla McBride** 🔴 +1 | 723 |
+| 6 | **Kayla McBride** 🔴 +2 | 724 |
+| 7 | Katie Douglas | 723 |
 | 8 | Kelsey Mitchell | 670 |
 | 9 | Jewell Loyd | 669 |
 | 10 | DeWanna Bonner | 663 |
@@ -1305,7 +1305,7 @@ _Last updated: 2026-05-18 00:37 UTC_
 | 53 | Tammy Sutton-Brown | 672 |
 | 54 | Deanna Nolan | 669 |
 | 55 | **Erica Wheeler** 🔴 +3 | 668 |
-| 56 | **Natasha Cloud** 🔴 +2 | 667 |
+| 55 | **Natasha Cloud** 🔴 +3 | 668 |
 | 57 | Chasity Melvin | 666 |
 | 58 | Vickie Johnson | 660 |
 | 59 | **Dearica Hamby** 🔴 +1 | 658 |
