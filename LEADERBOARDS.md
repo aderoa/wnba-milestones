@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-18 00:43 UTC_
+_Last updated: 2026-05-18 00:44 UTC_
 
 ## Contents
 
@@ -68,8 +68,8 @@ _Last updated: 2026-05-18 00:43 UTC_
 | 47 | Plenette Pierson | 4,258 |
 | 48 | Monique Currie | 4,253 |
 | 49 | Vickie Johnson | 4,230 |
+| 50 | **Kelsey Plum** 🔴 +17 | 4,224 |
 | 50 | Yolanda Griffith | 4,224 |
-| 51 | **Kelsey Plum** 🔴 +16 | 4,223 |
 | 52 | Allisha Gray | 4,182 |
 | 53 | Rebekkah Brunson | 4,133 |
 | 54 | **Dearica Hamby** 🔴 +13 | 4,103 |
@@ -200,7 +200,7 @@ _Last updated: 2026-05-18 00:43 UTC_
 | 179 | Damiris Dantas | 1,817 |
 | 180 | Aliyah Boston | 1,798 |
 | 181 | Charde Houston | 1,797 |
-| 182 | **Rachel Banham** 🔴 +9 | 1,776 |
+| 182 | **Rachel Banham** 🔴 +12 | 1,779 |
 | 183 | Kamila Vodichkova | 1,767 |
 | 184 | Tully Bevilaqua | 1,763 |
 | 185 | Sandy Brondello | 1,759 |
@@ -495,7 +495,7 @@ _Last updated: 2026-05-18 00:43 UTC_
 | 64 | Lisa Leslie | 873 |
 | 65 | Tully Bevilaqua | 853 |
 | 66 | Jia Perkins | 837 |
-| 67 | **Brittney Sykes** 🔴 | 816 |
+| 67 | **Brittney Sykes** 🔴 +1 | 817 |
 | 68 | Andrea Stinson | 810 |
 | 69 | Tina Thompson | 803 |
 | 70 | Kelsey Mitchell | 801 |
@@ -1089,7 +1089,7 @@ _Last updated: 2026-05-18 00:43 UTC_
 | 42 | Courtney Vandersloot | 385 |
 | 43 | Briann January | 381 |
 | 44 | Jasmine Thomas | 376 |
-| 45 | **Rachel Banham** 🔴 +1 | 373 |
+| 45 | **Rachel Banham** 🔴 +2 | 374 |
 | 46 | Allison Feaster | 372 |
 | 46 | Betty Lennox | 372 |
 | 48 | Epiphanny Prince | 368 |
