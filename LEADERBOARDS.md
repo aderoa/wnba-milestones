@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-18 01:10 UTC_
+_Last updated: 2026-05-18 01:11 UTC_
 
 ## Contents
 
@@ -24,7 +24,7 @@ _Last updated: 2026-05-18 01:10 UTC_
 | 3 | DeWanna Bonner | 7,805 |
 | 4 | Tina Thompson | 7,470 |
 | 5 | Tamika Catchings | 7,371 |
-| 6 | **Nneka Ogwumike** 🔴 +14 | 7,319 |
+| 6 | **Nneka Ogwumike** 🔴 +17 | 7,322 |
 | 7 | Candice Dupree | 6,861 |
 | 8 | Sue Bird | 6,802 |
 | 9 | Cappie Pondexter | 6,781 |
@@ -230,7 +230,7 @@ _Last updated: 2026-05-18 01:10 UTC_
 | 4 | Rebekkah Brunson | 3,345 |
 | 5 | Tamika Catchings | 3,313 |
 | 6 | Lisa Leslie | 3,303 |
-| 7 | **Nneka Ogwumike** 🔴 +5 | 3,273 |
+| 7 | **Nneka Ogwumike** 🔴 +6 | 3,274 |
 | 8 | DeWanna Bonner | 3,203 |
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
@@ -456,7 +456,7 @@ _Last updated: 2026-05-18 01:10 UTC_
 | 25 | Katie Smith | 1,258 |
 | 26 | Vickie Johnson | 1,202 |
 | 27 | Odyssey Sims | 1,201 |
-| 28 | **Kelsey Plum** 🔴 +5 | 1,198 |
+| 28 | **Kelsey Plum** 🔴 +6 | 1,199 |
 | 29 | Leilani Mitchell | 1,197 |
 | 30 | DeWanna Bonner | 1,176 |
 | 31 | Jordin Canada | 1,144 |
@@ -1141,8 +1141,8 @@ _Last updated: 2026-05-18 01:10 UTC_
 | 94 | Svetlana Abrosimova | 235 |
 | 94 | Tangela Smith | 235 |
 | 96 | **Brittney Sykes** 🔴 +3 | 234 |
-| 97 | **Nneka Ogwumike** 🔴 +1 | 232 |
-| 97 | Stacey Dales | 232 |
+| 97 | **Nneka Ogwumike** 🔴 +2 | 233 |
+| 98 | Stacey Dales | 232 |
 | 99 | Odyssey Sims | 229 |
 | 100 | Elena Baranova | 224 |
 | 101 | Essence Carson | 223 |
