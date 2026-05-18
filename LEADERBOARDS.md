@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-18 00:55 UTC_
+_Last updated: 2026-05-18 00:56 UTC_
 
 ## Contents
 
@@ -62,7 +62,7 @@ _Last updated: 2026-05-18 00:55 UTC_
 | 41 | Crystal Langhorne | 4,433 |
 | 41 | Jia Perkins | 4,433 |
 | 43 | Chelsea Gray | 4,430 |
-| 44 | **Natasha Howard** 🔴 +15 | 4,382 |
+| 44 | **Natasha Howard** 🔴 +17 | 4,384 |
 | 45 | Courtney Vandersloot | 4,352 |
 | 46 | Sophia Young-Malcolm | 4,300 |
 | 47 | Plenette Pierson | 4,258 |
@@ -75,7 +75,7 @@ _Last updated: 2026-05-18 00:55 UTC_
 | 54 | **Dearica Hamby** 🔴 +18 | 4,108 |
 | 55 | Jonquel Jones | 4,096 |
 | 56 | Kahleah Copper | 4,083 |
-| 57 | **Courtney Williams** 🔴 +14 | 4,075 |
+| 57 | **Courtney Williams** 🔴 +17 | 4,078 |
 | 58 | Asjha Jones | 3,986 |
 | 59 | Deanna Nolan | 3,971 |
 | 60 | Nykesha Sales | 3,931 |
@@ -537,7 +537,7 @@ _Last updated: 2026-05-18 00:55 UTC_
 | 106 | Matee Ajavon | 577 |
 | 107 | Betnijah Laney-Hamilton | 573 |
 | 108 | Napheesa Collier | 570 |
-| 109 | **Natasha Howard** 🔴 +7 | 569 |
+| 108 | **Natasha Howard** 🔴 +8 | 570 |
 | 110 | Nicole Powell | 567 |
 | 111 | Loree Moore | 562 |
 | 112 | Sophia Young-Malcolm | 554 |
@@ -1129,7 +1129,7 @@ _Last updated: 2026-05-18 00:55 UTC_
 | 82 | Stefanie Dolson | 267 |
 | 83 | Bridget Carleton | 262 |
 | 84 | Sophia Witherspoon | 260 |
-| 85 | **Courtney Williams** 🔴 +2 | 255 |
+| 85 | **Courtney Williams** 🔴 +3 | 256 |
 | 86 | Dawn Staley | 254 |
 | 87 | Bria Hartley | 253 |
 | 88 | Rebecca Allen | 252 |
