@@ -134,14 +134,14 @@
   "1630386": {
     "player_id": 1630386,
     "player_name": "Awak Kuier",
-    "PTS": 224,
-    "REB": 216,
-    "AST": 58,
-    "BLK": 65,
-    "STL": 25,
-    "FG3M": 9,
-    "TOV": 57,
-    "PF": 66
+    "PTS": 230,
+    "REB": 222,
+    "AST": 60,
+    "BLK": 66,
+    "STL": 26,
+    "FG3M": 10,
+    "TOV": 58,
+    "PF": 67
   },
   "1630387": {
     "player_id": 1630387,
@@ -230,14 +230,14 @@
   "1630442": {
     "player_id": 1630442,
     "player_name": "Natasha Mack",
-    "PTS": 318,
-    "REB": 400,
-    "AST": 74,
-    "BLK": 99,
-    "STL": 57,
-    "FG3M": 0,
-    "TOV": 45,
-    "PF": 113
+    "PTS": 358,
+    "REB": 433,
+    "AST": 79,
+    "BLK": 108,
+    "STL": 60,
+    "FG3M": 1,
+    "TOV": 49,
+    "PF": 126
   },
   "1630444": {
     "player_id": 1630444,
@@ -326,14 +326,14 @@
   "1630461": {
     "player_id": 1630461,
     "player_name": "Kiana Williams",
-    "PTS": 65,
-    "REB": 19,
-    "AST": 22,
+    "PTS": 87,
+    "REB": 21,
+    "AST": 24,
     "BLK": 0,
-    "STL": 4,
-    "FG3M": 14,
-    "TOV": 13,
-    "PF": 13
+    "STL": 7,
+    "FG3M": 20,
+    "TOV": 17,
+    "PF": 18
   },
   "1630462": {
     "player_id": 1630462,
@@ -350,14 +350,14 @@
   "1630471": {
     "player_id": 1630471,
     "player_name": "Maya Caldwell",
-    "PTS": 508,
-    "REB": 221,
-    "AST": 140,
-    "BLK": 17,
-    "STL": 68,
-    "FG3M": 76,
-    "TOV": 99,
-    "PF": 137
+    "PTS": 519,
+    "REB": 227,
+    "AST": 145,
+    "BLK": 18,
+    "STL": 70,
+    "FG3M": 78,
+    "TOV": 101,
+    "PF": 140
   },
   "1642763": {
     "player_id": 1642763,
@@ -386,26 +386,26 @@
   "1642767": {
     "player_id": 1642767,
     "player_name": "Janelle Salaun",
-    "PTS": 427,
-    "REB": 185,
-    "AST": 44,
+    "PTS": 454,
+    "REB": 189,
+    "AST": 46,
     "BLK": 4,
-    "STL": 22,
-    "FG3M": 68,
+    "STL": 23,
+    "FG3M": 73,
     "TOV": 54,
-    "PF": 74
+    "PF": 76
   },
   "1642768": {
     "player_id": 1642768,
     "player_name": "Kyara Linskens",
-    "PTS": 4,
-    "REB": 6,
-    "AST": 1,
-    "BLK": 3,
-    "STL": 1,
-    "FG3M": 0,
-    "TOV": 2,
-    "PF": 7
+    "PTS": 16,
+    "REB": 15,
+    "AST": 4,
+    "BLK": 5,
+    "STL": 4,
+    "FG3M": 2,
+    "TOV": 3,
+    "PF": 14
   },
   "1642773": {
     "player_id": 1642773,
@@ -434,14 +434,14 @@
   "1642775": {
     "player_id": 1642775,
     "player_name": "Alex Wilson",
-    "PTS": 2,
-    "REB": 2,
-    "AST": 1,
-    "BLK": 0,
+    "PTS": 10,
+    "REB": 7,
+    "AST": 3,
+    "BLK": 1,
     "STL": 0,
-    "FG3M": 0,
-    "TOV": 0,
-    "PF": 4
+    "FG3M": 2,
+    "TOV": 2,
+    "PF": 7
   },
   "1642777": {
     "player_id": 1642777,
@@ -458,50 +458,62 @@
   "1642781": {
     "player_id": 1642781,
     "player_name": "Georgia Amoore",
-    "PTS": 6,
-    "REB": 3,
-    "AST": 3,
+    "PTS": 20,
+    "REB": 4,
+    "AST": 14,
     "BLK": 0,
-    "STL": 2,
-    "FG3M": 2,
-    "TOV": 5,
-    "PF": 1
+    "STL": 3,
+    "FG3M": 4,
+    "TOV": 8,
+    "PF": 7
   },
   "1642782": {
     "player_id": 1642782,
     "player_name": "Sarah Ashlee Barker",
-    "PTS": 105,
-    "REB": 66,
-    "AST": 31,
-    "BLK": 4,
-    "STL": 11,
-    "FG3M": 18,
-    "TOV": 37,
-    "PF": 45
+    "PTS": 129,
+    "REB": 75,
+    "AST": 36,
+    "BLK": 5,
+    "STL": 13,
+    "FG3M": 22,
+    "TOV": 43,
+    "PF": 51
   },
   "1642784": {
     "player_id": 1642784,
     "player_name": "Paige Bueckers",
-    "PTS": 692,
-    "REB": 142,
-    "AST": 194,
-    "BLK": 18,
-    "STL": 57,
-    "FG3M": 39,
-    "TOV": 72,
-    "PF": 82
+    "PTS": 754,
+    "REB": 150,
+    "AST": 209,
+    "BLK": 19,
+    "STL": 58,
+    "FG3M": 45,
+    "TOV": 76,
+    "PF": 88
   },
   "1642785": {
     "player_id": 1642785,
     "player_name": "Sonia Citron",
-    "PTS": 683,
-    "REB": 176,
-    "AST": 104,
-    "BLK": 19,
-    "STL": 57,
-    "FG3M": 84,
-    "TOV": 93,
-    "PF": 96
+    "PTS": 730,
+    "REB": 187,
+    "AST": 110,
+    "BLK": 20,
+    "STL": 60,
+    "FG3M": 85,
+    "TOV": 97,
+    "PF": 99
+  },
+  "1642786": {
+    "player_id": 1642786,
+    "player_name": "Aicha Coulibaly",
+    "PTS": 16,
+    "REB": 4,
+    "AST": 2,
+    "BLK": 0,
+    "STL": 3,
+    "FG3M": 0,
+    "TOV": 0,
+    "PF": 7
   },
   "1642788": {
     "player_id": 1642788,
@@ -537,31 +549,31 @@
     "STL": 0,
     "FG3M": 0,
     "TOV": 7,
-    "PF": 16
+    "PF": 17
   },
   "1642792": {
     "player_id": 1642792,
     "player_name": "Kiki Iriafen",
-    "PTS": 596,
-    "REB": 392,
-    "AST": 71,
-    "BLK": 8,
-    "STL": 26,
-    "FG3M": 2,
-    "TOV": 98,
-    "PF": 131
+    "PTS": 641,
+    "REB": 417,
+    "AST": 76,
+    "BLK": 9,
+    "STL": 28,
+    "FG3M": 3,
+    "TOV": 106,
+    "PF": 139
   },
   "1642793": {
     "player_id": 1642793,
     "player_name": "Aziaha James",
-    "PTS": 285,
-    "REB": 111,
-    "AST": 59,
-    "BLK": 7,
-    "STL": 24,
-    "FG3M": 32,
-    "TOV": 38,
-    "PF": 46
+    "PTS": 305,
+    "REB": 117,
+    "AST": 61,
+    "BLK": 9,
+    "STL": 28,
+    "FG3M": 35,
+    "TOV": 41,
+    "PF": 53
   },
   "1628283": {
     "player_id": 1628283,
@@ -590,26 +602,26 @@
   "1642797": {
     "player_id": 1642797,
     "player_name": "Anastasiia Olairi Kosu",
-    "PTS": 35,
-    "REB": 15,
-    "AST": 5,
-    "BLK": 4,
-    "STL": 1,
+    "PTS": 45,
+    "REB": 18,
+    "AST": 8,
+    "BLK": 5,
+    "STL": 2,
     "FG3M": 0,
     "TOV": 7,
-    "PF": 9
+    "PF": 15
   },
   "1642798": {
     "player_id": 1642798,
     "player_name": "Dominique Malonga",
-    "PTS": 344,
-    "REB": 203,
-    "AST": 36,
-    "BLK": 30,
-    "STL": 17,
-    "FG3M": 4,
-    "TOV": 51,
-    "PF": 90
+    "PTS": 371,
+    "REB": 217,
+    "AST": 37,
+    "BLK": 34,
+    "STL": 20,
+    "FG3M": 6,
+    "TOV": 54,
+    "PF": 95
   },
   "1642799": {
     "player_id": 1642799,
@@ -638,14 +650,14 @@
   "1642800": {
     "player_id": 1642800,
     "player_name": "Aneesah Morrow",
-    "PTS": 329,
-    "REB": 288,
-    "AST": 21,
+    "PTS": 372,
+    "REB": 325,
+    "AST": 24,
     "BLK": 18,
-    "STL": 33,
-    "FG3M": 19,
-    "TOV": 50,
-    "PF": 86
+    "STL": 37,
+    "FG3M": 23,
+    "TOV": 54,
+    "PF": 94
   },
   "1642801": {
     "player_id": 1642801,
@@ -662,26 +674,26 @@
   "1642802": {
     "player_id": 1642802,
     "player_name": "Lucy Olsen",
-    "PTS": 165,
+    "PTS": 170,
     "REB": 48,
-    "AST": 50,
+    "AST": 51,
     "BLK": 5,
     "STL": 15,
-    "FG3M": 19,
+    "FG3M": 20,
     "TOV": 23,
-    "PF": 45
+    "PF": 46
   },
   "1642804": {
     "player_id": 1642804,
     "player_name": "Te-Hina Paopao",
-    "PTS": 250,
-    "REB": 69,
-    "AST": 105,
-    "BLK": 9,
-    "STL": 20,
-    "FG3M": 51,
-    "TOV": 44,
-    "PF": 48
+    "PTS": 277,
+    "REB": 79,
+    "AST": 112,
+    "BLK": 11,
+    "STL": 21,
+    "FG3M": 55,
+    "TOV": 49,
+    "PF": 58
   },
   "1642808": {
     "player_id": 1642808,
@@ -698,14 +710,14 @@
   "1642809": {
     "player_id": 1642809,
     "player_name": "Saniya Rivers",
-    "PTS": 376,
-    "REB": 120,
-    "AST": 119,
-    "BLK": 39,
-    "STL": 62,
-    "FG3M": 43,
-    "TOV": 66,
-    "PF": 72
+    "PTS": 400,
+    "REB": 125,
+    "AST": 133,
+    "BLK": 41,
+    "STL": 64,
+    "FG3M": 45,
+    "TOV": 71,
+    "PF": 78
   },
   "1628286": {
     "player_id": 1628286,
@@ -758,26 +770,26 @@
   "1642815": {
     "player_id": 1642815,
     "player_name": "Makayla Timpson",
-    "PTS": 82,
-    "REB": 57,
-    "AST": 1,
+    "PTS": 101,
+    "REB": 67,
+    "AST": 4,
     "BLK": 8,
-    "STL": 13,
+    "STL": 14,
     "FG3M": 0,
-    "TOV": 8,
-    "PF": 24
+    "TOV": 9,
+    "PF": 30
   },
   "1642817": {
     "player_id": 1642817,
     "player_name": "Hailey Van Lith",
-    "PTS": 111,
-    "REB": 32,
-    "AST": 49,
-    "BLK": 4,
-    "STL": 13,
-    "FG3M": 6,
-    "TOV": 38,
-    "PF": 24
+    "PTS": 146,
+    "REB": 36,
+    "AST": 58,
+    "BLK": 5,
+    "STL": 16,
+    "FG3M": 11,
+    "TOV": 42,
+    "PF": 30
   },
   "1642818": {
     "player_id": 1642818,
@@ -806,26 +818,26 @@
   "1642822": {
     "player_id": 1642822,
     "player_name": "Kaitlyn Chen",
-    "PTS": 62,
-    "REB": 23,
-    "AST": 26,
+    "PTS": 68,
+    "REB": 32,
+    "AST": 28,
     "BLK": 0,
     "STL": 5,
     "FG3M": 7,
-    "TOV": 18,
-    "PF": 16
+    "TOV": 21,
+    "PF": 18
   },
   "1642826": {
     "player_id": 1642826,
     "player_name": "Aubrey Griffin",
     "PTS": 2,
-    "REB": 0,
+    "REB": 1,
     "AST": 0,
     "BLK": 0,
     "STL": 0,
     "FG3M": 0,
     "TOV": 1,
-    "PF": 0
+    "PF": 1
   },
   "1642828": {
     "player_id": 1642828,
@@ -1623,13 +1635,13 @@
     "player_id": 1631006,
     "player_name": "Kierstan Bell",
     "PTS": 322,
-    "REB": 143,
-    "AST": 53,
-    "BLK": 19,
-    "STL": 31,
+    "REB": 150,
+    "AST": 55,
+    "BLK": 20,
+    "STL": 32,
     "FG3M": 57,
-    "TOV": 37,
-    "PF": 92
+    "TOV": 39,
+    "PF": 93
   },
   "201509": {
     "player_id": 201509,
@@ -1658,26 +1670,26 @@
   "1631007": {
     "player_id": 1631007,
     "player_name": "Veronica Burton",
-    "PTS": 825,
-    "REB": 361,
-    "AST": 485,
+    "PTS": 854,
+    "REB": 367,
+    "AST": 501,
     "BLK": 55,
-    "STL": 129,
-    "FG3M": 101,
-    "TOV": 162,
-    "PF": 247
+    "STL": 133,
+    "FG3M": 104,
+    "TOV": 167,
+    "PF": 255
   },
   "1631009": {
     "player_id": 1631009,
     "player_name": "Rhyne Howard",
-    "PTS": 2329,
-    "REB": 626,
-    "AST": 481,
-    "BLK": 97,
-    "STL": 210,
-    "FG3M": 366,
-    "TOV": 234,
-    "PF": 356
+    "PTS": 2358,
+    "REB": 635,
+    "AST": 490,
+    "BLK": 98,
+    "STL": 214,
+    "FG3M": 370,
+    "TOV": 237,
+    "PF": 364
   },
   "201513": {
     "player_id": 201513,
@@ -1754,14 +1766,14 @@
   "1631019": {
     "player_id": 1631019,
     "player_name": "NaLyssa Smith",
-    "PTS": 1676,
-    "REB": 1054,
-    "AST": 163,
-    "BLK": 86,
-    "STL": 80,
+    "PTS": 1722,
+    "REB": 1081,
+    "AST": 169,
+    "BLK": 91,
+    "STL": 82,
     "FG3M": 78,
-    "TOV": 263,
-    "PF": 424
+    "TOV": 267,
+    "PF": 442
   },
   "201520": {
     "player_id": 201520,
@@ -1779,25 +1791,25 @@
     "player_id": 1631021,
     "player_name": "Sika Kon\u00e9",
     "PTS": 179,
-    "REB": 114,
+    "REB": 116,
     "AST": 22,
     "BLK": 3,
     "STL": 9,
     "FG3M": 6,
-    "TOV": 35,
-    "PF": 59
+    "TOV": 36,
+    "PF": 61
   },
   "1631022": {
     "player_id": 1631022,
     "player_name": "Shakira Austin",
-    "PTS": 1142,
-    "REB": 700,
-    "AST": 131,
-    "BLK": 103,
+    "PTS": 1177,
+    "REB": 719,
+    "AST": 140,
+    "BLK": 106,
     "STL": 101,
     "FG3M": 3,
-    "TOV": 212,
-    "PF": 243
+    "TOV": 216,
+    "PF": 250
   },
   "1631029": {
     "player_id": 1631029,
@@ -1898,14 +1910,14 @@
   "1631044": {
     "player_id": 1631044,
     "player_name": "Naz Hillmon",
-    "PTS": 923,
-    "REB": 773,
-    "AST": 225,
+    "PTS": 945,
+    "REB": 788,
+    "AST": 228,
     "BLK": 43,
-    "STL": 79,
-    "FG3M": 54,
-    "TOV": 167,
-    "PF": 237
+    "STL": 80,
+    "FG3M": 56,
+    "TOV": 168,
+    "PF": 245
   },
   "1631046": {
     "player_id": 1631046,
@@ -1946,14 +1958,14 @@
   "1631055": {
     "player_id": 1631055,
     "player_name": "Nyara Sabally",
-    "PTS": 304,
-    "REB": 258,
-    "AST": 35,
-    "BLK": 44,
-    "STL": 39,
+    "PTS": 333,
+    "REB": 276,
+    "AST": 45,
+    "BLK": 49,
+    "STL": 43,
     "FG3M": 3,
-    "TOV": 48,
-    "PF": 121
+    "TOV": 52,
+    "PF": 127
   },
   "1631056": {
     "player_id": 1631056,
@@ -2054,26 +2066,26 @@
   "1631083": {
     "player_id": 1631083,
     "player_name": "Emily Engstler",
-    "PTS": 545,
-    "REB": 468,
-    "AST": 163,
-    "BLK": 92,
-    "STL": 79,
-    "FG3M": 61,
-    "TOV": 118,
-    "PF": 219
+    "PTS": 566,
+    "REB": 477,
+    "AST": 166,
+    "BLK": 99,
+    "STL": 82,
+    "FG3M": 65,
+    "TOV": 125,
+    "PF": 228
   },
   "1631086": {
     "player_id": 1631086,
     "player_name": "Lexie Hull",
-    "PTS": 741,
-    "REB": 396,
-    "AST": 165,
+    "PTS": 760,
+    "REB": 406,
+    "AST": 168,
     "BLK": 29,
-    "STL": 118,
-    "FG3M": 109,
-    "TOV": 118,
-    "PF": 337
+    "STL": 122,
+    "FG3M": 111,
+    "TOV": 122,
+    "PF": 351
   },
   "1631089": {
     "player_id": 1631089,
@@ -2121,91 +2133,151 @@
     "STL": 23,
     "FG3M": 28,
     "TOV": 28,
-    "PF": 38
+    "PF": 39
   },
   "1643420": {
     "player_id": 1643420,
     "player_name": "Laura Juskaite",
-    "PTS": 7,
-    "REB": 6,
-    "AST": 0,
+    "PTS": 30,
+    "REB": 15,
+    "AST": 5,
     "BLK": 0,
-    "STL": 1,
-    "FG3M": 1,
-    "TOV": 2,
-    "PF": 5
+    "STL": 7,
+    "FG3M": 3,
+    "TOV": 5,
+    "PF": 16
   },
   "1631135": {
     "player_id": 1631135,
     "player_name": "Olivia Nelson-Ododa",
-    "PTS": 727,
-    "REB": 512,
-    "AST": 79,
-    "BLK": 121,
-    "STL": 71,
+    "PTS": 746,
+    "REB": 519,
+    "AST": 83,
+    "BLK": 122,
+    "STL": 73,
     "FG3M": 1,
-    "TOV": 129,
-    "PF": 318
+    "TOV": 132,
+    "PF": 324
   },
   "1631136": {
     "player_id": 1631136,
     "player_name": "Pauline Astier",
-    "PTS": 5,
-    "REB": 2,
-    "AST": 4,
+    "PTS": 67,
+    "REB": 15,
+    "AST": 16,
     "BLK": 0,
-    "STL": 1,
-    "FG3M": 0,
-    "TOV": 0,
+    "STL": 6,
+    "FG3M": 5,
+    "TOV": 7,
+    "PF": 14
+  },
+  "1643425": {
+    "player_id": 1643425,
+    "player_name": "Azzi Fudd",
+    "PTS": 11,
+    "REB": 2,
+    "AST": 0,
+    "BLK": 1,
+    "STL": 2,
+    "FG3M": 1,
+    "TOV": 2,
     "PF": 4
+  },
+  "1643426": {
+    "player_id": 1643426,
+    "player_name": "Olivia Miles",
+    "PTS": 62,
+    "REB": 17,
+    "AST": 23,
+    "BLK": 4,
+    "STL": 6,
+    "FG3M": 2,
+    "TOV": 12,
+    "PF": 13
   },
   "1643427": {
     "player_id": 1643427,
     "player_name": "Lauren Betts",
-    "PTS": 0,
-    "REB": 5,
-    "AST": 1,
-    "BLK": 0,
+    "PTS": 11,
+    "REB": 9,
+    "AST": 2,
+    "BLK": 1,
     "STL": 0,
     "FG3M": 0,
-    "TOV": 0,
-    "PF": 1
+    "TOV": 1,
+    "PF": 6
   },
   "1643428": {
     "player_id": 1643428,
     "player_name": "Flau'jae Johnson",
-    "PTS": 12,
-    "REB": 2,
-    "AST": 2,
-    "BLK": 0,
-    "STL": 1,
-    "FG3M": 3,
-    "TOV": 2,
-    "PF": 2
+    "PTS": 49,
+    "REB": 20,
+    "AST": 5,
+    "BLK": 6,
+    "STL": 6,
+    "FG3M": 4,
+    "TOV": 8,
+    "PF": 9
   },
   "1631141": {
     "player_id": 1631141,
     "player_name": "Jade Melbourne",
-    "PTS": 543,
-    "REB": 171,
-    "AST": 221,
-    "BLK": 14,
-    "STL": 63,
-    "FG3M": 51,
-    "TOV": 160,
-    "PF": 203
+    "PTS": 584,
+    "REB": 174,
+    "AST": 236,
+    "BLK": 15,
+    "STL": 67,
+    "FG3M": 53,
+    "TOV": 167,
+    "PF": 214
   },
   "1643429": {
     "player_id": 1643429,
     "player_name": "Gianna Kneepkens",
-    "PTS": 7,
+    "PTS": 16,
+    "REB": 12,
+    "AST": 3,
+    "BLK": 0,
+    "STL": 1,
+    "FG3M": 1,
+    "TOV": 2,
+    "PF": 6
+  },
+  "1643430": {
+    "player_id": 1643430,
+    "player_name": "Cotie McMahon",
+    "PTS": 13,
     "REB": 5,
-    "AST": 1,
+    "AST": 2,
     "BLK": 0,
     "STL": 0,
-    "FG3M": 1,
-    "TOV": 0,
-    "PF": 2
+    "FG3M": 2,
+    "TOV": 1,
+    "PF": 4
+  },
+  "1643431": {
+    "player_id": 1643431,
+    "player_name": "Madina Okot",
+    "PTS": 22,
+    "REB": 20,
+    "AST": 1,
+    "BLK": 1,
+    "STL": 1,
+    "FG3M": 0,
+    "TOV": 3,
+    "PF": 6
+  },
+  "1643433": {
+    "player_id": 1643433,
+    "player_name": "Raven Johnson",
+    "PTS": 4,
+    "REB": 8,
+    "AST": 5,
+    "BLK": 1,
+    "STL": 1,
+    "FG3M": 0,
+    "TOV": 4,
+    "PF": 4
   },
   "1631147": {
     "player_id": 1631147,
@@ -2219,101 +2291,173 @@
     "TOV": 4,
     "PF": 11
   },
+  "1643436": {
+    "player_id": 1643436,
+    "player_name": "Serah Williams",
+    "PTS": 1,
+    "REB": 4,
+    "AST": 2,
+    "BLK": 1,
+    "STL": 1,
+    "FG3M": 0,
+    "TOV": 0,
+    "PF": 0
+  },
   "1643441": {
     "player_id": 1643441,
     "player_name": "Raegan Beers",
-    "PTS": 1,
-    "REB": 2,
-    "AST": 0,
-    "BLK": 0,
-    "STL": 0,
-    "FG3M": 0,
-    "TOV": 0,
-    "PF": 2
-  },
-  "1643445": {
-    "player_id": 1643445,
-    "player_name": "Kiki Rice",
-    "PTS": 0,
-    "REB": 3,
-    "AST": 1,
-    "BLK": 0,
-    "STL": 0,
-    "FG3M": 0,
-    "TOV": 0,
-    "PF": 0
-  },
-  "1643449": {
-    "player_id": 1643449,
-    "player_name": "Charlisse Leger-Walker",
-    "PTS": 4,
-    "REB": 2,
-    "AST": 1,
-    "BLK": 0,
-    "STL": 0,
-    "FG3M": 0,
-    "TOV": 1,
-    "PF": 1
-  },
-  "1643450": {
-    "player_id": 1643450,
-    "player_name": "Rori Harmon",
-    "PTS": 0,
-    "REB": 2,
-    "AST": 2,
-    "BLK": 0,
-    "STL": 3,
-    "FG3M": 0,
-    "TOV": 3,
-    "PF": 4
-  },
-  "1643453": {
-    "player_id": 1643453,
-    "player_name": "Grace Vanslooten",
-    "PTS": 5,
-    "REB": 0,
-    "AST": 0,
-    "BLK": 0,
-    "STL": 0,
-    "FG3M": 1,
-    "TOV": 0,
-    "PF": 2
-  },
-  "1643455": {
-    "player_id": 1643455,
-    "player_name": "Angela Dugalic",
-    "PTS": 2,
-    "REB": 2,
-    "AST": 0,
-    "BLK": 0,
-    "STL": 0,
-    "FG3M": 0,
-    "TOV": 1,
-    "PF": 1
-  },
-  "1643457": {
-    "player_id": 1643457,
-    "player_name": "Teonni Key",
-    "PTS": 0,
-    "REB": 3,
-    "AST": 1,
-    "BLK": 1,
-    "STL": 0,
-    "FG3M": 0,
-    "TOV": 1,
-    "PF": 0
-  },
-  "1643467": {
-    "player_id": 1643467,
-    "player_name": "Cassandre Prosper",
-    "PTS": 2,
-    "REB": 1,
+    "PTS": 14,
+    "REB": 9,
     "AST": 2,
     "BLK": 0,
     "STL": 1,
     "FG3M": 0,
     "TOV": 1,
+    "PF": 9
+  },
+  "1643444": {
+    "player_id": 1643444,
+    "player_name": "Ta'Niya Latson",
+    "PTS": 2,
+    "REB": 1,
+    "AST": 0,
+    "BLK": 0,
+    "STL": 0,
+    "FG3M": 0,
+    "TOV": 2,
+    "PF": 0
+  },
+  "1643445": {
+    "player_id": 1643445,
+    "player_name": "Kiki Rice",
+    "PTS": 42,
+    "REB": 10,
+    "AST": 6,
+    "BLK": 0,
+    "STL": 0,
+    "FG3M": 5,
+    "TOV": 1,
+    "PF": 12
+  },
+  "1643447": {
+    "player_id": 1643447,
+    "player_name": "Gabriela Jaquez",
+    "PTS": 50,
+    "REB": 23,
+    "AST": 5,
+    "BLK": 0,
+    "STL": 4,
+    "FG3M": 3,
+    "TOV": 5,
+    "PF": 9
+  },
+  "1643448": {
+    "player_id": 1643448,
+    "player_name": "Nell Angloma",
+    "PTS": 7,
+    "REB": 1,
+    "AST": 1,
+    "BLK": 0,
+    "STL": 0,
+    "FG3M": 0,
+    "TOV": 1,
+    "PF": 2
+  },
+  "1643449": {
+    "player_id": 1643449,
+    "player_name": "Charlisse Leger-Walker",
+    "PTS": 22,
+    "REB": 7,
+    "AST": 9,
+    "BLK": 0,
+    "STL": 2,
+    "FG3M": 1,
+    "TOV": 4,
+    "PF": 7
+  },
+  "1643450": {
+    "player_id": 1643450,
+    "player_name": "Rori Harmon",
+    "PTS": 4,
+    "REB": 6,
+    "AST": 7,
+    "BLK": 0,
+    "STL": 5,
+    "FG3M": 1,
+    "TOV": 9,
     "PF": 6
+  },
+  "1643453": {
+    "player_id": 1643453,
+    "player_name": "Grace Vanslooten",
+    "PTS": 17,
+    "REB": 6,
+    "AST": 3,
+    "BLK": 3,
+    "STL": 4,
+    "FG3M": 2,
+    "TOV": 1,
+    "PF": 2
+  },
+  "1643455": {
+    "player_id": 1643455,
+    "player_name": "Angela Dugalic",
+    "PTS": 7,
+    "REB": 7,
+    "AST": 0,
+    "BLK": 1,
+    "STL": 1,
+    "FG3M": 1,
+    "TOV": 1,
+    "PF": 5
+  },
+  "1643457": {
+    "player_id": 1643457,
+    "player_name": "Teonni Key",
+    "PTS": 13,
+    "REB": 13,
+    "AST": 2,
+    "BLK": 4,
+    "STL": 1,
+    "FG3M": 1,
+    "TOV": 1,
+    "PF": 7
+  },
+  "1643462": {
+    "player_id": 1643462,
+    "player_name": "Chance Gray",
+    "PTS": 6,
+    "REB": 4,
+    "AST": 1,
+    "BLK": 0,
+    "STL": 0,
+    "FG3M": 0,
+    "TOV": 2,
+    "PF": 5
+  },
+  "1643467": {
+    "player_id": 1643467,
+    "player_name": "Cassandre Prosper",
+    "PTS": 12,
+    "REB": 8,
+    "AST": 2,
+    "BLK": 1,
+    "STL": 2,
+    "FG3M": 0,
+    "TOV": 5,
+    "PF": 18
+  },
+  "1643469": {
+    "player_id": 1643469,
+    "player_name": "Indya Nivar",
+    "PTS": 0,
+    "REB": 7,
+    "AST": 3,
+    "BLK": 2,
+    "STL": 1,
+    "FG3M": 0,
+    "TOV": 0,
+    "PF": 0
   },
   "1643479": {
     "player_id": 1643479,
@@ -2327,17 +2471,125 @@
     "TOV": 0,
     "PF": 0
   },
+  "1643487": {
+    "player_id": 1643487,
+    "player_name": "Quionche Carter",
+    "PTS": 2,
+    "REB": 2,
+    "AST": 1,
+    "BLK": 0,
+    "STL": 0,
+    "FG3M": 0,
+    "TOV": 0,
+    "PF": 1
+  },
+  "1643488": {
+    "player_id": 1643488,
+    "player_name": "Emma Cechova",
+    "PTS": 25,
+    "REB": 11,
+    "AST": 0,
+    "BLK": 2,
+    "STL": 1,
+    "FG3M": 0,
+    "TOV": 4,
+    "PF": 12
+  },
+  "1643489": {
+    "player_id": 1643489,
+    "player_name": "Antonia Delaere",
+    "PTS": 10,
+    "REB": 1,
+    "AST": 4,
+    "BLK": 0,
+    "STL": 1,
+    "FG3M": 1,
+    "TOV": 2,
+    "PF": 5
+  },
+  "1643490": {
+    "player_id": 1643490,
+    "player_name": "Eliska Hamzova",
+    "PTS": 2,
+    "REB": 1,
+    "AST": 0,
+    "BLK": 0,
+    "STL": 0,
+    "FG3M": 0,
+    "TOV": 2,
+    "PF": 1
+  },
+  "1643493": {
+    "player_id": 1643493,
+    "player_name": "Noemie Brochant",
+    "PTS": 19,
+    "REB": 6,
+    "AST": 1,
+    "BLK": 0,
+    "STL": 1,
+    "FG3M": 4,
+    "TOV": 1,
+    "PF": 6
+  },
+  "1643494": {
+    "player_id": 1643494,
+    "player_name": "Frieda Buhner",
+    "PTS": 6,
+    "REB": 5,
+    "AST": 0,
+    "BLK": 0,
+    "STL": 0,
+    "FG3M": 0,
+    "TOV": 2,
+    "PF": 7
+  },
+  "1643505": {
+    "player_id": 1643505,
+    "player_name": "Jovana Nogic",
+    "PTS": 64,
+    "REB": 6,
+    "AST": 7,
+    "BLK": 0,
+    "STL": 5,
+    "FG3M": 13,
+    "TOV": 7,
+    "PF": 11
+  },
+  "1643525": {
+    "player_id": 1643525,
+    "player_name": "Alex Fowler",
+    "PTS": 12,
+    "REB": 0,
+    "AST": 1,
+    "BLK": 0,
+    "STL": 0,
+    "FG3M": 2,
+    "TOV": 3,
+    "PF": 6
+  },
+  "1643527": {
+    "player_id": 1643527,
+    "player_name": "Jordan Harrison",
+    "PTS": 4,
+    "REB": 0,
+    "AST": 4,
+    "BLK": 0,
+    "STL": 0,
+    "FG3M": 0,
+    "TOV": 2,
+    "PF": 2
+  },
   "1631263": {
     "player_id": 1631263,
     "player_name": "Nikolina Mili\u0107",
-    "PTS": 416,
-    "REB": 186,
-    "AST": 56,
+    "PTS": 418,
+    "REB": 187,
+    "AST": 57,
     "BLK": 13,
     "STL": 14,
     "FG3M": 14,
-    "TOV": 84,
-    "PF": 125
+    "TOV": 87,
+    "PF": 128
   },
   "201869": {
     "player_id": 201869,
@@ -2402,14 +2654,14 @@
   "201886": {
     "player_id": 201886,
     "player_name": "DeWanna Bonner",
-    "PTS": 7805,
-    "REB": 3203,
-    "AST": 1176,
-    "BLK": 344,
-    "STL": 631,
-    "FG3M": 663,
-    "TOV": 826,
-    "PF": 891
+    "PTS": 7847,
+    "REB": 3232,
+    "AST": 1183,
+    "BLK": 349,
+    "STL": 633,
+    "FG3M": 668,
+    "TOV": 830,
+    "PF": 899
   },
   "201889": {
     "player_id": 201889,
@@ -2786,14 +3038,14 @@
   "202252": {
     "player_id": 202252,
     "player_name": "Alysha Clark",
-    "PTS": 2787,
-    "REB": 1454,
+    "PTS": 2792,
+    "REB": 1459,
     "AST": 614,
     "BLK": 89,
-    "STL": 314,
-    "FG3M": 390,
-    "TOV": 437,
-    "PF": 883
+    "STL": 315,
+    "FG3M": 391,
+    "TOV": 438,
+    "PF": 887
   },
   "202253": {
     "player_id": 202253,
@@ -2870,14 +3122,14 @@
   "1627668": {
     "player_id": 1627668,
     "player_name": "Breanna Stewart",
-    "PTS": 6016,
-    "REB": 2484,
-    "AST": 929,
-    "BLK": 428,
-    "STL": 411,
-    "FG3M": 454,
-    "TOV": 549,
-    "PF": 643
+    "PTS": 6077,
+    "REB": 2510,
+    "AST": 938,
+    "BLK": 433,
+    "STL": 415,
+    "FG3M": 456,
+    "TOV": 557,
+    "PF": 656
   },
   "202261": {
     "player_id": 202261,
@@ -2966,14 +3218,14 @@
   "1627671": {
     "player_id": 1627671,
     "player_name": "Rachel Banham",
-    "PTS": 1767,
-    "REB": 369,
-    "AST": 495,
-    "BLK": 37,
-    "STL": 112,
-    "FG3M": 372,
-    "TOV": 284,
-    "PF": 472
+    "PTS": 1788,
+    "REB": 370,
+    "AST": 498,
+    "BLK": 38,
+    "STL": 113,
+    "FG3M": 376,
+    "TOV": 288,
+    "PF": 478
   },
   "202269": {
     "player_id": 202269,
@@ -3014,38 +3266,38 @@
   "1627673": {
     "player_id": 1627673,
     "player_name": "Jonquel Jones",
-    "PTS": 4096,
-    "REB": 2575,
-    "AST": 600,
-    "BLK": 405,
-    "STL": 248,
-    "FG3M": 357,
-    "TOV": 608,
-    "PF": 865
+    "PTS": 4132,
+    "REB": 2599,
+    "AST": 608,
+    "BLK": 406,
+    "STL": 250,
+    "FG3M": 361,
+    "TOV": 617,
+    "PF": 875
   },
   "1627674": {
     "player_id": 1627674,
     "player_name": "Kahleah Copper",
-    "PTS": 4083,
-    "REB": 1140,
-    "AST": 463,
+    "PTS": 4154,
+    "REB": 1147,
+    "AST": 472,
     "BLK": 45,
-    "STL": 207,
-    "FG3M": 341,
-    "TOV": 579,
-    "PF": 715
+    "STL": 213,
+    "FG3M": 345,
+    "TOV": 590,
+    "PF": 723
   },
   "1627675": {
     "player_id": 1627675,
     "player_name": "Courtney Williams",
-    "PTS": 4061,
-    "REB": 1747,
-    "AST": 1365,
-    "BLK": 101,
-    "STL": 308,
-    "FG3M": 253,
-    "TOV": 643,
-    "PF": 553
+    "PTS": 4124,
+    "REB": 1766,
+    "AST": 1382,
+    "BLK": 103,
+    "STL": 315,
+    "FG3M": 260,
+    "TOV": 649,
+    "PF": 560
   },
   "1627676": {
     "player_id": 1627676,
@@ -3254,14 +3506,14 @@
   "1627700": {
     "player_id": 1627700,
     "player_name": "Julie Allemand",
-    "PTS": 448,
-    "REB": 269,
-    "AST": 385,
+    "PTS": 455,
+    "REB": 273,
+    "AST": 395,
     "BLK": 13,
-    "STL": 85,
-    "FG3M": 82,
-    "TOV": 144,
-    "PF": 136
+    "STL": 90,
+    "FG3M": 83,
+    "TOV": 148,
+    "PF": 137
   },
   "1627701": {
     "player_id": 1627701,
@@ -3338,26 +3590,26 @@
   "1630993": {
     "player_id": 1630993,
     "player_name": "Anneli Maley",
-    "PTS": 8,
-    "REB": 7,
+    "PTS": 9,
+    "REB": 9,
     "AST": 3,
     "BLK": 1,
     "STL": 3,
     "FG3M": 2,
     "TOV": 1,
-    "PF": 6
+    "PF": 7
   },
   "1630996": {
     "player_id": 1630996,
     "player_name": "Rae Burrell",
-    "PTS": 541,
-    "REB": 172,
-    "AST": 95,
+    "PTS": 571,
+    "REB": 184,
+    "AST": 101,
     "BLK": 20,
-    "STL": 60,
-    "FG3M": 63,
-    "TOV": 78,
-    "PF": 125
+    "STL": 63,
+    "FG3M": 66,
+    "TOV": 87,
+    "PF": 137
   },
   "203047": {
     "player_id": 203047,
@@ -6626,14 +6878,14 @@
   "1628242": {
     "player_id": 1628242,
     "player_name": "Emma Cannon",
-    "PTS": 695,
+    "PTS": 698,
     "REB": 405,
     "AST": 63,
     "BLK": 14,
     "STL": 38,
-    "FG3M": 43,
-    "TOV": 130,
-    "PF": 240
+    "FG3M": 44,
+    "TOV": 132,
+    "PF": 241
   },
   "1628244": {
     "player_id": 1628244,
@@ -6866,14 +7118,14 @@
   "1628269": {
     "player_id": 1628269,
     "player_name": "Nia Coffey",
-    "PTS": 1255,
-    "REB": 795,
-    "AST": 227,
-    "BLK": 151,
-    "STL": 107,
-    "FG3M": 165,
-    "TOV": 274,
-    "PF": 448
+    "PTS": 1286,
+    "REB": 819,
+    "AST": 231,
+    "BLK": 157,
+    "STL": 109,
+    "FG3M": 172,
+    "TOV": 277,
+    "PF": 465
   },
   "100464": {
     "player_id": 100464,
@@ -6914,14 +7166,14 @@
   "1628276": {
     "player_id": 1628276,
     "player_name": "Kelsey Plum",
-    "PTS": 4207,
-    "REB": 715,
-    "AST": 1193,
+    "PTS": 4314,
+    "REB": 721,
+    "AST": 1215,
     "BLK": 21,
-    "STL": 253,
-    "FG3M": 588,
-    "TOV": 611,
-    "PF": 658
+    "STL": 258,
+    "FG3M": 598,
+    "TOV": 624,
+    "PF": 672
   },
   "100470": {
     "player_id": 100470,
@@ -6962,14 +7214,14 @@
   "1628277": {
     "player_id": 1628277,
     "player_name": "Allisha Gray",
-    "PTS": 4157,
-    "REB": 1347,
-    "AST": 730,
-    "BLK": 151,
-    "STL": 349,
-    "FG3M": 426,
-    "TOV": 449,
-    "PF": 706
+    "PTS": 4232,
+    "REB": 1368,
+    "AST": 734,
+    "BLK": 154,
+    "STL": 351,
+    "FG3M": 432,
+    "TOV": 455,
+    "PF": 714
   },
   "1628278": {
     "player_id": 1628278,
@@ -6980,20 +7232,20 @@
     "BLK": 84,
     "STL": 204,
     "FG3M": 174,
-    "TOV": 242,
+    "TOV": 243,
     "PF": 282
   },
   "1628279": {
     "player_id": 1628279,
     "player_name": "Brittney Sykes",
-    "PTS": 3439,
-    "REB": 1108,
-    "AST": 816,
-    "BLK": 129,
-    "STL": 354,
-    "FG3M": 231,
-    "TOV": 558,
-    "PF": 666
+    "PTS": 3522,
+    "REB": 1121,
+    "AST": 832,
+    "BLK": 131,
+    "STL": 362,
+    "FG3M": 236,
+    "TOV": 568,
+    "PF": 675
   },
   "100476": {
     "player_id": 100476,
@@ -7958,14 +8210,14 @@
   "203014": {
     "player_id": 203014,
     "player_name": "Nneka Ogwumike",
-    "PTS": 7305,
-    "REB": 3268,
-    "AST": 896,
-    "BLK": 260,
-    "STL": 668,
-    "FG3M": 231,
-    "TOV": 782,
-    "PF": 1131
+    "PTS": 7371,
+    "REB": 3295,
+    "AST": 904,
+    "BLK": 261,
+    "STL": 673,
+    "FG3M": 238,
+    "TOV": 791,
+    "PF": 1140
   },
   "203015": {
     "player_id": 203015,
@@ -8054,14 +8306,14 @@
   "203024": {
     "player_id": 203024,
     "player_name": "Damiris Dantas",
-    "PTS": 1814,
-    "REB": 995,
-    "AST": 367,
-    "BLK": 80,
-    "STL": 127,
-    "FG3M": 207,
-    "TOV": 283,
-    "PF": 516
+    "PTS": 1830,
+    "REB": 999,
+    "AST": 368,
+    "BLK": 82,
+    "STL": 128,
+    "FG3M": 211,
+    "TOV": 286,
+    "PF": 527
   },
   "203025": {
     "player_id": 203025,
@@ -10202,14 +10454,14 @@
   "203398": {
     "player_id": 203398,
     "player_name": "Brittney Griner",
-    "PTS": 5967,
-    "REB": 2531,
+    "PTS": 5983,
+    "REB": 2537,
     "AST": 635,
     "BLK": 859,
-    "STL": 166,
+    "STL": 168,
     "FG3M": 21,
-    "TOV": 734,
-    "PF": 967
+    "TOV": 736,
+    "PF": 972
   },
   "101000": {
     "player_id": 101000,
@@ -10238,14 +10490,14 @@
   "203400": {
     "player_id": 203400,
     "player_name": "Skylar Diggins",
-    "PTS": 5489,
-    "REB": 955,
-    "AST": 1768,
-    "BLK": 221,
-    "STL": 445,
-    "FG3M": 425,
-    "TOV": 879,
-    "PF": 790
+    "PTS": 5525,
+    "REB": 973,
+    "AST": 1785,
+    "BLK": 225,
+    "STL": 448,
+    "FG3M": 428,
+    "TOV": 881,
+    "PF": 797
   },
   "203401": {
     "player_id": 203401,
@@ -10862,38 +11114,38 @@
   "1628878": {
     "player_id": 1628878,
     "player_name": "Ariel Atkins",
-    "PTS": 3361,
-    "REB": 758,
-    "AST": 646,
+    "PTS": 3371,
+    "REB": 764,
+    "AST": 651,
     "BLK": 109,
-    "STL": 365,
+    "STL": 369,
     "FG3M": 440,
-    "TOV": 437,
-    "PF": 684
+    "TOV": 442,
+    "PF": 689
   },
   "1628881": {
     "player_id": 1628881,
     "player_name": "Monique Billings",
-    "PTS": 1505,
-    "REB": 1345,
-    "AST": 210,
-    "BLK": 123,
-    "STL": 170,
-    "FG3M": 14,
-    "TOV": 300,
-    "PF": 502
+    "PTS": 1528,
+    "REB": 1367,
+    "AST": 216,
+    "BLK": 125,
+    "STL": 175,
+    "FG3M": 16,
+    "TOV": 304,
+    "PF": 510
   },
   "1628882": {
     "player_id": 1628882,
     "player_name": "Lexie Brown",
-    "PTS": 996,
-    "REB": 266,
-    "AST": 297,
-    "BLK": 15,
+    "PTS": 1016,
+    "REB": 273,
+    "AST": 299,
+    "BLK": 16,
     "STL": 146,
-    "FG3M": 194,
-    "TOV": 168,
-    "PF": 190
+    "FG3M": 200,
+    "TOV": 172,
+    "PF": 195
   },
   "101075": {
     "player_id": 101075,
@@ -10922,14 +11174,14 @@
   "1628886": {
     "player_id": 1628886,
     "player_name": "Jordin Canada",
-    "PTS": 2132,
-    "REB": 582,
-    "AST": 1139,
+    "PTS": 2174,
+    "REB": 594,
+    "AST": 1155,
     "BLK": 40,
-    "STL": 359,
-    "FG3M": 111,
-    "TOV": 489,
-    "PF": 395
+    "STL": 369,
+    "FG3M": 115,
+    "TOV": 496,
+    "PF": 401
   },
   "101080": {
     "player_id": 101080,
@@ -10994,14 +11246,14 @@
   "1628899": {
     "player_id": 1628899,
     "player_name": "Myisha Hines-Allen",
-    "PTS": 1873,
-    "REB": 1208,
-    "AST": 497,
-    "BLK": 69,
-    "STL": 181,
+    "PTS": 1895,
+    "REB": 1224,
+    "AST": 511,
+    "BLK": 70,
+    "STL": 185,
     "FG3M": 127,
-    "TOV": 363,
-    "PF": 493
+    "TOV": 368,
+    "PF": 504
   },
   "1628905": {
     "player_id": 1628905,
@@ -11042,14 +11294,14 @@
   "1628909": {
     "player_id": 1628909,
     "player_name": "Kelsey Mitchell",
-    "PTS": 4813,
-    "REB": 548,
-    "AST": 799,
+    "PTS": 4907,
+    "REB": 551,
+    "AST": 805,
     "BLK": 40,
-    "STL": 217,
-    "FG3M": 669,
-    "TOV": 549,
-    "PF": 579
+    "STL": 220,
+    "FG3M": 679,
+    "TOV": 556,
+    "PF": 591
   },
   "101103": {
     "player_id": 101103,
@@ -11090,14 +11342,14 @@
   "1628915": {
     "player_id": 1628915,
     "player_name": "Kia Nurse",
-    "PTS": 2190,
-    "REB": 599,
-    "AST": 398,
+    "PTS": 2204,
+    "REB": 600,
+    "AST": 400,
     "BLK": 20,
-    "STL": 133,
-    "FG3M": 356,
-    "TOV": 314,
-    "PF": 465
+    "STL": 134,
+    "FG3M": 358,
+    "TOV": 315,
+    "PF": 467
   },
   "1628917": {
     "player_id": 1628917,
@@ -11174,26 +11426,26 @@
   "1628931": {
     "player_id": 1628931,
     "player_name": "Gabby Williams",
-    "PTS": 1597,
-    "REB": 764,
-    "AST": 550,
-    "BLK": 61,
-    "STL": 297,
-    "FG3M": 118,
-    "TOV": 307,
-    "PF": 302
+    "PTS": 1634,
+    "REB": 774,
+    "AST": 554,
+    "BLK": 63,
+    "STL": 302,
+    "FG3M": 125,
+    "TOV": 313,
+    "PF": 305
   },
   "1628932": {
     "player_id": 1628932,
     "player_name": "A'ja Wilson",
-    "PTS": 5719,
-    "REB": 2494,
-    "AST": 613,
-    "BLK": 533,
-    "STL": 335,
-    "FG3M": 85,
-    "TOV": 441,
-    "PF": 521
+    "PTS": 5844,
+    "REB": 2522,
+    "AST": 625,
+    "BLK": 543,
+    "STL": 339,
+    "FG3M": 91,
+    "TOV": 454,
+    "PF": 533
   },
   "1628933": {
     "player_id": 1628933,
@@ -11294,14 +11546,14 @@
   "203822": {
     "player_id": 203822,
     "player_name": "Rebekah Gardner",
-    "PTS": 477,
-    "REB": 204,
-    "AST": 76,
+    "PTS": 508,
+    "REB": 214,
+    "AST": 87,
     "BLK": 27,
     "STL": 81,
-    "FG3M": 38,
-    "TOV": 85,
-    "PF": 157
+    "FG3M": 42,
+    "TOV": 87,
+    "PF": 160
   },
   "203823": {
     "player_id": 203823,
@@ -11318,62 +11570,62 @@
   "203824": {
     "player_id": 203824,
     "player_name": "Odyssey Sims",
-    "PTS": 3514,
-    "REB": 776,
-    "AST": 1201,
+    "PTS": 3552,
+    "REB": 780,
+    "AST": 1210,
     "BLK": 39,
-    "STL": 326,
-    "FG3M": 229,
-    "TOV": 616,
-    "PF": 597
+    "STL": 330,
+    "FG3M": 233,
+    "TOV": 622,
+    "PF": 604
   },
   "203825": {
     "player_id": 203825,
     "player_name": "Kayla McBride",
-    "PTS": 5389,
-    "REB": 1182,
-    "AST": 945,
-    "BLK": 40,
-    "STL": 418,
-    "FG3M": 722,
-    "TOV": 622,
-    "PF": 507
+    "PTS": 5454,
+    "REB": 1201,
+    "AST": 952,
+    "BLK": 42,
+    "STL": 425,
+    "FG3M": 728,
+    "TOV": 630,
+    "PF": 515
   },
   "203826": {
     "player_id": 203826,
     "player_name": "Alyssa Thomas",
-    "PTS": 4488,
-    "REB": 2740,
-    "AST": 1820,
-    "BLK": 121,
-    "STL": 556,
+    "PTS": 4554,
+    "REB": 2770,
+    "AST": 1854,
+    "BLK": 122,
+    "STL": 561,
     "FG3M": 1,
-    "TOV": 965,
-    "PF": 925
+    "TOV": 980,
+    "PF": 937
   },
   "203827": {
     "player_id": 203827,
     "player_name": "Natasha Howard",
-    "PTS": 4367,
-    "REB": 2174,
-    "AST": 562,
-    "BLK": 357,
-    "STL": 434,
+    "PTS": 4430,
+    "REB": 2204,
+    "AST": 577,
+    "BLK": 360,
+    "STL": 438,
     "FG3M": 157,
-    "TOV": 784,
-    "PF": 1088
+    "TOV": 804,
+    "PF": 1105
   },
   "203828": {
     "player_id": 203828,
     "player_name": "Stefanie Dolson",
-    "PTS": 3134,
-    "REB": 1655,
-    "AST": 686,
-    "BLK": 306,
-    "STL": 154,
-    "FG3M": 267,
-    "TOV": 577,
-    "PF": 1082
+    "PTS": 3162,
+    "REB": 1667,
+    "AST": 688,
+    "BLK": 309,
+    "STL": 156,
+    "FG3M": 269,
+    "TOV": 581,
+    "PF": 1095
   },
   "203829": {
     "player_id": 203829,
@@ -11426,14 +11678,14 @@
   "203833": {
     "player_id": 203833,
     "player_name": "Chelsea Gray",
-    "PTS": 4409,
-    "REB": 1188,
-    "AST": 1870,
-    "BLK": 119,
-    "STL": 436,
-    "FG3M": 410,
-    "TOV": 869,
-    "PF": 603
+    "PTS": 4469,
+    "REB": 1210,
+    "AST": 1903,
+    "BLK": 123,
+    "STL": 439,
+    "FG3M": 423,
+    "TOV": 888,
+    "PF": 609
   },
   "203834": {
     "player_id": 203834,
@@ -11558,14 +11810,14 @@
   "203855": {
     "player_id": 203855,
     "player_name": "Stephanie Talbot",
-    "PTS": 1019,
-    "REB": 625,
-    "AST": 372,
-    "BLK": 74,
-    "STL": 143,
+    "PTS": 1034,
+    "REB": 637,
+    "AST": 379,
+    "BLK": 76,
+    "STL": 147,
     "FG3M": 149,
-    "TOV": 261,
-    "PF": 349
+    "TOV": 265,
+    "PF": 354
   },
   "203857": {
     "player_id": 203857,
@@ -11606,14 +11858,14 @@
   "203866": {
     "player_id": 203866,
     "player_name": "Kayla Thornton",
-    "PTS": 2248,
-    "REB": 1316,
+    "PTS": 2267,
+    "REB": 1325,
     "AST": 355,
-    "BLK": 86,
+    "BLK": 87,
     "STL": 255,
-    "FG3M": 273,
-    "TOV": 288,
-    "PF": 640
+    "FG3M": 276,
+    "TOV": 289,
+    "PF": 644
   },
   "203870": {
     "player_id": 203870,
@@ -11714,62 +11966,62 @@
   "1641648": {
     "player_id": 1641648,
     "player_name": "Aliyah Boston",
-    "PTS": 1798,
-    "REB": 1051,
-    "AST": 378,
-    "BLK": 140,
-    "STL": 140,
-    "FG3M": 17,
-    "TOV": 235,
-    "PF": 391
+    "PTS": 1834,
+    "REB": 1066,
+    "AST": 384,
+    "BLK": 143,
+    "STL": 144,
+    "FG3M": 19,
+    "TOV": 238,
+    "PF": 401
   },
   "1641649": {
     "player_id": 1641649,
     "player_name": "Diamond Miller",
-    "PTS": 624,
-    "REB": 205,
-    "AST": 125,
+    "PTS": 652,
+    "REB": 215,
+    "AST": 127,
     "BLK": 19,
-    "STL": 51,
-    "FG3M": 54,
-    "TOV": 128,
-    "PF": 172
+    "STL": 53,
+    "FG3M": 59,
+    "TOV": 131,
+    "PF": 185
   },
   "1641650": {
     "player_id": 1641650,
     "player_name": "Haley Jones",
-    "PTS": 508,
-    "REB": 280,
-    "AST": 240,
+    "PTS": 528,
+    "REB": 288,
+    "AST": 243,
     "BLK": 45,
-    "STL": 51,
+    "STL": 52,
     "FG3M": 24,
-    "TOV": 170,
-    "PF": 213
+    "TOV": 173,
+    "PF": 219
   },
   "1641651": {
     "player_id": 1641651,
     "player_name": "Jordan Horston",
-    "PTS": 515,
-    "REB": 354,
-    "AST": 127,
-    "BLK": 48,
-    "STL": 94,
+    "PTS": 522,
+    "REB": 361,
+    "AST": 132,
+    "BLK": 49,
+    "STL": 96,
     "FG3M": 23,
-    "TOV": 138,
-    "PF": 153
+    "TOV": 143,
+    "PF": 156
   },
   "1641652": {
     "player_id": 1641652,
     "player_name": "Maddy Siegrist",
-    "PTS": 731,
-    "REB": 262,
-    "AST": 56,
-    "BLK": 32,
+    "PTS": 757,
+    "REB": 272,
+    "AST": 58,
+    "BLK": 33,
     "STL": 37,
-    "FG3M": 41,
+    "FG3M": 42,
     "TOV": 38,
-    "PF": 111
+    "PF": 116
   },
   "1641653": {
     "player_id": 1641653,
@@ -11798,14 +12050,14 @@
   "1641656": {
     "player_id": 1641656,
     "player_name": "Laeticia Amihere",
-    "PTS": 234,
-    "REB": 176,
-    "AST": 35,
-    "BLK": 25,
-    "STL": 24,
+    "PTS": 250,
+    "REB": 183,
+    "AST": 41,
+    "BLK": 30,
+    "STL": 25,
     "FG3M": 3,
-    "TOV": 52,
-    "PF": 68
+    "TOV": 55,
+    "PF": 72
   },
   "1641657": {
     "player_id": 1641657,
@@ -11846,14 +12098,14 @@
   "1641660": {
     "player_id": 1641660,
     "player_name": "Zia Cooke",
-    "PTS": 395,
-    "REB": 76,
-    "AST": 64,
+    "PTS": 419,
+    "REB": 81,
+    "AST": 70,
     "BLK": 16,
-    "STL": 33,
-    "FG3M": 46,
-    "TOV": 73,
-    "PF": 85
+    "STL": 34,
+    "FG3M": 50,
+    "TOV": 75,
+    "PF": 91
   },
   "1641661": {
     "player_id": 1641661,
@@ -12062,26 +12314,26 @@
   "1629481": {
     "player_id": 1629481,
     "player_name": "Arike Ogunbowale",
-    "PTS": 4464,
-    "REB": 722,
-    "AST": 889,
+    "PTS": 4512,
+    "REB": 731,
+    "AST": 896,
     "BLK": 26,
-    "STL": 339,
-    "FG3M": 545,
-    "TOV": 503,
-    "PF": 565
+    "STL": 340,
+    "FG3M": 549,
+    "TOV": 509,
+    "PF": 575
   },
   "1629482": {
     "player_id": 1629482,
     "player_name": "Sophie Cunningham",
-    "PTS": 1666,
-    "REB": 600,
-    "AST": 298,
-    "BLK": 48,
-    "STL": 154,
-    "FG3M": 305,
-    "TOV": 198,
-    "PF": 504
+    "PTS": 1705,
+    "REB": 615,
+    "AST": 304,
+    "BLK": 49,
+    "STL": 156,
+    "FG3M": 310,
+    "TOV": 201,
+    "PF": 512
   },
   "1629483": {
     "player_id": 1629483,
@@ -12098,14 +12350,14 @@
   "1629484": {
     "player_id": 1629484,
     "player_name": "Megan Gustafson",
-    "PTS": 726,
-    "REB": 418,
-    "AST": 64,
+    "PTS": 756,
+    "REB": 423,
+    "AST": 65,
     "BLK": 38,
     "STL": 41,
-    "FG3M": 63,
-    "TOV": 102,
-    "PF": 273
+    "FG3M": 65,
+    "TOV": 105,
+    "PF": 278
   },
   "1629485": {
     "player_id": 1629485,
@@ -12122,14 +12374,14 @@
   "1629488": {
     "player_id": 1629488,
     "player_name": "Brianna Turner",
-    "PTS": 879,
-    "REB": 1214,
-    "AST": 267,
-    "BLK": 227,
-    "STL": 149,
+    "PTS": 883,
+    "REB": 1229,
+    "AST": 268,
+    "BLK": 231,
+    "STL": 152,
     "FG3M": 0,
-    "TOV": 228,
-    "PF": 406
+    "TOV": 231,
+    "PF": 410
   },
   "1629490": {
     "player_id": 1629490,
@@ -12146,14 +12398,14 @@
   "1629491": {
     "player_id": 1629491,
     "player_name": "Jessica Shepard",
-    "PTS": 856,
-    "REB": 813,
-    "AST": 337,
+    "PTS": 888,
+    "REB": 836,
+    "AST": 353,
     "BLK": 23,
-    "STL": 50,
+    "STL": 53,
     "FG3M": 8,
-    "TOV": 183,
-    "PF": 190
+    "TOV": 187,
+    "PF": 200
   },
   "1629492": {
     "player_id": 1629492,
@@ -12194,26 +12446,26 @@
   "1629497": {
     "player_id": 1629497,
     "player_name": "Marina Mabrey",
-    "PTS": 2894,
-    "REB": 818,
-    "AST": 738,
-    "BLK": 77,
-    "STL": 202,
-    "FG3M": 439,
-    "TOV": 487,
-    "PF": 525
+    "PTS": 2941,
+    "REB": 827,
+    "AST": 745,
+    "BLK": 78,
+    "STL": 207,
+    "FG3M": 448,
+    "TOV": 494,
+    "PF": 533
   },
   "1629498": {
     "player_id": 1629498,
     "player_name": "Jackie Young",
-    "PTS": 3412,
-    "REB": 1002,
-    "AST": 1029,
-    "BLK": 64,
-    "STL": 271,
-    "FG3M": 311,
-    "TOV": 424,
-    "PF": 503
+    "PTS": 3468,
+    "REB": 1027,
+    "AST": 1060,
+    "BLK": 67,
+    "STL": 276,
+    "FG3M": 315,
+    "TOV": 434,
+    "PF": 514
   },
   "1629500": {
     "player_id": 1629500,
@@ -12230,14 +12482,14 @@
   "1629501": {
     "player_id": 1629501,
     "player_name": "Alanna Smith",
-    "PTS": 1343,
-    "REB": 834,
-    "AST": 355,
-    "BLK": 219,
-    "STL": 182,
+    "PTS": 1357,
+    "REB": 847,
+    "AST": 365,
+    "BLK": 222,
+    "STL": 186,
     "FG3M": 152,
-    "TOV": 237,
-    "PF": 443
+    "TOV": 244,
+    "PF": 452
   },
   "1629502": {
     "player_id": 1629502,
@@ -12278,14 +12530,14 @@
   "1629524": {
     "player_id": 1629524,
     "player_name": "Bridget Carleton",
-    "PTS": 1238,
-    "REB": 627,
-    "AST": 352,
-    "BLK": 38,
-    "STL": 145,
-    "FG3M": 262,
-    "TOV": 167,
-    "PF": 357
+    "PTS": 1288,
+    "REB": 634,
+    "AST": 358,
+    "BLK": 39,
+    "STL": 151,
+    "FG3M": 272,
+    "TOV": 168,
+    "PF": 362
   },
   "1629539": {
     "player_id": 1629539,
@@ -12302,50 +12554,50 @@
   "1629546": {
     "player_id": 1629546,
     "player_name": "Marine Johann\u00e8s",
-    "PTS": 643,
-    "REB": 129,
-    "AST": 189,
+    "PTS": 689,
+    "REB": 137,
+    "AST": 206,
     "BLK": 8,
-    "STL": 48,
-    "FG3M": 141,
-    "TOV": 114,
-    "PF": 125
+    "STL": 54,
+    "FG3M": 151,
+    "TOV": 120,
+    "PF": 130
   },
   "1629566": {
     "player_id": 1629566,
     "player_name": "Han Xu",
-    "PTS": 347,
-    "REB": 139,
-    "AST": 33,
-    "BLK": 27,
-    "STL": 22,
+    "PTS": 354,
+    "REB": 146,
+    "AST": 35,
+    "BLK": 28,
+    "STL": 23,
     "FG3M": 23,
-    "TOV": 31,
-    "PF": 41
+    "TOV": 32,
+    "PF": 47
   },
   "1629567": {
     "player_id": 1629567,
     "player_name": "Natisha Hiedeman",
-    "PTS": 1716,
-    "REB": 426,
-    "AST": 584,
-    "BLK": 31,
-    "STL": 185,
-    "FG3M": 284,
-    "TOV": 270,
-    "PF": 409
+    "PTS": 1751,
+    "REB": 430,
+    "AST": 594,
+    "BLK": 32,
+    "STL": 187,
+    "FG3M": 288,
+    "TOV": 277,
+    "PF": 417
   },
   "1629568": {
     "player_id": 1629568,
     "player_name": "Kennedy Burke",
-    "PTS": 873,
-    "REB": 284,
-    "AST": 142,
-    "BLK": 53,
-    "STL": 107,
-    "FG3M": 107,
-    "TOV": 128,
-    "PF": 172
+    "PTS": 900,
+    "REB": 294,
+    "AST": 155,
+    "BLK": 57,
+    "STL": 111,
+    "FG3M": 110,
+    "TOV": 140,
+    "PF": 179
   },
   "1629569": {
     "player_id": 1629569,
@@ -12398,8 +12650,8 @@
   "1629574": {
     "player_id": 1629574,
     "player_name": "Li Yueru",
-    "PTS": 408,
-    "REB": 305,
+    "PTS": 411,
+    "REB": 306,
     "AST": 53,
     "BLK": 20,
     "STL": 23,
@@ -12410,14 +12662,26 @@
   "1629576": {
     "player_id": 1629576,
     "player_name": "Maria Conde",
-    "PTS": 2,
+    "PTS": 29,
+    "REB": 15,
+    "AST": 3,
+    "BLK": 0,
+    "STL": 2,
+    "FG3M": 7,
+    "TOV": 5,
+    "PF": 8
+  },
+  "1629581": {
+    "player_id": 1629581,
+    "player_name": "Emese Hof",
+    "PTS": 5,
     "REB": 3,
-    "AST": 0,
+    "AST": 2,
     "BLK": 0,
     "STL": 0,
     "FG3M": 0,
-    "TOV": 1,
-    "PF": 0
+    "TOV": 2,
+    "PF": 3
   },
   "203413": {
     "player_id": 203413,
@@ -12518,14 +12782,14 @@
   "204296": {
     "player_id": 204296,
     "player_name": "Rebecca Allen",
-    "PTS": 1514,
+    "PTS": 1517,
     "REB": 693,
-    "AST": 226,
+    "AST": 227,
     "BLK": 195,
-    "STL": 181,
-    "FG3M": 252,
+    "STL": 182,
+    "FG3M": 253,
     "TOV": 203,
-    "PF": 434
+    "PF": 436
   },
   "204297": {
     "player_id": 204297,
@@ -12614,14 +12878,14 @@
   "204319": {
     "player_id": 204319,
     "player_name": "Jewell Loyd",
-    "PTS": 6027,
-    "REB": 1331,
-    "AST": 1133,
-    "BLK": 91,
-    "STL": 441,
-    "FG3M": 667,
-    "TOV": 780,
-    "PF": 644
+    "PTS": 6059,
+    "REB": 1347,
+    "AST": 1141,
+    "BLK": 93,
+    "STL": 445,
+    "FG3M": 673,
+    "TOV": 785,
+    "PF": 657
   },
   "204320": {
     "player_id": 204320,
@@ -12650,38 +12914,38 @@
   "204322": {
     "player_id": 204322,
     "player_name": "Elizabeth Williams",
-    "PTS": 2841,
-    "REB": 1904,
-    "AST": 452,
-    "BLK": 483,
+    "PTS": 2856,
+    "REB": 1923,
+    "AST": 455,
+    "BLK": 486,
     "STL": 285,
     "FG3M": 0,
-    "TOV": 376,
-    "PF": 708
+    "TOV": 380,
+    "PF": 713
   },
   "204323": {
     "player_id": 204323,
     "player_name": "Cheyenne Parker-Tyus",
-    "PTS": 2565,
-    "REB": 1424,
-    "AST": 303,
-    "BLK": 250,
-    "STL": 213,
+    "PTS": 2585,
+    "REB": 1436,
+    "AST": 306,
+    "BLK": 256,
+    "STL": 215,
     "FG3M": 67,
-    "TOV": 435,
-    "PF": 660
+    "TOV": 439,
+    "PF": 666
   },
   "204324": {
     "player_id": 204324,
     "player_name": "Dearica Hamby",
-    "PTS": 4090,
-    "REB": 2317,
-    "AST": 688,
+    "PTS": 4158,
+    "REB": 2346,
+    "AST": 697,
     "BLK": 101,
-    "STL": 386,
-    "FG3M": 138,
-    "TOV": 657,
-    "PF": 798
+    "STL": 391,
+    "FG3M": 139,
+    "TOV": 667,
+    "PF": 811
   },
   "204325": {
     "player_id": 204325,
@@ -12734,14 +12998,14 @@
   "204329": {
     "player_id": 204329,
     "player_name": "Kiah Stokes",
-    "PTS": 1063,
-    "REB": 1746,
-    "AST": 225,
-    "BLK": 319,
-    "STL": 165,
+    "PTS": 1071,
+    "REB": 1760,
+    "AST": 227,
+    "BLK": 324,
+    "STL": 166,
     "FG3M": 43,
     "TOV": 235,
-    "PF": 608
+    "PF": 617
   },
   "204330": {
     "player_id": 204330,
@@ -12782,14 +13046,14 @@
   "204333": {
     "player_id": 204333,
     "player_name": "Natasha Cloud",
-    "PTS": 2863,
-    "REB": 1080,
-    "AST": 1733,
+    "PTS": 2888,
+    "REB": 1093,
+    "AST": 1747,
     "BLK": 81,
-    "STL": 340,
-    "FG3M": 331,
-    "TOV": 665,
-    "PF": 718
+    "STL": 342,
+    "FG3M": 333,
+    "TOV": 673,
+    "PF": 731
   },
   "204334": {
     "player_id": 204334,
@@ -12806,14 +13070,14 @@
   "204335": {
     "player_id": 204335,
     "player_name": "Betnijah Laney-Hamilton",
-    "PTS": 2240,
-    "REB": 785,
-    "AST": 573,
-    "BLK": 21,
-    "STL": 202,
-    "FG3M": 197,
-    "TOV": 437,
-    "PF": 418
+    "PTS": 2261,
+    "REB": 792,
+    "AST": 578,
+    "BLK": 22,
+    "STL": 203,
+    "FG3M": 201,
+    "TOV": 441,
+    "PF": 422
   },
   "204336": {
     "player_id": 204336,
@@ -12890,14 +13154,14 @@
   "204365": {
     "player_id": 204365,
     "player_name": "Erica Wheeler",
-    "PTS": 3060,
-    "REB": 852,
-    "AST": 1256,
-    "BLK": 39,
-    "STL": 342,
-    "FG3M": 320,
-    "TOV": 665,
-    "PF": 758
+    "PTS": 3078,
+    "REB": 858,
+    "AST": 1275,
+    "BLK": 40,
+    "STL": 349,
+    "FG3M": 322,
+    "TOV": 671,
+    "PF": 770
   },
   "202641": {
     "player_id": 202641,
@@ -12926,26 +13190,26 @@
   "204468": {
     "player_id": 204468,
     "player_name": "Valeriane Ayayi",
-    "PTS": 37,
-    "REB": 28,
-    "AST": 6,
+    "PTS": 51,
+    "REB": 34,
+    "AST": 10,
     "BLK": 5,
-    "STL": 8,
-    "FG3M": 4,
-    "TOV": 9,
-    "PF": 18
+    "STL": 9,
+    "FG3M": 6,
+    "TOV": 12,
+    "PF": 21
   },
   "1642210": {
     "player_id": 1642210,
     "player_name": "Julie Vanloo",
-    "PTS": 405,
-    "REB": 104,
-    "AST": 252,
+    "PTS": 420,
+    "REB": 105,
+    "AST": 260,
     "BLK": 1,
-    "STL": 35,
-    "FG3M": 99,
-    "TOV": 154,
-    "PF": 133
+    "STL": 36,
+    "FG3M": 104,
+    "TOV": 159,
+    "PF": 139
   },
   "1642240": {
     "player_id": 1642240,
@@ -12974,86 +13238,86 @@
   "1642286": {
     "player_id": 1642286,
     "player_name": "Caitlin Clark",
-    "PTS": 983,
-    "REB": 292,
-    "AST": 452,
-    "BLK": 34,
-    "STL": 74,
-    "FG3M": 151,
-    "TOV": 289,
-    "PF": 146
+    "PTS": 1080,
+    "REB": 312,
+    "AST": 488,
+    "BLK": 38,
+    "STL": 78,
+    "FG3M": 163,
+    "TOV": 309,
+    "PF": 158
   },
   "1642287": {
     "player_id": 1642287,
     "player_name": "Cameron Brink",
-    "PTS": 209,
-    "REB": 162,
-    "AST": 34,
-    "BLK": 61,
-    "STL": 26,
+    "PTS": 237,
+    "REB": 175,
+    "AST": 38,
+    "BLK": 67,
+    "STL": 28,
     "FG3M": 20,
-    "TOV": 59,
-    "PF": 108
+    "TOV": 67,
+    "PF": 123
   },
   "1642288": {
     "player_id": 1642288,
     "player_name": "Rickea Jackson",
-    "PTS": 1093,
-    "REB": 277,
-    "AST": 123,
-    "BLK": 28,
-    "STL": 50,
-    "FG3M": 108,
-    "TOV": 154,
-    "PF": 141
+    "PTS": 1165,
+    "REB": 296,
+    "AST": 131,
+    "BLK": 35,
+    "STL": 51,
+    "FG3M": 114,
+    "TOV": 162,
+    "PF": 148
   },
   "1642289": {
     "player_id": 1642289,
     "player_name": "Kamilla Cardoso",
-    "PTS": 856,
-    "REB": 595,
-    "AST": 152,
-    "BLK": 93,
-    "STL": 31,
+    "PTS": 904,
+    "REB": 636,
+    "AST": 159,
+    "BLK": 100,
+    "STL": 32,
     "FG3M": 1,
-    "TOV": 146,
-    "PF": 214
+    "TOV": 152,
+    "PF": 227
   },
   "1642290": {
     "player_id": 1642290,
     "player_name": "Aaliyah Edwards",
-    "PTS": 452,
-    "REB": 323,
+    "PTS": 458,
+    "REB": 326,
     "AST": 68,
     "BLK": 41,
-    "STL": 48,
+    "STL": 49,
     "FG3M": 0,
-    "TOV": 91,
-    "PF": 147
+    "TOV": 93,
+    "PF": 150
   },
   "1642291": {
     "player_id": 1642291,
     "player_name": "Angel Reese",
-    "PTS": 902,
-    "REB": 823,
-    "AST": 173,
-    "BLK": 36,
-    "STL": 88,
+    "PTS": 934,
+    "REB": 861,
+    "AST": 180,
+    "BLK": 41,
+    "STL": 91,
     "FG3M": 7,
-    "TOV": 193,
-    "PF": 222
+    "TOV": 209,
+    "PF": 233
   },
   "1642292": {
     "player_id": 1642292,
     "player_name": "Jacy Sheldon",
-    "PTS": 441,
-    "REB": 139,
-    "AST": 155,
-    "BLK": 18,
-    "STL": 50,
-    "FG3M": 66,
-    "TOV": 94,
-    "PF": 173
+    "PTS": 484,
+    "REB": 151,
+    "AST": 168,
+    "BLK": 22,
+    "STL": 58,
+    "FG3M": 71,
+    "TOV": 98,
+    "PF": 185
   },
   "1642293": {
     "player_id": 1642293,
@@ -13090,6 +13354,18 @@
     "FG3M": 0,
     "TOV": 7,
     "PF": 18
+  },
+  "1642296": {
+    "player_id": 1642296,
+    "player_name": "Nyadiew Puoch",
+    "PTS": 18,
+    "REB": 6,
+    "AST": 4,
+    "BLK": 0,
+    "STL": 5,
+    "FG3M": 3,
+    "TOV": 2,
+    "PF": 9
   },
   "1642298": {
     "player_id": 1642298,
@@ -13139,6 +13415,18 @@
     "TOV": 9,
     "PF": 14
   },
+  "1642302": {
+    "player_id": 1642302,
+    "player_name": "Isobel Borlase",
+    "PTS": 3,
+    "REB": 1,
+    "AST": 0,
+    "BLK": 0,
+    "STL": 0,
+    "FG3M": 1,
+    "TOV": 0,
+    "PF": 0
+  },
   "1642303": {
     "player_id": 1642303,
     "player_name": "Leila Lacan",
@@ -13154,14 +13442,14 @@
   "1642304": {
     "player_id": 1642304,
     "player_name": "Carla Leite",
-    "PTS": 268,
-    "REB": 48,
-    "AST": 75,
+    "PTS": 307,
+    "REB": 55,
+    "AST": 84,
     "BLK": 3,
-    "STL": 26,
-    "FG3M": 13,
-    "TOV": 57,
-    "PF": 55
+    "STL": 27,
+    "FG3M": 14,
+    "TOV": 60,
+    "PF": 59
   },
   "1642305": {
     "player_id": 1642305,
@@ -13178,14 +13466,14 @@
   "1642307": {
     "player_id": 1642307,
     "player_name": "Mackenzie Holmes",
-    "PTS": 12,
-    "REB": 15,
-    "AST": 2,
-    "BLK": 1,
-    "STL": 5,
-    "FG3M": 0,
-    "TOV": 0,
-    "PF": 9
+    "PTS": 21,
+    "REB": 23,
+    "AST": 4,
+    "BLK": 2,
+    "STL": 7,
+    "FG3M": 1,
+    "TOV": 2,
+    "PF": 16
   },
   "1642309": {
     "player_id": 1642309,
@@ -13223,17 +13511,29 @@
     "TOV": 14,
     "PF": 23
   },
+  "1642321": {
+    "player_id": 1642321,
+    "player_name": "Sydney Taylor",
+    "PTS": 10,
+    "REB": 1,
+    "AST": 2,
+    "BLK": 1,
+    "STL": 0,
+    "FG3M": 1,
+    "TOV": 1,
+    "PF": 3
+  },
   "1642324": {
     "player_id": 1642324,
     "player_name": "Kate Martin",
-    "PTS": 348,
-    "REB": 166,
+    "PTS": 359,
+    "REB": 167,
     "AST": 70,
     "BLK": 12,
-    "STL": 24,
-    "FG3M": 79,
-    "TOV": 55,
-    "PF": 77
+    "STL": 25,
+    "FG3M": 82,
+    "TOV": 56,
+    "PF": 78
   },
   "1630043": {
     "player_id": 1630043,
@@ -13298,14 +13598,14 @@
   "1630097": {
     "player_id": 1630097,
     "player_name": "Kaila Charles",
-    "PTS": 474,
-    "REB": 298,
-    "AST": 90,
+    "PTS": 490,
+    "REB": 311,
+    "AST": 93,
     "BLK": 26,
-    "STL": 59,
-    "FG3M": 47,
-    "TOV": 85,
-    "PF": 188
+    "STL": 60,
+    "FG3M": 49,
+    "TOV": 87,
+    "PF": 196
   },
   "1630099": {
     "player_id": 1630099,
@@ -13382,14 +13682,14 @@
   "1630112": {
     "player_id": 1630112,
     "player_name": "Tyasha Harris",
-    "PTS": 1120,
-    "REB": 217,
-    "AST": 441,
-    "BLK": 35,
+    "PTS": 1133,
+    "REB": 222,
+    "AST": 446,
+    "BLK": 36,
     "STL": 115,
-    "FG3M": 160,
-    "TOV": 187,
-    "PF": 225
+    "FG3M": 161,
+    "TOV": 190,
+    "PF": 226
   },
   "1630113": {
     "player_id": 1630113,
@@ -13490,14 +13790,14 @@
   "1630134": {
     "player_id": 1630134,
     "player_name": "Sug Sutton",
-    "PTS": 746,
-    "REB": 216,
-    "AST": 430,
+    "PTS": 754,
+    "REB": 219,
+    "AST": 438,
     "BLK": 7,
     "STL": 77,
-    "FG3M": 87,
-    "TOV": 222,
-    "PF": 156
+    "FG3M": 88,
+    "TOV": 223,
+    "PF": 159
   },
   "1630136": {
     "player_id": 1630136,
@@ -13522,6 +13822,18 @@
     "FG3M": 1,
     "TOV": 8,
     "PF": 13
+  },
+  "1630138": {
+    "player_id": 1630138,
+    "player_name": "Peyton Williams",
+    "PTS": 0,
+    "REB": 0,
+    "AST": 2,
+    "BLK": 1,
+    "STL": 0,
+    "FG3M": 0,
+    "TOV": 0,
+    "PF": 0
   },
   "1630139": {
     "player_id": 1630139,
@@ -13550,14 +13862,26 @@
   "1630143": {
     "player_id": 1630143,
     "player_name": "Luisa Geiselsoder",
-    "PTS": 192,
-    "REB": 133,
-    "AST": 44,
-    "BLK": 19,
-    "STL": 22,
-    "FG3M": 31,
-    "TOV": 28,
-    "PF": 67
+    "PTS": 219,
+    "REB": 150,
+    "AST": 50,
+    "BLK": 22,
+    "STL": 24,
+    "FG3M": 35,
+    "TOV": 30,
+    "PF": 76
+  },
+  "1630148": {
+    "player_id": 1630148,
+    "player_name": "Jihyun Park",
+    "PTS": 2,
+    "REB": 1,
+    "AST": 2,
+    "BLK": 0,
+    "STL": 0,
+    "FG3M": 0,
+    "TOV": 0,
+    "PF": 3
   },
   "1630149": {
     "player_id": 1630149,
@@ -13574,14 +13898,14 @@
   "1630150": {
     "player_id": 1630150,
     "player_name": "Chennedy Carter",
-    "PTS": 1225,
-    "REB": 212,
-    "AST": 239,
-    "BLK": 24,
-    "STL": 73,
-    "FG3M": 24,
-    "TOV": 164,
-    "PF": 247
+    "PTS": 1322,
+    "REB": 226,
+    "AST": 249,
+    "BLK": 25,
+    "STL": 81,
+    "FG3M": 27,
+    "TOV": 176,
+    "PF": 262
   },
   "1630151": {
     "player_id": 1630151,
@@ -13622,14 +13946,14 @@
   "1630154": {
     "player_id": 1630154,
     "player_name": "Kamiah Smalls",
-    "PTS": 31,
+    "PTS": 46,
     "REB": 13,
-    "AST": 20,
+    "AST": 26,
     "BLK": 1,
     "STL": 5,
-    "FG3M": 7,
-    "TOV": 6,
-    "PF": 9
+    "FG3M": 11,
+    "TOV": 10,
+    "PF": 11
   },
   "200665": {
     "player_id": 200665,
