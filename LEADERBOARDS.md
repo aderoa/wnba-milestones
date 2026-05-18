@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-18 00:08 UTC_
+_Last updated: 2026-05-18 00:09 UTC_
 
 ## Contents
 
@@ -205,7 +205,7 @@ _Last updated: 2026-05-18 00:08 UTC_
 | 184 | Tully Bevilaqua | 1,763 |
 | 185 | Sandy Brondello | 1,759 |
 | 186 | Sugar Rodgers | 1,733 |
-| 187 | **Natisha Hiedeman** 🔴 +13 | 1,729 |
+| 187 | **Natisha Hiedeman** 🔴 +16 | 1,732 |
 | 188 | Moriah Jefferson | 1,722 |
 | 189 | Armintie Herrington | 1,696 |
 | 190 | Nikki Teasley | 1,690 |
@@ -215,7 +215,7 @@ _Last updated: 2026-05-18 00:08 UTC_
 | 194 | Gabby Williams | 1,597 |
 | 195 | Janell Burse | 1,580 |
 | 196 | Le'coe Willingham | 1,552 |
-| 197 | Shatori Walker-Kimbrough | 1,544 |
+| 197 | **Shatori Walker-Kimbrough** 🔴 | 1,544 |
 | 198 | Rebecca Allen | 1,514 |
 | 199 | **Monique Billings** 🔴 +4 | 1,509 |
 | 200 | Jennifer Lacy | 1,504 |
@@ -251,7 +251,7 @@ _Last updated: 2026-05-18 00:08 UTC_
 | 25 | **Dearica Hamby** 🔴 +6 | 2,323 |
 | 26 | Erika de Souza | 2,220 |
 | 27 | Diana Taurasi | 2,201 |
-| 28 | **Natasha Howard** 🔴 +5 | 2,179 |
+| 28 | **Natasha Howard** 🔴 +6 | 2,180 |
 | 29 | Margo Dydek | 2,138 |
 | 30 | Chamique Holdsclaw | 2,123 |
 | 31 | Chasity Melvin | 2,097 |
@@ -339,7 +339,7 @@ _Last updated: 2026-05-18 00:08 UTC_
 | 113 | **Brittney Sykes** 🔴 +1 | 1,109 |
 | 114 | Becky Hammon | 1,108 |
 | 115 | Ann Wauters | 1,105 |
-| 116 | **Natasha Cloud** 🔴 +3 | 1,083 |
+| 116 | **Natasha Cloud** 🔴 +4 | 1,084 |
 | 117 | Svetlana Abrosimova | 1,078 |
 | 118 | NaLyssa Smith | 1,060 |
 | 119 | Le'coe Willingham | 1,054 |
@@ -788,7 +788,7 @@ _Last updated: 2026-05-18 00:08 UTC_
 | 150 | Kalani Brown | 85 |
 | 150 | Kristin Folkl | 85 |
 | 154 | Charde Houston | 84 |
-| 154 | Shatori Walker-Kimbrough | 84 |
+| 154 | **Shatori Walker-Kimbrough** 🔴 | 84 |
 | 156 | Tamera Young | 83 |
 | 157 | Charlotte Smith | 81 |
 | 157 | Cintia dos Santos | 81 |
@@ -1005,7 +1005,7 @@ _Last updated: 2026-05-18 00:08 UTC_
 | 163 | Shameka Christon | 205 |
 | 164 | Jessica Breland | 204 |
 | 164 | Murriel Page | 204 |
-| 164 | Shatori Walker-Kimbrough | 204 |
+| 164 | **Shatori Walker-Kimbrough** 🔴 | 204 |
 | 167 | Adrienne Goodson | 203 |
 | 167 | **Marina Mabrey** 🔴 +1 | 203 |
 | 169 | Betnijah Laney-Hamilton | 202 |
@@ -1121,7 +1121,7 @@ _Last updated: 2026-05-18 00:08 UTC_
 | 74 | Candice Wiggins | 290 |
 | 74 | Tully Bevilaqua | 290 |
 | 76 | Alana Beard | 288 |
-| 77 | **Natisha Hiedeman** 🔴 +1 | 285 |
+| 77 | **Natisha Hiedeman** 🔴 +2 | 286 |
 | 78 | Monique Currie | 284 |
 | 79 | Iziane Castro Marques | 275 |
 | 80 | Kayla Thornton | 273 |
@@ -1167,7 +1167,7 @@ _Last updated: 2026-05-18 00:08 UTC_
 | 119 | Camille Smith | 179 |
 | 121 | Swin Cash | 176 |
 | 122 | Nikki McCray | 175 |
-| 123 | Shatori Walker-Kimbrough | 174 |
+| 123 | **Shatori Walker-Kimbrough** 🔴 | 174 |
 | 123 | Tayler Hill | 174 |
 | 125 | Theresa Plaisance | 172 |
 | 126 | Amanda Lassiter | 170 |
