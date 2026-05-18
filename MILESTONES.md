@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-18 00:39 UTC
+
+- **Natasha Howard** passed **Nicole Powell** for **#109** all-time in assists (career 568) — up from #111 entering today — _8:11 - 4th — CHI @ MIN_
+
 ## 2026-05-18 00:34 UTC
 
 - **Kia Nurse** reached **2,200** career points (now 2,200) — _3:59 - 3rd — TOR @ LA_
