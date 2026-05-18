@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-18 00:20 UTC_
+_Last updated: 2026-05-18 00:21 UTC_
 
 ## Contents
 
@@ -1280,7 +1280,7 @@ _Last updated: 2026-05-18 00:20 UTC_
 | 28 | Betty Lennox | 800 |
 | 29 | Jasmine Thomas | 796 |
 | 30 | Chamique Holdsclaw | 789 |
-| 31 | **Natasha Howard** 🔴 +1 | 785 |
+| 31 | **Natasha Howard** 🔴 +2 | 786 |
 | 32 | **Nneka Ogwumike** 🔴 +1 | 783 |
 | 33 | Crystal Langhorne | 782 |
 | 34 | Jewell Loyd | 780 |
@@ -1550,7 +1550,7 @@ _Last updated: 2026-05-18 00:20 UTC_
 | 93 | Jennifer Lacy | 680 |
 | 93 | Temeka Johnson | 680 |
 | 95 | Kelly Miller | 676 |
-| 96 | **Brittney Sykes** 🔴 +2 | 668 |
+| 96 | **Brittney Sykes** 🔴 +3 | 669 |
 | 97 | Chamique Holdsclaw | 667 |
 | 98 | Tianna Hawkins | 662 |
 | 99 | Cheyenne Parker-Tyus | 661 |
