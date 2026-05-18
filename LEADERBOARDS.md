@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-18 00:44 UTC_
+_Last updated: 2026-05-18 00:45 UTC_
 
 ## Contents
 
@@ -68,11 +68,11 @@ _Last updated: 2026-05-18 00:44 UTC_
 | 47 | Plenette Pierson | 4,258 |
 | 48 | Monique Currie | 4,253 |
 | 49 | Vickie Johnson | 4,230 |
-| 50 | **Kelsey Plum** 🔴 +17 | 4,224 |
-| 50 | Yolanda Griffith | 4,224 |
+| 50 | **Kelsey Plum** 🔴 +18 | 4,225 |
+| 51 | Yolanda Griffith | 4,224 |
 | 52 | Allisha Gray | 4,182 |
 | 53 | Rebekkah Brunson | 4,133 |
-| 54 | **Dearica Hamby** 🔴 +13 | 4,103 |
+| 54 | **Dearica Hamby** 🔴 +15 | 4,105 |
 | 55 | Jonquel Jones | 4,096 |
 | 56 | Kahleah Copper | 4,083 |
 | 57 | **Courtney Williams** 🔴 +14 | 4,075 |
@@ -377,7 +377,7 @@ _Last updated: 2026-05-18 00:44 UTC_
 | 151 | Mistie Bass | 888 |
 | 152 | Shameka Christon | 867 |
 | 153 | Krystal Thomas | 862 |
-| 154 | **Erica Wheeler** 🔴 | 852 |
+| 154 | **Erica Wheeler** 🔴 +1 | 853 |
 | 155 | Leilani Mitchell | 845 |
 | 156 | Alanna Smith | 834 |
 | 157 | Essence Carson | 833 |
@@ -452,7 +452,7 @@ _Last updated: 2026-05-18 00:44 UTC_
 | 21 | Dawn Staley | 1,337 |
 | 22 | Teresa Weatherspoon | 1,333 |
 | 23 | Kristi Toliver | 1,301 |
-| 24 | **Erica Wheeler** 🔴 +3 | 1,259 |
+| 24 | **Erica Wheeler** 🔴 +4 | 1,260 |
 | 25 | Katie Smith | 1,258 |
 | 26 | Vickie Johnson | 1,202 |
 | 27 | Odyssey Sims | 1,201 |
