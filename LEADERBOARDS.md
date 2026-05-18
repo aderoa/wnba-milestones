@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-18 01:05 UTC_
+_Last updated: 2026-05-18 01:06 UTC_
 
 ## Contents
 
@@ -44,7 +44,7 @@ _Last updated: 2026-05-18 01:05 UTC_
 | 23 | Katie Douglas | 5,545 |
 | 24 | Lindsay Whalen | 5,511 |
 | 25 | Skylar Diggins | 5,489 |
-| 26 | **Kayla McBride** 🔴 +19 | 5,408 |
+| 26 | **Kayla McBride** 🔴 +20 | 5,409 |
 | 27 | Swin Cash | 5,119 |
 | 28 | Tangela Smith | 5,035 |
 | 29 | Taj McWilliams-Franklin | 4,992 |
@@ -93,7 +93,7 @@ _Last updated: 2026-05-18 01:05 UTC_
 | 72 | Tamecka Dixon | 3,507 |
 | 73 | Tammy Sutton-Brown | 3,498 |
 | 74 | Sancho Lyttle | 3,478 |
-| 75 | **Brittney Sykes** 🔴 +30 | 3,469 |
+| 75 | **Brittney Sykes** 🔴 +32 | 3,471 |
 | 76 | Ivory Latta | 3,447 |
 | 77 | Jackie Young | 3,412 |
 | 78 | Nicole Powell | 3,407 |
@@ -248,7 +248,7 @@ _Last updated: 2026-05-18 01:05 UTC_
 | 22 | Lauren Jackson | 2,444 |
 | 23 | Yolanda Griffith | 2,440 |
 | 24 | Tangela Smith | 2,328 |
-| 25 | **Dearica Hamby** 🔴 +7 | 2,324 |
+| 25 | **Dearica Hamby** 🔴 +8 | 2,325 |
 | 26 | Erika de Souza | 2,220 |
 | 27 | Diana Taurasi | 2,201 |
 | 28 | **Natasha Howard** 🔴 +9 | 2,183 |
@@ -1471,7 +1471,7 @@ _Last updated: 2026-05-18 01:05 UTC_
 | 14 | Swin Cash | 1,146 |
 | 15 | Taj McWilliams-Franklin | 1,145 |
 | 16 | Monique Currie | 1,137 |
-| 17 | **Nneka Ogwumike** 🔴 +1 | 1,132 |
+| 17 | **Nneka Ogwumike** 🔴 +2 | 1,133 |
 | 18 | Tanisha Wright | 1,109 |
 | 19 | Michelle Snow | 1,108 |
 | 20 | **Natasha Howard** 🔴 +3 | 1,091 |
@@ -1529,7 +1529,7 @@ _Last updated: 2026-05-18 01:05 UTC_
 | 72 | Becky Hammon | 733 |
 | 73 | Latasha Byears | 730 |
 | 74 | Kristi Toliver | 722 |
-| 75 | **Natasha Cloud** 🔴 +3 | 721 |
+| 74 | **Natasha Cloud** 🔴 +4 | 722 |
 | 76 | Kahleah Copper | 715 |
 | 77 | Cheryl Ford | 713 |
 | 78 | Jia Perkins | 711 |
@@ -1650,7 +1650,7 @@ _Last updated: 2026-05-18 01:05 UTC_
 | 193 | Sue Wicks | 462 |
 | 194 | Natalie Achonwa | 459 |
 | 195 | Kara Lawson | 457 |
-| 196 | **Nia Coffey** 🔴 +4 | 452 |
+| 196 | **Nia Coffey** 🔴 +5 | 453 |
 | 197 | Alexis Hornbuckle | 450 |
 | 198 | Bria Hartley | 448 |
 | 199 | Diamond DeShields | 445 |
