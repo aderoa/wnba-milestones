@@ -1,5 +1,14 @@
 [
   {
+    "ts": "2026-05-19T02:47:00+00:00",
+    "text": "Emily Engstler reached 100 career blocks (now 100) \u2014 (2:58 - 2nd \u2014 CON @ POR)",
+    "kind": "round",
+    "player": "Emily Engstler",
+    "stat": "blocks",
+    "value": 100,
+    "new_total": 100
+  },
+  {
     "ts": "2026-05-19T01:50:00+00:00",
     "text": "Jessica Shepard passed Bridget Carleton for #186 all-time in assists (career 359) \u2014 up from #189 entering today \u2014 (5:54 - 4th \u2014 WSH @ DAL)",
     "kind": "rank_pass",
@@ -3044,19 +3053,5 @@
       "Natasha Cloud"
     ],
     "new_total": 341
-  },
-  {
-    "ts": "2026-05-11T02:27:00+00:00",
-    "text": "Alyssa Thomas passed Ebony Hoffman, Essence Carson, and Olivia Nelson-Ododa for #101 all-time in blocks (career 122) \u2014 (2:34 - 4th \u2014 PHX @ GS)",
-    "kind": "rank_pass",
-    "player": "Alyssa Thomas",
-    "stat": "blocks",
-    "rank": 101,
-    "passed_players": [
-      "Ebony Hoffman",
-      "Essence Carson",
-      "Olivia Nelson-Ododa"
-    ],
-    "new_total": 122
   }
 ]

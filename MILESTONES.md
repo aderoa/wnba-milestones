@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-19 02:47 UTC
+
+- **Emily Engstler** reached **100** career blocks (now 100) — _2:58 - 2nd — CON @ POR_
+
 ## 2026-05-19 01:50 UTC
 
 - **Jessica Shepard** passed **Bridget Carleton** for **#186** all-time in assists (career 359) — up from #189 entering today — _5:54 - 4th — WSH @ DAL_
