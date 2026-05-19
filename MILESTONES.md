@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-19 00:41 UTC
+
+- **Arike Ogunbowale** passed **Maya Moore** for **#59** all-time in assists (career 897) — _7:28 - 2nd — WSH @ DAL_
+
 ## 2026-05-19 00:40 UTC
 
 - **Sonia Citron** reached **100** career turnovers (now 100) — _7:43 - 2nd — WSH @ DAL_

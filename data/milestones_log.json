@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-19T00:41:00+00:00",
+    "text": "Arike Ogunbowale passed Maya Moore for #59 all-time in assists (career 897) \u2014 (7:28 - 2nd \u2014 WSH @ DAL)",
+    "kind": "rank_pass",
+    "player": "Arike Ogunbowale",
+    "stat": "assists",
+    "rank": 59,
+    "passed_players": [
+      "Maya Moore"
+    ],
+    "new_total": 897
+  },
+  {
     "ts": "2026-05-19T00:40:00+00:00",
     "text": "Sonia Citron reached 100 career turnovers (now 100) \u2014 (7:43 - 2nd \u2014 WSH @ DAL)",
     "kind": "round",
@@ -3046,14 +3058,5 @@
       "Svetlana Abrosimova"
     ],
     "new_total": 552
-  },
-  {
-    "ts": "2026-05-11T01:00:00+00:00",
-    "text": "Gabby Williams reached 1,600 career points (now 1,600) \u2014 (7:36 - 2nd \u2014 PHX @ GS)",
-    "kind": "round",
-    "player": "Gabby Williams",
-    "stat": "points",
-    "value": 1600,
-    "new_total": 1600
   }
 ]
