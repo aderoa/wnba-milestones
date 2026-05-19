@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-19 00:15 UTC_
+_Last updated: 2026-05-19 00:16 UTC_
 
 ## Contents
 
@@ -379,7 +379,7 @@ _Last updated: 2026-05-19 00:15 UTC_
 | 153 | Krystal Thomas | 862 |
 | 154 | Angel Reese | 861 |
 | 155 | Erica Wheeler | 858 |
-| 156 | **Alanna Smith** 🔴 | 847 |
+| 156 | **Alanna Smith** 🔴 +1 | 848 |
 | 157 | Leilani Mitchell | 845 |
 | 158 | **Jessica Shepard** 🔴 +2 | 838 |
 | 159 | Essence Carson | 833 |
@@ -829,7 +829,7 @@ _Last updated: 2026-05-19 00:15 UTC_
 | 192 | Jackie Young | 67 |
 | 192 | Satou Sabally | 67 |
 | 192 | Shannon Johnson | 67 |
-| 196 | Awak Kuier | 66 |
+| 196 | **Awak Kuier** 🔴 | 66 |
 | 197 | Crystal Robinson | 65 |
 | 197 | Queen Egbo | 65 |
 | 197 | Riquna Williams | 65 |
@@ -1651,7 +1651,7 @@ _Last updated: 2026-05-19 00:15 UTC_
 | 194 | Sue Wicks | 462 |
 | 195 | Natalie Achonwa | 459 |
 | 196 | Kara Lawson | 457 |
-| 197 | **Alanna Smith** 🔴 +1 | 453 |
+| 197 | **Alanna Smith** 🔴 +2 | 454 |
 | 198 | Alexis Hornbuckle | 450 |
 | 199 | Bria Hartley | 448 |
 | 200 | Diamond DeShields | 445 |
