@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-19 01:20 UTC_
+_Last updated: 2026-05-19 01:21 UTC_
 
 ## Contents
 
@@ -57,7 +57,7 @@ _Last updated: 2026-05-19 01:20 UTC_
 | 36 | Elena Delle Donne | 4,706 |
 | 37 | Penny Taylor | 4,595 |
 | 38 | Alyssa Thomas | 4,554 |
-| 39 | **Arike Ogunbowale** 🔴 +9 | 4,521 |
+| 39 | **Arike Ogunbowale** 🔴 +12 | 4,524 |
 | 40 | Kristi Toliver | 4,474 |
 | 41 | Chelsea Gray | 4,469 |
 | 42 | Crystal Langhorne | 4,433 |
@@ -455,7 +455,7 @@ _Last updated: 2026-05-19 01:20 UTC_
 | 24 | Erica Wheeler | 1,275 |
 | 25 | Katie Smith | 1,258 |
 | 26 | Kelsey Plum | 1,215 |
-| 27 | **Odyssey Sims** 🔴 +2 | 1,212 |
+| 27 | **Odyssey Sims** 🔴 +3 | 1,213 |
 | 28 | Vickie Johnson | 1,202 |
 | 29 | Leilani Mitchell | 1,197 |
 | 30 | DeWanna Bonner | 1,183 |
@@ -1060,7 +1060,7 @@ _Last updated: 2026-05-19 01:20 UTC_
 | 13 | Kelsey Plum | 598 |
 | 14 | Kara Lawson | 583 |
 | 15 | Nicole Powell | 579 |
-| 16 | **Arike Ogunbowale** 🔴 +1 | 550 |
+| 16 | **Arike Ogunbowale** 🔴 +2 | 551 |
 | 17 | Ivory Latta | 536 |
 | 18 | Renee Montgomery | 532 |
 | 19 | Maya Moore | 530 |
