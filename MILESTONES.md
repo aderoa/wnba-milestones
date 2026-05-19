@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-19 04:03 UTC
+
+- **Kennedy Burke** reached **300** career rebounds (now 300) — _3:08 - 4th — CON @ POR_
+
 ## 2026-05-19 03:25 UTC
 
 - **Bridget Carleton** reached **1,300** career points (now 1,300) — _3:58 - 3rd — CON @ POR_
