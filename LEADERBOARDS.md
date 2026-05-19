@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-19 01:23 UTC_
+_Last updated: 2026-05-19 01:24 UTC_
 
 ## Contents
 
@@ -380,8 +380,8 @@ _Last updated: 2026-05-19 01:23 UTC_
 | 154 | Angel Reese | 861 |
 | 155 | Erica Wheeler | 858 |
 | 156 | **Alanna Smith** 🔴 +1 | 848 |
-| 157 | **Jessica Shepard** 🔴 +9 | 845 |
-| 157 | Leilani Mitchell | 845 |
+| 157 | **Jessica Shepard** 🔴 +10 | 846 |
+| 158 | Leilani Mitchell | 845 |
 | 159 | Essence Carson | 833 |
 | 160 | Kristi Toliver | 829 |
 | 161 | Marie Ferdinand-Harris | 828 |
@@ -417,7 +417,7 @@ _Last updated: 2026-05-19 01:23 UTC_
 | 191 | Shenise Johnson | 729 |
 | 192 | Sami Whitcomb | 726 |
 | 192 | Shekinna Stricklen | 726 |
-| 194 | **Shakira Austin** 🔴 +3 | 722 |
+| 194 | **Shakira Austin** 🔴 +4 | 723 |
 | 195 | Kelsey Plum | 721 |
 | 196 | Olympia Scott | 711 |
 | 197 | Katie Mattera | 708 |
@@ -615,9 +615,9 @@ _Last updated: 2026-05-19 01:23 UTC_
 | 183 | Diamond DeShields | 361 |
 | 183 | Erlana Larkins | 361 |
 | 186 | Bridget Carleton | 358 |
-| 187 | **Jessica Shepard** 🔴 +2 | 355 |
-| 187 | Kayla Thornton | 355 |
-| 187 | Merlakia Jones | 355 |
+| 187 | **Jessica Shepard** 🔴 +3 | 356 |
+| 188 | Kayla Thornton | 355 |
+| 188 | Merlakia Jones | 355 |
 | 190 | Charlotte Smith | 352 |
 | 190 | Ruthie Bolton | 352 |
 | 192 | Jantel Lavender | 350 |

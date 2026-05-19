@@ -2,6 +2,11 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-19 01:24 UTC
+
+- **Jessica Shepard** passed **Leilani Mitchell** for **#157** all-time in rebounds (career 846) — up from #158 entering today — _4:37 - 3rd — WSH @ DAL_
+- **Jessica Shepard** passed **Kayla Thornton** and **Merlakia Jones** for **#187** all-time in assists (career 356) — up from #189 entering today — _4:37 - 3rd — WSH @ DAL_
+
 ## 2026-05-19 01:22 UTC
 
 - **Odyssey Sims** passed **Kelsey Plum** for **#67** all-time in turnovers (career 625) — up from #68 entering today — _6:31 - 3rd — WSH @ DAL_

@@ -1,5 +1,30 @@
 [
   {
+    "ts": "2026-05-19T01:24:00+00:00",
+    "text": "Jessica Shepard passed Leilani Mitchell for #157 all-time in rebounds (career 846) \u2014 up from #158 entering today \u2014 (4:37 - 3rd \u2014 WSH @ DAL)",
+    "kind": "rank_pass",
+    "player": "Jessica Shepard",
+    "stat": "rebounds",
+    "rank": 157,
+    "passed_players": [
+      "Leilani Mitchell"
+    ],
+    "new_total": 846
+  },
+  {
+    "ts": "2026-05-19T01:24:00+00:00",
+    "text": "Jessica Shepard passed Kayla Thornton and Merlakia Jones for #187 all-time in assists (career 356) \u2014 up from #189 entering today \u2014 (4:37 - 3rd \u2014 WSH @ DAL)",
+    "kind": "rank_pass",
+    "player": "Jessica Shepard",
+    "stat": "assists",
+    "rank": 187,
+    "passed_players": [
+      "Kayla Thornton",
+      "Merlakia Jones"
+    ],
+    "new_total": 356
+  },
+  {
     "ts": "2026-05-19T01:22:00+00:00",
     "text": "Odyssey Sims passed Kelsey Plum for #67 all-time in turnovers (career 625) \u2014 up from #68 entering today \u2014 (6:31 - 3rd \u2014 WSH @ DAL)",
     "kind": "rank_pass",
@@ -3035,30 +3060,5 @@
       "Tully Bevilaqua"
     ],
     "new_total": 768
-  },
-  {
-    "ts": "2026-05-11T01:18:00+00:00",
-    "text": "Kiah Stokes passed Courtney Williams for #42 all-time in rebounds (career 1,748) \u2014 up from #43 entering today \u2014 (4.0 - 2nd \u2014 PHX @ GS)",
-    "kind": "rank_pass",
-    "player": "Kiah Stokes",
-    "stat": "rebounds",
-    "rank": 42,
-    "passed_players": [
-      "Courtney Williams"
-    ],
-    "new_total": 1748
-  },
-  {
-    "ts": "2026-05-11T01:15:00+00:00",
-    "text": "Kayla Thornton passed Elaine Powell and Loree Moore for #119 all-time in steals (career 256) \u2014 up from #120 entering today \u2014 (2:01 - 2nd \u2014 PHX @ GS)",
-    "kind": "rank_pass",
-    "player": "Kayla Thornton",
-    "stat": "steals",
-    "rank": 119,
-    "passed_players": [
-      "Elaine Powell",
-      "Loree Moore"
-    ],
-    "new_total": 256
   }
 ]
