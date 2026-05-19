@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-19 02:05 UTC_
+_Last updated: 2026-05-19 02:06 UTC_
 
 ## Contents
 
@@ -1316,7 +1316,7 @@ _Last updated: 2026-05-19 02:05 UTC_
 | 64 | Ruth Riley | 637 |
 | 65 | Svetlana Abrosimova | 631 |
 | 66 | Kayla McBride | 630 |
-| 67 | **Odyssey Sims** 🔴 +3 | 625 |
+| 67 | **Odyssey Sims** 🔴 +4 | 626 |
 | 68 | Kelsey Plum | 624 |
 | 69 | Jonquel Jones | 617 |
 | 70 | Rebekkah Brunson | 615 |
@@ -1574,7 +1574,7 @@ _Last updated: 2026-05-19 02:05 UTC_
 | 117 | Svetlana Abrosimova | 613 |
 | 118 | Chelsea Gray | 609 |
 | 118 | Layshia Clarendon | 609 |
-| 120 | **Odyssey Sims** 🔴 +3 | 607 |
+| 120 | **Odyssey Sims** 🔴 +4 | 608 |
 | 121 | Tiffany Mitchell | 604 |
 | 122 | Janel McCarville | 597 |
 | 123 | Kamila Vodichkova | 596 |
