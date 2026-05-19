@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-19T04:08:00+00:00",
+    "text": "Brittney Griner passed Asjha Jones for #92 all-time in assists (career 638) \u2014 up from #94 entering today \u2014 (45.0 - 4th \u2014 CON @ POR)",
+    "kind": "rank_pass",
+    "player": "Brittney Griner",
+    "stat": "assists",
+    "rank": 92,
+    "passed_players": [
+      "Asjha Jones"
+    ],
+    "new_total": 638
+  },
+  {
     "ts": "2026-05-19T04:05:00+00:00",
     "text": "Brittney Griner passed Jennifer Azzi for #93 all-time in assists (career 637) \u2014 up from #94 entering today \u2014 (1:54 - 4th \u2014 CON @ POR)",
     "kind": "rank_pass",
@@ -3033,17 +3045,5 @@
       "Dearica Hamby"
     ],
     "new_total": 102
-  },
-  {
-    "ts": "2026-05-13T02:00:00+00:00",
-    "text": "Alysha Clark passed Nicole Powell for #65 all-time in rebounds (career 1,458) \u2014 up from #66 entering today \u2014 (1:10 - 4th \u2014 ATL @ DAL)",
-    "kind": "rank_pass",
-    "player": "Alysha Clark",
-    "stat": "rebounds",
-    "rank": 65,
-    "passed_players": [
-      "Nicole Powell"
-    ],
-    "new_total": 1458
   }
 ]
