@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-19 00:18 UTC
+
+- **Sonia Citron** reached **100** career fouls (now 100) — _6:22 - 1st — WSH @ DAL_
+
 ## 2026-05-18 14:28 UTC
 
 - **Stephanie Talbot** passed **Dana Evans** for **#175** all-time in assists (career 381) — up from #176 entering today — _Final — LV @ ATL_

@@ -1,5 +1,14 @@
 [
   {
+    "ts": "2026-05-19T00:18:00+00:00",
+    "text": "Sonia Citron reached 100 career fouls (now 100) \u2014 (6:22 - 1st \u2014 WSH @ DAL)",
+    "kind": "round",
+    "player": "Sonia Citron",
+    "stat": "fouls",
+    "value": 100,
+    "new_total": 100
+  },
+  {
     "ts": "2026-05-18T14:28:00+00:00",
     "text": "Stephanie Talbot passed Dana Evans for #175 all-time in assists (career 381) \u2014 up from #176 entering today \u2014 (Final \u2014 LV @ ATL)",
     "kind": "rank_pass",
@@ -3049,18 +3058,5 @@
       "Tonya Edwards"
     ],
     "new_total": 119
-  },
-  {
-    "ts": "2026-05-11T00:50:00+00:00",
-    "text": "Veronica Burton passed Crystal Robinson and Tiffany Mitchell for #128 all-time in assists (career 489) \u2014 up from #131 entering today \u2014 (1:52 - 1st \u2014 PHX @ GS)",
-    "kind": "rank_pass",
-    "player": "Veronica Burton",
-    "stat": "assists",
-    "rank": 128,
-    "passed_players": [
-      "Crystal Robinson",
-      "Tiffany Mitchell"
-    ],
-    "new_total": 489
   }
 ]
