@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-19 03:42 UTC_
+_Last updated: 2026-05-19 03:43 UTC_
 
 ## Contents
 
@@ -239,7 +239,7 @@ _Last updated: 2026-05-19 03:42 UTC_
 | 13 | Jonquel Jones | 2,599 |
 | 14 | Sancho Lyttle | 2,596 |
 | 15 | DeLisha Milton-Jones | 2,574 |
-| 16 | **Brittney Griner** 🔴 +3 | 2,540 |
+| 16 | **Brittney Griner** 🔴 +4 | 2,541 |
 | 17 | A'ja Wilson | 2,522 |
 | 18 | Swin Cash | 2,521 |
 | 19 | Breanna Stewart | 2,510 |
@@ -635,7 +635,7 @@ _Last updated: 2026-05-19 03:42 UTC_
 | Rank | Player | Total |
 |-----:|--------|------:|
 | 1 | Margo Dydek | 873 |
-| 2 | **Brittney Griner** 🔴 +1 | 860 |
+| 2 | **Brittney Griner** 🔴 +2 | 861 |
 | 3 | Lisa Leslie | 818 |
 | 4 | Sylvia Fowles | 721 |
 | 5 | Candace Parker | 619 |
