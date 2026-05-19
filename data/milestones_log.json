@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-19T01:50:00+00:00",
+    "text": "Jessica Shepard passed Bridget Carleton for #186 all-time in assists (career 359) \u2014 up from #189 entering today \u2014 (5:54 - 4th \u2014 WSH @ DAL)",
+    "kind": "rank_pass",
+    "player": "Jessica Shepard",
+    "stat": "assists",
+    "rank": 186,
+    "passed_players": [
+      "Bridget Carleton"
+    ],
+    "new_total": 359
+  },
+  {
     "ts": "2026-05-19T01:45:00+00:00",
     "text": "Jessica Shepard reached 900 career points (now 900) \u2014 (9:01 - 4th \u2014 WSH @ DAL)",
     "kind": "round",
@@ -3046,17 +3058,5 @@
       "Olivia Nelson-Ododa"
     ],
     "new_total": 122
-  },
-  {
-    "ts": "2026-05-11T02:27:00+00:00",
-    "text": "Veronica Burton passed Rachel Banham for #127 all-time in assists (career 496) \u2014 up from #131 entering today \u2014 (2:34 - 4th \u2014 PHX @ GS)",
-    "kind": "rank_pass",
-    "player": "Veronica Burton",
-    "stat": "assists",
-    "rank": 127,
-    "passed_players": [
-      "Rachel Banham"
-    ],
-    "new_total": 496
   }
 ]
