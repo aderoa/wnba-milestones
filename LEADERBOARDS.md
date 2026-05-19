@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-19 02:03 UTC_
+_Last updated: 2026-05-19 02:04 UTC_
 
 ## Contents
 
@@ -36,7 +36,7 @@ _Last updated: 2026-05-19 02:03 UTC_
 | 15 | Jewell Loyd | 6,059 |
 | 16 | Lauren Jackson | 6,005 |
 | 16 | Seimone Augustus | 6,005 |
-| 18 | Brittney Griner | 5,983 |
+| 18 | **Brittney Griner** 🔴 | 5,983 |
 | 19 | A'ja Wilson | 5,844 |
 | 20 | Becky Hammon | 5,816 |
 | 21 | Angel McCoughtry | 5,797 |
@@ -239,7 +239,7 @@ _Last updated: 2026-05-19 02:03 UTC_
 | 13 | Jonquel Jones | 2,599 |
 | 14 | Sancho Lyttle | 2,596 |
 | 15 | DeLisha Milton-Jones | 2,574 |
-| 16 | Brittney Griner | 2,537 |
+| 16 | **Brittney Griner** 🔴 | 2,537 |
 | 17 | A'ja Wilson | 2,522 |
 | 18 | Swin Cash | 2,521 |
 | 19 | Breanna Stewart | 2,510 |
@@ -522,7 +522,7 @@ _Last updated: 2026-05-19 02:03 UTC_
 | 91 | Alex Bentley | 645 |
 | 92 | Asjha Jones | 637 |
 | 93 | Jennifer Azzi | 636 |
-| 94 | Brittney Griner | 635 |
+| 94 | **Brittney Griner** 🔴 | 635 |
 | 95 | A'ja Wilson | 625 |
 | 96 | Sami Whitcomb | 623 |
 | 97 | **Alysha Clark** 🔴 | 614 |
@@ -578,7 +578,7 @@ _Last updated: 2026-05-19 02:03 UTC_
 | 147 | DeMya Walker | 446 |
 | 147 | Tyasha Harris | 446 |
 | 149 | Essence Carson | 445 |
-| 150 | Sug Sutton | 438 |
+| 150 | **Sug Sutton** 🔴 | 438 |
 | 151 | Michelle Snow | 437 |
 | 152 | Lauren Jackson | 435 |
 | 153 | Adrienne Goodson | 433 |
@@ -614,8 +614,8 @@ _Last updated: 2026-05-19 02:03 UTC_
 | 183 | Andrea Nagy | 361 |
 | 183 | Diamond DeShields | 361 |
 | 183 | Erlana Larkins | 361 |
+| 186 | **Bridget Carleton** 🔴 +1 | 359 |
 | 186 | **Jessica Shepard** 🔴 +6 | 359 |
-| 187 | Bridget Carleton | 358 |
 | 188 | Kayla Thornton | 355 |
 | 188 | Merlakia Jones | 355 |
 | 190 | Charlotte Smith | 352 |
@@ -635,7 +635,7 @@ _Last updated: 2026-05-19 02:03 UTC_
 | Rank | Player | Total |
 |-----:|--------|------:|
 | 1 | Margo Dydek | 873 |
-| 2 | Brittney Griner | 859 |
+| 2 | **Brittney Griner** 🔴 | 859 |
 | 3 | Lisa Leslie | 818 |
 | 4 | Sylvia Fowles | 721 |
 | 5 | Candace Parker | 619 |
@@ -764,7 +764,7 @@ _Last updated: 2026-05-19 02:03 UTC_
 | 127 | Danielle Adams | 100 |
 | 127 | Kamilla Cardoso | 100 |
 | 127 | Nicole Powell | 100 |
-| 131 | Emily Engstler | 99 |
+| 131 | **Emily Engstler** 🔴 | 99 |
 | 132 | Mwadi Mabika | 98 |
 | 132 | Natalie Achonwa | 98 |
 | 132 | Rhyne Howard | 98 |
@@ -1037,7 +1037,7 @@ _Last updated: 2026-05-19 02:03 UTC_
 | 195 | Ezi Magbegor | 174 |
 | 195 | Margo Dydek | 174 |
 | 198 | Kamila Vodichkova | 173 |
-| 199 | Brittney Griner | 168 |
+| 199 | **Brittney Griner** 🔴 | 168 |
 | 199 | Kara Braxton | 168 |
 | 199 | Sugar Rodgers | 168 |
 
@@ -1125,7 +1125,7 @@ _Last updated: 2026-05-19 02:03 UTC_
 | 78 | Monique Currie | 284 |
 | 79 | Kayla Thornton | 276 |
 | 80 | Iziane Castro Marques | 275 |
-| 81 | Bridget Carleton | 272 |
+| 81 | **Bridget Carleton** 🔴 | 272 |
 | 82 | Sheryl Swoopes | 270 |
 | 83 | Stefanie Dolson | 269 |
 | 84 | Courtney Williams | 260 |
@@ -1232,7 +1232,7 @@ _Last updated: 2026-05-19 02:03 UTC_
 | 183 | Sandy Brondello | 114 |
 | 186 | Lexie Hull | 111 |
 | 186 | Shoni Schimmel | 111 |
-| 188 | Kennedy Burke | 110 |
+| 188 | **Kennedy Burke** 🔴 | 110 |
 | 189 | Emma Meesseman | 109 |
 | 189 | Scholanda Dorrell | 109 |
 | 191 | Belinda Snell | 108 |
@@ -1290,7 +1290,7 @@ _Last updated: 2026-05-19 02:03 UTC_
 | 38 | Margo Dydek | 758 |
 | 39 | Tangela Smith | 751 |
 | 40 | Kristi Toliver | 748 |
-| 41 | Brittney Griner | 736 |
+| 41 | **Brittney Griner** 🔴 | 736 |
 | 42 | Monique Currie | 724 |
 | 43 | Michelle Snow | 723 |
 | 44 | Tamecka Dixon | 716 |
@@ -1484,7 +1484,7 @@ _Last updated: 2026-05-19 02:03 UTC_
 | 27 | Yolanda Griffith | 991 |
 | 28 | Lauren Jackson | 982 |
 | 29 | Nakia Sanford | 979 |
-| 30 | Brittney Griner | 972 |
+| 30 | **Brittney Griner** 🔴 | 972 |
 | 31 | Asjha Jones | 971 |
 | 32 | Margo Dydek | 950 |
 | 33 | Sancho Lyttle | 947 |
