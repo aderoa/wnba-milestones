@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-19T04:05:00+00:00",
+    "text": "Brittney Griner passed Jennifer Azzi for #93 all-time in assists (career 637) \u2014 up from #94 entering today \u2014 (1:54 - 4th \u2014 CON @ POR)",
+    "kind": "rank_pass",
+    "player": "Brittney Griner",
+    "stat": "assists",
+    "rank": 93,
+    "passed_players": [
+      "Jennifer Azzi"
+    ],
+    "new_total": 637
+  },
+  {
     "ts": "2026-05-19T04:03:00+00:00",
     "text": "Kennedy Burke reached 300 career rebounds (now 300) \u2014 (3:08 - 4th \u2014 CON @ POR)",
     "kind": "round",
@@ -3033,18 +3045,5 @@
       "Nicole Powell"
     ],
     "new_total": 1458
-  },
-  {
-    "ts": "2026-05-13T01:53:00+00:00",
-    "text": "Jordin Canada passed Lauren Jackson and Tan White for #59 all-time in steals (career 361) \u2014 up from #61 entering today \u2014 (4:11 - 4th \u2014 ATL @ DAL)",
-    "kind": "rank_pass",
-    "player": "Jordin Canada",
-    "stat": "steals",
-    "rank": 59,
-    "passed_players": [
-      "Lauren Jackson",
-      "Tan White"
-    ],
-    "new_total": 361
   }
 ]
