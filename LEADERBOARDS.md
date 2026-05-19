@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-19 00:46 UTC_
+_Last updated: 2026-05-19 00:47 UTC_
 
 ## Contents
 
@@ -122,7 +122,7 @@ _Last updated: 2026-05-19 00:46 UTC_
 | 100 | Natasha Cloud | 2,888 |
 | 102 | Iziane Castro Marques | 2,862 |
 | 103 | Elizabeth Williams | 2,856 |
-| 104 | **Alysha Clark** 🔴 | 2,792 |
+| 104 | **Alysha Clark** 🔴 +3 | 2,795 |
 | 105 | Jantel Lavender | 2,775 |
 | 106 | Brionna Jones | 2,765 |
 | 107 | Dominique Canty | 2,763 |
@@ -609,7 +609,7 @@ _Last updated: 2026-05-19 00:46 UTC_
 | 178 | Shenise Johnson | 376 |
 | 179 | Suzie McConnell Serio | 370 |
 | 180 | Damiris Dantas | 368 |
-| 181 | **Alanna Smith** 🔴 | 365 |
+| 181 | **Alanna Smith** 🔴 +1 | 366 |
 | 182 | Roneeka Hodges | 362 |
 | 183 | Andrea Nagy | 361 |
 | 183 | Diamond DeShields | 361 |
@@ -1084,7 +1084,7 @@ _Last updated: 2026-05-19 00:46 UTC_
 | 37 | Penny Taylor | 407 |
 | 37 | Riquna Williams | 407 |
 | 39 | Jia Perkins | 396 |
-| 40 | **Alysha Clark** 🔴 | 391 |
+| 40 | **Alysha Clark** 🔴 +1 | 392 |
 | 41 | Roneeka Hodges | 389 |
 | 42 | Courtney Vandersloot | 385 |
 | 43 | Briann January | 381 |
