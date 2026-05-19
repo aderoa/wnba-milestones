@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-19 01:45 UTC
+
+- **Jessica Shepard** reached **900** career points (now 900) — _9:01 - 4th — WSH @ DAL_
+
 ## 2026-05-19 01:40 UTC
 
 - **Jessica Shepard** passed **Alanna Smith** for **#156** all-time in rebounds (career 848) — up from #158 entering today — _End of 3rd — WSH @ DAL_

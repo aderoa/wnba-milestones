@@ -1,5 +1,14 @@
 [
   {
+    "ts": "2026-05-19T01:45:00+00:00",
+    "text": "Jessica Shepard reached 900 career points (now 900) \u2014 (9:01 - 4th \u2014 WSH @ DAL)",
+    "kind": "round",
+    "player": "Jessica Shepard",
+    "stat": "points",
+    "value": 900,
+    "new_total": 900
+  },
+  {
     "ts": "2026-05-19T01:40:00+00:00",
     "text": "Jessica Shepard passed Alanna Smith for #156 all-time in rebounds (career 848) \u2014 up from #158 entering today \u2014 (End of 3rd \u2014 WSH @ DAL)",
     "kind": "rank_pass",
@@ -3049,17 +3058,5 @@
       "Rachel Banham"
     ],
     "new_total": 496
-  },
-  {
-    "ts": "2026-05-11T01:48:00+00:00",
-    "text": "Veronica Burton passed Amber Jacobs for #198 all-time in three-pointers (career 102) \u2014 up from #199 entering today \u2014 (3:44 - 3rd \u2014 PHX @ GS)",
-    "kind": "rank_pass",
-    "player": "Veronica Burton",
-    "stat": "three-pointers",
-    "rank": 198,
-    "passed_players": [
-      "Amber Jacobs"
-    ],
-    "new_total": 102
   }
 ]
