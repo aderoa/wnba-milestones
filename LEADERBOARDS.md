@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-19 02:30 UTC_
+_Last updated: 2026-05-19 02:31 UTC_
 
 ## Contents
 
@@ -521,8 +521,8 @@ _Last updated: 2026-05-19 02:30 UTC_
 | 88 | Plenette Pierson | 651 |
 | 91 | Alex Bentley | 645 |
 | 92 | Asjha Jones | 637 |
+| 93 | **Brittney Griner** 🔴 +1 | 636 |
 | 93 | Jennifer Azzi | 636 |
-| 94 | **Brittney Griner** 🔴 | 635 |
 | 95 | A'ja Wilson | 625 |
 | 96 | Sami Whitcomb | 623 |
 | 97 | Alysha Clark | 614 |
@@ -1290,7 +1290,7 @@ _Last updated: 2026-05-19 02:30 UTC_
 | 38 | Margo Dydek | 758 |
 | 39 | Tangela Smith | 751 |
 | 40 | Kristi Toliver | 748 |
-| 41 | **Brittney Griner** 🔴 | 736 |
+| 41 | **Brittney Griner** 🔴 +1 | 737 |
 | 42 | Monique Currie | 724 |
 | 43 | Michelle Snow | 723 |
 | 44 | Tamecka Dixon | 716 |
@@ -1484,7 +1484,7 @@ _Last updated: 2026-05-19 02:30 UTC_
 | 27 | Yolanda Griffith | 991 |
 | 28 | Lauren Jackson | 982 |
 | 29 | Nakia Sanford | 979 |
-| 30 | **Brittney Griner** 🔴 | 972 |
+| 30 | **Brittney Griner** 🔴 +1 | 973 |
 | 31 | Asjha Jones | 971 |
 | 32 | Margo Dydek | 950 |
 | 33 | Sancho Lyttle | 947 |
