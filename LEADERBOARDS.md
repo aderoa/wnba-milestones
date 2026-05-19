@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-19 01:32 UTC_
+_Last updated: 2026-05-19 01:33 UTC_
 
 ## Contents
 
@@ -910,10 +910,10 @@ _Last updated: 2026-05-19 01:32 UTC_
 | 69 | Allisha Gray | 351 |
 | 70 | Erica Wheeler | 349 |
 | 71 | Janeth Arcain | 346 |
+| 72 | **Arike Ogunbowale** 🔴 +3 | 343 |
 | 72 | Helen Darling | 343 |
-| 73 | Andrea Stinson | 342 |
-| 73 | **Arike Ogunbowale** 🔴 +2 | 342 |
-| 73 | Natasha Cloud | 342 |
+| 74 | Andrea Stinson | 342 |
+| 74 | Natasha Cloud | 342 |
 | 76 | Armintie Herrington | 340 |
 | 77 | A'ja Wilson | 339 |
 | 78 | Dawn Staley | 338 |

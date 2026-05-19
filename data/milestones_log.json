@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-05-19T01:33:00+00:00",
+    "text": "Arike Ogunbowale passed Andrea Stinson and Natasha Cloud for #73 all-time in steals (career 343) \u2014 up from #75 entering today \u2014 (1:18 - 3rd \u2014 WSH @ DAL)",
+    "kind": "rank_pass",
+    "player": "Arike Ogunbowale",
+    "stat": "steals",
+    "rank": 73,
+    "passed_players": [
+      "Andrea Stinson",
+      "Natasha Cloud"
+    ],
+    "new_total": 343
+  },
+  {
     "ts": "2026-05-19T01:24:00+00:00",
     "text": "Jessica Shepard passed Leilani Mitchell for #157 all-time in rebounds (career 846) \u2014 up from #158 entering today \u2014 (4:37 - 3rd \u2014 WSH @ DAL)",
     "kind": "rank_pass",
@@ -3048,17 +3061,5 @@
       "Iziane Castro Marques"
     ],
     "new_total": 276
-  },
-  {
-    "ts": "2026-05-11T01:19:00+00:00",
-    "text": "Gabby Williams passed Tully Bevilaqua for #182 all-time in rebounds (career 768) \u2014 up from #183 entering today \u2014 (Halftime \u2014 PHX @ GS)",
-    "kind": "rank_pass",
-    "player": "Gabby Williams",
-    "stat": "rebounds",
-    "rank": 182,
-    "passed_players": [
-      "Tully Bevilaqua"
-    ],
-    "new_total": 768
   }
 ]
