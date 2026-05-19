@@ -1,5 +1,29 @@
 [
   {
+    "ts": "2026-05-19T00:58:00+00:00",
+    "text": "Shakira Austin passed Kelsey Plum for #194 all-time in rebounds (career 722) \u2014 up from #195 entering today \u2014 (39.5 - 2nd \u2014 WSH @ DAL)",
+    "kind": "rank_pass",
+    "player": "Shakira Austin",
+    "stat": "rebounds",
+    "rank": 194,
+    "passed_players": [
+      "Kelsey Plum"
+    ],
+    "new_total": 722
+  },
+  {
+    "ts": "2026-05-19T00:58:00+00:00",
+    "text": "Arike Ogunbowale passed Armintie Herrington for #76 all-time in steals (career 341) \u2014 (39.5 - 2nd \u2014 WSH @ DAL)",
+    "kind": "rank_pass",
+    "player": "Arike Ogunbowale",
+    "stat": "steals",
+    "rank": 76,
+    "passed_players": [
+      "Armintie Herrington"
+    ],
+    "new_total": 341
+  },
+  {
     "ts": "2026-05-19T00:49:00+00:00",
     "text": "Alanna Smith passed Michele Timms and Natisha Hiedeman for #177 all-time in steals (career 188) \u2014 up from #179 entering today \u2014 (3:52 - 2nd \u2014 WSH @ DAL)",
     "kind": "rank_pass",
@@ -3036,27 +3060,5 @@
       "Tamera Young"
     ],
     "new_total": 553
-  },
-  {
-    "ts": "2026-05-11T01:08:00+00:00",
-    "text": "Kayla Thornton passed Alexis Hornbuckle and Kristen Rasmussen for #195 all-time in turnovers (career 289) \u2014 up from #196 entering today \u2014 (4:14 - 2nd \u2014 PHX @ GS)",
-    "kind": "rank_pass",
-    "player": "Kayla Thornton",
-    "stat": "turnovers",
-    "rank": 195,
-    "passed_players": [
-      "Alexis Hornbuckle",
-      "Kristen Rasmussen"
-    ],
-    "new_total": 289
-  },
-  {
-    "ts": "2026-05-11T01:08:00+00:00",
-    "text": "Gabby Williams reached 300 career steals (now 300) \u2014 (4:14 - 2nd \u2014 PHX @ GS)",
-    "kind": "round",
-    "player": "Gabby Williams",
-    "stat": "steals",
-    "value": 300,
-    "new_total": 300
   }
 ]

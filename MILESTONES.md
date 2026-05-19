@@ -2,6 +2,11 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-19 00:58 UTC
+
+- **Shakira Austin** passed **Kelsey Plum** for **#194** all-time in rebounds (career 722) — up from #195 entering today — _39.5 - 2nd — WSH @ DAL_
+- **Arike Ogunbowale** passed **Armintie Herrington** for **#76** all-time in steals (career 341) — _39.5 - 2nd — WSH @ DAL_
+
 ## 2026-05-19 00:49 UTC
 
 - **Alanna Smith** passed **Michele Timms** and **Natisha Hiedeman** for **#177** all-time in steals (career 188) — up from #179 entering today — _3:52 - 2nd — WSH @ DAL_

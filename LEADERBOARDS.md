@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-19 00:57 UTC_
+_Last updated: 2026-05-19 00:58 UTC_
 
 ## Contents
 
@@ -417,8 +417,8 @@ _Last updated: 2026-05-19 00:57 UTC_
 | 191 | Shenise Johnson | 729 |
 | 192 | Sami Whitcomb | 726 |
 | 192 | Shekinna Stricklen | 726 |
-| 194 | Kelsey Plum | 721 |
-| 194 | **Shakira Austin** 🔴 +2 | 721 |
+| 194 | **Shakira Austin** 🔴 +3 | 722 |
+| 195 | Kelsey Plum | 721 |
 | 196 | Olympia Scott | 711 |
 | 197 | Katie Mattera | 708 |
 | 198 | Rushia Brown | 706 |
@@ -913,8 +913,8 @@ _Last updated: 2026-05-19 00:57 UTC_
 | 72 | Helen Darling | 343 |
 | 73 | Andrea Stinson | 342 |
 | 73 | Natasha Cloud | 342 |
-| 75 | **Arike Ogunbowale** 🔴 | 340 |
-| 75 | Armintie Herrington | 340 |
+| 75 | **Arike Ogunbowale** 🔴 +1 | 341 |
+| 76 | Armintie Herrington | 340 |
 | 77 | A'ja Wilson | 339 |
 | 78 | Dawn Staley | 338 |
 | 79 | Marie Ferdinand-Harris | 331 |
