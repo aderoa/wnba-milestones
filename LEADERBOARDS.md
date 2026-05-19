@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-19 00:13 UTC_
+_Last updated: 2026-05-19 00:14 UTC_
 
 ## Contents
 
@@ -57,7 +57,7 @@ _Last updated: 2026-05-19 00:13 UTC_
 | 36 | Elena Delle Donne | 4,706 |
 | 37 | Penny Taylor | 4,595 |
 | 38 | Alyssa Thomas | 4,554 |
-| 39 | **Arike Ogunbowale** 🔴 | 4,512 |
+| 39 | **Arike Ogunbowale** 🔴 +2 | 4,514 |
 | 40 | Kristi Toliver | 4,474 |
 | 41 | Chelsea Gray | 4,469 |
 | 42 | Crystal Langhorne | 4,433 |
@@ -1015,9 +1015,9 @@ _Last updated: 2026-05-19 00:13 UTC_
 | 173 | Tierra Ruffin-Pratt | 194 |
 | 175 | Cynthia Cooper | 192 |
 | 176 | Tamicha Jackson | 188 |
+| 177 | **Alanna Smith** 🔴 +1 | 187 |
 | 177 | Michele Timms | 187 |
 | 177 | Natisha Hiedeman | 187 |
-| 179 | **Alanna Smith** 🔴 | 186 |
 | 180 | Charde Houston | 185 |
 | 180 | Myisha Hines-Allen | 185 |
 | 180 | Tiffany Jackson | 185 |
@@ -1651,7 +1651,7 @@ _Last updated: 2026-05-19 00:13 UTC_
 | 194 | Sue Wicks | 462 |
 | 195 | Natalie Achonwa | 459 |
 | 196 | Kara Lawson | 457 |
-| 197 | **Alanna Smith** 🔴 | 452 |
+| 197 | **Alanna Smith** 🔴 +1 | 453 |
 | 198 | Alexis Hornbuckle | 450 |
 | 199 | Bria Hartley | 448 |
 | 200 | Diamond DeShields | 445 |
