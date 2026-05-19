@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-19 02:06 UTC_
+_Last updated: 2026-05-19 02:07 UTC_
 
 ## Contents
 
@@ -455,7 +455,7 @@ _Last updated: 2026-05-19 02:06 UTC_
 | 24 | Erica Wheeler | 1,275 |
 | 25 | Katie Smith | 1,258 |
 | 26 | Kelsey Plum | 1,215 |
-| 27 | **Odyssey Sims** 🔴 +3 | 1,213 |
+| 27 | **Odyssey Sims** 🔴 +4 | 1,214 |
 | 28 | Vickie Johnson | 1,202 |
 | 29 | Leilani Mitchell | 1,197 |
 | 30 | DeWanna Bonner | 1,183 |
@@ -635,7 +635,7 @@ _Last updated: 2026-05-19 02:06 UTC_
 | Rank | Player | Total |
 |-----:|--------|------:|
 | 1 | Margo Dydek | 873 |
-| 2 | **Brittney Griner** 🔴 | 859 |
+| 2 | **Brittney Griner** 🔴 +1 | 860 |
 | 3 | Lisa Leslie | 818 |
 | 4 | Sylvia Fowles | 721 |
 | 5 | Candace Parker | 619 |
