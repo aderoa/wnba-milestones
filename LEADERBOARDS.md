@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-19 01:17 UTC_
+_Last updated: 2026-05-19 01:18 UTC_
 
 ## Contents
 
@@ -57,7 +57,7 @@ _Last updated: 2026-05-19 01:17 UTC_
 | 36 | Elena Delle Donne | 4,706 |
 | 37 | Penny Taylor | 4,595 |
 | 38 | Alyssa Thomas | 4,554 |
-| 39 | **Arike Ogunbowale** 🔴 +7 | 4,519 |
+| 39 | **Arike Ogunbowale** 🔴 +9 | 4,521 |
 | 40 | Kristi Toliver | 4,474 |
 | 41 | Chelsea Gray | 4,469 |
 | 42 | Crystal Langhorne | 4,433 |
@@ -615,9 +615,9 @@ _Last updated: 2026-05-19 01:17 UTC_
 | 183 | Diamond DeShields | 361 |
 | 183 | Erlana Larkins | 361 |
 | 186 | Bridget Carleton | 358 |
+| 187 | **Jessica Shepard** 🔴 +2 | 355 |
 | 187 | Kayla Thornton | 355 |
 | 187 | Merlakia Jones | 355 |
-| 189 | **Jessica Shepard** 🔴 +1 | 354 |
 | 190 | Charlotte Smith | 352 |
 | 190 | Ruthie Bolton | 352 |
 | 192 | Jantel Lavender | 350 |
@@ -1317,7 +1317,7 @@ _Last updated: 2026-05-19 01:17 UTC_
 | 65 | Svetlana Abrosimova | 631 |
 | 66 | Kayla McBride | 630 |
 | 67 | Kelsey Plum | 624 |
-| 68 | **Odyssey Sims** 🔴 +1 | 623 |
+| 67 | **Odyssey Sims** 🔴 +2 | 624 |
 | 69 | Jonquel Jones | 617 |
 | 70 | Rebekkah Brunson | 615 |
 | 71 | Seimone Augustus | 613 |
@@ -1574,8 +1574,8 @@ _Last updated: 2026-05-19 01:17 UTC_
 | 117 | Svetlana Abrosimova | 613 |
 | 118 | Chelsea Gray | 609 |
 | 118 | Layshia Clarendon | 609 |
-| 120 | **Odyssey Sims** 🔴 | 604 |
-| 120 | Tiffany Mitchell | 604 |
+| 120 | **Odyssey Sims** 🔴 +1 | 605 |
+| 121 | Tiffany Mitchell | 604 |
 | 122 | Janel McCarville | 597 |
 | 123 | Kamila Vodichkova | 596 |
 | 124 | Kelsey Mitchell | 591 |

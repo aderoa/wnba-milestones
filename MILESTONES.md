@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-19 01:18 UTC
+
+- **Odyssey Sims** passed **Tiffany Mitchell** for **#121** all-time in fouls (career 605) — _8:09 - 3rd — WSH @ DAL_
+
 ## 2026-05-19 00:58 UTC
 
 - **Shakira Austin** passed **Kelsey Plum** for **#194** all-time in rebounds (career 722) — up from #195 entering today — _39.5 - 2nd — WSH @ DAL_

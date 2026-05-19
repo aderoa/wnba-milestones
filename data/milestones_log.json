@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-19T01:18:00+00:00",
+    "text": "Odyssey Sims passed Tiffany Mitchell for #121 all-time in fouls (career 605) \u2014 (8:09 - 3rd \u2014 WSH @ DAL)",
+    "kind": "rank_pass",
+    "player": "Odyssey Sims",
+    "stat": "fouls",
+    "rank": 121,
+    "passed_players": [
+      "Tiffany Mitchell"
+    ],
+    "new_total": 605
+  },
+  {
     "ts": "2026-05-19T00:58:00+00:00",
     "text": "Shakira Austin passed Kelsey Plum for #194 all-time in rebounds (career 722) \u2014 up from #195 entering today \u2014 (39.5 - 2nd \u2014 WSH @ DAL)",
     "kind": "rank_pass",
@@ -3048,17 +3060,5 @@
       "Allison Feaster"
     ],
     "new_total": 2260
-  },
-  {
-    "ts": "2026-05-11T01:14:00+00:00",
-    "text": "Gabby Williams passed Tamera Young for #114 all-time in assists (career 553) \u2014 up from #117 entering today \u2014 (2:07 - 2nd \u2014 PHX @ GS)",
-    "kind": "rank_pass",
-    "player": "Gabby Williams",
-    "stat": "assists",
-    "rank": 114,
-    "passed_players": [
-      "Tamera Young"
-    ],
-    "new_total": 553
   }
 ]
