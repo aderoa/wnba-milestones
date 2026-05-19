@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-19 01:22 UTC
+
+- **Odyssey Sims** passed **Kelsey Plum** for **#67** all-time in turnovers (career 625) — up from #68 entering today — _6:31 - 3rd — WSH @ DAL_
+
 ## 2026-05-19 01:18 UTC
 
 - **Odyssey Sims** passed **Tiffany Mitchell** for **#121** all-time in fouls (career 605) — _8:09 - 3rd — WSH @ DAL_

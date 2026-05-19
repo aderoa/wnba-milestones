@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-19T01:22:00+00:00",
+    "text": "Odyssey Sims passed Kelsey Plum for #67 all-time in turnovers (career 625) \u2014 up from #68 entering today \u2014 (6:31 - 3rd \u2014 WSH @ DAL)",
+    "kind": "rank_pass",
+    "player": "Odyssey Sims",
+    "stat": "turnovers",
+    "rank": 67,
+    "passed_players": [
+      "Kelsey Plum"
+    ],
+    "new_total": 625
+  },
+  {
     "ts": "2026-05-19T01:18:00+00:00",
     "text": "Odyssey Sims passed Tiffany Mitchell for #121 all-time in fouls (career 605) \u2014 (8:09 - 3rd \u2014 WSH @ DAL)",
     "kind": "rank_pass",
@@ -3048,17 +3060,5 @@
       "Loree Moore"
     ],
     "new_total": 256
-  },
-  {
-    "ts": "2026-05-11T01:14:00+00:00",
-    "text": "Kayla Thornton passed Allison Feaster for #134 all-time in points (career 2,260) \u2014 up from #135 entering today \u2014 (2:07 - 2nd \u2014 PHX @ GS)",
-    "kind": "rank_pass",
-    "player": "Kayla Thornton",
-    "stat": "points",
-    "rank": 134,
-    "passed_players": [
-      "Allison Feaster"
-    ],
-    "new_total": 2260
   }
 ]
