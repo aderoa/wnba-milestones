@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-05-19T00:49:00+00:00",
+    "text": "Alanna Smith passed Michele Timms and Natisha Hiedeman for #177 all-time in steals (career 188) \u2014 up from #179 entering today \u2014 (3:52 - 2nd \u2014 WSH @ DAL)",
+    "kind": "rank_pass",
+    "player": "Alanna Smith",
+    "stat": "steals",
+    "rank": 177,
+    "passed_players": [
+      "Michele Timms",
+      "Natisha Hiedeman"
+    ],
+    "new_total": 188
+  },
+  {
     "ts": "2026-05-19T00:41:00+00:00",
     "text": "Arike Ogunbowale passed Maya Moore for #59 all-time in assists (career 897) \u2014 (7:28 - 2nd \u2014 WSH @ DAL)",
     "kind": "rank_pass",
@@ -3045,18 +3058,5 @@
     "stat": "steals",
     "value": 300,
     "new_total": 300
-  },
-  {
-    "ts": "2026-05-11T01:07:00+00:00",
-    "text": "Gabby Williams passed Janel McCarville and Svetlana Abrosimova for #115 all-time in assists (career 552) \u2014 up from #117 entering today \u2014 (4:49 - 2nd \u2014 PHX @ GS)",
-    "kind": "rank_pass",
-    "player": "Gabby Williams",
-    "stat": "assists",
-    "rank": 115,
-    "passed_players": [
-      "Janel McCarville",
-      "Svetlana Abrosimova"
-    ],
-    "new_total": 552
   }
 ]
