@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-19T01:40:00+00:00",
+    "text": "Jessica Shepard passed Alanna Smith for #156 all-time in rebounds (career 848) \u2014 up from #158 entering today \u2014 (End of 3rd \u2014 WSH @ DAL)",
+    "kind": "rank_pass",
+    "player": "Jessica Shepard",
+    "stat": "rebounds",
+    "rank": 156,
+    "passed_players": [
+      "Alanna Smith"
+    ],
+    "new_total": 848
+  },
+  {
     "ts": "2026-05-19T01:33:00+00:00",
     "text": "Arike Ogunbowale passed Andrea Stinson and Natasha Cloud for #73 all-time in steals (career 343) \u2014 up from #75 entering today \u2014 (1:18 - 3rd \u2014 WSH @ DAL)",
     "kind": "rank_pass",
@@ -3049,17 +3061,5 @@
       "Amber Jacobs"
     ],
     "new_total": 102
-  },
-  {
-    "ts": "2026-05-11T01:43:00+00:00",
-    "text": "Kayla Thornton passed Iziane Castro Marques for #79 all-time in three-pointers (career 276) \u2014 up from #80 entering today \u2014 (6:42 - 3rd \u2014 PHX @ GS)",
-    "kind": "rank_pass",
-    "player": "Kayla Thornton",
-    "stat": "three-pointers",
-    "rank": 79,
-    "passed_players": [
-      "Iziane Castro Marques"
-    ],
-    "new_total": 276
   }
 ]
