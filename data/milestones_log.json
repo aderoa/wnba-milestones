@@ -1,5 +1,14 @@
 [
   {
+    "ts": "2026-05-19T03:25:00+00:00",
+    "text": "Bridget Carleton reached 1,300 career points (now 1,300) \u2014 (3:58 - 3rd \u2014 CON @ POR)",
+    "kind": "round",
+    "player": "Bridget Carleton",
+    "stat": "points",
+    "value": 1300,
+    "new_total": 1300
+  },
+  {
     "ts": "2026-05-19T02:47:00+00:00",
     "text": "Emily Engstler reached 100 career blocks (now 100) \u2014 (2:58 - 2nd \u2014 CON @ POR)",
     "kind": "round",
@@ -3040,18 +3049,5 @@
       "Murriel Page"
     ],
     "new_total": 2148
-  },
-  {
-    "ts": "2026-05-13T01:21:00+00:00",
-    "text": "Arike Ogunbowale passed Armintie Herrington and Natasha Cloud for #74 all-time in steals (career 341) \u2014 up from #76 entering today \u2014 (4:17 - 3rd \u2014 ATL @ DAL)",
-    "kind": "rank_pass",
-    "player": "Arike Ogunbowale",
-    "stat": "steals",
-    "rank": 74,
-    "passed_players": [
-      "Armintie Herrington",
-      "Natasha Cloud"
-    ],
-    "new_total": 341
   }
 ]
