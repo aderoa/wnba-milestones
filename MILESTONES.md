@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-19 00:40 UTC
+
+- **Sonia Citron** reached **100** career turnovers (now 100) — _7:43 - 2nd — WSH @ DAL_
+
 ## 2026-05-19 00:18 UTC
 
 - **Sonia Citron** reached **100** career fouls (now 100) — _6:22 - 1st — WSH @ DAL_

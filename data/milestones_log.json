@@ -1,5 +1,14 @@
 [
   {
+    "ts": "2026-05-19T00:40:00+00:00",
+    "text": "Sonia Citron reached 100 career turnovers (now 100) \u2014 (7:43 - 2nd \u2014 WSH @ DAL)",
+    "kind": "round",
+    "player": "Sonia Citron",
+    "stat": "turnovers",
+    "value": 100,
+    "new_total": 100
+  },
+  {
     "ts": "2026-05-19T00:18:00+00:00",
     "text": "Sonia Citron reached 100 career fouls (now 100) \u2014 (6:22 - 1st \u2014 WSH @ DAL)",
     "kind": "round",
@@ -3046,17 +3055,5 @@
     "stat": "points",
     "value": 1600,
     "new_total": 1600
-  },
-  {
-    "ts": "2026-05-11T01:00:00+00:00",
-    "text": "Gabby Williams passed Tonya Edwards for #176 all-time in three-pointers (career 119) \u2014 (7:36 - 2nd \u2014 PHX @ GS)",
-    "kind": "rank_pass",
-    "player": "Gabby Williams",
-    "stat": "three-pointers",
-    "rank": 176,
-    "passed_players": [
-      "Tonya Edwards"
-    ],
-    "new_total": 119
   }
 ]
