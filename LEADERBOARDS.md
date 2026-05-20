@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-20 02:29 UTC_
+_Last updated: 2026-05-20 02:30 UTC_
 
 ## Contents
 
@@ -384,8 +384,8 @@ _Last updated: 2026-05-20 02:29 UTC_
 | 158 | Jessica Shepard | 836 |
 | 159 | Essence Carson | 833 |
 | 160 | Kristi Toliver | 829 |
-| 161 | Marie Ferdinand-Harris | 828 |
-| 161 | **Marina Mabrey** 🔴 +1 | 828 |
+| 160 | **Marina Mabrey** 🔴 +2 | 829 |
+| 162 | Marie Ferdinand-Harris | 828 |
 | 163 | Marlies Askamp | 822 |
 | 164 | Amanda Zahui B | 819 |
 | 164 | Barbara Farris | 819 |
