@@ -1,5 +1,19 @@
 [
   {
+    "ts": "2026-05-20T03:25:00+00:00",
+    "text": "Marina Mabrey passed Astou Ndour-Fall, Katie Smith, and Slobodanka Tuvic for #164 all-time in blocks (career 79) \u2014 up from #166 entering today \u2014 (3:40 - 3rd \u2014 TOR @ PHX)",
+    "kind": "rank_pass",
+    "player": "Marina Mabrey",
+    "stat": "blocks",
+    "rank": 164,
+    "passed_players": [
+      "Astou Ndour-Fall",
+      "Katie Smith",
+      "Slobodanka Tuvic"
+    ],
+    "new_total": 79
+  },
+  {
     "ts": "2026-05-20T03:16:00+00:00",
     "text": "Brittney Sykes passed Alex Bentley and Cynthia Cooper for #91 all-time in three-pointers (career 240) \u2014 up from #95 entering today \u2014 (7:09 - 3rd \u2014 TOR @ PHX)",
     "kind": "rank_pass",
@@ -3032,17 +3046,5 @@
       "Ariel Atkins"
     ],
     "new_total": 438
-  },
-  {
-    "ts": "2026-05-13T02:22:00+00:00",
-    "text": "Betnijah Laney-Hamilton passed Shekinna Stricklen for #136 all-time in points (career 2,247) \u2014 up from #137 entering today \u2014 (39.9 - 1st \u2014 NY @ POR)",
-    "kind": "rank_pass",
-    "player": "Betnijah Laney-Hamilton",
-    "stat": "points",
-    "rank": 136,
-    "passed_players": [
-      "Shekinna Stricklen"
-    ],
-    "new_total": 2247
   }
 ]
