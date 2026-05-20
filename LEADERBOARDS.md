@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-20 23:55 UTC_
+_Last updated: 2026-05-20 23:56 UTC_
 
 ## Contents
 
@@ -575,7 +575,7 @@ _Last updated: 2026-05-20 23:55 UTC_
 | 143 | Kristi Harrower | 450 |
 | 143 | Nikki McCray | 450 |
 | 146 | Ruth Riley | 449 |
-| 147 | **Tyasha Harris** 🔴 +2 | 448 |
+| 146 | **Tyasha Harris** 🔴 +3 | 449 |
 | 148 | DeMya Walker | 446 |
 | 149 | Essence Carson | 445 |
 | 150 | **Sug Sutton** 🔴 +2 | 440 |
