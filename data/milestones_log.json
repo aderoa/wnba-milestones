@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-20T03:44:00+00:00",
+    "text": "Marina Mabrey passed Emma Meesseman for #97 all-time in points (career 2,968) \u2014 up from #98 entering today \u2014 (7:29 - 4th \u2014 TOR @ PHX)",
+    "kind": "rank_pass",
+    "player": "Marina Mabrey",
+    "stat": "points",
+    "rank": 97,
+    "passed_players": [
+      "Emma Meesseman"
+    ],
+    "new_total": 2968
+  },
+  {
     "ts": "2026-05-20T03:42:00+00:00",
     "text": "Brittney Sykes passed Adrienne Goodson for #110 all-time in rebounds (career 1,127) \u2014 up from #111 entering today \u2014 (8:38 - 4th \u2014 TOR @ PHX)",
     "kind": "rank_pass",
@@ -3033,17 +3045,5 @@
       "Tiffany Mitchell"
     ],
     "new_total": 440
-  },
-  {
-    "ts": "2026-05-13T02:29:00+00:00",
-    "text": "Betnijah Laney-Hamilton passed Kedra Holland-Corn for #128 all-time in turnovers (career 439) \u2014 up from #131 entering today \u2014 (8:44 - 2nd \u2014 NY @ POR)",
-    "kind": "rank_pass",
-    "player": "Betnijah Laney-Hamilton",
-    "stat": "turnovers",
-    "rank": 128,
-    "passed_players": [
-      "Kedra Holland-Corn"
-    ],
-    "new_total": 439
   }
 ]
