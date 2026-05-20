@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-20 02:03 UTC_
+_Last updated: 2026-05-20 02:04 UTC_
 
 ## Contents
 
@@ -72,7 +72,7 @@ _Last updated: 2026-05-20 02:03 UTC_
 | 51 | Vickie Johnson | 4,230 |
 | 52 | Yolanda Griffith | 4,224 |
 | 53 | Dearica Hamby | 4,158 |
-| 54 | **Kahleah Copper** 🔴 | 4,154 |
+| 54 | **Kahleah Copper** 🔴 +2 | 4,156 |
 | 55 | Rebekkah Brunson | 4,133 |
 | 56 | Jonquel Jones | 4,132 |
 | 57 | Courtney Williams | 4,124 |
@@ -116,7 +116,7 @@ _Last updated: 2026-05-20 02:03 UTC_
 | 95 | Sabrina Ionescu | 3,030 |
 | 96 | Marie Ferdinand-Harris | 3,001 |
 | 97 | Emma Meesseman | 2,966 |
-| 98 | **Marina Mabrey** 🔴 | 2,941 |
+| 98 | **Marina Mabrey** 🔴 +2 | 2,943 |
 | 99 | Natalie Williams | 2,894 |
 | 100 | Jennifer Gillom | 2,888 |
 | 100 | Natasha Cloud | 2,888 |
@@ -898,7 +898,7 @@ _Last updated: 2026-05-20 02:03 UTC_
 | 57 | Mwadi Mabika | 370 |
 | 58 | Ariel Atkins | 369 |
 | 58 | Jordin Canada | 369 |
-| 60 | **Brittney Sykes** 🔴 | 362 |
+| 60 | **Brittney Sykes** 🔴 +1 | 363 |
 | 61 | Lauren Jackson | 360 |
 | 61 | Tan White | 360 |
 | 63 | Vickie Johnson | 357 |
@@ -1275,7 +1275,7 @@ _Last updated: 2026-05-20 02:03 UTC_
 | 23 | Skylar Diggins | 881 |
 | 24 | Candice Dupree | 869 |
 | 25 | Alana Beard | 854 |
-| 26 | **DeWanna Bonner** 🔴 | 830 |
+| 26 | **DeWanna Bonner** 🔴 +1 | 831 |
 | 27 | Katie Douglas | 824 |
 | 28 | Natasha Howard | 804 |
 | 29 | Betty Lennox | 800 |
