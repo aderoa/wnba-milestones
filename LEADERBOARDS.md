@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-20 23:20 UTC_
+_Last updated: 2026-05-20 23:21 UTC_
 
 ## Contents
 
@@ -1620,12 +1620,12 @@ _Last updated: 2026-05-20 23:20 UTC_
 | 163 | **Monique Billings** 🔴 | 510 |
 | 164 | Vicky Bullett | 507 |
 | 165 | Merlakia Jones | 506 |
+| 166 | **Myisha Hines-Allen** 🔴 +1 | 505 |
 | 166 | Rushia Brown | 505 |
 | 166 | Shekinna Stricklen | 505 |
-| 168 | Allison Feaster | 504 |
-| 168 | Erin Perperoglou | 504 |
-| 168 | **Myisha Hines-Allen** 🔴 | 504 |
-| 168 | Napheesa Collier | 504 |
+| 169 | Allison Feaster | 504 |
+| 169 | Erin Perperoglou | 504 |
+| 169 | Napheesa Collier | 504 |
 | 172 | Iziane Castro Marques | 502 |
 | 173 | Elena Baranova | 501 |
 | 174 | Adrian Williams-Strong | 497 |
