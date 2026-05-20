@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-20 02:15 UTC_
+_Last updated: 2026-05-20 02:16 UTC_
 
 ## Contents
 
@@ -71,7 +71,7 @@ _Last updated: 2026-05-20 02:15 UTC_
 | 50 | Allisha Gray | 4,232 |
 | 51 | Vickie Johnson | 4,230 |
 | 52 | Yolanda Griffith | 4,224 |
-| 53 | **Kahleah Copper** 🔴 +5 | 4,159 |
+| 53 | **Kahleah Copper** 🔴 +6 | 4,160 |
 | 54 | Dearica Hamby | 4,158 |
 | 55 | Rebekkah Brunson | 4,133 |
 | 56 | Jonquel Jones | 4,132 |
@@ -89,8 +89,8 @@ _Last updated: 2026-05-20 02:15 UTC_
 | 68 | Napheesa Collier | 3,542 |
 | 68 | Shannon Johnson | 3,542 |
 | 70 | Renee Montgomery | 3,533 |
-| 71 | **Brittney Sykes** 🔴 | 3,522 |
-| 71 | Jasmine Thomas | 3,522 |
+| 71 | **Brittney Sykes** 🔴 +3 | 3,525 |
+| 72 | Jasmine Thomas | 3,522 |
 | 73 | Tamecka Dixon | 3,507 |
 | 74 | Tammy Sutton-Brown | 3,498 |
 | 75 | Sancho Lyttle | 3,478 |
@@ -1139,7 +1139,7 @@ _Last updated: 2026-05-20 02:15 UTC_
 | 91 | Cynthia Cooper | 239 |
 | 93 | Azurá Stevens | 238 |
 | 93 | Nneka Ogwumike | 238 |
-| 95 | **Brittney Sykes** 🔴 | 236 |
+| 95 | **Brittney Sykes** 🔴 +1 | 237 |
 | 96 | Svetlana Abrosimova | 235 |
 | 96 | Tangela Smith | 235 |
 | 98 | Odyssey Sims | 233 |
