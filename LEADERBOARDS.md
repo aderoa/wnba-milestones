@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-20 02:45 UTC_
+_Last updated: 2026-05-20 02:46 UTC_
 
 ## Contents
 
@@ -89,7 +89,7 @@ _Last updated: 2026-05-20 02:45 UTC_
 | 68 | Napheesa Collier | 3,542 |
 | 68 | Shannon Johnson | 3,542 |
 | 70 | Renee Montgomery | 3,533 |
-| 71 | **Brittney Sykes** 🔴 +6 | 3,528 |
+| 71 | **Brittney Sykes** 🔴 +8 | 3,530 |
 | 72 | Jasmine Thomas | 3,522 |
 | 73 | Tamecka Dixon | 3,507 |
 | 74 | Tammy Sutton-Brown | 3,498 |
@@ -116,7 +116,7 @@ _Last updated: 2026-05-20 02:45 UTC_
 | 95 | Sabrina Ionescu | 3,030 |
 | 96 | Marie Ferdinand-Harris | 3,001 |
 | 97 | Emma Meesseman | 2,966 |
-| 98 | **Marina Mabrey** 🔴 +10 | 2,951 |
+| 98 | **Marina Mabrey** 🔴 +12 | 2,953 |
 | 99 | Natalie Williams | 2,894 |
 | 100 | Jennifer Gillom | 2,888 |
 | 100 | Natasha Cloud | 2,888 |
@@ -898,7 +898,7 @@ _Last updated: 2026-05-20 02:45 UTC_
 | 57 | Mwadi Mabika | 370 |
 | 58 | Ariel Atkins | 369 |
 | 58 | Jordin Canada | 369 |
-| 60 | **Brittney Sykes** 🔴 | 362 |
+| 60 | **Brittney Sykes** 🔴 +1 | 363 |
 | 61 | Lauren Jackson | 360 |
 | 61 | Tan White | 360 |
 | 63 | Vickie Johnson | 357 |
@@ -1326,7 +1326,7 @@ _Last updated: 2026-05-20 02:45 UTC_
 | 74 | Lindsey Harding | 600 |
 | 74 | Tamika Whitmore | 600 |
 | 76 | Kelly Miller | 596 |
-| 77 | **Kahleah Copper** 🔴 | 590 |
+| 77 | **Kahleah Copper** 🔴 +1 | 591 |
 | 78 | Stefanie Dolson | 581 |
 | 79 | Helen Darling | 575 |
 | 79 | Nykesha Sales | 575 |
@@ -1529,7 +1529,7 @@ _Last updated: 2026-05-20 02:45 UTC_
 | 72 | Becky Hammon | 733 |
 | 73 | Natasha Cloud | 731 |
 | 74 | Latasha Byears | 730 |
-| 75 | **Kahleah Copper** 🔴 | 723 |
+| 75 | **Kahleah Copper** 🔴 +1 | 724 |
 | 76 | Kristi Toliver | 722 |
 | 77 | Allisha Gray | 714 |
 | 78 | Cheryl Ford | 713 |
