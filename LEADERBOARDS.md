@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-20 03:18 UTC_
+_Last updated: 2026-05-20 03:19 UTC_
 
 ## Contents
 
@@ -71,7 +71,7 @@ _Last updated: 2026-05-20 03:18 UTC_
 | 50 | Allisha Gray | 4,232 |
 | 51 | Vickie Johnson | 4,230 |
 | 52 | Yolanda Griffith | 4,224 |
-| 53 | **Kahleah Copper** 🔴 +14 | 4,168 |
+| 53 | **Kahleah Copper** 🔴 +16 | 4,170 |
 | 54 | Dearica Hamby | 4,158 |
 | 55 | Rebekkah Brunson | 4,133 |
 | 56 | Jonquel Jones | 4,132 |
@@ -501,8 +501,8 @@ _Last updated: 2026-05-20 03:18 UTC_
 | 70 | Tina Thompson | 803 |
 | 71 | Epiphanny Prince | 800 |
 | 72 | Mwadi Mabika | 774 |
-| 73 | **Marina Mabrey** 🔴 | 745 |
-| 73 | Sheri Sam | 745 |
+| 73 | **Marina Mabrey** 🔴 +1 | 746 |
+| 74 | Sheri Sam | 745 |
 | 75 | Monique Currie | 740 |
 | 76 | Allisha Gray | 734 |
 | 77 | Elaine Powell | 728 |
@@ -853,7 +853,7 @@ _Last updated: 2026-05-20 03:18 UTC_
 | 12 | DeLisha Milton-Jones | 619 |
 | 13 | Taj McWilliams-Franklin | 577 |
 | 14 | Tully Bevilaqua | 571 |
-| 15 | **Alyssa Thomas** 🔴 +2 | 563 |
+| 15 | **Alyssa Thomas** 🔴 +3 | 564 |
 | 16 | Courtney Vandersloot | 544 |
 | 17 | Yolanda Griffith | 527 |
 | 18 | Candace Parker | 521 |
@@ -1359,7 +1359,7 @@ _Last updated: 2026-05-20 03:18 UTC_
 | 107 | Arike Ogunbowale | 509 |
 | 108 | Tamera Young | 501 |
 | 109 | Jordin Canada | 496 |
-| 110 | **Marina Mabrey** 🔴 | 494 |
+| 110 | **Marina Mabrey** 🔴 +1 | 495 |
 | 111 | Nikki Teasley | 493 |
 | 111 | Tari Phillips | 493 |
 | 113 | Janel McCarville | 491 |
