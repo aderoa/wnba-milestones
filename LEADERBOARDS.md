@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-20 04:07 UTC_
+_Last updated: 2026-05-20 04:08 UTC_
 
 ## Contents
 
@@ -84,8 +84,8 @@ _Last updated: 2026-05-20 04:07 UTC_
 | 63 | Chasity Melvin | 3,781 |
 | 64 | Kara Lawson | 3,670 |
 | 65 | Mwadi Mabika | 3,576 |
-| 66 | **Brittney Sykes** 🔴 +30 | 3,552 |
-| 66 | Odyssey Sims | 3,552 |
+| 66 | **Brittney Sykes** 🔴 +31 | 3,553 |
+| 67 | Odyssey Sims | 3,552 |
 | 68 | Camille Smith | 3,551 |
 | 69 | Napheesa Collier | 3,542 |
 | 69 | Shannon Johnson | 3,542 |
