@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-20 02:10 UTC_
+_Last updated: 2026-05-20 02:11 UTC_
 
 ## Contents
 
@@ -116,7 +116,7 @@ _Last updated: 2026-05-20 02:10 UTC_
 | 95 | Sabrina Ionescu | 3,030 |
 | 96 | Marie Ferdinand-Harris | 3,001 |
 | 97 | Emma Meesseman | 2,966 |
-| 98 | **Marina Mabrey** 🔴 +5 | 2,946 |
+| 98 | **Marina Mabrey** 🔴 +7 | 2,948 |
 | 99 | Natalie Williams | 2,894 |
 | 100 | Jennifer Gillom | 2,888 |
 | 100 | Natasha Cloud | 2,888 |
@@ -495,7 +495,7 @@ _Last updated: 2026-05-20 02:10 UTC_
 | 64 | Lisa Leslie | 873 |
 | 65 | Tully Bevilaqua | 853 |
 | 66 | Jia Perkins | 837 |
-| 67 | **Brittney Sykes** 🔴 +1 | 833 |
+| 67 | **Brittney Sykes** 🔴 +2 | 834 |
 | 68 | Andrea Stinson | 810 |
 | 69 | Kelsey Mitchell | 805 |
 | 70 | Tina Thompson | 803 |
@@ -1599,9 +1599,9 @@ _Last updated: 2026-05-20 02:10 UTC_
 | 142 | Jayne Appel Marinelli | 543 |
 | 142 | Renee Montgomery | 543 |
 | 144 | Marissa Coleman | 541 |
-| 145 | A'ja Wilson | 533 |
-| 145 | Kristen Rasmussen | 533 |
-| 145 | **Marina Mabrey** 🔴 | 533 |
+| 145 | **Marina Mabrey** 🔴 +1 | 534 |
+| 146 | A'ja Wilson | 533 |
+| 146 | Kristen Rasmussen | 533 |
 | 148 | Amanda Zahui B | 530 |
 | 149 | Damiris Dantas | 527 |
 | 150 | Candice Wiggins | 525 |
