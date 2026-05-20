@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-20T04:00:00+00:00",
+    "text": "Brittney Sykes passed Jia Perkins for #66 all-time in assists (career 838) \u2014 up from #67 entering today \u2014 (1:52 - 4th \u2014 TOR @ PHX)",
+    "kind": "rank_pass",
+    "player": "Brittney Sykes",
+    "stat": "assists",
+    "rank": 66,
+    "passed_players": [
+      "Jia Perkins"
+    ],
+    "new_total": 838
+  },
+  {
     "ts": "2026-05-20T03:56:00+00:00",
     "text": "Alyssa Thomas passed Courtney Vandersloot for #36 all-time in fouls (career 939) \u2014 up from #37 entering today \u2014 (3:58 - 4th \u2014 TOR @ PHX)",
     "kind": "rank_pass",
@@ -3034,17 +3046,5 @@
       "Kayla Thornton"
     ],
     "new_total": 2250
-  },
-  {
-    "ts": "2026-05-13T02:42:00+00:00",
-    "text": "Courtney Williams passed Bria Hartley for #86 all-time in three-pointers (career 254) \u2014 up from #87 entering today \u2014 (4:32 - 2nd \u2014 MIN @ PHX)",
-    "kind": "rank_pass",
-    "player": "Courtney Williams",
-    "stat": "three-pointers",
-    "rank": 86,
-    "passed_players": [
-      "Bria Hartley"
-    ],
-    "new_total": 254
   }
 ]
