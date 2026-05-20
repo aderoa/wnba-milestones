@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-20 02:51 UTC_
+_Last updated: 2026-05-20 02:52 UTC_
 
 ## Contents
 
@@ -88,8 +88,8 @@ _Last updated: 2026-05-20 02:51 UTC_
 | 67 | Camille Smith | 3,551 |
 | 68 | Napheesa Collier | 3,542 |
 | 68 | Shannon Johnson | 3,542 |
-| 70 | Renee Montgomery | 3,533 |
-| 71 | **Brittney Sykes** 🔴 +8 | 3,530 |
+| 70 | **Brittney Sykes** 🔴 +14 | 3,536 |
+| 71 | Renee Montgomery | 3,533 |
 | 72 | Jasmine Thomas | 3,522 |
 | 73 | Tamecka Dixon | 3,507 |
 | 74 | Tammy Sutton-Brown | 3,498 |
@@ -898,7 +898,7 @@ _Last updated: 2026-05-20 02:51 UTC_
 | 57 | Mwadi Mabika | 370 |
 | 58 | Ariel Atkins | 369 |
 | 58 | Jordin Canada | 369 |
-| 60 | **Brittney Sykes** 🔴 +1 | 363 |
+| 60 | **Brittney Sykes** 🔴 | 362 |
 | 61 | Lauren Jackson | 360 |
 | 61 | Tan White | 360 |
 | 63 | Vickie Johnson | 357 |
@@ -1136,10 +1136,10 @@ _Last updated: 2026-05-20 02:51 UTC_
 | 89 | Angel McCoughtry | 249 |
 | 90 | Erin Thorn | 243 |
 | 91 | Alex Bentley | 239 |
+| 91 | **Brittney Sykes** 🔴 +3 | 239 |
 | 91 | Cynthia Cooper | 239 |
-| 93 | Azurá Stevens | 238 |
-| 93 | Nneka Ogwumike | 238 |
-| 95 | **Brittney Sykes** 🔴 +1 | 237 |
+| 94 | Azurá Stevens | 238 |
+| 94 | Nneka Ogwumike | 238 |
 | 96 | Svetlana Abrosimova | 235 |
 | 96 | Tangela Smith | 235 |
 | 98 | Odyssey Sims | 233 |
@@ -1326,7 +1326,7 @@ _Last updated: 2026-05-20 02:51 UTC_
 | 74 | Lindsey Harding | 600 |
 | 74 | Tamika Whitmore | 600 |
 | 76 | Kelly Miller | 596 |
-| 77 | **Kahleah Copper** 🔴 +1 | 591 |
+| 77 | **Kahleah Copper** 🔴 +2 | 592 |
 | 78 | Stefanie Dolson | 581 |
 | 79 | Helen Darling | 575 |
 | 79 | Nykesha Sales | 575 |
