@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-20 03:48 UTC_
+_Last updated: 2026-05-20 03:49 UTC_
 
 ## Contents
 
@@ -1263,7 +1263,7 @@ _Last updated: 2026-05-20 03:48 UTC_
 | 11 | Tamika Catchings | 1,041 |
 | 12 | Tina Charles | 1,040 |
 | 13 | Lindsay Whalen | 1,002 |
-| 14 | **Alyssa Thomas** 🔴 +1 | 981 |
+| 14 | **Alyssa Thomas** 🔴 +2 | 982 |
 | 15 | Sylvia Fowles | 961 |
 | 16 | Tanisha Wright | 954 |
 | 17 | Angel McCoughtry | 949 |
