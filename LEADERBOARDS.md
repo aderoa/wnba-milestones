@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-20 03:55 UTC_
+_Last updated: 2026-05-20 03:56 UTC_
 
 ## Contents
 
@@ -84,9 +84,9 @@ _Last updated: 2026-05-20 03:55 UTC_
 | 63 | Chasity Melvin | 3,781 |
 | 64 | Kara Lawson | 3,670 |
 | 65 | Mwadi Mabika | 3,576 |
+| 66 | **Brittney Sykes** 🔴 +30 | 3,552 |
 | 66 | Odyssey Sims | 3,552 |
-| 67 | Camille Smith | 3,551 |
-| 68 | **Brittney Sykes** 🔴 +28 | 3,550 |
+| 68 | Camille Smith | 3,551 |
 | 69 | Napheesa Collier | 3,542 |
 | 69 | Shannon Johnson | 3,542 |
 | 71 | Renee Montgomery | 3,533 |
@@ -235,7 +235,7 @@ _Last updated: 2026-05-20 03:55 UTC_
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
-| 12 | **Alyssa Thomas** 🔴 +5 | 2,775 |
+| 12 | **Alyssa Thomas** 🔴 +6 | 2,776 |
 | 13 | Jonquel Jones | 2,599 |
 | 14 | Sancho Lyttle | 2,596 |
 | 15 | DeLisha Milton-Jones | 2,574 |
@@ -1490,8 +1490,8 @@ _Last updated: 2026-05-20 03:55 UTC_
 | 33 | Sancho Lyttle | 947 |
 | 34 | Mwadi Mabika | 941 |
 | 35 | Tamika Whitmore | 940 |
-| 36 | **Alyssa Thomas** 🔴 +1 | 938 |
-| 36 | Courtney Vandersloot | 938 |
+| 36 | **Alyssa Thomas** 🔴 +2 | 939 |
+| 37 | Courtney Vandersloot | 938 |
 | 38 | Briann January | 921 |
 | 39 | Ticha Penicheiro | 913 |
 | 40 | Shavonte Zellous | 907 |

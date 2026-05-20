@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-20 03:56 UTC
+
+- **Alyssa Thomas** passed **Courtney Vandersloot** for **#36** all-time in fouls (career 939) — up from #37 entering today — _3:58 - 4th — TOR @ PHX_
+
 ## 2026-05-20 03:46 UTC
 
 - **Brittney Sykes** passed **Andrea Stinson** and **Tamika Raymond** for **#108** all-time in rebounds (career 1,128) — up from #111 entering today — _6:50 - 4th — TOR @ PHX_

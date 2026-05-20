@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-20T03:56:00+00:00",
+    "text": "Alyssa Thomas passed Courtney Vandersloot for #36 all-time in fouls (career 939) \u2014 up from #37 entering today \u2014 (3:58 - 4th \u2014 TOR @ PHX)",
+    "kind": "rank_pass",
+    "player": "Alyssa Thomas",
+    "stat": "fouls",
+    "rank": 36,
+    "passed_players": [
+      "Courtney Vandersloot"
+    ],
+    "new_total": 939
+  },
+  {
     "ts": "2026-05-20T03:46:00+00:00",
     "text": "Brittney Sykes passed Andrea Stinson and Tamika Raymond for #108 all-time in rebounds (career 1,128) \u2014 up from #111 entering today \u2014 (6:50 - 4th \u2014 TOR @ PHX)",
     "kind": "rank_pass",
@@ -3034,17 +3046,5 @@
       "Bria Hartley"
     ],
     "new_total": 254
-  },
-  {
-    "ts": "2026-05-13T02:39:00+00:00",
-    "text": "Kahleah Copper passed Candace Parker for #55 all-time in three-pointers (career 343) \u2014 up from #56 entering today \u2014 (5:53 - 2nd \u2014 MIN @ PHX)",
-    "kind": "rank_pass",
-    "player": "Kahleah Copper",
-    "stat": "three-pointers",
-    "rank": 55,
-    "passed_players": [
-      "Candace Parker"
-    ],
-    "new_total": 343
   }
 ]
