@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-20 03:46 UTC
+
+- **Brittney Sykes** passed **Andrea Stinson** and **Tamika Raymond** for **#108** all-time in rebounds (career 1,128) — up from #111 entering today — _6:50 - 4th — TOR @ PHX_
+
 ## 2026-05-20 03:44 UTC
 
 - **Marina Mabrey** passed **Emma Meesseman** for **#97** all-time in points (career 2,968) — up from #98 entering today — _7:29 - 4th — TOR @ PHX_

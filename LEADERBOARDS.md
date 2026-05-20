@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-20 03:45 UTC_
+_Last updated: 2026-05-20 03:46 UTC_
 
 ## Contents
 
@@ -331,9 +331,9 @@ _Last updated: 2026-05-20 03:45 UTC_
 | 105 | Nykesha Sales | 1,148 |
 | 106 | Shannon Johnson | 1,143 |
 | 107 | Adrian Williams-Strong | 1,131 |
-| 108 | Andrea Stinson | 1,127 |
-| 108 | **Brittney Sykes** 🔴 +6 | 1,127 |
-| 108 | Tamika Raymond | 1,127 |
+| 108 | **Brittney Sykes** 🔴 +7 | 1,128 |
+| 109 | Andrea Stinson | 1,127 |
+| 109 | Tamika Raymond | 1,127 |
 | 111 | Adrienne Goodson | 1,126 |
 | 112 | Deanna Nolan | 1,112 |
 | 113 | Chiney Ogwumike | 1,110 |
@@ -494,8 +494,8 @@ _Last updated: 2026-05-20 03:45 UTC_
 | 63 | Noelle Quinn | 878 |
 | 64 | Lisa Leslie | 873 |
 | 65 | Tully Bevilaqua | 853 |
+| 66 | **Brittney Sykes** 🔴 +5 | 837 |
 | 66 | Jia Perkins | 837 |
-| 67 | **Brittney Sykes** 🔴 +4 | 836 |
 | 68 | Andrea Stinson | 810 |
 | 69 | Kelsey Mitchell | 805 |
 | 70 | Tina Thompson | 803 |
