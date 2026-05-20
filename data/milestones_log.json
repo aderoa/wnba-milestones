@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-20T03:42:00+00:00",
+    "text": "Brittney Sykes passed Adrienne Goodson for #110 all-time in rebounds (career 1,127) \u2014 up from #111 entering today \u2014 (8:38 - 4th \u2014 TOR @ PHX)",
+    "kind": "rank_pass",
+    "player": "Brittney Sykes",
+    "stat": "rebounds",
+    "rank": 110,
+    "passed_players": [
+      "Adrienne Goodson"
+    ],
+    "new_total": 1127
+  },
+  {
     "ts": "2026-05-20T03:25:00+00:00",
     "text": "Marina Mabrey passed Astou Ndour-Fall, Katie Smith, and Slobodanka Tuvic for #164 all-time in blocks (career 79) \u2014 up from #166 entering today \u2014 (3:40 - 3rd \u2014 TOR @ PHX)",
     "kind": "rank_pass",
@@ -3033,18 +3045,5 @@
       "Kedra Holland-Corn"
     ],
     "new_total": 439
-  },
-  {
-    "ts": "2026-05-13T02:25:00+00:00",
-    "text": "Betnijah Laney-Hamilton passed Alysha Clark and Ariel Atkins for #129 all-time in turnovers (career 438) \u2014 up from #131 entering today \u2014 (End of 1st \u2014 NY @ POR)",
-    "kind": "rank_pass",
-    "player": "Betnijah Laney-Hamilton",
-    "stat": "turnovers",
-    "rank": 129,
-    "passed_players": [
-      "Alysha Clark",
-      "Ariel Atkins"
-    ],
-    "new_total": 438
   }
 ]

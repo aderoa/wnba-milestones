@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-20 03:42 UTC
+
+- **Brittney Sykes** passed **Adrienne Goodson** for **#110** all-time in rebounds (career 1,127) — up from #111 entering today — _8:38 - 4th — TOR @ PHX_
+
 ## 2026-05-20 03:25 UTC
 
 - **Marina Mabrey** passed **Astou Ndour-Fall**, **Katie Smith**, and **Slobodanka Tuvic** for **#164** all-time in blocks (career 79) — up from #166 entering today — _3:40 - 3rd — TOR @ PHX_

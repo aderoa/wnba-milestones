@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-20 03:41 UTC_
+_Last updated: 2026-05-20 03:42 UTC_
 
 ## Contents
 
@@ -56,7 +56,7 @@ _Last updated: 2026-05-20 03:41 UTC_
 | 35 | Chamique Holdsclaw | 4,713 |
 | 36 | Elena Delle Donne | 4,706 |
 | 37 | Penny Taylor | 4,595 |
-| 38 | **Alyssa Thomas** 🔴 +8 | 4,562 |
+| 38 | **Alyssa Thomas** 🔴 +10 | 4,564 |
 | 39 | Arike Ogunbowale | 4,512 |
 | 40 | Kristi Toliver | 4,474 |
 | 41 | Chelsea Gray | 4,469 |
@@ -116,7 +116,7 @@ _Last updated: 2026-05-20 03:41 UTC_
 | 95 | Sabrina Ionescu | 3,030 |
 | 96 | Marie Ferdinand-Harris | 3,001 |
 | 97 | Emma Meesseman | 2,966 |
-| 98 | **Marina Mabrey** 🔴 +22 | 2,963 |
+| 98 | **Marina Mabrey** 🔴 +24 | 2,965 |
 | 99 | Natalie Williams | 2,894 |
 | 100 | Jennifer Gillom | 2,888 |
 | 100 | Natasha Cloud | 2,888 |
@@ -332,9 +332,9 @@ _Last updated: 2026-05-20 03:41 UTC_
 | 106 | Shannon Johnson | 1,143 |
 | 107 | Adrian Williams-Strong | 1,131 |
 | 108 | Andrea Stinson | 1,127 |
+| 108 | **Brittney Sykes** 🔴 +6 | 1,127 |
 | 108 | Tamika Raymond | 1,127 |
-| 110 | Adrienne Goodson | 1,126 |
-| 110 | **Brittney Sykes** 🔴 +5 | 1,126 |
+| 111 | Adrienne Goodson | 1,126 |
 | 112 | Deanna Nolan | 1,112 |
 | 113 | Chiney Ogwumike | 1,110 |
 | 114 | Becky Hammon | 1,108 |
