@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-20 23:44 UTC_
+_Last updated: 2026-05-20 23:45 UTC_
 
 ## Contents
 
@@ -216,7 +216,7 @@ _Last updated: 2026-05-20 23:44 UTC_
 | 195 | Janell Burse | 1,580 |
 | 196 | Le'coe Willingham | 1,552 |
 | 197 | Shatori Walker-Kimbrough | 1,544 |
-| 198 | **Monique Billings** 🔴 +5 | 1,533 |
+| 198 | **Monique Billings** 🔴 +6 | 1,534 |
 | 199 | Rebecca Allen | 1,517 |
 | 200 | Jennifer Lacy | 1,504 |
 
@@ -298,8 +298,8 @@ _Last updated: 2026-05-20 23:44 UTC_
 | 72 | Courtney Vandersloot | 1,383 |
 | 72 | Katie Smith | 1,383 |
 | 74 | Ebony Hoffman | 1,376 |
-| 75 | Allisha Gray | 1,368 |
-| 75 | **Monique Billings** 🔴 +1 | 1,368 |
+| 75 | **Monique Billings** 🔴 +2 | 1,369 |
+| 76 | Allisha Gray | 1,368 |
 | 77 | Sheri Sam | 1,356 |
 | 78 | Tamika Whitmore | 1,355 |
 | 79 | Emma Meesseman | 1,350 |
@@ -319,7 +319,7 @@ _Last updated: 2026-05-20 23:44 UTC_
 | 93 | Tiffany Hayes | 1,233 |
 | 94 | Brianna Turner | 1,229 |
 | 95 | Seimone Augustus | 1,228 |
-| 96 | **Myisha Hines-Allen** 🔴 | 1,224 |
+| 96 | **Myisha Hines-Allen** 🔴 +1 | 1,225 |
 | 97 | Jia Perkins | 1,220 |
 | 98 | Chelsea Gray | 1,210 |
 | 99 | Kayla McBride | 1,201 |
@@ -1031,8 +1031,8 @@ _Last updated: 2026-05-20 23:44 UTC_
 | 190 | Bridget Pettis | 177 |
 | 191 | Brittany Boyd-Jones | 176 |
 | 191 | Chiney Ogwumike | 176 |
-| 193 | **Monique Billings** 🔴 | 175 |
-| 193 | Tamika Raymond | 175 |
+| 191 | **Monique Billings** 🔴 +1 | 176 |
+| 194 | Tamika Raymond | 175 |
 | 195 | Elena Delle Donne | 174 |
 | 195 | Ezi Magbegor | 174 |
 | 195 | Margo Dydek | 174 |
