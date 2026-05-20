@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-20 03:14 UTC
+
+- **DeWanna Bonner** reached **900** career fouls (now 900) — _8:14 - 3rd — TOR @ PHX_
+
 ## 2026-05-20 03:13 UTC
 
 - **Kahleah Copper** passed **Nykesha Sales** for **#104** all-time in rebounds (career 1,149) — up from #105 entering today — _8:39 - 3rd — TOR @ PHX_
