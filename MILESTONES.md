@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-20 03:16 UTC
+
+- **Brittney Sykes** passed **Alex Bentley** and **Cynthia Cooper** for **#91** all-time in three-pointers (career 240) — up from #95 entering today — _7:09 - 3rd — TOR @ PHX_
+
 ## 2026-05-20 03:14 UTC
 
 - **DeWanna Bonner** reached **900** career fouls (now 900) — _8:14 - 3rd — TOR @ PHX_

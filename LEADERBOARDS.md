@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-20 03:15 UTC_
+_Last updated: 2026-05-20 03:16 UTC_
 
 ## Contents
 
@@ -71,7 +71,7 @@ _Last updated: 2026-05-20 03:15 UTC_
 | 50 | Allisha Gray | 4,232 |
 | 51 | Vickie Johnson | 4,230 |
 | 52 | Yolanda Griffith | 4,224 |
-| 53 | **Kahleah Copper** 🔴 +10 | 4,164 |
+| 53 | **Kahleah Copper** 🔴 +12 | 4,166 |
 | 54 | Dearica Hamby | 4,158 |
 | 55 | Rebekkah Brunson | 4,133 |
 | 56 | Jonquel Jones | 4,132 |
@@ -86,9 +86,9 @@ _Last updated: 2026-05-20 03:15 UTC_
 | 65 | Mwadi Mabika | 3,576 |
 | 66 | Odyssey Sims | 3,552 |
 | 67 | Camille Smith | 3,551 |
-| 68 | Napheesa Collier | 3,542 |
-| 68 | Shannon Johnson | 3,542 |
-| 70 | **Brittney Sykes** 🔴 +18 | 3,540 |
+| 68 | **Brittney Sykes** 🔴 +22 | 3,544 |
+| 69 | Napheesa Collier | 3,542 |
+| 69 | Shannon Johnson | 3,542 |
 | 71 | Renee Montgomery | 3,533 |
 | 72 | Jasmine Thomas | 3,522 |
 | 73 | Tamecka Dixon | 3,507 |
@@ -1135,9 +1135,9 @@ _Last updated: 2026-05-20 03:15 UTC_
 | 87 | Rebecca Allen | 253 |
 | 89 | Angel McCoughtry | 249 |
 | 90 | Erin Thorn | 243 |
-| 91 | Alex Bentley | 239 |
-| 91 | **Brittney Sykes** 🔴 +3 | 239 |
-| 91 | Cynthia Cooper | 239 |
+| 91 | **Brittney Sykes** 🔴 +4 | 240 |
+| 92 | Alex Bentley | 239 |
+| 92 | Cynthia Cooper | 239 |
 | 94 | Azurá Stevens | 238 |
 | 94 | Nneka Ogwumike | 238 |
 | 96 | Svetlana Abrosimova | 235 |
