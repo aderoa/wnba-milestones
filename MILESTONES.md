@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-20 02:15 UTC
+
+- **Kahleah Copper** passed **Dearica Hamby** for **#53** all-time in points (career 4,159) — up from #54 entering today — _3:58 - 1st — TOR @ PHX_
+
 ## 2026-05-19 04:08 UTC
 
 - **Brittney Griner** passed **Asjha Jones** for **#92** all-time in assists (career 638) — up from #94 entering today — _45.0 - 4th — CON @ POR_
