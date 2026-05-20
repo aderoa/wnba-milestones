@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-20 23:10 UTC_
+_Last updated: 2026-05-20 23:11 UTC_
 
 ## Contents
 
@@ -50,7 +50,7 @@ _Last updated: 2026-05-20 23:10 UTC_
 | 29 | Taj McWilliams-Franklin | 4,992 |
 | 30 | Maya Moore | 4,984 |
 | 31 | Tiffany Hayes | 4,927 |
-| 32 | **Kelsey Mitchell** 🔴 | 4,907 |
+| 32 | **Kelsey Mitchell** 🔴 +5 | 4,912 |
 | 33 | Sheryl Swoopes | 4,875 |
 | 34 | Alana Beard | 4,740 |
 | 35 | Chamique Holdsclaw | 4,713 |
@@ -299,7 +299,7 @@ _Last updated: 2026-05-20 23:10 UTC_
 | 72 | Katie Smith | 1,383 |
 | 74 | Ebony Hoffman | 1,376 |
 | 75 | Allisha Gray | 1,368 |
-| 76 | **Monique Billings** 🔴 | 1,367 |
+| 75 | **Monique Billings** 🔴 +1 | 1,368 |
 | 77 | Sheri Sam | 1,356 |
 | 78 | Tamika Whitmore | 1,355 |
 | 79 | Emma Meesseman | 1,350 |
@@ -342,7 +342,7 @@ _Last updated: 2026-05-20 23:10 UTC_
 | 116 | Natasha Cloud | 1,093 |
 | 117 | NaLyssa Smith | 1,081 |
 | 118 | Svetlana Abrosimova | 1,078 |
-| 119 | **Aliyah Boston** 🔴 +1 | 1,067 |
+| 119 | **Aliyah Boston** 🔴 +2 | 1,068 |
 | 120 | Le'coe Willingham | 1,054 |
 | 121 | Isabelle Harrison | 1,049 |
 | 122 | Nicole Ohlde | 1,040 |
@@ -578,7 +578,7 @@ _Last updated: 2026-05-20 23:10 UTC_
 | 147 | **Tyasha Harris** 🔴 +1 | 447 |
 | 148 | DeMya Walker | 446 |
 | 149 | Essence Carson | 445 |
-| 150 | **Sug Sutton** 🔴 +1 | 439 |
+| 150 | **Sug Sutton** 🔴 +2 | 440 |
 | 151 | Michelle Snow | 437 |
 | 152 | Lauren Jackson | 435 |
 | 153 | Adrienne Goodson | 433 |
@@ -602,7 +602,7 @@ _Last updated: 2026-05-20 23:10 UTC_
 | 171 | Shameka Christon | 389 |
 | 171 | Tamicha Jackson | 389 |
 | 173 | Riquna Williams | 387 |
-| 174 | **Aliyah Boston** 🔴 | 384 |
+| 174 | **Aliyah Boston** 🔴 +2 | 386 |
 | 175 | Dana Evans | 379 |
 | 175 | Stephanie Talbot | 379 |
 | 177 | Jessica Breland | 377 |
@@ -1052,7 +1052,7 @@ _Last updated: 2026-05-20 23:10 UTC_
 | 5 | Tina Thompson | 745 |
 | 6 | Kayla McBride | 728 |
 | 7 | Katie Douglas | 723 |
-| 8 | **Kelsey Mitchell** 🔴 | 679 |
+| 8 | **Kelsey Mitchell** 🔴 +1 | 680 |
 | 9 | Jewell Loyd | 673 |
 | 10 | DeWanna Bonner | 668 |
 | 11 | Kristi Toliver | 651 |
@@ -1230,8 +1230,8 @@ _Last updated: 2026-05-20 23:10 UTC_
 | 183 | Gordana Grubin | 114 |
 | 183 | Rickea Jackson | 114 |
 | 183 | Sandy Brondello | 114 |
-| 186 | **Lexie Hull** 🔴 | 111 |
-| 186 | Shoni Schimmel | 111 |
+| 186 | **Lexie Hull** 🔴 +1 | 112 |
+| 187 | Shoni Schimmel | 111 |
 | 188 | Kennedy Burke | 110 |
 | 189 | Emma Meesseman | 109 |
 | 189 | Scholanda Dorrell | 109 |
