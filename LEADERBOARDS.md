@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-20 08:12 UTC_
+_Last updated: 2026-05-20 08:13 UTC_
 
 ## Contents
 
@@ -84,9 +84,9 @@ _Last updated: 2026-05-20 08:12 UTC_
 | 63 | Chasity Melvin | 3,781 |
 | 64 | Kara Lawson | 3,670 |
 | 65 | Mwadi Mabika | 3,576 |
-| 66 | Brittney Sykes | 3,553 |
-| 67 | Odyssey Sims | 3,552 |
-| 68 | Camille Smith | 3,551 |
+| 66 | Odyssey Sims | 3,552 |
+| 67 | Camille Smith | 3,551 |
+| 68 | Brittney Sykes | 3,550 |
 | 69 | Napheesa Collier | 3,542 |
 | 69 | Shannon Johnson | 3,542 |
 | 71 | Renee Montgomery | 3,533 |
@@ -494,8 +494,8 @@ _Last updated: 2026-05-20 08:12 UTC_
 | 63 | Noelle Quinn | 878 |
 | 64 | Lisa Leslie | 873 |
 | 65 | Tully Bevilaqua | 853 |
-| 66 | Brittney Sykes | 838 |
-| 67 | Jia Perkins | 837 |
+| 66 | Brittney Sykes | 837 |
+| 66 | Jia Perkins | 837 |
 | 68 | Andrea Stinson | 810 |
 | 69 | Kelsey Mitchell | 805 |
 | 70 | Tina Thompson | 803 |
@@ -1549,7 +1549,7 @@ _Last updated: 2026-05-20 08:12 UTC_
 | 92 | Crystal Robinson | 682 |
 | 93 | Jennifer Lacy | 680 |
 | 93 | Temeka Johnson | 680 |
-| 95 | Brittney Sykes | 678 |
+| 95 | Brittney Sykes | 677 |
 | 96 | Kelly Miller | 676 |
 | 97 | Kelsey Plum | 672 |
 | 98 | Chamique Holdsclaw | 667 |
