@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-21 02:27 UTC_
+_Last updated: 2026-05-21 02:28 UTC_
 
 ## Contents
 
@@ -203,8 +203,8 @@ _Last updated: 2026-05-21 02:27 UTC_
 | 182 | **Rachel Banham** 🔴 +4 | 1,792 |
 | 183 | Kamila Vodichkova | 1,767 |
 | 184 | Tully Bevilaqua | 1,763 |
-| 185 | **Natisha Hiedeman** 🔴 +8 | 1,759 |
-| 185 | Sandy Brondello | 1,759 |
+| 185 | **Natisha Hiedeman** 🔴 +10 | 1,761 |
+| 186 | Sandy Brondello | 1,759 |
 | 187 | Sugar Rodgers | 1,733 |
 | 188 | Moriah Jefferson | 1,722 |
 | 188 | NaLyssa Smith | 1,722 |
@@ -381,7 +381,7 @@ _Last updated: 2026-05-21 02:27 UTC_
 | 155 | Erica Wheeler | 858 |
 | 156 | **Alanna Smith** 🔴 +6 | 853 |
 | 157 | Leilani Mitchell | 845 |
-| 158 | **Jessica Shepard** 🔴 +2 | 838 |
+| 158 | **Jessica Shepard** 🔴 +3 | 839 |
 | 159 | Essence Carson | 833 |
 | 160 | Kristi Toliver | 829 |
 | 161 | Marie Ferdinand-Harris | 828 |
@@ -1231,8 +1231,8 @@ _Last updated: 2026-05-21 02:27 UTC_
 | 184 | Gordana Grubin | 114 |
 | 184 | **Rickea Jackson** 🔴 | 114 |
 | 184 | Sandy Brondello | 114 |
-| 187 | **Kennedy Burke** 🔴 +1 | 111 |
-| 187 | Shoni Schimmel | 111 |
+| 187 | **Kennedy Burke** 🔴 +2 | 112 |
+| 188 | Shoni Schimmel | 111 |
 | 189 | Emma Meesseman | 109 |
 | 189 | Scholanda Dorrell | 109 |
 | 191 | Belinda Snell | 108 |
