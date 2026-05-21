@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-21T00:37:00+00:00",
+    "text": "Kelsey Mitchell passed Tiffany Hayes for #31 all-time in points (career 4,928) \u2014 up from #32 entering today \u2014 (1:51 - 3rd \u2014 POR @ IND)",
+    "kind": "rank_pass",
+    "player": "Kelsey Mitchell",
+    "stat": "points",
+    "rank": 31,
+    "passed_players": [
+      "Tiffany Hayes"
+    ],
+    "new_total": 4928
+  },
+  {
     "ts": "2026-05-21T00:29:00+00:00",
     "text": "Tyasha Harris passed Satou Sabally and Yolanda Griffith for #141 all-time in assists (career 452) \u2014 up from #148 entering today \u2014 (5:05 - 3rd \u2014 POR @ IND)",
     "kind": "rank_pass",
@@ -3039,18 +3051,5 @@
       "Kelsey Plum"
     ],
     "new_total": 612
-  },
-  {
-    "ts": "2026-05-13T03:36:00+00:00",
-    "text": "Kahleah Copper passed Kia Vaughn and Sophia Witherspoon for #160 all-time in steals (career 209) \u2014 up from #162 entering today \u2014 (44.4 - 3rd \u2014 MIN @ PHX)",
-    "kind": "rank_pass",
-    "player": "Kahleah Copper",
-    "stat": "steals",
-    "rank": 160,
-    "passed_players": [
-      "Kia Vaughn",
-      "Sophia Witherspoon"
-    ],
-    "new_total": 209
   }
 ]
