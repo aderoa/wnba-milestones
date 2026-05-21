@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-21 02:58 UTC_
+_Last updated: 2026-05-21 02:59 UTC_
 
 ## Contents
 
@@ -117,7 +117,7 @@ _Last updated: 2026-05-21 02:58 UTC_
 | 96 | Marie Ferdinand-Harris | 3,001 |
 | 97 | Emma Meesseman | 2,966 |
 | 98 | Marina Mabrey | 2,941 |
-| 99 | **Natasha Cloud** 🔴 +17 | 2,905 |
+| 99 | **Natasha Cloud** 🔴 +19 | 2,907 |
 | 100 | Natalie Williams | 2,894 |
 | 101 | Jennifer Gillom | 2,888 |
 | 102 | Iziane Castro Marques | 2,862 |
@@ -1527,7 +1527,7 @@ _Last updated: 2026-05-21 02:58 UTC_
 | 70 | Crystal Langhorne | 737 |
 | 71 | Shameka Christon | 734 |
 | 72 | Becky Hammon | 733 |
-| 73 | **Natasha Cloud** 🔴 +1 | 732 |
+| 72 | **Natasha Cloud** 🔴 +2 | 733 |
 | 74 | Latasha Byears | 730 |
 | 75 | Kahleah Copper | 723 |
 | 76 | Kristi Toliver | 722 |
