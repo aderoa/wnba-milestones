@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-21 02:41 UTC_
+_Last updated: 2026-05-21 02:42 UTC_
 
 ## Contents
 
@@ -57,7 +57,7 @@ _Last updated: 2026-05-21 02:41 UTC_
 | 36 | Elena Delle Donne | 4,706 |
 | 37 | Penny Taylor | 4,595 |
 | 38 | Alyssa Thomas | 4,554 |
-| 39 | **Arike Ogunbowale** 🔴 +11 | 4,523 |
+| 39 | **Arike Ogunbowale** 🔴 +12 | 4,524 |
 | 40 | Kristi Toliver | 4,474 |
 | 41 | Chelsea Gray | 4,469 |
 | 42 | Crystal Langhorne | 4,433 |
@@ -381,7 +381,7 @@ _Last updated: 2026-05-21 02:41 UTC_
 | 155 | Erica Wheeler | 858 |
 | 156 | **Alanna Smith** 🔴 +6 | 853 |
 | 157 | Leilani Mitchell | 845 |
-| 158 | **Jessica Shepard** 🔴 +3 | 839 |
+| 158 | **Jessica Shepard** 🔴 +5 | 841 |
 | 159 | Essence Carson | 833 |
 | 160 | Kristi Toliver | 829 |
 | 161 | Marie Ferdinand-Harris | 828 |
@@ -940,8 +940,8 @@ _Last updated: 2026-05-21 02:41 UTC_
 | 99 | Janel McCarville | 294 |
 | 100 | Kelly Miller | 290 |
 | 101 | Glory Johnson | 289 |
-| 102 | **Elizabeth Williams** 🔴 | 285 |
-| 102 | Essence Carson | 285 |
+| 102 | **Elizabeth Williams** 🔴 +1 | 286 |
+| 103 | Essence Carson | 285 |
 | 104 | Seimone Augustus | 280 |
 | 105 | Tari Phillips | 277 |
 | 106 | Emma Meesseman | 276 |
