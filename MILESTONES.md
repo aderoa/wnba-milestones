@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-21 00:25 UTC
+
+- **Myisha Hines-Allen** passed **Wendy Palmer** for **#189** all-time in blocks (career 71) — _5:52 - 3rd — POR @ IND_
+
 ## 2026-05-21 00:24 UTC
 
 - **Monique Billings** passed **Brionna Jones** for **#97** all-time in blocks (career 126) — up from #98 entering today — _6:04 - 3rd — POR @ IND_
