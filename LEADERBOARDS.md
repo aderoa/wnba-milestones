@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-21 02:04 UTC_
+_Last updated: 2026-05-21 02:05 UTC_
 
 ## Contents
 
@@ -204,7 +204,7 @@ _Last updated: 2026-05-21 02:04 UTC_
 | 183 | Kamila Vodichkova | 1,767 |
 | 184 | Tully Bevilaqua | 1,763 |
 | 185 | Sandy Brondello | 1,759 |
-| 186 | **Natisha Hiedeman** 🔴 | 1,751 |
+| 186 | **Natisha Hiedeman** 🔴 +2 | 1,753 |
 | 187 | Sugar Rodgers | 1,733 |
 | 188 | Moriah Jefferson | 1,722 |
 | 188 | NaLyssa Smith | 1,722 |
@@ -379,7 +379,7 @@ _Last updated: 2026-05-21 02:04 UTC_
 | 153 | Krystal Thomas | 862 |
 | 154 | Angel Reese | 861 |
 | 155 | Erica Wheeler | 858 |
-| 156 | **Alanna Smith** 🔴 +4 | 851 |
+| 156 | **Alanna Smith** 🔴 +5 | 852 |
 | 157 | Leilani Mitchell | 845 |
 | 158 | **Jessica Shepard** 🔴 +1 | 837 |
 | 159 | Essence Carson | 833 |
@@ -455,7 +455,7 @@ _Last updated: 2026-05-21 02:04 UTC_
 | 24 | Erica Wheeler | 1,275 |
 | 25 | Katie Smith | 1,258 |
 | 26 | Kelsey Plum | 1,215 |
-| 27 | **Odyssey Sims** 🔴 +2 | 1,212 |
+| 27 | **Odyssey Sims** 🔴 +3 | 1,213 |
 | 28 | Vickie Johnson | 1,202 |
 | 29 | Leilani Mitchell | 1,197 |
 | 30 | DeWanna Bonner | 1,183 |
@@ -1356,7 +1356,7 @@ _Last updated: 2026-05-21 02:04 UTC_
 | 102 | Wendy Palmer | 517 |
 | 105 | Tully Bevilaqua | 514 |
 | 106 | Jia Perkins | 513 |
-| 107 | **Arike Ogunbowale** 🔴 | 509 |
+| 107 | **Arike Ogunbowale** 🔴 +1 | 510 |
 | 108 | Tamera Young | 501 |
 | 109 | Jordin Canada | 496 |
 | 110 | Marina Mabrey | 494 |
@@ -1584,8 +1584,8 @@ _Last updated: 2026-05-21 02:04 UTC_
 | 127 | Chiney Ogwumike | 580 |
 | 127 | Hamchetou Maiga-Ba | 580 |
 | 127 | Olympia Scott | 580 |
+| 130 | **Arike Ogunbowale** 🔴 +1 | 576 |
 | 130 | Ezi Magbegor | 576 |
-| 131 | **Arike Ogunbowale** 🔴 | 575 |
 | 132 | Le'coe Willingham | 571 |
 | 133 | Ashley Robinson | 567 |
 | 134 | Ivory Latta | 565 |
