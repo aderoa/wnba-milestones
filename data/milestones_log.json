@@ -1,5 +1,14 @@
 [
   {
+    "ts": "2026-05-21T02:39:00+00:00",
+    "text": "Natasha Cloud reached 1,100 career rebounds (now 1,100) \u2014 (3:24 - 3rd \u2014 DAL @ CHI)",
+    "kind": "round",
+    "player": "Natasha Cloud",
+    "stat": "rebounds",
+    "value": 1100,
+    "new_total": 1100
+  },
+  {
     "ts": "2026-05-21T02:33:00+00:00",
     "text": "Natasha Cloud reached 2,900 career points (now 2,901) \u2014 (4:58 - 3rd \u2014 DAL @ CHI)",
     "kind": "round",
@@ -3037,17 +3046,5 @@
       "Chiney Ogwumike"
     ],
     "new_total": 1111
-  },
-  {
-    "ts": "2026-05-13T23:37:00+00:00",
-    "text": "Julie Allemand passed Riquna Williams for #172 all-time in assists (career 388) \u2014 up from #173 entering today \u2014 (5:13 - 2nd \u2014 SEA @ TOR)",
-    "kind": "rank_pass",
-    "player": "Julie Allemand",
-    "stat": "assists",
-    "rank": 172,
-    "passed_players": [
-      "Riquna Williams"
-    ],
-    "new_total": 388
   }
 ]
