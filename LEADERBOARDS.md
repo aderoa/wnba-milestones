@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-21 01:41 UTC_
+_Last updated: 2026-05-21 01:42 UTC_
 
 ## Contents
 
@@ -486,7 +486,7 @@ _Last updated: 2026-05-21 01:41 UTC_
 | 54 | Seimone Augustus | 911 |
 | 56 | Nneka Ogwumike | 904 |
 | 57 | Candice Dupree | 902 |
-| 58 | **Arike Ogunbowale** 🔴 +1 | 897 |
+| 58 | **Arike Ogunbowale** 🔴 +2 | 898 |
 | 59 | Maya Moore | 896 |
 | 60 | Ivory Latta | 885 |
 | 61 | Helen Darling | 882 |
@@ -615,9 +615,9 @@ _Last updated: 2026-05-21 01:41 UTC_
 | 183 | Diamond DeShields | 361 |
 | 183 | Erlana Larkins | 361 |
 | 186 | Bridget Carleton | 358 |
-| 187 | **Jessica Shepard** 🔴 +2 | 355 |
-| 187 | Kayla Thornton | 355 |
-| 187 | Merlakia Jones | 355 |
+| 187 | **Jessica Shepard** 🔴 +3 | 356 |
+| 188 | Kayla Thornton | 355 |
+| 188 | Merlakia Jones | 355 |
 | 190 | Charlotte Smith | 352 |
 | 190 | Ruthie Bolton | 352 |
 | 192 | Jantel Lavender | 350 |
