@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-21 08:36 UTC_
+_Last updated: 2026-05-21 08:37 UTC_
 
 ## Contents
 
@@ -201,8 +201,8 @@ _Last updated: 2026-05-21 08:36 UTC_
 | 180 | Danielle Adams | 1,820 |
 | 181 | Rachel Banham | 1,798 |
 | 182 | Charde Houston | 1,797 |
-| 183 | Kamila Vodichkova | 1,767 |
-| 184 | Natisha Hiedeman | 1,766 |
+| 183 | Natisha Hiedeman | 1,771 |
+| 184 | Kamila Vodichkova | 1,767 |
 | 185 | Tully Bevilaqua | 1,763 |
 | 186 | Sandy Brondello | 1,759 |
 | 187 | Sugar Rodgers | 1,733 |
@@ -529,7 +529,7 @@ _Last updated: 2026-05-21 08:36 UTC_
 | 98 | Debbie Black | 612 |
 | 99 | Jonquel Jones | 608 |
 | 100 | Cynthia Cooper | 602 |
-| 101 | Natisha Hiedeman | 598 |
+| 101 | Natisha Hiedeman | 599 |
 | 102 | Sancho Lyttle | 592 |
 | 103 | Camille Smith | 590 |
 | 104 | Armintie Herrington | 589 |
@@ -1118,9 +1118,9 @@ _Last updated: 2026-05-21 08:36 UTC_
 | 71 | Nikki Teasley | 304 |
 | 72 | Vickie Johnson | 295 |
 | 73 | Seimone Augustus | 293 |
-| 74 | Candice Wiggins | 290 |
-| 74 | Natisha Hiedeman | 290 |
-| 74 | Tully Bevilaqua | 290 |
+| 74 | Natisha Hiedeman | 291 |
+| 75 | Candice Wiggins | 290 |
+| 75 | Tully Bevilaqua | 290 |
 | 77 | Alana Beard | 288 |
 | 78 | Monique Currie | 284 |
 | 79 | Kayla Thornton | 276 |
