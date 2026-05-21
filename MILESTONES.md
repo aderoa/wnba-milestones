@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-21 03:01 UTC
+
+- **Arike Ogunbowale** passed **Ezi Magbegor** for **#130** all-time in fouls (career 577) — up from #131 entering today — _5:50 - 4th — DAL @ CHI_
+
 ## 2026-05-21 02:55 UTC
 
 - **Jessica Shepard** passed **Roneeka Hodges** for **#182** all-time in assists (career 363) — up from #189 entering today — _9:03 - 4th — DAL @ CHI_
