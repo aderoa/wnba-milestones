@@ -1,5 +1,14 @@
 [
   {
+    "ts": "2026-05-21T03:24:00+00:00",
+    "text": "Skylar Diggins reached 800 career fouls (now 800) \u2014 (28.2 - 4th \u2014 DAL @ CHI)",
+    "kind": "round",
+    "player": "Skylar Diggins",
+    "stat": "fouls",
+    "value": 800,
+    "new_total": 800
+  },
+  {
     "ts": "2026-05-21T03:21:00+00:00",
     "text": "Rachel Banham passed Sami Whitcomb for #185 all-time in fouls (career 481) \u2014 up from #186 entering today \u2014 (37.8 - 4th \u2014 DAL @ CHI)",
     "kind": "rank_pass",
@@ -3035,17 +3044,5 @@
       "Adrienne Goodson"
     ],
     "new_total": 204
-  },
-  {
-    "ts": "2026-05-14T00:12:00+00:00",
-    "text": "Natisha Hiedeman passed Monique Currie for #77 all-time in three-pointers (career 285) \u2014 up from #78 entering today \u2014 (7:21 - 3rd \u2014 SEA @ TOR)",
-    "kind": "rank_pass",
-    "player": "Natisha Hiedeman",
-    "stat": "three-pointers",
-    "rank": 77,
-    "passed_players": [
-      "Monique Currie"
-    ],
-    "new_total": 285
   }
 ]
