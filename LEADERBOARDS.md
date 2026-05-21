@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-21 02:29 UTC_
+_Last updated: 2026-05-21 02:30 UTC_
 
 ## Contents
 
@@ -117,7 +117,7 @@ _Last updated: 2026-05-21 02:29 UTC_
 | 96 | Marie Ferdinand-Harris | 3,001 |
 | 97 | Emma Meesseman | 2,966 |
 | 98 | Marina Mabrey | 2,941 |
-| 99 | **Natasha Cloud** 🔴 +9 | 2,897 |
+| 99 | **Natasha Cloud** 🔴 +11 | 2,899 |
 | 100 | Natalie Williams | 2,894 |
 | 101 | Jennifer Gillom | 2,888 |
 | 102 | Iziane Castro Marques | 2,862 |
@@ -381,7 +381,7 @@ _Last updated: 2026-05-21 02:29 UTC_
 | 155 | Erica Wheeler | 858 |
 | 156 | **Alanna Smith** 🔴 +6 | 853 |
 | 157 | Leilani Mitchell | 845 |
-| 158 | **Jessica Shepard** 🔴 +3 | 839 |
+| 158 | **Jessica Shepard** 🔴 +4 | 840 |
 | 159 | Essence Carson | 833 |
 | 160 | Kristi Toliver | 829 |
 | 161 | Marie Ferdinand-Harris | 828 |
@@ -614,7 +614,7 @@ _Last updated: 2026-05-21 02:29 UTC_
 | 183 | Andrea Nagy | 361 |
 | 183 | Diamond DeShields | 361 |
 | 183 | Erlana Larkins | 361 |
-| 186 | **Jessica Shepard** 🔴 +6 | 359 |
+| 186 | **Jessica Shepard** 🔴 +7 | 360 |
 | 187 | Bridget Carleton | 358 |
 | 188 | Kayla Thornton | 355 |
 | 188 | Merlakia Jones | 355 |
