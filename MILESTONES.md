@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-21 00:46 UTC
+
+- **Kelsey Mitchell** passed **Breanna Stewart** and **Tan White** for **#86** all-time in turnovers (career 558) — up from #88 entering today — _9:34 - 4th — POR @ IND_
+
 ## 2026-05-21 00:38 UTC
 
 - **Aliyah Boston** passed **Chamique Holdsclaw** for **#82** all-time in blocks (career 144) — _58.4 - 3rd — POR @ IND_

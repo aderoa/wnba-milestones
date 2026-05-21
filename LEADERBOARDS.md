@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-21 00:45 UTC_
+_Last updated: 2026-05-21 00:46 UTC_
 
 ## Contents
 
@@ -1335,9 +1335,9 @@ _Last updated: 2026-05-21 00:45 UTC_
 | 83 | Brittney Sykes | 568 |
 | 84 | Nikki McCray | 565 |
 | 85 | Sancho Lyttle | 563 |
-| 86 | Breanna Stewart | 557 |
-| 86 | **Kelsey Mitchell** 🔴 +1 | 557 |
-| 86 | Tan White | 557 |
+| 86 | **Kelsey Mitchell** 🔴 +2 | 558 |
+| 87 | Breanna Stewart | 557 |
+| 87 | Tan White | 557 |
 | 89 | Lauren Jackson | 549 |
 | 90 | Matee Ajavon | 544 |
 | 91 | Adrienne Goodson | 542 |

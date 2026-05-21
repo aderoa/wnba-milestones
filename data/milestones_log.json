@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-05-21T00:46:00+00:00",
+    "text": "Kelsey Mitchell passed Breanna Stewart and Tan White for #86 all-time in turnovers (career 558) \u2014 up from #88 entering today \u2014 (9:34 - 4th \u2014 POR @ IND)",
+    "kind": "rank_pass",
+    "player": "Kelsey Mitchell",
+    "stat": "turnovers",
+    "rank": 86,
+    "passed_players": [
+      "Breanna Stewart",
+      "Tan White"
+    ],
+    "new_total": 558
+  },
+  {
     "ts": "2026-05-21T00:38:00+00:00",
     "text": "Aliyah Boston passed Chamique Holdsclaw for #82 all-time in blocks (career 144) \u2014 (58.4 - 3rd \u2014 POR @ IND)",
     "kind": "rank_pass",
@@ -3037,19 +3050,5 @@
       "Dearica Hamby"
     ],
     "new_total": 102
-  },
-  {
-    "ts": "2026-05-13T03:45:00+00:00",
-    "text": "Natasha Mack passed Chante Black, Danielle Adams, and Nicole Powell for #126 all-time in blocks (career 101) \u2014 up from #129 entering today \u2014 (9:18 - 4th \u2014 MIN @ PHX)",
-    "kind": "rank_pass",
-    "player": "Natasha Mack",
-    "stat": "blocks",
-    "rank": 126,
-    "passed_players": [
-      "Chante Black",
-      "Danielle Adams",
-      "Nicole Powell"
-    ],
-    "new_total": 101
   }
 ]
