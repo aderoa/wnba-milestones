@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-21 01:12 UTC_
+_Last updated: 2026-05-21 01:13 UTC_
 
 ## Contents
 
@@ -298,7 +298,7 @@ _Last updated: 2026-05-21 01:12 UTC_
 | 72 | Courtney Vandersloot | 1,383 |
 | 72 | Katie Smith | 1,383 |
 | 74 | Ebony Hoffman | 1,376 |
-| 75 | **Monique Billings** 🔴 +3 | 1,370 |
+| 75 | **Monique Billings** 🔴 +4 | 1,371 |
 | 76 | Allisha Gray | 1,368 |
 | 77 | Sheri Sam | 1,356 |
 | 78 | Tamika Whitmore | 1,355 |
@@ -569,7 +569,7 @@ _Last updated: 2026-05-21 01:12 UTC_
 | 138 | Sylvia Fowles | 461 |
 | 139 | Elizabeth Williams | 455 |
 | 140 | Sydney Colson | 454 |
-| 141 | **Tyasha Harris** 🔴 +6 | 452 |
+| 141 | **Tyasha Harris** 🔴 +7 | 453 |
 | 142 | Satou Sabally | 451 |
 | 142 | Yolanda Griffith | 451 |
 | 144 | Elena Delle Donne | 450 |
