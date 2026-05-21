@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-21 03:17 UTC_
+_Last updated: 2026-05-21 03:18 UTC_
 
 ## Contents
 
@@ -57,7 +57,7 @@ _Last updated: 2026-05-21 03:17 UTC_
 | 36 | Elena Delle Donne | 4,706 |
 | 37 | Penny Taylor | 4,595 |
 | 38 | Alyssa Thomas | 4,554 |
-| 39 | **Arike Ogunbowale** 🔴 +15 | 4,527 |
+| 39 | **Arike Ogunbowale** 🔴 +21 | 4,533 |
 | 40 | Kristi Toliver | 4,474 |
 | 41 | Chelsea Gray | 4,469 |
 | 42 | Crystal Langhorne | 4,433 |
@@ -105,7 +105,7 @@ _Last updated: 2026-05-21 03:17 UTC_
 | 84 | Andrea Stinson | 3,351 |
 | 85 | Tanisha Wright | 3,324 |
 | 86 | Margo Dydek | 3,214 |
-| 87 | **Stefanie Dolson** 🔴 | 3,162 |
+| 87 | **Stefanie Dolson** 🔴 +1 | 3,163 |
 | 88 | Danielle Robinson | 3,160 |
 | 89 | Wendy Palmer | 3,135 |
 | 90 | Shavonte Zellous | 3,103 |
@@ -380,8 +380,8 @@ _Last updated: 2026-05-21 03:17 UTC_
 | 154 | Angel Reese | 861 |
 | 155 | Erica Wheeler | 858 |
 | 156 | **Alanna Smith** 🔴 +6 | 853 |
+| 157 | **Jessica Shepard** 🔴 +9 | 845 |
 | 157 | Leilani Mitchell | 845 |
-| 158 | **Jessica Shepard** 🔴 +8 | 844 |
 | 159 | Essence Carson | 833 |
 | 160 | Kristi Toliver | 829 |
 | 161 | Marie Ferdinand-Harris | 828 |
@@ -610,7 +610,7 @@ _Last updated: 2026-05-21 03:17 UTC_
 | 179 | Suzie McConnell Serio | 370 |
 | 180 | Damiris Dantas | 368 |
 | 181 | **Alanna Smith** 🔴 | 365 |
-| 182 | **Jessica Shepard** 🔴 +11 | 364 |
+| 181 | **Jessica Shepard** 🔴 +12 | 365 |
 | 183 | Roneeka Hodges | 362 |
 | 184 | Andrea Nagy | 361 |
 | 184 | Diamond DeShields | 361 |
@@ -1060,7 +1060,7 @@ _Last updated: 2026-05-21 03:17 UTC_
 | 13 | Kelsey Plum | 598 |
 | 14 | Kara Lawson | 583 |
 | 15 | Nicole Powell | 579 |
-| 16 | **Arike Ogunbowale** 🔴 +2 | 551 |
+| 16 | **Arike Ogunbowale** 🔴 +4 | 553 |
 | 17 | Ivory Latta | 536 |
 | 18 | Renee Montgomery | 532 |
 | 19 | Maya Moore | 530 |
