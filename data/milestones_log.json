@@ -1,5 +1,19 @@
 [
   {
+    "ts": "2026-05-21T02:44:00+00:00",
+    "text": "Jessica Shepard passed Andrea Nagy, Diamond DeShields, and Erlana Larkins for #183 all-time in assists (career 362) \u2014 up from #189 entering today \u2014 (51.6 - 3rd \u2014 DAL @ CHI)",
+    "kind": "rank_pass",
+    "player": "Jessica Shepard",
+    "stat": "assists",
+    "rank": 183,
+    "passed_players": [
+      "Andrea Nagy",
+      "Diamond DeShields",
+      "Erlana Larkins"
+    ],
+    "new_total": 362
+  },
+  {
     "ts": "2026-05-21T02:42:00+00:00",
     "text": "Elizabeth Williams passed Essence Carson for #103 all-time in steals (career 286) \u2014 (2:01 - 3rd \u2014 DAL @ CHI)",
     "kind": "rank_pass",
@@ -3033,17 +3047,5 @@
       "Barbara Farris"
     ],
     "new_total": 820
-  },
-  {
-    "ts": "2026-05-13T23:51:00+00:00",
-    "text": "Brittney Sykes passed Chamique Holdsclaw for #96 all-time in fouls (career 668) \u2014 up from #97 entering today \u2014 (0.0 - 2nd \u2014 SEA @ TOR)",
-    "kind": "rank_pass",
-    "player": "Brittney Sykes",
-    "stat": "fouls",
-    "rank": 96,
-    "passed_players": [
-      "Chamique Holdsclaw"
-    ],
-    "new_total": 668
   }
 ]
