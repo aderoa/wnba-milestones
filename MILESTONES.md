@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-21 02:33 UTC
+
+- **Natasha Cloud** reached **2,900** career points (now 2,901) — _4:58 - 3rd — DAL @ CHI_
+
 ## 2026-05-21 02:31 UTC
 
 - **Arike Ogunbowale** reached **900** career assists (now 900) — _5:29 - 3rd — DAL @ CHI_

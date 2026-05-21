@@ -1,5 +1,14 @@
 [
   {
+    "ts": "2026-05-21T02:33:00+00:00",
+    "text": "Natasha Cloud reached 2,900 career points (now 2,901) \u2014 (4:58 - 3rd \u2014 DAL @ CHI)",
+    "kind": "round",
+    "player": "Natasha Cloud",
+    "stat": "points",
+    "value": 2900,
+    "new_total": 2901
+  },
+  {
     "ts": "2026-05-21T02:31:00+00:00",
     "text": "Arike Ogunbowale reached 900 career assists (now 900) \u2014 (5:29 - 3rd \u2014 DAL @ CHI)",
     "kind": "round",
@@ -3040,17 +3049,5 @@
       "Riquna Williams"
     ],
     "new_total": 388
-  },
-  {
-    "ts": "2026-05-13T23:31:00+00:00",
-    "text": "Marina Mabrey passed Ariel Atkins for #28 all-time in three-pointers (career 441) \u2014 up from #29 entering today \u2014 (7:04 - 2nd \u2014 SEA @ TOR)",
-    "kind": "rank_pass",
-    "player": "Marina Mabrey",
-    "stat": "three-pointers",
-    "rank": 28,
-    "passed_players": [
-      "Ariel Atkins"
-    ],
-    "new_total": 441
   }
 ]
