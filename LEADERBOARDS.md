@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-21 01:10 UTC_
+_Last updated: 2026-05-21 01:11 UTC_
 
 ## Contents
 
@@ -215,7 +215,7 @@ _Last updated: 2026-05-21 01:10 UTC_
 | 194 | Gabby Williams | 1,634 |
 | 195 | Janell Burse | 1,580 |
 | 196 | Le'coe Willingham | 1,552 |
-| 197 | Shatori Walker-Kimbrough | 1,544 |
+| 197 | **Shatori Walker-Kimbrough** 🔴 | 1,544 |
 | 198 | **Monique Billings** 🔴 +9 | 1,537 |
 | 199 | Rebecca Allen | 1,517 |
 | 200 | Jennifer Lacy | 1,504 |
@@ -788,7 +788,7 @@ _Last updated: 2026-05-21 01:10 UTC_
 | 150 | Kalani Brown | 85 |
 | 150 | Kristin Folkl | 85 |
 | 154 | Charde Houston | 84 |
-| 154 | Shatori Walker-Kimbrough | 84 |
+| 154 | **Shatori Walker-Kimbrough** 🔴 | 84 |
 | 156 | Tamera Young | 83 |
 | 157 | Damiris Dantas | 82 |
 | 158 | Charlotte Smith | 81 |
@@ -1005,7 +1005,7 @@ _Last updated: 2026-05-21 01:10 UTC_
 | 164 | Shameka Christon | 205 |
 | 165 | Jessica Breland | 204 |
 | 165 | Murriel Page | 204 |
-| 165 | Shatori Walker-Kimbrough | 204 |
+| 165 | **Shatori Walker-Kimbrough** 🔴 | 204 |
 | 168 | Adrienne Goodson | 203 |
 | 168 | Betnijah Laney-Hamilton | 203 |
 | 170 | Azurá Stevens | 201 |
@@ -1167,7 +1167,7 @@ _Last updated: 2026-05-21 01:10 UTC_
 | 119 | Camille Smith | 179 |
 | 121 | Swin Cash | 176 |
 | 122 | Nikki McCray | 175 |
-| 123 | Shatori Walker-Kimbrough | 174 |
+| 123 | **Shatori Walker-Kimbrough** 🔴 | 174 |
 | 123 | Tayler Hill | 174 |
 | 125 | Nia Coffey | 172 |
 | 125 | Theresa Plaisance | 172 |
