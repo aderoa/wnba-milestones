@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-21 03:24 UTC_
+_Last updated: 2026-05-21 03:25 UTC_
 
 ## Contents
 
@@ -436,7 +436,7 @@ _Last updated: 2026-05-21 03:24 UTC_
 | 5 | Lindsay Whalen | 2,347 |
 | 6 | Chelsea Gray | 1,903 |
 | 7 | Alyssa Thomas | 1,854 |
-| 8 | **Skylar Diggins** 🔴 +3 | 1,788 |
+| 8 | **Skylar Diggins** 🔴 +4 | 1,789 |
 | 9 | **Natasha Cloud** 🔴 +5 | 1,752 |
 | 10 | Becky Hammon | 1,705 |
 | 11 | Candace Parker | 1,634 |
@@ -1014,10 +1014,10 @@ _Last updated: 2026-05-21 03:24 UTC_
 | 173 | Sonja Henning | 194 |
 | 173 | Tierra Ruffin-Pratt | 194 |
 | 175 | Cynthia Cooper | 192 |
+| 176 | **Natisha Hiedeman** 🔴 +1 | 188 |
 | 176 | Tamicha Jackson | 188 |
-| 177 | **Alanna Smith** 🔴 +1 | 187 |
-| 177 | Michele Timms | 187 |
-| 177 | **Natisha Hiedeman** 🔴 | 187 |
+| 178 | **Alanna Smith** 🔴 +1 | 187 |
+| 178 | Michele Timms | 187 |
 | 180 | Myisha Hines-Allen | 186 |
 | 181 | Charde Houston | 185 |
 | 181 | Tiffany Jackson | 185 |
