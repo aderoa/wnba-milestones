@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-21 02:07 UTC
+
+- **Natasha Cloud** passed **Charlotte Smith**, **Cintia dos Santos**, and **Jessie Hicks** for **#158** all-time in blocks (career 82) — up from #161 entering today — _1.3 - 2nd — DAL @ CHI_
+
 ## 2026-05-21 01:56 UTC
 
 - **Natasha Cloud** passed **Andrea Stinson** for **#73** all-time in steals (career 343) — up from #74 entering today — _3:39 - 2nd — DAL @ CHI_

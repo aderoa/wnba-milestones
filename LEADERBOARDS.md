@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-21 02:06 UTC_
+_Last updated: 2026-05-21 02:07 UTC_
 
 ## Contents
 
@@ -204,7 +204,7 @@ _Last updated: 2026-05-21 02:06 UTC_
 | 183 | Kamila Vodichkova | 1,767 |
 | 184 | Tully Bevilaqua | 1,763 |
 | 185 | Sandy Brondello | 1,759 |
-| 186 | **Natisha Hiedeman** 🔴 +2 | 1,753 |
+| 186 | **Natisha Hiedeman** 🔴 +5 | 1,756 |
 | 187 | Sugar Rodgers | 1,733 |
 | 188 | Moriah Jefferson | 1,722 |
 | 188 | NaLyssa Smith | 1,722 |
@@ -791,10 +791,10 @@ _Last updated: 2026-05-21 02:06 UTC_
 | 154 | Shatori Walker-Kimbrough | 84 |
 | 156 | Tamera Young | 83 |
 | 157 | Damiris Dantas | 82 |
-| 158 | Charlotte Smith | 81 |
-| 158 | Cintia dos Santos | 81 |
-| 158 | Jessie Hicks | 81 |
-| 158 | **Natasha Cloud** 🔴 | 81 |
+| 157 | **Natasha Cloud** 🔴 +1 | 82 |
+| 159 | Charlotte Smith | 81 |
+| 159 | Cintia dos Santos | 81 |
+| 159 | Jessie Hicks | 81 |
 | 162 | Nykesha Sales | 80 |
 | 162 | Rushia Brown | 80 |
 | 164 | Astou Ndour-Fall | 78 |
@@ -1015,10 +1015,10 @@ _Last updated: 2026-05-21 02:06 UTC_
 | 173 | Tierra Ruffin-Pratt | 194 |
 | 175 | Cynthia Cooper | 192 |
 | 176 | Tamicha Jackson | 188 |
+| 177 | **Alanna Smith** 🔴 +1 | 187 |
 | 177 | Michele Timms | 187 |
 | 177 | **Natisha Hiedeman** 🔴 | 187 |
-| 179 | **Alanna Smith** 🔴 | 186 |
-| 179 | Myisha Hines-Allen | 186 |
+| 180 | Myisha Hines-Allen | 186 |
 | 181 | Charde Houston | 185 |
 | 181 | Tiffany Jackson | 185 |
 | 183 | Erin Perperoglou | 184 |
@@ -1302,7 +1302,7 @@ _Last updated: 2026-05-21 02:06 UTC_
 | 50 | Asjha Jones | 682 |
 | 51 | Danielle Robinson | 680 |
 | 52 | Sheryl Swoopes | 677 |
-| 53 | **Natasha Cloud** 🔴 +1 | 674 |
+| 53 | **Natasha Cloud** 🔴 +2 | 675 |
 | 54 | Tammy Sutton-Brown | 672 |
 | 55 | Erica Wheeler | 671 |
 | 56 | Deanna Nolan | 669 |
