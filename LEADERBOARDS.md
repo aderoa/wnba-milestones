@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-21 02:30 UTC_
+_Last updated: 2026-05-21 02:31 UTC_
 
 ## Contents
 
@@ -42,7 +42,7 @@ _Last updated: 2026-05-21 02:30 UTC_
 | 21 | Angel McCoughtry | 5,797 |
 | 22 | DeLisha Milton-Jones | 5,571 |
 | 23 | Katie Douglas | 5,545 |
-| 24 | **Skylar Diggins** 🔴 +5 | 5,530 |
+| 24 | **Skylar Diggins** 🔴 +7 | 5,532 |
 | 25 | Lindsay Whalen | 5,511 |
 | 26 | Kayla McBride | 5,454 |
 | 27 | Swin Cash | 5,119 |
@@ -381,7 +381,7 @@ _Last updated: 2026-05-21 02:30 UTC_
 | 155 | Erica Wheeler | 858 |
 | 156 | **Alanna Smith** 🔴 +6 | 853 |
 | 157 | Leilani Mitchell | 845 |
-| 158 | **Jessica Shepard** 🔴 +4 | 840 |
+| 158 | **Jessica Shepard** 🔴 +3 | 839 |
 | 159 | Essence Carson | 833 |
 | 160 | Kristi Toliver | 829 |
 | 161 | Marie Ferdinand-Harris | 828 |
@@ -437,7 +437,7 @@ _Last updated: 2026-05-21 02:30 UTC_
 | 6 | Chelsea Gray | 1,903 |
 | 7 | Alyssa Thomas | 1,854 |
 | 8 | **Skylar Diggins** 🔴 +3 | 1,788 |
-| 9 | **Natasha Cloud** 🔴 +1 | 1,748 |
+| 9 | **Natasha Cloud** 🔴 +2 | 1,749 |
 | 10 | Becky Hammon | 1,705 |
 | 11 | Candace Parker | 1,634 |
 | 12 | Cappie Pondexter | 1,575 |
@@ -486,7 +486,7 @@ _Last updated: 2026-05-21 02:30 UTC_
 | 54 | Seimone Augustus | 911 |
 | 56 | Nneka Ogwumike | 904 |
 | 57 | Candice Dupree | 902 |
-| 58 | **Arike Ogunbowale** 🔴 +3 | 899 |
+| 58 | **Arike Ogunbowale** 🔴 +4 | 900 |
 | 59 | Maya Moore | 896 |
 | 60 | Ivory Latta | 885 |
 | 61 | Helen Darling | 882 |
@@ -1231,8 +1231,8 @@ _Last updated: 2026-05-21 02:30 UTC_
 | 184 | Gordana Grubin | 114 |
 | 184 | **Rickea Jackson** 🔴 | 114 |
 | 184 | Sandy Brondello | 114 |
-| 187 | **Kennedy Burke** 🔴 +2 | 112 |
-| 188 | Shoni Schimmel | 111 |
+| 187 | **Kennedy Burke** 🔴 +1 | 111 |
+| 187 | Shoni Schimmel | 111 |
 | 189 | Emma Meesseman | 109 |
 | 189 | Scholanda Dorrell | 109 |
 | 191 | Belinda Snell | 108 |

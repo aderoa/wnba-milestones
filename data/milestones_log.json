@@ -1,5 +1,14 @@
 [
   {
+    "ts": "2026-05-21T02:31:00+00:00",
+    "text": "Arike Ogunbowale reached 900 career assists (now 900) \u2014 (5:29 - 3rd \u2014 DAL @ CHI)",
+    "kind": "round",
+    "player": "Arike Ogunbowale",
+    "stat": "assists",
+    "value": 900,
+    "new_total": 900
+  },
+  {
     "ts": "2026-05-21T02:28:00+00:00",
     "text": "Kennedy Burke passed Lexie Hull and Shoni Schimmel for #186 all-time in three-pointers (career 112) \u2014 up from #188 entering today \u2014 (End of 1st \u2014 CON @ SEA)",
     "kind": "rank_pass",
@@ -3043,14 +3052,5 @@
       "Ariel Atkins"
     ],
     "new_total": 441
-  },
-  {
-    "ts": "2026-05-13T23:30:00+00:00",
-    "text": "Zia Cooke reached 400 career points (now 400) \u2014 (7:16 - 2nd \u2014 SEA @ TOR)",
-    "kind": "round",
-    "player": "Zia Cooke",
-    "stat": "points",
-    "value": 400,
-    "new_total": 400
   }
 ]

@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-21 02:31 UTC
+
+- **Arike Ogunbowale** reached **900** career assists (now 900) — _5:29 - 3rd — DAL @ CHI_
+
 ## 2026-05-21 02:28 UTC
 
 - **Kennedy Burke** passed **Lexie Hull** and **Shoni Schimmel** for **#186** all-time in three-pointers (career 112) — up from #188 entering today — _End of 1st — CON @ SEA_
