@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-21T00:24:00+00:00",
+    "text": "Monique Billings passed Brionna Jones for #97 all-time in blocks (career 126) \u2014 up from #98 entering today \u2014 (6:04 - 3rd \u2014 POR @ IND)",
+    "kind": "rank_pass",
+    "player": "Monique Billings",
+    "stat": "blocks",
+    "rank": 97,
+    "passed_players": [
+      "Brionna Jones"
+    ],
+    "new_total": 126
+  },
+  {
     "ts": "2026-05-21T00:21:00+00:00",
     "text": "Tyasha Harris passed Elena Delle Donne, Kristi Harrower, and Nikki McCray for #143 all-time in assists (career 451) \u2014 up from #148 entering today \u2014 (8:07 - 3rd \u2014 POR @ IND)",
     "kind": "rank_pass",
@@ -3036,17 +3048,5 @@
       "Vicky Bullett"
     ],
     "new_total": 508
-  },
-  {
-    "ts": "2026-05-13T03:27:00+00:00",
-    "text": "Kahleah Copper passed Jonquel Jones for #54 all-time in points (career 4,097) \u2014 up from #56 entering today \u2014 (4:33 - 3rd \u2014 MIN @ PHX)",
-    "kind": "rank_pass",
-    "player": "Kahleah Copper",
-    "stat": "points",
-    "rank": 54,
-    "passed_players": [
-      "Jonquel Jones"
-    ],
-    "new_total": 4097
   }
 ]
