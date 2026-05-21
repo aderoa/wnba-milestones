@@ -1,5 +1,19 @@
 [
   {
+    "ts": "2026-05-21T01:10:00+00:00",
+    "text": "Lexie Hull passed Gordana Grubin, Rickea Jackson, and Sandy Brondello for #183 all-time in three-pointers (career 115) \u2014 up from #186 entering today \u2014 (3:18 - 4th \u2014 POR @ IND)",
+    "kind": "rank_pass",
+    "player": "Lexie Hull",
+    "stat": "three-pointers",
+    "rank": 183,
+    "passed_players": [
+      "Gordana Grubin",
+      "Rickea Jackson",
+      "Sandy Brondello"
+    ],
+    "new_total": 115
+  },
+  {
     "ts": "2026-05-21T00:46:00+00:00",
     "text": "Kelsey Mitchell passed Breanna Stewart and Tan White for #86 all-time in turnovers (career 558) \u2014 up from #88 entering today \u2014 (9:34 - 4th \u2014 POR @ IND)",
     "kind": "rank_pass",
@@ -3036,19 +3050,5 @@
       "Tianna Hawkins"
     ],
     "new_total": 168
-  },
-  {
-    "ts": "2026-05-13T03:46:00+00:00",
-    "text": "Natasha Mack passed Courtney Williams, Deanna Nolan, and Dearica Hamby for #123 all-time in blocks (career 102) \u2014 up from #129 entering today \u2014 (8:11 - 4th \u2014 MIN @ PHX)",
-    "kind": "rank_pass",
-    "player": "Natasha Mack",
-    "stat": "blocks",
-    "rank": 123,
-    "passed_players": [
-      "Courtney Williams",
-      "Deanna Nolan",
-      "Dearica Hamby"
-    ],
-    "new_total": 102
   }
 ]

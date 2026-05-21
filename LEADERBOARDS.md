@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-21 01:09 UTC_
+_Last updated: 2026-05-21 01:10 UTC_
 
 ## Contents
 
@@ -319,7 +319,7 @@ _Last updated: 2026-05-21 01:09 UTC_
 | 93 | Tiffany Hayes | 1,233 |
 | 94 | Brianna Turner | 1,229 |
 | 95 | Seimone Augustus | 1,228 |
-| 96 | **Myisha Hines-Allen** 🔴 +2 | 1,226 |
+| 96 | **Myisha Hines-Allen** 🔴 +3 | 1,227 |
 | 97 | Jia Perkins | 1,220 |
 | 98 | Chelsea Gray | 1,210 |
 | 99 | Kayla McBride | 1,201 |
@@ -549,7 +549,7 @@ _Last updated: 2026-05-21 01:09 UTC_
 | 118 | Michele Timms | 549 |
 | 119 | Marie Ferdinand-Harris | 528 |
 | 120 | Margo Dydek | 524 |
-| 121 | **Myisha Hines-Allen** 🔴 +2 | 513 |
+| 121 | **Myisha Hines-Allen** 🔴 +3 | 514 |
 | 122 | Iziane Castro Marques | 509 |
 | 123 | Brittany Boyd-Jones | 508 |
 | 123 | Chasity Melvin | 508 |
@@ -1225,12 +1225,12 @@ _Last updated: 2026-05-21 01:09 UTC_
 | 177 | Marie Ferdinand-Harris | 116 |
 | 179 | Ebony Hoffman | 115 |
 | 179 | Jordin Canada | 115 |
+| 179 | **Lexie Hull** 🔴 +4 | 115 |
 | 179 | Shey Peddy | 115 |
 | 179 | Stephanie White | 115 |
-| 183 | Gordana Grubin | 114 |
-| 183 | **Lexie Hull** 🔴 +3 | 114 |
-| 183 | Rickea Jackson | 114 |
-| 183 | Sandy Brondello | 114 |
+| 184 | Gordana Grubin | 114 |
+| 184 | Rickea Jackson | 114 |
+| 184 | Sandy Brondello | 114 |
 | 187 | Shoni Schimmel | 111 |
 | 188 | Kennedy Burke | 110 |
 | 189 | Emma Meesseman | 109 |
