@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-05-21T00:29:00+00:00",
+    "text": "Tyasha Harris passed Satou Sabally and Yolanda Griffith for #141 all-time in assists (career 452) \u2014 up from #148 entering today \u2014 (5:05 - 3rd \u2014 POR @ IND)",
+    "kind": "rank_pass",
+    "player": "Tyasha Harris",
+    "stat": "assists",
+    "rank": 141,
+    "passed_players": [
+      "Satou Sabally",
+      "Yolanda Griffith"
+    ],
+    "new_total": 452
+  },
+  {
     "ts": "2026-05-21T00:25:00+00:00",
     "text": "Myisha Hines-Allen passed Wendy Palmer for #189 all-time in blocks (career 71) \u2014 (5:52 - 3rd \u2014 POR @ IND)",
     "kind": "rank_pass",
@@ -3039,14 +3052,5 @@
       "Sophia Witherspoon"
     ],
     "new_total": 209
-  },
-  {
-    "ts": "2026-05-13T03:30:00+00:00",
-    "text": "Kahleah Copper reached 4,100 career points (now 4,100) \u2014 (3:42 - 3rd \u2014 MIN @ PHX)",
-    "kind": "round",
-    "player": "Kahleah Copper",
-    "stat": "points",
-    "value": 4100,
-    "new_total": 4100
   }
 ]

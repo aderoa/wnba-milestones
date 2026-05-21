@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-21 00:28 UTC_
+_Last updated: 2026-05-21 00:29 UTC_
 
 ## Contents
 
@@ -569,9 +569,9 @@ _Last updated: 2026-05-21 00:28 UTC_
 | 138 | Sylvia Fowles | 461 |
 | 139 | Elizabeth Williams | 455 |
 | 140 | Sydney Colson | 454 |
-| 141 | Satou Sabally | 451 |
-| 141 | **Tyasha Harris** 🔴 +5 | 451 |
-| 141 | Yolanda Griffith | 451 |
+| 141 | **Tyasha Harris** 🔴 +6 | 452 |
+| 142 | Satou Sabally | 451 |
+| 142 | Yolanda Griffith | 451 |
 | 144 | Elena Delle Donne | 450 |
 | 144 | Kristi Harrower | 450 |
 | 144 | Nikki McCray | 450 |
@@ -1409,7 +1409,7 @@ _Last updated: 2026-05-21 00:28 UTC_
 | 157 | Anna DeForge | 374 |
 | 157 | Cheryl Ford | 374 |
 | 159 | Allison Feaster | 372 |
-| 160 | **Myisha Hines-Allen** 🔴 | 368 |
+| 160 | **Myisha Hines-Allen** 🔴 +1 | 369 |
 | 161 | Emma Meesseman | 367 |
 | 162 | Latasha Byears | 360 |
 | 163 | Vicky Bullett | 359 |
@@ -1613,9 +1613,9 @@ _Last updated: 2026-05-21 00:28 UTC_
 | 156 | Kayla McBride | 515 |
 | 157 | Jackie Young | 514 |
 | 158 | Jantel Lavender | 513 |
-| 159 | Adrienne Goodson | 512 |
-| 159 | Janeth Arcain | 512 |
-| 159 | **Sophie Cunningham** 🔴 | 512 |
+| 158 | **Sophie Cunningham** 🔴 +1 | 513 |
+| 160 | Adrienne Goodson | 512 |
+| 160 | Janeth Arcain | 512 |
 | 162 | Andrea Stinson | 511 |
 | 163 | **Monique Billings** 🔴 | 510 |
 | 164 | Vicky Bullett | 507 |
