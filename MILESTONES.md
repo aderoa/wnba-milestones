@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-21 02:54 UTC
+
+- **Odyssey Sims** passed **Chasity Melvin** and **Leilani Mitchell** for **#80** all-time in steals (career 331) — up from #82 entering today — _9:48 - 4th — DAL @ CHI_
+
 ## 2026-05-21 02:44 UTC
 
 - **Jessica Shepard** passed **Andrea Nagy**, **Diamond DeShields**, and **Erlana Larkins** for **#183** all-time in assists (career 362) — up from #189 entering today — _51.6 - 3rd — DAL @ CHI_

@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-21 02:53 UTC_
+_Last updated: 2026-05-21 02:54 UTC_
 
 ## Contents
 
@@ -117,7 +117,7 @@ _Last updated: 2026-05-21 02:53 UTC_
 | 96 | Marie Ferdinand-Harris | 3,001 |
 | 97 | Emma Meesseman | 2,966 |
 | 98 | Marina Mabrey | 2,941 |
-| 99 | **Natasha Cloud** 🔴 +17 | 2,905 |
+| 99 | **Natasha Cloud** 🔴 +15 | 2,903 |
 | 100 | Natalie Williams | 2,894 |
 | 101 | Jennifer Gillom | 2,888 |
 | 102 | Iziane Castro Marques | 2,862 |
@@ -918,9 +918,9 @@ _Last updated: 2026-05-21 02:53 UTC_
 | 77 | A'ja Wilson | 339 |
 | 78 | Dawn Staley | 338 |
 | 79 | Marie Ferdinand-Harris | 331 |
-| 80 | Chasity Melvin | 330 |
-| 80 | Leilani Mitchell | 330 |
-| 80 | **Odyssey Sims** 🔴 | 330 |
+| 79 | **Odyssey Sims** 🔴 +1 | 331 |
+| 81 | Chasity Melvin | 330 |
+| 81 | Leilani Mitchell | 330 |
 | 83 | Kristi Toliver | 329 |
 | 84 | Matee Ajavon | 328 |
 | 85 | Napheesa Collier | 325 |
@@ -1301,8 +1301,8 @@ _Last updated: 2026-05-21 02:53 UTC_
 | 49 | DeMya Walker | 684 |
 | 50 | Asjha Jones | 682 |
 | 51 | Danielle Robinson | 680 |
+| 52 | **Natasha Cloud** 🔴 +4 | 677 |
 | 52 | Sheryl Swoopes | 677 |
-| 53 | **Natasha Cloud** 🔴 +3 | 676 |
 | 54 | Tammy Sutton-Brown | 672 |
 | 55 | Erica Wheeler | 671 |
 | 56 | Deanna Nolan | 669 |
