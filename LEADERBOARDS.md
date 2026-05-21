@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-21 02:46 UTC_
+_Last updated: 2026-05-21 02:47 UTC_
 
 ## Contents
 
@@ -1639,8 +1639,8 @@ _Last updated: 2026-05-21 02:46 UTC_
 | 181 | Isabelle Harrison | 484 |
 | 183 | Liz Cambage | 483 |
 | 183 | Rhonda Mapp | 483 |
+| 185 | **Rachel Banham** 🔴 +2 | 480 |
 | 185 | Sami Whitcomb | 480 |
-| 186 | **Rachel Banham** 🔴 +1 | 479 |
 | 187 | Seimone Augustus | 477 |
 | 188 | Allie Quigley | 475 |
 | 189 | Kia Nurse | 467 |
