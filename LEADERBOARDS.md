@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-21 01:31 UTC_
+_Last updated: 2026-05-21 01:32 UTC_
 
 ## Contents
 
@@ -117,8 +117,8 @@ _Last updated: 2026-05-21 01:31 UTC_
 | 96 | Marie Ferdinand-Harris | 3,001 |
 | 97 | Emma Meesseman | 2,966 |
 | 98 | Marina Mabrey | 2,941 |
-| 99 | Natalie Williams | 2,894 |
-| 100 | **Natasha Cloud** 🔴 +4 | 2,892 |
+| 99 | **Natasha Cloud** 🔴 +7 | 2,895 |
+| 100 | Natalie Williams | 2,894 |
 | 101 | Jennifer Gillom | 2,888 |
 | 102 | Iziane Castro Marques | 2,862 |
 | 103 | **Elizabeth Williams** 🔴 | 2,856 |
@@ -256,7 +256,7 @@ _Last updated: 2026-05-21 01:31 UTC_
 | 30 | Chamique Holdsclaw | 2,123 |
 | 31 | Chasity Melvin | 2,097 |
 | 32 | Tammy Sutton-Brown | 2,010 |
-| 33 | **Elizabeth Williams** 🔴 | 1,923 |
+| 33 | **Elizabeth Williams** 🔴 +1 | 1,924 |
 | 34 | Cheryl Ford | 1,907 |
 | 35 | Plenette Pierson | 1,834 |
 | 36 | Natalie Williams | 1,832 |
@@ -567,7 +567,7 @@ _Last updated: 2026-05-21 01:31 UTC_
 | 136 | Janeth Arcain | 469 |
 | 137 | Erin Phillips | 462 |
 | 138 | Sylvia Fowles | 461 |
-| 139 | **Elizabeth Williams** 🔴 | 455 |
+| 139 | **Elizabeth Williams** 🔴 +1 | 456 |
 | 140 | Sydney Colson | 454 |
 | 141 | Tyasha Harris | 453 |
 | 142 | Satou Sabally | 451 |
@@ -1103,7 +1103,7 @@ _Last updated: 2026-05-21 01:31 UTC_
 | 56 | Candace Parker | 342 |
 | 57 | Deanna Nolan | 340 |
 | 58 | Anna DeForge | 334 |
-| 59 | **Natasha Cloud** 🔴 | 333 |
+| 58 | **Natasha Cloud** 🔴 +1 | 334 |
 | 60 | Erica Wheeler | 322 |
 | 61 | Sugar Rodgers | 317 |
 | 62 | Jackie Young | 315 |
