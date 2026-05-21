@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-21T02:55:00+00:00",
+    "text": "Jessica Shepard passed Roneeka Hodges for #182 all-time in assists (career 363) \u2014 up from #189 entering today \u2014 (9:03 - 4th \u2014 DAL @ CHI)",
+    "kind": "rank_pass",
+    "player": "Jessica Shepard",
+    "stat": "assists",
+    "rank": 182,
+    "passed_players": [
+      "Roneeka Hodges"
+    ],
+    "new_total": 363
+  },
+  {
     "ts": "2026-05-21T02:54:00+00:00",
     "text": "Odyssey Sims passed Chasity Melvin and Leilani Mitchell for #80 all-time in steals (career 331) \u2014 up from #82 entering today \u2014 (9:48 - 4th \u2014 DAL @ CHI)",
     "kind": "rank_pass",
@@ -3035,17 +3047,5 @@
       "Deanna Nolan"
     ],
     "new_total": 1113
-  },
-  {
-    "ts": "2026-05-14T00:10:00+00:00",
-    "text": "Marina Mabrey passed Betnijah Laney-Hamilton for #168 all-time in steals (career 203) \u2014 up from #169 entering today \u2014 (8:10 - 3rd \u2014 SEA @ TOR)",
-    "kind": "rank_pass",
-    "player": "Marina Mabrey",
-    "stat": "steals",
-    "rank": 168,
-    "passed_players": [
-      "Betnijah Laney-Hamilton"
-    ],
-    "new_total": 203
   }
 ]

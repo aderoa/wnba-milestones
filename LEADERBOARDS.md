@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-21 02:54 UTC_
+_Last updated: 2026-05-21 02:55 UTC_
 
 ## Contents
 
@@ -42,7 +42,7 @@ _Last updated: 2026-05-21 02:54 UTC_
 | 21 | Angel McCoughtry | 5,797 |
 | 22 | DeLisha Milton-Jones | 5,571 |
 | 23 | Katie Douglas | 5,545 |
-| 24 | **Skylar Diggins** 🔴 +7 | 5,532 |
+| 24 | **Skylar Diggins** 🔴 +10 | 5,535 |
 | 25 | Lindsay Whalen | 5,511 |
 | 26 | Kayla McBride | 5,454 |
 | 27 | Swin Cash | 5,119 |
@@ -84,7 +84,7 @@ _Last updated: 2026-05-21 02:54 UTC_
 | 63 | Chasity Melvin | 3,781 |
 | 64 | Kara Lawson | 3,670 |
 | 65 | Mwadi Mabika | 3,576 |
-| 66 | **Odyssey Sims** 🔴 +2 | 3,554 |
+| 66 | **Odyssey Sims** 🔴 +4 | 3,556 |
 | 67 | Camille Smith | 3,551 |
 | 68 | Napheesa Collier | 3,542 |
 | 68 | Shannon Johnson | 3,542 |
@@ -610,8 +610,8 @@ _Last updated: 2026-05-21 02:54 UTC_
 | 179 | Suzie McConnell Serio | 370 |
 | 180 | Damiris Dantas | 368 |
 | 181 | **Alanna Smith** 🔴 | 365 |
-| 182 | **Jessica Shepard** 🔴 +9 | 362 |
-| 182 | Roneeka Hodges | 362 |
+| 182 | **Jessica Shepard** 🔴 +10 | 363 |
+| 183 | Roneeka Hodges | 362 |
 | 184 | Andrea Nagy | 361 |
 | 184 | Diamond DeShields | 361 |
 | 184 | Erlana Larkins | 361 |
@@ -1077,7 +1077,7 @@ _Last updated: 2026-05-21 02:54 UTC_
 | 30 | Lauren Jackson | 436 |
 | 31 | Shameka Christon | 434 |
 | 32 | Allisha Gray | 432 |
-| 33 | **Skylar Diggins** 🔴 | 428 |
+| 33 | **Skylar Diggins** 🔴 +1 | 429 |
 | 34 | Crystal Robinson | 425 |
 | 35 | Chelsea Gray | 423 |
 | 36 | Mwadi Mabika | 415 |
@@ -1231,8 +1231,8 @@ _Last updated: 2026-05-21 02:54 UTC_
 | 184 | Gordana Grubin | 114 |
 | 184 | **Rickea Jackson** 🔴 | 114 |
 | 184 | Sandy Brondello | 114 |
-| 187 | **Kennedy Burke** 🔴 +1 | 111 |
-| 187 | Shoni Schimmel | 111 |
+| 187 | **Kennedy Burke** 🔴 +2 | 112 |
+| 188 | Shoni Schimmel | 111 |
 | 189 | Emma Meesseman | 109 |
 | 189 | Scholanda Dorrell | 109 |
 | 191 | Belinda Snell | 108 |
