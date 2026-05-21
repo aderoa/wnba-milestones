@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-21 01:23 UTC_
+_Last updated: 2026-05-21 01:24 UTC_
 
 ## Contents
 
@@ -200,7 +200,7 @@ _Last updated: 2026-05-21 01:23 UTC_
 | 179 | Noelle Quinn | 1,824 |
 | 180 | Danielle Adams | 1,820 |
 | 181 | Charde Houston | 1,797 |
-| 182 | Rachel Banham | 1,788 |
+| 182 | **Rachel Banham** 🔴 | 1,788 |
 | 183 | Kamila Vodichkova | 1,767 |
 | 184 | Tully Bevilaqua | 1,763 |
 | 185 | Sandy Brondello | 1,759 |
@@ -379,7 +379,7 @@ _Last updated: 2026-05-21 01:23 UTC_
 | 153 | Krystal Thomas | 862 |
 | 154 | Angel Reese | 861 |
 | 155 | Erica Wheeler | 858 |
-| 156 | **Alanna Smith** 🔴 +2 | 849 |
+| 156 | **Alanna Smith** 🔴 +3 | 850 |
 | 157 | Leilani Mitchell | 845 |
 | 158 | **Jessica Shepard** 🔴 +1 | 837 |
 | 159 | Essence Carson | 833 |
@@ -412,8 +412,8 @@ _Last updated: 2026-05-21 01:23 UTC_
 | 186 | Brooke Wyckoff | 751 |
 | 187 | Coco Miller | 750 |
 | 188 | Alex Montgomery | 735 |
+| 189 | **Arike Ogunbowale** 🔴 +3 | 734 |
 | 189 | Ashley Robinson | 734 |
-| 190 | **Arike Ogunbowale** 🔴 +2 | 733 |
 | 191 | Shenise Johnson | 729 |
 | 192 | Sami Whitcomb | 726 |
 | 192 | Shekinna Stricklen | 726 |
@@ -556,7 +556,7 @@ _Last updated: 2026-05-21 01:23 UTC_
 | 125 | Anna DeForge | 503 |
 | 125 | Coco Miller | 503 |
 | 127 | Veronica Burton | 501 |
-| 128 | Rachel Banham | 498 |
+| 128 | **Rachel Banham** 🔴 | 498 |
 | 129 | Rhyne Howard | 490 |
 | 130 | Caitlin Clark | 488 |
 | 130 | Crystal Robinson | 488 |
@@ -678,7 +678,7 @@ _Last updated: 2026-05-21 01:23 UTC_
 | 42 | Azurá Stevens | 230 |
 | 43 | Chasity Melvin | 228 |
 | 44 | **Skylar Diggins** 🔴 | 225 |
-| 45 | **Alanna Smith** 🔴 | 222 |
+| 45 | **Alanna Smith** 🔴 +1 | 223 |
 | 46 | Sancho Lyttle | 221 |
 | 47 | Alana Beard | 220 |
 | 47 | Teaira McCowan | 220 |
@@ -829,7 +829,7 @@ _Last updated: 2026-05-21 01:23 UTC_
 | 192 | Jackie Young | 67 |
 | 192 | Satou Sabally | 67 |
 | 192 | Shannon Johnson | 67 |
-| 196 | Awak Kuier | 66 |
+| 196 | **Awak Kuier** 🔴 | 66 |
 | 197 | Crystal Robinson | 65 |
 | 197 | Queen Egbo | 65 |
 | 197 | Riquna Williams | 65 |
@@ -1089,7 +1089,7 @@ _Last updated: 2026-05-21 01:23 UTC_
 | 42 | Courtney Vandersloot | 385 |
 | 43 | Briann January | 381 |
 | 44 | Jasmine Thomas | 376 |
-| 44 | Rachel Banham | 376 |
+| 44 | **Rachel Banham** 🔴 | 376 |
 | 46 | Allison Feaster | 372 |
 | 46 | Betty Lennox | 372 |
 | 48 | Rhyne Howard | 370 |
@@ -1447,7 +1447,7 @@ _Last updated: 2026-05-21 01:23 UTC_
 | 195 | Kayla Thornton | 289 |
 | 196 | Alexis Hornbuckle | 288 |
 | 196 | Kristen Rasmussen | 288 |
-| 196 | Rachel Banham | 288 |
+| 196 | **Rachel Banham** 🔴 | 288 |
 | 199 | Azurá Stevens | 286 |
 | 199 | Damiris Dantas | 286 |
 
@@ -1640,7 +1640,7 @@ _Last updated: 2026-05-21 01:23 UTC_
 | 183 | Liz Cambage | 483 |
 | 183 | Rhonda Mapp | 483 |
 | 185 | Sami Whitcomb | 480 |
-| 186 | Rachel Banham | 478 |
+| 186 | **Rachel Banham** 🔴 | 478 |
 | 187 | Seimone Augustus | 477 |
 | 188 | Allie Quigley | 475 |
 | 189 | Kia Nurse | 467 |
