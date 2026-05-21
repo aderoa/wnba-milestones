@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-21 02:28 UTC_
+_Last updated: 2026-05-21 02:29 UTC_
 
 ## Contents
 
@@ -486,7 +486,7 @@ _Last updated: 2026-05-21 02:28 UTC_
 | 54 | Seimone Augustus | 911 |
 | 56 | Nneka Ogwumike | 904 |
 | 57 | Candice Dupree | 902 |
-| 58 | **Arike Ogunbowale** 🔴 +2 | 898 |
+| 58 | **Arike Ogunbowale** 🔴 +3 | 899 |
 | 59 | Maya Moore | 896 |
 | 60 | Ivory Latta | 885 |
 | 61 | Helen Darling | 882 |
