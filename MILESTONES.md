@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-21 00:38 UTC
+
+- **Aliyah Boston** passed **Chamique Holdsclaw** for **#82** all-time in blocks (career 144) — _58.4 - 3rd — POR @ IND_
+
 ## 2026-05-21 00:37 UTC
 
 - **Kelsey Mitchell** passed **Tiffany Hayes** for **#31** all-time in points (career 4,928) — up from #32 entering today — _1:51 - 3rd — POR @ IND_

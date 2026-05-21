@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-21T00:38:00+00:00",
+    "text": "Aliyah Boston passed Chamique Holdsclaw for #82 all-time in blocks (career 144) \u2014 (58.4 - 3rd \u2014 POR @ IND)",
+    "kind": "rank_pass",
+    "player": "Aliyah Boston",
+    "stat": "blocks",
+    "rank": 82,
+    "passed_players": [
+      "Chamique Holdsclaw"
+    ],
+    "new_total": 144
+  },
+  {
     "ts": "2026-05-21T00:37:00+00:00",
     "text": "Kelsey Mitchell passed Tiffany Hayes for #31 all-time in points (career 4,928) \u2014 up from #32 entering today \u2014 (1:51 - 3rd \u2014 POR @ IND)",
     "kind": "rank_pass",
@@ -3039,17 +3051,5 @@
       "Nicole Powell"
     ],
     "new_total": 101
-  },
-  {
-    "ts": "2026-05-13T03:38:00+00:00",
-    "text": "Jonquel Jones passed Kelsey Plum for #70 all-time in turnovers (career 612) \u2014 up from #71 entering today \u2014 (7:26 - 4th \u2014 NY @ POR)",
-    "kind": "rank_pass",
-    "player": "Jonquel Jones",
-    "stat": "turnovers",
-    "rank": 70,
-    "passed_players": [
-      "Kelsey Plum"
-    ],
-    "new_total": 612
   }
 ]
