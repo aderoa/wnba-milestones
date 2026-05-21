@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-21 02:01 UTC_
+_Last updated: 2026-05-21 02:02 UTC_
 
 ## Contents
 
@@ -339,7 +339,7 @@ _Last updated: 2026-05-21 02:01 UTC_
 | 113 | Chiney Ogwumike | 1,110 |
 | 114 | Becky Hammon | 1,108 |
 | 115 | Ann Wauters | 1,105 |
-| 116 | **Natasha Cloud** 🔴 +5 | 1,098 |
+| 116 | **Natasha Cloud** 🔴 +6 | 1,099 |
 | 117 | NaLyssa Smith | 1,081 |
 | 118 | Svetlana Abrosimova | 1,078 |
 | 119 | Aliyah Boston | 1,074 |
@@ -644,7 +644,7 @@ _Last updated: 2026-05-21 02:01 UTC_
 | 8 | Tangela Smith | 554 |
 | 9 | A'ja Wilson | 543 |
 | 10 | Ruth Riley | 505 |
-| 11 | **Elizabeth Williams** 🔴 +1 | 487 |
+| 11 | **Elizabeth Williams** 🔴 +2 | 488 |
 | 12 | Taj McWilliams-Franklin | 443 |
 | 13 | Breanna Stewart | 433 |
 | 14 | Tina Charles | 428 |
@@ -678,7 +678,7 @@ _Last updated: 2026-05-21 02:01 UTC_
 | 42 | Azurá Stevens | 230 |
 | 43 | Chasity Melvin | 228 |
 | 44 | **Skylar Diggins** 🔴 | 225 |
-| 45 | **Alanna Smith** 🔴 +1 | 223 |
+| 45 | **Alanna Smith** 🔴 +2 | 224 |
 | 46 | Sancho Lyttle | 221 |
 | 47 | Alana Beard | 220 |
 | 47 | Teaira McCowan | 220 |
