@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-21 03:20 UTC_
+_Last updated: 2026-05-21 03:21 UTC_
 
 ## Contents
 
@@ -199,8 +199,8 @@ _Last updated: 2026-05-21 03:20 UTC_
 | 178 | Tianna Hawkins | 1,825 |
 | 179 | Noelle Quinn | 1,824 |
 | 180 | Danielle Adams | 1,820 |
-| 181 | Charde Houston | 1,797 |
-| 182 | **Rachel Banham** 🔴 +7 | 1,795 |
+| 181 | **Rachel Banham** 🔴 +10 | 1,798 |
+| 182 | Charde Houston | 1,797 |
 | 183 | Kamila Vodichkova | 1,767 |
 | 184 | **Natisha Hiedeman** 🔴 +15 | 1,766 |
 | 185 | Tully Bevilaqua | 1,763 |
@@ -1088,7 +1088,7 @@ _Last updated: 2026-05-21 03:20 UTC_
 | 41 | Roneeka Hodges | 389 |
 | 42 | Courtney Vandersloot | 385 |
 | 43 | Briann January | 381 |
-| 44 | **Rachel Banham** 🔴 +1 | 377 |
+| 44 | **Rachel Banham** 🔴 +2 | 378 |
 | 45 | Jasmine Thomas | 376 |
 | 46 | Allison Feaster | 372 |
 | 46 | Betty Lennox | 372 |
@@ -1639,8 +1639,8 @@ _Last updated: 2026-05-21 03:20 UTC_
 | 181 | Isabelle Harrison | 484 |
 | 183 | Liz Cambage | 483 |
 | 183 | Rhonda Mapp | 483 |
-| 185 | **Rachel Banham** 🔴 +2 | 480 |
-| 185 | Sami Whitcomb | 480 |
+| 185 | **Rachel Banham** 🔴 +3 | 481 |
+| 186 | Sami Whitcomb | 480 |
 | 187 | Seimone Augustus | 477 |
 | 188 | Allie Quigley | 475 |
 | 189 | Kia Nurse | 467 |

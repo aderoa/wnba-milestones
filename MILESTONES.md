@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-21 03:21 UTC
+
+- **Rachel Banham** passed **Sami Whitcomb** for **#185** all-time in fouls (career 481) — up from #186 entering today — _37.8 - 4th — DAL @ CHI_
+
 ## 2026-05-21 03:01 UTC
 
 - **Arike Ogunbowale** passed **Ezi Magbegor** for **#130** all-time in fouls (career 577) — up from #131 entering today — _5:50 - 4th — DAL @ CHI_
