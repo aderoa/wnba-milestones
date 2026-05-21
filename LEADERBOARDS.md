@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-21 02:13 UTC_
+_Last updated: 2026-05-21 02:14 UTC_
 
 ## Contents
 
@@ -1153,7 +1153,7 @@ _Last updated: 2026-05-21 02:13 UTC_
 | 105 | Erin Phillips | 211 |
 | 107 | Andrea Stinson | 207 |
 | 108 | Betnijah Laney-Hamilton | 201 |
-| 109 | Lexie Brown | 200 |
+| 109 | **Lexie Brown** 🔴 | 200 |
 | 110 | Shanna Zolman | 199 |
 | 111 | Temeka Johnson | 197 |
 | 111 | Tina Charles | 197 |
@@ -1475,7 +1475,7 @@ _Last updated: 2026-05-21 02:13 UTC_
 | 18 | Tanisha Wright | 1,109 |
 | 19 | Michelle Snow | 1,108 |
 | 20 | Natasha Howard | 1,105 |
-| 21 | **Stefanie Dolson** 🔴 | 1,095 |
+| 21 | **Stefanie Dolson** 🔴 +1 | 1,096 |
 | 22 | Sylvia Fowles | 1,049 |
 | 23 | Tina Charles | 1,037 |
 | 24 | Lindsay Whalen | 998 |
