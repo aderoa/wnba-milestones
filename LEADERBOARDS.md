@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-21 00:20 UTC_
+_Last updated: 2026-05-21 00:21 UTC_
 
 ## Contents
 
@@ -342,7 +342,7 @@ _Last updated: 2026-05-21 00:20 UTC_
 | 116 | Natasha Cloud | 1,093 |
 | 117 | NaLyssa Smith | 1,081 |
 | 118 | Svetlana Abrosimova | 1,078 |
-| 119 | **Aliyah Boston** 🔴 +4 | 1,070 |
+| 119 | **Aliyah Boston** 🔴 +5 | 1,071 |
 | 120 | Le'coe Willingham | 1,054 |
 | 121 | Isabelle Harrison | 1,049 |
 | 122 | Nicole Ohlde | 1,040 |
@@ -570,11 +570,11 @@ _Last updated: 2026-05-21 00:20 UTC_
 | 139 | Elizabeth Williams | 455 |
 | 140 | Sydney Colson | 454 |
 | 141 | Satou Sabally | 451 |
+| 141 | **Tyasha Harris** 🔴 +5 | 451 |
 | 141 | Yolanda Griffith | 451 |
-| 143 | Elena Delle Donne | 450 |
-| 143 | Kristi Harrower | 450 |
-| 143 | Nikki McCray | 450 |
-| 143 | **Tyasha Harris** 🔴 +4 | 450 |
+| 144 | Elena Delle Donne | 450 |
+| 144 | Kristi Harrower | 450 |
+| 144 | Nikki McCray | 450 |
 | 147 | Ruth Riley | 449 |
 | 148 | DeMya Walker | 446 |
 | 149 | Essence Carson | 445 |
@@ -1230,7 +1230,7 @@ _Last updated: 2026-05-21 00:20 UTC_
 | 183 | Gordana Grubin | 114 |
 | 183 | Rickea Jackson | 114 |
 | 183 | Sandy Brondello | 114 |
-| 186 | **Lexie Hull** 🔴 +1 | 112 |
+| 186 | **Lexie Hull** 🔴 +2 | 113 |
 | 187 | Shoni Schimmel | 111 |
 | 188 | Kennedy Burke | 110 |
 | 189 | Emma Meesseman | 109 |

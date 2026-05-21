@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-21 00:21 UTC
+
+- **Tyasha Harris** passed **Elena Delle Donne**, **Kristi Harrower**, and **Nikki McCray** for **#143** all-time in assists (career 451) — up from #148 entering today — _8:07 - 3rd — POR @ IND_
+
 ## 2026-05-21 00:19 UTC
 
 - **Tyasha Harris** passed **Ruth Riley** for **#146** all-time in assists (career 450) — up from #148 entering today — _9:05 - 3rd — POR @ IND_

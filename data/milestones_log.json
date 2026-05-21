@@ -1,5 +1,19 @@
 [
   {
+    "ts": "2026-05-21T00:21:00+00:00",
+    "text": "Tyasha Harris passed Elena Delle Donne, Kristi Harrower, and Nikki McCray for #143 all-time in assists (career 451) \u2014 up from #148 entering today \u2014 (8:07 - 3rd \u2014 POR @ IND)",
+    "kind": "rank_pass",
+    "player": "Tyasha Harris",
+    "stat": "assists",
+    "rank": 143,
+    "passed_players": [
+      "Elena Delle Donne",
+      "Kristi Harrower",
+      "Nikki McCray"
+    ],
+    "new_total": 451
+  },
+  {
     "ts": "2026-05-21T00:19:00+00:00",
     "text": "Tyasha Harris passed Ruth Riley for #146 all-time in assists (career 450) \u2014 up from #148 entering today \u2014 (9:05 - 3rd \u2014 POR @ IND)",
     "kind": "rank_pass",
@@ -3034,17 +3048,5 @@
       "Jonquel Jones"
     ],
     "new_total": 4097
-  },
-  {
-    "ts": "2026-05-13T03:22:00+00:00",
-    "text": "Courtney Williams passed Theresa Plaisance for #122 all-time in blocks (career 103) \u2014 up from #123 entering today \u2014 (6:21 - 3rd \u2014 MIN @ PHX)",
-    "kind": "rank_pass",
-    "player": "Courtney Williams",
-    "stat": "blocks",
-    "rank": 122,
-    "passed_players": [
-      "Theresa Plaisance"
-    ],
-    "new_total": 103
   }
 ]
