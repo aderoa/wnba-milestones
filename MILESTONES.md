@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-21 00:19 UTC
+
+- **Tyasha Harris** passed **Ruth Riley** for **#146** all-time in assists (career 450) — up from #148 entering today — _9:05 - 3rd — POR @ IND_
+
 ## 2026-05-20 23:11 UTC
 
 - **Lexie Hull** passed **Shoni Schimmel** for **#187** all-time in three-pointers (career 112) — _7:08 - 1st — POR @ IND_
