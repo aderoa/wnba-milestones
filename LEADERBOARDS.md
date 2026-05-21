@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-21 00:29 UTC_
+_Last updated: 2026-05-21 00:30 UTC_
 
 ## Contents
 
@@ -1018,9 +1018,9 @@ _Last updated: 2026-05-21 00:29 UTC_
 | 177 | Michele Timms | 187 |
 | 177 | Natisha Hiedeman | 187 |
 | 179 | Alanna Smith | 186 |
-| 180 | Charde Houston | 185 |
-| 180 | **Myisha Hines-Allen** 🔴 | 185 |
-| 180 | Tiffany Jackson | 185 |
+| 179 | **Myisha Hines-Allen** 🔴 +1 | 186 |
+| 181 | Charde Houston | 185 |
+| 181 | Tiffany Jackson | 185 |
 | 183 | Erin Perperoglou | 184 |
 | 184 | Erin Phillips | 182 |
 | 184 | Rebecca Allen | 182 |
@@ -1409,7 +1409,7 @@ _Last updated: 2026-05-21 00:29 UTC_
 | 157 | Anna DeForge | 374 |
 | 157 | Cheryl Ford | 374 |
 | 159 | Allison Feaster | 372 |
-| 160 | **Myisha Hines-Allen** 🔴 +1 | 369 |
+| 160 | **Myisha Hines-Allen** 🔴 +2 | 370 |
 | 161 | Emma Meesseman | 367 |
 | 162 | Latasha Byears | 360 |
 | 163 | Vicky Bullett | 359 |
