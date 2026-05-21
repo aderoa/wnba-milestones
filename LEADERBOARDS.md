@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-21 01:20 UTC_
+_Last updated: 2026-05-21 01:21 UTC_
 
 ## Contents
 
@@ -118,7 +118,7 @@ _Last updated: 2026-05-21 01:20 UTC_
 | 97 | Emma Meesseman | 2,966 |
 | 98 | Marina Mabrey | 2,941 |
 | 99 | Natalie Williams | 2,894 |
-| 100 | **Natasha Cloud** 🔴 +2 | 2,890 |
+| 100 | **Natasha Cloud** 🔴 +4 | 2,892 |
 | 101 | Jennifer Gillom | 2,888 |
 | 102 | Iziane Castro Marques | 2,862 |
 | 103 | Elizabeth Williams | 2,856 |
@@ -339,7 +339,7 @@ _Last updated: 2026-05-21 01:20 UTC_
 | 113 | Chiney Ogwumike | 1,110 |
 | 114 | Becky Hammon | 1,108 |
 | 115 | Ann Wauters | 1,105 |
-| 116 | **Natasha Cloud** 🔴 | 1,093 |
+| 116 | **Natasha Cloud** 🔴 +1 | 1,094 |
 | 117 | NaLyssa Smith | 1,081 |
 | 118 | Svetlana Abrosimova | 1,078 |
 | 119 | Aliyah Boston | 1,074 |
@@ -379,7 +379,7 @@ _Last updated: 2026-05-21 01:20 UTC_
 | 153 | Krystal Thomas | 862 |
 | 154 | Angel Reese | 861 |
 | 155 | Erica Wheeler | 858 |
-| 156 | **Alanna Smith** 🔴 | 847 |
+| 156 | **Alanna Smith** 🔴 +1 | 848 |
 | 157 | Leilani Mitchell | 845 |
 | 158 | **Jessica Shepard** 🔴 +1 | 837 |
 | 159 | Essence Carson | 833 |
@@ -436,7 +436,7 @@ _Last updated: 2026-05-21 01:20 UTC_
 | 5 | Lindsay Whalen | 2,347 |
 | 6 | Chelsea Gray | 1,903 |
 | 7 | Alyssa Thomas | 1,854 |
-| 8 | **Skylar Diggins** 🔴 +1 | 1,786 |
+| 8 | **Skylar Diggins** 🔴 +2 | 1,787 |
 | 9 | **Natasha Cloud** 🔴 | 1,747 |
 | 10 | Becky Hammon | 1,705 |
 | 11 | Candace Parker | 1,634 |
