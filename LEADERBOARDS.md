@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-21 05:03 UTC_
+_Last updated: 2026-05-21 05:04 UTC_
 
 ## Contents
 
@@ -1231,7 +1231,7 @@ _Last updated: 2026-05-21 05:03 UTC_
 | 184 | Gordana Grubin | 114 |
 | 184 | Rickea Jackson | 114 |
 | 184 | Sandy Brondello | 114 |
-| 187 | Kennedy Burke | 112 |
+| 187 | Kennedy Burke | 113 |
 | 188 | Shoni Schimmel | 111 |
 | 189 | Emma Meesseman | 109 |
 | 189 | Scholanda Dorrell | 109 |
