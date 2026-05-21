@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-21T02:41:00+00:00",
+    "text": "Elizabeth Williams passed Allisha Gray for #77 all-time in fouls (career 715) \u2014 up from #79 entering today \u2014 (2:51 - 3rd \u2014 DAL @ CHI)",
+    "kind": "rank_pass",
+    "player": "Elizabeth Williams",
+    "stat": "fouls",
+    "rank": 77,
+    "passed_players": [
+      "Allisha Gray"
+    ],
+    "new_total": 715
+  },
+  {
     "ts": "2026-05-21T02:39:00+00:00",
     "text": "Natasha Cloud reached 1,100 career rebounds (now 1,100) \u2014 (3:24 - 3rd \u2014 DAL @ CHI)",
     "kind": "round",
@@ -3034,17 +3046,5 @@
       "Cathrine Kraayeveld"
     ],
     "new_total": 130
-  },
-  {
-    "ts": "2026-05-13T23:38:00+00:00",
-    "text": "Brittney Sykes passed Chiney Ogwumike for #112 all-time in rebounds (career 1,111) \u2014 up from #114 entering today \u2014 (4:42 - 2nd \u2014 SEA @ TOR)",
-    "kind": "rank_pass",
-    "player": "Brittney Sykes",
-    "stat": "rebounds",
-    "rank": 112,
-    "passed_players": [
-      "Chiney Ogwumike"
-    ],
-    "new_total": 1111
   }
 ]

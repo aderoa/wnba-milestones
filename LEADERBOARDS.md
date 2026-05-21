@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-21 02:40 UTC_
+_Last updated: 2026-05-21 02:41 UTC_
 
 ## Contents
 
@@ -57,7 +57,7 @@ _Last updated: 2026-05-21 02:40 UTC_
 | 36 | Elena Delle Donne | 4,706 |
 | 37 | Penny Taylor | 4,595 |
 | 38 | Alyssa Thomas | 4,554 |
-| 39 | **Arike Ogunbowale** 🔴 +10 | 4,522 |
+| 39 | **Arike Ogunbowale** 🔴 +11 | 4,523 |
 | 40 | Kristi Toliver | 4,474 |
 | 41 | Chelsea Gray | 4,469 |
 | 42 | Crystal Langhorne | 4,433 |
@@ -117,7 +117,7 @@ _Last updated: 2026-05-21 02:40 UTC_
 | 96 | Marie Ferdinand-Harris | 3,001 |
 | 97 | Emma Meesseman | 2,966 |
 | 98 | Marina Mabrey | 2,941 |
-| 99 | **Natasha Cloud** 🔴 +13 | 2,901 |
+| 99 | **Natasha Cloud** 🔴 +15 | 2,903 |
 | 100 | Natalie Williams | 2,894 |
 | 101 | Jennifer Gillom | 2,888 |
 | 102 | Iziane Castro Marques | 2,862 |
@@ -1531,8 +1531,8 @@ _Last updated: 2026-05-21 02:40 UTC_
 | 74 | Latasha Byears | 730 |
 | 75 | Kahleah Copper | 723 |
 | 76 | Kristi Toliver | 722 |
-| 77 | Allisha Gray | 714 |
-| 77 | **Elizabeth Williams** 🔴 +1 | 714 |
+| 77 | **Elizabeth Williams** 🔴 +2 | 715 |
+| 78 | Allisha Gray | 714 |
 | 79 | Cheryl Ford | 713 |
 | 80 | Jia Perkins | 711 |
 | 81 | Helen Darling | 709 |

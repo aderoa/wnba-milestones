@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-21 02:41 UTC
+
+- **Elizabeth Williams** passed **Allisha Gray** for **#77** all-time in fouls (career 715) — up from #79 entering today — _2:51 - 3rd — DAL @ CHI_
+
 ## 2026-05-21 02:39 UTC
 
 - **Natasha Cloud** reached **1,100** career rebounds (now 1,100) — _3:24 - 3rd — DAL @ CHI_
