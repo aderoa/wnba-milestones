@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-21 01:56 UTC
+
+- **Natasha Cloud** passed **Andrea Stinson** for **#73** all-time in steals (career 343) — up from #74 entering today — _3:39 - 2nd — DAL @ CHI_
+
 ## 2026-05-21 01:10 UTC
 
 - **Lexie Hull** passed **Gordana Grubin**, **Rickea Jackson**, and **Sandy Brondello** for **#183** all-time in three-pointers (career 115) — up from #186 entering today — _3:18 - 4th — POR @ IND_

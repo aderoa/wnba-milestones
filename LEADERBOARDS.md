@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-21 01:55 UTC_
+_Last updated: 2026-05-21 01:56 UTC_
 
 ## Contents
 
@@ -644,7 +644,7 @@ _Last updated: 2026-05-21 01:55 UTC_
 | 8 | Tangela Smith | 554 |
 | 9 | A'ja Wilson | 543 |
 | 10 | Ruth Riley | 505 |
-| 11 | **Elizabeth Williams** 🔴 | 486 |
+| 11 | **Elizabeth Williams** 🔴 +1 | 487 |
 | 12 | Taj McWilliams-Franklin | 443 |
 | 13 | Breanna Stewart | 433 |
 | 14 | Tina Charles | 428 |
@@ -911,8 +911,8 @@ _Last updated: 2026-05-21 01:55 UTC_
 | 70 | Erica Wheeler | 349 |
 | 71 | Janeth Arcain | 346 |
 | 72 | Helen Darling | 343 |
-| 73 | Andrea Stinson | 342 |
-| 73 | **Natasha Cloud** 🔴 | 342 |
+| 72 | **Natasha Cloud** 🔴 +1 | 343 |
+| 74 | Andrea Stinson | 342 |
 | 75 | **Arike Ogunbowale** 🔴 | 340 |
 | 75 | Armintie Herrington | 340 |
 | 77 | A'ja Wilson | 339 |
@@ -1445,9 +1445,9 @@ _Last updated: 2026-05-21 01:55 UTC_
 | 193 | Crystal Robinson | 299 |
 | 194 | Michele Timms | 297 |
 | 195 | Kayla Thornton | 289 |
-| 196 | Alexis Hornbuckle | 288 |
-| 196 | Kristen Rasmussen | 288 |
-| 196 | **Rachel Banham** 🔴 | 288 |
+| 195 | **Rachel Banham** 🔴 +1 | 289 |
+| 197 | Alexis Hornbuckle | 288 |
+| 197 | Kristen Rasmussen | 288 |
 | 199 | Azurá Stevens | 286 |
 | 199 | Damiris Dantas | 286 |
 

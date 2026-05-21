@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-21T01:56:00+00:00",
+    "text": "Natasha Cloud passed Andrea Stinson for #73 all-time in steals (career 343) \u2014 up from #74 entering today \u2014 (3:39 - 2nd \u2014 DAL @ CHI)",
+    "kind": "rank_pass",
+    "player": "Natasha Cloud",
+    "stat": "steals",
+    "rank": 73,
+    "passed_players": [
+      "Andrea Stinson"
+    ],
+    "new_total": 343
+  },
+  {
     "ts": "2026-05-21T01:10:00+00:00",
     "text": "Lexie Hull passed Gordana Grubin, Rickea Jackson, and Sandy Brondello for #183 all-time in three-pointers (career 115) \u2014 up from #186 entering today \u2014 (3:18 - 4th \u2014 POR @ IND)",
     "kind": "rank_pass",
@@ -3037,18 +3049,5 @@
       "Natalie Williams"
     ],
     "new_total": 2896
-  },
-  {
-    "ts": "2026-05-13T04:06:00+00:00",
-    "text": "Nia Coffey passed Shavonte Zellous and Tianna Hawkins for #127 all-time in three-pointers (career 168) \u2014 up from #129 entering today \u2014 (25.6 - 4th \u2014 MIN @ PHX)",
-    "kind": "rank_pass",
-    "player": "Nia Coffey",
-    "stat": "three-pointers",
-    "rank": 127,
-    "passed_players": [
-      "Shavonte Zellous",
-      "Tianna Hawkins"
-    ],
-    "new_total": 168
   }
 ]
