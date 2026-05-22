@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-22 04:04 UTC_
+_Last updated: 2026-05-22 04:05 UTC_
 
 ## Contents
 
@@ -23,7 +23,7 @@ _Last updated: 2026-05-22 04:04 UTC_
 | 2 | Tina Charles | 8,396 |
 | 3 | **DeWanna Bonner** 🔴 +7 | 7,854 |
 | 4 | Tina Thompson | 7,470 |
-| 5 | **Nneka Ogwumike** 🔴 +10 | 7,381 |
+| 5 | **Nneka Ogwumike** 🔴 +12 | 7,383 |
 | 6 | Tamika Catchings | 7,371 |
 | 7 | Candice Dupree | 6,861 |
 | 8 | Sue Bird | 6,802 |
@@ -452,7 +452,7 @@ _Last updated: 2026-05-22 04:04 UTC_
 | 21 | Dawn Staley | 1,337 |
 | 22 | Teresa Weatherspoon | 1,333 |
 | 23 | Kristi Toliver | 1,301 |
-| 24 | **Erica Wheeler** 🔴 +3 | 1,278 |
+| 24 | **Erica Wheeler** 🔴 +4 | 1,279 |
 | 25 | Katie Smith | 1,258 |
 | 26 | **Kelsey Plum** 🔴 +6 | 1,221 |
 | 27 | Odyssey Sims | 1,210 |
@@ -1275,7 +1275,7 @@ _Last updated: 2026-05-22 04:04 UTC_
 | 23 | Skylar Diggins | 881 |
 | 24 | Candice Dupree | 869 |
 | 25 | Alana Beard | 854 |
-| 26 | **DeWanna Bonner** 🔴 +2 | 832 |
+| 26 | **DeWanna Bonner** 🔴 +1 | 831 |
 | 27 | Katie Douglas | 824 |
 | 28 | Natasha Howard | 808 |
 | 29 | Betty Lennox | 800 |
@@ -1495,7 +1495,7 @@ _Last updated: 2026-05-22 04:04 UTC_
 | 38 | Briann January | 921 |
 | 39 | Ticha Penicheiro | 913 |
 | 40 | Shavonte Zellous | 907 |
-| 41 | **DeWanna Bonner** 🔴 +2 | 901 |
+| 41 | **DeWanna Bonner** 🔴 +1 | 900 |
 | 42 | Alysha Clark | 887 |
 | 43 | DeMya Walker | 882 |
 | 44 | Candice Dupree | 876 |
