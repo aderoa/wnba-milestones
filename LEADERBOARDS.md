@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-22 01:37 UTC_
+_Last updated: 2026-05-22 01:38 UTC_
 
 ## Contents
 
@@ -160,9 +160,9 @@ _Last updated: 2026-05-22 01:37 UTC_
 | 138 | Matee Ajavon | 2,237 |
 | 140 | Dawn Staley | 2,228 |
 | 141 | Azurá Stevens | 2,219 |
-| 142 | Janel McCarville | 2,215 |
-| 142 | **Kia Nurse** 🔴 +11 | 2,215 |
-| 142 | Teaira McCowan | 2,215 |
+| 142 | **Kia Nurse** 🔴 +12 | 2,216 |
+| 143 | Janel McCarville | 2,215 |
+| 143 | Teaira McCowan | 2,215 |
 | 145 | Sami Whitcomb | 2,211 |
 | 146 | Sophia Witherspoon | 2,210 |
 | 147 | Ruthie Bolton | 2,175 |
@@ -1590,8 +1590,8 @@ _Last updated: 2026-05-22 01:37 UTC_
 | 133 | Ashley Robinson | 567 |
 | 134 | Ivory Latta | 565 |
 | 135 | Barbara Farris | 563 |
+| 136 | **Courtney Williams** 🔴 +2 | 562 |
 | 136 | Jessica Breland | 562 |
-| 137 | **Courtney Williams** 🔴 +1 | 561 |
 | 138 | Dawn Staley | 551 |
 | 139 | Glory Johnson | 550 |
 | 139 | Tierra Ruffin-Pratt | 550 |

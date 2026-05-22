@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-22 01:38 UTC
+
+- **Kia Nurse** passed **Janel McCarville** and **Teaira McCowan** for **#142** all-time in points (career 2,216) — up from #146 entering today — _9:16 - 4th — TOR @ MIN_
+
 ## 2026-05-22 01:36 UTC
 
 - **Satou Sabally** passed **Cameron Brink**, **Jackie Young**, and **Shannon Johnson** for **#192** all-time in blocks (career 68) — up from #194 entering today — _0.0 - 3rd — GS @ NY_
