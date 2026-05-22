@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-22 00:15 UTC_
+_Last updated: 2026-05-22 00:16 UTC_
 
 ## Contents
 
@@ -44,7 +44,7 @@ _Last updated: 2026-05-22 00:15 UTC_
 | 23 | Katie Douglas | 5,545 |
 | 24 | Skylar Diggins | 5,525 |
 | 25 | Lindsay Whalen | 5,511 |
-| 26 | **Kayla McBride** 🔴 +6 | 5,460 |
+| 26 | **Kayla McBride** 🔴 +7 | 5,461 |
 | 27 | Swin Cash | 5,119 |
 | 28 | Tangela Smith | 5,035 |
 | 29 | Taj McWilliams-Franklin | 4,992 |
@@ -334,7 +334,7 @@ _Last updated: 2026-05-22 00:15 UTC_
 | 108 | Andrea Stinson | 1,127 |
 | 108 | Tamika Raymond | 1,127 |
 | 110 | Adrienne Goodson | 1,126 |
-| 111 | **Brittney Sykes** 🔴 +2 | 1,123 |
+| 111 | **Brittney Sykes** 🔴 +1 | 1,122 |
 | 112 | Deanna Nolan | 1,112 |
 | 113 | Chiney Ogwumike | 1,110 |
 | 114 | Becky Hammon | 1,108 |
@@ -474,7 +474,7 @@ _Last updated: 2026-05-22 00:15 UTC_
 | 43 | Tina Charles | 1,033 |
 | 44 | Nikki Teasley | 982 |
 | 45 | Tamecka Dixon | 960 |
-| 46 | **Kayla McBride** 🔴 +1 | 953 |
+| 46 | **Kayla McBride** 🔴 +2 | 954 |
 | 47 | Kara Lawson | 946 |
 | 48 | **Breanna Stewart** 🔴 +1 | 939 |
 | 49 | Deanna Nolan | 930 |
@@ -495,7 +495,7 @@ _Last updated: 2026-05-22 00:15 UTC_
 | 64 | Lisa Leslie | 873 |
 | 65 | Tully Bevilaqua | 853 |
 | 66 | Jia Perkins | 837 |
-| 67 | **Brittney Sykes** 🔴 | 832 |
+| 67 | **Brittney Sykes** 🔴 +1 | 833 |
 | 68 | Andrea Stinson | 810 |
 | 69 | Kelsey Mitchell | 805 |
 | 70 | Tina Thompson | 803 |
