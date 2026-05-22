@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-22 04:13 UTC
+
+- **Erica Wheeler** passed **Briann January** for **#91** all-time in points (career 3,083) — up from #92 entering today — _2:38 - 4th — LA @ PHX_
+
 ## 2026-05-22 03:54 UTC
 
 - **Cameron Brink** passed **Myisha Hines-Allen** and **Wendy Palmer** for **#188** all-time in blocks (career 71) — up from #192 entering today — _9:40 - 4th — LA @ PHX_

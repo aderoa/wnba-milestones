@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-22T04:13:00+00:00",
+    "text": "Erica Wheeler passed Briann January for #91 all-time in points (career 3,083) \u2014 up from #92 entering today \u2014 (2:38 - 4th \u2014 LA @ PHX)",
+    "kind": "rank_pass",
+    "player": "Erica Wheeler",
+    "stat": "points",
+    "rank": 91,
+    "passed_players": [
+      "Briann January"
+    ],
+    "new_total": 3083
+  },
+  {
     "ts": "2026-05-22T03:54:00+00:00",
     "text": "Cameron Brink passed Myisha Hines-Allen and Wendy Palmer for #188 all-time in blocks (career 71) \u2014 up from #192 entering today \u2014 (9:40 - 4th \u2014 LA @ PHX)",
     "kind": "rank_pass",
@@ -3033,17 +3045,5 @@
       "Crystal Langhorne"
     ],
     "new_total": 434
-  },
-  {
-    "ts": "2026-05-15T02:13:00+00:00",
-    "text": "Sug Sutton passed Elena Baranova for #154 all-time in assists (career 431) \u2014 up from #155 entering today \u2014 (5:53 - 1st \u2014 NY @ POR)",
-    "kind": "rank_pass",
-    "player": "Sug Sutton",
-    "stat": "assists",
-    "rank": 154,
-    "passed_players": [
-      "Elena Baranova"
-    ],
-    "new_total": 431
   }
 ]
