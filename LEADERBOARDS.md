@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-22 04:18 UTC_
+_Last updated: 2026-05-22 04:19 UTC_
 
 ## Contents
 
@@ -72,7 +72,7 @@ _Last updated: 2026-05-22 04:18 UTC_
 | 51 | Vickie Johnson | 4,230 |
 | 52 | Yolanda Griffith | 4,224 |
 | 53 | **Dearica Hamby** 🔴 +27 | 4,185 |
-| 54 | **Kahleah Copper** 🔴 +19 | 4,173 |
+| 54 | **Kahleah Copper** 🔴 +21 | 4,175 |
 | 55 | Jonquel Jones | 4,148 |
 | 56 | Courtney Williams | 4,139 |
 | 57 | Rebekkah Brunson | 4,133 |
@@ -1512,9 +1512,9 @@ _Last updated: 2026-05-22 04:18 UTC_
 | 55 | Penny Taylor | 832 |
 | 56 | Dominique Canty | 831 |
 | 56 | Wendy Palmer | 831 |
+| 58 | **Dearica Hamby** 🔴 +2 | 813 |
 | 58 | Shannon Johnson | 813 |
 | 58 | Tully Bevilaqua | 813 |
-| 60 | **Dearica Hamby** 🔴 +1 | 812 |
 | 61 | Skylar Diggins | 797 |
 | 62 | Nykesha Sales | 796 |
 | 63 | Ebony Hoffman | 791 |
