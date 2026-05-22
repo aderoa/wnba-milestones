@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-22T01:43:00+00:00",
+    "text": "Kayla Thornton passed Merlakia Jones for #188 all-time in assists (career 356) \u2014 (8:33 - 4th \u2014 GS @ NY)",
+    "kind": "rank_pass",
+    "player": "Kayla Thornton",
+    "stat": "assists",
+    "rank": 188,
+    "passed_players": [
+      "Merlakia Jones"
+    ],
+    "new_total": 356
+  },
+  {
     "ts": "2026-05-22T01:41:00+00:00",
     "text": "Kayla Thornton passed Marie Ferdinand-Harris for #104 all-time in fouls (career 647) \u2014 up from #105 entering today \u2014 (9:02 - 4th \u2014 GS @ NY)",
     "kind": "rank_pass",
@@ -3033,17 +3045,5 @@
       "Rebecca Allen"
     ],
     "new_total": 182
-  },
-  {
-    "ts": "2026-05-14T04:11:00+00:00",
-    "text": "Monique Billings passed Emma Meesseman for #77 all-time in rebounds (career 1,351) \u2014 up from #79 entering today \u2014 (2:15 - 3rd \u2014 IND @ LA)",
-    "kind": "rank_pass",
-    "player": "Monique Billings",
-    "stat": "rebounds",
-    "rank": 77,
-    "passed_players": [
-      "Emma Meesseman"
-    ],
-    "new_total": 1351
   }
 ]
