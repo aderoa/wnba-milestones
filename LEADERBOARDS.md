@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-22 23:51 UTC_
+_Last updated: 2026-05-22 23:52 UTC_
 
 ## Contents
 
@@ -342,7 +342,7 @@ _Last updated: 2026-05-22 23:51 UTC_
 | 116 | Natasha Cloud | 1,093 |
 | 117 | NaLyssa Smith | 1,081 |
 | 118 | Svetlana Abrosimova | 1,078 |
-| 119 | **Aliyah Boston** 🔴 +1 | 1,067 |
+| 119 | **Aliyah Boston** 🔴 +2 | 1,068 |
 | 120 | Le'coe Willingham | 1,054 |
 | 121 | Isabelle Harrison | 1,049 |
 | 122 | Nicole Ohlde | 1,040 |
@@ -455,11 +455,11 @@ _Last updated: 2026-05-22 23:51 UTC_
 | 24 | Erica Wheeler | 1,275 |
 | 25 | Katie Smith | 1,258 |
 | 26 | Kelsey Plum | 1,215 |
-| 27 | **Odyssey Sims** 🔴 | 1,210 |
+| 27 | **Odyssey Sims** 🔴 +1 | 1,211 |
 | 28 | Vickie Johnson | 1,202 |
 | 29 | Leilani Mitchell | 1,197 |
 | 30 | DeWanna Bonner | 1,183 |
-| 31 | **Jordin Canada** 🔴 | 1,155 |
+| 31 | **Jordin Canada** 🔴 +1 | 1,156 |
 | 32 | Jewell Loyd | 1,141 |
 | 33 | Renee Montgomery | 1,140 |
 | 34 | Swin Cash | 1,131 |
@@ -934,7 +934,7 @@ _Last updated: 2026-05-22 23:51 UTC_
 | 93 | Crystal Langhorne | 314 |
 | 94 | Ebony Hoffman | 308 |
 | 95 | Tamera Young | 305 |
-| 96 | **Gabby Williams** 🔴 +1 | 303 |
+| 96 | **Gabby Williams** 🔴 | 302 |
 | 97 | Kedra Holland-Corn | 301 |
 | 98 | Lindsey Harding | 295 |
 | 99 | Janel McCarville | 294 |
