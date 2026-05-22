@@ -1,5 +1,20 @@
 [
   {
+    "ts": "2026-05-22T23:43:00+00:00",
+    "text": "Rhyne Howard passed Asjha Jones, Candice Wiggins, Cheyenne Parker-Tyus, and Elena Baranova for #151 all-time in steals (career 216) \u2014 up from #155 entering today \u2014 (4:42 - 1st \u2014 DAL @ ATL)",
+    "kind": "rank_pass",
+    "player": "Rhyne Howard",
+    "stat": "steals",
+    "rank": 151,
+    "passed_players": [
+      "Asjha Jones",
+      "Candice Wiggins",
+      "Cheyenne Parker-Tyus",
+      "Elena Baranova"
+    ],
+    "new_total": 216
+  },
+  {
     "ts": "2026-05-22T04:18:00+00:00",
     "text": "DeWanna Bonner passed Diana Taurasi and Elena Delle Donne for #24 all-time in blocks (career 350) \u2014 (50.2 - 4th \u2014 LA @ PHX)",
     "kind": "rank_pass",
@@ -3032,18 +3047,5 @@
       "Marina Mabrey"
     ],
     "new_total": 203
-  },
-  {
-    "ts": "2026-05-15T02:27:00+00:00",
-    "text": "Rebecca Allen passed Myisha Hines-Allen and Nakia Sanford for #185 all-time in steals (career 182) \u2014 up from #187 entering today \u2014 (21.8 - 1st \u2014 NY @ POR)",
-    "kind": "rank_pass",
-    "player": "Rebecca Allen",
-    "stat": "steals",
-    "rank": 185,
-    "passed_players": [
-      "Myisha Hines-Allen",
-      "Nakia Sanford"
-    ],
-    "new_total": 182
   }
 ]

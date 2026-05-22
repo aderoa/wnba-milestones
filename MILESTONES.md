@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-22 23:43 UTC
+
+- **Rhyne Howard** passed **Asjha Jones**, **Candice Wiggins**, **Cheyenne Parker-Tyus**, and **Elena Baranova** for **#151** all-time in steals (career 216) — up from #155 entering today — _4:42 - 1st — DAL @ ATL_
+
 ## 2026-05-22 04:18 UTC
 
 - **DeWanna Bonner** passed **Diana Taurasi** and **Elena Delle Donne** for **#24** all-time in blocks (career 350) — _50.2 - 4th — LA @ PHX_

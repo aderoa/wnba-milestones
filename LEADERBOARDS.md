@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-22 23:42 UTC_
+_Last updated: 2026-05-22 23:43 UTC_
 
 ## Contents
 
@@ -148,7 +148,7 @@ _Last updated: 2026-05-22 23:42 UTC_
 | 127 | Svetlana Abrosimova | 2,414 |
 | 128 | Anna DeForge | 2,413 |
 | 129 | DeMya Walker | 2,379 |
-| 130 | **Rhyne Howard** 🔴 +4 | 2,362 |
+| 130 | **Rhyne Howard** 🔴 +6 | 2,364 |
 | 131 | Alex Bentley | 2,350 |
 | 132 | Merlakia Jones | 2,308 |
 | 133 | Kia Vaughn | 2,288 |
@@ -216,7 +216,7 @@ _Last updated: 2026-05-22 23:42 UTC_
 | 195 | Janell Burse | 1,580 |
 | 196 | Le'coe Willingham | 1,552 |
 | 197 | Shatori Walker-Kimbrough | 1,544 |
-| 198 | **Monique Billings** 🔴 | 1,528 |
+| 198 | **Monique Billings** 🔴 +2 | 1,530 |
 | 199 | Rebecca Allen | 1,517 |
 | 200 | Jennifer Lacy | 1,504 |
 
@@ -540,7 +540,7 @@ _Last updated: 2026-05-22 23:42 UTC_
 | 109 | Napheesa Collier | 570 |
 | 110 | Nicole Powell | 567 |
 | 111 | Loree Moore | 562 |
-| 112 | **Gabby Williams** 🔴 +1 | 555 |
+| 112 | **Gabby Williams** 🔴 +2 | 556 |
 | 113 | Sophia Young-Malcolm | 554 |
 | 113 | Tangela Smith | 554 |
 | 115 | Tamera Young | 552 |
@@ -989,11 +989,11 @@ _Last updated: 2026-05-22 23:42 UTC_
 | 148 | Shenise Johnson | 217 |
 | 149 | Adrian Williams-Strong | 216 |
 | 149 | Moriah Jefferson | 216 |
-| 151 | Asjha Jones | 215 |
-| 151 | Candice Wiggins | 215 |
-| 151 | Cheyenne Parker-Tyus | 215 |
-| 151 | Elena Baranova | 215 |
-| 151 | **Rhyne Howard** 🔴 +1 | 215 |
+| 149 | **Rhyne Howard** 🔴 +2 | 216 |
+| 152 | Asjha Jones | 215 |
+| 152 | Candice Wiggins | 215 |
+| 152 | Cheyenne Parker-Tyus | 215 |
+| 152 | Elena Baranova | 215 |
 | 156 | Kahleah Copper | 213 |
 | 156 | Shekinna Stricklen | 213 |
 | 158 | Nikki Teasley | 211 |
