@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-22 02:09 UTC
+
+- **Ariel Atkins** passed **Jordin Canada** for **#59** all-time in steals (career 370) — _7:46 - 1st — LA @ PHX_
+
 ## 2026-05-22 02:04 UTC
 
 - **Rebecca Allen** passed **Bria Hartley** for **#87** all-time in three-pointers (career 254) — up from #88 entering today — _1:32 - 4th — GS @ NY_

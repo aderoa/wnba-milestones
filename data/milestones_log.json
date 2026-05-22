@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-22T02:09:00+00:00",
+    "text": "Ariel Atkins passed Jordin Canada for #59 all-time in steals (career 370) \u2014 (7:46 - 1st \u2014 LA @ PHX)",
+    "kind": "rank_pass",
+    "player": "Ariel Atkins",
+    "stat": "steals",
+    "rank": 59,
+    "passed_players": [
+      "Jordin Canada"
+    ],
+    "new_total": 370
+  },
+  {
     "ts": "2026-05-22T02:04:00+00:00",
     "text": "Rebecca Allen passed Bria Hartley for #87 all-time in three-pointers (career 254) \u2014 up from #88 entering today \u2014 (1:32 - 4th \u2014 GS @ NY)",
     "kind": "rank_pass",
@@ -3032,17 +3044,5 @@
       "Sophie Cunningham"
     ],
     "new_total": 505
-  },
-  {
-    "ts": "2026-05-14T04:24:00+00:00",
-    "text": "Kelsey Plum passed Rebekkah Brunson for #68 all-time in turnovers (career 616) \u2014 up from #70 entering today \u2014 (7:49 - 4th \u2014 IND @ LA)",
-    "kind": "rank_pass",
-    "player": "Kelsey Plum",
-    "stat": "turnovers",
-    "rank": 68,
-    "passed_players": [
-      "Rebekkah Brunson"
-    ],
-    "new_total": 616
   }
 ]
