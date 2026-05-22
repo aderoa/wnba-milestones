@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-22 01:17 UTC
+
+- **Gabby Williams** passed **Teresa Weatherspoon** for **#178** all-time in rebounds (career 776) — up from #179 entering today — _7:05 - 3rd — GS @ NY_
+
 ## 2026-05-22 01:16 UTC
 
 - **Veronica Burton** passed **Leonie Fiebich** for **#193** all-time in three-pointers (career 107) — up from #196 entering today — _7:50 - 3rd — GS @ NY_

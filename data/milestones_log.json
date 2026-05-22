@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-22T01:17:00+00:00",
+    "text": "Gabby Williams passed Teresa Weatherspoon for #178 all-time in rebounds (career 776) \u2014 up from #179 entering today \u2014 (7:05 - 3rd \u2014 GS @ NY)",
+    "kind": "rank_pass",
+    "player": "Gabby Williams",
+    "stat": "rebounds",
+    "rank": 178,
+    "passed_players": [
+      "Teresa Weatherspoon"
+    ],
+    "new_total": 776
+  },
+  {
     "ts": "2026-05-22T01:16:00+00:00",
     "text": "Veronica Burton passed Leonie Fiebich for #193 all-time in three-pointers (career 107) \u2014 up from #196 entering today \u2014 (7:50 - 3rd \u2014 GS @ NY)",
     "kind": "rank_pass",
@@ -3025,17 +3037,5 @@
       "Sandrine Gruda"
     ],
     "new_total": 95
-  },
-  {
-    "ts": "2026-05-14T03:07:00+00:00",
-    "text": "Monique Billings passed Allisha Gray for #78 all-time in rebounds (career 1,348) \u2014 up from #79 entering today \u2014 (6:10 - 2nd \u2014 IND @ LA)",
-    "kind": "rank_pass",
-    "player": "Monique Billings",
-    "stat": "rebounds",
-    "rank": 78,
-    "passed_players": [
-      "Allisha Gray"
-    ],
-    "new_total": 1348
   }
 ]
