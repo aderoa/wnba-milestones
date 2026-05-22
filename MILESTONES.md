@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-22 01:50 UTC
+
+- **Kiah Stokes** passed **Teaira McCowan** for **#112** all-time in fouls (career 619) — up from #114 entering today — _5:50 - 4th — GS @ NY_
+
 ## 2026-05-22 01:44 UTC
 
 - **Kia Nurse** passed **Azurá Stevens** for **#141** all-time in points (career 2,221) — up from #146 entering today — _7:47 - 4th — TOR @ MIN_

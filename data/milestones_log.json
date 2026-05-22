@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-22T01:50:00+00:00",
+    "text": "Kiah Stokes passed Teaira McCowan for #112 all-time in fouls (career 619) \u2014 up from #114 entering today \u2014 (5:50 - 4th \u2014 GS @ NY)",
+    "kind": "rank_pass",
+    "player": "Kiah Stokes",
+    "stat": "fouls",
+    "rank": 112,
+    "passed_players": [
+      "Teaira McCowan"
+    ],
+    "new_total": 619
+  },
+  {
     "ts": "2026-05-22T01:44:00+00:00",
     "text": "Kia Nurse passed Azur\u00e1 Stevens for #141 all-time in points (career 2,221) \u2014 up from #146 entering today \u2014 (7:47 - 4th \u2014 TOR @ MIN)",
     "kind": "rank_pass",
@@ -3032,17 +3044,5 @@
       "Jackie Young"
     ],
     "new_total": 504
-  },
-  {
-    "ts": "2026-05-14T04:20:00+00:00",
-    "text": "Sophie Cunningham passed NaLyssa Smith for #192 all-time in points (career 1,678) \u2014 up from #193 entering today \u2014 (9:17 - 4th \u2014 IND @ LA)",
-    "kind": "rank_pass",
-    "player": "Sophie Cunningham",
-    "stat": "points",
-    "rank": 192,
-    "passed_players": [
-      "NaLyssa Smith"
-    ],
-    "new_total": 1678
   }
 ]
