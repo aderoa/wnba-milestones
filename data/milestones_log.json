@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-22T00:14:00+00:00",
+    "text": "Gabby Williams passed Tamecka Dixon for #171 all-time in three-pointers (career 127) \u2014 up from #172 entering today \u2014 (4:50 - 1st \u2014 GS @ NY)",
+    "kind": "rank_pass",
+    "player": "Gabby Williams",
+    "stat": "three-pointers",
+    "rank": 171,
+    "passed_players": [
+      "Tamecka Dixon"
+    ],
+    "new_total": 127
+  },
+  {
     "ts": "2026-05-22T00:13:00+00:00",
     "text": "Jonquel Jones passed Rebekkah Brunson for #55 all-time in points (career 4,134) \u2014 up from #56 entering today \u2014 (5:39 - 1st \u2014 GS @ NY)",
     "kind": "rank_pass",
@@ -3025,17 +3037,5 @@
       "Shameka Christon"
     ],
     "new_total": 206
-  },
-  {
-    "ts": "2026-05-14T00:44:00+00:00",
-    "text": "A'ja Wilson passed Armintie Herrington for #150 all-time in fouls (career 524) \u2014 up from #151 entering today \u2014 (5:56 - 2nd \u2014 LV @ CON)",
-    "kind": "rank_pass",
-    "player": "A'ja Wilson",
-    "stat": "fouls",
-    "rank": 150,
-    "passed_players": [
-      "Armintie Herrington"
-    ],
-    "new_total": 524
   }
 ]
