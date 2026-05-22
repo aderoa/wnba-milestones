@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-22 02:21 UTC_
+_Last updated: 2026-05-22 02:22 UTC_
 
 ## Contents
 
@@ -56,7 +56,7 @@ _Last updated: 2026-05-22 02:21 UTC_
 | 35 | Chamique Holdsclaw | 4,713 |
 | 36 | Elena Delle Donne | 4,706 |
 | 37 | Penny Taylor | 4,595 |
-| 38 | **Alyssa Thomas** 🔴 +2 | 4,556 |
+| 38 | **Alyssa Thomas** 🔴 +4 | 4,558 |
 | 39 | Arike Ogunbowale | 4,512 |
 | 40 | Kristi Toliver | 4,474 |
 | 41 | Chelsea Gray | 4,469 |
@@ -98,7 +98,7 @@ _Last updated: 2026-05-22 02:21 UTC_
 | 77 | Ivory Latta | 3,447 |
 | 78 | Nicole Powell | 3,407 |
 | 79 | Epiphanny Prince | 3,381 |
-| 80 | **Ariel Atkins** 🔴 +2 | 3,373 |
+| 80 | **Ariel Atkins** 🔴 +5 | 3,376 |
 | 81 | Michelle Snow | 3,361 |
 | 82 | Tamika Whitmore | 3,359 |
 | 83 | Sheri Sam | 3,353 |
@@ -1073,7 +1073,7 @@ _Last updated: 2026-05-22 02:21 UTC_
 | 26 | Breanna Stewart | 456 |
 | 27 | Marina Mabrey | 448 |
 | 27 | Tiffany Hayes | 448 |
-| 29 | **Ariel Atkins** 🔴 | 440 |
+| 29 | **Ariel Atkins** 🔴 +1 | 441 |
 | 30 | Lauren Jackson | 436 |
 | 31 | Shameka Christon | 434 |
 | 32 | Allisha Gray | 432 |
