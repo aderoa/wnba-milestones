@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-22 00:39 UTC
+
+- **Kayla Thornton** passed **Tiffany Hayes** for **#148** all-time in blocks (career 88) — _5:57 - 2nd — GS @ NY_
+
 ## 2026-05-22 00:38 UTC
 
 - **Gabby Williams** passed **Michele Timms** and **Myisha Hines-Allen** for **#169** all-time in three-pointers (career 128) — up from #172 entering today — _6:28 - 2nd — GS @ NY_
