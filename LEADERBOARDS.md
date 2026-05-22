@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-22 02:37 UTC_
+_Last updated: 2026-05-22 02:38 UTC_
 
 ## Contents
 
@@ -21,10 +21,10 @@ _Last updated: 2026-05-22 02:37 UTC_
 |-----:|--------|------:|
 | 1 | Diana Taurasi | 10,608 |
 | 2 | Tina Charles | 8,396 |
-| 3 | **DeWanna Bonner** 🔴 | 7,847 |
+| 3 | **DeWanna Bonner** 🔴 +2 | 7,849 |
 | 4 | Tina Thompson | 7,470 |
-| 5 | **Nneka Ogwumike** 🔴 | 7,371 |
-| 5 | Tamika Catchings | 7,371 |
+| 5 | **Nneka Ogwumike** 🔴 +6 | 7,377 |
+| 6 | Tamika Catchings | 7,371 |
 | 7 | Candice Dupree | 6,861 |
 | 8 | Sue Bird | 6,802 |
 | 9 | Cappie Pondexter | 6,781 |
@@ -452,13 +452,13 @@ _Last updated: 2026-05-22 02:37 UTC_
 | 21 | Dawn Staley | 1,337 |
 | 22 | Teresa Weatherspoon | 1,333 |
 | 23 | Kristi Toliver | 1,301 |
-| 24 | **Erica Wheeler** 🔴 +1 | 1,276 |
+| 24 | **Erica Wheeler** 🔴 +2 | 1,277 |
 | 25 | Katie Smith | 1,258 |
-| 26 | **Kelsey Plum** 🔴 +1 | 1,216 |
+| 26 | **Kelsey Plum** 🔴 | 1,215 |
 | 27 | Odyssey Sims | 1,210 |
 | 28 | Vickie Johnson | 1,202 |
 | 29 | Leilani Mitchell | 1,197 |
-| 30 | **DeWanna Bonner** 🔴 | 1,183 |
+| 30 | **DeWanna Bonner** 🔴 +1 | 1,184 |
 | 31 | Jordin Canada | 1,155 |
 | 32 | Jewell Loyd | 1,141 |
 | 33 | Renee Montgomery | 1,140 |
@@ -516,7 +516,7 @@ _Last updated: 2026-05-22 02:37 UTC_
 | 85 | Nykesha Sales | 677 |
 | 86 | Bria Hartley | 661 |
 | 87 | Lindsay Allen | 657 |
-| 88 | **Ariel Atkins** 🔴 +1 | 652 |
+| 88 | **Ariel Atkins** 🔴 +2 | 653 |
 | 89 | Betty Lennox | 651 |
 | 89 | Plenette Pierson | 651 |
 | 91 | Alex Bentley | 645 |
@@ -747,9 +747,9 @@ _Last updated: 2026-05-22 02:37 UTC_
 | 109 | Sophia Young-Malcolm | 111 |
 | 109 | Tari Phillips | 111 |
 | 113 | **Ariel Atkins** 🔴 +1 | 110 |
-| 114 | **Natasha Mack** 🔴 +1 | 109 |
-| 115 | Erin Perperoglou | 108 |
-| 115 | Glory Johnson | 108 |
+| 114 | Erin Perperoglou | 108 |
+| 114 | Glory Johnson | 108 |
+| 114 | **Natasha Mack** 🔴 | 108 |
 | 117 | Shakira Austin | 106 |
 | 117 | Sylvia Crawley | 106 |
 | 119 | Carolyn Swords | 104 |
@@ -845,8 +845,8 @@ _Last updated: 2026-05-22 02:37 UTC_
 | 4 | Alana Beard | 710 |
 | 5 | **Nneka Ogwumike** 🔴 | 673 |
 | 6 | Sheryl Swoopes | 657 |
+| 7 | **DeWanna Bonner** 🔴 +1 | 634 |
 | 7 | Jia Perkins | 634 |
-| 8 | **DeWanna Bonner** 🔴 | 633 |
 | 9 | Sancho Lyttle | 630 |
 | 10 | Angel McCoughtry | 627 |
 | 11 | Katie Douglas | 623 |
@@ -1135,10 +1135,10 @@ _Last updated: 2026-05-22 02:37 UTC_
 | 88 | Bria Hartley | 253 |
 | 89 | Angel McCoughtry | 249 |
 | 90 | Erin Thorn | 243 |
-| 91 | Alex Bentley | 239 |
-| 91 | Cynthia Cooper | 239 |
-| 93 | Azurá Stevens | 238 |
-| 93 | **Nneka Ogwumike** 🔴 | 238 |
+| 91 | **Nneka Ogwumike** 🔴 +2 | 240 |
+| 92 | Alex Bentley | 239 |
+| 92 | Cynthia Cooper | 239 |
+| 94 | Azurá Stevens | 238 |
 | 95 | Brittney Sykes | 237 |
 | 96 | Svetlana Abrosimova | 235 |
 | 96 | Tangela Smith | 235 |
@@ -1280,7 +1280,7 @@ _Last updated: 2026-05-22 02:37 UTC_
 | 28 | Natasha Howard | 808 |
 | 29 | Betty Lennox | 800 |
 | 30 | Jasmine Thomas | 796 |
-| 31 | **Nneka Ogwumike** 🔴 | 791 |
+| 31 | **Nneka Ogwumike** 🔴 +1 | 792 |
 | 32 | Chamique Holdsclaw | 789 |
 | 33 | Jewell Loyd | 785 |
 | 34 | Crystal Langhorne | 782 |
