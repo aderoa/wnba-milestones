@@ -2,6 +2,11 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-22 02:13 UTC
+
+- **Ariel Atkins** passed **Betty Lennox** and **Plenette Pierson** for **#89** all-time in assists (career 652) — _5:50 - 1st — LA @ PHX_
+- **Ariel Atkins** passed **Mwadi Mabika** for **#57** all-time in steals (career 371) — up from #58 entering today — _5:50 - 1st — LA @ PHX_
+
 ## 2026-05-22 02:09 UTC
 
 - **Ariel Atkins** passed **Jordin Canada** for **#59** all-time in steals (career 370) — _7:46 - 1st — LA @ PHX_

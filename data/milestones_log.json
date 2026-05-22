@@ -1,5 +1,30 @@
 [
   {
+    "ts": "2026-05-22T02:13:00+00:00",
+    "text": "Ariel Atkins passed Betty Lennox and Plenette Pierson for #89 all-time in assists (career 652) \u2014 (5:50 - 1st \u2014 LA @ PHX)",
+    "kind": "rank_pass",
+    "player": "Ariel Atkins",
+    "stat": "assists",
+    "rank": 89,
+    "passed_players": [
+      "Betty Lennox",
+      "Plenette Pierson"
+    ],
+    "new_total": 652
+  },
+  {
+    "ts": "2026-05-22T02:13:00+00:00",
+    "text": "Ariel Atkins passed Mwadi Mabika for #57 all-time in steals (career 371) \u2014 up from #58 entering today \u2014 (5:50 - 1st \u2014 LA @ PHX)",
+    "kind": "rank_pass",
+    "player": "Ariel Atkins",
+    "stat": "steals",
+    "rank": 57,
+    "passed_players": [
+      "Mwadi Mabika"
+    ],
+    "new_total": 371
+  },
+  {
     "ts": "2026-05-22T02:09:00+00:00",
     "text": "Ariel Atkins passed Jordin Canada for #59 all-time in steals (career 370) \u2014 (7:46 - 1st \u2014 LA @ PHX)",
     "kind": "rank_pass",
@@ -3017,32 +3042,5 @@
       "Katie Smith"
     ],
     "new_total": 1259
-  },
-  {
-    "ts": "2026-05-14T04:39:00+00:00",
-    "text": "Cameron Brink passed Eva Nemcova for #200 all-time in blocks (career 64) \u2014 new to top 200 today \u2014 (2:26 - 4th \u2014 IND @ LA)",
-    "kind": "rank_pass",
-    "player": "Cameron Brink",
-    "stat": "blocks",
-    "rank": 200,
-    "passed_players": [
-      "Eva Nemcova"
-    ],
-    "new_total": 64
-  },
-  {
-    "ts": "2026-05-14T04:28:00+00:00",
-    "text": "Monique Billings passed Allison Feaster, Erin Perperoglou, Napheesa Collier, and Sophie Cunningham for #165 all-time in fouls (career 505) \u2014 up from #171 entering today \u2014 (6:37 - 4th \u2014 IND @ LA)",
-    "kind": "rank_pass",
-    "player": "Monique Billings",
-    "stat": "fouls",
-    "rank": 165,
-    "passed_players": [
-      "Allison Feaster",
-      "Erin Perperoglou",
-      "Napheesa Collier",
-      "Sophie Cunningham"
-    ],
-    "new_total": 505
   }
 ]

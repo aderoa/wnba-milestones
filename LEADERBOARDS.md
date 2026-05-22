@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-22 02:12 UTC_
+_Last updated: 2026-05-22 02:13 UTC_
 
 ## Contents
 
@@ -516,9 +516,9 @@ _Last updated: 2026-05-22 02:12 UTC_
 | 85 | Nykesha Sales | 677 |
 | 86 | Bria Hartley | 661 |
 | 87 | Lindsay Allen | 657 |
-| 88 | **Ariel Atkins** 🔴 | 651 |
-| 88 | Betty Lennox | 651 |
-| 88 | Plenette Pierson | 651 |
+| 88 | **Ariel Atkins** 🔴 +1 | 652 |
+| 89 | Betty Lennox | 651 |
+| 89 | Plenette Pierson | 651 |
 | 91 | Alex Bentley | 645 |
 | 92 | Asjha Jones | 637 |
 | 93 | Jennifer Azzi | 636 |
@@ -895,8 +895,8 @@ _Last updated: 2026-05-22 02:12 UTC_
 | 54 | Monique Currie | 378 |
 | 54 | Tiffany Hayes | 378 |
 | 56 | Chamique Holdsclaw | 376 |
-| 57 | **Ariel Atkins** 🔴 +1 | 370 |
-| 57 | Mwadi Mabika | 370 |
+| 57 | **Ariel Atkins** 🔴 +2 | 371 |
+| 58 | Mwadi Mabika | 370 |
 | 59 | Jordin Canada | 369 |
 | 60 | Brittney Sykes | 362 |
 | 61 | Lauren Jackson | 360 |
@@ -956,7 +956,7 @@ _Last updated: 2026-05-22 02:12 UTC_
 | 115 | Michelle Snow | 262 |
 | 116 | Karima Christmas-Kelly | 261 |
 | 117 | Riquna Williams | 260 |
-| 118 | **Kelsey Plum** 🔴 +1 | 259 |
+| 118 | **Kelsey Plum** 🔴 | 258 |
 | 119 | Kayla Thornton | 256 |
 | 119 | Noelle Quinn | 256 |
 | 121 | Elaine Powell | 255 |
@@ -1551,7 +1551,7 @@ _Last updated: 2026-05-22 02:12 UTC_
 | 93 | Temeka Johnson | 680 |
 | 95 | Brittney Sykes | 677 |
 | 96 | Kelly Miller | 676 |
-| 97 | **Kelsey Plum** 🔴 | 672 |
+| 97 | **Kelsey Plum** 🔴 +1 | 673 |
 | 98 | Chamique Holdsclaw | 667 |
 | 99 | Cheyenne Parker-Tyus | 666 |
 | 100 | Tianna Hawkins | 662 |
