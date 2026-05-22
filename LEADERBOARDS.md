@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-22 01:43 UTC_
+_Last updated: 2026-05-22 01:44 UTC_
 
 ## Contents
 
@@ -73,7 +73,7 @@ _Last updated: 2026-05-22 01:43 UTC_
 | 52 | Yolanda Griffith | 4,224 |
 | 53 | Dearica Hamby | 4,158 |
 | 54 | Kahleah Copper | 4,154 |
-| 55 | **Jonquel Jones** 🔴 +15 | 4,147 |
+| 55 | **Jonquel Jones** 🔴 +16 | 4,148 |
 | 56 | **Courtney Williams** 🔴 +12 | 4,136 |
 | 57 | Rebekkah Brunson | 4,133 |
 | 58 | Asjha Jones | 3,986 |
@@ -159,8 +159,8 @@ _Last updated: 2026-05-22 01:43 UTC_
 | 138 | Kara Braxton | 2,237 |
 | 138 | Matee Ajavon | 2,237 |
 | 140 | Dawn Staley | 2,228 |
-| 141 | Azurá Stevens | 2,219 |
-| 142 | **Kia Nurse** 🔴 +14 | 2,218 |
+| 141 | **Kia Nurse** 🔴 +17 | 2,221 |
+| 142 | Azurá Stevens | 2,219 |
 | 143 | Janel McCarville | 2,215 |
 | 143 | Teaira McCowan | 2,215 |
 | 145 | Sami Whitcomb | 2,211 |
@@ -265,7 +265,7 @@ _Last updated: 2026-05-22 01:43 UTC_
 | 39 | Lindsay Whalen | 1,805 |
 | 40 | Camille Smith | 1,802 |
 | 41 | **Courtney Williams** 🔴 +8 | 1,774 |
-| 42 | **Kiah Stokes** 🔴 +1 | 1,761 |
+| 42 | **Kiah Stokes** 🔴 +2 | 1,762 |
 | 43 | Asjha Jones | 1,751 |
 | 44 | Teaira McCowan | 1,670 |
 | 45 | Stefanie Dolson | 1,667 |
@@ -553,7 +553,7 @@ _Last updated: 2026-05-22 01:43 UTC_
 | 122 | Iziane Castro Marques | 509 |
 | 123 | Brittany Boyd-Jones | 508 |
 | 123 | Chasity Melvin | 508 |
-| 125 | **Veronica Burton** 🔴 +6 | 507 |
+| 123 | **Veronica Burton** 🔴 +7 | 508 |
 | 126 | Anna DeForge | 503 |
 | 126 | Coco Miller | 503 |
 | 128 | Rachel Banham | 498 |
@@ -1095,7 +1095,7 @@ _Last updated: 2026-05-22 01:43 UTC_
 | 48 | Rhyne Howard | 370 |
 | 49 | Epiphanny Prince | 368 |
 | 50 | **Jonquel Jones** 🔴 +1 | 362 |
-| 51 | **Kia Nurse** 🔴 +3 | 361 |
+| 50 | **Kia Nurse** 🔴 +4 | 362 |
 | 52 | Nykesha Sales | 352 |
 | 53 | Kahleah Copper | 345 |
 | 54 | Cathrine Kraayeveld | 343 |

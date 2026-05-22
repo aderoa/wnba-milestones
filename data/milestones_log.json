@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-22T01:44:00+00:00",
+    "text": "Kia Nurse passed Azur\u00e1 Stevens for #141 all-time in points (career 2,221) \u2014 up from #146 entering today \u2014 (7:47 - 4th \u2014 TOR @ MIN)",
+    "kind": "rank_pass",
+    "player": "Kia Nurse",
+    "stat": "points",
+    "rank": 141,
+    "passed_players": [
+      "Azur\u00e1 Stevens"
+    ],
+    "new_total": 2221
+  },
+  {
     "ts": "2026-05-22T01:43:00+00:00",
     "text": "Kayla Thornton passed Merlakia Jones for #188 all-time in assists (career 356) \u2014 (8:33 - 4th \u2014 GS @ NY)",
     "kind": "rank_pass",
@@ -3032,18 +3044,5 @@
       "NaLyssa Smith"
     ],
     "new_total": 1678
-  },
-  {
-    "ts": "2026-05-14T04:20:00+00:00",
-    "text": "Myisha Hines-Allen passed Nakia Sanford and Rebecca Allen for #186 all-time in steals (career 182) \u2014 (9:17 - 4th \u2014 IND @ LA)",
-    "kind": "rank_pass",
-    "player": "Myisha Hines-Allen",
-    "stat": "steals",
-    "rank": 186,
-    "passed_players": [
-      "Nakia Sanford",
-      "Rebecca Allen"
-    ],
-    "new_total": 182
   }
 ]
