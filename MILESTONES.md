@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-22 00:56 UTC
+
+- **Kayla Thornton** passed **Mwadi Mabika** for **#84** all-time in rebounds (career 1,328) — up from #86 entering today — _Halftime — GS @ NY_
+
 ## 2026-05-22 00:44 UTC
 
 - **Julie Vanloo** passed **Veronica Burton** for **#196** all-time in three-pointers (career 105) — _3:25 - 2nd — GS @ NY_
