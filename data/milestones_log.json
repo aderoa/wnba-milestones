@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-22T01:25:00+00:00",
+    "text": "Kayla Thornton passed Marissa Coleman for #146 all-time in blocks (career 89) \u2014 up from #147 entering today \u2014 (4:42 - 3rd \u2014 GS @ NY)",
+    "kind": "rank_pass",
+    "player": "Kayla Thornton",
+    "stat": "blocks",
+    "rank": 146,
+    "passed_players": [
+      "Marissa Coleman"
+    ],
+    "new_total": 89
+  },
+  {
     "ts": "2026-05-22T01:20:00+00:00",
     "text": "Kayla Thornton passed Erlana Larkins for #83 all-time in rebounds (career 1,330) \u2014 up from #86 entering today \u2014 (5:06 - 3rd \u2014 GS @ NY)",
     "kind": "rank_pass",
@@ -3025,17 +3037,5 @@
     "stat": "assists",
     "value": 500,
     "new_total": 500
-  },
-  {
-    "ts": "2026-05-14T03:18:00+00:00",
-    "text": "Elizabeth Williams passed Cheryl Ford for #33 all-time in rebounds (career 1,908) \u2014 up from #34 entering today \u2014 (4:39 - 3rd \u2014 CHI @ GS)",
-    "kind": "rank_pass",
-    "player": "Elizabeth Williams",
-    "stat": "rebounds",
-    "rank": 33,
-    "passed_players": [
-      "Cheryl Ford"
-    ],
-    "new_total": 1908
   }
 ]

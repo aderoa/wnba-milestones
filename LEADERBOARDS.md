@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-22 01:24 UTC_
+_Last updated: 2026-05-22 01:25 UTC_
 
 ## Contents
 
@@ -60,7 +60,7 @@ _Last updated: 2026-05-22 01:24 UTC_
 | 39 | Arike Ogunbowale | 4,512 |
 | 40 | Kristi Toliver | 4,474 |
 | 41 | Chelsea Gray | 4,469 |
-| 42 | **Natasha Howard** 🔴 +11 | 4,441 |
+| 42 | **Natasha Howard** 🔴 +13 | 4,443 |
 | 43 | Crystal Langhorne | 4,433 |
 | 43 | Jia Perkins | 4,433 |
 | 45 | Courtney Vandersloot | 4,352 |
@@ -264,7 +264,7 @@ _Last updated: 2026-05-22 01:24 UTC_
 | 38 | Sophia Young-Malcolm | 1,807 |
 | 39 | Lindsay Whalen | 1,805 |
 | 40 | Camille Smith | 1,802 |
-| 41 | **Courtney Williams** 🔴 +7 | 1,773 |
+| 41 | **Courtney Williams** 🔴 +8 | 1,774 |
 | 42 | **Kiah Stokes** 🔴 +2 | 1,762 |
 | 43 | Asjha Jones | 1,751 |
 | 44 | Teaira McCowan | 1,670 |
@@ -401,8 +401,8 @@ _Last updated: 2026-05-22 01:24 UTC_
 | 174 | Sue Wicks | 780 |
 | 176 | Lindsey Harding | 779 |
 | 177 | Tiffani Johnson | 778 |
-| 178 | **Gabby Williams** 🔴 +2 | 776 |
-| 179 | Teresa Weatherspoon | 775 |
+| 178 | **Gabby Williams** 🔴 +1 | 775 |
+| 178 | Teresa Weatherspoon | 775 |
 | 180 | Anna DeForge | 769 |
 | 180 | Kelsey Bone | 769 |
 | 180 | Tan White | 769 |
@@ -779,8 +779,8 @@ _Last updated: 2026-05-22 01:24 UTC_
 | 141 | NaLyssa Smith | 91 |
 | 144 | Allie Quigley | 90 |
 | 145 | Alysha Clark | 89 |
-| 146 | **Kayla Thornton** 🔴 +1 | 88 |
-| 146 | Marissa Coleman | 88 |
+| 145 | **Kayla Thornton** 🔴 +2 | 89 |
+| 147 | Marissa Coleman | 88 |
 | 148 | **Tiffany Hayes** 🔴 | 87 |
 | 149 | Astou Ndiaye-Diatta | 86 |
 | 150 | Adrian Williams-Strong | 85 |

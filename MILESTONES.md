@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-22 01:25 UTC
+
+- **Kayla Thornton** passed **Marissa Coleman** for **#146** all-time in blocks (career 89) — up from #147 entering today — _4:42 - 3rd — GS @ NY_
+
 ## 2026-05-22 01:20 UTC
 
 - **Kayla Thornton** passed **Erlana Larkins** for **#83** all-time in rebounds (career 1,330) — up from #86 entering today — _5:06 - 3rd — GS @ NY_
