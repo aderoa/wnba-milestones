@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-22 01:14 UTC_
+_Last updated: 2026-05-22 01:15 UTC_
 
 ## Contents
 
@@ -401,8 +401,8 @@ _Last updated: 2026-05-22 01:14 UTC_
 | 174 | Sue Wicks | 780 |
 | 176 | Lindsey Harding | 779 |
 | 177 | Tiffani Johnson | 778 |
+| 178 | **Gabby Williams** 🔴 +1 | 775 |
 | 178 | Teresa Weatherspoon | 775 |
-| 179 | **Gabby Williams** 🔴 | 774 |
 | 180 | Anna DeForge | 769 |
 | 180 | Kelsey Bone | 769 |
 | 180 | Tan White | 769 |
@@ -553,7 +553,7 @@ _Last updated: 2026-05-22 01:14 UTC_
 | 122 | Iziane Castro Marques | 509 |
 | 123 | Brittany Boyd-Jones | 508 |
 | 123 | Chasity Melvin | 508 |
-| 125 | **Veronica Burton** 🔴 +5 | 506 |
+| 125 | **Veronica Burton** 🔴 +6 | 507 |
 | 126 | Anna DeForge | 503 |
 | 126 | Coco Miller | 503 |
 | 128 | Rachel Banham | 498 |
@@ -1559,7 +1559,7 @@ _Last updated: 2026-05-22 01:14 UTC_
 | 101 | Jewell Loyd | 657 |
 | 103 | Tari Phillips | 648 |
 | 104 | Marie Ferdinand-Harris | 646 |
-| 105 | **Kayla Thornton** 🔴 | 644 |
+| 105 | **Kayla Thornton** 🔴 +1 | 645 |
 | 106 | Charlotte Smith | 638 |
 | 107 | Janell Burse | 632 |
 | 108 | Nicole Ohlde | 631 |
