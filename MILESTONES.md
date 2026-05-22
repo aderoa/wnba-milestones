@@ -2,6 +2,12 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-22 00:08 UTC
+
+- **Gabby Williams** passed **Sophia Young-Malcolm** and **Tangela Smith** for **#113** all-time in assists (career 555) — _8:40 - 1st — GS @ NY_
+- **Veronica Burton** passed **Julie Vanloo** for **#195** all-time in three-pointers (career 105) — up from #196 entering today — _8:40 - 1st — GS @ NY_
+- **Jonquel Jones** reached **2,600** career rebounds (now 2,600) — _8:40 - 1st — GS @ NY_
+
 ## 2026-05-21 03:24 UTC
 
 - **Skylar Diggins** reached **800** career fouls (now 800) — _28.2 - 4th — DAL @ CHI_

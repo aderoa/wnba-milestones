@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-22 00:07 UTC_
+_Last updated: 2026-05-22 00:08 UTC_
 
 ## Contents
 
@@ -60,9 +60,9 @@ _Last updated: 2026-05-22 00:07 UTC_
 | 39 | Arike Ogunbowale | 4,512 |
 | 40 | Kristi Toliver | 4,474 |
 | 41 | Chelsea Gray | 4,469 |
-| 42 | Crystal Langhorne | 4,433 |
-| 42 | Jia Perkins | 4,433 |
-| 44 | **Natasha Howard** 🔴 +2 | 4,432 |
+| 42 | **Natasha Howard** 🔴 +6 | 4,436 |
+| 43 | Crystal Langhorne | 4,433 |
+| 43 | Jia Perkins | 4,433 |
 | 45 | Courtney Vandersloot | 4,352 |
 | 46 | Kelsey Plum | 4,314 |
 | 47 | Sophia Young-Malcolm | 4,300 |
@@ -236,7 +236,7 @@ _Last updated: 2026-05-22 00:07 UTC_
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | Alyssa Thomas | 2,770 |
-| 13 | **Jonquel Jones** 🔴 | 2,599 |
+| 13 | **Jonquel Jones** 🔴 +1 | 2,600 |
 | 14 | Sancho Lyttle | 2,596 |
 | 15 | DeLisha Milton-Jones | 2,574 |
 | 16 | Brittney Griner | 2,537 |
@@ -385,11 +385,11 @@ _Last updated: 2026-05-22 00:07 UTC_
 | 159 | Essence Carson | 833 |
 | 160 | Kristi Toliver | 829 |
 | 161 | Marie Ferdinand-Harris | 828 |
-| 162 | **Marina Mabrey** 🔴 | 827 |
+| 161 | **Marina Mabrey** 🔴 +1 | 828 |
 | 163 | Marlies Askamp | 822 |
-| 164 | Amanda Zahui B | 819 |
-| 164 | Barbara Farris | 819 |
-| 164 | **Nia Coffey** 🔴 | 819 |
+| 164 | **Nia Coffey** 🔴 +1 | 820 |
+| 165 | Amanda Zahui B | 819 |
+| 165 | Barbara Farris | 819 |
 | 167 | Carolyn Swords | 814 |
 | 168 | Tierra Ruffin-Pratt | 799 |
 | 169 | Charlotte Smith | 794 |
@@ -474,7 +474,7 @@ _Last updated: 2026-05-22 00:07 UTC_
 | 43 | Tina Charles | 1,033 |
 | 44 | Nikki Teasley | 982 |
 | 45 | Tamecka Dixon | 960 |
-| 46 | **Kayla McBride** 🔴 | 952 |
+| 46 | **Kayla McBride** 🔴 +1 | 953 |
 | 47 | Kara Lawson | 946 |
 | 48 | **Breanna Stewart** 🔴 | 938 |
 | 49 | Deanna Nolan | 930 |
@@ -527,7 +527,7 @@ _Last updated: 2026-05-22 00:07 UTC_
 | 96 | Sami Whitcomb | 623 |
 | 97 | Alysha Clark | 614 |
 | 98 | Debbie Black | 612 |
-| 99 | **Jonquel Jones** 🔴 | 608 |
+| 99 | **Jonquel Jones** 🔴 +1 | 609 |
 | 100 | Cynthia Cooper | 602 |
 | 101 | Natisha Hiedeman | 594 |
 | 102 | Sancho Lyttle | 592 |
@@ -540,9 +540,9 @@ _Last updated: 2026-05-22 00:07 UTC_
 | 109 | Napheesa Collier | 570 |
 | 110 | Nicole Powell | 567 |
 | 111 | Loree Moore | 562 |
-| 112 | **Gabby Williams** 🔴 | 554 |
-| 112 | Sophia Young-Malcolm | 554 |
-| 112 | Tangela Smith | 554 |
+| 112 | **Gabby Williams** 🔴 +1 | 555 |
+| 113 | Sophia Young-Malcolm | 554 |
+| 113 | Tangela Smith | 554 |
 | 115 | Tamera Young | 552 |
 | 116 | Janel McCarville | 551 |
 | 116 | Svetlana Abrosimova | 551 |
@@ -1239,8 +1239,8 @@ _Last updated: 2026-05-22 00:07 UTC_
 | 192 | Layshia Clarendon | 107 |
 | 193 | Leonie Fiebich | 106 |
 | 194 | Laurie Koehn | 105 |
-| 195 | Julie Vanloo | 104 |
-| 195 | **Veronica Burton** 🔴 | 104 |
+| 194 | **Veronica Burton** 🔴 +1 | 105 |
+| 196 | Julie Vanloo | 104 |
 | 197 | Jeanette Pohlen-Mavunga | 103 |
 | 197 | Kiesha Brown | 103 |
 | 199 | Adrienne Johnson | 102 |
