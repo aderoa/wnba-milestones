@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-22 03:38 UTC
+
+- **Kahleah Copper** passed **Shekinna Stricklen** for **#157** all-time in steals (career 214) — _3:30 - 3rd — LA @ PHX_
+
 ## 2026-05-22 03:35 UTC
 
 - **Cameron Brink** passed **Mercedes Russell** and **Rhonda Mapp** for **#190** all-time in blocks (career 70) — up from #192 entering today — _4:47 - 3rd — LA @ PHX_

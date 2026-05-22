@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-22T03:38:00+00:00",
+    "text": "Kahleah Copper passed Shekinna Stricklen for #157 all-time in steals (career 214) \u2014 (3:30 - 3rd \u2014 LA @ PHX)",
+    "kind": "rank_pass",
+    "player": "Kahleah Copper",
+    "stat": "steals",
+    "rank": 157,
+    "passed_players": [
+      "Shekinna Stricklen"
+    ],
+    "new_total": 214
+  },
+  {
     "ts": "2026-05-22T03:35:00+00:00",
     "text": "Cameron Brink passed Mercedes Russell and Rhonda Mapp for #190 all-time in blocks (career 70) \u2014 up from #192 entering today \u2014 (4:47 - 3rd \u2014 LA @ PHX)",
     "kind": "rank_pass",
@@ -3032,17 +3044,5 @@
       "Vicky Bullett"
     ],
     "new_total": 1190
-  },
-  {
-    "ts": "2026-05-15T01:41:00+00:00",
-    "text": "Odyssey Sims passed Matee Ajavon for #83 all-time in steals (career 329) \u2014 up from #84 entering today \u2014 (7:26 - 4th \u2014 MIN @ DAL)",
-    "kind": "rank_pass",
-    "player": "Odyssey Sims",
-    "stat": "steals",
-    "rank": 83,
-    "passed_players": [
-      "Matee Ajavon"
-    ],
-    "new_total": 329
   }
 ]
