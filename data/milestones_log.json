@@ -1,5 +1,30 @@
 [
   {
+    "ts": "2026-05-22T01:35:00+00:00",
+    "text": "Kayla Thornton passed Elaine Powell and Loree Moore for #120 all-time in steals (career 256) \u2014 up from #121 entering today \u2014 (53.8 - 3rd \u2014 GS @ NY)",
+    "kind": "rank_pass",
+    "player": "Kayla Thornton",
+    "stat": "steals",
+    "rank": 120,
+    "passed_players": [
+      "Elaine Powell",
+      "Loree Moore"
+    ],
+    "new_total": 256
+  },
+  {
+    "ts": "2026-05-22T01:35:00+00:00",
+    "text": "Satou Sabally passed Olympia Scott for #179 all-time in turnovers (career 325) \u2014 up from #180 entering today \u2014 (53.8 - 3rd \u2014 GS @ NY)",
+    "kind": "rank_pass",
+    "player": "Satou Sabally",
+    "stat": "turnovers",
+    "rank": 179,
+    "passed_players": [
+      "Olympia Scott"
+    ],
+    "new_total": 325
+  },
+  {
     "ts": "2026-05-22T01:32:00+00:00",
     "text": "Nia Coffey passed Kara Braxton for #72 all-time in blocks (career 158) \u2014 up from #73 entering today \u2014 (17.5 - 3rd \u2014 TOR @ MIN)",
     "kind": "rank_pass",
@@ -3017,29 +3042,5 @@
       "Yolanda Griffith"
     ],
     "new_total": 324
-  },
-  {
-    "ts": "2026-05-14T03:50:00+00:00",
-    "text": "Ariel Atkins passed Maya Moore for #88 all-time in fouls (career 687) \u2014 up from #90 entering today \u2014 (8:48 - 3rd \u2014 IND @ LA)",
-    "kind": "rank_pass",
-    "player": "Ariel Atkins",
-    "stat": "fouls",
-    "rank": 88,
-    "passed_players": [
-      "Maya Moore"
-    ],
-    "new_total": 687
-  },
-  {
-    "ts": "2026-05-14T03:43:00+00:00",
-    "text": "Veronica Burton passed Adrienne Johnson for #197 all-time in three-pointers (career 103) \u2014 up from #199 entering today \u2014 (5:01 - 4th \u2014 CHI @ GS)",
-    "kind": "rank_pass",
-    "player": "Veronica Burton",
-    "stat": "three-pointers",
-    "rank": 197,
-    "passed_players": [
-      "Adrienne Johnson"
-    ],
-    "new_total": 103
   }
 ]

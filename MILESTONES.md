@@ -2,6 +2,11 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-22 01:35 UTC
+
+- **Kayla Thornton** passed **Elaine Powell** and **Loree Moore** for **#120** all-time in steals (career 256) — up from #121 entering today — _53.8 - 3rd — GS @ NY_
+- **Satou Sabally** passed **Olympia Scott** for **#179** all-time in turnovers (career 325) — up from #180 entering today — _53.8 - 3rd — GS @ NY_
+
 ## 2026-05-22 01:32 UTC
 
 - **Nia Coffey** passed **Kara Braxton** for **#72** all-time in blocks (career 158) — up from #73 entering today — _17.5 - 3rd — TOR @ MIN_

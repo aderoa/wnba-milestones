@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-22 01:34 UTC_
+_Last updated: 2026-05-22 01:35 UTC_
 
 ## Contents
 
@@ -152,7 +152,7 @@ _Last updated: 2026-05-22 01:34 UTC_
 | 131 | Alex Bentley | 2,350 |
 | 132 | Merlakia Jones | 2,308 |
 | 133 | Kia Vaughn | 2,288 |
-| 134 | **Kayla Thornton** 🔴 +8 | 2,275 |
+| 134 | **Kayla Thornton** 🔴 +11 | 2,278 |
 | 135 | Betnijah Laney-Hamilton | 2,261 |
 | 136 | Allison Feaster | 2,258 |
 | 137 | Shekinna Stricklen | 2,245 |
@@ -957,10 +957,10 @@ _Last updated: 2026-05-22 01:34 UTC_
 | 116 | Karima Christmas-Kelly | 261 |
 | 117 | Riquna Williams | 260 |
 | 118 | Kelsey Plum | 258 |
+| 119 | **Kayla Thornton** 🔴 +1 | 256 |
 | 119 | Noelle Quinn | 256 |
-| 120 | Elaine Powell | 255 |
-| 120 | **Kayla Thornton** 🔴 | 255 |
-| 120 | Loree Moore | 255 |
+| 121 | Elaine Powell | 255 |
+| 121 | Loree Moore | 255 |
 | 123 | Ruthie Bolton | 254 |
 | 124 | Hamchetou Maiga-Ba | 251 |
 | 124 | Tamika Whitmore | 251 |
@@ -1428,8 +1428,8 @@ _Last updated: 2026-05-22 01:34 UTC_
 | 176 | Erlana Larkins | 326 |
 | 176 | Rita Williams | 326 |
 | 178 | Le'coe Willingham | 325 |
-| 179 | Olympia Scott | 324 |
-| 179 | **Satou Sabally** 🔴 +1 | 324 |
+| 178 | **Satou Sabally** 🔴 +2 | 325 |
+| 180 | Olympia Scott | 324 |
 | 181 | **Kia Nurse** 🔴 +1 | 316 |
 | 182 | Barbara Farris | 315 |
 | 183 | Moriah Jefferson | 314 |
