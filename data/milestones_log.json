@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-22T01:57:00+00:00",
+    "text": "Gabby Williams passed Ticha Penicheiro for #168 all-time in three-pointers (career 129) \u2014 up from #172 entering today \u2014 (4:10 - 4th \u2014 GS @ NY)",
+    "kind": "rank_pass",
+    "player": "Gabby Williams",
+    "stat": "three-pointers",
+    "rank": 168,
+    "passed_players": [
+      "Ticha Penicheiro"
+    ],
+    "new_total": 129
+  },
+  {
     "ts": "2026-05-22T01:50:00+00:00",
     "text": "Kiah Stokes passed Teaira McCowan for #112 all-time in fouls (career 619) \u2014 up from #114 entering today \u2014 (5:50 - 4th \u2014 GS @ NY)",
     "kind": "rank_pass",
@@ -3032,17 +3044,5 @@
       "Vickie Johnson"
     ],
     "new_total": 661
-  },
-  {
-    "ts": "2026-05-14T04:21:00+00:00",
-    "text": "Monique Billings passed Jackie Young for #169 all-time in fouls (career 504) \u2014 up from #171 entering today \u2014 (8:56 - 4th \u2014 IND @ LA)",
-    "kind": "rank_pass",
-    "player": "Monique Billings",
-    "stat": "fouls",
-    "rank": 169,
-    "passed_players": [
-      "Jackie Young"
-    ],
-    "new_total": 504
   }
 ]

@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-22 01:57 UTC
+
+- **Gabby Williams** passed **Ticha Penicheiro** for **#168** all-time in three-pointers (career 129) — up from #172 entering today — _4:10 - 4th — GS @ NY_
+
 ## 2026-05-22 01:50 UTC
 
 - **Kiah Stokes** passed **Teaira McCowan** for **#112** all-time in fouls (career 619) — up from #114 entering today — _5:50 - 4th — GS @ NY_
