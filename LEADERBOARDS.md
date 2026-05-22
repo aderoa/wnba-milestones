@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-22 01:35 UTC_
+_Last updated: 2026-05-22 01:36 UTC_
 
 ## Contents
 
@@ -236,7 +236,7 @@ _Last updated: 2026-05-22 01:35 UTC_
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | Alyssa Thomas | 2,770 |
-| 13 | **Jonquel Jones** 🔴 +7 | 2,606 |
+| 13 | **Jonquel Jones** 🔴 +8 | 2,607 |
 | 14 | Sancho Lyttle | 2,596 |
 | 15 | DeLisha Milton-Jones | 2,574 |
 | 16 | Brittney Griner | 2,537 |
@@ -306,8 +306,8 @@ _Last updated: 2026-05-22 01:35 UTC_
 | 80 | Jewell Loyd | 1,347 |
 | 81 | Elena Baranova | 1,335 |
 | 82 | Brionna Jones | 1,333 |
-| 83 | Erlana Larkins | 1,329 |
-| 83 | **Kayla Thornton** 🔴 +4 | 1,329 |
+| 83 | **Kayla Thornton** 🔴 +5 | 1,330 |
+| 84 | Erlana Larkins | 1,329 |
 | 85 | Mwadi Mabika | 1,327 |
 | 86 | Jayne Appel Marinelli | 1,326 |
 | 87 | Betty Lennox | 1,296 |
@@ -370,7 +370,7 @@ _Last updated: 2026-05-22 01:35 UTC_
 | 144 | Merlakia Jones | 927 |
 | 145 | Nicky Anosike | 922 |
 | 146 | Janeth Arcain | 916 |
-| 147 | **Satou Sabally** 🔴 +3 | 915 |
+| 146 | **Satou Sabally** 🔴 +4 | 916 |
 | 148 | Karima Christmas-Kelly | 908 |
 | 149 | Natalie Achonwa | 895 |
 | 150 | Temeka Johnson | 889 |
@@ -705,8 +705,8 @@ _Last updated: 2026-05-22 01:35 UTC_
 | 69 | Camille Smith | 169 |
 | 70 | Shameka Christon | 165 |
 | 71 | Cheryl Ford | 160 |
-| 72 | **Nia Coffey** 🔴 +1 | 158 |
-| 73 | Kara Braxton | 157 |
+| 72 | Kara Braxton | 157 |
+| 72 | **Nia Coffey** 🔴 | 157 |
 | 74 | DeMya Walker | 155 |
 | 74 | Tamika Whitmore | 155 |
 | 76 | Allisha Gray | 154 |
@@ -825,10 +825,10 @@ _Last updated: 2026-05-22 01:35 UTC_
 | 188 | Wendy Palmer | 70 |
 | 190 | Mercedes Russell | 69 |
 | 190 | Rhonda Mapp | 69 |
-| 192 | Cameron Brink | 67 |
-| 192 | Jackie Young | 67 |
-| 192 | **Satou Sabally** 🔴 | 67 |
-| 192 | Shannon Johnson | 67 |
+| 192 | **Satou Sabally** 🔴 +1 | 68 |
+| 193 | Cameron Brink | 67 |
+| 193 | Jackie Young | 67 |
+| 193 | Shannon Johnson | 67 |
 | 196 | Awak Kuier | 66 |
 | 197 | Crystal Robinson | 65 |
 | 197 | Queen Egbo | 65 |
