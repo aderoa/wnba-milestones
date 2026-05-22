@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-22 00:43 UTC_
+_Last updated: 2026-05-22 00:44 UTC_
 
 ## Contents
 
@@ -334,7 +334,7 @@ _Last updated: 2026-05-22 00:43 UTC_
 | 108 | Andrea Stinson | 1,127 |
 | 108 | Tamika Raymond | 1,127 |
 | 110 | Adrienne Goodson | 1,126 |
-| 111 | **Brittney Sykes** 🔴 +1 | 1,122 |
+| 111 | **Brittney Sykes** 🔴 +2 | 1,123 |
 | 112 | Deanna Nolan | 1,112 |
 | 113 | Chiney Ogwumike | 1,110 |
 | 114 | Becky Hammon | 1,108 |
@@ -495,7 +495,7 @@ _Last updated: 2026-05-22 00:43 UTC_
 | 64 | Lisa Leslie | 873 |
 | 65 | Tully Bevilaqua | 853 |
 | 66 | Jia Perkins | 837 |
-| 67 | **Brittney Sykes** 🔴 +1 | 833 |
+| 67 | **Brittney Sykes** 🔴 +2 | 834 |
 | 68 | Andrea Stinson | 810 |
 | 69 | Kelsey Mitchell | 805 |
 | 70 | Tina Thompson | 803 |
@@ -654,7 +654,7 @@ _Last updated: 2026-05-22 00:43 UTC_
 | 18 | Tina Thompson | 372 |
 | 19 | Erika de Souza | 370 |
 | 20 | Jessica Breland | 367 |
-| 21 | **Natasha Howard** 🔴 | 360 |
+| 21 | **Natasha Howard** 🔴 +1 | 361 |
 | 22 | Ezi Magbegor | 354 |
 | 23 | DeWanna Bonner | 349 |
 | 23 | Diana Taurasi | 349 |
@@ -1239,8 +1239,8 @@ _Last updated: 2026-05-22 00:43 UTC_
 | 192 | Layshia Clarendon | 107 |
 | 193 | Leonie Fiebich | 106 |
 | 193 | **Veronica Burton** 🔴 +2 | 106 |
+| 195 | **Julie Vanloo** 🔴 +1 | 105 |
 | 195 | Laurie Koehn | 105 |
-| 196 | **Julie Vanloo** 🔴 | 104 |
 | 197 | Jeanette Pohlen-Mavunga | 103 |
 | 197 | Kiesha Brown | 103 |
 | 199 | Adrienne Johnson | 102 |

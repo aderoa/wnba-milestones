@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-22 00:44 UTC
+
+- **Julie Vanloo** passed **Veronica Burton** for **#196** all-time in three-pointers (career 105) — _3:25 - 2nd — GS @ NY_
+
 ## 2026-05-22 00:43 UTC
 
 - **Kaila Charles** reached **500** career points (now 500) — _3:32 - 2nd — GS @ NY_
