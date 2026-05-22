@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-22 02:44 UTC_
+_Last updated: 2026-05-22 02:45 UTC_
 
 ## Contents
 
@@ -56,7 +56,7 @@ _Last updated: 2026-05-22 02:44 UTC_
 | 35 | Chamique Holdsclaw | 4,713 |
 | 36 | Elena Delle Donne | 4,706 |
 | 37 | Penny Taylor | 4,595 |
-| 38 | **Alyssa Thomas** 🔴 +7 | 4,561 |
+| 38 | **Alyssa Thomas** 🔴 +8 | 4,562 |
 | 39 | Arike Ogunbowale | 4,512 |
 | 40 | Kristi Toliver | 4,474 |
 | 41 | Chelsea Gray | 4,469 |
@@ -853,7 +853,7 @@ _Last updated: 2026-05-22 02:44 UTC_
 | 12 | DeLisha Milton-Jones | 619 |
 | 13 | Taj McWilliams-Franklin | 577 |
 | 14 | Tully Bevilaqua | 571 |
-| 15 | **Alyssa Thomas** 🔴 | 561 |
+| 15 | **Alyssa Thomas** 🔴 +1 | 562 |
 | 16 | Courtney Vandersloot | 544 |
 | 17 | Yolanda Griffith | 527 |
 | 18 | Candace Parker | 521 |
@@ -1316,7 +1316,7 @@ _Last updated: 2026-05-22 02:44 UTC_
 | 64 | Ruth Riley | 637 |
 | 65 | Kayla McBride | 631 |
 | 65 | Svetlana Abrosimova | 631 |
-| 67 | **Kelsey Plum** 🔴 +1 | 625 |
+| 67 | **Kelsey Plum** 🔴 +2 | 626 |
 | 68 | Odyssey Sims | 622 |
 | 69 | Jonquel Jones | 619 |
 | 70 | Rebekkah Brunson | 615 |
