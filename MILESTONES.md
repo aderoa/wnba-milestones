@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-22 01:41 UTC
+
+- **Kayla Thornton** passed **Marie Ferdinand-Harris** for **#104** all-time in fouls (career 647) — up from #105 entering today — _9:02 - 4th — GS @ NY_
+
 ## 2026-05-22 01:38 UTC
 
 - **Kia Nurse** passed **Janel McCarville** and **Teaira McCowan** for **#142** all-time in points (career 2,216) — up from #146 entering today — _9:16 - 4th — TOR @ MIN_

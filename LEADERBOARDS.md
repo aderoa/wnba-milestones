@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-22 01:40 UTC_
+_Last updated: 2026-05-22 01:41 UTC_
 
 ## Contents
 
@@ -32,7 +32,7 @@ _Last updated: 2026-05-22 01:40 UTC_
 | 11 | Katie Smith | 6,450 |
 | 12 | Sylvia Fowles | 6,413 |
 | 13 | Lisa Leslie | 6,251 |
-| 14 | **Breanna Stewart** 🔴 +14 | 6,091 |
+| 14 | **Breanna Stewart** 🔴 +16 | 6,093 |
 | 15 | Jewell Loyd | 6,059 |
 | 16 | Lauren Jackson | 6,005 |
 | 16 | Seimone Augustus | 6,005 |
@@ -242,7 +242,7 @@ _Last updated: 2026-05-22 01:40 UTC_
 | 16 | Brittney Griner | 2,537 |
 | 17 | A'ja Wilson | 2,522 |
 | 18 | Swin Cash | 2,521 |
-| 19 | **Breanna Stewart** 🔴 +6 | 2,516 |
+| 19 | **Breanna Stewart** 🔴 +8 | 2,518 |
 | 20 | Michelle Snow | 2,476 |
 | 21 | Crystal Langhorne | 2,454 |
 | 22 | Lauren Jackson | 2,444 |
@@ -1558,8 +1558,8 @@ _Last updated: 2026-05-22 01:40 UTC_
 | 101 | **Breanna Stewart** 🔴 +2 | 658 |
 | 102 | Jewell Loyd | 657 |
 | 103 | Tari Phillips | 648 |
-| 104 | **Kayla Thornton** 🔴 +2 | 646 |
-| 104 | Marie Ferdinand-Harris | 646 |
+| 104 | **Kayla Thornton** 🔴 +3 | 647 |
+| 105 | Marie Ferdinand-Harris | 646 |
 | 106 | Charlotte Smith | 638 |
 | 107 | Janell Burse | 632 |
 | 108 | Nicole Ohlde | 631 |

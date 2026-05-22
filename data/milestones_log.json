@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-22T01:41:00+00:00",
+    "text": "Kayla Thornton passed Marie Ferdinand-Harris for #104 all-time in fouls (career 647) \u2014 up from #105 entering today \u2014 (9:02 - 4th \u2014 GS @ NY)",
+    "kind": "rank_pass",
+    "player": "Kayla Thornton",
+    "stat": "fouls",
+    "rank": 104,
+    "passed_players": [
+      "Marie Ferdinand-Harris"
+    ],
+    "new_total": 647
+  },
+  {
     "ts": "2026-05-22T01:38:00+00:00",
     "text": "Kia Nurse passed Janel McCarville and Teaira McCowan for #142 all-time in points (career 2,216) \u2014 up from #146 entering today \u2014 (9:16 - 4th \u2014 TOR @ MIN)",
     "kind": "rank_pass",
@@ -3033,17 +3045,5 @@
       "Emma Meesseman"
     ],
     "new_total": 1351
-  },
-  {
-    "ts": "2026-05-14T04:09:00+00:00",
-    "text": "Kiah Stokes passed Svetlana Abrosimova for #116 all-time in fouls (career 614) \u2014 up from #118 entering today \u2014 (Final \u2014 CHI @ GS)",
-    "kind": "rank_pass",
-    "player": "Kiah Stokes",
-    "stat": "fouls",
-    "rank": 116,
-    "passed_players": [
-      "Svetlana Abrosimova"
-    ],
-    "new_total": 614
   }
 ]
