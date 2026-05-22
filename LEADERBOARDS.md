@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-22 23:36 UTC_
+_Last updated: 2026-05-22 23:37 UTC_
 
 ## Contents
 
@@ -165,8 +165,8 @@ _Last updated: 2026-05-22 23:36 UTC_
 | 144 | Sami Whitcomb | 2,211 |
 | 145 | Sophia Witherspoon | 2,210 |
 | 146 | Kia Nurse | 2,204 |
-| 147 | Ruthie Bolton | 2,175 |
-| 148 | **Jordin Canada** 🔴 | 2,174 |
+| 147 | **Jordin Canada** 🔴 +2 | 2,176 |
+| 148 | Ruthie Bolton | 2,175 |
 | 149 | Ann Wauters | 2,170 |
 | 150 | Layshia Clarendon | 2,168 |
 | 151 | Satou Sabally | 2,161 |
@@ -342,7 +342,7 @@ _Last updated: 2026-05-22 23:36 UTC_
 | 116 | Natasha Cloud | 1,093 |
 | 117 | NaLyssa Smith | 1,081 |
 | 118 | Svetlana Abrosimova | 1,078 |
-| 119 | **Aliyah Boston** 🔴 | 1,066 |
+| 119 | **Aliyah Boston** 🔴 +1 | 1,067 |
 | 120 | Le'coe Willingham | 1,054 |
 | 121 | Isabelle Harrison | 1,049 |
 | 122 | Nicole Ohlde | 1,040 |
@@ -376,8 +376,8 @@ _Last updated: 2026-05-22 23:36 UTC_
 | 150 | Temeka Johnson | 889 |
 | 151 | Mistie Bass | 888 |
 | 152 | Shameka Christon | 867 |
-| 153 | **Angel Reese** 🔴 +1 | 862 |
-| 153 | Krystal Thomas | 862 |
+| 153 | **Angel Reese** 🔴 +2 | 863 |
+| 154 | Krystal Thomas | 862 |
 | 155 | Erica Wheeler | 858 |
 | 156 | **Alanna Smith** 🔴 | 847 |
 | 157 | Leilani Mitchell | 845 |
@@ -394,8 +394,8 @@ _Last updated: 2026-05-22 23:36 UTC_
 | 168 | Tierra Ruffin-Pratt | 799 |
 | 169 | Charlotte Smith | 794 |
 | 170 | Betnijah Laney-Hamilton | 792 |
-| 171 | **Naz Hillmon** 🔴 | 788 |
-| 171 | Rhonda Mapp | 788 |
+| 171 | **Naz Hillmon** 🔴 +1 | 789 |
+| 172 | Rhonda Mapp | 788 |
 | 173 | Mercedes Russell | 786 |
 | 174 | **Odyssey Sims** 🔴 | 780 |
 | 174 | Sue Wicks | 780 |
@@ -1174,8 +1174,8 @@ _Last updated: 2026-05-22 23:36 UTC_
 | 127 | Amanda Lassiter | 170 |
 | 128 | Shavonte Zellous | 167 |
 | 128 | Tianna Hawkins | 167 |
+| 130 | **Caitlin Clark** 🔴 +1 | 164 |
 | 130 | Charlotte Smith | 164 |
-| 131 | **Caitlin Clark** 🔴 | 163 |
 | 132 | Ukari Figgs | 162 |
 | 133 | Edna Campbell | 161 |
 | 133 | Tyasha Harris | 161 |
