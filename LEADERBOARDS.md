@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-22 04:30 UTC_
+_Last updated: 2026-05-22 04:31 UTC_
 
 ## Contents
 
@@ -747,9 +747,9 @@ _Last updated: 2026-05-22 04:30 UTC_
 | 109 | Sophia Young-Malcolm | 111 |
 | 109 | Tari Phillips | 111 |
 | 113 | Ariel Atkins | 110 |
-| 114 | Natasha Mack | 109 |
-| 115 | Erin Perperoglou | 108 |
-| 115 | Glory Johnson | 108 |
+| 114 | Erin Perperoglou | 108 |
+| 114 | Glory Johnson | 108 |
+| 114 | Natasha Mack | 108 |
 | 117 | Shakira Austin | 106 |
 | 117 | Sylvia Crawley | 106 |
 | 119 | Carolyn Swords | 104 |
@@ -1306,7 +1306,7 @@ _Last updated: 2026-05-22 04:30 UTC_
 | 53 | Natasha Cloud | 673 |
 | 55 | Tammy Sutton-Brown | 672 |
 | 56 | Deanna Nolan | 669 |
-| 57 | Dearica Hamby | 668 |
+| 57 | Dearica Hamby | 667 |
 | 58 | Chasity Melvin | 666 |
 | 59 | Vickie Johnson | 660 |
 | 60 | Yolanda Griffith | 653 |
