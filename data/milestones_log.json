@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-22T03:24:00+00:00",
+    "text": "Ariel Atkins passed Epiphanny Prince for #79 all-time in points (career 3,382) \u2014 up from #80 entering today \u2014 (8:20 - 3rd \u2014 LA @ PHX)",
+    "kind": "rank_pass",
+    "player": "Ariel Atkins",
+    "stat": "points",
+    "rank": 79,
+    "passed_players": [
+      "Epiphanny Prince"
+    ],
+    "new_total": 3382
+  },
+  {
     "ts": "2026-05-22T02:46:00+00:00",
     "text": "DeWanna Bonner passed Jia Perkins for #7 all-time in steals (career 635) \u2014 up from #8 entering today \u2014 (4:56 - 2nd \u2014 LA @ PHX)",
     "kind": "rank_pass",
@@ -3031,17 +3043,5 @@
       "Dawn Staley"
     ],
     "new_total": 255
-  },
-  {
-    "ts": "2026-05-15T01:12:00+00:00",
-    "text": "Natasha Howard passed Chamique Holdsclaw for #30 all-time in turnovers (career 790) \u2014 up from #31 entering today \u2014 (6:32 - 3rd \u2014 MIN @ DAL)",
-    "kind": "rank_pass",
-    "player": "Natasha Howard",
-    "stat": "turnovers",
-    "rank": 30,
-    "passed_players": [
-      "Chamique Holdsclaw"
-    ],
-    "new_total": 790
   }
 ]

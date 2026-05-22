@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-22 03:23 UTC_
+_Last updated: 2026-05-22 03:24 UTC_
 
 ## Contents
 
@@ -21,7 +21,7 @@ _Last updated: 2026-05-22 03:23 UTC_
 |-----:|--------|------:|
 | 1 | Diana Taurasi | 10,608 |
 | 2 | Tina Charles | 8,396 |
-| 3 | **DeWanna Bonner** 🔴 +2 | 7,849 |
+| 3 | **DeWanna Bonner** 🔴 +5 | 7,852 |
 | 4 | Tina Thompson | 7,470 |
 | 5 | **Nneka Ogwumike** 🔴 +10 | 7,381 |
 | 6 | Tamika Catchings | 7,371 |
@@ -97,8 +97,8 @@ _Last updated: 2026-05-22 03:23 UTC_
 | 76 | Jackie Young | 3,468 |
 | 77 | Ivory Latta | 3,447 |
 | 78 | Nicole Powell | 3,407 |
-| 79 | Epiphanny Prince | 3,381 |
-| 80 | **Ariel Atkins** 🔴 +8 | 3,379 |
+| 79 | **Ariel Atkins** 🔴 +11 | 3,382 |
+| 80 | Epiphanny Prince | 3,381 |
 | 81 | Michelle Snow | 3,361 |
 | 82 | Tamika Whitmore | 3,359 |
 | 83 | Sheri Sam | 3,353 |
@@ -435,7 +435,7 @@ _Last updated: 2026-05-22 03:23 UTC_
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
 | 6 | Chelsea Gray | 1,903 |
-| 7 | **Alyssa Thomas** 🔴 +6 | 1,860 |
+| 7 | **Alyssa Thomas** 🔴 +7 | 1,861 |
 | 8 | Skylar Diggins | 1,785 |
 | 9 | Natasha Cloud | 1,747 |
 | 10 | Becky Hammon | 1,705 |
@@ -454,7 +454,7 @@ _Last updated: 2026-05-22 03:23 UTC_
 | 23 | Kristi Toliver | 1,301 |
 | 24 | **Erica Wheeler** 🔴 +3 | 1,278 |
 | 25 | Katie Smith | 1,258 |
-| 26 | **Kelsey Plum** 🔴 +3 | 1,218 |
+| 26 | **Kelsey Plum** 🔴 +4 | 1,219 |
 | 27 | Odyssey Sims | 1,210 |
 | 28 | Vickie Johnson | 1,202 |
 | 29 | Leilani Mitchell | 1,197 |
@@ -1054,7 +1054,7 @@ _Last updated: 2026-05-22 03:23 UTC_
 | 7 | Katie Douglas | 723 |
 | 8 | Kelsey Mitchell | 679 |
 | 9 | Jewell Loyd | 673 |
-| 10 | **DeWanna Bonner** 🔴 | 668 |
+| 10 | **DeWanna Bonner** 🔴 +1 | 669 |
 | 11 | Kristi Toliver | 651 |
 | 12 | Tamika Catchings | 605 |
 | 13 | **Kelsey Plum** 🔴 +4 | 602 |
@@ -1073,7 +1073,7 @@ _Last updated: 2026-05-22 03:23 UTC_
 | 26 | Breanna Stewart | 456 |
 | 27 | Marina Mabrey | 448 |
 | 27 | Tiffany Hayes | 448 |
-| 29 | **Ariel Atkins** 🔴 +2 | 442 |
+| 29 | **Ariel Atkins** 🔴 +3 | 443 |
 | 30 | Lauren Jackson | 436 |
 | 31 | Shameka Christon | 434 |
 | 32 | Allisha Gray | 432 |
@@ -1316,7 +1316,7 @@ _Last updated: 2026-05-22 03:23 UTC_
 | 64 | Ruth Riley | 637 |
 | 65 | Kayla McBride | 631 |
 | 65 | Svetlana Abrosimova | 631 |
-| 67 | **Kelsey Plum** 🔴 +2 | 626 |
+| 67 | **Kelsey Plum** 🔴 +3 | 627 |
 | 68 | Odyssey Sims | 622 |
 | 69 | Jonquel Jones | 619 |
 | 70 | Rebekkah Brunson | 615 |
