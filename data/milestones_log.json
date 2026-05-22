@@ -1,5 +1,14 @@
 [
   {
+    "ts": "2026-05-22T00:43:00+00:00",
+    "text": "Kaila Charles reached 500 career points (now 500) \u2014 (3:32 - 2nd \u2014 GS @ NY)",
+    "kind": "round",
+    "player": "Kaila Charles",
+    "stat": "points",
+    "value": 500,
+    "new_total": 500
+  },
+  {
     "ts": "2026-05-22T00:39:00+00:00",
     "text": "Kayla Thornton passed Tiffany Hayes for #148 all-time in blocks (career 88) \u2014 (5:57 - 2nd \u2014 GS @ NY)",
     "kind": "rank_pass",
@@ -3029,17 +3038,5 @@
       "Shenise Johnson"
     ],
     "new_total": 218
-  },
-  {
-    "ts": "2026-05-14T02:45:00+00:00",
-    "text": "Dearica Hamby passed Briann January for #50 all-time in steals (career 387) \u2014 up from #51 entering today \u2014 (5:36 - 1st \u2014 IND @ LA)",
-    "kind": "rank_pass",
-    "player": "Dearica Hamby",
-    "stat": "steals",
-    "rank": 50,
-    "passed_players": [
-      "Briann January"
-    ],
-    "new_total": 387
   }
 ]
