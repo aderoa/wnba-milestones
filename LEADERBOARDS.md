@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-22 23:41 UTC_
+_Last updated: 2026-05-22 23:42 UTC_
 
 ## Contents
 
@@ -152,7 +152,7 @@ _Last updated: 2026-05-22 23:41 UTC_
 | 131 | Alex Bentley | 2,350 |
 | 132 | Merlakia Jones | 2,308 |
 | 133 | Kia Vaughn | 2,288 |
-| 134 | **Kayla Thornton** 🔴 | 2,267 |
+| 134 | **Kayla Thornton** 🔴 +2 | 2,269 |
 | 135 | Betnijah Laney-Hamilton | 2,261 |
 | 136 | Allison Feaster | 2,258 |
 | 137 | Shekinna Stricklen | 2,245 |
@@ -192,7 +192,7 @@ _Last updated: 2026-05-22 23:41 UTC_
 | 171 | Nakia Sanford | 1,915 |
 | 172 | Ebony Hoffman | 1,909 |
 | 173 | Candice Wiggins | 1,901 |
-| 174 | Myisha Hines-Allen | 1,895 |
+| 174 | **Myisha Hines-Allen** 🔴 | 1,895 |
 | 175 | **Aliyah Boston** 🔴 | 1,834 |
 | 176 | Isabelle Harrison | 1,832 |
 | 177 | Damiris Dantas | 1,830 |
@@ -208,7 +208,7 @@ _Last updated: 2026-05-22 23:41 UTC_
 | 187 | Sugar Rodgers | 1,733 |
 | 188 | Moriah Jefferson | 1,722 |
 | 188 | NaLyssa Smith | 1,722 |
-| 190 | Sophie Cunningham | 1,705 |
+| 190 | **Sophie Cunningham** 🔴 | 1,705 |
 | 191 | Armintie Herrington | 1,696 |
 | 192 | Nikki Teasley | 1,690 |
 | 193 | Shenise Johnson | 1,688 |
@@ -319,7 +319,7 @@ _Last updated: 2026-05-22 23:41 UTC_
 | 93 | Tiffany Hayes | 1,233 |
 | 94 | Brianna Turner | 1,229 |
 | 95 | Seimone Augustus | 1,228 |
-| 96 | Myisha Hines-Allen | 1,224 |
+| 96 | **Myisha Hines-Allen** 🔴 | 1,224 |
 | 97 | Jia Perkins | 1,220 |
 | 98 | Chelsea Gray | 1,210 |
 | 99 | Kayla McBride | 1,201 |
@@ -549,7 +549,7 @@ _Last updated: 2026-05-22 23:41 UTC_
 | 118 | Michele Timms | 549 |
 | 119 | Marie Ferdinand-Harris | 528 |
 | 120 | Margo Dydek | 524 |
-| 121 | Myisha Hines-Allen | 511 |
+| 121 | **Myisha Hines-Allen** 🔴 | 511 |
 | 122 | Iziane Castro Marques | 509 |
 | 123 | Brittany Boyd-Jones | 508 |
 | 123 | Chasity Melvin | 508 |
@@ -821,7 +821,7 @@ _Last updated: 2026-05-22 23:41 UTC_
 | 182 | Sue Bird | 72 |
 | 186 | Marlies Askamp | 71 |
 | 186 | Tanisha Wright | 71 |
-| 188 | Myisha Hines-Allen | 70 |
+| 188 | **Myisha Hines-Allen** 🔴 | 70 |
 | 188 | Wendy Palmer | 70 |
 | 190 | Mercedes Russell | 69 |
 | 190 | Rhonda Mapp | 69 |
@@ -1019,7 +1019,7 @@ _Last updated: 2026-05-22 23:41 UTC_
 | 177 | Natisha Hiedeman | 187 |
 | 179 | **Alanna Smith** 🔴 | 186 |
 | 180 | Charde Houston | 185 |
-| 180 | Myisha Hines-Allen | 185 |
+| 180 | **Myisha Hines-Allen** 🔴 | 185 |
 | 180 | Tiffany Jackson | 185 |
 | 183 | Erin Perperoglou | 184 |
 | 184 | Erin Phillips | 182 |
@@ -1112,7 +1112,7 @@ _Last updated: 2026-05-22 23:41 UTC_
 | 65 | DeLisha Milton-Jones | 312 |
 | 65 | Ruthie Bolton | 312 |
 | 67 | Tan White | 311 |
-| 68 | Sophie Cunningham | 310 |
+| 68 | **Sophie Cunningham** 🔴 | 310 |
 | 69 | Kedra Holland-Corn | 307 |
 | 70 | Kelly Miller | 305 |
 | 71 | Nikki Teasley | 304 |
@@ -1214,7 +1214,7 @@ _Last updated: 2026-05-22 23:41 UTC_
 | 167 | Crystal Dangerfield | 129 |
 | 168 | Ticha Penicheiro | 128 |
 | 169 | Michele Timms | 127 |
-| 169 | Myisha Hines-Allen | 127 |
+| 169 | **Myisha Hines-Allen** 🔴 | 127 |
 | 171 | Tamecka Dixon | 126 |
 | 172 | **Gabby Williams** 🔴 | 125 |
 | 173 | Charde Houston | 124 |
@@ -1409,7 +1409,7 @@ _Last updated: 2026-05-22 23:41 UTC_
 | 157 | Anna DeForge | 374 |
 | 157 | Cheryl Ford | 374 |
 | 159 | Allison Feaster | 372 |
-| 160 | Myisha Hines-Allen | 368 |
+| 160 | **Myisha Hines-Allen** 🔴 | 368 |
 | 161 | Emma Meesseman | 367 |
 | 162 | Latasha Byears | 360 |
 | 163 | Vicky Bullett | 359 |
@@ -1615,7 +1615,7 @@ _Last updated: 2026-05-22 23:41 UTC_
 | 158 | Jantel Lavender | 513 |
 | 159 | Adrienne Goodson | 512 |
 | 159 | Janeth Arcain | 512 |
-| 159 | Sophie Cunningham | 512 |
+| 159 | **Sophie Cunningham** 🔴 | 512 |
 | 162 | Andrea Stinson | 511 |
 | 162 | **Monique Billings** 🔴 +1 | 511 |
 | 164 | Vicky Bullett | 507 |
@@ -1624,7 +1624,7 @@ _Last updated: 2026-05-22 23:41 UTC_
 | 166 | Shekinna Stricklen | 505 |
 | 168 | Allison Feaster | 504 |
 | 168 | Erin Perperoglou | 504 |
-| 168 | Myisha Hines-Allen | 504 |
+| 168 | **Myisha Hines-Allen** 🔴 | 504 |
 | 168 | Napheesa Collier | 504 |
 | 172 | Iziane Castro Marques | 502 |
 | 173 | Elena Baranova | 501 |
