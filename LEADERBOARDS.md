@@ -1316,7 +1316,7 @@ _Last updated: 2026-05-22 04:00 UTC_
 | 64 | Ruth Riley | 637 |
 | 65 | Kayla McBride | 631 |
 | 65 | Svetlana Abrosimova | 631 |
-| 67 | **Kelsey Plum** 🔴 +3 | 627 |
+| 67 | **Kelsey Plum** 🔴 +4 | 628 |
 | 68 | Odyssey Sims | 622 |
 | 69 | Jonquel Jones | 619 |
 | 70 | Rebekkah Brunson | 615 |
