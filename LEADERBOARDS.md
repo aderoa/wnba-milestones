@@ -32,7 +32,7 @@ _Last updated: 2026-05-22 01:27 UTC_
 | 11 | Katie Smith | 6,450 |
 | 12 | Sylvia Fowles | 6,413 |
 | 13 | Lisa Leslie | 6,251 |
-| 14 | **Breanna Stewart** 🔴 +13 | 6,090 |
+| 14 | **Breanna Stewart** 🔴 +14 | 6,091 |
 | 15 | Jewell Loyd | 6,059 |
 | 16 | Lauren Jackson | 6,005 |
 | 16 | Seimone Augustus | 6,005 |
@@ -998,10 +998,10 @@ _Last updated: 2026-05-22 01:27 UTC_
 | 156 | Shekinna Stricklen | 213 |
 | 158 | Nikki Teasley | 211 |
 | 159 | Iziane Castro Marques | 209 |
+| 159 | **Marina Mabrey** 🔴 +2 | 209 |
 | 159 | Tiffany Mitchell | 209 |
-| 161 | Kia Vaughn | 208 |
-| 161 | **Marina Mabrey** 🔴 +1 | 208 |
-| 161 | Sophia Witherspoon | 208 |
+| 162 | Kia Vaughn | 208 |
+| 162 | Sophia Witherspoon | 208 |
 | 164 | Shameka Christon | 205 |
 | 165 | Jessica Breland | 204 |
 | 165 | Murriel Page | 204 |
