@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-22 00:11 UTC_
+_Last updated: 2026-05-22 00:12 UTC_
 
 ## Contents
 
@@ -217,7 +217,7 @@ _Last updated: 2026-05-22 00:11 UTC_
 | 196 | Le'coe Willingham | 1,552 |
 | 197 | Shatori Walker-Kimbrough | 1,544 |
 | 198 | Monique Billings | 1,528 |
-| 199 | Rebecca Allen | 1,517 |
+| 199 | **Rebecca Allen** 🔴 | 1,517 |
 | 200 | Jennifer Lacy | 1,504 |
 
 ## Rebounds
@@ -688,7 +688,7 @@ _Last updated: 2026-05-22 00:11 UTC_
 | 52 | Ashley Robinson | 204 |
 | 52 | Asjha Jones | 204 |
 | 54 | Janel McCarville | 201 |
-| 55 | Rebecca Allen | 195 |
+| 55 | **Rebecca Allen** 🔴 | 195 |
 | 56 | Jayne Appel Marinelli | 194 |
 | 57 | Angel McCoughtry | 193 |
 | 57 | Courtney Vandersloot | 193 |
@@ -1023,7 +1023,7 @@ _Last updated: 2026-05-22 00:11 UTC_
 | 180 | Tiffany Jackson | 185 |
 | 183 | Erin Perperoglou | 184 |
 | 184 | Erin Phillips | 182 |
-| 184 | Rebecca Allen | 182 |
+| 184 | **Rebecca Allen** 🔴 | 182 |
 | 184 | Sabrina Ionescu | 182 |
 | 187 | Nakia Sanford | 181 |
 | 188 | Diamond DeShields | 180 |
@@ -1132,7 +1132,7 @@ _Last updated: 2026-05-22 00:11 UTC_
 | 84 | Sophia Witherspoon | 260 |
 | 86 | Dawn Staley | 254 |
 | 87 | Bria Hartley | 253 |
-| 87 | Rebecca Allen | 253 |
+| 87 | **Rebecca Allen** 🔴 | 253 |
 | 89 | Angel McCoughtry | 249 |
 | 90 | Erin Thorn | 243 |
 | 91 | Alex Bentley | 239 |
@@ -1318,7 +1318,7 @@ _Last updated: 2026-05-22 00:11 UTC_
 | 65 | Svetlana Abrosimova | 631 |
 | 67 | Kelsey Plum | 624 |
 | 68 | Odyssey Sims | 622 |
-| 69 | **Jonquel Jones** 🔴 | 617 |
+| 69 | **Jonquel Jones** 🔴 +1 | 618 |
 | 70 | Rebekkah Brunson | 615 |
 | 71 | Seimone Augustus | 613 |
 | 72 | Tiffany Hayes | 605 |
@@ -1499,7 +1499,7 @@ _Last updated: 2026-05-22 00:11 UTC_
 | 42 | Alysha Clark | 887 |
 | 43 | DeMya Walker | 882 |
 | 44 | Candice Dupree | 876 |
-| 45 | **Jonquel Jones** 🔴 | 875 |
+| 44 | **Jonquel Jones** 🔴 +1 | 876 |
 | 46 | Murriel Page | 872 |
 | 47 | Cappie Pondexter | 869 |
 | 48 | Erika de Souza | 858 |
