@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-22 23:40 UTC_
+_Last updated: 2026-05-22 23:41 UTC_
 
 ## Contents
 
@@ -148,7 +148,7 @@ _Last updated: 2026-05-22 23:40 UTC_
 | 127 | Svetlana Abrosimova | 2,414 |
 | 128 | Anna DeForge | 2,413 |
 | 129 | DeMya Walker | 2,379 |
-| 130 | **Rhyne Howard** 🔴 +3 | 2,361 |
+| 130 | **Rhyne Howard** 🔴 +4 | 2,362 |
 | 131 | Alex Bentley | 2,350 |
 | 132 | Merlakia Jones | 2,308 |
 | 133 | Kia Vaughn | 2,288 |
@@ -265,7 +265,7 @@ _Last updated: 2026-05-22 23:40 UTC_
 | 39 | Lindsay Whalen | 1,805 |
 | 40 | Camille Smith | 1,802 |
 | 41 | Courtney Williams | 1,766 |
-| 42 | **Kiah Stokes** 🔴 +1 | 1,761 |
+| 42 | **Kiah Stokes** 🔴 +2 | 1,762 |
 | 43 | Asjha Jones | 1,751 |
 | 44 | Teaira McCowan | 1,670 |
 | 45 | Stefanie Dolson | 1,667 |
@@ -381,7 +381,7 @@ _Last updated: 2026-05-22 23:40 UTC_
 | 155 | Erica Wheeler | 858 |
 | 156 | **Alanna Smith** 🔴 +1 | 848 |
 | 157 | Leilani Mitchell | 845 |
-| 158 | **Jessica Shepard** 🔴 +1 | 837 |
+| 158 | **Jessica Shepard** 🔴 +2 | 838 |
 | 159 | Essence Carson | 833 |
 | 160 | Kristi Toliver | 829 |
 | 161 | Marie Ferdinand-Harris | 828 |
@@ -540,9 +540,9 @@ _Last updated: 2026-05-22 23:40 UTC_
 | 109 | Napheesa Collier | 570 |
 | 110 | Nicole Powell | 567 |
 | 111 | Loree Moore | 562 |
-| 112 | **Gabby Williams** 🔴 | 554 |
-| 112 | Sophia Young-Malcolm | 554 |
-| 112 | Tangela Smith | 554 |
+| 112 | **Gabby Williams** 🔴 +1 | 555 |
+| 113 | Sophia Young-Malcolm | 554 |
+| 113 | Tangela Smith | 554 |
 | 115 | Tamera Young | 552 |
 | 116 | Janel McCarville | 551 |
 | 116 | Svetlana Abrosimova | 551 |
@@ -993,7 +993,7 @@ _Last updated: 2026-05-22 23:40 UTC_
 | 151 | Candice Wiggins | 215 |
 | 151 | Cheyenne Parker-Tyus | 215 |
 | 151 | Elena Baranova | 215 |
-| 155 | **Rhyne Howard** 🔴 | 214 |
+| 151 | **Rhyne Howard** 🔴 +1 | 215 |
 | 156 | Kahleah Copper | 213 |
 | 156 | Shekinna Stricklen | 213 |
 | 158 | Nikki Teasley | 211 |
@@ -1239,8 +1239,8 @@ _Last updated: 2026-05-22 23:40 UTC_
 | 192 | Layshia Clarendon | 107 |
 | 193 | Leonie Fiebich | 106 |
 | 194 | Laurie Koehn | 105 |
-| 195 | Julie Vanloo | 104 |
-| 195 | **Veronica Burton** 🔴 | 104 |
+| 194 | **Veronica Burton** 🔴 +1 | 105 |
+| 196 | Julie Vanloo | 104 |
 | 197 | Jeanette Pohlen-Mavunga | 103 |
 | 197 | Kiesha Brown | 103 |
 | 199 | Adrienne Johnson | 102 |
