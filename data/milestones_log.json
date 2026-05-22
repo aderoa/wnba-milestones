@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-22T00:24:00+00:00",
+    "text": "Tiffany Hayes passed DeLisha Milton-Jones for #51 all-time in assists (career 922) \u2014 up from #52 entering today \u2014 (1:05 - 1st \u2014 GS @ NY)",
+    "kind": "rank_pass",
+    "player": "Tiffany Hayes",
+    "stat": "assists",
+    "rank": 51,
+    "passed_players": [
+      "DeLisha Milton-Jones"
+    ],
+    "new_total": 922
+  },
+  {
     "ts": "2026-05-22T00:20:00+00:00",
     "text": "Veronica Burton passed Laurie Koehn for #194 all-time in three-pointers (career 106) \u2014 up from #196 entering today \u2014 (2:56 - 1st \u2014 GS @ NY)",
     "kind": "rank_pass",
@@ -3029,14 +3041,5 @@
       "Kelsey Mitchell"
     ],
     "new_total": 670
-  },
-  {
-    "ts": "2026-05-14T01:27:00+00:00",
-    "text": "A'ja Wilson reached 2,500 career rebounds (now 2,500) \u2014 (5:54 - 3rd \u2014 LV @ CON)",
-    "kind": "round",
-    "player": "A'ja Wilson",
-    "stat": "rebounds",
-    "value": 2500,
-    "new_total": 2500
   }
 ]
