@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-22 03:26 UTC_
+_Last updated: 2026-05-22 03:27 UTC_
 
 ## Contents
 
@@ -1302,9 +1302,9 @@ _Last updated: 2026-05-22 03:26 UTC_
 | 50 | Asjha Jones | 682 |
 | 51 | Danielle Robinson | 680 |
 | 52 | Sheryl Swoopes | 677 |
+| 53 | **Erica Wheeler** 🔴 +2 | 673 |
 | 53 | Natasha Cloud | 673 |
-| 54 | **Erica Wheeler** 🔴 +1 | 672 |
-| 54 | Tammy Sutton-Brown | 672 |
+| 55 | Tammy Sutton-Brown | 672 |
 | 56 | Deanna Nolan | 669 |
 | 57 | **Dearica Hamby** 🔴 | 667 |
 | 58 | Chasity Melvin | 666 |
@@ -1514,7 +1514,7 @@ _Last updated: 2026-05-22 03:26 UTC_
 | 56 | Wendy Palmer | 831 |
 | 58 | Shannon Johnson | 813 |
 | 58 | Tully Bevilaqua | 813 |
-| 60 | **Dearica Hamby** 🔴 | 811 |
+| 60 | **Dearica Hamby** 🔴 +1 | 812 |
 | 61 | Skylar Diggins | 797 |
 | 62 | Nykesha Sales | 796 |
 | 63 | Ebony Hoffman | 791 |
