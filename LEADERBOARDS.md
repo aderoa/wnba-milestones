@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-22 00:40 UTC_
+_Last updated: 2026-05-22 00:41 UTC_
 
 ## Contents
 
@@ -152,7 +152,7 @@ _Last updated: 2026-05-22 00:40 UTC_
 | 131 | Alex Bentley | 2,350 |
 | 132 | Merlakia Jones | 2,308 |
 | 133 | Kia Vaughn | 2,288 |
-| 134 | **Kayla Thornton** 🔴 +4 | 2,271 |
+| 134 | **Kayla Thornton** 🔴 +6 | 2,273 |
 | 135 | Betnijah Laney-Hamilton | 2,261 |
 | 136 | Allison Feaster | 2,258 |
 | 137 | Shekinna Stricklen | 2,245 |
@@ -242,7 +242,7 @@ _Last updated: 2026-05-22 00:40 UTC_
 | 16 | Brittney Griner | 2,537 |
 | 17 | A'ja Wilson | 2,522 |
 | 18 | Swin Cash | 2,521 |
-| 19 | **Breanna Stewart** 🔴 +1 | 2,511 |
+| 19 | **Breanna Stewart** 🔴 +2 | 2,512 |
 | 20 | Michelle Snow | 2,476 |
 | 21 | Crystal Langhorne | 2,454 |
 | 22 | Lauren Jackson | 2,444 |
@@ -1318,7 +1318,7 @@ _Last updated: 2026-05-22 00:40 UTC_
 | 65 | Svetlana Abrosimova | 631 |
 | 67 | Kelsey Plum | 624 |
 | 68 | Odyssey Sims | 622 |
-| 69 | **Jonquel Jones** 🔴 +1 | 618 |
+| 69 | **Jonquel Jones** 🔴 +2 | 619 |
 | 70 | Rebekkah Brunson | 615 |
 | 71 | Seimone Augustus | 613 |
 | 72 | **Tiffany Hayes** 🔴 | 605 |
