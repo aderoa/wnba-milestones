@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-22 01:17 UTC_
+_Last updated: 2026-05-22 01:18 UTC_
 
 ## Contents
 
@@ -44,7 +44,7 @@ _Last updated: 2026-05-22 01:17 UTC_
 | 23 | Katie Douglas | 5,545 |
 | 24 | Skylar Diggins | 5,525 |
 | 25 | Lindsay Whalen | 5,511 |
-| 26 | **Kayla McBride** 🔴 +11 | 5,465 |
+| 26 | **Kayla McBride** 🔴 +13 | 5,467 |
 | 27 | Swin Cash | 5,119 |
 | 28 | Tangela Smith | 5,035 |
 | 29 | Taj McWilliams-Franklin | 4,992 |
@@ -162,9 +162,9 @@ _Last updated: 2026-05-22 01:17 UTC_
 | 141 | Azurá Stevens | 2,219 |
 | 142 | Janel McCarville | 2,215 |
 | 142 | Teaira McCowan | 2,215 |
-| 144 | Sami Whitcomb | 2,211 |
-| 145 | **Kia Nurse** 🔴 +6 | 2,210 |
-| 145 | Sophia Witherspoon | 2,210 |
+| 144 | **Kia Nurse** 🔴 +9 | 2,213 |
+| 145 | Sami Whitcomb | 2,211 |
+| 146 | Sophia Witherspoon | 2,210 |
 | 147 | Ruthie Bolton | 2,175 |
 | 148 | Jordin Canada | 2,174 |
 | 149 | Ann Wauters | 2,170 |
@@ -236,7 +236,7 @@ _Last updated: 2026-05-22 01:17 UTC_
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | Alyssa Thomas | 2,770 |
-| 13 | **Jonquel Jones** 🔴 +5 | 2,604 |
+| 13 | **Jonquel Jones** 🔴 +6 | 2,605 |
 | 14 | Sancho Lyttle | 2,596 |
 | 15 | DeLisha Milton-Jones | 2,574 |
 | 16 | Brittney Griner | 2,537 |
@@ -250,7 +250,7 @@ _Last updated: 2026-05-22 01:17 UTC_
 | 24 | Dearica Hamby | 2,346 |
 | 25 | Tangela Smith | 2,328 |
 | 26 | Erika de Souza | 2,220 |
-| 27 | **Natasha Howard** 🔴 +6 | 2,210 |
+| 27 | **Natasha Howard** 🔴 +5 | 2,209 |
 | 28 | Diana Taurasi | 2,201 |
 | 29 | Margo Dydek | 2,138 |
 | 30 | Chamique Holdsclaw | 2,123 |
@@ -660,7 +660,7 @@ _Last updated: 2026-05-22 01:17 UTC_
 | 23 | Diana Taurasi | 349 |
 | 23 | Elena Delle Donne | 349 |
 | 26 | DeLisha Milton-Jones | 339 |
-| 27 | **Kiah Stokes** 🔴 | 324 |
+| 27 | **Kiah Stokes** 🔴 +1 | 325 |
 | 28 | Yolanda Griffith | 323 |
 | 29 | Elena Baranova | 320 |
 | 30 | Candice Dupree | 316 |
@@ -1095,7 +1095,7 @@ _Last updated: 2026-05-22 01:17 UTC_
 | 48 | Rhyne Howard | 370 |
 | 49 | Epiphanny Prince | 368 |
 | 50 | **Jonquel Jones** 🔴 +1 | 362 |
-| 51 | **Kia Nurse** 🔴 +2 | 360 |
+| 51 | **Kia Nurse** 🔴 +3 | 361 |
 | 52 | Nykesha Sales | 352 |
 | 53 | Kahleah Copper | 345 |
 | 54 | Cathrine Kraayeveld | 343 |
