@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-22 03:38 UTC_
+_Last updated: 2026-05-22 03:39 UTC_
 
 ## Contents
 
@@ -454,7 +454,7 @@ _Last updated: 2026-05-22 03:38 UTC_
 | 23 | Kristi Toliver | 1,301 |
 | 24 | **Erica Wheeler** 🔴 +3 | 1,278 |
 | 25 | Katie Smith | 1,258 |
-| 26 | **Kelsey Plum** 🔴 +4 | 1,219 |
+| 26 | **Kelsey Plum** 🔴 +5 | 1,220 |
 | 27 | Odyssey Sims | 1,210 |
 | 28 | Vickie Johnson | 1,202 |
 | 29 | Leilani Mitchell | 1,197 |
@@ -747,9 +747,9 @@ _Last updated: 2026-05-22 03:38 UTC_
 | 109 | Sophia Young-Malcolm | 111 |
 | 109 | Tari Phillips | 111 |
 | 113 | **Ariel Atkins** 🔴 +1 | 110 |
-| 114 | **Natasha Mack** 🔴 +1 | 109 |
-| 115 | Erin Perperoglou | 108 |
-| 115 | Glory Johnson | 108 |
+| 114 | Erin Perperoglou | 108 |
+| 114 | Glory Johnson | 108 |
+| 114 | **Natasha Mack** 🔴 | 108 |
 | 117 | Shakira Austin | 106 |
 | 117 | Sylvia Crawley | 106 |
 | 119 | Carolyn Swords | 104 |
@@ -843,9 +843,9 @@ _Last updated: 2026-05-22 03:38 UTC_
 | 2 | Ticha Penicheiro | 761 |
 | 3 | Sue Bird | 724 |
 | 4 | Alana Beard | 710 |
-| 5 | **Nneka Ogwumike** 🔴 | 673 |
+| 5 | **Nneka Ogwumike** 🔴 +1 | 674 |
 | 6 | Sheryl Swoopes | 657 |
-| 7 | **DeWanna Bonner** 🔴 +2 | 635 |
+| 7 | **DeWanna Bonner** 🔴 +3 | 636 |
 | 8 | Jia Perkins | 634 |
 | 9 | Sancho Lyttle | 630 |
 | 10 | Angel McCoughtry | 627 |
@@ -1326,7 +1326,7 @@ _Last updated: 2026-05-22 03:38 UTC_
 | 74 | Lindsey Harding | 600 |
 | 74 | Tamika Whitmore | 600 |
 | 76 | Kelly Miller | 596 |
-| 77 | **Kahleah Copper** 🔴 +2 | 592 |
+| 77 | **Kahleah Copper** 🔴 +3 | 593 |
 | 78 | Stefanie Dolson | 581 |
 | 79 | Helen Darling | 575 |
 | 79 | Nykesha Sales | 575 |
