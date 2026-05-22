@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-22 03:45 UTC_
+_Last updated: 2026-05-22 03:46 UTC_
 
 ## Contents
 
@@ -56,7 +56,7 @@ _Last updated: 2026-05-22 03:45 UTC_
 | 35 | Chamique Holdsclaw | 4,713 |
 | 36 | Elena Delle Donne | 4,706 |
 | 37 | Penny Taylor | 4,595 |
-| 38 | **Alyssa Thomas** 🔴 +17 | 4,571 |
+| 38 | **Alyssa Thomas** 🔴 +19 | 4,573 |
 | 39 | Arike Ogunbowale | 4,512 |
 | 40 | Kristi Toliver | 4,474 |
 | 41 | Chelsea Gray | 4,469 |
@@ -71,8 +71,8 @@ _Last updated: 2026-05-22 03:45 UTC_
 | 50 | Allisha Gray | 4,232 |
 | 51 | Vickie Johnson | 4,230 |
 | 52 | Yolanda Griffith | 4,224 |
-| 53 | **Dearica Hamby** 🔴 +18 | 4,176 |
-| 54 | **Kahleah Copper** 🔴 +14 | 4,168 |
+| 53 | **Dearica Hamby** 🔴 +20 | 4,178 |
+| 54 | **Kahleah Copper** 🔴 +16 | 4,170 |
 | 55 | Jonquel Jones | 4,148 |
 | 56 | Courtney Williams | 4,139 |
 | 57 | Rebekkah Brunson | 4,133 |
@@ -484,7 +484,7 @@ _Last updated: 2026-05-22 03:45 UTC_
 | 53 | Angel McCoughtry | 915 |
 | 54 | Layshia Clarendon | 911 |
 | 54 | Seimone Augustus | 911 |
-| 56 | **Nneka Ogwumike** 🔴 +1 | 905 |
+| 56 | **Nneka Ogwumike** 🔴 +2 | 906 |
 | 57 | Candice Dupree | 902 |
 | 58 | Arike Ogunbowale | 896 |
 | 58 | Maya Moore | 896 |
@@ -1512,9 +1512,9 @@ _Last updated: 2026-05-22 03:45 UTC_
 | 55 | Penny Taylor | 832 |
 | 56 | Dominique Canty | 831 |
 | 56 | Wendy Palmer | 831 |
+| 58 | **Dearica Hamby** 🔴 +2 | 813 |
 | 58 | Shannon Johnson | 813 |
 | 58 | Tully Bevilaqua | 813 |
-| 60 | **Dearica Hamby** 🔴 +1 | 812 |
 | 61 | Skylar Diggins | 797 |
 | 62 | Nykesha Sales | 796 |
 | 63 | Ebony Hoffman | 791 |
