@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-22 02:36 UTC_
+_Last updated: 2026-05-22 02:37 UTC_
 
 ## Contents
 
@@ -247,7 +247,7 @@ _Last updated: 2026-05-22 02:36 UTC_
 | 21 | Crystal Langhorne | 2,454 |
 | 22 | Lauren Jackson | 2,444 |
 | 23 | Yolanda Griffith | 2,440 |
-| 24 | **Dearica Hamby** 🔴 +5 | 2,351 |
+| 24 | **Dearica Hamby** 🔴 +6 | 2,352 |
 | 25 | Tangela Smith | 2,328 |
 | 26 | Erika de Souza | 2,220 |
 | 27 | Natasha Howard | 2,210 |
@@ -327,8 +327,8 @@ _Last updated: 2026-05-22 02:36 UTC_
 | 101 | Latasha Byears | 1,190 |
 | 101 | Tanisha Wright | 1,190 |
 | 103 | Vicky Bullett | 1,189 |
+| 104 | **Kahleah Copper** 🔴 +1 | 1,148 |
 | 104 | Nykesha Sales | 1,148 |
-| 105 | **Kahleah Copper** 🔴 | 1,147 |
 | 106 | Shannon Johnson | 1,143 |
 | 107 | Adrian Williams-Strong | 1,131 |
 | 108 | Andrea Stinson | 1,127 |
@@ -747,9 +747,9 @@ _Last updated: 2026-05-22 02:36 UTC_
 | 109 | Sophia Young-Malcolm | 111 |
 | 109 | Tari Phillips | 111 |
 | 113 | **Ariel Atkins** 🔴 +1 | 110 |
-| 114 | Erin Perperoglou | 108 |
-| 114 | Glory Johnson | 108 |
-| 114 | **Natasha Mack** 🔴 | 108 |
+| 114 | **Natasha Mack** 🔴 +1 | 109 |
+| 115 | Erin Perperoglou | 108 |
+| 115 | Glory Johnson | 108 |
 | 117 | Shakira Austin | 106 |
 | 117 | Sylvia Crawley | 106 |
 | 119 | Carolyn Swords | 104 |

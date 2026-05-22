@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-05-22T02:37:00+00:00",
+    "text": "Natasha Mack passed Erin Perperoglou and Glory Johnson for #114 all-time in blocks (career 109) \u2014 up from #116 entering today \u2014 (8:44 - 2nd \u2014 LA @ PHX)",
+    "kind": "rank_pass",
+    "player": "Natasha Mack",
+    "stat": "blocks",
+    "rank": 114,
+    "passed_players": [
+      "Erin Perperoglou",
+      "Glory Johnson"
+    ],
+    "new_total": 109
+  },
+  {
     "ts": "2026-05-22T02:18:00+00:00",
     "text": "Kelsey Plum reached 600 career three-pointers (now 600) \u2014 (4:51 - 1st \u2014 LA @ PHX)",
     "kind": "round",
@@ -3027,17 +3040,5 @@
     "stat": "assists",
     "value": 200,
     "new_total": 200
-  },
-  {
-    "ts": "2026-05-15T00:34:00+00:00",
-    "text": "Alysha Clark passed Crystal Langhorne for #92 all-time in steals (career 315) \u2014 (5:27 - 2nd \u2014 MIN @ DAL)",
-    "kind": "rank_pass",
-    "player": "Alysha Clark",
-    "stat": "steals",
-    "rank": 92,
-    "passed_players": [
-      "Crystal Langhorne"
-    ],
-    "new_total": 315
   }
 ]
