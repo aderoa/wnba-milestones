@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-22T02:04:00+00:00",
+    "text": "Rebecca Allen passed Bria Hartley for #87 all-time in three-pointers (career 254) \u2014 up from #88 entering today \u2014 (1:32 - 4th \u2014 GS @ NY)",
+    "kind": "rank_pass",
+    "player": "Rebecca Allen",
+    "stat": "three-pointers",
+    "rank": 87,
+    "passed_players": [
+      "Bria Hartley"
+    ],
+    "new_total": 254
+  },
+  {
     "ts": "2026-05-22T01:57:00+00:00",
     "text": "Gabby Williams passed Ticha Penicheiro for #168 all-time in three-pointers (career 129) \u2014 up from #172 entering today \u2014 (4:10 - 4th \u2014 GS @ NY)",
     "kind": "rank_pass",
@@ -3032,17 +3044,5 @@
       "Rebekkah Brunson"
     ],
     "new_total": 616
-  },
-  {
-    "ts": "2026-05-14T04:22:00+00:00",
-    "text": "Dearica Hamby passed Vickie Johnson for #58 all-time in turnovers (career 661) \u2014 up from #59 entering today \u2014 (8:22 - 4th \u2014 IND @ LA)",
-    "kind": "rank_pass",
-    "player": "Dearica Hamby",
-    "stat": "turnovers",
-    "rank": 58,
-    "passed_players": [
-      "Vickie Johnson"
-    ],
-    "new_total": 661
   }
 ]

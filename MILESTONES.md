@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-22 02:04 UTC
+
+- **Rebecca Allen** passed **Bria Hartley** for **#87** all-time in three-pointers (career 254) — up from #88 entering today — _1:32 - 4th — GS @ NY_
+
 ## 2026-05-22 01:57 UTC
 
 - **Gabby Williams** passed **Ticha Penicheiro** for **#168** all-time in three-pointers (career 129) — up from #172 entering today — _4:10 - 4th — GS @ NY_
