@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-22T00:20:00+00:00",
+    "text": "Veronica Burton passed Laurie Koehn for #194 all-time in three-pointers (career 106) \u2014 up from #196 entering today \u2014 (2:56 - 1st \u2014 GS @ NY)",
+    "kind": "rank_pass",
+    "player": "Veronica Burton",
+    "stat": "three-pointers",
+    "rank": 194,
+    "passed_players": [
+      "Laurie Koehn"
+    ],
+    "new_total": 106
+  },
+  {
     "ts": "2026-05-22T00:19:00+00:00",
     "text": "Veronica Burton passed Anna DeForge and Coco Miller for #125 all-time in assists (career 504) \u2014 up from #127 entering today \u2014 (3:11 - 1st \u2014 GS @ NY)",
     "kind": "rank_pass",
@@ -3026,17 +3038,5 @@
     "stat": "rebounds",
     "value": 2500,
     "new_total": 2500
-  },
-  {
-    "ts": "2026-05-14T00:54:00+00:00",
-    "text": "Marina Mabrey passed Monique Currie for #74 all-time in assists (career 741) \u2014 up from #75 entering today \u2014 (58.1 - 4th \u2014 SEA @ TOR)",
-    "kind": "rank_pass",
-    "player": "Marina Mabrey",
-    "stat": "assists",
-    "rank": 74,
-    "passed_players": [
-      "Monique Currie"
-    ],
-    "new_total": 741
   }
 ]

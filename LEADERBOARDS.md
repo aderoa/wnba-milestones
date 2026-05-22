@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-22 00:19 UTC_
+_Last updated: 2026-05-22 00:20 UTC_
 
 ## Contents
 
@@ -164,7 +164,7 @@ _Last updated: 2026-05-22 00:19 UTC_
 | 142 | Teaira McCowan | 2,215 |
 | 144 | Sami Whitcomb | 2,211 |
 | 145 | Sophia Witherspoon | 2,210 |
-| 146 | **Kia Nurse** 🔴 | 2,204 |
+| 146 | **Kia Nurse** 🔴 +3 | 2,207 |
 | 147 | Ruthie Bolton | 2,175 |
 | 148 | Jordin Canada | 2,174 |
 | 149 | Ann Wauters | 2,170 |
@@ -1095,7 +1095,7 @@ _Last updated: 2026-05-22 00:19 UTC_
 | 48 | Rhyne Howard | 370 |
 | 49 | Epiphanny Prince | 368 |
 | 50 | **Jonquel Jones** 🔴 | 361 |
-| 51 | **Kia Nurse** 🔴 | 358 |
+| 51 | **Kia Nurse** 🔴 +1 | 359 |
 | 52 | Nykesha Sales | 352 |
 | 53 | Kahleah Copper | 345 |
 | 54 | Cathrine Kraayeveld | 343 |
@@ -1238,8 +1238,8 @@ _Last updated: 2026-05-22 00:19 UTC_
 | 191 | Belinda Snell | 108 |
 | 192 | Layshia Clarendon | 107 |
 | 193 | Leonie Fiebich | 106 |
-| 194 | Laurie Koehn | 105 |
-| 194 | **Veronica Burton** 🔴 +1 | 105 |
+| 193 | **Veronica Burton** 🔴 +2 | 106 |
+| 195 | Laurie Koehn | 105 |
 | 196 | Julie Vanloo | 104 |
 | 197 | Jeanette Pohlen-Mavunga | 103 |
 | 197 | Kiesha Brown | 103 |
@@ -1277,7 +1277,7 @@ _Last updated: 2026-05-22 00:19 UTC_
 | 25 | Alana Beard | 854 |
 | 26 | DeWanna Bonner | 830 |
 | 27 | Katie Douglas | 824 |
-| 28 | **Natasha Howard** 🔴 +1 | 805 |
+| 28 | **Natasha Howard** 🔴 +2 | 806 |
 | 29 | Betty Lennox | 800 |
 | 30 | Jasmine Thomas | 796 |
 | 31 | Nneka Ogwumike | 791 |
@@ -1474,7 +1474,7 @@ _Last updated: 2026-05-22 00:19 UTC_
 | 17 | Monique Currie | 1,137 |
 | 18 | Tanisha Wright | 1,109 |
 | 19 | Michelle Snow | 1,108 |
-| 20 | **Natasha Howard** 🔴 +1 | 1,106 |
+| 20 | **Natasha Howard** 🔴 +2 | 1,107 |
 | 21 | Stefanie Dolson | 1,095 |
 | 22 | Sylvia Fowles | 1,049 |
 | 23 | Tina Charles | 1,037 |

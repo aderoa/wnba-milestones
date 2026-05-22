@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-22 00:20 UTC
+
+- **Veronica Burton** passed **Laurie Koehn** for **#194** all-time in three-pointers (career 106) — up from #196 entering today — _2:56 - 1st — GS @ NY_
+
 ## 2026-05-22 00:19 UTC
 
 - **Veronica Burton** passed **Anna DeForge** and **Coco Miller** for **#125** all-time in assists (career 504) — up from #127 entering today — _3:11 - 1st — GS @ NY_
