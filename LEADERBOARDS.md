@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-22 00:31 UTC_
+_Last updated: 2026-05-22 00:32 UTC_
 
 ## Contents
 
@@ -49,7 +49,7 @@ _Last updated: 2026-05-22 00:31 UTC_
 | 28 | Tangela Smith | 5,035 |
 | 29 | Taj McWilliams-Franklin | 4,992 |
 | 30 | Maya Moore | 4,984 |
-| 31 | **Tiffany Hayes** 🔴 | 4,927 |
+| 31 | **Tiffany Hayes** 🔴 +2 | 4,929 |
 | 32 | Kelsey Mitchell | 4,907 |
 | 33 | Sheryl Swoopes | 4,875 |
 | 34 | Alana Beard | 4,740 |
@@ -73,7 +73,7 @@ _Last updated: 2026-05-22 00:31 UTC_
 | 52 | Yolanda Griffith | 4,224 |
 | 53 | Dearica Hamby | 4,158 |
 | 54 | Kahleah Copper | 4,154 |
-| 55 | **Jonquel Jones** 🔴 +3 | 4,135 |
+| 55 | **Jonquel Jones** 🔴 +7 | 4,139 |
 | 56 | **Courtney Williams** 🔴 +9 | 4,133 |
 | 56 | Rebekkah Brunson | 4,133 |
 | 58 | Asjha Jones | 3,986 |
@@ -307,9 +307,9 @@ _Last updated: 2026-05-22 00:31 UTC_
 | 81 | Elena Baranova | 1,335 |
 | 82 | Brionna Jones | 1,333 |
 | 83 | Erlana Larkins | 1,329 |
+| 84 | **Kayla Thornton** 🔴 +2 | 1,327 |
 | 84 | Mwadi Mabika | 1,327 |
-| 85 | Jayne Appel Marinelli | 1,326 |
-| 85 | **Kayla Thornton** 🔴 +1 | 1,326 |
+| 86 | Jayne Appel Marinelli | 1,326 |
 | 87 | Betty Lennox | 1,296 |
 | 88 | Tari Phillips | 1,274 |
 | 89 | Janel McCarville | 1,261 |
@@ -569,8 +569,8 @@ _Last updated: 2026-05-22 00:31 UTC_
 | 138 | Sylvia Fowles | 461 |
 | 139 | Elizabeth Williams | 455 |
 | 140 | Sydney Colson | 454 |
-| 141 | **Satou Sabally** 🔴 | 451 |
-| 141 | Yolanda Griffith | 451 |
+| 141 | **Satou Sabally** 🔴 +1 | 452 |
+| 142 | Yolanda Griffith | 451 |
 | 143 | Elena Delle Donne | 450 |
 | 143 | Kristi Harrower | 450 |
 | 143 | Nikki McCray | 450 |
@@ -1094,7 +1094,7 @@ _Last updated: 2026-05-22 00:31 UTC_
 | 46 | Betty Lennox | 372 |
 | 48 | Rhyne Howard | 370 |
 | 49 | Epiphanny Prince | 368 |
-| 50 | **Jonquel Jones** 🔴 | 361 |
+| 50 | **Jonquel Jones** 🔴 +1 | 362 |
 | 51 | **Kia Nurse** 🔴 +2 | 360 |
 | 52 | Nykesha Sales | 352 |
 | 53 | Kahleah Copper | 345 |

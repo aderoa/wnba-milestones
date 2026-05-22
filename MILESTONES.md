@@ -2,6 +2,11 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-22 00:32 UTC
+
+- **Kayla Thornton** passed **Jayne Appel Marinelli** for **#85** all-time in rebounds (career 1,327) — up from #86 entering today — _8:25 - 2nd — GS @ NY_
+- **Satou Sabally** passed **Yolanda Griffith** for **#142** all-time in assists (career 452) — _8:25 - 2nd — GS @ NY_
+
 ## 2026-05-22 00:31 UTC
 
 - **Kiah Stokes** passed **Courtney Paris** for **#113** all-time in fouls (career 618) — up from #114 entering today — _9:26 - 2nd — GS @ NY_
