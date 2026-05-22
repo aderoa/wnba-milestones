@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-22 01:59 UTC_
+_Last updated: 2026-05-22 02:00 UTC_
 
 ## Contents
 
@@ -159,7 +159,7 @@ _Last updated: 2026-05-22 01:59 UTC_
 | 138 | Kara Braxton | 2,237 |
 | 138 | Matee Ajavon | 2,237 |
 | 140 | Dawn Staley | 2,228 |
-| 141 | **Kia Nurse** 🔴 +20 | 2,224 |
+| 141 | **Kia Nurse** 🔴 +23 | 2,227 |
 | 142 | Azurá Stevens | 2,219 |
 | 143 | Janel McCarville | 2,215 |
 | 143 | Teaira McCowan | 2,215 |
@@ -594,7 +594,7 @@ _Last updated: 2026-05-22 01:59 UTC_
 | 162 | Murriel Page | 410 |
 | 164 | Allison Feaster | 406 |
 | 165 | Rita Williams | 403 |
-| 166 | **Kia Nurse** 🔴 +1 | 401 |
+| 166 | **Kia Nurse** 🔴 +2 | 402 |
 | 167 | Marissa Coleman | 399 |
 | 168 | Julie Allemand | 395 |
 | 168 | Stacey Dales | 395 |
@@ -1094,7 +1094,7 @@ _Last updated: 2026-05-22 01:59 UTC_
 | 46 | Betty Lennox | 372 |
 | 48 | Rhyne Howard | 370 |
 | 49 | Epiphanny Prince | 368 |
-| 50 | **Kia Nurse** 🔴 +5 | 363 |
+| 50 | **Kia Nurse** 🔴 +6 | 364 |
 | 51 | **Jonquel Jones** 🔴 +1 | 362 |
 | 52 | Nykesha Sales | 352 |
 | 53 | Kahleah Copper | 345 |
