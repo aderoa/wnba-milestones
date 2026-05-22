@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-22 03:24 UTC_
+_Last updated: 2026-05-22 03:25 UTC_
 
 ## Contents
 
@@ -1541,7 +1541,7 @@ _Last updated: 2026-05-22 03:24 UTC_
 | 84 | Tan White | 698 |
 | 85 | Katie Douglas | 697 |
 | 86 | Danielle Robinson | 692 |
-| 87 | **Ariel Atkins** 🔴 +1 | 690 |
+| 87 | **Ariel Atkins** 🔴 +2 | 691 |
 | 88 | Sophia Young-Malcolm | 687 |
 | 89 | Maya Moore | 686 |
 | 90 | Jasmine Thomas | 685 |
