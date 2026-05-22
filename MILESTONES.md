@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-22 02:18 UTC
+
+- **Kelsey Plum** reached **600** career three-pointers (now 600) — _4:51 - 1st — LA @ PHX_
+
 ## 2026-05-22 02:13 UTC
 
 - **Ariel Atkins** passed **Betty Lennox** and **Plenette Pierson** for **#89** all-time in assists (career 652) — _5:50 - 1st — LA @ PHX_
