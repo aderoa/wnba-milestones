@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-22 02:24 UTC_
+_Last updated: 2026-05-22 02:25 UTC_
 
 ## Contents
 
@@ -454,7 +454,7 @@ _Last updated: 2026-05-22 02:24 UTC_
 | 23 | Kristi Toliver | 1,301 |
 | 24 | **Erica Wheeler** 🔴 +1 | 1,276 |
 | 25 | Katie Smith | 1,258 |
-| 26 | **Kelsey Plum** 🔴 | 1,215 |
+| 26 | **Kelsey Plum** 🔴 +1 | 1,216 |
 | 27 | Odyssey Sims | 1,210 |
 | 28 | Vickie Johnson | 1,202 |
 | 29 | Leilani Mitchell | 1,197 |
@@ -746,7 +746,7 @@ _Last updated: 2026-05-22 02:24 UTC_
 | 109 | Kamila Vodichkova | 111 |
 | 109 | Sophia Young-Malcolm | 111 |
 | 109 | Tari Phillips | 111 |
-| 113 | **Ariel Atkins** 🔴 | 109 |
+| 113 | **Ariel Atkins** 🔴 +1 | 110 |
 | 114 | Erin Perperoglou | 108 |
 | 114 | Glory Johnson | 108 |
 | 114 | **Natasha Mack** 🔴 | 108 |
@@ -825,10 +825,10 @@ _Last updated: 2026-05-22 02:24 UTC_
 | 188 | Wendy Palmer | 70 |
 | 190 | Mercedes Russell | 69 |
 | 190 | Rhonda Mapp | 69 |
-| 192 | **Cameron Brink** 🔴 +1 | 68 |
 | 192 | Satou Sabally | 68 |
-| 194 | Jackie Young | 67 |
-| 194 | Shannon Johnson | 67 |
+| 193 | **Cameron Brink** 🔴 | 67 |
+| 193 | Jackie Young | 67 |
+| 193 | Shannon Johnson | 67 |
 | 196 | Awak Kuier | 66 |
 | 197 | Crystal Robinson | 65 |
 | 197 | Queen Egbo | 65 |
