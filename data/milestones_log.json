@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-05-22T00:19:00+00:00",
+    "text": "Veronica Burton passed Anna DeForge and Coco Miller for #125 all-time in assists (career 504) \u2014 up from #127 entering today \u2014 (3:11 - 1st \u2014 GS @ NY)",
+    "kind": "rank_pass",
+    "player": "Veronica Burton",
+    "stat": "assists",
+    "rank": 125,
+    "passed_players": [
+      "Anna DeForge",
+      "Coco Miller"
+    ],
+    "new_total": 504
+  },
+  {
     "ts": "2026-05-22T00:14:00+00:00",
     "text": "Gabby Williams passed Tamecka Dixon for #171 all-time in three-pointers (career 127) \u2014 up from #172 entering today \u2014 (4:50 - 1st \u2014 GS @ NY)",
     "kind": "rank_pass",
@@ -3025,17 +3038,5 @@
       "Monique Currie"
     ],
     "new_total": 741
-  },
-  {
-    "ts": "2026-05-14T00:53:00+00:00",
-    "text": "Marina Mabrey passed Shameka Christon for #163 all-time in steals (career 206) \u2014 up from #169 entering today \u2014 (1:42 - 4th \u2014 SEA @ TOR)",
-    "kind": "rank_pass",
-    "player": "Marina Mabrey",
-    "stat": "steals",
-    "rank": 163,
-    "passed_players": [
-      "Shameka Christon"
-    ],
-    "new_total": 206
   }
 ]

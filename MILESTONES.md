@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-22 00:19 UTC
+
+- **Veronica Burton** passed **Anna DeForge** and **Coco Miller** for **#125** all-time in assists (career 504) — up from #127 entering today — _3:11 - 1st — GS @ NY_
+
 ## 2026-05-22 00:14 UTC
 
 - **Gabby Williams** passed **Tamecka Dixon** for **#171** all-time in three-pointers (career 127) — up from #172 entering today — _4:50 - 1st — GS @ NY_

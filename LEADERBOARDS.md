@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-22 00:18 UTC_
+_Last updated: 2026-05-22 00:19 UTC_
 
 ## Contents
 
@@ -32,7 +32,7 @@ _Last updated: 2026-05-22 00:18 UTC_
 | 11 | Katie Smith | 6,450 |
 | 12 | Sylvia Fowles | 6,413 |
 | 13 | Lisa Leslie | 6,251 |
-| 14 | **Breanna Stewart** 🔴 | 6,077 |
+| 14 | **Breanna Stewart** 🔴 +2 | 6,079 |
 | 15 | Jewell Loyd | 6,059 |
 | 16 | Lauren Jackson | 6,005 |
 | 16 | Seimone Augustus | 6,005 |
@@ -242,7 +242,7 @@ _Last updated: 2026-05-22 00:18 UTC_
 | 16 | Brittney Griner | 2,537 |
 | 17 | A'ja Wilson | 2,522 |
 | 18 | Swin Cash | 2,521 |
-| 19 | **Breanna Stewart** 🔴 | 2,510 |
+| 19 | **Breanna Stewart** 🔴 +1 | 2,511 |
 | 20 | Michelle Snow | 2,476 |
 | 21 | Crystal Langhorne | 2,454 |
 | 22 | Lauren Jackson | 2,444 |
@@ -553,9 +553,9 @@ _Last updated: 2026-05-22 00:18 UTC_
 | 122 | Iziane Castro Marques | 509 |
 | 123 | Brittany Boyd-Jones | 508 |
 | 123 | Chasity Melvin | 508 |
-| 125 | Anna DeForge | 503 |
-| 125 | Coco Miller | 503 |
-| 125 | **Veronica Burton** 🔴 +2 | 503 |
+| 125 | **Veronica Burton** 🔴 +3 | 504 |
+| 126 | Anna DeForge | 503 |
+| 126 | Coco Miller | 503 |
 | 128 | Rachel Banham | 498 |
 | 129 | Rhyne Howard | 490 |
 | 130 | Caitlin Clark | 488 |
