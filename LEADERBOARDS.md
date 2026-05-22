@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-22 03:28 UTC_
+_Last updated: 2026-05-22 03:29 UTC_
 
 ## Contents
 
@@ -823,10 +823,10 @@ _Last updated: 2026-05-22 03:28 UTC_
 | 186 | Tanisha Wright | 71 |
 | 188 | Myisha Hines-Allen | 70 |
 | 188 | Wendy Palmer | 70 |
+| 190 | **Cameron Brink** 🔴 +2 | 69 |
 | 190 | Mercedes Russell | 69 |
 | 190 | Rhonda Mapp | 69 |
-| 192 | **Cameron Brink** 🔴 +1 | 68 |
-| 192 | Satou Sabally | 68 |
+| 193 | Satou Sabally | 68 |
 | 194 | Jackie Young | 67 |
 | 194 | Shannon Johnson | 67 |
 | 196 | Awak Kuier | 66 |
