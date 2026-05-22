@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-22 23:55 UTC_
+_Last updated: 2026-05-22 23:56 UTC_
 
 ## Contents
 
@@ -394,7 +394,7 @@ _Last updated: 2026-05-22 23:55 UTC_
 | 168 | Tierra Ruffin-Pratt | 799 |
 | 169 | Charlotte Smith | 794 |
 | 170 | Betnijah Laney-Hamilton | 792 |
-| 171 | **Naz Hillmon** 🔴 +2 | 790 |
+| 171 | **Naz Hillmon** 🔴 +1 | 789 |
 | 172 | Rhonda Mapp | 788 |
 | 173 | Mercedes Russell | 786 |
 | 174 | **Odyssey Sims** 🔴 | 780 |
@@ -913,8 +913,8 @@ _Last updated: 2026-05-22 23:55 UTC_
 | 72 | Helen Darling | 343 |
 | 73 | Andrea Stinson | 342 |
 | 73 | Natasha Cloud | 342 |
-| 75 | **Arike Ogunbowale** 🔴 +1 | 341 |
-| 76 | Armintie Herrington | 340 |
+| 75 | **Arike Ogunbowale** 🔴 | 340 |
+| 75 | Armintie Herrington | 340 |
 | 77 | A'ja Wilson | 339 |
 | 78 | Dawn Staley | 338 |
 | 79 | Marie Ferdinand-Harris | 331 |
