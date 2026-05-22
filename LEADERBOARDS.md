@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-22 23:57 UTC_
+_Last updated: 2026-05-22 23:58 UTC_
 
 ## Contents
 
@@ -49,7 +49,7 @@ _Last updated: 2026-05-22 23:57 UTC_
 | 28 | Tangela Smith | 5,035 |
 | 29 | Taj McWilliams-Franklin | 4,992 |
 | 30 | Maya Moore | 4,984 |
-| 31 | **Tiffany Hayes** 🔴 +5 | 4,932 |
+| 31 | **Tiffany Hayes** 🔴 +7 | 4,934 |
 | 32 | **Kelsey Mitchell** 🔴 +6 | 4,913 |
 | 33 | Sheryl Swoopes | 4,875 |
 | 34 | Alana Beard | 4,740 |
@@ -84,7 +84,7 @@ _Last updated: 2026-05-22 23:57 UTC_
 | 63 | Chasity Melvin | 3,781 |
 | 64 | Kara Lawson | 3,670 |
 | 65 | Mwadi Mabika | 3,576 |
-| 66 | **Odyssey Sims** 🔴 +2 | 3,554 |
+| 66 | **Odyssey Sims** 🔴 +5 | 3,557 |
 | 67 | Camille Smith | 3,551 |
 | 68 | Napheesa Collier | 3,542 |
 | 68 | Shannon Johnson | 3,542 |
@@ -1358,7 +1358,7 @@ _Last updated: 2026-05-22 23:57 UTC_
 | 106 | Jia Perkins | 513 |
 | 107 | **Arike Ogunbowale** 🔴 +1 | 510 |
 | 108 | Tamera Young | 501 |
-| 109 | **Jordin Canada** 🔴 | 496 |
+| 109 | **Jordin Canada** 🔴 +1 | 497 |
 | 110 | Marina Mabrey | 494 |
 | 111 | Nikki Teasley | 493 |
 | 111 | Tari Phillips | 493 |
