@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-22 00:17 UTC_
+_Last updated: 2026-05-22 00:18 UTC_
 
 ## Contents
 
@@ -555,7 +555,7 @@ _Last updated: 2026-05-22 00:17 UTC_
 | 123 | Chasity Melvin | 508 |
 | 125 | Anna DeForge | 503 |
 | 125 | Coco Miller | 503 |
-| 127 | **Veronica Burton** 🔴 +1 | 502 |
+| 125 | **Veronica Burton** 🔴 +2 | 503 |
 | 128 | Rachel Banham | 498 |
 | 129 | Rhyne Howard | 490 |
 | 130 | Caitlin Clark | 488 |
