@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-22 03:27 UTC_
+_Last updated: 2026-05-22 03:28 UTC_
 
 ## Contents
 
@@ -72,7 +72,7 @@ _Last updated: 2026-05-22 03:27 UTC_
 | 51 | Vickie Johnson | 4,230 |
 | 52 | Yolanda Griffith | 4,224 |
 | 53 | **Dearica Hamby** 🔴 +13 | 4,171 |
-| 54 | **Kahleah Copper** 🔴 +12 | 4,166 |
+| 54 | **Kahleah Copper** 🔴 +14 | 4,168 |
 | 55 | Jonquel Jones | 4,148 |
 | 56 | Courtney Williams | 4,139 |
 | 57 | Rebekkah Brunson | 4,133 |
@@ -231,7 +231,7 @@ _Last updated: 2026-05-22 03:27 UTC_
 | 5 | Tamika Catchings | 3,313 |
 | 6 | Lisa Leslie | 3,303 |
 | 7 | **Nneka Ogwumike** 🔴 +3 | 3,298 |
-| 8 | **DeWanna Bonner** 🔴 +2 | 3,234 |
+| 8 | **DeWanna Bonner** 🔴 +3 | 3,235 |
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
@@ -1540,8 +1540,8 @@ _Last updated: 2026-05-22 03:27 UTC_
 | 82 | Nicole Powell | 701 |
 | 84 | Tan White | 698 |
 | 85 | Katie Douglas | 697 |
+| 86 | **Ariel Atkins** 🔴 +3 | 692 |
 | 86 | Danielle Robinson | 692 |
-| 87 | **Ariel Atkins** 🔴 +2 | 691 |
 | 88 | Sophia Young-Malcolm | 687 |
 | 89 | Maya Moore | 686 |
 | 90 | Jasmine Thomas | 685 |
