@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-22 03:34 UTC_
+_Last updated: 2026-05-22 03:35 UTC_
 
 ## Contents
 
@@ -56,7 +56,7 @@ _Last updated: 2026-05-22 03:34 UTC_
 | 35 | Chamique Holdsclaw | 4,713 |
 | 36 | Elena Delle Donne | 4,706 |
 | 37 | Penny Taylor | 4,595 |
-| 38 | **Alyssa Thomas** 🔴 +12 | 4,566 |
+| 38 | **Alyssa Thomas** 🔴 +13 | 4,567 |
 | 39 | Arike Ogunbowale | 4,512 |
 | 40 | Kristi Toliver | 4,474 |
 | 41 | Chelsea Gray | 4,469 |
@@ -821,11 +821,11 @@ _Last updated: 2026-05-22 03:34 UTC_
 | 182 | Sue Bird | 72 |
 | 186 | Marlies Askamp | 71 |
 | 186 | Tanisha Wright | 71 |
+| 188 | **Cameron Brink** 🔴 +3 | 70 |
 | 188 | Myisha Hines-Allen | 70 |
 | 188 | Wendy Palmer | 70 |
-| 190 | **Cameron Brink** 🔴 +2 | 69 |
-| 190 | Mercedes Russell | 69 |
-| 190 | Rhonda Mapp | 69 |
+| 191 | Mercedes Russell | 69 |
+| 191 | Rhonda Mapp | 69 |
 | 193 | Satou Sabally | 68 |
 | 194 | Jackie Young | 67 |
 | 194 | Shannon Johnson | 67 |
