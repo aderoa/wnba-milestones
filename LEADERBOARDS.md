@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-22 01:36 UTC_
+_Last updated: 2026-05-22 01:37 UTC_
 
 ## Contents
 
@@ -161,8 +161,8 @@ _Last updated: 2026-05-22 01:36 UTC_
 | 140 | Dawn Staley | 2,228 |
 | 141 | Azurá Stevens | 2,219 |
 | 142 | Janel McCarville | 2,215 |
+| 142 | **Kia Nurse** 🔴 +11 | 2,215 |
 | 142 | Teaira McCowan | 2,215 |
-| 144 | **Kia Nurse** 🔴 +9 | 2,213 |
 | 145 | Sami Whitcomb | 2,211 |
 | 146 | Sophia Witherspoon | 2,210 |
 | 147 | Ruthie Bolton | 2,175 |
@@ -387,7 +387,7 @@ _Last updated: 2026-05-22 01:36 UTC_
 | 160 | **Marina Mabrey** 🔴 +2 | 829 |
 | 162 | Marie Ferdinand-Harris | 828 |
 | 163 | Marlies Askamp | 822 |
-| 164 | **Nia Coffey** 🔴 +2 | 821 |
+| 163 | **Nia Coffey** 🔴 +3 | 822 |
 | 165 | Amanda Zahui B | 819 |
 | 165 | Barbara Farris | 819 |
 | 167 | Carolyn Swords | 814 |
