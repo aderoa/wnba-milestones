@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-22 00:54 UTC_
+_Last updated: 2026-05-22 00:55 UTC_
 
 ## Contents
 
@@ -32,7 +32,7 @@ _Last updated: 2026-05-22 00:54 UTC_
 | 11 | Katie Smith | 6,450 |
 | 12 | Sylvia Fowles | 6,413 |
 | 13 | Lisa Leslie | 6,251 |
-| 14 | **Breanna Stewart** 🔴 +10 | 6,087 |
+| 14 | **Breanna Stewart** 🔴 +11 | 6,088 |
 | 15 | Jewell Loyd | 6,059 |
 | 16 | Lauren Jackson | 6,005 |
 | 16 | Seimone Augustus | 6,005 |
@@ -646,7 +646,7 @@ _Last updated: 2026-05-22 00:54 UTC_
 | 10 | Ruth Riley | 505 |
 | 11 | Elizabeth Williams | 486 |
 | 12 | Taj McWilliams-Franklin | 443 |
-| 13 | **Breanna Stewart** 🔴 | 433 |
+| 13 | **Breanna Stewart** 🔴 +1 | 434 |
 | 14 | Tina Charles | 428 |
 | 15 | **Jonquel Jones** 🔴 | 406 |
 | 16 | Michelle Snow | 403 |
