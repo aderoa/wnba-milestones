@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-22 00:30 UTC_
+_Last updated: 2026-05-22 00:31 UTC_
 
 ## Contents
 
@@ -73,7 +73,7 @@ _Last updated: 2026-05-22 00:30 UTC_
 | 52 | Yolanda Griffith | 4,224 |
 | 53 | Dearica Hamby | 4,158 |
 | 54 | Kahleah Copper | 4,154 |
-| 55 | **Jonquel Jones** 🔴 +2 | 4,134 |
+| 55 | **Jonquel Jones** 🔴 +3 | 4,135 |
 | 56 | **Courtney Williams** 🔴 +9 | 4,133 |
 | 56 | Rebekkah Brunson | 4,133 |
 | 58 | Asjha Jones | 3,986 |
@@ -370,7 +370,7 @@ _Last updated: 2026-05-22 00:30 UTC_
 | 144 | Merlakia Jones | 927 |
 | 145 | Nicky Anosike | 922 |
 | 146 | Janeth Arcain | 916 |
-| 147 | **Satou Sabally** 🔴 +1 | 913 |
+| 147 | **Satou Sabally** 🔴 +2 | 914 |
 | 148 | Karima Christmas-Kelly | 908 |
 | 149 | Natalie Achonwa | 895 |
 | 150 | Temeka Johnson | 889 |
@@ -1566,9 +1566,9 @@ _Last updated: 2026-05-22 00:30 UTC_
 | 109 | Jennifer Gillom | 629 |
 | 110 | Deanna Nolan | 628 |
 | 111 | Brionna Jones | 625 |
+| 112 | **Kiah Stokes** 🔴 +1 | 618 |
 | 112 | Teaira McCowan | 618 |
-| 113 | Courtney Paris | 617 |
-| 113 | **Kiah Stokes** 🔴 | 617 |
+| 114 | Courtney Paris | 617 |
 | 115 | Coco Miller | 615 |
 | 116 | Brooke Wyckoff | 614 |
 | 117 | Svetlana Abrosimova | 613 |

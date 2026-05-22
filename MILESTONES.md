@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-22 00:31 UTC
+
+- **Kiah Stokes** passed **Courtney Paris** for **#113** all-time in fouls (career 618) — up from #114 entering today — _9:26 - 2nd — GS @ NY_
+
 ## 2026-05-22 00:24 UTC
 
 - **Tiffany Hayes** passed **DeLisha Milton-Jones** for **#51** all-time in assists (career 922) — up from #52 entering today — _1:05 - 1st — GS @ NY_
