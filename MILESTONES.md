@@ -2,6 +2,11 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-22 01:16 UTC
+
+- **Veronica Burton** passed **Leonie Fiebich** for **#193** all-time in three-pointers (career 107) — up from #196 entering today — _7:50 - 3rd — GS @ NY_
+- **Breanna Stewart** passed **Jewell Loyd** for **#101** all-time in fouls (career 658) — up from #102 entering today — _7:50 - 3rd — GS @ NY_
+
 ## 2026-05-22 00:56 UTC
 
 - **Kayla Thornton** passed **Mwadi Mabika** for **#84** all-time in rebounds (career 1,328) — up from #86 entering today — _Halftime — GS @ NY_

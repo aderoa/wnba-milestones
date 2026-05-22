@@ -1,5 +1,29 @@
 [
   {
+    "ts": "2026-05-22T01:16:00+00:00",
+    "text": "Veronica Burton passed Leonie Fiebich for #193 all-time in three-pointers (career 107) \u2014 up from #196 entering today \u2014 (7:50 - 3rd \u2014 GS @ NY)",
+    "kind": "rank_pass",
+    "player": "Veronica Burton",
+    "stat": "three-pointers",
+    "rank": 193,
+    "passed_players": [
+      "Leonie Fiebich"
+    ],
+    "new_total": 107
+  },
+  {
+    "ts": "2026-05-22T01:16:00+00:00",
+    "text": "Breanna Stewart passed Jewell Loyd for #101 all-time in fouls (career 658) \u2014 up from #102 entering today \u2014 (7:50 - 3rd \u2014 GS @ NY)",
+    "kind": "rank_pass",
+    "player": "Breanna Stewart",
+    "stat": "fouls",
+    "rank": 101,
+    "passed_players": [
+      "Jewell Loyd"
+    ],
+    "new_total": 658
+  },
+  {
     "ts": "2026-05-22T00:56:00+00:00",
     "text": "Kayla Thornton passed Mwadi Mabika for #84 all-time in rebounds (career 1,328) \u2014 up from #86 entering today \u2014 (Halftime \u2014 GS @ NY)",
     "kind": "rank_pass",
@@ -3013,29 +3037,5 @@
       "Allisha Gray"
     ],
     "new_total": 1348
-  },
-  {
-    "ts": "2026-05-14T03:06:00+00:00",
-    "text": "Monique Billings passed Isabelle Harrison for #190 all-time in turnovers (career 301) \u2014 up from #191 entering today \u2014 (6:52 - 2nd \u2014 IND @ LA)",
-    "kind": "rank_pass",
-    "player": "Monique Billings",
-    "stat": "turnovers",
-    "rank": 190,
-    "passed_players": [
-      "Isabelle Harrison"
-    ],
-    "new_total": 301
-  },
-  {
-    "ts": "2026-05-14T03:06:00+00:00",
-    "text": "Monique Billings passed Iziane Castro Marques for #170 all-time in fouls (career 503) \u2014 up from #171 entering today \u2014 (6:52 - 2nd \u2014 IND @ LA)",
-    "kind": "rank_pass",
-    "player": "Monique Billings",
-    "stat": "fouls",
-    "rank": 170,
-    "passed_players": [
-      "Iziane Castro Marques"
-    ],
-    "new_total": 503
   }
 ]

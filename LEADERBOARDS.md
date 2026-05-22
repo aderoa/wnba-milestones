@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-22 01:15 UTC_
+_Last updated: 2026-05-22 01:16 UTC_
 
 ## Contents
 
@@ -1237,8 +1237,8 @@ _Last updated: 2026-05-22 01:15 UTC_
 | 189 | Scholanda Dorrell | 109 |
 | 191 | Belinda Snell | 108 |
 | 192 | Layshia Clarendon | 107 |
-| 193 | Leonie Fiebich | 106 |
-| 193 | **Veronica Burton** 🔴 +2 | 106 |
+| 192 | **Veronica Burton** 🔴 +3 | 107 |
+| 194 | Leonie Fiebich | 106 |
 | 195 | Laurie Koehn | 105 |
 | 196 | **Julie Vanloo** 🔴 | 104 |
 | 197 | Jeanette Pohlen-Mavunga | 103 |
@@ -1555,8 +1555,8 @@ _Last updated: 2026-05-22 01:15 UTC_
 | 98 | Chamique Holdsclaw | 667 |
 | 99 | Cheyenne Parker-Tyus | 666 |
 | 100 | Tianna Hawkins | 662 |
-| 101 | **Breanna Stewart** 🔴 +1 | 657 |
-| 101 | Jewell Loyd | 657 |
+| 101 | **Breanna Stewart** 🔴 +2 | 658 |
+| 102 | Jewell Loyd | 657 |
 | 103 | Tari Phillips | 648 |
 | 104 | Marie Ferdinand-Harris | 646 |
 | 105 | **Kayla Thornton** 🔴 +1 | 645 |
