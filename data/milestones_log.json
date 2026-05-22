@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-05-22T03:54:00+00:00",
+    "text": "Cameron Brink passed Myisha Hines-Allen and Wendy Palmer for #188 all-time in blocks (career 71) \u2014 up from #192 entering today \u2014 (9:40 - 4th \u2014 LA @ PHX)",
+    "kind": "rank_pass",
+    "player": "Cameron Brink",
+    "stat": "blocks",
+    "rank": 188,
+    "passed_players": [
+      "Myisha Hines-Allen",
+      "Wendy Palmer"
+    ],
+    "new_total": 71
+  },
+  {
     "ts": "2026-05-22T03:38:00+00:00",
     "text": "Kahleah Copper passed Shekinna Stricklen for #157 all-time in steals (career 214) \u2014 (3:30 - 3rd \u2014 LA @ PHX)",
     "kind": "rank_pass",
@@ -3032,17 +3045,5 @@
       "Elena Baranova"
     ],
     "new_total": 431
-  },
-  {
-    "ts": "2026-05-15T02:01:00+00:00",
-    "text": "Kayla McBride passed Vicky Bullett for #101 all-time in rebounds (career 1,190) \u2014 up from #103 entering today \u2014 (51.0 - 4th \u2014 MIN @ DAL)",
-    "kind": "rank_pass",
-    "player": "Kayla McBride",
-    "stat": "rebounds",
-    "rank": 101,
-    "passed_players": [
-      "Vicky Bullett"
-    ],
-    "new_total": 1190
   }
 ]

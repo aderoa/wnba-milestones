@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-22 03:53 UTC_
+_Last updated: 2026-05-22 03:54 UTC_
 
 ## Contents
 
@@ -819,11 +819,11 @@ _Last updated: 2026-05-22 03:53 UTC_
 | 182 | Christi Thomas | 72 |
 | 182 | Olympia Scott | 72 |
 | 182 | Sue Bird | 72 |
+| 186 | **Cameron Brink** 🔴 +4 | 71 |
 | 186 | Marlies Askamp | 71 |
 | 186 | Tanisha Wright | 71 |
-| 188 | **Cameron Brink** 🔴 +3 | 70 |
-| 188 | Myisha Hines-Allen | 70 |
-| 188 | Wendy Palmer | 70 |
+| 189 | Myisha Hines-Allen | 70 |
+| 189 | Wendy Palmer | 70 |
 | 191 | Mercedes Russell | 69 |
 | 191 | Rhonda Mapp | 69 |
 | 193 | Satou Sabally | 68 |
@@ -1540,7 +1540,7 @@ _Last updated: 2026-05-22 03:53 UTC_
 | 82 | Nicole Powell | 701 |
 | 84 | Tan White | 698 |
 | 85 | Katie Douglas | 697 |
-| 86 | **Ariel Atkins** 🔴 +4 | 693 |
+| 86 | **Ariel Atkins** 🔴 +5 | 694 |
 | 87 | Danielle Robinson | 692 |
 | 88 | Sophia Young-Malcolm | 687 |
 | 89 | Maya Moore | 686 |
