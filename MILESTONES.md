@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-22 02:46 UTC
+
+- **DeWanna Bonner** passed **Jia Perkins** for **#7** all-time in steals (career 635) — up from #8 entering today — _4:56 - 2nd — LA @ PHX_
+
 ## 2026-05-22 02:37 UTC
 
 - **Natasha Mack** passed **Erin Perperoglou** and **Glory Johnson** for **#114** all-time in blocks (career 109) — up from #116 entering today — _8:44 - 2nd — LA @ PHX_

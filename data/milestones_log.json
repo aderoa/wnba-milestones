@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-22T02:46:00+00:00",
+    "text": "DeWanna Bonner passed Jia Perkins for #7 all-time in steals (career 635) \u2014 up from #8 entering today \u2014 (4:56 - 2nd \u2014 LA @ PHX)",
+    "kind": "rank_pass",
+    "player": "DeWanna Bonner",
+    "stat": "steals",
+    "rank": 7,
+    "passed_players": [
+      "Jia Perkins"
+    ],
+    "new_total": 635
+  },
+  {
     "ts": "2026-05-22T02:37:00+00:00",
     "text": "Natasha Mack passed Erin Perperoglou and Glory Johnson for #114 all-time in blocks (career 109) \u2014 up from #116 entering today \u2014 (8:44 - 2nd \u2014 LA @ PHX)",
     "kind": "rank_pass",
@@ -3031,14 +3043,5 @@
       "Chamique Holdsclaw"
     ],
     "new_total": 790
-  },
-  {
-    "ts": "2026-05-15T00:46:00+00:00",
-    "text": "Paige Bueckers reached 200 career assists (now 200) \u2014 (1:59 - 2nd \u2014 MIN @ DAL)",
-    "kind": "round",
-    "player": "Paige Bueckers",
-    "stat": "assists",
-    "value": 200,
-    "new_total": 200
   }
 ]
