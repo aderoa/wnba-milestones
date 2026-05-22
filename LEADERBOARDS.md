@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-22 23:45 UTC_
+_Last updated: 2026-05-22 23:46 UTC_
 
 ## Contents
 
@@ -50,7 +50,7 @@ _Last updated: 2026-05-22 23:45 UTC_
 | 29 | Taj McWilliams-Franklin | 4,992 |
 | 30 | Maya Moore | 4,984 |
 | 31 | **Tiffany Hayes** 🔴 | 4,927 |
-| 32 | **Kelsey Mitchell** 🔴 +2 | 4,909 |
+| 32 | **Kelsey Mitchell** 🔴 +4 | 4,911 |
 | 33 | Sheryl Swoopes | 4,875 |
 | 34 | Alana Beard | 4,740 |
 | 35 | Chamique Holdsclaw | 4,713 |
@@ -299,7 +299,7 @@ _Last updated: 2026-05-22 23:45 UTC_
 | 72 | Katie Smith | 1,383 |
 | 74 | Ebony Hoffman | 1,376 |
 | 75 | **Allisha Gray** 🔴 +1 | 1,369 |
-| 76 | **Monique Billings** 🔴 | 1,367 |
+| 76 | **Monique Billings** 🔴 +1 | 1,368 |
 | 77 | Sheri Sam | 1,356 |
 | 78 | Tamika Whitmore | 1,355 |
 | 79 | Emma Meesseman | 1,350 |
@@ -576,7 +576,7 @@ _Last updated: 2026-05-22 23:45 UTC_
 | 143 | Nikki McCray | 450 |
 | 146 | Ruth Riley | 449 |
 | 147 | DeMya Walker | 446 |
-| 147 | Tyasha Harris | 446 |
+| 147 | **Tyasha Harris** 🔴 | 446 |
 | 149 | Essence Carson | 445 |
 | 150 | Sug Sutton | 438 |
 | 151 | Michelle Snow | 437 |
@@ -820,9 +820,9 @@ _Last updated: 2026-05-22 23:45 UTC_
 | 182 | Olympia Scott | 72 |
 | 182 | Sue Bird | 72 |
 | 186 | Marlies Askamp | 71 |
+| 186 | **Myisha Hines-Allen** 🔴 +1 | 71 |
 | 186 | Tanisha Wright | 71 |
-| 188 | **Myisha Hines-Allen** 🔴 | 70 |
-| 188 | Wendy Palmer | 70 |
+| 189 | Wendy Palmer | 70 |
 | 190 | Mercedes Russell | 69 |
 | 190 | Rhonda Mapp | 69 |
 | 192 | Cameron Brink | 67 |
@@ -913,8 +913,8 @@ _Last updated: 2026-05-22 23:45 UTC_
 | 72 | Helen Darling | 343 |
 | 73 | Andrea Stinson | 342 |
 | 73 | Natasha Cloud | 342 |
-| 75 | **Arike Ogunbowale** 🔴 | 340 |
-| 75 | Armintie Herrington | 340 |
+| 75 | **Arike Ogunbowale** 🔴 +1 | 341 |
+| 76 | Armintie Herrington | 340 |
 | 77 | A'ja Wilson | 339 |
 | 78 | Dawn Staley | 338 |
 | 79 | Marie Ferdinand-Harris | 331 |
@@ -1178,7 +1178,7 @@ _Last updated: 2026-05-22 23:45 UTC_
 | 130 | Charlotte Smith | 164 |
 | 132 | Ukari Figgs | 162 |
 | 133 | Edna Campbell | 161 |
-| 133 | Tyasha Harris | 161 |
+| 133 | **Tyasha Harris** 🔴 | 161 |
 | 135 | Dana Evans | 160 |
 | 135 | Jennifer Lacy | 160 |
 | 137 | Aari McDonald | 158 |
