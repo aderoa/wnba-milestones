@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-22 03:48 UTC_
+_Last updated: 2026-05-22 03:49 UTC_
 
 ## Contents
 
@@ -71,7 +71,7 @@ _Last updated: 2026-05-22 03:48 UTC_
 | 50 | Allisha Gray | 4,232 |
 | 51 | Vickie Johnson | 4,230 |
 | 52 | Yolanda Griffith | 4,224 |
-| 53 | **Dearica Hamby** 🔴 +20 | 4,178 |
+| 53 | **Dearica Hamby** 🔴 +23 | 4,181 |
 | 54 | **Kahleah Copper** 🔴 +16 | 4,170 |
 | 55 | Jonquel Jones | 4,148 |
 | 56 | Courtney Williams | 4,139 |
@@ -454,7 +454,7 @@ _Last updated: 2026-05-22 03:48 UTC_
 | 23 | Kristi Toliver | 1,301 |
 | 24 | **Erica Wheeler** 🔴 +3 | 1,278 |
 | 25 | Katie Smith | 1,258 |
-| 26 | **Kelsey Plum** 🔴 +5 | 1,220 |
+| 26 | **Kelsey Plum** 🔴 +6 | 1,221 |
 | 27 | Odyssey Sims | 1,210 |
 | 28 | Vickie Johnson | 1,202 |
 | 29 | Leilani Mitchell | 1,197 |
@@ -993,9 +993,9 @@ _Last updated: 2026-05-22 03:48 UTC_
 | 151 | Candice Wiggins | 215 |
 | 151 | Cheyenne Parker-Tyus | 215 |
 | 151 | Elena Baranova | 215 |
-| 155 | **Kahleah Copper** 🔴 +1 | 214 |
 | 155 | Rhyne Howard | 214 |
-| 157 | Shekinna Stricklen | 213 |
+| 156 | **Kahleah Copper** 🔴 | 213 |
+| 156 | Shekinna Stricklen | 213 |
 | 158 | Nikki Teasley | 211 |
 | 159 | Iziane Castro Marques | 209 |
 | 159 | Marina Mabrey | 209 |
@@ -1198,8 +1198,8 @@ _Last updated: 2026-05-22 03:48 UTC_
 | 150 | Matee Ajavon | 144 |
 | 152 | Shenise Johnson | 143 |
 | 153 | Katie Lou Samuelson | 142 |
+| 154 | **Dearica Hamby** 🔴 +2 | 141 |
 | 154 | Jordan Hooper | 141 |
-| 155 | **Dearica Hamby** 🔴 +1 | 140 |
 | 156 | Coco Miller | 139 |
 | 157 | Loree Moore | 138 |
 | 157 | Tanisha Wright | 138 |
@@ -1512,9 +1512,9 @@ _Last updated: 2026-05-22 03:48 UTC_
 | 55 | Penny Taylor | 832 |
 | 56 | Dominique Canty | 831 |
 | 56 | Wendy Palmer | 831 |
-| 58 | **Dearica Hamby** 🔴 +2 | 813 |
 | 58 | Shannon Johnson | 813 |
 | 58 | Tully Bevilaqua | 813 |
+| 60 | **Dearica Hamby** 🔴 +1 | 812 |
 | 61 | Skylar Diggins | 797 |
 | 62 | Nykesha Sales | 796 |
 | 63 | Ebony Hoffman | 791 |
