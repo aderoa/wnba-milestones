@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-22 23:48 UTC_
+_Last updated: 2026-05-22 23:49 UTC_
 
 ## Contents
 
@@ -49,7 +49,7 @@ _Last updated: 2026-05-22 23:48 UTC_
 | 28 | Tangela Smith | 5,035 |
 | 29 | Taj McWilliams-Franklin | 4,992 |
 | 30 | Maya Moore | 4,984 |
-| 31 | **Tiffany Hayes** 🔴 +2 | 4,929 |
+| 31 | **Tiffany Hayes** 🔴 +4 | 4,931 |
 | 32 | **Kelsey Mitchell** 🔴 +4 | 4,911 |
 | 33 | Sheryl Swoopes | 4,875 |
 | 34 | Alana Beard | 4,740 |
@@ -68,7 +68,7 @@ _Last updated: 2026-05-22 23:48 UTC_
 | 47 | Sophia Young-Malcolm | 4,300 |
 | 48 | Plenette Pierson | 4,258 |
 | 49 | Monique Currie | 4,253 |
-| 50 | **Allisha Gray** 🔴 | 4,232 |
+| 50 | **Allisha Gray** 🔴 +2 | 4,234 |
 | 51 | Vickie Johnson | 4,230 |
 | 52 | Yolanda Griffith | 4,224 |
 | 53 | Dearica Hamby | 4,158 |
@@ -193,7 +193,7 @@ _Last updated: 2026-05-22 23:48 UTC_
 | 172 | Ebony Hoffman | 1,909 |
 | 173 | Candice Wiggins | 1,901 |
 | 174 | **Myisha Hines-Allen** 🔴 | 1,895 |
-| 175 | **Aliyah Boston** 🔴 | 1,834 |
+| 175 | **Aliyah Boston** 🔴 +2 | 1,836 |
 | 176 | Isabelle Harrison | 1,832 |
 | 177 | Damiris Dantas | 1,830 |
 | 178 | Tianna Hawkins | 1,825 |
@@ -555,10 +555,10 @@ _Last updated: 2026-05-22 23:48 UTC_
 | 123 | Chasity Melvin | 508 |
 | 125 | Anna DeForge | 503 |
 | 125 | Coco Miller | 503 |
-| 127 | **Veronica Burton** 🔴 | 501 |
+| 127 | **Veronica Burton** 🔴 +1 | 502 |
 | 128 | Rachel Banham | 498 |
+| 129 | **Caitlin Clark** 🔴 +2 | 490 |
 | 129 | **Rhyne Howard** 🔴 | 490 |
-| 130 | **Caitlin Clark** 🔴 +1 | 489 |
 | 131 | Crystal Robinson | 488 |
 | 131 | Tiffany Mitchell | 488 |
 | 133 | Rebekkah Brunson | 486 |
@@ -829,7 +829,7 @@ _Last updated: 2026-05-22 23:48 UTC_
 | 192 | Jackie Young | 67 |
 | 192 | Satou Sabally | 67 |
 | 192 | Shannon Johnson | 67 |
-| 196 | Awak Kuier | 66 |
+| 196 | **Awak Kuier** 🔴 | 66 |
 | 197 | Crystal Robinson | 65 |
 | 197 | Queen Egbo | 65 |
 | 197 | Riquna Williams | 65 |
@@ -906,8 +906,8 @@ _Last updated: 2026-05-22 23:48 UTC_
 | 64 | Renee Montgomery | 356 |
 | 66 | Tamecka Dixon | 355 |
 | 67 | Vicky Bullett | 353 |
+| 68 | **Allisha Gray** 🔴 +1 | 352 |
 | 68 | Svetlana Abrosimova | 352 |
-| 69 | **Allisha Gray** 🔴 | 351 |
 | 70 | Erica Wheeler | 349 |
 | 71 | Janeth Arcain | 346 |
 | 72 | Helen Darling | 343 |
@@ -1356,7 +1356,7 @@ _Last updated: 2026-05-22 23:48 UTC_
 | 102 | Wendy Palmer | 517 |
 | 105 | Tully Bevilaqua | 514 |
 | 106 | Jia Perkins | 513 |
-| 107 | **Arike Ogunbowale** 🔴 | 509 |
+| 107 | **Arike Ogunbowale** 🔴 +1 | 510 |
 | 108 | Tamera Young | 501 |
 | 109 | **Jordin Canada** 🔴 | 496 |
 | 110 | Marina Mabrey | 494 |
