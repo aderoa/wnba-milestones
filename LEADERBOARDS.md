@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-22 02:07 UTC_
+_Last updated: 2026-05-22 02:08 UTC_
 
 ## Contents
 
@@ -64,7 +64,7 @@ _Last updated: 2026-05-22 02:07 UTC_
 | 43 | Crystal Langhorne | 4,433 |
 | 43 | Jia Perkins | 4,433 |
 | 45 | Courtney Vandersloot | 4,352 |
-| 46 | **Kelsey Plum** 🔴 | 4,314 |
+| 46 | **Kelsey Plum** 🔴 +3 | 4,317 |
 | 47 | Sophia Young-Malcolm | 4,300 |
 | 48 | Plenette Pierson | 4,258 |
 | 49 | Monique Currie | 4,253 |
@@ -217,7 +217,7 @@ _Last updated: 2026-05-22 02:07 UTC_
 | 196 | Le'coe Willingham | 1,552 |
 | 197 | Shatori Walker-Kimbrough | 1,544 |
 | 198 | Monique Billings | 1,528 |
-| 199 | **Rebecca Allen** 🔴 +4 | 1,521 |
+| 199 | **Rebecca Allen** 🔴 +5 | 1,522 |
 | 200 | Jennifer Lacy | 1,504 |
 
 ## Rebounds
@@ -452,7 +452,7 @@ _Last updated: 2026-05-22 02:07 UTC_
 | 21 | Dawn Staley | 1,337 |
 | 22 | Teresa Weatherspoon | 1,333 |
 | 23 | Kristi Toliver | 1,301 |
-| 24 | **Erica Wheeler** 🔴 | 1,275 |
+| 24 | **Erica Wheeler** 🔴 +1 | 1,276 |
 | 25 | Katie Smith | 1,258 |
 | 26 | **Kelsey Plum** 🔴 | 1,215 |
 | 27 | Odyssey Sims | 1,210 |
@@ -956,7 +956,7 @@ _Last updated: 2026-05-22 02:07 UTC_
 | 115 | Michelle Snow | 262 |
 | 116 | Karima Christmas-Kelly | 261 |
 | 117 | Riquna Williams | 260 |
-| 118 | **Kelsey Plum** 🔴 | 258 |
+| 118 | **Kelsey Plum** 🔴 +1 | 259 |
 | 119 | **Kayla Thornton** 🔴 +1 | 256 |
 | 119 | Noelle Quinn | 256 |
 | 121 | Elaine Powell | 255 |
@@ -1057,7 +1057,7 @@ _Last updated: 2026-05-22 02:07 UTC_
 | 10 | **DeWanna Bonner** 🔴 | 668 |
 | 11 | Kristi Toliver | 651 |
 | 12 | Tamika Catchings | 605 |
-| 13 | **Kelsey Plum** 🔴 | 598 |
+| 13 | **Kelsey Plum** 🔴 +1 | 599 |
 | 14 | Kara Lawson | 583 |
 | 15 | Nicole Powell | 579 |
 | 16 | Arike Ogunbowale | 549 |
@@ -1303,8 +1303,8 @@ _Last updated: 2026-05-22 02:07 UTC_
 | 51 | Danielle Robinson | 680 |
 | 52 | Sheryl Swoopes | 677 |
 | 53 | Natasha Cloud | 673 |
+| 54 | **Erica Wheeler** 🔴 +1 | 672 |
 | 54 | Tammy Sutton-Brown | 672 |
-| 55 | **Erica Wheeler** 🔴 | 671 |
 | 56 | Deanna Nolan | 669 |
 | 57 | **Dearica Hamby** 🔴 | 667 |
 | 58 | Chasity Melvin | 666 |
