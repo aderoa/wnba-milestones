@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-22 00:47 UTC_
+_Last updated: 2026-05-22 00:48 UTC_
 
 ## Contents
 
@@ -74,8 +74,8 @@ _Last updated: 2026-05-22 00:47 UTC_
 | 53 | Dearica Hamby | 4,158 |
 | 54 | Kahleah Copper | 4,154 |
 | 55 | **Jonquel Jones** 🔴 +7 | 4,139 |
-| 56 | **Courtney Williams** 🔴 +9 | 4,133 |
-| 56 | Rebekkah Brunson | 4,133 |
+| 56 | **Courtney Williams** 🔴 +12 | 4,136 |
+| 57 | Rebekkah Brunson | 4,133 |
 | 58 | Asjha Jones | 3,986 |
 | 59 | Deanna Nolan | 3,971 |
 | 60 | Nykesha Sales | 3,931 |
@@ -533,9 +533,9 @@ _Last updated: 2026-05-22 00:47 UTC_
 | 102 | Sancho Lyttle | 592 |
 | 103 | Camille Smith | 590 |
 | 104 | Armintie Herrington | 589 |
-| 105 | Betnijah Laney-Hamilton | 578 |
-| 105 | **Natasha Howard** 🔴 +1 | 578 |
-| 105 | Tan White | 578 |
+| 105 | **Natasha Howard** 🔴 +2 | 579 |
+| 106 | Betnijah Laney-Hamilton | 578 |
+| 106 | Tan White | 578 |
 | 108 | Matee Ajavon | 577 |
 | 109 | Napheesa Collier | 570 |
 | 110 | Nicole Powell | 567 |
@@ -654,7 +654,7 @@ _Last updated: 2026-05-22 00:47 UTC_
 | 18 | Tina Thompson | 372 |
 | 19 | Erika de Souza | 370 |
 | 20 | Jessica Breland | 367 |
-| 21 | **Natasha Howard** 🔴 +1 | 361 |
+| 21 | **Natasha Howard** 🔴 | 360 |
 | 22 | Ezi Magbegor | 354 |
 | 23 | DeWanna Bonner | 349 |
 | 23 | Diana Taurasi | 349 |
@@ -1128,7 +1128,7 @@ _Last updated: 2026-05-22 00:47 UTC_
 | 81 | Bridget Carleton | 272 |
 | 82 | Sheryl Swoopes | 270 |
 | 83 | Stefanie Dolson | 269 |
-| 84 | **Courtney Williams** 🔴 +1 | 261 |
+| 84 | **Courtney Williams** 🔴 +2 | 262 |
 | 85 | Sophia Witherspoon | 260 |
 | 86 | Dawn Staley | 254 |
 | 87 | Bria Hartley | 253 |
