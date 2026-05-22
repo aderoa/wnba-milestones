@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-22 04:18 UTC
+
+- **DeWanna Bonner** passed **Diana Taurasi** and **Elena Delle Donne** for **#24** all-time in blocks (career 350) — _50.2 - 4th — LA @ PHX_
+
 ## 2026-05-22 04:13 UTC
 
 - **Erica Wheeler** passed **Briann January** for **#91** all-time in points (career 3,083) — up from #92 entering today — _2:38 - 4th — LA @ PHX_

@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-05-22T04:18:00+00:00",
+    "text": "DeWanna Bonner passed Diana Taurasi and Elena Delle Donne for #24 all-time in blocks (career 350) \u2014 (50.2 - 4th \u2014 LA @ PHX)",
+    "kind": "rank_pass",
+    "player": "DeWanna Bonner",
+    "stat": "blocks",
+    "rank": 24,
+    "passed_players": [
+      "Diana Taurasi",
+      "Elena Delle Donne"
+    ],
+    "new_total": 350
+  },
+  {
     "ts": "2026-05-22T04:13:00+00:00",
     "text": "Erica Wheeler passed Briann January for #91 all-time in points (career 3,083) \u2014 up from #92 entering today \u2014 (2:38 - 4th \u2014 LA @ PHX)",
     "kind": "rank_pass",
@@ -3032,18 +3045,5 @@
       "Nakia Sanford"
     ],
     "new_total": 182
-  },
-  {
-    "ts": "2026-05-15T02:22:00+00:00",
-    "text": "Sug Sutton passed Adrienne Goodson and Crystal Langhorne for #152 all-time in assists (career 434) \u2014 up from #155 entering today \u2014 (3:26 - 1st \u2014 NY @ POR)",
-    "kind": "rank_pass",
-    "player": "Sug Sutton",
-    "stat": "assists",
-    "rank": 152,
-    "passed_players": [
-      "Adrienne Goodson",
-      "Crystal Langhorne"
-    ],
-    "new_total": 434
   }
 ]

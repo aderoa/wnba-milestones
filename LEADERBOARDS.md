@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-22 04:17 UTC_
+_Last updated: 2026-05-22 04:18 UTC_
 
 ## Contents
 
@@ -247,7 +247,7 @@ _Last updated: 2026-05-22 04:17 UTC_
 | 21 | Crystal Langhorne | 2,454 |
 | 22 | Lauren Jackson | 2,444 |
 | 23 | Yolanda Griffith | 2,440 |
-| 24 | **Dearica Hamby** 🔴 +14 | 2,360 |
+| 24 | **Dearica Hamby** 🔴 +15 | 2,361 |
 | 25 | Tangela Smith | 2,328 |
 | 26 | Erika de Souza | 2,220 |
 | 27 | Natasha Howard | 2,210 |
@@ -327,7 +327,7 @@ _Last updated: 2026-05-22 04:17 UTC_
 | 101 | Latasha Byears | 1,190 |
 | 101 | Tanisha Wright | 1,190 |
 | 103 | Vicky Bullett | 1,189 |
-| 104 | **Kahleah Copper** 🔴 +4 | 1,151 |
+| 104 | **Kahleah Copper** 🔴 +5 | 1,152 |
 | 105 | Nykesha Sales | 1,148 |
 | 106 | Shannon Johnson | 1,143 |
 | 107 | Adrian Williams-Strong | 1,131 |
@@ -656,9 +656,9 @@ _Last updated: 2026-05-22 04:17 UTC_
 | 20 | Jessica Breland | 367 |
 | 21 | Natasha Howard | 360 |
 | 22 | Ezi Magbegor | 354 |
-| 23 | **DeWanna Bonner** 🔴 | 349 |
-| 23 | Diana Taurasi | 349 |
-| 23 | Elena Delle Donne | 349 |
+| 23 | **DeWanna Bonner** 🔴 +1 | 350 |
+| 24 | Diana Taurasi | 349 |
+| 24 | Elena Delle Donne | 349 |
 | 26 | DeLisha Milton-Jones | 339 |
 | 27 | Kiah Stokes | 325 |
 | 28 | Yolanda Griffith | 323 |
