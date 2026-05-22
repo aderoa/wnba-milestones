@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-22 02:58 UTC_
+_Last updated: 2026-05-22 02:59 UTC_
 
 ## Contents
 
@@ -71,8 +71,8 @@ _Last updated: 2026-05-22 02:58 UTC_
 | 50 | Allisha Gray | 4,232 |
 | 51 | Vickie Johnson | 4,230 |
 | 52 | Yolanda Griffith | 4,224 |
-| 53 | **Dearica Hamby** 🔴 +4 | 4,162 |
-| 53 | **Kahleah Copper** 🔴 +8 | 4,162 |
+| 53 | **Dearica Hamby** 🔴 +6 | 4,164 |
+| 54 | **Kahleah Copper** 🔴 +8 | 4,162 |
 | 55 | Jonquel Jones | 4,148 |
 | 56 | Courtney Williams | 4,139 |
 | 57 | Rebekkah Brunson | 4,133 |
@@ -454,7 +454,7 @@ _Last updated: 2026-05-22 02:58 UTC_
 | 23 | Kristi Toliver | 1,301 |
 | 24 | **Erica Wheeler** 🔴 +3 | 1,278 |
 | 25 | Katie Smith | 1,258 |
-| 26 | **Kelsey Plum** 🔴 +2 | 1,217 |
+| 26 | **Kelsey Plum** 🔴 +3 | 1,218 |
 | 27 | Odyssey Sims | 1,210 |
 | 28 | Vickie Johnson | 1,202 |
 | 29 | Leilani Mitchell | 1,197 |
