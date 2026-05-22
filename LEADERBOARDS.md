@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-22 23:58 UTC_
+_Last updated: 2026-05-22 23:59 UTC_
 
 ## Contents
 
@@ -342,7 +342,7 @@ _Last updated: 2026-05-22 23:58 UTC_
 | 116 | Natasha Cloud | 1,093 |
 | 117 | NaLyssa Smith | 1,081 |
 | 118 | Svetlana Abrosimova | 1,078 |
-| 119 | **Aliyah Boston** 🔴 +3 | 1,069 |
+| 119 | **Aliyah Boston** 🔴 +4 | 1,070 |
 | 120 | Le'coe Willingham | 1,054 |
 | 121 | Isabelle Harrison | 1,049 |
 | 122 | Nicole Ohlde | 1,040 |
@@ -934,7 +934,7 @@ _Last updated: 2026-05-22 23:58 UTC_
 | 93 | Crystal Langhorne | 314 |
 | 94 | Ebony Hoffman | 308 |
 | 95 | Tamera Young | 305 |
-| 96 | **Gabby Williams** 🔴 +1 | 303 |
+| 96 | **Gabby Williams** 🔴 +2 | 304 |
 | 97 | Kedra Holland-Corn | 301 |
 | 98 | Lindsey Harding | 295 |
 | 99 | Janel McCarville | 294 |
@@ -1321,7 +1321,7 @@ _Last updated: 2026-05-22 23:58 UTC_
 | 69 | Jonquel Jones | 617 |
 | 70 | Rebekkah Brunson | 615 |
 | 71 | Seimone Augustus | 613 |
-| 72 | **Tiffany Hayes** 🔴 | 605 |
+| 72 | **Tiffany Hayes** 🔴 +1 | 606 |
 | 73 | Teresa Weatherspoon | 601 |
 | 74 | Lindsey Harding | 600 |
 | 74 | Tamika Whitmore | 600 |
@@ -1432,9 +1432,9 @@ _Last updated: 2026-05-22 23:58 UTC_
 | 180 | Satou Sabally | 323 |
 | 181 | Barbara Farris | 315 |
 | 181 | Kia Nurse | 315 |
+| 183 | **Gabby Williams** 🔴 +1 | 314 |
 | 183 | Moriah Jefferson | 314 |
-| 184 | Alex Bentley | 313 |
-| 184 | **Gabby Williams** 🔴 | 313 |
+| 185 | Alex Bentley | 313 |
 | 186 | Tamika Raymond | 311 |
 | 187 | **Caitlin Clark** 🔴 | 309 |
 | 188 | Erin Perperoglou | 305 |
