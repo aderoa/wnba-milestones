@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-22 23:50 UTC_
+_Last updated: 2026-05-22 23:51 UTC_
 
 ## Contents
 
@@ -68,7 +68,7 @@ _Last updated: 2026-05-22 23:50 UTC_
 | 47 | Sophia Young-Malcolm | 4,300 |
 | 48 | Plenette Pierson | 4,258 |
 | 49 | Monique Currie | 4,253 |
-| 50 | **Allisha Gray** 🔴 +2 | 4,234 |
+| 50 | **Allisha Gray** 🔴 +4 | 4,236 |
 | 51 | Vickie Johnson | 4,230 |
 | 52 | Yolanda Griffith | 4,224 |
 | 53 | Dearica Hamby | 4,158 |
@@ -1436,7 +1436,7 @@ _Last updated: 2026-05-22 23:50 UTC_
 | 184 | Alex Bentley | 313 |
 | 184 | **Gabby Williams** 🔴 | 313 |
 | 186 | Tamika Raymond | 311 |
-| 187 | **Caitlin Clark** 🔴 | 309 |
+| 187 | **Caitlin Clark** 🔴 +1 | 310 |
 | 188 | Erin Perperoglou | 305 |
 | 188 | Jennifer Lacy | 305 |
 | 190 | **Monique Billings** 🔴 | 304 |
@@ -1613,9 +1613,9 @@ _Last updated: 2026-05-22 23:50 UTC_
 | 156 | Kayla McBride | 515 |
 | 157 | Jackie Young | 514 |
 | 158 | Jantel Lavender | 513 |
-| 159 | Adrienne Goodson | 512 |
-| 159 | Janeth Arcain | 512 |
-| 159 | **Sophie Cunningham** 🔴 | 512 |
+| 158 | **Sophie Cunningham** 🔴 +1 | 513 |
+| 160 | Adrienne Goodson | 512 |
+| 160 | Janeth Arcain | 512 |
 | 162 | Andrea Stinson | 511 |
 | 162 | **Monique Billings** 🔴 +1 | 511 |
 | 164 | Vicky Bullett | 507 |
