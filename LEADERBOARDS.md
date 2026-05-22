@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-22 01:21 UTC_
+_Last updated: 2026-05-22 01:22 UTC_
 
 ## Contents
 
@@ -73,7 +73,7 @@ _Last updated: 2026-05-22 01:21 UTC_
 | 52 | Yolanda Griffith | 4,224 |
 | 53 | Dearica Hamby | 4,158 |
 | 54 | Kahleah Copper | 4,154 |
-| 55 | **Jonquel Jones** 🔴 +11 | 4,143 |
+| 55 | **Jonquel Jones** 🔴 +13 | 4,145 |
 | 56 | **Courtney Williams** 🔴 +12 | 4,136 |
 | 57 | Rebekkah Brunson | 4,133 |
 | 58 | Asjha Jones | 3,986 |
@@ -306,8 +306,8 @@ _Last updated: 2026-05-22 01:21 UTC_
 | 80 | Jewell Loyd | 1,347 |
 | 81 | Elena Baranova | 1,335 |
 | 82 | Brionna Jones | 1,333 |
-| 83 | **Kayla Thornton** 🔴 +5 | 1,330 |
-| 84 | Erlana Larkins | 1,329 |
+| 83 | Erlana Larkins | 1,329 |
+| 83 | **Kayla Thornton** 🔴 +4 | 1,329 |
 | 85 | Mwadi Mabika | 1,327 |
 | 86 | Jayne Appel Marinelli | 1,326 |
 | 87 | Betty Lennox | 1,296 |
@@ -476,7 +476,7 @@ _Last updated: 2026-05-22 01:21 UTC_
 | 45 | Tamecka Dixon | 960 |
 | 46 | **Kayla McBride** 🔴 +2 | 954 |
 | 47 | Kara Lawson | 946 |
-| 48 | **Breanna Stewart** 🔴 +1 | 939 |
+| 48 | **Breanna Stewart** 🔴 +2 | 940 |
 | 49 | Deanna Nolan | 930 |
 | 50 | Kelly Miller | 927 |
 | 51 | **Tiffany Hayes** 🔴 +1 | 922 |
