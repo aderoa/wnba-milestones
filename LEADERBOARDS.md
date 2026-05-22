@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-22 03:54 UTC_
+_Last updated: 2026-05-22 03:55 UTC_
 
 ## Contents
 
@@ -247,7 +247,7 @@ _Last updated: 2026-05-22 03:54 UTC_
 | 21 | Crystal Langhorne | 2,454 |
 | 22 | Lauren Jackson | 2,444 |
 | 23 | Yolanda Griffith | 2,440 |
-| 24 | **Dearica Hamby** 🔴 +11 | 2,357 |
+| 24 | **Dearica Hamby** 🔴 +12 | 2,358 |
 | 25 | Tangela Smith | 2,328 |
 | 26 | Erika de Souza | 2,220 |
 | 27 | Natasha Howard | 2,210 |
@@ -327,7 +327,7 @@ _Last updated: 2026-05-22 03:54 UTC_
 | 101 | Latasha Byears | 1,190 |
 | 101 | Tanisha Wright | 1,190 |
 | 103 | Vicky Bullett | 1,189 |
-| 104 | **Kahleah Copper** 🔴 +2 | 1,149 |
+| 104 | **Kahleah Copper** 🔴 +3 | 1,150 |
 | 105 | Nykesha Sales | 1,148 |
 | 106 | Shannon Johnson | 1,143 |
 | 107 | Adrian Williams-Strong | 1,131 |
@@ -378,7 +378,7 @@ _Last updated: 2026-05-22 03:54 UTC_
 | 152 | Shameka Christon | 867 |
 | 153 | Krystal Thomas | 862 |
 | 154 | Angel Reese | 861 |
-| 155 | **Erica Wheeler** 🔴 | 858 |
+| 155 | **Erica Wheeler** 🔴 +1 | 859 |
 | 156 | Alanna Smith | 847 |
 | 157 | Leilani Mitchell | 845 |
 | 158 | Jessica Shepard | 836 |
@@ -1518,8 +1518,8 @@ _Last updated: 2026-05-22 03:54 UTC_
 | 61 | Skylar Diggins | 797 |
 | 62 | Nykesha Sales | 796 |
 | 63 | Ebony Hoffman | 791 |
+| 64 | **Erica Wheeler** 🔴 +5 | 775 |
 | 64 | Sue Bird | 775 |
-| 65 | **Erica Wheeler** 🔴 +4 | 774 |
 | 66 | Sheri Sam | 766 |
 | 67 | Kia Vaughn | 755 |
 | 68 | Vickie Johnson | 752 |
