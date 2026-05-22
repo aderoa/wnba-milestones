@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-22 03:21 UTC_
+_Last updated: 2026-05-22 03:22 UTC_
 
 ## Contents
 
@@ -98,7 +98,7 @@ _Last updated: 2026-05-22 03:21 UTC_
 | 77 | Ivory Latta | 3,447 |
 | 78 | Nicole Powell | 3,407 |
 | 79 | Epiphanny Prince | 3,381 |
-| 80 | **Ariel Atkins** 🔴 +5 | 3,376 |
+| 80 | **Ariel Atkins** 🔴 +8 | 3,379 |
 | 81 | Michelle Snow | 3,361 |
 | 82 | Tamika Whitmore | 3,359 |
 | 83 | Sheri Sam | 3,353 |
@@ -506,8 +506,8 @@ _Last updated: 2026-05-22 03:21 UTC_
 | 75 | Monique Currie | 740 |
 | 76 | Allisha Gray | 734 |
 | 77 | Elaine Powell | 728 |
-| 78 | Chamique Holdsclaw | 698 |
-| 78 | **Dearica Hamby** 🔴 +1 | 698 |
+| 78 | **Dearica Hamby** 🔴 +2 | 699 |
+| 79 | Chamique Holdsclaw | 698 |
 | 80 | Shavonte Zellous | 693 |
 | 81 | Allie Quigley | 690 |
 | 82 | Stefanie Dolson | 688 |
@@ -1073,7 +1073,7 @@ _Last updated: 2026-05-22 03:21 UTC_
 | 26 | Breanna Stewart | 456 |
 | 27 | Marina Mabrey | 448 |
 | 27 | Tiffany Hayes | 448 |
-| 29 | **Ariel Atkins** 🔴 +1 | 441 |
+| 29 | **Ariel Atkins** 🔴 +2 | 442 |
 | 30 | Lauren Jackson | 436 |
 | 31 | Shameka Christon | 434 |
 | 32 | Allisha Gray | 432 |
@@ -1519,7 +1519,7 @@ _Last updated: 2026-05-22 03:21 UTC_
 | 62 | Nykesha Sales | 796 |
 | 63 | Ebony Hoffman | 791 |
 | 64 | Sue Bird | 775 |
-| 65 | **Erica Wheeler** 🔴 +3 | 773 |
+| 65 | **Erica Wheeler** 🔴 +4 | 774 |
 | 66 | Sheri Sam | 766 |
 | 67 | Kia Vaughn | 755 |
 | 68 | Vickie Johnson | 752 |
