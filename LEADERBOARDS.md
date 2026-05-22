@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-22 00:09 UTC_
+_Last updated: 2026-05-22 00:10 UTC_
 
 ## Contents
 
@@ -44,7 +44,7 @@ _Last updated: 2026-05-22 00:09 UTC_
 | 23 | Katie Douglas | 5,545 |
 | 24 | Skylar Diggins | 5,525 |
 | 25 | Lindsay Whalen | 5,511 |
-| 26 | **Kayla McBride** 🔴 | 5,454 |
+| 26 | **Kayla McBride** 🔴 +3 | 5,457 |
 | 27 | Swin Cash | 5,119 |
 | 28 | Tangela Smith | 5,035 |
 | 29 | Taj McWilliams-Franklin | 4,992 |
@@ -534,9 +534,9 @@ _Last updated: 2026-05-22 00:09 UTC_
 | 103 | Camille Smith | 590 |
 | 104 | Armintie Herrington | 589 |
 | 105 | Betnijah Laney-Hamilton | 578 |
+| 105 | **Natasha Howard** 🔴 +1 | 578 |
 | 105 | Tan White | 578 |
-| 107 | Matee Ajavon | 577 |
-| 107 | **Natasha Howard** 🔴 | 577 |
+| 108 | Matee Ajavon | 577 |
 | 109 | Napheesa Collier | 570 |
 | 110 | Nicole Powell | 567 |
 | 111 | Loree Moore | 562 |
@@ -1050,7 +1050,7 @@ _Last updated: 2026-05-22 00:09 UTC_
 | 3 | Katie Smith | 906 |
 | 4 | Becky Hammon | 825 |
 | 5 | Tina Thompson | 745 |
-| 6 | **Kayla McBride** 🔴 | 728 |
+| 6 | **Kayla McBride** 🔴 +1 | 729 |
 | 7 | Katie Douglas | 723 |
 | 8 | Kelsey Mitchell | 679 |
 | 9 | Jewell Loyd | 673 |
@@ -1358,8 +1358,8 @@ _Last updated: 2026-05-22 00:09 UTC_
 | 106 | Jia Perkins | 513 |
 | 107 | Arike Ogunbowale | 509 |
 | 108 | Tamera Young | 501 |
-| 109 | Jordin Canada | 496 |
-| 109 | **Marina Mabrey** 🔴 +2 | 496 |
+| 109 | **Marina Mabrey** 🔴 +3 | 497 |
+| 110 | Jordin Canada | 496 |
 | 111 | Nikki Teasley | 493 |
 | 111 | Tari Phillips | 493 |
 | 113 | Janel McCarville | 491 |
@@ -1599,7 +1599,7 @@ _Last updated: 2026-05-22 00:09 UTC_
 | 142 | Jayne Appel Marinelli | 543 |
 | 142 | Renee Montgomery | 543 |
 | 144 | Marissa Coleman | 541 |
-| 145 | **Marina Mabrey** 🔴 +1 | 534 |
+| 145 | **Marina Mabrey** 🔴 +2 | 535 |
 | 146 | A'ja Wilson | 533 |
 | 146 | Kristen Rasmussen | 533 |
 | 148 | Amanda Zahui B | 530 |
