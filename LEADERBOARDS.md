@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-22 01:11 UTC_
+_Last updated: 2026-05-22 01:12 UTC_
 
 ## Contents
 
@@ -250,7 +250,7 @@ _Last updated: 2026-05-22 01:11 UTC_
 | 24 | Dearica Hamby | 2,346 |
 | 25 | Tangela Smith | 2,328 |
 | 26 | Erika de Souza | 2,220 |
-| 27 | **Natasha Howard** 🔴 +4 | 2,208 |
+| 27 | **Natasha Howard** 🔴 +5 | 2,209 |
 | 28 | Diana Taurasi | 2,201 |
 | 29 | Margo Dydek | 2,138 |
 | 30 | Chamique Holdsclaw | 2,123 |
@@ -445,7 +445,7 @@ _Last updated: 2026-05-22 01:11 UTC_
 | 14 | Danielle Robinson | 1,480 |
 | 15 | Shannon Johnson | 1,423 |
 | 15 | Tanisha Wright | 1,423 |
-| 17 | **Courtney Williams** 🔴 +2 | 1,384 |
+| 17 | **Courtney Williams** 🔴 +3 | 1,385 |
 | 18 | Temeka Johnson | 1,382 |
 | 19 | Jasmine Thomas | 1,355 |
 | 20 | Briann January | 1,339 |
@@ -880,7 +880,7 @@ _Last updated: 2026-05-22 01:11 UTC_
 | 39 | Candice Dupree | 431 |
 | 40 | Epiphanny Prince | 429 |
 | 41 | Tanisha Wright | 427 |
-| 42 | **Kayla McBride** 🔴 | 425 |
+| 42 | **Kayla McBride** 🔴 +1 | 426 |
 | 43 | **Breanna Stewart** 🔴 | 415 |
 | 44 | Katie Smith | 408 |
 | 45 | Cappie Pondexter | 405 |
@@ -1000,8 +1000,8 @@ _Last updated: 2026-05-22 01:11 UTC_
 | 159 | Iziane Castro Marques | 209 |
 | 159 | Tiffany Mitchell | 209 |
 | 161 | Kia Vaughn | 208 |
+| 161 | **Marina Mabrey** 🔴 +1 | 208 |
 | 161 | Sophia Witherspoon | 208 |
-| 163 | **Marina Mabrey** 🔴 | 207 |
 | 164 | Shameka Christon | 205 |
 | 165 | Jessica Breland | 204 |
 | 165 | Murriel Page | 204 |
@@ -1277,7 +1277,7 @@ _Last updated: 2026-05-22 01:11 UTC_
 | 25 | Alana Beard | 854 |
 | 26 | DeWanna Bonner | 830 |
 | 27 | Katie Douglas | 824 |
-| 28 | **Natasha Howard** 🔴 +2 | 806 |
+| 28 | **Natasha Howard** 🔴 +3 | 807 |
 | 29 | Betty Lennox | 800 |
 | 30 | Jasmine Thomas | 796 |
 | 31 | Nneka Ogwumike | 791 |
@@ -1358,7 +1358,7 @@ _Last updated: 2026-05-22 01:11 UTC_
 | 106 | Jia Perkins | 513 |
 | 107 | Arike Ogunbowale | 509 |
 | 108 | Tamera Young | 501 |
-| 109 | **Marina Mabrey** 🔴 +3 | 497 |
+| 109 | **Marina Mabrey** 🔴 +4 | 498 |
 | 110 | Jordin Canada | 496 |
 | 111 | Nikki Teasley | 493 |
 | 111 | Tari Phillips | 493 |
