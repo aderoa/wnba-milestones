@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-22 23:49 UTC_
+_Last updated: 2026-05-22 23:50 UTC_
 
 ## Contents
 
@@ -49,7 +49,7 @@ _Last updated: 2026-05-22 23:49 UTC_
 | 28 | Tangela Smith | 5,035 |
 | 29 | Taj McWilliams-Franklin | 4,992 |
 | 30 | Maya Moore | 4,984 |
-| 31 | **Tiffany Hayes** 🔴 +4 | 4,931 |
+| 31 | **Tiffany Hayes** 🔴 +5 | 4,932 |
 | 32 | **Kelsey Mitchell** 🔴 +4 | 4,911 |
 | 33 | Sheryl Swoopes | 4,875 |
 | 34 | Alana Beard | 4,740 |
@@ -165,7 +165,7 @@ _Last updated: 2026-05-22 23:49 UTC_
 | 144 | Sami Whitcomb | 2,211 |
 | 145 | Sophia Witherspoon | 2,210 |
 | 146 | Kia Nurse | 2,204 |
-| 147 | **Jordin Canada** 🔴 +2 | 2,176 |
+| 147 | **Jordin Canada** 🔴 +4 | 2,178 |
 | 148 | Ruthie Bolton | 2,175 |
 | 149 | Ann Wauters | 2,170 |
 | 150 | Layshia Clarendon | 2,168 |
@@ -193,7 +193,7 @@ _Last updated: 2026-05-22 23:49 UTC_
 | 172 | Ebony Hoffman | 1,909 |
 | 173 | Candice Wiggins | 1,901 |
 | 174 | **Myisha Hines-Allen** 🔴 | 1,895 |
-| 175 | **Aliyah Boston** 🔴 +2 | 1,836 |
+| 175 | **Aliyah Boston** 🔴 +4 | 1,838 |
 | 176 | Isabelle Harrison | 1,832 |
 | 177 | Damiris Dantas | 1,830 |
 | 178 | Tianna Hawkins | 1,825 |
@@ -557,8 +557,8 @@ _Last updated: 2026-05-22 23:49 UTC_
 | 125 | Coco Miller | 503 |
 | 127 | **Veronica Burton** 🔴 +1 | 502 |
 | 128 | Rachel Banham | 498 |
-| 129 | **Caitlin Clark** 🔴 +2 | 490 |
-| 129 | **Rhyne Howard** 🔴 | 490 |
+| 129 | **Caitlin Clark** 🔴 +3 | 491 |
+| 130 | **Rhyne Howard** 🔴 | 490 |
 | 131 | Crystal Robinson | 488 |
 | 131 | Tiffany Mitchell | 488 |
 | 133 | Rebekkah Brunson | 486 |
@@ -934,7 +934,7 @@ _Last updated: 2026-05-22 23:49 UTC_
 | 93 | Crystal Langhorne | 314 |
 | 94 | Ebony Hoffman | 308 |
 | 95 | Tamera Young | 305 |
-| 96 | **Gabby Williams** 🔴 | 302 |
+| 96 | **Gabby Williams** 🔴 +1 | 303 |
 | 97 | Kedra Holland-Corn | 301 |
 | 98 | Lindsey Harding | 295 |
 | 99 | Janel McCarville | 294 |
