@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-22 23:35 UTC_
+_Last updated: 2026-05-22 23:36 UTC_
 
 ## Contents
 
@@ -1617,7 +1617,7 @@ _Last updated: 2026-05-22 23:35 UTC_
 | 159 | Janeth Arcain | 512 |
 | 159 | Sophie Cunningham | 512 |
 | 162 | Andrea Stinson | 511 |
-| 163 | **Monique Billings** 🔴 | 510 |
+| 162 | **Monique Billings** 🔴 +1 | 511 |
 | 164 | Vicky Bullett | 507 |
 | 165 | Merlakia Jones | 506 |
 | 166 | Rushia Brown | 505 |
