@@ -242,7 +242,7 @@ _Last updated: 2026-05-22 01:20 UTC_
 | 16 | Brittney Griner | 2,537 |
 | 17 | A'ja Wilson | 2,522 |
 | 18 | Swin Cash | 2,521 |
-| 19 | **Breanna Stewart** 🔴 +4 | 2,514 |
+| 19 | **Breanna Stewart** 🔴 +5 | 2,515 |
 | 20 | Michelle Snow | 2,476 |
 | 21 | Crystal Langhorne | 2,454 |
 | 22 | Lauren Jackson | 2,444 |
@@ -306,8 +306,8 @@ _Last updated: 2026-05-22 01:20 UTC_
 | 80 | Jewell Loyd | 1,347 |
 | 81 | Elena Baranova | 1,335 |
 | 82 | Brionna Jones | 1,333 |
-| 83 | Erlana Larkins | 1,329 |
-| 83 | **Kayla Thornton** 🔴 +4 | 1,329 |
+| 83 | **Kayla Thornton** 🔴 +5 | 1,330 |
+| 84 | Erlana Larkins | 1,329 |
 | 85 | Mwadi Mabika | 1,327 |
 | 86 | Jayne Appel Marinelli | 1,326 |
 | 87 | Betty Lennox | 1,296 |
@@ -648,7 +648,7 @@ _Last updated: 2026-05-22 01:20 UTC_
 | 12 | Taj McWilliams-Franklin | 443 |
 | 13 | **Breanna Stewart** 🔴 +1 | 434 |
 | 14 | Tina Charles | 428 |
-| 15 | **Jonquel Jones** 🔴 | 406 |
+| 15 | **Jonquel Jones** 🔴 +1 | 407 |
 | 16 | Michelle Snow | 403 |
 | 17 | Tamika Catchings | 383 |
 | 18 | Tina Thompson | 372 |
@@ -1277,7 +1277,7 @@ _Last updated: 2026-05-22 01:20 UTC_
 | 25 | Alana Beard | 854 |
 | 26 | DeWanna Bonner | 830 |
 | 27 | Katie Douglas | 824 |
-| 28 | **Natasha Howard** 🔴 +3 | 807 |
+| 28 | **Natasha Howard** 🔴 +4 | 808 |
 | 29 | Betty Lennox | 800 |
 | 30 | Jasmine Thomas | 796 |
 | 31 | Nneka Ogwumike | 791 |

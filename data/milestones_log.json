@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-22T01:20:00+00:00",
+    "text": "Kayla Thornton passed Erlana Larkins for #83 all-time in rebounds (career 1,330) \u2014 up from #86 entering today \u2014 (5:06 - 3rd \u2014 GS @ NY)",
+    "kind": "rank_pass",
+    "player": "Kayla Thornton",
+    "stat": "rebounds",
+    "rank": 83,
+    "passed_players": [
+      "Erlana Larkins"
+    ],
+    "new_total": 1330
+  },
+  {
     "ts": "2026-05-22T01:17:00+00:00",
     "text": "Gabby Williams passed Teresa Weatherspoon for #178 all-time in rebounds (career 776) \u2014 up from #179 entering today \u2014 (7:05 - 3rd \u2014 GS @ NY)",
     "kind": "rank_pass",
@@ -3025,17 +3037,5 @@
       "Cheryl Ford"
     ],
     "new_total": 1908
-  },
-  {
-    "ts": "2026-05-14T03:12:00+00:00",
-    "text": "Kamilla Cardoso passed Sandrine Gruda for #137 all-time in blocks (career 95) \u2014 up from #138 entering today \u2014 (6:29 - 3rd \u2014 CHI @ GS)",
-    "kind": "rank_pass",
-    "player": "Kamilla Cardoso",
-    "stat": "blocks",
-    "rank": 137,
-    "passed_players": [
-      "Sandrine Gruda"
-    ],
-    "new_total": 95
   }
 ]
