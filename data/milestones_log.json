@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-22T01:32:00+00:00",
+    "text": "Nia Coffey passed Kara Braxton for #72 all-time in blocks (career 158) \u2014 up from #73 entering today \u2014 (17.5 - 3rd \u2014 TOR @ MIN)",
+    "kind": "rank_pass",
+    "player": "Nia Coffey",
+    "stat": "blocks",
+    "rank": 72,
+    "passed_players": [
+      "Kara Braxton"
+    ],
+    "new_total": 158
+  },
+  {
     "ts": "2026-05-22T01:27:00+00:00",
     "text": "Marina Mabrey passed Kia Vaughn and Sophia Witherspoon for #161 all-time in steals (career 209) \u2014 up from #163 entering today \u2014 (2:27 - 3rd \u2014 TOR @ MIN)",
     "kind": "rank_pass",
@@ -3029,17 +3041,5 @@
       "Adrienne Johnson"
     ],
     "new_total": 103
-  },
-  {
-    "ts": "2026-05-14T03:34:00+00:00",
-    "text": "Natasha Cloud passed Chasity Melvin for #55 all-time in turnovers (career 667) \u2014 up from #57 entering today \u2014 (7:54 - 4th \u2014 CHI @ GS)",
-    "kind": "rank_pass",
-    "player": "Natasha Cloud",
-    "stat": "turnovers",
-    "rank": 55,
-    "passed_players": [
-      "Chasity Melvin"
-    ],
-    "new_total": 667
   }
 ]

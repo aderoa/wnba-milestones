@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-22 01:32 UTC
+
+- **Nia Coffey** passed **Kara Braxton** for **#72** all-time in blocks (career 158) — up from #73 entering today — _17.5 - 3rd — TOR @ MIN_
+
 ## 2026-05-22 01:27 UTC
 
 - **Marina Mabrey** passed **Kia Vaughn** and **Sophia Witherspoon** for **#161** all-time in steals (career 209) — up from #163 entering today — _2:27 - 3rd — TOR @ MIN_

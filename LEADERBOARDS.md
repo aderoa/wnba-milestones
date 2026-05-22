@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-22 01:31 UTC_
+_Last updated: 2026-05-22 01:32 UTC_
 
 ## Contents
 
@@ -384,8 +384,8 @@ _Last updated: 2026-05-22 01:31 UTC_
 | 158 | Jessica Shepard | 836 |
 | 159 | Essence Carson | 833 |
 | 160 | Kristi Toliver | 829 |
-| 161 | Marie Ferdinand-Harris | 828 |
-| 161 | **Marina Mabrey** 🔴 +1 | 828 |
+| 160 | **Marina Mabrey** 🔴 +2 | 829 |
+| 162 | Marie Ferdinand-Harris | 828 |
 | 163 | Marlies Askamp | 822 |
 | 164 | **Nia Coffey** 🔴 +2 | 821 |
 | 165 | Amanda Zahui B | 819 |
@@ -705,8 +705,8 @@ _Last updated: 2026-05-22 01:31 UTC_
 | 69 | Camille Smith | 169 |
 | 70 | Shameka Christon | 165 |
 | 71 | Cheryl Ford | 160 |
-| 72 | Kara Braxton | 157 |
-| 72 | **Nia Coffey** 🔴 | 157 |
+| 72 | **Nia Coffey** 🔴 +1 | 158 |
+| 73 | Kara Braxton | 157 |
 | 74 | DeMya Walker | 155 |
 | 74 | Tamika Whitmore | 155 |
 | 76 | Allisha Gray | 154 |
