@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-22 00:13 UTC
+
+- **Jonquel Jones** passed **Rebekkah Brunson** for **#55** all-time in points (career 4,134) — up from #56 entering today — _5:39 - 1st — GS @ NY_
+
 ## 2026-05-22 00:11 UTC
 
 - **Breanna Stewart** passed **Tan White** for **#87** all-time in turnovers (career 558) — _6:39 - 1st — GS @ NY_
