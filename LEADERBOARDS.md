@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-22 23:46 UTC_
+_Last updated: 2026-05-22 23:47 UTC_
 
 ## Contents
 
@@ -49,7 +49,7 @@ _Last updated: 2026-05-22 23:46 UTC_
 | 28 | Tangela Smith | 5,035 |
 | 29 | Taj McWilliams-Franklin | 4,992 |
 | 30 | Maya Moore | 4,984 |
-| 31 | **Tiffany Hayes** 🔴 | 4,927 |
+| 31 | **Tiffany Hayes** 🔴 +2 | 4,929 |
 | 32 | **Kelsey Mitchell** 🔴 +4 | 4,911 |
 | 33 | Sheryl Swoopes | 4,875 |
 | 34 | Alana Beard | 4,740 |
@@ -394,7 +394,7 @@ _Last updated: 2026-05-22 23:46 UTC_
 | 168 | Tierra Ruffin-Pratt | 799 |
 | 169 | Charlotte Smith | 794 |
 | 170 | Betnijah Laney-Hamilton | 792 |
-| 171 | **Naz Hillmon** 🔴 +1 | 789 |
+| 171 | **Naz Hillmon** 🔴 +2 | 790 |
 | 172 | Rhonda Mapp | 788 |
 | 173 | Mercedes Russell | 786 |
 | 174 | **Odyssey Sims** 🔴 | 780 |
@@ -707,9 +707,9 @@ _Last updated: 2026-05-22 23:46 UTC_
 | 71 | Cheryl Ford | 160 |
 | 72 | Kara Braxton | 157 |
 | 72 | Nia Coffey | 157 |
+| 74 | **Allisha Gray** 🔴 +1 | 155 |
 | 74 | DeMya Walker | 155 |
 | 74 | Tamika Whitmore | 155 |
-| 76 | **Allisha Gray** 🔴 | 154 |
 | 77 | Ann Wauters | 153 |
 | 77 | Sue Wicks | 153 |
 | 79 | Jessica Davenport | 151 |
@@ -892,8 +892,8 @@ _Last updated: 2026-05-22 23:46 UTC_
 | 51 | Briann January | 386 |
 | 52 | Swin Cash | 384 |
 | 52 | Tina Charles | 384 |
-| 54 | Monique Currie | 378 |
-| 54 | **Tiffany Hayes** 🔴 | 378 |
+| 54 | **Tiffany Hayes** 🔴 +1 | 379 |
+| 55 | Monique Currie | 378 |
 | 56 | Chamique Holdsclaw | 376 |
 | 57 | **Jordin Canada** 🔴 +1 | 370 |
 | 57 | Mwadi Mabika | 370 |
@@ -1409,7 +1409,7 @@ _Last updated: 2026-05-22 23:46 UTC_
 | 157 | Anna DeForge | 374 |
 | 157 | Cheryl Ford | 374 |
 | 159 | Allison Feaster | 372 |
-| 160 | **Myisha Hines-Allen** 🔴 | 368 |
+| 160 | **Myisha Hines-Allen** 🔴 +1 | 369 |
 | 161 | Emma Meesseman | 367 |
 | 162 | Latasha Byears | 360 |
 | 163 | Vicky Bullett | 359 |

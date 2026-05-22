@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-22 23:47 UTC
+
+- **Tiffany Hayes** passed **Monique Currie** for **#54** all-time in steals (career 379) — up from #55 entering today — _3:09 - 1st — GS @ IND_
+
 ## 2026-05-22 23:43 UTC
 
 - **Rhyne Howard** passed **Asjha Jones**, **Candice Wiggins**, **Cheyenne Parker-Tyus**, and **Elena Baranova** for **#151** all-time in steals (career 216) — up from #155 entering today — _4:42 - 1st — DAL @ ATL_
