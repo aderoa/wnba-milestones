@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-22 01:13 UTC_
+_Last updated: 2026-05-22 01:14 UTC_
 
 ## Contents
 
@@ -169,7 +169,7 @@ _Last updated: 2026-05-22 01:13 UTC_
 | 148 | Jordin Canada | 2,174 |
 | 149 | Ann Wauters | 2,170 |
 | 150 | Layshia Clarendon | 2,168 |
-| 151 | **Satou Sabally** 🔴 +2 | 2,163 |
+| 151 | **Satou Sabally** 🔴 +5 | 2,166 |
 | 152 | Murriel Page | 2,146 |
 | 153 | Marissa Coleman | 2,140 |
 | 154 | Tari Phillips | 2,134 |
@@ -236,7 +236,7 @@ _Last updated: 2026-05-22 01:13 UTC_
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | Alyssa Thomas | 2,770 |
-| 13 | **Jonquel Jones** 🔴 +4 | 2,603 |
+| 13 | **Jonquel Jones** 🔴 +5 | 2,604 |
 | 14 | Sancho Lyttle | 2,596 |
 | 15 | DeLisha Milton-Jones | 2,574 |
 | 16 | Brittney Griner | 2,537 |
@@ -250,7 +250,7 @@ _Last updated: 2026-05-22 01:13 UTC_
 | 24 | Dearica Hamby | 2,346 |
 | 25 | Tangela Smith | 2,328 |
 | 26 | Erika de Souza | 2,220 |
-| 27 | **Natasha Howard** 🔴 +5 | 2,209 |
+| 27 | **Natasha Howard** 🔴 +6 | 2,210 |
 | 28 | Diana Taurasi | 2,201 |
 | 29 | Margo Dydek | 2,138 |
 | 30 | Chamique Holdsclaw | 2,123 |
@@ -264,7 +264,7 @@ _Last updated: 2026-05-22 01:13 UTC_
 | 38 | Sophia Young-Malcolm | 1,807 |
 | 39 | Lindsay Whalen | 1,805 |
 | 40 | Camille Smith | 1,802 |
-| 41 | **Courtney Williams** 🔴 +5 | 1,771 |
+| 41 | **Courtney Williams** 🔴 +7 | 1,773 |
 | 42 | **Kiah Stokes** 🔴 +1 | 1,761 |
 | 43 | Asjha Jones | 1,751 |
 | 44 | Teaira McCowan | 1,670 |
@@ -1148,7 +1148,7 @@ _Last updated: 2026-05-22 01:13 UTC_
 | 101 | Essence Carson | 223 |
 | 102 | Kelly Mazzante | 218 |
 | 102 | Sheri Sam | 218 |
-| 104 | **Satou Sabally** 🔴 | 212 |
+| 104 | **Satou Sabally** 🔴 +1 | 213 |
 | 105 | Damiris Dantas | 211 |
 | 105 | Erin Phillips | 211 |
 | 107 | Andrea Stinson | 207 |
@@ -1643,7 +1643,7 @@ _Last updated: 2026-05-22 01:13 UTC_
 | 186 | Rachel Banham | 478 |
 | 187 | Seimone Augustus | 477 |
 | 188 | Allie Quigley | 475 |
-| 189 | **Kia Nurse** 🔴 | 467 |
+| 189 | **Kia Nurse** 🔴 +1 | 468 |
 | 190 | **Nia Coffey** 🔴 +1 | 466 |
 | 191 | Azurá Stevens | 463 |
 | 191 | Christi Thomas | 463 |
