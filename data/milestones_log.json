@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-22T03:34:00+00:00",
+    "text": "Ariel Atkins passed Danielle Robinson for #86 all-time in fouls (career 693) \u2014 up from #87 entering today \u2014 (5:15 - 3rd \u2014 LA @ PHX)",
+    "kind": "rank_pass",
+    "player": "Ariel Atkins",
+    "stat": "fouls",
+    "rank": 86,
+    "passed_players": [
+      "Danielle Robinson"
+    ],
+    "new_total": 693
+  },
+  {
     "ts": "2026-05-22T03:24:00+00:00",
     "text": "Ariel Atkins passed Epiphanny Prince for #79 all-time in points (career 3,382) \u2014 up from #80 entering today \u2014 (8:20 - 3rd \u2014 LA @ PHX)",
     "kind": "rank_pass",
@@ -3031,17 +3043,5 @@
       "Chelsea Gray"
     ],
     "new_total": 1189
-  },
-  {
-    "ts": "2026-05-15T01:29:00+00:00",
-    "text": "Courtney Williams passed Dawn Staley for #85 all-time in three-pointers (career 255) \u2014 up from #87 entering today \u2014 (2:09 - 3rd \u2014 MIN @ DAL)",
-    "kind": "rank_pass",
-    "player": "Courtney Williams",
-    "stat": "three-pointers",
-    "rank": 85,
-    "passed_players": [
-      "Dawn Staley"
-    ],
-    "new_total": 255
   }
 ]

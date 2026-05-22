@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-22 03:34 UTC
+
+- **Ariel Atkins** passed **Danielle Robinson** for **#86** all-time in fouls (career 693) — up from #87 entering today — _5:15 - 3rd — LA @ PHX_
+
 ## 2026-05-22 03:24 UTC
 
 - **Ariel Atkins** passed **Epiphanny Prince** for **#79** all-time in points (career 3,382) — up from #80 entering today — _8:20 - 3rd — LA @ PHX_
