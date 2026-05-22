@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-22 00:11 UTC
+
+- **Breanna Stewart** passed **Tan White** for **#87** all-time in turnovers (career 558) — _6:39 - 1st — GS @ NY_
+
 ## 2026-05-22 00:08 UTC
 
 - **Gabby Williams** passed **Sophia Young-Malcolm** and **Tangela Smith** for **#113** all-time in assists (career 555) — _8:40 - 1st — GS @ NY_

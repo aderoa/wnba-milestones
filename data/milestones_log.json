@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-22T00:11:00+00:00",
+    "text": "Breanna Stewart passed Tan White for #87 all-time in turnovers (career 558) \u2014 (6:39 - 1st \u2014 GS @ NY)",
+    "kind": "rank_pass",
+    "player": "Breanna Stewart",
+    "stat": "turnovers",
+    "rank": 87,
+    "passed_players": [
+      "Tan White"
+    ],
+    "new_total": 558
+  },
+  {
     "ts": "2026-05-22T00:08:00+00:00",
     "text": "Gabby Williams passed Sophia Young-Malcolm and Tangela Smith for #113 all-time in assists (career 555) \u2014 (8:40 - 1st \u2014 GS @ NY)",
     "kind": "rank_pass",
@@ -3026,19 +3038,5 @@
       "Tamicha Jackson"
     ],
     "new_total": 390
-  },
-  {
-    "ts": "2026-05-14T00:25:00+00:00",
-    "text": "Marina Mabrey passed Jessica Breland, Murriel Page, and Shatori Walker-Kimbrough for #164 all-time in steals (career 205) \u2014 up from #169 entering today \u2014 (54.2 - 3rd \u2014 SEA @ TOR)",
-    "kind": "rank_pass",
-    "player": "Marina Mabrey",
-    "stat": "steals",
-    "rank": 164,
-    "passed_players": [
-      "Jessica Breland",
-      "Murriel Page",
-      "Shatori Walker-Kimbrough"
-    ],
-    "new_total": 205
   }
 ]
