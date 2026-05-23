@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-23 01:42 UTC_
+_Last updated: 2026-05-23 01:43 UTC_
 
 ## Contents
 
@@ -341,7 +341,7 @@ _Last updated: 2026-05-23 01:42 UTC_
 | 115 | Ann Wauters | 1,105 |
 | 116 | Natasha Cloud | 1,093 |
 | 117 | NaLyssa Smith | 1,081 |
-| 118 | **Aliyah Boston** 🔴 +13 | 1,079 |
+| 118 | **Aliyah Boston** 🔴 +14 | 1,080 |
 | 119 | Svetlana Abrosimova | 1,078 |
 | 120 | Le'coe Willingham | 1,054 |
 | 121 | Isabelle Harrison | 1,049 |
@@ -1444,7 +1444,7 @@ _Last updated: 2026-05-23 01:42 UTC_
 | 192 | Isabelle Harrison | 300 |
 | 193 | Crystal Robinson | 299 |
 | 194 | Michele Timms | 297 |
-| 195 | **Kayla Thornton** 🔴 | 289 |
+| 195 | **Kayla Thornton** 🔴 +1 | 290 |
 | 196 | Alexis Hornbuckle | 288 |
 | 196 | Kristen Rasmussen | 288 |
 | 196 | Rachel Banham | 288 |
