@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-23 00:00 UTC_
+_Last updated: 2026-05-23 00:01 UTC_
 
 ## Contents
 
@@ -316,7 +316,7 @@ _Last updated: 2026-05-23 00:00 UTC_
 | 90 | Liz Cambage | 1,258 |
 | 91 | Ezi Magbegor | 1,243 |
 | 92 | Azurá Stevens | 1,237 |
-| 93 | **Tiffany Hayes** 🔴 +1 | 1,234 |
+| 93 | **Tiffany Hayes** 🔴 +2 | 1,235 |
 | 94 | Brianna Turner | 1,229 |
 | 95 | Seimone Augustus | 1,228 |
 | 96 | **Myisha Hines-Allen** 🔴 | 1,224 |
@@ -933,8 +933,8 @@ _Last updated: 2026-05-23 00:00 UTC_
 | 90 | Debbie Black | 315 |
 | 93 | Crystal Langhorne | 314 |
 | 94 | Ebony Hoffman | 308 |
+| 95 | **Gabby Williams** 🔴 +3 | 305 |
 | 95 | Tamera Young | 305 |
-| 96 | **Gabby Williams** 🔴 +2 | 304 |
 | 97 | Kedra Holland-Corn | 301 |
 | 98 | Lindsey Harding | 295 |
 | 99 | Janel McCarville | 294 |
@@ -1336,8 +1336,8 @@ _Last updated: 2026-05-23 00:00 UTC_
 | 84 | Nikki McCray | 565 |
 | 85 | Sancho Lyttle | 563 |
 | 86 | Breanna Stewart | 557 |
+| 86 | **Kelsey Mitchell** 🔴 +1 | 557 |
 | 86 | Tan White | 557 |
-| 88 | **Kelsey Mitchell** 🔴 | 556 |
 | 89 | Lauren Jackson | 549 |
 | 90 | Matee Ajavon | 544 |
 | 91 | Adrienne Goodson | 542 |
