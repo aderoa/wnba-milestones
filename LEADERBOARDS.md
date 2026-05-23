@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-23 00:40 UTC_
+_Last updated: 2026-05-23 00:41 UTC_
 
 ## Contents
 
@@ -1430,9 +1430,9 @@ _Last updated: 2026-05-23 00:40 UTC_
 | 178 | Le'coe Willingham | 325 |
 | 179 | Olympia Scott | 324 |
 | 180 | Satou Sabally | 323 |
-| 181 | Barbara Farris | 315 |
-| 181 | **Gabby Williams** 🔴 +2 | 315 |
-| 181 | Kia Nurse | 315 |
+| 181 | **Gabby Williams** 🔴 +3 | 316 |
+| 182 | Barbara Farris | 315 |
+| 182 | Kia Nurse | 315 |
 | 184 | Moriah Jefferson | 314 |
 | 185 | Alex Bentley | 313 |
 | 186 | **Caitlin Clark** 🔴 +2 | 311 |
