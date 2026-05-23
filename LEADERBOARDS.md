@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-23 19:04 UTC_
+_Last updated: 2026-05-23 19:05 UTC_
 
 ## Contents
 
@@ -44,7 +44,7 @@ _Last updated: 2026-05-23 19:04 UTC_
 | 23 | Katie Douglas | 5,545 |
 | 24 | **Skylar Diggins** 🔴 +13 | 5,538 |
 | 25 | Lindsay Whalen | 5,511 |
-| 26 | **Kayla McBride** 🔴 +11 | 5,465 |
+| 26 | **Kayla McBride** 🔴 +13 | 5,467 |
 | 27 | Swin Cash | 5,119 |
 | 28 | Tangela Smith | 5,035 |
 | 29 | Taj McWilliams-Franklin | 4,992 |
@@ -533,7 +533,7 @@ _Last updated: 2026-05-23 19:04 UTC_
 | 102 | Sancho Lyttle | 592 |
 | 103 | Camille Smith | 590 |
 | 104 | Armintie Herrington | 589 |
-| 105 | **Natasha Howard** 🔴 +4 | 581 |
+| 105 | **Natasha Howard** 🔴 +5 | 582 |
 | 106 | Betnijah Laney-Hamilton | 578 |
 | 106 | Tan White | 578 |
 | 108 | Matee Ajavon | 577 |
@@ -1008,7 +1008,7 @@ _Last updated: 2026-05-23 19:04 UTC_
 | 165 | Shatori Walker-Kimbrough | 204 |
 | 168 | Adrienne Goodson | 203 |
 | 168 | Betnijah Laney-Hamilton | 203 |
-| 170 | **Azurá Stevens** 🔴 | 201 |
+| 170 | **Azurá Stevens** 🔴 +1 | 202 |
 | 171 | Allie Quigley | 198 |
 | 172 | Layshia Clarendon | 195 |
 | 173 | Sonja Henning | 194 |
