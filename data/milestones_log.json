@@ -1,5 +1,20 @@
 [
   {
+    "ts": "2026-05-23T22:10:00+00:00",
+    "text": "Emily Engstler passed Chante Black, Danielle Adams, Kamilla Cardoso, and Nicole Powell for #127 all-time in blocks (career 101) \u2014 up from #131 entering today \u2014 (6:36 - 1st \u2014 POR @ TOR)",
+    "kind": "rank_pass",
+    "player": "Emily Engstler",
+    "stat": "blocks",
+    "rank": 127,
+    "passed_players": [
+      "Chante Black",
+      "Danielle Adams",
+      "Kamilla Cardoso",
+      "Nicole Powell"
+    ],
+    "new_total": 101
+  },
+  {
     "ts": "2026-05-23T19:07:00+00:00",
     "text": "Courtney Williams passed Plenette Pierson and Temeka Johnson for #88 all-time in steals (career 318) \u2014 up from #91 entering today \u2014 (34.2 - 4th \u2014 MIN @ CHI)",
     "kind": "rank_pass",
@@ -3030,17 +3045,5 @@
       "Elizabeth Williams"
     ],
     "new_total": 709
-  },
-  {
-    "ts": "2026-05-17T17:54:00+00:00",
-    "text": "Stephanie Talbot passed Epiphanny Prince for #178 all-time in blocks (career 75) \u2014 up from #179 entering today \u2014 (4:48 - 1st \u2014 LV @ ATL)",
-    "kind": "rank_pass",
-    "player": "Stephanie Talbot",
-    "stat": "blocks",
-    "rank": 178,
-    "passed_players": [
-      "Epiphanny Prince"
-    ],
-    "new_total": 75
   }
 ]

@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-23 22:10 UTC
+
+- **Emily Engstler** passed **Chante Black**, **Danielle Adams**, **Kamilla Cardoso**, and **Nicole Powell** for **#127** all-time in blocks (career 101) — up from #131 entering today — _6:36 - 1st — POR @ TOR_
+
 ## 2026-05-23 19:07 UTC
 
 - **Courtney Williams** passed **Plenette Pierson** and **Temeka Johnson** for **#88** all-time in steals (career 318) — up from #91 entering today — _34.2 - 4th — MIN @ CHI_
