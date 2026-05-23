@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-23 18:26 UTC_
+_Last updated: 2026-05-23 18:27 UTC_
 
 ## Contents
 
@@ -44,7 +44,7 @@ _Last updated: 2026-05-23 18:26 UTC_
 | 23 | Katie Douglas | 5,545 |
 | 24 | **Skylar Diggins** 🔴 +13 | 5,538 |
 | 25 | Lindsay Whalen | 5,511 |
-| 26 | **Kayla McBride** 🔴 +5 | 5,459 |
+| 26 | **Kayla McBride** 🔴 +6 | 5,460 |
 | 27 | Swin Cash | 5,119 |
 | 28 | Tangela Smith | 5,035 |
 | 29 | Taj McWilliams-Franklin | 4,992 |
@@ -474,7 +474,7 @@ _Last updated: 2026-05-23 18:26 UTC_
 | 43 | Tina Charles | 1,033 |
 | 44 | Nikki Teasley | 982 |
 | 45 | Tamecka Dixon | 960 |
-| 46 | **Kayla McBride** 🔴 +3 | 955 |
+| 46 | **Kayla McBride** 🔴 +4 | 956 |
 | 47 | Kara Lawson | 946 |
 | 48 | Breanna Stewart | 938 |
 | 49 | Deanna Nolan | 930 |
@@ -1532,8 +1532,8 @@ _Last updated: 2026-05-23 18:26 UTC_
 | 75 | Kahleah Copper | 723 |
 | 76 | Kristi Toliver | 722 |
 | 77 | Allisha Gray | 714 |
-| 78 | Cheryl Ford | 713 |
-| 78 | **Elizabeth Williams** 🔴 | 713 |
+| 77 | **Elizabeth Williams** 🔴 +1 | 714 |
+| 79 | Cheryl Ford | 713 |
 | 80 | Jia Perkins | 711 |
 | 81 | Helen Darling | 709 |
 | 82 | Matee Ajavon | 701 |
