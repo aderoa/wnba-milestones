@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-23 01:17 UTC_
+_Last updated: 2026-05-23 01:18 UTC_
 
 ## Contents
 
@@ -1610,8 +1610,8 @@ _Last updated: 2026-05-23 01:17 UTC_
 | 153 | Sheryl Swoopes | 519 |
 | 154 | Nikki McCray | 517 |
 | 155 | Alex Bentley | 516 |
-| 155 | **Sophie Cunningham** 🔴 +4 | 516 |
-| 157 | Kayla McBride | 515 |
+| 156 | Kayla McBride | 515 |
+| 156 | **Sophie Cunningham** 🔴 +3 | 515 |
 | 158 | Jackie Young | 514 |
 | 159 | Jantel Lavender | 513 |
 | 160 | Adrienne Goodson | 512 |
