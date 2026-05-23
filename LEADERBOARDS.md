@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-23 18:34 UTC_
+_Last updated: 2026-05-23 18:35 UTC_
 
 ## Contents
 
@@ -791,10 +791,10 @@ _Last updated: 2026-05-23 18:34 UTC_
 | 154 | Shatori Walker-Kimbrough | 84 |
 | 156 | Tamera Young | 83 |
 | 157 | Damiris Dantas | 82 |
-| 158 | Charlotte Smith | 81 |
-| 158 | Cintia dos Santos | 81 |
-| 158 | Jessie Hicks | 81 |
-| 158 | **Natasha Cloud** 🔴 | 81 |
+| 157 | **Natasha Cloud** 🔴 +1 | 82 |
+| 159 | Charlotte Smith | 81 |
+| 159 | Cintia dos Santos | 81 |
+| 159 | Jessie Hicks | 81 |
 | 162 | Nykesha Sales | 80 |
 | 162 | Rushia Brown | 80 |
 | 164 | Astou Ndour-Fall | 78 |
