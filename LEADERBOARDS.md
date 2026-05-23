@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-23 00:06 UTC_
+_Last updated: 2026-05-23 00:07 UTC_
 
 ## Contents
 
@@ -68,7 +68,7 @@ _Last updated: 2026-05-23 00:06 UTC_
 | 47 | Sophia Young-Malcolm | 4,300 |
 | 48 | Plenette Pierson | 4,258 |
 | 49 | Monique Currie | 4,253 |
-| 50 | **Allisha Gray** 🔴 +4 | 4,236 |
+| 50 | **Allisha Gray** 🔴 +6 | 4,238 |
 | 51 | Vickie Johnson | 4,230 |
 | 52 | Yolanda Griffith | 4,224 |
 | 53 | Dearica Hamby | 4,158 |
@@ -557,8 +557,8 @@ _Last updated: 2026-05-23 00:06 UTC_
 | 125 | Coco Miller | 503 |
 | 127 | **Veronica Burton** 🔴 +1 | 502 |
 | 128 | Rachel Banham | 498 |
-| 129 | **Caitlin Clark** 🔴 +4 | 492 |
-| 129 | **Rhyne Howard** 🔴 +2 | 492 |
+| 129 | **Rhyne Howard** 🔴 +3 | 493 |
+| 130 | **Caitlin Clark** 🔴 +4 | 492 |
 | 131 | Crystal Robinson | 488 |
 | 131 | Tiffany Mitchell | 488 |
 | 133 | Rebekkah Brunson | 486 |
@@ -1436,7 +1436,7 @@ _Last updated: 2026-05-23 00:06 UTC_
 | 183 | Moriah Jefferson | 314 |
 | 185 | Alex Bentley | 313 |
 | 186 | Tamika Raymond | 311 |
-| 187 | **Caitlin Clark** 🔴 | 309 |
+| 187 | **Caitlin Clark** 🔴 +1 | 310 |
 | 188 | Erin Perperoglou | 305 |
 | 188 | Jennifer Lacy | 305 |
 | 188 | **Monique Billings** 🔴 +1 | 305 |
@@ -1574,7 +1574,7 @@ _Last updated: 2026-05-23 00:06 UTC_
 | 117 | Svetlana Abrosimova | 613 |
 | 118 | Chelsea Gray | 609 |
 | 118 | Layshia Clarendon | 609 |
-| 120 | **Odyssey Sims** 🔴 +1 | 605 |
+| 120 | **Odyssey Sims** 🔴 +2 | 606 |
 | 121 | Tiffany Mitchell | 604 |
 | 122 | Janel McCarville | 597 |
 | 123 | Kamila Vodichkova | 596 |
