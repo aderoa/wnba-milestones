@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-23 17:08 UTC_
+_Last updated: 2026-05-23 17:09 UTC_
 
 ## Contents
 
@@ -387,7 +387,7 @@ _Last updated: 2026-05-23 17:08 UTC_
 | 161 | Marie Ferdinand-Harris | 828 |
 | 162 | Marina Mabrey | 827 |
 | 163 | Marlies Askamp | 822 |
-| 164 | **Nia Coffey** 🔴 +1 | 820 |
+| 164 | **Nia Coffey** 🔴 +2 | 821 |
 | 165 | Amanda Zahui B | 819 |
 | 165 | Barbara Farris | 819 |
 | 167 | Carolyn Swords | 814 |
@@ -436,7 +436,7 @@ _Last updated: 2026-05-23 17:08 UTC_
 | 5 | Lindsay Whalen | 2,347 |
 | 6 | Chelsea Gray | 1,903 |
 | 7 | Alyssa Thomas | 1,854 |
-| 8 | **Skylar Diggins** 🔴 | 1,785 |
+| 8 | **Skylar Diggins** 🔴 +1 | 1,786 |
 | 9 | **Natasha Cloud** 🔴 | 1,747 |
 | 10 | Becky Hammon | 1,705 |
 | 11 | Candace Parker | 1,634 |
@@ -1169,8 +1169,8 @@ _Last updated: 2026-05-23 17:08 UTC_
 | 122 | Nikki McCray | 175 |
 | 123 | Shatori Walker-Kimbrough | 174 |
 | 123 | Tayler Hill | 174 |
-| 125 | **Nia Coffey** 🔴 | 172 |
-| 125 | Theresa Plaisance | 172 |
+| 125 | **Nia Coffey** 🔴 +1 | 173 |
+| 126 | Theresa Plaisance | 172 |
 | 127 | Amanda Lassiter | 170 |
 | 128 | Shavonte Zellous | 167 |
 | 128 | Tianna Hawkins | 167 |
@@ -1272,7 +1272,7 @@ _Last updated: 2026-05-23 17:08 UTC_
 | 20 | Shannon Johnson | 934 |
 | 21 | Taj McWilliams-Franklin | 898 |
 | 22 | Chelsea Gray | 888 |
-| 23 | **Skylar Diggins** 🔴 | 881 |
+| 23 | **Skylar Diggins** 🔴 +1 | 882 |
 | 24 | Candice Dupree | 869 |
 | 25 | Alana Beard | 854 |
 | 26 | DeWanna Bonner | 830 |
@@ -1527,7 +1527,7 @@ _Last updated: 2026-05-23 17:08 UTC_
 | 70 | Crystal Langhorne | 737 |
 | 71 | Shameka Christon | 734 |
 | 72 | Becky Hammon | 733 |
-| 73 | **Natasha Cloud** 🔴 | 731 |
+| 73 | **Natasha Cloud** 🔴 +1 | 732 |
 | 74 | Latasha Byears | 730 |
 | 75 | Kahleah Copper | 723 |
 | 76 | Kristi Toliver | 722 |

@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-23 17:09 UTC
+
+- **Nia Coffey** passed **Theresa Plaisance** for **#126** all-time in three-pointers (career 173) — _6:55 - 1st — MIN @ CHI_
+
 ## 2026-05-23 03:58 UTC
 
 - **Natisha Hiedeman** reached **600** career assists (now 600) — _1:33 - 4th — CON @ SEA_

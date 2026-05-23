@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-23T17:09:00+00:00",
+    "text": "Nia Coffey passed Theresa Plaisance for #126 all-time in three-pointers (career 173) \u2014 (6:55 - 1st \u2014 MIN @ CHI)",
+    "kind": "rank_pass",
+    "player": "Nia Coffey",
+    "stat": "three-pointers",
+    "rank": 126,
+    "passed_players": [
+      "Theresa Plaisance"
+    ],
+    "new_total": 173
+  },
+  {
     "ts": "2026-05-23T03:58:00+00:00",
     "text": "Natisha Hiedeman reached 600 career assists (now 600) \u2014 (1:33 - 4th \u2014 CON @ SEA)",
     "kind": "round",
@@ -3028,14 +3040,5 @@
       "Odyssey Sims"
     ],
     "new_total": 1202
-  },
-  {
-    "ts": "2026-05-16T03:21:00+00:00",
-    "text": "Kelsey Plum reached 1,200 career assists (now 1,200) \u2014 (6:19 - 3rd \u2014 TOR @ LA)",
-    "kind": "round",
-    "player": "Kelsey Plum",
-    "stat": "assists",
-    "value": 1200,
-    "new_total": 1200
   }
 ]
