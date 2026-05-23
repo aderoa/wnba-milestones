@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-23 19:03 UTC_
+_Last updated: 2026-05-23 19:04 UTC_
 
 ## Contents
 
@@ -73,7 +73,7 @@ _Last updated: 2026-05-23 19:03 UTC_
 | 52 | Yolanda Griffith | 4,224 |
 | 53 | Dearica Hamby | 4,158 |
 | 54 | Kahleah Copper | 4,154 |
-| 55 | **Courtney Williams** 🔴 +13 | 4,137 |
+| 55 | **Courtney Williams** 🔴 +15 | 4,139 |
 | 56 | Rebekkah Brunson | 4,133 |
 | 57 | Jonquel Jones | 4,132 |
 | 58 | Asjha Jones | 3,986 |
@@ -322,7 +322,7 @@ _Last updated: 2026-05-23 19:03 UTC_
 | 96 | Myisha Hines-Allen | 1,224 |
 | 97 | Jia Perkins | 1,220 |
 | 98 | Chelsea Gray | 1,210 |
-| 99 | **Kayla McBride** 🔴 +5 | 1,206 |
+| 99 | **Kayla McBride** 🔴 +6 | 1,207 |
 | 100 | DeMya Walker | 1,199 |
 | 101 | Latasha Byears | 1,190 |
 | 101 | Tanisha Wright | 1,190 |
@@ -386,7 +386,7 @@ _Last updated: 2026-05-23 19:03 UTC_
 | 160 | Kristi Toliver | 829 |
 | 161 | Marie Ferdinand-Harris | 828 |
 | 162 | Marina Mabrey | 827 |
-| 162 | **Nia Coffey** 🔴 +8 | 827 |
+| 163 | **Nia Coffey** 🔴 +7 | 826 |
 | 164 | Marlies Askamp | 822 |
 | 165 | Amanda Zahui B | 819 |
 | 165 | Barbara Farris | 819 |
@@ -436,7 +436,7 @@ _Last updated: 2026-05-23 19:03 UTC_
 | 5 | Lindsay Whalen | 2,347 |
 | 6 | Chelsea Gray | 1,903 |
 | 7 | Alyssa Thomas | 1,854 |
-| 8 | **Skylar Diggins** 🔴 +5 | 1,790 |
+| 8 | **Skylar Diggins** 🔴 +6 | 1,791 |
 | 9 | **Natasha Cloud** 🔴 +1 | 1,748 |
 | 10 | Becky Hammon | 1,705 |
 | 11 | Candace Parker | 1,634 |
@@ -926,9 +926,9 @@ _Last updated: 2026-05-23 19:03 UTC_
 | 85 | Napheesa Collier | 325 |
 | 86 | Betty Lennox | 323 |
 | 87 | Tammy Sutton-Brown | 319 |
+| 88 | **Courtney Williams** 🔴 +2 | 317 |
 | 88 | Plenette Pierson | 317 |
 | 88 | Temeka Johnson | 317 |
-| 90 | **Courtney Williams** 🔴 +1 | 316 |
 | 91 | Alysha Clark | 315 |
 | 91 | Debbie Black | 315 |
 | 93 | Crystal Langhorne | 314 |
@@ -1446,9 +1446,9 @@ _Last updated: 2026-05-23 19:03 UTC_
 | 194 | Michele Timms | 297 |
 | 195 | Kayla Thornton | 289 |
 | 196 | Alexis Hornbuckle | 288 |
+| 196 | **Azurá Stevens** 🔴 +2 | 288 |
 | 196 | Kristen Rasmussen | 288 |
 | 196 | **Rachel Banham** 🔴 | 288 |
-| 199 | **Azurá Stevens** 🔴 +1 | 287 |
 | 200 | Damiris Dantas | 286 |
 
 ## Personal fouls
