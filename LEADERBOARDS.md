@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-23 23:35 UTC_
+_Last updated: 2026-05-23 23:36 UTC_
 
 ## Contents
 
@@ -501,7 +501,7 @@ _Last updated: 2026-05-23 23:35 UTC_
 | 70 | Tina Thompson | 803 |
 | 71 | Epiphanny Prince | 800 |
 | 72 | Mwadi Mabika | 774 |
-| 73 | **Marina Mabrey** 🔴 +7 | 752 |
+| 73 | **Marina Mabrey** 🔴 +8 | 753 |
 | 74 | Sheri Sam | 745 |
 | 75 | Monique Currie | 740 |
 | 76 | Allisha Gray | 734 |
@@ -797,10 +797,10 @@ _Last updated: 2026-05-23 23:35 UTC_
 | 159 | Jessie Hicks | 81 |
 | 162 | Nykesha Sales | 80 |
 | 162 | Rushia Brown | 80 |
-| 164 | Astou Ndour-Fall | 78 |
-| 164 | Katie Smith | 78 |
-| 164 | **Marina Mabrey** 🔴 | 78 |
-| 164 | Slobodanka Tuvic | 78 |
+| 164 | **Marina Mabrey** 🔴 +1 | 79 |
+| 165 | Astou Ndour-Fall | 78 |
+| 165 | Katie Smith | 78 |
+| 165 | Slobodanka Tuvic | 78 |
 | 168 | Kara Wolters | 77 |
 | 168 | Noelle Quinn | 77 |
 | 168 | Tierra Ruffin-Pratt | 77 |
