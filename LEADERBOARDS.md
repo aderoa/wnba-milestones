@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-23 19:02 UTC_
+_Last updated: 2026-05-23 19:03 UTC_
 
 ## Contents
 
@@ -159,7 +159,7 @@ _Last updated: 2026-05-23 19:02 UTC_
 | 138 | Kara Braxton | 2,237 |
 | 138 | Matee Ajavon | 2,237 |
 | 140 | Dawn Staley | 2,228 |
-| 141 | **Azurá Stevens** 🔴 +4 | 2,223 |
+| 141 | **Azurá Stevens** 🔴 +6 | 2,225 |
 | 142 | Janel McCarville | 2,215 |
 | 142 | Teaira McCowan | 2,215 |
 | 144 | Sami Whitcomb | 2,211 |
@@ -315,7 +315,7 @@ _Last updated: 2026-05-23 19:02 UTC_
 | 89 | Janel McCarville | 1,261 |
 | 90 | Liz Cambage | 1,258 |
 | 91 | Ezi Magbegor | 1,243 |
-| 92 | **Azurá Stevens** 🔴 +2 | 1,239 |
+| 92 | **Azurá Stevens** 🔴 +3 | 1,240 |
 | 93 | Tiffany Hayes | 1,233 |
 | 94 | Brianna Turner | 1,229 |
 | 95 | Seimone Augustus | 1,228 |
@@ -386,7 +386,7 @@ _Last updated: 2026-05-23 19:02 UTC_
 | 160 | Kristi Toliver | 829 |
 | 161 | Marie Ferdinand-Harris | 828 |
 | 162 | Marina Mabrey | 827 |
-| 163 | **Nia Coffey** 🔴 +7 | 826 |
+| 162 | **Nia Coffey** 🔴 +8 | 827 |
 | 164 | Marlies Askamp | 822 |
 | 165 | Amanda Zahui B | 819 |
 | 165 | Barbara Farris | 819 |
@@ -436,7 +436,7 @@ _Last updated: 2026-05-23 19:02 UTC_
 | 5 | Lindsay Whalen | 2,347 |
 | 6 | Chelsea Gray | 1,903 |
 | 7 | Alyssa Thomas | 1,854 |
-| 8 | **Skylar Diggins** 🔴 +4 | 1,789 |
+| 8 | **Skylar Diggins** 🔴 +5 | 1,790 |
 | 9 | **Natasha Cloud** 🔴 +1 | 1,748 |
 | 10 | Becky Hammon | 1,705 |
 | 11 | Candace Parker | 1,634 |
