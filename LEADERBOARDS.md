@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-23 00:02 UTC_
+_Last updated: 2026-05-23 00:03 UTC_
 
 ## Contents
 
@@ -212,7 +212,7 @@ _Last updated: 2026-05-23 00:02 UTC_
 | 191 | Armintie Herrington | 1,696 |
 | 192 | Nikki Teasley | 1,690 |
 | 193 | Shenise Johnson | 1,688 |
-| 194 | **Gabby Williams** 🔴 +2 | 1,636 |
+| 194 | **Gabby Williams** 🔴 +4 | 1,638 |
 | 195 | Janell Burse | 1,580 |
 | 196 | Le'coe Willingham | 1,552 |
 | 197 | Shatori Walker-Kimbrough | 1,544 |
@@ -957,10 +957,10 @@ _Last updated: 2026-05-23 00:02 UTC_
 | 116 | Karima Christmas-Kelly | 261 |
 | 117 | Riquna Williams | 260 |
 | 118 | Kelsey Plum | 258 |
+| 119 | **Kayla Thornton** 🔴 +1 | 256 |
 | 119 | Noelle Quinn | 256 |
-| 120 | Elaine Powell | 255 |
-| 120 | **Kayla Thornton** 🔴 | 255 |
-| 120 | Loree Moore | 255 |
+| 121 | Elaine Powell | 255 |
+| 121 | Loree Moore | 255 |
 | 123 | Ruthie Bolton | 254 |
 | 124 | Hamchetou Maiga-Ba | 251 |
 | 124 | Tamika Whitmore | 251 |
@@ -1029,9 +1029,9 @@ _Last updated: 2026-05-23 00:02 UTC_
 | 188 | Diamond DeShields | 180 |
 | 188 | Isabelle Harrison | 180 |
 | 190 | Bridget Pettis | 177 |
-| 191 | Brittany Boyd-Jones | 176 |
-| 191 | Chiney Ogwumike | 176 |
-| 191 | **Monique Billings** 🔴 +1 | 176 |
+| 190 | **Monique Billings** 🔴 +2 | 177 |
+| 192 | Brittany Boyd-Jones | 176 |
+| 192 | Chiney Ogwumike | 176 |
 | 194 | Tamika Raymond | 175 |
 | 195 | Elena Delle Donne | 174 |
 | 195 | Ezi Magbegor | 174 |
@@ -1439,7 +1439,7 @@ _Last updated: 2026-05-23 00:02 UTC_
 | 187 | **Caitlin Clark** 🔴 | 309 |
 | 188 | Erin Perperoglou | 305 |
 | 188 | Jennifer Lacy | 305 |
-| 190 | **Monique Billings** 🔴 | 304 |
+| 188 | **Monique Billings** 🔴 +1 | 305 |
 | 191 | Tianna Hawkins | 303 |
 | 192 | Isabelle Harrison | 300 |
 | 193 | Crystal Robinson | 299 |

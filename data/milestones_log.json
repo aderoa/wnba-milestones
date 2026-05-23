@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-05-23T00:03:00+00:00",
+    "text": "Monique Billings passed Brittany Boyd-Jones and Chiney Ogwumike for #191 all-time in steals (career 177) \u2014 up from #193 entering today \u2014 (7:04 - 2nd \u2014 GS @ IND)",
+    "kind": "rank_pass",
+    "player": "Monique Billings",
+    "stat": "steals",
+    "rank": 191,
+    "passed_players": [
+      "Brittany Boyd-Jones",
+      "Chiney Ogwumike"
+    ],
+    "new_total": 177
+  },
+  {
     "ts": "2026-05-22T23:59:00+00:00",
     "text": "Gabby Williams passed Alex Bentley for #184 all-time in turnovers (career 314) \u2014 up from #185 entering today \u2014 (9:10 - 2nd \u2014 GS @ IND)",
     "kind": "rank_pass",
@@ -3034,18 +3047,5 @@
       "Michelle Snow"
     ],
     "new_total": 438
-  },
-  {
-    "ts": "2026-05-15T03:23:00+00:00",
-    "text": "Julie Vanloo passed Amber Jacobs and Veronica Burton for #198 all-time in three-pointers (career 102) \u2014 up from #200 entering today \u2014 (4:02 - 3rd \u2014 NY @ POR)",
-    "kind": "rank_pass",
-    "player": "Julie Vanloo",
-    "stat": "three-pointers",
-    "rank": 198,
-    "passed_players": [
-      "Amber Jacobs",
-      "Veronica Burton"
-    ],
-    "new_total": 102
   }
 ]
