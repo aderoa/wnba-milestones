@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-23 22:06 UTC_
+_Last updated: 2026-05-23 22:07 UTC_
 
 ## Contents
 
@@ -116,7 +116,7 @@ _Last updated: 2026-05-23 22:06 UTC_
 | 95 | Sabrina Ionescu | 3,030 |
 | 96 | Marie Ferdinand-Harris | 3,001 |
 | 97 | Emma Meesseman | 2,966 |
-| 98 | **Marina Mabrey** 🔴 | 2,941 |
+| 98 | **Marina Mabrey** 🔴 +3 | 2,944 |
 | 99 | Natalie Williams | 2,894 |
 | 99 | Natasha Cloud | 2,894 |
 | 101 | Jennifer Gillom | 2,888 |
@@ -1071,7 +1071,7 @@ _Last updated: 2026-05-23 22:06 UTC_
 | 24 | Cappie Pondexter | 464 |
 | 25 | Sabrina Ionescu | 460 |
 | 26 | Breanna Stewart | 456 |
-| 27 | **Marina Mabrey** 🔴 | 448 |
+| 27 | **Marina Mabrey** 🔴 +1 | 449 |
 | 28 | Tiffany Hayes | 447 |
 | 29 | Ariel Atkins | 440 |
 | 30 | Lauren Jackson | 436 |
