@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-23 23:14 UTC_
+_Last updated: 2026-05-23 23:15 UTC_
 
 ## Contents
 
@@ -1000,8 +1000,8 @@ _Last updated: 2026-05-23 23:14 UTC_
 | 159 | Iziane Castro Marques | 209 |
 | 159 | Tiffany Mitchell | 209 |
 | 161 | Kia Vaughn | 208 |
-| 161 | **Marina Mabrey** 🔴 +1 | 208 |
 | 161 | Sophia Witherspoon | 208 |
+| 163 | **Marina Mabrey** 🔴 | 207 |
 | 164 | Shameka Christon | 205 |
 | 165 | Jessica Breland | 204 |
 | 165 | Murriel Page | 204 |
@@ -1358,7 +1358,7 @@ _Last updated: 2026-05-23 23:14 UTC_
 | 106 | Jia Perkins | 513 |
 | 107 | Arike Ogunbowale | 509 |
 | 108 | Tamera Young | 501 |
-| 109 | **Marina Mabrey** 🔴 +4 | 498 |
+| 109 | **Marina Mabrey** 🔴 +3 | 497 |
 | 110 | Jordin Canada | 496 |
 | 111 | Nikki Teasley | 493 |
 | 111 | Tari Phillips | 493 |
