@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-23 22:36 UTC_
+_Last updated: 2026-05-23 22:37 UTC_
 
 ## Contents
 
@@ -116,7 +116,7 @@ _Last updated: 2026-05-23 22:36 UTC_
 | 95 | Sabrina Ionescu | 3,030 |
 | 96 | Marie Ferdinand-Harris | 3,001 |
 | 97 | Emma Meesseman | 2,966 |
-| 98 | **Marina Mabrey** 🔴 +8 | 2,949 |
+| 98 | **Marina Mabrey** 🔴 +11 | 2,952 |
 | 99 | Natalie Williams | 2,894 |
 | 99 | Natasha Cloud | 2,894 |
 | 101 | Jennifer Gillom | 2,888 |
@@ -495,13 +495,13 @@ _Last updated: 2026-05-23 22:36 UTC_
 | 64 | Lisa Leslie | 873 |
 | 65 | Tully Bevilaqua | 853 |
 | 66 | Jia Perkins | 837 |
-| 67 | **Brittney Sykes** 🔴 +1 | 833 |
+| 67 | **Brittney Sykes** 🔴 +2 | 834 |
 | 68 | Andrea Stinson | 810 |
 | 69 | Kelsey Mitchell | 805 |
 | 70 | Tina Thompson | 803 |
 | 71 | Epiphanny Prince | 800 |
 | 72 | Mwadi Mabika | 774 |
-| 73 | **Marina Mabrey** 🔴 +4 | 749 |
+| 73 | **Marina Mabrey** 🔴 +5 | 750 |
 | 74 | Sheri Sam | 745 |
 | 75 | Monique Currie | 740 |
 | 76 | Allisha Gray | 734 |
@@ -1071,7 +1071,7 @@ _Last updated: 2026-05-23 22:36 UTC_
 | 24 | Cappie Pondexter | 464 |
 | 25 | Sabrina Ionescu | 460 |
 | 26 | Breanna Stewart | 456 |
-| 27 | **Marina Mabrey** 🔴 +2 | 450 |
+| 27 | **Marina Mabrey** 🔴 +3 | 451 |
 | 28 | Tiffany Hayes | 447 |
 | 29 | Ariel Atkins | 440 |
 | 30 | Lauren Jackson | 436 |
