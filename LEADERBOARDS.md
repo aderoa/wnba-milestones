@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-23 17:11 UTC_
+_Last updated: 2026-05-23 17:12 UTC_
 
 ## Contents
 
@@ -42,7 +42,7 @@ _Last updated: 2026-05-23 17:11 UTC_
 | 21 | Angel McCoughtry | 5,797 |
 | 22 | DeLisha Milton-Jones | 5,571 |
 | 23 | Katie Douglas | 5,545 |
-| 24 | **Skylar Diggins** 🔴 | 5,525 |
+| 24 | **Skylar Diggins** 🔴 +1 | 5,526 |
 | 25 | Lindsay Whalen | 5,511 |
 | 26 | **Kayla McBride** 🔴 | 5,454 |
 | 27 | Swin Cash | 5,119 |
@@ -159,7 +159,7 @@ _Last updated: 2026-05-23 17:11 UTC_
 | 138 | Kara Braxton | 2,237 |
 | 138 | Matee Ajavon | 2,237 |
 | 140 | Dawn Staley | 2,228 |
-| 141 | Azurá Stevens | 2,219 |
+| 141 | **Azurá Stevens** 🔴 | 2,219 |
 | 142 | Janel McCarville | 2,215 |
 | 142 | Teaira McCowan | 2,215 |
 | 144 | Sami Whitcomb | 2,211 |
@@ -315,7 +315,7 @@ _Last updated: 2026-05-23 17:11 UTC_
 | 89 | Janel McCarville | 1,261 |
 | 90 | Liz Cambage | 1,258 |
 | 91 | Ezi Magbegor | 1,243 |
-| 92 | Azurá Stevens | 1,237 |
+| 92 | **Azurá Stevens** 🔴 | 1,237 |
 | 93 | Tiffany Hayes | 1,233 |
 | 94 | Brianna Turner | 1,229 |
 | 95 | Seimone Augustus | 1,228 |
@@ -675,7 +675,7 @@ _Last updated: 2026-05-23 17:11 UTC_
 | 39 | Napheesa Collier | 239 |
 | 40 | Emma Meesseman | 238 |
 | 41 | Brianna Turner | 231 |
-| 42 | Azurá Stevens | 230 |
+| 42 | **Azurá Stevens** 🔴 | 230 |
 | 43 | Chasity Melvin | 228 |
 | 44 | **Skylar Diggins** 🔴 | 225 |
 | 45 | Alanna Smith | 222 |
@@ -1008,7 +1008,7 @@ _Last updated: 2026-05-23 17:11 UTC_
 | 165 | Shatori Walker-Kimbrough | 204 |
 | 168 | Adrienne Goodson | 203 |
 | 168 | Betnijah Laney-Hamilton | 203 |
-| 170 | Azurá Stevens | 201 |
+| 170 | **Azurá Stevens** 🔴 | 201 |
 | 171 | Allie Quigley | 198 |
 | 172 | Layshia Clarendon | 195 |
 | 173 | Sonja Henning | 194 |
@@ -1137,7 +1137,7 @@ _Last updated: 2026-05-23 17:11 UTC_
 | 90 | Erin Thorn | 243 |
 | 91 | Alex Bentley | 239 |
 | 91 | Cynthia Cooper | 239 |
-| 93 | Azurá Stevens | 238 |
+| 93 | **Azurá Stevens** 🔴 | 238 |
 | 93 | Nneka Ogwumike | 238 |
 | 95 | Brittney Sykes | 236 |
 | 96 | Svetlana Abrosimova | 235 |
@@ -1448,7 +1448,7 @@ _Last updated: 2026-05-23 17:11 UTC_
 | 196 | Alexis Hornbuckle | 288 |
 | 196 | Kristen Rasmussen | 288 |
 | 196 | Rachel Banham | 288 |
-| 199 | Azurá Stevens | 286 |
+| 199 | **Azurá Stevens** 🔴 | 286 |
 | 199 | Damiris Dantas | 286 |
 
 ## Personal fouls
@@ -1474,7 +1474,7 @@ _Last updated: 2026-05-23 17:11 UTC_
 | 17 | Monique Currie | 1,137 |
 | 18 | Tanisha Wright | 1,109 |
 | 19 | Michelle Snow | 1,108 |
-| 20 | **Natasha Howard** 🔴 | 1,105 |
+| 20 | **Natasha Howard** 🔴 +1 | 1,106 |
 | 21 | Stefanie Dolson | 1,095 |
 | 22 | Sylvia Fowles | 1,049 |
 | 23 | Tina Charles | 1,037 |
@@ -1645,7 +1645,7 @@ _Last updated: 2026-05-23 17:11 UTC_
 | 188 | Allie Quigley | 475 |
 | 189 | Kia Nurse | 467 |
 | 189 | **Nia Coffey** 🔴 +2 | 467 |
-| 191 | Azurá Stevens | 463 |
+| 191 | **Azurá Stevens** 🔴 | 463 |
 | 191 | Christi Thomas | 463 |
 | 191 | Nikki Teasley | 463 |
 | 194 | Sue Wicks | 462 |
