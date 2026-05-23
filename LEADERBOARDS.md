@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-23 00:48 UTC_
+_Last updated: 2026-05-23 00:49 UTC_
 
 ## Contents
 
@@ -152,7 +152,7 @@ _Last updated: 2026-05-23 00:48 UTC_
 | 131 | Alex Bentley | 2,350 |
 | 132 | Merlakia Jones | 2,308 |
 | 133 | Kia Vaughn | 2,288 |
-| 134 | **Kayla Thornton** 🔴 +7 | 2,274 |
+| 134 | **Kayla Thornton** 🔴 +8 | 2,275 |
 | 135 | Betnijah Laney-Hamilton | 2,261 |
 | 136 | Allison Feaster | 2,258 |
 | 137 | Shekinna Stricklen | 2,245 |
@@ -193,7 +193,7 @@ _Last updated: 2026-05-23 00:48 UTC_
 | 172 | Ebony Hoffman | 1,909 |
 | 173 | Candice Wiggins | 1,901 |
 | 174 | **Myisha Hines-Allen** 🔴 | 1,895 |
-| 175 | **Aliyah Boston** 🔴 +6 | 1,840 |
+| 175 | **Aliyah Boston** 🔴 +8 | 1,842 |
 | 176 | Isabelle Harrison | 1,832 |
 | 177 | Damiris Dantas | 1,830 |
 | 178 | Tianna Hawkins | 1,825 |
@@ -299,7 +299,7 @@ _Last updated: 2026-05-23 00:48 UTC_
 | 72 | Katie Smith | 1,383 |
 | 74 | Ebony Hoffman | 1,376 |
 | 75 | **Allisha Gray** 🔴 +3 | 1,371 |
-| 76 | **Monique Billings** 🔴 +2 | 1,369 |
+| 76 | **Monique Billings** 🔴 +3 | 1,370 |
 | 77 | Sheri Sam | 1,356 |
 | 78 | Tamika Whitmore | 1,355 |
 | 79 | Emma Meesseman | 1,350 |
@@ -497,7 +497,7 @@ _Last updated: 2026-05-23 00:48 UTC_
 | 66 | Jia Perkins | 837 |
 | 67 | Brittney Sykes | 832 |
 | 68 | Andrea Stinson | 810 |
-| 69 | **Kelsey Mitchell** 🔴 | 805 |
+| 69 | **Kelsey Mitchell** 🔴 +1 | 806 |
 | 70 | Tina Thompson | 803 |
 | 71 | Epiphanny Prince | 800 |
 | 72 | Mwadi Mabika | 774 |
@@ -617,7 +617,7 @@ _Last updated: 2026-05-23 00:48 UTC_
 | 186 | Bridget Carleton | 358 |
 | 187 | **Kayla Thornton** 🔴 | 355 |
 | 187 | Merlakia Jones | 355 |
-| 189 | **Jessica Shepard** 🔴 | 353 |
+| 189 | **Jessica Shepard** 🔴 +1 | 354 |
 | 190 | Charlotte Smith | 352 |
 | 190 | Ruthie Bolton | 352 |
 | 192 | Jantel Lavender | 350 |
