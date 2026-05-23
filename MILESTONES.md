@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-23 03:58 UTC
+
+- **Natisha Hiedeman** reached **600** career assists (now 600) — _1:33 - 4th — CON @ SEA_
+
 ## 2026-05-23 03:15 UTC
 
 - **Stefanie Dolson** passed **Allie Quigley** for **#81** all-time in assists (career 691) — up from #82 entering today — _8:44 - 3rd — CON @ SEA_
