@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-23 03:25 UTC_
+_Last updated: 2026-05-23 03:26 UTC_
 
 ## Contents
 
@@ -1153,7 +1153,7 @@ _Last updated: 2026-05-23 03:25 UTC_
 | 105 | Erin Phillips | 211 |
 | 107 | Andrea Stinson | 207 |
 | 108 | Betnijah Laney-Hamilton | 201 |
-| 109 | **Lexie Brown** 🔴 | 200 |
+| 108 | **Lexie Brown** 🔴 +1 | 201 |
 | 110 | Shanna Zolman | 199 |
 | 111 | Temeka Johnson | 197 |
 | 111 | Tina Charles | 197 |
