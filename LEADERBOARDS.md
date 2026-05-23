@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-23 00:19 UTC_
+_Last updated: 2026-05-23 00:20 UTC_
 
 ## Contents
 
@@ -319,7 +319,7 @@ _Last updated: 2026-05-23 00:19 UTC_
 | 93 | **Tiffany Hayes** 🔴 +2 | 1,235 |
 | 94 | Brianna Turner | 1,229 |
 | 95 | Seimone Augustus | 1,228 |
-| 96 | **Myisha Hines-Allen** 🔴 | 1,224 |
+| 96 | **Myisha Hines-Allen** 🔴 +1 | 1,225 |
 | 97 | Jia Perkins | 1,220 |
 | 98 | Chelsea Gray | 1,210 |
 | 99 | Kayla McBride | 1,201 |
@@ -342,7 +342,7 @@ _Last updated: 2026-05-23 00:19 UTC_
 | 116 | Natasha Cloud | 1,093 |
 | 117 | NaLyssa Smith | 1,081 |
 | 118 | Svetlana Abrosimova | 1,078 |
-| 119 | **Aliyah Boston** 🔴 +5 | 1,071 |
+| 119 | **Aliyah Boston** 🔴 +6 | 1,072 |
 | 120 | Le'coe Willingham | 1,054 |
 | 121 | Isabelle Harrison | 1,049 |
 | 122 | Nicole Ohlde | 1,040 |
@@ -381,7 +381,7 @@ _Last updated: 2026-05-23 00:19 UTC_
 | 155 | Erica Wheeler | 858 |
 | 156 | **Alanna Smith** 🔴 +1 | 848 |
 | 157 | Leilani Mitchell | 845 |
-| 158 | **Jessica Shepard** 🔴 +7 | 843 |
+| 158 | **Jessica Shepard** 🔴 +8 | 844 |
 | 159 | Essence Carson | 833 |
 | 160 | Kristi Toliver | 829 |
 | 161 | Marie Ferdinand-Harris | 828 |
@@ -1409,7 +1409,7 @@ _Last updated: 2026-05-23 00:19 UTC_
 | 157 | Anna DeForge | 374 |
 | 157 | Cheryl Ford | 374 |
 | 159 | Allison Feaster | 372 |
-| 160 | **Myisha Hines-Allen** 🔴 +1 | 369 |
+| 160 | **Myisha Hines-Allen** 🔴 +2 | 370 |
 | 161 | Emma Meesseman | 367 |
 | 162 | Latasha Byears | 360 |
 | 163 | Vicky Bullett | 359 |
