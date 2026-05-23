@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-05-23T22:24:00+00:00",
+    "text": "Emily Engstler passed Deanna Nolan and Dearica Hamby for #125 all-time in blocks (career 102) \u2014 up from #131 entering today \u2014 (End of 1st \u2014 POR @ TOR)",
+    "kind": "rank_pass",
+    "player": "Emily Engstler",
+    "stat": "blocks",
+    "rank": 125,
+    "passed_players": [
+      "Deanna Nolan",
+      "Dearica Hamby"
+    ],
+    "new_total": 102
+  },
+  {
     "ts": "2026-05-23T22:10:00+00:00",
     "text": "Emily Engstler passed Chante Black, Danielle Adams, Kamilla Cardoso, and Nicole Powell for #127 all-time in blocks (career 101) \u2014 up from #131 entering today \u2014 (6:36 - 1st \u2014 POR @ TOR)",
     "kind": "rank_pass",
@@ -3033,17 +3046,5 @@
       "Helen Darling"
     ],
     "new_total": 710
-  },
-  {
-    "ts": "2026-05-17T18:58:00+00:00",
-    "text": "Allisha Gray passed Elizabeth Williams for #80 all-time in fouls (career 709) \u2014 up from #81 entering today \u2014 (7:52 - 3rd \u2014 LV @ ATL)",
-    "kind": "rank_pass",
-    "player": "Allisha Gray",
-    "stat": "fouls",
-    "rank": 80,
-    "passed_players": [
-      "Elizabeth Williams"
-    ],
-    "new_total": 709
   }
 ]
