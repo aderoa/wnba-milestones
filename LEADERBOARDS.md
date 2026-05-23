@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-23 18:27 UTC_
+_Last updated: 2026-05-23 18:28 UTC_
 
 ## Contents
 
@@ -200,7 +200,7 @@ _Last updated: 2026-05-23 18:27 UTC_
 | 179 | Noelle Quinn | 1,824 |
 | 180 | Danielle Adams | 1,820 |
 | 181 | Charde Houston | 1,797 |
-| 182 | **Rachel Banham** 🔴 +3 | 1,791 |
+| 182 | **Rachel Banham** 🔴 +6 | 1,794 |
 | 183 | Kamila Vodichkova | 1,767 |
 | 184 | Tully Bevilaqua | 1,763 |
 | 185 | Sandy Brondello | 1,759 |
@@ -250,7 +250,7 @@ _Last updated: 2026-05-23 18:27 UTC_
 | 24 | Dearica Hamby | 2,346 |
 | 25 | Tangela Smith | 2,328 |
 | 26 | Erika de Souza | 2,220 |
-| 27 | **Natasha Howard** 🔴 +10 | 2,214 |
+| 27 | **Natasha Howard** 🔴 +11 | 2,215 |
 | 28 | Diana Taurasi | 2,201 |
 | 29 | Margo Dydek | 2,138 |
 | 30 | Chamique Holdsclaw | 2,123 |
@@ -533,9 +533,9 @@ _Last updated: 2026-05-23 18:27 UTC_
 | 102 | Sancho Lyttle | 592 |
 | 103 | Camille Smith | 590 |
 | 104 | Armintie Herrington | 589 |
-| 105 | Betnijah Laney-Hamilton | 578 |
-| 105 | **Natasha Howard** 🔴 +1 | 578 |
-| 105 | Tan White | 578 |
+| 105 | **Natasha Howard** 🔴 +2 | 579 |
+| 106 | Betnijah Laney-Hamilton | 578 |
+| 106 | Tan White | 578 |
 | 108 | Matee Ajavon | 577 |
 | 109 | Napheesa Collier | 570 |
 | 110 | Nicole Powell | 567 |
@@ -1088,7 +1088,7 @@ _Last updated: 2026-05-23 18:27 UTC_
 | 41 | Roneeka Hodges | 389 |
 | 42 | Courtney Vandersloot | 385 |
 | 43 | Briann January | 381 |
-| 44 | **Rachel Banham** 🔴 +1 | 377 |
+| 44 | **Rachel Banham** 🔴 +2 | 378 |
 | 45 | Jasmine Thomas | 376 |
 | 46 | Allison Feaster | 372 |
 | 46 | Betty Lennox | 372 |
