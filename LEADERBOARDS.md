@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-23 18:24 UTC_
+_Last updated: 2026-05-23 18:25 UTC_
 
 ## Contents
 
@@ -121,7 +121,7 @@ _Last updated: 2026-05-23 18:24 UTC_
 | 100 | **Natasha Cloud** 🔴 +2 | 2,890 |
 | 101 | Jennifer Gillom | 2,888 |
 | 102 | Iziane Castro Marques | 2,862 |
-| 103 | **Elizabeth Williams** 🔴 +2 | 2,858 |
+| 103 | **Elizabeth Williams** 🔴 +4 | 2,860 |
 | 104 | Alysha Clark | 2,792 |
 | 105 | Jantel Lavender | 2,775 |
 | 106 | Brionna Jones | 2,765 |
@@ -360,8 +360,8 @@ _Last updated: 2026-05-23 18:24 UTC_
 | 134 | Kristen Rasmussen | 993 |
 | 134 | Sabrina Ionescu | 993 |
 | 136 | Danielle Robinson | 988 |
-| 137 | Shavonte Zellous | 978 |
-| 137 | **Skylar Diggins** 🔴 +5 | 978 |
+| 137 | **Skylar Diggins** 🔴 +6 | 979 |
+| 138 | Shavonte Zellous | 978 |
 | 139 | Kara Lawson | 976 |
 | 140 | Jennifer Gillom | 964 |
 | 141 | Dominique Canty | 961 |
@@ -1277,7 +1277,7 @@ _Last updated: 2026-05-23 18:24 UTC_
 | 25 | Alana Beard | 854 |
 | 26 | DeWanna Bonner | 830 |
 | 27 | Katie Douglas | 824 |
-| 28 | **Natasha Howard** 🔴 | 804 |
+| 28 | **Natasha Howard** 🔴 +1 | 805 |
 | 29 | Betty Lennox | 800 |
 | 30 | Jasmine Thomas | 796 |
 | 31 | Nneka Ogwumike | 791 |
@@ -1474,7 +1474,7 @@ _Last updated: 2026-05-23 18:24 UTC_
 | 17 | Monique Currie | 1,137 |
 | 18 | Tanisha Wright | 1,109 |
 | 19 | Michelle Snow | 1,108 |
-| 20 | **Natasha Howard** 🔴 +2 | 1,107 |
+| 19 | **Natasha Howard** 🔴 +3 | 1,108 |
 | 21 | Stefanie Dolson | 1,095 |
 | 22 | Sylvia Fowles | 1,049 |
 | 23 | Tina Charles | 1,037 |

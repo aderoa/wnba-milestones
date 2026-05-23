@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-23T18:25:00+00:00",
+    "text": "Skylar Diggins passed Shavonte Zellous for #137 all-time in rebounds (career 979) \u2014 up from #139 entering today \u2014 (4:27 - 3rd \u2014 MIN @ CHI)",
+    "kind": "rank_pass",
+    "player": "Skylar Diggins",
+    "stat": "rebounds",
+    "rank": 137,
+    "passed_players": [
+      "Shavonte Zellous"
+    ],
+    "new_total": 979
+  },
+  {
     "ts": "2026-05-23T18:16:00+00:00",
     "text": "Nia Coffey passed Marlies Askamp for #163 all-time in rebounds (career 823) \u2014 up from #166 entering today \u2014 (7:26 - 3rd \u2014 MIN @ CHI)",
     "kind": "rank_pass",
@@ -3029,17 +3041,5 @@
       "Jordin Canada"
     ],
     "new_total": 490
-  },
-  {
-    "ts": "2026-05-16T04:01:00+00:00",
-    "text": "Natasha Cloud passed Kristi Toliver for #74 all-time in fouls (career 723) \u2014 up from #75 entering today \u2014 (5:17 - 4th \u2014 CHI @ PHX)",
-    "kind": "rank_pass",
-    "player": "Natasha Cloud",
-    "stat": "fouls",
-    "rank": 74,
-    "passed_players": [
-      "Kristi Toliver"
-    ],
-    "new_total": 723
   }
 ]

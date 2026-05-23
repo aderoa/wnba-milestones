@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-23 18:25 UTC
+
+- **Skylar Diggins** passed **Shavonte Zellous** for **#137** all-time in rebounds (career 979) — up from #139 entering today — _4:27 - 3rd — MIN @ CHI_
+
 ## 2026-05-23 18:16 UTC
 
 - **Nia Coffey** passed **Marlies Askamp** for **#163** all-time in rebounds (career 823) — up from #166 entering today — _7:26 - 3rd — MIN @ CHI_
