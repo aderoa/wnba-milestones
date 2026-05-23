@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-23 00:15 UTC_
+_Last updated: 2026-05-23 00:16 UTC_
 
 ## Contents
 
@@ -208,7 +208,7 @@ _Last updated: 2026-05-23 00:15 UTC_
 | 187 | Sugar Rodgers | 1,733 |
 | 188 | Moriah Jefferson | 1,722 |
 | 188 | NaLyssa Smith | 1,722 |
-| 190 | **Sophie Cunningham** 🔴 | 1,705 |
+| 190 | **Sophie Cunningham** 🔴 +3 | 1,708 |
 | 191 | Armintie Herrington | 1,696 |
 | 192 | Nikki Teasley | 1,690 |
 | 193 | Shenise Johnson | 1,688 |
@@ -342,7 +342,7 @@ _Last updated: 2026-05-23 00:15 UTC_
 | 116 | Natasha Cloud | 1,093 |
 | 117 | NaLyssa Smith | 1,081 |
 | 118 | Svetlana Abrosimova | 1,078 |
-| 119 | **Aliyah Boston** 🔴 +4 | 1,070 |
+| 119 | **Aliyah Boston** 🔴 +5 | 1,071 |
 | 120 | Le'coe Willingham | 1,054 |
 | 121 | Isabelle Harrison | 1,049 |
 | 122 | Nicole Ohlde | 1,040 |
@@ -381,7 +381,7 @@ _Last updated: 2026-05-23 00:15 UTC_
 | 155 | Erica Wheeler | 858 |
 | 156 | **Alanna Smith** 🔴 +1 | 848 |
 | 157 | Leilani Mitchell | 845 |
-| 158 | **Jessica Shepard** 🔴 +5 | 841 |
+| 158 | **Jessica Shepard** 🔴 +6 | 842 |
 | 159 | Essence Carson | 833 |
 | 160 | Kristi Toliver | 829 |
 | 161 | Marie Ferdinand-Harris | 828 |
@@ -549,7 +549,7 @@ _Last updated: 2026-05-23 00:15 UTC_
 | 118 | Michele Timms | 549 |
 | 119 | Marie Ferdinand-Harris | 528 |
 | 120 | Margo Dydek | 524 |
-| 121 | **Myisha Hines-Allen** 🔴 +1 | 512 |
+| 121 | **Myisha Hines-Allen** 🔴 +2 | 513 |
 | 122 | Iziane Castro Marques | 509 |
 | 123 | Brittany Boyd-Jones | 508 |
 | 123 | Chasity Melvin | 508 |
@@ -557,7 +557,7 @@ _Last updated: 2026-05-23 00:15 UTC_
 | 125 | Coco Miller | 503 |
 | 127 | **Veronica Burton** 🔴 +1 | 502 |
 | 128 | Rachel Banham | 498 |
-| 129 | **Rhyne Howard** 🔴 +4 | 494 |
+| 129 | **Rhyne Howard** 🔴 +5 | 495 |
 | 130 | **Caitlin Clark** 🔴 +4 | 492 |
 | 131 | Crystal Robinson | 488 |
 | 131 | Tiffany Mitchell | 488 |
@@ -1111,8 +1111,8 @@ _Last updated: 2026-05-23 00:15 UTC_
 | 64 | Shannon Johnson | 313 |
 | 65 | DeLisha Milton-Jones | 312 |
 | 65 | Ruthie Bolton | 312 |
+| 67 | **Sophie Cunningham** 🔴 +1 | 311 |
 | 67 | Tan White | 311 |
-| 68 | **Sophie Cunningham** 🔴 | 310 |
 | 69 | Kedra Holland-Corn | 307 |
 | 70 | Kelly Miller | 305 |
 | 71 | Nikki Teasley | 304 |
