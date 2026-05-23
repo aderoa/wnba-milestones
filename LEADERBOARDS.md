@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-23 23:43 UTC_
+_Last updated: 2026-05-23 23:44 UTC_
 
 ## Contents
 
@@ -116,7 +116,7 @@ _Last updated: 2026-05-23 23:43 UTC_
 | 95 | Sabrina Ionescu | 3,030 |
 | 96 | Marie Ferdinand-Harris | 3,001 |
 | 97 | Emma Meesseman | 2,966 |
-| 98 | **Marina Mabrey** 🔴 +17 | 2,958 |
+| 98 | **Marina Mabrey** 🔴 +19 | 2,960 |
 | 99 | Natalie Williams | 2,894 |
 | 99 | Natasha Cloud | 2,894 |
 | 101 | Jennifer Gillom | 2,888 |
@@ -1124,8 +1124,8 @@ _Last updated: 2026-05-23 23:43 UTC_
 | 76 | Natisha Hiedeman | 288 |
 | 78 | Monique Currie | 284 |
 | 79 | Kayla Thornton | 276 |
+| 80 | **Bridget Carleton** 🔴 +3 | 275 |
 | 80 | Iziane Castro Marques | 275 |
-| 81 | **Bridget Carleton** 🔴 +2 | 274 |
 | 82 | Sheryl Swoopes | 270 |
 | 83 | Stefanie Dolson | 269 |
 | 84 | Courtney Williams | 260 |
@@ -1358,7 +1358,7 @@ _Last updated: 2026-05-23 23:43 UTC_
 | 106 | Jia Perkins | 513 |
 | 107 | Arike Ogunbowale | 509 |
 | 108 | Tamera Young | 501 |
-| 109 | **Marina Mabrey** 🔴 +3 | 497 |
+| 109 | **Marina Mabrey** 🔴 +4 | 498 |
 | 110 | Jordin Canada | 496 |
 | 111 | Nikki Teasley | 493 |
 | 111 | Tari Phillips | 493 |
