@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-23 17:04 UTC_
+_Last updated: 2026-05-23 17:05 UTC_
 
 ## Contents
 
@@ -387,9 +387,9 @@ _Last updated: 2026-05-23 17:04 UTC_
 | 161 | Marie Ferdinand-Harris | 828 |
 | 162 | Marina Mabrey | 827 |
 | 163 | Marlies Askamp | 822 |
-| 164 | Amanda Zahui B | 819 |
-| 164 | Barbara Farris | 819 |
-| 164 | **Nia Coffey** 🔴 | 819 |
+| 164 | **Nia Coffey** 🔴 +1 | 820 |
+| 165 | Amanda Zahui B | 819 |
+| 165 | Barbara Farris | 819 |
 | 167 | Carolyn Swords | 814 |
 | 168 | Tierra Ruffin-Pratt | 799 |
 | 169 | Charlotte Smith | 794 |
@@ -871,7 +871,7 @@ _Last updated: 2026-05-23 17:04 UTC_
 | 30 | Tangela Smith | 455 |
 | 31 | Tina Thompson | 452 |
 | 32 | Maya Moore | 449 |
-| 33 | **Skylar Diggins** 🔴 | 448 |
+| 32 | **Skylar Diggins** 🔴 +1 | 449 |
 | 34 | Jewell Loyd | 445 |
 | 35 | Chelsea Gray | 439 |
 | 36 | **Natasha Howard** 🔴 | 438 |
@@ -1302,7 +1302,7 @@ _Last updated: 2026-05-23 17:04 UTC_
 | 50 | Asjha Jones | 682 |
 | 51 | Danielle Robinson | 680 |
 | 52 | Sheryl Swoopes | 677 |
-| 53 | **Natasha Cloud** 🔴 | 673 |
+| 53 | **Natasha Cloud** 🔴 +1 | 674 |
 | 54 | Tammy Sutton-Brown | 672 |
 | 55 | Erica Wheeler | 671 |
 | 56 | Deanna Nolan | 669 |
@@ -1644,7 +1644,7 @@ _Last updated: 2026-05-23 17:04 UTC_
 | 187 | Seimone Augustus | 477 |
 | 188 | Allie Quigley | 475 |
 | 189 | Kia Nurse | 467 |
-| 190 | **Nia Coffey** 🔴 | 465 |
+| 190 | **Nia Coffey** 🔴 +1 | 466 |
 | 191 | Azurá Stevens | 463 |
 | 191 | Christi Thomas | 463 |
 | 191 | Nikki Teasley | 463 |
