@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-23 19:06 UTC_
+_Last updated: 2026-05-23 19:07 UTC_
 
 ## Contents
 
@@ -73,7 +73,7 @@ _Last updated: 2026-05-23 19:06 UTC_
 | 52 | Yolanda Griffith | 4,224 |
 | 53 | Dearica Hamby | 4,158 |
 | 54 | Kahleah Copper | 4,154 |
-| 55 | **Courtney Williams** 🔴 +15 | 4,139 |
+| 55 | **Courtney Williams** 🔴 +17 | 4,141 |
 | 56 | Rebekkah Brunson | 4,133 |
 | 57 | Jonquel Jones | 4,132 |
 | 58 | Asjha Jones | 3,986 |
@@ -250,7 +250,7 @@ _Last updated: 2026-05-23 19:06 UTC_
 | 24 | Dearica Hamby | 2,346 |
 | 25 | Tangela Smith | 2,328 |
 | 26 | Erika de Souza | 2,220 |
-| 27 | **Natasha Howard** 🔴 +12 | 2,216 |
+| 27 | **Natasha Howard** 🔴 +13 | 2,217 |
 | 28 | Diana Taurasi | 2,201 |
 | 29 | Margo Dydek | 2,138 |
 | 30 | Chamique Holdsclaw | 2,123 |
@@ -926,9 +926,9 @@ _Last updated: 2026-05-23 19:06 UTC_
 | 85 | Napheesa Collier | 325 |
 | 86 | Betty Lennox | 323 |
 | 87 | Tammy Sutton-Brown | 319 |
-| 88 | **Courtney Williams** 🔴 +2 | 317 |
-| 88 | Plenette Pierson | 317 |
-| 88 | Temeka Johnson | 317 |
+| 88 | **Courtney Williams** 🔴 +3 | 318 |
+| 89 | Plenette Pierson | 317 |
+| 89 | Temeka Johnson | 317 |
 | 91 | Alysha Clark | 315 |
 | 91 | Debbie Black | 315 |
 | 93 | Crystal Langhorne | 314 |
@@ -1302,7 +1302,7 @@ _Last updated: 2026-05-23 19:06 UTC_
 | 50 | Asjha Jones | 682 |
 | 51 | Danielle Robinson | 680 |
 | 52 | Sheryl Swoopes | 677 |
-| 53 | **Natasha Cloud** 🔴 +2 | 675 |
+| 53 | **Natasha Cloud** 🔴 +3 | 676 |
 | 54 | Tammy Sutton-Brown | 672 |
 | 55 | Erica Wheeler | 671 |
 | 56 | Deanna Nolan | 669 |

@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-05-23T19:07:00+00:00",
+    "text": "Courtney Williams passed Plenette Pierson and Temeka Johnson for #88 all-time in steals (career 318) \u2014 up from #91 entering today \u2014 (34.2 - 4th \u2014 MIN @ CHI)",
+    "kind": "rank_pass",
+    "player": "Courtney Williams",
+    "stat": "steals",
+    "rank": 88,
+    "passed_players": [
+      "Plenette Pierson",
+      "Temeka Johnson"
+    ],
+    "new_total": 318
+  },
+  {
     "ts": "2026-05-23T18:55:00+00:00",
     "text": "Natasha Howard passed Tanisha Wright and Michelle Snow for #18 all-time in fouls (career 1,110) \u2014 up from #20 entering today \u2014 (4:54 - 4th \u2014 MIN @ CHI)",
     "kind": "rank_pass",
@@ -3029,18 +3042,5 @@
       "Epiphanny Prince"
     ],
     "new_total": 75
-  },
-  {
-    "ts": "2026-05-16T04:30:00+00:00",
-    "text": "Kahleah Copper passed Iziane Castro Marques and Tiffany Mitchell for #158 all-time in steals (career 210) \u2014 up from #162 entering today \u2014 (Final \u2014 CHI @ PHX)",
-    "kind": "rank_pass",
-    "player": "Kahleah Copper",
-    "stat": "steals",
-    "rank": 158,
-    "passed_players": [
-      "Iziane Castro Marques",
-      "Tiffany Mitchell"
-    ],
-    "new_total": 210
   }
 ]
