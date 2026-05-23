@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-23 00:01 UTC_
+_Last updated: 2026-05-23 00:02 UTC_
 
 ## Contents
 
@@ -212,7 +212,7 @@ _Last updated: 2026-05-23 00:01 UTC_
 | 191 | Armintie Herrington | 1,696 |
 | 192 | Nikki Teasley | 1,690 |
 | 193 | Shenise Johnson | 1,688 |
-| 194 | **Gabby Williams** 🔴 | 1,634 |
+| 194 | **Gabby Williams** 🔴 +2 | 1,636 |
 | 195 | Janell Burse | 1,580 |
 | 196 | Le'coe Willingham | 1,552 |
 | 197 | Shatori Walker-Kimbrough | 1,544 |
@@ -299,7 +299,7 @@ _Last updated: 2026-05-23 00:01 UTC_
 | 72 | Katie Smith | 1,383 |
 | 74 | Ebony Hoffman | 1,376 |
 | 75 | **Allisha Gray** 🔴 +1 | 1,369 |
-| 76 | **Monique Billings** 🔴 +1 | 1,368 |
+| 75 | **Monique Billings** 🔴 +2 | 1,369 |
 | 77 | Sheri Sam | 1,356 |
 | 78 | Tamika Whitmore | 1,355 |
 | 79 | Emma Meesseman | 1,350 |
@@ -376,7 +376,7 @@ _Last updated: 2026-05-23 00:01 UTC_
 | 150 | Temeka Johnson | 889 |
 | 151 | Mistie Bass | 888 |
 | 152 | Shameka Christon | 867 |
-| 153 | **Angel Reese** 🔴 +4 | 865 |
+| 153 | **Angel Reese** 🔴 +5 | 866 |
 | 154 | Krystal Thomas | 862 |
 | 155 | Erica Wheeler | 858 |
 | 156 | **Alanna Smith** 🔴 +1 | 848 |
@@ -459,7 +459,7 @@ _Last updated: 2026-05-23 00:01 UTC_
 | 28 | Vickie Johnson | 1,202 |
 | 29 | Leilani Mitchell | 1,197 |
 | 30 | DeWanna Bonner | 1,183 |
-| 31 | **Jordin Canada** 🔴 +1 | 1,156 |
+| 31 | **Jordin Canada** 🔴 +2 | 1,157 |
 | 32 | Jewell Loyd | 1,141 |
 | 33 | Renee Montgomery | 1,140 |
 | 34 | Swin Cash | 1,131 |
@@ -1317,7 +1317,7 @@ _Last updated: 2026-05-23 00:01 UTC_
 | 65 | Svetlana Abrosimova | 631 |
 | 66 | Kayla McBride | 630 |
 | 67 | Kelsey Plum | 624 |
-| 68 | **Odyssey Sims** 🔴 | 622 |
+| 68 | **Odyssey Sims** 🔴 +1 | 623 |
 | 69 | Jonquel Jones | 617 |
 | 70 | Rebekkah Brunson | 615 |
 | 71 | Seimone Augustus | 613 |
@@ -1574,8 +1574,8 @@ _Last updated: 2026-05-23 00:01 UTC_
 | 117 | Svetlana Abrosimova | 613 |
 | 118 | Chelsea Gray | 609 |
 | 118 | Layshia Clarendon | 609 |
-| 120 | **Odyssey Sims** 🔴 | 604 |
-| 120 | Tiffany Mitchell | 604 |
+| 120 | **Odyssey Sims** 🔴 +1 | 605 |
+| 121 | Tiffany Mitchell | 604 |
 | 122 | Janel McCarville | 597 |
 | 123 | Kamila Vodichkova | 596 |
 | 124 | **Kelsey Mitchell** 🔴 | 591 |
