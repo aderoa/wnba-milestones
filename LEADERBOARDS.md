@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-23 17:18 UTC_
+_Last updated: 2026-05-23 17:19 UTC_
 
 ## Contents
 
@@ -200,7 +200,7 @@ _Last updated: 2026-05-23 17:18 UTC_
 | 179 | Noelle Quinn | 1,824 |
 | 180 | Danielle Adams | 1,820 |
 | 181 | Charde Houston | 1,797 |
-| 182 | **Rachel Banham** 🔴 | 1,788 |
+| 182 | **Rachel Banham** 🔴 +3 | 1,791 |
 | 183 | Kamila Vodichkova | 1,767 |
 | 184 | Tully Bevilaqua | 1,763 |
 | 185 | Sandy Brondello | 1,759 |
@@ -567,7 +567,7 @@ _Last updated: 2026-05-23 17:18 UTC_
 | 136 | Janeth Arcain | 469 |
 | 137 | Erin Phillips | 462 |
 | 138 | Sylvia Fowles | 461 |
-| 139 | **Elizabeth Williams** 🔴 | 455 |
+| 139 | **Elizabeth Williams** 🔴 +1 | 456 |
 | 140 | Sydney Colson | 454 |
 | 141 | Satou Sabally | 451 |
 | 141 | Yolanda Griffith | 451 |
@@ -1088,8 +1088,8 @@ _Last updated: 2026-05-23 17:18 UTC_
 | 41 | Roneeka Hodges | 389 |
 | 42 | Courtney Vandersloot | 385 |
 | 43 | Briann January | 381 |
-| 44 | Jasmine Thomas | 376 |
-| 44 | **Rachel Banham** 🔴 | 376 |
+| 44 | **Rachel Banham** 🔴 +1 | 377 |
+| 45 | Jasmine Thomas | 376 |
 | 46 | Allison Feaster | 372 |
 | 46 | Betty Lennox | 372 |
 | 48 | Rhyne Howard | 370 |
