@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-23 01:35 UTC
+
+- **Sophie Cunningham** passed **Tan White** for **#67** all-time in three-pointers (career 312) — up from #68 entering today — _5:05 - 4th — GS @ IND_
+
 ## 2026-05-23 01:25 UTC
 
 - **Rhyne Howard** passed **DeMya Walker** for **#129** all-time in points (career 2,381) — up from #130 entering today — _3:09 - 4th — DAL @ ATL_

@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-23 01:34 UTC_
+_Last updated: 2026-05-23 01:35 UTC_
 
 ## Contents
 
@@ -208,7 +208,7 @@ _Last updated: 2026-05-23 01:34 UTC_
 | 187 | Sugar Rodgers | 1,733 |
 | 188 | Moriah Jefferson | 1,722 |
 | 188 | NaLyssa Smith | 1,722 |
-| 190 | **Sophie Cunningham** 🔴 +8 | 1,713 |
+| 190 | **Sophie Cunningham** 🔴 +11 | 1,716 |
 | 191 | Armintie Herrington | 1,696 |
 | 192 | Nikki Teasley | 1,690 |
 | 193 | Shenise Johnson | 1,688 |
@@ -341,8 +341,8 @@ _Last updated: 2026-05-23 01:34 UTC_
 | 115 | Ann Wauters | 1,105 |
 | 116 | Natasha Cloud | 1,093 |
 | 117 | NaLyssa Smith | 1,081 |
+| 118 | **Aliyah Boston** 🔴 +12 | 1,078 |
 | 118 | Svetlana Abrosimova | 1,078 |
-| 119 | **Aliyah Boston** 🔴 +11 | 1,077 |
 | 120 | Le'coe Willingham | 1,054 |
 | 121 | Isabelle Harrison | 1,049 |
 | 122 | Nicole Ohlde | 1,040 |
@@ -601,8 +601,8 @@ _Last updated: 2026-05-23 01:34 UTC_
 | 170 | Sugar Rodgers | 393 |
 | 171 | Shameka Christon | 389 |
 | 171 | Tamicha Jackson | 389 |
+| 173 | **Aliyah Boston** 🔴 +3 | 387 |
 | 173 | Riquna Williams | 387 |
-| 174 | **Aliyah Boston** 🔴 +2 | 386 |
 | 175 | Dana Evans | 379 |
 | 175 | Stephanie Talbot | 379 |
 | 177 | Jessica Breland | 377 |
@@ -1111,8 +1111,8 @@ _Last updated: 2026-05-23 01:34 UTC_
 | 64 | Shannon Johnson | 313 |
 | 65 | DeLisha Milton-Jones | 312 |
 | 65 | Ruthie Bolton | 312 |
-| 67 | **Sophie Cunningham** 🔴 +1 | 311 |
-| 67 | Tan White | 311 |
+| 65 | **Sophie Cunningham** 🔴 +2 | 312 |
+| 68 | Tan White | 311 |
 | 69 | Kedra Holland-Corn | 307 |
 | 70 | Kelly Miller | 305 |
 | 71 | Nikki Teasley | 304 |
@@ -1238,8 +1238,8 @@ _Last updated: 2026-05-23 01:34 UTC_
 | 191 | Belinda Snell | 108 |
 | 192 | Layshia Clarendon | 107 |
 | 193 | Leonie Fiebich | 106 |
-| 194 | Laurie Koehn | 105 |
-| 194 | **Veronica Burton** 🔴 +1 | 105 |
+| 193 | **Veronica Burton** 🔴 +2 | 106 |
+| 195 | Laurie Koehn | 105 |
 | 196 | Julie Vanloo | 104 |
 | 197 | Jeanette Pohlen-Mavunga | 103 |
 | 197 | Kiesha Brown | 103 |
@@ -1435,7 +1435,7 @@ _Last updated: 2026-05-23 01:34 UTC_
 | 182 | Kia Nurse | 315 |
 | 184 | Moriah Jefferson | 314 |
 | 185 | Alex Bentley | 313 |
-| 186 | **Caitlin Clark** 🔴 +3 | 312 |
+| 185 | **Caitlin Clark** 🔴 +4 | 313 |
 | 187 | Tamika Raymond | 311 |
 | 188 | Erin Perperoglou | 305 |
 | 188 | Jennifer Lacy | 305 |
@@ -1558,8 +1558,8 @@ _Last updated: 2026-05-23 01:34 UTC_
 | 101 | Jewell Loyd | 657 |
 | 102 | Breanna Stewart | 656 |
 | 103 | Tari Phillips | 648 |
+| 104 | **Kayla Thornton** 🔴 +2 | 646 |
 | 104 | Marie Ferdinand-Harris | 646 |
-| 105 | **Kayla Thornton** 🔴 +1 | 645 |
 | 106 | Charlotte Smith | 638 |
 | 107 | Janell Burse | 632 |
 | 108 | Nicole Ohlde | 631 |

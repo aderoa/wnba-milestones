@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-23T01:35:00+00:00",
+    "text": "Sophie Cunningham passed Tan White for #67 all-time in three-pointers (career 312) \u2014 up from #68 entering today \u2014 (5:05 - 4th \u2014 GS @ IND)",
+    "kind": "rank_pass",
+    "player": "Sophie Cunningham",
+    "stat": "three-pointers",
+    "rank": 67,
+    "passed_players": [
+      "Tan White"
+    ],
+    "new_total": 312
+  },
+  {
     "ts": "2026-05-23T01:25:00+00:00",
     "text": "Rhyne Howard passed DeMya Walker for #129 all-time in points (career 2,381) \u2014 up from #130 entering today \u2014 (3:09 - 4th \u2014 DAL @ ATL)",
     "kind": "rank_pass",
@@ -3035,17 +3047,5 @@
       "Natasha Cloud"
     ],
     "new_total": 666
-  },
-  {
-    "ts": "2026-05-16T02:24:00+00:00",
-    "text": "Brittney Sykes passed Tamecka Dixon for #65 all-time in steals (career 356) \u2014 up from #66 entering today \u2014 (26.3 - 1st \u2014 TOR @ LA)",
-    "kind": "rank_pass",
-    "player": "Brittney Sykes",
-    "stat": "steals",
-    "rank": 65,
-    "passed_players": [
-      "Tamecka Dixon"
-    ],
-    "new_total": 356
   }
 ]
