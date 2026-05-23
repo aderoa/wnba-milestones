@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-23T00:12:00+00:00",
+    "text": "Monique Billings passed Andrea Stinson for #162 all-time in fouls (career 512) \u2014 up from #163 entering today \u2014 (6:22 - 2nd \u2014 GS @ IND)",
+    "kind": "rank_pass",
+    "player": "Monique Billings",
+    "stat": "fouls",
+    "rank": 162,
+    "passed_players": [
+      "Andrea Stinson"
+    ],
+    "new_total": 512
+  },
+  {
     "ts": "2026-05-23T00:03:00+00:00",
     "text": "Monique Billings passed Brittany Boyd-Jones and Chiney Ogwumike for #191 all-time in steals (career 177) \u2014 up from #193 entering today \u2014 (7:04 - 2nd \u2014 GS @ IND)",
     "kind": "rank_pass",
@@ -3035,17 +3047,5 @@
     "stat": "assists",
     "value": 200,
     "new_total": 200
-  },
-  {
-    "ts": "2026-05-15T03:52:00+00:00",
-    "text": "Sug Sutton passed Michelle Snow for #150 all-time in assists (career 438) \u2014 up from #155 entering today \u2014 (4:55 - 4th \u2014 NY @ POR)",
-    "kind": "rank_pass",
-    "player": "Sug Sutton",
-    "stat": "assists",
-    "rank": 150,
-    "passed_players": [
-      "Michelle Snow"
-    ],
-    "new_total": 438
   }
 ]

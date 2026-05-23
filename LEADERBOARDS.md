@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-23 00:11 UTC_
+_Last updated: 2026-05-23 00:12 UTC_
 
 ## Contents
 
@@ -57,7 +57,7 @@ _Last updated: 2026-05-23 00:11 UTC_
 | 36 | Elena Delle Donne | 4,706 |
 | 37 | Penny Taylor | 4,595 |
 | 38 | Alyssa Thomas | 4,554 |
-| 39 | **Arike Ogunbowale** 🔴 | 4,512 |
+| 39 | **Arike Ogunbowale** 🔴 +2 | 4,514 |
 | 40 | Kristi Toliver | 4,474 |
 | 41 | Chelsea Gray | 4,469 |
 | 42 | Crystal Langhorne | 4,433 |
@@ -152,7 +152,7 @@ _Last updated: 2026-05-23 00:11 UTC_
 | 131 | Alex Bentley | 2,350 |
 | 132 | Merlakia Jones | 2,308 |
 | 133 | Kia Vaughn | 2,288 |
-| 134 | **Kayla Thornton** 🔴 +5 | 2,272 |
+| 134 | **Kayla Thornton** 🔴 +6 | 2,273 |
 | 135 | Betnijah Laney-Hamilton | 2,261 |
 | 136 | Allison Feaster | 2,258 |
 | 137 | Shekinna Stricklen | 2,245 |
@@ -557,7 +557,7 @@ _Last updated: 2026-05-23 00:11 UTC_
 | 125 | Coco Miller | 503 |
 | 127 | **Veronica Burton** 🔴 +1 | 502 |
 | 128 | Rachel Banham | 498 |
-| 129 | **Rhyne Howard** 🔴 +3 | 493 |
+| 129 | **Rhyne Howard** 🔴 +4 | 494 |
 | 130 | **Caitlin Clark** 🔴 +4 | 492 |
 | 131 | Crystal Robinson | 488 |
 | 131 | Tiffany Mitchell | 488 |
@@ -1616,8 +1616,8 @@ _Last updated: 2026-05-23 00:11 UTC_
 | 158 | **Sophie Cunningham** 🔴 +1 | 513 |
 | 160 | Adrienne Goodson | 512 |
 | 160 | Janeth Arcain | 512 |
-| 162 | Andrea Stinson | 511 |
-| 162 | **Monique Billings** 🔴 +1 | 511 |
+| 160 | **Monique Billings** 🔴 +2 | 512 |
+| 163 | Andrea Stinson | 511 |
 | 164 | Vicky Bullett | 507 |
 | 165 | Merlakia Jones | 506 |
 | 166 | Rushia Brown | 505 |
