@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-23 00:50 UTC
+
+- **Sophie Cunningham** passed **Jackie Young** for **#157** all-time in fouls (career 515) — up from #161 entering today — _7:07 - 3rd — GS @ IND_
+
 ## 2026-05-23 00:42 UTC
 
 - **Odyssey Sims** passed **Sue Wicks** for **#175** all-time in rebounds (career 781) — _8:48 - 3rd — DAL @ ATL_

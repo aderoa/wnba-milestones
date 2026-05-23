@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-23T00:50:00+00:00",
+    "text": "Sophie Cunningham passed Jackie Young for #157 all-time in fouls (career 515) \u2014 up from #161 entering today \u2014 (7:07 - 3rd \u2014 GS @ IND)",
+    "kind": "rank_pass",
+    "player": "Sophie Cunningham",
+    "stat": "fouls",
+    "rank": 157,
+    "passed_players": [
+      "Jackie Young"
+    ],
+    "new_total": 515
+  },
+  {
     "ts": "2026-05-23T00:42:00+00:00",
     "text": "Odyssey Sims passed Sue Wicks for #175 all-time in rebounds (career 781) \u2014 (8:48 - 3rd \u2014 DAL @ ATL)",
     "kind": "rank_pass",
@@ -3037,18 +3049,5 @@
       "Jennifer Gillom"
     ],
     "new_total": 155
-  },
-  {
-    "ts": "2026-05-16T01:04:00+00:00",
-    "text": "Shakira Austin passed Carolyn Swords and Rebecca Lobo for #117 all-time in blocks (career 105) \u2014 up from #121 entering today \u2014 (End of 3rd \u2014 WSH @ IND)",
-    "kind": "rank_pass",
-    "player": "Shakira Austin",
-    "stat": "blocks",
-    "rank": 117,
-    "passed_players": [
-      "Carolyn Swords",
-      "Rebecca Lobo"
-    ],
-    "new_total": 105
   }
 ]
