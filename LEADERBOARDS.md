@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-23 18:14 UTC_
+_Last updated: 2026-05-23 18:16 UTC_
 
 ## Contents
 
@@ -250,7 +250,7 @@ _Last updated: 2026-05-23 18:14 UTC_
 | 24 | Dearica Hamby | 2,346 |
 | 25 | Tangela Smith | 2,328 |
 | 26 | Erika de Souza | 2,220 |
-| 27 | **Natasha Howard** 🔴 +9 | 2,213 |
+| 27 | **Natasha Howard** 🔴 +10 | 2,214 |
 | 28 | Diana Taurasi | 2,201 |
 | 29 | Margo Dydek | 2,138 |
 | 30 | Chamique Holdsclaw | 2,123 |
@@ -339,7 +339,7 @@ _Last updated: 2026-05-23 18:14 UTC_
 | 113 | Chiney Ogwumike | 1,110 |
 | 114 | Becky Hammon | 1,108 |
 | 115 | Ann Wauters | 1,105 |
-| 116 | **Natasha Cloud** 🔴 +1 | 1,094 |
+| 116 | **Natasha Cloud** 🔴 +2 | 1,095 |
 | 117 | NaLyssa Smith | 1,081 |
 | 118 | Svetlana Abrosimova | 1,078 |
 | 119 | Aliyah Boston | 1,066 |
@@ -361,7 +361,7 @@ _Last updated: 2026-05-23 18:14 UTC_
 | 134 | Sabrina Ionescu | 993 |
 | 136 | Danielle Robinson | 988 |
 | 137 | Shavonte Zellous | 978 |
-| 138 | **Skylar Diggins** 🔴 +4 | 977 |
+| 137 | **Skylar Diggins** 🔴 +5 | 978 |
 | 139 | Kara Lawson | 976 |
 | 140 | Jennifer Gillom | 964 |
 | 141 | Dominique Canty | 961 |
@@ -386,8 +386,8 @@ _Last updated: 2026-05-23 18:14 UTC_
 | 160 | Kristi Toliver | 829 |
 | 161 | Marie Ferdinand-Harris | 828 |
 | 162 | Marina Mabrey | 827 |
-| 163 | Marlies Askamp | 822 |
-| 163 | **Nia Coffey** 🔴 +3 | 822 |
+| 163 | **Nia Coffey** 🔴 +4 | 823 |
+| 164 | Marlies Askamp | 822 |
 | 165 | Amanda Zahui B | 819 |
 | 165 | Barbara Farris | 819 |
 | 167 | Carolyn Swords | 814 |
@@ -760,10 +760,10 @@ _Last updated: 2026-05-23 18:14 UTC_
 | 124 | Theresa Plaisance | 102 |
 | 125 | Deanna Nolan | 101 |
 | 125 | Dearica Hamby | 101 |
-| 127 | Chante Black | 100 |
-| 127 | Danielle Adams | 100 |
-| 127 | **Kamilla Cardoso** 🔴 | 100 |
-| 127 | Nicole Powell | 100 |
+| 125 | **Kamilla Cardoso** 🔴 +1 | 101 |
+| 128 | Chante Black | 100 |
+| 128 | Danielle Adams | 100 |
+| 128 | Nicole Powell | 100 |
 | 131 | Emily Engstler | 99 |
 | 132 | Mwadi Mabika | 98 |
 | 132 | Natalie Achonwa | 98 |
