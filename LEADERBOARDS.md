@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-23 01:10 UTC_
+_Last updated: 2026-05-23 01:11 UTC_
 
 ## Contents
 
@@ -84,7 +84,7 @@ _Last updated: 2026-05-23 01:10 UTC_
 | 63 | Chasity Melvin | 3,781 |
 | 64 | Kara Lawson | 3,670 |
 | 65 | Mwadi Mabika | 3,576 |
-| 66 | **Odyssey Sims** 🔴 +8 | 3,560 |
+| 66 | **Odyssey Sims** 🔴 +10 | 3,562 |
 | 67 | Camille Smith | 3,551 |
 | 68 | Napheesa Collier | 3,542 |
 | 68 | Shannon Johnson | 3,542 |
@@ -212,7 +212,7 @@ _Last updated: 2026-05-23 01:10 UTC_
 | 191 | Armintie Herrington | 1,696 |
 | 192 | Nikki Teasley | 1,690 |
 | 193 | Shenise Johnson | 1,688 |
-| 194 | **Gabby Williams** 🔴 +4 | 1,638 |
+| 194 | **Gabby Williams** 🔴 +6 | 1,640 |
 | 195 | Janell Burse | 1,580 |
 | 196 | Le'coe Willingham | 1,552 |
 | 197 | Shatori Walker-Kimbrough | 1,544 |
@@ -455,7 +455,7 @@ _Last updated: 2026-05-23 01:10 UTC_
 | 24 | Erica Wheeler | 1,275 |
 | 25 | Katie Smith | 1,258 |
 | 26 | Kelsey Plum | 1,215 |
-| 27 | **Odyssey Sims** 🔴 +4 | 1,214 |
+| 26 | **Odyssey Sims** 🔴 +5 | 1,215 |
 | 28 | Vickie Johnson | 1,202 |
 | 29 | Leilani Mitchell | 1,197 |
 | 30 | DeWanna Bonner | 1,183 |
@@ -917,8 +917,8 @@ _Last updated: 2026-05-23 01:10 UTC_
 | 75 | Armintie Herrington | 340 |
 | 77 | A'ja Wilson | 339 |
 | 78 | Dawn Staley | 338 |
-| 79 | Marie Ferdinand-Harris | 331 |
-| 79 | **Odyssey Sims** 🔴 +1 | 331 |
+| 79 | **Odyssey Sims** 🔴 +2 | 332 |
+| 80 | Marie Ferdinand-Harris | 331 |
 | 81 | Chasity Melvin | 330 |
 | 81 | Leilani Mitchell | 330 |
 | 83 | Kristi Toliver | 329 |

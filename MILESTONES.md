@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-23 01:11 UTC
+
+- **Odyssey Sims** passed **Marie Ferdinand-Harris** for **#79** all-time in steals (career 332) — up from #82 entering today — _7:35 - 4th — DAL @ ATL_
+
 ## 2026-05-23 01:09 UTC
 
 - **Gabby Williams** passed **Tamera Young** for **#95** all-time in steals (career 306) — up from #96 entering today — _1:39 - 3rd — GS @ IND_

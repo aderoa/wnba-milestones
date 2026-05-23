@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-23T01:11:00+00:00",
+    "text": "Odyssey Sims passed Marie Ferdinand-Harris for #79 all-time in steals (career 332) \u2014 up from #82 entering today \u2014 (7:35 - 4th \u2014 DAL @ ATL)",
+    "kind": "rank_pass",
+    "player": "Odyssey Sims",
+    "stat": "steals",
+    "rank": 79,
+    "passed_players": [
+      "Marie Ferdinand-Harris"
+    ],
+    "new_total": 332
+  },
+  {
     "ts": "2026-05-23T01:09:00+00:00",
     "text": "Gabby Williams passed Tamera Young for #95 all-time in steals (career 306) \u2014 up from #96 entering today \u2014 (1:39 - 3rd \u2014 GS @ IND)",
     "kind": "rank_pass",
@@ -3035,17 +3047,5 @@
       "Nneka Ogwumike"
     ],
     "new_total": 232
-  },
-  {
-    "ts": "2026-05-16T02:16:00+00:00",
-    "text": "Kelsey Plum passed Ruthie Bolton for #122 all-time in steals (career 255) \u2014 up from #123 entering today \u2014 (5:20 - 1st \u2014 TOR @ LA)",
-    "kind": "rank_pass",
-    "player": "Kelsey Plum",
-    "stat": "steals",
-    "rank": 122,
-    "passed_players": [
-      "Ruthie Bolton"
-    ],
-    "new_total": 255
   }
 ]
