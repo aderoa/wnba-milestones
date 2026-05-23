@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-23 01:27 UTC_
+_Last updated: 2026-05-23 01:28 UTC_
 
 ## Contents
 
@@ -68,7 +68,7 @@ _Last updated: 2026-05-23 01:27 UTC_
 | 47 | Sophia Young-Malcolm | 4,300 |
 | 48 | Plenette Pierson | 4,258 |
 | 49 | Monique Currie | 4,253 |
-| 50 | **Allisha Gray** 🔴 +14 | 4,246 |
+| 50 | **Allisha Gray** 🔴 +16 | 4,248 |
 | 51 | Vickie Johnson | 4,230 |
 | 52 | Yolanda Griffith | 4,224 |
 | 53 | Dearica Hamby | 4,158 |
@@ -147,7 +147,7 @@ _Last updated: 2026-05-23 01:27 UTC_
 | 126 | Ruth Riley | 2,434 |
 | 127 | Svetlana Abrosimova | 2,414 |
 | 128 | Anna DeForge | 2,413 |
-| 129 | **Rhyne Howard** 🔴 +23 | 2,381 |
+| 129 | **Rhyne Howard** 🔴 +25 | 2,383 |
 | 130 | DeMya Walker | 2,379 |
 | 131 | Alex Bentley | 2,350 |
 | 132 | Merlakia Jones | 2,308 |
@@ -375,7 +375,7 @@ _Last updated: 2026-05-23 01:27 UTC_
 | 149 | Natalie Achonwa | 895 |
 | 150 | Temeka Johnson | 889 |
 | 151 | Mistie Bass | 888 |
-| 152 | **Angel Reese** 🔴 +8 | 869 |
+| 152 | **Angel Reese** 🔴 +9 | 870 |
 | 153 | Shameka Christon | 867 |
 | 154 | Krystal Thomas | 862 |
 | 155 | Erica Wheeler | 858 |
@@ -557,7 +557,7 @@ _Last updated: 2026-05-23 01:27 UTC_
 | 125 | Coco Miller | 503 |
 | 125 | **Veronica Burton** 🔴 +2 | 503 |
 | 128 | Rachel Banham | 498 |
-| 129 | **Rhyne Howard** 🔴 +7 | 497 |
+| 128 | **Rhyne Howard** 🔴 +8 | 498 |
 | 130 | **Caitlin Clark** 🔴 +7 | 495 |
 | 131 | Crystal Robinson | 488 |
 | 131 | Tiffany Mitchell | 488 |
@@ -1531,7 +1531,7 @@ _Last updated: 2026-05-23 01:27 UTC_
 | 74 | Latasha Byears | 730 |
 | 75 | Kahleah Copper | 723 |
 | 76 | Kristi Toliver | 722 |
-| 77 | **Allisha Gray** 🔴 | 714 |
+| 77 | **Allisha Gray** 🔴 +1 | 715 |
 | 78 | Cheryl Ford | 713 |
 | 78 | Elizabeth Williams | 713 |
 | 80 | Jia Perkins | 711 |
