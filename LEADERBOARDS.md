@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-23 00:10 UTC_
+_Last updated: 2026-05-23 00:11 UTC_
 
 ## Contents
 
@@ -50,7 +50,7 @@ _Last updated: 2026-05-23 00:10 UTC_
 | 29 | Taj McWilliams-Franklin | 4,992 |
 | 30 | Maya Moore | 4,984 |
 | 31 | **Tiffany Hayes** 🔴 +10 | 4,937 |
-| 32 | **Kelsey Mitchell** 🔴 +6 | 4,913 |
+| 32 | **Kelsey Mitchell** 🔴 +8 | 4,915 |
 | 33 | Sheryl Swoopes | 4,875 |
 | 34 | Alana Beard | 4,740 |
 | 35 | Chamique Holdsclaw | 4,713 |
@@ -148,7 +148,7 @@ _Last updated: 2026-05-23 00:10 UTC_
 | 127 | Svetlana Abrosimova | 2,414 |
 | 128 | Anna DeForge | 2,413 |
 | 129 | DeMya Walker | 2,379 |
-| 130 | **Rhyne Howard** 🔴 +9 | 2,367 |
+| 130 | **Rhyne Howard** 🔴 +13 | 2,371 |
 | 131 | Alex Bentley | 2,350 |
 | 132 | Merlakia Jones | 2,308 |
 | 133 | Kia Vaughn | 2,288 |
@@ -298,7 +298,7 @@ _Last updated: 2026-05-23 00:10 UTC_
 | 72 | Courtney Vandersloot | 1,383 |
 | 72 | Katie Smith | 1,383 |
 | 74 | Ebony Hoffman | 1,376 |
-| 75 | **Allisha Gray** 🔴 +2 | 1,370 |
+| 75 | **Allisha Gray** 🔴 +3 | 1,371 |
 | 76 | **Monique Billings** 🔴 +2 | 1,369 |
 | 77 | Sheri Sam | 1,356 |
 | 78 | Tamika Whitmore | 1,355 |
@@ -504,7 +504,7 @@ _Last updated: 2026-05-23 00:10 UTC_
 | 73 | Marina Mabrey | 745 |
 | 73 | Sheri Sam | 745 |
 | 75 | Monique Currie | 740 |
-| 76 | **Allisha Gray** 🔴 | 734 |
+| 76 | **Allisha Gray** 🔴 +1 | 735 |
 | 77 | Elaine Powell | 728 |
 | 78 | Chamique Holdsclaw | 698 |
 | 79 | Dearica Hamby | 697 |
@@ -1092,7 +1092,7 @@ _Last updated: 2026-05-23 00:10 UTC_
 | 44 | Rachel Banham | 376 |
 | 46 | Allison Feaster | 372 |
 | 46 | Betty Lennox | 372 |
-| 48 | **Rhyne Howard** 🔴 | 370 |
+| 48 | **Rhyne Howard** 🔴 +1 | 371 |
 | 49 | Epiphanny Prince | 368 |
 | 50 | Jonquel Jones | 361 |
 | 51 | Kia Nurse | 358 |
@@ -1336,8 +1336,8 @@ _Last updated: 2026-05-23 00:10 UTC_
 | 84 | Nikki McCray | 565 |
 | 85 | Sancho Lyttle | 563 |
 | 86 | Breanna Stewart | 557 |
-| 86 | **Kelsey Mitchell** 🔴 +1 | 557 |
 | 86 | Tan White | 557 |
+| 88 | **Kelsey Mitchell** 🔴 | 556 |
 | 89 | Lauren Jackson | 549 |
 | 90 | Matee Ajavon | 544 |
 | 91 | Adrienne Goodson | 542 |
@@ -1566,9 +1566,9 @@ _Last updated: 2026-05-23 00:10 UTC_
 | 109 | Jennifer Gillom | 629 |
 | 110 | Deanna Nolan | 628 |
 | 111 | Brionna Jones | 625 |
+| 112 | **Kiah Stokes** 🔴 +1 | 618 |
 | 112 | Teaira McCowan | 618 |
-| 113 | Courtney Paris | 617 |
-| 113 | **Kiah Stokes** 🔴 | 617 |
+| 114 | Courtney Paris | 617 |
 | 115 | Coco Miller | 615 |
 | 116 | Brooke Wyckoff | 614 |
 | 117 | Svetlana Abrosimova | 613 |
