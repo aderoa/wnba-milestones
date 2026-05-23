@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-23 01:22 UTC_
+_Last updated: 2026-05-23 01:23 UTC_
 
 ## Contents
 
@@ -49,7 +49,7 @@ _Last updated: 2026-05-23 01:22 UTC_
 | 28 | Tangela Smith | 5,035 |
 | 29 | Taj McWilliams-Franklin | 4,992 |
 | 30 | Maya Moore | 4,984 |
-| 31 | **Tiffany Hayes** 🔴 +15 | 4,942 |
+| 31 | **Tiffany Hayes** 🔴 +17 | 4,944 |
 | 32 | **Kelsey Mitchell** 🔴 +13 | 4,920 |
 | 33 | Sheryl Swoopes | 4,875 |
 | 34 | Alana Beard | 4,740 |
@@ -1172,9 +1172,9 @@ _Last updated: 2026-05-23 01:22 UTC_
 | 125 | Nia Coffey | 172 |
 | 125 | Theresa Plaisance | 172 |
 | 127 | Amanda Lassiter | 170 |
+| 128 | **Caitlin Clark** 🔴 +4 | 167 |
 | 128 | Shavonte Zellous | 167 |
 | 128 | Tianna Hawkins | 167 |
-| 130 | **Caitlin Clark** 🔴 +3 | 166 |
 | 131 | Charlotte Smith | 164 |
 | 132 | Ukari Figgs | 162 |
 | 133 | Edna Campbell | 161 |
@@ -1369,7 +1369,7 @@ _Last updated: 2026-05-23 01:22 UTC_
 | 117 | Ebony Hoffman | 470 |
 | 118 | Elaine Powell | 469 |
 | 119 | Allie Quigley | 467 |
-| 120 | **Allisha Gray** 🔴 | 455 |
+| 120 | **Allisha Gray** 🔴 +1 | 456 |
 | 121 | A'ja Wilson | 454 |
 | 121 | Kia Vaughn | 454 |
 | 123 | Janeth Arcain | 453 |
