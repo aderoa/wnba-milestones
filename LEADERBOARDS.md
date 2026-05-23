@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-23 00:21 UTC_
+_Last updated: 2026-05-23 00:22 UTC_
 
 ## Contents
 
@@ -1612,8 +1612,8 @@ _Last updated: 2026-05-23 00:21 UTC_
 | 155 | Alex Bentley | 516 |
 | 156 | Kayla McBride | 515 |
 | 157 | Jackie Young | 514 |
-| 158 | Jantel Lavender | 513 |
-| 158 | **Sophie Cunningham** 🔴 +1 | 513 |
+| 157 | **Sophie Cunningham** 🔴 +2 | 514 |
+| 159 | Jantel Lavender | 513 |
 | 160 | Adrienne Goodson | 512 |
 | 160 | Janeth Arcain | 512 |
 | 160 | **Monique Billings** 🔴 +2 | 512 |
