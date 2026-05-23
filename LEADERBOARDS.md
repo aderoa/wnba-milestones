@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-23 00:53 UTC_
+_Last updated: 2026-05-23 00:54 UTC_
 
 ## Contents
 
@@ -165,7 +165,7 @@ _Last updated: 2026-05-23 00:53 UTC_
 | 144 | Sami Whitcomb | 2,211 |
 | 145 | Sophia Witherspoon | 2,210 |
 | 146 | Kia Nurse | 2,204 |
-| 147 | **Jordin Canada** 🔴 +4 | 2,178 |
+| 147 | **Jordin Canada** 🔴 +7 | 2,181 |
 | 148 | Ruthie Bolton | 2,175 |
 | 149 | Ann Wauters | 2,170 |
 | 150 | Layshia Clarendon | 2,168 |
@@ -319,7 +319,7 @@ _Last updated: 2026-05-23 00:53 UTC_
 | 93 | **Tiffany Hayes** 🔴 +2 | 1,235 |
 | 94 | Brianna Turner | 1,229 |
 | 95 | Seimone Augustus | 1,228 |
-| 96 | **Myisha Hines-Allen** 🔴 +3 | 1,227 |
+| 96 | **Myisha Hines-Allen** 🔴 +2 | 1,226 |
 | 97 | Jia Perkins | 1,220 |
 | 98 | Chelsea Gray | 1,210 |
 | 99 | Kayla McBride | 1,201 |
@@ -557,7 +557,7 @@ _Last updated: 2026-05-23 00:53 UTC_
 | 125 | Coco Miller | 503 |
 | 127 | **Veronica Burton** 🔴 +1 | 502 |
 | 128 | Rachel Banham | 498 |
-| 129 | **Rhyne Howard** 🔴 +5 | 495 |
+| 129 | **Rhyne Howard** 🔴 +6 | 496 |
 | 130 | **Caitlin Clark** 🔴 +6 | 494 |
 | 131 | Crystal Robinson | 488 |
 | 131 | Tiffany Mitchell | 488 |
@@ -615,9 +615,9 @@ _Last updated: 2026-05-23 00:53 UTC_
 | 183 | Diamond DeShields | 361 |
 | 183 | Erlana Larkins | 361 |
 | 186 | Bridget Carleton | 358 |
+| 187 | **Jessica Shepard** 🔴 +2 | 355 |
 | 187 | **Kayla Thornton** 🔴 | 355 |
 | 187 | Merlakia Jones | 355 |
-| 189 | **Jessica Shepard** 🔴 +1 | 354 |
 | 190 | Charlotte Smith | 352 |
 | 190 | Ruthie Bolton | 352 |
 | 192 | Jantel Lavender | 350 |
@@ -986,8 +986,8 @@ _Last updated: 2026-05-23 00:53 UTC_
 | 144 | Jennifer Gillom | 220 |
 | 144 | **Kelsey Mitchell** 🔴 | 220 |
 | 147 | Allison Feaster | 219 |
-| 148 | **Rhyne Howard** 🔴 +3 | 217 |
-| 148 | Shenise Johnson | 217 |
+| 148 | **Rhyne Howard** 🔴 +4 | 218 |
+| 149 | Shenise Johnson | 217 |
 | 150 | Adrian Williams-Strong | 216 |
 | 150 | Moriah Jefferson | 216 |
 | 152 | Asjha Jones | 215 |
@@ -1222,11 +1222,11 @@ _Last updated: 2026-05-23 00:53 UTC_
 | 175 | Sidney Spencer | 122 |
 | 176 | Tonya Edwards | 118 |
 | 177 | Edwige Lawson-Wade | 116 |
+| 177 | **Jordin Canada** 🔴 +1 | 116 |
 | 177 | Marie Ferdinand-Harris | 116 |
-| 179 | Ebony Hoffman | 115 |
-| 179 | **Jordin Canada** 🔴 | 115 |
-| 179 | Shey Peddy | 115 |
-| 179 | Stephanie White | 115 |
+| 180 | Ebony Hoffman | 115 |
+| 180 | Shey Peddy | 115 |
+| 180 | Stephanie White | 115 |
 | 183 | Gordana Grubin | 114 |
 | 183 | Rickea Jackson | 114 |
 | 183 | Sandy Brondello | 114 |
@@ -1356,7 +1356,7 @@ _Last updated: 2026-05-23 00:53 UTC_
 | 102 | Wendy Palmer | 517 |
 | 105 | Tully Bevilaqua | 514 |
 | 106 | Jia Perkins | 513 |
-| 107 | **Arike Ogunbowale** 🔴 +1 | 510 |
+| 107 | **Arike Ogunbowale** 🔴 +2 | 511 |
 | 108 | Tamera Young | 501 |
 | 109 | **Jordin Canada** 🔴 +1 | 497 |
 | 110 | Marina Mabrey | 494 |
@@ -1409,7 +1409,7 @@ _Last updated: 2026-05-23 00:53 UTC_
 | 157 | Anna DeForge | 374 |
 | 157 | Cheryl Ford | 374 |
 | 159 | Allison Feaster | 372 |
-| 160 | **Myisha Hines-Allen** 🔴 +2 | 370 |
+| 160 | **Myisha Hines-Allen** 🔴 +3 | 371 |
 | 161 | Emma Meesseman | 367 |
 | 162 | Latasha Byears | 360 |
 | 163 | Vicky Bullett | 359 |
@@ -1584,8 +1584,8 @@ _Last updated: 2026-05-23 00:53 UTC_
 | 127 | Chiney Ogwumike | 580 |
 | 127 | Hamchetou Maiga-Ba | 580 |
 | 127 | Olympia Scott | 580 |
+| 130 | **Arike Ogunbowale** 🔴 +1 | 576 |
 | 130 | Ezi Magbegor | 576 |
-| 131 | **Arike Ogunbowale** 🔴 | 575 |
 | 132 | Le'coe Willingham | 571 |
 | 133 | Ashley Robinson | 567 |
 | 134 | Ivory Latta | 565 |
@@ -1620,12 +1620,12 @@ _Last updated: 2026-05-23 00:53 UTC_
 | 163 | Andrea Stinson | 511 |
 | 164 | Vicky Bullett | 507 |
 | 165 | Merlakia Jones | 506 |
+| 166 | **Myisha Hines-Allen** 🔴 +1 | 505 |
 | 166 | Rushia Brown | 505 |
 | 166 | Shekinna Stricklen | 505 |
-| 168 | Allison Feaster | 504 |
-| 168 | Erin Perperoglou | 504 |
-| 168 | **Myisha Hines-Allen** 🔴 | 504 |
-| 168 | Napheesa Collier | 504 |
+| 169 | Allison Feaster | 504 |
+| 169 | Erin Perperoglou | 504 |
+| 169 | Napheesa Collier | 504 |
 | 172 | Iziane Castro Marques | 502 |
 | 173 | Elena Baranova | 501 |
 | 174 | Adrian Williams-Strong | 497 |

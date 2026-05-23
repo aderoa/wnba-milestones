@@ -2,6 +2,11 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-23 00:54 UTC
+
+- **Jordin Canada** passed **Ebony Hoffman**, **Shey Peddy**, and **Stephanie White** for **#179** all-time in three-pointers (career 116) — up from #180 entering today — _3:32 - 3rd — DAL @ ATL_
+- **Rhyne Howard** passed **Shenise Johnson** for **#148** all-time in steals (career 218) — up from #155 entering today — _3:32 - 3rd — DAL @ ATL_
+
 ## 2026-05-23 00:52 UTC
 
 - **Tiffany Hayes** passed **Marina Mabrey** for **#27** all-time in three-pointers (career 449) — up from #28 entering today — _6:23 - 3rd — GS @ IND_

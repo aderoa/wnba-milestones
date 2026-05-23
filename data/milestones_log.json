@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-05-23T00:54:00+00:00",
+    "text": "Jordin Canada passed Ebony Hoffman, Shey Peddy, and Stephanie White for #179 all-time in three-pointers (career 116) \u2014 up from #180 entering today \u2014 (3:32 - 3rd \u2014 DAL @ ATL)",
+    "kind": "rank_pass",
+    "player": "Jordin Canada",
+    "stat": "three-pointers",
+    "rank": 179,
+    "passed_players": [
+      "Ebony Hoffman",
+      "Shey Peddy",
+      "Stephanie White"
+    ],
+    "new_total": 116
+  },
+  {
+    "ts": "2026-05-23T00:54:00+00:00",
+    "text": "Rhyne Howard passed Shenise Johnson for #148 all-time in steals (career 218) \u2014 up from #155 entering today \u2014 (3:32 - 3rd \u2014 DAL @ ATL)",
+    "kind": "rank_pass",
+    "player": "Rhyne Howard",
+    "stat": "steals",
+    "rank": 148,
+    "passed_players": [
+      "Shenise Johnson"
+    ],
+    "new_total": 218
+  },
+  {
     "ts": "2026-05-23T00:52:00+00:00",
     "text": "Tiffany Hayes passed Marina Mabrey for #27 all-time in three-pointers (career 449) \u2014 up from #28 entering today \u2014 (6:23 - 3rd \u2014 GS @ IND)",
     "kind": "rank_pass",
@@ -3023,30 +3049,5 @@
       "Sabrina Ionescu"
     ],
     "new_total": 183
-  },
-  {
-    "ts": "2026-05-16T01:31:00+00:00",
-    "text": "Monique Billings passed Rushia Brown and Shekinna Stricklen for #163 all-time in fouls (career 506) \u2014 up from #171 entering today \u2014 (1:41 - 4th \u2014 WSH @ IND)",
-    "kind": "rank_pass",
-    "player": "Monique Billings",
-    "stat": "fouls",
-    "rank": 163,
-    "passed_players": [
-      "Rushia Brown",
-      "Shekinna Stricklen"
-    ],
-    "new_total": 506
-  },
-  {
-    "ts": "2026-05-16T01:12:00+00:00",
-    "text": "Monique Billings passed Rebecca Allen for #198 all-time in points (career 1,515) \u2014 up from #199 entering today \u2014 (7:39 - 4th \u2014 WSH @ IND)",
-    "kind": "rank_pass",
-    "player": "Monique Billings",
-    "stat": "points",
-    "rank": 198,
-    "passed_players": [
-      "Rebecca Allen"
-    ],
-    "new_total": 1515
   }
 ]
