@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-23 01:26 UTC_
+_Last updated: 2026-05-23 01:27 UTC_
 
 ## Contents
 
@@ -68,7 +68,7 @@ _Last updated: 2026-05-23 01:26 UTC_
 | 47 | Sophia Young-Malcolm | 4,300 |
 | 48 | Plenette Pierson | 4,258 |
 | 49 | Monique Currie | 4,253 |
-| 50 | **Allisha Gray** 🔴 +12 | 4,244 |
+| 50 | **Allisha Gray** 🔴 +14 | 4,246 |
 | 51 | Vickie Johnson | 4,230 |
 | 52 | Yolanda Griffith | 4,224 |
 | 53 | Dearica Hamby | 4,158 |
@@ -557,7 +557,7 @@ _Last updated: 2026-05-23 01:26 UTC_
 | 125 | Coco Miller | 503 |
 | 125 | **Veronica Burton** 🔴 +2 | 503 |
 | 128 | Rachel Banham | 498 |
-| 129 | **Rhyne Howard** 🔴 +6 | 496 |
+| 129 | **Rhyne Howard** 🔴 +7 | 497 |
 | 130 | **Caitlin Clark** 🔴 +7 | 495 |
 | 131 | Crystal Robinson | 488 |
 | 131 | Tiffany Mitchell | 488 |
