@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-23T23:55:00+00:00",
+    "text": "Bridget Carleton passed Iziane Castro Marques for #80 all-time in three-pointers (career 276) \u2014 up from #81 entering today \u2014 (2:54 - 4th \u2014 POR @ TOR)",
+    "kind": "rank_pass",
+    "player": "Bridget Carleton",
+    "stat": "three-pointers",
+    "rank": 80,
+    "passed_players": [
+      "Iziane Castro Marques"
+    ],
+    "new_total": 276
+  },
+  {
     "ts": "2026-05-23T23:17:00+00:00",
     "text": "Emily Engstler passed Theresa Plaisance for #124 all-time in blocks (career 103) \u2014 up from #131 entering today \u2014 (7:30 - 3rd \u2014 POR @ TOR)",
     "kind": "rank_pass",
@@ -3037,17 +3049,5 @@
       "Shenise Johnson"
     ],
     "new_total": 1689
-  },
-  {
-    "ts": "2026-05-17T19:28:00+00:00",
-    "text": "Jewell Loyd passed Elena Baranova for #80 all-time in rebounds (career 1,336) \u2014 up from #82 entering today \u2014 (8:36 - 4th \u2014 LV @ ATL)",
-    "kind": "rank_pass",
-    "player": "Jewell Loyd",
-    "stat": "rebounds",
-    "rank": 80,
-    "passed_players": [
-      "Elena Baranova"
-    ],
-    "new_total": 1336
   }
 ]

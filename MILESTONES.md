@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-23 23:55 UTC
+
+- **Bridget Carleton** passed **Iziane Castro Marques** for **#80** all-time in three-pointers (career 276) — up from #81 entering today — _2:54 - 4th — POR @ TOR_
+
 ## 2026-05-23 23:17 UTC
 
 - **Emily Engstler** passed **Theresa Plaisance** for **#124** all-time in blocks (career 103) — up from #131 entering today — _7:30 - 3rd — POR @ TOR_
