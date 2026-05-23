@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-23 23:22 UTC_
+_Last updated: 2026-05-23 23:23 UTC_
 
 ## Contents
 
@@ -383,7 +383,7 @@ _Last updated: 2026-05-23 23:22 UTC_
 | 157 | Leilani Mitchell | 845 |
 | 158 | Jessica Shepard | 836 |
 | 159 | Essence Carson | 833 |
-| 160 | **Marina Mabrey** 🔴 +4 | 831 |
+| 160 | **Marina Mabrey** 🔴 +5 | 832 |
 | 161 | Kristi Toliver | 829 |
 | 162 | Marie Ferdinand-Harris | 828 |
 | 163 | Nia Coffey | 826 |
