@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-23 00:05 UTC_
+_Last updated: 2026-05-23 00:06 UTC_
 
 ## Contents
 
@@ -298,8 +298,8 @@ _Last updated: 2026-05-23 00:05 UTC_
 | 72 | Courtney Vandersloot | 1,383 |
 | 72 | Katie Smith | 1,383 |
 | 74 | Ebony Hoffman | 1,376 |
-| 75 | **Allisha Gray** 🔴 +1 | 1,369 |
-| 75 | **Monique Billings** 🔴 +2 | 1,369 |
+| 75 | **Allisha Gray** 🔴 +2 | 1,370 |
+| 76 | **Monique Billings** 🔴 +2 | 1,369 |
 | 77 | Sheri Sam | 1,356 |
 | 78 | Tamika Whitmore | 1,355 |
 | 79 | Emma Meesseman | 1,350 |
@@ -455,7 +455,7 @@ _Last updated: 2026-05-23 00:05 UTC_
 | 24 | Erica Wheeler | 1,275 |
 | 25 | Katie Smith | 1,258 |
 | 26 | Kelsey Plum | 1,215 |
-| 27 | **Odyssey Sims** 🔴 +1 | 1,211 |
+| 27 | **Odyssey Sims** 🔴 +2 | 1,212 |
 | 28 | Vickie Johnson | 1,202 |
 | 29 | Leilani Mitchell | 1,197 |
 | 30 | DeWanna Bonner | 1,183 |
@@ -540,7 +540,7 @@ _Last updated: 2026-05-23 00:05 UTC_
 | 109 | Napheesa Collier | 570 |
 | 110 | Nicole Powell | 567 |
 | 111 | Loree Moore | 562 |
-| 112 | **Gabby Williams** 🔴 +2 | 556 |
+| 112 | **Gabby Williams** 🔴 +3 | 557 |
 | 113 | Sophia Young-Malcolm | 554 |
 | 113 | Tangela Smith | 554 |
 | 115 | Tamera Young | 552 |
@@ -558,7 +558,7 @@ _Last updated: 2026-05-23 00:05 UTC_
 | 127 | **Veronica Burton** 🔴 +1 | 502 |
 | 128 | Rachel Banham | 498 |
 | 129 | **Caitlin Clark** 🔴 +4 | 492 |
-| 130 | **Rhyne Howard** 🔴 +1 | 491 |
+| 129 | **Rhyne Howard** 🔴 +2 | 492 |
 | 131 | Crystal Robinson | 488 |
 | 131 | Tiffany Mitchell | 488 |
 | 133 | Rebekkah Brunson | 486 |
@@ -1029,9 +1029,9 @@ _Last updated: 2026-05-23 00:05 UTC_
 | 188 | Diamond DeShields | 180 |
 | 188 | Isabelle Harrison | 180 |
 | 190 | Bridget Pettis | 177 |
-| 190 | **Monique Billings** 🔴 +2 | 177 |
-| 192 | Brittany Boyd-Jones | 176 |
-| 192 | Chiney Ogwumike | 176 |
+| 191 | Brittany Boyd-Jones | 176 |
+| 191 | Chiney Ogwumike | 176 |
+| 191 | **Monique Billings** 🔴 +1 | 176 |
 | 194 | Tamika Raymond | 175 |
 | 195 | Elena Delle Donne | 174 |
 | 195 | Ezi Magbegor | 174 |
