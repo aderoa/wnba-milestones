@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-23 17:53 UTC
+
+- **Courtney Williams** passed **Jessica Breland** for **#136** all-time in fouls (career 563) — up from #137 entering today — _2:02 - 2nd — MIN @ CHI_
+
 ## 2026-05-23 17:44 UTC
 
 - **Azurá Stevens** passed **Christi Thomas** and **Nikki Teasley** for **#192** all-time in fouls (career 464) — _4:31 - 2nd — MIN @ CHI_

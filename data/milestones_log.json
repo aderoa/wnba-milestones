@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-23T17:53:00+00:00",
+    "text": "Courtney Williams passed Jessica Breland for #136 all-time in fouls (career 563) \u2014 up from #137 entering today \u2014 (2:02 - 2nd \u2014 MIN @ CHI)",
+    "kind": "rank_pass",
+    "player": "Courtney Williams",
+    "stat": "fouls",
+    "rank": 136,
+    "passed_players": [
+      "Jessica Breland"
+    ],
+    "new_total": 563
+  },
+  {
     "ts": "2026-05-23T17:44:00+00:00",
     "text": "Azur\u00e1 Stevens passed Christi Thomas and Nikki Teasley for #192 all-time in fouls (career 464) \u2014 (4:31 - 2nd \u2014 MIN @ CHI)",
     "kind": "rank_pass",
@@ -3029,17 +3041,5 @@
       "Theresa Plaisance"
     ],
     "new_total": 103
-  },
-  {
-    "ts": "2026-05-16T03:47:00+00:00",
-    "text": "Brittney Sykes passed Stacey Dales for #96 all-time in three-pointers (career 233) \u2014 up from #97 entering today \u2014 (6:40 - 4th \u2014 TOR @ LA)",
-    "kind": "rank_pass",
-    "player": "Brittney Sykes",
-    "stat": "three-pointers",
-    "rank": 96,
-    "passed_players": [
-      "Stacey Dales"
-    ],
-    "new_total": 233
   }
 ]
