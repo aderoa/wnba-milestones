@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-23 18:16 UTC_
+_Last updated: 2026-05-23 18:17 UTC_
 
 ## Contents
 
@@ -760,10 +760,10 @@ _Last updated: 2026-05-23 18:16 UTC_
 | 124 | Theresa Plaisance | 102 |
 | 125 | Deanna Nolan | 101 |
 | 125 | Dearica Hamby | 101 |
-| 125 | **Kamilla Cardoso** 🔴 +1 | 101 |
-| 128 | Chante Black | 100 |
-| 128 | Danielle Adams | 100 |
-| 128 | Nicole Powell | 100 |
+| 127 | Chante Black | 100 |
+| 127 | Danielle Adams | 100 |
+| 127 | **Kamilla Cardoso** 🔴 | 100 |
+| 127 | Nicole Powell | 100 |
 | 131 | Emily Engstler | 99 |
 | 132 | Mwadi Mabika | 98 |
 | 132 | Natalie Achonwa | 98 |
