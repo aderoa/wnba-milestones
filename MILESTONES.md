@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-23 01:03 UTC
+
+- **Sophie Cunningham** passed **Kayla McBride** for **#156** all-time in fouls (career 516) — up from #161 entering today — _3:21 - 3rd — GS @ IND_
+
 ## 2026-05-23 00:54 UTC
 
 - **Jordin Canada** passed **Ebony Hoffman**, **Shey Peddy**, and **Stephanie White** for **#179** all-time in three-pointers (career 116) — up from #180 entering today — _3:32 - 3rd — DAL @ ATL_

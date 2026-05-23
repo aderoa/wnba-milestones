@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-23T01:03:00+00:00",
+    "text": "Sophie Cunningham passed Kayla McBride for #156 all-time in fouls (career 516) \u2014 up from #161 entering today \u2014 (3:21 - 3rd \u2014 GS @ IND)",
+    "kind": "rank_pass",
+    "player": "Sophie Cunningham",
+    "stat": "fouls",
+    "rank": 156,
+    "passed_players": [
+      "Kayla McBride"
+    ],
+    "new_total": 516
+  },
+  {
     "ts": "2026-05-23T00:54:00+00:00",
     "text": "Jordin Canada passed Ebony Hoffman, Shey Peddy, and Stephanie White for #179 all-time in three-pointers (career 116) \u2014 up from #180 entering today \u2014 (3:32 - 3rd \u2014 DAL @ ATL)",
     "kind": "rank_pass",
@@ -3035,19 +3047,5 @@
       "Natasha Howard"
     ],
     "new_total": 158
-  },
-  {
-    "ts": "2026-05-16T01:41:00+00:00",
-    "text": "Myisha Hines-Allen passed Alanna Smith, Erin Phillips, and Sabrina Ionescu for #182 all-time in steals (career 183) \u2014 up from #185 entering today \u2014 (5.8 - 4th \u2014 WSH @ IND)",
-    "kind": "rank_pass",
-    "player": "Myisha Hines-Allen",
-    "stat": "steals",
-    "rank": 182,
-    "passed_players": [
-      "Alanna Smith",
-      "Erin Phillips",
-      "Sabrina Ionescu"
-    ],
-    "new_total": 183
   }
 ]

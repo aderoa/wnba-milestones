@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-23 01:02 UTC_
+_Last updated: 2026-05-23 01:03 UTC_
 
 ## Contents
 
@@ -208,7 +208,7 @@ _Last updated: 2026-05-23 01:02 UTC_
 | 187 | Sugar Rodgers | 1,733 |
 | 188 | Moriah Jefferson | 1,722 |
 | 188 | NaLyssa Smith | 1,722 |
-| 190 | **Sophie Cunningham** 🔴 +4 | 1,709 |
+| 190 | **Sophie Cunningham** 🔴 +6 | 1,711 |
 | 191 | Armintie Herrington | 1,696 |
 | 192 | Nikki Teasley | 1,690 |
 | 193 | Shenise Johnson | 1,688 |
@@ -375,8 +375,8 @@ _Last updated: 2026-05-23 01:02 UTC_
 | 149 | Natalie Achonwa | 895 |
 | 150 | Temeka Johnson | 889 |
 | 151 | Mistie Bass | 888 |
+| 152 | **Angel Reese** 🔴 +6 | 867 |
 | 152 | Shameka Christon | 867 |
-| 153 | **Angel Reese** 🔴 +5 | 866 |
 | 154 | Krystal Thomas | 862 |
 | 155 | Erica Wheeler | 858 |
 | 156 | **Alanna Smith** 🔴 +2 | 849 |
@@ -558,7 +558,7 @@ _Last updated: 2026-05-23 01:02 UTC_
 | 127 | **Veronica Burton** 🔴 +1 | 502 |
 | 128 | Rachel Banham | 498 |
 | 129 | **Rhyne Howard** 🔴 +6 | 496 |
-| 130 | **Caitlin Clark** 🔴 +6 | 494 |
+| 130 | **Caitlin Clark** 🔴 +7 | 495 |
 | 131 | Crystal Robinson | 488 |
 | 131 | Tiffany Mitchell | 488 |
 | 133 | Rebekkah Brunson | 486 |
@@ -1610,8 +1610,8 @@ _Last updated: 2026-05-23 01:02 UTC_
 | 153 | Sheryl Swoopes | 519 |
 | 154 | Nikki McCray | 517 |
 | 155 | Alex Bentley | 516 |
-| 156 | Kayla McBride | 515 |
-| 156 | **Sophie Cunningham** 🔴 +3 | 515 |
+| 155 | **Sophie Cunningham** 🔴 +4 | 516 |
+| 157 | Kayla McBride | 515 |
 | 158 | Jackie Young | 514 |
 | 159 | Jantel Lavender | 513 |
 | 160 | Adrienne Goodson | 512 |
