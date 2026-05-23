@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-23 01:25 UTC
+
+- **Rhyne Howard** passed **DeMya Walker** for **#129** all-time in points (career 2,381) — up from #130 entering today — _3:09 - 4th — DAL @ ATL_
+
 ## 2026-05-23 01:11 UTC
 
 - **Odyssey Sims** passed **Marie Ferdinand-Harris** for **#79** all-time in steals (career 332) — up from #82 entering today — _7:35 - 4th — DAL @ ATL_

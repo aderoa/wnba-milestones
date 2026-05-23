@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-23 01:24 UTC_
+_Last updated: 2026-05-23 01:25 UTC_
 
 ## Contents
 
@@ -147,8 +147,8 @@ _Last updated: 2026-05-23 01:24 UTC_
 | 126 | Ruth Riley | 2,434 |
 | 127 | Svetlana Abrosimova | 2,414 |
 | 128 | Anna DeForge | 2,413 |
-| 129 | DeMya Walker | 2,379 |
-| 130 | **Rhyne Howard** 🔴 +20 | 2,378 |
+| 129 | **Rhyne Howard** 🔴 +23 | 2,381 |
+| 130 | DeMya Walker | 2,379 |
 | 131 | Alex Bentley | 2,350 |
 | 132 | Merlakia Jones | 2,308 |
 | 133 | Kia Vaughn | 2,288 |
@@ -298,7 +298,7 @@ _Last updated: 2026-05-23 01:24 UTC_
 | 72 | Courtney Vandersloot | 1,383 |
 | 72 | Katie Smith | 1,383 |
 | 74 | Ebony Hoffman | 1,376 |
-| 75 | **Allisha Gray** 🔴 +3 | 1,371 |
+| 75 | **Allisha Gray** 🔴 +4 | 1,372 |
 | 76 | **Monique Billings** 🔴 +3 | 1,370 |
 | 77 | Sheri Sam | 1,356 |
 | 78 | Tamika Whitmore | 1,355 |
@@ -1092,7 +1092,7 @@ _Last updated: 2026-05-23 01:24 UTC_
 | 44 | Rachel Banham | 376 |
 | 46 | Allison Feaster | 372 |
 | 46 | Betty Lennox | 372 |
-| 48 | **Rhyne Howard** 🔴 +1 | 371 |
+| 46 | **Rhyne Howard** 🔴 +2 | 372 |
 | 49 | Epiphanny Prince | 368 |
 | 50 | Jonquel Jones | 361 |
 | 51 | Kia Nurse | 358 |

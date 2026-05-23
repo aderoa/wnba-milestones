@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-23T01:25:00+00:00",
+    "text": "Rhyne Howard passed DeMya Walker for #129 all-time in points (career 2,381) \u2014 up from #130 entering today \u2014 (3:09 - 4th \u2014 DAL @ ATL)",
+    "kind": "rank_pass",
+    "player": "Rhyne Howard",
+    "stat": "points",
+    "rank": 129,
+    "passed_players": [
+      "DeMya Walker"
+    ],
+    "new_total": 2381
+  },
+  {
     "ts": "2026-05-23T01:11:00+00:00",
     "text": "Odyssey Sims passed Marie Ferdinand-Harris for #79 all-time in steals (career 332) \u2014 up from #82 entering today \u2014 (7:35 - 4th \u2014 DAL @ ATL)",
     "kind": "rank_pass",
@@ -3035,17 +3047,5 @@
       "Tamecka Dixon"
     ],
     "new_total": 356
-  },
-  {
-    "ts": "2026-05-16T02:23:00+00:00",
-    "text": "Brittney Sykes passed Nneka Ogwumike for #98 all-time in three-pointers (career 232) \u2014 (1:35 - 1st \u2014 TOR @ LA)",
-    "kind": "rank_pass",
-    "player": "Brittney Sykes",
-    "stat": "three-pointers",
-    "rank": 98,
-    "passed_players": [
-      "Nneka Ogwumike"
-    ],
-    "new_total": 232
   }
 ]
