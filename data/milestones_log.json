@@ -1,5 +1,30 @@
 [
   {
+    "ts": "2026-05-23T17:39:00+00:00",
+    "text": "Courtney Williams passed Alysha Clark and Debbie Black for #90 all-time in steals (career 316) \u2014 up from #91 entering today \u2014 (5:19 - 2nd \u2014 MIN @ CHI)",
+    "kind": "rank_pass",
+    "player": "Courtney Williams",
+    "stat": "steals",
+    "rank": 90,
+    "passed_players": [
+      "Alysha Clark",
+      "Debbie Black"
+    ],
+    "new_total": 316
+  },
+  {
+    "ts": "2026-05-23T17:39:00+00:00",
+    "text": "Azur\u00e1 Stevens passed Damiris Dantas for #200 all-time in turnovers (career 287) \u2014 (5:19 - 2nd \u2014 MIN @ CHI)",
+    "kind": "rank_pass",
+    "player": "Azur\u00e1 Stevens",
+    "stat": "turnovers",
+    "rank": 200,
+    "passed_players": [
+      "Damiris Dantas"
+    ],
+    "new_total": 287
+  },
+  {
     "ts": "2026-05-23T17:35:00+00:00",
     "text": "Courtney Williams passed Jennifer Gillom and Jia Perkins for #122 all-time in blocks (career 104) \u2014 (7:37 - 2nd \u2014 MIN @ CHI)",
     "kind": "rank_pass",
@@ -3012,29 +3037,5 @@
     "stat": "rebounds",
     "value": 600,
     "new_total": 600
-  },
-  {
-    "ts": "2026-05-16T03:30:00+00:00",
-    "text": "Elizabeth Williams passed Helen Darling for #79 all-time in fouls (career 710) \u2014 up from #80 entering today \u2014 (4:43 - 3rd \u2014 CHI @ PHX)",
-    "kind": "rank_pass",
-    "player": "Elizabeth Williams",
-    "stat": "fouls",
-    "rank": 79,
-    "passed_players": [
-      "Helen Darling"
-    ],
-    "new_total": 710
-  },
-  {
-    "ts": "2026-05-16T03:30:00+00:00",
-    "text": "Natasha Cloud passed Armintie Herrington for #74 all-time in steals (career 341) \u2014 up from #75 entering today \u2014 (4:43 - 3rd \u2014 CHI @ PHX)",
-    "kind": "rank_pass",
-    "player": "Natasha Cloud",
-    "stat": "steals",
-    "rank": 74,
-    "passed_players": [
-      "Armintie Herrington"
-    ],
-    "new_total": 341
   }
 ]

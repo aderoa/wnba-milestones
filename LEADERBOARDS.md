@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-23 17:38 UTC_
+_Last updated: 2026-05-23 17:39 UTC_
 
 ## Contents
 
@@ -250,7 +250,7 @@ _Last updated: 2026-05-23 17:38 UTC_
 | 24 | Dearica Hamby | 2,346 |
 | 25 | Tangela Smith | 2,328 |
 | 26 | Erika de Souza | 2,220 |
-| 27 | **Natasha Howard** 🔴 +6 | 2,210 |
+| 27 | **Natasha Howard** 🔴 +5 | 2,209 |
 | 28 | Diana Taurasi | 2,201 |
 | 29 | Margo Dydek | 2,138 |
 | 30 | Chamique Holdsclaw | 2,123 |
@@ -362,7 +362,7 @@ _Last updated: 2026-05-23 17:38 UTC_
 | 136 | Danielle Robinson | 988 |
 | 137 | Shavonte Zellous | 978 |
 | 138 | Kara Lawson | 976 |
-| 139 | **Skylar Diggins** 🔴 | 973 |
+| 139 | **Skylar Diggins** 🔴 +2 | 975 |
 | 140 | Jennifer Gillom | 964 |
 | 141 | Dominique Canty | 961 |
 | 142 | Armintie Herrington | 960 |
@@ -436,7 +436,7 @@ _Last updated: 2026-05-23 17:38 UTC_
 | 5 | Lindsay Whalen | 2,347 |
 | 6 | Chelsea Gray | 1,903 |
 | 7 | Alyssa Thomas | 1,854 |
-| 8 | **Skylar Diggins** 🔴 +2 | 1,787 |
+| 8 | **Skylar Diggins** 🔴 +3 | 1,788 |
 | 9 | **Natasha Cloud** 🔴 | 1,747 |
 | 10 | Becky Hammon | 1,705 |
 | 11 | Candace Parker | 1,634 |
@@ -474,7 +474,7 @@ _Last updated: 2026-05-23 17:38 UTC_
 | 43 | Tina Charles | 1,033 |
 | 44 | Nikki Teasley | 982 |
 | 45 | Tamecka Dixon | 960 |
-| 46 | **Kayla McBride** 🔴 | 952 |
+| 46 | **Kayla McBride** 🔴 +1 | 953 |
 | 47 | Kara Lawson | 946 |
 | 48 | Breanna Stewart | 938 |
 | 49 | Deanna Nolan | 930 |
@@ -928,9 +928,9 @@ _Last updated: 2026-05-23 17:38 UTC_
 | 87 | Tammy Sutton-Brown | 319 |
 | 88 | Plenette Pierson | 317 |
 | 88 | Temeka Johnson | 317 |
-| 90 | Alysha Clark | 315 |
-| 90 | **Courtney Williams** 🔴 | 315 |
-| 90 | Debbie Black | 315 |
+| 90 | **Courtney Williams** 🔴 +1 | 316 |
+| 91 | Alysha Clark | 315 |
+| 91 | Debbie Black | 315 |
 | 93 | Crystal Langhorne | 314 |
 | 94 | Ebony Hoffman | 308 |
 | 95 | Tamera Young | 305 |
@@ -1448,8 +1448,8 @@ _Last updated: 2026-05-23 17:38 UTC_
 | 196 | Alexis Hornbuckle | 288 |
 | 196 | Kristen Rasmussen | 288 |
 | 196 | **Rachel Banham** 🔴 | 288 |
-| 199 | **Azurá Stevens** 🔴 | 286 |
-| 199 | Damiris Dantas | 286 |
+| 199 | **Azurá Stevens** 🔴 +1 | 287 |
+| 200 | Damiris Dantas | 286 |
 
 ## Personal fouls
 
@@ -1590,8 +1590,8 @@ _Last updated: 2026-05-23 17:38 UTC_
 | 133 | Ashley Robinson | 567 |
 | 134 | Ivory Latta | 565 |
 | 135 | Barbara Farris | 563 |
+| 136 | **Courtney Williams** 🔴 +2 | 562 |
 | 136 | Jessica Breland | 562 |
-| 137 | **Courtney Williams** 🔴 +1 | 561 |
 | 138 | Dawn Staley | 551 |
 | 139 | Glory Johnson | 550 |
 | 139 | Tierra Ruffin-Pratt | 550 |

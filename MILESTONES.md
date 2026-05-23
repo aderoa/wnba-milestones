@@ -2,6 +2,11 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-23 17:39 UTC
+
+- **Courtney Williams** passed **Alysha Clark** and **Debbie Black** for **#90** all-time in steals (career 316) — up from #91 entering today — _5:19 - 2nd — MIN @ CHI_
+- **Azurá Stevens** passed **Damiris Dantas** for **#200** all-time in turnovers (career 287) — _5:19 - 2nd — MIN @ CHI_
+
 ## 2026-05-23 17:35 UTC
 
 - **Courtney Williams** passed **Jennifer Gillom** and **Jia Perkins** for **#122** all-time in blocks (career 104) — _7:37 - 2nd — MIN @ CHI_
