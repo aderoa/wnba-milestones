@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-23 17:06 UTC_
+_Last updated: 2026-05-23 17:07 UTC_
 
 ## Contents
 
@@ -62,7 +62,7 @@ _Last updated: 2026-05-23 17:06 UTC_
 | 41 | Chelsea Gray | 4,469 |
 | 42 | Crystal Langhorne | 4,433 |
 | 42 | Jia Perkins | 4,433 |
-| 44 | **Natasha Howard** 🔴 | 4,430 |
+| 44 | **Natasha Howard** 🔴 +2 | 4,432 |
 | 45 | Courtney Vandersloot | 4,352 |
 | 46 | Kelsey Plum | 4,314 |
 | 47 | Sophia Young-Malcolm | 4,300 |
@@ -118,8 +118,8 @@ _Last updated: 2026-05-23 17:06 UTC_
 | 97 | Emma Meesseman | 2,966 |
 | 98 | Marina Mabrey | 2,941 |
 | 99 | Natalie Williams | 2,894 |
-| 100 | Jennifer Gillom | 2,888 |
-| 100 | **Natasha Cloud** 🔴 | 2,888 |
+| 100 | **Natasha Cloud** 🔴 +2 | 2,890 |
+| 101 | Jennifer Gillom | 2,888 |
 | 102 | Iziane Castro Marques | 2,862 |
 | 103 | Elizabeth Williams | 2,856 |
 | 104 | Alysha Clark | 2,792 |
@@ -264,7 +264,7 @@ _Last updated: 2026-05-23 17:06 UTC_
 | 38 | Sophia Young-Malcolm | 1,807 |
 | 39 | Lindsay Whalen | 1,805 |
 | 40 | Camille Smith | 1,802 |
-| 41 | **Courtney Williams** 🔴 | 1,766 |
+| 41 | **Courtney Williams** 🔴 +1 | 1,767 |
 | 42 | Kiah Stokes | 1,760 |
 | 43 | Asjha Jones | 1,751 |
 | 44 | Teaira McCowan | 1,670 |
