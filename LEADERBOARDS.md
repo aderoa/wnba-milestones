@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-23 22:52 UTC_
+_Last updated: 2026-05-23 22:53 UTC_
 
 ## Contents
 
@@ -501,7 +501,7 @@ _Last updated: 2026-05-23 22:52 UTC_
 | 70 | Tina Thompson | 803 |
 | 71 | Epiphanny Prince | 800 |
 | 72 | Mwadi Mabika | 774 |
-| 73 | **Marina Mabrey** 🔴 +6 | 751 |
+| 73 | **Marina Mabrey** 🔴 +7 | 752 |
 | 74 | Sheri Sam | 745 |
 | 75 | Monique Currie | 740 |
 | 76 | Allisha Gray | 734 |
