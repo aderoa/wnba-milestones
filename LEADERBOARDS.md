@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-23 18:45 UTC_
+_Last updated: 2026-05-23 18:46 UTC_
 
 ## Contents
 
@@ -73,7 +73,7 @@ _Last updated: 2026-05-23 18:45 UTC_
 | 52 | Yolanda Griffith | 4,224 |
 | 53 | Dearica Hamby | 4,158 |
 | 54 | Kahleah Copper | 4,154 |
-| 55 | **Courtney Williams** 🔴 +11 | 4,135 |
+| 55 | **Courtney Williams** 🔴 +13 | 4,137 |
 | 56 | Rebekkah Brunson | 4,133 |
 | 57 | Jonquel Jones | 4,132 |
 | 58 | Asjha Jones | 3,986 |
@@ -386,7 +386,7 @@ _Last updated: 2026-05-23 18:45 UTC_
 | 160 | Kristi Toliver | 829 |
 | 161 | Marie Ferdinand-Harris | 828 |
 | 162 | Marina Mabrey | 827 |
-| 163 | **Nia Coffey** 🔴 +5 | 824 |
+| 163 | **Nia Coffey** 🔴 +6 | 825 |
 | 164 | Marlies Askamp | 822 |
 | 165 | Amanda Zahui B | 819 |
 | 165 | Barbara Farris | 819 |
@@ -555,8 +555,8 @@ _Last updated: 2026-05-23 18:45 UTC_
 | 123 | Chasity Melvin | 508 |
 | 125 | Anna DeForge | 503 |
 | 125 | Coco Miller | 503 |
-| 127 | **Rachel Banham** 🔴 +3 | 501 |
-| 127 | Veronica Burton | 501 |
+| 127 | **Rachel Banham** 🔴 +4 | 502 |
+| 128 | Veronica Burton | 501 |
 | 129 | Rhyne Howard | 490 |
 | 130 | Caitlin Clark | 488 |
 | 130 | Crystal Robinson | 488 |

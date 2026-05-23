@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-23T18:46:00+00:00",
+    "text": "Rachel Banham passed Veronica Burton for #127 all-time in assists (career 502) \u2014 up from #128 entering today \u2014 (7:37 - 4th \u2014 MIN @ CHI)",
+    "kind": "rank_pass",
+    "player": "Rachel Banham",
+    "stat": "assists",
+    "rank": 127,
+    "passed_players": [
+      "Veronica Burton"
+    ],
+    "new_total": 502
+  },
+  {
     "ts": "2026-05-23T18:30:00+00:00",
     "text": "Courtney Williams passed Carolyn Swords and Rebecca Lobo for #119 all-time in blocks (career 105) \u2014 up from #121 entering today \u2014 (1:35 - 3rd \u2014 MIN @ CHI)",
     "kind": "rank_pass",
@@ -3029,18 +3041,5 @@
       "Shannon Johnson"
     ],
     "new_total": 1144
-  },
-  {
-    "ts": "2026-05-16T04:09:00+00:00",
-    "text": "Rickea Jackson passed Jordin Canada and Shoni Schimmel for #184 all-time in three-pointers (career 112) \u2014 up from #190 entering today \u2014 (3:32 - 4th \u2014 CHI @ PHX)",
-    "kind": "rank_pass",
-    "player": "Rickea Jackson",
-    "stat": "three-pointers",
-    "rank": 184,
-    "passed_players": [
-      "Jordin Canada",
-      "Shoni Schimmel"
-    ],
-    "new_total": 112
   }
 ]
