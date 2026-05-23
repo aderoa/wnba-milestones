@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-23 19:05 UTC_
+_Last updated: 2026-05-23 19:06 UTC_
 
 ## Contents
 
@@ -264,7 +264,7 @@ _Last updated: 2026-05-23 19:05 UTC_
 | 38 | Sophia Young-Malcolm | 1,807 |
 | 39 | Lindsay Whalen | 1,805 |
 | 40 | Camille Smith | 1,802 |
-| 41 | **Courtney Williams** 🔴 +7 | 1,773 |
+| 41 | **Courtney Williams** 🔴 +8 | 1,774 |
 | 42 | Kiah Stokes | 1,760 |
 | 43 | Asjha Jones | 1,751 |
 | 44 | Teaira McCowan | 1,670 |
@@ -705,7 +705,7 @@ _Last updated: 2026-05-23 19:05 UTC_
 | 69 | Camille Smith | 169 |
 | 70 | Shameka Christon | 165 |
 | 71 | Cheryl Ford | 160 |
-| 72 | **Nia Coffey** 🔴 +1 | 158 |
+| 72 | **Nia Coffey** 🔴 +2 | 159 |
 | 73 | Kara Braxton | 157 |
 | 74 | DeMya Walker | 155 |
 | 74 | Tamika Whitmore | 155 |
@@ -1310,8 +1310,8 @@ _Last updated: 2026-05-23 19:05 UTC_
 | 58 | Chasity Melvin | 666 |
 | 59 | Vickie Johnson | 660 |
 | 60 | Yolanda Griffith | 653 |
-| 61 | **Courtney Williams** 🔴 +1 | 650 |
-| 61 | Sheri Sam | 650 |
+| 61 | **Courtney Williams** 🔴 +2 | 651 |
+| 62 | Sheri Sam | 650 |
 | 63 | Dawn Staley | 643 |
 | 64 | Ruth Riley | 637 |
 | 65 | Svetlana Abrosimova | 631 |
