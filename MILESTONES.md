@@ -2,6 +2,11 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-23 00:17 UTC
+
+- **Alysha Clark** passed **Kedra Holland-Corn** for **#132** all-time in turnovers (career 439) — _1:48 - 2nd — DAL @ ATL_
+- **Rhyne Howard** passed **Adrian Williams-Strong** and **Moriah Jefferson** for **#149** all-time in steals (career 217) — up from #155 entering today — _1:48 - 2nd — DAL @ ATL_
+
 ## 2026-05-23 00:13 UTC
 
 - **Gabby Williams** passed **Moriah Jefferson** for **#183** all-time in turnovers (career 315) — up from #185 entering today — _5:40 - 2nd — GS @ IND_

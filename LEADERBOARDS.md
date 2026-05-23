@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-23 00:16 UTC_
+_Last updated: 2026-05-23 00:17 UTC_
 
 ## Contents
 
@@ -602,7 +602,7 @@ _Last updated: 2026-05-23 00:16 UTC_
 | 171 | Shameka Christon | 389 |
 | 171 | Tamicha Jackson | 389 |
 | 173 | Riquna Williams | 387 |
-| 174 | **Aliyah Boston** 🔴 | 384 |
+| 174 | **Aliyah Boston** 🔴 +1 | 385 |
 | 175 | Dana Evans | 379 |
 | 175 | Stephanie Talbot | 379 |
 | 177 | Jessica Breland | 377 |
@@ -778,7 +778,7 @@ _Last updated: 2026-05-23 00:16 UTC_
 | 141 | Kayla Alexander | 91 |
 | 141 | NaLyssa Smith | 91 |
 | 144 | Allie Quigley | 90 |
-| 145 | **Alysha Clark** 🔴 | 89 |
+| 144 | **Alysha Clark** 🔴 +1 | 90 |
 | 146 | Marissa Coleman | 88 |
 | 147 | **Kayla Thornton** 🔴 | 87 |
 | 147 | **Tiffany Hayes** 🔴 | 87 |
@@ -986,10 +986,10 @@ _Last updated: 2026-05-23 00:16 UTC_
 | 144 | Jennifer Gillom | 220 |
 | 144 | **Kelsey Mitchell** 🔴 | 220 |
 | 147 | Allison Feaster | 219 |
+| 148 | **Rhyne Howard** 🔴 +3 | 217 |
 | 148 | Shenise Johnson | 217 |
-| 149 | Adrian Williams-Strong | 216 |
-| 149 | Moriah Jefferson | 216 |
-| 149 | **Rhyne Howard** 🔴 +2 | 216 |
+| 150 | Adrian Williams-Strong | 216 |
+| 150 | Moriah Jefferson | 216 |
 | 152 | Asjha Jones | 215 |
 | 152 | Candice Wiggins | 215 |
 | 152 | Cheyenne Parker-Tyus | 215 |
@@ -1174,8 +1174,8 @@ _Last updated: 2026-05-23 00:16 UTC_
 | 127 | Amanda Lassiter | 170 |
 | 128 | Shavonte Zellous | 167 |
 | 128 | Tianna Hawkins | 167 |
-| 130 | **Caitlin Clark** 🔴 +1 | 164 |
-| 130 | Charlotte Smith | 164 |
+| 130 | **Caitlin Clark** 🔴 +2 | 165 |
+| 131 | Charlotte Smith | 164 |
 | 132 | Ukari Figgs | 162 |
 | 133 | Edna Campbell | 161 |
 | 133 | **Tyasha Harris** 🔴 | 161 |
@@ -1378,10 +1378,10 @@ _Last updated: 2026-05-23 00:16 UTC_
 | 126 | Ariel Atkins | 442 |
 | 127 | Betnijah Laney-Hamilton | 441 |
 | 128 | Ann Wauters | 440 |
+| 129 | **Alysha Clark** 🔴 +1 | 439 |
 | 129 | Cheyenne Parker-Tyus | 439 |
 | 129 | Tiffany Mitchell | 439 |
-| 131 | **Alysha Clark** 🔴 | 438 |
-| 131 | Kedra Holland-Corn | 438 |
+| 132 | Kedra Holland-Corn | 438 |
 | 133 | Jackie Young | 434 |
 | 133 | Jennifer Gillom | 434 |
 | 133 | Nicole Ohlde | 434 |

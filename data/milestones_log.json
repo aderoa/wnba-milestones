@@ -1,5 +1,30 @@
 [
   {
+    "ts": "2026-05-23T00:17:00+00:00",
+    "text": "Alysha Clark passed Kedra Holland-Corn for #132 all-time in turnovers (career 439) \u2014 (1:48 - 2nd \u2014 DAL @ ATL)",
+    "kind": "rank_pass",
+    "player": "Alysha Clark",
+    "stat": "turnovers",
+    "rank": 132,
+    "passed_players": [
+      "Kedra Holland-Corn"
+    ],
+    "new_total": 439
+  },
+  {
+    "ts": "2026-05-23T00:17:00+00:00",
+    "text": "Rhyne Howard passed Adrian Williams-Strong and Moriah Jefferson for #149 all-time in steals (career 217) \u2014 up from #155 entering today \u2014 (1:48 - 2nd \u2014 DAL @ ATL)",
+    "kind": "rank_pass",
+    "player": "Rhyne Howard",
+    "stat": "steals",
+    "rank": 149,
+    "passed_players": [
+      "Adrian Williams-Strong",
+      "Moriah Jefferson"
+    ],
+    "new_total": 217
+  },
+  {
     "ts": "2026-05-23T00:13:00+00:00",
     "text": "Gabby Williams passed Moriah Jefferson for #183 all-time in turnovers (career 315) \u2014 up from #185 entering today \u2014 (5:40 - 2nd \u2014 GS @ IND)",
     "kind": "rank_pass",
@@ -3029,26 +3054,5 @@
       "Rhonda Mapp"
     ],
     "new_total": 70
-  },
-  {
-    "ts": "2026-05-16T00:21:00+00:00",
-    "text": "Lexie Hull reached 400 career rebounds (now 400) \u2014 (33.3 - 2nd \u2014 WSH @ IND)",
-    "kind": "round",
-    "player": "Lexie Hull",
-    "stat": "rebounds",
-    "value": 400,
-    "new_total": 400
-  },
-  {
-    "ts": "2026-05-15T23:59:00+00:00",
-    "text": "Cheyenne Parker-Tyus passed Tianna Hawkins for #98 all-time in fouls (career 663) \u2014 up from #99 entering today \u2014 (8:30 - 2nd \u2014 LV @ CON)",
-    "kind": "rank_pass",
-    "player": "Cheyenne Parker-Tyus",
-    "stat": "fouls",
-    "rank": 98,
-    "passed_players": [
-      "Tianna Hawkins"
-    ],
-    "new_total": 663
   }
 ]
