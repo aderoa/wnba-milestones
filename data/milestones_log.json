@@ -1,5 +1,14 @@
 [
   {
+    "ts": "2026-05-23T17:23:00+00:00",
+    "text": "Rachel Banham reached 500 career assists (now 500) \u2014 (1:09 - 1st \u2014 MIN @ CHI)",
+    "kind": "round",
+    "player": "Rachel Banham",
+    "stat": "assists",
+    "value": 500,
+    "new_total": 500
+  },
+  {
     "ts": "2026-05-23T17:09:00+00:00",
     "text": "Nia Coffey passed Theresa Plaisance for #126 all-time in three-pointers (career 173) \u2014 (6:55 - 1st \u2014 MIN @ CHI)",
     "kind": "rank_pass",
@@ -3028,17 +3037,5 @@
       "Scholanda Dorrell"
     ],
     "new_total": 110
-  },
-  {
-    "ts": "2026-05-16T03:27:00+00:00",
-    "text": "Kelsey Plum passed Odyssey Sims for #27 all-time in assists (career 1,202) \u2014 up from #29 entering today \u2014 (3:41 - 3rd \u2014 TOR @ LA)",
-    "kind": "rank_pass",
-    "player": "Kelsey Plum",
-    "stat": "assists",
-    "rank": 27,
-    "passed_players": [
-      "Odyssey Sims"
-    ],
-    "new_total": 1202
   }
 ]
