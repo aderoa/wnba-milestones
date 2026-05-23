@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-23T01:09:00+00:00",
+    "text": "Gabby Williams passed Tamera Young for #95 all-time in steals (career 306) \u2014 up from #96 entering today \u2014 (1:39 - 3rd \u2014 GS @ IND)",
+    "kind": "rank_pass",
+    "player": "Gabby Williams",
+    "stat": "steals",
+    "rank": 95,
+    "passed_players": [
+      "Tamera Young"
+    ],
+    "new_total": 306
+  },
+  {
     "ts": "2026-05-23T01:03:00+00:00",
     "text": "Sophie Cunningham passed Kayla McBride for #156 all-time in fouls (career 516) \u2014 up from #161 entering today \u2014 (3:21 - 3rd \u2014 GS @ IND)",
     "kind": "rank_pass",
@@ -3035,17 +3047,5 @@
       "Ruthie Bolton"
     ],
     "new_total": 255
-  },
-  {
-    "ts": "2026-05-16T01:46:00+00:00",
-    "text": "Caitlin Clark passed Natasha Howard for #138 all-time in three-pointers (career 158) \u2014 up from #142 entering today \u2014 (0.0 - 4th \u2014 WSH @ IND)",
-    "kind": "rank_pass",
-    "player": "Caitlin Clark",
-    "stat": "three-pointers",
-    "rank": 138,
-    "passed_players": [
-      "Natasha Howard"
-    ],
-    "new_total": 158
   }
 ]

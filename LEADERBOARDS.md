@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-23 01:08 UTC_
+_Last updated: 2026-05-23 01:09 UTC_
 
 ## Contents
 
@@ -49,8 +49,8 @@ _Last updated: 2026-05-23 01:08 UTC_
 | 28 | Tangela Smith | 5,035 |
 | 29 | Taj McWilliams-Franklin | 4,992 |
 | 30 | Maya Moore | 4,984 |
-| 31 | **Tiffany Hayes** 🔴 +13 | 4,940 |
-| 32 | **Kelsey Mitchell** 🔴 +11 | 4,918 |
+| 31 | **Tiffany Hayes** 🔴 +15 | 4,942 |
+| 32 | **Kelsey Mitchell** 🔴 +13 | 4,920 |
 | 33 | Sheryl Swoopes | 4,875 |
 | 34 | Alana Beard | 4,740 |
 | 35 | Chamique Holdsclaw | 4,713 |
@@ -342,7 +342,7 @@ _Last updated: 2026-05-23 01:08 UTC_
 | 116 | Natasha Cloud | 1,093 |
 | 117 | NaLyssa Smith | 1,081 |
 | 118 | Svetlana Abrosimova | 1,078 |
-| 119 | **Aliyah Boston** 🔴 +8 | 1,074 |
+| 119 | **Aliyah Boston** 🔴 +9 | 1,075 |
 | 120 | Le'coe Willingham | 1,054 |
 | 121 | Isabelle Harrison | 1,049 |
 | 122 | Nicole Ohlde | 1,040 |
@@ -380,8 +380,8 @@ _Last updated: 2026-05-23 01:08 UTC_
 | 154 | Krystal Thomas | 862 |
 | 155 | Erica Wheeler | 858 |
 | 156 | **Alanna Smith** 🔴 +2 | 849 |
-| 157 | **Jessica Shepard** 🔴 +9 | 845 |
-| 157 | Leilani Mitchell | 845 |
+| 157 | **Jessica Shepard** 🔴 +10 | 846 |
+| 158 | Leilani Mitchell | 845 |
 | 159 | Essence Carson | 833 |
 | 160 | Kristi Toliver | 829 |
 | 161 | Marie Ferdinand-Harris | 828 |
@@ -394,7 +394,7 @@ _Last updated: 2026-05-23 01:08 UTC_
 | 168 | Tierra Ruffin-Pratt | 799 |
 | 169 | Charlotte Smith | 794 |
 | 170 | Betnijah Laney-Hamilton | 792 |
-| 171 | **Naz Hillmon** 🔴 +1 | 789 |
+| 171 | **Naz Hillmon** 🔴 +2 | 790 |
 | 172 | Rhonda Mapp | 788 |
 | 173 | Mercedes Russell | 786 |
 | 174 | **Odyssey Sims** 🔴 +1 | 781 |
@@ -933,8 +933,8 @@ _Last updated: 2026-05-23 01:08 UTC_
 | 90 | Debbie Black | 315 |
 | 93 | Crystal Langhorne | 314 |
 | 94 | Ebony Hoffman | 308 |
-| 95 | **Gabby Williams** 🔴 +3 | 305 |
-| 95 | Tamera Young | 305 |
+| 95 | **Gabby Williams** 🔴 +4 | 306 |
+| 96 | Tamera Young | 305 |
 | 97 | Kedra Holland-Corn | 301 |
 | 98 | Lindsey Harding | 295 |
 | 99 | Janel McCarville | 294 |
