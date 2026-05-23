@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-23 17:35 UTC
+
+- **Courtney Williams** passed **Jennifer Gillom** and **Jia Perkins** for **#122** all-time in blocks (career 104) — _7:37 - 2nd — MIN @ CHI_
+
 ## 2026-05-23 17:23 UTC
 
 - **Rachel Banham** reached **500** career assists (now 500) — _1:09 - 1st — MIN @ CHI_

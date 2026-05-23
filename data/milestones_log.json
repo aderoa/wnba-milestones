@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-05-23T17:35:00+00:00",
+    "text": "Courtney Williams passed Jennifer Gillom and Jia Perkins for #122 all-time in blocks (career 104) \u2014 (7:37 - 2nd \u2014 MIN @ CHI)",
+    "kind": "rank_pass",
+    "player": "Courtney Williams",
+    "stat": "blocks",
+    "rank": 122,
+    "passed_players": [
+      "Jennifer Gillom",
+      "Jia Perkins"
+    ],
+    "new_total": 104
+  },
+  {
     "ts": "2026-05-23T17:23:00+00:00",
     "text": "Rachel Banham reached 500 career assists (now 500) \u2014 (1:09 - 1st \u2014 MIN @ CHI)",
     "kind": "round",
@@ -3023,19 +3036,5 @@
       "Armintie Herrington"
     ],
     "new_total": 341
-  },
-  {
-    "ts": "2026-05-16T03:29:00+00:00",
-    "text": "Rickea Jackson passed Emma Meesseman, Lexie Hull, and Scholanda Dorrell for #186 all-time in three-pointers (career 110) \u2014 up from #190 entering today \u2014 (4:43 - 3rd \u2014 CHI @ PHX)",
-    "kind": "rank_pass",
-    "player": "Rickea Jackson",
-    "stat": "three-pointers",
-    "rank": 186,
-    "passed_players": [
-      "Emma Meesseman",
-      "Lexie Hull",
-      "Scholanda Dorrell"
-    ],
-    "new_total": 110
   }
 ]
