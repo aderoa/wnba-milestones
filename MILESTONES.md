@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-23 00:40 UTC
+
+- **Rhyne Howard** passed **Mwadi Mabika** and **Natalie Achonwa** for **#132** all-time in blocks (career 99) — up from #134 entering today — _9:40 - 3rd — DAL @ ATL_
+
 ## 2026-05-23 00:17 UTC
 
 - **Alysha Clark** passed **Kedra Holland-Corn** for **#132** all-time in turnovers (career 439) — _1:48 - 2nd — DAL @ ATL_
