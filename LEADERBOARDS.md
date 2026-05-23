@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-23 01:43 UTC_
+_Last updated: 2026-05-23 01:44 UTC_
 
 ## Contents
 
@@ -193,7 +193,7 @@ _Last updated: 2026-05-23 01:43 UTC_
 | 172 | Ebony Hoffman | 1,909 |
 | 173 | Candice Wiggins | 1,901 |
 | 174 | **Myisha Hines-Allen** 🔴 +2 | 1,897 |
-| 175 | **Aliyah Boston** 🔴 +17 | 1,851 |
+| 175 | **Aliyah Boston** 🔴 +19 | 1,853 |
 | 176 | Isabelle Harrison | 1,832 |
 | 177 | Damiris Dantas | 1,830 |
 | 178 | Tianna Hawkins | 1,825 |
@@ -558,7 +558,7 @@ _Last updated: 2026-05-23 01:43 UTC_
 | 126 | Coco Miller | 503 |
 | 128 | Rachel Banham | 498 |
 | 128 | Rhyne Howard | 498 |
-| 130 | **Caitlin Clark** 🔴 +8 | 496 |
+| 130 | **Caitlin Clark** 🔴 +9 | 497 |
 | 131 | Crystal Robinson | 488 |
 | 131 | Tiffany Mitchell | 488 |
 | 133 | Rebekkah Brunson | 486 |
@@ -1610,8 +1610,8 @@ _Last updated: 2026-05-23 01:43 UTC_
 | 153 | Sheryl Swoopes | 519 |
 | 154 | Nikki McCray | 517 |
 | 155 | Alex Bentley | 516 |
-| 156 | Kayla McBride | 515 |
-| 156 | **Sophie Cunningham** 🔴 +3 | 515 |
+| 155 | **Sophie Cunningham** 🔴 +4 | 516 |
+| 157 | Kayla McBride | 515 |
 | 158 | Jackie Young | 514 |
 | 159 | Jantel Lavender | 513 |
 | 160 | Adrienne Goodson | 512 |
