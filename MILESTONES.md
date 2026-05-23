@@ -2,6 +2,12 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-23 00:42 UTC
+
+- **Odyssey Sims** passed **Sue Wicks** for **#175** all-time in rebounds (career 781) — _8:48 - 3rd — DAL @ ATL_
+- **Rhyne Howard** reached **100** career blocks (now 100) — _8:48 - 3rd — DAL @ ATL_
+- **Rhyne Howard** passed **Emily Engstler** for **#131** all-time in blocks (career 100) — up from #134 entering today — _8:48 - 3rd — DAL @ ATL_
+
 ## 2026-05-23 00:41 UTC
 
 - **Gabby Williams** passed **Barbara Farris** and **Kia Nurse** for **#181** all-time in turnovers (career 316) — up from #185 entering today — _9:32 - 3rd — GS @ IND_
