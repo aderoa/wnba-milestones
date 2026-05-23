@@ -2,6 +2,11 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-23 01:40 UTC
+
+- **Kaila Charles** reached **200** career fouls (now 200) — _3:43 - 4th — GS @ IND_
+- **Aliyah Boston** passed **Svetlana Abrosimova** for **#118** all-time in rebounds (career 1,079) — up from #119 entering today — _3:43 - 4th — GS @ IND_
+
 ## 2026-05-23 01:35 UTC
 
 - **Sophie Cunningham** passed **Tan White** for **#67** all-time in three-pointers (career 312) — up from #68 entering today — _5:05 - 4th — GS @ IND_

@@ -1,5 +1,26 @@
 [
   {
+    "ts": "2026-05-23T01:40:00+00:00",
+    "text": "Kaila Charles reached 200 career fouls (now 200) \u2014 (3:43 - 4th \u2014 GS @ IND)",
+    "kind": "round",
+    "player": "Kaila Charles",
+    "stat": "fouls",
+    "value": 200,
+    "new_total": 200
+  },
+  {
+    "ts": "2026-05-23T01:40:00+00:00",
+    "text": "Aliyah Boston passed Svetlana Abrosimova for #118 all-time in rebounds (career 1,079) \u2014 up from #119 entering today \u2014 (3:43 - 4th \u2014 GS @ IND)",
+    "kind": "rank_pass",
+    "player": "Aliyah Boston",
+    "stat": "rebounds",
+    "rank": 118,
+    "passed_players": [
+      "Svetlana Abrosimova"
+    ],
+    "new_total": 1079
+  },
+  {
     "ts": "2026-05-23T01:35:00+00:00",
     "text": "Sophie Cunningham passed Tan White for #67 all-time in three-pointers (career 312) \u2014 up from #68 entering today \u2014 (5:05 - 4th \u2014 GS @ IND)",
     "kind": "rank_pass",
@@ -3022,30 +3043,5 @@
       "Renee Montgomery"
     ],
     "new_total": 357
-  },
-  {
-    "ts": "2026-05-16T02:37:00+00:00",
-    "text": "Marina Mabrey passed Candice Wiggins and Epiphanny Prince for #147 all-time in fouls (career 526) \u2014 up from #149 entering today \u2014 (6:07 - 2nd \u2014 TOR @ LA)",
-    "kind": "rank_pass",
-    "player": "Marina Mabrey",
-    "stat": "fouls",
-    "rank": 147,
-    "passed_players": [
-      "Candice Wiggins",
-      "Epiphanny Prince"
-    ],
-    "new_total": 526
-  },
-  {
-    "ts": "2026-05-16T02:35:00+00:00",
-    "text": "Erica Wheeler passed Natasha Cloud for #57 all-time in turnovers (career 666) \u2014 (6:45 - 2nd \u2014 TOR @ LA)",
-    "kind": "rank_pass",
-    "player": "Erica Wheeler",
-    "stat": "turnovers",
-    "rank": 57,
-    "passed_players": [
-      "Natasha Cloud"
-    ],
-    "new_total": 666
   }
 ]
