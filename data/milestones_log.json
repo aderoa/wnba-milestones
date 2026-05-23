@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-05-23T18:30:00+00:00",
+    "text": "Courtney Williams passed Carolyn Swords and Rebecca Lobo for #119 all-time in blocks (career 105) \u2014 up from #121 entering today \u2014 (1:35 - 3rd \u2014 MIN @ CHI)",
+    "kind": "rank_pass",
+    "player": "Courtney Williams",
+    "stat": "blocks",
+    "rank": 119,
+    "passed_players": [
+      "Carolyn Swords",
+      "Rebecca Lobo"
+    ],
+    "new_total": 105
+  },
+  {
     "ts": "2026-05-23T18:25:00+00:00",
     "text": "Skylar Diggins passed Shavonte Zellous for #137 all-time in rebounds (career 979) \u2014 up from #139 entering today \u2014 (4:27 - 3rd \u2014 MIN @ CHI)",
     "kind": "rank_pass",
@@ -3029,17 +3042,5 @@
       "Shoni Schimmel"
     ],
     "new_total": 112
-  },
-  {
-    "ts": "2026-05-16T04:03:00+00:00",
-    "text": "Marina Mabrey passed Jordin Canada for #112 all-time in turnovers (career 490) \u2014 up from #113 entering today \u2014 (1:23 - 4th \u2014 TOR @ LA)",
-    "kind": "rank_pass",
-    "player": "Marina Mabrey",
-    "stat": "turnovers",
-    "rank": 112,
-    "passed_players": [
-      "Jordin Canada"
-    ],
-    "new_total": 490
   }
 ]

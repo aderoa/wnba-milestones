@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-23 18:29 UTC_
+_Last updated: 2026-05-23 18:30 UTC_
 
 ## Contents
 
@@ -44,7 +44,7 @@ _Last updated: 2026-05-23 18:29 UTC_
 | 23 | Katie Douglas | 5,545 |
 | 24 | **Skylar Diggins** 🔴 +13 | 5,538 |
 | 25 | Lindsay Whalen | 5,511 |
-| 26 | **Kayla McBride** 🔴 +6 | 5,460 |
+| 26 | **Kayla McBride** 🔴 +5 | 5,459 |
 | 27 | Swin Cash | 5,119 |
 | 28 | Tangela Smith | 5,035 |
 | 29 | Taj McWilliams-Franklin | 4,992 |
@@ -159,7 +159,7 @@ _Last updated: 2026-05-23 18:29 UTC_
 | 138 | Kara Braxton | 2,237 |
 | 138 | Matee Ajavon | 2,237 |
 | 140 | Dawn Staley | 2,228 |
-| 141 | **Azurá Stevens** 🔴 +2 | 2,221 |
+| 141 | **Azurá Stevens** 🔴 +4 | 2,223 |
 | 142 | Janel McCarville | 2,215 |
 | 142 | Teaira McCowan | 2,215 |
 | 144 | Sami Whitcomb | 2,211 |
@@ -315,7 +315,7 @@ _Last updated: 2026-05-23 18:29 UTC_
 | 89 | Janel McCarville | 1,261 |
 | 90 | Liz Cambage | 1,258 |
 | 91 | Ezi Magbegor | 1,243 |
-| 92 | **Azurá Stevens** 🔴 | 1,237 |
+| 92 | **Azurá Stevens** 🔴 +1 | 1,238 |
 | 93 | Tiffany Hayes | 1,233 |
 | 94 | Brianna Turner | 1,229 |
 | 95 | Seimone Augustus | 1,228 |
@@ -386,7 +386,7 @@ _Last updated: 2026-05-23 18:29 UTC_
 | 160 | Kristi Toliver | 829 |
 | 161 | Marie Ferdinand-Harris | 828 |
 | 162 | Marina Mabrey | 827 |
-| 163 | **Nia Coffey** 🔴 +4 | 823 |
+| 163 | **Nia Coffey** 🔴 +5 | 824 |
 | 164 | Marlies Askamp | 822 |
 | 165 | Amanda Zahui B | 819 |
 | 165 | Barbara Farris | 819 |
@@ -654,7 +654,7 @@ _Last updated: 2026-05-23 18:29 UTC_
 | 18 | Tina Thompson | 372 |
 | 19 | Erika de Souza | 370 |
 | 20 | Jessica Breland | 367 |
-| 21 | **Natasha Howard** 🔴 +1 | 361 |
+| 21 | **Natasha Howard** 🔴 | 360 |
 | 22 | Ezi Magbegor | 354 |
 | 23 | DeWanna Bonner | 349 |
 | 23 | Diana Taurasi | 349 |
@@ -674,8 +674,8 @@ _Last updated: 2026-05-23 18:29 UTC_
 | 38 | Plenette Pierson | 242 |
 | 39 | Napheesa Collier | 239 |
 | 40 | Emma Meesseman | 238 |
+| 41 | **Azurá Stevens** 🔴 +1 | 231 |
 | 41 | Brianna Turner | 231 |
-| 42 | **Azurá Stevens** 🔴 | 230 |
 | 43 | Chasity Melvin | 228 |
 | 44 | **Skylar Diggins** 🔴 | 225 |
 | 45 | Alanna Smith | 222 |
@@ -752,9 +752,9 @@ _Last updated: 2026-05-23 18:29 UTC_
 | 114 | Natasha Mack | 108 |
 | 117 | Shakira Austin | 106 |
 | 117 | Sylvia Crawley | 106 |
-| 119 | Carolyn Swords | 104 |
-| 119 | **Courtney Williams** 🔴 +1 | 104 |
-| 119 | Rebecca Lobo | 104 |
+| 119 | **Courtney Williams** 🔴 +2 | 105 |
+| 120 | Carolyn Swords | 104 |
+| 120 | Rebecca Lobo | 104 |
 | 122 | Jennifer Gillom | 103 |
 | 122 | Jia Perkins | 103 |
 | 124 | Theresa Plaisance | 102 |
