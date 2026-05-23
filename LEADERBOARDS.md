@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-23 18:28 UTC_
+_Last updated: 2026-05-23 18:29 UTC_
 
 ## Contents
 
@@ -436,7 +436,7 @@ _Last updated: 2026-05-23 18:28 UTC_
 | 5 | Lindsay Whalen | 2,347 |
 | 6 | Chelsea Gray | 1,903 |
 | 7 | Alyssa Thomas | 1,854 |
-| 8 | **Skylar Diggins** 🔴 +3 | 1,788 |
+| 8 | **Skylar Diggins** 🔴 +4 | 1,789 |
 | 9 | **Natasha Cloud** 🔴 +1 | 1,748 |
 | 10 | Becky Hammon | 1,705 |
 | 11 | Candace Parker | 1,634 |
@@ -654,7 +654,7 @@ _Last updated: 2026-05-23 18:28 UTC_
 | 18 | Tina Thompson | 372 |
 | 19 | Erika de Souza | 370 |
 | 20 | Jessica Breland | 367 |
-| 21 | **Natasha Howard** 🔴 | 360 |
+| 21 | **Natasha Howard** 🔴 +1 | 361 |
 | 22 | Ezi Magbegor | 354 |
 | 23 | DeWanna Bonner | 349 |
 | 23 | Diana Taurasi | 349 |
@@ -940,8 +940,8 @@ _Last updated: 2026-05-23 18:28 UTC_
 | 99 | Janel McCarville | 294 |
 | 100 | Kelly Miller | 290 |
 | 101 | Glory Johnson | 289 |
-| 102 | **Elizabeth Williams** 🔴 | 285 |
-| 102 | Essence Carson | 285 |
+| 102 | **Elizabeth Williams** 🔴 +1 | 286 |
+| 103 | Essence Carson | 285 |
 | 104 | Seimone Augustus | 280 |
 | 105 | Tari Phillips | 277 |
 | 106 | Emma Meesseman | 276 |
@@ -1277,7 +1277,7 @@ _Last updated: 2026-05-23 18:28 UTC_
 | 25 | Alana Beard | 854 |
 | 26 | DeWanna Bonner | 830 |
 | 27 | Katie Douglas | 824 |
-| 28 | **Natasha Howard** 🔴 +1 | 805 |
+| 28 | **Natasha Howard** 🔴 +2 | 806 |
 | 29 | Betty Lennox | 800 |
 | 30 | Jasmine Thomas | 796 |
 | 31 | Nneka Ogwumike | 791 |
