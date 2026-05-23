@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-23 22:49 UTC_
+_Last updated: 2026-05-23 22:50 UTC_
 
 ## Contents
 
@@ -1330,7 +1330,7 @@ _Last updated: 2026-05-23 22:49 UTC_
 | 78 | Stefanie Dolson | 581 |
 | 79 | Helen Darling | 575 |
 | 79 | Nykesha Sales | 575 |
-| 81 | **Brittney Sykes** 🔴 +5 | 573 |
+| 81 | **Brittney Sykes** 🔴 +6 | 574 |
 | 82 | Andrea Stinson | 571 |
 | 83 | Kara Braxton | 570 |
 | 84 | Nikki McCray | 565 |
@@ -1549,8 +1549,8 @@ _Last updated: 2026-05-23 22:49 UTC_
 | 92 | Crystal Robinson | 682 |
 | 93 | Jennifer Lacy | 680 |
 | 93 | Temeka Johnson | 680 |
-| 95 | **Brittney Sykes** 🔴 +1 | 676 |
-| 95 | Kelly Miller | 676 |
+| 95 | **Brittney Sykes** 🔴 +2 | 677 |
+| 96 | Kelly Miller | 676 |
 | 97 | Kelsey Plum | 672 |
 | 98 | Chamique Holdsclaw | 667 |
 | 99 | Cheyenne Parker-Tyus | 666 |
