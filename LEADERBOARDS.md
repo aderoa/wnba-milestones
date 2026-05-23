@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-23 22:31 UTC_
+_Last updated: 2026-05-23 22:32 UTC_
 
 ## Contents
 
@@ -385,7 +385,7 @@ _Last updated: 2026-05-23 22:31 UTC_
 | 159 | Essence Carson | 833 |
 | 160 | Kristi Toliver | 829 |
 | 161 | Marie Ferdinand-Harris | 828 |
-| 162 | **Marina Mabrey** 🔴 | 827 |
+| 161 | **Marina Mabrey** 🔴 +1 | 828 |
 | 163 | Nia Coffey | 826 |
 | 164 | Marlies Askamp | 822 |
 | 165 | Amanda Zahui B | 819 |
@@ -501,7 +501,7 @@ _Last updated: 2026-05-23 22:31 UTC_
 | 70 | Tina Thompson | 803 |
 | 71 | Epiphanny Prince | 800 |
 | 72 | Mwadi Mabika | 774 |
-| 73 | **Marina Mabrey** 🔴 +1 | 746 |
+| 73 | **Marina Mabrey** 🔴 +4 | 749 |
 | 74 | Sheri Sam | 745 |
 | 75 | Monique Currie | 740 |
 | 76 | Allisha Gray | 734 |
@@ -1125,7 +1125,7 @@ _Last updated: 2026-05-23 22:31 UTC_
 | 78 | Monique Currie | 284 |
 | 79 | Kayla Thornton | 276 |
 | 80 | Iziane Castro Marques | 275 |
-| 81 | **Bridget Carleton** 🔴 | 272 |
+| 81 | **Bridget Carleton** 🔴 +1 | 273 |
 | 82 | Sheryl Swoopes | 270 |
 | 83 | Stefanie Dolson | 269 |
 | 84 | Courtney Williams | 260 |
