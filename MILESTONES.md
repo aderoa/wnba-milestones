@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-23 00:13 UTC
+
+- **Gabby Williams** passed **Moriah Jefferson** for **#183** all-time in turnovers (career 315) — up from #185 entering today — _5:40 - 2nd — GS @ IND_
+
 ## 2026-05-23 00:12 UTC
 
 - **Monique Billings** passed **Andrea Stinson** for **#162** all-time in fouls (career 512) — up from #163 entering today — _6:22 - 2nd — GS @ IND_

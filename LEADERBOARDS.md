@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-23 00:12 UTC_
+_Last updated: 2026-05-23 00:13 UTC_
 
 ## Contents
 
@@ -50,7 +50,7 @@ _Last updated: 2026-05-23 00:12 UTC_
 | 29 | Taj McWilliams-Franklin | 4,992 |
 | 30 | Maya Moore | 4,984 |
 | 31 | **Tiffany Hayes** 🔴 +10 | 4,937 |
-| 32 | **Kelsey Mitchell** 🔴 +8 | 4,915 |
+| 32 | **Kelsey Mitchell** 🔴 +10 | 4,917 |
 | 33 | Sheryl Swoopes | 4,875 |
 | 34 | Alana Beard | 4,740 |
 | 35 | Chamique Holdsclaw | 4,713 |
@@ -152,7 +152,7 @@ _Last updated: 2026-05-23 00:12 UTC_
 | 131 | Alex Bentley | 2,350 |
 | 132 | Merlakia Jones | 2,308 |
 | 133 | Kia Vaughn | 2,288 |
-| 134 | **Kayla Thornton** 🔴 +6 | 2,273 |
+| 134 | **Kayla Thornton** 🔴 +7 | 2,274 |
 | 135 | Betnijah Laney-Hamilton | 2,261 |
 | 136 | Allison Feaster | 2,258 |
 | 137 | Shekinna Stricklen | 2,245 |
@@ -1018,9 +1018,9 @@ _Last updated: 2026-05-23 00:12 UTC_
 | 177 | Michele Timms | 187 |
 | 177 | Natisha Hiedeman | 187 |
 | 179 | **Alanna Smith** 🔴 | 186 |
-| 180 | Charde Houston | 185 |
-| 180 | **Myisha Hines-Allen** 🔴 | 185 |
-| 180 | Tiffany Jackson | 185 |
+| 179 | **Myisha Hines-Allen** 🔴 +1 | 186 |
+| 181 | Charde Houston | 185 |
+| 181 | Tiffany Jackson | 185 |
 | 183 | Erin Perperoglou | 184 |
 | 184 | Erin Phillips | 182 |
 | 184 | Rebecca Allen | 182 |
@@ -1431,9 +1431,9 @@ _Last updated: 2026-05-23 00:12 UTC_
 | 179 | Olympia Scott | 324 |
 | 180 | Satou Sabally | 323 |
 | 181 | Barbara Farris | 315 |
+| 181 | **Gabby Williams** 🔴 +2 | 315 |
 | 181 | Kia Nurse | 315 |
-| 183 | **Gabby Williams** 🔴 +1 | 314 |
-| 183 | Moriah Jefferson | 314 |
+| 184 | Moriah Jefferson | 314 |
 | 185 | Alex Bentley | 313 |
 | 186 | Tamika Raymond | 311 |
 | 187 | **Caitlin Clark** 🔴 +1 | 310 |
@@ -1566,8 +1566,8 @@ _Last updated: 2026-05-23 00:12 UTC_
 | 109 | Jennifer Gillom | 629 |
 | 110 | Deanna Nolan | 628 |
 | 111 | Brionna Jones | 625 |
-| 112 | **Kiah Stokes** 🔴 +1 | 618 |
-| 112 | Teaira McCowan | 618 |
+| 112 | **Kiah Stokes** 🔴 +2 | 619 |
+| 113 | Teaira McCowan | 618 |
 | 114 | Courtney Paris | 617 |
 | 115 | Coco Miller | 615 |
 | 116 | Brooke Wyckoff | 614 |
