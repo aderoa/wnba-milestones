@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-23 18:52 UTC_
+_Last updated: 2026-05-23 18:53 UTC_
 
 ## Contents
 
@@ -44,7 +44,7 @@ _Last updated: 2026-05-23 18:52 UTC_
 | 23 | Katie Douglas | 5,545 |
 | 24 | **Skylar Diggins** 🔴 +13 | 5,538 |
 | 25 | Lindsay Whalen | 5,511 |
-| 26 | **Kayla McBride** 🔴 +8 | 5,462 |
+| 26 | **Kayla McBride** 🔴 +11 | 5,465 |
 | 27 | Swin Cash | 5,119 |
 | 28 | Tangela Smith | 5,035 |
 | 29 | Taj McWilliams-Franklin | 4,992 |
@@ -322,7 +322,7 @@ _Last updated: 2026-05-23 18:52 UTC_
 | 96 | Myisha Hines-Allen | 1,224 |
 | 97 | Jia Perkins | 1,220 |
 | 98 | Chelsea Gray | 1,210 |
-| 99 | **Kayla McBride** 🔴 +4 | 1,205 |
+| 99 | **Kayla McBride** 🔴 +5 | 1,206 |
 | 100 | DeMya Walker | 1,199 |
 | 101 | Latasha Byears | 1,190 |
 | 101 | Tanisha Wright | 1,190 |
@@ -533,7 +533,7 @@ _Last updated: 2026-05-23 18:52 UTC_
 | 102 | Sancho Lyttle | 592 |
 | 103 | Camille Smith | 590 |
 | 104 | Armintie Herrington | 589 |
-| 105 | **Natasha Howard** 🔴 +3 | 580 |
+| 105 | **Natasha Howard** 🔴 +4 | 581 |
 | 106 | Betnijah Laney-Hamilton | 578 |
 | 106 | Tan White | 578 |
 | 108 | Matee Ajavon | 577 |
@@ -1050,7 +1050,7 @@ _Last updated: 2026-05-23 18:52 UTC_
 | 3 | Katie Smith | 906 |
 | 4 | Becky Hammon | 825 |
 | 5 | Tina Thompson | 745 |
-| 6 | **Kayla McBride** 🔴 +1 | 729 |
+| 6 | **Kayla McBride** 🔴 +2 | 730 |
 | 7 | Katie Douglas | 723 |
 | 8 | Kelsey Mitchell | 679 |
 | 9 | Jewell Loyd | 673 |
