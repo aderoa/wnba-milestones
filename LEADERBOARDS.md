@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-23 01:25 UTC_
+_Last updated: 2026-05-23 01:26 UTC_
 
 ## Contents
 
@@ -165,7 +165,7 @@ _Last updated: 2026-05-23 01:25 UTC_
 | 144 | Sami Whitcomb | 2,211 |
 | 145 | Sophia Witherspoon | 2,210 |
 | 146 | Kia Nurse | 2,204 |
-| 147 | **Jordin Canada** 🔴 +7 | 2,181 |
+| 147 | **Jordin Canada** 🔴 +9 | 2,183 |
 | 148 | Ruthie Bolton | 2,175 |
 | 149 | Ann Wauters | 2,170 |
 | 150 | Layshia Clarendon | 2,168 |
@@ -380,7 +380,7 @@ _Last updated: 2026-05-23 01:25 UTC_
 | 154 | Krystal Thomas | 862 |
 | 155 | Erica Wheeler | 858 |
 | 156 | **Alanna Smith** 🔴 +2 | 849 |
-| 157 | **Jessica Shepard** 🔴 +10 | 846 |
+| 157 | **Jessica Shepard** 🔴 +11 | 847 |
 | 158 | Leilani Mitchell | 845 |
 | 159 | Essence Carson | 833 |
 | 160 | Kristi Toliver | 829 |
@@ -1584,8 +1584,8 @@ _Last updated: 2026-05-23 01:25 UTC_
 | 127 | Chiney Ogwumike | 580 |
 | 127 | Hamchetou Maiga-Ba | 580 |
 | 127 | Olympia Scott | 580 |
-| 130 | **Arike Ogunbowale** 🔴 +1 | 576 |
-| 130 | Ezi Magbegor | 576 |
+| 130 | **Arike Ogunbowale** 🔴 +2 | 577 |
+| 131 | Ezi Magbegor | 576 |
 | 132 | Le'coe Willingham | 571 |
 | 133 | Ashley Robinson | 567 |
 | 134 | Ivory Latta | 565 |
@@ -1620,9 +1620,9 @@ _Last updated: 2026-05-23 01:25 UTC_
 | 163 | Andrea Stinson | 511 |
 | 164 | Vicky Bullett | 507 |
 | 165 | Merlakia Jones | 506 |
-| 166 | **Myisha Hines-Allen** 🔴 +1 | 505 |
-| 166 | Rushia Brown | 505 |
-| 166 | Shekinna Stricklen | 505 |
+| 165 | **Myisha Hines-Allen** 🔴 +2 | 506 |
+| 167 | Rushia Brown | 505 |
+| 167 | Shekinna Stricklen | 505 |
 | 169 | Allison Feaster | 504 |
 | 169 | Erin Perperoglou | 504 |
 | 169 | Napheesa Collier | 504 |
