@@ -89,7 +89,7 @@ _Last updated: 2026-05-23 23:47 UTC_
 | 68 | Napheesa Collier | 3,542 |
 | 68 | Shannon Johnson | 3,542 |
 | 70 | Renee Montgomery | 3,533 |
-| 71 | **Brittney Sykes** 🔴 +8 | 3,530 |
+| 71 | **Brittney Sykes** 🔴 +9 | 3,531 |
 | 72 | Jasmine Thomas | 3,522 |
 | 73 | Tamecka Dixon | 3,507 |
 | 74 | Tammy Sutton-Brown | 3,498 |
