@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-23 00:43 UTC_
+_Last updated: 2026-05-23 00:44 UTC_
 
 ## Contents
 
@@ -84,7 +84,7 @@ _Last updated: 2026-05-23 00:43 UTC_
 | 63 | Chasity Melvin | 3,781 |
 | 64 | Kara Lawson | 3,670 |
 | 65 | Mwadi Mabika | 3,576 |
-| 66 | **Odyssey Sims** 🔴 +5 | 3,557 |
+| 66 | **Odyssey Sims** 🔴 +8 | 3,560 |
 | 67 | Camille Smith | 3,551 |
 | 68 | Napheesa Collier | 3,542 |
 | 68 | Shannon Johnson | 3,542 |
@@ -342,7 +342,7 @@ _Last updated: 2026-05-23 00:43 UTC_
 | 116 | Natasha Cloud | 1,093 |
 | 117 | NaLyssa Smith | 1,081 |
 | 118 | Svetlana Abrosimova | 1,078 |
-| 119 | **Aliyah Boston** 🔴 +6 | 1,072 |
+| 119 | **Aliyah Boston** 🔴 +7 | 1,073 |
 | 120 | Le'coe Willingham | 1,054 |
 | 121 | Isabelle Harrison | 1,049 |
 | 122 | Nicole Ohlde | 1,040 |
@@ -379,7 +379,7 @@ _Last updated: 2026-05-23 00:43 UTC_
 | 153 | **Angel Reese** 🔴 +5 | 866 |
 | 154 | Krystal Thomas | 862 |
 | 155 | Erica Wheeler | 858 |
-| 156 | **Alanna Smith** 🔴 +1 | 848 |
+| 156 | **Alanna Smith** 🔴 +2 | 849 |
 | 157 | Leilani Mitchell | 845 |
 | 158 | **Jessica Shepard** 🔴 +8 | 844 |
 | 159 | Essence Carson | 833 |
@@ -455,11 +455,11 @@ _Last updated: 2026-05-23 00:43 UTC_
 | 24 | Erica Wheeler | 1,275 |
 | 25 | Katie Smith | 1,258 |
 | 26 | Kelsey Plum | 1,215 |
-| 27 | **Odyssey Sims** 🔴 +2 | 1,212 |
+| 27 | **Odyssey Sims** 🔴 +3 | 1,213 |
 | 28 | Vickie Johnson | 1,202 |
 | 29 | Leilani Mitchell | 1,197 |
 | 30 | DeWanna Bonner | 1,183 |
-| 31 | **Jordin Canada** 🔴 +3 | 1,158 |
+| 31 | **Jordin Canada** 🔴 +4 | 1,159 |
 | 32 | Jewell Loyd | 1,141 |
 | 33 | Renee Montgomery | 1,140 |
 | 34 | Swin Cash | 1,131 |
@@ -558,7 +558,7 @@ _Last updated: 2026-05-23 00:43 UTC_
 | 127 | **Veronica Burton** 🔴 +1 | 502 |
 | 128 | Rachel Banham | 498 |
 | 129 | **Rhyne Howard** 🔴 +5 | 495 |
-| 130 | **Caitlin Clark** 🔴 +5 | 493 |
+| 130 | **Caitlin Clark** 🔴 +6 | 494 |
 | 131 | Crystal Robinson | 488 |
 | 131 | Tiffany Mitchell | 488 |
 | 133 | Rebekkah Brunson | 486 |
@@ -1142,7 +1142,7 @@ _Last updated: 2026-05-23 00:43 UTC_
 | 95 | Brittney Sykes | 236 |
 | 96 | Svetlana Abrosimova | 235 |
 | 96 | Tangela Smith | 235 |
-| 98 | **Odyssey Sims** 🔴 | 233 |
+| 98 | **Odyssey Sims** 🔴 +1 | 234 |
 | 99 | Stacey Dales | 232 |
 | 100 | Elena Baranova | 224 |
 | 101 | Essence Carson | 223 |
@@ -1230,7 +1230,7 @@ _Last updated: 2026-05-23 00:43 UTC_
 | 183 | Gordana Grubin | 114 |
 | 183 | Rickea Jackson | 114 |
 | 183 | Sandy Brondello | 114 |
-| 186 | **Lexie Hull** 🔴 +1 | 112 |
+| 186 | **Lexie Hull** 🔴 +2 | 113 |
 | 187 | Shoni Schimmel | 111 |
 | 188 | Kennedy Burke | 110 |
 | 189 | Emma Meesseman | 109 |
