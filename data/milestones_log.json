@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-23T17:55:00+00:00",
+    "text": "Skylar Diggins passed Kara Lawson for #138 all-time in rebounds (career 977) \u2014 up from #139 entering today \u2014 (31.4 - 2nd \u2014 MIN @ CHI)",
+    "kind": "rank_pass",
+    "player": "Skylar Diggins",
+    "stat": "rebounds",
+    "rank": 138,
+    "passed_players": [
+      "Kara Lawson"
+    ],
+    "new_total": 977
+  },
+  {
     "ts": "2026-05-23T17:53:00+00:00",
     "text": "Courtney Williams passed Jessica Breland for #136 all-time in fouls (career 563) \u2014 up from #137 entering today \u2014 (2:02 - 2nd \u2014 MIN @ CHI)",
     "kind": "rank_pass",
@@ -3029,17 +3041,5 @@
       "Allie Quigley"
     ],
     "new_total": 691
-  },
-  {
-    "ts": "2026-05-16T03:51:00+00:00",
-    "text": "Natasha Mack passed Theresa Plaisance for #122 all-time in blocks (career 103) \u2014 up from #129 entering today \u2014 (7:54 - 4th \u2014 CHI @ PHX)",
-    "kind": "rank_pass",
-    "player": "Natasha Mack",
-    "stat": "blocks",
-    "rank": 122,
-    "passed_players": [
-      "Theresa Plaisance"
-    ],
-    "new_total": 103
   }
 ]

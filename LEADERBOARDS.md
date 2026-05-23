@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-23 17:54 UTC_
+_Last updated: 2026-05-23 17:55 UTC_
 
 ## Contents
 
@@ -60,7 +60,7 @@ _Last updated: 2026-05-23 17:54 UTC_
 | 39 | Arike Ogunbowale | 4,512 |
 | 40 | Kristi Toliver | 4,474 |
 | 41 | Chelsea Gray | 4,469 |
-| 42 | **Natasha Howard** 🔴 +18 | 4,448 |
+| 42 | **Natasha Howard** 🔴 +22 | 4,452 |
 | 43 | Crystal Langhorne | 4,433 |
 | 43 | Jia Perkins | 4,433 |
 | 45 | Courtney Vandersloot | 4,352 |
@@ -250,7 +250,7 @@ _Last updated: 2026-05-23 17:54 UTC_
 | 24 | Dearica Hamby | 2,346 |
 | 25 | Tangela Smith | 2,328 |
 | 26 | Erika de Souza | 2,220 |
-| 27 | **Natasha Howard** 🔴 +8 | 2,212 |
+| 27 | **Natasha Howard** 🔴 +9 | 2,213 |
 | 28 | Diana Taurasi | 2,201 |
 | 29 | Margo Dydek | 2,138 |
 | 30 | Chamique Holdsclaw | 2,123 |
@@ -361,8 +361,8 @@ _Last updated: 2026-05-23 17:54 UTC_
 | 134 | Sabrina Ionescu | 993 |
 | 136 | Danielle Robinson | 988 |
 | 137 | Shavonte Zellous | 978 |
-| 138 | Kara Lawson | 976 |
-| 138 | **Skylar Diggins** 🔴 +3 | 976 |
+| 138 | **Skylar Diggins** 🔴 +4 | 977 |
+| 139 | Kara Lawson | 976 |
 | 140 | Jennifer Gillom | 964 |
 | 141 | Dominique Canty | 961 |
 | 142 | Armintie Herrington | 960 |
@@ -474,7 +474,7 @@ _Last updated: 2026-05-23 17:54 UTC_
 | 43 | Tina Charles | 1,033 |
 | 44 | Nikki Teasley | 982 |
 | 45 | Tamecka Dixon | 960 |
-| 46 | **Kayla McBride** 🔴 +2 | 954 |
+| 46 | **Kayla McBride** 🔴 +3 | 955 |
 | 47 | Kara Lawson | 946 |
 | 48 | Breanna Stewart | 938 |
 | 49 | Deanna Nolan | 930 |
@@ -880,7 +880,7 @@ _Last updated: 2026-05-23 17:54 UTC_
 | 39 | Candice Dupree | 431 |
 | 40 | Epiphanny Prince | 429 |
 | 41 | Tanisha Wright | 427 |
-| 42 | **Kayla McBride** 🔴 | 425 |
+| 42 | **Kayla McBride** 🔴 +1 | 426 |
 | 43 | Breanna Stewart | 415 |
 | 44 | Katie Smith | 408 |
 | 45 | Cappie Pondexter | 405 |
@@ -1272,7 +1272,7 @@ _Last updated: 2026-05-23 17:54 UTC_
 | 20 | Shannon Johnson | 934 |
 | 21 | Taj McWilliams-Franklin | 898 |
 | 22 | Chelsea Gray | 888 |
-| 23 | **Skylar Diggins** 🔴 +1 | 882 |
+| 23 | **Skylar Diggins** 🔴 +2 | 883 |
 | 24 | Candice Dupree | 869 |
 | 25 | Alana Beard | 854 |
 | 26 | DeWanna Bonner | 830 |
