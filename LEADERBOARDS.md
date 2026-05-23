@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-22 23:59 UTC_
+_Last updated: 2026-05-23 00:00 UTC_
 
 ## Contents
 
@@ -49,7 +49,7 @@ _Last updated: 2026-05-22 23:59 UTC_
 | 28 | Tangela Smith | 5,035 |
 | 29 | Taj McWilliams-Franklin | 4,992 |
 | 30 | Maya Moore | 4,984 |
-| 31 | **Tiffany Hayes** 🔴 +7 | 4,934 |
+| 31 | **Tiffany Hayes** 🔴 +10 | 4,937 |
 | 32 | **Kelsey Mitchell** 🔴 +6 | 4,913 |
 | 33 | Sheryl Swoopes | 4,875 |
 | 34 | Alana Beard | 4,740 |
@@ -316,7 +316,7 @@ _Last updated: 2026-05-22 23:59 UTC_
 | 90 | Liz Cambage | 1,258 |
 | 91 | Ezi Magbegor | 1,243 |
 | 92 | Azurá Stevens | 1,237 |
-| 93 | **Tiffany Hayes** 🔴 | 1,233 |
+| 93 | **Tiffany Hayes** 🔴 +1 | 1,234 |
 | 94 | Brianna Turner | 1,229 |
 | 95 | Seimone Augustus | 1,228 |
 | 96 | **Myisha Hines-Allen** 🔴 | 1,224 |
@@ -660,7 +660,7 @@ _Last updated: 2026-05-22 23:59 UTC_
 | 23 | Diana Taurasi | 349 |
 | 23 | Elena Delle Donne | 349 |
 | 26 | DeLisha Milton-Jones | 339 |
-| 27 | **Kiah Stokes** 🔴 | 324 |
+| 27 | **Kiah Stokes** 🔴 +1 | 325 |
 | 28 | Yolanda Griffith | 323 |
 | 29 | Elena Baranova | 320 |
 | 30 | Candice Dupree | 316 |
@@ -1072,7 +1072,7 @@ _Last updated: 2026-05-22 23:59 UTC_
 | 25 | Sabrina Ionescu | 460 |
 | 26 | Breanna Stewart | 456 |
 | 27 | Marina Mabrey | 448 |
-| 28 | **Tiffany Hayes** 🔴 | 447 |
+| 27 | **Tiffany Hayes** 🔴 +1 | 448 |
 | 29 | Ariel Atkins | 440 |
 | 30 | Lauren Jackson | 436 |
 | 31 | Shameka Christon | 434 |
