@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-23 18:55 UTC
+
+- **Natasha Howard** passed **Tanisha Wright** and **Michelle Snow** for **#18** all-time in fouls (career 1,110) — up from #20 entering today — _4:54 - 4th — MIN @ CHI_
+
 ## 2026-05-23 18:46 UTC
 
 - **Rachel Banham** passed **Veronica Burton** for **#127** all-time in assists (career 502) — up from #128 entering today — _7:37 - 4th — MIN @ CHI_

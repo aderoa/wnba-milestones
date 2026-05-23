@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-05-23T18:55:00+00:00",
+    "text": "Natasha Howard passed Tanisha Wright and Michelle Snow for #18 all-time in fouls (career 1,110) \u2014 up from #20 entering today \u2014 (4:54 - 4th \u2014 MIN @ CHI)",
+    "kind": "rank_pass",
+    "player": "Natasha Howard",
+    "stat": "fouls",
+    "rank": 18,
+    "passed_players": [
+      "Tanisha Wright",
+      "Michelle Snow"
+    ],
+    "new_total": 1110
+  },
+  {
     "ts": "2026-05-23T18:46:00+00:00",
     "text": "Rachel Banham passed Veronica Burton for #127 all-time in assists (career 502) \u2014 up from #128 entering today \u2014 (7:37 - 4th \u2014 MIN @ CHI)",
     "kind": "rank_pass",
@@ -3029,17 +3042,5 @@
       "Tiffany Mitchell"
     ],
     "new_total": 210
-  },
-  {
-    "ts": "2026-05-16T04:18:00+00:00",
-    "text": "Kahleah Copper passed Shannon Johnson for #105 all-time in rebounds (career 1,144) \u2014 up from #106 entering today \u2014 (52.3 - 4th \u2014 CHI @ PHX)",
-    "kind": "rank_pass",
-    "player": "Kahleah Copper",
-    "stat": "rebounds",
-    "rank": 105,
-    "passed_players": [
-      "Shannon Johnson"
-    ],
-    "new_total": 1144
   }
 ]
