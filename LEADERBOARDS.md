@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-23 22:39 UTC_
+_Last updated: 2026-05-23 22:40 UTC_
 
 ## Contents
 
@@ -89,8 +89,8 @@ _Last updated: 2026-05-23 22:39 UTC_
 | 68 | Napheesa Collier | 3,542 |
 | 68 | Shannon Johnson | 3,542 |
 | 70 | Renee Montgomery | 3,533 |
-| 71 | **Brittney Sykes** 🔴 | 3,522 |
-| 71 | Jasmine Thomas | 3,522 |
+| 71 | **Brittney Sykes** 🔴 +2 | 3,524 |
+| 72 | Jasmine Thomas | 3,522 |
 | 73 | Tamecka Dixon | 3,507 |
 | 74 | Tammy Sutton-Brown | 3,498 |
 | 75 | Sancho Lyttle | 3,478 |
@@ -116,7 +116,7 @@ _Last updated: 2026-05-23 22:39 UTC_
 | 95 | Sabrina Ionescu | 3,030 |
 | 96 | Marie Ferdinand-Harris | 3,001 |
 | 97 | Emma Meesseman | 2,966 |
-| 98 | **Marina Mabrey** 🔴 +13 | 2,954 |
+| 98 | **Marina Mabrey** 🔴 +15 | 2,956 |
 | 99 | Natalie Williams | 2,894 |
 | 99 | Natasha Cloud | 2,894 |
 | 101 | Jennifer Gillom | 2,888 |
@@ -383,8 +383,8 @@ _Last updated: 2026-05-23 22:39 UTC_
 | 157 | Leilani Mitchell | 845 |
 | 158 | Jessica Shepard | 836 |
 | 159 | Essence Carson | 833 |
-| 160 | Kristi Toliver | 829 |
-| 160 | **Marina Mabrey** 🔴 +2 | 829 |
+| 160 | **Marina Mabrey** 🔴 +3 | 830 |
+| 161 | Kristi Toliver | 829 |
 | 162 | Marie Ferdinand-Harris | 828 |
 | 163 | Nia Coffey | 826 |
 | 164 | Marlies Askamp | 822 |
@@ -501,7 +501,7 @@ _Last updated: 2026-05-23 22:39 UTC_
 | 70 | Tina Thompson | 803 |
 | 71 | Epiphanny Prince | 800 |
 | 72 | Mwadi Mabika | 774 |
-| 73 | **Marina Mabrey** 🔴 +5 | 750 |
+| 73 | **Marina Mabrey** 🔴 +6 | 751 |
 | 74 | Sheri Sam | 745 |
 | 75 | Monique Currie | 740 |
 | 76 | Allisha Gray | 734 |
