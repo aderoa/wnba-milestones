@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-23 22:39 UTC
+
+- **Brittney Sykes** passed **Andrea Stinson** for **#81** all-time in turnovers (career 572) — up from #83 entering today — _4:12 - 2nd — POR @ TOR_
+
 ## 2026-05-23 22:24 UTC
 
 - **Emily Engstler** passed **Deanna Nolan** and **Dearica Hamby** for **#125** all-time in blocks (career 102) — up from #131 entering today — _End of 1st — POR @ TOR_

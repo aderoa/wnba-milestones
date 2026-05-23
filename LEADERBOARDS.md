@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-23 22:38 UTC_
+_Last updated: 2026-05-23 22:39 UTC_
 
 ## Contents
 
@@ -116,7 +116,7 @@ _Last updated: 2026-05-23 22:38 UTC_
 | 95 | Sabrina Ionescu | 3,030 |
 | 96 | Marie Ferdinand-Harris | 3,001 |
 | 97 | Emma Meesseman | 2,966 |
-| 98 | **Marina Mabrey** 🔴 +11 | 2,952 |
+| 98 | **Marina Mabrey** 🔴 +13 | 2,954 |
 | 99 | Natalie Williams | 2,894 |
 | 99 | Natasha Cloud | 2,894 |
 | 101 | Jennifer Gillom | 2,888 |
@@ -384,8 +384,8 @@ _Last updated: 2026-05-23 22:38 UTC_
 | 158 | Jessica Shepard | 836 |
 | 159 | Essence Carson | 833 |
 | 160 | Kristi Toliver | 829 |
-| 161 | Marie Ferdinand-Harris | 828 |
-| 161 | **Marina Mabrey** 🔴 +1 | 828 |
+| 160 | **Marina Mabrey** 🔴 +2 | 829 |
+| 162 | Marie Ferdinand-Harris | 828 |
 | 163 | Nia Coffey | 826 |
 | 164 | Marlies Askamp | 822 |
 | 165 | Amanda Zahui B | 819 |
@@ -1330,8 +1330,8 @@ _Last updated: 2026-05-23 22:38 UTC_
 | 78 | Stefanie Dolson | 581 |
 | 79 | Helen Darling | 575 |
 | 79 | Nykesha Sales | 575 |
-| 81 | Andrea Stinson | 571 |
-| 81 | **Brittney Sykes** 🔴 +3 | 571 |
+| 81 | **Brittney Sykes** 🔴 +4 | 572 |
+| 82 | Andrea Stinson | 571 |
 | 83 | Kara Braxton | 570 |
 | 84 | Nikki McCray | 565 |
 | 85 | Sancho Lyttle | 563 |

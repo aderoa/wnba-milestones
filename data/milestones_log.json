@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-23T22:39:00+00:00",
+    "text": "Brittney Sykes passed Andrea Stinson for #81 all-time in turnovers (career 572) \u2014 up from #83 entering today \u2014 (4:12 - 2nd \u2014 POR @ TOR)",
+    "kind": "rank_pass",
+    "player": "Brittney Sykes",
+    "stat": "turnovers",
+    "rank": 81,
+    "passed_players": [
+      "Andrea Stinson"
+    ],
+    "new_total": 572
+  },
+  {
     "ts": "2026-05-23T22:24:00+00:00",
     "text": "Emily Engstler passed Deanna Nolan and Dearica Hamby for #125 all-time in blocks (career 102) \u2014 up from #131 entering today \u2014 (End of 1st \u2014 POR @ TOR)",
     "kind": "rank_pass",
@@ -3034,17 +3046,5 @@
     "stat": "turnovers",
     "value": 200,
     "new_total": 200
-  },
-  {
-    "ts": "2026-05-17T19:02:00+00:00",
-    "text": "Allisha Gray passed Helen Darling for #79 all-time in fouls (career 710) \u2014 up from #81 entering today \u2014 (5:34 - 3rd \u2014 LV @ ATL)",
-    "kind": "rank_pass",
-    "player": "Allisha Gray",
-    "stat": "fouls",
-    "rank": 79,
-    "passed_players": [
-      "Helen Darling"
-    ],
-    "new_total": 710
   }
 ]
