@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-23 01:41 UTC_
+_Last updated: 2026-05-23 01:42 UTC_
 
 ## Contents
 
@@ -49,7 +49,7 @@ _Last updated: 2026-05-23 01:41 UTC_
 | 28 | Tangela Smith | 5,035 |
 | 29 | Taj McWilliams-Franklin | 4,992 |
 | 30 | Maya Moore | 4,984 |
-| 31 | **Tiffany Hayes** 🔴 +17 | 4,944 |
+| 31 | **Tiffany Hayes** 🔴 +19 | 4,946 |
 | 32 | **Kelsey Mitchell** 🔴 +15 | 4,922 |
 | 33 | Sheryl Swoopes | 4,875 |
 | 34 | Alana Beard | 4,740 |
@@ -309,7 +309,7 @@ _Last updated: 2026-05-23 01:41 UTC_
 | 83 | Erlana Larkins | 1,329 |
 | 84 | Mwadi Mabika | 1,327 |
 | 85 | Jayne Appel Marinelli | 1,326 |
-| 86 | **Kayla Thornton** 🔴 | 1,325 |
+| 85 | **Kayla Thornton** 🔴 +1 | 1,326 |
 | 87 | Betty Lennox | 1,296 |
 | 88 | Tari Phillips | 1,274 |
 | 89 | Janel McCarville | 1,261 |
@@ -341,8 +341,8 @@ _Last updated: 2026-05-23 01:41 UTC_
 | 115 | Ann Wauters | 1,105 |
 | 116 | Natasha Cloud | 1,093 |
 | 117 | NaLyssa Smith | 1,081 |
-| 118 | **Aliyah Boston** 🔴 +12 | 1,078 |
-| 118 | Svetlana Abrosimova | 1,078 |
+| 118 | **Aliyah Boston** 🔴 +13 | 1,079 |
+| 119 | Svetlana Abrosimova | 1,078 |
 | 120 | Le'coe Willingham | 1,054 |
 | 121 | Isabelle Harrison | 1,049 |
 | 122 | Nicole Ohlde | 1,040 |
