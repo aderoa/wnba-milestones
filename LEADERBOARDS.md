@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-23 22:07 UTC_
+_Last updated: 2026-05-23 22:08 UTC_
 
 ## Contents
 
@@ -1599,9 +1599,9 @@ _Last updated: 2026-05-23 22:07 UTC_
 | 142 | Jayne Appel Marinelli | 543 |
 | 142 | Renee Montgomery | 543 |
 | 144 | Marissa Coleman | 541 |
-| 145 | A'ja Wilson | 533 |
-| 145 | Kristen Rasmussen | 533 |
-| 145 | **Marina Mabrey** 🔴 | 533 |
+| 145 | **Marina Mabrey** 🔴 +1 | 534 |
+| 146 | A'ja Wilson | 533 |
+| 146 | Kristen Rasmussen | 533 |
 | 148 | Amanda Zahui B | 530 |
 | 149 | Damiris Dantas | 527 |
 | 150 | Candice Wiggins | 525 |
