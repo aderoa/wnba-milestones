@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-23 00:20 UTC_
+_Last updated: 2026-05-23 00:21 UTC_
 
 ## Contents
 
@@ -1435,8 +1435,8 @@ _Last updated: 2026-05-23 00:20 UTC_
 | 181 | Kia Nurse | 315 |
 | 184 | Moriah Jefferson | 314 |
 | 185 | Alex Bentley | 313 |
+| 186 | **Caitlin Clark** 🔴 +2 | 311 |
 | 186 | Tamika Raymond | 311 |
-| 187 | **Caitlin Clark** 🔴 +1 | 310 |
 | 188 | Erin Perperoglou | 305 |
 | 188 | Jennifer Lacy | 305 |
 | 188 | **Monique Billings** 🔴 +1 | 305 |
