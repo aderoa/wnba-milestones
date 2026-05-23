@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-23 00:22 UTC_
+_Last updated: 2026-05-23 00:23 UTC_
 
 ## Contents
 
@@ -479,8 +479,8 @@ _Last updated: 2026-05-23 00:22 UTC_
 | 48 | Breanna Stewart | 938 |
 | 49 | Deanna Nolan | 930 |
 | 50 | Kelly Miller | 927 |
-| 51 | DeLisha Milton-Jones | 921 |
-| 51 | **Tiffany Hayes** 🔴 | 921 |
+| 51 | **Tiffany Hayes** 🔴 +1 | 922 |
+| 52 | DeLisha Milton-Jones | 921 |
 | 53 | Angel McCoughtry | 915 |
 | 54 | Layshia Clarendon | 911 |
 | 54 | Seimone Augustus | 911 |
@@ -602,7 +602,7 @@ _Last updated: 2026-05-23 00:22 UTC_
 | 171 | Shameka Christon | 389 |
 | 171 | Tamicha Jackson | 389 |
 | 173 | Riquna Williams | 387 |
-| 174 | **Aliyah Boston** 🔴 +1 | 385 |
+| 174 | **Aliyah Boston** 🔴 +2 | 386 |
 | 175 | Dana Evans | 379 |
 | 175 | Stephanie Talbot | 379 |
 | 177 | Jessica Breland | 377 |
@@ -1230,8 +1230,8 @@ _Last updated: 2026-05-23 00:22 UTC_
 | 183 | Gordana Grubin | 114 |
 | 183 | Rickea Jackson | 114 |
 | 183 | Sandy Brondello | 114 |
-| 186 | **Lexie Hull** 🔴 | 111 |
-| 186 | Shoni Schimmel | 111 |
+| 186 | **Lexie Hull** 🔴 +1 | 112 |
+| 187 | Shoni Schimmel | 111 |
 | 188 | Kennedy Burke | 110 |
 | 189 | Emma Meesseman | 109 |
 | 189 | Scholanda Dorrell | 109 |
