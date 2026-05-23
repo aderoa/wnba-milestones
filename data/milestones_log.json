@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-23T03:15:00+00:00",
+    "text": "Stefanie Dolson passed Allie Quigley for #81 all-time in assists (career 691) \u2014 up from #82 entering today \u2014 (8:44 - 3rd \u2014 CON @ SEA)",
+    "kind": "rank_pass",
+    "player": "Stefanie Dolson",
+    "stat": "assists",
+    "rank": 81,
+    "passed_players": [
+      "Allie Quigley"
+    ],
+    "new_total": 691
+  },
+  {
     "ts": "2026-05-23T01:51:00+00:00",
     "text": "Kiah Stokes passed Courtney Williams for #41 all-time in rebounds (career 1,767) \u2014 up from #42 entering today \u2014 (58.4 - 4th \u2014 GS @ IND)",
     "kind": "rank_pass",
@@ -3028,17 +3040,5 @@
       "Leilani Mitchell"
     ],
     "new_total": 1198
-  },
-  {
-    "ts": "2026-05-16T03:15:00+00:00",
-    "text": "Brittney Sykes passed Vickie Johnson for #62 all-time in steals (career 358) \u2014 up from #66 entering today \u2014 (8:04 - 3rd \u2014 TOR @ LA)",
-    "kind": "rank_pass",
-    "player": "Brittney Sykes",
-    "stat": "steals",
-    "rank": 62,
-    "passed_players": [
-      "Vickie Johnson"
-    ],
-    "new_total": 358
   }
 ]
