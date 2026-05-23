@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-23 17:43 UTC_
+_Last updated: 2026-05-23 17:44 UTC_
 
 ## Contents
 
@@ -42,7 +42,7 @@ _Last updated: 2026-05-23 17:43 UTC_
 | 21 | Angel McCoughtry | 5,797 |
 | 22 | DeLisha Milton-Jones | 5,571 |
 | 23 | Katie Douglas | 5,545 |
-| 24 | **Skylar Diggins** 🔴 +3 | 5,528 |
+| 24 | **Skylar Diggins** 🔴 +4 | 5,529 |
 | 25 | Lindsay Whalen | 5,511 |
 | 26 | **Kayla McBride** 🔴 +5 | 5,459 |
 | 27 | Swin Cash | 5,119 |
@@ -60,7 +60,7 @@ _Last updated: 2026-05-23 17:43 UTC_
 | 39 | Arike Ogunbowale | 4,512 |
 | 40 | Kristi Toliver | 4,474 |
 | 41 | Chelsea Gray | 4,469 |
-| 42 | **Natasha Howard** 🔴 +13 | 4,443 |
+| 42 | **Natasha Howard** 🔴 +15 | 4,445 |
 | 43 | Crystal Langhorne | 4,433 |
 | 43 | Jia Perkins | 4,433 |
 | 45 | Courtney Vandersloot | 4,352 |
@@ -75,7 +75,7 @@ _Last updated: 2026-05-23 17:43 UTC_
 | 54 | Kahleah Copper | 4,154 |
 | 55 | Rebekkah Brunson | 4,133 |
 | 56 | Jonquel Jones | 4,132 |
-| 57 | **Courtney Williams** 🔴 +4 | 4,128 |
+| 57 | **Courtney Williams** 🔴 +6 | 4,130 |
 | 58 | Asjha Jones | 3,986 |
 | 59 | Deanna Nolan | 3,971 |
 | 60 | Nykesha Sales | 3,931 |
@@ -250,7 +250,7 @@ _Last updated: 2026-05-23 17:43 UTC_
 | 24 | Dearica Hamby | 2,346 |
 | 25 | Tangela Smith | 2,328 |
 | 26 | Erika de Souza | 2,220 |
-| 27 | **Natasha Howard** 🔴 +5 | 2,209 |
+| 27 | **Natasha Howard** 🔴 +7 | 2,211 |
 | 28 | Diana Taurasi | 2,201 |
 | 29 | Margo Dydek | 2,138 |
 | 30 | Chamique Holdsclaw | 2,123 |
@@ -534,9 +534,9 @@ _Last updated: 2026-05-23 17:43 UTC_
 | 103 | Camille Smith | 590 |
 | 104 | Armintie Herrington | 589 |
 | 105 | Betnijah Laney-Hamilton | 578 |
+| 105 | **Natasha Howard** 🔴 +1 | 578 |
 | 105 | Tan White | 578 |
-| 107 | Matee Ajavon | 577 |
-| 107 | **Natasha Howard** 🔴 | 577 |
+| 108 | Matee Ajavon | 577 |
 | 109 | Napheesa Collier | 570 |
 | 110 | Nicole Powell | 567 |
 | 111 | Loree Moore | 562 |
@@ -1645,9 +1645,9 @@ _Last updated: 2026-05-23 17:43 UTC_
 | 188 | Allie Quigley | 475 |
 | 189 | **Nia Coffey** 🔴 +3 | 468 |
 | 190 | Kia Nurse | 467 |
-| 191 | **Azurá Stevens** 🔴 | 463 |
-| 191 | Christi Thomas | 463 |
-| 191 | Nikki Teasley | 463 |
+| 191 | **Azurá Stevens** 🔴 +1 | 464 |
+| 192 | Christi Thomas | 463 |
+| 192 | Nikki Teasley | 463 |
 | 194 | Sue Wicks | 462 |
 | 195 | Natalie Achonwa | 459 |
 | 196 | Kara Lawson | 457 |

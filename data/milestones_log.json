@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-05-23T17:44:00+00:00",
+    "text": "Azur\u00e1 Stevens passed Christi Thomas and Nikki Teasley for #192 all-time in fouls (career 464) \u2014 (4:31 - 2nd \u2014 MIN @ CHI)",
+    "kind": "rank_pass",
+    "player": "Azur\u00e1 Stevens",
+    "stat": "fouls",
+    "rank": 192,
+    "passed_players": [
+      "Christi Thomas",
+      "Nikki Teasley"
+    ],
+    "new_total": 464
+  },
+  {
     "ts": "2026-05-23T17:39:00+00:00",
     "text": "Courtney Williams passed Alysha Clark and Debbie Black for #90 all-time in steals (career 316) \u2014 up from #91 entering today \u2014 (5:19 - 2nd \u2014 MIN @ CHI)",
     "kind": "rank_pass",
@@ -3028,14 +3041,5 @@
       "Stacey Dales"
     ],
     "new_total": 233
-  },
-  {
-    "ts": "2026-05-16T03:38:00+00:00",
-    "text": "Kia Nurse reached 600 career rebounds (now 600) \u2014 (End of 3rd \u2014 TOR @ LA)",
-    "kind": "round",
-    "player": "Kia Nurse",
-    "stat": "rebounds",
-    "value": 600,
-    "new_total": 600
   }
 ]
