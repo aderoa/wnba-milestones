@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-23 01:50 UTC_
+_Last updated: 2026-05-23 01:51 UTC_
 
 ## Contents
 
@@ -193,7 +193,7 @@ _Last updated: 2026-05-23 01:50 UTC_
 | 172 | Ebony Hoffman | 1,909 |
 | 173 | Candice Wiggins | 1,901 |
 | 174 | **Myisha Hines-Allen** 🔴 +2 | 1,897 |
-| 175 | **Aliyah Boston** 🔴 +19 | 1,853 |
+| 175 | **Aliyah Boston** 🔴 +20 | 1,854 |
 | 176 | Isabelle Harrison | 1,832 |
 | 177 | Damiris Dantas | 1,830 |
 | 178 | Tianna Hawkins | 1,825 |
@@ -264,8 +264,8 @@ _Last updated: 2026-05-23 01:50 UTC_
 | 38 | Sophia Young-Malcolm | 1,807 |
 | 39 | Lindsay Whalen | 1,805 |
 | 40 | Camille Smith | 1,802 |
-| 41 | Courtney Williams | 1,766 |
-| 42 | **Kiah Stokes** 🔴 +5 | 1,765 |
+| 41 | **Kiah Stokes** 🔴 +7 | 1,767 |
+| 42 | Courtney Williams | 1,766 |
 | 43 | Asjha Jones | 1,751 |
 | 44 | Teaira McCowan | 1,670 |
 | 45 | Stefanie Dolson | 1,667 |
@@ -340,8 +340,8 @@ _Last updated: 2026-05-23 01:50 UTC_
 | 114 | Becky Hammon | 1,108 |
 | 115 | Ann Wauters | 1,105 |
 | 116 | Natasha Cloud | 1,093 |
-| 117 | NaLyssa Smith | 1,081 |
-| 118 | **Aliyah Boston** 🔴 +14 | 1,080 |
+| 117 | **Aliyah Boston** 🔴 +16 | 1,082 |
+| 118 | NaLyssa Smith | 1,081 |
 | 119 | Svetlana Abrosimova | 1,078 |
 | 120 | Le'coe Willingham | 1,054 |
 | 121 | Isabelle Harrison | 1,049 |
@@ -1432,9 +1432,9 @@ _Last updated: 2026-05-23 01:50 UTC_
 | 180 | Satou Sabally | 323 |
 | 181 | **Gabby Williams** 🔴 +3 | 316 |
 | 182 | Barbara Farris | 315 |
+| 182 | **Caitlin Clark** 🔴 +6 | 315 |
 | 182 | Kia Nurse | 315 |
-| 184 | **Caitlin Clark** 🔴 +5 | 314 |
-| 184 | Moriah Jefferson | 314 |
+| 185 | Moriah Jefferson | 314 |
 | 186 | Alex Bentley | 313 |
 | 187 | Tamika Raymond | 311 |
 | 188 | Erin Perperoglou | 305 |

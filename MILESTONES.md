@@ -2,6 +2,12 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-23 01:51 UTC
+
+- **Kiah Stokes** passed **Courtney Williams** for **#41** all-time in rebounds (career 1,767) — up from #42 entering today — _58.4 - 4th — GS @ IND_
+- **Aliyah Boston** passed **NaLyssa Smith** for **#117** all-time in rebounds (career 1,082) — up from #119 entering today — _58.4 - 4th — GS @ IND_
+- **Caitlin Clark** passed **Moriah Jefferson** for **#183** all-time in turnovers (career 315) — up from #187 entering today — _58.4 - 4th — GS @ IND_
+
 ## 2026-05-23 01:40 UTC
 
 - **Kaila Charles** reached **200** career fouls (now 200) — _3:43 - 4th — GS @ IND_
