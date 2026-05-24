@@ -68,7 +68,7 @@ _Last updated: 2026-05-24 20:33 UTC_
 | 47 | Sophia Young-Malcolm | 4,300 |
 | 48 | Plenette Pierson | 4,258 |
 | 49 | Monique Currie | 4,253 |
-| 50 | **Allisha Gray** 🔴 +10 | 4,242 |
+| 50 | **Allisha Gray** 🔴 +12 | 4,244 |
 | 51 | Vickie Johnson | 4,230 |
 | 52 | Yolanda Griffith | 4,224 |
 | 53 | **Kahleah Copper** 🔴 +12 | 4,166 |
@@ -231,7 +231,7 @@ _Last updated: 2026-05-24 20:33 UTC_
 | 5 | Tamika Catchings | 3,313 |
 | 6 | Lisa Leslie | 3,303 |
 | 7 | Nneka Ogwumike | 3,295 |
-| 8 | **DeWanna Bonner** 🔴 +2 | 3,234 |
+| 8 | **DeWanna Bonner** 🔴 +3 | 3,235 |
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
@@ -1326,7 +1326,7 @@ _Last updated: 2026-05-24 20:33 UTC_
 | 74 | Lindsey Harding | 600 |
 | 74 | Tamika Whitmore | 600 |
 | 76 | Kelly Miller | 596 |
-| 77 | **Kahleah Copper** 🔴 +2 | 592 |
+| 77 | **Kahleah Copper** 🔴 +3 | 593 |
 | 78 | Stefanie Dolson | 581 |
 | 79 | Helen Darling | 575 |
 | 79 | Nykesha Sales | 575 |
@@ -1529,7 +1529,7 @@ _Last updated: 2026-05-24 20:33 UTC_
 | 72 | Becky Hammon | 733 |
 | 73 | Natasha Cloud | 731 |
 | 74 | Latasha Byears | 730 |
-| 75 | **Kahleah Copper** 🔴 +1 | 724 |
+| 75 | **Kahleah Copper** 🔴 +2 | 725 |
 | 76 | Kristi Toliver | 722 |
 | 77 | **Allisha Gray** 🔴 +1 | 715 |
 | 78 | Cheryl Ford | 713 |
