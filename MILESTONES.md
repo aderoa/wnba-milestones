@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-24 21:37 UTC
+
+- **Awak Kuier** passed **Cameron Brink**, **Jackie Young**, **Satou Sabally**, and **Shannon Johnson** for **#192** all-time in blocks (career 68) — up from #196 entering today — _1:51 - 4th — DAL @ NY_
+
 ## 2026-05-24 21:08 UTC
 
 - **Arike Ogunbowale** passed **Ashley Robinson** for **#189** all-time in rebounds (career 735) — up from #190 entering today — _End of 3rd — DAL @ NY_
