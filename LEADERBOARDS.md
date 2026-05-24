@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-24 01:01 UTC_
+_Last updated: 2026-05-24 01:02 UTC_
 
 ## Contents
 
@@ -895,8 +895,8 @@ _Last updated: 2026-05-24 01:01 UTC_
 | 54 | Monique Currie | 378 |
 | 54 | Tiffany Hayes | 378 |
 | 56 | Chamique Holdsclaw | 376 |
-| 57 | **Ariel Atkins** 🔴 +1 | 370 |
-| 57 | Mwadi Mabika | 370 |
+| 57 | **Ariel Atkins** 🔴 +2 | 371 |
+| 58 | Mwadi Mabika | 370 |
 | 59 | Jordin Canada | 369 |
 | 60 | Brittney Sykes | 363 |
 | 61 | Lauren Jackson | 360 |
