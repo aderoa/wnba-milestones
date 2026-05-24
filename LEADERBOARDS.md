@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-24 00:30 UTC_
+_Last updated: 2026-05-24 00:31 UTC_
 
 ## Contents
 
@@ -1303,8 +1303,8 @@ _Last updated: 2026-05-24 00:30 UTC_
 | 51 | Danielle Robinson | 680 |
 | 52 | Sheryl Swoopes | 677 |
 | 53 | Natasha Cloud | 676 |
-| 54 | **Erica Wheeler** 🔴 +1 | 672 |
-| 54 | Tammy Sutton-Brown | 672 |
+| 54 | **Erica Wheeler** 🔴 +2 | 673 |
+| 55 | Tammy Sutton-Brown | 672 |
 | 56 | Deanna Nolan | 669 |
 | 56 | **Dearica Hamby** 🔴 +2 | 669 |
 | 58 | Chasity Melvin | 666 |
