@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-24 00:22 UTC_
+_Last updated: 2026-05-24 00:23 UTC_
 
 ## Contents
 
@@ -908,14 +908,14 @@ _Last updated: 2026-05-24 00:22 UTC_
 | 67 | Vicky Bullett | 353 |
 | 68 | Svetlana Abrosimova | 352 |
 | 69 | Allisha Gray | 351 |
-| 70 | **Erica Wheeler** 🔴 +1 | 350 |
+| 69 | **Erica Wheeler** 🔴 +2 | 351 |
 | 71 | Janeth Arcain | 346 |
 | 72 | Helen Darling | 343 |
 | 72 | Natasha Cloud | 343 |
 | 74 | Andrea Stinson | 342 |
+| 75 | **A'ja Wilson** 🔴 +1 | 340 |
 | 75 | Arike Ogunbowale | 340 |
 | 75 | Armintie Herrington | 340 |
-| 77 | **A'ja Wilson** 🔴 | 339 |
 | 78 | Dawn Staley | 338 |
 | 79 | Marie Ferdinand-Harris | 331 |
 | 80 | Chasity Melvin | 330 |
@@ -1303,10 +1303,10 @@ _Last updated: 2026-05-24 00:22 UTC_
 | 51 | Danielle Robinson | 680 |
 | 52 | Sheryl Swoopes | 677 |
 | 53 | Natasha Cloud | 676 |
+| 54 | **Erica Wheeler** 🔴 +1 | 672 |
 | 54 | Tammy Sutton-Brown | 672 |
-| 55 | **Erica Wheeler** 🔴 | 671 |
 | 56 | Deanna Nolan | 669 |
-| 57 | **Dearica Hamby** 🔴 +1 | 668 |
+| 56 | **Dearica Hamby** 🔴 +2 | 669 |
 | 58 | Chasity Melvin | 666 |
 | 59 | Vickie Johnson | 660 |
 | 60 | Yolanda Griffith | 653 |
@@ -1382,7 +1382,7 @@ _Last updated: 2026-05-24 00:22 UTC_
 | 129 | Tiffany Mitchell | 439 |
 | 131 | Alysha Clark | 438 |
 | 131 | Kedra Holland-Corn | 438 |
-| 133 | **Jackie Young** 🔴 +1 | 435 |
+| 133 | **Jackie Young** 🔴 +2 | 436 |
 | 134 | Jennifer Gillom | 434 |
 | 134 | Nicole Ohlde | 434 |
 | 136 | Murriel Page | 432 |
