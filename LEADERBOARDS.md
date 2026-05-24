@@ -73,7 +73,7 @@ _Last updated: 2026-05-24 21:02 UTC_
 | 52 | Yolanda Griffith | 4,224 |
 | 53 | **Kahleah Copper** 🔴 +15 | 4,169 |
 | 54 | Dearica Hamby | 4,158 |
-| 55 | **Jonquel Jones** 🔴 +3 | 4,135 |
+| 55 | **Jonquel Jones** 🔴 +4 | 4,136 |
 | 56 | Rebekkah Brunson | 4,133 |
 | 57 | Courtney Williams | 4,124 |
 | 58 | Asjha Jones | 3,986 |
@@ -165,7 +165,7 @@ _Last updated: 2026-05-24 21:02 UTC_
 | 144 | Sami Whitcomb | 2,211 |
 | 145 | Sophia Witherspoon | 2,210 |
 | 146 | Kia Nurse | 2,204 |
-| 147 | **Jordin Canada** 🔴 +8 | 2,182 |
+| 147 | **Jordin Canada** 🔴 +10 | 2,184 |
 | 148 | **Satou Sabally** 🔴 +15 | 2,176 |
 | 149 | Ruthie Bolton | 2,175 |
 | 150 | Ann Wauters | 2,170 |
@@ -242,7 +242,7 @@ _Last updated: 2026-05-24 21:02 UTC_
 | 16 | Brittney Griner | 2,537 |
 | 17 | A'ja Wilson | 2,522 |
 | 18 | Swin Cash | 2,521 |
-| 19 | **Breanna Stewart** 🔴 +5 | 2,515 |
+| 19 | **Breanna Stewart** 🔴 +7 | 2,517 |
 | 20 | Michelle Snow | 2,476 |
 | 21 | Crystal Langhorne | 2,454 |
 | 22 | Lauren Jackson | 2,444 |
@@ -455,7 +455,7 @@ _Last updated: 2026-05-24 21:02 UTC_
 | 24 | Erica Wheeler | 1,275 |
 | 25 | Katie Smith | 1,258 |
 | 26 | Kelsey Plum | 1,215 |
-| 27 | **Odyssey Sims** 🔴 +1 | 1,211 |
+| 27 | **Odyssey Sims** 🔴 +2 | 1,212 |
 | 28 | Vickie Johnson | 1,202 |
 | 29 | Leilani Mitchell | 1,197 |
 | 30 | **DeWanna Bonner** 🔴 +1 | 1,184 |
@@ -1335,8 +1335,8 @@ _Last updated: 2026-05-24 21:02 UTC_
 | 83 | Brittney Sykes | 568 |
 | 84 | Nikki McCray | 565 |
 | 85 | Sancho Lyttle | 563 |
-| 86 | **Breanna Stewart** 🔴 | 557 |
-| 86 | Tan White | 557 |
+| 86 | **Breanna Stewart** 🔴 +1 | 558 |
+| 87 | Tan White | 557 |
 | 88 | Kelsey Mitchell | 556 |
 | 89 | Lauren Jackson | 549 |
 | 90 | Matee Ajavon | 544 |
