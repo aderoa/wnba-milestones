@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-24T19:58:00+00:00",
+    "text": "Sabrina Ionescu passed Katie Douglas for #36 all-time in assists (career 1,070) \u2014 up from #37 entering today \u2014 (2:04 - 1st \u2014 DAL @ NY)",
+    "kind": "rank_pass",
+    "player": "Sabrina Ionescu",
+    "stat": "assists",
+    "rank": 36,
+    "passed_players": [
+      "Katie Douglas"
+    ],
+    "new_total": 1070
+  },
+  {
     "ts": "2026-05-24T19:56:00+00:00",
     "text": "Sabrina Ionescu passed Marissa Coleman for #133 all-time in rebounds (career 996) \u2014 up from #135 entering today \u2014 (3:41 - 1st \u2014 DAL @ NY)",
     "kind": "rank_pass",
@@ -3036,14 +3048,5 @@
       "Nicole Powell"
     ],
     "new_total": 568
-  },
-  {
-    "ts": "2026-05-18T00:34:00+00:00",
-    "text": "Kia Nurse reached 2,200 career points (now 2,200) \u2014 (3:59 - 3rd \u2014 TOR @ LA)",
-    "kind": "round",
-    "player": "Kia Nurse",
-    "stat": "points",
-    "value": 2200,
-    "new_total": 2200
   }
 ]

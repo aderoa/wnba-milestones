@@ -32,7 +32,7 @@ _Last updated: 2026-05-24 19:58 UTC_
 | 11 | Katie Smith | 6,450 |
 | 12 | Sylvia Fowles | 6,413 |
 | 13 | Lisa Leslie | 6,251 |
-| 14 | **Breanna Stewart** 🔴 | 6,077 |
+| 14 | **Breanna Stewart** 🔴 +2 | 6,079 |
 | 15 | Jewell Loyd | 6,059 |
 | 16 | Lauren Jackson | 6,005 |
 | 16 | Seimone Augustus | 6,005 |
@@ -464,8 +464,8 @@ _Last updated: 2026-05-24 19:58 UTC_
 | 33 | Renee Montgomery | 1,140 |
 | 34 | Swin Cash | 1,131 |
 | 35 | Lindsey Harding | 1,090 |
-| 36 | Katie Douglas | 1,069 |
-| 36 | **Sabrina Ionescu** 🔴 +2 | 1,069 |
+| 36 | **Sabrina Ionescu** 🔴 +3 | 1,070 |
+| 37 | Katie Douglas | 1,069 |
 | 38 | Alana Beard | 1,061 |
 | 39 | Jackie Young | 1,060 |
 | 40 | Penny Taylor | 1,049 |
@@ -829,7 +829,7 @@ _Last updated: 2026-05-24 19:58 UTC_
 | 192 | Jackie Young | 67 |
 | 192 | **Satou Sabally** 🔴 | 67 |
 | 192 | Shannon Johnson | 67 |
-| 196 | Awak Kuier | 66 |
+| 196 | **Awak Kuier** 🔴 | 66 |
 | 197 | Crystal Robinson | 65 |
 | 197 | Queen Egbo | 65 |
 | 197 | Riquna Williams | 65 |

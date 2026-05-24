@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-24 19:58 UTC
+
+- **Sabrina Ionescu** passed **Katie Douglas** for **#36** all-time in assists (career 1,070) — up from #37 entering today — _2:04 - 1st — DAL @ NY_
+
 ## 2026-05-24 19:56 UTC
 
 - **Sabrina Ionescu** passed **Marissa Coleman** for **#133** all-time in rebounds (career 996) — up from #135 entering today — _3:41 - 1st — DAL @ NY_
