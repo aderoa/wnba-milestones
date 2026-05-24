@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-24 01:25 UTC_
+_Last updated: 2026-05-24 01:26 UTC_
 
 ## Contents
 
@@ -71,7 +71,7 @@ _Last updated: 2026-05-24 01:25 UTC_
 | 50 | Allisha Gray | 4,232 |
 | 51 | Vickie Johnson | 4,230 |
 | 52 | Yolanda Griffith | 4,224 |
-| 53 | **Dearica Hamby** 🔴 +7 | 4,165 |
+| 53 | **Dearica Hamby** 🔴 +9 | 4,167 |
 | 54 | Kahleah Copper | 4,154 |
 | 55 | Courtney Williams | 4,141 |
 | 56 | Rebekkah Brunson | 4,133 |
@@ -454,7 +454,7 @@ _Last updated: 2026-05-24 01:25 UTC_
 | 23 | Kristi Toliver | 1,301 |
 | 24 | **Erica Wheeler** 🔴 +4 | 1,279 |
 | 25 | Katie Smith | 1,258 |
-| 26 | **Kelsey Plum** 🔴 +3 | 1,218 |
+| 26 | **Kelsey Plum** 🔴 +4 | 1,219 |
 | 27 | Odyssey Sims | 1,210 |
 | 28 | Vickie Johnson | 1,202 |
 | 29 | Leilani Mitchell | 1,197 |
@@ -1282,7 +1282,7 @@ _Last updated: 2026-05-24 01:25 UTC_
 | 30 | Jasmine Thomas | 796 |
 | 31 | Nneka Ogwumike | 791 |
 | 32 | Chamique Holdsclaw | 789 |
-| 33 | **Jewell Loyd** 🔴 | 785 |
+| 33 | **Jewell Loyd** 🔴 +1 | 786 |
 | 34 | Crystal Langhorne | 782 |
 | 35 | Camille Smith | 779 |
 | 36 | Plenette Pierson | 773 |
@@ -1555,7 +1555,7 @@ _Last updated: 2026-05-24 01:25 UTC_
 | 98 | Chamique Holdsclaw | 667 |
 | 99 | **Cheyenne Parker-Tyus** 🔴 | 666 |
 | 100 | Tianna Hawkins | 662 |
-| 101 | **Jewell Loyd** 🔴 +1 | 658 |
+| 101 | **Jewell Loyd** 🔴 +2 | 659 |
 | 102 | Breanna Stewart | 656 |
 | 103 | Tari Phillips | 648 |
 | 104 | Marie Ferdinand-Harris | 646 |
