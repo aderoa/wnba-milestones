@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-24 20:28 UTC_
+_Last updated: 2026-05-24 20:29 UTC_
 
 ## Contents
 
@@ -167,8 +167,8 @@ _Last updated: 2026-05-24 20:28 UTC_
 | 146 | Kia Nurse | 2,204 |
 | 147 | **Jordin Canada** 🔴 +8 | 2,182 |
 | 148 | Ruthie Bolton | 2,175 |
-| 149 | Ann Wauters | 2,170 |
-| 149 | **Satou Sabally** 🔴 +9 | 2,170 |
+| 149 | **Satou Sabally** 🔴 +10 | 2,171 |
+| 150 | Ann Wauters | 2,170 |
 | 151 | Layshia Clarendon | 2,168 |
 | 152 | Murriel Page | 2,146 |
 | 153 | Marissa Coleman | 2,140 |
@@ -412,8 +412,8 @@ _Last updated: 2026-05-24 20:28 UTC_
 | 186 | Brooke Wyckoff | 751 |
 | 187 | Coco Miller | 750 |
 | 188 | Alex Montgomery | 735 |
+| 189 | **Arike Ogunbowale** 🔴 +3 | 734 |
 | 189 | Ashley Robinson | 734 |
-| 190 | **Arike Ogunbowale** 🔴 +2 | 733 |
 | 191 | Shenise Johnson | 729 |
 | 192 | Sami Whitcomb | 726 |
 | 192 | Shekinna Stricklen | 726 |
@@ -486,7 +486,7 @@ _Last updated: 2026-05-24 20:28 UTC_
 | 54 | Seimone Augustus | 911 |
 | 56 | Nneka Ogwumike | 904 |
 | 57 | Candice Dupree | 902 |
-| 58 | **Arike Ogunbowale** 🔴 +1 | 897 |
+| 58 | **Arike Ogunbowale** 🔴 +2 | 898 |
 | 59 | Maya Moore | 896 |
 | 60 | Ivory Latta | 885 |
 | 61 | Helen Darling | 882 |

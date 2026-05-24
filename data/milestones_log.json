@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-24T20:29:00+00:00",
+    "text": "Satou Sabally passed Ann Wauters for #149 all-time in points (career 2,171) \u2014 up from #151 entering today \u2014 (11.2 - 2nd \u2014 DAL @ NY)",
+    "kind": "rank_pass",
+    "player": "Satou Sabally",
+    "stat": "points",
+    "rank": 149,
+    "passed_players": [
+      "Ann Wauters"
+    ],
+    "new_total": 2171
+  },
+  {
     "ts": "2026-05-24T20:14:00+00:00",
     "text": "Sabrina Ionescu passed Shameka Christon for #94 all-time in points (career 3,041) \u2014 up from #95 entering today \u2014 (4:32 - 2nd \u2014 DAL @ NY)",
     "kind": "rank_pass",
@@ -3036,17 +3048,5 @@
       "Shannon Johnson"
     ],
     "new_total": 69
-  },
-  {
-    "ts": "2026-05-18T01:14:00+00:00",
-    "text": "Kelsey Plum passed Tianna Hawkins for #98 all-time in fouls (career 663) \u2014 up from #100 entering today \u2014 (1:15 - 4th \u2014 TOR @ LA)",
-    "kind": "rank_pass",
-    "player": "Kelsey Plum",
-    "stat": "fouls",
-    "rank": 98,
-    "passed_players": [
-      "Tianna Hawkins"
-    ],
-    "new_total": 663
   }
 ]
