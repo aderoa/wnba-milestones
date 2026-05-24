@@ -1,5 +1,14 @@
 [
   {
+    "ts": "2026-05-24T20:52:00+00:00",
+    "text": "Jordin Canada reached 600 career rebounds (now 600) \u2014 (2:59 - 4th \u2014 PHX @ ATL)",
+    "kind": "round",
+    "player": "Jordin Canada",
+    "stat": "rebounds",
+    "value": 600,
+    "new_total": 600
+  },
+  {
     "ts": "2026-05-24T20:29:00+00:00",
     "text": "Satou Sabally passed Ann Wauters for #149 all-time in points (career 2,171) \u2014 up from #151 entering today \u2014 (11.2 - 2nd \u2014 DAL @ NY)",
     "kind": "rank_pass",
@@ -3034,19 +3043,5 @@
       "Brittney Sykes"
     ],
     "new_total": 677
-  },
-  {
-    "ts": "2026-05-18T14:28:00+00:00",
-    "text": "Cameron Brink passed Jackie Young, Satou Sabally, and Shannon Johnson for #193 all-time in blocks (career 69) \u2014 (Final \u2014 TOR @ LA)",
-    "kind": "rank_pass",
-    "player": "Cameron Brink",
-    "stat": "blocks",
-    "rank": 193,
-    "passed_players": [
-      "Jackie Young",
-      "Satou Sabally",
-      "Shannon Johnson"
-    ],
-    "new_total": 69
   }
 ]

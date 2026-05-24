@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-24 20:52 UTC
+
+- **Jordin Canada** reached **600** career rebounds (now 600) — _2:59 - 4th — PHX @ ATL_
+
 ## 2026-05-24 20:29 UTC
 
 - **Satou Sabally** passed **Ann Wauters** for **#149** all-time in points (career 2,171) — up from #151 entering today — _11.2 - 2nd — DAL @ NY_

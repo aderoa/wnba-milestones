@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-24 20:51 UTC_
+_Last updated: 2026-05-24 20:52 UTC_
 
 ## Contents
 
@@ -68,10 +68,10 @@ _Last updated: 2026-05-24 20:51 UTC_
 | 47 | Sophia Young-Malcolm | 4,300 |
 | 48 | Plenette Pierson | 4,258 |
 | 49 | Monique Currie | 4,253 |
-| 50 | **Allisha Gray** 🔴 +12 | 4,244 |
+| 50 | **Allisha Gray** 🔴 +14 | 4,246 |
 | 51 | Vickie Johnson | 4,230 |
 | 52 | Yolanda Griffith | 4,224 |
-| 53 | **Kahleah Copper** 🔴 +12 | 4,166 |
+| 53 | **Kahleah Copper** 🔴 +13 | 4,167 |
 | 54 | Dearica Hamby | 4,158 |
 | 55 | **Jonquel Jones** 🔴 +2 | 4,134 |
 | 56 | Rebekkah Brunson | 4,133 |
@@ -459,7 +459,7 @@ _Last updated: 2026-05-24 20:51 UTC_
 | 28 | Vickie Johnson | 1,202 |
 | 29 | Leilani Mitchell | 1,197 |
 | 30 | **DeWanna Bonner** 🔴 | 1,183 |
-| 31 | **Jordin Canada** 🔴 +10 | 1,165 |
+| 31 | **Jordin Canada** 🔴 +11 | 1,166 |
 | 32 | Jewell Loyd | 1,141 |
 | 33 | Renee Montgomery | 1,140 |
 | 34 | Swin Cash | 1,131 |
@@ -895,7 +895,7 @@ _Last updated: 2026-05-24 20:51 UTC_
 | 54 | Monique Currie | 378 |
 | 54 | Tiffany Hayes | 378 |
 | 56 | Chamique Holdsclaw | 376 |
-| 57 | **Jordin Canada** 🔴 +4 | 373 |
+| 57 | **Jordin Canada** 🔴 +3 | 372 |
 | 58 | Mwadi Mabika | 370 |
 | 59 | Ariel Atkins | 369 |
 | 60 | Brittney Sykes | 362 |
