@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-24T01:23:00+00:00",
+    "text": "Jackie Young passed Nikki McCray for #154 all-time in fouls (career 518) \u2014 up from #157 entering today \u2014 (7:30 - 3rd \u2014 LA @ LV)",
+    "kind": "rank_pass",
+    "player": "Jackie Young",
+    "stat": "fouls",
+    "rank": 154,
+    "passed_players": [
+      "Nikki McCray"
+    ],
+    "new_total": 518
+  },
+  {
     "ts": "2026-05-24T01:00:00+00:00",
     "text": "Dearica Hamby passed Deanna Nolan for #56 all-time in turnovers (career 670) \u2014 up from #57 entering today \u2014 (1:15 - 2nd \u2014 LA @ LV)",
     "kind": "rank_pass",
@@ -3030,17 +3042,5 @@
       "Jantel Lavender"
     ],
     "new_total": 445
-  },
-  {
-    "ts": "2026-05-17T19:53:00+00:00",
-    "text": "Jordin Canada passed Ariel Atkins for #58 all-time in steals (career 366) \u2014 up from #61 entering today \u2014 (36.5 - 4th \u2014 LV @ ATL)",
-    "kind": "rank_pass",
-    "player": "Jordin Canada",
-    "stat": "steals",
-    "rank": 58,
-    "passed_players": [
-      "Ariel Atkins"
-    ],
-    "new_total": 366
   }
 ]

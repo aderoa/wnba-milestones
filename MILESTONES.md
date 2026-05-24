@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-24 01:23 UTC
+
+- **Jackie Young** passed **Nikki McCray** for **#154** all-time in fouls (career 518) — up from #157 entering today — _7:30 - 3rd — LA @ LV_
+
 ## 2026-05-24 01:00 UTC
 
 - **Dearica Hamby** passed **Deanna Nolan** for **#56** all-time in turnovers (career 670) — up from #57 entering today — _1:15 - 2nd — LA @ LV_
