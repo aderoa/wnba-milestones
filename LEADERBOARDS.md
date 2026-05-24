@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-24 01:00 UTC_
+_Last updated: 2026-05-24 01:01 UTC_
 
 ## Contents
 
@@ -58,7 +58,7 @@ _Last updated: 2026-05-24 01:00 UTC_
 | 37 | Penny Taylor | 4,595 |
 | 38 | Alyssa Thomas | 4,554 |
 | 39 | Arike Ogunbowale | 4,512 |
-| 40 | **Chelsea Gray** 🔴 +6 | 4,475 |
+| 40 | **Chelsea Gray** 🔴 +8 | 4,477 |
 | 41 | Kristi Toliver | 4,474 |
 | 42 | Natasha Howard | 4,456 |
 | 43 | Crystal Langhorne | 4,433 |
@@ -240,7 +240,7 @@ _Last updated: 2026-05-24 01:00 UTC_
 | 14 | Sancho Lyttle | 2,596 |
 | 15 | DeLisha Milton-Jones | 2,574 |
 | 16 | Brittney Griner | 2,537 |
-| 17 | **A'ja Wilson** 🔴 +6 | 2,528 |
+| 17 | **A'ja Wilson** 🔴 +7 | 2,529 |
 | 18 | Swin Cash | 2,521 |
 | 19 | Breanna Stewart | 2,510 |
 | 20 | Michelle Snow | 2,476 |
@@ -523,7 +523,7 @@ _Last updated: 2026-05-24 01:00 UTC_
 | 92 | Asjha Jones | 637 |
 | 93 | Jennifer Azzi | 636 |
 | 94 | Brittney Griner | 635 |
-| 95 | **A'ja Wilson** 🔴 +1 | 626 |
+| 95 | **A'ja Wilson** 🔴 +2 | 627 |
 | 96 | Sami Whitcomb | 623 |
 | 97 | Alysha Clark | 614 |
 | 98 | Debbie Black | 612 |
