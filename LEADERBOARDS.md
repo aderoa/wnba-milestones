@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-24 21:02 UTC_
+_Last updated: 2026-05-24 21:03 UTC_
 
 ## Contents
 
@@ -148,7 +148,7 @@ _Last updated: 2026-05-24 21:02 UTC_
 | 127 | Svetlana Abrosimova | 2,414 |
 | 128 | Anna DeForge | 2,413 |
 | 129 | DeMya Walker | 2,379 |
-| 130 | **Rhyne Howard** 🔴 +18 | 2,376 |
+| 129 | **Rhyne Howard** 🔴 +21 | 2,379 |
 | 131 | Alex Bentley | 2,350 |
 | 132 | Merlakia Jones | 2,308 |
 | 133 | Kia Vaughn | 2,288 |
@@ -165,7 +165,7 @@ _Last updated: 2026-05-24 21:02 UTC_
 | 144 | Sami Whitcomb | 2,211 |
 | 145 | Sophia Witherspoon | 2,210 |
 | 146 | Kia Nurse | 2,204 |
-| 147 | **Jordin Canada** 🔴 +10 | 2,184 |
+| 147 | **Jordin Canada** 🔴 +11 | 2,185 |
 | 148 | **Satou Sabally** 🔴 +15 | 2,176 |
 | 149 | Ruthie Bolton | 2,175 |
 | 150 | Ann Wauters | 2,170 |
@@ -375,7 +375,7 @@ _Last updated: 2026-05-24 21:02 UTC_
 | 149 | Natalie Achonwa | 895 |
 | 150 | Temeka Johnson | 889 |
 | 151 | Mistie Bass | 888 |
-| 152 | **Angel Reese** 🔴 +9 | 870 |
+| 152 | **Angel Reese** 🔴 +10 | 871 |
 | 153 | Shameka Christon | 867 |
 | 154 | Krystal Thomas | 862 |
 | 155 | Erica Wheeler | 858 |
@@ -459,7 +459,7 @@ _Last updated: 2026-05-24 21:02 UTC_
 | 28 | Vickie Johnson | 1,202 |
 | 29 | Leilani Mitchell | 1,197 |
 | 30 | **DeWanna Bonner** 🔴 +1 | 1,184 |
-| 31 | **Jordin Canada** 🔴 +13 | 1,168 |
+| 31 | **Jordin Canada** 🔴 +14 | 1,169 |
 | 32 | Jewell Loyd | 1,141 |
 | 33 | Renee Montgomery | 1,140 |
 | 34 | Swin Cash | 1,131 |
@@ -1090,7 +1090,7 @@ _Last updated: 2026-05-24 21:02 UTC_
 | 43 | Briann January | 381 |
 | 44 | Jasmine Thomas | 376 |
 | 44 | Rachel Banham | 376 |
-| 46 | **Rhyne Howard** 🔴 +5 | 375 |
+| 44 | **Rhyne Howard** 🔴 +6 | 376 |
 | 47 | Allison Feaster | 372 |
 | 47 | Betty Lennox | 372 |
 | 49 | Epiphanny Prince | 368 |
@@ -1499,7 +1499,7 @@ _Last updated: 2026-05-24 21:02 UTC_
 | 42 | Alysha Clark | 887 |
 | 43 | DeMya Walker | 882 |
 | 44 | Candice Dupree | 876 |
-| 45 | **Jonquel Jones** 🔴 | 875 |
+| 44 | **Jonquel Jones** 🔴 +1 | 876 |
 | 46 | Murriel Page | 872 |
 | 47 | Cappie Pondexter | 869 |
 | 48 | Erika de Souza | 858 |
