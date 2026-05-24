@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-24 21:32 UTC_
+_Last updated: 2026-05-24 21:33 UTC_
 
 ## Contents
 
@@ -236,13 +236,13 @@ _Last updated: 2026-05-24 21:32 UTC_
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | Alyssa Thomas | 2,782 |
-| 13 | **Jonquel Jones** 🔴 +7 | 2,606 |
+| 13 | **Jonquel Jones** 🔴 +8 | 2,607 |
 | 14 | Sancho Lyttle | 2,596 |
 | 15 | DeLisha Milton-Jones | 2,574 |
 | 16 | Brittney Griner | 2,537 |
 | 17 | A'ja Wilson | 2,522 |
 | 18 | Swin Cash | 2,521 |
-| 19 | **Breanna Stewart** 🔴 +8 | 2,518 |
+| 19 | **Breanna Stewart** 🔴 +10 | 2,520 |
 | 20 | Michelle Snow | 2,476 |
 | 21 | Crystal Langhorne | 2,454 |
 | 22 | Lauren Jackson | 2,444 |
@@ -913,8 +913,8 @@ _Last updated: 2026-05-24 21:32 UTC_
 | 72 | Helen Darling | 343 |
 | 73 | Andrea Stinson | 342 |
 | 73 | Natasha Cloud | 342 |
-| 75 | **Arike Ogunbowale** 🔴 | 340 |
-| 75 | Armintie Herrington | 340 |
+| 75 | **Arike Ogunbowale** 🔴 +1 | 341 |
+| 76 | Armintie Herrington | 340 |
 | 77 | A'ja Wilson | 339 |
 | 78 | Dawn Staley | 338 |
 | 79 | Marie Ferdinand-Harris | 331 |
@@ -1429,7 +1429,7 @@ _Last updated: 2026-05-24 21:32 UTC_
 | 176 | Rita Williams | 326 |
 | 178 | Le'coe Willingham | 325 |
 | 179 | Olympia Scott | 324 |
-| 180 | **Satou Sabally** 🔴 | 323 |
+| 179 | **Satou Sabally** 🔴 +1 | 324 |
 | 181 | Barbara Farris | 315 |
 | 181 | Kia Nurse | 315 |
 | 183 | Moriah Jefferson | 314 |
