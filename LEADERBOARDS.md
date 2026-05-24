@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-24 20:31 UTC_
+_Last updated: 2026-05-24 20:33 UTC_
 
 ## Contents
 
@@ -148,7 +148,7 @@ _Last updated: 2026-05-24 20:31 UTC_
 | 127 | Svetlana Abrosimova | 2,414 |
 | 128 | Anna DeForge | 2,413 |
 | 129 | DeMya Walker | 2,379 |
-| 130 | **Rhyne Howard** 🔴 +12 | 2,370 |
+| 130 | **Rhyne Howard** 🔴 +15 | 2,373 |
 | 131 | Alex Bentley | 2,350 |
 | 132 | Merlakia Jones | 2,308 |
 | 133 | Kia Vaughn | 2,288 |
@@ -459,7 +459,7 @@ _Last updated: 2026-05-24 20:31 UTC_
 | 28 | Vickie Johnson | 1,202 |
 | 29 | Leilani Mitchell | 1,197 |
 | 30 | **DeWanna Bonner** 🔴 | 1,183 |
-| 31 | **Jordin Canada** 🔴 +7 | 1,162 |
+| 31 | **Jordin Canada** 🔴 +8 | 1,163 |
 | 32 | Jewell Loyd | 1,141 |
 | 33 | Renee Montgomery | 1,140 |
 | 34 | Swin Cash | 1,131 |
@@ -1090,7 +1090,7 @@ _Last updated: 2026-05-24 20:31 UTC_
 | 43 | Briann January | 381 |
 | 44 | Jasmine Thomas | 376 |
 | 44 | Rachel Banham | 376 |
-| 46 | **Rhyne Howard** 🔴 +3 | 373 |
+| 46 | **Rhyne Howard** 🔴 +4 | 374 |
 | 47 | Allison Feaster | 372 |
 | 47 | Betty Lennox | 372 |
 | 49 | Epiphanny Prince | 368 |
