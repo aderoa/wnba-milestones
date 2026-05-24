@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-24 23:36 UTC_
+_Last updated: 2026-05-24 23:37 UTC_
 
 ## Contents
 
@@ -529,7 +529,7 @@ _Last updated: 2026-05-24 23:36 UTC_
 | 98 | Debbie Black | 612 |
 | 99 | Jonquel Jones | 610 |
 | 100 | Cynthia Cooper | 602 |
-| 101 | **Natisha Hiedeman** 🔴 +1 | 595 |
+| 101 | **Natisha Hiedeman** 🔴 +2 | 596 |
 | 102 | Sancho Lyttle | 592 |
 | 103 | Camille Smith | 590 |
 | 104 | Armintie Herrington | 589 |
