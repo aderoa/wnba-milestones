@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-24 00:54 UTC_
+_Last updated: 2026-05-24 00:55 UTC_
 
 ## Contents
 
@@ -206,7 +206,7 @@ _Last updated: 2026-05-24 00:54 UTC_
 | 185 | Sandy Brondello | 1,759 |
 | 186 | Natisha Hiedeman | 1,751 |
 | 187 | Sugar Rodgers | 1,733 |
-| 188 | **NaLyssa Smith** 🔴 +7 | 1,729 |
+| 188 | **NaLyssa Smith** 🔴 +8 | 1,730 |
 | 189 | Moriah Jefferson | 1,722 |
 | 190 | Sophie Cunningham | 1,705 |
 | 191 | Armintie Herrington | 1,696 |
@@ -340,7 +340,7 @@ _Last updated: 2026-05-24 00:54 UTC_
 | 114 | Becky Hammon | 1,108 |
 | 115 | Ann Wauters | 1,105 |
 | 116 | Natasha Cloud | 1,095 |
-| 117 | **NaLyssa Smith** 🔴 +4 | 1,085 |
+| 117 | **NaLyssa Smith** 🔴 +5 | 1,086 |
 | 118 | Svetlana Abrosimova | 1,078 |
 | 119 | Aliyah Boston | 1,066 |
 | 120 | Le'coe Willingham | 1,054 |
@@ -1514,7 +1514,7 @@ _Last updated: 2026-05-24 00:54 UTC_
 | 56 | Wendy Palmer | 831 |
 | 58 | Shannon Johnson | 813 |
 | 58 | Tully Bevilaqua | 813 |
-| 60 | **Dearica Hamby** 🔴 | 811 |
+| 60 | **Dearica Hamby** 🔴 +1 | 812 |
 | 61 | Skylar Diggins | 800 |
 | 62 | Nykesha Sales | 796 |
 | 63 | Ebony Hoffman | 791 |
