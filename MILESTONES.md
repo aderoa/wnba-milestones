@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-24 01:36 UTC
+
+- **Chelsea Gray** passed **Layshia Clarendon** for **#119** all-time in fouls (career 610) — _1:56 - 3rd — LA @ LV_
+
 ## 2026-05-24 01:23 UTC
 
 - **Jackie Young** passed **Nikki McCray** for **#154** all-time in fouls (career 518) — up from #157 entering today — _7:30 - 3rd — LA @ LV_

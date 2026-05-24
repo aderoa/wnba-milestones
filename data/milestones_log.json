@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-24T01:36:00+00:00",
+    "text": "Chelsea Gray passed Layshia Clarendon for #119 all-time in fouls (career 610) \u2014 (1:56 - 3rd \u2014 LA @ LV)",
+    "kind": "rank_pass",
+    "player": "Chelsea Gray",
+    "stat": "fouls",
+    "rank": 119,
+    "passed_players": [
+      "Layshia Clarendon"
+    ],
+    "new_total": 610
+  },
+  {
     "ts": "2026-05-24T01:23:00+00:00",
     "text": "Jackie Young passed Nikki McCray for #154 all-time in fouls (career 518) \u2014 up from #157 entering today \u2014 (7:30 - 3rd \u2014 LA @ LV)",
     "kind": "rank_pass",
@@ -3029,18 +3041,5 @@
       "Jonquel Jones"
     ],
     "new_total": 358
-  },
-  {
-    "ts": "2026-05-17T19:53:00+00:00",
-    "text": "A'ja Wilson passed Elena Baranova and Jantel Lavender for #123 all-time in turnovers (career 445) \u2014 up from #125 entering today \u2014 (36.5 - 4th \u2014 LV @ ATL)",
-    "kind": "rank_pass",
-    "player": "A'ja Wilson",
-    "stat": "turnovers",
-    "rank": 123,
-    "passed_players": [
-      "Elena Baranova",
-      "Jantel Lavender"
-    ],
-    "new_total": 445
   }
 ]
