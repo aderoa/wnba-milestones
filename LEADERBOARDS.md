@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-24 02:09 UTC_
+_Last updated: 2026-05-24 02:10 UTC_
 
 ## Contents
 
@@ -58,7 +58,7 @@ _Last updated: 2026-05-24 02:09 UTC_
 | 37 | Penny Taylor | 4,595 |
 | 38 | Alyssa Thomas | 4,554 |
 | 39 | Arike Ogunbowale | 4,512 |
-| 40 | **Chelsea Gray** 🔴 +10 | 4,479 |
+| 40 | **Chelsea Gray** 🔴 +12 | 4,481 |
 | 41 | Kristi Toliver | 4,474 |
 | 42 | Natasha Howard | 4,456 |
 | 43 | Crystal Langhorne | 4,433 |
@@ -97,8 +97,8 @@ _Last updated: 2026-05-24 02:09 UTC_
 | 76 | **Jackie Young** 🔴 | 3,468 |
 | 77 | Ivory Latta | 3,447 |
 | 78 | Nicole Powell | 3,407 |
-| 79 | Epiphanny Prince | 3,381 |
-| 80 | **Ariel Atkins** 🔴 +9 | 3,380 |
+| 79 | **Ariel Atkins** 🔴 +11 | 3,382 |
+| 80 | Epiphanny Prince | 3,381 |
 | 81 | Michelle Snow | 3,361 |
 | 82 | Tamika Whitmore | 3,359 |
 | 83 | Sheri Sam | 3,353 |
@@ -454,7 +454,7 @@ _Last updated: 2026-05-24 02:09 UTC_
 | 23 | Kristi Toliver | 1,301 |
 | 24 | **Erica Wheeler** 🔴 +5 | 1,280 |
 | 25 | Katie Smith | 1,258 |
-| 26 | **Kelsey Plum** 🔴 +7 | 1,222 |
+| 26 | **Kelsey Plum** 🔴 +8 | 1,223 |
 | 27 | Odyssey Sims | 1,210 |
 | 28 | Vickie Johnson | 1,202 |
 | 29 | Leilani Mitchell | 1,197 |
