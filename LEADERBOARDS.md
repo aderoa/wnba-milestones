@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-24 00:52 UTC_
+_Last updated: 2026-05-24 00:53 UTC_
 
 ## Contents
 
@@ -321,7 +321,7 @@ _Last updated: 2026-05-24 00:52 UTC_
 | 95 | Seimone Augustus | 1,228 |
 | 96 | Myisha Hines-Allen | 1,224 |
 | 97 | Jia Perkins | 1,220 |
-| 98 | **Chelsea Gray** 🔴 +1 | 1,211 |
+| 98 | **Chelsea Gray** 🔴 +2 | 1,212 |
 | 99 | Kayla McBride | 1,207 |
 | 100 | DeMya Walker | 1,199 |
 | 101 | Latasha Byears | 1,190 |
@@ -340,7 +340,7 @@ _Last updated: 2026-05-24 00:52 UTC_
 | 114 | Becky Hammon | 1,108 |
 | 115 | Ann Wauters | 1,105 |
 | 116 | Natasha Cloud | 1,095 |
-| 117 | **NaLyssa Smith** 🔴 +3 | 1,084 |
+| 117 | **NaLyssa Smith** 🔴 +4 | 1,085 |
 | 118 | Svetlana Abrosimova | 1,078 |
 | 119 | Aliyah Boston | 1,066 |
 | 120 | Le'coe Willingham | 1,054 |
@@ -731,8 +731,8 @@ _Last updated: 2026-05-24 00:52 UTC_
 | 95 | Katie Douglas | 126 |
 | 95 | Mistie Bass | 126 |
 | 97 | Brionna Jones | 125 |
+| 97 | **Chelsea Gray** 🔴 +2 | 125 |
 | 97 | Monique Billings | 125 |
-| 99 | **Chelsea Gray** 🔴 +1 | 124 |
 | 100 | Alyssa Thomas | 122 |
 | 100 | Natalie Williams | 122 |
 | 100 | Olivia Nelson-Ododa | 122 |
@@ -1551,7 +1551,7 @@ _Last updated: 2026-05-24 00:52 UTC_
 | 93 | Temeka Johnson | 680 |
 | 95 | Brittney Sykes | 678 |
 | 96 | Kelly Miller | 676 |
-| 97 | **Kelsey Plum** 🔴 +2 | 674 |
+| 97 | **Kelsey Plum** 🔴 +3 | 675 |
 | 98 | Chamique Holdsclaw | 667 |
 | 99 | **Cheyenne Parker-Tyus** 🔴 | 666 |
 | 100 | Tianna Hawkins | 662 |
