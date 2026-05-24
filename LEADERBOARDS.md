@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-24 19:50 UTC_
+_Last updated: 2026-05-24 19:51 UTC_
 
 ## Contents
 
@@ -71,7 +71,7 @@ _Last updated: 2026-05-24 19:50 UTC_
 | 50 | **Allisha Gray** 🔴 +10 | 4,242 |
 | 51 | Vickie Johnson | 4,230 |
 | 52 | Yolanda Griffith | 4,224 |
-| 53 | **Kahleah Copper** 🔴 +10 | 4,164 |
+| 53 | **Kahleah Copper** 🔴 +12 | 4,166 |
 | 54 | Dearica Hamby | 4,158 |
 | 55 | **Jonquel Jones** 🔴 +2 | 4,134 |
 | 56 | Rebekkah Brunson | 4,133 |
@@ -165,7 +165,7 @@ _Last updated: 2026-05-24 19:50 UTC_
 | 144 | Sami Whitcomb | 2,211 |
 | 145 | Sophia Witherspoon | 2,210 |
 | 146 | Kia Nurse | 2,204 |
-| 147 | **Jordin Canada** 🔴 +2 | 2,176 |
+| 147 | **Jordin Canada** 🔴 +4 | 2,178 |
 | 148 | Ruthie Bolton | 2,175 |
 | 149 | Ann Wauters | 2,170 |
 | 150 | Layshia Clarendon | 2,168 |
@@ -1335,8 +1335,8 @@ _Last updated: 2026-05-24 19:50 UTC_
 | 83 | Brittney Sykes | 568 |
 | 84 | Nikki McCray | 565 |
 | 85 | Sancho Lyttle | 563 |
-| 86 | **Breanna Stewart** 🔴 | 557 |
-| 86 | Tan White | 557 |
+| 86 | **Breanna Stewart** 🔴 +1 | 558 |
+| 87 | Tan White | 557 |
 | 88 | Kelsey Mitchell | 556 |
 | 89 | Lauren Jackson | 549 |
 | 90 | Matee Ajavon | 544 |
@@ -1351,9 +1351,9 @@ _Last updated: 2026-05-24 19:50 UTC_
 | 99 | Leilani Mitchell | 525 |
 | 99 | Nicole Powell | 525 |
 | 101 | Marie Ferdinand-Harris | 518 |
-| 102 | **Sabrina Ionescu** 🔴 | 517 |
-| 102 | Shavonte Zellous | 517 |
-| 102 | Wendy Palmer | 517 |
+| 101 | **Sabrina Ionescu** 🔴 +1 | 518 |
+| 103 | Shavonte Zellous | 517 |
+| 103 | Wendy Palmer | 517 |
 | 105 | Tully Bevilaqua | 514 |
 | 106 | Jia Perkins | 513 |
 | 107 | **Arike Ogunbowale** 🔴 | 509 |
@@ -1531,7 +1531,7 @@ _Last updated: 2026-05-24 19:50 UTC_
 | 74 | Latasha Byears | 730 |
 | 75 | **Kahleah Copper** 🔴 +1 | 724 |
 | 76 | Kristi Toliver | 722 |
-| 77 | **Allisha Gray** 🔴 | 714 |
+| 77 | **Allisha Gray** 🔴 +1 | 715 |
 | 78 | Cheryl Ford | 713 |
 | 78 | Elizabeth Williams | 713 |
 | 80 | Jia Perkins | 711 |

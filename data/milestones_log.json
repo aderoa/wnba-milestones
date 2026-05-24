@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-05-24T19:51:00+00:00",
+    "text": "Sabrina Ionescu passed Shavonte Zellous and Wendy Palmer for #103 all-time in turnovers (career 518) \u2014 (6:13 - 1st \u2014 DAL @ NY)",
+    "kind": "rank_pass",
+    "player": "Sabrina Ionescu",
+    "stat": "turnovers",
+    "rank": 103,
+    "passed_players": [
+      "Shavonte Zellous",
+      "Wendy Palmer"
+    ],
+    "new_total": 518
+  },
+  {
     "ts": "2026-05-24T19:46:00+00:00",
     "text": "Sabrina Ionescu passed Kristen Rasmussen for #134 all-time in rebounds (career 994) \u2014 up from #135 entering today \u2014 (7:41 - 1st \u2014 DAL @ NY)",
     "kind": "rank_pass",
@@ -3032,17 +3045,5 @@
       "Moriah Jefferson"
     ],
     "new_total": 315
-  },
-  {
-    "ts": "2026-05-18T00:19:00+00:00",
-    "text": "Elizabeth Williams passed Armintie Herrington for #155 all-time in turnovers (career 378) \u2014 up from #156 entering today \u2014 (4:06 - 3rd \u2014 CHI @ MIN)",
-    "kind": "rank_pass",
-    "player": "Elizabeth Williams",
-    "stat": "turnovers",
-    "rank": 155,
-    "passed_players": [
-      "Armintie Herrington"
-    ],
-    "new_total": 378
   }
 ]
