@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-05-24T02:00:00+00:00",
+    "text": "A'ja Wilson passed Arike Ogunbowale and Armintie Herrington for #75 all-time in steals (career 341) \u2014 up from #77 entering today \u2014 (5:59 - 4th \u2014 LA @ LV)",
+    "kind": "rank_pass",
+    "player": "A'ja Wilson",
+    "stat": "steals",
+    "rank": 75,
+    "passed_players": [
+      "Arike Ogunbowale",
+      "Armintie Herrington"
+    ],
+    "new_total": 341
+  },
+  {
     "ts": "2026-05-24T01:59:00+00:00",
     "text": "Ariel Atkins passed Tully Bevilaqua for #183 all-time in rebounds (career 768) \u2014 up from #184 entering today \u2014 (6:22 - 4th \u2014 LA @ LV)",
     "kind": "rank_pass",
@@ -3031,18 +3044,5 @@
       "Sylvia Fowles"
     ],
     "new_total": 462
-  },
-  {
-    "ts": "2026-05-17T23:46:00+00:00",
-    "text": "Kamilla Cardoso passed Imani McGee-Stafford and Isabelle Harrison for #135 all-time in blocks (career 96) \u2014 up from #138 entering today \u2014 (2:14 - 2nd \u2014 CHI @ MIN)",
-    "kind": "rank_pass",
-    "player": "Kamilla Cardoso",
-    "stat": "blocks",
-    "rank": 135,
-    "passed_players": [
-      "Imani McGee-Stafford",
-      "Isabelle Harrison"
-    ],
-    "new_total": 96
   }
 ]

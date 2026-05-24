@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-24 02:00 UTC
+
+- **A'ja Wilson** passed **Arike Ogunbowale** and **Armintie Herrington** for **#75** all-time in steals (career 341) — up from #77 entering today — _5:59 - 4th — LA @ LV_
+
 ## 2026-05-24 01:59 UTC
 
 - **Ariel Atkins** passed **Tully Bevilaqua** for **#183** all-time in rebounds (career 768) — up from #184 entering today — _6:22 - 4th — LA @ LV_

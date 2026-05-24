@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-24 01:59 UTC_
+_Last updated: 2026-05-24 02:00 UTC_
 
 ## Contents
 
@@ -913,9 +913,9 @@ _Last updated: 2026-05-24 01:59 UTC_
 | 72 | Helen Darling | 343 |
 | 72 | Natasha Cloud | 343 |
 | 74 | Andrea Stinson | 342 |
-| 75 | **A'ja Wilson** 🔴 +1 | 340 |
-| 75 | Arike Ogunbowale | 340 |
-| 75 | Armintie Herrington | 340 |
+| 75 | **A'ja Wilson** 🔴 +2 | 341 |
+| 76 | Arike Ogunbowale | 340 |
+| 76 | Armintie Herrington | 340 |
 | 78 | Dawn Staley | 338 |
 | 79 | Marie Ferdinand-Harris | 331 |
 | 80 | Chasity Melvin | 330 |
@@ -1316,7 +1316,7 @@ _Last updated: 2026-05-24 01:59 UTC_
 | 64 | Ruth Riley | 637 |
 | 65 | Svetlana Abrosimova | 631 |
 | 66 | Kayla McBride | 630 |
-| 67 | **Kelsey Plum** 🔴 +2 | 626 |
+| 67 | **Kelsey Plum** 🔴 +3 | 627 |
 | 68 | Odyssey Sims | 622 |
 | 69 | Jonquel Jones | 617 |
 | 70 | Rebekkah Brunson | 615 |
@@ -1519,7 +1519,7 @@ _Last updated: 2026-05-24 01:59 UTC_
 | 62 | Nykesha Sales | 796 |
 | 63 | Ebony Hoffman | 791 |
 | 64 | Sue Bird | 775 |
-| 65 | **Erica Wheeler** 🔴 +1 | 771 |
+| 65 | **Erica Wheeler** 🔴 +2 | 772 |
 | 66 | Sheri Sam | 766 |
 | 67 | Kia Vaughn | 755 |
 | 68 | Vickie Johnson | 752 |
@@ -1572,7 +1572,7 @@ _Last updated: 2026-05-24 01:59 UTC_
 | 115 | Coco Miller | 615 |
 | 116 | Brooke Wyckoff | 614 |
 | 117 | Svetlana Abrosimova | 613 |
-| 118 | **Chelsea Gray** 🔴 +2 | 611 |
+| 118 | **Chelsea Gray** 🔴 +3 | 612 |
 | 119 | Layshia Clarendon | 609 |
 | 120 | Odyssey Sims | 604 |
 | 120 | Tiffany Mitchell | 604 |
