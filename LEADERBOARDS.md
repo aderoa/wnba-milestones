@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-24 00:23 UTC_
+_Last updated: 2026-05-24 00:24 UTC_
 
 ## Contents
 
@@ -98,7 +98,7 @@ _Last updated: 2026-05-24 00:23 UTC_
 | 77 | Ivory Latta | 3,447 |
 | 78 | Nicole Powell | 3,407 |
 | 79 | Epiphanny Prince | 3,381 |
-| 80 | **Ariel Atkins** 🔴 +4 | 3,375 |
+| 80 | **Ariel Atkins** 🔴 +7 | 3,378 |
 | 81 | Michelle Snow | 3,361 |
 | 82 | Tamika Whitmore | 3,359 |
 | 83 | Sheri Sam | 3,353 |
@@ -240,7 +240,7 @@ _Last updated: 2026-05-24 00:23 UTC_
 | 14 | Sancho Lyttle | 2,596 |
 | 15 | DeLisha Milton-Jones | 2,574 |
 | 16 | Brittney Griner | 2,537 |
-| 17 | **A'ja Wilson** 🔴 +3 | 2,525 |
+| 17 | **A'ja Wilson** 🔴 +4 | 2,526 |
 | 18 | Swin Cash | 2,521 |
 | 19 | Breanna Stewart | 2,510 |
 | 20 | Michelle Snow | 2,476 |
@@ -378,7 +378,7 @@ _Last updated: 2026-05-24 00:23 UTC_
 | 152 | Shameka Christon | 867 |
 | 153 | Krystal Thomas | 862 |
 | 154 | Angel Reese | 861 |
-| 155 | **Erica Wheeler** 🔴 +1 | 859 |
+| 155 | **Erica Wheeler** 🔴 +2 | 860 |
 | 156 | Alanna Smith | 847 |
 | 157 | Leilani Mitchell | 845 |
 | 158 | Jessica Shepard | 836 |
@@ -417,7 +417,7 @@ _Last updated: 2026-05-24 00:23 UTC_
 | 191 | Shenise Johnson | 729 |
 | 192 | Sami Whitcomb | 726 |
 | 192 | Shekinna Stricklen | 726 |
-| 194 | **Kelsey Plum** 🔴 | 721 |
+| 194 | **Kelsey Plum** 🔴 +1 | 722 |
 | 195 | Shakira Austin | 719 |
 | 196 | Olympia Scott | 711 |
 | 197 | Katie Mattera | 708 |
@@ -467,7 +467,7 @@ _Last updated: 2026-05-24 00:23 UTC_
 | 36 | Katie Douglas | 1,069 |
 | 37 | Sabrina Ionescu | 1,067 |
 | 38 | Alana Beard | 1,061 |
-| 39 | **Jackie Young** 🔴 | 1,060 |
+| 38 | **Jackie Young** 🔴 +1 | 1,061 |
 | 40 | Penny Taylor | 1,049 |
 | 41 | Dominique Canty | 1,042 |
 | 42 | Sheryl Swoopes | 1,037 |
@@ -1073,7 +1073,7 @@ _Last updated: 2026-05-24 00:23 UTC_
 | 26 | Breanna Stewart | 456 |
 | 27 | Marina Mabrey | 451 |
 | 28 | Tiffany Hayes | 447 |
-| 29 | **Ariel Atkins** 🔴 | 440 |
+| 29 | **Ariel Atkins** 🔴 +1 | 441 |
 | 30 | Lauren Jackson | 436 |
 | 31 | Shameka Christon | 434 |
 | 32 | Allisha Gray | 432 |
