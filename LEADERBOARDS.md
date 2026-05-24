@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-24 00:37 UTC_
+_Last updated: 2026-05-24 00:38 UTC_
 
 ## Contents
 
@@ -33,7 +33,7 @@ _Last updated: 2026-05-24 00:37 UTC_
 | 12 | Sylvia Fowles | 6,413 |
 | 13 | Lisa Leslie | 6,251 |
 | 14 | Breanna Stewart | 6,077 |
-| 15 | **Jewell Loyd** 🔴 +6 | 6,065 |
+| 15 | **Jewell Loyd** 🔴 +9 | 6,068 |
 | 16 | Lauren Jackson | 6,005 |
 | 16 | Seimone Augustus | 6,005 |
 | 18 | Brittney Griner | 5,983 |
@@ -71,7 +71,7 @@ _Last updated: 2026-05-24 00:37 UTC_
 | 50 | Allisha Gray | 4,232 |
 | 51 | Vickie Johnson | 4,230 |
 | 52 | Yolanda Griffith | 4,224 |
-| 53 | **Dearica Hamby** 🔴 +2 | 4,160 |
+| 53 | **Dearica Hamby** 🔴 +4 | 4,162 |
 | 54 | Kahleah Copper | 4,154 |
 | 55 | Courtney Williams | 4,141 |
 | 56 | Rebekkah Brunson | 4,133 |
@@ -378,7 +378,7 @@ _Last updated: 2026-05-24 00:37 UTC_
 | 152 | Shameka Christon | 867 |
 | 153 | Krystal Thomas | 862 |
 | 154 | Angel Reese | 861 |
-| 155 | **Erica Wheeler** 🔴 +2 | 860 |
+| 154 | **Erica Wheeler** 🔴 +3 | 861 |
 | 156 | Alanna Smith | 847 |
 | 157 | Leilani Mitchell | 845 |
 | 158 | Jessica Shepard | 836 |
@@ -434,7 +434,7 @@ _Last updated: 2026-05-24 00:37 UTC_
 | 3 | Ticha Penicheiro | 2,588 |
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
-| 6 | **Chelsea Gray** 🔴 +2 | 1,905 |
+| 6 | **Chelsea Gray** 🔴 +3 | 1,906 |
 | 7 | Alyssa Thomas | 1,854 |
 | 8 | Skylar Diggins | 1,791 |
 | 9 | Natasha Cloud | 1,748 |
@@ -452,7 +452,7 @@ _Last updated: 2026-05-24 00:37 UTC_
 | 21 | Dawn Staley | 1,337 |
 | 22 | Teresa Weatherspoon | 1,333 |
 | 23 | Kristi Toliver | 1,301 |
-| 24 | **Erica Wheeler** 🔴 +2 | 1,277 |
+| 24 | **Erica Wheeler** 🔴 +3 | 1,278 |
 | 25 | Katie Smith | 1,258 |
 | 26 | **Kelsey Plum** 🔴 | 1,215 |
 | 27 | Odyssey Sims | 1,210 |
@@ -1053,7 +1053,7 @@ _Last updated: 2026-05-24 00:37 UTC_
 | 6 | Kayla McBride | 730 |
 | 7 | Katie Douglas | 723 |
 | 8 | Kelsey Mitchell | 679 |
-| 9 | **Jewell Loyd** 🔴 +2 | 675 |
+| 9 | **Jewell Loyd** 🔴 +3 | 676 |
 | 10 | DeWanna Bonner | 668 |
 | 11 | Kristi Toliver | 651 |
 | 12 | Tamika Catchings | 605 |
