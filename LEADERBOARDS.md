@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-24 01:18 UTC_
+_Last updated: 2026-05-24 01:19 UTC_
 
 ## Contents
 
@@ -340,7 +340,7 @@ _Last updated: 2026-05-24 01:18 UTC_
 | 114 | Becky Hammon | 1,108 |
 | 115 | Ann Wauters | 1,105 |
 | 116 | Natasha Cloud | 1,095 |
-| 117 | **NaLyssa Smith** 🔴 +5 | 1,086 |
+| 117 | **NaLyssa Smith** 🔴 +6 | 1,087 |
 | 118 | Svetlana Abrosimova | 1,078 |
 | 119 | Aliyah Boston | 1,066 |
 | 120 | Le'coe Willingham | 1,054 |
@@ -348,8 +348,8 @@ _Last updated: 2026-05-24 01:18 UTC_
 | 122 | Nicole Ohlde | 1,040 |
 | 123 | Tamecka Dixon | 1,035 |
 | 124 | Kamila Vodichkova | 1,031 |
-| 125 | **Jackie Young** 🔴 | 1,027 |
-| 125 | Jasmine Thomas | 1,027 |
+| 125 | **Jackie Young** 🔴 +1 | 1,028 |
+| 126 | Jasmine Thomas | 1,027 |
 | 127 | Cathrine Kraayeveld | 1,013 |
 | 128 | Kelly Miller | 1,011 |
 | 128 | Noelle Quinn | 1,011 |
@@ -523,7 +523,7 @@ _Last updated: 2026-05-24 01:18 UTC_
 | 92 | Asjha Jones | 637 |
 | 93 | Jennifer Azzi | 636 |
 | 94 | Brittney Griner | 635 |
-| 95 | **A'ja Wilson** 🔴 +2 | 627 |
+| 95 | **A'ja Wilson** 🔴 +1 | 626 |
 | 96 | Sami Whitcomb | 623 |
 | 97 | Alysha Clark | 614 |
 | 98 | Debbie Black | 612 |
@@ -774,9 +774,9 @@ _Last updated: 2026-05-24 01:18 UTC_
 | 137 | Isabelle Harrison | 95 |
 | 139 | Sandrine Gruda | 94 |
 | 140 | **Jewell Loyd** 🔴 | 93 |
-| 141 | Jasmine Thomas | 91 |
-| 141 | Kayla Alexander | 91 |
-| 141 | **NaLyssa Smith** 🔴 | 91 |
+| 141 | **NaLyssa Smith** 🔴 +1 | 92 |
+| 142 | Jasmine Thomas | 91 |
+| 142 | Kayla Alexander | 91 |
 | 144 | Allie Quigley | 90 |
 | 145 | Alysha Clark | 89 |
 | 146 | Marissa Coleman | 88 |
@@ -895,8 +895,8 @@ _Last updated: 2026-05-24 01:18 UTC_
 | 54 | Monique Currie | 378 |
 | 54 | Tiffany Hayes | 378 |
 | 56 | Chamique Holdsclaw | 376 |
-| 57 | **Ariel Atkins** 🔴 +2 | 371 |
-| 58 | Mwadi Mabika | 370 |
+| 57 | **Ariel Atkins** 🔴 +1 | 370 |
+| 57 | Mwadi Mabika | 370 |
 | 59 | Jordin Canada | 369 |
 | 60 | Brittney Sykes | 363 |
 | 61 | Lauren Jackson | 360 |
