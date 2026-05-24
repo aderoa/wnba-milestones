@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-24 01:33 UTC_
+_Last updated: 2026-05-24 01:34 UTC_
 
 ## Contents
 
@@ -37,7 +37,7 @@ _Last updated: 2026-05-24 01:33 UTC_
 | 16 | Lauren Jackson | 6,005 |
 | 16 | Seimone Augustus | 6,005 |
 | 18 | Brittney Griner | 5,983 |
-| 19 | **A'ja Wilson** 🔴 +10 | 5,854 |
+| 19 | **A'ja Wilson** 🔴 +13 | 5,857 |
 | 20 | Becky Hammon | 5,816 |
 | 21 | Angel McCoughtry | 5,797 |
 | 22 | DeLisha Milton-Jones | 5,571 |
@@ -64,14 +64,14 @@ _Last updated: 2026-05-24 01:33 UTC_
 | 43 | Crystal Langhorne | 4,433 |
 | 43 | Jia Perkins | 4,433 |
 | 45 | Courtney Vandersloot | 4,352 |
-| 46 | **Kelsey Plum** 🔴 +25 | 4,339 |
+| 46 | **Kelsey Plum** 🔴 +26 | 4,340 |
 | 47 | Sophia Young-Malcolm | 4,300 |
 | 48 | Plenette Pierson | 4,258 |
 | 49 | Monique Currie | 4,253 |
 | 50 | Allisha Gray | 4,232 |
 | 51 | Vickie Johnson | 4,230 |
 | 52 | Yolanda Griffith | 4,224 |
-| 53 | **Dearica Hamby** 🔴 +9 | 4,167 |
+| 53 | **Dearica Hamby** 🔴 +11 | 4,169 |
 | 54 | Kahleah Copper | 4,154 |
 | 55 | Courtney Williams | 4,141 |
 | 56 | Rebekkah Brunson | 4,133 |
@@ -454,13 +454,13 @@ _Last updated: 2026-05-24 01:33 UTC_
 | 23 | Kristi Toliver | 1,301 |
 | 24 | **Erica Wheeler** 🔴 +4 | 1,279 |
 | 25 | Katie Smith | 1,258 |
-| 26 | **Kelsey Plum** 🔴 +5 | 1,220 |
+| 26 | **Kelsey Plum** 🔴 +6 | 1,221 |
 | 27 | Odyssey Sims | 1,210 |
 | 28 | Vickie Johnson | 1,202 |
 | 29 | Leilani Mitchell | 1,197 |
 | 30 | DeWanna Bonner | 1,183 |
 | 31 | Jordin Canada | 1,155 |
-| 32 | **Jewell Loyd** 🔴 +1 | 1,142 |
+| 32 | **Jewell Loyd** 🔴 +2 | 1,143 |
 | 33 | Renee Montgomery | 1,140 |
 | 34 | Swin Cash | 1,131 |
 | 35 | Lindsey Harding | 1,090 |
@@ -1369,8 +1369,8 @@ _Last updated: 2026-05-24 01:33 UTC_
 | 117 | Ebony Hoffman | 470 |
 | 118 | Elaine Powell | 469 |
 | 119 | Allie Quigley | 467 |
-| 120 | **A'ja Wilson** 🔴 +1 | 455 |
-| 120 | Allisha Gray | 455 |
+| 120 | **A'ja Wilson** 🔴 +2 | 456 |
+| 121 | Allisha Gray | 455 |
 | 122 | Kia Vaughn | 454 |
 | 123 | Janeth Arcain | 453 |
 | 124 | **Ariel Atkins** 🔴 +2 | 444 |
