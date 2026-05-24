@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-24 19:51 UTC_
+_Last updated: 2026-05-24 19:52 UTC_
 
 ## Contents
 
@@ -609,7 +609,7 @@ _Last updated: 2026-05-24 19:51 UTC_
 | 178 | Shenise Johnson | 376 |
 | 179 | Suzie McConnell Serio | 370 |
 | 180 | Damiris Dantas | 368 |
-| 181 | **Alanna Smith** 🔴 | 365 |
+| 181 | **Alanna Smith** 🔴 +1 | 366 |
 | 182 | Roneeka Hodges | 362 |
 | 183 | Andrea Nagy | 361 |
 | 183 | Diamond DeShields | 361 |
@@ -1335,8 +1335,8 @@ _Last updated: 2026-05-24 19:51 UTC_
 | 83 | Brittney Sykes | 568 |
 | 84 | Nikki McCray | 565 |
 | 85 | Sancho Lyttle | 563 |
-| 86 | **Breanna Stewart** 🔴 +1 | 558 |
-| 87 | Tan White | 557 |
+| 86 | **Breanna Stewart** 🔴 | 557 |
+| 86 | Tan White | 557 |
 | 88 | Kelsey Mitchell | 556 |
 | 89 | Lauren Jackson | 549 |
 | 90 | Matee Ajavon | 544 |
