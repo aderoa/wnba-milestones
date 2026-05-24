@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-24 00:10 UTC_
+_Last updated: 2026-05-24 00:11 UTC_
 
 ## Contents
 
@@ -247,7 +247,7 @@ _Last updated: 2026-05-24 00:10 UTC_
 | 21 | Crystal Langhorne | 2,454 |
 | 22 | Lauren Jackson | 2,444 |
 | 23 | Yolanda Griffith | 2,440 |
-| 24 | **Dearica Hamby** 🔴 | 2,346 |
+| 24 | **Dearica Hamby** 🔴 +1 | 2,347 |
 | 25 | Tangela Smith | 2,328 |
 | 26 | Erika de Souza | 2,220 |
 | 27 | Natasha Howard | 2,218 |
@@ -516,9 +516,9 @@ _Last updated: 2026-05-24 00:10 UTC_
 | 85 | Nykesha Sales | 677 |
 | 86 | Bria Hartley | 661 |
 | 87 | Lindsay Allen | 657 |
-| 88 | **Ariel Atkins** 🔴 | 651 |
-| 88 | Betty Lennox | 651 |
-| 88 | Plenette Pierson | 651 |
+| 88 | **Ariel Atkins** 🔴 +1 | 652 |
+| 89 | Betty Lennox | 651 |
+| 89 | Plenette Pierson | 651 |
 | 91 | Alex Bentley | 645 |
 | 92 | Asjha Jones | 637 |
 | 93 | Jennifer Azzi | 636 |
@@ -873,7 +873,7 @@ _Last updated: 2026-05-24 00:10 UTC_
 | 32 | Maya Moore | 449 |
 | 32 | Skylar Diggins | 449 |
 | 34 | Jewell Loyd | 445 |
-| 35 | **Chelsea Gray** 🔴 | 439 |
+| 35 | **Chelsea Gray** 🔴 +1 | 440 |
 | 36 | Natasha Howard | 438 |
 | 36 | Sheri Sam | 438 |
 | 38 | Camille Smith | 437 |
