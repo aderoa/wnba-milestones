@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-24 20:27 UTC_
+_Last updated: 2026-05-24 20:28 UTC_
 
 ## Contents
 
@@ -57,7 +57,7 @@ _Last updated: 2026-05-24 20:27 UTC_
 | 36 | Elena Delle Donne | 4,706 |
 | 37 | Penny Taylor | 4,595 |
 | 38 | **Alyssa Thomas** 🔴 +14 | 4,568 |
-| 39 | **Arike Ogunbowale** 🔴 +10 | 4,522 |
+| 39 | **Arike Ogunbowale** 🔴 +13 | 4,525 |
 | 40 | Kristi Toliver | 4,474 |
 | 41 | Chelsea Gray | 4,469 |
 | 42 | Crystal Langhorne | 4,433 |
@@ -168,7 +168,7 @@ _Last updated: 2026-05-24 20:27 UTC_
 | 147 | **Jordin Canada** 🔴 +8 | 2,182 |
 | 148 | Ruthie Bolton | 2,175 |
 | 149 | Ann Wauters | 2,170 |
-| 150 | **Satou Sabally** 🔴 +8 | 2,169 |
+| 149 | **Satou Sabally** 🔴 +9 | 2,170 |
 | 151 | Layshia Clarendon | 2,168 |
 | 152 | Murriel Page | 2,146 |
 | 153 | Marissa Coleman | 2,140 |
@@ -615,9 +615,9 @@ _Last updated: 2026-05-24 20:27 UTC_
 | 183 | Diamond DeShields | 361 |
 | 183 | Erlana Larkins | 361 |
 | 186 | Bridget Carleton | 358 |
-| 187 | **Jessica Shepard** 🔴 +2 | 355 |
-| 187 | Kayla Thornton | 355 |
-| 187 | Merlakia Jones | 355 |
+| 187 | **Jessica Shepard** 🔴 +3 | 356 |
+| 188 | Kayla Thornton | 355 |
+| 188 | Merlakia Jones | 355 |
 | 190 | Charlotte Smith | 352 |
 | 190 | Ruthie Bolton | 352 |
 | 192 | Jantel Lavender | 350 |
@@ -963,8 +963,8 @@ _Last updated: 2026-05-24 20:27 UTC_
 | 120 | Loree Moore | 255 |
 | 123 | Ruthie Bolton | 254 |
 | 124 | Hamchetou Maiga-Ba | 251 |
-| 124 | **Jonquel Jones** 🔴 +1 | 251 |
 | 124 | Tamika Whitmore | 251 |
+| 126 | **Jonquel Jones** 🔴 | 250 |
 | 127 | Sami Whitcomb | 246 |
 | 128 | Latasha Byears | 245 |
 | 129 | Alex Bentley | 244 |
@@ -1060,7 +1060,7 @@ _Last updated: 2026-05-24 20:27 UTC_
 | 13 | Kelsey Plum | 598 |
 | 14 | Kara Lawson | 583 |
 | 15 | Nicole Powell | 579 |
-| 16 | **Arike Ogunbowale** 🔴 +3 | 552 |
+| 16 | **Arike Ogunbowale** 🔴 +4 | 553 |
 | 17 | Ivory Latta | 536 |
 | 18 | Renee Montgomery | 532 |
 | 19 | Maya Moore | 530 |
