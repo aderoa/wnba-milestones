@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-24 00:38 UTC_
+_Last updated: 2026-05-24 00:39 UTC_
 
 ## Contents
 
@@ -59,7 +59,7 @@ _Last updated: 2026-05-24 00:38 UTC_
 | 38 | Alyssa Thomas | 4,554 |
 | 39 | Arike Ogunbowale | 4,512 |
 | 40 | Kristi Toliver | 4,474 |
-| 41 | **Chelsea Gray** 🔴 +2 | 4,471 |
+| 41 | **Chelsea Gray** 🔴 +4 | 4,473 |
 | 42 | Natasha Howard | 4,456 |
 | 43 | Crystal Langhorne | 4,433 |
 | 43 | Jia Perkins | 4,433 |
@@ -321,7 +321,7 @@ _Last updated: 2026-05-24 00:38 UTC_
 | 95 | Seimone Augustus | 1,228 |
 | 96 | Myisha Hines-Allen | 1,224 |
 | 97 | Jia Perkins | 1,220 |
-| 98 | **Chelsea Gray** 🔴 | 1,210 |
+| 98 | **Chelsea Gray** 🔴 +1 | 1,211 |
 | 99 | Kayla McBride | 1,207 |
 | 100 | DeMya Walker | 1,199 |
 | 101 | Latasha Byears | 1,190 |
@@ -417,7 +417,7 @@ _Last updated: 2026-05-24 00:38 UTC_
 | 191 | Shenise Johnson | 729 |
 | 192 | Sami Whitcomb | 726 |
 | 192 | Shekinna Stricklen | 726 |
-| 194 | **Kelsey Plum** 🔴 +1 | 722 |
+| 194 | **Kelsey Plum** 🔴 +2 | 723 |
 | 195 | Shakira Austin | 719 |
 | 196 | Olympia Scott | 711 |
 | 197 | Katie Mattera | 708 |
