@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-24T20:08:00+00:00",
+    "text": "Satou Sabally passed Layshia Clarendon for #150 all-time in points (career 2,169) \u2014 up from #151 entering today \u2014 (7:45 - 2nd \u2014 DAL @ NY)",
+    "kind": "rank_pass",
+    "player": "Satou Sabally",
+    "stat": "points",
+    "rank": 150,
+    "passed_players": [
+      "Layshia Clarendon"
+    ],
+    "new_total": 2169
+  },
+  {
     "ts": "2026-05-24T19:58:00+00:00",
     "text": "Sabrina Ionescu passed Katie Douglas for #36 all-time in assists (career 1,070) \u2014 up from #37 entering today \u2014 (2:04 - 1st \u2014 DAL @ NY)",
     "kind": "rank_pass",
@@ -3036,17 +3048,5 @@
       "Tanisha Wright"
     ],
     "new_total": 139
-  },
-  {
-    "ts": "2026-05-18T00:39:00+00:00",
-    "text": "Natasha Howard passed Nicole Powell for #109 all-time in assists (career 568) \u2014 up from #111 entering today \u2014 (8:11 - 4th \u2014 CHI @ MIN)",
-    "kind": "rank_pass",
-    "player": "Natasha Howard",
-    "stat": "assists",
-    "rank": 109,
-    "passed_players": [
-      "Nicole Powell"
-    ],
-    "new_total": 568
   }
 ]

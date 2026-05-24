@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-24 20:07 UTC_
+_Last updated: 2026-05-24 20:08 UTC_
 
 ## Contents
 
@@ -168,8 +168,8 @@ _Last updated: 2026-05-24 20:07 UTC_
 | 147 | **Jordin Canada** 🔴 +4 | 2,178 |
 | 148 | Ruthie Bolton | 2,175 |
 | 149 | Ann Wauters | 2,170 |
-| 150 | Layshia Clarendon | 2,168 |
-| 150 | **Satou Sabally** 🔴 +7 | 2,168 |
+| 150 | **Satou Sabally** 🔴 +8 | 2,169 |
+| 151 | Layshia Clarendon | 2,168 |
 | 152 | Murriel Page | 2,146 |
 | 153 | Marissa Coleman | 2,140 |
 | 154 | Tari Phillips | 2,134 |
@@ -464,7 +464,7 @@ _Last updated: 2026-05-24 20:07 UTC_
 | 33 | Renee Montgomery | 1,140 |
 | 34 | Swin Cash | 1,131 |
 | 35 | Lindsey Harding | 1,090 |
-| 36 | **Sabrina Ionescu** 🔴 +3 | 1,070 |
+| 36 | **Sabrina Ionescu** 🔴 +4 | 1,071 |
 | 37 | Katie Douglas | 1,069 |
 | 38 | Alana Beard | 1,061 |
 | 39 | Jackie Young | 1,060 |
@@ -881,7 +881,7 @@ _Last updated: 2026-05-24 20:07 UTC_
 | 40 | Epiphanny Prince | 429 |
 | 41 | Tanisha Wright | 427 |
 | 42 | Kayla McBride | 425 |
-| 43 | **Breanna Stewart** 🔴 | 415 |
+| 43 | **Breanna Stewart** 🔴 +1 | 416 |
 | 44 | Katie Smith | 408 |
 | 45 | Cappie Pondexter | 405 |
 | 46 | Nicole Powell | 401 |
@@ -1356,7 +1356,7 @@ _Last updated: 2026-05-24 20:07 UTC_
 | 103 | Wendy Palmer | 517 |
 | 105 | Tully Bevilaqua | 514 |
 | 106 | Jia Perkins | 513 |
-| 107 | **Arike Ogunbowale** 🔴 +1 | 510 |
+| 107 | **Arike Ogunbowale** 🔴 +2 | 511 |
 | 108 | Tamera Young | 501 |
 | 109 | **Jordin Canada** 🔴 | 496 |
 | 110 | Marina Mabrey | 494 |
