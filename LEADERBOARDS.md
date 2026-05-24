@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-24 01:55 UTC_
+_Last updated: 2026-05-24 01:56 UTC_
 
 ## Contents
 
@@ -247,7 +247,7 @@ _Last updated: 2026-05-24 01:55 UTC_
 | 21 | Crystal Langhorne | 2,454 |
 | 22 | Lauren Jackson | 2,444 |
 | 23 | Yolanda Griffith | 2,440 |
-| 24 | **Dearica Hamby** 🔴 +3 | 2,349 |
+| 24 | **Dearica Hamby** 🔴 +4 | 2,350 |
 | 25 | Tangela Smith | 2,328 |
 | 26 | Erika de Souza | 2,220 |
 | 27 | Natasha Howard | 2,218 |
@@ -454,7 +454,7 @@ _Last updated: 2026-05-24 01:55 UTC_
 | 23 | Kristi Toliver | 1,301 |
 | 24 | **Erica Wheeler** 🔴 +5 | 1,280 |
 | 25 | Katie Smith | 1,258 |
-| 26 | **Kelsey Plum** 🔴 +6 | 1,221 |
+| 26 | **Kelsey Plum** 🔴 +7 | 1,222 |
 | 27 | Odyssey Sims | 1,210 |
 | 28 | Vickie Johnson | 1,202 |
 | 29 | Leilani Mitchell | 1,197 |
@@ -1572,7 +1572,7 @@ _Last updated: 2026-05-24 01:55 UTC_
 | 115 | Coco Miller | 615 |
 | 116 | Brooke Wyckoff | 614 |
 | 117 | Svetlana Abrosimova | 613 |
-| 118 | **Chelsea Gray** 🔴 +1 | 610 |
+| 118 | **Chelsea Gray** 🔴 +2 | 611 |
 | 119 | Layshia Clarendon | 609 |
 | 120 | Odyssey Sims | 604 |
 | 120 | Tiffany Mitchell | 604 |
