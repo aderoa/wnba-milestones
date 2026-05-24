@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-24 20:08 UTC_
+_Last updated: 2026-05-24 20:09 UTC_
 
 ## Contents
 
@@ -57,7 +57,7 @@ _Last updated: 2026-05-24 20:08 UTC_
 | 36 | Elena Delle Donne | 4,706 |
 | 37 | Penny Taylor | 4,595 |
 | 38 | **Alyssa Thomas** 🔴 +10 | 4,564 |
-| 39 | **Arike Ogunbowale** 🔴 +3 | 4,515 |
+| 39 | **Arike Ogunbowale** 🔴 +6 | 4,518 |
 | 40 | Kristi Toliver | 4,474 |
 | 41 | Chelsea Gray | 4,469 |
 | 42 | Crystal Langhorne | 4,433 |
@@ -113,7 +113,7 @@ _Last updated: 2026-05-24 20:08 UTC_
 | 92 | Erica Wheeler | 3,078 |
 | 93 | Erika de Souza | 3,046 |
 | 94 | Shameka Christon | 3,039 |
-| 95 | **Sabrina Ionescu** 🔴 +5 | 3,035 |
+| 95 | **Sabrina Ionescu** 🔴 +8 | 3,038 |
 | 96 | Marie Ferdinand-Harris | 3,001 |
 | 97 | Emma Meesseman | 2,966 |
 | 98 | Marina Mabrey | 2,941 |
@@ -413,7 +413,7 @@ _Last updated: 2026-05-24 20:08 UTC_
 | 187 | Coco Miller | 750 |
 | 188 | Alex Montgomery | 735 |
 | 189 | Ashley Robinson | 734 |
-| 190 | **Arike Ogunbowale** 🔴 +1 | 732 |
+| 190 | **Arike Ogunbowale** 🔴 +2 | 733 |
 | 191 | Shenise Johnson | 729 |
 | 192 | Sami Whitcomb | 726 |
 | 192 | Shekinna Stricklen | 726 |
@@ -476,7 +476,7 @@ _Last updated: 2026-05-24 20:08 UTC_
 | 45 | Tamecka Dixon | 960 |
 | 46 | Kayla McBride | 952 |
 | 47 | Kara Lawson | 946 |
-| 48 | **Breanna Stewart** 🔴 +1 | 939 |
+| 48 | **Breanna Stewart** 🔴 +2 | 940 |
 | 49 | Deanna Nolan | 930 |
 | 50 | Kelly Miller | 927 |
 | 51 | DeLisha Milton-Jones | 921 |
@@ -1060,7 +1060,7 @@ _Last updated: 2026-05-24 20:08 UTC_
 | 13 | Kelsey Plum | 598 |
 | 14 | Kara Lawson | 583 |
 | 15 | Nicole Powell | 579 |
-| 16 | **Arike Ogunbowale** 🔴 +1 | 550 |
+| 16 | **Arike Ogunbowale** 🔴 +2 | 551 |
 | 17 | Ivory Latta | 536 |
 | 18 | Renee Montgomery | 532 |
 | 19 | Maya Moore | 530 |
@@ -1069,7 +1069,7 @@ _Last updated: 2026-05-24 20:08 UTC_
 | 22 | Leilani Mitchell | 508 |
 | 23 | Shekinna Stricklen | 468 |
 | 24 | Cappie Pondexter | 464 |
-| 25 | **Sabrina Ionescu** 🔴 | 460 |
+| 25 | **Sabrina Ionescu** 🔴 +1 | 461 |
 | 26 | **Breanna Stewart** 🔴 | 456 |
 | 27 | Marina Mabrey | 448 |
 | 28 | Tiffany Hayes | 447 |
