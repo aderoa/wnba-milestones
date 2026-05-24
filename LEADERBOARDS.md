@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-24 00:24 UTC_
+_Last updated: 2026-05-24 00:25 UTC_
 
 ## Contents
 
@@ -33,7 +33,7 @@ _Last updated: 2026-05-24 00:24 UTC_
 | 12 | Sylvia Fowles | 6,413 |
 | 13 | Lisa Leslie | 6,251 |
 | 14 | Breanna Stewart | 6,077 |
-| 15 | **Jewell Loyd** 🔴 +3 | 6,062 |
+| 15 | **Jewell Loyd** 🔴 +6 | 6,065 |
 | 16 | Lauren Jackson | 6,005 |
 | 16 | Seimone Augustus | 6,005 |
 | 18 | Brittney Griner | 5,983 |
@@ -64,7 +64,7 @@ _Last updated: 2026-05-24 00:24 UTC_
 | 43 | Crystal Langhorne | 4,433 |
 | 43 | Jia Perkins | 4,433 |
 | 45 | Courtney Vandersloot | 4,352 |
-| 46 | **Kelsey Plum** 🔴 +6 | 4,320 |
+| 46 | **Kelsey Plum** 🔴 +11 | 4,325 |
 | 47 | Sophia Young-Malcolm | 4,300 |
 | 48 | Plenette Pierson | 4,258 |
 | 49 | Monique Currie | 4,253 |
@@ -452,7 +452,7 @@ _Last updated: 2026-05-24 00:24 UTC_
 | 21 | Dawn Staley | 1,337 |
 | 22 | Teresa Weatherspoon | 1,333 |
 | 23 | Kristi Toliver | 1,301 |
-| 24 | **Erica Wheeler** 🔴 | 1,275 |
+| 24 | **Erica Wheeler** 🔴 +1 | 1,276 |
 | 25 | Katie Smith | 1,258 |
 | 26 | **Kelsey Plum** 🔴 | 1,215 |
 | 27 | Odyssey Sims | 1,210 |
@@ -895,9 +895,9 @@ _Last updated: 2026-05-24 00:24 UTC_
 | 54 | Monique Currie | 378 |
 | 54 | Tiffany Hayes | 378 |
 | 56 | Chamique Holdsclaw | 376 |
+| 57 | **Ariel Atkins** 🔴 +1 | 370 |
 | 57 | Mwadi Mabika | 370 |
-| 58 | **Ariel Atkins** 🔴 | 369 |
-| 58 | Jordin Canada | 369 |
+| 59 | Jordin Canada | 369 |
 | 60 | Brittney Sykes | 363 |
 | 61 | Lauren Jackson | 360 |
 | 61 | Tan White | 360 |
@@ -1053,11 +1053,11 @@ _Last updated: 2026-05-24 00:24 UTC_
 | 6 | Kayla McBride | 730 |
 | 7 | Katie Douglas | 723 |
 | 8 | Kelsey Mitchell | 679 |
-| 9 | **Jewell Loyd** 🔴 +1 | 674 |
+| 9 | **Jewell Loyd** 🔴 +2 | 675 |
 | 10 | DeWanna Bonner | 668 |
 | 11 | Kristi Toliver | 651 |
 | 12 | Tamika Catchings | 605 |
-| 13 | **Kelsey Plum** 🔴 +2 | 600 |
+| 13 | **Kelsey Plum** 🔴 +3 | 601 |
 | 14 | Kara Lawson | 583 |
 | 15 | Nicole Powell | 579 |
 | 16 | Arike Ogunbowale | 549 |
@@ -1271,7 +1271,7 @@ _Last updated: 2026-05-24 00:24 UTC_
 | 19 | Katie Smith | 935 |
 | 20 | Shannon Johnson | 934 |
 | 21 | Taj McWilliams-Franklin | 898 |
-| 22 | **Chelsea Gray** 🔴 | 888 |
+| 22 | **Chelsea Gray** 🔴 +1 | 889 |
 | 23 | Skylar Diggins | 884 |
 | 24 | Candice Dupree | 869 |
 | 25 | Alana Beard | 854 |
