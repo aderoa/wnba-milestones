@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-24 20:10 UTC_
+_Last updated: 2026-05-24 20:11 UTC_
 
 ## Contents
 
@@ -56,7 +56,7 @@ _Last updated: 2026-05-24 20:10 UTC_
 | 35 | Chamique Holdsclaw | 4,713 |
 | 36 | Elena Delle Donne | 4,706 |
 | 37 | Penny Taylor | 4,595 |
-| 38 | **Alyssa Thomas** 🔴 +12 | 4,566 |
+| 38 | **Alyssa Thomas** 🔴 +14 | 4,568 |
 | 39 | **Arike Ogunbowale** 🔴 +6 | 4,518 |
 | 40 | Kristi Toliver | 4,474 |
 | 41 | Chelsea Gray | 4,469 |
@@ -148,7 +148,7 @@ _Last updated: 2026-05-24 20:10 UTC_
 | 127 | Svetlana Abrosimova | 2,414 |
 | 128 | Anna DeForge | 2,413 |
 | 129 | DeMya Walker | 2,379 |
-| 130 | **Rhyne Howard** 🔴 +9 | 2,367 |
+| 130 | **Rhyne Howard** 🔴 +12 | 2,370 |
 | 131 | Alex Bentley | 2,350 |
 | 132 | Merlakia Jones | 2,308 |
 | 133 | Kia Vaughn | 2,288 |
@@ -165,7 +165,7 @@ _Last updated: 2026-05-24 20:10 UTC_
 | 144 | Sami Whitcomb | 2,211 |
 | 145 | Sophia Witherspoon | 2,210 |
 | 146 | Kia Nurse | 2,204 |
-| 147 | **Jordin Canada** 🔴 +4 | 2,178 |
+| 147 | **Jordin Canada** 🔴 +6 | 2,180 |
 | 148 | Ruthie Bolton | 2,175 |
 | 149 | Ann Wauters | 2,170 |
 | 150 | **Satou Sabally** 🔴 +8 | 2,169 |
@@ -459,7 +459,7 @@ _Last updated: 2026-05-24 20:10 UTC_
 | 28 | Vickie Johnson | 1,202 |
 | 29 | Leilani Mitchell | 1,197 |
 | 30 | **DeWanna Bonner** 🔴 | 1,183 |
-| 31 | **Jordin Canada** 🔴 +6 | 1,161 |
+| 31 | **Jordin Canada** 🔴 +7 | 1,162 |
 | 32 | Jewell Loyd | 1,141 |
 | 33 | Renee Montgomery | 1,140 |
 | 34 | Swin Cash | 1,131 |
@@ -1090,9 +1090,9 @@ _Last updated: 2026-05-24 20:10 UTC_
 | 43 | Briann January | 381 |
 | 44 | Jasmine Thomas | 376 |
 | 44 | Rachel Banham | 376 |
-| 46 | Allison Feaster | 372 |
-| 46 | Betty Lennox | 372 |
-| 46 | **Rhyne Howard** 🔴 +2 | 372 |
+| 46 | **Rhyne Howard** 🔴 +3 | 373 |
+| 47 | Allison Feaster | 372 |
+| 47 | Betty Lennox | 372 |
 | 49 | Epiphanny Prince | 368 |
 | 50 | **Jonquel Jones** 🔴 | 361 |
 | 51 | Kia Nurse | 358 |

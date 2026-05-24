@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-24 20:11 UTC
+
+- **Rhyne Howard** passed **Allison Feaster** and **Betty Lennox** for **#46** all-time in three-pointers (career 373) — up from #48 entering today — _7:46 - 3rd — PHX @ ATL_
+
 ## 2026-05-24 20:08 UTC
 
 - **Satou Sabally** passed **Layshia Clarendon** for **#150** all-time in points (career 2,169) — up from #151 entering today — _7:45 - 2nd — DAL @ NY_

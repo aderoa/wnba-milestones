@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-05-24T20:11:00+00:00",
+    "text": "Rhyne Howard passed Allison Feaster and Betty Lennox for #46 all-time in three-pointers (career 373) \u2014 up from #48 entering today \u2014 (7:46 - 3rd \u2014 PHX @ ATL)",
+    "kind": "rank_pass",
+    "player": "Rhyne Howard",
+    "stat": "three-pointers",
+    "rank": 46,
+    "passed_players": [
+      "Allison Feaster",
+      "Betty Lennox"
+    ],
+    "new_total": 373
+  },
+  {
     "ts": "2026-05-24T20:08:00+00:00",
     "text": "Satou Sabally passed Layshia Clarendon for #150 all-time in points (career 2,169) \u2014 up from #151 entering today \u2014 (7:45 - 2nd \u2014 DAL @ NY)",
     "kind": "rank_pass",
@@ -3035,18 +3048,5 @@
       "Deanna Nolan"
     ],
     "new_total": 389
-  },
-  {
-    "ts": "2026-05-18T00:46:00+00:00",
-    "text": "Dearica Hamby passed Loree Moore and Tanisha Wright for #157 all-time in three-pointers (career 139) \u2014 (2.5 - 3rd \u2014 TOR @ LA)",
-    "kind": "rank_pass",
-    "player": "Dearica Hamby",
-    "stat": "three-pointers",
-    "rank": 157,
-    "passed_players": [
-      "Loree Moore",
-      "Tanisha Wright"
-    ],
-    "new_total": 139
   }
 ]
