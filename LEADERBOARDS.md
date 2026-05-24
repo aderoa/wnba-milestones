@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-24 20:55 UTC_
+_Last updated: 2026-05-24 20:56 UTC_
 
 ## Contents
 
@@ -412,8 +412,8 @@ _Last updated: 2026-05-24 20:55 UTC_
 | 186 | Brooke Wyckoff | 751 |
 | 187 | Coco Miller | 750 |
 | 188 | Alex Montgomery | 735 |
+| 189 | **Arike Ogunbowale** 🔴 +3 | 734 |
 | 189 | Ashley Robinson | 734 |
-| 190 | **Arike Ogunbowale** 🔴 +2 | 733 |
 | 191 | Shenise Johnson | 729 |
 | 192 | Sami Whitcomb | 726 |
 | 192 | Shekinna Stricklen | 726 |
@@ -1584,8 +1584,8 @@ _Last updated: 2026-05-24 20:55 UTC_
 | 127 | Chiney Ogwumike | 580 |
 | 127 | Hamchetou Maiga-Ba | 580 |
 | 127 | Olympia Scott | 580 |
+| 130 | **Arike Ogunbowale** 🔴 +1 | 576 |
 | 130 | Ezi Magbegor | 576 |
-| 131 | **Arike Ogunbowale** 🔴 | 575 |
 | 132 | Le'coe Willingham | 571 |
 | 133 | Ashley Robinson | 567 |
 | 134 | Ivory Latta | 565 |
