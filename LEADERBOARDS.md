@@ -394,7 +394,7 @@ _Last updated: 2026-05-24 20:31 UTC_
 | 168 | Tierra Ruffin-Pratt | 799 |
 | 169 | Charlotte Smith | 794 |
 | 170 | Betnijah Laney-Hamilton | 792 |
-| 171 | **Naz Hillmon** 🔴 +2 | 790 |
+| 171 | **Naz Hillmon** 🔴 +3 | 791 |
 | 172 | Rhonda Mapp | 788 |
 | 173 | Mercedes Russell | 786 |
 | 174 | **Odyssey Sims** 🔴 | 780 |
@@ -895,7 +895,7 @@ _Last updated: 2026-05-24 20:31 UTC_
 | 54 | Monique Currie | 378 |
 | 54 | Tiffany Hayes | 378 |
 | 56 | Chamique Holdsclaw | 376 |
-| 57 | **Jordin Canada** 🔴 +2 | 371 |
+| 57 | **Jordin Canada** 🔴 +3 | 372 |
 | 58 | Mwadi Mabika | 370 |
 | 59 | Ariel Atkins | 369 |
 | 60 | Brittney Sykes | 362 |
