@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-24 01:37 UTC_
+_Last updated: 2026-05-24 01:38 UTC_
 
 ## Contents
 
@@ -348,7 +348,7 @@ _Last updated: 2026-05-24 01:37 UTC_
 | 122 | Nicole Ohlde | 1,040 |
 | 123 | Tamecka Dixon | 1,035 |
 | 124 | Kamila Vodichkova | 1,031 |
-| 125 | **Jackie Young** 🔴 +2 | 1,029 |
+| 125 | **Jackie Young** 🔴 +3 | 1,030 |
 | 126 | Jasmine Thomas | 1,027 |
 | 127 | Cathrine Kraayeveld | 1,013 |
 | 128 | Kelly Miller | 1,011 |
@@ -1512,9 +1512,9 @@ _Last updated: 2026-05-24 01:37 UTC_
 | 55 | Penny Taylor | 832 |
 | 56 | Dominique Canty | 831 |
 | 56 | Wendy Palmer | 831 |
-| 58 | **Dearica Hamby** 🔴 +2 | 813 |
-| 58 | Shannon Johnson | 813 |
-| 58 | Tully Bevilaqua | 813 |
+| 58 | **Dearica Hamby** 🔴 +3 | 814 |
+| 59 | Shannon Johnson | 813 |
+| 59 | Tully Bevilaqua | 813 |
 | 61 | Skylar Diggins | 800 |
 | 62 | Nykesha Sales | 796 |
 | 63 | Ebony Hoffman | 791 |
