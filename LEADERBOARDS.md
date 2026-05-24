@@ -32,7 +32,7 @@ _Last updated: 2026-05-24 21:31 UTC_
 | 11 | Katie Smith | 6,450 |
 | 12 | Sylvia Fowles | 6,413 |
 | 13 | Lisa Leslie | 6,251 |
-| 14 | **Breanna Stewart** 🔴 +12 | 6,089 |
+| 14 | **Breanna Stewart** 🔴 +14 | 6,091 |
 | 15 | Jewell Loyd | 6,059 |
 | 16 | Lauren Jackson | 6,005 |
 | 16 | Seimone Augustus | 6,005 |
@@ -569,7 +569,7 @@ _Last updated: 2026-05-24 21:31 UTC_
 | 138 | Sylvia Fowles | 461 |
 | 139 | Elizabeth Williams | 455 |
 | 140 | Sydney Colson | 454 |
-| 141 | **Satou Sabally** 🔴 +1 | 452 |
+| 141 | **Satou Sabally** 🔴 +2 | 453 |
 | 142 | Yolanda Griffith | 451 |
 | 143 | Elena Delle Donne | 450 |
 | 143 | Kristi Harrower | 450 |
