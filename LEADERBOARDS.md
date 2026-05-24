@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-24 19:59 UTC_
+_Last updated: 2026-05-24 20:01 UTC_
 
 ## Contents
 
@@ -370,7 +370,7 @@ _Last updated: 2026-05-24 19:59 UTC_
 | 144 | Merlakia Jones | 927 |
 | 145 | Nicky Anosike | 922 |
 | 146 | Janeth Arcain | 916 |
-| 147 | **Satou Sabally** 🔴 | 912 |
+| 147 | **Satou Sabally** 🔴 +1 | 913 |
 | 148 | Karima Christmas-Kelly | 908 |
 | 149 | Natalie Achonwa | 895 |
 | 150 | Temeka Johnson | 889 |
