@@ -1,5 +1,30 @@
 [
   {
+    "ts": "2026-05-24T00:57:00+00:00",
+    "text": "NaLyssa Smith passed Jasmine Thomas and Kayla Alexander for #141 all-time in blocks (career 92) \u2014 up from #143 entering today \u2014 (1:56 - 2nd \u2014 LA @ LV)",
+    "kind": "rank_pass",
+    "player": "NaLyssa Smith",
+    "stat": "blocks",
+    "rank": 141,
+    "passed_players": [
+      "Jasmine Thomas",
+      "Kayla Alexander"
+    ],
+    "new_total": 92
+  },
+  {
+    "ts": "2026-05-24T00:57:00+00:00",
+    "text": "Jackie Young passed Alex Bentley for #155 all-time in fouls (career 517) \u2014 up from #157 entering today \u2014 (1:56 - 2nd \u2014 LA @ LV)",
+    "kind": "rank_pass",
+    "player": "Jackie Young",
+    "stat": "fouls",
+    "rank": 155,
+    "passed_players": [
+      "Alex Bentley"
+    ],
+    "new_total": 517
+  },
+  {
     "ts": "2026-05-24T00:48:00+00:00",
     "text": "Erica Wheeler passed Angel Reese for #154 all-time in rebounds (career 862) \u2014 up from #155 entering today \u2014 (4:11 - 2nd \u2014 LA @ LV)",
     "kind": "rank_pass",
@@ -3019,35 +3044,5 @@
       "Marina Mabrey"
     ],
     "new_total": 526
-  },
-  {
-    "ts": "2026-05-17T19:49:00+00:00",
-    "text": "Stephanie Talbot passed Karima Christmas-Kelly, Kelsey Griffin, and Tianna Hawkins for #175 all-time in blocks (career 76) \u2014 up from #179 entering today \u2014 (1:17 - 4th \u2014 LV @ ATL)",
-    "kind": "rank_pass",
-    "player": "Stephanie Talbot",
-    "stat": "blocks",
-    "rank": 175,
-    "passed_players": [
-      "Karima Christmas-Kelly",
-      "Kelsey Griffin",
-      "Tianna Hawkins"
-    ],
-    "new_total": 76
-  },
-  {
-    "ts": "2026-05-17T19:33:00+00:00",
-    "text": "Jackie Young passed Awak Kuier, Crystal Robinson, Queen Egbo, Riquna Williams, and Sabrina Ionescu for #194 all-time in blocks (career 66) \u2014 up from #199 entering today \u2014 (5:48 - 4th \u2014 LV @ ATL)",
-    "kind": "rank_pass",
-    "player": "Jackie Young",
-    "stat": "blocks",
-    "rank": 194,
-    "passed_players": [
-      "Awak Kuier",
-      "Crystal Robinson",
-      "Queen Egbo",
-      "Riquna Williams",
-      "Sabrina Ionescu"
-    ],
-    "new_total": 66
   }
 ]

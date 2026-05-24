@@ -2,6 +2,11 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-24 00:57 UTC
+
+- **NaLyssa Smith** passed **Jasmine Thomas** and **Kayla Alexander** for **#141** all-time in blocks (career 92) — up from #143 entering today — _1:56 - 2nd — LA @ LV_
+- **Jackie Young** passed **Alex Bentley** for **#155** all-time in fouls (career 517) — up from #157 entering today — _1:56 - 2nd — LA @ LV_
+
 ## 2026-05-24 00:48 UTC
 
 - **Erica Wheeler** passed **Angel Reese** for **#154** all-time in rebounds (career 862) — up from #155 entering today — _4:11 - 2nd — LA @ LV_
