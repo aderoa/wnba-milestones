@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-24 21:16 UTC_
+_Last updated: 2026-05-24 21:18 UTC_
 
 ## Contents
 
@@ -73,7 +73,7 @@ _Last updated: 2026-05-24 21:16 UTC_
 | 52 | Yolanda Griffith | 4,224 |
 | 53 | Kahleah Copper | 4,174 |
 | 54 | Dearica Hamby | 4,158 |
-| 55 | **Jonquel Jones** 🔴 +8 | 4,140 |
+| 55 | **Jonquel Jones** 🔴 +10 | 4,142 |
 | 56 | Rebekkah Brunson | 4,133 |
 | 57 | Courtney Williams | 4,124 |
 | 58 | Asjha Jones | 3,986 |
@@ -236,13 +236,13 @@ _Last updated: 2026-05-24 21:16 UTC_
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | Alyssa Thomas | 2,782 |
-| 13 | **Jonquel Jones** 🔴 +5 | 2,604 |
+| 13 | **Jonquel Jones** 🔴 +6 | 2,605 |
 | 14 | Sancho Lyttle | 2,596 |
 | 15 | DeLisha Milton-Jones | 2,574 |
 | 16 | Brittney Griner | 2,537 |
 | 17 | A'ja Wilson | 2,522 |
 | 18 | Swin Cash | 2,521 |
-| 19 | **Breanna Stewart** 🔴 +7 | 2,517 |
+| 19 | **Breanna Stewart** 🔴 +8 | 2,518 |
 | 20 | Michelle Snow | 2,476 |
 | 21 | Crystal Langhorne | 2,454 |
 | 22 | Lauren Jackson | 2,444 |
