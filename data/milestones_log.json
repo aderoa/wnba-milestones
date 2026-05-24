@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-24T21:07:00+00:00",
+    "text": "Jonquel Jones passed Candice Dupree for #44 all-time in fouls (career 877) \u2014 up from #45 entering today \u2014 (11.5 - 3rd \u2014 DAL @ NY)",
+    "kind": "rank_pass",
+    "player": "Jonquel Jones",
+    "stat": "fouls",
+    "rank": 44,
+    "passed_players": [
+      "Candice Dupree"
+    ],
+    "new_total": 877
+  },
+  {
     "ts": "2026-05-24T20:55:00+00:00",
     "text": "Satou Sabally passed Ruthie Bolton and Jordin Canada for #147 all-time in points (career 2,176) \u2014 up from #151 entering today \u2014 (6:11 - 3rd \u2014 DAL @ NY)",
     "kind": "rank_pass",
@@ -3030,18 +3042,5 @@
       "Tully Bevilaqua"
     ],
     "new_total": 814
-  },
-  {
-    "ts": "2026-05-18T14:28:00+00:00",
-    "text": "Erica Wheeler passed Natasha Cloud and Tammy Sutton-Brown for #53 all-time in turnovers (career 674) \u2014 up from #55 entering today \u2014 (Final \u2014 TOR @ LA)",
-    "kind": "rank_pass",
-    "player": "Erica Wheeler",
-    "stat": "turnovers",
-    "rank": 53,
-    "passed_players": [
-      "Natasha Cloud",
-      "Tammy Sutton-Brown"
-    ],
-    "new_total": 674
   }
 ]

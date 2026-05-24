@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-24 21:06 UTC_
+_Last updated: 2026-05-24 21:07 UTC_
 
 ## Contents
 
@@ -166,7 +166,7 @@ _Last updated: 2026-05-24 21:06 UTC_
 | 145 | Sophia Witherspoon | 2,210 |
 | 146 | Kia Nurse | 2,204 |
 | 147 | **Jordin Canada** 🔴 +11 | 2,185 |
-| 148 | **Satou Sabally** 🔴 +18 | 2,179 |
+| 148 | **Satou Sabally** 🔴 +20 | 2,181 |
 | 149 | Ruthie Bolton | 2,175 |
 | 150 | Ann Wauters | 2,170 |
 | 151 | Layshia Clarendon | 2,168 |
@@ -236,13 +236,13 @@ _Last updated: 2026-05-24 21:06 UTC_
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | **Alyssa Thomas** 🔴 +12 | 2,782 |
-| 13 | **Jonquel Jones** 🔴 +3 | 2,602 |
+| 13 | **Jonquel Jones** 🔴 +4 | 2,603 |
 | 14 | Sancho Lyttle | 2,596 |
 | 15 | DeLisha Milton-Jones | 2,574 |
 | 16 | Brittney Griner | 2,537 |
 | 17 | A'ja Wilson | 2,522 |
 | 18 | Swin Cash | 2,521 |
-| 19 | **Breanna Stewart** 🔴 +7 | 2,517 |
+| 19 | **Breanna Stewart** 🔴 +6 | 2,516 |
 | 20 | Michelle Snow | 2,476 |
 | 21 | Crystal Langhorne | 2,454 |
 | 22 | Lauren Jackson | 2,444 |
@@ -1498,8 +1498,8 @@ _Last updated: 2026-05-24 21:06 UTC_
 | 41 | **DeWanna Bonner** 🔴 | 899 |
 | 42 | Alysha Clark | 887 |
 | 43 | DeMya Walker | 882 |
-| 44 | Candice Dupree | 876 |
-| 44 | **Jonquel Jones** 🔴 +1 | 876 |
+| 44 | **Jonquel Jones** 🔴 +2 | 877 |
+| 45 | Candice Dupree | 876 |
 | 46 | Murriel Page | 872 |
 | 47 | Cappie Pondexter | 869 |
 | 48 | Erika de Souza | 858 |
