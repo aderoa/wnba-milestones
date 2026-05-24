@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-24 00:09 UTC_
+_Last updated: 2026-05-24 00:10 UTC_
 
 ## Contents
 
@@ -37,7 +37,7 @@ _Last updated: 2026-05-24 00:09 UTC_
 | 16 | Lauren Jackson | 6,005 |
 | 16 | Seimone Augustus | 6,005 |
 | 18 | Brittney Griner | 5,983 |
-| 19 | **A'ja Wilson** 🔴 | 5,844 |
+| 19 | **A'ja Wilson** 🔴 +4 | 5,848 |
 | 20 | Becky Hammon | 5,816 |
 | 21 | Angel McCoughtry | 5,797 |
 | 22 | DeLisha Milton-Jones | 5,571 |
@@ -64,7 +64,7 @@ _Last updated: 2026-05-24 00:09 UTC_
 | 43 | Crystal Langhorne | 4,433 |
 | 43 | Jia Perkins | 4,433 |
 | 45 | Courtney Vandersloot | 4,352 |
-| 46 | **Kelsey Plum** 🔴 | 4,314 |
+| 46 | **Kelsey Plum** 🔴 +3 | 4,317 |
 | 47 | Sophia Young-Malcolm | 4,300 |
 | 48 | Plenette Pierson | 4,258 |
 | 49 | Monique Currie | 4,253 |
@@ -98,7 +98,7 @@ _Last updated: 2026-05-24 00:09 UTC_
 | 77 | Ivory Latta | 3,447 |
 | 78 | Nicole Powell | 3,407 |
 | 79 | Epiphanny Prince | 3,381 |
-| 80 | **Ariel Atkins** 🔴 | 3,371 |
+| 80 | **Ariel Atkins** 🔴 +2 | 3,373 |
 | 81 | Michelle Snow | 3,361 |
 | 82 | Tamika Whitmore | 3,359 |
 | 83 | Sheri Sam | 3,353 |
@@ -240,7 +240,7 @@ _Last updated: 2026-05-24 00:09 UTC_
 | 14 | Sancho Lyttle | 2,596 |
 | 15 | DeLisha Milton-Jones | 2,574 |
 | 16 | Brittney Griner | 2,537 |
-| 17 | **A'ja Wilson** 🔴 | 2,522 |
+| 17 | **A'ja Wilson** 🔴 +1 | 2,523 |
 | 18 | Swin Cash | 2,521 |
 | 19 | Breanna Stewart | 2,510 |
 | 20 | Michelle Snow | 2,476 |
@@ -434,7 +434,7 @@ _Last updated: 2026-05-24 00:09 UTC_
 | 3 | Ticha Penicheiro | 2,588 |
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
-| 6 | **Chelsea Gray** 🔴 | 1,903 |
+| 6 | **Chelsea Gray** 🔴 +1 | 1,904 |
 | 7 | Alyssa Thomas | 1,854 |
 | 8 | Skylar Diggins | 1,791 |
 | 9 | Natasha Cloud | 1,748 |
@@ -506,8 +506,8 @@ _Last updated: 2026-05-24 00:09 UTC_
 | 75 | Monique Currie | 740 |
 | 76 | Allisha Gray | 734 |
 | 77 | Elaine Powell | 728 |
-| 78 | Chamique Holdsclaw | 698 |
-| 79 | **Dearica Hamby** 🔴 | 697 |
+| 78 | **Dearica Hamby** 🔴 +2 | 699 |
+| 79 | Chamique Holdsclaw | 698 |
 | 80 | Shavonte Zellous | 693 |
 | 81 | Allie Quigley | 690 |
 | 82 | Stefanie Dolson | 688 |
@@ -908,7 +908,7 @@ _Last updated: 2026-05-24 00:09 UTC_
 | 67 | Vicky Bullett | 353 |
 | 68 | Svetlana Abrosimova | 352 |
 | 69 | Allisha Gray | 351 |
-| 70 | **Erica Wheeler** 🔴 | 349 |
+| 70 | **Erica Wheeler** 🔴 +1 | 350 |
 | 71 | Janeth Arcain | 346 |
 | 72 | Helen Darling | 343 |
 | 72 | Natasha Cloud | 343 |
@@ -1057,7 +1057,7 @@ _Last updated: 2026-05-24 00:09 UTC_
 | 10 | DeWanna Bonner | 668 |
 | 11 | Kristi Toliver | 651 |
 | 12 | Tamika Catchings | 605 |
-| 13 | **Kelsey Plum** 🔴 | 598 |
+| 13 | **Kelsey Plum** 🔴 +1 | 599 |
 | 14 | Kara Lawson | 583 |
 | 15 | Nicole Powell | 579 |
 | 16 | Arike Ogunbowale | 549 |
