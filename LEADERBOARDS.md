@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-24 19:49 UTC_
+_Last updated: 2026-05-24 19:50 UTC_
 
 ## Contents
 
@@ -379,7 +379,7 @@ _Last updated: 2026-05-24 19:49 UTC_
 | 152 | Shameka Christon | 867 |
 | 154 | Krystal Thomas | 862 |
 | 155 | Erica Wheeler | 858 |
-| 156 | **Alanna Smith** 🔴 | 847 |
+| 156 | **Alanna Smith** 🔴 +1 | 848 |
 | 157 | Leilani Mitchell | 845 |
 | 158 | **Jessica Shepard** 🔴 | 836 |
 | 159 | Essence Carson | 833 |
@@ -435,7 +435,7 @@ _Last updated: 2026-05-24 19:49 UTC_
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
 | 6 | Chelsea Gray | 1,903 |
-| 7 | **Alyssa Thomas** 🔴 +4 | 1,858 |
+| 7 | **Alyssa Thomas** 🔴 +5 | 1,859 |
 | 8 | Skylar Diggins | 1,785 |
 | 9 | Natasha Cloud | 1,747 |
 | 10 | Becky Hammon | 1,705 |
@@ -455,7 +455,7 @@ _Last updated: 2026-05-24 19:49 UTC_
 | 24 | Erica Wheeler | 1,275 |
 | 25 | Katie Smith | 1,258 |
 | 26 | Kelsey Plum | 1,215 |
-| 27 | **Odyssey Sims** 🔴 | 1,210 |
+| 27 | **Odyssey Sims** 🔴 +1 | 1,211 |
 | 28 | Vickie Johnson | 1,202 |
 | 29 | Leilani Mitchell | 1,197 |
 | 30 | **DeWanna Bonner** 🔴 | 1,183 |
