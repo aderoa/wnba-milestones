@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-24 20:17 UTC_
+_Last updated: 2026-05-24 20:18 UTC_
 
 ## Contents
 
@@ -235,14 +235,14 @@ _Last updated: 2026-05-24 20:17 UTC_
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
-| 12 | **Alyssa Thomas** 🔴 +6 | 2,776 |
+| 12 | **Alyssa Thomas** 🔴 +7 | 2,777 |
 | 13 | **Jonquel Jones** 🔴 +3 | 2,602 |
 | 14 | Sancho Lyttle | 2,596 |
 | 15 | DeLisha Milton-Jones | 2,574 |
 | 16 | Brittney Griner | 2,537 |
 | 17 | A'ja Wilson | 2,522 |
 | 18 | Swin Cash | 2,521 |
-| 19 | **Breanna Stewart** 🔴 +1 | 2,511 |
+| 19 | **Breanna Stewart** 🔴 +2 | 2,512 |
 | 20 | Michelle Snow | 2,476 |
 | 21 | Crystal Langhorne | 2,454 |
 | 22 | Lauren Jackson | 2,444 |
@@ -895,8 +895,8 @@ _Last updated: 2026-05-24 20:17 UTC_
 | 54 | Monique Currie | 378 |
 | 54 | Tiffany Hayes | 378 |
 | 56 | Chamique Holdsclaw | 376 |
-| 57 | **Jordin Canada** 🔴 +1 | 370 |
-| 57 | Mwadi Mabika | 370 |
+| 57 | **Jordin Canada** 🔴 +2 | 371 |
+| 58 | Mwadi Mabika | 370 |
 | 59 | Ariel Atkins | 369 |
 | 60 | Brittney Sykes | 362 |
 | 61 | Lauren Jackson | 360 |
@@ -989,11 +989,11 @@ _Last updated: 2026-05-24 20:17 UTC_
 | 148 | Shenise Johnson | 217 |
 | 149 | Adrian Williams-Strong | 216 |
 | 149 | Moriah Jefferson | 216 |
-| 149 | **Rhyne Howard** 🔴 +2 | 216 |
-| 152 | Asjha Jones | 215 |
-| 152 | Candice Wiggins | 215 |
-| 152 | Cheyenne Parker-Tyus | 215 |
-| 152 | Elena Baranova | 215 |
+| 151 | Asjha Jones | 215 |
+| 151 | Candice Wiggins | 215 |
+| 151 | Cheyenne Parker-Tyus | 215 |
+| 151 | Elena Baranova | 215 |
+| 151 | **Rhyne Howard** 🔴 +1 | 215 |
 | 156 | **Kahleah Copper** 🔴 | 213 |
 | 156 | Shekinna Stricklen | 213 |
 | 158 | Nikki Teasley | 211 |
@@ -1263,7 +1263,7 @@ _Last updated: 2026-05-24 20:17 UTC_
 | 11 | Tamika Catchings | 1,041 |
 | 12 | Tina Charles | 1,040 |
 | 13 | Lindsay Whalen | 1,002 |
-| 14 | **Alyssa Thomas** 🔴 | 980 |
+| 14 | **Alyssa Thomas** 🔴 +1 | 981 |
 | 15 | Sylvia Fowles | 961 |
 | 16 | Tanisha Wright | 954 |
 | 17 | Angel McCoughtry | 949 |
