@@ -202,8 +202,8 @@ _Last updated: 2026-05-24 22:38 UTC_
 | 181 | Charde Houston | 1,797 |
 | 182 | Rachel Banham | 1,788 |
 | 183 | Kamila Vodichkova | 1,767 |
-| 184 | Tully Bevilaqua | 1,763 |
-| 185 | **Natisha Hiedeman** 🔴 +10 | 1,761 |
+| 184 | **Natisha Hiedeman** 🔴 +13 | 1,764 |
+| 185 | Tully Bevilaqua | 1,763 |
 | 186 | Sandy Brondello | 1,759 |
 | 187 | Sugar Rodgers | 1,733 |
 | 188 | Moriah Jefferson | 1,722 |
@@ -1118,9 +1118,9 @@ _Last updated: 2026-05-24 22:38 UTC_
 | 71 | Nikki Teasley | 304 |
 | 72 | Vickie Johnson | 295 |
 | 73 | Seimone Augustus | 293 |
-| 74 | Candice Wiggins | 290 |
-| 74 | **Natisha Hiedeman** 🔴 +2 | 290 |
-| 74 | Tully Bevilaqua | 290 |
+| 74 | **Natisha Hiedeman** 🔴 +3 | 291 |
+| 75 | Candice Wiggins | 290 |
+| 75 | Tully Bevilaqua | 290 |
 | 77 | Alana Beard | 288 |
 | 78 | Monique Currie | 284 |
 | 79 | Kayla Thornton | 276 |
