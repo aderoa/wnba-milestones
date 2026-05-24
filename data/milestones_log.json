@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-24T01:59:00+00:00",
+    "text": "Ariel Atkins passed Tully Bevilaqua for #183 all-time in rebounds (career 768) \u2014 up from #184 entering today \u2014 (6:22 - 4th \u2014 LA @ LV)",
+    "kind": "rank_pass",
+    "player": "Ariel Atkins",
+    "stat": "rebounds",
+    "rank": 183,
+    "passed_players": [
+      "Tully Bevilaqua"
+    ],
+    "new_total": 768
+  },
+  {
     "ts": "2026-05-24T01:50:00+00:00",
     "text": "Erica Wheeler passed Krystal Thomas for #153 all-time in rebounds (career 864) \u2014 up from #155 entering today \u2014 (9:10 - 4th \u2014 LA @ LV)",
     "kind": "rank_pass",
@@ -3032,14 +3044,5 @@
       "Isabelle Harrison"
     ],
     "new_total": 96
-  },
-  {
-    "ts": "2026-05-17T23:44:00+00:00",
-    "text": "Sophie Cunningham reached 200 career turnovers (now 200) \u2014 (1:18 - 3rd \u2014 SEA @ IND)",
-    "kind": "round",
-    "player": "Sophie Cunningham",
-    "stat": "turnovers",
-    "value": 200,
-    "new_total": 200
   }
 ]
