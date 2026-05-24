@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-24 23:16 UTC_
+_Last updated: 2026-05-24 23:17 UTC_
 
 ## Contents
 
@@ -201,7 +201,7 @@ _Last updated: 2026-05-24 23:16 UTC_
 | 180 | Danielle Adams | 1,820 |
 | 181 | Charde Houston | 1,797 |
 | 182 | Rachel Banham | 1,788 |
-| 183 | **Natisha Hiedeman** 🔴 +20 | 1,771 |
+| 183 | **Natisha Hiedeman** 🔴 +21 | 1,772 |
 | 184 | Kamila Vodichkova | 1,767 |
 | 185 | Tully Bevilaqua | 1,763 |
 | 186 | Sandy Brondello | 1,759 |
