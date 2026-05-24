@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-24 20:55 UTC
+
+- **Satou Sabally** passed **Ruthie Bolton** and **Jordin Canada** for **#147** all-time in points (career 2,176) — up from #151 entering today — _6:11 - 3rd — DAL @ NY_
+
 ## 2026-05-24 20:52 UTC
 
 - **Jordin Canada** reached **600** career rebounds (now 600) — _2:59 - 4th — PHX @ ATL_

@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-05-24T20:55:00+00:00",
+    "text": "Satou Sabally passed Ruthie Bolton and Jordin Canada for #147 all-time in points (career 2,176) \u2014 up from #151 entering today \u2014 (6:11 - 3rd \u2014 DAL @ NY)",
+    "kind": "rank_pass",
+    "player": "Satou Sabally",
+    "stat": "points",
+    "rank": 147,
+    "passed_players": [
+      "Ruthie Bolton",
+      "Jordin Canada"
+    ],
+    "new_total": 2176
+  },
+  {
     "ts": "2026-05-24T20:52:00+00:00",
     "text": "Jordin Canada reached 600 career rebounds (now 600) \u2014 (2:59 - 4th \u2014 PHX @ ATL)",
     "kind": "round",
@@ -3030,18 +3043,5 @@
       "Tammy Sutton-Brown"
     ],
     "new_total": 674
-  },
-  {
-    "ts": "2026-05-18T14:28:00+00:00",
-    "text": "Kelsey Plum passed Kelly Miller and Brittney Sykes for #95 all-time in fouls (career 677) \u2014 up from #97 entering today \u2014 (Final \u2014 TOR @ LA)",
-    "kind": "rank_pass",
-    "player": "Kelsey Plum",
-    "stat": "fouls",
-    "rank": 95,
-    "passed_players": [
-      "Kelly Miller",
-      "Brittney Sykes"
-    ],
-    "new_total": 677
   }
 ]

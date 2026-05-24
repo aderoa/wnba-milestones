@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-24 20:54 UTC_
+_Last updated: 2026-05-24 20:55 UTC_
 
 ## Contents
 
@@ -68,7 +68,7 @@ _Last updated: 2026-05-24 20:54 UTC_
 | 47 | Sophia Young-Malcolm | 4,300 |
 | 48 | Plenette Pierson | 4,258 |
 | 49 | Monique Currie | 4,253 |
-| 50 | **Allisha Gray** 🔴 +14 | 4,246 |
+| 50 | **Allisha Gray** 🔴 +16 | 4,248 |
 | 51 | Vickie Johnson | 4,230 |
 | 52 | Yolanda Griffith | 4,224 |
 | 53 | **Kahleah Copper** 🔴 +15 | 4,169 |
@@ -166,8 +166,8 @@ _Last updated: 2026-05-24 20:54 UTC_
 | 145 | Sophia Witherspoon | 2,210 |
 | 146 | Kia Nurse | 2,204 |
 | 147 | **Jordin Canada** 🔴 +8 | 2,182 |
-| 148 | Ruthie Bolton | 2,175 |
-| 149 | **Satou Sabally** 🔴 +13 | 2,174 |
+| 148 | **Satou Sabally** 🔴 +15 | 2,176 |
+| 149 | Ruthie Bolton | 2,175 |
 | 150 | Ann Wauters | 2,170 |
 | 151 | Layshia Clarendon | 2,168 |
 | 152 | Murriel Page | 2,146 |
@@ -381,7 +381,7 @@ _Last updated: 2026-05-24 20:54 UTC_
 | 155 | Erica Wheeler | 858 |
 | 156 | **Alanna Smith** 🔴 +2 | 849 |
 | 157 | Leilani Mitchell | 845 |
-| 158 | **Jessica Shepard** 🔴 +5 | 841 |
+| 158 | **Jessica Shepard** 🔴 +6 | 842 |
 | 159 | Essence Carson | 833 |
 | 160 | Kristi Toliver | 829 |
 | 161 | Marie Ferdinand-Harris | 828 |
@@ -459,7 +459,7 @@ _Last updated: 2026-05-24 20:54 UTC_
 | 28 | Vickie Johnson | 1,202 |
 | 29 | Leilani Mitchell | 1,197 |
 | 30 | **DeWanna Bonner** 🔴 +1 | 1,184 |
-| 31 | **Jordin Canada** 🔴 +12 | 1,167 |
+| 31 | **Jordin Canada** 🔴 +13 | 1,168 |
 | 32 | Jewell Loyd | 1,141 |
 | 33 | Renee Montgomery | 1,140 |
 | 34 | Swin Cash | 1,131 |
@@ -486,7 +486,7 @@ _Last updated: 2026-05-24 20:54 UTC_
 | 54 | Seimone Augustus | 911 |
 | 56 | Nneka Ogwumike | 904 |
 | 57 | Candice Dupree | 902 |
-| 58 | **Arike Ogunbowale** 🔴 +2 | 898 |
+| 58 | **Arike Ogunbowale** 🔴 +3 | 899 |
 | 59 | Maya Moore | 896 |
 | 60 | Ivory Latta | 885 |
 | 61 | Helen Darling | 882 |
