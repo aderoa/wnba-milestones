@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-24 20:46 UTC_
+_Last updated: 2026-05-24 20:47 UTC_
 
 ## Contents
 
@@ -21,7 +21,7 @@ _Last updated: 2026-05-24 20:46 UTC_
 |-----:|--------|------:|
 | 1 | Diana Taurasi | 10,608 |
 | 2 | Tina Charles | 8,396 |
-| 3 | **DeWanna Bonner** 🔴 +2 | 7,849 |
+| 3 | **DeWanna Bonner** 🔴 +4 | 7,851 |
 | 4 | Tina Thompson | 7,470 |
 | 5 | Nneka Ogwumike | 7,371 |
 | 5 | Tamika Catchings | 7,371 |
@@ -459,7 +459,7 @@ _Last updated: 2026-05-24 20:46 UTC_
 | 28 | Vickie Johnson | 1,202 |
 | 29 | Leilani Mitchell | 1,197 |
 | 30 | **DeWanna Bonner** 🔴 +1 | 1,184 |
-| 31 | **Jordin Canada** 🔴 +9 | 1,164 |
+| 31 | **Jordin Canada** 🔴 +10 | 1,165 |
 | 32 | Jewell Loyd | 1,141 |
 | 33 | Renee Montgomery | 1,140 |
 | 34 | Swin Cash | 1,131 |
@@ -845,8 +845,8 @@ _Last updated: 2026-05-24 20:46 UTC_
 | 4 | Alana Beard | 710 |
 | 5 | Nneka Ogwumike | 673 |
 | 6 | Sheryl Swoopes | 657 |
-| 7 | **DeWanna Bonner** 🔴 +1 | 634 |
-| 7 | Jia Perkins | 634 |
+| 7 | **DeWanna Bonner** 🔴 +2 | 635 |
+| 8 | Jia Perkins | 634 |
 | 9 | Sancho Lyttle | 630 |
 | 10 | Angel McCoughtry | 627 |
 | 11 | Katie Douglas | 623 |
@@ -1358,7 +1358,7 @@ _Last updated: 2026-05-24 20:46 UTC_
 | 106 | Jia Perkins | 513 |
 | 107 | **Arike Ogunbowale** 🔴 +2 | 511 |
 | 108 | Tamera Young | 501 |
-| 109 | **Jordin Canada** 🔴 | 496 |
+| 109 | **Jordin Canada** 🔴 +1 | 497 |
 | 110 | Marina Mabrey | 494 |
 | 111 | Nikki Teasley | 493 |
 | 111 | Tari Phillips | 493 |
