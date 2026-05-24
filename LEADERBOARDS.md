@@ -242,7 +242,7 @@ _Last updated: 2026-05-24 21:13 UTC_
 | 16 | Brittney Griner | 2,537 |
 | 17 | A'ja Wilson | 2,522 |
 | 18 | Swin Cash | 2,521 |
-| 19 | **Breanna Stewart** 🔴 +6 | 2,516 |
+| 19 | **Breanna Stewart** 🔴 +7 | 2,517 |
 | 20 | Michelle Snow | 2,476 |
 | 21 | Crystal Langhorne | 2,454 |
 | 22 | Lauren Jackson | 2,444 |
@@ -486,7 +486,7 @@ _Last updated: 2026-05-24 21:13 UTC_
 | 54 | Seimone Augustus | 911 |
 | 56 | Nneka Ogwumike | 904 |
 | 57 | Candice Dupree | 902 |
-| 58 | **Arike Ogunbowale** 🔴 +4 | 900 |
+| 58 | **Arike Ogunbowale** 🔴 +5 | 901 |
 | 59 | Maya Moore | 896 |
 | 60 | Ivory Latta | 885 |
 | 61 | Helen Darling | 882 |
