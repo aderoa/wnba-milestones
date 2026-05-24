@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-24 20:25 UTC_
+_Last updated: 2026-05-24 20:26 UTC_
 
 ## Contents
 
@@ -21,7 +21,7 @@ _Last updated: 2026-05-24 20:25 UTC_
 |-----:|--------|------:|
 | 1 | Diana Taurasi | 10,608 |
 | 2 | Tina Charles | 8,396 |
-| 3 | **DeWanna Bonner** 🔴 | 7,847 |
+| 3 | **DeWanna Bonner** 🔴 +2 | 7,849 |
 | 4 | Tina Thompson | 7,470 |
 | 5 | Nneka Ogwumike | 7,371 |
 | 5 | Tamika Catchings | 7,371 |
@@ -57,7 +57,7 @@ _Last updated: 2026-05-24 20:25 UTC_
 | 36 | Elena Delle Donne | 4,706 |
 | 37 | Penny Taylor | 4,595 |
 | 38 | **Alyssa Thomas** 🔴 +14 | 4,568 |
-| 39 | **Arike Ogunbowale** 🔴 +7 | 4,519 |
+| 39 | **Arike Ogunbowale** 🔴 +10 | 4,522 |
 | 40 | Kristi Toliver | 4,474 |
 | 41 | Chelsea Gray | 4,469 |
 | 42 | Crystal Langhorne | 4,433 |
@@ -231,11 +231,11 @@ _Last updated: 2026-05-24 20:25 UTC_
 | 5 | Tamika Catchings | 3,313 |
 | 6 | Lisa Leslie | 3,303 |
 | 7 | Nneka Ogwumike | 3,295 |
-| 8 | **DeWanna Bonner** 🔴 +1 | 3,233 |
+| 8 | **DeWanna Bonner** 🔴 +2 | 3,234 |
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
-| 12 | **Alyssa Thomas** 🔴 +9 | 2,779 |
+| 12 | **Alyssa Thomas** 🔴 +10 | 2,780 |
 | 13 | **Jonquel Jones** 🔴 +3 | 2,602 |
 | 14 | Sancho Lyttle | 2,596 |
 | 15 | DeLisha Milton-Jones | 2,574 |
@@ -1060,7 +1060,7 @@ _Last updated: 2026-05-24 20:25 UTC_
 | 13 | Kelsey Plum | 598 |
 | 14 | Kara Lawson | 583 |
 | 15 | Nicole Powell | 579 |
-| 16 | **Arike Ogunbowale** 🔴 +2 | 551 |
+| 16 | **Arike Ogunbowale** 🔴 +3 | 552 |
 | 17 | Ivory Latta | 536 |
 | 18 | Renee Montgomery | 532 |
 | 19 | Maya Moore | 530 |
@@ -1318,7 +1318,7 @@ _Last updated: 2026-05-24 20:25 UTC_
 | 66 | Kayla McBride | 630 |
 | 67 | Kelsey Plum | 624 |
 | 68 | **Odyssey Sims** 🔴 | 622 |
-| 69 | **Jonquel Jones** 🔴 | 617 |
+| 69 | **Jonquel Jones** 🔴 +1 | 618 |
 | 70 | Rebekkah Brunson | 615 |
 | 71 | Seimone Augustus | 613 |
 | 72 | Tiffany Hayes | 605 |
