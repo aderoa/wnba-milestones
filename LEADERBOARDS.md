@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-24 01:49 UTC_
+_Last updated: 2026-05-24 01:50 UTC_
 
 ## Contents
 
@@ -64,7 +64,7 @@ _Last updated: 2026-05-24 01:49 UTC_
 | 43 | Crystal Langhorne | 4,433 |
 | 43 | Jia Perkins | 4,433 |
 | 45 | Courtney Vandersloot | 4,352 |
-| 46 | **Kelsey Plum** 🔴 +28 | 4,342 |
+| 46 | **Kelsey Plum** 🔴 +29 | 4,343 |
 | 47 | Sophia Young-Malcolm | 4,300 |
 | 48 | Plenette Pierson | 4,258 |
 | 49 | Monique Currie | 4,253 |
@@ -376,8 +376,8 @@ _Last updated: 2026-05-24 01:49 UTC_
 | 150 | Temeka Johnson | 889 |
 | 151 | Mistie Bass | 888 |
 | 152 | Shameka Christon | 867 |
-| 153 | **Erica Wheeler** 🔴 +4 | 862 |
-| 153 | Krystal Thomas | 862 |
+| 153 | **Erica Wheeler** 🔴 +6 | 864 |
+| 154 | Krystal Thomas | 862 |
 | 155 | Angel Reese | 861 |
 | 156 | Alanna Smith | 847 |
 | 157 | Leilani Mitchell | 845 |
@@ -1607,8 +1607,8 @@ _Last updated: 2026-05-24 01:49 UTC_
 | 150 | Candice Wiggins | 525 |
 | 150 | Epiphanny Prince | 525 |
 | 152 | Armintie Herrington | 523 |
+| 153 | **Jackie Young** 🔴 +5 | 519 |
 | 153 | Sheryl Swoopes | 519 |
-| 154 | **Jackie Young** 🔴 +4 | 518 |
 | 155 | Nikki McCray | 517 |
 | 156 | Alex Bentley | 516 |
 | 156 | Kayla McBride | 516 |

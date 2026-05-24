@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-24T01:50:00+00:00",
+    "text": "Erica Wheeler passed Krystal Thomas for #153 all-time in rebounds (career 864) \u2014 up from #155 entering today \u2014 (9:10 - 4th \u2014 LA @ LV)",
+    "kind": "rank_pass",
+    "player": "Erica Wheeler",
+    "stat": "rebounds",
+    "rank": 153,
+    "passed_players": [
+      "Krystal Thomas"
+    ],
+    "new_total": 864
+  },
+  {
     "ts": "2026-05-24T01:36:00+00:00",
     "text": "Chelsea Gray passed Layshia Clarendon for #119 all-time in fouls (career 610) \u2014 (1:56 - 3rd \u2014 LA @ LV)",
     "kind": "rank_pass",
@@ -3029,17 +3041,5 @@
     "stat": "turnovers",
     "value": 200,
     "new_total": 200
-  },
-  {
-    "ts": "2026-05-17T23:35:00+00:00",
-    "text": "Kia Nurse passed Jonquel Jones for #50 all-time in three-pointers (career 358) \u2014 up from #51 entering today \u2014 (6:40 - 2nd \u2014 TOR @ LA)",
-    "kind": "rank_pass",
-    "player": "Kia Nurse",
-    "stat": "three-pointers",
-    "rank": 50,
-    "passed_players": [
-      "Jonquel Jones"
-    ],
-    "new_total": 358
   }
 ]
