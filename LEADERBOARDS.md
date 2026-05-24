@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-24 19:45 UTC_
+_Last updated: 2026-05-24 19:46 UTC_
 
 ## Contents
 
@@ -68,13 +68,13 @@ _Last updated: 2026-05-24 19:45 UTC_
 | 47 | Sophia Young-Malcolm | 4,300 |
 | 48 | Plenette Pierson | 4,258 |
 | 49 | Monique Currie | 4,253 |
-| 50 | **Allisha Gray** 🔴 +4 | 4,236 |
+| 50 | **Allisha Gray** 🔴 +10 | 4,242 |
 | 51 | Vickie Johnson | 4,230 |
 | 52 | Yolanda Griffith | 4,224 |
 | 53 | **Kahleah Copper** 🔴 +10 | 4,164 |
 | 54 | Dearica Hamby | 4,158 |
-| 55 | Rebekkah Brunson | 4,133 |
-| 56 | **Jonquel Jones** 🔴 | 4,132 |
+| 55 | **Jonquel Jones** 🔴 +2 | 4,134 |
+| 56 | Rebekkah Brunson | 4,133 |
 | 57 | Courtney Williams | 4,124 |
 | 58 | Asjha Jones | 3,986 |
 | 59 | Deanna Nolan | 3,971 |
@@ -113,7 +113,7 @@ _Last updated: 2026-05-24 19:45 UTC_
 | 92 | Erica Wheeler | 3,078 |
 | 93 | Erika de Souza | 3,046 |
 | 94 | Shameka Christon | 3,039 |
-| 95 | **Sabrina Ionescu** 🔴 +2 | 3,032 |
+| 95 | **Sabrina Ionescu** 🔴 +4 | 3,034 |
 | 96 | Marie Ferdinand-Harris | 3,001 |
 | 97 | Emma Meesseman | 2,966 |
 | 98 | Marina Mabrey | 2,941 |
@@ -357,8 +357,8 @@ _Last updated: 2026-05-24 19:45 UTC_
 | 131 | Tianna Hawkins | 1,000 |
 | 132 | Damiris Dantas | 999 |
 | 133 | Marissa Coleman | 995 |
-| 134 | Kristen Rasmussen | 993 |
-| 134 | **Sabrina Ionescu** 🔴 | 993 |
+| 134 | **Sabrina Ionescu** 🔴 +1 | 994 |
+| 135 | Kristen Rasmussen | 993 |
 | 136 | Danielle Robinson | 988 |
 | 137 | Shavonte Zellous | 978 |
 | 138 | Kara Lawson | 976 |
@@ -435,7 +435,7 @@ _Last updated: 2026-05-24 19:45 UTC_
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
 | 6 | Chelsea Gray | 1,903 |
-| 7 | **Alyssa Thomas** 🔴 +3 | 1,857 |
+| 7 | **Alyssa Thomas** 🔴 +4 | 1,858 |
 | 8 | Skylar Diggins | 1,785 |
 | 9 | Natasha Cloud | 1,747 |
 | 10 | Becky Hammon | 1,705 |
@@ -459,13 +459,13 @@ _Last updated: 2026-05-24 19:45 UTC_
 | 28 | Vickie Johnson | 1,202 |
 | 29 | Leilani Mitchell | 1,197 |
 | 30 | **DeWanna Bonner** 🔴 | 1,183 |
-| 31 | **Jordin Canada** 🔴 +3 | 1,158 |
+| 31 | **Jordin Canada** 🔴 +4 | 1,159 |
 | 32 | Jewell Loyd | 1,141 |
 | 33 | Renee Montgomery | 1,140 |
 | 34 | Swin Cash | 1,131 |
 | 35 | Lindsey Harding | 1,090 |
 | 36 | Katie Douglas | 1,069 |
-| 37 | **Sabrina Ionescu** 🔴 | 1,067 |
+| 37 | **Sabrina Ionescu** 🔴 +1 | 1,068 |
 | 38 | Alana Beard | 1,061 |
 | 39 | Jackie Young | 1,060 |
 | 40 | Penny Taylor | 1,049 |
@@ -1075,8 +1075,8 @@ _Last updated: 2026-05-24 19:45 UTC_
 | 28 | Tiffany Hayes | 447 |
 | 29 | Ariel Atkins | 440 |
 | 30 | Lauren Jackson | 436 |
+| 31 | **Allisha Gray** 🔴 +2 | 434 |
 | 31 | Shameka Christon | 434 |
-| 32 | **Allisha Gray** 🔴 | 432 |
 | 33 | Skylar Diggins | 428 |
 | 34 | Crystal Robinson | 425 |
 | 35 | Chelsea Gray | 423 |

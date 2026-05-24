@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-24T19:46:00+00:00",
+    "text": "Sabrina Ionescu passed Kristen Rasmussen for #134 all-time in rebounds (career 994) \u2014 up from #135 entering today \u2014 (7:41 - 1st \u2014 DAL @ NY)",
+    "kind": "rank_pass",
+    "player": "Sabrina Ionescu",
+    "stat": "rebounds",
+    "rank": 134,
+    "passed_players": [
+      "Kristen Rasmussen"
+    ],
+    "new_total": 994
+  },
+  {
     "ts": "2026-05-24T19:40:00+00:00",
     "text": "Natasha Mack passed Ariel Atkins for #113 all-time in blocks (career 110) \u2014 up from #116 entering today \u2014 (6:09 - 2nd \u2014 PHX @ ATL)",
     "kind": "rank_pass",
@@ -3032,17 +3044,5 @@
       "Armintie Herrington"
     ],
     "new_total": 378
-  },
-  {
-    "ts": "2026-05-18T00:12:00+00:00",
-    "text": "Natisha Hiedeman passed Sugar Rodgers for #186 all-time in points (career 1,735) \u2014 up from #188 entering today \u2014 (2:23 - 4th \u2014 SEA @ IND)",
-    "kind": "rank_pass",
-    "player": "Natisha Hiedeman",
-    "stat": "points",
-    "rank": 186,
-    "passed_players": [
-      "Sugar Rodgers"
-    ],
-    "new_total": 1735
   }
 ]

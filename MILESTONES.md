@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-24 19:46 UTC
+
+- **Sabrina Ionescu** passed **Kristen Rasmussen** for **#134** all-time in rebounds (career 994) — up from #135 entering today — _7:41 - 1st — DAL @ NY_
+
 ## 2026-05-24 19:40 UTC
 
 - **Natasha Mack** passed **Ariel Atkins** for **#113** all-time in blocks (career 110) — up from #116 entering today — _6:09 - 2nd — PHX @ ATL_
