@@ -73,7 +73,7 @@ _Last updated: 2026-05-24 21:16 UTC_
 | 52 | Yolanda Griffith | 4,224 |
 | 53 | Kahleah Copper | 4,174 |
 | 54 | Dearica Hamby | 4,158 |
-| 55 | **Jonquel Jones** 🔴 +5 | 4,137 |
+| 55 | **Jonquel Jones** 🔴 +8 | 4,140 |
 | 56 | Rebekkah Brunson | 4,133 |
 | 57 | Courtney Williams | 4,124 |
 | 58 | Asjha Jones | 3,986 |
@@ -356,7 +356,7 @@ _Last updated: 2026-05-24 21:16 UTC_
 | 130 | Tiffany Jackson | 1,002 |
 | 131 | Tianna Hawkins | 1,000 |
 | 132 | Damiris Dantas | 999 |
-| 133 | **Sabrina Ionescu** 🔴 +4 | 997 |
+| 133 | **Sabrina Ionescu** 🔴 +5 | 998 |
 | 134 | Marissa Coleman | 995 |
 | 135 | Kristen Rasmussen | 993 |
 | 136 | Danielle Robinson | 988 |
