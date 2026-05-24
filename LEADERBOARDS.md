@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-24 01:38 UTC_
+_Last updated: 2026-05-24 01:39 UTC_
 
 ## Contents
 
@@ -1512,7 +1512,7 @@ _Last updated: 2026-05-24 01:38 UTC_
 | 55 | Penny Taylor | 832 |
 | 56 | Dominique Canty | 831 |
 | 56 | Wendy Palmer | 831 |
-| 58 | **Dearica Hamby** 🔴 +3 | 814 |
+| 58 | **Dearica Hamby** 🔴 +4 | 815 |
 | 59 | Shannon Johnson | 813 |
 | 59 | Tully Bevilaqua | 813 |
 | 61 | Skylar Diggins | 800 |
