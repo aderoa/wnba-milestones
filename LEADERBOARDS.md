@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-24 20:09 UTC_
+_Last updated: 2026-05-24 20:10 UTC_
 
 ## Contents
 
@@ -32,7 +32,7 @@ _Last updated: 2026-05-24 20:09 UTC_
 | 11 | Katie Smith | 6,450 |
 | 12 | Sylvia Fowles | 6,413 |
 | 13 | Lisa Leslie | 6,251 |
-| 14 | **Breanna Stewart** 🔴 +4 | 6,081 |
+| 14 | **Breanna Stewart** 🔴 +6 | 6,083 |
 | 15 | Jewell Loyd | 6,059 |
 | 16 | Lauren Jackson | 6,005 |
 | 16 | Seimone Augustus | 6,005 |
@@ -56,7 +56,7 @@ _Last updated: 2026-05-24 20:09 UTC_
 | 35 | Chamique Holdsclaw | 4,713 |
 | 36 | Elena Delle Donne | 4,706 |
 | 37 | Penny Taylor | 4,595 |
-| 38 | **Alyssa Thomas** 🔴 +10 | 4,564 |
+| 38 | **Alyssa Thomas** 🔴 +12 | 4,566 |
 | 39 | **Arike Ogunbowale** 🔴 +6 | 4,518 |
 | 40 | Kristi Toliver | 4,474 |
 | 41 | Chelsea Gray | 4,469 |
@@ -148,7 +148,7 @@ _Last updated: 2026-05-24 20:09 UTC_
 | 127 | Svetlana Abrosimova | 2,414 |
 | 128 | Anna DeForge | 2,413 |
 | 129 | DeMya Walker | 2,379 |
-| 130 | **Rhyne Howard** 🔴 +6 | 2,364 |
+| 130 | **Rhyne Howard** 🔴 +9 | 2,367 |
 | 131 | Alex Bentley | 2,350 |
 | 132 | Merlakia Jones | 2,308 |
 | 133 | Kia Vaughn | 2,288 |
@@ -236,7 +236,7 @@ _Last updated: 2026-05-24 20:09 UTC_
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | **Alyssa Thomas** 🔴 +5 | 2,775 |
-| 13 | **Jonquel Jones** 🔴 +1 | 2,600 |
+| 13 | **Jonquel Jones** 🔴 +2 | 2,601 |
 | 14 | Sancho Lyttle | 2,596 |
 | 15 | DeLisha Milton-Jones | 2,574 |
 | 16 | Brittney Griner | 2,537 |
@@ -459,12 +459,12 @@ _Last updated: 2026-05-24 20:09 UTC_
 | 28 | Vickie Johnson | 1,202 |
 | 29 | Leilani Mitchell | 1,197 |
 | 30 | **DeWanna Bonner** 🔴 | 1,183 |
-| 31 | **Jordin Canada** 🔴 +5 | 1,160 |
+| 31 | **Jordin Canada** 🔴 +6 | 1,161 |
 | 32 | Jewell Loyd | 1,141 |
 | 33 | Renee Montgomery | 1,140 |
 | 34 | Swin Cash | 1,131 |
 | 35 | Lindsey Harding | 1,090 |
-| 36 | **Sabrina Ionescu** 🔴 +4 | 1,071 |
+| 36 | **Sabrina Ionescu** 🔴 +5 | 1,072 |
 | 37 | Katie Douglas | 1,069 |
 | 38 | Alana Beard | 1,061 |
 | 39 | Jackie Young | 1,060 |
@@ -1092,7 +1092,7 @@ _Last updated: 2026-05-24 20:09 UTC_
 | 44 | Rachel Banham | 376 |
 | 46 | Allison Feaster | 372 |
 | 46 | Betty Lennox | 372 |
-| 48 | **Rhyne Howard** 🔴 +1 | 371 |
+| 46 | **Rhyne Howard** 🔴 +2 | 372 |
 | 49 | Epiphanny Prince | 368 |
 | 50 | **Jonquel Jones** 🔴 | 361 |
 | 51 | Kia Nurse | 358 |
