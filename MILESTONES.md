@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-24 19:56 UTC
+
+- **Sabrina Ionescu** passed **Marissa Coleman** for **#133** all-time in rebounds (career 996) — up from #135 entering today — _3:41 - 1st — DAL @ NY_
+
 ## 2026-05-24 19:51 UTC
 
 - **Sabrina Ionescu** passed **Shavonte Zellous** and **Wendy Palmer** for **#103** all-time in turnovers (career 518) — _6:13 - 1st — DAL @ NY_
