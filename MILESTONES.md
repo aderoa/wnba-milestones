@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-24 19:40 UTC
+
+- **Natasha Mack** passed **Ariel Atkins** for **#113** all-time in blocks (career 110) — up from #116 entering today — _6:09 - 2nd — PHX @ ATL_
+
 ## 2026-05-24 02:00 UTC
 
 - **A'ja Wilson** passed **Arike Ogunbowale** and **Armintie Herrington** for **#75** all-time in steals (career 341) — up from #77 entering today — _5:59 - 4th — LA @ LV_

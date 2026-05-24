@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-24T19:40:00+00:00",
+    "text": "Natasha Mack passed Ariel Atkins for #113 all-time in blocks (career 110) \u2014 up from #116 entering today \u2014 (6:09 - 2nd \u2014 PHX @ ATL)",
+    "kind": "rank_pass",
+    "player": "Natasha Mack",
+    "stat": "blocks",
+    "rank": 113,
+    "passed_players": [
+      "Ariel Atkins"
+    ],
+    "new_total": 110
+  },
+  {
     "ts": "2026-05-24T02:00:00+00:00",
     "text": "A'ja Wilson passed Arike Ogunbowale and Armintie Herrington for #75 all-time in steals (career 341) \u2014 up from #77 entering today \u2014 (5:59 - 4th \u2014 LA @ LV)",
     "kind": "rank_pass",
@@ -3032,17 +3044,5 @@
       "Sugar Rodgers"
     ],
     "new_total": 1735
-  },
-  {
-    "ts": "2026-05-17T23:54:00+00:00",
-    "text": "Caitlin Clark passed Sylvia Fowles for #137 all-time in assists (career 462) \u2014 up from #139 entering today \u2014 (8:23 - 4th \u2014 SEA @ IND)",
-    "kind": "rank_pass",
-    "player": "Caitlin Clark",
-    "stat": "assists",
-    "rank": 137,
-    "passed_players": [
-      "Sylvia Fowles"
-    ],
-    "new_total": 462
   }
 ]
