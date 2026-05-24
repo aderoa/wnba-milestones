@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-24 02:18 UTC_
+_Last updated: 2026-05-24 02:19 UTC_
 
 ## Contents
 
@@ -71,7 +71,7 @@ _Last updated: 2026-05-24 02:18 UTC_
 | 50 | Allisha Gray | 4,232 |
 | 51 | Vickie Johnson | 4,230 |
 | 52 | Yolanda Griffith | 4,224 |
-| 53 | **Dearica Hamby** 🔴 +14 | 4,172 |
+| 53 | **Dearica Hamby** 🔴 +16 | 4,174 |
 | 54 | Kahleah Copper | 4,154 |
 | 55 | Courtney Williams | 4,141 |
 | 56 | Rebekkah Brunson | 4,133 |
@@ -1305,7 +1305,7 @@ _Last updated: 2026-05-24 02:18 UTC_
 | 53 | Natasha Cloud | 676 |
 | 54 | **Erica Wheeler** 🔴 +2 | 673 |
 | 55 | Tammy Sutton-Brown | 672 |
-| 56 | **Dearica Hamby** 🔴 +4 | 671 |
+| 56 | **Dearica Hamby** 🔴 +3 | 670 |
 | 57 | Deanna Nolan | 669 |
 | 58 | Chasity Melvin | 666 |
 | 59 | Vickie Johnson | 660 |
@@ -1512,7 +1512,7 @@ _Last updated: 2026-05-24 02:18 UTC_
 | 55 | Penny Taylor | 832 |
 | 56 | Dominique Canty | 831 |
 | 56 | Wendy Palmer | 831 |
-| 58 | **Dearica Hamby** 🔴 +6 | 817 |
+| 58 | **Dearica Hamby** 🔴 +5 | 816 |
 | 59 | Shannon Johnson | 813 |
 | 59 | Tully Bevilaqua | 813 |
 | 61 | Skylar Diggins | 800 |
