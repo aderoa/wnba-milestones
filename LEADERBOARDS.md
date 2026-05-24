@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-24 00:11 UTC_
+_Last updated: 2026-05-24 00:12 UTC_
 
 ## Contents
 
@@ -37,7 +37,7 @@ _Last updated: 2026-05-24 00:11 UTC_
 | 16 | Lauren Jackson | 6,005 |
 | 16 | Seimone Augustus | 6,005 |
 | 18 | Brittney Griner | 5,983 |
-| 19 | **A'ja Wilson** 🔴 +4 | 5,848 |
+| 19 | **A'ja Wilson** 🔴 +6 | 5,850 |
 | 20 | Becky Hammon | 5,816 |
 | 21 | Angel McCoughtry | 5,797 |
 | 22 | DeLisha Milton-Jones | 5,571 |
@@ -71,7 +71,7 @@ _Last updated: 2026-05-24 00:11 UTC_
 | 50 | Allisha Gray | 4,232 |
 | 51 | Vickie Johnson | 4,230 |
 | 52 | Yolanda Griffith | 4,224 |
-| 53 | **Dearica Hamby** 🔴 | 4,158 |
+| 53 | **Dearica Hamby** 🔴 +2 | 4,160 |
 | 54 | Kahleah Copper | 4,154 |
 | 55 | Courtney Williams | 4,141 |
 | 56 | Rebekkah Brunson | 4,133 |
@@ -240,7 +240,7 @@ _Last updated: 2026-05-24 00:11 UTC_
 | 14 | Sancho Lyttle | 2,596 |
 | 15 | DeLisha Milton-Jones | 2,574 |
 | 16 | Brittney Griner | 2,537 |
-| 17 | **A'ja Wilson** 🔴 +1 | 2,523 |
+| 17 | **A'ja Wilson** 🔴 +3 | 2,525 |
 | 18 | Swin Cash | 2,521 |
 | 19 | Breanna Stewart | 2,510 |
 | 20 | Michelle Snow | 2,476 |
@@ -378,7 +378,7 @@ _Last updated: 2026-05-24 00:11 UTC_
 | 152 | Shameka Christon | 867 |
 | 153 | Krystal Thomas | 862 |
 | 154 | Angel Reese | 861 |
-| 155 | **Erica Wheeler** 🔴 | 858 |
+| 155 | **Erica Wheeler** 🔴 +1 | 859 |
 | 156 | Alanna Smith | 847 |
 | 157 | Leilani Mitchell | 845 |
 | 158 | Jessica Shepard | 836 |
@@ -516,7 +516,7 @@ _Last updated: 2026-05-24 00:11 UTC_
 | 85 | Nykesha Sales | 677 |
 | 86 | Bria Hartley | 661 |
 | 87 | Lindsay Allen | 657 |
-| 88 | **Ariel Atkins** 🔴 +1 | 652 |
+| 88 | **Ariel Atkins** 🔴 +2 | 653 |
 | 89 | Betty Lennox | 651 |
 | 89 | Plenette Pierson | 651 |
 | 91 | Alex Bentley | 645 |
@@ -642,7 +642,7 @@ _Last updated: 2026-05-24 00:11 UTC_
 | 6 | Lauren Jackson | 586 |
 | 7 | Tammy Sutton-Brown | 555 |
 | 8 | Tangela Smith | 554 |
-| 9 | **A'ja Wilson** 🔴 | 543 |
+| 9 | **A'ja Wilson** 🔴 +1 | 544 |
 | 10 | Ruth Riley | 505 |
 | 11 | Elizabeth Williams | 486 |
 | 12 | Taj McWilliams-Franklin | 443 |
@@ -1551,7 +1551,7 @@ _Last updated: 2026-05-24 00:11 UTC_
 | 93 | Temeka Johnson | 680 |
 | 95 | Brittney Sykes | 678 |
 | 96 | Kelly Miller | 676 |
-| 97 | **Kelsey Plum** 🔴 | 672 |
+| 97 | **Kelsey Plum** 🔴 +1 | 673 |
 | 98 | Chamique Holdsclaw | 667 |
 | 99 | Cheyenne Parker-Tyus | 666 |
 | 100 | Tianna Hawkins | 662 |
