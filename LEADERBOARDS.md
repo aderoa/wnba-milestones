@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-24 21:11 UTC_
+_Last updated: 2026-05-24 21:13 UTC_
 
 ## Contents
 
@@ -32,7 +32,7 @@ _Last updated: 2026-05-24 21:11 UTC_
 | 11 | Katie Smith | 6,450 |
 | 12 | Sylvia Fowles | 6,413 |
 | 13 | Lisa Leslie | 6,251 |
-| 14 | **Breanna Stewart** 🔴 +10 | 6,087 |
+| 14 | **Breanna Stewart** 🔴 +12 | 6,089 |
 | 15 | Jewell Loyd | 6,059 |
 | 16 | Lauren Jackson | 6,005 |
 | 16 | Seimone Augustus | 6,005 |
@@ -71,7 +71,7 @@ _Last updated: 2026-05-24 21:11 UTC_
 | 50 | **Allisha Gray** 🔴 +18 | 4,250 |
 | 51 | Vickie Johnson | 4,230 |
 | 52 | Yolanda Griffith | 4,224 |
-| 53 | **Kahleah Copper** 🔴 +18 | 4,172 |
+| 53 | **Kahleah Copper** 🔴 +20 | 4,174 |
 | 54 | Dearica Hamby | 4,158 |
 | 55 | **Jonquel Jones** 🔴 +5 | 4,137 |
 | 56 | Rebekkah Brunson | 4,133 |
@@ -569,8 +569,8 @@ _Last updated: 2026-05-24 21:11 UTC_
 | 138 | Sylvia Fowles | 461 |
 | 139 | Elizabeth Williams | 455 |
 | 140 | Sydney Colson | 454 |
-| 141 | **Satou Sabally** 🔴 | 451 |
-| 141 | Yolanda Griffith | 451 |
+| 141 | **Satou Sabally** 🔴 +1 | 452 |
+| 142 | Yolanda Griffith | 451 |
 | 143 | Elena Delle Donne | 450 |
 | 143 | Kristi Harrower | 450 |
 | 143 | Nikki McCray | 450 |
