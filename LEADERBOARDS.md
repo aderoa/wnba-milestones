@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-24 00:16 UTC_
+_Last updated: 2026-05-24 00:17 UTC_
 
 ## Contents
 
@@ -206,8 +206,8 @@ _Last updated: 2026-05-24 00:16 UTC_
 | 185 | Sandy Brondello | 1,759 |
 | 186 | Natisha Hiedeman | 1,751 |
 | 187 | Sugar Rodgers | 1,733 |
-| 188 | Moriah Jefferson | 1,722 |
-| 188 | **NaLyssa Smith** 🔴 | 1,722 |
+| 188 | **NaLyssa Smith** 🔴 +2 | 1,724 |
+| 189 | Moriah Jefferson | 1,722 |
 | 190 | Sophie Cunningham | 1,705 |
 | 191 | Armintie Herrington | 1,696 |
 | 192 | Nikki Teasley | 1,690 |
@@ -340,7 +340,7 @@ _Last updated: 2026-05-24 00:16 UTC_
 | 114 | Becky Hammon | 1,108 |
 | 115 | Ann Wauters | 1,105 |
 | 116 | Natasha Cloud | 1,095 |
-| 117 | **NaLyssa Smith** 🔴 | 1,081 |
+| 117 | **NaLyssa Smith** 🔴 +1 | 1,082 |
 | 118 | Svetlana Abrosimova | 1,078 |
 | 119 | Aliyah Boston | 1,066 |
 | 120 | Le'coe Willingham | 1,054 |
