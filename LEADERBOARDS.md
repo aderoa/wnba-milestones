@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-24 19:44 UTC_
+_Last updated: 2026-05-24 19:45 UTC_
 
 ## Contents
 
@@ -113,7 +113,7 @@ _Last updated: 2026-05-24 19:44 UTC_
 | 92 | Erica Wheeler | 3,078 |
 | 93 | Erika de Souza | 3,046 |
 | 94 | Shameka Christon | 3,039 |
-| 95 | **Sabrina Ionescu** 🔴 | 3,030 |
+| 95 | **Sabrina Ionescu** 🔴 +2 | 3,032 |
 | 96 | Marie Ferdinand-Harris | 3,001 |
 | 97 | Emma Meesseman | 2,966 |
 | 98 | Marina Mabrey | 2,941 |
@@ -169,7 +169,7 @@ _Last updated: 2026-05-24 19:44 UTC_
 | 148 | Ruthie Bolton | 2,175 |
 | 149 | Ann Wauters | 2,170 |
 | 150 | Layshia Clarendon | 2,168 |
-| 151 | **Satou Sabally** 🔴 +2 | 2,163 |
+| 151 | **Satou Sabally** 🔴 +5 | 2,166 |
 | 152 | Murriel Page | 2,146 |
 | 153 | Marissa Coleman | 2,140 |
 | 154 | Tari Phillips | 2,134 |
@@ -235,7 +235,7 @@ _Last updated: 2026-05-24 19:44 UTC_
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
-| 12 | **Alyssa Thomas** 🔴 +4 | 2,774 |
+| 12 | **Alyssa Thomas** 🔴 +5 | 2,775 |
 | 13 | **Jonquel Jones** 🔴 | 2,599 |
 | 14 | Sancho Lyttle | 2,596 |
 | 15 | DeLisha Milton-Jones | 2,574 |
@@ -527,7 +527,7 @@ _Last updated: 2026-05-24 19:44 UTC_
 | 96 | Sami Whitcomb | 623 |
 | 97 | Alysha Clark | 614 |
 | 98 | Debbie Black | 612 |
-| 99 | **Jonquel Jones** 🔴 | 608 |
+| 99 | **Jonquel Jones** 🔴 +1 | 609 |
 | 100 | Cynthia Cooper | 602 |
 | 101 | Natisha Hiedeman | 594 |
 | 102 | Sancho Lyttle | 592 |
@@ -1148,7 +1148,7 @@ _Last updated: 2026-05-24 19:44 UTC_
 | 101 | Essence Carson | 223 |
 | 102 | Kelly Mazzante | 218 |
 | 102 | Sheri Sam | 218 |
-| 104 | **Satou Sabally** 🔴 | 212 |
+| 104 | **Satou Sabally** 🔴 +1 | 213 |
 | 105 | Damiris Dantas | 211 |
 | 105 | Erin Phillips | 211 |
 | 107 | Andrea Stinson | 207 |
