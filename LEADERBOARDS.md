@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-24 21:39 UTC_
+_Last updated: 2026-05-24 21:40 UTC_
 
 ## Contents
 
@@ -380,7 +380,7 @@ _Last updated: 2026-05-24 21:39 UTC_
 | 154 | Krystal Thomas | 862 |
 | 155 | Erica Wheeler | 858 |
 | 156 | **Alanna Smith** 🔴 +2 | 849 |
-| 157 | **Jessica Shepard** 🔴 +10 | 846 |
+| 157 | **Jessica Shepard** 🔴 +11 | 847 |
 | 158 | Leilani Mitchell | 845 |
 | 159 | Essence Carson | 833 |
 | 160 | Kristi Toliver | 829 |
