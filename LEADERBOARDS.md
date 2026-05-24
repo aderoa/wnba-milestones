@@ -412,8 +412,8 @@ _Last updated: 2026-05-24 20:46 UTC_
 | 186 | Brooke Wyckoff | 751 |
 | 187 | Coco Miller | 750 |
 | 188 | Alex Montgomery | 735 |
-| 189 | **Arike Ogunbowale** 🔴 +3 | 734 |
 | 189 | Ashley Robinson | 734 |
+| 190 | **Arike Ogunbowale** 🔴 +2 | 733 |
 | 191 | Shenise Johnson | 729 |
 | 192 | Sami Whitcomb | 726 |
 | 192 | Shekinna Stricklen | 726 |
