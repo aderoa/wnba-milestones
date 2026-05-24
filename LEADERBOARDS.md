@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-24 21:05 UTC_
+_Last updated: 2026-05-24 21:06 UTC_
 
 ## Contents
 
@@ -68,12 +68,12 @@ _Last updated: 2026-05-24 21:05 UTC_
 | 47 | Sophia Young-Malcolm | 4,300 |
 | 48 | Plenette Pierson | 4,258 |
 | 49 | Monique Currie | 4,253 |
-| 50 | **Allisha Gray** 🔴 +16 | 4,248 |
+| 50 | **Allisha Gray** 🔴 +18 | 4,250 |
 | 51 | Vickie Johnson | 4,230 |
 | 52 | Yolanda Griffith | 4,224 |
 | 53 | **Kahleah Copper** 🔴 +18 | 4,172 |
 | 54 | Dearica Hamby | 4,158 |
-| 55 | **Jonquel Jones** 🔴 +4 | 4,136 |
+| 55 | **Jonquel Jones** 🔴 +5 | 4,137 |
 | 56 | Rebekkah Brunson | 4,133 |
 | 57 | Courtney Williams | 4,124 |
 | 58 | Asjha Jones | 3,986 |
@@ -166,7 +166,7 @@ _Last updated: 2026-05-24 21:05 UTC_
 | 145 | Sophia Witherspoon | 2,210 |
 | 146 | Kia Nurse | 2,204 |
 | 147 | **Jordin Canada** 🔴 +11 | 2,185 |
-| 148 | **Satou Sabally** 🔴 +15 | 2,176 |
+| 148 | **Satou Sabally** 🔴 +18 | 2,179 |
 | 149 | Ruthie Bolton | 2,175 |
 | 150 | Ann Wauters | 2,170 |
 | 151 | Layshia Clarendon | 2,168 |
@@ -370,7 +370,7 @@ _Last updated: 2026-05-24 21:05 UTC_
 | 144 | Merlakia Jones | 927 |
 | 145 | Nicky Anosike | 922 |
 | 146 | Janeth Arcain | 916 |
-| 147 | **Satou Sabally** 🔴 +1 | 913 |
+| 147 | **Satou Sabally** 🔴 +2 | 914 |
 | 148 | Karima Christmas-Kelly | 908 |
 | 149 | Natalie Achonwa | 895 |
 | 150 | Temeka Johnson | 889 |
@@ -1148,7 +1148,7 @@ _Last updated: 2026-05-24 21:05 UTC_
 | 101 | Essence Carson | 223 |
 | 102 | Kelly Mazzante | 218 |
 | 102 | Sheri Sam | 218 |
-| 104 | **Satou Sabally** 🔴 +2 | 214 |
+| 104 | **Satou Sabally** 🔴 +3 | 215 |
 | 105 | Damiris Dantas | 211 |
 | 105 | Erin Phillips | 211 |
 | 107 | Andrea Stinson | 207 |
@@ -1651,7 +1651,7 @@ _Last updated: 2026-05-24 21:05 UTC_
 | 194 | Sue Wicks | 462 |
 | 195 | Natalie Achonwa | 459 |
 | 196 | Kara Lawson | 457 |
-| 197 | **Alanna Smith** 🔴 +2 | 454 |
+| 197 | **Alanna Smith** 🔴 +3 | 455 |
 | 198 | Alexis Hornbuckle | 450 |
 | 199 | Bria Hartley | 448 |
 | 200 | Diamond DeShields | 445 |
