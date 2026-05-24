@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-24T23:53:00+00:00",
+    "text": "Shakira Austin passed Sylvia Crawley for #118 all-time in blocks (career 107) \u2014 (7:33 - 4th \u2014 WSH @ SEA)",
+    "kind": "rank_pass",
+    "player": "Shakira Austin",
+    "stat": "blocks",
+    "rank": 118,
+    "passed_players": [
+      "Sylvia Crawley"
+    ],
+    "new_total": 107
+  },
+  {
     "ts": "2026-05-24T21:37:00+00:00",
     "text": "Awak Kuier passed Cameron Brink, Jackie Young, Satou Sabally, and Shannon Johnson for #192 all-time in blocks (career 68) \u2014 up from #196 entering today \u2014 (1:51 - 4th \u2014 DAL @ NY)",
     "kind": "rank_pass",
@@ -3031,18 +3043,6 @@
     "player": "Dearica Hamby",
     "stat": "assists",
     "value": 700,
-    "new_total": 700
-  },
-  {
-    "ts": "2026-05-18T14:28:00+00:00",
-    "text": "Dearica Hamby passed Chamique Holdsclaw for #78 all-time in assists (career 700) \u2014 up from #79 entering today \u2014 (Final \u2014 TOR @ LA)",
-    "kind": "rank_pass",
-    "player": "Dearica Hamby",
-    "stat": "assists",
-    "rank": 78,
-    "passed_players": [
-      "Chamique Holdsclaw"
-    ],
     "new_total": 700
   }
 ]

@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-24 23:53 UTC
+
+- **Shakira Austin** passed **Sylvia Crawley** for **#118** all-time in blocks (career 107) — _7:33 - 4th — WSH @ SEA_
+
 ## 2026-05-24 21:37 UTC
 
 - **Awak Kuier** passed **Cameron Brink**, **Jackie Young**, **Satou Sabally**, and **Shannon Johnson** for **#192** all-time in blocks (career 68) — up from #196 entering today — _1:51 - 4th — DAL @ NY_

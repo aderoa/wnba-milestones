@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-24 23:51 UTC_
+_Last updated: 2026-05-24 23:53 UTC_
 
 ## Contents
 
@@ -529,7 +529,7 @@ _Last updated: 2026-05-24 23:51 UTC_
 | 98 | Debbie Black | 612 |
 | 99 | Jonquel Jones | 610 |
 | 100 | Cynthia Cooper | 602 |
-| 101 | **Natisha Hiedeman** 🔴 +2 | 596 |
+| 101 | **Natisha Hiedeman** 🔴 +3 | 597 |
 | 102 | Sancho Lyttle | 592 |
 | 103 | Camille Smith | 590 |
 | 104 | Armintie Herrington | 589 |
@@ -750,8 +750,8 @@ _Last updated: 2026-05-24 23:51 UTC_
 | 114 | Ariel Atkins | 109 |
 | 115 | Erin Perperoglou | 108 |
 | 115 | Glory Johnson | 108 |
-| 117 | **Shakira Austin** 🔴 | 106 |
-| 117 | Sylvia Crawley | 106 |
+| 117 | **Shakira Austin** 🔴 +1 | 107 |
+| 118 | Sylvia Crawley | 106 |
 | 119 | Carolyn Swords | 104 |
 | 119 | Rebecca Lobo | 104 |
 | 121 | Courtney Williams | 103 |
@@ -1153,7 +1153,7 @@ _Last updated: 2026-05-24 23:51 UTC_
 | 105 | Erin Phillips | 211 |
 | 107 | Andrea Stinson | 207 |
 | 108 | Betnijah Laney-Hamilton | 201 |
-| 109 | **Lexie Brown** 🔴 | 200 |
+| 108 | **Lexie Brown** 🔴 +1 | 201 |
 | 110 | Shanna Zolman | 199 |
 | 111 | Temeka Johnson | 197 |
 | 111 | Tina Charles | 197 |
@@ -1327,7 +1327,7 @@ _Last updated: 2026-05-24 23:51 UTC_
 | 74 | Tamika Whitmore | 600 |
 | 76 | Kelly Miller | 596 |
 | 77 | Kahleah Copper | 593 |
-| 78 | **Stefanie Dolson** 🔴 | 581 |
+| 78 | **Stefanie Dolson** 🔴 +1 | 582 |
 | 79 | Helen Darling | 575 |
 | 79 | Nykesha Sales | 575 |
 | 81 | Andrea Stinson | 571 |
