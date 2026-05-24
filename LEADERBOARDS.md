@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-24 20:47 UTC_
+_Last updated: 2026-05-24 20:48 UTC_
 
 ## Contents
 
@@ -56,7 +56,7 @@ _Last updated: 2026-05-24 20:47 UTC_
 | 35 | Chamique Holdsclaw | 4,713 |
 | 36 | Elena Delle Donne | 4,706 |
 | 37 | Penny Taylor | 4,595 |
-| 38 | **Alyssa Thomas** 🔴 +18 | 4,572 |
+| 38 | **Alyssa Thomas** 🔴 +20 | 4,574 |
 | 39 | **Arike Ogunbowale** 🔴 +13 | 4,525 |
 | 40 | Kristi Toliver | 4,474 |
 | 41 | Chelsea Gray | 4,469 |
@@ -148,7 +148,7 @@ _Last updated: 2026-05-24 20:47 UTC_
 | 127 | Svetlana Abrosimova | 2,414 |
 | 128 | Anna DeForge | 2,413 |
 | 129 | DeMya Walker | 2,379 |
-| 130 | **Rhyne Howard** 🔴 +15 | 2,373 |
+| 130 | **Rhyne Howard** 🔴 +18 | 2,376 |
 | 131 | Alex Bentley | 2,350 |
 | 132 | Merlakia Jones | 2,308 |
 | 133 | Kia Vaughn | 2,288 |
@@ -167,7 +167,7 @@ _Last updated: 2026-05-24 20:47 UTC_
 | 146 | Kia Nurse | 2,204 |
 | 147 | **Jordin Canada** 🔴 +8 | 2,182 |
 | 148 | Ruthie Bolton | 2,175 |
-| 149 | **Satou Sabally** 🔴 +10 | 2,171 |
+| 149 | **Satou Sabally** 🔴 +13 | 2,174 |
 | 150 | Ann Wauters | 2,170 |
 | 151 | Layshia Clarendon | 2,168 |
 | 152 | Murriel Page | 2,146 |
@@ -231,7 +231,7 @@ _Last updated: 2026-05-24 20:47 UTC_
 | 5 | Tamika Catchings | 3,313 |
 | 6 | Lisa Leslie | 3,303 |
 | 7 | Nneka Ogwumike | 3,295 |
-| 8 | **DeWanna Bonner** 🔴 +2 | 3,234 |
+| 8 | **DeWanna Bonner** 🔴 +3 | 3,235 |
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
@@ -242,7 +242,7 @@ _Last updated: 2026-05-24 20:47 UTC_
 | 16 | Brittney Griner | 2,537 |
 | 17 | A'ja Wilson | 2,522 |
 | 18 | Swin Cash | 2,521 |
-| 19 | **Breanna Stewart** 🔴 +3 | 2,513 |
+| 19 | **Breanna Stewart** 🔴 +4 | 2,514 |
 | 20 | Michelle Snow | 2,476 |
 | 21 | Crystal Langhorne | 2,454 |
 | 22 | Lauren Jackson | 2,444 |
@@ -375,7 +375,7 @@ _Last updated: 2026-05-24 20:47 UTC_
 | 149 | Natalie Achonwa | 895 |
 | 150 | Temeka Johnson | 889 |
 | 151 | Mistie Bass | 888 |
-| 152 | **Angel Reese** 🔴 +8 | 869 |
+| 152 | **Angel Reese** 🔴 +9 | 870 |
 | 153 | Shameka Christon | 867 |
 | 154 | Krystal Thomas | 862 |
 | 155 | Erica Wheeler | 858 |
@@ -464,7 +464,7 @@ _Last updated: 2026-05-24 20:47 UTC_
 | 33 | Renee Montgomery | 1,140 |
 | 34 | Swin Cash | 1,131 |
 | 35 | Lindsey Harding | 1,090 |
-| 36 | **Sabrina Ionescu** 🔴 +6 | 1,073 |
+| 36 | **Sabrina Ionescu** 🔴 +7 | 1,074 |
 | 37 | Katie Douglas | 1,069 |
 | 38 | Alana Beard | 1,061 |
 | 39 | Jackie Young | 1,060 |
@@ -963,8 +963,8 @@ _Last updated: 2026-05-24 20:47 UTC_
 | 120 | Loree Moore | 255 |
 | 123 | Ruthie Bolton | 254 |
 | 124 | Hamchetou Maiga-Ba | 251 |
+| 124 | **Jonquel Jones** 🔴 +1 | 251 |
 | 124 | Tamika Whitmore | 251 |
-| 126 | **Jonquel Jones** 🔴 | 250 |
 | 127 | Sami Whitcomb | 246 |
 | 128 | Latasha Byears | 245 |
 | 129 | Alex Bentley | 244 |
@@ -1090,7 +1090,7 @@ _Last updated: 2026-05-24 20:47 UTC_
 | 43 | Briann January | 381 |
 | 44 | Jasmine Thomas | 376 |
 | 44 | Rachel Banham | 376 |
-| 46 | **Rhyne Howard** 🔴 +4 | 374 |
+| 46 | **Rhyne Howard** 🔴 +5 | 375 |
 | 47 | Allison Feaster | 372 |
 | 47 | Betty Lennox | 372 |
 | 49 | Epiphanny Prince | 368 |
@@ -1148,7 +1148,7 @@ _Last updated: 2026-05-24 20:47 UTC_
 | 101 | Essence Carson | 223 |
 | 102 | Kelly Mazzante | 218 |
 | 102 | Sheri Sam | 218 |
-| 104 | **Satou Sabally** 🔴 +1 | 213 |
+| 104 | **Satou Sabally** 🔴 +2 | 214 |
 | 105 | Damiris Dantas | 211 |
 | 105 | Erin Phillips | 211 |
 | 107 | Andrea Stinson | 207 |
