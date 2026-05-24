@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-24 00:57 UTC_
+_Last updated: 2026-05-24 00:58 UTC_
 
 ## Contents
 
@@ -642,7 +642,7 @@ _Last updated: 2026-05-24 00:57 UTC_
 | 6 | Lauren Jackson | 586 |
 | 7 | Tammy Sutton-Brown | 555 |
 | 8 | Tangela Smith | 554 |
-| 9 | **A'ja Wilson** 🔴 +2 | 545 |
+| 9 | **A'ja Wilson** 🔴 +3 | 546 |
 | 10 | Ruth Riley | 505 |
 | 11 | Elizabeth Williams | 486 |
 | 12 | Taj McWilliams-Franklin | 443 |
