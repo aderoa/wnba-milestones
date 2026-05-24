@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-24 21:04 UTC_
+_Last updated: 2026-05-24 21:05 UTC_
 
 ## Contents
 
@@ -394,7 +394,7 @@ _Last updated: 2026-05-24 21:04 UTC_
 | 168 | Tierra Ruffin-Pratt | 799 |
 | 169 | Charlotte Smith | 794 |
 | 170 | Betnijah Laney-Hamilton | 792 |
-| 171 | **Naz Hillmon** 🔴 +3 | 791 |
+| 170 | **Naz Hillmon** 🔴 +4 | 792 |
 | 172 | Rhonda Mapp | 788 |
 | 173 | Mercedes Russell | 786 |
 | 174 | **Odyssey Sims** 🔴 | 780 |
@@ -486,7 +486,7 @@ _Last updated: 2026-05-24 21:04 UTC_
 | 54 | Seimone Augustus | 911 |
 | 56 | Nneka Ogwumike | 904 |
 | 57 | Candice Dupree | 902 |
-| 58 | **Arike Ogunbowale** 🔴 +3 | 899 |
+| 58 | **Arike Ogunbowale** 🔴 +4 | 900 |
 | 59 | Maya Moore | 896 |
 | 60 | Ivory Latta | 885 |
 | 61 | Helen Darling | 882 |
@@ -1529,7 +1529,7 @@ _Last updated: 2026-05-24 21:04 UTC_
 | 72 | Becky Hammon | 733 |
 | 73 | Natasha Cloud | 731 |
 | 74 | Latasha Byears | 730 |
-| 75 | **Kahleah Copper** 🔴 +2 | 725 |
+| 75 | **Kahleah Copper** 🔴 +3 | 726 |
 | 76 | Kristi Toliver | 722 |
 | 77 | **Allisha Gray** 🔴 +1 | 715 |
 | 78 | Cheryl Ford | 713 |
