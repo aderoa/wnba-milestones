@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-24 19:07 UTC_
+_Last updated: 2026-05-24 19:08 UTC_
 
 ## Contents
 
@@ -853,7 +853,7 @@ _Last updated: 2026-05-24 19:07 UTC_
 | 12 | DeLisha Milton-Jones | 619 |
 | 13 | Taj McWilliams-Franklin | 577 |
 | 14 | Tully Bevilaqua | 571 |
-| 15 | **Alyssa Thomas** 🔴 | 561 |
+| 15 | **Alyssa Thomas** 🔴 +1 | 562 |
 | 16 | Courtney Vandersloot | 544 |
 | 17 | Yolanda Griffith | 527 |
 | 18 | Candace Parker | 521 |
@@ -1490,8 +1490,8 @@ _Last updated: 2026-05-24 19:07 UTC_
 | 33 | Sancho Lyttle | 947 |
 | 34 | Mwadi Mabika | 941 |
 | 35 | Tamika Whitmore | 940 |
+| 36 | **Alyssa Thomas** 🔴 +1 | 938 |
 | 36 | Courtney Vandersloot | 938 |
-| 37 | **Alyssa Thomas** 🔴 | 937 |
 | 38 | Briann January | 921 |
 | 39 | Ticha Penicheiro | 913 |
 | 40 | Shavonte Zellous | 907 |
