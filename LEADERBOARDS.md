@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-24 05:48 UTC_
+_Last updated: 2026-05-24 05:49 UTC_
 
 ## Contents
 
@@ -37,7 +37,7 @@ _Last updated: 2026-05-24 05:48 UTC_
 | 16 | Lauren Jackson | 6,005 |
 | 16 | Seimone Augustus | 6,005 |
 | 18 | Brittney Griner | 5,983 |
-| 19 | A'ja Wilson | 5,861 |
+| 19 | A'ja Wilson | 5,868 |
 | 20 | Becky Hammon | 5,816 |
 | 21 | Angel McCoughtry | 5,797 |
 | 22 | DeLisha Milton-Jones | 5,571 |
@@ -239,8 +239,8 @@ _Last updated: 2026-05-24 05:48 UTC_
 | 13 | Jonquel Jones | 2,599 |
 | 14 | Sancho Lyttle | 2,596 |
 | 15 | DeLisha Milton-Jones | 2,574 |
+| 16 | A'ja Wilson | 2,537 |
 | 16 | Brittney Griner | 2,537 |
-| 17 | A'ja Wilson | 2,533 |
 | 18 | Swin Cash | 2,521 |
 | 19 | Breanna Stewart | 2,510 |
 | 20 | Michelle Snow | 2,476 |
@@ -523,7 +523,7 @@ _Last updated: 2026-05-24 05:48 UTC_
 | 92 | Asjha Jones | 637 |
 | 93 | Jennifer Azzi | 636 |
 | 94 | Brittney Griner | 635 |
-| 95 | A'ja Wilson | 627 |
+| 95 | A'ja Wilson | 629 |
 | 96 | Sami Whitcomb | 623 |
 | 97 | Alysha Clark | 614 |
 | 98 | Debbie Black | 612 |
@@ -642,7 +642,7 @@ _Last updated: 2026-05-24 05:48 UTC_
 | 6 | Lauren Jackson | 586 |
 | 7 | Tammy Sutton-Brown | 555 |
 | 8 | Tangela Smith | 554 |
-| 9 | A'ja Wilson | 546 |
+| 9 | A'ja Wilson | 547 |
 | 10 | Ruth Riley | 505 |
 | 11 | Elizabeth Williams | 486 |
 | 12 | Taj McWilliams-Franklin | 443 |
@@ -913,9 +913,9 @@ _Last updated: 2026-05-24 05:48 UTC_
 | 72 | Helen Darling | 343 |
 | 72 | Natasha Cloud | 343 |
 | 74 | Andrea Stinson | 342 |
-| 75 | A'ja Wilson | 340 |
-| 75 | Arike Ogunbowale | 340 |
-| 75 | Armintie Herrington | 340 |
+| 75 | A'ja Wilson | 341 |
+| 76 | Arike Ogunbowale | 340 |
+| 76 | Armintie Herrington | 340 |
 | 78 | Dawn Staley | 338 |
 | 79 | Marie Ferdinand-Harris | 331 |
 | 80 | Chasity Melvin | 330 |
@@ -1369,7 +1369,7 @@ _Last updated: 2026-05-24 05:48 UTC_
 | 117 | Ebony Hoffman | 470 |
 | 118 | Elaine Powell | 469 |
 | 119 | Allie Quigley | 467 |
-| 120 | A'ja Wilson | 456 |
+| 120 | A'ja Wilson | 457 |
 | 121 | Allisha Gray | 455 |
 | 122 | Kia Vaughn | 454 |
 | 123 | Janeth Arcain | 453 |
