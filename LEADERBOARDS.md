@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-24 01:19 UTC_
+_Last updated: 2026-05-24 01:20 UTC_
 
 ## Contents
 
@@ -64,7 +64,7 @@ _Last updated: 2026-05-24 01:19 UTC_
 | 43 | Crystal Langhorne | 4,433 |
 | 43 | Jia Perkins | 4,433 |
 | 45 | Courtney Vandersloot | 4,352 |
-| 46 | **Kelsey Plum** 🔴 +14 | 4,328 |
+| 46 | **Kelsey Plum** 🔴 +16 | 4,330 |
 | 47 | Sophia Young-Malcolm | 4,300 |
 | 48 | Plenette Pierson | 4,258 |
 | 49 | Monique Currie | 4,253 |
@@ -516,14 +516,14 @@ _Last updated: 2026-05-24 01:19 UTC_
 | 85 | Nykesha Sales | 677 |
 | 86 | Bria Hartley | 661 |
 | 87 | Lindsay Allen | 657 |
-| 88 | **Ariel Atkins** 🔴 +2 | 653 |
+| 88 | **Ariel Atkins** 🔴 +3 | 654 |
 | 89 | Betty Lennox | 651 |
 | 89 | Plenette Pierson | 651 |
 | 91 | Alex Bentley | 645 |
 | 92 | Asjha Jones | 637 |
 | 93 | Jennifer Azzi | 636 |
 | 94 | Brittney Griner | 635 |
-| 95 | **A'ja Wilson** 🔴 +1 | 626 |
+| 95 | **A'ja Wilson** 🔴 +2 | 627 |
 | 96 | Sami Whitcomb | 623 |
 | 97 | Alysha Clark | 614 |
 | 98 | Debbie Black | 612 |
@@ -825,10 +825,10 @@ _Last updated: 2026-05-24 01:19 UTC_
 | 188 | Wendy Palmer | 70 |
 | 190 | Mercedes Russell | 69 |
 | 190 | Rhonda Mapp | 69 |
+| 192 | **Cameron Brink** 🔴 +1 | 68 |
 | 192 | **Jackie Young** 🔴 +1 | 68 |
-| 193 | **Cameron Brink** 🔴 | 67 |
-| 193 | Satou Sabally | 67 |
-| 193 | Shannon Johnson | 67 |
+| 194 | Satou Sabally | 67 |
+| 194 | Shannon Johnson | 67 |
 | 196 | Awak Kuier | 66 |
 | 197 | Crystal Robinson | 65 |
 | 197 | Queen Egbo | 65 |
