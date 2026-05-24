@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-24 00:55 UTC_
+_Last updated: 2026-05-24 00:56 UTC_
 
 ## Contents
 
@@ -58,8 +58,8 @@ _Last updated: 2026-05-24 00:55 UTC_
 | 37 | Penny Taylor | 4,595 |
 | 38 | Alyssa Thomas | 4,554 |
 | 39 | Arike Ogunbowale | 4,512 |
-| 40 | Kristi Toliver | 4,474 |
-| 41 | **Chelsea Gray** 🔴 +4 | 4,473 |
+| 40 | **Chelsea Gray** 🔴 +6 | 4,475 |
+| 41 | Kristi Toliver | 4,474 |
 | 42 | Natasha Howard | 4,456 |
 | 43 | Crystal Langhorne | 4,433 |
 | 43 | Jia Perkins | 4,433 |
@@ -98,7 +98,7 @@ _Last updated: 2026-05-24 00:55 UTC_
 | 77 | Ivory Latta | 3,447 |
 | 78 | Nicole Powell | 3,407 |
 | 79 | Epiphanny Prince | 3,381 |
-| 80 | **Ariel Atkins** 🔴 +7 | 3,378 |
+| 80 | **Ariel Atkins** 🔴 +9 | 3,380 |
 | 81 | Michelle Snow | 3,361 |
 | 82 | Tamika Whitmore | 3,359 |
 | 83 | Sheri Sam | 3,353 |
@@ -206,7 +206,7 @@ _Last updated: 2026-05-24 00:55 UTC_
 | 185 | Sandy Brondello | 1,759 |
 | 186 | Natisha Hiedeman | 1,751 |
 | 187 | Sugar Rodgers | 1,733 |
-| 188 | **NaLyssa Smith** 🔴 +8 | 1,730 |
+| 188 | **NaLyssa Smith** 🔴 +9 | 1,731 |
 | 189 | Moriah Jefferson | 1,722 |
 | 190 | Sophie Cunningham | 1,705 |
 | 191 | Armintie Herrington | 1,696 |
@@ -454,7 +454,7 @@ _Last updated: 2026-05-24 00:55 UTC_
 | 23 | Kristi Toliver | 1,301 |
 | 24 | **Erica Wheeler** 🔴 +4 | 1,279 |
 | 25 | Katie Smith | 1,258 |
-| 26 | **Kelsey Plum** 🔴 +1 | 1,216 |
+| 26 | **Kelsey Plum** 🔴 +2 | 1,217 |
 | 27 | Odyssey Sims | 1,210 |
 | 28 | Vickie Johnson | 1,202 |
 | 29 | Leilani Mitchell | 1,197 |
