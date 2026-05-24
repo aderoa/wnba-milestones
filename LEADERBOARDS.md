@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-24 19:56 UTC_
+_Last updated: 2026-05-24 19:58 UTC_
 
 ## Contents
 
@@ -57,7 +57,7 @@ _Last updated: 2026-05-24 19:56 UTC_
 | 36 | Elena Delle Donne | 4,706 |
 | 37 | Penny Taylor | 4,595 |
 | 38 | **Alyssa Thomas** 🔴 +10 | 4,564 |
-| 39 | **Arike Ogunbowale** 🔴 | 4,512 |
+| 39 | **Arike Ogunbowale** 🔴 +3 | 4,515 |
 | 40 | Kristi Toliver | 4,474 |
 | 41 | Chelsea Gray | 4,469 |
 | 42 | Crystal Langhorne | 4,433 |
@@ -113,7 +113,7 @@ _Last updated: 2026-05-24 19:56 UTC_
 | 92 | Erica Wheeler | 3,078 |
 | 93 | Erika de Souza | 3,046 |
 | 94 | Shameka Christon | 3,039 |
-| 95 | **Sabrina Ionescu** 🔴 +4 | 3,034 |
+| 95 | **Sabrina Ionescu** 🔴 +5 | 3,035 |
 | 96 | Marie Ferdinand-Harris | 3,001 |
 | 97 | Emma Meesseman | 2,966 |
 | 98 | Marina Mabrey | 2,941 |
@@ -465,7 +465,7 @@ _Last updated: 2026-05-24 19:56 UTC_
 | 34 | Swin Cash | 1,131 |
 | 35 | Lindsey Harding | 1,090 |
 | 36 | Katie Douglas | 1,069 |
-| 37 | **Sabrina Ionescu** 🔴 +1 | 1,068 |
+| 36 | **Sabrina Ionescu** 🔴 +2 | 1,069 |
 | 38 | Alana Beard | 1,061 |
 | 39 | Jackie Young | 1,060 |
 | 40 | Penny Taylor | 1,049 |
@@ -609,7 +609,7 @@ _Last updated: 2026-05-24 19:56 UTC_
 | 178 | Shenise Johnson | 376 |
 | 179 | Suzie McConnell Serio | 370 |
 | 180 | Damiris Dantas | 368 |
-| 181 | **Alanna Smith** 🔴 +1 | 366 |
+| 181 | **Alanna Smith** 🔴 +2 | 367 |
 | 182 | Roneeka Hodges | 362 |
 | 183 | Andrea Nagy | 361 |
 | 183 | Diamond DeShields | 361 |
@@ -1060,7 +1060,7 @@ _Last updated: 2026-05-24 19:56 UTC_
 | 13 | Kelsey Plum | 598 |
 | 14 | Kara Lawson | 583 |
 | 15 | Nicole Powell | 579 |
-| 16 | **Arike Ogunbowale** 🔴 | 549 |
+| 16 | **Arike Ogunbowale** 🔴 +1 | 550 |
 | 17 | Ivory Latta | 536 |
 | 18 | Renee Montgomery | 532 |
 | 19 | Maya Moore | 530 |
