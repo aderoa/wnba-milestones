@@ -486,8 +486,8 @@ _Last updated: 2026-05-24 20:01 UTC_
 | 54 | Seimone Augustus | 911 |
 | 56 | Nneka Ogwumike | 904 |
 | 57 | Candice Dupree | 902 |
-| 58 | **Arike Ogunbowale** 🔴 | 896 |
-| 58 | Maya Moore | 896 |
+| 58 | **Arike Ogunbowale** 🔴 +1 | 897 |
+| 59 | Maya Moore | 896 |
 | 60 | Ivory Latta | 885 |
 | 61 | Helen Darling | 882 |
 | 62 | Taj McWilliams-Franklin | 879 |
