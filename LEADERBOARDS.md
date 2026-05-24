@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-24 23:38 UTC_
+_Last updated: 2026-05-24 23:39 UTC_
 
 ## Contents
 
@@ -105,7 +105,7 @@ _Last updated: 2026-05-24 23:38 UTC_
 | 84 | Andrea Stinson | 3,351 |
 | 85 | Tanisha Wright | 3,324 |
 | 86 | Margo Dydek | 3,214 |
-| 87 | **Stefanie Dolson** 🔴 +8 | 3,170 |
+| 87 | **Stefanie Dolson** 🔴 +9 | 3,171 |
 | 88 | Danielle Robinson | 3,160 |
 | 89 | Wendy Palmer | 3,135 |
 | 90 | Shavonte Zellous | 3,103 |
