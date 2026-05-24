@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-24 00:36 UTC_
+_Last updated: 2026-05-24 00:37 UTC_
 
 ## Contents
 
@@ -247,7 +247,7 @@ _Last updated: 2026-05-24 00:36 UTC_
 | 21 | Crystal Langhorne | 2,454 |
 | 22 | Lauren Jackson | 2,444 |
 | 23 | Yolanda Griffith | 2,440 |
-| 24 | **Dearica Hamby** 🔴 +1 | 2,347 |
+| 24 | **Dearica Hamby** 🔴 +2 | 2,348 |
 | 25 | Tangela Smith | 2,328 |
 | 26 | Erika de Souza | 2,220 |
 | 27 | Natasha Howard | 2,218 |
@@ -317,7 +317,7 @@ _Last updated: 2026-05-24 00:36 UTC_
 | 91 | Ezi Magbegor | 1,243 |
 | 92 | Azurá Stevens | 1,240 |
 | 93 | Tiffany Hayes | 1,233 |
-| 94 | **Brianna Turner** 🔴 | 1,229 |
+| 94 | **Brianna Turner** 🔴 +1 | 1,230 |
 | 95 | Seimone Augustus | 1,228 |
 | 96 | Myisha Hines-Allen | 1,224 |
 | 97 | Jia Perkins | 1,220 |
@@ -460,7 +460,7 @@ _Last updated: 2026-05-24 00:36 UTC_
 | 29 | Leilani Mitchell | 1,197 |
 | 30 | DeWanna Bonner | 1,183 |
 | 31 | Jordin Canada | 1,155 |
-| 32 | **Jewell Loyd** 🔴 | 1,141 |
+| 32 | **Jewell Loyd** 🔴 +1 | 1,142 |
 | 33 | Renee Montgomery | 1,140 |
 | 34 | Swin Cash | 1,131 |
 | 35 | Lindsey Harding | 1,090 |
