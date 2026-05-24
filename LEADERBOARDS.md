@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-24 00:47 UTC_
+_Last updated: 2026-05-24 00:48 UTC_
 
 ## Contents
 
@@ -71,7 +71,7 @@ _Last updated: 2026-05-24 00:47 UTC_
 | 50 | Allisha Gray | 4,232 |
 | 51 | Vickie Johnson | 4,230 |
 | 52 | Yolanda Griffith | 4,224 |
-| 53 | **Dearica Hamby** 🔴 +4 | 4,162 |
+| 53 | **Dearica Hamby** 🔴 +6 | 4,164 |
 | 54 | Kahleah Copper | 4,154 |
 | 55 | Courtney Williams | 4,141 |
 | 56 | Rebekkah Brunson | 4,133 |
@@ -340,7 +340,7 @@ _Last updated: 2026-05-24 00:47 UTC_
 | 114 | Becky Hammon | 1,108 |
 | 115 | Ann Wauters | 1,105 |
 | 116 | Natasha Cloud | 1,095 |
-| 117 | **NaLyssa Smith** 🔴 +1 | 1,082 |
+| 117 | **NaLyssa Smith** 🔴 +2 | 1,083 |
 | 118 | Svetlana Abrosimova | 1,078 |
 | 119 | Aliyah Boston | 1,066 |
 | 120 | Le'coe Willingham | 1,054 |
@@ -376,9 +376,9 @@ _Last updated: 2026-05-24 00:47 UTC_
 | 150 | Temeka Johnson | 889 |
 | 151 | Mistie Bass | 888 |
 | 152 | Shameka Christon | 867 |
+| 153 | **Erica Wheeler** 🔴 +4 | 862 |
 | 153 | Krystal Thomas | 862 |
-| 154 | Angel Reese | 861 |
-| 154 | **Erica Wheeler** 🔴 +3 | 861 |
+| 155 | Angel Reese | 861 |
 | 156 | Alanna Smith | 847 |
 | 157 | Leilani Mitchell | 845 |
 | 158 | Jessica Shepard | 836 |
@@ -454,7 +454,7 @@ _Last updated: 2026-05-24 00:47 UTC_
 | 23 | Kristi Toliver | 1,301 |
 | 24 | **Erica Wheeler** 🔴 +3 | 1,278 |
 | 25 | Katie Smith | 1,258 |
-| 26 | **Kelsey Plum** 🔴 | 1,215 |
+| 26 | **Kelsey Plum** 🔴 +1 | 1,216 |
 | 27 | Odyssey Sims | 1,210 |
 | 28 | Vickie Johnson | 1,202 |
 | 29 | Leilani Mitchell | 1,197 |
@@ -642,7 +642,7 @@ _Last updated: 2026-05-24 00:47 UTC_
 | 6 | Lauren Jackson | 586 |
 | 7 | Tammy Sutton-Brown | 555 |
 | 8 | Tangela Smith | 554 |
-| 9 | **A'ja Wilson** 🔴 +1 | 544 |
+| 9 | **A'ja Wilson** 🔴 +2 | 545 |
 | 10 | Ruth Riley | 505 |
 | 11 | Elizabeth Williams | 486 |
 | 12 | Taj McWilliams-Franklin | 443 |
@@ -1382,7 +1382,7 @@ _Last updated: 2026-05-24 00:47 UTC_
 | 129 | Tiffany Mitchell | 439 |
 | 131 | Alysha Clark | 438 |
 | 131 | Kedra Holland-Corn | 438 |
-| 133 | **Jackie Young** 🔴 +2 | 436 |
+| 133 | **Jackie Young** 🔴 +3 | 437 |
 | 134 | Jennifer Gillom | 434 |
 | 134 | Nicole Ohlde | 434 |
 | 136 | Murriel Page | 432 |
@@ -1610,8 +1610,8 @@ _Last updated: 2026-05-24 00:47 UTC_
 | 153 | Sheryl Swoopes | 519 |
 | 154 | Nikki McCray | 517 |
 | 155 | Alex Bentley | 516 |
+| 155 | **Jackie Young** 🔴 +2 | 516 |
 | 155 | Kayla McBride | 516 |
-| 157 | **Jackie Young** 🔴 +1 | 515 |
 | 158 | Jantel Lavender | 513 |
 | 159 | Adrienne Goodson | 512 |
 | 159 | Janeth Arcain | 512 |

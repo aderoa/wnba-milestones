@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-24T00:48:00+00:00",
+    "text": "Erica Wheeler passed Angel Reese for #154 all-time in rebounds (career 862) \u2014 up from #155 entering today \u2014 (4:11 - 2nd \u2014 LA @ LV)",
+    "kind": "rank_pass",
+    "player": "Erica Wheeler",
+    "stat": "rebounds",
+    "rank": 154,
+    "passed_players": [
+      "Angel Reese"
+    ],
+    "new_total": 862
+  },
+  {
     "ts": "2026-05-23T23:55:00+00:00",
     "text": "Bridget Carleton passed Iziane Castro Marques for #80 all-time in three-pointers (career 276) \u2014 up from #81 entering today \u2014 (2:54 - 4th \u2014 POR @ TOR)",
     "kind": "rank_pass",
@@ -3037,17 +3049,5 @@
       "Sabrina Ionescu"
     ],
     "new_total": 66
-  },
-  {
-    "ts": "2026-05-17T19:28:00+00:00",
-    "text": "NaLyssa Smith passed Shenise Johnson for #191 all-time in points (career 1,689) \u2014 up from #192 entering today \u2014 (8:36 - 4th \u2014 LV @ ATL)",
-    "kind": "rank_pass",
-    "player": "NaLyssa Smith",
-    "stat": "points",
-    "rank": 191,
-    "passed_players": [
-      "Shenise Johnson"
-    ],
-    "new_total": 1689
   }
 ]
