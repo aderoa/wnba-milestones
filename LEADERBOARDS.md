@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-24 19:43 UTC_
+_Last updated: 2026-05-24 19:44 UTC_
 
 ## Contents
 
@@ -169,7 +169,7 @@ _Last updated: 2026-05-24 19:43 UTC_
 | 148 | Ruthie Bolton | 2,175 |
 | 149 | Ann Wauters | 2,170 |
 | 150 | Layshia Clarendon | 2,168 |
-| 151 | **Satou Sabally** 🔴 | 2,161 |
+| 151 | **Satou Sabally** 🔴 +2 | 2,163 |
 | 152 | Murriel Page | 2,146 |
 | 153 | Marissa Coleman | 2,140 |
 | 154 | Tari Phillips | 2,134 |
@@ -242,7 +242,7 @@ _Last updated: 2026-05-24 19:43 UTC_
 | 16 | Brittney Griner | 2,537 |
 | 17 | A'ja Wilson | 2,522 |
 | 18 | Swin Cash | 2,521 |
-| 19 | **Breanna Stewart** 🔴 | 2,510 |
+| 19 | **Breanna Stewart** 🔴 +1 | 2,511 |
 | 20 | Michelle Snow | 2,476 |
 | 21 | Crystal Langhorne | 2,454 |
 | 22 | Lauren Jackson | 2,444 |
@@ -476,7 +476,7 @@ _Last updated: 2026-05-24 19:43 UTC_
 | 45 | Tamecka Dixon | 960 |
 | 46 | Kayla McBride | 952 |
 | 47 | Kara Lawson | 946 |
-| 48 | **Breanna Stewart** 🔴 | 938 |
+| 48 | **Breanna Stewart** 🔴 +1 | 939 |
 | 49 | Deanna Nolan | 930 |
 | 50 | Kelly Miller | 927 |
 | 51 | DeLisha Milton-Jones | 921 |
