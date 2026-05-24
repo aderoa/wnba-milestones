@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-24 20:13 UTC_
+_Last updated: 2026-05-24 20:14 UTC_
 
 ## Contents
 
@@ -112,8 +112,8 @@ _Last updated: 2026-05-24 20:13 UTC_
 | 91 | Briann January | 3,082 |
 | 92 | Erica Wheeler | 3,078 |
 | 93 | Erika de Souza | 3,046 |
-| 94 | Shameka Christon | 3,039 |
-| 95 | **Sabrina Ionescu** 🔴 +8 | 3,038 |
+| 94 | **Sabrina Ionescu** 🔴 +11 | 3,041 |
+| 95 | Shameka Christon | 3,039 |
 | 96 | Marie Ferdinand-Harris | 3,001 |
 | 97 | Emma Meesseman | 2,966 |
 | 98 | Marina Mabrey | 2,941 |
@@ -464,7 +464,7 @@ _Last updated: 2026-05-24 20:13 UTC_
 | 33 | Renee Montgomery | 1,140 |
 | 34 | Swin Cash | 1,131 |
 | 35 | Lindsey Harding | 1,090 |
-| 36 | **Sabrina Ionescu** 🔴 +5 | 1,072 |
+| 36 | **Sabrina Ionescu** 🔴 +6 | 1,073 |
 | 37 | Katie Douglas | 1,069 |
 | 38 | Alana Beard | 1,061 |
 | 39 | Jackie Young | 1,060 |
@@ -1069,7 +1069,7 @@ _Last updated: 2026-05-24 20:13 UTC_
 | 22 | Leilani Mitchell | 508 |
 | 23 | Shekinna Stricklen | 468 |
 | 24 | Cappie Pondexter | 464 |
-| 25 | **Sabrina Ionescu** 🔴 +1 | 461 |
+| 25 | **Sabrina Ionescu** 🔴 +2 | 462 |
 | 26 | **Breanna Stewart** 🔴 | 456 |
 | 27 | Marina Mabrey | 448 |
 | 28 | Tiffany Hayes | 447 |

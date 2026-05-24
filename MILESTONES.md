@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-24 20:14 UTC
+
+- **Sabrina Ionescu** passed **Shameka Christon** for **#94** all-time in points (career 3,041) — up from #95 entering today — _4:32 - 2nd — DAL @ NY_
+
 ## 2026-05-24 20:11 UTC
 
 - **Rhyne Howard** passed **Allison Feaster** and **Betty Lennox** for **#46** all-time in three-pointers (career 373) — up from #48 entering today — _7:46 - 3rd — PHX @ ATL_

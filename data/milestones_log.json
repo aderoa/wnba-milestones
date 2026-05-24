@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-24T20:14:00+00:00",
+    "text": "Sabrina Ionescu passed Shameka Christon for #94 all-time in points (career 3,041) \u2014 up from #95 entering today \u2014 (4:32 - 2nd \u2014 DAL @ NY)",
+    "kind": "rank_pass",
+    "player": "Sabrina Ionescu",
+    "stat": "points",
+    "rank": 94,
+    "passed_players": [
+      "Shameka Christon"
+    ],
+    "new_total": 3041
+  },
+  {
     "ts": "2026-05-24T20:11:00+00:00",
     "text": "Rhyne Howard passed Allison Feaster and Betty Lennox for #46 all-time in three-pointers (career 373) \u2014 up from #48 entering today \u2014 (7:46 - 3rd \u2014 PHX @ ATL)",
     "kind": "rank_pass",
@@ -3036,17 +3048,5 @@
       "Tianna Hawkins"
     ],
     "new_total": 663
-  },
-  {
-    "ts": "2026-05-18T00:53:00+00:00",
-    "text": "Dearica Hamby passed Deanna Nolan for #49 all-time in steals (career 389) \u2014 up from #51 entering today \u2014 (7:58 - 4th \u2014 TOR @ LA)",
-    "kind": "rank_pass",
-    "player": "Dearica Hamby",
-    "stat": "steals",
-    "rank": 49,
-    "passed_players": [
-      "Deanna Nolan"
-    ],
-    "new_total": 389
   }
 ]
