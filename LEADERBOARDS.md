@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-24 21:00 UTC_
+_Last updated: 2026-05-24 21:01 UTC_
 
 ## Contents
 
@@ -1356,7 +1356,7 @@ _Last updated: 2026-05-24 21:00 UTC_
 | 103 | Wendy Palmer | 517 |
 | 105 | Tully Bevilaqua | 514 |
 | 106 | Jia Perkins | 513 |
-| 107 | **Arike Ogunbowale** 🔴 +2 | 511 |
+| 107 | **Arike Ogunbowale** 🔴 +3 | 512 |
 | 108 | Tamera Young | 501 |
 | 109 | **Jordin Canada** 🔴 +1 | 497 |
 | 110 | Marina Mabrey | 494 |
@@ -1584,8 +1584,8 @@ _Last updated: 2026-05-24 21:00 UTC_
 | 127 | Chiney Ogwumike | 580 |
 | 127 | Hamchetou Maiga-Ba | 580 |
 | 127 | Olympia Scott | 580 |
-| 130 | **Arike Ogunbowale** 🔴 +1 | 576 |
-| 130 | Ezi Magbegor | 576 |
+| 130 | **Arike Ogunbowale** 🔴 +2 | 577 |
+| 131 | Ezi Magbegor | 576 |
 | 132 | Le'coe Willingham | 571 |
 | 133 | Ashley Robinson | 567 |
 | 134 | Ivory Latta | 565 |
