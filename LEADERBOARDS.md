@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-24 20:18 UTC_
+_Last updated: 2026-05-24 20:19 UTC_
 
 ## Contents
 
@@ -327,7 +327,7 @@ _Last updated: 2026-05-24 20:18 UTC_
 | 101 | Latasha Byears | 1,190 |
 | 101 | Tanisha Wright | 1,190 |
 | 103 | Vicky Bullett | 1,189 |
-| 104 | **Kahleah Copper** 🔴 +2 | 1,149 |
+| 104 | **Kahleah Copper** 🔴 +3 | 1,150 |
 | 105 | Nykesha Sales | 1,148 |
 | 106 | Shannon Johnson | 1,143 |
 | 107 | Adrian Williams-Strong | 1,131 |
@@ -379,7 +379,7 @@ _Last updated: 2026-05-24 20:18 UTC_
 | 152 | Shameka Christon | 867 |
 | 154 | Krystal Thomas | 862 |
 | 155 | Erica Wheeler | 858 |
-| 156 | **Alanna Smith** 🔴 +1 | 848 |
+| 156 | **Alanna Smith** 🔴 +2 | 849 |
 | 157 | Leilani Mitchell | 845 |
 | 158 | **Jessica Shepard** 🔴 +1 | 837 |
 | 159 | Essence Carson | 833 |
@@ -765,9 +765,9 @@ _Last updated: 2026-05-24 20:18 UTC_
 | 127 | Kamilla Cardoso | 100 |
 | 127 | Nicole Powell | 100 |
 | 131 | Emily Engstler | 99 |
-| 132 | Mwadi Mabika | 98 |
-| 132 | Natalie Achonwa | 98 |
-| 132 | **Rhyne Howard** 🔴 | 98 |
+| 131 | **Rhyne Howard** 🔴 +1 | 99 |
+| 133 | Mwadi Mabika | 98 |
+| 133 | Natalie Achonwa | 98 |
 | 135 | Aneika Morello | 96 |
 | 135 | Tiffani Johnson | 96 |
 | 137 | Imani McGee-Stafford | 95 |
