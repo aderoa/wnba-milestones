@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-24 01:00 UTC
+
+- **Dearica Hamby** passed **Deanna Nolan** for **#56** all-time in turnovers (career 670) — up from #57 entering today — _1:15 - 2nd — LA @ LV_
+
 ## 2026-05-24 00:57 UTC
 
 - **NaLyssa Smith** passed **Jasmine Thomas** and **Kayla Alexander** for **#141** all-time in blocks (career 92) — up from #143 entering today — _1:56 - 2nd — LA @ LV_

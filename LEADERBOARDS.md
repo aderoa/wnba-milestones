@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-24 00:59 UTC_
+_Last updated: 2026-05-24 01:00 UTC_
 
 ## Contents
 
@@ -434,7 +434,7 @@ _Last updated: 2026-05-24 00:59 UTC_
 | 3 | Ticha Penicheiro | 2,588 |
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
-| 6 | **Chelsea Gray** 🔴 +3 | 1,906 |
+| 6 | **Chelsea Gray** 🔴 +4 | 1,907 |
 | 7 | Alyssa Thomas | 1,854 |
 | 8 | Skylar Diggins | 1,791 |
 | 9 | Natasha Cloud | 1,748 |
@@ -774,9 +774,9 @@ _Last updated: 2026-05-24 00:59 UTC_
 | 137 | Isabelle Harrison | 95 |
 | 139 | Sandrine Gruda | 94 |
 | 140 | **Jewell Loyd** 🔴 | 93 |
-| 141 | **NaLyssa Smith** 🔴 +1 | 92 |
-| 142 | Jasmine Thomas | 91 |
-| 142 | Kayla Alexander | 91 |
+| 141 | Jasmine Thomas | 91 |
+| 141 | Kayla Alexander | 91 |
+| 141 | **NaLyssa Smith** 🔴 | 91 |
 | 144 | Allie Quigley | 90 |
 | 145 | Alysha Clark | 89 |
 | 146 | Marissa Coleman | 88 |
@@ -1305,8 +1305,8 @@ _Last updated: 2026-05-24 00:59 UTC_
 | 53 | Natasha Cloud | 676 |
 | 54 | **Erica Wheeler** 🔴 +2 | 673 |
 | 55 | Tammy Sutton-Brown | 672 |
-| 56 | Deanna Nolan | 669 |
-| 56 | **Dearica Hamby** 🔴 +2 | 669 |
+| 56 | **Dearica Hamby** 🔴 +3 | 670 |
+| 57 | Deanna Nolan | 669 |
 | 58 | Chasity Melvin | 666 |
 | 59 | Vickie Johnson | 660 |
 | 60 | Yolanda Griffith | 653 |
@@ -1369,9 +1369,9 @@ _Last updated: 2026-05-24 00:59 UTC_
 | 117 | Ebony Hoffman | 470 |
 | 118 | Elaine Powell | 469 |
 | 119 | Allie Quigley | 467 |
+| 120 | **A'ja Wilson** 🔴 +1 | 455 |
 | 120 | Allisha Gray | 455 |
-| 121 | **A'ja Wilson** 🔴 | 454 |
-| 121 | Kia Vaughn | 454 |
+| 122 | Kia Vaughn | 454 |
 | 123 | Janeth Arcain | 453 |
 | 124 | **Ariel Atkins** 🔴 +2 | 444 |
 | 124 | Elena Baranova | 444 |
@@ -1600,8 +1600,8 @@ _Last updated: 2026-05-24 00:59 UTC_
 | 142 | Renee Montgomery | 543 |
 | 144 | Marissa Coleman | 541 |
 | 145 | Marina Mabrey | 537 |
-| 146 | **A'ja Wilson** 🔴 | 533 |
-| 146 | Kristen Rasmussen | 533 |
+| 146 | **A'ja Wilson** 🔴 +1 | 534 |
+| 147 | Kristen Rasmussen | 533 |
 | 148 | Amanda Zahui B | 530 |
 | 149 | Damiris Dantas | 527 |
 | 150 | Candice Wiggins | 525 |

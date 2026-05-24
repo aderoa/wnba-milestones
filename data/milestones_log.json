@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-24T01:00:00+00:00",
+    "text": "Dearica Hamby passed Deanna Nolan for #56 all-time in turnovers (career 670) \u2014 up from #57 entering today \u2014 (1:15 - 2nd \u2014 LA @ LV)",
+    "kind": "rank_pass",
+    "player": "Dearica Hamby",
+    "stat": "turnovers",
+    "rank": 56,
+    "passed_players": [
+      "Deanna Nolan"
+    ],
+    "new_total": 670
+  },
+  {
     "ts": "2026-05-24T00:57:00+00:00",
     "text": "NaLyssa Smith passed Jasmine Thomas and Kayla Alexander for #141 all-time in blocks (career 92) \u2014 up from #143 entering today \u2014 (1:56 - 2nd \u2014 LA @ LV)",
     "kind": "rank_pass",
@@ -3030,19 +3042,5 @@
       "Ariel Atkins"
     ],
     "new_total": 366
-  },
-  {
-    "ts": "2026-05-17T19:50:00+00:00",
-    "text": "A'ja Wilson passed Candice Wiggins, Epiphanny Prince, and Marina Mabrey for #147 all-time in fouls (career 526) \u2014 up from #151 entering today \u2014 (59.9 - 4th \u2014 LV @ ATL)",
-    "kind": "rank_pass",
-    "player": "A'ja Wilson",
-    "stat": "fouls",
-    "rank": 147,
-    "passed_players": [
-      "Candice Wiggins",
-      "Epiphanny Prince",
-      "Marina Mabrey"
-    ],
-    "new_total": 526
   }
 ]
