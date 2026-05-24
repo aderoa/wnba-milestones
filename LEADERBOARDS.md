@@ -459,7 +459,7 @@ _Last updated: 2026-05-24 19:48 UTC_
 | 28 | Vickie Johnson | 1,202 |
 | 29 | Leilani Mitchell | 1,197 |
 | 30 | **DeWanna Bonner** 🔴 | 1,183 |
-| 31 | **Jordin Canada** 🔴 +4 | 1,159 |
+| 31 | **Jordin Canada** 🔴 +5 | 1,160 |
 | 32 | Jewell Loyd | 1,141 |
 | 33 | Renee Montgomery | 1,140 |
 | 34 | Swin Cash | 1,131 |
