@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-24 20:06 UTC_
+_Last updated: 2026-05-24 20:07 UTC_
 
 ## Contents
 
@@ -169,7 +169,7 @@ _Last updated: 2026-05-24 20:06 UTC_
 | 148 | Ruthie Bolton | 2,175 |
 | 149 | Ann Wauters | 2,170 |
 | 150 | Layshia Clarendon | 2,168 |
-| 151 | **Satou Sabally** 🔴 +5 | 2,166 |
+| 150 | **Satou Sabally** 🔴 +7 | 2,168 |
 | 152 | Murriel Page | 2,146 |
 | 153 | Marissa Coleman | 2,140 |
 | 154 | Tari Phillips | 2,134 |
@@ -236,7 +236,7 @@ _Last updated: 2026-05-24 20:06 UTC_
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | **Alyssa Thomas** 🔴 +5 | 2,775 |
-| 13 | **Jonquel Jones** 🔴 | 2,599 |
+| 13 | **Jonquel Jones** 🔴 +1 | 2,600 |
 | 14 | Sancho Lyttle | 2,596 |
 | 15 | DeLisha Milton-Jones | 2,574 |
 | 16 | Brittney Griner | 2,537 |
@@ -464,7 +464,7 @@ _Last updated: 2026-05-24 20:06 UTC_
 | 33 | Renee Montgomery | 1,140 |
 | 34 | Swin Cash | 1,131 |
 | 35 | Lindsey Harding | 1,090 |
-| 36 | **Sabrina Ionescu** 🔴 +4 | 1,071 |
+| 36 | **Sabrina Ionescu** 🔴 +3 | 1,070 |
 | 37 | Katie Douglas | 1,069 |
 | 38 | Alana Beard | 1,061 |
 | 39 | Jackie Young | 1,060 |
@@ -825,11 +825,11 @@ _Last updated: 2026-05-24 20:06 UTC_
 | 188 | Wendy Palmer | 70 |
 | 190 | Mercedes Russell | 69 |
 | 190 | Rhonda Mapp | 69 |
+| 192 | **Awak Kuier** 🔴 +1 | 67 |
 | 192 | Cameron Brink | 67 |
 | 192 | Jackie Young | 67 |
 | 192 | **Satou Sabally** 🔴 | 67 |
 | 192 | Shannon Johnson | 67 |
-| 196 | **Awak Kuier** 🔴 | 66 |
 | 197 | Crystal Robinson | 65 |
 | 197 | Queen Egbo | 65 |
 | 197 | Riquna Williams | 65 |
