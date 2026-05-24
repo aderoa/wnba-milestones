@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-24 20:11 UTC_
+_Last updated: 2026-05-24 20:12 UTC_
 
 ## Contents
 
@@ -32,7 +32,7 @@ _Last updated: 2026-05-24 20:11 UTC_
 | 11 | Katie Smith | 6,450 |
 | 12 | Sylvia Fowles | 6,413 |
 | 13 | Lisa Leslie | 6,251 |
-| 14 | **Breanna Stewart** 🔴 +6 | 6,083 |
+| 14 | **Breanna Stewart** 🔴 +8 | 6,085 |
 | 15 | Jewell Loyd | 6,059 |
 | 16 | Lauren Jackson | 6,005 |
 | 16 | Seimone Augustus | 6,005 |
@@ -57,7 +57,7 @@ _Last updated: 2026-05-24 20:11 UTC_
 | 36 | Elena Delle Donne | 4,706 |
 | 37 | Penny Taylor | 4,595 |
 | 38 | **Alyssa Thomas** 🔴 +14 | 4,568 |
-| 39 | **Arike Ogunbowale** 🔴 +6 | 4,518 |
+| 39 | **Arike Ogunbowale** 🔴 +7 | 4,519 |
 | 40 | Kristi Toliver | 4,474 |
 | 41 | Chelsea Gray | 4,469 |
 | 42 | Crystal Langhorne | 4,433 |
@@ -989,11 +989,11 @@ _Last updated: 2026-05-24 20:11 UTC_
 | 148 | Shenise Johnson | 217 |
 | 149 | Adrian Williams-Strong | 216 |
 | 149 | Moriah Jefferson | 216 |
-| 151 | Asjha Jones | 215 |
-| 151 | Candice Wiggins | 215 |
-| 151 | Cheyenne Parker-Tyus | 215 |
-| 151 | Elena Baranova | 215 |
-| 151 | **Rhyne Howard** 🔴 +1 | 215 |
+| 149 | **Rhyne Howard** 🔴 +2 | 216 |
+| 152 | Asjha Jones | 215 |
+| 152 | Candice Wiggins | 215 |
+| 152 | Cheyenne Parker-Tyus | 215 |
+| 152 | Elena Baranova | 215 |
 | 156 | **Kahleah Copper** 🔴 | 213 |
 | 156 | Shekinna Stricklen | 213 |
 | 158 | Nikki Teasley | 211 |
@@ -1326,7 +1326,7 @@ _Last updated: 2026-05-24 20:11 UTC_
 | 74 | Lindsey Harding | 600 |
 | 74 | Tamika Whitmore | 600 |
 | 76 | Kelly Miller | 596 |
-| 77 | **Kahleah Copper** 🔴 +1 | 591 |
+| 77 | **Kahleah Copper** 🔴 +2 | 592 |
 | 78 | Stefanie Dolson | 581 |
 | 79 | Helen Darling | 575 |
 | 79 | Nykesha Sales | 575 |
@@ -1369,7 +1369,7 @@ _Last updated: 2026-05-24 20:11 UTC_
 | 117 | Ebony Hoffman | 470 |
 | 118 | Elaine Powell | 469 |
 | 119 | Allie Quigley | 467 |
-| 120 | **Allisha Gray** 🔴 +1 | 456 |
+| 120 | **Allisha Gray** 🔴 +2 | 457 |
 | 121 | A'ja Wilson | 454 |
 | 121 | Kia Vaughn | 454 |
 | 123 | Janeth Arcain | 453 |
@@ -1555,8 +1555,8 @@ _Last updated: 2026-05-24 20:11 UTC_
 | 98 | Chamique Holdsclaw | 667 |
 | 99 | Cheyenne Parker-Tyus | 666 |
 | 100 | Tianna Hawkins | 662 |
+| 101 | **Breanna Stewart** 🔴 +1 | 657 |
 | 101 | Jewell Loyd | 657 |
-| 102 | **Breanna Stewart** 🔴 | 656 |
 | 103 | Tari Phillips | 648 |
 | 104 | Marie Ferdinand-Harris | 646 |
 | 105 | Kayla Thornton | 644 |
