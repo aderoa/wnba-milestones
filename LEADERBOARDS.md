@@ -417,7 +417,7 @@ _Last updated: 2026-05-25 00:01 UTC_
 | 191 | Shenise Johnson | 729 |
 | 192 | Sami Whitcomb | 726 |
 | 192 | Shekinna Stricklen | 726 |
-| 194 | **Shakira Austin** 🔴 +3 | 722 |
+| 194 | **Shakira Austin** 🔴 +4 | 723 |
 | 195 | Kelsey Plum | 721 |
 | 196 | Olympia Scott | 711 |
 | 197 | Katie Mattera | 708 |
@@ -1208,7 +1208,7 @@ _Last updated: 2026-05-25 00:01 UTC_
 | 161 | Shay Murphy | 134 |
 | 162 | Brooke Wyckoff | 132 |
 | 162 | Jenna O'Hea | 132 |
-| 164 | **Karlie Samuelson** 🔴 | 131 |
+| 162 | **Karlie Samuelson** 🔴 +1 | 132 |
 | 165 | Amanda Zahui B | 130 |
 | 165 | Eva Nemcova | 130 |
 | 167 | Crystal Dangerfield | 129 |
