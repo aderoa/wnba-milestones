@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-25 08:45 UTC_
+_Last updated: 2026-05-25 08:46 UTC_
 
 ## Contents
 
@@ -1208,7 +1208,7 @@ _Last updated: 2026-05-25 08:45 UTC_
 | 161 | Shay Murphy | 134 |
 | 162 | Brooke Wyckoff | 132 |
 | 162 | Jenna O'Hea | 132 |
-| 162 | Karlie Samuelson | 132 |
+| 164 | Karlie Samuelson | 131 |
 | 165 | Amanda Zahui B | 130 |
 | 165 | Eva Nemcova | 130 |
 | 167 | Crystal Dangerfield | 129 |
