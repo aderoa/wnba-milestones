@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-25T00:16:00+00:00",
+    "text": "Stefanie Dolson passed Sheryl Swoopes for #82 all-time in three-pointers (career 271) \u2014 up from #83 entering today \u2014 (19.9 - 4th \u2014 WSH @ SEA)",
+    "kind": "rank_pass",
+    "player": "Stefanie Dolson",
+    "stat": "three-pointers",
+    "rank": 82,
+    "passed_players": [
+      "Sheryl Swoopes"
+    ],
+    "new_total": 271
+  },
+  {
     "ts": "2026-05-25T00:13:00+00:00",
     "text": "Stefanie Dolson reached 1,100 career fouls (now 1,100) \u2014 (1:42 - 4th \u2014 WSH @ SEA)",
     "kind": "round",
@@ -3030,19 +3042,5 @@
     "stat": "rebounds",
     "value": 3300,
     "new_total": 3302
-  },
-  {
-    "ts": "2026-05-18T14:28:00+00:00",
-    "text": "Nneka Ogwumike passed Alex Bentley, Cynthia Cooper, and Azur\u00e1 Stevens for #91 all-time in three-pointers (career 240) \u2014 up from #94 entering today \u2014 (Final \u2014 TOR @ LA)",
-    "kind": "rank_pass",
-    "player": "Nneka Ogwumike",
-    "stat": "three-pointers",
-    "rank": 91,
-    "passed_players": [
-      "Alex Bentley",
-      "Cynthia Cooper",
-      "Azur\u00e1 Stevens"
-    ],
-    "new_total": 240
   }
 ]

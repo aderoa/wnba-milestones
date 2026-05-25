@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-25 00:16 UTC
+
+- **Stefanie Dolson** passed **Sheryl Swoopes** for **#82** all-time in three-pointers (career 271) — up from #83 entering today — _19.9 - 4th — WSH @ SEA_
+
 ## 2026-05-25 00:13 UTC
 
 - **Stefanie Dolson** reached **1,100** career fouls (now 1,100) — _1:42 - 4th — WSH @ SEA_
