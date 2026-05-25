@@ -750,7 +750,7 @@ _Last updated: 2026-05-25 00:16 UTC_
 | 114 | Ariel Atkins | 109 |
 | 115 | Erin Perperoglou | 108 |
 | 115 | Glory Johnson | 108 |
-| 117 | **Shakira Austin** 🔴 +1 | 107 |
+| 115 | **Shakira Austin** 🔴 +2 | 108 |
 | 118 | Sylvia Crawley | 106 |
 | 119 | Carolyn Swords | 104 |
 | 119 | Rebecca Lobo | 104 |
