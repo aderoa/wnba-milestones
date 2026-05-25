@@ -1,5 +1,14 @@
 [
   {
+    "ts": "2026-05-25T00:13:00+00:00",
+    "text": "Stefanie Dolson reached 1,100 career fouls (now 1,100) \u2014 (1:42 - 4th \u2014 WSH @ SEA)",
+    "kind": "round",
+    "player": "Stefanie Dolson",
+    "stat": "fouls",
+    "value": 1100,
+    "new_total": 1100
+  },
+  {
     "ts": "2026-05-24T23:53:00+00:00",
     "text": "Shakira Austin passed Sylvia Crawley for #118 all-time in blocks (career 107) \u2014 (7:33 - 4th \u2014 WSH @ SEA)",
     "kind": "rank_pass",
@@ -3035,14 +3044,5 @@
       "Azur\u00e1 Stevens"
     ],
     "new_total": 240
-  },
-  {
-    "ts": "2026-05-18T14:28:00+00:00",
-    "text": "Dearica Hamby reached 700 career assists (now 700) \u2014 (Final \u2014 TOR @ LA)",
-    "kind": "round",
-    "player": "Dearica Hamby",
-    "stat": "assists",
-    "value": 700,
-    "new_total": 700
   }
 ]

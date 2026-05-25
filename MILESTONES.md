@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-25 00:13 UTC
+
+- **Stefanie Dolson** reached **1,100** career fouls (now 1,100) — _1:42 - 4th — WSH @ SEA_
+
 ## 2026-05-24 23:53 UTC
 
 - **Shakira Austin** passed **Sylvia Crawley** for **#118** all-time in blocks (career 107) — _7:33 - 4th — WSH @ SEA_
