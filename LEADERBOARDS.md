@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-26 02:07 UTC_
+_Last updated: 2026-05-26 02:08 UTC_
 
 ## Contents
 
@@ -957,10 +957,10 @@ _Last updated: 2026-05-26 02:07 UTC_
 | 116 | Karima Christmas-Kelly | 261 |
 | 117 | Riquna Williams | 260 |
 | 118 | Kelsey Plum | 258 |
+| 119 | **Kayla Thornton** 🔴 +1 | 256 |
 | 119 | Noelle Quinn | 256 |
-| 120 | Elaine Powell | 255 |
-| 120 | **Kayla Thornton** 🔴 | 255 |
-| 120 | Loree Moore | 255 |
+| 121 | Elaine Powell | 255 |
+| 121 | Loree Moore | 255 |
 | 123 | Ruthie Bolton | 254 |
 | 124 | Hamchetou Maiga-Ba | 251 |
 | 124 | Tamika Whitmore | 251 |
