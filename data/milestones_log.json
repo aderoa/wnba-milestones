@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-26T03:18:00+00:00",
+    "text": "Kayla Thornton passed Noelle Quinn for #119 all-time in steals (career 257) \u2014 up from #121 entering today \u2014 (9:28 - 3rd \u2014 CON @ GS)",
+    "kind": "rank_pass",
+    "player": "Kayla Thornton",
+    "stat": "steals",
+    "rank": 119,
+    "passed_players": [
+      "Noelle Quinn"
+    ],
+    "new_total": 257
+  },
+  {
     "ts": "2026-05-26T02:23:00+00:00",
     "text": "Olivia Nelson-Ododa passed Natalie Williams for #101 all-time in blocks (career 123) \u2014 up from #102 entering today \u2014 (1:26 - 1st \u2014 CON @ GS)",
     "kind": "rank_pass",
@@ -3027,17 +3039,5 @@
       "Marie Ferdinand-Harris"
     ],
     "new_total": 830
-  },
-  {
-    "ts": "2026-05-18T14:28:00+00:00",
-    "text": "Marina Mabrey passed Sheri Sam for #74 all-time in assists (career 749) \u2014 (Final \u2014 TOR @ LA)",
-    "kind": "rank_pass",
-    "player": "Marina Mabrey",
-    "stat": "assists",
-    "rank": 74,
-    "passed_players": [
-      "Sheri Sam"
-    ],
-    "new_total": 749
   }
 ]
