@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-26 02:58 UTC_
+_Last updated: 2026-05-26 02:59 UTC_
 
 ## Contents
 
@@ -306,7 +306,7 @@ _Last updated: 2026-05-26 02:58 UTC_
 | 80 | Jewell Loyd | 1,347 |
 | 81 | Elena Baranova | 1,335 |
 | 82 | Brionna Jones | 1,333 |
-| 83 | **Kayla Thornton** 🔴 +6 | 1,331 |
+| 83 | **Kayla Thornton** 🔴 +7 | 1,332 |
 | 84 | Erlana Larkins | 1,329 |
 | 85 | Mwadi Mabika | 1,327 |
 | 86 | Jayne Appel Marinelli | 1,326 |
@@ -479,7 +479,7 @@ _Last updated: 2026-05-26 02:58 UTC_
 | 48 | Breanna Stewart | 938 |
 | 49 | Deanna Nolan | 930 |
 | 50 | Kelly Miller | 927 |
-| 51 | **Tiffany Hayes** 🔴 +1 | 922 |
+| 51 | **Tiffany Hayes** 🔴 +2 | 923 |
 | 52 | DeLisha Milton-Jones | 921 |
 | 53 | Angel McCoughtry | 915 |
 | 54 | Layshia Clarendon | 911 |
