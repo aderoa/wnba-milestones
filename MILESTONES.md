@@ -2,6 +2,11 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-26 00:51 UTC
+
+- **Marine Johannès** reached **700** career points (now 700) — _4:25 - 2nd — POR @ NY_
+- **Marine Johannès** passed **Bridget Pettis** and **Jennifer Gillom** for **#140** all-time in three-pointers (career 154) — up from #143 entering today — _4:25 - 2nd — POR @ NY_
+
 ## 2026-05-26 00:45 UTC
 
 - **Marine Johannès** passed **Alanna Smith** for **#142** all-time in three-pointers (career 153) — up from #143 entering today — _5:35 - 2nd — POR @ NY_

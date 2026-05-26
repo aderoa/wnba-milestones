@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-26 00:50 UTC_
+_Last updated: 2026-05-26 00:51 UTC_
 
 ## Contents
 
@@ -1184,9 +1184,9 @@ _Last updated: 2026-05-26 00:50 UTC_
 | 137 | Aari McDonald | 158 |
 | 137 | Jennifer Azzi | 158 |
 | 139 | Natasha Howard | 157 |
-| 140 | Bridget Pettis | 153 |
-| 140 | Jennifer Gillom | 153 |
-| 140 | **Marine Johannès** 🔴 +2 | 153 |
+| 140 | **Marine Johannès** 🔴 +3 | 154 |
+| 141 | Bridget Pettis | 153 |
+| 141 | Jennifer Gillom | 153 |
 | 143 | Alanna Smith | 152 |
 | 144 | Rita Williams | 150 |
 | 145 | Moriah Jefferson | 149 |
