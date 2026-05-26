@@ -217,7 +217,7 @@ _Last updated: 2026-05-26 01:42 UTC_
 | 196 | Le'coe Willingham | 1,552 |
 | 197 | Shatori Walker-Kimbrough | 1,544 |
 | 198 | Monique Billings | 1,528 |
-| 199 | **Rebecca Allen** 🔴 | 1,517 |
+| 199 | **Rebecca Allen** 🔴 +2 | 1,519 |
 | 200 | Jennifer Lacy | 1,504 |
 
 ## Rebounds
