@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-26 00:45 UTC
+
+- **Marine Johannès** passed **Alanna Smith** for **#142** all-time in three-pointers (career 153) — up from #143 entering today — _5:35 - 2nd — POR @ NY_
+
 ## 2026-05-25 00:16 UTC
 
 - **Stefanie Dolson** passed **Sheryl Swoopes** for **#82** all-time in three-pointers (career 271) — up from #83 entering today — _19.9 - 4th — WSH @ SEA_
