@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-26 01:34 UTC_
+_Last updated: 2026-05-26 01:35 UTC_
 
 ## Contents
 
@@ -73,7 +73,7 @@ _Last updated: 2026-05-26 01:34 UTC_
 | 52 | Yolanda Griffith | 4,224 |
 | 53 | Dearica Hamby | 4,158 |
 | 54 | Kahleah Copper | 4,154 |
-| 55 | **Jonquel Jones** 🔴 +9 | 4,141 |
+| 55 | **Jonquel Jones** 🔴 +10 | 4,142 |
 | 56 | Rebekkah Brunson | 4,133 |
 | 57 | Courtney Williams | 4,124 |
 | 58 | Asjha Jones | 3,986 |
@@ -648,7 +648,7 @@ _Last updated: 2026-05-26 01:34 UTC_
 | 12 | Taj McWilliams-Franklin | 443 |
 | 13 | **Breanna Stewart** 🔴 | 433 |
 | 14 | Tina Charles | 428 |
-| 15 | **Jonquel Jones** 🔴 +2 | 408 |
+| 15 | **Jonquel Jones** 🔴 +3 | 409 |
 | 16 | Michelle Snow | 403 |
 | 17 | Tamika Catchings | 383 |
 | 18 | Tina Thompson | 372 |
