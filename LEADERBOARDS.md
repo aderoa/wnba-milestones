@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-26 02:12 UTC_
+_Last updated: 2026-05-26 02:13 UTC_
 
 ## Contents
 
@@ -540,9 +540,9 @@ _Last updated: 2026-05-26 02:12 UTC_
 | 109 | Napheesa Collier | 570 |
 | 110 | Nicole Powell | 567 |
 | 111 | Loree Moore | 562 |
-| 112 | **Gabby Williams** 🔴 | 554 |
-| 112 | Sophia Young-Malcolm | 554 |
-| 112 | Tangela Smith | 554 |
+| 112 | **Gabby Williams** 🔴 +1 | 555 |
+| 113 | Sophia Young-Malcolm | 554 |
+| 113 | Tangela Smith | 554 |
 | 115 | Tamera Young | 552 |
 | 116 | Janel McCarville | 551 |
 | 116 | Svetlana Abrosimova | 551 |
@@ -735,7 +735,7 @@ _Last updated: 2026-05-26 02:12 UTC_
 | 99 | Chelsea Gray | 123 |
 | 100 | Alyssa Thomas | 122 |
 | 100 | Natalie Williams | 122 |
-| 100 | Olivia Nelson-Ododa | 122 |
+| 100 | **Olivia Nelson-Ododa** 🔴 | 122 |
 | 103 | Ebony Hoffman | 121 |
 | 103 | Essence Carson | 121 |
 | 105 | Krystal Thomas | 118 |
@@ -963,8 +963,8 @@ _Last updated: 2026-05-26 02:12 UTC_
 | 121 | Loree Moore | 255 |
 | 123 | Ruthie Bolton | 254 |
 | 124 | Hamchetou Maiga-Ba | 251 |
-| 124 | **Jonquel Jones** 🔴 +1 | 251 |
 | 124 | Tamika Whitmore | 251 |
+| 126 | **Jonquel Jones** 🔴 | 250 |
 | 127 | Sami Whitcomb | 246 |
 | 128 | Latasha Byears | 245 |
 | 129 | Alex Bentley | 244 |
@@ -1239,8 +1239,8 @@ _Last updated: 2026-05-26 02:12 UTC_
 | 192 | Layshia Clarendon | 107 |
 | 193 | Leonie Fiebich | 106 |
 | 194 | Laurie Koehn | 105 |
-| 195 | Julie Vanloo | 104 |
-| 195 | **Veronica Burton** 🔴 | 104 |
+| 194 | **Veronica Burton** 🔴 +1 | 105 |
+| 196 | Julie Vanloo | 104 |
 | 197 | Jeanette Pohlen-Mavunga | 103 |
 | 197 | Kiesha Brown | 103 |
 | 199 | Adrienne Johnson | 102 |
