@@ -73,7 +73,7 @@ _Last updated: 2026-05-26 04:43 UTC_
 | 52 | Yolanda Griffith | 4,224 |
 | 53 | Dearica Hamby | 4,158 |
 | 54 | Kahleah Copper | 4,154 |
-| 55 | Jonquel Jones | 4,144 |
+| 55 | Jonquel Jones | 4,142 |
 | 56 | Rebekkah Brunson | 4,133 |
 | 57 | Courtney Williams | 4,124 |
 | 58 | Asjha Jones | 3,986 |
@@ -236,7 +236,7 @@ _Last updated: 2026-05-26 04:43 UTC_
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | Alyssa Thomas | 2,770 |
-| 13 | Jonquel Jones | 2,610 |
+| 13 | Jonquel Jones | 2,608 |
 | 14 | Sancho Lyttle | 2,596 |
 | 15 | DeLisha Milton-Jones | 2,574 |
 | 16 | Brittney Griner | 2,537 |
@@ -527,7 +527,7 @@ _Last updated: 2026-05-26 04:43 UTC_
 | 96 | Sami Whitcomb | 623 |
 | 97 | Alysha Clark | 614 |
 | 98 | Debbie Black | 612 |
-| 98 | Jonquel Jones | 612 |
+| 99 | Jonquel Jones | 611 |
 | 100 | Cynthia Cooper | 602 |
 | 101 | Natisha Hiedeman | 594 |
 | 102 | Sancho Lyttle | 592 |
@@ -648,7 +648,7 @@ _Last updated: 2026-05-26 04:43 UTC_
 | 12 | Taj McWilliams-Franklin | 443 |
 | 13 | Breanna Stewart | 434 |
 | 14 | Tina Charles | 428 |
-| 15 | Jonquel Jones | 410 |
+| 15 | Jonquel Jones | 409 |
 | 16 | Michelle Snow | 403 |
 | 17 | Tamika Catchings | 383 |
 | 18 | Tina Thompson | 372 |
@@ -1498,7 +1498,7 @@ _Last updated: 2026-05-26 04:43 UTC_
 | 41 | DeWanna Bonner | 899 |
 | 42 | Alysha Clark | 887 |
 | 43 | DeMya Walker | 882 |
-| 44 | Jonquel Jones | 880 |
+| 44 | Jonquel Jones | 878 |
 | 45 | Candice Dupree | 876 |
 | 46 | Murriel Page | 872 |
 | 47 | Cappie Pondexter | 869 |
