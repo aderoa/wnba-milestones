@@ -1498,7 +1498,7 @@ _Last updated: 2026-05-26 01:52 UTC_
 | 41 | DeWanna Bonner | 899 |
 | 42 | Alysha Clark | 887 |
 | 43 | DeMya Walker | 882 |
-| 44 | **Jonquel Jones** 🔴 +3 | 878 |
+| 44 | **Jonquel Jones** 🔴 +4 | 879 |
 | 45 | Candice Dupree | 876 |
 | 46 | Murriel Page | 872 |
 | 47 | Cappie Pondexter | 869 |
