@@ -242,7 +242,7 @@ _Last updated: 2026-05-26 00:17 UTC_
 | 16 | Brittney Griner | 2,537 |
 | 17 | A'ja Wilson | 2,522 |
 | 18 | Swin Cash | 2,521 |
-| 19 | **Breanna Stewart** 🔴 | 2,510 |
+| 19 | **Breanna Stewart** 🔴 +1 | 2,511 |
 | 20 | Michelle Snow | 2,476 |
 | 21 | Crystal Langhorne | 2,454 |
 | 22 | Lauren Jackson | 2,444 |
@@ -1429,7 +1429,7 @@ _Last updated: 2026-05-26 00:17 UTC_
 | 176 | Rita Williams | 326 |
 | 178 | Le'coe Willingham | 325 |
 | 179 | Olympia Scott | 324 |
-| 180 | **Satou Sabally** 🔴 | 323 |
+| 179 | **Satou Sabally** 🔴 +1 | 324 |
 | 181 | Barbara Farris | 315 |
 | 181 | Kia Nurse | 315 |
 | 183 | Moriah Jefferson | 314 |
@@ -1499,7 +1499,7 @@ _Last updated: 2026-05-26 00:17 UTC_
 | 42 | Alysha Clark | 887 |
 | 43 | DeMya Walker | 882 |
 | 44 | Candice Dupree | 876 |
-| 45 | **Jonquel Jones** 🔴 | 875 |
+| 44 | **Jonquel Jones** 🔴 +1 | 876 |
 | 46 | Murriel Page | 872 |
 | 47 | Cappie Pondexter | 869 |
 | 48 | Erika de Souza | 858 |
