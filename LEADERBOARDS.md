@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-26 03:25 UTC_
+_Last updated: 2026-05-26 03:26 UTC_
 
 ## Contents
 
@@ -152,7 +152,7 @@ _Last updated: 2026-05-26 03:25 UTC_
 | 131 | Alex Bentley | 2,350 |
 | 132 | Merlakia Jones | 2,308 |
 | 133 | Kia Vaughn | 2,288 |
-| 134 | **Kayla Thornton** 🔴 +2 | 2,269 |
+| 134 | **Kayla Thornton** 🔴 +5 | 2,272 |
 | 135 | Betnijah Laney-Hamilton | 2,261 |
 | 136 | Allison Feaster | 2,258 |
 | 137 | Shekinna Stricklen | 2,245 |
@@ -306,7 +306,7 @@ _Last updated: 2026-05-26 03:25 UTC_
 | 80 | Jewell Loyd | 1,347 |
 | 81 | Elena Baranova | 1,335 |
 | 82 | Brionna Jones | 1,333 |
-| 83 | **Kayla Thornton** 🔴 +7 | 1,332 |
+| 82 | **Kayla Thornton** 🔴 +8 | 1,333 |
 | 84 | Erlana Larkins | 1,329 |
 | 85 | Mwadi Mabika | 1,327 |
 | 86 | Jayne Appel Marinelli | 1,326 |
@@ -553,7 +553,7 @@ _Last updated: 2026-05-26 03:25 UTC_
 | 122 | Iziane Castro Marques | 509 |
 | 123 | Brittany Boyd-Jones | 508 |
 | 123 | Chasity Melvin | 508 |
-| 125 | **Veronica Burton** 🔴 +5 | 506 |
+| 125 | **Veronica Burton** 🔴 +6 | 507 |
 | 126 | Anna DeForge | 503 |
 | 126 | Coco Miller | 503 |
 | 128 | Rachel Banham | 498 |
@@ -615,7 +615,7 @@ _Last updated: 2026-05-26 03:25 UTC_
 | 183 | Diamond DeShields | 361 |
 | 183 | Erlana Larkins | 361 |
 | 186 | Bridget Carleton | 360 |
-| 187 | **Kayla Thornton** 🔴 +1 | 356 |
+| 187 | **Kayla Thornton** 🔴 +2 | 357 |
 | 188 | Merlakia Jones | 355 |
 | 189 | Jessica Shepard | 353 |
 | 190 | Charlotte Smith | 352 |
@@ -956,8 +956,8 @@ _Last updated: 2026-05-26 03:25 UTC_
 | 115 | Michelle Snow | 262 |
 | 116 | Karima Christmas-Kelly | 261 |
 | 117 | Riquna Williams | 260 |
+| 118 | **Kayla Thornton** 🔴 +3 | 258 |
 | 118 | Kelsey Plum | 258 |
-| 119 | **Kayla Thornton** 🔴 +2 | 257 |
 | 120 | Noelle Quinn | 256 |
 | 121 | Elaine Powell | 255 |
 | 121 | Loree Moore | 255 |
@@ -1123,7 +1123,7 @@ _Last updated: 2026-05-26 03:25 UTC_
 | 76 | Alana Beard | 288 |
 | 76 | Natisha Hiedeman | 288 |
 | 78 | Monique Currie | 284 |
-| 79 | **Kayla Thornton** 🔴 | 276 |
+| 79 | **Kayla Thornton** 🔴 +1 | 277 |
 | 80 | Iziane Castro Marques | 275 |
 | 81 | Bridget Carleton | 273 |
 | 82 | Sheryl Swoopes | 270 |
@@ -1238,8 +1238,8 @@ _Last updated: 2026-05-26 03:25 UTC_
 | 191 | Belinda Snell | 108 |
 | 192 | Layshia Clarendon | 107 |
 | 193 | Leonie Fiebich | 106 |
-| 194 | Laurie Koehn | 105 |
-| 194 | **Veronica Burton** 🔴 +1 | 105 |
+| 193 | **Veronica Burton** 🔴 +2 | 106 |
+| 195 | Laurie Koehn | 105 |
 | 196 | Julie Vanloo | 104 |
 | 197 | Jeanette Pohlen-Mavunga | 103 |
 | 197 | Kiesha Brown | 103 |
