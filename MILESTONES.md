@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-26 03:32 UTC
+
+- **Rickea Jackson** passed **Gordana Grubin** and **Sandy Brondello** for **#183** all-time in three-pointers (career 115) — up from #184 entering today — _2:35 - 3rd — CON @ GS_
+
 ## 2026-05-26 03:18 UTC
 
 - **Kayla Thornton** passed **Noelle Quinn** for **#119** all-time in steals (career 257) — up from #121 entering today — _9:28 - 3rd — CON @ GS_

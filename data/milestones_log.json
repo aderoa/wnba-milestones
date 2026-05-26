@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-05-26T03:32:00+00:00",
+    "text": "Rickea Jackson passed Gordana Grubin and Sandy Brondello for #183 all-time in three-pointers (career 115) \u2014 up from #184 entering today \u2014 (2:35 - 3rd \u2014 CON @ GS)",
+    "kind": "rank_pass",
+    "player": "Rickea Jackson",
+    "stat": "three-pointers",
+    "rank": 183,
+    "passed_players": [
+      "Gordana Grubin",
+      "Sandy Brondello"
+    ],
+    "new_total": 115
+  },
+  {
     "ts": "2026-05-26T03:18:00+00:00",
     "text": "Kayla Thornton passed Noelle Quinn for #119 all-time in steals (career 257) \u2014 up from #121 entering today \u2014 (9:28 - 3rd \u2014 CON @ GS)",
     "kind": "rank_pass",
@@ -3026,18 +3039,5 @@
       "Kelly Miller"
     ],
     "new_total": 678
-  },
-  {
-    "ts": "2026-05-18T14:28:00+00:00",
-    "text": "Marina Mabrey passed Kristi Toliver and Marie Ferdinand-Harris for #160 all-time in rebounds (career 830) \u2014 up from #162 entering today \u2014 (Final \u2014 TOR @ LA)",
-    "kind": "rank_pass",
-    "player": "Marina Mabrey",
-    "stat": "rebounds",
-    "rank": 160,
-    "passed_players": [
-      "Kristi Toliver",
-      "Marie Ferdinand-Harris"
-    ],
-    "new_total": 830
   }
 ]

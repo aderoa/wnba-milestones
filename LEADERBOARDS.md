@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-26 03:31 UTC_
+_Last updated: 2026-05-26 03:32 UTC_
 
 ## Contents
 
@@ -1225,11 +1225,11 @@ _Last updated: 2026-05-26 03:31 UTC_
 | 177 | Marie Ferdinand-Harris | 116 |
 | 179 | Ebony Hoffman | 115 |
 | 179 | Jordin Canada | 115 |
+| 179 | **Rickea Jackson** 🔴 +1 | 115 |
 | 179 | Shey Peddy | 115 |
 | 179 | Stephanie White | 115 |
-| 183 | Gordana Grubin | 114 |
-| 183 | **Rickea Jackson** 🔴 | 114 |
-| 183 | Sandy Brondello | 114 |
+| 184 | Gordana Grubin | 114 |
+| 184 | Sandy Brondello | 114 |
 | 186 | Lexie Hull | 111 |
 | 186 | Shoni Schimmel | 111 |
 | 188 | **Kennedy Burke** 🔴 | 110 |
