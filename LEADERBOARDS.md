@@ -32,7 +32,7 @@ _Last updated: 2026-05-26 01:38 UTC_
 | 11 | Katie Smith | 6,450 |
 | 12 | Sylvia Fowles | 6,413 |
 | 13 | Lisa Leslie | 6,251 |
-| 14 | **Breanna Stewart** 🔴 +13 | 6,090 |
+| 14 | **Breanna Stewart** 🔴 +14 | 6,091 |
 | 15 | Jewell Loyd | 6,059 |
 | 16 | Lauren Jackson | 6,005 |
 | 16 | Seimone Augustus | 6,005 |
@@ -242,7 +242,7 @@ _Last updated: 2026-05-26 01:38 UTC_
 | 16 | Brittney Griner | 2,537 |
 | 17 | A'ja Wilson | 2,522 |
 | 18 | Swin Cash | 2,521 |
-| 19 | **Breanna Stewart** 🔴 +6 | 2,516 |
+| 19 | **Breanna Stewart** 🔴 +7 | 2,517 |
 | 20 | Michelle Snow | 2,476 |
 | 21 | Crystal Langhorne | 2,454 |
 | 22 | Lauren Jackson | 2,444 |
