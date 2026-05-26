@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-26 02:09 UTC_
+_Last updated: 2026-05-26 02:10 UTC_
 
 ## Contents
 
@@ -32,7 +32,7 @@ _Last updated: 2026-05-26 02:09 UTC_
 | 11 | Katie Smith | 6,450 |
 | 12 | Sylvia Fowles | 6,413 |
 | 13 | Lisa Leslie | 6,251 |
-| 14 | **Breanna Stewart** 🔴 +20 | 6,097 |
+| 14 | **Breanna Stewart** 🔴 +21 | 6,098 |
 | 15 | Jewell Loyd | 6,059 |
 | 16 | Lauren Jackson | 6,005 |
 | 16 | Seimone Augustus | 6,005 |
@@ -212,7 +212,7 @@ _Last updated: 2026-05-26 02:09 UTC_
 | 191 | Armintie Herrington | 1,696 |
 | 192 | Nikki Teasley | 1,690 |
 | 193 | Shenise Johnson | 1,688 |
-| 194 | **Gabby Williams** 🔴 +5 | 1,639 |
+| 194 | **Gabby Williams** 🔴 +8 | 1,642 |
 | 195 | Janell Burse | 1,580 |
 | 196 | Le'coe Willingham | 1,552 |
 | 197 | Shatori Walker-Kimbrough | 1,544 |
@@ -555,7 +555,7 @@ _Last updated: 2026-05-26 02:09 UTC_
 | 123 | Chasity Melvin | 508 |
 | 125 | Anna DeForge | 503 |
 | 125 | Coco Miller | 503 |
-| 127 | **Veronica Burton** 🔴 +1 | 502 |
+| 125 | **Veronica Burton** 🔴 +2 | 503 |
 | 128 | Rachel Banham | 498 |
 | 129 | Rhyne Howard | 490 |
 | 130 | Caitlin Clark | 488 |
@@ -755,10 +755,10 @@ _Last updated: 2026-05-26 02:09 UTC_
 | 119 | Carolyn Swords | 104 |
 | 119 | Rebecca Lobo | 104 |
 | 121 | Courtney Williams | 103 |
+| 121 | **Emily Engstler** 🔴 +4 | 103 |
 | 121 | Jennifer Gillom | 103 |
 | 121 | Jia Perkins | 103 |
-| 124 | **Emily Engstler** 🔴 +3 | 102 |
-| 124 | Theresa Plaisance | 102 |
+| 125 | Theresa Plaisance | 102 |
 | 126 | Deanna Nolan | 101 |
 | 126 | Dearica Hamby | 101 |
 | 128 | Chante Black | 100 |
@@ -963,8 +963,8 @@ _Last updated: 2026-05-26 02:09 UTC_
 | 121 | Loree Moore | 255 |
 | 123 | Ruthie Bolton | 254 |
 | 124 | Hamchetou Maiga-Ba | 251 |
+| 124 | **Jonquel Jones** 🔴 +1 | 251 |
 | 124 | Tamika Whitmore | 251 |
-| 126 | **Jonquel Jones** 🔴 | 250 |
 | 127 | Sami Whitcomb | 246 |
 | 128 | Latasha Byears | 245 |
 | 129 | Alex Bentley | 244 |
@@ -1213,10 +1213,10 @@ _Last updated: 2026-05-26 02:09 UTC_
 | 165 | Eva Nemcova | 130 |
 | 167 | Crystal Dangerfield | 129 |
 | 168 | Ticha Penicheiro | 128 |
+| 169 | **Gabby Williams** 🔴 +2 | 127 |
 | 169 | Michele Timms | 127 |
 | 169 | Myisha Hines-Allen | 127 |
-| 171 | **Gabby Williams** 🔴 +1 | 126 |
-| 171 | Tamecka Dixon | 126 |
+| 172 | Tamecka Dixon | 126 |
 | 173 | Charde Houston | 124 |
 | 174 | Lisa Leslie | 123 |
 | 175 | Sidney Spencer | 122 |
