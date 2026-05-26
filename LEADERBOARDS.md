@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-26 03:19 UTC_
+_Last updated: 2026-05-26 03:20 UTC_
 
 ## Contents
 
@@ -212,7 +212,7 @@ _Last updated: 2026-05-26 03:19 UTC_
 | 191 | Armintie Herrington | 1,696 |
 | 192 | Nikki Teasley | 1,690 |
 | 193 | Shenise Johnson | 1,688 |
-| 194 | **Gabby Williams** 🔴 +10 | 1,644 |
+| 194 | **Gabby Williams** 🔴 +13 | 1,647 |
 | 195 | Janell Burse | 1,580 |
 | 196 | Le'coe Willingham | 1,552 |
 | 197 | Shatori Walker-Kimbrough | 1,544 |
@@ -401,8 +401,8 @@ _Last updated: 2026-05-26 03:19 UTC_
 | 174 | Sue Wicks | 780 |
 | 176 | Lindsey Harding | 779 |
 | 177 | Tiffani Johnson | 778 |
-| 178 | **Gabby Williams** 🔴 +1 | 775 |
-| 178 | Teresa Weatherspoon | 775 |
+| 178 | **Gabby Williams** 🔴 +2 | 776 |
+| 179 | Teresa Weatherspoon | 775 |
 | 180 | Anna DeForge | 769 |
 | 180 | Kelsey Bone | 769 |
 | 180 | Tan White | 769 |
@@ -1212,10 +1212,10 @@ _Last updated: 2026-05-26 03:19 UTC_
 | 165 | Amanda Zahui B | 130 |
 | 165 | Eva Nemcova | 130 |
 | 167 | Crystal Dangerfield | 129 |
+| 168 | **Gabby Williams** 🔴 +3 | 128 |
 | 168 | Ticha Penicheiro | 128 |
-| 169 | **Gabby Williams** 🔴 +2 | 127 |
-| 169 | Michele Timms | 127 |
-| 169 | Myisha Hines-Allen | 127 |
+| 170 | Michele Timms | 127 |
+| 170 | Myisha Hines-Allen | 127 |
 | 172 | Tamecka Dixon | 126 |
 | 173 | Charde Houston | 124 |
 | 174 | Lisa Leslie | 123 |
