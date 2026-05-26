@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-26 02:57 UTC_
+_Last updated: 2026-05-26 02:58 UTC_
 
 ## Contents
 
@@ -49,7 +49,7 @@ _Last updated: 2026-05-26 02:57 UTC_
 | 28 | Tangela Smith | 5,035 |
 | 29 | Taj McWilliams-Franklin | 4,992 |
 | 30 | Maya Moore | 4,984 |
-| 31 | **Tiffany Hayes** 🔴 +3 | 4,930 |
+| 31 | **Tiffany Hayes** 🔴 +5 | 4,932 |
 | 32 | Kelsey Mitchell | 4,907 |
 | 33 | Sheryl Swoopes | 4,875 |
 | 34 | Alana Beard | 4,740 |
@@ -306,7 +306,7 @@ _Last updated: 2026-05-26 02:57 UTC_
 | 80 | Jewell Loyd | 1,347 |
 | 81 | Elena Baranova | 1,335 |
 | 82 | Brionna Jones | 1,333 |
-| 83 | **Kayla Thornton** 🔴 +5 | 1,330 |
+| 83 | **Kayla Thornton** 🔴 +6 | 1,331 |
 | 84 | Erlana Larkins | 1,329 |
 | 85 | Mwadi Mabika | 1,327 |
 | 86 | Jayne Appel Marinelli | 1,326 |
@@ -615,8 +615,8 @@ _Last updated: 2026-05-26 02:57 UTC_
 | 183 | Diamond DeShields | 361 |
 | 183 | Erlana Larkins | 361 |
 | 186 | Bridget Carleton | 360 |
-| 187 | **Kayla Thornton** 🔴 | 355 |
-| 187 | Merlakia Jones | 355 |
+| 187 | **Kayla Thornton** 🔴 +1 | 356 |
+| 188 | Merlakia Jones | 355 |
 | 189 | Jessica Shepard | 353 |
 | 190 | Charlotte Smith | 352 |
 | 190 | Ruthie Bolton | 352 |
