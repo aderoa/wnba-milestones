@@ -73,7 +73,7 @@ _Last updated: 2026-05-26 01:34 UTC_
 | 52 | Yolanda Griffith | 4,224 |
 | 53 | Dearica Hamby | 4,158 |
 | 54 | Kahleah Copper | 4,154 |
-| 55 | **Jonquel Jones** 🔴 +8 | 4,140 |
+| 55 | **Jonquel Jones** 🔴 +9 | 4,141 |
 | 56 | Rebekkah Brunson | 4,133 |
 | 57 | Courtney Williams | 4,124 |
 | 58 | Asjha Jones | 3,986 |
@@ -236,7 +236,7 @@ _Last updated: 2026-05-26 01:34 UTC_
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | Alyssa Thomas | 2,770 |
-| 13 | **Jonquel Jones** 🔴 +8 | 2,607 |
+| 13 | **Jonquel Jones** 🔴 +9 | 2,608 |
 | 14 | Sancho Lyttle | 2,596 |
 | 15 | DeLisha Milton-Jones | 2,574 |
 | 16 | Brittney Griner | 2,537 |
@@ -881,7 +881,7 @@ _Last updated: 2026-05-26 01:34 UTC_
 | 40 | Epiphanny Prince | 429 |
 | 41 | Tanisha Wright | 427 |
 | 42 | Kayla McBride | 425 |
-| 43 | **Breanna Stewart** 🔴 +2 | 417 |
+| 43 | **Breanna Stewart** 🔴 +3 | 418 |
 | 44 | Katie Smith | 408 |
 | 45 | Cappie Pondexter | 405 |
 | 46 | Nicole Powell | 401 |
