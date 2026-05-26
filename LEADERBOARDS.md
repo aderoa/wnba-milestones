@@ -1566,8 +1566,8 @@ _Last updated: 2026-05-26 02:07 UTC_
 | 109 | Jennifer Gillom | 629 |
 | 110 | Deanna Nolan | 628 |
 | 111 | Brionna Jones | 625 |
-| 112 | **Kiah Stokes** 🔴 +1 | 618 |
-| 112 | Teaira McCowan | 618 |
+| 112 | **Kiah Stokes** 🔴 +2 | 619 |
+| 113 | Teaira McCowan | 618 |
 | 114 | Courtney Paris | 617 |
 | 115 | Coco Miller | 615 |
 | 116 | Brooke Wyckoff | 614 |
