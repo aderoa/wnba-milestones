@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-26 01:19 UTC_
+_Last updated: 2026-05-26 01:20 UTC_
 
 ## Contents
 
@@ -32,7 +32,7 @@ _Last updated: 2026-05-26 01:19 UTC_
 | 11 | Katie Smith | 6,450 |
 | 12 | Sylvia Fowles | 6,413 |
 | 13 | Lisa Leslie | 6,251 |
-| 14 | **Breanna Stewart** 🔴 +7 | 6,084 |
+| 14 | **Breanna Stewart** 🔴 +10 | 6,087 |
 | 15 | Jewell Loyd | 6,059 |
 | 16 | Lauren Jackson | 6,005 |
 | 16 | Seimone Augustus | 6,005 |
@@ -236,13 +236,13 @@ _Last updated: 2026-05-26 01:19 UTC_
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | Alyssa Thomas | 2,770 |
-| 13 | **Jonquel Jones** 🔴 +5 | 2,604 |
+| 13 | **Jonquel Jones** 🔴 +6 | 2,605 |
 | 14 | Sancho Lyttle | 2,596 |
 | 15 | DeLisha Milton-Jones | 2,574 |
 | 16 | Brittney Griner | 2,537 |
 | 17 | A'ja Wilson | 2,522 |
 | 18 | Swin Cash | 2,521 |
-| 19 | **Breanna Stewart** 🔴 +5 | 2,515 |
+| 19 | **Breanna Stewart** 🔴 +6 | 2,516 |
 | 20 | Michelle Snow | 2,476 |
 | 21 | Crystal Langhorne | 2,454 |
 | 22 | Lauren Jackson | 2,444 |
@@ -527,7 +527,7 @@ _Last updated: 2026-05-26 01:19 UTC_
 | 96 | Sami Whitcomb | 623 |
 | 97 | Alysha Clark | 614 |
 | 98 | Debbie Black | 612 |
-| 99 | **Jonquel Jones** 🔴 | 608 |
+| 99 | **Jonquel Jones** 🔴 +1 | 609 |
 | 100 | Cynthia Cooper | 602 |
 | 101 | Natisha Hiedeman | 594 |
 | 102 | Sancho Lyttle | 592 |
@@ -1070,7 +1070,7 @@ _Last updated: 2026-05-26 01:19 UTC_
 | 23 | Shekinna Stricklen | 468 |
 | 24 | Cappie Pondexter | 464 |
 | 25 | Sabrina Ionescu | 460 |
-| 26 | **Breanna Stewart** 🔴 +1 | 457 |
+| 26 | **Breanna Stewart** 🔴 +2 | 458 |
 | 27 | Marina Mabrey | 448 |
 | 28 | Tiffany Hayes | 447 |
 | 29 | Ariel Atkins | 440 |
@@ -1184,7 +1184,7 @@ _Last updated: 2026-05-26 01:19 UTC_
 | 137 | Aari McDonald | 158 |
 | 137 | Jennifer Azzi | 158 |
 | 139 | Natasha Howard | 157 |
-| 140 | **Marine Johannès** 🔴 +3 | 154 |
+| 140 | **Marine Johannès** 🔴 +4 | 155 |
 | 141 | Bridget Pettis | 153 |
 | 141 | Jennifer Gillom | 153 |
 | 143 | Alanna Smith | 152 |
