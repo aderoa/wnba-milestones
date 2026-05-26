@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-26 04:02 UTC_
+_Last updated: 2026-05-26 04:03 UTC_
 
 ## Contents
 
@@ -732,8 +732,8 @@ _Last updated: 2026-05-26 04:02 UTC_
 | 95 | Mistie Bass | 126 |
 | 97 | Brionna Jones | 125 |
 | 97 | Monique Billings | 125 |
-| 99 | Chelsea Gray | 123 |
-| 99 | **Olivia Nelson-Ododa** 🔴 +1 | 123 |
+| 99 | **Olivia Nelson-Ododa** 🔴 +2 | 124 |
+| 100 | Chelsea Gray | 123 |
 | 101 | Alyssa Thomas | 122 |
 | 101 | Natalie Williams | 122 |
 | 103 | Ebony Hoffman | 121 |

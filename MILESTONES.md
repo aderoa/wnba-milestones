@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-26 04:03 UTC
+
+- **Olivia Nelson-Ododa** passed **Chelsea Gray** for **#99** all-time in blocks (career 124) — up from #102 entering today — _3:08 - 4th — CON @ GS_
+
 ## 2026-05-26 03:38 UTC
 
 - **Rickea Jackson** passed **Ebony Hoffman**, **Jordin Canada**, **Shey Peddy**, and **Stephanie White** for **#179** all-time in three-pointers (career 116) — up from #184 entering today — _5.4 - 3rd — CON @ GS_
