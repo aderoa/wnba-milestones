@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-26 00:41 UTC_
+_Last updated: 2026-05-26 00:42 UTC_
 
 ## Contents
 
@@ -1318,7 +1318,7 @@ _Last updated: 2026-05-26 00:41 UTC_
 | 66 | Kayla McBride | 630 |
 | 67 | Kelsey Plum | 624 |
 | 68 | Odyssey Sims | 622 |
-| 69 | **Jonquel Jones** 🔴 +1 | 618 |
+| 69 | **Jonquel Jones** 🔴 +2 | 619 |
 | 70 | Rebekkah Brunson | 615 |
 | 71 | Seimone Augustus | 613 |
 | 72 | Tiffany Hayes | 605 |
@@ -1498,8 +1498,8 @@ _Last updated: 2026-05-26 00:41 UTC_
 | 41 | DeWanna Bonner | 899 |
 | 42 | Alysha Clark | 887 |
 | 43 | DeMya Walker | 882 |
-| 44 | Candice Dupree | 876 |
-| 44 | **Jonquel Jones** 🔴 +1 | 876 |
+| 44 | **Jonquel Jones** 🔴 +2 | 877 |
+| 45 | Candice Dupree | 876 |
 | 46 | Murriel Page | 872 |
 | 47 | Cappie Pondexter | 869 |
 | 48 | Erika de Souza | 858 |
