@@ -1,5 +1,14 @@
 [
   {
+    "ts": "2026-05-26T02:12:00+00:00",
+    "text": "Breanna Stewart reached 6,100 career points (now 6,100) \u2014 (57.1 - 4th \u2014 POR @ NY)",
+    "kind": "round",
+    "player": "Breanna Stewart",
+    "stat": "points",
+    "value": 6100,
+    "new_total": 6100
+  },
+  {
     "ts": "2026-05-26T02:11:00+00:00",
     "text": "Rebecca Allen passed Erin Phillips and Sabrina Ionescu for #184 all-time in steals (career 183) \u2014 up from #185 entering today \u2014 (57.1 - 4th \u2014 POR @ NY)",
     "kind": "rank_pass",
@@ -3030,18 +3039,5 @@
       "Jordin Canada"
     ],
     "new_total": 497
-  },
-  {
-    "ts": "2026-05-18T14:28:00+00:00",
-    "text": "Marina Mabrey passed A'ja Wilson and Kristen Rasmussen for #145 all-time in fouls (career 538) \u2014 up from #147 entering today \u2014 (Final \u2014 TOR @ LA)",
-    "kind": "rank_pass",
-    "player": "Marina Mabrey",
-    "stat": "fouls",
-    "rank": 145,
-    "passed_players": [
-      "A'ja Wilson",
-      "Kristen Rasmussen"
-    ],
-    "new_total": 538
   }
 ]
