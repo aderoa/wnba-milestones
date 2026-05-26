@@ -49,7 +49,7 @@ _Last updated: 2026-05-26 02:34 UTC_
 | 28 | Tangela Smith | 5,035 |
 | 29 | Taj McWilliams-Franklin | 4,992 |
 | 30 | Maya Moore | 4,984 |
-| 31 | **Tiffany Hayes** 🔴 +4 | 4,931 |
+| 31 | **Tiffany Hayes** 🔴 +3 | 4,930 |
 | 32 | Kelsey Mitchell | 4,907 |
 | 33 | Sheryl Swoopes | 4,875 |
 | 34 | Alana Beard | 4,740 |
