@@ -553,7 +553,7 @@ _Last updated: 2026-05-26 02:46 UTC_
 | 122 | Iziane Castro Marques | 509 |
 | 123 | Brittany Boyd-Jones | 508 |
 | 123 | Chasity Melvin | 508 |
-| 125 | **Veronica Burton** 🔴 +3 | 504 |
+| 125 | **Veronica Burton** 🔴 +4 | 505 |
 | 126 | Anna DeForge | 503 |
 | 126 | Coco Miller | 503 |
 | 128 | Rachel Banham | 498 |
