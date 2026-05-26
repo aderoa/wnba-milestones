@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-26 03:38 UTC
+
+- **Rickea Jackson** passed **Ebony Hoffman**, **Jordin Canada**, **Shey Peddy**, and **Stephanie White** for **#179** all-time in three-pointers (career 116) — up from #184 entering today — _5.4 - 3rd — CON @ GS_
+
 ## 2026-05-26 03:32 UTC
 
 - **Rickea Jackson** passed **Gordana Grubin** and **Sandy Brondello** for **#183** all-time in three-pointers (career 115) — up from #184 entering today — _2:35 - 3rd — CON @ GS_

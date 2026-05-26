@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-26 03:37 UTC_
+_Last updated: 2026-05-26 03:38 UTC_
 
 ## Contents
 
@@ -49,7 +49,7 @@ _Last updated: 2026-05-26 03:37 UTC_
 | 28 | Tangela Smith | 5,035 |
 | 29 | Taj McWilliams-Franklin | 4,992 |
 | 30 | Maya Moore | 4,984 |
-| 31 | **Tiffany Hayes** 🔴 +7 | 4,934 |
+| 31 | **Tiffany Hayes** 🔴 +9 | 4,936 |
 | 32 | Kelsey Mitchell | 4,907 |
 | 33 | Sheryl Swoopes | 4,875 |
 | 34 | Alana Beard | 4,740 |
@@ -1223,11 +1223,11 @@ _Last updated: 2026-05-26 03:37 UTC_
 | 176 | Tonya Edwards | 118 |
 | 177 | Edwige Lawson-Wade | 116 |
 | 177 | Marie Ferdinand-Harris | 116 |
-| 179 | Ebony Hoffman | 115 |
-| 179 | Jordin Canada | 115 |
-| 179 | **Rickea Jackson** 🔴 +1 | 115 |
-| 179 | Shey Peddy | 115 |
-| 179 | Stephanie White | 115 |
+| 177 | **Rickea Jackson** 🔴 +2 | 116 |
+| 180 | Ebony Hoffman | 115 |
+| 180 | Jordin Canada | 115 |
+| 180 | Shey Peddy | 115 |
+| 180 | Stephanie White | 115 |
 | 184 | Gordana Grubin | 114 |
 | 184 | Sandy Brondello | 114 |
 | 186 | Lexie Hull | 111 |

@@ -1,5 +1,20 @@
 [
   {
+    "ts": "2026-05-26T03:38:00+00:00",
+    "text": "Rickea Jackson passed Ebony Hoffman, Jordin Canada, Shey Peddy, and Stephanie White for #179 all-time in three-pointers (career 116) \u2014 up from #184 entering today \u2014 (5.4 - 3rd \u2014 CON @ GS)",
+    "kind": "rank_pass",
+    "player": "Rickea Jackson",
+    "stat": "three-pointers",
+    "rank": 179,
+    "passed_players": [
+      "Ebony Hoffman",
+      "Jordin Canada",
+      "Shey Peddy",
+      "Stephanie White"
+    ],
+    "new_total": 116
+  },
+  {
     "ts": "2026-05-26T03:32:00+00:00",
     "text": "Rickea Jackson passed Gordana Grubin and Sandy Brondello for #183 all-time in three-pointers (career 115) \u2014 up from #184 entering today \u2014 (2:35 - 3rd \u2014 CON @ GS)",
     "kind": "rank_pass",
@@ -3027,17 +3042,5 @@
       "Kara Braxton"
     ],
     "new_total": 571
-  },
-  {
-    "ts": "2026-05-18T14:28:00+00:00",
-    "text": "Brittney Sykes passed Kelly Miller for #95 all-time in fouls (career 678) \u2014 up from #96 entering today \u2014 (Final \u2014 TOR @ LA)",
-    "kind": "rank_pass",
-    "player": "Brittney Sykes",
-    "stat": "fouls",
-    "rank": 95,
-    "passed_players": [
-      "Kelly Miller"
-    ],
-    "new_total": 678
   }
 ]
