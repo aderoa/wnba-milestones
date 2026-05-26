@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-26 02:10 UTC_
+_Last updated: 2026-05-26 02:11 UTC_
 
 ## Contents
 
@@ -1022,9 +1022,9 @@ _Last updated: 2026-05-26 02:10 UTC_
 | 180 | Myisha Hines-Allen | 185 |
 | 180 | Tiffany Jackson | 185 |
 | 183 | Erin Perperoglou | 184 |
-| 184 | Erin Phillips | 182 |
-| 184 | **Rebecca Allen** 🔴 | 182 |
-| 184 | Sabrina Ionescu | 182 |
+| 184 | **Rebecca Allen** 🔴 +1 | 183 |
+| 185 | Erin Phillips | 182 |
+| 185 | Sabrina Ionescu | 182 |
 | 187 | Nakia Sanford | 181 |
 | 188 | Diamond DeShields | 180 |
 | 188 | Isabelle Harrison | 180 |

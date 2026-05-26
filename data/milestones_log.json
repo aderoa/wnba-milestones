@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-05-26T02:11:00+00:00",
+    "text": "Rebecca Allen passed Erin Phillips and Sabrina Ionescu for #184 all-time in steals (career 183) \u2014 up from #185 entering today \u2014 (57.1 - 4th \u2014 POR @ NY)",
+    "kind": "rank_pass",
+    "player": "Rebecca Allen",
+    "stat": "steals",
+    "rank": 184,
+    "passed_players": [
+      "Erin Phillips",
+      "Sabrina Ionescu"
+    ],
+    "new_total": 183
+  },
+  {
     "ts": "2026-05-26T00:51:00+00:00",
     "text": "Marine Johann\u00e8s reached 700 career points (now 700) \u2014 (4:25 - 2nd \u2014 POR @ NY)",
     "kind": "round",
@@ -3030,18 +3043,5 @@
       "Kristen Rasmussen"
     ],
     "new_total": 538
-  },
-  {
-    "ts": "2026-05-18T14:28:00+00:00",
-    "text": "Kia Nurse passed Sami Whitcomb and Sophia Witherspoon for #144 all-time in points (career 2,214) \u2014 up from #146 entering today \u2014 (Final \u2014 TOR @ LA)",
-    "kind": "rank_pass",
-    "player": "Kia Nurse",
-    "stat": "points",
-    "rank": 144,
-    "passed_players": [
-      "Sami Whitcomb",
-      "Sophia Witherspoon"
-    ],
-    "new_total": 2214
   }
 ]

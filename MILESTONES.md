@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-26 02:11 UTC
+
+- **Rebecca Allen** passed **Erin Phillips** and **Sabrina Ionescu** for **#184** all-time in steals (career 183) — up from #185 entering today — _57.1 - 4th — POR @ NY_
+
 ## 2026-05-26 00:51 UTC
 
 - **Marine Johannès** reached **700** career points (now 700) — _4:25 - 2nd — POR @ NY_
