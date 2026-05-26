@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-26 02:04 UTC_
+_Last updated: 2026-05-26 02:06 UTC_
 
 ## Contents
 
@@ -688,7 +688,7 @@ _Last updated: 2026-05-26 02:04 UTC_
 | 52 | Ashley Robinson | 204 |
 | 52 | Asjha Jones | 204 |
 | 54 | Janel McCarville | 201 |
-| 55 | **Rebecca Allen** 🔴 | 195 |
+| 55 | **Rebecca Allen** 🔴 +1 | 196 |
 | 56 | Jayne Appel Marinelli | 194 |
 | 57 | Angel McCoughtry | 193 |
 | 57 | Courtney Vandersloot | 193 |
@@ -1335,7 +1335,7 @@ _Last updated: 2026-05-26 02:04 UTC_
 | 83 | Brittney Sykes | 568 |
 | 84 | Nikki McCray | 565 |
 | 85 | Sancho Lyttle | 563 |
-| 86 | **Breanna Stewart** 🔴 +1 | 558 |
+| 86 | **Breanna Stewart** 🔴 +2 | 559 |
 | 87 | Tan White | 557 |
 | 88 | Kelsey Mitchell | 556 |
 | 89 | Lauren Jackson | 549 |
@@ -1498,7 +1498,7 @@ _Last updated: 2026-05-26 02:04 UTC_
 | 41 | DeWanna Bonner | 899 |
 | 42 | Alysha Clark | 887 |
 | 43 | DeMya Walker | 882 |
-| 44 | **Jonquel Jones** 🔴 +4 | 879 |
+| 44 | **Jonquel Jones** 🔴 +5 | 880 |
 | 45 | Candice Dupree | 876 |
 | 46 | Murriel Page | 872 |
 | 47 | Cappie Pondexter | 869 |
