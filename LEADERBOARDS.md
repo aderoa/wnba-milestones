@@ -1480,7 +1480,7 @@ _Last updated: 2026-05-26 02:53 UTC_
 | 23 | Tina Charles | 1,037 |
 | 24 | Lindsay Whalen | 998 |
 | 25 | Rebekkah Brunson | 996 |
-| 26 | **Tiffany Hayes** 🔴 | 992 |
+| 26 | **Tiffany Hayes** 🔴 +1 | 993 |
 | 27 | Yolanda Griffith | 991 |
 | 28 | Lauren Jackson | 982 |
 | 29 | Nakia Sanford | 979 |
