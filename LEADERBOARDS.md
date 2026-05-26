@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-26 02:06 UTC_
+_Last updated: 2026-05-26 02:07 UTC_
 
 ## Contents
 
@@ -212,7 +212,7 @@ _Last updated: 2026-05-26 02:06 UTC_
 | 191 | Armintie Herrington | 1,696 |
 | 192 | Nikki Teasley | 1,690 |
 | 193 | Shenise Johnson | 1,688 |
-| 194 | **Gabby Williams** 🔴 +2 | 1,636 |
+| 194 | **Gabby Williams** 🔴 +5 | 1,639 |
 | 195 | Janell Burse | 1,580 |
 | 196 | Le'coe Willingham | 1,552 |
 | 197 | Shatori Walker-Kimbrough | 1,544 |
@@ -555,7 +555,7 @@ _Last updated: 2026-05-26 02:06 UTC_
 | 123 | Chasity Melvin | 508 |
 | 125 | Anna DeForge | 503 |
 | 125 | Coco Miller | 503 |
-| 127 | **Veronica Burton** 🔴 | 501 |
+| 127 | **Veronica Burton** 🔴 +1 | 502 |
 | 128 | Rachel Banham | 498 |
 | 129 | Rhyne Howard | 490 |
 | 130 | Caitlin Clark | 488 |
@@ -1215,8 +1215,8 @@ _Last updated: 2026-05-26 02:06 UTC_
 | 168 | Ticha Penicheiro | 128 |
 | 169 | Michele Timms | 127 |
 | 169 | Myisha Hines-Allen | 127 |
+| 171 | **Gabby Williams** 🔴 +1 | 126 |
 | 171 | Tamecka Dixon | 126 |
-| 172 | **Gabby Williams** 🔴 | 125 |
 | 173 | Charde Houston | 124 |
 | 174 | Lisa Leslie | 123 |
 | 175 | Sidney Spencer | 122 |
@@ -1566,9 +1566,9 @@ _Last updated: 2026-05-26 02:06 UTC_
 | 109 | Jennifer Gillom | 629 |
 | 110 | Deanna Nolan | 628 |
 | 111 | Brionna Jones | 625 |
+| 112 | **Kiah Stokes** 🔴 +1 | 618 |
 | 112 | Teaira McCowan | 618 |
-| 113 | Courtney Paris | 617 |
-| 113 | **Kiah Stokes** 🔴 | 617 |
+| 114 | Courtney Paris | 617 |
 | 115 | Coco Miller | 615 |
 | 116 | Brooke Wyckoff | 614 |
 | 117 | Svetlana Abrosimova | 613 |
