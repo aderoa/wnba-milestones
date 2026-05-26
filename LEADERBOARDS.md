@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-26 03:53 UTC_
+_Last updated: 2026-05-26 03:54 UTC_
 
 ## Contents
 
@@ -1480,7 +1480,7 @@ _Last updated: 2026-05-26 03:53 UTC_
 | 23 | Tina Charles | 1,037 |
 | 24 | Lindsay Whalen | 998 |
 | 25 | Rebekkah Brunson | 996 |
-| 26 | **Tiffany Hayes** 🔴 +1 | 993 |
+| 26 | **Tiffany Hayes** 🔴 +2 | 994 |
 | 27 | Yolanda Griffith | 991 |
 | 28 | Lauren Jackson | 982 |
 | 29 | Nakia Sanford | 979 |
