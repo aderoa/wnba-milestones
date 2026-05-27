@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-27 23:10 UTC_
+_Last updated: 2026-05-27 23:11 UTC_
 
 ## Contents
 
@@ -72,7 +72,7 @@ _Last updated: 2026-05-27 23:10 UTC_
 | 51 | Vickie Johnson | 4,230 |
 | 52 | Yolanda Griffith | 4,224 |
 | 53 | Dearica Hamby | 4,158 |
-| 54 | **Kahleah Copper** 🔴 | 4,154 |
+| 54 | **Kahleah Copper** 🔴 +1 | 4,155 |
 | 55 | Rebekkah Brunson | 4,133 |
 | 56 | **Jonquel Jones** 🔴 | 4,132 |
 | 57 | Courtney Williams | 4,124 |
@@ -242,7 +242,7 @@ _Last updated: 2026-05-27 23:10 UTC_
 | 16 | Brittney Griner | 2,537 |
 | 17 | A'ja Wilson | 2,522 |
 | 18 | Swin Cash | 2,521 |
-| 19 | **Breanna Stewart** 🔴 | 2,510 |
+| 19 | **Breanna Stewart** 🔴 +1 | 2,511 |
 | 20 | Michelle Snow | 2,476 |
 | 21 | Crystal Langhorne | 2,454 |
 | 22 | Lauren Jackson | 2,444 |
@@ -327,8 +327,8 @@ _Last updated: 2026-05-27 23:10 UTC_
 | 101 | Latasha Byears | 1,190 |
 | 101 | Tanisha Wright | 1,190 |
 | 103 | Vicky Bullett | 1,189 |
+| 104 | **Kahleah Copper** 🔴 +1 | 1,148 |
 | 104 | Nykesha Sales | 1,148 |
-| 105 | **Kahleah Copper** 🔴 | 1,147 |
 | 106 | Shannon Johnson | 1,143 |
 | 107 | Adrian Williams-Strong | 1,131 |
 | 108 | Andrea Stinson | 1,127 |
