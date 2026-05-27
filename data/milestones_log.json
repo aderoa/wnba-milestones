@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-27T23:34:00+00:00",
+    "text": "Betnijah Laney-Hamilton passed Tan White for #106 all-time in assists (career 579) \u2014 (8:20 - 2nd \u2014 PHX @ NY)",
+    "kind": "rank_pass",
+    "player": "Betnijah Laney-Hamilton",
+    "stat": "assists",
+    "rank": 106,
+    "passed_players": [
+      "Tan White"
+    ],
+    "new_total": 579
+  },
+  {
     "ts": "2026-05-26T04:03:00+00:00",
     "text": "Olivia Nelson-Ododa passed Chelsea Gray for #99 all-time in blocks (career 124) \u2014 up from #102 entering today \u2014 (3:08 - 4th \u2014 CON @ GS)",
     "kind": "rank_pass",
@@ -3029,18 +3041,5 @@
       "Nakia Sanford"
     ],
     "new_total": 132
-  },
-  {
-    "ts": "2026-05-18T14:28:00+00:00",
-    "text": "Brittney Sykes passed Azur\u00e1 Stevens and Nneka Ogwumike for #93 all-time in three-pointers (career 239) \u2014 up from #95 entering today \u2014 (Final \u2014 TOR @ LA)",
-    "kind": "rank_pass",
-    "player": "Brittney Sykes",
-    "stat": "three-pointers",
-    "rank": 93,
-    "passed_players": [
-      "Azur\u00e1 Stevens",
-      "Nneka Ogwumike"
-    ],
-    "new_total": 239
   }
 ]

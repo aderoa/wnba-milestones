@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-27 23:33 UTC_
+_Last updated: 2026-05-27 23:34 UTC_
 
 ## Contents
 
@@ -21,7 +21,7 @@ _Last updated: 2026-05-27 23:33 UTC_
 |-----:|--------|------:|
 | 1 | Diana Taurasi | 10,608 |
 | 2 | Tina Charles | 8,396 |
-| 3 | **DeWanna Bonner** 🔴 | 7,847 |
+| 3 | **DeWanna Bonner** 🔴 +2 | 7,849 |
 | 4 | Tina Thompson | 7,470 |
 | 5 | Nneka Ogwumike | 7,371 |
 | 5 | Tamika Catchings | 7,371 |
@@ -32,7 +32,7 @@ _Last updated: 2026-05-27 23:33 UTC_
 | 11 | Katie Smith | 6,450 |
 | 12 | Sylvia Fowles | 6,413 |
 | 13 | Lisa Leslie | 6,251 |
-| 14 | **Breanna Stewart** 🔴 | 6,077 |
+| 14 | **Breanna Stewart** 🔴 +2 | 6,079 |
 | 15 | Jewell Loyd | 6,059 |
 | 16 | Lauren Jackson | 6,005 |
 | 16 | Seimone Augustus | 6,005 |
@@ -71,8 +71,8 @@ _Last updated: 2026-05-27 23:33 UTC_
 | 50 | Allisha Gray | 4,232 |
 | 51 | Vickie Johnson | 4,230 |
 | 52 | Yolanda Griffith | 4,224 |
-| 53 | Dearica Hamby | 4,158 |
-| 53 | **Kahleah Copper** 🔴 +4 | 4,158 |
+| 53 | **Kahleah Copper** 🔴 +7 | 4,161 |
+| 54 | Dearica Hamby | 4,158 |
 | 55 | **Jonquel Jones** 🔴 +2 | 4,134 |
 | 56 | Rebekkah Brunson | 4,133 |
 | 57 | Courtney Williams | 4,124 |
@@ -533,8 +533,8 @@ _Last updated: 2026-05-27 23:33 UTC_
 | 102 | Sancho Lyttle | 592 |
 | 103 | Camille Smith | 590 |
 | 104 | Armintie Herrington | 589 |
-| 105 | **Betnijah Laney-Hamilton** 🔴 | 578 |
-| 105 | Tan White | 578 |
+| 105 | **Betnijah Laney-Hamilton** 🔴 +1 | 579 |
+| 106 | Tan White | 578 |
 | 107 | Matee Ajavon | 577 |
 | 107 | Natasha Howard | 577 |
 | 109 | Napheesa Collier | 570 |
@@ -993,9 +993,9 @@ _Last updated: 2026-05-27 23:33 UTC_
 | 151 | Candice Wiggins | 215 |
 | 151 | Cheyenne Parker-Tyus | 215 |
 | 151 | Elena Baranova | 215 |
+| 155 | **Kahleah Copper** 🔴 +1 | 214 |
 | 155 | Rhyne Howard | 214 |
-| 156 | **Kahleah Copper** 🔴 | 213 |
-| 156 | Shekinna Stricklen | 213 |
+| 157 | Shekinna Stricklen | 213 |
 | 158 | Nikki Teasley | 211 |
 | 159 | Iziane Castro Marques | 209 |
 | 159 | Tiffany Mitchell | 209 |
@@ -1335,8 +1335,8 @@ _Last updated: 2026-05-27 23:33 UTC_
 | 83 | Brittney Sykes | 568 |
 | 84 | Nikki McCray | 565 |
 | 85 | Sancho Lyttle | 563 |
-| 86 | **Breanna Stewart** 🔴 | 557 |
-| 86 | Tan White | 557 |
+| 86 | **Breanna Stewart** 🔴 +1 | 558 |
+| 87 | Tan White | 557 |
 | 88 | Kelsey Mitchell | 556 |
 | 89 | Lauren Jackson | 549 |
 | 90 | Matee Ajavon | 544 |

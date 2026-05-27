@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-27 23:34 UTC
+
+- **Betnijah Laney-Hamilton** passed **Tan White** for **#106** all-time in assists (career 579) — _8:20 - 2nd — PHX @ NY_
+
 ## 2026-05-26 04:03 UTC
 
 - **Olivia Nelson-Ododa** passed **Chelsea Gray** for **#99** all-time in blocks (career 124) — up from #102 entering today — _3:08 - 4th — CON @ GS_
