@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-27 23:14 UTC_
+_Last updated: 2026-05-27 23:15 UTC_
 
 ## Contents
 
@@ -56,7 +56,7 @@ _Last updated: 2026-05-27 23:14 UTC_
 | 35 | Chamique Holdsclaw | 4,713 |
 | 36 | Elena Delle Donne | 4,706 |
 | 37 | Penny Taylor | 4,595 |
-| 38 | **Alyssa Thomas** 🔴 | 4,554 |
+| 38 | **Alyssa Thomas** 🔴 +2 | 4,556 |
 | 39 | Arike Ogunbowale | 4,512 |
 | 40 | Kristi Toliver | 4,474 |
 | 41 | Chelsea Gray | 4,469 |
@@ -747,9 +747,9 @@ _Last updated: 2026-05-27 23:14 UTC_
 | 109 | Sophia Young-Malcolm | 111 |
 | 109 | Tari Phillips | 111 |
 | 113 | Ariel Atkins | 109 |
-| 114 | Erin Perperoglou | 108 |
-| 114 | Glory Johnson | 108 |
-| 114 | **Natasha Mack** 🔴 | 108 |
+| 113 | **Natasha Mack** 🔴 +1 | 109 |
+| 115 | Erin Perperoglou | 108 |
+| 115 | Glory Johnson | 108 |
 | 117 | Shakira Austin | 106 |
 | 117 | Sylvia Crawley | 106 |
 | 119 | Carolyn Swords | 104 |
@@ -1186,8 +1186,8 @@ _Last updated: 2026-05-27 23:14 UTC_
 | 139 | Natasha Howard | 157 |
 | 140 | Bridget Pettis | 153 |
 | 140 | Jennifer Gillom | 153 |
-| 142 | Alanna Smith | 152 |
-| 142 | **Marine Johannès** 🔴 +1 | 152 |
+| 140 | **Marine Johannès** 🔴 +2 | 153 |
+| 143 | Alanna Smith | 152 |
 | 144 | Rita Williams | 150 |
 | 145 | Moriah Jefferson | 149 |
 | 145 | Stephanie Talbot | 149 |
