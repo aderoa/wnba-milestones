@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-27 23:13 UTC_
+_Last updated: 2026-05-27 23:14 UTC_
 
 ## Contents
 
@@ -73,8 +73,8 @@ _Last updated: 2026-05-27 23:13 UTC_
 | 52 | Yolanda Griffith | 4,224 |
 | 53 | Dearica Hamby | 4,158 |
 | 54 | **Kahleah Copper** 🔴 +1 | 4,155 |
-| 55 | Rebekkah Brunson | 4,133 |
-| 56 | **Jonquel Jones** 🔴 | 4,132 |
+| 55 | **Jonquel Jones** 🔴 +2 | 4,134 |
+| 56 | Rebekkah Brunson | 4,133 |
 | 57 | Courtney Williams | 4,124 |
 | 58 | Asjha Jones | 3,986 |
 | 59 | Deanna Nolan | 3,971 |
@@ -236,7 +236,7 @@ _Last updated: 2026-05-27 23:13 UTC_
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | **Alyssa Thomas** 🔴 +1 | 2,771 |
-| 13 | **Jonquel Jones** 🔴 +1 | 2,600 |
+| 13 | **Jonquel Jones** 🔴 +3 | 2,602 |
 | 14 | Sancho Lyttle | 2,596 |
 | 15 | DeLisha Milton-Jones | 2,574 |
 | 16 | Brittney Griner | 2,537 |
@@ -435,7 +435,7 @@ _Last updated: 2026-05-27 23:13 UTC_
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
 | 6 | Chelsea Gray | 1,903 |
-| 7 | **Alyssa Thomas** 🔴 | 1,854 |
+| 7 | **Alyssa Thomas** 🔴 +1 | 1,855 |
 | 8 | Skylar Diggins | 1,785 |
 | 9 | Natasha Cloud | 1,747 |
 | 10 | Becky Hammon | 1,705 |
@@ -476,7 +476,7 @@ _Last updated: 2026-05-27 23:13 UTC_
 | 45 | Tamecka Dixon | 960 |
 | 46 | Kayla McBride | 952 |
 | 47 | Kara Lawson | 946 |
-| 48 | **Breanna Stewart** 🔴 | 938 |
+| 48 | **Breanna Stewart** 🔴 +1 | 939 |
 | 49 | Deanna Nolan | 930 |
 | 50 | Kelly Miller | 927 |
 | 51 | DeLisha Milton-Jones | 921 |
@@ -1187,7 +1187,7 @@ _Last updated: 2026-05-27 23:13 UTC_
 | 140 | Bridget Pettis | 153 |
 | 140 | Jennifer Gillom | 153 |
 | 142 | Alanna Smith | 152 |
-| 143 | **Marine Johannès** 🔴 | 151 |
+| 142 | **Marine Johannès** 🔴 +1 | 152 |
 | 144 | Rita Williams | 150 |
 | 145 | Moriah Jefferson | 149 |
 | 145 | Stephanie Talbot | 149 |
