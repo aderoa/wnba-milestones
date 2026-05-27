@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-27 23:30 UTC_
+_Last updated: 2026-05-27 23:31 UTC_
 
 ## Contents
 
@@ -153,7 +153,7 @@ _Last updated: 2026-05-27 23:30 UTC_
 | 132 | Merlakia Jones | 2,308 |
 | 133 | Kia Vaughn | 2,288 |
 | 134 | Kayla Thornton | 2,267 |
-| 135 | Betnijah Laney-Hamilton | 2,261 |
+| 135 | **Betnijah Laney-Hamilton** 🔴 | 2,261 |
 | 136 | Allison Feaster | 2,258 |
 | 137 | Shekinna Stricklen | 2,245 |
 | 138 | Kara Braxton | 2,237 |
@@ -393,7 +393,7 @@ _Last updated: 2026-05-27 23:30 UTC_
 | 167 | Carolyn Swords | 814 |
 | 168 | Tierra Ruffin-Pratt | 799 |
 | 169 | Charlotte Smith | 794 |
-| 170 | Betnijah Laney-Hamilton | 792 |
+| 170 | **Betnijah Laney-Hamilton** 🔴 | 792 |
 | 171 | Naz Hillmon | 788 |
 | 171 | Rhonda Mapp | 788 |
 | 173 | Mercedes Russell | 786 |
@@ -533,7 +533,7 @@ _Last updated: 2026-05-27 23:30 UTC_
 | 102 | Sancho Lyttle | 592 |
 | 103 | Camille Smith | 590 |
 | 104 | Armintie Herrington | 589 |
-| 105 | Betnijah Laney-Hamilton | 578 |
+| 105 | **Betnijah Laney-Hamilton** 🔴 | 578 |
 | 105 | Tan White | 578 |
 | 107 | Matee Ajavon | 577 |
 | 107 | Natasha Howard | 577 |
@@ -1007,7 +1007,7 @@ _Last updated: 2026-05-27 23:30 UTC_
 | 165 | Murriel Page | 204 |
 | 165 | Shatori Walker-Kimbrough | 204 |
 | 168 | Adrienne Goodson | 203 |
-| 168 | Betnijah Laney-Hamilton | 203 |
+| 168 | **Betnijah Laney-Hamilton** 🔴 | 203 |
 | 170 | Azurá Stevens | 201 |
 | 171 | Allie Quigley | 198 |
 | 172 | Layshia Clarendon | 195 |
@@ -1152,7 +1152,7 @@ _Last updated: 2026-05-27 23:30 UTC_
 | 105 | Damiris Dantas | 211 |
 | 105 | Erin Phillips | 211 |
 | 107 | Andrea Stinson | 207 |
-| 108 | Betnijah Laney-Hamilton | 201 |
+| 108 | **Betnijah Laney-Hamilton** 🔴 | 201 |
 | 109 | Lexie Brown | 200 |
 | 110 | Shanna Zolman | 199 |
 | 111 | Temeka Johnson | 197 |
@@ -1376,7 +1376,7 @@ _Last updated: 2026-05-27 23:30 UTC_
 | 124 | Elena Baranova | 444 |
 | 124 | Jantel Lavender | 444 |
 | 126 | Ariel Atkins | 442 |
-| 127 | Betnijah Laney-Hamilton | 441 |
+| 127 | **Betnijah Laney-Hamilton** 🔴 | 441 |
 | 128 | Ann Wauters | 440 |
 | 129 | Cheyenne Parker-Tyus | 439 |
 | 129 | Tiffany Mitchell | 439 |
