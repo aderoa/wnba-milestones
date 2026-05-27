@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-27 23:39 UTC_
+_Last updated: 2026-05-27 23:40 UTC_
 
 ## Contents
 
@@ -71,7 +71,7 @@ _Last updated: 2026-05-27 23:39 UTC_
 | 50 | Allisha Gray | 4,232 |
 | 51 | Vickie Johnson | 4,230 |
 | 52 | Yolanda Griffith | 4,224 |
-| 53 | **Kahleah Copper** 🔴 +7 | 4,161 |
+| 53 | **Kahleah Copper** 🔴 +10 | 4,164 |
 | 54 | Dearica Hamby | 4,158 |
 | 55 | **Jonquel Jones** 🔴 +2 | 4,134 |
 | 56 | Rebekkah Brunson | 4,133 |
@@ -435,7 +435,7 @@ _Last updated: 2026-05-27 23:39 UTC_
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
 | 6 | Chelsea Gray | 1,903 |
-| 7 | **Alyssa Thomas** 🔴 +3 | 1,857 |
+| 7 | **Alyssa Thomas** 🔴 +4 | 1,858 |
 | 8 | Skylar Diggins | 1,785 |
 | 9 | Natasha Cloud | 1,747 |
 | 10 | Becky Hammon | 1,705 |
@@ -1097,7 +1097,7 @@ _Last updated: 2026-05-27 23:39 UTC_
 | 50 | **Jonquel Jones** 🔴 | 361 |
 | 51 | Kia Nurse | 358 |
 | 52 | Nykesha Sales | 352 |
-| 53 | **Kahleah Copper** 🔴 | 345 |
+| 53 | **Kahleah Copper** 🔴 +1 | 346 |
 | 54 | Cathrine Kraayeveld | 343 |
 | 54 | Elena Delle Donne | 343 |
 | 56 | Candace Parker | 342 |
