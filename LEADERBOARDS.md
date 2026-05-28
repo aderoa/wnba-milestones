@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-28 01:41 UTC_
+_Last updated: 2026-05-28 01:42 UTC_
 
 ## Contents
 
@@ -387,9 +387,9 @@ _Last updated: 2026-05-28 01:41 UTC_
 | 161 | Kristi Toliver | 829 |
 | 162 | Marie Ferdinand-Harris | 828 |
 | 163 | Marlies Askamp | 822 |
-| 164 | Amanda Zahui B | 819 |
-| 164 | Barbara Farris | 819 |
-| 164 | **Nia Coffey** 🔴 | 819 |
+| 164 | **Nia Coffey** 🔴 +1 | 820 |
+| 165 | Amanda Zahui B | 819 |
+| 165 | Barbara Farris | 819 |
 | 167 | Carolyn Swords | 814 |
 | 168 | Tierra Ruffin-Pratt | 799 |
 | 169 | Charlotte Smith | 794 |
@@ -1531,7 +1531,7 @@ _Last updated: 2026-05-28 01:41 UTC_
 | 74 | Latasha Byears | 730 |
 | 75 | Kahleah Copper | 726 |
 | 76 | Kristi Toliver | 722 |
-| 77 | **Allisha Gray** 🔴 | 714 |
+| 77 | **Allisha Gray** 🔴 +1 | 715 |
 | 78 | Cheryl Ford | 713 |
 | 78 | **Elizabeth Williams** 🔴 | 713 |
 | 80 | Jia Perkins | 711 |
