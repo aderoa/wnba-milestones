@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-28 00:27 UTC_
+_Last updated: 2026-05-28 00:28 UTC_
 
 ## Contents
 
@@ -73,7 +73,7 @@ _Last updated: 2026-05-28 00:27 UTC_
 | 52 | Yolanda Griffith | 4,224 |
 | 53 | **Kahleah Copper** 🔴 +16 | 4,170 |
 | 54 | Dearica Hamby | 4,158 |
-| 55 | **Jonquel Jones** 🔴 +7 | 4,139 |
+| 55 | **Jonquel Jones** 🔴 +10 | 4,142 |
 | 56 | Rebekkah Brunson | 4,133 |
 | 57 | Courtney Williams | 4,124 |
 | 58 | Asjha Jones | 3,986 |
@@ -236,7 +236,7 @@ _Last updated: 2026-05-28 00:27 UTC_
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | **Alyssa Thomas** 🔴 +4 | 2,774 |
-| 13 | **Jonquel Jones** 🔴 +9 | 2,608 |
+| 13 | **Jonquel Jones** 🔴 +10 | 2,609 |
 | 14 | Sancho Lyttle | 2,596 |
 | 15 | DeLisha Milton-Jones | 2,574 |
 | 16 | Brittney Griner | 2,537 |
@@ -533,7 +533,7 @@ _Last updated: 2026-05-28 00:27 UTC_
 | 102 | Sancho Lyttle | 592 |
 | 103 | Camille Smith | 590 |
 | 104 | Armintie Herrington | 589 |
-| 105 | **Betnijah Laney-Hamilton** 🔴 +1 | 579 |
+| 105 | **Betnijah Laney-Hamilton** 🔴 +2 | 580 |
 | 106 | Tan White | 578 |
 | 107 | Matee Ajavon | 577 |
 | 107 | Natasha Howard | 577 |
@@ -1094,7 +1094,7 @@ _Last updated: 2026-05-28 00:27 UTC_
 | 46 | Betty Lennox | 372 |
 | 48 | Rhyne Howard | 370 |
 | 49 | Epiphanny Prince | 368 |
-| 50 | **Jonquel Jones** 🔴 +1 | 362 |
+| 50 | **Jonquel Jones** 🔴 +2 | 363 |
 | 51 | Kia Nurse | 358 |
 | 52 | Nykesha Sales | 352 |
 | 53 | **Kahleah Copper** 🔴 +2 | 347 |
@@ -1183,8 +1183,8 @@ _Last updated: 2026-05-28 00:27 UTC_
 | 135 | Jennifer Lacy | 160 |
 | 137 | Aari McDonald | 158 |
 | 137 | Jennifer Azzi | 158 |
-| 139 | **Marine Johannès** 🔴 +6 | 157 |
-| 139 | Natasha Howard | 157 |
+| 137 | **Marine Johannès** 🔴 +7 | 158 |
+| 140 | Natasha Howard | 157 |
 | 141 | Bridget Pettis | 153 |
 | 141 | Jennifer Gillom | 153 |
 | 143 | Alanna Smith | 152 |
