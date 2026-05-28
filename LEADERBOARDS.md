@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-28 00:10 UTC_
+_Last updated: 2026-05-28 00:11 UTC_
 
 ## Contents
 
@@ -436,7 +436,7 @@ _Last updated: 2026-05-28 00:10 UTC_
 | 5 | Lindsay Whalen | 2,347 |
 | 6 | Chelsea Gray | 1,903 |
 | 7 | **Alyssa Thomas** 🔴 +4 | 1,858 |
-| 8 | **Skylar Diggins** 🔴 +1 | 1,786 |
+| 8 | **Skylar Diggins** 🔴 +2 | 1,787 |
 | 9 | **Natasha Cloud** 🔴 +1 | 1,748 |
 | 10 | Becky Hammon | 1,705 |
 | 11 | Candace Parker | 1,634 |
@@ -871,7 +871,7 @@ _Last updated: 2026-05-28 00:10 UTC_
 | 30 | Tangela Smith | 455 |
 | 31 | Tina Thompson | 452 |
 | 32 | Maya Moore | 449 |
-| 33 | **Skylar Diggins** 🔴 | 448 |
+| 32 | **Skylar Diggins** 🔴 +1 | 449 |
 | 34 | Jewell Loyd | 445 |
 | 35 | Chelsea Gray | 439 |
 | 36 | Natasha Howard | 438 |
@@ -1359,7 +1359,7 @@ _Last updated: 2026-05-28 00:10 UTC_
 | 107 | Arike Ogunbowale | 509 |
 | 108 | Tamera Young | 501 |
 | 109 | Jordin Canada | 496 |
-| 110 | **Marina Mabrey** 🔴 | 494 |
+| 110 | **Marina Mabrey** 🔴 +1 | 495 |
 | 111 | Nikki Teasley | 493 |
 | 111 | Tari Phillips | 493 |
 | 113 | Janel McCarville | 491 |
