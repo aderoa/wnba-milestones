@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-28 01:55 UTC
+
+- **Natasha Cloud** passed **Anna DeForge** for **#58** all-time in three-pointers (career 335) — up from #59 entering today — _5:06 - 4th — TOR @ CHI_
+
 ## 2026-05-28 01:53 UTC
 
 - **Azurá Stevens** passed **Dawn Staley** for **#140** all-time in points (career 2,229) — up from #141 entering today — _6:12 - 4th — TOR @ CHI_

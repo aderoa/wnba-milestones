@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-28T01:55:00+00:00",
+    "text": "Natasha Cloud passed Anna DeForge for #58 all-time in three-pointers (career 335) \u2014 up from #59 entering today \u2014 (5:06 - 4th \u2014 TOR @ CHI)",
+    "kind": "rank_pass",
+    "player": "Natasha Cloud",
+    "stat": "three-pointers",
+    "rank": 58,
+    "passed_players": [
+      "Anna DeForge"
+    ],
+    "new_total": 335
+  },
+  {
     "ts": "2026-05-28T01:53:00+00:00",
     "text": "Azur\u00e1 Stevens passed Dawn Staley for #140 all-time in points (career 2,229) \u2014 up from #141 entering today \u2014 (6:12 - 4th \u2014 TOR @ CHI)",
     "kind": "rank_pass",
@@ -3019,18 +3031,5 @@
       "Matee Ajavon"
     ],
     "new_total": 584
-  },
-  {
-    "ts": "2026-05-18T14:28:00+00:00",
-    "text": "Natasha Howard passed Chelsea Gray and Sheri Sam for #35 all-time in steals (career 440) \u2014 up from #36 entering today \u2014 (Final \u2014 CHI @ MIN)",
-    "kind": "rank_pass",
-    "player": "Natasha Howard",
-    "stat": "steals",
-    "rank": 35,
-    "passed_players": [
-      "Chelsea Gray",
-      "Sheri Sam"
-    ],
-    "new_total": 440
   }
 ]
