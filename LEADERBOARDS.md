@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-28 02:25 UTC_
+_Last updated: 2026-05-28 02:26 UTC_
 
 ## Contents
 
@@ -74,8 +74,8 @@ _Last updated: 2026-05-28 02:25 UTC_
 | 53 | Kahleah Copper | 4,173 |
 | 54 | Dearica Hamby | 4,158 |
 | 55 | Jonquel Jones | 4,149 |
-| 56 | Rebekkah Brunson | 4,133 |
-| 57 | **Courtney Williams** 🔴 +7 | 4,131 |
+| 56 | **Courtney Williams** 🔴 +10 | 4,134 |
+| 57 | Rebekkah Brunson | 4,133 |
 | 58 | Asjha Jones | 3,986 |
 | 59 | Deanna Nolan | 3,971 |
 | 60 | Nykesha Sales | 3,931 |
@@ -268,7 +268,7 @@ _Last updated: 2026-05-28 02:25 UTC_
 | 42 | Kiah Stokes | 1,760 |
 | 43 | Asjha Jones | 1,751 |
 | 44 | Teaira McCowan | 1,670 |
-| 45 | **Stefanie Dolson** 🔴 +1 | 1,668 |
+| 45 | **Stefanie Dolson** 🔴 +2 | 1,669 |
 | 46 | Monique Currie | 1,666 |
 | 47 | Glory Johnson | 1,640 |
 | 48 | Vickie Johnson | 1,634 |
@@ -1128,7 +1128,7 @@ _Last updated: 2026-05-28 02:25 UTC_
 | 81 | **Bridget Carleton** 🔴 | 272 |
 | 82 | Sheryl Swoopes | 270 |
 | 83 | **Stefanie Dolson** 🔴 | 269 |
-| 84 | **Courtney Williams** 🔴 +1 | 261 |
+| 84 | **Courtney Williams** 🔴 +2 | 262 |
 | 85 | Sophia Witherspoon | 260 |
 | 86 | Dawn Staley | 254 |
 | 87 | Bria Hartley | 253 |
@@ -1153,7 +1153,7 @@ _Last updated: 2026-05-28 02:25 UTC_
 | 105 | Erin Phillips | 211 |
 | 107 | Andrea Stinson | 207 |
 | 108 | Betnijah Laney-Hamilton | 202 |
-| 109 | Lexie Brown | 200 |
+| 109 | **Lexie Brown** 🔴 | 200 |
 | 110 | Shanna Zolman | 199 |
 | 111 | Temeka Johnson | 197 |
 | 111 | Tina Charles | 197 |
@@ -1531,8 +1531,8 @@ _Last updated: 2026-05-28 02:25 UTC_
 | 74 | Latasha Byears | 730 |
 | 75 | Kahleah Copper | 726 |
 | 76 | Kristi Toliver | 722 |
-| 77 | **Allisha Gray** 🔴 +1 | 715 |
-| 77 | Elizabeth Williams | 715 |
+| 77 | **Allisha Gray** 🔴 +2 | 716 |
+| 78 | Elizabeth Williams | 715 |
 | 79 | Cheryl Ford | 713 |
 | 80 | Jia Perkins | 711 |
 | 81 | Helen Darling | 709 |
