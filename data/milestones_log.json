@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-28T00:56:00+00:00",
+    "text": "Alyssa Thomas passed Tamika Whitmore for #35 all-time in fouls (career 941) \u2014 up from #37 entering today \u2014 (5:21 - 4th \u2014 PHX @ NY)",
+    "kind": "rank_pass",
+    "player": "Alyssa Thomas",
+    "stat": "fouls",
+    "rank": 35,
+    "passed_players": [
+      "Tamika Whitmore"
+    ],
+    "new_total": 941
+  },
+  {
     "ts": "2026-05-28T00:45:00+00:00",
     "text": "Elizabeth Williams passed Iziane Castro Marques for #102 all-time in points (career 2,863) \u2014 up from #103 entering today \u2014 (3:12 - 2nd \u2014 TOR @ CHI)",
     "kind": "rank_pass",
@@ -3023,17 +3035,5 @@
       "Jonquel Jones"
     ],
     "new_total": 4141
-  },
-  {
-    "ts": "2026-05-18T14:28:00+00:00",
-    "text": "Courtney Williams passed Temeka Johnson for #18 all-time in assists (career 1,385) \u2014 (Final \u2014 CHI @ MIN)",
-    "kind": "rank_pass",
-    "player": "Courtney Williams",
-    "stat": "assists",
-    "rank": 18,
-    "passed_players": [
-      "Temeka Johnson"
-    ],
-    "new_total": 1385
   }
 ]

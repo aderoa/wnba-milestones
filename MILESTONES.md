@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-28 00:56 UTC
+
+- **Alyssa Thomas** passed **Tamika Whitmore** for **#35** all-time in fouls (career 941) — up from #37 entering today — _5:21 - 4th — PHX @ NY_
+
 ## 2026-05-28 00:45 UTC
 
 - **Elizabeth Williams** passed **Iziane Castro Marques** for **#102** all-time in points (career 2,863) — up from #103 entering today — _3:12 - 2nd — TOR @ CHI_
