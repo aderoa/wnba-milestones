@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-28 01:24 UTC_
+_Last updated: 2026-05-28 01:25 UTC_
 
 ## Contents
 
@@ -445,8 +445,8 @@ _Last updated: 2026-05-28 01:24 UTC_
 | 14 | Danielle Robinson | 1,480 |
 | 15 | Shannon Johnson | 1,423 |
 | 15 | Tanisha Wright | 1,423 |
-| 17 | **Courtney Williams** 🔴 | 1,382 |
-| 17 | Temeka Johnson | 1,382 |
+| 17 | **Courtney Williams** 🔴 +1 | 1,383 |
+| 18 | Temeka Johnson | 1,382 |
 | 19 | Jasmine Thomas | 1,355 |
 | 20 | Briann January | 1,339 |
 | 21 | Dawn Staley | 1,337 |
@@ -928,9 +928,9 @@ _Last updated: 2026-05-28 01:24 UTC_
 | 87 | Tammy Sutton-Brown | 319 |
 | 88 | Plenette Pierson | 317 |
 | 88 | Temeka Johnson | 317 |
-| 90 | Alysha Clark | 315 |
-| 90 | **Courtney Williams** 🔴 | 315 |
-| 90 | Debbie Black | 315 |
+| 90 | **Courtney Williams** 🔴 +1 | 316 |
+| 91 | Alysha Clark | 315 |
+| 91 | Debbie Black | 315 |
 | 93 | Crystal Langhorne | 314 |
 | 94 | Ebony Hoffman | 308 |
 | 95 | Tamera Young | 305 |
@@ -1277,7 +1277,7 @@ _Last updated: 2026-05-28 01:24 UTC_
 | 25 | Alana Beard | 854 |
 | 26 | DeWanna Bonner | 831 |
 | 27 | Katie Douglas | 824 |
-| 28 | **Natasha Howard** 🔴 | 804 |
+| 28 | **Natasha Howard** 🔴 +1 | 805 |
 | 29 | Betty Lennox | 800 |
 | 30 | Jasmine Thomas | 796 |
 | 31 | Nneka Ogwumike | 791 |
@@ -1358,7 +1358,7 @@ _Last updated: 2026-05-28 01:24 UTC_
 | 106 | Jia Perkins | 513 |
 | 107 | Arike Ogunbowale | 509 |
 | 108 | Tamera Young | 501 |
-| 109 | **Jordin Canada** 🔴 +1 | 497 |
+| 109 | **Jordin Canada** 🔴 +2 | 498 |
 | 110 | **Marina Mabrey** 🔴 +1 | 495 |
 | 111 | Nikki Teasley | 493 |
 | 111 | Tari Phillips | 493 |
