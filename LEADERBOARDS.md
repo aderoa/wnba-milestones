@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-28 01:49 UTC_
+_Last updated: 2026-05-28 01:50 UTC_
 
 ## Contents
 
@@ -44,7 +44,7 @@ _Last updated: 2026-05-28 01:49 UTC_
 | 23 | **Skylar Diggins** 🔴 +21 | 5,546 |
 | 24 | Katie Douglas | 5,545 |
 | 25 | Lindsay Whalen | 5,511 |
-| 26 | **Kayla McBride** 🔴 +2 | 5,456 |
+| 26 | **Kayla McBride** 🔴 +3 | 5,457 |
 | 27 | Swin Cash | 5,119 |
 | 28 | Tangela Smith | 5,035 |
 | 29 | Taj McWilliams-Franklin | 4,992 |
@@ -68,7 +68,7 @@ _Last updated: 2026-05-28 01:49 UTC_
 | 47 | Sophia Young-Malcolm | 4,300 |
 | 48 | Plenette Pierson | 4,258 |
 | 49 | Monique Currie | 4,253 |
-| 50 | **Allisha Gray** 🔴 +6 | 4,238 |
+| 50 | **Allisha Gray** 🔴 +9 | 4,241 |
 | 51 | Vickie Johnson | 4,230 |
 | 52 | Yolanda Griffith | 4,224 |
 | 53 | Kahleah Copper | 4,173 |
@@ -459,7 +459,7 @@ _Last updated: 2026-05-28 01:49 UTC_
 | 28 | Vickie Johnson | 1,202 |
 | 29 | Leilani Mitchell | 1,197 |
 | 30 | DeWanna Bonner | 1,183 |
-| 31 | **Jordin Canada** 🔴 +2 | 1,157 |
+| 31 | **Jordin Canada** 🔴 +3 | 1,158 |
 | 32 | Jewell Loyd | 1,141 |
 | 33 | Renee Montgomery | 1,140 |
 | 34 | Swin Cash | 1,131 |
@@ -1075,8 +1075,8 @@ _Last updated: 2026-05-28 01:49 UTC_
 | 28 | Tiffany Hayes | 447 |
 | 29 | Ariel Atkins | 440 |
 | 30 | Lauren Jackson | 436 |
-| 31 | **Allisha Gray** 🔴 +2 | 434 |
-| 31 | Shameka Christon | 434 |
+| 31 | **Allisha Gray** 🔴 +3 | 435 |
+| 32 | Shameka Christon | 434 |
 | 33 | **Skylar Diggins** 🔴 +1 | 429 |
 | 34 | Crystal Robinson | 425 |
 | 35 | Chelsea Gray | 423 |

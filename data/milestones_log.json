@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-28T01:50:00+00:00",
+    "text": "Allisha Gray passed Shameka Christon for #31 all-time in three-pointers (career 435) \u2014 up from #32 entering today \u2014 (4:04 - 2nd \u2014 ATL @ MIN)",
+    "kind": "rank_pass",
+    "player": "Allisha Gray",
+    "stat": "three-pointers",
+    "rank": 31,
+    "passed_players": [
+      "Shameka Christon"
+    ],
+    "new_total": 435
+  },
+  {
     "ts": "2026-05-28T01:48:00+00:00",
     "text": "Skylar Diggins passed Katie Douglas for #23 all-time in points (career 5,546) \u2014 up from #24 entering today \u2014 (7:08 - 4th \u2014 TOR @ CHI)",
     "kind": "rank_pass",
@@ -3021,17 +3033,5 @@
       "Barbara Farris"
     ],
     "new_total": 822
-  },
-  {
-    "ts": "2026-05-18T14:28:00+00:00",
-    "text": "Nia Coffey passed Kia Nurse for #189 all-time in fouls (career 470) \u2014 up from #190 entering today \u2014 (Final \u2014 CHI @ MIN)",
-    "kind": "rank_pass",
-    "player": "Nia Coffey",
-    "stat": "fouls",
-    "rank": 189,
-    "passed_players": [
-      "Kia Nurse"
-    ],
-    "new_total": 470
   }
 ]
