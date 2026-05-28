@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-28 00:45 UTC
+
+- **Elizabeth Williams** passed **Iziane Castro Marques** for **#102** all-time in points (career 2,863) — up from #103 entering today — _3:12 - 2nd — TOR @ CHI_
+
 ## 2026-05-28 00:31 UTC
 
 - **Betnijah Laney-Hamilton** passed **Adrienne Goodson** for **#168** all-time in steals (career 204) — up from #169 entering today — _3:13 - 3rd — PHX @ NY_
