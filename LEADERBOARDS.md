@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-28 01:31 UTC_
+_Last updated: 2026-05-28 01:32 UTC_
 
 ## Contents
 
@@ -567,7 +567,7 @@ _Last updated: 2026-05-28 01:31 UTC_
 | 136 | Janeth Arcain | 469 |
 | 137 | Erin Phillips | 462 |
 | 138 | Sylvia Fowles | 461 |
-| 139 | **Elizabeth Williams** 🔴 | 455 |
+| 139 | **Elizabeth Williams** 🔴 +1 | 456 |
 | 140 | Sydney Colson | 454 |
 | 141 | Satou Sabally | 451 |
 | 141 | Yolanda Griffith | 451 |
@@ -677,7 +677,7 @@ _Last updated: 2026-05-28 01:31 UTC_
 | 41 | Brianna Turner | 231 |
 | 42 | **Azurá Stevens** 🔴 | 230 |
 | 43 | Chasity Melvin | 228 |
-| 44 | **Skylar Diggins** 🔴 +1 | 226 |
+| 44 | **Skylar Diggins** 🔴 +2 | 227 |
 | 45 | Alanna Smith | 222 |
 | 46 | Sancho Lyttle | 221 |
 | 47 | Alana Beard | 220 |
@@ -1445,9 +1445,9 @@ _Last updated: 2026-05-28 01:31 UTC_
 | 193 | Crystal Robinson | 299 |
 | 194 | Michele Timms | 297 |
 | 195 | Kayla Thornton | 289 |
-| 196 | Alexis Hornbuckle | 288 |
-| 196 | Kristen Rasmussen | 288 |
-| 196 | **Rachel Banham** 🔴 | 288 |
+| 195 | **Rachel Banham** 🔴 +1 | 289 |
+| 197 | Alexis Hornbuckle | 288 |
+| 197 | Kristen Rasmussen | 288 |
 | 199 | **Azurá Stevens** 🔴 | 286 |
 | 199 | Damiris Dantas | 286 |
 
@@ -1515,7 +1515,7 @@ _Last updated: 2026-05-28 01:31 UTC_
 | 58 | Shannon Johnson | 813 |
 | 58 | Tully Bevilaqua | 813 |
 | 60 | Dearica Hamby | 811 |
-| 61 | **Skylar Diggins** 🔴 +1 | 798 |
+| 61 | **Skylar Diggins** 🔴 | 797 |
 | 62 | Nykesha Sales | 796 |
 | 63 | Ebony Hoffman | 791 |
 | 64 | Sue Bird | 775 |
