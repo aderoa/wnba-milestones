@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-28 02:15 UTC_
+_Last updated: 2026-05-28 02:16 UTC_
 
 ## Contents
 
@@ -86,9 +86,9 @@ _Last updated: 2026-05-28 02:15 UTC_
 | 65 | Mwadi Mabika | 3,576 |
 | 66 | Odyssey Sims | 3,552 |
 | 67 | Camille Smith | 3,551 |
+| 68 | **Brittney Sykes** 🔴 +20 | 3,542 |
 | 68 | Napheesa Collier | 3,542 |
 | 68 | Shannon Johnson | 3,542 |
-| 70 | **Brittney Sykes** 🔴 +19 | 3,541 |
 | 71 | Renee Montgomery | 3,533 |
 | 72 | Jasmine Thomas | 3,522 |
 | 73 | Tamecka Dixon | 3,507 |
@@ -268,7 +268,7 @@ _Last updated: 2026-05-28 02:15 UTC_
 | 42 | Kiah Stokes | 1,760 |
 | 43 | Asjha Jones | 1,751 |
 | 44 | Teaira McCowan | 1,670 |
-| 45 | **Stefanie Dolson** 🔴 | 1,667 |
+| 45 | **Stefanie Dolson** 🔴 +1 | 1,668 |
 | 46 | Monique Currie | 1,666 |
 | 47 | Glory Johnson | 1,640 |
 | 48 | Vickie Johnson | 1,634 |
@@ -1515,7 +1515,7 @@ _Last updated: 2026-05-28 02:15 UTC_
 | 58 | Shannon Johnson | 813 |
 | 58 | Tully Bevilaqua | 813 |
 | 60 | Dearica Hamby | 811 |
-| 61 | **Skylar Diggins** 🔴 +1 | 798 |
+| 61 | **Skylar Diggins** 🔴 +2 | 799 |
 | 62 | Nykesha Sales | 796 |
 | 63 | Ebony Hoffman | 791 |
 | 64 | Sue Bird | 775 |
@@ -1532,7 +1532,7 @@ _Last updated: 2026-05-28 02:15 UTC_
 | 75 | Kahleah Copper | 726 |
 | 76 | Kristi Toliver | 722 |
 | 77 | **Allisha Gray** 🔴 +1 | 715 |
-| 78 | **Elizabeth Williams** 🔴 +1 | 714 |
+| 77 | **Elizabeth Williams** 🔴 +2 | 715 |
 | 79 | Cheryl Ford | 713 |
 | 80 | Jia Perkins | 711 |
 | 81 | Helen Darling | 709 |
