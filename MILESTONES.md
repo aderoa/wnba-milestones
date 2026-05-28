@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-28 03:31 UTC
+
+- **Shakira Austin** passed **Shenise Johnson** for **#191** all-time in rebounds (career 730) — up from #195 entering today — _2:21 - 3rd — WSH @ SEA_
+
 ## 2026-05-28 03:13 UTC
 
 - **Shakira Austin** passed **Sami Whitcomb** and **Shekinna Stricklen** for **#192** all-time in rebounds (career 727) — up from #195 entering today — _8:57 - 3rd — WSH @ SEA_

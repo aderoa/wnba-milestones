@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-28T03:31:00+00:00",
+    "text": "Shakira Austin passed Shenise Johnson for #191 all-time in rebounds (career 730) \u2014 up from #195 entering today \u2014 (2:21 - 3rd \u2014 WSH @ SEA)",
+    "kind": "rank_pass",
+    "player": "Shakira Austin",
+    "stat": "rebounds",
+    "rank": 191,
+    "passed_players": [
+      "Shenise Johnson"
+    ],
+    "new_total": 730
+  },
+  {
     "ts": "2026-05-28T03:13:00+00:00",
     "text": "Shakira Austin passed Sami Whitcomb and Shekinna Stricklen for #192 all-time in rebounds (career 727) \u2014 up from #195 entering today \u2014 (8:57 - 3rd \u2014 WSH @ SEA)",
     "kind": "rank_pass",
@@ -3013,18 +3025,5 @@
       "Jennifer Gillom"
     ],
     "new_total": 2899
-  },
-  {
-    "ts": "2026-05-18T14:28:00+00:00",
-    "text": "Natasha Cloud passed Shameka Christon and Becky Hammon for #71 all-time in fouls (career 735) \u2014 up from #73 entering today \u2014 (Final \u2014 CHI @ MIN)",
-    "kind": "rank_pass",
-    "player": "Natasha Cloud",
-    "stat": "fouls",
-    "rank": 71,
-    "passed_players": [
-      "Shameka Christon",
-      "Becky Hammon"
-    ],
-    "new_total": 735
   }
 ]
