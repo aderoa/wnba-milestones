@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-28 02:16 UTC_
+_Last updated: 2026-05-28 02:17 UTC_
 
 ## Contents
 
@@ -117,7 +117,7 @@ _Last updated: 2026-05-28 02:16 UTC_
 | 96 | Marie Ferdinand-Harris | 3,001 |
 | 97 | Emma Meesseman | 2,966 |
 | 98 | **Marina Mabrey** 🔴 +22 | 2,963 |
-| 99 | **Natasha Cloud** 🔴 +16 | 2,904 |
+| 99 | **Natasha Cloud** 🔴 +18 | 2,906 |
 | 100 | Natalie Williams | 2,894 |
 | 101 | Jennifer Gillom | 2,888 |
 | 102 | **Elizabeth Williams** 🔴 +11 | 2,867 |
@@ -256,7 +256,7 @@ _Last updated: 2026-05-28 02:16 UTC_
 | 30 | Chamique Holdsclaw | 2,123 |
 | 31 | Chasity Melvin | 2,097 |
 | 32 | Tammy Sutton-Brown | 2,010 |
-| 33 | **Elizabeth Williams** 🔴 +8 | 1,931 |
+| 33 | **Elizabeth Williams** 🔴 +9 | 1,932 |
 | 34 | Cheryl Ford | 1,907 |
 | 35 | Plenette Pierson | 1,834 |
 | 36 | Natalie Williams | 1,832 |
@@ -417,7 +417,7 @@ _Last updated: 2026-05-28 02:16 UTC_
 | 191 | Shenise Johnson | 729 |
 | 192 | Sami Whitcomb | 726 |
 | 192 | Shekinna Stricklen | 726 |
-| 194 | **Shakira Austin** 🔴 +3 | 722 |
+| 194 | **Shakira Austin** 🔴 +4 | 723 |
 | 195 | Kelsey Plum | 721 |
 | 196 | Olympia Scott | 711 |
 | 197 | Katie Mattera | 708 |
@@ -437,7 +437,7 @@ _Last updated: 2026-05-28 02:16 UTC_
 | 6 | Chelsea Gray | 1,903 |
 | 7 | Alyssa Thomas | 1,863 |
 | 8 | **Skylar Diggins** 🔴 +9 | 1,794 |
-| 9 | **Natasha Cloud** 🔴 +8 | 1,755 |
+| 9 | **Natasha Cloud** 🔴 +9 | 1,756 |
 | 10 | Becky Hammon | 1,705 |
 | 11 | Candace Parker | 1,634 |
 | 12 | Cappie Pondexter | 1,575 |
@@ -567,7 +567,7 @@ _Last updated: 2026-05-28 02:16 UTC_
 | 136 | Janeth Arcain | 469 |
 | 137 | Erin Phillips | 462 |
 | 138 | Sylvia Fowles | 461 |
-| 139 | **Elizabeth Williams** 🔴 +2 | 457 |
+| 139 | **Elizabeth Williams** 🔴 +3 | 458 |
 | 140 | Sydney Colson | 454 |
 | 141 | Satou Sabally | 451 |
 | 141 | Yolanda Griffith | 451 |
@@ -940,8 +940,8 @@ _Last updated: 2026-05-28 02:16 UTC_
 | 99 | Janel McCarville | 294 |
 | 100 | Kelly Miller | 290 |
 | 101 | Glory Johnson | 289 |
-| 102 | **Elizabeth Williams** 🔴 | 285 |
-| 102 | Essence Carson | 285 |
+| 102 | **Elizabeth Williams** 🔴 +1 | 286 |
+| 103 | Essence Carson | 285 |
 | 104 | Seimone Augustus | 280 |
 | 105 | Tari Phillips | 277 |
 | 106 | Emma Meesseman | 276 |
