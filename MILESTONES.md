@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-28 01:53 UTC
+
+- **Azurá Stevens** passed **Dawn Staley** for **#140** all-time in points (career 2,229) — up from #141 entering today — _6:12 - 4th — TOR @ CHI_
+
 ## 2026-05-28 01:50 UTC
 
 - **Allisha Gray** passed **Shameka Christon** for **#31** all-time in three-pointers (career 435) — up from #32 entering today — _4:04 - 2nd — ATL @ MIN_

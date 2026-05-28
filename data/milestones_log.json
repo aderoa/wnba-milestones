@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-28T01:53:00+00:00",
+    "text": "Azur\u00e1 Stevens passed Dawn Staley for #140 all-time in points (career 2,229) \u2014 up from #141 entering today \u2014 (6:12 - 4th \u2014 TOR @ CHI)",
+    "kind": "rank_pass",
+    "player": "Azur\u00e1 Stevens",
+    "stat": "points",
+    "rank": 140,
+    "passed_players": [
+      "Dawn Staley"
+    ],
+    "new_total": 2229
+  },
+  {
     "ts": "2026-05-28T01:50:00+00:00",
     "text": "Allisha Gray passed Shameka Christon for #31 all-time in three-pointers (career 435) \u2014 up from #32 entering today \u2014 (4:04 - 2nd \u2014 ATL @ MIN)",
     "kind": "rank_pass",
@@ -3020,18 +3032,5 @@
       "Sheri Sam"
     ],
     "new_total": 440
-  },
-  {
-    "ts": "2026-05-18T14:28:00+00:00",
-    "text": "Nia Coffey passed Amanda Zahui B and Barbara Farris for #164 all-time in rebounds (career 822) \u2014 up from #166 entering today \u2014 (Final \u2014 CHI @ MIN)",
-    "kind": "rank_pass",
-    "player": "Nia Coffey",
-    "stat": "rebounds",
-    "rank": 164,
-    "passed_players": [
-      "Amanda Zahui B",
-      "Barbara Farris"
-    ],
-    "new_total": 822
   }
 ]
