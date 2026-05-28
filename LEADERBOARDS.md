@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-28 00:29 UTC_
+_Last updated: 2026-05-28 00:30 UTC_
 
 ## Contents
 
@@ -159,7 +159,7 @@ _Last updated: 2026-05-28 00:29 UTC_
 | 138 | Kara Braxton | 2,237 |
 | 138 | Matee Ajavon | 2,237 |
 | 140 | Dawn Staley | 2,228 |
-| 141 | **Azurá Stevens** 🔴 +2 | 2,221 |
+| 141 | **Azurá Stevens** 🔴 +5 | 2,224 |
 | 142 | Janel McCarville | 2,215 |
 | 142 | Teaira McCowan | 2,215 |
 | 144 | Sami Whitcomb | 2,211 |
@@ -236,7 +236,7 @@ _Last updated: 2026-05-28 00:29 UTC_
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | **Alyssa Thomas** 🔴 +4 | 2,774 |
-| 13 | **Jonquel Jones** 🔴 +10 | 2,609 |
+| 13 | **Jonquel Jones** 🔴 +11 | 2,610 |
 | 14 | Sancho Lyttle | 2,596 |
 | 15 | DeLisha Milton-Jones | 2,574 |
 | 16 | Brittney Griner | 2,537 |
@@ -384,8 +384,8 @@ _Last updated: 2026-05-28 00:29 UTC_
 | 158 | Jessica Shepard | 836 |
 | 159 | Essence Carson | 833 |
 | 160 | Kristi Toliver | 829 |
-| 161 | Marie Ferdinand-Harris | 828 |
-| 161 | **Marina Mabrey** 🔴 +1 | 828 |
+| 160 | **Marina Mabrey** 🔴 +2 | 829 |
+| 162 | Marie Ferdinand-Harris | 828 |
 | 163 | Marlies Askamp | 822 |
 | 164 | Amanda Zahui B | 819 |
 | 164 | Barbara Farris | 819 |
@@ -437,7 +437,7 @@ _Last updated: 2026-05-28 00:29 UTC_
 | 6 | Chelsea Gray | 1,903 |
 | 7 | **Alyssa Thomas** 🔴 +5 | 1,859 |
 | 8 | **Skylar Diggins** 🔴 +4 | 1,789 |
-| 9 | **Natasha Cloud** 🔴 +2 | 1,749 |
+| 9 | **Natasha Cloud** 🔴 +3 | 1,750 |
 | 10 | Becky Hammon | 1,705 |
 | 11 | Candace Parker | 1,634 |
 | 12 | Cappie Pondexter | 1,575 |
@@ -501,7 +501,7 @@ _Last updated: 2026-05-28 00:29 UTC_
 | 70 | Tina Thompson | 803 |
 | 71 | Epiphanny Prince | 800 |
 | 72 | Mwadi Mabika | 774 |
-| 73 | **Marina Mabrey** 🔴 +1 | 746 |
+| 73 | **Marina Mabrey** 🔴 +2 | 747 |
 | 74 | Sheri Sam | 745 |
 | 75 | Monique Currie | 740 |
 | 76 | Allisha Gray | 734 |
@@ -1136,9 +1136,9 @@ _Last updated: 2026-05-28 00:29 UTC_
 | 89 | Angel McCoughtry | 249 |
 | 90 | Erin Thorn | 243 |
 | 91 | Alex Bentley | 239 |
+| 91 | **Azurá Stevens** 🔴 +1 | 239 |
 | 91 | Cynthia Cooper | 239 |
-| 93 | **Azurá Stevens** 🔴 | 238 |
-| 93 | Nneka Ogwumike | 238 |
+| 94 | Nneka Ogwumike | 238 |
 | 95 | **Brittney Sykes** 🔴 | 236 |
 | 96 | Svetlana Abrosimova | 235 |
 | 96 | Tangela Smith | 235 |
@@ -1529,7 +1529,7 @@ _Last updated: 2026-05-28 00:29 UTC_
 | 72 | Becky Hammon | 733 |
 | 72 | **Natasha Cloud** 🔴 +2 | 733 |
 | 74 | Latasha Byears | 730 |
-| 75 | **Kahleah Copper** 🔴 | 723 |
+| 75 | **Kahleah Copper** 🔴 +1 | 724 |
 | 76 | Kristi Toliver | 722 |
 | 77 | Allisha Gray | 714 |
 | 78 | Cheryl Ford | 713 |

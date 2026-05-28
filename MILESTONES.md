@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-28 00:30 UTC
+
+- **Azurá Stevens** passed **Nneka Ogwumike** for **#94** all-time in three-pointers (career 239) — _8:54 - 2nd — TOR @ CHI_
+
 ## 2026-05-28 00:28 UTC
 
 - **Marine Johannès** passed **Natasha Howard** for **#139** all-time in three-pointers (career 158) — up from #143 entering today — _4:34 - 3rd — PHX @ NY_
