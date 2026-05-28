@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-28 02:23 UTC_
+_Last updated: 2026-05-28 02:24 UTC_
 
 ## Contents
 
@@ -60,7 +60,7 @@ _Last updated: 2026-05-28 02:23 UTC_
 | 39 | Arike Ogunbowale | 4,512 |
 | 40 | Kristi Toliver | 4,474 |
 | 41 | Chelsea Gray | 4,469 |
-| 42 | **Natasha Howard** 🔴 +6 | 4,436 |
+| 42 | **Natasha Howard** 🔴 +8 | 4,438 |
 | 43 | Crystal Langhorne | 4,433 |
 | 43 | Jia Perkins | 4,433 |
 | 45 | Courtney Vandersloot | 4,352 |
@@ -68,7 +68,7 @@ _Last updated: 2026-05-28 02:23 UTC_
 | 47 | Sophia Young-Malcolm | 4,300 |
 | 48 | Plenette Pierson | 4,258 |
 | 49 | Monique Currie | 4,253 |
-| 50 | **Allisha Gray** 🔴 +9 | 4,241 |
+| 50 | **Allisha Gray** 🔴 +12 | 4,244 |
 | 51 | Vickie Johnson | 4,230 |
 | 52 | Yolanda Griffith | 4,224 |
 | 53 | Kahleah Copper | 4,173 |
@@ -264,7 +264,7 @@ _Last updated: 2026-05-28 02:23 UTC_
 | 38 | Sophia Young-Malcolm | 1,807 |
 | 39 | Lindsay Whalen | 1,805 |
 | 40 | Camille Smith | 1,802 |
-| 41 | **Courtney Williams** 🔴 +1 | 1,767 |
+| 41 | **Courtney Williams** 🔴 +2 | 1,768 |
 | 42 | Kiah Stokes | 1,760 |
 | 43 | Asjha Jones | 1,751 |
 | 44 | Teaira McCowan | 1,670 |
@@ -393,8 +393,8 @@ _Last updated: 2026-05-28 02:23 UTC_
 | 167 | Carolyn Swords | 814 |
 | 168 | Tierra Ruffin-Pratt | 799 |
 | 169 | Charlotte Smith | 794 |
-| 170 | Betnijah Laney-Hamilton | 792 |
-| 170 | **Naz Hillmon** 🔴 +4 | 792 |
+| 170 | **Naz Hillmon** 🔴 +5 | 793 |
+| 171 | Betnijah Laney-Hamilton | 792 |
 | 172 | Rhonda Mapp | 788 |
 | 173 | Mercedes Russell | 786 |
 | 174 | Odyssey Sims | 780 |
@@ -1074,8 +1074,8 @@ _Last updated: 2026-05-28 02:23 UTC_
 | 27 | Marina Mabrey | 451 |
 | 28 | Tiffany Hayes | 447 |
 | 29 | Ariel Atkins | 440 |
+| 30 | **Allisha Gray** 🔴 +4 | 436 |
 | 30 | Lauren Jackson | 436 |
-| 31 | **Allisha Gray** 🔴 +3 | 435 |
 | 32 | Shameka Christon | 434 |
 | 33 | Skylar Diggins | 429 |
 | 34 | Crystal Robinson | 425 |
