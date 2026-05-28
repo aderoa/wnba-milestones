@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-28 01:47 UTC_
+_Last updated: 2026-05-28 01:48 UTC_
 
 ## Contents
 
@@ -41,8 +41,8 @@ _Last updated: 2026-05-28 01:47 UTC_
 | 20 | Becky Hammon | 5,816 |
 | 21 | Angel McCoughtry | 5,797 |
 | 22 | DeLisha Milton-Jones | 5,571 |
-| 23 | Katie Douglas | 5,545 |
-| 23 | **Skylar Diggins** 🔴 +20 | 5,545 |
+| 23 | **Skylar Diggins** 🔴 +21 | 5,546 |
+| 24 | Katie Douglas | 5,545 |
 | 25 | Lindsay Whalen | 5,511 |
 | 26 | **Kayla McBride** 🔴 +2 | 5,456 |
 | 27 | Swin Cash | 5,119 |
@@ -159,7 +159,7 @@ _Last updated: 2026-05-28 01:47 UTC_
 | 138 | Kara Braxton | 2,237 |
 | 138 | Matee Ajavon | 2,237 |
 | 140 | Dawn Staley | 2,228 |
-| 141 | **Azurá Stevens** 🔴 +5 | 2,224 |
+| 141 | **Azurá Stevens** 🔴 +7 | 2,226 |
 | 142 | Janel McCarville | 2,215 |
 | 142 | Teaira McCowan | 2,215 |
 | 144 | Sami Whitcomb | 2,211 |
@@ -362,7 +362,7 @@ _Last updated: 2026-05-28 01:47 UTC_
 | 136 | Danielle Robinson | 988 |
 | 137 | Shavonte Zellous | 978 |
 | 138 | Kara Lawson | 976 |
-| 139 | **Skylar Diggins** 🔴 +1 | 974 |
+| 139 | **Skylar Diggins** 🔴 +2 | 975 |
 | 140 | Jennifer Gillom | 964 |
 | 141 | Dominique Canty | 961 |
 | 142 | Armintie Herrington | 960 |
@@ -501,7 +501,7 @@ _Last updated: 2026-05-28 01:47 UTC_
 | 70 | Tina Thompson | 803 |
 | 71 | Epiphanny Prince | 800 |
 | 72 | Mwadi Mabika | 774 |
-| 73 | **Marina Mabrey** 🔴 +5 | 750 |
+| 73 | **Marina Mabrey** 🔴 +6 | 751 |
 | 74 | Sheri Sam | 745 |
 | 75 | Monique Currie | 740 |
 | 76 | **Allisha Gray** 🔴 | 734 |
@@ -1358,7 +1358,7 @@ _Last updated: 2026-05-28 01:47 UTC_
 | 106 | Jia Perkins | 513 |
 | 107 | Arike Ogunbowale | 509 |
 | 108 | Tamera Young | 501 |
-| 109 | **Jordin Canada** 🔴 +2 | 498 |
+| 109 | **Jordin Canada** 🔴 +3 | 499 |
 | 110 | **Marina Mabrey** 🔴 +1 | 495 |
 | 111 | Nikki Teasley | 493 |
 | 111 | Tari Phillips | 493 |

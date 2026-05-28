@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-28 01:48 UTC
+
+- **Skylar Diggins** passed **Katie Douglas** for **#23** all-time in points (career 5,546) — up from #24 entering today — _7:08 - 4th — TOR @ CHI_
+
 ## 2026-05-28 01:40 UTC
 
 - **Rachel Banham** passed **Kayla Thornton** for **#195** all-time in turnovers (career 290) — up from #198 entering today — _0.0 - 3rd — TOR @ CHI_
