@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-28 01:40 UTC
+
+- **Rachel Banham** passed **Kayla Thornton** for **#195** all-time in turnovers (career 290) — up from #198 entering today — _0.0 - 3rd — TOR @ CHI_
+
 ## 2026-05-28 01:10 UTC
 
 - **Betnijah Laney-Hamilton** passed **Kayla Thornton** for **#134** all-time in points (career 2,268) — up from #135 entering today — _1:13 - 4th — PHX @ NY_

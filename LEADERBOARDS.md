@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-28 01:39 UTC_
+_Last updated: 2026-05-28 01:40 UTC_
 
 ## Contents
 
@@ -165,8 +165,8 @@ _Last updated: 2026-05-28 01:39 UTC_
 | 144 | Sami Whitcomb | 2,211 |
 | 145 | Sophia Witherspoon | 2,210 |
 | 146 | **Kia Nurse** 🔴 | 2,204 |
-| 147 | Ruthie Bolton | 2,175 |
-| 148 | **Jordin Canada** 🔴 | 2,174 |
+| 147 | **Jordin Canada** 🔴 +3 | 2,177 |
+| 148 | Ruthie Bolton | 2,175 |
 | 149 | Ann Wauters | 2,170 |
 | 150 | Layshia Clarendon | 2,168 |
 | 151 | Satou Sabally | 2,161 |
@@ -250,7 +250,7 @@ _Last updated: 2026-05-28 01:39 UTC_
 | 24 | Dearica Hamby | 2,346 |
 | 25 | Tangela Smith | 2,328 |
 | 26 | Erika de Souza | 2,220 |
-| 27 | **Natasha Howard** 🔴 +2 | 2,206 |
+| 27 | **Natasha Howard** 🔴 +3 | 2,207 |
 | 28 | Diana Taurasi | 2,201 |
 | 29 | Margo Dydek | 2,138 |
 | 30 | Chamique Holdsclaw | 2,123 |
@@ -376,7 +376,7 @@ _Last updated: 2026-05-28 01:39 UTC_
 | 150 | Temeka Johnson | 889 |
 | 151 | Mistie Bass | 888 |
 | 152 | Shameka Christon | 867 |
-| 153 | **Angel Reese** 🔴 +3 | 864 |
+| 153 | **Angel Reese** 🔴 +5 | 866 |
 | 154 | Krystal Thomas | 862 |
 | 155 | Erica Wheeler | 858 |
 | 156 | Alanna Smith | 847 |
@@ -1222,11 +1222,11 @@ _Last updated: 2026-05-28 01:39 UTC_
 | 175 | Sidney Spencer | 122 |
 | 176 | Tonya Edwards | 118 |
 | 177 | Edwige Lawson-Wade | 116 |
+| 177 | **Jordin Canada** 🔴 +1 | 116 |
 | 177 | Marie Ferdinand-Harris | 116 |
-| 179 | Ebony Hoffman | 115 |
-| 179 | **Jordin Canada** 🔴 | 115 |
-| 179 | Shey Peddy | 115 |
-| 179 | Stephanie White | 115 |
+| 180 | Ebony Hoffman | 115 |
+| 180 | Shey Peddy | 115 |
+| 180 | Stephanie White | 115 |
 | 183 | Gordana Grubin | 114 |
 | 183 | Rickea Jackson | 114 |
 | 183 | Sandy Brondello | 114 |
@@ -1444,8 +1444,8 @@ _Last updated: 2026-05-28 01:39 UTC_
 | 192 | Isabelle Harrison | 300 |
 | 193 | Crystal Robinson | 299 |
 | 194 | Michele Timms | 297 |
-| 195 | Kayla Thornton | 289 |
-| 195 | **Rachel Banham** 🔴 +1 | 289 |
+| 195 | **Rachel Banham** 🔴 +2 | 290 |
+| 196 | Kayla Thornton | 289 |
 | 197 | Alexis Hornbuckle | 288 |
 | 197 | Kristen Rasmussen | 288 |
 | 199 | **Azurá Stevens** 🔴 | 286 |
