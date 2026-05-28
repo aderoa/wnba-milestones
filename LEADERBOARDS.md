@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-28 01:22 UTC_
+_Last updated: 2026-05-28 01:23 UTC_
 
 ## Contents
 
@@ -250,7 +250,7 @@ _Last updated: 2026-05-28 01:22 UTC_
 | 24 | Dearica Hamby | 2,346 |
 | 25 | Tangela Smith | 2,328 |
 | 26 | Erika de Souza | 2,220 |
-| 27 | **Natasha Howard** 🔴 | 2,204 |
+| 27 | **Natasha Howard** 🔴 +1 | 2,205 |
 | 28 | Diana Taurasi | 2,201 |
 | 29 | Margo Dydek | 2,138 |
 | 30 | Chamique Holdsclaw | 2,123 |
@@ -376,8 +376,8 @@ _Last updated: 2026-05-28 01:22 UTC_
 | 150 | Temeka Johnson | 889 |
 | 151 | Mistie Bass | 888 |
 | 152 | Shameka Christon | 867 |
+| 153 | **Angel Reese** 🔴 +1 | 862 |
 | 153 | Krystal Thomas | 862 |
-| 154 | **Angel Reese** 🔴 | 861 |
 | 155 | Erica Wheeler | 858 |
 | 156 | Alanna Smith | 847 |
 | 157 | Leilani Mitchell | 845 |
@@ -1525,8 +1525,8 @@ _Last updated: 2026-05-28 01:22 UTC_
 | 68 | Vickie Johnson | 752 |
 | 69 | Kara Braxton | 748 |
 | 70 | Crystal Langhorne | 737 |
-| 71 | **Natasha Cloud** 🔴 +3 | 734 |
-| 71 | Shameka Christon | 734 |
+| 71 | **Natasha Cloud** 🔴 +4 | 735 |
+| 72 | Shameka Christon | 734 |
 | 73 | Becky Hammon | 733 |
 | 74 | Latasha Byears | 730 |
 | 75 | Kahleah Copper | 726 |
