@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-28 00:23 UTC_
+_Last updated: 2026-05-28 00:24 UTC_
 
 ## Contents
 
@@ -118,7 +118,7 @@ _Last updated: 2026-05-28 00:23 UTC_
 | 97 | Emma Meesseman | 2,966 |
 | 98 | **Marina Mabrey** 🔴 +2 | 2,943 |
 | 99 | Natalie Williams | 2,894 |
-| 100 | **Natasha Cloud** 🔴 +2 | 2,890 |
+| 100 | **Natasha Cloud** 🔴 +4 | 2,892 |
 | 101 | Jennifer Gillom | 2,888 |
 | 102 | Iziane Castro Marques | 2,862 |
 | 103 | **Elizabeth Williams** 🔴 +4 | 2,860 |
@@ -334,7 +334,7 @@ _Last updated: 2026-05-28 00:23 UTC_
 | 108 | Andrea Stinson | 1,127 |
 | 108 | Tamika Raymond | 1,127 |
 | 110 | Adrienne Goodson | 1,126 |
-| 111 | **Brittney Sykes** 🔴 +1 | 1,122 |
+| 111 | **Brittney Sykes** 🔴 +2 | 1,123 |
 | 112 | Deanna Nolan | 1,112 |
 | 113 | Chiney Ogwumike | 1,110 |
 | 114 | Becky Hammon | 1,108 |
