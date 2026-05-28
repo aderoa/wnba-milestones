@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-28 00:13 UTC_
+_Last updated: 2026-05-28 00:14 UTC_
 
 ## Contents
 
@@ -121,7 +121,7 @@ _Last updated: 2026-05-28 00:13 UTC_
 | 100 | **Natasha Cloud** 🔴 +2 | 2,890 |
 | 101 | Jennifer Gillom | 2,888 |
 | 102 | Iziane Castro Marques | 2,862 |
-| 103 | Elizabeth Williams | 2,856 |
+| 103 | **Elizabeth Williams** 🔴 | 2,856 |
 | 104 | Alysha Clark | 2,792 |
 | 105 | Jantel Lavender | 2,775 |
 | 106 | Brionna Jones | 2,765 |
@@ -256,7 +256,7 @@ _Last updated: 2026-05-28 00:13 UTC_
 | 30 | Chamique Holdsclaw | 2,123 |
 | 31 | Chasity Melvin | 2,097 |
 | 32 | Tammy Sutton-Brown | 2,010 |
-| 33 | Elizabeth Williams | 1,923 |
+| 33 | **Elizabeth Williams** 🔴 | 1,923 |
 | 34 | Cheryl Ford | 1,907 |
 | 35 | Plenette Pierson | 1,834 |
 | 36 | Natalie Williams | 1,832 |
@@ -567,7 +567,7 @@ _Last updated: 2026-05-28 00:13 UTC_
 | 136 | Janeth Arcain | 469 |
 | 137 | Erin Phillips | 462 |
 | 138 | Sylvia Fowles | 461 |
-| 139 | Elizabeth Williams | 455 |
+| 139 | **Elizabeth Williams** 🔴 | 455 |
 | 140 | Sydney Colson | 454 |
 | 141 | Satou Sabally | 451 |
 | 141 | Yolanda Griffith | 451 |
@@ -644,7 +644,7 @@ _Last updated: 2026-05-28 00:13 UTC_
 | 8 | Tangela Smith | 554 |
 | 9 | A'ja Wilson | 543 |
 | 10 | Ruth Riley | 505 |
-| 11 | Elizabeth Williams | 486 |
+| 11 | **Elizabeth Williams** 🔴 | 486 |
 | 12 | Taj McWilliams-Franklin | 443 |
 | 13 | **Breanna Stewart** 🔴 | 433 |
 | 14 | Tina Charles | 428 |
@@ -940,7 +940,7 @@ _Last updated: 2026-05-28 00:13 UTC_
 | 99 | Janel McCarville | 294 |
 | 100 | Kelly Miller | 290 |
 | 101 | Glory Johnson | 289 |
-| 102 | Elizabeth Williams | 285 |
+| 102 | **Elizabeth Williams** 🔴 | 285 |
 | 102 | Essence Carson | 285 |
 | 104 | Seimone Augustus | 280 |
 | 105 | Tari Phillips | 277 |
@@ -1403,7 +1403,7 @@ _Last updated: 2026-05-28 00:13 UTC_
 | 151 | Sophia Witherspoon | 386 |
 | 152 | Hamchetou Maiga-Ba | 385 |
 | 153 | Kamila Vodichkova | 381 |
-| 154 | Elizabeth Williams | 380 |
+| 154 | **Elizabeth Williams** 🔴 | 380 |
 | 155 | Jessica Breland | 378 |
 | 156 | Armintie Herrington | 377 |
 | 157 | Anna DeForge | 374 |
@@ -1533,7 +1533,7 @@ _Last updated: 2026-05-28 00:13 UTC_
 | 76 | Kristi Toliver | 722 |
 | 77 | Allisha Gray | 714 |
 | 78 | Cheryl Ford | 713 |
-| 78 | Elizabeth Williams | 713 |
+| 78 | **Elizabeth Williams** 🔴 | 713 |
 | 80 | Jia Perkins | 711 |
 | 81 | Helen Darling | 709 |
 | 82 | Matee Ajavon | 701 |
