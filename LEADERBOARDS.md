@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-28 02:57 UTC_
+_Last updated: 2026-05-28 02:58 UTC_
 
 ## Contents
 
@@ -148,7 +148,7 @@ _Last updated: 2026-05-28 02:57 UTC_
 | 127 | Svetlana Abrosimova | 2,414 |
 | 128 | Anna DeForge | 2,413 |
 | 129 | DeMya Walker | 2,379 |
-| 130 | **Rhyne Howard** 🔴 +3 | 2,361 |
+| 130 | **Rhyne Howard** 🔴 +6 | 2,364 |
 | 131 | Alex Bentley | 2,350 |
 | 132 | Merlakia Jones | 2,308 |
 | 133 | Kia Vaughn | 2,288 |
@@ -459,7 +459,7 @@ _Last updated: 2026-05-28 02:57 UTC_
 | 28 | Vickie Johnson | 1,202 |
 | 29 | Leilani Mitchell | 1,197 |
 | 30 | DeWanna Bonner | 1,183 |
-| 31 | **Jordin Canada** 🔴 +3 | 1,158 |
+| 31 | **Jordin Canada** 🔴 +4 | 1,159 |
 | 32 | Jewell Loyd | 1,141 |
 | 33 | Renee Montgomery | 1,140 |
 | 34 | Swin Cash | 1,131 |
@@ -905,9 +905,9 @@ _Last updated: 2026-05-28 02:57 UTC_
 | 64 | Dominique Canty | 356 |
 | 64 | Renee Montgomery | 356 |
 | 66 | Tamecka Dixon | 355 |
-| 67 | **Allisha Gray** 🔴 +2 | 353 |
 | 67 | Vicky Bullett | 353 |
-| 69 | Svetlana Abrosimova | 352 |
+| 68 | **Allisha Gray** 🔴 +1 | 352 |
+| 68 | Svetlana Abrosimova | 352 |
 | 70 | Erica Wheeler | 349 |
 | 71 | Janeth Arcain | 346 |
 | 72 | Helen Darling | 343 |
@@ -1092,7 +1092,7 @@ _Last updated: 2026-05-28 02:57 UTC_
 | 44 | Rachel Banham | 376 |
 | 46 | Allison Feaster | 372 |
 | 46 | Betty Lennox | 372 |
-| 48 | **Rhyne Howard** 🔴 +1 | 371 |
+| 46 | **Rhyne Howard** 🔴 +2 | 372 |
 | 49 | Epiphanny Prince | 368 |
 | 50 | Jonquel Jones | 364 |
 | 51 | Kia Nurse | 358 |
