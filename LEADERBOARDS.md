@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-28 03:09 UTC_
+_Last updated: 2026-05-28 03:10 UTC_
 
 ## Contents
 
@@ -1608,9 +1608,9 @@ _Last updated: 2026-05-28 03:09 UTC_
 | 150 | Epiphanny Prince | 525 |
 | 152 | Armintie Herrington | 523 |
 | 153 | Sheryl Swoopes | 519 |
-| 154 | **Kayla McBride** 🔴 +2 | 517 |
 | 154 | Nikki McCray | 517 |
-| 156 | Alex Bentley | 516 |
+| 155 | Alex Bentley | 516 |
+| 155 | **Kayla McBride** 🔴 +1 | 516 |
 | 157 | Jackie Young | 514 |
 | 158 | Jantel Lavender | 513 |
 | 159 | Adrienne Goodson | 512 |
