@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-28 00:05 UTC_
+_Last updated: 2026-05-28 00:06 UTC_
 
 ## Contents
 
@@ -159,7 +159,7 @@ _Last updated: 2026-05-28 00:05 UTC_
 | 138 | Kara Braxton | 2,237 |
 | 138 | Matee Ajavon | 2,237 |
 | 140 | Dawn Staley | 2,228 |
-| 141 | **Azurá Stevens** 🔴 | 2,219 |
+| 141 | **Azurá Stevens** 🔴 +2 | 2,221 |
 | 142 | Janel McCarville | 2,215 |
 | 142 | Teaira McCowan | 2,215 |
 | 144 | Sami Whitcomb | 2,211 |
@@ -1008,7 +1008,7 @@ _Last updated: 2026-05-28 00:05 UTC_
 | 165 | Shatori Walker-Kimbrough | 204 |
 | 168 | Adrienne Goodson | 203 |
 | 168 | **Betnijah Laney-Hamilton** 🔴 | 203 |
-| 170 | **Azurá Stevens** 🔴 | 201 |
+| 170 | **Azurá Stevens** 🔴 +1 | 202 |
 | 171 | Allie Quigley | 198 |
 | 172 | Layshia Clarendon | 195 |
 | 173 | Sonja Henning | 194 |
