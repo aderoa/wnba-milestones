@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-28 00:42 UTC_
+_Last updated: 2026-05-28 00:43 UTC_
 
 ## Contents
 
@@ -88,8 +88,8 @@ _Last updated: 2026-05-28 00:42 UTC_
 | 67 | Camille Smith | 3,551 |
 | 68 | Napheesa Collier | 3,542 |
 | 68 | Shannon Johnson | 3,542 |
+| 70 | **Brittney Sykes** 🔴 +11 | 3,533 |
 | 70 | Renee Montgomery | 3,533 |
-| 71 | **Brittney Sykes** 🔴 +8 | 3,530 |
 | 72 | Jasmine Thomas | 3,522 |
 | 73 | Tamecka Dixon | 3,507 |
 | 74 | Tammy Sutton-Brown | 3,498 |
@@ -121,7 +121,7 @@ _Last updated: 2026-05-28 00:42 UTC_
 | 99 | **Natasha Cloud** 🔴 +6 | 2,894 |
 | 101 | Jennifer Gillom | 2,888 |
 | 102 | Iziane Castro Marques | 2,862 |
-| 103 | **Elizabeth Williams** 🔴 +4 | 2,860 |
+| 103 | **Elizabeth Williams** 🔴 +5 | 2,861 |
 | 104 | Alysha Clark | 2,792 |
 | 105 | Jantel Lavender | 2,775 |
 | 106 | Brionna Jones | 2,765 |
@@ -256,7 +256,7 @@ _Last updated: 2026-05-28 00:42 UTC_
 | 30 | Chamique Holdsclaw | 2,123 |
 | 31 | Chasity Melvin | 2,097 |
 | 32 | Tammy Sutton-Brown | 2,010 |
-| 33 | **Elizabeth Williams** 🔴 +1 | 1,924 |
+| 33 | **Elizabeth Williams** 🔴 +2 | 1,925 |
 | 34 | Cheryl Ford | 1,907 |
 | 35 | Plenette Pierson | 1,834 |
 | 36 | Natalie Williams | 1,832 |
@@ -1139,7 +1139,7 @@ _Last updated: 2026-05-28 00:42 UTC_
 | 91 | **Azurá Stevens** 🔴 +1 | 239 |
 | 91 | Cynthia Cooper | 239 |
 | 94 | Nneka Ogwumike | 238 |
-| 95 | **Brittney Sykes** 🔴 | 236 |
+| 95 | **Brittney Sykes** 🔴 +1 | 237 |
 | 96 | Svetlana Abrosimova | 235 |
 | 96 | Tangela Smith | 235 |
 | 98 | Odyssey Sims | 233 |
@@ -1599,7 +1599,7 @@ _Last updated: 2026-05-28 00:42 UTC_
 | 142 | Jayne Appel Marinelli | 543 |
 | 142 | Renee Montgomery | 543 |
 | 144 | Marissa Coleman | 541 |
-| 145 | **Marina Mabrey** 🔴 +1 | 534 |
+| 145 | **Marina Mabrey** 🔴 +2 | 535 |
 | 146 | A'ja Wilson | 533 |
 | 146 | Kristen Rasmussen | 533 |
 | 148 | Amanda Zahui B | 530 |
