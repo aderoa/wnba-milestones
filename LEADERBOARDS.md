@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-28 01:57 UTC_
+_Last updated: 2026-05-28 01:58 UTC_
 
 ## Contents
 
@@ -386,8 +386,8 @@ _Last updated: 2026-05-28 01:57 UTC_
 | 160 | **Marina Mabrey** 🔴 +4 | 831 |
 | 161 | Kristi Toliver | 829 |
 | 162 | Marie Ferdinand-Harris | 828 |
-| 163 | Marlies Askamp | 822 |
-| 163 | **Nia Coffey** 🔴 +3 | 822 |
+| 163 | **Nia Coffey** 🔴 +4 | 823 |
+| 164 | Marlies Askamp | 822 |
 | 165 | Amanda Zahui B | 819 |
 | 165 | Barbara Farris | 819 |
 | 167 | Carolyn Swords | 814 |
@@ -1314,8 +1314,8 @@ _Last updated: 2026-05-28 01:57 UTC_
 | 62 | Sheri Sam | 650 |
 | 63 | Dawn Staley | 643 |
 | 64 | Ruth Riley | 637 |
+| 65 | **Kayla McBride** 🔴 +1 | 631 |
 | 65 | Svetlana Abrosimova | 631 |
-| 66 | **Kayla McBride** 🔴 | 630 |
 | 67 | Kelsey Plum | 624 |
 | 68 | Odyssey Sims | 622 |
 | 69 | Jonquel Jones | 617 |
