@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-28 01:35 UTC_
+_Last updated: 2026-05-28 01:36 UTC_
 
 ## Contents
 
@@ -120,7 +120,7 @@ _Last updated: 2026-05-28 01:35 UTC_
 | 99 | **Natasha Cloud** 🔴 +9 | 2,897 |
 | 100 | Natalie Williams | 2,894 |
 | 101 | Jennifer Gillom | 2,888 |
-| 102 | **Elizabeth Williams** 🔴 +10 | 2,866 |
+| 102 | **Elizabeth Williams** 🔴 +11 | 2,867 |
 | 103 | Iziane Castro Marques | 2,862 |
 | 104 | Alysha Clark | 2,792 |
 | 105 | Jantel Lavender | 2,775 |
@@ -256,7 +256,7 @@ _Last updated: 2026-05-28 01:35 UTC_
 | 30 | Chamique Holdsclaw | 2,123 |
 | 31 | Chasity Melvin | 2,097 |
 | 32 | Tammy Sutton-Brown | 2,010 |
-| 33 | **Elizabeth Williams** 🔴 +6 | 1,929 |
+| 33 | **Elizabeth Williams** 🔴 +7 | 1,930 |
 | 34 | Cheryl Ford | 1,907 |
 | 35 | Plenette Pierson | 1,834 |
 | 36 | Natalie Williams | 1,832 |
@@ -1402,8 +1402,8 @@ _Last updated: 2026-05-28 01:35 UTC_
 | 150 | Marissa Coleman | 396 |
 | 151 | Sophia Witherspoon | 386 |
 | 152 | Hamchetou Maiga-Ba | 385 |
+| 153 | **Elizabeth Williams** 🔴 +1 | 381 |
 | 153 | Kamila Vodichkova | 381 |
-| 154 | **Elizabeth Williams** 🔴 | 380 |
 | 155 | Jessica Breland | 378 |
 | 156 | Armintie Herrington | 377 |
 | 157 | Anna DeForge | 374 |
@@ -1525,7 +1525,7 @@ _Last updated: 2026-05-28 01:35 UTC_
 | 68 | Vickie Johnson | 752 |
 | 69 | Kara Braxton | 748 |
 | 70 | Crystal Langhorne | 737 |
-| 71 | **Natasha Cloud** 🔴 +4 | 735 |
+| 71 | **Natasha Cloud** 🔴 +5 | 736 |
 | 72 | Shameka Christon | 734 |
 | 73 | Becky Hammon | 733 |
 | 74 | Latasha Byears | 730 |
