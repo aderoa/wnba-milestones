@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-28 03:00 UTC_
+_Last updated: 2026-05-28 03:01 UTC_
 
 ## Contents
 
@@ -386,7 +386,7 @@ _Last updated: 2026-05-28 03:00 UTC_
 | 160 | Marina Mabrey | 831 |
 | 161 | Kristi Toliver | 829 |
 | 162 | Marie Ferdinand-Harris | 828 |
-| 163 | **Nia Coffey** 🔴 +4 | 823 |
+| 163 | **Nia Coffey** 🔴 +5 | 824 |
 | 164 | Marlies Askamp | 822 |
 | 165 | Amanda Zahui B | 819 |
 | 165 | Barbara Farris | 819 |
@@ -1277,7 +1277,7 @@ _Last updated: 2026-05-28 03:00 UTC_
 | 25 | Alana Beard | 854 |
 | 26 | DeWanna Bonner | 831 |
 | 27 | Katie Douglas | 824 |
-| 28 | **Natasha Howard** 🔴 +2 | 806 |
+| 28 | **Natasha Howard** 🔴 +3 | 807 |
 | 29 | Betty Lennox | 800 |
 | 30 | Jasmine Thomas | 796 |
 | 31 | Nneka Ogwumike | 791 |
@@ -1474,7 +1474,7 @@ _Last updated: 2026-05-28 03:00 UTC_
 | 17 | Monique Currie | 1,137 |
 | 18 | Tanisha Wright | 1,109 |
 | 19 | Michelle Snow | 1,108 |
-| 20 | **Natasha Howard** 🔴 +2 | 1,107 |
+| 19 | **Natasha Howard** 🔴 +3 | 1,108 |
 | 21 | **Stefanie Dolson** 🔴 | 1,095 |
 | 22 | Sylvia Fowles | 1,049 |
 | 23 | Tina Charles | 1,037 |
