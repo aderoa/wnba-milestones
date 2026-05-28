@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-28 04:09 UTC_
+_Last updated: 2026-05-28 04:10 UTC_
 
 ## Contents
 
@@ -105,7 +105,7 @@ _Last updated: 2026-05-28 04:09 UTC_
 | 84 | Andrea Stinson | 3,351 |
 | 85 | Tanisha Wright | 3,324 |
 | 86 | Margo Dydek | 3,214 |
-| 87 | **Stefanie Dolson** 🔴 | 3,162 |
+| 87 | Stefanie Dolson | 3,162 |
 | 88 | Danielle Robinson | 3,160 |
 | 89 | Wendy Palmer | 3,135 |
 | 90 | Shavonte Zellous | 3,103 |
@@ -203,7 +203,7 @@ _Last updated: 2026-05-28 04:09 UTC_
 | 182 | Rachel Banham | 1,788 |
 | 183 | Kamila Vodichkova | 1,767 |
 | 184 | Tully Bevilaqua | 1,763 |
-| 185 | **Natisha Hiedeman** 🔴 +8 | 1,759 |
+| 185 | Natisha Hiedeman | 1,759 |
 | 185 | Sandy Brondello | 1,759 |
 | 187 | Sugar Rodgers | 1,733 |
 | 188 | Moriah Jefferson | 1,722 |
@@ -267,7 +267,7 @@ _Last updated: 2026-05-28 04:09 UTC_
 | 41 | Courtney Williams | 1,769 |
 | 42 | Kiah Stokes | 1,760 |
 | 43 | Asjha Jones | 1,751 |
-| 44 | **Stefanie Dolson** 🔴 +3 | 1,670 |
+| 44 | Stefanie Dolson | 1,670 |
 | 44 | Teaira McCowan | 1,670 |
 | 46 | Monique Currie | 1,666 |
 | 47 | Glory Johnson | 1,640 |
@@ -413,7 +413,7 @@ _Last updated: 2026-05-28 04:09 UTC_
 | 187 | Coco Miller | 750 |
 | 188 | Alex Montgomery | 735 |
 | 189 | Ashley Robinson | 734 |
-| 190 | **Shakira Austin** 🔴 +13 | 732 |
+| 190 | Shakira Austin | 732 |
 | 191 | Arike Ogunbowale | 731 |
 | 192 | Shenise Johnson | 729 |
 | 193 | Sami Whitcomb | 726 |
@@ -510,7 +510,7 @@ _Last updated: 2026-05-28 04:09 UTC_
 | 79 | Dearica Hamby | 697 |
 | 80 | Shavonte Zellous | 693 |
 | 81 | Allie Quigley | 690 |
-| 82 | **Stefanie Dolson** 🔴 +1 | 689 |
+| 82 | Stefanie Dolson | 689 |
 | 83 | Moriah Jefferson | 685 |
 | 84 | Emma Meesseman | 681 |
 | 85 | Nykesha Sales | 677 |
@@ -529,7 +529,7 @@ _Last updated: 2026-05-28 04:09 UTC_
 | 98 | Debbie Black | 612 |
 | 98 | Jonquel Jones | 612 |
 | 100 | Cynthia Cooper | 602 |
-| 101 | **Natisha Hiedeman** 🔴 +1 | 595 |
+| 101 | Natisha Hiedeman | 595 |
 | 102 | Sancho Lyttle | 592 |
 | 103 | Camille Smith | 590 |
 | 104 | Armintie Herrington | 589 |
@@ -664,7 +664,7 @@ _Last updated: 2026-05-28 04:09 UTC_
 | 28 | Yolanda Griffith | 323 |
 | 29 | Elena Baranova | 320 |
 | 30 | Candice Dupree | 316 |
-| 31 | **Stefanie Dolson** 🔴 | 309 |
+| 31 | Stefanie Dolson | 309 |
 | 32 | Vicky Bullett | 288 |
 | 33 | Rebekkah Brunson | 281 |
 | 34 | Liz Cambage | 264 |
@@ -750,7 +750,7 @@ _Last updated: 2026-05-28 04:09 UTC_
 | 114 | Ariel Atkins | 109 |
 | 115 | Erin Perperoglou | 108 |
 | 115 | Glory Johnson | 108 |
-| 117 | **Shakira Austin** 🔴 +1 | 107 |
+| 117 | Shakira Austin | 107 |
 | 118 | Sylvia Crawley | 106 |
 | 119 | Carolyn Swords | 104 |
 | 119 | Rebecca Lobo | 104 |
@@ -1014,7 +1014,7 @@ _Last updated: 2026-05-28 04:09 UTC_
 | 173 | Sonja Henning | 194 |
 | 173 | Tierra Ruffin-Pratt | 194 |
 | 175 | Cynthia Cooper | 192 |
-| 176 | **Natisha Hiedeman** 🔴 +1 | 188 |
+| 176 | Natisha Hiedeman | 188 |
 | 176 | Tamicha Jackson | 188 |
 | 178 | Michele Timms | 187 |
 | 179 | Alanna Smith | 186 |
@@ -1120,14 +1120,14 @@ _Last updated: 2026-05-28 04:09 UTC_
 | 73 | Seimone Augustus | 293 |
 | 74 | Candice Wiggins | 290 |
 | 74 | Tully Bevilaqua | 290 |
-| 76 | **Natisha Hiedeman** 🔴 +1 | 289 |
+| 76 | Natisha Hiedeman | 289 |
 | 77 | Alana Beard | 288 |
 | 78 | Monique Currie | 284 |
 | 79 | Kayla Thornton | 276 |
 | 80 | Iziane Castro Marques | 275 |
 | 81 | **Bridget Carleton** 🔴 +2 | 274 |
 | 82 | Sheryl Swoopes | 270 |
-| 83 | **Stefanie Dolson** 🔴 | 269 |
+| 83 | Stefanie Dolson | 269 |
 | 84 | Courtney Williams | 263 |
 | 85 | Sophia Witherspoon | 260 |
 | 86 | Dawn Staley | 254 |
@@ -1153,7 +1153,7 @@ _Last updated: 2026-05-28 04:09 UTC_
 | 105 | Erin Phillips | 211 |
 | 107 | Andrea Stinson | 207 |
 | 108 | Betnijah Laney-Hamilton | 202 |
-| 109 | **Lexie Brown** 🔴 +1 | 201 |
+| 109 | Lexie Brown | 201 |
 | 110 | Shanna Zolman | 199 |
 | 111 | Temeka Johnson | 197 |
 | 111 | Tina Charles | 197 |
@@ -1201,7 +1201,7 @@ _Last updated: 2026-05-28 04:09 UTC_
 | 154 | Jordan Hooper | 141 |
 | 155 | Coco Miller | 139 |
 | 155 | Dearica Hamby | 139 |
-| 155 | **Michaela Onyenwere** 🔴 +3 | 139 |
+| 155 | Michaela Onyenwere | 139 |
 | 158 | Loree Moore | 138 |
 | 158 | Tanisha Wright | 138 |
 | 160 | Kaleena Mosqueda-Lewis | 137 |
@@ -1327,7 +1327,7 @@ _Last updated: 2026-05-28 04:09 UTC_
 | 74 | Tamika Whitmore | 600 |
 | 76 | Kelly Miller | 596 |
 | 77 | Kahleah Copper | 592 |
-| 78 | **Stefanie Dolson** 🔴 | 581 |
+| 78 | Stefanie Dolson | 581 |
 | 79 | Helen Darling | 575 |
 | 79 | Nykesha Sales | 575 |
 | 81 | Andrea Stinson | 571 |
@@ -1475,7 +1475,7 @@ _Last updated: 2026-05-28 04:09 UTC_
 | 18 | Natasha Howard | 1,109 |
 | 18 | Tanisha Wright | 1,109 |
 | 20 | Michelle Snow | 1,108 |
-| 21 | **Stefanie Dolson** 🔴 +2 | 1,097 |
+| 21 | Stefanie Dolson | 1,097 |
 | 22 | Sylvia Fowles | 1,049 |
 | 23 | Tina Charles | 1,037 |
 | 24 | Lindsay Whalen | 998 |
