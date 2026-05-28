@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-28 01:51 UTC_
+_Last updated: 2026-05-28 01:52 UTC_
 
 ## Contents
 
@@ -116,8 +116,8 @@ _Last updated: 2026-05-28 01:51 UTC_
 | 95 | Sabrina Ionescu | 3,030 |
 | 96 | Marie Ferdinand-Harris | 3,001 |
 | 97 | Emma Meesseman | 2,966 |
-| 98 | **Marina Mabrey** 🔴 +13 | 2,954 |
-| 99 | **Natasha Cloud** 🔴 +9 | 2,897 |
+| 98 | **Marina Mabrey** 🔴 +15 | 2,956 |
+| 99 | **Natasha Cloud** 🔴 +11 | 2,899 |
 | 100 | Natalie Williams | 2,894 |
 | 101 | Jennifer Gillom | 2,888 |
 | 102 | **Elizabeth Williams** 🔴 +11 | 2,867 |
@@ -158,8 +158,8 @@ _Last updated: 2026-05-28 01:51 UTC_
 | 137 | Shekinna Stricklen | 2,245 |
 | 138 | Kara Braxton | 2,237 |
 | 138 | Matee Ajavon | 2,237 |
+| 140 | **Azurá Stevens** 🔴 +9 | 2,228 |
 | 140 | Dawn Staley | 2,228 |
-| 141 | **Azurá Stevens** 🔴 +7 | 2,226 |
 | 142 | Janel McCarville | 2,215 |
 | 142 | Teaira McCowan | 2,215 |
 | 144 | Sami Whitcomb | 2,211 |
@@ -387,7 +387,7 @@ _Last updated: 2026-05-28 01:51 UTC_
 | 161 | Kristi Toliver | 829 |
 | 162 | Marie Ferdinand-Harris | 828 |
 | 163 | Marlies Askamp | 822 |
-| 164 | **Nia Coffey** 🔴 +1 | 820 |
+| 164 | **Nia Coffey** 🔴 +2 | 821 |
 | 165 | Amanda Zahui B | 819 |
 | 165 | Barbara Farris | 819 |
 | 167 | Carolyn Swords | 814 |
@@ -437,7 +437,7 @@ _Last updated: 2026-05-28 01:51 UTC_
 | 6 | Chelsea Gray | 1,903 |
 | 7 | Alyssa Thomas | 1,863 |
 | 8 | **Skylar Diggins** 🔴 +7 | 1,792 |
-| 9 | **Natasha Cloud** 🔴 +7 | 1,754 |
+| 9 | **Natasha Cloud** 🔴 +8 | 1,755 |
 | 10 | Becky Hammon | 1,705 |
 | 11 | Candace Parker | 1,634 |
 | 12 | Cappie Pondexter | 1,575 |
@@ -654,7 +654,7 @@ _Last updated: 2026-05-28 01:51 UTC_
 | 18 | Tina Thompson | 372 |
 | 19 | Erika de Souza | 370 |
 | 20 | Jessica Breland | 367 |
-| 21 | **Natasha Howard** 🔴 +1 | 361 |
+| 21 | **Natasha Howard** 🔴 +2 | 362 |
 | 22 | Ezi Magbegor | 354 |
 | 23 | DeWanna Bonner | 349 |
 | 23 | Diana Taurasi | 349 |
