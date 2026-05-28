@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-28 00:30 UTC_
+_Last updated: 2026-05-28 00:31 UTC_
 
 ## Contents
 
@@ -73,7 +73,7 @@ _Last updated: 2026-05-28 00:30 UTC_
 | 52 | Yolanda Griffith | 4,224 |
 | 53 | **Kahleah Copper** 🔴 +16 | 4,170 |
 | 54 | Dearica Hamby | 4,158 |
-| 55 | **Jonquel Jones** 🔴 +10 | 4,142 |
+| 55 | **Jonquel Jones** 🔴 +12 | 4,144 |
 | 56 | Rebekkah Brunson | 4,133 |
 | 57 | Courtney Williams | 4,124 |
 | 58 | Asjha Jones | 3,986 |
@@ -235,8 +235,8 @@ _Last updated: 2026-05-28 00:30 UTC_
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
-| 12 | **Alyssa Thomas** 🔴 +4 | 2,774 |
-| 13 | **Jonquel Jones** 🔴 +11 | 2,610 |
+| 12 | **Alyssa Thomas** 🔴 +5 | 2,775 |
+| 13 | **Jonquel Jones** 🔴 +12 | 2,611 |
 | 14 | Sancho Lyttle | 2,596 |
 | 15 | DeLisha Milton-Jones | 2,574 |
 | 16 | Brittney Griner | 2,537 |
@@ -383,8 +383,8 @@ _Last updated: 2026-05-28 00:30 UTC_
 | 157 | Leilani Mitchell | 845 |
 | 158 | Jessica Shepard | 836 |
 | 159 | Essence Carson | 833 |
-| 160 | Kristi Toliver | 829 |
-| 160 | **Marina Mabrey** 🔴 +2 | 829 |
+| 160 | **Marina Mabrey** 🔴 +3 | 830 |
+| 161 | Kristi Toliver | 829 |
 | 162 | Marie Ferdinand-Harris | 828 |
 | 163 | Marlies Askamp | 822 |
 | 164 | Amanda Zahui B | 819 |
@@ -1003,11 +1003,11 @@ _Last updated: 2026-05-28 00:30 UTC_
 | 161 | Sophia Witherspoon | 208 |
 | 163 | **Marina Mabrey** 🔴 | 207 |
 | 164 | Shameka Christon | 205 |
+| 165 | **Betnijah Laney-Hamilton** 🔴 +1 | 204 |
 | 165 | Jessica Breland | 204 |
 | 165 | Murriel Page | 204 |
 | 165 | Shatori Walker-Kimbrough | 204 |
-| 168 | Adrienne Goodson | 203 |
-| 168 | **Betnijah Laney-Hamilton** 🔴 | 203 |
+| 169 | Adrienne Goodson | 203 |
 | 170 | **Azurá Stevens** 🔴 +1 | 202 |
 | 171 | Allie Quigley | 198 |
 | 172 | Layshia Clarendon | 195 |

@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-28 00:31 UTC
+
+- **Betnijah Laney-Hamilton** passed **Adrienne Goodson** for **#168** all-time in steals (career 204) — up from #169 entering today — _3:13 - 3rd — PHX @ NY_
+
 ## 2026-05-28 00:30 UTC
 
 - **Azurá Stevens** passed **Nneka Ogwumike** for **#94** all-time in three-pointers (career 239) — _8:54 - 2nd — TOR @ CHI_
