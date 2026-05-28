@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-28 00:36 UTC_
+_Last updated: 2026-05-28 00:37 UTC_
 
 ## Contents
 
@@ -32,7 +32,7 @@ _Last updated: 2026-05-28 00:36 UTC_
 | 11 | Katie Smith | 6,450 |
 | 12 | Sylvia Fowles | 6,413 |
 | 13 | Lisa Leslie | 6,251 |
-| 14 | **Breanna Stewart** 🔴 +6 | 6,083 |
+| 14 | **Breanna Stewart** 🔴 +8 | 6,085 |
 | 15 | Jewell Loyd | 6,059 |
 | 16 | Lauren Jackson | 6,005 |
 | 16 | Seimone Augustus | 6,005 |
@@ -42,7 +42,7 @@ _Last updated: 2026-05-28 00:36 UTC_
 | 21 | Angel McCoughtry | 5,797 |
 | 22 | DeLisha Milton-Jones | 5,571 |
 | 23 | Katie Douglas | 5,545 |
-| 24 | **Skylar Diggins** 🔴 +8 | 5,533 |
+| 24 | **Skylar Diggins** 🔴 +11 | 5,536 |
 | 25 | Lindsay Whalen | 5,511 |
 | 26 | Kayla McBride | 5,454 |
 | 27 | Swin Cash | 5,119 |
@@ -556,7 +556,7 @@ _Last updated: 2026-05-28 00:36 UTC_
 | 125 | Anna DeForge | 503 |
 | 125 | Coco Miller | 503 |
 | 127 | Veronica Burton | 501 |
-| 128 | **Rachel Banham** 🔴 | 498 |
+| 128 | **Rachel Banham** 🔴 +1 | 499 |
 | 129 | Rhyne Howard | 490 |
 | 130 | Caitlin Clark | 488 |
 | 130 | Crystal Robinson | 488 |
@@ -1077,7 +1077,7 @@ _Last updated: 2026-05-28 00:36 UTC_
 | 30 | Lauren Jackson | 436 |
 | 31 | Shameka Christon | 434 |
 | 32 | Allisha Gray | 432 |
-| 33 | **Skylar Diggins** 🔴 | 428 |
+| 33 | **Skylar Diggins** 🔴 +1 | 429 |
 | 34 | Crystal Robinson | 425 |
 | 35 | Chelsea Gray | 423 |
 | 36 | Mwadi Mabika | 415 |
@@ -1495,7 +1495,7 @@ _Last updated: 2026-05-28 00:36 UTC_
 | 38 | Briann January | 921 |
 | 39 | Ticha Penicheiro | 913 |
 | 40 | Shavonte Zellous | 907 |
-| 41 | **DeWanna Bonner** 🔴 +3 | 902 |
+| 41 | **DeWanna Bonner** 🔴 +4 | 903 |
 | 42 | Alysha Clark | 887 |
 | 43 | DeMya Walker | 882 |
 | 44 | Candice Dupree | 876 |
