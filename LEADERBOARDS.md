@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-28 01:48 UTC_
+_Last updated: 2026-05-28 01:49 UTC_
 
 ## Contents
 
@@ -60,9 +60,9 @@ _Last updated: 2026-05-28 01:48 UTC_
 | 39 | Arike Ogunbowale | 4,512 |
 | 40 | Kristi Toliver | 4,474 |
 | 41 | Chelsea Gray | 4,469 |
-| 42 | Crystal Langhorne | 4,433 |
-| 42 | Jia Perkins | 4,433 |
-| 44 | **Natasha Howard** 🔴 +2 | 4,432 |
+| 42 | **Natasha Howard** 🔴 +4 | 4,434 |
+| 43 | Crystal Langhorne | 4,433 |
+| 43 | Jia Perkins | 4,433 |
 | 45 | Courtney Vandersloot | 4,352 |
 | 46 | Kelsey Plum | 4,314 |
 | 47 | Sophia Young-Malcolm | 4,300 |
@@ -75,7 +75,7 @@ _Last updated: 2026-05-28 01:48 UTC_
 | 54 | Dearica Hamby | 4,158 |
 | 55 | Jonquel Jones | 4,149 |
 | 56 | Rebekkah Brunson | 4,133 |
-| 57 | **Courtney Williams** 🔴 +5 | 4,129 |
+| 57 | **Courtney Williams** 🔴 +7 | 4,131 |
 | 58 | Asjha Jones | 3,986 |
 | 59 | Deanna Nolan | 3,971 |
 | 60 | Nykesha Sales | 3,931 |
@@ -250,7 +250,7 @@ _Last updated: 2026-05-28 01:48 UTC_
 | 24 | Dearica Hamby | 2,346 |
 | 25 | Tangela Smith | 2,328 |
 | 26 | Erika de Souza | 2,220 |
-| 27 | **Natasha Howard** 🔴 +4 | 2,208 |
+| 27 | **Natasha Howard** 🔴 +5 | 2,209 |
 | 28 | Diana Taurasi | 2,201 |
 | 29 | Margo Dydek | 2,138 |
 | 30 | Chamique Holdsclaw | 2,123 |
@@ -436,7 +436,7 @@ _Last updated: 2026-05-28 01:48 UTC_
 | 5 | Lindsay Whalen | 2,347 |
 | 6 | Chelsea Gray | 1,903 |
 | 7 | Alyssa Thomas | 1,863 |
-| 8 | **Skylar Diggins** 🔴 +6 | 1,791 |
+| 8 | **Skylar Diggins** 🔴 +7 | 1,792 |
 | 9 | **Natasha Cloud** 🔴 +7 | 1,754 |
 | 10 | Becky Hammon | 1,705 |
 | 11 | Candace Parker | 1,634 |
@@ -504,7 +504,7 @@ _Last updated: 2026-05-28 01:48 UTC_
 | 73 | **Marina Mabrey** 🔴 +6 | 751 |
 | 74 | Sheri Sam | 745 |
 | 75 | Monique Currie | 740 |
-| 76 | **Allisha Gray** 🔴 | 734 |
+| 76 | **Allisha Gray** 🔴 +1 | 735 |
 | 77 | Elaine Powell | 728 |
 | 78 | Chamique Holdsclaw | 698 |
 | 79 | Dearica Hamby | 697 |
