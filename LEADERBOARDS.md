@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-28 02:59 UTC_
+_Last updated: 2026-05-28 03:00 UTC_
 
 ## Contents
 
@@ -67,8 +67,8 @@ _Last updated: 2026-05-28 02:59 UTC_
 | 46 | Kelsey Plum | 4,314 |
 | 47 | Sophia Young-Malcolm | 4,300 |
 | 48 | Plenette Pierson | 4,258 |
+| 49 | **Allisha Gray** 🔴 +21 | 4,253 |
 | 49 | Monique Currie | 4,253 |
-| 50 | **Allisha Gray** 🔴 +19 | 4,251 |
 | 51 | Vickie Johnson | 4,230 |
 | 52 | Yolanda Griffith | 4,224 |
 | 53 | Kahleah Copper | 4,173 |
