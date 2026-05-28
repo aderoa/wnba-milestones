@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-28 04:17 UTC_
+_Last updated: 2026-05-28 04:18 UTC_
 
 ## Contents
 
@@ -612,7 +612,7 @@ _Last updated: 2026-05-28 04:17 UTC_
 | 181 | Alanna Smith | 365 |
 | 182 | Roneeka Hodges | 362 |
 | 183 | Andrea Nagy | 361 |
-| 183 | **Bridget Carleton** 🔴 +3 | 361 |
+| 183 | Bridget Carleton | 361 |
 | 183 | Diamond DeShields | 361 |
 | 183 | Erlana Larkins | 361 |
 | 187 | Kayla Thornton | 355 |
@@ -735,7 +735,7 @@ _Last updated: 2026-05-28 04:17 UTC_
 | 99 | Chelsea Gray | 123 |
 | 100 | Alyssa Thomas | 122 |
 | 100 | Natalie Williams | 122 |
-| 100 | **Olivia Nelson-Ododa** 🔴 | 122 |
+| 100 | Olivia Nelson-Ododa | 122 |
 | 103 | Ebony Hoffman | 121 |
 | 103 | Essence Carson | 121 |
 | 105 | Krystal Thomas | 118 |
@@ -760,7 +760,7 @@ _Last updated: 2026-05-28 04:17 UTC_
 | 124 | Theresa Plaisance | 102 |
 | 125 | Deanna Nolan | 101 |
 | 125 | Dearica Hamby | 101 |
-| 125 | **Emily Engstler** 🔴 +2 | 101 |
+| 125 | Emily Engstler | 101 |
 | 128 | Chante Black | 100 |
 | 128 | Danielle Adams | 100 |
 | 128 | Kamilla Cardoso | 100 |
@@ -1125,7 +1125,7 @@ _Last updated: 2026-05-28 04:17 UTC_
 | 78 | Monique Currie | 284 |
 | 79 | Kayla Thornton | 276 |
 | 80 | Iziane Castro Marques | 275 |
-| 81 | **Bridget Carleton** 🔴 +2 | 274 |
+| 81 | Bridget Carleton | 274 |
 | 82 | Sheryl Swoopes | 270 |
 | 83 | Stefanie Dolson | 269 |
 | 84 | Courtney Williams | 263 |
@@ -1208,7 +1208,7 @@ _Last updated: 2026-05-28 04:17 UTC_
 | 161 | Shay Murphy | 134 |
 | 162 | Brooke Wyckoff | 132 |
 | 162 | Jenna O'Hea | 132 |
-| 162 | **Karlie Samuelson** 🔴 +1 | 132 |
+| 162 | Karlie Samuelson | 132 |
 | 165 | Amanda Zahui B | 130 |
 | 165 | Eva Nemcova | 130 |
 | 167 | Crystal Dangerfield | 129 |
@@ -1228,11 +1228,11 @@ _Last updated: 2026-05-28 04:17 UTC_
 | 180 | Shey Peddy | 115 |
 | 180 | Stephanie White | 115 |
 | 183 | Gordana Grubin | 114 |
-| 183 | **Rickea Jackson** 🔴 | 114 |
+| 183 | Rickea Jackson | 114 |
 | 183 | Sandy Brondello | 114 |
 | 186 | Lexie Hull | 111 |
 | 186 | Shoni Schimmel | 111 |
-| 188 | **Kennedy Burke** 🔴 | 110 |
+| 188 | Kennedy Burke | 110 |
 | 189 | Emma Meesseman | 109 |
 | 189 | Scholanda Dorrell | 109 |
 | 191 | Belinda Snell | 108 |
