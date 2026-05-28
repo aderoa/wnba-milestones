@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-28 03:15 UTC_
+_Last updated: 2026-05-28 03:16 UTC_
 
 ## Contents
 
@@ -73,8 +73,8 @@ _Last updated: 2026-05-28 03:15 UTC_
 | 52 | Yolanda Griffith | 4,224 |
 | 53 | Kahleah Copper | 4,173 |
 | 54 | Dearica Hamby | 4,158 |
+| 55 | **Courtney Williams** 🔴 +25 | 4,149 |
 | 55 | Jonquel Jones | 4,149 |
-| 56 | **Courtney Williams** 🔴 +23 | 4,147 |
 | 57 | Rebekkah Brunson | 4,133 |
 | 58 | Asjha Jones | 3,986 |
 | 59 | Deanna Nolan | 3,971 |
@@ -533,7 +533,7 @@ _Last updated: 2026-05-28 03:15 UTC_
 | 102 | Sancho Lyttle | 592 |
 | 103 | Camille Smith | 590 |
 | 104 | Armintie Herrington | 589 |
-| 105 | **Natasha Howard** 🔴 +5 | 582 |
+| 105 | **Natasha Howard** 🔴 +6 | 583 |
 | 106 | Betnijah Laney-Hamilton | 580 |
 | 107 | Tan White | 578 |
 | 108 | Matee Ajavon | 577 |
@@ -1472,9 +1472,9 @@ _Last updated: 2026-05-28 03:15 UTC_
 | 15 | Taj McWilliams-Franklin | 1,145 |
 | 16 | Nneka Ogwumike | 1,140 |
 | 17 | Monique Currie | 1,137 |
+| 18 | **Natasha Howard** 🔴 +4 | 1,109 |
 | 18 | Tanisha Wright | 1,109 |
-| 19 | Michelle Snow | 1,108 |
-| 19 | **Natasha Howard** 🔴 +3 | 1,108 |
+| 20 | Michelle Snow | 1,108 |
 | 21 | **Stefanie Dolson** 🔴 | 1,095 |
 | 22 | Sylvia Fowles | 1,049 |
 | 23 | Tina Charles | 1,037 |
