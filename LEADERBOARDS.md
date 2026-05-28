@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-28 01:32 UTC_
+_Last updated: 2026-05-28 01:33 UTC_
 
 ## Contents
 
@@ -376,8 +376,8 @@ _Last updated: 2026-05-28 01:32 UTC_
 | 150 | Temeka Johnson | 889 |
 | 151 | Mistie Bass | 888 |
 | 152 | Shameka Christon | 867 |
-| 153 | **Angel Reese** 🔴 +1 | 862 |
-| 153 | Krystal Thomas | 862 |
+| 153 | **Angel Reese** 🔴 +3 | 864 |
+| 154 | Krystal Thomas | 862 |
 | 155 | Erica Wheeler | 858 |
 | 156 | Alanna Smith | 847 |
 | 157 | Leilani Mitchell | 845 |
@@ -765,9 +765,9 @@ _Last updated: 2026-05-28 01:32 UTC_
 | 127 | **Kamilla Cardoso** 🔴 | 100 |
 | 127 | Nicole Powell | 100 |
 | 131 | Emily Engstler | 99 |
-| 132 | Mwadi Mabika | 98 |
-| 132 | Natalie Achonwa | 98 |
-| 132 | **Rhyne Howard** 🔴 | 98 |
+| 131 | **Rhyne Howard** 🔴 +1 | 99 |
+| 133 | Mwadi Mabika | 98 |
+| 133 | Natalie Achonwa | 98 |
 | 135 | Aneika Morello | 96 |
 | 135 | Tiffani Johnson | 96 |
 | 137 | Imani McGee-Stafford | 95 |
