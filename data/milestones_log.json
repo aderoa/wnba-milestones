@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-28T02:57:00+00:00",
+    "text": "Allisha Gray passed Svetlana Abrosimova for #68 all-time in steals (career 353) \u2014 up from #69 entering today \u2014 (8:41 - 4th \u2014 ATL @ MIN)",
+    "kind": "rank_pass",
+    "player": "Allisha Gray",
+    "stat": "steals",
+    "rank": 68,
+    "passed_players": [
+      "Svetlana Abrosimova"
+    ],
+    "new_total": 353
+  },
+  {
     "ts": "2026-05-28T02:40:00+00:00",
     "text": "Jordin Canada reached 500 career turnovers (now 500) \u2014 (43.9 - 3rd \u2014 ATL @ MIN)",
     "kind": "round",
@@ -3013,17 +3025,5 @@
       "Kamila Vodichkova"
     ],
     "new_total": 382
-  },
-  {
-    "ts": "2026-05-18T14:28:00+00:00",
-    "text": "Elizabeth Williams passed Cheryl Ford for #78 all-time in fouls (career 714) \u2014 up from #79 entering today \u2014 (Final \u2014 CHI @ MIN)",
-    "kind": "rank_pass",
-    "player": "Elizabeth Williams",
-    "stat": "fouls",
-    "rank": 78,
-    "passed_players": [
-      "Cheryl Ford"
-    ],
-    "new_total": 714
   }
 ]

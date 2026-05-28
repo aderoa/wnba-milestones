@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-28 02:56 UTC_
+_Last updated: 2026-05-28 02:57 UTC_
 
 ## Contents
 
@@ -68,7 +68,7 @@ _Last updated: 2026-05-28 02:56 UTC_
 | 47 | Sophia Young-Malcolm | 4,300 |
 | 48 | Plenette Pierson | 4,258 |
 | 49 | Monique Currie | 4,253 |
-| 50 | **Allisha Gray** 🔴 +17 | 4,249 |
+| 50 | **Allisha Gray** 🔴 +19 | 4,251 |
 | 51 | Vickie Johnson | 4,230 |
 | 52 | Yolanda Griffith | 4,224 |
 | 53 | Kahleah Copper | 4,173 |
@@ -504,7 +504,7 @@ _Last updated: 2026-05-28 02:56 UTC_
 | 73 | Marina Mabrey | 752 |
 | 74 | Sheri Sam | 745 |
 | 75 | Monique Currie | 740 |
-| 76 | **Allisha Gray** 🔴 +2 | 736 |
+| 76 | **Allisha Gray** 🔴 +3 | 737 |
 | 77 | Elaine Powell | 728 |
 | 78 | Chamique Holdsclaw | 698 |
 | 79 | Dearica Hamby | 697 |
@@ -905,9 +905,9 @@ _Last updated: 2026-05-28 02:56 UTC_
 | 64 | Dominique Canty | 356 |
 | 64 | Renee Montgomery | 356 |
 | 66 | Tamecka Dixon | 355 |
+| 67 | **Allisha Gray** 🔴 +2 | 353 |
 | 67 | Vicky Bullett | 353 |
-| 68 | **Allisha Gray** 🔴 +1 | 352 |
-| 68 | Svetlana Abrosimova | 352 |
+| 69 | Svetlana Abrosimova | 352 |
 | 70 | Erica Wheeler | 349 |
 | 71 | Janeth Arcain | 346 |
 | 72 | Helen Darling | 343 |
@@ -1125,7 +1125,7 @@ _Last updated: 2026-05-28 02:56 UTC_
 | 78 | Monique Currie | 284 |
 | 79 | Kayla Thornton | 276 |
 | 80 | Iziane Castro Marques | 275 |
-| 81 | **Bridget Carleton** 🔴 +1 | 273 |
+| 81 | **Bridget Carleton** 🔴 +2 | 274 |
 | 82 | Sheryl Swoopes | 270 |
 | 83 | **Stefanie Dolson** 🔴 | 269 |
 | 84 | **Courtney Williams** 🔴 +2 | 262 |
@@ -1314,8 +1314,8 @@ _Last updated: 2026-05-28 02:56 UTC_
 | 62 | Sheri Sam | 650 |
 | 63 | Dawn Staley | 643 |
 | 64 | Ruth Riley | 637 |
-| 65 | **Kayla McBride** 🔴 +1 | 631 |
-| 65 | Svetlana Abrosimova | 631 |
+| 65 | **Kayla McBride** 🔴 +2 | 632 |
+| 66 | Svetlana Abrosimova | 631 |
 | 67 | Kelsey Plum | 624 |
 | 68 | Odyssey Sims | 622 |
 | 69 | Jonquel Jones | 617 |
