@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-28 01:09 UTC_
+_Last updated: 2026-05-28 01:10 UTC_
 
 ## Contents
 
@@ -152,8 +152,8 @@ _Last updated: 2026-05-28 01:09 UTC_
 | 131 | Alex Bentley | 2,350 |
 | 132 | Merlakia Jones | 2,308 |
 | 133 | Kia Vaughn | 2,288 |
-| 134 | Kayla Thornton | 2,267 |
-| 135 | **Betnijah Laney-Hamilton** 🔴 +4 | 2,265 |
+| 134 | **Betnijah Laney-Hamilton** 🔴 +7 | 2,268 |
+| 135 | Kayla Thornton | 2,267 |
 | 136 | Allison Feaster | 2,258 |
 | 137 | Shekinna Stricklen | 2,245 |
 | 138 | Kara Braxton | 2,237 |
@@ -231,7 +231,7 @@ _Last updated: 2026-05-28 01:09 UTC_
 | 5 | Tamika Catchings | 3,313 |
 | 6 | Lisa Leslie | 3,303 |
 | 7 | Nneka Ogwumike | 3,295 |
-| 8 | **DeWanna Bonner** 🔴 +4 | 3,236 |
+| 8 | **DeWanna Bonner** 🔴 +5 | 3,237 |
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
@@ -242,7 +242,7 @@ _Last updated: 2026-05-28 01:09 UTC_
 | 16 | Brittney Griner | 2,537 |
 | 17 | A'ja Wilson | 2,522 |
 | 18 | Swin Cash | 2,521 |
-| 19 | **Breanna Stewart** 🔴 +5 | 2,515 |
+| 19 | **Breanna Stewart** 🔴 +6 | 2,516 |
 | 20 | Michelle Snow | 2,476 |
 | 21 | Crystal Langhorne | 2,454 |
 | 22 | Lauren Jackson | 2,444 |
@@ -362,7 +362,7 @@ _Last updated: 2026-05-28 01:09 UTC_
 | 136 | Danielle Robinson | 988 |
 | 137 | Shavonte Zellous | 978 |
 | 138 | Kara Lawson | 976 |
-| 139 | **Skylar Diggins** 🔴 | 973 |
+| 139 | **Skylar Diggins** 🔴 +1 | 974 |
 | 140 | Jennifer Gillom | 964 |
 | 141 | Dominique Canty | 961 |
 | 142 | Armintie Herrington | 960 |
@@ -1152,7 +1152,7 @@ _Last updated: 2026-05-28 01:09 UTC_
 | 105 | Damiris Dantas | 211 |
 | 105 | Erin Phillips | 211 |
 | 107 | Andrea Stinson | 207 |
-| 108 | **Betnijah Laney-Hamilton** 🔴 | 201 |
+| 108 | **Betnijah Laney-Hamilton** 🔴 +1 | 202 |
 | 109 | Lexie Brown | 200 |
 | 110 | Shanna Zolman | 199 |
 | 111 | Temeka Johnson | 197 |
