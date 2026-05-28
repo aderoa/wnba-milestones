@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-28 02:10 UTC_
+_Last updated: 2026-05-28 02:11 UTC_
 
 ## Contents
 
@@ -116,8 +116,8 @@ _Last updated: 2026-05-28 02:10 UTC_
 | 95 | Sabrina Ionescu | 3,030 |
 | 96 | Marie Ferdinand-Harris | 3,001 |
 | 97 | Emma Meesseman | 2,966 |
-| 98 | **Marina Mabrey** 🔴 +16 | 2,957 |
-| 99 | **Natasha Cloud** 🔴 +14 | 2,902 |
+| 98 | **Marina Mabrey** 🔴 +20 | 2,961 |
+| 99 | **Natasha Cloud** 🔴 +16 | 2,904 |
 | 100 | Natalie Williams | 2,894 |
 | 101 | Jennifer Gillom | 2,888 |
 | 102 | **Elizabeth Williams** 🔴 +11 | 2,867 |
@@ -417,8 +417,8 @@ _Last updated: 2026-05-28 02:10 UTC_
 | 191 | Shenise Johnson | 729 |
 | 192 | Sami Whitcomb | 726 |
 | 192 | Shekinna Stricklen | 726 |
-| 194 | Kelsey Plum | 721 |
-| 194 | **Shakira Austin** 🔴 +2 | 721 |
+| 194 | **Shakira Austin** 🔴 +3 | 722 |
+| 195 | Kelsey Plum | 721 |
 | 196 | Olympia Scott | 711 |
 | 197 | Katie Mattera | 708 |
 | 198 | Rushia Brown | 706 |
@@ -436,7 +436,7 @@ _Last updated: 2026-05-28 02:10 UTC_
 | 5 | Lindsay Whalen | 2,347 |
 | 6 | Chelsea Gray | 1,903 |
 | 7 | Alyssa Thomas | 1,863 |
-| 8 | **Skylar Diggins** 🔴 +8 | 1,793 |
+| 8 | **Skylar Diggins** 🔴 +9 | 1,794 |
 | 9 | **Natasha Cloud** 🔴 +8 | 1,755 |
 | 10 | Becky Hammon | 1,705 |
 | 11 | Candace Parker | 1,634 |
@@ -1000,8 +1000,8 @@ _Last updated: 2026-05-28 02:10 UTC_
 | 159 | Iziane Castro Marques | 209 |
 | 159 | Tiffany Mitchell | 209 |
 | 161 | Kia Vaughn | 208 |
+| 161 | **Marina Mabrey** 🔴 +1 | 208 |
 | 161 | Sophia Witherspoon | 208 |
-| 163 | **Marina Mabrey** 🔴 | 207 |
 | 164 | Shameka Christon | 205 |
 | 165 | Betnijah Laney-Hamilton | 204 |
 | 165 | Jessica Breland | 204 |
