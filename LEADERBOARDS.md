@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-28 05:59 UTC_
+_Last updated: 2026-05-28 06:00 UTC_
 
 ## Contents
 
@@ -44,7 +44,7 @@ _Last updated: 2026-05-28 05:59 UTC_
 | 23 | Skylar Diggins | 5,548 |
 | 24 | Katie Douglas | 5,545 |
 | 25 | Lindsay Whalen | 5,511 |
-| 26 | Kayla McBride | 5,464 |
+| 26 | Kayla McBride | 5,466 |
 | 27 | Swin Cash | 5,119 |
 | 28 | Tangela Smith | 5,035 |
 | 29 | Taj McWilliams-Franklin | 4,992 |
@@ -322,7 +322,7 @@ _Last updated: 2026-05-28 05:59 UTC_
 | 96 | Myisha Hines-Allen | 1,224 |
 | 97 | Jia Perkins | 1,220 |
 | 98 | Chelsea Gray | 1,210 |
-| 99 | Kayla McBride | 1,202 |
+| 99 | Kayla McBride | 1,203 |
 | 100 | DeMya Walker | 1,199 |
 | 101 | Latasha Byears | 1,190 |
 | 101 | Tanisha Wright | 1,190 |
@@ -474,7 +474,7 @@ _Last updated: 2026-05-28 05:59 UTC_
 | 43 | Tina Charles | 1,033 |
 | 44 | Nikki Teasley | 982 |
 | 45 | Tamecka Dixon | 960 |
-| 46 | Kayla McBride | 952 |
+| 46 | Kayla McBride | 953 |
 | 47 | Kara Lawson | 946 |
 | 48 | Breanna Stewart | 940 |
 | 49 | Deanna Nolan | 930 |
@@ -879,8 +879,8 @@ _Last updated: 2026-05-28 05:59 UTC_
 | 38 | Camille Smith | 437 |
 | 39 | Candice Dupree | 431 |
 | 40 | Epiphanny Prince | 429 |
-| 41 | Kayla McBride | 427 |
-| 41 | Tanisha Wright | 427 |
+| 41 | Kayla McBride | 428 |
+| 42 | Tanisha Wright | 427 |
 | 43 | Breanna Stewart | 416 |
 | 44 | Katie Smith | 408 |
 | 45 | Cappie Pondexter | 405 |
