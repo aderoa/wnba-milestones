@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-28 02:08 UTC_
+_Last updated: 2026-05-28 02:09 UTC_
 
 ## Contents
 
@@ -418,7 +418,7 @@ _Last updated: 2026-05-28 02:08 UTC_
 | 192 | Sami Whitcomb | 726 |
 | 192 | Shekinna Stricklen | 726 |
 | 194 | Kelsey Plum | 721 |
-| 195 | **Shakira Austin** 🔴 +1 | 720 |
+| 194 | **Shakira Austin** 🔴 +2 | 721 |
 | 196 | Olympia Scott | 711 |
 | 197 | Katie Mattera | 708 |
 | 198 | Rushia Brown | 706 |
@@ -1202,9 +1202,9 @@ _Last updated: 2026-05-28 02:08 UTC_
 | 155 | Coco Miller | 139 |
 | 155 | Dearica Hamby | 139 |
 | 157 | Loree Moore | 138 |
+| 157 | **Michaela Onyenwere** 🔴 +2 | 138 |
 | 157 | Tanisha Wright | 138 |
-| 159 | Kaleena Mosqueda-Lewis | 137 |
-| 159 | **Michaela Onyenwere** 🔴 +1 | 137 |
+| 160 | Kaleena Mosqueda-Lewis | 137 |
 | 161 | Shay Murphy | 134 |
 | 162 | Brooke Wyckoff | 132 |
 | 162 | Jenna O'Hea | 132 |
@@ -1228,7 +1228,7 @@ _Last updated: 2026-05-28 02:08 UTC_
 | 180 | Shey Peddy | 115 |
 | 180 | Stephanie White | 115 |
 | 183 | Gordana Grubin | 114 |
-| 183 | Rickea Jackson | 114 |
+| 183 | **Rickea Jackson** 🔴 | 114 |
 | 183 | Sandy Brondello | 114 |
 | 186 | Lexie Hull | 111 |
 | 186 | Shoni Schimmel | 111 |

@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-28T02:09:00+00:00",
+    "text": "Michaela Onyenwere passed Kaleena Mosqueda-Lewis for #159 all-time in three-pointers (career 138) \u2014 up from #160 entering today \u2014 (8:05 - 1st \u2014 WSH @ SEA)",
+    "kind": "rank_pass",
+    "player": "Michaela Onyenwere",
+    "stat": "three-pointers",
+    "rank": 159,
+    "passed_players": [
+      "Kaleena Mosqueda-Lewis"
+    ],
+    "new_total": 138
+  },
+  {
     "ts": "2026-05-28T01:55:00+00:00",
     "text": "Natasha Cloud passed Anna DeForge for #58 all-time in three-pointers (career 335) \u2014 up from #59 entering today \u2014 (5:06 - 4th \u2014 TOR @ CHI)",
     "kind": "rank_pass",
@@ -3017,19 +3029,5 @@
       "Jia Perkins"
     ],
     "new_total": 4447
-  },
-  {
-    "ts": "2026-05-18T14:28:00+00:00",
-    "text": "Natasha Howard passed Betnijah Laney-Hamilton, Tan White, and Matee Ajavon for #105 all-time in assists (career 584) \u2014 up from #108 entering today \u2014 (Final \u2014 CHI @ MIN)",
-    "kind": "rank_pass",
-    "player": "Natasha Howard",
-    "stat": "assists",
-    "rank": 105,
-    "passed_players": [
-      "Betnijah Laney-Hamilton",
-      "Tan White",
-      "Matee Ajavon"
-    ],
-    "new_total": 584
   }
 ]
