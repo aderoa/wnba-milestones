@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-28 00:20 UTC_
+_Last updated: 2026-05-28 00:21 UTC_
 
 ## Contents
 
@@ -32,7 +32,7 @@ _Last updated: 2026-05-28 00:20 UTC_
 | 11 | Katie Smith | 6,450 |
 | 12 | Sylvia Fowles | 6,413 |
 | 13 | Lisa Leslie | 6,251 |
-| 14 | **Breanna Stewart** 🔴 +2 | 6,079 |
+| 14 | **Breanna Stewart** 🔴 +4 | 6,081 |
 | 15 | Jewell Loyd | 6,059 |
 | 16 | Lauren Jackson | 6,005 |
 | 16 | Seimone Augustus | 6,005 |
@@ -527,7 +527,7 @@ _Last updated: 2026-05-28 00:20 UTC_
 | 96 | Sami Whitcomb | 623 |
 | 97 | Alysha Clark | 614 |
 | 98 | Debbie Black | 612 |
-| 99 | **Jonquel Jones** 🔴 | 608 |
+| 99 | **Jonquel Jones** 🔴 +1 | 609 |
 | 100 | Cynthia Cooper | 602 |
 | 101 | Natisha Hiedeman | 594 |
 | 102 | Sancho Lyttle | 592 |
@@ -911,8 +911,8 @@ _Last updated: 2026-05-28 00:20 UTC_
 | 70 | Erica Wheeler | 349 |
 | 71 | Janeth Arcain | 346 |
 | 72 | Helen Darling | 343 |
-| 73 | Andrea Stinson | 342 |
-| 73 | **Natasha Cloud** 🔴 | 342 |
+| 72 | **Natasha Cloud** 🔴 +1 | 343 |
+| 74 | Andrea Stinson | 342 |
 | 75 | Arike Ogunbowale | 340 |
 | 75 | Armintie Herrington | 340 |
 | 77 | A'ja Wilson | 339 |
