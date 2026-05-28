@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-28T02:35:00+00:00",
+    "text": "Naz Hillmon passed Charlotte Smith for #169 all-time in rebounds (career 795) \u2014 up from #171 entering today \u2014 (4:26 - 3rd \u2014 ATL @ MIN)",
+    "kind": "rank_pass",
+    "player": "Naz Hillmon",
+    "stat": "rebounds",
+    "rank": 169,
+    "passed_players": [
+      "Charlotte Smith"
+    ],
+    "new_total": 795
+  },
+  {
     "ts": "2026-05-28T02:12:00+00:00",
     "text": "Michaela Onyenwere passed Loree Moore and Tanisha Wright for #157 all-time in three-pointers (career 139) \u2014 up from #160 entering today \u2014 (6:09 - 1st \u2014 WSH @ SEA)",
     "kind": "rank_pass",
@@ -3016,18 +3028,5 @@
       "Jasmine Thomas"
     ],
     "new_total": 378
-  },
-  {
-    "ts": "2026-05-18T14:28:00+00:00",
-    "text": "Rachel Banham passed Alexis Hornbuckle and Kristen Rasmussen for #196 all-time in turnovers (career 289) \u2014 up from #198 entering today \u2014 (Final \u2014 CHI @ MIN)",
-    "kind": "rank_pass",
-    "player": "Rachel Banham",
-    "stat": "turnovers",
-    "rank": 196,
-    "passed_players": [
-      "Alexis Hornbuckle",
-      "Kristen Rasmussen"
-    ],
-    "new_total": 289
   }
 ]

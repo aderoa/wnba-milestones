@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-28 02:34 UTC_
+_Last updated: 2026-05-28 02:35 UTC_
 
 ## Contents
 
@@ -60,7 +60,7 @@ _Last updated: 2026-05-28 02:34 UTC_
 | 39 | Arike Ogunbowale | 4,512 |
 | 40 | Kristi Toliver | 4,474 |
 | 41 | Chelsea Gray | 4,469 |
-| 42 | **Natasha Howard** 🔴 +12 | 4,442 |
+| 42 | **Natasha Howard** 🔴 +14 | 4,444 |
 | 43 | Crystal Langhorne | 4,433 |
 | 43 | Jia Perkins | 4,433 |
 | 45 | Courtney Vandersloot | 4,352 |
@@ -322,7 +322,7 @@ _Last updated: 2026-05-28 02:34 UTC_
 | 96 | Myisha Hines-Allen | 1,224 |
 | 97 | Jia Perkins | 1,220 |
 | 98 | Chelsea Gray | 1,210 |
-| 99 | **Kayla McBride** 🔴 | 1,201 |
+| 99 | **Kayla McBride** 🔴 +1 | 1,202 |
 | 100 | DeMya Walker | 1,199 |
 | 101 | Latasha Byears | 1,190 |
 | 101 | Tanisha Wright | 1,190 |
@@ -392,8 +392,8 @@ _Last updated: 2026-05-28 02:34 UTC_
 | 165 | Barbara Farris | 819 |
 | 167 | Carolyn Swords | 814 |
 | 168 | Tierra Ruffin-Pratt | 799 |
-| 169 | Charlotte Smith | 794 |
-| 169 | **Naz Hillmon** 🔴 +6 | 794 |
+| 169 | **Naz Hillmon** 🔴 +7 | 795 |
+| 170 | Charlotte Smith | 794 |
 | 171 | Betnijah Laney-Hamilton | 792 |
 | 172 | Rhonda Mapp | 788 |
 | 173 | Mercedes Russell | 786 |
@@ -445,7 +445,7 @@ _Last updated: 2026-05-28 02:34 UTC_
 | 14 | Danielle Robinson | 1,480 |
 | 15 | Shannon Johnson | 1,423 |
 | 15 | Tanisha Wright | 1,423 |
-| 17 | **Courtney Williams** 🔴 +4 | 1,386 |
+| 17 | **Courtney Williams** 🔴 +5 | 1,387 |
 | 18 | Temeka Johnson | 1,382 |
 | 19 | Jasmine Thomas | 1,355 |
 | 20 | Briann January | 1,339 |
@@ -1369,7 +1369,7 @@ _Last updated: 2026-05-28 02:34 UTC_
 | 117 | Ebony Hoffman | 470 |
 | 118 | Elaine Powell | 469 |
 | 119 | Allie Quigley | 467 |
-| 120 | **Allisha Gray** 🔴 +2 | 457 |
+| 120 | **Allisha Gray** 🔴 +3 | 458 |
 | 121 | A'ja Wilson | 454 |
 | 121 | Kia Vaughn | 454 |
 | 123 | Janeth Arcain | 453 |
