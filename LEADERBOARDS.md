@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-28 00:32 UTC_
+_Last updated: 2026-05-28 00:33 UTC_
 
 ## Contents
 
@@ -73,7 +73,7 @@ _Last updated: 2026-05-28 00:32 UTC_
 | 52 | Yolanda Griffith | 4,224 |
 | 53 | **Kahleah Copper** 🔴 +16 | 4,170 |
 | 54 | Dearica Hamby | 4,158 |
-| 55 | **Jonquel Jones** 🔴 +12 | 4,144 |
+| 55 | **Jonquel Jones** 🔴 +15 | 4,147 |
 | 56 | Rebekkah Brunson | 4,133 |
 | 57 | Courtney Williams | 4,124 |
 | 58 | Asjha Jones | 3,986 |
@@ -116,7 +116,7 @@ _Last updated: 2026-05-28 00:32 UTC_
 | 95 | Sabrina Ionescu | 3,030 |
 | 96 | Marie Ferdinand-Harris | 3,001 |
 | 97 | Emma Meesseman | 2,966 |
-| 98 | **Marina Mabrey** 🔴 +5 | 2,946 |
+| 98 | **Marina Mabrey** 🔴 +8 | 2,949 |
 | 99 | Natalie Williams | 2,894 |
 | 100 | **Natasha Cloud** 🔴 +4 | 2,892 |
 | 101 | Jennifer Gillom | 2,888 |
@@ -231,7 +231,7 @@ _Last updated: 2026-05-28 00:32 UTC_
 | 5 | Tamika Catchings | 3,313 |
 | 6 | Lisa Leslie | 3,303 |
 | 7 | Nneka Ogwumike | 3,295 |
-| 8 | **DeWanna Bonner** 🔴 +3 | 3,235 |
+| 8 | **DeWanna Bonner** 🔴 +4 | 3,236 |
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
@@ -1071,7 +1071,7 @@ _Last updated: 2026-05-28 00:32 UTC_
 | 24 | Cappie Pondexter | 464 |
 | 25 | Sabrina Ionescu | 460 |
 | 26 | **Breanna Stewart** 🔴 | 456 |
-| 27 | **Marina Mabrey** 🔴 +1 | 449 |
+| 27 | **Marina Mabrey** 🔴 +2 | 450 |
 | 28 | Tiffany Hayes | 447 |
 | 29 | Ariel Atkins | 440 |
 | 30 | Lauren Jackson | 436 |
@@ -1094,7 +1094,7 @@ _Last updated: 2026-05-28 00:32 UTC_
 | 46 | Betty Lennox | 372 |
 | 48 | Rhyne Howard | 370 |
 | 49 | Epiphanny Prince | 368 |
-| 50 | **Jonquel Jones** 🔴 +2 | 363 |
+| 50 | **Jonquel Jones** 🔴 +3 | 364 |
 | 51 | **Kia Nurse** 🔴 | 358 |
 | 52 | Nykesha Sales | 352 |
 | 53 | **Kahleah Copper** 🔴 +2 | 347 |
@@ -1275,7 +1275,7 @@ _Last updated: 2026-05-28 00:32 UTC_
 | 23 | **Skylar Diggins** 🔴 | 881 |
 | 24 | Candice Dupree | 869 |
 | 25 | Alana Beard | 854 |
-| 26 | **DeWanna Bonner** 🔴 | 830 |
+| 26 | **DeWanna Bonner** 🔴 +1 | 831 |
 | 27 | Katie Douglas | 824 |
 | 28 | Natasha Howard | 804 |
 | 29 | Betty Lennox | 800 |
@@ -1495,7 +1495,7 @@ _Last updated: 2026-05-28 00:32 UTC_
 | 38 | Briann January | 921 |
 | 39 | Ticha Penicheiro | 913 |
 | 40 | Shavonte Zellous | 907 |
-| 41 | **DeWanna Bonner** 🔴 +1 | 900 |
+| 41 | **DeWanna Bonner** 🔴 +2 | 901 |
 | 42 | Alysha Clark | 887 |
 | 43 | DeMya Walker | 882 |
 | 44 | Candice Dupree | 876 |
@@ -1529,7 +1529,7 @@ _Last updated: 2026-05-28 00:32 UTC_
 | 72 | Becky Hammon | 733 |
 | 72 | **Natasha Cloud** 🔴 +2 | 733 |
 | 74 | Latasha Byears | 730 |
-| 75 | **Kahleah Copper** 🔴 +1 | 724 |
+| 75 | **Kahleah Copper** 🔴 +2 | 725 |
 | 76 | Kristi Toliver | 722 |
 | 77 | Allisha Gray | 714 |
 | 78 | Cheryl Ford | 713 |
