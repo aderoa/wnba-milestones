@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-28 00:28 UTC_
+_Last updated: 2026-05-28 00:29 UTC_
 
 ## Contents
 
@@ -116,7 +116,7 @@ _Last updated: 2026-05-28 00:28 UTC_
 | 95 | Sabrina Ionescu | 3,030 |
 | 96 | Marie Ferdinand-Harris | 3,001 |
 | 97 | Emma Meesseman | 2,966 |
-| 98 | **Marina Mabrey** 🔴 +2 | 2,943 |
+| 98 | **Marina Mabrey** 🔴 +5 | 2,946 |
 | 99 | Natalie Williams | 2,894 |
 | 100 | **Natasha Cloud** 🔴 +4 | 2,892 |
 | 101 | Jennifer Gillom | 2,888 |
@@ -164,7 +164,7 @@ _Last updated: 2026-05-28 00:28 UTC_
 | 142 | Teaira McCowan | 2,215 |
 | 144 | Sami Whitcomb | 2,211 |
 | 145 | Sophia Witherspoon | 2,210 |
-| 146 | Kia Nurse | 2,204 |
+| 146 | **Kia Nurse** 🔴 | 2,204 |
 | 147 | Ruthie Bolton | 2,175 |
 | 148 | Jordin Canada | 2,174 |
 | 149 | Ann Wauters | 2,170 |
@@ -527,7 +527,7 @@ _Last updated: 2026-05-28 00:28 UTC_
 | 96 | Sami Whitcomb | 623 |
 | 97 | Alysha Clark | 614 |
 | 98 | Debbie Black | 612 |
-| 99 | **Jonquel Jones** 🔴 +2 | 610 |
+| 99 | **Jonquel Jones** 🔴 +3 | 611 |
 | 100 | Cynthia Cooper | 602 |
 | 101 | Natisha Hiedeman | 594 |
 | 102 | Sancho Lyttle | 592 |
@@ -594,7 +594,7 @@ _Last updated: 2026-05-28 00:28 UTC_
 | 162 | Murriel Page | 410 |
 | 164 | Allison Feaster | 406 |
 | 165 | Rita Williams | 403 |
-| 166 | Kia Nurse | 400 |
+| 166 | **Kia Nurse** 🔴 | 400 |
 | 167 | Marissa Coleman | 399 |
 | 168 | Julie Allemand | 395 |
 | 168 | Stacey Dales | 395 |
@@ -1071,7 +1071,7 @@ _Last updated: 2026-05-28 00:28 UTC_
 | 24 | Cappie Pondexter | 464 |
 | 25 | Sabrina Ionescu | 460 |
 | 26 | **Breanna Stewart** 🔴 | 456 |
-| 27 | **Marina Mabrey** 🔴 | 448 |
+| 27 | **Marina Mabrey** 🔴 +1 | 449 |
 | 28 | Tiffany Hayes | 447 |
 | 29 | Ariel Atkins | 440 |
 | 30 | Lauren Jackson | 436 |
@@ -1095,7 +1095,7 @@ _Last updated: 2026-05-28 00:28 UTC_
 | 48 | Rhyne Howard | 370 |
 | 49 | Epiphanny Prince | 368 |
 | 50 | **Jonquel Jones** 🔴 +2 | 363 |
-| 51 | Kia Nurse | 358 |
+| 51 | **Kia Nurse** 🔴 | 358 |
 | 52 | Nykesha Sales | 352 |
 | 53 | **Kahleah Copper** 🔴 +2 | 347 |
 | 54 | Cathrine Kraayeveld | 343 |
@@ -1431,7 +1431,7 @@ _Last updated: 2026-05-28 00:28 UTC_
 | 179 | Olympia Scott | 324 |
 | 180 | Satou Sabally | 323 |
 | 181 | Barbara Farris | 315 |
-| 181 | Kia Nurse | 315 |
+| 181 | **Kia Nurse** 🔴 | 315 |
 | 183 | Moriah Jefferson | 314 |
 | 184 | Alex Bentley | 313 |
 | 184 | Gabby Williams | 313 |
@@ -1527,7 +1527,7 @@ _Last updated: 2026-05-28 00:28 UTC_
 | 70 | Crystal Langhorne | 737 |
 | 71 | Shameka Christon | 734 |
 | 72 | Becky Hammon | 733 |
-| 73 | **Natasha Cloud** 🔴 +1 | 732 |
+| 72 | **Natasha Cloud** 🔴 +2 | 733 |
 | 74 | Latasha Byears | 730 |
 | 75 | **Kahleah Copper** 🔴 | 723 |
 | 76 | Kristi Toliver | 722 |
@@ -1643,7 +1643,7 @@ _Last updated: 2026-05-28 00:28 UTC_
 | 185 | Sami Whitcomb | 480 |
 | 187 | Seimone Augustus | 477 |
 | 188 | Allie Quigley | 475 |
-| 189 | Kia Nurse | 467 |
+| 189 | **Kia Nurse** 🔴 | 467 |
 | 190 | Nia Coffey | 465 |
 | 191 | **Azurá Stevens** 🔴 +1 | 464 |
 | 192 | Christi Thomas | 463 |
