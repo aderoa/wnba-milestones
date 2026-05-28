@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-28 01:26 UTC_
+_Last updated: 2026-05-28 01:27 UTC_
 
 ## Contents
 
@@ -120,7 +120,7 @@ _Last updated: 2026-05-28 01:26 UTC_
 | 99 | **Natasha Cloud** 🔴 +9 | 2,897 |
 | 100 | Natalie Williams | 2,894 |
 | 101 | Jennifer Gillom | 2,888 |
-| 102 | **Elizabeth Williams** 🔴 +8 | 2,864 |
+| 102 | **Elizabeth Williams** 🔴 +10 | 2,866 |
 | 103 | Iziane Castro Marques | 2,862 |
 | 104 | Alysha Clark | 2,792 |
 | 105 | Jantel Lavender | 2,775 |
@@ -332,14 +332,14 @@ _Last updated: 2026-05-28 01:26 UTC_
 | 106 | Shannon Johnson | 1,143 |
 | 107 | Adrian Williams-Strong | 1,131 |
 | 108 | Andrea Stinson | 1,127 |
+| 108 | **Brittney Sykes** 🔴 +6 | 1,127 |
 | 108 | Tamika Raymond | 1,127 |
-| 110 | Adrienne Goodson | 1,126 |
-| 110 | **Brittney Sykes** 🔴 +5 | 1,126 |
+| 111 | Adrienne Goodson | 1,126 |
 | 112 | Deanna Nolan | 1,112 |
 | 113 | Chiney Ogwumike | 1,110 |
 | 114 | Becky Hammon | 1,108 |
 | 115 | Ann Wauters | 1,105 |
-| 116 | **Natasha Cloud** 🔴 +3 | 1,096 |
+| 116 | **Natasha Cloud** 🔴 +4 | 1,097 |
 | 117 | NaLyssa Smith | 1,081 |
 | 118 | Svetlana Abrosimova | 1,078 |
 | 119 | Aliyah Boston | 1,066 |
@@ -437,7 +437,7 @@ _Last updated: 2026-05-28 01:26 UTC_
 | 6 | Chelsea Gray | 1,903 |
 | 7 | Alyssa Thomas | 1,863 |
 | 8 | **Skylar Diggins** 🔴 +5 | 1,790 |
-| 9 | **Natasha Cloud** 🔴 +6 | 1,753 |
+| 9 | **Natasha Cloud** 🔴 +7 | 1,754 |
 | 10 | Becky Hammon | 1,705 |
 | 11 | Candace Parker | 1,634 |
 | 12 | Cappie Pondexter | 1,575 |
@@ -495,7 +495,7 @@ _Last updated: 2026-05-28 01:26 UTC_
 | 64 | Lisa Leslie | 873 |
 | 65 | Tully Bevilaqua | 853 |
 | 66 | Jia Perkins | 837 |
-| 67 | **Brittney Sykes** 🔴 +1 | 833 |
+| 67 | **Brittney Sykes** 🔴 +2 | 834 |
 | 68 | Andrea Stinson | 810 |
 | 69 | Kelsey Mitchell | 805 |
 | 70 | Tina Thompson | 803 |
@@ -677,7 +677,7 @@ _Last updated: 2026-05-28 01:26 UTC_
 | 41 | Brianna Turner | 231 |
 | 42 | **Azurá Stevens** 🔴 | 230 |
 | 43 | Chasity Melvin | 228 |
-| 44 | **Skylar Diggins** 🔴 | 225 |
+| 44 | **Skylar Diggins** 🔴 +1 | 226 |
 | 45 | Alanna Smith | 222 |
 | 46 | Sancho Lyttle | 221 |
 | 47 | Alana Beard | 220 |
