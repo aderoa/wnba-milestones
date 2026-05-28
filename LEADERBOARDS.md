@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-28 03:11 UTC_
+_Last updated: 2026-05-28 03:12 UTC_
 
 ## Contents
 
@@ -74,7 +74,7 @@ _Last updated: 2026-05-28 03:11 UTC_
 | 53 | Kahleah Copper | 4,173 |
 | 54 | Dearica Hamby | 4,158 |
 | 55 | Jonquel Jones | 4,149 |
-| 56 | **Courtney Williams** 🔴 +18 | 4,142 |
+| 56 | **Courtney Williams** 🔴 +23 | 4,147 |
 | 57 | Rebekkah Brunson | 4,133 |
 | 58 | Asjha Jones | 3,986 |
 | 59 | Deanna Nolan | 3,971 |
@@ -148,7 +148,7 @@ _Last updated: 2026-05-28 03:11 UTC_
 | 127 | Svetlana Abrosimova | 2,414 |
 | 128 | Anna DeForge | 2,413 |
 | 129 | DeMya Walker | 2,379 |
-| 130 | **Rhyne Howard** 🔴 +8 | 2,366 |
+| 130 | **Rhyne Howard** 🔴 +10 | 2,368 |
 | 131 | Alex Bentley | 2,350 |
 | 132 | Merlakia Jones | 2,308 |
 | 133 | Kia Vaughn | 2,288 |
@@ -879,8 +879,8 @@ _Last updated: 2026-05-28 03:11 UTC_
 | 38 | Camille Smith | 437 |
 | 39 | Candice Dupree | 431 |
 | 40 | Epiphanny Prince | 429 |
-| 41 | **Kayla McBride** 🔴 +2 | 427 |
-| 41 | Tanisha Wright | 427 |
+| 41 | **Kayla McBride** 🔴 +3 | 428 |
+| 42 | Tanisha Wright | 427 |
 | 43 | Breanna Stewart | 416 |
 | 44 | Katie Smith | 408 |
 | 45 | Cappie Pondexter | 405 |
@@ -1128,7 +1128,7 @@ _Last updated: 2026-05-28 03:11 UTC_
 | 81 | **Bridget Carleton** 🔴 +2 | 274 |
 | 82 | Sheryl Swoopes | 270 |
 | 83 | **Stefanie Dolson** 🔴 | 269 |
-| 84 | **Courtney Williams** 🔴 +2 | 262 |
+| 84 | **Courtney Williams** 🔴 +3 | 263 |
 | 85 | Sophia Witherspoon | 260 |
 | 86 | Dawn Staley | 254 |
 | 87 | Bria Hartley | 253 |
