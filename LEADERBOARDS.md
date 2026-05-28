@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-28 01:59 UTC_
+_Last updated: 2026-05-28 02:00 UTC_
 
 ## Contents
 
@@ -88,7 +88,7 @@ _Last updated: 2026-05-28 01:59 UTC_
 | 67 | Camille Smith | 3,551 |
 | 68 | Napheesa Collier | 3,542 |
 | 68 | Shannon Johnson | 3,542 |
-| 70 | **Brittney Sykes** 🔴 +17 | 3,539 |
+| 70 | **Brittney Sykes** 🔴 +19 | 3,541 |
 | 71 | Renee Montgomery | 3,533 |
 | 72 | Jasmine Thomas | 3,522 |
 | 73 | Tamecka Dixon | 3,507 |
@@ -339,7 +339,7 @@ _Last updated: 2026-05-28 01:59 UTC_
 | 113 | Chiney Ogwumike | 1,110 |
 | 114 | Becky Hammon | 1,108 |
 | 115 | Ann Wauters | 1,105 |
-| 116 | **Natasha Cloud** 🔴 +4 | 1,097 |
+| 116 | **Natasha Cloud** 🔴 +5 | 1,098 |
 | 117 | NaLyssa Smith | 1,081 |
 | 118 | Svetlana Abrosimova | 1,078 |
 | 119 | Aliyah Boston | 1,066 |
@@ -501,7 +501,7 @@ _Last updated: 2026-05-28 01:59 UTC_
 | 70 | Tina Thompson | 803 |
 | 71 | Epiphanny Prince | 800 |
 | 72 | Mwadi Mabika | 774 |
-| 73 | **Marina Mabrey** 🔴 +6 | 751 |
+| 73 | **Marina Mabrey** 🔴 +7 | 752 |
 | 74 | Sheri Sam | 745 |
 | 75 | Monique Currie | 740 |
 | 76 | **Allisha Gray** 🔴 +1 | 735 |
