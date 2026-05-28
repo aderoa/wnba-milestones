@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-28 02:39 UTC_
+_Last updated: 2026-05-28 02:40 UTC_
 
 ## Contents
 
@@ -375,8 +375,8 @@ _Last updated: 2026-05-28 02:39 UTC_
 | 149 | Natalie Achonwa | 895 |
 | 150 | Temeka Johnson | 889 |
 | 151 | Mistie Bass | 888 |
+| 152 | **Angel Reese** 🔴 +6 | 867 |
 | 152 | Shameka Christon | 867 |
-| 153 | **Angel Reese** 🔴 +5 | 866 |
 | 154 | Krystal Thomas | 862 |
 | 155 | Erica Wheeler | 858 |
 | 156 | Alanna Smith | 847 |
@@ -873,9 +873,9 @@ _Last updated: 2026-05-28 02:39 UTC_
 | 32 | Maya Moore | 449 |
 | 32 | Skylar Diggins | 449 |
 | 34 | Jewell Loyd | 445 |
-| 35 | Chelsea Gray | 439 |
-| 36 | **Natasha Howard** 🔴 | 438 |
-| 36 | Sheri Sam | 438 |
+| 35 | **Natasha Howard** 🔴 +2 | 440 |
+| 36 | Chelsea Gray | 439 |
+| 37 | Sheri Sam | 438 |
 | 38 | Camille Smith | 437 |
 | 39 | Candice Dupree | 431 |
 | 40 | Epiphanny Prince | 429 |
@@ -1358,7 +1358,7 @@ _Last updated: 2026-05-28 02:39 UTC_
 | 106 | Jia Perkins | 513 |
 | 107 | Arike Ogunbowale | 509 |
 | 108 | Tamera Young | 501 |
-| 109 | **Jordin Canada** 🔴 +3 | 499 |
+| 109 | **Jordin Canada** 🔴 +4 | 500 |
 | 110 | Marina Mabrey | 496 |
 | 111 | Nikki Teasley | 493 |
 | 111 | Tari Phillips | 493 |

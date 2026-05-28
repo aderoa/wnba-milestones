@@ -1,5 +1,14 @@
 [
   {
+    "ts": "2026-05-28T02:40:00+00:00",
+    "text": "Jordin Canada reached 500 career turnovers (now 500) \u2014 (43.9 - 3rd \u2014 ATL @ MIN)",
+    "kind": "round",
+    "player": "Jordin Canada",
+    "stat": "turnovers",
+    "value": 500,
+    "new_total": 500
+  },
+  {
     "ts": "2026-05-28T02:38:00+00:00",
     "text": "Allisha Gray passed Lauren Jackson for #30 all-time in three-pointers (career 437) \u2014 up from #32 entering today \u2014 (2:14 - 3rd \u2014 ATL @ MIN)",
     "kind": "rank_pass",
@@ -3016,14 +3025,5 @@
       "Cheryl Ford"
     ],
     "new_total": 714
-  },
-  {
-    "ts": "2026-05-18T14:28:00+00:00",
-    "text": "Rachel Banham reached 1,800 career points (now 1,801) \u2014 (Final \u2014 CHI @ MIN)",
-    "kind": "round",
-    "player": "Rachel Banham",
-    "stat": "points",
-    "value": 1800,
-    "new_total": 1801
   }
 ]
