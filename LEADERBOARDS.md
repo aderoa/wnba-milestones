@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-28 01:44 UTC_
+_Last updated: 2026-05-28 01:45 UTC_
 
 ## Contents
 
@@ -1402,8 +1402,8 @@ _Last updated: 2026-05-28 01:44 UTC_
 | 150 | Marissa Coleman | 396 |
 | 151 | Sophia Witherspoon | 386 |
 | 152 | Hamchetou Maiga-Ba | 385 |
-| 153 | **Elizabeth Williams** 🔴 +1 | 381 |
-| 153 | Kamila Vodichkova | 381 |
+| 153 | **Elizabeth Williams** 🔴 +2 | 382 |
+| 154 | Kamila Vodichkova | 381 |
 | 155 | Jessica Breland | 378 |
 | 156 | Armintie Herrington | 377 |
 | 157 | Anna DeForge | 374 |
