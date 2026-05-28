@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-28T02:38:00+00:00",
+    "text": "Allisha Gray passed Lauren Jackson for #30 all-time in three-pointers (career 437) \u2014 up from #32 entering today \u2014 (2:14 - 3rd \u2014 ATL @ MIN)",
+    "kind": "rank_pass",
+    "player": "Allisha Gray",
+    "stat": "three-pointers",
+    "rank": 30,
+    "passed_players": [
+      "Lauren Jackson"
+    ],
+    "new_total": 437
+  },
+  {
     "ts": "2026-05-28T02:37:00+00:00",
     "text": "Nia Coffey reached 1,300 career points (now 1,300) \u2014 (3:10 - 3rd \u2014 ATL @ MIN)",
     "kind": "round",
@@ -3012,18 +3024,6 @@
     "player": "Rachel Banham",
     "stat": "points",
     "value": 1800,
-    "new_total": 1801
-  },
-  {
-    "ts": "2026-05-18T14:28:00+00:00",
-    "text": "Rachel Banham passed Charde Houston for #181 all-time in points (career 1,801) \u2014 up from #182 entering today \u2014 (Final \u2014 CHI @ MIN)",
-    "kind": "rank_pass",
-    "player": "Rachel Banham",
-    "stat": "points",
-    "rank": 181,
-    "passed_players": [
-      "Charde Houston"
-    ],
     "new_total": 1801
   }
 ]

@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-28 02:38 UTC
+
+- **Allisha Gray** passed **Lauren Jackson** for **#30** all-time in three-pointers (career 437) — up from #32 entering today — _2:14 - 3rd — ATL @ MIN_
+
 ## 2026-05-28 02:37 UTC
 
 - **Nia Coffey** reached **1,300** career points (now 1,300) — _3:10 - 3rd — ATL @ MIN_
