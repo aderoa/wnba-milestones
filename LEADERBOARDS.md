@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-28 00:15 UTC_
+_Last updated: 2026-05-28 00:16 UTC_
 
 ## Contents
 
@@ -116,12 +116,12 @@ _Last updated: 2026-05-28 00:15 UTC_
 | 95 | Sabrina Ionescu | 3,030 |
 | 96 | Marie Ferdinand-Harris | 3,001 |
 | 97 | Emma Meesseman | 2,966 |
-| 98 | **Marina Mabrey** 🔴 | 2,941 |
+| 98 | **Marina Mabrey** 🔴 +2 | 2,943 |
 | 99 | Natalie Williams | 2,894 |
 | 100 | **Natasha Cloud** 🔴 +2 | 2,890 |
 | 101 | Jennifer Gillom | 2,888 |
 | 102 | Iziane Castro Marques | 2,862 |
-| 103 | **Elizabeth Williams** 🔴 | 2,856 |
+| 103 | **Elizabeth Williams** 🔴 +4 | 2,860 |
 | 104 | Alysha Clark | 2,792 |
 | 105 | Jantel Lavender | 2,775 |
 | 106 | Brionna Jones | 2,765 |
@@ -436,7 +436,7 @@ _Last updated: 2026-05-28 00:15 UTC_
 | 5 | Lindsay Whalen | 2,347 |
 | 6 | Chelsea Gray | 1,903 |
 | 7 | **Alyssa Thomas** 🔴 +4 | 1,858 |
-| 8 | **Skylar Diggins** 🔴 +2 | 1,787 |
+| 8 | **Skylar Diggins** 🔴 +4 | 1,789 |
 | 9 | **Natasha Cloud** 🔴 +1 | 1,748 |
 | 10 | Becky Hammon | 1,705 |
 | 11 | Candace Parker | 1,634 |
