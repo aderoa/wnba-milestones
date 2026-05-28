@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-28 01:33 UTC_
+_Last updated: 2026-05-28 01:34 UTC_
 
 ## Contents
 
@@ -148,7 +148,7 @@ _Last updated: 2026-05-28 01:33 UTC_
 | 127 | Svetlana Abrosimova | 2,414 |
 | 128 | Anna DeForge | 2,413 |
 | 129 | DeMya Walker | 2,379 |
-| 130 | **Rhyne Howard** 🔴 | 2,358 |
+| 130 | **Rhyne Howard** 🔴 +3 | 2,361 |
 | 131 | Alex Bentley | 2,350 |
 | 132 | Merlakia Jones | 2,308 |
 | 133 | Kia Vaughn | 2,288 |
@@ -906,8 +906,8 @@ _Last updated: 2026-05-28 01:33 UTC_
 | 64 | Renee Montgomery | 356 |
 | 66 | Tamecka Dixon | 355 |
 | 67 | Vicky Bullett | 353 |
+| 68 | **Allisha Gray** 🔴 +1 | 352 |
 | 68 | Svetlana Abrosimova | 352 |
-| 69 | **Allisha Gray** 🔴 | 351 |
 | 70 | Erica Wheeler | 349 |
 | 71 | Janeth Arcain | 346 |
 | 72 | Helen Darling | 343 |
@@ -993,8 +993,8 @@ _Last updated: 2026-05-28 01:33 UTC_
 | 151 | Candice Wiggins | 215 |
 | 151 | Cheyenne Parker-Tyus | 215 |
 | 151 | Elena Baranova | 215 |
-| 155 | Kahleah Copper | 214 |
-| 155 | **Rhyne Howard** 🔴 | 214 |
+| 151 | **Rhyne Howard** 🔴 +1 | 215 |
+| 156 | Kahleah Copper | 214 |
 | 157 | Shekinna Stricklen | 213 |
 | 158 | Nikki Teasley | 211 |
 | 159 | Iziane Castro Marques | 209 |
@@ -1092,7 +1092,7 @@ _Last updated: 2026-05-28 01:33 UTC_
 | 44 | **Rachel Banham** 🔴 | 376 |
 | 46 | Allison Feaster | 372 |
 | 46 | Betty Lennox | 372 |
-| 48 | **Rhyne Howard** 🔴 | 370 |
+| 48 | **Rhyne Howard** 🔴 +1 | 371 |
 | 49 | Epiphanny Prince | 368 |
 | 50 | Jonquel Jones | 364 |
 | 51 | **Kia Nurse** 🔴 | 358 |
@@ -1310,8 +1310,8 @@ _Last updated: 2026-05-28 01:33 UTC_
 | 58 | Chasity Melvin | 666 |
 | 59 | Vickie Johnson | 660 |
 | 60 | Yolanda Griffith | 653 |
-| 61 | Sheri Sam | 650 |
-| 62 | **Courtney Williams** 🔴 | 649 |
+| 61 | **Courtney Williams** 🔴 +2 | 651 |
+| 62 | Sheri Sam | 650 |
 | 63 | Dawn Staley | 643 |
 | 64 | Ruth Riley | 637 |
 | 65 | Svetlana Abrosimova | 631 |
@@ -1369,7 +1369,7 @@ _Last updated: 2026-05-28 01:33 UTC_
 | 117 | Ebony Hoffman | 470 |
 | 118 | Elaine Powell | 469 |
 | 119 | Allie Quigley | 467 |
-| 120 | **Allisha Gray** 🔴 +1 | 456 |
+| 120 | **Allisha Gray** 🔴 +2 | 457 |
 | 121 | A'ja Wilson | 454 |
 | 121 | Kia Vaughn | 454 |
 | 123 | Janeth Arcain | 453 |
