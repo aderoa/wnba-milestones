@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-28 00:52 UTC_
+_Last updated: 2026-05-28 00:53 UTC_
 
 ## Contents
 
@@ -117,8 +117,8 @@ _Last updated: 2026-05-28 00:52 UTC_
 | 96 | Marie Ferdinand-Harris | 3,001 |
 | 97 | Emma Meesseman | 2,966 |
 | 98 | **Marina Mabrey** 🔴 +10 | 2,951 |
-| 99 | Natalie Williams | 2,894 |
-| 99 | **Natasha Cloud** 🔴 +6 | 2,894 |
+| 99 | **Natasha Cloud** 🔴 +9 | 2,897 |
+| 100 | Natalie Williams | 2,894 |
 | 101 | Jennifer Gillom | 2,888 |
 | 102 | **Elizabeth Williams** 🔴 +8 | 2,864 |
 | 103 | Iziane Castro Marques | 2,862 |
@@ -436,7 +436,7 @@ _Last updated: 2026-05-28 00:52 UTC_
 | 5 | Lindsay Whalen | 2,347 |
 | 6 | Chelsea Gray | 1,903 |
 | 7 | **Alyssa Thomas** 🔴 +7 | 1,861 |
-| 8 | **Skylar Diggins** 🔴 +4 | 1,789 |
+| 8 | **Skylar Diggins** 🔴 +5 | 1,790 |
 | 9 | **Natasha Cloud** 🔴 +6 | 1,753 |
 | 10 | Becky Hammon | 1,705 |
 | 11 | Candace Parker | 1,634 |
@@ -1103,7 +1103,7 @@ _Last updated: 2026-05-28 00:52 UTC_
 | 56 | Candace Parker | 342 |
 | 57 | Deanna Nolan | 340 |
 | 58 | Anna DeForge | 334 |
-| 59 | **Natasha Cloud** 🔴 | 333 |
+| 58 | **Natasha Cloud** 🔴 +1 | 334 |
 | 60 | Erica Wheeler | 322 |
 | 61 | Sugar Rodgers | 317 |
 | 62 | Jackie Young | 315 |
