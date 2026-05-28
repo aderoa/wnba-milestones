@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-28 00:09 UTC_
+_Last updated: 2026-05-28 00:10 UTC_
 
 ## Contents
 
@@ -42,7 +42,7 @@ _Last updated: 2026-05-28 00:09 UTC_
 | 21 | Angel McCoughtry | 5,797 |
 | 22 | DeLisha Milton-Jones | 5,571 |
 | 23 | Katie Douglas | 5,545 |
-| 24 | **Skylar Diggins** 🔴 +2 | 5,527 |
+| 24 | **Skylar Diggins** 🔴 +4 | 5,529 |
 | 25 | Lindsay Whalen | 5,511 |
 | 26 | Kayla McBride | 5,454 |
 | 27 | Swin Cash | 5,119 |
@@ -334,12 +334,12 @@ _Last updated: 2026-05-28 00:09 UTC_
 | 108 | Andrea Stinson | 1,127 |
 | 108 | Tamika Raymond | 1,127 |
 | 110 | Adrienne Goodson | 1,126 |
-| 111 | **Brittney Sykes** 🔴 | 1,121 |
+| 111 | **Brittney Sykes** 🔴 +1 | 1,122 |
 | 112 | Deanna Nolan | 1,112 |
 | 113 | Chiney Ogwumike | 1,110 |
 | 114 | Becky Hammon | 1,108 |
 | 115 | Ann Wauters | 1,105 |
-| 116 | **Natasha Cloud** 🔴 | 1,093 |
+| 116 | **Natasha Cloud** 🔴 +1 | 1,094 |
 | 117 | NaLyssa Smith | 1,081 |
 | 118 | Svetlana Abrosimova | 1,078 |
 | 119 | Aliyah Boston | 1,066 |
@@ -437,7 +437,7 @@ _Last updated: 2026-05-28 00:09 UTC_
 | 6 | Chelsea Gray | 1,903 |
 | 7 | **Alyssa Thomas** 🔴 +4 | 1,858 |
 | 8 | **Skylar Diggins** 🔴 +1 | 1,786 |
-| 9 | **Natasha Cloud** 🔴 | 1,747 |
+| 9 | **Natasha Cloud** 🔴 +1 | 1,748 |
 | 10 | Becky Hammon | 1,705 |
 | 11 | Candace Parker | 1,634 |
 | 12 | Cappie Pondexter | 1,575 |
@@ -1302,7 +1302,7 @@ _Last updated: 2026-05-28 00:09 UTC_
 | 50 | Asjha Jones | 682 |
 | 51 | Danielle Robinson | 680 |
 | 52 | Sheryl Swoopes | 677 |
-| 53 | **Natasha Cloud** 🔴 +1 | 674 |
+| 53 | **Natasha Cloud** 🔴 | 673 |
 | 54 | Tammy Sutton-Brown | 672 |
 | 55 | Erica Wheeler | 671 |
 | 56 | Deanna Nolan | 669 |
@@ -1645,9 +1645,9 @@ _Last updated: 2026-05-28 00:09 UTC_
 | 188 | Allie Quigley | 475 |
 | 189 | Kia Nurse | 467 |
 | 190 | Nia Coffey | 465 |
-| 191 | **Azurá Stevens** 🔴 | 463 |
-| 191 | Christi Thomas | 463 |
-| 191 | Nikki Teasley | 463 |
+| 191 | **Azurá Stevens** 🔴 +1 | 464 |
+| 192 | Christi Thomas | 463 |
+| 192 | Nikki Teasley | 463 |
 | 194 | Sue Wicks | 462 |
 | 195 | Natalie Achonwa | 459 |
 | 196 | Kara Lawson | 457 |
