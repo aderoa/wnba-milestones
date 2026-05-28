@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-28 02:40 UTC_
+_Last updated: 2026-05-28 02:41 UTC_
 
 ## Contents
 
@@ -165,7 +165,7 @@ _Last updated: 2026-05-28 02:40 UTC_
 | 144 | Sami Whitcomb | 2,211 |
 | 145 | Sophia Witherspoon | 2,210 |
 | 146 | Kia Nurse | 2,204 |
-| 147 | **Jordin Canada** 🔴 +5 | 2,179 |
+| 147 | **Jordin Canada** 🔴 +7 | 2,181 |
 | 148 | Ruthie Bolton | 2,175 |
 | 149 | Ann Wauters | 2,170 |
 | 150 | Layshia Clarendon | 2,168 |
@@ -417,7 +417,7 @@ _Last updated: 2026-05-28 02:40 UTC_
 | 191 | Shenise Johnson | 729 |
 | 192 | Sami Whitcomb | 726 |
 | 192 | Shekinna Stricklen | 726 |
-| 194 | **Shakira Austin** 🔴 +4 | 723 |
+| 194 | **Shakira Austin** 🔴 +5 | 724 |
 | 195 | Kelsey Plum | 721 |
 | 196 | Olympia Scott | 711 |
 | 197 | Katie Mattera | 708 |
@@ -445,7 +445,7 @@ _Last updated: 2026-05-28 02:40 UTC_
 | 14 | Danielle Robinson | 1,480 |
 | 15 | Shannon Johnson | 1,423 |
 | 15 | Tanisha Wright | 1,423 |
-| 17 | **Courtney Williams** 🔴 +5 | 1,387 |
+| 17 | **Courtney Williams** 🔴 +6 | 1,388 |
 | 18 | Temeka Johnson | 1,382 |
 | 19 | Jasmine Thomas | 1,355 |
 | 20 | Briann January | 1,339 |
@@ -1474,7 +1474,7 @@ _Last updated: 2026-05-28 02:40 UTC_
 | 17 | Monique Currie | 1,137 |
 | 18 | Tanisha Wright | 1,109 |
 | 19 | Michelle Snow | 1,108 |
-| 20 | **Natasha Howard** 🔴 +1 | 1,106 |
+| 20 | **Natasha Howard** 🔴 +2 | 1,107 |
 | 21 | **Stefanie Dolson** 🔴 | 1,095 |
 | 22 | Sylvia Fowles | 1,049 |
 | 23 | Tina Charles | 1,037 |
