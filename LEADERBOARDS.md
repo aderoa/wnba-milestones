@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-28 02:12 UTC_
+_Last updated: 2026-05-28 02:13 UTC_
 
 ## Contents
 
@@ -41,7 +41,7 @@ _Last updated: 2026-05-28 02:12 UTC_
 | 20 | Becky Hammon | 5,816 |
 | 21 | Angel McCoughtry | 5,797 |
 | 22 | DeLisha Milton-Jones | 5,571 |
-| 23 | **Skylar Diggins** 🔴 +22 | 5,547 |
+| 23 | **Skylar Diggins** 🔴 +23 | 5,548 |
 | 24 | Katie Douglas | 5,545 |
 | 25 | Lindsay Whalen | 5,511 |
 | 26 | **Kayla McBride** 🔴 +4 | 5,458 |
@@ -116,7 +116,7 @@ _Last updated: 2026-05-28 02:12 UTC_
 | 95 | Sabrina Ionescu | 3,030 |
 | 96 | Marie Ferdinand-Harris | 3,001 |
 | 97 | Emma Meesseman | 2,966 |
-| 98 | **Marina Mabrey** 🔴 +20 | 2,961 |
+| 98 | **Marina Mabrey** 🔴 +22 | 2,963 |
 | 99 | **Natasha Cloud** 🔴 +16 | 2,904 |
 | 100 | Natalie Williams | 2,894 |
 | 101 | Jennifer Gillom | 2,888 |
@@ -256,7 +256,7 @@ _Last updated: 2026-05-28 02:12 UTC_
 | 30 | Chamique Holdsclaw | 2,123 |
 | 31 | Chasity Melvin | 2,097 |
 | 32 | Tammy Sutton-Brown | 2,010 |
-| 33 | **Elizabeth Williams** 🔴 +7 | 1,930 |
+| 33 | **Elizabeth Williams** 🔴 +8 | 1,931 |
 | 34 | Cheryl Ford | 1,907 |
 | 35 | Plenette Pierson | 1,834 |
 | 36 | Natalie Williams | 1,832 |
@@ -510,7 +510,7 @@ _Last updated: 2026-05-28 02:12 UTC_
 | 79 | Dearica Hamby | 697 |
 | 80 | Shavonte Zellous | 693 |
 | 81 | Allie Quigley | 690 |
-| 82 | **Stefanie Dolson** 🔴 | 688 |
+| 82 | **Stefanie Dolson** 🔴 +1 | 689 |
 | 83 | Moriah Jefferson | 685 |
 | 84 | Emma Meesseman | 681 |
 | 85 | Nykesha Sales | 677 |
