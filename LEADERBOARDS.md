@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-28 02:38 UTC_
+_Last updated: 2026-05-28 02:39 UTC_
 
 ## Contents
 
@@ -60,7 +60,7 @@ _Last updated: 2026-05-28 02:38 UTC_
 | 39 | Arike Ogunbowale | 4,512 |
 | 40 | Kristi Toliver | 4,474 |
 | 41 | Chelsea Gray | 4,469 |
-| 42 | **Natasha Howard** 🔴 +16 | 4,446 |
+| 42 | **Natasha Howard** 🔴 +18 | 4,448 |
 | 43 | Crystal Langhorne | 4,433 |
 | 43 | Jia Perkins | 4,433 |
 | 45 | Courtney Vandersloot | 4,352 |
@@ -68,13 +68,13 @@ _Last updated: 2026-05-28 02:38 UTC_
 | 47 | Sophia Young-Malcolm | 4,300 |
 | 48 | Plenette Pierson | 4,258 |
 | 49 | Monique Currie | 4,253 |
-| 50 | **Allisha Gray** 🔴 +15 | 4,247 |
+| 50 | **Allisha Gray** 🔴 +17 | 4,249 |
 | 51 | Vickie Johnson | 4,230 |
 | 52 | Yolanda Griffith | 4,224 |
 | 53 | Kahleah Copper | 4,173 |
 | 54 | Dearica Hamby | 4,158 |
 | 55 | Jonquel Jones | 4,149 |
-| 56 | **Courtney Williams** 🔴 +14 | 4,138 |
+| 56 | **Courtney Williams** 🔴 +16 | 4,140 |
 | 57 | Rebekkah Brunson | 4,133 |
 | 58 | Asjha Jones | 3,986 |
 | 59 | Deanna Nolan | 3,971 |
@@ -250,7 +250,7 @@ _Last updated: 2026-05-28 02:38 UTC_
 | 24 | Dearica Hamby | 2,346 |
 | 25 | Tangela Smith | 2,328 |
 | 26 | Erika de Souza | 2,220 |
-| 27 | **Natasha Howard** 🔴 +7 | 2,211 |
+| 27 | **Natasha Howard** 🔴 +8 | 2,212 |
 | 28 | Diana Taurasi | 2,201 |
 | 29 | Margo Dydek | 2,138 |
 | 30 | Chamique Holdsclaw | 2,123 |
@@ -557,7 +557,7 @@ _Last updated: 2026-05-28 02:38 UTC_
 | 125 | Coco Miller | 503 |
 | 127 | Veronica Burton | 501 |
 | 128 | Rachel Banham | 499 |
-| 129 | **Rhyne Howard** 🔴 +1 | 491 |
+| 129 | **Rhyne Howard** 🔴 +2 | 492 |
 | 130 | Caitlin Clark | 488 |
 | 130 | Crystal Robinson | 488 |
 | 130 | Tiffany Mitchell | 488 |
@@ -1125,7 +1125,7 @@ _Last updated: 2026-05-28 02:38 UTC_
 | 78 | Monique Currie | 284 |
 | 79 | Kayla Thornton | 276 |
 | 80 | Iziane Castro Marques | 275 |
-| 81 | **Bridget Carleton** 🔴 | 272 |
+| 81 | **Bridget Carleton** 🔴 +1 | 273 |
 | 82 | Sheryl Swoopes | 270 |
 | 83 | **Stefanie Dolson** 🔴 | 269 |
 | 84 | **Courtney Williams** 🔴 +2 | 262 |
