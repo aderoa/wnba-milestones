@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-28 03:02 UTC_
+_Last updated: 2026-05-28 03:03 UTC_
 
 ## Contents
 
@@ -148,7 +148,7 @@ _Last updated: 2026-05-28 03:02 UTC_
 | 127 | Svetlana Abrosimova | 2,414 |
 | 128 | Anna DeForge | 2,413 |
 | 129 | DeMya Walker | 2,379 |
-| 130 | **Rhyne Howard** 🔴 +6 | 2,364 |
+| 130 | **Rhyne Howard** 🔴 +8 | 2,366 |
 | 131 | Alex Bentley | 2,350 |
 | 132 | Merlakia Jones | 2,308 |
 | 133 | Kia Vaughn | 2,288 |
@@ -392,7 +392,7 @@ _Last updated: 2026-05-28 03:02 UTC_
 | 165 | Barbara Farris | 819 |
 | 167 | Carolyn Swords | 814 |
 | 168 | Tierra Ruffin-Pratt | 799 |
-| 169 | **Naz Hillmon** 🔴 +7 | 795 |
+| 169 | **Naz Hillmon** 🔴 +8 | 796 |
 | 170 | Charlotte Smith | 794 |
 | 171 | Betnijah Laney-Hamilton | 792 |
 | 172 | Rhonda Mapp | 788 |
@@ -459,7 +459,7 @@ _Last updated: 2026-05-28 03:02 UTC_
 | 28 | Vickie Johnson | 1,202 |
 | 29 | Leilani Mitchell | 1,197 |
 | 30 | DeWanna Bonner | 1,183 |
-| 31 | **Jordin Canada** 🔴 +4 | 1,159 |
+| 31 | **Jordin Canada** 🔴 +5 | 1,160 |
 | 32 | Jewell Loyd | 1,141 |
 | 33 | Renee Montgomery | 1,140 |
 | 34 | Swin Cash | 1,131 |
