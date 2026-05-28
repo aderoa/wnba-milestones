@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-05-28T03:13:00+00:00",
+    "text": "Shakira Austin passed Sami Whitcomb and Shekinna Stricklen for #192 all-time in rebounds (career 727) \u2014 up from #195 entering today \u2014 (8:57 - 3rd \u2014 WSH @ SEA)",
+    "kind": "rank_pass",
+    "player": "Shakira Austin",
+    "stat": "rebounds",
+    "rank": 192,
+    "passed_players": [
+      "Sami Whitcomb",
+      "Shekinna Stricklen"
+    ],
+    "new_total": 727
+  },
+  {
     "ts": "2026-05-28T02:57:00+00:00",
     "text": "Allisha Gray passed Svetlana Abrosimova for #68 all-time in steals (career 353) \u2014 up from #69 entering today \u2014 (8:41 - 4th \u2014 ATL @ MIN)",
     "kind": "rank_pass",
@@ -3013,17 +3026,5 @@
       "Becky Hammon"
     ],
     "new_total": 735
-  },
-  {
-    "ts": "2026-05-18T14:28:00+00:00",
-    "text": "Elizabeth Williams passed Kamila Vodichkova for #153 all-time in turnovers (career 382) \u2014 up from #154 entering today \u2014 (Final \u2014 CHI @ MIN)",
-    "kind": "rank_pass",
-    "player": "Elizabeth Williams",
-    "stat": "turnovers",
-    "rank": 153,
-    "passed_players": [
-      "Kamila Vodichkova"
-    ],
-    "new_total": 382
   }
 ]

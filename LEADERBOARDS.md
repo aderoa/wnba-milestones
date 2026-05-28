@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-28 03:12 UTC_
+_Last updated: 2026-05-28 03:13 UTC_
 
 ## Contents
 
@@ -44,7 +44,7 @@ _Last updated: 2026-05-28 03:12 UTC_
 | 23 | Skylar Diggins | 5,548 |
 | 24 | Katie Douglas | 5,545 |
 | 25 | Lindsay Whalen | 5,511 |
-| 26 | **Kayla McBride** 🔴 +10 | 5,464 |
+| 26 | **Kayla McBride** 🔴 +12 | 5,466 |
 | 27 | Swin Cash | 5,119 |
 | 28 | Tangela Smith | 5,035 |
 | 29 | Taj McWilliams-Franklin | 4,992 |
@@ -322,7 +322,7 @@ _Last updated: 2026-05-28 03:12 UTC_
 | 96 | Myisha Hines-Allen | 1,224 |
 | 97 | Jia Perkins | 1,220 |
 | 98 | Chelsea Gray | 1,210 |
-| 99 | **Kayla McBride** 🔴 +1 | 1,202 |
+| 99 | **Kayla McBride** 🔴 +2 | 1,203 |
 | 100 | DeMya Walker | 1,199 |
 | 101 | Latasha Byears | 1,190 |
 | 101 | Tanisha Wright | 1,190 |
@@ -415,9 +415,9 @@ _Last updated: 2026-05-28 03:12 UTC_
 | 189 | Ashley Robinson | 734 |
 | 190 | Arike Ogunbowale | 731 |
 | 191 | Shenise Johnson | 729 |
-| 192 | Sami Whitcomb | 726 |
-| 192 | **Shakira Austin** 🔴 +7 | 726 |
-| 192 | Shekinna Stricklen | 726 |
+| 192 | **Shakira Austin** 🔴 +8 | 727 |
+| 193 | Sami Whitcomb | 726 |
+| 193 | Shekinna Stricklen | 726 |
 | 195 | Kelsey Plum | 721 |
 | 196 | Olympia Scott | 711 |
 | 197 | Katie Mattera | 708 |
@@ -654,7 +654,7 @@ _Last updated: 2026-05-28 03:12 UTC_
 | 18 | Tina Thompson | 372 |
 | 19 | Erika de Souza | 370 |
 | 20 | Jessica Breland | 367 |
-| 21 | **Natasha Howard** 🔴 +2 | 362 |
+| 21 | **Natasha Howard** 🔴 +3 | 363 |
 | 22 | Ezi Magbegor | 354 |
 | 23 | DeWanna Bonner | 349 |
 | 23 | Diana Taurasi | 349 |
@@ -765,7 +765,7 @@ _Last updated: 2026-05-28 03:12 UTC_
 | 127 | **Emily Engstler** 🔴 +1 | 100 |
 | 127 | Kamilla Cardoso | 100 |
 | 127 | Nicole Powell | 100 |
-| 132 | **Rhyne Howard** 🔴 +1 | 99 |
+| 127 | **Rhyne Howard** 🔴 +2 | 100 |
 | 133 | Mwadi Mabika | 98 |
 | 133 | Natalie Achonwa | 98 |
 | 135 | Aneika Morello | 96 |
@@ -1014,9 +1014,9 @@ _Last updated: 2026-05-28 03:12 UTC_
 | 173 | Sonja Henning | 194 |
 | 173 | Tierra Ruffin-Pratt | 194 |
 | 175 | Cynthia Cooper | 192 |
+| 176 | **Natisha Hiedeman** 🔴 +1 | 188 |
 | 176 | Tamicha Jackson | 188 |
-| 177 | Michele Timms | 187 |
-| 177 | **Natisha Hiedeman** 🔴 | 187 |
+| 178 | Michele Timms | 187 |
 | 179 | Alanna Smith | 186 |
 | 180 | Charde Houston | 185 |
 | 180 | Myisha Hines-Allen | 185 |
