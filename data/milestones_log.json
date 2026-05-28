@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-28T01:01:00+00:00",
+    "text": "Leonie Fiebich passed Layshia Clarendon for #192 all-time in three-pointers (career 108) \u2014 up from #193 entering today \u2014 (4:33 - 4th \u2014 PHX @ NY)",
+    "kind": "rank_pass",
+    "player": "Leonie Fiebich",
+    "stat": "three-pointers",
+    "rank": 192,
+    "passed_players": [
+      "Layshia Clarendon"
+    ],
+    "new_total": 108
+  },
+  {
     "ts": "2026-05-28T00:56:00+00:00",
     "text": "Alyssa Thomas passed Tamika Whitmore for #35 all-time in fouls (career 941) \u2014 up from #37 entering today \u2014 (5:21 - 4th \u2014 PHX @ NY)",
     "kind": "rank_pass",
@@ -3022,18 +3034,5 @@
       "Alex Bentley"
     ],
     "new_total": 519
-  },
-  {
-    "ts": "2026-05-18T14:28:00+00:00",
-    "text": "Courtney Williams passed Rebekkah Brunson and Jonquel Jones for #55 all-time in points (career 4,141) \u2014 up from #57 entering today \u2014 (Final \u2014 CHI @ MIN)",
-    "kind": "rank_pass",
-    "player": "Courtney Williams",
-    "stat": "points",
-    "rank": 55,
-    "passed_players": [
-      "Rebekkah Brunson",
-      "Jonquel Jones"
-    ],
-    "new_total": 4141
   }
 ]

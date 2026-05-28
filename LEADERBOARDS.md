@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-28 01:00 UTC_
+_Last updated: 2026-05-28 01:01 UTC_
 
 ## Contents
 
@@ -1236,8 +1236,8 @@ _Last updated: 2026-05-28 01:00 UTC_
 | 189 | Emma Meesseman | 109 |
 | 189 | Scholanda Dorrell | 109 |
 | 191 | Belinda Snell | 108 |
-| 192 | Layshia Clarendon | 107 |
-| 192 | **Leonie Fiebich** 🔴 +1 | 107 |
+| 191 | **Leonie Fiebich** 🔴 +2 | 108 |
+| 193 | Layshia Clarendon | 107 |
 | 194 | Laurie Koehn | 105 |
 | 195 | Julie Vanloo | 104 |
 | 195 | Veronica Burton | 104 |
