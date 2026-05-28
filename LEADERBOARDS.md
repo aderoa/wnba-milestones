@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-28 04:01 UTC_
+_Last updated: 2026-05-28 04:02 UTC_
 
 ## Contents
 
@@ -750,8 +750,8 @@ _Last updated: 2026-05-28 04:01 UTC_
 | 114 | Ariel Atkins | 109 |
 | 115 | Erin Perperoglou | 108 |
 | 115 | Glory Johnson | 108 |
-| 117 | **Shakira Austin** 🔴 | 106 |
-| 117 | Sylvia Crawley | 106 |
+| 117 | **Shakira Austin** 🔴 +1 | 107 |
+| 118 | Sylvia Crawley | 106 |
 | 119 | Carolyn Swords | 104 |
 | 119 | Rebecca Lobo | 104 |
 | 121 | Courtney Williams | 103 |
