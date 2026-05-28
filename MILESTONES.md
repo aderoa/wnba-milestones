@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-28 02:37 UTC
+
+- **Nia Coffey** reached **1,300** career points (now 1,300) — _3:10 - 3rd — ATL @ MIN_
+
 ## 2026-05-28 02:35 UTC
 
 - **Naz Hillmon** passed **Charlotte Smith** for **#169** all-time in rebounds (career 795) — up from #171 entering today — _4:26 - 3rd — ATL @ MIN_

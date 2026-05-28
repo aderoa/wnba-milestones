@@ -1,5 +1,14 @@
 [
   {
+    "ts": "2026-05-28T02:37:00+00:00",
+    "text": "Nia Coffey reached 1,300 career points (now 1,300) \u2014 (3:10 - 3rd \u2014 ATL @ MIN)",
+    "kind": "round",
+    "player": "Nia Coffey",
+    "stat": "points",
+    "value": 1300,
+    "new_total": 1300
+  },
+  {
     "ts": "2026-05-28T02:35:00+00:00",
     "text": "Naz Hillmon passed Charlotte Smith for #169 all-time in rebounds (career 795) \u2014 up from #171 entering today \u2014 (4:26 - 3rd \u2014 ATL @ MIN)",
     "kind": "rank_pass",
@@ -3016,17 +3025,5 @@
       "Charde Houston"
     ],
     "new_total": 1801
-  },
-  {
-    "ts": "2026-05-18T14:28:00+00:00",
-    "text": "Rachel Banham passed Jasmine Thomas for #44 all-time in three-pointers (career 378) \u2014 up from #45 entering today \u2014 (Final \u2014 CHI @ MIN)",
-    "kind": "rank_pass",
-    "player": "Rachel Banham",
-    "stat": "three-pointers",
-    "rank": 44,
-    "passed_players": [
-      "Jasmine Thomas"
-    ],
-    "new_total": 378
   }
 ]
