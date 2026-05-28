@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-28 01:45 UTC_
+_Last updated: 2026-05-28 01:46 UTC_
 
 ## Contents
 
@@ -1532,8 +1532,8 @@ _Last updated: 2026-05-28 01:45 UTC_
 | 75 | Kahleah Copper | 726 |
 | 76 | Kristi Toliver | 722 |
 | 77 | **Allisha Gray** 🔴 +1 | 715 |
-| 78 | Cheryl Ford | 713 |
-| 78 | **Elizabeth Williams** 🔴 | 713 |
+| 78 | **Elizabeth Williams** 🔴 +1 | 714 |
+| 79 | Cheryl Ford | 713 |
 | 80 | Jia Perkins | 711 |
 | 81 | Helen Darling | 709 |
 | 82 | Matee Ajavon | 701 |
