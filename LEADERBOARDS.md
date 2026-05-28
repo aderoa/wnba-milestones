@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-28 00:53 UTC_
+_Last updated: 2026-05-28 00:54 UTC_
 
 ## Contents
 
@@ -56,7 +56,7 @@ _Last updated: 2026-05-28 00:53 UTC_
 | 35 | Chamique Holdsclaw | 4,713 |
 | 36 | Elena Delle Donne | 4,706 |
 | 37 | Penny Taylor | 4,595 |
-| 38 | **Alyssa Thomas** 🔴 +7 | 4,561 |
+| 38 | **Alyssa Thomas** 🔴 +9 | 4,563 |
 | 39 | Arike Ogunbowale | 4,512 |
 | 40 | Kristi Toliver | 4,474 |
 | 41 | Chelsea Gray | 4,469 |
@@ -153,7 +153,7 @@ _Last updated: 2026-05-28 00:53 UTC_
 | 132 | Merlakia Jones | 2,308 |
 | 133 | Kia Vaughn | 2,288 |
 | 134 | Kayla Thornton | 2,267 |
-| 135 | **Betnijah Laney-Hamilton** 🔴 | 2,261 |
+| 135 | **Betnijah Laney-Hamilton** 🔴 +2 | 2,263 |
 | 136 | Allison Feaster | 2,258 |
 | 137 | Shekinna Stricklen | 2,245 |
 | 138 | Kara Braxton | 2,237 |
@@ -334,7 +334,7 @@ _Last updated: 2026-05-28 00:53 UTC_
 | 108 | Andrea Stinson | 1,127 |
 | 108 | Tamika Raymond | 1,127 |
 | 110 | Adrienne Goodson | 1,126 |
-| 111 | **Brittney Sykes** 🔴 +2 | 1,123 |
+| 111 | **Brittney Sykes** 🔴 +3 | 1,124 |
 | 112 | Deanna Nolan | 1,112 |
 | 113 | Chiney Ogwumike | 1,110 |
 | 114 | Becky Hammon | 1,108 |
@@ -562,7 +562,7 @@ _Last updated: 2026-05-28 00:53 UTC_
 | 130 | Crystal Robinson | 488 |
 | 130 | Tiffany Mitchell | 488 |
 | 133 | Rebekkah Brunson | 486 |
-| 134 | **Kahleah Copper** 🔴 +1 | 473 |
+| 134 | **Kahleah Copper** 🔴 +2 | 474 |
 | 135 | Ukari Figgs | 470 |
 | 136 | Janeth Arcain | 469 |
 | 137 | Erin Phillips | 462 |
@@ -881,7 +881,7 @@ _Last updated: 2026-05-28 00:53 UTC_
 | 40 | Epiphanny Prince | 429 |
 | 41 | Tanisha Wright | 427 |
 | 42 | Kayla McBride | 425 |
-| 43 | **Breanna Stewart** 🔴 | 415 |
+| 43 | **Breanna Stewart** 🔴 +1 | 416 |
 | 44 | Katie Smith | 408 |
 | 45 | Cappie Pondexter | 405 |
 | 46 | Nicole Powell | 401 |
@@ -1263,7 +1263,7 @@ _Last updated: 2026-05-28 00:53 UTC_
 | 11 | Tamika Catchings | 1,041 |
 | 12 | Tina Charles | 1,040 |
 | 13 | Lindsay Whalen | 1,002 |
-| 14 | **Alyssa Thomas** 🔴 +2 | 982 |
+| 14 | **Alyssa Thomas** 🔴 +3 | 983 |
 | 15 | Sylvia Fowles | 961 |
 | 16 | Tanisha Wright | 954 |
 | 17 | Angel McCoughtry | 949 |
