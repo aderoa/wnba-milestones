@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-28 00:38 UTC_
+_Last updated: 2026-05-28 00:39 UTC_
 
 ## Contents
 
@@ -73,7 +73,7 @@ _Last updated: 2026-05-28 00:38 UTC_
 | 52 | Yolanda Griffith | 4,224 |
 | 53 | **Kahleah Copper** 🔴 +16 | 4,170 |
 | 54 | Dearica Hamby | 4,158 |
-| 55 | **Jonquel Jones** 🔴 +15 | 4,147 |
+| 55 | **Jonquel Jones** 🔴 +17 | 4,149 |
 | 56 | Rebekkah Brunson | 4,133 |
 | 57 | Courtney Williams | 4,124 |
 | 58 | Asjha Jones | 3,986 |
@@ -1263,7 +1263,7 @@ _Last updated: 2026-05-28 00:38 UTC_
 | 11 | Tamika Catchings | 1,041 |
 | 12 | Tina Charles | 1,040 |
 | 13 | Lindsay Whalen | 1,002 |
-| 14 | **Alyssa Thomas** 🔴 +1 | 981 |
+| 14 | **Alyssa Thomas** 🔴 +2 | 982 |
 | 15 | Sylvia Fowles | 961 |
 | 16 | Tanisha Wright | 954 |
 | 17 | Angel McCoughtry | 949 |
@@ -1643,7 +1643,7 @@ _Last updated: 2026-05-28 00:38 UTC_
 | 185 | Sami Whitcomb | 480 |
 | 187 | Seimone Augustus | 477 |
 | 188 | Allie Quigley | 475 |
-| 189 | **Kia Nurse** 🔴 | 467 |
+| 189 | **Kia Nurse** 🔴 +1 | 468 |
 | 190 | **Azurá Stevens** 🔴 +2 | 465 |
 | 190 | Nia Coffey | 465 |
 | 192 | Christi Thomas | 463 |
