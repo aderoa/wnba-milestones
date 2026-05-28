@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-28 00:22 UTC_
+_Last updated: 2026-05-28 00:23 UTC_
 
 ## Contents
 
@@ -71,7 +71,7 @@ _Last updated: 2026-05-28 00:22 UTC_
 | 50 | Allisha Gray | 4,232 |
 | 51 | Vickie Johnson | 4,230 |
 | 52 | Yolanda Griffith | 4,224 |
-| 53 | **Kahleah Copper** 🔴 +13 | 4,167 |
+| 53 | **Kahleah Copper** 🔴 +16 | 4,170 |
 | 54 | Dearica Hamby | 4,158 |
 | 55 | **Jonquel Jones** 🔴 +7 | 4,139 |
 | 56 | Rebekkah Brunson | 4,133 |
@@ -435,7 +435,7 @@ _Last updated: 2026-05-28 00:22 UTC_
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
 | 6 | Chelsea Gray | 1,903 |
-| 7 | **Alyssa Thomas** 🔴 +4 | 1,858 |
+| 7 | **Alyssa Thomas** 🔴 +5 | 1,859 |
 | 8 | **Skylar Diggins** 🔴 +4 | 1,789 |
 | 9 | **Natasha Cloud** 🔴 +2 | 1,749 |
 | 10 | Becky Hammon | 1,705 |
@@ -527,7 +527,7 @@ _Last updated: 2026-05-28 00:22 UTC_
 | 96 | Sami Whitcomb | 623 |
 | 97 | Alysha Clark | 614 |
 | 98 | Debbie Black | 612 |
-| 99 | **Jonquel Jones** 🔴 +1 | 609 |
+| 99 | **Jonquel Jones** 🔴 +2 | 610 |
 | 100 | Cynthia Cooper | 602 |
 | 101 | Natisha Hiedeman | 594 |
 | 102 | Sancho Lyttle | 592 |
@@ -853,7 +853,7 @@ _Last updated: 2026-05-28 00:22 UTC_
 | 12 | DeLisha Milton-Jones | 619 |
 | 13 | Taj McWilliams-Franklin | 577 |
 | 14 | Tully Bevilaqua | 571 |
-| 15 | **Alyssa Thomas** 🔴 +2 | 563 |
+| 15 | **Alyssa Thomas** 🔴 +3 | 564 |
 | 16 | Courtney Vandersloot | 544 |
 | 17 | Yolanda Griffith | 527 |
 | 18 | Candace Parker | 521 |
@@ -1097,7 +1097,7 @@ _Last updated: 2026-05-28 00:22 UTC_
 | 50 | **Jonquel Jones** 🔴 +1 | 362 |
 | 51 | Kia Nurse | 358 |
 | 52 | Nykesha Sales | 352 |
-| 53 | **Kahleah Copper** 🔴 +1 | 346 |
+| 53 | **Kahleah Copper** 🔴 +2 | 347 |
 | 54 | Cathrine Kraayeveld | 343 |
 | 54 | Elena Delle Donne | 343 |
 | 56 | Candace Parker | 342 |
@@ -1183,8 +1183,8 @@ _Last updated: 2026-05-28 00:22 UTC_
 | 135 | Jennifer Lacy | 160 |
 | 137 | Aari McDonald | 158 |
 | 137 | Jennifer Azzi | 158 |
+| 139 | **Marine Johannès** 🔴 +6 | 157 |
 | 139 | Natasha Howard | 157 |
-| 140 | **Marine Johannès** 🔴 +5 | 156 |
 | 141 | Bridget Pettis | 153 |
 | 141 | Jennifer Gillom | 153 |
 | 143 | Alanna Smith | 152 |
@@ -1302,7 +1302,7 @@ _Last updated: 2026-05-28 00:22 UTC_
 | 50 | Asjha Jones | 682 |
 | 51 | Danielle Robinson | 680 |
 | 52 | Sheryl Swoopes | 677 |
-| 53 | **Natasha Cloud** 🔴 | 673 |
+| 53 | **Natasha Cloud** 🔴 +1 | 674 |
 | 54 | Tammy Sutton-Brown | 672 |
 | 55 | Erica Wheeler | 671 |
 | 56 | Deanna Nolan | 669 |
@@ -1335,7 +1335,7 @@ _Last updated: 2026-05-28 00:22 UTC_
 | 83 | **Brittney Sykes** 🔴 | 568 |
 | 84 | Nikki McCray | 565 |
 | 85 | Sancho Lyttle | 563 |
-| 86 | **Breanna Stewart** 🔴 +2 | 559 |
+| 86 | **Breanna Stewart** 🔴 +3 | 560 |
 | 87 | Tan White | 557 |
 | 88 | Kelsey Mitchell | 556 |
 | 89 | Lauren Jackson | 549 |
