@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-29 01:37 UTC_
+_Last updated: 2026-05-29 01:38 UTC_
 
 ## Contents
 
@@ -33,11 +33,11 @@ _Last updated: 2026-05-29 01:37 UTC_
 | 12 | Sylvia Fowles | 6,413 |
 | 13 | Lisa Leslie | 6,251 |
 | 14 | Breanna Stewart | 6,077 |
-| 15 | **Jewell Loyd** 🔴 +5 | 6,064 |
+| 15 | **Jewell Loyd** 🔴 +6 | 6,065 |
 | 16 | Lauren Jackson | 6,005 |
 | 16 | Seimone Augustus | 6,005 |
 | 18 | Brittney Griner | 5,983 |
-| 19 | **A'ja Wilson** 🔴 +15 | 5,859 |
+| 19 | **A'ja Wilson** 🔴 +17 | 5,861 |
 | 20 | Becky Hammon | 5,816 |
 | 21 | Angel McCoughtry | 5,797 |
 | 22 | DeLisha Milton-Jones | 5,571 |
@@ -434,7 +434,7 @@ _Last updated: 2026-05-29 01:37 UTC_
 | 3 | Ticha Penicheiro | 2,588 |
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
-| 6 | **Chelsea Gray** 🔴 +7 | 1,910 |
+| 6 | **Chelsea Gray** 🔴 +8 | 1,911 |
 | 7 | Alyssa Thomas | 1,854 |
 | 8 | Skylar Diggins | 1,785 |
 | 9 | Natasha Cloud | 1,747 |
@@ -525,7 +525,7 @@ _Last updated: 2026-05-29 01:37 UTC_
 | 94 | Brittney Griner | 635 |
 | 95 | **A'ja Wilson** 🔴 +2 | 627 |
 | 96 | Sami Whitcomb | 623 |
-| 97 | **Alysha Clark** 🔴 | 614 |
+| 97 | **Alysha Clark** 🔴 +1 | 615 |
 | 98 | Debbie Black | 612 |
 | 99 | Jonquel Jones | 608 |
 | 100 | Cynthia Cooper | 602 |
@@ -1496,7 +1496,7 @@ _Last updated: 2026-05-29 01:37 UTC_
 | 39 | Ticha Penicheiro | 913 |
 | 40 | Shavonte Zellous | 907 |
 | 41 | DeWanna Bonner | 899 |
-| 42 | **Alysha Clark** 🔴 +2 | 889 |
+| 42 | **Alysha Clark** 🔴 +3 | 890 |
 | 43 | DeMya Walker | 882 |
 | 44 | Candice Dupree | 876 |
 | 45 | Jonquel Jones | 875 |
