@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-29 00:19 UTC_
+_Last updated: 2026-05-29 00:20 UTC_
 
 ## Contents
 
@@ -94,7 +94,7 @@ _Last updated: 2026-05-29 00:19 UTC_
 | 73 | Tamecka Dixon | 3,507 |
 | 74 | Tammy Sutton-Brown | 3,498 |
 | 75 | Sancho Lyttle | 3,478 |
-| 76 | **Jackie Young** 🔴 | 3,468 |
+| 76 | **Jackie Young** 🔴 +2 | 3,470 |
 | 77 | Ivory Latta | 3,447 |
 | 78 | Nicole Powell | 3,407 |
 | 79 | Epiphanny Prince | 3,381 |
@@ -240,7 +240,7 @@ _Last updated: 2026-05-29 00:19 UTC_
 | 14 | Sancho Lyttle | 2,596 |
 | 15 | DeLisha Milton-Jones | 2,574 |
 | 16 | Brittney Griner | 2,537 |
-| 17 | **A'ja Wilson** 🔴 +2 | 2,524 |
+| 17 | **A'ja Wilson** 🔴 +1 | 2,523 |
 | 18 | Swin Cash | 2,521 |
 | 19 | Breanna Stewart | 2,510 |
 | 20 | Michelle Snow | 2,476 |
@@ -348,7 +348,7 @@ _Last updated: 2026-05-29 00:19 UTC_
 | 122 | Nicole Ohlde | 1,040 |
 | 123 | Tamecka Dixon | 1,035 |
 | 124 | Kamila Vodichkova | 1,031 |
-| 125 | **Jackie Young** 🔴 +1 | 1,028 |
+| 125 | **Jackie Young** 🔴 +2 | 1,029 |
 | 126 | Jasmine Thomas | 1,027 |
 | 127 | Cathrine Kraayeveld | 1,013 |
 | 128 | Kelly Miller | 1,011 |
@@ -523,7 +523,7 @@ _Last updated: 2026-05-29 00:19 UTC_
 | 92 | Asjha Jones | 637 |
 | 93 | Jennifer Azzi | 636 |
 | 94 | Brittney Griner | 635 |
-| 95 | **A'ja Wilson** 🔴 +1 | 626 |
+| 95 | **A'ja Wilson** 🔴 +2 | 627 |
 | 96 | Sami Whitcomb | 623 |
 | 97 | Alysha Clark | 614 |
 | 98 | Debbie Black | 612 |
@@ -615,9 +615,9 @@ _Last updated: 2026-05-29 00:19 UTC_
 | 183 | Diamond DeShields | 361 |
 | 183 | Erlana Larkins | 361 |
 | 186 | Bridget Carleton | 358 |
+| 187 | **Jessica Shepard** 🔴 +2 | 355 |
 | 187 | Kayla Thornton | 355 |
 | 187 | Merlakia Jones | 355 |
-| 189 | **Jessica Shepard** 🔴 +1 | 354 |
 | 190 | Charlotte Smith | 352 |
 | 190 | Ruthie Bolton | 352 |
 | 192 | Jantel Lavender | 350 |
