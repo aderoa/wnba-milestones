@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-29 02:57 UTC_
+_Last updated: 2026-05-29 02:58 UTC_
 
 ## Contents
 
@@ -319,7 +319,7 @@ _Last updated: 2026-05-29 02:57 UTC_
 | 93 | **Tiffany Hayes** 🔴 +1 | 1,234 |
 | 94 | Brianna Turner | 1,229 |
 | 95 | Seimone Augustus | 1,228 |
-| 96 | **Myisha Hines-Allen** 🔴 | 1,224 |
+| 96 | **Myisha Hines-Allen** 🔴 +1 | 1,225 |
 | 97 | Jia Perkins | 1,220 |
 | 98 | Chelsea Gray | 1,213 |
 | 99 | Kayla McBride | 1,201 |
@@ -1559,7 +1559,7 @@ _Last updated: 2026-05-29 02:57 UTC_
 | 102 | Breanna Stewart | 656 |
 | 103 | Tari Phillips | 648 |
 | 104 | Marie Ferdinand-Harris | 646 |
-| 105 | **Kayla Thornton** 🔴 | 644 |
+| 105 | **Kayla Thornton** 🔴 +1 | 645 |
 | 106 | Charlotte Smith | 638 |
 | 107 | Janell Burse | 632 |
 | 108 | Nicole Ohlde | 631 |
