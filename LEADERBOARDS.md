@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-29 03:53 UTC_
+_Last updated: 2026-05-29 03:54 UTC_
 
 ## Contents
 
@@ -401,8 +401,8 @@ _Last updated: 2026-05-29 03:53 UTC_
 | 175 | Sue Wicks | 780 |
 | 176 | Lindsey Harding | 779 |
 | 177 | Tiffani Johnson | 778 |
-| 178 | **Gabby Williams** 🔴 +1 | 775 |
-| 178 | Teresa Weatherspoon | 775 |
+| 178 | **Gabby Williams** 🔴 +2 | 776 |
+| 179 | Teresa Weatherspoon | 775 |
 | 180 | Anna DeForge | 769 |
 | 180 | Kelsey Bone | 769 |
 | 180 | Tan White | 769 |
@@ -540,7 +540,7 @@ _Last updated: 2026-05-29 03:53 UTC_
 | 109 | Napheesa Collier | 570 |
 | 110 | Nicole Powell | 567 |
 | 111 | Loree Moore | 562 |
-| 112 | **Gabby Williams** 🔴 +4 | 558 |
+| 112 | **Gabby Williams** 🔴 +5 | 559 |
 | 113 | Sophia Young-Malcolm | 554 |
 | 113 | Tangela Smith | 554 |
 | 115 | Tamera Young | 552 |
@@ -1620,12 +1620,12 @@ _Last updated: 2026-05-29 03:53 UTC_
 | 163 | Andrea Stinson | 511 |
 | 164 | Vicky Bullett | 507 |
 | 165 | Merlakia Jones | 506 |
+| 166 | **Myisha Hines-Allen** 🔴 +1 | 505 |
 | 166 | Rushia Brown | 505 |
 | 166 | Shekinna Stricklen | 505 |
-| 168 | Allison Feaster | 504 |
-| 168 | Erin Perperoglou | 504 |
-| 168 | **Myisha Hines-Allen** 🔴 | 504 |
-| 168 | Napheesa Collier | 504 |
+| 169 | Allison Feaster | 504 |
+| 169 | Erin Perperoglou | 504 |
+| 169 | Napheesa Collier | 504 |
 | 172 | Iziane Castro Marques | 502 |
 | 173 | Elena Baranova | 501 |
 | 174 | Adrian Williams-Strong | 497 |
