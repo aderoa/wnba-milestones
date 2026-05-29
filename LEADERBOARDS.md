@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-29 23:52 UTC_
+_Last updated: 2026-05-29 23:53 UTC_
 
 ## Contents
 
@@ -118,8 +118,8 @@ _Last updated: 2026-05-29 23:52 UTC_
 | 97 | Emma Meesseman | 2,966 |
 | 98 | Marina Mabrey | 2,941 |
 | 99 | Natalie Williams | 2,894 |
-| 100 | Jennifer Gillom | 2,888 |
-| 100 | **Natasha Cloud** 🔴 | 2,888 |
+| 100 | **Natasha Cloud** 🔴 +1 | 2,889 |
+| 101 | Jennifer Gillom | 2,888 |
 | 102 | Iziane Castro Marques | 2,862 |
 | 103 | **Elizabeth Williams** 🔴 | 2,856 |
 | 104 | Alysha Clark | 2,792 |
@@ -153,7 +153,7 @@ _Last updated: 2026-05-29 23:52 UTC_
 | 132 | Merlakia Jones | 2,308 |
 | 133 | Kia Vaughn | 2,288 |
 | 134 | Kayla Thornton | 2,267 |
-| 135 | **Betnijah Laney-Hamilton** 🔴 +3 | 2,264 |
+| 135 | **Betnijah Laney-Hamilton** 🔴 +4 | 2,265 |
 | 136 | Allison Feaster | 2,258 |
 | 137 | Shekinna Stricklen | 2,245 |
 | 138 | Kara Braxton | 2,237 |
@@ -1003,11 +1003,11 @@ _Last updated: 2026-05-29 23:52 UTC_
 | 161 | Sophia Witherspoon | 208 |
 | 163 | Marina Mabrey | 207 |
 | 164 | Shameka Christon | 205 |
+| 165 | **Betnijah Laney-Hamilton** 🔴 +1 | 204 |
 | 165 | Jessica Breland | 204 |
 | 165 | Murriel Page | 204 |
 | 165 | Shatori Walker-Kimbrough | 204 |
-| 168 | Adrienne Goodson | 203 |
-| 168 | **Betnijah Laney-Hamilton** 🔴 | 203 |
+| 169 | Adrienne Goodson | 203 |
 | 170 | **Azurá Stevens** 🔴 | 201 |
 | 171 | Allie Quigley | 198 |
 | 172 | Layshia Clarendon | 195 |
@@ -1326,7 +1326,7 @@ _Last updated: 2026-05-29 23:52 UTC_
 | 74 | Lindsey Harding | 600 |
 | 74 | Tamika Whitmore | 600 |
 | 76 | Kelly Miller | 596 |
-| 77 | **Kahleah Copper** 🔴 +1 | 591 |
+| 77 | **Kahleah Copper** 🔴 +2 | 592 |
 | 78 | Stefanie Dolson | 581 |
 | 79 | Helen Darling | 575 |
 | 79 | Nykesha Sales | 575 |
