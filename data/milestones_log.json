@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-29T04:14:00+00:00",
+    "text": "Gabby Williams passed Lindsey Harding for #176 all-time in rebounds (career 780) \u2014 up from #179 entering today \u2014 (24.8 - 4th \u2014 IND @ GS)",
+    "kind": "rank_pass",
+    "player": "Gabby Williams",
+    "stat": "rebounds",
+    "rank": 176,
+    "passed_players": [
+      "Lindsey Harding"
+    ],
+    "new_total": 780
+  },
+  {
     "ts": "2026-05-29T04:06:00+00:00",
     "text": "Aliyah Boston passed Riquna Williams for #173 all-time in assists (career 388) \u2014 up from #174 entering today \u2014 (3:11 - 4th \u2014 IND @ GS)",
     "kind": "rank_pass",
@@ -3003,19 +3015,5 @@
       "Charlotte Smith"
     ],
     "new_total": 165
-  },
-  {
-    "ts": "2026-05-18T14:28:00+00:00",
-    "text": "Caitlin Clark passed Alex Bentley, Gabby Williams, and Tamika Raymond for #184 all-time in turnovers (career 314) \u2014 up from #187 entering today \u2014 (Final \u2014 SEA @ IND)",
-    "kind": "rank_pass",
-    "player": "Caitlin Clark",
-    "stat": "turnovers",
-    "rank": 184,
-    "passed_players": [
-      "Alex Bentley",
-      "Gabby Williams",
-      "Tamika Raymond"
-    ],
-    "new_total": 314
   }
 ]
