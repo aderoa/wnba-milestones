@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-29 00:45 UTC_
+_Last updated: 2026-05-29 00:46 UTC_
 
 ## Contents
 
@@ -340,7 +340,7 @@ _Last updated: 2026-05-29 00:45 UTC_
 | 114 | Becky Hammon | 1,108 |
 | 115 | Ann Wauters | 1,105 |
 | 116 | Natasha Cloud | 1,093 |
-| 117 | **NaLyssa Smith** 🔴 +3 | 1,084 |
+| 117 | **NaLyssa Smith** 🔴 +4 | 1,085 |
 | 118 | Svetlana Abrosimova | 1,078 |
 | 119 | Aliyah Boston | 1,066 |
 | 120 | Le'coe Willingham | 1,054 |
@@ -348,7 +348,7 @@ _Last updated: 2026-05-29 00:45 UTC_
 | 122 | Nicole Ohlde | 1,040 |
 | 123 | Tamecka Dixon | 1,035 |
 | 124 | Kamila Vodichkova | 1,031 |
-| 125 | **Jackie Young** 🔴 +2 | 1,029 |
+| 125 | **Jackie Young** 🔴 +3 | 1,030 |
 | 126 | Jasmine Thomas | 1,027 |
 | 127 | Cathrine Kraayeveld | 1,013 |
 | 128 | Kelly Miller | 1,011 |
@@ -381,7 +381,7 @@ _Last updated: 2026-05-29 00:45 UTC_
 | 155 | Erica Wheeler | 858 |
 | 156 | Alanna Smith | 847 |
 | 157 | Leilani Mitchell | 845 |
-| 158 | **Jessica Shepard** 🔴 +2 | 838 |
+| 158 | **Jessica Shepard** 🔴 +3 | 839 |
 | 159 | Essence Carson | 833 |
 | 160 | Kristi Toliver | 829 |
 | 161 | Marie Ferdinand-Harris | 828 |
@@ -772,8 +772,8 @@ _Last updated: 2026-05-29 00:45 UTC_
 | 135 | Tiffani Johnson | 96 |
 | 137 | Imani McGee-Stafford | 95 |
 | 137 | Isabelle Harrison | 95 |
+| 139 | **Jewell Loyd** 🔴 +1 | 94 |
 | 139 | Sandrine Gruda | 94 |
-| 140 | **Jewell Loyd** 🔴 | 93 |
 | 141 | Jasmine Thomas | 91 |
 | 141 | Kayla Alexander | 91 |
 | 141 | **NaLyssa Smith** 🔴 | 91 |
@@ -1378,10 +1378,10 @@ _Last updated: 2026-05-29 00:45 UTC_
 | 126 | Ariel Atkins | 442 |
 | 127 | Betnijah Laney-Hamilton | 441 |
 | 128 | Ann Wauters | 440 |
+| 129 | **Alysha Clark** 🔴 +1 | 439 |
 | 129 | **Cheyenne Parker-Tyus** 🔴 | 439 |
 | 129 | Tiffany Mitchell | 439 |
-| 131 | **Alysha Clark** 🔴 | 438 |
-| 131 | Kedra Holland-Corn | 438 |
+| 132 | Kedra Holland-Corn | 438 |
 | 133 | **Jackie Young** 🔴 | 434 |
 | 133 | Jennifer Gillom | 434 |
 | 133 | Nicole Ohlde | 434 |
@@ -1496,7 +1496,7 @@ _Last updated: 2026-05-29 00:45 UTC_
 | 39 | Ticha Penicheiro | 913 |
 | 40 | Shavonte Zellous | 907 |
 | 41 | DeWanna Bonner | 899 |
-| 42 | **Alysha Clark** 🔴 | 887 |
+| 42 | **Alysha Clark** 🔴 +1 | 888 |
 | 43 | DeMya Walker | 882 |
 | 44 | Candice Dupree | 876 |
 | 45 | Jonquel Jones | 875 |
