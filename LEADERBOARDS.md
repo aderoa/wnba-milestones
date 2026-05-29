@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-29 00:36 UTC_
+_Last updated: 2026-05-29 00:37 UTC_
 
 ## Contents
 
@@ -1572,8 +1572,8 @@ _Last updated: 2026-05-29 00:36 UTC_
 | 115 | Coco Miller | 615 |
 | 116 | Brooke Wyckoff | 614 |
 | 117 | Svetlana Abrosimova | 613 |
-| 118 | **Chelsea Gray** 🔴 | 609 |
-| 118 | Layshia Clarendon | 609 |
+| 118 | **Chelsea Gray** 🔴 +1 | 610 |
+| 119 | Layshia Clarendon | 609 |
 | 120 | **Odyssey Sims** 🔴 | 604 |
 | 120 | Tiffany Mitchell | 604 |
 | 122 | Janel McCarville | 597 |
