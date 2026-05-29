@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-29 23:51 UTC
+
+- **Teaira McCowan** passed **Alana Beard** for **#47** all-time in blocks (career 221) — up from #48 entering today — _27.5 - 1st — MIN @ CHI_
+
 ## 2026-05-29 04:14 UTC
 
 - **Gabby Williams** passed **Lindsey Harding** for **#176** all-time in rebounds (career 780) — up from #179 entering today — _24.8 - 4th — IND @ GS_

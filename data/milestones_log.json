@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-29T23:51:00+00:00",
+    "text": "Teaira McCowan passed Alana Beard for #47 all-time in blocks (career 221) \u2014 up from #48 entering today \u2014 (27.5 - 1st \u2014 MIN @ CHI)",
+    "kind": "rank_pass",
+    "player": "Teaira McCowan",
+    "stat": "blocks",
+    "rank": 47,
+    "passed_players": [
+      "Alana Beard"
+    ],
+    "new_total": 221
+  },
+  {
     "ts": "2026-05-29T04:14:00+00:00",
     "text": "Gabby Williams passed Lindsey Harding for #176 all-time in rebounds (career 780) \u2014 up from #179 entering today \u2014 (24.8 - 4th \u2014 IND @ GS)",
     "kind": "rank_pass",
@@ -3003,17 +3015,5 @@
       "Tiffany Mitchell"
     ],
     "new_total": 498
-  },
-  {
-    "ts": "2026-05-18T14:28:00+00:00",
-    "text": "Caitlin Clark passed Charlotte Smith for #130 all-time in three-pointers (career 165) \u2014 up from #131 entering today \u2014 (Final \u2014 SEA @ IND)",
-    "kind": "rank_pass",
-    "player": "Caitlin Clark",
-    "stat": "three-pointers",
-    "rank": 130,
-    "passed_players": [
-      "Charlotte Smith"
-    ],
-    "new_total": 165
   }
 ]

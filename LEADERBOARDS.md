@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-29 23:50 UTC_
+_Last updated: 2026-05-29 23:51 UTC_
 
 ## Contents
 
@@ -44,7 +44,7 @@ _Last updated: 2026-05-29 23:50 UTC_
 | 23 | Katie Douglas | 5,545 |
 | 24 | **Skylar Diggins** 🔴 +4 | 5,529 |
 | 25 | Lindsay Whalen | 5,511 |
-| 26 | **Kayla McBride** 🔴 +3 | 5,457 |
+| 26 | **Kayla McBride** 🔴 +2 | 5,456 |
 | 27 | Swin Cash | 5,119 |
 | 28 | Tangela Smith | 5,035 |
 | 29 | Taj McWilliams-Franklin | 4,992 |
@@ -256,7 +256,7 @@ _Last updated: 2026-05-29 23:50 UTC_
 | 30 | Chamique Holdsclaw | 2,123 |
 | 31 | Chasity Melvin | 2,097 |
 | 32 | Tammy Sutton-Brown | 2,010 |
-| 33 | **Elizabeth Williams** 🔴 +3 | 1,926 |
+| 33 | **Elizabeth Williams** 🔴 +2 | 1,925 |
 | 34 | Cheryl Ford | 1,907 |
 | 35 | Plenette Pierson | 1,834 |
 | 36 | Natalie Williams | 1,832 |
@@ -267,7 +267,7 @@ _Last updated: 2026-05-29 23:50 UTC_
 | 41 | **Courtney Williams** 🔴 | 1,766 |
 | 42 | Kiah Stokes | 1,760 |
 | 43 | Asjha Jones | 1,751 |
-| 44 | **Teaira McCowan** 🔴 | 1,670 |
+| 44 | **Teaira McCowan** 🔴 +1 | 1,671 |
 | 45 | Stefanie Dolson | 1,667 |
 | 46 | Monique Currie | 1,666 |
 | 47 | Glory Johnson | 1,640 |
@@ -387,7 +387,7 @@ _Last updated: 2026-05-29 23:50 UTC_
 | 161 | Marie Ferdinand-Harris | 828 |
 | 162 | Marina Mabrey | 827 |
 | 163 | Marlies Askamp | 822 |
-| 164 | **Nia Coffey** 🔴 +2 | 821 |
+| 163 | **Nia Coffey** 🔴 +3 | 822 |
 | 165 | Amanda Zahui B | 819 |
 | 165 | Barbara Farris | 819 |
 | 167 | Carolyn Swords | 814 |
@@ -680,8 +680,8 @@ _Last updated: 2026-05-29 23:50 UTC_
 | 44 | **Skylar Diggins** 🔴 | 225 |
 | 45 | Alanna Smith | 222 |
 | 46 | Sancho Lyttle | 221 |
-| 47 | Alana Beard | 220 |
-| 47 | **Teaira McCowan** 🔴 | 220 |
+| 46 | **Teaira McCowan** 🔴 +1 | 221 |
+| 48 | Alana Beard | 220 |
 | 49 | Janell Burse | 216 |
 | 49 | Sheryl Swoopes | 216 |
 | 51 | LaToya Sanders | 207 |
