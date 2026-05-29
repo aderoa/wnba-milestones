@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-29 23:51 UTC_
+_Last updated: 2026-05-29 23:52 UTC_
 
 ## Contents
 
@@ -506,8 +506,8 @@ _Last updated: 2026-05-29 23:51 UTC_
 | 75 | Monique Currie | 740 |
 | 76 | Allisha Gray | 734 |
 | 77 | Elaine Powell | 728 |
-| 78 | Chamique Holdsclaw | 698 |
-| 78 | **Dearica Hamby** 🔴 +1 | 698 |
+| 78 | **Dearica Hamby** 🔴 +2 | 699 |
+| 79 | Chamique Holdsclaw | 698 |
 | 80 | Shavonte Zellous | 693 |
 | 81 | Allie Quigley | 690 |
 | 82 | Stefanie Dolson | 688 |
@@ -1495,7 +1495,7 @@ _Last updated: 2026-05-29 23:51 UTC_
 | 38 | Briann January | 921 |
 | 39 | Ticha Penicheiro | 913 |
 | 40 | Shavonte Zellous | 907 |
-| 41 | **DeWanna Bonner** 🔴 | 899 |
+| 41 | **DeWanna Bonner** 🔴 +1 | 900 |
 | 42 | Alysha Clark | 887 |
 | 43 | DeMya Walker | 882 |
 | 44 | Candice Dupree | 876 |
@@ -1519,7 +1519,7 @@ _Last updated: 2026-05-29 23:51 UTC_
 | 62 | Nykesha Sales | 796 |
 | 63 | Ebony Hoffman | 791 |
 | 64 | Sue Bird | 775 |
-| 65 | **Erica Wheeler** 🔴 | 770 |
+| 65 | **Erica Wheeler** 🔴 +1 | 771 |
 | 66 | Sheri Sam | 766 |
 | 67 | Kia Vaughn | 755 |
 | 68 | Vickie Johnson | 752 |
