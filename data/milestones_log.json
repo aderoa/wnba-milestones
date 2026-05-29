@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-29T01:16:00+00:00",
+    "text": "Jackie Young passed Sancho Lyttle for #75 all-time in points (career 3,479) \u2014 up from #76 entering today \u2014 (9:10 - 3rd \u2014 LV @ DAL)",
+    "kind": "rank_pass",
+    "player": "Jackie Young",
+    "stat": "points",
+    "rank": 75,
+    "passed_players": [
+      "Sancho Lyttle"
+    ],
+    "new_total": 3479
+  },
+  {
     "ts": "2026-05-29T00:50:00+00:00",
     "text": "Jackie Young passed Marissa Coleman for #63 all-time in three-pointers (career 316) \u2014 (3:40 - 2nd \u2014 LV @ DAL)",
     "kind": "rank_pass",
@@ -3005,19 +3017,5 @@
       "Erin Phillips"
     ],
     "new_total": 212
-  },
-  {
-    "ts": "2026-05-18T14:28:00+00:00",
-    "text": "Sophie Cunningham passed Jantel Lavender, Adrienne Goodson, and Janeth Arcain for #158 all-time in fouls (career 514) \u2014 up from #161 entering today \u2014 (Final \u2014 SEA @ IND)",
-    "kind": "rank_pass",
-    "player": "Sophie Cunningham",
-    "stat": "fouls",
-    "rank": 158,
-    "passed_players": [
-      "Jantel Lavender",
-      "Adrienne Goodson",
-      "Janeth Arcain"
-    ],
-    "new_total": 514
   }
 ]

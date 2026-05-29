@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-29 01:16 UTC
+
+- **Jackie Young** passed **Sancho Lyttle** for **#75** all-time in points (career 3,479) — up from #76 entering today — _9:10 - 3rd — LV @ DAL_
+
 ## 2026-05-29 00:50 UTC
 
 - **Jackie Young** passed **Marissa Coleman** for **#63** all-time in three-pointers (career 316) — _3:40 - 2nd — LV @ DAL_

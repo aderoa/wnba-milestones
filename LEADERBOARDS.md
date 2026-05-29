@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-29 01:15 UTC_
+_Last updated: 2026-05-29 01:16 UTC_
 
 ## Contents
 
@@ -93,8 +93,8 @@ _Last updated: 2026-05-29 01:15 UTC_
 | 71 | Jasmine Thomas | 3,522 |
 | 73 | Tamecka Dixon | 3,507 |
 | 74 | Tammy Sutton-Brown | 3,498 |
-| 75 | Sancho Lyttle | 3,478 |
-| 76 | **Jackie Young** 🔴 +9 | 3,477 |
+| 75 | **Jackie Young** 🔴 +11 | 3,479 |
+| 76 | Sancho Lyttle | 3,478 |
 | 77 | Ivory Latta | 3,447 |
 | 78 | Nicole Powell | 3,407 |
 | 79 | Epiphanny Prince | 3,381 |
@@ -340,7 +340,7 @@ _Last updated: 2026-05-29 01:15 UTC_
 | 114 | Becky Hammon | 1,108 |
 | 115 | Ann Wauters | 1,105 |
 | 116 | Natasha Cloud | 1,093 |
-| 117 | **NaLyssa Smith** 🔴 +6 | 1,087 |
+| 117 | **NaLyssa Smith** 🔴 +7 | 1,088 |
 | 118 | Svetlana Abrosimova | 1,078 |
 | 119 | Aliyah Boston | 1,066 |
 | 120 | Le'coe Willingham | 1,054 |
@@ -434,7 +434,7 @@ _Last updated: 2026-05-29 01:15 UTC_
 | 3 | Ticha Penicheiro | 2,588 |
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
-| 6 | **Chelsea Gray** 🔴 +6 | 1,909 |
+| 6 | **Chelsea Gray** 🔴 +7 | 1,910 |
 | 7 | Alyssa Thomas | 1,854 |
 | 8 | Skylar Diggins | 1,785 |
 | 9 | Natasha Cloud | 1,747 |
