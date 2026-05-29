@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-29 03:52 UTC_
+_Last updated: 2026-05-29 03:53 UTC_
 
 ## Contents
 
@@ -714,8 +714,8 @@ _Last updated: 2026-05-29 03:52 UTC_
 | 77 | Sue Wicks | 153 |
 | 79 | Jessica Davenport | 151 |
 | 80 | Alison Bales | 148 |
-| 81 | **Aliyah Boston** 🔴 +1 | 144 |
-| 82 | Chamique Holdsclaw | 143 |
+| 81 | **Aliyah Boston** 🔴 | 143 |
+| 81 | Chamique Holdsclaw | 143 |
 | 83 | Shavonte Zellous | 139 |
 | 84 | Penny Taylor | 136 |
 | 85 | Devereaux Peters | 133 |
