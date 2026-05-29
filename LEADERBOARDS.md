@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-29 03:38 UTC_
+_Last updated: 2026-05-29 03:39 UTC_
 
 ## Contents
 
@@ -602,7 +602,7 @@ _Last updated: 2026-05-29 03:38 UTC_
 | 171 | Shameka Christon | 389 |
 | 171 | Tamicha Jackson | 389 |
 | 173 | Riquna Williams | 387 |
-| 174 | **Aliyah Boston** 🔴 +1 | 385 |
+| 174 | **Aliyah Boston** 🔴 +2 | 386 |
 | 175 | Stephanie Talbot | 380 |
 | 176 | Dana Evans | 379 |
 | 177 | Jessica Breland | 377 |
