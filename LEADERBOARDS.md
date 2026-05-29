@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-29 01:32 UTC_
+_Last updated: 2026-05-29 01:33 UTC_
 
 ## Contents
 
@@ -614,7 +614,7 @@ _Last updated: 2026-05-29 01:32 UTC_
 | 183 | Andrea Nagy | 361 |
 | 183 | Diamond DeShields | 361 |
 | 183 | Erlana Larkins | 361 |
-| 186 | **Jessica Shepard** 🔴 +6 | 359 |
+| 186 | **Jessica Shepard** 🔴 +7 | 360 |
 | 187 | Bridget Carleton | 358 |
 | 188 | Kayla Thornton | 355 |
 | 188 | Merlakia Jones | 355 |
