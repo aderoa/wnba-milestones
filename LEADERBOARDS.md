@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-29 02:37 UTC_
+_Last updated: 2026-05-29 02:38 UTC_
 
 ## Contents
 
@@ -540,7 +540,7 @@ _Last updated: 2026-05-29 02:37 UTC_
 | 109 | Napheesa Collier | 570 |
 | 110 | Nicole Powell | 567 |
 | 111 | Loree Moore | 562 |
-| 112 | **Gabby Williams** 🔴 +1 | 555 |
+| 112 | **Gabby Williams** 🔴 +2 | 556 |
 | 113 | Sophia Young-Malcolm | 554 |
 | 113 | Tangela Smith | 554 |
 | 115 | Tamera Young | 552 |
@@ -1436,7 +1436,7 @@ _Last updated: 2026-05-29 02:37 UTC_
 | 184 | Alex Bentley | 313 |
 | 184 | **Gabby Williams** 🔴 | 313 |
 | 186 | Tamika Raymond | 311 |
-| 187 | **Caitlin Clark** 🔴 | 309 |
+| 187 | **Caitlin Clark** 🔴 +1 | 310 |
 | 188 | Erin Perperoglou | 305 |
 | 188 | Jennifer Lacy | 305 |
 | 190 | **Monique Billings** 🔴 | 304 |
