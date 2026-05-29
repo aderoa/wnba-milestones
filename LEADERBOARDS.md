@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-29 00:14 UTC_
+_Last updated: 2026-05-29 00:15 UTC_
 
 ## Contents
 
@@ -206,8 +206,8 @@ _Last updated: 2026-05-29 00:14 UTC_
 | 185 | Sandy Brondello | 1,759 |
 | 186 | Natisha Hiedeman | 1,751 |
 | 187 | Sugar Rodgers | 1,733 |
-| 188 | Moriah Jefferson | 1,722 |
-| 188 | **NaLyssa Smith** 🔴 | 1,722 |
+| 188 | **NaLyssa Smith** 🔴 +2 | 1,724 |
+| 189 | Moriah Jefferson | 1,722 |
 | 190 | Sophie Cunningham | 1,705 |
 | 191 | Armintie Herrington | 1,696 |
 | 192 | Nikki Teasley | 1,690 |
@@ -486,7 +486,7 @@ _Last updated: 2026-05-29 00:14 UTC_
 | 54 | Seimone Augustus | 911 |
 | 56 | Nneka Ogwumike | 904 |
 | 57 | Candice Dupree | 902 |
-| 58 | **Arike Ogunbowale** 🔴 +1 | 897 |
+| 58 | **Arike Ogunbowale** 🔴 +2 | 898 |
 | 59 | Maya Moore | 896 |
 | 60 | Ivory Latta | 885 |
 | 61 | Helen Darling | 882 |
@@ -523,7 +523,7 @@ _Last updated: 2026-05-29 00:14 UTC_
 | 92 | Asjha Jones | 637 |
 | 93 | Jennifer Azzi | 636 |
 | 94 | Brittney Griner | 635 |
-| 95 | **A'ja Wilson** 🔴 | 625 |
+| 95 | **A'ja Wilson** 🔴 +1 | 626 |
 | 96 | Sami Whitcomb | 623 |
 | 97 | Alysha Clark | 614 |
 | 98 | Debbie Black | 612 |
@@ -617,7 +617,7 @@ _Last updated: 2026-05-29 00:14 UTC_
 | 186 | Bridget Carleton | 358 |
 | 187 | Kayla Thornton | 355 |
 | 187 | Merlakia Jones | 355 |
-| 189 | **Jessica Shepard** 🔴 | 353 |
+| 189 | **Jessica Shepard** 🔴 +1 | 354 |
 | 190 | Charlotte Smith | 352 |
 | 190 | Ruthie Bolton | 352 |
 | 192 | Jantel Lavender | 350 |
