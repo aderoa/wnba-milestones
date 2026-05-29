@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-29 03:57 UTC_
+_Last updated: 2026-05-29 03:58 UTC_
 
 ## Contents
 
@@ -212,7 +212,7 @@ _Last updated: 2026-05-29 03:57 UTC_
 | 191 | Armintie Herrington | 1,696 |
 | 192 | Nikki Teasley | 1,690 |
 | 193 | Shenise Johnson | 1,688 |
-| 194 | **Gabby Williams** 🔴 +12 | 1,646 |
+| 194 | **Gabby Williams** 🔴 +14 | 1,648 |
 | 195 | Janell Burse | 1,580 |
 | 196 | Le'coe Willingham | 1,552 |
 | 197 | Shatori Walker-Kimbrough | 1,544 |
@@ -401,7 +401,7 @@ _Last updated: 2026-05-29 03:57 UTC_
 | 175 | Sue Wicks | 780 |
 | 176 | Lindsey Harding | 779 |
 | 177 | Tiffani Johnson | 778 |
-| 178 | **Gabby Williams** 🔴 +2 | 776 |
+| 178 | **Gabby Williams** 🔴 +3 | 777 |
 | 179 | Teresa Weatherspoon | 775 |
 | 180 | Anna DeForge | 769 |
 | 180 | Kelsey Bone | 769 |
@@ -660,7 +660,7 @@ _Last updated: 2026-05-29 03:57 UTC_
 | 23 | Diana Taurasi | 349 |
 | 23 | Elena Delle Donne | 349 |
 | 26 | DeLisha Milton-Jones | 339 |
-| 27 | **Kiah Stokes** 🔴 +2 | 326 |
+| 27 | **Kiah Stokes** 🔴 +3 | 327 |
 | 28 | Yolanda Griffith | 323 |
 | 29 | Elena Baranova | 320 |
 | 30 | Candice Dupree | 316 |
