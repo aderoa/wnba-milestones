@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-29 01:54 UTC_
+_Last updated: 2026-05-29 01:55 UTC_
 
 ## Contents
 
@@ -206,7 +206,7 @@ _Last updated: 2026-05-29 01:54 UTC_
 | 185 | Sandy Brondello | 1,759 |
 | 186 | Natisha Hiedeman | 1,751 |
 | 187 | Sugar Rodgers | 1,733 |
-| 188 | **NaLyssa Smith** 🔴 +6 | 1,728 |
+| 188 | **NaLyssa Smith** 🔴 +8 | 1,730 |
 | 189 | Moriah Jefferson | 1,722 |
 | 190 | Sophie Cunningham | 1,705 |
 | 191 | Armintie Herrington | 1,696 |
@@ -379,7 +379,7 @@ _Last updated: 2026-05-29 01:54 UTC_
 | 153 | Krystal Thomas | 862 |
 | 154 | Angel Reese | 861 |
 | 155 | Erica Wheeler | 858 |
-| 156 | **Jessica Shepard** 🔴 +17 | 853 |
+| 156 | **Jessica Shepard** 🔴 +19 | 855 |
 | 157 | Alanna Smith | 847 |
 | 158 | Leilani Mitchell | 845 |
 | 159 | Essence Carson | 833 |
@@ -610,11 +610,11 @@ _Last updated: 2026-05-29 01:54 UTC_
 | 179 | Suzie McConnell Serio | 370 |
 | 180 | Damiris Dantas | 368 |
 | 181 | Alanna Smith | 365 |
-| 182 | Roneeka Hodges | 362 |
-| 183 | Andrea Nagy | 361 |
-| 183 | Diamond DeShields | 361 |
-| 183 | Erlana Larkins | 361 |
-| 183 | **Jessica Shepard** 🔴 +8 | 361 |
+| 182 | **Jessica Shepard** 🔴 +10 | 363 |
+| 183 | Roneeka Hodges | 362 |
+| 184 | Andrea Nagy | 361 |
+| 184 | Diamond DeShields | 361 |
+| 184 | Erlana Larkins | 361 |
 | 187 | Bridget Carleton | 358 |
 | 188 | Kayla Thornton | 355 |
 | 188 | Merlakia Jones | 355 |
