@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-29 01:31 UTC_
+_Last updated: 2026-05-29 01:32 UTC_
 
 ## Contents
 
@@ -122,7 +122,7 @@ _Last updated: 2026-05-29 01:31 UTC_
 | 100 | Natasha Cloud | 2,888 |
 | 102 | Iziane Castro Marques | 2,862 |
 | 103 | Elizabeth Williams | 2,856 |
-| 104 | **Alysha Clark** 🔴 | 2,792 |
+| 104 | **Alysha Clark** 🔴 +1 | 2,793 |
 | 105 | Jantel Lavender | 2,775 |
 | 106 | Brionna Jones | 2,765 |
 | 107 | Dominique Canty | 2,763 |
@@ -379,7 +379,7 @@ _Last updated: 2026-05-29 01:31 UTC_
 | 153 | Krystal Thomas | 862 |
 | 154 | Angel Reese | 861 |
 | 155 | Erica Wheeler | 858 |
-| 156 | **Jessica Shepard** 🔴 +12 | 848 |
+| 156 | **Jessica Shepard** 🔴 +13 | 849 |
 | 157 | Alanna Smith | 847 |
 | 158 | Leilani Mitchell | 845 |
 | 159 | Essence Carson | 833 |
@@ -1610,8 +1610,8 @@ _Last updated: 2026-05-29 01:31 UTC_
 | 153 | Sheryl Swoopes | 519 |
 | 154 | Nikki McCray | 517 |
 | 155 | Alex Bentley | 516 |
-| 156 | **Jackie Young** 🔴 +1 | 515 |
-| 156 | Kayla McBride | 515 |
+| 155 | **Jackie Young** 🔴 +2 | 516 |
+| 157 | Kayla McBride | 515 |
 | 158 | Jantel Lavender | 513 |
 | 159 | Adrienne Goodson | 512 |
 | 159 | Janeth Arcain | 512 |
