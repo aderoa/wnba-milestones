@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-29 03:21 UTC_
+_Last updated: 2026-05-29 03:22 UTC_
 
 ## Contents
 
@@ -50,7 +50,7 @@ _Last updated: 2026-05-29 03:21 UTC_
 | 29 | Taj McWilliams-Franklin | 4,992 |
 | 30 | Maya Moore | 4,984 |
 | 31 | **Tiffany Hayes** 🔴 | 4,927 |
-| 32 | **Kelsey Mitchell** 🔴 +7 | 4,914 |
+| 32 | **Kelsey Mitchell** 🔴 +10 | 4,917 |
 | 33 | Sheryl Swoopes | 4,875 |
 | 34 | Alana Beard | 4,740 |
 | 35 | Chamique Holdsclaw | 4,713 |
@@ -1052,7 +1052,7 @@ _Last updated: 2026-05-29 03:21 UTC_
 | 5 | Tina Thompson | 745 |
 | 6 | Kayla McBride | 728 |
 | 7 | Katie Douglas | 723 |
-| 8 | **Kelsey Mitchell** 🔴 +1 | 680 |
+| 8 | **Kelsey Mitchell** 🔴 +2 | 681 |
 | 9 | Jewell Loyd | 675 |
 | 10 | DeWanna Bonner | 668 |
 | 11 | Kristi Toliver | 651 |
@@ -1616,8 +1616,8 @@ _Last updated: 2026-05-29 03:21 UTC_
 | 158 | **Sophie Cunningham** 🔴 +1 | 513 |
 | 160 | Adrienne Goodson | 512 |
 | 160 | Janeth Arcain | 512 |
-| 162 | Andrea Stinson | 511 |
-| 162 | **Monique Billings** 🔴 +1 | 511 |
+| 160 | **Monique Billings** 🔴 +2 | 512 |
+| 163 | Andrea Stinson | 511 |
 | 164 | Vicky Bullett | 507 |
 | 165 | Merlakia Jones | 506 |
 | 166 | Rushia Brown | 505 |
