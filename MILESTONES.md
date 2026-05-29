@@ -2,6 +2,11 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-29 04:06 UTC
+
+- **Aliyah Boston** passed **Riquna Williams** for **#173** all-time in assists (career 388) — up from #174 entering today — _3:11 - 4th — IND @ GS_
+- **Gabby Williams** passed **Tiffani Johnson** for **#177** all-time in rebounds (career 779) — up from #179 entering today — _3:11 - 4th — IND @ GS_
+
 ## 2026-05-29 01:16 UTC
 
 - **Jackie Young** passed **Sancho Lyttle** for **#75** all-time in points (career 3,479) — up from #76 entering today — _9:10 - 3rd — LV @ DAL_

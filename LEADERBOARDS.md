@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-29 04:05 UTC_
+_Last updated: 2026-05-29 04:06 UTC_
 
 ## Contents
 
@@ -193,7 +193,7 @@ _Last updated: 2026-05-29 04:05 UTC_
 | 172 | Ebony Hoffman | 1,909 |
 | 173 | Candice Wiggins | 1,901 |
 | 174 | **Myisha Hines-Allen** 🔴 +2 | 1,897 |
-| 175 | **Aliyah Boston** 🔴 +11 | 1,845 |
+| 175 | **Aliyah Boston** 🔴 +13 | 1,847 |
 | 176 | Isabelle Harrison | 1,832 |
 | 177 | Damiris Dantas | 1,830 |
 | 178 | Tianna Hawkins | 1,825 |
@@ -342,7 +342,7 @@ _Last updated: 2026-05-29 04:05 UTC_
 | 116 | NaLyssa Smith | 1,093 |
 | 116 | Natasha Cloud | 1,093 |
 | 118 | Svetlana Abrosimova | 1,078 |
-| 119 | **Aliyah Boston** 🔴 +3 | 1,069 |
+| 119 | **Aliyah Boston** 🔴 +5 | 1,071 |
 | 120 | Le'coe Willingham | 1,054 |
 | 121 | Isabelle Harrison | 1,049 |
 | 122 | Nicole Ohlde | 1,040 |
@@ -399,9 +399,9 @@ _Last updated: 2026-05-29 04:05 UTC_
 | 173 | Mercedes Russell | 786 |
 | 174 | Odyssey Sims | 781 |
 | 175 | Sue Wicks | 780 |
+| 176 | **Gabby Williams** 🔴 +5 | 779 |
 | 176 | Lindsey Harding | 779 |
-| 177 | **Gabby Williams** 🔴 +4 | 778 |
-| 177 | Tiffani Johnson | 778 |
+| 178 | Tiffani Johnson | 778 |
 | 179 | Teresa Weatherspoon | 775 |
 | 180 | Anna DeForge | 769 |
 | 180 | Kelsey Bone | 769 |
@@ -601,8 +601,8 @@ _Last updated: 2026-05-29 04:05 UTC_
 | 170 | Sugar Rodgers | 393 |
 | 171 | Shameka Christon | 389 |
 | 171 | Tamicha Jackson | 389 |
-| 173 | **Aliyah Boston** 🔴 +3 | 387 |
-| 173 | Riquna Williams | 387 |
+| 173 | **Aliyah Boston** 🔴 +4 | 388 |
+| 174 | Riquna Williams | 387 |
 | 175 | Stephanie Talbot | 380 |
 | 176 | Dana Evans | 379 |
 | 177 | Jessica Breland | 377 |
@@ -1174,8 +1174,8 @@ _Last updated: 2026-05-29 04:05 UTC_
 | 127 | Amanda Lassiter | 170 |
 | 128 | Shavonte Zellous | 167 |
 | 128 | Tianna Hawkins | 167 |
-| 130 | **Caitlin Clark** 🔴 +1 | 164 |
-| 130 | Charlotte Smith | 164 |
+| 130 | **Caitlin Clark** 🔴 +2 | 165 |
+| 131 | Charlotte Smith | 164 |
 | 132 | Ukari Figgs | 162 |
 | 133 | Edna Campbell | 161 |
 | 133 | Tyasha Harris | 161 |
