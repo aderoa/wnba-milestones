@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-29 23:46 UTC_
+_Last updated: 2026-05-29 23:47 UTC_
 
 ## Contents
 
@@ -153,7 +153,7 @@ _Last updated: 2026-05-29 23:46 UTC_
 | 132 | Merlakia Jones | 2,308 |
 | 133 | Kia Vaughn | 2,288 |
 | 134 | Kayla Thornton | 2,267 |
-| 135 | Betnijah Laney-Hamilton | 2,261 |
+| 135 | **Betnijah Laney-Hamilton** 🔴 | 2,261 |
 | 136 | Allison Feaster | 2,258 |
 | 137 | Shekinna Stricklen | 2,245 |
 | 138 | Kara Braxton | 2,237 |
@@ -322,7 +322,7 @@ _Last updated: 2026-05-29 23:46 UTC_
 | 96 | Myisha Hines-Allen | 1,224 |
 | 97 | Jia Perkins | 1,220 |
 | 98 | Chelsea Gray | 1,210 |
-| 99 | **Kayla McBride** 🔴 | 1,201 |
+| 99 | **Kayla McBride** 🔴 +1 | 1,202 |
 | 100 | DeMya Walker | 1,199 |
 | 101 | Latasha Byears | 1,190 |
 | 101 | Tanisha Wright | 1,190 |
@@ -362,7 +362,7 @@ _Last updated: 2026-05-29 23:46 UTC_
 | 136 | Danielle Robinson | 988 |
 | 137 | Shavonte Zellous | 978 |
 | 138 | Kara Lawson | 976 |
-| 139 | **Skylar Diggins** 🔴 +2 | 975 |
+| 138 | **Skylar Diggins** 🔴 +3 | 976 |
 | 140 | Jennifer Gillom | 964 |
 | 141 | Dominique Canty | 961 |
 | 142 | Armintie Herrington | 960 |
@@ -393,7 +393,7 @@ _Last updated: 2026-05-29 23:46 UTC_
 | 167 | Carolyn Swords | 814 |
 | 168 | Tierra Ruffin-Pratt | 799 |
 | 169 | Charlotte Smith | 794 |
-| 170 | Betnijah Laney-Hamilton | 792 |
+| 170 | **Betnijah Laney-Hamilton** 🔴 | 792 |
 | 171 | Naz Hillmon | 788 |
 | 171 | Rhonda Mapp | 788 |
 | 173 | Mercedes Russell | 786 |
@@ -435,7 +435,7 @@ _Last updated: 2026-05-29 23:46 UTC_
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
 | 6 | Chelsea Gray | 1,903 |
-| 7 | **Alyssa Thomas** 🔴 +2 | 1,856 |
+| 7 | **Alyssa Thomas** 🔴 +3 | 1,857 |
 | 8 | **Skylar Diggins** 🔴 | 1,785 |
 | 9 | **Natasha Cloud** 🔴 | 1,747 |
 | 10 | Becky Hammon | 1,705 |
@@ -533,7 +533,7 @@ _Last updated: 2026-05-29 23:46 UTC_
 | 102 | Sancho Lyttle | 592 |
 | 103 | Camille Smith | 590 |
 | 104 | Armintie Herrington | 589 |
-| 105 | Betnijah Laney-Hamilton | 578 |
+| 105 | **Betnijah Laney-Hamilton** 🔴 | 578 |
 | 105 | Tan White | 578 |
 | 107 | Matee Ajavon | 577 |
 | 107 | **Natasha Howard** 🔴 | 577 |
@@ -874,8 +874,8 @@ _Last updated: 2026-05-29 23:46 UTC_
 | 33 | **Skylar Diggins** 🔴 | 448 |
 | 34 | Jewell Loyd | 445 |
 | 35 | Chelsea Gray | 439 |
-| 36 | **Natasha Howard** 🔴 | 438 |
-| 36 | Sheri Sam | 438 |
+| 35 | **Natasha Howard** 🔴 +1 | 439 |
+| 37 | Sheri Sam | 438 |
 | 38 | Camille Smith | 437 |
 | 39 | Candice Dupree | 431 |
 | 40 | Epiphanny Prince | 429 |
@@ -1007,7 +1007,7 @@ _Last updated: 2026-05-29 23:46 UTC_
 | 165 | Murriel Page | 204 |
 | 165 | Shatori Walker-Kimbrough | 204 |
 | 168 | Adrienne Goodson | 203 |
-| 168 | Betnijah Laney-Hamilton | 203 |
+| 168 | **Betnijah Laney-Hamilton** 🔴 | 203 |
 | 170 | **Azurá Stevens** 🔴 | 201 |
 | 171 | Allie Quigley | 198 |
 | 172 | Layshia Clarendon | 195 |
@@ -1152,7 +1152,7 @@ _Last updated: 2026-05-29 23:46 UTC_
 | 105 | Damiris Dantas | 211 |
 | 105 | Erin Phillips | 211 |
 | 107 | Andrea Stinson | 207 |
-| 108 | Betnijah Laney-Hamilton | 201 |
+| 108 | **Betnijah Laney-Hamilton** 🔴 | 201 |
 | 109 | Lexie Brown | 200 |
 | 110 | Shanna Zolman | 199 |
 | 111 | Temeka Johnson | 197 |
@@ -1373,10 +1373,10 @@ _Last updated: 2026-05-29 23:46 UTC_
 | 121 | A'ja Wilson | 454 |
 | 121 | Kia Vaughn | 454 |
 | 123 | Janeth Arcain | 453 |
+| 124 | **Ariel Atkins** 🔴 +2 | 444 |
 | 124 | Elena Baranova | 444 |
 | 124 | Jantel Lavender | 444 |
-| 126 | **Ariel Atkins** 🔴 | 442 |
-| 127 | Betnijah Laney-Hamilton | 441 |
+| 127 | **Betnijah Laney-Hamilton** 🔴 | 441 |
 | 128 | Ann Wauters | 440 |
 | 129 | Cheyenne Parker-Tyus | 439 |
 | 129 | Tiffany Mitchell | 439 |
@@ -1402,8 +1402,8 @@ _Last updated: 2026-05-29 23:46 UTC_
 | 150 | Marissa Coleman | 396 |
 | 151 | Sophia Witherspoon | 386 |
 | 152 | Hamchetou Maiga-Ba | 385 |
-| 153 | **Elizabeth Williams** 🔴 +1 | 381 |
 | 153 | Kamila Vodichkova | 381 |
+| 154 | **Elizabeth Williams** 🔴 | 380 |
 | 155 | Jessica Breland | 378 |
 | 156 | Armintie Herrington | 377 |
 | 157 | Anna DeForge | 374 |
