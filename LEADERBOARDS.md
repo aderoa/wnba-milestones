@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-29 23:34 UTC_
+_Last updated: 2026-05-29 23:35 UTC_
 
 ## Contents
 
@@ -42,7 +42,7 @@ _Last updated: 2026-05-29 23:34 UTC_
 | 21 | Angel McCoughtry | 5,797 |
 | 22 | DeLisha Milton-Jones | 5,571 |
 | 23 | Katie Douglas | 5,545 |
-| 24 | **Skylar Diggins** 🔴 | 5,525 |
+| 24 | **Skylar Diggins** 🔴 +2 | 5,527 |
 | 25 | Lindsay Whalen | 5,511 |
 | 26 | **Kayla McBride** 🔴 | 5,454 |
 | 27 | Swin Cash | 5,119 |
@@ -236,7 +236,7 @@ _Last updated: 2026-05-29 23:34 UTC_
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | **Alyssa Thomas** 🔴 | 2,770 |
-| 13 | **Jonquel Jones** 🔴 | 2,599 |
+| 13 | **Jonquel Jones** 🔴 +1 | 2,600 |
 | 14 | Sancho Lyttle | 2,596 |
 | 15 | DeLisha Milton-Jones | 2,574 |
 | 16 | Brittney Griner | 2,537 |
@@ -247,7 +247,7 @@ _Last updated: 2026-05-29 23:34 UTC_
 | 21 | Crystal Langhorne | 2,454 |
 | 22 | Lauren Jackson | 2,444 |
 | 23 | Yolanda Griffith | 2,440 |
-| 24 | **Dearica Hamby** 🔴 | 2,346 |
+| 24 | **Dearica Hamby** 🔴 +1 | 2,347 |
 | 25 | Tangela Smith | 2,328 |
 | 26 | Erika de Souza | 2,220 |
 | 27 | **Natasha Howard** 🔴 | 2,204 |
@@ -418,7 +418,7 @@ _Last updated: 2026-05-29 23:34 UTC_
 | 192 | Sami Whitcomb | 726 |
 | 192 | Shekinna Stricklen | 726 |
 | 194 | Kelsey Plum | 721 |
-| 195 | **Shakira Austin** 🔴 | 719 |
+| 194 | **Shakira Austin** 🔴 +2 | 721 |
 | 196 | Olympia Scott | 711 |
 | 197 | Katie Mattera | 708 |
 | 198 | Rushia Brown | 706 |
@@ -452,7 +452,7 @@ _Last updated: 2026-05-29 23:34 UTC_
 | 21 | Dawn Staley | 1,337 |
 | 22 | Teresa Weatherspoon | 1,333 |
 | 23 | Kristi Toliver | 1,301 |
-| 24 | **Erica Wheeler** 🔴 | 1,275 |
+| 24 | **Erica Wheeler** 🔴 +1 | 1,276 |
 | 25 | Katie Smith | 1,258 |
 | 26 | Kelsey Plum | 1,215 |
 | 27 | Odyssey Sims | 1,210 |
@@ -1272,7 +1272,7 @@ _Last updated: 2026-05-29 23:34 UTC_
 | 20 | Shannon Johnson | 934 |
 | 21 | Taj McWilliams-Franklin | 898 |
 | 22 | Chelsea Gray | 888 |
-| 23 | **Skylar Diggins** 🔴 | 881 |
+| 23 | **Skylar Diggins** 🔴 +1 | 882 |
 | 24 | Candice Dupree | 869 |
 | 25 | Alana Beard | 854 |
 | 26 | DeWanna Bonner | 830 |
@@ -1326,7 +1326,7 @@ _Last updated: 2026-05-29 23:34 UTC_
 | 74 | Lindsey Harding | 600 |
 | 74 | Tamika Whitmore | 600 |
 | 76 | Kelly Miller | 596 |
-| 77 | **Kahleah Copper** 🔴 | 590 |
+| 77 | **Kahleah Copper** 🔴 +1 | 591 |
 | 78 | Stefanie Dolson | 581 |
 | 79 | Helen Darling | 575 |
 | 79 | Nykesha Sales | 575 |
@@ -1529,7 +1529,7 @@ _Last updated: 2026-05-29 23:34 UTC_
 | 72 | Becky Hammon | 733 |
 | 73 | **Natasha Cloud** 🔴 | 731 |
 | 74 | Latasha Byears | 730 |
-| 75 | **Kahleah Copper** 🔴 | 723 |
+| 75 | **Kahleah Copper** 🔴 +1 | 724 |
 | 76 | Kristi Toliver | 722 |
 | 77 | Allisha Gray | 714 |
 | 78 | Cheryl Ford | 713 |
