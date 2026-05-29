@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-29 23:35 UTC_
+_Last updated: 2026-05-29 23:36 UTC_
 
 ## Contents
 
@@ -23,8 +23,8 @@ _Last updated: 2026-05-29 23:35 UTC_
 | 2 | Tina Charles | 8,396 |
 | 3 | DeWanna Bonner | 7,847 |
 | 4 | Tina Thompson | 7,470 |
-| 5 | **Nneka Ogwumike** 🔴 | 7,371 |
-| 5 | Tamika Catchings | 7,371 |
+| 5 | **Nneka Ogwumike** 🔴 +2 | 7,373 |
+| 6 | Tamika Catchings | 7,371 |
 | 7 | Candice Dupree | 6,861 |
 | 8 | Sue Bird | 6,802 |
 | 9 | Cappie Pondexter | 6,781 |
@@ -75,7 +75,7 @@ _Last updated: 2026-05-29 23:35 UTC_
 | 54 | **Kahleah Copper** 🔴 | 4,154 |
 | 55 | Rebekkah Brunson | 4,133 |
 | 56 | **Jonquel Jones** 🔴 | 4,132 |
-| 57 | **Courtney Williams** 🔴 | 4,124 |
+| 57 | **Courtney Williams** 🔴 +2 | 4,126 |
 | 58 | Asjha Jones | 3,986 |
 | 59 | Deanna Nolan | 3,971 |
 | 60 | Nykesha Sales | 3,931 |
@@ -230,7 +230,7 @@ _Last updated: 2026-05-29 23:35 UTC_
 | 4 | Rebekkah Brunson | 3,345 |
 | 5 | Tamika Catchings | 3,313 |
 | 6 | Lisa Leslie | 3,303 |
-| 7 | **Nneka Ogwumike** 🔴 | 3,295 |
+| 7 | **Nneka Ogwumike** 🔴 +1 | 3,296 |
 | 8 | DeWanna Bonner | 3,232 |
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
@@ -881,7 +881,7 @@ _Last updated: 2026-05-29 23:35 UTC_
 | 40 | Epiphanny Prince | 429 |
 | 41 | Tanisha Wright | 427 |
 | 42 | **Kayla McBride** 🔴 | 425 |
-| 43 | **Breanna Stewart** 🔴 | 415 |
+| 43 | **Breanna Stewart** 🔴 +1 | 416 |
 | 44 | Katie Smith | 408 |
 | 45 | Cappie Pondexter | 405 |
 | 46 | Nicole Powell | 401 |
@@ -1263,7 +1263,7 @@ _Last updated: 2026-05-29 23:35 UTC_
 | 11 | Tamika Catchings | 1,041 |
 | 12 | Tina Charles | 1,040 |
 | 13 | Lindsay Whalen | 1,002 |
-| 14 | **Alyssa Thomas** 🔴 | 980 |
+| 14 | **Alyssa Thomas** 🔴 +1 | 981 |
 | 15 | Sylvia Fowles | 961 |
 | 16 | Tanisha Wright | 954 |
 | 17 | Angel McCoughtry | 949 |
@@ -1335,8 +1335,8 @@ _Last updated: 2026-05-29 23:35 UTC_
 | 83 | Brittney Sykes | 568 |
 | 84 | Nikki McCray | 565 |
 | 85 | Sancho Lyttle | 563 |
-| 86 | **Breanna Stewart** 🔴 | 557 |
-| 86 | Tan White | 557 |
+| 86 | **Breanna Stewart** 🔴 +1 | 558 |
+| 87 | Tan White | 557 |
 | 88 | Kelsey Mitchell | 556 |
 | 89 | Lauren Jackson | 549 |
 | 90 | Matee Ajavon | 544 |
@@ -1591,7 +1591,7 @@ _Last updated: 2026-05-29 23:35 UTC_
 | 134 | Ivory Latta | 565 |
 | 135 | Barbara Farris | 563 |
 | 136 | Jessica Breland | 562 |
-| 137 | **Courtney Williams** 🔴 | 560 |
+| 137 | **Courtney Williams** 🔴 +1 | 561 |
 | 138 | Dawn Staley | 551 |
 | 139 | Glory Johnson | 550 |
 | 139 | Tierra Ruffin-Pratt | 550 |
