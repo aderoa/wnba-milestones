@@ -44,7 +44,7 @@ _Last updated: 2026-05-29 23:50 UTC_
 | 23 | Katie Douglas | 5,545 |
 | 24 | **Skylar Diggins** 🔴 +4 | 5,529 |
 | 25 | Lindsay Whalen | 5,511 |
-| 26 | **Kayla McBride** 🔴 +2 | 5,456 |
+| 26 | **Kayla McBride** 🔴 +3 | 5,457 |
 | 27 | Swin Cash | 5,119 |
 | 28 | Tangela Smith | 5,035 |
 | 29 | Taj McWilliams-Franklin | 4,992 |
@@ -1373,9 +1373,9 @@ _Last updated: 2026-05-29 23:50 UTC_
 | 121 | A'ja Wilson | 454 |
 | 121 | Kia Vaughn | 454 |
 | 123 | Janeth Arcain | 453 |
-| 124 | **Ariel Atkins** 🔴 +2 | 444 |
 | 124 | Elena Baranova | 444 |
 | 124 | Jantel Lavender | 444 |
+| 126 | **Ariel Atkins** 🔴 +1 | 443 |
 | 127 | **Betnijah Laney-Hamilton** 🔴 | 441 |
 | 128 | Ann Wauters | 440 |
 | 129 | Cheyenne Parker-Tyus | 439 |
@@ -1445,9 +1445,9 @@ _Last updated: 2026-05-29 23:50 UTC_
 | 193 | Crystal Robinson | 299 |
 | 194 | Michele Timms | 297 |
 | 195 | Kayla Thornton | 289 |
-| 196 | Alexis Hornbuckle | 288 |
-| 196 | Kristen Rasmussen | 288 |
-| 196 | **Rachel Banham** 🔴 | 288 |
+| 195 | **Rachel Banham** 🔴 +1 | 289 |
+| 197 | Alexis Hornbuckle | 288 |
+| 197 | Kristen Rasmussen | 288 |
 | 199 | **Azurá Stevens** 🔴 | 286 |
 | 199 | Damiris Dantas | 286 |
 
@@ -1640,7 +1640,7 @@ _Last updated: 2026-05-29 23:50 UTC_
 | 183 | Liz Cambage | 483 |
 | 183 | Rhonda Mapp | 483 |
 | 185 | Sami Whitcomb | 480 |
-| 186 | **Rachel Banham** 🔴 | 478 |
+| 186 | **Rachel Banham** 🔴 +1 | 479 |
 | 187 | Seimone Augustus | 477 |
 | 188 | Allie Quigley | 475 |
 | 189 | Kia Nurse | 467 |
