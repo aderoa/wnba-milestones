@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-29 23:43 UTC_
+_Last updated: 2026-05-29 23:44 UTC_
 
 ## Contents
 
@@ -825,7 +825,7 @@ _Last updated: 2026-05-29 23:43 UTC_
 | 188 | Wendy Palmer | 70 |
 | 190 | Mercedes Russell | 69 |
 | 190 | Rhonda Mapp | 69 |
-| 192 | Cameron Brink | 67 |
+| 192 | **Cameron Brink** 🔴 | 67 |
 | 192 | Jackie Young | 67 |
 | 192 | **Satou Sabally** 🔴 | 67 |
 | 192 | Shannon Johnson | 67 |
