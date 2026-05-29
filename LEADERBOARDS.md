@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-29 04:19 UTC_
+_Last updated: 2026-05-29 04:20 UTC_
 
 ## Contents
 
@@ -1578,7 +1578,7 @@ _Last updated: 2026-05-29 04:19 UTC_
 | 120 | Tiffany Mitchell | 604 |
 | 122 | Janel McCarville | 597 |
 | 123 | Kamila Vodichkova | 596 |
-| 124 | **Kelsey Mitchell** 🔴 +4 | 595 |
+| 123 | **Kelsey Mitchell** 🔴 +5 | 596 |
 | 125 | Teresa Weatherspoon | 589 |
 | 126 | Emma Meesseman | 585 |
 | 127 | Chiney Ogwumike | 580 |
