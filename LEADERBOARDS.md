@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-29 23:45 UTC_
+_Last updated: 2026-05-29 23:46 UTC_
 
 ## Contents
 
@@ -21,9 +21,9 @@ _Last updated: 2026-05-29 23:45 UTC_
 |-----:|--------|------:|
 | 1 | Diana Taurasi | 10,608 |
 | 2 | Tina Charles | 8,396 |
-| 3 | DeWanna Bonner | 7,847 |
+| 3 | **DeWanna Bonner** 🔴 | 7,847 |
 | 4 | Tina Thompson | 7,470 |
-| 5 | **Nneka Ogwumike** 🔴 +2 | 7,373 |
+| 5 | **Nneka Ogwumike** 🔴 +4 | 7,375 |
 | 6 | Tamika Catchings | 7,371 |
 | 7 | Candice Dupree | 6,861 |
 | 8 | Sue Bird | 6,802 |
@@ -230,8 +230,8 @@ _Last updated: 2026-05-29 23:45 UTC_
 | 4 | Rebekkah Brunson | 3,345 |
 | 5 | Tamika Catchings | 3,313 |
 | 6 | Lisa Leslie | 3,303 |
-| 7 | **Nneka Ogwumike** 🔴 +2 | 3,297 |
-| 8 | DeWanna Bonner | 3,232 |
+| 7 | **Nneka Ogwumike** 🔴 +3 | 3,298 |
+| 8 | **DeWanna Bonner** 🔴 | 3,232 |
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
@@ -250,13 +250,13 @@ _Last updated: 2026-05-29 23:45 UTC_
 | 24 | **Dearica Hamby** 🔴 +1 | 2,347 |
 | 25 | Tangela Smith | 2,328 |
 | 26 | Erika de Souza | 2,220 |
-| 27 | **Natasha Howard** 🔴 +1 | 2,205 |
+| 27 | **Natasha Howard** 🔴 +2 | 2,206 |
 | 28 | Diana Taurasi | 2,201 |
 | 29 | Margo Dydek | 2,138 |
 | 30 | Chamique Holdsclaw | 2,123 |
 | 31 | Chasity Melvin | 2,097 |
 | 32 | Tammy Sutton-Brown | 2,010 |
-| 33 | **Elizabeth Williams** 🔴 +2 | 1,925 |
+| 33 | **Elizabeth Williams** 🔴 +3 | 1,926 |
 | 34 | Cheryl Ford | 1,907 |
 | 35 | Plenette Pierson | 1,834 |
 | 36 | Natalie Williams | 1,832 |
@@ -458,7 +458,7 @@ _Last updated: 2026-05-29 23:45 UTC_
 | 27 | Odyssey Sims | 1,210 |
 | 28 | Vickie Johnson | 1,202 |
 | 29 | Leilani Mitchell | 1,197 |
-| 30 | DeWanna Bonner | 1,183 |
+| 30 | **DeWanna Bonner** 🔴 | 1,183 |
 | 31 | Jordin Canada | 1,155 |
 | 32 | Jewell Loyd | 1,141 |
 | 33 | Renee Montgomery | 1,140 |
@@ -656,7 +656,7 @@ _Last updated: 2026-05-29 23:45 UTC_
 | 20 | Jessica Breland | 367 |
 | 21 | **Natasha Howard** 🔴 +1 | 361 |
 | 22 | Ezi Magbegor | 354 |
-| 23 | DeWanna Bonner | 349 |
+| 23 | **DeWanna Bonner** 🔴 | 349 |
 | 23 | Diana Taurasi | 349 |
 | 23 | Elena Delle Donne | 349 |
 | 26 | DeLisha Milton-Jones | 339 |
@@ -846,7 +846,7 @@ _Last updated: 2026-05-29 23:45 UTC_
 | 5 | **Nneka Ogwumike** 🔴 | 673 |
 | 6 | Sheryl Swoopes | 657 |
 | 7 | Jia Perkins | 634 |
-| 8 | DeWanna Bonner | 633 |
+| 8 | **DeWanna Bonner** 🔴 | 633 |
 | 9 | Sancho Lyttle | 630 |
 | 10 | Angel McCoughtry | 627 |
 | 11 | Katie Douglas | 623 |
@@ -1054,7 +1054,7 @@ _Last updated: 2026-05-29 23:45 UTC_
 | 7 | Katie Douglas | 723 |
 | 8 | Kelsey Mitchell | 679 |
 | 9 | Jewell Loyd | 673 |
-| 10 | DeWanna Bonner | 668 |
+| 10 | **DeWanna Bonner** 🔴 | 668 |
 | 11 | Kristi Toliver | 651 |
 | 12 | Tamika Catchings | 605 |
 | 13 | Kelsey Plum | 598 |
@@ -1275,9 +1275,9 @@ _Last updated: 2026-05-29 23:45 UTC_
 | 23 | **Skylar Diggins** 🔴 +2 | 883 |
 | 24 | Candice Dupree | 869 |
 | 25 | Alana Beard | 854 |
-| 26 | DeWanna Bonner | 830 |
+| 26 | **DeWanna Bonner** 🔴 | 830 |
 | 27 | Katie Douglas | 824 |
-| 28 | **Natasha Howard** 🔴 | 804 |
+| 28 | **Natasha Howard** 🔴 +1 | 805 |
 | 29 | Betty Lennox | 800 |
 | 30 | Jasmine Thomas | 796 |
 | 31 | **Nneka Ogwumike** 🔴 +1 | 792 |
@@ -1402,8 +1402,8 @@ _Last updated: 2026-05-29 23:45 UTC_
 | 150 | Marissa Coleman | 396 |
 | 151 | Sophia Witherspoon | 386 |
 | 152 | Hamchetou Maiga-Ba | 385 |
+| 153 | **Elizabeth Williams** 🔴 +1 | 381 |
 | 153 | Kamila Vodichkova | 381 |
-| 154 | **Elizabeth Williams** 🔴 | 380 |
 | 155 | Jessica Breland | 378 |
 | 156 | Armintie Herrington | 377 |
 | 157 | Anna DeForge | 374 |
@@ -1495,7 +1495,7 @@ _Last updated: 2026-05-29 23:45 UTC_
 | 38 | Briann January | 921 |
 | 39 | Ticha Penicheiro | 913 |
 | 40 | Shavonte Zellous | 907 |
-| 41 | DeWanna Bonner | 899 |
+| 41 | **DeWanna Bonner** 🔴 | 899 |
 | 42 | Alysha Clark | 887 |
 | 43 | DeMya Walker | 882 |
 | 44 | Candice Dupree | 876 |
