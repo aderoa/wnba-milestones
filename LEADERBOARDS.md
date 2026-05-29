@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-29 03:59 UTC_
+_Last updated: 2026-05-29 04:00 UTC_
 
 ## Contents
 
@@ -933,8 +933,8 @@ _Last updated: 2026-05-29 03:59 UTC_
 | 90 | Debbie Black | 315 |
 | 93 | Crystal Langhorne | 314 |
 | 94 | Ebony Hoffman | 308 |
+| 95 | **Gabby Williams** 🔴 +3 | 305 |
 | 95 | Tamera Young | 305 |
-| 96 | **Gabby Williams** 🔴 +2 | 304 |
 | 97 | Kedra Holland-Corn | 301 |
 | 98 | Lindsey Harding | 295 |
 | 99 | Janel McCarville | 294 |
