@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-29 23:40 UTC_
+_Last updated: 2026-05-29 23:41 UTC_
 
 ## Contents
 
@@ -362,7 +362,7 @@ _Last updated: 2026-05-29 23:40 UTC_
 | 136 | Danielle Robinson | 988 |
 | 137 | Shavonte Zellous | 978 |
 | 138 | Kara Lawson | 976 |
-| 139 | **Skylar Diggins** 🔴 +1 | 974 |
+| 139 | **Skylar Diggins** 🔴 +2 | 975 |
 | 140 | Jennifer Gillom | 964 |
 | 141 | Dominique Canty | 961 |
 | 142 | Armintie Herrington | 960 |
@@ -370,7 +370,7 @@ _Last updated: 2026-05-29 23:40 UTC_
 | 144 | Merlakia Jones | 927 |
 | 145 | Nicky Anosike | 922 |
 | 146 | Janeth Arcain | 916 |
-| 147 | **Satou Sabally** 🔴 | 912 |
+| 147 | **Satou Sabally** 🔴 +1 | 913 |
 | 148 | Karima Christmas-Kelly | 908 |
 | 149 | Natalie Achonwa | 895 |
 | 150 | Temeka Johnson | 889 |
@@ -1272,7 +1272,7 @@ _Last updated: 2026-05-29 23:40 UTC_
 | 20 | Shannon Johnson | 934 |
 | 21 | Taj McWilliams-Franklin | 898 |
 | 22 | Chelsea Gray | 888 |
-| 23 | **Skylar Diggins** 🔴 +1 | 882 |
+| 23 | **Skylar Diggins** 🔴 +2 | 883 |
 | 24 | Candice Dupree | 869 |
 | 25 | Alana Beard | 854 |
 | 26 | DeWanna Bonner | 830 |
@@ -1470,7 +1470,7 @@ _Last updated: 2026-05-29 23:40 UTC_
 | 13 | Alana Beard | 1,153 |
 | 14 | Swin Cash | 1,146 |
 | 15 | Taj McWilliams-Franklin | 1,145 |
-| 16 | **Nneka Ogwumike** 🔴 | 1,140 |
+| 16 | **Nneka Ogwumike** 🔴 +1 | 1,141 |
 | 17 | Monique Currie | 1,137 |
 | 18 | Tanisha Wright | 1,109 |
 | 19 | Michelle Snow | 1,108 |
@@ -1515,7 +1515,7 @@ _Last updated: 2026-05-29 23:40 UTC_
 | 58 | Shannon Johnson | 813 |
 | 58 | Tully Bevilaqua | 813 |
 | 60 | **Dearica Hamby** 🔴 | 811 |
-| 61 | **Skylar Diggins** 🔴 | 797 |
+| 61 | **Skylar Diggins** 🔴 +1 | 798 |
 | 62 | Nykesha Sales | 796 |
 | 63 | Ebony Hoffman | 791 |
 | 64 | Sue Bird | 775 |
