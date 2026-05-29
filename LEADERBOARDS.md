@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-29 00:46 UTC_
+_Last updated: 2026-05-29 00:47 UTC_
 
 ## Contents
 
@@ -303,7 +303,7 @@ _Last updated: 2026-05-29 00:46 UTC_
 | 77 | Sheri Sam | 1,356 |
 | 78 | Tamika Whitmore | 1,355 |
 | 79 | Emma Meesseman | 1,350 |
-| 80 | **Jewell Loyd** 🔴 | 1,347 |
+| 80 | **Jewell Loyd** 🔴 +1 | 1,348 |
 | 81 | Elena Baranova | 1,335 |
 | 82 | Brionna Jones | 1,333 |
 | 83 | Erlana Larkins | 1,329 |
@@ -381,7 +381,7 @@ _Last updated: 2026-05-29 00:46 UTC_
 | 155 | Erica Wheeler | 858 |
 | 156 | Alanna Smith | 847 |
 | 157 | Leilani Mitchell | 845 |
-| 158 | **Jessica Shepard** 🔴 +3 | 839 |
+| 158 | **Jessica Shepard** 🔴 +5 | 841 |
 | 159 | Essence Carson | 833 |
 | 160 | Kristi Toliver | 829 |
 | 161 | Marie Ferdinand-Harris | 828 |
@@ -1496,7 +1496,7 @@ _Last updated: 2026-05-29 00:46 UTC_
 | 39 | Ticha Penicheiro | 913 |
 | 40 | Shavonte Zellous | 907 |
 | 41 | DeWanna Bonner | 899 |
-| 42 | **Alysha Clark** 🔴 +1 | 888 |
+| 42 | **Alysha Clark** 🔴 +2 | 889 |
 | 43 | DeMya Walker | 882 |
 | 44 | Candice Dupree | 876 |
 | 45 | Jonquel Jones | 875 |
