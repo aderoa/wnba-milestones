@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-29 02:47 UTC_
+_Last updated: 2026-05-29 02:48 UTC_
 
 ## Contents
 
@@ -212,7 +212,7 @@ _Last updated: 2026-05-29 02:47 UTC_
 | 191 | Armintie Herrington | 1,696 |
 | 192 | Nikki Teasley | 1,690 |
 | 193 | Shenise Johnson | 1,688 |
-| 194 | **Gabby Williams** 🔴 +4 | 1,638 |
+| 194 | **Gabby Williams** 🔴 +6 | 1,640 |
 | 195 | Janell Burse | 1,580 |
 | 196 | Le'coe Willingham | 1,552 |
 | 197 | Shatori Walker-Kimbrough | 1,544 |
@@ -558,9 +558,9 @@ _Last updated: 2026-05-29 02:47 UTC_
 | 127 | **Veronica Burton** 🔴 | 501 |
 | 128 | Rachel Banham | 498 |
 | 129 | Rhyne Howard | 490 |
-| 130 | **Caitlin Clark** 🔴 | 488 |
-| 130 | Crystal Robinson | 488 |
-| 130 | Tiffany Mitchell | 488 |
+| 130 | **Caitlin Clark** 🔴 +1 | 489 |
+| 131 | Crystal Robinson | 488 |
+| 131 | Tiffany Mitchell | 488 |
 | 133 | Rebekkah Brunson | 486 |
 | 134 | Kahleah Copper | 472 |
 | 135 | Ukari Figgs | 470 |
@@ -934,7 +934,7 @@ _Last updated: 2026-05-29 02:47 UTC_
 | 93 | Crystal Langhorne | 314 |
 | 94 | Ebony Hoffman | 308 |
 | 95 | Tamera Young | 305 |
-| 96 | **Gabby Williams** 🔴 +1 | 303 |
+| 96 | **Gabby Williams** 🔴 +2 | 304 |
 | 97 | Kedra Holland-Corn | 301 |
 | 98 | Lindsey Harding | 295 |
 | 99 | Janel McCarville | 294 |
