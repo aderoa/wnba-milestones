@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-29 02:42 UTC_
+_Last updated: 2026-05-29 02:43 UTC_
 
 ## Contents
 
@@ -934,7 +934,7 @@ _Last updated: 2026-05-29 02:42 UTC_
 | 93 | Crystal Langhorne | 314 |
 | 94 | Ebony Hoffman | 308 |
 | 95 | Tamera Young | 305 |
-| 96 | **Gabby Williams** 🔴 | 302 |
+| 96 | **Gabby Williams** 🔴 +1 | 303 |
 | 97 | Kedra Holland-Corn | 301 |
 | 98 | Lindsey Harding | 295 |
 | 99 | Janel McCarville | 294 |
@@ -1174,8 +1174,8 @@ _Last updated: 2026-05-29 02:42 UTC_
 | 127 | Amanda Lassiter | 170 |
 | 128 | Shavonte Zellous | 167 |
 | 128 | Tianna Hawkins | 167 |
+| 130 | **Caitlin Clark** 🔴 +1 | 164 |
 | 130 | Charlotte Smith | 164 |
-| 131 | **Caitlin Clark** 🔴 | 163 |
 | 132 | Ukari Figgs | 162 |
 | 133 | Edna Campbell | 161 |
 | 133 | Tyasha Harris | 161 |
@@ -1432,11 +1432,11 @@ _Last updated: 2026-05-29 02:42 UTC_
 | 180 | Satou Sabally | 323 |
 | 181 | Barbara Farris | 315 |
 | 181 | Kia Nurse | 315 |
+| 183 | **Gabby Williams** 🔴 +1 | 314 |
 | 183 | Moriah Jefferson | 314 |
-| 184 | Alex Bentley | 313 |
-| 184 | **Gabby Williams** 🔴 | 313 |
+| 185 | Alex Bentley | 313 |
+| 186 | **Caitlin Clark** 🔴 +2 | 311 |
 | 186 | Tamika Raymond | 311 |
-| 187 | **Caitlin Clark** 🔴 +1 | 310 |
 | 188 | Erin Perperoglou | 305 |
 | 188 | Jennifer Lacy | 305 |
 | 190 | **Monique Billings** 🔴 | 304 |
