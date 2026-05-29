@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-29 23:57 UTC_
+_Last updated: 2026-05-29 23:58 UTC_
 
 ## Contents
 
@@ -71,7 +71,7 @@ _Last updated: 2026-05-29 23:57 UTC_
 | 50 | Allisha Gray | 4,232 |
 | 51 | Vickie Johnson | 4,230 |
 | 52 | Yolanda Griffith | 4,224 |
-| 53 | **Dearica Hamby** 🔴 +3 | 4,161 |
+| 53 | **Dearica Hamby** 🔴 +5 | 4,163 |
 | 54 | **Kahleah Copper** 🔴 | 4,154 |
 | 55 | Rebekkah Brunson | 4,133 |
 | 56 | **Jonquel Jones** 🔴 | 4,132 |
@@ -1306,7 +1306,7 @@ _Last updated: 2026-05-29 23:57 UTC_
 | 54 | Tammy Sutton-Brown | 672 |
 | 55 | **Erica Wheeler** 🔴 | 671 |
 | 56 | Deanna Nolan | 669 |
-| 57 | **Dearica Hamby** 🔴 +1 | 668 |
+| 57 | **Dearica Hamby** 🔴 | 667 |
 | 58 | Chasity Melvin | 666 |
 | 59 | Vickie Johnson | 660 |
 | 60 | Yolanda Griffith | 653 |
@@ -1448,8 +1448,8 @@ _Last updated: 2026-05-29 23:57 UTC_
 | 195 | **Rachel Banham** 🔴 +1 | 289 |
 | 197 | Alexis Hornbuckle | 288 |
 | 197 | Kristen Rasmussen | 288 |
-| 199 | **Azurá Stevens** 🔴 | 286 |
-| 199 | Damiris Dantas | 286 |
+| 199 | **Azurá Stevens** 🔴 +1 | 287 |
+| 200 | Damiris Dantas | 286 |
 
 ## Personal fouls
 
@@ -1514,7 +1514,7 @@ _Last updated: 2026-05-29 23:57 UTC_
 | 56 | Wendy Palmer | 831 |
 | 58 | Shannon Johnson | 813 |
 | 58 | Tully Bevilaqua | 813 |
-| 60 | **Dearica Hamby** 🔴 +1 | 812 |
+| 60 | **Dearica Hamby** 🔴 | 811 |
 | 61 | **Skylar Diggins** 🔴 +2 | 799 |
 | 62 | Nykesha Sales | 796 |
 | 63 | Ebony Hoffman | 791 |
