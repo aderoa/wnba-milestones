@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-29 01:43 UTC_
+_Last updated: 2026-05-29 01:44 UTC_
 
 ## Contents
 
@@ -290,7 +290,7 @@ _Last updated: 2026-05-29 01:43 UTC_
 | 64 | Sue Bird | 1,466 |
 | 65 | **Alysha Clark** 🔴 | 1,459 |
 | 66 | Nicole Powell | 1,457 |
-| 67 | **Cheyenne Parker-Tyus** 🔴 +1 | 1,437 |
+| 67 | **Cheyenne Parker-Tyus** 🔴 +2 | 1,438 |
 | 68 | Tamera Young | 1,433 |
 | 69 | Alana Beard | 1,420 |
 | 70 | Nakia Sanford | 1,419 |
@@ -825,11 +825,11 @@ _Last updated: 2026-05-29 01:43 UTC_
 | 188 | Wendy Palmer | 70 |
 | 190 | Mercedes Russell | 69 |
 | 190 | Rhonda Mapp | 69 |
+| 192 | **Awak Kuier** 🔴 +1 | 67 |
 | 192 | Cameron Brink | 67 |
 | 192 | **Jackie Young** 🔴 | 67 |
 | 192 | Satou Sabally | 67 |
 | 192 | Shannon Johnson | 67 |
-| 196 | **Awak Kuier** 🔴 | 66 |
 | 197 | Crystal Robinson | 65 |
 | 197 | Queen Egbo | 65 |
 | 197 | Riquna Williams | 65 |
