@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-29 23:44 UTC_
+_Last updated: 2026-05-29 23:45 UTC_
 
 ## Contents
 
@@ -242,7 +242,7 @@ _Last updated: 2026-05-29 23:44 UTC_
 | 16 | Brittney Griner | 2,537 |
 | 17 | A'ja Wilson | 2,522 |
 | 18 | Swin Cash | 2,521 |
-| 19 | **Breanna Stewart** 🔴 +2 | 2,512 |
+| 19 | **Breanna Stewart** 🔴 +3 | 2,513 |
 | 20 | Michelle Snow | 2,476 |
 | 21 | Crystal Langhorne | 2,454 |
 | 22 | Lauren Jackson | 2,444 |
@@ -256,7 +256,7 @@ _Last updated: 2026-05-29 23:44 UTC_
 | 30 | Chamique Holdsclaw | 2,123 |
 | 31 | Chasity Melvin | 2,097 |
 | 32 | Tammy Sutton-Brown | 2,010 |
-| 33 | **Elizabeth Williams** 🔴 | 1,923 |
+| 33 | **Elizabeth Williams** 🔴 +2 | 1,925 |
 | 34 | Cheryl Ford | 1,907 |
 | 35 | Plenette Pierson | 1,834 |
 | 36 | Natalie Williams | 1,832 |
@@ -327,8 +327,8 @@ _Last updated: 2026-05-29 23:44 UTC_
 | 101 | Latasha Byears | 1,190 |
 | 101 | Tanisha Wright | 1,190 |
 | 103 | Vicky Bullett | 1,189 |
+| 104 | **Kahleah Copper** 🔴 +1 | 1,148 |
 | 104 | Nykesha Sales | 1,148 |
-| 105 | **Kahleah Copper** 🔴 | 1,147 |
 | 106 | Shannon Johnson | 1,143 |
 | 107 | Adrian Williams-Strong | 1,131 |
 | 108 | Andrea Stinson | 1,127 |
@@ -387,9 +387,9 @@ _Last updated: 2026-05-29 23:44 UTC_
 | 161 | Marie Ferdinand-Harris | 828 |
 | 162 | Marina Mabrey | 827 |
 | 163 | Marlies Askamp | 822 |
-| 164 | Amanda Zahui B | 819 |
-| 164 | Barbara Farris | 819 |
-| 164 | **Nia Coffey** 🔴 | 819 |
+| 164 | **Nia Coffey** 🔴 +1 | 820 |
+| 165 | Amanda Zahui B | 819 |
+| 165 | Barbara Farris | 819 |
 | 167 | Carolyn Swords | 814 |
 | 168 | Tierra Ruffin-Pratt | 799 |
 | 169 | Charlotte Smith | 794 |
@@ -654,7 +654,7 @@ _Last updated: 2026-05-29 23:44 UTC_
 | 18 | Tina Thompson | 372 |
 | 19 | Erika de Souza | 370 |
 | 20 | Jessica Breland | 367 |
-| 21 | **Natasha Howard** 🔴 | 360 |
+| 21 | **Natasha Howard** 🔴 +1 | 361 |
 | 22 | Ezi Magbegor | 354 |
 | 23 | DeWanna Bonner | 349 |
 | 23 | Diana Taurasi | 349 |
