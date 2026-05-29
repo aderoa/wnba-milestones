@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-29 02:00 UTC_
+_Last updated: 2026-05-29 02:01 UTC_
 
 ## Contents
 
@@ -33,11 +33,11 @@ _Last updated: 2026-05-29 02:00 UTC_
 | 12 | Sylvia Fowles | 6,413 |
 | 13 | Lisa Leslie | 6,251 |
 | 14 | Breanna Stewart | 6,077 |
-| 15 | **Jewell Loyd** 🔴 +6 | 6,065 |
+| 15 | **Jewell Loyd** 🔴 +9 | 6,068 |
 | 16 | Lauren Jackson | 6,005 |
 | 16 | Seimone Augustus | 6,005 |
 | 18 | Brittney Griner | 5,983 |
-| 19 | **A'ja Wilson** 🔴 +19 | 5,863 |
+| 19 | **A'ja Wilson** 🔴 +23 | 5,867 |
 | 20 | Becky Hammon | 5,816 |
 | 21 | Angel McCoughtry | 5,797 |
 | 22 | DeLisha Milton-Jones | 5,571 |
@@ -523,7 +523,7 @@ _Last updated: 2026-05-29 02:00 UTC_
 | 92 | Asjha Jones | 637 |
 | 93 | Jennifer Azzi | 636 |
 | 94 | Brittney Griner | 635 |
-| 95 | **A'ja Wilson** 🔴 +2 | 627 |
+| 95 | **A'ja Wilson** 🔴 +3 | 628 |
 | 96 | Sami Whitcomb | 623 |
 | 97 | **Alysha Clark** 🔴 +1 | 615 |
 | 98 | Debbie Black | 612 |
@@ -913,9 +913,9 @@ _Last updated: 2026-05-29 02:00 UTC_
 | 72 | Helen Darling | 343 |
 | 73 | Andrea Stinson | 342 |
 | 73 | Natasha Cloud | 342 |
+| 75 | **A'ja Wilson** 🔴 +1 | 340 |
 | 75 | **Arike Ogunbowale** 🔴 | 340 |
 | 75 | Armintie Herrington | 340 |
-| 77 | **A'ja Wilson** 🔴 | 339 |
 | 78 | Dawn Staley | 338 |
 | 79 | Marie Ferdinand-Harris | 331 |
 | 80 | Chasity Melvin | 330 |
@@ -1053,7 +1053,7 @@ _Last updated: 2026-05-29 02:00 UTC_
 | 6 | Kayla McBride | 728 |
 | 7 | Katie Douglas | 723 |
 | 8 | Kelsey Mitchell | 679 |
-| 9 | **Jewell Loyd** 🔴 +1 | 674 |
+| 9 | **Jewell Loyd** 🔴 +2 | 675 |
 | 10 | DeWanna Bonner | 668 |
 | 11 | Kristi Toliver | 651 |
 | 12 | Tamika Catchings | 605 |
