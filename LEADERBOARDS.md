@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-29 00:49 UTC_
+_Last updated: 2026-05-29 00:50 UTC_
 
 ## Contents
 
@@ -37,7 +37,7 @@ _Last updated: 2026-05-29 00:49 UTC_
 | 16 | Lauren Jackson | 6,005 |
 | 16 | Seimone Augustus | 6,005 |
 | 18 | Brittney Griner | 5,983 |
-| 19 | **A'ja Wilson** 🔴 +4 | 5,848 |
+| 19 | **A'ja Wilson** 🔴 +6 | 5,850 |
 | 20 | Becky Hammon | 5,816 |
 | 21 | Angel McCoughtry | 5,797 |
 | 22 | DeLisha Milton-Jones | 5,571 |
@@ -94,7 +94,7 @@ _Last updated: 2026-05-29 00:49 UTC_
 | 73 | Tamecka Dixon | 3,507 |
 | 74 | Tammy Sutton-Brown | 3,498 |
 | 75 | Sancho Lyttle | 3,478 |
-| 76 | **Jackie Young** 🔴 +4 | 3,472 |
+| 76 | **Jackie Young** 🔴 +7 | 3,475 |
 | 77 | Ivory Latta | 3,447 |
 | 78 | Nicole Powell | 3,407 |
 | 79 | Epiphanny Prince | 3,381 |
@@ -340,7 +340,7 @@ _Last updated: 2026-05-29 00:49 UTC_
 | 114 | Becky Hammon | 1,108 |
 | 115 | Ann Wauters | 1,105 |
 | 116 | Natasha Cloud | 1,093 |
-| 117 | **NaLyssa Smith** 🔴 +4 | 1,085 |
+| 117 | **NaLyssa Smith** 🔴 +5 | 1,086 |
 | 118 | Svetlana Abrosimova | 1,078 |
 | 119 | Aliyah Boston | 1,066 |
 | 120 | Le'coe Willingham | 1,054 |
@@ -434,7 +434,7 @@ _Last updated: 2026-05-29 00:49 UTC_
 | 3 | Ticha Penicheiro | 2,588 |
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
-| 6 | **Chelsea Gray** 🔴 +3 | 1,906 |
+| 6 | **Chelsea Gray** 🔴 +5 | 1,908 |
 | 7 | Alyssa Thomas | 1,854 |
 | 8 | Skylar Diggins | 1,785 |
 | 9 | Natasha Cloud | 1,747 |
@@ -467,7 +467,7 @@ _Last updated: 2026-05-29 00:49 UTC_
 | 36 | Katie Douglas | 1,069 |
 | 37 | Sabrina Ionescu | 1,067 |
 | 38 | Alana Beard | 1,061 |
-| 39 | **Jackie Young** 🔴 | 1,060 |
+| 38 | **Jackie Young** 🔴 +1 | 1,061 |
 | 40 | Penny Taylor | 1,049 |
 | 41 | Dominique Canty | 1,042 |
 | 42 | Sheryl Swoopes | 1,037 |
@@ -873,7 +873,7 @@ _Last updated: 2026-05-29 00:49 UTC_
 | 32 | Maya Moore | 449 |
 | 33 | Skylar Diggins | 448 |
 | 34 | **Jewell Loyd** 🔴 | 445 |
-| 35 | **Chelsea Gray** 🔴 | 439 |
+| 35 | **Chelsea Gray** 🔴 +1 | 440 |
 | 36 | Natasha Howard | 438 |
 | 36 | Sheri Sam | 438 |
 | 38 | Camille Smith | 437 |
@@ -1106,8 +1106,8 @@ _Last updated: 2026-05-29 00:49 UTC_
 | 59 | Natasha Cloud | 333 |
 | 60 | Erica Wheeler | 322 |
 | 61 | Sugar Rodgers | 317 |
-| 62 | **Jackie Young** 🔴 | 315 |
-| 62 | Marissa Coleman | 315 |
+| 62 | **Jackie Young** 🔴 +1 | 316 |
+| 63 | Marissa Coleman | 315 |
 | 64 | Shannon Johnson | 313 |
 | 65 | DeLisha Milton-Jones | 312 |
 | 65 | Ruthie Bolton | 312 |
