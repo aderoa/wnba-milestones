@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-29 23:36 UTC_
+_Last updated: 2026-05-29 23:37 UTC_
 
 ## Contents
 
@@ -62,7 +62,7 @@ _Last updated: 2026-05-29 23:36 UTC_
 | 41 | Chelsea Gray | 4,469 |
 | 42 | Crystal Langhorne | 4,433 |
 | 42 | Jia Perkins | 4,433 |
-| 44 | **Natasha Howard** 🔴 | 4,430 |
+| 44 | **Natasha Howard** 🔴 +2 | 4,432 |
 | 45 | Courtney Vandersloot | 4,352 |
 | 46 | Kelsey Plum | 4,314 |
 | 47 | Sophia Young-Malcolm | 4,300 |
@@ -242,7 +242,7 @@ _Last updated: 2026-05-29 23:36 UTC_
 | 16 | Brittney Griner | 2,537 |
 | 17 | A'ja Wilson | 2,522 |
 | 18 | Swin Cash | 2,521 |
-| 19 | **Breanna Stewart** 🔴 | 2,510 |
+| 19 | **Breanna Stewart** 🔴 +1 | 2,511 |
 | 20 | Michelle Snow | 2,476 |
 | 21 | Crystal Langhorne | 2,454 |
 | 22 | Lauren Jackson | 2,444 |
@@ -250,7 +250,7 @@ _Last updated: 2026-05-29 23:36 UTC_
 | 24 | **Dearica Hamby** 🔴 +1 | 2,347 |
 | 25 | Tangela Smith | 2,328 |
 | 26 | Erika de Souza | 2,220 |
-| 27 | **Natasha Howard** 🔴 | 2,204 |
+| 27 | **Natasha Howard** 🔴 +1 | 2,205 |
 | 28 | Diana Taurasi | 2,201 |
 | 29 | Margo Dydek | 2,138 |
 | 30 | Chamique Holdsclaw | 2,123 |
@@ -445,8 +445,8 @@ _Last updated: 2026-05-29 23:36 UTC_
 | 14 | Danielle Robinson | 1,480 |
 | 15 | Shannon Johnson | 1,423 |
 | 15 | Tanisha Wright | 1,423 |
-| 17 | **Courtney Williams** 🔴 | 1,382 |
-| 17 | Temeka Johnson | 1,382 |
+| 17 | **Courtney Williams** 🔴 +1 | 1,383 |
+| 18 | Temeka Johnson | 1,382 |
 | 19 | Jasmine Thomas | 1,355 |
 | 20 | Briann January | 1,339 |
 | 21 | Dawn Staley | 1,337 |
@@ -476,7 +476,7 @@ _Last updated: 2026-05-29 23:36 UTC_
 | 45 | Tamecka Dixon | 960 |
 | 46 | **Kayla McBride** 🔴 | 952 |
 | 47 | Kara Lawson | 946 |
-| 48 | **Breanna Stewart** 🔴 | 938 |
+| 48 | **Breanna Stewart** 🔴 +1 | 939 |
 | 49 | Deanna Nolan | 930 |
 | 50 | Kelly Miller | 927 |
 | 51 | DeLisha Milton-Jones | 921 |
@@ -705,8 +705,8 @@ _Last updated: 2026-05-29 23:36 UTC_
 | 69 | Camille Smith | 169 |
 | 70 | Shameka Christon | 165 |
 | 71 | Cheryl Ford | 160 |
-| 72 | Kara Braxton | 157 |
-| 72 | **Nia Coffey** 🔴 | 157 |
+| 72 | **Nia Coffey** 🔴 +1 | 158 |
+| 73 | Kara Braxton | 157 |
 | 74 | DeMya Walker | 155 |
 | 74 | Tamika Whitmore | 155 |
 | 76 | Allisha Gray | 154 |
@@ -886,7 +886,7 @@ _Last updated: 2026-05-29 23:36 UTC_
 | 45 | Cappie Pondexter | 405 |
 | 46 | Nicole Powell | 401 |
 | 47 | Jasmine Thomas | 394 |
-| 48 | **Dearica Hamby** 🔴 | 391 |
+| 48 | **Dearica Hamby** 🔴 +1 | 392 |
 | 49 | Danielle Robinson | 389 |
 | 50 | Deanna Nolan | 388 |
 | 51 | Briann January | 386 |
@@ -1187,7 +1187,7 @@ _Last updated: 2026-05-29 23:36 UTC_
 | 140 | Bridget Pettis | 153 |
 | 140 | Jennifer Gillom | 153 |
 | 142 | Alanna Smith | 152 |
-| 143 | **Marine Johannès** 🔴 | 151 |
+| 142 | **Marine Johannès** 🔴 +1 | 152 |
 | 144 | Rita Williams | 150 |
 | 145 | Moriah Jefferson | 149 |
 | 145 | Stephanie Talbot | 149 |
@@ -1645,9 +1645,9 @@ _Last updated: 2026-05-29 23:36 UTC_
 | 188 | Allie Quigley | 475 |
 | 189 | Kia Nurse | 467 |
 | 190 | **Nia Coffey** 🔴 | 465 |
-| 191 | **Azurá Stevens** 🔴 | 463 |
-| 191 | Christi Thomas | 463 |
-| 191 | Nikki Teasley | 463 |
+| 191 | **Azurá Stevens** 🔴 +1 | 464 |
+| 192 | Christi Thomas | 463 |
+| 192 | Nikki Teasley | 463 |
 | 194 | Sue Wicks | 462 |
 | 195 | Natalie Achonwa | 459 |
 | 196 | Kara Lawson | 457 |
