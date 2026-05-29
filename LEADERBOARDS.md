@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-29 23:39 UTC_
+_Last updated: 2026-05-29 23:40 UTC_
 
 ## Contents
 
@@ -42,9 +42,9 @@ _Last updated: 2026-05-29 23:39 UTC_
 | 21 | Angel McCoughtry | 5,797 |
 | 22 | DeLisha Milton-Jones | 5,571 |
 | 23 | Katie Douglas | 5,545 |
-| 24 | **Skylar Diggins** 🔴 +3 | 5,528 |
+| 24 | **Skylar Diggins** 🔴 +4 | 5,529 |
 | 25 | Lindsay Whalen | 5,511 |
-| 26 | **Kayla McBride** 🔴 | 5,454 |
+| 26 | **Kayla McBride** 🔴 +2 | 5,456 |
 | 27 | Swin Cash | 5,119 |
 | 28 | Tangela Smith | 5,035 |
 | 29 | Taj McWilliams-Franklin | 4,992 |
@@ -71,7 +71,7 @@ _Last updated: 2026-05-29 23:39 UTC_
 | 50 | Allisha Gray | 4,232 |
 | 51 | Vickie Johnson | 4,230 |
 | 52 | Yolanda Griffith | 4,224 |
-| 53 | **Dearica Hamby** 🔴 +2 | 4,160 |
+| 53 | **Dearica Hamby** 🔴 +3 | 4,161 |
 | 54 | **Kahleah Copper** 🔴 | 4,154 |
 | 55 | Rebekkah Brunson | 4,133 |
 | 56 | **Jonquel Jones** 🔴 | 4,132 |
@@ -169,7 +169,7 @@ _Last updated: 2026-05-29 23:39 UTC_
 | 148 | Jordin Canada | 2,174 |
 | 149 | Ann Wauters | 2,170 |
 | 150 | Layshia Clarendon | 2,168 |
-| 151 | Satou Sabally | 2,161 |
+| 151 | **Satou Sabally** 🔴 | 2,161 |
 | 152 | Murriel Page | 2,146 |
 | 153 | Marissa Coleman | 2,140 |
 | 154 | Tari Phillips | 2,134 |
@@ -370,7 +370,7 @@ _Last updated: 2026-05-29 23:39 UTC_
 | 144 | Merlakia Jones | 927 |
 | 145 | Nicky Anosike | 922 |
 | 146 | Janeth Arcain | 916 |
-| 147 | Satou Sabally | 912 |
+| 147 | **Satou Sabally** 🔴 | 912 |
 | 148 | Karima Christmas-Kelly | 908 |
 | 149 | Natalie Achonwa | 895 |
 | 150 | Temeka Johnson | 889 |
@@ -435,7 +435,7 @@ _Last updated: 2026-05-29 23:39 UTC_
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
 | 6 | Chelsea Gray | 1,903 |
-| 7 | **Alyssa Thomas** 🔴 +1 | 1,855 |
+| 7 | **Alyssa Thomas** 🔴 +2 | 1,856 |
 | 8 | **Skylar Diggins** 🔴 | 1,785 |
 | 9 | **Natasha Cloud** 🔴 | 1,747 |
 | 10 | Becky Hammon | 1,705 |
@@ -569,7 +569,7 @@ _Last updated: 2026-05-29 23:39 UTC_
 | 138 | Sylvia Fowles | 461 |
 | 139 | **Elizabeth Williams** 🔴 | 455 |
 | 140 | Sydney Colson | 454 |
-| 141 | Satou Sabally | 451 |
+| 141 | **Satou Sabally** 🔴 | 451 |
 | 141 | Yolanda Griffith | 451 |
 | 143 | Elena Delle Donne | 450 |
 | 143 | Kristi Harrower | 450 |
@@ -827,7 +827,7 @@ _Last updated: 2026-05-29 23:39 UTC_
 | 190 | Rhonda Mapp | 69 |
 | 192 | Cameron Brink | 67 |
 | 192 | Jackie Young | 67 |
-| 192 | Satou Sabally | 67 |
+| 192 | **Satou Sabally** 🔴 | 67 |
 | 192 | Shannon Johnson | 67 |
 | 196 | Awak Kuier | 66 |
 | 197 | Crystal Robinson | 65 |
@@ -1148,7 +1148,7 @@ _Last updated: 2026-05-29 23:39 UTC_
 | 101 | Essence Carson | 223 |
 | 102 | Kelly Mazzante | 218 |
 | 102 | Sheri Sam | 218 |
-| 104 | Satou Sabally | 212 |
+| 104 | **Satou Sabally** 🔴 | 212 |
 | 105 | Damiris Dantas | 211 |
 | 105 | Erin Phillips | 211 |
 | 107 | Andrea Stinson | 207 |
@@ -1429,7 +1429,7 @@ _Last updated: 2026-05-29 23:39 UTC_
 | 176 | Rita Williams | 326 |
 | 178 | Le'coe Willingham | 325 |
 | 179 | Olympia Scott | 324 |
-| 180 | Satou Sabally | 323 |
+| 179 | **Satou Sabally** 🔴 +1 | 324 |
 | 181 | Barbara Farris | 315 |
 | 181 | Kia Nurse | 315 |
 | 183 | Moriah Jefferson | 314 |
