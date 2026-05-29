@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-29 00:57 UTC_
+_Last updated: 2026-05-29 00:58 UTC_
 
 ## Contents
 
@@ -381,7 +381,7 @@ _Last updated: 2026-05-29 00:57 UTC_
 | 155 | Erica Wheeler | 858 |
 | 156 | Alanna Smith | 847 |
 | 157 | Leilani Mitchell | 845 |
-| 158 | **Jessica Shepard** 🔴 +7 | 843 |
+| 158 | **Jessica Shepard** 🔴 +8 | 844 |
 | 159 | Essence Carson | 833 |
 | 160 | Kristi Toliver | 829 |
 | 161 | Marie Ferdinand-Harris | 828 |
@@ -1316,8 +1316,8 @@ _Last updated: 2026-05-29 00:57 UTC_
 | 64 | Ruth Riley | 637 |
 | 65 | Svetlana Abrosimova | 631 |
 | 66 | Kayla McBride | 630 |
-| 67 | Kelsey Plum | 624 |
-| 68 | **Odyssey Sims** 🔴 +1 | 623 |
+| 67 | **Odyssey Sims** 🔴 +3 | 625 |
+| 68 | Kelsey Plum | 624 |
 | 69 | Jonquel Jones | 617 |
 | 70 | Rebekkah Brunson | 615 |
 | 71 | Seimone Augustus | 613 |
