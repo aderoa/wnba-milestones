@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-29 00:47 UTC_
+_Last updated: 2026-05-29 00:48 UTC_
 
 ## Contents
 
@@ -58,7 +58,7 @@ _Last updated: 2026-05-29 00:47 UTC_
 | 37 | Penny Taylor | 4,595 |
 | 38 | Alyssa Thomas | 4,554 |
 | 39 | **Arike Ogunbowale** 🔴 | 4,512 |
-| 40 | **Chelsea Gray** 🔴 +6 | 4,475 |
+| 40 | **Chelsea Gray** 🔴 +8 | 4,477 |
 | 41 | Kristi Toliver | 4,474 |
 | 42 | Crystal Langhorne | 4,433 |
 | 42 | Jia Perkins | 4,433 |
@@ -381,7 +381,7 @@ _Last updated: 2026-05-29 00:47 UTC_
 | 155 | Erica Wheeler | 858 |
 | 156 | Alanna Smith | 847 |
 | 157 | Leilani Mitchell | 845 |
-| 158 | **Jessica Shepard** 🔴 +5 | 841 |
+| 158 | **Jessica Shepard** 🔴 +6 | 842 |
 | 159 | Essence Carson | 833 |
 | 160 | Kristi Toliver | 829 |
 | 161 | Marie Ferdinand-Harris | 828 |
@@ -774,9 +774,9 @@ _Last updated: 2026-05-29 00:47 UTC_
 | 137 | Isabelle Harrison | 95 |
 | 139 | **Jewell Loyd** 🔴 +1 | 94 |
 | 139 | Sandrine Gruda | 94 |
-| 141 | Jasmine Thomas | 91 |
-| 141 | Kayla Alexander | 91 |
-| 141 | **NaLyssa Smith** 🔴 | 91 |
+| 141 | **NaLyssa Smith** 🔴 +1 | 92 |
+| 142 | Jasmine Thomas | 91 |
+| 142 | Kayla Alexander | 91 |
 | 144 | Allie Quigley | 90 |
 | 145 | **Alysha Clark** 🔴 | 89 |
 | 146 | Marissa Coleman | 88 |
