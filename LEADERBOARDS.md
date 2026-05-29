@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-29 04:09 UTC_
+_Last updated: 2026-05-29 04:10 UTC_
 
 ## Contents
 
@@ -553,9 +553,9 @@ _Last updated: 2026-05-29 04:09 UTC_
 | 122 | Iziane Castro Marques | 509 |
 | 123 | Brittany Boyd-Jones | 508 |
 | 123 | Chasity Melvin | 508 |
-| 125 | Anna DeForge | 503 |
-| 125 | Coco Miller | 503 |
-| 125 | **Veronica Burton** 🔴 +2 | 503 |
+| 125 | **Veronica Burton** 🔴 +3 | 504 |
+| 126 | Anna DeForge | 503 |
+| 126 | Coco Miller | 503 |
 | 128 | Rachel Banham | 498 |
 | 129 | **Caitlin Clark** 🔴 +5 | 493 |
 | 130 | Rhyne Howard | 490 |
