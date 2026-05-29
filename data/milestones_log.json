@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-29T00:30:00+00:00",
+    "text": "Cheyenne Parker-Tyus passed Chamique Holdsclaw for #98 all-time in fouls (career 668) \u2014 up from #99 entering today \u2014 (4.9 - 1st \u2014 LV @ DAL)",
+    "kind": "rank_pass",
+    "player": "Cheyenne Parker-Tyus",
+    "stat": "fouls",
+    "rank": 98,
+    "passed_players": [
+      "Chamique Holdsclaw"
+    ],
+    "new_total": 668
+  },
+  {
     "ts": "2026-05-28T04:06:00+00:00",
     "text": "Shakira Austin passed Arike Ogunbowale for #190 all-time in rebounds (career 732) \u2014 up from #195 entering today \u2014 (2:05 - 4th \u2014 WSH @ SEA)",
     "kind": "rank_pass",
@@ -3007,22 +3019,5 @@
       "DeMya Walker"
     ],
     "new_total": 447
-  },
-  {
-    "ts": "2026-05-18T14:28:00+00:00",
-    "text": "Kamilla Cardoso passed Theresa Plaisance, Deanna Nolan, Dearica Hamby, Chante Black, Danielle Adams, and Nicole Powell for #124 all-time in blocks (career 103) \u2014 up from #129 entering today \u2014 (Final \u2014 CHI @ MIN)",
-    "kind": "rank_pass",
-    "player": "Kamilla Cardoso",
-    "stat": "blocks",
-    "rank": 124,
-    "passed_players": [
-      "Theresa Plaisance",
-      "Deanna Nolan",
-      "Dearica Hamby",
-      "Chante Black",
-      "Danielle Adams",
-      "Nicole Powell"
-    ],
-    "new_total": 103
   }
 ]
