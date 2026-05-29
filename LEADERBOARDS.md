@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-29 04:12 UTC_
+_Last updated: 2026-05-29 04:13 UTC_
 
 ## Contents
 
@@ -1432,10 +1432,10 @@ _Last updated: 2026-05-29 04:12 UTC_
 | 180 | Satou Sabally | 323 |
 | 181 | Barbara Farris | 315 |
 | 181 | Kia Nurse | 315 |
+| 183 | **Caitlin Clark** 🔴 +5 | 314 |
 | 183 | **Gabby Williams** 🔴 +1 | 314 |
 | 183 | Moriah Jefferson | 314 |
-| 185 | Alex Bentley | 313 |
-| 185 | **Caitlin Clark** 🔴 +4 | 313 |
+| 186 | Alex Bentley | 313 |
 | 187 | Tamika Raymond | 311 |
 | 188 | Erin Perperoglou | 305 |
 | 188 | Jennifer Lacy | 305 |
