@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-29 23:33 UTC_
+_Last updated: 2026-05-29 23:34 UTC_
 
 ## Contents
 
@@ -110,7 +110,7 @@ _Last updated: 2026-05-29 23:33 UTC_
 | 89 | Wendy Palmer | 3,135 |
 | 90 | Shavonte Zellous | 3,103 |
 | 91 | Briann January | 3,082 |
-| 92 | **Erica Wheeler** 🔴 | 3,078 |
+| 92 | **Erica Wheeler** 🔴 +2 | 3,080 |
 | 93 | Erika de Souza | 3,046 |
 | 94 | Shameka Christon | 3,039 |
 | 95 | Sabrina Ionescu | 3,030 |
@@ -362,7 +362,7 @@ _Last updated: 2026-05-29 23:33 UTC_
 | 136 | Danielle Robinson | 988 |
 | 137 | Shavonte Zellous | 978 |
 | 138 | Kara Lawson | 976 |
-| 139 | **Skylar Diggins** 🔴 | 973 |
+| 139 | **Skylar Diggins** 🔴 +1 | 974 |
 | 140 | Jennifer Gillom | 964 |
 | 141 | Dominique Canty | 961 |
 | 142 | Armintie Herrington | 960 |
@@ -507,7 +507,7 @@ _Last updated: 2026-05-29 23:33 UTC_
 | 76 | Allisha Gray | 734 |
 | 77 | Elaine Powell | 728 |
 | 78 | Chamique Holdsclaw | 698 |
-| 79 | **Dearica Hamby** 🔴 | 697 |
+| 78 | **Dearica Hamby** 🔴 +1 | 698 |
 | 80 | Shavonte Zellous | 693 |
 | 81 | Allie Quigley | 690 |
 | 82 | Stefanie Dolson | 688 |
