@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-29 00:18 UTC_
+_Last updated: 2026-05-29 00:19 UTC_
 
 ## Contents
 
@@ -84,7 +84,7 @@ _Last updated: 2026-05-29 00:18 UTC_
 | 63 | Chasity Melvin | 3,781 |
 | 64 | Kara Lawson | 3,670 |
 | 65 | Mwadi Mabika | 3,576 |
-| 66 | Odyssey Sims | 3,552 |
+| 66 | **Odyssey Sims** 🔴 | 3,552 |
 | 67 | Camille Smith | 3,551 |
 | 68 | Napheesa Collier | 3,542 |
 | 68 | Shannon Johnson | 3,542 |
@@ -397,7 +397,7 @@ _Last updated: 2026-05-29 00:18 UTC_
 | 171 | Naz Hillmon | 788 |
 | 171 | Rhonda Mapp | 788 |
 | 173 | Mercedes Russell | 786 |
-| 174 | Odyssey Sims | 780 |
+| 174 | **Odyssey Sims** 🔴 | 780 |
 | 174 | Sue Wicks | 780 |
 | 176 | Lindsey Harding | 779 |
 | 177 | Tiffani Johnson | 778 |
@@ -455,7 +455,7 @@ _Last updated: 2026-05-29 00:18 UTC_
 | 24 | Erica Wheeler | 1,275 |
 | 25 | Katie Smith | 1,258 |
 | 26 | Kelsey Plum | 1,215 |
-| 27 | Odyssey Sims | 1,210 |
+| 27 | **Odyssey Sims** 🔴 | 1,210 |
 | 28 | Vickie Johnson | 1,202 |
 | 29 | Leilani Mitchell | 1,197 |
 | 30 | DeWanna Bonner | 1,183 |
@@ -829,7 +829,7 @@ _Last updated: 2026-05-29 00:18 UTC_
 | 192 | **Jackie Young** 🔴 | 67 |
 | 192 | Satou Sabally | 67 |
 | 192 | Shannon Johnson | 67 |
-| 196 | Awak Kuier | 66 |
+| 196 | **Awak Kuier** 🔴 | 66 |
 | 197 | Crystal Robinson | 65 |
 | 197 | Queen Egbo | 65 |
 | 197 | Riquna Williams | 65 |
@@ -920,7 +920,7 @@ _Last updated: 2026-05-29 00:18 UTC_
 | 79 | Marie Ferdinand-Harris | 331 |
 | 80 | Chasity Melvin | 330 |
 | 80 | Leilani Mitchell | 330 |
-| 80 | Odyssey Sims | 330 |
+| 80 | **Odyssey Sims** 🔴 | 330 |
 | 83 | Kristi Toliver | 329 |
 | 84 | Matee Ajavon | 328 |
 | 85 | Napheesa Collier | 325 |
@@ -1142,7 +1142,7 @@ _Last updated: 2026-05-29 00:18 UTC_
 | 95 | Brittney Sykes | 236 |
 | 96 | Svetlana Abrosimova | 235 |
 | 96 | Tangela Smith | 235 |
-| 98 | Odyssey Sims | 233 |
+| 98 | **Odyssey Sims** 🔴 | 233 |
 | 99 | Stacey Dales | 232 |
 | 100 | Elena Baranova | 224 |
 | 101 | Essence Carson | 223 |
@@ -1317,7 +1317,7 @@ _Last updated: 2026-05-29 00:18 UTC_
 | 65 | Svetlana Abrosimova | 631 |
 | 66 | Kayla McBride | 630 |
 | 67 | Kelsey Plum | 624 |
-| 68 | Odyssey Sims | 622 |
+| 68 | **Odyssey Sims** 🔴 | 622 |
 | 69 | Jonquel Jones | 617 |
 | 70 | Rebekkah Brunson | 615 |
 | 71 | Seimone Augustus | 613 |
@@ -1574,7 +1574,7 @@ _Last updated: 2026-05-29 00:18 UTC_
 | 117 | Svetlana Abrosimova | 613 |
 | 118 | **Chelsea Gray** 🔴 | 609 |
 | 118 | Layshia Clarendon | 609 |
-| 120 | Odyssey Sims | 604 |
+| 120 | **Odyssey Sims** 🔴 | 604 |
 | 120 | Tiffany Mitchell | 604 |
 | 122 | Janel McCarville | 597 |
 | 123 | Kamila Vodichkova | 596 |
