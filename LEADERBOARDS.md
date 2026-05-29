@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-29 00:09 UTC_
+_Last updated: 2026-05-29 00:10 UTC_
 
 ## Contents
 
@@ -37,7 +37,7 @@ _Last updated: 2026-05-29 00:09 UTC_
 | 16 | Lauren Jackson | 6,005 |
 | 16 | Seimone Augustus | 6,005 |
 | 18 | Brittney Griner | 5,983 |
-| 19 | **A'ja Wilson** 🔴 | 5,844 |
+| 19 | **A'ja Wilson** 🔴 +2 | 5,846 |
 | 20 | Becky Hammon | 5,816 |
 | 21 | Angel McCoughtry | 5,797 |
 | 22 | DeLisha Milton-Jones | 5,571 |
@@ -59,7 +59,7 @@ _Last updated: 2026-05-29 00:09 UTC_
 | 38 | Alyssa Thomas | 4,554 |
 | 39 | **Arike Ogunbowale** 🔴 | 4,512 |
 | 40 | Kristi Toliver | 4,474 |
-| 41 | **Chelsea Gray** 🔴 | 4,469 |
+| 41 | **Chelsea Gray** 🔴 +3 | 4,472 |
 | 42 | Crystal Langhorne | 4,433 |
 | 42 | Jia Perkins | 4,433 |
 | 44 | Natasha Howard | 4,430 |
@@ -321,7 +321,7 @@ _Last updated: 2026-05-29 00:09 UTC_
 | 95 | Seimone Augustus | 1,228 |
 | 96 | Myisha Hines-Allen | 1,224 |
 | 97 | Jia Perkins | 1,220 |
-| 98 | **Chelsea Gray** 🔴 | 1,210 |
+| 98 | **Chelsea Gray** 🔴 +1 | 1,211 |
 | 99 | Kayla McBride | 1,201 |
 | 100 | DeMya Walker | 1,199 |
 | 101 | Latasha Byears | 1,190 |
@@ -348,8 +348,8 @@ _Last updated: 2026-05-29 00:09 UTC_
 | 122 | Nicole Ohlde | 1,040 |
 | 123 | Tamecka Dixon | 1,035 |
 | 124 | Kamila Vodichkova | 1,031 |
-| 125 | **Jackie Young** 🔴 | 1,027 |
-| 125 | Jasmine Thomas | 1,027 |
+| 125 | **Jackie Young** 🔴 +1 | 1,028 |
+| 126 | Jasmine Thomas | 1,027 |
 | 127 | Cathrine Kraayeveld | 1,013 |
 | 128 | Kelly Miller | 1,011 |
 | 128 | Noelle Quinn | 1,011 |
@@ -603,8 +603,8 @@ _Last updated: 2026-05-29 00:09 UTC_
 | 171 | Tamicha Jackson | 389 |
 | 173 | Riquna Williams | 387 |
 | 174 | Aliyah Boston | 384 |
-| 175 | Dana Evans | 379 |
-| 175 | **Stephanie Talbot** 🔴 | 379 |
+| 175 | **Stephanie Talbot** 🔴 +1 | 380 |
+| 176 | Dana Evans | 379 |
 | 177 | Jessica Breland | 377 |
 | 178 | Shenise Johnson | 376 |
 | 179 | Suzie McConnell Serio | 370 |
@@ -732,7 +732,7 @@ _Last updated: 2026-05-29 00:09 UTC_
 | 95 | Mistie Bass | 126 |
 | 97 | Brionna Jones | 125 |
 | 97 | Monique Billings | 125 |
-| 99 | **Chelsea Gray** 🔴 | 123 |
+| 99 | **Chelsea Gray** 🔴 +1 | 124 |
 | 100 | Alyssa Thomas | 122 |
 | 100 | Natalie Williams | 122 |
 | 100 | Olivia Nelson-Ododa | 122 |
@@ -1079,7 +1079,7 @@ _Last updated: 2026-05-29 00:09 UTC_
 | 32 | Allisha Gray | 432 |
 | 33 | Skylar Diggins | 428 |
 | 34 | Crystal Robinson | 425 |
-| 35 | **Chelsea Gray** 🔴 | 423 |
+| 35 | **Chelsea Gray** 🔴 +1 | 424 |
 | 36 | Mwadi Mabika | 415 |
 | 37 | Penny Taylor | 407 |
 | 37 | Riquna Williams | 407 |
