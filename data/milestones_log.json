@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-29T23:57:00+00:00",
+    "text": "Teaira McCowan passed Sancho Lyttle for #46 all-time in blocks (career 222) \u2014 up from #48 entering today \u2014 (9:19 - 2nd \u2014 MIN @ CHI)",
+    "kind": "rank_pass",
+    "player": "Teaira McCowan",
+    "stat": "blocks",
+    "rank": 46,
+    "passed_players": [
+      "Sancho Lyttle"
+    ],
+    "new_total": 222
+  },
+  {
     "ts": "2026-05-29T23:51:00+00:00",
     "text": "Teaira McCowan passed Alana Beard for #47 all-time in blocks (career 221) \u2014 up from #48 entering today \u2014 (27.5 - 1st \u2014 MIN @ CHI)",
     "kind": "rank_pass",
@@ -3001,19 +3013,5 @@
     "stat": "points",
     "value": 1100,
     "new_total": 1101
-  },
-  {
-    "ts": "2026-05-18T14:28:00+00:00",
-    "text": "Caitlin Clark passed Rhyne Howard, Crystal Robinson, and Tiffany Mitchell for #129 all-time in assists (career 498) \u2014 up from #130 entering today \u2014 (Final \u2014 SEA @ IND)",
-    "kind": "rank_pass",
-    "player": "Caitlin Clark",
-    "stat": "assists",
-    "rank": 129,
-    "passed_players": [
-      "Rhyne Howard",
-      "Crystal Robinson",
-      "Tiffany Mitchell"
-    ],
-    "new_total": 498
   }
 ]

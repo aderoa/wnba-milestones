@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-29 23:57 UTC
+
+- **Teaira McCowan** passed **Sancho Lyttle** for **#46** all-time in blocks (career 222) — up from #48 entering today — _9:19 - 2nd — MIN @ CHI_
+
 ## 2026-05-29 23:51 UTC
 
 - **Teaira McCowan** passed **Alana Beard** for **#47** all-time in blocks (career 221) — up from #48 entering today — _27.5 - 1st — MIN @ CHI_

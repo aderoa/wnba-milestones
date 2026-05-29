@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-29 23:56 UTC_
+_Last updated: 2026-05-29 23:57 UTC_
 
 ## Contents
 
@@ -267,7 +267,7 @@ _Last updated: 2026-05-29 23:56 UTC_
 | 41 | **Courtney Williams** 🔴 | 1,766 |
 | 42 | Kiah Stokes | 1,760 |
 | 43 | Asjha Jones | 1,751 |
-| 44 | **Teaira McCowan** 🔴 +1 | 1,671 |
+| 44 | **Teaira McCowan** 🔴 +2 | 1,672 |
 | 45 | Stefanie Dolson | 1,667 |
 | 46 | Monique Currie | 1,666 |
 | 47 | Glory Johnson | 1,640 |
@@ -679,8 +679,8 @@ _Last updated: 2026-05-29 23:56 UTC_
 | 43 | Chasity Melvin | 228 |
 | 44 | **Skylar Diggins** 🔴 | 225 |
 | 45 | Alanna Smith | 222 |
-| 46 | Sancho Lyttle | 221 |
-| 46 | **Teaira McCowan** 🔴 +1 | 221 |
+| 45 | **Teaira McCowan** 🔴 +2 | 222 |
+| 47 | Sancho Lyttle | 221 |
 | 48 | Alana Beard | 220 |
 | 49 | Janell Burse | 216 |
 | 49 | Sheryl Swoopes | 216 |
@@ -1527,7 +1527,7 @@ _Last updated: 2026-05-29 23:56 UTC_
 | 70 | Crystal Langhorne | 737 |
 | 71 | Shameka Christon | 734 |
 | 72 | Becky Hammon | 733 |
-| 73 | **Natasha Cloud** 🔴 | 731 |
+| 73 | **Natasha Cloud** 🔴 +1 | 732 |
 | 74 | Latasha Byears | 730 |
 | 75 | **Kahleah Copper** 🔴 +1 | 724 |
 | 76 | Kristi Toliver | 722 |
