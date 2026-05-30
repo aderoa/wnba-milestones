@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-30 00:50 UTC_
+_Last updated: 2026-05-30 00:51 UTC_
 
 ## Contents
 
@@ -23,7 +23,7 @@ _Last updated: 2026-05-30 00:50 UTC_
 | 2 | Tina Charles | 8,396 |
 | 3 | **DeWanna Bonner** 🔴 | 7,847 |
 | 4 | Tina Thompson | 7,470 |
-| 5 | **Nneka Ogwumike** 🔴 +12 | 7,383 |
+| 5 | **Nneka Ogwumike** 🔴 +13 | 7,384 |
 | 6 | Tamika Catchings | 7,371 |
 | 7 | Candice Dupree | 6,861 |
 | 8 | Sue Bird | 6,802 |
@@ -71,7 +71,7 @@ _Last updated: 2026-05-30 00:50 UTC_
 | 50 | Allisha Gray | 4,232 |
 | 51 | Vickie Johnson | 4,230 |
 | 52 | Yolanda Griffith | 4,224 |
-| 53 | **Dearica Hamby** 🔴 +5 | 4,163 |
+| 53 | **Dearica Hamby** 🔴 +7 | 4,165 |
 | 54 | **Kahleah Copper** 🔴 +4 | 4,158 |
 | 55 | **Jonquel Jones** 🔴 +4 | 4,136 |
 | 56 | Rebekkah Brunson | 4,133 |
@@ -118,7 +118,7 @@ _Last updated: 2026-05-30 00:50 UTC_
 | 97 | Emma Meesseman | 2,966 |
 | 98 | Marina Mabrey | 2,941 |
 | 99 | Natalie Williams | 2,894 |
-| 100 | **Natasha Cloud** 🔴 +4 | 2,892 |
+| 99 | **Natasha Cloud** 🔴 +6 | 2,894 |
 | 101 | Jennifer Gillom | 2,888 |
 | 102 | Iziane Castro Marques | 2,862 |
 | 103 | **Elizabeth Williams** 🔴 | 2,856 |
@@ -230,7 +230,7 @@ _Last updated: 2026-05-30 00:50 UTC_
 | 4 | Rebekkah Brunson | 3,345 |
 | 5 | Tamika Catchings | 3,313 |
 | 6 | Lisa Leslie | 3,303 |
-| 7 | **Nneka Ogwumike** 🔴 +6 | 3,301 |
+| 7 | **Nneka Ogwumike** 🔴 +7 | 3,302 |
 | 8 | **DeWanna Bonner** 🔴 +1 | 3,233 |
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
@@ -247,7 +247,7 @@ _Last updated: 2026-05-30 00:50 UTC_
 | 21 | Crystal Langhorne | 2,454 |
 | 22 | Lauren Jackson | 2,444 |
 | 23 | Yolanda Griffith | 2,440 |
-| 24 | **Dearica Hamby** 🔴 +4 | 2,350 |
+| 24 | **Dearica Hamby** 🔴 +5 | 2,351 |
 | 25 | Tangela Smith | 2,328 |
 | 26 | Erika de Souza | 2,220 |
 | 27 | **Natasha Howard** 🔴 +5 | 2,209 |
@@ -940,8 +940,8 @@ _Last updated: 2026-05-30 00:50 UTC_
 | 99 | Janel McCarville | 294 |
 | 100 | Kelly Miller | 290 |
 | 101 | Glory Johnson | 289 |
-| 102 | **Elizabeth Williams** 🔴 | 285 |
-| 102 | Essence Carson | 285 |
+| 102 | **Elizabeth Williams** 🔴 +1 | 286 |
+| 103 | Essence Carson | 285 |
 | 104 | Seimone Augustus | 280 |
 | 105 | Tari Phillips | 277 |
 | 106 | Emma Meesseman | 276 |
@@ -1310,8 +1310,8 @@ _Last updated: 2026-05-30 00:50 UTC_
 | 58 | Chasity Melvin | 666 |
 | 59 | Vickie Johnson | 660 |
 | 60 | Yolanda Griffith | 653 |
-| 61 | **Courtney Williams** 🔴 +1 | 650 |
-| 61 | Sheri Sam | 650 |
+| 61 | **Courtney Williams** 🔴 +2 | 651 |
+| 62 | Sheri Sam | 650 |
 | 63 | Dawn Staley | 643 |
 | 64 | Ruth Riley | 637 |
 | 65 | Svetlana Abrosimova | 631 |
@@ -1590,8 +1590,8 @@ _Last updated: 2026-05-30 00:50 UTC_
 | 133 | Ashley Robinson | 567 |
 | 134 | Ivory Latta | 565 |
 | 135 | Barbara Farris | 563 |
-| 136 | **Courtney Williams** 🔴 +2 | 562 |
-| 136 | Jessica Breland | 562 |
+| 135 | **Courtney Williams** 🔴 +3 | 563 |
+| 137 | Jessica Breland | 562 |
 | 138 | Dawn Staley | 551 |
 | 139 | Glory Johnson | 550 |
 | 139 | Tierra Ruffin-Pratt | 550 |
