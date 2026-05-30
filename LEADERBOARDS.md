@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-30 03:51 UTC_
+_Last updated: 2026-05-30 03:53 UTC_
 
 ## Contents
 
@@ -414,10 +414,10 @@ _Last updated: 2026-05-30 03:51 UTC_
 | 188 | Alex Montgomery | 735 |
 | 189 | Ashley Robinson | 734 |
 | 190 | Arike Ogunbowale | 731 |
-| 191 | Shakira Austin | 729 |
 | 191 | Shenise Johnson | 729 |
-| 193 | Sami Whitcomb | 726 |
-| 193 | Shekinna Stricklen | 726 |
+| 192 | Sami Whitcomb | 726 |
+| 192 | Shekinna Stricklen | 726 |
+| 194 | Shakira Austin | 722 |
 | 195 | Kelsey Plum | 721 |
 | 196 | Olympia Scott | 711 |
 | 197 | Katie Mattera | 708 |
