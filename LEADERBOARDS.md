@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-30 01:32 UTC_
+_Last updated: 2026-05-30 01:33 UTC_
 
 ## Contents
 
@@ -71,8 +71,8 @@ _Last updated: 2026-05-30 01:32 UTC_
 | 50 | Allisha Gray | 4,232 |
 | 51 | Vickie Johnson | 4,230 |
 | 52 | Yolanda Griffith | 4,224 |
-| 53 | **Dearica Hamby** 🔴 +12 | 4,170 |
-| 53 | **Kahleah Copper** 🔴 +16 | 4,170 |
+| 53 | **Dearica Hamby** 🔴 +14 | 4,172 |
+| 54 | **Kahleah Copper** 🔴 +16 | 4,170 |
 | 55 | **Jonquel Jones** 🔴 +7 | 4,139 |
 | 56 | Courtney Williams | 4,134 |
 | 57 | Rebekkah Brunson | 4,133 |
@@ -236,7 +236,7 @@ _Last updated: 2026-05-30 01:32 UTC_
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | **Alyssa Thomas** 🔴 +3 | 2,773 |
-| 13 | **Jonquel Jones** 🔴 +7 | 2,606 |
+| 13 | **Jonquel Jones** 🔴 +8 | 2,607 |
 | 14 | Sancho Lyttle | 2,596 |
 | 15 | DeLisha Milton-Jones | 2,574 |
 | 16 | Brittney Griner | 2,537 |
@@ -516,7 +516,7 @@ _Last updated: 2026-05-30 01:32 UTC_
 | 85 | Nykesha Sales | 677 |
 | 86 | Bria Hartley | 661 |
 | 87 | Lindsay Allen | 657 |
-| 88 | **Ariel Atkins** 🔴 +1 | 652 |
+| 88 | **Ariel Atkins** 🔴 +2 | 653 |
 | 89 | Betty Lennox | 651 |
 | 89 | Plenette Pierson | 651 |
 | 91 | Alex Bentley | 645 |
@@ -1540,7 +1540,7 @@ _Last updated: 2026-05-30 01:32 UTC_
 | 82 | Nicole Powell | 701 |
 | 84 | Tan White | 698 |
 | 85 | Katie Douglas | 697 |
-| 86 | **Ariel Atkins** 🔴 +5 | 694 |
+| 86 | **Ariel Atkins** 🔴 +6 | 695 |
 | 87 | Danielle Robinson | 692 |
 | 88 | Sophia Young-Malcolm | 687 |
 | 89 | Maya Moore | 686 |
