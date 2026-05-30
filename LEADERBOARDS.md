@@ -32,7 +32,7 @@ _Last updated: 2026-05-30 00:22 UTC_
 | 11 | Katie Smith | 6,450 |
 | 12 | Sylvia Fowles | 6,413 |
 | 13 | Lisa Leslie | 6,251 |
-| 14 | **Breanna Stewart** 🔴 +2 | 6,079 |
+| 14 | **Breanna Stewart** 🔴 +4 | 6,081 |
 | 15 | Jewell Loyd | 6,059 |
 | 16 | Lauren Jackson | 6,005 |
 | 16 | Seimone Augustus | 6,005 |
@@ -435,7 +435,7 @@ _Last updated: 2026-05-30 00:22 UTC_
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
 | 6 | Chelsea Gray | 1,903 |
-| 7 | **Alyssa Thomas** 🔴 +3 | 1,857 |
+| 7 | **Alyssa Thomas** 🔴 +4 | 1,858 |
 | 8 | **Skylar Diggins** 🔴 +1 | 1,786 |
 | 9 | **Natasha Cloud** 🔴 | 1,747 |
 | 10 | Becky Hammon | 1,705 |
@@ -533,7 +533,7 @@ _Last updated: 2026-05-30 00:22 UTC_
 | 102 | Sancho Lyttle | 592 |
 | 103 | Camille Smith | 590 |
 | 104 | Armintie Herrington | 589 |
-| 105 | **Betnijah Laney-Hamilton** 🔴 +1 | 579 |
+| 105 | **Betnijah Laney-Hamilton** 🔴 +2 | 580 |
 | 106 | **Natasha Howard** 🔴 +1 | 578 |
 | 106 | Tan White | 578 |
 | 108 | Matee Ajavon | 577 |
