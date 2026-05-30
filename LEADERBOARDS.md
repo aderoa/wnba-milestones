@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-30 01:14 UTC_
+_Last updated: 2026-05-30 01:16 UTC_
 
 ## Contents
 
@@ -386,7 +386,7 @@ _Last updated: 2026-05-30 01:14 UTC_
 | 160 | Kristi Toliver | 829 |
 | 161 | Marie Ferdinand-Harris | 828 |
 | 162 | Marina Mabrey | 827 |
-| 163 | **Nia Coffey** 🔴 +5 | 824 |
+| 163 | **Nia Coffey** 🔴 +7 | 826 |
 | 164 | Marlies Askamp | 822 |
 | 165 | Amanda Zahui B | 819 |
 | 165 | Barbara Farris | 819 |
@@ -656,9 +656,9 @@ _Last updated: 2026-05-30 01:14 UTC_
 | 20 | Jessica Breland | 367 |
 | 21 | **Natasha Howard** 🔴 +1 | 361 |
 | 22 | Ezi Magbegor | 354 |
-| 23 | **DeWanna Bonner** 🔴 +1 | 350 |
-| 24 | Diana Taurasi | 349 |
-| 24 | Elena Delle Donne | 349 |
+| 23 | **DeWanna Bonner** 🔴 | 349 |
+| 23 | Diana Taurasi | 349 |
+| 23 | Elena Delle Donne | 349 |
 | 26 | DeLisha Milton-Jones | 339 |
 | 27 | Kiah Stokes | 324 |
 | 28 | Yolanda Griffith | 323 |
@@ -747,9 +747,9 @@ _Last updated: 2026-05-30 01:14 UTC_
 | 109 | Sophia Young-Malcolm | 111 |
 | 109 | Tari Phillips | 111 |
 | 113 | **Ariel Atkins** 🔴 | 109 |
-| 114 | Erin Perperoglou | 108 |
-| 114 | Glory Johnson | 108 |
-| 114 | **Natasha Mack** 🔴 | 108 |
+| 113 | **Natasha Mack** 🔴 +1 | 109 |
+| 115 | Erin Perperoglou | 108 |
+| 115 | Glory Johnson | 108 |
 | 117 | **Shakira Austin** 🔴 | 106 |
 | 117 | Sylvia Crawley | 106 |
 | 119 | Carolyn Swords | 104 |
@@ -1515,7 +1515,7 @@ _Last updated: 2026-05-30 01:14 UTC_
 | 58 | Shannon Johnson | 813 |
 | 58 | Tully Bevilaqua | 813 |
 | 60 | **Dearica Hamby** 🔴 | 811 |
-| 61 | **Skylar Diggins** 🔴 +2 | 799 |
+| 61 | **Skylar Diggins** 🔴 +3 | 800 |
 | 62 | Nykesha Sales | 796 |
 | 63 | Ebony Hoffman | 791 |
 | 64 | Sue Bird | 775 |
