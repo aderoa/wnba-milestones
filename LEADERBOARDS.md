@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-30 01:17 UTC_
+_Last updated: 2026-05-30 01:18 UTC_
 
 ## Contents
 
@@ -109,7 +109,7 @@ _Last updated: 2026-05-30 01:17 UTC_
 | 88 | Danielle Robinson | 3,160 |
 | 89 | Wendy Palmer | 3,135 |
 | 90 | Shavonte Zellous | 3,103 |
-| 91 | **Erica Wheeler** 🔴 +7 | 3,085 |
+| 91 | **Erica Wheeler** 🔴 +9 | 3,087 |
 | 92 | Briann January | 3,082 |
 | 93 | Erika de Souza | 3,046 |
 | 94 | Shameka Christon | 3,039 |
@@ -250,7 +250,7 @@ _Last updated: 2026-05-30 01:17 UTC_
 | 24 | **Dearica Hamby** 🔴 +7 | 2,353 |
 | 25 | Tangela Smith | 2,328 |
 | 26 | Erika de Souza | 2,220 |
-| 27 | **Natasha Howard** 🔴 +6 | 2,210 |
+| 27 | **Natasha Howard** 🔴 +7 | 2,211 |
 | 28 | Diana Taurasi | 2,201 |
 | 29 | Margo Dydek | 2,138 |
 | 30 | Chamique Holdsclaw | 2,123 |
@@ -506,7 +506,7 @@ _Last updated: 2026-05-30 01:17 UTC_
 | 75 | Monique Currie | 740 |
 | 76 | Allisha Gray | 734 |
 | 77 | Elaine Powell | 728 |
-| 78 | **Dearica Hamby** 🔴 +5 | 702 |
+| 78 | **Dearica Hamby** 🔴 +6 | 703 |
 | 79 | Chamique Holdsclaw | 698 |
 | 80 | Shavonte Zellous | 693 |
 | 81 | Allie Quigley | 690 |
@@ -648,7 +648,7 @@ _Last updated: 2026-05-30 01:17 UTC_
 | 12 | Taj McWilliams-Franklin | 443 |
 | 13 | **Breanna Stewart** 🔴 | 433 |
 | 14 | Tina Charles | 428 |
-| 15 | **Jonquel Jones** 🔴 +1 | 407 |
+| 15 | **Jonquel Jones** 🔴 +2 | 408 |
 | 16 | Michelle Snow | 403 |
 | 17 | Tamika Catchings | 383 |
 | 18 | Tina Thompson | 372 |
@@ -1314,8 +1314,8 @@ _Last updated: 2026-05-30 01:17 UTC_
 | 62 | Sheri Sam | 650 |
 | 63 | Dawn Staley | 643 |
 | 64 | Ruth Riley | 637 |
+| 65 | **Kayla McBride** 🔴 +1 | 631 |
 | 65 | Svetlana Abrosimova | 631 |
-| 66 | **Kayla McBride** 🔴 | 630 |
 | 67 | Kelsey Plum | 624 |
 | 68 | Odyssey Sims | 622 |
 | 69 | **Jonquel Jones** 🔴 | 617 |
