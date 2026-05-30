@@ -109,8 +109,8 @@ _Last updated: 2026-05-30 01:10 UTC_
 | 88 | Danielle Robinson | 3,160 |
 | 89 | Wendy Palmer | 3,135 |
 | 90 | Shavonte Zellous | 3,103 |
-| 91 | Briann January | 3,082 |
-| 91 | **Erica Wheeler** 🔴 +4 | 3,082 |
+| 91 | **Erica Wheeler** 🔴 +7 | 3,085 |
+| 92 | Briann January | 3,082 |
 | 93 | Erika de Souza | 3,046 |
 | 94 | Shameka Christon | 3,039 |
 | 95 | Sabrina Ionescu | 3,030 |
@@ -1104,7 +1104,7 @@ _Last updated: 2026-05-30 01:10 UTC_
 | 57 | Deanna Nolan | 340 |
 | 58 | Anna DeForge | 334 |
 | 58 | **Natasha Cloud** 🔴 +1 | 334 |
-| 60 | **Erica Wheeler** 🔴 | 322 |
+| 60 | **Erica Wheeler** 🔴 +1 | 323 |
 | 61 | Sugar Rodgers | 317 |
 | 62 | Jackie Young | 315 |
 | 62 | Marissa Coleman | 315 |
