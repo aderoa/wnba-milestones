@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-30 23:53 UTC
+
+- **Dearica Hamby** passed **Theresa Plaisance** for **#124** all-time in blocks (career 103) — up from #126 entering today — _8:23 - 4th — LA @ CON_
+
 ## 2026-05-30 23:36 UTC
 
 - **Ariel Atkins** passed **Amanda Lassiter**, **Kamila Vodichkova**, **Sophia Young-Malcolm**, and **Tari Phillips** for **#109** all-time in blocks (career 112) — up from #113 entering today — _3:01 - 3rd — LA @ CON_
