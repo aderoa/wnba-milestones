@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-30 00:49 UTC_
+_Last updated: 2026-05-30 00:50 UTC_
 
 ## Contents
 
@@ -42,7 +42,7 @@ _Last updated: 2026-05-30 00:49 UTC_
 | 21 | Angel McCoughtry | 5,797 |
 | 22 | DeLisha Milton-Jones | 5,571 |
 | 23 | Katie Douglas | 5,545 |
-| 24 | **Skylar Diggins** 🔴 +11 | 5,536 |
+| 24 | **Skylar Diggins** 🔴 +12 | 5,537 |
 | 25 | Lindsay Whalen | 5,511 |
 | 26 | **Kayla McBride** 🔴 +4 | 5,458 |
 | 27 | Swin Cash | 5,119 |
@@ -75,7 +75,7 @@ _Last updated: 2026-05-30 00:49 UTC_
 | 54 | **Kahleah Copper** 🔴 +4 | 4,158 |
 | 55 | **Jonquel Jones** 🔴 +4 | 4,136 |
 | 56 | Rebekkah Brunson | 4,133 |
-| 57 | **Courtney Williams** 🔴 +6 | 4,130 |
+| 57 | **Courtney Williams** 🔴 +8 | 4,132 |
 | 58 | Asjha Jones | 3,986 |
 | 59 | Deanna Nolan | 3,971 |
 | 60 | Nykesha Sales | 3,931 |
@@ -534,8 +534,8 @@ _Last updated: 2026-05-30 00:49 UTC_
 | 103 | Camille Smith | 590 |
 | 104 | Armintie Herrington | 589 |
 | 105 | **Betnijah Laney-Hamilton** 🔴 +2 | 580 |
-| 106 | **Natasha Howard** 🔴 +1 | 578 |
-| 106 | Tan White | 578 |
+| 106 | **Natasha Howard** 🔴 +2 | 579 |
+| 107 | Tan White | 578 |
 | 108 | Matee Ajavon | 577 |
 | 109 | Napheesa Collier | 570 |
 | 110 | Nicole Powell | 567 |
@@ -1470,11 +1470,11 @@ _Last updated: 2026-05-30 00:49 UTC_
 | 13 | Alana Beard | 1,153 |
 | 14 | Swin Cash | 1,146 |
 | 15 | Taj McWilliams-Franklin | 1,145 |
-| 16 | **Nneka Ogwumike** 🔴 +1 | 1,141 |
+| 16 | **Nneka Ogwumike** 🔴 +2 | 1,142 |
 | 17 | Monique Currie | 1,137 |
 | 18 | Tanisha Wright | 1,109 |
 | 19 | Michelle Snow | 1,108 |
-| 20 | **Natasha Howard** 🔴 +1 | 1,106 |
+| 20 | **Natasha Howard** 🔴 +2 | 1,107 |
 | 21 | Stefanie Dolson | 1,095 |
 | 22 | Sylvia Fowles | 1,049 |
 | 23 | Tina Charles | 1,037 |
