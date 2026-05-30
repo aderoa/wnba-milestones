@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-30 00:53 UTC
+
+- **Skylar Diggins** passed **Maya Moore** for **#32** all-time in steals (career 450) — up from #33 entering today — _3:31 - 3rd — MIN @ CHI_
+
 ## 2026-05-30 00:46 UTC
 
 - **Nia Coffey** passed **Nikki McCray** for **#122** all-time in three-pointers (career 176) — up from #125 entering today — _5:49 - 3rd — MIN @ CHI_

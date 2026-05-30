@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-30T00:53:00+00:00",
+    "text": "Skylar Diggins passed Maya Moore for #32 all-time in steals (career 450) \u2014 up from #33 entering today \u2014 (3:31 - 3rd \u2014 MIN @ CHI)",
+    "kind": "rank_pass",
+    "player": "Skylar Diggins",
+    "stat": "steals",
+    "rank": 32,
+    "passed_players": [
+      "Maya Moore"
+    ],
+    "new_total": 450
+  },
+  {
     "ts": "2026-05-30T00:46:00+00:00",
     "text": "Nia Coffey passed Nikki McCray for #122 all-time in three-pointers (career 176) \u2014 up from #125 entering today \u2014 (5:49 - 3rd \u2014 MIN @ CHI)",
     "kind": "rank_pass",
@@ -3001,17 +3013,5 @@
       "Napheesa Collier"
     ],
     "new_total": 507
-  },
-  {
-    "ts": "2026-05-18T14:28:00+00:00",
-    "text": "Monique Billings passed Allisha Gray for #75 all-time in rebounds (career 1,372) \u2014 up from #76 entering today \u2014 (Final \u2014 SEA @ IND)",
-    "kind": "rank_pass",
-    "player": "Monique Billings",
-    "stat": "rebounds",
-    "rank": 75,
-    "passed_players": [
-      "Allisha Gray"
-    ],
-    "new_total": 1372
   }
 ]
