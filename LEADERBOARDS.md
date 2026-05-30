@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-30 22:17 UTC_
+_Last updated: 2026-05-30 22:18 UTC_
 
 ## Contents
 
@@ -23,7 +23,7 @@ _Last updated: 2026-05-30 22:17 UTC_
 | 2 | Tina Charles | 8,396 |
 | 3 | DeWanna Bonner | 7,847 |
 | 4 | Tina Thompson | 7,470 |
-| 5 | **Nneka Ogwumike** 🔴 +4 | 7,375 |
+| 5 | **Nneka Ogwumike** 🔴 +7 | 7,378 |
 | 6 | Tamika Catchings | 7,371 |
 | 7 | Candice Dupree | 6,861 |
 | 8 | Sue Bird | 6,802 |
@@ -484,7 +484,7 @@ _Last updated: 2026-05-30 22:17 UTC_
 | 53 | Angel McCoughtry | 915 |
 | 54 | Layshia Clarendon | 911 |
 | 54 | Seimone Augustus | 911 |
-| 56 | **Nneka Ogwumike** 🔴 +1 | 905 |
+| 56 | **Nneka Ogwumike** 🔴 +2 | 906 |
 | 57 | Candice Dupree | 902 |
 | 58 | Arike Ogunbowale | 896 |
 | 58 | Maya Moore | 896 |
@@ -516,9 +516,9 @@ _Last updated: 2026-05-30 22:17 UTC_
 | 85 | Nykesha Sales | 677 |
 | 86 | Bria Hartley | 661 |
 | 87 | Lindsay Allen | 657 |
-| 88 | **Ariel Atkins** 🔴 | 651 |
-| 88 | Betty Lennox | 651 |
-| 88 | Plenette Pierson | 651 |
+| 88 | **Ariel Atkins** 🔴 +1 | 652 |
+| 89 | Betty Lennox | 651 |
+| 89 | Plenette Pierson | 651 |
 | 91 | Alex Bentley | 645 |
 | 92 | Asjha Jones | 637 |
 | 93 | **Brittney Griner** 🔴 +1 | 636 |
@@ -895,9 +895,9 @@ _Last updated: 2026-05-30 22:17 UTC_
 | 54 | Monique Currie | 378 |
 | 54 | Tiffany Hayes | 378 |
 | 56 | Chamique Holdsclaw | 376 |
+| 57 | **Ariel Atkins** 🔴 +1 | 370 |
 | 57 | Mwadi Mabika | 370 |
-| 58 | **Ariel Atkins** 🔴 | 369 |
-| 58 | Jordin Canada | 369 |
+| 59 | Jordin Canada | 369 |
 | 60 | Brittney Sykes | 363 |
 | 61 | Lauren Jackson | 360 |
 | 61 | Tan White | 360 |
@@ -1137,8 +1137,8 @@ _Last updated: 2026-05-30 22:17 UTC_
 | 90 | Erin Thorn | 243 |
 | 91 | Alex Bentley | 239 |
 | 91 | Cynthia Cooper | 239 |
-| 93 | Azurá Stevens | 238 |
-| 93 | **Nneka Ogwumike** 🔴 | 238 |
+| 91 | **Nneka Ogwumike** 🔴 +1 | 239 |
+| 94 | Azurá Stevens | 238 |
 | 95 | Brittney Sykes | 236 |
 | 96 | Svetlana Abrosimova | 235 |
 | 96 | Tangela Smith | 235 |
@@ -1302,11 +1302,11 @@ _Last updated: 2026-05-30 22:17 UTC_
 | 50 | Asjha Jones | 682 |
 | 51 | Danielle Robinson | 680 |
 | 52 | Sheryl Swoopes | 677 |
+| 53 | **Erica Wheeler** 🔴 +2 | 673 |
 | 53 | Natasha Cloud | 673 |
-| 54 | **Erica Wheeler** 🔴 +1 | 672 |
-| 54 | Tammy Sutton-Brown | 672 |
+| 55 | Tammy Sutton-Brown | 672 |
 | 56 | Deanna Nolan | 669 |
-| 56 | **Dearica Hamby** 🔴 +2 | 669 |
+| 57 | **Dearica Hamby** 🔴 +1 | 668 |
 | 58 | Chasity Melvin | 666 |
 | 59 | Vickie Johnson | 660 |
 | 60 | Yolanda Griffith | 653 |
@@ -1541,7 +1541,7 @@ _Last updated: 2026-05-30 22:17 UTC_
 | 84 | Tan White | 698 |
 | 85 | Katie Douglas | 697 |
 | 86 | Danielle Robinson | 692 |
-| 87 | **Ariel Atkins** 🔴 | 689 |
+| 87 | **Ariel Atkins** 🔴 +1 | 690 |
 | 88 | Sophia Young-Malcolm | 687 |
 | 89 | Maya Moore | 686 |
 | 90 | Jasmine Thomas | 685 |
