@@ -504,7 +504,7 @@ _Last updated: 2026-05-30 02:52 UTC_
 | 73 | Marina Mabrey | 745 |
 | 73 | Sheri Sam | 745 |
 | 75 | Monique Currie | 740 |
-| 76 | **Allisha Gray** 🔴 | 734 |
+| 76 | **Allisha Gray** 🔴 +1 | 735 |
 | 77 | Elaine Powell | 728 |
 | 78 | Dearica Hamby | 706 |
 | 79 | Chamique Holdsclaw | 698 |
