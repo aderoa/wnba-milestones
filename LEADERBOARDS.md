@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-30 22:15 UTC_
+_Last updated: 2026-05-30 22:16 UTC_
 
 ## Contents
 
@@ -23,7 +23,7 @@ _Last updated: 2026-05-30 22:15 UTC_
 | 2 | Tina Charles | 8,396 |
 | 3 | DeWanna Bonner | 7,847 |
 | 4 | Tina Thompson | 7,470 |
-| 5 | **Nneka Ogwumike** 🔴 +2 | 7,373 |
+| 5 | **Nneka Ogwumike** 🔴 +4 | 7,375 |
 | 6 | Tamika Catchings | 7,371 |
 | 7 | Candice Dupree | 6,861 |
 | 8 | Sue Bird | 6,802 |
@@ -484,7 +484,7 @@ _Last updated: 2026-05-30 22:15 UTC_
 | 53 | Angel McCoughtry | 915 |
 | 54 | Layshia Clarendon | 911 |
 | 54 | Seimone Augustus | 911 |
-| 56 | **Nneka Ogwumike** 🔴 | 904 |
+| 56 | **Nneka Ogwumike** 🔴 +1 | 905 |
 | 57 | Candice Dupree | 902 |
 | 58 | Arike Ogunbowale | 896 |
 | 58 | Maya Moore | 896 |
@@ -825,7 +825,7 @@ _Last updated: 2026-05-30 22:15 UTC_
 | 188 | Wendy Palmer | 70 |
 | 190 | Mercedes Russell | 69 |
 | 190 | Rhonda Mapp | 69 |
-| 192 | Cameron Brink | 67 |
+| 192 | **Cameron Brink** 🔴 | 67 |
 | 192 | Jackie Young | 67 |
 | 192 | Satou Sabally | 67 |
 | 192 | Shannon Johnson | 67 |
@@ -1232,7 +1232,7 @@ _Last updated: 2026-05-30 22:15 UTC_
 | 183 | Sandy Brondello | 114 |
 | 186 | Lexie Hull | 111 |
 | 186 | Shoni Schimmel | 111 |
-| 188 | Kennedy Burke | 110 |
+| 188 | **Kennedy Burke** 🔴 | 110 |
 | 189 | Emma Meesseman | 109 |
 | 189 | Scholanda Dorrell | 109 |
 | 191 | Belinda Snell | 108 |
