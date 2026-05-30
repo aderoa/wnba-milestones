@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-30 18:46 UTC_
+_Last updated: 2026-05-30 18:47 UTC_
 
 ## Contents
 
@@ -88,7 +88,7 @@ _Last updated: 2026-05-30 18:46 UTC_
 | 67 | Camille Smith | 3,551 |
 | 68 | Napheesa Collier | 3,542 |
 | 68 | Shannon Johnson | 3,542 |
-| 70 | **Brittney Sykes** 🔴 +13 | 3,535 |
+| 70 | **Brittney Sykes** 🔴 +15 | 3,537 |
 | 71 | Renee Montgomery | 3,533 |
 | 72 | Jasmine Thomas | 3,522 |
 | 73 | Tamecka Dixon | 3,507 |
@@ -105,7 +105,7 @@ _Last updated: 2026-05-30 18:46 UTC_
 | 84 | Andrea Stinson | 3,351 |
 | 85 | Tanisha Wright | 3,324 |
 | 86 | Margo Dydek | 3,214 |
-| 87 | **Stefanie Dolson** 🔴 +5 | 3,167 |
+| 87 | **Stefanie Dolson** 🔴 +7 | 3,169 |
 | 88 | Danielle Robinson | 3,160 |
 | 89 | Wendy Palmer | 3,135 |
 | 90 | Shavonte Zellous | 3,103 |
@@ -267,8 +267,8 @@ _Last updated: 2026-05-30 18:46 UTC_
 | 41 | Courtney Williams | 1,766 |
 | 42 | Kiah Stokes | 1,760 |
 | 43 | Asjha Jones | 1,751 |
-| 44 | **Stefanie Dolson** 🔴 +3 | 1,670 |
-| 44 | Teaira McCowan | 1,670 |
+| 44 | **Stefanie Dolson** 🔴 +4 | 1,671 |
+| 45 | Teaira McCowan | 1,670 |
 | 46 | Monique Currie | 1,666 |
 | 47 | Glory Johnson | 1,640 |
 | 48 | Vickie Johnson | 1,634 |
@@ -1331,8 +1331,8 @@ _Last updated: 2026-05-30 18:46 UTC_
 | 79 | Helen Darling | 575 |
 | 79 | Nykesha Sales | 575 |
 | 81 | Andrea Stinson | 571 |
-| 82 | **Brittney Sykes** 🔴 +2 | 570 |
 | 82 | Kara Braxton | 570 |
+| 83 | **Brittney Sykes** 🔴 +1 | 569 |
 | 84 | Nikki McCray | 565 |
 | 85 | Sancho Lyttle | 563 |
 | 86 | Breanna Stewart | 557 |
@@ -1549,8 +1549,8 @@ _Last updated: 2026-05-30 18:46 UTC_
 | 92 | Crystal Robinson | 682 |
 | 93 | Jennifer Lacy | 680 |
 | 93 | Temeka Johnson | 680 |
-| 95 | **Brittney Sykes** 🔴 +2 | 677 |
-| 96 | Kelly Miller | 676 |
+| 95 | **Brittney Sykes** 🔴 +1 | 676 |
+| 95 | Kelly Miller | 676 |
 | 97 | Kelsey Plum | 672 |
 | 98 | Chamique Holdsclaw | 667 |
 | 99 | Cheyenne Parker-Tyus | 666 |
