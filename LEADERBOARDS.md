@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-30 00:08 UTC_
+_Last updated: 2026-05-30 00:09 UTC_
 
 ## Contents
 
@@ -231,7 +231,7 @@ _Last updated: 2026-05-30 00:08 UTC_
 | 5 | Tamika Catchings | 3,313 |
 | 6 | Lisa Leslie | 3,303 |
 | 7 | **Nneka Ogwumike** 🔴 +5 | 3,300 |
-| 8 | **DeWanna Bonner** 🔴 | 3,232 |
+| 8 | **DeWanna Bonner** 🔴 +1 | 3,233 |
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
@@ -242,7 +242,7 @@ _Last updated: 2026-05-30 00:08 UTC_
 | 16 | Brittney Griner | 2,537 |
 | 17 | A'ja Wilson | 2,522 |
 | 18 | Swin Cash | 2,521 |
-| 19 | **Breanna Stewart** 🔴 +3 | 2,513 |
+| 19 | **Breanna Stewart** 🔴 +4 | 2,514 |
 | 20 | Michelle Snow | 2,476 |
 | 21 | Crystal Langhorne | 2,454 |
 | 22 | Lauren Jackson | 2,444 |
