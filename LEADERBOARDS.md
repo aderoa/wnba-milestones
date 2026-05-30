@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-30 00:14 UTC_
+_Last updated: 2026-05-30 00:16 UTC_
 
 ## Contents
 
@@ -42,7 +42,7 @@ _Last updated: 2026-05-30 00:14 UTC_
 | 21 | Angel McCoughtry | 5,797 |
 | 22 | DeLisha Milton-Jones | 5,571 |
 | 23 | Katie Douglas | 5,545 |
-| 24 | **Skylar Diggins** 🔴 +6 | 5,531 |
+| 24 | **Skylar Diggins** 🔴 +8 | 5,533 |
 | 25 | Lindsay Whalen | 5,511 |
 | 26 | **Kayla McBride** 🔴 +2 | 5,456 |
 | 27 | Swin Cash | 5,119 |
@@ -256,7 +256,7 @@ _Last updated: 2026-05-30 00:14 UTC_
 | 30 | Chamique Holdsclaw | 2,123 |
 | 31 | Chasity Melvin | 2,097 |
 | 32 | Tammy Sutton-Brown | 2,010 |
-| 33 | **Elizabeth Williams** 🔴 +3 | 1,926 |
+| 33 | **Elizabeth Williams** 🔴 +4 | 1,927 |
 | 34 | Cheryl Ford | 1,907 |
 | 35 | Plenette Pierson | 1,834 |
 | 36 | Natalie Williams | 1,832 |
@@ -873,8 +873,8 @@ _Last updated: 2026-05-30 00:14 UTC_
 | 32 | Maya Moore | 449 |
 | 32 | **Skylar Diggins** 🔴 +1 | 449 |
 | 34 | Jewell Loyd | 445 |
-| 35 | Chelsea Gray | 439 |
-| 35 | **Natasha Howard** 🔴 +1 | 439 |
+| 35 | **Natasha Howard** 🔴 +2 | 440 |
+| 36 | Chelsea Gray | 439 |
 | 37 | Sheri Sam | 438 |
 | 38 | Camille Smith | 437 |
 | 39 | Candice Dupree | 431 |
@@ -1541,7 +1541,7 @@ _Last updated: 2026-05-30 00:14 UTC_
 | 84 | Tan White | 698 |
 | 85 | Katie Douglas | 697 |
 | 86 | Danielle Robinson | 692 |
-| 87 | **Ariel Atkins** 🔴 +1 | 690 |
+| 87 | **Ariel Atkins** 🔴 +2 | 691 |
 | 88 | Sophia Young-Malcolm | 687 |
 | 89 | Maya Moore | 686 |
 | 90 | Jasmine Thomas | 685 |
