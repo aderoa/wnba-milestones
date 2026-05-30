@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-30 04:04 UTC
+
+- **Rhyne Howard** passed **Allison Feaster** for **#147** all-time in steals (career 220) — up from #155 entering today — _0.0 - 4th — ATL @ POR_
+
 ## 2026-05-30 03:49 UTC
 
 - **Allisha Gray** passed **Vicky Bullett** for **#67** all-time in steals (career 354) — up from #69 entering today — _6:44 - 4th — ATL @ POR_

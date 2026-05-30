@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-30T04:04:00+00:00",
+    "text": "Rhyne Howard passed Allison Feaster for #147 all-time in steals (career 220) \u2014 up from #155 entering today \u2014 (0.0 - 4th \u2014 ATL @ POR)",
+    "kind": "rank_pass",
+    "player": "Rhyne Howard",
+    "stat": "steals",
+    "rank": 147,
+    "passed_players": [
+      "Allison Feaster"
+    ],
+    "new_total": 220
+  },
+  {
     "ts": "2026-05-30T03:49:00+00:00",
     "text": "Allisha Gray passed Vicky Bullett for #67 all-time in steals (career 354) \u2014 up from #69 entering today \u2014 (6:44 - 4th \u2014 ATL @ POR)",
     "kind": "rank_pass",
@@ -2990,17 +3002,5 @@
       "Krystal Thomas"
     ],
     "new_total": 869
-  },
-  {
-    "ts": "2026-05-18T14:28:00+00:00",
-    "text": "Allisha Gray passed Monique Currie for #49 all-time in points (career 4,257) \u2014 up from #50 entering today \u2014 (Final \u2014 LV @ ATL)",
-    "kind": "rank_pass",
-    "player": "Allisha Gray",
-    "stat": "points",
-    "rank": 49,
-    "passed_players": [
-      "Monique Currie"
-    ],
-    "new_total": 4257
   }
 ]
