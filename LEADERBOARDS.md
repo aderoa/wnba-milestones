@@ -230,13 +230,13 @@ _Last updated: 2026-05-30 00:02 UTC_
 | 4 | Rebekkah Brunson | 3,345 |
 | 5 | Tamika Catchings | 3,313 |
 | 6 | Lisa Leslie | 3,303 |
-| 7 | **Nneka Ogwumike** 🔴 +3 | 3,298 |
+| 7 | **Nneka Ogwumike** 🔴 +4 | 3,299 |
 | 8 | **DeWanna Bonner** 🔴 | 3,232 |
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | **Alyssa Thomas** 🔴 | 2,770 |
-| 13 | **Jonquel Jones** 🔴 +1 | 2,600 |
+| 13 | **Jonquel Jones** 🔴 +2 | 2,601 |
 | 14 | Sancho Lyttle | 2,596 |
 | 15 | DeLisha Milton-Jones | 2,574 |
 | 16 | Brittney Griner | 2,537 |
@@ -247,7 +247,7 @@ _Last updated: 2026-05-30 00:02 UTC_
 | 21 | Crystal Langhorne | 2,454 |
 | 22 | Lauren Jackson | 2,444 |
 | 23 | Yolanda Griffith | 2,440 |
-| 24 | **Dearica Hamby** 🔴 +1 | 2,347 |
+| 24 | **Dearica Hamby** 🔴 +2 | 2,348 |
 | 25 | Tangela Smith | 2,328 |
 | 26 | Erika de Souza | 2,220 |
 | 27 | **Natasha Howard** 🔴 +2 | 2,206 |
@@ -527,7 +527,7 @@ _Last updated: 2026-05-30 00:02 UTC_
 | 96 | Sami Whitcomb | 623 |
 | 97 | Alysha Clark | 614 |
 | 98 | Debbie Black | 612 |
-| 99 | **Jonquel Jones** 🔴 +1 | 609 |
+| 99 | **Jonquel Jones** 🔴 +2 | 610 |
 | 100 | Cynthia Cooper | 602 |
 | 101 | Natisha Hiedeman | 594 |
 | 102 | Sancho Lyttle | 592 |
@@ -648,7 +648,7 @@ _Last updated: 2026-05-30 00:02 UTC_
 | 12 | Taj McWilliams-Franklin | 443 |
 | 13 | **Breanna Stewart** 🔴 | 433 |
 | 14 | Tina Charles | 428 |
-| 15 | **Jonquel Jones** 🔴 | 406 |
+| 15 | **Jonquel Jones** 🔴 +1 | 407 |
 | 16 | Michelle Snow | 403 |
 | 17 | Tamika Catchings | 383 |
 | 18 | Tina Thompson | 372 |
@@ -668,7 +668,7 @@ _Last updated: 2026-05-30 00:02 UTC_
 | 32 | Vicky Bullett | 288 |
 | 33 | Rebekkah Brunson | 281 |
 | 34 | Liz Cambage | 264 |
-| 35 | **Nneka Ogwumike** 🔴 | 261 |
+| 35 | **Nneka Ogwumike** 🔴 +1 | 262 |
 | 36 | Swin Cash | 258 |
 | 37 | Cheyenne Parker-Tyus | 256 |
 | 38 | Plenette Pierson | 242 |
