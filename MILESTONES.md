@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-30 03:27 UTC
+
+- **Karlie Samuelson** reached **200** career fouls (now 200) — _5:13 - 3rd — ATL @ POR_
+
 ## 2026-05-30 01:45 UTC
 
 - **Betnijah Laney-Hamilton** passed **Charlotte Smith** for **#169** all-time in rebounds (career 795) — up from #170 entering today — _0.8 - 4th — PHX @ NY_

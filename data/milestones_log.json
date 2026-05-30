@@ -1,5 +1,14 @@
 [
   {
+    "ts": "2026-05-30T03:27:00+00:00",
+    "text": "Karlie Samuelson reached 200 career fouls (now 200) \u2014 (5:13 - 3rd \u2014 ATL @ POR)",
+    "kind": "round",
+    "player": "Karlie Samuelson",
+    "stat": "fouls",
+    "value": 200,
+    "new_total": 200
+  },
+  {
     "ts": "2026-05-30T01:45:00+00:00",
     "text": "Betnijah Laney-Hamilton passed Charlotte Smith for #169 all-time in rebounds (career 795) \u2014 up from #170 entering today \u2014 (0.8 - 4th \u2014 PHX @ NY)",
     "kind": "rank_pass",
@@ -2993,17 +3002,5 @@
       "Ebony Hoffman"
     ],
     "new_total": 1377
-  },
-  {
-    "ts": "2026-05-18T14:28:00+00:00",
-    "text": "Jordin Canada passed Ruthie Bolton for #147 all-time in points (career 2,185) \u2014 up from #148 entering today \u2014 (Final \u2014 LV @ ATL)",
-    "kind": "rank_pass",
-    "player": "Jordin Canada",
-    "stat": "points",
-    "rank": 147,
-    "passed_players": [
-      "Ruthie Bolton"
-    ],
-    "new_total": 2185
   }
 ]
