@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-30 22:06 UTC_
+_Last updated: 2026-05-30 22:07 UTC_
 
 ## Contents
 
@@ -71,7 +71,7 @@ _Last updated: 2026-05-30 22:06 UTC_
 | 50 | Allisha Gray | 4,232 |
 | 51 | Vickie Johnson | 4,230 |
 | 52 | Yolanda Griffith | 4,224 |
-| 53 | **Dearica Hamby** 🔴 | 4,158 |
+| 53 | **Dearica Hamby** 🔴 +2 | 4,160 |
 | 54 | Kahleah Copper | 4,154 |
 | 55 | Rebekkah Brunson | 4,133 |
 | 56 | Jonquel Jones | 4,132 |
@@ -452,7 +452,7 @@ _Last updated: 2026-05-30 22:06 UTC_
 | 21 | Dawn Staley | 1,337 |
 | 22 | Teresa Weatherspoon | 1,333 |
 | 23 | Kristi Toliver | 1,301 |
-| 24 | **Erica Wheeler** 🔴 | 1,275 |
+| 24 | **Erica Wheeler** 🔴 +1 | 1,276 |
 | 25 | Katie Smith | 1,258 |
 | 26 | Kelsey Plum | 1,215 |
 | 27 | Odyssey Sims | 1,210 |
@@ -1375,7 +1375,7 @@ _Last updated: 2026-05-30 22:06 UTC_
 | 123 | Janeth Arcain | 453 |
 | 124 | Elena Baranova | 444 |
 | 124 | Jantel Lavender | 444 |
-| 126 | **Ariel Atkins** 🔴 | 442 |
+| 126 | **Ariel Atkins** 🔴 +1 | 443 |
 | 127 | Betnijah Laney-Hamilton | 441 |
 | 128 | Ann Wauters | 440 |
 | 129 | Cheyenne Parker-Tyus | 439 |
@@ -1519,7 +1519,7 @@ _Last updated: 2026-05-30 22:06 UTC_
 | 62 | Nykesha Sales | 796 |
 | 63 | Ebony Hoffman | 791 |
 | 64 | Sue Bird | 775 |
-| 65 | **Erica Wheeler** 🔴 | 770 |
+| 65 | **Erica Wheeler** 🔴 +1 | 771 |
 | 66 | Sheri Sam | 766 |
 | 67 | Kia Vaughn | 755 |
 | 68 | Vickie Johnson | 752 |
