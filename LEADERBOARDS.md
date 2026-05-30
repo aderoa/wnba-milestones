@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-30 17:24 UTC_
+_Last updated: 2026-05-30 17:25 UTC_
 
 ## Contents
 
@@ -267,8 +267,8 @@ _Last updated: 2026-05-30 17:24 UTC_
 | 41 | Courtney Williams | 1,766 |
 | 42 | Kiah Stokes | 1,760 |
 | 43 | Asjha Jones | 1,751 |
+| 44 | **Stefanie Dolson** 🔴 +3 | 1,670 |
 | 44 | Teaira McCowan | 1,670 |
-| 45 | **Stefanie Dolson** 🔴 +2 | 1,669 |
 | 46 | Monique Currie | 1,666 |
 | 47 | Glory Johnson | 1,640 |
 | 48 | Vickie Johnson | 1,634 |
@@ -384,8 +384,8 @@ _Last updated: 2026-05-30 17:24 UTC_
 | 158 | Jessica Shepard | 836 |
 | 159 | Essence Carson | 833 |
 | 160 | Kristi Toliver | 829 |
-| 161 | Marie Ferdinand-Harris | 828 |
-| 161 | **Marina Mabrey** 🔴 +1 | 828 |
+| 160 | **Marina Mabrey** 🔴 +2 | 829 |
+| 162 | Marie Ferdinand-Harris | 828 |
 | 163 | Marlies Askamp | 822 |
 | 164 | Amanda Zahui B | 819 |
 | 164 | Barbara Farris | 819 |
@@ -529,7 +529,7 @@ _Last updated: 2026-05-30 17:24 UTC_
 | 98 | Debbie Black | 612 |
 | 99 | Jonquel Jones | 608 |
 | 100 | Cynthia Cooper | 602 |
-| 101 | **Natisha Hiedeman** 🔴 +1 | 595 |
+| 101 | **Natisha Hiedeman** 🔴 +2 | 596 |
 | 102 | Sancho Lyttle | 592 |
 | 103 | Camille Smith | 590 |
 | 104 | Armintie Herrington | 589 |
