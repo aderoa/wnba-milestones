@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-30 00:59 UTC_
+_Last updated: 2026-05-30 01:00 UTC_
 
 ## Contents
 
@@ -415,9 +415,9 @@ _Last updated: 2026-05-30 00:59 UTC_
 | 189 | Ashley Robinson | 734 |
 | 190 | Arike Ogunbowale | 731 |
 | 191 | Shenise Johnson | 729 |
-| 192 | Sami Whitcomb | 726 |
-| 192 | **Shakira Austin** 🔴 +7 | 726 |
-| 192 | Shekinna Stricklen | 726 |
+| 192 | **Shakira Austin** 🔴 +8 | 727 |
+| 193 | Sami Whitcomb | 726 |
+| 193 | Shekinna Stricklen | 726 |
 | 195 | Kelsey Plum | 721 |
 | 196 | Olympia Scott | 711 |
 | 197 | Katie Mattera | 708 |
@@ -1263,7 +1263,7 @@ _Last updated: 2026-05-30 00:59 UTC_
 | 11 | Tamika Catchings | 1,041 |
 | 12 | Tina Charles | 1,040 |
 | 13 | Lindsay Whalen | 1,002 |
-| 14 | **Alyssa Thomas** 🔴 +2 | 982 |
+| 14 | **Alyssa Thomas** 🔴 +3 | 983 |
 | 15 | Sylvia Fowles | 961 |
 | 16 | Tanisha Wright | 954 |
 | 17 | Angel McCoughtry | 949 |
@@ -1489,8 +1489,8 @@ _Last updated: 2026-05-30 00:59 UTC_
 | 32 | Margo Dydek | 950 |
 | 33 | Sancho Lyttle | 947 |
 | 34 | Mwadi Mabika | 941 |
+| 35 | **Alyssa Thomas** 🔴 +3 | 940 |
 | 35 | Tamika Whitmore | 940 |
-| 36 | **Alyssa Thomas** 🔴 +2 | 939 |
 | 37 | Courtney Vandersloot | 938 |
 | 38 | Briann January | 921 |
 | 39 | Ticha Penicheiro | 913 |
