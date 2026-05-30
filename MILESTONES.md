@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-30 00:46 UTC
+
+- **Nia Coffey** passed **Nikki McCray** for **#122** all-time in three-pointers (career 176) — up from #125 entering today — _5:49 - 3rd — MIN @ CHI_
+
 ## 2026-05-30 00:44 UTC
 
 - **Nia Coffey** passed **Shatori Walker-Kimbrough** and **Tayler Hill** for **#123** all-time in three-pointers (career 175) — up from #125 entering today — _7:08 - 3rd — MIN @ CHI_

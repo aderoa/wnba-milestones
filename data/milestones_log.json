@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-30T00:46:00+00:00",
+    "text": "Nia Coffey passed Nikki McCray for #122 all-time in three-pointers (career 176) \u2014 up from #125 entering today \u2014 (5:49 - 3rd \u2014 MIN @ CHI)",
+    "kind": "rank_pass",
+    "player": "Nia Coffey",
+    "stat": "three-pointers",
+    "rank": 122,
+    "passed_players": [
+      "Nikki McCray"
+    ],
+    "new_total": 176
+  },
+  {
     "ts": "2026-05-30T00:44:00+00:00",
     "text": "Nia Coffey passed Shatori Walker-Kimbrough and Tayler Hill for #123 all-time in three-pointers (career 175) \u2014 up from #125 entering today \u2014 (7:08 - 3rd \u2014 MIN @ CHI)",
     "kind": "rank_pass",
@@ -3001,17 +3013,5 @@
       "Allisha Gray"
     ],
     "new_total": 1372
-  },
-  {
-    "ts": "2026-05-18T14:28:00+00:00",
-    "text": "Monique Billings passed Tamika Raymond for #194 all-time in steals (career 176) \u2014 (Final \u2014 SEA @ IND)",
-    "kind": "rank_pass",
-    "player": "Monique Billings",
-    "stat": "steals",
-    "rank": 194,
-    "passed_players": [
-      "Tamika Raymond"
-    ],
-    "new_total": 176
   }
 ]

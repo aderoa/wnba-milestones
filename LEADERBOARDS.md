@@ -56,11 +56,11 @@ _Last updated: 2026-05-30 00:46 UTC_
 | 35 | Chamique Holdsclaw | 4,713 |
 | 36 | Elena Delle Donne | 4,706 |
 | 37 | Penny Taylor | 4,595 |
-| 38 | **Alyssa Thomas** 🔴 +13 | 4,567 |
+| 38 | **Alyssa Thomas** 🔴 +15 | 4,569 |
 | 39 | Arike Ogunbowale | 4,512 |
 | 40 | Kristi Toliver | 4,474 |
 | 41 | Chelsea Gray | 4,469 |
-| 42 | **Natasha Howard** 🔴 +12 | 4,442 |
+| 42 | **Natasha Howard** 🔴 +14 | 4,444 |
 | 43 | Crystal Langhorne | 4,433 |
 | 43 | Jia Perkins | 4,433 |
 | 45 | Courtney Vandersloot | 4,352 |
@@ -98,7 +98,7 @@ _Last updated: 2026-05-30 00:46 UTC_
 | 77 | Ivory Latta | 3,447 |
 | 78 | Nicole Powell | 3,407 |
 | 79 | Epiphanny Prince | 3,381 |
-| 80 | **Ariel Atkins** 🔴 +4 | 3,375 |
+| 80 | **Ariel Atkins** 🔴 +6 | 3,377 |
 | 81 | Michelle Snow | 3,361 |
 | 82 | Tamika Whitmore | 3,359 |
 | 83 | Sheri Sam | 3,353 |
@@ -386,8 +386,8 @@ _Last updated: 2026-05-30 00:46 UTC_
 | 160 | Kristi Toliver | 829 |
 | 161 | Marie Ferdinand-Harris | 828 |
 | 162 | Marina Mabrey | 827 |
-| 163 | Marlies Askamp | 822 |
-| 163 | **Nia Coffey** 🔴 +3 | 822 |
+| 163 | **Nia Coffey** 🔴 +4 | 823 |
+| 164 | Marlies Askamp | 822 |
 | 165 | Amanda Zahui B | 819 |
 | 165 | Barbara Farris | 819 |
 | 167 | Carolyn Swords | 814 |
@@ -506,7 +506,7 @@ _Last updated: 2026-05-30 00:46 UTC_
 | 75 | Monique Currie | 740 |
 | 76 | Allisha Gray | 734 |
 | 77 | Elaine Powell | 728 |
-| 78 | **Dearica Hamby** 🔴 +3 | 700 |
+| 78 | **Dearica Hamby** 🔴 +4 | 701 |
 | 79 | Chamique Holdsclaw | 698 |
 | 80 | Shavonte Zellous | 693 |
 | 81 | Allie Quigley | 690 |
@@ -1165,9 +1165,9 @@ _Last updated: 2026-05-30 00:46 UTC_
 | 118 | Karima Christmas-Kelly | 181 |
 | 119 | Aerial Powers | 179 |
 | 119 | Camille Smith | 179 |
+| 121 | **Nia Coffey** 🔴 +4 | 176 |
 | 121 | Swin Cash | 176 |
-| 122 | **Nia Coffey** 🔴 +3 | 175 |
-| 122 | Nikki McCray | 175 |
+| 123 | Nikki McCray | 175 |
 | 124 | Shatori Walker-Kimbrough | 174 |
 | 124 | Tayler Hill | 174 |
 | 126 | Theresa Plaisance | 172 |
