@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-30 02:43 UTC_
+_Last updated: 2026-05-30 02:44 UTC_
 
 ## Contents
 
@@ -905,9 +905,9 @@ _Last updated: 2026-05-30 02:43 UTC_
 | 64 | Dominique Canty | 356 |
 | 64 | Renee Montgomery | 356 |
 | 66 | Tamecka Dixon | 355 |
+| 67 | **Allisha Gray** 🔴 +2 | 353 |
 | 67 | Vicky Bullett | 353 |
-| 68 | **Allisha Gray** 🔴 +1 | 352 |
-| 68 | Svetlana Abrosimova | 352 |
+| 69 | Svetlana Abrosimova | 352 |
 | 70 | Erica Wheeler | 350 |
 | 71 | Janeth Arcain | 346 |
 | 72 | Natasha Cloud | 344 |
