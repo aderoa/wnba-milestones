@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-30 01:12 UTC_
+_Last updated: 2026-05-30 01:13 UTC_
 
 ## Contents
 
@@ -386,7 +386,7 @@ _Last updated: 2026-05-30 01:12 UTC_
 | 160 | Kristi Toliver | 829 |
 | 161 | Marie Ferdinand-Harris | 828 |
 | 162 | Marina Mabrey | 827 |
-| 163 | **Nia Coffey** 🔴 +4 | 823 |
+| 163 | **Nia Coffey** 🔴 +5 | 824 |
 | 164 | Marlies Askamp | 822 |
 | 165 | Amanda Zahui B | 819 |
 | 165 | Barbara Farris | 819 |
