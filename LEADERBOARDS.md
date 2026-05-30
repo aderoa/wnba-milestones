@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-30 01:11 UTC_
+_Last updated: 2026-05-30 01:12 UTC_
 
 ## Contents
 
@@ -873,7 +873,7 @@ _Last updated: 2026-05-30 01:11 UTC_
 | 32 | **Skylar Diggins** 🔴 +2 | 450 |
 | 33 | Maya Moore | 449 |
 | 34 | Jewell Loyd | 445 |
-| 35 | **Natasha Howard** 🔴 +3 | 441 |
+| 35 | **Natasha Howard** 🔴 +4 | 442 |
 | 36 | Chelsea Gray | 439 |
 | 37 | Sheri Sam | 438 |
 | 38 | Camille Smith | 437 |
