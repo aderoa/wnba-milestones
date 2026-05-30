@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-30 01:00 UTC_
+_Last updated: 2026-05-30 01:01 UTC_
 
 ## Contents
 
@@ -152,7 +152,7 @@ _Last updated: 2026-05-30 01:00 UTC_
 | 131 | Alex Bentley | 2,350 |
 | 132 | Merlakia Jones | 2,308 |
 | 133 | Kia Vaughn | 2,288 |
-| 134 | **Betnijah Laney-Hamilton** 🔴 +9 | 2,270 |
+| 134 | **Betnijah Laney-Hamilton** 🔴 +11 | 2,272 |
 | 135 | Kayla Thornton | 2,267 |
 | 136 | Allison Feaster | 2,258 |
 | 137 | Shekinna Stricklen | 2,245 |
@@ -247,7 +247,7 @@ _Last updated: 2026-05-30 01:00 UTC_
 | 21 | Crystal Langhorne | 2,454 |
 | 22 | Lauren Jackson | 2,444 |
 | 23 | Yolanda Griffith | 2,440 |
-| 24 | **Dearica Hamby** 🔴 +6 | 2,352 |
+| 24 | **Dearica Hamby** 🔴 +7 | 2,353 |
 | 25 | Tangela Smith | 2,328 |
 | 26 | Erika de Souza | 2,220 |
 | 27 | **Natasha Howard** 🔴 +5 | 2,209 |
@@ -825,10 +825,10 @@ _Last updated: 2026-05-30 01:00 UTC_
 | 188 | Wendy Palmer | 70 |
 | 190 | Mercedes Russell | 69 |
 | 190 | Rhonda Mapp | 69 |
-| 192 | **Cameron Brink** 🔴 | 67 |
-| 192 | Jackie Young | 67 |
-| 192 | **Satou Sabally** 🔴 | 67 |
-| 192 | Shannon Johnson | 67 |
+| 192 | **Cameron Brink** 🔴 +1 | 68 |
+| 193 | Jackie Young | 67 |
+| 193 | **Satou Sabally** 🔴 | 67 |
+| 193 | Shannon Johnson | 67 |
 | 196 | Awak Kuier | 66 |
 | 197 | Crystal Robinson | 65 |
 | 197 | Queen Egbo | 65 |
@@ -1002,11 +1002,11 @@ _Last updated: 2026-05-30 01:00 UTC_
 | 161 | Kia Vaughn | 208 |
 | 161 | Sophia Witherspoon | 208 |
 | 163 | Marina Mabrey | 207 |
+| 164 | **Betnijah Laney-Hamilton** 🔴 +2 | 205 |
 | 164 | Shameka Christon | 205 |
-| 165 | **Betnijah Laney-Hamilton** 🔴 +1 | 204 |
-| 165 | Jessica Breland | 204 |
-| 165 | Murriel Page | 204 |
-| 165 | Shatori Walker-Kimbrough | 204 |
+| 166 | Jessica Breland | 204 |
+| 166 | Murriel Page | 204 |
+| 166 | Shatori Walker-Kimbrough | 204 |
 | 169 | Adrienne Goodson | 203 |
 | 170 | **Azurá Stevens** 🔴 | 201 |
 | 171 | Allie Quigley | 198 |
@@ -1263,7 +1263,7 @@ _Last updated: 2026-05-30 01:00 UTC_
 | 11 | Tamika Catchings | 1,041 |
 | 12 | Tina Charles | 1,040 |
 | 13 | Lindsay Whalen | 1,002 |
-| 14 | **Alyssa Thomas** 🔴 +3 | 983 |
+| 14 | **Alyssa Thomas** 🔴 +2 | 982 |
 | 15 | Sylvia Fowles | 961 |
 | 16 | Tanisha Wright | 954 |
 | 17 | Angel McCoughtry | 949 |
@@ -1326,7 +1326,7 @@ _Last updated: 2026-05-30 01:00 UTC_
 | 74 | Lindsey Harding | 600 |
 | 74 | Tamika Whitmore | 600 |
 | 76 | Kelly Miller | 596 |
-| 77 | **Kahleah Copper** 🔴 +2 | 592 |
+| 77 | **Kahleah Copper** 🔴 +3 | 593 |
 | 78 | Stefanie Dolson | 581 |
 | 79 | Helen Darling | 575 |
 | 79 | Nykesha Sales | 575 |
