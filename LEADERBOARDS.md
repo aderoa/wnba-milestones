@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-30 17:06 UTC_
+_Last updated: 2026-05-30 17:07 UTC_
 
 ## Contents
 
@@ -89,8 +89,8 @@ _Last updated: 2026-05-30 17:06 UTC_
 | 68 | Napheesa Collier | 3,542 |
 | 68 | Shannon Johnson | 3,542 |
 | 70 | Renee Montgomery | 3,533 |
-| 71 | **Brittney Sykes** 🔴 | 3,522 |
-| 71 | Jasmine Thomas | 3,522 |
+| 71 | **Brittney Sykes** 🔴 +2 | 3,524 |
+| 72 | Jasmine Thomas | 3,522 |
 | 73 | Tamecka Dixon | 3,507 |
 | 74 | Tammy Sutton-Brown | 3,498 |
 | 75 | Sancho Lyttle | 3,478 |
@@ -268,7 +268,7 @@ _Last updated: 2026-05-30 17:06 UTC_
 | 42 | Kiah Stokes | 1,760 |
 | 43 | Asjha Jones | 1,751 |
 | 44 | Teaira McCowan | 1,670 |
-| 45 | **Stefanie Dolson** 🔴 | 1,667 |
+| 45 | **Stefanie Dolson** 🔴 +1 | 1,668 |
 | 46 | Monique Currie | 1,666 |
 | 47 | Glory Johnson | 1,640 |
 | 48 | Vickie Johnson | 1,634 |
