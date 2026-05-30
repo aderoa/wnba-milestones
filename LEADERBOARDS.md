@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-30 17:13 UTC_
+_Last updated: 2026-05-30 17:14 UTC_
 
 ## Contents
 
@@ -164,7 +164,7 @@ _Last updated: 2026-05-30 17:13 UTC_
 | 142 | Teaira McCowan | 2,215 |
 | 144 | Sami Whitcomb | 2,211 |
 | 145 | Sophia Witherspoon | 2,210 |
-| 146 | Kia Nurse | 2,204 |
+| 146 | **Kia Nurse** 🔴 | 2,204 |
 | 147 | Ruthie Bolton | 2,175 |
 | 148 | Jordin Canada | 2,174 |
 | 149 | Ann Wauters | 2,170 |
@@ -334,7 +334,7 @@ _Last updated: 2026-05-30 17:13 UTC_
 | 108 | Andrea Stinson | 1,127 |
 | 108 | Tamika Raymond | 1,127 |
 | 110 | Adrienne Goodson | 1,126 |
-| 111 | **Brittney Sykes** 🔴 | 1,121 |
+| 111 | **Brittney Sykes** 🔴 +1 | 1,122 |
 | 112 | Deanna Nolan | 1,112 |
 | 113 | Chiney Ogwumike | 1,110 |
 | 114 | Becky Hammon | 1,108 |
@@ -594,7 +594,7 @@ _Last updated: 2026-05-30 17:13 UTC_
 | 162 | Murriel Page | 410 |
 | 164 | Allison Feaster | 406 |
 | 165 | Rita Williams | 403 |
-| 166 | Kia Nurse | 400 |
+| 166 | **Kia Nurse** 🔴 | 400 |
 | 167 | Marissa Coleman | 399 |
 | 168 | Julie Allemand | 395 |
 | 168 | Stacey Dales | 395 |
@@ -1095,7 +1095,7 @@ _Last updated: 2026-05-30 17:13 UTC_
 | 48 | Rhyne Howard | 370 |
 | 49 | Epiphanny Prince | 368 |
 | 50 | Jonquel Jones | 361 |
-| 51 | Kia Nurse | 358 |
+| 51 | **Kia Nurse** 🔴 | 358 |
 | 52 | Nykesha Sales | 352 |
 | 53 | Kahleah Copper | 345 |
 | 54 | Cathrine Kraayeveld | 343 |
@@ -1431,7 +1431,7 @@ _Last updated: 2026-05-30 17:13 UTC_
 | 179 | Olympia Scott | 324 |
 | 180 | Satou Sabally | 323 |
 | 181 | Barbara Farris | 315 |
-| 181 | Kia Nurse | 315 |
+| 181 | **Kia Nurse** 🔴 | 315 |
 | 183 | Moriah Jefferson | 314 |
 | 184 | Alex Bentley | 313 |
 | 184 | Gabby Williams | 313 |
@@ -1643,7 +1643,7 @@ _Last updated: 2026-05-30 17:13 UTC_
 | 186 | Rachel Banham | 478 |
 | 187 | Seimone Augustus | 477 |
 | 188 | Allie Quigley | 475 |
-| 189 | Kia Nurse | 467 |
+| 189 | **Kia Nurse** 🔴 | 467 |
 | 190 | Nia Coffey | 465 |
 | 191 | Azurá Stevens | 463 |
 | 191 | Christi Thomas | 463 |
