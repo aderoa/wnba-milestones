@@ -2,6 +2,11 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-30 01:45 UTC
+
+- **Betnijah Laney-Hamilton** passed **Charlotte Smith** for **#169** all-time in rebounds (career 795) — up from #170 entering today — _0.8 - 4th — PHX @ NY_
+- **Dearica Hamby** passed **Jasmine Thomas** for **#47** all-time in steals (career 395) — up from #48 entering today — _1:04 - 4th — LA @ WSH_
+
 ## 2026-05-30 01:41 UTC
 
 - **Shakira Austin** reached **1,200** career points (now 1,200) — _1:51 - 4th — LA @ WSH_

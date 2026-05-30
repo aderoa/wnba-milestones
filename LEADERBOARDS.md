@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-30 01:43 UTC_
+_Last updated: 2026-05-30 01:45 UTC_
 
 ## Contents
 
@@ -109,7 +109,7 @@ _Last updated: 2026-05-30 01:43 UTC_
 | 88 | Danielle Robinson | 3,160 |
 | 89 | Wendy Palmer | 3,135 |
 | 90 | Shavonte Zellous | 3,103 |
-| 91 | **Erica Wheeler** 🔴 +13 | 3,091 |
+| 91 | **Erica Wheeler** 🔴 +15 | 3,093 |
 | 92 | Briann January | 3,082 |
 | 93 | Erika de Souza | 3,046 |
 | 94 | Shameka Christon | 3,039 |
@@ -392,8 +392,8 @@ _Last updated: 2026-05-30 01:43 UTC_
 | 165 | Barbara Farris | 819 |
 | 167 | Carolyn Swords | 814 |
 | 168 | Tierra Ruffin-Pratt | 799 |
-| 169 | **Betnijah Laney-Hamilton** 🔴 +2 | 794 |
-| 169 | Charlotte Smith | 794 |
+| 169 | **Betnijah Laney-Hamilton** 🔴 +3 | 795 |
+| 170 | Charlotte Smith | 794 |
 | 171 | Naz Hillmon | 788 |
 | 171 | Rhonda Mapp | 788 |
 | 173 | Mercedes Russell | 786 |
@@ -506,7 +506,7 @@ _Last updated: 2026-05-30 01:43 UTC_
 | 75 | Monique Currie | 740 |
 | 76 | Allisha Gray | 734 |
 | 77 | Elaine Powell | 728 |
-| 78 | **Dearica Hamby** 🔴 +8 | 705 |
+| 78 | **Dearica Hamby** 🔴 +9 | 706 |
 | 79 | Chamique Holdsclaw | 698 |
 | 80 | Shavonte Zellous | 693 |
 | 81 | Allie Quigley | 690 |
@@ -885,8 +885,8 @@ _Last updated: 2026-05-30 01:43 UTC_
 | 44 | Katie Smith | 408 |
 | 45 | Cappie Pondexter | 405 |
 | 46 | Nicole Powell | 401 |
-| 47 | **Dearica Hamby** 🔴 +3 | 394 |
-| 47 | Jasmine Thomas | 394 |
+| 47 | **Dearica Hamby** 🔴 +4 | 395 |
+| 48 | Jasmine Thomas | 394 |
 | 49 | Danielle Robinson | 389 |
 | 50 | Deanna Nolan | 388 |
 | 51 | Briann January | 386 |
