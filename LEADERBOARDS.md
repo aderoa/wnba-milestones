@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-30 00:46 UTC_
+_Last updated: 2026-05-30 00:48 UTC_
 
 ## Contents
 
@@ -159,7 +159,7 @@ _Last updated: 2026-05-30 00:46 UTC_
 | 138 | Kara Braxton | 2,237 |
 | 138 | Matee Ajavon | 2,237 |
 | 140 | Dawn Staley | 2,228 |
-| 141 | **Azurá Stevens** 🔴 +2 | 2,221 |
+| 141 | **Azurá Stevens** 🔴 +4 | 2,223 |
 | 142 | Janel McCarville | 2,215 |
 | 142 | **Teaira McCowan** 🔴 | 2,215 |
 | 144 | Sami Whitcomb | 2,211 |
@@ -200,7 +200,7 @@ _Last updated: 2026-05-30 00:46 UTC_
 | 179 | Noelle Quinn | 1,824 |
 | 180 | Danielle Adams | 1,820 |
 | 181 | Charde Houston | 1,797 |
-| 182 | **Rachel Banham** 🔴 +3 | 1,791 |
+| 182 | **Rachel Banham** 🔴 +6 | 1,794 |
 | 183 | Kamila Vodichkova | 1,767 |
 | 184 | Tully Bevilaqua | 1,763 |
 | 185 | Sandy Brondello | 1,759 |
@@ -322,7 +322,7 @@ _Last updated: 2026-05-30 00:46 UTC_
 | 96 | Myisha Hines-Allen | 1,224 |
 | 97 | Jia Perkins | 1,220 |
 | 98 | Chelsea Gray | 1,210 |
-| 99 | **Kayla McBride** 🔴 +3 | 1,204 |
+| 99 | **Kayla McBride** 🔴 +4 | 1,205 |
 | 100 | DeMya Walker | 1,199 |
 | 101 | Latasha Byears | 1,190 |
 | 101 | Tanisha Wright | 1,190 |
@@ -339,7 +339,7 @@ _Last updated: 2026-05-30 00:46 UTC_
 | 113 | Chiney Ogwumike | 1,110 |
 | 114 | Becky Hammon | 1,108 |
 | 115 | Ann Wauters | 1,105 |
-| 116 | **Natasha Cloud** 🔴 +2 | 1,095 |
+| 116 | **Natasha Cloud** 🔴 +3 | 1,096 |
 | 117 | NaLyssa Smith | 1,081 |
 | 118 | Svetlana Abrosimova | 1,078 |
 | 119 | Aliyah Boston | 1,066 |
@@ -417,7 +417,7 @@ _Last updated: 2026-05-30 00:46 UTC_
 | 191 | Shenise Johnson | 729 |
 | 192 | Sami Whitcomb | 726 |
 | 192 | Shekinna Stricklen | 726 |
-| 194 | **Shakira Austin** 🔴 +5 | 724 |
+| 194 | **Shakira Austin** 🔴 +6 | 725 |
 | 195 | Kelsey Plum | 721 |
 | 196 | Olympia Scott | 711 |
 | 197 | Katie Mattera | 708 |
@@ -435,9 +435,9 @@ _Last updated: 2026-05-30 00:46 UTC_
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
 | 6 | Chelsea Gray | 1,903 |
-| 7 | **Alyssa Thomas** 🔴 +3 | 1,857 |
+| 7 | **Alyssa Thomas** 🔴 +4 | 1,858 |
 | 8 | **Skylar Diggins** 🔴 +1 | 1,786 |
-| 9 | **Natasha Cloud** 🔴 +1 | 1,748 |
+| 9 | **Natasha Cloud** 🔴 +2 | 1,749 |
 | 10 | Becky Hammon | 1,705 |
 | 11 | Candace Parker | 1,634 |
 | 12 | Cappie Pondexter | 1,575 |
@@ -562,7 +562,7 @@ _Last updated: 2026-05-30 00:46 UTC_
 | 130 | Crystal Robinson | 488 |
 | 130 | Tiffany Mitchell | 488 |
 | 133 | Rebekkah Brunson | 486 |
-| 134 | **Kahleah Copper** 🔴 | 472 |
+| 134 | **Kahleah Copper** 🔴 +1 | 473 |
 | 135 | Ukari Figgs | 470 |
 | 136 | Janeth Arcain | 469 |
 | 137 | Erin Phillips | 462 |
@@ -1088,7 +1088,7 @@ _Last updated: 2026-05-30 00:46 UTC_
 | 41 | Roneeka Hodges | 389 |
 | 42 | Courtney Vandersloot | 385 |
 | 43 | Briann January | 381 |
-| 44 | **Rachel Banham** 🔴 +1 | 377 |
+| 44 | **Rachel Banham** 🔴 +2 | 378 |
 | 45 | Jasmine Thomas | 376 |
 | 46 | Allison Feaster | 372 |
 | 46 | Betty Lennox | 372 |
@@ -1529,7 +1529,7 @@ _Last updated: 2026-05-30 00:46 UTC_
 | 72 | Becky Hammon | 733 |
 | 72 | **Natasha Cloud** 🔴 +2 | 733 |
 | 74 | Latasha Byears | 730 |
-| 75 | **Kahleah Copper** 🔴 +2 | 725 |
+| 75 | **Kahleah Copper** 🔴 +3 | 726 |
 | 76 | Kristi Toliver | 722 |
 | 77 | Allisha Gray | 714 |
 | 78 | Cheryl Ford | 713 |
