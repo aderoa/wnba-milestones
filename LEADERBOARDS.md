@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-30 01:05 UTC_
+_Last updated: 2026-05-30 01:07 UTC_
 
 ## Contents
 
@@ -23,7 +23,7 @@ _Last updated: 2026-05-30 01:05 UTC_
 | 2 | Tina Charles | 8,396 |
 | 3 | **DeWanna Bonner** 🔴 | 7,847 |
 | 4 | Tina Thompson | 7,470 |
-| 5 | **Nneka Ogwumike** 🔴 +13 | 7,384 |
+| 5 | **Nneka Ogwumike** 🔴 +15 | 7,386 |
 | 6 | Tamika Catchings | 7,371 |
 | 7 | Candice Dupree | 6,861 |
 | 8 | Sue Bird | 6,802 |
@@ -32,7 +32,7 @@ _Last updated: 2026-05-30 01:05 UTC_
 | 11 | Katie Smith | 6,450 |
 | 12 | Sylvia Fowles | 6,413 |
 | 13 | Lisa Leslie | 6,251 |
-| 14 | **Breanna Stewart** 🔴 +4 | 6,081 |
+| 14 | **Breanna Stewart** 🔴 +6 | 6,083 |
 | 15 | Jewell Loyd | 6,059 |
 | 16 | Lauren Jackson | 6,005 |
 | 16 | Seimone Augustus | 6,005 |
@@ -264,7 +264,7 @@ _Last updated: 2026-05-30 01:05 UTC_
 | 38 | Sophia Young-Malcolm | 1,807 |
 | 39 | Lindsay Whalen | 1,805 |
 | 40 | Camille Smith | 1,802 |
-| 41 | **Courtney Williams** 🔴 +2 | 1,768 |
+| 41 | **Courtney Williams** 🔴 +3 | 1,769 |
 | 42 | Kiah Stokes | 1,760 |
 | 43 | Asjha Jones | 1,751 |
 | 44 | **Teaira McCowan** 🔴 +4 | 1,674 |
@@ -435,7 +435,7 @@ _Last updated: 2026-05-30 01:05 UTC_
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
 | 6 | Chelsea Gray | 1,903 |
-| 7 | **Alyssa Thomas** 🔴 +5 | 1,859 |
+| 7 | **Alyssa Thomas** 🔴 +7 | 1,861 |
 | 8 | **Skylar Diggins** 🔴 +2 | 1,787 |
 | 9 | **Natasha Cloud** 🔴 +2 | 1,749 |
 | 10 | Becky Hammon | 1,705 |
@@ -569,8 +569,8 @@ _Last updated: 2026-05-30 01:05 UTC_
 | 138 | Sylvia Fowles | 461 |
 | 139 | **Elizabeth Williams** 🔴 +1 | 456 |
 | 140 | Sydney Colson | 454 |
-| 141 | **Satou Sabally** 🔴 | 451 |
-| 141 | Yolanda Griffith | 451 |
+| 141 | **Satou Sabally** 🔴 +1 | 452 |
+| 142 | Yolanda Griffith | 451 |
 | 143 | Elena Delle Donne | 450 |
 | 143 | Kristi Harrower | 450 |
 | 143 | Nikki McCray | 450 |
@@ -757,10 +757,10 @@ _Last updated: 2026-05-30 01:05 UTC_
 | 121 | **Courtney Williams** 🔴 | 103 |
 | 121 | Jennifer Gillom | 103 |
 | 121 | Jia Perkins | 103 |
+| 124 | **Kamilla Cardoso** 🔴 +2 | 102 |
 | 124 | Theresa Plaisance | 102 |
-| 125 | Deanna Nolan | 101 |
-| 125 | **Dearica Hamby** 🔴 | 101 |
-| 125 | **Kamilla Cardoso** 🔴 +1 | 101 |
+| 126 | Deanna Nolan | 101 |
+| 126 | **Dearica Hamby** 🔴 | 101 |
 | 128 | Chante Black | 100 |
 | 128 | Danielle Adams | 100 |
 | 128 | Nicole Powell | 100 |
@@ -1302,8 +1302,8 @@ _Last updated: 2026-05-30 01:05 UTC_
 | 50 | Asjha Jones | 682 |
 | 51 | Danielle Robinson | 680 |
 | 52 | Sheryl Swoopes | 677 |
+| 53 | **Erica Wheeler** 🔴 +4 | 675 |
 | 53 | **Natasha Cloud** 🔴 +2 | 675 |
-| 54 | **Erica Wheeler** 🔴 +3 | 674 |
 | 55 | Tammy Sutton-Brown | 672 |
 | 56 | Deanna Nolan | 669 |
 | 57 | **Dearica Hamby** 🔴 +1 | 668 |
