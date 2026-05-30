@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-30 03:49 UTC
+
+- **Allisha Gray** passed **Vicky Bullett** for **#67** all-time in steals (career 354) — up from #69 entering today — _6:44 - 4th — ATL @ POR_
+
 ## 2026-05-30 03:27 UTC
 
 - **Karlie Samuelson** reached **200** career fouls (now 200) — _5:13 - 3rd — ATL @ POR_

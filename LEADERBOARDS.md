@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-30 03:48 UTC_
+_Last updated: 2026-05-30 03:49 UTC_
 
 ## Contents
 
@@ -68,7 +68,7 @@ _Last updated: 2026-05-30 03:48 UTC_
 | 47 | Sophia Young-Malcolm | 4,300 |
 | 48 | Plenette Pierson | 4,258 |
 | 49 | Monique Currie | 4,253 |
-| 50 | **Allisha Gray** 🔴 +10 | 4,242 |
+| 50 | **Allisha Gray** 🔴 +13 | 4,245 |
 | 51 | Vickie Johnson | 4,230 |
 | 52 | Yolanda Griffith | 4,224 |
 | 53 | Dearica Hamby | 4,172 |
@@ -905,8 +905,8 @@ _Last updated: 2026-05-30 03:48 UTC_
 | 64 | Dominique Canty | 356 |
 | 64 | Renee Montgomery | 356 |
 | 66 | Tamecka Dixon | 355 |
-| 67 | **Allisha Gray** 🔴 +2 | 353 |
-| 67 | Vicky Bullett | 353 |
+| 67 | **Allisha Gray** 🔴 +3 | 354 |
+| 68 | Vicky Bullett | 353 |
 | 69 | Svetlana Abrosimova | 352 |
 | 70 | Erica Wheeler | 350 |
 | 71 | Janeth Arcain | 346 |
@@ -1075,8 +1075,8 @@ _Last updated: 2026-05-30 03:48 UTC_
 | 28 | Tiffany Hayes | 447 |
 | 29 | Ariel Atkins | 440 |
 | 30 | Lauren Jackson | 436 |
-| 31 | **Allisha Gray** 🔴 +2 | 434 |
-| 31 | Shameka Christon | 434 |
+| 31 | **Allisha Gray** 🔴 +3 | 435 |
+| 32 | Shameka Christon | 434 |
 | 33 | Skylar Diggins | 428 |
 | 34 | Crystal Robinson | 425 |
 | 35 | Chelsea Gray | 423 |

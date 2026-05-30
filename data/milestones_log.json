@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-30T03:49:00+00:00",
+    "text": "Allisha Gray passed Vicky Bullett for #67 all-time in steals (career 354) \u2014 up from #69 entering today \u2014 (6:44 - 4th \u2014 ATL @ POR)",
+    "kind": "rank_pass",
+    "player": "Allisha Gray",
+    "stat": "steals",
+    "rank": 67,
+    "passed_players": [
+      "Vicky Bullett"
+    ],
+    "new_total": 354
+  },
+  {
     "ts": "2026-05-30T03:27:00+00:00",
     "text": "Karlie Samuelson reached 200 career fouls (now 200) \u2014 (5:13 - 3rd \u2014 ATL @ POR)",
     "kind": "round",
@@ -2990,17 +3002,5 @@
       "Monique Currie"
     ],
     "new_total": 4257
-  },
-  {
-    "ts": "2026-05-18T14:28:00+00:00",
-    "text": "Allisha Gray passed Ebony Hoffman for #74 all-time in rebounds (career 1,377) \u2014 up from #75 entering today \u2014 (Final \u2014 LV @ ATL)",
-    "kind": "rank_pass",
-    "player": "Allisha Gray",
-    "stat": "rebounds",
-    "rank": 74,
-    "passed_players": [
-      "Ebony Hoffman"
-    ],
-    "new_total": 1377
   }
 ]
