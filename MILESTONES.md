@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-30 23:30 UTC
+
+- **Dearica Hamby** passed **Deanna Nolan** for **#125** all-time in blocks (career 102) — up from #126 entering today — _5:21 - 3rd — LA @ CON_
+
 ## 2026-05-30 17:49 UTC
 
 - **Jordan Horston** reached **100** career steals (now 100) — _Halftime — SEA @ TOR_

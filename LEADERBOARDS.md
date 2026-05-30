@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-30 23:29 UTC_
+_Last updated: 2026-05-30 23:30 UTC_
 
 ## Contents
 
@@ -757,9 +757,9 @@ _Last updated: 2026-05-30 23:29 UTC_
 | 121 | Courtney Williams | 103 |
 | 121 | Jennifer Gillom | 103 |
 | 121 | Jia Perkins | 103 |
+| 124 | **Dearica Hamby** 🔴 +1 | 102 |
 | 124 | Theresa Plaisance | 102 |
-| 125 | Deanna Nolan | 101 |
-| 125 | **Dearica Hamby** 🔴 | 101 |
+| 126 | Deanna Nolan | 101 |
 | 127 | Chante Black | 100 |
 | 127 | Danielle Adams | 100 |
 | 127 | Kamilla Cardoso | 100 |
@@ -825,10 +825,10 @@ _Last updated: 2026-05-30 23:29 UTC_
 | 188 | Wendy Palmer | 70 |
 | 190 | Mercedes Russell | 69 |
 | 190 | Rhonda Mapp | 69 |
-| 192 | **Cameron Brink** 🔴 | 67 |
-| 192 | Jackie Young | 67 |
-| 192 | Satou Sabally | 67 |
-| 192 | Shannon Johnson | 67 |
+| 192 | **Cameron Brink** 🔴 +1 | 68 |
+| 193 | Jackie Young | 67 |
+| 193 | Satou Sabally | 67 |
+| 193 | Shannon Johnson | 67 |
 | 196 | Awak Kuier | 66 |
 | 197 | Crystal Robinson | 65 |
 | 197 | Queen Egbo | 65 |
