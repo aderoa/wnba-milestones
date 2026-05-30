@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-30 17:49 UTC
+
+- **Jordan Horston** reached **100** career steals (now 100) — _Halftime — SEA @ TOR_
+
 ## 2026-05-30 17:20 UTC
 
 - **Julie Allemand** passed **Stacey Dales** for **#169** all-time in assists (career 396) — _End of 1st — SEA @ TOR_

@@ -1,5 +1,14 @@
 [
   {
+    "ts": "2026-05-30T17:49:00+00:00",
+    "text": "Jordan Horston reached 100 career steals (now 100) \u2014 (Halftime \u2014 SEA @ TOR)",
+    "kind": "round",
+    "player": "Jordan Horston",
+    "stat": "steals",
+    "value": 100,
+    "new_total": 100
+  },
+  {
     "ts": "2026-05-30T17:20:00+00:00",
     "text": "Julie Allemand passed Stacey Dales for #169 all-time in assists (career 396) \u2014 (End of 1st \u2014 SEA @ TOR)",
     "kind": "rank_pass",
@@ -2988,18 +2997,5 @@
       "Emma Meesseman"
     ],
     "new_total": 1352
-  },
-  {
-    "ts": "2026-05-18T14:28:00+00:00",
-    "text": "Naz Hillmon passed Betnijah Laney-Hamilton and Rhonda Mapp for #170 all-time in rebounds (career 793) \u2014 up from #171 entering today \u2014 (Final \u2014 LV @ ATL)",
-    "kind": "rank_pass",
-    "player": "Naz Hillmon",
-    "stat": "rebounds",
-    "rank": 170,
-    "passed_players": [
-      "Betnijah Laney-Hamilton",
-      "Rhonda Mapp"
-    ],
-    "new_total": 793
   }
 ]
