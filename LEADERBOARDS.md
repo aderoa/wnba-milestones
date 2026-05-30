@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-30 01:04 UTC_
+_Last updated: 2026-05-30 01:05 UTC_
 
 ## Contents
 
@@ -72,10 +72,10 @@ _Last updated: 2026-05-30 01:04 UTC_
 | 51 | Vickie Johnson | 4,230 |
 | 52 | Yolanda Griffith | 4,224 |
 | 53 | **Dearica Hamby** 🔴 +12 | 4,170 |
-| 54 | **Kahleah Copper** 🔴 +9 | 4,163 |
+| 54 | **Kahleah Copper** 🔴 +10 | 4,164 |
 | 55 | **Jonquel Jones** 🔴 +7 | 4,139 |
-| 56 | Rebekkah Brunson | 4,133 |
-| 57 | **Courtney Williams** 🔴 +8 | 4,132 |
+| 56 | **Courtney Williams** 🔴 +10 | 4,134 |
+| 57 | Rebekkah Brunson | 4,133 |
 | 58 | Asjha Jones | 3,986 |
 | 59 | Deanna Nolan | 3,971 |
 | 60 | Nykesha Sales | 3,931 |
@@ -229,7 +229,7 @@ _Last updated: 2026-05-30 01:04 UTC_
 | 3 | Candace Parker | 3,467 |
 | 4 | Rebekkah Brunson | 3,345 |
 | 5 | Tamika Catchings | 3,313 |
-| 6 | **Nneka Ogwumike** 🔴 +9 | 3,304 |
+| 6 | **Nneka Ogwumike** 🔴 +10 | 3,305 |
 | 7 | Lisa Leslie | 3,303 |
 | 8 | **DeWanna Bonner** 🔴 +1 | 3,233 |
 | 9 | Candice Dupree | 3,132 |
@@ -1373,9 +1373,9 @@ _Last updated: 2026-05-30 01:04 UTC_
 | 121 | A'ja Wilson | 454 |
 | 121 | Kia Vaughn | 454 |
 | 123 | Janeth Arcain | 453 |
+| 124 | **Ariel Atkins** 🔴 +2 | 444 |
 | 124 | Elena Baranova | 444 |
 | 124 | Jantel Lavender | 444 |
-| 126 | **Ariel Atkins** 🔴 +1 | 443 |
 | 127 | **Betnijah Laney-Hamilton** 🔴 | 441 |
 | 128 | Ann Wauters | 440 |
 | 129 | Cheyenne Parker-Tyus | 439 |
@@ -1540,8 +1540,8 @@ _Last updated: 2026-05-30 01:04 UTC_
 | 82 | Nicole Powell | 701 |
 | 84 | Tan White | 698 |
 | 85 | Katie Douglas | 697 |
-| 86 | **Ariel Atkins** 🔴 +3 | 692 |
-| 86 | Danielle Robinson | 692 |
+| 86 | **Ariel Atkins** 🔴 +4 | 693 |
+| 87 | Danielle Robinson | 692 |
 | 88 | Sophia Young-Malcolm | 687 |
 | 89 | Maya Moore | 686 |
 | 90 | Jasmine Thomas | 685 |
