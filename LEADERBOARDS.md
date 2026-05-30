@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-30 00:12 UTC_
+_Last updated: 2026-05-30 00:13 UTC_
 
 ## Contents
 
@@ -235,7 +235,7 @@ _Last updated: 2026-05-30 00:12 UTC_
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
-| 12 | **Alyssa Thomas** 🔴 +1 | 2,771 |
+| 12 | **Alyssa Thomas** 🔴 +2 | 2,772 |
 | 13 | **Jonquel Jones** 🔴 +3 | 2,602 |
 | 14 | Sancho Lyttle | 2,596 |
 | 15 | DeLisha Milton-Jones | 2,574 |
@@ -256,7 +256,7 @@ _Last updated: 2026-05-30 00:12 UTC_
 | 30 | Chamique Holdsclaw | 2,123 |
 | 31 | Chasity Melvin | 2,097 |
 | 32 | Tammy Sutton-Brown | 2,010 |
-| 33 | **Elizabeth Williams** 🔴 +2 | 1,925 |
+| 33 | **Elizabeth Williams** 🔴 +3 | 1,926 |
 | 34 | Cheryl Ford | 1,907 |
 | 35 | Plenette Pierson | 1,834 |
 | 36 | Natalie Williams | 1,832 |
@@ -417,8 +417,8 @@ _Last updated: 2026-05-30 00:12 UTC_
 | 191 | Shenise Johnson | 729 |
 | 192 | Sami Whitcomb | 726 |
 | 192 | Shekinna Stricklen | 726 |
-| 194 | Kelsey Plum | 721 |
-| 194 | **Shakira Austin** 🔴 +2 | 721 |
+| 194 | **Shakira Austin** 🔴 +3 | 722 |
+| 195 | Kelsey Plum | 721 |
 | 196 | Olympia Scott | 711 |
 | 197 | Katie Mattera | 708 |
 | 198 | Rushia Brown | 706 |
@@ -928,9 +928,9 @@ _Last updated: 2026-05-30 00:12 UTC_
 | 87 | Tammy Sutton-Brown | 319 |
 | 88 | Plenette Pierson | 317 |
 | 88 | Temeka Johnson | 317 |
-| 90 | Alysha Clark | 315 |
-| 90 | **Courtney Williams** 🔴 | 315 |
-| 90 | Debbie Black | 315 |
+| 90 | **Courtney Williams** 🔴 +1 | 316 |
+| 91 | Alysha Clark | 315 |
+| 91 | Debbie Black | 315 |
 | 93 | Crystal Langhorne | 314 |
 | 94 | Ebony Hoffman | 308 |
 | 95 | Tamera Young | 305 |
@@ -1303,15 +1303,15 @@ _Last updated: 2026-05-30 00:12 UTC_
 | 51 | Danielle Robinson | 680 |
 | 52 | Sheryl Swoopes | 677 |
 | 53 | **Natasha Cloud** 🔴 +1 | 674 |
-| 54 | **Erica Wheeler** 🔴 +1 | 672 |
-| 54 | Tammy Sutton-Brown | 672 |
+| 54 | **Erica Wheeler** 🔴 +2 | 673 |
+| 55 | Tammy Sutton-Brown | 672 |
 | 56 | Deanna Nolan | 669 |
 | 57 | **Dearica Hamby** 🔴 +1 | 668 |
 | 58 | Chasity Melvin | 666 |
 | 59 | Vickie Johnson | 660 |
 | 60 | Yolanda Griffith | 653 |
+| 61 | **Courtney Williams** 🔴 +1 | 650 |
 | 61 | Sheri Sam | 650 |
-| 62 | **Courtney Williams** 🔴 | 649 |
 | 63 | Dawn Staley | 643 |
 | 64 | Ruth Riley | 637 |
 | 65 | Svetlana Abrosimova | 631 |
@@ -1402,8 +1402,8 @@ _Last updated: 2026-05-30 00:12 UTC_
 | 150 | Marissa Coleman | 396 |
 | 151 | Sophia Witherspoon | 386 |
 | 152 | Hamchetou Maiga-Ba | 385 |
+| 153 | **Elizabeth Williams** 🔴 +1 | 381 |
 | 153 | Kamila Vodichkova | 381 |
-| 154 | **Elizabeth Williams** 🔴 | 380 |
 | 155 | Jessica Breland | 378 |
 | 156 | Armintie Herrington | 377 |
 | 157 | Anna DeForge | 374 |
@@ -1527,7 +1527,7 @@ _Last updated: 2026-05-30 00:12 UTC_
 | 70 | Crystal Langhorne | 737 |
 | 71 | Shameka Christon | 734 |
 | 72 | Becky Hammon | 733 |
-| 73 | **Natasha Cloud** 🔴 +1 | 732 |
+| 72 | **Natasha Cloud** 🔴 +2 | 733 |
 | 74 | Latasha Byears | 730 |
 | 75 | **Kahleah Copper** 🔴 +2 | 725 |
 | 76 | Kristi Toliver | 722 |
