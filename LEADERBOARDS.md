@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-30 01:40 UTC_
+_Last updated: 2026-05-30 01:41 UTC_
 
 ## Contents
 
@@ -23,7 +23,7 @@ _Last updated: 2026-05-30 01:40 UTC_
 | 2 | Tina Charles | 8,396 |
 | 3 | **DeWanna Bonner** 🔴 +4 | 7,851 |
 | 4 | Tina Thompson | 7,470 |
-| 5 | **Nneka Ogwumike** 🔴 +17 | 7,388 |
+| 5 | **Nneka Ogwumike** 🔴 +20 | 7,391 |
 | 6 | Tamika Catchings | 7,371 |
 | 7 | Candice Dupree | 6,861 |
 | 8 | Sue Bird | 6,802 |
@@ -853,7 +853,7 @@ _Last updated: 2026-05-30 01:40 UTC_
 | 12 | DeLisha Milton-Jones | 619 |
 | 13 | Taj McWilliams-Franklin | 577 |
 | 14 | Tully Bevilaqua | 571 |
-| 15 | **Alyssa Thomas** 🔴 +1 | 562 |
+| 15 | **Alyssa Thomas** 🔴 +2 | 563 |
 | 16 | Courtney Vandersloot | 544 |
 | 17 | Yolanda Griffith | 527 |
 | 18 | Candace Parker | 521 |
@@ -1137,8 +1137,8 @@ _Last updated: 2026-05-30 01:40 UTC_
 | 90 | Erin Thorn | 243 |
 | 91 | Alex Bentley | 239 |
 | 91 | Cynthia Cooper | 239 |
-| 93 | Azurá Stevens | 238 |
-| 93 | **Nneka Ogwumike** 🔴 | 238 |
+| 91 | **Nneka Ogwumike** 🔴 +1 | 239 |
+| 94 | Azurá Stevens | 238 |
 | 95 | Brittney Sykes | 236 |
 | 96 | Svetlana Abrosimova | 235 |
 | 96 | Tangela Smith | 235 |
@@ -1376,7 +1376,7 @@ _Last updated: 2026-05-30 01:40 UTC_
 | 124 | **Ariel Atkins** 🔴 +2 | 444 |
 | 124 | Elena Baranova | 444 |
 | 124 | Jantel Lavender | 444 |
-| 127 | **Betnijah Laney-Hamilton** 🔴 | 441 |
+| 127 | **Betnijah Laney-Hamilton** 🔴 +1 | 442 |
 | 128 | Ann Wauters | 440 |
 | 129 | Cheyenne Parker-Tyus | 439 |
 | 129 | Tiffany Mitchell | 439 |

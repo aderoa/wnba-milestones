@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-30 01:41 UTC
+
+- **Shakira Austin** reached **1,200** career points (now 1,200) — _1:51 - 4th — LA @ WSH_
+
 ## 2026-05-30 01:21 UTC
 
 - **Natasha Cloud** passed **Helen Darling** for **#72** all-time in steals (career 344) — up from #74 entering today — _2:16 - 4th — MIN @ CHI_
