@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-29 23:59 UTC_
+_Last updated: 2026-05-30 00:01 UTC_
 
 ## Contents
 
@@ -42,7 +42,7 @@ _Last updated: 2026-05-29 23:59 UTC_
 | 21 | Angel McCoughtry | 5,797 |
 | 22 | DeLisha Milton-Jones | 5,571 |
 | 23 | Katie Douglas | 5,545 |
-| 24 | **Skylar Diggins** 🔴 +4 | 5,529 |
+| 24 | **Skylar Diggins** 🔴 +6 | 5,531 |
 | 25 | Lindsay Whalen | 5,511 |
 | 26 | **Kayla McBride** 🔴 +2 | 5,456 |
 | 27 | Swin Cash | 5,119 |
@@ -75,7 +75,7 @@ _Last updated: 2026-05-29 23:59 UTC_
 | 54 | **Kahleah Copper** 🔴 +1 | 4,155 |
 | 55 | Rebekkah Brunson | 4,133 |
 | 56 | **Jonquel Jones** 🔴 | 4,132 |
-| 57 | **Courtney Williams** 🔴 +4 | 4,128 |
+| 57 | **Courtney Williams** 🔴 +6 | 4,130 |
 | 58 | Asjha Jones | 3,986 |
 | 59 | Deanna Nolan | 3,971 |
 | 60 | Nykesha Sales | 3,931 |
@@ -217,7 +217,7 @@ _Last updated: 2026-05-29 23:59 UTC_
 | 196 | Le'coe Willingham | 1,552 |
 | 197 | Shatori Walker-Kimbrough | 1,544 |
 | 198 | Monique Billings | 1,528 |
-| 199 | Rebecca Allen | 1,517 |
+| 199 | **Rebecca Allen** 🔴 | 1,517 |
 | 200 | Jennifer Lacy | 1,504 |
 
 ## Rebounds
@@ -264,7 +264,7 @@ _Last updated: 2026-05-29 23:59 UTC_
 | 38 | Sophia Young-Malcolm | 1,807 |
 | 39 | Lindsay Whalen | 1,805 |
 | 40 | Camille Smith | 1,802 |
-| 41 | **Courtney Williams** 🔴 | 1,766 |
+| 41 | **Courtney Williams** 🔴 +1 | 1,767 |
 | 42 | Kiah Stokes | 1,760 |
 | 43 | Asjha Jones | 1,751 |
 | 44 | **Teaira McCowan** 🔴 +2 | 1,672 |
@@ -688,7 +688,7 @@ _Last updated: 2026-05-29 23:59 UTC_
 | 52 | Ashley Robinson | 204 |
 | 52 | Asjha Jones | 204 |
 | 54 | Janel McCarville | 201 |
-| 55 | Rebecca Allen | 195 |
+| 55 | **Rebecca Allen** 🔴 | 195 |
 | 56 | Jayne Appel Marinelli | 194 |
 | 57 | Angel McCoughtry | 193 |
 | 57 | Courtney Vandersloot | 193 |
@@ -1023,7 +1023,7 @@ _Last updated: 2026-05-29 23:59 UTC_
 | 180 | Tiffany Jackson | 185 |
 | 183 | Erin Perperoglou | 184 |
 | 184 | Erin Phillips | 182 |
-| 184 | Rebecca Allen | 182 |
+| 184 | **Rebecca Allen** 🔴 | 182 |
 | 184 | Sabrina Ionescu | 182 |
 | 187 | Nakia Sanford | 181 |
 | 188 | Diamond DeShields | 180 |
@@ -1132,7 +1132,7 @@ _Last updated: 2026-05-29 23:59 UTC_
 | 84 | Sophia Witherspoon | 260 |
 | 86 | Dawn Staley | 254 |
 | 87 | Bria Hartley | 253 |
-| 87 | Rebecca Allen | 253 |
+| 87 | **Rebecca Allen** 🔴 | 253 |
 | 89 | Angel McCoughtry | 249 |
 | 90 | Erin Thorn | 243 |
 | 91 | Alex Bentley | 239 |
