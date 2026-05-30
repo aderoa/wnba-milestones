@@ -361,7 +361,7 @@ _Last updated: 2026-05-30 00:57 UTC_
 | 134 | Sabrina Ionescu | 993 |
 | 136 | Danielle Robinson | 988 |
 | 137 | Shavonte Zellous | 978 |
-| 138 | **Skylar Diggins** 🔴 +4 | 977 |
+| 137 | **Skylar Diggins** 🔴 +5 | 978 |
 | 139 | Kara Lawson | 976 |
 | 140 | Jennifer Gillom | 964 |
 | 141 | Dominique Canty | 961 |
