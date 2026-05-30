@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-30 00:51 UTC_
+_Last updated: 2026-05-30 00:53 UTC_
 
 ## Contents
 
@@ -71,7 +71,7 @@ _Last updated: 2026-05-30 00:51 UTC_
 | 50 | Allisha Gray | 4,232 |
 | 51 | Vickie Johnson | 4,230 |
 | 52 | Yolanda Griffith | 4,224 |
-| 53 | **Dearica Hamby** 🔴 +7 | 4,165 |
+| 53 | **Dearica Hamby** 🔴 +9 | 4,167 |
 | 54 | **Kahleah Copper** 🔴 +4 | 4,158 |
 | 55 | **Jonquel Jones** 🔴 +4 | 4,136 |
 | 56 | Rebekkah Brunson | 4,133 |
@@ -506,7 +506,7 @@ _Last updated: 2026-05-30 00:51 UTC_
 | 75 | Monique Currie | 740 |
 | 76 | Allisha Gray | 734 |
 | 77 | Elaine Powell | 728 |
-| 78 | **Dearica Hamby** 🔴 +4 | 701 |
+| 78 | **Dearica Hamby** 🔴 +5 | 702 |
 | 79 | Chamique Holdsclaw | 698 |
 | 80 | Shavonte Zellous | 693 |
 | 81 | Allie Quigley | 690 |
@@ -886,7 +886,7 @@ _Last updated: 2026-05-30 00:51 UTC_
 | 45 | Cappie Pondexter | 405 |
 | 46 | Nicole Powell | 401 |
 | 47 | Jasmine Thomas | 394 |
-| 48 | **Dearica Hamby** 🔴 +1 | 392 |
+| 48 | **Dearica Hamby** 🔴 +2 | 393 |
 | 49 | Danielle Robinson | 389 |
 | 50 | Deanna Nolan | 388 |
 | 51 | Briann January | 386 |
@@ -940,8 +940,8 @@ _Last updated: 2026-05-30 00:51 UTC_
 | 99 | Janel McCarville | 294 |
 | 100 | Kelly Miller | 290 |
 | 101 | Glory Johnson | 289 |
-| 102 | **Elizabeth Williams** 🔴 +1 | 286 |
-| 103 | Essence Carson | 285 |
+| 102 | **Elizabeth Williams** 🔴 | 285 |
+| 102 | Essence Carson | 285 |
 | 104 | Seimone Augustus | 280 |
 | 105 | Tari Phillips | 277 |
 | 106 | Emma Meesseman | 276 |
