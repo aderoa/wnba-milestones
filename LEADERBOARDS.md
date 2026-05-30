@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-30 01:21 UTC_
+_Last updated: 2026-05-30 01:22 UTC_
 
 ## Contents
 
@@ -236,7 +236,7 @@ _Last updated: 2026-05-30 01:21 UTC_
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | **Alyssa Thomas** 🔴 +2 | 2,772 |
-| 13 | **Jonquel Jones** 🔴 +6 | 2,605 |
+| 13 | **Jonquel Jones** 🔴 +7 | 2,606 |
 | 14 | Sancho Lyttle | 2,596 |
 | 15 | DeLisha Milton-Jones | 2,574 |
 | 16 | Brittney Griner | 2,537 |
@@ -757,8 +757,8 @@ _Last updated: 2026-05-30 01:21 UTC_
 | 121 | **Courtney Williams** 🔴 | 103 |
 | 121 | Jennifer Gillom | 103 |
 | 121 | Jia Perkins | 103 |
-| 121 | **Kamilla Cardoso** 🔴 +3 | 103 |
-| 125 | Theresa Plaisance | 102 |
+| 124 | **Kamilla Cardoso** 🔴 +2 | 102 |
+| 124 | Theresa Plaisance | 102 |
 | 126 | Deanna Nolan | 101 |
 | 126 | **Dearica Hamby** 🔴 | 101 |
 | 128 | Chante Black | 100 |
@@ -879,8 +879,8 @@ _Last updated: 2026-05-30 01:21 UTC_
 | 38 | Camille Smith | 437 |
 | 39 | Candice Dupree | 431 |
 | 40 | Epiphanny Prince | 429 |
-| 41 | **Kayla McBride** 🔴 +2 | 427 |
-| 41 | Tanisha Wright | 427 |
+| 41 | **Kayla McBride** 🔴 +3 | 428 |
+| 42 | Tanisha Wright | 427 |
 | 43 | **Breanna Stewart** 🔴 +1 | 416 |
 | 44 | Katie Smith | 408 |
 | 45 | Cappie Pondexter | 405 |
@@ -1165,7 +1165,7 @@ _Last updated: 2026-05-30 01:21 UTC_
 | 118 | Karima Christmas-Kelly | 181 |
 | 119 | Aerial Powers | 179 |
 | 119 | Camille Smith | 179 |
-| 121 | **Nia Coffey** 🔴 +5 | 177 |
+| 121 | **Nia Coffey** 🔴 +6 | 178 |
 | 122 | Swin Cash | 176 |
 | 123 | Nikki McCray | 175 |
 | 124 | Shatori Walker-Kimbrough | 174 |
@@ -1272,7 +1272,7 @@ _Last updated: 2026-05-30 01:21 UTC_
 | 20 | Shannon Johnson | 934 |
 | 21 | Taj McWilliams-Franklin | 898 |
 | 22 | Chelsea Gray | 888 |
-| 23 | **Skylar Diggins** 🔴 +2 | 883 |
+| 23 | **Skylar Diggins** 🔴 +3 | 884 |
 | 24 | Candice Dupree | 869 |
 | 25 | Alana Beard | 854 |
 | 26 | **DeWanna Bonner** 🔴 | 830 |
