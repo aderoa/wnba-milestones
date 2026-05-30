@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-30T01:17:00+00:00",
+    "text": "Courtney Williams passed Barbara Farris for #135 all-time in fouls (career 564) \u2014 up from #137 entering today \u2014 (2:16 - 4th \u2014 MIN @ CHI)",
+    "kind": "rank_pass",
+    "player": "Courtney Williams",
+    "stat": "fouls",
+    "rank": 135,
+    "passed_players": [
+      "Barbara Farris"
+    ],
+    "new_total": 564
+  },
+  {
     "ts": "2026-05-30T01:10:00+00:00",
     "text": "Alyssa Thomas passed Natalie Williams and Olivia Nelson-Ododa for #101 all-time in blocks (career 123) \u2014 (0.0 - 3rd \u2014 PHX @ NY)",
     "kind": "rank_pass",
@@ -2998,19 +3010,5 @@
       "Michele Timms"
     ],
     "new_total": 188
-  },
-  {
-    "ts": "2026-05-18T14:28:00+00:00",
-    "text": "Natisha Hiedeman passed Candice Wiggins, Tully Bevilaqua, and Alana Beard for #74 all-time in three-pointers (career 291) \u2014 up from #77 entering today \u2014 (Final \u2014 SEA @ IND)",
-    "kind": "rank_pass",
-    "player": "Natisha Hiedeman",
-    "stat": "three-pointers",
-    "rank": 74,
-    "passed_players": [
-      "Candice Wiggins",
-      "Tully Bevilaqua",
-      "Alana Beard"
-    ],
-    "new_total": 291
   }
 ]

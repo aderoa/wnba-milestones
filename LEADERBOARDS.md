@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-30 01:16 UTC_
+_Last updated: 2026-05-30 01:17 UTC_
 
 ## Contents
 
@@ -74,7 +74,7 @@ _Last updated: 2026-05-30 01:16 UTC_
 | 53 | **Dearica Hamby** 🔴 +12 | 4,170 |
 | 54 | **Kahleah Copper** 🔴 +13 | 4,167 |
 | 55 | **Jonquel Jones** 🔴 +7 | 4,139 |
-| 56 | **Courtney Williams** 🔴 +12 | 4,136 |
+| 56 | **Courtney Williams** 🔴 +10 | 4,134 |
 | 57 | Rebekkah Brunson | 4,133 |
 | 58 | Asjha Jones | 3,986 |
 | 59 | Deanna Nolan | 3,971 |
@@ -231,7 +231,7 @@ _Last updated: 2026-05-30 01:16 UTC_
 | 5 | Tamika Catchings | 3,313 |
 | 6 | **Nneka Ogwumike** 🔴 +10 | 3,305 |
 | 7 | Lisa Leslie | 3,303 |
-| 8 | **DeWanna Bonner** 🔴 +2 | 3,234 |
+| 8 | **DeWanna Bonner** 🔴 +3 | 3,235 |
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
@@ -746,8 +746,8 @@ _Last updated: 2026-05-30 01:16 UTC_
 | 109 | Kamila Vodichkova | 111 |
 | 109 | Sophia Young-Malcolm | 111 |
 | 109 | Tari Phillips | 111 |
-| 113 | **Ariel Atkins** 🔴 | 109 |
-| 113 | **Natasha Mack** 🔴 +1 | 109 |
+| 113 | **Natasha Mack** 🔴 +2 | 110 |
+| 114 | **Ariel Atkins** 🔴 | 109 |
 | 115 | Erin Perperoglou | 108 |
 | 115 | Glory Johnson | 108 |
 | 117 | **Shakira Austin** 🔴 | 106 |
@@ -1495,7 +1495,7 @@ _Last updated: 2026-05-30 01:16 UTC_
 | 38 | Briann January | 921 |
 | 39 | Ticha Penicheiro | 913 |
 | 40 | Shavonte Zellous | 907 |
-| 41 | **DeWanna Bonner** 🔴 +1 | 900 |
+| 41 | **DeWanna Bonner** 🔴 +2 | 901 |
 | 42 | Alysha Clark | 887 |
 | 43 | DeMya Walker | 882 |
 | 44 | **Jonquel Jones** 🔴 +3 | 878 |
@@ -1589,8 +1589,8 @@ _Last updated: 2026-05-30 01:16 UTC_
 | 132 | Le'coe Willingham | 571 |
 | 133 | Ashley Robinson | 567 |
 | 134 | Ivory Latta | 565 |
-| 135 | Barbara Farris | 563 |
-| 135 | **Courtney Williams** 🔴 +3 | 563 |
+| 135 | **Courtney Williams** 🔴 +4 | 564 |
+| 136 | Barbara Farris | 563 |
 | 137 | Jessica Breland | 562 |
 | 138 | Dawn Staley | 551 |
 | 139 | Glory Johnson | 550 |
