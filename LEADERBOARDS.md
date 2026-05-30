@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-30 00:44 UTC_
+_Last updated: 2026-05-30 00:46 UTC_
 
 ## Contents
 
@@ -42,7 +42,7 @@ _Last updated: 2026-05-30 00:44 UTC_
 | 21 | Angel McCoughtry | 5,797 |
 | 22 | DeLisha Milton-Jones | 5,571 |
 | 23 | Katie Douglas | 5,545 |
-| 24 | **Skylar Diggins** 🔴 +8 | 5,533 |
+| 24 | **Skylar Diggins** 🔴 +10 | 5,535 |
 | 25 | Lindsay Whalen | 5,511 |
 | 26 | **Kayla McBride** 🔴 +4 | 5,458 |
 | 27 | Swin Cash | 5,119 |
@@ -73,7 +73,7 @@ _Last updated: 2026-05-30 00:44 UTC_
 | 52 | Yolanda Griffith | 4,224 |
 | 53 | **Dearica Hamby** 🔴 +5 | 4,163 |
 | 54 | **Kahleah Copper** 🔴 +2 | 4,156 |
-| 55 | **Jonquel Jones** 🔴 +2 | 4,134 |
+| 55 | **Jonquel Jones** 🔴 +4 | 4,136 |
 | 56 | Rebekkah Brunson | 4,133 |
 | 57 | **Courtney Williams** 🔴 +6 | 4,130 |
 | 58 | Asjha Jones | 3,986 |
@@ -417,7 +417,7 @@ _Last updated: 2026-05-30 00:44 UTC_
 | 191 | Shenise Johnson | 729 |
 | 192 | Sami Whitcomb | 726 |
 | 192 | Shekinna Stricklen | 726 |
-| 194 | **Shakira Austin** 🔴 +4 | 723 |
+| 194 | **Shakira Austin** 🔴 +5 | 724 |
 | 195 | Kelsey Plum | 721 |
 | 196 | Olympia Scott | 711 |
 | 197 | Katie Mattera | 708 |
@@ -437,7 +437,7 @@ _Last updated: 2026-05-30 00:44 UTC_
 | 6 | Chelsea Gray | 1,903 |
 | 7 | **Alyssa Thomas** 🔴 +3 | 1,857 |
 | 8 | **Skylar Diggins** 🔴 +1 | 1,786 |
-| 9 | **Natasha Cloud** 🔴 | 1,747 |
+| 9 | **Natasha Cloud** 🔴 +1 | 1,748 |
 | 10 | Becky Hammon | 1,705 |
 | 11 | Candace Parker | 1,634 |
 | 12 | Cappie Pondexter | 1,575 |
@@ -1490,8 +1490,8 @@ _Last updated: 2026-05-30 00:44 UTC_
 | 33 | Sancho Lyttle | 947 |
 | 34 | Mwadi Mabika | 941 |
 | 35 | Tamika Whitmore | 940 |
-| 36 | **Alyssa Thomas** 🔴 +1 | 938 |
-| 36 | Courtney Vandersloot | 938 |
+| 36 | **Alyssa Thomas** 🔴 +2 | 939 |
+| 37 | Courtney Vandersloot | 938 |
 | 38 | Briann January | 921 |
 | 39 | Ticha Penicheiro | 913 |
 | 40 | Shavonte Zellous | 907 |
