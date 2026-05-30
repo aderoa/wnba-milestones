@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-30 03:17 UTC_
+_Last updated: 2026-05-30 03:18 UTC_
 
 ## Contents
 
@@ -557,7 +557,7 @@ _Last updated: 2026-05-30 03:17 UTC_
 | 125 | Coco Miller | 503 |
 | 127 | Veronica Burton | 501 |
 | 128 | Rachel Banham | 498 |
-| 129 | **Rhyne Howard** 🔴 +1 | 491 |
+| 129 | **Rhyne Howard** 🔴 +2 | 492 |
 | 130 | Caitlin Clark | 488 |
 | 130 | Crystal Robinson | 488 |
 | 130 | Tiffany Mitchell | 488 |
@@ -986,8 +986,8 @@ _Last updated: 2026-05-30 03:17 UTC_
 | 144 | Jennifer Gillom | 220 |
 | 144 | Kelsey Mitchell | 220 |
 | 147 | Allison Feaster | 219 |
-| 148 | **Rhyne Howard** 🔴 +3 | 217 |
-| 148 | Shenise Johnson | 217 |
+| 148 | **Rhyne Howard** 🔴 +4 | 218 |
+| 149 | Shenise Johnson | 217 |
 | 150 | Adrian Williams-Strong | 216 |
 | 150 | Moriah Jefferson | 216 |
 | 152 | Asjha Jones | 215 |
