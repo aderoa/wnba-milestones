@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-30 01:13 UTC_
+_Last updated: 2026-05-30 01:14 UTC_
 
 ## Contents
 
@@ -74,7 +74,7 @@ _Last updated: 2026-05-30 01:13 UTC_
 | 53 | **Dearica Hamby** 🔴 +12 | 4,170 |
 | 54 | **Kahleah Copper** 🔴 +10 | 4,164 |
 | 55 | **Jonquel Jones** 🔴 +7 | 4,139 |
-| 56 | **Courtney Williams** 🔴 +10 | 4,134 |
+| 56 | **Courtney Williams** 🔴 +12 | 4,136 |
 | 57 | Rebekkah Brunson | 4,133 |
 | 58 | Asjha Jones | 3,986 |
 | 59 | Deanna Nolan | 3,971 |
@@ -231,12 +231,12 @@ _Last updated: 2026-05-30 01:13 UTC_
 | 5 | Tamika Catchings | 3,313 |
 | 6 | **Nneka Ogwumike** 🔴 +10 | 3,305 |
 | 7 | Lisa Leslie | 3,303 |
-| 8 | **DeWanna Bonner** 🔴 +1 | 3,233 |
+| 8 | **DeWanna Bonner** 🔴 +2 | 3,234 |
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | **Alyssa Thomas** 🔴 +2 | 2,772 |
-| 13 | **Jonquel Jones** 🔴 +4 | 2,603 |
+| 13 | **Jonquel Jones** 🔴 +5 | 2,604 |
 | 14 | Sancho Lyttle | 2,596 |
 | 15 | DeLisha Milton-Jones | 2,574 |
 | 16 | Brittney Griner | 2,537 |
@@ -656,9 +656,9 @@ _Last updated: 2026-05-30 01:13 UTC_
 | 20 | Jessica Breland | 367 |
 | 21 | **Natasha Howard** 🔴 +1 | 361 |
 | 22 | Ezi Magbegor | 354 |
-| 23 | **DeWanna Bonner** 🔴 | 349 |
-| 23 | Diana Taurasi | 349 |
-| 23 | Elena Delle Donne | 349 |
+| 23 | **DeWanna Bonner** 🔴 +1 | 350 |
+| 24 | Diana Taurasi | 349 |
+| 24 | Elena Delle Donne | 349 |
 | 26 | DeLisha Milton-Jones | 339 |
 | 27 | Kiah Stokes | 324 |
 | 28 | Yolanda Griffith | 323 |
@@ -757,8 +757,8 @@ _Last updated: 2026-05-30 01:13 UTC_
 | 121 | **Courtney Williams** 🔴 | 103 |
 | 121 | Jennifer Gillom | 103 |
 | 121 | Jia Perkins | 103 |
-| 124 | **Kamilla Cardoso** 🔴 +2 | 102 |
-| 124 | Theresa Plaisance | 102 |
+| 121 | **Kamilla Cardoso** 🔴 +3 | 103 |
+| 125 | Theresa Plaisance | 102 |
 | 126 | Deanna Nolan | 101 |
 | 126 | **Dearica Hamby** 🔴 | 101 |
 | 128 | Chante Black | 100 |
