@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-30 23:27 UTC_
+_Last updated: 2026-05-30 23:28 UTC_
 
 ## Contents
 
@@ -247,7 +247,7 @@ _Last updated: 2026-05-30 23:27 UTC_
 | 21 | Crystal Langhorne | 2,454 |
 | 22 | Lauren Jackson | 2,444 |
 | 23 | Yolanda Griffith | 2,440 |
-| 24 | **Dearica Hamby** 🔴 +4 | 2,350 |
+| 24 | **Dearica Hamby** 🔴 +5 | 2,351 |
 | 25 | Tangela Smith | 2,328 |
 | 26 | Erika de Souza | 2,220 |
 | 27 | Natasha Howard | 2,204 |
@@ -378,7 +378,7 @@ _Last updated: 2026-05-30 23:27 UTC_
 | 152 | Shameka Christon | 867 |
 | 153 | Krystal Thomas | 862 |
 | 154 | Angel Reese | 861 |
-| 155 | **Erica Wheeler** 🔴 +1 | 859 |
+| 155 | **Erica Wheeler** 🔴 +2 | 860 |
 | 156 | Alanna Smith | 847 |
 | 157 | Leilani Mitchell | 845 |
 | 158 | Jessica Shepard | 836 |
@@ -406,8 +406,8 @@ _Last updated: 2026-05-30 23:27 UTC_
 | 180 | Anna DeForge | 769 |
 | 180 | Kelsey Bone | 769 |
 | 180 | Tan White | 769 |
-| 183 | **Ariel Atkins** 🔴 +3 | 767 |
-| 183 | Tully Bevilaqua | 767 |
+| 183 | **Ariel Atkins** 🔴 +4 | 768 |
+| 184 | Tully Bevilaqua | 767 |
 | 185 | Layshia Clarendon | 756 |
 | 186 | Brooke Wyckoff | 751 |
 | 187 | Coco Miller | 750 |
@@ -452,7 +452,7 @@ _Last updated: 2026-05-30 23:27 UTC_
 | 21 | Dawn Staley | 1,337 |
 | 22 | Teresa Weatherspoon | 1,333 |
 | 23 | Kristi Toliver | 1,301 |
-| 24 | **Erica Wheeler** 🔴 +4 | 1,279 |
+| 24 | **Erica Wheeler** 🔴 +6 | 1,281 |
 | 25 | Katie Smith | 1,258 |
 | 26 | Kelsey Plum | 1,215 |
 | 27 | Odyssey Sims | 1,210 |
@@ -895,7 +895,7 @@ _Last updated: 2026-05-30 23:27 UTC_
 | 54 | Monique Currie | 378 |
 | 54 | Tiffany Hayes | 378 |
 | 56 | Chamique Holdsclaw | 376 |
-| 57 | **Ariel Atkins** 🔴 +2 | 371 |
+| 57 | **Ariel Atkins** 🔴 +3 | 372 |
 | 58 | Mwadi Mabika | 370 |
 | 59 | Jordin Canada | 369 |
 | 60 | Brittney Sykes | 363 |
