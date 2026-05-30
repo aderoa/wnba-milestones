@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-30 01:02 UTC_
+_Last updated: 2026-05-30 01:03 UTC_
 
 ## Contents
 
@@ -71,8 +71,8 @@ _Last updated: 2026-05-30 01:02 UTC_
 | 50 | Allisha Gray | 4,232 |
 | 51 | Vickie Johnson | 4,230 |
 | 52 | Yolanda Griffith | 4,224 |
-| 53 | **Dearica Hamby** 🔴 +11 | 4,169 |
-| 54 | **Kahleah Copper** 🔴 +4 | 4,158 |
+| 53 | **Dearica Hamby** 🔴 +12 | 4,170 |
+| 54 | **Kahleah Copper** 🔴 +7 | 4,161 |
 | 55 | **Jonquel Jones** 🔴 +7 | 4,139 |
 | 56 | Rebekkah Brunson | 4,133 |
 | 57 | **Courtney Williams** 🔴 +8 | 4,132 |
@@ -322,7 +322,7 @@ _Last updated: 2026-05-30 01:02 UTC_
 | 96 | Myisha Hines-Allen | 1,224 |
 | 97 | Jia Perkins | 1,220 |
 | 98 | Chelsea Gray | 1,210 |
-| 99 | **Kayla McBride** 🔴 +4 | 1,205 |
+| 99 | **Kayla McBride** 🔴 +5 | 1,206 |
 | 100 | DeMya Walker | 1,199 |
 | 101 | Latasha Byears | 1,190 |
 | 101 | Tanisha Wright | 1,190 |
@@ -415,7 +415,7 @@ _Last updated: 2026-05-30 01:02 UTC_
 | 189 | Ashley Robinson | 734 |
 | 190 | Arike Ogunbowale | 731 |
 | 191 | Shenise Johnson | 729 |
-| 192 | **Shakira Austin** 🔴 +8 | 727 |
+| 192 | **Shakira Austin** 🔴 +9 | 728 |
 | 193 | Sami Whitcomb | 726 |
 | 193 | Shekinna Stricklen | 726 |
 | 195 | Kelsey Plum | 721 |
@@ -1498,7 +1498,7 @@ _Last updated: 2026-05-30 01:02 UTC_
 | 41 | **DeWanna Bonner** 🔴 +1 | 900 |
 | 42 | Alysha Clark | 887 |
 | 43 | DeMya Walker | 882 |
-| 44 | **Jonquel Jones** 🔴 +2 | 877 |
+| 44 | **Jonquel Jones** 🔴 +3 | 878 |
 | 45 | Candice Dupree | 876 |
 | 46 | Murriel Page | 872 |
 | 47 | Cappie Pondexter | 869 |
