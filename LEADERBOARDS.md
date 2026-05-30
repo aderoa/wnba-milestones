@@ -152,8 +152,8 @@ _Last updated: 2026-05-30 00:20 UTC_
 | 131 | Alex Bentley | 2,350 |
 | 132 | Merlakia Jones | 2,308 |
 | 133 | Kia Vaughn | 2,288 |
+| 134 | **Betnijah Laney-Hamilton** 🔴 +6 | 2,267 |
 | 134 | Kayla Thornton | 2,267 |
-| 135 | **Betnijah Laney-Hamilton** 🔴 +4 | 2,265 |
 | 136 | Allison Feaster | 2,258 |
 | 137 | Shekinna Stricklen | 2,245 |
 | 138 | Kara Braxton | 2,237 |
@@ -1499,7 +1499,7 @@ _Last updated: 2026-05-30 00:20 UTC_
 | 42 | Alysha Clark | 887 |
 | 43 | DeMya Walker | 882 |
 | 44 | Candice Dupree | 876 |
-| 45 | **Jonquel Jones** 🔴 | 875 |
+| 44 | **Jonquel Jones** 🔴 +1 | 876 |
 | 46 | Murriel Page | 872 |
 | 47 | Cappie Pondexter | 869 |
 | 48 | Erika de Souza | 858 |
