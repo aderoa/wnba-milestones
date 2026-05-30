@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-30 17:20 UTC
+
+- **Julie Allemand** passed **Stacey Dales** for **#169** all-time in assists (career 396) — _End of 1st — SEA @ TOR_
+
 ## 2026-05-30 04:04 UTC
 
 - **Rhyne Howard** passed **Allison Feaster** for **#147** all-time in steals (career 220) — up from #155 entering today — _0.0 - 4th — ATL @ POR_

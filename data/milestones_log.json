@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-30T17:20:00+00:00",
+    "text": "Julie Allemand passed Stacey Dales for #169 all-time in assists (career 396) \u2014 (End of 1st \u2014 SEA @ TOR)",
+    "kind": "rank_pass",
+    "player": "Julie Allemand",
+    "stat": "assists",
+    "rank": 169,
+    "passed_players": [
+      "Stacey Dales"
+    ],
+    "new_total": 396
+  },
+  {
     "ts": "2026-05-30T04:04:00+00:00",
     "text": "Rhyne Howard passed Allison Feaster for #147 all-time in steals (career 220) \u2014 up from #155 entering today \u2014 (0.0 - 4th \u2014 ATL @ POR)",
     "kind": "rank_pass",
@@ -2989,18 +3001,5 @@
       "Rhonda Mapp"
     ],
     "new_total": 793
-  },
-  {
-    "ts": "2026-05-18T14:28:00+00:00",
-    "text": "Angel Reese passed Shameka Christon and Krystal Thomas for #152 all-time in rebounds (career 869) \u2014 up from #154 entering today \u2014 (Final \u2014 LV @ ATL)",
-    "kind": "rank_pass",
-    "player": "Angel Reese",
-    "stat": "rebounds",
-    "rank": 152,
-    "passed_players": [
-      "Shameka Christon",
-      "Krystal Thomas"
-    ],
-    "new_total": 869
   }
 ]
