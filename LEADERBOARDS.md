@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-30 03:35 UTC_
+_Last updated: 2026-05-30 03:36 UTC_
 
 ## Contents
 
@@ -459,7 +459,7 @@ _Last updated: 2026-05-30 03:35 UTC_
 | 28 | Vickie Johnson | 1,202 |
 | 29 | Leilani Mitchell | 1,197 |
 | 30 | DeWanna Bonner | 1,183 |
-| 31 | **Jordin Canada** 🔴 +3 | 1,158 |
+| 31 | **Jordin Canada** 🔴 +4 | 1,159 |
 | 32 | Jewell Loyd | 1,141 |
 | 33 | Renee Montgomery | 1,140 |
 | 34 | Swin Cash | 1,131 |
@@ -986,7 +986,7 @@ _Last updated: 2026-05-30 03:35 UTC_
 | 144 | Jennifer Gillom | 220 |
 | 144 | Kelsey Mitchell | 220 |
 | 147 | Allison Feaster | 219 |
-| 148 | **Rhyne Howard** 🔴 +4 | 218 |
+| 147 | **Rhyne Howard** 🔴 +5 | 219 |
 | 149 | Shenise Johnson | 217 |
 | 150 | Adrian Williams-Strong | 216 |
 | 150 | Moriah Jefferson | 216 |
