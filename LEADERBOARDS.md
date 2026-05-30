@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-30 00:13 UTC_
+_Last updated: 2026-05-30 00:14 UTC_
 
 ## Contents
 
@@ -56,7 +56,7 @@ _Last updated: 2026-05-30 00:13 UTC_
 | 35 | Chamique Holdsclaw | 4,713 |
 | 36 | Elena Delle Donne | 4,706 |
 | 37 | Penny Taylor | 4,595 |
-| 38 | **Alyssa Thomas** 🔴 +6 | 4,560 |
+| 38 | **Alyssa Thomas** 🔴 +7 | 4,561 |
 | 39 | Arike Ogunbowale | 4,512 |
 | 40 | Kristi Toliver | 4,474 |
 | 41 | Chelsea Gray | 4,469 |
@@ -452,7 +452,7 @@ _Last updated: 2026-05-30 00:13 UTC_
 | 21 | Dawn Staley | 1,337 |
 | 22 | Teresa Weatherspoon | 1,333 |
 | 23 | Kristi Toliver | 1,301 |
-| 24 | **Erica Wheeler** 🔴 +3 | 1,278 |
+| 24 | **Erica Wheeler** 🔴 +4 | 1,279 |
 | 25 | Katie Smith | 1,258 |
 | 26 | Kelsey Plum | 1,215 |
 | 27 | Odyssey Sims | 1,210 |
@@ -871,7 +871,7 @@ _Last updated: 2026-05-30 00:13 UTC_
 | 30 | Tangela Smith | 455 |
 | 31 | Tina Thompson | 452 |
 | 32 | Maya Moore | 449 |
-| 33 | **Skylar Diggins** 🔴 | 448 |
+| 32 | **Skylar Diggins** 🔴 +1 | 449 |
 | 34 | Jewell Loyd | 445 |
 | 35 | Chelsea Gray | 439 |
 | 35 | **Natasha Howard** 🔴 +1 | 439 |
@@ -1277,7 +1277,7 @@ _Last updated: 2026-05-30 00:13 UTC_
 | 25 | Alana Beard | 854 |
 | 26 | **DeWanna Bonner** 🔴 | 830 |
 | 27 | Katie Douglas | 824 |
-| 28 | **Natasha Howard** 🔴 +1 | 805 |
+| 28 | **Natasha Howard** 🔴 +2 | 806 |
 | 29 | Betty Lennox | 800 |
 | 30 | Jasmine Thomas | 796 |
 | 31 | **Nneka Ogwumike** 🔴 +1 | 792 |
@@ -1474,7 +1474,7 @@ _Last updated: 2026-05-30 00:13 UTC_
 | 17 | Monique Currie | 1,137 |
 | 18 | Tanisha Wright | 1,109 |
 | 19 | Michelle Snow | 1,108 |
-| 20 | **Natasha Howard** 🔴 | 1,105 |
+| 20 | **Natasha Howard** 🔴 +1 | 1,106 |
 | 21 | Stefanie Dolson | 1,095 |
 | 22 | Sylvia Fowles | 1,049 |
 | 23 | Tina Charles | 1,037 |
