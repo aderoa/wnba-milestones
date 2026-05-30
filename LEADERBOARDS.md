@@ -152,8 +152,8 @@ _Last updated: 2026-05-30 00:24 UTC_
 | 131 | Alex Bentley | 2,350 |
 | 132 | Merlakia Jones | 2,308 |
 | 133 | Kia Vaughn | 2,288 |
-| 134 | **Betnijah Laney-Hamilton** 🔴 +6 | 2,267 |
-| 134 | Kayla Thornton | 2,267 |
+| 134 | **Betnijah Laney-Hamilton** 🔴 +9 | 2,270 |
+| 135 | Kayla Thornton | 2,267 |
 | 136 | Allison Feaster | 2,258 |
 | 137 | Shekinna Stricklen | 2,245 |
 | 138 | Kara Braxton | 2,237 |
@@ -435,7 +435,7 @@ _Last updated: 2026-05-30 00:24 UTC_
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
 | 6 | Chelsea Gray | 1,903 |
-| 7 | **Alyssa Thomas** 🔴 +4 | 1,858 |
+| 7 | **Alyssa Thomas** 🔴 +3 | 1,857 |
 | 8 | **Skylar Diggins** 🔴 +1 | 1,786 |
 | 9 | **Natasha Cloud** 🔴 | 1,747 |
 | 10 | Becky Hammon | 1,705 |
@@ -506,7 +506,7 @@ _Last updated: 2026-05-30 00:24 UTC_
 | 75 | Monique Currie | 740 |
 | 76 | Allisha Gray | 734 |
 | 77 | Elaine Powell | 728 |
-| 78 | **Dearica Hamby** 🔴 +2 | 699 |
+| 78 | **Dearica Hamby** 🔴 +3 | 700 |
 | 79 | Chamique Holdsclaw | 698 |
 | 80 | Shavonte Zellous | 693 |
 | 81 | Allie Quigley | 690 |
@@ -1152,7 +1152,7 @@ _Last updated: 2026-05-30 00:24 UTC_
 | 105 | Damiris Dantas | 211 |
 | 105 | Erin Phillips | 211 |
 | 107 | Andrea Stinson | 207 |
-| 108 | **Betnijah Laney-Hamilton** 🔴 +1 | 202 |
+| 108 | **Betnijah Laney-Hamilton** 🔴 +2 | 203 |
 | 109 | Lexie Brown | 200 |
 | 110 | Shanna Zolman | 199 |
 | 111 | Temeka Johnson | 197 |
