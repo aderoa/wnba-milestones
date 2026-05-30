@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-30 00:17 UTC_
+_Last updated: 2026-05-30 00:18 UTC_
 
 ## Contents
 
@@ -44,7 +44,7 @@ _Last updated: 2026-05-30 00:17 UTC_
 | 23 | Katie Douglas | 5,545 |
 | 24 | **Skylar Diggins** 🔴 +8 | 5,533 |
 | 25 | Lindsay Whalen | 5,511 |
-| 26 | **Kayla McBride** 🔴 +2 | 5,456 |
+| 26 | **Kayla McBride** 🔴 +4 | 5,458 |
 | 27 | Swin Cash | 5,119 |
 | 28 | Tangela Smith | 5,035 |
 | 29 | Taj McWilliams-Franklin | 4,992 |
@@ -118,7 +118,7 @@ _Last updated: 2026-05-30 00:17 UTC_
 | 97 | Emma Meesseman | 2,966 |
 | 98 | Marina Mabrey | 2,941 |
 | 99 | Natalie Williams | 2,894 |
-| 100 | **Natasha Cloud** 🔴 +1 | 2,889 |
+| 100 | **Natasha Cloud** 🔴 +4 | 2,892 |
 | 101 | Jennifer Gillom | 2,888 |
 | 102 | Iziane Castro Marques | 2,862 |
 | 103 | **Elizabeth Williams** 🔴 | 2,856 |
@@ -256,7 +256,7 @@ _Last updated: 2026-05-30 00:17 UTC_
 | 30 | Chamique Holdsclaw | 2,123 |
 | 31 | Chasity Melvin | 2,097 |
 | 32 | Tammy Sutton-Brown | 2,010 |
-| 33 | **Elizabeth Williams** 🔴 +4 | 1,927 |
+| 33 | **Elizabeth Williams** 🔴 +5 | 1,928 |
 | 34 | Cheryl Ford | 1,907 |
 | 35 | Plenette Pierson | 1,834 |
 | 36 | Natalie Williams | 1,832 |
@@ -322,7 +322,7 @@ _Last updated: 2026-05-30 00:17 UTC_
 | 96 | Myisha Hines-Allen | 1,224 |
 | 97 | Jia Perkins | 1,220 |
 | 98 | Chelsea Gray | 1,210 |
-| 99 | **Kayla McBride** 🔴 +2 | 1,203 |
+| 99 | **Kayla McBride** 🔴 +3 | 1,204 |
 | 100 | DeMya Walker | 1,199 |
 | 101 | Latasha Byears | 1,190 |
 | 101 | Tanisha Wright | 1,190 |
@@ -452,7 +452,7 @@ _Last updated: 2026-05-30 00:17 UTC_
 | 21 | Dawn Staley | 1,337 |
 | 22 | Teresa Weatherspoon | 1,333 |
 | 23 | Kristi Toliver | 1,301 |
-| 24 | **Erica Wheeler** 🔴 +4 | 1,279 |
+| 24 | **Erica Wheeler** 🔴 +5 | 1,280 |
 | 25 | Katie Smith | 1,258 |
 | 26 | Kelsey Plum | 1,215 |
 | 27 | Odyssey Sims | 1,210 |
@@ -644,7 +644,7 @@ _Last updated: 2026-05-30 00:17 UTC_
 | 8 | Tangela Smith | 554 |
 | 9 | A'ja Wilson | 543 |
 | 10 | Ruth Riley | 505 |
-| 11 | **Elizabeth Williams** 🔴 +1 | 487 |
+| 11 | **Elizabeth Williams** 🔴 +2 | 488 |
 | 12 | Taj McWilliams-Franklin | 443 |
 | 13 | **Breanna Stewart** 🔴 | 433 |
 | 14 | Tina Charles | 428 |
@@ -1103,7 +1103,7 @@ _Last updated: 2026-05-30 00:17 UTC_
 | 56 | Candace Parker | 342 |
 | 57 | Deanna Nolan | 340 |
 | 58 | Anna DeForge | 334 |
-| 59 | **Natasha Cloud** 🔴 | 333 |
+| 58 | **Natasha Cloud** 🔴 +1 | 334 |
 | 60 | **Erica Wheeler** 🔴 | 322 |
 | 61 | Sugar Rodgers | 317 |
 | 62 | Jackie Young | 315 |
