@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-30 01:07 UTC
+
+- **Nia Coffey** passed **Swin Cash** for **#121** all-time in three-pointers (career 177) — up from #125 entering today — _6:33 - 4th — MIN @ CHI_
+
 ## 2026-05-30 01:04 UTC
 
 - **Nneka Ogwumike** passed **Lisa Leslie** for **#6** all-time in rebounds (career 3,304) — up from #7 entering today — _1:29 - 3rd — LA @ WSH_

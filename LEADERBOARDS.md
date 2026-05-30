@@ -169,7 +169,7 @@ _Last updated: 2026-05-30 01:07 UTC_
 | 148 | Jordin Canada | 2,174 |
 | 149 | Ann Wauters | 2,170 |
 | 150 | Layshia Clarendon | 2,168 |
-| 151 | **Satou Sabally** 🔴 +2 | 2,163 |
+| 151 | **Satou Sabally** 🔴 +4 | 2,165 |
 | 152 | Murriel Page | 2,146 |
 | 153 | Marissa Coleman | 2,140 |
 | 154 | Tari Phillips | 2,134 |
@@ -370,7 +370,7 @@ _Last updated: 2026-05-30 01:07 UTC_
 | 144 | Merlakia Jones | 927 |
 | 145 | Nicky Anosike | 922 |
 | 146 | Janeth Arcain | 916 |
-| 147 | **Satou Sabally** 🔴 +2 | 914 |
+| 147 | **Satou Sabally** 🔴 +3 | 915 |
 | 148 | Karima Christmas-Kelly | 908 |
 | 149 | Natalie Achonwa | 895 |
 | 150 | Temeka Johnson | 889 |
@@ -436,7 +436,7 @@ _Last updated: 2026-05-30 01:07 UTC_
 | 5 | Lindsay Whalen | 2,347 |
 | 6 | Chelsea Gray | 1,903 |
 | 7 | **Alyssa Thomas** 🔴 +7 | 1,861 |
-| 8 | **Skylar Diggins** 🔴 +2 | 1,787 |
+| 8 | **Skylar Diggins** 🔴 +3 | 1,788 |
 | 9 | **Natasha Cloud** 🔴 +2 | 1,749 |
 | 10 | Becky Hammon | 1,705 |
 | 11 | Candace Parker | 1,634 |
@@ -1165,8 +1165,8 @@ _Last updated: 2026-05-30 01:07 UTC_
 | 118 | Karima Christmas-Kelly | 181 |
 | 119 | Aerial Powers | 179 |
 | 119 | Camille Smith | 179 |
-| 121 | **Nia Coffey** 🔴 +4 | 176 |
-| 121 | Swin Cash | 176 |
+| 121 | **Nia Coffey** 🔴 +5 | 177 |
+| 122 | Swin Cash | 176 |
 | 123 | Nikki McCray | 175 |
 | 124 | Shatori Walker-Kimbrough | 174 |
 | 124 | Tayler Hill | 174 |
@@ -1525,9 +1525,9 @@ _Last updated: 2026-05-30 01:07 UTC_
 | 68 | Vickie Johnson | 752 |
 | 69 | Kara Braxton | 748 |
 | 70 | Crystal Langhorne | 737 |
+| 71 | **Natasha Cloud** 🔴 +3 | 734 |
 | 71 | Shameka Christon | 734 |
-| 72 | Becky Hammon | 733 |
-| 72 | **Natasha Cloud** 🔴 +2 | 733 |
+| 73 | Becky Hammon | 733 |
 | 74 | Latasha Byears | 730 |
 | 75 | **Kahleah Copper** 🔴 +3 | 726 |
 | 76 | Kristi Toliver | 722 |

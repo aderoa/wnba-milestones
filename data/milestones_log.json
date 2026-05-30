@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-30T01:07:00+00:00",
+    "text": "Nia Coffey passed Swin Cash for #121 all-time in three-pointers (career 177) \u2014 up from #125 entering today \u2014 (6:33 - 4th \u2014 MIN @ CHI)",
+    "kind": "rank_pass",
+    "player": "Nia Coffey",
+    "stat": "three-pointers",
+    "rank": 121,
+    "passed_players": [
+      "Swin Cash"
+    ],
+    "new_total": 177
+  },
+  {
     "ts": "2026-05-30T01:04:00+00:00",
     "text": "Nneka Ogwumike passed Lisa Leslie for #6 all-time in rebounds (career 3,304) \u2014 up from #7 entering today \u2014 (1:29 - 3rd \u2014 LA @ WSH)",
     "kind": "rank_pass",
@@ -2995,18 +3007,6 @@
     "player": "Myisha Hines-Allen",
     "stat": "points",
     "value": 1900,
-    "new_total": 1903
-  },
-  {
-    "ts": "2026-05-18T14:28:00+00:00",
-    "text": "Myisha Hines-Allen passed Candice Wiggins for #173 all-time in points (career 1,903) \u2014 up from #174 entering today \u2014 (Final \u2014 SEA @ IND)",
-    "kind": "rank_pass",
-    "player": "Myisha Hines-Allen",
-    "stat": "points",
-    "rank": 173,
-    "passed_players": [
-      "Candice Wiggins"
-    ],
     "new_total": 1903
   }
 ]
