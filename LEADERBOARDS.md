@@ -906,8 +906,8 @@ _Last updated: 2026-05-30 02:21 UTC_
 | 64 | Renee Montgomery | 356 |
 | 66 | Tamecka Dixon | 355 |
 | 67 | Vicky Bullett | 353 |
+| 68 | **Allisha Gray** 🔴 +1 | 352 |
 | 68 | Svetlana Abrosimova | 352 |
-| 69 | **Allisha Gray** 🔴 | 351 |
 | 70 | Erica Wheeler | 350 |
 | 71 | Janeth Arcain | 346 |
 | 72 | Natasha Cloud | 344 |
@@ -989,11 +989,11 @@ _Last updated: 2026-05-30 02:21 UTC_
 | 148 | Shenise Johnson | 217 |
 | 149 | Adrian Williams-Strong | 216 |
 | 149 | Moriah Jefferson | 216 |
-| 151 | Asjha Jones | 215 |
-| 151 | Candice Wiggins | 215 |
-| 151 | Cheyenne Parker-Tyus | 215 |
-| 151 | Elena Baranova | 215 |
-| 151 | **Rhyne Howard** 🔴 +1 | 215 |
+| 149 | **Rhyne Howard** 🔴 +2 | 216 |
+| 152 | Asjha Jones | 215 |
+| 152 | Candice Wiggins | 215 |
+| 152 | Cheyenne Parker-Tyus | 215 |
+| 152 | Elena Baranova | 215 |
 | 156 | Kahleah Copper | 213 |
 | 156 | Shekinna Stricklen | 213 |
 | 158 | Nikki Teasley | 211 |
