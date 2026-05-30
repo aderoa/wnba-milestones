@@ -327,8 +327,8 @@ _Last updated: 2026-05-30 00:55 UTC_
 | 101 | Latasha Byears | 1,190 |
 | 101 | Tanisha Wright | 1,190 |
 | 103 | Vicky Bullett | 1,189 |
-| 104 | **Kahleah Copper** 🔴 +1 | 1,148 |
-| 104 | Nykesha Sales | 1,148 |
+| 104 | **Kahleah Copper** 🔴 +2 | 1,149 |
+| 105 | Nykesha Sales | 1,148 |
 | 106 | Shannon Johnson | 1,143 |
 | 107 | Adrian Williams-Strong | 1,131 |
 | 108 | Andrea Stinson | 1,127 |
@@ -436,7 +436,7 @@ _Last updated: 2026-05-30 00:55 UTC_
 | 5 | Lindsay Whalen | 2,347 |
 | 6 | Chelsea Gray | 1,903 |
 | 7 | **Alyssa Thomas** 🔴 +5 | 1,859 |
-| 8 | **Skylar Diggins** 🔴 +1 | 1,786 |
+| 8 | **Skylar Diggins** 🔴 +2 | 1,787 |
 | 9 | **Natasha Cloud** 🔴 +2 | 1,749 |
 | 10 | Becky Hammon | 1,705 |
 | 11 | Candace Parker | 1,634 |
@@ -1498,8 +1498,8 @@ _Last updated: 2026-05-30 00:55 UTC_
 | 41 | **DeWanna Bonner** 🔴 +1 | 900 |
 | 42 | Alysha Clark | 887 |
 | 43 | DeMya Walker | 882 |
-| 44 | Candice Dupree | 876 |
-| 44 | **Jonquel Jones** 🔴 +1 | 876 |
+| 44 | **Jonquel Jones** 🔴 +2 | 877 |
+| 45 | Candice Dupree | 876 |
 | 46 | Murriel Page | 872 |
 | 47 | Cappie Pondexter | 869 |
 | 48 | Erika de Souza | 858 |
