@@ -414,10 +414,10 @@ _Last updated: 2026-05-30 03:53 UTC_
 | 188 | Alex Montgomery | 735 |
 | 189 | Ashley Robinson | 734 |
 | 190 | Arike Ogunbowale | 731 |
+| 191 | Shakira Austin | 729 |
 | 191 | Shenise Johnson | 729 |
-| 192 | Sami Whitcomb | 726 |
-| 192 | Shekinna Stricklen | 726 |
-| 194 | Shakira Austin | 722 |
+| 193 | Sami Whitcomb | 726 |
+| 193 | Shekinna Stricklen | 726 |
 | 195 | Kelsey Plum | 721 |
 | 196 | Olympia Scott | 711 |
 | 197 | Katie Mattera | 708 |
