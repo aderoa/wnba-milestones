@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-30 03:13 UTC_
+_Last updated: 2026-05-30 03:15 UTC_
 
 ## Contents
 
@@ -1358,7 +1358,7 @@ _Last updated: 2026-05-30 03:13 UTC_
 | 106 | Jia Perkins | 513 |
 | 107 | Arike Ogunbowale | 509 |
 | 108 | Tamera Young | 501 |
-| 109 | **Jordin Canada** 🔴 +2 | 498 |
+| 109 | **Jordin Canada** 🔴 +3 | 499 |
 | 110 | Marina Mabrey | 494 |
 | 111 | Nikki Teasley | 493 |
 | 111 | Tari Phillips | 493 |
