@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-30 01:27 UTC_
+_Last updated: 2026-05-30 01:28 UTC_
 
 ## Contents
 
@@ -1204,7 +1204,7 @@ _Last updated: 2026-05-30 01:27 UTC_
 | 157 | Loree Moore | 138 |
 | 157 | Tanisha Wright | 138 |
 | 159 | Kaleena Mosqueda-Lewis | 137 |
-| 160 | **Michaela Onyenwere** 🔴 | 136 |
+| 159 | **Michaela Onyenwere** 🔴 +1 | 137 |
 | 161 | Shay Murphy | 134 |
 | 162 | Brooke Wyckoff | 132 |
 | 162 | Jenna O'Hea | 132 |
