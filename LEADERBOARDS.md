@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-30 22:09 UTC_
+_Last updated: 2026-05-30 22:10 UTC_
 
 ## Contents
 
@@ -735,7 +735,7 @@ _Last updated: 2026-05-30 22:09 UTC_
 | 99 | Chelsea Gray | 123 |
 | 100 | Alyssa Thomas | 122 |
 | 100 | Natalie Williams | 122 |
-| 100 | Olivia Nelson-Ododa | 122 |
+| 100 | **Olivia Nelson-Ododa** 🔴 | 122 |
 | 103 | Ebony Hoffman | 121 |
 | 103 | Essence Carson | 121 |
 | 105 | Krystal Thomas | 118 |
