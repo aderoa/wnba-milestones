@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-30 17:37 UTC_
+_Last updated: 2026-05-30 17:38 UTC_
 
 ## Contents
 
@@ -1332,7 +1332,7 @@ _Last updated: 2026-05-30 17:37 UTC_
 | 79 | Nykesha Sales | 575 |
 | 81 | Andrea Stinson | 571 |
 | 82 | Kara Braxton | 570 |
-| 83 | **Brittney Sykes** 🔴 | 568 |
+| 83 | **Brittney Sykes** 🔴 +1 | 569 |
 | 84 | Nikki McCray | 565 |
 | 85 | Sancho Lyttle | 563 |
 | 86 | Breanna Stewart | 557 |
