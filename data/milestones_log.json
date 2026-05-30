@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-30T01:21:00+00:00",
+    "text": "Natasha Cloud passed Helen Darling for #72 all-time in steals (career 344) \u2014 up from #74 entering today \u2014 (2:16 - 4th \u2014 MIN @ CHI)",
+    "kind": "rank_pass",
+    "player": "Natasha Cloud",
+    "stat": "steals",
+    "rank": 72,
+    "passed_players": [
+      "Helen Darling"
+    ],
+    "new_total": 344
+  },
+  {
     "ts": "2026-05-30T01:17:00+00:00",
     "text": "Courtney Williams passed Barbara Farris for #135 all-time in fouls (career 564) \u2014 up from #137 entering today \u2014 (2:16 - 4th \u2014 MIN @ CHI)",
     "kind": "rank_pass",
@@ -2998,17 +3010,5 @@
       "Sandy Brondello"
     ],
     "new_total": 1770
-  },
-  {
-    "ts": "2026-05-18T14:28:00+00:00",
-    "text": "Natisha Hiedeman passed Michele Timms for #177 all-time in steals (career 188) \u2014 up from #178 entering today \u2014 (Final \u2014 SEA @ IND)",
-    "kind": "rank_pass",
-    "player": "Natisha Hiedeman",
-    "stat": "steals",
-    "rank": 177,
-    "passed_players": [
-      "Michele Timms"
-    ],
-    "new_total": 188
   }
 ]
