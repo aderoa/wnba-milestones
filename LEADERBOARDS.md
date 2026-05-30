@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-30 01:22 UTC_
+_Last updated: 2026-05-30 01:23 UTC_
 
 ## Contents
 
@@ -44,7 +44,7 @@ _Last updated: 2026-05-30 01:22 UTC_
 | 23 | Katie Douglas | 5,545 |
 | 24 | **Skylar Diggins** 🔴 +12 | 5,537 |
 | 25 | Lindsay Whalen | 5,511 |
-| 26 | **Kayla McBride** 🔴 +6 | 5,460 |
+| 26 | **Kayla McBride** 🔴 +9 | 5,463 |
 | 27 | Swin Cash | 5,119 |
 | 28 | Tangela Smith | 5,035 |
 | 29 | Taj McWilliams-Franklin | 4,992 |
@@ -264,7 +264,7 @@ _Last updated: 2026-05-30 01:22 UTC_
 | 38 | Sophia Young-Malcolm | 1,807 |
 | 39 | Lindsay Whalen | 1,805 |
 | 40 | Camille Smith | 1,802 |
-| 41 | **Courtney Williams** 🔴 +3 | 1,769 |
+| 41 | **Courtney Williams** 🔴 +4 | 1,770 |
 | 42 | Kiah Stokes | 1,760 |
 | 43 | Asjha Jones | 1,751 |
 | 44 | **Teaira McCowan** 🔴 +4 | 1,674 |
@@ -386,7 +386,7 @@ _Last updated: 2026-05-30 01:22 UTC_
 | 160 | Kristi Toliver | 829 |
 | 161 | Marie Ferdinand-Harris | 828 |
 | 162 | Marina Mabrey | 827 |
-| 163 | **Nia Coffey** 🔴 +7 | 826 |
+| 162 | **Nia Coffey** 🔴 +8 | 827 |
 | 164 | Marlies Askamp | 822 |
 | 165 | Amanda Zahui B | 819 |
 | 165 | Barbara Farris | 819 |
@@ -534,7 +534,7 @@ _Last updated: 2026-05-30 01:22 UTC_
 | 103 | Camille Smith | 590 |
 | 104 | Armintie Herrington | 589 |
 | 105 | **Betnijah Laney-Hamilton** 🔴 +2 | 580 |
-| 106 | **Natasha Howard** 🔴 +2 | 579 |
+| 105 | **Natasha Howard** 🔴 +3 | 580 |
 | 107 | Tan White | 578 |
 | 108 | Matee Ajavon | 577 |
 | 109 | Napheesa Collier | 570 |
@@ -746,8 +746,8 @@ _Last updated: 2026-05-30 01:22 UTC_
 | 109 | Kamila Vodichkova | 111 |
 | 109 | Sophia Young-Malcolm | 111 |
 | 109 | Tari Phillips | 111 |
-| 113 | **Natasha Mack** 🔴 +2 | 110 |
-| 114 | **Ariel Atkins** 🔴 | 109 |
+| 113 | **Ariel Atkins** 🔴 | 109 |
+| 113 | **Natasha Mack** 🔴 +1 | 109 |
 | 115 | Erin Perperoglou | 108 |
 | 115 | Glory Johnson | 108 |
 | 117 | **Shakira Austin** 🔴 | 106 |
@@ -963,8 +963,8 @@ _Last updated: 2026-05-30 01:22 UTC_
 | 120 | Loree Moore | 255 |
 | 123 | Ruthie Bolton | 254 |
 | 124 | Hamchetou Maiga-Ba | 251 |
+| 124 | **Jonquel Jones** 🔴 +1 | 251 |
 | 124 | Tamika Whitmore | 251 |
-| 126 | **Jonquel Jones** 🔴 | 250 |
 | 127 | Sami Whitcomb | 246 |
 | 128 | Latasha Byears | 245 |
 | 129 | Alex Bentley | 244 |
@@ -1050,7 +1050,7 @@ _Last updated: 2026-05-30 01:22 UTC_
 | 3 | Katie Smith | 906 |
 | 4 | Becky Hammon | 825 |
 | 5 | Tina Thompson | 745 |
-| 6 | **Kayla McBride** 🔴 | 728 |
+| 6 | **Kayla McBride** 🔴 +1 | 729 |
 | 7 | Katie Douglas | 723 |
 | 8 | Kelsey Mitchell | 679 |
 | 9 | Jewell Loyd | 673 |
@@ -1318,7 +1318,7 @@ _Last updated: 2026-05-30 01:22 UTC_
 | 65 | Svetlana Abrosimova | 631 |
 | 67 | Kelsey Plum | 624 |
 | 68 | Odyssey Sims | 622 |
-| 69 | **Jonquel Jones** 🔴 | 617 |
+| 69 | **Jonquel Jones** 🔴 +1 | 618 |
 | 70 | Rebekkah Brunson | 615 |
 | 71 | Seimone Augustus | 613 |
 | 72 | Tiffany Hayes | 605 |
