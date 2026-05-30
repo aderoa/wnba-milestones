@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-30 02:22 UTC_
+_Last updated: 2026-05-30 02:23 UTC_
 
 ## Contents
 
@@ -376,7 +376,7 @@ _Last updated: 2026-05-30 02:22 UTC_
 | 150 | Temeka Johnson | 889 |
 | 151 | Mistie Bass | 888 |
 | 152 | Shameka Christon | 867 |
-| 153 | **Angel Reese** 🔴 +4 | 865 |
+| 153 | **Angel Reese** 🔴 +5 | 866 |
 | 154 | Krystal Thomas | 862 |
 | 155 | Erica Wheeler | 860 |
 | 156 | Alanna Smith | 847 |
@@ -394,7 +394,7 @@ _Last updated: 2026-05-30 02:22 UTC_
 | 168 | Tierra Ruffin-Pratt | 799 |
 | 169 | Betnijah Laney-Hamilton | 795 |
 | 170 | Charlotte Smith | 794 |
-| 171 | **Naz Hillmon** 🔴 +2 | 790 |
+| 171 | **Naz Hillmon** 🔴 +3 | 791 |
 | 172 | Rhonda Mapp | 788 |
 | 173 | Mercedes Russell | 786 |
 | 174 | Odyssey Sims | 780 |
@@ -1358,7 +1358,7 @@ _Last updated: 2026-05-30 02:22 UTC_
 | 106 | Jia Perkins | 513 |
 | 107 | Arike Ogunbowale | 509 |
 | 108 | Tamera Young | 501 |
-| 109 | **Jordin Canada** 🔴 | 496 |
+| 109 | **Jordin Canada** 🔴 +1 | 497 |
 | 110 | Marina Mabrey | 494 |
 | 111 | Nikki Teasley | 493 |
 | 111 | Tari Phillips | 493 |
