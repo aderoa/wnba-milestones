@@ -557,7 +557,7 @@ _Last updated: 2026-05-30 02:07 UTC_
 | 125 | Coco Miller | 503 |
 | 127 | Veronica Burton | 501 |
 | 128 | Rachel Banham | 498 |
-| 129 | **Rhyne Howard** 🔴 | 490 |
+| 129 | **Rhyne Howard** 🔴 +1 | 491 |
 | 130 | Caitlin Clark | 488 |
 | 130 | Crystal Robinson | 488 |
 | 130 | Tiffany Mitchell | 488 |
