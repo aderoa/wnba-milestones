@@ -230,7 +230,7 @@ _Last updated: 2026-05-30 00:48 UTC_
 | 4 | Rebekkah Brunson | 3,345 |
 | 5 | Tamika Catchings | 3,313 |
 | 6 | Lisa Leslie | 3,303 |
-| 7 | **Nneka Ogwumike** 🔴 +5 | 3,300 |
+| 7 | **Nneka Ogwumike** 🔴 +6 | 3,301 |
 | 8 | **DeWanna Bonner** 🔴 +1 | 3,233 |
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
@@ -247,7 +247,7 @@ _Last updated: 2026-05-30 00:48 UTC_
 | 21 | Crystal Langhorne | 2,454 |
 | 22 | Lauren Jackson | 2,444 |
 | 23 | Yolanda Griffith | 2,440 |
-| 24 | **Dearica Hamby** 🔴 +3 | 2,349 |
+| 24 | **Dearica Hamby** 🔴 +4 | 2,350 |
 | 25 | Tangela Smith | 2,328 |
 | 26 | Erika de Souza | 2,220 |
 | 27 | **Natasha Howard** 🔴 +5 | 2,209 |
@@ -1335,7 +1335,7 @@ _Last updated: 2026-05-30 00:48 UTC_
 | 83 | Brittney Sykes | 568 |
 | 84 | Nikki McCray | 565 |
 | 85 | Sancho Lyttle | 563 |
-| 86 | **Breanna Stewart** 🔴 +1 | 558 |
+| 86 | **Breanna Stewart** 🔴 +2 | 559 |
 | 87 | Tan White | 557 |
 | 88 | Kelsey Mitchell | 556 |
 | 89 | Lauren Jackson | 549 |
