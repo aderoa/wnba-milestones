@@ -56,7 +56,7 @@ _Last updated: 2026-05-30 00:16 UTC_
 | 35 | Chamique Holdsclaw | 4,713 |
 | 36 | Elena Delle Donne | 4,706 |
 | 37 | Penny Taylor | 4,595 |
-| 38 | **Alyssa Thomas** 🔴 +7 | 4,561 |
+| 38 | **Alyssa Thomas** 🔴 +9 | 4,563 |
 | 39 | Arike Ogunbowale | 4,512 |
 | 40 | Kristi Toliver | 4,474 |
 | 41 | Chelsea Gray | 4,469 |
@@ -250,7 +250,7 @@ _Last updated: 2026-05-30 00:16 UTC_
 | 24 | **Dearica Hamby** 🔴 +3 | 2,349 |
 | 25 | Tangela Smith | 2,328 |
 | 26 | Erika de Souza | 2,220 |
-| 27 | **Natasha Howard** 🔴 +3 | 2,207 |
+| 27 | **Natasha Howard** 🔴 +4 | 2,208 |
 | 28 | Diana Taurasi | 2,201 |
 | 29 | Margo Dydek | 2,138 |
 | 30 | Chamique Holdsclaw | 2,123 |
@@ -361,8 +361,8 @@ _Last updated: 2026-05-30 00:16 UTC_
 | 134 | Sabrina Ionescu | 993 |
 | 136 | Danielle Robinson | 988 |
 | 137 | Shavonte Zellous | 978 |
-| 138 | Kara Lawson | 976 |
-| 138 | **Skylar Diggins** 🔴 +3 | 976 |
+| 138 | **Skylar Diggins** 🔴 +4 | 977 |
+| 139 | Kara Lawson | 976 |
 | 140 | Jennifer Gillom | 964 |
 | 141 | Dominique Canty | 961 |
 | 142 | Armintie Herrington | 960 |
