@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-30 01:37 UTC_
+_Last updated: 2026-05-30 01:38 UTC_
 
 ## Contents
 
@@ -23,7 +23,7 @@ _Last updated: 2026-05-30 01:37 UTC_
 | 2 | Tina Charles | 8,396 |
 | 3 | **DeWanna Bonner** 🔴 +4 | 7,851 |
 | 4 | Tina Thompson | 7,470 |
-| 5 | **Nneka Ogwumike** 🔴 +15 | 7,386 |
+| 5 | **Nneka Ogwumike** 🔴 +17 | 7,388 |
 | 6 | Tamika Catchings | 7,371 |
 | 7 | Candice Dupree | 6,861 |
 | 8 | Sue Bird | 6,802 |
@@ -73,7 +73,7 @@ _Last updated: 2026-05-30 01:37 UTC_
 | 52 | Yolanda Griffith | 4,224 |
 | 53 | **Dearica Hamby** 🔴 +14 | 4,172 |
 | 54 | **Kahleah Copper** 🔴 +16 | 4,170 |
-| 55 | **Jonquel Jones** 🔴 +7 | 4,139 |
+| 55 | **Jonquel Jones** 🔴 +9 | 4,141 |
 | 56 | Courtney Williams | 4,134 |
 | 57 | Rebekkah Brunson | 4,133 |
 | 58 | Asjha Jones | 3,986 |
@@ -506,7 +506,7 @@ _Last updated: 2026-05-30 01:37 UTC_
 | 75 | Monique Currie | 740 |
 | 76 | Allisha Gray | 734 |
 | 77 | Elaine Powell | 728 |
-| 78 | **Dearica Hamby** 🔴 +7 | 704 |
+| 78 | **Dearica Hamby** 🔴 +8 | 705 |
 | 79 | Chamique Holdsclaw | 698 |
 | 80 | Shavonte Zellous | 693 |
 | 81 | Allie Quigley | 690 |
@@ -1514,7 +1514,7 @@ _Last updated: 2026-05-30 01:37 UTC_
 | 56 | Wendy Palmer | 831 |
 | 58 | Shannon Johnson | 813 |
 | 58 | Tully Bevilaqua | 813 |
-| 60 | **Dearica Hamby** 🔴 | 811 |
+| 60 | **Dearica Hamby** 🔴 +1 | 812 |
 | 61 | Skylar Diggins | 801 |
 | 62 | Nykesha Sales | 796 |
 | 63 | Ebony Hoffman | 791 |
