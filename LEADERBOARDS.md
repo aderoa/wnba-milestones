@@ -72,7 +72,7 @@ _Last updated: 2026-05-30 01:16 UTC_
 | 51 | Vickie Johnson | 4,230 |
 | 52 | Yolanda Griffith | 4,224 |
 | 53 | **Dearica Hamby** 🔴 +12 | 4,170 |
-| 54 | **Kahleah Copper** 🔴 +10 | 4,164 |
+| 54 | **Kahleah Copper** 🔴 +13 | 4,167 |
 | 55 | **Jonquel Jones** 🔴 +7 | 4,139 |
 | 56 | **Courtney Williams** 🔴 +12 | 4,136 |
 | 57 | Rebekkah Brunson | 4,133 |
@@ -236,7 +236,7 @@ _Last updated: 2026-05-30 01:16 UTC_
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | **Alyssa Thomas** 🔴 +2 | 2,772 |
-| 13 | **Jonquel Jones** 🔴 +5 | 2,604 |
+| 13 | **Jonquel Jones** 🔴 +6 | 2,605 |
 | 14 | Sancho Lyttle | 2,596 |
 | 15 | DeLisha Milton-Jones | 2,574 |
 | 16 | Brittney Griner | 2,537 |
@@ -1097,7 +1097,7 @@ _Last updated: 2026-05-30 01:16 UTC_
 | 50 | **Jonquel Jones** 🔴 +1 | 362 |
 | 51 | Kia Nurse | 358 |
 | 52 | Nykesha Sales | 352 |
-| 53 | **Kahleah Copper** 🔴 | 345 |
+| 53 | **Kahleah Copper** 🔴 +1 | 346 |
 | 54 | Cathrine Kraayeveld | 343 |
 | 54 | Elena Delle Donne | 343 |
 | 56 | Candace Parker | 342 |
@@ -1277,7 +1277,7 @@ _Last updated: 2026-05-30 01:16 UTC_
 | 25 | Alana Beard | 854 |
 | 26 | **DeWanna Bonner** 🔴 | 830 |
 | 27 | Katie Douglas | 824 |
-| 28 | **Natasha Howard** 🔴 +2 | 806 |
+| 28 | **Natasha Howard** 🔴 +3 | 807 |
 | 29 | Betty Lennox | 800 |
 | 30 | Jasmine Thomas | 796 |
 | 31 | **Nneka Ogwumike** 🔴 +1 | 792 |
@@ -1470,11 +1470,11 @@ _Last updated: 2026-05-30 01:16 UTC_
 | 13 | Alana Beard | 1,153 |
 | 14 | Swin Cash | 1,146 |
 | 15 | Taj McWilliams-Franklin | 1,145 |
-| 16 | **Nneka Ogwumike** 🔴 +2 | 1,142 |
+| 16 | **Nneka Ogwumike** 🔴 +3 | 1,143 |
 | 17 | Monique Currie | 1,137 |
 | 18 | Tanisha Wright | 1,109 |
 | 19 | Michelle Snow | 1,108 |
-| 20 | **Natasha Howard** 🔴 +2 | 1,107 |
+| 19 | **Natasha Howard** 🔴 +3 | 1,108 |
 | 21 | Stefanie Dolson | 1,095 |
 | 22 | Sylvia Fowles | 1,049 |
 | 23 | Tina Charles | 1,037 |
@@ -1515,7 +1515,7 @@ _Last updated: 2026-05-30 01:16 UTC_
 | 58 | Shannon Johnson | 813 |
 | 58 | Tully Bevilaqua | 813 |
 | 60 | **Dearica Hamby** 🔴 | 811 |
-| 61 | **Skylar Diggins** 🔴 +3 | 800 |
+| 61 | **Skylar Diggins** 🔴 +4 | 801 |
 | 62 | Nykesha Sales | 796 |
 | 63 | Ebony Hoffman | 791 |
 | 64 | Sue Bird | 775 |
