@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-30 00:05 UTC_
+_Last updated: 2026-05-30 00:06 UTC_
 
 ## Contents
 
@@ -1306,7 +1306,7 @@ _Last updated: 2026-05-30 00:05 UTC_
 | 54 | **Erica Wheeler** 🔴 +1 | 672 |
 | 54 | Tammy Sutton-Brown | 672 |
 | 56 | Deanna Nolan | 669 |
-| 57 | **Dearica Hamby** 🔴 | 667 |
+| 57 | **Dearica Hamby** 🔴 +1 | 668 |
 | 58 | Chasity Melvin | 666 |
 | 59 | Vickie Johnson | 660 |
 | 60 | Yolanda Griffith | 653 |
