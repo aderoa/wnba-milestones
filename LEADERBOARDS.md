@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-30 23:50 UTC_
+_Last updated: 2026-05-30 23:51 UTC_
 
 ## Contents
 
@@ -109,7 +109,7 @@ _Last updated: 2026-05-30 23:50 UTC_
 | 88 | Danielle Robinson | 3,160 |
 | 89 | Wendy Palmer | 3,135 |
 | 90 | Shavonte Zellous | 3,103 |
-| 91 | **Erica Wheeler** 🔴 +5 | 3,083 |
+| 91 | **Erica Wheeler** 🔴 +7 | 3,085 |
 | 92 | Briann January | 3,082 |
 | 93 | Erika de Souza | 3,046 |
 | 94 | Shameka Christon | 3,039 |
@@ -1230,9 +1230,9 @@ _Last updated: 2026-05-30 23:50 UTC_
 | 183 | Gordana Grubin | 114 |
 | 183 | Rickea Jackson | 114 |
 | 183 | Sandy Brondello | 114 |
-| 186 | **Kennedy Burke** 🔴 +1 | 111 |
-| 186 | Lexie Hull | 111 |
-| 186 | Shoni Schimmel | 111 |
+| 186 | **Kennedy Burke** 🔴 +2 | 112 |
+| 187 | Lexie Hull | 111 |
+| 187 | Shoni Schimmel | 111 |
 | 189 | Emma Meesseman | 109 |
 | 189 | Scholanda Dorrell | 109 |
 | 191 | Belinda Snell | 108 |
