@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-30 01:23 UTC_
+_Last updated: 2026-05-30 01:24 UTC_
 
 ## Contents
 
@@ -229,7 +229,7 @@ _Last updated: 2026-05-30 01:23 UTC_
 | 3 | Candace Parker | 3,467 |
 | 4 | Rebekkah Brunson | 3,345 |
 | 5 | Tamika Catchings | 3,313 |
-| 6 | **Nneka Ogwumike** 🔴 +10 | 3,305 |
+| 6 | **Nneka Ogwumike** 🔴 +11 | 3,306 |
 | 7 | Lisa Leslie | 3,303 |
 | 8 | **DeWanna Bonner** 🔴 +3 | 3,235 |
 | 9 | Candice Dupree | 3,132 |
@@ -414,8 +414,8 @@ _Last updated: 2026-05-30 01:23 UTC_
 | 188 | Alex Montgomery | 735 |
 | 189 | Ashley Robinson | 734 |
 | 190 | Arike Ogunbowale | 731 |
+| 191 | **Shakira Austin** 🔴 +10 | 729 |
 | 191 | Shenise Johnson | 729 |
-| 192 | **Shakira Austin** 🔴 +9 | 728 |
 | 193 | Sami Whitcomb | 726 |
 | 193 | Shekinna Stricklen | 726 |
 | 195 | Kelsey Plum | 721 |
@@ -562,7 +562,7 @@ _Last updated: 2026-05-30 01:23 UTC_
 | 130 | Crystal Robinson | 488 |
 | 130 | Tiffany Mitchell | 488 |
 | 133 | Rebekkah Brunson | 486 |
-| 134 | **Kahleah Copper** 🔴 | 472 |
+| 134 | **Kahleah Copper** 🔴 +1 | 473 |
 | 135 | Ukari Figgs | 470 |
 | 136 | Janeth Arcain | 469 |
 | 137 | Erin Phillips | 462 |
@@ -845,8 +845,8 @@ _Last updated: 2026-05-30 01:23 UTC_
 | 4 | Alana Beard | 710 |
 | 5 | **Nneka Ogwumike** 🔴 | 673 |
 | 6 | Sheryl Swoopes | 657 |
+| 7 | **DeWanna Bonner** 🔴 +1 | 634 |
 | 7 | Jia Perkins | 634 |
-| 8 | **DeWanna Bonner** 🔴 | 633 |
 | 9 | Sancho Lyttle | 630 |
 | 10 | Angel McCoughtry | 627 |
 | 11 | Katie Douglas | 623 |
@@ -1540,7 +1540,7 @@ _Last updated: 2026-05-30 01:23 UTC_
 | 82 | Nicole Powell | 701 |
 | 84 | Tan White | 698 |
 | 85 | Katie Douglas | 697 |
-| 86 | **Ariel Atkins** 🔴 +4 | 693 |
+| 86 | **Ariel Atkins** 🔴 +5 | 694 |
 | 87 | Danielle Robinson | 692 |
 | 88 | Sophia Young-Malcolm | 687 |
 | 89 | Maya Moore | 686 |
