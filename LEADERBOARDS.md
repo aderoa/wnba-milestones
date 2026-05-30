@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-30 01:03 UTC_
+_Last updated: 2026-05-30 01:04 UTC_
 
 ## Contents
 
@@ -72,7 +72,7 @@ _Last updated: 2026-05-30 01:03 UTC_
 | 51 | Vickie Johnson | 4,230 |
 | 52 | Yolanda Griffith | 4,224 |
 | 53 | **Dearica Hamby** 🔴 +12 | 4,170 |
-| 54 | **Kahleah Copper** 🔴 +7 | 4,161 |
+| 54 | **Kahleah Copper** 🔴 +9 | 4,163 |
 | 55 | **Jonquel Jones** 🔴 +7 | 4,139 |
 | 56 | Rebekkah Brunson | 4,133 |
 | 57 | **Courtney Williams** 🔴 +8 | 4,132 |
@@ -229,8 +229,8 @@ _Last updated: 2026-05-30 01:03 UTC_
 | 3 | Candace Parker | 3,467 |
 | 4 | Rebekkah Brunson | 3,345 |
 | 5 | Tamika Catchings | 3,313 |
-| 6 | Lisa Leslie | 3,303 |
-| 6 | **Nneka Ogwumike** 🔴 +8 | 3,303 |
+| 6 | **Nneka Ogwumike** 🔴 +9 | 3,304 |
+| 7 | Lisa Leslie | 3,303 |
 | 8 | **DeWanna Bonner** 🔴 +1 | 3,233 |
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
@@ -327,7 +327,7 @@ _Last updated: 2026-05-30 01:03 UTC_
 | 101 | Latasha Byears | 1,190 |
 | 101 | Tanisha Wright | 1,190 |
 | 103 | Vicky Bullett | 1,189 |
-| 104 | **Kahleah Copper** 🔴 +2 | 1,149 |
+| 104 | **Kahleah Copper** 🔴 +3 | 1,150 |
 | 105 | Nykesha Sales | 1,148 |
 | 106 | Shannon Johnson | 1,143 |
 | 107 | Adrian Williams-Strong | 1,131 |
