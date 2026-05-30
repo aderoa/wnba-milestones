@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-30 01:30 UTC_
+_Last updated: 2026-05-30 01:31 UTC_
 
 ## Contents
 
@@ -21,7 +21,7 @@ _Last updated: 2026-05-30 01:30 UTC_
 |-----:|--------|------:|
 | 1 | Diana Taurasi | 10,608 |
 | 2 | Tina Charles | 8,396 |
-| 3 | **DeWanna Bonner** 🔴 +3 | 7,850 |
+| 3 | **DeWanna Bonner** 🔴 +4 | 7,851 |
 | 4 | Tina Thompson | 7,470 |
 | 5 | **Nneka Ogwumike** 🔴 +15 | 7,386 |
 | 6 | Tamika Catchings | 7,371 |
@@ -392,8 +392,8 @@ _Last updated: 2026-05-30 01:30 UTC_
 | 165 | Barbara Farris | 819 |
 | 167 | Carolyn Swords | 814 |
 | 168 | Tierra Ruffin-Pratt | 799 |
+| 169 | **Betnijah Laney-Hamilton** 🔴 +2 | 794 |
 | 169 | Charlotte Smith | 794 |
-| 170 | **Betnijah Laney-Hamilton** 🔴 +1 | 793 |
 | 171 | Naz Hillmon | 788 |
 | 171 | Rhonda Mapp | 788 |
 | 173 | Mercedes Russell | 786 |
@@ -476,7 +476,7 @@ _Last updated: 2026-05-30 01:30 UTC_
 | 45 | Tamecka Dixon | 960 |
 | 46 | Kayla McBride | 954 |
 | 47 | Kara Lawson | 946 |
-| 48 | **Breanna Stewart** 🔴 +3 | 941 |
+| 48 | **Breanna Stewart** 🔴 +4 | 942 |
 | 49 | Deanna Nolan | 930 |
 | 50 | Kelly Miller | 927 |
 | 51 | DeLisha Milton-Jones | 921 |
@@ -845,8 +845,8 @@ _Last updated: 2026-05-30 01:30 UTC_
 | 4 | Alana Beard | 710 |
 | 5 | **Nneka Ogwumike** 🔴 +1 | 674 |
 | 6 | Sheryl Swoopes | 657 |
-| 7 | **DeWanna Bonner** 🔴 +1 | 634 |
 | 7 | Jia Perkins | 634 |
+| 8 | **DeWanna Bonner** 🔴 | 633 |
 | 9 | Sancho Lyttle | 630 |
 | 10 | Angel McCoughtry | 627 |
 | 11 | Katie Douglas | 623 |
