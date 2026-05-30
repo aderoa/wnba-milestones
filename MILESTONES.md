@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-30 01:10 UTC
+
+- **Alyssa Thomas** passed **Natalie Williams** and **Olivia Nelson-Ododa** for **#101** all-time in blocks (career 123) — _0.0 - 3rd — PHX @ NY_
+
 ## 2026-05-30 01:07 UTC
 
 - **Nia Coffey** passed **Swin Cash** for **#121** all-time in three-pointers (career 177) — up from #125 entering today — _6:33 - 4th — MIN @ CHI_
