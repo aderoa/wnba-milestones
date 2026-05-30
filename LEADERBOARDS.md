@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-30 02:41 UTC_
+_Last updated: 2026-05-30 02:42 UTC_
 
 ## Contents
 
@@ -986,10 +986,10 @@ _Last updated: 2026-05-30 02:41 UTC_
 | 144 | Jennifer Gillom | 220 |
 | 144 | Kelsey Mitchell | 220 |
 | 147 | Allison Feaster | 219 |
+| 148 | **Rhyne Howard** 🔴 +3 | 217 |
 | 148 | Shenise Johnson | 217 |
-| 149 | Adrian Williams-Strong | 216 |
-| 149 | Moriah Jefferson | 216 |
-| 149 | **Rhyne Howard** 🔴 +2 | 216 |
+| 150 | Adrian Williams-Strong | 216 |
+| 150 | Moriah Jefferson | 216 |
 | 152 | Asjha Jones | 215 |
 | 152 | Candice Wiggins | 215 |
 | 152 | Cheyenne Parker-Tyus | 215 |
