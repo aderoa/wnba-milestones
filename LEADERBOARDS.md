@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-30 00:48 UTC_
+_Last updated: 2026-05-30 00:49 UTC_
 
 ## Contents
 
@@ -23,7 +23,7 @@ _Last updated: 2026-05-30 00:48 UTC_
 | 2 | Tina Charles | 8,396 |
 | 3 | **DeWanna Bonner** 🔴 | 7,847 |
 | 4 | Tina Thompson | 7,470 |
-| 5 | **Nneka Ogwumike** 🔴 +9 | 7,380 |
+| 5 | **Nneka Ogwumike** 🔴 +12 | 7,383 |
 | 6 | Tamika Catchings | 7,371 |
 | 7 | Candice Dupree | 6,861 |
 | 8 | Sue Bird | 6,802 |
@@ -42,7 +42,7 @@ _Last updated: 2026-05-30 00:48 UTC_
 | 21 | Angel McCoughtry | 5,797 |
 | 22 | DeLisha Milton-Jones | 5,571 |
 | 23 | Katie Douglas | 5,545 |
-| 24 | **Skylar Diggins** 🔴 +10 | 5,535 |
+| 24 | **Skylar Diggins** 🔴 +11 | 5,536 |
 | 25 | Lindsay Whalen | 5,511 |
 | 26 | **Kayla McBride** 🔴 +4 | 5,458 |
 | 27 | Swin Cash | 5,119 |
@@ -72,7 +72,7 @@ _Last updated: 2026-05-30 00:48 UTC_
 | 51 | Vickie Johnson | 4,230 |
 | 52 | Yolanda Griffith | 4,224 |
 | 53 | **Dearica Hamby** 🔴 +5 | 4,163 |
-| 54 | **Kahleah Copper** 🔴 +2 | 4,156 |
+| 54 | **Kahleah Copper** 🔴 +4 | 4,158 |
 | 55 | **Jonquel Jones** 🔴 +4 | 4,136 |
 | 56 | Rebekkah Brunson | 4,133 |
 | 57 | **Courtney Williams** 🔴 +6 | 4,130 |
@@ -435,7 +435,7 @@ _Last updated: 2026-05-30 00:48 UTC_
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
 | 6 | Chelsea Gray | 1,903 |
-| 7 | **Alyssa Thomas** 🔴 +4 | 1,858 |
+| 7 | **Alyssa Thomas** 🔴 +5 | 1,859 |
 | 8 | **Skylar Diggins** 🔴 +1 | 1,786 |
 | 9 | **Natasha Cloud** 🔴 +2 | 1,749 |
 | 10 | Becky Hammon | 1,705 |
@@ -1608,9 +1608,9 @@ _Last updated: 2026-05-30 00:48 UTC_
 | 150 | Epiphanny Prince | 525 |
 | 152 | Armintie Herrington | 523 |
 | 153 | Sheryl Swoopes | 519 |
+| 154 | **Kayla McBride** 🔴 +2 | 517 |
 | 154 | Nikki McCray | 517 |
-| 155 | Alex Bentley | 516 |
-| 155 | **Kayla McBride** 🔴 +1 | 516 |
+| 156 | Alex Bentley | 516 |
 | 157 | Jackie Young | 514 |
 | 158 | Jantel Lavender | 513 |
 | 159 | Adrienne Goodson | 512 |
