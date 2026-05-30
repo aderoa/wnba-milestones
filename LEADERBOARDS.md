@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-30 00:58 UTC_
+_Last updated: 2026-05-30 00:59 UTC_
 
 ## Contents
 
@@ -71,7 +71,7 @@ _Last updated: 2026-05-30 00:58 UTC_
 | 50 | Allisha Gray | 4,232 |
 | 51 | Vickie Johnson | 4,230 |
 | 52 | Yolanda Griffith | 4,224 |
-| 53 | **Dearica Hamby** 🔴 +10 | 4,168 |
+| 53 | **Dearica Hamby** 🔴 +11 | 4,169 |
 | 54 | **Kahleah Copper** 🔴 +4 | 4,158 |
 | 55 | **Jonquel Jones** 🔴 +7 | 4,139 |
 | 56 | Rebekkah Brunson | 4,133 |
@@ -267,7 +267,7 @@ _Last updated: 2026-05-30 00:58 UTC_
 | 41 | **Courtney Williams** 🔴 +2 | 1,768 |
 | 42 | Kiah Stokes | 1,760 |
 | 43 | Asjha Jones | 1,751 |
-| 44 | **Teaira McCowan** 🔴 +3 | 1,673 |
+| 44 | **Teaira McCowan** 🔴 +4 | 1,674 |
 | 45 | Stefanie Dolson | 1,667 |
 | 46 | Monique Currie | 1,666 |
 | 47 | Glory Johnson | 1,640 |
@@ -474,7 +474,7 @@ _Last updated: 2026-05-30 00:58 UTC_
 | 43 | Tina Charles | 1,033 |
 | 44 | Nikki Teasley | 982 |
 | 45 | Tamecka Dixon | 960 |
-| 46 | **Kayla McBride** 🔴 +1 | 953 |
+| 46 | **Kayla McBride** 🔴 +2 | 954 |
 | 47 | Kara Lawson | 946 |
 | 48 | **Breanna Stewart** 🔴 +3 | 941 |
 | 49 | Deanna Nolan | 930 |
@@ -1420,8 +1420,8 @@ _Last updated: 2026-05-30 00:58 UTC_
 | 168 | Brionna Jones | 346 |
 | 169 | Loree Moore | 339 |
 | 170 | Charlotte Smith | 337 |
-| 171 | Scholanda Dorrell | 335 |
-| 171 | **Teaira McCowan** 🔴 +1 | 335 |
+| 171 | **Teaira McCowan** 🔴 +2 | 336 |
+| 172 | Scholanda Dorrell | 335 |
 | 173 | Aerial Powers | 333 |
 | 173 | Diamond DeShields | 333 |
 | 175 | Charde Houston | 331 |
@@ -1566,7 +1566,7 @@ _Last updated: 2026-05-30 00:58 UTC_
 | 109 | Jennifer Gillom | 629 |
 | 110 | Deanna Nolan | 628 |
 | 111 | Brionna Jones | 625 |
-| 112 | **Teaira McCowan** 🔴 +1 | 619 |
+| 112 | **Teaira McCowan** 🔴 +2 | 620 |
 | 113 | Courtney Paris | 617 |
 | 113 | Kiah Stokes | 617 |
 | 115 | Coco Miller | 615 |

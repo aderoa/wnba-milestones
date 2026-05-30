@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-30T00:59:00+00:00",
+    "text": "Teaira McCowan passed Scholanda Dorrell for #171 all-time in turnovers (career 336) \u2014 up from #172 entering today \u2014 (6.5 - 3rd \u2014 MIN @ CHI)",
+    "kind": "rank_pass",
+    "player": "Teaira McCowan",
+    "stat": "turnovers",
+    "rank": 171,
+    "passed_players": [
+      "Scholanda Dorrell"
+    ],
+    "new_total": 336
+  },
+  {
     "ts": "2026-05-30T00:53:00+00:00",
     "text": "Skylar Diggins passed Maya Moore for #32 all-time in steals (career 450) \u2014 up from #33 entering today \u2014 (3:31 - 3rd \u2014 MIN @ CHI)",
     "kind": "rank_pass",
@@ -2996,22 +3008,5 @@
       "Tiffany Jackson"
     ],
     "new_total": 186
-  },
-  {
-    "ts": "2026-05-18T14:28:00+00:00",
-    "text": "Myisha Hines-Allen passed Merlakia Jones, Rushia Brown, Shekinna Stricklen, Allison Feaster, Erin Perperoglou, and Napheesa Collier for #165 all-time in fouls (career 507) \u2014 up from #170 entering today \u2014 (Final \u2014 SEA @ IND)",
-    "kind": "rank_pass",
-    "player": "Myisha Hines-Allen",
-    "stat": "fouls",
-    "rank": 165,
-    "passed_players": [
-      "Merlakia Jones",
-      "Rushia Brown",
-      "Shekinna Stricklen",
-      "Allison Feaster",
-      "Erin Perperoglou",
-      "Napheesa Collier"
-    ],
-    "new_total": 507
   }
 ]
