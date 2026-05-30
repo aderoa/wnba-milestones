@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-30 17:31 UTC_
+_Last updated: 2026-05-30 17:32 UTC_
 
 ## Contents
 
@@ -116,7 +116,7 @@ _Last updated: 2026-05-30 17:31 UTC_
 | 95 | Sabrina Ionescu | 3,030 |
 | 96 | Marie Ferdinand-Harris | 3,001 |
 | 97 | Emma Meesseman | 2,966 |
-| 98 | **Marina Mabrey** 🔴 +6 | 2,947 |
+| 98 | **Marina Mabrey** 🔴 +8 | 2,949 |
 | 99 | Natalie Williams | 2,894 |
 | 100 | Jennifer Gillom | 2,888 |
 | 100 | Natasha Cloud | 2,888 |
@@ -204,7 +204,7 @@ _Last updated: 2026-05-30 17:31 UTC_
 | 183 | Kamila Vodichkova | 1,767 |
 | 184 | Tully Bevilaqua | 1,763 |
 | 185 | Sandy Brondello | 1,759 |
-| 186 | **Natisha Hiedeman** 🔴 +5 | 1,756 |
+| 186 | **Natisha Hiedeman** 🔴 +7 | 1,758 |
 | 187 | Sugar Rodgers | 1,733 |
 | 188 | Moriah Jefferson | 1,722 |
 | 188 | NaLyssa Smith | 1,722 |
@@ -495,7 +495,7 @@ _Last updated: 2026-05-30 17:31 UTC_
 | 64 | Lisa Leslie | 873 |
 | 65 | Tully Bevilaqua | 853 |
 | 66 | Jia Perkins | 837 |
-| 67 | **Brittney Sykes** 🔴 +1 | 833 |
+| 67 | **Brittney Sykes** 🔴 +2 | 834 |
 | 68 | Andrea Stinson | 810 |
 | 69 | Kelsey Mitchell | 805 |
 | 70 | Tina Thompson | 803 |
