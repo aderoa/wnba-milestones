@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-30 00:11 UTC_
+_Last updated: 2026-05-30 00:12 UTC_
 
 ## Contents
 
@@ -242,7 +242,7 @@ _Last updated: 2026-05-30 00:11 UTC_
 | 16 | Brittney Griner | 2,537 |
 | 17 | A'ja Wilson | 2,522 |
 | 18 | Swin Cash | 2,521 |
-| 19 | **Breanna Stewart** 🔴 +4 | 2,514 |
+| 19 | **Breanna Stewart** 🔴 +5 | 2,515 |
 | 20 | Michelle Snow | 2,476 |
 | 21 | Crystal Langhorne | 2,454 |
 | 22 | Lauren Jackson | 2,444 |
@@ -250,7 +250,7 @@ _Last updated: 2026-05-30 00:11 UTC_
 | 24 | **Dearica Hamby** 🔴 +3 | 2,349 |
 | 25 | Tangela Smith | 2,328 |
 | 26 | Erika de Souza | 2,220 |
-| 27 | **Natasha Howard** 🔴 +4 | 2,208 |
+| 27 | **Natasha Howard** 🔴 +3 | 2,207 |
 | 28 | Diana Taurasi | 2,201 |
 | 29 | Margo Dydek | 2,138 |
 | 30 | Chamique Holdsclaw | 2,123 |
@@ -322,7 +322,7 @@ _Last updated: 2026-05-30 00:11 UTC_
 | 96 | Myisha Hines-Allen | 1,224 |
 | 97 | Jia Perkins | 1,220 |
 | 98 | Chelsea Gray | 1,210 |
-| 99 | **Kayla McBride** 🔴 +1 | 1,202 |
+| 99 | **Kayla McBride** 🔴 +2 | 1,203 |
 | 100 | DeMya Walker | 1,199 |
 | 101 | Latasha Byears | 1,190 |
 | 101 | Tanisha Wright | 1,190 |
@@ -853,7 +853,7 @@ _Last updated: 2026-05-30 00:11 UTC_
 | 12 | DeLisha Milton-Jones | 619 |
 | 13 | Taj McWilliams-Franklin | 577 |
 | 14 | Tully Bevilaqua | 571 |
-| 15 | **Alyssa Thomas** 🔴 | 561 |
+| 15 | **Alyssa Thomas** 🔴 +1 | 562 |
 | 16 | Courtney Vandersloot | 544 |
 | 17 | Yolanda Griffith | 527 |
 | 18 | Candace Parker | 521 |
@@ -1529,7 +1529,7 @@ _Last updated: 2026-05-30 00:11 UTC_
 | 72 | Becky Hammon | 733 |
 | 73 | **Natasha Cloud** 🔴 +1 | 732 |
 | 74 | Latasha Byears | 730 |
-| 75 | **Kahleah Copper** 🔴 +1 | 724 |
+| 75 | **Kahleah Copper** 🔴 +2 | 725 |
 | 76 | Kristi Toliver | 722 |
 | 77 | Allisha Gray | 714 |
 | 78 | Cheryl Ford | 713 |
