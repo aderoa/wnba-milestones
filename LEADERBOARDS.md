@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-30 00:53 UTC_
+_Last updated: 2026-05-30 00:55 UTC_
 
 ## Contents
 
@@ -73,7 +73,7 @@ _Last updated: 2026-05-30 00:53 UTC_
 | 52 | Yolanda Griffith | 4,224 |
 | 53 | **Dearica Hamby** 🔴 +9 | 4,167 |
 | 54 | **Kahleah Copper** 🔴 +4 | 4,158 |
-| 55 | **Jonquel Jones** 🔴 +4 | 4,136 |
+| 55 | **Jonquel Jones** 🔴 +7 | 4,139 |
 | 56 | Rebekkah Brunson | 4,133 |
 | 57 | **Courtney Williams** 🔴 +8 | 4,132 |
 | 58 | Asjha Jones | 3,986 |
@@ -200,7 +200,7 @@ _Last updated: 2026-05-30 00:53 UTC_
 | 179 | Noelle Quinn | 1,824 |
 | 180 | Danielle Adams | 1,820 |
 | 181 | Charde Houston | 1,797 |
-| 182 | **Rachel Banham** 🔴 +6 | 1,794 |
+| 182 | **Rachel Banham** 🔴 +8 | 1,796 |
 | 183 | Kamila Vodichkova | 1,767 |
 | 184 | Tully Bevilaqua | 1,763 |
 | 185 | Sandy Brondello | 1,759 |
@@ -247,7 +247,7 @@ _Last updated: 2026-05-30 00:53 UTC_
 | 21 | Crystal Langhorne | 2,454 |
 | 22 | Lauren Jackson | 2,444 |
 | 23 | Yolanda Griffith | 2,440 |
-| 24 | **Dearica Hamby** 🔴 +5 | 2,351 |
+| 24 | **Dearica Hamby** 🔴 +6 | 2,352 |
 | 25 | Tangela Smith | 2,328 |
 | 26 | Erika de Souza | 2,220 |
 | 27 | **Natasha Howard** 🔴 +5 | 2,209 |
@@ -393,7 +393,7 @@ _Last updated: 2026-05-30 00:53 UTC_
 | 167 | Carolyn Swords | 814 |
 | 168 | Tierra Ruffin-Pratt | 799 |
 | 169 | Charlotte Smith | 794 |
-| 170 | **Betnijah Laney-Hamilton** 🔴 | 792 |
+| 170 | **Betnijah Laney-Hamilton** 🔴 +1 | 793 |
 | 171 | Naz Hillmon | 788 |
 | 171 | Rhonda Mapp | 788 |
 | 173 | Mercedes Russell | 786 |
@@ -416,8 +416,8 @@ _Last updated: 2026-05-30 00:53 UTC_
 | 190 | Arike Ogunbowale | 731 |
 | 191 | Shenise Johnson | 729 |
 | 192 | Sami Whitcomb | 726 |
+| 192 | **Shakira Austin** 🔴 +7 | 726 |
 | 192 | Shekinna Stricklen | 726 |
-| 194 | **Shakira Austin** 🔴 +6 | 725 |
 | 195 | Kelsey Plum | 721 |
 | 196 | Olympia Scott | 711 |
 | 197 | Katie Mattera | 708 |
@@ -476,7 +476,7 @@ _Last updated: 2026-05-30 00:53 UTC_
 | 45 | Tamecka Dixon | 960 |
 | 46 | **Kayla McBride** 🔴 +1 | 953 |
 | 47 | Kara Lawson | 946 |
-| 48 | **Breanna Stewart** 🔴 +2 | 940 |
+| 48 | **Breanna Stewart** 🔴 +3 | 941 |
 | 49 | Deanna Nolan | 930 |
 | 50 | Kelly Miller | 927 |
 | 51 | DeLisha Milton-Jones | 921 |
@@ -1094,7 +1094,7 @@ _Last updated: 2026-05-30 00:53 UTC_
 | 46 | Betty Lennox | 372 |
 | 48 | Rhyne Howard | 370 |
 | 49 | Epiphanny Prince | 368 |
-| 50 | **Jonquel Jones** 🔴 | 361 |
+| 50 | **Jonquel Jones** 🔴 +1 | 362 |
 | 51 | Kia Nurse | 358 |
 | 52 | Nykesha Sales | 352 |
 | 53 | **Kahleah Copper** 🔴 | 345 |
@@ -1303,7 +1303,7 @@ _Last updated: 2026-05-30 00:53 UTC_
 | 51 | Danielle Robinson | 680 |
 | 52 | Sheryl Swoopes | 677 |
 | 53 | **Natasha Cloud** 🔴 +2 | 675 |
-| 54 | **Erica Wheeler** 🔴 +2 | 673 |
+| 54 | **Erica Wheeler** 🔴 +3 | 674 |
 | 55 | Tammy Sutton-Brown | 672 |
 | 56 | Deanna Nolan | 669 |
 | 57 | **Dearica Hamby** 🔴 +1 | 668 |
