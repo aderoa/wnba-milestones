@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-31T00:56:00+00:00",
+    "text": "Kelsey Mitchell passed Rushia Brown for #143 all-time in steals (career 222) \u2014 up from #146 entering today \u2014 (3:19 - 2nd \u2014 IND @ POR)",
+    "kind": "rank_pass",
+    "player": "Kelsey Mitchell",
+    "stat": "steals",
+    "rank": 143,
+    "passed_players": [
+      "Rushia Brown"
+    ],
+    "new_total": 222
+  },
+  {
     "ts": "2026-05-31T00:16:00+00:00",
     "text": "Ariel Atkins passed Elena Baranova and Jantel Lavender for #124 all-time in turnovers (career 445) \u2014 up from #126 entering today \u2014 (2:13 - 4th \u2014 LA @ CON)",
     "kind": "rank_pass",
@@ -2984,19 +2996,5 @@
       "Alana Beard"
     ],
     "new_total": 1067
-  },
-  {
-    "ts": "2026-05-18T14:28:00+00:00",
-    "text": "Jackie Young passed Cameron Brink, Satou Sabally, and Shannon Johnson for #192 all-time in blocks (career 69) \u2014 up from #193 entering today \u2014 (Final \u2014 LV @ ATL)",
-    "kind": "rank_pass",
-    "player": "Jackie Young",
-    "stat": "blocks",
-    "rank": 192,
-    "passed_players": [
-      "Cameron Brink",
-      "Satou Sabally",
-      "Shannon Johnson"
-    ],
-    "new_total": 69
   }
 ]
