@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-31 21:23 UTC_
+_Last updated: 2026-05-31 21:24 UTC_
 
 ## Contents
 
@@ -49,7 +49,7 @@ _Last updated: 2026-05-31 21:23 UTC_
 | 28 | Tangela Smith | 5,035 |
 | 29 | Taj McWilliams-Franklin | 4,992 |
 | 30 | Maya Moore | 4,984 |
-| 31 | **Tiffany Hayes** 🔴 +4 | 4,931 |
+| 31 | **Tiffany Hayes** 🔴 +5 | 4,932 |
 | 32 | Kelsey Mitchell | 4,907 |
 | 33 | Sheryl Swoopes | 4,875 |
 | 34 | Alana Beard | 4,740 |
@@ -206,7 +206,7 @@ _Last updated: 2026-05-31 21:23 UTC_
 | 185 | Sandy Brondello | 1,759 |
 | 186 | Natisha Hiedeman | 1,751 |
 | 187 | Sugar Rodgers | 1,733 |
-| 188 | **NaLyssa Smith** 🔴 +8 | 1,730 |
+| 188 | **NaLyssa Smith** 🔴 +10 | 1,732 |
 | 189 | Moriah Jefferson | 1,722 |
 | 190 | Sophie Cunningham | 1,705 |
 | 191 | Armintie Herrington | 1,696 |
