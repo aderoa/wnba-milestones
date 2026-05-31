@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-31 20:27 UTC_
+_Last updated: 2026-05-31 20:28 UTC_
 
 ## Contents
 
@@ -37,7 +37,7 @@ _Last updated: 2026-05-31 20:27 UTC_
 | 16 | Lauren Jackson | 6,005 |
 | 16 | Seimone Augustus | 6,005 |
 | 18 | Brittney Griner | 5,983 |
-| 19 | **A'ja Wilson** 🔴 +12 | 5,856 |
+| 19 | **A'ja Wilson** 🔴 +13 | 5,857 |
 | 20 | Becky Hammon | 5,816 |
 | 21 | Angel McCoughtry | 5,797 |
 | 22 | DeLisha Milton-Jones | 5,571 |
@@ -401,8 +401,8 @@ _Last updated: 2026-05-31 20:27 UTC_
 | 174 | Sue Wicks | 780 |
 | 176 | Lindsey Harding | 779 |
 | 177 | Tiffani Johnson | 778 |
-| 178 | **Gabby Williams** 🔴 +1 | 775 |
-| 178 | Teresa Weatherspoon | 775 |
+| 178 | **Gabby Williams** 🔴 +2 | 776 |
+| 179 | Teresa Weatherspoon | 775 |
 | 180 | Anna DeForge | 769 |
 | 180 | Kelsey Bone | 769 |
 | 180 | Tan White | 769 |
