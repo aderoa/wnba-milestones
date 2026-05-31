@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-31 19:58 UTC_
+_Last updated: 2026-05-31 19:59 UTC_
 
 ## Contents
 
@@ -37,7 +37,7 @@ _Last updated: 2026-05-31 19:58 UTC_
 | 16 | Lauren Jackson | 6,005 |
 | 16 | Seimone Augustus | 6,005 |
 | 18 | Brittney Griner | 5,983 |
-| 19 | **A'ja Wilson** 🔴 +2 | 5,846 |
+| 19 | **A'ja Wilson** 🔴 +4 | 5,848 |
 | 20 | Becky Hammon | 5,816 |
 | 21 | Angel McCoughtry | 5,797 |
 | 22 | DeLisha Milton-Jones | 5,571 |
@@ -49,7 +49,7 @@ _Last updated: 2026-05-31 19:58 UTC_
 | 28 | Tangela Smith | 5,035 |
 | 29 | Taj McWilliams-Franklin | 4,992 |
 | 30 | Maya Moore | 4,984 |
-| 31 | Tiffany Hayes | 4,927 |
+| 31 | **Tiffany Hayes** 🔴 | 4,927 |
 | 32 | Kelsey Mitchell | 4,907 |
 | 33 | Sheryl Swoopes | 4,875 |
 | 34 | Alana Beard | 4,740 |
@@ -316,7 +316,7 @@ _Last updated: 2026-05-31 19:58 UTC_
 | 90 | Liz Cambage | 1,258 |
 | 91 | Ezi Magbegor | 1,243 |
 | 92 | Azurá Stevens | 1,237 |
-| 93 | Tiffany Hayes | 1,233 |
+| 93 | **Tiffany Hayes** 🔴 | 1,233 |
 | 94 | **Brianna Turner** 🔴 | 1,229 |
 | 95 | Seimone Augustus | 1,228 |
 | 96 | Myisha Hines-Allen | 1,224 |
@@ -467,7 +467,7 @@ _Last updated: 2026-05-31 19:58 UTC_
 | 36 | Katie Douglas | 1,069 |
 | 37 | Sabrina Ionescu | 1,067 |
 | 38 | Alana Beard | 1,061 |
-| 39 | **Jackie Young** 🔴 | 1,060 |
+| 38 | **Jackie Young** 🔴 +1 | 1,061 |
 | 40 | Penny Taylor | 1,049 |
 | 41 | Dominique Canty | 1,042 |
 | 42 | Sheryl Swoopes | 1,037 |
@@ -480,7 +480,7 @@ _Last updated: 2026-05-31 19:58 UTC_
 | 49 | Deanna Nolan | 930 |
 | 50 | Kelly Miller | 927 |
 | 51 | DeLisha Milton-Jones | 921 |
-| 51 | Tiffany Hayes | 921 |
+| 51 | **Tiffany Hayes** 🔴 | 921 |
 | 53 | Angel McCoughtry | 915 |
 | 54 | Layshia Clarendon | 911 |
 | 54 | Seimone Augustus | 911 |
@@ -674,7 +674,7 @@ _Last updated: 2026-05-31 19:58 UTC_
 | 38 | Plenette Pierson | 242 |
 | 39 | Napheesa Collier | 239 |
 | 40 | Emma Meesseman | 238 |
-| 41 | **Brianna Turner** 🔴 | 231 |
+| 41 | **Brianna Turner** 🔴 +1 | 232 |
 | 42 | Azurá Stevens | 230 |
 | 43 | Chasity Melvin | 228 |
 | 44 | Skylar Diggins | 225 |
@@ -781,7 +781,7 @@ _Last updated: 2026-05-31 19:58 UTC_
 | 145 | Alysha Clark | 89 |
 | 146 | Marissa Coleman | 88 |
 | 147 | **Kayla Thornton** 🔴 | 87 |
-| 147 | Tiffany Hayes | 87 |
+| 147 | **Tiffany Hayes** 🔴 | 87 |
 | 149 | Astou Ndiaye-Diatta | 86 |
 | 150 | Adrian Williams-Strong | 85 |
 | 150 | Erlana Larkins | 85 |
@@ -893,7 +893,7 @@ _Last updated: 2026-05-31 19:58 UTC_
 | 52 | Swin Cash | 384 |
 | 52 | Tina Charles | 384 |
 | 54 | Monique Currie | 378 |
-| 54 | Tiffany Hayes | 378 |
+| 54 | **Tiffany Hayes** 🔴 | 378 |
 | 56 | Chamique Holdsclaw | 376 |
 | 57 | Mwadi Mabika | 370 |
 | 58 | Ariel Atkins | 369 |
@@ -1072,7 +1072,7 @@ _Last updated: 2026-05-31 19:58 UTC_
 | 25 | Sabrina Ionescu | 460 |
 | 26 | Breanna Stewart | 456 |
 | 27 | Marina Mabrey | 448 |
-| 28 | Tiffany Hayes | 447 |
+| 28 | **Tiffany Hayes** 🔴 | 447 |
 | 29 | Ariel Atkins | 440 |
 | 30 | Lauren Jackson | 436 |
 | 31 | Shameka Christon | 434 |
@@ -1321,7 +1321,7 @@ _Last updated: 2026-05-31 19:58 UTC_
 | 69 | Jonquel Jones | 617 |
 | 70 | Rebekkah Brunson | 615 |
 | 71 | Seimone Augustus | 613 |
-| 72 | Tiffany Hayes | 605 |
+| 72 | **Tiffany Hayes** 🔴 | 605 |
 | 73 | Teresa Weatherspoon | 601 |
 | 74 | Lindsey Harding | 600 |
 | 74 | Tamika Whitmore | 600 |
@@ -1480,7 +1480,7 @@ _Last updated: 2026-05-31 19:58 UTC_
 | 23 | Tina Charles | 1,037 |
 | 24 | Lindsay Whalen | 998 |
 | 25 | Rebekkah Brunson | 996 |
-| 26 | Tiffany Hayes | 992 |
+| 26 | **Tiffany Hayes** 🔴 | 992 |
 | 27 | Yolanda Griffith | 991 |
 | 28 | Lauren Jackson | 982 |
 | 29 | Nakia Sanford | 979 |
