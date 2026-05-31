@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-31 21:07 UTC_
+_Last updated: 2026-05-31 21:08 UTC_
 
 ## Contents
 
@@ -93,7 +93,7 @@ _Last updated: 2026-05-31 21:07 UTC_
 | 71 | Jasmine Thomas | 3,522 |
 | 73 | Tamecka Dixon | 3,507 |
 | 74 | Tammy Sutton-Brown | 3,498 |
-| 75 | **Jackie Young** 🔴 +16 | 3,484 |
+| 75 | **Jackie Young** 🔴 +19 | 3,487 |
 | 76 | Sancho Lyttle | 3,478 |
 | 77 | Ivory Latta | 3,447 |
 | 78 | Nicole Powell | 3,407 |
@@ -603,7 +603,7 @@ _Last updated: 2026-05-31 21:07 UTC_
 | 171 | Tamicha Jackson | 389 |
 | 173 | Riquna Williams | 387 |
 | 174 | Aliyah Boston | 384 |
-| 175 | **Stephanie Talbot** 🔴 +4 | 383 |
+| 174 | **Stephanie Talbot** 🔴 +5 | 384 |
 | 176 | Dana Evans | 379 |
 | 177 | Jessica Breland | 377 |
 | 178 | Shenise Johnson | 376 |
@@ -1105,7 +1105,7 @@ _Last updated: 2026-05-31 21:07 UTC_
 | 58 | Anna DeForge | 334 |
 | 59 | Natasha Cloud | 333 |
 | 60 | Erica Wheeler | 322 |
-| 61 | **Jackie Young** 🔴 +4 | 319 |
+| 61 | **Jackie Young** 🔴 +5 | 320 |
 | 62 | Sugar Rodgers | 317 |
 | 63 | Marissa Coleman | 315 |
 | 64 | Shannon Johnson | 313 |
