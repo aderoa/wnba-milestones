@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-31 21:20 UTC_
+_Last updated: 2026-05-31 21:21 UTC_
 
 ## Contents
 
@@ -93,7 +93,7 @@ _Last updated: 2026-05-31 21:20 UTC_
 | 71 | Jasmine Thomas | 3,522 |
 | 73 | Tamecka Dixon | 3,507 |
 | 74 | Tammy Sutton-Brown | 3,498 |
-| 75 | **Jackie Young** 🔴 +21 | 3,489 |
+| 75 | **Jackie Young** 🔴 +23 | 3,491 |
 | 76 | Sancho Lyttle | 3,478 |
 | 77 | Ivory Latta | 3,447 |
 | 78 | Nicole Powell | 3,407 |
@@ -347,8 +347,8 @@ _Last updated: 2026-05-31 21:20 UTC_
 | 121 | Isabelle Harrison | 1,049 |
 | 122 | Nicole Ohlde | 1,040 |
 | 123 | Tamecka Dixon | 1,035 |
-| 124 | **Jackie Young** 🔴 +4 | 1,031 |
-| 124 | Kamila Vodichkova | 1,031 |
+| 124 | **Jackie Young** 🔴 +5 | 1,032 |
+| 125 | Kamila Vodichkova | 1,031 |
 | 126 | Jasmine Thomas | 1,027 |
 | 127 | Cathrine Kraayeveld | 1,013 |
 | 128 | Kelly Miller | 1,011 |
@@ -1572,7 +1572,7 @@ _Last updated: 2026-05-31 21:20 UTC_
 | 115 | Coco Miller | 615 |
 | 116 | Brooke Wyckoff | 614 |
 | 117 | Svetlana Abrosimova | 613 |
-| 118 | **Chelsea Gray** 🔴 +2 | 611 |
+| 118 | **Chelsea Gray** 🔴 +3 | 612 |
 | 119 | Layshia Clarendon | 609 |
 | 120 | Odyssey Sims | 604 |
 | 120 | Tiffany Mitchell | 604 |
