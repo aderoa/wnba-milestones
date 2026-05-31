@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-31T21:05:00+00:00",
+    "text": "Jackie Young passed Sugar Rodgers for #61 all-time in three-pointers (career 318) \u2014 up from #62 entering today \u2014 (4:14 - 3rd \u2014 LV @ GS)",
+    "kind": "rank_pass",
+    "player": "Jackie Young",
+    "stat": "three-pointers",
+    "rank": 61,
+    "passed_players": [
+      "Sugar Rodgers"
+    ],
+    "new_total": 318
+  },
+  {
     "ts": "2026-05-31T20:16:00+00:00",
     "text": "Stephanie Talbot passed Rita Williams for #144 all-time in three-pointers (career 151) \u2014 up from #146 entering today \u2014 (6:14 - 2nd \u2014 LV @ GS)",
     "kind": "rank_pass",
@@ -2982,18 +2994,5 @@
       "Diamond DeShields"
     ],
     "new_total": 447
-  },
-  {
-    "ts": "2026-05-18T14:28:00+00:00",
-    "text": "A'ja Wilson passed Allisha Gray and Kia Vaughn for #120 all-time in turnovers (career 458) \u2014 up from #121 entering today \u2014 (Final \u2014 LV @ ATL)",
-    "kind": "rank_pass",
-    "player": "A'ja Wilson",
-    "stat": "turnovers",
-    "rank": 120,
-    "passed_players": [
-      "Allisha Gray",
-      "Kia Vaughn"
-    ],
-    "new_total": 458
   }
 ]
