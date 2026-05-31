@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-31 02:12 UTC_
+_Last updated: 2026-05-31 02:13 UTC_
 
 ## Contents
 
@@ -208,7 +208,7 @@ _Last updated: 2026-05-31 02:12 UTC_
 | 187 | Sugar Rodgers | 1,733 |
 | 188 | Moriah Jefferson | 1,722 |
 | 188 | NaLyssa Smith | 1,722 |
-| 190 | **Sophie Cunningham** 🔴 +10 | 1,715 |
+| 190 | **Sophie Cunningham** 🔴 +12 | 1,717 |
 | 191 | Armintie Herrington | 1,696 |
 | 192 | Nikki Teasley | 1,690 |
 | 193 | Shenise Johnson | 1,688 |
@@ -557,7 +557,7 @@ _Last updated: 2026-05-31 02:12 UTC_
 | 125 | Coco Miller | 503 |
 | 127 | Veronica Burton | 501 |
 | 128 | Rachel Banham | 498 |
-| 129 | **Caitlin Clark** 🔴 +5 | 493 |
+| 129 | **Caitlin Clark** 🔴 +6 | 494 |
 | 130 | Rhyne Howard | 490 |
 | 131 | Crystal Robinson | 488 |
 | 131 | Tiffany Mitchell | 488 |
