@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-31 21:37 UTC_
+_Last updated: 2026-05-31 21:38 UTC_
 
 ## Contents
 
@@ -212,7 +212,7 @@ _Last updated: 2026-05-31 21:37 UTC_
 | 191 | Armintie Herrington | 1,696 |
 | 192 | Nikki Teasley | 1,690 |
 | 193 | Shenise Johnson | 1,688 |
-| 194 | **Gabby Williams** 🔴 +14 | 1,648 |
+| 194 | **Gabby Williams** 🔴 +17 | 1,651 |
 | 195 | Janell Burse | 1,580 |
 | 196 | Le'coe Willingham | 1,552 |
 | 197 | Shatori Walker-Kimbrough | 1,544 |
@@ -347,7 +347,7 @@ _Last updated: 2026-05-31 21:37 UTC_
 | 121 | Isabelle Harrison | 1,049 |
 | 122 | Nicole Ohlde | 1,040 |
 | 123 | Tamecka Dixon | 1,035 |
-| 124 | **Jackie Young** 🔴 +5 | 1,032 |
+| 124 | **Jackie Young** 🔴 +6 | 1,033 |
 | 125 | Kamila Vodichkova | 1,031 |
 | 126 | Jasmine Thomas | 1,027 |
 | 127 | Cathrine Kraayeveld | 1,013 |
@@ -400,8 +400,8 @@ _Last updated: 2026-05-31 21:37 UTC_
 | 174 | Odyssey Sims | 780 |
 | 174 | Sue Wicks | 780 |
 | 176 | Lindsey Harding | 779 |
+| 177 | **Gabby Williams** 🔴 +4 | 778 |
 | 177 | Tiffani Johnson | 778 |
-| 178 | **Gabby Williams** 🔴 +3 | 777 |
 | 179 | Teresa Weatherspoon | 775 |
 | 180 | Anna DeForge | 769 |
 | 180 | Kelsey Bone | 769 |
@@ -1212,10 +1212,10 @@ _Last updated: 2026-05-31 21:37 UTC_
 | 165 | Amanda Zahui B | 130 |
 | 165 | Eva Nemcova | 130 |
 | 167 | Crystal Dangerfield | 129 |
+| 168 | **Gabby Williams** 🔴 +3 | 128 |
 | 168 | Ticha Penicheiro | 128 |
-| 169 | **Gabby Williams** 🔴 +2 | 127 |
-| 169 | Michele Timms | 127 |
-| 169 | Myisha Hines-Allen | 127 |
+| 170 | Michele Timms | 127 |
+| 170 | Myisha Hines-Allen | 127 |
 | 172 | Tamecka Dixon | 126 |
 | 173 | Charde Houston | 124 |
 | 174 | Lisa Leslie | 123 |
@@ -1431,9 +1431,9 @@ _Last updated: 2026-05-31 21:37 UTC_
 | 179 | Olympia Scott | 324 |
 | 180 | Satou Sabally | 323 |
 | 181 | Barbara Farris | 315 |
+| 181 | **Gabby Williams** 🔴 +2 | 315 |
 | 181 | Kia Nurse | 315 |
-| 183 | **Gabby Williams** 🔴 +1 | 314 |
-| 183 | Moriah Jefferson | 314 |
+| 184 | Moriah Jefferson | 314 |
 | 185 | Alex Bentley | 313 |
 | 186 | Tamika Raymond | 311 |
 | 187 | Caitlin Clark | 309 |
