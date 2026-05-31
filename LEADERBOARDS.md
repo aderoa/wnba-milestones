@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-31 20:24 UTC_
+_Last updated: 2026-05-31 20:25 UTC_
 
 ## Contents
 
@@ -1559,7 +1559,7 @@ _Last updated: 2026-05-31 20:24 UTC_
 | 102 | Breanna Stewart | 656 |
 | 103 | Tari Phillips | 648 |
 | 104 | Marie Ferdinand-Harris | 646 |
-| 105 | **Kayla Thornton** 🔴 | 644 |
+| 105 | **Kayla Thornton** 🔴 +1 | 645 |
 | 106 | Charlotte Smith | 638 |
 | 107 | Janell Burse | 632 |
 | 108 | Nicole Ohlde | 631 |
