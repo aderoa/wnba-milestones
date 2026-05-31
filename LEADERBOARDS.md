@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-31 19:52 UTC_
+_Last updated: 2026-05-31 19:53 UTC_
 
 ## Contents
 
@@ -240,7 +240,7 @@ _Last updated: 2026-05-31 19:52 UTC_
 | 14 | Sancho Lyttle | 2,596 |
 | 15 | DeLisha Milton-Jones | 2,574 |
 | 16 | Brittney Griner | 2,537 |
-| 17 | **A'ja Wilson** 🔴 +3 | 2,525 |
+| 17 | **A'ja Wilson** 🔴 +4 | 2,526 |
 | 18 | Swin Cash | 2,521 |
 | 19 | Breanna Stewart | 2,510 |
 | 20 | Michelle Snow | 2,476 |
@@ -401,8 +401,8 @@ _Last updated: 2026-05-31 19:52 UTC_
 | 174 | Sue Wicks | 780 |
 | 176 | Lindsey Harding | 779 |
 | 177 | Tiffani Johnson | 778 |
-| 178 | **Gabby Williams** 🔴 +2 | 776 |
-| 179 | Teresa Weatherspoon | 775 |
+| 178 | **Gabby Williams** 🔴 +1 | 775 |
+| 178 | Teresa Weatherspoon | 775 |
 | 180 | Anna DeForge | 769 |
 | 180 | Kelsey Bone | 769 |
 | 180 | Tan White | 769 |
@@ -934,7 +934,7 @@ _Last updated: 2026-05-31 19:52 UTC_
 | 93 | Crystal Langhorne | 314 |
 | 94 | Ebony Hoffman | 308 |
 | 95 | Tamera Young | 305 |
-| 96 | **Gabby Williams** 🔴 | 302 |
+| 96 | **Gabby Williams** 🔴 +1 | 303 |
 | 97 | Kedra Holland-Corn | 301 |
 | 98 | Lindsey Harding | 295 |
 | 99 | Janel McCarville | 294 |
@@ -1369,9 +1369,9 @@ _Last updated: 2026-05-31 19:52 UTC_
 | 117 | Ebony Hoffman | 470 |
 | 118 | Elaine Powell | 469 |
 | 119 | Allie Quigley | 467 |
+| 120 | **A'ja Wilson** 🔴 +1 | 455 |
 | 120 | Allisha Gray | 455 |
-| 121 | **A'ja Wilson** 🔴 | 454 |
-| 121 | Kia Vaughn | 454 |
+| 122 | Kia Vaughn | 454 |
 | 123 | Janeth Arcain | 453 |
 | 124 | Elena Baranova | 444 |
 | 124 | Jantel Lavender | 444 |
