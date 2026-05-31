@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-31 02:12 UTC
+
+- **Myisha Hines-Allen** passed **Allison Feaster** for **#159** all-time in turnovers (career 373) — up from #160 entering today — _3:15 - 4th — IND @ POR_
+
 ## 2026-05-31 01:42 UTC
 
 - **Myisha Hines-Allen** passed **Michele Timms** for **#169** all-time in three-pointers (career 128) — up from #170 entering today — _2:59 - 3rd — IND @ POR_
