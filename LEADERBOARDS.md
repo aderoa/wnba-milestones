@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-31 00:22 UTC_
+_Last updated: 2026-05-31 00:23 UTC_
 
 ## Contents
 
@@ -576,7 +576,7 @@ _Last updated: 2026-05-31 00:22 UTC_
 | 143 | Nikki McCray | 450 |
 | 146 | Ruth Riley | 449 |
 | 147 | DeMya Walker | 446 |
-| 147 | Tyasha Harris | 446 |
+| 147 | **Tyasha Harris** 🔴 | 446 |
 | 149 | Essence Carson | 445 |
 | 150 | Sug Sutton | 438 |
 | 151 | Michelle Snow | 437 |
@@ -1178,7 +1178,7 @@ _Last updated: 2026-05-31 00:22 UTC_
 | 131 | **Caitlin Clark** 🔴 | 163 |
 | 132 | Ukari Figgs | 162 |
 | 133 | Edna Campbell | 161 |
-| 133 | Tyasha Harris | 161 |
+| 133 | **Tyasha Harris** 🔴 | 161 |
 | 135 | Dana Evans | 160 |
 | 135 | Jennifer Lacy | 160 |
 | 137 | Aari McDonald | 158 |
