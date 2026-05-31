@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-31 19:46 UTC_
+_Last updated: 2026-05-31 19:47 UTC_
 
 ## Contents
 
@@ -94,7 +94,7 @@ _Last updated: 2026-05-31 19:46 UTC_
 | 73 | Tamecka Dixon | 3,507 |
 | 74 | Tammy Sutton-Brown | 3,498 |
 | 75 | Sancho Lyttle | 3,478 |
-| 76 | **Jackie Young** 🔴 +2 | 3,470 |
+| 76 | **Jackie Young** 🔴 +4 | 3,472 |
 | 77 | Ivory Latta | 3,447 |
 | 78 | Nicole Powell | 3,407 |
 | 79 | Epiphanny Prince | 3,381 |
@@ -240,7 +240,7 @@ _Last updated: 2026-05-31 19:46 UTC_
 | 14 | Sancho Lyttle | 2,596 |
 | 15 | DeLisha Milton-Jones | 2,574 |
 | 16 | Brittney Griner | 2,537 |
-| 17 | **A'ja Wilson** 🔴 +2 | 2,524 |
+| 17 | **A'ja Wilson** 🔴 +3 | 2,525 |
 | 18 | Swin Cash | 2,521 |
 | 19 | Breanna Stewart | 2,510 |
 | 20 | Michelle Snow | 2,476 |
@@ -340,7 +340,7 @@ _Last updated: 2026-05-31 19:46 UTC_
 | 114 | Becky Hammon | 1,108 |
 | 115 | Ann Wauters | 1,105 |
 | 116 | Natasha Cloud | 1,093 |
-| 117 | **NaLyssa Smith** 🔴 | 1,081 |
+| 117 | **NaLyssa Smith** 🔴 +1 | 1,082 |
 | 118 | Svetlana Abrosimova | 1,078 |
 | 119 | Aliyah Boston | 1,066 |
 | 120 | Le'coe Willingham | 1,054 |
@@ -401,8 +401,8 @@ _Last updated: 2026-05-31 19:46 UTC_
 | 174 | Sue Wicks | 780 |
 | 176 | Lindsey Harding | 779 |
 | 177 | Tiffani Johnson | 778 |
+| 178 | **Gabby Williams** 🔴 +1 | 775 |
 | 178 | Teresa Weatherspoon | 775 |
-| 179 | **Gabby Williams** 🔴 | 774 |
 | 180 | Anna DeForge | 769 |
 | 180 | Kelsey Bone | 769 |
 | 180 | Tan White | 769 |
