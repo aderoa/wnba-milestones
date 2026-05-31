@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-31 00:19 UTC_
+_Last updated: 2026-05-31 00:20 UTC_
 
 ## Contents
 
@@ -1125,7 +1125,7 @@ _Last updated: 2026-05-31 00:19 UTC_
 | 78 | Monique Currie | 284 |
 | 79 | Kayla Thornton | 276 |
 | 80 | Iziane Castro Marques | 275 |
-| 81 | **Bridget Carleton** 🔴 | 272 |
+| 81 | **Bridget Carleton** 🔴 +1 | 273 |
 | 82 | Sheryl Swoopes | 270 |
 | 82 | Stefanie Dolson | 270 |
 | 84 | Courtney Williams | 260 |
@@ -1613,9 +1613,9 @@ _Last updated: 2026-05-31 00:19 UTC_
 | 156 | Kayla McBride | 515 |
 | 157 | Jackie Young | 514 |
 | 158 | Jantel Lavender | 513 |
-| 159 | Adrienne Goodson | 512 |
-| 159 | Janeth Arcain | 512 |
-| 159 | **Sophie Cunningham** 🔴 | 512 |
+| 158 | **Sophie Cunningham** 🔴 +1 | 513 |
+| 160 | Adrienne Goodson | 512 |
+| 160 | Janeth Arcain | 512 |
 | 162 | Andrea Stinson | 511 |
 | 162 | **Monique Billings** 🔴 +1 | 511 |
 | 164 | Vicky Bullett | 507 |
