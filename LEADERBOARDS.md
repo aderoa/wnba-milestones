@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-31 00:17 UTC_
+_Last updated: 2026-05-31 00:18 UTC_
 
 ## Contents
 
@@ -109,7 +109,7 @@ _Last updated: 2026-05-31 00:17 UTC_
 | 88 | Danielle Robinson | 3,160 |
 | 89 | Wendy Palmer | 3,135 |
 | 90 | Shavonte Zellous | 3,103 |
-| 91 | **Erica Wheeler** 🔴 +11 | 3,089 |
+| 91 | **Erica Wheeler** 🔴 +13 | 3,091 |
 | 92 | Briann January | 3,082 |
 | 93 | Erika de Souza | 3,046 |
 | 94 | Shameka Christon | 3,039 |
@@ -1409,7 +1409,7 @@ _Last updated: 2026-05-31 00:17 UTC_
 | 157 | Anna DeForge | 374 |
 | 157 | Cheryl Ford | 374 |
 | 159 | Allison Feaster | 372 |
-| 160 | **Myisha Hines-Allen** 🔴 | 368 |
+| 160 | **Myisha Hines-Allen** 🔴 +1 | 369 |
 | 161 | Emma Meesseman | 367 |
 | 162 | Latasha Byears | 360 |
 | 163 | Vicky Bullett | 359 |
@@ -1620,9 +1620,9 @@ _Last updated: 2026-05-31 00:17 UTC_
 | 162 | **Monique Billings** 🔴 +1 | 511 |
 | 164 | Vicky Bullett | 507 |
 | 165 | Merlakia Jones | 506 |
-| 166 | **Myisha Hines-Allen** 🔴 +1 | 505 |
-| 166 | Rushia Brown | 505 |
-| 166 | Shekinna Stricklen | 505 |
+| 165 | **Myisha Hines-Allen** 🔴 +2 | 506 |
+| 167 | Rushia Brown | 505 |
+| 167 | Shekinna Stricklen | 505 |
 | 169 | Allison Feaster | 504 |
 | 169 | Erin Perperoglou | 504 |
 | 169 | Napheesa Collier | 504 |
