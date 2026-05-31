@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-31 00:00 UTC_
+_Last updated: 2026-05-31 00:01 UTC_
 
 ## Contents
 
@@ -1470,7 +1470,7 @@ _Last updated: 2026-05-31 00:00 UTC_
 | 13 | Alana Beard | 1,153 |
 | 14 | Swin Cash | 1,146 |
 | 15 | Taj McWilliams-Franklin | 1,145 |
-| 16 | **Nneka Ogwumike** 🔴 | 1,140 |
+| 16 | **Nneka Ogwumike** 🔴 +1 | 1,141 |
 | 17 | Monique Currie | 1,137 |
 | 18 | Tanisha Wright | 1,109 |
 | 19 | Michelle Snow | 1,108 |
@@ -1540,7 +1540,7 @@ _Last updated: 2026-05-31 00:00 UTC_
 | 82 | Nicole Powell | 701 |
 | 84 | Tan White | 698 |
 | 85 | Katie Douglas | 697 |
-| 86 | **Ariel Atkins** 🔴 +4 | 693 |
+| 86 | **Ariel Atkins** 🔴 +5 | 694 |
 | 87 | Danielle Robinson | 692 |
 | 88 | Sophia Young-Malcolm | 687 |
 | 89 | Maya Moore | 686 |
