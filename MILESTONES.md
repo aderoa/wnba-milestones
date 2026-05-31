@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-31 20:16 UTC
+
+- **Stephanie Talbot** passed **Rita Williams** for **#144** all-time in three-pointers (career 151) — up from #146 entering today — _6:14 - 2nd — LV @ GS_
+
 ## 2026-05-31 20:13 UTC
 
 - **Stephanie Talbot** passed **Moriah Jefferson** and **Tiffany Mitchell** for **#145** all-time in three-pointers (career 150) — up from #146 entering today — _7:47 - 2nd — LV @ GS_

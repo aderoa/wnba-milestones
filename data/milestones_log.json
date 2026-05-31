@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-31T20:16:00+00:00",
+    "text": "Stephanie Talbot passed Rita Williams for #144 all-time in three-pointers (career 151) \u2014 up from #146 entering today \u2014 (6:14 - 2nd \u2014 LV @ GS)",
+    "kind": "rank_pass",
+    "player": "Stephanie Talbot",
+    "stat": "three-pointers",
+    "rank": 144,
+    "passed_players": [
+      "Rita Williams"
+    ],
+    "new_total": 151
+  },
+  {
     "ts": "2026-05-31T20:13:00+00:00",
     "text": "Stephanie Talbot passed Moriah Jefferson and Tiffany Mitchell for #145 all-time in three-pointers (career 150) \u2014 up from #146 entering today \u2014 (7:47 - 2nd \u2014 LV @ GS)",
     "kind": "rank_pass",
@@ -2983,18 +2995,5 @@
       "Kia Vaughn"
     ],
     "new_total": 458
-  },
-  {
-    "ts": "2026-05-18T14:28:00+00:00",
-    "text": "A'ja Wilson passed Kristen Rasmussen and Marina Mabrey for #146 all-time in fouls (career 538) \u2014 (Final \u2014 LV @ ATL)",
-    "kind": "rank_pass",
-    "player": "A'ja Wilson",
-    "stat": "fouls",
-    "rank": 146,
-    "passed_players": [
-      "Kristen Rasmussen",
-      "Marina Mabrey"
-    ],
-    "new_total": 538
   }
 ]
