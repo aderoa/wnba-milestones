@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-31 20:17 UTC_
+_Last updated: 2026-05-31 20:18 UTC_
 
 ## Contents
 
@@ -93,8 +93,8 @@ _Last updated: 2026-05-31 20:17 UTC_
 | 71 | Jasmine Thomas | 3,522 |
 | 73 | Tamecka Dixon | 3,507 |
 | 74 | Tammy Sutton-Brown | 3,498 |
+| 75 | **Jackie Young** 🔴 +10 | 3,478 |
 | 75 | Sancho Lyttle | 3,478 |
-| 76 | **Jackie Young** 🔴 +7 | 3,475 |
 | 77 | Ivory Latta | 3,447 |
 | 78 | Nicole Powell | 3,407 |
 | 79 | Epiphanny Prince | 3,381 |
@@ -553,9 +553,9 @@ _Last updated: 2026-05-31 20:17 UTC_
 | 122 | Iziane Castro Marques | 509 |
 | 123 | Brittany Boyd-Jones | 508 |
 | 123 | Chasity Melvin | 508 |
-| 125 | Anna DeForge | 503 |
-| 125 | Coco Miller | 503 |
-| 125 | **Veronica Burton** 🔴 +2 | 503 |
+| 125 | **Veronica Burton** 🔴 +3 | 504 |
+| 126 | Anna DeForge | 503 |
+| 126 | Coco Miller | 503 |
 | 128 | Rachel Banham | 498 |
 | 129 | Rhyne Howard | 490 |
 | 130 | Caitlin Clark | 488 |
@@ -603,8 +603,8 @@ _Last updated: 2026-05-31 20:17 UTC_
 | 171 | Tamicha Jackson | 389 |
 | 173 | Riquna Williams | 387 |
 | 174 | Aliyah Boston | 384 |
-| 175 | Dana Evans | 379 |
-| 175 | **Stephanie Talbot** 🔴 | 379 |
+| 175 | **Stephanie Talbot** 🔴 +1 | 380 |
+| 176 | Dana Evans | 379 |
 | 177 | Jessica Breland | 377 |
 | 178 | Shenise Johnson | 376 |
 | 179 | Suzie McConnell Serio | 370 |
@@ -1105,8 +1105,8 @@ _Last updated: 2026-05-31 20:17 UTC_
 | 58 | Anna DeForge | 334 |
 | 59 | Natasha Cloud | 333 |
 | 60 | Erica Wheeler | 322 |
+| 61 | **Jackie Young** 🔴 +2 | 317 |
 | 61 | Sugar Rodgers | 317 |
-| 62 | **Jackie Young** 🔴 +1 | 316 |
 | 63 | Marissa Coleman | 315 |
 | 64 | Shannon Johnson | 313 |
 | 65 | DeLisha Milton-Jones | 312 |
