@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-31 19:57 UTC_
+_Last updated: 2026-05-31 19:58 UTC_
 
 ## Contents
 
@@ -240,7 +240,7 @@ _Last updated: 2026-05-31 19:57 UTC_
 | 14 | Sancho Lyttle | 2,596 |
 | 15 | DeLisha Milton-Jones | 2,574 |
 | 16 | Brittney Griner | 2,537 |
-| 17 | **A'ja Wilson** 🔴 +4 | 2,526 |
+| 17 | **A'ja Wilson** 🔴 +5 | 2,527 |
 | 18 | Swin Cash | 2,521 |
 | 19 | Breanna Stewart | 2,510 |
 | 20 | Michelle Snow | 2,476 |
@@ -317,7 +317,7 @@ _Last updated: 2026-05-31 19:57 UTC_
 | 91 | Ezi Magbegor | 1,243 |
 | 92 | Azurá Stevens | 1,237 |
 | 93 | Tiffany Hayes | 1,233 |
-| 94 | Brianna Turner | 1,229 |
+| 94 | **Brianna Turner** 🔴 | 1,229 |
 | 95 | Seimone Augustus | 1,228 |
 | 96 | Myisha Hines-Allen | 1,224 |
 | 97 | Jia Perkins | 1,220 |
@@ -674,7 +674,7 @@ _Last updated: 2026-05-31 19:57 UTC_
 | 38 | Plenette Pierson | 242 |
 | 39 | Napheesa Collier | 239 |
 | 40 | Emma Meesseman | 238 |
-| 41 | Brianna Turner | 231 |
+| 41 | **Brianna Turner** 🔴 | 231 |
 | 42 | Azurá Stevens | 230 |
 | 43 | Chasity Melvin | 228 |
 | 44 | Skylar Diggins | 225 |
