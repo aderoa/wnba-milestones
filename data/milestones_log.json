@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-05-31T20:13:00+00:00",
+    "text": "Stephanie Talbot passed Moriah Jefferson and Tiffany Mitchell for #145 all-time in three-pointers (career 150) \u2014 up from #146 entering today \u2014 (7:47 - 2nd \u2014 LV @ GS)",
+    "kind": "rank_pass",
+    "player": "Stephanie Talbot",
+    "stat": "three-pointers",
+    "rank": 145,
+    "passed_players": [
+      "Moriah Jefferson",
+      "Tiffany Mitchell"
+    ],
+    "new_total": 150
+  },
+  {
     "ts": "2026-05-31T02:12:00+00:00",
     "text": "Myisha Hines-Allen passed Allison Feaster for #159 all-time in turnovers (career 373) \u2014 up from #160 entering today \u2014 (3:15 - 4th \u2014 IND @ POR)",
     "kind": "rank_pass",
@@ -2983,17 +2996,5 @@
       "Marina Mabrey"
     ],
     "new_total": 538
-  },
-  {
-    "ts": "2026-05-18T14:28:00+00:00",
-    "text": "Chelsea Gray passed Kristi Toliver for #40 all-time in points (career 4,490) \u2014 up from #41 entering today \u2014 (Final \u2014 LV @ ATL)",
-    "kind": "rank_pass",
-    "player": "Chelsea Gray",
-    "stat": "points",
-    "rank": 40,
-    "passed_players": [
-      "Kristi Toliver"
-    ],
-    "new_total": 4490
   }
 ]
