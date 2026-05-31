@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-31 20:56 UTC_
+_Last updated: 2026-05-31 20:57 UTC_
 
 ## Contents
 
@@ -93,8 +93,8 @@ _Last updated: 2026-05-31 20:56 UTC_
 | 71 | Jasmine Thomas | 3,522 |
 | 73 | Tamecka Dixon | 3,507 |
 | 74 | Tammy Sutton-Brown | 3,498 |
-| 75 | **Jackie Young** 🔴 +10 | 3,478 |
-| 75 | Sancho Lyttle | 3,478 |
+| 75 | **Jackie Young** 🔴 +12 | 3,480 |
+| 76 | Sancho Lyttle | 3,478 |
 | 77 | Ivory Latta | 3,447 |
 | 78 | Nicole Powell | 3,407 |
 | 79 | Epiphanny Prince | 3,381 |
@@ -1655,4 +1655,5 @@ _Last updated: 2026-05-31 20:56 UTC_
 | 198 | Alexis Hornbuckle | 450 |
 | 199 | Bria Hartley | 448 |
 | 200 | Diamond DeShields | 445 |
+| 200 | **NaLyssa Smith** 🔴 +3 | 445 |
 | 200 | Sugar Rodgers | 445 |
