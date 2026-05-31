@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-31 01:38 UTC_
+_Last updated: 2026-05-31 01:39 UTC_
 
 ## Contents
 
@@ -50,7 +50,7 @@ _Last updated: 2026-05-31 01:38 UTC_
 | 29 | Taj McWilliams-Franklin | 4,992 |
 | 30 | Maya Moore | 4,984 |
 | 31 | Tiffany Hayes | 4,927 |
-| 32 | **Kelsey Mitchell** 🔴 +14 | 4,921 |
+| 32 | **Kelsey Mitchell** 🔴 +15 | 4,922 |
 | 33 | Sheryl Swoopes | 4,875 |
 | 34 | Alana Beard | 4,740 |
 | 35 | Chamique Holdsclaw | 4,713 |
@@ -497,7 +497,7 @@ _Last updated: 2026-05-31 01:38 UTC_
 | 66 | Jia Perkins | 837 |
 | 67 | Brittney Sykes | 834 |
 | 68 | Andrea Stinson | 810 |
-| 69 | **Kelsey Mitchell** 🔴 +2 | 807 |
+| 69 | **Kelsey Mitchell** 🔴 +3 | 808 |
 | 70 | Tina Thompson | 803 |
 | 71 | Epiphanny Prince | 800 |
 | 72 | Mwadi Mabika | 774 |
@@ -1176,9 +1176,9 @@ _Last updated: 2026-05-31 01:38 UTC_
 | 128 | Tianna Hawkins | 167 |
 | 130 | Charlotte Smith | 164 |
 | 131 | **Caitlin Clark** 🔴 | 163 |
+| 132 | **Tyasha Harris** 🔴 +1 | 162 |
 | 132 | Ukari Figgs | 162 |
-| 133 | Edna Campbell | 161 |
-| 133 | **Tyasha Harris** 🔴 | 161 |
+| 134 | Edna Campbell | 161 |
 | 135 | Dana Evans | 160 |
 | 135 | Jennifer Lacy | 160 |
 | 137 | Aari McDonald | 158 |

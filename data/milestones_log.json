@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-31T01:39:00+00:00",
+    "text": "Tyasha Harris passed Edna Campbell for #133 all-time in three-pointers (career 162) \u2014 up from #134 entering today \u2014 (3:50 - 3rd \u2014 IND @ POR)",
+    "kind": "rank_pass",
+    "player": "Tyasha Harris",
+    "stat": "three-pointers",
+    "rank": 133,
+    "passed_players": [
+      "Edna Campbell"
+    ],
+    "new_total": 162
+  },
+  {
     "ts": "2026-05-31T00:56:00+00:00",
     "text": "Kelsey Mitchell passed Rushia Brown for #143 all-time in steals (career 222) \u2014 up from #146 entering today \u2014 (3:19 - 2nd \u2014 IND @ POR)",
     "kind": "rank_pass",
@@ -2984,17 +2996,5 @@
       "Jasmine Thomas"
     ],
     "new_total": 1034
-  },
-  {
-    "ts": "2026-05-18T14:28:00+00:00",
-    "text": "Jackie Young passed Alana Beard for #38 all-time in assists (career 1,067) \u2014 up from #39 entering today \u2014 (Final \u2014 LV @ ATL)",
-    "kind": "rank_pass",
-    "player": "Jackie Young",
-    "stat": "assists",
-    "rank": 38,
-    "passed_players": [
-      "Alana Beard"
-    ],
-    "new_total": 1067
   }
 ]
