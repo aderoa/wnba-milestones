@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-31 21:11 UTC_
+_Last updated: 2026-05-31 21:12 UTC_
 
 ## Contents
 
@@ -240,7 +240,7 @@ _Last updated: 2026-05-31 21:11 UTC_
 | 14 | Sancho Lyttle | 2,596 |
 | 15 | DeLisha Milton-Jones | 2,574 |
 | 16 | Brittney Griner | 2,537 |
-| 17 | **A'ja Wilson** 🔴 +12 | 2,534 |
+| 17 | **A'ja Wilson** 🔴 +13 | 2,535 |
 | 18 | Swin Cash | 2,521 |
 | 19 | Breanna Stewart | 2,510 |
 | 20 | Michelle Snow | 2,476 |
@@ -642,7 +642,7 @@ _Last updated: 2026-05-31 21:11 UTC_
 | 6 | Lauren Jackson | 586 |
 | 7 | Tammy Sutton-Brown | 555 |
 | 8 | Tangela Smith | 554 |
-| 9 | **A'ja Wilson** 🔴 +3 | 546 |
+| 9 | **A'ja Wilson** 🔴 +4 | 547 |
 | 10 | Ruth Riley | 505 |
 | 11 | Elizabeth Williams | 486 |
 | 12 | Taj McWilliams-Franklin | 443 |
@@ -892,8 +892,8 @@ _Last updated: 2026-05-31 21:11 UTC_
 | 51 | Briann January | 386 |
 | 52 | Swin Cash | 384 |
 | 52 | Tina Charles | 384 |
-| 54 | Monique Currie | 378 |
-| 54 | **Tiffany Hayes** 🔴 | 378 |
+| 54 | **Tiffany Hayes** 🔴 +1 | 379 |
+| 55 | Monique Currie | 378 |
 | 56 | Chamique Holdsclaw | 376 |
 | 57 | Mwadi Mabika | 370 |
 | 58 | Ariel Atkins | 369 |
