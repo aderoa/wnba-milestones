@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-31T21:15:00+00:00",
+    "text": "Jackie Young passed Sabrina Ionescu for #37 all-time in assists (career 1,068) \u2014 up from #39 entering today \u2014 (End of 3rd \u2014 LV @ GS)",
+    "kind": "rank_pass",
+    "player": "Jackie Young",
+    "stat": "assists",
+    "rank": 37,
+    "passed_players": [
+      "Sabrina Ionescu"
+    ],
+    "new_total": 1068
+  },
+  {
     "ts": "2026-05-31T21:05:00+00:00",
     "text": "Jackie Young passed Sugar Rodgers for #61 all-time in three-pointers (career 318) \u2014 up from #62 entering today \u2014 (4:14 - 3rd \u2014 LV @ GS)",
     "kind": "rank_pass",
@@ -2982,17 +2994,5 @@
       "Moriah Jefferson"
     ],
     "new_total": 1735
-  },
-  {
-    "ts": "2026-05-18T14:28:00+00:00",
-    "text": "NaLyssa Smith passed Diamond DeShields for #200 all-time in fouls (career 447) \u2014 new to top 200 today \u2014 (Final \u2014 LV @ ATL)",
-    "kind": "rank_pass",
-    "player": "NaLyssa Smith",
-    "stat": "fouls",
-    "rank": 200,
-    "passed_players": [
-      "Diamond DeShields"
-    ],
-    "new_total": 447
   }
 ]

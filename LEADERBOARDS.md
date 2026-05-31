@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-31 21:14 UTC_
+_Last updated: 2026-05-31 21:15 UTC_
 
 ## Contents
 
@@ -465,8 +465,8 @@ _Last updated: 2026-05-31 21:14 UTC_
 | 34 | Swin Cash | 1,131 |
 | 35 | Lindsey Harding | 1,090 |
 | 36 | Katie Douglas | 1,069 |
-| 37 | **Jackie Young** 🔴 +7 | 1,067 |
-| 37 | Sabrina Ionescu | 1,067 |
+| 37 | **Jackie Young** 🔴 +8 | 1,068 |
+| 38 | Sabrina Ionescu | 1,067 |
 | 39 | Alana Beard | 1,061 |
 | 40 | Penny Taylor | 1,049 |
 | 41 | Dominique Canty | 1,042 |
