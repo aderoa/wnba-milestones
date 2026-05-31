@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-31 00:50 UTC_
+_Last updated: 2026-05-31 00:51 UTC_
 
 ## Contents
 
@@ -50,7 +50,7 @@ _Last updated: 2026-05-31 00:50 UTC_
 | 29 | Taj McWilliams-Franklin | 4,992 |
 | 30 | Maya Moore | 4,984 |
 | 31 | Tiffany Hayes | 4,927 |
-| 32 | **Kelsey Mitchell** 🔴 +4 | 4,911 |
+| 32 | **Kelsey Mitchell** 🔴 +6 | 4,913 |
 | 33 | Sheryl Swoopes | 4,875 |
 | 34 | Alana Beard | 4,740 |
 | 35 | Chamique Holdsclaw | 4,713 |
@@ -192,7 +192,7 @@ _Last updated: 2026-05-31 00:50 UTC_
 | 171 | Nakia Sanford | 1,915 |
 | 172 | Ebony Hoffman | 1,909 |
 | 173 | Candice Wiggins | 1,901 |
-| 174 | **Myisha Hines-Allen** 🔴 | 1,895 |
+| 174 | **Myisha Hines-Allen** 🔴 +2 | 1,897 |
 | 175 | **Aliyah Boston** 🔴 +6 | 1,840 |
 | 176 | Isabelle Harrison | 1,832 |
 | 177 | Damiris Dantas | 1,830 |
@@ -497,7 +497,7 @@ _Last updated: 2026-05-31 00:50 UTC_
 | 66 | Jia Perkins | 837 |
 | 67 | Brittney Sykes | 834 |
 | 68 | Andrea Stinson | 810 |
-| 69 | **Kelsey Mitchell** 🔴 | 805 |
+| 69 | **Kelsey Mitchell** 🔴 +1 | 806 |
 | 70 | Tina Thompson | 803 |
 | 71 | Epiphanny Prince | 800 |
 | 72 | Mwadi Mabika | 774 |
@@ -981,10 +981,10 @@ _Last updated: 2026-05-31 00:50 UTC_
 | 140 | Wendy Palmer | 226 |
 | 141 | Alexis Hornbuckle | 225 |
 | 142 | Cheryl Ford | 224 |
+| 143 | **Kelsey Mitchell** 🔴 +1 | 221 |
 | 143 | Rushia Brown | 221 |
-| 144 | DeMya Walker | 220 |
-| 144 | Jennifer Gillom | 220 |
-| 144 | **Kelsey Mitchell** 🔴 | 220 |
+| 145 | DeMya Walker | 220 |
+| 145 | Jennifer Gillom | 220 |
 | 147 | Allison Feaster | 219 |
 | 148 | Shenise Johnson | 217 |
 | 149 | Adrian Williams-Strong | 216 |
