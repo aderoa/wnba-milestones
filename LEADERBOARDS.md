@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-31 20:08 UTC_
+_Last updated: 2026-05-31 20:09 UTC_
 
 ## Contents
 
@@ -265,7 +265,7 @@ _Last updated: 2026-05-31 20:08 UTC_
 | 39 | Lindsay Whalen | 1,805 |
 | 40 | Camille Smith | 1,802 |
 | 41 | Courtney Williams | 1,766 |
-| 42 | **Kiah Stokes** 🔴 +3 | 1,763 |
+| 42 | **Kiah Stokes** 🔴 +4 | 1,764 |
 | 43 | Asjha Jones | 1,751 |
 | 44 | Teaira McCowan | 1,670 |
 | 45 | Stefanie Dolson | 1,667 |
@@ -317,7 +317,7 @@ _Last updated: 2026-05-31 20:08 UTC_
 | 91 | Ezi Magbegor | 1,243 |
 | 92 | Azurá Stevens | 1,237 |
 | 93 | **Tiffany Hayes** 🔴 | 1,233 |
-| 94 | **Brianna Turner** 🔴 +1 | 1,230 |
+| 94 | **Brianna Turner** 🔴 +2 | 1,231 |
 | 95 | Seimone Augustus | 1,228 |
 | 96 | Myisha Hines-Allen | 1,224 |
 | 97 | Jia Perkins | 1,220 |
@@ -1566,9 +1566,9 @@ _Last updated: 2026-05-31 20:08 UTC_
 | 109 | Jennifer Gillom | 629 |
 | 110 | Deanna Nolan | 628 |
 | 111 | Brionna Jones | 625 |
+| 112 | **Kiah Stokes** 🔴 +1 | 618 |
 | 112 | Teaira McCowan | 618 |
-| 113 | Courtney Paris | 617 |
-| 113 | **Kiah Stokes** 🔴 | 617 |
+| 114 | Courtney Paris | 617 |
 | 115 | Coco Miller | 615 |
 | 116 | Brooke Wyckoff | 614 |
 | 117 | Svetlana Abrosimova | 613 |
