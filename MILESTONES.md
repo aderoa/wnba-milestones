@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-31 00:16 UTC
+
+- **Ariel Atkins** passed **Elena Baranova** and **Jantel Lavender** for **#124** all-time in turnovers (career 445) — up from #126 entering today — _2:13 - 4th — LA @ CON_
+
 ## 2026-05-30 23:53 UTC
 
 - **Dearica Hamby** passed **Theresa Plaisance** for **#124** all-time in blocks (career 103) — up from #126 entering today — _8:23 - 4th — LA @ CON_

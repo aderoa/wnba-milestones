@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-05-31T00:16:00+00:00",
+    "text": "Ariel Atkins passed Elena Baranova and Jantel Lavender for #124 all-time in turnovers (career 445) \u2014 up from #126 entering today \u2014 (2:13 - 4th \u2014 LA @ CON)",
+    "kind": "rank_pass",
+    "player": "Ariel Atkins",
+    "stat": "turnovers",
+    "rank": 124,
+    "passed_players": [
+      "Elena Baranova",
+      "Jantel Lavender"
+    ],
+    "new_total": 445
+  },
+  {
     "ts": "2026-05-30T23:53:00+00:00",
     "text": "Dearica Hamby passed Theresa Plaisance for #124 all-time in blocks (career 103) \u2014 up from #126 entering today \u2014 (8:23 - 4th \u2014 LA @ CON)",
     "kind": "rank_pass",
@@ -2985,19 +2998,5 @@
       "Shannon Johnson"
     ],
     "new_total": 69
-  },
-  {
-    "ts": "2026-05-18T14:28:00+00:00",
-    "text": "Jackie Young passed Tari Phillips, Emma Meesseman, and Erika de Souza for #105 all-time in steals (career 278) \u2014 up from #108 entering today \u2014 (Final \u2014 LV @ ATL)",
-    "kind": "rank_pass",
-    "player": "Jackie Young",
-    "stat": "steals",
-    "rank": 105,
-    "passed_players": [
-      "Tari Phillips",
-      "Emma Meesseman",
-      "Erika de Souza"
-    ],
-    "new_total": 278
   }
 ]

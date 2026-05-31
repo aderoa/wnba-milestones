@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-31 00:15 UTC_
+_Last updated: 2026-05-31 00:16 UTC_
 
 ## Contents
 
@@ -97,7 +97,7 @@ _Last updated: 2026-05-31 00:15 UTC_
 | 76 | Jackie Young | 3,468 |
 | 77 | Ivory Latta | 3,447 |
 | 78 | Nicole Powell | 3,407 |
-| 79 | **Ariel Atkins** 🔴 +14 | 3,385 |
+| 79 | **Ariel Atkins** 🔴 +16 | 3,387 |
 | 80 | Epiphanny Prince | 3,381 |
 | 81 | Michelle Snow | 3,361 |
 | 82 | Tamika Whitmore | 3,359 |
@@ -299,7 +299,7 @@ _Last updated: 2026-05-31 00:15 UTC_
 | 72 | Katie Smith | 1,383 |
 | 74 | Ebony Hoffman | 1,376 |
 | 75 | Allisha Gray | 1,368 |
-| 76 | **Monique Billings** 🔴 | 1,367 |
+| 75 | **Monique Billings** 🔴 +1 | 1,368 |
 | 77 | Sheri Sam | 1,356 |
 | 78 | Tamika Whitmore | 1,355 |
 | 79 | Emma Meesseman | 1,350 |
@@ -404,9 +404,9 @@ _Last updated: 2026-05-31 00:15 UTC_
 | 178 | Teresa Weatherspoon | 775 |
 | 179 | Gabby Williams | 774 |
 | 180 | Anna DeForge | 769 |
-| 180 | **Ariel Atkins** 🔴 +5 | 769 |
 | 180 | Kelsey Bone | 769 |
 | 180 | Tan White | 769 |
+| 183 | **Ariel Atkins** 🔴 +4 | 768 |
 | 184 | Tully Bevilaqua | 767 |
 | 185 | Layshia Clarendon | 756 |
 | 186 | Brooke Wyckoff | 751 |
@@ -895,7 +895,7 @@ _Last updated: 2026-05-31 00:15 UTC_
 | 54 | Monique Currie | 378 |
 | 54 | Tiffany Hayes | 378 |
 | 56 | Chamique Holdsclaw | 376 |
-| 57 | **Ariel Atkins** 🔴 +3 | 372 |
+| 57 | **Ariel Atkins** 🔴 +4 | 373 |
 | 58 | Mwadi Mabika | 370 |
 | 59 | Jordin Canada | 369 |
 | 60 | Brittney Sykes | 363 |
@@ -1373,9 +1373,9 @@ _Last updated: 2026-05-31 00:15 UTC_
 | 121 | A'ja Wilson | 454 |
 | 121 | Kia Vaughn | 454 |
 | 123 | Janeth Arcain | 453 |
-| 124 | **Ariel Atkins** 🔴 +2 | 444 |
-| 124 | Elena Baranova | 444 |
-| 124 | Jantel Lavender | 444 |
+| 124 | **Ariel Atkins** 🔴 +3 | 445 |
+| 125 | Elena Baranova | 444 |
+| 125 | Jantel Lavender | 444 |
 | 127 | Betnijah Laney-Hamilton | 441 |
 | 128 | Ann Wauters | 440 |
 | 129 | Cheyenne Parker-Tyus | 439 |
@@ -1620,12 +1620,12 @@ _Last updated: 2026-05-31 00:15 UTC_
 | 162 | **Monique Billings** 🔴 +1 | 511 |
 | 164 | Vicky Bullett | 507 |
 | 165 | Merlakia Jones | 506 |
+| 166 | **Myisha Hines-Allen** 🔴 +1 | 505 |
 | 166 | Rushia Brown | 505 |
 | 166 | Shekinna Stricklen | 505 |
-| 168 | Allison Feaster | 504 |
-| 168 | Erin Perperoglou | 504 |
-| 168 | **Myisha Hines-Allen** 🔴 | 504 |
-| 168 | Napheesa Collier | 504 |
+| 169 | Allison Feaster | 504 |
+| 169 | Erin Perperoglou | 504 |
+| 169 | Napheesa Collier | 504 |
 | 172 | Iziane Castro Marques | 502 |
 | 173 | Elena Baranova | 501 |
 | 174 | Adrian Williams-Strong | 497 |
