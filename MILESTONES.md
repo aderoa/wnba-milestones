@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-05-31 01:42 UTC
+
+- **Myisha Hines-Allen** passed **Michele Timms** for **#169** all-time in three-pointers (career 128) — up from #170 entering today — _2:59 - 3rd — IND @ POR_
+
 ## 2026-05-31 01:39 UTC
 
 - **Tyasha Harris** passed **Edna Campbell** for **#133** all-time in three-pointers (career 162) — up from #134 entering today — _3:50 - 3rd — IND @ POR_

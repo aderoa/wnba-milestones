@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-05-31T01:42:00+00:00",
+    "text": "Myisha Hines-Allen passed Michele Timms for #169 all-time in three-pointers (career 128) \u2014 up from #170 entering today \u2014 (2:59 - 3rd \u2014 IND @ POR)",
+    "kind": "rank_pass",
+    "player": "Myisha Hines-Allen",
+    "stat": "three-pointers",
+    "rank": 169,
+    "passed_players": [
+      "Michele Timms"
+    ],
+    "new_total": 128
+  },
+  {
     "ts": "2026-05-31T01:39:00+00:00",
     "text": "Tyasha Harris passed Edna Campbell for #133 all-time in three-pointers (career 162) \u2014 up from #134 entering today \u2014 (3:50 - 3rd \u2014 IND @ POR)",
     "kind": "rank_pass",
@@ -2983,18 +2995,5 @@
       "Crystal Robinson"
     ],
     "new_total": 428
-  },
-  {
-    "ts": "2026-05-18T14:28:00+00:00",
-    "text": "Jackie Young passed Kamila Vodichkova and Jasmine Thomas for #124 all-time in rebounds (career 1,034) \u2014 up from #125 entering today \u2014 (Final \u2014 LV @ ATL)",
-    "kind": "rank_pass",
-    "player": "Jackie Young",
-    "stat": "rebounds",
-    "rank": 124,
-    "passed_players": [
-      "Kamila Vodichkova",
-      "Jasmine Thomas"
-    ],
-    "new_total": 1034
   }
 ]
