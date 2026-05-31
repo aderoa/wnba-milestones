@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-31 21:13 UTC_
+_Last updated: 2026-05-31 21:14 UTC_
 
 ## Contents
 
@@ -37,7 +37,7 @@ _Last updated: 2026-05-31 21:13 UTC_
 | 16 | Lauren Jackson | 6,005 |
 | 16 | Seimone Augustus | 6,005 |
 | 18 | Brittney Griner | 5,983 |
-| 19 | **A'ja Wilson** 🔴 +24 | 5,868 |
+| 19 | **A'ja Wilson** 🔴 +26 | 5,870 |
 | 20 | Becky Hammon | 5,816 |
 | 21 | Angel McCoughtry | 5,797 |
 | 22 | DeLisha Milton-Jones | 5,571 |
@@ -317,7 +317,7 @@ _Last updated: 2026-05-31 21:13 UTC_
 | 91 | Ezi Magbegor | 1,243 |
 | 92 | Azurá Stevens | 1,237 |
 | 93 | **Tiffany Hayes** 🔴 | 1,233 |
-| 94 | **Brianna Turner** 🔴 +2 | 1,231 |
+| 94 | **Brianna Turner** 🔴 +3 | 1,232 |
 | 95 | Seimone Augustus | 1,228 |
 | 96 | Myisha Hines-Allen | 1,224 |
 | 97 | Jia Perkins | 1,220 |
@@ -603,7 +603,7 @@ _Last updated: 2026-05-31 21:13 UTC_
 | 171 | Tamicha Jackson | 389 |
 | 173 | Riquna Williams | 387 |
 | 174 | Aliyah Boston | 384 |
-| 174 | **Stephanie Talbot** 🔴 +5 | 384 |
+| 175 | **Stephanie Talbot** 🔴 +4 | 383 |
 | 176 | Dana Evans | 379 |
 | 177 | Jessica Breland | 377 |
 | 178 | Shenise Johnson | 376 |
@@ -913,9 +913,9 @@ _Last updated: 2026-05-31 21:13 UTC_
 | 72 | Helen Darling | 343 |
 | 73 | Andrea Stinson | 342 |
 | 73 | Natasha Cloud | 342 |
+| 75 | **A'ja Wilson** 🔴 +1 | 340 |
 | 75 | Arike Ogunbowale | 340 |
 | 75 | Armintie Herrington | 340 |
-| 77 | **A'ja Wilson** 🔴 | 339 |
 | 78 | Dawn Staley | 338 |
 | 79 | Marie Ferdinand-Harris | 331 |
 | 80 | Chasity Melvin | 330 |
@@ -934,7 +934,7 @@ _Last updated: 2026-05-31 21:13 UTC_
 | 93 | Crystal Langhorne | 314 |
 | 94 | Ebony Hoffman | 308 |
 | 95 | Tamera Young | 305 |
-| 96 | **Gabby Williams** 🔴 +2 | 304 |
+| 96 | **Gabby Williams** 🔴 +1 | 303 |
 | 97 | Kedra Holland-Corn | 301 |
 | 98 | Lindsey Harding | 295 |
 | 99 | Janel McCarville | 294 |
