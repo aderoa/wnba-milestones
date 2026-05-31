@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-31 19:48 UTC_
+_Last updated: 2026-05-31 19:49 UTC_
 
 ## Contents
 
@@ -212,7 +212,7 @@ _Last updated: 2026-05-31 19:48 UTC_
 | 191 | Armintie Herrington | 1,696 |
 | 192 | Nikki Teasley | 1,690 |
 | 193 | Shenise Johnson | 1,688 |
-| 194 | **Gabby Williams** 🔴 +2 | 1,636 |
+| 194 | **Gabby Williams** 🔴 +5 | 1,639 |
 | 195 | Janell Burse | 1,580 |
 | 196 | Le'coe Willingham | 1,552 |
 | 197 | Shatori Walker-Kimbrough | 1,544 |
@@ -340,7 +340,7 @@ _Last updated: 2026-05-31 19:48 UTC_
 | 114 | Becky Hammon | 1,108 |
 | 115 | Ann Wauters | 1,105 |
 | 116 | Natasha Cloud | 1,093 |
-| 117 | **NaLyssa Smith** 🔴 +3 | 1,084 |
+| 117 | **NaLyssa Smith** 🔴 +4 | 1,085 |
 | 118 | Svetlana Abrosimova | 1,078 |
 | 119 | Aliyah Boston | 1,066 |
 | 120 | Le'coe Willingham | 1,054 |
@@ -401,8 +401,8 @@ _Last updated: 2026-05-31 19:48 UTC_
 | 174 | Sue Wicks | 780 |
 | 176 | Lindsey Harding | 779 |
 | 177 | Tiffani Johnson | 778 |
-| 178 | **Gabby Williams** 🔴 +1 | 775 |
-| 178 | Teresa Weatherspoon | 775 |
+| 178 | **Gabby Williams** 🔴 +2 | 776 |
+| 179 | Teresa Weatherspoon | 775 |
 | 180 | Anna DeForge | 769 |
 | 180 | Kelsey Bone | 769 |
 | 180 | Tan White | 769 |
@@ -555,7 +555,7 @@ _Last updated: 2026-05-31 19:48 UTC_
 | 123 | Chasity Melvin | 508 |
 | 125 | Anna DeForge | 503 |
 | 125 | Coco Miller | 503 |
-| 127 | **Veronica Burton** 🔴 +1 | 502 |
+| 125 | **Veronica Burton** 🔴 +2 | 503 |
 | 128 | Rachel Banham | 498 |
 | 129 | Rhyne Howard | 490 |
 | 130 | Caitlin Clark | 488 |
@@ -1215,8 +1215,8 @@ _Last updated: 2026-05-31 19:48 UTC_
 | 168 | Ticha Penicheiro | 128 |
 | 169 | Michele Timms | 127 |
 | 169 | Myisha Hines-Allen | 127 |
+| 171 | **Gabby Williams** 🔴 +1 | 126 |
 | 171 | Tamecka Dixon | 126 |
-| 172 | **Gabby Williams** 🔴 | 125 |
 | 173 | Charde Houston | 124 |
 | 174 | Lisa Leslie | 123 |
 | 175 | Sidney Spencer | 122 |
@@ -1382,9 +1382,9 @@ _Last updated: 2026-05-31 19:48 UTC_
 | 129 | Tiffany Mitchell | 439 |
 | 131 | Alysha Clark | 438 |
 | 131 | Kedra Holland-Corn | 438 |
-| 133 | **Jackie Young** 🔴 | 434 |
-| 133 | Jennifer Gillom | 434 |
-| 133 | Nicole Ohlde | 434 |
+| 133 | **Jackie Young** 🔴 +1 | 435 |
+| 134 | Jennifer Gillom | 434 |
+| 134 | Nicole Ohlde | 434 |
 | 136 | Murriel Page | 432 |
 | 137 | Shameka Christon | 424 |
 | 138 | Cynthia Cooper | 422 |
