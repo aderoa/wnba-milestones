@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-31 21:29 UTC_
+_Last updated: 2026-05-31 21:30 UTC_
 
 ## Contents
 
@@ -674,7 +674,7 @@ _Last updated: 2026-05-31 21:29 UTC_
 | 38 | Plenette Pierson | 242 |
 | 39 | Napheesa Collier | 239 |
 | 40 | Emma Meesseman | 238 |
-| 41 | **Brianna Turner** 🔴 +2 | 233 |
+| 41 | **Brianna Turner** 🔴 +1 | 232 |
 | 42 | Azurá Stevens | 230 |
 | 43 | Chasity Melvin | 228 |
 | 44 | Skylar Diggins | 225 |
