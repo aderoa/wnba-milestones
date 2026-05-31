@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-31 00:08 UTC_
+_Last updated: 2026-05-31 00:09 UTC_
 
 ## Contents
 
@@ -97,7 +97,7 @@ _Last updated: 2026-05-31 00:08 UTC_
 | 76 | Jackie Young | 3,468 |
 | 77 | Ivory Latta | 3,447 |
 | 78 | Nicole Powell | 3,407 |
-| 79 | **Ariel Atkins** 🔴 +13 | 3,384 |
+| 79 | **Ariel Atkins** 🔴 +14 | 3,385 |
 | 80 | Epiphanny Prince | 3,381 |
 | 81 | Michelle Snow | 3,361 |
 | 82 | Tamika Whitmore | 3,359 |
@@ -1439,7 +1439,7 @@ _Last updated: 2026-05-31 00:08 UTC_
 | 187 | **Caitlin Clark** 🔴 | 309 |
 | 188 | Erin Perperoglou | 305 |
 | 188 | Jennifer Lacy | 305 |
-| 190 | **Monique Billings** 🔴 | 304 |
+| 188 | **Monique Billings** 🔴 +1 | 305 |
 | 191 | Tianna Hawkins | 303 |
 | 192 | Isabelle Harrison | 300 |
 | 193 | Crystal Robinson | 299 |
