@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-31 21:30 UTC_
+_Last updated: 2026-05-31 21:31 UTC_
 
 ## Contents
 
@@ -205,14 +205,14 @@ _Last updated: 2026-05-31 21:30 UTC_
 | 184 | Tully Bevilaqua | 1,763 |
 | 185 | Sandy Brondello | 1,759 |
 | 186 | Natisha Hiedeman | 1,751 |
-| 187 | **NaLyssa Smith** 🔴 +12 | 1,734 |
+| 187 | **NaLyssa Smith** 🔴 +13 | 1,735 |
 | 188 | Sugar Rodgers | 1,733 |
 | 189 | Moriah Jefferson | 1,722 |
 | 190 | Sophie Cunningham | 1,705 |
 | 191 | Armintie Herrington | 1,696 |
 | 192 | Nikki Teasley | 1,690 |
 | 193 | Shenise Johnson | 1,688 |
-| 194 | **Gabby Williams** 🔴 +12 | 1,646 |
+| 194 | **Gabby Williams** 🔴 +14 | 1,648 |
 | 195 | Janell Burse | 1,580 |
 | 196 | Le'coe Willingham | 1,552 |
 | 197 | Shatori Walker-Kimbrough | 1,544 |
@@ -307,8 +307,8 @@ _Last updated: 2026-05-31 21:30 UTC_
 | 81 | Elena Baranova | 1,335 |
 | 82 | Brionna Jones | 1,333 |
 | 83 | Erlana Larkins | 1,329 |
-| 84 | **Kayla Thornton** 🔴 +2 | 1,327 |
-| 84 | Mwadi Mabika | 1,327 |
+| 84 | **Kayla Thornton** 🔴 +3 | 1,328 |
+| 85 | Mwadi Mabika | 1,327 |
 | 86 | Jayne Appel Marinelli | 1,326 |
 | 87 | Betty Lennox | 1,296 |
 | 88 | Tari Phillips | 1,274 |
@@ -934,7 +934,7 @@ _Last updated: 2026-05-31 21:30 UTC_
 | 93 | Crystal Langhorne | 314 |
 | 94 | Ebony Hoffman | 308 |
 | 95 | Tamera Young | 305 |
-| 96 | **Gabby Williams** 🔴 +1 | 303 |
+| 96 | **Gabby Williams** 🔴 +2 | 304 |
 | 97 | Kedra Holland-Corn | 301 |
 | 98 | Lindsey Harding | 295 |
 | 99 | Janel McCarville | 294 |
@@ -1566,8 +1566,8 @@ _Last updated: 2026-05-31 21:30 UTC_
 | 109 | Jennifer Gillom | 629 |
 | 110 | Deanna Nolan | 628 |
 | 111 | Brionna Jones | 625 |
-| 112 | **Kiah Stokes** 🔴 +1 | 618 |
-| 112 | Teaira McCowan | 618 |
+| 112 | **Kiah Stokes** 🔴 +2 | 619 |
+| 113 | Teaira McCowan | 618 |
 | 114 | Courtney Paris | 617 |
 | 115 | Coco Miller | 615 |
 | 116 | Brooke Wyckoff | 614 |
