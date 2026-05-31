@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-31 20:31 UTC_
+_Last updated: 2026-05-31 20:32 UTC_
 
 ## Contents
 
@@ -348,7 +348,7 @@ _Last updated: 2026-05-31 20:31 UTC_
 | 122 | Nicole Ohlde | 1,040 |
 | 123 | Tamecka Dixon | 1,035 |
 | 124 | Kamila Vodichkova | 1,031 |
-| 125 | **Jackie Young** 🔴 +3 | 1,030 |
+| 125 | **Jackie Young** 🔴 +2 | 1,029 |
 | 126 | Jasmine Thomas | 1,027 |
 | 127 | Cathrine Kraayeveld | 1,013 |
 | 128 | Kelly Miller | 1,011 |
@@ -943,10 +943,10 @@ _Last updated: 2026-05-31 20:31 UTC_
 | 102 | Elizabeth Williams | 285 |
 | 102 | Essence Carson | 285 |
 | 104 | Seimone Augustus | 280 |
+| 105 | **Jackie Young** 🔴 +1 | 277 |
 | 105 | Tari Phillips | 277 |
-| 106 | Emma Meesseman | 276 |
-| 106 | Erika de Souza | 276 |
-| 106 | **Jackie Young** 🔴 | 276 |
+| 107 | Emma Meesseman | 276 |
+| 107 | Erika de Souza | 276 |
 | 109 | Rita Williams | 271 |
 | 110 | Natalie Williams | 270 |
 | 110 | Nicky Anosike | 270 |
