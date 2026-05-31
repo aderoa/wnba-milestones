@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-31 19:45 UTC_
+_Last updated: 2026-05-31 19:46 UTC_
 
 ## Contents
 
@@ -37,7 +37,7 @@ _Last updated: 2026-05-31 19:45 UTC_
 | 16 | Lauren Jackson | 6,005 |
 | 16 | Seimone Augustus | 6,005 |
 | 18 | Brittney Griner | 5,983 |
-| 19 | **A'ja Wilson** 🔴 | 5,844 |
+| 19 | **A'ja Wilson** 🔴 +2 | 5,846 |
 | 20 | Becky Hammon | 5,816 |
 | 21 | Angel McCoughtry | 5,797 |
 | 22 | DeLisha Milton-Jones | 5,571 |
@@ -212,7 +212,7 @@ _Last updated: 2026-05-31 19:45 UTC_
 | 191 | Armintie Herrington | 1,696 |
 | 192 | Nikki Teasley | 1,690 |
 | 193 | Shenise Johnson | 1,688 |
-| 194 | **Gabby Williams** 🔴 | 1,634 |
+| 194 | **Gabby Williams** 🔴 +2 | 1,636 |
 | 195 | Janell Burse | 1,580 |
 | 196 | Le'coe Willingham | 1,552 |
 | 197 | Shatori Walker-Kimbrough | 1,544 |
@@ -240,7 +240,7 @@ _Last updated: 2026-05-31 19:45 UTC_
 | 14 | Sancho Lyttle | 2,596 |
 | 15 | DeLisha Milton-Jones | 2,574 |
 | 16 | Brittney Griner | 2,537 |
-| 17 | **A'ja Wilson** 🔴 +1 | 2,523 |
+| 17 | **A'ja Wilson** 🔴 +2 | 2,524 |
 | 18 | Swin Cash | 2,521 |
 | 19 | Breanna Stewart | 2,510 |
 | 20 | Michelle Snow | 2,476 |
@@ -265,7 +265,7 @@ _Last updated: 2026-05-31 19:45 UTC_
 | 39 | Lindsay Whalen | 1,805 |
 | 40 | Camille Smith | 1,802 |
 | 41 | Courtney Williams | 1,766 |
-| 42 | **Kiah Stokes** 🔴 | 1,760 |
+| 42 | **Kiah Stokes** 🔴 +1 | 1,761 |
 | 43 | Asjha Jones | 1,751 |
 | 44 | Teaira McCowan | 1,670 |
 | 45 | Stefanie Dolson | 1,667 |
@@ -555,7 +555,7 @@ _Last updated: 2026-05-31 19:45 UTC_
 | 123 | Chasity Melvin | 508 |
 | 125 | Anna DeForge | 503 |
 | 125 | Coco Miller | 503 |
-| 127 | **Veronica Burton** 🔴 | 501 |
+| 127 | **Veronica Burton** 🔴 +1 | 502 |
 | 128 | Rachel Banham | 498 |
 | 129 | Rhyne Howard | 490 |
 | 130 | Caitlin Clark | 488 |
