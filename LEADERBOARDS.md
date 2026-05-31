@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-31 21:21 UTC_
+_Last updated: 2026-05-31 21:22 UTC_
 
 ## Contents
 
@@ -464,8 +464,8 @@ _Last updated: 2026-05-31 21:21 UTC_
 | 33 | Renee Montgomery | 1,140 |
 | 34 | Swin Cash | 1,131 |
 | 35 | Lindsey Harding | 1,090 |
+| 36 | **Jackie Young** 🔴 +9 | 1,069 |
 | 36 | Katie Douglas | 1,069 |
-| 37 | **Jackie Young** 🔴 +8 | 1,068 |
 | 38 | Sabrina Ionescu | 1,067 |
 | 39 | Alana Beard | 1,061 |
 | 40 | Penny Taylor | 1,049 |
@@ -479,8 +479,8 @@ _Last updated: 2026-05-31 21:21 UTC_
 | 48 | Breanna Stewart | 938 |
 | 49 | Deanna Nolan | 930 |
 | 50 | Kelly Miller | 927 |
-| 51 | DeLisha Milton-Jones | 921 |
-| 51 | **Tiffany Hayes** 🔴 | 921 |
+| 51 | **Tiffany Hayes** 🔴 +1 | 922 |
+| 52 | DeLisha Milton-Jones | 921 |
 | 53 | Angel McCoughtry | 915 |
 | 54 | Layshia Clarendon | 911 |
 | 54 | Seimone Augustus | 911 |
