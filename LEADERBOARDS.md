@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-31 20:51 UTC_
+_Last updated: 2026-05-31 20:52 UTC_
 
 ## Contents
 
@@ -264,8 +264,8 @@ _Last updated: 2026-05-31 20:51 UTC_
 | 38 | Sophia Young-Malcolm | 1,807 |
 | 39 | Lindsay Whalen | 1,805 |
 | 40 | Camille Smith | 1,802 |
-| 41 | Courtney Williams | 1,766 |
-| 41 | **Kiah Stokes** 🔴 +6 | 1,766 |
+| 41 | **Kiah Stokes** 🔴 +7 | 1,767 |
+| 42 | Courtney Williams | 1,766 |
 | 43 | Asjha Jones | 1,751 |
 | 44 | Teaira McCowan | 1,670 |
 | 45 | Stefanie Dolson | 1,667 |
@@ -347,8 +347,8 @@ _Last updated: 2026-05-31 20:51 UTC_
 | 121 | Isabelle Harrison | 1,049 |
 | 122 | Nicole Ohlde | 1,040 |
 | 123 | Tamecka Dixon | 1,035 |
+| 124 | **Jackie Young** 🔴 +4 | 1,031 |
 | 124 | Kamila Vodichkova | 1,031 |
-| 125 | **Jackie Young** 🔴 +3 | 1,030 |
 | 126 | Jasmine Thomas | 1,027 |
 | 127 | Cathrine Kraayeveld | 1,013 |
 | 128 | Kelly Miller | 1,011 |
@@ -873,7 +873,7 @@ _Last updated: 2026-05-31 20:51 UTC_
 | 32 | Maya Moore | 449 |
 | 33 | Skylar Diggins | 448 |
 | 34 | Jewell Loyd | 445 |
-| 35 | **Chelsea Gray** 🔴 | 439 |
+| 35 | **Chelsea Gray** 🔴 +1 | 440 |
 | 36 | Natasha Howard | 438 |
 | 36 | Sheri Sam | 438 |
 | 38 | Camille Smith | 437 |
@@ -957,10 +957,10 @@ _Last updated: 2026-05-31 20:51 UTC_
 | 116 | Karima Christmas-Kelly | 261 |
 | 117 | Riquna Williams | 260 |
 | 118 | Kelsey Plum | 258 |
+| 119 | **Kayla Thornton** 🔴 +1 | 256 |
 | 119 | Noelle Quinn | 256 |
-| 120 | Elaine Powell | 255 |
-| 120 | **Kayla Thornton** 🔴 | 255 |
-| 120 | Loree Moore | 255 |
+| 121 | Elaine Powell | 255 |
+| 121 | Loree Moore | 255 |
 | 123 | Ruthie Bolton | 254 |
 | 124 | Hamchetou Maiga-Ba | 251 |
 | 124 | Tamika Whitmore | 251 |
@@ -1271,7 +1271,7 @@ _Last updated: 2026-05-31 20:51 UTC_
 | 19 | Katie Smith | 935 |
 | 20 | Shannon Johnson | 934 |
 | 21 | Taj McWilliams-Franklin | 898 |
-| 22 | **Chelsea Gray** 🔴 +2 | 890 |
+| 22 | **Chelsea Gray** 🔴 +3 | 891 |
 | 23 | Skylar Diggins | 881 |
 | 24 | Candice Dupree | 869 |
 | 25 | Alana Beard | 854 |
