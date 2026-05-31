@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-31 20:28 UTC_
+_Last updated: 2026-05-31 20:29 UTC_
 
 ## Contents
 
@@ -265,7 +265,7 @@ _Last updated: 2026-05-31 20:28 UTC_
 | 39 | Lindsay Whalen | 1,805 |
 | 40 | Camille Smith | 1,802 |
 | 41 | Courtney Williams | 1,766 |
-| 42 | **Kiah Stokes** 🔴 +4 | 1,764 |
+| 42 | **Kiah Stokes** 🔴 +5 | 1,765 |
 | 43 | Asjha Jones | 1,751 |
 | 44 | Teaira McCowan | 1,670 |
 | 45 | Stefanie Dolson | 1,667 |
@@ -1321,7 +1321,7 @@ _Last updated: 2026-05-31 20:28 UTC_
 | 69 | Jonquel Jones | 617 |
 | 70 | Rebekkah Brunson | 615 |
 | 71 | Seimone Augustus | 613 |
-| 72 | **Tiffany Hayes** 🔴 | 605 |
+| 72 | **Tiffany Hayes** 🔴 +1 | 606 |
 | 73 | Teresa Weatherspoon | 601 |
 | 74 | Lindsey Harding | 600 |
 | 74 | Tamika Whitmore | 600 |
