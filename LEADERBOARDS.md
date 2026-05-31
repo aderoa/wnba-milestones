@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-05-31 00:13 UTC_
+_Last updated: 2026-05-31 00:14 UTC_
 
 ## Contents
 
@@ -23,7 +23,7 @@ _Last updated: 2026-05-31 00:13 UTC_
 | 2 | Tina Charles | 8,396 |
 | 3 | DeWanna Bonner | 7,847 |
 | 4 | Tina Thompson | 7,470 |
-| 5 | **Nneka Ogwumike** 🔴 +8 | 7,379 |
+| 5 | **Nneka Ogwumike** 🔴 +10 | 7,381 |
 | 6 | Tamika Catchings | 7,371 |
 | 7 | Candice Dupree | 6,861 |
 | 8 | Sue Bird | 6,802 |
@@ -230,7 +230,7 @@ _Last updated: 2026-05-31 00:13 UTC_
 | 4 | Rebekkah Brunson | 3,345 |
 | 5 | Tamika Catchings | 3,313 |
 | 6 | Lisa Leslie | 3,303 |
-| 7 | **Nneka Ogwumike** 🔴 +2 | 3,297 |
+| 7 | **Nneka Ogwumike** 🔴 +3 | 3,298 |
 | 8 | DeWanna Bonner | 3,232 |
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
@@ -404,9 +404,9 @@ _Last updated: 2026-05-31 00:13 UTC_
 | 178 | Teresa Weatherspoon | 775 |
 | 179 | Gabby Williams | 774 |
 | 180 | Anna DeForge | 769 |
-| 180 | **Ariel Atkins** 🔴 +5 | 769 |
 | 180 | Kelsey Bone | 769 |
 | 180 | Tan White | 769 |
+| 183 | **Ariel Atkins** 🔴 +4 | 768 |
 | 184 | Tully Bevilaqua | 767 |
 | 185 | Layshia Clarendon | 756 |
 | 186 | Brooke Wyckoff | 751 |
@@ -1617,7 +1617,7 @@ _Last updated: 2026-05-31 00:13 UTC_
 | 159 | Janeth Arcain | 512 |
 | 159 | Sophie Cunningham | 512 |
 | 162 | Andrea Stinson | 511 |
-| 163 | **Monique Billings** 🔴 | 510 |
+| 162 | **Monique Billings** 🔴 +1 | 511 |
 | 164 | Vicky Bullett | 507 |
 | 165 | Merlakia Jones | 506 |
 | 166 | Rushia Brown | 505 |
