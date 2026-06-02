@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-02T01:24:00+00:00",
+    "text": "Arike Ogunbowale passed Alex Montgomery for #188 all-time in rebounds (career 736) \u2014 up from #190 entering today \u2014 (4:44 - 3rd \u2014 SEA @ DAL)",
+    "kind": "rank_pass",
+    "player": "Arike Ogunbowale",
+    "stat": "rebounds",
+    "rank": 188,
+    "passed_players": [
+      "Alex Montgomery"
+    ],
+    "new_total": 736
+  },
+  {
     "ts": "2026-05-31T21:15:00+00:00",
     "text": "Jackie Young passed Sabrina Ionescu for #37 all-time in assists (career 1,068) \u2014 up from #39 entering today \u2014 (End of 3rd \u2014 LV @ GS)",
     "kind": "rank_pass",
@@ -2981,18 +2993,5 @@
       "Tiffany Jackson"
     ],
     "new_total": 78
-  },
-  {
-    "ts": "2026-05-18T14:28:00+00:00",
-    "text": "NaLyssa Smith passed Sugar Rodgers and Moriah Jefferson for #187 all-time in points (career 1,735) \u2014 up from #189 entering today \u2014 (Final \u2014 LV @ ATL)",
-    "kind": "rank_pass",
-    "player": "NaLyssa Smith",
-    "stat": "points",
-    "rank": 187,
-    "passed_players": [
-      "Sugar Rodgers",
-      "Moriah Jefferson"
-    ],
-    "new_total": 1735
   }
 ]

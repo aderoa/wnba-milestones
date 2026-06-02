@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-02 01:24 UTC
+
+- **Arike Ogunbowale** passed **Alex Montgomery** for **#188** all-time in rebounds (career 736) — up from #190 entering today — _4:44 - 3rd — SEA @ DAL_
+
 ## 2026-05-31 21:15 UTC
 
 - **Jackie Young** passed **Sabrina Ionescu** for **#37** all-time in assists (career 1,068) — up from #39 entering today — _End of 3rd — LV @ GS_
