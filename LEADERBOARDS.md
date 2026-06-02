@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-02 01:40 UTC_
+_Last updated: 2026-06-02 01:41 UTC_
 
 ## Contents
 
@@ -397,7 +397,7 @@ _Last updated: 2026-06-02 01:40 UTC_
 | 171 | Naz Hillmon | 788 |
 | 171 | Rhonda Mapp | 788 |
 | 173 | Mercedes Russell | 786 |
-| 174 | **Odyssey Sims** 🔴 +1 | 781 |
+| 174 | **Odyssey Sims** 🔴 +2 | 782 |
 | 175 | Sue Wicks | 780 |
 | 176 | Lindsey Harding | 779 |
 | 177 | Tiffani Johnson | 778 |
