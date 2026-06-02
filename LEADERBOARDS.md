@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-02 03:19 UTC_
+_Last updated: 2026-06-02 03:20 UTC_
 
 ## Contents
 
@@ -73,7 +73,7 @@ _Last updated: 2026-06-02 03:19 UTC_
 | 52 | Yolanda Griffith | 4,224 |
 | 53 | **Kahleah Copper** 🔴 +11 | 4,165 |
 | 54 | Dearica Hamby | 4,158 |
-| 55 | **Courtney Williams** 🔴 +19 | 4,143 |
+| 55 | **Courtney Williams** 🔴 +21 | 4,145 |
 | 56 | Rebekkah Brunson | 4,133 |
 | 57 | Jonquel Jones | 4,132 |
 | 58 | Asjha Jones | 3,986 |
@@ -250,7 +250,7 @@ _Last updated: 2026-06-02 03:19 UTC_
 | 24 | Dearica Hamby | 2,346 |
 | 25 | Tangela Smith | 2,328 |
 | 26 | Erika de Souza | 2,220 |
-| 27 | **Natasha Howard** 🔴 +2 | 2,206 |
+| 27 | **Natasha Howard** 🔴 +3 | 2,207 |
 | 28 | Diana Taurasi | 2,201 |
 | 29 | Margo Dydek | 2,138 |
 | 30 | Chamique Holdsclaw | 2,123 |
@@ -386,8 +386,8 @@ _Last updated: 2026-06-02 03:19 UTC_
 | 160 | Kristi Toliver | 829 |
 | 161 | Marie Ferdinand-Harris | 828 |
 | 162 | Marina Mabrey | 827 |
-| 163 | Marlies Askamp | 822 |
-| 163 | **Nia Coffey** 🔴 +3 | 822 |
+| 163 | **Nia Coffey** 🔴 +4 | 823 |
+| 164 | Marlies Askamp | 822 |
 | 165 | Amanda Zahui B | 819 |
 | 165 | Barbara Farris | 819 |
 | 167 | Carolyn Swords | 814 |
