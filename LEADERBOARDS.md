@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-02 23:36 UTC_
+_Last updated: 2026-06-02 23:37 UTC_
 
 ## Contents
 
@@ -159,7 +159,7 @@ _Last updated: 2026-06-02 23:36 UTC_
 | 138 | Kara Braxton | 2,237 |
 | 138 | Matee Ajavon | 2,237 |
 | 140 | Dawn Staley | 2,228 |
-| 141 | **Azurá Stevens** 🔴 | 2,219 |
+| 141 | **Azurá Stevens** 🔴 +3 | 2,222 |
 | 142 | Janel McCarville | 2,215 |
 | 142 | Teaira McCowan | 2,215 |
 | 144 | Sami Whitcomb | 2,211 |
@@ -200,7 +200,7 @@ _Last updated: 2026-06-02 23:36 UTC_
 | 179 | Noelle Quinn | 1,824 |
 | 180 | Danielle Adams | 1,820 |
 | 181 | Charde Houston | 1,797 |
-| 182 | Rachel Banham | 1,788 |
+| 182 | **Rachel Banham** 🔴 | 1,788 |
 | 183 | Kamila Vodichkova | 1,767 |
 | 184 | Tully Bevilaqua | 1,763 |
 | 185 | Sandy Brondello | 1,759 |
@@ -376,7 +376,7 @@ _Last updated: 2026-06-02 23:36 UTC_
 | 150 | Temeka Johnson | 889 |
 | 151 | Mistie Bass | 888 |
 | 152 | Shameka Christon | 867 |
-| 153 | **Angel Reese** 🔴 +2 | 863 |
+| 153 | **Angel Reese** 🔴 +3 | 864 |
 | 154 | Krystal Thomas | 862 |
 | 155 | Erica Wheeler | 858 |
 | 156 | Alanna Smith | 847 |
@@ -436,8 +436,8 @@ _Last updated: 2026-06-02 23:36 UTC_
 | 5 | Lindsay Whalen | 2,347 |
 | 6 | Chelsea Gray | 1,903 |
 | 7 | Alyssa Thomas | 1,854 |
-| 8 | **Skylar Diggins** 🔴 | 1,785 |
-| 9 | **Natasha Cloud** 🔴 | 1,747 |
+| 8 | **Skylar Diggins** 🔴 +1 | 1,786 |
+| 9 | **Natasha Cloud** 🔴 +1 | 1,748 |
 | 10 | Becky Hammon | 1,705 |
 | 11 | Candace Parker | 1,634 |
 | 12 | Cappie Pondexter | 1,575 |
@@ -556,7 +556,7 @@ _Last updated: 2026-06-02 23:36 UTC_
 | 125 | Anna DeForge | 503 |
 | 125 | Coco Miller | 503 |
 | 127 | Veronica Burton | 501 |
-| 128 | Rachel Banham | 498 |
+| 128 | **Rachel Banham** 🔴 | 498 |
 | 129 | **Rhyne Howard** 🔴 | 490 |
 | 130 | Caitlin Clark | 488 |
 | 130 | Crystal Robinson | 488 |
@@ -1008,7 +1008,7 @@ _Last updated: 2026-06-02 23:36 UTC_
 | 165 | Shatori Walker-Kimbrough | 204 |
 | 168 | Adrienne Goodson | 203 |
 | 168 | Betnijah Laney-Hamilton | 203 |
-| 170 | **Azurá Stevens** 🔴 | 201 |
+| 170 | **Azurá Stevens** 🔴 +1 | 202 |
 | 171 | Allie Quigley | 198 |
 | 172 | Layshia Clarendon | 195 |
 | 173 | Sonja Henning | 194 |
@@ -1089,7 +1089,7 @@ _Last updated: 2026-06-02 23:36 UTC_
 | 42 | Courtney Vandersloot | 385 |
 | 43 | Briann January | 381 |
 | 44 | Jasmine Thomas | 376 |
-| 44 | Rachel Banham | 376 |
+| 44 | **Rachel Banham** 🔴 | 376 |
 | 46 | Allison Feaster | 372 |
 | 46 | Betty Lennox | 372 |
 | 48 | **Rhyne Howard** 🔴 +1 | 371 |
@@ -1136,9 +1136,9 @@ _Last updated: 2026-06-02 23:36 UTC_
 | 89 | Angel McCoughtry | 249 |
 | 90 | Erin Thorn | 243 |
 | 91 | Alex Bentley | 239 |
+| 91 | **Azurá Stevens** 🔴 +1 | 239 |
 | 91 | Cynthia Cooper | 239 |
-| 93 | **Azurá Stevens** 🔴 | 238 |
-| 93 | Nneka Ogwumike | 238 |
+| 94 | Nneka Ogwumike | 238 |
 | 95 | Brittney Sykes | 236 |
 | 96 | Svetlana Abrosimova | 235 |
 | 96 | Tangela Smith | 235 |
@@ -1272,7 +1272,7 @@ _Last updated: 2026-06-02 23:36 UTC_
 | 20 | Shannon Johnson | 934 |
 | 21 | Taj McWilliams-Franklin | 898 |
 | 22 | Chelsea Gray | 888 |
-| 23 | **Skylar Diggins** 🔴 +1 | 882 |
+| 23 | **Skylar Diggins** 🔴 | 881 |
 | 24 | Candice Dupree | 869 |
 | 25 | Alana Beard | 854 |
 | 26 | DeWanna Bonner | 830 |
@@ -1447,7 +1447,7 @@ _Last updated: 2026-06-02 23:36 UTC_
 | 195 | Kayla Thornton | 289 |
 | 196 | Alexis Hornbuckle | 288 |
 | 196 | Kristen Rasmussen | 288 |
-| 196 | Rachel Banham | 288 |
+| 196 | **Rachel Banham** 🔴 | 288 |
 | 199 | **Azurá Stevens** 🔴 +1 | 287 |
 | 200 | Damiris Dantas | 286 |
 
@@ -1527,7 +1527,7 @@ _Last updated: 2026-06-02 23:36 UTC_
 | 70 | Crystal Langhorne | 737 |
 | 71 | Shameka Christon | 734 |
 | 72 | Becky Hammon | 733 |
-| 73 | **Natasha Cloud** 🔴 +1 | 732 |
+| 72 | **Natasha Cloud** 🔴 +2 | 733 |
 | 74 | Latasha Byears | 730 |
 | 75 | Kahleah Copper | 723 |
 | 76 | Kristi Toliver | 722 |
@@ -1640,7 +1640,7 @@ _Last updated: 2026-06-02 23:36 UTC_
 | 183 | Liz Cambage | 483 |
 | 183 | Rhonda Mapp | 483 |
 | 185 | Sami Whitcomb | 480 |
-| 186 | Rachel Banham | 478 |
+| 186 | **Rachel Banham** 🔴 | 478 |
 | 187 | Seimone Augustus | 477 |
 | 188 | Allie Quigley | 475 |
 | 189 | Kia Nurse | 467 |
