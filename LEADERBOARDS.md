@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-02 02:28 UTC_
+_Last updated: 2026-06-02 02:30 UTC_
 
 ## Contents
 
@@ -73,8 +73,8 @@ _Last updated: 2026-06-02 02:28 UTC_
 | 52 | Yolanda Griffith | 4,224 |
 | 53 | **Kahleah Copper** 🔴 +5 | 4,159 |
 | 54 | Dearica Hamby | 4,158 |
-| 55 | **Courtney Williams** 🔴 +9 | 4,133 |
-| 55 | Rebekkah Brunson | 4,133 |
+| 55 | **Courtney Williams** 🔴 +12 | 4,136 |
+| 56 | Rebekkah Brunson | 4,133 |
 | 57 | Jonquel Jones | 4,132 |
 | 58 | Asjha Jones | 3,986 |
 | 59 | Deanna Nolan | 3,971 |
@@ -161,7 +161,7 @@ _Last updated: 2026-06-02 02:28 UTC_
 | 140 | Dawn Staley | 2,228 |
 | 141 | Azurá Stevens | 2,219 |
 | 142 | Janel McCarville | 2,215 |
-| 142 | Teaira McCowan | 2,215 |
+| 142 | **Teaira McCowan** 🔴 | 2,215 |
 | 144 | Sami Whitcomb | 2,211 |
 | 145 | Sophia Witherspoon | 2,210 |
 | 146 | Kia Nurse | 2,204 |
@@ -267,7 +267,7 @@ _Last updated: 2026-06-02 02:28 UTC_
 | 41 | **Courtney Williams** 🔴 +1 | 1,767 |
 | 42 | Kiah Stokes | 1,760 |
 | 43 | Asjha Jones | 1,751 |
-| 44 | Teaira McCowan | 1,670 |
+| 44 | **Teaira McCowan** 🔴 | 1,670 |
 | 45 | Stefanie Dolson | 1,669 |
 | 46 | Monique Currie | 1,666 |
 | 47 | Glory Johnson | 1,640 |
@@ -681,7 +681,7 @@ _Last updated: 2026-06-02 02:28 UTC_
 | 45 | Alanna Smith | 222 |
 | 46 | Sancho Lyttle | 221 |
 | 47 | Alana Beard | 220 |
-| 47 | Teaira McCowan | 220 |
+| 47 | **Teaira McCowan** 🔴 | 220 |
 | 49 | Janell Burse | 216 |
 | 49 | Sheryl Swoopes | 216 |
 | 51 | LaToya Sanders | 207 |
@@ -1128,7 +1128,7 @@ _Last updated: 2026-06-02 02:28 UTC_
 | 81 | Bridget Carleton | 272 |
 | 82 | Sheryl Swoopes | 270 |
 | 83 | Stefanie Dolson | 269 |
-| 84 | **Courtney Williams** 🔴 +1 | 261 |
+| 84 | **Courtney Williams** 🔴 +2 | 262 |
 | 85 | Sophia Witherspoon | 260 |
 | 86 | Dawn Staley | 254 |
 | 87 | Bria Hartley | 253 |
@@ -1275,9 +1275,9 @@ _Last updated: 2026-06-02 02:28 UTC_
 | 23 | Skylar Diggins | 881 |
 | 24 | Candice Dupree | 869 |
 | 25 | Alana Beard | 854 |
-| 26 | **DeWanna Bonner** 🔴 | 830 |
+| 26 | **DeWanna Bonner** 🔴 +1 | 831 |
 | 27 | Katie Douglas | 824 |
-| 28 | **Natasha Howard** 🔴 | 804 |
+| 28 | **Natasha Howard** 🔴 +1 | 805 |
 | 29 | Betty Lennox | 800 |
 | 30 | Jasmine Thomas | 796 |
 | 31 | Nneka Ogwumike | 791 |
@@ -1421,7 +1421,7 @@ _Last updated: 2026-06-02 02:28 UTC_
 | 169 | Loree Moore | 339 |
 | 170 | Charlotte Smith | 337 |
 | 171 | Scholanda Dorrell | 335 |
-| 172 | Teaira McCowan | 334 |
+| 172 | **Teaira McCowan** 🔴 | 334 |
 | 173 | Aerial Powers | 333 |
 | 173 | Diamond DeShields | 333 |
 | 175 | Charde Houston | 331 |
@@ -1566,7 +1566,7 @@ _Last updated: 2026-06-02 02:28 UTC_
 | 109 | Jennifer Gillom | 629 |
 | 110 | Deanna Nolan | 628 |
 | 111 | Brionna Jones | 625 |
-| 112 | Teaira McCowan | 618 |
+| 112 | **Teaira McCowan** 🔴 | 618 |
 | 113 | Courtney Paris | 617 |
 | 113 | Kiah Stokes | 617 |
 | 115 | Coco Miller | 615 |
