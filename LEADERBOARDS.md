@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-02 23:34 UTC_
+_Last updated: 2026-06-02 23:35 UTC_
 
 ## Contents
 
@@ -148,7 +148,7 @@ _Last updated: 2026-06-02 23:34 UTC_
 | 127 | Svetlana Abrosimova | 2,414 |
 | 128 | Anna DeForge | 2,413 |
 | 129 | DeMya Walker | 2,379 |
-| 130 | **Rhyne Howard** 🔴 +3 | 2,361 |
+| 130 | **Rhyne Howard** 🔴 +5 | 2,363 |
 | 131 | Alex Bentley | 2,350 |
 | 132 | Merlakia Jones | 2,308 |
 | 133 | Kia Vaughn | 2,288 |
@@ -315,7 +315,7 @@ _Last updated: 2026-06-02 23:34 UTC_
 | 89 | Janel McCarville | 1,261 |
 | 90 | Liz Cambage | 1,258 |
 | 91 | Ezi Magbegor | 1,243 |
-| 92 | **Azurá Stevens** 🔴 | 1,237 |
+| 92 | **Azurá Stevens** 🔴 +1 | 1,238 |
 | 93 | Tiffany Hayes | 1,233 |
 | 94 | Brianna Turner | 1,229 |
 | 95 | Seimone Augustus | 1,228 |
@@ -376,8 +376,8 @@ _Last updated: 2026-06-02 23:34 UTC_
 | 150 | Temeka Johnson | 889 |
 | 151 | Mistie Bass | 888 |
 | 152 | Shameka Christon | 867 |
+| 153 | **Angel Reese** 🔴 +1 | 862 |
 | 153 | Krystal Thomas | 862 |
-| 154 | **Angel Reese** 🔴 | 861 |
 | 155 | Erica Wheeler | 858 |
 | 156 | Alanna Smith | 847 |
 | 157 | Leilani Mitchell | 845 |
@@ -394,8 +394,8 @@ _Last updated: 2026-06-02 23:34 UTC_
 | 168 | Tierra Ruffin-Pratt | 799 |
 | 169 | Charlotte Smith | 794 |
 | 170 | Betnijah Laney-Hamilton | 792 |
-| 171 | **Naz Hillmon** 🔴 | 788 |
-| 171 | Rhonda Mapp | 788 |
+| 171 | **Naz Hillmon** 🔴 +1 | 789 |
+| 172 | Rhonda Mapp | 788 |
 | 173 | Mercedes Russell | 786 |
 | 174 | Odyssey Sims | 780 |
 | 174 | Sue Wicks | 780 |
@@ -1272,7 +1272,7 @@ _Last updated: 2026-06-02 23:34 UTC_
 | 20 | Shannon Johnson | 934 |
 | 21 | Taj McWilliams-Franklin | 898 |
 | 22 | Chelsea Gray | 888 |
-| 23 | **Skylar Diggins** 🔴 | 881 |
+| 23 | **Skylar Diggins** 🔴 +1 | 882 |
 | 24 | Candice Dupree | 869 |
 | 25 | Alana Beard | 854 |
 | 26 | DeWanna Bonner | 830 |
@@ -1448,8 +1448,8 @@ _Last updated: 2026-06-02 23:34 UTC_
 | 196 | Alexis Hornbuckle | 288 |
 | 196 | Kristen Rasmussen | 288 |
 | 196 | Rachel Banham | 288 |
-| 199 | **Azurá Stevens** 🔴 | 286 |
-| 199 | Damiris Dantas | 286 |
+| 199 | **Azurá Stevens** 🔴 +1 | 287 |
+| 200 | Damiris Dantas | 286 |
 
 ## Personal fouls
 
@@ -1527,7 +1527,7 @@ _Last updated: 2026-06-02 23:34 UTC_
 | 70 | Crystal Langhorne | 737 |
 | 71 | Shameka Christon | 734 |
 | 72 | Becky Hammon | 733 |
-| 73 | **Natasha Cloud** 🔴 | 731 |
+| 73 | **Natasha Cloud** 🔴 +1 | 732 |
 | 74 | Latasha Byears | 730 |
 | 75 | Kahleah Copper | 723 |
 | 76 | Kristi Toliver | 722 |
