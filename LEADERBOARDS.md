@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-02 00:15 UTC_
+_Last updated: 2026-06-02 00:16 UTC_
 
 ## Contents
 
@@ -204,7 +204,7 @@ _Last updated: 2026-06-02 00:15 UTC_
 | 183 | Kamila Vodichkova | 1,767 |
 | 184 | Tully Bevilaqua | 1,763 |
 | 185 | Sandy Brondello | 1,759 |
-| 186 | **Natisha Hiedeman** 🔴 | 1,751 |
+| 186 | **Natisha Hiedeman** 🔴 +2 | 1,753 |
 | 187 | Sugar Rodgers | 1,733 |
 | 188 | Moriah Jefferson | 1,722 |
 | 188 | NaLyssa Smith | 1,722 |
@@ -379,7 +379,7 @@ _Last updated: 2026-06-02 00:15 UTC_
 | 153 | Krystal Thomas | 862 |
 | 154 | Angel Reese | 861 |
 | 155 | Erica Wheeler | 858 |
-| 156 | Alanna Smith | 847 |
+| 156 | **Alanna Smith** 🔴 +1 | 848 |
 | 157 | Leilani Mitchell | 845 |
 | 158 | **Jessica Shepard** 🔴 +2 | 838 |
 | 159 | Essence Carson | 833 |
@@ -609,7 +609,7 @@ _Last updated: 2026-06-02 00:15 UTC_
 | 178 | Shenise Johnson | 376 |
 | 179 | Suzie McConnell Serio | 370 |
 | 180 | Damiris Dantas | 368 |
-| 181 | Alanna Smith | 365 |
+| 181 | **Alanna Smith** 🔴 | 365 |
 | 182 | Roneeka Hodges | 362 |
 | 183 | Andrea Nagy | 361 |
 | 183 | Diamond DeShields | 361 |
@@ -678,7 +678,7 @@ _Last updated: 2026-06-02 00:15 UTC_
 | 42 | Azurá Stevens | 230 |
 | 43 | Chasity Melvin | 228 |
 | 44 | Skylar Diggins | 225 |
-| 45 | Alanna Smith | 222 |
+| 45 | **Alanna Smith** 🔴 | 222 |
 | 46 | Sancho Lyttle | 221 |
 | 47 | Alana Beard | 220 |
 | 47 | Teaira McCowan | 220 |
@@ -1017,7 +1017,7 @@ _Last updated: 2026-06-02 00:15 UTC_
 | 176 | Tamicha Jackson | 188 |
 | 177 | Michele Timms | 187 |
 | 177 | **Natisha Hiedeman** 🔴 | 187 |
-| 179 | Alanna Smith | 186 |
+| 179 | **Alanna Smith** 🔴 | 186 |
 | 180 | Charde Houston | 185 |
 | 180 | Myisha Hines-Allen | 185 |
 | 180 | Tiffany Jackson | 185 |
@@ -1186,7 +1186,7 @@ _Last updated: 2026-06-02 00:15 UTC_
 | 139 | Natasha Howard | 157 |
 | 140 | Bridget Pettis | 153 |
 | 140 | Jennifer Gillom | 153 |
-| 142 | Alanna Smith | 152 |
+| 142 | **Alanna Smith** 🔴 | 152 |
 | 143 | Marine Johannès | 151 |
 | 144 | Rita Williams | 150 |
 | 145 | Moriah Jefferson | 149 |
@@ -1651,7 +1651,7 @@ _Last updated: 2026-06-02 00:15 UTC_
 | 194 | Sue Wicks | 462 |
 | 195 | Natalie Achonwa | 459 |
 | 196 | Kara Lawson | 457 |
-| 197 | Alanna Smith | 452 |
+| 197 | **Alanna Smith** 🔴 | 452 |
 | 198 | Alexis Hornbuckle | 450 |
 | 199 | Bria Hartley | 448 |
 | 200 | Diamond DeShields | 445 |
