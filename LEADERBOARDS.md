@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-02 03:51 UTC_
+_Last updated: 2026-06-02 03:52 UTC_
 
 ## Contents
 
@@ -1590,8 +1590,8 @@ _Last updated: 2026-06-02 03:51 UTC_
 | 133 | Ashley Robinson | 567 |
 | 134 | Ivory Latta | 565 |
 | 135 | Barbara Farris | 563 |
+| 136 | **Courtney Williams** 🔴 +2 | 562 |
 | 136 | Jessica Breland | 562 |
-| 137 | **Courtney Williams** 🔴 +1 | 561 |
 | 138 | Dawn Staley | 551 |
 | 139 | Glory Johnson | 550 |
 | 139 | Tierra Ruffin-Pratt | 550 |
