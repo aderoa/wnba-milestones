@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-02 02:24 UTC_
+_Last updated: 2026-06-02 02:25 UTC_
 
 ## Contents
 
@@ -72,7 +72,7 @@ _Last updated: 2026-06-02 02:24 UTC_
 | 51 | Vickie Johnson | 4,230 |
 | 52 | Yolanda Griffith | 4,224 |
 | 53 | Dearica Hamby | 4,158 |
-| 54 | **Kahleah Copper** 🔴 +3 | 4,157 |
+| 53 | **Kahleah Copper** 🔴 +4 | 4,158 |
 | 55 | Rebekkah Brunson | 4,133 |
 | 56 | Jonquel Jones | 4,132 |
 | 57 | **Courtney Williams** 🔴 +4 | 4,128 |
