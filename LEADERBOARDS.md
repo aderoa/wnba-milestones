@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-02 03:45 UTC_
+_Last updated: 2026-06-02 03:46 UTC_
 
 ## Contents
 
@@ -267,7 +267,7 @@ _Last updated: 2026-06-02 03:45 UTC_
 | 41 | **Courtney Williams** 🔴 +4 | 1,770 |
 | 42 | Kiah Stokes | 1,760 |
 | 43 | Asjha Jones | 1,751 |
-| 44 | **Teaira McCowan** 🔴 +3 | 1,673 |
+| 44 | **Teaira McCowan** 🔴 +4 | 1,674 |
 | 45 | Stefanie Dolson | 1,669 |
 | 46 | Monique Currie | 1,666 |
 | 47 | Glory Johnson | 1,640 |
@@ -1420,8 +1420,8 @@ _Last updated: 2026-06-02 03:45 UTC_
 | 168 | Brionna Jones | 346 |
 | 169 | Loree Moore | 339 |
 | 170 | Charlotte Smith | 337 |
-| 171 | Scholanda Dorrell | 335 |
-| 171 | **Teaira McCowan** 🔴 +1 | 335 |
+| 171 | **Teaira McCowan** 🔴 +2 | 336 |
+| 172 | Scholanda Dorrell | 335 |
 | 173 | Aerial Powers | 333 |
 | 173 | Diamond DeShields | 333 |
 | 175 | Charde Houston | 331 |
@@ -1566,7 +1566,7 @@ _Last updated: 2026-06-02 03:45 UTC_
 | 109 | Jennifer Gillom | 629 |
 | 110 | Deanna Nolan | 628 |
 | 111 | Brionna Jones | 625 |
-| 112 | **Teaira McCowan** 🔴 +3 | 621 |
+| 112 | **Teaira McCowan** 🔴 +4 | 622 |
 | 113 | Courtney Paris | 617 |
 | 113 | Kiah Stokes | 617 |
 | 115 | Coco Miller | 615 |
