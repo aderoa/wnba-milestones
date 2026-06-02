@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-02 01:46 UTC_
+_Last updated: 2026-06-02 01:47 UTC_
 
 ## Contents
 
@@ -122,7 +122,7 @@ _Last updated: 2026-06-02 01:46 UTC_
 | 100 | Natasha Cloud | 2,888 |
 | 102 | Iziane Castro Marques | 2,862 |
 | 103 | Elizabeth Williams | 2,856 |
-| 104 | **Alysha Clark** 🔴 +3 | 2,795 |
+| 104 | **Alysha Clark** 🔴 +4 | 2,796 |
 | 105 | Jantel Lavender | 2,775 |
 | 106 | Brionna Jones | 2,765 |
 | 107 | Dominique Canty | 2,763 |
@@ -608,8 +608,8 @@ _Last updated: 2026-06-02 01:46 UTC_
 | 177 | Jessica Breland | 377 |
 | 178 | Shenise Johnson | 376 |
 | 179 | Suzie McConnell Serio | 370 |
+| 180 | **Alanna Smith** 🔴 +3 | 368 |
 | 180 | Damiris Dantas | 368 |
-| 181 | **Alanna Smith** 🔴 +2 | 367 |
 | 182 | Roneeka Hodges | 362 |
 | 183 | Andrea Nagy | 361 |
 | 183 | Diamond DeShields | 361 |
@@ -1327,7 +1327,7 @@ _Last updated: 2026-06-02 01:46 UTC_
 | 74 | Tamika Whitmore | 600 |
 | 76 | Kelly Miller | 596 |
 | 77 | Kahleah Copper | 590 |
-| 78 | **Stefanie Dolson** 🔴 | 581 |
+| 78 | **Stefanie Dolson** 🔴 +1 | 582 |
 | 79 | Helen Darling | 575 |
 | 79 | Nykesha Sales | 575 |
 | 81 | Andrea Stinson | 571 |
@@ -1475,7 +1475,7 @@ _Last updated: 2026-06-02 01:46 UTC_
 | 18 | Tanisha Wright | 1,109 |
 | 19 | Michelle Snow | 1,108 |
 | 20 | Natasha Howard | 1,105 |
-| 21 | **Stefanie Dolson** 🔴 +3 | 1,098 |
+| 21 | **Stefanie Dolson** 🔴 +4 | 1,099 |
 | 22 | Sylvia Fowles | 1,049 |
 | 23 | Tina Charles | 1,037 |
 | 24 | Lindsay Whalen | 998 |
