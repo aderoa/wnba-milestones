@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-02 02:23 UTC_
+_Last updated: 2026-06-02 02:24 UTC_
 
 ## Contents
 
@@ -56,7 +56,7 @@ _Last updated: 2026-06-02 02:23 UTC_
 | 35 | Chamique Holdsclaw | 4,713 |
 | 36 | Elena Delle Donne | 4,706 |
 | 37 | Penny Taylor | 4,595 |
-| 38 | **Alyssa Thomas** 🔴 | 4,554 |
+| 38 | **Alyssa Thomas** 🔴 +4 | 4,558 |
 | 39 | Arike Ogunbowale | 4,521 |
 | 40 | Kristi Toliver | 4,474 |
 | 41 | Chelsea Gray | 4,469 |
@@ -327,8 +327,8 @@ _Last updated: 2026-06-02 02:23 UTC_
 | 101 | Latasha Byears | 1,190 |
 | 101 | Tanisha Wright | 1,190 |
 | 103 | Vicky Bullett | 1,189 |
+| 104 | **Kahleah Copper** 🔴 +1 | 1,148 |
 | 104 | Nykesha Sales | 1,148 |
-| 105 | **Kahleah Copper** 🔴 | 1,147 |
 | 106 | Shannon Johnson | 1,143 |
 | 107 | Adrian Williams-Strong | 1,131 |
 | 108 | Andrea Stinson | 1,127 |
@@ -562,7 +562,7 @@ _Last updated: 2026-06-02 02:23 UTC_
 | 130 | Crystal Robinson | 488 |
 | 130 | Tiffany Mitchell | 488 |
 | 133 | Rebekkah Brunson | 486 |
-| 134 | **Kahleah Copper** 🔴 | 472 |
+| 134 | **Kahleah Copper** 🔴 +1 | 473 |
 | 135 | Ukari Figgs | 470 |
 | 136 | Janeth Arcain | 469 |
 | 137 | Erin Phillips | 462 |
@@ -1263,7 +1263,7 @@ _Last updated: 2026-06-02 02:23 UTC_
 | 11 | Tamika Catchings | 1,041 |
 | 12 | Tina Charles | 1,040 |
 | 13 | Lindsay Whalen | 1,002 |
-| 14 | **Alyssa Thomas** 🔴 | 980 |
+| 14 | **Alyssa Thomas** 🔴 +1 | 981 |
 | 15 | Sylvia Fowles | 961 |
 | 16 | Tanisha Wright | 954 |
 | 17 | Angel McCoughtry | 949 |
@@ -1277,7 +1277,7 @@ _Last updated: 2026-06-02 02:23 UTC_
 | 25 | Alana Beard | 854 |
 | 26 | DeWanna Bonner | 830 |
 | 27 | Katie Douglas | 824 |
-| 28 | **Natasha Howard** 🔴 +1 | 805 |
+| 28 | **Natasha Howard** 🔴 | 804 |
 | 29 | Betty Lennox | 800 |
 | 30 | Jasmine Thomas | 796 |
 | 31 | Nneka Ogwumike | 791 |
@@ -1326,7 +1326,7 @@ _Last updated: 2026-06-02 02:23 UTC_
 | 74 | Lindsey Harding | 600 |
 | 74 | Tamika Whitmore | 600 |
 | 76 | Kelly Miller | 596 |
-| 77 | **Kahleah Copper** 🔴 +2 | 592 |
+| 77 | **Kahleah Copper** 🔴 +1 | 591 |
 | 78 | Stefanie Dolson | 582 |
 | 79 | Helen Darling | 575 |
 | 79 | Nykesha Sales | 575 |
@@ -1610,7 +1610,7 @@ _Last updated: 2026-06-02 02:23 UTC_
 | 153 | Sheryl Swoopes | 519 |
 | 154 | Nikki McCray | 517 |
 | 155 | Alex Bentley | 516 |
-| 156 | **Kayla McBride** 🔴 | 515 |
+| 155 | **Kayla McBride** 🔴 +1 | 516 |
 | 157 | Jackie Young | 514 |
 | 158 | Jantel Lavender | 513 |
 | 159 | Adrienne Goodson | 512 |
