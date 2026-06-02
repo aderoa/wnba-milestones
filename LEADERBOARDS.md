@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-02 23:49 UTC_
+_Last updated: 2026-06-02 23:50 UTC_
 
 ## Contents
 
@@ -42,7 +42,7 @@ _Last updated: 2026-06-02 23:49 UTC_
 | 21 | Angel McCoughtry | 5,797 |
 | 22 | DeLisha Milton-Jones | 5,571 |
 | 23 | Katie Douglas | 5,545 |
-| 24 | **Skylar Diggins** 🔴 +2 | 5,527 |
+| 24 | **Skylar Diggins** 🔴 +3 | 5,528 |
 | 25 | Lindsay Whalen | 5,511 |
 | 26 | Kayla McBride | 5,454 |
 | 27 | Swin Cash | 5,119 |
@@ -68,7 +68,7 @@ _Last updated: 2026-06-02 23:49 UTC_
 | 47 | Sophia Young-Malcolm | 4,300 |
 | 48 | Plenette Pierson | 4,258 |
 | 49 | Monique Currie | 4,253 |
-| 50 | **Allisha Gray** 🔴 +3 | 4,235 |
+| 50 | **Allisha Gray** 🔴 +6 | 4,238 |
 | 51 | Vickie Johnson | 4,230 |
 | 52 | Yolanda Griffith | 4,224 |
 | 53 | Dearica Hamby | 4,158 |
@@ -121,7 +121,7 @@ _Last updated: 2026-06-02 23:49 UTC_
 | 100 | Jennifer Gillom | 2,888 |
 | 100 | **Natasha Cloud** 🔴 | 2,888 |
 | 102 | Iziane Castro Marques | 2,862 |
-| 103 | Elizabeth Williams | 2,856 |
+| 103 | **Elizabeth Williams** 🔴 | 2,856 |
 | 104 | Alysha Clark | 2,792 |
 | 105 | Jantel Lavender | 2,775 |
 | 106 | Brionna Jones | 2,765 |
@@ -256,7 +256,7 @@ _Last updated: 2026-06-02 23:49 UTC_
 | 30 | Chamique Holdsclaw | 2,123 |
 | 31 | Chasity Melvin | 2,097 |
 | 32 | Tammy Sutton-Brown | 2,010 |
-| 33 | Elizabeth Williams | 1,923 |
+| 33 | **Elizabeth Williams** 🔴 | 1,923 |
 | 34 | Cheryl Ford | 1,907 |
 | 35 | Plenette Pierson | 1,834 |
 | 36 | Natalie Williams | 1,832 |
@@ -567,7 +567,7 @@ _Last updated: 2026-06-02 23:49 UTC_
 | 136 | Janeth Arcain | 469 |
 | 137 | Erin Phillips | 462 |
 | 138 | Sylvia Fowles | 461 |
-| 139 | Elizabeth Williams | 455 |
+| 139 | **Elizabeth Williams** 🔴 | 455 |
 | 140 | Sydney Colson | 454 |
 | 141 | Satou Sabally | 451 |
 | 141 | Yolanda Griffith | 451 |
@@ -644,7 +644,7 @@ _Last updated: 2026-06-02 23:49 UTC_
 | 8 | Tangela Smith | 554 |
 | 9 | A'ja Wilson | 543 |
 | 10 | Ruth Riley | 505 |
-| 11 | Elizabeth Williams | 486 |
+| 11 | **Elizabeth Williams** 🔴 | 486 |
 | 12 | Taj McWilliams-Franklin | 443 |
 | 13 | Breanna Stewart | 433 |
 | 14 | Tina Charles | 428 |
@@ -940,7 +940,7 @@ _Last updated: 2026-06-02 23:49 UTC_
 | 99 | Janel McCarville | 294 |
 | 100 | Kelly Miller | 290 |
 | 101 | Glory Johnson | 289 |
-| 102 | Elizabeth Williams | 285 |
+| 102 | **Elizabeth Williams** 🔴 | 285 |
 | 102 | Essence Carson | 285 |
 | 104 | Seimone Augustus | 280 |
 | 105 | Tari Phillips | 277 |
@@ -1076,7 +1076,7 @@ _Last updated: 2026-06-02 23:49 UTC_
 | 29 | Ariel Atkins | 440 |
 | 30 | Lauren Jackson | 436 |
 | 31 | Shameka Christon | 434 |
-| 32 | **Allisha Gray** 🔴 | 432 |
+| 32 | **Allisha Gray** 🔴 +1 | 433 |
 | 33 | **Skylar Diggins** 🔴 | 428 |
 | 34 | Crystal Robinson | 425 |
 | 35 | Chelsea Gray | 423 |
@@ -1403,7 +1403,7 @@ _Last updated: 2026-06-02 23:49 UTC_
 | 151 | Sophia Witherspoon | 386 |
 | 152 | Hamchetou Maiga-Ba | 385 |
 | 153 | Kamila Vodichkova | 381 |
-| 154 | Elizabeth Williams | 380 |
+| 154 | **Elizabeth Williams** 🔴 | 380 |
 | 155 | Jessica Breland | 378 |
 | 156 | Armintie Herrington | 377 |
 | 157 | Anna DeForge | 374 |
@@ -1533,7 +1533,7 @@ _Last updated: 2026-06-02 23:49 UTC_
 | 76 | Kristi Toliver | 722 |
 | 77 | **Allisha Gray** 🔴 +1 | 715 |
 | 78 | Cheryl Ford | 713 |
-| 78 | Elizabeth Williams | 713 |
+| 78 | **Elizabeth Williams** 🔴 | 713 |
 | 80 | Jia Perkins | 711 |
 | 81 | Helen Darling | 709 |
 | 82 | Matee Ajavon | 701 |
