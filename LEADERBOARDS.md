@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-02 02:17 UTC_
+_Last updated: 2026-06-02 02:18 UTC_
 
 ## Contents
 
@@ -62,7 +62,7 @@ _Last updated: 2026-06-02 02:17 UTC_
 | 41 | Chelsea Gray | 4,469 |
 | 42 | Crystal Langhorne | 4,433 |
 | 42 | Jia Perkins | 4,433 |
-| 44 | **Natasha Howard** 🔴 | 4,430 |
+| 44 | **Natasha Howard** 🔴 +2 | 4,432 |
 | 45 | Courtney Vandersloot | 4,352 |
 | 46 | Kelsey Plum | 4,314 |
 | 47 | Sophia Young-Malcolm | 4,300 |
@@ -72,7 +72,7 @@ _Last updated: 2026-06-02 02:17 UTC_
 | 51 | Vickie Johnson | 4,230 |
 | 52 | Yolanda Griffith | 4,224 |
 | 53 | Dearica Hamby | 4,158 |
-| 54 | **Kahleah Copper** 🔴 | 4,154 |
+| 54 | **Kahleah Copper** 🔴 +3 | 4,157 |
 | 55 | Rebekkah Brunson | 4,133 |
 | 56 | Jonquel Jones | 4,132 |
 | 57 | **Courtney Williams** 🔴 +2 | 4,126 |
@@ -445,8 +445,8 @@ _Last updated: 2026-06-02 02:17 UTC_
 | 14 | Danielle Robinson | 1,480 |
 | 15 | Shannon Johnson | 1,423 |
 | 15 | Tanisha Wright | 1,423 |
-| 17 | **Courtney Williams** 🔴 | 1,382 |
-| 17 | Temeka Johnson | 1,382 |
+| 17 | **Courtney Williams** 🔴 +1 | 1,383 |
+| 18 | Temeka Johnson | 1,382 |
 | 19 | Jasmine Thomas | 1,355 |
 | 20 | Briann January | 1,339 |
 | 21 | Dawn Staley | 1,337 |
@@ -1097,7 +1097,7 @@ _Last updated: 2026-06-02 02:17 UTC_
 | 50 | Jonquel Jones | 361 |
 | 51 | Kia Nurse | 358 |
 | 52 | Nykesha Sales | 352 |
-| 53 | **Kahleah Copper** 🔴 | 345 |
+| 53 | **Kahleah Copper** 🔴 +1 | 346 |
 | 54 | Cathrine Kraayeveld | 343 |
 | 54 | Elena Delle Donne | 343 |
 | 56 | Candace Parker | 342 |
