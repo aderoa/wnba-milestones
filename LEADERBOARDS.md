@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-02 23:37 UTC_
+_Last updated: 2026-06-02 23:38 UTC_
 
 ## Contents
 
@@ -418,7 +418,7 @@ _Last updated: 2026-06-02 23:37 UTC_
 | 192 | Sami Whitcomb | 726 |
 | 192 | Shekinna Stricklen | 726 |
 | 194 | Kelsey Plum | 721 |
-| 195 | **Shakira Austin** 🔴 | 719 |
+| 195 | **Shakira Austin** 🔴 +1 | 720 |
 | 196 | Olympia Scott | 711 |
 | 197 | Katie Mattera | 708 |
 | 198 | Rushia Brown | 706 |
@@ -750,8 +750,8 @@ _Last updated: 2026-06-02 23:37 UTC_
 | 114 | Erin Perperoglou | 108 |
 | 114 | Glory Johnson | 108 |
 | 114 | Natasha Mack | 108 |
-| 117 | **Shakira Austin** 🔴 | 106 |
-| 117 | Sylvia Crawley | 106 |
+| 117 | **Shakira Austin** 🔴 +1 | 107 |
+| 118 | Sylvia Crawley | 106 |
 | 119 | Carolyn Swords | 104 |
 | 119 | Rebecca Lobo | 104 |
 | 121 | Courtney Williams | 103 |
@@ -1645,9 +1645,9 @@ _Last updated: 2026-06-02 23:37 UTC_
 | 188 | Allie Quigley | 475 |
 | 189 | Kia Nurse | 467 |
 | 190 | Nia Coffey | 465 |
-| 191 | **Azurá Stevens** 🔴 | 463 |
-| 191 | Christi Thomas | 463 |
-| 191 | Nikki Teasley | 463 |
+| 191 | **Azurá Stevens** 🔴 +1 | 464 |
+| 192 | Christi Thomas | 463 |
+| 192 | Nikki Teasley | 463 |
 | 194 | Sue Wicks | 462 |
 | 195 | Natalie Achonwa | 459 |
 | 196 | Kara Lawson | 457 |
