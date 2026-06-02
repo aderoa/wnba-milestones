@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-02 02:09 UTC
+
+- **Karlie Samuelson** passed **Brooke Wyckoff** and **Jenna O'Hea** for **#162** all-time in three-pointers (career 133) — up from #164 entering today — _Final — SEA @ DAL_
+
 ## 2026-06-02 01:52 UTC
 
 - **Alysha Clark** passed **Courtney Williams** and **Debbie Black** for **#91** all-time in steals (career 316) — _4:50 - 4th — SEA @ DAL_

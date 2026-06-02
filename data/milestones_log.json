@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-06-02T02:09:00+00:00",
+    "text": "Karlie Samuelson passed Brooke Wyckoff and Jenna O'Hea for #162 all-time in three-pointers (career 133) \u2014 up from #164 entering today \u2014 (Final \u2014 SEA @ DAL)",
+    "kind": "rank_pass",
+    "player": "Karlie Samuelson",
+    "stat": "three-pointers",
+    "rank": 162,
+    "passed_players": [
+      "Brooke Wyckoff",
+      "Jenna O'Hea"
+    ],
+    "new_total": 133
+  },
+  {
     "ts": "2026-06-02T01:52:00+00:00",
     "text": "Alysha Clark passed Courtney Williams and Debbie Black for #91 all-time in steals (career 316) \u2014 (4:50 - 4th \u2014 SEA @ DAL)",
     "kind": "rank_pass",
@@ -2976,17 +2989,5 @@
     "stat": "fouls",
     "value": 100,
     "new_total": 100
-  },
-  {
-    "ts": "2026-05-18T14:28:00+00:00",
-    "text": "Stephanie Talbot passed Dana Evans for #175 all-time in assists (career 381) \u2014 up from #176 entering today \u2014 (Final \u2014 LV @ ATL)",
-    "kind": "rank_pass",
-    "player": "Stephanie Talbot",
-    "stat": "assists",
-    "rank": 175,
-    "passed_players": [
-      "Dana Evans"
-    ],
-    "new_total": 381
   }
 ]
