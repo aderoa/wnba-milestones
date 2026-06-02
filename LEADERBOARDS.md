@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-02 02:42 UTC_
+_Last updated: 2026-06-02 02:43 UTC_
 
 ## Contents
 
@@ -1566,7 +1566,7 @@ _Last updated: 2026-06-02 02:42 UTC_
 | 109 | Jennifer Gillom | 629 |
 | 110 | Deanna Nolan | 628 |
 | 111 | Brionna Jones | 625 |
-| 112 | **Teaira McCowan** 🔴 +1 | 619 |
+| 112 | **Teaira McCowan** 🔴 +2 | 620 |
 | 113 | Courtney Paris | 617 |
 | 113 | Kiah Stokes | 617 |
 | 115 | Coco Miller | 615 |
