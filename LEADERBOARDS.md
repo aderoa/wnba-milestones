@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-02 02:01 UTC_
+_Last updated: 2026-06-02 02:02 UTC_
 
 ## Contents
 
@@ -288,7 +288,7 @@ _Last updated: 2026-06-02 02:01 UTC_
 | 62 | Napheesa Collier | 1,510 |
 | 63 | Ticha Penicheiro | 1,485 |
 | 64 | Sue Bird | 1,466 |
-| 65 | **Alysha Clark** 🔴 +4 | 1,463 |
+| 65 | **Alysha Clark** 🔴 +5 | 1,464 |
 | 66 | Nicole Powell | 1,457 |
 | 67 | Cheyenne Parker-Tyus | 1,436 |
 | 68 | Tamera Young | 1,433 |
@@ -379,7 +379,7 @@ _Last updated: 2026-06-02 02:01 UTC_
 | 153 | Krystal Thomas | 862 |
 | 154 | Angel Reese | 861 |
 | 155 | Erica Wheeler | 858 |
-| 156 | **Alanna Smith** 🔴 +3 | 850 |
+| 156 | **Alanna Smith** 🔴 +4 | 851 |
 | 157 | Leilani Mitchell | 845 |
 | 158 | **Jessica Shepard** 🔴 +8 | 844 |
 | 159 | Essence Carson | 833 |
@@ -926,9 +926,9 @@ _Last updated: 2026-06-02 02:01 UTC_
 | 85 | Napheesa Collier | 325 |
 | 86 | Betty Lennox | 323 |
 | 87 | Tammy Sutton-Brown | 319 |
-| 88 | **Alysha Clark** 🔴 +2 | 317 |
 | 88 | Plenette Pierson | 317 |
 | 88 | Temeka Johnson | 317 |
+| 90 | **Alysha Clark** 🔴 +1 | 316 |
 | 91 | Courtney Williams | 315 |
 | 91 | Debbie Black | 315 |
 | 93 | Crystal Langhorne | 314 |
