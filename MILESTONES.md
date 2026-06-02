@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-02 02:32 UTC
+
+- **Teaira McCowan** passed **Janel McCarville** for **#142** all-time in points (career 2,217) — up from #143 entering today — _29.0 - 1st — MIN @ PHX_
+
 ## 2026-06-02 02:09 UTC
 
 - **Karlie Samuelson** passed **Brooke Wyckoff** and **Jenna O'Hea** for **#162** all-time in three-pointers (career 133) — up from #164 entering today — _Final — SEA @ DAL_

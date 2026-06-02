@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-02T02:32:00+00:00",
+    "text": "Teaira McCowan passed Janel McCarville for #142 all-time in points (career 2,217) \u2014 up from #143 entering today \u2014 (29.0 - 1st \u2014 MIN @ PHX)",
+    "kind": "rank_pass",
+    "player": "Teaira McCowan",
+    "stat": "points",
+    "rank": 142,
+    "passed_players": [
+      "Janel McCarville"
+    ],
+    "new_total": 2217
+  },
+  {
     "ts": "2026-06-02T02:09:00+00:00",
     "text": "Karlie Samuelson passed Brooke Wyckoff and Jenna O'Hea for #162 all-time in three-pointers (career 133) \u2014 up from #164 entering today \u2014 (Final \u2014 SEA @ DAL)",
     "kind": "rank_pass",
@@ -2978,15 +2990,6 @@
     "kind": "round",
     "player": "Sonia Citron",
     "stat": "turnovers",
-    "value": 100,
-    "new_total": 100
-  },
-  {
-    "ts": "2026-05-19T00:18:00+00:00",
-    "text": "Sonia Citron reached 100 career fouls (now 100) \u2014 (6:22 - 1st \u2014 WSH @ DAL)",
-    "kind": "round",
-    "player": "Sonia Citron",
-    "stat": "fouls",
     "value": 100,
     "new_total": 100
   }

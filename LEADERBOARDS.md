@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-02 02:31 UTC_
+_Last updated: 2026-06-02 02:32 UTC_
 
 ## Contents
 
@@ -160,8 +160,8 @@ _Last updated: 2026-06-02 02:31 UTC_
 | 138 | Matee Ajavon | 2,237 |
 | 140 | Dawn Staley | 2,228 |
 | 141 | Azurá Stevens | 2,219 |
-| 142 | Janel McCarville | 2,215 |
-| 142 | **Teaira McCowan** 🔴 | 2,215 |
+| 142 | **Teaira McCowan** 🔴 +2 | 2,217 |
+| 143 | Janel McCarville | 2,215 |
 | 144 | Sami Whitcomb | 2,211 |
 | 145 | Sophia Witherspoon | 2,210 |
 | 146 | Kia Nurse | 2,204 |
@@ -235,7 +235,7 @@ _Last updated: 2026-06-02 02:31 UTC_
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
-| 12 | **Alyssa Thomas** 🔴 +2 | 2,772 |
+| 12 | **Alyssa Thomas** 🔴 +3 | 2,773 |
 | 13 | Jonquel Jones | 2,599 |
 | 14 | Sancho Lyttle | 2,596 |
 | 15 | DeLisha Milton-Jones | 2,574 |
@@ -1275,7 +1275,7 @@ _Last updated: 2026-06-02 02:31 UTC_
 | 23 | Skylar Diggins | 881 |
 | 24 | Candice Dupree | 869 |
 | 25 | Alana Beard | 854 |
-| 26 | **DeWanna Bonner** 🔴 +1 | 831 |
+| 26 | **DeWanna Bonner** 🔴 +2 | 832 |
 | 27 | Katie Douglas | 824 |
 | 28 | **Natasha Howard** 🔴 +1 | 805 |
 | 29 | Betty Lennox | 800 |
@@ -1490,8 +1490,8 @@ _Last updated: 2026-06-02 02:31 UTC_
 | 33 | Sancho Lyttle | 947 |
 | 34 | Mwadi Mabika | 941 |
 | 35 | Tamika Whitmore | 940 |
+| 36 | **Alyssa Thomas** 🔴 +1 | 938 |
 | 36 | Courtney Vandersloot | 938 |
-| 37 | **Alyssa Thomas** 🔴 | 937 |
 | 38 | Briann January | 921 |
 | 39 | Ticha Penicheiro | 913 |
 | 40 | Shavonte Zellous | 907 |
