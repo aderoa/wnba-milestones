@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-02 23:43 UTC_
+_Last updated: 2026-06-02 23:44 UTC_
 
 ## Contents
 
@@ -239,7 +239,7 @@ _Last updated: 2026-06-02 23:43 UTC_
 | 13 | Jonquel Jones | 2,599 |
 | 14 | Sancho Lyttle | 2,596 |
 | 15 | DeLisha Milton-Jones | 2,574 |
-| 16 | **Brittney Griner** 🔴 | 2,537 |
+| 16 | **Brittney Griner** 🔴 +1 | 2,538 |
 | 17 | A'ja Wilson | 2,522 |
 | 18 | Swin Cash | 2,521 |
 | 19 | Breanna Stewart | 2,510 |
@@ -394,7 +394,7 @@ _Last updated: 2026-06-02 23:43 UTC_
 | 168 | Tierra Ruffin-Pratt | 799 |
 | 169 | Charlotte Smith | 794 |
 | 170 | Betnijah Laney-Hamilton | 792 |
-| 171 | **Naz Hillmon** 🔴 +1 | 789 |
+| 171 | **Naz Hillmon** 🔴 +2 | 790 |
 | 172 | Rhonda Mapp | 788 |
 | 173 | Mercedes Russell | 786 |
 | 174 | Odyssey Sims | 780 |
@@ -1232,7 +1232,7 @@ _Last updated: 2026-06-02 23:43 UTC_
 | 183 | Sandy Brondello | 114 |
 | 186 | Lexie Hull | 111 |
 | 186 | Shoni Schimmel | 111 |
-| 188 | Kennedy Burke | 110 |
+| 188 | **Kennedy Burke** 🔴 | 110 |
 | 189 | Emma Meesseman | 109 |
 | 189 | Scholanda Dorrell | 109 |
 | 191 | Belinda Snell | 108 |
