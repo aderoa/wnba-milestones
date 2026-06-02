@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-02 00:39 UTC_
+_Last updated: 2026-06-02 00:40 UTC_
 
 ## Contents
 
@@ -288,7 +288,7 @@ _Last updated: 2026-06-02 00:39 UTC_
 | 62 | Napheesa Collier | 1,510 |
 | 63 | Ticha Penicheiro | 1,485 |
 | 64 | Sue Bird | 1,466 |
-| 65 | **Alysha Clark** 🔴 | 1,459 |
+| 65 | **Alysha Clark** 🔴 +2 | 1,461 |
 | 66 | Nicole Powell | 1,457 |
 | 67 | Cheyenne Parker-Tyus | 1,436 |
 | 68 | Tamera Young | 1,433 |
@@ -525,11 +525,11 @@ _Last updated: 2026-06-02 00:39 UTC_
 | 94 | Brittney Griner | 635 |
 | 95 | A'ja Wilson | 625 |
 | 96 | Sami Whitcomb | 623 |
-| 97 | **Alysha Clark** 🔴 | 614 |
+| 97 | **Alysha Clark** 🔴 +1 | 615 |
 | 98 | Debbie Black | 612 |
 | 99 | Jonquel Jones | 608 |
 | 100 | Cynthia Cooper | 602 |
-| 101 | **Natisha Hiedeman** 🔴 +1 | 595 |
+| 101 | **Natisha Hiedeman** 🔴 +2 | 596 |
 | 102 | Sancho Lyttle | 592 |
 | 103 | Camille Smith | 590 |
 | 104 | Armintie Herrington | 589 |
