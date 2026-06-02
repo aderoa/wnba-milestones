@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-02 23:33 UTC_
+_Last updated: 2026-06-02 23:34 UTC_
 
 ## Contents
 
@@ -36,7 +36,7 @@ _Last updated: 2026-06-02 23:33 UTC_
 | 15 | Jewell Loyd | 6,059 |
 | 16 | Lauren Jackson | 6,005 |
 | 16 | Seimone Augustus | 6,005 |
-| 18 | **Brittney Griner** 🔴 | 5,983 |
+| 18 | **Brittney Griner** 🔴 +2 | 5,985 |
 | 19 | A'ja Wilson | 5,844 |
 | 20 | Becky Hammon | 5,816 |
 | 21 | Angel McCoughtry | 5,797 |
@@ -148,7 +148,7 @@ _Last updated: 2026-06-02 23:33 UTC_
 | 127 | Svetlana Abrosimova | 2,414 |
 | 128 | Anna DeForge | 2,413 |
 | 129 | DeMya Walker | 2,379 |
-| 130 | **Rhyne Howard** 🔴 | 2,358 |
+| 130 | **Rhyne Howard** 🔴 +3 | 2,361 |
 | 131 | Alex Bentley | 2,350 |
 | 132 | Merlakia Jones | 2,308 |
 | 133 | Kia Vaughn | 2,288 |
@@ -362,7 +362,7 @@ _Last updated: 2026-06-02 23:33 UTC_
 | 136 | Danielle Robinson | 988 |
 | 137 | Shavonte Zellous | 978 |
 | 138 | Kara Lawson | 976 |
-| 139 | **Skylar Diggins** 🔴 | 973 |
+| 139 | **Skylar Diggins** 🔴 +1 | 974 |
 | 140 | Jennifer Gillom | 964 |
 | 141 | Dominique Canty | 961 |
 | 142 | Armintie Herrington | 960 |
@@ -459,7 +459,7 @@ _Last updated: 2026-06-02 23:33 UTC_
 | 28 | Vickie Johnson | 1,202 |
 | 29 | Leilani Mitchell | 1,197 |
 | 30 | DeWanna Bonner | 1,183 |
-| 31 | **Jordin Canada** 🔴 | 1,155 |
+| 31 | **Jordin Canada** 🔴 +1 | 1,156 |
 | 32 | Jewell Loyd | 1,141 |
 | 33 | Renee Montgomery | 1,140 |
 | 34 | Swin Cash | 1,131 |
@@ -1092,7 +1092,7 @@ _Last updated: 2026-06-02 23:33 UTC_
 | 44 | Rachel Banham | 376 |
 | 46 | Allison Feaster | 372 |
 | 46 | Betty Lennox | 372 |
-| 48 | **Rhyne Howard** 🔴 | 370 |
+| 48 | **Rhyne Howard** 🔴 +1 | 371 |
 | 49 | Epiphanny Prince | 368 |
 | 50 | Jonquel Jones | 361 |
 | 51 | Kia Nurse | 358 |
