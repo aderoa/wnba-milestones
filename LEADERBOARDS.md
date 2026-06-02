@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-02 03:23 UTC_
+_Last updated: 2026-06-02 03:24 UTC_
 
 ## Contents
 
@@ -474,7 +474,7 @@ _Last updated: 2026-06-02 03:23 UTC_
 | 43 | Tina Charles | 1,033 |
 | 44 | Nikki Teasley | 982 |
 | 45 | Tamecka Dixon | 960 |
-| 46 | **Kayla McBride** 🔴 +4 | 956 |
+| 46 | **Kayla McBride** 🔴 +5 | 957 |
 | 47 | Kara Lawson | 946 |
 | 48 | Breanna Stewart | 938 |
 | 49 | Deanna Nolan | 930 |
