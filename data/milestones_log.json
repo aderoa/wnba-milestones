@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-06-02T01:52:00+00:00",
+    "text": "Alysha Clark passed Courtney Williams and Debbie Black for #91 all-time in steals (career 316) \u2014 (4:50 - 4th \u2014 SEA @ DAL)",
+    "kind": "rank_pass",
+    "player": "Alysha Clark",
+    "stat": "steals",
+    "rank": 91,
+    "passed_players": [
+      "Courtney Williams",
+      "Debbie Black"
+    ],
+    "new_total": 316
+  },
+  {
     "ts": "2026-06-02T01:24:00+00:00",
     "text": "Arike Ogunbowale passed Alex Montgomery for #188 all-time in rebounds (career 736) \u2014 up from #190 entering today \u2014 (4:44 - 3rd \u2014 SEA @ DAL)",
     "kind": "rank_pass",
@@ -2975,23 +2988,5 @@
       "Dana Evans"
     ],
     "new_total": 381
-  },
-  {
-    "ts": "2026-05-18T14:28:00+00:00",
-    "text": "Stephanie Talbot passed Kara Wolters, Noelle Quinn, Tierra Ruffin-Pratt, Jennifer Lacy, Sugar Rodgers, Tan White, and Tiffany Jackson for #168 all-time in blocks (career 78) \u2014 up from #172 entering today \u2014 (Final \u2014 LV @ ATL)",
-    "kind": "rank_pass",
-    "player": "Stephanie Talbot",
-    "stat": "blocks",
-    "rank": 168,
-    "passed_players": [
-      "Kara Wolters",
-      "Noelle Quinn",
-      "Tierra Ruffin-Pratt",
-      "Jennifer Lacy",
-      "Sugar Rodgers",
-      "Tan White",
-      "Tiffany Jackson"
-    ],
-    "new_total": 78
   }
 ]

@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-02 01:52 UTC
+
+- **Alysha Clark** passed **Courtney Williams** and **Debbie Black** for **#91** all-time in steals (career 316) — _4:50 - 4th — SEA @ DAL_
+
 ## 2026-06-02 01:24 UTC
 
 - **Arike Ogunbowale** passed **Alex Montgomery** for **#188** all-time in rebounds (career 736) — up from #190 entering today — _4:44 - 3rd — SEA @ DAL_
