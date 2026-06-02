@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-02 03:00 UTC_
+_Last updated: 2026-06-02 03:01 UTC_
 
 ## Contents
 
@@ -44,7 +44,7 @@ _Last updated: 2026-06-02 03:00 UTC_
 | 23 | Katie Douglas | 5,545 |
 | 24 | Skylar Diggins | 5,525 |
 | 25 | Lindsay Whalen | 5,511 |
-| 26 | **Kayla McBride** 🔴 +4 | 5,458 |
+| 26 | **Kayla McBride** 🔴 +7 | 5,461 |
 | 27 | Swin Cash | 5,119 |
 | 28 | Tangela Smith | 5,035 |
 | 29 | Taj McWilliams-Franklin | 4,992 |
@@ -873,8 +873,8 @@ _Last updated: 2026-06-02 03:00 UTC_
 | 32 | Maya Moore | 449 |
 | 33 | Skylar Diggins | 448 |
 | 34 | Jewell Loyd | 445 |
-| 35 | Chelsea Gray | 439 |
-| 35 | **Natasha Howard** 🔴 +1 | 439 |
+| 35 | **Natasha Howard** 🔴 +2 | 440 |
+| 36 | Chelsea Gray | 439 |
 | 37 | Sheri Sam | 438 |
 | 38 | Camille Smith | 437 |
 | 39 | Candice Dupree | 431 |
@@ -1050,7 +1050,7 @@ _Last updated: 2026-06-02 03:00 UTC_
 | 3 | Katie Smith | 906 |
 | 4 | Becky Hammon | 825 |
 | 5 | Tina Thompson | 745 |
-| 6 | **Kayla McBride** 🔴 | 728 |
+| 6 | **Kayla McBride** 🔴 +1 | 729 |
 | 7 | Katie Douglas | 723 |
 | 8 | Kelsey Mitchell | 679 |
 | 9 | Jewell Loyd | 673 |
@@ -1326,7 +1326,7 @@ _Last updated: 2026-06-02 03:00 UTC_
 | 74 | Lindsey Harding | 600 |
 | 74 | Tamika Whitmore | 600 |
 | 76 | Kelly Miller | 596 |
-| 77 | **Kahleah Copper** 🔴 +1 | 591 |
+| 77 | **Kahleah Copper** 🔴 +2 | 592 |
 | 78 | Stefanie Dolson | 582 |
 | 79 | Helen Darling | 575 |
 | 79 | Nykesha Sales | 575 |
