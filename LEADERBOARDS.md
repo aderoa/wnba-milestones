@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-02 03:49 UTC_
+_Last updated: 2026-06-02 03:50 UTC_
 
 ## Contents
 
@@ -1310,8 +1310,8 @@ _Last updated: 2026-06-02 03:49 UTC_
 | 58 | Chasity Melvin | 666 |
 | 59 | Vickie Johnson | 660 |
 | 60 | Yolanda Griffith | 653 |
-| 61 | **Courtney Williams** 🔴 +1 | 650 |
-| 61 | Sheri Sam | 650 |
+| 61 | **Courtney Williams** 🔴 +2 | 651 |
+| 62 | Sheri Sam | 650 |
 | 63 | Dawn Staley | 643 |
 | 64 | Ruth Riley | 637 |
 | 65 | Svetlana Abrosimova | 631 |
