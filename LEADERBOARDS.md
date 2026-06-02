@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-02 23:45 UTC_
+_Last updated: 2026-06-02 23:46 UTC_
 
 ## Contents
 
@@ -239,7 +239,7 @@ _Last updated: 2026-06-02 23:45 UTC_
 | 13 | Jonquel Jones | 2,599 |
 | 14 | Sancho Lyttle | 2,596 |
 | 15 | DeLisha Milton-Jones | 2,574 |
-| 16 | **Brittney Griner** 🔴 +1 | 2,538 |
+| 16 | **Brittney Griner** 🔴 +2 | 2,539 |
 | 17 | A'ja Wilson | 2,522 |
 | 18 | Swin Cash | 2,521 |
 | 19 | Breanna Stewart | 2,510 |
@@ -298,7 +298,7 @@ _Last updated: 2026-06-02 23:45 UTC_
 | 72 | Courtney Vandersloot | 1,383 |
 | 72 | Katie Smith | 1,383 |
 | 74 | Ebony Hoffman | 1,376 |
-| 75 | **Allisha Gray** 🔴 +1 | 1,369 |
+| 75 | **Allisha Gray** 🔴 +2 | 1,370 |
 | 76 | Monique Billings | 1,367 |
 | 77 | Sheri Sam | 1,356 |
 | 78 | Tamika Whitmore | 1,355 |
@@ -760,10 +760,10 @@ _Last updated: 2026-06-02 23:45 UTC_
 | 124 | Theresa Plaisance | 102 |
 | 125 | Deanna Nolan | 101 |
 | 125 | Dearica Hamby | 101 |
-| 127 | Chante Black | 100 |
-| 127 | Danielle Adams | 100 |
-| 127 | **Kamilla Cardoso** 🔴 | 100 |
-| 127 | Nicole Powell | 100 |
+| 125 | **Kamilla Cardoso** 🔴 +1 | 101 |
+| 128 | Chante Black | 100 |
+| 128 | Danielle Adams | 100 |
+| 128 | Nicole Powell | 100 |
 | 131 | Emily Engstler | 99 |
 | 132 | Mwadi Mabika | 98 |
 | 132 | Natalie Achonwa | 98 |
