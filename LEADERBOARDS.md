@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-02 00:54 UTC_
+_Last updated: 2026-06-02 00:55 UTC_
 
 ## Contents
 
@@ -203,7 +203,7 @@ _Last updated: 2026-06-02 00:54 UTC_
 | 182 | Rachel Banham | 1,788 |
 | 183 | Kamila Vodichkova | 1,767 |
 | 184 | Tully Bevilaqua | 1,763 |
-| 185 | **Natisha Hiedeman** 🔴 +9 | 1,760 |
+| 185 | **Natisha Hiedeman** 🔴 +11 | 1,762 |
 | 186 | Sandy Brondello | 1,759 |
 | 187 | Sugar Rodgers | 1,733 |
 | 188 | Moriah Jefferson | 1,722 |
