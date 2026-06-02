@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-02 01:14 UTC_
+_Last updated: 2026-06-02 01:15 UTC_
 
 ## Contents
 
@@ -57,7 +57,7 @@ _Last updated: 2026-06-02 01:14 UTC_
 | 36 | Elena Delle Donne | 4,706 |
 | 37 | Penny Taylor | 4,595 |
 | 38 | Alyssa Thomas | 4,554 |
-| 39 | **Arike Ogunbowale** 🔴 +6 | 4,518 |
+| 39 | **Arike Ogunbowale** 🔴 +7 | 4,519 |
 | 40 | Kristi Toliver | 4,474 |
 | 41 | Chelsea Gray | 4,469 |
 | 42 | Crystal Langhorne | 4,433 |
@@ -268,7 +268,7 @@ _Last updated: 2026-06-02 01:14 UTC_
 | 42 | Kiah Stokes | 1,760 |
 | 43 | Asjha Jones | 1,751 |
 | 44 | Teaira McCowan | 1,670 |
-| 45 | **Stefanie Dolson** 🔴 +1 | 1,668 |
+| 45 | **Stefanie Dolson** 🔴 +2 | 1,669 |
 | 46 | Monique Currie | 1,666 |
 | 47 | Glory Johnson | 1,640 |
 | 48 | Vickie Johnson | 1,634 |
@@ -381,7 +381,7 @@ _Last updated: 2026-06-02 01:14 UTC_
 | 155 | Erica Wheeler | 858 |
 | 156 | **Alanna Smith** 🔴 +3 | 850 |
 | 157 | Leilani Mitchell | 845 |
-| 158 | **Jessica Shepard** 🔴 +6 | 842 |
+| 158 | **Jessica Shepard** 🔴 +7 | 843 |
 | 159 | Essence Carson | 833 |
 | 160 | Kristi Toliver | 829 |
 | 161 | Marie Ferdinand-Harris | 828 |
@@ -1475,7 +1475,7 @@ _Last updated: 2026-06-02 01:14 UTC_
 | 18 | Tanisha Wright | 1,109 |
 | 19 | Michelle Snow | 1,108 |
 | 20 | Natasha Howard | 1,105 |
-| 21 | **Stefanie Dolson** 🔴 +1 | 1,096 |
+| 21 | **Stefanie Dolson** 🔴 +2 | 1,097 |
 | 22 | Sylvia Fowles | 1,049 |
 | 23 | Tina Charles | 1,037 |
 | 24 | Lindsay Whalen | 998 |
