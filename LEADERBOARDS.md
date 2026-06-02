@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-02 00:48 UTC_
+_Last updated: 2026-06-02 00:49 UTC_
 
 ## Contents
 
@@ -918,9 +918,9 @@ _Last updated: 2026-06-02 00:48 UTC_
 | 77 | A'ja Wilson | 339 |
 | 78 | Dawn Staley | 338 |
 | 79 | Marie Ferdinand-Harris | 331 |
-| 80 | Chasity Melvin | 330 |
-| 80 | Leilani Mitchell | 330 |
-| 80 | **Odyssey Sims** 🔴 | 330 |
+| 79 | **Odyssey Sims** 🔴 +1 | 331 |
+| 81 | Chasity Melvin | 330 |
+| 81 | Leilani Mitchell | 330 |
 | 83 | Kristi Toliver | 329 |
 | 84 | Matee Ajavon | 328 |
 | 85 | Napheesa Collier | 325 |
