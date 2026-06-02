@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-02 03:45 UTC
+
+- **Teaira McCowan** passed **Azurá Stevens** for **#141** all-time in points (career 2,221) — up from #143 entering today — _6:03 - 4th — MIN @ PHX_
+
 ## 2026-06-02 02:32 UTC
 
 - **Teaira McCowan** passed **Janel McCarville** for **#142** all-time in points (career 2,217) — up from #143 entering today — _29.0 - 1st — MIN @ PHX_

@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-02T03:45:00+00:00",
+    "text": "Teaira McCowan passed Azur\u00e1 Stevens for #141 all-time in points (career 2,221) \u2014 up from #143 entering today \u2014 (6:03 - 4th \u2014 MIN @ PHX)",
+    "kind": "rank_pass",
+    "player": "Teaira McCowan",
+    "stat": "points",
+    "rank": 141,
+    "passed_players": [
+      "Azur\u00e1 Stevens"
+    ],
+    "new_total": 2221
+  },
+  {
     "ts": "2026-06-02T02:32:00+00:00",
     "text": "Teaira McCowan passed Janel McCarville for #142 all-time in points (career 2,217) \u2014 up from #143 entering today \u2014 (29.0 - 1st \u2014 MIN @ PHX)",
     "kind": "rank_pass",
@@ -2983,14 +2995,5 @@
       "Maya Moore"
     ],
     "new_total": 897
-  },
-  {
-    "ts": "2026-05-19T00:40:00+00:00",
-    "text": "Sonia Citron reached 100 career turnovers (now 100) \u2014 (7:43 - 2nd \u2014 WSH @ DAL)",
-    "kind": "round",
-    "player": "Sonia Citron",
-    "stat": "turnovers",
-    "value": 100,
-    "new_total": 100
   }
 ]

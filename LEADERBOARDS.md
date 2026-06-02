@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-02 03:44 UTC_
+_Last updated: 2026-06-02 03:45 UTC_
 
 ## Contents
 
@@ -159,8 +159,8 @@ _Last updated: 2026-06-02 03:44 UTC_
 | 138 | Kara Braxton | 2,237 |
 | 138 | Matee Ajavon | 2,237 |
 | 140 | Dawn Staley | 2,228 |
-| 141 | Azurá Stevens | 2,219 |
-| 141 | **Teaira McCowan** 🔴 +4 | 2,219 |
+| 141 | **Teaira McCowan** 🔴 +6 | 2,221 |
+| 142 | Azurá Stevens | 2,219 |
 | 143 | Janel McCarville | 2,215 |
 | 144 | Sami Whitcomb | 2,211 |
 | 145 | Sophia Witherspoon | 2,210 |
@@ -264,10 +264,10 @@ _Last updated: 2026-06-02 03:44 UTC_
 | 38 | Sophia Young-Malcolm | 1,807 |
 | 39 | Lindsay Whalen | 1,805 |
 | 40 | Camille Smith | 1,802 |
-| 41 | **Courtney Williams** 🔴 +3 | 1,769 |
+| 41 | **Courtney Williams** 🔴 +4 | 1,770 |
 | 42 | Kiah Stokes | 1,760 |
 | 43 | Asjha Jones | 1,751 |
-| 44 | **Teaira McCowan** 🔴 +2 | 1,672 |
+| 44 | **Teaira McCowan** 🔴 +3 | 1,673 |
 | 45 | Stefanie Dolson | 1,669 |
 | 46 | Monique Currie | 1,666 |
 | 47 | Glory Johnson | 1,640 |
