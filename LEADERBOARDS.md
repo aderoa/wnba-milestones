@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-02 03:28 UTC_
+_Last updated: 2026-06-02 03:29 UTC_
 
 ## Contents
 
@@ -250,7 +250,7 @@ _Last updated: 2026-06-02 03:28 UTC_
 | 24 | Dearica Hamby | 2,346 |
 | 25 | Tangela Smith | 2,328 |
 | 26 | Erika de Souza | 2,220 |
-| 27 | **Natasha Howard** 🔴 +3 | 2,207 |
+| 27 | **Natasha Howard** 🔴 +4 | 2,208 |
 | 28 | Diana Taurasi | 2,201 |
 | 29 | Margo Dydek | 2,138 |
 | 30 | Chamique Holdsclaw | 2,123 |
@@ -386,7 +386,7 @@ _Last updated: 2026-06-02 03:28 UTC_
 | 160 | Kristi Toliver | 829 |
 | 161 | Marie Ferdinand-Harris | 828 |
 | 162 | Marina Mabrey | 827 |
-| 163 | **Nia Coffey** 🔴 +5 | 824 |
+| 163 | **Nia Coffey** 🔴 +6 | 825 |
 | 164 | Marlies Askamp | 822 |
 | 165 | Amanda Zahui B | 819 |
 | 165 | Barbara Farris | 819 |
@@ -753,10 +753,10 @@ _Last updated: 2026-06-02 03:28 UTC_
 | 117 | Shakira Austin | 106 |
 | 117 | Sylvia Crawley | 106 |
 | 119 | Carolyn Swords | 104 |
+| 119 | **Courtney Williams** 🔴 +1 | 104 |
 | 119 | Rebecca Lobo | 104 |
-| 121 | **Courtney Williams** 🔴 | 103 |
-| 121 | Jennifer Gillom | 103 |
-| 121 | Jia Perkins | 103 |
+| 122 | Jennifer Gillom | 103 |
+| 122 | Jia Perkins | 103 |
 | 124 | Theresa Plaisance | 102 |
 | 125 | Deanna Nolan | 101 |
 | 125 | Dearica Hamby | 101 |
@@ -1277,7 +1277,7 @@ _Last updated: 2026-06-02 03:28 UTC_
 | 25 | Alana Beard | 854 |
 | 26 | **DeWanna Bonner** 🔴 +2 | 832 |
 | 27 | Katie Douglas | 824 |
-| 28 | **Natasha Howard** 🔴 +1 | 805 |
+| 28 | **Natasha Howard** 🔴 +2 | 806 |
 | 29 | Betty Lennox | 800 |
 | 30 | Jasmine Thomas | 796 |
 | 31 | Nneka Ogwumike | 791 |
