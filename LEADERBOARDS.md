@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-02 02:41 UTC_
+_Last updated: 2026-06-02 02:42 UTC_
 
 ## Contents
 
@@ -160,7 +160,7 @@ _Last updated: 2026-06-02 02:41 UTC_
 | 138 | Matee Ajavon | 2,237 |
 | 140 | Dawn Staley | 2,228 |
 | 141 | Azurá Stevens | 2,219 |
-| 142 | **Teaira McCowan** 🔴 +2 | 2,217 |
+| 141 | **Teaira McCowan** 🔴 +4 | 2,219 |
 | 143 | Janel McCarville | 2,215 |
 | 144 | Sami Whitcomb | 2,211 |
 | 145 | Sophia Witherspoon | 2,210 |
@@ -231,7 +231,7 @@ _Last updated: 2026-06-02 02:41 UTC_
 | 5 | Tamika Catchings | 3,313 |
 | 6 | Lisa Leslie | 3,303 |
 | 7 | Nneka Ogwumike | 3,295 |
-| 8 | **DeWanna Bonner** 🔴 | 3,232 |
+| 8 | **DeWanna Bonner** 🔴 +1 | 3,233 |
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
@@ -267,7 +267,7 @@ _Last updated: 2026-06-02 02:41 UTC_
 | 41 | **Courtney Williams** 🔴 +1 | 1,767 |
 | 42 | Kiah Stokes | 1,760 |
 | 43 | Asjha Jones | 1,751 |
-| 44 | **Teaira McCowan** 🔴 | 1,670 |
+| 44 | **Teaira McCowan** 🔴 +1 | 1,671 |
 | 45 | Stefanie Dolson | 1,669 |
 | 46 | Monique Currie | 1,666 |
 | 47 | Glory Johnson | 1,640 |
