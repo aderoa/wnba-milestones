@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-02 02:51 UTC_
+_Last updated: 2026-06-02 02:52 UTC_
 
 ## Contents
 
@@ -387,7 +387,7 @@ _Last updated: 2026-06-02 02:51 UTC_
 | 161 | Marie Ferdinand-Harris | 828 |
 | 162 | Marina Mabrey | 827 |
 | 163 | Marlies Askamp | 822 |
-| 164 | **Nia Coffey** 🔴 +2 | 821 |
+| 163 | **Nia Coffey** 🔴 +3 | 822 |
 | 165 | Amanda Zahui B | 819 |
 | 165 | Barbara Farris | 819 |
 | 167 | Carolyn Swords | 814 |
@@ -474,7 +474,7 @@ _Last updated: 2026-06-02 02:51 UTC_
 | 43 | Tina Charles | 1,033 |
 | 44 | Nikki Teasley | 982 |
 | 45 | Tamecka Dixon | 960 |
-| 46 | **Kayla McBride** 🔴 +3 | 955 |
+| 46 | **Kayla McBride** 🔴 +4 | 956 |
 | 47 | Kara Lawson | 946 |
 | 48 | Breanna Stewart | 938 |
 | 49 | Deanna Nolan | 930 |
@@ -993,9 +993,9 @@ _Last updated: 2026-06-02 02:51 UTC_
 | 151 | Candice Wiggins | 215 |
 | 151 | Cheyenne Parker-Tyus | 215 |
 | 151 | Elena Baranova | 215 |
+| 155 | **Kahleah Copper** 🔴 +1 | 214 |
 | 155 | Rhyne Howard | 214 |
-| 156 | **Kahleah Copper** 🔴 | 213 |
-| 156 | Shekinna Stricklen | 213 |
+| 157 | Shekinna Stricklen | 213 |
 | 158 | Nikki Teasley | 211 |
 | 159 | Iziane Castro Marques | 209 |
 | 159 | Tiffany Mitchell | 209 |
@@ -1310,8 +1310,8 @@ _Last updated: 2026-06-02 02:51 UTC_
 | 58 | Chasity Melvin | 666 |
 | 59 | Vickie Johnson | 660 |
 | 60 | Yolanda Griffith | 653 |
+| 61 | **Courtney Williams** 🔴 +1 | 650 |
 | 61 | Sheri Sam | 650 |
-| 62 | **Courtney Williams** 🔴 | 649 |
 | 63 | Dawn Staley | 643 |
 | 64 | Ruth Riley | 637 |
 | 65 | Svetlana Abrosimova | 631 |
@@ -1644,7 +1644,7 @@ _Last updated: 2026-06-02 02:51 UTC_
 | 187 | Seimone Augustus | 477 |
 | 188 | Allie Quigley | 475 |
 | 189 | Kia Nurse | 467 |
-| 190 | **Nia Coffey** 🔴 | 465 |
+| 190 | **Nia Coffey** 🔴 +1 | 466 |
 | 191 | Azurá Stevens | 463 |
 | 191 | Christi Thomas | 463 |
 | 191 | Nikki Teasley | 463 |
