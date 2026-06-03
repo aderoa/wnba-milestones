@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-03 01:09 UTC_
+_Last updated: 2026-06-03 01:10 UTC_
 
 ## Contents
 
@@ -393,7 +393,7 @@ _Last updated: 2026-06-03 01:09 UTC_
 | 167 | Carolyn Swords | 814 |
 | 168 | Tierra Ruffin-Pratt | 799 |
 | 169 | Charlotte Smith | 794 |
-| 170 | **Naz Hillmon** 🔴 +5 | 793 |
+| 169 | **Naz Hillmon** 🔴 +6 | 794 |
 | 171 | Betnijah Laney-Hamilton | 792 |
 | 172 | Rhonda Mapp | 788 |
 | 173 | Mercedes Russell | 786 |
@@ -644,7 +644,7 @@ _Last updated: 2026-06-03 01:09 UTC_
 | 8 | Tangela Smith | 554 |
 | 9 | A'ja Wilson | 543 |
 | 10 | Ruth Riley | 505 |
-| 11 | **Elizabeth Williams** 🔴 | 486 |
+| 11 | **Elizabeth Williams** 🔴 +1 | 487 |
 | 12 | Taj McWilliams-Franklin | 443 |
 | 13 | Breanna Stewart | 433 |
 | 14 | Tina Charles | 428 |
@@ -1037,7 +1037,7 @@ _Last updated: 2026-06-03 01:09 UTC_
 | 195 | Ezi Magbegor | 174 |
 | 195 | Margo Dydek | 174 |
 | 198 | Kamila Vodichkova | 173 |
-| 199 | **Brittney Griner** 🔴 +1 | 169 |
+| 199 | **Brittney Griner** 🔴 +2 | 170 |
 | 200 | Kara Braxton | 168 |
 | 200 | Sugar Rodgers | 168 |
 
@@ -1369,7 +1369,7 @@ _Last updated: 2026-06-03 01:09 UTC_
 | 117 | Ebony Hoffman | 470 |
 | 118 | Elaine Powell | 469 |
 | 119 | Allie Quigley | 467 |
-| 120 | **Allisha Gray** 🔴 | 455 |
+| 120 | **Allisha Gray** 🔴 +1 | 456 |
 | 121 | A'ja Wilson | 454 |
 | 121 | Kia Vaughn | 454 |
 | 123 | Janeth Arcain | 453 |
