@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-03 02:46 UTC_
+_Last updated: 2026-06-03 02:47 UTC_
 
 ## Contents
 
@@ -23,7 +23,7 @@ _Last updated: 2026-06-03 02:46 UTC_
 | 2 | Tina Charles | 8,396 |
 | 3 | DeWanna Bonner | 7,847 |
 | 4 | Tina Thompson | 7,470 |
-| 5 | **Nneka Ogwumike** 🔴 +2 | 7,373 |
+| 5 | **Nneka Ogwumike** 🔴 +4 | 7,375 |
 | 6 | Tamika Catchings | 7,371 |
 | 7 | Candice Dupree | 6,861 |
 | 8 | Sue Bird | 6,802 |
@@ -37,7 +37,7 @@ _Last updated: 2026-06-03 02:46 UTC_
 | 16 | Lauren Jackson | 6,005 |
 | 16 | Seimone Augustus | 6,005 |
 | 18 | Brittney Griner | 5,990 |
-| 19 | **A'ja Wilson** 🔴 +11 | 5,855 |
+| 19 | **A'ja Wilson** 🔴 +13 | 5,857 |
 | 20 | Becky Hammon | 5,816 |
 | 21 | Angel McCoughtry | 5,797 |
 | 22 | DeLisha Milton-Jones | 5,571 |
@@ -230,7 +230,7 @@ _Last updated: 2026-06-03 02:46 UTC_
 | 4 | Rebekkah Brunson | 3,345 |
 | 5 | Tamika Catchings | 3,313 |
 | 6 | Lisa Leslie | 3,303 |
-| 7 | **Nneka Ogwumike** 🔴 +5 | 3,300 |
+| 7 | **Nneka Ogwumike** 🔴 +7 | 3,302 |
 | 8 | DeWanna Bonner | 3,232 |
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
@@ -466,7 +466,7 @@ _Last updated: 2026-06-03 02:46 UTC_
 | 35 | Lindsey Harding | 1,090 |
 | 36 | Katie Douglas | 1,069 |
 | 37 | Sabrina Ionescu | 1,067 |
-| 38 | **Jackie Young** 🔴 +3 | 1,063 |
+| 38 | **Jackie Young** 🔴 +4 | 1,064 |
 | 39 | Alana Beard | 1,061 |
 | 40 | Penny Taylor | 1,049 |
 | 41 | Dominique Canty | 1,042 |
