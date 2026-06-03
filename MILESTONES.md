@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-03 03:14 UTC
+
+- **Ariel Atkins** passed **Anna DeForge**, **Kelsey Bone**, and **Tan White** for **#180** all-time in rebounds (career 770) — up from #184 entering today — _5:22 - 3rd — LV @ LA_
+
 ## 2026-06-03 02:22 UTC
 
 - **Cheyenne Parker-Tyus** passed **Tiffany Mitchell** for **#130** all-time in turnovers (career 440) — _20.1 - 1st — LV @ LA_

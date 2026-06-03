@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-03 03:13 UTC_
+_Last updated: 2026-06-03 03:14 UTC_
 
 ## Contents
 
@@ -23,7 +23,7 @@ _Last updated: 2026-06-03 03:13 UTC_
 | 2 | Tina Charles | 8,396 |
 | 3 | DeWanna Bonner | 7,847 |
 | 4 | Tina Thompson | 7,470 |
-| 5 | **Nneka Ogwumike** 🔴 +4 | 7,375 |
+| 5 | **Nneka Ogwumike** 🔴 +8 | 7,379 |
 | 6 | Tamika Catchings | 7,371 |
 | 7 | Candice Dupree | 6,861 |
 | 8 | Sue Bird | 6,802 |
@@ -403,10 +403,10 @@ _Last updated: 2026-06-03 03:13 UTC_
 | 177 | Tiffani Johnson | 778 |
 | 178 | **Gabby Williams** 🔴 +1 | 775 |
 | 178 | Teresa Weatherspoon | 775 |
-| 180 | Anna DeForge | 769 |
-| 180 | **Ariel Atkins** 🔴 +5 | 769 |
-| 180 | Kelsey Bone | 769 |
-| 180 | Tan White | 769 |
+| 180 | **Ariel Atkins** 🔴 +6 | 770 |
+| 181 | Anna DeForge | 769 |
+| 181 | Kelsey Bone | 769 |
+| 181 | Tan White | 769 |
 | 184 | Tully Bevilaqua | 767 |
 | 185 | Layshia Clarendon | 756 |
 | 186 | Brooke Wyckoff | 751 |
@@ -1654,6 +1654,4 @@ _Last updated: 2026-06-03 03:13 UTC_
 | 197 | Alanna Smith | 452 |
 | 198 | Alexis Hornbuckle | 450 |
 | 199 | Bria Hartley | 448 |
-| 200 | Diamond DeShields | 445 |
-| 200 | **NaLyssa Smith** 🔴 +3 | 445 |
-| 200 | Sugar Rodgers | 445 |
+| 200 | **NaLyssa Smith** 🔴 +4 | 446 |

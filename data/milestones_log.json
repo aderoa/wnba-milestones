@@ -1,5 +1,19 @@
 [
   {
+    "ts": "2026-06-03T03:14:00+00:00",
+    "text": "Ariel Atkins passed Anna DeForge, Kelsey Bone, and Tan White for #180 all-time in rebounds (career 770) \u2014 up from #184 entering today \u2014 (5:22 - 3rd \u2014 LV @ LA)",
+    "kind": "rank_pass",
+    "player": "Ariel Atkins",
+    "stat": "rebounds",
+    "rank": 180,
+    "passed_players": [
+      "Anna DeForge",
+      "Kelsey Bone",
+      "Tan White"
+    ],
+    "new_total": 770
+  },
+  {
     "ts": "2026-06-03T02:22:00+00:00",
     "text": "Cheyenne Parker-Tyus passed Tiffany Mitchell for #130 all-time in turnovers (career 440) \u2014 (20.1 - 1st \u2014 LV @ LA)",
     "kind": "rank_pass",
@@ -2986,18 +3000,5 @@
       "Alanna Smith"
     ],
     "new_total": 848
-  },
-  {
-    "ts": "2026-05-19T01:33:00+00:00",
-    "text": "Arike Ogunbowale passed Andrea Stinson and Natasha Cloud for #73 all-time in steals (career 343) \u2014 up from #75 entering today \u2014 (1:18 - 3rd \u2014 WSH @ DAL)",
-    "kind": "rank_pass",
-    "player": "Arike Ogunbowale",
-    "stat": "steals",
-    "rank": 73,
-    "passed_players": [
-      "Andrea Stinson",
-      "Natasha Cloud"
-    ],
-    "new_total": 343
   }
 ]
