@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-03 03:19 UTC_
+_Last updated: 2026-06-03 03:20 UTC_
 
 ## Contents
 
@@ -37,7 +37,7 @@ _Last updated: 2026-06-03 03:19 UTC_
 | 16 | Lauren Jackson | 6,005 |
 | 16 | Seimone Augustus | 6,005 |
 | 18 | Brittney Griner | 5,990 |
-| 19 | **A'ja Wilson** 🔴 +17 | 5,861 |
+| 19 | **A'ja Wilson** 🔴 +21 | 5,865 |
 | 20 | Becky Hammon | 5,816 |
 | 21 | Angel McCoughtry | 5,797 |
 | 22 | DeLisha Milton-Jones | 5,571 |
@@ -307,7 +307,7 @@ _Last updated: 2026-06-03 03:19 UTC_
 | 81 | Elena Baranova | 1,335 |
 | 82 | Brionna Jones | 1,333 |
 | 83 | Erlana Larkins | 1,329 |
-| 84 | **Kayla Thornton** 🔴 +3 | 1,328 |
+| 83 | **Kayla Thornton** 🔴 +4 | 1,329 |
 | 85 | Mwadi Mabika | 1,327 |
 | 86 | Jayne Appel Marinelli | 1,326 |
 | 87 | Betty Lennox | 1,296 |
@@ -321,7 +321,7 @@ _Last updated: 2026-06-03 03:19 UTC_
 | 95 | Seimone Augustus | 1,228 |
 | 96 | Myisha Hines-Allen | 1,224 |
 | 97 | Jia Perkins | 1,220 |
-| 98 | **Chelsea Gray** 🔴 +2 | 1,212 |
+| 98 | **Chelsea Gray** 🔴 +3 | 1,213 |
 | 99 | Kayla McBride | 1,201 |
 | 100 | DeMya Walker | 1,199 |
 | 101 | Latasha Byears | 1,190 |
@@ -434,7 +434,7 @@ _Last updated: 2026-06-03 03:19 UTC_
 | 3 | Ticha Penicheiro | 2,588 |
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
-| 6 | **Chelsea Gray** 🔴 +7 | 1,910 |
+| 6 | **Chelsea Gray** 🔴 +8 | 1,911 |
 | 7 | Alyssa Thomas | 1,854 |
 | 8 | Skylar Diggins | 1,786 |
 | 9 | Natasha Cloud | 1,750 |
@@ -466,7 +466,7 @@ _Last updated: 2026-06-03 03:19 UTC_
 | 35 | Lindsey Harding | 1,090 |
 | 36 | Katie Douglas | 1,069 |
 | 37 | Sabrina Ionescu | 1,067 |
-| 38 | **Jackie Young** 🔴 +5 | 1,065 |
+| 38 | **Jackie Young** 🔴 +6 | 1,066 |
 | 39 | Alana Beard | 1,061 |
 | 40 | Penny Taylor | 1,049 |
 | 41 | Dominique Canty | 1,042 |
@@ -642,7 +642,7 @@ _Last updated: 2026-06-03 03:19 UTC_
 | 6 | Lauren Jackson | 586 |
 | 7 | Tammy Sutton-Brown | 555 |
 | 8 | Tangela Smith | 554 |
-| 9 | **A'ja Wilson** 🔴 +3 | 546 |
+| 9 | **A'ja Wilson** 🔴 +4 | 547 |
 | 10 | Ruth Riley | 505 |
 | 11 | Elizabeth Williams | 487 |
 | 12 | Taj McWilliams-Franklin | 443 |
@@ -660,7 +660,7 @@ _Last updated: 2026-06-03 03:19 UTC_
 | 23 | Diana Taurasi | 349 |
 | 23 | Elena Delle Donne | 349 |
 | 26 | DeLisha Milton-Jones | 339 |
-| 27 | **Kiah Stokes** 🔴 +2 | 326 |
+| 27 | **Kiah Stokes** 🔴 +4 | 328 |
 | 28 | Yolanda Griffith | 323 |
 | 29 | Elena Baranova | 320 |
 | 30 | Candice Dupree | 316 |
@@ -761,10 +761,10 @@ _Last updated: 2026-06-03 03:19 UTC_
 | 125 | **Dearica Hamby** 🔴 +1 | 102 |
 | 125 | Theresa Plaisance | 102 |
 | 127 | Deanna Nolan | 101 |
-| 128 | Chante Black | 100 |
-| 128 | Danielle Adams | 100 |
-| 128 | **Emily Engstler** 🔴 +1 | 100 |
-| 128 | Nicole Powell | 100 |
+| 127 | **Emily Engstler** 🔴 +2 | 101 |
+| 129 | Chante Black | 100 |
+| 129 | Danielle Adams | 100 |
+| 129 | Nicole Powell | 100 |
 | 132 | Mwadi Mabika | 98 |
 | 132 | Natalie Achonwa | 98 |
 | 132 | Rhyne Howard | 98 |
@@ -913,9 +913,9 @@ _Last updated: 2026-06-03 03:19 UTC_
 | 72 | Helen Darling | 343 |
 | 73 | Andrea Stinson | 342 |
 | 73 | Natasha Cloud | 342 |
-| 75 | **A'ja Wilson** 🔴 +1 | 340 |
-| 75 | Arike Ogunbowale | 340 |
-| 75 | Armintie Herrington | 340 |
+| 75 | **A'ja Wilson** 🔴 +2 | 341 |
+| 76 | Arike Ogunbowale | 340 |
+| 76 | Armintie Herrington | 340 |
 | 78 | Dawn Staley | 338 |
 | 79 | Marie Ferdinand-Harris | 331 |
 | 80 | Chasity Melvin | 330 |
@@ -1303,8 +1303,8 @@ _Last updated: 2026-06-03 03:19 UTC_
 | 51 | Danielle Robinson | 680 |
 | 52 | Natasha Cloud | 677 |
 | 52 | Sheryl Swoopes | 677 |
-| 54 | **Erica Wheeler** 🔴 +1 | 672 |
-| 54 | Tammy Sutton-Brown | 672 |
+| 54 | **Erica Wheeler** 🔴 +2 | 673 |
+| 55 | Tammy Sutton-Brown | 672 |
 | 56 | Deanna Nolan | 669 |
 | 57 | **Dearica Hamby** 🔴 | 667 |
 | 58 | Chasity Melvin | 666 |
