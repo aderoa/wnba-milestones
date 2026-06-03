@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-03 01:17 UTC_
+_Last updated: 2026-06-03 01:18 UTC_
 
 ## Contents
 
@@ -751,8 +751,8 @@ _Last updated: 2026-06-03 01:17 UTC_
 | 114 | Glory Johnson | 108 |
 | 114 | Natasha Mack | 108 |
 | 117 | **Shakira Austin** 🔴 +1 | 107 |
+| 118 | **Kamilla Cardoso** 🔴 +6 | 106 |
 | 118 | Sylvia Crawley | 106 |
-| 119 | **Kamilla Cardoso** 🔴 +5 | 105 |
 | 120 | Carolyn Swords | 104 |
 | 120 | Rebecca Lobo | 104 |
 | 122 | Courtney Williams | 103 |
