@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-03 01:11 UTC_
+_Last updated: 2026-06-03 01:12 UTC_
 
 ## Contents
 
@@ -1444,9 +1444,9 @@ _Last updated: 2026-06-03 01:11 UTC_
 | 192 | Isabelle Harrison | 300 |
 | 193 | Crystal Robinson | 299 |
 | 194 | Michele Timms | 297 |
-| 195 | **Azurá Stevens** 🔴 +3 | 289 |
-| 195 | Kayla Thornton | 289 |
-| 195 | **Rachel Banham** 🔴 +1 | 289 |
+| 195 | **Rachel Banham** 🔴 +2 | 290 |
+| 196 | **Azurá Stevens** 🔴 +3 | 289 |
+| 196 | Kayla Thornton | 289 |
 | 198 | Alexis Hornbuckle | 288 |
 | 198 | Kristen Rasmussen | 288 |
 | 200 | Damiris Dantas | 286 |
@@ -1484,7 +1484,7 @@ _Last updated: 2026-06-03 01:11 UTC_
 | 27 | Yolanda Griffith | 991 |
 | 28 | Lauren Jackson | 982 |
 | 29 | Nakia Sanford | 979 |
-| 30 | **Brittney Griner** 🔴 | 972 |
+| 30 | **Brittney Griner** 🔴 +1 | 973 |
 | 31 | Asjha Jones | 971 |
 | 32 | Margo Dydek | 950 |
 | 33 | Sancho Lyttle | 947 |
