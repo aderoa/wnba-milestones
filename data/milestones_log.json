@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-06-03T01:29:00+00:00",
+    "text": "Rhyne Howard passed Jasmine Thomas and Rachel Banham for #44 all-time in three-pointers (career 377) \u2014 up from #48 entering today \u2014 (3:26 - 4th \u2014 CON @ ATL)",
+    "kind": "rank_pass",
+    "player": "Rhyne Howard",
+    "stat": "three-pointers",
+    "rank": 44,
+    "passed_players": [
+      "Jasmine Thomas",
+      "Rachel Banham"
+    ],
+    "new_total": 377
+  },
+  {
     "ts": "2026-06-03T01:17:00+00:00",
     "text": "Azur\u00e1 Stevens passed Brianna Turner for #41 all-time in blocks (career 232) \u2014 up from #42 entering today \u2014 (8:31 - 4th \u2014 CHI @ WSH)",
     "kind": "rank_pass",
@@ -2986,18 +2999,5 @@
       "Leilani Mitchell"
     ],
     "new_total": 846
-  },
-  {
-    "ts": "2026-05-19T01:24:00+00:00",
-    "text": "Jessica Shepard passed Kayla Thornton and Merlakia Jones for #187 all-time in assists (career 356) \u2014 up from #189 entering today \u2014 (4:37 - 3rd \u2014 WSH @ DAL)",
-    "kind": "rank_pass",
-    "player": "Jessica Shepard",
-    "stat": "assists",
-    "rank": 187,
-    "passed_players": [
-      "Kayla Thornton",
-      "Merlakia Jones"
-    ],
-    "new_total": 356
   }
 ]

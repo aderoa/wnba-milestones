@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-03 01:29 UTC
+
+- **Rhyne Howard** passed **Jasmine Thomas** and **Rachel Banham** for **#44** all-time in three-pointers (career 377) — up from #48 entering today — _3:26 - 4th — CON @ ATL_
+
 ## 2026-06-03 01:17 UTC
 
 - **Azurá Stevens** passed **Brianna Turner** for **#41** all-time in blocks (career 232) — up from #42 entering today — _8:31 - 4th — CHI @ WSH_
