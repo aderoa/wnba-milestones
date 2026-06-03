@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-03 00:18 UTC_
+_Last updated: 2026-06-03 00:19 UTC_
 
 ## Contents
 
@@ -121,7 +121,7 @@ _Last updated: 2026-06-03 00:18 UTC_
 | 100 | Jennifer Gillom | 2,888 |
 | 100 | **Natasha Cloud** 🔴 | 2,888 |
 | 102 | Iziane Castro Marques | 2,862 |
-| 103 | **Elizabeth Williams** 🔴 +2 | 2,858 |
+| 103 | **Elizabeth Williams** 🔴 +4 | 2,860 |
 | 104 | Alysha Clark | 2,792 |
 | 105 | Jantel Lavender | 2,775 |
 | 106 | Brionna Jones | 2,765 |
@@ -165,7 +165,7 @@ _Last updated: 2026-06-03 00:18 UTC_
 | 144 | Sami Whitcomb | 2,211 |
 | 145 | Sophia Witherspoon | 2,210 |
 | 146 | Kia Nurse | 2,204 |
-| 147 | **Jordin Canada** 🔴 +3 | 2,177 |
+| 147 | **Jordin Canada** 🔴 +5 | 2,179 |
 | 148 | Ruthie Bolton | 2,175 |
 | 149 | Ann Wauters | 2,170 |
 | 150 | Layshia Clarendon | 2,168 |
@@ -521,8 +521,8 @@ _Last updated: 2026-06-03 00:18 UTC_
 | 88 | Plenette Pierson | 651 |
 | 91 | Alex Bentley | 645 |
 | 92 | Asjha Jones | 637 |
-| 93 | **Brittney Griner** 🔴 +1 | 636 |
-| 93 | Jennifer Azzi | 636 |
+| 92 | **Brittney Griner** 🔴 +2 | 637 |
+| 94 | Jennifer Azzi | 636 |
 | 95 | A'ja Wilson | 625 |
 | 96 | Sami Whitcomb | 623 |
 | 97 | Alysha Clark | 614 |
