@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-03 02:42 UTC_
+_Last updated: 2026-06-03 02:43 UTC_
 
 ## Contents
 
@@ -290,7 +290,7 @@ _Last updated: 2026-06-03 02:42 UTC_
 | 64 | Sue Bird | 1,466 |
 | 65 | Alysha Clark | 1,459 |
 | 66 | Nicole Powell | 1,457 |
-| 67 | **Cheyenne Parker-Tyus** 🔴 +4 | 1,440 |
+| 67 | **Cheyenne Parker-Tyus** 🔴 +3 | 1,439 |
 | 68 | Tamera Young | 1,433 |
 | 69 | Alana Beard | 1,420 |
 | 70 | Nakia Sanford | 1,419 |
@@ -670,7 +670,7 @@ _Last updated: 2026-06-03 02:42 UTC_
 | 34 | Liz Cambage | 264 |
 | 35 | **Nneka Ogwumike** 🔴 +1 | 262 |
 | 36 | Swin Cash | 258 |
-| 37 | **Cheyenne Parker-Tyus** 🔴 | 256 |
+| 37 | **Cheyenne Parker-Tyus** 🔴 +1 | 257 |
 | 38 | Plenette Pierson | 242 |
 | 39 | Napheesa Collier | 239 |
 | 40 | Emma Meesseman | 238 |
@@ -1566,9 +1566,9 @@ _Last updated: 2026-06-03 02:42 UTC_
 | 109 | Jennifer Gillom | 629 |
 | 110 | Deanna Nolan | 628 |
 | 111 | Brionna Jones | 625 |
+| 112 | **Kiah Stokes** 🔴 +1 | 618 |
 | 112 | Teaira McCowan | 618 |
-| 113 | Courtney Paris | 617 |
-| 113 | **Kiah Stokes** 🔴 | 617 |
+| 114 | Courtney Paris | 617 |
 | 115 | Coco Miller | 615 |
 | 116 | Brooke Wyckoff | 614 |
 | 117 | Svetlana Abrosimova | 613 |
