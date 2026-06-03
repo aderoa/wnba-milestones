@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-03 02:43 UTC_
+_Last updated: 2026-06-03 02:44 UTC_
 
 ## Contents
 
@@ -230,7 +230,7 @@ _Last updated: 2026-06-03 02:43 UTC_
 | 4 | Rebekkah Brunson | 3,345 |
 | 5 | Tamika Catchings | 3,313 |
 | 6 | Lisa Leslie | 3,303 |
-| 7 | **Nneka Ogwumike** 🔴 +4 | 3,299 |
+| 7 | **Nneka Ogwumike** 🔴 +5 | 3,300 |
 | 8 | DeWanna Bonner | 3,232 |
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
@@ -1280,7 +1280,7 @@ _Last updated: 2026-06-03 02:43 UTC_
 | 28 | Natasha Howard | 804 |
 | 29 | Betty Lennox | 800 |
 | 30 | Jasmine Thomas | 796 |
-| 31 | **Nneka Ogwumike** 🔴 +2 | 793 |
+| 31 | **Nneka Ogwumike** 🔴 +1 | 792 |
 | 32 | Chamique Holdsclaw | 789 |
 | 33 | Jewell Loyd | 785 |
 | 34 | Crystal Langhorne | 782 |
@@ -1655,4 +1655,5 @@ _Last updated: 2026-06-03 02:43 UTC_
 | 198 | Alexis Hornbuckle | 450 |
 | 199 | Bria Hartley | 448 |
 | 200 | Diamond DeShields | 445 |
+| 200 | **NaLyssa Smith** 🔴 +3 | 445 |
 | 200 | Sugar Rodgers | 445 |
