@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-03 00:06 UTC_
+_Last updated: 2026-06-03 00:07 UTC_
 
 ## Contents
 
@@ -1302,7 +1302,7 @@ _Last updated: 2026-06-03 00:06 UTC_
 | 50 | Asjha Jones | 682 |
 | 51 | Danielle Robinson | 680 |
 | 52 | Sheryl Swoopes | 677 |
-| 53 | **Natasha Cloud** 🔴 +1 | 674 |
+| 53 | **Natasha Cloud** 🔴 +2 | 675 |
 | 54 | Tammy Sutton-Brown | 672 |
 | 55 | Erica Wheeler | 671 |
 | 56 | Deanna Nolan | 669 |
@@ -1446,9 +1446,9 @@ _Last updated: 2026-06-03 00:06 UTC_
 | 194 | Michele Timms | 297 |
 | 195 | Kayla Thornton | 289 |
 | 196 | Alexis Hornbuckle | 288 |
+| 196 | **Azurá Stevens** 🔴 +2 | 288 |
 | 196 | Kristen Rasmussen | 288 |
 | 196 | **Rachel Banham** 🔴 | 288 |
-| 199 | **Azurá Stevens** 🔴 +1 | 287 |
 | 200 | Damiris Dantas | 286 |
 
 ## Personal fouls
