@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-03 03:55 UTC_
+_Last updated: 2026-06-03 03:56 UTC_
 
 ## Contents
 
@@ -229,7 +229,7 @@ _Last updated: 2026-06-03 03:55 UTC_
 | 3 | Candace Parker | 3,467 |
 | 4 | Rebekkah Brunson | 3,345 |
 | 5 | Tamika Catchings | 3,313 |
-| 6 | **Nneka Ogwumike** 🔴 +11 | 3,306 |
+| 6 | **Nneka Ogwumike** 🔴 +12 | 3,307 |
 | 7 | Lisa Leslie | 3,303 |
 | 8 | DeWanna Bonner | 3,232 |
 | 9 | Candice Dupree | 3,132 |
@@ -306,7 +306,7 @@ _Last updated: 2026-06-03 03:55 UTC_
 | 80 | Jewell Loyd | 1,347 |
 | 81 | Elena Baranova | 1,335 |
 | 82 | Brionna Jones | 1,333 |
-| 83 | **Kayla Thornton** 🔴 +7 | 1,332 |
+| 82 | **Kayla Thornton** 🔴 +8 | 1,333 |
 | 84 | Erlana Larkins | 1,329 |
 | 85 | Mwadi Mabika | 1,327 |
 | 86 | Jayne Appel Marinelli | 1,326 |
@@ -348,7 +348,7 @@ _Last updated: 2026-06-03 03:55 UTC_
 | 122 | Nicole Ohlde | 1,040 |
 | 123 | Tamecka Dixon | 1,035 |
 | 124 | Kamila Vodichkova | 1,031 |
-| 125 | **Jackie Young** 🔴 +2 | 1,029 |
+| 125 | **Jackie Young** 🔴 +3 | 1,030 |
 | 126 | Jasmine Thomas | 1,027 |
 | 127 | Cathrine Kraayeveld | 1,013 |
 | 128 | Kelly Miller | 1,011 |
