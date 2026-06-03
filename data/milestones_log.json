@@ -1,5 +1,19 @@
 [
   {
+    "ts": "2026-06-03T00:11:00+00:00",
+    "text": "Azur\u00e1 Stevens passed Alexis Hornbuckle, Kristen Rasmussen, and Rachel Banham for #196 all-time in turnovers (career 289) \u2014 up from #199 entering today \u2014 (6:35 - 2nd \u2014 CHI @ WSH)",
+    "kind": "rank_pass",
+    "player": "Azur\u00e1 Stevens",
+    "stat": "turnovers",
+    "rank": 196,
+    "passed_players": [
+      "Alexis Hornbuckle",
+      "Kristen Rasmussen",
+      "Rachel Banham"
+    ],
+    "new_total": 289
+  },
+  {
     "ts": "2026-06-02T03:45:00+00:00",
     "text": "Teaira McCowan passed Azur\u00e1 Stevens for #141 all-time in points (career 2,221) \u2014 up from #143 entering today \u2014 (6:03 - 4th \u2014 MIN @ PHX)",
     "kind": "rank_pass",
@@ -2983,17 +2997,5 @@
       "Natisha Hiedeman"
     ],
     "new_total": 188
-  },
-  {
-    "ts": "2026-05-19T00:41:00+00:00",
-    "text": "Arike Ogunbowale passed Maya Moore for #59 all-time in assists (career 897) \u2014 (7:28 - 2nd \u2014 WSH @ DAL)",
-    "kind": "rank_pass",
-    "player": "Arike Ogunbowale",
-    "stat": "assists",
-    "rank": 59,
-    "passed_players": [
-      "Maya Moore"
-    ],
-    "new_total": 897
   }
 ]

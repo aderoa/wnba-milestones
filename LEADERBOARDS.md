@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-03 00:10 UTC_
+_Last updated: 2026-06-03 00:11 UTC_
 
 ## Contents
 
@@ -68,7 +68,7 @@ _Last updated: 2026-06-03 00:10 UTC_
 | 47 | Sophia Young-Malcolm | 4,300 |
 | 48 | Plenette Pierson | 4,258 |
 | 49 | Monique Currie | 4,253 |
-| 50 | **Allisha Gray** 🔴 +9 | 4,241 |
+| 50 | **Allisha Gray** 🔴 +12 | 4,244 |
 | 51 | Vickie Johnson | 4,230 |
 | 52 | Yolanda Griffith | 4,224 |
 | 53 | Dearica Hamby | 4,158 |
@@ -165,8 +165,8 @@ _Last updated: 2026-06-03 00:10 UTC_
 | 144 | Sami Whitcomb | 2,211 |
 | 145 | Sophia Witherspoon | 2,210 |
 | 146 | Kia Nurse | 2,204 |
-| 147 | **Jordin Canada** 🔴 +1 | 2,175 |
-| 147 | Ruthie Bolton | 2,175 |
+| 147 | **Jordin Canada** 🔴 +3 | 2,177 |
+| 148 | Ruthie Bolton | 2,175 |
 | 149 | Ann Wauters | 2,170 |
 | 150 | Layshia Clarendon | 2,168 |
 | 151 | Satou Sabally | 2,161 |
@@ -298,7 +298,7 @@ _Last updated: 2026-06-03 00:10 UTC_
 | 72 | Courtney Vandersloot | 1,383 |
 | 72 | Katie Smith | 1,383 |
 | 74 | Ebony Hoffman | 1,376 |
-| 75 | **Allisha Gray** 🔴 +3 | 1,371 |
+| 75 | **Allisha Gray** 🔴 +4 | 1,372 |
 | 76 | Monique Billings | 1,367 |
 | 77 | Sheri Sam | 1,356 |
 | 78 | Tamika Whitmore | 1,355 |
@@ -557,7 +557,7 @@ _Last updated: 2026-06-03 00:10 UTC_
 | 125 | Coco Miller | 503 |
 | 127 | Veronica Burton | 501 |
 | 128 | **Rachel Banham** 🔴 | 498 |
-| 129 | **Rhyne Howard** 🔴 | 490 |
+| 129 | **Rhyne Howard** 🔴 +1 | 491 |
 | 130 | Caitlin Clark | 488 |
 | 130 | Crystal Robinson | 488 |
 | 130 | Tiffany Mitchell | 488 |
@@ -635,7 +635,7 @@ _Last updated: 2026-06-03 00:10 UTC_
 | Rank | Player | Total |
 |-----:|--------|------:|
 | 1 | Margo Dydek | 873 |
-| 2 | **Brittney Griner** 🔴 | 859 |
+| 2 | **Brittney Griner** 🔴 +1 | 860 |
 | 3 | Lisa Leslie | 818 |
 | 4 | Sylvia Fowles | 721 |
 | 5 | Candace Parker | 619 |
@@ -1075,8 +1075,8 @@ _Last updated: 2026-06-03 00:10 UTC_
 | 28 | Tiffany Hayes | 447 |
 | 29 | Ariel Atkins | 440 |
 | 30 | Lauren Jackson | 436 |
+| 31 | **Allisha Gray** 🔴 +2 | 434 |
 | 31 | Shameka Christon | 434 |
-| 32 | **Allisha Gray** 🔴 +1 | 433 |
 | 33 | **Skylar Diggins** 🔴 +1 | 429 |
 | 34 | Crystal Robinson | 425 |
 | 35 | Chelsea Gray | 423 |
@@ -1204,7 +1204,7 @@ _Last updated: 2026-06-03 00:10 UTC_
 | 157 | Loree Moore | 138 |
 | 157 | Tanisha Wright | 138 |
 | 159 | Kaleena Mosqueda-Lewis | 137 |
-| 160 | **Michaela Onyenwere** 🔴 | 136 |
+| 159 | **Michaela Onyenwere** 🔴 +1 | 137 |
 | 161 | Shay Murphy | 134 |
 | 162 | Brooke Wyckoff | 132 |
 | 162 | Jenna O'Hea | 132 |
@@ -1444,11 +1444,11 @@ _Last updated: 2026-06-03 00:10 UTC_
 | 192 | Isabelle Harrison | 300 |
 | 193 | Crystal Robinson | 299 |
 | 194 | Michele Timms | 297 |
+| 195 | **Azurá Stevens** 🔴 +3 | 289 |
 | 195 | Kayla Thornton | 289 |
-| 196 | Alexis Hornbuckle | 288 |
-| 196 | **Azurá Stevens** 🔴 +2 | 288 |
-| 196 | Kristen Rasmussen | 288 |
-| 196 | **Rachel Banham** 🔴 | 288 |
+| 197 | Alexis Hornbuckle | 288 |
+| 197 | Kristen Rasmussen | 288 |
+| 197 | **Rachel Banham** 🔴 | 288 |
 | 200 | Damiris Dantas | 286 |
 
 ## Personal fouls

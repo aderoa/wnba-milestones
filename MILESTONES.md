@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-03 00:11 UTC
+
+- **Azurá Stevens** passed **Alexis Hornbuckle**, **Kristen Rasmussen**, and **Rachel Banham** for **#196** all-time in turnovers (career 289) — up from #199 entering today — _6:35 - 2nd — CHI @ WSH_
+
 ## 2026-06-02 03:45 UTC
 
 - **Teaira McCowan** passed **Azurá Stevens** for **#141** all-time in points (career 2,221) — up from #143 entering today — _6:03 - 4th — MIN @ PHX_
