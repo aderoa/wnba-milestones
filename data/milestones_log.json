@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-03T00:50:00+00:00",
+    "text": "Azur\u00e1 Stevens passed Nia Coffey for #190 all-time in fouls (career 466) \u2014 up from #191 entering today \u2014 (7:50 - 3rd \u2014 CHI @ WSH)",
+    "kind": "rank_pass",
+    "player": "Azur\u00e1 Stevens",
+    "stat": "fouls",
+    "rank": 190,
+    "passed_players": [
+      "Nia Coffey"
+    ],
+    "new_total": 466
+  },
+  {
     "ts": "2026-06-03T00:26:00+00:00",
     "text": "Brittney Griner passed Kara Braxton for #200 all-time in steals (career 169) \u2014 (27.8 - 2nd \u2014 CON @ ATL)",
     "kind": "rank_pass",
@@ -2984,17 +2996,5 @@
       "Kelsey Plum"
     ],
     "new_total": 722
-  },
-  {
-    "ts": "2026-05-19T00:58:00+00:00",
-    "text": "Arike Ogunbowale passed Armintie Herrington for #76 all-time in steals (career 341) \u2014 (39.5 - 2nd \u2014 WSH @ DAL)",
-    "kind": "rank_pass",
-    "player": "Arike Ogunbowale",
-    "stat": "steals",
-    "rank": 76,
-    "passed_players": [
-      "Armintie Herrington"
-    ],
-    "new_total": 341
   }
 ]

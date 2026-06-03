@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-03 00:49 UTC_
+_Last updated: 2026-06-03 00:50 UTC_
 
 ## Contents
 
@@ -68,7 +68,7 @@ _Last updated: 2026-06-03 00:49 UTC_
 | 47 | Sophia Young-Malcolm | 4,300 |
 | 48 | Plenette Pierson | 4,258 |
 | 49 | Monique Currie | 4,253 |
-| 50 | **Allisha Gray** 🔴 +18 | 4,250 |
+| 50 | **Allisha Gray** 🔴 +20 | 4,252 |
 | 51 | Vickie Johnson | 4,230 |
 | 52 | Yolanda Griffith | 4,224 |
 | 53 | Dearica Hamby | 4,158 |
@@ -1272,7 +1272,7 @@ _Last updated: 2026-06-03 00:49 UTC_
 | 20 | Shannon Johnson | 934 |
 | 21 | Taj McWilliams-Franklin | 898 |
 | 22 | Chelsea Gray | 888 |
-| 23 | **Skylar Diggins** 🔴 | 881 |
+| 23 | **Skylar Diggins** 🔴 +1 | 882 |
 | 24 | Candice Dupree | 869 |
 | 25 | Alana Beard | 854 |
 | 26 | DeWanna Bonner | 830 |
@@ -1644,8 +1644,8 @@ _Last updated: 2026-06-03 00:49 UTC_
 | 187 | Seimone Augustus | 477 |
 | 188 | Allie Quigley | 475 |
 | 189 | Kia Nurse | 467 |
-| 190 | **Azurá Stevens** 🔴 +2 | 465 |
-| 190 | Nia Coffey | 465 |
+| 190 | **Azurá Stevens** 🔴 +3 | 466 |
+| 191 | Nia Coffey | 465 |
 | 192 | Christi Thomas | 463 |
 | 192 | Nikki Teasley | 463 |
 | 194 | Sue Wicks | 462 |

@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-03 00:50 UTC
+
+- **Azurá Stevens** passed **Nia Coffey** for **#190** all-time in fouls (career 466) — up from #191 entering today — _7:50 - 3rd — CHI @ WSH_
+
 ## 2026-06-03 00:26 UTC
 
 - **Brittney Griner** passed **Kara Braxton** for **#200** all-time in steals (career 169) — _27.8 - 2nd — CON @ ATL_
