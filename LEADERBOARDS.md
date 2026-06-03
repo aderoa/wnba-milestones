@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-03 01:35 UTC_
+_Last updated: 2026-06-03 01:36 UTC_
 
 ## Contents
 
@@ -147,7 +147,7 @@ _Last updated: 2026-06-03 01:35 UTC_
 | 126 | Ruth Riley | 2,434 |
 | 127 | Svetlana Abrosimova | 2,414 |
 | 128 | Anna DeForge | 2,413 |
-| 129 | **Rhyne Howard** 🔴 +35 | 2,393 |
+| 129 | **Rhyne Howard** 🔴 +36 | 2,394 |
 | 130 | DeMya Walker | 2,379 |
 | 131 | Alex Bentley | 2,350 |
 | 132 | Merlakia Jones | 2,308 |
@@ -165,7 +165,7 @@ _Last updated: 2026-06-03 01:35 UTC_
 | 144 | Sami Whitcomb | 2,211 |
 | 145 | Sophia Witherspoon | 2,210 |
 | 146 | Kia Nurse | 2,204 |
-| 147 | **Jordin Canada** 🔴 +9 | 2,183 |
+| 147 | **Jordin Canada** 🔴 +12 | 2,186 |
 | 148 | Ruthie Bolton | 2,175 |
 | 149 | Ann Wauters | 2,170 |
 | 150 | Layshia Clarendon | 2,168 |
@@ -1222,11 +1222,11 @@ _Last updated: 2026-06-03 01:35 UTC_
 | 175 | Sidney Spencer | 122 |
 | 176 | Tonya Edwards | 118 |
 | 177 | Edwige Lawson-Wade | 116 |
+| 177 | **Jordin Canada** 🔴 +1 | 116 |
 | 177 | Marie Ferdinand-Harris | 116 |
-| 179 | Ebony Hoffman | 115 |
-| 179 | **Jordin Canada** 🔴 | 115 |
-| 179 | Shey Peddy | 115 |
-| 179 | Stephanie White | 115 |
+| 180 | Ebony Hoffman | 115 |
+| 180 | Shey Peddy | 115 |
+| 180 | Stephanie White | 115 |
 | 183 | Gordana Grubin | 114 |
 | 183 | Rickea Jackson | 114 |
 | 183 | Sandy Brondello | 114 |
