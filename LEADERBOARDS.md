@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-03 02:38 UTC_
+_Last updated: 2026-06-03 02:39 UTC_
 
 ## Contents
 
@@ -94,11 +94,11 @@ _Last updated: 2026-06-03 02:38 UTC_
 | 73 | Tamecka Dixon | 3,507 |
 | 74 | Tammy Sutton-Brown | 3,498 |
 | 75 | Sancho Lyttle | 3,478 |
-| 76 | **Jackie Young** 🔴 +3 | 3,471 |
+| 76 | **Jackie Young** 🔴 +6 | 3,474 |
 | 77 | Ivory Latta | 3,447 |
 | 78 | Nicole Powell | 3,407 |
 | 79 | Epiphanny Prince | 3,381 |
-| 80 | **Ariel Atkins** 🔴 +4 | 3,375 |
+| 80 | **Ariel Atkins** 🔴 +7 | 3,378 |
 | 81 | Michelle Snow | 3,361 |
 | 82 | Tamika Whitmore | 3,359 |
 | 83 | Sheri Sam | 3,353 |
@@ -230,7 +230,7 @@ _Last updated: 2026-06-03 02:38 UTC_
 | 4 | Rebekkah Brunson | 3,345 |
 | 5 | Tamika Catchings | 3,313 |
 | 6 | Lisa Leslie | 3,303 |
-| 7 | **Nneka Ogwumike** 🔴 +3 | 3,298 |
+| 7 | **Nneka Ogwumike** 🔴 +4 | 3,299 |
 | 8 | DeWanna Bonner | 3,232 |
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
@@ -307,8 +307,8 @@ _Last updated: 2026-06-03 02:38 UTC_
 | 81 | Elena Baranova | 1,335 |
 | 82 | Brionna Jones | 1,333 |
 | 83 | Erlana Larkins | 1,329 |
-| 84 | **Kayla Thornton** 🔴 +2 | 1,327 |
-| 84 | Mwadi Mabika | 1,327 |
+| 84 | **Kayla Thornton** 🔴 +3 | 1,328 |
+| 85 | Mwadi Mabika | 1,327 |
 | 86 | Jayne Appel Marinelli | 1,326 |
 | 87 | Betty Lennox | 1,296 |
 | 88 | Tari Phillips | 1,274 |
@@ -407,7 +407,7 @@ _Last updated: 2026-06-03 02:38 UTC_
 | 180 | Kelsey Bone | 769 |
 | 180 | Tan White | 769 |
 | 183 | Tully Bevilaqua | 767 |
-| 184 | **Ariel Atkins** 🔴 +1 | 765 |
+| 184 | **Ariel Atkins** 🔴 +2 | 766 |
 | 185 | Layshia Clarendon | 756 |
 | 186 | Brooke Wyckoff | 751 |
 | 187 | Coco Miller | 750 |
@@ -434,7 +434,7 @@ _Last updated: 2026-06-03 02:38 UTC_
 | 3 | Ticha Penicheiro | 2,588 |
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
-| 6 | **Chelsea Gray** 🔴 +3 | 1,906 |
+| 6 | **Chelsea Gray** 🔴 +4 | 1,907 |
 | 7 | Alyssa Thomas | 1,854 |
 | 8 | Skylar Diggins | 1,786 |
 | 9 | Natasha Cloud | 1,750 |
@@ -553,7 +553,7 @@ _Last updated: 2026-06-03 02:38 UTC_
 | 122 | Iziane Castro Marques | 509 |
 | 123 | Brittany Boyd-Jones | 508 |
 | 123 | Chasity Melvin | 508 |
-| 125 | **Veronica Burton** 🔴 +4 | 505 |
+| 125 | **Veronica Burton** 🔴 +5 | 506 |
 | 126 | Anna DeForge | 503 |
 | 126 | Coco Miller | 503 |
 | 128 | Rachel Banham | 500 |
@@ -943,10 +943,10 @@ _Last updated: 2026-06-03 02:38 UTC_
 | 102 | Elizabeth Williams | 287 |
 | 103 | Essence Carson | 285 |
 | 104 | Seimone Augustus | 280 |
+| 105 | **Jackie Young** 🔴 +1 | 277 |
 | 105 | Tari Phillips | 277 |
-| 106 | Emma Meesseman | 276 |
-| 106 | Erika de Souza | 276 |
-| 106 | **Jackie Young** 🔴 | 276 |
+| 107 | Emma Meesseman | 276 |
+| 107 | Erika de Souza | 276 |
 | 109 | Rita Williams | 271 |
 | 110 | Natalie Williams | 270 |
 | 110 | Nicky Anosike | 270 |
@@ -1073,7 +1073,7 @@ _Last updated: 2026-06-03 02:38 UTC_
 | 26 | Breanna Stewart | 456 |
 | 27 | Marina Mabrey | 448 |
 | 28 | **Tiffany Hayes** 🔴 | 447 |
-| 29 | **Ariel Atkins** 🔴 | 440 |
+| 29 | **Ariel Atkins** 🔴 +1 | 441 |
 | 30 | Lauren Jackson | 436 |
 | 31 | Allisha Gray | 435 |
 | 32 | Shameka Christon | 434 |
@@ -1105,8 +1105,8 @@ _Last updated: 2026-06-03 02:38 UTC_
 | 58 | Anna DeForge | 334 |
 | 59 | Natasha Cloud | 333 |
 | 60 | **Erica Wheeler** 🔴 | 322 |
+| 61 | **Jackie Young** 🔴 +2 | 317 |
 | 61 | Sugar Rodgers | 317 |
-| 62 | **Jackie Young** 🔴 +1 | 316 |
 | 63 | Marissa Coleman | 315 |
 | 64 | Shannon Johnson | 313 |
 | 65 | DeLisha Milton-Jones | 312 |
