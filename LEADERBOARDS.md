@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-03 02:53 UTC_
+_Last updated: 2026-06-03 02:54 UTC_
 
 ## Contents
 
@@ -152,7 +152,7 @@ _Last updated: 2026-06-03 02:53 UTC_
 | 131 | Alex Bentley | 2,350 |
 | 132 | Merlakia Jones | 2,308 |
 | 133 | Kia Vaughn | 2,288 |
-| 134 | **Kayla Thornton** 🔴 +11 | 2,278 |
+| 134 | **Kayla Thornton** 🔴 +14 | 2,281 |
 | 135 | Betnijah Laney-Hamilton | 2,261 |
 | 136 | Allison Feaster | 2,258 |
 | 137 | Shekinna Stricklen | 2,245 |
@@ -540,9 +540,9 @@ _Last updated: 2026-06-03 02:53 UTC_
 | 109 | Napheesa Collier | 570 |
 | 110 | Nicole Powell | 567 |
 | 111 | Loree Moore | 562 |
-| 112 | **Gabby Williams** 🔴 | 554 |
-| 112 | Sophia Young-Malcolm | 554 |
-| 112 | Tangela Smith | 554 |
+| 112 | **Gabby Williams** 🔴 +1 | 555 |
+| 113 | Sophia Young-Malcolm | 554 |
+| 113 | Tangela Smith | 554 |
 | 115 | Tamera Young | 552 |
 | 116 | Janel McCarville | 551 |
 | 116 | Svetlana Abrosimova | 551 |
@@ -1123,7 +1123,7 @@ _Last updated: 2026-06-03 02:53 UTC_
 | 76 | Alana Beard | 288 |
 | 76 | Natisha Hiedeman | 288 |
 | 78 | Monique Currie | 284 |
-| 79 | **Kayla Thornton** 🔴 +3 | 279 |
+| 79 | **Kayla Thornton** 🔴 +4 | 280 |
 | 80 | Iziane Castro Marques | 275 |
 | 81 | **Bridget Carleton** 🔴 +2 | 274 |
 | 82 | Sheryl Swoopes | 270 |
