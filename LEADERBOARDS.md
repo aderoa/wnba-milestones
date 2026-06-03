@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-03 01:23 UTC_
+_Last updated: 2026-06-03 01:24 UTC_
 
 ## Contents
 
@@ -1369,7 +1369,7 @@ _Last updated: 2026-06-03 01:23 UTC_
 | 117 | Ebony Hoffman | 470 |
 | 118 | Elaine Powell | 469 |
 | 119 | Allie Quigley | 467 |
-| 120 | **Allisha Gray** 🔴 +1 | 456 |
+| 120 | **Allisha Gray** 🔴 +2 | 457 |
 | 121 | A'ja Wilson | 454 |
 | 121 | Kia Vaughn | 454 |
 | 123 | Janeth Arcain | 453 |
@@ -1525,7 +1525,7 @@ _Last updated: 2026-06-03 01:23 UTC_
 | 68 | Vickie Johnson | 752 |
 | 69 | Kara Braxton | 748 |
 | 70 | Crystal Langhorne | 737 |
-| 71 | **Natasha Cloud** 🔴 +5 | 736 |
+| 70 | **Natasha Cloud** 🔴 +6 | 737 |
 | 72 | Shameka Christon | 734 |
 | 73 | Becky Hammon | 733 |
 | 74 | Latasha Byears | 730 |
