@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-03 03:36 UTC_
+_Last updated: 2026-06-03 03:37 UTC_
 
 ## Contents
 
@@ -1039,6 +1039,7 @@ _Last updated: 2026-06-03 03:36 UTC_
 | 198 | Kamila Vodichkova | 173 |
 | 199 | Brittney Griner | 170 |
 | 200 | Kara Braxton | 168 |
+| 200 | **Kiah Stokes** 🔴 +2 | 168 |
 | 200 | Sugar Rodgers | 168 |
 
 ## Three-pointers
