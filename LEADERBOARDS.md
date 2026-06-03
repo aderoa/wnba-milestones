@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-03 02:33 UTC_
+_Last updated: 2026-06-03 02:34 UTC_
 
 ## Contents
 
@@ -247,7 +247,7 @@ _Last updated: 2026-06-03 02:33 UTC_
 | 21 | Crystal Langhorne | 2,454 |
 | 22 | Lauren Jackson | 2,444 |
 | 23 | Yolanda Griffith | 2,440 |
-| 24 | **Dearica Hamby** 🔴 | 2,346 |
+| 24 | **Dearica Hamby** 🔴 +1 | 2,347 |
 | 25 | Tangela Smith | 2,328 |
 | 26 | Erika de Souza | 2,220 |
 | 27 | Natasha Howard | 2,204 |
@@ -290,7 +290,7 @@ _Last updated: 2026-06-03 02:33 UTC_
 | 64 | Sue Bird | 1,466 |
 | 65 | Alysha Clark | 1,459 |
 | 66 | Nicole Powell | 1,457 |
-| 67 | **Cheyenne Parker-Tyus** 🔴 +3 | 1,439 |
+| 67 | **Cheyenne Parker-Tyus** 🔴 +4 | 1,440 |
 | 68 | Tamera Young | 1,433 |
 | 69 | Alana Beard | 1,420 |
 | 70 | Nakia Sanford | 1,419 |
@@ -407,7 +407,7 @@ _Last updated: 2026-06-03 02:33 UTC_
 | 180 | Kelsey Bone | 769 |
 | 180 | Tan White | 769 |
 | 183 | Tully Bevilaqua | 767 |
-| 184 | **Ariel Atkins** 🔴 | 764 |
+| 184 | **Ariel Atkins** 🔴 +1 | 765 |
 | 185 | Layshia Clarendon | 756 |
 | 186 | Brooke Wyckoff | 751 |
 | 187 | Coco Miller | 750 |
@@ -1280,7 +1280,7 @@ _Last updated: 2026-06-03 02:33 UTC_
 | 28 | Natasha Howard | 804 |
 | 29 | Betty Lennox | 800 |
 | 30 | Jasmine Thomas | 796 |
-| 31 | **Nneka Ogwumike** 🔴 +1 | 792 |
+| 31 | **Nneka Ogwumike** 🔴 +2 | 793 |
 | 32 | Chamique Holdsclaw | 789 |
 | 33 | Jewell Loyd | 785 |
 | 34 | Crystal Langhorne | 782 |
@@ -1572,7 +1572,7 @@ _Last updated: 2026-06-03 02:33 UTC_
 | 115 | Coco Miller | 615 |
 | 116 | Brooke Wyckoff | 614 |
 | 117 | Svetlana Abrosimova | 613 |
-| 118 | **Chelsea Gray** 🔴 +1 | 610 |
+| 118 | **Chelsea Gray** 🔴 +2 | 611 |
 | 119 | Layshia Clarendon | 609 |
 | 120 | Odyssey Sims | 604 |
 | 120 | Tiffany Mitchell | 604 |
