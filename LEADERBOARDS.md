@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-03 02:44 UTC_
+_Last updated: 2026-06-03 02:45 UTC_
 
 ## Contents
 
@@ -406,8 +406,8 @@ _Last updated: 2026-06-03 02:44 UTC_
 | 180 | Anna DeForge | 769 |
 | 180 | Kelsey Bone | 769 |
 | 180 | Tan White | 769 |
+| 183 | **Ariel Atkins** 🔴 +3 | 767 |
 | 183 | Tully Bevilaqua | 767 |
-| 184 | **Ariel Atkins** 🔴 +2 | 766 |
 | 185 | Layshia Clarendon | 756 |
 | 186 | Brooke Wyckoff | 751 |
 | 187 | Coco Miller | 750 |
@@ -825,10 +825,10 @@ _Last updated: 2026-06-03 02:44 UTC_
 | 188 | Wendy Palmer | 70 |
 | 190 | Mercedes Russell | 69 |
 | 190 | Rhonda Mapp | 69 |
-| 192 | **Cameron Brink** 🔴 | 67 |
-| 192 | **Jackie Young** 🔴 | 67 |
-| 192 | Satou Sabally | 67 |
-| 192 | Shannon Johnson | 67 |
+| 192 | **Cameron Brink** 🔴 +1 | 68 |
+| 193 | **Jackie Young** 🔴 | 67 |
+| 193 | Satou Sabally | 67 |
+| 193 | Shannon Johnson | 67 |
 | 196 | Awak Kuier | 66 |
 | 197 | Crystal Robinson | 65 |
 | 197 | Queen Egbo | 65 |
