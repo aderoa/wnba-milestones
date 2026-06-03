@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-03 02:07 UTC_
+_Last updated: 2026-06-03 02:08 UTC_
 
 ## Contents
 
@@ -212,7 +212,7 @@ _Last updated: 2026-06-03 02:07 UTC_
 | 191 | Armintie Herrington | 1,696 |
 | 192 | Nikki Teasley | 1,690 |
 | 193 | Shenise Johnson | 1,688 |
-| 194 | **Gabby Williams** 🔴 | 1,634 |
+| 194 | **Gabby Williams** 🔴 +2 | 1,636 |
 | 195 | Janell Burse | 1,580 |
 | 196 | Le'coe Willingham | 1,552 |
 | 197 | Shatori Walker-Kimbrough | 1,544 |
@@ -265,7 +265,7 @@ _Last updated: 2026-06-03 02:07 UTC_
 | 39 | Lindsay Whalen | 1,805 |
 | 40 | Camille Smith | 1,802 |
 | 41 | Courtney Williams | 1,766 |
-| 42 | **Kiah Stokes** 🔴 | 1,760 |
+| 42 | **Kiah Stokes** 🔴 +1 | 1,761 |
 | 43 | Asjha Jones | 1,751 |
 | 44 | Teaira McCowan | 1,670 |
 | 45 | Stefanie Dolson | 1,667 |
@@ -467,7 +467,7 @@ _Last updated: 2026-06-03 02:07 UTC_
 | 36 | Katie Douglas | 1,069 |
 | 37 | Sabrina Ionescu | 1,067 |
 | 38 | Alana Beard | 1,061 |
-| 39 | **Jackie Young** 🔴 | 1,060 |
+| 38 | **Jackie Young** 🔴 +1 | 1,061 |
 | 40 | Penny Taylor | 1,049 |
 | 41 | Dominique Canty | 1,042 |
 | 42 | Sheryl Swoopes | 1,037 |
@@ -484,7 +484,7 @@ _Last updated: 2026-06-03 02:07 UTC_
 | 53 | Angel McCoughtry | 915 |
 | 54 | Layshia Clarendon | 911 |
 | 54 | Seimone Augustus | 911 |
-| 56 | **Nneka Ogwumike** 🔴 | 904 |
+| 56 | **Nneka Ogwumike** 🔴 +1 | 905 |
 | 57 | Candice Dupree | 902 |
 | 58 | Arike Ogunbowale | 896 |
 | 58 | Maya Moore | 896 |
