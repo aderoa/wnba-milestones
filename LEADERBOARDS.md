@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-03 02:19 UTC_
+_Last updated: 2026-06-03 02:20 UTC_
 
 ## Contents
 
@@ -913,9 +913,9 @@ _Last updated: 2026-06-03 02:19 UTC_
 | 72 | Helen Darling | 343 |
 | 73 | Andrea Stinson | 342 |
 | 73 | Natasha Cloud | 342 |
+| 75 | **A'ja Wilson** 🔴 +1 | 340 |
 | 75 | Arike Ogunbowale | 340 |
 | 75 | Armintie Herrington | 340 |
-| 77 | **A'ja Wilson** 🔴 | 339 |
 | 78 | Dawn Staley | 338 |
 | 79 | Marie Ferdinand-Harris | 331 |
 | 80 | Chasity Melvin | 330 |
@@ -1189,9 +1189,9 @@ _Last updated: 2026-06-03 02:19 UTC_
 | 142 | Alanna Smith | 152 |
 | 143 | Marine Johannès | 151 |
 | 144 | Rita Williams | 150 |
-| 145 | Moriah Jefferson | 149 |
-| 145 | **Stephanie Talbot** 🔴 | 149 |
-| 145 | Tiffany Mitchell | 149 |
+| 144 | **Stephanie Talbot** 🔴 +1 | 150 |
+| 146 | Moriah Jefferson | 149 |
+| 146 | Tiffany Mitchell | 149 |
 | 148 | Diamond DeShields | 147 |
 | 149 | Wendy Palmer | 146 |
 | 150 | Helen Darling | 144 |
@@ -1375,7 +1375,7 @@ _Last updated: 2026-06-03 02:19 UTC_
 | 123 | Janeth Arcain | 453 |
 | 124 | Elena Baranova | 444 |
 | 124 | Jantel Lavender | 444 |
-| 126 | **Ariel Atkins** 🔴 | 442 |
+| 126 | **Ariel Atkins** 🔴 +1 | 443 |
 | 127 | Betnijah Laney-Hamilton | 441 |
 | 128 | Ann Wauters | 440 |
 | 129 | Cheyenne Parker-Tyus | 439 |
