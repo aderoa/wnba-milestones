@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-03 23:53 UTC_
+_Last updated: 2026-06-03 23:54 UTC_
 
 ## Contents
 
@@ -74,7 +74,7 @@ _Last updated: 2026-06-03 23:53 UTC_
 | 53 | Dearica Hamby | 4,228 |
 | 54 | Yolanda Griffith | 4,224 |
 | 55 | Courtney Williams | 4,221 |
-| 56 | **Jonquel Jones** 🔴 +7 | 4,207 |
+| 56 | **Jonquel Jones** 🔴 +9 | 4,209 |
 | 57 | Rebekkah Brunson | 4,133 |
 | 58 | Asjha Jones | 3,986 |
 | 59 | Deanna Nolan | 3,971 |
@@ -83,7 +83,7 @@ _Last updated: 2026-06-03 23:53 UTC_
 | 62 | Allie Quigley | 3,786 |
 | 63 | Chasity Melvin | 3,781 |
 | 64 | Kara Lawson | 3,670 |
-| 65 | **Brittney Sykes** 🔴 | 3,604 |
+| 65 | **Brittney Sykes** 🔴 +2 | 3,606 |
 | 66 | Mwadi Mabika | 3,576 |
 | 67 | Odyssey Sims | 3,574 |
 | 68 | Camille Smith | 3,551 |
@@ -236,7 +236,7 @@ _Last updated: 2026-06-03 23:53 UTC_
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | Alyssa Thomas | 2,808 |
-| 13 | **Jonquel Jones** 🔴 +2 | 2,648 |
+| 13 | **Jonquel Jones** 🔴 +4 | 2,650 |
 | 14 | Sancho Lyttle | 2,596 |
 | 15 | A'ja Wilson | 2,574 |
 | 15 | DeLisha Milton-Jones | 2,574 |
@@ -494,7 +494,7 @@ _Last updated: 2026-06-03 23:53 UTC_
 | 63 | Noelle Quinn | 878 |
 | 64 | Lisa Leslie | 873 |
 | 65 | Tully Bevilaqua | 853 |
-| 66 | **Brittney Sykes** 🔴 | 851 |
+| 66 | **Brittney Sykes** 🔴 +1 | 852 |
 | 67 | Jia Perkins | 837 |
 | 68 | Kelsey Mitchell | 819 |
 | 69 | Andrea Stinson | 810 |
@@ -898,7 +898,7 @@ _Last updated: 2026-06-03 23:53 UTC_
 | 56 | Monique Currie | 378 |
 | 58 | Chamique Holdsclaw | 376 |
 | 59 | Mwadi Mabika | 370 |
-| 60 | **Brittney Sykes** 🔴 +1 | 365 |
+| 60 | **Brittney Sykes** 🔴 +2 | 366 |
 | 61 | Lauren Jackson | 360 |
 | 61 | Tan White | 360 |
 | 63 | Allisha Gray | 358 |
@@ -1424,7 +1424,7 @@ _Last updated: 2026-06-03 23:53 UTC_
 | 173 | Aerial Powers | 333 |
 | 173 | Diamond DeShields | 333 |
 | 175 | Charde Houston | 331 |
-| 176 | **Satou Sabally** 🔴 | 328 |
+| 176 | **Satou Sabally** 🔴 +1 | 329 |
 | 177 | Erlana Larkins | 326 |
 | 177 | Rita Williams | 326 |
 | 179 | Le'coe Willingham | 325 |
