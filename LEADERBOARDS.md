@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-03 00:03 UTC_
+_Last updated: 2026-06-03 00:04 UTC_
 
 ## Contents
 
@@ -315,7 +315,7 @@ _Last updated: 2026-06-03 00:03 UTC_
 | 89 | Janel McCarville | 1,261 |
 | 90 | Liz Cambage | 1,258 |
 | 91 | Ezi Magbegor | 1,243 |
-| 92 | **Azurá Stevens** 🔴 +1 | 1,238 |
+| 92 | **Azurá Stevens** 🔴 +2 | 1,239 |
 | 93 | Tiffany Hayes | 1,233 |
 | 94 | Brianna Turner | 1,229 |
 | 95 | Seimone Augustus | 1,228 |
@@ -417,8 +417,8 @@ _Last updated: 2026-06-03 00:03 UTC_
 | 191 | Shenise Johnson | 729 |
 | 192 | Sami Whitcomb | 726 |
 | 192 | Shekinna Stricklen | 726 |
-| 194 | Kelsey Plum | 721 |
-| 194 | **Shakira Austin** 🔴 +2 | 721 |
+| 194 | **Shakira Austin** 🔴 +3 | 722 |
+| 195 | Kelsey Plum | 721 |
 | 196 | Olympia Scott | 711 |
 | 197 | Katie Mattera | 708 |
 | 198 | Rushia Brown | 706 |
@@ -895,9 +895,9 @@ _Last updated: 2026-06-03 00:03 UTC_
 | 54 | Monique Currie | 378 |
 | 54 | Tiffany Hayes | 378 |
 | 56 | Chamique Holdsclaw | 376 |
+| 57 | **Jordin Canada** 🔴 +1 | 370 |
 | 57 | Mwadi Mabika | 370 |
-| 58 | Ariel Atkins | 369 |
-| 58 | **Jordin Canada** 🔴 | 369 |
+| 59 | Ariel Atkins | 369 |
 | 60 | Brittney Sykes | 362 |
 | 61 | Lauren Jackson | 360 |
 | 61 | Tan White | 360 |
