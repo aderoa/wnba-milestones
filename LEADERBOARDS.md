@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-02 23:59 UTC_
+_Last updated: 2026-06-03 00:00 UTC_
 
 ## Contents
 
@@ -895,9 +895,9 @@ _Last updated: 2026-06-02 23:59 UTC_
 | 54 | Monique Currie | 378 |
 | 54 | Tiffany Hayes | 378 |
 | 56 | Chamique Holdsclaw | 376 |
-| 57 | **Jordin Canada** 🔴 +1 | 370 |
 | 57 | Mwadi Mabika | 370 |
-| 59 | Ariel Atkins | 369 |
+| 58 | Ariel Atkins | 369 |
+| 58 | **Jordin Canada** 🔴 | 369 |
 | 60 | Brittney Sykes | 362 |
 | 61 | Lauren Jackson | 360 |
 | 61 | Tan White | 360 |
@@ -1302,7 +1302,7 @@ _Last updated: 2026-06-02 23:59 UTC_
 | 50 | Asjha Jones | 682 |
 | 51 | Danielle Robinson | 680 |
 | 52 | Sheryl Swoopes | 677 |
-| 53 | **Natasha Cloud** 🔴 | 673 |
+| 53 | **Natasha Cloud** 🔴 +1 | 674 |
 | 54 | Tammy Sutton-Brown | 672 |
 | 55 | Erica Wheeler | 671 |
 | 56 | Deanna Nolan | 669 |
@@ -1358,7 +1358,7 @@ _Last updated: 2026-06-02 23:59 UTC_
 | 106 | Jia Perkins | 513 |
 | 107 | Arike Ogunbowale | 509 |
 | 108 | Tamera Young | 501 |
-| 109 | **Jordin Canada** 🔴 +2 | 498 |
+| 109 | **Jordin Canada** 🔴 +1 | 497 |
 | 110 | Marina Mabrey | 494 |
 | 111 | Nikki Teasley | 493 |
 | 111 | Tari Phillips | 493 |
