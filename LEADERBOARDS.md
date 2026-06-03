@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-03 01:07 UTC_
+_Last updated: 2026-06-03 01:08 UTC_
 
 ## Contents
 
@@ -120,8 +120,8 @@ _Last updated: 2026-06-03 01:07 UTC_
 | 99 | Natalie Williams | 2,894 |
 | 100 | Jennifer Gillom | 2,888 |
 | 100 | **Natasha Cloud** 🔴 | 2,888 |
+| 102 | **Elizabeth Williams** 🔴 +6 | 2,862 |
 | 102 | Iziane Castro Marques | 2,862 |
-| 103 | **Elizabeth Williams** 🔴 +4 | 2,860 |
 | 104 | Alysha Clark | 2,792 |
 | 105 | Jantel Lavender | 2,775 |
 | 106 | Brionna Jones | 2,765 |
@@ -200,7 +200,7 @@ _Last updated: 2026-06-03 01:07 UTC_
 | 179 | Noelle Quinn | 1,824 |
 | 180 | Danielle Adams | 1,820 |
 | 181 | Charde Houston | 1,797 |
-| 182 | **Rachel Banham** 🔴 +3 | 1,791 |
+| 182 | **Rachel Banham** 🔴 +5 | 1,793 |
 | 183 | Kamila Vodichkova | 1,767 |
 | 184 | Tully Bevilaqua | 1,763 |
 | 185 | Sandy Brondello | 1,759 |
@@ -256,7 +256,7 @@ _Last updated: 2026-06-03 01:07 UTC_
 | 30 | Chamique Holdsclaw | 2,123 |
 | 31 | Chasity Melvin | 2,097 |
 | 32 | Tammy Sutton-Brown | 2,010 |
-| 33 | **Elizabeth Williams** 🔴 +3 | 1,926 |
+| 33 | **Elizabeth Williams** 🔴 +4 | 1,927 |
 | 34 | Cheryl Ford | 1,907 |
 | 35 | Plenette Pierson | 1,834 |
 | 36 | Natalie Williams | 1,832 |
