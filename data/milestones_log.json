@@ -1,5 +1,29 @@
 [
   {
+    "ts": "2026-06-03T23:55:00+00:00",
+    "text": "Jonquel Jones passed Epiphanny Prince for #49 all-time in three-pointers (career 369) \u2014 up from #50 entering today \u2014 (5.0 - 1st \u2014 TOR @ NY)",
+    "kind": "rank_pass",
+    "player": "Jonquel Jones",
+    "stat": "three-pointers",
+    "rank": 49,
+    "passed_players": [
+      "Epiphanny Prince"
+    ],
+    "new_total": 369
+  },
+  {
+    "ts": "2026-06-03T23:55:00+00:00",
+    "text": "Satou Sabally passed Bria Hartley for #200 all-time in fouls (career 449) \u2014 new to top 200 today \u2014 (5.0 - 1st \u2014 TOR @ NY)",
+    "kind": "rank_pass",
+    "player": "Satou Sabally",
+    "stat": "fouls",
+    "rank": 200,
+    "passed_players": [
+      "Bria Hartley"
+    ],
+    "new_total": 449
+  },
+  {
     "ts": "2026-06-03T23:52:00+00:00",
     "text": "Marina Mabrey passed Nykesha Sales and Rushia Brown for #163 all-time in blocks (career 81) \u2014 (2:02 - 1st \u2014 TOR @ NY)",
     "kind": "rank_pass",
@@ -2990,23 +3014,5 @@
       "Jennifer Azzi"
     ],
     "new_total": 637
-  },
-  {
-    "ts": "2026-05-19T04:03:00+00:00",
-    "text": "Kennedy Burke reached 300 career rebounds (now 300) \u2014 (3:08 - 4th \u2014 CON @ POR)",
-    "kind": "round",
-    "player": "Kennedy Burke",
-    "stat": "rebounds",
-    "value": 300,
-    "new_total": 300
-  },
-  {
-    "ts": "2026-05-19T03:25:00+00:00",
-    "text": "Bridget Carleton reached 1,300 career points (now 1,300) \u2014 (3:58 - 3rd \u2014 CON @ POR)",
-    "kind": "round",
-    "player": "Bridget Carleton",
-    "stat": "points",
-    "value": 1300,
-    "new_total": 1300
   }
 ]

@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-03 23:54 UTC_
+_Last updated: 2026-06-03 23:55 UTC_
 
 ## Contents
 
@@ -74,7 +74,7 @@ _Last updated: 2026-06-03 23:54 UTC_
 | 53 | Dearica Hamby | 4,228 |
 | 54 | Yolanda Griffith | 4,224 |
 | 55 | Courtney Williams | 4,221 |
-| 56 | **Jonquel Jones** 🔴 +9 | 4,209 |
+| 56 | **Jonquel Jones** 🔴 +12 | 4,212 |
 | 57 | Rebekkah Brunson | 4,133 |
 | 58 | Asjha Jones | 3,986 |
 | 59 | Deanna Nolan | 3,971 |
@@ -1092,8 +1092,8 @@ _Last updated: 2026-06-03 23:54 UTC_
 | 46 | Jasmine Thomas | 376 |
 | 47 | Allison Feaster | 372 |
 | 47 | Betty Lennox | 372 |
-| 49 | Epiphanny Prince | 368 |
-| 49 | **Jonquel Jones** 🔴 +1 | 368 |
+| 49 | **Jonquel Jones** 🔴 +2 | 369 |
+| 50 | Epiphanny Prince | 368 |
 | 51 | **Kia Nurse** 🔴 | 364 |
 | 52 | Kahleah Copper | 353 |
 | 53 | Nykesha Sales | 352 |
@@ -1653,5 +1653,4 @@ _Last updated: 2026-06-03 23:54 UTC_
 | 197 | Kara Lawson | 457 |
 | 198 | NaLyssa Smith | 454 |
 | 199 | Alexis Hornbuckle | 450 |
-| 200 | Bria Hartley | 448 |
-| 200 | **Satou Sabally** 🔴 | 448 |
+| 200 | **Satou Sabally** 🔴 +1 | 449 |

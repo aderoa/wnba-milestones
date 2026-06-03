@@ -2,6 +2,11 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-03 23:55 UTC
+
+- **Jonquel Jones** passed **Epiphanny Prince** for **#49** all-time in three-pointers (career 369) — up from #50 entering today — _5.0 - 1st — TOR @ NY_
+- **Satou Sabally** passed **Bria Hartley** for **#200** all-time in fouls (career 449) — new to top 200 today — _5.0 - 1st — TOR @ NY_
+
 ## 2026-06-03 23:52 UTC
 
 - **Marina Mabrey** passed **Nykesha Sales** and **Rushia Brown** for **#163** all-time in blocks (career 81) — _2:02 - 1st — TOR @ NY_
