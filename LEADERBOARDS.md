@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-03 03:14 UTC_
+_Last updated: 2026-06-03 03:15 UTC_
 
 ## Contents
 
@@ -516,7 +516,7 @@ _Last updated: 2026-06-03 03:14 UTC_
 | 85 | Nykesha Sales | 677 |
 | 86 | Bria Hartley | 661 |
 | 87 | Lindsay Allen | 657 |
-| 88 | **Ariel Atkins** 🔴 +1 | 652 |
+| 88 | **Ariel Atkins** 🔴 +2 | 653 |
 | 89 | Betty Lennox | 651 |
 | 89 | Plenette Pierson | 651 |
 | 91 | Alex Bentley | 645 |
@@ -1512,9 +1512,9 @@ _Last updated: 2026-06-03 03:14 UTC_
 | 55 | Penny Taylor | 832 |
 | 56 | Dominique Canty | 831 |
 | 56 | Wendy Palmer | 831 |
-| 58 | **Dearica Hamby** 🔴 +2 | 813 |
-| 58 | Shannon Johnson | 813 |
-| 58 | Tully Bevilaqua | 813 |
+| 58 | **Dearica Hamby** 🔴 +3 | 814 |
+| 59 | Shannon Johnson | 813 |
+| 59 | Tully Bevilaqua | 813 |
 | 61 | Skylar Diggins | 799 |
 | 62 | Nykesha Sales | 796 |
 | 63 | Ebony Hoffman | 791 |
