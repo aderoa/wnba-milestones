@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-03 02:04 UTC_
+_Last updated: 2026-06-03 02:05 UTC_
 
 ## Contents
 
@@ -23,8 +23,8 @@ _Last updated: 2026-06-03 02:04 UTC_
 | 2 | Tina Charles | 8,396 |
 | 3 | DeWanna Bonner | 7,847 |
 | 4 | Tina Thompson | 7,470 |
-| 5 | **Nneka Ogwumike** 🔴 | 7,371 |
-| 5 | Tamika Catchings | 7,371 |
+| 5 | **Nneka Ogwumike** 🔴 +2 | 7,373 |
+| 6 | Tamika Catchings | 7,371 |
 | 7 | Candice Dupree | 6,861 |
 | 8 | Sue Bird | 6,802 |
 | 9 | Cappie Pondexter | 6,781 |
@@ -206,8 +206,8 @@ _Last updated: 2026-06-03 02:04 UTC_
 | 185 | Sandy Brondello | 1,759 |
 | 186 | Natisha Hiedeman | 1,751 |
 | 187 | Sugar Rodgers | 1,733 |
-| 188 | Moriah Jefferson | 1,722 |
-| 188 | **NaLyssa Smith** 🔴 | 1,722 |
+| 188 | **NaLyssa Smith** 🔴 +2 | 1,724 |
+| 189 | Moriah Jefferson | 1,722 |
 | 190 | Sophie Cunningham | 1,705 |
 | 191 | Armintie Herrington | 1,696 |
 | 192 | Nikki Teasley | 1,690 |
@@ -340,7 +340,7 @@ _Last updated: 2026-06-03 02:04 UTC_
 | 114 | Becky Hammon | 1,108 |
 | 115 | Ann Wauters | 1,105 |
 | 116 | Natasha Cloud | 1,093 |
-| 117 | **NaLyssa Smith** 🔴 | 1,081 |
+| 117 | **NaLyssa Smith** 🔴 +1 | 1,082 |
 | 118 | Svetlana Abrosimova | 1,078 |
 | 119 | Aliyah Boston | 1,066 |
 | 120 | Le'coe Willingham | 1,054 |
@@ -660,7 +660,7 @@ _Last updated: 2026-06-03 02:04 UTC_
 | 23 | Diana Taurasi | 349 |
 | 23 | Elena Delle Donne | 349 |
 | 26 | DeLisha Milton-Jones | 339 |
-| 27 | **Kiah Stokes** 🔴 | 324 |
+| 27 | **Kiah Stokes** 🔴 +1 | 325 |
 | 28 | Yolanda Griffith | 323 |
 | 29 | Elena Baranova | 320 |
 | 30 | Candice Dupree | 316 |
@@ -668,7 +668,7 @@ _Last updated: 2026-06-03 02:04 UTC_
 | 32 | Vicky Bullett | 288 |
 | 33 | Rebekkah Brunson | 281 |
 | 34 | Liz Cambage | 264 |
-| 35 | **Nneka Ogwumike** 🔴 | 261 |
+| 35 | **Nneka Ogwumike** 🔴 +1 | 262 |
 | 36 | Swin Cash | 258 |
 | 37 | Cheyenne Parker-Tyus | 256 |
 | 38 | Plenette Pierson | 242 |
@@ -1444,9 +1444,9 @@ _Last updated: 2026-06-03 02:04 UTC_
 | 192 | Isabelle Harrison | 300 |
 | 193 | Crystal Robinson | 299 |
 | 194 | Michele Timms | 297 |
+| 195 | **Kayla Thornton** 🔴 +1 | 290 |
 | 195 | Rachel Banham | 290 |
-| 196 | Azurá Stevens | 289 |
-| 196 | **Kayla Thornton** 🔴 | 289 |
+| 197 | Azurá Stevens | 289 |
 | 198 | Alexis Hornbuckle | 288 |
 | 198 | Kristen Rasmussen | 288 |
 | 200 | Damiris Dantas | 286 |
