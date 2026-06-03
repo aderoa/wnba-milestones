@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-03 03:53 UTC_
+_Last updated: 2026-06-03 03:54 UTC_
 
 ## Contents
 
@@ -550,8 +550,8 @@ _Last updated: 2026-06-03 03:53 UTC_
 | 119 | Marie Ferdinand-Harris | 528 |
 | 120 | Margo Dydek | 524 |
 | 121 | Myisha Hines-Allen | 511 |
-| 122 | Iziane Castro Marques | 509 |
-| 122 | **Veronica Burton** 🔴 +8 | 509 |
+| 122 | **Veronica Burton** 🔴 +9 | 510 |
+| 123 | Iziane Castro Marques | 509 |
 | 124 | Brittany Boyd-Jones | 508 |
 | 124 | Chasity Melvin | 508 |
 | 126 | Anna DeForge | 503 |
@@ -1383,7 +1383,7 @@ _Last updated: 2026-06-03 03:53 UTC_
 | 130 | Tiffany Mitchell | 439 |
 | 131 | Alysha Clark | 438 |
 | 131 | Kedra Holland-Corn | 438 |
-| 133 | **Jackie Young** 🔴 +1 | 435 |
+| 133 | **Jackie Young** 🔴 +2 | 436 |
 | 134 | Jennifer Gillom | 434 |
 | 134 | Nicole Ohlde | 434 |
 | 136 | Murriel Page | 432 |
@@ -1609,9 +1609,9 @@ _Last updated: 2026-06-03 03:53 UTC_
 | 150 | Epiphanny Prince | 525 |
 | 152 | Armintie Herrington | 523 |
 | 153 | Sheryl Swoopes | 519 |
+| 154 | **Jackie Young** 🔴 +3 | 517 |
 | 154 | Nikki McCray | 517 |
-| 155 | Alex Bentley | 516 |
-| 155 | **Jackie Young** 🔴 +2 | 516 |
+| 156 | Alex Bentley | 516 |
 | 157 | Kayla McBride | 515 |
 | 158 | Jantel Lavender | 513 |
 | 159 | Adrienne Goodson | 512 |

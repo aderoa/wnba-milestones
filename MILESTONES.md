@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-03 03:54 UTC
+
+- **Veronica Burton** passed **Iziane Castro Marques** for **#122** all-time in assists (career 510) — up from #127 entering today — _3:00 - 4th — POR @ GS_
+
 ## 2026-06-03 03:50 UTC
 
 - **Veronica Burton** passed **Brittany Boyd-Jones** and **Chasity Melvin** for **#123** all-time in assists (career 509) — up from #127 entering today — _3:47 - 4th — POR @ GS_
