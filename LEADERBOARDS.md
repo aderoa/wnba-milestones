@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-03 03:40 UTC_
+_Last updated: 2026-06-03 03:41 UTC_
 
 ## Contents
 
@@ -892,8 +892,8 @@ _Last updated: 2026-06-03 03:40 UTC_
 | 51 | Briann January | 386 |
 | 52 | Swin Cash | 384 |
 | 52 | Tina Charles | 384 |
-| 54 | Monique Currie | 378 |
-| 54 | **Tiffany Hayes** 🔴 | 378 |
+| 54 | **Tiffany Hayes** 🔴 +1 | 379 |
+| 55 | Monique Currie | 378 |
 | 56 | Chamique Holdsclaw | 376 |
 | 57 | Jordin Canada | 373 |
 | 58 | **Ariel Atkins** 🔴 +2 | 371 |
