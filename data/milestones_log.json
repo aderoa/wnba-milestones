@@ -1,5 +1,19 @@
 [
   {
+    "ts": "2026-06-03T00:56:00+00:00",
+    "text": "Kamilla Cardoso passed Courtney Williams, Jennifer Gillom, and Jia Perkins for #121 all-time in blocks (career 104) \u2014 up from #129 entering today \u2014 (5:02 - 3rd \u2014 CHI @ WSH)",
+    "kind": "rank_pass",
+    "player": "Kamilla Cardoso",
+    "stat": "blocks",
+    "rank": 121,
+    "passed_players": [
+      "Courtney Williams",
+      "Jennifer Gillom",
+      "Jia Perkins"
+    ],
+    "new_total": 104
+  },
+  {
     "ts": "2026-06-03T00:50:00+00:00",
     "text": "Azur\u00e1 Stevens passed Nia Coffey for #190 all-time in fouls (career 466) \u2014 up from #191 entering today \u2014 (7:50 - 3rd \u2014 CHI @ WSH)",
     "kind": "rank_pass",
@@ -2984,17 +2998,5 @@
       "Tiffany Mitchell"
     ],
     "new_total": 605
-  },
-  {
-    "ts": "2026-05-19T00:58:00+00:00",
-    "text": "Shakira Austin passed Kelsey Plum for #194 all-time in rebounds (career 722) \u2014 up from #195 entering today \u2014 (39.5 - 2nd \u2014 WSH @ DAL)",
-    "kind": "rank_pass",
-    "player": "Shakira Austin",
-    "stat": "rebounds",
-    "rank": 194,
-    "passed_players": [
-      "Kelsey Plum"
-    ],
-    "new_total": 722
   }
 ]
