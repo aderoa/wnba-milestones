@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-03 03:48 UTC_
+_Last updated: 2026-06-03 03:49 UTC_
 
 ## Contents
 
@@ -58,7 +58,7 @@ _Last updated: 2026-06-03 03:48 UTC_
 | 37 | Penny Taylor | 4,595 |
 | 38 | Alyssa Thomas | 4,554 |
 | 39 | Arike Ogunbowale | 4,512 |
-| 40 | **Chelsea Gray** 🔴 +7 | 4,476 |
+| 40 | **Chelsea Gray** 🔴 +9 | 4,478 |
 | 41 | Kristi Toliver | 4,474 |
 | 42 | Crystal Langhorne | 4,433 |
 | 42 | Jia Perkins | 4,433 |
@@ -523,7 +523,7 @@ _Last updated: 2026-06-03 03:48 UTC_
 | 92 | Brittney Griner | 638 |
 | 93 | Asjha Jones | 637 |
 | 94 | Jennifer Azzi | 636 |
-| 95 | **A'ja Wilson** 🔴 | 625 |
+| 95 | **A'ja Wilson** 🔴 +1 | 626 |
 | 96 | Sami Whitcomb | 623 |
 | 97 | Alysha Clark | 614 |
 | 98 | Debbie Black | 612 |
@@ -1239,8 +1239,8 @@ _Last updated: 2026-06-03 03:48 UTC_
 | 191 | Belinda Snell | 108 |
 | 192 | Layshia Clarendon | 107 |
 | 193 | Leonie Fiebich | 106 |
-| 194 | Laurie Koehn | 105 |
-| 194 | **Veronica Burton** 🔴 +1 | 105 |
+| 193 | **Veronica Burton** 🔴 +2 | 106 |
+| 195 | Laurie Koehn | 105 |
 | 196 | Julie Vanloo | 104 |
 | 197 | Jeanette Pohlen-Mavunga | 103 |
 | 197 | Kiesha Brown | 103 |
