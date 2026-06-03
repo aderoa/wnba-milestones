@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-03 01:36 UTC_
+_Last updated: 2026-06-03 01:37 UTC_
 
 ## Contents
 
@@ -42,7 +42,7 @@ _Last updated: 2026-06-03 01:36 UTC_
 | 21 | Angel McCoughtry | 5,797 |
 | 22 | DeLisha Milton-Jones | 5,571 |
 | 23 | Katie Douglas | 5,545 |
-| 24 | **Skylar Diggins** 🔴 +9 | 5,534 |
+| 24 | **Skylar Diggins** 🔴 +11 | 5,536 |
 | 25 | Lindsay Whalen | 5,511 |
 | 26 | Kayla McBride | 5,454 |
 | 27 | Swin Cash | 5,119 |
@@ -256,7 +256,7 @@ _Last updated: 2026-06-03 01:36 UTC_
 | 30 | Chamique Holdsclaw | 2,123 |
 | 31 | Chasity Melvin | 2,097 |
 | 32 | Tammy Sutton-Brown | 2,010 |
-| 33 | **Elizabeth Williams** 🔴 +5 | 1,928 |
+| 33 | **Elizabeth Williams** 🔴 +6 | 1,929 |
 | 34 | Cheryl Ford | 1,907 |
 | 35 | Plenette Pierson | 1,834 |
 | 36 | Natalie Williams | 1,832 |
@@ -557,7 +557,7 @@ _Last updated: 2026-06-03 01:36 UTC_
 | 125 | Coco Miller | 503 |
 | 127 | Veronica Burton | 501 |
 | 128 | **Rachel Banham** 🔴 +1 | 499 |
-| 129 | **Rhyne Howard** 🔴 +1 | 491 |
+| 129 | **Rhyne Howard** 🔴 +2 | 492 |
 | 130 | Caitlin Clark | 488 |
 | 130 | Crystal Robinson | 488 |
 | 130 | Tiffany Mitchell | 488 |
@@ -940,7 +940,7 @@ _Last updated: 2026-06-03 01:36 UTC_
 | 99 | Janel McCarville | 294 |
 | 100 | Kelly Miller | 290 |
 | 101 | Glory Johnson | 289 |
-| 102 | **Elizabeth Williams** 🔴 +1 | 286 |
+| 102 | **Elizabeth Williams** 🔴 +2 | 287 |
 | 103 | Essence Carson | 285 |
 | 104 | Seimone Augustus | 280 |
 | 105 | Tari Phillips | 277 |
@@ -986,10 +986,10 @@ _Last updated: 2026-06-03 01:36 UTC_
 | 144 | Jennifer Gillom | 220 |
 | 144 | Kelsey Mitchell | 220 |
 | 147 | Allison Feaster | 219 |
+| 148 | **Rhyne Howard** 🔴 +3 | 217 |
 | 148 | Shenise Johnson | 217 |
-| 149 | Adrian Williams-Strong | 216 |
-| 149 | Moriah Jefferson | 216 |
-| 149 | **Rhyne Howard** 🔴 +2 | 216 |
+| 150 | Adrian Williams-Strong | 216 |
+| 150 | Moriah Jefferson | 216 |
 | 152 | Asjha Jones | 215 |
 | 152 | Candice Wiggins | 215 |
 | 152 | Cheyenne Parker-Tyus | 215 |
