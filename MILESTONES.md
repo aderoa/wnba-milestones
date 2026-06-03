@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-03 03:50 UTC
+
+- **Veronica Burton** passed **Brittany Boyd-Jones** and **Chasity Melvin** for **#123** all-time in assists (career 509) — up from #127 entering today — _3:47 - 4th — POR @ GS_
+
 ## 2026-06-03 03:14 UTC
 
 - **Ariel Atkins** passed **Anna DeForge**, **Kelsey Bone**, and **Tan White** for **#180** all-time in rebounds (career 770) — up from #184 entering today — _5:22 - 3rd — LV @ LA_

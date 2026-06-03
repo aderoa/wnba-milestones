@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-03 03:49 UTC_
+_Last updated: 2026-06-03 03:50 UTC_
 
 ## Contents
 
@@ -23,7 +23,7 @@ _Last updated: 2026-06-03 03:49 UTC_
 | 2 | Tina Charles | 8,396 |
 | 3 | DeWanna Bonner | 7,847 |
 | 4 | Tina Thompson | 7,470 |
-| 5 | **Nneka Ogwumike** 🔴 +10 | 7,381 |
+| 5 | **Nneka Ogwumike** 🔴 +12 | 7,383 |
 | 6 | Tamika Catchings | 7,371 |
 | 7 | Candice Dupree | 6,861 |
 | 8 | Sue Bird | 6,802 |
@@ -152,7 +152,7 @@ _Last updated: 2026-06-03 03:49 UTC_
 | 131 | Alex Bentley | 2,350 |
 | 132 | Merlakia Jones | 2,308 |
 | 133 | Kia Vaughn | 2,288 |
-| 134 | **Kayla Thornton** 🔴 +16 | 2,283 |
+| 134 | **Kayla Thornton** 🔴 +19 | 2,286 |
 | 135 | Betnijah Laney-Hamilton | 2,261 |
 | 136 | Allison Feaster | 2,258 |
 | 137 | Shekinna Stricklen | 2,245 |
@@ -551,9 +551,9 @@ _Last updated: 2026-06-03 03:49 UTC_
 | 120 | Margo Dydek | 524 |
 | 121 | Myisha Hines-Allen | 511 |
 | 122 | Iziane Castro Marques | 509 |
-| 123 | Brittany Boyd-Jones | 508 |
-| 123 | Chasity Melvin | 508 |
-| 123 | **Veronica Burton** 🔴 +7 | 508 |
+| 122 | **Veronica Burton** 🔴 +8 | 509 |
+| 124 | Brittany Boyd-Jones | 508 |
+| 124 | Chasity Melvin | 508 |
 | 126 | Anna DeForge | 503 |
 | 126 | Coco Miller | 503 |
 | 128 | Rachel Banham | 500 |
@@ -1124,7 +1124,7 @@ _Last updated: 2026-06-03 03:49 UTC_
 | 76 | Alana Beard | 288 |
 | 76 | Natisha Hiedeman | 288 |
 | 78 | Monique Currie | 284 |
-| 79 | **Kayla Thornton** 🔴 +4 | 280 |
+| 79 | **Kayla Thornton** 🔴 +5 | 281 |
 | 80 | Iziane Castro Marques | 275 |
 | 81 | **Bridget Carleton** 🔴 +2 | 274 |
 | 82 | Sheryl Swoopes | 270 |
@@ -1611,8 +1611,8 @@ _Last updated: 2026-06-03 03:49 UTC_
 | 153 | Sheryl Swoopes | 519 |
 | 154 | Nikki McCray | 517 |
 | 155 | Alex Bentley | 516 |
-| 156 | **Jackie Young** 🔴 +1 | 515 |
-| 156 | Kayla McBride | 515 |
+| 155 | **Jackie Young** 🔴 +2 | 516 |
+| 157 | Kayla McBride | 515 |
 | 158 | Jantel Lavender | 513 |
 | 159 | Adrienne Goodson | 512 |
 | 159 | Janeth Arcain | 512 |

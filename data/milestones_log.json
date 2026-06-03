@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-06-03T03:50:00+00:00",
+    "text": "Veronica Burton passed Brittany Boyd-Jones and Chasity Melvin for #123 all-time in assists (career 509) \u2014 up from #127 entering today \u2014 (3:47 - 4th \u2014 POR @ GS)",
+    "kind": "rank_pass",
+    "player": "Veronica Burton",
+    "stat": "assists",
+    "rank": 123,
+    "passed_players": [
+      "Brittany Boyd-Jones",
+      "Chasity Melvin"
+    ],
+    "new_total": 509
+  },
+  {
     "ts": "2026-06-03T03:14:00+00:00",
     "text": "Ariel Atkins passed Anna DeForge, Kelsey Bone, and Tan White for #180 all-time in rebounds (career 770) \u2014 up from #184 entering today \u2014 (5:22 - 3rd \u2014 LV @ LA)",
     "kind": "rank_pass",
@@ -2988,17 +3001,5 @@
     "stat": "points",
     "value": 900,
     "new_total": 900
-  },
-  {
-    "ts": "2026-05-19T01:40:00+00:00",
-    "text": "Jessica Shepard passed Alanna Smith for #156 all-time in rebounds (career 848) \u2014 up from #158 entering today \u2014 (End of 3rd \u2014 WSH @ DAL)",
-    "kind": "rank_pass",
-    "player": "Jessica Shepard",
-    "stat": "rebounds",
-    "rank": 156,
-    "passed_players": [
-      "Alanna Smith"
-    ],
-    "new_total": 848
   }
 ]
