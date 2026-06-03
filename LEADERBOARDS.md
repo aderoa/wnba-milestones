@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-03 23:48 UTC_
+_Last updated: 2026-06-03 23:49 UTC_
 
 ## Contents
 
@@ -166,7 +166,7 @@ _Last updated: 2026-06-03 23:48 UTC_
 | 145 | Janel McCarville | 2,215 |
 | 146 | Sami Whitcomb | 2,211 |
 | 147 | Sophia Witherspoon | 2,210 |
-| 148 | Satou Sabally | 2,192 |
+| 148 | **Satou Sabally** 🔴 | 2,192 |
 | 149 | Ruthie Bolton | 2,175 |
 | 150 | Ann Wauters | 2,170 |
 | 151 | Layshia Clarendon | 2,168 |
@@ -369,7 +369,7 @@ _Last updated: 2026-06-03 23:48 UTC_
 | 143 | Janell Burse | 944 |
 | 144 | Merlakia Jones | 927 |
 | 145 | Nicky Anosike | 922 |
-| 146 | Satou Sabally | 921 |
+| 146 | **Satou Sabally** 🔴 | 921 |
 | 147 | Janeth Arcain | 916 |
 | 148 | Angel Reese | 913 |
 | 149 | Jessica Shepard | 912 |
@@ -568,7 +568,7 @@ _Last updated: 2026-06-03 23:48 UTC_
 | 137 | Elizabeth Williams | 464 |
 | 138 | Erin Phillips | 462 |
 | 139 | Sylvia Fowles | 461 |
-| 140 | Satou Sabally | 456 |
+| 140 | **Satou Sabally** 🔴 | 456 |
 | 141 | Sydney Colson | 454 |
 | 141 | Tyasha Harris | 454 |
 | 143 | Yolanda Griffith | 451 |
@@ -595,7 +595,7 @@ _Last updated: 2026-06-03 23:48 UTC_
 | 164 | Allison Feaster | 406 |
 | 165 | Rita Williams | 403 |
 | 166 | Kia Nurse | 402 |
-| 167 | Julie Allemand | 399 |
+| 167 | **Julie Allemand** 🔴 | 399 |
 | 167 | Marissa Coleman | 399 |
 | 169 | Aliyah Boston | 396 |
 | 170 | Stacey Dales | 395 |
@@ -828,7 +828,7 @@ _Last updated: 2026-06-03 23:48 UTC_
 | 192 | Mercedes Russell | 69 |
 | 192 | Rhonda Mapp | 69 |
 | 194 | Jackie Young | 68 |
-| 194 | Satou Sabally | 68 |
+| 194 | **Satou Sabally** 🔴 | 68 |
 | 196 | Shannon Johnson | 67 |
 | 197 | Crystal Robinson | 65 |
 | 197 | Queen Egbo | 65 |
@@ -1147,7 +1147,7 @@ _Last updated: 2026-06-03 23:48 UTC_
 | 101 | Essence Carson | 223 |
 | 102 | Kelly Mazzante | 218 |
 | 102 | Sheri Sam | 218 |
-| 104 | Satou Sabally | 216 |
+| 104 | **Satou Sabally** 🔴 | 216 |
 | 105 | Damiris Dantas | 211 |
 | 105 | Erin Phillips | 211 |
 | 107 | Andrea Stinson | 207 |
@@ -1424,7 +1424,7 @@ _Last updated: 2026-06-03 23:48 UTC_
 | 173 | Aerial Powers | 333 |
 | 173 | Diamond DeShields | 333 |
 | 175 | Charde Houston | 331 |
-| 176 | Satou Sabally | 328 |
+| 176 | **Satou Sabally** 🔴 | 328 |
 | 177 | Erlana Larkins | 326 |
 | 177 | Rita Williams | 326 |
 | 179 | Le'coe Willingham | 325 |
@@ -1654,4 +1654,4 @@ _Last updated: 2026-06-03 23:48 UTC_
 | 198 | NaLyssa Smith | 454 |
 | 199 | Alexis Hornbuckle | 450 |
 | 200 | Bria Hartley | 448 |
-| 200 | Satou Sabally | 448 |
+| 200 | **Satou Sabally** 🔴 | 448 |
