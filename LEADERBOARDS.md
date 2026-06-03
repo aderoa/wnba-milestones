@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-03 03:11 UTC_
+_Last updated: 2026-06-03 03:12 UTC_
 
 ## Contents
 
@@ -240,7 +240,7 @@ _Last updated: 2026-06-03 03:11 UTC_
 | 14 | Sancho Lyttle | 2,596 |
 | 15 | DeLisha Milton-Jones | 2,574 |
 | 16 | Brittney Griner | 2,541 |
-| 17 | **A'ja Wilson** 🔴 +11 | 2,533 |
+| 17 | **A'ja Wilson** 🔴 +12 | 2,534 |
 | 18 | Swin Cash | 2,521 |
 | 19 | Breanna Stewart | 2,510 |
 | 20 | Michelle Snow | 2,476 |
@@ -265,7 +265,7 @@ _Last updated: 2026-06-03 03:11 UTC_
 | 39 | Lindsay Whalen | 1,805 |
 | 40 | Camille Smith | 1,802 |
 | 41 | Courtney Williams | 1,766 |
-| 42 | **Kiah Stokes** 🔴 +4 | 1,764 |
+| 42 | **Kiah Stokes** 🔴 +5 | 1,765 |
 | 43 | Asjha Jones | 1,751 |
 | 44 | Teaira McCowan | 1,670 |
 | 45 | Stefanie Dolson | 1,667 |
@@ -401,8 +401,8 @@ _Last updated: 2026-06-03 03:11 UTC_
 | 174 | Sue Wicks | 780 |
 | 176 | Lindsey Harding | 779 |
 | 177 | Tiffani Johnson | 778 |
-| 178 | **Gabby Williams** 🔴 +1 | 775 |
-| 178 | Teresa Weatherspoon | 775 |
+| 178 | **Gabby Williams** 🔴 +2 | 776 |
+| 179 | Teresa Weatherspoon | 775 |
 | 180 | Anna DeForge | 769 |
 | 180 | Kelsey Bone | 769 |
 | 180 | Tan White | 769 |
@@ -466,7 +466,7 @@ _Last updated: 2026-06-03 03:11 UTC_
 | 35 | Lindsey Harding | 1,090 |
 | 36 | Katie Douglas | 1,069 |
 | 37 | Sabrina Ionescu | 1,067 |
-| 38 | **Jackie Young** 🔴 +4 | 1,064 |
+| 38 | **Jackie Young** 🔴 +5 | 1,065 |
 | 39 | Alana Beard | 1,061 |
 | 40 | Penny Taylor | 1,049 |
 | 41 | Dominique Canty | 1,042 |
@@ -642,7 +642,7 @@ _Last updated: 2026-06-03 03:11 UTC_
 | 6 | Lauren Jackson | 586 |
 | 7 | Tammy Sutton-Brown | 555 |
 | 8 | Tangela Smith | 554 |
-| 9 | **A'ja Wilson** 🔴 +2 | 545 |
+| 9 | **A'ja Wilson** 🔴 +3 | 546 |
 | 10 | Ruth Riley | 505 |
 | 11 | Elizabeth Williams | 487 |
 | 12 | Taj McWilliams-Franklin | 443 |
@@ -660,7 +660,7 @@ _Last updated: 2026-06-03 03:11 UTC_
 | 23 | Diana Taurasi | 349 |
 | 23 | Elena Delle Donne | 349 |
 | 26 | DeLisha Milton-Jones | 339 |
-| 27 | **Kiah Stokes** 🔴 +1 | 325 |
+| 27 | **Kiah Stokes** 🔴 +2 | 326 |
 | 28 | Yolanda Griffith | 323 |
 | 29 | Elena Baranova | 320 |
 | 30 | Candice Dupree | 316 |
@@ -1188,8 +1188,8 @@ _Last updated: 2026-06-03 03:11 UTC_
 | 140 | Jennifer Gillom | 153 |
 | 142 | Alanna Smith | 152 |
 | 143 | Marine Johannès | 151 |
-| 144 | Rita Williams | 150 |
-| 144 | **Stephanie Talbot** 🔴 +1 | 150 |
+| 143 | **Stephanie Talbot** 🔴 +2 | 151 |
+| 145 | Rita Williams | 150 |
 | 146 | Moriah Jefferson | 149 |
 | 146 | Tiffany Mitchell | 149 |
 | 148 | Diamond DeShields | 147 |
