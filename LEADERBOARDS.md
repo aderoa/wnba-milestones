@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-03 23:51 UTC_
+_Last updated: 2026-06-03 23:52 UTC_
 
 ## Contents
 
@@ -153,13 +153,13 @@ _Last updated: 2026-06-03 23:51 UTC_
 | 132 | Kayla Thornton | 2,324 |
 | 133 | Merlakia Jones | 2,308 |
 | 134 | Kia Vaughn | 2,288 |
-| 135 | Betnijah Laney-Hamilton | 2,281 |
+| 135 | **Betnijah Laney-Hamilton** 🔴 | 2,281 |
 | 136 | Allison Feaster | 2,258 |
 | 137 | Azurá Stevens | 2,246 |
 | 138 | Shekinna Stricklen | 2,245 |
 | 139 | Kara Braxton | 2,237 |
 | 139 | Matee Ajavon | 2,237 |
-| 141 | Kia Nurse | 2,231 |
+| 141 | **Kia Nurse** 🔴 | 2,231 |
 | 142 | Dawn Staley | 2,228 |
 | 143 | Jordin Canada | 2,224 |
 | 144 | Teaira McCowan | 2,221 |
@@ -393,7 +393,7 @@ _Last updated: 2026-06-03 23:51 UTC_
 | 167 | Naz Hillmon | 817 |
 | 168 | Carolyn Swords | 814 |
 | 169 | Tierra Ruffin-Pratt | 799 |
-| 170 | Betnijah Laney-Hamilton | 795 |
+| 170 | **Betnijah Laney-Hamilton** 🔴 | 795 |
 | 171 | Charlotte Smith | 794 |
 | 172 | Gabby Williams | 790 |
 | 173 | Rhonda Mapp | 788 |
@@ -501,7 +501,7 @@ _Last updated: 2026-06-03 23:51 UTC_
 | 70 | Tina Thompson | 803 |
 | 71 | Epiphanny Prince | 800 |
 | 72 | Mwadi Mabika | 774 |
-| 73 | **Marina Mabrey** 🔴 | 768 |
+| 73 | **Marina Mabrey** 🔴 +1 | 769 |
 | 74 | Sheri Sam | 745 |
 | 75 | Allisha Gray | 741 |
 | 76 | Monique Currie | 740 |
@@ -534,7 +534,7 @@ _Last updated: 2026-06-03 23:51 UTC_
 | 103 | Sancho Lyttle | 592 |
 | 104 | Camille Smith | 590 |
 | 105 | Armintie Herrington | 589 |
-| 106 | Betnijah Laney-Hamilton | 582 |
+| 106 | **Betnijah Laney-Hamilton** 🔴 | 582 |
 | 107 | Tan White | 578 |
 | 108 | Matee Ajavon | 577 |
 | 109 | Napheesa Collier | 570 |
@@ -594,7 +594,7 @@ _Last updated: 2026-06-03 23:51 UTC_
 | 162 | Murriel Page | 410 |
 | 164 | Allison Feaster | 406 |
 | 165 | Rita Williams | 403 |
-| 166 | Kia Nurse | 402 |
+| 166 | **Kia Nurse** 🔴 | 402 |
 | 167 | **Julie Allemand** 🔴 | 399 |
 | 167 | Marissa Coleman | 399 |
 | 169 | Aliyah Boston | 396 |
@@ -795,9 +795,9 @@ _Last updated: 2026-06-03 23:51 UTC_
 | 159 | Charlotte Smith | 81 |
 | 159 | Cintia dos Santos | 81 |
 | 159 | Jessie Hicks | 81 |
-| 162 | **Marina Mabrey** 🔴 | 80 |
-| 162 | Nykesha Sales | 80 |
-| 162 | Rushia Brown | 80 |
+| 159 | **Marina Mabrey** 🔴 +1 | 81 |
+| 163 | Nykesha Sales | 80 |
+| 163 | Rushia Brown | 80 |
 | 165 | Astou Ndour-Fall | 78 |
 | 165 | Katie Smith | 78 |
 | 165 | Slobodanka Tuvic | 78 |
@@ -1002,7 +1002,7 @@ _Last updated: 2026-06-03 23:51 UTC_
 | 160 | Tiffany Mitchell | 209 |
 | 162 | Kia Vaughn | 208 |
 | 162 | Sophia Witherspoon | 208 |
-| 164 | Betnijah Laney-Hamilton | 206 |
+| 164 | **Betnijah Laney-Hamilton** 🔴 | 206 |
 | 165 | Shameka Christon | 205 |
 | 166 | Azurá Stevens | 204 |
 | 166 | Jessica Breland | 204 |
@@ -1094,7 +1094,7 @@ _Last updated: 2026-06-03 23:51 UTC_
 | 47 | Betty Lennox | 372 |
 | 49 | Epiphanny Prince | 368 |
 | 49 | **Jonquel Jones** 🔴 +1 | 368 |
-| 51 | Kia Nurse | 364 |
+| 51 | **Kia Nurse** 🔴 | 364 |
 | 52 | Kahleah Copper | 353 |
 | 53 | Nykesha Sales | 352 |
 | 54 | Cathrine Kraayeveld | 343 |
@@ -1151,7 +1151,7 @@ _Last updated: 2026-06-03 23:51 UTC_
 | 105 | Damiris Dantas | 211 |
 | 105 | Erin Phillips | 211 |
 | 107 | Andrea Stinson | 207 |
-| 108 | Betnijah Laney-Hamilton | 204 |
+| 108 | **Betnijah Laney-Hamilton** 🔴 | 204 |
 | 109 | Lexie Brown | 203 |
 | 110 | Shanna Zolman | 199 |
 | 111 | Temeka Johnson | 197 |
@@ -1375,7 +1375,7 @@ _Last updated: 2026-06-03 23:51 UTC_
 | 124 | Ariel Atkins | 452 |
 | 125 | Elena Baranova | 444 |
 | 125 | Jantel Lavender | 444 |
-| 127 | Betnijah Laney-Hamilton | 442 |
+| 127 | **Betnijah Laney-Hamilton** 🔴 | 442 |
 | 128 | Jackie Young | 441 |
 | 129 | Alysha Clark | 440 |
 | 129 | Ann Wauters | 440 |
@@ -1431,7 +1431,7 @@ _Last updated: 2026-06-03 23:51 UTC_
 | 180 | Olympia Scott | 324 |
 | 181 | Caitlin Clark | 321 |
 | 182 | Gabby Williams | 319 |
-| 183 | Kia Nurse | 316 |
+| 183 | **Kia Nurse** 🔴 | 316 |
 | 184 | Barbara Farris | 315 |
 | 185 | Moriah Jefferson | 314 |
 | 186 | Alex Bentley | 313 |
@@ -1642,7 +1642,7 @@ _Last updated: 2026-06-03 23:51 UTC_
 | 186 | Sami Whitcomb | 480 |
 | 187 | Seimone Augustus | 477 |
 | 188 | Allie Quigley | 475 |
-| 189 | Kia Nurse | 473 |
+| 189 | **Kia Nurse** 🔴 | 473 |
 | 190 | Nia Coffey | 472 |
 | 191 | Alanna Smith | 470 |
 | 191 | Azurá Stevens | 470 |

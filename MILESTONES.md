@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-03 23:52 UTC
+
+- **Marina Mabrey** passed **Nykesha Sales** and **Rushia Brown** for **#163** all-time in blocks (career 81) — _2:02 - 1st — TOR @ NY_
+
 ## 2026-06-03 23:45 UTC
 
 - **Marina Mabrey** passed **Erlana Larkins** for **#141** all-time in fouls (career 547) — up from #142 entering today — _4:56 - 1st — TOR @ NY_
