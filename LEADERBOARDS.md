@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-03 02:48 UTC_
+_Last updated: 2026-06-03 02:50 UTC_
 
 ## Contents
 
@@ -58,8 +58,8 @@ _Last updated: 2026-06-03 02:48 UTC_
 | 37 | Penny Taylor | 4,595 |
 | 38 | Alyssa Thomas | 4,554 |
 | 39 | Arike Ogunbowale | 4,512 |
+| 40 | **Chelsea Gray** 🔴 +5 | 4,474 |
 | 40 | Kristi Toliver | 4,474 |
-| 41 | **Chelsea Gray** 🔴 +3 | 4,472 |
 | 42 | Crystal Langhorne | 4,433 |
 | 42 | Jia Perkins | 4,433 |
 | 44 | Natasha Howard | 4,430 |
@@ -212,7 +212,7 @@ _Last updated: 2026-06-03 02:48 UTC_
 | 191 | Armintie Herrington | 1,696 |
 | 192 | Nikki Teasley | 1,690 |
 | 193 | Shenise Johnson | 1,688 |
-| 194 | **Gabby Williams** 🔴 +4 | 1,638 |
+| 194 | **Gabby Williams** 🔴 +6 | 1,640 |
 | 195 | Janell Burse | 1,580 |
 | 196 | Le'coe Willingham | 1,552 |
 | 197 | Shatori Walker-Kimbrough | 1,544 |
@@ -247,7 +247,7 @@ _Last updated: 2026-06-03 02:48 UTC_
 | 21 | Crystal Langhorne | 2,454 |
 | 22 | Lauren Jackson | 2,444 |
 | 23 | Yolanda Griffith | 2,440 |
-| 24 | **Dearica Hamby** 🔴 +1 | 2,347 |
+| 24 | **Dearica Hamby** 🔴 +2 | 2,348 |
 | 25 | Tangela Smith | 2,328 |
 | 26 | Erika de Souza | 2,220 |
 | 27 | Natasha Howard | 2,204 |
@@ -265,7 +265,7 @@ _Last updated: 2026-06-03 02:48 UTC_
 | 39 | Lindsay Whalen | 1,805 |
 | 40 | Camille Smith | 1,802 |
 | 41 | Courtney Williams | 1,766 |
-| 42 | **Kiah Stokes** 🔴 +3 | 1,763 |
+| 42 | **Kiah Stokes** 🔴 +4 | 1,764 |
 | 43 | Asjha Jones | 1,751 |
 | 44 | Teaira McCowan | 1,670 |
 | 45 | Stefanie Dolson | 1,667 |
@@ -321,7 +321,7 @@ _Last updated: 2026-06-03 02:48 UTC_
 | 95 | Seimone Augustus | 1,228 |
 | 96 | Myisha Hines-Allen | 1,224 |
 | 97 | Jia Perkins | 1,220 |
-| 98 | **Chelsea Gray** 🔴 | 1,210 |
+| 98 | **Chelsea Gray** 🔴 +1 | 1,211 |
 | 99 | Kayla McBride | 1,201 |
 | 100 | DeMya Walker | 1,199 |
 | 101 | Latasha Byears | 1,190 |
@@ -642,7 +642,7 @@ _Last updated: 2026-06-03 02:48 UTC_
 | 6 | Lauren Jackson | 586 |
 | 7 | Tammy Sutton-Brown | 555 |
 | 8 | Tangela Smith | 554 |
-| 9 | **A'ja Wilson** 🔴 | 543 |
+| 9 | **A'ja Wilson** 🔴 +1 | 544 |
 | 10 | Ruth Riley | 505 |
 | 11 | Elizabeth Williams | 487 |
 | 12 | Taj McWilliams-Franklin | 443 |
@@ -779,9 +779,9 @@ _Last updated: 2026-06-03 02:48 UTC_
 | 141 | **NaLyssa Smith** 🔴 | 91 |
 | 144 | Allie Quigley | 90 |
 | 145 | Alysha Clark | 89 |
+| 146 | **Kayla Thornton** 🔴 +1 | 88 |
 | 146 | Marissa Coleman | 88 |
-| 147 | **Kayla Thornton** 🔴 | 87 |
-| 147 | **Tiffany Hayes** 🔴 | 87 |
+| 148 | **Tiffany Hayes** 🔴 | 87 |
 | 149 | Astou Ndiaye-Diatta | 86 |
 | 150 | Adrian Williams-Strong | 85 |
 | 150 | Erlana Larkins | 85 |
@@ -934,7 +934,7 @@ _Last updated: 2026-06-03 02:48 UTC_
 | 93 | Crystal Langhorne | 314 |
 | 94 | Ebony Hoffman | 308 |
 | 95 | Tamera Young | 305 |
-| 96 | **Gabby Williams** 🔴 | 302 |
+| 96 | **Gabby Williams** 🔴 +1 | 303 |
 | 97 | Kedra Holland-Corn | 301 |
 | 98 | Lindsey Harding | 295 |
 | 99 | Janel McCarville | 294 |
@@ -1519,7 +1519,7 @@ _Last updated: 2026-06-03 02:48 UTC_
 | 62 | Nykesha Sales | 796 |
 | 63 | Ebony Hoffman | 791 |
 | 64 | Sue Bird | 775 |
-| 65 | **Erica Wheeler** 🔴 +2 | 772 |
+| 65 | **Erica Wheeler** 🔴 +3 | 773 |
 | 66 | Sheri Sam | 766 |
 | 67 | Kia Vaughn | 755 |
 | 68 | Vickie Johnson | 752 |
