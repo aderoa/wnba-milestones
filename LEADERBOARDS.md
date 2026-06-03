@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-03 01:05 UTC_
+_Last updated: 2026-06-03 01:06 UTC_
 
 ## Contents
 
@@ -165,7 +165,7 @@ _Last updated: 2026-06-03 01:05 UTC_
 | 144 | Sami Whitcomb | 2,211 |
 | 145 | Sophia Witherspoon | 2,210 |
 | 146 | Kia Nurse | 2,204 |
-| 147 | **Jordin Canada** 🔴 +7 | 2,181 |
+| 147 | **Jordin Canada** 🔴 +9 | 2,183 |
 | 148 | Ruthie Bolton | 2,175 |
 | 149 | Ann Wauters | 2,170 |
 | 150 | Layshia Clarendon | 2,168 |
