@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-03 04:00 UTC_
+_Last updated: 2026-06-03 04:01 UTC_
 
 ## Contents
 
@@ -109,7 +109,7 @@ _Last updated: 2026-06-03 04:00 UTC_
 | 88 | Danielle Robinson | 3,160 |
 | 89 | Wendy Palmer | 3,135 |
 | 90 | Shavonte Zellous | 3,103 |
-| 91 | **Erica Wheeler** 🔴 +7 | 3,085 |
+| 91 | **Erica Wheeler** 🔴 +10 | 3,088 |
 | 92 | Briann January | 3,082 |
 | 93 | Erika de Souza | 3,046 |
 | 94 | Shameka Christon | 3,039 |
@@ -206,7 +206,7 @@ _Last updated: 2026-06-03 04:00 UTC_
 | 185 | Sandy Brondello | 1,759 |
 | 186 | Natisha Hiedeman | 1,751 |
 | 187 | Sugar Rodgers | 1,733 |
-| 188 | **NaLyssa Smith** 🔴 +5 | 1,727 |
+| 188 | **NaLyssa Smith** 🔴 +7 | 1,729 |
 | 189 | Moriah Jefferson | 1,722 |
 | 190 | Sophie Cunningham | 1,705 |
 | 191 | Armintie Herrington | 1,696 |
@@ -240,7 +240,7 @@ _Last updated: 2026-06-03 04:00 UTC_
 | 14 | Sancho Lyttle | 2,596 |
 | 15 | DeLisha Milton-Jones | 2,574 |
 | 16 | Brittney Griner | 2,541 |
-| 17 | **A'ja Wilson** 🔴 +14 | 2,536 |
+| 17 | **A'ja Wilson** 🔴 +15 | 2,537 |
 | 18 | Swin Cash | 2,521 |
 | 19 | Breanna Stewart | 2,510 |
 | 20 | Michelle Snow | 2,476 |
@@ -434,7 +434,7 @@ _Last updated: 2026-06-03 04:00 UTC_
 | 3 | Ticha Penicheiro | 2,588 |
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
-| 6 | **Chelsea Gray** 🔴 +10 | 1,913 |
+| 6 | **Chelsea Gray** 🔴 +11 | 1,914 |
 | 7 | Alyssa Thomas | 1,854 |
 | 8 | Skylar Diggins | 1,786 |
 | 9 | Natasha Cloud | 1,750 |
@@ -484,7 +484,7 @@ _Last updated: 2026-06-03 04:00 UTC_
 | 53 | Angel McCoughtry | 915 |
 | 54 | Layshia Clarendon | 911 |
 | 54 | Seimone Augustus | 911 |
-| 56 | **Nneka Ogwumike** 🔴 +1 | 905 |
+| 56 | **Nneka Ogwumike** 🔴 +2 | 906 |
 | 57 | Candice Dupree | 902 |
 | 58 | Arike Ogunbowale | 896 |
 | 58 | Maya Moore | 896 |
@@ -1105,7 +1105,7 @@ _Last updated: 2026-06-03 04:00 UTC_
 | 57 | Deanna Nolan | 340 |
 | 58 | Anna DeForge | 334 |
 | 59 | Natasha Cloud | 333 |
-| 60 | **Erica Wheeler** 🔴 +1 | 323 |
+| 60 | **Erica Wheeler** 🔴 +2 | 324 |
 | 61 | **Jackie Young** 🔴 +2 | 317 |
 | 61 | Sugar Rodgers | 317 |
 | 63 | Marissa Coleman | 315 |
