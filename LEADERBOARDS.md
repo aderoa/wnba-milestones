@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-03 03:34 UTC_
+_Last updated: 2026-06-03 03:35 UTC_
 
 ## Contents
 
@@ -403,7 +403,7 @@ _Last updated: 2026-06-03 03:34 UTC_
 | 177 | Tiffani Johnson | 778 |
 | 178 | **Gabby Williams** 🔴 +2 | 776 |
 | 179 | Teresa Weatherspoon | 775 |
-| 180 | **Ariel Atkins** 🔴 +6 | 770 |
+| 180 | **Ariel Atkins** 🔴 +7 | 771 |
 | 181 | Anna DeForge | 769 |
 | 181 | Kelsey Bone | 769 |
 | 181 | Tan White | 769 |
