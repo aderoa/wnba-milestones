@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-03 03:35 UTC_
+_Last updated: 2026-06-03 03:36 UTC_
 
 ## Contents
 
@@ -240,7 +240,7 @@ _Last updated: 2026-06-03 03:35 UTC_
 | 14 | Sancho Lyttle | 2,596 |
 | 15 | DeLisha Milton-Jones | 2,574 |
 | 16 | Brittney Griner | 2,541 |
-| 17 | **A'ja Wilson** 🔴 +12 | 2,534 |
+| 17 | **A'ja Wilson** 🔴 +13 | 2,535 |
 | 18 | Swin Cash | 2,521 |
 | 19 | Breanna Stewart | 2,510 |
 | 20 | Michelle Snow | 2,476 |
@@ -642,7 +642,7 @@ _Last updated: 2026-06-03 03:35 UTC_
 | 6 | Lauren Jackson | 586 |
 | 7 | Tammy Sutton-Brown | 555 |
 | 8 | Tangela Smith | 554 |
-| 9 | **A'ja Wilson** 🔴 +4 | 547 |
+| 9 | **A'ja Wilson** 🔴 +5 | 548 |
 | 10 | Ruth Riley | 505 |
 | 11 | Elizabeth Williams | 487 |
 | 12 | Taj McWilliams-Franklin | 443 |
