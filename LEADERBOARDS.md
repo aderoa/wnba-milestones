@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-03 01:29 UTC_
+_Last updated: 2026-06-03 01:30 UTC_
 
 ## Contents
 
@@ -120,8 +120,8 @@ _Last updated: 2026-06-03 01:29 UTC_
 | 99 | Natalie Williams | 2,894 |
 | 100 | Jennifer Gillom | 2,888 |
 | 100 | **Natasha Cloud** 🔴 | 2,888 |
-| 102 | **Elizabeth Williams** 🔴 +6 | 2,862 |
-| 102 | Iziane Castro Marques | 2,862 |
+| 102 | **Elizabeth Williams** 🔴 +8 | 2,864 |
+| 103 | Iziane Castro Marques | 2,862 |
 | 104 | Alysha Clark | 2,792 |
 | 105 | Jantel Lavender | 2,775 |
 | 106 | Brionna Jones | 2,765 |
@@ -415,9 +415,9 @@ _Last updated: 2026-06-03 01:29 UTC_
 | 189 | Ashley Robinson | 734 |
 | 190 | Arike Ogunbowale | 731 |
 | 191 | Shenise Johnson | 729 |
-| 192 | Sami Whitcomb | 726 |
-| 192 | **Shakira Austin** 🔴 +7 | 726 |
-| 192 | Shekinna Stricklen | 726 |
+| 192 | **Shakira Austin** 🔴 +8 | 727 |
+| 193 | Sami Whitcomb | 726 |
+| 193 | Shekinna Stricklen | 726 |
 | 195 | Kelsey Plum | 721 |
 | 196 | Olympia Scott | 711 |
 | 197 | Katie Mattera | 708 |
@@ -677,7 +677,7 @@ _Last updated: 2026-06-03 01:29 UTC_
 | 41 | **Azurá Stevens** 🔴 +2 | 232 |
 | 42 | Brianna Turner | 231 |
 | 43 | Chasity Melvin | 228 |
-| 44 | **Skylar Diggins** 🔴 | 225 |
+| 44 | **Skylar Diggins** 🔴 +1 | 226 |
 | 45 | Alanna Smith | 222 |
 | 46 | Sancho Lyttle | 221 |
 | 47 | Alana Beard | 220 |
