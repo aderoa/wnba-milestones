@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-03 00:56 UTC_
+_Last updated: 2026-06-03 00:57 UTC_
 
 ## Contents
 
@@ -375,7 +375,7 @@ _Last updated: 2026-06-03 00:56 UTC_
 | 149 | Natalie Achonwa | 895 |
 | 150 | Temeka Johnson | 889 |
 | 151 | Mistie Bass | 888 |
-| 152 | **Angel Reese** 🔴 +8 | 869 |
+| 152 | **Angel Reese** 🔴 +9 | 870 |
 | 153 | Shameka Christon | 867 |
 | 154 | Krystal Thomas | 862 |
 | 155 | Erica Wheeler | 858 |
@@ -393,8 +393,8 @@ _Last updated: 2026-06-03 00:56 UTC_
 | 167 | Carolyn Swords | 814 |
 | 168 | Tierra Ruffin-Pratt | 799 |
 | 169 | Charlotte Smith | 794 |
-| 170 | Betnijah Laney-Hamilton | 792 |
-| 170 | **Naz Hillmon** 🔴 +4 | 792 |
+| 170 | **Naz Hillmon** 🔴 +5 | 793 |
+| 171 | Betnijah Laney-Hamilton | 792 |
 | 172 | Rhonda Mapp | 788 |
 | 173 | Mercedes Russell | 786 |
 | 174 | Odyssey Sims | 780 |
@@ -895,8 +895,8 @@ _Last updated: 2026-06-03 00:56 UTC_
 | 54 | Monique Currie | 378 |
 | 54 | Tiffany Hayes | 378 |
 | 56 | Chamique Holdsclaw | 376 |
-| 57 | **Jordin Canada** 🔴 +2 | 371 |
-| 58 | Mwadi Mabika | 370 |
+| 57 | **Jordin Canada** 🔴 +1 | 370 |
+| 57 | Mwadi Mabika | 370 |
 | 59 | Ariel Atkins | 369 |
 | 60 | Brittney Sykes | 362 |
 | 61 | Lauren Jackson | 360 |
