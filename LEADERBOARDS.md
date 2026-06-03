@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-03 03:54 UTC_
+_Last updated: 2026-06-03 03:55 UTC_
 
 ## Contents
 
@@ -212,7 +212,7 @@ _Last updated: 2026-06-03 03:54 UTC_
 | 191 | Armintie Herrington | 1,696 |
 | 192 | Nikki Teasley | 1,690 |
 | 193 | Shenise Johnson | 1,688 |
-| 194 | **Gabby Williams** 🔴 +6 | 1,640 |
+| 194 | **Gabby Williams** 🔴 +8 | 1,642 |
 | 195 | Janell Burse | 1,580 |
 | 196 | Le'coe Willingham | 1,552 |
 | 197 | Shatori Walker-Kimbrough | 1,544 |
@@ -823,9 +823,9 @@ _Last updated: 2026-06-03 03:54 UTC_
 | 186 | Tanisha Wright | 71 |
 | 188 | Myisha Hines-Allen | 70 |
 | 188 | Wendy Palmer | 70 |
+| 190 | **Cameron Brink** 🔴 +2 | 69 |
 | 190 | Mercedes Russell | 69 |
 | 190 | Rhonda Mapp | 69 |
-| 192 | **Cameron Brink** 🔴 +1 | 68 |
 | 193 | **Jackie Young** 🔴 | 67 |
 | 193 | Satou Sabally | 67 |
 | 193 | Shannon Johnson | 67 |
@@ -957,8 +957,8 @@ _Last updated: 2026-06-03 03:54 UTC_
 | 116 | Karima Christmas-Kelly | 261 |
 | 117 | Riquna Williams | 260 |
 | 118 | Kelsey Plum | 258 |
-| 119 | **Kayla Thornton** 🔴 +1 | 256 |
-| 119 | Noelle Quinn | 256 |
+| 119 | **Kayla Thornton** 🔴 +2 | 257 |
+| 120 | Noelle Quinn | 256 |
 | 121 | Elaine Powell | 255 |
 | 121 | Loree Moore | 255 |
 | 123 | Ruthie Bolton | 254 |
@@ -1655,4 +1655,4 @@ _Last updated: 2026-06-03 03:54 UTC_
 | 197 | Alanna Smith | 452 |
 | 198 | Alexis Hornbuckle | 450 |
 | 199 | Bria Hartley | 448 |
-| 200 | **NaLyssa Smith** 🔴 +4 | 446 |
+| 200 | **NaLyssa Smith** 🔴 +5 | 447 |
