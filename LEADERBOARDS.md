@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-03 23:45 UTC_
+_Last updated: 2026-06-03 23:46 UTC_
 
 ## Contents
 
@@ -74,7 +74,7 @@ _Last updated: 2026-06-03 23:45 UTC_
 | 53 | Dearica Hamby | 4,228 |
 | 54 | Yolanda Griffith | 4,224 |
 | 55 | Courtney Williams | 4,221 |
-| 56 | **Jonquel Jones** 🔴 +5 | 4,205 |
+| 56 | **Jonquel Jones** 🔴 +7 | 4,207 |
 | 57 | Rebekkah Brunson | 4,133 |
 | 58 | Asjha Jones | 3,986 |
 | 59 | Deanna Nolan | 3,971 |
@@ -114,7 +114,7 @@ _Last updated: 2026-06-03 23:45 UTC_
 | 93 | Erika de Souza | 3,046 |
 | 94 | Sabrina Ionescu | 3,041 |
 | 95 | Shameka Christon | 3,039 |
-| 96 | **Marina Mabrey** 🔴 | 3,035 |
+| 96 | **Marina Mabrey** 🔴 +2 | 3,037 |
 | 97 | Marie Ferdinand-Harris | 3,001 |
 | 98 | Emma Meesseman | 2,966 |
 | 99 | Natasha Cloud | 2,939 |
@@ -236,7 +236,7 @@ _Last updated: 2026-06-03 23:45 UTC_
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | Alyssa Thomas | 2,808 |
-| 13 | **Jonquel Jones** 🔴 +1 | 2,647 |
+| 13 | **Jonquel Jones** 🔴 +2 | 2,648 |
 | 14 | Sancho Lyttle | 2,596 |
 | 15 | A'ja Wilson | 2,574 |
 | 15 | DeLisha Milton-Jones | 2,574 |
