@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-03 00:24 UTC_
+_Last updated: 2026-06-03 00:25 UTC_
 
 ## Contents
 
@@ -147,8 +147,8 @@ _Last updated: 2026-06-03 00:24 UTC_
 | 126 | Ruth Riley | 2,434 |
 | 127 | Svetlana Abrosimova | 2,414 |
 | 128 | Anna DeForge | 2,413 |
-| 129 | DeMya Walker | 2,379 |
-| 130 | **Rhyne Howard** 🔴 +19 | 2,377 |
+| 129 | **Rhyne Howard** 🔴 +22 | 2,380 |
+| 130 | DeMya Walker | 2,379 |
 | 131 | Alex Bentley | 2,350 |
 | 132 | Merlakia Jones | 2,308 |
 | 133 | Kia Vaughn | 2,288 |
@@ -459,7 +459,7 @@ _Last updated: 2026-06-03 00:24 UTC_
 | 28 | Vickie Johnson | 1,202 |
 | 29 | Leilani Mitchell | 1,197 |
 | 30 | DeWanna Bonner | 1,183 |
-| 31 | **Jordin Canada** 🔴 +3 | 1,158 |
+| 31 | **Jordin Canada** 🔴 +4 | 1,159 |
 | 32 | Jewell Loyd | 1,141 |
 | 33 | Renee Montgomery | 1,140 |
 | 34 | Swin Cash | 1,131 |
@@ -556,7 +556,7 @@ _Last updated: 2026-06-03 00:24 UTC_
 | 125 | Anna DeForge | 503 |
 | 125 | Coco Miller | 503 |
 | 127 | Veronica Burton | 501 |
-| 128 | **Rachel Banham** 🔴 | 498 |
+| 128 | **Rachel Banham** 🔴 +1 | 499 |
 | 129 | **Rhyne Howard** 🔴 +1 | 491 |
 | 130 | Caitlin Clark | 488 |
 | 130 | Crystal Robinson | 488 |
@@ -895,8 +895,8 @@ _Last updated: 2026-06-03 00:24 UTC_
 | 54 | Monique Currie | 378 |
 | 54 | Tiffany Hayes | 378 |
 | 56 | Chamique Holdsclaw | 376 |
-| 57 | **Jordin Canada** 🔴 +2 | 371 |
-| 58 | Mwadi Mabika | 370 |
+| 57 | **Jordin Canada** 🔴 +1 | 370 |
+| 57 | Mwadi Mabika | 370 |
 | 59 | Ariel Atkins | 369 |
 | 60 | Brittney Sykes | 362 |
 | 61 | Lauren Jackson | 360 |
@@ -906,8 +906,8 @@ _Last updated: 2026-06-03 00:24 UTC_
 | 64 | Renee Montgomery | 356 |
 | 66 | Tamecka Dixon | 355 |
 | 67 | Vicky Bullett | 353 |
+| 68 | **Allisha Gray** 🔴 +1 | 352 |
 | 68 | Svetlana Abrosimova | 352 |
-| 69 | **Allisha Gray** 🔴 | 351 |
 | 70 | Erica Wheeler | 349 |
 | 71 | Janeth Arcain | 346 |
 | 72 | Helen Darling | 343 |
@@ -1090,7 +1090,7 @@ _Last updated: 2026-06-03 00:24 UTC_
 | 43 | Briann January | 381 |
 | 44 | Jasmine Thomas | 376 |
 | 44 | **Rachel Banham** 🔴 | 376 |
-| 46 | **Rhyne Howard** 🔴 +4 | 374 |
+| 46 | **Rhyne Howard** 🔴 +5 | 375 |
 | 47 | Allison Feaster | 372 |
 | 47 | Betty Lennox | 372 |
 | 49 | Epiphanny Prince | 368 |
