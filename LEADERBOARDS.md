@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-03 00:19 UTC_
+_Last updated: 2026-06-03 00:20 UTC_
 
 ## Contents
 
@@ -36,7 +36,7 @@ _Last updated: 2026-06-03 00:19 UTC_
 | 15 | Jewell Loyd | 6,059 |
 | 16 | Lauren Jackson | 6,005 |
 | 16 | Seimone Augustus | 6,005 |
-| 18 | **Brittney Griner** 🔴 +5 | 5,988 |
+| 18 | **Brittney Griner** 🔴 +7 | 5,990 |
 | 19 | A'ja Wilson | 5,844 |
 | 20 | Becky Hammon | 5,816 |
 | 21 | Angel McCoughtry | 5,797 |
@@ -68,7 +68,7 @@ _Last updated: 2026-06-03 00:19 UTC_
 | 47 | Sophia Young-Malcolm | 4,300 |
 | 48 | Plenette Pierson | 4,258 |
 | 49 | Monique Currie | 4,253 |
-| 50 | **Allisha Gray** 🔴 +13 | 4,245 |
+| 50 | **Allisha Gray** 🔴 +16 | 4,248 |
 | 51 | Vickie Johnson | 4,230 |
 | 52 | Yolanda Griffith | 4,224 |
 | 53 | Dearica Hamby | 4,158 |
@@ -256,7 +256,7 @@ _Last updated: 2026-06-03 00:19 UTC_
 | 30 | Chamique Holdsclaw | 2,123 |
 | 31 | Chasity Melvin | 2,097 |
 | 32 | Tammy Sutton-Brown | 2,010 |
-| 33 | **Elizabeth Williams** 🔴 | 1,923 |
+| 33 | **Elizabeth Williams** 🔴 +1 | 1,924 |
 | 34 | Cheryl Ford | 1,907 |
 | 35 | Plenette Pierson | 1,834 |
 | 36 | Natalie Williams | 1,832 |
@@ -567,7 +567,7 @@ _Last updated: 2026-06-03 00:19 UTC_
 | 136 | Janeth Arcain | 469 |
 | 137 | Erin Phillips | 462 |
 | 138 | Sylvia Fowles | 461 |
-| 139 | **Elizabeth Williams** 🔴 +2 | 457 |
+| 139 | **Elizabeth Williams** 🔴 +3 | 458 |
 | 140 | Sydney Colson | 454 |
 | 141 | Satou Sabally | 451 |
 | 141 | Yolanda Griffith | 451 |
@@ -940,8 +940,8 @@ _Last updated: 2026-06-03 00:19 UTC_
 | 99 | Janel McCarville | 294 |
 | 100 | Kelly Miller | 290 |
 | 101 | Glory Johnson | 289 |
-| 102 | **Elizabeth Williams** 🔴 | 285 |
-| 102 | Essence Carson | 285 |
+| 102 | **Elizabeth Williams** 🔴 +1 | 286 |
+| 103 | Essence Carson | 285 |
 | 104 | Seimone Augustus | 280 |
 | 105 | Tari Phillips | 277 |
 | 106 | Emma Meesseman | 276 |
@@ -1075,8 +1075,8 @@ _Last updated: 2026-06-03 00:19 UTC_
 | 28 | Tiffany Hayes | 447 |
 | 29 | Ariel Atkins | 440 |
 | 30 | Lauren Jackson | 436 |
-| 31 | **Allisha Gray** 🔴 +2 | 434 |
-| 31 | Shameka Christon | 434 |
+| 31 | **Allisha Gray** 🔴 +3 | 435 |
+| 32 | Shameka Christon | 434 |
 | 33 | **Skylar Diggins** 🔴 +1 | 429 |
 | 34 | Crystal Robinson | 425 |
 | 35 | Chelsea Gray | 423 |
