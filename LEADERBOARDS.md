@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-03 02:37 UTC_
+_Last updated: 2026-06-03 02:38 UTC_
 
 ## Contents
 
@@ -110,7 +110,7 @@ _Last updated: 2026-06-03 02:37 UTC_
 | 89 | Wendy Palmer | 3,135 |
 | 90 | Shavonte Zellous | 3,103 |
 | 91 | Briann January | 3,082 |
-| 92 | **Erica Wheeler** 🔴 +3 | 3,081 |
+| 91 | **Erica Wheeler** 🔴 +4 | 3,082 |
 | 93 | Erika de Souza | 3,046 |
 | 94 | Shameka Christon | 3,039 |
 | 95 | Sabrina Ionescu | 3,030 |
@@ -553,7 +553,7 @@ _Last updated: 2026-06-03 02:37 UTC_
 | 122 | Iziane Castro Marques | 509 |
 | 123 | Brittany Boyd-Jones | 508 |
 | 123 | Chasity Melvin | 508 |
-| 125 | **Veronica Burton** 🔴 +3 | 504 |
+| 125 | **Veronica Burton** 🔴 +4 | 505 |
 | 126 | Anna DeForge | 503 |
 | 126 | Coco Miller | 503 |
 | 128 | Rachel Banham | 500 |
@@ -1125,7 +1125,7 @@ _Last updated: 2026-06-03 02:37 UTC_
 | 78 | Monique Currie | 284 |
 | 79 | **Kayla Thornton** 🔴 +3 | 279 |
 | 80 | Iziane Castro Marques | 275 |
-| 81 | **Bridget Carleton** 🔴 +1 | 273 |
+| 81 | **Bridget Carleton** 🔴 +2 | 274 |
 | 82 | Sheryl Swoopes | 270 |
 | 83 | Stefanie Dolson | 269 |
 | 84 | Courtney Williams | 260 |
@@ -1541,7 +1541,7 @@ _Last updated: 2026-06-03 02:37 UTC_
 | 84 | Tan White | 698 |
 | 85 | Katie Douglas | 697 |
 | 86 | Danielle Robinson | 692 |
-| 87 | **Ariel Atkins** 🔴 | 689 |
+| 87 | **Ariel Atkins** 🔴 +1 | 690 |
 | 88 | Sophia Young-Malcolm | 687 |
 | 89 | Maya Moore | 686 |
 | 90 | Jasmine Thomas | 685 |
