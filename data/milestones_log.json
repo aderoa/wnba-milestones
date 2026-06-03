@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-03T01:17:00+00:00",
+    "text": "Azur\u00e1 Stevens passed Brianna Turner for #41 all-time in blocks (career 232) \u2014 up from #42 entering today \u2014 (8:31 - 4th \u2014 CHI @ WSH)",
+    "kind": "rank_pass",
+    "player": "Azur\u00e1 Stevens",
+    "stat": "blocks",
+    "rank": 41,
+    "passed_players": [
+      "Brianna Turner"
+    ],
+    "new_total": 232
+  },
+  {
     "ts": "2026-06-03T01:01:00+00:00",
     "text": "Kamilla Cardoso passed Carolyn Swords and Rebecca Lobo for #119 all-time in blocks (career 105) \u2014 up from #129 entering today \u2014 (4:14 - 3rd \u2014 CHI @ WSH)",
     "kind": "rank_pass",
@@ -2987,17 +2999,5 @@
       "Merlakia Jones"
     ],
     "new_total": 356
-  },
-  {
-    "ts": "2026-05-19T01:22:00+00:00",
-    "text": "Odyssey Sims passed Kelsey Plum for #67 all-time in turnovers (career 625) \u2014 up from #68 entering today \u2014 (6:31 - 3rd \u2014 WSH @ DAL)",
-    "kind": "rank_pass",
-    "player": "Odyssey Sims",
-    "stat": "turnovers",
-    "rank": 67,
-    "passed_players": [
-      "Kelsey Plum"
-    ],
-    "new_total": 625
   }
 ]
