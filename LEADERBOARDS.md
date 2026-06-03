@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-03 03:12 UTC_
+_Last updated: 2026-06-03 03:13 UTC_
 
 ## Contents
 
@@ -206,7 +206,7 @@ _Last updated: 2026-06-03 03:12 UTC_
 | 185 | Sandy Brondello | 1,759 |
 | 186 | Natisha Hiedeman | 1,751 |
 | 187 | Sugar Rodgers | 1,733 |
-| 188 | **NaLyssa Smith** 🔴 +4 | 1,726 |
+| 188 | **NaLyssa Smith** 🔴 +5 | 1,727 |
 | 189 | Moriah Jefferson | 1,722 |
 | 190 | Sophie Cunningham | 1,705 |
 | 191 | Armintie Herrington | 1,696 |
@@ -321,7 +321,7 @@ _Last updated: 2026-06-03 03:12 UTC_
 | 95 | Seimone Augustus | 1,228 |
 | 96 | Myisha Hines-Allen | 1,224 |
 | 97 | Jia Perkins | 1,220 |
-| 98 | **Chelsea Gray** 🔴 +1 | 1,211 |
+| 98 | **Chelsea Gray** 🔴 +2 | 1,212 |
 | 99 | Kayla McBride | 1,201 |
 | 100 | DeMya Walker | 1,199 |
 | 101 | Latasha Byears | 1,190 |
@@ -401,12 +401,12 @@ _Last updated: 2026-06-03 03:12 UTC_
 | 174 | Sue Wicks | 780 |
 | 176 | Lindsey Harding | 779 |
 | 177 | Tiffani Johnson | 778 |
-| 178 | **Gabby Williams** 🔴 +2 | 776 |
-| 179 | Teresa Weatherspoon | 775 |
+| 178 | **Gabby Williams** 🔴 +1 | 775 |
+| 178 | Teresa Weatherspoon | 775 |
 | 180 | Anna DeForge | 769 |
+| 180 | **Ariel Atkins** 🔴 +5 | 769 |
 | 180 | Kelsey Bone | 769 |
 | 180 | Tan White | 769 |
-| 183 | **Ariel Atkins** 🔴 +4 | 768 |
 | 184 | Tully Bevilaqua | 767 |
 | 185 | Layshia Clarendon | 756 |
 | 186 | Brooke Wyckoff | 751 |
@@ -758,9 +758,9 @@ _Last updated: 2026-06-03 03:12 UTC_
 | 122 | Courtney Williams | 103 |
 | 122 | Jennifer Gillom | 103 |
 | 122 | Jia Perkins | 103 |
+| 125 | **Dearica Hamby** 🔴 +1 | 102 |
 | 125 | Theresa Plaisance | 102 |
-| 126 | Deanna Nolan | 101 |
-| 126 | **Dearica Hamby** 🔴 | 101 |
+| 127 | Deanna Nolan | 101 |
 | 128 | Chante Black | 100 |
 | 128 | Danielle Adams | 100 |
 | 128 | **Emily Engstler** 🔴 +1 | 100 |
@@ -1470,7 +1470,7 @@ _Last updated: 2026-06-03 03:12 UTC_
 | 13 | Alana Beard | 1,153 |
 | 14 | Swin Cash | 1,146 |
 | 15 | Taj McWilliams-Franklin | 1,145 |
-| 16 | **Nneka Ogwumike** 🔴 | 1,140 |
+| 16 | **Nneka Ogwumike** 🔴 +1 | 1,141 |
 | 17 | Monique Currie | 1,137 |
 | 18 | Tanisha Wright | 1,109 |
 | 19 | Michelle Snow | 1,108 |
@@ -1566,8 +1566,8 @@ _Last updated: 2026-06-03 03:12 UTC_
 | 109 | Jennifer Gillom | 629 |
 | 110 | Deanna Nolan | 628 |
 | 111 | Brionna Jones | 625 |
-| 112 | **Kiah Stokes** 🔴 +1 | 618 |
-| 112 | Teaira McCowan | 618 |
+| 112 | **Kiah Stokes** 🔴 +2 | 619 |
+| 113 | Teaira McCowan | 618 |
 | 114 | Courtney Paris | 617 |
 | 115 | Coco Miller | 615 |
 | 116 | Brooke Wyckoff | 614 |
