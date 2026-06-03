@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-03 23:44 UTC_
+_Last updated: 2026-06-03 23:45 UTC_
 
 ## Contents
 
@@ -236,7 +236,7 @@ _Last updated: 2026-06-03 23:44 UTC_
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | Alyssa Thomas | 2,808 |
-| 13 | **Jonquel Jones** 🔴 | 2,646 |
+| 13 | **Jonquel Jones** 🔴 +1 | 2,647 |
 | 14 | Sancho Lyttle | 2,596 |
 | 15 | A'ja Wilson | 2,574 |
 | 15 | DeLisha Milton-Jones | 2,574 |
@@ -898,7 +898,7 @@ _Last updated: 2026-06-03 23:44 UTC_
 | 56 | Monique Currie | 378 |
 | 58 | Chamique Holdsclaw | 376 |
 | 59 | Mwadi Mabika | 370 |
-| 60 | **Brittney Sykes** 🔴 | 364 |
+| 60 | **Brittney Sykes** 🔴 +1 | 365 |
 | 61 | Lauren Jackson | 360 |
 | 61 | Tan White | 360 |
 | 63 | Allisha Gray | 358 |
@@ -1331,8 +1331,8 @@ _Last updated: 2026-06-03 23:44 UTC_
 | 80 | Helen Darling | 575 |
 | 80 | Nykesha Sales | 575 |
 | 82 | Andrea Stinson | 571 |
+| 83 | **Breanna Stewart** 🔴 +1 | 570 |
 | 83 | Kara Braxton | 570 |
-| 84 | **Breanna Stewart** 🔴 | 569 |
 | 85 | Nikki McCray | 565 |
 | 86 | Sancho Lyttle | 563 |
 | 87 | Kelsey Mitchell | 562 |
@@ -1594,8 +1594,8 @@ _Last updated: 2026-06-03 23:44 UTC_
 | 138 | Dawn Staley | 551 |
 | 139 | Glory Johnson | 550 |
 | 139 | Tierra Ruffin-Pratt | 550 |
-| 141 | Erlana Larkins | 546 |
-| 141 | **Marina Mabrey** 🔴 | 546 |
+| 141 | **Marina Mabrey** 🔴 +1 | 547 |
+| 142 | Erlana Larkins | 546 |
 | 143 | Jayne Appel Marinelli | 543 |
 | 143 | Renee Montgomery | 543 |
 | 145 | Marissa Coleman | 541 |

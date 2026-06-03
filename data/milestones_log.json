@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-03T23:45:00+00:00",
+    "text": "Marina Mabrey passed Erlana Larkins for #141 all-time in fouls (career 547) \u2014 up from #142 entering today \u2014 (4:56 - 1st \u2014 TOR @ NY)",
+    "kind": "rank_pass",
+    "player": "Marina Mabrey",
+    "stat": "fouls",
+    "rank": 141,
+    "passed_players": [
+      "Erlana Larkins"
+    ],
+    "new_total": 547
+  },
+  {
     "ts": "2026-06-03T03:54:00+00:00",
     "text": "Veronica Burton passed Iziane Castro Marques for #122 all-time in assists (career 510) \u2014 up from #127 entering today \u2014 (3:00 - 4th \u2014 POR @ GS)",
     "kind": "rank_pass",
@@ -2992,17 +3004,5 @@
     "stat": "blocks",
     "value": 100,
     "new_total": 100
-  },
-  {
-    "ts": "2026-05-19T01:50:00+00:00",
-    "text": "Jessica Shepard passed Bridget Carleton for #186 all-time in assists (career 359) \u2014 up from #189 entering today \u2014 (5:54 - 4th \u2014 WSH @ DAL)",
-    "kind": "rank_pass",
-    "player": "Jessica Shepard",
-    "stat": "assists",
-    "rank": 186,
-    "passed_players": [
-      "Bridget Carleton"
-    ],
-    "new_total": 359
   }
 ]
