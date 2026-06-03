@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-03 01:37 UTC_
+_Last updated: 2026-06-03 01:38 UTC_
 
 ## Contents
 
@@ -42,7 +42,7 @@ _Last updated: 2026-06-03 01:37 UTC_
 | 21 | Angel McCoughtry | 5,797 |
 | 22 | DeLisha Milton-Jones | 5,571 |
 | 23 | Katie Douglas | 5,545 |
-| 24 | **Skylar Diggins** 🔴 +11 | 5,536 |
+| 24 | **Skylar Diggins** 🔴 +14 | 5,539 |
 | 25 | Lindsay Whalen | 5,511 |
 | 26 | Kayla McBride | 5,454 |
 | 27 | Swin Cash | 5,119 |
@@ -1077,7 +1077,7 @@ _Last updated: 2026-06-03 01:37 UTC_
 | 30 | Lauren Jackson | 436 |
 | 31 | **Allisha Gray** 🔴 +3 | 435 |
 | 32 | Shameka Christon | 434 |
-| 33 | **Skylar Diggins** 🔴 +1 | 429 |
+| 33 | **Skylar Diggins** 🔴 +2 | 430 |
 | 34 | Crystal Robinson | 425 |
 | 35 | Chelsea Gray | 423 |
 | 36 | Mwadi Mabika | 415 |
@@ -1228,7 +1228,7 @@ _Last updated: 2026-06-03 01:37 UTC_
 | 180 | Shey Peddy | 115 |
 | 180 | Stephanie White | 115 |
 | 183 | Gordana Grubin | 114 |
-| 183 | Rickea Jackson | 114 |
+| 183 | **Rickea Jackson** 🔴 | 114 |
 | 183 | Sandy Brondello | 114 |
 | 186 | Lexie Hull | 111 |
 | 186 | Shoni Schimmel | 111 |
