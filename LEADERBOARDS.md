@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-03 02:18 UTC_
+_Last updated: 2026-06-03 02:19 UTC_
 
 ## Contents
 
@@ -152,7 +152,7 @@ _Last updated: 2026-06-03 02:18 UTC_
 | 131 | Alex Bentley | 2,350 |
 | 132 | Merlakia Jones | 2,308 |
 | 133 | Kia Vaughn | 2,288 |
-| 134 | **Kayla Thornton** 🔴 +10 | 2,277 |
+| 134 | **Kayla Thornton** 🔴 +11 | 2,278 |
 | 135 | Betnijah Laney-Hamilton | 2,261 |
 | 136 | Allison Feaster | 2,258 |
 | 137 | Shekinna Stricklen | 2,245 |
@@ -240,7 +240,7 @@ _Last updated: 2026-06-03 02:18 UTC_
 | 14 | Sancho Lyttle | 2,596 |
 | 15 | DeLisha Milton-Jones | 2,574 |
 | 16 | Brittney Griner | 2,541 |
-| 17 | **A'ja Wilson** 🔴 +4 | 2,526 |
+| 17 | **A'ja Wilson** 🔴 +5 | 2,527 |
 | 18 | Swin Cash | 2,521 |
 | 19 | Breanna Stewart | 2,510 |
 | 20 | Michelle Snow | 2,476 |
