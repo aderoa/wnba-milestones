@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-03 01:34 UTC_
+_Last updated: 2026-06-03 01:35 UTC_
 
 ## Contents
 
@@ -147,7 +147,7 @@ _Last updated: 2026-06-03 01:34 UTC_
 | 126 | Ruth Riley | 2,434 |
 | 127 | Svetlana Abrosimova | 2,414 |
 | 128 | Anna DeForge | 2,413 |
-| 129 | **Rhyne Howard** 🔴 +33 | 2,391 |
+| 129 | **Rhyne Howard** 🔴 +35 | 2,393 |
 | 130 | DeMya Walker | 2,379 |
 | 131 | Alex Bentley | 2,350 |
 | 132 | Merlakia Jones | 2,308 |
@@ -989,11 +989,11 @@ _Last updated: 2026-06-03 01:34 UTC_
 | 148 | Shenise Johnson | 217 |
 | 149 | Adrian Williams-Strong | 216 |
 | 149 | Moriah Jefferson | 216 |
-| 151 | Asjha Jones | 215 |
-| 151 | Candice Wiggins | 215 |
-| 151 | Cheyenne Parker-Tyus | 215 |
-| 151 | Elena Baranova | 215 |
-| 151 | **Rhyne Howard** 🔴 +1 | 215 |
+| 149 | **Rhyne Howard** 🔴 +2 | 216 |
+| 152 | Asjha Jones | 215 |
+| 152 | Candice Wiggins | 215 |
+| 152 | Cheyenne Parker-Tyus | 215 |
+| 152 | Elena Baranova | 215 |
 | 156 | Kahleah Copper | 213 |
 | 156 | Shekinna Stricklen | 213 |
 | 158 | Nikki Teasley | 211 |
