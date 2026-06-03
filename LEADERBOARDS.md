@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-03 03:08 UTC_
+_Last updated: 2026-06-03 03:09 UTC_
 
 ## Contents
 
@@ -240,7 +240,7 @@ _Last updated: 2026-06-03 03:08 UTC_
 | 14 | Sancho Lyttle | 2,596 |
 | 15 | DeLisha Milton-Jones | 2,574 |
 | 16 | Brittney Griner | 2,541 |
-| 17 | **A'ja Wilson** 🔴 +9 | 2,531 |
+| 17 | **A'ja Wilson** 🔴 +10 | 2,532 |
 | 18 | Swin Cash | 2,521 |
 | 19 | Breanna Stewart | 2,510 |
 | 20 | Michelle Snow | 2,476 |
@@ -896,8 +896,8 @@ _Last updated: 2026-06-03 03:08 UTC_
 | 54 | **Tiffany Hayes** 🔴 | 378 |
 | 56 | Chamique Holdsclaw | 376 |
 | 57 | Jordin Canada | 373 |
-| 58 | **Ariel Atkins** 🔴 +1 | 370 |
-| 58 | Mwadi Mabika | 370 |
+| 58 | **Ariel Atkins** 🔴 +2 | 371 |
+| 59 | Mwadi Mabika | 370 |
 | 60 | Brittney Sykes | 362 |
 | 61 | Lauren Jackson | 360 |
 | 61 | Tan White | 360 |
@@ -1370,7 +1370,7 @@ _Last updated: 2026-06-03 03:08 UTC_
 | 118 | Elaine Powell | 469 |
 | 119 | Allie Quigley | 467 |
 | 120 | Allisha Gray | 457 |
-| 121 | **A'ja Wilson** 🔴 +1 | 455 |
+| 121 | **A'ja Wilson** 🔴 +2 | 456 |
 | 122 | Kia Vaughn | 454 |
 | 123 | Janeth Arcain | 453 |
 | 124 | Elena Baranova | 444 |
