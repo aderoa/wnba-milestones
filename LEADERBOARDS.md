@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-03 02:03 UTC_
+_Last updated: 2026-06-03 02:04 UTC_
 
 ## Contents
 
@@ -152,7 +152,7 @@ _Last updated: 2026-06-03 02:03 UTC_
 | 131 | Alex Bentley | 2,350 |
 | 132 | Merlakia Jones | 2,308 |
 | 133 | Kia Vaughn | 2,288 |
-| 134 | **Kayla Thornton** 🔴 | 2,267 |
+| 134 | **Kayla Thornton** 🔴 +3 | 2,270 |
 | 135 | Betnijah Laney-Hamilton | 2,261 |
 | 136 | Allison Feaster | 2,258 |
 | 137 | Shekinna Stricklen | 2,245 |
@@ -230,7 +230,7 @@ _Last updated: 2026-06-03 02:03 UTC_
 | 4 | Rebekkah Brunson | 3,345 |
 | 5 | Tamika Catchings | 3,313 |
 | 6 | Lisa Leslie | 3,303 |
-| 7 | **Nneka Ogwumike** 🔴 | 3,295 |
+| 7 | **Nneka Ogwumike** 🔴 +2 | 3,297 |
 | 8 | DeWanna Bonner | 3,232 |
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
@@ -555,7 +555,7 @@ _Last updated: 2026-06-03 02:03 UTC_
 | 123 | Chasity Melvin | 508 |
 | 125 | Anna DeForge | 503 |
 | 125 | Coco Miller | 503 |
-| 127 | **Veronica Burton** 🔴 | 501 |
+| 127 | **Veronica Burton** 🔴 +1 | 502 |
 | 128 | Rachel Banham | 500 |
 | 129 | Rhyne Howard | 492 |
 | 130 | Caitlin Clark | 488 |
@@ -1123,7 +1123,7 @@ _Last updated: 2026-06-03 02:03 UTC_
 | 76 | Alana Beard | 288 |
 | 76 | Natisha Hiedeman | 288 |
 | 78 | Monique Currie | 284 |
-| 79 | **Kayla Thornton** 🔴 | 276 |
+| 79 | **Kayla Thornton** 🔴 +1 | 277 |
 | 80 | Iziane Castro Marques | 275 |
 | 81 | **Bridget Carleton** 🔴 | 272 |
 | 82 | Sheryl Swoopes | 270 |
@@ -1303,8 +1303,8 @@ _Last updated: 2026-06-03 02:03 UTC_
 | 51 | Danielle Robinson | 680 |
 | 52 | Natasha Cloud | 677 |
 | 52 | Sheryl Swoopes | 677 |
+| 54 | **Erica Wheeler** 🔴 +1 | 672 |
 | 54 | Tammy Sutton-Brown | 672 |
-| 55 | **Erica Wheeler** 🔴 | 671 |
 | 56 | Deanna Nolan | 669 |
 | 57 | **Dearica Hamby** 🔴 | 667 |
 | 58 | Chasity Melvin | 666 |
