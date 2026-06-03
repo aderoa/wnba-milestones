@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-03 02:10 UTC_
+_Last updated: 2026-06-03 02:11 UTC_
 
 ## Contents
 
@@ -98,7 +98,7 @@ _Last updated: 2026-06-03 02:10 UTC_
 | 77 | Ivory Latta | 3,447 |
 | 78 | Nicole Powell | 3,407 |
 | 79 | Epiphanny Prince | 3,381 |
-| 80 | **Ariel Atkins** 🔴 | 3,371 |
+| 80 | **Ariel Atkins** 🔴 +2 | 3,373 |
 | 81 | Michelle Snow | 3,361 |
 | 82 | Tamika Whitmore | 3,359 |
 | 83 | Sheri Sam | 3,353 |
@@ -265,7 +265,7 @@ _Last updated: 2026-06-03 02:10 UTC_
 | 39 | Lindsay Whalen | 1,805 |
 | 40 | Camille Smith | 1,802 |
 | 41 | Courtney Williams | 1,766 |
-| 42 | **Kiah Stokes** 🔴 +1 | 1,761 |
+| 42 | **Kiah Stokes** 🔴 +2 | 1,762 |
 | 43 | Asjha Jones | 1,751 |
 | 44 | Teaira McCowan | 1,670 |
 | 45 | Stefanie Dolson | 1,667 |
@@ -1610,8 +1610,8 @@ _Last updated: 2026-06-03 02:10 UTC_
 | 153 | Sheryl Swoopes | 519 |
 | 154 | Nikki McCray | 517 |
 | 155 | Alex Bentley | 516 |
+| 156 | **Jackie Young** 🔴 +1 | 515 |
 | 156 | Kayla McBride | 515 |
-| 157 | **Jackie Young** 🔴 | 514 |
 | 158 | Jantel Lavender | 513 |
 | 159 | Adrienne Goodson | 512 |
 | 159 | Janeth Arcain | 512 |
