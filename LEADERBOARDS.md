@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-03 23:42 UTC_
+_Last updated: 2026-06-03 23:43 UTC_
 
 ## Contents
 
@@ -382,7 +382,7 @@ _Last updated: 2026-06-03 23:42 UTC_
 | 156 | Alanna Smith | 862 |
 | 156 | Krystal Thomas | 862 |
 | 158 | Nia Coffey | 848 |
-| 159 | **Marina Mabrey** 🔴 | 846 |
+| 159 | **Marina Mabrey** 🔴 +1 | 847 |
 | 160 | Leilani Mitchell | 845 |
 | 161 | Essence Carson | 833 |
 | 162 | Kristi Toliver | 829 |
