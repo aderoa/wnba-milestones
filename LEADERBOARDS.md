@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-03 00:16 UTC_
+_Last updated: 2026-06-03 00:17 UTC_
 
 ## Contents
 
@@ -148,7 +148,7 @@ _Last updated: 2026-06-03 00:16 UTC_
 | 127 | Svetlana Abrosimova | 2,414 |
 | 128 | Anna DeForge | 2,413 |
 | 129 | DeMya Walker | 2,379 |
-| 130 | **Rhyne Howard** 🔴 +15 | 2,373 |
+| 130 | **Rhyne Howard** 🔴 +18 | 2,376 |
 | 131 | Alex Bentley | 2,350 |
 | 132 | Merlakia Jones | 2,308 |
 | 133 | Kia Vaughn | 2,288 |
@@ -298,7 +298,7 @@ _Last updated: 2026-06-03 00:16 UTC_
 | 72 | Courtney Vandersloot | 1,383 |
 | 72 | Katie Smith | 1,383 |
 | 74 | Ebony Hoffman | 1,376 |
-| 75 | **Allisha Gray** 🔴 +4 | 1,372 |
+| 75 | **Allisha Gray** 🔴 +3 | 1,371 |
 | 76 | Monique Billings | 1,367 |
 | 77 | Sheri Sam | 1,356 |
 | 78 | Tamika Whitmore | 1,355 |
@@ -567,7 +567,7 @@ _Last updated: 2026-06-03 00:16 UTC_
 | 136 | Janeth Arcain | 469 |
 | 137 | Erin Phillips | 462 |
 | 138 | Sylvia Fowles | 461 |
-| 139 | **Elizabeth Williams** 🔴 +1 | 456 |
+| 139 | **Elizabeth Williams** 🔴 +2 | 457 |
 | 140 | Sydney Colson | 454 |
 | 141 | Satou Sabally | 451 |
 | 141 | Yolanda Griffith | 451 |
@@ -757,10 +757,10 @@ _Last updated: 2026-06-03 00:16 UTC_
 | 121 | Courtney Williams | 103 |
 | 121 | Jennifer Gillom | 103 |
 | 121 | Jia Perkins | 103 |
+| 124 | **Kamilla Cardoso** 🔴 +2 | 102 |
 | 124 | Theresa Plaisance | 102 |
-| 125 | Deanna Nolan | 101 |
-| 125 | Dearica Hamby | 101 |
-| 125 | **Kamilla Cardoso** 🔴 +1 | 101 |
+| 126 | Deanna Nolan | 101 |
+| 126 | Dearica Hamby | 101 |
 | 128 | Chante Black | 100 |
 | 128 | Danielle Adams | 100 |
 | 128 | Nicole Powell | 100 |
@@ -1090,7 +1090,7 @@ _Last updated: 2026-06-03 00:16 UTC_
 | 43 | Briann January | 381 |
 | 44 | Jasmine Thomas | 376 |
 | 44 | **Rachel Banham** 🔴 | 376 |
-| 46 | **Rhyne Howard** 🔴 +3 | 373 |
+| 46 | **Rhyne Howard** 🔴 +4 | 374 |
 | 47 | Allison Feaster | 372 |
 | 47 | Betty Lennox | 372 |
 | 49 | Epiphanny Prince | 368 |
@@ -1532,8 +1532,8 @@ _Last updated: 2026-06-03 00:16 UTC_
 | 75 | Kahleah Copper | 723 |
 | 76 | Kristi Toliver | 722 |
 | 77 | **Allisha Gray** 🔴 +1 | 715 |
-| 78 | Cheryl Ford | 713 |
-| 78 | **Elizabeth Williams** 🔴 | 713 |
+| 78 | **Elizabeth Williams** 🔴 +1 | 714 |
+| 79 | Cheryl Ford | 713 |
 | 80 | Jia Perkins | 711 |
 | 81 | Helen Darling | 709 |
 | 82 | Matee Ajavon | 701 |
