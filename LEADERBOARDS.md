@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-03 02:35 UTC_
+_Last updated: 2026-06-03 02:36 UTC_
 
 ## Contents
 
@@ -37,7 +37,7 @@ _Last updated: 2026-06-03 02:35 UTC_
 | 16 | Lauren Jackson | 6,005 |
 | 16 | Seimone Augustus | 6,005 |
 | 18 | Brittney Griner | 5,990 |
-| 19 | **A'ja Wilson** 🔴 +8 | 5,852 |
+| 19 | **A'ja Wilson** 🔴 +11 | 5,855 |
 | 20 | Becky Hammon | 5,816 |
 | 21 | Angel McCoughtry | 5,797 |
 | 22 | DeLisha Milton-Jones | 5,571 |
@@ -98,7 +98,7 @@ _Last updated: 2026-06-03 02:35 UTC_
 | 77 | Ivory Latta | 3,447 |
 | 78 | Nicole Powell | 3,407 |
 | 79 | Epiphanny Prince | 3,381 |
-| 80 | **Ariel Atkins** 🔴 +2 | 3,373 |
+| 80 | **Ariel Atkins** 🔴 +4 | 3,375 |
 | 81 | Michelle Snow | 3,361 |
 | 82 | Tamika Whitmore | 3,359 |
 | 83 | Sheri Sam | 3,353 |
@@ -466,7 +466,7 @@ _Last updated: 2026-06-03 02:35 UTC_
 | 35 | Lindsey Harding | 1,090 |
 | 36 | Katie Douglas | 1,069 |
 | 37 | Sabrina Ionescu | 1,067 |
-| 38 | **Jackie Young** 🔴 +2 | 1,062 |
+| 38 | **Jackie Young** 🔴 +3 | 1,063 |
 | 39 | Alana Beard | 1,061 |
 | 40 | Penny Taylor | 1,049 |
 | 41 | Dominique Canty | 1,042 |
@@ -763,8 +763,8 @@ _Last updated: 2026-06-03 02:35 UTC_
 | 126 | **Dearica Hamby** 🔴 | 101 |
 | 128 | Chante Black | 100 |
 | 128 | Danielle Adams | 100 |
+| 128 | **Emily Engstler** 🔴 +1 | 100 |
 | 128 | Nicole Powell | 100 |
-| 131 | **Emily Engstler** 🔴 | 99 |
 | 132 | Mwadi Mabika | 98 |
 | 132 | Natalie Achonwa | 98 |
 | 132 | Rhyne Howard | 98 |
@@ -1552,8 +1552,8 @@ _Last updated: 2026-06-03 02:35 UTC_
 | 95 | Kelly Miller | 676 |
 | 96 | Brittney Sykes | 675 |
 | 97 | Kelsey Plum | 672 |
-| 98 | Chamique Holdsclaw | 667 |
-| 98 | **Cheyenne Parker-Tyus** 🔴 +1 | 667 |
+| 98 | **Cheyenne Parker-Tyus** 🔴 +2 | 668 |
+| 99 | Chamique Holdsclaw | 667 |
 | 100 | Tianna Hawkins | 662 |
 | 101 | Jewell Loyd | 657 |
 | 102 | Breanna Stewart | 656 |
