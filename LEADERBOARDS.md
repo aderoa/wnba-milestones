@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-03 01:15 UTC_
+_Last updated: 2026-06-03 01:16 UTC_
 
 ## Contents
 
@@ -67,8 +67,8 @@ _Last updated: 2026-06-03 01:15 UTC_
 | 46 | Kelsey Plum | 4,314 |
 | 47 | Sophia Young-Malcolm | 4,300 |
 | 48 | Plenette Pierson | 4,258 |
-| 49 | Monique Currie | 4,253 |
-| 50 | **Allisha Gray** 🔴 +20 | 4,252 |
+| 49 | **Allisha Gray** 🔴 +22 | 4,254 |
+| 50 | Monique Currie | 4,253 |
 | 51 | Vickie Johnson | 4,230 |
 | 52 | Yolanda Griffith | 4,224 |
 | 53 | Dearica Hamby | 4,158 |
@@ -315,7 +315,7 @@ _Last updated: 2026-06-03 01:15 UTC_
 | 89 | Janel McCarville | 1,261 |
 | 90 | Liz Cambage | 1,258 |
 | 91 | Ezi Magbegor | 1,243 |
-| 92 | **Azurá Stevens** 🔴 +4 | 1,241 |
+| 92 | **Azurá Stevens** 🔴 +5 | 1,242 |
 | 93 | Tiffany Hayes | 1,233 |
 | 94 | Brianna Turner | 1,229 |
 | 95 | Seimone Augustus | 1,228 |
@@ -375,7 +375,7 @@ _Last updated: 2026-06-03 01:15 UTC_
 | 149 | Natalie Achonwa | 895 |
 | 150 | Temeka Johnson | 889 |
 | 151 | Mistie Bass | 888 |
-| 152 | **Angel Reese** 🔴 +11 | 872 |
+| 152 | **Angel Reese** 🔴 +12 | 873 |
 | 153 | Shameka Christon | 867 |
 | 154 | Krystal Thomas | 862 |
 | 155 | Erica Wheeler | 858 |
@@ -674,8 +674,8 @@ _Last updated: 2026-06-03 01:15 UTC_
 | 38 | Plenette Pierson | 242 |
 | 39 | Napheesa Collier | 239 |
 | 40 | Emma Meesseman | 238 |
+| 41 | **Azurá Stevens** 🔴 +1 | 231 |
 | 41 | Brianna Turner | 231 |
-| 42 | **Azurá Stevens** 🔴 | 230 |
 | 43 | Chasity Melvin | 228 |
 | 44 | **Skylar Diggins** 🔴 | 225 |
 | 45 | Alanna Smith | 222 |
@@ -1302,7 +1302,7 @@ _Last updated: 2026-06-03 01:15 UTC_
 | 50 | Asjha Jones | 682 |
 | 51 | Danielle Robinson | 680 |
 | 52 | Sheryl Swoopes | 677 |
-| 53 | **Natasha Cloud** 🔴 +2 | 675 |
+| 53 | **Natasha Cloud** 🔴 +3 | 676 |
 | 54 | Tammy Sutton-Brown | 672 |
 | 55 | Erica Wheeler | 671 |
 | 56 | Deanna Nolan | 669 |
