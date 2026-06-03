@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-03 01:10 UTC_
+_Last updated: 2026-06-03 01:11 UTC_
 
 ## Contents
 
@@ -239,7 +239,7 @@ _Last updated: 2026-06-03 01:10 UTC_
 | 13 | Jonquel Jones | 2,599 |
 | 14 | Sancho Lyttle | 2,596 |
 | 15 | DeLisha Milton-Jones | 2,574 |
-| 16 | **Brittney Griner** 🔴 +3 | 2,540 |
+| 16 | **Brittney Griner** 🔴 +4 | 2,541 |
 | 17 | A'ja Wilson | 2,522 |
 | 18 | Swin Cash | 2,521 |
 | 19 | Breanna Stewart | 2,510 |
@@ -298,7 +298,7 @@ _Last updated: 2026-06-03 01:10 UTC_
 | 72 | Courtney Vandersloot | 1,383 |
 | 72 | Katie Smith | 1,383 |
 | 74 | Ebony Hoffman | 1,376 |
-| 75 | **Allisha Gray** 🔴 +5 | 1,373 |
+| 75 | **Allisha Gray** 🔴 +6 | 1,374 |
 | 76 | Monique Billings | 1,367 |
 | 77 | Sheri Sam | 1,356 |
 | 78 | Tamika Whitmore | 1,355 |
@@ -707,9 +707,9 @@ _Last updated: 2026-06-03 01:10 UTC_
 | 71 | Cheryl Ford | 160 |
 | 72 | Kara Braxton | 157 |
 | 72 | Nia Coffey | 157 |
+| 74 | **Allisha Gray** 🔴 +1 | 155 |
 | 74 | DeMya Walker | 155 |
 | 74 | Tamika Whitmore | 155 |
-| 76 | **Allisha Gray** 🔴 | 154 |
 | 77 | Ann Wauters | 153 |
 | 77 | Sue Wicks | 153 |
 | 79 | Jessica Davenport | 151 |
@@ -1446,9 +1446,9 @@ _Last updated: 2026-06-03 01:10 UTC_
 | 194 | Michele Timms | 297 |
 | 195 | **Azurá Stevens** 🔴 +3 | 289 |
 | 195 | Kayla Thornton | 289 |
-| 197 | Alexis Hornbuckle | 288 |
-| 197 | Kristen Rasmussen | 288 |
-| 197 | **Rachel Banham** 🔴 | 288 |
+| 195 | **Rachel Banham** 🔴 +1 | 289 |
+| 198 | Alexis Hornbuckle | 288 |
+| 198 | Kristen Rasmussen | 288 |
 | 200 | Damiris Dantas | 286 |
 
 ## Personal fouls
