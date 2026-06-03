@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-03 02:15 UTC_
+_Last updated: 2026-06-03 02:16 UTC_
 
 ## Contents
 
@@ -240,7 +240,7 @@ _Last updated: 2026-06-03 02:15 UTC_
 | 14 | Sancho Lyttle | 2,596 |
 | 15 | DeLisha Milton-Jones | 2,574 |
 | 16 | Brittney Griner | 2,541 |
-| 17 | **A'ja Wilson** 🔴 +3 | 2,525 |
+| 17 | **A'ja Wilson** 🔴 +4 | 2,526 |
 | 18 | Swin Cash | 2,521 |
 | 19 | Breanna Stewart | 2,510 |
 | 20 | Michelle Snow | 2,476 |
@@ -317,7 +317,7 @@ _Last updated: 2026-06-03 02:15 UTC_
 | 91 | Ezi Magbegor | 1,243 |
 | 92 | Azurá Stevens | 1,242 |
 | 93 | Tiffany Hayes | 1,233 |
-| 94 | Brianna Turner | 1,229 |
+| 94 | **Brianna Turner** 🔴 | 1,229 |
 | 95 | Seimone Augustus | 1,228 |
 | 96 | Myisha Hines-Allen | 1,224 |
 | 97 | Jia Perkins | 1,220 |
@@ -675,7 +675,7 @@ _Last updated: 2026-06-03 02:15 UTC_
 | 39 | Napheesa Collier | 239 |
 | 40 | Emma Meesseman | 238 |
 | 41 | Azurá Stevens | 232 |
-| 42 | Brianna Turner | 231 |
+| 42 | **Brianna Turner** 🔴 | 231 |
 | 43 | Chasity Melvin | 228 |
 | 44 | Skylar Diggins | 226 |
 | 45 | Alanna Smith | 222 |
@@ -825,7 +825,7 @@ _Last updated: 2026-06-03 02:15 UTC_
 | 188 | Wendy Palmer | 70 |
 | 190 | Mercedes Russell | 69 |
 | 190 | Rhonda Mapp | 69 |
-| 192 | Cameron Brink | 67 |
+| 192 | **Cameron Brink** 🔴 | 67 |
 | 192 | **Jackie Young** 🔴 | 67 |
 | 192 | Satou Sabally | 67 |
 | 192 | Shannon Johnson | 67 |
@@ -1208,7 +1208,7 @@ _Last updated: 2026-06-03 02:15 UTC_
 | 161 | Shay Murphy | 134 |
 | 162 | Brooke Wyckoff | 132 |
 | 162 | Jenna O'Hea | 132 |
-| 164 | Karlie Samuelson | 131 |
+| 164 | **Karlie Samuelson** 🔴 | 131 |
 | 165 | Amanda Zahui B | 130 |
 | 165 | Eva Nemcova | 130 |
 | 167 | Crystal Dangerfield | 129 |
