@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-03 03:56 UTC_
+_Last updated: 2026-06-03 03:57 UTC_
 
 ## Contents
 
@@ -774,9 +774,9 @@ _Last updated: 2026-06-03 03:56 UTC_
 | 137 | Isabelle Harrison | 95 |
 | 139 | Sandrine Gruda | 94 |
 | 140 | Jewell Loyd | 93 |
-| 141 | Jasmine Thomas | 91 |
-| 141 | Kayla Alexander | 91 |
-| 141 | **NaLyssa Smith** 🔴 | 91 |
+| 141 | **NaLyssa Smith** 🔴 +1 | 92 |
+| 142 | Jasmine Thomas | 91 |
+| 142 | Kayla Alexander | 91 |
 | 144 | Allie Quigley | 90 |
 | 145 | Alysha Clark | 89 |
 | 146 | **Kayla Thornton** 🔴 +1 | 88 |
@@ -1471,7 +1471,7 @@ _Last updated: 2026-06-03 03:56 UTC_
 | 13 | Alana Beard | 1,153 |
 | 14 | Swin Cash | 1,146 |
 | 15 | Taj McWilliams-Franklin | 1,145 |
-| 16 | **Nneka Ogwumike** 🔴 +1 | 1,141 |
+| 16 | **Nneka Ogwumike** 🔴 +2 | 1,142 |
 | 17 | Monique Currie | 1,137 |
 | 18 | Tanisha Wright | 1,109 |
 | 19 | Michelle Snow | 1,108 |
@@ -1520,7 +1520,7 @@ _Last updated: 2026-06-03 03:56 UTC_
 | 62 | Nykesha Sales | 796 |
 | 63 | Ebony Hoffman | 791 |
 | 64 | Sue Bird | 775 |
-| 65 | **Erica Wheeler** 🔴 +3 | 773 |
+| 65 | **Erica Wheeler** 🔴 +4 | 774 |
 | 66 | Sheri Sam | 766 |
 | 67 | Kia Vaughn | 755 |
 | 68 | Vickie Johnson | 752 |
