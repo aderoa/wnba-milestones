@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-03 02:06 UTC_
+_Last updated: 2026-06-03 02:07 UTC_
 
 ## Contents
 
@@ -37,7 +37,7 @@ _Last updated: 2026-06-03 02:06 UTC_
 | 16 | Lauren Jackson | 6,005 |
 | 16 | Seimone Augustus | 6,005 |
 | 18 | Brittney Griner | 5,990 |
-| 19 | **A'ja Wilson** 🔴 | 5,844 |
+| 19 | **A'ja Wilson** 🔴 +2 | 5,846 |
 | 20 | Becky Hammon | 5,816 |
 | 21 | Angel McCoughtry | 5,797 |
 | 22 | DeLisha Milton-Jones | 5,571 |
@@ -94,7 +94,7 @@ _Last updated: 2026-06-03 02:06 UTC_
 | 73 | Tamecka Dixon | 3,507 |
 | 74 | Tammy Sutton-Brown | 3,498 |
 | 75 | Sancho Lyttle | 3,478 |
-| 76 | **Jackie Young** 🔴 | 3,468 |
+| 76 | **Jackie Young** 🔴 +3 | 3,471 |
 | 77 | Ivory Latta | 3,447 |
 | 78 | Nicole Powell | 3,407 |
 | 79 | Epiphanny Prince | 3,381 |
@@ -240,7 +240,7 @@ _Last updated: 2026-06-03 02:06 UTC_
 | 14 | Sancho Lyttle | 2,596 |
 | 15 | DeLisha Milton-Jones | 2,574 |
 | 16 | Brittney Griner | 2,541 |
-| 17 | **A'ja Wilson** 🔴 +1 | 2,523 |
+| 17 | **A'ja Wilson** 🔴 +2 | 2,524 |
 | 18 | Swin Cash | 2,521 |
 | 19 | Breanna Stewart | 2,510 |
 | 20 | Michelle Snow | 2,476 |
@@ -434,7 +434,7 @@ _Last updated: 2026-06-03 02:06 UTC_
 | 3 | Ticha Penicheiro | 2,588 |
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
-| 6 | **Chelsea Gray** 🔴 | 1,903 |
+| 6 | **Chelsea Gray** 🔴 +1 | 1,904 |
 | 7 | Alyssa Thomas | 1,854 |
 | 8 | Skylar Diggins | 1,786 |
 | 9 | Natasha Cloud | 1,750 |
@@ -1106,8 +1106,8 @@ _Last updated: 2026-06-03 02:06 UTC_
 | 59 | Natasha Cloud | 333 |
 | 60 | **Erica Wheeler** 🔴 | 322 |
 | 61 | Sugar Rodgers | 317 |
-| 62 | **Jackie Young** 🔴 | 315 |
-| 62 | Marissa Coleman | 315 |
+| 62 | **Jackie Young** 🔴 +1 | 316 |
+| 63 | Marissa Coleman | 315 |
 | 64 | Shannon Johnson | 313 |
 | 65 | DeLisha Milton-Jones | 312 |
 | 65 | Ruthie Bolton | 312 |
@@ -1519,7 +1519,7 @@ _Last updated: 2026-06-03 02:06 UTC_
 | 62 | Nykesha Sales | 796 |
 | 63 | Ebony Hoffman | 791 |
 | 64 | Sue Bird | 775 |
-| 65 | **Erica Wheeler** 🔴 | 770 |
+| 65 | **Erica Wheeler** 🔴 +1 | 771 |
 | 66 | Sheri Sam | 766 |
 | 67 | Kia Vaughn | 755 |
 | 68 | Vickie Johnson | 752 |
