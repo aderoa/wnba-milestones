@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-03 01:01 UTC
+
+- **Kamilla Cardoso** passed **Carolyn Swords** and **Rebecca Lobo** for **#119** all-time in blocks (career 105) — up from #129 entering today — _4:14 - 3rd — CHI @ WSH_
+
 ## 2026-06-03 00:56 UTC
 
 - **Kamilla Cardoso** passed **Courtney Williams**, **Jennifer Gillom**, and **Jia Perkins** for **#121** all-time in blocks (career 104) — up from #129 entering today — _5:02 - 3rd — CHI @ WSH_

@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-06-03T01:01:00+00:00",
+    "text": "Kamilla Cardoso passed Carolyn Swords and Rebecca Lobo for #119 all-time in blocks (career 105) \u2014 up from #129 entering today \u2014 (4:14 - 3rd \u2014 CHI @ WSH)",
+    "kind": "rank_pass",
+    "player": "Kamilla Cardoso",
+    "stat": "blocks",
+    "rank": 119,
+    "passed_players": [
+      "Carolyn Swords",
+      "Rebecca Lobo"
+    ],
+    "new_total": 105
+  },
+  {
     "ts": "2026-06-03T00:56:00+00:00",
     "text": "Kamilla Cardoso passed Courtney Williams, Jennifer Gillom, and Jia Perkins for #121 all-time in blocks (career 104) \u2014 up from #129 entering today \u2014 (5:02 - 3rd \u2014 CHI @ WSH)",
     "kind": "rank_pass",
@@ -2986,17 +2999,5 @@
       "Kelsey Plum"
     ],
     "new_total": 625
-  },
-  {
-    "ts": "2026-05-19T01:18:00+00:00",
-    "text": "Odyssey Sims passed Tiffany Mitchell for #121 all-time in fouls (career 605) \u2014 (8:09 - 3rd \u2014 WSH @ DAL)",
-    "kind": "rank_pass",
-    "player": "Odyssey Sims",
-    "stat": "fouls",
-    "rank": 121,
-    "passed_players": [
-      "Tiffany Mitchell"
-    ],
-    "new_total": 605
   }
 ]
