@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-03 00:57 UTC_
+_Last updated: 2026-06-03 00:58 UTC_
 
 ## Contents
 
@@ -147,7 +147,7 @@ _Last updated: 2026-06-03 00:57 UTC_
 | 126 | Ruth Riley | 2,434 |
 | 127 | Svetlana Abrosimova | 2,414 |
 | 128 | Anna DeForge | 2,413 |
-| 129 | **Rhyne Howard** 🔴 +22 | 2,380 |
+| 129 | **Rhyne Howard** 🔴 +23 | 2,381 |
 | 130 | DeMya Walker | 2,379 |
 | 131 | Alex Bentley | 2,350 |
 | 132 | Merlakia Jones | 2,308 |
