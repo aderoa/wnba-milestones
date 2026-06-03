@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-03 00:26 UTC
+
+- **Brittney Griner** passed **Kara Braxton** for **#200** all-time in steals (career 169) — _27.8 - 2nd — CON @ ATL_
+
 ## 2026-06-03 00:11 UTC
 
 - **Azurá Stevens** passed **Alexis Hornbuckle**, **Kristen Rasmussen**, and **Rachel Banham** for **#196** all-time in turnovers (career 289) — up from #199 entering today — _6:35 - 2nd — CHI @ WSH_

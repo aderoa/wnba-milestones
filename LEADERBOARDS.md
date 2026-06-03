@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-03 00:25 UTC_
+_Last updated: 2026-06-03 00:26 UTC_
 
 ## Contents
 
@@ -1037,9 +1037,9 @@ _Last updated: 2026-06-03 00:25 UTC_
 | 195 | Ezi Magbegor | 174 |
 | 195 | Margo Dydek | 174 |
 | 198 | Kamila Vodichkova | 173 |
-| 199 | **Brittney Griner** 🔴 | 168 |
-| 199 | Kara Braxton | 168 |
-| 199 | Sugar Rodgers | 168 |
+| 199 | **Brittney Griner** 🔴 +1 | 169 |
+| 200 | Kara Braxton | 168 |
+| 200 | Sugar Rodgers | 168 |
 
 ## Three-pointers
 
@@ -1358,7 +1358,7 @@ _Last updated: 2026-06-03 00:25 UTC_
 | 106 | Jia Perkins | 513 |
 | 107 | Arike Ogunbowale | 509 |
 | 108 | Tamera Young | 501 |
-| 109 | **Jordin Canada** 🔴 +1 | 497 |
+| 109 | **Jordin Canada** 🔴 +2 | 498 |
 | 110 | Marina Mabrey | 494 |
 | 111 | Nikki Teasley | 493 |
 | 111 | Tari Phillips | 493 |

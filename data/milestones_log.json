@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-03T00:26:00+00:00",
+    "text": "Brittney Griner passed Kara Braxton for #200 all-time in steals (career 169) \u2014 (27.8 - 2nd \u2014 CON @ ATL)",
+    "kind": "rank_pass",
+    "player": "Brittney Griner",
+    "stat": "steals",
+    "rank": 200,
+    "passed_players": [
+      "Kara Braxton"
+    ],
+    "new_total": 169
+  },
+  {
     "ts": "2026-06-03T00:11:00+00:00",
     "text": "Azur\u00e1 Stevens passed Alexis Hornbuckle, Kristen Rasmussen, and Rachel Banham for #196 all-time in turnovers (career 289) \u2014 up from #199 entering today \u2014 (6:35 - 2nd \u2014 CHI @ WSH)",
     "kind": "rank_pass",
@@ -2984,18 +2996,5 @@
       "Armintie Herrington"
     ],
     "new_total": 341
-  },
-  {
-    "ts": "2026-05-19T00:49:00+00:00",
-    "text": "Alanna Smith passed Michele Timms and Natisha Hiedeman for #177 all-time in steals (career 188) \u2014 up from #179 entering today \u2014 (3:52 - 2nd \u2014 WSH @ DAL)",
-    "kind": "rank_pass",
-    "player": "Alanna Smith",
-    "stat": "steals",
-    "rank": 177,
-    "passed_players": [
-      "Michele Timms",
-      "Natisha Hiedeman"
-    ],
-    "new_total": 188
   }
 ]
