@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-03 02:21 UTC_
+_Last updated: 2026-06-03 02:22 UTC_
 
 ## Contents
 
@@ -71,7 +71,7 @@ _Last updated: 2026-06-03 02:21 UTC_
 | 50 | Monique Currie | 4,253 |
 | 51 | Vickie Johnson | 4,230 |
 | 52 | Yolanda Griffith | 4,224 |
-| 53 | **Dearica Hamby** 🔴 | 4,158 |
+| 53 | **Dearica Hamby** 🔴 +2 | 4,160 |
 | 54 | Kahleah Copper | 4,154 |
 | 55 | Rebekkah Brunson | 4,133 |
 | 56 | Jonquel Jones | 4,132 |
@@ -138,7 +138,7 @@ _Last updated: 2026-06-03 02:21 UTC_
 | 117 | Leilani Mitchell | 2,618 |
 | 118 | Cynthia Cooper | 2,601 |
 | 119 | Tan White | 2,595 |
-| 120 | Cheyenne Parker-Tyus | 2,585 |
+| 120 | **Cheyenne Parker-Tyus** 🔴 | 2,585 |
 | 121 | Kelly Miller | 2,558 |
 | 122 | Glory Johnson | 2,531 |
 | 123 | Nikki McCray | 2,521 |
@@ -290,7 +290,7 @@ _Last updated: 2026-06-03 02:21 UTC_
 | 64 | Sue Bird | 1,466 |
 | 65 | Alysha Clark | 1,459 |
 | 66 | Nicole Powell | 1,457 |
-| 67 | Cheyenne Parker-Tyus | 1,436 |
+| 67 | **Cheyenne Parker-Tyus** 🔴 | 1,436 |
 | 68 | Tamera Young | 1,433 |
 | 69 | Alana Beard | 1,420 |
 | 70 | Nakia Sanford | 1,419 |
@@ -670,7 +670,7 @@ _Last updated: 2026-06-03 02:21 UTC_
 | 34 | Liz Cambage | 264 |
 | 35 | **Nneka Ogwumike** 🔴 +1 | 262 |
 | 36 | Swin Cash | 258 |
-| 37 | Cheyenne Parker-Tyus | 256 |
+| 37 | **Cheyenne Parker-Tyus** 🔴 | 256 |
 | 38 | Plenette Pierson | 242 |
 | 39 | Napheesa Collier | 239 |
 | 40 | Emma Meesseman | 238 |
@@ -992,7 +992,7 @@ _Last updated: 2026-06-03 02:21 UTC_
 | 150 | Moriah Jefferson | 216 |
 | 152 | Asjha Jones | 215 |
 | 152 | Candice Wiggins | 215 |
-| 152 | Cheyenne Parker-Tyus | 215 |
+| 152 | **Cheyenne Parker-Tyus** 🔴 | 215 |
 | 152 | Elena Baranova | 215 |
 | 156 | Kahleah Copper | 213 |
 | 156 | Shekinna Stricklen | 213 |
@@ -1378,8 +1378,8 @@ _Last updated: 2026-06-03 02:21 UTC_
 | 126 | **Ariel Atkins** 🔴 +1 | 443 |
 | 127 | Betnijah Laney-Hamilton | 441 |
 | 128 | Ann Wauters | 440 |
-| 129 | Cheyenne Parker-Tyus | 439 |
-| 129 | Tiffany Mitchell | 439 |
+| 128 | **Cheyenne Parker-Tyus** 🔴 +1 | 440 |
+| 130 | Tiffany Mitchell | 439 |
 | 131 | Alysha Clark | 438 |
 | 131 | Kedra Holland-Corn | 438 |
 | 133 | **Jackie Young** 🔴 | 434 |
@@ -1553,7 +1553,7 @@ _Last updated: 2026-06-03 02:21 UTC_
 | 96 | Brittney Sykes | 675 |
 | 97 | Kelsey Plum | 672 |
 | 98 | Chamique Holdsclaw | 667 |
-| 99 | Cheyenne Parker-Tyus | 666 |
+| 98 | **Cheyenne Parker-Tyus** 🔴 +1 | 667 |
 | 100 | Tianna Hawkins | 662 |
 | 101 | Jewell Loyd | 657 |
 | 102 | Breanna Stewart | 656 |

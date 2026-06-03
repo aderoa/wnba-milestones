@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-03T02:22:00+00:00",
+    "text": "Cheyenne Parker-Tyus passed Tiffany Mitchell for #130 all-time in turnovers (career 440) \u2014 (20.1 - 1st \u2014 LV @ LA)",
+    "kind": "rank_pass",
+    "player": "Cheyenne Parker-Tyus",
+    "stat": "turnovers",
+    "rank": 130,
+    "passed_players": [
+      "Tiffany Mitchell"
+    ],
+    "new_total": 440
+  },
+  {
     "ts": "2026-06-03T01:29:00+00:00",
     "text": "Rhyne Howard passed Jasmine Thomas and Rachel Banham for #44 all-time in three-pointers (career 377) \u2014 up from #48 entering today \u2014 (3:26 - 4th \u2014 CON @ ATL)",
     "kind": "rank_pass",
@@ -2987,17 +2999,5 @@
       "Natasha Cloud"
     ],
     "new_total": 343
-  },
-  {
-    "ts": "2026-05-19T01:24:00+00:00",
-    "text": "Jessica Shepard passed Leilani Mitchell for #157 all-time in rebounds (career 846) \u2014 up from #158 entering today \u2014 (4:37 - 3rd \u2014 WSH @ DAL)",
-    "kind": "rank_pass",
-    "player": "Jessica Shepard",
-    "stat": "rebounds",
-    "rank": 157,
-    "passed_players": [
-      "Leilani Mitchell"
-    ],
-    "new_total": 846
   }
 ]

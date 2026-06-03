@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-03 02:22 UTC
+
+- **Cheyenne Parker-Tyus** passed **Tiffany Mitchell** for **#130** all-time in turnovers (career 440) — _20.1 - 1st — LV @ LA_
+
 ## 2026-06-03 01:29 UTC
 
 - **Rhyne Howard** passed **Jasmine Thomas** and **Rachel Banham** for **#44** all-time in three-pointers (career 377) — up from #48 entering today — _3:26 - 4th — CON @ ATL_
