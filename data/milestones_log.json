@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-04T03:23:00+00:00",
+    "text": "Alyssa Thomas passed Lindsay Whalen for #13 all-time in turnovers (career 1,003) \u2014 up from #14 entering today \u2014 (2:13 - 3rd \u2014 PHX @ SEA)",
+    "kind": "rank_pass",
+    "player": "Alyssa Thomas",
+    "stat": "turnovers",
+    "rank": 13,
+    "passed_players": [
+      "Lindsay Whalen"
+    ],
+    "new_total": 1003
+  },
+  {
     "ts": "2026-06-04T02:52:00+00:00",
     "text": "Monique Akoa Makani reached 100 career rebounds (now 100) \u2014 (50.1 - 2nd \u2014 PHX @ SEA)",
     "kind": "round",
@@ -2982,18 +2994,5 @@
     "stat": "assists",
     "value": 900,
     "new_total": 900
-  },
-  {
-    "ts": "2026-05-21T02:28:00+00:00",
-    "text": "Kennedy Burke passed Lexie Hull and Shoni Schimmel for #186 all-time in three-pointers (career 112) \u2014 up from #188 entering today \u2014 (End of 1st \u2014 CON @ SEA)",
-    "kind": "rank_pass",
-    "player": "Kennedy Burke",
-    "stat": "three-pointers",
-    "rank": 186,
-    "passed_players": [
-      "Lexie Hull",
-      "Shoni Schimmel"
-    ],
-    "new_total": 112
   }
 ]

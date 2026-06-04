@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-04 03:23 UTC
+
+- **Alyssa Thomas** passed **Lindsay Whalen** for **#13** all-time in turnovers (career 1,003) — up from #14 entering today — _2:13 - 3rd — PHX @ SEA_
+
 ## 2026-06-04 02:52 UTC
 
 - **Monique Akoa Makani** reached **100** career rebounds (now 100) — _50.1 - 2nd — PHX @ SEA_
