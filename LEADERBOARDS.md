@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-04 00:16 UTC_
+_Last updated: 2026-06-04 00:17 UTC_
 
 ## Contents
 
@@ -32,7 +32,7 @@ _Last updated: 2026-06-04 00:16 UTC_
 | 11 | Katie Smith | 6,450 |
 | 12 | Sylvia Fowles | 6,413 |
 | 13 | Lisa Leslie | 6,251 |
-| 14 | **Breanna Stewart** 🔴 | 6,154 |
+| 14 | **Breanna Stewart** 🔴 +2 | 6,156 |
 | 15 | Jewell Loyd | 6,078 |
 | 16 | Brittney Griner | 6,015 |
 | 17 | Lauren Jackson | 6,005 |
@@ -83,7 +83,7 @@ _Last updated: 2026-06-04 00:16 UTC_
 | 62 | Allie Quigley | 3,786 |
 | 63 | Chasity Melvin | 3,781 |
 | 64 | Kara Lawson | 3,670 |
-| 65 | **Brittney Sykes** 🔴 +4 | 3,608 |
+| 65 | **Brittney Sykes** 🔴 +6 | 3,610 |
 | 66 | Mwadi Mabika | 3,576 |
 | 67 | Odyssey Sims | 3,574 |
 | 68 | Camille Smith | 3,551 |
@@ -330,7 +330,7 @@ _Last updated: 2026-06-04 00:16 UTC_
 | 104 | Kahleah Copper | 1,165 |
 | 105 | Nykesha Sales | 1,148 |
 | 106 | Shannon Johnson | 1,143 |
-| 107 | **Brittney Sykes** 🔴 +1 | 1,141 |
+| 107 | **Brittney Sykes** 🔴 +2 | 1,142 |
 | 108 | Adrian Williams-Strong | 1,131 |
 | 109 | Andrea Stinson | 1,127 |
 | 109 | Tamika Raymond | 1,127 |
@@ -368,7 +368,7 @@ _Last updated: 2026-06-04 00:16 UTC_
 | 142 | Armintie Herrington | 960 |
 | 143 | Janell Burse | 944 |
 | 144 | Merlakia Jones | 927 |
-| 145 | **Satou Sabally** 🔴 +2 | 923 |
+| 145 | **Satou Sabally** 🔴 +3 | 924 |
 | 146 | Nicky Anosike | 922 |
 | 147 | Janeth Arcain | 916 |
 | 148 | Angel Reese | 913 |
@@ -381,8 +381,8 @@ _Last updated: 2026-06-04 00:16 UTC_
 | 155 | Shameka Christon | 867 |
 | 156 | Alanna Smith | 862 |
 | 156 | Krystal Thomas | 862 |
-| 158 | **Marina Mabrey** 🔴 +2 | 848 |
-| 158 | Nia Coffey | 848 |
+| 158 | **Marina Mabrey** 🔴 +3 | 849 |
+| 159 | Nia Coffey | 848 |
 | 160 | Leilani Mitchell | 845 |
 | 161 | Essence Carson | 833 |
 | 162 | Kristi Toliver | 829 |
@@ -501,7 +501,7 @@ _Last updated: 2026-06-04 00:16 UTC_
 | 70 | Tina Thompson | 803 |
 | 71 | Epiphanny Prince | 800 |
 | 72 | Mwadi Mabika | 774 |
-| 73 | **Marina Mabrey** 🔴 +1 | 769 |
+| 73 | **Marina Mabrey** 🔴 +2 | 770 |
 | 74 | Sheri Sam | 745 |
 | 75 | Allisha Gray | 741 |
 | 76 | Monique Currie | 740 |
@@ -568,7 +568,7 @@ _Last updated: 2026-06-04 00:16 UTC_
 | 137 | Elizabeth Williams | 464 |
 | 138 | Erin Phillips | 462 |
 | 139 | Sylvia Fowles | 461 |
-| 140 | **Satou Sabally** 🔴 | 456 |
+| 140 | **Satou Sabally** 🔴 +1 | 457 |
 | 141 | Sydney Colson | 454 |
 | 141 | Tyasha Harris | 454 |
 | 143 | Yolanda Griffith | 451 |
