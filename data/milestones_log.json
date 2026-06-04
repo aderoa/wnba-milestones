@@ -1,5 +1,30 @@
 [
   {
+    "ts": "2026-06-04T23:10:00+00:00",
+    "text": "Allisha Gray passed Courtney Vandersloot and Katie Smith for #73 all-time in rebounds (career 1,384) \u2014 (7:02 - 1st \u2014 ATL @ IND)",
+    "kind": "rank_pass",
+    "player": "Allisha Gray",
+    "stat": "rebounds",
+    "rank": 73,
+    "passed_players": [
+      "Courtney Vandersloot",
+      "Katie Smith"
+    ],
+    "new_total": 1384
+  },
+  {
+    "ts": "2026-06-04T23:10:00+00:00",
+    "text": "Caitlin Clark passed Iziane Castro Marques for #124 all-time in assists (career 510) \u2014 (7:02 - 1st \u2014 ATL @ IND)",
+    "kind": "rank_pass",
+    "player": "Caitlin Clark",
+    "stat": "assists",
+    "rank": 124,
+    "passed_players": [
+      "Iziane Castro Marques"
+    ],
+    "new_total": 510
+  },
+  {
     "ts": "2026-06-04T23:07:00+00:00",
     "text": "Jordin Canada passed Lexie Hull and Tonya Edwards for #177 all-time in three-pointers (career 119) \u2014 (8:20 - 1st \u2014 ATL @ IND)",
     "kind": "rank_pass",
@@ -2978,29 +3003,5 @@
       "Sami Whitcomb"
     ],
     "new_total": 481
-  },
-  {
-    "ts": "2026-05-21T03:01:00+00:00",
-    "text": "Arike Ogunbowale passed Ezi Magbegor for #130 all-time in fouls (career 577) \u2014 up from #131 entering today \u2014 (5:50 - 4th \u2014 DAL @ CHI)",
-    "kind": "rank_pass",
-    "player": "Arike Ogunbowale",
-    "stat": "fouls",
-    "rank": 130,
-    "passed_players": [
-      "Ezi Magbegor"
-    ],
-    "new_total": 577
-  },
-  {
-    "ts": "2026-05-21T02:55:00+00:00",
-    "text": "Jessica Shepard passed Roneeka Hodges for #182 all-time in assists (career 363) \u2014 up from #189 entering today \u2014 (9:03 - 4th \u2014 DAL @ CHI)",
-    "kind": "rank_pass",
-    "player": "Jessica Shepard",
-    "stat": "assists",
-    "rank": 182,
-    "passed_players": [
-      "Roneeka Hodges"
-    ],
-    "new_total": 363
   }
 ]
