@@ -1,5 +1,14 @@
 [
   {
+    "ts": "2026-06-04T02:07:00+00:00",
+    "text": "Alyssa Thomas reached 1,000 career turnovers (now 1,000) \u2014 (7:16 - 1st \u2014 PHX @ SEA)",
+    "kind": "round",
+    "player": "Alyssa Thomas",
+    "stat": "turnovers",
+    "value": 1000,
+    "new_total": 1000
+  },
+  {
     "ts": "2026-06-04T02:05:00+00:00",
     "text": "Stefanie Dolson reached 700 career assists (now 700) \u2014 (8:34 - 1st \u2014 PHX @ SEA)",
     "kind": "round",
@@ -2993,18 +3002,5 @@
       "Sandy Brondello"
     ],
     "new_total": 115
-  },
-  {
-    "ts": "2026-05-21T00:46:00+00:00",
-    "text": "Kelsey Mitchell passed Breanna Stewart and Tan White for #86 all-time in turnovers (career 558) \u2014 up from #88 entering today \u2014 (9:34 - 4th \u2014 POR @ IND)",
-    "kind": "rank_pass",
-    "player": "Kelsey Mitchell",
-    "stat": "turnovers",
-    "rank": 86,
-    "passed_players": [
-      "Breanna Stewart",
-      "Tan White"
-    ],
-    "new_total": 558
   }
 ]

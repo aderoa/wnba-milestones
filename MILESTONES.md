@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-04 02:07 UTC
+
+- **Alyssa Thomas** reached **1,000** career turnovers (now 1,000) — _7:16 - 1st — PHX @ SEA_
+
 ## 2026-06-04 02:05 UTC
 
 - **Stefanie Dolson** reached **700** career assists (now 700) — _8:34 - 1st — PHX @ SEA_
