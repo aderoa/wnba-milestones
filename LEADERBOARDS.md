@@ -742,7 +742,7 @@ _Last updated: 2026-06-04 03:51 UTC_
 | 106 | Andrea Stinson | 117 |
 | 106 | Crystal Langhorne | 117 |
 | 106 | Emily Engstler | 117 |
-| 109 | **Natasha Mack** 🔴 +2 | 115 |
+| 109 | **Natasha Mack** 🔴 +3 | 116 |
 | 110 | Monique Currie | 114 |
 | 111 | Ariel Atkins | 113 |
 | 112 | Amanda Lassiter | 111 |
