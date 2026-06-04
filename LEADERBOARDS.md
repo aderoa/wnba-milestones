@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-04 02:42 UTC_
+_Last updated: 2026-06-04 02:43 UTC_
 
 ## Contents
 
@@ -67,7 +67,7 @@ _Last updated: 2026-06-04 02:42 UTC_
 | 46 | Courtney Vandersloot | 4,352 |
 | 47 | Allisha Gray | 4,326 |
 | 48 | Sophia Young-Malcolm | 4,300 |
-| 49 | **Kahleah Copper** 🔴 +5 | 4,272 |
+| 49 | **Kahleah Copper** 🔴 +8 | 4,275 |
 | 50 | Plenette Pierson | 4,258 |
 | 51 | Monique Currie | 4,253 |
 | 52 | Vickie Johnson | 4,230 |
@@ -435,7 +435,7 @@ _Last updated: 2026-06-04 02:42 UTC_
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
 | 6 | Chelsea Gray | 1,935 |
-| 7 | **Alyssa Thomas** 🔴 +2 | 1,900 |
+| 7 | **Alyssa Thomas** 🔴 +3 | 1,901 |
 | 8 | Skylar Diggins | 1,808 |
 | 9 | Natasha Cloud | 1,767 |
 | 10 | Becky Hammon | 1,705 |
@@ -1015,7 +1015,7 @@ _Last updated: 2026-06-04 02:42 UTC_
 | 173 | Tierra Ruffin-Pratt | 194 |
 | 175 | Cynthia Cooper | 192 |
 | 176 | Alanna Smith | 190 |
-| 177 | **Natisha Hiedeman** 🔴 | 189 |
+| 176 | **Natisha Hiedeman** 🔴 +1 | 190 |
 | 178 | Tamicha Jackson | 188 |
 | 179 | Michele Timms | 187 |
 | 179 | Myisha Hines-Allen | 187 |
@@ -1095,7 +1095,7 @@ _Last updated: 2026-06-04 02:42 UTC_
 | 49 | Jonquel Jones | 371 |
 | 50 | Epiphanny Prince | 368 |
 | 51 | Kia Nurse | 364 |
-| 52 | **Kahleah Copper** 🔴 +1 | 354 |
+| 52 | **Kahleah Copper** 🔴 +2 | 355 |
 | 53 | Nykesha Sales | 352 |
 | 54 | Cathrine Kraayeveld | 343 |
 | 54 | Elena Delle Donne | 343 |
@@ -1262,7 +1262,7 @@ _Last updated: 2026-06-04 02:42 UTC_
 | 11 | Tamika Catchings | 1,041 |
 | 12 | Tina Charles | 1,040 |
 | 13 | Lindsay Whalen | 1,002 |
-| 14 | **Alyssa Thomas** 🔴 +1 | 1,000 |
+| 14 | **Alyssa Thomas** 🔴 +2 | 1,001 |
 | 15 | Sylvia Fowles | 961 |
 | 16 | Tanisha Wright | 954 |
 | 17 | Angel McCoughtry | 949 |
