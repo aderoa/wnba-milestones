@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-04 01:11 UTC_
+_Last updated: 2026-06-04 01:12 UTC_
 
 ## Contents
 
@@ -236,7 +236,7 @@ _Last updated: 2026-06-04 01:11 UTC_
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | Alyssa Thomas | 2,808 |
-| 13 | **Jonquel Jones** 🔴 +15 | 2,661 |
+| 13 | **Jonquel Jones** 🔴 +17 | 2,663 |
 | 14 | Sancho Lyttle | 2,596 |
 | 15 | A'ja Wilson | 2,574 |
 | 15 | DeLisha Milton-Jones | 2,574 |
@@ -1317,7 +1317,7 @@ _Last updated: 2026-06-04 01:11 UTC_
 | 66 | Kelsey Plum | 631 |
 | 66 | Svetlana Abrosimova | 631 |
 | 68 | Odyssey Sims | 630 |
-| 69 | **Jonquel Jones** 🔴 +1 | 626 |
+| 69 | **Jonquel Jones** 🔴 +2 | 627 |
 | 70 | Rebekkah Brunson | 615 |
 | 71 | Seimone Augustus | 613 |
 | 72 | Tiffany Hayes | 609 |
@@ -1496,7 +1496,7 @@ _Last updated: 2026-06-04 01:11 UTC_
 | 40 | DeWanna Bonner | 909 |
 | 41 | Shavonte Zellous | 907 |
 | 42 | Alysha Clark | 895 |
-| 43 | **Jonquel Jones** 🔴 +1 | 889 |
+| 43 | **Jonquel Jones** 🔴 +2 | 890 |
 | 44 | DeMya Walker | 882 |
 | 45 | Candice Dupree | 876 |
 | 46 | Murriel Page | 872 |
