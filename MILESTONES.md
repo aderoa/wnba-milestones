@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-04 00:20 UTC
+
+- **Marina Mabrey** passed **Charlotte Smith**, **Cintia dos Santos**, and **Jessie Hicks** for **#159** all-time in blocks (career 82) — up from #162 entering today — _20.8 - 2nd — TOR @ NY_
+
 ## 2026-06-04 00:17 UTC
 
 - **Marina Mabrey** passed **Nia Coffey** for **#158** all-time in rebounds (career 849) — up from #159 entering today — _1:59 - 2nd — TOR @ NY_
