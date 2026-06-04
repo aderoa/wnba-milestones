@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-04 00:50 UTC_
+_Last updated: 2026-06-04 00:51 UTC_
 
 ## Contents
 
@@ -240,7 +240,7 @@ _Last updated: 2026-06-04 00:50 UTC_
 | 14 | Sancho Lyttle | 2,596 |
 | 15 | A'ja Wilson | 2,574 |
 | 15 | DeLisha Milton-Jones | 2,574 |
-| 17 | **Breanna Stewart** 🔴 +5 | 2,556 |
+| 17 | **Breanna Stewart** 🔴 +6 | 2,557 |
 | 18 | Brittney Griner | 2,548 |
 | 19 | Swin Cash | 2,521 |
 | 20 | Michelle Snow | 2,476 |
@@ -368,7 +368,7 @@ _Last updated: 2026-06-04 00:50 UTC_
 | 142 | Armintie Herrington | 960 |
 | 143 | Janell Burse | 944 |
 | 144 | Merlakia Jones | 927 |
-| 145 | **Satou Sabally** 🔴 +3 | 924 |
+| 145 | **Satou Sabally** 🔴 +4 | 925 |
 | 146 | Nicky Anosike | 922 |
 | 147 | Janeth Arcain | 916 |
 | 148 | Angel Reese | 913 |
@@ -718,10 +718,10 @@ _Last updated: 2026-06-04 00:50 UTC_
 | 82 | Chamique Holdsclaw | 143 |
 | 83 | Shavonte Zellous | 139 |
 | 84 | Penny Taylor | 136 |
+| 85 | **Brittney Sykes** 🔴 +1 | 133 |
 | 85 | Devereaux Peters | 133 |
 | 85 | Nicky Anosike | 133 |
 | 85 | Seimone Augustus | 133 |
-| 88 | **Brittney Sykes** 🔴 | 132 |
 | 89 | Katie Mattera | 131 |
 | 89 | Nakia Sanford | 131 |
 | 91 | Brooke Wyckoff | 129 |
