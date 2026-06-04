@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-04 00:49 UTC
+
+- **Leonie Fiebich** passed **Emma Meesseman** and **Scholanda Dorrell** for **#190** all-time in three-pointers (career 110) — up from #193 entering today — _4:57 - 3rd — TOR @ NY_
+
 ## 2026-06-04 00:48 UTC
 
 - **Brittney Sykes** passed **Maya Moore** for **#89** all-time in fouls (career 687) — up from #90 entering today — _5:15 - 3rd — TOR @ NY_

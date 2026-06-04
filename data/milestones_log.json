@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-06-04T00:49:00+00:00",
+    "text": "Leonie Fiebich passed Emma Meesseman and Scholanda Dorrell for #190 all-time in three-pointers (career 110) \u2014 up from #193 entering today \u2014 (4:57 - 3rd \u2014 TOR @ NY)",
+    "kind": "rank_pass",
+    "player": "Leonie Fiebich",
+    "stat": "three-pointers",
+    "rank": 190,
+    "passed_players": [
+      "Emma Meesseman",
+      "Scholanda Dorrell"
+    ],
+    "new_total": 110
+  },
+  {
     "ts": "2026-06-04T00:48:00+00:00",
     "text": "Brittney Sykes passed Maya Moore for #89 all-time in fouls (career 687) \u2014 up from #90 entering today \u2014 (5:15 - 3rd \u2014 TOR @ NY)",
     "kind": "rank_pass",
@@ -3002,17 +3015,5 @@
       "Ruth Riley"
     ],
     "new_total": 450
-  },
-  {
-    "ts": "2026-05-20T23:11:00+00:00",
-    "text": "Lexie Hull passed Shoni Schimmel for #187 all-time in three-pointers (career 112) \u2014 (7:08 - 1st \u2014 POR @ IND)",
-    "kind": "rank_pass",
-    "player": "Lexie Hull",
-    "stat": "three-pointers",
-    "rank": 187,
-    "passed_players": [
-      "Shoni Schimmel"
-    ],
-    "new_total": 112
   }
 ]
