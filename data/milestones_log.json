@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-04T01:06:00+00:00",
+    "text": "Marina Mabrey passed Jordin Canada for #108 all-time in turnovers (career 510) \u2014 up from #109 entering today \u2014 (8:58 - 4th \u2014 TOR @ NY)",
+    "kind": "rank_pass",
+    "player": "Marina Mabrey",
+    "stat": "turnovers",
+    "rank": 108,
+    "passed_players": [
+      "Jordin Canada"
+    ],
+    "new_total": 510
+  },
+  {
     "ts": "2026-06-04T00:57:00+00:00",
     "text": "Marina Mabrey passed Erika de Souza for #93 all-time in points (career 3,050) \u2014 up from #96 entering today \u2014 (1:32 - 3rd \u2014 TOR @ NY)",
     "kind": "rank_pass",
@@ -2998,17 +3010,5 @@
       "Yolanda Griffith"
     ],
     "new_total": 452
-  },
-  {
-    "ts": "2026-05-21T00:25:00+00:00",
-    "text": "Myisha Hines-Allen passed Wendy Palmer for #189 all-time in blocks (career 71) \u2014 (5:52 - 3rd \u2014 POR @ IND)",
-    "kind": "rank_pass",
-    "player": "Myisha Hines-Allen",
-    "stat": "blocks",
-    "rank": 189,
-    "passed_players": [
-      "Wendy Palmer"
-    ],
-    "new_total": 71
   }
 ]

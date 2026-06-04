@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-04 01:05 UTC_
+_Last updated: 2026-06-04 01:06 UTC_
 
 ## Contents
 
@@ -74,7 +74,7 @@ _Last updated: 2026-06-04 01:05 UTC_
 | 53 | Dearica Hamby | 4,228 |
 | 54 | Yolanda Griffith | 4,224 |
 | 55 | Courtney Williams | 4,221 |
-| 56 | **Jonquel Jones** 🔴 +17 | 4,217 |
+| 56 | **Jonquel Jones** 🔴 +19 | 4,219 |
 | 57 | Rebekkah Brunson | 4,133 |
 | 58 | Asjha Jones | 3,986 |
 | 59 | Deanna Nolan | 3,971 |
@@ -236,7 +236,7 @@ _Last updated: 2026-06-04 01:05 UTC_
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | Alyssa Thomas | 2,808 |
-| 13 | **Jonquel Jones** 🔴 +14 | 2,660 |
+| 13 | **Jonquel Jones** 🔴 +15 | 2,661 |
 | 14 | Sancho Lyttle | 2,596 |
 | 15 | A'ja Wilson | 2,574 |
 | 15 | DeLisha Milton-Jones | 2,574 |
@@ -524,7 +524,7 @@ _Last updated: 2026-06-04 01:05 UTC_
 | 93 | A'ja Wilson | 637 |
 | 93 | Asjha Jones | 637 |
 | 95 | Jennifer Azzi | 636 |
-| 96 | **Jonquel Jones** 🔴 +1 | 624 |
+| 96 | **Jonquel Jones** 🔴 +2 | 625 |
 | 97 | Sami Whitcomb | 623 |
 | 98 | Natisha Hiedeman | 620 |
 | 99 | Alysha Clark | 616 |
@@ -1002,7 +1002,7 @@ _Last updated: 2026-06-04 01:05 UTC_
 | 160 | Tiffany Mitchell | 209 |
 | 162 | Kia Vaughn | 208 |
 | 162 | Sophia Witherspoon | 208 |
-| 164 | **Betnijah Laney-Hamilton** 🔴 | 206 |
+| 164 | **Betnijah Laney-Hamilton** 🔴 +1 | 207 |
 | 165 | Shameka Christon | 205 |
 | 166 | Azurá Stevens | 204 |
 | 166 | Jessica Breland | 204 |
@@ -1356,8 +1356,8 @@ _Last updated: 2026-06-04 01:05 UTC_
 | 103 | Wendy Palmer | 517 |
 | 106 | Tully Bevilaqua | 514 |
 | 107 | Jia Perkins | 513 |
-| 108 | Jordin Canada | 509 |
-| 108 | **Marina Mabrey** 🔴 | 509 |
+| 108 | **Marina Mabrey** 🔴 +1 | 510 |
+| 109 | Jordin Canada | 509 |
 | 110 | Tamera Young | 501 |
 | 111 | Nikki Teasley | 493 |
 | 111 | Tari Phillips | 493 |

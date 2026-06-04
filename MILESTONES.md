@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-04 01:06 UTC
+
+- **Marina Mabrey** passed **Jordin Canada** for **#108** all-time in turnovers (career 510) — up from #109 entering today — _8:58 - 4th — TOR @ NY_
+
 ## 2026-06-04 00:57 UTC
 
 - **Marina Mabrey** passed **Erika de Souza** for **#93** all-time in points (career 3,050) — up from #96 entering today — _1:32 - 3rd — TOR @ NY_
