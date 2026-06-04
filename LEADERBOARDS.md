@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-04 00:02 UTC_
+_Last updated: 2026-06-04 00:03 UTC_
 
 ## Contents
 
@@ -74,7 +74,7 @@ _Last updated: 2026-06-04 00:02 UTC_
 | 53 | Dearica Hamby | 4,228 |
 | 54 | Yolanda Griffith | 4,224 |
 | 55 | Courtney Williams | 4,221 |
-| 56 | **Jonquel Jones** 🔴 +15 | 4,215 |
+| 56 | **Jonquel Jones** 🔴 +17 | 4,217 |
 | 57 | Rebekkah Brunson | 4,133 |
 | 58 | Asjha Jones | 3,986 |
 | 59 | Deanna Nolan | 3,971 |
@@ -236,7 +236,7 @@ _Last updated: 2026-06-04 00:02 UTC_
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | Alyssa Thomas | 2,808 |
-| 13 | **Jonquel Jones** 🔴 +7 | 2,653 |
+| 13 | **Jonquel Jones** 🔴 +8 | 2,654 |
 | 14 | Sancho Lyttle | 2,596 |
 | 15 | A'ja Wilson | 2,574 |
 | 15 | DeLisha Milton-Jones | 2,574 |
@@ -475,7 +475,7 @@ _Last updated: 2026-06-04 00:02 UTC_
 | 44 | Nikki Teasley | 982 |
 | 45 | Kayla McBride | 966 |
 | 46 | Tamecka Dixon | 960 |
-| 47 | **Breanna Stewart** 🔴 +2 | 951 |
+| 47 | **Breanna Stewart** 🔴 +3 | 952 |
 | 48 | Kara Lawson | 946 |
 | 49 | Tiffany Hayes | 933 |
 | 50 | Deanna Nolan | 930 |
@@ -534,7 +534,7 @@ _Last updated: 2026-06-04 00:02 UTC_
 | 103 | Sancho Lyttle | 592 |
 | 104 | Camille Smith | 590 |
 | 105 | Armintie Herrington | 589 |
-| 106 | **Betnijah Laney-Hamilton** 🔴 | 582 |
+| 106 | **Betnijah Laney-Hamilton** 🔴 +1 | 583 |
 | 107 | Tan White | 578 |
 | 108 | Matee Ajavon | 577 |
 | 109 | Napheesa Collier | 570 |
