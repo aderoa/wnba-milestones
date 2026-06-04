@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-04 02:51 UTC_
+_Last updated: 2026-06-04 02:52 UTC_
 
 ## Contents
 
@@ -526,7 +526,7 @@ _Last updated: 2026-06-04 02:51 UTC_
 | 95 | Jennifer Azzi | 636 |
 | 96 | Jonquel Jones | 625 |
 | 97 | Sami Whitcomb | 623 |
-| 98 | **Natisha Hiedeman** 🔴 +1 | 621 |
+| 98 | **Natisha Hiedeman** 🔴 +2 | 622 |
 | 99 | Alysha Clark | 616 |
 | 100 | Debbie Black | 612 |
 | 101 | Cynthia Cooper | 602 |

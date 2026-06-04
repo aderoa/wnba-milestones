@@ -1,5 +1,14 @@
 [
   {
+    "ts": "2026-06-04T02:52:00+00:00",
+    "text": "Monique Akoa Makani reached 100 career rebounds (now 100) \u2014 (50.1 - 2nd \u2014 PHX @ SEA)",
+    "kind": "round",
+    "player": "Monique Akoa Makani",
+    "stat": "rebounds",
+    "value": 100,
+    "new_total": 100
+  },
+  {
     "ts": "2026-06-04T02:51:00+00:00",
     "text": "Natisha Hiedeman passed Alanna Smith for #176 all-time in steals (career 191) \u2014 up from #177 entering today \u2014 (2:06 - 2nd \u2014 PHX @ SEA)",
     "kind": "rank_pass",
@@ -2986,14 +2995,5 @@
       "Shoni Schimmel"
     ],
     "new_total": 112
-  },
-  {
-    "ts": "2026-05-21T02:22:00+00:00",
-    "text": "Lexie Brown reached 300 career assists (now 300) \u2014 (3:12 - 1st \u2014 CON @ SEA)",
-    "kind": "round",
-    "player": "Lexie Brown",
-    "stat": "assists",
-    "value": 300,
-    "new_total": 300
   }
 ]
