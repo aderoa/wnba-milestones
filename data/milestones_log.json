@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-04T23:22:00+00:00",
+    "text": "Sophie Cunningham passed Marissa Coleman for #63 all-time in three-pointers (career 316) \u2014 up from #64 entering today \u2014 (56.5 - 1st \u2014 ATL @ IND)",
+    "kind": "rank_pass",
+    "player": "Sophie Cunningham",
+    "stat": "three-pointers",
+    "rank": 63,
+    "passed_players": [
+      "Marissa Coleman"
+    ],
+    "new_total": 316
+  },
+  {
     "ts": "2026-06-04T23:20:00+00:00",
     "text": "Jordin Canada passed Marina Mabrey for #109 all-time in turnovers (career 510) \u2014 (2:35 - 1st \u2014 ATL @ IND)",
     "kind": "rank_pass",
@@ -2996,18 +3008,5 @@
       "Tan White"
     ],
     "new_total": 558
-  },
-  {
-    "ts": "2026-05-22T00:08:00+00:00",
-    "text": "Gabby Williams passed Sophia Young-Malcolm and Tangela Smith for #113 all-time in assists (career 555) \u2014 (8:40 - 1st \u2014 GS @ NY)",
-    "kind": "rank_pass",
-    "player": "Gabby Williams",
-    "stat": "assists",
-    "rank": 113,
-    "passed_players": [
-      "Sophia Young-Malcolm",
-      "Tangela Smith"
-    ],
-    "new_total": 555
   }
 ]

@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-04 23:22 UTC
+
+- **Sophie Cunningham** passed **Marissa Coleman** for **#63** all-time in three-pointers (career 316) — up from #64 entering today — _56.5 - 1st — ATL @ IND_
+
 ## 2026-06-04 23:20 UTC
 
 - **Jordin Canada** passed **Marina Mabrey** for **#109** all-time in turnovers (career 510) — _2:35 - 1st — ATL @ IND_
