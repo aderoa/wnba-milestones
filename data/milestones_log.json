@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-04T03:55:00+00:00",
+    "text": "Kahleah Copper passed Crystal Langhorne for #71 all-time in fouls (career 738) \u2014 up from #72 entering today \u2014 (1:26 - 4th \u2014 PHX @ SEA)",
+    "kind": "rank_pass",
+    "player": "Kahleah Copper",
+    "stat": "fouls",
+    "rank": 71,
+    "passed_players": [
+      "Crystal Langhorne"
+    ],
+    "new_total": 738
+  },
+  {
     "ts": "2026-06-04T03:48:00+00:00",
     "text": "Kahleah Copper passed Asjha Jones, Candice Wiggins, Cheyenne Parker-Tyus, and Elena Baranova for #152 all-time in steals (career 216) \u2014 up from #156 entering today \u2014 (4:39 - 4th \u2014 PHX @ SEA)",
     "kind": "rank_pass",
@@ -2991,17 +3003,5 @@
       "Essence Carson"
     ],
     "new_total": 286
-  },
-  {
-    "ts": "2026-05-21T02:41:00+00:00",
-    "text": "Elizabeth Williams passed Allisha Gray for #77 all-time in fouls (career 715) \u2014 up from #79 entering today \u2014 (2:51 - 3rd \u2014 DAL @ CHI)",
-    "kind": "rank_pass",
-    "player": "Elizabeth Williams",
-    "stat": "fouls",
-    "rank": 77,
-    "passed_players": [
-      "Allisha Gray"
-    ],
-    "new_total": 715
   }
 ]

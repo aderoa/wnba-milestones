@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-04 03:54 UTC_
+_Last updated: 2026-06-04 03:55 UTC_
 
 ## Contents
 
@@ -1524,8 +1524,8 @@ _Last updated: 2026-06-04 03:54 UTC_
 | 68 | Natasha Cloud | 752 |
 | 68 | Vickie Johnson | 752 |
 | 70 | Kara Braxton | 748 |
-| 71 | Crystal Langhorne | 737 |
-| 71 | **Kahleah Copper** 🔴 +1 | 737 |
+| 71 | **Kahleah Copper** 🔴 +2 | 738 |
+| 72 | Crystal Langhorne | 737 |
 | 73 | Shameka Christon | 734 |
 | 74 | Becky Hammon | 733 |
 | 75 | Latasha Byears | 730 |
