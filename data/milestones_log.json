@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-04T23:20:00+00:00",
+    "text": "Jordin Canada passed Marina Mabrey for #109 all-time in turnovers (career 510) \u2014 (2:35 - 1st \u2014 ATL @ IND)",
+    "kind": "rank_pass",
+    "player": "Jordin Canada",
+    "stat": "turnovers",
+    "rank": 109,
+    "passed_players": [
+      "Marina Mabrey"
+    ],
+    "new_total": 510
+  },
+  {
     "ts": "2026-06-04T23:19:00+00:00",
     "text": "Aliyah Boston passed Ebony Hoffman for #174 all-time in points (career 1,912) \u2014 (2:54 - 1st \u2014 ATL @ IND)",
     "kind": "rank_pass",
@@ -2997,17 +3009,5 @@
       "Tangela Smith"
     ],
     "new_total": 555
-  },
-  {
-    "ts": "2026-05-22T00:08:00+00:00",
-    "text": "Veronica Burton passed Julie Vanloo for #195 all-time in three-pointers (career 105) \u2014 up from #196 entering today \u2014 (8:40 - 1st \u2014 GS @ NY)",
-    "kind": "rank_pass",
-    "player": "Veronica Burton",
-    "stat": "three-pointers",
-    "rank": 195,
-    "passed_players": [
-      "Julie Vanloo"
-    ],
-    "new_total": 105
   }
 ]
