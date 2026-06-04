@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-04 00:56 UTC_
+_Last updated: 2026-06-04 00:57 UTC_
 
 ## Contents
 
@@ -111,8 +111,8 @@ _Last updated: 2026-06-04 00:56 UTC_
 | 90 | Wendy Palmer | 3,135 |
 | 91 | Shavonte Zellous | 3,103 |
 | 92 | Briann January | 3,082 |
-| 93 | Erika de Souza | 3,046 |
-| 94 | **Marina Mabrey** 🔴 +10 | 3,045 |
+| 93 | **Marina Mabrey** 🔴 +15 | 3,050 |
+| 94 | Erika de Souza | 3,046 |
 | 95 | Sabrina Ionescu | 3,041 |
 | 96 | Shameka Christon | 3,039 |
 | 97 | Marie Ferdinand-Harris | 3,001 |
@@ -1067,8 +1067,8 @@ _Last updated: 2026-06-04 00:56 UTC_
 | 21 | Allie Quigley | 510 |
 | 22 | Leilani Mitchell | 508 |
 | 23 | Shekinna Stricklen | 468 |
-| 24 | Cappie Pondexter | 464 |
-| 24 | **Marina Mabrey** 🔴 +1 | 464 |
+| 24 | **Marina Mabrey** 🔴 +2 | 465 |
+| 25 | Cappie Pondexter | 464 |
 | 26 | Sabrina Ionescu | 462 |
 | 27 | **Breanna Stewart** 🔴 | 459 |
 | 28 | Tiffany Hayes | 450 |
@@ -1375,7 +1375,7 @@ _Last updated: 2026-06-04 00:56 UTC_
 | 124 | Ariel Atkins | 452 |
 | 125 | Elena Baranova | 444 |
 | 125 | Jantel Lavender | 444 |
-| 127 | **Betnijah Laney-Hamilton** 🔴 | 442 |
+| 127 | **Betnijah Laney-Hamilton** 🔴 +1 | 443 |
 | 128 | Jackie Young | 441 |
 | 129 | Alysha Clark | 440 |
 | 129 | Ann Wauters | 440 |

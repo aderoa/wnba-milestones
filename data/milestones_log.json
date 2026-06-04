@@ -1,5 +1,29 @@
 [
   {
+    "ts": "2026-06-04T00:57:00+00:00",
+    "text": "Marina Mabrey passed Erika de Souza for #93 all-time in points (career 3,050) \u2014 up from #96 entering today \u2014 (1:32 - 3rd \u2014 TOR @ NY)",
+    "kind": "rank_pass",
+    "player": "Marina Mabrey",
+    "stat": "points",
+    "rank": 93,
+    "passed_players": [
+      "Erika de Souza"
+    ],
+    "new_total": 3050
+  },
+  {
+    "ts": "2026-06-04T00:57:00+00:00",
+    "text": "Marina Mabrey passed Cappie Pondexter for #24 all-time in three-pointers (career 465) \u2014 up from #25 entering today \u2014 (1:32 - 3rd \u2014 TOR @ NY)",
+    "kind": "rank_pass",
+    "player": "Marina Mabrey",
+    "stat": "three-pointers",
+    "rank": 24,
+    "passed_players": [
+      "Cappie Pondexter"
+    ],
+    "new_total": 465
+  },
+  {
     "ts": "2026-06-04T00:56:00+00:00",
     "text": "Satou Sabally reached 2,200 career points (now 2,200) \u2014 (2:25 - 3rd \u2014 TOR @ NY)",
     "kind": "round",
@@ -2986,31 +3010,5 @@
       "Wendy Palmer"
     ],
     "new_total": 71
-  },
-  {
-    "ts": "2026-05-21T00:24:00+00:00",
-    "text": "Monique Billings passed Brionna Jones for #97 all-time in blocks (career 126) \u2014 up from #98 entering today \u2014 (6:04 - 3rd \u2014 POR @ IND)",
-    "kind": "rank_pass",
-    "player": "Monique Billings",
-    "stat": "blocks",
-    "rank": 97,
-    "passed_players": [
-      "Brionna Jones"
-    ],
-    "new_total": 126
-  },
-  {
-    "ts": "2026-05-21T00:21:00+00:00",
-    "text": "Tyasha Harris passed Elena Delle Donne, Kristi Harrower, and Nikki McCray for #143 all-time in assists (career 451) \u2014 up from #148 entering today \u2014 (8:07 - 3rd \u2014 POR @ IND)",
-    "kind": "rank_pass",
-    "player": "Tyasha Harris",
-    "stat": "assists",
-    "rank": 143,
-    "passed_players": [
-      "Elena Delle Donne",
-      "Kristi Harrower",
-      "Nikki McCray"
-    ],
-    "new_total": 451
   }
 ]

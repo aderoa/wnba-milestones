@@ -2,6 +2,11 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-04 00:57 UTC
+
+- **Marina Mabrey** passed **Erika de Souza** for **#93** all-time in points (career 3,050) — up from #96 entering today — _1:32 - 3rd — TOR @ NY_
+- **Marina Mabrey** passed **Cappie Pondexter** for **#24** all-time in three-pointers (career 465) — up from #25 entering today — _1:32 - 3rd — TOR @ NY_
+
 ## 2026-06-04 00:56 UTC
 
 - **Satou Sabally** reached **2,200** career points (now 2,200) — _2:25 - 3rd — TOR @ NY_
