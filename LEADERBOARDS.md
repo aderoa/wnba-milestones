@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-04 23:10 UTC_
+_Last updated: 2026-06-04 23:11 UTC_
 
 ## Contents
 
@@ -390,7 +390,7 @@ _Last updated: 2026-06-04 23:10 UTC_
 | 164 | Marlies Askamp | 822 |
 | 165 | Amanda Zahui B | 819 |
 | 165 | Barbara Farris | 819 |
-| 167 | **Naz Hillmon** 🔴 | 817 |
+| 167 | **Naz Hillmon** 🔴 +1 | 818 |
 | 168 | Carolyn Swords | 814 |
 | 169 | Tierra Ruffin-Pratt | 799 |
 | 170 | Betnijah Laney-Hamilton | 795 |
