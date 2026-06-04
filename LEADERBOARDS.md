@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-04 23:06 UTC_
+_Last updated: 2026-06-04 23:07 UTC_
 
 ## Contents
 
@@ -161,7 +161,7 @@ _Last updated: 2026-06-04 23:06 UTC_
 | 139 | Matee Ajavon | 2,237 |
 | 141 | Kia Nurse | 2,231 |
 | 142 | Dawn Staley | 2,228 |
-| 143 | **Jordin Canada** 🔴 | 2,224 |
+| 143 | **Jordin Canada** 🔴 +3 | 2,227 |
 | 144 | Teaira McCowan | 2,221 |
 | 145 | Janel McCarville | 2,215 |
 | 146 | Sami Whitcomb | 2,211 |
@@ -298,7 +298,7 @@ _Last updated: 2026-06-04 23:06 UTC_
 | 72 | **Allisha Gray** 🔴 | 1,383 |
 | 72 | Courtney Vandersloot | 1,383 |
 | 72 | Katie Smith | 1,383 |
-| 75 | **Monique Billings** 🔴 | 1,380 |
+| 75 | **Monique Billings** 🔴 +1 | 1,381 |
 | 76 | Ebony Hoffman | 1,376 |
 | 77 | Sheri Sam | 1,356 |
 | 78 | Kayla Thornton | 1,355 |
@@ -341,7 +341,7 @@ _Last updated: 2026-06-04 23:06 UTC_
 | 115 | Chiney Ogwumike | 1,110 |
 | 116 | Becky Hammon | 1,108 |
 | 117 | Ann Wauters | 1,105 |
-| 118 | **Aliyah Boston** 🔴 | 1,103 |
+| 118 | **Aliyah Boston** 🔴 +1 | 1,104 |
 | 119 | Svetlana Abrosimova | 1,078 |
 | 120 | Le'coe Willingham | 1,054 |
 | 121 | Isabelle Harrison | 1,049 |
@@ -371,7 +371,7 @@ _Last updated: 2026-06-04 23:06 UTC_
 | 145 | Nicky Anosike | 922 |
 | 146 | Satou Sabally | 921 |
 | 147 | Janeth Arcain | 916 |
-| 148 | **Angel Reese** 🔴 | 913 |
+| 148 | **Angel Reese** 🔴 +1 | 914 |
 | 149 | Jessica Shepard | 912 |
 | 150 | Karima Christmas-Kelly | 908 |
 | 151 | Natalie Achonwa | 895 |
@@ -1219,9 +1219,9 @@ _Last updated: 2026-06-04 23:06 UTC_
 | 173 | Charde Houston | 124 |
 | 174 | Lisa Leslie | 123 |
 | 175 | Sidney Spencer | 122 |
-| 176 | **Jordin Canada** 🔴 | 118 |
-| 176 | **Lexie Hull** 🔴 | 118 |
-| 176 | Tonya Edwards | 118 |
+| 176 | **Jordin Canada** 🔴 +1 | 119 |
+| 177 | **Lexie Hull** 🔴 | 118 |
+| 177 | Tonya Edwards | 118 |
 | 179 | Edwige Lawson-Wade | 116 |
 | 179 | Kennedy Burke | 116 |
 | 179 | Marie Ferdinand-Harris | 116 |

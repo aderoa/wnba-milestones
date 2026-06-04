@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-04 23:07 UTC
+
+- **Jordin Canada** passed **Lexie Hull** and **Tonya Edwards** for **#177** all-time in three-pointers (career 119) — _8:20 - 1st — ATL @ IND_
+
 ## 2026-06-04 04:07 UTC
 
 - **Natisha Hiedeman** passed **Jonquel Jones** and **Sami Whitcomb** for **#96** all-time in assists (career 624) — up from #98 entering today — _4.5 - 4th — PHX @ SEA_

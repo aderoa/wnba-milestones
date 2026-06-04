@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-06-04T23:07:00+00:00",
+    "text": "Jordin Canada passed Lexie Hull and Tonya Edwards for #177 all-time in three-pointers (career 119) \u2014 (8:20 - 1st \u2014 ATL @ IND)",
+    "kind": "rank_pass",
+    "player": "Jordin Canada",
+    "stat": "three-pointers",
+    "rank": 177,
+    "passed_players": [
+      "Lexie Hull",
+      "Tonya Edwards"
+    ],
+    "new_total": 119
+  },
+  {
     "ts": "2026-06-04T04:07:00+00:00",
     "text": "Natisha Hiedeman passed Jonquel Jones and Sami Whitcomb for #96 all-time in assists (career 624) \u2014 up from #98 entering today \u2014 (4.5 - 4th \u2014 PHX @ SEA)",
     "kind": "rank_pass",
@@ -2989,18 +3002,5 @@
       "Roneeka Hodges"
     ],
     "new_total": 363
-  },
-  {
-    "ts": "2026-05-21T02:54:00+00:00",
-    "text": "Odyssey Sims passed Chasity Melvin and Leilani Mitchell for #80 all-time in steals (career 331) \u2014 up from #82 entering today \u2014 (9:48 - 4th \u2014 DAL @ CHI)",
-    "kind": "rank_pass",
-    "player": "Odyssey Sims",
-    "stat": "steals",
-    "rank": 80,
-    "passed_players": [
-      "Chasity Melvin",
-      "Leilani Mitchell"
-    ],
-    "new_total": 331
   }
 ]
