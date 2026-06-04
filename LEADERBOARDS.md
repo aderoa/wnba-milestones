@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-04 00:00 UTC_
+_Last updated: 2026-06-04 00:01 UTC_
 
 ## Contents
 
@@ -74,7 +74,7 @@ _Last updated: 2026-06-04 00:00 UTC_
 | 53 | Dearica Hamby | 4,228 |
 | 54 | Yolanda Griffith | 4,224 |
 | 55 | Courtney Williams | 4,221 |
-| 56 | **Jonquel Jones** 🔴 +12 | 4,212 |
+| 56 | **Jonquel Jones** 🔴 +15 | 4,215 |
 | 57 | Rebekkah Brunson | 4,133 |
 | 58 | Asjha Jones | 3,986 |
 | 59 | Deanna Nolan | 3,971 |
@@ -236,7 +236,7 @@ _Last updated: 2026-06-04 00:00 UTC_
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | Alyssa Thomas | 2,808 |
-| 13 | **Jonquel Jones** 🔴 +4 | 2,650 |
+| 13 | **Jonquel Jones** 🔴 +5 | 2,651 |
 | 14 | Sancho Lyttle | 2,596 |
 | 15 | A'ja Wilson | 2,574 |
 | 15 | DeLisha Milton-Jones | 2,574 |
@@ -493,8 +493,8 @@ _Last updated: 2026-06-04 00:00 UTC_
 | 62 | Taj McWilliams-Franklin | 879 |
 | 63 | Noelle Quinn | 878 |
 | 64 | Lisa Leslie | 873 |
-| 65 | **Brittney Sykes** 🔴 +2 | 853 |
 | 65 | Tully Bevilaqua | 853 |
+| 66 | **Brittney Sykes** 🔴 +1 | 852 |
 | 67 | Jia Perkins | 837 |
 | 68 | Kelsey Mitchell | 819 |
 | 69 | Andrea Stinson | 810 |
@@ -648,7 +648,7 @@ _Last updated: 2026-06-04 00:00 UTC_
 | 12 | Taj McWilliams-Franklin | 443 |
 | 13 | **Breanna Stewart** 🔴 +1 | 436 |
 | 14 | Tina Charles | 428 |
-| 15 | **Jonquel Jones** 🔴 | 413 |
+| 15 | **Jonquel Jones** 🔴 +1 | 414 |
 | 16 | Michelle Snow | 403 |
 | 17 | Tamika Catchings | 383 |
 | 18 | Tina Thompson | 372 |
@@ -1092,7 +1092,7 @@ _Last updated: 2026-06-04 00:00 UTC_
 | 46 | Jasmine Thomas | 376 |
 | 47 | Allison Feaster | 372 |
 | 47 | Betty Lennox | 372 |
-| 49 | **Jonquel Jones** 🔴 +2 | 369 |
+| 49 | **Jonquel Jones** 🔴 +3 | 370 |
 | 50 | Epiphanny Prince | 368 |
 | 51 | **Kia Nurse** 🔴 | 364 |
 | 52 | Kahleah Copper | 353 |
