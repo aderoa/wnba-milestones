@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-04 00:44 UTC
+
+- **Marine Johannès** passed **Shavonte Zellous** and **Tianna Hawkins** for **#129** all-time in three-pointers (career 168) — up from #131 entering today — _7:01 - 3rd — TOR @ NY_
+
 ## 2026-06-04 00:40 UTC
 
 - **Jonquel Jones** passed **Sami Whitcomb** for **#97** all-time in assists (career 624) — _7:41 - 3rd — TOR @ NY_

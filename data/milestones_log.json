@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-06-04T00:44:00+00:00",
+    "text": "Marine Johann\u00e8s passed Shavonte Zellous and Tianna Hawkins for #129 all-time in three-pointers (career 168) \u2014 up from #131 entering today \u2014 (7:01 - 3rd \u2014 TOR @ NY)",
+    "kind": "rank_pass",
+    "player": "Marine Johann\u00e8s",
+    "stat": "three-pointers",
+    "rank": 129,
+    "passed_players": [
+      "Shavonte Zellous",
+      "Tianna Hawkins"
+    ],
+    "new_total": 168
+  },
+  {
     "ts": "2026-06-04T00:40:00+00:00",
     "text": "Jonquel Jones passed Sami Whitcomb for #97 all-time in assists (career 624) \u2014 (7:41 - 3rd \u2014 TOR @ NY)",
     "kind": "rank_pass",
@@ -3000,18 +3013,5 @@
       "Courtney Vandersloot"
     ],
     "new_total": 939
-  },
-  {
-    "ts": "2026-05-20T03:46:00+00:00",
-    "text": "Brittney Sykes passed Andrea Stinson and Tamika Raymond for #108 all-time in rebounds (career 1,128) \u2014 up from #111 entering today \u2014 (6:50 - 4th \u2014 TOR @ PHX)",
-    "kind": "rank_pass",
-    "player": "Brittney Sykes",
-    "stat": "rebounds",
-    "rank": 108,
-    "passed_players": [
-      "Andrea Stinson",
-      "Tamika Raymond"
-    ],
-    "new_total": 1128
   }
 ]

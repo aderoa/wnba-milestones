@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-04 00:43 UTC_
+_Last updated: 2026-06-04 00:44 UTC_
 
 ## Contents
 
@@ -475,7 +475,7 @@ _Last updated: 2026-06-04 00:43 UTC_
 | 44 | Nikki Teasley | 982 |
 | 45 | Kayla McBride | 966 |
 | 46 | Tamecka Dixon | 960 |
-| 47 | **Breanna Stewart** 🔴 +3 | 952 |
+| 47 | **Breanna Stewart** 🔴 +4 | 953 |
 | 48 | Kara Lawson | 946 |
 | 49 | Tiffany Hayes | 933 |
 | 50 | Deanna Nolan | 930 |
@@ -792,10 +792,10 @@ _Last updated: 2026-06-04 00:43 UTC_
 | 154 | Shatori Walker-Kimbrough | 84 |
 | 157 | Tamera Young | 83 |
 | 158 | Damiris Dantas | 82 |
-| 158 | **Marina Mabrey** 🔴 +2 | 82 |
-| 160 | Charlotte Smith | 81 |
-| 160 | Cintia dos Santos | 81 |
-| 160 | Jessie Hicks | 81 |
+| 159 | Charlotte Smith | 81 |
+| 159 | Cintia dos Santos | 81 |
+| 159 | Jessie Hicks | 81 |
+| 159 | **Marina Mabrey** 🔴 +1 | 81 |
 | 163 | Nykesha Sales | 80 |
 | 163 | Rushia Brown | 80 |
 | 165 | Astou Ndour-Fall | 78 |
@@ -1172,9 +1172,9 @@ _Last updated: 2026-06-04 00:43 UTC_
 | 126 | Theresa Plaisance | 172 |
 | 127 | Amanda Lassiter | 170 |
 | 128 | Caitlin Clark | 169 |
-| 129 | **Marine Johannès** 🔴 +2 | 167 |
-| 129 | Shavonte Zellous | 167 |
-| 129 | Tianna Hawkins | 167 |
+| 129 | **Marine Johannès** 🔴 +3 | 168 |
+| 130 | Shavonte Zellous | 167 |
+| 130 | Tianna Hawkins | 167 |
 | 132 | Charlotte Smith | 164 |
 | 133 | Tyasha Harris | 162 |
 | 133 | Ukari Figgs | 162 |
