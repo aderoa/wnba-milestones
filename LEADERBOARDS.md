@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-04 23:49 UTC_
+_Last updated: 2026-06-04 23:50 UTC_
 
 ## Contents
 
@@ -159,8 +159,8 @@ _Last updated: 2026-06-04 23:49 UTC_
 | 138 | Shekinna Stricklen | 2,245 |
 | 139 | Kara Braxton | 2,237 |
 | 139 | Matee Ajavon | 2,237 |
+| 141 | **Jordin Canada** 🔴 +7 | 2,231 |
 | 141 | Kia Nurse | 2,231 |
-| 142 | **Jordin Canada** 🔴 +6 | 2,230 |
 | 143 | Dawn Staley | 2,228 |
 | 144 | Teaira McCowan | 2,221 |
 | 145 | Janel McCarville | 2,215 |
@@ -339,8 +339,8 @@ _Last updated: 2026-06-04 23:49 UTC_
 | 113 | Deanna Nolan | 1,112 |
 | 113 | Natasha Cloud | 1,112 |
 | 115 | Chiney Ogwumike | 1,110 |
-| 116 | **Aliyah Boston** 🔴 +5 | 1,108 |
-| 116 | Becky Hammon | 1,108 |
+| 116 | **Aliyah Boston** 🔴 +6 | 1,109 |
+| 117 | Becky Hammon | 1,108 |
 | 118 | Ann Wauters | 1,105 |
 | 119 | Svetlana Abrosimova | 1,078 |
 | 120 | Le'coe Willingham | 1,054 |

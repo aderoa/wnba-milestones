@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-04 23:50 UTC
+
+- **Aliyah Boston** passed **Becky Hammon** for **#116** all-time in rebounds (career 1,109) — up from #118 entering today — _2:45 - 2nd — ATL @ IND_
+
 ## 2026-06-04 23:43 UTC
 
 - **Aliyah Boston** passed **Nakia Sanford** for **#171** all-time in points (career 1,917) — up from #173 entering today — _4:25 - 2nd — ATL @ IND_

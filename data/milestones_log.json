@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-04T23:50:00+00:00",
+    "text": "Aliyah Boston passed Becky Hammon for #116 all-time in rebounds (career 1,109) \u2014 up from #118 entering today \u2014 (2:45 - 2nd \u2014 ATL @ IND)",
+    "kind": "rank_pass",
+    "player": "Aliyah Boston",
+    "stat": "rebounds",
+    "rank": 116,
+    "passed_players": [
+      "Becky Hammon"
+    ],
+    "new_total": 1109
+  },
+  {
     "ts": "2026-06-04T23:43:00+00:00",
     "text": "Aliyah Boston passed Nakia Sanford for #171 all-time in points (career 1,917) \u2014 up from #173 entering today \u2014 (4:25 - 2nd \u2014 ATL @ IND)",
     "kind": "rank_pass",
@@ -3001,14 +3013,5 @@
       "Veronica Burton"
     ],
     "new_total": 105
-  },
-  {
-    "ts": "2026-05-22T00:43:00+00:00",
-    "text": "Kaila Charles reached 500 career points (now 500) \u2014 (3:32 - 2nd \u2014 GS @ NY)",
-    "kind": "round",
-    "player": "Kaila Charles",
-    "stat": "points",
-    "value": 500,
-    "new_total": 500
   }
 ]
