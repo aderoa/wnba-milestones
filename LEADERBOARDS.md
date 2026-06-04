@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-04 00:45 UTC_
+_Last updated: 2026-06-04 00:46 UTC_
 
 ## Contents
 
@@ -32,7 +32,7 @@ _Last updated: 2026-06-04 00:45 UTC_
 | 11 | Katie Smith | 6,450 |
 | 12 | Sylvia Fowles | 6,413 |
 | 13 | Lisa Leslie | 6,251 |
-| 14 | **Breanna Stewart** 🔴 +6 | 6,160 |
+| 14 | **Breanna Stewart** 🔴 +8 | 6,162 |
 | 15 | Jewell Loyd | 6,078 |
 | 16 | Brittney Griner | 6,015 |
 | 17 | Lauren Jackson | 6,005 |
@@ -112,7 +112,7 @@ _Last updated: 2026-06-04 00:45 UTC_
 | 91 | Shavonte Zellous | 3,103 |
 | 92 | Briann January | 3,082 |
 | 93 | Erika de Souza | 3,046 |
-| 94 | **Marina Mabrey** 🔴 +7 | 3,042 |
+| 94 | **Marina Mabrey** 🔴 +9 | 3,044 |
 | 95 | Sabrina Ionescu | 3,041 |
 | 96 | Shameka Christon | 3,039 |
 | 97 | Marie Ferdinand-Harris | 3,001 |
