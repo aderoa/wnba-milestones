@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-04 03:39 UTC_
+_Last updated: 2026-06-04 03:40 UTC_
 
 ## Contents
 
@@ -1472,7 +1472,7 @@ _Last updated: 2026-06-04 03:39 UTC_
 | 16 | Taj McWilliams-Franklin | 1,145 |
 | 17 | Monique Currie | 1,137 |
 | 18 | Natasha Howard | 1,121 |
-| 19 | **Stefanie Dolson** 🔴 +2 | 1,116 |
+| 19 | **Stefanie Dolson** 🔴 +3 | 1,117 |
 | 20 | Tanisha Wright | 1,109 |
 | 21 | Michelle Snow | 1,108 |
 | 22 | Sylvia Fowles | 1,049 |
