@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-04 03:10 UTC_
+_Last updated: 2026-06-04 03:11 UTC_
 
 ## Contents
 
@@ -67,7 +67,7 @@ _Last updated: 2026-06-04 03:10 UTC_
 | 46 | Courtney Vandersloot | 4,352 |
 | 47 | Allisha Gray | 4,326 |
 | 48 | Sophia Young-Malcolm | 4,300 |
-| 49 | **Kahleah Copper** 🔴 +8 | 4,275 |
+| 49 | **Kahleah Copper** 🔴 +10 | 4,277 |
 | 50 | Plenette Pierson | 4,258 |
 | 51 | Monique Currie | 4,253 |
 | 52 | Vickie Johnson | 4,230 |
@@ -435,7 +435,7 @@ _Last updated: 2026-06-04 03:10 UTC_
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
 | 6 | Chelsea Gray | 1,935 |
-| 7 | **Alyssa Thomas** 🔴 +3 | 1,901 |
+| 7 | **Alyssa Thomas** 🔴 +4 | 1,902 |
 | 8 | Skylar Diggins | 1,808 |
 | 9 | Natasha Cloud | 1,767 |
 | 10 | Becky Hammon | 1,705 |
@@ -852,7 +852,7 @@ _Last updated: 2026-06-04 03:10 UTC_
 | 11 | Katie Douglas | 623 |
 | 12 | DeLisha Milton-Jones | 619 |
 | 13 | Taj McWilliams-Franklin | 577 |
-| 14 | **Alyssa Thomas** 🔴 +1 | 575 |
+| 14 | **Alyssa Thomas** 🔴 +2 | 576 |
 | 15 | Tully Bevilaqua | 571 |
 | 16 | Courtney Vandersloot | 544 |
 | 17 | Yolanda Griffith | 527 |
