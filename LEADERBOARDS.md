@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-04 23:44 UTC_
+_Last updated: 2026-06-04 23:45 UTC_
 
 ## Contents
 
@@ -48,7 +48,7 @@ _Last updated: 2026-06-04 23:44 UTC_
 | 27 | Swin Cash | 5,119 |
 | 28 | Tangela Smith | 5,035 |
 | 29 | Taj McWilliams-Franklin | 4,992 |
-| 30 | **Kelsey Mitchell** 🔴 +7 | 4,985 |
+| 30 | **Kelsey Mitchell** 🔴 +10 | 4,988 |
 | 31 | Maya Moore | 4,984 |
 | 32 | Tiffany Hayes | 4,970 |
 | 33 | Sheryl Swoopes | 4,875 |
@@ -458,7 +458,7 @@ _Last updated: 2026-06-04 23:44 UTC_
 | 27 | Odyssey Sims | 1,228 |
 | 28 | Vickie Johnson | 1,202 |
 | 29 | Leilani Mitchell | 1,197 |
-| 30 | **Jordin Canada** 🔴 | 1,194 |
+| 30 | **Jordin Canada** 🔴 +1 | 1,195 |
 | 31 | DeWanna Bonner | 1,186 |
 | 32 | Jewell Loyd | 1,144 |
 | 33 | Renee Montgomery | 1,140 |
@@ -597,7 +597,7 @@ _Last updated: 2026-06-04 23:44 UTC_
 | 166 | Kia Nurse | 402 |
 | 167 | Julie Allemand | 399 |
 | 167 | Marissa Coleman | 399 |
-| 169 | **Aliyah Boston** 🔴 +1 | 397 |
+| 169 | **Aliyah Boston** 🔴 +2 | 398 |
 | 170 | Stacey Dales | 395 |
 | 171 | Sugar Rodgers | 393 |
 | 172 | Jessica Shepard | 390 |
@@ -1051,7 +1051,7 @@ _Last updated: 2026-06-04 23:44 UTC_
 | 5 | Tina Thompson | 745 |
 | 6 | Kayla McBride | 734 |
 | 7 | Katie Douglas | 723 |
-| 8 | **Kelsey Mitchell** 🔴 +1 | 685 |
+| 8 | **Kelsey Mitchell** 🔴 +2 | 686 |
 | 9 | Jewell Loyd | 678 |
 | 10 | DeWanna Bonner | 669 |
 | 11 | Kristi Toliver | 651 |
