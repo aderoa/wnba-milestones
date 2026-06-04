@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-04T00:40:00+00:00",
+    "text": "Jonquel Jones passed Sami Whitcomb for #97 all-time in assists (career 624) \u2014 (7:41 - 3rd \u2014 TOR @ NY)",
+    "kind": "rank_pass",
+    "player": "Jonquel Jones",
+    "stat": "assists",
+    "rank": 97,
+    "passed_players": [
+      "Sami Whitcomb"
+    ],
+    "new_total": 624
+  },
+  {
     "ts": "2026-06-04T00:21:00+00:00",
     "text": "Julie Allemand reached 400 career assists (now 400) \u2014 (Halftime \u2014 TOR @ NY)",
     "kind": "round",
@@ -3001,17 +3013,5 @@
       "Tamika Raymond"
     ],
     "new_total": 1128
-  },
-  {
-    "ts": "2026-05-20T03:44:00+00:00",
-    "text": "Marina Mabrey passed Emma Meesseman for #97 all-time in points (career 2,968) \u2014 up from #98 entering today \u2014 (7:29 - 4th \u2014 TOR @ PHX)",
-    "kind": "rank_pass",
-    "player": "Marina Mabrey",
-    "stat": "points",
-    "rank": 97,
-    "passed_players": [
-      "Emma Meesseman"
-    ],
-    "new_total": 2968
   }
 ]
