@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-04 23:36 UTC
+
+- **Monique Billings** passed **Allisha Gray**, **Courtney Vandersloot**, and **Katie Smith** for **#72** all-time in rebounds (career 1,384) — up from #75 entering today — _7:00 - 2nd — ATL @ IND_
+
 ## 2026-06-04 23:32 UTC
 
 - **Rhyne Howard** passed **Kara Lawson** for **#139** all-time in steals (career 230) — up from #140 entering today — _7:36 - 2nd — ATL @ IND_

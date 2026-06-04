@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-04 23:35 UTC_
+_Last updated: 2026-06-04 23:36 UTC_
 
 ## Contents
 
@@ -296,9 +296,9 @@ _Last updated: 2026-06-04 23:35 UTC_
 | 70 | Nakia Sanford | 1,419 |
 | 71 | Kara Braxton | 1,387 |
 | 72 | **Allisha Gray** 🔴 +1 | 1,384 |
-| 73 | Courtney Vandersloot | 1,383 |
-| 73 | Katie Smith | 1,383 |
-| 73 | **Monique Billings** 🔴 +3 | 1,383 |
+| 72 | **Monique Billings** 🔴 +4 | 1,384 |
+| 74 | Courtney Vandersloot | 1,383 |
+| 74 | Katie Smith | 1,383 |
 | 76 | Ebony Hoffman | 1,376 |
 | 77 | Sheri Sam | 1,356 |
 | 78 | Kayla Thornton | 1,355 |

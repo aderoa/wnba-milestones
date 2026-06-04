@@ -1,5 +1,19 @@
 [
   {
+    "ts": "2026-06-04T23:36:00+00:00",
+    "text": "Monique Billings passed Allisha Gray, Courtney Vandersloot, and Katie Smith for #72 all-time in rebounds (career 1,384) \u2014 up from #75 entering today \u2014 (7:00 - 2nd \u2014 ATL @ IND)",
+    "kind": "rank_pass",
+    "player": "Monique Billings",
+    "stat": "rebounds",
+    "rank": 72,
+    "passed_players": [
+      "Allisha Gray",
+      "Courtney Vandersloot",
+      "Katie Smith"
+    ],
+    "new_total": 1384
+  },
+  {
     "ts": "2026-06-04T23:32:00+00:00",
     "text": "Rhyne Howard passed Kara Lawson for #139 all-time in steals (career 230) \u2014 up from #140 entering today \u2014 (7:36 - 2nd \u2014 ATL @ IND)",
     "kind": "rank_pass",
@@ -2996,17 +3010,5 @@
       "DeLisha Milton-Jones"
     ],
     "new_total": 922
-  },
-  {
-    "ts": "2026-05-22T00:20:00+00:00",
-    "text": "Veronica Burton passed Laurie Koehn for #194 all-time in three-pointers (career 106) \u2014 up from #196 entering today \u2014 (2:56 - 1st \u2014 GS @ NY)",
-    "kind": "rank_pass",
-    "player": "Veronica Burton",
-    "stat": "three-pointers",
-    "rank": 194,
-    "passed_players": [
-      "Laurie Koehn"
-    ],
-    "new_total": 106
   }
 ]
