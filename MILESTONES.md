@@ -2,6 +2,11 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-04 04:07 UTC
+
+- **Natisha Hiedeman** passed **Jonquel Jones** and **Sami Whitcomb** for **#96** all-time in assists (career 624) — up from #98 entering today — _4.5 - 4th — PHX @ SEA_
+- **Katie Lou Samuelson** passed **Wendy Palmer** for **#150** all-time in three-pointers (career 147) — _4.5 - 4th — PHX @ SEA_
+
 ## 2026-06-04 03:55 UTC
 
 - **Kahleah Copper** passed **Crystal Langhorne** for **#71** all-time in fouls (career 738) — up from #72 entering today — _1:26 - 4th — PHX @ SEA_

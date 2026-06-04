@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-04 04:06 UTC_
+_Last updated: 2026-06-04 04:07 UTC_
 
 ## Contents
 
@@ -525,8 +525,8 @@ _Last updated: 2026-06-04 04:06 UTC_
 | 93 | Asjha Jones | 637 |
 | 95 | Jennifer Azzi | 636 |
 | 96 | Jonquel Jones | 625 |
-| 97 | **Natisha Hiedeman** 🔴 +3 | 623 |
-| 97 | Sami Whitcomb | 623 |
+| 97 | **Natisha Hiedeman** 🔴 +4 | 624 |
+| 98 | Sami Whitcomb | 623 |
 | 99 | Alysha Clark | 616 |
 | 100 | Debbie Black | 612 |
 | 101 | Cynthia Cooper | 602 |
@@ -1192,8 +1192,8 @@ _Last updated: 2026-06-04 04:06 UTC_
 | 146 | Moriah Jefferson | 149 |
 | 146 | Tiffany Mitchell | 149 |
 | 148 | Diamond DeShields | 147 |
-| 149 | **Katie Lou Samuelson** 🔴 | 146 |
-| 149 | Wendy Palmer | 146 |
+| 148 | **Katie Lou Samuelson** 🔴 +1 | 147 |
+| 150 | Wendy Palmer | 146 |
 | 151 | Helen Darling | 144 |
 | 151 | Matee Ajavon | 144 |
 | 153 | Shenise Johnson | 143 |
