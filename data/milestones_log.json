@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-04T23:12:00+00:00",
+    "text": "Aliyah Boston passed Ann Wauters for #117 all-time in rebounds (career 1,106) \u2014 up from #118 entering today \u2014 (5:55 - 1st \u2014 ATL @ IND)",
+    "kind": "rank_pass",
+    "player": "Aliyah Boston",
+    "stat": "rebounds",
+    "rank": 117,
+    "passed_players": [
+      "Ann Wauters"
+    ],
+    "new_total": 1106
+  },
+  {
     "ts": "2026-06-04T23:10:00+00:00",
     "text": "Allisha Gray passed Courtney Vandersloot and Katie Smith for #73 all-time in rebounds (career 1,384) \u2014 (7:02 - 1st \u2014 ATL @ IND)",
     "kind": "rank_pass",
@@ -2991,17 +3003,5 @@
     "stat": "fouls",
     "value": 800,
     "new_total": 800
-  },
-  {
-    "ts": "2026-05-21T03:21:00+00:00",
-    "text": "Rachel Banham passed Sami Whitcomb for #185 all-time in fouls (career 481) \u2014 up from #186 entering today \u2014 (37.8 - 4th \u2014 DAL @ CHI)",
-    "kind": "rank_pass",
-    "player": "Rachel Banham",
-    "stat": "fouls",
-    "rank": 185,
-    "passed_players": [
-      "Sami Whitcomb"
-    ],
-    "new_total": 481
   }
 ]
