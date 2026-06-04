@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-04T01:13:00+00:00",
+    "text": "Brittney Sykes passed Shannon Johnson for #106 all-time in rebounds (career 1,144) \u2014 up from #107 entering today \u2014 (6:24 - 4th \u2014 TOR @ NY)",
+    "kind": "rank_pass",
+    "player": "Brittney Sykes",
+    "stat": "rebounds",
+    "rank": 106,
+    "passed_players": [
+      "Shannon Johnson"
+    ],
+    "new_total": 1144
+  },
+  {
     "ts": "2026-06-04T01:06:00+00:00",
     "text": "Marina Mabrey passed Jordin Canada for #108 all-time in turnovers (career 510) \u2014 up from #109 entering today \u2014 (8:58 - 4th \u2014 TOR @ NY)",
     "kind": "rank_pass",
@@ -2997,18 +3009,5 @@
       "Tiffany Hayes"
     ],
     "new_total": 4928
-  },
-  {
-    "ts": "2026-05-21T00:29:00+00:00",
-    "text": "Tyasha Harris passed Satou Sabally and Yolanda Griffith for #141 all-time in assists (career 452) \u2014 up from #148 entering today \u2014 (5:05 - 3rd \u2014 POR @ IND)",
-    "kind": "rank_pass",
-    "player": "Tyasha Harris",
-    "stat": "assists",
-    "rank": 141,
-    "passed_players": [
-      "Satou Sabally",
-      "Yolanda Griffith"
-    ],
-    "new_total": 452
   }
 ]

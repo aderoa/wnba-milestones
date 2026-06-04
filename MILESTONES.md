@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-04 01:13 UTC
+
+- **Brittney Sykes** passed **Shannon Johnson** for **#106** all-time in rebounds (career 1,144) — up from #107 entering today — _6:24 - 4th — TOR @ NY_
+
 ## 2026-06-04 01:06 UTC
 
 - **Marina Mabrey** passed **Jordin Canada** for **#108** all-time in turnovers (career 510) — up from #109 entering today — _8:58 - 4th — TOR @ NY_
