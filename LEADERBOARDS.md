@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-04 02:49 UTC_
+_Last updated: 2026-06-04 02:50 UTC_
 
 ## Contents
 
@@ -21,7 +21,7 @@ _Last updated: 2026-06-04 02:49 UTC_
 |-----:|--------|------:|
 | 1 | Diana Taurasi | 10,608 |
 | 2 | Tina Charles | 8,396 |
-| 3 | **DeWanna Bonner** 🔴 +3 | 7,884 |
+| 3 | **DeWanna Bonner** 🔴 +5 | 7,886 |
 | 4 | Tina Thompson | 7,470 |
 | 5 | Nneka Ogwumike | 7,427 |
 | 6 | Tamika Catchings | 7,371 |
@@ -845,7 +845,7 @@ _Last updated: 2026-06-04 02:49 UTC_
 | 4 | Alana Beard | 710 |
 | 5 | Nneka Ogwumike | 677 |
 | 6 | Sheryl Swoopes | 657 |
-| 7 | **DeWanna Bonner** 🔴 | 639 |
+| 7 | **DeWanna Bonner** 🔴 +1 | 640 |
 | 8 | Jia Perkins | 634 |
 | 9 | Sancho Lyttle | 630 |
 | 10 | Angel McCoughtry | 627 |
@@ -1274,7 +1274,7 @@ _Last updated: 2026-06-04 02:49 UTC_
 | 23 | Skylar Diggins | 891 |
 | 24 | Candice Dupree | 869 |
 | 25 | Alana Beard | 854 |
-| 26 | **DeWanna Bonner** 🔴 | 835 |
+| 26 | **DeWanna Bonner** 🔴 +1 | 836 |
 | 27 | Katie Douglas | 824 |
 | 28 | Natasha Howard | 819 |
 | 29 | Betty Lennox | 800 |
