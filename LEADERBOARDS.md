@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-04 23:51 UTC_
+_Last updated: 2026-06-04 23:52 UTC_
 
 ## Contents
 
@@ -48,7 +48,7 @@ _Last updated: 2026-06-04 23:51 UTC_
 | 27 | Swin Cash | 5,119 |
 | 28 | Tangela Smith | 5,035 |
 | 29 | Taj McWilliams-Franklin | 4,992 |
-| 30 | **Kelsey Mitchell** 🔴 +10 | 4,988 |
+| 30 | **Kelsey Mitchell** 🔴 +12 | 4,990 |
 | 31 | Maya Moore | 4,984 |
 | 32 | Tiffany Hayes | 4,970 |
 | 33 | Sheryl Swoopes | 4,875 |
@@ -370,7 +370,7 @@ _Last updated: 2026-06-04 23:51 UTC_
 | 144 | Merlakia Jones | 927 |
 | 145 | Nicky Anosike | 922 |
 | 146 | Satou Sabally | 921 |
-| 147 | **Angel Reese** 🔴 +5 | 918 |
+| 147 | **Angel Reese** 🔴 +6 | 919 |
 | 148 | Janeth Arcain | 916 |
 | 149 | Jessica Shepard | 912 |
 | 150 | Karima Christmas-Kelly | 908 |
@@ -714,7 +714,7 @@ _Last updated: 2026-06-04 23:51 UTC_
 | 77 | Sue Wicks | 153 |
 | 79 | Jessica Davenport | 151 |
 | 80 | Alison Bales | 148 |
-| 81 | **Aliyah Boston** 🔴 | 144 |
+| 81 | **Aliyah Boston** 🔴 +1 | 145 |
 | 82 | Chamique Holdsclaw | 143 |
 | 83 | Shavonte Zellous | 139 |
 | 84 | Penny Taylor | 136 |
@@ -1015,9 +1015,9 @@ _Last updated: 2026-06-04 23:51 UTC_
 | 173 | Tierra Ruffin-Pratt | 194 |
 | 175 | Cynthia Cooper | 192 |
 | 176 | Alanna Smith | 190 |
+| 177 | **Myisha Hines-Allen** 🔴 +2 | 189 |
 | 177 | Natisha Hiedeman | 189 |
-| 178 | **Myisha Hines-Allen** 🔴 +1 | 188 |
-| 178 | Tamicha Jackson | 188 |
+| 179 | Tamicha Jackson | 188 |
 | 180 | Michele Timms | 187 |
 | 181 | Charde Houston | 185 |
 | 181 | Tiffany Jackson | 185 |
