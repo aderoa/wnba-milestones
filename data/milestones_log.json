@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-04T00:10:00+00:00",
+    "text": "Satou Sabally passed Nicky Anosike for #145 all-time in rebounds (career 923) \u2014 up from #146 entering today \u2014 (4:55 - 2nd \u2014 TOR @ NY)",
+    "kind": "rank_pass",
+    "player": "Satou Sabally",
+    "stat": "rebounds",
+    "rank": 145,
+    "passed_players": [
+      "Nicky Anosike"
+    ],
+    "new_total": 923
+  },
+  {
     "ts": "2026-06-04T00:02:00+00:00",
     "text": "Brittney Sykes passed Jasmine Thomas for #91 all-time in fouls (career 686) \u2014 (7:38 - 2nd \u2014 TOR @ NY)",
     "kind": "rank_pass",
@@ -3002,17 +3014,5 @@
       "Dearica Hamby"
     ],
     "new_total": 4159
-  },
-  {
-    "ts": "2026-05-19T04:08:00+00:00",
-    "text": "Brittney Griner passed Asjha Jones for #92 all-time in assists (career 638) \u2014 up from #94 entering today \u2014 (45.0 - 4th \u2014 CON @ POR)",
-    "kind": "rank_pass",
-    "player": "Brittney Griner",
-    "stat": "assists",
-    "rank": 92,
-    "passed_players": [
-      "Asjha Jones"
-    ],
-    "new_total": 638
   }
 ]
