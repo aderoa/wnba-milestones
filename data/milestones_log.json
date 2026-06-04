@@ -1,5 +1,26 @@
 [
   {
+    "ts": "2026-06-04T02:09:00+00:00",
+    "text": "Alyssa Thomas reached 1,900 career assists (now 1,900) \u2014 (5:51 - 1st \u2014 PHX @ SEA)",
+    "kind": "round",
+    "player": "Alyssa Thomas",
+    "stat": "assists",
+    "value": 1900,
+    "new_total": 1900
+  },
+  {
+    "ts": "2026-06-04T02:09:00+00:00",
+    "text": "Natasha Mack passed Ariel Atkins for #110 all-time in blocks (career 114) \u2014 up from #111 entering today \u2014 (5:51 - 1st \u2014 PHX @ SEA)",
+    "kind": "rank_pass",
+    "player": "Natasha Mack",
+    "stat": "blocks",
+    "rank": 110,
+    "passed_players": [
+      "Ariel Atkins"
+    ],
+    "new_total": 114
+  },
+  {
     "ts": "2026-06-04T02:07:00+00:00",
     "text": "Alyssa Thomas reached 1,000 career turnovers (now 1,000) \u2014 (7:16 - 1st \u2014 PHX @ SEA)",
     "kind": "round",
@@ -2976,31 +2997,5 @@
       "Jessie Hicks"
     ],
     "new_total": 82
-  },
-  {
-    "ts": "2026-05-21T01:56:00+00:00",
-    "text": "Natasha Cloud passed Andrea Stinson for #73 all-time in steals (career 343) \u2014 up from #74 entering today \u2014 (3:39 - 2nd \u2014 DAL @ CHI)",
-    "kind": "rank_pass",
-    "player": "Natasha Cloud",
-    "stat": "steals",
-    "rank": 73,
-    "passed_players": [
-      "Andrea Stinson"
-    ],
-    "new_total": 343
-  },
-  {
-    "ts": "2026-05-21T01:10:00+00:00",
-    "text": "Lexie Hull passed Gordana Grubin, Rickea Jackson, and Sandy Brondello for #183 all-time in three-pointers (career 115) \u2014 up from #186 entering today \u2014 (3:18 - 4th \u2014 POR @ IND)",
-    "kind": "rank_pass",
-    "player": "Lexie Hull",
-    "stat": "three-pointers",
-    "rank": 183,
-    "passed_players": [
-      "Gordana Grubin",
-      "Rickea Jackson",
-      "Sandy Brondello"
-    ],
-    "new_total": 115
   }
 ]

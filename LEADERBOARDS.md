@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-04 02:08 UTC_
+_Last updated: 2026-06-04 02:09 UTC_
 
 ## Contents
 
@@ -435,7 +435,7 @@ _Last updated: 2026-06-04 02:08 UTC_
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
 | 6 | Chelsea Gray | 1,935 |
-| 7 | **Alyssa Thomas** 🔴 +1 | 1,899 |
+| 7 | **Alyssa Thomas** 🔴 +2 | 1,900 |
 | 8 | Skylar Diggins | 1,808 |
 | 9 | Natasha Cloud | 1,767 |
 | 10 | Becky Hammon | 1,705 |
@@ -743,8 +743,8 @@ _Last updated: 2026-06-04 02:08 UTC_
 | 106 | Crystal Langhorne | 117 |
 | 106 | Emily Engstler | 117 |
 | 109 | Monique Currie | 114 |
-| 110 | Ariel Atkins | 113 |
-| 110 | **Natasha Mack** 🔴 | 113 |
+| 109 | **Natasha Mack** 🔴 +1 | 114 |
+| 111 | Ariel Atkins | 113 |
 | 112 | Amanda Lassiter | 111 |
 | 112 | Kamila Vodichkova | 111 |
 | 112 | Sophia Young-Malcolm | 111 |
@@ -1192,7 +1192,7 @@ _Last updated: 2026-06-04 02:08 UTC_
 | 146 | Moriah Jefferson | 149 |
 | 146 | Tiffany Mitchell | 149 |
 | 148 | Diamond DeShields | 147 |
-| 149 | Katie Lou Samuelson | 146 |
+| 149 | **Katie Lou Samuelson** 🔴 | 146 |
 | 149 | Wendy Palmer | 146 |
 | 151 | Helen Darling | 144 |
 | 151 | Matee Ajavon | 144 |
