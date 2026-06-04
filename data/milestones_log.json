@@ -1,5 +1,30 @@
 [
   {
+    "ts": "2026-06-04T23:39:00+00:00",
+    "text": "Naz Hillmon passed Amanda Zahui B and Barbara Farris for #165 all-time in rebounds (career 820) \u2014 up from #167 entering today \u2014 (5:07 - 2nd \u2014 ATL @ IND)",
+    "kind": "rank_pass",
+    "player": "Naz Hillmon",
+    "stat": "rebounds",
+    "rank": 165,
+    "passed_players": [
+      "Amanda Zahui B",
+      "Barbara Farris"
+    ],
+    "new_total": 820
+  },
+  {
+    "ts": "2026-06-04T23:39:00+00:00",
+    "text": "Kelsey Mitchell passed Maya Moore for #30 all-time in points (career 4,985) \u2014 up from #31 entering today \u2014 (5:07 - 2nd \u2014 ATL @ IND)",
+    "kind": "rank_pass",
+    "player": "Kelsey Mitchell",
+    "stat": "points",
+    "rank": 30,
+    "passed_players": [
+      "Maya Moore"
+    ],
+    "new_total": 4985
+  },
+  {
     "ts": "2026-06-04T23:37:00+00:00",
     "text": "Jordin Canada passed Monique Currie for #57 all-time in steals (career 379) \u2014 (6:16 - 2nd \u2014 ATL @ IND)",
     "kind": "rank_pass",
@@ -2986,29 +3011,5 @@
       "Jayne Appel Marinelli"
     ],
     "new_total": 1327
-  },
-  {
-    "ts": "2026-05-22T00:32:00+00:00",
-    "text": "Satou Sabally passed Yolanda Griffith for #142 all-time in assists (career 452) \u2014 (8:25 - 2nd \u2014 GS @ NY)",
-    "kind": "rank_pass",
-    "player": "Satou Sabally",
-    "stat": "assists",
-    "rank": 142,
-    "passed_players": [
-      "Yolanda Griffith"
-    ],
-    "new_total": 452
-  },
-  {
-    "ts": "2026-05-22T00:31:00+00:00",
-    "text": "Kiah Stokes passed Courtney Paris for #113 all-time in fouls (career 618) \u2014 up from #114 entering today \u2014 (9:26 - 2nd \u2014 GS @ NY)",
-    "kind": "rank_pass",
-    "player": "Kiah Stokes",
-    "stat": "fouls",
-    "rank": 113,
-    "passed_players": [
-      "Courtney Paris"
-    ],
-    "new_total": 618
   }
 ]
