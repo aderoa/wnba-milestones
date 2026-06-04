@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-04T00:48:00+00:00",
+    "text": "Brittney Sykes passed Maya Moore for #89 all-time in fouls (career 687) \u2014 up from #90 entering today \u2014 (5:15 - 3rd \u2014 TOR @ NY)",
+    "kind": "rank_pass",
+    "player": "Brittney Sykes",
+    "stat": "fouls",
+    "rank": 89,
+    "passed_players": [
+      "Maya Moore"
+    ],
+    "new_total": 687
+  },
+  {
     "ts": "2026-06-04T00:45:00+00:00",
     "text": "Marina Mabrey passed Sabrina Ionescu and Shameka Christon for #94 all-time in points (career 3,042) \u2014 up from #96 entering today \u2014 (6:22 - 3rd \u2014 TOR @ NY)",
     "kind": "rank_pass",
@@ -3002,17 +3014,5 @@
       "Shoni Schimmel"
     ],
     "new_total": 112
-  },
-  {
-    "ts": "2026-05-20T04:00:00+00:00",
-    "text": "Brittney Sykes passed Jia Perkins for #66 all-time in assists (career 838) \u2014 up from #67 entering today \u2014 (1:52 - 4th \u2014 TOR @ PHX)",
-    "kind": "rank_pass",
-    "player": "Brittney Sykes",
-    "stat": "assists",
-    "rank": 66,
-    "passed_players": [
-      "Jia Perkins"
-    ],
-    "new_total": 838
   }
 ]

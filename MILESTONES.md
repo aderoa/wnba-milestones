@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-04 00:48 UTC
+
+- **Brittney Sykes** passed **Maya Moore** for **#89** all-time in fouls (career 687) — up from #90 entering today — _5:15 - 3rd — TOR @ NY_
+
 ## 2026-06-04 00:45 UTC
 
 - **Marina Mabrey** passed **Sabrina Ionescu** and **Shameka Christon** for **#94** all-time in points (career 3,042) — up from #96 entering today — _6:22 - 3rd — TOR @ NY_
