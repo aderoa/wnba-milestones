@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-04 02:51 UTC
+
+- **Natisha Hiedeman** passed **Alanna Smith** for **#176** all-time in steals (career 191) — up from #177 entering today — _2:06 - 2nd — PHX @ SEA_
+
 ## 2026-06-04 02:09 UTC
 
 - **Alyssa Thomas** reached **1,900** career assists (now 1,900) — _5:51 - 1st — PHX @ SEA_
