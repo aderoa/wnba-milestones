@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-04 00:56 UTC
+
+- **Satou Sabally** reached **2,200** career points (now 2,200) — _2:25 - 3rd — TOR @ NY_
+
 ## 2026-06-04 00:49 UTC
 
 - **Leonie Fiebich** passed **Emma Meesseman** and **Scholanda Dorrell** for **#190** all-time in three-pointers (career 110) — up from #193 entering today — _4:57 - 3rd — TOR @ NY_

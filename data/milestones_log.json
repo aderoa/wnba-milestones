@@ -1,5 +1,14 @@
 [
   {
+    "ts": "2026-06-04T00:56:00+00:00",
+    "text": "Satou Sabally reached 2,200 career points (now 2,200) \u2014 (2:25 - 3rd \u2014 TOR @ NY)",
+    "kind": "round",
+    "player": "Satou Sabally",
+    "stat": "points",
+    "value": 2200,
+    "new_total": 2200
+  },
+  {
     "ts": "2026-06-04T00:49:00+00:00",
     "text": "Leonie Fiebich passed Emma Meesseman and Scholanda Dorrell for #190 all-time in three-pointers (career 110) \u2014 up from #193 entering today \u2014 (4:57 - 3rd \u2014 TOR @ NY)",
     "kind": "rank_pass",
@@ -3003,17 +3012,5 @@
       "Nikki McCray"
     ],
     "new_total": 451
-  },
-  {
-    "ts": "2026-05-21T00:19:00+00:00",
-    "text": "Tyasha Harris passed Ruth Riley for #146 all-time in assists (career 450) \u2014 up from #148 entering today \u2014 (9:05 - 3rd \u2014 POR @ IND)",
-    "kind": "rank_pass",
-    "player": "Tyasha Harris",
-    "stat": "assists",
-    "rank": 146,
-    "passed_players": [
-      "Ruth Riley"
-    ],
-    "new_total": 450
   }
 ]
