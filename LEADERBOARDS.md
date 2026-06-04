@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-04 23:16 UTC_
+_Last updated: 2026-06-04 23:17 UTC_
 
 ## Contents
 
@@ -206,7 +206,7 @@ _Last updated: 2026-06-04 23:16 UTC_
 | 185 | Kamila Vodichkova | 1,767 |
 | 186 | Tully Bevilaqua | 1,763 |
 | 187 | Sandy Brondello | 1,759 |
-| 188 | Sophie Cunningham | 1,744 |
+| 188 | **Sophie Cunningham** 🔴 | 1,744 |
 | 189 | Sugar Rodgers | 1,733 |
 | 190 | Moriah Jefferson | 1,722 |
 | 191 | Gabby Williams | 1,718 |
@@ -1107,7 +1107,7 @@ _Last updated: 2026-06-04 23:16 UTC_
 | 61 | Jackie Young | 323 |
 | 62 | Sugar Rodgers | 317 |
 | 63 | Marissa Coleman | 315 |
-| 63 | Sophie Cunningham | 315 |
+| 63 | **Sophie Cunningham** 🔴 | 315 |
 | 65 | Shannon Johnson | 313 |
 | 66 | DeLisha Milton-Jones | 312 |
 | 66 | Ruthie Bolton | 312 |
@@ -1608,7 +1608,7 @@ _Last updated: 2026-06-04 23:16 UTC_
 | 150 | Jackie Young | 525 |
 | 153 | Armintie Herrington | 523 |
 | 154 | Kayla McBride | 522 |
-| 154 | Sophie Cunningham | 522 |
+| 154 | **Sophie Cunningham** 🔴 | 522 |
 | 156 | Sheryl Swoopes | 519 |
 | 157 | Nikki McCray | 517 |
 | 158 | Alex Bentley | 516 |
