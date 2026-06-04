@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-04T01:14:00+00:00",
+    "text": "Jonquel Jones passed Courtney Williams for #55 all-time in points (career 4,222) \u2014 up from #56 entering today \u2014 (5:35 - 4th \u2014 TOR @ NY)",
+    "kind": "rank_pass",
+    "player": "Jonquel Jones",
+    "stat": "points",
+    "rank": 55,
+    "passed_players": [
+      "Courtney Williams"
+    ],
+    "new_total": 4222
+  },
+  {
     "ts": "2026-06-04T01:13:00+00:00",
     "text": "Brittney Sykes passed Shannon Johnson for #106 all-time in rebounds (career 1,144) \u2014 up from #107 entering today \u2014 (6:24 - 4th \u2014 TOR @ NY)",
     "kind": "rank_pass",
@@ -2997,17 +3009,5 @@
       "Chamique Holdsclaw"
     ],
     "new_total": 144
-  },
-  {
-    "ts": "2026-05-21T00:37:00+00:00",
-    "text": "Kelsey Mitchell passed Tiffany Hayes for #31 all-time in points (career 4,928) \u2014 up from #32 entering today \u2014 (1:51 - 3rd \u2014 POR @ IND)",
-    "kind": "rank_pass",
-    "player": "Kelsey Mitchell",
-    "stat": "points",
-    "rank": 31,
-    "passed_players": [
-      "Tiffany Hayes"
-    ],
-    "new_total": 4928
   }
 ]

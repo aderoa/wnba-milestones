@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-04 01:13 UTC_
+_Last updated: 2026-06-04 01:14 UTC_
 
 ## Contents
 
@@ -73,8 +73,8 @@ _Last updated: 2026-06-04 01:13 UTC_
 | 52 | Vickie Johnson | 4,230 |
 | 53 | Dearica Hamby | 4,228 |
 | 54 | Yolanda Griffith | 4,224 |
-| 55 | Courtney Williams | 4,221 |
-| 56 | **Jonquel Jones** 🔴 +19 | 4,219 |
+| 55 | **Jonquel Jones** 🔴 +22 | 4,222 |
+| 56 | Courtney Williams | 4,221 |
 | 57 | Rebekkah Brunson | 4,133 |
 | 58 | Asjha Jones | 3,986 |
 | 59 | Deanna Nolan | 3,971 |
@@ -329,7 +329,7 @@ _Last updated: 2026-06-04 01:13 UTC_
 | 103 | Vicky Bullett | 1,189 |
 | 104 | Kahleah Copper | 1,165 |
 | 105 | Nykesha Sales | 1,148 |
-| 106 | **Brittney Sykes** 🔴 +4 | 1,144 |
+| 106 | **Brittney Sykes** 🔴 +5 | 1,145 |
 | 107 | Shannon Johnson | 1,143 |
 | 108 | Adrian Williams-Strong | 1,131 |
 | 109 | Andrea Stinson | 1,127 |
@@ -534,7 +534,7 @@ _Last updated: 2026-06-04 01:13 UTC_
 | 103 | Sancho Lyttle | 592 |
 | 104 | Camille Smith | 590 |
 | 105 | Armintie Herrington | 589 |
-| 106 | **Betnijah Laney-Hamilton** 🔴 +4 | 586 |
+| 106 | **Betnijah Laney-Hamilton** 🔴 +3 | 585 |
 | 107 | Tan White | 578 |
 | 108 | Matee Ajavon | 577 |
 | 109 | Napheesa Collier | 570 |
@@ -1092,7 +1092,7 @@ _Last updated: 2026-06-04 01:13 UTC_
 | 46 | Jasmine Thomas | 376 |
 | 47 | Allison Feaster | 372 |
 | 47 | Betty Lennox | 372 |
-| 49 | **Jonquel Jones** 🔴 +3 | 370 |
+| 49 | **Jonquel Jones** 🔴 +4 | 371 |
 | 50 | Epiphanny Prince | 368 |
 | 51 | **Kia Nurse** 🔴 | 364 |
 | 52 | Kahleah Copper | 353 |

@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-04 01:14 UTC
+
+- **Jonquel Jones** passed **Courtney Williams** for **#55** all-time in points (career 4,222) — up from #56 entering today — _5:35 - 4th — TOR @ NY_
+
 ## 2026-06-04 01:13 UTC
 
 - **Brittney Sykes** passed **Shannon Johnson** for **#106** all-time in rebounds (career 1,144) — up from #107 entering today — _6:24 - 4th — TOR @ NY_
