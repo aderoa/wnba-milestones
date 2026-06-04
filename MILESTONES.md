@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-04 03:47 UTC
+
+- **Natasha Mack** passed **Monique Currie** for **#109** all-time in blocks (career 115) — up from #111 entering today — _5:14 - 4th — PHX @ SEA_
+
 ## 2026-06-04 03:25 UTC
 
 - **Katie Lou Samuelson** reached **200** career fouls (now 200) — _56.3 - 3rd — PHX @ SEA_

@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-04 03:46 UTC_
+_Last updated: 2026-06-04 03:47 UTC_
 
 ## Contents
 
@@ -67,7 +67,7 @@ _Last updated: 2026-06-04 03:46 UTC_
 | 46 | Courtney Vandersloot | 4,352 |
 | 47 | Allisha Gray | 4,326 |
 | 48 | Sophia Young-Malcolm | 4,300 |
-| 49 | **Kahleah Copper** 🔴 +10 | 4,277 |
+| 49 | **Kahleah Copper** 🔴 +12 | 4,279 |
 | 50 | Plenette Pierson | 4,258 |
 | 51 | Monique Currie | 4,253 |
 | 52 | Vickie Johnson | 4,230 |
@@ -459,7 +459,7 @@ _Last updated: 2026-06-04 03:46 UTC_
 | 28 | Vickie Johnson | 1,202 |
 | 29 | Leilani Mitchell | 1,197 |
 | 30 | Jordin Canada | 1,194 |
-| 31 | **DeWanna Bonner** 🔴 | 1,186 |
+| 31 | **DeWanna Bonner** 🔴 +1 | 1,187 |
 | 32 | Jewell Loyd | 1,144 |
 | 33 | Renee Montgomery | 1,140 |
 | 34 | Swin Cash | 1,131 |
@@ -742,8 +742,8 @@ _Last updated: 2026-06-04 03:46 UTC_
 | 106 | Andrea Stinson | 117 |
 | 106 | Crystal Langhorne | 117 |
 | 106 | Emily Engstler | 117 |
-| 109 | Monique Currie | 114 |
-| 109 | **Natasha Mack** 🔴 +1 | 114 |
+| 109 | **Natasha Mack** 🔴 +2 | 115 |
+| 110 | Monique Currie | 114 |
 | 111 | Ariel Atkins | 113 |
 | 112 | Amanda Lassiter | 111 |
 | 112 | Kamila Vodichkova | 111 |

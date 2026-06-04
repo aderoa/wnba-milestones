@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-04T03:47:00+00:00",
+    "text": "Natasha Mack passed Monique Currie for #109 all-time in blocks (career 115) \u2014 up from #111 entering today \u2014 (5:14 - 4th \u2014 PHX @ SEA)",
+    "kind": "rank_pass",
+    "player": "Natasha Mack",
+    "stat": "blocks",
+    "rank": 109,
+    "passed_players": [
+      "Monique Currie"
+    ],
+    "new_total": 115
+  },
+  {
     "ts": "2026-06-04T03:25:00+00:00",
     "text": "Katie Lou Samuelson reached 200 career fouls (now 200) \u2014 (56.3 - 3rd \u2014 PHX @ SEA)",
     "kind": "round",
@@ -2985,14 +2997,5 @@
     "stat": "rebounds",
     "value": 1100,
     "new_total": 1100
-  },
-  {
-    "ts": "2026-05-21T02:33:00+00:00",
-    "text": "Natasha Cloud reached 2,900 career points (now 2,901) \u2014 (4:58 - 3rd \u2014 DAL @ CHI)",
-    "kind": "round",
-    "player": "Natasha Cloud",
-    "stat": "points",
-    "value": 2900,
-    "new_total": 2901
   }
 ]
