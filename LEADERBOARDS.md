@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-04 00:36 UTC_
+_Last updated: 2026-06-04 00:37 UTC_
 
 ## Contents
 
@@ -595,8 +595,8 @@ _Last updated: 2026-06-04 00:36 UTC_
 | 164 | Allison Feaster | 406 |
 | 165 | Rita Williams | 403 |
 | 166 | **Kia Nurse** 🔴 | 402 |
-| 167 | **Julie Allemand** 🔴 +1 | 400 |
-| 168 | Marissa Coleman | 399 |
+| 167 | **Julie Allemand** 🔴 | 399 |
+| 167 | Marissa Coleman | 399 |
 | 169 | Aliyah Boston | 396 |
 | 170 | Stacey Dales | 395 |
 | 171 | Sugar Rodgers | 393 |
@@ -1331,8 +1331,8 @@ _Last updated: 2026-06-04 00:36 UTC_
 | 80 | Helen Darling | 575 |
 | 80 | Nykesha Sales | 575 |
 | 82 | Andrea Stinson | 571 |
-| 82 | **Breanna Stewart** 🔴 +2 | 571 |
-| 84 | Kara Braxton | 570 |
+| 83 | **Breanna Stewart** 🔴 +1 | 570 |
+| 83 | Kara Braxton | 570 |
 | 85 | Nikki McCray | 565 |
 | 86 | Sancho Lyttle | 563 |
 | 87 | Kelsey Mitchell | 562 |
