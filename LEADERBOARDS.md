@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-04 23:41 UTC_
+_Last updated: 2026-06-04 23:42 UTC_
 
 ## Contents
 
@@ -144,7 +144,7 @@ _Last updated: 2026-06-04 23:41 UTC_
 | 123 | Nikki McCray | 2,521 |
 | 124 | Crystal Robinson | 2,496 |
 | 125 | Tiffany Mitchell | 2,480 |
-| 126 | **Rhyne Howard** 🔴 +1 | 2,465 |
+| 126 | **Rhyne Howard** 🔴 +2 | 2,466 |
 | 127 | Ruth Riley | 2,434 |
 | 128 | Svetlana Abrosimova | 2,414 |
 | 129 | Anna DeForge | 2,413 |
@@ -160,8 +160,8 @@ _Last updated: 2026-06-04 23:41 UTC_
 | 139 | Kara Braxton | 2,237 |
 | 139 | Matee Ajavon | 2,237 |
 | 141 | Kia Nurse | 2,231 |
-| 142 | Dawn Staley | 2,228 |
-| 143 | **Jordin Canada** 🔴 +3 | 2,227 |
+| 142 | **Jordin Canada** 🔴 +6 | 2,230 |
+| 143 | Dawn Staley | 2,228 |
 | 144 | Teaira McCowan | 2,221 |
 | 145 | Janel McCarville | 2,215 |
 | 146 | Sami Whitcomb | 2,211 |
@@ -503,7 +503,7 @@ _Last updated: 2026-06-04 23:41 UTC_
 | 72 | Mwadi Mabika | 774 |
 | 73 | Marina Mabrey | 768 |
 | 74 | Sheri Sam | 745 |
-| 75 | **Allisha Gray** 🔴 | 741 |
+| 75 | **Allisha Gray** 🔴 +1 | 742 |
 | 76 | Monique Currie | 740 |
 | 77 | Elaine Powell | 728 |
 | 78 | Dearica Hamby | 717 |
@@ -1219,7 +1219,7 @@ _Last updated: 2026-06-04 23:41 UTC_
 | 173 | Charde Houston | 124 |
 | 174 | Lisa Leslie | 123 |
 | 175 | Sidney Spencer | 122 |
-| 176 | **Jordin Canada** 🔴 +1 | 119 |
+| 176 | **Jordin Canada** 🔴 +2 | 120 |
 | 177 | **Lexie Hull** 🔴 | 118 |
 | 177 | Tonya Edwards | 118 |
 | 179 | Edwige Lawson-Wade | 116 |

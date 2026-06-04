@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-04T23:42:00+00:00",
+    "text": "Jordin Canada passed Dawn Staley for #142 all-time in points (career 2,230) \u2014 up from #143 entering today \u2014 (4:50 - 2nd \u2014 ATL @ IND)",
+    "kind": "rank_pass",
+    "player": "Jordin Canada",
+    "stat": "points",
+    "rank": 142,
+    "passed_players": [
+      "Dawn Staley"
+    ],
+    "new_total": 2230
+  },
+  {
     "ts": "2026-06-04T23:39:00+00:00",
     "text": "Naz Hillmon passed Amanda Zahui B and Barbara Farris for #165 all-time in rebounds (career 820) \u2014 up from #167 entering today \u2014 (5:07 - 2nd \u2014 ATL @ IND)",
     "kind": "rank_pass",
@@ -2999,17 +3011,5 @@
       "Myisha Hines-Allen"
     ],
     "new_total": 128
-  },
-  {
-    "ts": "2026-05-22T00:32:00+00:00",
-    "text": "Kayla Thornton passed Jayne Appel Marinelli for #85 all-time in rebounds (career 1,327) \u2014 up from #86 entering today \u2014 (8:25 - 2nd \u2014 GS @ NY)",
-    "kind": "rank_pass",
-    "player": "Kayla Thornton",
-    "stat": "rebounds",
-    "rank": 85,
-    "passed_players": [
-      "Jayne Appel Marinelli"
-    ],
-    "new_total": 1327
   }
 ]
