@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-04 00:16 UTC
+
+- **Breanna Stewart** passed **Kara Braxton** for **#83** all-time in turnovers (career 571) — up from #84 entering today — _3:16 - 2nd — TOR @ NY_
+
 ## 2026-06-04 00:10 UTC
 
 - **Satou Sabally** passed **Nicky Anosike** for **#145** all-time in rebounds (career 923) — up from #146 entering today — _4:55 - 2nd — TOR @ NY_

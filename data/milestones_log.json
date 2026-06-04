@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-04T00:16:00+00:00",
+    "text": "Breanna Stewart passed Kara Braxton for #83 all-time in turnovers (career 571) \u2014 up from #84 entering today \u2014 (3:16 - 2nd \u2014 TOR @ NY)",
+    "kind": "rank_pass",
+    "player": "Breanna Stewart",
+    "stat": "turnovers",
+    "rank": 83,
+    "passed_players": [
+      "Kara Braxton"
+    ],
+    "new_total": 571
+  },
+  {
     "ts": "2026-06-04T00:10:00+00:00",
     "text": "Satou Sabally passed Nicky Anosike for #145 all-time in rebounds (career 923) \u2014 up from #146 entering today \u2014 (4:55 - 2nd \u2014 TOR @ NY)",
     "kind": "rank_pass",
@@ -3002,17 +3014,5 @@
       "Nykesha Sales"
     ],
     "new_total": 1149
-  },
-  {
-    "ts": "2026-05-20T02:15:00+00:00",
-    "text": "Kahleah Copper passed Dearica Hamby for #53 all-time in points (career 4,159) \u2014 up from #54 entering today \u2014 (3:58 - 1st \u2014 TOR @ PHX)",
-    "kind": "rank_pass",
-    "player": "Kahleah Copper",
-    "stat": "points",
-    "rank": 53,
-    "passed_players": [
-      "Dearica Hamby"
-    ],
-    "new_total": 4159
   }
 ]
