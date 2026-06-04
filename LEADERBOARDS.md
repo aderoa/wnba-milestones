@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-04 03:52 UTC_
+_Last updated: 2026-06-04 03:53 UTC_
 
 ## Contents
 
@@ -21,7 +21,7 @@ _Last updated: 2026-06-04 03:52 UTC_
 |-----:|--------|------:|
 | 1 | Diana Taurasi | 10,608 |
 | 2 | Tina Charles | 8,396 |
-| 3 | **DeWanna Bonner** 🔴 +5 | 7,886 |
+| 3 | **DeWanna Bonner** 🔴 +10 | 7,891 |
 | 4 | Tina Thompson | 7,470 |
 | 5 | Nneka Ogwumike | 7,427 |
 | 6 | Tamika Catchings | 7,371 |
@@ -235,7 +235,7 @@ _Last updated: 2026-06-04 03:52 UTC_
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
-| 12 | **Alyssa Thomas** 🔴 +8 | 2,816 |
+| 12 | **Alyssa Thomas** 🔴 +9 | 2,817 |
 | 13 | Jonquel Jones | 2,663 |
 | 14 | Sancho Lyttle | 2,596 |
 | 15 | A'ja Wilson | 2,574 |
@@ -845,7 +845,7 @@ _Last updated: 2026-06-04 03:52 UTC_
 | 4 | Alana Beard | 710 |
 | 5 | Nneka Ogwumike | 677 |
 | 6 | Sheryl Swoopes | 657 |
-| 7 | **DeWanna Bonner** 🔴 +1 | 640 |
+| 7 | **DeWanna Bonner** 🔴 +2 | 641 |
 | 8 | Jia Perkins | 634 |
 | 9 | Sancho Lyttle | 630 |
 | 10 | Angel McCoughtry | 627 |
@@ -1326,7 +1326,7 @@ _Last updated: 2026-06-04 03:52 UTC_
 | 75 | Lindsey Harding | 600 |
 | 75 | Tamika Whitmore | 600 |
 | 77 | Kelly Miller | 596 |
-| 78 | **Stefanie Dolson** 🔴 +1 | 588 |
+| 78 | **Stefanie Dolson** 🔴 +2 | 589 |
 | 79 | Brittney Sykes | 579 |
 | 80 | Helen Darling | 575 |
 | 80 | Nykesha Sales | 575 |
