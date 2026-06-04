@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-06-04T00:45:00+00:00",
+    "text": "Marina Mabrey passed Sabrina Ionescu and Shameka Christon for #94 all-time in points (career 3,042) \u2014 up from #96 entering today \u2014 (6:22 - 3rd \u2014 TOR @ NY)",
+    "kind": "rank_pass",
+    "player": "Marina Mabrey",
+    "stat": "points",
+    "rank": 94,
+    "passed_players": [
+      "Sabrina Ionescu",
+      "Shameka Christon"
+    ],
+    "new_total": 3042
+  },
+  {
     "ts": "2026-06-04T00:44:00+00:00",
     "text": "Marine Johann\u00e8s passed Shavonte Zellous and Tianna Hawkins for #129 all-time in three-pointers (career 168) \u2014 up from #131 entering today \u2014 (7:01 - 3rd \u2014 TOR @ NY)",
     "kind": "rank_pass",
@@ -3001,17 +3014,5 @@
       "Jia Perkins"
     ],
     "new_total": 838
-  },
-  {
-    "ts": "2026-05-20T03:56:00+00:00",
-    "text": "Alyssa Thomas passed Courtney Vandersloot for #36 all-time in fouls (career 939) \u2014 up from #37 entering today \u2014 (3:58 - 4th \u2014 TOR @ PHX)",
-    "kind": "rank_pass",
-    "player": "Alyssa Thomas",
-    "stat": "fouls",
-    "rank": 36,
-    "passed_players": [
-      "Courtney Vandersloot"
-    ],
-    "new_total": 939
   }
 ]

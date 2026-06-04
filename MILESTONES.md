@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-04 00:45 UTC
+
+- **Marina Mabrey** passed **Sabrina Ionescu** and **Shameka Christon** for **#94** all-time in points (career 3,042) — up from #96 entering today — _6:22 - 3rd — TOR @ NY_
+
 ## 2026-06-04 00:44 UTC
 
 - **Marine Johannès** passed **Shavonte Zellous** and **Tianna Hawkins** for **#129** all-time in three-pointers (career 168) — up from #131 entering today — _7:01 - 3rd — TOR @ NY_
