@@ -1,5 +1,29 @@
 [
   {
+    "ts": "2026-06-04T23:43:00+00:00",
+    "text": "Aliyah Boston passed Nakia Sanford for #171 all-time in points (career 1,917) \u2014 up from #173 entering today \u2014 (4:25 - 2nd \u2014 ATL @ IND)",
+    "kind": "rank_pass",
+    "player": "Aliyah Boston",
+    "stat": "points",
+    "rank": 171,
+    "passed_players": [
+      "Nakia Sanford"
+    ],
+    "new_total": 1917
+  },
+  {
+    "ts": "2026-06-04T23:43:00+00:00",
+    "text": "Myisha Hines-Allen passed Michele Timms for #179 all-time in steals (career 188) \u2014 up from #180 entering today \u2014 (4:25 - 2nd \u2014 ATL @ IND)",
+    "kind": "rank_pass",
+    "player": "Myisha Hines-Allen",
+    "stat": "steals",
+    "rank": 179,
+    "passed_players": [
+      "Michele Timms"
+    ],
+    "new_total": 188
+  },
+  {
     "ts": "2026-06-04T23:42:00+00:00",
     "text": "Jordin Canada passed Dawn Staley for #142 all-time in points (career 2,230) \u2014 up from #143 entering today \u2014 (4:50 - 2nd \u2014 ATL @ IND)",
     "kind": "rank_pass",
@@ -2986,30 +3010,5 @@
     "stat": "points",
     "value": 500,
     "new_total": 500
-  },
-  {
-    "ts": "2026-05-22T00:39:00+00:00",
-    "text": "Kayla Thornton passed Tiffany Hayes for #148 all-time in blocks (career 88) \u2014 (5:57 - 2nd \u2014 GS @ NY)",
-    "kind": "rank_pass",
-    "player": "Kayla Thornton",
-    "stat": "blocks",
-    "rank": 148,
-    "passed_players": [
-      "Tiffany Hayes"
-    ],
-    "new_total": 88
-  },
-  {
-    "ts": "2026-05-22T00:38:00+00:00",
-    "text": "Gabby Williams passed Michele Timms and Myisha Hines-Allen for #169 all-time in three-pointers (career 128) \u2014 up from #172 entering today \u2014 (6:28 - 2nd \u2014 GS @ NY)",
-    "kind": "rank_pass",
-    "player": "Gabby Williams",
-    "stat": "three-pointers",
-    "rank": 169,
-    "passed_players": [
-      "Michele Timms",
-      "Myisha Hines-Allen"
-    ],
-    "new_total": 128
   }
 ]
