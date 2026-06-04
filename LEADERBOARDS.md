@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-04 23:12 UTC_
+_Last updated: 2026-06-04 23:13 UTC_
 
 ## Contents
 
@@ -65,7 +65,7 @@ _Last updated: 2026-06-04 23:12 UTC_
 | 43 | Jia Perkins | 4,433 |
 | 45 | Kelsey Plum | 4,368 |
 | 46 | Courtney Vandersloot | 4,352 |
-| 47 | **Allisha Gray** 🔴 | 4,326 |
+| 47 | **Allisha Gray** 🔴 +2 | 4,328 |
 | 48 | Sophia Young-Malcolm | 4,300 |
 | 49 | Kahleah Copper | 4,267 |
 | 50 | Plenette Pierson | 4,258 |
@@ -298,7 +298,7 @@ _Last updated: 2026-06-04 23:12 UTC_
 | 72 | **Allisha Gray** 🔴 +1 | 1,384 |
 | 73 | Courtney Vandersloot | 1,383 |
 | 73 | Katie Smith | 1,383 |
-| 75 | **Monique Billings** 🔴 +1 | 1,381 |
+| 75 | **Monique Billings** 🔴 +2 | 1,382 |
 | 76 | Ebony Hoffman | 1,376 |
 | 77 | Sheri Sam | 1,356 |
 | 78 | Kayla Thornton | 1,355 |
@@ -340,7 +340,7 @@ _Last updated: 2026-06-04 23:12 UTC_
 | 113 | Natasha Cloud | 1,112 |
 | 115 | Chiney Ogwumike | 1,110 |
 | 116 | Becky Hammon | 1,108 |
-| 117 | **Aliyah Boston** 🔴 +3 | 1,106 |
+| 117 | **Aliyah Boston** 🔴 +4 | 1,107 |
 | 118 | Ann Wauters | 1,105 |
 | 119 | Svetlana Abrosimova | 1,078 |
 | 120 | Le'coe Willingham | 1,054 |
@@ -370,8 +370,8 @@ _Last updated: 2026-06-04 23:12 UTC_
 | 144 | Merlakia Jones | 927 |
 | 145 | Nicky Anosike | 922 |
 | 146 | Satou Sabally | 921 |
+| 147 | **Angel Reese** 🔴 +3 | 916 |
 | 147 | Janeth Arcain | 916 |
-| 148 | **Angel Reese** 🔴 +2 | 915 |
 | 149 | Jessica Shepard | 912 |
 | 150 | Karima Christmas-Kelly | 908 |
 | 151 | Natalie Achonwa | 895 |
