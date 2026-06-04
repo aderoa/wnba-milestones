@@ -1,5 +1,14 @@
 [
   {
+    "ts": "2026-06-04T02:05:00+00:00",
+    "text": "Stefanie Dolson reached 700 career assists (now 700) \u2014 (8:34 - 1st \u2014 PHX @ SEA)",
+    "kind": "round",
+    "player": "Stefanie Dolson",
+    "stat": "assists",
+    "value": 700,
+    "new_total": 700
+  },
+  {
     "ts": "2026-06-04T01:14:00+00:00",
     "text": "Jonquel Jones passed Courtney Williams for #55 all-time in points (career 4,222) \u2014 up from #56 entering today \u2014 (5:35 - 4th \u2014 TOR @ NY)",
     "kind": "rank_pass",
@@ -2997,17 +3006,5 @@
       "Tan White"
     ],
     "new_total": 558
-  },
-  {
-    "ts": "2026-05-21T00:38:00+00:00",
-    "text": "Aliyah Boston passed Chamique Holdsclaw for #82 all-time in blocks (career 144) \u2014 (58.4 - 3rd \u2014 POR @ IND)",
-    "kind": "rank_pass",
-    "player": "Aliyah Boston",
-    "stat": "blocks",
-    "rank": 82,
-    "passed_players": [
-      "Chamique Holdsclaw"
-    ],
-    "new_total": 144
   }
 ]
