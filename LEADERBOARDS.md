@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-04 23:36 UTC_
+_Last updated: 2026-06-04 23:37 UTC_
 
 ## Contents
 
@@ -894,8 +894,8 @@ _Last updated: 2026-06-04 23:36 UTC_
 | 52 | Tina Charles | 384 |
 | 54 | Tiffany Hayes | 381 |
 | 55 | Ariel Atkins | 379 |
-| 56 | **Jordin Canada** 🔴 | 378 |
-| 56 | Monique Currie | 378 |
+| 55 | **Jordin Canada** 🔴 +1 | 379 |
+| 57 | Monique Currie | 378 |
 | 58 | Chamique Holdsclaw | 376 |
 | 59 | Mwadi Mabika | 370 |
 | 60 | Brittney Sykes | 364 |
@@ -1429,7 +1429,7 @@ _Last updated: 2026-06-04 23:36 UTC_
 | 177 | Rita Williams | 326 |
 | 179 | Le'coe Willingham | 325 |
 | 180 | Olympia Scott | 324 |
-| 181 | **Caitlin Clark** 🔴 | 321 |
+| 181 | **Caitlin Clark** 🔴 +1 | 322 |
 | 182 | Gabby Williams | 319 |
 | 183 | Kia Nurse | 316 |
 | 184 | Barbara Farris | 315 |

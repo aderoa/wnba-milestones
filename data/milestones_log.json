@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-04T23:37:00+00:00",
+    "text": "Jordin Canada passed Monique Currie for #57 all-time in steals (career 379) \u2014 (6:16 - 2nd \u2014 ATL @ IND)",
+    "kind": "rank_pass",
+    "player": "Jordin Canada",
+    "stat": "steals",
+    "rank": 57,
+    "passed_players": [
+      "Monique Currie"
+    ],
+    "new_total": 379
+  },
+  {
     "ts": "2026-06-04T23:36:00+00:00",
     "text": "Monique Billings passed Allisha Gray, Courtney Vandersloot, and Katie Smith for #72 all-time in rebounds (career 1,384) \u2014 up from #75 entering today \u2014 (7:00 - 2nd \u2014 ATL @ IND)",
     "kind": "rank_pass",
@@ -2998,17 +3010,5 @@
       "Courtney Paris"
     ],
     "new_total": 618
-  },
-  {
-    "ts": "2026-05-22T00:24:00+00:00",
-    "text": "Tiffany Hayes passed DeLisha Milton-Jones for #51 all-time in assists (career 922) \u2014 up from #52 entering today \u2014 (1:05 - 1st \u2014 GS @ NY)",
-    "kind": "rank_pass",
-    "player": "Tiffany Hayes",
-    "stat": "assists",
-    "rank": 51,
-    "passed_players": [
-      "DeLisha Milton-Jones"
-    ],
-    "new_total": 922
   }
 ]
