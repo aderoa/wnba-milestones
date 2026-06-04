@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-06-04T23:23:00+00:00",
+    "text": "Myisha Hines-Allen passed Ayana Walker and Lindsay Wisdom-Hylton for #181 all-time in blocks (career 74) \u2014 up from #183 entering today \u2014 (27.3 - 1st \u2014 ATL @ IND)",
+    "kind": "rank_pass",
+    "player": "Myisha Hines-Allen",
+    "stat": "blocks",
+    "rank": 181,
+    "passed_players": [
+      "Ayana Walker",
+      "Lindsay Wisdom-Hylton"
+    ],
+    "new_total": 74
+  },
+  {
     "ts": "2026-06-04T23:22:00+00:00",
     "text": "Sophie Cunningham passed Marissa Coleman for #63 all-time in three-pointers (career 316) \u2014 up from #64 entering today \u2014 (56.5 - 1st \u2014 ATL @ IND)",
     "kind": "rank_pass",
@@ -2996,17 +3009,5 @@
       "Rebekkah Brunson"
     ],
     "new_total": 4134
-  },
-  {
-    "ts": "2026-05-22T00:11:00+00:00",
-    "text": "Breanna Stewart passed Tan White for #87 all-time in turnovers (career 558) \u2014 (6:39 - 1st \u2014 GS @ NY)",
-    "kind": "rank_pass",
-    "player": "Breanna Stewart",
-    "stat": "turnovers",
-    "rank": 87,
-    "passed_players": [
-      "Tan White"
-    ],
-    "new_total": 558
   }
 ]

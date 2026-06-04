@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-04 23:22 UTC_
+_Last updated: 2026-06-04 23:23 UTC_
 
 ## Contents
 
@@ -814,9 +814,9 @@ _Last updated: 2026-06-04 23:22 UTC_
 | 176 | Kelsey Griffin | 75 |
 | 176 | Tianna Hawkins | 75 |
 | 180 | Epiphanny Prince | 74 |
-| 181 | Ayana Walker | 73 |
-| 181 | Lindsay Wisdom-Hylton | 73 |
-| 181 | **Myisha Hines-Allen** 🔴 | 73 |
+| 180 | **Myisha Hines-Allen** 🔴 +1 | 74 |
+| 182 | Ayana Walker | 73 |
+| 182 | Lindsay Wisdom-Hylton | 73 |
 | 184 | Awak Kuier | 72 |
 | 184 | Cappie Pondexter | 72 |
 | 184 | Christi Thomas | 72 |
