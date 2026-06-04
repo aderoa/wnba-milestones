@@ -1,5 +1,14 @@
 [
   {
+    "ts": "2026-06-04T03:25:00+00:00",
+    "text": "Katie Lou Samuelson reached 200 career fouls (now 200) \u2014 (56.3 - 3rd \u2014 PHX @ SEA)",
+    "kind": "round",
+    "player": "Katie Lou Samuelson",
+    "stat": "fouls",
+    "value": 200,
+    "new_total": 200
+  },
+  {
     "ts": "2026-06-04T03:23:00+00:00",
     "text": "Alyssa Thomas passed Lindsay Whalen for #13 all-time in turnovers (career 1,003) \u2014 up from #14 entering today \u2014 (2:13 - 3rd \u2014 PHX @ SEA)",
     "kind": "rank_pass",
@@ -2985,14 +2994,5 @@
     "stat": "points",
     "value": 2900,
     "new_total": 2901
-  },
-  {
-    "ts": "2026-05-21T02:31:00+00:00",
-    "text": "Arike Ogunbowale reached 900 career assists (now 900) \u2014 (5:29 - 3rd \u2014 DAL @ CHI)",
-    "kind": "round",
-    "player": "Arike Ogunbowale",
-    "stat": "assists",
-    "value": 900,
-    "new_total": 900
   }
 ]
