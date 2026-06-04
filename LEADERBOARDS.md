@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-04 23:30 UTC_
+_Last updated: 2026-06-04 23:31 UTC_
 
 ## Contents
 
@@ -550,7 +550,7 @@ _Last updated: 2026-06-04 23:30 UTC_
 | 119 | Veronica Burton | 534 |
 | 120 | Marie Ferdinand-Harris | 528 |
 | 121 | Margo Dydek | 524 |
-| 122 | **Myisha Hines-Allen** 🔴 | 519 |
+| 122 | **Myisha Hines-Allen** 🔴 +1 | 520 |
 | 123 | **Caitlin Clark** 🔴 +2 | 511 |
 | 124 | Iziane Castro Marques | 509 |
 | 125 | Brittany Boyd-Jones | 508 |
@@ -901,7 +901,7 @@ _Last updated: 2026-06-04 23:30 UTC_
 | 60 | Brittney Sykes | 364 |
 | 61 | Lauren Jackson | 360 |
 | 61 | Tan White | 360 |
-| 63 | **Allisha Gray** 🔴 | 358 |
+| 63 | **Allisha Gray** 🔴 +1 | 359 |
 | 64 | Vickie Johnson | 357 |
 | 65 | Dominique Canty | 356 |
 | 65 | Renee Montgomery | 356 |
@@ -1171,7 +1171,7 @@ _Last updated: 2026-06-04 23:30 UTC_
 | 124 | Tayler Hill | 174 |
 | 126 | Theresa Plaisance | 172 |
 | 127 | Amanda Lassiter | 170 |
-| 128 | **Caitlin Clark** 🔴 | 169 |
+| 127 | **Caitlin Clark** 🔴 +1 | 170 |
 | 129 | Shavonte Zellous | 167 |
 | 129 | Tianna Hawkins | 167 |
 | 131 | Marine Johannès | 165 |
