@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-04 23:31 UTC_
+_Last updated: 2026-06-04 23:32 UTC_
 
 ## Contents
 
@@ -189,9 +189,9 @@ _Last updated: 2026-06-04 23:31 UTC_
 | 168 | Latasha Byears | 1,920 |
 | 169 | Karima Christmas-Kelly | 1,919 |
 | 170 | Jessica Breland | 1,918 |
+| 171 | **Aliyah Boston** 🔴 +6 | 1,915 |
 | 171 | Nakia Sanford | 1,915 |
-| 172 | **Myisha Hines-Allen** 🔴 | 1,913 |
-| 173 | **Aliyah Boston** 🔴 +3 | 1,912 |
+| 173 | **Myisha Hines-Allen** 🔴 | 1,913 |
 | 174 | Ebony Hoffman | 1,909 |
 | 175 | Candice Wiggins | 1,901 |
 | 176 | Natisha Hiedeman | 1,843 |
@@ -551,7 +551,7 @@ _Last updated: 2026-06-04 23:31 UTC_
 | 120 | Marie Ferdinand-Harris | 528 |
 | 121 | Margo Dydek | 524 |
 | 122 | **Myisha Hines-Allen** 🔴 +1 | 520 |
-| 123 | **Caitlin Clark** 🔴 +2 | 511 |
+| 123 | **Caitlin Clark** 🔴 +3 | 512 |
 | 124 | Iziane Castro Marques | 509 |
 | 125 | Brittany Boyd-Jones | 508 |
 | 125 | Chasity Melvin | 508 |
@@ -976,9 +976,9 @@ _Last updated: 2026-06-04 23:31 UTC_
 | 135 | Nikki McCray | 235 |
 | 136 | Merlakia Jones | 232 |
 | 137 | Ruth Riley | 231 |
+| 138 | **Rhyne Howard** 🔴 +1 | 230 |
 | 138 | Scholanda Dorrell | 230 |
-| 139 | Kara Lawson | 229 |
-| 139 | **Rhyne Howard** 🔴 | 229 |
+| 140 | Kara Lawson | 229 |
 | 141 | Wendy Palmer | 226 |
 | 142 | Alexis Hornbuckle | 225 |
 | 143 | Cheryl Ford | 224 |
@@ -1403,8 +1403,8 @@ _Last updated: 2026-06-04 23:31 UTC_
 | 152 | Hamchetou Maiga-Ba | 385 |
 | 153 | Elizabeth Williams | 384 |
 | 154 | Kamila Vodichkova | 381 |
-| 155 | Jessica Breland | 378 |
-| 155 | **Myisha Hines-Allen** 🔴 | 378 |
+| 155 | **Myisha Hines-Allen** 🔴 +1 | 379 |
+| 156 | Jessica Breland | 378 |
 | 157 | Armintie Herrington | 377 |
 | 158 | Anna DeForge | 374 |
 | 158 | Cheryl Ford | 374 |

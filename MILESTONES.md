@@ -2,6 +2,12 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-04 23:32 UTC
+
+- **Rhyne Howard** passed **Kara Lawson** for **#139** all-time in steals (career 230) — up from #140 entering today — _7:36 - 2nd — ATL @ IND_
+- **Aliyah Boston** passed **Myisha Hines-Allen** for **#172** all-time in points (career 1,915) — up from #173 entering today — _7:36 - 2nd — ATL @ IND_
+- **Myisha Hines-Allen** passed **Jessica Breland** for **#155** all-time in turnovers (career 379) — up from #156 entering today — _7:36 - 2nd — ATL @ IND_
+
 ## 2026-06-04 23:23 UTC
 
 - **Myisha Hines-Allen** passed **Ayana Walker** and **Lindsay Wisdom-Hylton** for **#181** all-time in blocks (career 74) — up from #183 entering today — _27.3 - 1st — ATL @ IND_
