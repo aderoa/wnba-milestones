@@ -2,6 +2,12 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-04 00:21 UTC
+
+- **Julie Allemand** reached **400** career assists (now 400) — _Halftime — TOR @ NY_
+- **Julie Allemand** passed **Marissa Coleman** for **#168** all-time in assists (career 400) — _Halftime — TOR @ NY_
+- **Leonie Fiebich** passed **Belinda Snell** for **#192** all-time in three-pointers (career 109) — up from #193 entering today — _Halftime — TOR @ NY_
+
 ## 2026-06-04 00:20 UTC
 
 - **Marina Mabrey** passed **Charlotte Smith**, **Cintia dos Santos**, and **Jessie Hicks** for **#159** all-time in blocks (career 82) — up from #162 entering today — _20.8 - 2nd — TOR @ NY_
