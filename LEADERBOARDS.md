@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-04 23:17 UTC_
+_Last updated: 2026-06-04 23:18 UTC_
 
 ## Contents
 
@@ -339,8 +339,8 @@ _Last updated: 2026-06-04 23:17 UTC_
 | 113 | Deanna Nolan | 1,112 |
 | 113 | Natasha Cloud | 1,112 |
 | 115 | Chiney Ogwumike | 1,110 |
+| 116 | **Aliyah Boston** 🔴 +5 | 1,108 |
 | 116 | Becky Hammon | 1,108 |
-| 117 | **Aliyah Boston** 🔴 +4 | 1,107 |
 | 118 | Ann Wauters | 1,105 |
 | 119 | Svetlana Abrosimova | 1,078 |
 | 120 | Le'coe Willingham | 1,054 |
@@ -370,8 +370,8 @@ _Last updated: 2026-06-04 23:17 UTC_
 | 144 | Merlakia Jones | 927 |
 | 145 | Nicky Anosike | 922 |
 | 146 | Satou Sabally | 921 |
-| 147 | **Angel Reese** 🔴 +3 | 916 |
-| 147 | Janeth Arcain | 916 |
+| 147 | **Angel Reese** 🔴 +4 | 917 |
+| 148 | Janeth Arcain | 916 |
 | 149 | Jessica Shepard | 912 |
 | 150 | Karima Christmas-Kelly | 908 |
 | 151 | Natalie Achonwa | 895 |

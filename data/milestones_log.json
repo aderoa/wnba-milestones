@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-04T23:18:00+00:00",
+    "text": "Angel Reese passed Janeth Arcain for #147 all-time in rebounds (career 917) \u2014 up from #148 entering today \u2014 (3:49 - 1st \u2014 ATL @ IND)",
+    "kind": "rank_pass",
+    "player": "Angel Reese",
+    "stat": "rebounds",
+    "rank": 147,
+    "passed_players": [
+      "Janeth Arcain"
+    ],
+    "new_total": 917
+  },
+  {
     "ts": "2026-06-04T23:12:00+00:00",
     "text": "Aliyah Boston passed Ann Wauters for #117 all-time in rebounds (career 1,106) \u2014 up from #118 entering today \u2014 (5:55 - 1st \u2014 ATL @ IND)",
     "kind": "rank_pass",
@@ -2994,14 +3006,5 @@
     "stat": "rebounds",
     "value": 2600,
     "new_total": 2600
-  },
-  {
-    "ts": "2026-05-21T03:24:00+00:00",
-    "text": "Skylar Diggins reached 800 career fouls (now 800) \u2014 (28.2 - 4th \u2014 DAL @ CHI)",
-    "kind": "round",
-    "player": "Skylar Diggins",
-    "stat": "fouls",
-    "value": 800,
-    "new_total": 800
   }
 ]
