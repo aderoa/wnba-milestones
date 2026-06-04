@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-04 23:19 UTC
+
+- **Aliyah Boston** passed **Ebony Hoffman** for **#174** all-time in points (career 1,912) — _2:54 - 1st — ATL @ IND_
+
 ## 2026-06-04 23:18 UTC
 
 - **Angel Reese** passed **Janeth Arcain** for **#147** all-time in rebounds (career 917) — up from #148 entering today — _3:49 - 1st — ATL @ IND_
