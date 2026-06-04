@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-04T00:02:00+00:00",
+    "text": "Brittney Sykes passed Jasmine Thomas for #91 all-time in fouls (career 686) \u2014 (7:38 - 2nd \u2014 TOR @ NY)",
+    "kind": "rank_pass",
+    "player": "Brittney Sykes",
+    "stat": "fouls",
+    "rank": 91,
+    "passed_players": [
+      "Jasmine Thomas"
+    ],
+    "new_total": 686
+  },
+  {
     "ts": "2026-06-03T23:55:00+00:00",
     "text": "Jonquel Jones passed Epiphanny Prince for #49 all-time in three-pointers (career 369) \u2014 up from #50 entering today \u2014 (5.0 - 1st \u2014 TOR @ NY)",
     "kind": "rank_pass",
@@ -3002,17 +3014,5 @@
       "Asjha Jones"
     ],
     "new_total": 638
-  },
-  {
-    "ts": "2026-05-19T04:05:00+00:00",
-    "text": "Brittney Griner passed Jennifer Azzi for #93 all-time in assists (career 637) \u2014 up from #94 entering today \u2014 (1:54 - 4th \u2014 CON @ POR)",
-    "kind": "rank_pass",
-    "player": "Brittney Griner",
-    "stat": "assists",
-    "rank": 93,
-    "passed_players": [
-      "Jennifer Azzi"
-    ],
-    "new_total": 637
   }
 ]
