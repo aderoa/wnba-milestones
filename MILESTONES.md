@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-04 03:48 UTC
+
+- **Kahleah Copper** passed **Asjha Jones**, **Candice Wiggins**, **Cheyenne Parker-Tyus**, and **Elena Baranova** for **#152** all-time in steals (career 216) — up from #156 entering today — _4:39 - 4th — PHX @ SEA_
+
 ## 2026-06-04 03:47 UTC
 
 - **Natasha Mack** passed **Monique Currie** for **#109** all-time in blocks (career 115) — up from #111 entering today — _5:14 - 4th — PHX @ SEA_

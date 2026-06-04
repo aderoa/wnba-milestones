@@ -1,5 +1,20 @@
 [
   {
+    "ts": "2026-06-04T03:48:00+00:00",
+    "text": "Kahleah Copper passed Asjha Jones, Candice Wiggins, Cheyenne Parker-Tyus, and Elena Baranova for #152 all-time in steals (career 216) \u2014 up from #156 entering today \u2014 (4:39 - 4th \u2014 PHX @ SEA)",
+    "kind": "rank_pass",
+    "player": "Kahleah Copper",
+    "stat": "steals",
+    "rank": 152,
+    "passed_players": [
+      "Asjha Jones",
+      "Candice Wiggins",
+      "Cheyenne Parker-Tyus",
+      "Elena Baranova"
+    ],
+    "new_total": 216
+  },
+  {
     "ts": "2026-06-04T03:47:00+00:00",
     "text": "Natasha Mack passed Monique Currie for #109 all-time in blocks (career 115) \u2014 up from #111 entering today \u2014 (5:14 - 4th \u2014 PHX @ SEA)",
     "kind": "rank_pass",
@@ -2988,14 +3003,5 @@
       "Allisha Gray"
     ],
     "new_total": 715
-  },
-  {
-    "ts": "2026-05-21T02:39:00+00:00",
-    "text": "Natasha Cloud reached 1,100 career rebounds (now 1,100) \u2014 (3:24 - 3rd \u2014 DAL @ CHI)",
-    "kind": "round",
-    "player": "Natasha Cloud",
-    "stat": "rebounds",
-    "value": 1100,
-    "new_total": 1100
   }
 ]

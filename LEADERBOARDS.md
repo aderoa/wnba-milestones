@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-04 03:47 UTC_
+_Last updated: 2026-06-04 03:48 UTC_
 
 ## Contents
 
@@ -435,7 +435,7 @@ _Last updated: 2026-06-04 03:47 UTC_
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
 | 6 | Chelsea Gray | 1,935 |
-| 7 | **Alyssa Thomas** 🔴 +4 | 1,902 |
+| 7 | **Alyssa Thomas** 🔴 +5 | 1,903 |
 | 8 | Skylar Diggins | 1,808 |
 | 9 | Natasha Cloud | 1,767 |
 | 10 | Becky Hammon | 1,705 |
@@ -656,7 +656,7 @@ _Last updated: 2026-06-04 03:47 UTC_
 | 20 | Jessica Breland | 367 |
 | 21 | Natasha Howard | 363 |
 | 22 | Ezi Magbegor | 354 |
-| 23 | **DeWanna Bonner** 🔴 +1 | 351 |
+| 23 | **DeWanna Bonner** 🔴 | 350 |
 | 24 | Diana Taurasi | 349 |
 | 24 | Elena Delle Donne | 349 |
 | 26 | DeLisha Milton-Jones | 339 |
@@ -989,12 +989,12 @@ _Last updated: 2026-06-04 03:47 UTC_
 | 148 | Allison Feaster | 219 |
 | 149 | Shenise Johnson | 217 |
 | 150 | Adrian Williams-Strong | 216 |
+| 150 | **Kahleah Copper** 🔴 +1 | 216 |
 | 150 | Moriah Jefferson | 216 |
-| 152 | Asjha Jones | 215 |
-| 152 | Candice Wiggins | 215 |
-| 152 | Cheyenne Parker-Tyus | 215 |
-| 152 | Elena Baranova | 215 |
-| 152 | **Kahleah Copper** 🔴 | 215 |
+| 153 | Asjha Jones | 215 |
+| 153 | Candice Wiggins | 215 |
+| 153 | Cheyenne Parker-Tyus | 215 |
+| 153 | Elena Baranova | 215 |
 | 157 | Shekinna Stricklen | 213 |
 | 158 | Marina Mabrey | 212 |
 | 159 | Nikki Teasley | 211 |
