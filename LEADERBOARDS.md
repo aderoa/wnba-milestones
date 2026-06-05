@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-05 01:42 UTC_
+_Last updated: 2026-06-05 01:43 UTC_
 
 ## Contents
 
@@ -50,7 +50,7 @@ _Last updated: 2026-06-05 01:42 UTC_
 | 29 | Kelsey Mitchell | 5,003 |
 | 30 | Taj McWilliams-Franklin | 4,992 |
 | 31 | Maya Moore | 4,984 |
-| 32 | **Tiffany Hayes** 🔴 +5 | 4,975 |
+| 32 | **Tiffany Hayes** 🔴 +7 | 4,977 |
 | 33 | Sheryl Swoopes | 4,875 |
 | 34 | Alana Beard | 4,740 |
 | 35 | Chamique Holdsclaw | 4,713 |
@@ -268,7 +268,7 @@ _Last updated: 2026-06-05 01:42 UTC_
 | 42 | **Kiah Stokes** 🔴 | 1,787 |
 | 43 | Asjha Jones | 1,751 |
 | 44 | Stefanie Dolson | 1,686 |
-| 45 | **Teaira McCowan** 🔴 +1 | 1,681 |
+| 45 | **Teaira McCowan** 🔴 +2 | 1,682 |
 | 46 | Monique Currie | 1,666 |
 | 47 | Glory Johnson | 1,640 |
 | 48 | Vickie Johnson | 1,634 |
@@ -316,7 +316,7 @@ _Last updated: 2026-06-05 01:42 UTC_
 | 90 | Liz Cambage | 1,258 |
 | 91 | Azurá Stevens | 1,246 |
 | 92 | Ezi Magbegor | 1,243 |
-| 93 | **Tiffany Hayes** 🔴 +1 | 1,240 |
+| 93 | **Tiffany Hayes** 🔴 +2 | 1,241 |
 | 94 | Myisha Hines-Allen | 1,239 |
 | 95 | Brianna Turner | 1,237 |
 | 96 | Seimone Augustus | 1,228 |
@@ -381,7 +381,7 @@ _Last updated: 2026-06-05 01:42 UTC_
 | 155 | Shameka Christon | 867 |
 | 156 | Alanna Smith | 862 |
 | 156 | Krystal Thomas | 862 |
-| 158 | **Nia Coffey** 🔴 +2 | 850 |
+| 158 | **Nia Coffey** 🔴 +3 | 851 |
 | 159 | Marina Mabrey | 846 |
 | 160 | Leilani Mitchell | 845 |
 | 161 | Essence Carson | 833 |
@@ -660,7 +660,7 @@ _Last updated: 2026-06-05 01:42 UTC_
 | 24 | Diana Taurasi | 349 |
 | 24 | Elena Delle Donne | 349 |
 | 26 | DeLisha Milton-Jones | 339 |
-| 27 | **Kiah Stokes** 🔴 +2 | 335 |
+| 27 | **Kiah Stokes** 🔴 +3 | 336 |
 | 28 | Yolanda Griffith | 323 |
 | 29 | Elena Baranova | 320 |
 | 30 | Candice Dupree | 316 |
