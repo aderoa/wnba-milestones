@@ -2,6 +2,11 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-05 02:58 UTC
+
+- **Cecilia Zandalasini** passed **Adrienne Johnson** for **#199** all-time in three-pointers (career 103) — new to top 200 today — _2:28 - 4th — GS @ MIN_
+- **Tiffany Hayes** passed **Ezi Magbegor** for **#92** all-time in rebounds (career 1,244) — up from #93 entering today — _2:28 - 4th — GS @ MIN_
+
 ## 2026-06-05 02:43 UTC
 
 - **Courtney Williams** passed **Vickie Johnson** for **#52** all-time in points (career 4,231) — up from #55 entering today — _5:26 - 4th — GS @ MIN_

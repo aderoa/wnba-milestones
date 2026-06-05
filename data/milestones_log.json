@@ -1,5 +1,29 @@
 [
   {
+    "ts": "2026-06-05T02:58:00+00:00",
+    "text": "Cecilia Zandalasini passed Adrienne Johnson for #199 all-time in three-pointers (career 103) \u2014 new to top 200 today \u2014 (2:28 - 4th \u2014 GS @ MIN)",
+    "kind": "rank_pass",
+    "player": "Cecilia Zandalasini",
+    "stat": "three-pointers",
+    "rank": 199,
+    "passed_players": [
+      "Adrienne Johnson"
+    ],
+    "new_total": 103
+  },
+  {
+    "ts": "2026-06-05T02:58:00+00:00",
+    "text": "Tiffany Hayes passed Ezi Magbegor for #92 all-time in rebounds (career 1,244) \u2014 up from #93 entering today \u2014 (2:28 - 4th \u2014 GS @ MIN)",
+    "kind": "rank_pass",
+    "player": "Tiffany Hayes",
+    "stat": "rebounds",
+    "rank": 92,
+    "passed_players": [
+      "Ezi Magbegor"
+    ],
+    "new_total": 1244
+  },
+  {
     "ts": "2026-06-05T02:43:00+00:00",
     "text": "Courtney Williams passed Vickie Johnson for #52 all-time in points (career 4,231) \u2014 up from #55 entering today \u2014 (5:26 - 4th \u2014 GS @ MIN)",
     "kind": "rank_pass",
@@ -2959,29 +2983,5 @@
       "Shenise Johnson"
     ],
     "new_total": 218
-  },
-  {
-    "ts": "2026-05-23T00:52:00+00:00",
-    "text": "Tiffany Hayes passed Marina Mabrey for #27 all-time in three-pointers (career 449) \u2014 up from #28 entering today \u2014 (6:23 - 3rd \u2014 GS @ IND)",
-    "kind": "rank_pass",
-    "player": "Tiffany Hayes",
-    "stat": "three-pointers",
-    "rank": 27,
-    "passed_players": [
-      "Marina Mabrey"
-    ],
-    "new_total": 449
-  },
-  {
-    "ts": "2026-05-23T00:50:00+00:00",
-    "text": "Sophie Cunningham passed Jackie Young for #157 all-time in fouls (career 515) \u2014 up from #161 entering today \u2014 (7:07 - 3rd \u2014 GS @ IND)",
-    "kind": "rank_pass",
-    "player": "Sophie Cunningham",
-    "stat": "fouls",
-    "rank": 157,
-    "passed_players": [
-      "Jackie Young"
-    ],
-    "new_total": 515
   }
 ]
