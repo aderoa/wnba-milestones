@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-05 01:44 UTC_
+_Last updated: 2026-06-05 01:45 UTC_
 
 ## Contents
 
@@ -322,7 +322,7 @@ _Last updated: 2026-06-05 01:44 UTC_
 | 96 | Seimone Augustus | 1,228 |
 | 97 | Chelsea Gray | 1,221 |
 | 98 | Jia Perkins | 1,220 |
-| 99 | **Kayla McBride** 🔴 +1 | 1,219 |
+| 98 | **Kayla McBride** 🔴 +2 | 1,220 |
 | 100 | DeMya Walker | 1,199 |
 | 101 | Latasha Byears | 1,190 |
 | 101 | Tanisha Wright | 1,190 |
