@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-05 00:20 UTC
+
+- **Naz Hillmon** reached **1,000** career points (now 1,001) — _5:58 - 3rd — ATL @ IND_
+
 ## 2026-06-05 00:19 UTC
 
 - **Jordin Canada** passed **Leilani Mitchell** for **#29** all-time in assists (career 1,198) — up from #30 entering today — _6:35 - 3rd — ATL @ IND_

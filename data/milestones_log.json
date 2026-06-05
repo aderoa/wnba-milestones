@@ -1,5 +1,14 @@
 [
   {
+    "ts": "2026-06-05T00:20:00+00:00",
+    "text": "Naz Hillmon reached 1,000 career points (now 1,001) \u2014 (5:58 - 3rd \u2014 ATL @ IND)",
+    "kind": "round",
+    "player": "Naz Hillmon",
+    "stat": "points",
+    "value": 1000,
+    "new_total": 1001
+  },
+  {
     "ts": "2026-06-05T00:19:00+00:00",
     "text": "Jordin Canada passed Leilani Mitchell for #29 all-time in assists (career 1,198) \u2014 up from #30 entering today \u2014 (6:35 - 3rd \u2014 ATL @ IND)",
     "kind": "rank_pass",
@@ -3001,17 +3010,5 @@
       "Erlana Larkins"
     ],
     "new_total": 1330
-  },
-  {
-    "ts": "2026-05-22T01:17:00+00:00",
-    "text": "Gabby Williams passed Teresa Weatherspoon for #178 all-time in rebounds (career 776) \u2014 up from #179 entering today \u2014 (7:05 - 3rd \u2014 GS @ NY)",
-    "kind": "rank_pass",
-    "player": "Gabby Williams",
-    "stat": "rebounds",
-    "rank": 178,
-    "passed_players": [
-      "Teresa Weatherspoon"
-    ],
-    "new_total": 776
   }
 ]
