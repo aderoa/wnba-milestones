@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-05 02:51 UTC_
+_Last updated: 2026-06-05 02:52 UTC_
 
 ## Contents
 
@@ -70,7 +70,7 @@ _Last updated: 2026-06-05 02:51 UTC_
 | 49 | Kahleah Copper | 4,267 |
 | 50 | Plenette Pierson | 4,258 |
 | 51 | Monique Currie | 4,253 |
-| 52 | **Courtney Williams** 🔴 +12 | 4,233 |
+| 52 | **Courtney Williams** 🔴 +14 | 4,235 |
 | 53 | Vickie Johnson | 4,230 |
 | 54 | Dearica Hamby | 4,228 |
 | 55 | Yolanda Griffith | 4,224 |
@@ -320,7 +320,7 @@ _Last updated: 2026-06-05 02:51 UTC_
 | 94 | Myisha Hines-Allen | 1,239 |
 | 95 | Brianna Turner | 1,237 |
 | 96 | Seimone Augustus | 1,228 |
-| 97 | **Kayla McBride** 🔴 +7 | 1,225 |
+| 97 | **Kayla McBride** 🔴 +8 | 1,226 |
 | 98 | Chelsea Gray | 1,221 |
 | 99 | Jia Perkins | 1,220 |
 | 100 | DeMya Walker | 1,199 |
