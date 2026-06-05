@@ -1,5 +1,14 @@
 [
   {
+    "ts": "2026-06-05T02:14:00+00:00",
+    "text": "Cecilia Zandalasini reached 100 career turnovers (now 100) \u2014 (7:18 - 3rd \u2014 GS @ MIN)",
+    "kind": "round",
+    "player": "Cecilia Zandalasini",
+    "stat": "turnovers",
+    "value": 100,
+    "new_total": 100
+  },
+  {
     "ts": "2026-06-05T01:54:00+00:00",
     "text": "Kayla McBride passed Chelsea Gray for #97 all-time in rebounds (career 1,222) \u2014 up from #99 entering today \u2014 (Halftime \u2014 GS @ MIN)",
     "kind": "rank_pass",
@@ -2980,17 +2989,5 @@
       "Moriah Jefferson"
     ],
     "new_total": 315
-  },
-  {
-    "ts": "2026-05-23T00:12:00+00:00",
-    "text": "Monique Billings passed Andrea Stinson for #162 all-time in fouls (career 512) \u2014 up from #163 entering today \u2014 (6:22 - 2nd \u2014 GS @ IND)",
-    "kind": "rank_pass",
-    "player": "Monique Billings",
-    "stat": "fouls",
-    "rank": 162,
-    "passed_players": [
-      "Andrea Stinson"
-    ],
-    "new_total": 512
   }
 ]
