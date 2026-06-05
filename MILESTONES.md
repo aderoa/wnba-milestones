@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-05 00:45 UTC
+
+- **Angel Reese** passed **Nicky Anosike** for **#145** all-time in rebounds (career 923) — up from #148 entering today — _6:02 - 4th — ATL @ IND_
+
 ## 2026-06-05 00:43 UTC
 
 - **Angel Reese** passed **Satou Sabally** for **#146** all-time in rebounds (career 922) — up from #148 entering today — _6:39 - 4th — ATL @ IND_

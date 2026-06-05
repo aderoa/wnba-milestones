@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-05T00:45:00+00:00",
+    "text": "Angel Reese passed Nicky Anosike for #145 all-time in rebounds (career 923) \u2014 up from #148 entering today \u2014 (6:02 - 4th \u2014 ATL @ IND)",
+    "kind": "rank_pass",
+    "player": "Angel Reese",
+    "stat": "rebounds",
+    "rank": 145,
+    "passed_players": [
+      "Nicky Anosike"
+    ],
+    "new_total": 923
+  },
+  {
     "ts": "2026-06-05T00:43:00+00:00",
     "text": "Angel Reese passed Satou Sabally for #146 all-time in rebounds (career 922) \u2014 up from #148 entering today \u2014 (6:39 - 4th \u2014 ATL @ IND)",
     "kind": "rank_pass",
@@ -2988,17 +3000,5 @@
       "Azur\u00e1 Stevens"
     ],
     "new_total": 2221
-  },
-  {
-    "ts": "2026-05-22T01:43:00+00:00",
-    "text": "Kayla Thornton passed Merlakia Jones for #188 all-time in assists (career 356) \u2014 (8:33 - 4th \u2014 GS @ NY)",
-    "kind": "rank_pass",
-    "player": "Kayla Thornton",
-    "stat": "assists",
-    "rank": 188,
-    "passed_players": [
-      "Merlakia Jones"
-    ],
-    "new_total": 356
   }
 ]

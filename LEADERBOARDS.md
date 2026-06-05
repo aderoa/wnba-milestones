@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-05 00:44 UTC_
+_Last updated: 2026-06-05 00:45 UTC_
 
 ## Contents
 
@@ -190,7 +190,7 @@ _Last updated: 2026-06-05 00:44 UTC_
 | 169 | Latasha Byears | 1,920 |
 | 170 | Karima Christmas-Kelly | 1,919 |
 | 171 | Jessica Breland | 1,918 |
-| 172 | **Myisha Hines-Allen** 🔴 +4 | 1,917 |
+| 171 | **Myisha Hines-Allen** 🔴 +5 | 1,918 |
 | 173 | Nakia Sanford | 1,915 |
 | 174 | Ebony Hoffman | 1,909 |
 | 175 | Candice Wiggins | 1,901 |
@@ -368,8 +368,8 @@ _Last updated: 2026-06-05 00:44 UTC_
 | 142 | Armintie Herrington | 960 |
 | 143 | Janell Burse | 944 |
 | 144 | Merlakia Jones | 927 |
-| 145 | **Angel Reese** 🔴 +9 | 922 |
-| 145 | Nicky Anosike | 922 |
+| 145 | **Angel Reese** 🔴 +10 | 923 |
+| 146 | Nicky Anosike | 922 |
 | 147 | Satou Sabally | 921 |
 | 148 | Janeth Arcain | 916 |
 | 149 | Jessica Shepard | 912 |
@@ -1529,7 +1529,7 @@ _Last updated: 2026-06-05 00:44 UTC_
 | 73 | Shameka Christon | 734 |
 | 74 | Becky Hammon | 733 |
 | 75 | Latasha Byears | 730 |
-| 76 | **Allisha Gray** 🔴 +1 | 724 |
+| 76 | **Allisha Gray** 🔴 +2 | 725 |
 | 77 | Kristi Toliver | 722 |
 | 78 | Elizabeth Williams | 719 |
 | 79 | Cheryl Ford | 713 |
