@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-05 01:04 UTC_
+_Last updated: 2026-06-05 01:05 UTC_
 
 ## Contents
 
@@ -157,9 +157,9 @@ _Last updated: 2026-06-05 01:04 UTC_
 | 136 | Allison Feaster | 2,258 |
 | 137 | Azurá Stevens | 2,246 |
 | 138 | Shekinna Stricklen | 2,245 |
+| 139 | **Jordin Canada** 🔴 +13 | 2,237 |
 | 139 | Kara Braxton | 2,237 |
 | 139 | Matee Ajavon | 2,237 |
-| 141 | **Jordin Canada** 🔴 +11 | 2,235 |
 | 142 | Kia Nurse | 2,231 |
 | 143 | Dawn Staley | 2,228 |
 | 144 | Teaira McCowan | 2,221 |
@@ -184,8 +184,8 @@ _Last updated: 2026-06-05 01:04 UTC_
 | 163 | Chiney Ogwumike | 1,964 |
 | 164 | Nicole Ohlde | 1,959 |
 | 165 | Kedra Holland-Corn | 1,938 |
-| 166 | **Aliyah Boston** 🔴 +17 | 1,926 |
-| 166 | Cathrine Kraayeveld | 1,926 |
+| 166 | **Aliyah Boston** 🔴 +18 | 1,927 |
+| 167 | Cathrine Kraayeveld | 1,926 |
 | 168 | Roneeka Hodges | 1,925 |
 | 169 | Latasha Byears | 1,920 |
 | 170 | Karima Christmas-Kelly | 1,919 |

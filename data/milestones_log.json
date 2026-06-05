@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-05T01:05:00+00:00",
+    "text": "Aliyah Boston passed Cathrine Kraayeveld for #166 all-time in points (career 1,927) \u2014 up from #173 entering today \u2014 (1:54 - 4th \u2014 ATL @ IND)",
+    "kind": "rank_pass",
+    "player": "Aliyah Boston",
+    "stat": "points",
+    "rank": 166,
+    "passed_players": [
+      "Cathrine Kraayeveld"
+    ],
+    "new_total": 1927
+  },
+  {
     "ts": "2026-06-05T01:00:00+00:00",
     "text": "Jordin Canada passed Ariel Atkins for #55 all-time in steals (career 380) \u2014 up from #56 entering today \u2014 (3:30 - 4th \u2014 ATL @ IND)",
     "kind": "rank_pass",
@@ -2989,17 +3001,5 @@
       "Plenette Pierson"
     ],
     "new_total": 652
-  },
-  {
-    "ts": "2026-05-22T02:13:00+00:00",
-    "text": "Ariel Atkins passed Mwadi Mabika for #57 all-time in steals (career 371) \u2014 up from #58 entering today \u2014 (5:50 - 1st \u2014 LA @ PHX)",
-    "kind": "rank_pass",
-    "player": "Ariel Atkins",
-    "stat": "steals",
-    "rank": 57,
-    "passed_players": [
-      "Mwadi Mabika"
-    ],
-    "new_total": 371
   }
 ]
