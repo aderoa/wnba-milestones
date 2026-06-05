@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-05 03:05 UTC_
+_Last updated: 2026-06-05 03:06 UTC_
 
 ## Contents
 
@@ -49,8 +49,8 @@ _Last updated: 2026-06-05 03:05 UTC_
 | 28 | Tangela Smith | 5,035 |
 | 29 | Kelsey Mitchell | 5,003 |
 | 30 | Taj McWilliams-Franklin | 4,992 |
-| 31 | Maya Moore | 4,984 |
-| 32 | **Tiffany Hayes** 🔴 +13 | 4,983 |
+| 31 | **Tiffany Hayes** 🔴 +15 | 4,985 |
+| 32 | Maya Moore | 4,984 |
 | 33 | Sheryl Swoopes | 4,875 |
 | 34 | Alana Beard | 4,740 |
 | 35 | Chamique Holdsclaw | 4,713 |
@@ -70,7 +70,7 @@ _Last updated: 2026-06-05 03:05 UTC_
 | 49 | Kahleah Copper | 4,267 |
 | 50 | Plenette Pierson | 4,258 |
 | 51 | Monique Currie | 4,253 |
-| 52 | **Courtney Williams** 🔴 +14 | 4,235 |
+| 52 | **Courtney Williams** 🔴 +16 | 4,237 |
 | 53 | Vickie Johnson | 4,230 |
 | 54 | Dearica Hamby | 4,228 |
 | 55 | Yolanda Griffith | 4,224 |
@@ -264,7 +264,7 @@ _Last updated: 2026-06-05 03:05 UTC_
 | 38 | Sophia Young-Malcolm | 1,807 |
 | 39 | Lindsay Whalen | 1,805 |
 | 40 | Camille Smith | 1,802 |
-| 40 | **Courtney Williams** 🔴 +8 | 1,802 |
+| 41 | **Courtney Williams** 🔴 +7 | 1,801 |
 | 42 | **Kiah Stokes** 🔴 +3 | 1,790 |
 | 43 | Asjha Jones | 1,751 |
 | 44 | Stefanie Dolson | 1,686 |

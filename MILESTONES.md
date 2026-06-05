@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-05 03:06 UTC
+
+- **Tiffany Hayes** passed **Maya Moore** for **#30** all-time in points (career 4,985) — up from #32 entering today — _33.8 - 4th — GS @ MIN_
+
 ## 2026-06-05 02:58 UTC
 
 - **Cecilia Zandalasini** passed **Adrienne Johnson** for **#199** all-time in three-pointers (career 103) — new to top 200 today — _2:28 - 4th — GS @ MIN_
