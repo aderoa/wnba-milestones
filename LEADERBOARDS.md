@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-05 01:37 UTC_
+_Last updated: 2026-06-05 01:38 UTC_
 
 ## Contents
 
@@ -1478,7 +1478,7 @@ _Last updated: 2026-06-05 01:37 UTC_
 | 21 | Michelle Snow | 1,108 |
 | 22 | Sylvia Fowles | 1,049 |
 | 23 | Tina Charles | 1,037 |
-| 24 | **Tiffany Hayes** 🔴 +1 | 1,006 |
+| 24 | **Tiffany Hayes** 🔴 +2 | 1,007 |
 | 25 | Lindsay Whalen | 998 |
 | 26 | Rebekkah Brunson | 996 |
 | 27 | Yolanda Griffith | 991 |
@@ -1566,7 +1566,7 @@ _Last updated: 2026-06-05 01:37 UTC_
 | 108 | Nicole Ohlde | 631 |
 | 110 | Jennifer Gillom | 629 |
 | 111 | Deanna Nolan | 628 |
-| 112 | **Teaira McCowan** 🔴 | 626 |
+| 112 | **Teaira McCowan** 🔴 +1 | 627 |
 | 113 | Brionna Jones | 625 |
 | 114 | Chelsea Gray | 621 |
 | 115 | Courtney Paris | 617 |
