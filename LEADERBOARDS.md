@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-05 01:19 UTC_
+_Last updated: 2026-06-05 01:20 UTC_
 
 ## Contents
 
@@ -249,7 +249,7 @@ _Last updated: 2026-06-05 01:19 UTC_
 | 23 | Yolanda Griffith | 2,440 |
 | 24 | Dearica Hamby | 2,386 |
 | 25 | Tangela Smith | 2,328 |
-| 26 | **Natasha Howard** 🔴 +2 | 2,245 |
+| 26 | **Natasha Howard** 🔴 +3 | 2,246 |
 | 27 | Erika de Souza | 2,220 |
 | 28 | Diana Taurasi | 2,201 |
 | 29 | Margo Dydek | 2,138 |
@@ -264,7 +264,7 @@ _Last updated: 2026-06-05 01:19 UTC_
 | 38 | Sophia Young-Malcolm | 1,807 |
 | 39 | Lindsay Whalen | 1,805 |
 | 40 | Camille Smith | 1,802 |
-| 41 | **Courtney Williams** 🔴 +1 | 1,795 |
+| 41 | **Courtney Williams** 🔴 +2 | 1,796 |
 | 42 | **Kiah Stokes** 🔴 | 1,787 |
 | 43 | Asjha Jones | 1,751 |
 | 44 | Stefanie Dolson | 1,686 |
@@ -892,7 +892,7 @@ _Last updated: 2026-06-05 01:19 UTC_
 | 51 | Briann January | 386 |
 | 52 | Swin Cash | 384 |
 | 52 | Tina Charles | 384 |
-| 54 | **Tiffany Hayes** 🔴 | 381 |
+| 54 | **Tiffany Hayes** 🔴 +1 | 382 |
 | 55 | Jordin Canada | 380 |
 | 56 | Ariel Atkins | 379 |
 | 57 | Monique Currie | 378 |
@@ -1244,6 +1244,7 @@ _Last updated: 2026-06-05 01:19 UTC_
 | 197 | Kiesha Brown | 103 |
 | 199 | Adrienne Johnson | 102 |
 | 200 | Amber Jacobs | 101 |
+| 200 | **Cecilia Zandalasini** 🔴 +2 | 101 |
 
 ## Turnovers
 
@@ -1307,8 +1308,8 @@ _Last updated: 2026-06-05 01:19 UTC_
 | 56 | Tammy Sutton-Brown | 672 |
 | 57 | Deanna Nolan | 669 |
 | 58 | Chasity Melvin | 666 |
+| 59 | **Courtney Williams** 🔴 +1 | 660 |
 | 59 | Vickie Johnson | 660 |
-| 60 | **Courtney Williams** 🔴 | 659 |
 | 61 | Yolanda Griffith | 653 |
 | 62 | Sheri Sam | 650 |
 | 63 | Dawn Staley | 643 |
