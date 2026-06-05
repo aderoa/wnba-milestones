@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-05T01:22:00+00:00",
+    "text": "Courtney Williams passed Yolanda Griffith for #54 all-time in points (career 4,225) \u2014 up from #55 entering today \u2014 (1:33 - 1st \u2014 GS @ MIN)",
+    "kind": "rank_pass",
+    "player": "Courtney Williams",
+    "stat": "points",
+    "rank": 54,
+    "passed_players": [
+      "Yolanda Griffith"
+    ],
+    "new_total": 4225
+  },
+  {
     "ts": "2026-06-05T01:21:00+00:00",
     "text": "Courtney Williams passed Vickie Johnson for #59 all-time in turnovers (career 661) \u2014 up from #60 entering today \u2014 (1:58 - 1st \u2014 GS @ MIN)",
     "kind": "rank_pass",
@@ -2985,18 +2997,5 @@
       "Briann January"
     ],
     "new_total": 3083
-  },
-  {
-    "ts": "2026-05-22T03:54:00+00:00",
-    "text": "Cameron Brink passed Myisha Hines-Allen and Wendy Palmer for #188 all-time in blocks (career 71) \u2014 up from #192 entering today \u2014 (9:40 - 4th \u2014 LA @ PHX)",
-    "kind": "rank_pass",
-    "player": "Cameron Brink",
-    "stat": "blocks",
-    "rank": 188,
-    "passed_players": [
-      "Myisha Hines-Allen",
-      "Wendy Palmer"
-    ],
-    "new_total": 71
   }
 ]
