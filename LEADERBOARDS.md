@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-05 00:27 UTC_
+_Last updated: 2026-06-05 00:28 UTC_
 
 ## Contents
 
@@ -47,7 +47,7 @@ _Last updated: 2026-06-05 00:27 UTC_
 | 26 | Kayla McBride | 5,508 |
 | 27 | Swin Cash | 5,119 |
 | 28 | Tangela Smith | 5,035 |
-| 29 | **Kelsey Mitchell** 🔴 +22 | 5,000 |
+| 29 | **Kelsey Mitchell** 🔴 +25 | 5,003 |
 | 30 | Taj McWilliams-Franklin | 4,992 |
 | 31 | Maya Moore | 4,984 |
 | 32 | Tiffany Hayes | 4,970 |
@@ -982,7 +982,7 @@ _Last updated: 2026-06-05 00:27 UTC_
 | 141 | Wendy Palmer | 226 |
 | 142 | Alexis Hornbuckle | 225 |
 | 143 | Cheryl Ford | 224 |
-| 144 | **Kelsey Mitchell** 🔴 +1 | 223 |
+| 143 | **Kelsey Mitchell** 🔴 +2 | 224 |
 | 145 | Rushia Brown | 221 |
 | 146 | DeMya Walker | 220 |
 | 146 | Jennifer Gillom | 220 |
@@ -1051,7 +1051,7 @@ _Last updated: 2026-06-05 00:27 UTC_
 | 5 | Tina Thompson | 745 |
 | 6 | Kayla McBride | 734 |
 | 7 | Katie Douglas | 723 |
-| 8 | **Kelsey Mitchell** 🔴 +2 | 686 |
+| 8 | **Kelsey Mitchell** 🔴 +3 | 687 |
 | 9 | Jewell Loyd | 678 |
 | 10 | DeWanna Bonner | 669 |
 | 11 | Kristi Toliver | 651 |
@@ -1369,7 +1369,7 @@ _Last updated: 2026-06-05 00:27 UTC_
 | 118 | Elaine Powell | 469 |
 | 119 | Allie Quigley | 467 |
 | 120 | A'ja Wilson | 466 |
-| 121 | **Allisha Gray** 🔴 | 465 |
+| 120 | **Allisha Gray** 🔴 +1 | 466 |
 | 122 | Kia Vaughn | 454 |
 | 123 | Janeth Arcain | 453 |
 | 124 | Ariel Atkins | 452 |
