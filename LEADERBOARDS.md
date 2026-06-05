@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-05 01:25 UTC_
+_Last updated: 2026-06-05 01:26 UTC_
 
 ## Contents
 
@@ -50,7 +50,7 @@ _Last updated: 2026-06-05 01:25 UTC_
 | 29 | Kelsey Mitchell | 5,003 |
 | 30 | Taj McWilliams-Franklin | 4,992 |
 | 31 | Maya Moore | 4,984 |
-| 32 | **Tiffany Hayes** 🔴 | 4,970 |
+| 32 | **Tiffany Hayes** 🔴 +3 | 4,973 |
 | 33 | Sheryl Swoopes | 4,875 |
 | 34 | Alana Beard | 4,740 |
 | 35 | Chamique Holdsclaw | 4,713 |
@@ -1071,7 +1071,7 @@ _Last updated: 2026-06-05 01:25 UTC_
 | 25 | Marina Mabrey | 463 |
 | 26 | Sabrina Ionescu | 462 |
 | 27 | Breanna Stewart | 459 |
-| 28 | **Tiffany Hayes** 🔴 | 450 |
+| 28 | **Tiffany Hayes** 🔴 +1 | 451 |
 | 29 | Ariel Atkins | 447 |
 | 30 | Allisha Gray | 445 |
 | 31 | Lauren Jackson | 436 |
@@ -1644,7 +1644,7 @@ _Last updated: 2026-06-05 01:25 UTC_
 | 187 | Seimone Augustus | 477 |
 | 188 | Allie Quigley | 475 |
 | 189 | Kia Nurse | 473 |
-| 190 | **Nia Coffey** 🔴 | 472 |
+| 189 | **Nia Coffey** 🔴 +1 | 473 |
 | 191 | Alanna Smith | 470 |
 | 191 | Azurá Stevens | 470 |
 | 193 | Christi Thomas | 463 |
