@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-05 23:43 UTC
+
+- **Azurá Stevens** passed **Jessica Breland**, **Murriel Page**, and **Shatori Walker-Kimbrough** for **#167** all-time in steals (career 205) — _4:01 - 1st — CON @ CHI_
+
 ## 2026-06-05 23:40 UTC
 
 - **Aneesah Morrow** reached **400** career rebounds (now 400) — _5:14 - 1st — CON @ CHI_

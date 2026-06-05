@@ -1,5 +1,19 @@
 [
   {
+    "ts": "2026-06-05T23:43:00+00:00",
+    "text": "Azur\u00e1 Stevens passed Jessica Breland, Murriel Page, and Shatori Walker-Kimbrough for #167 all-time in steals (career 205) \u2014 (4:01 - 1st \u2014 CON @ CHI)",
+    "kind": "rank_pass",
+    "player": "Azur\u00e1 Stevens",
+    "stat": "steals",
+    "rank": 167,
+    "passed_players": [
+      "Jessica Breland",
+      "Murriel Page",
+      "Shatori Walker-Kimbrough"
+    ],
+    "new_total": 205
+  },
+  {
     "ts": "2026-06-05T23:40:00+00:00",
     "text": "Aneesah Morrow reached 400 career rebounds (now 400) \u2014 (5:14 - 1st \u2014 CON @ CHI)",
     "kind": "round",
@@ -2977,17 +2991,5 @@
       "Shannon Johnson"
     ],
     "new_total": 68
-  },
-  {
-    "ts": "2026-05-24T21:08:00+00:00",
-    "text": "Arike Ogunbowale passed Ashley Robinson for #189 all-time in rebounds (career 735) \u2014 up from #190 entering today \u2014 (End of 3rd \u2014 DAL @ NY)",
-    "kind": "rank_pass",
-    "player": "Arike Ogunbowale",
-    "stat": "rebounds",
-    "rank": 189,
-    "passed_players": [
-      "Ashley Robinson"
-    ],
-    "new_total": 735
   }
 ]
