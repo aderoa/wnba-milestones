@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-05 23:40 UTC_
+_Last updated: 2026-06-05 23:41 UTC_
 
 ## Contents
 
@@ -155,7 +155,7 @@ _Last updated: 2026-06-05 23:40 UTC_
 | 134 | Kia Vaughn | 2,288 |
 | 135 | Betnijah Laney-Hamilton | 2,282 |
 | 136 | Allison Feaster | 2,258 |
-| 137 | **Azurá Stevens** 🔴 +5 | 2,251 |
+| 137 | **Azurá Stevens** 🔴 +7 | 2,253 |
 | 138 | Shekinna Stricklen | 2,245 |
 | 139 | Jordin Canada | 2,237 |
 | 139 | Kara Braxton | 2,237 |
@@ -314,7 +314,7 @@ _Last updated: 2026-06-05 23:40 UTC_
 | 88 | Tari Phillips | 1,274 |
 | 89 | Janel McCarville | 1,261 |
 | 90 | Liz Cambage | 1,258 |
-| 91 | **Azurá Stevens** 🔴 +2 | 1,248 |
+| 91 | **Azurá Stevens** 🔴 +3 | 1,249 |
 | 92 | Tiffany Hayes | 1,244 |
 | 93 | Ezi Magbegor | 1,243 |
 | 94 | Myisha Hines-Allen | 1,239 |
@@ -520,7 +520,7 @@ _Last updated: 2026-06-05 23:40 UTC_
 | 89 | Betty Lennox | 651 |
 | 89 | Plenette Pierson | 651 |
 | 91 | Alex Bentley | 645 |
-| 92 | **Brittney Griner** 🔴 | 643 |
+| 92 | **Brittney Griner** 🔴 +1 | 644 |
 | 93 | A'ja Wilson | 637 |
 | 93 | Asjha Jones | 637 |
 | 95 | Jennifer Azzi | 636 |
