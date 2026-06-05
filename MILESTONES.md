@@ -2,6 +2,11 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-05 01:00 UTC
+
+- **Jordin Canada** passed **Ariel Atkins** for **#55** all-time in steals (career 380) — up from #56 entering today — _3:30 - 4th — ATL @ IND_
+- **Aliyah Boston** passed **Roneeka Hodges** for **#167** all-time in points (career 1,926) — up from #173 entering today — _3:30 - 4th — ATL @ IND_
+
 ## 2026-06-05 00:57 UTC
 
 - **Jordin Canada** passed **Kia Nurse** for **#141** all-time in points (career 2,233) — up from #143 entering today — _3:39 - 4th — ATL @ IND_
