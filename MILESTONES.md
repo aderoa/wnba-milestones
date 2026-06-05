@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-05 01:53 UTC
+
+- **Kayla McBride** passed **Jia Perkins** for **#98** all-time in rebounds (career 1,221) — up from #99 entering today — _34.8 - 2nd — GS @ MIN_
+
 ## 2026-06-05 01:49 UTC
 
 - **Gabby Williams** passed **Moriah Jefferson** for **#190** all-time in points (career 1,723) — up from #191 entering today — _2:26 - 2nd — GS @ MIN_

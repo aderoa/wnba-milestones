@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-05T01:53:00+00:00",
+    "text": "Kayla McBride passed Jia Perkins for #98 all-time in rebounds (career 1,221) \u2014 up from #99 entering today \u2014 (34.8 - 2nd \u2014 GS @ MIN)",
+    "kind": "rank_pass",
+    "player": "Kayla McBride",
+    "stat": "rebounds",
+    "rank": 98,
+    "passed_players": [
+      "Jia Perkins"
+    ],
+    "new_total": 1221
+  },
+  {
     "ts": "2026-06-05T01:49:00+00:00",
     "text": "Gabby Williams passed Moriah Jefferson for #190 all-time in points (career 1,723) \u2014 up from #191 entering today \u2014 (2:26 - 2nd \u2014 GS @ MIN)",
     "kind": "rank_pass",
@@ -2981,17 +2993,5 @@
       "Chiney Ogwumike"
     ],
     "new_total": 177
-  },
-  {
-    "ts": "2026-05-22T23:59:00+00:00",
-    "text": "Gabby Williams passed Alex Bentley for #184 all-time in turnovers (career 314) \u2014 up from #185 entering today \u2014 (9:10 - 2nd \u2014 GS @ IND)",
-    "kind": "rank_pass",
-    "player": "Gabby Williams",
-    "stat": "turnovers",
-    "rank": 184,
-    "passed_players": [
-      "Alex Bentley"
-    ],
-    "new_total": 314
   }
 ]
