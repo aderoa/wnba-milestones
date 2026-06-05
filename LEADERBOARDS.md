@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-05 00:30 UTC_
+_Last updated: 2026-06-05 00:31 UTC_
 
 ## Contents
 
@@ -144,7 +144,7 @@ _Last updated: 2026-06-05 00:30 UTC_
 | 123 | Nikki McCray | 2,521 |
 | 124 | Crystal Robinson | 2,496 |
 | 125 | Tiffany Mitchell | 2,480 |
-| 126 | **Rhyne Howard** 🔴 +5 | 2,469 |
+| 126 | **Rhyne Howard** 🔴 +8 | 2,472 |
 | 127 | Ruth Riley | 2,434 |
 | 128 | Svetlana Abrosimova | 2,414 |
 | 129 | Anna DeForge | 2,413 |
@@ -190,8 +190,8 @@ _Last updated: 2026-06-05 00:30 UTC_
 | 169 | Latasha Byears | 1,920 |
 | 170 | Karima Christmas-Kelly | 1,919 |
 | 171 | Jessica Breland | 1,918 |
-| 172 | **Myisha Hines-Allen** 🔴 +2 | 1,915 |
-| 172 | Nakia Sanford | 1,915 |
+| 172 | **Myisha Hines-Allen** 🔴 +4 | 1,917 |
+| 173 | Nakia Sanford | 1,915 |
 | 174 | Ebony Hoffman | 1,909 |
 | 175 | Candice Wiggins | 1,901 |
 | 176 | Natisha Hiedeman | 1,843 |
@@ -318,7 +318,7 @@ _Last updated: 2026-06-05 00:30 UTC_
 | 92 | Ezi Magbegor | 1,243 |
 | 93 | Tiffany Hayes | 1,239 |
 | 94 | Brianna Turner | 1,237 |
-| 95 | **Myisha Hines-Allen** 🔴 +3 | 1,235 |
+| 94 | **Myisha Hines-Allen** 🔴 +5 | 1,237 |
 | 96 | Seimone Augustus | 1,228 |
 | 97 | Chelsea Gray | 1,221 |
 | 98 | Jia Perkins | 1,220 |
@@ -503,7 +503,7 @@ _Last updated: 2026-06-05 00:30 UTC_
 | 72 | Mwadi Mabika | 774 |
 | 73 | Marina Mabrey | 768 |
 | 74 | Sheri Sam | 745 |
-| 75 | **Allisha Gray** 🔴 +1 | 742 |
+| 75 | **Allisha Gray** 🔴 +2 | 743 |
 | 76 | Monique Currie | 740 |
 | 77 | Elaine Powell | 728 |
 | 78 | Dearica Hamby | 717 |
@@ -899,9 +899,9 @@ _Last updated: 2026-06-05 00:30 UTC_
 | 58 | Chamique Holdsclaw | 376 |
 | 59 | Mwadi Mabika | 370 |
 | 60 | Brittney Sykes | 364 |
+| 61 | **Allisha Gray** 🔴 +2 | 360 |
 | 61 | Lauren Jackson | 360 |
 | 61 | Tan White | 360 |
-| 63 | **Allisha Gray** 🔴 +1 | 359 |
 | 64 | Vickie Johnson | 357 |
 | 65 | Dominique Canty | 356 |
 | 65 | Renee Montgomery | 356 |
@@ -1084,7 +1084,7 @@ _Last updated: 2026-06-05 00:30 UTC_
 | 37 | Riquna Williams | 407 |
 | 39 | Jia Perkins | 396 |
 | 40 | Alysha Clark | 394 |
-| 41 | **Rhyne Howard** 🔴 +1 | 393 |
+| 40 | **Rhyne Howard** 🔴 +2 | 394 |
 | 42 | Roneeka Hodges | 389 |
 | 43 | Courtney Vandersloot | 385 |
 | 44 | Rachel Banham | 383 |

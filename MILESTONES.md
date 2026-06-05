@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-05 00:31 UTC
+
+- **Myisha Hines-Allen** passed **Nakia Sanford** for **#171** all-time in points (career 1,917) — up from #172 entering today — _1:08 - 3rd — ATL @ IND_
+
 ## 2026-06-05 00:27 UTC
 
 - **Jordin Canada** reached **1,200** career assists (now 1,200) — _2:50 - 3rd — ATL @ IND_

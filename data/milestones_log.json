@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-05T00:31:00+00:00",
+    "text": "Myisha Hines-Allen passed Nakia Sanford for #171 all-time in points (career 1,917) \u2014 up from #172 entering today \u2014 (1:08 - 3rd \u2014 ATL @ IND)",
+    "kind": "rank_pass",
+    "player": "Myisha Hines-Allen",
+    "stat": "points",
+    "rank": 171,
+    "passed_players": [
+      "Nakia Sanford"
+    ],
+    "new_total": 1917
+  },
+  {
     "ts": "2026-06-05T00:27:00+00:00",
     "text": "Jordin Canada reached 1,200 career assists (now 1,200) \u2014 (2:50 - 3rd \u2014 ATL @ IND)",
     "kind": "round",
@@ -2991,18 +3003,5 @@
       "Shannon Johnson"
     ],
     "new_total": 68
-  },
-  {
-    "ts": "2026-05-22T01:35:00+00:00",
-    "text": "Kayla Thornton passed Elaine Powell and Loree Moore for #120 all-time in steals (career 256) \u2014 up from #121 entering today \u2014 (53.8 - 3rd \u2014 GS @ NY)",
-    "kind": "rank_pass",
-    "player": "Kayla Thornton",
-    "stat": "steals",
-    "rank": 120,
-    "passed_players": [
-      "Elaine Powell",
-      "Loree Moore"
-    ],
-    "new_total": 256
   }
 ]
