@@ -2,6 +2,11 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-05 01:13 UTC
+
+- **Sophie Cunningham** passed **Kayla McBride** for **#154** all-time in fouls (career 523) — up from #155 entering today — _29.6 - 4th — ATL @ IND_
+- **Kayla McBride** passed **Lindsay Whalen** for **#25** all-time in points (career 5,513) — up from #26 entering today — _4:59 - 1st — GS @ MIN_
+
 ## 2026-06-05 01:11 UTC
 
 - **Cecilia Zandalasini** reached **100** career three-pointers (now 100) — _6:05 - 1st — GS @ MIN_

@@ -1,5 +1,29 @@
 [
   {
+    "ts": "2026-06-05T01:13:00+00:00",
+    "text": "Sophie Cunningham passed Kayla McBride for #154 all-time in fouls (career 523) \u2014 up from #155 entering today \u2014 (29.6 - 4th \u2014 ATL @ IND)",
+    "kind": "rank_pass",
+    "player": "Sophie Cunningham",
+    "stat": "fouls",
+    "rank": 154,
+    "passed_players": [
+      "Kayla McBride"
+    ],
+    "new_total": 523
+  },
+  {
+    "ts": "2026-06-05T01:13:00+00:00",
+    "text": "Kayla McBride passed Lindsay Whalen for #25 all-time in points (career 5,513) \u2014 up from #26 entering today \u2014 (4:59 - 1st \u2014 GS @ MIN)",
+    "kind": "rank_pass",
+    "player": "Kayla McBride",
+    "stat": "points",
+    "rank": 25,
+    "passed_players": [
+      "Lindsay Whalen"
+    ],
+    "new_total": 5513
+  },
+  {
     "ts": "2026-06-05T01:11:00+00:00",
     "text": "Cecilia Zandalasini reached 100 career three-pointers (now 100) \u2014 (6:05 - 1st \u2014 GS @ MIN)",
     "kind": "round",
@@ -2975,29 +2999,5 @@
       "Rhonda Mapp"
     ],
     "new_total": 70
-  },
-  {
-    "ts": "2026-05-22T03:34:00+00:00",
-    "text": "Ariel Atkins passed Danielle Robinson for #86 all-time in fouls (career 693) \u2014 up from #87 entering today \u2014 (5:15 - 3rd \u2014 LA @ PHX)",
-    "kind": "rank_pass",
-    "player": "Ariel Atkins",
-    "stat": "fouls",
-    "rank": 86,
-    "passed_players": [
-      "Danielle Robinson"
-    ],
-    "new_total": 693
-  },
-  {
-    "ts": "2026-05-22T03:24:00+00:00",
-    "text": "Ariel Atkins passed Epiphanny Prince for #79 all-time in points (career 3,382) \u2014 up from #80 entering today \u2014 (8:20 - 3rd \u2014 LA @ PHX)",
-    "kind": "rank_pass",
-    "player": "Ariel Atkins",
-    "stat": "points",
-    "rank": 79,
-    "passed_players": [
-      "Epiphanny Prince"
-    ],
-    "new_total": 3382
   }
 ]

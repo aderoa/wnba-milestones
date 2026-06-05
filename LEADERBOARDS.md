@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-05 01:12 UTC_
+_Last updated: 2026-06-05 01:13 UTC_
 
 ## Contents
 
@@ -43,8 +43,8 @@ _Last updated: 2026-06-05 01:12 UTC_
 | 22 | Skylar Diggins | 5,602 |
 | 23 | DeLisha Milton-Jones | 5,571 |
 | 24 | Katie Douglas | 5,545 |
-| 25 | **Kayla McBride** 🔴 +3 | 5,511 |
-| 25 | Lindsay Whalen | 5,511 |
+| 25 | **Kayla McBride** 🔴 +5 | 5,513 |
+| 26 | Lindsay Whalen | 5,511 |
 | 27 | Swin Cash | 5,119 |
 | 28 | Tangela Smith | 5,035 |
 | 29 | **Kelsey Mitchell** 🔴 +25 | 5,003 |
@@ -58,7 +58,7 @@ _Last updated: 2026-06-05 01:12 UTC_
 | 37 | Alyssa Thomas | 4,644 |
 | 38 | Penny Taylor | 4,595 |
 | 39 | Arike Ogunbowale | 4,582 |
-| 40 | **Natasha Howard** 🔴 | 4,516 |
+| 40 | **Natasha Howard** 🔴 +1 | 4,517 |
 | 41 | Chelsea Gray | 4,506 |
 | 42 | Kristi Toliver | 4,474 |
 | 43 | Crystal Langhorne | 4,433 |
@@ -206,7 +206,7 @@ _Last updated: 2026-06-05 01:12 UTC_
 | 185 | Kamila Vodichkova | 1,767 |
 | 186 | Tully Bevilaqua | 1,763 |
 | 187 | Sandy Brondello | 1,759 |
-| 188 | **Sophie Cunningham** 🔴 +7 | 1,751 |
+| 188 | **Sophie Cunningham** 🔴 +8 | 1,752 |
 | 189 | Sugar Rodgers | 1,733 |
 | 190 | Moriah Jefferson | 1,722 |
 | 191 | **Gabby Williams** 🔴 +2 | 1,720 |
@@ -249,7 +249,7 @@ _Last updated: 2026-06-05 01:12 UTC_
 | 23 | Yolanda Griffith | 2,440 |
 | 24 | Dearica Hamby | 2,386 |
 | 25 | Tangela Smith | 2,328 |
-| 26 | **Natasha Howard** 🔴 +1 | 2,244 |
+| 26 | **Natasha Howard** 🔴 +2 | 2,245 |
 | 27 | Erika de Souza | 2,220 |
 | 28 | Diana Taurasi | 2,201 |
 | 29 | Margo Dydek | 2,138 |
@@ -264,7 +264,7 @@ _Last updated: 2026-06-05 01:12 UTC_
 | 38 | Sophia Young-Malcolm | 1,807 |
 | 39 | Lindsay Whalen | 1,805 |
 | 40 | Camille Smith | 1,802 |
-| 41 | **Courtney Williams** 🔴 | 1,794 |
+| 41 | **Courtney Williams** 🔴 +1 | 1,795 |
 | 42 | **Kiah Stokes** 🔴 | 1,787 |
 | 43 | Asjha Jones | 1,751 |
 | 44 | Stefanie Dolson | 1,686 |
@@ -395,7 +395,7 @@ _Last updated: 2026-06-05 01:12 UTC_
 | 169 | Tierra Ruffin-Pratt | 799 |
 | 170 | Betnijah Laney-Hamilton | 795 |
 | 171 | Charlotte Smith | 794 |
-| 172 | **Gabby Williams** 🔴 +1 | 791 |
+| 172 | **Gabby Williams** 🔴 +2 | 792 |
 | 173 | Rhonda Mapp | 788 |
 | 174 | Mercedes Russell | 786 |
 | 175 | Odyssey Sims | 784 |
@@ -445,7 +445,7 @@ _Last updated: 2026-06-05 01:12 UTC_
 | 14 | Danielle Robinson | 1,480 |
 | 15 | Shannon Johnson | 1,423 |
 | 15 | Tanisha Wright | 1,423 |
-| 17 | **Courtney Williams** 🔴 +1 | 1,403 |
+| 17 | **Courtney Williams** 🔴 +2 | 1,404 |
 | 18 | Temeka Johnson | 1,382 |
 | 19 | Jasmine Thomas | 1,355 |
 | 20 | Briann January | 1,339 |
@@ -1607,8 +1607,8 @@ _Last updated: 2026-06-05 01:12 UTC_
 | 150 | Epiphanny Prince | 525 |
 | 150 | Jackie Young | 525 |
 | 153 | Armintie Herrington | 523 |
-| 154 | **Kayla McBride** 🔴 | 522 |
-| 154 | **Sophie Cunningham** 🔴 | 522 |
+| 153 | **Sophie Cunningham** 🔴 +1 | 523 |
+| 155 | **Kayla McBride** 🔴 | 522 |
 | 156 | Sheryl Swoopes | 519 |
 | 157 | **Monique Billings** 🔴 +2 | 517 |
 | 157 | Nikki McCray | 517 |
