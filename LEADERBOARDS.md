@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-05 01:45 UTC_
+_Last updated: 2026-06-05 01:46 UTC_
 
 ## Contents
 
@@ -395,7 +395,7 @@ _Last updated: 2026-06-05 01:45 UTC_
 | 169 | Tierra Ruffin-Pratt | 799 |
 | 170 | Betnijah Laney-Hamilton | 795 |
 | 171 | Charlotte Smith | 794 |
-| 172 | **Gabby Williams** 🔴 +3 | 793 |
+| 172 | **Gabby Williams** 🔴 +2 | 792 |
 | 173 | Rhonda Mapp | 788 |
 | 174 | Mercedes Russell | 786 |
 | 175 | Odyssey Sims | 784 |
@@ -1314,7 +1314,7 @@ _Last updated: 2026-06-05 01:45 UTC_
 | 62 | Sheri Sam | 650 |
 | 63 | Dawn Staley | 643 |
 | 64 | Ruth Riley | 637 |
-| 65 | **Kayla McBride** 🔴 +1 | 635 |
+| 65 | **Kayla McBride** 🔴 +2 | 636 |
 | 66 | Kelsey Plum | 631 |
 | 66 | Svetlana Abrosimova | 631 |
 | 68 | Odyssey Sims | 630 |
