@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-05 23:38 UTC
+
+- **Azurá Stevens** passed **Alanna Smith** for **#191** all-time in fouls (career 471) — up from #192 entering today — _6:26 - 1st — CON @ CHI_
+
 ## 2026-06-05 23:36 UTC
 
 - **Diamond Miller** reached **700** career points (now 701) — _7:36 - 1st — CON @ CHI_

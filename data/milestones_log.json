@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-05T23:38:00+00:00",
+    "text": "Azur\u00e1 Stevens passed Alanna Smith for #191 all-time in fouls (career 471) \u2014 up from #192 entering today \u2014 (6:26 - 1st \u2014 CON @ CHI)",
+    "kind": "rank_pass",
+    "player": "Azur\u00e1 Stevens",
+    "stat": "fouls",
+    "rank": 191,
+    "passed_players": [
+      "Alanna Smith"
+    ],
+    "new_total": 471
+  },
+  {
     "ts": "2026-06-05T23:36:00+00:00",
     "text": "Diamond Miller reached 700 career points (now 701) \u2014 (7:36 - 1st \u2014 CON @ CHI)",
     "kind": "round",
@@ -2980,18 +2992,5 @@
       "Candice Dupree"
     ],
     "new_total": 877
-  },
-  {
-    "ts": "2026-05-24T20:55:00+00:00",
-    "text": "Satou Sabally passed Ruthie Bolton and Jordin Canada for #147 all-time in points (career 2,176) \u2014 up from #151 entering today \u2014 (6:11 - 3rd \u2014 DAL @ NY)",
-    "kind": "rank_pass",
-    "player": "Satou Sabally",
-    "stat": "points",
-    "rank": 147,
-    "passed_players": [
-      "Ruthie Bolton",
-      "Jordin Canada"
-    ],
-    "new_total": 2176
   }
 ]
