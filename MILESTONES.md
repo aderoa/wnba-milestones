@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-05 02:41 UTC
+
+- **Cecilia Zandalasini** passed **Amber Jacobs** for **#200** all-time in three-pointers (career 102) — new to top 200 today — _6:45 - 4th — GS @ MIN_
+
 ## 2026-06-05 02:38 UTC
 
 - **Cecilia Zandalasini** reached **600** career points (now 600) — _8:31 - 4th — GS @ MIN_

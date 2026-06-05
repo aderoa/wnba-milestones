@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-05T02:41:00+00:00",
+    "text": "Cecilia Zandalasini passed Amber Jacobs for #200 all-time in three-pointers (career 102) \u2014 new to top 200 today \u2014 (6:45 - 4th \u2014 GS @ MIN)",
+    "kind": "rank_pass",
+    "player": "Cecilia Zandalasini",
+    "stat": "three-pointers",
+    "rank": 200,
+    "passed_players": [
+      "Amber Jacobs"
+    ],
+    "new_total": 102
+  },
+  {
     "ts": "2026-06-05T02:38:00+00:00",
     "text": "Cecilia Zandalasini reached 600 career points (now 600) \u2014 (8:31 - 4th \u2014 GS @ MIN)",
     "kind": "round",
@@ -2971,14 +2983,5 @@
       "Sue Wicks"
     ],
     "new_total": 781
-  },
-  {
-    "ts": "2026-05-23T00:42:00+00:00",
-    "text": "Rhyne Howard reached 100 career blocks (now 100) \u2014 (8:48 - 3rd \u2014 DAL @ ATL)",
-    "kind": "round",
-    "player": "Rhyne Howard",
-    "stat": "blocks",
-    "value": 100,
-    "new_total": 100
   }
 ]

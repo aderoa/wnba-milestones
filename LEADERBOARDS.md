@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-05 02:40 UTC_
+_Last updated: 2026-06-05 02:41 UTC_
 
 ## Contents
 
@@ -1243,8 +1243,7 @@ _Last updated: 2026-06-05 02:40 UTC_
 | 197 | Jeanette Pohlen-Mavunga | 103 |
 | 197 | Kiesha Brown | 103 |
 | 199 | Adrienne Johnson | 102 |
-| 200 | Amber Jacobs | 101 |
-| 200 | **Cecilia Zandalasini** 🔴 +2 | 101 |
+| 199 | **Cecilia Zandalasini** 🔴 +3 | 102 |
 
 ## Turnovers
 
