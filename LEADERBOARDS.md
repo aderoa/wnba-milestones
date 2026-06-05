@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-05 01:36 UTC_
+_Last updated: 2026-06-05 01:37 UTC_
 
 ## Contents
 
@@ -473,7 +473,7 @@ _Last updated: 2026-06-05 01:36 UTC_
 | 42 | Sheryl Swoopes | 1,037 |
 | 43 | Tina Charles | 1,033 |
 | 44 | Nikki Teasley | 982 |
-| 45 | **Kayla McBride** 🔴 | 966 |
+| 45 | **Kayla McBride** 🔴 +1 | 967 |
 | 46 | Tamecka Dixon | 960 |
 | 47 | Breanna Stewart | 949 |
 | 48 | Kara Lawson | 946 |
@@ -1478,7 +1478,7 @@ _Last updated: 2026-06-05 01:36 UTC_
 | 21 | Michelle Snow | 1,108 |
 | 22 | Sylvia Fowles | 1,049 |
 | 23 | Tina Charles | 1,037 |
-| 24 | **Tiffany Hayes** 🔴 | 1,005 |
+| 24 | **Tiffany Hayes** 🔴 +1 | 1,006 |
 | 25 | Lindsay Whalen | 998 |
 | 26 | Rebekkah Brunson | 996 |
 | 27 | Yolanda Griffith | 991 |
