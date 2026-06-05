@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-05T00:12:00+00:00",
+    "text": "Aliyah Boston passed Jessica Breland for #170 all-time in points (career 1,919) \u2014 up from #173 entering today \u2014 (8:50 - 3rd \u2014 ATL @ IND)",
+    "kind": "rank_pass",
+    "player": "Aliyah Boston",
+    "stat": "points",
+    "rank": 170,
+    "passed_players": [
+      "Jessica Breland"
+    ],
+    "new_total": 1919
+  },
+  {
     "ts": "2026-06-04T23:52:00+00:00",
     "text": "Myisha Hines-Allen passed Tamicha Jackson for #178 all-time in steals (career 189) \u2014 up from #180 entering today \u2014 (1:04 - 2nd \u2014 ATL @ IND)",
     "kind": "rank_pass",
@@ -3001,17 +3013,5 @@
       "Jewell Loyd"
     ],
     "new_total": 658
-  },
-  {
-    "ts": "2026-05-22T00:56:00+00:00",
-    "text": "Kayla Thornton passed Mwadi Mabika for #84 all-time in rebounds (career 1,328) \u2014 up from #86 entering today \u2014 (Halftime \u2014 GS @ NY)",
-    "kind": "rank_pass",
-    "player": "Kayla Thornton",
-    "stat": "rebounds",
-    "rank": 84,
-    "passed_players": [
-      "Mwadi Mabika"
-    ],
-    "new_total": 1328
   }
 ]

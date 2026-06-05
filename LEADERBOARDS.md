@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-05 00:11 UTC_
+_Last updated: 2026-06-05 00:12 UTC_
 
 ## Contents
 
@@ -65,7 +65,7 @@ _Last updated: 2026-06-05 00:11 UTC_
 | 43 | Jia Perkins | 4,433 |
 | 45 | Kelsey Plum | 4,368 |
 | 46 | Courtney Vandersloot | 4,352 |
-| 47 | **Allisha Gray** 🔴 +5 | 4,331 |
+| 47 | **Allisha Gray** 🔴 +7 | 4,333 |
 | 48 | Sophia Young-Malcolm | 4,300 |
 | 49 | Kahleah Copper | 4,267 |
 | 50 | Plenette Pierson | 4,258 |
@@ -187,9 +187,9 @@ _Last updated: 2026-06-05 00:11 UTC_
 | 166 | Cathrine Kraayeveld | 1,926 |
 | 167 | Roneeka Hodges | 1,925 |
 | 168 | Latasha Byears | 1,920 |
+| 169 | **Aliyah Boston** 🔴 +10 | 1,919 |
 | 169 | Karima Christmas-Kelly | 1,919 |
-| 170 | Jessica Breland | 1,918 |
-| 171 | **Aliyah Boston** 🔴 +8 | 1,917 |
+| 171 | Jessica Breland | 1,918 |
 | 172 | **Myisha Hines-Allen** 🔴 +2 | 1,915 |
 | 172 | Nakia Sanford | 1,915 |
 | 174 | Ebony Hoffman | 1,909 |
@@ -496,7 +496,7 @@ _Last updated: 2026-06-05 00:11 UTC_
 | 65 | Tully Bevilaqua | 853 |
 | 66 | Brittney Sykes | 851 |
 | 67 | Jia Perkins | 837 |
-| 68 | **Kelsey Mitchell** 🔴 | 819 |
+| 68 | **Kelsey Mitchell** 🔴 +1 | 820 |
 | 69 | Andrea Stinson | 810 |
 | 70 | Tina Thompson | 803 |
 | 71 | Epiphanny Prince | 800 |

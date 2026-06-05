@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-05 00:12 UTC
+
+- **Aliyah Boston** passed **Jessica Breland** for **#170** all-time in points (career 1,919) — up from #173 entering today — _8:50 - 3rd — ATL @ IND_
+
 ## 2026-06-04 23:52 UTC
 
 - **Myisha Hines-Allen** passed **Tamicha Jackson** for **#178** all-time in steals (career 189) — up from #180 entering today — _1:04 - 2nd — ATL @ IND_
