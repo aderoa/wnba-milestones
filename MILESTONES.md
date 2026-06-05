@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-05 00:57 UTC
+
+- **Jordin Canada** passed **Kia Nurse** for **#141** all-time in points (career 2,233) — up from #143 entering today — _3:39 - 4th — ATL @ IND_
+
 ## 2026-06-05 00:52 UTC
 
 - **Myisha Hines-Allen** passed **Jantel Lavender** for **#160** all-time in fouls (career 515) — up from #164 entering today — _4:35 - 4th — ATL @ IND_
