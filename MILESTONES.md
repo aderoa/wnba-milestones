@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-05 00:43 UTC
+
+- **Angel Reese** passed **Satou Sabally** for **#146** all-time in rebounds (career 922) — up from #148 entering today — _6:39 - 4th — ATL @ IND_
+
 ## 2026-06-05 00:34 UTC
 
 - **Rhyne Howard** passed **Scholanda Dorrell** for **#138** all-time in steals (career 231) — up from #140 entering today — _End of 3rd — ATL @ IND_

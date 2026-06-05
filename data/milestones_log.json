@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-05T00:43:00+00:00",
+    "text": "Angel Reese passed Satou Sabally for #146 all-time in rebounds (career 922) \u2014 up from #148 entering today \u2014 (6:39 - 4th \u2014 ATL @ IND)",
+    "kind": "rank_pass",
+    "player": "Angel Reese",
+    "stat": "rebounds",
+    "rank": 146,
+    "passed_players": [
+      "Satou Sabally"
+    ],
+    "new_total": 922
+  },
+  {
     "ts": "2026-06-05T00:34:00+00:00",
     "text": "Rhyne Howard passed Scholanda Dorrell for #138 all-time in steals (career 231) \u2014 up from #140 entering today \u2014 (End of 3rd \u2014 ATL @ IND)",
     "kind": "rank_pass",
@@ -2988,17 +3000,5 @@
       "Merlakia Jones"
     ],
     "new_total": 356
-  },
-  {
-    "ts": "2026-05-22T01:41:00+00:00",
-    "text": "Kayla Thornton passed Marie Ferdinand-Harris for #104 all-time in fouls (career 647) \u2014 up from #105 entering today \u2014 (9:02 - 4th \u2014 GS @ NY)",
-    "kind": "rank_pass",
-    "player": "Kayla Thornton",
-    "stat": "fouls",
-    "rank": 104,
-    "passed_players": [
-      "Marie Ferdinand-Harris"
-    ],
-    "new_total": 647
   }
 ]
