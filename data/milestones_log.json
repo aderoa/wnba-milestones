@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-05T02:25:00+00:00",
+    "text": "Tiffany Hayes passed Kelsey Mitchell for #31 all-time in points (career 4,979) \u2014 up from #32 entering today \u2014 (2:58 - 3rd \u2014 GS @ MIN)",
+    "kind": "rank_pass",
+    "player": "Tiffany Hayes",
+    "stat": "points",
+    "rank": 31,
+    "passed_players": [
+      "Kelsey Mitchell"
+    ],
+    "new_total": 4979
+  },
+  {
     "ts": "2026-06-05T02:24:00+00:00",
     "text": "Courtney Williams passed Dearica Hamby for #53 all-time in points (career 4,229) \u2014 up from #55 entering today \u2014 (3:31 - 3rd \u2014 GS @ MIN)",
     "kind": "rank_pass",
@@ -2971,18 +2983,5 @@
       "Emily Engstler"
     ],
     "new_total": 100
-  },
-  {
-    "ts": "2026-05-23T00:41:00+00:00",
-    "text": "Gabby Williams passed Barbara Farris and Kia Nurse for #181 all-time in turnovers (career 316) \u2014 up from #185 entering today \u2014 (9:32 - 3rd \u2014 GS @ IND)",
-    "kind": "rank_pass",
-    "player": "Gabby Williams",
-    "stat": "turnovers",
-    "rank": 181,
-    "passed_players": [
-      "Barbara Farris",
-      "Kia Nurse"
-    ],
-    "new_total": 316
   }
 ]
