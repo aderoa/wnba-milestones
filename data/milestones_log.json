@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-05T23:58:00+00:00",
+    "text": "Rachel Banham passed Lindsey Harding for #180 all-time in fouls (career 487) \u2014 up from #181 entering today \u2014 (8:35 - 2nd \u2014 CON @ CHI)",
+    "kind": "rank_pass",
+    "player": "Rachel Banham",
+    "stat": "fouls",
+    "rank": 180,
+    "passed_players": [
+      "Lindsey Harding"
+    ],
+    "new_total": 487
+  },
+  {
     "ts": "2026-06-05T23:56:00+00:00",
     "text": "Rachel Banham passed Danielle Adams for #181 all-time in points (career 1,822) \u2014 up from #182 entering today \u2014 (9:16 - 2nd \u2014 CON @ CHI)",
     "kind": "rank_pass",
@@ -2976,17 +2988,5 @@
     "stat": "fouls",
     "value": 1100,
     "new_total": 1100
-  },
-  {
-    "ts": "2026-05-24T23:53:00+00:00",
-    "text": "Shakira Austin passed Sylvia Crawley for #118 all-time in blocks (career 107) \u2014 (7:33 - 4th \u2014 WSH @ SEA)",
-    "kind": "rank_pass",
-    "player": "Shakira Austin",
-    "stat": "blocks",
-    "rank": 118,
-    "passed_players": [
-      "Sylvia Crawley"
-    ],
-    "new_total": 107
   }
 ]

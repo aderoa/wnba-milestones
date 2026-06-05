@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-05 23:57 UTC_
+_Last updated: 2026-06-05 23:58 UTC_
 
 ## Contents
 
@@ -241,7 +241,7 @@ _Last updated: 2026-06-05 23:57 UTC_
 | 15 | A'ja Wilson | 2,574 |
 | 15 | DeLisha Milton-Jones | 2,574 |
 | 17 | Breanna Stewart | 2,560 |
-| 18 | **Brittney Griner** 🔴 +2 | 2,550 |
+| 18 | **Brittney Griner** 🔴 +3 | 2,551 |
 | 19 | Swin Cash | 2,521 |
 | 20 | Michelle Snow | 2,476 |
 | 21 | Crystal Langhorne | 2,454 |
@@ -1443,8 +1443,8 @@ _Last updated: 2026-06-05 23:57 UTC_
 | 192 | Isabelle Harrison | 300 |
 | 193 | Crystal Robinson | 299 |
 | 194 | Michele Timms | 297 |
-| 195 | Kayla Thornton | 294 |
-| 195 | **Rachel Banham** 🔴 | 294 |
+| 195 | **Rachel Banham** 🔴 +1 | 295 |
+| 196 | Kayla Thornton | 294 |
 | 197 | **Azurá Stevens** 🔴 | 292 |
 | 198 | Natisha Hiedeman | 289 |
 | 199 | Alexis Hornbuckle | 288 |
@@ -1633,8 +1633,8 @@ _Last updated: 2026-06-05 23:57 UTC_
 | 177 | Ann Wauters | 493 |
 | 177 | Riquna Williams | 493 |
 | 179 | Charde Houston | 487 |
-| 180 | Lindsey Harding | 486 |
-| 180 | **Rachel Banham** 🔴 | 486 |
+| 179 | **Rachel Banham** 🔴 +1 | 487 |
+| 181 | Lindsey Harding | 486 |
 | 182 | Cathrine Kraayeveld | 484 |
 | 182 | Isabelle Harrison | 484 |
 | 184 | Liz Cambage | 483 |
