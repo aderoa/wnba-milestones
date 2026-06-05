@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-05T23:59:00+00:00",
+    "text": "Brittney Griner passed Alex Bentley for #91 all-time in assists (career 646) \u2014 up from #92 entering today \u2014 (7:55 - 2nd \u2014 CON @ CHI)",
+    "kind": "rank_pass",
+    "player": "Brittney Griner",
+    "stat": "assists",
+    "rank": 91,
+    "passed_players": [
+      "Alex Bentley"
+    ],
+    "new_total": 646
+  },
+  {
     "ts": "2026-06-05T23:58:00+00:00",
     "text": "Rachel Banham passed Lindsey Harding for #180 all-time in fouls (career 487) \u2014 up from #181 entering today \u2014 (8:35 - 2nd \u2014 CON @ CHI)",
     "kind": "rank_pass",
@@ -2979,14 +2991,5 @@
       "Sheryl Swoopes"
     ],
     "new_total": 271
-  },
-  {
-    "ts": "2026-05-25T00:13:00+00:00",
-    "text": "Stefanie Dolson reached 1,100 career fouls (now 1,100) \u2014 (1:42 - 4th \u2014 WSH @ SEA)",
-    "kind": "round",
-    "player": "Stefanie Dolson",
-    "stat": "fouls",
-    "value": 1100,
-    "new_total": 1100
   }
 ]

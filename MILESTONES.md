@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-05 23:59 UTC
+
+- **Brittney Griner** passed **Alex Bentley** for **#91** all-time in assists (career 646) — up from #92 entering today — _7:55 - 2nd — CON @ CHI_
+
 ## 2026-06-05 23:58 UTC
 
 - **Rachel Banham** passed **Lindsey Harding** for **#180** all-time in fouls (career 487) — up from #181 entering today — _8:35 - 2nd — CON @ CHI_
