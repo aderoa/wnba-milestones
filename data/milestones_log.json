@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-05T02:16:00+00:00",
+    "text": "Gabby Williams passed Charlotte Smith for #171 all-time in rebounds (career 795) \u2014 up from #172 entering today \u2014 (6:17 - 3rd \u2014 GS @ MIN)",
+    "kind": "rank_pass",
+    "player": "Gabby Williams",
+    "stat": "rebounds",
+    "rank": 171,
+    "passed_players": [
+      "Charlotte Smith"
+    ],
+    "new_total": 795
+  },
+  {
     "ts": "2026-06-05T02:14:00+00:00",
     "text": "Cecilia Zandalasini reached 100 career turnovers (now 100) \u2014 (7:18 - 3rd \u2014 GS @ MIN)",
     "kind": "round",
@@ -2977,17 +2989,5 @@
       "Moriah Jefferson"
     ],
     "new_total": 217
-  },
-  {
-    "ts": "2026-05-23T00:13:00+00:00",
-    "text": "Gabby Williams passed Moriah Jefferson for #183 all-time in turnovers (career 315) \u2014 up from #185 entering today \u2014 (5:40 - 2nd \u2014 GS @ IND)",
-    "kind": "rank_pass",
-    "player": "Gabby Williams",
-    "stat": "turnovers",
-    "rank": 183,
-    "passed_players": [
-      "Moriah Jefferson"
-    ],
-    "new_total": 315
   }
 ]

@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-05 02:15 UTC_
+_Last updated: 2026-06-05 02:16 UTC_
 
 ## Contents
 
@@ -394,8 +394,8 @@ _Last updated: 2026-06-05 02:15 UTC_
 | 168 | Carolyn Swords | 814 |
 | 169 | Tierra Ruffin-Pratt | 799 |
 | 170 | Betnijah Laney-Hamilton | 795 |
-| 171 | Charlotte Smith | 794 |
-| 171 | **Gabby Williams** 🔴 +4 | 794 |
+| 170 | **Gabby Williams** 🔴 +5 | 795 |
+| 172 | Charlotte Smith | 794 |
 | 173 | Rhonda Mapp | 788 |
 | 174 | Mercedes Russell | 786 |
 | 175 | Odyssey Sims | 784 |
@@ -1277,7 +1277,7 @@ _Last updated: 2026-06-05 02:15 UTC_
 | 25 | Alana Beard | 854 |
 | 26 | DeWanna Bonner | 835 |
 | 27 | Katie Douglas | 824 |
-| 28 | **Natasha Howard** 🔴 +1 | 820 |
+| 28 | **Natasha Howard** 🔴 +2 | 821 |
 | 29 | Betty Lennox | 800 |
 | 30 | Jasmine Thomas | 796 |
 | 31 | Nneka Ogwumike | 795 |
@@ -1586,7 +1586,7 @@ _Last updated: 2026-06-05 02:15 UTC_
 | 128 | Hamchetou Maiga-Ba | 580 |
 | 128 | Olympia Scott | 580 |
 | 131 | Ezi Magbegor | 576 |
-| 132 | **Courtney Williams** 🔴 | 572 |
+| 132 | **Courtney Williams** 🔴 +1 | 573 |
 | 133 | Le'coe Willingham | 571 |
 | 134 | Ashley Robinson | 567 |
 | 135 | Ivory Latta | 565 |
