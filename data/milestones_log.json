@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-05T02:43:00+00:00",
+    "text": "Courtney Williams passed Vickie Johnson for #52 all-time in points (career 4,231) \u2014 up from #55 entering today \u2014 (5:26 - 4th \u2014 GS @ MIN)",
+    "kind": "rank_pass",
+    "player": "Courtney Williams",
+    "stat": "points",
+    "rank": 52,
+    "passed_players": [
+      "Vickie Johnson"
+    ],
+    "new_total": 4231
+  },
+  {
     "ts": "2026-06-05T02:41:00+00:00",
     "text": "Cecilia Zandalasini passed Amber Jacobs for #200 all-time in three-pointers (career 102) \u2014 new to top 200 today \u2014 (6:45 - 4th \u2014 GS @ MIN)",
     "kind": "rank_pass",
@@ -2971,17 +2983,5 @@
       "Jackie Young"
     ],
     "new_total": 515
-  },
-  {
-    "ts": "2026-05-23T00:42:00+00:00",
-    "text": "Odyssey Sims passed Sue Wicks for #175 all-time in rebounds (career 781) \u2014 (8:48 - 3rd \u2014 DAL @ ATL)",
-    "kind": "rank_pass",
-    "player": "Odyssey Sims",
-    "stat": "rebounds",
-    "rank": 175,
-    "passed_players": [
-      "Sue Wicks"
-    ],
-    "new_total": 781
   }
 ]
