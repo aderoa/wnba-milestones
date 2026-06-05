@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-05 01:53 UTC_
+_Last updated: 2026-06-05 01:54 UTC_
 
 ## Contents
 
@@ -300,7 +300,7 @@ _Last updated: 2026-06-05 01:53 UTC_
 | 74 | Courtney Vandersloot | 1,383 |
 | 74 | Katie Smith | 1,383 |
 | 76 | Ebony Hoffman | 1,376 |
-| 77 | **Kayla Thornton** 🔴 +3 | 1,358 |
+| 77 | **Kayla Thornton** 🔴 +4 | 1,359 |
 | 78 | Sheri Sam | 1,356 |
 | 79 | Tamika Whitmore | 1,355 |
 | 80 | Emma Meesseman | 1,350 |
@@ -320,8 +320,8 @@ _Last updated: 2026-06-05 01:53 UTC_
 | 94 | Myisha Hines-Allen | 1,239 |
 | 95 | Brianna Turner | 1,237 |
 | 96 | Seimone Augustus | 1,228 |
-| 97 | Chelsea Gray | 1,221 |
-| 97 | **Kayla McBride** 🔴 +3 | 1,221 |
+| 97 | **Kayla McBride** 🔴 +4 | 1,222 |
+| 98 | Chelsea Gray | 1,221 |
 | 99 | Jia Perkins | 1,220 |
 | 100 | DeMya Walker | 1,199 |
 | 101 | Latasha Byears | 1,190 |
@@ -395,7 +395,7 @@ _Last updated: 2026-06-05 01:53 UTC_
 | 169 | Tierra Ruffin-Pratt | 799 |
 | 170 | Betnijah Laney-Hamilton | 795 |
 | 171 | Charlotte Smith | 794 |
-| 172 | **Gabby Williams** 🔴 +3 | 793 |
+| 171 | **Gabby Williams** 🔴 +4 | 794 |
 | 173 | Rhonda Mapp | 788 |
 | 174 | Mercedes Russell | 786 |
 | 175 | Odyssey Sims | 784 |
@@ -704,7 +704,7 @@ _Last updated: 2026-06-05 01:53 UTC_
 | 68 | Jantel Lavender | 170 |
 | 69 | Camille Smith | 169 |
 | 70 | Shameka Christon | 165 |
-| 71 | **Nia Coffey** 🔴 +1 | 161 |
+| 71 | **Nia Coffey** 🔴 +2 | 162 |
 | 72 | Cheryl Ford | 160 |
 | 73 | Kara Braxton | 157 |
 | 74 | Allisha Gray | 156 |

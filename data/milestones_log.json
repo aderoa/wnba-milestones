@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-05T01:54:00+00:00",
+    "text": "Kayla McBride passed Chelsea Gray for #97 all-time in rebounds (career 1,222) \u2014 up from #99 entering today \u2014 (Halftime \u2014 GS @ MIN)",
+    "kind": "rank_pass",
+    "player": "Kayla McBride",
+    "stat": "rebounds",
+    "rank": 97,
+    "passed_players": [
+      "Chelsea Gray"
+    ],
+    "new_total": 1222
+  },
+  {
     "ts": "2026-06-05T01:53:00+00:00",
     "text": "Kayla McBride passed Jia Perkins for #98 all-time in rebounds (career 1,221) \u2014 up from #99 entering today \u2014 (34.8 - 2nd \u2014 GS @ MIN)",
     "kind": "rank_pass",
@@ -2980,18 +2992,5 @@
       "Andrea Stinson"
     ],
     "new_total": 512
-  },
-  {
-    "ts": "2026-05-23T00:03:00+00:00",
-    "text": "Monique Billings passed Brittany Boyd-Jones and Chiney Ogwumike for #191 all-time in steals (career 177) \u2014 up from #193 entering today \u2014 (7:04 - 2nd \u2014 GS @ IND)",
-    "kind": "rank_pass",
-    "player": "Monique Billings",
-    "stat": "steals",
-    "rank": 191,
-    "passed_players": [
-      "Brittany Boyd-Jones",
-      "Chiney Ogwumike"
-    ],
-    "new_total": 177
   }
 ]
