@@ -1,5 +1,14 @@
 [
   {
+    "ts": "2026-06-05T23:40:00+00:00",
+    "text": "Aneesah Morrow reached 400 career rebounds (now 400) \u2014 (5:14 - 1st \u2014 CON @ CHI)",
+    "kind": "round",
+    "player": "Aneesah Morrow",
+    "stat": "rebounds",
+    "value": 400,
+    "new_total": 400
+  },
+  {
     "ts": "2026-06-05T23:38:00+00:00",
     "text": "Azur\u00e1 Stevens passed Alanna Smith for #191 all-time in fouls (career 471) \u2014 up from #192 entering today \u2014 (6:26 - 1st \u2014 CON @ CHI)",
     "kind": "rank_pass",
@@ -2980,17 +2989,5 @@
       "Ashley Robinson"
     ],
     "new_total": 735
-  },
-  {
-    "ts": "2026-05-24T21:07:00+00:00",
-    "text": "Jonquel Jones passed Candice Dupree for #44 all-time in fouls (career 877) \u2014 up from #45 entering today \u2014 (11.5 - 3rd \u2014 DAL @ NY)",
-    "kind": "rank_pass",
-    "player": "Jonquel Jones",
-    "stat": "fouls",
-    "rank": 44,
-    "passed_players": [
-      "Candice Dupree"
-    ],
-    "new_total": 877
   }
 ]
