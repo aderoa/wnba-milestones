@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-05 01:07 UTC
+
+- **Rhyne Howard** passed **Ruth Riley** for **#137** all-time in steals (career 232) — up from #140 entering today — _1:28 - 4th — ATL @ IND_
+
 ## 2026-06-05 01:05 UTC
 
 - **Aliyah Boston** passed **Cathrine Kraayeveld** for **#166** all-time in points (career 1,927) — up from #173 entering today — _1:54 - 4th — ATL @ IND_

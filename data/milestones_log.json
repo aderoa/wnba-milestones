@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-05T01:07:00+00:00",
+    "text": "Rhyne Howard passed Ruth Riley for #137 all-time in steals (career 232) \u2014 up from #140 entering today \u2014 (1:28 - 4th \u2014 ATL @ IND)",
+    "kind": "rank_pass",
+    "player": "Rhyne Howard",
+    "stat": "steals",
+    "rank": 137,
+    "passed_players": [
+      "Ruth Riley"
+    ],
+    "new_total": 232
+  },
+  {
     "ts": "2026-06-05T01:05:00+00:00",
     "text": "Aliyah Boston passed Cathrine Kraayeveld for #166 all-time in points (career 1,927) \u2014 up from #173 entering today \u2014 (1:54 - 4th \u2014 ATL @ IND)",
     "kind": "rank_pass",
@@ -2988,18 +3000,5 @@
     "stat": "three-pointers",
     "value": 600,
     "new_total": 600
-  },
-  {
-    "ts": "2026-05-22T02:13:00+00:00",
-    "text": "Ariel Atkins passed Betty Lennox and Plenette Pierson for #89 all-time in assists (career 652) \u2014 (5:50 - 1st \u2014 LA @ PHX)",
-    "kind": "rank_pass",
-    "player": "Ariel Atkins",
-    "stat": "assists",
-    "rank": 89,
-    "passed_players": [
-      "Betty Lennox",
-      "Plenette Pierson"
-    ],
-    "new_total": 652
   }
 ]

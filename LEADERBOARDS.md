@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-05 01:06 UTC_
+_Last updated: 2026-06-05 01:07 UTC_
 
 ## Contents
 
@@ -381,7 +381,7 @@ _Last updated: 2026-06-05 01:06 UTC_
 | 155 | Shameka Christon | 867 |
 | 156 | Alanna Smith | 862 |
 | 156 | Krystal Thomas | 862 |
-| 158 | **Nia Coffey** 🔴 | 848 |
+| 158 | **Nia Coffey** 🔴 +1 | 849 |
 | 159 | Marina Mabrey | 846 |
 | 160 | Leilani Mitchell | 845 |
 | 161 | Essence Carson | 833 |
@@ -395,7 +395,7 @@ _Last updated: 2026-06-05 01:06 UTC_
 | 169 | Tierra Ruffin-Pratt | 799 |
 | 170 | Betnijah Laney-Hamilton | 795 |
 | 171 | Charlotte Smith | 794 |
-| 172 | **Gabby Williams** 🔴 | 790 |
+| 172 | **Gabby Williams** 🔴 +1 | 791 |
 | 173 | Rhonda Mapp | 788 |
 | 174 | Mercedes Russell | 786 |
 | 175 | Odyssey Sims | 784 |
@@ -975,8 +975,8 @@ _Last updated: 2026-06-05 01:06 UTC_
 | 134 | Marissa Coleman | 236 |
 | 135 | Nikki McCray | 235 |
 | 136 | Merlakia Jones | 232 |
-| 137 | **Rhyne Howard** 🔴 +2 | 231 |
-| 137 | Ruth Riley | 231 |
+| 136 | **Rhyne Howard** 🔴 +3 | 232 |
+| 138 | Ruth Riley | 231 |
 | 139 | Scholanda Dorrell | 230 |
 | 140 | Kara Lawson | 229 |
 | 141 | Wendy Palmer | 226 |
@@ -1334,8 +1334,8 @@ _Last updated: 2026-06-05 01:06 UTC_
 | 83 | Kara Braxton | 570 |
 | 84 | Breanna Stewart | 569 |
 | 85 | Nikki McCray | 565 |
+| 86 | **Kelsey Mitchell** 🔴 +1 | 563 |
 | 86 | Sancho Lyttle | 563 |
-| 87 | **Kelsey Mitchell** 🔴 | 562 |
 | 88 | Tan White | 557 |
 | 89 | Lauren Jackson | 549 |
 | 90 | Matee Ajavon | 544 |
@@ -1471,7 +1471,7 @@ _Last updated: 2026-06-05 01:06 UTC_
 | 15 | Swin Cash | 1,146 |
 | 16 | Taj McWilliams-Franklin | 1,145 |
 | 17 | Monique Currie | 1,137 |
-| 18 | **Natasha Howard** 🔴 | 1,121 |
+| 18 | **Natasha Howard** 🔴 +1 | 1,122 |
 | 19 | Stefanie Dolson | 1,114 |
 | 20 | Tanisha Wright | 1,109 |
 | 21 | Michelle Snow | 1,108 |
