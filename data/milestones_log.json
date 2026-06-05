@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-05T01:49:00+00:00",
+    "text": "Gabby Williams passed Moriah Jefferson for #190 all-time in points (career 1,723) \u2014 up from #191 entering today \u2014 (2:26 - 2nd \u2014 GS @ MIN)",
+    "kind": "rank_pass",
+    "player": "Gabby Williams",
+    "stat": "points",
+    "rank": 190,
+    "passed_players": [
+      "Moriah Jefferson"
+    ],
+    "new_total": 1723
+  },
+  {
     "ts": "2026-06-05T01:48:00+00:00",
     "text": "Kayla Thornton passed Sheri Sam for #77 all-time in rebounds (career 1,357) \u2014 up from #78 entering today \u2014 (3:07 - 2nd \u2014 GS @ MIN)",
     "kind": "rank_pass",
@@ -2981,17 +2993,5 @@
       "Alex Bentley"
     ],
     "new_total": 314
-  },
-  {
-    "ts": "2026-05-22T23:47:00+00:00",
-    "text": "Tiffany Hayes passed Monique Currie for #54 all-time in steals (career 379) \u2014 up from #55 entering today \u2014 (3:09 - 1st \u2014 GS @ IND)",
-    "kind": "rank_pass",
-    "player": "Tiffany Hayes",
-    "stat": "steals",
-    "rank": 54,
-    "passed_players": [
-      "Monique Currie"
-    ],
-    "new_total": 379
   }
 ]

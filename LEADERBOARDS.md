@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-05 01:48 UTC_
+_Last updated: 2026-06-05 01:49 UTC_
 
 ## Contents
 
@@ -208,8 +208,8 @@ _Last updated: 2026-06-05 01:48 UTC_
 | 187 | Sandy Brondello | 1,759 |
 | 188 | Sophie Cunningham | 1,752 |
 | 189 | Sugar Rodgers | 1,733 |
-| 190 | Moriah Jefferson | 1,722 |
-| 191 | **Gabby Williams** 🔴 +2 | 1,720 |
+| 190 | **Gabby Williams** 🔴 +5 | 1,723 |
+| 191 | Moriah Jefferson | 1,722 |
 | 192 | Armintie Herrington | 1,696 |
 | 193 | Nikki Teasley | 1,690 |
 | 194 | Shenise Johnson | 1,688 |
@@ -547,7 +547,7 @@ _Last updated: 2026-06-05 01:48 UTC_
 | 116 | Janel McCarville | 551 |
 | 116 | Svetlana Abrosimova | 551 |
 | 118 | Michele Timms | 549 |
-| 119 | **Veronica Burton** 🔴 +1 | 535 |
+| 119 | **Veronica Burton** 🔴 +2 | 536 |
 | 120 | Marie Ferdinand-Harris | 528 |
 | 121 | Margo Dydek | 524 |
 | 122 | Myisha Hines-Allen | 520 |
@@ -872,7 +872,7 @@ _Last updated: 2026-06-05 01:48 UTC_
 | 31 | Skylar Diggins | 453 |
 | 32 | Tina Thompson | 452 |
 | 33 | Maya Moore | 449 |
-| 34 | **Natasha Howard** 🔴 +1 | 448 |
+| 34 | **Natasha Howard** 🔴 | 447 |
 | 35 | Chelsea Gray | 445 |
 | 35 | Jewell Loyd | 445 |
 | 37 | Sheri Sam | 438 |
@@ -925,7 +925,7 @@ _Last updated: 2026-06-05 01:48 UTC_
 | 84 | Matee Ajavon | 328 |
 | 85 | Napheesa Collier | 325 |
 | 86 | Betty Lennox | 323 |
-| 87 | **Courtney Williams** 🔴 | 320 |
+| 87 | **Courtney Williams** 🔴 +1 | 321 |
 | 88 | Tammy Sutton-Brown | 319 |
 | 89 | Plenette Pierson | 317 |
 | 89 | Temeka Johnson | 317 |
@@ -1203,8 +1203,8 @@ _Last updated: 2026-06-05 01:48 UTC_
 | 157 | Coco Miller | 139 |
 | 158 | Loree Moore | 138 |
 | 158 | Tanisha Wright | 138 |
+| 160 | **Gabby Williams** 🔴 +1 | 137 |
 | 160 | Kaleena Mosqueda-Lewis | 137 |
-| 161 | **Gabby Williams** 🔴 | 136 |
 | 162 | Shay Murphy | 134 |
 | 163 | Brooke Wyckoff | 132 |
 | 163 | Jenna O'Hea | 132 |
@@ -1277,7 +1277,7 @@ _Last updated: 2026-06-05 01:48 UTC_
 | 25 | Alana Beard | 854 |
 | 26 | DeWanna Bonner | 835 |
 | 27 | Katie Douglas | 824 |
-| 28 | **Natasha Howard** 🔴 | 819 |
+| 28 | **Natasha Howard** 🔴 +1 | 820 |
 | 29 | Betty Lennox | 800 |
 | 30 | Jasmine Thomas | 796 |
 | 31 | Nneka Ogwumike | 795 |
@@ -1472,7 +1472,7 @@ _Last updated: 2026-06-05 01:48 UTC_
 | 15 | Swin Cash | 1,146 |
 | 16 | Taj McWilliams-Franklin | 1,145 |
 | 17 | Monique Currie | 1,137 |
-| 18 | **Natasha Howard** 🔴 +1 | 1,122 |
+| 18 | **Natasha Howard** 🔴 +2 | 1,123 |
 | 19 | Stefanie Dolson | 1,114 |
 | 20 | Tanisha Wright | 1,109 |
 | 21 | Michelle Snow | 1,108 |
