@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-05 00:20 UTC_
+_Last updated: 2026-06-05 00:21 UTC_
 
 ## Contents
 
@@ -47,8 +47,8 @@ _Last updated: 2026-06-05 00:20 UTC_
 | 26 | Kayla McBride | 5,508 |
 | 27 | Swin Cash | 5,119 |
 | 28 | Tangela Smith | 5,035 |
-| 29 | **Kelsey Mitchell** 🔴 +14 | 4,992 |
-| 29 | Taj McWilliams-Franklin | 4,992 |
+| 29 | **Kelsey Mitchell** 🔴 +16 | 4,994 |
+| 30 | Taj McWilliams-Franklin | 4,992 |
 | 31 | Maya Moore | 4,984 |
 | 32 | Tiffany Hayes | 4,970 |
 | 33 | Sheryl Swoopes | 4,875 |
@@ -186,9 +186,9 @@ _Last updated: 2026-06-05 00:20 UTC_
 | 165 | Kedra Holland-Corn | 1,938 |
 | 166 | Cathrine Kraayeveld | 1,926 |
 | 167 | Roneeka Hodges | 1,925 |
-| 168 | Latasha Byears | 1,920 |
-| 169 | **Aliyah Boston** 🔴 +10 | 1,919 |
-| 169 | Karima Christmas-Kelly | 1,919 |
+| 168 | **Aliyah Boston** 🔴 +12 | 1,921 |
+| 169 | Latasha Byears | 1,920 |
+| 170 | Karima Christmas-Kelly | 1,919 |
 | 171 | Jessica Breland | 1,918 |
 | 172 | **Myisha Hines-Allen** 🔴 +2 | 1,915 |
 | 172 | Nakia Sanford | 1,915 |
@@ -369,8 +369,8 @@ _Last updated: 2026-06-05 00:20 UTC_
 | 143 | Janell Burse | 944 |
 | 144 | Merlakia Jones | 927 |
 | 145 | Nicky Anosike | 922 |
+| 146 | **Angel Reese** 🔴 +8 | 921 |
 | 146 | Satou Sabally | 921 |
-| 147 | **Angel Reese** 🔴 +7 | 920 |
 | 148 | Janeth Arcain | 916 |
 | 149 | Jessica Shepard | 912 |
 | 150 | Karima Christmas-Kelly | 908 |
@@ -551,7 +551,7 @@ _Last updated: 2026-06-05 00:20 UTC_
 | 120 | Marie Ferdinand-Harris | 528 |
 | 121 | Margo Dydek | 524 |
 | 122 | **Myisha Hines-Allen** 🔴 +1 | 520 |
-| 123 | **Caitlin Clark** 🔴 +5 | 514 |
+| 123 | **Caitlin Clark** 🔴 +7 | 516 |
 | 124 | Iziane Castro Marques | 509 |
 | 125 | Brittany Boyd-Jones | 508 |
 | 125 | Chasity Melvin | 508 |
@@ -714,7 +714,7 @@ _Last updated: 2026-06-05 00:20 UTC_
 | 77 | Sue Wicks | 153 |
 | 79 | Jessica Davenport | 151 |
 | 80 | Alison Bales | 148 |
-| 81 | **Aliyah Boston** 🔴 +1 | 145 |
+| 81 | **Aliyah Boston** 🔴 +2 | 146 |
 | 82 | Chamique Holdsclaw | 143 |
 | 83 | Shavonte Zellous | 139 |
 | 84 | Penny Taylor | 136 |
@@ -1170,8 +1170,8 @@ _Last updated: 2026-06-05 00:20 UTC_
 | 124 | Shatori Walker-Kimbrough | 174 |
 | 124 | Tayler Hill | 174 |
 | 126 | Theresa Plaisance | 172 |
-| 127 | Amanda Lassiter | 170 |
-| 127 | **Caitlin Clark** 🔴 +1 | 170 |
+| 127 | **Caitlin Clark** 🔴 +2 | 171 |
+| 128 | Amanda Lassiter | 170 |
 | 129 | Shavonte Zellous | 167 |
 | 129 | Tianna Hawkins | 167 |
 | 131 | Marine Johannès | 165 |

@@ -1,5 +1,42 @@
 [
   {
+    "ts": "2026-06-05T00:21:00+00:00",
+    "text": "Aliyah Boston passed Latasha Byears and Karima Christmas-Kelly for #168 all-time in points (career 1,921) \u2014 up from #173 entering today \u2014 (4:42 - 3rd \u2014 ATL @ IND)",
+    "kind": "rank_pass",
+    "player": "Aliyah Boston",
+    "stat": "points",
+    "rank": 168,
+    "passed_players": [
+      "Latasha Byears",
+      "Karima Christmas-Kelly"
+    ],
+    "new_total": 1921
+  },
+  {
+    "ts": "2026-06-05T00:21:00+00:00",
+    "text": "Kelsey Mitchell passed Taj McWilliams-Franklin for #29 all-time in points (career 4,994) \u2014 up from #31 entering today \u2014 (4:42 - 3rd \u2014 ATL @ IND)",
+    "kind": "rank_pass",
+    "player": "Kelsey Mitchell",
+    "stat": "points",
+    "rank": 29,
+    "passed_players": [
+      "Taj McWilliams-Franklin"
+    ],
+    "new_total": 4994
+  },
+  {
+    "ts": "2026-06-05T00:21:00+00:00",
+    "text": "Caitlin Clark passed Amanda Lassiter for #127 all-time in three-pointers (career 171) \u2014 up from #128 entering today \u2014 (4:42 - 3rd \u2014 ATL @ IND)",
+    "kind": "rank_pass",
+    "player": "Caitlin Clark",
+    "stat": "three-pointers",
+    "rank": 127,
+    "passed_players": [
+      "Amanda Lassiter"
+    ],
+    "new_total": 171
+  },
+  {
     "ts": "2026-06-05T00:20:00+00:00",
     "text": "Naz Hillmon reached 1,000 career points (now 1,001) \u2014 (5:58 - 3rd \u2014 ATL @ IND)",
     "kind": "round",
@@ -2973,42 +3010,5 @@
       "Kara Braxton"
     ],
     "new_total": 158
-  },
-  {
-    "ts": "2026-05-22T01:27:00+00:00",
-    "text": "Marina Mabrey passed Kia Vaughn and Sophia Witherspoon for #161 all-time in steals (career 209) \u2014 up from #163 entering today \u2014 (2:27 - 3rd \u2014 TOR @ MIN)",
-    "kind": "rank_pass",
-    "player": "Marina Mabrey",
-    "stat": "steals",
-    "rank": 161,
-    "passed_players": [
-      "Kia Vaughn",
-      "Sophia Witherspoon"
-    ],
-    "new_total": 209
-  },
-  {
-    "ts": "2026-05-22T01:25:00+00:00",
-    "text": "Kayla Thornton passed Marissa Coleman for #146 all-time in blocks (career 89) \u2014 up from #147 entering today \u2014 (4:42 - 3rd \u2014 GS @ NY)",
-    "kind": "rank_pass",
-    "player": "Kayla Thornton",
-    "stat": "blocks",
-    "rank": 146,
-    "passed_players": [
-      "Marissa Coleman"
-    ],
-    "new_total": 89
-  },
-  {
-    "ts": "2026-05-22T01:20:00+00:00",
-    "text": "Kayla Thornton passed Erlana Larkins for #83 all-time in rebounds (career 1,330) \u2014 up from #86 entering today \u2014 (5:06 - 3rd \u2014 GS @ NY)",
-    "kind": "rank_pass",
-    "player": "Kayla Thornton",
-    "stat": "rebounds",
-    "rank": 83,
-    "passed_players": [
-      "Erlana Larkins"
-    ],
-    "new_total": 1330
   }
 ]

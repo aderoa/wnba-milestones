@@ -2,6 +2,12 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-05 00:21 UTC
+
+- **Aliyah Boston** passed **Latasha Byears** and **Karima Christmas-Kelly** for **#168** all-time in points (career 1,921) — up from #173 entering today — _4:42 - 3rd — ATL @ IND_
+- **Kelsey Mitchell** passed **Taj McWilliams-Franklin** for **#29** all-time in points (career 4,994) — up from #31 entering today — _4:42 - 3rd — ATL @ IND_
+- **Caitlin Clark** passed **Amanda Lassiter** for **#127** all-time in three-pointers (career 171) — up from #128 entering today — _4:42 - 3rd — ATL @ IND_
+
 ## 2026-06-05 00:20 UTC
 
 - **Naz Hillmon** reached **1,000** career points (now 1,001) — _5:58 - 3rd — ATL @ IND_
