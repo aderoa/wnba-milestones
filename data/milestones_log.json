@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-06-05T00:51:00+00:00",
+    "text": "Myisha Hines-Allen passed Adrienne Goodson and Janeth Arcain for #161 all-time in fouls (career 513) \u2014 up from #164 entering today \u2014 (4:39 - 4th \u2014 ATL @ IND)",
+    "kind": "rank_pass",
+    "player": "Myisha Hines-Allen",
+    "stat": "fouls",
+    "rank": 161,
+    "passed_players": [
+      "Adrienne Goodson",
+      "Janeth Arcain"
+    ],
+    "new_total": 513
+  },
+  {
     "ts": "2026-06-05T00:45:00+00:00",
     "text": "Angel Reese passed Nicky Anosike for #145 all-time in rebounds (career 923) \u2014 up from #148 entering today \u2014 (6:02 - 4th \u2014 ATL @ IND)",
     "kind": "rank_pass",
@@ -2988,17 +3001,5 @@
       "Teaira McCowan"
     ],
     "new_total": 619
-  },
-  {
-    "ts": "2026-05-22T01:44:00+00:00",
-    "text": "Kia Nurse passed Azur\u00e1 Stevens for #141 all-time in points (career 2,221) \u2014 up from #146 entering today \u2014 (7:47 - 4th \u2014 TOR @ MIN)",
-    "kind": "rank_pass",
-    "player": "Kia Nurse",
-    "stat": "points",
-    "rank": 141,
-    "passed_players": [
-      "Azur\u00e1 Stevens"
-    ],
-    "new_total": 2221
   }
 ]
