@@ -2,6 +2,59 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-05 13:51 UTC
+
+- **Naz Hillmon** passed **Marlies Askamp** for **#164** all-time in rebounds (career 827) — up from #165 entering today — _Final — ATL @ IND_
+- **Angel Reese** passed **Merlakia Jones** and **Satou Sabally** for **#144** all-time in rebounds (career 933) — up from #146 entering today — _Final — ATL @ IND_
+- **Allisha Gray** passed **Lauren Jackson** and **Tan White** for **#62** all-time in steals (career 362) — _Final — ATL @ IND_
+- **Allisha Gray** passed **A'ja Wilson** for **#120** all-time in turnovers (career 467) — up from #121 entering today — _Final — ATL @ IND_
+- **Jordin Canada** passed **Azurá Stevens**, **Shekinna Stricklen**, **Kara Braxton**, and **Matee Ajavon** for **#137** all-time in points (career 2,250) — up from #139 entering today — _Final — ATL @ IND_
+- **Jordin Canada** passed **Vickie Johnson** for **#28** all-time in assists (career 1,208) — up from #29 entering today — _Final — ATL @ IND_
+- **Jordin Canada** passed **Tully Bevilaqua** and **Jia Perkins** for **#106** all-time in turnovers (career 515) — up from #108 entering today — _Final — ATL @ IND_
+- **Rhyne Howard** passed **Merlakia Jones** for **#136** all-time in steals (career 235) — up from #137 entering today — _Final — ATL @ IND_
+- **Rhyne Howard** passed **Alysha Clark** for **#40** all-time in three-pointers (career 396) — up from #41 entering today — _Final — ATL @ IND_
+- **Monique Billings** passed **Kara Braxton** for **#71** all-time in rebounds (career 1,390) — up from #72 entering today — _Final — ATL @ IND_
+- **Monique Billings** passed **Brooke Wyckoff** and **Cathrine Kraayeveld** for **#91** all-time in blocks (career 130) — up from #93 entering today — _Final — ATL @ IND_
+- **Monique Billings** passed **Nikki McCray** for **#158** all-time in fouls (career 519) — _Final — ATL @ IND_
+- **Aliyah Boston** passed **Kedra Holland-Corn** for **#165** all-time in points (career 1,947) — up from #166 entering today — _Final — ATL @ IND_
+- **Aliyah Boston** passed **NaLyssa Smith**, **Deanna Nolan**, **Natasha Cloud**, and **Chiney Ogwumike** for **#112** all-time in rebounds (career 1,117) — up from #115 entering today — _Final — ATL @ IND_
+- **Aliyah Boston** reached **400** career assists (now 400) — _Final — ATL @ IND_
+- **Aliyah Boston** passed **Marissa Coleman** for **#168** all-time in assists (career 400) — up from #169 entering today — _Final — ATL @ IND_
+- **Aliyah Boston** passed **Alison Bales** for **#80** all-time in blocks (career 150) — up from #81 entering today — _Final — ATL @ IND_
+- **Kelsey Mitchell** passed **Alexis Hornbuckle** and **Cheryl Ford** for **#142** all-time in steals (career 226) — up from #144 entering today — _Final — ATL @ IND_
+- **Kelsey Mitchell** passed **Sancho Lyttle** for **#87** all-time in turnovers (career 564) — _Final — ATL @ IND_
+- **Caitlin Clark** passed **Margo Dydek** and **Myisha Hines-Allen** for **#121** all-time in assists (career 525) — up from #123 entering today — _Final — ATL @ IND_
+- **Caitlin Clark** passed **Theresa Plaisance** for **#126** all-time in three-pointers (career 173) — up from #127 entering today — _Final — ATL @ IND_
+- **Caitlin Clark** passed **Erlana Larkins**, **Rita Williams**, **Le'coe Willingham**, and **Olympia Scott** for **#177** all-time in turnovers (career 327) — up from #180 entering today — _Final — ATL @ IND_
+- **Myisha Hines-Allen** passed **Latasha Byears**, **Karima Christmas-Kelly**, and **Jessica Breland** for **#169** all-time in points (career 1,923) — up from #172 entering today — _Final — ATL @ IND_
+- **Myisha Hines-Allen** passed **Tiffany Hayes** and **Ezi Magbegor** for **#92** all-time in rebounds (career 1,246) — up from #94 entering today — _Final — ATL @ IND_
+- **Myisha Hines-Allen** passed **Epiphanny Prince** for **#180** all-time in blocks (career 75) — up from #181 entering today — _Final — ATL @ IND_
+- **Myisha Hines-Allen** passed **Alanna Smith** for **#177** all-time in steals (career 191) — up from #178 entering today — _Final — ATL @ IND_
+- **Myisha Hines-Allen** passed **Kamila Vodichkova** for **#154** all-time in turnovers (career 382) — up from #155 entering today — _Final — ATL @ IND_
+- **Myisha Hines-Allen** passed **Sheryl Swoopes**, **Monique Billings**, **Nikki McCray**, and **Alex Bentley** for **#156** all-time in fouls (career 521) — up from #160 entering today — _Final — ATL @ IND_
+- **Sophie Cunningham** passed **Sandy Brondello** for **#187** all-time in points (career 1,760) — up from #188 entering today — _Final — ATL @ IND_
+- **Sophie Cunningham** passed **Sugar Rodgers** for **#63** all-time in three-pointers (career 319) — _Final — ATL @ IND_
+- **Sophie Cunningham** passed **Armintie Herrington** for **#153** all-time in fouls (career 524) — up from #154 entering today — _Final — ATL @ IND_
+- **Kayla Thornton** passed **Alana Beard** for **#77** all-time in three-pointers (career 289) — up from #78 entering today — _Final — GS @ MIN_
+- **Gabby Williams** reached **800** career rebounds (now 800) — _Final — GS @ MIN_
+- **Gabby Williams** passed **Tierra Ruffin-Pratt** and **Betnijah Laney-Hamilton** for **#169** all-time in rebounds (career 800) — up from #171 entering today — _Final — GS @ MIN_
+- **Gabby Williams** passed **Debbie Black** and **Crystal Langhorne** for **#92** all-time in steals (career 316) — up from #94 entering today — _Final — GS @ MIN_
+- **Gabby Williams** passed **Kaleena Mosqueda-Lewis** for **#161** all-time in three-pointers (career 138) — _Final — GS @ MIN_
+- **Cecilia Zandalasini** passed **Laurie Koehn**, **Julie Vanloo**, **Jeanette Pohlen-Mavunga**, and **Kiesha Brown** for **#195** all-time in three-pointers (career 107) — up from #197 entering today — _Final — GS @ MIN_
+- **Kiah Stokes** reached **1,100** career points (now 1,104) — _Final — GS @ MIN_
+- **Kiah Stokes** passed **Janell Burse** for **#107** all-time in fouls (career 633) — up from #108 entering today — _Final — GS @ MIN_
+- **Tiffany Hayes** reached **5,000** career points (now 5,000) — _Final — GS @ MIN_
+- **Tiffany Hayes** passed **Taj McWilliams-Franklin** for **#30** all-time in points (career 5,000) — up from #31 entering today — _Final — GS @ MIN_
+- **Tiffany Hayes** passed **Azurá Stevens** for **#91** all-time in rebounds (career 1,249) — up from #92 entering today — _Final — GS @ MIN_
+- **Nia Coffey** passed **Shameka Christon** for **#70** all-time in blocks (career 166) — up from #71 entering today — _Final — GS @ MIN_
+- **Nia Coffey** passed **Noelle Quinn** for **#118** all-time in three-pointers (career 185) — _Final — GS @ MIN_
+- **Nia Coffey** passed **Seimone Augustus** and **Allie Quigley** for **#187** all-time in fouls (career 478) — up from #189 entering today — _Final — GS @ MIN_
+- **Kayla McBride** passed **Seimone Augustus** for **#96** all-time in rebounds (career 1,234) — up from #97 entering today — _Final — GS @ MIN_
+- **Kayla McBride** passed **Camille Smith** for **#38** all-time in steals (career 438) — up from #39 entering today — _Final — GS @ MIN_
+- **Kayla McBride** passed **Ruth Riley** for **#64** all-time in turnovers (career 638) — up from #65 entering today — _Final — GS @ MIN_
+- **Courtney Williams** passed **Monique Currie** for **#51** all-time in points (career 4,255) — up from #52 entering today — _Final — GS @ MIN_
+- **Courtney Williams** passed **Sophia Young-Malcolm**, **Lindsay Whalen**, and **Camille Smith** for **#38** all-time in rebounds (career 1,808) — up from #41 entering today — _Final — GS @ MIN_
+
 ## 2026-06-05 03:06 UTC
 
 - **Tiffany Hayes** passed **Maya Moore** for **#30** all-time in points (career 4,985) — up from #32 entering today — _33.8 - 4th — GS @ MIN_
