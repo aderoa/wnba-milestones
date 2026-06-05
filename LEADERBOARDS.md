@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-05 01:46 UTC_
+_Last updated: 2026-06-05 01:47 UTC_
 
 ## Contents
 
@@ -872,7 +872,7 @@ _Last updated: 2026-06-05 01:46 UTC_
 | 31 | Skylar Diggins | 453 |
 | 32 | Tina Thompson | 452 |
 | 33 | Maya Moore | 449 |
-| 34 | **Natasha Howard** 🔴 | 447 |
+| 34 | **Natasha Howard** 🔴 +1 | 448 |
 | 35 | Chelsea Gray | 445 |
 | 35 | Jewell Loyd | 445 |
 | 37 | Sheri Sam | 438 |
@@ -932,7 +932,7 @@ _Last updated: 2026-06-05 01:46 UTC_
 | 91 | Alysha Clark | 316 |
 | 92 | Debbie Black | 315 |
 | 93 | Crystal Langhorne | 314 |
-| 94 | **Gabby Williams** 🔴 | 312 |
+| 94 | **Gabby Williams** 🔴 +1 | 313 |
 | 95 | Ebony Hoffman | 308 |
 | 96 | Tamera Young | 305 |
 | 97 | Kedra Holland-Corn | 301 |
@@ -1431,7 +1431,7 @@ _Last updated: 2026-06-05 01:46 UTC_
 | 179 | Le'coe Willingham | 325 |
 | 180 | Caitlin Clark | 324 |
 | 180 | Olympia Scott | 324 |
-| 182 | **Gabby Williams** 🔴 | 319 |
+| 182 | **Gabby Williams** 🔴 +1 | 320 |
 | 183 | Kia Nurse | 316 |
 | 184 | Barbara Farris | 315 |
 | 185 | Moriah Jefferson | 314 |
