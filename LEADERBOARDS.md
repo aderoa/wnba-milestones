@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-05 01:03 UTC_
+_Last updated: 2026-06-05 01:04 UTC_
 
 ## Contents
 
@@ -496,7 +496,7 @@ _Last updated: 2026-06-05 01:03 UTC_
 | 65 | Tully Bevilaqua | 853 |
 | 66 | Brittney Sykes | 851 |
 | 67 | Jia Perkins | 837 |
-| 68 | **Kelsey Mitchell** 🔴 +1 | 820 |
+| 68 | **Kelsey Mitchell** 🔴 +2 | 821 |
 | 69 | Andrea Stinson | 810 |
 | 70 | Tina Thompson | 803 |
 | 71 | Epiphanny Prince | 800 |
