@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-05 02:38 UTC
+
+- **Cecilia Zandalasini** reached **600** career points (now 600) — _8:31 - 4th — GS @ MIN_
+
 ## 2026-06-05 02:25 UTC
 
 - **Tiffany Hayes** passed **Kelsey Mitchell** for **#31** all-time in points (career 4,979) — up from #32 entering today — _2:58 - 3rd — GS @ MIN_

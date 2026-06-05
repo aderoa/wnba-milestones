@@ -1,5 +1,14 @@
 [
   {
+    "ts": "2026-06-05T02:38:00+00:00",
+    "text": "Cecilia Zandalasini reached 600 career points (now 600) \u2014 (8:31 - 4th \u2014 GS @ MIN)",
+    "kind": "round",
+    "player": "Cecilia Zandalasini",
+    "stat": "points",
+    "value": 600,
+    "new_total": 600
+  },
+  {
     "ts": "2026-06-05T02:25:00+00:00",
     "text": "Tiffany Hayes passed Kelsey Mitchell for #31 all-time in points (career 4,979) \u2014 up from #32 entering today \u2014 (2:58 - 3rd \u2014 GS @ MIN)",
     "kind": "rank_pass",
@@ -2970,18 +2979,6 @@
     "player": "Rhyne Howard",
     "stat": "blocks",
     "value": 100,
-    "new_total": 100
-  },
-  {
-    "ts": "2026-05-23T00:42:00+00:00",
-    "text": "Rhyne Howard passed Emily Engstler for #131 all-time in blocks (career 100) \u2014 up from #134 entering today \u2014 (8:48 - 3rd \u2014 DAL @ ATL)",
-    "kind": "rank_pass",
-    "player": "Rhyne Howard",
-    "stat": "blocks",
-    "rank": 131,
-    "passed_players": [
-      "Emily Engstler"
-    ],
     "new_total": 100
   }
 ]
