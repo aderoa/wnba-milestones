@@ -2,6 +2,11 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-05 01:10 UTC
+
+- **Kayla Thornton** passed **Tamika Whitmore** for **#79** all-time in rebounds (career 1,356) — _7:11 - 1st — GS @ MIN_
+- **Kayla Thornton** passed **Bridget Carleton** for **#78** all-time in three-pointers (career 288) — up from #79 entering today — _7:11 - 1st — GS @ MIN_
+
 ## 2026-06-05 01:07 UTC
 
 - **Rhyne Howard** passed **Ruth Riley** for **#137** all-time in steals (career 232) — up from #140 entering today — _1:28 - 4th — ATL @ IND_

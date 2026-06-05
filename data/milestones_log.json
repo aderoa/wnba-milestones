@@ -1,5 +1,29 @@
 [
   {
+    "ts": "2026-06-05T01:10:00+00:00",
+    "text": "Kayla Thornton passed Tamika Whitmore for #79 all-time in rebounds (career 1,356) \u2014 (7:11 - 1st \u2014 GS @ MIN)",
+    "kind": "rank_pass",
+    "player": "Kayla Thornton",
+    "stat": "rebounds",
+    "rank": 79,
+    "passed_players": [
+      "Tamika Whitmore"
+    ],
+    "new_total": 1356
+  },
+  {
+    "ts": "2026-06-05T01:10:00+00:00",
+    "text": "Kayla Thornton passed Bridget Carleton for #78 all-time in three-pointers (career 288) \u2014 up from #79 entering today \u2014 (7:11 - 1st \u2014 GS @ MIN)",
+    "kind": "rank_pass",
+    "player": "Kayla Thornton",
+    "stat": "three-pointers",
+    "rank": 78,
+    "passed_players": [
+      "Bridget Carleton"
+    ],
+    "new_total": 288
+  },
+  {
     "ts": "2026-06-05T01:07:00+00:00",
     "text": "Rhyne Howard passed Ruth Riley for #137 all-time in steals (career 232) \u2014 up from #140 entering today \u2014 (1:28 - 4th \u2014 ATL @ IND)",
     "kind": "rank_pass",
@@ -2978,27 +3002,5 @@
       "Jia Perkins"
     ],
     "new_total": 635
-  },
-  {
-    "ts": "2026-05-22T02:37:00+00:00",
-    "text": "Natasha Mack passed Erin Perperoglou and Glory Johnson for #114 all-time in blocks (career 109) \u2014 up from #116 entering today \u2014 (8:44 - 2nd \u2014 LA @ PHX)",
-    "kind": "rank_pass",
-    "player": "Natasha Mack",
-    "stat": "blocks",
-    "rank": 114,
-    "passed_players": [
-      "Erin Perperoglou",
-      "Glory Johnson"
-    ],
-    "new_total": 109
-  },
-  {
-    "ts": "2026-05-22T02:18:00+00:00",
-    "text": "Kelsey Plum reached 600 career three-pointers (now 600) \u2014 (4:51 - 1st \u2014 LA @ PHX)",
-    "kind": "round",
-    "player": "Kelsey Plum",
-    "stat": "three-pointers",
-    "value": 600,
-    "new_total": 600
   }
 ]

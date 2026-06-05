@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-05 01:09 UTC_
+_Last updated: 2026-06-05 01:10 UTC_
 
 ## Contents
 
@@ -150,7 +150,7 @@ _Last updated: 2026-06-05 01:09 UTC_
 | 129 | Anna DeForge | 2,413 |
 | 130 | DeMya Walker | 2,379 |
 | 131 | Alex Bentley | 2,350 |
-| 132 | **Kayla Thornton** 🔴 | 2,324 |
+| 132 | **Kayla Thornton** 🔴 +3 | 2,327 |
 | 133 | Merlakia Jones | 2,308 |
 | 134 | Kia Vaughn | 2,288 |
 | 135 | Betnijah Laney-Hamilton | 2,281 |
@@ -249,7 +249,7 @@ _Last updated: 2026-06-05 01:09 UTC_
 | 23 | Yolanda Griffith | 2,440 |
 | 24 | Dearica Hamby | 2,386 |
 | 25 | Tangela Smith | 2,328 |
-| 26 | **Natasha Howard** 🔴 | 2,243 |
+| 26 | **Natasha Howard** 🔴 +1 | 2,244 |
 | 27 | Erika de Souza | 2,220 |
 | 28 | Diana Taurasi | 2,201 |
 | 29 | Margo Dydek | 2,138 |
@@ -300,9 +300,9 @@ _Last updated: 2026-06-05 01:09 UTC_
 | 74 | Courtney Vandersloot | 1,383 |
 | 74 | Katie Smith | 1,383 |
 | 76 | Ebony Hoffman | 1,376 |
+| 77 | **Kayla Thornton** 🔴 +1 | 1,356 |
 | 77 | Sheri Sam | 1,356 |
-| 78 | **Kayla Thornton** 🔴 | 1,355 |
-| 78 | Tamika Whitmore | 1,355 |
+| 79 | Tamika Whitmore | 1,355 |
 | 80 | Emma Meesseman | 1,350 |
 | 81 | Jewell Loyd | 1,349 |
 | 82 | Elena Baranova | 1,335 |
@@ -445,7 +445,7 @@ _Last updated: 2026-06-05 01:09 UTC_
 | 14 | Danielle Robinson | 1,480 |
 | 15 | Shannon Johnson | 1,423 |
 | 15 | Tanisha Wright | 1,423 |
-| 17 | **Courtney Williams** 🔴 | 1,402 |
+| 17 | **Courtney Williams** 🔴 +1 | 1,403 |
 | 18 | Temeka Johnson | 1,382 |
 | 19 | Jasmine Thomas | 1,355 |
 | 20 | Briann January | 1,339 |
@@ -547,7 +547,7 @@ _Last updated: 2026-06-05 01:09 UTC_
 | 116 | Janel McCarville | 551 |
 | 116 | Svetlana Abrosimova | 551 |
 | 118 | Michele Timms | 549 |
-| 119 | **Veronica Burton** 🔴 | 534 |
+| 119 | **Veronica Burton** 🔴 +1 | 535 |
 | 120 | Marie Ferdinand-Harris | 528 |
 | 121 | Margo Dydek | 524 |
 | 122 | **Myisha Hines-Allen** 🔴 +1 | 520 |
@@ -1121,8 +1121,8 @@ _Last updated: 2026-06-05 01:09 UTC_
 | 75 | Candice Wiggins | 290 |
 | 75 | Tully Bevilaqua | 290 |
 | 77 | Alana Beard | 288 |
-| 78 | Bridget Carleton | 287 |
-| 78 | **Kayla Thornton** 🔴 | 287 |
+| 77 | **Kayla Thornton** 🔴 +1 | 288 |
+| 79 | Bridget Carleton | 287 |
 | 80 | Monique Currie | 284 |
 | 81 | Iziane Castro Marques | 275 |
 | 82 | Stefanie Dolson | 273 |
