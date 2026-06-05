@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-05 23:36 UTC
+
+- **Diamond Miller** reached **700** career points (now 701) — _7:36 - 1st — CON @ CHI_
+
 ## 2026-06-05 13:51 UTC
 
 - **Naz Hillmon** passed **Marlies Askamp** for **#164** all-time in rebounds (career 827) — up from #165 entering today — _Final — ATL @ IND_

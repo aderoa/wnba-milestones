@@ -1,5 +1,14 @@
 [
   {
+    "ts": "2026-06-05T23:36:00+00:00",
+    "text": "Diamond Miller reached 700 career points (now 701) \u2014 (7:36 - 1st \u2014 CON @ CHI)",
+    "kind": "round",
+    "player": "Diamond Miller",
+    "stat": "points",
+    "value": 700,
+    "new_total": 701
+  },
+  {
     "ts": "2026-06-05T13:51:00+00:00",
     "text": "Naz Hillmon passed Marlies Askamp for #164 all-time in rebounds (career 827) \u2014 up from #165 entering today \u2014 (Final \u2014 ATL @ IND)",
     "kind": "rank_pass",
@@ -2984,14 +2993,5 @@
       "Jordin Canada"
     ],
     "new_total": 2176
-  },
-  {
-    "ts": "2026-05-24T20:52:00+00:00",
-    "text": "Jordin Canada reached 600 career rebounds (now 600) \u2014 (2:59 - 4th \u2014 PHX @ ATL)",
-    "kind": "round",
-    "player": "Jordin Canada",
-    "stat": "rebounds",
-    "value": 600,
-    "new_total": 600
   }
 ]
