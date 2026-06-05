@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-05T00:34:00+00:00",
+    "text": "Rhyne Howard passed Scholanda Dorrell for #138 all-time in steals (career 231) \u2014 up from #140 entering today \u2014 (End of 3rd \u2014 ATL @ IND)",
+    "kind": "rank_pass",
+    "player": "Rhyne Howard",
+    "stat": "steals",
+    "rank": 138,
+    "passed_players": [
+      "Scholanda Dorrell"
+    ],
+    "new_total": 231
+  },
+  {
     "ts": "2026-06-05T00:32:00+00:00",
     "text": "Myisha Hines-Allen passed Andrea Stinson for #163 all-time in fouls (career 512) \u2014 up from #164 entering today \u2014 (38.0 - 3rd \u2014 ATL @ IND)",
     "kind": "rank_pass",
@@ -2988,18 +3000,5 @@
       "Marie Ferdinand-Harris"
     ],
     "new_total": 647
-  },
-  {
-    "ts": "2026-05-22T01:38:00+00:00",
-    "text": "Kia Nurse passed Janel McCarville and Teaira McCowan for #142 all-time in points (career 2,216) \u2014 up from #146 entering today \u2014 (9:16 - 4th \u2014 TOR @ MIN)",
-    "kind": "rank_pass",
-    "player": "Kia Nurse",
-    "stat": "points",
-    "rank": 142,
-    "passed_players": [
-      "Janel McCarville",
-      "Teaira McCowan"
-    ],
-    "new_total": 2216
   }
 ]
