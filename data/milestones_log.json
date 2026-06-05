@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-05T02:18:00+00:00",
+    "text": "Kiah Stokes passed Nicole Ohlde for #109 all-time in fouls (career 632) \u2014 (5:23 - 3rd \u2014 GS @ MIN)",
+    "kind": "rank_pass",
+    "player": "Kiah Stokes",
+    "stat": "fouls",
+    "rank": 109,
+    "passed_players": [
+      "Nicole Ohlde"
+    ],
+    "new_total": 632
+  },
+  {
     "ts": "2026-06-05T02:16:00+00:00",
     "text": "Gabby Williams passed Charlotte Smith for #171 all-time in rebounds (career 795) \u2014 up from #172 entering today \u2014 (6:17 - 3rd \u2014 GS @ MIN)",
     "kind": "rank_pass",
@@ -2976,18 +2988,5 @@
       "Kedra Holland-Corn"
     ],
     "new_total": 439
-  },
-  {
-    "ts": "2026-05-23T00:17:00+00:00",
-    "text": "Rhyne Howard passed Adrian Williams-Strong and Moriah Jefferson for #149 all-time in steals (career 217) \u2014 up from #155 entering today \u2014 (1:48 - 2nd \u2014 DAL @ ATL)",
-    "kind": "rank_pass",
-    "player": "Rhyne Howard",
-    "stat": "steals",
-    "rank": 149,
-    "passed_players": [
-      "Adrian Williams-Strong",
-      "Moriah Jefferson"
-    ],
-    "new_total": 217
   }
 ]
