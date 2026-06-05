@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-05T01:44:00+00:00",
+    "text": "Gabby Williams passed Napheesa Collier for #109 all-time in assists (career 571) \u2014 up from #110 entering today \u2014 (4:36 - 2nd \u2014 GS @ MIN)",
+    "kind": "rank_pass",
+    "player": "Gabby Williams",
+    "stat": "assists",
+    "rank": 109,
+    "passed_players": [
+      "Napheesa Collier"
+    ],
+    "new_total": 571
+  },
+  {
     "ts": "2026-06-05T01:22:00+00:00",
     "text": "Courtney Williams passed Yolanda Griffith for #54 all-time in points (career 4,225) \u2014 up from #55 entering today \u2014 (1:33 - 1st \u2014 GS @ MIN)",
     "kind": "rank_pass",
@@ -2985,17 +2997,5 @@
       "Elena Delle Donne"
     ],
     "new_total": 350
-  },
-  {
-    "ts": "2026-05-22T04:13:00+00:00",
-    "text": "Erica Wheeler passed Briann January for #91 all-time in points (career 3,083) \u2014 up from #92 entering today \u2014 (2:38 - 4th \u2014 LA @ PHX)",
-    "kind": "rank_pass",
-    "player": "Erica Wheeler",
-    "stat": "points",
-    "rank": 91,
-    "passed_players": [
-      "Briann January"
-    ],
-    "new_total": 3083
   }
 ]

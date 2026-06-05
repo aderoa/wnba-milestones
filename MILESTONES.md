@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-05 01:44 UTC
+
+- **Gabby Williams** passed **Napheesa Collier** for **#109** all-time in assists (career 571) — up from #110 entering today — _4:36 - 2nd — GS @ MIN_
+
 ## 2026-06-05 01:22 UTC
 
 - **Courtney Williams** passed **Yolanda Griffith** for **#54** all-time in points (career 4,225) — up from #55 entering today — _1:33 - 1st — GS @ MIN_
