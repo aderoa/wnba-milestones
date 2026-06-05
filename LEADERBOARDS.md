@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-05 00:51 UTC_
+_Last updated: 2026-06-05 00:52 UTC_
 
 ## Contents
 
@@ -1613,8 +1613,8 @@ _Last updated: 2026-06-05 00:51 UTC_
 | 157 | **Monique Billings** 🔴 +2 | 517 |
 | 157 | Nikki McCray | 517 |
 | 159 | Alex Bentley | 516 |
-| 160 | Jantel Lavender | 513 |
-| 160 | **Myisha Hines-Allen** 🔴 +2 | 513 |
+| 160 | **Myisha Hines-Allen** 🔴 +4 | 515 |
+| 161 | Jantel Lavender | 513 |
 | 162 | Adrienne Goodson | 512 |
 | 162 | Janeth Arcain | 512 |
 | 164 | Andrea Stinson | 511 |

@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-05T00:52:00+00:00",
+    "text": "Myisha Hines-Allen passed Jantel Lavender for #160 all-time in fouls (career 515) \u2014 up from #164 entering today \u2014 (4:35 - 4th \u2014 ATL @ IND)",
+    "kind": "rank_pass",
+    "player": "Myisha Hines-Allen",
+    "stat": "fouls",
+    "rank": 160,
+    "passed_players": [
+      "Jantel Lavender"
+    ],
+    "new_total": 515
+  },
+  {
     "ts": "2026-06-05T00:51:00+00:00",
     "text": "Myisha Hines-Allen passed Adrienne Goodson and Janeth Arcain for #161 all-time in fouls (career 513) \u2014 up from #164 entering today \u2014 (4:39 - 4th \u2014 ATL @ IND)",
     "kind": "rank_pass",
@@ -2989,17 +3001,5 @@
       "Ticha Penicheiro"
     ],
     "new_total": 129
-  },
-  {
-    "ts": "2026-05-22T01:50:00+00:00",
-    "text": "Kiah Stokes passed Teaira McCowan for #112 all-time in fouls (career 619) \u2014 up from #114 entering today \u2014 (5:50 - 4th \u2014 GS @ NY)",
-    "kind": "rank_pass",
-    "player": "Kiah Stokes",
-    "stat": "fouls",
-    "rank": 112,
-    "passed_players": [
-      "Teaira McCowan"
-    ],
-    "new_total": 619
   }
 ]
