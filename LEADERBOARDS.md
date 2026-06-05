@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-05 00:10 UTC_
+_Last updated: 2026-06-05 00:11 UTC_
 
 ## Contents
 
@@ -65,7 +65,7 @@ _Last updated: 2026-06-05 00:10 UTC_
 | 43 | Jia Perkins | 4,433 |
 | 45 | Kelsey Plum | 4,368 |
 | 46 | Courtney Vandersloot | 4,352 |
-| 47 | **Allisha Gray** 🔴 +4 | 4,330 |
+| 47 | **Allisha Gray** 🔴 +5 | 4,331 |
 | 48 | Sophia Young-Malcolm | 4,300 |
 | 49 | Kahleah Copper | 4,267 |
 | 50 | Plenette Pierson | 4,258 |
@@ -1612,7 +1612,7 @@ _Last updated: 2026-06-05 00:10 UTC_
 | 156 | Sheryl Swoopes | 519 |
 | 157 | Nikki McCray | 517 |
 | 158 | Alex Bentley | 516 |
-| 159 | **Monique Billings** 🔴 | 515 |
+| 158 | **Monique Billings** 🔴 +1 | 516 |
 | 160 | Jantel Lavender | 513 |
 | 161 | Adrienne Goodson | 512 |
 | 161 | Janeth Arcain | 512 |
