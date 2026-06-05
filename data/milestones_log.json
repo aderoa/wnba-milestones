@@ -1,5 +1,14 @@
 [
   {
+    "ts": "2026-06-05T01:11:00+00:00",
+    "text": "Cecilia Zandalasini reached 100 career three-pointers (now 100) \u2014 (6:05 - 1st \u2014 GS @ MIN)",
+    "kind": "round",
+    "player": "Cecilia Zandalasini",
+    "stat": "three-pointers",
+    "value": 100,
+    "new_total": 100
+  },
+  {
     "ts": "2026-06-05T01:10:00+00:00",
     "text": "Kayla Thornton passed Tamika Whitmore for #79 all-time in rebounds (career 1,356) \u2014 (7:11 - 1st \u2014 GS @ MIN)",
     "kind": "rank_pass",
@@ -2990,17 +2999,5 @@
       "Epiphanny Prince"
     ],
     "new_total": 3382
-  },
-  {
-    "ts": "2026-05-22T02:46:00+00:00",
-    "text": "DeWanna Bonner passed Jia Perkins for #7 all-time in steals (career 635) \u2014 up from #8 entering today \u2014 (4:56 - 2nd \u2014 LA @ PHX)",
-    "kind": "rank_pass",
-    "player": "DeWanna Bonner",
-    "stat": "steals",
-    "rank": 7,
-    "passed_players": [
-      "Jia Perkins"
-    ],
-    "new_total": 635
   }
 ]
