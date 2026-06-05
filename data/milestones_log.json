@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-05T00:32:00+00:00",
+    "text": "Myisha Hines-Allen passed Andrea Stinson for #163 all-time in fouls (career 512) \u2014 up from #164 entering today \u2014 (38.0 - 3rd \u2014 ATL @ IND)",
+    "kind": "rank_pass",
+    "player": "Myisha Hines-Allen",
+    "stat": "fouls",
+    "rank": 163,
+    "passed_players": [
+      "Andrea Stinson"
+    ],
+    "new_total": 512
+  },
+  {
     "ts": "2026-06-05T00:31:00+00:00",
     "text": "Myisha Hines-Allen passed Nakia Sanford for #171 all-time in points (career 1,917) \u2014 up from #172 entering today \u2014 (1:08 - 3rd \u2014 ATL @ IND)",
     "kind": "rank_pass",
@@ -2989,19 +3001,5 @@
       "Teaira McCowan"
     ],
     "new_total": 2216
-  },
-  {
-    "ts": "2026-05-22T01:36:00+00:00",
-    "text": "Satou Sabally passed Cameron Brink, Jackie Young, and Shannon Johnson for #192 all-time in blocks (career 68) \u2014 up from #194 entering today \u2014 (0.0 - 3rd \u2014 GS @ NY)",
-    "kind": "rank_pass",
-    "player": "Satou Sabally",
-    "stat": "blocks",
-    "rank": 192,
-    "passed_players": [
-      "Cameron Brink",
-      "Jackie Young",
-      "Shannon Johnson"
-    ],
-    "new_total": 68
   }
 ]

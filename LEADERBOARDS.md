@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-05 00:31 UTC_
+_Last updated: 2026-06-05 00:32 UTC_
 
 ## Contents
 
@@ -1616,8 +1616,8 @@ _Last updated: 2026-06-05 00:31 UTC_
 | 160 | Jantel Lavender | 513 |
 | 161 | Adrienne Goodson | 512 |
 | 161 | Janeth Arcain | 512 |
-| 163 | Andrea Stinson | 511 |
-| 163 | **Myisha Hines-Allen** 🔴 | 511 |
+| 161 | **Myisha Hines-Allen** 🔴 +1 | 512 |
+| 164 | Andrea Stinson | 511 |
 | 165 | Vicky Bullett | 507 |
 | 166 | Merlakia Jones | 506 |
 | 167 | Rushia Brown | 505 |

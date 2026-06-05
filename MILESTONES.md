@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-05 00:32 UTC
+
+- **Myisha Hines-Allen** passed **Andrea Stinson** for **#163** all-time in fouls (career 512) — up from #164 entering today — _38.0 - 3rd — ATL @ IND_
+
 ## 2026-06-05 00:31 UTC
 
 - **Myisha Hines-Allen** passed **Nakia Sanford** for **#171** all-time in points (career 1,917) — up from #172 entering today — _1:08 - 3rd — ATL @ IND_
