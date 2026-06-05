@@ -1,5 +1,14 @@
 [
   {
+    "ts": "2026-06-05T02:22:00+00:00",
+    "text": "Courtney Williams reached 1,800 career rebounds (now 1,800) \u2014 (4:46 - 3rd \u2014 GS @ MIN)",
+    "kind": "round",
+    "player": "Courtney Williams",
+    "stat": "rebounds",
+    "value": 1800,
+    "new_total": 1800
+  },
+  {
     "ts": "2026-06-05T02:18:00+00:00",
     "text": "Kiah Stokes passed Nicole Ohlde for #109 all-time in fouls (career 632) \u2014 (5:23 - 3rd \u2014 GS @ MIN)",
     "kind": "rank_pass",
@@ -2976,17 +2985,5 @@
       "Natalie Achonwa"
     ],
     "new_total": 99
-  },
-  {
-    "ts": "2026-05-23T00:17:00+00:00",
-    "text": "Alysha Clark passed Kedra Holland-Corn for #132 all-time in turnovers (career 439) \u2014 (1:48 - 2nd \u2014 DAL @ ATL)",
-    "kind": "rank_pass",
-    "player": "Alysha Clark",
-    "stat": "turnovers",
-    "rank": 132,
-    "passed_players": [
-      "Kedra Holland-Corn"
-    ],
-    "new_total": 439
   }
 ]
