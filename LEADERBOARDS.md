@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-05 03:00 UTC_
+_Last updated: 2026-06-05 03:01 UTC_
 
 ## Contents
 
@@ -50,7 +50,7 @@ _Last updated: 2026-06-05 03:00 UTC_
 | 29 | Kelsey Mitchell | 5,003 |
 | 30 | Taj McWilliams-Franklin | 4,992 |
 | 31 | Maya Moore | 4,984 |
-| 32 | **Tiffany Hayes** 🔴 +11 | 4,981 |
+| 32 | **Tiffany Hayes** 🔴 +13 | 4,983 |
 | 33 | Sheryl Swoopes | 4,875 |
 | 34 | Alana Beard | 4,740 |
 | 35 | Chamique Holdsclaw | 4,713 |
@@ -249,7 +249,7 @@ _Last updated: 2026-06-05 03:00 UTC_
 | 23 | Yolanda Griffith | 2,440 |
 | 24 | Dearica Hamby | 2,386 |
 | 25 | Tangela Smith | 2,328 |
-| 26 | **Natasha Howard** 🔴 +9 | 2,252 |
+| 26 | **Natasha Howard** 🔴 +10 | 2,253 |
 | 27 | Erika de Souza | 2,220 |
 | 28 | Diana Taurasi | 2,201 |
 | 29 | Margo Dydek | 2,138 |
@@ -932,7 +932,7 @@ _Last updated: 2026-06-05 03:00 UTC_
 | 91 | Alysha Clark | 316 |
 | 92 | Debbie Black | 315 |
 | 93 | Crystal Langhorne | 314 |
-| 94 | **Gabby Williams** 🔴 +1 | 313 |
+| 93 | **Gabby Williams** 🔴 +2 | 314 |
 | 95 | Ebony Hoffman | 308 |
 | 96 | Tamera Young | 305 |
 | 97 | Kedra Holland-Corn | 301 |
@@ -1585,7 +1585,7 @@ _Last updated: 2026-06-05 03:00 UTC_
 | 128 | Hamchetou Maiga-Ba | 580 |
 | 128 | Olympia Scott | 580 |
 | 131 | Ezi Magbegor | 576 |
-| 132 | **Courtney Williams** 🔴 +1 | 573 |
+| 132 | **Courtney Williams** 🔴 +2 | 574 |
 | 133 | Le'coe Willingham | 571 |
 | 134 | Ashley Robinson | 567 |
 | 135 | Ivory Latta | 565 |
