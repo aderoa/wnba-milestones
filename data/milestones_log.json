@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-05T23:56:00+00:00",
+    "text": "Rachel Banham passed Danielle Adams for #181 all-time in points (career 1,822) \u2014 up from #182 entering today \u2014 (9:16 - 2nd \u2014 CON @ CHI)",
+    "kind": "rank_pass",
+    "player": "Rachel Banham",
+    "stat": "points",
+    "rank": 181,
+    "passed_players": [
+      "Danielle Adams"
+    ],
+    "new_total": 1822
+  },
+  {
     "ts": "2026-06-05T23:43:00+00:00",
     "text": "Azur\u00e1 Stevens passed Jessica Breland, Murriel Page, and Shatori Walker-Kimbrough for #167 all-time in steals (career 205) \u2014 (4:01 - 1st \u2014 CON @ CHI)",
     "kind": "rank_pass",
@@ -2976,20 +2988,5 @@
       "Sylvia Crawley"
     ],
     "new_total": 107
-  },
-  {
-    "ts": "2026-05-24T21:37:00+00:00",
-    "text": "Awak Kuier passed Cameron Brink, Jackie Young, Satou Sabally, and Shannon Johnson for #192 all-time in blocks (career 68) \u2014 up from #196 entering today \u2014 (1:51 - 4th \u2014 DAL @ NY)",
-    "kind": "rank_pass",
-    "player": "Awak Kuier",
-    "stat": "blocks",
-    "rank": 192,
-    "passed_players": [
-      "Cameron Brink",
-      "Jackie Young",
-      "Satou Sabally",
-      "Shannon Johnson"
-    ],
-    "new_total": 68
   }
 ]

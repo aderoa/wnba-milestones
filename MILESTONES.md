@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-05 23:56 UTC
+
+- **Rachel Banham** passed **Danielle Adams** for **#181** all-time in points (career 1,822) — up from #182 entering today — _9:16 - 2nd — CON @ CHI_
+
 ## 2026-06-05 23:43 UTC
 
 - **Azurá Stevens** passed **Jessica Breland**, **Murriel Page**, and **Shatori Walker-Kimbrough** for **#167** all-time in steals (career 205) — _4:01 - 1st — CON @ CHI_
