@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-05 01:30 UTC_
+_Last updated: 2026-06-05 01:31 UTC_
 
 ## Contents
 
@@ -58,7 +58,7 @@ _Last updated: 2026-06-05 01:30 UTC_
 | 37 | Alyssa Thomas | 4,644 |
 | 38 | Penny Taylor | 4,595 |
 | 39 | Arike Ogunbowale | 4,582 |
-| 40 | **Natasha Howard** 🔴 +1 | 4,517 |
+| 40 | **Natasha Howard** 🔴 +3 | 4,519 |
 | 41 | Chelsea Gray | 4,506 |
 | 42 | Kristi Toliver | 4,474 |
 | 43 | Crystal Langhorne | 4,433 |
@@ -249,7 +249,7 @@ _Last updated: 2026-06-05 01:30 UTC_
 | 23 | Yolanda Griffith | 2,440 |
 | 24 | Dearica Hamby | 2,386 |
 | 25 | Tangela Smith | 2,328 |
-| 26 | **Natasha Howard** 🔴 +3 | 2,246 |
+| 26 | **Natasha Howard** 🔴 +4 | 2,247 |
 | 27 | Erika de Souza | 2,220 |
 | 28 | Diana Taurasi | 2,201 |
 | 29 | Margo Dydek | 2,138 |
@@ -381,7 +381,7 @@ _Last updated: 2026-06-05 01:30 UTC_
 | 155 | Shameka Christon | 867 |
 | 156 | Alanna Smith | 862 |
 | 156 | Krystal Thomas | 862 |
-| 158 | **Nia Coffey** 🔴 +1 | 849 |
+| 158 | **Nia Coffey** 🔴 +2 | 850 |
 | 159 | Marina Mabrey | 846 |
 | 160 | Leilani Mitchell | 845 |
 | 161 | Essence Carson | 833 |
@@ -1314,7 +1314,7 @@ _Last updated: 2026-06-05 01:30 UTC_
 | 62 | Sheri Sam | 650 |
 | 63 | Dawn Staley | 643 |
 | 64 | Ruth Riley | 637 |
-| 65 | **Kayla McBride** 🔴 | 634 |
+| 65 | **Kayla McBride** 🔴 +1 | 635 |
 | 66 | Kelsey Plum | 631 |
 | 66 | Svetlana Abrosimova | 631 |
 | 68 | Odyssey Sims | 630 |
