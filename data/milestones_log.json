@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-05T00:19:00+00:00",
+    "text": "Jordin Canada passed Leilani Mitchell for #29 all-time in assists (career 1,198) \u2014 up from #30 entering today \u2014 (6:35 - 3rd \u2014 ATL @ IND)",
+    "kind": "rank_pass",
+    "player": "Jordin Canada",
+    "stat": "assists",
+    "rank": 29,
+    "passed_players": [
+      "Leilani Mitchell"
+    ],
+    "new_total": 1198
+  },
+  {
     "ts": "2026-06-05T00:14:00+00:00",
     "text": "Monique Billings passed Alex Bentley for #158 all-time in fouls (career 517) \u2014 up from #159 entering today \u2014 (7:49 - 3rd \u2014 ATL @ IND)",
     "kind": "rank_pass",
@@ -3001,17 +3013,5 @@
       "Teresa Weatherspoon"
     ],
     "new_total": 776
-  },
-  {
-    "ts": "2026-05-22T01:16:00+00:00",
-    "text": "Veronica Burton passed Leonie Fiebich for #193 all-time in three-pointers (career 107) \u2014 up from #196 entering today \u2014 (7:50 - 3rd \u2014 GS @ NY)",
-    "kind": "rank_pass",
-    "player": "Veronica Burton",
-    "stat": "three-pointers",
-    "rank": 193,
-    "passed_players": [
-      "Leonie Fiebich"
-    ],
-    "new_total": 107
   }
 ]
