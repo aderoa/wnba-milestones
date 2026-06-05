@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-05 01:33 UTC_
+_Last updated: 2026-06-05 01:34 UTC_
 
 ## Contents
 
@@ -877,7 +877,7 @@ _Last updated: 2026-06-05 01:33 UTC_
 | 35 | Jewell Loyd | 445 |
 | 37 | Sheri Sam | 438 |
 | 38 | Camille Smith | 437 |
-| 39 | **Kayla McBride** 🔴 +1 | 435 |
+| 39 | **Kayla McBride** 🔴 +2 | 436 |
 | 40 | Candice Dupree | 431 |
 | 41 | Epiphanny Prince | 429 |
 | 42 | Tanisha Wright | 427 |
