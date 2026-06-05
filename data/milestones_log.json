@@ -1,5 +1,23 @@
 [
   {
+    "ts": "2026-06-05T00:27:00+00:00",
+    "text": "Jordin Canada reached 1,200 career assists (now 1,200) \u2014 (2:50 - 3rd \u2014 ATL @ IND)",
+    "kind": "round",
+    "player": "Jordin Canada",
+    "stat": "assists",
+    "value": 1200,
+    "new_total": 1200
+  },
+  {
+    "ts": "2026-06-05T00:27:00+00:00",
+    "text": "Kelsey Mitchell reached 5,000 career points (now 5,000) \u2014 (2:50 - 3rd \u2014 ATL @ IND)",
+    "kind": "round",
+    "player": "Kelsey Mitchell",
+    "stat": "points",
+    "value": 5000,
+    "new_total": 5000
+  },
+  {
     "ts": "2026-06-05T00:21:00+00:00",
     "text": "Aliyah Boston passed Latasha Byears and Karima Christmas-Kelly for #168 all-time in points (career 1,921) \u2014 up from #173 entering today \u2014 (4:42 - 3rd \u2014 ATL @ IND)",
     "kind": "rank_pass",
@@ -2986,29 +3004,5 @@
       "Loree Moore"
     ],
     "new_total": 256
-  },
-  {
-    "ts": "2026-05-22T01:35:00+00:00",
-    "text": "Satou Sabally passed Olympia Scott for #179 all-time in turnovers (career 325) \u2014 up from #180 entering today \u2014 (53.8 - 3rd \u2014 GS @ NY)",
-    "kind": "rank_pass",
-    "player": "Satou Sabally",
-    "stat": "turnovers",
-    "rank": 179,
-    "passed_players": [
-      "Olympia Scott"
-    ],
-    "new_total": 325
-  },
-  {
-    "ts": "2026-05-22T01:32:00+00:00",
-    "text": "Nia Coffey passed Kara Braxton for #72 all-time in blocks (career 158) \u2014 up from #73 entering today \u2014 (17.5 - 3rd \u2014 TOR @ MIN)",
-    "kind": "rank_pass",
-    "player": "Nia Coffey",
-    "stat": "blocks",
-    "rank": 72,
-    "passed_players": [
-      "Kara Braxton"
-    ],
-    "new_total": 158
   }
 ]

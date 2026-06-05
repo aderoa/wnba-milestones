@@ -2,6 +2,11 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-05 00:27 UTC
+
+- **Jordin Canada** reached **1,200** career assists (now 1,200) — _2:50 - 3rd — ATL @ IND_
+- **Kelsey Mitchell** reached **5,000** career points (now 5,000) — _2:50 - 3rd — ATL @ IND_
+
 ## 2026-06-05 00:21 UTC
 
 - **Aliyah Boston** passed **Latasha Byears** and **Karima Christmas-Kelly** for **#168** all-time in points (career 1,921) — up from #173 entering today — _4:42 - 3rd — ATL @ IND_
