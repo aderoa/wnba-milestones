@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-05 00:13 UTC_
+_Last updated: 2026-06-05 00:14 UTC_
 
 ## Contents
 
@@ -65,7 +65,7 @@ _Last updated: 2026-06-05 00:13 UTC_
 | 43 | Jia Perkins | 4,433 |
 | 45 | Kelsey Plum | 4,368 |
 | 46 | Courtney Vandersloot | 4,352 |
-| 47 | **Allisha Gray** 🔴 +7 | 4,333 |
+| 47 | **Allisha Gray** 🔴 +9 | 4,335 |
 | 48 | Sophia Young-Malcolm | 4,300 |
 | 49 | Kahleah Copper | 4,267 |
 | 50 | Plenette Pierson | 4,258 |
@@ -388,7 +388,7 @@ _Last updated: 2026-06-05 00:13 UTC_
 | 162 | Kristi Toliver | 829 |
 | 163 | Marie Ferdinand-Harris | 828 |
 | 164 | Marlies Askamp | 822 |
-| 165 | **Naz Hillmon** 🔴 +4 | 821 |
+| 164 | **Naz Hillmon** 🔴 +5 | 822 |
 | 166 | Amanda Zahui B | 819 |
 | 166 | Barbara Farris | 819 |
 | 168 | Carolyn Swords | 814 |
@@ -457,8 +457,8 @@ _Last updated: 2026-06-05 00:13 UTC_
 | 26 | Kelsey Plum | 1,231 |
 | 27 | Odyssey Sims | 1,228 |
 | 28 | Vickie Johnson | 1,202 |
+| 29 | **Jordin Canada** 🔴 +3 | 1,197 |
 | 29 | Leilani Mitchell | 1,197 |
-| 30 | **Jordin Canada** 🔴 +2 | 1,196 |
 | 31 | DeWanna Bonner | 1,186 |
 | 32 | Jewell Loyd | 1,144 |
 | 33 | Renee Montgomery | 1,140 |
@@ -1610,9 +1610,9 @@ _Last updated: 2026-06-05 00:13 UTC_
 | 154 | Kayla McBride | 522 |
 | 154 | **Sophie Cunningham** 🔴 | 522 |
 | 156 | Sheryl Swoopes | 519 |
+| 157 | **Monique Billings** 🔴 +2 | 517 |
 | 157 | Nikki McCray | 517 |
-| 158 | Alex Bentley | 516 |
-| 158 | **Monique Billings** 🔴 +1 | 516 |
+| 159 | Alex Bentley | 516 |
 | 160 | Jantel Lavender | 513 |
 | 161 | Adrienne Goodson | 512 |
 | 161 | Janeth Arcain | 512 |
