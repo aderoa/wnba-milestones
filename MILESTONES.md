@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-05 01:21 UTC
+
+- **Courtney Williams** passed **Vickie Johnson** for **#59** all-time in turnovers (career 661) — up from #60 entering today — _1:58 - 1st — GS @ MIN_
+
 ## 2026-06-05 01:15 UTC
 
 - **Myisha Hines-Allen** passed **Monique Billings** for **#159** all-time in fouls (career 516) — up from #164 entering today — _Final — ATL @ IND_

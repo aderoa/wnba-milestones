@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-05T01:21:00+00:00",
+    "text": "Courtney Williams passed Vickie Johnson for #59 all-time in turnovers (career 661) \u2014 up from #60 entering today \u2014 (1:58 - 1st \u2014 GS @ MIN)",
+    "kind": "rank_pass",
+    "player": "Courtney Williams",
+    "stat": "turnovers",
+    "rank": 59,
+    "passed_players": [
+      "Vickie Johnson"
+    ],
+    "new_total": 661
+  },
+  {
     "ts": "2026-06-05T01:15:00+00:00",
     "text": "Myisha Hines-Allen passed Monique Billings for #159 all-time in fouls (career 516) \u2014 up from #164 entering today \u2014 (Final \u2014 ATL @ IND)",
     "kind": "rank_pass",
@@ -2986,17 +2998,5 @@
       "Wendy Palmer"
     ],
     "new_total": 71
-  },
-  {
-    "ts": "2026-05-22T03:38:00+00:00",
-    "text": "Kahleah Copper passed Shekinna Stricklen for #157 all-time in steals (career 214) \u2014 (3:30 - 3rd \u2014 LA @ PHX)",
-    "kind": "rank_pass",
-    "player": "Kahleah Copper",
-    "stat": "steals",
-    "rank": 157,
-    "passed_players": [
-      "Shekinna Stricklen"
-    ],
-    "new_total": 214
   }
 ]
