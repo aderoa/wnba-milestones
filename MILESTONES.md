@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-05 01:15 UTC
+
+- **Myisha Hines-Allen** passed **Monique Billings** for **#159** all-time in fouls (career 516) — up from #164 entering today — _Final — ATL @ IND_
+
 ## 2026-06-05 01:13 UTC
 
 - **Sophie Cunningham** passed **Kayla McBride** for **#154** all-time in fouls (career 523) — up from #155 entering today — _29.6 - 4th — ATL @ IND_
