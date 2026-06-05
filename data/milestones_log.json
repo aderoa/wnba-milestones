@@ -1,5 +1,29 @@
 [
   {
+    "ts": "2026-06-05T01:48:00+00:00",
+    "text": "Kayla Thornton passed Sheri Sam for #77 all-time in rebounds (career 1,357) \u2014 up from #78 entering today \u2014 (3:07 - 2nd \u2014 GS @ MIN)",
+    "kind": "rank_pass",
+    "player": "Kayla Thornton",
+    "stat": "rebounds",
+    "rank": 77,
+    "passed_players": [
+      "Sheri Sam"
+    ],
+    "new_total": 1357
+  },
+  {
+    "ts": "2026-06-05T01:48:00+00:00",
+    "text": "Nia Coffey passed Cheryl Ford for #71 all-time in blocks (career 161) \u2014 up from #72 entering today \u2014 (3:07 - 2nd \u2014 GS @ MIN)",
+    "kind": "rank_pass",
+    "player": "Nia Coffey",
+    "stat": "blocks",
+    "rank": 71,
+    "passed_players": [
+      "Cheryl Ford"
+    ],
+    "new_total": 161
+  },
+  {
     "ts": "2026-06-05T01:44:00+00:00",
     "text": "Gabby Williams passed Napheesa Collier for #109 all-time in assists (career 571) \u2014 up from #110 entering today \u2014 (4:36 - 2nd \u2014 GS @ MIN)",
     "kind": "rank_pass",
@@ -2969,33 +2993,5 @@
       "Monique Currie"
     ],
     "new_total": 379
-  },
-  {
-    "ts": "2026-05-22T23:43:00+00:00",
-    "text": "Rhyne Howard passed Asjha Jones, Candice Wiggins, Cheyenne Parker-Tyus, and Elena Baranova for #151 all-time in steals (career 216) \u2014 up from #155 entering today \u2014 (4:42 - 1st \u2014 DAL @ ATL)",
-    "kind": "rank_pass",
-    "player": "Rhyne Howard",
-    "stat": "steals",
-    "rank": 151,
-    "passed_players": [
-      "Asjha Jones",
-      "Candice Wiggins",
-      "Cheyenne Parker-Tyus",
-      "Elena Baranova"
-    ],
-    "new_total": 216
-  },
-  {
-    "ts": "2026-05-22T04:18:00+00:00",
-    "text": "DeWanna Bonner passed Diana Taurasi and Elena Delle Donne for #24 all-time in blocks (career 350) \u2014 (50.2 - 4th \u2014 LA @ PHX)",
-    "kind": "rank_pass",
-    "player": "DeWanna Bonner",
-    "stat": "blocks",
-    "rank": 24,
-    "passed_players": [
-      "Diana Taurasi",
-      "Elena Delle Donne"
-    ],
-    "new_total": 350
   }
 ]

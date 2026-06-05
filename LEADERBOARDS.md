@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-05 01:47 UTC_
+_Last updated: 2026-06-05 01:48 UTC_
 
 ## Contents
 
@@ -58,7 +58,7 @@ _Last updated: 2026-06-05 01:47 UTC_
 | 37 | Alyssa Thomas | 4,644 |
 | 38 | Penny Taylor | 4,595 |
 | 39 | Arike Ogunbowale | 4,582 |
-| 40 | **Natasha Howard** 🔴 +3 | 4,519 |
+| 40 | **Natasha Howard** 🔴 +5 | 4,521 |
 | 41 | Chelsea Gray | 4,506 |
 | 42 | Kristi Toliver | 4,474 |
 | 43 | Crystal Langhorne | 4,433 |
@@ -300,8 +300,8 @@ _Last updated: 2026-06-05 01:47 UTC_
 | 74 | Courtney Vandersloot | 1,383 |
 | 74 | Katie Smith | 1,383 |
 | 76 | Ebony Hoffman | 1,376 |
-| 77 | **Kayla Thornton** 🔴 +1 | 1,356 |
-| 77 | Sheri Sam | 1,356 |
+| 77 | **Kayla Thornton** 🔴 +2 | 1,357 |
+| 78 | Sheri Sam | 1,356 |
 | 79 | Tamika Whitmore | 1,355 |
 | 80 | Emma Meesseman | 1,350 |
 | 81 | Jewell Loyd | 1,349 |
@@ -381,7 +381,7 @@ _Last updated: 2026-06-05 01:47 UTC_
 | 155 | Shameka Christon | 867 |
 | 156 | Alanna Smith | 862 |
 | 156 | Krystal Thomas | 862 |
-| 158 | **Nia Coffey** 🔴 +3 | 851 |
+| 158 | **Nia Coffey** 🔴 +4 | 852 |
 | 159 | Marina Mabrey | 846 |
 | 160 | Leilani Mitchell | 845 |
 | 161 | Essence Carson | 833 |
@@ -445,7 +445,7 @@ _Last updated: 2026-06-05 01:47 UTC_
 | 14 | Danielle Robinson | 1,480 |
 | 15 | Shannon Johnson | 1,423 |
 | 15 | Tanisha Wright | 1,423 |
-| 17 | **Courtney Williams** 🔴 +2 | 1,404 |
+| 17 | **Courtney Williams** 🔴 +3 | 1,405 |
 | 18 | Temeka Johnson | 1,382 |
 | 19 | Jasmine Thomas | 1,355 |
 | 20 | Briann January | 1,339 |
@@ -473,7 +473,7 @@ _Last updated: 2026-06-05 01:47 UTC_
 | 42 | Sheryl Swoopes | 1,037 |
 | 43 | Tina Charles | 1,033 |
 | 44 | Nikki Teasley | 982 |
-| 45 | **Kayla McBride** 🔴 +1 | 967 |
+| 45 | **Kayla McBride** 🔴 +2 | 968 |
 | 46 | Tamecka Dixon | 960 |
 | 47 | Breanna Stewart | 949 |
 | 48 | Kara Lawson | 946 |
@@ -704,8 +704,8 @@ _Last updated: 2026-06-05 01:47 UTC_
 | 68 | Jantel Lavender | 170 |
 | 69 | Camille Smith | 169 |
 | 70 | Shameka Christon | 165 |
-| 71 | Cheryl Ford | 160 |
-| 71 | **Nia Coffey** 🔴 | 160 |
+| 71 | **Nia Coffey** 🔴 +1 | 161 |
+| 72 | Cheryl Ford | 160 |
 | 73 | Kara Braxton | 157 |
 | 74 | Allisha Gray | 156 |
 | 75 | DeMya Walker | 155 |
@@ -1308,7 +1308,7 @@ _Last updated: 2026-06-05 01:47 UTC_
 | 56 | Tammy Sutton-Brown | 672 |
 | 57 | Deanna Nolan | 669 |
 | 58 | Chasity Melvin | 666 |
-| 59 | **Courtney Williams** 🔴 +2 | 661 |
+| 59 | **Courtney Williams** 🔴 +3 | 662 |
 | 60 | Vickie Johnson | 660 |
 | 61 | Yolanda Griffith | 653 |
 | 62 | Sheri Sam | 650 |

@@ -2,6 +2,11 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-05 01:48 UTC
+
+- **Kayla Thornton** passed **Sheri Sam** for **#77** all-time in rebounds (career 1,357) — up from #78 entering today — _3:07 - 2nd — GS @ MIN_
+- **Nia Coffey** passed **Cheryl Ford** for **#71** all-time in blocks (career 161) — up from #72 entering today — _3:07 - 2nd — GS @ MIN_
+
 ## 2026-06-05 01:44 UTC
 
 - **Gabby Williams** passed **Napheesa Collier** for **#109** all-time in assists (career 571) — up from #110 entering today — _4:36 - 2nd — GS @ MIN_
