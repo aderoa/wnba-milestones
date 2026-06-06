@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-06 03:16 UTC_
+_Last updated: 2026-06-06 03:17 UTC_
 
 ## Contents
 
@@ -63,7 +63,7 @@ _Last updated: 2026-06-06 03:16 UTC_
 | 42 | Kristi Toliver | 4,474 |
 | 43 | Crystal Langhorne | 4,433 |
 | 43 | Jia Perkins | 4,433 |
-| 45 | **Kelsey Plum** 🔴 +13 | 4,381 |
+| 45 | **Kelsey Plum** 🔴 +15 | 4,383 |
 | 46 | Courtney Vandersloot | 4,352 |
 | 47 | Allisha Gray | 4,339 |
 | 48 | Sophia Young-Malcolm | 4,300 |
@@ -412,7 +412,7 @@ _Last updated: 2026-06-06 03:16 UTC_
 | 186 | Layshia Clarendon | 756 |
 | 187 | Brooke Wyckoff | 751 |
 | 188 | Coco Miller | 750 |
-| 189 | **Arike Ogunbowale** 🔴 +4 | 746 |
+| 189 | **Arike Ogunbowale** 🔴 +5 | 747 |
 | 190 | Alex Montgomery | 735 |
 | 191 | Ashley Robinson | 734 |
 | 192 | Shenise Johnson | 729 |
@@ -451,7 +451,7 @@ _Last updated: 2026-06-06 03:16 UTC_
 | 20 | Briann January | 1,339 |
 | 21 | Dawn Staley | 1,337 |
 | 22 | Teresa Weatherspoon | 1,333 |
-| 23 | **Erica Wheeler** 🔴 +3 | 1,303 |
+| 23 | **Erica Wheeler** 🔴 +4 | 1,304 |
 | 24 | Kristi Toliver | 1,301 |
 | 25 | Katie Smith | 1,258 |
 | 26 | **Kelsey Plum** 🔴 +4 | 1,235 |
@@ -1349,7 +1349,7 @@ _Last updated: 2026-06-06 03:16 UTC_
 | 98 | Kara Lawson | 526 |
 | 99 | Leilani Mitchell | 525 |
 | 99 | Nicole Powell | 525 |
-| 101 | **Arike Ogunbowale** 🔴 +2 | 519 |
+| 101 | **Arike Ogunbowale** 🔴 +3 | 520 |
 | 102 | Marie Ferdinand-Harris | 518 |
 | 102 | Sabrina Ionescu | 518 |
 | 104 | Shavonte Zellous | 517 |
