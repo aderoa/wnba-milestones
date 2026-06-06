@@ -1,5 +1,29 @@
 [
   {
+    "ts": "2026-06-06T19:09:00+00:00",
+    "text": "Chelsea Gray passed Jewell Loyd for #36 all-time in steals (career 446) \u2014 (7:28 - 1st \u2014 GS @ LV)",
+    "kind": "rank_pass",
+    "player": "Chelsea Gray",
+    "stat": "steals",
+    "rank": 36,
+    "passed_players": [
+      "Jewell Loyd"
+    ],
+    "new_total": 446
+  },
+  {
+    "ts": "2026-06-06T19:09:00+00:00",
+    "text": "Jackie Young passed Jasmine Thomas for #73 all-time in points (career 3,525) \u2014 (7:28 - 1st \u2014 GS @ LV)",
+    "kind": "rank_pass",
+    "player": "Jackie Young",
+    "stat": "points",
+    "rank": 73,
+    "passed_players": [
+      "Jasmine Thomas"
+    ],
+    "new_total": 3525
+  },
+  {
     "ts": "2026-06-06T19:07:00+00:00",
     "text": "Chelsea Gray passed Taj McWilliams-Franklin for #22 all-time in turnovers (career 899) \u2014 (8:29 - 1st \u2014 GS @ LV)",
     "kind": "rank_pass",
@@ -2943,29 +2967,5 @@
       "Courtney Williams"
     ],
     "new_total": 4222
-  },
-  {
-    "ts": "2026-06-04T01:13:00+00:00",
-    "text": "Brittney Sykes passed Shannon Johnson for #106 all-time in rebounds (career 1,144) \u2014 up from #107 entering today \u2014 (6:24 - 4th \u2014 TOR @ NY)",
-    "kind": "rank_pass",
-    "player": "Brittney Sykes",
-    "stat": "rebounds",
-    "rank": 106,
-    "passed_players": [
-      "Shannon Johnson"
-    ],
-    "new_total": 1144
-  },
-  {
-    "ts": "2026-06-04T01:06:00+00:00",
-    "text": "Marina Mabrey passed Jordin Canada for #108 all-time in turnovers (career 510) \u2014 up from #109 entering today \u2014 (8:58 - 4th \u2014 TOR @ NY)",
-    "kind": "rank_pass",
-    "player": "Marina Mabrey",
-    "stat": "turnovers",
-    "rank": 108,
-    "passed_players": [
-      "Jordin Canada"
-    ],
-    "new_total": 510
   }
 ]

@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-06 19:08 UTC_
+_Last updated: 2026-06-06 19:09 UTC_
 
 ## Contents
 
@@ -90,8 +90,8 @@ _Last updated: 2026-06-06 19:08 UTC_
 | 69 | Napheesa Collier | 3,542 |
 | 69 | Shannon Johnson | 3,542 |
 | 71 | Renee Montgomery | 3,533 |
-| 72 | **Jackie Young** 🔴 | 3,522 |
-| 72 | Jasmine Thomas | 3,522 |
+| 72 | **Jackie Young** 🔴 +3 | 3,525 |
+| 73 | Jasmine Thomas | 3,522 |
 | 74 | Tamecka Dixon | 3,507 |
 | 75 | Tammy Sutton-Brown | 3,498 |
 | 76 | Sancho Lyttle | 3,478 |
@@ -265,7 +265,7 @@ _Last updated: 2026-06-06 19:08 UTC_
 | 39 | Courtney Williams | 1,806 |
 | 40 | Lindsay Whalen | 1,805 |
 | 41 | Camille Smith | 1,802 |
-| 42 | **Kiah Stokes** 🔴 | 1,790 |
+| 42 | **Kiah Stokes** 🔴 +1 | 1,791 |
 | 43 | Asjha Jones | 1,751 |
 | 44 | Stefanie Dolson | 1,692 |
 | 45 | Teaira McCowan | 1,685 |
@@ -604,7 +604,7 @@ _Last updated: 2026-06-06 19:08 UTC_
 | 173 | Shameka Christon | 389 |
 | 173 | Tamicha Jackson | 389 |
 | 175 | Riquna Williams | 387 |
-| 176 | **Stephanie Talbot** 🔴 +1 | 386 |
+| 175 | **Stephanie Talbot** 🔴 +2 | 387 |
 | 177 | Dana Evans | 379 |
 | 178 | Jessica Breland | 377 |
 | 179 | Shenise Johnson | 376 |
@@ -873,8 +873,8 @@ _Last updated: 2026-06-06 19:08 UTC_
 | 32 | Tina Thompson | 452 |
 | 33 | Natasha Howard | 450 |
 | 34 | Maya Moore | 449 |
-| 35 | **Chelsea Gray** 🔴 | 445 |
-| 35 | Jewell Loyd | 445 |
+| 35 | **Chelsea Gray** 🔴 +1 | 446 |
+| 36 | Jewell Loyd | 445 |
 | 37 | Sheri Sam | 438 |
 | 38 | Camille Smith | 437 |
 | 38 | Kayla McBride | 437 |
@@ -1104,7 +1104,7 @@ _Last updated: 2026-06-06 19:08 UTC_
 | 58 | Natasha Cloud | 339 |
 | 59 | Anna DeForge | 334 |
 | 60 | Erica Wheeler | 329 |
-| 61 | **Jackie Young** 🔴 | 323 |
+| 61 | **Jackie Young** 🔴 +1 | 324 |
 | 62 | Sophie Cunningham | 317 |
 | 62 | Sugar Rodgers | 317 |
 | 64 | Marissa Coleman | 315 |

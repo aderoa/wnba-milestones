@@ -2,6 +2,11 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-06 19:09 UTC
+
+- **Chelsea Gray** passed **Jewell Loyd** for **#36** all-time in steals (career 446) — _7:28 - 1st — GS @ LV_
+- **Jackie Young** passed **Jasmine Thomas** for **#73** all-time in points (career 3,525) — _7:28 - 1st — GS @ LV_
+
 ## 2026-06-06 19:07 UTC
 
 - **Chelsea Gray** passed **Taj McWilliams-Franklin** for **#22** all-time in turnovers (career 899) — _8:29 - 1st — GS @ LV_
