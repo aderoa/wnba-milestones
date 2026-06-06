@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-06T23:47:00+00:00",
+    "text": "Rhyne Howard passed Marissa Coleman for #134 all-time in steals (career 237) \u2014 up from #137 entering today \u2014 (39.1 - 3rd \u2014 WSH @ ATL)",
+    "kind": "rank_pass",
+    "player": "Rhyne Howard",
+    "stat": "steals",
+    "rank": 134,
+    "passed_players": [
+      "Marissa Coleman"
+    ],
+    "new_total": 237
+  },
+  {
     "ts": "2026-06-06T23:45:00+00:00",
     "text": "Michaela Onyenwere reached 1,300 career points (now 1,301) \u2014 (1:39 - 3rd \u2014 WSH @ ATL)",
     "kind": "round",
@@ -2968,17 +2980,5 @@
       "Karima Christmas-Kelly"
     ],
     "new_total": 1921
-  },
-  {
-    "ts": "2026-06-05T00:21:00+00:00",
-    "text": "Kelsey Mitchell passed Taj McWilliams-Franklin for #29 all-time in points (career 4,994) \u2014 up from #31 entering today \u2014 (4:42 - 3rd \u2014 ATL @ IND)",
-    "kind": "rank_pass",
-    "player": "Kelsey Mitchell",
-    "stat": "points",
-    "rank": 29,
-    "passed_players": [
-      "Taj McWilliams-Franklin"
-    ],
-    "new_total": 4994
   }
 ]
