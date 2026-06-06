@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-06 19:29 UTC_
+_Last updated: 2026-06-06 19:30 UTC_
 
 ## Contents
 
@@ -873,7 +873,7 @@ _Last updated: 2026-06-06 19:29 UTC_
 | 32 | Tina Thompson | 452 |
 | 33 | Natasha Howard | 450 |
 | 34 | Maya Moore | 449 |
-| 35 | **Chelsea Gray** 🔴 +1 | 446 |
+| 35 | **Chelsea Gray** 🔴 +2 | 447 |
 | 36 | **Jewell Loyd** 🔴 | 445 |
 | 37 | Sheri Sam | 438 |
 | 38 | Camille Smith | 437 |
