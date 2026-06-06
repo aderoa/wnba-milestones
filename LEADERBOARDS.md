@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-06 00:04 UTC_
+_Last updated: 2026-06-06 00:05 UTC_
 
 ## Contents
 
@@ -869,7 +869,7 @@ _Last updated: 2026-06-06 00:04 UTC_
 | 28 | Teresa Weatherspoon | 463 |
 | 29 | Rebekkah Brunson | 456 |
 | 30 | Tangela Smith | 455 |
-| 31 | **Skylar Diggins** 🔴 | 453 |
+| 31 | **Skylar Diggins** 🔴 +1 | 454 |
 | 32 | Tina Thompson | 452 |
 | 33 | Maya Moore | 449 |
 | 34 | Natasha Howard | 447 |
@@ -1289,7 +1289,7 @@ _Last updated: 2026-06-06 00:04 UTC_
 | 38 | Margo Dydek | 758 |
 | 39 | Tangela Smith | 751 |
 | 40 | Kristi Toliver | 748 |
-| 41 | **Brittney Griner** 🔴 +1 | 742 |
+| 41 | **Brittney Griner** 🔴 +2 | 743 |
 | 42 | Monique Currie | 724 |
 | 43 | Michelle Snow | 723 |
 | 44 | Tamecka Dixon | 716 |
