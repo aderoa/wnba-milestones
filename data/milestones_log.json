@@ -1,5 +1,29 @@
 [
   {
+    "ts": "2026-06-06T02:42:00+00:00",
+    "text": "Arike Ogunbowale passed Angel McCoughtry for #53 all-time in assists (career 916) \u2014 up from #54 entering today \u2014 (6:11 - 2nd \u2014 DAL @ LA)",
+    "kind": "rank_pass",
+    "player": "Arike Ogunbowale",
+    "stat": "assists",
+    "rank": 53,
+    "passed_players": [
+      "Angel McCoughtry"
+    ],
+    "new_total": 916
+  },
+  {
+    "ts": "2026-06-06T02:42:00+00:00",
+    "text": "Ariel Atkins passed Janeth Arcain for #123 all-time in turnovers (career 454) \u2014 up from #124 entering today \u2014 (6:11 - 2nd \u2014 DAL @ LA)",
+    "kind": "rank_pass",
+    "player": "Ariel Atkins",
+    "stat": "turnovers",
+    "rank": 123,
+    "passed_players": [
+      "Janeth Arcain"
+    ],
+    "new_total": 454
+  },
+  {
     "ts": "2026-06-06T02:40:00+00:00",
     "text": "Ariel Atkins passed Helen Darling for #81 all-time in fouls (career 710) \u2014 up from #82 entering today \u2014 (7:07 - 2nd \u2014 DAL @ LA)",
     "kind": "rank_pass",
@@ -2965,29 +2989,5 @@
       "Katie Douglas"
     ],
     "new_total": 5546
-  },
-  {
-    "ts": "2026-05-28T01:40:00+00:00",
-    "text": "Rachel Banham passed Kayla Thornton for #195 all-time in turnovers (career 290) \u2014 up from #198 entering today \u2014 (0.0 - 3rd \u2014 TOR @ CHI)",
-    "kind": "rank_pass",
-    "player": "Rachel Banham",
-    "stat": "turnovers",
-    "rank": 195,
-    "passed_players": [
-      "Kayla Thornton"
-    ],
-    "new_total": 290
-  },
-  {
-    "ts": "2026-05-28T01:10:00+00:00",
-    "text": "Betnijah Laney-Hamilton passed Kayla Thornton for #134 all-time in points (career 2,268) \u2014 up from #135 entering today \u2014 (1:13 - 4th \u2014 PHX @ NY)",
-    "kind": "rank_pass",
-    "player": "Betnijah Laney-Hamilton",
-    "stat": "points",
-    "rank": 134,
-    "passed_players": [
-      "Kayla Thornton"
-    ],
-    "new_total": 2268
   }
 ]

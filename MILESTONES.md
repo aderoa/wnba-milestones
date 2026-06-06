@@ -2,6 +2,11 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-06 02:42 UTC
+
+- **Arike Ogunbowale** passed **Angel McCoughtry** for **#53** all-time in assists (career 916) — up from #54 entering today — _6:11 - 2nd — DAL @ LA_
+- **Ariel Atkins** passed **Janeth Arcain** for **#123** all-time in turnovers (career 454) — up from #124 entering today — _6:11 - 2nd — DAL @ LA_
+
 ## 2026-06-06 02:40 UTC
 
 - **Ariel Atkins** passed **Helen Darling** for **#81** all-time in fouls (career 710) — up from #82 entering today — _7:07 - 2nd — DAL @ LA_
