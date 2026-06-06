@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-06 19:13 UTC_
+_Last updated: 2026-06-06 19:14 UTC_
 
 ## Contents
 
@@ -59,7 +59,7 @@ _Last updated: 2026-06-06 19:13 UTC_
 | 38 | Arike Ogunbowale | 4,612 |
 | 39 | Penny Taylor | 4,595 |
 | 40 | Natasha Howard | 4,555 |
-| 41 | **Chelsea Gray** 🔴 | 4,506 |
+| 41 | **Chelsea Gray** 🔴 +3 | 4,509 |
 | 42 | Kristi Toliver | 4,474 |
 | 43 | Crystal Langhorne | 4,433 |
 | 43 | Jia Perkins | 4,433 |
@@ -464,7 +464,7 @@ _Last updated: 2026-06-06 19:13 UTC_
 | 33 | Renee Montgomery | 1,140 |
 | 34 | Swin Cash | 1,131 |
 | 35 | Lindsey Harding | 1,090 |
-| 36 | **Jackie Young** 🔴 | 1,087 |
+| 36 | **Jackie Young** 🔴 +1 | 1,088 |
 | 37 | Sabrina Ionescu | 1,074 |
 | 38 | Katie Douglas | 1,069 |
 | 39 | Alana Beard | 1,061 |
@@ -537,7 +537,7 @@ _Last updated: 2026-06-06 19:13 UTC_
 | 106 | Betnijah Laney-Hamilton | 585 |
 | 107 | Tan White | 578 |
 | 108 | Matee Ajavon | 577 |
-| 109 | **Gabby Williams** 🔴 | 572 |
+| 109 | **Gabby Williams** 🔴 +1 | 573 |
 | 110 | Napheesa Collier | 570 |
 | 111 | Nicole Powell | 567 |
 | 112 | Loree Moore | 562 |
@@ -1077,8 +1077,8 @@ _Last updated: 2026-06-06 19:13 UTC_
 | 31 | Lauren Jackson | 436 |
 | 32 | Skylar Diggins | 435 |
 | 33 | Shameka Christon | 434 |
-| 34 | **Chelsea Gray** 🔴 | 425 |
-| 34 | Crystal Robinson | 425 |
+| 34 | **Chelsea Gray** 🔴 +1 | 426 |
+| 35 | Crystal Robinson | 425 |
 | 36 | Mwadi Mabika | 415 |
 | 37 | Penny Taylor | 407 |
 | 37 | Riquna Williams | 407 |

@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-06 19:14 UTC
+
+- **Chelsea Gray** passed **Crystal Robinson** for **#35** all-time in three-pointers (career 426) — _3:35 - 1st — GS @ LV_
+
 ## 2026-06-06 19:12 UTC
 
 - **Kayla Thornton** passed **Jewell Loyd** for **#102** all-time in fouls (career 662) — up from #103 entering today — _5:44 - 1st — GS @ LV_
