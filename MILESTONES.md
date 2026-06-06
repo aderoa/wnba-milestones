@@ -2,6 +2,11 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-06 02:51 UTC
+
+- **Arike Ogunbowale** passed **Penny Taylor** for **#38** all-time in points (career 4,597) — up from #39 entering today — _3:15 - 2nd — DAL @ LA_
+- **Dearica Hamby** passed **Vickie Johnson** for **#53** all-time in points (career 4,232) — up from #54 entering today — _3:15 - 2nd — DAL @ LA_
+
 ## 2026-06-06 02:50 UTC
 
 - **Erica Wheeler** passed **Kristi Toliver** for **#23** all-time in assists (career 1,302) — up from #24 entering today — _3:40 - 2nd — DAL @ LA_

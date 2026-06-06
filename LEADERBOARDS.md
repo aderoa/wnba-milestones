@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-06 02:50 UTC_
+_Last updated: 2026-06-06 02:51 UTC_
 
 ## Contents
 
@@ -56,8 +56,8 @@ _Last updated: 2026-06-06 02:50 UTC_
 | 35 | Chamique Holdsclaw | 4,713 |
 | 36 | Elena Delle Donne | 4,706 |
 | 37 | Alyssa Thomas | 4,653 |
-| 38 | Penny Taylor | 4,595 |
-| 39 | **Arike Ogunbowale** 🔴 +12 | 4,594 |
+| 38 | **Arike Ogunbowale** 🔴 +15 | 4,597 |
+| 39 | Penny Taylor | 4,595 |
 | 40 | Natasha Howard | 4,528 |
 | 41 | Chelsea Gray | 4,506 |
 | 42 | Kristi Toliver | 4,474 |
@@ -71,8 +71,8 @@ _Last updated: 2026-06-06 02:50 UTC_
 | 50 | Plenette Pierson | 4,258 |
 | 51 | Monique Currie | 4,253 |
 | 52 | Courtney Williams | 4,238 |
-| 53 | **Dearica Hamby** 🔴 +2 | 4,230 |
-| 53 | Vickie Johnson | 4,230 |
+| 53 | **Dearica Hamby** 🔴 +4 | 4,232 |
+| 54 | Vickie Johnson | 4,230 |
 | 55 | Yolanda Griffith | 4,224 |
 | 56 | Jonquel Jones | 4,222 |
 | 57 | Rebekkah Brunson | 4,133 |
@@ -1059,7 +1059,7 @@ _Last updated: 2026-06-06 02:50 UTC_
 | 13 | Tamika Catchings | 605 |
 | 14 | Kara Lawson | 583 |
 | 15 | Nicole Powell | 579 |
-| 16 | **Arike Ogunbowale** 🔴 +2 | 562 |
+| 16 | **Arike Ogunbowale** 🔴 +3 | 563 |
 | 17 | Ivory Latta | 536 |
 | 18 | Renee Montgomery | 532 |
 | 19 | Maya Moore | 530 |
