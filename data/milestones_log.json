@@ -1,5 +1,14 @@
 [
   {
+    "ts": "2026-06-06T03:39:00+00:00",
+    "text": "Cameron Brink reached 300 career points (now 300) \u2014 (9:17 - 4th \u2014 DAL @ LA)",
+    "kind": "round",
+    "player": "Cameron Brink",
+    "stat": "points",
+    "value": 300,
+    "new_total": 300
+  },
+  {
     "ts": "2026-06-06T03:33:00+00:00",
     "text": "Jessica Shepard passed Angel Reese for #146 all-time in rebounds (career 925) \u2014 up from #149 entering today \u2014 (0.0 - 3rd \u2014 DAL @ LA)",
     "kind": "rank_pass",
@@ -2978,17 +2987,5 @@
     "stat": "turnovers",
     "value": 100,
     "new_total": 100
-  },
-  {
-    "ts": "2026-05-29T23:57:00+00:00",
-    "text": "Teaira McCowan passed Sancho Lyttle for #46 all-time in blocks (career 222) \u2014 up from #48 entering today \u2014 (9:19 - 2nd \u2014 MIN @ CHI)",
-    "kind": "rank_pass",
-    "player": "Teaira McCowan",
-    "stat": "blocks",
-    "rank": 46,
-    "passed_players": [
-      "Sancho Lyttle"
-    ],
-    "new_total": 222
   }
 ]

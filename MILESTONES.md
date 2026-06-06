@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-06 03:39 UTC
+
+- **Cameron Brink** reached **300** career points (now 300) — _9:17 - 4th — DAL @ LA_
+
 ## 2026-06-06 03:33 UTC
 
 - **Jessica Shepard** passed **Angel Reese** for **#146** all-time in rebounds (career 925) — up from #149 entering today — _0.0 - 3rd — DAL @ LA_
