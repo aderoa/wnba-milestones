@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-06 04:02 UTC
+
+- **Ariel Atkins** passed **Odyssey Sims** for **#175** all-time in rebounds (career 785) — up from #176 entering today — _2:13 - 4th — DAL @ LA_
+
 ## 2026-06-06 03:50 UTC
 
 - **Jessica Shepard** passed **Sugar Rodgers** for **#171** all-time in assists (career 394) — up from #172 entering today — _5:56 - 4th — DAL @ LA_

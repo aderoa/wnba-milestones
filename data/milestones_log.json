@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-06T04:02:00+00:00",
+    "text": "Ariel Atkins passed Odyssey Sims for #175 all-time in rebounds (career 785) \u2014 up from #176 entering today \u2014 (2:13 - 4th \u2014 DAL @ LA)",
+    "kind": "rank_pass",
+    "player": "Ariel Atkins",
+    "stat": "rebounds",
+    "rank": 175,
+    "passed_players": [
+      "Odyssey Sims"
+    ],
+    "new_total": 785
+  },
+  {
     "ts": "2026-06-06T03:50:00+00:00",
     "text": "Jessica Shepard passed Sugar Rodgers for #171 all-time in assists (career 394) \u2014 up from #172 entering today \u2014 (5:56 - 4th \u2014 DAL @ LA)",
     "kind": "rank_pass",
@@ -2974,17 +2986,5 @@
       "Shatori Walker-Kimbrough"
     ],
     "new_total": 205
-  },
-  {
-    "ts": "2026-05-30T00:59:00+00:00",
-    "text": "Teaira McCowan passed Scholanda Dorrell for #171 all-time in turnovers (career 336) \u2014 up from #172 entering today \u2014 (6.5 - 3rd \u2014 MIN @ CHI)",
-    "kind": "rank_pass",
-    "player": "Teaira McCowan",
-    "stat": "turnovers",
-    "rank": 171,
-    "passed_players": [
-      "Scholanda Dorrell"
-    ],
-    "new_total": 336
   }
 ]
