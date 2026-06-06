@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-06 20:46 UTC_
+_Last updated: 2026-06-06 20:47 UTC_
 
 ## Contents
 
@@ -33,7 +33,7 @@ _Last updated: 2026-06-06 20:46 UTC_
 | 12 | Sylvia Fowles | 6,413 |
 | 13 | Lisa Leslie | 6,251 |
 | 14 | Breanna Stewart | 6,173 |
-| 15 | **Jewell Loyd** 🔴 | 6,078 |
+| 15 | **Jewell Loyd** 🔴 +2 | 6,080 |
 | 16 | Brittney Griner | 6,031 |
 | 17 | Lauren Jackson | 6,005 |
 | 17 | Seimone Augustus | 6,005 |
@@ -238,7 +238,7 @@ _Last updated: 2026-06-06 20:46 UTC_
 | 12 | Alyssa Thomas | 2,817 |
 | 13 | Jonquel Jones | 2,663 |
 | 14 | Sancho Lyttle | 2,596 |
-| 15 | **A'ja Wilson** 🔴 +9 | 2,583 |
+| 15 | **A'ja Wilson** 🔴 +10 | 2,584 |
 | 16 | DeLisha Milton-Jones | 2,574 |
 | 17 | Breanna Stewart | 2,560 |
 | 18 | Brittney Griner | 2,556 |
@@ -1477,7 +1477,7 @@ _Last updated: 2026-06-06 20:46 UTC_
 | 21 | Michelle Snow | 1,108 |
 | 22 | Sylvia Fowles | 1,049 |
 | 23 | Tina Charles | 1,037 |
-| 24 | **Tiffany Hayes** 🔴 +3 | 1,010 |
+| 24 | **Tiffany Hayes** 🔴 +4 | 1,011 |
 | 25 | Lindsay Whalen | 998 |
 | 26 | Rebekkah Brunson | 996 |
 | 27 | Yolanda Griffith | 991 |
