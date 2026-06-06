@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-06T19:07:00+00:00",
+    "text": "Chelsea Gray passed Taj McWilliams-Franklin for #22 all-time in turnovers (career 899) \u2014 (8:29 - 1st \u2014 GS @ LV)",
+    "kind": "rank_pass",
+    "player": "Chelsea Gray",
+    "stat": "turnovers",
+    "rank": 22,
+    "passed_players": [
+      "Taj McWilliams-Franklin"
+    ],
+    "new_total": 899
+  },
+  {
     "ts": "2026-06-06T18:59:00+00:00",
     "text": "Teaira McCowan passed Deanna Nolan for #111 all-time in fouls (career 629) \u2014 up from #112 entering today \u2014 (11.0 - 4th \u2014 SEA @ MIN)",
     "kind": "rank_pass",
@@ -2955,17 +2967,5 @@
       "Jordin Canada"
     ],
     "new_total": 510
-  },
-  {
-    "ts": "2026-06-04T00:57:00+00:00",
-    "text": "Marina Mabrey passed Erika de Souza for #93 all-time in points (career 3,050) \u2014 up from #96 entering today \u2014 (1:32 - 3rd \u2014 TOR @ NY)",
-    "kind": "rank_pass",
-    "player": "Marina Mabrey",
-    "stat": "points",
-    "rank": 93,
-    "passed_players": [
-      "Erika de Souza"
-    ],
-    "new_total": 3050
   }
 ]

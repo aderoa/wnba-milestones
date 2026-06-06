@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-06 19:07 UTC
+
+- **Chelsea Gray** passed **Taj McWilliams-Franklin** for **#22** all-time in turnovers (career 899) — _8:29 - 1st — GS @ LV_
+
 ## 2026-06-06 18:59 UTC
 
 - **Teaira McCowan** passed **Deanna Nolan** for **#111** all-time in fouls (career 629) — up from #112 entering today — _11.0 - 4th — SEA @ MIN_
