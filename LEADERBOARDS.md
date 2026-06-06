@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-06 01:19 UTC_
+_Last updated: 2026-06-06 01:20 UTC_
 
 ## Contents
 
@@ -34,7 +34,7 @@ _Last updated: 2026-06-06 01:19 UTC_
 | 13 | Lisa Leslie | 6,251 |
 | 14 | Breanna Stewart | 6,173 |
 | 15 | Jewell Loyd | 6,078 |
-| 16 | **Brittney Griner** 🔴 +10 | 6,025 |
+| 16 | **Brittney Griner** 🔴 +12 | 6,027 |
 | 17 | Lauren Jackson | 6,005 |
 | 17 | Seimone Augustus | 6,005 |
 | 19 | A'ja Wilson | 5,942 |
@@ -241,7 +241,7 @@ _Last updated: 2026-06-06 01:19 UTC_
 | 15 | A'ja Wilson | 2,574 |
 | 15 | DeLisha Milton-Jones | 2,574 |
 | 17 | Breanna Stewart | 2,560 |
-| 18 | **Brittney Griner** 🔴 +6 | 2,554 |
+| 18 | **Brittney Griner** 🔴 +7 | 2,555 |
 | 19 | Swin Cash | 2,521 |
 | 20 | Michelle Snow | 2,476 |
 | 21 | Crystal Langhorne | 2,454 |
@@ -314,7 +314,7 @@ _Last updated: 2026-06-06 01:19 UTC_
 | 88 | Tari Phillips | 1,274 |
 | 89 | Janel McCarville | 1,261 |
 | 90 | Liz Cambage | 1,258 |
-| 91 | **Azurá Stevens** 🔴 +6 | 1,252 |
+| 91 | **Azurá Stevens** 🔴 +8 | 1,254 |
 | 92 | Tiffany Hayes | 1,244 |
 | 93 | Ezi Magbegor | 1,243 |
 | 94 | Myisha Hines-Allen | 1,239 |
@@ -674,8 +674,8 @@ _Last updated: 2026-06-06 01:19 UTC_
 | 38 | Plenette Pierson | 242 |
 | 39 | Napheesa Collier | 239 |
 | 40 | Emma Meesseman | 238 |
-| 41 | **Azurá Stevens** 🔴 +1 | 234 |
-| 42 | Brianna Turner | 233 |
+| 41 | **Azurá Stevens** 🔴 | 233 |
+| 41 | Brianna Turner | 233 |
 | 43 | **Skylar Diggins** 🔴 | 229 |
 | 44 | Chasity Melvin | 228 |
 | 45 | Alanna Smith | 223 |
