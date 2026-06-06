@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-06 01:17 UTC_
+_Last updated: 2026-06-06 01:18 UTC_
 
 ## Contents
 
@@ -565,7 +565,7 @@ _Last updated: 2026-06-06 01:17 UTC_
 | 134 | Kahleah Copper | 484 |
 | 135 | Ukari Figgs | 470 |
 | 136 | Janeth Arcain | 469 |
-| 137 | **Elizabeth Williams** 🔴 +2 | 466 |
+| 137 | **Elizabeth Williams** 🔴 +3 | 467 |
 | 138 | Erin Phillips | 462 |
 | 139 | Sylvia Fowles | 461 |
 | 140 | Satou Sabally | 456 |
@@ -674,8 +674,8 @@ _Last updated: 2026-06-06 01:17 UTC_
 | 38 | Plenette Pierson | 242 |
 | 39 | Napheesa Collier | 239 |
 | 40 | Emma Meesseman | 238 |
-| 41 | **Azurá Stevens** 🔴 | 233 |
-| 41 | Brianna Turner | 233 |
+| 41 | **Azurá Stevens** 🔴 +1 | 234 |
+| 42 | Brianna Turner | 233 |
 | 43 | **Skylar Diggins** 🔴 | 229 |
 | 44 | Chasity Melvin | 228 |
 | 45 | Alanna Smith | 223 |
@@ -1531,7 +1531,7 @@ _Last updated: 2026-06-06 01:17 UTC_
 | 75 | Latasha Byears | 730 |
 | 76 | Allisha Gray | 726 |
 | 77 | Kristi Toliver | 722 |
-| 78 | **Elizabeth Williams** 🔴 | 719 |
+| 78 | **Elizabeth Williams** 🔴 +1 | 720 |
 | 79 | Cheryl Ford | 713 |
 | 80 | Jia Perkins | 711 |
 | 81 | Helen Darling | 709 |

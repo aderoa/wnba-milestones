@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-06T01:18:00+00:00",
+    "text": "Azur\u00e1 Stevens passed Brianna Turner for #42 all-time in blocks (career 234) \u2014 (7:37 - 4th \u2014 CON @ CHI)",
+    "kind": "rank_pass",
+    "player": "Azur\u00e1 Stevens",
+    "stat": "blocks",
+    "rank": 42,
+    "passed_players": [
+      "Brianna Turner"
+    ],
+    "new_total": 234
+  },
+  {
     "ts": "2026-06-06T01:15:00+00:00",
     "text": "Azur\u00e1 Stevens passed Kia Nurse for #190 all-time in fouls (career 474) \u2014 up from #192 entering today \u2014 (9:24 - 4th \u2014 CON @ CHI)",
     "kind": "rank_pass",
@@ -2983,17 +2995,5 @@
       "Sandy Brondello"
     ],
     "new_total": 115
-  },
-  {
-    "ts": "2026-05-26T03:18:00+00:00",
-    "text": "Kayla Thornton passed Noelle Quinn for #119 all-time in steals (career 257) \u2014 up from #121 entering today \u2014 (9:28 - 3rd \u2014 CON @ GS)",
-    "kind": "rank_pass",
-    "player": "Kayla Thornton",
-    "stat": "steals",
-    "rank": 119,
-    "passed_players": [
-      "Noelle Quinn"
-    ],
-    "new_total": 257
   }
 ]
