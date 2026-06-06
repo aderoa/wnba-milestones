@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-06 23:44 UTC
+
+- **Allisha Gray** passed **Courtney Vandersloot** for **#46** all-time in points (career 4,354) — up from #47 entering today — _2:08 - 3rd — WSH @ ATL_
+
 ## 2026-06-06 23:35 UTC
 
 - **Angel Reese** reached **100** career steals (now 100) — _3:52 - 3rd — WSH @ ATL_

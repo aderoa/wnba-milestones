@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-06T23:44:00+00:00",
+    "text": "Allisha Gray passed Courtney Vandersloot for #46 all-time in points (career 4,354) \u2014 up from #47 entering today \u2014 (2:08 - 3rd \u2014 WSH @ ATL)",
+    "kind": "rank_pass",
+    "player": "Allisha Gray",
+    "stat": "points",
+    "rank": 46,
+    "passed_players": [
+      "Courtney Vandersloot"
+    ],
+    "new_total": 4354
+  },
+  {
     "ts": "2026-06-06T23:35:00+00:00",
     "text": "Angel Reese reached 100 career steals (now 100) \u2014 (3:52 - 3rd \u2014 WSH @ ATL)",
     "kind": "round",
@@ -2971,14 +2983,5 @@
       "Amanda Lassiter"
     ],
     "new_total": 171
-  },
-  {
-    "ts": "2026-06-05T00:20:00+00:00",
-    "text": "Naz Hillmon reached 1,000 career points (now 1,001) \u2014 (5:58 - 3rd \u2014 ATL @ IND)",
-    "kind": "round",
-    "player": "Naz Hillmon",
-    "stat": "points",
-    "value": 1000,
-    "new_total": 1001
   }
 ]
