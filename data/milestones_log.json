@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-06T18:38:00+00:00",
+    "text": "Natisha Hiedeman passed Cynthia Cooper for #175 all-time in steals (career 193) \u2014 up from #176 entering today \u2014 (7:35 - 4th \u2014 SEA @ MIN)",
+    "kind": "rank_pass",
+    "player": "Natisha Hiedeman",
+    "stat": "steals",
+    "rank": 175,
+    "passed_players": [
+      "Cynthia Cooper"
+    ],
+    "new_total": 193
+  },
+  {
     "ts": "2026-06-06T18:20:00+00:00",
     "text": "Natasha Howard passed Maya Moore for #33 all-time in steals (career 450) \u2014 up from #34 entering today \u2014 (4:00 - 3rd \u2014 SEA @ MIN)",
     "kind": "rank_pass",
@@ -2955,14 +2967,5 @@
       "Cappie Pondexter"
     ],
     "new_total": 465
-  },
-  {
-    "ts": "2026-06-04T00:56:00+00:00",
-    "text": "Satou Sabally reached 2,200 career points (now 2,200) \u2014 (2:25 - 3rd \u2014 TOR @ NY)",
-    "kind": "round",
-    "player": "Satou Sabally",
-    "stat": "points",
-    "value": 2200,
-    "new_total": 2200
   }
 ]

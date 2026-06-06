@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-06 18:38 UTC
+
+- **Natisha Hiedeman** passed **Cynthia Cooper** for **#175** all-time in steals (career 193) — up from #176 entering today — _7:35 - 4th — SEA @ MIN_
+
 ## 2026-06-06 18:20 UTC
 
 - **Natasha Howard** passed **Maya Moore** for **#33** all-time in steals (career 450) — up from #34 entering today — _4:00 - 3rd — SEA @ MIN_
