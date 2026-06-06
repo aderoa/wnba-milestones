@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-06T00:17:00+00:00",
+    "text": "Elizabeth Williams passed Jennifer Gillom for #101 all-time in points (career 2,890) \u2014 up from #102 entering today \u2014 (1:43 - 2nd \u2014 CON @ CHI)",
+    "kind": "rank_pass",
+    "player": "Elizabeth Williams",
+    "stat": "points",
+    "rank": 101,
+    "passed_players": [
+      "Jennifer Gillom"
+    ],
+    "new_total": 2890
+  },
+  {
     "ts": "2026-06-06T00:12:00+00:00",
     "text": "Skylar Diggins passed Shameka Christon for #32 all-time in three-pointers (career 435) \u2014 up from #33 entering today \u2014 (5:05 - 2nd \u2014 CON @ CHI)",
     "kind": "rank_pass",
@@ -2979,17 +2991,5 @@
       "Jennifer Gillom"
     ],
     "new_total": 154
-  },
-  {
-    "ts": "2026-05-26T00:45:00+00:00",
-    "text": "Marine Johann\u00e8s passed Alanna Smith for #142 all-time in three-pointers (career 153) \u2014 up from #143 entering today \u2014 (5:35 - 2nd \u2014 POR @ NY)",
-    "kind": "rank_pass",
-    "player": "Marine Johann\u00e8s",
-    "stat": "three-pointers",
-    "rank": 142,
-    "passed_players": [
-      "Alanna Smith"
-    ],
-    "new_total": 153
   }
 ]
