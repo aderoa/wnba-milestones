@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-06 19:48 UTC_
+_Last updated: 2026-06-06 19:49 UTC_
 
 ## Contents
 
@@ -208,7 +208,7 @@ _Last updated: 2026-06-06 19:48 UTC_
 | 187 | Sandy Brondello | 1,759 |
 | 188 | Sophie Cunningham | 1,752 |
 | 189 | Sugar Rodgers | 1,733 |
-| 190 | **Gabby Williams** 🔴 +5 | 1,728 |
+| 190 | **Gabby Williams** 🔴 +8 | 1,731 |
 | 191 | Moriah Jefferson | 1,722 |
 | 192 | Armintie Herrington | 1,696 |
 | 193 | Nikki Teasley | 1,690 |
@@ -303,7 +303,7 @@ _Last updated: 2026-06-06 19:48 UTC_
 | 77 | **Kayla Thornton** 🔴 +6 | 1,366 |
 | 78 | Sheri Sam | 1,356 |
 | 79 | Tamika Whitmore | 1,355 |
-| 80 | **Jewell Loyd** 🔴 +3 | 1,352 |
+| 80 | **Jewell Loyd** 🔴 +4 | 1,353 |
 | 81 | Emma Meesseman | 1,350 |
 | 82 | Elena Baranova | 1,335 |
 | 83 | Brionna Jones | 1,333 |
@@ -521,8 +521,8 @@ _Last updated: 2026-06-06 19:48 UTC_
 | 89 | Plenette Pierson | 651 |
 | 91 | Brittney Griner | 648 |
 | 92 | Alex Bentley | 645 |
-| 93 | **A'ja Wilson** 🔴 | 637 |
-| 93 | Asjha Jones | 637 |
+| 93 | **A'ja Wilson** 🔴 +1 | 638 |
+| 94 | Asjha Jones | 637 |
 | 95 | Jennifer Azzi | 636 |
 | 96 | Natisha Hiedeman | 629 |
 | 97 | Jonquel Jones | 625 |
@@ -930,8 +930,8 @@ _Last updated: 2026-06-06 19:48 UTC_
 | 89 | Plenette Pierson | 317 |
 | 89 | Temeka Johnson | 317 |
 | 91 | Alysha Clark | 316 |
-| 92 | Debbie Black | 315 |
-| 92 | **Gabby Williams** 🔴 +1 | 315 |
+| 91 | **Gabby Williams** 🔴 +2 | 316 |
+| 93 | Debbie Black | 315 |
 | 94 | Crystal Langhorne | 314 |
 | 95 | Ebony Hoffman | 308 |
 | 96 | Tamera Young | 305 |
@@ -1185,9 +1185,9 @@ _Last updated: 2026-06-06 19:48 UTC_
 | 138 | Jennifer Azzi | 158 |
 | 140 | Natasha Howard | 157 |
 | 141 | Alanna Smith | 154 |
-| 142 | Bridget Pettis | 153 |
-| 142 | Jennifer Gillom | 153 |
-| 142 | **Stephanie Talbot** 🔴 | 153 |
+| 141 | **Stephanie Talbot** 🔴 +1 | 154 |
+| 143 | Bridget Pettis | 153 |
+| 143 | Jennifer Gillom | 153 |
 | 145 | Rita Williams | 150 |
 | 146 | Moriah Jefferson | 149 |
 | 146 | Tiffany Mitchell | 149 |
@@ -1430,7 +1430,7 @@ _Last updated: 2026-06-06 19:48 UTC_
 | 179 | Le'coe Willingham | 325 |
 | 180 | Caitlin Clark | 324 |
 | 180 | Olympia Scott | 324 |
-| 182 | **Gabby Williams** 🔴 | 320 |
+| 182 | **Gabby Williams** 🔴 +1 | 321 |
 | 183 | Kia Nurse | 316 |
 | 184 | Barbara Farris | 315 |
 | 185 | Moriah Jefferson | 314 |

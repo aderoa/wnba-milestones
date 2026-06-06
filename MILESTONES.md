@@ -2,6 +2,11 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-06 19:49 UTC
+
+- **Stephanie Talbot** passed **Bridget Pettis** and **Jennifer Gillom** for **#142** all-time in three-pointers (career 154) — up from #144 entering today — _1:23 - 2nd — GS @ LV_
+- **A'ja Wilson** passed **Asjha Jones** for **#94** all-time in assists (career 638) — _1:23 - 2nd — GS @ LV_
+
 ## 2026-06-06 19:44 UTC
 
 - **A'ja Wilson** passed **Allie Quigley** for **#119** all-time in turnovers (career 468) — up from #120 entering today — _2:59 - 2nd — GS @ LV_

@@ -1,5 +1,30 @@
 [
   {
+    "ts": "2026-06-06T19:49:00+00:00",
+    "text": "Stephanie Talbot passed Bridget Pettis and Jennifer Gillom for #142 all-time in three-pointers (career 154) \u2014 up from #144 entering today \u2014 (1:23 - 2nd \u2014 GS @ LV)",
+    "kind": "rank_pass",
+    "player": "Stephanie Talbot",
+    "stat": "three-pointers",
+    "rank": 142,
+    "passed_players": [
+      "Bridget Pettis",
+      "Jennifer Gillom"
+    ],
+    "new_total": 154
+  },
+  {
+    "ts": "2026-06-06T19:49:00+00:00",
+    "text": "A'ja Wilson passed Asjha Jones for #94 all-time in assists (career 638) \u2014 (1:23 - 2nd \u2014 GS @ LV)",
+    "kind": "rank_pass",
+    "player": "A'ja Wilson",
+    "stat": "assists",
+    "rank": 94,
+    "passed_players": [
+      "Asjha Jones"
+    ],
+    "new_total": 638
+  },
+  {
     "ts": "2026-06-06T19:44:00+00:00",
     "text": "A'ja Wilson passed Allie Quigley for #119 all-time in turnovers (career 468) \u2014 up from #120 entering today \u2014 (2:59 - 2nd \u2014 GS @ LV)",
     "kind": "rank_pass",
@@ -2955,30 +2980,5 @@
       "Tonya Edwards"
     ],
     "new_total": 119
-  },
-  {
-    "ts": "2026-06-04T04:07:00+00:00",
-    "text": "Natisha Hiedeman passed Jonquel Jones and Sami Whitcomb for #96 all-time in assists (career 624) \u2014 up from #98 entering today \u2014 (4.5 - 4th \u2014 PHX @ SEA)",
-    "kind": "rank_pass",
-    "player": "Natisha Hiedeman",
-    "stat": "assists",
-    "rank": 96,
-    "passed_players": [
-      "Jonquel Jones",
-      "Sami Whitcomb"
-    ],
-    "new_total": 624
-  },
-  {
-    "ts": "2026-06-04T04:07:00+00:00",
-    "text": "Katie Lou Samuelson passed Wendy Palmer for #150 all-time in three-pointers (career 147) \u2014 (4.5 - 4th \u2014 PHX @ SEA)",
-    "kind": "rank_pass",
-    "player": "Katie Lou Samuelson",
-    "stat": "three-pointers",
-    "rank": 150,
-    "passed_players": [
-      "Wendy Palmer"
-    ],
-    "new_total": 147
   }
 ]
