@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-06 02:11 UTC
+
+- **Arike Ogunbowale** passed **Shavonte Zellous** and **Wendy Palmer** for **#104** all-time in turnovers (career 518) — _5:34 - 1st — DAL @ LA_
+
 ## 2026-06-06 02:09 UTC
 
 - **Nneka Ogwumike** passed **Arike Ogunbowale** for **#54** all-time in assists (career 913) — up from #55 entering today — _7:28 - 1st — DAL @ LA_

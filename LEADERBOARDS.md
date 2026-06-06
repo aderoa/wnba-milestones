@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-06 02:10 UTC_
+_Last updated: 2026-06-06 02:11 UTC_
 
 ## Contents
 
@@ -96,7 +96,7 @@ _Last updated: 2026-06-06 02:10 UTC_
 | 75 | Tammy Sutton-Brown | 3,498 |
 | 76 | Sancho Lyttle | 3,478 |
 | 77 | Ivory Latta | 3,447 |
-| 78 | **Ariel Atkins** 🔴 +3 | 3,429 |
+| 78 | **Ariel Atkins** 🔴 +5 | 3,431 |
 | 79 | Nicole Powell | 3,407 |
 | 80 | Epiphanny Prince | 3,381 |
 | 81 | Michelle Snow | 3,361 |
@@ -454,7 +454,7 @@ _Last updated: 2026-06-06 02:10 UTC_
 | 23 | **Erica Wheeler** 🔴 +1 | 1,301 |
 | 23 | Kristi Toliver | 1,301 |
 | 25 | Katie Smith | 1,258 |
-| 26 | **Kelsey Plum** 🔴 +1 | 1,232 |
+| 26 | **Kelsey Plum** 🔴 +2 | 1,233 |
 | 27 | Odyssey Sims | 1,228 |
 | 28 | Vickie Johnson | 1,202 |
 | 29 | Jordin Canada | 1,201 |
@@ -1349,11 +1349,11 @@ _Last updated: 2026-06-06 02:10 UTC_
 | 98 | Kara Lawson | 526 |
 | 99 | Leilani Mitchell | 525 |
 | 99 | Nicole Powell | 525 |
+| 101 | **Arike Ogunbowale** 🔴 +1 | 518 |
 | 101 | Marie Ferdinand-Harris | 518 |
 | 101 | Sabrina Ionescu | 518 |
-| 103 | **Arike Ogunbowale** 🔴 | 517 |
-| 103 | Shavonte Zellous | 517 |
-| 103 | Wendy Palmer | 517 |
+| 104 | Shavonte Zellous | 517 |
+| 104 | Wendy Palmer | 517 |
 | 106 | Tully Bevilaqua | 514 |
 | 107 | Jia Perkins | 513 |
 | 108 | Jordin Canada | 512 |

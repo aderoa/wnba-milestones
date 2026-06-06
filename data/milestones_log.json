@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-06-06T02:11:00+00:00",
+    "text": "Arike Ogunbowale passed Shavonte Zellous and Wendy Palmer for #104 all-time in turnovers (career 518) \u2014 (5:34 - 1st \u2014 DAL @ LA)",
+    "kind": "rank_pass",
+    "player": "Arike Ogunbowale",
+    "stat": "turnovers",
+    "rank": 104,
+    "passed_players": [
+      "Shavonte Zellous",
+      "Wendy Palmer"
+    ],
+    "new_total": 518
+  },
+  {
     "ts": "2026-06-06T02:09:00+00:00",
     "text": "Nneka Ogwumike passed Arike Ogunbowale for #54 all-time in assists (career 913) \u2014 up from #55 entering today \u2014 (7:28 - 1st \u2014 DAL @ LA)",
     "kind": "rank_pass",
@@ -2979,17 +2992,5 @@
       "Iziane Castro Marques"
     ],
     "new_total": 2863
-  },
-  {
-    "ts": "2026-05-28T00:31:00+00:00",
-    "text": "Betnijah Laney-Hamilton passed Adrienne Goodson for #168 all-time in steals (career 204) \u2014 up from #169 entering today \u2014 (3:13 - 3rd \u2014 PHX @ NY)",
-    "kind": "rank_pass",
-    "player": "Betnijah Laney-Hamilton",
-    "stat": "steals",
-    "rank": 168,
-    "passed_players": [
-      "Adrienne Goodson"
-    ],
-    "new_total": 204
   }
 ]
