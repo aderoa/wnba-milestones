@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-06 02:34 UTC
+
+- **Azzi Fudd** reached **100** career points (now 102) — _8:23 - 2nd — DAL @ LA_
+
 ## 2026-06-06 02:12 UTC
 
 - **Ariel Atkins** passed **Bria Hartley** for **#87** all-time in assists (career 662) — _5:18 - 1st — DAL @ LA_
