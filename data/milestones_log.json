@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-06T22:22:00+00:00",
+    "text": "Allisha Gray passed Sheri Sam for #74 all-time in assists (career 746) \u2014 up from #75 entering today \u2014 (43.1 - 1st \u2014 WSH @ ATL)",
+    "kind": "rank_pass",
+    "player": "Allisha Gray",
+    "stat": "assists",
+    "rank": 74,
+    "passed_players": [
+      "Sheri Sam"
+    ],
+    "new_total": 746
+  },
+  {
     "ts": "2026-06-06T22:21:00+00:00",
     "text": "Angel Reese passed Jessica Shepard and Merlakia Jones for #144 all-time in rebounds (career 928) \u2014 up from #147 entering today \u2014 (1:35 - 1st \u2014 WSH @ ATL)",
     "kind": "rank_pass",
@@ -2967,17 +2979,5 @@
       "Becky Hammon"
     ],
     "new_total": 1109
-  },
-  {
-    "ts": "2026-06-04T23:43:00+00:00",
-    "text": "Aliyah Boston passed Nakia Sanford for #171 all-time in points (career 1,917) \u2014 up from #173 entering today \u2014 (4:25 - 2nd \u2014 ATL @ IND)",
-    "kind": "rank_pass",
-    "player": "Aliyah Boston",
-    "stat": "points",
-    "rank": 171,
-    "passed_players": [
-      "Nakia Sanford"
-    ],
-    "new_total": 1917
   }
 ]
