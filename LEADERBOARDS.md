@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-06 03:15 UTC_
+_Last updated: 2026-06-06 03:16 UTC_
 
 ## Contents
 
@@ -21,7 +21,7 @@ _Last updated: 2026-06-06 03:15 UTC_
 |-----:|--------|------:|
 | 1 | Diana Taurasi | 10,608 |
 | 2 | Tina Charles | 8,396 |
-| 3 | **DeWanna Bonner** 🔴 +8 | 7,899 |
+| 3 | **DeWanna Bonner** 🔴 +10 | 7,901 |
 | 4 | Tina Thompson | 7,470 |
 | 5 | **Nneka Ogwumike** 🔴 +6 | 7,433 |
 | 6 | Tamika Catchings | 7,371 |
@@ -70,8 +70,8 @@ _Last updated: 2026-06-06 03:15 UTC_
 | 49 | Kahleah Copper | 4,283 |
 | 50 | Plenette Pierson | 4,258 |
 | 51 | Monique Currie | 4,253 |
-| 52 | Courtney Williams | 4,238 |
-| 53 | **Dearica Hamby** 🔴 +9 | 4,237 |
+| 52 | **Dearica Hamby** 🔴 +11 | 4,239 |
+| 53 | Courtney Williams | 4,238 |
 | 54 | Vickie Johnson | 4,230 |
 | 55 | Yolanda Griffith | 4,224 |
 | 56 | Jonquel Jones | 4,222 |
@@ -231,7 +231,7 @@ _Last updated: 2026-06-06 03:15 UTC_
 | 5 | **Nneka Ogwumike** 🔴 +6 | 3,333 |
 | 6 | Tamika Catchings | 3,313 |
 | 7 | Lisa Leslie | 3,303 |
-| 8 | **DeWanna Bonner** 🔴 +1 | 3,256 |
+| 8 | **DeWanna Bonner** 🔴 +2 | 3,257 |
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
@@ -247,7 +247,7 @@ _Last updated: 2026-06-06 03:15 UTC_
 | 21 | Crystal Langhorne | 2,454 |
 | 22 | Lauren Jackson | 2,444 |
 | 23 | Yolanda Griffith | 2,440 |
-| 24 | **Dearica Hamby** 🔴 +2 | 2,388 |
+| 24 | **Dearica Hamby** 🔴 +3 | 2,389 |
 | 25 | Tangela Smith | 2,328 |
 | 26 | Natasha Howard | 2,253 |
 | 27 | Erika de Souza | 2,220 |
@@ -454,7 +454,7 @@ _Last updated: 2026-06-06 03:15 UTC_
 | 23 | **Erica Wheeler** 🔴 +3 | 1,303 |
 | 24 | Kristi Toliver | 1,301 |
 | 25 | Katie Smith | 1,258 |
-| 26 | **Kelsey Plum** 🔴 +3 | 1,234 |
+| 26 | **Kelsey Plum** 🔴 +4 | 1,235 |
 | 27 | **Odyssey Sims** 🔴 | 1,228 |
 | 28 | Vickie Johnson | 1,202 |
 | 29 | Jordin Canada | 1,201 |

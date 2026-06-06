@@ -1,5 +1,26 @@
 [
   {
+    "ts": "2026-06-06T03:16:00+00:00",
+    "text": "Dearica Hamby passed Courtney Williams for #52 all-time in points (career 4,239) \u2014 up from #54 entering today \u2014 (8:06 - 3rd \u2014 DAL @ LA)",
+    "kind": "rank_pass",
+    "player": "Dearica Hamby",
+    "stat": "points",
+    "rank": 52,
+    "passed_players": [
+      "Courtney Williams"
+    ],
+    "new_total": 4239
+  },
+  {
+    "ts": "2026-06-06T03:16:00+00:00",
+    "text": "DeWanna Bonner reached 7,900 career points (now 7,901) \u2014 (7:53 - 3rd \u2014 PHX @ POR)",
+    "kind": "round",
+    "player": "DeWanna Bonner",
+    "stat": "points",
+    "value": 7900,
+    "new_total": 7901
+  },
+  {
     "ts": "2026-06-06T02:57:00+00:00",
     "text": "Jessica Shepard passed Janeth Arcain for #148 all-time in rebounds (career 917) \u2014 up from #149 entering today \u2014 (3.5 - 2nd \u2014 DAL @ LA)",
     "kind": "rank_pass",
@@ -2973,26 +2994,5 @@
       "Svetlana Abrosimova"
     ],
     "new_total": 353
-  },
-  {
-    "ts": "2026-05-28T02:40:00+00:00",
-    "text": "Jordin Canada reached 500 career turnovers (now 500) \u2014 (43.9 - 3rd \u2014 ATL @ MIN)",
-    "kind": "round",
-    "player": "Jordin Canada",
-    "stat": "turnovers",
-    "value": 500,
-    "new_total": 500
-  },
-  {
-    "ts": "2026-05-28T02:38:00+00:00",
-    "text": "Allisha Gray passed Lauren Jackson for #30 all-time in three-pointers (career 437) \u2014 up from #32 entering today \u2014 (2:14 - 3rd \u2014 ATL @ MIN)",
-    "kind": "rank_pass",
-    "player": "Allisha Gray",
-    "stat": "three-pointers",
-    "rank": 30,
-    "passed_players": [
-      "Lauren Jackson"
-    ],
-    "new_total": 437
   }
 ]

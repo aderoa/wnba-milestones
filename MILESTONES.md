@@ -2,6 +2,11 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-06 03:16 UTC
+
+- **Dearica Hamby** passed **Courtney Williams** for **#52** all-time in points (career 4,239) — up from #54 entering today — _8:06 - 3rd — DAL @ LA_
+- **DeWanna Bonner** reached **7,900** career points (now 7,901) — _7:53 - 3rd — PHX @ POR_
+
 ## 2026-06-06 02:57 UTC
 
 - **Jessica Shepard** passed **Janeth Arcain** for **#148** all-time in rebounds (career 917) — up from #149 entering today — _3.5 - 2nd — DAL @ LA_
