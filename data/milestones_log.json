@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-06-06T19:42:00+00:00",
+    "text": "Jackie Young passed Candice Wiggins and Epiphanny Prince for #150 all-time in fouls (career 526) \u2014 up from #152 entering today \u2014 (3:35 - 2nd \u2014 GS @ LV)",
+    "kind": "rank_pass",
+    "player": "Jackie Young",
+    "stat": "fouls",
+    "rank": 150,
+    "passed_players": [
+      "Candice Wiggins",
+      "Epiphanny Prince"
+    ],
+    "new_total": 526
+  },
+  {
     "ts": "2026-06-06T19:38:00+00:00",
     "text": "Stephanie Talbot passed Cameron Brink, Jennifer Lacy, Sugar Rodgers, Tan White, and Tiffany Jackson for #171 all-time in blocks (career 77) \u2014 up from #173 entering today \u2014 (6:14 - 2nd \u2014 GS @ LV)",
     "kind": "rank_pass",
@@ -2971,14 +2984,5 @@
       "Monique Currie"
     ],
     "new_total": 115
-  },
-  {
-    "ts": "2026-06-04T03:25:00+00:00",
-    "text": "Katie Lou Samuelson reached 200 career fouls (now 200) \u2014 (56.3 - 3rd \u2014 PHX @ SEA)",
-    "kind": "round",
-    "player": "Katie Lou Samuelson",
-    "stat": "fouls",
-    "value": 200,
-    "new_total": 200
   }
 ]
