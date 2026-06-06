@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-06 03:18 UTC
+
+- **Arike Ogunbowale** reached **4,600** career points (now 4,603) — _6:35 - 3rd — DAL @ LA_
+
 ## 2026-06-06 03:16 UTC
 
 - **Dearica Hamby** passed **Courtney Williams** for **#52** all-time in points (career 4,239) — up from #54 entering today — _8:06 - 3rd — DAL @ LA_
