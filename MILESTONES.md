@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-06 03:33 UTC
+
+- **Jessica Shepard** passed **Angel Reese** for **#146** all-time in rebounds (career 925) — up from #149 entering today — _0.0 - 3rd — DAL @ LA_
+
 ## 2026-06-06 03:30 UTC
 
 - **Jessica Shepard** passed **Nicky Anosike** for **#147** all-time in rebounds (career 923) — up from #149 entering today — _1:11 - 3rd — DAL @ LA_

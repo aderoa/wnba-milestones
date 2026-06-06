@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-06T03:33:00+00:00",
+    "text": "Jessica Shepard passed Angel Reese for #146 all-time in rebounds (career 925) \u2014 up from #149 entering today \u2014 (0.0 - 3rd \u2014 DAL @ LA)",
+    "kind": "rank_pass",
+    "player": "Jessica Shepard",
+    "stat": "rebounds",
+    "rank": 146,
+    "passed_players": [
+      "Angel Reese"
+    ],
+    "new_total": 925
+  },
+  {
     "ts": "2026-06-06T03:30:00+00:00",
     "text": "Jessica Shepard passed Nicky Anosike for #147 all-time in rebounds (career 923) \u2014 up from #149 entering today \u2014 (1:11 - 3rd \u2014 DAL @ LA)",
     "kind": "rank_pass",
@@ -2978,17 +2990,5 @@
       "Sancho Lyttle"
     ],
     "new_total": 222
-  },
-  {
-    "ts": "2026-05-29T23:51:00+00:00",
-    "text": "Teaira McCowan passed Alana Beard for #47 all-time in blocks (career 221) \u2014 up from #48 entering today \u2014 (27.5 - 1st \u2014 MIN @ CHI)",
-    "kind": "rank_pass",
-    "player": "Teaira McCowan",
-    "stat": "blocks",
-    "rank": 47,
-    "passed_players": [
-      "Alana Beard"
-    ],
-    "new_total": 221
   }
 ]
