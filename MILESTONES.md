@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-06 23:59 UTC
+
+- **Sonia Citron** reached **200** career rebounds (now 200) — _6:36 - 4th — WSH @ ATL_
+
 ## 2026-06-06 23:48 UTC
 
 - **Rhyne Howard** passed **Coco Miller** for **#133** all-time in steals (career 238) — up from #137 entering today — _End of 3rd — WSH @ ATL_
