@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-06 20:58 UTC
+
+- **Jackie Young** passed **Lindsey Harding** for **#35** all-time in assists (career 1,091) — up from #36 entering today — _3:00 - 4th — GS @ LV_
+
 ## 2026-06-06 20:57 UTC
 
 - **Gabby Williams** passed **Loree Moore** and **Tanisha Wright** for **#158** all-time in three-pointers (career 139) — up from #160 entering today — _3:26 - 4th — GS @ LV_

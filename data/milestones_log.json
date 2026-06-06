@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-06T20:58:00+00:00",
+    "text": "Jackie Young passed Lindsey Harding for #35 all-time in assists (career 1,091) \u2014 up from #36 entering today \u2014 (3:00 - 4th \u2014 GS @ LV)",
+    "kind": "rank_pass",
+    "player": "Jackie Young",
+    "stat": "assists",
+    "rank": 35,
+    "passed_players": [
+      "Lindsey Harding"
+    ],
+    "new_total": 1091
+  },
+  {
     "ts": "2026-06-06T20:57:00+00:00",
     "text": "Gabby Williams passed Loree Moore and Tanisha Wright for #158 all-time in three-pointers (career 139) \u2014 up from #160 entering today \u2014 (3:26 - 4th \u2014 GS @ LV)",
     "kind": "rank_pass",
@@ -2966,17 +2978,5 @@
       "Kara Lawson"
     ],
     "new_total": 230
-  },
-  {
-    "ts": "2026-06-04T23:32:00+00:00",
-    "text": "Aliyah Boston passed Myisha Hines-Allen for #172 all-time in points (career 1,915) \u2014 up from #173 entering today \u2014 (7:36 - 2nd \u2014 ATL @ IND)",
-    "kind": "rank_pass",
-    "player": "Aliyah Boston",
-    "stat": "points",
-    "rank": 172,
-    "passed_players": [
-      "Myisha Hines-Allen"
-    ],
-    "new_total": 1915
   }
 ]
