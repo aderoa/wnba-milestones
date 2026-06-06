@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-06 21:08 UTC_
+_Last updated: 2026-06-06 21:09 UTC_
 
 ## Contents
 
@@ -1602,8 +1602,8 @@ _Last updated: 2026-06-06 21:08 UTC_
 | 146 | **A'ja Wilson** 🔴 +3 | 540 |
 | 147 | Kristen Rasmussen | 533 |
 | 148 | Amanda Zahui B | 530 |
-| 149 | Damiris Dantas | 527 |
-| 149 | **Jackie Young** 🔴 +2 | 527 |
+| 149 | **Jackie Young** 🔴 +3 | 528 |
+| 150 | Damiris Dantas | 527 |
 | 151 | Candice Wiggins | 525 |
 | 151 | Epiphanny Prince | 525 |
 | 153 | Armintie Herrington | 523 |

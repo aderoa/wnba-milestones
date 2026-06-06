@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-06T21:09:00+00:00",
+    "text": "Jackie Young passed Damiris Dantas for #149 all-time in fouls (career 528) \u2014 up from #152 entering today \u2014 (9.9 - 4th \u2014 GS @ LV)",
+    "kind": "rank_pass",
+    "player": "Jackie Young",
+    "stat": "fouls",
+    "rank": 149,
+    "passed_players": [
+      "Damiris Dantas"
+    ],
+    "new_total": 528
+  },
+  {
     "ts": "2026-06-06T21:04:00+00:00",
     "text": "Jackie Young passed Napheesa Collier and Shannon Johnson for #69 all-time in points (career 3,544) \u2014 up from #72 entering today \u2014 (1:44 - 4th \u2014 GS @ LV)",
     "kind": "rank_pass",
@@ -2965,17 +2977,5 @@
       "Maya Moore"
     ],
     "new_total": 4985
-  },
-  {
-    "ts": "2026-06-04T23:37:00+00:00",
-    "text": "Jordin Canada passed Monique Currie for #57 all-time in steals (career 379) \u2014 (6:16 - 2nd \u2014 ATL @ IND)",
-    "kind": "rank_pass",
-    "player": "Jordin Canada",
-    "stat": "steals",
-    "rank": 57,
-    "passed_players": [
-      "Monique Currie"
-    ],
-    "new_total": 379
   }
 ]
