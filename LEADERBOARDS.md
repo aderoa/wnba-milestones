@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-06 03:28 UTC_
+_Last updated: 2026-06-06 03:29 UTC_
 
 ## Contents
 
@@ -23,7 +23,7 @@ _Last updated: 2026-06-06 03:28 UTC_
 | 2 | Tina Charles | 8,396 |
 | 3 | **DeWanna Bonner** 🔴 +10 | 7,901 |
 | 4 | Tina Thompson | 7,470 |
-| 5 | **Nneka Ogwumike** 🔴 +9 | 7,436 |
+| 5 | **Nneka Ogwumike** 🔴 +11 | 7,438 |
 | 6 | Tamika Catchings | 7,371 |
 | 7 | Candice Dupree | 6,861 |
 | 8 | Sue Bird | 6,802 |
@@ -96,7 +96,7 @@ _Last updated: 2026-06-06 03:28 UTC_
 | 75 | Tammy Sutton-Brown | 3,498 |
 | 76 | Sancho Lyttle | 3,478 |
 | 77 | Ivory Latta | 3,447 |
-| 78 | **Ariel Atkins** 🔴 +10 | 3,436 |
+| 78 | **Ariel Atkins** 🔴 +13 | 3,439 |
 | 79 | Nicole Powell | 3,407 |
 | 80 | Epiphanny Prince | 3,381 |
 | 81 | Michelle Snow | 3,361 |
@@ -454,7 +454,7 @@ _Last updated: 2026-06-06 03:28 UTC_
 | 23 | **Erica Wheeler** 🔴 +4 | 1,304 |
 | 24 | Kristi Toliver | 1,301 |
 | 25 | Katie Smith | 1,258 |
-| 26 | **Kelsey Plum** 🔴 +5 | 1,236 |
+| 26 | **Kelsey Plum** 🔴 +6 | 1,237 |
 | 27 | **Odyssey Sims** 🔴 | 1,228 |
 | 28 | Vickie Johnson | 1,202 |
 | 29 | Jordin Canada | 1,201 |
@@ -599,8 +599,8 @@ _Last updated: 2026-06-06 03:28 UTC_
 | 168 | Marissa Coleman | 399 |
 | 169 | Aliyah Boston | 398 |
 | 170 | Stacey Dales | 395 |
+| 171 | **Jessica Shepard** 🔴 +3 | 393 |
 | 171 | Sugar Rodgers | 393 |
-| 172 | **Jessica Shepard** 🔴 +2 | 392 |
 | 173 | Shameka Christon | 389 |
 | 173 | Tamicha Jackson | 389 |
 | 175 | Riquna Williams | 387 |
@@ -1072,7 +1072,7 @@ _Last updated: 2026-06-06 03:28 UTC_
 | 26 | Sabrina Ionescu | 462 |
 | 27 | Breanna Stewart | 460 |
 | 28 | Tiffany Hayes | 451 |
-| 29 | **Ariel Atkins** 🔴 +2 | 449 |
+| 29 | **Ariel Atkins** 🔴 +3 | 450 |
 | 30 | Allisha Gray | 445 |
 | 31 | Lauren Jackson | 436 |
 | 32 | Skylar Diggins | 435 |
