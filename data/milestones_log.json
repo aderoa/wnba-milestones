@@ -1,5 +1,38 @@
 [
   {
+    "ts": "2026-06-06T03:20:00+00:00",
+    "text": "Alanna Smith passed Krystal Thomas for #157 all-time in rebounds (career 863) \u2014 (5:16 - 3rd \u2014 DAL @ LA)",
+    "kind": "rank_pass",
+    "player": "Alanna Smith",
+    "stat": "rebounds",
+    "rank": 157,
+    "passed_players": [
+      "Krystal Thomas"
+    ],
+    "new_total": 863
+  },
+  {
+    "ts": "2026-06-06T03:20:00+00:00",
+    "text": "Nneka Ogwumike passed Brittney Sykes for #91 all-time in three-pointers (career 243) \u2014 up from #92 entering today \u2014 (5:16 - 3rd \u2014 DAL @ LA)",
+    "kind": "rank_pass",
+    "player": "Nneka Ogwumike",
+    "stat": "three-pointers",
+    "rank": 91,
+    "passed_players": [
+      "Brittney Sykes"
+    ],
+    "new_total": 243
+  },
+  {
+    "ts": "2026-06-06T03:20:00+00:00",
+    "text": "Luisa Geiselsoder reached 100 career fouls (now 100) \u2014 (5:38 - 3rd \u2014 PHX @ POR)",
+    "kind": "round",
+    "player": "Luisa Geiselsoder",
+    "stat": "fouls",
+    "value": 100,
+    "new_total": 100
+  },
+  {
     "ts": "2026-06-06T03:18:00+00:00",
     "text": "Arike Ogunbowale reached 4,600 career points (now 4,603) \u2014 (6:35 - 3rd \u2014 DAL @ LA)",
     "kind": "round",
@@ -2954,42 +2987,5 @@
       "Chamique Holdsclaw"
     ],
     "new_total": 668
-  },
-  {
-    "ts": "2026-05-28T04:06:00+00:00",
-    "text": "Shakira Austin passed Arike Ogunbowale for #190 all-time in rebounds (career 732) \u2014 up from #195 entering today \u2014 (2:05 - 4th \u2014 WSH @ SEA)",
-    "kind": "rank_pass",
-    "player": "Shakira Austin",
-    "stat": "rebounds",
-    "rank": 190,
-    "passed_players": [
-      "Arike Ogunbowale"
-    ],
-    "new_total": 732
-  },
-  {
-    "ts": "2026-05-28T03:31:00+00:00",
-    "text": "Shakira Austin passed Shenise Johnson for #191 all-time in rebounds (career 730) \u2014 up from #195 entering today \u2014 (2:21 - 3rd \u2014 WSH @ SEA)",
-    "kind": "rank_pass",
-    "player": "Shakira Austin",
-    "stat": "rebounds",
-    "rank": 191,
-    "passed_players": [
-      "Shenise Johnson"
-    ],
-    "new_total": 730
-  },
-  {
-    "ts": "2026-05-28T03:13:00+00:00",
-    "text": "Shakira Austin passed Sami Whitcomb and Shekinna Stricklen for #192 all-time in rebounds (career 727) \u2014 up from #195 entering today \u2014 (8:57 - 3rd \u2014 WSH @ SEA)",
-    "kind": "rank_pass",
-    "player": "Shakira Austin",
-    "stat": "rebounds",
-    "rank": 192,
-    "passed_players": [
-      "Sami Whitcomb",
-      "Shekinna Stricklen"
-    ],
-    "new_total": 727
   }
 ]

@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-06 03:19 UTC_
+_Last updated: 2026-06-06 03:20 UTC_
 
 ## Contents
 
@@ -23,7 +23,7 @@ _Last updated: 2026-06-06 03:19 UTC_
 | 2 | Tina Charles | 8,396 |
 | 3 | **DeWanna Bonner** 🔴 +10 | 7,901 |
 | 4 | Tina Thompson | 7,470 |
-| 5 | **Nneka Ogwumike** 🔴 +6 | 7,433 |
+| 5 | **Nneka Ogwumike** 🔴 +9 | 7,436 |
 | 6 | Tamika Catchings | 7,371 |
 | 7 | Candice Dupree | 6,861 |
 | 8 | Sue Bird | 6,802 |
@@ -231,7 +231,7 @@ _Last updated: 2026-06-06 03:19 UTC_
 | 5 | **Nneka Ogwumike** 🔴 +6 | 3,333 |
 | 6 | Tamika Catchings | 3,313 |
 | 7 | Lisa Leslie | 3,303 |
-| 8 | **DeWanna Bonner** 🔴 +2 | 3,257 |
+| 8 | **DeWanna Bonner** 🔴 +3 | 3,258 |
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
@@ -371,7 +371,7 @@ _Last updated: 2026-06-06 03:19 UTC_
 | 145 | Satou Sabally | 926 |
 | 146 | Angel Reese | 923 |
 | 147 | Nicky Anosike | 922 |
-| 148 | **Jessica Shepard** 🔴 +7 | 919 |
+| 148 | **Jessica Shepard** 🔴 +8 | 920 |
 | 149 | Janeth Arcain | 916 |
 | 150 | Karima Christmas-Kelly | 908 |
 | 151 | Natalie Achonwa | 895 |
@@ -379,8 +379,8 @@ _Last updated: 2026-06-06 03:19 UTC_
 | 153 | Mistie Bass | 888 |
 | 154 | **Erica Wheeler** 🔴 | 871 |
 | 155 | Shameka Christon | 867 |
-| 156 | **Alanna Smith** 🔴 | 862 |
-| 156 | Krystal Thomas | 862 |
+| 156 | **Alanna Smith** 🔴 +1 | 863 |
+| 157 | Krystal Thomas | 862 |
 | 158 | Nia Coffey | 854 |
 | 159 | Marina Mabrey | 849 |
 | 160 | Leilani Mitchell | 845 |
@@ -399,7 +399,7 @@ _Last updated: 2026-06-06 03:19 UTC_
 | 173 | Rhonda Mapp | 788 |
 | 174 | Mercedes Russell | 786 |
 | 175 | **Odyssey Sims** 🔴 +1 | 785 |
-| 176 | **Ariel Atkins** 🔴 +2 | 783 |
+| 176 | **Ariel Atkins** 🔴 +3 | 784 |
 | 177 | Sue Wicks | 780 |
 | 178 | Lindsey Harding | 779 |
 | 179 | Tiffani Johnson | 778 |
@@ -1134,8 +1134,8 @@ _Last updated: 2026-06-06 03:19 UTC_
 | 88 | Bria Hartley | 253 |
 | 89 | Angel McCoughtry | 249 |
 | 90 | Erin Thorn | 243 |
-| 91 | Brittney Sykes | 242 |
-| 91 | **Nneka Ogwumike** 🔴 | 242 |
+| 90 | **Nneka Ogwumike** 🔴 +1 | 243 |
+| 92 | Brittney Sykes | 242 |
 | 93 | Azurá Stevens | 241 |
 | 94 | Alex Bentley | 239 |
 | 94 | Cynthia Cooper | 239 |

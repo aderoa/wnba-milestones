@@ -2,6 +2,12 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-06 03:20 UTC
+
+- **Alanna Smith** passed **Krystal Thomas** for **#157** all-time in rebounds (career 863) — _5:16 - 3rd — DAL @ LA_
+- **Nneka Ogwumike** passed **Brittney Sykes** for **#91** all-time in three-pointers (career 243) — up from #92 entering today — _5:16 - 3rd — DAL @ LA_
+- **Luisa Geiselsoder** reached **100** career fouls (now 100) — _5:38 - 3rd — PHX @ POR_
+
 ## 2026-06-06 03:18 UTC
 
 - **Arike Ogunbowale** reached **4,600** career points (now 4,603) — _6:35 - 3rd — DAL @ LA_
