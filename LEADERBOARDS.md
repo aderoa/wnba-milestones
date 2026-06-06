@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-06 04:02 UTC_
+_Last updated: 2026-06-06 04:03 UTC_
 
 ## Contents
 
@@ -107,7 +107,7 @@ _Last updated: 2026-06-06 04:02 UTC_
 | 86 | Margo Dydek | 3,214 |
 | 87 | Stefanie Dolson | 3,195 |
 | 88 | Danielle Robinson | 3,160 |
-| 89 | **Erica Wheeler** 🔴 +5 | 3,142 |
+| 89 | **Erica Wheeler** 🔴 +6 | 3,143 |
 | 90 | Wendy Palmer | 3,135 |
 | 91 | Shavonte Zellous | 3,103 |
 | 92 | Briann January | 3,082 |
@@ -1579,8 +1579,8 @@ _Last updated: 2026-06-06 04:02 UTC_
 | 123 | Janel McCarville | 597 |
 | 124 | Kamila Vodichkova | 596 |
 | 125 | Teresa Weatherspoon | 589 |
-| 126 | **Arike Ogunbowale** 🔴 +2 | 585 |
-| 126 | Emma Meesseman | 585 |
+| 126 | **Arike Ogunbowale** 🔴 +3 | 586 |
+| 127 | Emma Meesseman | 585 |
 | 128 | Chiney Ogwumike | 580 |
 | 128 | Hamchetou Maiga-Ba | 580 |
 | 128 | Olympia Scott | 580 |

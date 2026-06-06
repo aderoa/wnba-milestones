@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-06T04:03:00+00:00",
+    "text": "Arike Ogunbowale passed Emma Meesseman for #126 all-time in fouls (career 586) \u2014 up from #127 entering today \u2014 (2:13 - 4th \u2014 DAL @ LA)",
+    "kind": "rank_pass",
+    "player": "Arike Ogunbowale",
+    "stat": "fouls",
+    "rank": 126,
+    "passed_players": [
+      "Emma Meesseman"
+    ],
+    "new_total": 586
+  },
+  {
     "ts": "2026-06-06T04:02:00+00:00",
     "text": "Ariel Atkins passed Odyssey Sims for #175 all-time in rebounds (career 785) \u2014 up from #176 entering today \u2014 (2:13 - 4th \u2014 DAL @ LA)",
     "kind": "rank_pass",
@@ -2972,19 +2984,5 @@
       "Lisa Leslie"
     ],
     "new_total": 3304
-  },
-  {
-    "ts": "2026-05-30T01:01:00+00:00",
-    "text": "Betnijah Laney-Hamilton passed Jessica Breland, Murriel Page, and Shatori Walker-Kimbrough for #165 all-time in steals (career 205) \u2014 up from #169 entering today \u2014 (3:53 - 3rd \u2014 PHX @ NY)",
-    "kind": "rank_pass",
-    "player": "Betnijah Laney-Hamilton",
-    "stat": "steals",
-    "rank": 165,
-    "passed_players": [
-      "Jessica Breland",
-      "Murriel Page",
-      "Shatori Walker-Kimbrough"
-    ],
-    "new_total": 205
   }
 ]

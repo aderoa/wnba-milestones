@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-06 04:03 UTC
+
+- **Arike Ogunbowale** passed **Emma Meesseman** for **#126** all-time in fouls (career 586) — up from #127 entering today — _2:13 - 4th — DAL @ LA_
+
 ## 2026-06-06 04:02 UTC
 
 - **Ariel Atkins** passed **Odyssey Sims** for **#175** all-time in rebounds (career 785) — up from #176 entering today — _2:13 - 4th — DAL @ LA_
