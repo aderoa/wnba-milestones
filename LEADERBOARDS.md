@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-06 20:09 UTC_
+_Last updated: 2026-06-06 20:10 UTC_
 
 ## Contents
 
@@ -90,7 +90,7 @@ _Last updated: 2026-06-06 20:09 UTC_
 | 69 | Napheesa Collier | 3,542 |
 | 69 | Shannon Johnson | 3,542 |
 | 71 | Renee Montgomery | 3,533 |
-| 72 | **Jackie Young** 🔴 +5 | 3,527 |
+| 72 | **Jackie Young** 🔴 +7 | 3,529 |
 | 73 | Jasmine Thomas | 3,522 |
 | 74 | Tamecka Dixon | 3,507 |
 | 75 | Tammy Sutton-Brown | 3,498 |
@@ -207,7 +207,7 @@ _Last updated: 2026-06-06 20:09 UTC_
 | 186 | Tully Bevilaqua | 1,763 |
 | 187 | Sandy Brondello | 1,759 |
 | 188 | Sophie Cunningham | 1,752 |
-| 189 | **Gabby Williams** 🔴 +12 | 1,735 |
+| 189 | **Gabby Williams** 🔴 +13 | 1,736 |
 | 190 | Sugar Rodgers | 1,733 |
 | 191 | Moriah Jefferson | 1,722 |
 | 192 | Armintie Herrington | 1,696 |
@@ -265,7 +265,7 @@ _Last updated: 2026-06-06 20:09 UTC_
 | 39 | Courtney Williams | 1,806 |
 | 40 | Lindsay Whalen | 1,805 |
 | 41 | Camille Smith | 1,802 |
-| 42 | **Kiah Stokes** 🔴 +2 | 1,792 |
+| 42 | **Kiah Stokes** 🔴 +3 | 1,793 |
 | 43 | Asjha Jones | 1,751 |
 | 44 | Stefanie Dolson | 1,692 |
 | 45 | Teaira McCowan | 1,685 |
@@ -345,7 +345,7 @@ _Last updated: 2026-06-06 20:09 UTC_
 | 119 | Svetlana Abrosimova | 1,078 |
 | 120 | Le'coe Willingham | 1,054 |
 | 121 | Isabelle Harrison | 1,049 |
-| 122 | **Jackie Young** 🔴 +1 | 1,045 |
+| 122 | **Jackie Young** 🔴 +2 | 1,046 |
 | 123 | Nicole Ohlde | 1,040 |
 | 124 | Tamecka Dixon | 1,035 |
 | 125 | Kamila Vodichkova | 1,031 |
@@ -434,7 +434,7 @@ _Last updated: 2026-06-06 20:09 UTC_
 | 3 | Ticha Penicheiro | 2,588 |
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
-| 6 | **Chelsea Gray** 🔴 +2 | 1,937 |
+| 6 | **Chelsea Gray** 🔴 +3 | 1,938 |
 | 7 | Alyssa Thomas | 1,903 |
 | 8 | Skylar Diggins | 1,812 |
 | 9 | Natasha Cloud | 1,772 |
