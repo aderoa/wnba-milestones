@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-06 02:25 UTC_
+_Last updated: 2026-06-06 02:26 UTC_
 
 ## Contents
 
@@ -23,7 +23,7 @@ _Last updated: 2026-06-06 02:25 UTC_
 | 2 | Tina Charles | 8,396 |
 | 3 | **DeWanna Bonner** 🔴 +3 | 7,894 |
 | 4 | Tina Thompson | 7,470 |
-| 5 | **Nneka Ogwumike** 🔴 +2 | 7,429 |
+| 5 | **Nneka Ogwumike** 🔴 +4 | 7,431 |
 | 6 | Tamika Catchings | 7,371 |
 | 7 | Candice Dupree | 6,861 |
 | 8 | Sue Bird | 6,802 |
@@ -57,7 +57,7 @@ _Last updated: 2026-06-06 02:25 UTC_
 | 36 | Elena Delle Donne | 4,706 |
 | 37 | Alyssa Thomas | 4,653 |
 | 38 | Penny Taylor | 4,595 |
-| 39 | **Arike Ogunbowale** 🔴 +6 | 4,588 |
+| 39 | **Arike Ogunbowale** 🔴 +8 | 4,590 |
 | 40 | Natasha Howard | 4,528 |
 | 41 | Chelsea Gray | 4,506 |
 | 42 | Kristi Toliver | 4,474 |
@@ -107,7 +107,7 @@ _Last updated: 2026-06-06 02:25 UTC_
 | 86 | Margo Dydek | 3,214 |
 | 87 | Stefanie Dolson | 3,195 |
 | 88 | Danielle Robinson | 3,160 |
-| 89 | **Erica Wheeler** 🔴 +3 | 3,140 |
+| 89 | **Erica Wheeler** 🔴 +5 | 3,142 |
 | 90 | Wendy Palmer | 3,135 |
 | 91 | Shavonte Zellous | 3,103 |
 | 92 | Briann January | 3,082 |
@@ -228,7 +228,7 @@ _Last updated: 2026-06-06 02:25 UTC_
 | 2 | Sylvia Fowles | 4,005 |
 | 3 | Candace Parker | 3,467 |
 | 4 | Rebekkah Brunson | 3,345 |
-| 5 | **Nneka Ogwumike** 🔴 +3 | 3,330 |
+| 5 | **Nneka Ogwumike** 🔴 +4 | 3,331 |
 | 6 | Tamika Catchings | 3,313 |
 | 7 | Lisa Leslie | 3,303 |
 | 8 | **DeWanna Bonner** 🔴 +1 | 3,256 |
@@ -1315,8 +1315,8 @@ _Last updated: 2026-06-06 02:25 UTC_
 | 64 | Ruth Riley | 637 |
 | 65 | Kayla McBride | 636 |
 | 66 | **Kelsey Plum** 🔴 | 631 |
+| 66 | **Odyssey Sims** 🔴 +1 | 631 |
 | 66 | Svetlana Abrosimova | 631 |
-| 68 | **Odyssey Sims** 🔴 | 630 |
 | 69 | Jonquel Jones | 627 |
 | 70 | Rebekkah Brunson | 615 |
 | 71 | Seimone Augustus | 613 |
