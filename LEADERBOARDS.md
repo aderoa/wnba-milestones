@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-06 03:27 UTC_
+_Last updated: 2026-06-06 03:28 UTC_
 
 ## Contents
 
@@ -228,7 +228,7 @@ _Last updated: 2026-06-06 03:27 UTC_
 | 2 | Sylvia Fowles | 4,005 |
 | 3 | Candace Parker | 3,467 |
 | 4 | Rebekkah Brunson | 3,345 |
-| 5 | **Nneka Ogwumike** 🔴 +7 | 3,334 |
+| 5 | **Nneka Ogwumike** 🔴 +8 | 3,335 |
 | 6 | Tamika Catchings | 3,313 |
 | 7 | Lisa Leslie | 3,303 |
 | 8 | **DeWanna Bonner** 🔴 +4 | 3,259 |
@@ -416,7 +416,7 @@ _Last updated: 2026-06-06 03:27 UTC_
 | 190 | Alex Montgomery | 735 |
 | 191 | Ashley Robinson | 734 |
 | 192 | Shenise Johnson | 729 |
-| 193 | **Kelsey Plum** 🔴 +1 | 727 |
+| 193 | **Kelsey Plum** 🔴 +2 | 728 |
 | 194 | Sami Whitcomb | 726 |
 | 194 | Shekinna Stricklen | 726 |
 | 196 | Olympia Scott | 711 |
@@ -804,15 +804,15 @@ _Last updated: 2026-06-06 03:27 UTC_
 | 168 | Kara Wolters | 77 |
 | 168 | Noelle Quinn | 77 |
 | 168 | Tierra Ruffin-Pratt | 77 |
+| 171 | **Cameron Brink** 🔴 +1 | 76 |
 | 171 | Jennifer Lacy | 76 |
 | 171 | Stephanie Talbot | 76 |
 | 171 | Sugar Rodgers | 76 |
 | 171 | Tan White | 76 |
 | 171 | Tiffany Jackson | 76 |
-| 176 | **Cameron Brink** 🔴 | 75 |
-| 176 | Karima Christmas-Kelly | 75 |
-| 176 | Kelsey Griffin | 75 |
-| 176 | Tianna Hawkins | 75 |
+| 177 | Karima Christmas-Kelly | 75 |
+| 177 | Kelsey Griffin | 75 |
+| 177 | Tianna Hawkins | 75 |
 | 180 | Epiphanny Prince | 74 |
 | 180 | Myisha Hines-Allen | 74 |
 | 182 | Ayana Walker | 73 |
@@ -1314,7 +1314,7 @@ _Last updated: 2026-06-06 03:27 UTC_
 | 63 | Dawn Staley | 643 |
 | 64 | Ruth Riley | 637 |
 | 65 | Kayla McBride | 636 |
-| 66 | **Kelsey Plum** 🔴 +1 | 632 |
+| 66 | **Kelsey Plum** 🔴 +2 | 633 |
 | 67 | **Odyssey Sims** 🔴 +1 | 631 |
 | 67 | Svetlana Abrosimova | 631 |
 | 69 | Jonquel Jones | 627 |

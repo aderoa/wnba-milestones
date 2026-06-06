@@ -1,5 +1,19 @@
 [
   {
+    "ts": "2026-06-06T03:28:00+00:00",
+    "text": "Cameron Brink passed Karima Christmas-Kelly, Kelsey Griffin, and Tianna Hawkins for #177 all-time in blocks (career 76) \u2014 (2:27 - 3rd \u2014 DAL @ LA)",
+    "kind": "rank_pass",
+    "player": "Cameron Brink",
+    "stat": "blocks",
+    "rank": 177,
+    "passed_players": [
+      "Karima Christmas-Kelly",
+      "Kelsey Griffin",
+      "Tianna Hawkins"
+    ],
+    "new_total": 76
+  },
+  {
     "ts": "2026-06-06T03:26:00+00:00",
     "text": "Karlie Samuelson passed Shay Murphy for #162 all-time in three-pointers (career 135) \u2014 up from #165 entering today \u2014 (3:37 - 3rd \u2014 PHX @ POR)",
     "kind": "rank_pass",
@@ -2976,17 +2990,5 @@
       "Riquna Williams"
     ],
     "new_total": 388
-  },
-  {
-    "ts": "2026-05-29T04:06:00+00:00",
-    "text": "Gabby Williams passed Tiffani Johnson for #177 all-time in rebounds (career 779) \u2014 up from #179 entering today \u2014 (3:11 - 4th \u2014 IND @ GS)",
-    "kind": "rank_pass",
-    "player": "Gabby Williams",
-    "stat": "rebounds",
-    "rank": 177,
-    "passed_players": [
-      "Tiffani Johnson"
-    ],
-    "new_total": 779
   }
 ]
