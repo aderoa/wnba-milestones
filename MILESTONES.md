@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-06 18:15 UTC
+
+- **Natisha Hiedeman** passed **Kelly Miller** for **#70** all-time in three-pointers (career 306) — up from #72 entering today — _5:56 - 3rd — SEA @ MIN_
+
 ## 2026-06-06 18:13 UTC
 
 - **Natisha Hiedeman** passed **Azurá Stevens** for **#197** all-time in turnovers (career 293) — up from #198 entering today — _6:40 - 3rd — SEA @ MIN_

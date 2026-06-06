@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-06T18:15:00+00:00",
+    "text": "Natisha Hiedeman passed Kelly Miller for #70 all-time in three-pointers (career 306) \u2014 up from #72 entering today \u2014 (5:56 - 3rd \u2014 SEA @ MIN)",
+    "kind": "rank_pass",
+    "player": "Natisha Hiedeman",
+    "stat": "three-pointers",
+    "rank": 70,
+    "passed_players": [
+      "Kelly Miller"
+    ],
+    "new_total": 306
+  },
+  {
     "ts": "2026-06-06T18:13:00+00:00",
     "text": "Natisha Hiedeman passed Azur\u00e1 Stevens for #197 all-time in turnovers (career 293) \u2014 up from #198 entering today \u2014 (6:40 - 3rd \u2014 SEA @ MIN)",
     "kind": "rank_pass",
@@ -2953,17 +2965,5 @@
       "Scholanda Dorrell"
     ],
     "new_total": 110
-  },
-  {
-    "ts": "2026-06-04T00:48:00+00:00",
-    "text": "Brittney Sykes passed Maya Moore for #89 all-time in fouls (career 687) \u2014 up from #90 entering today \u2014 (5:15 - 3rd \u2014 TOR @ NY)",
-    "kind": "rank_pass",
-    "player": "Brittney Sykes",
-    "stat": "fouls",
-    "rank": 89,
-    "passed_players": [
-      "Maya Moore"
-    ],
-    "new_total": 687
   }
 ]
