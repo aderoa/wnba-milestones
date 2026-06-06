@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-06T02:12:00+00:00",
+    "text": "Ariel Atkins passed Bria Hartley for #87 all-time in assists (career 662) \u2014 (5:18 - 1st \u2014 DAL @ LA)",
+    "kind": "rank_pass",
+    "player": "Ariel Atkins",
+    "stat": "assists",
+    "rank": 87,
+    "passed_players": [
+      "Bria Hartley"
+    ],
+    "new_total": 662
+  },
+  {
     "ts": "2026-06-06T02:11:00+00:00",
     "text": "Arike Ogunbowale passed Shavonte Zellous and Wendy Palmer for #104 all-time in turnovers (career 518) \u2014 (5:34 - 1st \u2014 DAL @ LA)",
     "kind": "rank_pass",
@@ -2980,17 +2992,5 @@
       "Tamika Whitmore"
     ],
     "new_total": 941
-  },
-  {
-    "ts": "2026-05-28T00:45:00+00:00",
-    "text": "Elizabeth Williams passed Iziane Castro Marques for #102 all-time in points (career 2,863) \u2014 up from #103 entering today \u2014 (3:12 - 2nd \u2014 TOR @ CHI)",
-    "kind": "rank_pass",
-    "player": "Elizabeth Williams",
-    "stat": "points",
-    "rank": 102,
-    "passed_players": [
-      "Iziane Castro Marques"
-    ],
-    "new_total": 2863
   }
 ]

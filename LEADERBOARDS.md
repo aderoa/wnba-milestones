@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-06 02:11 UTC_
+_Last updated: 2026-06-06 02:12 UTC_
 
 ## Contents
 
@@ -63,7 +63,7 @@ _Last updated: 2026-06-06 02:11 UTC_
 | 42 | Kristi Toliver | 4,474 |
 | 43 | Crystal Langhorne | 4,433 |
 | 43 | Jia Perkins | 4,433 |
-| 45 | **Kelsey Plum** 🔴 +3 | 4,371 |
+| 45 | **Kelsey Plum** 🔴 +5 | 4,373 |
 | 46 | Courtney Vandersloot | 4,352 |
 | 47 | Allisha Gray | 4,339 |
 | 48 | Sophia Young-Malcolm | 4,300 |
@@ -71,8 +71,8 @@ _Last updated: 2026-06-06 02:11 UTC_
 | 50 | Plenette Pierson | 4,258 |
 | 51 | Monique Currie | 4,253 |
 | 52 | Courtney Williams | 4,238 |
+| 53 | **Dearica Hamby** 🔴 +2 | 4,230 |
 | 53 | Vickie Johnson | 4,230 |
-| 54 | **Dearica Hamby** 🔴 | 4,228 |
 | 55 | Yolanda Griffith | 4,224 |
 | 56 | Jonquel Jones | 4,222 |
 | 57 | Rebekkah Brunson | 4,133 |
@@ -482,8 +482,8 @@ _Last updated: 2026-06-06 02:11 UTC_
 | 51 | Kelly Miller | 927 |
 | 52 | DeLisha Milton-Jones | 921 |
 | 53 | Angel McCoughtry | 915 |
-| 54 | **Arike Ogunbowale** 🔴 +1 | 913 |
-| 54 | **Nneka Ogwumike** 🔴 +1 | 913 |
+| 54 | **Arike Ogunbowale** 🔴 +2 | 914 |
+| 55 | **Nneka Ogwumike** 🔴 +1 | 913 |
 | 56 | Layshia Clarendon | 911 |
 | 56 | Seimone Augustus | 911 |
 | 58 | Candice Dupree | 902 |
@@ -506,7 +506,7 @@ _Last updated: 2026-06-06 02:11 UTC_
 | 75 | Allisha Gray | 743 |
 | 76 | Monique Currie | 740 |
 | 77 | Elaine Powell | 728 |
-| 78 | **Dearica Hamby** 🔴 | 717 |
+| 78 | **Dearica Hamby** 🔴 +1 | 718 |
 | 79 | Stefanie Dolson | 700 |
 | 80 | Chamique Holdsclaw | 698 |
 | 81 | Shavonte Zellous | 693 |
@@ -514,8 +514,8 @@ _Last updated: 2026-06-06 02:11 UTC_
 | 83 | Moriah Jefferson | 685 |
 | 84 | Emma Meesseman | 681 |
 | 85 | Nykesha Sales | 677 |
-| 86 | **Ariel Atkins** 🔴 | 661 |
-| 86 | Bria Hartley | 661 |
+| 86 | **Ariel Atkins** 🔴 +1 | 662 |
+| 87 | Bria Hartley | 661 |
 | 88 | Lindsay Allen | 657 |
 | 89 | Betty Lennox | 651 |
 | 89 | Plenette Pierson | 651 |
