@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-06 00:12 UTC_
+_Last updated: 2026-06-06 00:13 UTC_
 
 ## Contents
 
@@ -40,7 +40,7 @@ _Last updated: 2026-06-06 00:12 UTC_
 | 19 | A'ja Wilson | 5,942 |
 | 20 | Becky Hammon | 5,816 |
 | 21 | Angel McCoughtry | 5,797 |
-| 22 | **Skylar Diggins** 🔴 +10 | 5,612 |
+| 22 | **Skylar Diggins** 🔴 +12 | 5,614 |
 | 23 | DeLisha Milton-Jones | 5,571 |
 | 24 | Katie Douglas | 5,545 |
 | 25 | Kayla McBride | 5,522 |
@@ -119,8 +119,8 @@ _Last updated: 2026-06-06 00:12 UTC_
 | 98 | Emma Meesseman | 2,966 |
 | 99 | **Natasha Cloud** 🔴 | 2,939 |
 | 100 | Natalie Williams | 2,894 |
+| 101 | **Elizabeth Williams** 🔴 +2 | 2,888 |
 | 101 | Jennifer Gillom | 2,888 |
-| 102 | **Elizabeth Williams** 🔴 | 2,886 |
 | 103 | Iziane Castro Marques | 2,862 |
 | 104 | Alysha Clark | 2,807 |
 | 105 | Jantel Lavender | 2,775 |
@@ -437,7 +437,7 @@ _Last updated: 2026-06-06 00:12 UTC_
 | 6 | Chelsea Gray | 1,935 |
 | 7 | Alyssa Thomas | 1,903 |
 | 8 | **Skylar Diggins** 🔴 +2 | 1,810 |
-| 9 | **Natasha Cloud** 🔴 +2 | 1,769 |
+| 9 | **Natasha Cloud** 🔴 +3 | 1,770 |
 | 10 | Becky Hammon | 1,705 |
 | 11 | Candace Parker | 1,634 |
 | 12 | Cappie Pondexter | 1,575 |
