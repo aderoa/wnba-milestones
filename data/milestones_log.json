@@ -1,5 +1,14 @@
 [
   {
+    "ts": "2026-06-06T19:34:00+00:00",
+    "text": "Kaila Charles reached 100 career assists (now 100) \u2014 (8:02 - 2nd \u2014 GS @ LV)",
+    "kind": "round",
+    "player": "Kaila Charles",
+    "stat": "assists",
+    "value": 100,
+    "new_total": 100
+  },
+  {
     "ts": "2026-06-06T19:25:00+00:00",
     "text": "Jewell Loyd passed Emma Meesseman for #80 all-time in rebounds (career 1,351) \u2014 up from #81 entering today \u2014 (End of 1st \u2014 GS @ LV)",
     "kind": "rank_pass",
@@ -2964,17 +2973,5 @@
     "stat": "rebounds",
     "value": 100,
     "new_total": 100
-  },
-  {
-    "ts": "2026-06-04T02:51:00+00:00",
-    "text": "Natisha Hiedeman passed Alanna Smith for #176 all-time in steals (career 191) \u2014 up from #177 entering today \u2014 (2:06 - 2nd \u2014 PHX @ SEA)",
-    "kind": "rank_pass",
-    "player": "Natisha Hiedeman",
-    "stat": "steals",
-    "rank": 176,
-    "passed_players": [
-      "Alanna Smith"
-    ],
-    "new_total": 191
   }
 ]
