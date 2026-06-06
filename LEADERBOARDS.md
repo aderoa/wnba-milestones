@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-06 23:47 UTC_
+_Last updated: 2026-06-06 23:48 UTC_
 
 ## Contents
 
@@ -971,8 +971,8 @@ _Last updated: 2026-06-06 23:47 UTC_
 | 130 | Ivory Latta | 243 |
 | 131 | Erlana Larkins | 242 |
 | 132 | Shavonte Zellous | 241 |
-| 133 | Coco Miller | 237 |
-| 133 | **Rhyne Howard** 🔴 +5 | 237 |
+| 133 | **Rhyne Howard** 🔴 +6 | 238 |
+| 134 | Coco Miller | 237 |
 | 135 | Marissa Coleman | 236 |
 | 136 | Nikki McCray | 235 |
 | 137 | Merlakia Jones | 232 |
