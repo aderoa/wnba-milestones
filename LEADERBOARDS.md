@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-06 02:44 UTC_
+_Last updated: 2026-06-06 02:45 UTC_
 
 ## Contents
 
@@ -412,7 +412,7 @@ _Last updated: 2026-06-06 02:44 UTC_
 | 186 | Layshia Clarendon | 756 |
 | 187 | Brooke Wyckoff | 751 |
 | 188 | Coco Miller | 750 |
-| 189 | **Arike Ogunbowale** 🔴 +1 | 743 |
+| 189 | **Arike Ogunbowale** 🔴 +2 | 744 |
 | 190 | Alex Montgomery | 735 |
 | 191 | Ashley Robinson | 734 |
 | 192 | Shenise Johnson | 729 |
@@ -481,7 +481,7 @@ _Last updated: 2026-06-06 02:44 UTC_
 | 50 | Deanna Nolan | 930 |
 | 51 | Kelly Miller | 927 |
 | 52 | DeLisha Milton-Jones | 921 |
-| 53 | **Arike Ogunbowale** 🔴 +5 | 917 |
+| 53 | **Arike Ogunbowale** 🔴 +6 | 918 |
 | 54 | Angel McCoughtry | 915 |
 | 54 | **Nneka Ogwumike** 🔴 +3 | 915 |
 | 56 | Layshia Clarendon | 911 |
@@ -1533,8 +1533,8 @@ _Last updated: 2026-06-06 02:44 UTC_
 | 77 | Kristi Toliver | 722 |
 | 78 | Elizabeth Williams | 720 |
 | 79 | Cheryl Ford | 713 |
+| 80 | **Ariel Atkins** 🔴 +3 | 711 |
 | 80 | Jia Perkins | 711 |
-| 81 | **Ariel Atkins** 🔴 +2 | 710 |
 | 82 | Helen Darling | 709 |
 | 83 | Matee Ajavon | 701 |
 | 83 | Nicole Powell | 701 |
