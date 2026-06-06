@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-06 19:38 UTC
+
+- **Stephanie Talbot** passed **Cameron Brink**, **Jennifer Lacy**, **Sugar Rodgers**, **Tan White**, and **Tiffany Jackson** for **#171** all-time in blocks (career 77) — up from #173 entering today — _6:14 - 2nd — GS @ LV_
+
 ## 2026-06-06 19:37 UTC
 
 - **Stephanie Talbot** passed **Riquna Williams** for **#175** all-time in assists (career 388) — up from #176 entering today — _6:33 - 2nd — GS @ LV_

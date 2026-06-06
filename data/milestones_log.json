@@ -1,5 +1,21 @@
 [
   {
+    "ts": "2026-06-06T19:38:00+00:00",
+    "text": "Stephanie Talbot passed Cameron Brink, Jennifer Lacy, Sugar Rodgers, Tan White, and Tiffany Jackson for #171 all-time in blocks (career 77) \u2014 up from #173 entering today \u2014 (6:14 - 2nd \u2014 GS @ LV)",
+    "kind": "rank_pass",
+    "player": "Stephanie Talbot",
+    "stat": "blocks",
+    "rank": 171,
+    "passed_players": [
+      "Cameron Brink",
+      "Jennifer Lacy",
+      "Sugar Rodgers",
+      "Tan White",
+      "Tiffany Jackson"
+    ],
+    "new_total": 77
+  },
+  {
     "ts": "2026-06-06T19:37:00+00:00",
     "text": "Stephanie Talbot passed Riquna Williams for #175 all-time in assists (career 388) \u2014 up from #176 entering today \u2014 (6:33 - 2nd \u2014 GS @ LV)",
     "kind": "rank_pass",
@@ -2964,17 +2980,5 @@
     "stat": "fouls",
     "value": 200,
     "new_total": 200
-  },
-  {
-    "ts": "2026-06-04T03:23:00+00:00",
-    "text": "Alyssa Thomas passed Lindsay Whalen for #13 all-time in turnovers (career 1,003) \u2014 up from #14 entering today \u2014 (2:13 - 3rd \u2014 PHX @ SEA)",
-    "kind": "rank_pass",
-    "player": "Alyssa Thomas",
-    "stat": "turnovers",
-    "rank": 13,
-    "passed_players": [
-      "Lindsay Whalen"
-    ],
-    "new_total": 1003
   }
 ]

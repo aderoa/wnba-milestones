@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-06 19:37 UTC_
+_Last updated: 2026-06-06 19:38 UTC_
 
 ## Contents
 
@@ -150,7 +150,7 @@ _Last updated: 2026-06-06 19:37 UTC_
 | 129 | Anna DeForge | 2,413 |
 | 130 | DeMya Walker | 2,379 |
 | 131 | Alex Bentley | 2,350 |
-| 132 | **Kayla Thornton** 🔴 +6 | 2,339 |
+| 132 | **Kayla Thornton** 🔴 +7 | 2,340 |
 | 133 | Merlakia Jones | 2,308 |
 | 134 | Kia Vaughn | 2,288 |
 | 135 | Betnijah Laney-Hamilton | 2,282 |
@@ -238,7 +238,7 @@ _Last updated: 2026-06-06 19:37 UTC_
 | 12 | Alyssa Thomas | 2,817 |
 | 13 | Jonquel Jones | 2,663 |
 | 14 | Sancho Lyttle | 2,596 |
-| 15 | **A'ja Wilson** 🔴 +5 | 2,579 |
+| 15 | **A'ja Wilson** 🔴 +6 | 2,580 |
 | 16 | DeLisha Milton-Jones | 2,574 |
 | 17 | Breanna Stewart | 2,560 |
 | 18 | Brittney Griner | 2,556 |
@@ -265,7 +265,7 @@ _Last updated: 2026-06-06 19:37 UTC_
 | 39 | Courtney Williams | 1,806 |
 | 40 | Lindsay Whalen | 1,805 |
 | 41 | Camille Smith | 1,802 |
-| 42 | **Kiah Stokes** 🔴 +1 | 1,791 |
+| 42 | **Kiah Stokes** 🔴 +2 | 1,792 |
 | 43 | Asjha Jones | 1,751 |
 | 44 | Stefanie Dolson | 1,692 |
 | 45 | Teaira McCowan | 1,685 |
@@ -300,7 +300,7 @@ _Last updated: 2026-06-06 19:37 UTC_
 | 74 | Courtney Vandersloot | 1,383 |
 | 74 | Katie Smith | 1,383 |
 | 76 | Ebony Hoffman | 1,376 |
-| 77 | **Kayla Thornton** 🔴 +5 | 1,365 |
+| 77 | **Kayla Thornton** 🔴 +6 | 1,366 |
 | 78 | Sheri Sam | 1,356 |
 | 79 | Tamika Whitmore | 1,355 |
 | 80 | **Jewell Loyd** 🔴 +2 | 1,351 |
@@ -803,13 +803,13 @@ _Last updated: 2026-06-06 19:37 UTC_
 | 165 | Slobodanka Tuvic | 78 |
 | 168 | Kara Wolters | 77 |
 | 168 | Noelle Quinn | 77 |
+| 168 | **Stephanie Talbot** 🔴 +1 | 77 |
 | 168 | Tierra Ruffin-Pratt | 77 |
-| 171 | Cameron Brink | 76 |
-| 171 | Jennifer Lacy | 76 |
-| 171 | **Stephanie Talbot** 🔴 | 76 |
-| 171 | Sugar Rodgers | 76 |
-| 171 | Tan White | 76 |
-| 171 | Tiffany Jackson | 76 |
+| 172 | Cameron Brink | 76 |
+| 172 | Jennifer Lacy | 76 |
+| 172 | Sugar Rodgers | 76 |
+| 172 | Tan White | 76 |
+| 172 | Tiffany Jackson | 76 |
 | 177 | Karima Christmas-Kelly | 75 |
 | 177 | Kelsey Griffin | 75 |
 | 177 | Tianna Hawkins | 75 |
@@ -1651,6 +1651,6 @@ _Last updated: 2026-06-06 19:37 UTC_
 | 195 | Sue Wicks | 462 |
 | 196 | Natalie Achonwa | 459 |
 | 197 | Kara Lawson | 457 |
-| 198 | **NaLyssa Smith** 🔴 | 454 |
+| 198 | **NaLyssa Smith** 🔴 +1 | 455 |
 | 199 | Alexis Hornbuckle | 450 |
 | 199 | Satou Sabally | 450 |
