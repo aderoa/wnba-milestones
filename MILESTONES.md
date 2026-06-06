@@ -2,6 +2,58 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-06 12:04 UTC
+
+- **Brittney Griner** passed **Breanna Stewart** for **#17** all-time in rebounds (career 2,564) — up from #18 entering today — _Final — CON @ CHI_
+- **Brittney Griner** passed **Betty Lennox** and **Plenette Pierson** for **#89** all-time in assists (career 653) — up from #91 entering today — _Final — CON @ CHI_
+- **Brittney Griner** passed **Lauren Jackson** for **#28** all-time in fouls (career 983) — up from #29 entering today — _Final — CON @ CHI_
+- **Leila Lacan** reached **100** career fouls (now 102) — _Final — CON @ CHI_
+- **Azurá Stevens** passed **Janel McCarville** and **Liz Cambage** for **#89** all-time in rebounds (career 1,266) — up from #91 entering today — _Final — CON @ CHI_
+- **Azurá Stevens** passed **Shameka Christon** for **#166** all-time in steals (career 206) — _Final — CON @ CHI_
+- **Azurá Stevens** passed **Seimone Augustus**, **Allie Quigley**, and **Nia Coffey** for **#187** all-time in fouls (career 478) — up from #190 entering today — _Final — CON @ CHI_
+- **Kamilla Cardoso** reached **700** career rebounds (now 701) — _Final — CON @ CHI_
+- **Kamilla Cardoso** passed **Amanda Lassiter**, **Kamila Vodichkova**, **Sophia Young-Malcolm**, and **Tari Phillips** for **#112** all-time in blocks (career 113) — up from #114 entering today — _Final — CON @ CHI_
+- **Skylar Diggins** passed **Kristen Rasmussen** for **#135** all-time in rebounds (career 994) — up from #136 entering today — _Final — CON @ CHI_
+- **Skylar Diggins** passed **Lauren Jackson** for **#31** all-time in three-pointers (career 437) — up from #32 entering today — _Final — CON @ CHI_
+- **Rachel Banham** passed **Tianna Hawkins** and **Noelle Quinn** for **#179** all-time in points (career 1,829) — up from #181 entering today — _Final — CON @ CHI_
+- **Rachel Banham** passed **Iziane Castro Marques**, **Brittany Boyd-Jones**, **Chasity Melvin**, and **Rhyne Howard** for **#124** all-time in assists (career 511) — up from #127 entering today — _Final — CON @ CHI_
+- **Rachel Banham** passed **Ann Wauters** and **Riquna Williams** for **#177** all-time in fouls (career 494) — up from #179 entering today — _Final — CON @ CHI_
+- **Elizabeth Williams** reached **2,900** career points (now 2,906) — _Final — CON @ CHI_
+- **Elizabeth Williams** passed **Janeth Arcain** for **#136** all-time in assists (career 470) — up from #137 entering today — _Final — CON @ CHI_
+- **Natasha Cloud** passed **Deanna Nolan** for **#57** all-time in three-pointers (career 341) — up from #58 entering today — _Final — CON @ CHI_
+- **Natasha Cloud** passed **Kia Vaughn** for **#67** all-time in fouls (career 758) — up from #68 entering today — _Final — CON @ CHI_
+- **Jessica Shepard** reached **1,000** career points (now 1,013) — _Final — DAL @ LA_
+- **Jessica Shepard** passed **Merlakia Jones** for **#145** all-time in rebounds (career 942) — _Final — DAL @ LA_
+- **Jessica Shepard** reached **400** career assists (now 400) — _Final — DAL @ LA_
+- **Jessica Shepard** passed **Marissa Coleman**, **Aliyah Boston**, and **Stacey Dales** for **#168** all-time in assists (career 400) — up from #170 entering today — _Final — DAL @ LA_
+- **Jessica Shepard** reached **200** career turnovers (now 202) — _Final — DAL @ LA_
+- **Maddy Siegrist** reached **300** career rebounds (now 300) — _Final — DAL @ LA_
+- **Arike Ogunbowale** passed **Brooke Wyckoff** and **Coco Miller** for **#187** all-time in rebounds (career 754) — up from #189 entering today — _Final — DAL @ LA_
+- **Arike Ogunbowale** passed **DeLisha Milton-Jones** for **#52** all-time in assists (career 924) — up from #53 entering today — _Final — DAL @ LA_
+- **Odyssey Sims** passed **Svetlana Abrosimova** for **#68** all-time in turnovers (career 632) — _Final — DAL @ LA_
+- **Nneka Ogwumike** passed **Rebekkah Brunson** for **#4** all-time in rebounds (career 3,347) — up from #5 entering today — _Final — DAL @ LA_
+- **Nneka Ogwumike** passed **DeLisha Milton-Jones** and **Arike Ogunbowale** for **#52** all-time in assists (career 922) — up from #54 entering today — _Final — DAL @ LA_
+- **Nneka Ogwumike** passed **Erin Thorn** for **#90** all-time in three-pointers (career 244) — up from #91 entering today — _Final — DAL @ LA_
+- **Dearica Hamby** passed **Monique Currie** for **#51** all-time in points (career 4,258) — up from #52 entering today — _Final — DAL @ LA_
+- **Kelsey Plum** reached **4,400** career points (now 4,422) — _Final — DAL @ LA_
+- **Kelsey Plum** passed **Shenise Johnson** for **#192** all-time in rebounds (career 730) — up from #193 entering today — _Final — DAL @ LA_
+- **Kelsey Plum** passed **Ruth Riley** and **Kayla McBride** for **#64** all-time in turnovers (career 641) — up from #66 entering today — _Final — DAL @ LA_
+- **Kelsey Plum** passed **Jennifer Lacy** and **Temeka Johnson** for **#94** all-time in fouls (career 682) — up from #95 entering today — _Final — DAL @ LA_
+- **Ariel Atkins** passed **Ivory Latta** for **#77** all-time in points (career 3,458) — up from #78 entering today — _Final — DAL @ LA_
+- **Ariel Atkins** passed **Rhonda Mapp** and **Mercedes Russell** for **#173** all-time in rebounds (career 791) — up from #174 entering today — _Final — DAL @ LA_
+- **Ariel Atkins** passed **Jordin Canada** for **#56** all-time in steals (career 381) — _Final — DAL @ LA_
+- **Ariel Atkins** passed **Tiffany Hayes** for **#29** all-time in three-pointers (career 455) — _Final — DAL @ LA_
+- **Ariel Atkins** passed **Kia Vaughn** for **#123** all-time in turnovers (career 456) — _Final — DAL @ LA_
+- **Ariel Atkins** passed **Cheryl Ford** for **#80** all-time in fouls (career 718) — _Final — DAL @ LA_
+- **Cameron Brink** passed **Jennifer Lacy**, **Stephanie Talbot**, **Sugar Rodgers**, **Tan White**, and **Tiffany Jackson** for **#172** all-time in blocks (career 77) — _Final — DAL @ LA_
+- **Rae Burrell** reached **100** career turnovers (now 100) — _Final — DAL @ LA_
+- **DeWanna Bonner** passed **Ezi Magbegor** for **#22** all-time in blocks (career 356) — up from #23 entering today — _Final — PHX @ POR_
+- **Natasha Mack** reached **500** career rebounds (now 503) — _Final — PHX @ POR_
+- **Natasha Mack** passed **Andrea Stinson** and **Crystal Langhorne** for **#107** all-time in blocks (career 118) — up from #109 entering today — _Final — PHX @ POR_
+- **Lexi Held** reached **200** career points (now 200) — _Final — PHX @ POR_
+- **Bridget Carleton** passed **Shenise Johnson** for **#179** all-time in assists (career 377) — up from #180 entering today — _Final — PHX @ POR_
+- **Karlie Samuelson** passed **Loree Moore**, **Tanisha Wright**, **Gabby Williams**, and **Kaleena Mosqueda-Lewis** for **#158** all-time in three-pointers (career 139) — up from #162 entering today — _Final — PHX @ POR_
+
 ## 2026-06-06 04:11 UTC
 
 - **Erica Wheeler** passed **Natasha Cloud** for **#48** all-time in turnovers (career 690) — up from #49 entering today — _30.5 - 4th — DAL @ LA_
