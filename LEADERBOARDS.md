@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-06 02:23 UTC_
+_Last updated: 2026-06-06 02:24 UTC_
 
 ## Contents
 
@@ -57,13 +57,13 @@ _Last updated: 2026-06-06 02:23 UTC_
 | 36 | Elena Delle Donne | 4,706 |
 | 37 | Alyssa Thomas | 4,653 |
 | 38 | Penny Taylor | 4,595 |
-| 39 | **Arike Ogunbowale** 🔴 +3 | 4,585 |
+| 39 | **Arike Ogunbowale** 🔴 +6 | 4,588 |
 | 40 | Natasha Howard | 4,528 |
 | 41 | Chelsea Gray | 4,506 |
 | 42 | Kristi Toliver | 4,474 |
 | 43 | Crystal Langhorne | 4,433 |
 | 43 | Jia Perkins | 4,433 |
-| 45 | **Kelsey Plum** 🔴 +5 | 4,373 |
+| 45 | **Kelsey Plum** 🔴 +7 | 4,375 |
 | 46 | Courtney Vandersloot | 4,352 |
 | 47 | Allisha Gray | 4,339 |
 | 48 | Sophia Young-Malcolm | 4,300 |
@@ -85,7 +85,7 @@ _Last updated: 2026-06-06 02:23 UTC_
 | 64 | Kara Lawson | 3,670 |
 | 65 | Brittney Sykes | 3,621 |
 | 66 | Mwadi Mabika | 3,576 |
-| 67 | Odyssey Sims | 3,574 |
+| 67 | **Odyssey Sims** 🔴 | 3,574 |
 | 68 | Camille Smith | 3,551 |
 | 69 | Napheesa Collier | 3,542 |
 | 69 | Shannon Johnson | 3,542 |
@@ -398,7 +398,7 @@ _Last updated: 2026-06-06 02:23 UTC_
 | 172 | Charlotte Smith | 794 |
 | 173 | Rhonda Mapp | 788 |
 | 174 | Mercedes Russell | 786 |
-| 175 | Odyssey Sims | 784 |
+| 175 | **Odyssey Sims** 🔴 | 784 |
 | 176 | **Ariel Atkins** 🔴 | 781 |
 | 177 | Sue Wicks | 780 |
 | 178 | Lindsey Harding | 779 |
@@ -455,7 +455,7 @@ _Last updated: 2026-06-06 02:23 UTC_
 | 23 | Kristi Toliver | 1,301 |
 | 25 | Katie Smith | 1,258 |
 | 26 | **Kelsey Plum** 🔴 +1 | 1,232 |
-| 27 | Odyssey Sims | 1,228 |
+| 27 | **Odyssey Sims** 🔴 | 1,228 |
 | 28 | Vickie Johnson | 1,202 |
 | 29 | Jordin Canada | 1,201 |
 | 30 | Leilani Mitchell | 1,197 |
@@ -482,8 +482,8 @@ _Last updated: 2026-06-06 02:23 UTC_
 | 51 | Kelly Miller | 927 |
 | 52 | DeLisha Milton-Jones | 921 |
 | 53 | Angel McCoughtry | 915 |
-| 54 | **Arike Ogunbowale** 🔴 +2 | 914 |
-| 55 | **Nneka Ogwumike** 🔴 +1 | 913 |
+| 53 | **Arike Ogunbowale** 🔴 +3 | 915 |
+| 55 | **Nneka Ogwumike** 🔴 +2 | 914 |
 | 56 | Layshia Clarendon | 911 |
 | 56 | Seimone Augustus | 911 |
 | 58 | Candice Dupree | 902 |
@@ -917,7 +917,7 @@ _Last updated: 2026-06-06 02:23 UTC_
 | 76 | Andrea Stinson | 342 |
 | 77 | Armintie Herrington | 340 |
 | 78 | Dawn Staley | 338 |
-| 79 | Odyssey Sims | 334 |
+| 79 | **Odyssey Sims** 🔴 | 334 |
 | 80 | Marie Ferdinand-Harris | 331 |
 | 81 | Chasity Melvin | 330 |
 | 81 | Leilani Mitchell | 330 |
@@ -1059,7 +1059,7 @@ _Last updated: 2026-06-06 02:23 UTC_
 | 13 | Tamika Catchings | 605 |
 | 14 | Kara Lawson | 583 |
 | 15 | Nicole Powell | 579 |
-| 16 | **Arike Ogunbowale** 🔴 +1 | 561 |
+| 16 | **Arike Ogunbowale** 🔴 +2 | 562 |
 | 17 | Ivory Latta | 536 |
 | 18 | Renee Montgomery | 532 |
 | 19 | Maya Moore | 530 |
@@ -1141,7 +1141,7 @@ _Last updated: 2026-06-06 02:23 UTC_
 | 94 | Cynthia Cooper | 239 |
 | 96 | Svetlana Abrosimova | 235 |
 | 96 | Tangela Smith | 235 |
-| 98 | Odyssey Sims | 234 |
+| 98 | **Odyssey Sims** 🔴 | 234 |
 | 99 | Stacey Dales | 232 |
 | 100 | Elena Baranova | 224 |
 | 101 | Essence Carson | 223 |
@@ -1208,7 +1208,7 @@ _Last updated: 2026-06-06 02:23 UTC_
 | 162 | Shay Murphy | 134 |
 | 163 | Brooke Wyckoff | 132 |
 | 163 | Jenna O'Hea | 132 |
-| 165 | **Karlie Samuelson** 🔴 | 131 |
+| 163 | **Karlie Samuelson** 🔴 +1 | 132 |
 | 166 | Amanda Zahui B | 130 |
 | 166 | Eva Nemcova | 130 |
 | 168 | Crystal Dangerfield | 129 |
@@ -1316,7 +1316,7 @@ _Last updated: 2026-06-06 02:23 UTC_
 | 65 | Kayla McBride | 636 |
 | 66 | **Kelsey Plum** 🔴 | 631 |
 | 66 | Svetlana Abrosimova | 631 |
-| 68 | Odyssey Sims | 630 |
+| 68 | **Odyssey Sims** 🔴 | 630 |
 | 69 | Jonquel Jones | 627 |
 | 70 | Rebekkah Brunson | 615 |
 | 71 | Seimone Augustus | 613 |
@@ -1572,7 +1572,7 @@ _Last updated: 2026-06-06 02:23 UTC_
 | 116 | Coco Miller | 615 |
 | 117 | Brooke Wyckoff | 614 |
 | 118 | Svetlana Abrosimova | 613 |
-| 119 | Odyssey Sims | 610 |
+| 119 | **Odyssey Sims** 🔴 | 610 |
 | 120 | Layshia Clarendon | 609 |
 | 121 | Tiffany Mitchell | 604 |
 | 122 | Kelsey Mitchell | 601 |
