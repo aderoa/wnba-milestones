@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-06T20:11:00+00:00",
+    "text": "Stephanie Talbot passed Alanna Smith for #141 all-time in three-pointers (career 155) \u2014 up from #144 entering today \u2014 (7:17 - 3rd \u2014 GS @ LV)",
+    "kind": "rank_pass",
+    "player": "Stephanie Talbot",
+    "stat": "three-pointers",
+    "rank": 141,
+    "passed_players": [
+      "Alanna Smith"
+    ],
+    "new_total": 155
+  },
+  {
     "ts": "2026-06-06T20:09:00+00:00",
     "text": "Kayla Thornton passed Tianna Hawkins for #101 all-time in fouls (career 663) \u2014 up from #103 entering today \u2014 (9:06 - 3rd \u2014 GS @ LV)",
     "kind": "rank_pass",
@@ -2966,17 +2978,5 @@
       "Janeth Arcain"
     ],
     "new_total": 917
-  },
-  {
-    "ts": "2026-06-04T23:12:00+00:00",
-    "text": "Aliyah Boston passed Ann Wauters for #117 all-time in rebounds (career 1,106) \u2014 up from #118 entering today \u2014 (5:55 - 1st \u2014 ATL @ IND)",
-    "kind": "rank_pass",
-    "player": "Aliyah Boston",
-    "stat": "rebounds",
-    "rank": 117,
-    "passed_players": [
-      "Ann Wauters"
-    ],
-    "new_total": 1106
   }
 ]
