@@ -1,5 +1,14 @@
 [
   {
+    "ts": "2026-06-06T03:49:00+00:00",
+    "text": "Maddy Siegrist reached 800 career points (now 800) \u2014 (6:26 - 4th \u2014 DAL @ LA)",
+    "kind": "round",
+    "player": "Maddy Siegrist",
+    "stat": "points",
+    "value": 800,
+    "new_total": 800
+  },
+  {
     "ts": "2026-06-06T03:39:00+00:00",
     "text": "Cameron Brink reached 300 career points (now 300) \u2014 (9:17 - 4th \u2014 DAL @ LA)",
     "kind": "round",
@@ -2978,14 +2987,5 @@
       "Tayler Hill"
     ],
     "new_total": 175
-  },
-  {
-    "ts": "2026-05-30T00:44:00+00:00",
-    "text": "Jacy Sheldon reached 100 career turnovers (now 100) \u2014 (7:08 - 3rd \u2014 MIN @ CHI)",
-    "kind": "round",
-    "player": "Jacy Sheldon",
-    "stat": "turnovers",
-    "value": 100,
-    "new_total": 100
   }
 ]
