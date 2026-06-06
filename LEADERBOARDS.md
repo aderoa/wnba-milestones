@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-06 17:37 UTC_
+_Last updated: 2026-06-06 17:38 UTC_
 
 ## Contents
 
@@ -70,8 +70,8 @@ _Last updated: 2026-06-06 17:37 UTC_
 | 49 | Kahleah Copper | 4,283 |
 | 50 | Plenette Pierson | 4,258 |
 | 51 | Monique Currie | 4,253 |
-| 52 | **Courtney Williams** 🔴 +5 | 4,243 |
-| 52 | Dearica Hamby | 4,243 |
+| 52 | **Courtney Williams** 🔴 +7 | 4,245 |
+| 53 | Dearica Hamby | 4,243 |
 | 54 | Vickie Johnson | 4,230 |
 | 55 | Yolanda Griffith | 4,224 |
 | 56 | Jonquel Jones | 4,222 |
@@ -524,13 +524,13 @@ _Last updated: 2026-06-06 17:37 UTC_
 | 93 | A'ja Wilson | 637 |
 | 93 | Asjha Jones | 637 |
 | 95 | Jennifer Azzi | 636 |
-| 96 | **Natisha Hiedeman** 🔴 +3 | 627 |
+| 96 | **Natisha Hiedeman** 🔴 +4 | 628 |
 | 97 | Jonquel Jones | 625 |
 | 98 | Sami Whitcomb | 623 |
 | 99 | Alysha Clark | 616 |
 | 100 | Debbie Black | 612 |
 | 101 | Cynthia Cooper | 602 |
-| 102 | **Natasha Howard** 🔴 | 596 |
+| 102 | **Natasha Howard** 🔴 +1 | 597 |
 | 103 | Sancho Lyttle | 592 |
 | 104 | Camille Smith | 590 |
 | 105 | Armintie Herrington | 589 |

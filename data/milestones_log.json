@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-06T17:38:00+00:00",
+    "text": "Courtney Williams passed Dearica Hamby for #52 all-time in points (career 4,245) \u2014 up from #53 entering today \u2014 (4:09 - 2nd \u2014 SEA @ MIN)",
+    "kind": "rank_pass",
+    "player": "Courtney Williams",
+    "stat": "points",
+    "rank": 52,
+    "passed_players": [
+      "Dearica Hamby"
+    ],
+    "new_total": 4245
+  },
+  {
     "ts": "2026-06-06T17:36:00+00:00",
     "text": "Natisha Hiedeman passed Nikki Teasley for #71 all-time in three-pointers (career 305) \u2014 up from #72 entering today \u2014 (5:35 - 2nd \u2014 SEA @ MIN)",
     "kind": "rank_pass",
@@ -2954,18 +2966,5 @@
       "Shameka Christon"
     ],
     "new_total": 3042
-  },
-  {
-    "ts": "2026-06-04T00:44:00+00:00",
-    "text": "Marine Johann\u00e8s passed Shavonte Zellous and Tianna Hawkins for #129 all-time in three-pointers (career 168) \u2014 up from #131 entering today \u2014 (7:01 - 3rd \u2014 TOR @ NY)",
-    "kind": "rank_pass",
-    "player": "Marine Johann\u00e8s",
-    "stat": "three-pointers",
-    "rank": 129,
-    "passed_players": [
-      "Shavonte Zellous",
-      "Tianna Hawkins"
-    ],
-    "new_total": 168
   }
 ]

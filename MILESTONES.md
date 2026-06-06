@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-06 17:38 UTC
+
+- **Courtney Williams** passed **Dearica Hamby** for **#52** all-time in points (career 4,245) — up from #53 entering today — _4:09 - 2nd — SEA @ MIN_
+
 ## 2026-06-06 17:36 UTC
 
 - **Natisha Hiedeman** passed **Nikki Teasley** for **#71** all-time in three-pointers (career 305) — up from #72 entering today — _5:35 - 2nd — SEA @ MIN_
