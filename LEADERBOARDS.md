@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-06 18:44 UTC_
+_Last updated: 2026-06-06 18:45 UTC_
 
 ## Contents
 
@@ -262,8 +262,8 @@ _Last updated: 2026-06-06 18:44 UTC_
 | 36 | Natalie Williams | 1,832 |
 | 37 | Wendy Palmer | 1,824 |
 | 38 | Sophia Young-Malcolm | 1,807 |
+| 39 | **Courtney Williams** 🔴 +4 | 1,805 |
 | 39 | Lindsay Whalen | 1,805 |
-| 40 | **Courtney Williams** 🔴 +3 | 1,804 |
 | 41 | Camille Smith | 1,802 |
 | 42 | Kiah Stokes | 1,790 |
 | 43 | Asjha Jones | 1,751 |
@@ -1011,9 +1011,9 @@ _Last updated: 2026-06-06 18:44 UTC_
 | 170 | Adrienne Goodson | 203 |
 | 171 | Allie Quigley | 198 |
 | 172 | Layshia Clarendon | 195 |
+| 173 | **Natisha Hiedeman** 🔴 +3 | 194 |
 | 173 | Sonja Henning | 194 |
 | 173 | Tierra Ruffin-Pratt | 194 |
-| 175 | **Natisha Hiedeman** 🔴 +2 | 193 |
 | 176 | Cynthia Cooper | 192 |
 | 177 | Alanna Smith | 190 |
 | 178 | Myisha Hines-Allen | 189 |
@@ -1312,8 +1312,8 @@ _Last updated: 2026-06-06 18:44 UTC_
 | 61 | Yolanda Griffith | 653 |
 | 62 | Sheri Sam | 650 |
 | 63 | Dawn Staley | 643 |
-| 64 | **Kayla McBride** 🔴 +1 | 637 |
-| 64 | Ruth Riley | 637 |
+| 64 | **Kayla McBride** 🔴 +2 | 638 |
+| 65 | Ruth Riley | 637 |
 | 66 | Kelsey Plum | 636 |
 | 67 | Odyssey Sims | 631 |
 | 67 | Svetlana Abrosimova | 631 |
@@ -1585,7 +1585,7 @@ _Last updated: 2026-06-06 18:44 UTC_
 | 128 | Hamchetou Maiga-Ba | 580 |
 | 128 | Olympia Scott | 580 |
 | 131 | Ezi Magbegor | 576 |
-| 132 | **Courtney Williams** 🔴 | 574 |
+| 132 | **Courtney Williams** 🔴 +1 | 575 |
 | 133 | Le'coe Willingham | 571 |
 | 134 | Ashley Robinson | 567 |
 | 135 | Ivory Latta | 565 |
