@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-06T18:13:00+00:00",
+    "text": "Natisha Hiedeman passed Azur\u00e1 Stevens for #197 all-time in turnovers (career 293) \u2014 up from #198 entering today \u2014 (6:40 - 3rd \u2014 SEA @ MIN)",
+    "kind": "rank_pass",
+    "player": "Natisha Hiedeman",
+    "stat": "turnovers",
+    "rank": 197,
+    "passed_players": [
+      "Azur\u00e1 Stevens"
+    ],
+    "new_total": 293
+  },
+  {
     "ts": "2026-06-06T17:38:00+00:00",
     "text": "Courtney Williams passed Dearica Hamby for #52 all-time in points (career 4,245) \u2014 up from #53 entering today \u2014 (4:09 - 2nd \u2014 SEA @ MIN)",
     "kind": "rank_pass",
@@ -2953,18 +2965,5 @@
       "Maya Moore"
     ],
     "new_total": 687
-  },
-  {
-    "ts": "2026-06-04T00:45:00+00:00",
-    "text": "Marina Mabrey passed Sabrina Ionescu and Shameka Christon for #94 all-time in points (career 3,042) \u2014 up from #96 entering today \u2014 (6:22 - 3rd \u2014 TOR @ NY)",
-    "kind": "rank_pass",
-    "player": "Marina Mabrey",
-    "stat": "points",
-    "rank": 94,
-    "passed_players": [
-      "Sabrina Ionescu",
-      "Shameka Christon"
-    ],
-    "new_total": 3042
   }
 ]
