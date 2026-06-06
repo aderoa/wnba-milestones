@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-06 20:33 UTC_
+_Last updated: 2026-06-06 20:34 UTC_
 
 ## Contents
 
@@ -321,7 +321,7 @@ _Last updated: 2026-06-06 20:33 UTC_
 | 95 | **Brianna Turner** 🔴 | 1,237 |
 | 96 | Kayla McBride | 1,228 |
 | 96 | Seimone Augustus | 1,228 |
-| 98 | **Chelsea Gray** 🔴 +3 | 1,224 |
+| 98 | **Chelsea Gray** 🔴 +5 | 1,226 |
 | 99 | Jia Perkins | 1,220 |
 | 100 | DeMya Walker | 1,199 |
 | 101 | Latasha Byears | 1,190 |
@@ -801,10 +801,10 @@ _Last updated: 2026-06-06 20:33 UTC_
 | 165 | Astou Ndour-Fall | 78 |
 | 165 | Katie Smith | 78 |
 | 165 | Slobodanka Tuvic | 78 |
-| 168 | Kara Wolters | 77 |
-| 168 | Noelle Quinn | 77 |
-| 168 | **Stephanie Talbot** 🔴 +1 | 77 |
-| 168 | Tierra Ruffin-Pratt | 77 |
+| 165 | **Stephanie Talbot** 🔴 +2 | 78 |
+| 169 | Kara Wolters | 77 |
+| 169 | Noelle Quinn | 77 |
+| 169 | Tierra Ruffin-Pratt | 77 |
 | 172 | Cameron Brink | 76 |
 | 172 | Jennifer Lacy | 76 |
 | 172 | Sugar Rodgers | 76 |
