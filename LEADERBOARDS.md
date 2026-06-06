@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-06 19:38 UTC_
+_Last updated: 2026-06-06 19:39 UTC_
 
 ## Contents
 
@@ -59,7 +59,7 @@ _Last updated: 2026-06-06 19:38 UTC_
 | 38 | Arike Ogunbowale | 4,612 |
 | 39 | Penny Taylor | 4,595 |
 | 40 | Natasha Howard | 4,555 |
-| 41 | **Chelsea Gray** 🔴 +6 | 4,512 |
+| 41 | **Chelsea Gray** 🔴 +8 | 4,514 |
 | 42 | Kristi Toliver | 4,474 |
 | 43 | Crystal Langhorne | 4,433 |
 | 43 | Jia Perkins | 4,433 |
@@ -150,7 +150,7 @@ _Last updated: 2026-06-06 19:38 UTC_
 | 129 | Anna DeForge | 2,413 |
 | 130 | DeMya Walker | 2,379 |
 | 131 | Alex Bentley | 2,350 |
-| 132 | **Kayla Thornton** 🔴 +7 | 2,340 |
+| 132 | **Kayla Thornton** 🔴 +8 | 2,341 |
 | 133 | Merlakia Jones | 2,308 |
 | 134 | Kia Vaughn | 2,288 |
 | 135 | Betnijah Laney-Hamilton | 2,282 |
@@ -335,7 +335,7 @@ _Last updated: 2026-06-06 19:38 UTC_
 | 109 | Andrea Stinson | 1,127 |
 | 109 | Tamika Raymond | 1,127 |
 | 111 | Adrienne Goodson | 1,126 |
-| 112 | **NaLyssa Smith** 🔴 +1 | 1,116 |
+| 112 | **NaLyssa Smith** 🔴 +2 | 1,117 |
 | 113 | Deanna Nolan | 1,112 |
 | 113 | Natasha Cloud | 1,112 |
 | 115 | Aliyah Boston | 1,110 |
@@ -602,8 +602,8 @@ _Last updated: 2026-06-06 19:38 UTC_
 | 170 | Stacey Dales | 395 |
 | 172 | Sugar Rodgers | 393 |
 | 173 | Shameka Christon | 389 |
+| 173 | **Stephanie Talbot** 🔴 +4 | 389 |
 | 173 | Tamicha Jackson | 389 |
-| 175 | **Stephanie Talbot** 🔴 +3 | 388 |
 | 176 | Riquna Williams | 387 |
 | 177 | Dana Evans | 379 |
 | 178 | Jessica Breland | 377 |
