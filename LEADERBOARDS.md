@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-06 02:43 UTC_
+_Last updated: 2026-06-06 02:44 UTC_
 
 ## Contents
 
@@ -57,13 +57,13 @@ _Last updated: 2026-06-06 02:43 UTC_
 | 36 | Elena Delle Donne | 4,706 |
 | 37 | Alyssa Thomas | 4,653 |
 | 38 | Penny Taylor | 4,595 |
-| 39 | **Arike Ogunbowale** 🔴 +10 | 4,592 |
+| 39 | **Arike Ogunbowale** 🔴 +12 | 4,594 |
 | 40 | Natasha Howard | 4,528 |
 | 41 | Chelsea Gray | 4,506 |
 | 42 | Kristi Toliver | 4,474 |
 | 43 | Crystal Langhorne | 4,433 |
 | 43 | Jia Perkins | 4,433 |
-| 45 | **Kelsey Plum** 🔴 +9 | 4,377 |
+| 45 | **Kelsey Plum** 🔴 +11 | 4,379 |
 | 46 | Courtney Vandersloot | 4,352 |
 | 47 | Allisha Gray | 4,339 |
 | 48 | Sophia Young-Malcolm | 4,300 |
@@ -459,7 +459,7 @@ _Last updated: 2026-06-06 02:43 UTC_
 | 28 | Vickie Johnson | 1,202 |
 | 29 | Jordin Canada | 1,201 |
 | 30 | Leilani Mitchell | 1,197 |
-| 31 | **DeWanna Bonner** 🔴 +2 | 1,189 |
+| 31 | **DeWanna Bonner** 🔴 +3 | 1,190 |
 | 32 | Jewell Loyd | 1,144 |
 | 33 | Renee Montgomery | 1,140 |
 | 34 | Swin Cash | 1,131 |
@@ -481,9 +481,9 @@ _Last updated: 2026-06-06 02:43 UTC_
 | 50 | Deanna Nolan | 930 |
 | 51 | Kelly Miller | 927 |
 | 52 | DeLisha Milton-Jones | 921 |
-| 53 | **Arike Ogunbowale** 🔴 +4 | 916 |
+| 53 | **Arike Ogunbowale** 🔴 +5 | 917 |
 | 54 | Angel McCoughtry | 915 |
-| 55 | **Nneka Ogwumike** 🔴 +2 | 914 |
+| 54 | **Nneka Ogwumike** 🔴 +3 | 915 |
 | 56 | Layshia Clarendon | 911 |
 | 56 | Seimone Augustus | 911 |
 | 58 | Candice Dupree | 902 |
@@ -845,7 +845,7 @@ _Last updated: 2026-06-06 02:43 UTC_
 | 4 | Alana Beard | 710 |
 | 5 | **Nneka Ogwumike** 🔴 | 677 |
 | 6 | Sheryl Swoopes | 657 |
-| 7 | **DeWanna Bonner** 🔴 | 641 |
+| 7 | **DeWanna Bonner** 🔴 +1 | 642 |
 | 8 | Jia Perkins | 634 |
 | 9 | Sancho Lyttle | 630 |
 | 10 | Angel McCoughtry | 627 |
