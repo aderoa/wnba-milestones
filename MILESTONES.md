@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-06 02:54 UTC
+
+- **Nneka Ogwumike** passed **Angel McCoughtry** for **#53** all-time in assists (career 916) — up from #55 entering today — _2:16 - 2nd — DAL @ LA_
+
 ## 2026-06-06 02:53 UTC
 
 - **Arike Ogunbowale** passed **Marie Ferdinand-Harris** and **Sabrina Ionescu** for **#101** all-time in turnovers (career 519) — up from #103 entering today — _2:40 - 2nd — DAL @ LA_

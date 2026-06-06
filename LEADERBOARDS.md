@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-06 02:53 UTC_
+_Last updated: 2026-06-06 02:54 UTC_
 
 ## Contents
 
@@ -23,7 +23,7 @@ _Last updated: 2026-06-06 02:53 UTC_
 | 2 | Tina Charles | 8,396 |
 | 3 | **DeWanna Bonner** 🔴 +8 | 7,899 |
 | 4 | Tina Thompson | 7,470 |
-| 5 | **Nneka Ogwumike** 🔴 +4 | 7,431 |
+| 5 | **Nneka Ogwumike** 🔴 +6 | 7,433 |
 | 6 | Tamika Catchings | 7,371 |
 | 7 | Candice Dupree | 6,861 |
 | 8 | Sue Bird | 6,802 |
@@ -71,7 +71,7 @@ _Last updated: 2026-06-06 02:53 UTC_
 | 50 | Plenette Pierson | 4,258 |
 | 51 | Monique Currie | 4,253 |
 | 52 | Courtney Williams | 4,238 |
-| 53 | **Dearica Hamby** 🔴 +5 | 4,233 |
+| 53 | **Dearica Hamby** 🔴 +7 | 4,235 |
 | 54 | Vickie Johnson | 4,230 |
 | 55 | Yolanda Griffith | 4,224 |
 | 56 | Jonquel Jones | 4,222 |
@@ -247,7 +247,7 @@ _Last updated: 2026-06-06 02:53 UTC_
 | 21 | Crystal Langhorne | 2,454 |
 | 22 | Lauren Jackson | 2,444 |
 | 23 | Yolanda Griffith | 2,440 |
-| 24 | **Dearica Hamby** 🔴 +1 | 2,387 |
+| 24 | **Dearica Hamby** 🔴 +2 | 2,388 |
 | 25 | Tangela Smith | 2,328 |
 | 26 | Natasha Howard | 2,253 |
 | 27 | Erika de Souza | 2,220 |
@@ -451,7 +451,7 @@ _Last updated: 2026-06-06 02:53 UTC_
 | 20 | Briann January | 1,339 |
 | 21 | Dawn Staley | 1,337 |
 | 22 | Teresa Weatherspoon | 1,333 |
-| 23 | **Erica Wheeler** 🔴 +2 | 1,302 |
+| 23 | **Erica Wheeler** 🔴 +3 | 1,303 |
 | 24 | Kristi Toliver | 1,301 |
 | 25 | Katie Smith | 1,258 |
 | 26 | **Kelsey Plum** 🔴 +2 | 1,233 |
@@ -482,8 +482,8 @@ _Last updated: 2026-06-06 02:53 UTC_
 | 51 | Kelly Miller | 927 |
 | 52 | DeLisha Milton-Jones | 921 |
 | 53 | **Arike Ogunbowale** 🔴 +6 | 918 |
-| 54 | Angel McCoughtry | 915 |
-| 54 | **Nneka Ogwumike** 🔴 +3 | 915 |
+| 54 | **Nneka Ogwumike** 🔴 +4 | 916 |
+| 55 | Angel McCoughtry | 915 |
 | 56 | Layshia Clarendon | 911 |
 | 56 | Seimone Augustus | 911 |
 | 58 | Candice Dupree | 902 |

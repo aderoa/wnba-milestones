@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-06T02:54:00+00:00",
+    "text": "Nneka Ogwumike passed Angel McCoughtry for #53 all-time in assists (career 916) \u2014 up from #55 entering today \u2014 (2:16 - 2nd \u2014 DAL @ LA)",
+    "kind": "rank_pass",
+    "player": "Nneka Ogwumike",
+    "stat": "assists",
+    "rank": 53,
+    "passed_players": [
+      "Angel McCoughtry"
+    ],
+    "new_total": 916
+  },
+  {
     "ts": "2026-06-06T02:53:00+00:00",
     "text": "Arike Ogunbowale passed Marie Ferdinand-Harris and Sabrina Ionescu for #101 all-time in turnovers (career 519) \u2014 up from #103 entering today \u2014 (2:40 - 2nd \u2014 DAL @ LA)",
     "kind": "rank_pass",
@@ -2978,18 +2990,5 @@
       "Charlotte Smith"
     ],
     "new_total": 795
-  },
-  {
-    "ts": "2026-05-28T02:12:00+00:00",
-    "text": "Michaela Onyenwere passed Loree Moore and Tanisha Wright for #157 all-time in three-pointers (career 139) \u2014 up from #160 entering today \u2014 (6:09 - 1st \u2014 WSH @ SEA)",
-    "kind": "rank_pass",
-    "player": "Michaela Onyenwere",
-    "stat": "three-pointers",
-    "rank": 157,
-    "passed_players": [
-      "Loree Moore",
-      "Tanisha Wright"
-    ],
-    "new_total": 139
   }
 ]
