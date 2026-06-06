@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-06 00:48 UTC_
+_Last updated: 2026-06-06 00:49 UTC_
 
 ## Contents
 
@@ -155,7 +155,7 @@ _Last updated: 2026-06-06 00:48 UTC_
 | 134 | Kia Vaughn | 2,288 |
 | 135 | Betnijah Laney-Hamilton | 2,282 |
 | 136 | Allison Feaster | 2,258 |
-| 137 | **Azurá Stevens** 🔴 +7 | 2,253 |
+| 137 | **Azurá Stevens** 🔴 +10 | 2,256 |
 | 138 | Shekinna Stricklen | 2,245 |
 | 139 | Jordin Canada | 2,237 |
 | 139 | Kara Braxton | 2,237 |
@@ -314,7 +314,7 @@ _Last updated: 2026-06-06 00:48 UTC_
 | 88 | Tari Phillips | 1,274 |
 | 89 | Janel McCarville | 1,261 |
 | 90 | Liz Cambage | 1,258 |
-| 91 | **Azurá Stevens** 🔴 +4 | 1,250 |
+| 91 | **Azurá Stevens** 🔴 +5 | 1,251 |
 | 92 | Tiffany Hayes | 1,244 |
 | 93 | Ezi Magbegor | 1,243 |
 | 94 | Myisha Hines-Allen | 1,239 |
@@ -555,8 +555,8 @@ _Last updated: 2026-06-06 00:48 UTC_
 | 124 | Iziane Castro Marques | 509 |
 | 125 | Brittany Boyd-Jones | 508 |
 | 125 | Chasity Melvin | 508 |
+| 125 | **Rachel Banham** 🔴 +3 | 508 |
 | 125 | Rhyne Howard | 508 |
-| 128 | **Rachel Banham** 🔴 +2 | 507 |
 | 129 | Anna DeForge | 503 |
 | 129 | Coco Miller | 503 |
 | 131 | Crystal Robinson | 488 |
@@ -1136,7 +1136,7 @@ _Last updated: 2026-06-06 00:48 UTC_
 | 90 | Erin Thorn | 243 |
 | 91 | Brittney Sykes | 242 |
 | 91 | Nneka Ogwumike | 242 |
-| 93 | **Azurá Stevens** 🔴 | 240 |
+| 93 | **Azurá Stevens** 🔴 +1 | 241 |
 | 94 | Alex Bentley | 239 |
 | 94 | Cynthia Cooper | 239 |
 | 96 | Svetlana Abrosimova | 235 |
@@ -1443,7 +1443,7 @@ _Last updated: 2026-06-06 00:48 UTC_
 | 192 | Isabelle Harrison | 300 |
 | 193 | Crystal Robinson | 299 |
 | 194 | Michele Timms | 297 |
-| 195 | **Rachel Banham** 🔴 +1 | 295 |
+| 195 | **Rachel Banham** 🔴 +2 | 296 |
 | 196 | Kayla Thornton | 294 |
 | 197 | **Azurá Stevens** 🔴 | 292 |
 | 198 | Natisha Hiedeman | 289 |
