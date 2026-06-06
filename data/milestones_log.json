@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-06T00:12:00+00:00",
+    "text": "Skylar Diggins passed Shameka Christon for #32 all-time in three-pointers (career 435) \u2014 up from #33 entering today \u2014 (5:05 - 2nd \u2014 CON @ CHI)",
+    "kind": "rank_pass",
+    "player": "Skylar Diggins",
+    "stat": "three-pointers",
+    "rank": 32,
+    "passed_players": [
+      "Shameka Christon"
+    ],
+    "new_total": 435
+  },
+  {
     "ts": "2026-06-05T23:59:00+00:00",
     "text": "Brittney Griner passed Alex Bentley for #91 all-time in assists (career 646) \u2014 up from #92 entering today \u2014 (7:55 - 2nd \u2014 CON @ CHI)",
     "kind": "rank_pass",
@@ -2979,17 +2991,5 @@
       "Alanna Smith"
     ],
     "new_total": 153
-  },
-  {
-    "ts": "2026-05-25T00:16:00+00:00",
-    "text": "Stefanie Dolson passed Sheryl Swoopes for #82 all-time in three-pointers (career 271) \u2014 up from #83 entering today \u2014 (19.9 - 4th \u2014 WSH @ SEA)",
-    "kind": "rank_pass",
-    "player": "Stefanie Dolson",
-    "stat": "three-pointers",
-    "rank": 82,
-    "passed_players": [
-      "Sheryl Swoopes"
-    ],
-    "new_total": 271
   }
 ]

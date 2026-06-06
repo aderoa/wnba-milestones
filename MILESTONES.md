@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-06 00:12 UTC
+
+- **Skylar Diggins** passed **Shameka Christon** for **#32** all-time in three-pointers (career 435) — up from #33 entering today — _5:05 - 2nd — CON @ CHI_
+
 ## 2026-06-05 23:59 UTC
 
 - **Brittney Griner** passed **Alex Bentley** for **#91** all-time in assists (career 646) — up from #92 entering today — _7:55 - 2nd — CON @ CHI_
