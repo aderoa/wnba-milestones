@@ -2,6 +2,11 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-06 23:20 UTC
+
+- **Shakira Austin** passed **Amanda Lassiter**, **Kamila Vodichkova**, **Kamilla Cardoso**, **Sophia Young-Malcolm**, and **Tari Phillips** for **#112** all-time in blocks (career 112) — up from #117 entering today — _9:09 - 3rd — WSH @ ATL_
+- **Rhyne Howard** passed **Iziane Castro Marques** for **#124** all-time in assists (career 510) — up from #128 entering today — _9:09 - 3rd — WSH @ ATL_
+
 ## 2026-06-06 22:44 UTC
 
 - **Rhyne Howard** passed **Nikki McCray** for **#135** all-time in steals (career 236) — up from #137 entering today — _4:57 - 2nd — WSH @ ATL_

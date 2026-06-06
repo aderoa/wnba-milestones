@@ -1,5 +1,33 @@
 [
   {
+    "ts": "2026-06-06T23:20:00+00:00",
+    "text": "Shakira Austin passed Amanda Lassiter, Kamila Vodichkova, Kamilla Cardoso, Sophia Young-Malcolm, and Tari Phillips for #112 all-time in blocks (career 112) \u2014 up from #117 entering today \u2014 (9:09 - 3rd \u2014 WSH @ ATL)",
+    "kind": "rank_pass",
+    "player": "Shakira Austin",
+    "stat": "blocks",
+    "rank": 112,
+    "passed_players": [
+      "Amanda Lassiter",
+      "Kamila Vodichkova",
+      "Kamilla Cardoso",
+      "Sophia Young-Malcolm",
+      "Tari Phillips"
+    ],
+    "new_total": 112
+  },
+  {
+    "ts": "2026-06-06T23:20:00+00:00",
+    "text": "Rhyne Howard passed Iziane Castro Marques for #124 all-time in assists (career 510) \u2014 up from #128 entering today \u2014 (9:09 - 3rd \u2014 WSH @ ATL)",
+    "kind": "rank_pass",
+    "player": "Rhyne Howard",
+    "stat": "assists",
+    "rank": 124,
+    "passed_players": [
+      "Iziane Castro Marques"
+    ],
+    "new_total": 510
+  },
+  {
     "ts": "2026-06-06T22:44:00+00:00",
     "text": "Rhyne Howard passed Nikki McCray for #135 all-time in steals (career 236) \u2014 up from #137 entering today \u2014 (4:57 - 2nd \u2014 WSH @ ATL)",
     "kind": "rank_pass",
@@ -2955,29 +2983,5 @@
       "Leilani Mitchell"
     ],
     "new_total": 1198
-  },
-  {
-    "ts": "2026-06-05T00:14:00+00:00",
-    "text": "Monique Billings passed Alex Bentley for #158 all-time in fouls (career 517) \u2014 up from #159 entering today \u2014 (7:49 - 3rd \u2014 ATL @ IND)",
-    "kind": "rank_pass",
-    "player": "Monique Billings",
-    "stat": "fouls",
-    "rank": 158,
-    "passed_players": [
-      "Alex Bentley"
-    ],
-    "new_total": 517
-  },
-  {
-    "ts": "2026-06-05T00:12:00+00:00",
-    "text": "Aliyah Boston passed Jessica Breland for #170 all-time in points (career 1,919) \u2014 up from #173 entering today \u2014 (8:50 - 3rd \u2014 ATL @ IND)",
-    "kind": "rank_pass",
-    "player": "Aliyah Boston",
-    "stat": "points",
-    "rank": 170,
-    "passed_players": [
-      "Jessica Breland"
-    ],
-    "new_total": 1919
   }
 ]
