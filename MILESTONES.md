@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-06 01:15 UTC
+
+- **Azurá Stevens** passed **Kia Nurse** for **#190** all-time in fouls (career 474) — up from #192 entering today — _9:24 - 4th — CON @ CHI_
+
 ## 2026-06-06 00:56 UTC
 
 - **Elizabeth Williams** passed **Kelly Miller** for **#101** all-time in steals (career 291) — _4:46 - 3rd — CON @ CHI_

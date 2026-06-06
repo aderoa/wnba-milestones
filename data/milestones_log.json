@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-06T01:15:00+00:00",
+    "text": "Azur\u00e1 Stevens passed Kia Nurse for #190 all-time in fouls (career 474) \u2014 up from #192 entering today \u2014 (9:24 - 4th \u2014 CON @ CHI)",
+    "kind": "rank_pass",
+    "player": "Azur\u00e1 Stevens",
+    "stat": "fouls",
+    "rank": 190,
+    "passed_players": [
+      "Kia Nurse"
+    ],
+    "new_total": 474
+  },
+  {
     "ts": "2026-06-06T00:56:00+00:00",
     "text": "Elizabeth Williams passed Kelly Miller for #101 all-time in steals (career 291) \u2014 (4:46 - 3rd \u2014 CON @ CHI)",
     "kind": "rank_pass",
@@ -2983,17 +2995,5 @@
       "Noelle Quinn"
     ],
     "new_total": 257
-  },
-  {
-    "ts": "2026-05-26T02:23:00+00:00",
-    "text": "Olivia Nelson-Ododa passed Natalie Williams for #101 all-time in blocks (career 123) \u2014 up from #102 entering today \u2014 (1:26 - 1st \u2014 CON @ GS)",
-    "kind": "rank_pass",
-    "player": "Olivia Nelson-Ododa",
-    "stat": "blocks",
-    "rank": 101,
-    "passed_players": [
-      "Natalie Williams"
-    ],
-    "new_total": 123
   }
 ]
