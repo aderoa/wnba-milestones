@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-06 03:55 UTC_
+_Last updated: 2026-06-06 03:56 UTC_
 
 ## Contents
 
@@ -63,7 +63,7 @@ _Last updated: 2026-06-06 03:55 UTC_
 | 42 | Kristi Toliver | 4,474 |
 | 43 | Crystal Langhorne | 4,433 |
 | 43 | Jia Perkins | 4,433 |
-| 45 | **Kelsey Plum** 🔴 +22 | 4,390 |
+| 45 | **Kelsey Plum** 🔴 +24 | 4,392 |
 | 46 | Courtney Vandersloot | 4,352 |
 | 47 | Allisha Gray | 4,339 |
 | 48 | Sophia Young-Malcolm | 4,300 |
@@ -368,8 +368,8 @@ _Last updated: 2026-06-06 03:55 UTC_
 | 142 | Armintie Herrington | 960 |
 | 143 | Janell Burse | 944 |
 | 144 | Merlakia Jones | 927 |
+| 145 | **Jessica Shepard** 🔴 +14 | 926 |
 | 145 | Satou Sabally | 926 |
-| 146 | **Jessica Shepard** 🔴 +13 | 925 |
 | 147 | Angel Reese | 923 |
 | 148 | Nicky Anosike | 922 |
 | 149 | Janeth Arcain | 916 |
@@ -893,8 +893,8 @@ _Last updated: 2026-06-06 03:55 UTC_
 | 52 | Swin Cash | 384 |
 | 52 | Tina Charles | 384 |
 | 54 | Tiffany Hayes | 382 |
+| 55 | **Ariel Atkins** 🔴 +1 | 380 |
 | 55 | Jordin Canada | 380 |
-| 56 | **Ariel Atkins** 🔴 | 379 |
 | 57 | Monique Currie | 378 |
 | 58 | Chamique Holdsclaw | 376 |
 | 59 | Mwadi Mabika | 370 |
