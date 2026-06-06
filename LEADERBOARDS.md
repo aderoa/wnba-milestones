@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-06 02:07 UTC_
+_Last updated: 2026-06-06 02:08 UTC_
 
 ## Contents
 
@@ -21,7 +21,7 @@ _Last updated: 2026-06-06 02:07 UTC_
 |-----:|--------|------:|
 | 1 | Diana Taurasi | 10,608 |
 | 2 | Tina Charles | 8,396 |
-| 3 | **DeWanna Bonner** 🔴 | 7,891 |
+| 3 | **DeWanna Bonner** 🔴 +3 | 7,894 |
 | 4 | Tina Thompson | 7,470 |
 | 5 | **Nneka Ogwumike** 🔴 | 7,427 |
 | 6 | Tamika Catchings | 7,371 |
@@ -57,7 +57,7 @@ _Last updated: 2026-06-06 02:07 UTC_
 | 36 | Elena Delle Donne | 4,706 |
 | 37 | Alyssa Thomas | 4,653 |
 | 38 | Penny Taylor | 4,595 |
-| 39 | **Arike Ogunbowale** 🔴 | 4,582 |
+| 39 | **Arike Ogunbowale** 🔴 +3 | 4,585 |
 | 40 | Natasha Howard | 4,528 |
 | 41 | Chelsea Gray | 4,506 |
 | 42 | Kristi Toliver | 4,474 |
@@ -96,7 +96,7 @@ _Last updated: 2026-06-06 02:07 UTC_
 | 75 | Tammy Sutton-Brown | 3,498 |
 | 76 | Sancho Lyttle | 3,478 |
 | 77 | Ivory Latta | 3,447 |
-| 78 | **Ariel Atkins** 🔴 | 3,426 |
+| 78 | **Ariel Atkins** 🔴 +3 | 3,429 |
 | 79 | Nicole Powell | 3,407 |
 | 80 | Epiphanny Prince | 3,381 |
 | 81 | Michelle Snow | 3,361 |
@@ -228,7 +228,7 @@ _Last updated: 2026-06-06 02:07 UTC_
 | 2 | Sylvia Fowles | 4,005 |
 | 3 | Candace Parker | 3,467 |
 | 4 | Rebekkah Brunson | 3,345 |
-| 5 | **Nneka Ogwumike** 🔴 | 3,327 |
+| 5 | **Nneka Ogwumike** 🔴 +1 | 3,328 |
 | 6 | Tamika Catchings | 3,313 |
 | 7 | Lisa Leslie | 3,303 |
 | 8 | **DeWanna Bonner** 🔴 | 3,255 |
@@ -412,7 +412,7 @@ _Last updated: 2026-06-06 02:07 UTC_
 | 186 | Layshia Clarendon | 756 |
 | 187 | Brooke Wyckoff | 751 |
 | 188 | Coco Miller | 750 |
-| 189 | **Arike Ogunbowale** 🔴 | 742 |
+| 189 | **Arike Ogunbowale** 🔴 +1 | 743 |
 | 190 | Alex Montgomery | 735 |
 | 191 | Ashley Robinson | 734 |
 | 192 | Shenise Johnson | 729 |
@@ -451,8 +451,8 @@ _Last updated: 2026-06-06 02:07 UTC_
 | 20 | Briann January | 1,339 |
 | 21 | Dawn Staley | 1,337 |
 | 22 | Teresa Weatherspoon | 1,333 |
+| 23 | **Erica Wheeler** 🔴 +1 | 1,301 |
 | 23 | Kristi Toliver | 1,301 |
-| 24 | **Erica Wheeler** 🔴 | 1,300 |
 | 25 | Katie Smith | 1,258 |
 | 26 | **Kelsey Plum** 🔴 +1 | 1,232 |
 | 27 | Odyssey Sims | 1,228 |
@@ -1053,13 +1053,13 @@ _Last updated: 2026-06-06 02:07 UTC_
 | 7 | Katie Douglas | 723 |
 | 8 | Kelsey Mitchell | 687 |
 | 9 | Jewell Loyd | 678 |
-| 10 | **DeWanna Bonner** 🔴 | 669 |
+| 10 | **DeWanna Bonner** 🔴 +1 | 670 |
 | 11 | Kristi Toliver | 651 |
 | 12 | **Kelsey Plum** 🔴 | 608 |
 | 13 | Tamika Catchings | 605 |
 | 14 | Kara Lawson | 583 |
 | 15 | Nicole Powell | 579 |
-| 16 | **Arike Ogunbowale** 🔴 | 560 |
+| 16 | **Arike Ogunbowale** 🔴 +1 | 561 |
 | 17 | Ivory Latta | 536 |
 | 18 | Renee Montgomery | 532 |
 | 19 | Maya Moore | 530 |
@@ -1072,7 +1072,7 @@ _Last updated: 2026-06-06 02:07 UTC_
 | 26 | Sabrina Ionescu | 462 |
 | 27 | Breanna Stewart | 460 |
 | 28 | Tiffany Hayes | 451 |
-| 29 | **Ariel Atkins** 🔴 | 447 |
+| 29 | **Ariel Atkins** 🔴 +1 | 448 |
 | 30 | Allisha Gray | 445 |
 | 31 | Lauren Jackson | 436 |
 | 32 | Skylar Diggins | 435 |
