@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-06 03:29 UTC_
+_Last updated: 2026-06-06 03:30 UTC_
 
 ## Contents
 
@@ -370,8 +370,8 @@ _Last updated: 2026-06-06 03:29 UTC_
 | 144 | Merlakia Jones | 927 |
 | 145 | Satou Sabally | 926 |
 | 146 | Angel Reese | 923 |
-| 147 | Nicky Anosike | 922 |
-| 148 | **Jessica Shepard** 🔴 +9 | 921 |
+| 146 | **Jessica Shepard** 🔴 +11 | 923 |
+| 148 | Nicky Anosike | 922 |
 | 149 | Janeth Arcain | 916 |
 | 150 | Karima Christmas-Kelly | 908 |
 | 151 | Natalie Achonwa | 895 |
@@ -906,8 +906,8 @@ _Last updated: 2026-06-06 03:29 UTC_
 | 65 | Dominique Canty | 356 |
 | 65 | Renee Montgomery | 356 |
 | 67 | Tamecka Dixon | 355 |
-| 68 | **Erica Wheeler** 🔴 | 353 |
-| 68 | Vicky Bullett | 353 |
+| 68 | **Erica Wheeler** 🔴 +1 | 354 |
+| 69 | Vicky Bullett | 353 |
 | 70 | Svetlana Abrosimova | 352 |
 | 71 | Natasha Cloud | 349 |
 | 72 | A'ja Wilson | 346 |
@@ -1297,7 +1297,7 @@ _Last updated: 2026-06-06 03:29 UTC_
 | 46 | Temeka Johnson | 696 |
 | 47 | Penny Taylor | 695 |
 | 48 | Natasha Cloud | 692 |
-| 49 | **Erica Wheeler** 🔴 +1 | 687 |
+| 49 | **Erica Wheeler** 🔴 +2 | 688 |
 | 50 | Dominique Canty | 685 |
 | 51 | DeMya Walker | 684 |
 | 52 | Asjha Jones | 682 |

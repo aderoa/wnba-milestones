@@ -1,5 +1,29 @@
 [
   {
+    "ts": "2026-06-06T03:30:00+00:00",
+    "text": "Jessica Shepard passed Nicky Anosike for #147 all-time in rebounds (career 923) \u2014 up from #149 entering today \u2014 (1:11 - 3rd \u2014 DAL @ LA)",
+    "kind": "rank_pass",
+    "player": "Jessica Shepard",
+    "stat": "rebounds",
+    "rank": 147,
+    "passed_players": [
+      "Nicky Anosike"
+    ],
+    "new_total": 923
+  },
+  {
+    "ts": "2026-06-06T03:30:00+00:00",
+    "text": "Erica Wheeler passed Vicky Bullett for #69 all-time in steals (career 354) \u2014 (1:11 - 3rd \u2014 DAL @ LA)",
+    "kind": "rank_pass",
+    "player": "Erica Wheeler",
+    "stat": "steals",
+    "rank": 69,
+    "passed_players": [
+      "Vicky Bullett"
+    ],
+    "new_total": 354
+  },
+  {
     "ts": "2026-06-06T03:28:00+00:00",
     "text": "Cameron Brink passed Karima Christmas-Kelly, Kelsey Griffin, and Tianna Hawkins for #177 all-time in blocks (career 76) \u2014 (2:27 - 3rd \u2014 DAL @ LA)",
     "kind": "rank_pass",
@@ -2966,29 +2990,5 @@
       "Alana Beard"
     ],
     "new_total": 221
-  },
-  {
-    "ts": "2026-05-29T04:14:00+00:00",
-    "text": "Gabby Williams passed Lindsey Harding for #176 all-time in rebounds (career 780) \u2014 up from #179 entering today \u2014 (24.8 - 4th \u2014 IND @ GS)",
-    "kind": "rank_pass",
-    "player": "Gabby Williams",
-    "stat": "rebounds",
-    "rank": 176,
-    "passed_players": [
-      "Lindsey Harding"
-    ],
-    "new_total": 780
-  },
-  {
-    "ts": "2026-05-29T04:06:00+00:00",
-    "text": "Aliyah Boston passed Riquna Williams for #173 all-time in assists (career 388) \u2014 up from #174 entering today \u2014 (3:11 - 4th \u2014 IND @ GS)",
-    "kind": "rank_pass",
-    "player": "Aliyah Boston",
-    "stat": "assists",
-    "rank": 173,
-    "passed_players": [
-      "Riquna Williams"
-    ],
-    "new_total": 388
   }
 ]

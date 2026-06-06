@@ -2,6 +2,11 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-06 03:30 UTC
+
+- **Jessica Shepard** passed **Nicky Anosike** for **#147** all-time in rebounds (career 923) — up from #149 entering today — _1:11 - 3rd — DAL @ LA_
+- **Erica Wheeler** passed **Vicky Bullett** for **#69** all-time in steals (career 354) — _1:11 - 3rd — DAL @ LA_
+
 ## 2026-06-06 03:28 UTC
 
 - **Cameron Brink** passed **Karima Christmas-Kelly**, **Kelsey Griffin**, and **Tianna Hawkins** for **#177** all-time in blocks (career 76) — _2:27 - 3rd — DAL @ LA_
