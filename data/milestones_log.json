@@ -1,5 +1,29 @@
 [
   {
+    "ts": "2026-06-06T20:09:00+00:00",
+    "text": "Kayla Thornton passed Tianna Hawkins for #101 all-time in fouls (career 663) \u2014 up from #103 entering today \u2014 (9:06 - 3rd \u2014 GS @ LV)",
+    "kind": "rank_pass",
+    "player": "Kayla Thornton",
+    "stat": "fouls",
+    "rank": 101,
+    "passed_players": [
+      "Tianna Hawkins"
+    ],
+    "new_total": 663
+  },
+  {
+    "ts": "2026-06-06T20:09:00+00:00",
+    "text": "Gabby Williams passed Sugar Rodgers for #189 all-time in points (career 1,735) \u2014 up from #190 entering today \u2014 (9:06 - 3rd \u2014 GS @ LV)",
+    "kind": "rank_pass",
+    "player": "Gabby Williams",
+    "stat": "points",
+    "rank": 189,
+    "passed_players": [
+      "Sugar Rodgers"
+    ],
+    "new_total": 1735
+  },
+  {
     "ts": "2026-06-06T19:50:00+00:00",
     "text": "Jewell Loyd passed Chelsea Gray for #35 all-time in steals (career 446) \u2014 up from #36 entering today \u2014 (38.5 - 2nd \u2014 GS @ LV)",
     "kind": "rank_pass",
@@ -2954,30 +2978,5 @@
       "Ann Wauters"
     ],
     "new_total": 1106
-  },
-  {
-    "ts": "2026-06-04T23:10:00+00:00",
-    "text": "Allisha Gray passed Courtney Vandersloot and Katie Smith for #73 all-time in rebounds (career 1,384) \u2014 (7:02 - 1st \u2014 ATL @ IND)",
-    "kind": "rank_pass",
-    "player": "Allisha Gray",
-    "stat": "rebounds",
-    "rank": 73,
-    "passed_players": [
-      "Courtney Vandersloot",
-      "Katie Smith"
-    ],
-    "new_total": 1384
-  },
-  {
-    "ts": "2026-06-04T23:10:00+00:00",
-    "text": "Caitlin Clark passed Iziane Castro Marques for #124 all-time in assists (career 510) \u2014 (7:02 - 1st \u2014 ATL @ IND)",
-    "kind": "rank_pass",
-    "player": "Caitlin Clark",
-    "stat": "assists",
-    "rank": 124,
-    "passed_players": [
-      "Iziane Castro Marques"
-    ],
-    "new_total": 510
   }
 ]

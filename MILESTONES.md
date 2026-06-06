@@ -2,6 +2,11 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-06 20:09 UTC
+
+- **Kayla Thornton** passed **Tianna Hawkins** for **#101** all-time in fouls (career 663) — up from #103 entering today — _9:06 - 3rd — GS @ LV_
+- **Gabby Williams** passed **Sugar Rodgers** for **#189** all-time in points (career 1,735) — up from #190 entering today — _9:06 - 3rd — GS @ LV_
+
 ## 2026-06-06 19:50 UTC
 
 - **Jewell Loyd** passed **Chelsea Gray** for **#35** all-time in steals (career 446) — up from #36 entering today — _38.5 - 2nd — GS @ LV_
