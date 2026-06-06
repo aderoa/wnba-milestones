@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-06 01:16 UTC_
+_Last updated: 2026-06-06 01:17 UTC_
 
 ## Contents
 
@@ -565,7 +565,7 @@ _Last updated: 2026-06-06 01:16 UTC_
 | 134 | Kahleah Copper | 484 |
 | 135 | Ukari Figgs | 470 |
 | 136 | Janeth Arcain | 469 |
-| 137 | **Elizabeth Williams** 🔴 +1 | 465 |
+| 137 | **Elizabeth Williams** 🔴 +2 | 466 |
 | 138 | Erin Phillips | 462 |
 | 139 | Sylvia Fowles | 461 |
 | 140 | Satou Sabally | 456 |
