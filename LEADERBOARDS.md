@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-06 03:14 UTC_
+_Last updated: 2026-06-06 03:15 UTC_
 
 ## Contents
 
@@ -371,7 +371,7 @@ _Last updated: 2026-06-06 03:14 UTC_
 | 145 | Satou Sabally | 926 |
 | 146 | Angel Reese | 923 |
 | 147 | Nicky Anosike | 922 |
-| 148 | **Jessica Shepard** 🔴 +5 | 917 |
+| 148 | **Jessica Shepard** 🔴 +7 | 919 |
 | 149 | Janeth Arcain | 916 |
 | 150 | Karima Christmas-Kelly | 908 |
 | 151 | Natalie Achonwa | 895 |
@@ -399,7 +399,7 @@ _Last updated: 2026-06-06 03:14 UTC_
 | 173 | Rhonda Mapp | 788 |
 | 174 | Mercedes Russell | 786 |
 | 175 | **Odyssey Sims** 🔴 +1 | 785 |
-| 176 | **Ariel Atkins** 🔴 +1 | 782 |
+| 176 | **Ariel Atkins** 🔴 +2 | 783 |
 | 177 | Sue Wicks | 780 |
 | 178 | Lindsey Harding | 779 |
 | 179 | Tiffani Johnson | 778 |
@@ -459,7 +459,7 @@ _Last updated: 2026-06-06 03:14 UTC_
 | 28 | Vickie Johnson | 1,202 |
 | 29 | Jordin Canada | 1,201 |
 | 30 | Leilani Mitchell | 1,197 |
-| 31 | **DeWanna Bonner** 🔴 +3 | 1,190 |
+| 31 | **DeWanna Bonner** 🔴 +4 | 1,191 |
 | 32 | Jewell Loyd | 1,144 |
 | 33 | Renee Montgomery | 1,140 |
 | 34 | Swin Cash | 1,131 |
@@ -845,7 +845,7 @@ _Last updated: 2026-06-06 03:14 UTC_
 | 4 | Alana Beard | 710 |
 | 5 | **Nneka Ogwumike** 🔴 +1 | 678 |
 | 6 | Sheryl Swoopes | 657 |
-| 7 | **DeWanna Bonner** 🔴 +1 | 642 |
+| 7 | **DeWanna Bonner** 🔴 +2 | 643 |
 | 8 | Jia Perkins | 634 |
 | 9 | Sancho Lyttle | 630 |
 | 10 | Angel McCoughtry | 627 |
