@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-06 17:40 UTC_
+_Last updated: 2026-06-06 17:41 UTC_
 
 ## Contents
 
@@ -381,7 +381,7 @@ _Last updated: 2026-06-06 17:40 UTC_
 | 155 | Shameka Christon | 867 |
 | 156 | Alanna Smith | 864 |
 | 157 | Krystal Thomas | 862 |
-| 158 | **Nia Coffey** 🔴 +1 | 855 |
+| 158 | **Nia Coffey** 🔴 +2 | 856 |
 | 159 | Marina Mabrey | 849 |
 | 160 | Leilani Mitchell | 845 |
 | 161 | Essence Carson | 833 |
@@ -1160,8 +1160,8 @@ _Last updated: 2026-06-06 17:40 UTC_
 | 114 | Victoria Vivians | 192 |
 | 115 | Danielle Adams | 188 |
 | 115 | Napheesa Collier | 188 |
-| 117 | **Nia Coffey** 🔴 | 184 |
-| 117 | Noelle Quinn | 184 |
+| 117 | **Nia Coffey** 🔴 +1 | 185 |
+| 118 | Noelle Quinn | 184 |
 | 119 | Karima Christmas-Kelly | 181 |
 | 120 | Aerial Powers | 179 |
 | 120 | Camille Smith | 179 |
