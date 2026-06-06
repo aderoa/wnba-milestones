@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-06T01:24:00+00:00",
+    "text": "Brittney Griner passed Nakia Sanford for #29 all-time in fouls (career 980) \u2014 up from #30 entering today \u2014 (5:30 - 4th \u2014 CON @ CHI)",
+    "kind": "rank_pass",
+    "player": "Brittney Griner",
+    "stat": "fouls",
+    "rank": 29,
+    "passed_players": [
+      "Nakia Sanford"
+    ],
+    "new_total": 980
+  },
+  {
     "ts": "2026-06-06T01:19:00+00:00",
     "text": "Kamilla Cardoso passed Shakira Austin for #116 all-time in blocks (career 111) \u2014 up from #117 entering today \u2014 (6:47 - 4th \u2014 CON @ CHI)",
     "kind": "rank_pass",
@@ -2979,20 +2991,5 @@
       "Chelsea Gray"
     ],
     "new_total": 124
-  },
-  {
-    "ts": "2026-05-26T03:38:00+00:00",
-    "text": "Rickea Jackson passed Ebony Hoffman, Jordin Canada, Shey Peddy, and Stephanie White for #179 all-time in three-pointers (career 116) \u2014 up from #184 entering today \u2014 (5.4 - 3rd \u2014 CON @ GS)",
-    "kind": "rank_pass",
-    "player": "Rickea Jackson",
-    "stat": "three-pointers",
-    "rank": 179,
-    "passed_players": [
-      "Ebony Hoffman",
-      "Jordin Canada",
-      "Shey Peddy",
-      "Stephanie White"
-    ],
-    "new_total": 116
   }
 ]
