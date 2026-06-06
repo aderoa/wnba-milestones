@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-06 03:49 UTC_
+_Last updated: 2026-06-06 03:50 UTC_
 
 ## Contents
 
@@ -21,7 +21,7 @@ _Last updated: 2026-06-06 03:49 UTC_
 |-----:|--------|------:|
 | 1 | Diana Taurasi | 10,608 |
 | 2 | Tina Charles | 8,396 |
-| 3 | **DeWanna Bonner** 🔴 +10 | 7,901 |
+| 3 | **DeWanna Bonner** 🔴 +12 | 7,903 |
 | 4 | Tina Thompson | 7,470 |
 | 5 | **Nneka Ogwumike** 🔴 +13 | 7,440 |
 | 6 | Tamika Catchings | 7,371 |
@@ -228,7 +228,7 @@ _Last updated: 2026-06-06 03:49 UTC_
 | 2 | Sylvia Fowles | 4,005 |
 | 3 | Candace Parker | 3,467 |
 | 4 | Rebekkah Brunson | 3,345 |
-| 5 | **Nneka Ogwumike** 🔴 +9 | 3,336 |
+| 5 | **Nneka Ogwumike** 🔴 +10 | 3,337 |
 | 6 | Tamika Catchings | 3,313 |
 | 7 | Lisa Leslie | 3,303 |
 | 8 | **DeWanna Bonner** 🔴 +4 | 3,259 |
@@ -599,8 +599,8 @@ _Last updated: 2026-06-06 03:49 UTC_
 | 168 | Marissa Coleman | 399 |
 | 169 | Aliyah Boston | 398 |
 | 170 | Stacey Dales | 395 |
-| 171 | **Jessica Shepard** 🔴 +3 | 393 |
-| 171 | Sugar Rodgers | 393 |
+| 171 | **Jessica Shepard** 🔴 +4 | 394 |
+| 172 | Sugar Rodgers | 393 |
 | 173 | Shameka Christon | 389 |
 | 173 | Tamicha Jackson | 389 |
 | 175 | Riquna Williams | 387 |
@@ -656,7 +656,7 @@ _Last updated: 2026-06-06 03:49 UTC_
 | 20 | Jessica Breland | 367 |
 | 21 | Natasha Howard | 363 |
 | 22 | Ezi Magbegor | 354 |
-| 23 | **DeWanna Bonner** 🔴 +2 | 352 |
+| 23 | **DeWanna Bonner** 🔴 +3 | 353 |
 | 24 | Diana Taurasi | 349 |
 | 24 | Elena Delle Donne | 349 |
 | 26 | DeLisha Milton-Jones | 339 |
@@ -738,8 +738,8 @@ _Last updated: 2026-06-06 03:49 UTC_
 | 102 | Natalie Williams | 122 |
 | 103 | Ebony Hoffman | 121 |
 | 103 | Essence Carson | 121 |
-| 105 | **Emily Engstler** 🔴 +1 | 118 |
-| 105 | Krystal Thomas | 118 |
+| 105 | **Emily Engstler** 🔴 +2 | 119 |
+| 106 | Krystal Thomas | 118 |
 | 107 | Andrea Stinson | 117 |
 | 107 | Crystal Langhorne | 117 |
 | 107 | **Natasha Mack** 🔴 +1 | 117 |
@@ -1314,7 +1314,7 @@ _Last updated: 2026-06-06 03:49 UTC_
 | 63 | Dawn Staley | 643 |
 | 64 | Ruth Riley | 637 |
 | 65 | Kayla McBride | 636 |
-| 66 | **Kelsey Plum** 🔴 +3 | 634 |
+| 66 | **Kelsey Plum** 🔴 +4 | 635 |
 | 67 | **Odyssey Sims** 🔴 +1 | 631 |
 | 67 | Svetlana Abrosimova | 631 |
 | 69 | Jonquel Jones | 627 |
@@ -1533,8 +1533,8 @@ _Last updated: 2026-06-06 03:49 UTC_
 | 77 | Kristi Toliver | 722 |
 | 78 | Elizabeth Williams | 720 |
 | 79 | Cheryl Ford | 713 |
-| 80 | **Ariel Atkins** 🔴 +3 | 711 |
-| 80 | Jia Perkins | 711 |
+| 80 | **Ariel Atkins** 🔴 +4 | 712 |
+| 81 | Jia Perkins | 711 |
 | 82 | Helen Darling | 709 |
 | 83 | Matee Ajavon | 701 |
 | 83 | Nicole Powell | 701 |

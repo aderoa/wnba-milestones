@@ -2,6 +2,12 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-06 03:50 UTC
+
+- **Jessica Shepard** passed **Sugar Rodgers** for **#171** all-time in assists (career 394) — up from #172 entering today — _5:56 - 4th — DAL @ LA_
+- **Ariel Atkins** passed **Jia Perkins** for **#80** all-time in fouls (career 712) — up from #82 entering today — _5:56 - 4th — DAL @ LA_
+- **Emily Engstler** passed **Krystal Thomas** for **#105** all-time in blocks (career 119) — up from #108 entering today — _6:44 - 4th — PHX @ POR_
+
 ## 2026-06-06 03:49 UTC
 
 - **Maddy Siegrist** reached **800** career points (now 800) — _6:26 - 4th — DAL @ LA_

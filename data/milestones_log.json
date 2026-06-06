@@ -1,5 +1,41 @@
 [
   {
+    "ts": "2026-06-06T03:50:00+00:00",
+    "text": "Jessica Shepard passed Sugar Rodgers for #171 all-time in assists (career 394) \u2014 up from #172 entering today \u2014 (5:56 - 4th \u2014 DAL @ LA)",
+    "kind": "rank_pass",
+    "player": "Jessica Shepard",
+    "stat": "assists",
+    "rank": 171,
+    "passed_players": [
+      "Sugar Rodgers"
+    ],
+    "new_total": 394
+  },
+  {
+    "ts": "2026-06-06T03:50:00+00:00",
+    "text": "Ariel Atkins passed Jia Perkins for #80 all-time in fouls (career 712) \u2014 up from #82 entering today \u2014 (5:56 - 4th \u2014 DAL @ LA)",
+    "kind": "rank_pass",
+    "player": "Ariel Atkins",
+    "stat": "fouls",
+    "rank": 80,
+    "passed_players": [
+      "Jia Perkins"
+    ],
+    "new_total": 712
+  },
+  {
+    "ts": "2026-06-06T03:50:00+00:00",
+    "text": "Emily Engstler passed Krystal Thomas for #105 all-time in blocks (career 119) \u2014 up from #108 entering today \u2014 (6:44 - 4th \u2014 PHX @ POR)",
+    "kind": "rank_pass",
+    "player": "Emily Engstler",
+    "stat": "blocks",
+    "rank": 105,
+    "passed_players": [
+      "Krystal Thomas"
+    ],
+    "new_total": 119
+  },
+  {
     "ts": "2026-06-06T03:49:00+00:00",
     "text": "Maddy Siegrist reached 800 career points (now 800) \u2014 (6:26 - 4th \u2014 DAL @ LA)",
     "kind": "round",
@@ -2950,42 +2986,5 @@
       "Scholanda Dorrell"
     ],
     "new_total": 336
-  },
-  {
-    "ts": "2026-05-30T00:53:00+00:00",
-    "text": "Skylar Diggins passed Maya Moore for #32 all-time in steals (career 450) \u2014 up from #33 entering today \u2014 (3:31 - 3rd \u2014 MIN @ CHI)",
-    "kind": "rank_pass",
-    "player": "Skylar Diggins",
-    "stat": "steals",
-    "rank": 32,
-    "passed_players": [
-      "Maya Moore"
-    ],
-    "new_total": 450
-  },
-  {
-    "ts": "2026-05-30T00:46:00+00:00",
-    "text": "Nia Coffey passed Nikki McCray for #122 all-time in three-pointers (career 176) \u2014 up from #125 entering today \u2014 (5:49 - 3rd \u2014 MIN @ CHI)",
-    "kind": "rank_pass",
-    "player": "Nia Coffey",
-    "stat": "three-pointers",
-    "rank": 122,
-    "passed_players": [
-      "Nikki McCray"
-    ],
-    "new_total": 176
-  },
-  {
-    "ts": "2026-05-30T00:44:00+00:00",
-    "text": "Nia Coffey passed Shatori Walker-Kimbrough and Tayler Hill for #123 all-time in three-pointers (career 175) \u2014 up from #125 entering today \u2014 (7:08 - 3rd \u2014 MIN @ CHI)",
-    "kind": "rank_pass",
-    "player": "Nia Coffey",
-    "stat": "three-pointers",
-    "rank": 123,
-    "passed_players": [
-      "Shatori Walker-Kimbrough",
-      "Tayler Hill"
-    ],
-    "new_total": 175
   }
 ]
