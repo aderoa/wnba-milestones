@@ -1,5 +1,14 @@
 [
   {
+    "ts": "2026-06-06T23:45:00+00:00",
+    "text": "Michaela Onyenwere reached 1,300 career points (now 1,301) \u2014 (1:39 - 3rd \u2014 WSH @ ATL)",
+    "kind": "round",
+    "player": "Michaela Onyenwere",
+    "stat": "points",
+    "value": 1300,
+    "new_total": 1301
+  },
+  {
     "ts": "2026-06-06T23:44:00+00:00",
     "text": "Allisha Gray passed Courtney Vandersloot for #46 all-time in points (career 4,354) \u2014 up from #47 entering today \u2014 (2:08 - 3rd \u2014 WSH @ ATL)",
     "kind": "rank_pass",
@@ -2971,17 +2980,5 @@
       "Taj McWilliams-Franklin"
     ],
     "new_total": 4994
-  },
-  {
-    "ts": "2026-06-05T00:21:00+00:00",
-    "text": "Caitlin Clark passed Amanda Lassiter for #127 all-time in three-pointers (career 171) \u2014 up from #128 entering today \u2014 (4:42 - 3rd \u2014 ATL @ IND)",
-    "kind": "rank_pass",
-    "player": "Caitlin Clark",
-    "stat": "three-pointers",
-    "rank": 127,
-    "passed_players": [
-      "Amanda Lassiter"
-    ],
-    "new_total": 171
   }
 ]
