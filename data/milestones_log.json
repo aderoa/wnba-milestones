@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-06T01:26:00+00:00",
+    "text": "Azur\u00e1 Stevens passed Allison Feaster for #136 all-time in points (career 2,259) \u2014 up from #137 entering today \u2014 (4:23 - 4th \u2014 CON @ CHI)",
+    "kind": "rank_pass",
+    "player": "Azur\u00e1 Stevens",
+    "stat": "points",
+    "rank": 136,
+    "passed_players": [
+      "Allison Feaster"
+    ],
+    "new_total": 2259
+  },
+  {
     "ts": "2026-06-06T01:24:00+00:00",
     "text": "Brittney Griner passed Nakia Sanford for #29 all-time in fouls (career 980) \u2014 up from #30 entering today \u2014 (5:30 - 4th \u2014 CON @ CHI)",
     "kind": "rank_pass",
@@ -2979,17 +2991,5 @@
       "Tan White"
     ],
     "new_total": 579
-  },
-  {
-    "ts": "2026-05-26T04:03:00+00:00",
-    "text": "Olivia Nelson-Ododa passed Chelsea Gray for #99 all-time in blocks (career 124) \u2014 up from #102 entering today \u2014 (3:08 - 4th \u2014 CON @ GS)",
-    "kind": "rank_pass",
-    "player": "Olivia Nelson-Ododa",
-    "stat": "blocks",
-    "rank": 99,
-    "passed_players": [
-      "Chelsea Gray"
-    ],
-    "new_total": 124
   }
 ]
