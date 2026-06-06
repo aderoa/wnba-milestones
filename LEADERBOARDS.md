@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-06 23:27 UTC_
+_Last updated: 2026-06-06 23:28 UTC_
 
 ## Contents
 
@@ -157,7 +157,7 @@ _Last updated: 2026-06-06 23:27 UTC_
 | 136 | Azurá Stevens | 2,259 |
 | 137 | Allison Feaster | 2,258 |
 | 138 | Shekinna Stricklen | 2,245 |
-| 139 | **Jordin Canada** 🔴 +3 | 2,240 |
+| 139 | **Jordin Canada** 🔴 +6 | 2,243 |
 | 140 | Kara Braxton | 2,237 |
 | 140 | Matee Ajavon | 2,237 |
 | 142 | Kia Nurse | 2,231 |
@@ -502,7 +502,7 @@ _Last updated: 2026-06-06 23:27 UTC_
 | 71 | Epiphanny Prince | 800 |
 | 72 | Mwadi Mabika | 774 |
 | 73 | Marina Mabrey | 772 |
-| 74 | **Allisha Gray** 🔴 +3 | 746 |
+| 74 | **Allisha Gray** 🔴 +4 | 747 |
 | 75 | Sheri Sam | 745 |
 | 76 | Monique Currie | 740 |
 | 77 | Elaine Powell | 728 |
@@ -745,7 +745,7 @@ _Last updated: 2026-06-06 23:27 UTC_
 | 107 | Natasha Mack | 117 |
 | 110 | Monique Currie | 114 |
 | 111 | Ariel Atkins | 113 |
-| 111 | **Shakira Austin** 🔴 +3 | 113 |
+| 112 | **Shakira Austin** 🔴 +2 | 112 |
 | 113 | Amanda Lassiter | 111 |
 | 113 | Kamila Vodichkova | 111 |
 | 113 | Kamilla Cardoso | 111 |
@@ -1219,7 +1219,7 @@ _Last updated: 2026-06-06 23:27 UTC_
 | 173 | Charde Houston | 124 |
 | 174 | Lisa Leslie | 123 |
 | 175 | Sidney Spencer | 122 |
-| 176 | **Jordin Canada** 🔴 | 120 |
+| 176 | **Jordin Canada** 🔴 +1 | 121 |
 | 177 | Lexie Hull | 118 |
 | 177 | Tonya Edwards | 118 |
 | 179 | Edwige Lawson-Wade | 116 |
