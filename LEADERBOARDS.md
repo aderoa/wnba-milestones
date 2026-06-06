@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-06 03:39 UTC_
+_Last updated: 2026-06-06 03:40 UTC_
 
 ## Contents
 
@@ -1314,7 +1314,7 @@ _Last updated: 2026-06-06 03:39 UTC_
 | 63 | Dawn Staley | 643 |
 | 64 | Ruth Riley | 637 |
 | 65 | Kayla McBride | 636 |
-| 66 | **Kelsey Plum** 🔴 +2 | 633 |
+| 66 | **Kelsey Plum** 🔴 +3 | 634 |
 | 67 | **Odyssey Sims** 🔴 +1 | 631 |
 | 67 | Svetlana Abrosimova | 631 |
 | 69 | Jonquel Jones | 627 |
@@ -1511,7 +1511,7 @@ _Last updated: 2026-06-06 03:39 UTC_
 | 55 | Penny Taylor | 832 |
 | 56 | Dominique Canty | 831 |
 | 56 | Wendy Palmer | 831 |
-| 58 | **Dearica Hamby** 🔴 +1 | 828 |
+| 58 | **Dearica Hamby** 🔴 +2 | 829 |
 | 59 | Shannon Johnson | 813 |
 | 59 | Tully Bevilaqua | 813 |
 | 61 | Skylar Diggins | 812 |
