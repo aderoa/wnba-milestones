@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-06T01:40:00+00:00",
+    "text": "Elizabeth Williams passed Natalie Williams for #100 all-time in points (career 2,896) \u2014 up from #102 entering today \u2014 (14.5 - 4th \u2014 CON @ CHI)",
+    "kind": "rank_pass",
+    "player": "Elizabeth Williams",
+    "stat": "points",
+    "rank": 100,
+    "passed_players": [
+      "Natalie Williams"
+    ],
+    "new_total": 2896
+  },
+  {
     "ts": "2026-06-06T01:26:00+00:00",
     "text": "Azur\u00e1 Stevens passed Allison Feaster for #136 all-time in points (career 2,259) \u2014 up from #137 entering today \u2014 (4:23 - 4th \u2014 CON @ CHI)",
     "kind": "rank_pass",
@@ -2979,17 +2991,5 @@
       "Natasha Howard"
     ],
     "new_total": 158
-  },
-  {
-    "ts": "2026-05-27T23:34:00+00:00",
-    "text": "Betnijah Laney-Hamilton passed Tan White for #106 all-time in assists (career 579) \u2014 (8:20 - 2nd \u2014 PHX @ NY)",
-    "kind": "rank_pass",
-    "player": "Betnijah Laney-Hamilton",
-    "stat": "assists",
-    "rank": 106,
-    "passed_players": [
-      "Tan White"
-    ],
-    "new_total": 579
   }
 ]

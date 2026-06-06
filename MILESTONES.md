@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-06 01:40 UTC
+
+- **Elizabeth Williams** passed **Natalie Williams** for **#100** all-time in points (career 2,896) — up from #102 entering today — _14.5 - 4th — CON @ CHI_
+
 ## 2026-06-06 01:26 UTC
 
 - **Azurá Stevens** passed **Allison Feaster** for **#136** all-time in points (career 2,259) — up from #137 entering today — _4:23 - 4th — CON @ CHI_
