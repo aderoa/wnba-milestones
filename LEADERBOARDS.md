@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-06 00:52 UTC_
+_Last updated: 2026-06-06 00:53 UTC_
 
 ## Contents
 
@@ -40,7 +40,7 @@ _Last updated: 2026-06-06 00:52 UTC_
 | 19 | A'ja Wilson | 5,942 |
 | 20 | Becky Hammon | 5,816 |
 | 21 | Angel McCoughtry | 5,797 |
-| 22 | **Skylar Diggins** 🔴 +18 | 5,620 |
+| 22 | **Skylar Diggins** 🔴 +20 | 5,622 |
 | 23 | DeLisha Milton-Jones | 5,571 |
 | 24 | Katie Douglas | 5,545 |
 | 25 | Kayla McBride | 5,522 |
@@ -117,7 +117,7 @@ _Last updated: 2026-06-06 00:52 UTC_
 | 96 | Shameka Christon | 3,039 |
 | 97 | Marie Ferdinand-Harris | 3,001 |
 | 98 | Emma Meesseman | 2,966 |
-| 99 | **Natasha Cloud** 🔴 | 2,939 |
+| 99 | **Natasha Cloud** 🔴 +2 | 2,941 |
 | 100 | Natalie Williams | 2,894 |
 | 101 | **Elizabeth Williams** 🔴 +4 | 2,890 |
 | 102 | Jennifer Gillom | 2,888 |
@@ -359,7 +359,7 @@ _Last updated: 2026-06-06 00:52 UTC_
 | 133 | Sabrina Ionescu | 998 |
 | 134 | Marissa Coleman | 995 |
 | 135 | Kristen Rasmussen | 993 |
-| 136 | **Skylar Diggins** 🔴 +2 | 990 |
+| 136 | **Skylar Diggins** 🔴 +3 | 991 |
 | 137 | Danielle Robinson | 988 |
 | 138 | Shavonte Zellous | 978 |
 | 139 | Kara Lawson | 976 |
@@ -436,7 +436,7 @@ _Last updated: 2026-06-06 00:52 UTC_
 | 5 | Lindsay Whalen | 2,347 |
 | 6 | Chelsea Gray | 1,935 |
 | 7 | Alyssa Thomas | 1,903 |
-| 8 | **Skylar Diggins** 🔴 +3 | 1,811 |
+| 8 | **Skylar Diggins** 🔴 +4 | 1,812 |
 | 9 | **Natasha Cloud** 🔴 +4 | 1,771 |
 | 10 | Becky Hammon | 1,705 |
 | 11 | Candace Parker | 1,634 |
