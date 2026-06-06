@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-06T19:44:00+00:00",
+    "text": "A'ja Wilson passed Allie Quigley for #119 all-time in turnovers (career 468) \u2014 up from #120 entering today \u2014 (2:59 - 2nd \u2014 GS @ LV)",
+    "kind": "rank_pass",
+    "player": "A'ja Wilson",
+    "stat": "turnovers",
+    "rank": 119,
+    "passed_players": [
+      "Allie Quigley"
+    ],
+    "new_total": 468
+  },
+  {
     "ts": "2026-06-06T19:43:00+00:00",
     "text": "Veronica Burton passed Ebony Hoffman, Shey Peddy, and Stephanie White for #182 all-time in three-pointers (career 116) \u2014 up from #185 entering today \u2014 (2:59 - 2nd \u2014 GS @ LV)",
     "kind": "rank_pass",
@@ -2968,17 +2980,5 @@
       "Wendy Palmer"
     ],
     "new_total": 147
-  },
-  {
-    "ts": "2026-06-04T03:55:00+00:00",
-    "text": "Kahleah Copper passed Crystal Langhorne for #71 all-time in fouls (career 738) \u2014 up from #72 entering today \u2014 (1:26 - 4th \u2014 PHX @ SEA)",
-    "kind": "rank_pass",
-    "player": "Kahleah Copper",
-    "stat": "fouls",
-    "rank": 71,
-    "passed_players": [
-      "Crystal Langhorne"
-    ],
-    "new_total": 738
   }
 ]

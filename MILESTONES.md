@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-06 19:44 UTC
+
+- **A'ja Wilson** passed **Allie Quigley** for **#119** all-time in turnovers (career 468) — up from #120 entering today — _2:59 - 2nd — GS @ LV_
+
 ## 2026-06-06 19:43 UTC
 
 - **Veronica Burton** passed **Ebony Hoffman**, **Shey Peddy**, and **Stephanie White** for **#182** all-time in three-pointers (career 116) — up from #185 entering today — _2:59 - 2nd — GS @ LV_

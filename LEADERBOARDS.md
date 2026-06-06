@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-06 19:43 UTC_
+_Last updated: 2026-06-06 19:44 UTC_
 
 ## Contents
 
@@ -547,7 +547,7 @@ _Last updated: 2026-06-06 19:43 UTC_
 | 116 | Janel McCarville | 551 |
 | 116 | Svetlana Abrosimova | 551 |
 | 118 | Michele Timms | 549 |
-| 119 | **Veronica Burton** 🔴 +1 | 538 |
+| 119 | **Veronica Burton** 🔴 +2 | 539 |
 | 120 | Marie Ferdinand-Harris | 528 |
 | 121 | Margo Dydek | 524 |
 | 122 | Myisha Hines-Allen | 520 |
@@ -1367,8 +1367,8 @@ _Last updated: 2026-06-06 19:43 UTC_
 | 116 | Natalie Williams | 480 |
 | 117 | Ebony Hoffman | 470 |
 | 118 | Elaine Powell | 469 |
-| 119 | **A'ja Wilson** 🔴 +1 | 467 |
-| 119 | Allie Quigley | 467 |
+| 119 | **A'ja Wilson** 🔴 +2 | 468 |
+| 120 | Allie Quigley | 467 |
 | 121 | Allisha Gray | 466 |
 | 122 | Ariel Atkins | 454 |
 | 122 | Kia Vaughn | 454 |
@@ -1599,7 +1599,7 @@ _Last updated: 2026-06-06 19:43 UTC_
 | 143 | Jayne Appel Marinelli | 543 |
 | 143 | Renee Montgomery | 543 |
 | 145 | Marissa Coleman | 541 |
-| 146 | **A'ja Wilson** 🔴 +1 | 538 |
+| 146 | **A'ja Wilson** 🔴 +2 | 539 |
 | 147 | Kristen Rasmussen | 533 |
 | 148 | Amanda Zahui B | 530 |
 | 149 | Damiris Dantas | 527 |
