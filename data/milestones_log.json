@@ -1,5 +1,29 @@
 [
   {
+    "ts": "2026-06-06T20:36:00+00:00",
+    "text": "Chelsea Gray passed Kayla McBride for #97 all-time in rebounds (career 1,227) \u2014 up from #98 entering today \u2014 (2.8 - 3rd \u2014 GS @ LV)",
+    "kind": "rank_pass",
+    "player": "Chelsea Gray",
+    "stat": "rebounds",
+    "rank": 97,
+    "passed_players": [
+      "Kayla McBride"
+    ],
+    "new_total": 1227
+  },
+  {
+    "ts": "2026-06-06T20:36:00+00:00",
+    "text": "Jewell Loyd passed Tianna Hawkins for #101 all-time in fouls (career 663) \u2014 up from #102 entering today \u2014 (2.8 - 3rd \u2014 GS @ LV)",
+    "kind": "rank_pass",
+    "player": "Jewell Loyd",
+    "stat": "fouls",
+    "rank": 101,
+    "passed_players": [
+      "Tianna Hawkins"
+    ],
+    "new_total": 663
+  },
+  {
     "ts": "2026-06-06T20:31:00+00:00",
     "text": "Jewell Loyd passed Kayla Thornton for #103 all-time in fouls (career 662) \u2014 (2:21 - 3rd \u2014 GS @ LV)",
     "kind": "rank_pass",
@@ -2954,29 +2978,5 @@
       "Lindsay Wisdom-Hylton"
     ],
     "new_total": 74
-  },
-  {
-    "ts": "2026-06-04T23:22:00+00:00",
-    "text": "Sophie Cunningham passed Marissa Coleman for #63 all-time in three-pointers (career 316) \u2014 up from #64 entering today \u2014 (56.5 - 1st \u2014 ATL @ IND)",
-    "kind": "rank_pass",
-    "player": "Sophie Cunningham",
-    "stat": "three-pointers",
-    "rank": 63,
-    "passed_players": [
-      "Marissa Coleman"
-    ],
-    "new_total": 316
-  },
-  {
-    "ts": "2026-06-04T23:20:00+00:00",
-    "text": "Jordin Canada passed Marina Mabrey for #109 all-time in turnovers (career 510) \u2014 (2:35 - 1st \u2014 ATL @ IND)",
-    "kind": "rank_pass",
-    "player": "Jordin Canada",
-    "stat": "turnovers",
-    "rank": 109,
-    "passed_players": [
-      "Marina Mabrey"
-    ],
-    "new_total": 510
   }
 ]

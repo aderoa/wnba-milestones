@@ -2,6 +2,11 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-06 20:36 UTC
+
+- **Chelsea Gray** passed **Kayla McBride** for **#97** all-time in rebounds (career 1,227) — up from #98 entering today — _2.8 - 3rd — GS @ LV_
+- **Jewell Loyd** passed **Tianna Hawkins** for **#101** all-time in fouls (career 663) — up from #102 entering today — _2.8 - 3rd — GS @ LV_
+
 ## 2026-06-06 20:31 UTC
 
 - **Jewell Loyd** passed **Kayla Thornton** for **#103** all-time in fouls (career 662) — _2:21 - 3rd — GS @ LV_
