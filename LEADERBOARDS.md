@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-06 02:49 UTC_
+_Last updated: 2026-06-06 02:50 UTC_
 
 ## Contents
 
@@ -247,7 +247,7 @@ _Last updated: 2026-06-06 02:49 UTC_
 | 21 | Crystal Langhorne | 2,454 |
 | 22 | Lauren Jackson | 2,444 |
 | 23 | Yolanda Griffith | 2,440 |
-| 24 | **Dearica Hamby** 🔴 | 2,386 |
+| 24 | **Dearica Hamby** 🔴 +1 | 2,387 |
 | 25 | Tangela Smith | 2,328 |
 | 26 | Natasha Howard | 2,253 |
 | 27 | Erika de Souza | 2,220 |
@@ -451,8 +451,8 @@ _Last updated: 2026-06-06 02:49 UTC_
 | 20 | Briann January | 1,339 |
 | 21 | Dawn Staley | 1,337 |
 | 22 | Teresa Weatherspoon | 1,333 |
-| 23 | **Erica Wheeler** 🔴 +1 | 1,301 |
-| 23 | Kristi Toliver | 1,301 |
+| 23 | **Erica Wheeler** 🔴 +2 | 1,302 |
+| 24 | Kristi Toliver | 1,301 |
 | 25 | Katie Smith | 1,258 |
 | 26 | **Kelsey Plum** 🔴 +2 | 1,233 |
 | 27 | **Odyssey Sims** 🔴 | 1,228 |
@@ -1206,9 +1206,9 @@ _Last updated: 2026-06-06 02:49 UTC_
 | 160 | Gabby Williams | 137 |
 | 160 | Kaleena Mosqueda-Lewis | 137 |
 | 162 | Shay Murphy | 134 |
-| 163 | Brooke Wyckoff | 132 |
-| 163 | Jenna O'Hea | 132 |
-| 163 | **Karlie Samuelson** 🔴 +1 | 132 |
+| 163 | **Karlie Samuelson** 🔴 +2 | 133 |
+| 164 | Brooke Wyckoff | 132 |
+| 164 | Jenna O'Hea | 132 |
 | 166 | Amanda Zahui B | 130 |
 | 166 | Eva Nemcova | 130 |
 | 168 | Crystal Dangerfield | 129 |
@@ -1467,7 +1467,7 @@ _Last updated: 2026-06-06 02:49 UTC_
 | 11 | Chasity Melvin | 1,165 |
 | 12 | Camille Smith | 1,159 |
 | 13 | Alana Beard | 1,153 |
-| 14 | **Nneka Ogwumike** 🔴 | 1,147 |
+| 14 | **Nneka Ogwumike** 🔴 +1 | 1,148 |
 | 15 | Swin Cash | 1,146 |
 | 16 | Taj McWilliams-Franklin | 1,145 |
 | 17 | Monique Currie | 1,137 |

@@ -2,6 +2,11 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-06 02:50 UTC
+
+- **Erica Wheeler** passed **Kristi Toliver** for **#23** all-time in assists (career 1,302) — up from #24 entering today — _3:40 - 2nd — DAL @ LA_
+- **Karlie Samuelson** passed **Brooke Wyckoff** and **Jenna O'Hea** for **#163** all-time in three-pointers (career 133) — up from #165 entering today — _3:09 - 2nd — PHX @ POR_
+
 ## 2026-06-06 02:42 UTC
 
 - **Arike Ogunbowale** passed **Angel McCoughtry** for **#53** all-time in assists (career 916) — up from #54 entering today — _6:11 - 2nd — DAL @ LA_
