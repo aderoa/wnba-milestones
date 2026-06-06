@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-06-06T20:57:00+00:00",
+    "text": "Gabby Williams passed Loree Moore and Tanisha Wright for #158 all-time in three-pointers (career 139) \u2014 up from #160 entering today \u2014 (3:26 - 4th \u2014 GS @ LV)",
+    "kind": "rank_pass",
+    "player": "Gabby Williams",
+    "stat": "three-pointers",
+    "rank": 158,
+    "passed_players": [
+      "Loree Moore",
+      "Tanisha Wright"
+    ],
+    "new_total": 139
+  },
+  {
     "ts": "2026-06-06T20:42:00+00:00",
     "text": "Tiffany Hayes passed Ariel Atkins for #28 all-time in three-pointers (career 452) \u2014 up from #29 entering today \u2014 (8:46 - 4th \u2014 GS @ LV)",
     "kind": "rank_pass",
@@ -2965,17 +2978,5 @@
       "Myisha Hines-Allen"
     ],
     "new_total": 1915
-  },
-  {
-    "ts": "2026-06-04T23:32:00+00:00",
-    "text": "Myisha Hines-Allen passed Jessica Breland for #155 all-time in turnovers (career 379) \u2014 up from #156 entering today \u2014 (7:36 - 2nd \u2014 ATL @ IND)",
-    "kind": "rank_pass",
-    "player": "Myisha Hines-Allen",
-    "stat": "turnovers",
-    "rank": 155,
-    "passed_players": [
-      "Jessica Breland"
-    ],
-    "new_total": 379
   }
 ]

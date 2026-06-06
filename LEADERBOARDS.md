@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-06 20:56 UTC_
+_Last updated: 2026-06-06 20:57 UTC_
 
 ## Contents
 
@@ -37,7 +37,7 @@ _Last updated: 2026-06-06 20:56 UTC_
 | 16 | Brittney Griner | 6,031 |
 | 17 | Lauren Jackson | 6,005 |
 | 17 | Seimone Augustus | 6,005 |
-| 19 | **A'ja Wilson** 🔴 +22 | 5,964 |
+| 19 | **A'ja Wilson** 🔴 +24 | 5,966 |
 | 20 | Becky Hammon | 5,816 |
 | 21 | Angel McCoughtry | 5,797 |
 | 22 | Skylar Diggins | 5,626 |
@@ -207,7 +207,7 @@ _Last updated: 2026-06-06 20:56 UTC_
 | 186 | Tully Bevilaqua | 1,763 |
 | 187 | Sandy Brondello | 1,759 |
 | 188 | Sophie Cunningham | 1,752 |
-| 189 | **Gabby Williams** 🔴 +21 | 1,744 |
+| 189 | **Gabby Williams** 🔴 +24 | 1,747 |
 | 190 | Sugar Rodgers | 1,733 |
 | 191 | Moriah Jefferson | 1,722 |
 | 192 | Armintie Herrington | 1,696 |
@@ -392,7 +392,7 @@ _Last updated: 2026-06-06 20:56 UTC_
 | 166 | Amanda Zahui B | 819 |
 | 166 | Barbara Farris | 819 |
 | 168 | Carolyn Swords | 814 |
-| 169 | **Gabby Williams** 🔴 +5 | 800 |
+| 169 | **Gabby Williams** 🔴 +6 | 801 |
 | 170 | Tierra Ruffin-Pratt | 799 |
 | 171 | Betnijah Laney-Hamilton | 795 |
 | 172 | Charlotte Smith | 794 |
@@ -1201,9 +1201,9 @@ _Last updated: 2026-06-06 20:56 UTC_
 | 155 | Jordan Hooper | 141 |
 | 155 | Michaela Onyenwere | 141 |
 | 157 | Coco Miller | 139 |
-| 158 | **Gabby Williams** 🔴 +1 | 138 |
-| 158 | Loree Moore | 138 |
-| 158 | Tanisha Wright | 138 |
+| 157 | **Gabby Williams** 🔴 +2 | 139 |
+| 159 | Loree Moore | 138 |
+| 159 | Tanisha Wright | 138 |
 | 161 | Kaleena Mosqueda-Lewis | 137 |
 | 162 | Karlie Samuelson | 135 |
 | 163 | Shay Murphy | 134 |
