@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-06T02:09:00+00:00",
+    "text": "Nneka Ogwumike passed Arike Ogunbowale for #54 all-time in assists (career 913) \u2014 up from #55 entering today \u2014 (7:28 - 1st \u2014 DAL @ LA)",
+    "kind": "rank_pass",
+    "player": "Nneka Ogwumike",
+    "stat": "assists",
+    "rank": 54,
+    "passed_players": [
+      "Arike Ogunbowale"
+    ],
+    "new_total": 913
+  },
+  {
     "ts": "2026-06-06T02:07:00+00:00",
     "text": "Arike Ogunbowale passed Nneka Ogwumike for #55 all-time in assists (career 913) \u2014 (9:21 - 1st \u2014 DAL @ LA)",
     "kind": "rank_pass",
@@ -2979,17 +2991,5 @@
       "Adrienne Goodson"
     ],
     "new_total": 204
-  },
-  {
-    "ts": "2026-05-28T00:30:00+00:00",
-    "text": "Azur\u00e1 Stevens passed Nneka Ogwumike for #94 all-time in three-pointers (career 239) \u2014 (8:54 - 2nd \u2014 TOR @ CHI)",
-    "kind": "rank_pass",
-    "player": "Azur\u00e1 Stevens",
-    "stat": "three-pointers",
-    "rank": 94,
-    "passed_players": [
-      "Nneka Ogwumike"
-    ],
-    "new_total": 239
   }
 ]

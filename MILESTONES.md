@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-06 02:09 UTC
+
+- **Nneka Ogwumike** passed **Arike Ogunbowale** for **#54** all-time in assists (career 913) — up from #55 entering today — _7:28 - 1st — DAL @ LA_
+
 ## 2026-06-06 02:07 UTC
 
 - **Arike Ogunbowale** passed **Nneka Ogwumike** for **#55** all-time in assists (career 913) — _9:21 - 1st — DAL @ LA_
