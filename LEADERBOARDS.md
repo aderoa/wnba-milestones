@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-06 20:41 UTC_
+_Last updated: 2026-06-06 20:42 UTC_
 
 ## Contents
 
@@ -49,7 +49,7 @@ _Last updated: 2026-06-06 20:41 UTC_
 | 28 | Tangela Smith | 5,035 |
 | 29 | Kelsey Mitchell | 5,003 |
 | 30 | Taj McWilliams-Franklin | 4,992 |
-| 31 | **Tiffany Hayes** 🔴 +2 | 4,987 |
+| 31 | **Tiffany Hayes** 🔴 +5 | 4,990 |
 | 32 | Maya Moore | 4,984 |
 | 33 | Sheryl Swoopes | 4,875 |
 | 34 | Alana Beard | 4,740 |
@@ -315,7 +315,7 @@ _Last updated: 2026-06-06 20:41 UTC_
 | 89 | Janel McCarville | 1,261 |
 | 90 | Liz Cambage | 1,258 |
 | 91 | Azurá Stevens | 1,256 |
-| 92 | **Tiffany Hayes** 🔴 +2 | 1,246 |
+| 92 | **Tiffany Hayes** 🔴 +3 | 1,247 |
 | 93 | Ezi Magbegor | 1,243 |
 | 94 | Myisha Hines-Allen | 1,239 |
 | 95 | **Brianna Turner** 🔴 | 1,237 |
@@ -477,7 +477,7 @@ _Last updated: 2026-06-06 20:41 UTC_
 | 46 | Tamecka Dixon | 960 |
 | 47 | Breanna Stewart | 953 |
 | 48 | Kara Lawson | 946 |
-| 49 | **Tiffany Hayes** 🔴 +2 | 938 |
+| 49 | **Tiffany Hayes** 🔴 +3 | 939 |
 | 50 | Deanna Nolan | 930 |
 | 51 | Kelly Miller | 927 |
 | 52 | DeLisha Milton-Jones | 921 |
@@ -1071,8 +1071,8 @@ _Last updated: 2026-06-06 20:41 UTC_
 | 25 | Cappie Pondexter | 464 |
 | 26 | Sabrina Ionescu | 462 |
 | 27 | Breanna Stewart | 460 |
-| 28 | Ariel Atkins | 451 |
-| 28 | **Tiffany Hayes** 🔴 | 451 |
+| 28 | **Tiffany Hayes** 🔴 +1 | 452 |
+| 29 | Ariel Atkins | 451 |
 | 30 | Allisha Gray | 445 |
 | 31 | Lauren Jackson | 436 |
 | 32 | Skylar Diggins | 435 |

@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-06T20:42:00+00:00",
+    "text": "Tiffany Hayes passed Ariel Atkins for #28 all-time in three-pointers (career 452) \u2014 up from #29 entering today \u2014 (8:46 - 4th \u2014 GS @ LV)",
+    "kind": "rank_pass",
+    "player": "Tiffany Hayes",
+    "stat": "three-pointers",
+    "rank": 28,
+    "passed_players": [
+      "Ariel Atkins"
+    ],
+    "new_total": 452
+  },
+  {
     "ts": "2026-06-06T20:36:00+00:00",
     "text": "Chelsea Gray passed Kayla McBride for #97 all-time in rebounds (career 1,227) \u2014 up from #98 entering today \u2014 (2.8 - 3rd \u2014 GS @ LV)",
     "kind": "rank_pass",
@@ -2965,18 +2977,5 @@
       "Jessica Breland"
     ],
     "new_total": 379
-  },
-  {
-    "ts": "2026-06-04T23:23:00+00:00",
-    "text": "Myisha Hines-Allen passed Ayana Walker and Lindsay Wisdom-Hylton for #181 all-time in blocks (career 74) \u2014 up from #183 entering today \u2014 (27.3 - 1st \u2014 ATL @ IND)",
-    "kind": "rank_pass",
-    "player": "Myisha Hines-Allen",
-    "stat": "blocks",
-    "rank": 181,
-    "passed_players": [
-      "Ayana Walker",
-      "Lindsay Wisdom-Hylton"
-    ],
-    "new_total": 74
   }
 ]

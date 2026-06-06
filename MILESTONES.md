@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-06 20:42 UTC
+
+- **Tiffany Hayes** passed **Ariel Atkins** for **#28** all-time in three-pointers (career 452) — up from #29 entering today — _8:46 - 4th — GS @ LV_
+
 ## 2026-06-06 20:36 UTC
 
 - **Chelsea Gray** passed **Kayla McBride** for **#97** all-time in rebounds (career 1,227) — up from #98 entering today — _2.8 - 3rd — GS @ LV_
