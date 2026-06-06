@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-06T22:44:00+00:00",
+    "text": "Rhyne Howard passed Nikki McCray for #135 all-time in steals (career 236) \u2014 up from #137 entering today \u2014 (4:57 - 2nd \u2014 WSH @ ATL)",
+    "kind": "rank_pass",
+    "player": "Rhyne Howard",
+    "stat": "steals",
+    "rank": 135,
+    "passed_players": [
+      "Nikki McCray"
+    ],
+    "new_total": 236
+  },
+  {
     "ts": "2026-06-06T22:28:00+00:00",
     "text": "Rhyne Howard passed Jia Perkins for #39 all-time in three-pointers (career 397) \u2014 up from #41 entering today \u2014 (9:21 - 2nd \u2014 WSH @ ATL)",
     "kind": "rank_pass",
@@ -2967,17 +2979,5 @@
       "Jessica Breland"
     ],
     "new_total": 1919
-  },
-  {
-    "ts": "2026-06-04T23:52:00+00:00",
-    "text": "Myisha Hines-Allen passed Tamicha Jackson for #178 all-time in steals (career 189) \u2014 up from #180 entering today \u2014 (1:04 - 2nd \u2014 ATL @ IND)",
-    "kind": "rank_pass",
-    "player": "Myisha Hines-Allen",
-    "stat": "steals",
-    "rank": 178,
-    "passed_players": [
-      "Tamicha Jackson"
-    ],
-    "new_total": 189
   }
 ]
