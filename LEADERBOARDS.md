@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-06 17:05 UTC_
+_Last updated: 2026-06-06 17:06 UTC_
 
 ## Contents
 
@@ -507,7 +507,7 @@ _Last updated: 2026-06-06 17:05 UTC_
 | 76 | Monique Currie | 740 |
 | 77 | Elaine Powell | 728 |
 | 78 | Dearica Hamby | 718 |
-| 79 | **Stefanie Dolson** 🔴 | 700 |
+| 79 | **Stefanie Dolson** 🔴 +1 | 701 |
 | 80 | Chamique Holdsclaw | 698 |
 | 81 | Shavonte Zellous | 693 |
 | 82 | Allie Quigley | 690 |
