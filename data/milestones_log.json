@@ -1,5 +1,29 @@
 [
   {
+    "ts": "2026-06-06T19:12:00+00:00",
+    "text": "Kayla Thornton passed Jewell Loyd for #102 all-time in fouls (career 662) \u2014 up from #103 entering today \u2014 (5:44 - 1st \u2014 GS @ LV)",
+    "kind": "rank_pass",
+    "player": "Kayla Thornton",
+    "stat": "fouls",
+    "rank": 102,
+    "passed_players": [
+      "Jewell Loyd"
+    ],
+    "new_total": 662
+  },
+  {
+    "ts": "2026-06-06T19:12:00+00:00",
+    "text": "A'ja Wilson passed DeLisha Milton-Jones for #16 all-time in rebounds (career 2,575) \u2014 (5:44 - 1st \u2014 GS @ LV)",
+    "kind": "rank_pass",
+    "player": "A'ja Wilson",
+    "stat": "rebounds",
+    "rank": 16,
+    "passed_players": [
+      "DeLisha Milton-Jones"
+    ],
+    "new_total": 2575
+  },
+  {
     "ts": "2026-06-06T19:09:00+00:00",
     "text": "Chelsea Gray passed Jewell Loyd for #36 all-time in steals (career 446) \u2014 (7:28 - 1st \u2014 GS @ LV)",
     "kind": "rank_pass",
@@ -2946,26 +2970,5 @@
     "stat": "turnovers",
     "value": 1000,
     "new_total": 1000
-  },
-  {
-    "ts": "2026-06-04T02:05:00+00:00",
-    "text": "Stefanie Dolson reached 700 career assists (now 700) \u2014 (8:34 - 1st \u2014 PHX @ SEA)",
-    "kind": "round",
-    "player": "Stefanie Dolson",
-    "stat": "assists",
-    "value": 700,
-    "new_total": 700
-  },
-  {
-    "ts": "2026-06-04T01:14:00+00:00",
-    "text": "Jonquel Jones passed Courtney Williams for #55 all-time in points (career 4,222) \u2014 up from #56 entering today \u2014 (5:35 - 4th \u2014 TOR @ NY)",
-    "kind": "rank_pass",
-    "player": "Jonquel Jones",
-    "stat": "points",
-    "rank": 55,
-    "passed_players": [
-      "Courtney Williams"
-    ],
-    "new_total": 4222
   }
 ]
