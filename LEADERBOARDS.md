@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-06 00:55 UTC_
+_Last updated: 2026-06-06 00:56 UTC_
 
 ## Contents
 
@@ -119,7 +119,7 @@ _Last updated: 2026-06-06 00:55 UTC_
 | 98 | Emma Meesseman | 2,966 |
 | 99 | **Natasha Cloud** 🔴 +3 | 2,942 |
 | 100 | Natalie Williams | 2,894 |
-| 101 | **Elizabeth Williams** 🔴 +4 | 2,890 |
+| 101 | **Elizabeth Williams** 🔴 +6 | 2,892 |
 | 102 | Jennifer Gillom | 2,888 |
 | 103 | Iziane Castro Marques | 2,862 |
 | 104 | Alysha Clark | 2,807 |
@@ -938,8 +938,8 @@ _Last updated: 2026-06-06 00:55 UTC_
 | 97 | Kedra Holland-Corn | 301 |
 | 98 | Lindsey Harding | 295 |
 | 99 | Janel McCarville | 294 |
-| 100 | **Elizabeth Williams** 🔴 | 290 |
-| 100 | Kelly Miller | 290 |
+| 100 | **Elizabeth Williams** 🔴 +1 | 291 |
+| 101 | Kelly Miller | 290 |
 | 102 | Glory Johnson | 289 |
 | 103 | Essence Carson | 285 |
 | 104 | Seimone Augustus | 280 |
@@ -1271,7 +1271,7 @@ _Last updated: 2026-06-06 00:55 UTC_
 | 20 | Shannon Johnson | 934 |
 | 21 | Chelsea Gray | 898 |
 | 21 | Taj McWilliams-Franklin | 898 |
-| 23 | **Skylar Diggins** 🔴 | 891 |
+| 23 | **Skylar Diggins** 🔴 +1 | 892 |
 | 24 | Candice Dupree | 869 |
 | 25 | Alana Beard | 854 |
 | 26 | DeWanna Bonner | 836 |
