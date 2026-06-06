@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-06T04:04:00+00:00",
+    "text": "Jessica Shepard passed Satou Sabally for #145 all-time in rebounds (career 927) \u2014 up from #149 entering today \u2014 (1:33 - 4th \u2014 DAL @ LA)",
+    "kind": "rank_pass",
+    "player": "Jessica Shepard",
+    "stat": "rebounds",
+    "rank": 145,
+    "passed_players": [
+      "Satou Sabally"
+    ],
+    "new_total": 927
+  },
+  {
     "ts": "2026-06-06T04:03:00+00:00",
     "text": "Arike Ogunbowale passed Emma Meesseman for #126 all-time in fouls (career 586) \u2014 up from #127 entering today \u2014 (2:13 - 4th \u2014 DAL @ LA)",
     "kind": "rank_pass",
@@ -2972,17 +2984,5 @@
       "Swin Cash"
     ],
     "new_total": 177
-  },
-  {
-    "ts": "2026-05-30T01:04:00+00:00",
-    "text": "Nneka Ogwumike passed Lisa Leslie for #6 all-time in rebounds (career 3,304) \u2014 up from #7 entering today \u2014 (1:29 - 3rd \u2014 LA @ WSH)",
-    "kind": "rank_pass",
-    "player": "Nneka Ogwumike",
-    "stat": "rebounds",
-    "rank": 6,
-    "passed_players": [
-      "Lisa Leslie"
-    ],
-    "new_total": 3304
   }
 ]
