@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-06 19:39 UTC_
+_Last updated: 2026-06-06 19:40 UTC_
 
 ## Contents
 
@@ -1443,8 +1443,8 @@ _Last updated: 2026-06-06 19:39 UTC_
 | 192 | Isabelle Harrison | 300 |
 | 193 | Crystal Robinson | 299 |
 | 194 | Michele Timms | 297 |
+| 195 | **Kayla Thornton** 🔴 +1 | 295 |
 | 195 | Rachel Banham | 295 |
-| 196 | **Kayla Thornton** 🔴 | 294 |
 | 197 | Natisha Hiedeman | 293 |
 | 198 | Azurá Stevens | 292 |
 | 199 | Alexis Hornbuckle | 288 |
