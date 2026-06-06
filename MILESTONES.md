@@ -2,6 +2,11 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-06 02:57 UTC
+
+- **Jessica Shepard** passed **Janeth Arcain** for **#148** all-time in rebounds (career 917) — up from #149 entering today — _3.5 - 2nd — DAL @ LA_
+- **Emily Engstler** passed **Andrea Stinson** and **Crystal Langhorne** for **#106** all-time in blocks (career 118) — up from #108 entering today — _24.2 - 2nd — PHX @ POR_
+
 ## 2026-06-06 02:54 UTC
 
 - **Nneka Ogwumike** passed **Angel McCoughtry** for **#53** all-time in assists (career 916) — up from #55 entering today — _2:16 - 2nd — DAL @ LA_

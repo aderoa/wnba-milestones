@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-06 02:56 UTC_
+_Last updated: 2026-06-06 02:57 UTC_
 
 ## Contents
 
@@ -56,14 +56,14 @@ _Last updated: 2026-06-06 02:56 UTC_
 | 35 | Chamique Holdsclaw | 4,713 |
 | 36 | Elena Delle Donne | 4,706 |
 | 37 | Alyssa Thomas | 4,653 |
-| 38 | **Arike Ogunbowale** 🔴 +15 | 4,597 |
+| 38 | **Arike Ogunbowale** 🔴 +17 | 4,599 |
 | 39 | Penny Taylor | 4,595 |
 | 40 | Natasha Howard | 4,528 |
 | 41 | Chelsea Gray | 4,506 |
 | 42 | Kristi Toliver | 4,474 |
 | 43 | Crystal Langhorne | 4,433 |
 | 43 | Jia Perkins | 4,433 |
-| 45 | **Kelsey Plum** 🔴 +11 | 4,379 |
+| 45 | **Kelsey Plum** 🔴 +13 | 4,381 |
 | 46 | Courtney Vandersloot | 4,352 |
 | 47 | Allisha Gray | 4,339 |
 | 48 | Sophia Young-Malcolm | 4,300 |
@@ -371,8 +371,8 @@ _Last updated: 2026-06-06 02:56 UTC_
 | 145 | Satou Sabally | 926 |
 | 146 | Angel Reese | 923 |
 | 147 | Nicky Anosike | 922 |
-| 148 | Janeth Arcain | 916 |
-| 148 | **Jessica Shepard** 🔴 +4 | 916 |
+| 148 | **Jessica Shepard** 🔴 +5 | 917 |
+| 149 | Janeth Arcain | 916 |
 | 150 | Karima Christmas-Kelly | 908 |
 | 151 | Natalie Achonwa | 895 |
 | 152 | Temeka Johnson | 889 |
@@ -412,7 +412,7 @@ _Last updated: 2026-06-06 02:56 UTC_
 | 186 | Layshia Clarendon | 756 |
 | 187 | Brooke Wyckoff | 751 |
 | 188 | Coco Miller | 750 |
-| 189 | **Arike Ogunbowale** 🔴 +3 | 745 |
+| 189 | **Arike Ogunbowale** 🔴 +4 | 746 |
 | 190 | Alex Montgomery | 735 |
 | 191 | Ashley Robinson | 734 |
 | 192 | Shenise Johnson | 729 |
@@ -738,11 +738,11 @@ _Last updated: 2026-06-06 02:56 UTC_
 | 102 | Natalie Williams | 122 |
 | 103 | Ebony Hoffman | 121 |
 | 103 | Essence Carson | 121 |
+| 105 | **Emily Engstler** 🔴 +1 | 118 |
 | 105 | Krystal Thomas | 118 |
-| 106 | Andrea Stinson | 117 |
-| 106 | Crystal Langhorne | 117 |
-| 106 | **Emily Engstler** 🔴 | 117 |
-| 106 | **Natasha Mack** 🔴 +1 | 117 |
+| 107 | Andrea Stinson | 117 |
+| 107 | Crystal Langhorne | 117 |
+| 107 | **Natasha Mack** 🔴 +1 | 117 |
 | 110 | Monique Currie | 114 |
 | 111 | **Ariel Atkins** 🔴 | 113 |
 | 112 | Amanda Lassiter | 111 |
