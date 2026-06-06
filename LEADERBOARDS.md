@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-06 02:29 UTC_
+_Last updated: 2026-06-06 02:30 UTC_
 
 ## Contents
 
@@ -742,7 +742,7 @@ _Last updated: 2026-06-06 02:29 UTC_
 | 106 | Andrea Stinson | 117 |
 | 106 | Crystal Langhorne | 117 |
 | 106 | **Emily Engstler** 🔴 | 117 |
-| 109 | **Natasha Mack** 🔴 | 116 |
+| 106 | **Natasha Mack** 🔴 +1 | 117 |
 | 110 | Monique Currie | 114 |
 | 111 | **Ariel Atkins** 🔴 | 113 |
 | 112 | Amanda Lassiter | 111 |
