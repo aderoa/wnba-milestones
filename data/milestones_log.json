@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-06T02:07:00+00:00",
+    "text": "Arike Ogunbowale passed Nneka Ogwumike for #55 all-time in assists (career 913) \u2014 (9:21 - 1st \u2014 DAL @ LA)",
+    "kind": "rank_pass",
+    "player": "Arike Ogunbowale",
+    "stat": "assists",
+    "rank": 55,
+    "passed_players": [
+      "Nneka Ogwumike"
+    ],
+    "new_total": 913
+  },
+  {
     "ts": "2026-06-06T01:40:00+00:00",
     "text": "Elizabeth Williams passed Natalie Williams for #100 all-time in points (career 2,896) \u2014 up from #102 entering today \u2014 (14.5 - 4th \u2014 CON @ CHI)",
     "kind": "rank_pass",
@@ -2979,17 +2991,5 @@
       "Nneka Ogwumike"
     ],
     "new_total": 239
-  },
-  {
-    "ts": "2026-05-28T00:28:00+00:00",
-    "text": "Marine Johann\u00e8s passed Natasha Howard for #139 all-time in three-pointers (career 158) \u2014 up from #143 entering today \u2014 (4:34 - 3rd \u2014 PHX @ NY)",
-    "kind": "rank_pass",
-    "player": "Marine Johann\u00e8s",
-    "stat": "three-pointers",
-    "rank": 139,
-    "passed_players": [
-      "Natasha Howard"
-    ],
-    "new_total": 158
   }
 ]
