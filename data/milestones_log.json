@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-06T01:19:00+00:00",
+    "text": "Kamilla Cardoso passed Shakira Austin for #116 all-time in blocks (career 111) \u2014 up from #117 entering today \u2014 (6:47 - 4th \u2014 CON @ CHI)",
+    "kind": "rank_pass",
+    "player": "Kamilla Cardoso",
+    "stat": "blocks",
+    "rank": 116,
+    "passed_players": [
+      "Shakira Austin"
+    ],
+    "new_total": 111
+  },
+  {
     "ts": "2026-06-06T01:18:00+00:00",
     "text": "Azur\u00e1 Stevens passed Brianna Turner for #42 all-time in blocks (career 234) \u2014 (7:37 - 4th \u2014 CON @ CHI)",
     "kind": "rank_pass",
@@ -2982,18 +2994,5 @@
       "Stephanie White"
     ],
     "new_total": 116
-  },
-  {
-    "ts": "2026-05-26T03:32:00+00:00",
-    "text": "Rickea Jackson passed Gordana Grubin and Sandy Brondello for #183 all-time in three-pointers (career 115) \u2014 up from #184 entering today \u2014 (2:35 - 3rd \u2014 CON @ GS)",
-    "kind": "rank_pass",
-    "player": "Rickea Jackson",
-    "stat": "three-pointers",
-    "rank": 183,
-    "passed_players": [
-      "Gordana Grubin",
-      "Sandy Brondello"
-    ],
-    "new_total": 115
   }
 ]
