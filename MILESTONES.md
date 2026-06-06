@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-06 22:08 UTC
+
+- **Rhyne Howard** passed **Brittany Boyd-Jones**, **Chasity Melvin**, and **Rachel Banham** for **#125** all-time in assists (career 509) — up from #128 entering today — _6:44 - 1st — WSH @ ATL_
+
 ## 2026-06-06 21:09 UTC
 
 - **Jackie Young** passed **Damiris Dantas** for **#149** all-time in fouls (career 528) — up from #152 entering today — _9.9 - 4th — GS @ LV_

@@ -1,5 +1,19 @@
 [
   {
+    "ts": "2026-06-06T22:08:00+00:00",
+    "text": "Rhyne Howard passed Brittany Boyd-Jones, Chasity Melvin, and Rachel Banham for #125 all-time in assists (career 509) \u2014 up from #128 entering today \u2014 (6:44 - 1st \u2014 WSH @ ATL)",
+    "kind": "rank_pass",
+    "player": "Rhyne Howard",
+    "stat": "assists",
+    "rank": 125,
+    "passed_players": [
+      "Brittany Boyd-Jones",
+      "Chasity Melvin",
+      "Rachel Banham"
+    ],
+    "new_total": 509
+  },
+  {
     "ts": "2026-06-06T21:09:00+00:00",
     "text": "Jackie Young passed Damiris Dantas for #149 all-time in fouls (career 528) \u2014 up from #152 entering today \u2014 (9.9 - 4th \u2014 GS @ LV)",
     "kind": "rank_pass",
@@ -2965,17 +2979,5 @@
       "Barbara Farris"
     ],
     "new_total": 820
-  },
-  {
-    "ts": "2026-06-04T23:39:00+00:00",
-    "text": "Kelsey Mitchell passed Maya Moore for #30 all-time in points (career 4,985) \u2014 up from #31 entering today \u2014 (5:07 - 2nd \u2014 ATL @ IND)",
-    "kind": "rank_pass",
-    "player": "Kelsey Mitchell",
-    "stat": "points",
-    "rank": 30,
-    "passed_players": [
-      "Maya Moore"
-    ],
-    "new_total": 4985
   }
 ]
