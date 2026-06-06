@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-06 17:07 UTC
+
+- **Stefanie Dolson** reached **3,200** career points (now 3,201) — _7:27 - 1st — SEA @ MIN_
+
 ## 2026-06-06 12:04 UTC
 
 - **Brittney Griner** passed **Breanna Stewart** for **#17** all-time in rebounds (career 2,564) — up from #18 entering today — _Final — CON @ CHI_

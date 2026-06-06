@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-06 17:06 UTC_
+_Last updated: 2026-06-06 17:07 UTC_
 
 ## Contents
 
@@ -105,7 +105,7 @@ _Last updated: 2026-06-06 17:06 UTC_
 | 84 | Andrea Stinson | 3,351 |
 | 85 | Tanisha Wright | 3,324 |
 | 86 | Margo Dydek | 3,214 |
-| 87 | **Stefanie Dolson** 🔴 +3 | 3,198 |
+| 87 | **Stefanie Dolson** 🔴 +6 | 3,201 |
 | 88 | Danielle Robinson | 3,160 |
 | 89 | Erica Wheeler | 3,144 |
 | 90 | Wendy Palmer | 3,135 |
@@ -525,7 +525,7 @@ _Last updated: 2026-06-06 17:06 UTC_
 | 93 | Asjha Jones | 637 |
 | 95 | Jennifer Azzi | 636 |
 | 96 | Jonquel Jones | 625 |
-| 97 | **Natisha Hiedeman** 🔴 | 624 |
+| 96 | **Natisha Hiedeman** 🔴 +1 | 625 |
 | 98 | Sami Whitcomb | 623 |
 | 99 | Alysha Clark | 616 |
 | 100 | Debbie Black | 612 |
@@ -1125,7 +1125,7 @@ _Last updated: 2026-06-06 17:06 UTC_
 | 79 | Bridget Carleton | 287 |
 | 80 | Monique Currie | 284 |
 | 81 | Iziane Castro Marques | 275 |
-| 82 | **Stefanie Dolson** 🔴 +1 | 274 |
+| 81 | **Stefanie Dolson** 🔴 +2 | 275 |
 | 83 | Sheryl Swoopes | 270 |
 | 84 | **Courtney Williams** 🔴 | 269 |
 | 85 | Sophia Witherspoon | 260 |
@@ -1326,7 +1326,7 @@ _Last updated: 2026-06-06 17:06 UTC_
 | 75 | Lindsey Harding | 600 |
 | 75 | Tamika Whitmore | 600 |
 | 77 | Kelly Miller | 596 |
-| 78 | **Stefanie Dolson** 🔴 | 589 |
+| 78 | **Stefanie Dolson** 🔴 +1 | 590 |
 | 79 | Brittney Sykes | 579 |
 | 80 | Helen Darling | 575 |
 | 80 | Nykesha Sales | 575 |

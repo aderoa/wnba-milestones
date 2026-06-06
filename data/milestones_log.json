@@ -1,5 +1,14 @@
 [
   {
+    "ts": "2026-06-06T17:07:00+00:00",
+    "text": "Stefanie Dolson reached 3,200 career points (now 3,201) \u2014 (7:27 - 1st \u2014 SEA @ MIN)",
+    "kind": "round",
+    "player": "Stefanie Dolson",
+    "stat": "points",
+    "value": 3200,
+    "new_total": 3201
+  },
+  {
     "ts": "2026-06-06T12:04:00+00:00",
     "text": "Brittney Griner passed Breanna Stewart for #17 all-time in rebounds (career 2,564) \u2014 up from #18 entering today \u2014 (Final \u2014 CON @ CHI)",
     "kind": "rank_pass",
@@ -2954,18 +2963,6 @@
     "player": "Julie Allemand",
     "stat": "assists",
     "value": 400,
-    "new_total": 400
-  },
-  {
-    "ts": "2026-06-04T00:21:00+00:00",
-    "text": "Julie Allemand passed Marissa Coleman for #168 all-time in assists (career 400) \u2014 (Halftime \u2014 TOR @ NY)",
-    "kind": "rank_pass",
-    "player": "Julie Allemand",
-    "stat": "assists",
-    "rank": 168,
-    "passed_players": [
-      "Marissa Coleman"
-    ],
     "new_total": 400
   }
 ]
