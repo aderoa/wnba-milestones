@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-06 03:21 UTC_
+_Last updated: 2026-06-06 03:22 UTC_
 
 ## Contents
 
@@ -70,7 +70,7 @@ _Last updated: 2026-06-06 03:21 UTC_
 | 49 | Kahleah Copper | 4,283 |
 | 50 | Plenette Pierson | 4,258 |
 | 51 | Monique Currie | 4,253 |
-| 52 | **Dearica Hamby** 🔴 +13 | 4,241 |
+| 52 | **Dearica Hamby** 🔴 +15 | 4,243 |
 | 53 | Courtney Williams | 4,238 |
 | 54 | Vickie Johnson | 4,230 |
 | 55 | Yolanda Griffith | 4,224 |
@@ -600,7 +600,7 @@ _Last updated: 2026-06-06 03:21 UTC_
 | 169 | Aliyah Boston | 398 |
 | 170 | Stacey Dales | 395 |
 | 171 | Sugar Rodgers | 393 |
-| 172 | **Jessica Shepard** 🔴 +1 | 391 |
+| 172 | **Jessica Shepard** 🔴 +2 | 392 |
 | 173 | Shameka Christon | 389 |
 | 173 | Tamicha Jackson | 389 |
 | 175 | Riquna Williams | 387 |
@@ -1314,9 +1314,9 @@ _Last updated: 2026-06-06 03:21 UTC_
 | 63 | Dawn Staley | 643 |
 | 64 | Ruth Riley | 637 |
 | 65 | Kayla McBride | 636 |
-| 66 | **Kelsey Plum** 🔴 | 631 |
-| 66 | **Odyssey Sims** 🔴 +1 | 631 |
-| 66 | Svetlana Abrosimova | 631 |
+| 66 | **Kelsey Plum** 🔴 +1 | 632 |
+| 67 | **Odyssey Sims** 🔴 +1 | 631 |
+| 67 | Svetlana Abrosimova | 631 |
 | 69 | Jonquel Jones | 627 |
 | 70 | Rebekkah Brunson | 615 |
 | 71 | Seimone Augustus | 613 |
@@ -1548,8 +1548,8 @@ _Last updated: 2026-06-06 03:21 UTC_
 | 92 | Leilani Mitchell | 684 |
 | 93 | Crystal Robinson | 682 |
 | 94 | Jennifer Lacy | 680 |
+| 94 | **Kelsey Plum** 🔴 +2 | 680 |
 | 94 | Temeka Johnson | 680 |
-| 96 | **Kelsey Plum** 🔴 +1 | 679 |
 | 97 | Kelly Miller | 676 |
 | 98 | Cheyenne Parker-Tyus | 674 |
 | 99 | Chamique Holdsclaw | 667 |

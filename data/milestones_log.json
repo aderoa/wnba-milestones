@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-06T03:22:00+00:00",
+    "text": "Kelsey Plum passed Svetlana Abrosimova for #67 all-time in turnovers (career 632) \u2014 (4:06 - 3rd \u2014 DAL @ LA)",
+    "kind": "rank_pass",
+    "player": "Kelsey Plum",
+    "stat": "turnovers",
+    "rank": 67,
+    "passed_players": [
+      "Svetlana Abrosimova"
+    ],
+    "new_total": 632
+  },
+  {
     "ts": "2026-06-06T03:21:00+00:00",
     "text": "Kelsey Plum passed Sami Whitcomb and Shekinna Stricklen for #194 all-time in rebounds (career 727) \u2014 (4:29 - 3rd \u2014 DAL @ LA)",
     "kind": "rank_pass",
@@ -2976,17 +2988,5 @@
       "Sancho Lyttle"
     ],
     "new_total": 3479
-  },
-  {
-    "ts": "2026-05-29T00:50:00+00:00",
-    "text": "Jackie Young passed Marissa Coleman for #63 all-time in three-pointers (career 316) \u2014 (3:40 - 2nd \u2014 LV @ DAL)",
-    "kind": "rank_pass",
-    "player": "Jackie Young",
-    "stat": "three-pointers",
-    "rank": 63,
-    "passed_players": [
-      "Marissa Coleman"
-    ],
-    "new_total": 316
   }
 ]
