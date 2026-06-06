@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-06 03:43 UTC_
+_Last updated: 2026-06-06 03:44 UTC_
 
 ## Contents
 
@@ -63,7 +63,7 @@ _Last updated: 2026-06-06 03:43 UTC_
 | 42 | Kristi Toliver | 4,474 |
 | 43 | Crystal Langhorne | 4,433 |
 | 43 | Jia Perkins | 4,433 |
-| 45 | **Kelsey Plum** 🔴 +17 | 4,385 |
+| 45 | **Kelsey Plum** 🔴 +19 | 4,387 |
 | 46 | Courtney Vandersloot | 4,352 |
 | 47 | Allisha Gray | 4,339 |
 | 48 | Sophia Young-Malcolm | 4,300 |
@@ -1274,7 +1274,7 @@ _Last updated: 2026-06-06 03:43 UTC_
 | 23 | Skylar Diggins | 893 |
 | 24 | Candice Dupree | 869 |
 | 25 | Alana Beard | 854 |
-| 26 | **DeWanna Bonner** 🔴 +2 | 838 |
+| 26 | **DeWanna Bonner** 🔴 +1 | 837 |
 | 27 | Katie Douglas | 824 |
 | 28 | Natasha Howard | 821 |
 | 29 | Betty Lennox | 800 |
@@ -1579,8 +1579,8 @@ _Last updated: 2026-06-06 03:43 UTC_
 | 123 | Janel McCarville | 597 |
 | 124 | Kamila Vodichkova | 596 |
 | 125 | Teresa Weatherspoon | 589 |
+| 126 | **Arike Ogunbowale** 🔴 +2 | 585 |
 | 126 | Emma Meesseman | 585 |
-| 127 | **Arike Ogunbowale** 🔴 +1 | 584 |
 | 128 | Chiney Ogwumike | 580 |
 | 128 | Hamchetou Maiga-Ba | 580 |
 | 128 | Olympia Scott | 580 |
