@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-06 00:55 UTC
+
+- **Natasha Cloud** passed **Vickie Johnson** for **#69** all-time in fouls (career 753) — _5:36 - 3rd — CON @ CHI_
+
 ## 2026-06-06 00:22 UTC
 
 - **Rachel Banham** passed **Charde Houston** for **#179** all-time in fouls (career 488) — up from #181 entering today — _36.1 - 2nd — CON @ CHI_

@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-06T00:55:00+00:00",
+    "text": "Natasha Cloud passed Vickie Johnson for #69 all-time in fouls (career 753) \u2014 (5:36 - 3rd \u2014 CON @ CHI)",
+    "kind": "rank_pass",
+    "player": "Natasha Cloud",
+    "stat": "fouls",
+    "rank": 69,
+    "passed_players": [
+      "Vickie Johnson"
+    ],
+    "new_total": 753
+  },
+  {
     "ts": "2026-06-06T00:22:00+00:00",
     "text": "Rachel Banham passed Charde Houston for #179 all-time in fouls (career 488) \u2014 up from #181 entering today \u2014 (36.1 - 2nd \u2014 CON @ CHI)",
     "kind": "rank_pass",
@@ -2980,18 +2992,5 @@
     "stat": "points",
     "value": 6100,
     "new_total": 6100
-  },
-  {
-    "ts": "2026-05-26T02:11:00+00:00",
-    "text": "Rebecca Allen passed Erin Phillips and Sabrina Ionescu for #184 all-time in steals (career 183) \u2014 up from #185 entering today \u2014 (57.1 - 4th \u2014 POR @ NY)",
-    "kind": "rank_pass",
-    "player": "Rebecca Allen",
-    "stat": "steals",
-    "rank": 184,
-    "passed_players": [
-      "Erin Phillips",
-      "Sabrina Ionescu"
-    ],
-    "new_total": 183
   }
 ]
