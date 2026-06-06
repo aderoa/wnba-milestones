@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-06T20:31:00+00:00",
+    "text": "Jewell Loyd passed Kayla Thornton for #103 all-time in fouls (career 662) \u2014 (2:21 - 3rd \u2014 GS @ LV)",
+    "kind": "rank_pass",
+    "player": "Jewell Loyd",
+    "stat": "fouls",
+    "rank": 103,
+    "passed_players": [
+      "Kayla Thornton"
+    ],
+    "new_total": 662
+  },
+  {
     "ts": "2026-06-06T20:25:00+00:00",
     "text": "Jackie Young passed Renee Montgomery for #71 all-time in points (career 3,535) \u2014 up from #72 entering today \u2014 (4:02 - 3rd \u2014 GS @ LV)",
     "kind": "rank_pass",
@@ -2966,17 +2978,5 @@
       "Marina Mabrey"
     ],
     "new_total": 510
-  },
-  {
-    "ts": "2026-06-04T23:19:00+00:00",
-    "text": "Aliyah Boston passed Ebony Hoffman for #174 all-time in points (career 1,912) \u2014 (2:54 - 1st \u2014 ATL @ IND)",
-    "kind": "rank_pass",
-    "player": "Aliyah Boston",
-    "stat": "points",
-    "rank": 174,
-    "passed_players": [
-      "Ebony Hoffman"
-    ],
-    "new_total": 1912
   }
 ]
