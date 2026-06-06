@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-06T19:25:00+00:00",
+    "text": "Jewell Loyd passed Emma Meesseman for #80 all-time in rebounds (career 1,351) \u2014 up from #81 entering today \u2014 (End of 1st \u2014 GS @ LV)",
+    "kind": "rank_pass",
+    "player": "Jewell Loyd",
+    "stat": "rebounds",
+    "rank": 80,
+    "passed_players": [
+      "Emma Meesseman"
+    ],
+    "new_total": 1351
+  },
+  {
     "ts": "2026-06-06T19:19:00+00:00",
     "text": "A'ja Wilson passed Allisha Gray for #121 all-time in turnovers (career 467) \u2014 (2:53 - 1st \u2014 GS @ LV)",
     "kind": "rank_pass",
@@ -2964,14 +2976,5 @@
       "Alanna Smith"
     ],
     "new_total": 191
-  },
-  {
-    "ts": "2026-06-04T02:09:00+00:00",
-    "text": "Alyssa Thomas reached 1,900 career assists (now 1,900) \u2014 (5:51 - 1st \u2014 PHX @ SEA)",
-    "kind": "round",
-    "player": "Alyssa Thomas",
-    "stat": "assists",
-    "value": 1900,
-    "new_total": 1900
   }
 ]

@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-06 19:25 UTC
+
+- **Jewell Loyd** passed **Emma Meesseman** for **#80** all-time in rebounds (career 1,351) — up from #81 entering today — _End of 1st — GS @ LV_
+
 ## 2026-06-06 19:19 UTC
 
 - **A'ja Wilson** passed **Allisha Gray** for **#121** all-time in turnovers (career 467) — _2:53 - 1st — GS @ LV_
