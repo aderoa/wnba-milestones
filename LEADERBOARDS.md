@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-06 19:10 UTC_
+_Last updated: 2026-06-06 19:11 UTC_
 
 ## Contents
 
@@ -33,7 +33,7 @@ _Last updated: 2026-06-06 19:10 UTC_
 | 12 | Sylvia Fowles | 6,413 |
 | 13 | Lisa Leslie | 6,251 |
 | 14 | Breanna Stewart | 6,173 |
-| 15 | Jewell Loyd | 6,078 |
+| 15 | **Jewell Loyd** 🔴 | 6,078 |
 | 16 | Brittney Griner | 6,031 |
 | 17 | Lauren Jackson | 6,005 |
 | 17 | Seimone Augustus | 6,005 |
@@ -208,7 +208,7 @@ _Last updated: 2026-06-06 19:10 UTC_
 | 187 | Sandy Brondello | 1,759 |
 | 188 | Sophie Cunningham | 1,752 |
 | 189 | Sugar Rodgers | 1,733 |
-| 190 | **Gabby Williams** 🔴 +2 | 1,725 |
+| 190 | **Gabby Williams** 🔴 +5 | 1,728 |
 | 191 | Moriah Jefferson | 1,722 |
 | 192 | Armintie Herrington | 1,696 |
 | 193 | Nikki Teasley | 1,690 |
@@ -300,11 +300,11 @@ _Last updated: 2026-06-06 19:10 UTC_
 | 74 | Courtney Vandersloot | 1,383 |
 | 74 | Katie Smith | 1,383 |
 | 76 | Ebony Hoffman | 1,376 |
-| 77 | **Kayla Thornton** 🔴 | 1,360 |
+| 77 | **Kayla Thornton** 🔴 +2 | 1,362 |
 | 78 | Sheri Sam | 1,356 |
 | 79 | Tamika Whitmore | 1,355 |
 | 80 | Emma Meesseman | 1,350 |
-| 81 | Jewell Loyd | 1,349 |
+| 81 | **Jewell Loyd** 🔴 | 1,349 |
 | 82 | Elena Baranova | 1,335 |
 | 83 | Brionna Jones | 1,333 |
 | 84 | Erlana Larkins | 1,329 |
@@ -460,7 +460,7 @@ _Last updated: 2026-06-06 19:10 UTC_
 | 29 | Jordin Canada | 1,201 |
 | 30 | Leilani Mitchell | 1,197 |
 | 31 | DeWanna Bonner | 1,192 |
-| 32 | Jewell Loyd | 1,144 |
+| 32 | **Jewell Loyd** 🔴 | 1,144 |
 | 33 | Renee Montgomery | 1,140 |
 | 34 | Swin Cash | 1,131 |
 | 35 | Lindsey Harding | 1,090 |
@@ -547,7 +547,7 @@ _Last updated: 2026-06-06 19:10 UTC_
 | 116 | Janel McCarville | 551 |
 | 116 | Svetlana Abrosimova | 551 |
 | 118 | Michele Timms | 549 |
-| 119 | **Veronica Burton** 🔴 | 537 |
+| 119 | **Veronica Burton** 🔴 +1 | 538 |
 | 120 | Marie Ferdinand-Harris | 528 |
 | 121 | Margo Dydek | 524 |
 | 122 | Myisha Hines-Allen | 520 |
@@ -772,7 +772,7 @@ _Last updated: 2026-06-06 19:10 UTC_
 | 135 | Tiffani Johnson | 96 |
 | 137 | Imani McGee-Stafford | 95 |
 | 137 | Isabelle Harrison | 95 |
-| 139 | Jewell Loyd | 94 |
+| 139 | **Jewell Loyd** 🔴 | 94 |
 | 139 | **NaLyssa Smith** 🔴 | 94 |
 | 139 | Sandrine Gruda | 94 |
 | 142 | Jasmine Thomas | 91 |
@@ -874,7 +874,7 @@ _Last updated: 2026-06-06 19:10 UTC_
 | 33 | Natasha Howard | 450 |
 | 34 | Maya Moore | 449 |
 | 35 | **Chelsea Gray** 🔴 +1 | 446 |
-| 36 | Jewell Loyd | 445 |
+| 36 | **Jewell Loyd** 🔴 | 445 |
 | 37 | Sheri Sam | 438 |
 | 38 | Camille Smith | 437 |
 | 38 | Kayla McBride | 437 |
@@ -1052,7 +1052,7 @@ _Last updated: 2026-06-06 19:10 UTC_
 | 6 | Kayla McBride | 739 |
 | 7 | Katie Douglas | 723 |
 | 8 | Kelsey Mitchell | 687 |
-| 9 | Jewell Loyd | 678 |
+| 9 | **Jewell Loyd** 🔴 | 678 |
 | 10 | DeWanna Bonner | 672 |
 | 11 | Kristi Toliver | 651 |
 | 12 | Kelsey Plum | 609 |
@@ -1201,10 +1201,10 @@ _Last updated: 2026-06-06 19:10 UTC_
 | 155 | Jordan Hooper | 141 |
 | 155 | Michaela Onyenwere | 141 |
 | 157 | Coco Miller | 139 |
+| 158 | **Gabby Williams** 🔴 +1 | 138 |
 | 158 | Loree Moore | 138 |
 | 158 | Tanisha Wright | 138 |
-| 160 | **Gabby Williams** 🔴 | 137 |
-| 160 | Kaleena Mosqueda-Lewis | 137 |
+| 161 | Kaleena Mosqueda-Lewis | 137 |
 | 162 | Karlie Samuelson | 135 |
 | 163 | Shay Murphy | 134 |
 | 164 | Brooke Wyckoff | 132 |
@@ -1281,7 +1281,7 @@ _Last updated: 2026-06-06 19:10 UTC_
 | 30 | Jasmine Thomas | 796 |
 | 31 | Nneka Ogwumike | 795 |
 | 32 | Chamique Holdsclaw | 789 |
-| 33 | Jewell Loyd | 786 |
+| 33 | **Jewell Loyd** 🔴 | 786 |
 | 34 | Crystal Langhorne | 782 |
 | 35 | Camille Smith | 779 |
 | 36 | Plenette Pierson | 773 |
@@ -1555,7 +1555,7 @@ _Last updated: 2026-06-06 19:10 UTC_
 | 99 | Chamique Holdsclaw | 667 |
 | 100 | Breanna Stewart | 665 |
 | 101 | Tianna Hawkins | 662 |
-| 102 | Jewell Loyd | 661 |
+| 102 | **Jewell Loyd** 🔴 | 661 |
 | 102 | **Kayla Thornton** 🔴 | 661 |
 | 104 | Tari Phillips | 648 |
 | 105 | Marie Ferdinand-Harris | 646 |
