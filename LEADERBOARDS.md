@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-06 03:20 UTC_
+_Last updated: 2026-06-06 03:21 UTC_
 
 ## Contents
 
@@ -56,7 +56,7 @@ _Last updated: 2026-06-06 03:20 UTC_
 | 35 | Chamique Holdsclaw | 4,713 |
 | 36 | Elena Delle Donne | 4,706 |
 | 37 | Alyssa Thomas | 4,653 |
-| 38 | **Arike Ogunbowale** 🔴 +21 | 4,603 |
+| 38 | **Arike Ogunbowale** 🔴 +24 | 4,606 |
 | 39 | Penny Taylor | 4,595 |
 | 40 | Natasha Howard | 4,528 |
 | 41 | Chelsea Gray | 4,506 |
@@ -371,7 +371,7 @@ _Last updated: 2026-06-06 03:20 UTC_
 | 145 | Satou Sabally | 926 |
 | 146 | Angel Reese | 923 |
 | 147 | Nicky Anosike | 922 |
-| 148 | **Jessica Shepard** 🔴 +8 | 920 |
+| 148 | **Jessica Shepard** 🔴 +9 | 921 |
 | 149 | Janeth Arcain | 916 |
 | 150 | Karima Christmas-Kelly | 908 |
 | 151 | Natalie Achonwa | 895 |
@@ -416,9 +416,9 @@ _Last updated: 2026-06-06 03:20 UTC_
 | 190 | Alex Montgomery | 735 |
 | 191 | Ashley Robinson | 734 |
 | 192 | Shenise Johnson | 729 |
-| 193 | **Kelsey Plum** 🔴 | 726 |
-| 193 | Sami Whitcomb | 726 |
-| 193 | Shekinna Stricklen | 726 |
+| 193 | **Kelsey Plum** 🔴 +1 | 727 |
+| 194 | Sami Whitcomb | 726 |
+| 194 | Shekinna Stricklen | 726 |
 | 196 | Olympia Scott | 711 |
 | 197 | Katie Mattera | 708 |
 | 198 | Rushia Brown | 706 |
@@ -482,7 +482,7 @@ _Last updated: 2026-06-06 03:20 UTC_
 | 51 | Kelly Miller | 927 |
 | 52 | DeLisha Milton-Jones | 921 |
 | 53 | **Arike Ogunbowale** 🔴 +6 | 918 |
-| 54 | **Nneka Ogwumike** 🔴 +4 | 916 |
+| 54 | **Nneka Ogwumike** 🔴 +5 | 917 |
 | 55 | Angel McCoughtry | 915 |
 | 56 | Layshia Clarendon | 911 |
 | 56 | Seimone Augustus | 911 |
@@ -600,7 +600,7 @@ _Last updated: 2026-06-06 03:20 UTC_
 | 169 | Aliyah Boston | 398 |
 | 170 | Stacey Dales | 395 |
 | 171 | Sugar Rodgers | 393 |
-| 172 | **Jessica Shepard** 🔴 | 390 |
+| 172 | **Jessica Shepard** 🔴 +1 | 391 |
 | 173 | Shameka Christon | 389 |
 | 173 | Tamicha Jackson | 389 |
 | 175 | Riquna Williams | 387 |
@@ -656,7 +656,7 @@ _Last updated: 2026-06-06 03:20 UTC_
 | 20 | Jessica Breland | 367 |
 | 21 | Natasha Howard | 363 |
 | 22 | Ezi Magbegor | 354 |
-| 23 | **DeWanna Bonner** 🔴 +1 | 351 |
+| 23 | **DeWanna Bonner** 🔴 +2 | 352 |
 | 24 | Diana Taurasi | 349 |
 | 24 | Elena Delle Donne | 349 |
 | 26 | DeLisha Milton-Jones | 339 |
@@ -678,7 +678,7 @@ _Last updated: 2026-06-06 03:20 UTC_
 | 41 | Brianna Turner | 233 |
 | 43 | Skylar Diggins | 229 |
 | 44 | Chasity Melvin | 228 |
-| 45 | **Alanna Smith** 🔴 | 223 |
+| 45 | **Alanna Smith** 🔴 +1 | 224 |
 | 46 | Teaira McCowan | 222 |
 | 47 | Sancho Lyttle | 221 |
 | 48 | Alana Beard | 220 |
@@ -1059,7 +1059,7 @@ _Last updated: 2026-06-06 03:20 UTC_
 | 13 | Tamika Catchings | 605 |
 | 14 | Kara Lawson | 583 |
 | 15 | Nicole Powell | 579 |
-| 16 | **Arike Ogunbowale** 🔴 +4 | 564 |
+| 16 | **Arike Ogunbowale** 🔴 +5 | 565 |
 | 17 | Ivory Latta | 536 |
 | 18 | Renee Montgomery | 532 |
 | 19 | Maya Moore | 530 |
@@ -1205,8 +1205,8 @@ _Last updated: 2026-06-06 03:20 UTC_
 | 158 | Tanisha Wright | 138 |
 | 160 | Gabby Williams | 137 |
 | 160 | Kaleena Mosqueda-Lewis | 137 |
+| 162 | **Karlie Samuelson** 🔴 +3 | 134 |
 | 162 | Shay Murphy | 134 |
-| 163 | **Karlie Samuelson** 🔴 +2 | 133 |
 | 164 | Brooke Wyckoff | 132 |
 | 164 | Jenna O'Hea | 132 |
 | 166 | Amanda Zahui B | 130 |

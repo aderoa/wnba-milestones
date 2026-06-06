@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-06 03:21 UTC
+
+- **Kelsey Plum** passed **Sami Whitcomb** and **Shekinna Stricklen** for **#194** all-time in rebounds (career 727) — _4:29 - 3rd — DAL @ LA_
+
 ## 2026-06-06 03:20 UTC
 
 - **Alanna Smith** passed **Krystal Thomas** for **#157** all-time in rebounds (career 863) — _5:16 - 3rd — DAL @ LA_

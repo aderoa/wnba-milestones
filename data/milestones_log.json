@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-06-06T03:21:00+00:00",
+    "text": "Kelsey Plum passed Sami Whitcomb and Shekinna Stricklen for #194 all-time in rebounds (career 727) \u2014 (4:29 - 3rd \u2014 DAL @ LA)",
+    "kind": "rank_pass",
+    "player": "Kelsey Plum",
+    "stat": "rebounds",
+    "rank": 194,
+    "passed_players": [
+      "Sami Whitcomb",
+      "Shekinna Stricklen"
+    ],
+    "new_total": 727
+  },
+  {
     "ts": "2026-06-06T03:20:00+00:00",
     "text": "Alanna Smith passed Krystal Thomas for #157 all-time in rebounds (career 863) \u2014 (5:16 - 3rd \u2014 DAL @ LA)",
     "kind": "rank_pass",
@@ -2975,17 +2988,5 @@
       "Marissa Coleman"
     ],
     "new_total": 316
-  },
-  {
-    "ts": "2026-05-29T00:30:00+00:00",
-    "text": "Cheyenne Parker-Tyus passed Chamique Holdsclaw for #98 all-time in fouls (career 668) \u2014 up from #99 entering today \u2014 (4.9 - 1st \u2014 LV @ DAL)",
-    "kind": "rank_pass",
-    "player": "Cheyenne Parker-Tyus",
-    "stat": "fouls",
-    "rank": 98,
-    "passed_players": [
-      "Chamique Holdsclaw"
-    ],
-    "new_total": 668
   }
 ]
