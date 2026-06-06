@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-06-06T22:21:00+00:00",
+    "text": "Angel Reese passed Jessica Shepard and Merlakia Jones for #144 all-time in rebounds (career 928) \u2014 up from #147 entering today \u2014 (1:35 - 1st \u2014 WSH @ ATL)",
+    "kind": "rank_pass",
+    "player": "Angel Reese",
+    "stat": "rebounds",
+    "rank": 144,
+    "passed_players": [
+      "Jessica Shepard",
+      "Merlakia Jones"
+    ],
+    "new_total": 928
+  },
+  {
     "ts": "2026-06-06T22:18:00+00:00",
     "text": "Rhyne Howard passed Tiffany Mitchell for #125 all-time in points (career 2,481) \u2014 up from #126 entering today \u2014 (3:16 - 1st \u2014 WSH @ ATL)",
     "kind": "rank_pass",
@@ -2966,17 +2979,5 @@
       "Nakia Sanford"
     ],
     "new_total": 1917
-  },
-  {
-    "ts": "2026-06-04T23:43:00+00:00",
-    "text": "Myisha Hines-Allen passed Michele Timms for #179 all-time in steals (career 188) \u2014 up from #180 entering today \u2014 (4:25 - 2nd \u2014 ATL @ IND)",
-    "kind": "rank_pass",
-    "player": "Myisha Hines-Allen",
-    "stat": "steals",
-    "rank": 179,
-    "passed_players": [
-      "Michele Timms"
-    ],
-    "new_total": 188
   }
 ]

@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-06 22:21 UTC
+
+- **Angel Reese** passed **Jessica Shepard** and **Merlakia Jones** for **#144** all-time in rebounds (career 928) — up from #147 entering today — _1:35 - 1st — WSH @ ATL_
+
 ## 2026-06-06 22:18 UTC
 
 - **Rhyne Howard** passed **Tiffany Mitchell** for **#125** all-time in points (career 2,481) — up from #126 entering today — _3:16 - 1st — WSH @ ATL_
