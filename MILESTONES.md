@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-06 20:25 UTC
+
+- **Jackie Young** passed **Renee Montgomery** for **#71** all-time in points (career 3,535) — up from #72 entering today — _4:02 - 3rd — GS @ LV_
+
 ## 2026-06-06 20:11 UTC
 
 - **Stephanie Talbot** passed **Alanna Smith** for **#141** all-time in three-pointers (career 155) — up from #144 entering today — _7:17 - 3rd — GS @ LV_

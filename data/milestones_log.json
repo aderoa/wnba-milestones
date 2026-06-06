@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-06T20:25:00+00:00",
+    "text": "Jackie Young passed Renee Montgomery for #71 all-time in points (career 3,535) \u2014 up from #72 entering today \u2014 (4:02 - 3rd \u2014 GS @ LV)",
+    "kind": "rank_pass",
+    "player": "Jackie Young",
+    "stat": "points",
+    "rank": 71,
+    "passed_players": [
+      "Renee Montgomery"
+    ],
+    "new_total": 3535
+  },
+  {
     "ts": "2026-06-06T20:11:00+00:00",
     "text": "Stephanie Talbot passed Alanna Smith for #141 all-time in three-pointers (career 155) \u2014 up from #144 entering today \u2014 (7:17 - 3rd \u2014 GS @ LV)",
     "kind": "rank_pass",
@@ -2966,17 +2978,5 @@
       "Ebony Hoffman"
     ],
     "new_total": 1912
-  },
-  {
-    "ts": "2026-06-04T23:18:00+00:00",
-    "text": "Angel Reese passed Janeth Arcain for #147 all-time in rebounds (career 917) \u2014 up from #148 entering today \u2014 (3:49 - 1st \u2014 ATL @ IND)",
-    "kind": "rank_pass",
-    "player": "Angel Reese",
-    "stat": "rebounds",
-    "rank": 147,
-    "passed_players": [
-      "Janeth Arcain"
-    ],
-    "new_total": 917
   }
 ]
