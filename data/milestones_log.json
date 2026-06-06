@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-06T17:10:00+00:00",
+    "text": "Kayla McBride passed Kelsey Plum for #66 all-time in turnovers (career 637) \u2014 (5:48 - 1st \u2014 SEA @ MIN)",
+    "kind": "rank_pass",
+    "player": "Kayla McBride",
+    "stat": "turnovers",
+    "rank": 66,
+    "passed_players": [
+      "Kelsey Plum"
+    ],
+    "new_total": 637
+  },
+  {
     "ts": "2026-06-06T17:07:00+00:00",
     "text": "Stefanie Dolson reached 3,200 career points (now 3,201) \u2014 (7:27 - 1st \u2014 SEA @ MIN)",
     "kind": "round",
@@ -2955,14 +2967,5 @@
       "Sami Whitcomb"
     ],
     "new_total": 624
-  },
-  {
-    "ts": "2026-06-04T00:21:00+00:00",
-    "text": "Julie Allemand reached 400 career assists (now 400) \u2014 (Halftime \u2014 TOR @ NY)",
-    "kind": "round",
-    "player": "Julie Allemand",
-    "stat": "assists",
-    "value": 400,
-    "new_total": 400
   }
 ]
