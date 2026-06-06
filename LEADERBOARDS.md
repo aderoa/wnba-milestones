@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-06 02:09 UTC_
+_Last updated: 2026-06-06 02:10 UTC_
 
 ## Contents
 
@@ -23,7 +23,7 @@ _Last updated: 2026-06-06 02:09 UTC_
 | 2 | Tina Charles | 8,396 |
 | 3 | **DeWanna Bonner** 🔴 +3 | 7,894 |
 | 4 | Tina Thompson | 7,470 |
-| 5 | **Nneka Ogwumike** 🔴 | 7,427 |
+| 5 | **Nneka Ogwumike** 🔴 +2 | 7,429 |
 | 6 | Tamika Catchings | 7,371 |
 | 7 | Candice Dupree | 6,861 |
 | 8 | Sue Bird | 6,802 |
@@ -228,7 +228,7 @@ _Last updated: 2026-06-06 02:09 UTC_
 | 2 | Sylvia Fowles | 4,005 |
 | 3 | Candace Parker | 3,467 |
 | 4 | Rebekkah Brunson | 3,345 |
-| 5 | **Nneka Ogwumike** 🔴 +1 | 3,328 |
+| 5 | **Nneka Ogwumike** 🔴 +2 | 3,329 |
 | 6 | Tamika Catchings | 3,313 |
 | 7 | Lisa Leslie | 3,303 |
 | 8 | **DeWanna Bonner** 🔴 | 3,255 |
@@ -372,7 +372,7 @@ _Last updated: 2026-06-06 02:09 UTC_
 | 146 | Angel Reese | 923 |
 | 147 | Nicky Anosike | 922 |
 | 148 | Janeth Arcain | 916 |
-| 149 | **Jessica Shepard** 🔴 | 912 |
+| 149 | **Jessica Shepard** 🔴 +1 | 913 |
 | 150 | Karima Christmas-Kelly | 908 |
 | 151 | Natalie Achonwa | 895 |
 | 152 | Temeka Johnson | 889 |
@@ -1549,7 +1549,7 @@ _Last updated: 2026-06-06 02:09 UTC_
 | 93 | Crystal Robinson | 682 |
 | 94 | Jennifer Lacy | 680 |
 | 94 | Temeka Johnson | 680 |
-| 96 | **Kelsey Plum** 🔴 | 678 |
+| 96 | **Kelsey Plum** 🔴 +1 | 679 |
 | 97 | Kelly Miller | 676 |
 | 98 | Cheyenne Parker-Tyus | 674 |
 | 99 | Chamique Holdsclaw | 667 |
