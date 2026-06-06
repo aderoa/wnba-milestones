@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-06 00:05 UTC_
+_Last updated: 2026-06-06 00:06 UTC_
 
 ## Contents
 
@@ -1514,7 +1514,7 @@ _Last updated: 2026-06-06 00:05 UTC_
 | 58 | Dearica Hamby | 827 |
 | 59 | Shannon Johnson | 813 |
 | 59 | Tully Bevilaqua | 813 |
-| 61 | **Skylar Diggins** 🔴 | 811 |
+| 61 | **Skylar Diggins** 🔴 +1 | 812 |
 | 62 | Nykesha Sales | 796 |
 | 63 | Ebony Hoffman | 791 |
 | 64 | Erica Wheeler | 786 |
