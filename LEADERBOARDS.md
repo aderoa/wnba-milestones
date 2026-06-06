@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-06 19:49 UTC_
+_Last updated: 2026-06-06 19:50 UTC_
 
 ## Contents
 
@@ -90,7 +90,7 @@ _Last updated: 2026-06-06 19:49 UTC_
 | 69 | Napheesa Collier | 3,542 |
 | 69 | Shannon Johnson | 3,542 |
 | 71 | Renee Montgomery | 3,533 |
-| 72 | **Jackie Young** 🔴 +3 | 3,525 |
+| 72 | **Jackie Young** 🔴 +5 | 3,527 |
 | 73 | Jasmine Thomas | 3,522 |
 | 74 | Tamecka Dixon | 3,507 |
 | 75 | Tammy Sutton-Brown | 3,498 |
@@ -521,7 +521,7 @@ _Last updated: 2026-06-06 19:49 UTC_
 | 89 | Plenette Pierson | 651 |
 | 91 | Brittney Griner | 648 |
 | 92 | Alex Bentley | 645 |
-| 93 | **A'ja Wilson** 🔴 +1 | 638 |
+| 93 | **A'ja Wilson** 🔴 +2 | 639 |
 | 94 | Asjha Jones | 637 |
 | 95 | Jennifer Azzi | 636 |
 | 96 | Natisha Hiedeman | 629 |
@@ -547,7 +547,7 @@ _Last updated: 2026-06-06 19:49 UTC_
 | 116 | Janel McCarville | 551 |
 | 116 | Svetlana Abrosimova | 551 |
 | 118 | Michele Timms | 549 |
-| 119 | **Veronica Burton** 🔴 +2 | 539 |
+| 119 | **Veronica Burton** 🔴 +3 | 540 |
 | 120 | Marie Ferdinand-Harris | 528 |
 | 121 | Margo Dydek | 524 |
 | 122 | Myisha Hines-Allen | 520 |
@@ -874,7 +874,7 @@ _Last updated: 2026-06-06 19:49 UTC_
 | 33 | Natasha Howard | 450 |
 | 34 | Maya Moore | 449 |
 | 35 | **Chelsea Gray** 🔴 +2 | 447 |
-| 36 | **Jewell Loyd** 🔴 | 445 |
+| 36 | **Jewell Loyd** 🔴 +1 | 446 |
 | 37 | Sheri Sam | 438 |
 | 38 | Camille Smith | 437 |
 | 38 | Kayla McBride | 437 |

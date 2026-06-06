@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-06T19:50:00+00:00",
+    "text": "Jewell Loyd passed Chelsea Gray for #35 all-time in steals (career 446) \u2014 up from #36 entering today \u2014 (38.5 - 2nd \u2014 GS @ LV)",
+    "kind": "rank_pass",
+    "player": "Jewell Loyd",
+    "stat": "steals",
+    "rank": 35,
+    "passed_players": [
+      "Chelsea Gray"
+    ],
+    "new_total": 446
+  },
+  {
     "ts": "2026-06-06T19:49:00+00:00",
     "text": "Stephanie Talbot passed Bridget Pettis and Jennifer Gillom for #142 all-time in three-pointers (career 154) \u2014 up from #144 entering today \u2014 (1:23 - 2nd \u2014 GS @ LV)",
     "kind": "rank_pass",
@@ -2967,18 +2979,5 @@
       "Iziane Castro Marques"
     ],
     "new_total": 510
-  },
-  {
-    "ts": "2026-06-04T23:07:00+00:00",
-    "text": "Jordin Canada passed Lexie Hull and Tonya Edwards for #177 all-time in three-pointers (career 119) \u2014 (8:20 - 1st \u2014 ATL @ IND)",
-    "kind": "rank_pass",
-    "player": "Jordin Canada",
-    "stat": "three-pointers",
-    "rank": 177,
-    "passed_players": [
-      "Lexie Hull",
-      "Tonya Edwards"
-    ],
-    "new_total": 119
   }
 ]

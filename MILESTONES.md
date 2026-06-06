@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-06 19:50 UTC
+
+- **Jewell Loyd** passed **Chelsea Gray** for **#35** all-time in steals (career 446) — up from #36 entering today — _38.5 - 2nd — GS @ LV_
+
 ## 2026-06-06 19:49 UTC
 
 - **Stephanie Talbot** passed **Bridget Pettis** and **Jennifer Gillom** for **#142** all-time in three-pointers (career 154) — up from #144 entering today — _1:23 - 2nd — GS @ LV_
