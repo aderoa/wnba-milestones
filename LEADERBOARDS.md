@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-06 01:10 UTC_
+_Last updated: 2026-06-06 01:11 UTC_
 
 ## Contents
 
@@ -909,7 +909,7 @@ _Last updated: 2026-06-06 01:10 UTC_
 | 68 | Erica Wheeler | 353 |
 | 68 | Vicky Bullett | 353 |
 | 70 | Svetlana Abrosimova | 352 |
-| 71 | **Natasha Cloud** 🔴 +2 | 349 |
+| 71 | **Natasha Cloud** 🔴 +3 | 350 |
 | 72 | A'ja Wilson | 346 |
 | 72 | Janeth Arcain | 346 |
 | 74 | Arike Ogunbowale | 345 |
