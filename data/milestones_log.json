@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-06T22:28:00+00:00",
+    "text": "Rhyne Howard passed Jia Perkins for #39 all-time in three-pointers (career 397) \u2014 up from #41 entering today \u2014 (9:21 - 2nd \u2014 WSH @ ATL)",
+    "kind": "rank_pass",
+    "player": "Rhyne Howard",
+    "stat": "three-pointers",
+    "rank": 39,
+    "passed_players": [
+      "Jia Perkins"
+    ],
+    "new_total": 397
+  },
+  {
     "ts": "2026-06-06T22:22:00+00:00",
     "text": "Allisha Gray passed Sheri Sam for #74 all-time in assists (career 746) \u2014 up from #75 entering today \u2014 (43.1 - 1st \u2014 WSH @ ATL)",
     "kind": "rank_pass",
@@ -2967,17 +2979,5 @@
       "Tamicha Jackson"
     ],
     "new_total": 189
-  },
-  {
-    "ts": "2026-06-04T23:50:00+00:00",
-    "text": "Aliyah Boston passed Becky Hammon for #116 all-time in rebounds (career 1,109) \u2014 up from #118 entering today \u2014 (2:45 - 2nd \u2014 ATL @ IND)",
-    "kind": "rank_pass",
-    "player": "Aliyah Boston",
-    "stat": "rebounds",
-    "rank": 116,
-    "passed_players": [
-      "Becky Hammon"
-    ],
-    "new_total": 1109
   }
 ]

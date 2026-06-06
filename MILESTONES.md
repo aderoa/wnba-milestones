@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-06 22:28 UTC
+
+- **Rhyne Howard** passed **Jia Perkins** for **#39** all-time in three-pointers (career 397) — up from #41 entering today — _9:21 - 2nd — WSH @ ATL_
+
 ## 2026-06-06 22:22 UTC
 
 - **Allisha Gray** passed **Sheri Sam** for **#74** all-time in assists (career 746) — up from #75 entering today — _43.1 - 1st — WSH @ ATL_
