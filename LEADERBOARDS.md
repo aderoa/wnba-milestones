@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-06 02:17 UTC_
+_Last updated: 2026-06-06 02:18 UTC_
 
 ## Contents
 
@@ -231,7 +231,7 @@ _Last updated: 2026-06-06 02:17 UTC_
 | 5 | **Nneka Ogwumike** 🔴 +3 | 3,330 |
 | 6 | Tamika Catchings | 3,313 |
 | 7 | Lisa Leslie | 3,303 |
-| 8 | **DeWanna Bonner** 🔴 | 3,255 |
+| 8 | **DeWanna Bonner** 🔴 +1 | 3,256 |
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
@@ -379,7 +379,7 @@ _Last updated: 2026-06-06 02:17 UTC_
 | 153 | Mistie Bass | 888 |
 | 154 | **Erica Wheeler** 🔴 | 871 |
 | 155 | Shameka Christon | 867 |
-| 156 | Alanna Smith | 862 |
+| 156 | **Alanna Smith** 🔴 | 862 |
 | 156 | Krystal Thomas | 862 |
 | 158 | Nia Coffey | 854 |
 | 159 | Marina Mabrey | 849 |
@@ -459,7 +459,7 @@ _Last updated: 2026-06-06 02:17 UTC_
 | 28 | Vickie Johnson | 1,202 |
 | 29 | Jordin Canada | 1,201 |
 | 30 | Leilani Mitchell | 1,197 |
-| 31 | **DeWanna Bonner** 🔴 | 1,187 |
+| 31 | **DeWanna Bonner** 🔴 +1 | 1,188 |
 | 32 | Jewell Loyd | 1,144 |
 | 33 | Renee Montgomery | 1,140 |
 | 34 | Swin Cash | 1,131 |
@@ -609,7 +609,7 @@ _Last updated: 2026-06-06 02:17 UTC_
 | 178 | Jessica Breland | 377 |
 | 179 | Shenise Johnson | 376 |
 | 180 | **Bridget Carleton** 🔴 | 373 |
-| 181 | Alanna Smith | 372 |
+| 181 | **Alanna Smith** 🔴 | 372 |
 | 182 | Suzie McConnell Serio | 370 |
 | 183 | Damiris Dantas | 368 |
 | 184 | Roneeka Hodges | 362 |
@@ -656,7 +656,7 @@ _Last updated: 2026-06-06 02:17 UTC_
 | 20 | Jessica Breland | 367 |
 | 21 | Natasha Howard | 363 |
 | 22 | Ezi Magbegor | 354 |
-| 23 | **DeWanna Bonner** 🔴 | 350 |
+| 23 | **DeWanna Bonner** 🔴 +1 | 351 |
 | 24 | Diana Taurasi | 349 |
 | 24 | Elena Delle Donne | 349 |
 | 26 | DeLisha Milton-Jones | 339 |
@@ -678,7 +678,7 @@ _Last updated: 2026-06-06 02:17 UTC_
 | 41 | Brianna Turner | 233 |
 | 43 | Skylar Diggins | 229 |
 | 44 | Chasity Melvin | 228 |
-| 45 | Alanna Smith | 223 |
+| 45 | **Alanna Smith** 🔴 | 223 |
 | 46 | Teaira McCowan | 222 |
 | 47 | Sancho Lyttle | 221 |
 | 48 | Alana Beard | 220 |
@@ -809,7 +809,7 @@ _Last updated: 2026-06-06 02:17 UTC_
 | 171 | Sugar Rodgers | 76 |
 | 171 | Tan White | 76 |
 | 171 | Tiffany Jackson | 76 |
-| 176 | Cameron Brink | 75 |
+| 176 | **Cameron Brink** 🔴 | 75 |
 | 176 | Karima Christmas-Kelly | 75 |
 | 176 | Kelsey Griffin | 75 |
 | 176 | Tianna Hawkins | 75 |
@@ -1015,7 +1015,7 @@ _Last updated: 2026-06-06 02:17 UTC_
 | 173 | Tierra Ruffin-Pratt | 194 |
 | 175 | Cynthia Cooper | 192 |
 | 176 | Natisha Hiedeman | 191 |
-| 177 | Alanna Smith | 190 |
+| 177 | **Alanna Smith** 🔴 | 190 |
 | 178 | Myisha Hines-Allen | 189 |
 | 179 | Tamicha Jackson | 188 |
 | 180 | Michele Timms | 187 |
@@ -1184,7 +1184,7 @@ _Last updated: 2026-06-06 02:17 UTC_
 | 138 | Aari McDonald | 158 |
 | 138 | Jennifer Azzi | 158 |
 | 140 | Natasha Howard | 157 |
-| 141 | Alanna Smith | 154 |
+| 141 | **Alanna Smith** 🔴 | 154 |
 | 142 | Bridget Pettis | 153 |
 | 142 | Jennifer Gillom | 153 |
 | 142 | Stephanie Talbot | 153 |
@@ -1645,7 +1645,7 @@ _Last updated: 2026-06-06 02:17 UTC_
 | 188 | Nia Coffey | 475 |
 | 190 | Azurá Stevens | 474 |
 | 191 | Kia Nurse | 473 |
-| 192 | Alanna Smith | 470 |
+| 192 | **Alanna Smith** 🔴 | 470 |
 | 193 | Christi Thomas | 463 |
 | 193 | Nikki Teasley | 463 |
 | 195 | Sue Wicks | 462 |
