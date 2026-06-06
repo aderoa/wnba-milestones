@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-06 03:26 UTC
+
+- **Karlie Samuelson** passed **Shay Murphy** for **#162** all-time in three-pointers (career 135) — up from #165 entering today — _3:37 - 3rd — PHX @ POR_
+
 ## 2026-06-06 03:22 UTC
 
 - **Kelsey Plum** passed **Svetlana Abrosimova** for **#67** all-time in turnovers (career 632) — _4:06 - 3rd — DAL @ LA_

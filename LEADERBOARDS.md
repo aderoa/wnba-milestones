@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-06 03:25 UTC_
+_Last updated: 2026-06-06 03:26 UTC_
 
 ## Contents
 
@@ -228,7 +228,7 @@ _Last updated: 2026-06-06 03:25 UTC_
 | 2 | Sylvia Fowles | 4,005 |
 | 3 | Candace Parker | 3,467 |
 | 4 | Rebekkah Brunson | 3,345 |
-| 5 | **Nneka Ogwumike** 🔴 +6 | 3,333 |
+| 5 | **Nneka Ogwumike** 🔴 +7 | 3,334 |
 | 6 | Tamika Catchings | 3,313 |
 | 7 | Lisa Leslie | 3,303 |
 | 8 | **DeWanna Bonner** 🔴 +3 | 3,258 |
@@ -379,7 +379,7 @@ _Last updated: 2026-06-06 03:25 UTC_
 | 153 | Mistie Bass | 888 |
 | 154 | **Erica Wheeler** 🔴 | 871 |
 | 155 | Shameka Christon | 867 |
-| 156 | **Alanna Smith** 🔴 +1 | 863 |
+| 156 | **Alanna Smith** 🔴 +2 | 864 |
 | 157 | Krystal Thomas | 862 |
 | 158 | Nia Coffey | 854 |
 | 159 | Marina Mabrey | 849 |
@@ -1205,8 +1205,8 @@ _Last updated: 2026-06-06 03:25 UTC_
 | 158 | Tanisha Wright | 138 |
 | 160 | Gabby Williams | 137 |
 | 160 | Kaleena Mosqueda-Lewis | 137 |
-| 162 | **Karlie Samuelson** 🔴 +3 | 134 |
-| 162 | Shay Murphy | 134 |
+| 162 | **Karlie Samuelson** 🔴 +4 | 135 |
+| 163 | Shay Murphy | 134 |
 | 164 | Brooke Wyckoff | 132 |
 | 164 | Jenna O'Hea | 132 |
 | 166 | Amanda Zahui B | 130 |
@@ -1274,7 +1274,7 @@ _Last updated: 2026-06-06 03:25 UTC_
 | 23 | Skylar Diggins | 893 |
 | 24 | Candice Dupree | 869 |
 | 25 | Alana Beard | 854 |
-| 26 | **DeWanna Bonner** 🔴 +2 | 838 |
+| 26 | **DeWanna Bonner** 🔴 +1 | 837 |
 | 27 | Katie Douglas | 824 |
 | 28 | Natasha Howard | 821 |
 | 29 | Betty Lennox | 800 |
