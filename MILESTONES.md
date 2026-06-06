@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-06 23:35 UTC
+
+- **Angel Reese** reached **100** career steals (now 100) — _3:52 - 3rd — WSH @ ATL_
+
 ## 2026-06-06 23:20 UTC
 
 - **Shakira Austin** passed **Amanda Lassiter**, **Kamila Vodichkova**, **Kamilla Cardoso**, **Sophia Young-Malcolm**, and **Tari Phillips** for **#112** all-time in blocks (career 112) — up from #117 entering today — _9:09 - 3rd — WSH @ ATL_
