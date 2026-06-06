@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-06 01:02 UTC_
+_Last updated: 2026-06-06 01:03 UTC_
 
 ## Contents
 
@@ -199,7 +199,7 @@ _Last updated: 2026-06-06 01:02 UTC_
 | 178 | Damiris Dantas | 1,830 |
 | 179 | Tianna Hawkins | 1,825 |
 | 180 | Noelle Quinn | 1,824 |
-| 181 | **Rachel Banham** 🔴 +5 | 1,822 |
+| 181 | **Rachel Banham** 🔴 +6 | 1,823 |
 | 182 | Danielle Adams | 1,820 |
 | 183 | Charde Houston | 1,797 |
 | 184 | NaLyssa Smith | 1,775 |
