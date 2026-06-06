@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-06 04:11 UTC
+
+- **Erica Wheeler** passed **Natasha Cloud** for **#48** all-time in turnovers (career 690) — up from #49 entering today — _30.5 - 4th — DAL @ LA_
+
 ## 2026-06-06 04:04 UTC
 
 - **Jessica Shepard** passed **Satou Sabally** for **#145** all-time in rebounds (career 927) — up from #149 entering today — _1:33 - 4th — DAL @ LA_

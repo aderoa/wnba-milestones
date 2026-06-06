@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-06 04:10 UTC_
+_Last updated: 2026-06-06 04:11 UTC_
 
 ## Contents
 
@@ -377,7 +377,7 @@ _Last updated: 2026-06-06 04:10 UTC_
 | 151 | Natalie Achonwa | 895 |
 | 152 | Temeka Johnson | 889 |
 | 153 | Mistie Bass | 888 |
-| 154 | **Erica Wheeler** 🔴 | 871 |
+| 154 | **Erica Wheeler** 🔴 +1 | 872 |
 | 155 | Shameka Christon | 867 |
 | 156 | **Alanna Smith** 🔴 +2 | 864 |
 | 157 | Krystal Thomas | 862 |
@@ -397,9 +397,9 @@ _Last updated: 2026-06-06 04:10 UTC_
 | 170 | Gabby Williams | 795 |
 | 172 | Charlotte Smith | 794 |
 | 173 | Rhonda Mapp | 788 |
+| 174 | **Ariel Atkins** 🔴 +5 | 786 |
 | 174 | Mercedes Russell | 786 |
-| 175 | **Ariel Atkins** 🔴 +4 | 785 |
-| 175 | **Odyssey Sims** 🔴 +1 | 785 |
+| 176 | **Odyssey Sims** 🔴 +1 | 785 |
 | 177 | Sue Wicks | 780 |
 | 178 | Lindsey Harding | 779 |
 | 179 | Tiffani Johnson | 778 |
@@ -1297,7 +1297,7 @@ _Last updated: 2026-06-06 04:10 UTC_
 | 46 | Temeka Johnson | 696 |
 | 47 | Penny Taylor | 695 |
 | 48 | Natasha Cloud | 692 |
-| 49 | **Erica Wheeler** 🔴 +3 | 689 |
+| 49 | **Erica Wheeler** 🔴 +4 | 690 |
 | 50 | Dominique Canty | 685 |
 | 51 | DeMya Walker | 684 |
 | 52 | Asjha Jones | 682 |

@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-06T04:11:00+00:00",
+    "text": "Erica Wheeler passed Natasha Cloud for #48 all-time in turnovers (career 690) \u2014 up from #49 entering today \u2014 (30.5 - 4th \u2014 DAL @ LA)",
+    "kind": "rank_pass",
+    "player": "Erica Wheeler",
+    "stat": "turnovers",
+    "rank": 48,
+    "passed_players": [
+      "Natasha Cloud"
+    ],
+    "new_total": 690
+  },
+  {
     "ts": "2026-06-06T04:04:00+00:00",
     "text": "Jessica Shepard passed Satou Sabally for #145 all-time in rebounds (career 927) \u2014 up from #149 entering today \u2014 (1:33 - 4th \u2014 DAL @ LA)",
     "kind": "rank_pass",
@@ -2972,17 +2984,5 @@
       "Olivia Nelson-Ododa"
     ],
     "new_total": 123
-  },
-  {
-    "ts": "2026-05-30T01:07:00+00:00",
-    "text": "Nia Coffey passed Swin Cash for #121 all-time in three-pointers (career 177) \u2014 up from #125 entering today \u2014 (6:33 - 4th \u2014 MIN @ CHI)",
-    "kind": "rank_pass",
-    "player": "Nia Coffey",
-    "stat": "three-pointers",
-    "rank": 121,
-    "passed_players": [
-      "Swin Cash"
-    ],
-    "new_total": 177
   }
 ]
