@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-06 19:42 UTC_
+_Last updated: 2026-06-06 19:43 UTC_
 
 ## Contents
 
@@ -1225,10 +1225,10 @@ _Last updated: 2026-06-06 19:42 UTC_
 | 179 | Edwige Lawson-Wade | 116 |
 | 179 | Kennedy Burke | 116 |
 | 179 | Marie Ferdinand-Harris | 116 |
-| 182 | Ebony Hoffman | 115 |
-| 182 | Shey Peddy | 115 |
-| 182 | Stephanie White | 115 |
-| 182 | **Veronica Burton** 🔴 | 115 |
+| 179 | **Veronica Burton** 🔴 +1 | 116 |
+| 183 | Ebony Hoffman | 115 |
+| 183 | Shey Peddy | 115 |
+| 183 | Stephanie White | 115 |
 | 186 | Gordana Grubin | 114 |
 | 186 | Rickea Jackson | 114 |
 | 186 | Sandy Brondello | 114 |
@@ -1269,7 +1269,7 @@ _Last updated: 2026-06-06 19:42 UTC_
 | 18 | Cappie Pondexter | 945 |
 | 19 | Katie Smith | 935 |
 | 20 | Shannon Johnson | 934 |
-| 21 | **Chelsea Gray** 🔴 +1 | 899 |
+| 21 | **Chelsea Gray** 🔴 +2 | 900 |
 | 22 | Taj McWilliams-Franklin | 898 |
 | 23 | Skylar Diggins | 893 |
 | 24 | Candice Dupree | 869 |
@@ -1567,7 +1567,7 @@ _Last updated: 2026-06-06 19:42 UTC_
 | 110 | Teaira McCowan | 629 |
 | 112 | Deanna Nolan | 628 |
 | 113 | Brionna Jones | 625 |
-| 114 | **Chelsea Gray** 🔴 | 621 |
+| 114 | **Chelsea Gray** 🔴 +1 | 622 |
 | 115 | Courtney Paris | 617 |
 | 116 | Coco Miller | 615 |
 | 117 | Brooke Wyckoff | 614 |

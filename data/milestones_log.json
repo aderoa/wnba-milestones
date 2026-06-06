@@ -1,5 +1,28 @@
 [
   {
+    "ts": "2026-06-06T19:43:00+00:00",
+    "text": "Veronica Burton passed Ebony Hoffman, Shey Peddy, and Stephanie White for #182 all-time in three-pointers (career 116) \u2014 up from #185 entering today \u2014 (2:59 - 2nd \u2014 GS @ LV)",
+    "kind": "rank_pass",
+    "player": "Veronica Burton",
+    "stat": "three-pointers",
+    "rank": 182,
+    "passed_players": [
+      "Ebony Hoffman",
+      "Shey Peddy",
+      "Stephanie White"
+    ],
+    "new_total": 116
+  },
+  {
+    "ts": "2026-06-06T19:43:00+00:00",
+    "text": "Chelsea Gray reached 900 career turnovers (now 900) \u2014 (2:59 - 2nd \u2014 GS @ LV)",
+    "kind": "round",
+    "player": "Chelsea Gray",
+    "stat": "turnovers",
+    "value": 900,
+    "new_total": 900
+  },
+  {
     "ts": "2026-06-06T19:42:00+00:00",
     "text": "Jackie Young passed Candice Wiggins and Epiphanny Prince for #150 all-time in fouls (career 526) \u2014 up from #152 entering today \u2014 (3:35 - 2nd \u2014 GS @ LV)",
     "kind": "rank_pass",
@@ -2957,32 +2980,5 @@
       "Crystal Langhorne"
     ],
     "new_total": 738
-  },
-  {
-    "ts": "2026-06-04T03:48:00+00:00",
-    "text": "Kahleah Copper passed Asjha Jones, Candice Wiggins, Cheyenne Parker-Tyus, and Elena Baranova for #152 all-time in steals (career 216) \u2014 up from #156 entering today \u2014 (4:39 - 4th \u2014 PHX @ SEA)",
-    "kind": "rank_pass",
-    "player": "Kahleah Copper",
-    "stat": "steals",
-    "rank": 152,
-    "passed_players": [
-      "Asjha Jones",
-      "Candice Wiggins",
-      "Cheyenne Parker-Tyus",
-      "Elena Baranova"
-    ],
-    "new_total": 216
-  },
-  {
-    "ts": "2026-06-04T03:47:00+00:00",
-    "text": "Natasha Mack passed Monique Currie for #109 all-time in blocks (career 115) \u2014 up from #111 entering today \u2014 (5:14 - 4th \u2014 PHX @ SEA)",
-    "kind": "rank_pass",
-    "player": "Natasha Mack",
-    "stat": "blocks",
-    "rank": 109,
-    "passed_players": [
-      "Monique Currie"
-    ],
-    "new_total": 115
   }
 ]

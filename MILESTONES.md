@@ -2,6 +2,11 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-06 19:43 UTC
+
+- **Veronica Burton** passed **Ebony Hoffman**, **Shey Peddy**, and **Stephanie White** for **#182** all-time in three-pointers (career 116) — up from #185 entering today — _2:59 - 2nd — GS @ LV_
+- **Chelsea Gray** reached **900** career turnovers (now 900) — _2:59 - 2nd — GS @ LV_
+
 ## 2026-06-06 19:42 UTC
 
 - **Jackie Young** passed **Candice Wiggins** and **Epiphanny Prince** for **#150** all-time in fouls (career 526) — up from #152 entering today — _3:35 - 2nd — GS @ LV_
