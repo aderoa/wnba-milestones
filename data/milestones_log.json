@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-06T18:59:00+00:00",
+    "text": "Teaira McCowan passed Deanna Nolan for #111 all-time in fouls (career 629) \u2014 up from #112 entering today \u2014 (11.0 - 4th \u2014 SEA @ MIN)",
+    "kind": "rank_pass",
+    "player": "Teaira McCowan",
+    "stat": "fouls",
+    "rank": 111,
+    "passed_players": [
+      "Deanna Nolan"
+    ],
+    "new_total": 629
+  },
+  {
     "ts": "2026-06-06T18:38:00+00:00",
     "text": "Natisha Hiedeman passed Cynthia Cooper for #175 all-time in steals (career 193) \u2014 up from #176 entering today \u2014 (7:35 - 4th \u2014 SEA @ MIN)",
     "kind": "rank_pass",
@@ -2955,17 +2967,5 @@
       "Erika de Souza"
     ],
     "new_total": 3050
-  },
-  {
-    "ts": "2026-06-04T00:57:00+00:00",
-    "text": "Marina Mabrey passed Cappie Pondexter for #24 all-time in three-pointers (career 465) \u2014 up from #25 entering today \u2014 (1:32 - 3rd \u2014 TOR @ NY)",
-    "kind": "rank_pass",
-    "player": "Marina Mabrey",
-    "stat": "three-pointers",
-    "rank": 24,
-    "passed_players": [
-      "Cappie Pondexter"
-    ],
-    "new_total": 465
   }
 ]

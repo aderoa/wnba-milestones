@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-06 18:59 UTC
+
+- **Teaira McCowan** passed **Deanna Nolan** for **#111** all-time in fouls (career 629) — up from #112 entering today — _11.0 - 4th — SEA @ MIN_
+
 ## 2026-06-06 18:38 UTC
 
 - **Natisha Hiedeman** passed **Cynthia Cooper** for **#175** all-time in steals (career 193) — up from #176 entering today — _7:35 - 4th — SEA @ MIN_
