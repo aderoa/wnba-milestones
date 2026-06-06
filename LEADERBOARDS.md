@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-06 22:17 UTC_
+_Last updated: 2026-06-06 22:18 UTC_
 
 ## Contents
 
@@ -143,8 +143,8 @@ _Last updated: 2026-06-06 22:17 UTC_
 | 122 | Glory Johnson | 2,531 |
 | 123 | Nikki McCray | 2,521 |
 | 124 | Crystal Robinson | 2,496 |
-| 125 | Tiffany Mitchell | 2,480 |
-| 126 | **Rhyne Howard** 🔴 +5 | 2,477 |
+| 125 | **Rhyne Howard** 🔴 +9 | 2,481 |
+| 126 | Tiffany Mitchell | 2,480 |
 | 127 | Ruth Riley | 2,434 |
 | 128 | Svetlana Abrosimova | 2,414 |
 | 129 | Anna DeForge | 2,413 |
@@ -387,7 +387,7 @@ _Last updated: 2026-06-06 22:17 UTC_
 | 161 | Essence Carson | 833 |
 | 162 | Kristi Toliver | 829 |
 | 163 | Marie Ferdinand-Harris | 828 |
-| 164 | **Naz Hillmon** 🔴 +2 | 824 |
+| 164 | **Naz Hillmon** 🔴 +3 | 825 |
 | 165 | Marlies Askamp | 822 |
 | 166 | Amanda Zahui B | 819 |
 | 166 | Barbara Farris | 819 |
@@ -502,8 +502,8 @@ _Last updated: 2026-06-06 22:17 UTC_
 | 71 | Epiphanny Prince | 800 |
 | 72 | Mwadi Mabika | 774 |
 | 73 | Marina Mabrey | 772 |
+| 74 | **Allisha Gray** 🔴 +2 | 745 |
 | 74 | Sheri Sam | 745 |
-| 75 | **Allisha Gray** 🔴 +1 | 744 |
 | 76 | Monique Currie | 740 |
 | 77 | Elaine Powell | 728 |
 | 78 | Dearica Hamby | 718 |
@@ -760,8 +760,8 @@ _Last updated: 2026-06-06 22:17 UTC_
 | 122 | Rebecca Lobo | 104 |
 | 125 | Jennifer Gillom | 103 |
 | 125 | Jia Perkins | 103 |
-| 127 | **Rhyne Howard** 🔴 | 102 |
-| 127 | Theresa Plaisance | 102 |
+| 125 | **Rhyne Howard** 🔴 +1 | 103 |
+| 128 | Theresa Plaisance | 102 |
 | 129 | Deanna Nolan | 101 |
 | 130 | Chante Black | 100 |
 | 130 | Danielle Adams | 100 |
@@ -1083,7 +1083,7 @@ _Last updated: 2026-06-06 22:17 UTC_
 | 37 | Penny Taylor | 407 |
 | 37 | Riquna Williams | 407 |
 | 39 | Jia Perkins | 396 |
-| 40 | **Rhyne Howard** 🔴 +1 | 395 |
+| 39 | **Rhyne Howard** 🔴 +2 | 396 |
 | 41 | Alysha Clark | 394 |
 | 42 | Roneeka Hodges | 389 |
 | 43 | Courtney Vandersloot | 385 |

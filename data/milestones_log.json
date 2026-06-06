@@ -1,5 +1,29 @@
 [
   {
+    "ts": "2026-06-06T22:18:00+00:00",
+    "text": "Rhyne Howard passed Tiffany Mitchell for #125 all-time in points (career 2,481) \u2014 up from #126 entering today \u2014 (3:16 - 1st \u2014 WSH @ ATL)",
+    "kind": "rank_pass",
+    "player": "Rhyne Howard",
+    "stat": "points",
+    "rank": 125,
+    "passed_players": [
+      "Tiffany Mitchell"
+    ],
+    "new_total": 2481
+  },
+  {
+    "ts": "2026-06-06T22:18:00+00:00",
+    "text": "Rhyne Howard passed Theresa Plaisance for #128 all-time in blocks (career 103) \u2014 (3:16 - 1st \u2014 WSH @ ATL)",
+    "kind": "rank_pass",
+    "player": "Rhyne Howard",
+    "stat": "blocks",
+    "rank": 128,
+    "passed_players": [
+      "Theresa Plaisance"
+    ],
+    "new_total": 103
+  },
+  {
     "ts": "2026-06-06T22:08:00+00:00",
     "text": "Rhyne Howard passed Brittany Boyd-Jones, Chasity Melvin, and Rachel Banham for #125 all-time in assists (career 509) \u2014 up from #128 entering today \u2014 (6:44 - 1st \u2014 WSH @ ATL)",
     "kind": "rank_pass",
@@ -2954,30 +2978,5 @@
       "Michele Timms"
     ],
     "new_total": 188
-  },
-  {
-    "ts": "2026-06-04T23:42:00+00:00",
-    "text": "Jordin Canada passed Dawn Staley for #142 all-time in points (career 2,230) \u2014 up from #143 entering today \u2014 (4:50 - 2nd \u2014 ATL @ IND)",
-    "kind": "rank_pass",
-    "player": "Jordin Canada",
-    "stat": "points",
-    "rank": 142,
-    "passed_players": [
-      "Dawn Staley"
-    ],
-    "new_total": 2230
-  },
-  {
-    "ts": "2026-06-04T23:39:00+00:00",
-    "text": "Naz Hillmon passed Amanda Zahui B and Barbara Farris for #165 all-time in rebounds (career 820) \u2014 up from #167 entering today \u2014 (5:07 - 2nd \u2014 ATL @ IND)",
-    "kind": "rank_pass",
-    "player": "Naz Hillmon",
-    "stat": "rebounds",
-    "rank": 165,
-    "passed_players": [
-      "Amanda Zahui B",
-      "Barbara Farris"
-    ],
-    "new_total": 820
   }
 ]

@@ -2,6 +2,11 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-06 22:18 UTC
+
+- **Rhyne Howard** passed **Tiffany Mitchell** for **#125** all-time in points (career 2,481) — up from #126 entering today — _3:16 - 1st — WSH @ ATL_
+- **Rhyne Howard** passed **Theresa Plaisance** for **#128** all-time in blocks (career 103) — _3:16 - 1st — WSH @ ATL_
+
 ## 2026-06-06 22:08 UTC
 
 - **Rhyne Howard** passed **Brittany Boyd-Jones**, **Chasity Melvin**, and **Rachel Banham** for **#125** all-time in assists (career 509) — up from #128 entering today — _6:44 - 1st — WSH @ ATL_
