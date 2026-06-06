@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-06 21:04 UTC
+
+- **Jackie Young** passed **Napheesa Collier** and **Shannon Johnson** for **#69** all-time in points (career 3,544) — up from #72 entering today — _1:44 - 4th — GS @ LV_
+
 ## 2026-06-06 20:59 UTC
 
 - **Gabby Williams** passed **Coco Miller** for **#157** all-time in three-pointers (career 140) — up from #160 entering today — _2:45 - 4th — GS @ LV_

@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-06-06T21:04:00+00:00",
+    "text": "Jackie Young passed Napheesa Collier and Shannon Johnson for #69 all-time in points (career 3,544) \u2014 up from #72 entering today \u2014 (1:44 - 4th \u2014 GS @ LV)",
+    "kind": "rank_pass",
+    "player": "Jackie Young",
+    "stat": "points",
+    "rank": 69,
+    "passed_players": [
+      "Napheesa Collier",
+      "Shannon Johnson"
+    ],
+    "new_total": 3544
+  },
+  {
     "ts": "2026-06-06T20:59:00+00:00",
     "text": "Gabby Williams passed Coco Miller for #157 all-time in three-pointers (career 140) \u2014 up from #160 entering today \u2014 (2:45 - 4th \u2014 GS @ LV)",
     "kind": "rank_pass",
@@ -2964,19 +2977,5 @@
       "Monique Currie"
     ],
     "new_total": 379
-  },
-  {
-    "ts": "2026-06-04T23:36:00+00:00",
-    "text": "Monique Billings passed Allisha Gray, Courtney Vandersloot, and Katie Smith for #72 all-time in rebounds (career 1,384) \u2014 up from #75 entering today \u2014 (7:00 - 2nd \u2014 ATL @ IND)",
-    "kind": "rank_pass",
-    "player": "Monique Billings",
-    "stat": "rebounds",
-    "rank": 72,
-    "passed_players": [
-      "Allisha Gray",
-      "Courtney Vandersloot",
-      "Katie Smith"
-    ],
-    "new_total": 1384
   }
 ]
