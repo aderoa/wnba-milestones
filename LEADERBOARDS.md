@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-06 18:35 UTC_
+_Last updated: 2026-06-06 18:36 UTC_
 
 ## Contents
 
@@ -162,7 +162,7 @@ _Last updated: 2026-06-06 18:35 UTC_
 | 139 | Matee Ajavon | 2,237 |
 | 142 | Kia Nurse | 2,231 |
 | 143 | Dawn Staley | 2,228 |
-| 144 | **Teaira McCowan** 🔴 | 2,221 |
+| 144 | **Teaira McCowan** 🔴 +2 | 2,223 |
 | 145 | Janel McCarville | 2,215 |
 | 146 | Sami Whitcomb | 2,211 |
 | 147 | Sophia Witherspoon | 2,210 |
@@ -1418,7 +1418,7 @@ _Last updated: 2026-06-06 18:35 UTC_
 | 167 | Janell Burse | 347 |
 | 168 | Brionna Jones | 346 |
 | 169 | Loree Moore | 339 |
-| 170 | **Teaira McCowan** 🔴 | 338 |
+| 169 | **Teaira McCowan** 🔴 +1 | 339 |
 | 171 | Charlotte Smith | 337 |
 | 172 | Scholanda Dorrell | 335 |
 | 173 | Aerial Powers | 333 |
@@ -1565,7 +1565,7 @@ _Last updated: 2026-06-06 18:35 UTC_
 | 109 | Nicole Ohlde | 631 |
 | 110 | Jennifer Gillom | 629 |
 | 111 | Deanna Nolan | 628 |
-| 112 | **Teaira McCowan** 🔴 | 627 |
+| 111 | **Teaira McCowan** 🔴 +1 | 628 |
 | 113 | Brionna Jones | 625 |
 | 114 | Chelsea Gray | 621 |
 | 115 | Courtney Paris | 617 |
