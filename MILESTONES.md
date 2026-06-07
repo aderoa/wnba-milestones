@@ -2,6 +2,11 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-07 20:33 UTC
+
+- **Brittney Sykes** passed **Nykesha Sales** for **#105** all-time in rebounds (career 1,149) — up from #106 entering today — _1:38 - 3rd — CHI @ TOR_
+- **Isabelle Harrison** passed **Diamond DeShields** for **#188** all-time in steals (career 181) — up from #189 entering today — _1:38 - 3rd — CHI @ TOR_
+
 ## 2026-06-07 20:26 UTC
 
 - **Isabelle Harrison** passed **Lindsey Harding** for **#181** all-time in fouls (career 487) — up from #183 entering today — _4:29 - 3rd — CHI @ TOR_

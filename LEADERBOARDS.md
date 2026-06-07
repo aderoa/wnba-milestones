@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-07 20:32 UTC_
+_Last updated: 2026-06-07 20:33 UTC_
 
 ## Contents
 
@@ -328,8 +328,8 @@ _Last updated: 2026-06-07 20:32 UTC_
 | 101 | Tanisha Wright | 1,190 |
 | 103 | Vicky Bullett | 1,189 |
 | 104 | Kahleah Copper | 1,171 |
-| 105 | **Brittney Sykes** 🔴 +3 | 1,148 |
-| 105 | Nykesha Sales | 1,148 |
+| 105 | **Brittney Sykes** 🔴 +4 | 1,149 |
+| 106 | Nykesha Sales | 1,148 |
 | 107 | Shannon Johnson | 1,143 |
 | 108 | Adrian Williams-Strong | 1,131 |
 | 109 | Andrea Stinson | 1,127 |
@@ -344,7 +344,7 @@ _Last updated: 2026-06-07 20:32 UTC_
 | 118 | Ann Wauters | 1,105 |
 | 119 | Svetlana Abrosimova | 1,078 |
 | 120 | Le'coe Willingham | 1,054 |
-| 121 | **Isabelle Harrison** 🔴 +3 | 1,052 |
+| 121 | **Isabelle Harrison** 🔴 +4 | 1,053 |
 | 122 | Jackie Young | 1,044 |
 | 123 | Nicole Ohlde | 1,040 |
 | 124 | Tamecka Dixon | 1,035 |
@@ -644,7 +644,7 @@ _Last updated: 2026-06-07 20:32 UTC_
 | 8 | Tammy Sutton-Brown | 555 |
 | 9 | Tangela Smith | 554 |
 | 10 | Ruth Riley | 505 |
-| 11 | **Elizabeth Williams** 🔴 | 493 |
+| 11 | **Elizabeth Williams** 🔴 +1 | 494 |
 | 12 | Taj McWilliams-Franklin | 443 |
 | 13 | Breanna Stewart | 436 |
 | 14 | Tina Charles | 428 |
@@ -745,11 +745,11 @@ _Last updated: 2026-06-07 20:32 UTC_
 | 107 | Natasha Mack | 117 |
 | 110 | Monique Currie | 114 |
 | 111 | Ariel Atkins | 113 |
-| 112 | Amanda Lassiter | 111 |
-| 112 | Kamila Vodichkova | 111 |
-| 112 | **Kamilla Cardoso** 🔴 | 111 |
-| 112 | Sophia Young-Malcolm | 111 |
-| 112 | Tari Phillips | 111 |
+| 112 | **Kamilla Cardoso** 🔴 +1 | 112 |
+| 113 | Amanda Lassiter | 111 |
+| 113 | Kamila Vodichkova | 111 |
+| 113 | Sophia Young-Malcolm | 111 |
+| 113 | Tari Phillips | 111 |
 | 117 | Shakira Austin | 110 |
 | 118 | Erin Perperoglou | 108 |
 | 118 | Glory Johnson | 108 |
@@ -1025,9 +1025,9 @@ _Last updated: 2026-06-07 20:32 UTC_
 | 184 | Rebecca Allen | 183 |
 | 185 | Erin Phillips | 182 |
 | 185 | Sabrina Ionescu | 182 |
+| 187 | **Isabelle Harrison** 🔴 +1 | 181 |
 | 187 | Nakia Sanford | 181 |
-| 188 | Diamond DeShields | 180 |
-| 188 | **Isabelle Harrison** 🔴 | 180 |
+| 189 | Diamond DeShields | 180 |
 | 190 | Bridget Pettis | 177 |
 | 190 | Monique Billings | 177 |
 | 192 | Brittany Boyd-Jones | 176 |
