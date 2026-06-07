@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-07 00:56 UTC_
+_Last updated: 2026-06-07 00:57 UTC_
 
 ## Contents
 
@@ -1606,7 +1606,7 @@ _Last updated: 2026-06-07 00:56 UTC_
 | 150 | Damiris Dantas | 527 |
 | 151 | Candice Wiggins | 525 |
 | 151 | Epiphanny Prince | 525 |
-| 153 | **Sophie Cunningham** 🔴 +1 | 524 |
+| 151 | **Sophie Cunningham** 🔴 +2 | 525 |
 | 154 | Armintie Herrington | 523 |
 | 154 | Kayla McBride | 523 |
 | 156 | **Monique Billings** 🔴 +2 | 519 |
