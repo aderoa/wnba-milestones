@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-06-07T23:08:00+00:00",
+    "text": "Dearica Hamby passed Carolyn Swords and Rebecca Lobo for #122 all-time in blocks (career 105) \u2014 up from #123 entering today \u2014 (6:17 - 1st \u2014 POR @ LA)",
+    "kind": "rank_pass",
+    "player": "Dearica Hamby",
+    "stat": "blocks",
+    "rank": 122,
+    "passed_players": [
+      "Carolyn Swords",
+      "Rebecca Lobo"
+    ],
+    "new_total": 105
+  },
+  {
     "ts": "2026-06-07T21:06:00+00:00",
     "text": "Natasha Cloud passed NaLyssa Smith for #112 all-time in rebounds (career 1,116) \u2014 up from #114 entering today \u2014 (2:15 - 4th \u2014 CHI @ TOR)",
     "kind": "rank_pass",
@@ -2974,19 +2987,5 @@
       "Monique Currie"
     ],
     "new_total": 4255
-  },
-  {
-    "ts": "2026-06-05T13:51:00+00:00",
-    "text": "Courtney Williams passed Sophia Young-Malcolm, Lindsay Whalen, and Camille Smith for #38 all-time in rebounds (career 1,808) \u2014 up from #41 entering today \u2014 (Final \u2014 GS @ MIN)",
-    "kind": "rank_pass",
-    "player": "Courtney Williams",
-    "stat": "rebounds",
-    "rank": 38,
-    "passed_players": [
-      "Sophia Young-Malcolm",
-      "Lindsay Whalen",
-      "Camille Smith"
-    ],
-    "new_total": 1808
   }
 ]

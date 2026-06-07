@@ -228,7 +228,7 @@ _Last updated: 2026-06-07 23:08 UTC_
 | 2 | Sylvia Fowles | 4,005 |
 | 3 | Candace Parker | 3,467 |
 | 4 | Rebekkah Brunson | 3,345 |
-| 5 | **Nneka Ogwumike** 🔴 +1 | 3,338 |
+| 5 | **Nneka Ogwumike** 🔴 +2 | 3,339 |
 | 6 | Tamika Catchings | 3,313 |
 | 7 | Lisa Leslie | 3,303 |
 | 8 | DeWanna Bonner | 3,260 |
@@ -755,9 +755,9 @@ _Last updated: 2026-06-07 23:08 UTC_
 | 118 | Glory Johnson | 108 |
 | 120 | Courtney Williams | 106 |
 | 120 | Sylvia Crawley | 106 |
-| 122 | Carolyn Swords | 104 |
-| 122 | **Dearica Hamby** 🔴 | 104 |
-| 122 | Rebecca Lobo | 104 |
+| 122 | **Dearica Hamby** 🔴 +1 | 105 |
+| 123 | Carolyn Swords | 104 |
+| 123 | Rebecca Lobo | 104 |
 | 125 | Jennifer Gillom | 103 |
 | 125 | Jia Perkins | 103 |
 | 127 | Rhyne Howard | 102 |
