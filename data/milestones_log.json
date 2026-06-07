@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-07T00:31:00+00:00",
+    "text": "Breanna Stewart passed Andrea Stinson for #82 all-time in turnovers (career 572) \u2014 up from #83 entering today \u2014 (8:30 - 2nd \u2014 IND @ NY)",
+    "kind": "rank_pass",
+    "player": "Breanna Stewart",
+    "stat": "turnovers",
+    "rank": 82,
+    "passed_players": [
+      "Andrea Stinson"
+    ],
+    "new_total": 572
+  },
+  {
     "ts": "2026-06-07T00:24:00+00:00",
     "text": "Myisha Hines-Allen passed Ticha Penicheiro for #170 all-time in three-pointers (career 129) \u2014 (36.4 - 1st \u2014 IND @ NY)",
     "kind": "rank_pass",
@@ -2967,17 +2979,5 @@
       "Janeth Arcain"
     ],
     "new_total": 513
-  },
-  {
-    "ts": "2026-06-05T00:45:00+00:00",
-    "text": "Angel Reese passed Nicky Anosike for #145 all-time in rebounds (career 923) \u2014 up from #148 entering today \u2014 (6:02 - 4th \u2014 ATL @ IND)",
-    "kind": "rank_pass",
-    "player": "Angel Reese",
-    "stat": "rebounds",
-    "rank": 145,
-    "passed_players": [
-      "Nicky Anosike"
-    ],
-    "new_total": 923
   }
 ]
