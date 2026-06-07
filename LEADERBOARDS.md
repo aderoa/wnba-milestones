@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-07 19:49 UTC_
+_Last updated: 2026-06-07 19:50 UTC_
 
 ## Contents
 
@@ -154,7 +154,7 @@ _Last updated: 2026-06-07 19:49 UTC_
 | 133 | Merlakia Jones | 2,308 |
 | 134 | Kia Vaughn | 2,288 |
 | 135 | Betnijah Laney-Hamilton | 2,282 |
-| 136 | **Azurá Stevens** 🔴 +10 | 2,269 |
+| 136 | **Azurá Stevens** 🔴 +11 | 2,270 |
 | 137 | Allison Feaster | 2,258 |
 | 138 | Shekinna Stricklen | 2,245 |
 | 139 | Jordin Canada | 2,237 |
@@ -256,7 +256,7 @@ _Last updated: 2026-06-07 19:49 UTC_
 | 30 | Chamique Holdsclaw | 2,123 |
 | 31 | Chasity Melvin | 2,097 |
 | 32 | Tammy Sutton-Brown | 2,010 |
-| 33 | **Elizabeth Williams** 🔴 +3 | 1,955 |
+| 33 | **Elizabeth Williams** 🔴 +4 | 1,956 |
 | 34 | Cheryl Ford | 1,907 |
 | 35 | Plenette Pierson | 1,834 |
 | 36 | Natalie Williams | 1,832 |
@@ -344,7 +344,7 @@ _Last updated: 2026-06-07 19:49 UTC_
 | 118 | Ann Wauters | 1,105 |
 | 119 | Svetlana Abrosimova | 1,078 |
 | 120 | Le'coe Willingham | 1,054 |
-| 121 | **Isabelle Harrison** 🔴 +1 | 1,050 |
+| 121 | **Isabelle Harrison** 🔴 +2 | 1,051 |
 | 122 | Jackie Young | 1,044 |
 | 123 | Nicole Ohlde | 1,040 |
 | 124 | Tamecka Dixon | 1,035 |
