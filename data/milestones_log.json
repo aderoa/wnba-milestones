@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-07T20:18:00+00:00",
+    "text": "Julie Allemand passed Rita Williams for #165 all-time in assists (career 404) \u2014 up from #167 entering today \u2014 (6:29 - 3rd \u2014 CHI @ TOR)",
+    "kind": "rank_pass",
+    "player": "Julie Allemand",
+    "stat": "assists",
+    "rank": 165,
+    "passed_players": [
+      "Rita Williams"
+    ],
+    "new_total": 404
+  },
+  {
     "ts": "2026-06-07T20:15:00+00:00",
     "text": "Nyara Sabally reached 300 career rebounds (now 300) \u2014 (7:44 - 3rd \u2014 CHI @ TOR)",
     "kind": "round",
@@ -2968,17 +2980,5 @@
       "Nicole Ohlde"
     ],
     "new_total": 632
-  },
-  {
-    "ts": "2026-06-05T02:16:00+00:00",
-    "text": "Gabby Williams passed Charlotte Smith for #171 all-time in rebounds (career 795) \u2014 up from #172 entering today \u2014 (6:17 - 3rd \u2014 GS @ MIN)",
-    "kind": "rank_pass",
-    "player": "Gabby Williams",
-    "stat": "rebounds",
-    "rank": 171,
-    "passed_players": [
-      "Charlotte Smith"
-    ],
-    "new_total": 795
   }
 ]

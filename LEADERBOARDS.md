@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-07 20:17 UTC_
+_Last updated: 2026-06-07 20:18 UTC_
 
 ## Contents
 
@@ -40,7 +40,7 @@ _Last updated: 2026-06-07 20:17 UTC_
 | 19 | A'ja Wilson | 5,942 |
 | 20 | Becky Hammon | 5,816 |
 | 21 | Angel McCoughtry | 5,797 |
-| 22 | **Skylar Diggins** 🔴 +3 | 5,629 |
+| 22 | **Skylar Diggins** 🔴 +4 | 5,630 |
 | 23 | DeLisha Milton-Jones | 5,571 |
 | 24 | Katie Douglas | 5,545 |
 | 25 | Kayla McBride | 5,522 |
@@ -83,7 +83,7 @@ _Last updated: 2026-06-07 20:17 UTC_
 | 62 | Allie Quigley | 3,786 |
 | 63 | Chasity Melvin | 3,781 |
 | 64 | Kara Lawson | 3,670 |
-| 65 | **Brittney Sykes** 🔴 +12 | 3,633 |
+| 65 | **Brittney Sykes** 🔴 +14 | 3,635 |
 | 66 | Mwadi Mabika | 3,576 |
 | 67 | Odyssey Sims | 3,574 |
 | 68 | Camille Smith | 3,551 |
@@ -154,7 +154,7 @@ _Last updated: 2026-06-07 20:17 UTC_
 | 133 | Merlakia Jones | 2,308 |
 | 134 | Kia Vaughn | 2,288 |
 | 135 | Betnijah Laney-Hamilton | 2,282 |
-| 136 | **Azurá Stevens** 🔴 +14 | 2,273 |
+| 136 | **Azurá Stevens** 🔴 +16 | 2,275 |
 | 137 | Allison Feaster | 2,258 |
 | 138 | Shekinna Stricklen | 2,245 |
 | 139 | Jordin Canada | 2,237 |
@@ -437,7 +437,7 @@ _Last updated: 2026-06-07 20:17 UTC_
 | 6 | Chelsea Gray | 1,935 |
 | 7 | Alyssa Thomas | 1,903 |
 | 8 | **Skylar Diggins** 🔴 +2 | 1,814 |
-| 9 | **Natasha Cloud** 🔴 +2 | 1,774 |
+| 9 | **Natasha Cloud** 🔴 +3 | 1,775 |
 | 10 | Becky Hammon | 1,705 |
 | 11 | Candace Parker | 1,634 |
 | 12 | Cappie Pondexter | 1,575 |
@@ -500,7 +500,7 @@ _Last updated: 2026-06-07 20:17 UTC_
 | 69 | Andrea Stinson | 810 |
 | 70 | Tina Thompson | 803 |
 | 71 | Epiphanny Prince | 800 |
-| 72 | **Marina Mabrey** 🔴 +3 | 775 |
+| 72 | **Marina Mabrey** 🔴 +4 | 776 |
 | 73 | Mwadi Mabika | 774 |
 | 74 | Sheri Sam | 745 |
 | 75 | Allisha Gray | 743 |
@@ -593,8 +593,8 @@ _Last updated: 2026-06-07 20:17 UTC_
 | 162 | Jamierra Faulkner | 410 |
 | 162 | Murriel Page | 410 |
 | 164 | Allison Feaster | 406 |
-| 165 | **Julie Allemand** 🔴 +2 | 403 |
-| 165 | Rita Williams | 403 |
+| 165 | **Julie Allemand** 🔴 +3 | 404 |
+| 166 | Rita Williams | 403 |
 | 167 | **Kia Nurse** 🔴 | 402 |
 | 168 | Marissa Coleman | 399 |
 | 169 | Aliyah Boston | 398 |
@@ -1541,7 +1541,7 @@ _Last updated: 2026-06-07 20:17 UTC_
 | 85 | Tan White | 698 |
 | 86 | Katie Douglas | 697 |
 | 87 | Danielle Robinson | 692 |
-| 88 | **Brittney Sykes** 🔴 +1 | 688 |
+| 88 | **Brittney Sykes** 🔴 +2 | 689 |
 | 89 | Sophia Young-Malcolm | 687 |
 | 90 | Maya Moore | 686 |
 | 91 | Jasmine Thomas | 685 |

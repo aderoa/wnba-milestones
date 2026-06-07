@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-07 20:18 UTC
+
+- **Julie Allemand** passed **Rita Williams** for **#165** all-time in assists (career 404) — up from #167 entering today — _6:29 - 3rd — CHI @ TOR_
+
 ## 2026-06-07 20:15 UTC
 
 - **Nyara Sabally** reached **300** career rebounds (now 300) — _7:44 - 3rd — CHI @ TOR_
