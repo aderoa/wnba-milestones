@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-07 23:06 UTC_
+_Last updated: 2026-06-07 23:08 UTC_
 
 ## Contents
 
@@ -1467,7 +1467,7 @@ _Last updated: 2026-06-07 23:06 UTC_
 | 11 | Chasity Melvin | 1,165 |
 | 12 | Camille Smith | 1,159 |
 | 13 | Alana Beard | 1,153 |
-| 14 | **Nneka Ogwumike** 🔴 | 1,148 |
+| 14 | **Nneka Ogwumike** 🔴 +1 | 1,149 |
 | 15 | Swin Cash | 1,146 |
 | 16 | Taj McWilliams-Franklin | 1,145 |
 | 17 | Monique Currie | 1,137 |
