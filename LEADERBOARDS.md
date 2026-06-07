@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-07 20:39 UTC_
+_Last updated: 2026-06-07 20:40 UTC_
 
 ## Contents
 
@@ -328,7 +328,7 @@ _Last updated: 2026-06-07 20:39 UTC_
 | 101 | Tanisha Wright | 1,190 |
 | 103 | Vicky Bullett | 1,189 |
 | 104 | Kahleah Copper | 1,171 |
-| 105 | **Brittney Sykes** 🔴 +4 | 1,149 |
+| 105 | **Brittney Sykes** 🔴 +5 | 1,150 |
 | 106 | Nykesha Sales | 1,148 |
 | 107 | Shannon Johnson | 1,143 |
 | 108 | Adrian Williams-Strong | 1,131 |
