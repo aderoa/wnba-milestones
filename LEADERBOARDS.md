@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-07 19:13 UTC_
+_Last updated: 2026-06-07 19:14 UTC_
 
 ## Contents
 
@@ -111,7 +111,7 @@ _Last updated: 2026-06-07 19:13 UTC_
 | 90 | Wendy Palmer | 3,135 |
 | 91 | Shavonte Zellous | 3,103 |
 | 92 | Briann January | 3,082 |
-| 93 | **Marina Mabrey** 🔴 | 3,052 |
+| 93 | **Marina Mabrey** 🔴 +3 | 3,055 |
 | 94 | Erika de Souza | 3,046 |
 | 95 | Sabrina Ionescu | 3,041 |
 | 96 | Shameka Christon | 3,039 |
@@ -197,9 +197,9 @@ _Last updated: 2026-06-07 19:13 UTC_
 | 176 | Natisha Hiedeman | 1,858 |
 | 177 | **Isabelle Harrison** 🔴 | 1,832 |
 | 178 | Damiris Dantas | 1,830 |
-| 179 | Tianna Hawkins | 1,825 |
-| 180 | Noelle Quinn | 1,824 |
-| 181 | **Rachel Banham** 🔴 | 1,823 |
+| 179 | **Rachel Banham** 🔴 +3 | 1,826 |
+| 180 | Tianna Hawkins | 1,825 |
+| 181 | Noelle Quinn | 1,824 |
 | 182 | Danielle Adams | 1,820 |
 | 183 | Charde Houston | 1,797 |
 | 184 | NaLyssa Smith | 1,775 |
@@ -336,8 +336,8 @@ _Last updated: 2026-06-07 19:13 UTC_
 | 109 | Tamika Raymond | 1,127 |
 | 111 | Adrienne Goodson | 1,126 |
 | 112 | NaLyssa Smith | 1,115 |
-| 113 | Deanna Nolan | 1,112 |
-| 113 | **Natasha Cloud** 🔴 | 1,112 |
+| 113 | **Natasha Cloud** 🔴 +1 | 1,113 |
+| 114 | Deanna Nolan | 1,112 |
 | 115 | Aliyah Boston | 1,110 |
 | 115 | Chiney Ogwumike | 1,110 |
 | 117 | Becky Hammon | 1,108 |
@@ -382,7 +382,7 @@ _Last updated: 2026-06-07 19:13 UTC_
 | 156 | Alanna Smith | 864 |
 | 157 | Krystal Thomas | 862 |
 | 158 | Nia Coffey | 854 |
-| 159 | **Marina Mabrey** 🔴 | 849 |
+| 159 | **Marina Mabrey** 🔴 +2 | 851 |
 | 160 | Leilani Mitchell | 845 |
 | 161 | Essence Carson | 833 |
 | 162 | Kristi Toliver | 829 |
@@ -437,7 +437,7 @@ _Last updated: 2026-06-07 19:13 UTC_
 | 6 | Chelsea Gray | 1,935 |
 | 7 | Alyssa Thomas | 1,903 |
 | 8 | **Skylar Diggins** 🔴 | 1,812 |
-| 9 | **Natasha Cloud** 🔴 | 1,772 |
+| 9 | **Natasha Cloud** 🔴 +1 | 1,773 |
 | 10 | Becky Hammon | 1,705 |
 | 11 | Candace Parker | 1,634 |
 | 12 | Cappie Pondexter | 1,575 |
@@ -493,8 +493,8 @@ _Last updated: 2026-06-07 19:13 UTC_
 | 62 | Taj McWilliams-Franklin | 879 |
 | 63 | Noelle Quinn | 878 |
 | 64 | Lisa Leslie | 873 |
-| 65 | **Brittney Sykes** 🔴 +1 | 853 |
-| 65 | Tully Bevilaqua | 853 |
+| 65 | **Brittney Sykes** 🔴 +2 | 854 |
+| 66 | Tully Bevilaqua | 853 |
 | 67 | Jia Perkins | 837 |
 | 68 | Kelsey Mitchell | 821 |
 | 69 | Andrea Stinson | 810 |
@@ -1067,7 +1067,7 @@ _Last updated: 2026-06-07 19:13 UTC_
 | 21 | Allie Quigley | 510 |
 | 22 | Leilani Mitchell | 508 |
 | 23 | Shekinna Stricklen | 468 |
-| 24 | **Marina Mabrey** 🔴 | 465 |
+| 24 | **Marina Mabrey** 🔴 +1 | 466 |
 | 25 | Cappie Pondexter | 464 |
 | 26 | Sabrina Ionescu | 462 |
 | 27 | Breanna Stewart | 460 |
@@ -1087,7 +1087,7 @@ _Last updated: 2026-06-07 19:13 UTC_
 | 40 | Rhyne Howard | 394 |
 | 42 | Roneeka Hodges | 389 |
 | 43 | Courtney Vandersloot | 385 |
-| 44 | **Rachel Banham** 🔴 | 384 |
+| 43 | **Rachel Banham** 🔴 +1 | 385 |
 | 45 | Briann January | 381 |
 | 46 | Jasmine Thomas | 376 |
 | 47 | Allison Feaster | 372 |

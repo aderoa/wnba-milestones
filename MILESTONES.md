@@ -2,6 +2,12 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-07 19:14 UTC
+
+- **Natasha Cloud** passed **Deanna Nolan** for **#113** all-time in rebounds (career 1,113) — up from #114 entering today — _4:22 - 1st — CHI @ TOR_
+- **Nyara Sabally** reached **400** career points (now 400) — _4:22 - 1st — CHI @ TOR_
+- **Brittney Sykes** passed **Tully Bevilaqua** for **#65** all-time in assists (career 854) — up from #66 entering today — _4:22 - 1st — CHI @ TOR_
+
 ## 2026-06-07 02:15 UTC
 
 - **Breanna Stewart** reached **6,200** career points (now 6,200) — _50.9 - 4th — IND @ NY_

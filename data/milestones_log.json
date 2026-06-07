@@ -1,5 +1,38 @@
 [
   {
+    "ts": "2026-06-07T19:14:00+00:00",
+    "text": "Natasha Cloud passed Deanna Nolan for #113 all-time in rebounds (career 1,113) \u2014 up from #114 entering today \u2014 (4:22 - 1st \u2014 CHI @ TOR)",
+    "kind": "rank_pass",
+    "player": "Natasha Cloud",
+    "stat": "rebounds",
+    "rank": 113,
+    "passed_players": [
+      "Deanna Nolan"
+    ],
+    "new_total": 1113
+  },
+  {
+    "ts": "2026-06-07T19:14:00+00:00",
+    "text": "Nyara Sabally reached 400 career points (now 400) \u2014 (4:22 - 1st \u2014 CHI @ TOR)",
+    "kind": "round",
+    "player": "Nyara Sabally",
+    "stat": "points",
+    "value": 400,
+    "new_total": 400
+  },
+  {
+    "ts": "2026-06-07T19:14:00+00:00",
+    "text": "Brittney Sykes passed Tully Bevilaqua for #65 all-time in assists (career 854) \u2014 up from #66 entering today \u2014 (4:22 - 1st \u2014 CHI @ TOR)",
+    "kind": "rank_pass",
+    "player": "Brittney Sykes",
+    "stat": "assists",
+    "rank": 65,
+    "passed_players": [
+      "Tully Bevilaqua"
+    ],
+    "new_total": 854
+  },
+  {
     "ts": "2026-06-07T02:15:00+00:00",
     "text": "Breanna Stewart reached 6,200 career points (now 6,200) \u2014 (50.9 - 4th \u2014 IND @ NY)",
     "kind": "round",
@@ -2947,41 +2980,5 @@
       "Cheryl Ford"
     ],
     "new_total": 161
-  },
-  {
-    "ts": "2026-06-05T01:44:00+00:00",
-    "text": "Gabby Williams passed Napheesa Collier for #109 all-time in assists (career 571) \u2014 up from #110 entering today \u2014 (4:36 - 2nd \u2014 GS @ MIN)",
-    "kind": "rank_pass",
-    "player": "Gabby Williams",
-    "stat": "assists",
-    "rank": 109,
-    "passed_players": [
-      "Napheesa Collier"
-    ],
-    "new_total": 571
-  },
-  {
-    "ts": "2026-06-05T01:22:00+00:00",
-    "text": "Courtney Williams passed Yolanda Griffith for #54 all-time in points (career 4,225) \u2014 up from #55 entering today \u2014 (1:33 - 1st \u2014 GS @ MIN)",
-    "kind": "rank_pass",
-    "player": "Courtney Williams",
-    "stat": "points",
-    "rank": 54,
-    "passed_players": [
-      "Yolanda Griffith"
-    ],
-    "new_total": 4225
-  },
-  {
-    "ts": "2026-06-05T01:21:00+00:00",
-    "text": "Courtney Williams passed Vickie Johnson for #59 all-time in turnovers (career 661) \u2014 up from #60 entering today \u2014 (1:58 - 1st \u2014 GS @ MIN)",
-    "kind": "rank_pass",
-    "player": "Courtney Williams",
-    "stat": "turnovers",
-    "rank": 59,
-    "passed_players": [
-      "Vickie Johnson"
-    ],
-    "new_total": 661
   }
 ]
