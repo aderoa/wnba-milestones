@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-07 19:05 UTC_
+_Last updated: 2026-06-07 19:06 UTC_
 
 ## Contents
 
@@ -314,7 +314,7 @@ _Last updated: 2026-06-07 19:05 UTC_
 | 88 | Tari Phillips | 1,274 |
 | 89 | Janel McCarville | 1,261 |
 | 90 | Liz Cambage | 1,258 |
-| 91 | **Azurá Stevens** 🔴 | 1,256 |
+| 91 | **Azurá Stevens** 🔴 +1 | 1,257 |
 | 92 | Tiffany Hayes | 1,244 |
 | 93 | Ezi Magbegor | 1,243 |
 | 94 | Myisha Hines-Allen | 1,239 |
@@ -1443,7 +1443,7 @@ _Last updated: 2026-06-07 19:05 UTC_
 | 192 | Isabelle Harrison | 300 |
 | 193 | Crystal Robinson | 299 |
 | 194 | Michele Timms | 297 |
-| 195 | **Rachel Banham** 🔴 | 295 |
+| 195 | **Rachel Banham** 🔴 +1 | 296 |
 | 196 | Kayla Thornton | 294 |
 | 197 | **Azurá Stevens** 🔴 | 292 |
 | 198 | Natisha Hiedeman | 289 |
@@ -1632,7 +1632,7 @@ _Last updated: 2026-06-07 19:05 UTC_
 | 176 | Karima Christmas-Kelly | 494 |
 | 177 | Ann Wauters | 493 |
 | 177 | Riquna Williams | 493 |
-| 179 | **Rachel Banham** 🔴 | 490 |
+| 179 | **Rachel Banham** 🔴 +1 | 491 |
 | 180 | Charde Houston | 487 |
 | 181 | Lindsey Harding | 486 |
 | 182 | Cathrine Kraayeveld | 484 |
