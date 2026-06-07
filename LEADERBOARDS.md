@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-07 00:18 UTC_
+_Last updated: 2026-06-07 00:19 UTC_
 
 ## Contents
 
@@ -153,7 +153,7 @@ _Last updated: 2026-06-07 00:18 UTC_
 | 132 | Kayla Thornton | 2,343 |
 | 133 | Merlakia Jones | 2,308 |
 | 134 | Kia Vaughn | 2,288 |
-| 135 | Betnijah Laney-Hamilton | 2,282 |
+| 135 | **Betnijah Laney-Hamilton** 🔴 | 2,282 |
 | 136 | Azurá Stevens | 2,259 |
 | 137 | Allison Feaster | 2,258 |
 | 138 | Jordin Canada | 2,248 |
@@ -166,7 +166,7 @@ _Last updated: 2026-06-07 00:18 UTC_
 | 145 | Janel McCarville | 2,215 |
 | 146 | Sami Whitcomb | 2,211 |
 | 147 | Sophia Witherspoon | 2,210 |
-| 148 | Satou Sabally | 2,204 |
+| 148 | **Satou Sabally** 🔴 | 2,204 |
 | 149 | Ruthie Bolton | 2,175 |
 | 150 | Ann Wauters | 2,170 |
 | 151 | Layshia Clarendon | 2,168 |
@@ -206,7 +206,7 @@ _Last updated: 2026-06-07 00:18 UTC_
 | 185 | Kamila Vodichkova | 1,767 |
 | 186 | Tully Bevilaqua | 1,763 |
 | 187 | Sandy Brondello | 1,759 |
-| 188 | Sophie Cunningham | 1,752 |
+| 188 | **Sophie Cunningham** 🔴 | 1,752 |
 | 189 | Gabby Williams | 1,750 |
 | 190 | Sugar Rodgers | 1,733 |
 | 191 | Moriah Jefferson | 1,722 |
@@ -370,7 +370,7 @@ _Last updated: 2026-06-07 00:18 UTC_
 | 144 | Angel Reese | 940 |
 | 145 | Jessica Shepard | 927 |
 | 145 | Merlakia Jones | 927 |
-| 147 | Satou Sabally | 926 |
+| 147 | **Satou Sabally** 🔴 | 926 |
 | 148 | Nicky Anosike | 922 |
 | 149 | Janeth Arcain | 916 |
 | 150 | Karima Christmas-Kelly | 908 |
@@ -394,7 +394,7 @@ _Last updated: 2026-06-07 00:18 UTC_
 | 168 | Carolyn Swords | 814 |
 | 169 | Gabby Williams | 801 |
 | 170 | Tierra Ruffin-Pratt | 799 |
-| 171 | Betnijah Laney-Hamilton | 795 |
+| 171 | **Betnijah Laney-Hamilton** 🔴 | 795 |
 | 172 | Charlotte Smith | 794 |
 | 173 | Rhonda Mapp | 788 |
 | 174 | Ariel Atkins | 786 |
@@ -534,7 +534,7 @@ _Last updated: 2026-06-07 00:18 UTC_
 | 103 | Sancho Lyttle | 592 |
 | 104 | Camille Smith | 590 |
 | 105 | Armintie Herrington | 589 |
-| 106 | Betnijah Laney-Hamilton | 585 |
+| 106 | **Betnijah Laney-Hamilton** 🔴 | 585 |
 | 107 | Tan White | 578 |
 | 108 | Matee Ajavon | 577 |
 | 109 | Gabby Williams | 573 |
@@ -568,7 +568,7 @@ _Last updated: 2026-06-07 00:18 UTC_
 | 137 | Elizabeth Williams | 467 |
 | 138 | Erin Phillips | 462 |
 | 139 | Sylvia Fowles | 461 |
-| 140 | Satou Sabally | 456 |
+| 140 | **Satou Sabally** 🔴 | 456 |
 | 141 | Sydney Colson | 454 |
 | 141 | Tyasha Harris | 454 |
 | 143 | Yolanda Griffith | 451 |
@@ -828,7 +828,7 @@ _Last updated: 2026-06-07 00:18 UTC_
 | 192 | Mercedes Russell | 69 |
 | 192 | Rhonda Mapp | 69 |
 | 194 | Jackie Young | 68 |
-| 194 | Satou Sabally | 68 |
+| 194 | **Satou Sabally** 🔴 | 68 |
 | 196 | Shannon Johnson | 67 |
 | 197 | Crystal Robinson | 65 |
 | 197 | Queen Egbo | 65 |
@@ -1002,7 +1002,7 @@ _Last updated: 2026-06-07 00:18 UTC_
 | 160 | Tiffany Mitchell | 209 |
 | 162 | Kia Vaughn | 208 |
 | 162 | Sophia Witherspoon | 208 |
-| 164 | Betnijah Laney-Hamilton | 207 |
+| 164 | **Betnijah Laney-Hamilton** 🔴 | 207 |
 | 165 | Azurá Stevens | 205 |
 | 165 | Shameka Christon | 205 |
 | 167 | Jessica Breland | 204 |
@@ -1105,7 +1105,7 @@ _Last updated: 2026-06-07 00:18 UTC_
 | 59 | Anna DeForge | 334 |
 | 60 | Erica Wheeler | 329 |
 | 60 | Jackie Young | 329 |
-| 62 | Sophie Cunningham | 317 |
+| 62 | **Sophie Cunningham** 🔴 | 317 |
 | 62 | Sugar Rodgers | 317 |
 | 64 | Marissa Coleman | 315 |
 | 65 | Shannon Johnson | 313 |
@@ -1146,12 +1146,12 @@ _Last updated: 2026-06-07 00:18 UTC_
 | 100 | Elena Baranova | 224 |
 | 101 | Essence Carson | 223 |
 | 102 | Kelly Mazzante | 218 |
-| 102 | Satou Sabally | 218 |
+| 102 | **Satou Sabally** 🔴 | 218 |
 | 102 | Sheri Sam | 218 |
 | 105 | Damiris Dantas | 211 |
 | 105 | Erin Phillips | 211 |
 | 107 | Andrea Stinson | 207 |
-| 108 | Betnijah Laney-Hamilton | 204 |
+| 108 | **Betnijah Laney-Hamilton** 🔴 | 204 |
 | 109 | Lexie Brown | 203 |
 | 110 | Shanna Zolman | 199 |
 | 111 | Temeka Johnson | 197 |
@@ -1373,7 +1373,7 @@ _Last updated: 2026-06-07 00:18 UTC_
 | 122 | Ariel Atkins | 454 |
 | 122 | Kia Vaughn | 454 |
 | 124 | Janeth Arcain | 453 |
-| 125 | Betnijah Laney-Hamilton | 444 |
+| 125 | **Betnijah Laney-Hamilton** 🔴 | 444 |
 | 125 | Elena Baranova | 444 |
 | 125 | Jantel Lavender | 444 |
 | 128 | Jackie Young | 442 |
@@ -1424,7 +1424,7 @@ _Last updated: 2026-06-07 00:18 UTC_
 | 173 | Aerial Powers | 333 |
 | 173 | Diamond DeShields | 333 |
 | 175 | Charde Houston | 331 |
-| 176 | Satou Sabally | 330 |
+| 176 | **Satou Sabally** 🔴 | 330 |
 | 177 | Erlana Larkins | 326 |
 | 177 | Rita Williams | 326 |
 | 179 | **Caitlin Clark** 🔴 +1 | 325 |
@@ -1608,7 +1608,7 @@ _Last updated: 2026-06-07 00:18 UTC_
 | 151 | Epiphanny Prince | 525 |
 | 153 | Armintie Herrington | 523 |
 | 153 | Kayla McBride | 523 |
-| 153 | Sophie Cunningham | 523 |
+| 153 | **Sophie Cunningham** 🔴 | 523 |
 | 156 | Sheryl Swoopes | 519 |
 | 157 | **Monique Billings** 🔴 +1 | 518 |
 | 158 | Nikki McCray | 517 |
@@ -1653,4 +1653,4 @@ _Last updated: 2026-06-07 00:18 UTC_
 | 197 | Kara Lawson | 457 |
 | 197 | NaLyssa Smith | 457 |
 | 199 | Alexis Hornbuckle | 450 |
-| 199 | Satou Sabally | 450 |
+| 199 | **Satou Sabally** 🔴 | 450 |
