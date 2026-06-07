@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-07T01:30:00+00:00",
+    "text": "Satou Sabally passed Charde Houston for #175 all-time in turnovers (career 332) \u2014 up from #176 entering today \u2014 (3:17 - 3rd \u2014 IND @ NY)",
+    "kind": "rank_pass",
+    "player": "Satou Sabally",
+    "stat": "turnovers",
+    "rank": 175,
+    "passed_players": [
+      "Charde Houston"
+    ],
+    "new_total": 332
+  },
+  {
     "ts": "2026-06-07T01:25:00+00:00",
     "text": "Satou Sabally passed Sami Whitcomb and Sophia Witherspoon for #146 all-time in points (career 2,212) \u2014 up from #148 entering today \u2014 (4:39 - 3rd \u2014 IND @ NY)",
     "kind": "rank_pass",
@@ -2967,17 +2979,5 @@
       "Cathrine Kraayeveld"
     ],
     "new_total": 1927
-  },
-  {
-    "ts": "2026-06-05T01:00:00+00:00",
-    "text": "Jordin Canada passed Ariel Atkins for #55 all-time in steals (career 380) \u2014 up from #56 entering today \u2014 (3:30 - 4th \u2014 ATL @ IND)",
-    "kind": "rank_pass",
-    "player": "Jordin Canada",
-    "stat": "steals",
-    "rank": 55,
-    "passed_players": [
-      "Ariel Atkins"
-    ],
-    "new_total": 380
   }
 ]

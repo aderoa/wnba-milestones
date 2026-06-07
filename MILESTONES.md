@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-07 01:30 UTC
+
+- **Satou Sabally** passed **Charde Houston** for **#175** all-time in turnovers (career 332) — up from #176 entering today — _3:17 - 3rd — IND @ NY_
+
 ## 2026-06-07 01:25 UTC
 
 - **Satou Sabally** passed **Sami Whitcomb** and **Sophia Witherspoon** for **#146** all-time in points (career 2,212) — up from #148 entering today — _4:39 - 3rd — IND @ NY_
