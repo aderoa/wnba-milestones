@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-07T19:43:00+00:00",
+    "text": "Kia Nurse passed Azur\u00e1 Stevens for #190 all-time in fouls (career 475) \u2014 up from #191 entering today \u2014 (2:49 - 2nd \u2014 CHI @ TOR)",
+    "kind": "rank_pass",
+    "player": "Kia Nurse",
+    "stat": "fouls",
+    "rank": 190,
+    "passed_players": [
+      "Azur\u00e1 Stevens"
+    ],
+    "new_total": 475
+  },
+  {
     "ts": "2026-06-07T19:33:00+00:00",
     "text": "Julie Allemand passed Kia Nurse for #166 all-time in assists (career 403) \u2014 up from #167 entering today \u2014 (6:51 - 2nd \u2014 CHI @ TOR)",
     "kind": "rank_pass",
@@ -2968,17 +2980,5 @@
       "Jia Perkins"
     ],
     "new_total": 1221
-  },
-  {
-    "ts": "2026-06-05T01:49:00+00:00",
-    "text": "Gabby Williams passed Moriah Jefferson for #190 all-time in points (career 1,723) \u2014 up from #191 entering today \u2014 (2:26 - 2nd \u2014 GS @ MIN)",
-    "kind": "rank_pass",
-    "player": "Gabby Williams",
-    "stat": "points",
-    "rank": 190,
-    "passed_players": [
-      "Moriah Jefferson"
-    ],
-    "new_total": 1723
   }
 ]
