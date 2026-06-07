@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-07T00:33:00+00:00",
+    "text": "Jonquel Jones passed Yolanda Griffith for #55 all-time in points (career 4,225) \u2014 up from #56 entering today \u2014 (8:10 - 2nd \u2014 IND @ NY)",
+    "kind": "rank_pass",
+    "player": "Jonquel Jones",
+    "stat": "points",
+    "rank": 55,
+    "passed_players": [
+      "Yolanda Griffith"
+    ],
+    "new_total": 4225
+  },
+  {
     "ts": "2026-06-07T00:31:00+00:00",
     "text": "Breanna Stewart passed Andrea Stinson for #82 all-time in turnovers (career 572) \u2014 up from #83 entering today \u2014 (8:30 - 2nd \u2014 IND @ NY)",
     "kind": "rank_pass",
@@ -2966,18 +2978,5 @@
       "Jantel Lavender"
     ],
     "new_total": 515
-  },
-  {
-    "ts": "2026-06-05T00:51:00+00:00",
-    "text": "Myisha Hines-Allen passed Adrienne Goodson and Janeth Arcain for #161 all-time in fouls (career 513) \u2014 up from #164 entering today \u2014 (4:39 - 4th \u2014 ATL @ IND)",
-    "kind": "rank_pass",
-    "player": "Myisha Hines-Allen",
-    "stat": "fouls",
-    "rank": 161,
-    "passed_players": [
-      "Adrienne Goodson",
-      "Janeth Arcain"
-    ],
-    "new_total": 513
   }
 ]

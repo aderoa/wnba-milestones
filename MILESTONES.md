@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-07 00:33 UTC
+
+- **Jonquel Jones** passed **Yolanda Griffith** for **#55** all-time in points (career 4,225) — up from #56 entering today — _8:10 - 2nd — IND @ NY_
+
 ## 2026-06-07 00:31 UTC
 
 - **Breanna Stewart** passed **Andrea Stinson** for **#82** all-time in turnovers (career 572) — up from #83 entering today — _8:30 - 2nd — IND @ NY_
