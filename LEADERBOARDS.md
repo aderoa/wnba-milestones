@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-07 23:13 UTC_
+_Last updated: 2026-06-07 23:14 UTC_
 
 ## Contents
 
@@ -804,7 +804,7 @@ _Last updated: 2026-06-07 23:13 UTC_
 | 168 | Kara Wolters | 77 |
 | 168 | Noelle Quinn | 77 |
 | 168 | Tierra Ruffin-Pratt | 77 |
-| 171 | Cameron Brink | 76 |
+| 171 | **Cameron Brink** 🔴 | 76 |
 | 171 | Jennifer Lacy | 76 |
 | 171 | Stephanie Talbot | 76 |
 | 171 | Sugar Rodgers | 76 |
