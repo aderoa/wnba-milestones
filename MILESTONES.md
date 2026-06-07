@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-07 00:24 UTC
+
+- **Myisha Hines-Allen** passed **Ticha Penicheiro** for **#170** all-time in three-pointers (career 129) — _36.4 - 1st — IND @ NY_
+
 ## 2026-06-07 00:20 UTC
 
 - **Monique Billings** passed **Shatori Walker-Kimbrough** for **#197** all-time in points (career 1,545) — up from #198 entering today — _2:53 - 1st — IND @ NY_

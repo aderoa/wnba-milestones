@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-07T00:24:00+00:00",
+    "text": "Myisha Hines-Allen passed Ticha Penicheiro for #170 all-time in three-pointers (career 129) \u2014 (36.4 - 1st \u2014 IND @ NY)",
+    "kind": "rank_pass",
+    "player": "Myisha Hines-Allen",
+    "stat": "three-pointers",
+    "rank": 170,
+    "passed_players": [
+      "Ticha Penicheiro"
+    ],
+    "new_total": 129
+  },
+  {
     "ts": "2026-06-07T00:20:00+00:00",
     "text": "Monique Billings passed Shatori Walker-Kimbrough for #197 all-time in points (career 1,545) \u2014 up from #198 entering today \u2014 (2:53 - 1st \u2014 IND @ NY)",
     "kind": "rank_pass",
@@ -2967,17 +2979,5 @@
       "Nicky Anosike"
     ],
     "new_total": 923
-  },
-  {
-    "ts": "2026-06-05T00:43:00+00:00",
-    "text": "Angel Reese passed Satou Sabally for #146 all-time in rebounds (career 922) \u2014 up from #148 entering today \u2014 (6:39 - 4th \u2014 ATL @ IND)",
-    "kind": "rank_pass",
-    "player": "Angel Reese",
-    "stat": "rebounds",
-    "rank": 146,
-    "passed_players": [
-      "Satou Sabally"
-    ],
-    "new_total": 922
   }
 ]

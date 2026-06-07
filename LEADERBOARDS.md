@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-07 00:23 UTC_
+_Last updated: 2026-06-07 00:24 UTC_
 
 ## Contents
 
@@ -187,10 +187,10 @@ _Last updated: 2026-06-07 00:23 UTC_
 | 166 | **Aliyah Boston** 🔴 +6 | 1,934 |
 | 167 | Cathrine Kraayeveld | 1,926 |
 | 168 | Roneeka Hodges | 1,925 |
-| 169 | Latasha Byears | 1,920 |
-| 170 | Karima Christmas-Kelly | 1,919 |
-| 171 | Jessica Breland | 1,918 |
-| 171 | **Myisha Hines-Allen** 🔴 | 1,918 |
+| 169 | **Myisha Hines-Allen** 🔴 +3 | 1,921 |
+| 170 | Latasha Byears | 1,920 |
+| 171 | Karima Christmas-Kelly | 1,919 |
+| 172 | Jessica Breland | 1,918 |
 | 173 | Nakia Sanford | 1,915 |
 | 174 | Ebony Hoffman | 1,909 |
 | 175 | Candice Wiggins | 1,901 |
@@ -206,7 +206,7 @@ _Last updated: 2026-06-07 00:23 UTC_
 | 185 | Kamila Vodichkova | 1,767 |
 | 186 | Tully Bevilaqua | 1,763 |
 | 187 | Sandy Brondello | 1,759 |
-| 188 | **Sophie Cunningham** 🔴 | 1,752 |
+| 188 | **Sophie Cunningham** 🔴 +2 | 1,754 |
 | 189 | Gabby Williams | 1,750 |
 | 190 | Sugar Rodgers | 1,733 |
 | 191 | Moriah Jefferson | 1,722 |
@@ -294,7 +294,7 @@ _Last updated: 2026-06-07 00:23 UTC_
 | 68 | Tamera Young | 1,433 |
 | 69 | Alana Beard | 1,420 |
 | 70 | Nakia Sanford | 1,419 |
-| 71 | **Monique Billings** 🔴 +3 | 1,388 |
+| 71 | **Monique Billings** 🔴 +4 | 1,389 |
 | 72 | Kara Braxton | 1,387 |
 | 73 | Allisha Gray | 1,385 |
 | 74 | Courtney Vandersloot | 1,383 |
@@ -1212,8 +1212,8 @@ _Last updated: 2026-06-07 00:23 UTC_
 | 166 | Amanda Zahui B | 130 |
 | 166 | Eva Nemcova | 130 |
 | 168 | Crystal Dangerfield | 129 |
-| 169 | **Myisha Hines-Allen** 🔴 | 128 |
-| 169 | Ticha Penicheiro | 128 |
+| 168 | **Myisha Hines-Allen** 🔴 +1 | 129 |
+| 170 | Ticha Penicheiro | 128 |
 | 171 | Michele Timms | 127 |
 | 172 | Tamecka Dixon | 126 |
 | 173 | Charde Houston | 124 |
