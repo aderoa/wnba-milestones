@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-07 19:12 UTC_
+_Last updated: 2026-06-07 19:13 UTC_
 
 ## Contents
 
@@ -118,7 +118,7 @@ _Last updated: 2026-06-07 19:12 UTC_
 | 97 | Marie Ferdinand-Harris | 3,001 |
 | 98 | Emma Meesseman | 2,966 |
 | 99 | **Natasha Cloud** 🔴 | 2,952 |
-| 100 | Elizabeth Williams | 2,896 |
+| 100 | **Elizabeth Williams** 🔴 | 2,896 |
 | 101 | Natalie Williams | 2,894 |
 | 102 | Jennifer Gillom | 2,888 |
 | 103 | Iziane Castro Marques | 2,862 |
@@ -195,7 +195,7 @@ _Last updated: 2026-06-07 19:12 UTC_
 | 174 | Ebony Hoffman | 1,909 |
 | 175 | Candice Wiggins | 1,901 |
 | 176 | Natisha Hiedeman | 1,858 |
-| 177 | Isabelle Harrison | 1,832 |
+| 177 | **Isabelle Harrison** 🔴 | 1,832 |
 | 178 | Damiris Dantas | 1,830 |
 | 179 | Tianna Hawkins | 1,825 |
 | 180 | Noelle Quinn | 1,824 |
@@ -256,7 +256,7 @@ _Last updated: 2026-06-07 19:12 UTC_
 | 30 | Chamique Holdsclaw | 2,123 |
 | 31 | Chasity Melvin | 2,097 |
 | 32 | Tammy Sutton-Brown | 2,010 |
-| 33 | Elizabeth Williams | 1,952 |
+| 33 | **Elizabeth Williams** 🔴 | 1,952 |
 | 34 | Cheryl Ford | 1,907 |
 | 35 | Plenette Pierson | 1,834 |
 | 36 | Natalie Williams | 1,832 |
@@ -344,7 +344,7 @@ _Last updated: 2026-06-07 19:12 UTC_
 | 118 | Ann Wauters | 1,105 |
 | 119 | Svetlana Abrosimova | 1,078 |
 | 120 | Le'coe Willingham | 1,054 |
-| 121 | Isabelle Harrison | 1,049 |
+| 121 | **Isabelle Harrison** 🔴 | 1,049 |
 | 122 | Jackie Young | 1,044 |
 | 123 | Nicole Ohlde | 1,040 |
 | 124 | Tamecka Dixon | 1,035 |
@@ -565,7 +565,7 @@ _Last updated: 2026-06-07 19:12 UTC_
 | 134 | Kahleah Copper | 484 |
 | 135 | Ukari Figgs | 470 |
 | 136 | Janeth Arcain | 469 |
-| 137 | Elizabeth Williams | 467 |
+| 137 | **Elizabeth Williams** 🔴 | 467 |
 | 138 | Erin Phillips | 462 |
 | 139 | Sylvia Fowles | 461 |
 | 140 | Satou Sabally | 456 |
@@ -644,7 +644,7 @@ _Last updated: 2026-06-07 19:12 UTC_
 | 8 | Tammy Sutton-Brown | 555 |
 | 9 | Tangela Smith | 554 |
 | 10 | Ruth Riley | 505 |
-| 11 | Elizabeth Williams | 493 |
+| 11 | **Elizabeth Williams** 🔴 | 493 |
 | 12 | Taj McWilliams-Franklin | 443 |
 | 13 | Breanna Stewart | 436 |
 | 14 | Tina Charles | 428 |
@@ -771,7 +771,7 @@ _Last updated: 2026-06-07 19:12 UTC_
 | 135 | Aneika Morello | 96 |
 | 135 | Tiffani Johnson | 96 |
 | 137 | Imani McGee-Stafford | 95 |
-| 137 | Isabelle Harrison | 95 |
+| 137 | **Isabelle Harrison** 🔴 | 95 |
 | 139 | Jewell Loyd | 94 |
 | 139 | NaLyssa Smith | 94 |
 | 139 | Sandrine Gruda | 94 |
@@ -938,7 +938,7 @@ _Last updated: 2026-06-07 19:12 UTC_
 | 97 | Kedra Holland-Corn | 301 |
 | 98 | Lindsey Harding | 295 |
 | 99 | Janel McCarville | 294 |
-| 100 | Elizabeth Williams | 292 |
+| 100 | **Elizabeth Williams** 🔴 | 292 |
 | 101 | Kelly Miller | 290 |
 | 102 | Glory Johnson | 289 |
 | 103 | Essence Carson | 285 |
@@ -1027,7 +1027,7 @@ _Last updated: 2026-06-07 19:12 UTC_
 | 185 | Sabrina Ionescu | 182 |
 | 187 | Nakia Sanford | 181 |
 | 188 | Diamond DeShields | 180 |
-| 188 | Isabelle Harrison | 180 |
+| 188 | **Isabelle Harrison** 🔴 | 180 |
 | 190 | Bridget Pettis | 177 |
 | 190 | Monique Billings | 177 |
 | 192 | Brittany Boyd-Jones | 176 |
@@ -1401,7 +1401,7 @@ _Last updated: 2026-06-07 19:12 UTC_
 | 150 | Marissa Coleman | 396 |
 | 151 | Sophia Witherspoon | 386 |
 | 152 | Hamchetou Maiga-Ba | 385 |
-| 153 | Elizabeth Williams | 384 |
+| 153 | **Elizabeth Williams** 🔴 | 384 |
 | 154 | Kamila Vodichkova | 381 |
 | 155 | Myisha Hines-Allen | 380 |
 | 156 | Jessica Breland | 378 |
@@ -1440,7 +1440,7 @@ _Last updated: 2026-06-07 19:12 UTC_
 | 189 | Erin Perperoglou | 305 |
 | 189 | Jennifer Lacy | 305 |
 | 191 | Tianna Hawkins | 303 |
-| 192 | Isabelle Harrison | 300 |
+| 192 | **Isabelle Harrison** 🔴 | 300 |
 | 193 | Crystal Robinson | 299 |
 | 194 | Michele Timms | 297 |
 | 195 | **Rachel Banham** 🔴 +1 | 296 |
@@ -1531,7 +1531,7 @@ _Last updated: 2026-06-07 19:12 UTC_
 | 75 | Latasha Byears | 730 |
 | 76 | Allisha Gray | 726 |
 | 77 | Kristi Toliver | 722 |
-| 78 | Elizabeth Williams | 720 |
+| 78 | **Elizabeth Williams** 🔴 | 720 |
 | 79 | Ariel Atkins | 713 |
 | 79 | Cheryl Ford | 713 |
 | 81 | Jia Perkins | 711 |
@@ -1636,7 +1636,7 @@ _Last updated: 2026-06-07 19:12 UTC_
 | 180 | Charde Houston | 487 |
 | 181 | Lindsey Harding | 486 |
 | 182 | Cathrine Kraayeveld | 484 |
-| 182 | Isabelle Harrison | 484 |
+| 182 | **Isabelle Harrison** 🔴 | 484 |
 | 184 | Liz Cambage | 483 |
 | 184 | Rhonda Mapp | 483 |
 | 186 | Sami Whitcomb | 480 |
