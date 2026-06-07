@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-07 00:14 UTC_
+_Last updated: 2026-06-07 00:15 UTC_
 
 ## Contents
 
@@ -236,7 +236,7 @@ _Last updated: 2026-06-07 00:14 UTC_
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | Alyssa Thomas | 2,817 |
-| 13 | **Jonquel Jones** 🔴 +1 | 2,664 |
+| 13 | **Jonquel Jones** 🔴 +2 | 2,665 |
 | 14 | Sancho Lyttle | 2,596 |
 | 15 | A'ja Wilson | 2,588 |
 | 16 | DeLisha Milton-Jones | 2,574 |
@@ -295,7 +295,7 @@ _Last updated: 2026-06-07 00:14 UTC_
 | 69 | Alana Beard | 1,420 |
 | 70 | Nakia Sanford | 1,419 |
 | 71 | Kara Braxton | 1,387 |
-| 72 | **Monique Billings** 🔴 +1 | 1,386 |
+| 71 | **Monique Billings** 🔴 +2 | 1,387 |
 | 73 | **Allisha Gray** 🔴 +1 | 1,385 |
 | 74 | Courtney Vandersloot | 1,383 |
 | 74 | Katie Smith | 1,383 |
@@ -336,9 +336,9 @@ _Last updated: 2026-06-07 00:14 UTC_
 | 109 | Tamika Raymond | 1,127 |
 | 111 | Adrienne Goodson | 1,126 |
 | 112 | NaLyssa Smith | 1,121 |
-| 113 | **Aliyah Boston** 🔴 +2 | 1,112 |
 | 113 | Deanna Nolan | 1,112 |
 | 113 | Natasha Cloud | 1,112 |
+| 115 | **Aliyah Boston** 🔴 +1 | 1,111 |
 | 116 | Chiney Ogwumike | 1,110 |
 | 117 | Becky Hammon | 1,108 |
 | 118 | Ann Wauters | 1,105 |
@@ -525,7 +525,7 @@ _Last updated: 2026-06-07 00:14 UTC_
 | 94 | Asjha Jones | 637 |
 | 95 | Jennifer Azzi | 636 |
 | 96 | Natisha Hiedeman | 629 |
-| 97 | **Jonquel Jones** 🔴 | 625 |
+| 97 | **Jonquel Jones** 🔴 +1 | 626 |
 | 98 | Sami Whitcomb | 623 |
 | 99 | Alysha Clark | 616 |
 | 100 | Debbie Black | 612 |
