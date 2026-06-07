@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-07T20:14:00+00:00",
+    "text": "Brittney Sykes passed Sophia Young-Malcolm for #89 all-time in fouls (career 688) \u2014 (8:33 - 3rd \u2014 CHI @ TOR)",
+    "kind": "rank_pass",
+    "player": "Brittney Sykes",
+    "stat": "fouls",
+    "rank": 89,
+    "passed_players": [
+      "Sophia Young-Malcolm"
+    ],
+    "new_total": 688
+  },
+  {
     "ts": "2026-06-07T19:51:00+00:00",
     "text": "Marina Mabrey passed Mwadi Mabika for #72 all-time in assists (career 775) \u2014 up from #73 entering today \u2014 (0.4 - 2nd \u2014 CHI @ TOR)",
     "kind": "rank_pass",
@@ -2968,17 +2980,5 @@
     "stat": "turnovers",
     "value": 100,
     "new_total": 100
-  },
-  {
-    "ts": "2026-06-05T01:54:00+00:00",
-    "text": "Kayla McBride passed Chelsea Gray for #97 all-time in rebounds (career 1,222) \u2014 up from #99 entering today \u2014 (Halftime \u2014 GS @ MIN)",
-    "kind": "rank_pass",
-    "player": "Kayla McBride",
-    "stat": "rebounds",
-    "rank": 97,
-    "passed_players": [
-      "Chelsea Gray"
-    ],
-    "new_total": 1222
   }
 ]

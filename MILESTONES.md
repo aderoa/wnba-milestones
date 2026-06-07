@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-07 20:14 UTC
+
+- **Brittney Sykes** passed **Sophia Young-Malcolm** for **#89** all-time in fouls (career 688) — _8:33 - 3rd — CHI @ TOR_
+
 ## 2026-06-07 19:51 UTC
 
 - **Marina Mabrey** passed **Mwadi Mabika** for **#72** all-time in assists (career 775) — up from #73 entering today — _0.4 - 2nd — CHI @ TOR_
