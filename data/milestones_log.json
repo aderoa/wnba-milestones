@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-07T00:46:00+00:00",
+    "text": "Satou Sabally passed Alexis Hornbuckle for #199 all-time in fouls (career 451) \u2014 up from #200 entering today \u2014 (3:04 - 2nd \u2014 IND @ NY)",
+    "kind": "rank_pass",
+    "player": "Satou Sabally",
+    "stat": "fouls",
+    "rank": 199,
+    "passed_players": [
+      "Alexis Hornbuckle"
+    ],
+    "new_total": 451
+  },
+  {
     "ts": "2026-06-07T00:33:00+00:00",
     "text": "Jonquel Jones passed Yolanda Griffith for #55 all-time in points (career 4,225) \u2014 up from #56 entering today \u2014 (8:10 - 2nd \u2014 IND @ NY)",
     "kind": "rank_pass",
@@ -2966,17 +2978,5 @@
       "Kia Nurse"
     ],
     "new_total": 2233
-  },
-  {
-    "ts": "2026-06-05T00:52:00+00:00",
-    "text": "Myisha Hines-Allen passed Jantel Lavender for #160 all-time in fouls (career 515) \u2014 up from #164 entering today \u2014 (4:35 - 4th \u2014 ATL @ IND)",
-    "kind": "rank_pass",
-    "player": "Myisha Hines-Allen",
-    "stat": "fouls",
-    "rank": 160,
-    "passed_players": [
-      "Jantel Lavender"
-    ],
-    "new_total": 515
   }
 ]
