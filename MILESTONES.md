@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-07 00:01 UTC
+
+- **Te-Hina Paopao** reached **300** career points (now 300) — _5:17 - 4th — WSH @ ATL_
+
 ## 2026-06-06 23:59 UTC
 
 - **Sonia Citron** reached **200** career rebounds (now 200) — _6:36 - 4th — WSH @ ATL_

@@ -1,5 +1,14 @@
 [
   {
+    "ts": "2026-06-07T00:01:00+00:00",
+    "text": "Te-Hina Paopao reached 300 career points (now 300) \u2014 (5:17 - 4th \u2014 WSH @ ATL)",
+    "kind": "round",
+    "player": "Te-Hina Paopao",
+    "stat": "points",
+    "value": 300,
+    "new_total": 300
+  },
+  {
     "ts": "2026-06-06T23:59:00+00:00",
     "text": "Sonia Citron reached 200 career rebounds (now 200) \u2014 (6:36 - 4th \u2014 WSH @ ATL)",
     "kind": "round",
@@ -2970,14 +2979,5 @@
       "Nakia Sanford"
     ],
     "new_total": 1917
-  },
-  {
-    "ts": "2026-06-05T00:27:00+00:00",
-    "text": "Jordin Canada reached 1,200 career assists (now 1,200) \u2014 (2:50 - 3rd \u2014 ATL @ IND)",
-    "kind": "round",
-    "player": "Jordin Canada",
-    "stat": "assists",
-    "value": 1200,
-    "new_total": 1200
   }
 ]
