@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-07 20:57 UTC_
+_Last updated: 2026-06-07 20:58 UTC_
 
 ## Contents
 
@@ -117,7 +117,7 @@ _Last updated: 2026-06-07 20:57 UTC_
 | 96 | Shameka Christon | 3,039 |
 | 97 | Marie Ferdinand-Harris | 3,001 |
 | 98 | Emma Meesseman | 2,966 |
-| 99 | **Natasha Cloud** 🔴 +2 | 2,954 |
+| 99 | **Natasha Cloud** 🔴 +5 | 2,957 |
 | 100 | **Elizabeth Williams** 🔴 +4 | 2,900 |
 | 101 | Natalie Williams | 2,894 |
 | 102 | Jennifer Gillom | 2,888 |
@@ -564,8 +564,8 @@ _Last updated: 2026-06-07 20:57 UTC_
 | 133 | Rebekkah Brunson | 486 |
 | 134 | Kahleah Copper | 484 |
 | 135 | Ukari Figgs | 470 |
+| 136 | **Elizabeth Williams** 🔴 +2 | 469 |
 | 136 | Janeth Arcain | 469 |
-| 137 | **Elizabeth Williams** 🔴 +1 | 468 |
 | 138 | Erin Phillips | 462 |
 | 139 | Sylvia Fowles | 461 |
 | 140 | Satou Sabally | 456 |
@@ -938,7 +938,7 @@ _Last updated: 2026-06-07 20:57 UTC_
 | 97 | Kedra Holland-Corn | 301 |
 | 98 | Lindsey Harding | 295 |
 | 99 | Janel McCarville | 294 |
-| 100 | **Elizabeth Williams** 🔴 | 292 |
+| 100 | **Elizabeth Williams** 🔴 +1 | 293 |
 | 101 | Kelly Miller | 290 |
 | 102 | Glory Johnson | 289 |
 | 103 | Essence Carson | 285 |
@@ -1101,7 +1101,7 @@ _Last updated: 2026-06-07 20:57 UTC_
 | 54 | Elena Delle Donne | 343 |
 | 56 | Candace Parker | 342 |
 | 57 | Deanna Nolan | 340 |
-| 58 | **Natasha Cloud** 🔴 | 339 |
+| 57 | **Natasha Cloud** 🔴 +1 | 340 |
 | 59 | Anna DeForge | 334 |
 | 60 | Erica Wheeler | 329 |
 | 61 | Jackie Young | 323 |
@@ -1530,8 +1530,8 @@ _Last updated: 2026-06-07 20:57 UTC_
 | 74 | Becky Hammon | 733 |
 | 75 | Latasha Byears | 730 |
 | 76 | Allisha Gray | 726 |
-| 77 | **Elizabeth Williams** 🔴 +2 | 722 |
-| 77 | Kristi Toliver | 722 |
+| 77 | **Elizabeth Williams** 🔴 +3 | 723 |
+| 78 | Kristi Toliver | 722 |
 | 79 | Ariel Atkins | 713 |
 | 79 | Cheryl Ford | 713 |
 | 81 | Jia Perkins | 711 |
