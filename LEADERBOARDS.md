@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-07 00:34 UTC_
+_Last updated: 2026-06-07 00:35 UTC_
 
 ## Contents
 
@@ -32,7 +32,7 @@ _Last updated: 2026-06-07 00:34 UTC_
 | 11 | Katie Smith | 6,450 |
 | 12 | Sylvia Fowles | 6,413 |
 | 13 | Lisa Leslie | 6,251 |
-| 14 | **Breanna Stewart** 🔴 +3 | 6,176 |
+| 14 | **Breanna Stewart** 🔴 +5 | 6,178 |
 | 15 | Jewell Loyd | 6,083 |
 | 16 | Brittney Griner | 6,031 |
 | 17 | Lauren Jackson | 6,005 |
@@ -525,7 +525,7 @@ _Last updated: 2026-06-07 00:34 UTC_
 | 94 | Asjha Jones | 637 |
 | 95 | Jennifer Azzi | 636 |
 | 96 | Natisha Hiedeman | 629 |
-| 97 | **Jonquel Jones** 🔴 +1 | 626 |
+| 97 | **Jonquel Jones** 🔴 +2 | 627 |
 | 98 | Sami Whitcomb | 623 |
 | 99 | Alysha Clark | 616 |
 | 100 | Debbie Black | 612 |
@@ -1425,10 +1425,10 @@ _Last updated: 2026-06-07 00:34 UTC_
 | 173 | Diamond DeShields | 333 |
 | 175 | Charde Houston | 331 |
 | 176 | **Satou Sabally** 🔴 | 330 |
+| 177 | **Caitlin Clark** 🔴 +2 | 326 |
 | 177 | Erlana Larkins | 326 |
 | 177 | Rita Williams | 326 |
-| 179 | **Caitlin Clark** 🔴 +1 | 325 |
-| 179 | Le'coe Willingham | 325 |
+| 180 | Le'coe Willingham | 325 |
 | 181 | Olympia Scott | 324 |
 | 182 | Gabby Williams | 321 |
 | 183 | Kia Nurse | 316 |
