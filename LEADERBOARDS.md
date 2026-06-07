@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-07 23:08 UTC_
+_Last updated: 2026-06-07 23:09 UTC_
 
 ## Contents
 
@@ -23,7 +23,7 @@ _Last updated: 2026-06-07 23:08 UTC_
 | 2 | Tina Charles | 8,396 |
 | 3 | DeWanna Bonner | 7,910 |
 | 4 | Tina Thompson | 7,470 |
-| 5 | **Nneka Ogwumike** 🔴 +2 | 7,442 |
+| 5 | **Nneka Ogwumike** 🔴 +5 | 7,445 |
 | 6 | Tamika Catchings | 7,371 |
 | 7 | Candice Dupree | 6,861 |
 | 8 | Sue Bird | 6,802 |
@@ -228,7 +228,7 @@ _Last updated: 2026-06-07 23:08 UTC_
 | 2 | Sylvia Fowles | 4,005 |
 | 3 | Candace Parker | 3,467 |
 | 4 | Rebekkah Brunson | 3,345 |
-| 5 | **Nneka Ogwumike** 🔴 +2 | 3,339 |
+| 5 | **Nneka Ogwumike** 🔴 +3 | 3,340 |
 | 6 | Tamika Catchings | 3,313 |
 | 7 | Lisa Leslie | 3,303 |
 | 8 | DeWanna Bonner | 3,260 |
@@ -415,8 +415,8 @@ _Last updated: 2026-06-07 23:08 UTC_
 | 189 | Arike Ogunbowale | 748 |
 | 190 | Alex Montgomery | 735 |
 | 191 | Ashley Robinson | 734 |
-| 192 | **Kelsey Plum** 🔴 +1 | 729 |
-| 192 | Shenise Johnson | 729 |
+| 192 | **Kelsey Plum** 🔴 +2 | 730 |
+| 193 | Shenise Johnson | 729 |
 | 194 | Sami Whitcomb | 726 |
 | 194 | Shekinna Stricklen | 726 |
 | 196 | Olympia Scott | 711 |
@@ -514,7 +514,7 @@ _Last updated: 2026-06-07 23:08 UTC_
 | 83 | Moriah Jefferson | 685 |
 | 84 | Emma Meesseman | 681 |
 | 85 | Nykesha Sales | 677 |
-| 86 | **Ariel Atkins** 🔴 +1 | 665 |
+| 86 | **Ariel Atkins** 🔴 +2 | 666 |
 | 87 | Bria Hartley | 661 |
 | 88 | Lindsay Allen | 657 |
 | 89 | Betty Lennox | 651 |
@@ -1133,8 +1133,8 @@ _Last updated: 2026-06-07 23:08 UTC_
 | 86 | Rebecca Allen | 254 |
 | 88 | Bria Hartley | 253 |
 | 89 | Angel McCoughtry | 249 |
-| 90 | Erin Thorn | 243 |
-| 90 | **Nneka Ogwumike** 🔴 | 243 |
+| 90 | **Nneka Ogwumike** 🔴 +1 | 244 |
+| 91 | Erin Thorn | 243 |
 | 92 | Brittney Sykes | 242 |
 | 93 | Azurá Stevens | 241 |
 | 94 | Alex Bentley | 239 |
