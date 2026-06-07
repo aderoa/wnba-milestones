@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-07 01:28 UTC_
+_Last updated: 2026-06-07 01:29 UTC_
 
 ## Contents
 
@@ -549,8 +549,8 @@ _Last updated: 2026-06-07 01:28 UTC_
 | 118 | Michele Timms | 549 |
 | 119 | Veronica Burton | 540 |
 | 120 | Marie Ferdinand-Harris | 528 |
+| 121 | **Caitlin Clark** 🔴 +7 | 524 |
 | 121 | Margo Dydek | 524 |
-| 122 | **Caitlin Clark** 🔴 +6 | 523 |
 | 123 | **Myisha Hines-Allen** 🔴 | 520 |
 | 124 | Rhyne Howard | 511 |
 | 125 | Iziane Castro Marques | 509 |
