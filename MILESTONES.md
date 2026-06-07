@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-07 01:25 UTC
+
+- **Satou Sabally** passed **Sami Whitcomb** and **Sophia Witherspoon** for **#146** all-time in points (career 2,212) — up from #148 entering today — _4:39 - 3rd — IND @ NY_
+
 ## 2026-06-07 01:19 UTC
 
 - **Monique Billings** passed **Le'coe Willingham** for **#196** all-time in points (career 1,553) — up from #198 entering today — _7:13 - 3rd — IND @ NY_

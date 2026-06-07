@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-06-07T01:25:00+00:00",
+    "text": "Satou Sabally passed Sami Whitcomb and Sophia Witherspoon for #146 all-time in points (career 2,212) \u2014 up from #148 entering today \u2014 (4:39 - 3rd \u2014 IND @ NY)",
+    "kind": "rank_pass",
+    "player": "Satou Sabally",
+    "stat": "points",
+    "rank": 146,
+    "passed_players": [
+      "Sami Whitcomb",
+      "Sophia Witherspoon"
+    ],
+    "new_total": 2212
+  },
+  {
     "ts": "2026-06-07T01:19:00+00:00",
     "text": "Monique Billings passed Le'coe Willingham for #196 all-time in points (career 1,553) \u2014 up from #198 entering today \u2014 (7:13 - 3rd \u2014 IND @ NY)",
     "kind": "rank_pass",
@@ -2966,17 +2979,5 @@
       "Ariel Atkins"
     ],
     "new_total": 380
-  },
-  {
-    "ts": "2026-06-05T01:00:00+00:00",
-    "text": "Aliyah Boston passed Roneeka Hodges for #167 all-time in points (career 1,926) \u2014 up from #173 entering today \u2014 (3:30 - 4th \u2014 ATL @ IND)",
-    "kind": "rank_pass",
-    "player": "Aliyah Boston",
-    "stat": "points",
-    "rank": 167,
-    "passed_players": [
-      "Roneeka Hodges"
-    ],
-    "new_total": 1926
   }
 ]
