@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-07T01:49:00+00:00",
+    "text": "Lexie Hull passed Tonya Edwards for #178 all-time in three-pointers (career 119) \u2014 (8:56 - 4th \u2014 IND @ NY)",
+    "kind": "rank_pass",
+    "player": "Lexie Hull",
+    "stat": "three-pointers",
+    "rank": 178,
+    "passed_players": [
+      "Tonya Edwards"
+    ],
+    "new_total": 119
+  },
+  {
     "ts": "2026-06-07T01:48:00+00:00",
     "text": "Satou Sabally passed Janel McCarville for #145 all-time in points (career 2,216) \u2014 up from #148 entering today \u2014 (9:18 - 4th \u2014 IND @ NY)",
     "kind": "rank_pass",
@@ -2974,17 +2986,5 @@
       "Kayla McBride"
     ],
     "new_total": 523
-  },
-  {
-    "ts": "2026-06-05T01:13:00+00:00",
-    "text": "Kayla McBride passed Lindsay Whalen for #25 all-time in points (career 5,513) \u2014 up from #26 entering today \u2014 (4:59 - 1st \u2014 GS @ MIN)",
-    "kind": "rank_pass",
-    "player": "Kayla McBride",
-    "stat": "points",
-    "rank": 25,
-    "passed_players": [
-      "Lindsay Whalen"
-    ],
-    "new_total": 5513
   }
 ]

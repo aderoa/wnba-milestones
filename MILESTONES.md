@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-07 01:49 UTC
+
+- **Lexie Hull** passed **Tonya Edwards** for **#178** all-time in three-pointers (career 119) — _8:56 - 4th — IND @ NY_
+
 ## 2026-06-07 01:48 UTC
 
 - **Satou Sabally** passed **Janel McCarville** for **#145** all-time in points (career 2,216) — up from #148 entering today — _9:18 - 4th — IND @ NY_

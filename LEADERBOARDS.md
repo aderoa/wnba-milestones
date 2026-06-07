@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-07 01:48 UTC_
+_Last updated: 2026-06-07 01:49 UTC_
 
 ## Contents
 
@@ -163,7 +163,7 @@ _Last updated: 2026-06-07 01:48 UTC_
 | 142 | Kia Nurse | 2,231 |
 | 143 | Dawn Staley | 2,228 |
 | 144 | Teaira McCowan | 2,225 |
-| 145 | **Satou Sabally** 🔴 +12 | 2,216 |
+| 145 | **Satou Sabally** 🔴 +13 | 2,217 |
 | 146 | Janel McCarville | 2,215 |
 | 147 | Sami Whitcomb | 2,211 |
 | 148 | Sophia Witherspoon | 2,210 |
@@ -496,7 +496,7 @@ _Last updated: 2026-06-07 01:48 UTC_
 | 65 | Tully Bevilaqua | 853 |
 | 66 | Brittney Sykes | 852 |
 | 67 | Jia Perkins | 837 |
-| 68 | **Kelsey Mitchell** 🔴 +1 | 822 |
+| 68 | **Kelsey Mitchell** 🔴 +2 | 823 |
 | 69 | Andrea Stinson | 810 |
 | 70 | Tina Thompson | 803 |
 | 71 | Epiphanny Prince | 800 |
@@ -1220,8 +1220,8 @@ _Last updated: 2026-06-07 01:48 UTC_
 | 174 | Lisa Leslie | 123 |
 | 175 | Sidney Spencer | 122 |
 | 176 | Jordin Canada | 121 |
-| 177 | **Lexie Hull** 🔴 | 118 |
-| 177 | Tonya Edwards | 118 |
+| 177 | **Lexie Hull** 🔴 +1 | 119 |
+| 178 | Tonya Edwards | 118 |
 | 179 | Edwige Lawson-Wade | 116 |
 | 179 | Kennedy Burke | 116 |
 | 179 | Marie Ferdinand-Harris | 116 |
