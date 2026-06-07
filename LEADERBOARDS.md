@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-07 19:04 UTC_
+_Last updated: 2026-06-07 19:05 UTC_
 
 ## Contents
 
@@ -83,7 +83,7 @@ _Last updated: 2026-06-07 19:04 UTC_
 | 62 | Allie Quigley | 3,786 |
 | 63 | Chasity Melvin | 3,781 |
 | 64 | Kara Lawson | 3,670 |
-| 65 | **Brittney Sykes** 🔴 | 3,621 |
+| 65 | **Brittney Sykes** 🔴 +2 | 3,623 |
 | 66 | Mwadi Mabika | 3,576 |
 | 67 | Odyssey Sims | 3,574 |
 | 68 | Camille Smith | 3,551 |
@@ -493,8 +493,8 @@ _Last updated: 2026-06-07 19:04 UTC_
 | 62 | Taj McWilliams-Franklin | 879 |
 | 63 | Noelle Quinn | 878 |
 | 64 | Lisa Leslie | 873 |
+| 65 | **Brittney Sykes** 🔴 +1 | 853 |
 | 65 | Tully Bevilaqua | 853 |
-| 66 | **Brittney Sykes** 🔴 | 852 |
 | 67 | Jia Perkins | 837 |
 | 68 | Kelsey Mitchell | 821 |
 | 69 | Andrea Stinson | 810 |
@@ -594,8 +594,8 @@ _Last updated: 2026-06-07 19:04 UTC_
 | 162 | Murriel Page | 410 |
 | 164 | Allison Feaster | 406 |
 | 165 | Rita Williams | 403 |
+| 166 | **Julie Allemand** 🔴 +1 | 402 |
 | 166 | Kia Nurse | 402 |
-| 167 | **Julie Allemand** 🔴 | 401 |
 | 168 | Marissa Coleman | 399 |
 | 169 | Aliyah Boston | 398 |
 | 170 | Jessica Shepard | 395 |
@@ -674,8 +674,8 @@ _Last updated: 2026-06-07 19:04 UTC_
 | 38 | Plenette Pierson | 242 |
 | 39 | Napheesa Collier | 239 |
 | 40 | Emma Meesseman | 238 |
-| 41 | **Azurá Stevens** 🔴 | 233 |
-| 41 | Brianna Turner | 233 |
+| 41 | **Azurá Stevens** 🔴 +1 | 234 |
+| 42 | Brianna Turner | 233 |
 | 43 | **Skylar Diggins** 🔴 | 229 |
 | 44 | Chasity Melvin | 228 |
 | 45 | Alanna Smith | 224 |
@@ -792,10 +792,10 @@ _Last updated: 2026-06-07 19:04 UTC_
 | 154 | Shatori Walker-Kimbrough | 84 |
 | 157 | Tamera Young | 83 |
 | 158 | Damiris Dantas | 82 |
-| 158 | **Marina Mabrey** 🔴 +1 | 82 |
-| 160 | Charlotte Smith | 81 |
-| 160 | Cintia dos Santos | 81 |
-| 160 | Jessie Hicks | 81 |
+| 159 | Charlotte Smith | 81 |
+| 159 | Cintia dos Santos | 81 |
+| 159 | Jessie Hicks | 81 |
+| 159 | **Marina Mabrey** 🔴 | 81 |
 | 163 | Nykesha Sales | 80 |
 | 163 | Rushia Brown | 80 |
 | 165 | Astou Ndour-Fall | 78 |
