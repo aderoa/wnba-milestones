@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-07 01:35 UTC
+
+- **Satou Sabally** passed **Jessica Shepard** and **Merlakia Jones** for **#144** all-time in rebounds (career 928) — up from #146 entering today — _2:26 - 3rd — IND @ NY_
+
 ## 2026-06-07 01:32 UTC
 
 - **Betnijah Laney-Hamilton** passed **Elena Baranova** and **Jantel Lavender** for **#126** all-time in turnovers (career 445) — _2:59 - 3rd — IND @ NY_
