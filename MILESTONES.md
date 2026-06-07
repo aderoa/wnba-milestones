@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-07 21:06 UTC
+
+- **Natasha Cloud** passed **NaLyssa Smith** for **#112** all-time in rebounds (career 1,116) — up from #114 entering today — _2:15 - 4th — CHI @ TOR_
+
 ## 2026-06-07 21:05 UTC
 
 - **Kia Nurse** passed **Allie Quigley** and **Nia Coffey** for **#188** all-time in fouls (career 476) — up from #191 entering today — _2:45 - 4th — CHI @ TOR_

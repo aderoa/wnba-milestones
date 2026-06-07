@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-07T21:06:00+00:00",
+    "text": "Natasha Cloud passed NaLyssa Smith for #112 all-time in rebounds (career 1,116) \u2014 up from #114 entering today \u2014 (2:15 - 4th \u2014 CHI @ TOR)",
+    "kind": "rank_pass",
+    "player": "Natasha Cloud",
+    "stat": "rebounds",
+    "rank": 112,
+    "passed_players": [
+      "NaLyssa Smith"
+    ],
+    "new_total": 1116
+  },
+  {
     "ts": "2026-06-07T21:05:00+00:00",
     "text": "Kia Nurse passed Allie Quigley and Nia Coffey for #188 all-time in fouls (career 476) \u2014 up from #191 entering today \u2014 (2:45 - 4th \u2014 CHI @ TOR)",
     "kind": "rank_pass",
@@ -2976,17 +2988,5 @@
       "Camille Smith"
     ],
     "new_total": 1808
-  },
-  {
-    "ts": "2026-06-05T03:06:00+00:00",
-    "text": "Tiffany Hayes passed Maya Moore for #30 all-time in points (career 4,985) \u2014 up from #32 entering today \u2014 (33.8 - 4th \u2014 GS @ MIN)",
-    "kind": "rank_pass",
-    "player": "Tiffany Hayes",
-    "stat": "points",
-    "rank": 30,
-    "passed_players": [
-      "Maya Moore"
-    ],
-    "new_total": 4985
   }
 ]
