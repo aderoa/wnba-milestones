@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-07 23:09 UTC_
+_Last updated: 2026-06-07 23:10 UTC_
 
 ## Contents
 
@@ -107,7 +107,7 @@ _Last updated: 2026-06-07 23:09 UTC_
 | 86 | Margo Dydek | 3,214 |
 | 87 | Stefanie Dolson | 3,195 |
 | 88 | Danielle Robinson | 3,160 |
-| 89 | **Erica Wheeler** 🔴 +3 | 3,147 |
+| 89 | **Erica Wheeler** 🔴 +6 | 3,150 |
 | 90 | Wendy Palmer | 3,135 |
 | 91 | Shavonte Zellous | 3,103 |
 | 92 | Briann January | 3,082 |
@@ -247,7 +247,7 @@ _Last updated: 2026-06-07 23:09 UTC_
 | 21 | Crystal Langhorne | 2,454 |
 | 22 | Lauren Jackson | 2,444 |
 | 23 | Yolanda Griffith | 2,440 |
-| 24 | **Dearica Hamby** 🔴 | 2,391 |
+| 24 | **Dearica Hamby** 🔴 +1 | 2,392 |
 | 25 | Tangela Smith | 2,328 |
 | 26 | Natasha Howard | 2,253 |
 | 27 | Erika de Souza | 2,220 |
@@ -1103,7 +1103,7 @@ _Last updated: 2026-06-07 23:09 UTC_
 | 57 | Deanna Nolan | 340 |
 | 57 | Natasha Cloud | 340 |
 | 59 | Anna DeForge | 334 |
-| 60 | **Erica Wheeler** 🔴 +1 | 330 |
+| 60 | **Erica Wheeler** 🔴 +2 | 331 |
 | 61 | Jackie Young | 323 |
 | 62 | Sophie Cunningham | 317 |
 | 62 | Sugar Rodgers | 317 |
