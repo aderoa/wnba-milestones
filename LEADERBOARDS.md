@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-07 20:21 UTC_
+_Last updated: 2026-06-07 20:22 UTC_
 
 ## Contents
 
@@ -195,7 +195,7 @@ _Last updated: 2026-06-07 20:21 UTC_
 | 174 | Ebony Hoffman | 1,909 |
 | 175 | Candice Wiggins | 1,901 |
 | 176 | Natisha Hiedeman | 1,858 |
-| 177 | **Isabelle Harrison** 🔴 +9 | 1,841 |
+| 177 | **Isabelle Harrison** 🔴 +11 | 1,843 |
 | 178 | Damiris Dantas | 1,830 |
 | 179 | **Rachel Banham** 🔴 +3 | 1,826 |
 | 180 | Tianna Hawkins | 1,825 |
@@ -344,7 +344,7 @@ _Last updated: 2026-06-07 20:21 UTC_
 | 118 | Ann Wauters | 1,105 |
 | 119 | Svetlana Abrosimova | 1,078 |
 | 120 | Le'coe Willingham | 1,054 |
-| 121 | **Isabelle Harrison** 🔴 +2 | 1,051 |
+| 121 | **Isabelle Harrison** 🔴 +3 | 1,052 |
 | 122 | Jackie Young | 1,044 |
 | 123 | Nicole Ohlde | 1,040 |
 | 124 | Tamecka Dixon | 1,035 |
