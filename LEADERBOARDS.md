@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-07 23:04 UTC_
+_Last updated: 2026-06-07 23:05 UTC_
 
 ## Contents
 
@@ -107,7 +107,7 @@ _Last updated: 2026-06-07 23:04 UTC_
 | 86 | Margo Dydek | 3,214 |
 | 87 | Stefanie Dolson | 3,195 |
 | 88 | Danielle Robinson | 3,160 |
-| 89 | **Erica Wheeler** 🔴 | 3,144 |
+| 89 | **Erica Wheeler** 🔴 +3 | 3,147 |
 | 90 | Wendy Palmer | 3,135 |
 | 91 | Shavonte Zellous | 3,103 |
 | 92 | Briann January | 3,082 |
@@ -415,8 +415,8 @@ _Last updated: 2026-06-07 23:04 UTC_
 | 189 | Arike Ogunbowale | 748 |
 | 190 | Alex Montgomery | 735 |
 | 191 | Ashley Robinson | 734 |
+| 192 | **Kelsey Plum** 🔴 +1 | 729 |
 | 192 | Shenise Johnson | 729 |
-| 193 | **Kelsey Plum** 🔴 | 728 |
 | 194 | Sami Whitcomb | 726 |
 | 194 | Shekinna Stricklen | 726 |
 | 196 | Olympia Scott | 711 |
@@ -514,7 +514,7 @@ _Last updated: 2026-06-07 23:04 UTC_
 | 83 | Moriah Jefferson | 685 |
 | 84 | Emma Meesseman | 681 |
 | 85 | Nykesha Sales | 677 |
-| 86 | **Ariel Atkins** 🔴 | 664 |
+| 86 | **Ariel Atkins** 🔴 +1 | 665 |
 | 87 | Bria Hartley | 661 |
 | 88 | Lindsay Allen | 657 |
 | 89 | Betty Lennox | 651 |
@@ -1103,7 +1103,7 @@ _Last updated: 2026-06-07 23:04 UTC_
 | 57 | Deanna Nolan | 340 |
 | 57 | Natasha Cloud | 340 |
 | 59 | Anna DeForge | 334 |
-| 60 | **Erica Wheeler** 🔴 | 329 |
+| 60 | **Erica Wheeler** 🔴 +1 | 330 |
 | 61 | Jackie Young | 323 |
 | 62 | Sophie Cunningham | 317 |
 | 62 | Sugar Rodgers | 317 |
