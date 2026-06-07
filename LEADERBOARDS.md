@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-07 01:20 UTC_
+_Last updated: 2026-06-07 01:21 UTC_
 
 ## Contents
 
@@ -214,7 +214,7 @@ _Last updated: 2026-06-07 01:20 UTC_
 | 193 | Nikki Teasley | 1,690 |
 | 194 | Shenise Johnson | 1,688 |
 | 195 | Janell Burse | 1,580 |
-| 196 | **Monique Billings** 🔴 +10 | 1,553 |
+| 196 | **Monique Billings** 🔴 +12 | 1,555 |
 | 197 | Le'coe Willingham | 1,552 |
 | 198 | Shatori Walker-Kimbrough | 1,544 |
 | 199 | Rebecca Allen | 1,526 |
@@ -240,7 +240,7 @@ _Last updated: 2026-06-07 01:20 UTC_
 | 14 | Sancho Lyttle | 2,596 |
 | 15 | A'ja Wilson | 2,588 |
 | 16 | DeLisha Milton-Jones | 2,574 |
-| 17 | **Breanna Stewart** 🔴 +3 | 2,563 |
+| 17 | **Breanna Stewart** 🔴 +4 | 2,564 |
 | 18 | Brittney Griner | 2,556 |
 | 19 | Swin Cash | 2,521 |
 | 20 | Michelle Snow | 2,476 |
@@ -294,7 +294,7 @@ _Last updated: 2026-06-07 01:20 UTC_
 | 68 | Tamera Young | 1,433 |
 | 69 | Alana Beard | 1,420 |
 | 70 | Nakia Sanford | 1,419 |
-| 71 | **Monique Billings** 🔴 +7 | 1,392 |
+| 71 | **Monique Billings** 🔴 +8 | 1,393 |
 | 72 | Kara Braxton | 1,387 |
 | 73 | Allisha Gray | 1,385 |
 | 74 | Courtney Vandersloot | 1,383 |
@@ -596,8 +596,8 @@ _Last updated: 2026-06-07 01:20 UTC_
 | 165 | Rita Williams | 403 |
 | 166 | Kia Nurse | 402 |
 | 167 | Julie Allemand | 401 |
+| 168 | **Aliyah Boston** 🔴 +1 | 399 |
 | 168 | Marissa Coleman | 399 |
-| 169 | **Aliyah Boston** 🔴 | 398 |
 | 170 | Jessica Shepard | 395 |
 | 170 | Stacey Dales | 395 |
 | 172 | Sugar Rodgers | 393 |
@@ -713,8 +713,8 @@ _Last updated: 2026-06-07 01:20 UTC_
 | 77 | Ann Wauters | 153 |
 | 77 | Sue Wicks | 153 |
 | 79 | Jessica Davenport | 151 |
-| 80 | Alison Bales | 148 |
-| 80 | **Aliyah Boston** 🔴 +1 | 148 |
+| 80 | **Aliyah Boston** 🔴 +2 | 149 |
+| 81 | Alison Bales | 148 |
 | 82 | Chamique Holdsclaw | 143 |
 | 83 | Shavonte Zellous | 139 |
 | 84 | Penny Taylor | 136 |
