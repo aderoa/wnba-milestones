@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-07 01:48 UTC
+
+- **Satou Sabally** passed **Janel McCarville** for **#145** all-time in points (career 2,216) — up from #148 entering today — _9:18 - 4th — IND @ NY_
+
 ## 2026-06-07 01:38 UTC
 
 - **Monique Billings** passed **Sheryl Swoopes** for **#156** all-time in fouls (career 520) — up from #157 entering today — _1:24 - 3rd — IND @ NY_

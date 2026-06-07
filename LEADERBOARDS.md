@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-07 01:47 UTC_
+_Last updated: 2026-06-07 01:48 UTC_
 
 ## Contents
 
@@ -163,8 +163,8 @@ _Last updated: 2026-06-07 01:47 UTC_
 | 142 | Kia Nurse | 2,231 |
 | 143 | Dawn Staley | 2,228 |
 | 144 | Teaira McCowan | 2,225 |
-| 145 | Janel McCarville | 2,215 |
-| 145 | **Satou Sabally** 🔴 +11 | 2,215 |
+| 145 | **Satou Sabally** 🔴 +12 | 2,216 |
+| 146 | Janel McCarville | 2,215 |
 | 147 | Sami Whitcomb | 2,211 |
 | 148 | Sophia Witherspoon | 2,210 |
 | 149 | Ruthie Bolton | 2,175 |
@@ -368,7 +368,7 @@ _Last updated: 2026-06-07 01:47 UTC_
 | 142 | Armintie Herrington | 960 |
 | 143 | Janell Burse | 944 |
 | 144 | Angel Reese | 940 |
-| 145 | **Satou Sabally** 🔴 +2 | 928 |
+| 145 | **Satou Sabally** 🔴 +3 | 929 |
 | 146 | Jessica Shepard | 927 |
 | 146 | Merlakia Jones | 927 |
 | 148 | Nicky Anosike | 922 |
@@ -724,9 +724,9 @@ _Last updated: 2026-06-07 01:47 UTC_
 | 85 | Seimone Augustus | 133 |
 | 89 | Katie Mattera | 131 |
 | 89 | Nakia Sanford | 131 |
-| 91 | Brooke Wyckoff | 129 |
-| 91 | Cathrine Kraayeveld | 129 |
-| 91 | **Monique Billings** 🔴 | 129 |
+| 91 | **Monique Billings** 🔴 +1 | 130 |
+| 92 | Brooke Wyckoff | 129 |
+| 92 | Cathrine Kraayeveld | 129 |
 | 94 | Chiney Ogwumike | 127 |
 | 94 | Kristen Rasmussen | 127 |
 | 96 | Chelsea Gray | 126 |

@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-07T01:48:00+00:00",
+    "text": "Satou Sabally passed Janel McCarville for #145 all-time in points (career 2,216) \u2014 up from #148 entering today \u2014 (9:18 - 4th \u2014 IND @ NY)",
+    "kind": "rank_pass",
+    "player": "Satou Sabally",
+    "stat": "points",
+    "rank": 145,
+    "passed_players": [
+      "Janel McCarville"
+    ],
+    "new_total": 2216
+  },
+  {
     "ts": "2026-06-07T01:38:00+00:00",
     "text": "Monique Billings passed Sheryl Swoopes for #156 all-time in fouls (career 520) \u2014 up from #157 entering today \u2014 (1:24 - 3rd \u2014 IND @ NY)",
     "kind": "rank_pass",
@@ -2974,14 +2986,5 @@
       "Lindsay Whalen"
     ],
     "new_total": 5513
-  },
-  {
-    "ts": "2026-06-05T01:11:00+00:00",
-    "text": "Cecilia Zandalasini reached 100 career three-pointers (now 100) \u2014 (6:05 - 1st \u2014 GS @ MIN)",
-    "kind": "round",
-    "player": "Cecilia Zandalasini",
-    "stat": "three-pointers",
-    "value": 100,
-    "new_total": 100
   }
 ]
