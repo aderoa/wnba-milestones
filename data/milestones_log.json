@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-06-07T21:05:00+00:00",
+    "text": "Kia Nurse passed Allie Quigley and Nia Coffey for #188 all-time in fouls (career 476) \u2014 up from #191 entering today \u2014 (2:45 - 4th \u2014 CHI @ TOR)",
+    "kind": "rank_pass",
+    "player": "Kia Nurse",
+    "stat": "fouls",
+    "rank": 188,
+    "passed_players": [
+      "Allie Quigley",
+      "Nia Coffey"
+    ],
+    "new_total": 476
+  },
+  {
     "ts": "2026-06-07T20:57:00+00:00",
     "text": "Isabelle Harrison passed Le'coe Willingham for #120 all-time in rebounds (career 1,055) \u2014 up from #121 entering today \u2014 (5:04 - 4th \u2014 CHI @ TOR)",
     "kind": "rank_pass",
@@ -2975,17 +2988,5 @@
       "Maya Moore"
     ],
     "new_total": 4985
-  },
-  {
-    "ts": "2026-06-05T02:58:00+00:00",
-    "text": "Cecilia Zandalasini passed Adrienne Johnson for #199 all-time in three-pointers (career 103) \u2014 new to top 200 today \u2014 (2:28 - 4th \u2014 GS @ MIN)",
-    "kind": "rank_pass",
-    "player": "Cecilia Zandalasini",
-    "stat": "three-pointers",
-    "rank": 199,
-    "passed_players": [
-      "Adrienne Johnson"
-    ],
-    "new_total": 103
   }
 ]

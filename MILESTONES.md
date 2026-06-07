@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-07 21:05 UTC
+
+- **Kia Nurse** passed **Allie Quigley** and **Nia Coffey** for **#188** all-time in fouls (career 476) — up from #191 entering today — _2:45 - 4th — CHI @ TOR_
+
 ## 2026-06-07 20:57 UTC
 
 - **Isabelle Harrison** passed **Le'coe Willingham** for **#120** all-time in rebounds (career 1,055) — up from #121 entering today — _5:04 - 4th — CHI @ TOR_
