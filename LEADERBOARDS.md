@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-07 00:42 UTC_
+_Last updated: 2026-06-07 00:43 UTC_
 
 ## Contents
 
@@ -724,9 +724,9 @@ _Last updated: 2026-06-07 00:42 UTC_
 | 85 | Seimone Augustus | 133 |
 | 89 | Katie Mattera | 131 |
 | 89 | Nakia Sanford | 131 |
-| 91 | Brooke Wyckoff | 129 |
-| 91 | Cathrine Kraayeveld | 129 |
-| 91 | **Monique Billings** 🔴 | 129 |
+| 91 | **Monique Billings** 🔴 +1 | 130 |
+| 92 | Brooke Wyckoff | 129 |
+| 92 | Cathrine Kraayeveld | 129 |
 | 94 | Chiney Ogwumike | 127 |
 | 94 | Kristen Rasmussen | 127 |
 | 96 | Chelsea Gray | 126 |
@@ -981,8 +981,8 @@ _Last updated: 2026-06-07 00:42 UTC_
 | 140 | Kara Lawson | 229 |
 | 141 | Wendy Palmer | 226 |
 | 142 | Alexis Hornbuckle | 225 |
-| 142 | **Kelsey Mitchell** 🔴 +1 | 225 |
-| 144 | Cheryl Ford | 224 |
+| 143 | Cheryl Ford | 224 |
+| 143 | **Kelsey Mitchell** 🔴 | 224 |
 | 145 | Rushia Brown | 221 |
 | 146 | DeMya Walker | 220 |
 | 146 | Jennifer Gillom | 220 |
