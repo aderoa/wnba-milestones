@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-07 01:18 UTC_
+_Last updated: 2026-06-07 01:19 UTC_
 
 ## Contents
 
@@ -214,8 +214,8 @@ _Last updated: 2026-06-07 01:18 UTC_
 | 193 | Nikki Teasley | 1,690 |
 | 194 | Shenise Johnson | 1,688 |
 | 195 | Janell Burse | 1,580 |
-| 196 | Le'coe Willingham | 1,552 |
-| 197 | **Monique Billings** 🔴 +8 | 1,551 |
+| 196 | **Monique Billings** 🔴 +10 | 1,553 |
+| 197 | Le'coe Willingham | 1,552 |
 | 198 | Shatori Walker-Kimbrough | 1,544 |
 | 199 | Rebecca Allen | 1,526 |
 | 200 | Jennifer Lacy | 1,504 |
@@ -550,8 +550,8 @@ _Last updated: 2026-06-07 01:18 UTC_
 | 119 | Veronica Burton | 540 |
 | 120 | Marie Ferdinand-Harris | 528 |
 | 121 | Margo Dydek | 524 |
-| 122 | **Caitlin Clark** 🔴 +3 | 520 |
-| 122 | **Myisha Hines-Allen** 🔴 | 520 |
+| 122 | **Caitlin Clark** 🔴 +4 | 521 |
+| 123 | **Myisha Hines-Allen** 🔴 | 520 |
 | 124 | Rhyne Howard | 511 |
 | 125 | Iziane Castro Marques | 509 |
 | 126 | Brittany Boyd-Jones | 508 |

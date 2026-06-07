@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-07 01:19 UTC
+
+- **Monique Billings** passed **Le'coe Willingham** for **#196** all-time in points (career 1,553) — up from #198 entering today — _7:13 - 3rd — IND @ NY_
+
 ## 2026-06-07 00:46 UTC
 
 - **Satou Sabally** passed **Alexis Hornbuckle** for **#199** all-time in fouls (career 451) — up from #200 entering today — _3:04 - 2nd — IND @ NY_
