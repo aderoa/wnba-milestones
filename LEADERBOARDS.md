@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-07 19:16 UTC_
+_Last updated: 2026-06-07 19:17 UTC_
 
 ## Contents
 
@@ -160,7 +160,7 @@ _Last updated: 2026-06-07 19:16 UTC_
 | 139 | Jordin Canada | 2,237 |
 | 139 | Kara Braxton | 2,237 |
 | 139 | Matee Ajavon | 2,237 |
-| 142 | **Kia Nurse** 🔴 | 2,231 |
+| 142 | **Kia Nurse** 🔴 +2 | 2,233 |
 | 143 | Dawn Staley | 2,228 |
 | 144 | Teaira McCowan | 2,221 |
 | 145 | Janel McCarville | 2,215 |
