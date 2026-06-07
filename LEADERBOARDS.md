@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-07 23:28 UTC_
+_Last updated: 2026-06-07 23:29 UTC_
 
 ## Contents
 
@@ -23,7 +23,7 @@ _Last updated: 2026-06-07 23:28 UTC_
 | 2 | Tina Charles | 8,396 |
 | 3 | DeWanna Bonner | 7,910 |
 | 4 | Tina Thompson | 7,470 |
-| 5 | **Nneka Ogwumike** 🔴 +7 | 7,447 |
+| 5 | **Nneka Ogwumike** 🔴 +9 | 7,449 |
 | 6 | Tamika Catchings | 7,371 |
 | 7 | Candice Dupree | 6,861 |
 | 8 | Sue Bird | 6,802 |
@@ -228,7 +228,7 @@ _Last updated: 2026-06-07 23:28 UTC_
 | 2 | Sylvia Fowles | 4,005 |
 | 3 | Candace Parker | 3,467 |
 | 4 | Rebekkah Brunson | 3,345 |
-| 5 | **Nneka Ogwumike** 🔴 +4 | 3,341 |
+| 5 | **Nneka Ogwumike** 🔴 +5 | 3,342 |
 | 6 | Tamika Catchings | 3,313 |
 | 7 | Lisa Leslie | 3,303 |
 | 8 | DeWanna Bonner | 3,260 |
@@ -1517,7 +1517,7 @@ _Last updated: 2026-06-07 23:28 UTC_
 | 59 | Tully Bevilaqua | 813 |
 | 62 | Nykesha Sales | 796 |
 | 63 | Ebony Hoffman | 791 |
-| 64 | **Erica Wheeler** 🔴 | 787 |
+| 64 | **Erica Wheeler** 🔴 +1 | 788 |
 | 65 | Sue Bird | 775 |
 | 66 | Sheri Sam | 766 |
 | 67 | Natasha Cloud | 756 |
