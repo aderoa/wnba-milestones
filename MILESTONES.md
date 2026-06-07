@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-07 01:36 UTC
+
+- **Sophie Cunningham** passed **Candice Wiggins**, **Epiphanny Prince**, and **Jackie Young** for **#150** all-time in fouls (career 526) — up from #154 entering today — _2:22 - 3rd — IND @ NY_
+
 ## 2026-06-07 01:35 UTC
 
 - **Satou Sabally** passed **Jessica Shepard** and **Merlakia Jones** for **#144** all-time in rebounds (career 928) — up from #146 entering today — _2:26 - 3rd — IND @ NY_

@@ -1,5 +1,19 @@
 [
   {
+    "ts": "2026-06-07T01:36:00+00:00",
+    "text": "Sophie Cunningham passed Candice Wiggins, Epiphanny Prince, and Jackie Young for #150 all-time in fouls (career 526) \u2014 up from #154 entering today \u2014 (2:22 - 3rd \u2014 IND @ NY)",
+    "kind": "rank_pass",
+    "player": "Sophie Cunningham",
+    "stat": "fouls",
+    "rank": 150,
+    "passed_players": [
+      "Candice Wiggins",
+      "Epiphanny Prince",
+      "Jackie Young"
+    ],
+    "new_total": 526
+  },
+  {
     "ts": "2026-06-07T01:35:00+00:00",
     "text": "Satou Sabally passed Jessica Shepard and Merlakia Jones for #144 all-time in rebounds (career 928) \u2014 up from #146 entering today \u2014 (2:26 - 3rd \u2014 IND @ NY)",
     "kind": "rank_pass",
@@ -2969,17 +2983,5 @@
       "Tamika Whitmore"
     ],
     "new_total": 1356
-  },
-  {
-    "ts": "2026-06-05T01:10:00+00:00",
-    "text": "Kayla Thornton passed Bridget Carleton for #78 all-time in three-pointers (career 288) \u2014 up from #79 entering today \u2014 (7:11 - 1st \u2014 GS @ MIN)",
-    "kind": "rank_pass",
-    "player": "Kayla Thornton",
-    "stat": "three-pointers",
-    "rank": 78,
-    "passed_players": [
-      "Bridget Carleton"
-    ],
-    "new_total": 288
   }
 ]
