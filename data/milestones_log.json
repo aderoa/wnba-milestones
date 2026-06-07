@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-07T19:33:00+00:00",
+    "text": "Julie Allemand passed Kia Nurse for #166 all-time in assists (career 403) \u2014 up from #167 entering today \u2014 (6:51 - 2nd \u2014 CHI @ TOR)",
+    "kind": "rank_pass",
+    "player": "Julie Allemand",
+    "stat": "assists",
+    "rank": 166,
+    "passed_players": [
+      "Kia Nurse"
+    ],
+    "new_total": 403
+  },
+  {
     "ts": "2026-06-07T19:30:00+00:00",
     "text": "Isabelle Harrison passed Cathrine Kraayeveld for #182 all-time in fouls (career 485) \u2014 up from #183 entering today \u2014 (8:37 - 2nd \u2014 CHI @ TOR)",
     "kind": "rank_pass",
@@ -2968,17 +2980,5 @@
       "Moriah Jefferson"
     ],
     "new_total": 1723
-  },
-  {
-    "ts": "2026-06-05T01:48:00+00:00",
-    "text": "Kayla Thornton passed Sheri Sam for #77 all-time in rebounds (career 1,357) \u2014 up from #78 entering today \u2014 (3:07 - 2nd \u2014 GS @ MIN)",
-    "kind": "rank_pass",
-    "player": "Kayla Thornton",
-    "stat": "rebounds",
-    "rank": 77,
-    "passed_players": [
-      "Sheri Sam"
-    ],
-    "new_total": 1357
   }
 ]
