@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-07 20:15 UTC
+
+- **Nyara Sabally** reached **300** career rebounds (now 300) — _7:44 - 3rd — CHI @ TOR_
+
 ## 2026-06-07 20:14 UTC
 
 - **Brittney Sykes** passed **Sophia Young-Malcolm** for **#89** all-time in fouls (career 688) — _8:33 - 3rd — CHI @ TOR_

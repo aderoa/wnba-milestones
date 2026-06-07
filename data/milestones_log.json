@@ -1,5 +1,14 @@
 [
   {
+    "ts": "2026-06-07T20:15:00+00:00",
+    "text": "Nyara Sabally reached 300 career rebounds (now 300) \u2014 (7:44 - 3rd \u2014 CHI @ TOR)",
+    "kind": "round",
+    "player": "Nyara Sabally",
+    "stat": "rebounds",
+    "value": 300,
+    "new_total": 300
+  },
+  {
     "ts": "2026-06-07T20:14:00+00:00",
     "text": "Brittney Sykes passed Sophia Young-Malcolm for #89 all-time in fouls (career 688) \u2014 (8:33 - 3rd \u2014 CHI @ TOR)",
     "kind": "rank_pass",
@@ -2971,14 +2980,5 @@
       "Charlotte Smith"
     ],
     "new_total": 795
-  },
-  {
-    "ts": "2026-06-05T02:14:00+00:00",
-    "text": "Cecilia Zandalasini reached 100 career turnovers (now 100) \u2014 (7:18 - 3rd \u2014 GS @ MIN)",
-    "kind": "round",
-    "player": "Cecilia Zandalasini",
-    "stat": "turnovers",
-    "value": 100,
-    "new_total": 100
   }
 ]
