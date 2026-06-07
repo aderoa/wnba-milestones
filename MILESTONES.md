@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-07 01:50 UTC
+
+- **Kelsey Mitchell** passed **Nikki McCray** for **#85** all-time in turnovers (career 566) — up from #86 entering today — _8:39 - 4th — IND @ NY_
+
 ## 2026-06-07 01:49 UTC
 
 - **Lexie Hull** passed **Tonya Edwards** for **#178** all-time in three-pointers (career 119) — _8:56 - 4th — IND @ NY_

@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-07T01:50:00+00:00",
+    "text": "Kelsey Mitchell passed Nikki McCray for #85 all-time in turnovers (career 566) \u2014 up from #86 entering today \u2014 (8:39 - 4th \u2014 IND @ NY)",
+    "kind": "rank_pass",
+    "player": "Kelsey Mitchell",
+    "stat": "turnovers",
+    "rank": 85,
+    "passed_players": [
+      "Nikki McCray"
+    ],
+    "new_total": 566
+  },
+  {
     "ts": "2026-06-07T01:49:00+00:00",
     "text": "Lexie Hull passed Tonya Edwards for #178 all-time in three-pointers (career 119) \u2014 (8:56 - 4th \u2014 IND @ NY)",
     "kind": "rank_pass",
@@ -2974,17 +2986,5 @@
       "Monique Billings"
     ],
     "new_total": 516
-  },
-  {
-    "ts": "2026-06-05T01:13:00+00:00",
-    "text": "Sophie Cunningham passed Kayla McBride for #154 all-time in fouls (career 523) \u2014 up from #155 entering today \u2014 (29.6 - 4th \u2014 ATL @ IND)",
-    "kind": "rank_pass",
-    "player": "Sophie Cunningham",
-    "stat": "fouls",
-    "rank": 154,
-    "passed_players": [
-      "Kayla McBride"
-    ],
-    "new_total": 523
   }
 ]
