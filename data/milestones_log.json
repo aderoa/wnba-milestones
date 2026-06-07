@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-07T19:30:00+00:00",
+    "text": "Isabelle Harrison passed Cathrine Kraayeveld for #182 all-time in fouls (career 485) \u2014 up from #183 entering today \u2014 (8:37 - 2nd \u2014 CHI @ TOR)",
+    "kind": "rank_pass",
+    "player": "Isabelle Harrison",
+    "stat": "fouls",
+    "rank": 182,
+    "passed_players": [
+      "Cathrine Kraayeveld"
+    ],
+    "new_total": 485
+  },
+  {
     "ts": "2026-06-07T19:14:00+00:00",
     "text": "Natasha Cloud passed Deanna Nolan for #113 all-time in rebounds (career 1,113) \u2014 up from #114 entering today \u2014 (4:22 - 1st \u2014 CHI @ TOR)",
     "kind": "rank_pass",
@@ -2968,17 +2980,5 @@
       "Sheri Sam"
     ],
     "new_total": 1357
-  },
-  {
-    "ts": "2026-06-05T01:48:00+00:00",
-    "text": "Nia Coffey passed Cheryl Ford for #71 all-time in blocks (career 161) \u2014 up from #72 entering today \u2014 (3:07 - 2nd \u2014 GS @ MIN)",
-    "kind": "rank_pass",
-    "player": "Nia Coffey",
-    "stat": "blocks",
-    "rank": 71,
-    "passed_players": [
-      "Cheryl Ford"
-    ],
-    "new_total": 161
   }
 ]

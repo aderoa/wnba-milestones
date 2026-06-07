@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-07 19:30 UTC
+
+- **Isabelle Harrison** passed **Cathrine Kraayeveld** for **#182** all-time in fouls (career 485) — up from #183 entering today — _8:37 - 2nd — CHI @ TOR_
+
 ## 2026-06-07 19:14 UTC
 
 - **Natasha Cloud** passed **Deanna Nolan** for **#113** all-time in rebounds (career 1,113) — up from #114 entering today — _4:22 - 1st — CHI @ TOR_
