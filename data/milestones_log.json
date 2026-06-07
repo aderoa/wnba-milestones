@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-07T20:57:00+00:00",
+    "text": "Isabelle Harrison passed Le'coe Willingham for #120 all-time in rebounds (career 1,055) \u2014 up from #121 entering today \u2014 (5:04 - 4th \u2014 CHI @ TOR)",
+    "kind": "rank_pass",
+    "player": "Isabelle Harrison",
+    "stat": "rebounds",
+    "rank": 120,
+    "passed_players": [
+      "Le'coe Willingham"
+    ],
+    "new_total": 1055
+  },
+  {
     "ts": "2026-06-07T20:56:00+00:00",
     "text": "Marina Mabrey passed Shekinna Stricklen for #157 all-time in steals (career 214) \u2014 up from #158 entering today \u2014 (5:59 - 4th \u2014 CHI @ TOR)",
     "kind": "rank_pass",
@@ -2975,17 +2987,5 @@
       "Adrienne Johnson"
     ],
     "new_total": 103
-  },
-  {
-    "ts": "2026-06-05T02:58:00+00:00",
-    "text": "Tiffany Hayes passed Ezi Magbegor for #92 all-time in rebounds (career 1,244) \u2014 up from #93 entering today \u2014 (2:28 - 4th \u2014 GS @ MIN)",
-    "kind": "rank_pass",
-    "player": "Tiffany Hayes",
-    "stat": "rebounds",
-    "rank": 92,
-    "passed_players": [
-      "Ezi Magbegor"
-    ],
-    "new_total": 1244
   }
 ]
