@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-07T20:36:00+00:00",
+    "text": "Elizabeth Williams passed Kristi Toliver for #77 all-time in fouls (career 723) \u2014 up from #78 entering today \u2014 (39.9 - 3rd \u2014 CHI @ TOR)",
+    "kind": "rank_pass",
+    "player": "Elizabeth Williams",
+    "stat": "fouls",
+    "rank": 77,
+    "passed_players": [
+      "Kristi Toliver"
+    ],
+    "new_total": 723
+  },
+  {
     "ts": "2026-06-07T20:35:00+00:00",
     "text": "Isabelle Harrison passed Charde Houston for #180 all-time in fouls (career 488) \u2014 up from #183 entering today \u2014 (52.4 - 3rd \u2014 CHI @ TOR)",
     "kind": "rank_pass",
@@ -2975,17 +2987,5 @@
       "Vickie Johnson"
     ],
     "new_total": 4231
-  },
-  {
-    "ts": "2026-06-05T02:41:00+00:00",
-    "text": "Cecilia Zandalasini passed Amber Jacobs for #200 all-time in three-pointers (career 102) \u2014 new to top 200 today \u2014 (6:45 - 4th \u2014 GS @ MIN)",
-    "kind": "rank_pass",
-    "player": "Cecilia Zandalasini",
-    "stat": "three-pointers",
-    "rank": 200,
-    "passed_players": [
-      "Amber Jacobs"
-    ],
-    "new_total": 102
   }
 ]
