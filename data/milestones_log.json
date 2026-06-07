@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-07T20:56:00+00:00",
+    "text": "Marina Mabrey passed Shekinna Stricklen for #157 all-time in steals (career 214) \u2014 up from #158 entering today \u2014 (5:59 - 4th \u2014 CHI @ TOR)",
+    "kind": "rank_pass",
+    "player": "Marina Mabrey",
+    "stat": "steals",
+    "rank": 157,
+    "passed_players": [
+      "Shekinna Stricklen"
+    ],
+    "new_total": 214
+  },
+  {
     "ts": "2026-06-07T20:36:00+00:00",
     "text": "Elizabeth Williams passed Kristi Toliver for #77 all-time in fouls (career 723) \u2014 up from #78 entering today \u2014 (39.9 - 3rd \u2014 CHI @ TOR)",
     "kind": "rank_pass",
@@ -2975,17 +2987,5 @@
       "Ezi Magbegor"
     ],
     "new_total": 1244
-  },
-  {
-    "ts": "2026-06-05T02:43:00+00:00",
-    "text": "Courtney Williams passed Vickie Johnson for #52 all-time in points (career 4,231) \u2014 up from #55 entering today \u2014 (5:26 - 4th \u2014 GS @ MIN)",
-    "kind": "rank_pass",
-    "player": "Courtney Williams",
-    "stat": "points",
-    "rank": 52,
-    "passed_players": [
-      "Vickie Johnson"
-    ],
-    "new_total": 4231
   }
 ]

@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-07 20:56 UTC
+
+- **Marina Mabrey** passed **Shekinna Stricklen** for **#157** all-time in steals (career 214) — up from #158 entering today — _5:59 - 4th — CHI @ TOR_
+
 ## 2026-06-07 20:36 UTC
 
 - **Elizabeth Williams** passed **Kristi Toliver** for **#77** all-time in fouls (career 723) — up from #78 entering today — _39.9 - 3rd — CHI @ TOR_

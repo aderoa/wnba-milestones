@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-07 20:55 UTC_
+_Last updated: 2026-06-07 20:56 UTC_
 
 ## Contents
 
@@ -995,8 +995,8 @@ _Last updated: 2026-06-07 20:55 UTC_
 | 153 | Candice Wiggins | 215 |
 | 153 | Cheyenne Parker-Tyus | 215 |
 | 153 | Elena Baranova | 215 |
-| 157 | **Marina Mabrey** 🔴 +1 | 213 |
-| 157 | Shekinna Stricklen | 213 |
+| 157 | **Marina Mabrey** 🔴 +2 | 214 |
+| 158 | Shekinna Stricklen | 213 |
 | 159 | Nikki Teasley | 211 |
 | 160 | Iziane Castro Marques | 209 |
 | 160 | Tiffany Mitchell | 209 |
