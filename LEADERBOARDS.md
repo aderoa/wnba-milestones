@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-07 00:19 UTC_
+_Last updated: 2026-06-07 00:20 UTC_
 
 ## Contents
 
@@ -32,7 +32,7 @@ _Last updated: 2026-06-07 00:19 UTC_
 | 11 | Katie Smith | 6,450 |
 | 12 | Sylvia Fowles | 6,413 |
 | 13 | Lisa Leslie | 6,251 |
-| 14 | **Breanna Stewart** 🔴 +2 | 6,175 |
+| 14 | **Breanna Stewart** 🔴 +3 | 6,176 |
 | 15 | Jewell Loyd | 6,083 |
 | 16 | Brittney Griner | 6,031 |
 | 17 | Lauren Jackson | 6,005 |
@@ -190,7 +190,7 @@ _Last updated: 2026-06-07 00:19 UTC_
 | 169 | Latasha Byears | 1,920 |
 | 170 | Karima Christmas-Kelly | 1,919 |
 | 171 | Jessica Breland | 1,918 |
-| 171 | Myisha Hines-Allen | 1,918 |
+| 171 | **Myisha Hines-Allen** 🔴 | 1,918 |
 | 173 | Nakia Sanford | 1,915 |
 | 174 | Ebony Hoffman | 1,909 |
 | 175 | Candice Wiggins | 1,901 |
@@ -215,8 +215,8 @@ _Last updated: 2026-06-07 00:19 UTC_
 | 194 | Shenise Johnson | 1,688 |
 | 195 | Janell Burse | 1,580 |
 | 196 | Le'coe Willingham | 1,552 |
-| 197 | Shatori Walker-Kimbrough | 1,544 |
-| 198 | **Monique Billings** 🔴 | 1,543 |
+| 197 | **Monique Billings** 🔴 +2 | 1,545 |
+| 198 | Shatori Walker-Kimbrough | 1,544 |
 | 199 | Rebecca Allen | 1,526 |
 | 200 | Jennifer Lacy | 1,504 |
 
@@ -294,8 +294,8 @@ _Last updated: 2026-06-07 00:19 UTC_
 | 68 | Tamera Young | 1,433 |
 | 69 | Alana Beard | 1,420 |
 | 70 | Nakia Sanford | 1,419 |
-| 71 | Kara Braxton | 1,387 |
-| 71 | **Monique Billings** 🔴 +2 | 1,387 |
+| 71 | **Monique Billings** 🔴 +3 | 1,388 |
+| 72 | Kara Braxton | 1,387 |
 | 73 | Allisha Gray | 1,385 |
 | 74 | Courtney Vandersloot | 1,383 |
 | 74 | Katie Smith | 1,383 |
@@ -317,7 +317,7 @@ _Last updated: 2026-06-07 00:19 UTC_
 | 91 | Azurá Stevens | 1,256 |
 | 92 | Tiffany Hayes | 1,247 |
 | 93 | Ezi Magbegor | 1,243 |
-| 94 | Myisha Hines-Allen | 1,239 |
+| 94 | **Myisha Hines-Allen** 🔴 | 1,239 |
 | 95 | Brianna Turner | 1,237 |
 | 96 | Kayla McBride | 1,228 |
 | 96 | Seimone Augustus | 1,228 |
@@ -394,7 +394,7 @@ _Last updated: 2026-06-07 00:19 UTC_
 | 168 | Carolyn Swords | 814 |
 | 169 | Gabby Williams | 801 |
 | 170 | Tierra Ruffin-Pratt | 799 |
-| 171 | **Betnijah Laney-Hamilton** 🔴 | 795 |
+| 171 | **Betnijah Laney-Hamilton** 🔴 +1 | 796 |
 | 172 | Charlotte Smith | 794 |
 | 173 | Rhonda Mapp | 788 |
 | 174 | Ariel Atkins | 786 |
@@ -551,7 +551,7 @@ _Last updated: 2026-06-07 00:19 UTC_
 | 120 | Marie Ferdinand-Harris | 528 |
 | 121 | Margo Dydek | 524 |
 | 122 | **Caitlin Clark** 🔴 +3 | 520 |
-| 122 | Myisha Hines-Allen | 520 |
+| 122 | **Myisha Hines-Allen** 🔴 | 520 |
 | 124 | Rhyne Howard | 511 |
 | 125 | Iziane Castro Marques | 509 |
 | 126 | Brittany Boyd-Jones | 508 |
@@ -814,7 +814,7 @@ _Last updated: 2026-06-07 00:19 UTC_
 | 177 | Kelsey Griffin | 75 |
 | 177 | Tianna Hawkins | 75 |
 | 180 | Epiphanny Prince | 74 |
-| 180 | Myisha Hines-Allen | 74 |
+| 180 | **Myisha Hines-Allen** 🔴 | 74 |
 | 182 | Ayana Walker | 73 |
 | 182 | Lindsay Wisdom-Hylton | 73 |
 | 184 | Awak Kuier | 72 |
@@ -1016,7 +1016,7 @@ _Last updated: 2026-06-07 00:19 UTC_
 | 173 | Tierra Ruffin-Pratt | 194 |
 | 176 | Cynthia Cooper | 192 |
 | 177 | Alanna Smith | 190 |
-| 178 | Myisha Hines-Allen | 189 |
+| 178 | **Myisha Hines-Allen** 🔴 | 189 |
 | 179 | Tamicha Jackson | 188 |
 | 180 | Michele Timms | 187 |
 | 181 | Charde Houston | 185 |
@@ -1212,7 +1212,7 @@ _Last updated: 2026-06-07 00:19 UTC_
 | 166 | Amanda Zahui B | 130 |
 | 166 | Eva Nemcova | 130 |
 | 168 | Crystal Dangerfield | 129 |
-| 169 | Myisha Hines-Allen | 128 |
+| 169 | **Myisha Hines-Allen** 🔴 | 128 |
 | 169 | Ticha Penicheiro | 128 |
 | 171 | Michele Timms | 127 |
 | 172 | Tamecka Dixon | 126 |
@@ -1331,8 +1331,8 @@ _Last updated: 2026-06-07 00:19 UTC_
 | 80 | Helen Darling | 575 |
 | 80 | Nykesha Sales | 575 |
 | 82 | Andrea Stinson | 571 |
-| 83 | **Breanna Stewart** 🔴 | 570 |
-| 83 | Kara Braxton | 570 |
+| 82 | **Breanna Stewart** 🔴 +1 | 571 |
+| 84 | Kara Braxton | 570 |
 | 85 | Nikki McCray | 565 |
 | 86 | **Kelsey Mitchell** 🔴 | 563 |
 | 86 | Sancho Lyttle | 563 |
@@ -1403,7 +1403,7 @@ _Last updated: 2026-06-07 00:19 UTC_
 | 152 | Hamchetou Maiga-Ba | 385 |
 | 153 | Elizabeth Williams | 384 |
 | 154 | Kamila Vodichkova | 381 |
-| 155 | Myisha Hines-Allen | 380 |
+| 155 | **Myisha Hines-Allen** 🔴 | 380 |
 | 156 | Jessica Breland | 378 |
 | 157 | Armintie Herrington | 377 |
 | 158 | Anna DeForge | 374 |
@@ -1613,7 +1613,7 @@ _Last updated: 2026-06-07 00:19 UTC_
 | 157 | **Monique Billings** 🔴 +1 | 518 |
 | 158 | Nikki McCray | 517 |
 | 159 | Alex Bentley | 516 |
-| 159 | Myisha Hines-Allen | 516 |
+| 159 | **Myisha Hines-Allen** 🔴 | 516 |
 | 161 | Jantel Lavender | 513 |
 | 162 | Adrienne Goodson | 512 |
 | 162 | Janeth Arcain | 512 |

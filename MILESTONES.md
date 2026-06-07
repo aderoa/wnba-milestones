@@ -2,6 +2,12 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-07 00:20 UTC
+
+- **Monique Billings** passed **Shatori Walker-Kimbrough** for **#197** all-time in points (career 1,545) — up from #198 entering today — _2:53 - 1st — IND @ NY_
+- **Breanna Stewart** passed **Kara Braxton** for **#84** all-time in turnovers (career 571) — _2:53 - 1st — IND @ NY_
+- **Betnijah Laney-Hamilton** passed **Gabby Williams** for **#171** all-time in rebounds (career 796) — _2:53 - 1st — IND @ NY_
+
 ## 2026-06-07 00:01 UTC
 
 - **Te-Hina Paopao** reached **300** career points (now 300) — _5:17 - 4th — WSH @ ATL_

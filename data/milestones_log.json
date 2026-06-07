@@ -1,5 +1,41 @@
 [
   {
+    "ts": "2026-06-07T00:20:00+00:00",
+    "text": "Monique Billings passed Shatori Walker-Kimbrough for #197 all-time in points (career 1,545) \u2014 up from #198 entering today \u2014 (2:53 - 1st \u2014 IND @ NY)",
+    "kind": "rank_pass",
+    "player": "Monique Billings",
+    "stat": "points",
+    "rank": 197,
+    "passed_players": [
+      "Shatori Walker-Kimbrough"
+    ],
+    "new_total": 1545
+  },
+  {
+    "ts": "2026-06-07T00:20:00+00:00",
+    "text": "Breanna Stewart passed Kara Braxton for #84 all-time in turnovers (career 571) \u2014 (2:53 - 1st \u2014 IND @ NY)",
+    "kind": "rank_pass",
+    "player": "Breanna Stewart",
+    "stat": "turnovers",
+    "rank": 84,
+    "passed_players": [
+      "Kara Braxton"
+    ],
+    "new_total": 571
+  },
+  {
+    "ts": "2026-06-07T00:20:00+00:00",
+    "text": "Betnijah Laney-Hamilton passed Gabby Williams for #171 all-time in rebounds (career 796) \u2014 (2:53 - 1st \u2014 IND @ NY)",
+    "kind": "rank_pass",
+    "player": "Betnijah Laney-Hamilton",
+    "stat": "rebounds",
+    "rank": 171,
+    "passed_players": [
+      "Gabby Williams"
+    ],
+    "new_total": 796
+  },
+  {
     "ts": "2026-06-07T00:01:00+00:00",
     "text": "Te-Hina Paopao reached 300 career points (now 300) \u2014 (5:17 - 4th \u2014 WSH @ ATL)",
     "kind": "round",
@@ -2943,41 +2979,5 @@
       "Satou Sabally"
     ],
     "new_total": 922
-  },
-  {
-    "ts": "2026-06-05T00:34:00+00:00",
-    "text": "Rhyne Howard passed Scholanda Dorrell for #138 all-time in steals (career 231) \u2014 up from #140 entering today \u2014 (End of 3rd \u2014 ATL @ IND)",
-    "kind": "rank_pass",
-    "player": "Rhyne Howard",
-    "stat": "steals",
-    "rank": 138,
-    "passed_players": [
-      "Scholanda Dorrell"
-    ],
-    "new_total": 231
-  },
-  {
-    "ts": "2026-06-05T00:32:00+00:00",
-    "text": "Myisha Hines-Allen passed Andrea Stinson for #163 all-time in fouls (career 512) \u2014 up from #164 entering today \u2014 (38.0 - 3rd \u2014 ATL @ IND)",
-    "kind": "rank_pass",
-    "player": "Myisha Hines-Allen",
-    "stat": "fouls",
-    "rank": 163,
-    "passed_players": [
-      "Andrea Stinson"
-    ],
-    "new_total": 512
-  },
-  {
-    "ts": "2026-06-05T00:31:00+00:00",
-    "text": "Myisha Hines-Allen passed Nakia Sanford for #171 all-time in points (career 1,917) \u2014 up from #172 entering today \u2014 (1:08 - 3rd \u2014 ATL @ IND)",
-    "kind": "rank_pass",
-    "player": "Myisha Hines-Allen",
-    "stat": "points",
-    "rank": 171,
-    "passed_players": [
-      "Nakia Sanford"
-    ],
-    "new_total": 1917
   }
 ]
