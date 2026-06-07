@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-07 19:20 UTC_
+_Last updated: 2026-06-07 19:21 UTC_
 
 ## Contents
 
@@ -154,7 +154,7 @@ _Last updated: 2026-06-07 19:20 UTC_
 | 133 | Merlakia Jones | 2,308 |
 | 134 | Kia Vaughn | 2,288 |
 | 135 | Betnijah Laney-Hamilton | 2,282 |
-| 136 | **Azurá Stevens** 🔴 +6 | 2,265 |
+| 136 | **Azurá Stevens** 🔴 +8 | 2,267 |
 | 137 | Allison Feaster | 2,258 |
 | 138 | Shekinna Stricklen | 2,245 |
 | 139 | Jordin Canada | 2,237 |
@@ -256,7 +256,7 @@ _Last updated: 2026-06-07 19:20 UTC_
 | 30 | Chamique Holdsclaw | 2,123 |
 | 31 | Chasity Melvin | 2,097 |
 | 32 | Tammy Sutton-Brown | 2,010 |
-| 33 | **Elizabeth Williams** 🔴 +1 | 1,953 |
+| 33 | **Elizabeth Williams** 🔴 +2 | 1,954 |
 | 34 | Cheryl Ford | 1,907 |
 | 35 | Plenette Pierson | 1,834 |
 | 36 | Natalie Williams | 1,832 |
@@ -1431,7 +1431,7 @@ _Last updated: 2026-06-07 19:20 UTC_
 | 180 | Caitlin Clark | 324 |
 | 180 | Olympia Scott | 324 |
 | 182 | Gabby Williams | 320 |
-| 183 | **Kia Nurse** 🔴 | 316 |
+| 183 | **Kia Nurse** 🔴 +1 | 317 |
 | 184 | Barbara Farris | 315 |
 | 185 | Moriah Jefferson | 314 |
 | 186 | Alex Bentley | 313 |
@@ -1644,7 +1644,7 @@ _Last updated: 2026-06-07 19:20 UTC_
 | 188 | Allie Quigley | 475 |
 | 188 | Nia Coffey | 475 |
 | 190 | **Azurá Stevens** 🔴 | 474 |
-| 191 | **Kia Nurse** 🔴 | 473 |
+| 190 | **Kia Nurse** 🔴 +1 | 474 |
 | 192 | Alanna Smith | 470 |
 | 193 | Christi Thomas | 463 |
 | 193 | Nikki Teasley | 463 |
