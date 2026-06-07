@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-07 02:14 UTC_
+_Last updated: 2026-06-07 02:15 UTC_
 
 ## Contents
 
@@ -32,7 +32,7 @@ _Last updated: 2026-06-07 02:14 UTC_
 | 11 | Katie Smith | 6,450 |
 | 12 | Sylvia Fowles | 6,413 |
 | 13 | Lisa Leslie | 6,251 |
-| 14 | **Breanna Stewart** 🔴 +25 | 6,198 |
+| 14 | **Breanna Stewart** 🔴 +27 | 6,200 |
 | 15 | Jewell Loyd | 6,083 |
 | 16 | Brittney Griner | 6,031 |
 | 17 | Lauren Jackson | 6,005 |
@@ -1333,7 +1333,7 @@ _Last updated: 2026-06-07 02:14 UTC_
 | 82 | **Breanna Stewart** 🔴 +2 | 572 |
 | 83 | Andrea Stinson | 571 |
 | 84 | Kara Braxton | 570 |
-| 85 | **Kelsey Mitchell** 🔴 +3 | 566 |
+| 85 | **Kelsey Mitchell** 🔴 +4 | 567 |
 | 86 | Nikki McCray | 565 |
 | 87 | Sancho Lyttle | 563 |
 | 88 | Tan White | 557 |
@@ -1575,7 +1575,7 @@ _Last updated: 2026-06-07 02:14 UTC_
 | 119 | Odyssey Sims | 610 |
 | 120 | Layshia Clarendon | 609 |
 | 121 | Tiffany Mitchell | 604 |
-| 122 | **Kelsey Mitchell** 🔴 | 601 |
+| 122 | **Kelsey Mitchell** 🔴 +1 | 602 |
 | 123 | Janel McCarville | 597 |
 | 124 | Kamila Vodichkova | 596 |
 | 125 | Teresa Weatherspoon | 589 |
