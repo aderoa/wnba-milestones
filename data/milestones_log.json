@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-07T19:51:00+00:00",
+    "text": "Marina Mabrey passed Mwadi Mabika for #72 all-time in assists (career 775) \u2014 up from #73 entering today \u2014 (0.4 - 2nd \u2014 CHI @ TOR)",
+    "kind": "rank_pass",
+    "player": "Marina Mabrey",
+    "stat": "assists",
+    "rank": 72,
+    "passed_players": [
+      "Mwadi Mabika"
+    ],
+    "new_total": 775
+  },
+  {
     "ts": "2026-06-07T19:43:00+00:00",
     "text": "Kia Nurse passed Azur\u00e1 Stevens for #190 all-time in fouls (career 475) \u2014 up from #191 entering today \u2014 (2:49 - 2nd \u2014 CHI @ TOR)",
     "kind": "rank_pass",
@@ -2968,17 +2980,5 @@
       "Chelsea Gray"
     ],
     "new_total": 1222
-  },
-  {
-    "ts": "2026-06-05T01:53:00+00:00",
-    "text": "Kayla McBride passed Jia Perkins for #98 all-time in rebounds (career 1,221) \u2014 up from #99 entering today \u2014 (34.8 - 2nd \u2014 GS @ MIN)",
-    "kind": "rank_pass",
-    "player": "Kayla McBride",
-    "stat": "rebounds",
-    "rank": 98,
-    "passed_players": [
-      "Jia Perkins"
-    ],
-    "new_total": 1221
   }
 ]

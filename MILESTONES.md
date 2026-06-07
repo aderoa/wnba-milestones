@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-07 19:51 UTC
+
+- **Marina Mabrey** passed **Mwadi Mabika** for **#72** all-time in assists (career 775) — up from #73 entering today — _0.4 - 2nd — CHI @ TOR_
+
 ## 2026-06-07 19:43 UTC
 
 - **Kia Nurse** passed **Azurá Stevens** for **#190** all-time in fouls (career 475) — up from #191 entering today — _2:49 - 2nd — CHI @ TOR_
