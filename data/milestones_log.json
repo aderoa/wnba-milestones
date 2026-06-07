@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-07T20:26:00+00:00",
+    "text": "Isabelle Harrison passed Lindsey Harding for #181 all-time in fouls (career 487) \u2014 up from #183 entering today \u2014 (4:29 - 3rd \u2014 CHI @ TOR)",
+    "kind": "rank_pass",
+    "player": "Isabelle Harrison",
+    "stat": "fouls",
+    "rank": 181,
+    "passed_players": [
+      "Lindsey Harding"
+    ],
+    "new_total": 487
+  },
+  {
     "ts": "2026-06-07T20:21:00+00:00",
     "text": "Natasha Cloud passed Charde Houston and Shatori Walker-Kimbrough for #154 all-time in blocks (career 85) \u2014 up from #155 entering today \u2014 (5:18 - 3rd \u2014 CHI @ TOR)",
     "kind": "rank_pass",
@@ -2972,14 +2984,5 @@
       "Dearica Hamby"
     ],
     "new_total": 4229
-  },
-  {
-    "ts": "2026-06-05T02:22:00+00:00",
-    "text": "Courtney Williams reached 1,800 career rebounds (now 1,800) \u2014 (4:46 - 3rd \u2014 GS @ MIN)",
-    "kind": "round",
-    "player": "Courtney Williams",
-    "stat": "rebounds",
-    "value": 1800,
-    "new_total": 1800
   }
 ]
