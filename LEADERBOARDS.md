@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-07 19:31 UTC_
+_Last updated: 2026-06-07 19:32 UTC_
 
 ## Contents
 
@@ -336,7 +336,7 @@ _Last updated: 2026-06-07 19:31 UTC_
 | 109 | Tamika Raymond | 1,127 |
 | 111 | Adrienne Goodson | 1,126 |
 | 112 | NaLyssa Smith | 1,115 |
-| 113 | **Natasha Cloud** 🔴 +1 | 1,113 |
+| 113 | **Natasha Cloud** 🔴 +2 | 1,114 |
 | 114 | Deanna Nolan | 1,112 |
 | 115 | Aliyah Boston | 1,110 |
 | 115 | Chiney Ogwumike | 1,110 |
@@ -382,7 +382,7 @@ _Last updated: 2026-06-07 19:31 UTC_
 | 156 | Alanna Smith | 864 |
 | 157 | Krystal Thomas | 862 |
 | 158 | Nia Coffey | 854 |
-| 159 | **Marina Mabrey** 🔴 +2 | 851 |
+| 159 | **Marina Mabrey** 🔴 +3 | 852 |
 | 160 | Leilani Mitchell | 845 |
 | 161 | Essence Carson | 833 |
 | 162 | Kristi Toliver | 829 |
@@ -1634,8 +1634,8 @@ _Last updated: 2026-06-07 19:31 UTC_
 | 177 | Riquna Williams | 493 |
 | 179 | **Rachel Banham** 🔴 +1 | 491 |
 | 180 | Charde Houston | 487 |
+| 181 | **Isabelle Harrison** 🔴 +2 | 486 |
 | 181 | Lindsey Harding | 486 |
-| 182 | **Isabelle Harrison** 🔴 +1 | 485 |
 | 183 | Cathrine Kraayeveld | 484 |
 | 184 | Liz Cambage | 483 |
 | 184 | Rhonda Mapp | 483 |
