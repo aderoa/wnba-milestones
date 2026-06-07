@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-07 23:35 UTC_
+_Last updated: 2026-06-07 23:36 UTC_
 
 ## Contents
 
@@ -96,7 +96,7 @@ _Last updated: 2026-06-07 23:35 UTC_
 | 75 | Tammy Sutton-Brown | 3,498 |
 | 76 | Sancho Lyttle | 3,478 |
 | 77 | Ivory Latta | 3,447 |
-| 78 | **Ariel Atkins** 🔴 +2 | 3,444 |
+| 78 | **Ariel Atkins** 🔴 +4 | 3,446 |
 | 79 | Nicole Powell | 3,407 |
 | 80 | Epiphanny Prince | 3,381 |
 | 81 | Michelle Snow | 3,361 |
@@ -397,8 +397,8 @@ _Last updated: 2026-06-07 23:35 UTC_
 | 170 | Gabby Williams | 795 |
 | 172 | Charlotte Smith | 794 |
 | 173 | Rhonda Mapp | 788 |
-| 174 | **Ariel Atkins** 🔴 | 786 |
-| 174 | Mercedes Russell | 786 |
+| 174 | **Ariel Atkins** 🔴 +1 | 787 |
+| 175 | Mercedes Russell | 786 |
 | 176 | Odyssey Sims | 785 |
 | 177 | Sue Wicks | 780 |
 | 178 | Lindsey Harding | 779 |
