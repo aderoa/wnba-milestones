@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-07 20:34 UTC_
+_Last updated: 2026-06-07 20:35 UTC_
 
 ## Contents
 
@@ -83,7 +83,7 @@ _Last updated: 2026-06-07 20:34 UTC_
 | 62 | Allie Quigley | 3,786 |
 | 63 | Chasity Melvin | 3,781 |
 | 64 | Kara Lawson | 3,670 |
-| 65 | **Brittney Sykes** 🔴 +20 | 3,641 |
+| 65 | **Brittney Sykes** 🔴 +22 | 3,643 |
 | 66 | Mwadi Mabika | 3,576 |
 | 67 | Odyssey Sims | 3,574 |
 | 68 | Camille Smith | 3,551 |
@@ -118,7 +118,7 @@ _Last updated: 2026-06-07 20:34 UTC_
 | 97 | Marie Ferdinand-Harris | 3,001 |
 | 98 | Emma Meesseman | 2,966 |
 | 99 | **Natasha Cloud** 🔴 +2 | 2,954 |
-| 100 | **Elizabeth Williams** 🔴 +2 | 2,898 |
+| 100 | **Elizabeth Williams** 🔴 +4 | 2,900 |
 | 101 | Natalie Williams | 2,894 |
 | 102 | Jennifer Gillom | 2,888 |
 | 103 | Iziane Castro Marques | 2,862 |
@@ -1633,8 +1633,8 @@ _Last updated: 2026-06-07 20:34 UTC_
 | 177 | Ann Wauters | 493 |
 | 177 | Riquna Williams | 493 |
 | 179 | **Rachel Banham** 🔴 +2 | 492 |
-| 180 | Charde Houston | 487 |
-| 180 | **Isabelle Harrison** 🔴 +3 | 487 |
+| 180 | **Isabelle Harrison** 🔴 +4 | 488 |
+| 181 | Charde Houston | 487 |
 | 182 | Lindsey Harding | 486 |
 | 183 | Cathrine Kraayeveld | 484 |
 | 184 | Liz Cambage | 483 |

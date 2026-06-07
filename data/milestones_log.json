@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-07T20:35:00+00:00",
+    "text": "Isabelle Harrison passed Charde Houston for #180 all-time in fouls (career 488) \u2014 up from #183 entering today \u2014 (52.4 - 3rd \u2014 CHI @ TOR)",
+    "kind": "rank_pass",
+    "player": "Isabelle Harrison",
+    "stat": "fouls",
+    "rank": 180,
+    "passed_players": [
+      "Charde Houston"
+    ],
+    "new_total": 488
+  },
+  {
     "ts": "2026-06-07T20:33:00+00:00",
     "text": "Brittney Sykes passed Nykesha Sales for #105 all-time in rebounds (career 1,149) \u2014 up from #106 entering today \u2014 (1:38 - 3rd \u2014 CHI @ TOR)",
     "kind": "rank_pass",
@@ -2975,14 +2987,5 @@
       "Amber Jacobs"
     ],
     "new_total": 102
-  },
-  {
-    "ts": "2026-06-05T02:38:00+00:00",
-    "text": "Cecilia Zandalasini reached 600 career points (now 600) \u2014 (8:31 - 4th \u2014 GS @ MIN)",
-    "kind": "round",
-    "player": "Cecilia Zandalasini",
-    "stat": "points",
-    "value": 600,
-    "new_total": 600
   }
 ]
