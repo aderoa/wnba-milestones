@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-06-07T01:32:00+00:00",
+    "text": "Betnijah Laney-Hamilton passed Elena Baranova and Jantel Lavender for #126 all-time in turnovers (career 445) \u2014 (2:59 - 3rd \u2014 IND @ NY)",
+    "kind": "rank_pass",
+    "player": "Betnijah Laney-Hamilton",
+    "stat": "turnovers",
+    "rank": 126,
+    "passed_players": [
+      "Elena Baranova",
+      "Jantel Lavender"
+    ],
+    "new_total": 445
+  },
+  {
     "ts": "2026-06-07T01:30:00+00:00",
     "text": "Satou Sabally passed Charde Houston for #175 all-time in turnovers (career 332) \u2014 up from #176 entering today \u2014 (3:17 - 3rd \u2014 IND @ NY)",
     "kind": "rank_pass",
@@ -2967,17 +2980,5 @@
       "Ruth Riley"
     ],
     "new_total": 232
-  },
-  {
-    "ts": "2026-06-05T01:05:00+00:00",
-    "text": "Aliyah Boston passed Cathrine Kraayeveld for #166 all-time in points (career 1,927) \u2014 up from #173 entering today \u2014 (1:54 - 4th \u2014 ATL @ IND)",
-    "kind": "rank_pass",
-    "player": "Aliyah Boston",
-    "stat": "points",
-    "rank": 166,
-    "passed_players": [
-      "Cathrine Kraayeveld"
-    ],
-    "new_total": 1927
   }
 ]

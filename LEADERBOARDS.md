@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-07 01:31 UTC_
+_Last updated: 2026-06-07 01:32 UTC_
 
 ## Contents
 
@@ -1373,9 +1373,9 @@ _Last updated: 2026-06-07 01:31 UTC_
 | 122 | Ariel Atkins | 454 |
 | 122 | Kia Vaughn | 454 |
 | 124 | Janeth Arcain | 453 |
-| 125 | **Betnijah Laney-Hamilton** 🔴 | 444 |
-| 125 | Elena Baranova | 444 |
-| 125 | Jantel Lavender | 444 |
+| 125 | **Betnijah Laney-Hamilton** 🔴 +1 | 445 |
+| 126 | Elena Baranova | 444 |
+| 126 | Jantel Lavender | 444 |
 | 128 | Jackie Young | 442 |
 | 129 | Alysha Clark | 440 |
 | 129 | Ann Wauters | 440 |
