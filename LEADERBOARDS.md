@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-07 00:35 UTC_
+_Last updated: 2026-06-07 00:36 UTC_
 
 ## Contents
 
@@ -1496,7 +1496,7 @@ _Last updated: 2026-06-07 00:35 UTC_
 | 40 | DeWanna Bonner | 912 |
 | 41 | Shavonte Zellous | 907 |
 | 42 | Alysha Clark | 896 |
-| 43 | **Jonquel Jones** 🔴 +1 | 891 |
+| 43 | **Jonquel Jones** 🔴 +2 | 892 |
 | 44 | DeMya Walker | 882 |
 | 45 | Candice Dupree | 876 |
 | 46 | Murriel Page | 872 |
@@ -1611,8 +1611,8 @@ _Last updated: 2026-06-07 00:35 UTC_
 | 153 | **Sophie Cunningham** 🔴 | 523 |
 | 156 | Sheryl Swoopes | 519 |
 | 157 | **Monique Billings** 🔴 +1 | 518 |
-| 158 | **Myisha Hines-Allen** 🔴 +1 | 517 |
-| 158 | Nikki McCray | 517 |
+| 157 | **Myisha Hines-Allen** 🔴 +2 | 518 |
+| 159 | Nikki McCray | 517 |
 | 160 | Alex Bentley | 516 |
 | 161 | Jantel Lavender | 513 |
 | 162 | Adrienne Goodson | 512 |
