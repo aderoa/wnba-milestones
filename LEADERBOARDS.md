@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-07 01:22 UTC_
+_Last updated: 2026-06-07 01:23 UTC_
 
 ## Contents
 
@@ -32,7 +32,7 @@ _Last updated: 2026-06-07 01:22 UTC_
 | 11 | Katie Smith | 6,450 |
 | 12 | Sylvia Fowles | 6,413 |
 | 13 | Lisa Leslie | 6,251 |
-| 14 | **Breanna Stewart** 🔴 +7 | 6,180 |
+| 14 | **Breanna Stewart** 🔴 +11 | 6,184 |
 | 15 | Jewell Loyd | 6,083 |
 | 16 | Brittney Griner | 6,031 |
 | 17 | Lauren Jackson | 6,005 |
@@ -47,7 +47,7 @@ _Last updated: 2026-06-07 01:22 UTC_
 | 26 | Lindsay Whalen | 5,511 |
 | 27 | Swin Cash | 5,119 |
 | 28 | Tangela Smith | 5,035 |
-| 29 | **Kelsey Mitchell** 🔴 +11 | 5,014 |
+| 29 | **Kelsey Mitchell** 🔴 +12 | 5,015 |
 | 30 | Taj McWilliams-Franklin | 4,992 |
 | 31 | Tiffany Hayes | 4,990 |
 | 32 | Maya Moore | 4,984 |
@@ -214,7 +214,7 @@ _Last updated: 2026-06-07 01:22 UTC_
 | 193 | Nikki Teasley | 1,690 |
 | 194 | Shenise Johnson | 1,688 |
 | 195 | Janell Burse | 1,580 |
-| 196 | **Monique Billings** 🔴 +12 | 1,555 |
+| 196 | **Monique Billings** 🔴 +14 | 1,557 |
 | 197 | Le'coe Willingham | 1,552 |
 | 198 | Shatori Walker-Kimbrough | 1,544 |
 | 199 | Rebecca Allen | 1,526 |
@@ -336,7 +336,7 @@ _Last updated: 2026-06-07 01:22 UTC_
 | 109 | Tamika Raymond | 1,127 |
 | 111 | Adrienne Goodson | 1,126 |
 | 112 | NaLyssa Smith | 1,121 |
-| 113 | **Aliyah Boston** 🔴 +5 | 1,115 |
+| 113 | **Aliyah Boston** 🔴 +6 | 1,116 |
 | 114 | Deanna Nolan | 1,112 |
 | 114 | Natasha Cloud | 1,112 |
 | 116 | Chiney Ogwumike | 1,110 |
@@ -550,7 +550,7 @@ _Last updated: 2026-06-07 01:22 UTC_
 | 119 | Veronica Burton | 540 |
 | 120 | Marie Ferdinand-Harris | 528 |
 | 121 | Margo Dydek | 524 |
-| 122 | **Caitlin Clark** 🔴 +5 | 522 |
+| 122 | **Caitlin Clark** 🔴 +6 | 523 |
 | 123 | **Myisha Hines-Allen** 🔴 | 520 |
 | 124 | Rhyne Howard | 511 |
 | 125 | Iziane Castro Marques | 509 |
@@ -1333,8 +1333,8 @@ _Last updated: 2026-06-07 01:22 UTC_
 | 82 | **Breanna Stewart** 🔴 +2 | 572 |
 | 83 | Andrea Stinson | 571 |
 | 84 | Kara Braxton | 570 |
+| 85 | **Kelsey Mitchell** 🔴 +2 | 565 |
 | 85 | Nikki McCray | 565 |
-| 86 | **Kelsey Mitchell** 🔴 +1 | 564 |
 | 87 | Sancho Lyttle | 563 |
 | 88 | Tan White | 557 |
 | 89 | Lauren Jackson | 549 |
