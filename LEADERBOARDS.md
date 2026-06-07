@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-07 00:11 UTC_
+_Last updated: 2026-06-07 00:12 UTC_
 
 ## Contents
 
@@ -184,7 +184,7 @@ _Last updated: 2026-06-07 00:11 UTC_
 | 163 | Chiney Ogwumike | 1,964 |
 | 164 | Nicole Ohlde | 1,959 |
 | 165 | Kedra Holland-Corn | 1,938 |
-| 166 | **Aliyah Boston** 🔴 +2 | 1,930 |
+| 166 | **Aliyah Boston** 🔴 +4 | 1,932 |
 | 167 | Cathrine Kraayeveld | 1,926 |
 | 168 | Roneeka Hodges | 1,925 |
 | 169 | Latasha Byears | 1,920 |
@@ -236,7 +236,7 @@ _Last updated: 2026-06-07 00:11 UTC_
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | Alyssa Thomas | 2,817 |
-| 13 | **Jonquel Jones** 🔴 | 2,663 |
+| 13 | **Jonquel Jones** 🔴 +1 | 2,664 |
 | 14 | Sancho Lyttle | 2,596 |
 | 15 | A'ja Wilson | 2,588 |
 | 16 | DeLisha Milton-Jones | 2,574 |
@@ -881,7 +881,7 @@ _Last updated: 2026-06-07 00:11 UTC_
 | 40 | Candice Dupree | 431 |
 | 41 | Epiphanny Prince | 429 |
 | 42 | Tanisha Wright | 427 |
-| 43 | **Breanna Stewart** 🔴 | 421 |
+| 43 | **Breanna Stewart** 🔴 +1 | 422 |
 | 44 | Katie Smith | 408 |
 | 45 | Cappie Pondexter | 405 |
 | 46 | Nicole Powell | 401 |
@@ -1172,7 +1172,7 @@ _Last updated: 2026-06-07 00:11 UTC_
 | 126 | Theresa Plaisance | 172 |
 | 127 | **Caitlin Clark** 🔴 | 171 |
 | 128 | Amanda Lassiter | 170 |
-| 129 | **Marine Johannès** 🔴 +1 | 169 |
+| 128 | **Marine Johannès** 🔴 +2 | 170 |
 | 130 | Shavonte Zellous | 167 |
 | 130 | Tianna Hawkins | 167 |
 | 132 | Charlotte Smith | 164 |
@@ -1427,9 +1427,9 @@ _Last updated: 2026-06-07 00:11 UTC_
 | 176 | Satou Sabally | 330 |
 | 177 | Erlana Larkins | 326 |
 | 177 | Rita Williams | 326 |
+| 179 | **Caitlin Clark** 🔴 +1 | 325 |
 | 179 | Le'coe Willingham | 325 |
-| 180 | **Caitlin Clark** 🔴 | 324 |
-| 180 | Olympia Scott | 324 |
+| 181 | Olympia Scott | 324 |
 | 182 | Gabby Williams | 321 |
 | 183 | Kia Nurse | 316 |
 | 184 | Barbara Farris | 315 |
