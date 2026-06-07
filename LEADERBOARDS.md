@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-07 23:14 UTC_
+_Last updated: 2026-06-07 23:15 UTC_
 
 ## Contents
 
@@ -801,15 +801,15 @@ _Last updated: 2026-06-07 23:14 UTC_
 | 165 | Astou Ndour-Fall | 78 |
 | 165 | Katie Smith | 78 |
 | 165 | Slobodanka Tuvic | 78 |
+| 168 | **Cameron Brink** 🔴 +1 | 77 |
 | 168 | Kara Wolters | 77 |
 | 168 | Noelle Quinn | 77 |
 | 168 | Tierra Ruffin-Pratt | 77 |
-| 171 | **Cameron Brink** 🔴 | 76 |
-| 171 | Jennifer Lacy | 76 |
-| 171 | Stephanie Talbot | 76 |
-| 171 | Sugar Rodgers | 76 |
-| 171 | Tan White | 76 |
-| 171 | Tiffany Jackson | 76 |
+| 172 | Jennifer Lacy | 76 |
+| 172 | Stephanie Talbot | 76 |
+| 172 | Sugar Rodgers | 76 |
+| 172 | Tan White | 76 |
+| 172 | Tiffany Jackson | 76 |
 | 177 | Karima Christmas-Kelly | 75 |
 | 177 | Kelsey Griffin | 75 |
 | 177 | Tianna Hawkins | 75 |
