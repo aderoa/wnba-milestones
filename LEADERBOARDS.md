@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-07 00:10 UTC_
+_Last updated: 2026-06-07 00:11 UTC_
 
 ## Contents
 
@@ -47,7 +47,7 @@ _Last updated: 2026-06-07 00:10 UTC_
 | 26 | Lindsay Whalen | 5,511 |
 | 27 | Swin Cash | 5,119 |
 | 28 | Tangela Smith | 5,035 |
-| 29 | **Kelsey Mitchell** 🔴 +2 | 5,005 |
+| 29 | **Kelsey Mitchell** 🔴 +5 | 5,008 |
 | 30 | Taj McWilliams-Franklin | 4,992 |
 | 31 | Tiffany Hayes | 4,990 |
 | 32 | Maya Moore | 4,984 |
@@ -184,7 +184,7 @@ _Last updated: 2026-06-07 00:10 UTC_
 | 163 | Chiney Ogwumike | 1,964 |
 | 164 | Nicole Ohlde | 1,959 |
 | 165 | Kedra Holland-Corn | 1,938 |
-| 166 | **Aliyah Boston** 🔴 | 1,928 |
+| 166 | **Aliyah Boston** 🔴 +2 | 1,930 |
 | 167 | Cathrine Kraayeveld | 1,926 |
 | 168 | Roneeka Hodges | 1,925 |
 | 169 | Latasha Byears | 1,920 |
@@ -338,8 +338,8 @@ _Last updated: 2026-06-07 00:10 UTC_
 | 112 | NaLyssa Smith | 1,121 |
 | 113 | Deanna Nolan | 1,112 |
 | 113 | Natasha Cloud | 1,112 |
-| 115 | **Aliyah Boston** 🔴 | 1,110 |
-| 115 | Chiney Ogwumike | 1,110 |
+| 115 | **Aliyah Boston** 🔴 +1 | 1,111 |
+| 116 | Chiney Ogwumike | 1,110 |
 | 117 | Becky Hammon | 1,108 |
 | 118 | Ann Wauters | 1,105 |
 | 119 | Svetlana Abrosimova | 1,078 |
@@ -550,8 +550,8 @@ _Last updated: 2026-06-07 00:10 UTC_
 | 119 | Veronica Burton | 540 |
 | 120 | Marie Ferdinand-Harris | 528 |
 | 121 | Margo Dydek | 524 |
+| 122 | **Caitlin Clark** 🔴 +3 | 520 |
 | 122 | Myisha Hines-Allen | 520 |
-| 123 | **Caitlin Clark** 🔴 +2 | 519 |
 | 124 | **Rhyne Howard** 🔴 +3 | 511 |
 | 125 | Iziane Castro Marques | 509 |
 | 126 | Brittany Boyd-Jones | 508 |
@@ -1051,7 +1051,7 @@ _Last updated: 2026-06-07 00:10 UTC_
 | 5 | Tina Thompson | 745 |
 | 6 | Kayla McBride | 739 |
 | 7 | Katie Douglas | 723 |
-| 8 | **Kelsey Mitchell** 🔴 | 687 |
+| 8 | **Kelsey Mitchell** 🔴 +1 | 688 |
 | 9 | Jewell Loyd | 679 |
 | 10 | DeWanna Bonner | 672 |
 | 11 | Kristi Toliver | 651 |
@@ -1172,7 +1172,7 @@ _Last updated: 2026-06-07 00:10 UTC_
 | 126 | Theresa Plaisance | 172 |
 | 127 | **Caitlin Clark** 🔴 | 171 |
 | 128 | Amanda Lassiter | 170 |
-| 129 | **Marine Johannès** 🔴 | 168 |
+| 129 | **Marine Johannès** 🔴 +1 | 169 |
 | 130 | Shavonte Zellous | 167 |
 | 130 | Tianna Hawkins | 167 |
 | 132 | Charlotte Smith | 164 |
