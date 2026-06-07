@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-07 01:37 UTC_
+_Last updated: 2026-06-07 01:38 UTC_
 
 ## Contents
 
@@ -164,7 +164,7 @@ _Last updated: 2026-06-07 01:37 UTC_
 | 143 | Dawn Staley | 2,228 |
 | 144 | Teaira McCowan | 2,225 |
 | 145 | Janel McCarville | 2,215 |
-| 146 | **Satou Sabally** 🔴 +8 | 2,212 |
+| 145 | **Satou Sabally** 🔴 +11 | 2,215 |
 | 147 | Sami Whitcomb | 2,211 |
 | 148 | Sophia Witherspoon | 2,210 |
 | 149 | Ruthie Bolton | 2,175 |
@@ -1609,9 +1609,9 @@ _Last updated: 2026-06-07 01:37 UTC_
 | 152 | Epiphanny Prince | 525 |
 | 154 | Armintie Herrington | 523 |
 | 154 | Kayla McBride | 523 |
-| 156 | **Monique Billings** 🔴 +2 | 519 |
-| 156 | **Myisha Hines-Allen** 🔴 +3 | 519 |
-| 156 | Sheryl Swoopes | 519 |
+| 156 | **Monique Billings** 🔴 +3 | 520 |
+| 157 | **Myisha Hines-Allen** 🔴 +3 | 519 |
+| 157 | Sheryl Swoopes | 519 |
 | 159 | Nikki McCray | 517 |
 | 160 | Alex Bentley | 516 |
 | 161 | Jantel Lavender | 513 |

@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-07T01:38:00+00:00",
+    "text": "Monique Billings passed Sheryl Swoopes for #156 all-time in fouls (career 520) \u2014 up from #157 entering today \u2014 (1:24 - 3rd \u2014 IND @ NY)",
+    "kind": "rank_pass",
+    "player": "Monique Billings",
+    "stat": "fouls",
+    "rank": 156,
+    "passed_players": [
+      "Sheryl Swoopes"
+    ],
+    "new_total": 520
+  },
+  {
     "ts": "2026-06-07T01:36:00+00:00",
     "text": "Sophie Cunningham passed Candice Wiggins, Epiphanny Prince, and Jackie Young for #150 all-time in fouls (career 526) \u2014 up from #154 entering today \u2014 (2:22 - 3rd \u2014 IND @ NY)",
     "kind": "rank_pass",
@@ -2971,17 +2983,5 @@
     "stat": "three-pointers",
     "value": 100,
     "new_total": 100
-  },
-  {
-    "ts": "2026-06-05T01:10:00+00:00",
-    "text": "Kayla Thornton passed Tamika Whitmore for #79 all-time in rebounds (career 1,356) \u2014 (7:11 - 1st \u2014 GS @ MIN)",
-    "kind": "rank_pass",
-    "player": "Kayla Thornton",
-    "stat": "rebounds",
-    "rank": 79,
-    "passed_players": [
-      "Tamika Whitmore"
-    ],
-    "new_total": 1356
   }
 ]
