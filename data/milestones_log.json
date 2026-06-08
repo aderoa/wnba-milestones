@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-08T00:43:00+00:00",
+    "text": "Dearica Hamby passed Plenette Pierson for #50 all-time in points (career 4,260) \u2014 up from #52 entering today \u2014 (6:02 - 4th \u2014 POR @ LA)",
+    "kind": "rank_pass",
+    "player": "Dearica Hamby",
+    "stat": "points",
+    "rank": 50,
+    "passed_players": [
+      "Plenette Pierson"
+    ],
+    "new_total": 4260
+  },
+  {
     "ts": "2026-06-08T00:42:00+00:00",
     "text": "Kelsey Plum passed Karima Christmas-Kelly for #117 all-time in steals (career 262) \u2014 up from #118 entering today \u2014 (6:53 - 4th \u2014 POR @ LA)",
     "kind": "rank_pass",
@@ -2972,18 +2984,5 @@
       "Noelle Quinn"
     ],
     "new_total": 185
-  },
-  {
-    "ts": "2026-06-05T13:51:00+00:00",
-    "text": "Nia Coffey passed Seimone Augustus and Allie Quigley for #187 all-time in fouls (career 478) \u2014 up from #189 entering today \u2014 (Final \u2014 GS @ MIN)",
-    "kind": "rank_pass",
-    "player": "Nia Coffey",
-    "stat": "fouls",
-    "rank": 187,
-    "passed_players": [
-      "Seimone Augustus",
-      "Allie Quigley"
-    ],
-    "new_total": 478
   }
 ]
