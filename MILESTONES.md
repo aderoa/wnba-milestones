@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-08 00:39 UTC
+
+- **Kelsey Plum** passed **Riquna Williams** for **#119** all-time in steals (career 261) — _7:23 - 4th — POR @ LA_
+
 ## 2026-06-08 00:11 UTC
 
 - **Dearica Hamby** reached **400** career steals (now 400) — _8:01 - 3rd — POR @ LA_

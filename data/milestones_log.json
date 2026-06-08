@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-08T00:39:00+00:00",
+    "text": "Kelsey Plum passed Riquna Williams for #119 all-time in steals (career 261) \u2014 (7:23 - 4th \u2014 POR @ LA)",
+    "kind": "rank_pass",
+    "player": "Kelsey Plum",
+    "stat": "steals",
+    "rank": 119,
+    "passed_players": [
+      "Riquna Williams"
+    ],
+    "new_total": 261
+  },
+  {
     "ts": "2026-06-08T00:11:00+00:00",
     "text": "Dearica Hamby reached 400 career steals (now 400) \u2014 (8:01 - 3rd \u2014 POR @ LA)",
     "kind": "round",
@@ -2973,17 +2985,5 @@
       "Seimone Augustus"
     ],
     "new_total": 1234
-  },
-  {
-    "ts": "2026-06-05T13:51:00+00:00",
-    "text": "Kayla McBride passed Camille Smith for #38 all-time in steals (career 438) \u2014 up from #39 entering today \u2014 (Final \u2014 GS @ MIN)",
-    "kind": "rank_pass",
-    "player": "Kayla McBride",
-    "stat": "steals",
-    "rank": 38,
-    "passed_players": [
-      "Camille Smith"
-    ],
-    "new_total": 438
   }
 ]

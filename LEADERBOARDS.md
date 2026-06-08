@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-08 00:38 UTC_
+_Last updated: 2026-06-08 00:39 UTC_
 
 ## Contents
 
@@ -68,8 +68,8 @@ _Last updated: 2026-06-08 00:38 UTC_
 | 47 | Allisha Gray | 4,339 |
 | 48 | Sophia Young-Malcolm | 4,300 |
 | 49 | Kahleah Copper | 4,283 |
+| 50 | **Dearica Hamby** 🔴 +15 | 4,258 |
 | 50 | Plenette Pierson | 4,258 |
-| 51 | **Dearica Hamby** 🔴 +13 | 4,256 |
 | 52 | Monique Currie | 4,253 |
 | 53 | Courtney Williams | 4,238 |
 | 54 | Vickie Johnson | 4,230 |
@@ -454,7 +454,7 @@ _Last updated: 2026-06-08 00:38 UTC_
 | 23 | **Erica Wheeler** 🔴 +4 | 1,310 |
 | 24 | Kristi Toliver | 1,301 |
 | 25 | Katie Smith | 1,258 |
-| 26 | **Kelsey Plum** 🔴 +4 | 1,241 |
+| 26 | **Kelsey Plum** 🔴 +5 | 1,242 |
 | 27 | Odyssey Sims | 1,228 |
 | 28 | Vickie Johnson | 1,202 |
 | 29 | Jordin Canada | 1,201 |
@@ -956,8 +956,8 @@ _Last updated: 2026-06-08 00:38 UTC_
 | 115 | Kayla Thornton | 263 |
 | 116 | Michelle Snow | 262 |
 | 117 | Karima Christmas-Kelly | 261 |
-| 118 | **Kelsey Plum** 🔴 | 260 |
-| 118 | Riquna Williams | 260 |
+| 117 | **Kelsey Plum** 🔴 +1 | 261 |
+| 119 | Riquna Williams | 260 |
 | 120 | Noelle Quinn | 256 |
 | 121 | Elaine Powell | 255 |
 | 121 | Loree Moore | 255 |
@@ -1517,7 +1517,7 @@ _Last updated: 2026-06-08 00:38 UTC_
 | 59 | Tully Bevilaqua | 813 |
 | 62 | Nykesha Sales | 796 |
 | 63 | Ebony Hoffman | 791 |
-| 64 | **Erica Wheeler** 🔴 +1 | 788 |
+| 64 | **Erica Wheeler** 🔴 +2 | 789 |
 | 65 | Sue Bird | 775 |
 | 66 | Sheri Sam | 766 |
 | 67 | Natasha Cloud | 756 |
