@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-08T23:07:00+00:00",
+    "text": "Olivia Nelson-Ododa passed Brionna Jones for #99 all-time in blocks (career 126) \u2014 up from #100 entering today \u2014 (6:52 - 1st \u2014 NY @ CON)",
+    "kind": "rank_pass",
+    "player": "Olivia Nelson-Ododa",
+    "stat": "blocks",
+    "rank": 99,
+    "passed_players": [
+      "Brionna Jones"
+    ],
+    "new_total": 126
+  },
+  {
     "ts": "2026-06-08T00:57:00+00:00",
     "text": "Kelsey Plum passed Michelle Snow for #116 all-time in steals (career 263) \u2014 up from #118 entering today \u2014 (End of 4th \u2014 POR @ LA)",
     "kind": "rank_pass",
@@ -2969,17 +2981,5 @@
     "stat": "points",
     "value": 1100,
     "new_total": 1104
-  },
-  {
-    "ts": "2026-06-05T13:51:00+00:00",
-    "text": "Kiah Stokes passed Janell Burse for #107 all-time in fouls (career 633) \u2014 up from #108 entering today \u2014 (Final \u2014 GS @ MIN)",
-    "kind": "rank_pass",
-    "player": "Kiah Stokes",
-    "stat": "fouls",
-    "rank": 107,
-    "passed_players": [
-      "Janell Burse"
-    ],
-    "new_total": 633
   }
 ]

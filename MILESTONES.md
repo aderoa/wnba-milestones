@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-08 23:07 UTC
+
+- **Olivia Nelson-Ododa** passed **Brionna Jones** for **#99** all-time in blocks (career 126) — up from #100 entering today — _6:52 - 1st — NY @ CON_
+
 ## 2026-06-08 00:57 UTC
 
 - **Kelsey Plum** passed **Michelle Snow** for **#116** all-time in steals (career 263) — up from #118 entering today — _End of 4th — POR @ LA_
