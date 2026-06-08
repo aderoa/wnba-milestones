@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-08T23:32:00+00:00",
+    "text": "Monique Billings passed Bridget Pettis for #190 all-time in steals (career 178) \u2014 up from #191 entering today \u2014 (50.1 - 1st \u2014 IND @ WSH)",
+    "kind": "rank_pass",
+    "player": "Monique Billings",
+    "stat": "steals",
+    "rank": 190,
+    "passed_players": [
+      "Bridget Pettis"
+    ],
+    "new_total": 178
+  },
+  {
     "ts": "2026-06-08T23:31:00+00:00",
     "text": "Michaela Onyenwere passed Jordan Hooper for #155 all-time in three-pointers (career 142) \u2014 up from #156 entering today \u2014 (1:46 - 1st \u2014 IND @ WSH)",
     "kind": "rank_pass",
@@ -2969,17 +2981,5 @@
       "Crystal Langhorne"
     ],
     "new_total": 316
-  },
-  {
-    "ts": "2026-06-05T13:51:00+00:00",
-    "text": "Gabby Williams passed Kaleena Mosqueda-Lewis for #161 all-time in three-pointers (career 138) \u2014 (Final \u2014 GS @ MIN)",
-    "kind": "rank_pass",
-    "player": "Gabby Williams",
-    "stat": "three-pointers",
-    "rank": 161,
-    "passed_players": [
-      "Kaleena Mosqueda-Lewis"
-    ],
-    "new_total": 138
   }
 ]

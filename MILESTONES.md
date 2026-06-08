@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-08 23:32 UTC
+
+- **Monique Billings** passed **Bridget Pettis** for **#190** all-time in steals (career 178) — up from #191 entering today — _50.1 - 1st — IND @ WSH_
+
 ## 2026-06-08 23:31 UTC
 
 - **Michaela Onyenwere** passed **Jordan Hooper** for **#155** all-time in three-pointers (career 142) — up from #156 entering today — _1:46 - 1st — IND @ WSH_
