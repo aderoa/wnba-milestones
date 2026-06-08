@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-08 23:09 UTC_
+_Last updated: 2026-06-08 23:10 UTC_
 
 ## Contents
 
@@ -1223,7 +1223,7 @@ _Last updated: 2026-06-08 23:09 UTC_
 | 177 | Lexie Hull | 118 |
 | 177 | Tonya Edwards | 118 |
 | 179 | Edwige Lawson-Wade | 116 |
-| 179 | Kennedy Burke | 116 |
+| 179 | **Kennedy Burke** 🔴 | 116 |
 | 179 | Marie Ferdinand-Harris | 116 |
 | 182 | Ebony Hoffman | 115 |
 | 182 | Shey Peddy | 115 |
