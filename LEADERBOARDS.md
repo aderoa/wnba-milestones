@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-08 23:52 UTC_
+_Last updated: 2026-06-08 23:53 UTC_
 
 ## Contents
 
@@ -748,9 +748,9 @@ _Last updated: 2026-06-08 23:52 UTC_
 | 112 | Amanda Lassiter | 111 |
 | 112 | Kamila Vodichkova | 111 |
 | 112 | Kamilla Cardoso | 111 |
+| 112 | **Shakira Austin** 🔴 +1 | 111 |
 | 112 | Sophia Young-Malcolm | 111 |
 | 112 | Tari Phillips | 111 |
-| 117 | **Shakira Austin** 🔴 | 110 |
 | 118 | Erin Perperoglou | 108 |
 | 118 | Glory Johnson | 108 |
 | 120 | Courtney Williams | 106 |
