@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-08T00:48:00+00:00",
+    "text": "Kelsey Plum passed Crystal Robinson for #93 all-time in fouls (career 684) \u2014 up from #95 entering today \u2014 (5:10 - 4th \u2014 POR @ LA)",
+    "kind": "rank_pass",
+    "player": "Kelsey Plum",
+    "stat": "fouls",
+    "rank": 93,
+    "passed_players": [
+      "Crystal Robinson"
+    ],
+    "new_total": 684
+  },
+  {
     "ts": "2026-06-08T00:43:00+00:00",
     "text": "Dearica Hamby passed Plenette Pierson for #50 all-time in points (career 4,260) \u2014 up from #52 entering today \u2014 (6:02 - 4th \u2014 POR @ LA)",
     "kind": "rank_pass",
@@ -2972,17 +2984,5 @@
       "Shameka Christon"
     ],
     "new_total": 166
-  },
-  {
-    "ts": "2026-06-05T13:51:00+00:00",
-    "text": "Nia Coffey passed Noelle Quinn for #118 all-time in three-pointers (career 185) \u2014 (Final \u2014 GS @ MIN)",
-    "kind": "rank_pass",
-    "player": "Nia Coffey",
-    "stat": "three-pointers",
-    "rank": 118,
-    "passed_players": [
-      "Noelle Quinn"
-    ],
-    "new_total": 185
   }
 ]

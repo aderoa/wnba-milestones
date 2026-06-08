@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-08 00:47 UTC_
+_Last updated: 2026-06-08 00:48 UTC_
 
 ## Contents
 
@@ -1545,9 +1545,9 @@ _Last updated: 2026-06-08 00:47 UTC_
 | 89 | Sophia Young-Malcolm | 687 |
 | 90 | Maya Moore | 686 |
 | 91 | Jasmine Thomas | 685 |
+| 92 | **Kelsey Plum** 🔴 +4 | 684 |
 | 92 | Leilani Mitchell | 684 |
-| 93 | Crystal Robinson | 682 |
-| 93 | **Kelsey Plum** 🔴 +2 | 682 |
+| 94 | Crystal Robinson | 682 |
 | 95 | Jennifer Lacy | 680 |
 | 95 | Temeka Johnson | 680 |
 | 97 | Kelly Miller | 676 |

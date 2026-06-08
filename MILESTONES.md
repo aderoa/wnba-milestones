@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-08 00:48 UTC
+
+- **Kelsey Plum** passed **Crystal Robinson** for **#93** all-time in fouls (career 684) — up from #95 entering today — _5:10 - 4th — POR @ LA_
+
 ## 2026-06-08 00:43 UTC
 
 - **Dearica Hamby** passed **Plenette Pierson** for **#50** all-time in points (career 4,260) — up from #52 entering today — _6:02 - 4th — POR @ LA_
