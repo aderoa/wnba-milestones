@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-08 00:12 UTC_
+_Last updated: 2026-06-08 00:13 UTC_
 
 ## Contents
 
@@ -70,7 +70,7 @@ _Last updated: 2026-06-08 00:12 UTC_
 | 49 | Kahleah Copper | 4,283 |
 | 50 | Plenette Pierson | 4,258 |
 | 51 | Monique Currie | 4,253 |
-| 52 | **Dearica Hamby** 🔴 +6 | 4,249 |
+| 52 | **Dearica Hamby** 🔴 +8 | 4,251 |
 | 53 | Courtney Williams | 4,238 |
 | 54 | Vickie Johnson | 4,230 |
 | 55 | Yolanda Griffith | 4,224 |
@@ -451,7 +451,7 @@ _Last updated: 2026-06-08 00:12 UTC_
 | 20 | Briann January | 1,339 |
 | 21 | Dawn Staley | 1,337 |
 | 22 | Teresa Weatherspoon | 1,333 |
-| 23 | **Erica Wheeler** 🔴 +2 | 1,308 |
+| 23 | **Erica Wheeler** 🔴 +3 | 1,309 |
 | 24 | Kristi Toliver | 1,301 |
 | 25 | Katie Smith | 1,258 |
 | 26 | **Kelsey Plum** 🔴 +1 | 1,238 |
@@ -1312,9 +1312,9 @@ _Last updated: 2026-06-08 00:12 UTC_
 | 61 | Yolanda Griffith | 653 |
 | 62 | Sheri Sam | 650 |
 | 63 | Dawn Staley | 643 |
+| 64 | **Kelsey Plum** 🔴 +1 | 637 |
 | 64 | Ruth Riley | 637 |
-| 65 | Kayla McBride | 636 |
-| 65 | **Kelsey Plum** 🔴 | 636 |
+| 66 | Kayla McBride | 636 |
 | 67 | Odyssey Sims | 631 |
 | 67 | Svetlana Abrosimova | 631 |
 | 69 | Jonquel Jones | 627 |
