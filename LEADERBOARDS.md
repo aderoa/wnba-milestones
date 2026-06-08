@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-08 23:17 UTC_
+_Last updated: 2026-06-08 23:18 UTC_
 
 ## Contents
 
@@ -153,7 +153,7 @@ _Last updated: 2026-06-08 23:17 UTC_
 | 132 | Kayla Thornton | 2,333 |
 | 133 | Merlakia Jones | 2,308 |
 | 134 | Kia Vaughn | 2,288 |
-| 135 | **Betnijah Laney-Hamilton** 🔴 | 2,282 |
+| 135 | **Betnijah Laney-Hamilton** 🔴 +3 | 2,285 |
 | 136 | Azurá Stevens | 2,259 |
 | 137 | Allison Feaster | 2,258 |
 | 138 | Shekinna Stricklen | 2,245 |
@@ -336,9 +336,9 @@ _Last updated: 2026-06-08 23:17 UTC_
 | 109 | Tamika Raymond | 1,127 |
 | 111 | Adrienne Goodson | 1,126 |
 | 112 | NaLyssa Smith | 1,115 |
-| 113 | **Aliyah Boston** 🔴 +2 | 1,112 |
-| 113 | Deanna Nolan | 1,112 |
-| 113 | Natasha Cloud | 1,112 |
+| 113 | **Aliyah Boston** 🔴 +3 | 1,113 |
+| 114 | Deanna Nolan | 1,112 |
+| 114 | Natasha Cloud | 1,112 |
 | 116 | Chiney Ogwumike | 1,110 |
 | 117 | Becky Hammon | 1,108 |
 | 118 | Ann Wauters | 1,105 |
@@ -1151,7 +1151,7 @@ _Last updated: 2026-06-08 23:17 UTC_
 | 105 | Damiris Dantas | 211 |
 | 105 | Erin Phillips | 211 |
 | 107 | Andrea Stinson | 207 |
-| 108 | **Betnijah Laney-Hamilton** 🔴 | 204 |
+| 108 | **Betnijah Laney-Hamilton** 🔴 +1 | 205 |
 | 109 | Lexie Brown | 203 |
 | 110 | Shanna Zolman | 199 |
 | 111 | Temeka Johnson | 197 |
