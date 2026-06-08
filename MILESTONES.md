@@ -2,6 +2,11 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-08 00:11 UTC
+
+- **Dearica Hamby** reached **400** career steals (now 400) — _8:01 - 3rd — POR @ LA_
+- **Dearica Hamby** passed **Dominique Canty** and **Wendy Palmer** for **#56** all-time in fouls (career 832) — up from #58 entering today — _8:01 - 3rd — POR @ LA_
+
 ## 2026-06-07 23:08 UTC
 
 - **Dearica Hamby** passed **Carolyn Swords** and **Rebecca Lobo** for **#122** all-time in blocks (career 105) — up from #123 entering today — _6:17 - 1st — POR @ LA_

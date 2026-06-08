@@ -1,5 +1,27 @@
 [
   {
+    "ts": "2026-06-08T00:11:00+00:00",
+    "text": "Dearica Hamby reached 400 career steals (now 400) \u2014 (8:01 - 3rd \u2014 POR @ LA)",
+    "kind": "round",
+    "player": "Dearica Hamby",
+    "stat": "steals",
+    "value": 400,
+    "new_total": 400
+  },
+  {
+    "ts": "2026-06-08T00:11:00+00:00",
+    "text": "Dearica Hamby passed Dominique Canty and Wendy Palmer for #56 all-time in fouls (career 832) \u2014 up from #58 entering today \u2014 (8:01 - 3rd \u2014 POR @ LA)",
+    "kind": "rank_pass",
+    "player": "Dearica Hamby",
+    "stat": "fouls",
+    "rank": 56,
+    "passed_players": [
+      "Dominique Canty",
+      "Wendy Palmer"
+    ],
+    "new_total": 832
+  },
+  {
     "ts": "2026-06-07T23:08:00+00:00",
     "text": "Dearica Hamby passed Carolyn Swords and Rebecca Lobo for #122 all-time in blocks (career 105) \u2014 up from #123 entering today \u2014 (6:17 - 1st \u2014 POR @ LA)",
     "kind": "rank_pass",
@@ -2963,29 +2985,5 @@
       "Camille Smith"
     ],
     "new_total": 438
-  },
-  {
-    "ts": "2026-06-05T13:51:00+00:00",
-    "text": "Kayla McBride passed Ruth Riley for #64 all-time in turnovers (career 638) \u2014 up from #65 entering today \u2014 (Final \u2014 GS @ MIN)",
-    "kind": "rank_pass",
-    "player": "Kayla McBride",
-    "stat": "turnovers",
-    "rank": 64,
-    "passed_players": [
-      "Ruth Riley"
-    ],
-    "new_total": 638
-  },
-  {
-    "ts": "2026-06-05T13:51:00+00:00",
-    "text": "Courtney Williams passed Monique Currie for #51 all-time in points (career 4,255) \u2014 up from #52 entering today \u2014 (Final \u2014 GS @ MIN)",
-    "kind": "rank_pass",
-    "player": "Courtney Williams",
-    "stat": "points",
-    "rank": 51,
-    "passed_players": [
-      "Monique Currie"
-    ],
-    "new_total": 4255
   }
 ]

@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-08 00:10 UTC_
+_Last updated: 2026-06-08 00:11 UTC_
 
 ## Contents
 
@@ -63,7 +63,7 @@ _Last updated: 2026-06-08 00:10 UTC_
 | 42 | Kristi Toliver | 4,474 |
 | 43 | Crystal Langhorne | 4,433 |
 | 43 | Jia Perkins | 4,433 |
-| 45 | **Kelsey Plum** 🔴 +3 | 4,398 |
+| 45 | **Kelsey Plum** 🔴 +5 | 4,400 |
 | 46 | Courtney Vandersloot | 4,352 |
 | 47 | Allisha Gray | 4,339 |
 | 48 | Sophia Young-Malcolm | 4,300 |
@@ -885,7 +885,7 @@ _Last updated: 2026-06-08 00:10 UTC_
 | 44 | Katie Smith | 408 |
 | 45 | Cappie Pondexter | 405 |
 | 46 | Nicole Powell | 401 |
-| 47 | **Dearica Hamby** 🔴 +1 | 399 |
+| 47 | **Dearica Hamby** 🔴 +2 | 400 |
 | 48 | Jasmine Thomas | 394 |
 | 49 | Danielle Robinson | 389 |
 | 50 | Deanna Nolan | 388 |
@@ -1508,10 +1508,10 @@ _Last updated: 2026-06-08 00:10 UTC_
 | 52 | Natalie Williams | 847 |
 | 52 | Tamera Young | 847 |
 | 54 | Candace Parker | 834 |
+| 55 | **Dearica Hamby** 🔴 +3 | 832 |
 | 55 | Penny Taylor | 832 |
-| 56 | **Dearica Hamby** 🔴 +2 | 831 |
-| 56 | Dominique Canty | 831 |
-| 56 | Wendy Palmer | 831 |
+| 57 | Dominique Canty | 831 |
+| 57 | Wendy Palmer | 831 |
 | 59 | Shannon Johnson | 813 |
 | 59 | Skylar Diggins | 813 |
 | 59 | Tully Bevilaqua | 813 |
