@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-08 23:41 UTC_
+_Last updated: 2026-06-08 23:42 UTC_
 
 ## Contents
 
@@ -165,8 +165,8 @@ _Last updated: 2026-06-08 23:41 UTC_
 | 144 | Teaira McCowan | 2,221 |
 | 145 | Janel McCarville | 2,215 |
 | 146 | Sami Whitcomb | 2,211 |
-| 147 | Sophia Witherspoon | 2,210 |
-| 148 | **Satou Sabally** 🔴 +4 | 2,208 |
+| 146 | **Satou Sabally** 🔴 +7 | 2,211 |
+| 148 | Sophia Witherspoon | 2,210 |
 | 149 | Ruthie Bolton | 2,175 |
 | 150 | Ann Wauters | 2,170 |
 | 151 | Layshia Clarendon | 2,168 |
@@ -184,7 +184,7 @@ _Last updated: 2026-06-08 23:41 UTC_
 | 163 | Chiney Ogwumike | 1,964 |
 | 164 | Nicole Ohlde | 1,959 |
 | 165 | Kedra Holland-Corn | 1,938 |
-| 166 | **Aliyah Boston** 🔴 +6 | 1,934 |
+| 166 | **Aliyah Boston** 🔴 +7 | 1,935 |
 | 167 | Cathrine Kraayeveld | 1,926 |
 | 168 | Roneeka Hodges | 1,925 |
 | 169 | Latasha Byears | 1,920 |
@@ -1145,9 +1145,9 @@ _Last updated: 2026-06-08 23:41 UTC_
 | 99 | Stacey Dales | 232 |
 | 100 | Elena Baranova | 224 |
 | 101 | Essence Carson | 223 |
-| 102 | Kelly Mazzante | 218 |
-| 102 | **Satou Sabally** 🔴 | 218 |
-| 102 | Sheri Sam | 218 |
+| 102 | **Satou Sabally** 🔴 +1 | 219 |
+| 103 | Kelly Mazzante | 218 |
+| 103 | Sheri Sam | 218 |
 | 105 | **Damiris Dantas** 🔴 +1 | 212 |
 | 106 | Erin Phillips | 211 |
 | 107 | Andrea Stinson | 207 |
@@ -1553,7 +1553,7 @@ _Last updated: 2026-06-08 23:41 UTC_
 | 97 | Kelly Miller | 676 |
 | 98 | Cheyenne Parker-Tyus | 674 |
 | 99 | Chamique Holdsclaw | 667 |
-| 100 | **Breanna Stewart** 🔴 | 665 |
+| 100 | **Breanna Stewart** 🔴 +1 | 666 |
 | 101 | Tianna Hawkins | 662 |
 | 102 | Jewell Loyd | 661 |
 | 102 | Kayla Thornton | 661 |

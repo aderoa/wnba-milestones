@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-06-08T23:42:00+00:00",
+    "text": "Satou Sabally passed Kelly Mazzante and Sheri Sam for #102 all-time in three-pointers (career 219) \u2014 up from #103 entering today \u2014 (5:05 - 2nd \u2014 NY @ CON)",
+    "kind": "rank_pass",
+    "player": "Satou Sabally",
+    "stat": "three-pointers",
+    "rank": 102,
+    "passed_players": [
+      "Kelly Mazzante",
+      "Sheri Sam"
+    ],
+    "new_total": 219
+  },
+  {
     "ts": "2026-06-08T23:32:00+00:00",
     "text": "Monique Billings passed Bridget Pettis for #190 all-time in steals (career 178) \u2014 up from #191 entering today \u2014 (50.1 - 1st \u2014 IND @ WSH)",
     "kind": "rank_pass",
@@ -2968,18 +2981,5 @@
       "Betnijah Laney-Hamilton"
     ],
     "new_total": 800
-  },
-  {
-    "ts": "2026-06-05T13:51:00+00:00",
-    "text": "Gabby Williams passed Debbie Black and Crystal Langhorne for #92 all-time in steals (career 316) \u2014 up from #94 entering today \u2014 (Final \u2014 GS @ MIN)",
-    "kind": "rank_pass",
-    "player": "Gabby Williams",
-    "stat": "steals",
-    "rank": 92,
-    "passed_players": [
-      "Debbie Black",
-      "Crystal Langhorne"
-    ],
-    "new_total": 316
   }
 ]
