@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-08 00:41 UTC_
+_Last updated: 2026-06-08 00:42 UTC_
 
 ## Contents
 
@@ -227,7 +227,7 @@ _Last updated: 2026-06-08 00:41 UTC_
 | 1 | Tina Charles | 4,262 |
 | 2 | Sylvia Fowles | 4,005 |
 | 3 | Candace Parker | 3,467 |
-| 4 | **Nneka Ogwumike** 🔴 +11 | 3,348 |
+| 4 | **Nneka Ogwumike** 🔴 +12 | 3,349 |
 | 5 | Rebekkah Brunson | 3,345 |
 | 6 | Tamika Catchings | 3,313 |
 | 7 | Lisa Leslie | 3,303 |
@@ -954,9 +954,9 @@ _Last updated: 2026-06-08 00:41 UTC_
 | 113 | Anna DeForge | 266 |
 | 114 | Brionna Jones | 265 |
 | 115 | Kayla Thornton | 263 |
+| 116 | **Kelsey Plum** 🔴 +2 | 262 |
 | 116 | Michelle Snow | 262 |
-| 117 | Karima Christmas-Kelly | 261 |
-| 117 | **Kelsey Plum** 🔴 +1 | 261 |
+| 118 | Karima Christmas-Kelly | 261 |
 | 119 | Riquna Williams | 260 |
 | 120 | Noelle Quinn | 256 |
 | 121 | Elaine Powell | 255 |

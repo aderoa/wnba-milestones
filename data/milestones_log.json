@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-08T00:42:00+00:00",
+    "text": "Kelsey Plum passed Karima Christmas-Kelly for #117 all-time in steals (career 262) \u2014 up from #118 entering today \u2014 (6:53 - 4th \u2014 POR @ LA)",
+    "kind": "rank_pass",
+    "player": "Kelsey Plum",
+    "stat": "steals",
+    "rank": 117,
+    "passed_players": [
+      "Karima Christmas-Kelly"
+    ],
+    "new_total": 262
+  },
+  {
     "ts": "2026-06-08T00:39:00+00:00",
     "text": "Kelsey Plum passed Riquna Williams for #119 all-time in steals (career 261) \u2014 (7:23 - 4th \u2014 POR @ LA)",
     "kind": "rank_pass",
@@ -2973,17 +2985,5 @@
       "Allie Quigley"
     ],
     "new_total": 478
-  },
-  {
-    "ts": "2026-06-05T13:51:00+00:00",
-    "text": "Kayla McBride passed Seimone Augustus for #96 all-time in rebounds (career 1,234) \u2014 up from #97 entering today \u2014 (Final \u2014 GS @ MIN)",
-    "kind": "rank_pass",
-    "player": "Kayla McBride",
-    "stat": "rebounds",
-    "rank": 96,
-    "passed_players": [
-      "Seimone Augustus"
-    ],
-    "new_total": 1234
   }
 ]

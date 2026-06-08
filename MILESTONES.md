@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-08 00:42 UTC
+
+- **Kelsey Plum** passed **Karima Christmas-Kelly** for **#117** all-time in steals (career 262) — up from #118 entering today — _6:53 - 4th — POR @ LA_
+
 ## 2026-06-08 00:39 UTC
 
 - **Kelsey Plum** passed **Riquna Williams** for **#119** all-time in steals (career 261) — _7:23 - 4th — POR @ LA_
