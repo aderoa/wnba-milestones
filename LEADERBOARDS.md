@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-08 23:07 UTC_
+_Last updated: 2026-06-08 23:08 UTC_
 
 ## Contents
 
@@ -1172,7 +1172,7 @@ _Last updated: 2026-06-08 23:07 UTC_
 | 126 | Theresa Plaisance | 172 |
 | 127 | Caitlin Clark | 171 |
 | 128 | Amanda Lassiter | 170 |
-| 129 | **Marine Johannès** 🔴 | 168 |
+| 129 | **Marine Johannès** 🔴 +1 | 169 |
 | 130 | Shavonte Zellous | 167 |
 | 130 | Tianna Hawkins | 167 |
 | 132 | Charlotte Smith | 164 |
