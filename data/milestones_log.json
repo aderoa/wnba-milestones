@@ -1,5 +1,14 @@
 [
   {
+    "ts": "2026-06-08T00:55:00+00:00",
+    "text": "Rae Burrell reached 200 career rebounds (now 200) \u2014 (1:09 - 4th \u2014 POR @ LA)",
+    "kind": "round",
+    "player": "Rae Burrell",
+    "stat": "rebounds",
+    "value": 200,
+    "new_total": 200
+  },
+  {
     "ts": "2026-06-08T00:51:00+00:00",
     "text": "Nneka Ogwumike passed Jasmine Thomas for #30 all-time in turnovers (career 797) \u2014 up from #31 entering today \u2014 (3:43 - 4th \u2014 POR @ LA)",
     "kind": "rank_pass",
@@ -2968,18 +2977,6 @@
     "player": "Tiffany Hayes",
     "stat": "points",
     "value": 5000,
-    "new_total": 5000
-  },
-  {
-    "ts": "2026-06-05T13:51:00+00:00",
-    "text": "Tiffany Hayes passed Taj McWilliams-Franklin for #30 all-time in points (career 5,000) \u2014 up from #31 entering today \u2014 (Final \u2014 GS @ MIN)",
-    "kind": "rank_pass",
-    "player": "Tiffany Hayes",
-    "stat": "points",
-    "rank": 30,
-    "passed_players": [
-      "Taj McWilliams-Franklin"
-    ],
     "new_total": 5000
   }
 ]
