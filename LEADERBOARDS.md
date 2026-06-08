@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-08 00:09 UTC_
+_Last updated: 2026-06-08 00:10 UTC_
 
 ## Contents
 
@@ -95,8 +95,8 @@ _Last updated: 2026-06-08 00:09 UTC_
 | 74 | Tamecka Dixon | 3,507 |
 | 75 | Tammy Sutton-Brown | 3,498 |
 | 76 | Sancho Lyttle | 3,478 |
-| 77 | Ivory Latta | 3,447 |
-| 78 | **Ariel Atkins** 🔴 +4 | 3,446 |
+| 77 | **Ariel Atkins** 🔴 +6 | 3,448 |
+| 78 | Ivory Latta | 3,447 |
 | 79 | Nicole Powell | 3,407 |
 | 80 | Epiphanny Prince | 3,381 |
 | 81 | Michelle Snow | 3,361 |
@@ -227,8 +227,8 @@ _Last updated: 2026-06-08 00:09 UTC_
 | 1 | Tina Charles | 4,262 |
 | 2 | Sylvia Fowles | 4,005 |
 | 3 | Candace Parker | 3,467 |
-| 4 | **Nneka Ogwumike** 🔴 +8 | 3,345 |
-| 4 | Rebekkah Brunson | 3,345 |
+| 4 | **Nneka Ogwumike** 🔴 +9 | 3,346 |
+| 5 | Rebekkah Brunson | 3,345 |
 | 6 | Tamika Catchings | 3,313 |
 | 7 | Lisa Leslie | 3,303 |
 | 8 | DeWanna Bonner | 3,260 |
@@ -893,8 +893,8 @@ _Last updated: 2026-06-08 00:09 UTC_
 | 52 | Swin Cash | 384 |
 | 52 | Tina Charles | 384 |
 | 54 | Tiffany Hayes | 382 |
-| 55 | **Ariel Atkins** 🔴 | 380 |
-| 55 | Jordin Canada | 380 |
+| 55 | **Ariel Atkins** 🔴 +1 | 381 |
+| 56 | Jordin Canada | 380 |
 | 57 | Monique Currie | 378 |
 | 58 | Chamique Holdsclaw | 376 |
 | 59 | Mwadi Mabika | 370 |
