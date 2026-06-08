@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-08T23:46:00+00:00",
+    "text": "Satou Sabally passed Jackie Young for #194 all-time in blocks (career 69) \u2014 up from #195 entering today \u2014 (4:07 - 2nd \u2014 NY @ CON)",
+    "kind": "rank_pass",
+    "player": "Satou Sabally",
+    "stat": "blocks",
+    "rank": 194,
+    "passed_players": [
+      "Jackie Young"
+    ],
+    "new_total": 69
+  },
+  {
     "ts": "2026-06-08T23:45:00+00:00",
     "text": "Tyasha Harris passed Sydney Colson for #141 all-time in assists (career 455) \u2014 up from #142 entering today \u2014 (7:05 - 2nd \u2014 IND @ WSH)",
     "kind": "rank_pass",
@@ -2971,14 +2983,5 @@
       "Alana Beard"
     ],
     "new_total": 289
-  },
-  {
-    "ts": "2026-06-05T13:51:00+00:00",
-    "text": "Gabby Williams reached 800 career rebounds (now 800) \u2014 (Final \u2014 GS @ MIN)",
-    "kind": "round",
-    "player": "Gabby Williams",
-    "stat": "rebounds",
-    "value": 800,
-    "new_total": 800
   }
 ]

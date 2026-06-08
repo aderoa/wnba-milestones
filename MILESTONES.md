@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-08 23:46 UTC
+
+- **Satou Sabally** passed **Jackie Young** for **#194** all-time in blocks (career 69) — up from #195 entering today — _4:07 - 2nd — NY @ CON_
+
 ## 2026-06-08 23:45 UTC
 
 - **Tyasha Harris** passed **Sydney Colson** for **#141** all-time in assists (career 455) — up from #142 entering today — _7:05 - 2nd — IND @ WSH_

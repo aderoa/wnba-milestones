@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-08 23:45 UTC_
+_Last updated: 2026-06-08 23:46 UTC_
 
 ## Contents
 
@@ -47,7 +47,7 @@ _Last updated: 2026-06-08 23:45 UTC_
 | 26 | Lindsay Whalen | 5,511 |
 | 27 | Swin Cash | 5,119 |
 | 28 | Tangela Smith | 5,035 |
-| 29 | **Kelsey Mitchell** 🔴 +2 | 5,005 |
+| 29 | **Kelsey Mitchell** 🔴 +4 | 5,007 |
 | 30 | Taj McWilliams-Franklin | 4,992 |
 | 31 | Tiffany Hayes | 4,985 |
 | 32 | Maya Moore | 4,984 |
@@ -569,7 +569,7 @@ _Last updated: 2026-06-08 23:45 UTC_
 | 138 | Erin Phillips | 462 |
 | 139 | Sylvia Fowles | 461 |
 | 140 | **Satou Sabally** 🔴 +1 | 457 |
-| 141 | **Tyasha Harris** 🔴 +1 | 455 |
+| 141 | **Tyasha Harris** 🔴 +2 | 456 |
 | 142 | Sydney Colson | 454 |
 | 143 | Yolanda Griffith | 451 |
 | 144 | Elena Delle Donne | 450 |
@@ -827,8 +827,8 @@ _Last updated: 2026-06-08 23:45 UTC_
 | 191 | Wendy Palmer | 70 |
 | 192 | Mercedes Russell | 69 |
 | 192 | Rhonda Mapp | 69 |
-| 194 | Jackie Young | 68 |
-| 194 | **Satou Sabally** 🔴 | 68 |
+| 192 | **Satou Sabally** 🔴 +1 | 69 |
+| 195 | Jackie Young | 68 |
 | 196 | Shannon Johnson | 67 |
 | 197 | Crystal Robinson | 65 |
 | 197 | Queen Egbo | 65 |
