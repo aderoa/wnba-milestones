@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-08 23:51 UTC_
+_Last updated: 2026-06-08 23:52 UTC_
 
 ## Contents
 
@@ -1609,8 +1609,8 @@ _Last updated: 2026-06-08 23:51 UTC_
 | 153 | **Sophie Cunningham** 🔴 +1 | 524 |
 | 154 | Armintie Herrington | 523 |
 | 155 | Kayla McBride | 522 |
-| 156 | **Monique Billings** 🔴 +2 | 519 |
-| 156 | Sheryl Swoopes | 519 |
+| 156 | **Monique Billings** 🔴 +3 | 520 |
+| 157 | Sheryl Swoopes | 519 |
 | 158 | Nikki McCray | 517 |
 | 159 | Alex Bentley | 516 |
 | 159 | **Myisha Hines-Allen** 🔴 | 516 |
