@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-08T23:45:00+00:00",
+    "text": "Tyasha Harris passed Sydney Colson for #141 all-time in assists (career 455) \u2014 up from #142 entering today \u2014 (7:05 - 2nd \u2014 IND @ WSH)",
+    "kind": "rank_pass",
+    "player": "Tyasha Harris",
+    "stat": "assists",
+    "rank": 141,
+    "passed_players": [
+      "Sydney Colson"
+    ],
+    "new_total": 455
+  },
+  {
     "ts": "2026-06-08T23:42:00+00:00",
     "text": "Satou Sabally passed Kelly Mazzante and Sheri Sam for #102 all-time in three-pointers (career 219) \u2014 up from #103 entering today \u2014 (5:05 - 2nd \u2014 NY @ CON)",
     "kind": "rank_pass",
@@ -2967,19 +2979,6 @@
     "player": "Gabby Williams",
     "stat": "rebounds",
     "value": 800,
-    "new_total": 800
-  },
-  {
-    "ts": "2026-06-05T13:51:00+00:00",
-    "text": "Gabby Williams passed Tierra Ruffin-Pratt and Betnijah Laney-Hamilton for #169 all-time in rebounds (career 800) \u2014 up from #171 entering today \u2014 (Final \u2014 GS @ MIN)",
-    "kind": "rank_pass",
-    "player": "Gabby Williams",
-    "stat": "rebounds",
-    "rank": 169,
-    "passed_players": [
-      "Tierra Ruffin-Pratt",
-      "Betnijah Laney-Hamilton"
-    ],
     "new_total": 800
   }
 ]

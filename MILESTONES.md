@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-08 23:45 UTC
+
+- **Tyasha Harris** passed **Sydney Colson** for **#141** all-time in assists (career 455) — up from #142 entering today — _7:05 - 2nd — IND @ WSH_
+
 ## 2026-06-08 23:42 UTC
 
 - **Satou Sabally** passed **Kelly Mazzante** and **Sheri Sam** for **#102** all-time in three-pointers (career 219) — up from #103 entering today — _5:05 - 2nd — NY @ CON_

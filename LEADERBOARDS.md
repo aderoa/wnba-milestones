@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-08 23:44 UTC_
+_Last updated: 2026-06-08 23:45 UTC_
 
 ## Contents
 
@@ -569,8 +569,8 @@ _Last updated: 2026-06-08 23:44 UTC_
 | 138 | Erin Phillips | 462 |
 | 139 | Sylvia Fowles | 461 |
 | 140 | **Satou Sabally** 🔴 +1 | 457 |
-| 141 | Sydney Colson | 454 |
-| 141 | **Tyasha Harris** 🔴 | 454 |
+| 141 | **Tyasha Harris** 🔴 +1 | 455 |
+| 142 | Sydney Colson | 454 |
 | 143 | Yolanda Griffith | 451 |
 | 144 | Elena Delle Donne | 450 |
 | 144 | Kristi Harrower | 450 |
@@ -1220,8 +1220,8 @@ _Last updated: 2026-06-08 23:44 UTC_
 | 174 | Lisa Leslie | 123 |
 | 175 | Sidney Spencer | 122 |
 | 176 | Jordin Canada | 120 |
-| 177 | **Lexie Hull** 🔴 | 118 |
-| 177 | Tonya Edwards | 118 |
+| 177 | **Lexie Hull** 🔴 +1 | 119 |
+| 178 | Tonya Edwards | 118 |
 | 179 | Edwige Lawson-Wade | 116 |
 | 179 | **Kennedy Burke** 🔴 | 116 |
 | 179 | Marie Ferdinand-Harris | 116 |
@@ -1609,8 +1609,8 @@ _Last updated: 2026-06-08 23:44 UTC_
 | 153 | **Sophie Cunningham** 🔴 +1 | 524 |
 | 154 | Armintie Herrington | 523 |
 | 155 | Kayla McBride | 522 |
+| 156 | **Monique Billings** 🔴 +2 | 519 |
 | 156 | Sheryl Swoopes | 519 |
-| 157 | **Monique Billings** 🔴 +1 | 518 |
 | 158 | Nikki McCray | 517 |
 | 159 | Alex Bentley | 516 |
 | 159 | **Myisha Hines-Allen** 🔴 | 516 |
