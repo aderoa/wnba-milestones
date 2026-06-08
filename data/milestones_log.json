@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-08T23:21:00+00:00",
+    "text": "Damiris Dantas passed Isabelle Harrison for #177 all-time in points (career 1,833) \u2014 up from #178 entering today \u2014 (5:41 - 1st \u2014 IND @ WSH)",
+    "kind": "rank_pass",
+    "player": "Damiris Dantas",
+    "stat": "points",
+    "rank": 177,
+    "passed_players": [
+      "Isabelle Harrison"
+    ],
+    "new_total": 1833
+  },
+  {
     "ts": "2026-06-08T23:07:00+00:00",
     "text": "Olivia Nelson-Ododa passed Brionna Jones for #99 all-time in blocks (career 126) \u2014 up from #100 entering today \u2014 (6:52 - 1st \u2014 NY @ CON)",
     "kind": "rank_pass",
@@ -2972,14 +2984,5 @@
       "Kiesha Brown"
     ],
     "new_total": 107
-  },
-  {
-    "ts": "2026-06-05T13:51:00+00:00",
-    "text": "Kiah Stokes reached 1,100 career points (now 1,104) \u2014 (Final \u2014 GS @ MIN)",
-    "kind": "round",
-    "player": "Kiah Stokes",
-    "stat": "points",
-    "value": 1100,
-    "new_total": 1104
   }
 ]

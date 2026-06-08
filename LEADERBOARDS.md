@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-08 23:20 UTC_
+_Last updated: 2026-06-08 23:21 UTC_
 
 ## Contents
 
@@ -195,8 +195,8 @@ _Last updated: 2026-06-08 23:20 UTC_
 | 174 | Ebony Hoffman | 1,909 |
 | 175 | Candice Wiggins | 1,901 |
 | 176 | Natisha Hiedeman | 1,858 |
-| 177 | Isabelle Harrison | 1,832 |
-| 178 | Damiris Dantas | 1,830 |
+| 177 | **Damiris Dantas** 🔴 +3 | 1,833 |
+| 178 | Isabelle Harrison | 1,832 |
 | 179 | Tianna Hawkins | 1,825 |
 | 180 | Noelle Quinn | 1,824 |
 | 181 | Rachel Banham | 1,823 |
@@ -355,7 +355,7 @@ _Last updated: 2026-06-08 23:20 UTC_
 | 128 | Noelle Quinn | 1,011 |
 | 130 | Tiffany Jackson | 1,002 |
 | 131 | Tianna Hawkins | 1,000 |
-| 132 | Damiris Dantas | 999 |
+| 132 | **Damiris Dantas** 🔴 | 999 |
 | 133 | Sabrina Ionescu | 998 |
 | 134 | Marissa Coleman | 995 |
 | 135 | Kristen Rasmussen | 993 |
@@ -568,7 +568,7 @@ _Last updated: 2026-06-08 23:20 UTC_
 | 137 | Elizabeth Williams | 467 |
 | 138 | Erin Phillips | 462 |
 | 139 | Sylvia Fowles | 461 |
-| 140 | **Satou Sabally** 🔴 | 456 |
+| 140 | **Satou Sabally** 🔴 +1 | 457 |
 | 141 | Sydney Colson | 454 |
 | 141 | Tyasha Harris | 454 |
 | 143 | Yolanda Griffith | 451 |
@@ -611,7 +611,7 @@ _Last updated: 2026-06-08 23:20 UTC_
 | 180 | Bridget Carleton | 375 |
 | 181 | Alanna Smith | 372 |
 | 182 | Suzie McConnell Serio | 370 |
-| 183 | Damiris Dantas | 368 |
+| 183 | **Damiris Dantas** 🔴 | 368 |
 | 184 | Roneeka Hodges | 362 |
 | 185 | Andrea Nagy | 361 |
 | 185 | Diamond DeShields | 361 |
@@ -791,7 +791,7 @@ _Last updated: 2026-06-08 23:20 UTC_
 | 154 | Natasha Cloud | 84 |
 | 154 | Shatori Walker-Kimbrough | 84 |
 | 157 | Tamera Young | 83 |
-| 158 | Damiris Dantas | 82 |
+| 158 | **Damiris Dantas** 🔴 | 82 |
 | 159 | Charlotte Smith | 81 |
 | 159 | Cintia dos Santos | 81 |
 | 159 | Jessie Hicks | 81 |
@@ -1148,8 +1148,8 @@ _Last updated: 2026-06-08 23:20 UTC_
 | 102 | Kelly Mazzante | 218 |
 | 102 | **Satou Sabally** 🔴 | 218 |
 | 102 | Sheri Sam | 218 |
-| 105 | Damiris Dantas | 211 |
-| 105 | Erin Phillips | 211 |
+| 105 | **Damiris Dantas** 🔴 +1 | 212 |
+| 106 | Erin Phillips | 211 |
 | 107 | Andrea Stinson | 207 |
 | 108 | **Betnijah Laney-Hamilton** 🔴 +1 | 205 |
 | 109 | Lexie Brown | 203 |
@@ -1602,7 +1602,7 @@ _Last updated: 2026-06-08 23:20 UTC_
 | 146 | A'ja Wilson | 537 |
 | 147 | Kristen Rasmussen | 533 |
 | 148 | Amanda Zahui B | 530 |
-| 149 | Damiris Dantas | 527 |
+| 149 | **Damiris Dantas** 🔴 | 527 |
 | 150 | Candice Wiggins | 525 |
 | 150 | Epiphanny Prince | 525 |
 | 150 | Jackie Young | 525 |
@@ -1610,8 +1610,8 @@ _Last updated: 2026-06-08 23:20 UTC_
 | 153 | **Sophie Cunningham** 🔴 | 523 |
 | 155 | Kayla McBride | 522 |
 | 156 | Sheryl Swoopes | 519 |
-| 157 | **Monique Billings** 🔴 | 517 |
-| 157 | Nikki McCray | 517 |
+| 157 | **Monique Billings** 🔴 +1 | 518 |
+| 158 | Nikki McCray | 517 |
 | 159 | Alex Bentley | 516 |
 | 159 | **Myisha Hines-Allen** 🔴 | 516 |
 | 161 | Jantel Lavender | 513 |

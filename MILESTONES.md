@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-08 23:21 UTC
+
+- **Damiris Dantas** passed **Isabelle Harrison** for **#177** all-time in points (career 1,833) — up from #178 entering today — _5:41 - 1st — IND @ WSH_
+
 ## 2026-06-08 23:07 UTC
 
 - **Olivia Nelson-Ododa** passed **Brionna Jones** for **#99** all-time in blocks (career 126) — up from #100 entering today — _6:52 - 1st — NY @ CON_
