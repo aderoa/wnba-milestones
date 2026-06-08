@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-08 00:57 UTC
+
+- **Kelsey Plum** passed **Michelle Snow** for **#116** all-time in steals (career 263) — up from #118 entering today — _End of 4th — POR @ LA_
+
 ## 2026-06-08 00:55 UTC
 
 - **Rae Burrell** reached **200** career rebounds (now 200) — _1:09 - 4th — POR @ LA_

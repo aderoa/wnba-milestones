@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-08T00:57:00+00:00",
+    "text": "Kelsey Plum passed Michelle Snow for #116 all-time in steals (career 263) \u2014 up from #118 entering today \u2014 (End of 4th \u2014 POR @ LA)",
+    "kind": "rank_pass",
+    "player": "Kelsey Plum",
+    "stat": "steals",
+    "rank": 116,
+    "passed_players": [
+      "Michelle Snow"
+    ],
+    "new_total": 263
+  },
+  {
     "ts": "2026-06-08T00:55:00+00:00",
     "text": "Rae Burrell reached 200 career rebounds (now 200) \u2014 (1:09 - 4th \u2014 POR @ LA)",
     "kind": "round",
@@ -2969,14 +2981,5 @@
       "Janell Burse"
     ],
     "new_total": 633
-  },
-  {
-    "ts": "2026-06-05T13:51:00+00:00",
-    "text": "Tiffany Hayes reached 5,000 career points (now 5,000) \u2014 (Final \u2014 GS @ MIN)",
-    "kind": "round",
-    "player": "Tiffany Hayes",
-    "stat": "points",
-    "value": 5000,
-    "new_total": 5000
   }
 ]
