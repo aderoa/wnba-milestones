@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-08T00:51:00+00:00",
+    "text": "Nneka Ogwumike passed Jasmine Thomas for #30 all-time in turnovers (career 797) \u2014 up from #31 entering today \u2014 (3:43 - 4th \u2014 POR @ LA)",
+    "kind": "rank_pass",
+    "player": "Nneka Ogwumike",
+    "stat": "turnovers",
+    "rank": 30,
+    "passed_players": [
+      "Jasmine Thomas"
+    ],
+    "new_total": 797
+  },
+  {
     "ts": "2026-06-08T00:50:00+00:00",
     "text": "Dearica Hamby reached 2,400 career rebounds (now 2,400) \u2014 (4:14 - 4th \u2014 POR @ LA)",
     "kind": "round",
@@ -2969,17 +2981,5 @@
       "Taj McWilliams-Franklin"
     ],
     "new_total": 5000
-  },
-  {
-    "ts": "2026-06-05T13:51:00+00:00",
-    "text": "Tiffany Hayes passed Azur\u00e1 Stevens for #91 all-time in rebounds (career 1,249) \u2014 up from #92 entering today \u2014 (Final \u2014 GS @ MIN)",
-    "kind": "rank_pass",
-    "player": "Tiffany Hayes",
-    "stat": "rebounds",
-    "rank": 91,
-    "passed_players": [
-      "Azur\u00e1 Stevens"
-    ],
-    "new_total": 1249
   }
 ]

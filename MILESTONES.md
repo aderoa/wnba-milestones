@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-08 00:51 UTC
+
+- **Nneka Ogwumike** passed **Jasmine Thomas** for **#30** all-time in turnovers (career 797) — up from #31 entering today — _3:43 - 4th — POR @ LA_
+
 ## 2026-06-08 00:50 UTC
 
 - **Dearica Hamby** reached **2,400** career rebounds (now 2,400) — _4:14 - 4th — POR @ LA_
