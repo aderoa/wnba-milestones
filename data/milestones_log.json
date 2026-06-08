@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-08T23:31:00+00:00",
+    "text": "Michaela Onyenwere passed Jordan Hooper for #155 all-time in three-pointers (career 142) \u2014 up from #156 entering today \u2014 (1:46 - 1st \u2014 IND @ WSH)",
+    "kind": "rank_pass",
+    "player": "Michaela Onyenwere",
+    "stat": "three-pointers",
+    "rank": 155,
+    "passed_players": [
+      "Jordan Hooper"
+    ],
+    "new_total": 142
+  },
+  {
     "ts": "2026-06-08T23:21:00+00:00",
     "text": "Damiris Dantas passed Isabelle Harrison for #177 all-time in points (career 1,833) \u2014 up from #178 entering today \u2014 (5:41 - 1st \u2014 IND @ WSH)",
     "kind": "rank_pass",
@@ -2969,20 +2981,5 @@
       "Kaleena Mosqueda-Lewis"
     ],
     "new_total": 138
-  },
-  {
-    "ts": "2026-06-05T13:51:00+00:00",
-    "text": "Cecilia Zandalasini passed Laurie Koehn, Julie Vanloo, Jeanette Pohlen-Mavunga, and Kiesha Brown for #195 all-time in three-pointers (career 107) \u2014 up from #197 entering today \u2014 (Final \u2014 GS @ MIN)",
-    "kind": "rank_pass",
-    "player": "Cecilia Zandalasini",
-    "stat": "three-pointers",
-    "rank": 195,
-    "passed_players": [
-      "Laurie Koehn",
-      "Julie Vanloo",
-      "Jeanette Pohlen-Mavunga",
-      "Kiesha Brown"
-    ],
-    "new_total": 107
   }
 ]

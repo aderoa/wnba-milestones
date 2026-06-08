@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-08 23:30 UTC_
+_Last updated: 2026-06-08 23:31 UTC_
 
 ## Contents
 
@@ -336,7 +336,7 @@ _Last updated: 2026-06-08 23:30 UTC_
 | 109 | Tamika Raymond | 1,127 |
 | 111 | Adrienne Goodson | 1,126 |
 | 112 | NaLyssa Smith | 1,115 |
-| 113 | **Aliyah Boston** 🔴 +3 | 1,113 |
+| 113 | **Aliyah Boston** 🔴 +4 | 1,114 |
 | 114 | Deanna Nolan | 1,112 |
 | 114 | Natasha Cloud | 1,112 |
 | 116 | Chiney Ogwumike | 1,110 |
@@ -369,7 +369,7 @@ _Last updated: 2026-06-08 23:30 UTC_
 | 143 | Janell Burse | 944 |
 | 144 | Jessica Shepard | 927 |
 | 144 | Merlakia Jones | 927 |
-| 146 | **Satou Sabally** 🔴 | 926 |
+| 144 | **Satou Sabally** 🔴 +1 | 927 |
 | 147 | Angel Reese | 923 |
 | 148 | Nicky Anosike | 922 |
 | 149 | Janeth Arcain | 916 |
@@ -1198,8 +1198,8 @@ _Last updated: 2026-06-08 23:30 UTC_
 | 151 | Matee Ajavon | 144 |
 | 153 | Shenise Johnson | 143 |
 | 154 | Dearica Hamby | 142 |
-| 155 | Jordan Hooper | 141 |
-| 155 | **Michaela Onyenwere** 🔴 | 141 |
+| 154 | **Michaela Onyenwere** 🔴 +1 | 142 |
+| 156 | Jordan Hooper | 141 |
 | 157 | Coco Miller | 139 |
 | 158 | Loree Moore | 138 |
 | 158 | Tanisha Wright | 138 |
@@ -1427,9 +1427,9 @@ _Last updated: 2026-06-08 23:30 UTC_
 | 176 | **Satou Sabally** 🔴 | 330 |
 | 177 | Erlana Larkins | 326 |
 | 177 | Rita Williams | 326 |
+| 179 | **Caitlin Clark** 🔴 +1 | 325 |
 | 179 | Le'coe Willingham | 325 |
-| 180 | **Caitlin Clark** 🔴 | 324 |
-| 180 | Olympia Scott | 324 |
+| 181 | Olympia Scott | 324 |
 | 182 | Gabby Williams | 320 |
 | 183 | Kia Nurse | 316 |
 | 184 | Barbara Farris | 315 |

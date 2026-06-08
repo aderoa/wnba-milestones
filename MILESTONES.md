@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-08 23:31 UTC
+
+- **Michaela Onyenwere** passed **Jordan Hooper** for **#155** all-time in three-pointers (career 142) — up from #156 entering today — _1:46 - 1st — IND @ WSH_
+
 ## 2026-06-08 23:21 UTC
 
 - **Damiris Dantas** passed **Isabelle Harrison** for **#177** all-time in points (career 1,833) — up from #178 entering today — _5:41 - 1st — IND @ WSH_
