@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-09 04:11 UTC_
+_Last updated: 2026-06-09 04:12 UTC_
 
 ## Contents
 
@@ -303,8 +303,8 @@ _Last updated: 2026-06-09 04:11 UTC_
 | 77 | Kayla Thornton | 1,360 |
 | 78 | Sheri Sam | 1,356 |
 | 79 | Tamika Whitmore | 1,355 |
-| 80 | Emma Meesseman | 1,350 |
-| 80 | Jewell Loyd | 1,350 |
+| 80 | Jewell Loyd | 1,351 |
+| 81 | Emma Meesseman | 1,350 |
 | 82 | Elena Baranova | 1,335 |
 | 83 | Brionna Jones | 1,333 |
 | 84 | Erlana Larkins | 1,329 |
