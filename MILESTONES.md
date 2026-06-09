@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-09 03:50 UTC
+
+- **Dominique Malonga** reached **100** career fouls (now 100) — _6:05 - 4th — SEA @ LV_
+
 ## 2026-06-09 03:33 UTC
 
 - **Jackie Young** passed **Satou Sabally** for **#195** all-time in blocks (career 69) — _2:05 - 3rd — SEA @ LV_

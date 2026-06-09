@@ -1,5 +1,14 @@
 [
   {
+    "ts": "2026-06-09T03:50:00+00:00",
+    "text": "Dominique Malonga reached 100 career fouls (now 100) \u2014 (6:05 - 4th \u2014 SEA @ LV)",
+    "kind": "round",
+    "player": "Dominique Malonga",
+    "stat": "fouls",
+    "value": 100,
+    "new_total": 100
+  },
+  {
     "ts": "2026-06-09T03:33:00+00:00",
     "text": "Jackie Young passed Satou Sabally for #195 all-time in blocks (career 69) \u2014 (2:05 - 3rd \u2014 SEA @ LV)",
     "kind": "rank_pass",
@@ -2951,14 +2960,5 @@
       "Chiney Ogwumike"
     ],
     "new_total": 1117
-  },
-  {
-    "ts": "2026-06-05T13:51:00+00:00",
-    "text": "Aliyah Boston reached 400 career assists (now 400) \u2014 (Final \u2014 ATL @ IND)",
-    "kind": "round",
-    "player": "Aliyah Boston",
-    "stat": "assists",
-    "value": 400,
-    "new_total": 400
   }
 ]
