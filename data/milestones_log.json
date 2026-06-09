@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-09T00:36:00+00:00",
+    "text": "Michaela Onyenwere passed Dearica Hamby for #154 all-time in three-pointers (career 143) \u2014 up from #156 entering today \u2014 (5:19 - 3rd \u2014 IND @ WSH)",
+    "kind": "rank_pass",
+    "player": "Michaela Onyenwere",
+    "stat": "three-pointers",
+    "rank": 154,
+    "passed_players": [
+      "Dearica Hamby"
+    ],
+    "new_total": 143
+  },
+  {
     "ts": "2026-06-09T00:32:00+00:00",
     "text": "Betnijah Laney-Hamilton reached 800 career rebounds (now 800) \u2014 (2:41 - 3rd \u2014 NY @ CON)",
     "kind": "round",
@@ -2965,17 +2977,5 @@
       "Alex Bentley"
     ],
     "new_total": 521
-  },
-  {
-    "ts": "2026-06-05T13:51:00+00:00",
-    "text": "Sophie Cunningham passed Sandy Brondello for #187 all-time in points (career 1,760) \u2014 up from #188 entering today \u2014 (Final \u2014 ATL @ IND)",
-    "kind": "rank_pass",
-    "player": "Sophie Cunningham",
-    "stat": "points",
-    "rank": 187,
-    "passed_players": [
-      "Sandy Brondello"
-    ],
-    "new_total": 1760
   }
 ]
