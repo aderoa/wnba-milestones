@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-09 01:20 UTC_
+_Last updated: 2026-06-09 01:21 UTC_
 
 ## Contents
 
@@ -335,7 +335,7 @@ _Last updated: 2026-06-09 01:20 UTC_
 | 109 | Andrea Stinson | 1,127 |
 | 109 | Tamika Raymond | 1,127 |
 | 111 | Adrienne Goodson | 1,126 |
-| 112 | **Aliyah Boston** 🔴 +9 | 1,119 |
+| 112 | **Aliyah Boston** 🔴 +10 | 1,120 |
 | 113 | NaLyssa Smith | 1,115 |
 | 114 | Deanna Nolan | 1,112 |
 | 114 | Natasha Cloud | 1,112 |
@@ -407,8 +407,8 @@ _Last updated: 2026-06-09 01:20 UTC_
 | 181 | Anna DeForge | 769 |
 | 181 | Kelsey Bone | 769 |
 | 181 | Tan White | 769 |
+| 184 | **Shakira Austin** 🔴 +9 | 767 |
 | 184 | Tully Bevilaqua | 767 |
-| 185 | **Shakira Austin** 🔴 +8 | 766 |
 | 186 | Layshia Clarendon | 756 |
 | 187 | Brooke Wyckoff | 751 |
 | 188 | Coco Miller | 750 |
@@ -1196,8 +1196,8 @@ _Last updated: 2026-06-09 01:20 UTC_
 | 150 | Wendy Palmer | 146 |
 | 151 | Helen Darling | 144 |
 | 151 | Matee Ajavon | 144 |
-| 153 | **Michaela Onyenwere** 🔴 +2 | 143 |
-| 153 | Shenise Johnson | 143 |
+| 151 | **Michaela Onyenwere** 🔴 +3 | 144 |
+| 154 | Shenise Johnson | 143 |
 | 155 | Dearica Hamby | 142 |
 | 156 | Jordan Hooper | 141 |
 | 157 | Coco Miller | 139 |
@@ -1334,8 +1334,8 @@ _Last updated: 2026-06-09 01:20 UTC_
 | 83 | Andrea Stinson | 571 |
 | 84 | Kara Braxton | 570 |
 | 85 | Nikki McCray | 565 |
-| 86 | **Kelsey Mitchell** 🔴 | 563 |
-| 86 | Sancho Lyttle | 563 |
+| 86 | **Kelsey Mitchell** 🔴 +1 | 564 |
+| 87 | Sancho Lyttle | 563 |
 | 88 | Tan White | 557 |
 | 89 | Lauren Jackson | 549 |
 | 90 | Matee Ajavon | 544 |
@@ -1574,8 +1574,8 @@ _Last updated: 2026-06-09 01:20 UTC_
 | 118 | Svetlana Abrosimova | 613 |
 | 119 | Odyssey Sims | 610 |
 | 120 | Layshia Clarendon | 609 |
-| 121 | **Kelsey Mitchell** 🔴 +3 | 604 |
-| 121 | Tiffany Mitchell | 604 |
+| 121 | **Kelsey Mitchell** 🔴 +4 | 605 |
+| 122 | Tiffany Mitchell | 604 |
 | 123 | Janel McCarville | 597 |
 | 124 | Kamila Vodichkova | 596 |
 | 125 | Teresa Weatherspoon | 589 |

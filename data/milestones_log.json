@@ -1,5 +1,29 @@
 [
   {
+    "ts": "2026-06-09T01:21:00+00:00",
+    "text": "Kelsey Mitchell passed Tiffany Mitchell for #121 all-time in fouls (career 605) \u2014 up from #122 entering today \u2014 (1:31 - 4th \u2014 IND @ WSH)",
+    "kind": "rank_pass",
+    "player": "Kelsey Mitchell",
+    "stat": "fouls",
+    "rank": 121,
+    "passed_players": [
+      "Tiffany Mitchell"
+    ],
+    "new_total": 605
+  },
+  {
+    "ts": "2026-06-09T01:21:00+00:00",
+    "text": "Michaela Onyenwere passed Shenise Johnson for #153 all-time in three-pointers (career 144) \u2014 up from #156 entering today \u2014 (1:31 - 4th \u2014 IND @ WSH)",
+    "kind": "rank_pass",
+    "player": "Michaela Onyenwere",
+    "stat": "three-pointers",
+    "rank": 153,
+    "passed_players": [
+      "Shenise Johnson"
+    ],
+    "new_total": 144
+  },
+  {
     "ts": "2026-06-09T01:08:00+00:00",
     "text": "Lexie Hull reached 800 career points (now 800) \u2014 (5:35 - 4th \u2014 IND @ WSH)",
     "kind": "round",
@@ -2941,32 +2965,5 @@
       "Olympia Scott"
     ],
     "new_total": 327
-  },
-  {
-    "ts": "2026-06-05T13:51:00+00:00",
-    "text": "Myisha Hines-Allen passed Latasha Byears, Karima Christmas-Kelly, and Jessica Breland for #169 all-time in points (career 1,923) \u2014 up from #172 entering today \u2014 (Final \u2014 ATL @ IND)",
-    "kind": "rank_pass",
-    "player": "Myisha Hines-Allen",
-    "stat": "points",
-    "rank": 169,
-    "passed_players": [
-      "Latasha Byears",
-      "Karima Christmas-Kelly",
-      "Jessica Breland"
-    ],
-    "new_total": 1923
-  },
-  {
-    "ts": "2026-06-05T13:51:00+00:00",
-    "text": "Myisha Hines-Allen passed Tiffany Hayes and Ezi Magbegor for #92 all-time in rebounds (career 1,246) \u2014 up from #94 entering today \u2014 (Final \u2014 ATL @ IND)",
-    "kind": "rank_pass",
-    "player": "Myisha Hines-Allen",
-    "stat": "rebounds",
-    "rank": 92,
-    "passed_players": [
-      "Tiffany Hayes",
-      "Ezi Magbegor"
-    ],
-    "new_total": 1246
   }
 ]

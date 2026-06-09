@@ -2,6 +2,11 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-09 01:21 UTC
+
+- **Kelsey Mitchell** passed **Tiffany Mitchell** for **#121** all-time in fouls (career 605) — up from #122 entering today — _1:31 - 4th — IND @ WSH_
+- **Michaela Onyenwere** passed **Shenise Johnson** for **#153** all-time in three-pointers (career 144) — up from #156 entering today — _1:31 - 4th — IND @ WSH_
+
 ## 2026-06-09 01:08 UTC
 
 - **Lexie Hull** reached **800** career points (now 800) — _5:35 - 4th — IND @ WSH_
