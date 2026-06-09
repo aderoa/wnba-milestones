@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-09 03:32 UTC_
+_Last updated: 2026-06-09 03:33 UTC_
 
 ## Contents
 
@@ -238,7 +238,7 @@ _Last updated: 2026-06-09 03:32 UTC_
 | 12 | Alyssa Thomas | 2,817 |
 | 13 | Jonquel Jones | 2,663 |
 | 14 | Sancho Lyttle | 2,596 |
-| 15 | **A'ja Wilson** 🔴 +7 | 2,581 |
+| 15 | **A'ja Wilson** 🔴 +8 | 2,582 |
 | 16 | DeLisha Milton-Jones | 2,574 |
 | 17 | Breanna Stewart | 2,569 |
 | 18 | Brittney Griner | 2,556 |
@@ -318,7 +318,7 @@ _Last updated: 2026-06-09 03:32 UTC_
 | 92 | Tiffany Hayes | 1,244 |
 | 93 | Ezi Magbegor | 1,243 |
 | 93 | Myisha Hines-Allen | 1,243 |
-| 95 | Brianna Turner | 1,237 |
+| 95 | **Brianna Turner** 🔴 | 1,237 |
 | 96 | Seimone Augustus | 1,228 |
 | 97 | Kayla McBride | 1,226 |
 | 98 | **Chelsea Gray** 🔴 +3 | 1,224 |
@@ -335,7 +335,7 @@ _Last updated: 2026-06-09 03:32 UTC_
 | 109 | Andrea Stinson | 1,127 |
 | 109 | Tamika Raymond | 1,127 |
 | 111 | Adrienne Goodson | 1,126 |
-| 112 | **NaLyssa Smith** 🔴 +7 | 1,122 |
+| 112 | **NaLyssa Smith** 🔴 +8 | 1,123 |
 | 113 | Aliyah Boston | 1,120 |
 | 114 | Deanna Nolan | 1,112 |
 | 114 | Natasha Cloud | 1,112 |
@@ -675,7 +675,7 @@ _Last updated: 2026-06-09 03:32 UTC_
 | 39 | Napheesa Collier | 239 |
 | 40 | Emma Meesseman | 238 |
 | 41 | Azurá Stevens | 233 |
-| 41 | Brianna Turner | 233 |
+| 41 | **Brianna Turner** 🔴 | 233 |
 | 43 | Skylar Diggins | 229 |
 | 44 | Chasity Melvin | 228 |
 | 45 | Alanna Smith | 224 |
@@ -825,10 +825,10 @@ _Last updated: 2026-06-09 03:32 UTC_
 | 189 | Marlies Askamp | 71 |
 | 189 | Tanisha Wright | 71 |
 | 191 | Wendy Palmer | 70 |
+| 192 | **Jackie Young** 🔴 +1 | 69 |
 | 192 | Mercedes Russell | 69 |
 | 192 | Rhonda Mapp | 69 |
-| 194 | **Jackie Young** 🔴 | 68 |
-| 194 | Satou Sabally | 68 |
+| 195 | Satou Sabally | 68 |
 | 196 | Shannon Johnson | 67 |
 | 197 | Crystal Robinson | 65 |
 | 197 | Queen Egbo | 65 |
