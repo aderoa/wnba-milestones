@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-09 00:03 UTC_
+_Last updated: 2026-06-09 00:04 UTC_
 
 ## Contents
 
@@ -187,8 +187,8 @@ _Last updated: 2026-06-09 00:03 UTC_
 | 166 | **Aliyah Boston** 🔴 +8 | 1,936 |
 | 167 | Cathrine Kraayeveld | 1,926 |
 | 168 | Roneeka Hodges | 1,925 |
-| 169 | Latasha Byears | 1,920 |
-| 169 | **Myisha Hines-Allen** 🔴 +2 | 1,920 |
+| 169 | **Myisha Hines-Allen** 🔴 +3 | 1,921 |
+| 170 | Latasha Byears | 1,920 |
 | 171 | Karima Christmas-Kelly | 1,919 |
 | 172 | Jessica Breland | 1,918 |
 | 173 | Nakia Sanford | 1,915 |
@@ -317,7 +317,7 @@ _Last updated: 2026-06-09 00:03 UTC_
 | 91 | Azurá Stevens | 1,256 |
 | 92 | Tiffany Hayes | 1,244 |
 | 93 | Ezi Magbegor | 1,243 |
-| 94 | **Myisha Hines-Allen** 🔴 +2 | 1,241 |
+| 94 | **Myisha Hines-Allen** 🔴 +3 | 1,242 |
 | 95 | Brianna Turner | 1,237 |
 | 96 | Seimone Augustus | 1,228 |
 | 97 | Kayla McBride | 1,226 |
@@ -827,8 +827,8 @@ _Last updated: 2026-06-09 00:03 UTC_
 | 191 | Wendy Palmer | 70 |
 | 192 | Mercedes Russell | 69 |
 | 192 | Rhonda Mapp | 69 |
-| 192 | **Satou Sabally** 🔴 +1 | 69 |
-| 195 | Jackie Young | 68 |
+| 194 | Jackie Young | 68 |
+| 194 | **Satou Sabally** 🔴 | 68 |
 | 196 | Shannon Johnson | 67 |
 | 197 | Crystal Robinson | 65 |
 | 197 | Queen Egbo | 65 |
