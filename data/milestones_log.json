@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-09T02:48:00+00:00",
+    "text": "A'ja Wilson passed Janeth Arcain for #73 all-time in steals (career 347) \u2014 (3:36 - 2nd \u2014 SEA @ LV)",
+    "kind": "rank_pass",
+    "player": "A'ja Wilson",
+    "stat": "steals",
+    "rank": 73,
+    "passed_players": [
+      "Janeth Arcain"
+    ],
+    "new_total": 347
+  },
+  {
     "ts": "2026-06-09T02:47:00+00:00",
     "text": "Katie Lou Samuelson passed Diamond DeShields for #148 all-time in three-pointers (career 148) \u2014 up from #149 entering today \u2014 (4:17 - 2nd \u2014 SEA @ LV)",
     "kind": "rank_pass",
@@ -2946,18 +2958,5 @@
       "Alison Bales"
     ],
     "new_total": 150
-  },
-  {
-    "ts": "2026-06-05T13:51:00+00:00",
-    "text": "Kelsey Mitchell passed Alexis Hornbuckle and Cheryl Ford for #142 all-time in steals (career 226) \u2014 up from #144 entering today \u2014 (Final \u2014 ATL @ IND)",
-    "kind": "rank_pass",
-    "player": "Kelsey Mitchell",
-    "stat": "steals",
-    "rank": 142,
-    "passed_players": [
-      "Alexis Hornbuckle",
-      "Cheryl Ford"
-    ],
-    "new_total": 226
   }
 ]
