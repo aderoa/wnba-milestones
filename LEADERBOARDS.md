@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-09 04:03 UTC_
+_Last updated: 2026-06-09 04:04 UTC_
 
 ## Contents
 
@@ -194,7 +194,7 @@ _Last updated: 2026-06-09 04:03 UTC_
 | 173 | Nakia Sanford | 1,915 |
 | 174 | Ebony Hoffman | 1,909 |
 | 175 | Candice Wiggins | 1,901 |
-| 176 | **Natisha Hiedeman** 🔴 +14 | 1,872 |
+| 176 | **Natisha Hiedeman** 🔴 +17 | 1,875 |
 | 177 | Damiris Dantas | 1,833 |
 | 178 | Isabelle Harrison | 1,832 |
 | 179 | Tianna Hawkins | 1,825 |
@@ -1113,7 +1113,7 @@ _Last updated: 2026-06-09 04:03 UTC_
 | 66 | Ruthie Bolton | 312 |
 | 68 | Tan White | 311 |
 | 69 | Kedra Holland-Corn | 307 |
-| 70 | **Natisha Hiedeman** 🔴 +3 | 306 |
+| 69 | **Natisha Hiedeman** 🔴 +4 | 307 |
 | 71 | Kelly Miller | 305 |
 | 72 | Nikki Teasley | 304 |
 | 73 | Vickie Johnson | 295 |
@@ -1367,8 +1367,8 @@ _Last updated: 2026-06-09 04:03 UTC_
 | 116 | Natalie Williams | 480 |
 | 117 | Ebony Hoffman | 470 |
 | 118 | Elaine Powell | 469 |
-| 119 | **A'ja Wilson** 🔴 +1 | 467 |
-| 119 | Allie Quigley | 467 |
+| 119 | **A'ja Wilson** 🔴 +2 | 468 |
+| 120 | Allie Quigley | 467 |
 | 121 | Allisha Gray | 466 |
 | 122 | Ariel Atkins | 454 |
 | 122 | Kia Vaughn | 454 |
