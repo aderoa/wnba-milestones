@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-09 02:10 UTC_
+_Last updated: 2026-06-09 02:11 UTC_
 
 ## Contents
 
@@ -37,7 +37,7 @@ _Last updated: 2026-06-09 02:10 UTC_
 | 16 | Brittney Griner | 6,031 |
 | 17 | Lauren Jackson | 6,005 |
 | 17 | Seimone Augustus | 6,005 |
-| 19 | **A'ja Wilson** 🔴 | 5,942 |
+| 19 | **A'ja Wilson** 🔴 +2 | 5,944 |
 | 20 | Becky Hammon | 5,816 |
 | 21 | Angel McCoughtry | 5,797 |
 | 22 | Skylar Diggins | 5,626 |
@@ -336,7 +336,7 @@ _Last updated: 2026-06-09 02:10 UTC_
 | 109 | Tamika Raymond | 1,127 |
 | 111 | Adrienne Goodson | 1,126 |
 | 112 | Aliyah Boston | 1,120 |
-| 113 | **NaLyssa Smith** 🔴 | 1,115 |
+| 113 | **NaLyssa Smith** 🔴 +1 | 1,116 |
 | 114 | Deanna Nolan | 1,112 |
 | 114 | Natasha Cloud | 1,112 |
 | 116 | Chiney Ogwumike | 1,110 |
@@ -604,7 +604,7 @@ _Last updated: 2026-06-09 02:10 UTC_
 | 173 | Shameka Christon | 389 |
 | 173 | Tamicha Jackson | 389 |
 | 175 | Riquna Williams | 387 |
-| 176 | **Stephanie Talbot** 🔴 | 385 |
+| 176 | **Stephanie Talbot** 🔴 +1 | 386 |
 | 177 | Dana Evans | 379 |
 | 178 | Jessica Breland | 377 |
 | 179 | Shenise Johnson | 376 |
