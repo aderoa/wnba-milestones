@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-09 23:26 UTC_
+_Last updated: 2026-06-09 23:27 UTC_
 
 ## Contents
 
@@ -1354,9 +1354,9 @@ _Last updated: 2026-06-09 23:26 UTC_
 | 102 | Sabrina Ionescu | 518 |
 | 104 | Shavonte Zellous | 517 |
 | 104 | Wendy Palmer | 517 |
+| 106 | **Jordin Canada** 🔴 +2 | 514 |
 | 106 | Tully Bevilaqua | 514 |
-| 107 | Jia Perkins | 513 |
-| 107 | **Jordin Canada** 🔴 +1 | 513 |
+| 108 | Jia Perkins | 513 |
 | 109 | Marina Mabrey | 510 |
 | 110 | Tamera Young | 501 |
 | 111 | Nikki Teasley | 493 |
