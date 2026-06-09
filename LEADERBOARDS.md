@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-09 23:11 UTC_
+_Last updated: 2026-06-09 23:12 UTC_
 
 ## Contents
 
@@ -117,7 +117,7 @@ _Last updated: 2026-06-09 23:11 UTC_
 | 96 | Shameka Christon | 3,039 |
 | 97 | Marie Ferdinand-Harris | 3,001 |
 | 98 | Emma Meesseman | 2,966 |
-| 99 | Natasha Cloud | 2,952 |
+| 99 | **Natasha Cloud** 🔴 | 2,952 |
 | 100 | Elizabeth Williams | 2,896 |
 | 101 | Natalie Williams | 2,894 |
 | 102 | Jennifer Gillom | 2,888 |
@@ -337,7 +337,7 @@ _Last updated: 2026-06-09 23:11 UTC_
 | 111 | Adrienne Goodson | 1,126 |
 | 112 | NaLyssa Smith | 1,115 |
 | 113 | Deanna Nolan | 1,112 |
-| 113 | Natasha Cloud | 1,112 |
+| 113 | **Natasha Cloud** 🔴 | 1,112 |
 | 115 | Aliyah Boston | 1,110 |
 | 115 | Chiney Ogwumike | 1,110 |
 | 117 | Becky Hammon | 1,108 |
@@ -437,7 +437,7 @@ _Last updated: 2026-06-09 23:11 UTC_
 | 6 | Chelsea Gray | 1,935 |
 | 7 | Alyssa Thomas | 1,903 |
 | 8 | **Skylar Diggins** 🔴 | 1,812 |
-| 9 | Natasha Cloud | 1,772 |
+| 9 | **Natasha Cloud** 🔴 | 1,772 |
 | 10 | Becky Hammon | 1,705 |
 | 11 | Candace Parker | 1,634 |
 | 12 | Cappie Pondexter | 1,575 |
@@ -788,7 +788,7 @@ _Last updated: 2026-06-09 23:11 UTC_
 | 150 | Kalani Brown | 85 |
 | 150 | Kristin Folkl | 85 |
 | 154 | Charde Houston | 84 |
-| 154 | Natasha Cloud | 84 |
+| 154 | **Natasha Cloud** 🔴 | 84 |
 | 154 | Shatori Walker-Kimbrough | 84 |
 | 157 | Tamera Young | 83 |
 | 158 | Damiris Dantas | 82 |
@@ -909,7 +909,7 @@ _Last updated: 2026-06-09 23:11 UTC_
 | 68 | Erica Wheeler | 354 |
 | 69 | Vicky Bullett | 353 |
 | 70 | Svetlana Abrosimova | 352 |
-| 71 | Natasha Cloud | 349 |
+| 71 | **Natasha Cloud** 🔴 | 349 |
 | 72 | A'ja Wilson | 346 |
 | 72 | Janeth Arcain | 346 |
 | 74 | Arike Ogunbowale | 345 |
@@ -1101,7 +1101,7 @@ _Last updated: 2026-06-09 23:11 UTC_
 | 54 | Elena Delle Donne | 343 |
 | 56 | Candace Parker | 342 |
 | 57 | Deanna Nolan | 340 |
-| 58 | Natasha Cloud | 339 |
+| 58 | **Natasha Cloud** 🔴 | 339 |
 | 59 | Anna DeForge | 334 |
 | 60 | Erica Wheeler | 329 |
 | 61 | Jackie Young | 323 |
@@ -1296,7 +1296,7 @@ _Last updated: 2026-06-09 23:11 UTC_
 | 45 | Renee Montgomery | 697 |
 | 46 | Temeka Johnson | 696 |
 | 47 | Penny Taylor | 695 |
-| 48 | Natasha Cloud | 692 |
+| 48 | **Natasha Cloud** 🔴 | 692 |
 | 49 | Erica Wheeler | 690 |
 | 50 | Dominique Canty | 685 |
 | 51 | DeMya Walker | 684 |
@@ -1521,7 +1521,7 @@ _Last updated: 2026-06-09 23:11 UTC_
 | 65 | Sue Bird | 775 |
 | 66 | Sheri Sam | 766 |
 | 67 | Kia Vaughn | 755 |
-| 67 | Natasha Cloud | 755 |
+| 67 | **Natasha Cloud** 🔴 | 755 |
 | 69 | Vickie Johnson | 752 |
 | 70 | Kara Braxton | 748 |
 | 71 | Kahleah Copper | 738 |
