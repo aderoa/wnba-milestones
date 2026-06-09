@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-09 23:18 UTC_
+_Last updated: 2026-06-09 23:19 UTC_
 
 ## Contents
 
@@ -117,7 +117,7 @@ _Last updated: 2026-06-09 23:18 UTC_
 | 96 | Shameka Christon | 3,039 |
 | 97 | Marie Ferdinand-Harris | 3,001 |
 | 98 | Emma Meesseman | 2,966 |
-| 99 | **Natasha Cloud** 🔴 | 2,952 |
+| 99 | **Natasha Cloud** 🔴 +1 | 2,953 |
 | 100 | **Elizabeth Williams** 🔴 | 2,896 |
 | 101 | Natalie Williams | 2,894 |
 | 102 | Jennifer Gillom | 2,888 |
@@ -256,7 +256,7 @@ _Last updated: 2026-06-09 23:18 UTC_
 | 30 | Chamique Holdsclaw | 2,123 |
 | 31 | Chasity Melvin | 2,097 |
 | 32 | Tammy Sutton-Brown | 2,010 |
-| 33 | **Elizabeth Williams** 🔴 | 1,952 |
+| 33 | **Elizabeth Williams** 🔴 +1 | 1,953 |
 | 34 | Cheryl Ford | 1,907 |
 | 35 | Plenette Pierson | 1,834 |
 | 36 | Natalie Williams | 1,832 |
@@ -370,7 +370,7 @@ _Last updated: 2026-06-09 23:18 UTC_
 | 144 | Jessica Shepard | 927 |
 | 144 | Merlakia Jones | 927 |
 | 146 | Satou Sabally | 926 |
-| 147 | **Angel Reese** 🔴 +1 | 924 |
+| 147 | **Angel Reese** 🔴 +2 | 925 |
 | 148 | Nicky Anosike | 922 |
 | 149 | Janeth Arcain | 916 |
 | 150 | Karima Christmas-Kelly | 908 |
