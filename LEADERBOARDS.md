@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-09 03:24 UTC_
+_Last updated: 2026-06-09 03:25 UTC_
 
 ## Contents
 
@@ -194,7 +194,7 @@ _Last updated: 2026-06-09 03:24 UTC_
 | 173 | Nakia Sanford | 1,915 |
 | 174 | Ebony Hoffman | 1,909 |
 | 175 | Candice Wiggins | 1,901 |
-| 176 | **Natisha Hiedeman** 🔴 +4 | 1,862 |
+| 176 | **Natisha Hiedeman** 🔴 +7 | 1,865 |
 | 177 | Damiris Dantas | 1,833 |
 | 178 | Isabelle Harrison | 1,832 |
 | 179 | Tianna Hawkins | 1,825 |
@@ -507,7 +507,7 @@ _Last updated: 2026-06-09 03:24 UTC_
 | 76 | Monique Currie | 740 |
 | 77 | Elaine Powell | 728 |
 | 78 | Dearica Hamby | 718 |
-| 79 | **Stefanie Dolson** 🔴 +1 | 701 |
+| 79 | **Stefanie Dolson** 🔴 +2 | 702 |
 | 80 | Chamique Holdsclaw | 698 |
 | 81 | Shavonte Zellous | 693 |
 | 82 | Allie Quigley | 690 |
@@ -1114,8 +1114,8 @@ _Last updated: 2026-06-09 03:24 UTC_
 | 68 | Tan White | 311 |
 | 69 | Kedra Holland-Corn | 307 |
 | 70 | Kelly Miller | 305 |
+| 71 | **Natisha Hiedeman** 🔴 +1 | 304 |
 | 71 | Nikki Teasley | 304 |
-| 72 | **Natisha Hiedeman** 🔴 | 303 |
 | 73 | Vickie Johnson | 295 |
 | 74 | Seimone Augustus | 293 |
 | 75 | Candice Wiggins | 290 |
