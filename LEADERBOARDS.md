@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-09 00:02 UTC_
+_Last updated: 2026-06-09 00:03 UTC_
 
 ## Contents
 
@@ -1016,7 +1016,7 @@ _Last updated: 2026-06-09 00:02 UTC_
 | 175 | Cynthia Cooper | 192 |
 | 176 | Natisha Hiedeman | 191 |
 | 177 | Alanna Smith | 190 |
-| 178 | **Myisha Hines-Allen** 🔴 | 189 |
+| 177 | **Myisha Hines-Allen** 🔴 +1 | 190 |
 | 179 | Tamicha Jackson | 188 |
 | 180 | Michele Timms | 187 |
 | 181 | Charde Houston | 185 |
