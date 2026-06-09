@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-09 23:16 UTC_
+_Last updated: 2026-06-09 23:17 UTC_
 
 ## Contents
 
@@ -118,7 +118,7 @@ _Last updated: 2026-06-09 23:16 UTC_
 | 97 | Marie Ferdinand-Harris | 3,001 |
 | 98 | Emma Meesseman | 2,966 |
 | 99 | **Natasha Cloud** 🔴 | 2,952 |
-| 100 | Elizabeth Williams | 2,896 |
+| 100 | **Elizabeth Williams** 🔴 | 2,896 |
 | 101 | Natalie Williams | 2,894 |
 | 102 | Jennifer Gillom | 2,888 |
 | 103 | Iziane Castro Marques | 2,862 |
@@ -199,7 +199,7 @@ _Last updated: 2026-06-09 23:16 UTC_
 | 178 | Damiris Dantas | 1,830 |
 | 179 | Tianna Hawkins | 1,825 |
 | 180 | Noelle Quinn | 1,824 |
-| 181 | Rachel Banham | 1,823 |
+| 181 | **Rachel Banham** 🔴 | 1,823 |
 | 182 | Danielle Adams | 1,820 |
 | 183 | Charde Houston | 1,797 |
 | 184 | NaLyssa Smith | 1,775 |
@@ -256,7 +256,7 @@ _Last updated: 2026-06-09 23:16 UTC_
 | 30 | Chamique Holdsclaw | 2,123 |
 | 31 | Chasity Melvin | 2,097 |
 | 32 | Tammy Sutton-Brown | 2,010 |
-| 33 | Elizabeth Williams | 1,952 |
+| 33 | **Elizabeth Williams** 🔴 | 1,952 |
 | 34 | Cheryl Ford | 1,907 |
 | 35 | Plenette Pierson | 1,834 |
 | 36 | Natalie Williams | 1,832 |
@@ -555,7 +555,7 @@ _Last updated: 2026-06-09 23:16 UTC_
 | 124 | Iziane Castro Marques | 509 |
 | 125 | Brittany Boyd-Jones | 508 |
 | 125 | Chasity Melvin | 508 |
-| 125 | Rachel Banham | 508 |
+| 125 | **Rachel Banham** 🔴 | 508 |
 | 125 | **Rhyne Howard** 🔴 | 508 |
 | 129 | Anna DeForge | 503 |
 | 129 | Coco Miller | 503 |
@@ -565,7 +565,7 @@ _Last updated: 2026-06-09 23:16 UTC_
 | 134 | Kahleah Copper | 484 |
 | 135 | Ukari Figgs | 470 |
 | 136 | Janeth Arcain | 469 |
-| 137 | Elizabeth Williams | 467 |
+| 137 | **Elizabeth Williams** 🔴 | 467 |
 | 138 | Erin Phillips | 462 |
 | 139 | Sylvia Fowles | 461 |
 | 140 | Satou Sabally | 456 |
@@ -644,7 +644,7 @@ _Last updated: 2026-06-09 23:16 UTC_
 | 8 | Tammy Sutton-Brown | 555 |
 | 9 | Tangela Smith | 554 |
 | 10 | Ruth Riley | 505 |
-| 11 | Elizabeth Williams | 493 |
+| 11 | **Elizabeth Williams** 🔴 | 493 |
 | 12 | Taj McWilliams-Franklin | 443 |
 | 13 | Breanna Stewart | 436 |
 | 14 | Tina Charles | 428 |
@@ -938,7 +938,7 @@ _Last updated: 2026-06-09 23:16 UTC_
 | 97 | Kedra Holland-Corn | 301 |
 | 98 | Lindsey Harding | 295 |
 | 99 | Janel McCarville | 294 |
-| 100 | Elizabeth Williams | 292 |
+| 100 | **Elizabeth Williams** 🔴 | 292 |
 | 101 | Kelly Miller | 290 |
 | 102 | Glory Johnson | 289 |
 | 103 | Essence Carson | 285 |
@@ -1087,7 +1087,7 @@ _Last updated: 2026-06-09 23:16 UTC_
 | 40 | **Rhyne Howard** 🔴 | 394 |
 | 42 | Roneeka Hodges | 389 |
 | 43 | Courtney Vandersloot | 385 |
-| 44 | Rachel Banham | 384 |
+| 44 | **Rachel Banham** 🔴 | 384 |
 | 45 | Briann January | 381 |
 | 46 | Jasmine Thomas | 376 |
 | 47 | Allison Feaster | 372 |
@@ -1401,7 +1401,7 @@ _Last updated: 2026-06-09 23:16 UTC_
 | 150 | Marissa Coleman | 396 |
 | 151 | Sophia Witherspoon | 386 |
 | 152 | Hamchetou Maiga-Ba | 385 |
-| 153 | Elizabeth Williams | 384 |
+| 153 | **Elizabeth Williams** 🔴 | 384 |
 | 154 | Kamila Vodichkova | 381 |
 | 155 | Myisha Hines-Allen | 380 |
 | 156 | Jessica Breland | 378 |
@@ -1443,7 +1443,7 @@ _Last updated: 2026-06-09 23:16 UTC_
 | 192 | Isabelle Harrison | 300 |
 | 193 | Crystal Robinson | 299 |
 | 194 | Michele Timms | 297 |
-| 195 | Rachel Banham | 295 |
+| 195 | **Rachel Banham** 🔴 | 295 |
 | 196 | Kayla Thornton | 294 |
 | 197 | **Azurá Stevens** 🔴 +1 | 293 |
 | 198 | Natisha Hiedeman | 289 |
@@ -1531,7 +1531,7 @@ _Last updated: 2026-06-09 23:16 UTC_
 | 75 | Latasha Byears | 730 |
 | 76 | **Allisha Gray** 🔴 +1 | 727 |
 | 77 | Kristi Toliver | 722 |
-| 78 | Elizabeth Williams | 720 |
+| 78 | **Elizabeth Williams** 🔴 | 720 |
 | 79 | Ariel Atkins | 713 |
 | 79 | Cheryl Ford | 713 |
 | 81 | Jia Perkins | 711 |
@@ -1632,7 +1632,7 @@ _Last updated: 2026-06-09 23:16 UTC_
 | 176 | Karima Christmas-Kelly | 494 |
 | 177 | Ann Wauters | 493 |
 | 177 | Riquna Williams | 493 |
-| 179 | Rachel Banham | 490 |
+| 179 | **Rachel Banham** 🔴 | 490 |
 | 180 | Charde Houston | 487 |
 | 181 | Lindsey Harding | 486 |
 | 182 | Cathrine Kraayeveld | 484 |
