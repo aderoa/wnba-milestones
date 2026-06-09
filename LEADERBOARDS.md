@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-09 03:21 UTC_
+_Last updated: 2026-06-09 03:22 UTC_
 
 ## Contents
 
@@ -602,8 +602,8 @@ _Last updated: 2026-06-09 03:21 UTC_
 | 170 | Stacey Dales | 395 |
 | 172 | Sugar Rodgers | 393 |
 | 173 | Shameka Christon | 389 |
-| 173 | **Stephanie Talbot** 🔴 +4 | 389 |
 | 173 | Tamicha Jackson | 389 |
+| 175 | **Stephanie Talbot** 🔴 +3 | 388 |
 | 176 | Riquna Williams | 387 |
 | 177 | Dana Evans | 379 |
 | 178 | Jessica Breland | 377 |
