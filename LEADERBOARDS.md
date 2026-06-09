@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-09 00:34 UTC_
+_Last updated: 2026-06-09 00:35 UTC_
 
 ## Contents
 
@@ -32,7 +32,7 @@ _Last updated: 2026-06-09 00:34 UTC_
 | 11 | Katie Smith | 6,450 |
 | 12 | Sylvia Fowles | 6,413 |
 | 13 | Lisa Leslie | 6,251 |
-| 14 | **Breanna Stewart** 🔴 +19 | 6,192 |
+| 14 | **Breanna Stewart** 🔴 +21 | 6,194 |
 | 15 | Jewell Loyd | 6,078 |
 | 16 | Brittney Griner | 6,031 |
 | 17 | Lauren Jackson | 6,005 |
@@ -206,7 +206,7 @@ _Last updated: 2026-06-09 00:34 UTC_
 | 185 | Kamila Vodichkova | 1,767 |
 | 186 | Tully Bevilaqua | 1,763 |
 | 187 | Sandy Brondello | 1,759 |
-| 188 | **Sophie Cunningham** 🔴 +3 | 1,755 |
+| 188 | **Sophie Cunningham** 🔴 +5 | 1,757 |
 | 189 | Sugar Rodgers | 1,733 |
 | 190 | Gabby Williams | 1,723 |
 | 191 | Moriah Jefferson | 1,722 |
@@ -595,8 +595,8 @@ _Last updated: 2026-06-09 00:34 UTC_
 | 164 | Allison Feaster | 406 |
 | 165 | Rita Williams | 403 |
 | 166 | Kia Nurse | 402 |
+| 167 | **Aliyah Boston** 🔴 +3 | 401 |
 | 167 | Julie Allemand | 401 |
-| 168 | **Aliyah Boston** 🔴 +2 | 400 |
 | 169 | Marissa Coleman | 399 |
 | 170 | Jessica Shepard | 395 |
 | 170 | Stacey Dales | 395 |
@@ -1652,5 +1652,5 @@ _Last updated: 2026-06-09 00:34 UTC_
 | 196 | Natalie Achonwa | 459 |
 | 197 | Kara Lawson | 457 |
 | 198 | NaLyssa Smith | 454 |
-| 199 | **Satou Sabally** 🔴 +1 | 451 |
+| 199 | **Satou Sabally** 🔴 +2 | 452 |
 | 200 | Alexis Hornbuckle | 450 |
