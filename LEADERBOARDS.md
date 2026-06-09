@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-09 01:34 UTC_
+_Last updated: 2026-06-09 01:35 UTC_
 
 ## Contents
 
@@ -496,7 +496,7 @@ _Last updated: 2026-06-09 01:34 UTC_
 | 65 | Tully Bevilaqua | 853 |
 | 66 | Brittney Sykes | 852 |
 | 67 | Jia Perkins | 837 |
-| 68 | **Kelsey Mitchell** 🔴 +3 | 824 |
+| 68 | **Kelsey Mitchell** 🔴 +4 | 825 |
 | 69 | Andrea Stinson | 810 |
 | 70 | Tina Thompson | 803 |
 | 71 | Epiphanny Prince | 800 |
@@ -1166,10 +1166,10 @@ _Last updated: 2026-06-09 01:34 UTC_
 | 120 | Aerial Powers | 179 |
 | 120 | Camille Smith | 179 |
 | 122 | Swin Cash | 176 |
+| 123 | **Caitlin Clark** 🔴 +4 | 175 |
 | 123 | Nikki McCray | 175 |
-| 124 | **Caitlin Clark** 🔴 +3 | 174 |
-| 124 | Shatori Walker-Kimbrough | 174 |
-| 124 | Tayler Hill | 174 |
+| 125 | Shatori Walker-Kimbrough | 174 |
+| 125 | Tayler Hill | 174 |
 | 127 | Theresa Plaisance | 172 |
 | 128 | Amanda Lassiter | 170 |
 | 129 | Marine Johannès | 169 |
@@ -1333,8 +1333,8 @@ _Last updated: 2026-06-09 01:34 UTC_
 | 82 | Breanna Stewart | 572 |
 | 83 | Andrea Stinson | 571 |
 | 84 | Kara Braxton | 570 |
-| 85 | **Kelsey Mitchell** 🔴 +2 | 565 |
 | 85 | Nikki McCray | 565 |
+| 86 | **Kelsey Mitchell** 🔴 +1 | 564 |
 | 87 | Sancho Lyttle | 563 |
 | 88 | Tan White | 557 |
 | 89 | Lauren Jackson | 549 |

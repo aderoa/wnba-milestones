@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-06-09T01:35:00+00:00",
+    "text": "Caitlin Clark passed Shatori Walker-Kimbrough and Tayler Hill for #124 all-time in three-pointers (career 175) \u2014 up from #127 entering today \u2014 (1.2 - 4th \u2014 IND @ WSH)",
+    "kind": "rank_pass",
+    "player": "Caitlin Clark",
+    "stat": "three-pointers",
+    "rank": 124,
+    "passed_players": [
+      "Shatori Walker-Kimbrough",
+      "Tayler Hill"
+    ],
+    "new_total": 175
+  },
+  {
     "ts": "2026-06-09T01:21:00+00:00",
     "text": "Kelsey Mitchell passed Tiffany Mitchell for #121 all-time in fouls (career 605) \u2014 up from #122 entering today \u2014 (1:31 - 4th \u2014 IND @ WSH)",
     "kind": "rank_pass",
@@ -2950,20 +2963,5 @@
       "Theresa Plaisance"
     ],
     "new_total": 173
-  },
-  {
-    "ts": "2026-06-05T13:51:00+00:00",
-    "text": "Caitlin Clark passed Erlana Larkins, Rita Williams, Le'coe Willingham, and Olympia Scott for #177 all-time in turnovers (career 327) \u2014 up from #180 entering today \u2014 (Final \u2014 ATL @ IND)",
-    "kind": "rank_pass",
-    "player": "Caitlin Clark",
-    "stat": "turnovers",
-    "rank": 177,
-    "passed_players": [
-      "Erlana Larkins",
-      "Rita Williams",
-      "Le'coe Willingham",
-      "Olympia Scott"
-    ],
-    "new_total": 327
   }
 ]
