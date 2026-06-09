@@ -2,6 +2,11 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-09 00:32 UTC
+
+- **Betnijah Laney-Hamilton** reached **800** career rebounds (now 800) — _2:41 - 3rd — NY @ CON_
+- **Betnijah Laney-Hamilton** passed **Tierra Ruffin-Pratt** for **#169** all-time in rebounds (career 800) — up from #170 entering today — _2:41 - 3rd — NY @ CON_
+
 ## 2026-06-09 00:23 UTC
 
 - **Han Xu** reached **400** career points (now 401) — _5:59 - 3rd — NY @ CON_

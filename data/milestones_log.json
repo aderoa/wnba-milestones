@@ -1,5 +1,26 @@
 [
   {
+    "ts": "2026-06-09T00:32:00+00:00",
+    "text": "Betnijah Laney-Hamilton reached 800 career rebounds (now 800) \u2014 (2:41 - 3rd \u2014 NY @ CON)",
+    "kind": "round",
+    "player": "Betnijah Laney-Hamilton",
+    "stat": "rebounds",
+    "value": 800,
+    "new_total": 800
+  },
+  {
+    "ts": "2026-06-09T00:32:00+00:00",
+    "text": "Betnijah Laney-Hamilton passed Tierra Ruffin-Pratt for #169 all-time in rebounds (career 800) \u2014 up from #170 entering today \u2014 (2:41 - 3rd \u2014 NY @ CON)",
+    "kind": "rank_pass",
+    "player": "Betnijah Laney-Hamilton",
+    "stat": "rebounds",
+    "rank": 169,
+    "passed_players": [
+      "Tierra Ruffin-Pratt"
+    ],
+    "new_total": 800
+  },
+  {
     "ts": "2026-06-09T00:23:00+00:00",
     "text": "Han Xu reached 400 career points (now 401) \u2014 (5:59 - 3rd \u2014 NY @ CON)",
     "kind": "round",
@@ -2956,29 +2977,5 @@
       "Sandy Brondello"
     ],
     "new_total": 1760
-  },
-  {
-    "ts": "2026-06-05T13:51:00+00:00",
-    "text": "Sophie Cunningham passed Sugar Rodgers for #63 all-time in three-pointers (career 319) \u2014 (Final \u2014 ATL @ IND)",
-    "kind": "rank_pass",
-    "player": "Sophie Cunningham",
-    "stat": "three-pointers",
-    "rank": 63,
-    "passed_players": [
-      "Sugar Rodgers"
-    ],
-    "new_total": 319
-  },
-  {
-    "ts": "2026-06-05T13:51:00+00:00",
-    "text": "Sophie Cunningham passed Armintie Herrington for #153 all-time in fouls (career 524) \u2014 up from #154 entering today \u2014 (Final \u2014 ATL @ IND)",
-    "kind": "rank_pass",
-    "player": "Sophie Cunningham",
-    "stat": "fouls",
-    "rank": 153,
-    "passed_players": [
-      "Armintie Herrington"
-    ],
-    "new_total": 524
   }
 ]
