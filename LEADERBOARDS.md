@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-09 03:53 UTC_
+_Last updated: 2026-06-09 03:54 UTC_
 
 ## Contents
 
@@ -37,7 +37,7 @@ _Last updated: 2026-06-09 03:53 UTC_
 | 16 | Brittney Griner | 6,031 |
 | 17 | Lauren Jackson | 6,005 |
 | 17 | Seimone Augustus | 6,005 |
-| 19 | **A'ja Wilson** 🔴 +29 | 5,971 |
+| 19 | **A'ja Wilson** 🔴 +31 | 5,973 |
 | 20 | Becky Hammon | 5,816 |
 | 21 | Angel McCoughtry | 5,797 |
 | 22 | Skylar Diggins | 5,626 |
@@ -105,7 +105,7 @@ _Last updated: 2026-06-09 03:53 UTC_
 | 84 | Andrea Stinson | 3,351 |
 | 85 | Tanisha Wright | 3,324 |
 | 86 | Margo Dydek | 3,214 |
-| 87 | **Stefanie Dolson** 🔴 | 3,195 |
+| 87 | **Stefanie Dolson** 🔴 +3 | 3,198 |
 | 88 | Danielle Robinson | 3,160 |
 | 89 | Erica Wheeler | 3,144 |
 | 90 | Wendy Palmer | 3,135 |
@@ -194,7 +194,7 @@ _Last updated: 2026-06-09 03:53 UTC_
 | 173 | Nakia Sanford | 1,915 |
 | 174 | Ebony Hoffman | 1,909 |
 | 175 | Candice Wiggins | 1,901 |
-| 176 | **Natisha Hiedeman** 🔴 +10 | 1,868 |
+| 176 | **Natisha Hiedeman** 🔴 +13 | 1,871 |
 | 177 | Damiris Dantas | 1,833 |
 | 178 | Isabelle Harrison | 1,832 |
 | 179 | Tianna Hawkins | 1,825 |
@@ -434,7 +434,7 @@ _Last updated: 2026-06-09 03:53 UTC_
 | 3 | Ticha Penicheiro | 2,588 |
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
-| 6 | **Chelsea Gray** 🔴 +7 | 1,942 |
+| 6 | **Chelsea Gray** 🔴 +8 | 1,943 |
 | 7 | Alyssa Thomas | 1,903 |
 | 8 | Skylar Diggins | 1,812 |
 | 9 | Natasha Cloud | 1,772 |
@@ -463,7 +463,7 @@ _Last updated: 2026-06-09 03:53 UTC_
 | 32 | **Jewell Loyd** 🔴 | 1,144 |
 | 33 | Renee Montgomery | 1,140 |
 | 34 | Swin Cash | 1,131 |
-| 35 | **Jackie Young** 🔴 +4 | 1,091 |
+| 35 | **Jackie Young** 🔴 +5 | 1,092 |
 | 36 | Lindsey Harding | 1,090 |
 | 37 | Sabrina Ionescu | 1,074 |
 | 38 | Katie Douglas | 1,069 |
@@ -1113,8 +1113,8 @@ _Last updated: 2026-06-09 03:53 UTC_
 | 66 | Ruthie Bolton | 312 |
 | 68 | Tan White | 311 |
 | 69 | Kedra Holland-Corn | 307 |
-| 70 | Kelly Miller | 305 |
-| 70 | **Natisha Hiedeman** 🔴 +2 | 305 |
+| 70 | **Natisha Hiedeman** 🔴 +3 | 306 |
+| 71 | Kelly Miller | 305 |
 | 72 | Nikki Teasley | 304 |
 | 73 | Vickie Johnson | 295 |
 | 74 | Seimone Augustus | 293 |
@@ -1125,7 +1125,7 @@ _Last updated: 2026-06-09 03:53 UTC_
 | 79 | Bridget Carleton | 287 |
 | 80 | Monique Currie | 284 |
 | 81 | Iziane Castro Marques | 275 |
-| 82 | **Stefanie Dolson** 🔴 | 273 |
+| 82 | **Stefanie Dolson** 🔴 +1 | 274 |
 | 83 | Sheryl Swoopes | 270 |
 | 84 | Courtney Williams | 269 |
 | 85 | Sophia Witherspoon | 260 |
@@ -1185,9 +1185,9 @@ _Last updated: 2026-06-09 03:53 UTC_
 | 138 | Jennifer Azzi | 158 |
 | 140 | Natasha Howard | 157 |
 | 141 | Alanna Smith | 154 |
-| 142 | Bridget Pettis | 153 |
-| 142 | Jennifer Gillom | 153 |
-| 142 | **Stephanie Talbot** 🔴 | 153 |
+| 141 | **Stephanie Talbot** 🔴 +1 | 154 |
+| 143 | Bridget Pettis | 153 |
+| 143 | Jennifer Gillom | 153 |
 | 145 | Rita Williams | 150 |
 | 146 | Moriah Jefferson | 149 |
 | 146 | Tiffany Mitchell | 149 |
