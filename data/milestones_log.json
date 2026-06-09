@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-09T02:47:00+00:00",
+    "text": "Katie Lou Samuelson passed Diamond DeShields for #148 all-time in three-pointers (career 148) \u2014 up from #149 entering today \u2014 (4:17 - 2nd \u2014 SEA @ LV)",
+    "kind": "rank_pass",
+    "player": "Katie Lou Samuelson",
+    "stat": "three-pointers",
+    "rank": 148,
+    "passed_players": [
+      "Diamond DeShields"
+    ],
+    "new_total": 148
+  },
+  {
     "ts": "2026-06-09T02:34:00+00:00",
     "text": "Stefanie Dolson passed Candice Dupree for #30 all-time in blocks (career 317) \u2014 up from #31 entering today \u2014 (8:54 - 2nd \u2014 SEA @ LV)",
     "kind": "rank_pass",
@@ -2947,17 +2959,5 @@
       "Cheryl Ford"
     ],
     "new_total": 226
-  },
-  {
-    "ts": "2026-06-05T13:51:00+00:00",
-    "text": "Kelsey Mitchell passed Sancho Lyttle for #87 all-time in turnovers (career 564) \u2014 (Final \u2014 ATL @ IND)",
-    "kind": "rank_pass",
-    "player": "Kelsey Mitchell",
-    "stat": "turnovers",
-    "rank": 87,
-    "passed_players": [
-      "Sancho Lyttle"
-    ],
-    "new_total": 564
   }
 ]

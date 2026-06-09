@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-09 02:47 UTC
+
+- **Katie Lou Samuelson** passed **Diamond DeShields** for **#148** all-time in three-pointers (career 148) — up from #149 entering today — _4:17 - 2nd — SEA @ LV_
+
 ## 2026-06-09 02:34 UTC
 
 - **Stefanie Dolson** passed **Candice Dupree** for **#30** all-time in blocks (career 317) — up from #31 entering today — _8:54 - 2nd — SEA @ LV_
