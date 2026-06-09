@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-09 23:31 UTC
+
+- **Allisha Gray** passed **Monique Billings** for **#72** all-time in rebounds (career 1,386) — up from #73 entering today — _8:41 - 2nd — ATL @ CHI_
+
 ## 2026-06-09 04:03 UTC
 
 - **A'ja Wilson** passed **Alex Bentley** for **#92** all-time in assists (career 646) — up from #93 entering today — _15.0 - 4th — SEA @ LV_

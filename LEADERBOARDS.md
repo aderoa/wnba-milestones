@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-09 23:30 UTC_
+_Last updated: 2026-06-09 23:31 UTC_
 
 ## Contents
 
@@ -295,8 +295,8 @@ _Last updated: 2026-06-09 23:30 UTC_
 | 69 | Alana Beard | 1,420 |
 | 70 | Nakia Sanford | 1,419 |
 | 71 | Kara Braxton | 1,387 |
-| 72 | **Allisha Gray** 🔴 +1 | 1,385 |
-| 72 | Monique Billings | 1,385 |
+| 72 | **Allisha Gray** 🔴 +2 | 1,386 |
+| 73 | Monique Billings | 1,385 |
 | 74 | Courtney Vandersloot | 1,383 |
 | 74 | Katie Smith | 1,383 |
 | 76 | Ebony Hoffman | 1,376 |
@@ -369,8 +369,8 @@ _Last updated: 2026-06-09 23:30 UTC_
 | 143 | Janell Burse | 944 |
 | 144 | Jessica Shepard | 927 |
 | 144 | Merlakia Jones | 927 |
-| 146 | **Angel Reese** 🔴 +3 | 926 |
 | 146 | Satou Sabally | 926 |
+| 147 | **Angel Reese** 🔴 +2 | 925 |
 | 148 | Nicky Anosike | 922 |
 | 149 | Janeth Arcain | 916 |
 | 150 | Karima Christmas-Kelly | 908 |
@@ -553,10 +553,10 @@ _Last updated: 2026-06-09 23:30 UTC_
 | 122 | Myisha Hines-Allen | 520 |
 | 123 | Caitlin Clark | 517 |
 | 124 | Iziane Castro Marques | 509 |
-| 125 | Brittany Boyd-Jones | 508 |
-| 125 | Chasity Melvin | 508 |
-| 125 | **Rachel Banham** 🔴 | 508 |
-| 125 | **Rhyne Howard** 🔴 | 508 |
+| 124 | **Rhyne Howard** 🔴 +1 | 509 |
+| 126 | Brittany Boyd-Jones | 508 |
+| 126 | Chasity Melvin | 508 |
+| 126 | **Rachel Banham** 🔴 | 508 |
 | 129 | Anna DeForge | 503 |
 | 129 | Coco Miller | 503 |
 | 131 | Crystal Robinson | 488 |
@@ -565,7 +565,7 @@ _Last updated: 2026-06-09 23:30 UTC_
 | 134 | Kahleah Copper | 484 |
 | 135 | Ukari Figgs | 470 |
 | 136 | Janeth Arcain | 469 |
-| 137 | **Elizabeth Williams** 🔴 | 467 |
+| 137 | **Elizabeth Williams** 🔴 +1 | 468 |
 | 138 | Erin Phillips | 462 |
 | 139 | Sylvia Fowles | 461 |
 | 140 | Satou Sabally | 456 |
