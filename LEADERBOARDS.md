@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-09 01:05 UTC_
+_Last updated: 2026-06-09 01:06 UTC_
 
 ## Contents
 
@@ -1373,7 +1373,7 @@ _Last updated: 2026-06-09 01:05 UTC_
 | 122 | Ariel Atkins | 454 |
 | 122 | Kia Vaughn | 454 |
 | 124 | Janeth Arcain | 453 |
-| 125 | **Betnijah Laney-Hamilton** 🔴 +2 | 446 |
+| 125 | **Betnijah Laney-Hamilton** 🔴 +3 | 447 |
 | 126 | Elena Baranova | 444 |
 | 126 | Jantel Lavender | 444 |
 | 128 | Jackie Young | 441 |
@@ -1402,7 +1402,7 @@ _Last updated: 2026-06-09 01:05 UTC_
 | 151 | Sophia Witherspoon | 386 |
 | 152 | Hamchetou Maiga-Ba | 385 |
 | 153 | Elizabeth Williams | 384 |
-| 154 | **Myisha Hines-Allen** 🔴 +2 | 382 |
+| 154 | **Myisha Hines-Allen** 🔴 +3 | 383 |
 | 155 | Kamila Vodichkova | 381 |
 | 156 | Jessica Breland | 378 |
 | 157 | Armintie Herrington | 377 |
@@ -1602,7 +1602,7 @@ _Last updated: 2026-06-09 01:05 UTC_
 | 146 | A'ja Wilson | 537 |
 | 147 | Kristen Rasmussen | 533 |
 | 148 | Amanda Zahui B | 530 |
-| 149 | **Damiris Dantas** 🔴 | 527 |
+| 149 | **Damiris Dantas** 🔴 +1 | 528 |
 | 150 | Candice Wiggins | 525 |
 | 150 | Epiphanny Prince | 525 |
 | 150 | Jackie Young | 525 |
