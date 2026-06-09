@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-09 23:34 UTC_
+_Last updated: 2026-06-09 23:35 UTC_
 
 ## Contents
 
@@ -118,7 +118,7 @@ _Last updated: 2026-06-09 23:34 UTC_
 | 97 | Marie Ferdinand-Harris | 3,001 |
 | 98 | Emma Meesseman | 2,966 |
 | 99 | **Natasha Cloud** 🔴 +5 | 2,957 |
-| 100 | **Elizabeth Williams** 🔴 | 2,896 |
+| 100 | **Elizabeth Williams** 🔴 +2 | 2,898 |
 | 101 | Natalie Williams | 2,894 |
 | 102 | Jennifer Gillom | 2,888 |
 | 103 | Iziane Castro Marques | 2,862 |
@@ -336,7 +336,7 @@ _Last updated: 2026-06-09 23:34 UTC_
 | 109 | Tamika Raymond | 1,127 |
 | 111 | Adrienne Goodson | 1,126 |
 | 112 | NaLyssa Smith | 1,115 |
-| 113 | **Natasha Cloud** 🔴 +1 | 1,113 |
+| 113 | **Natasha Cloud** 🔴 +2 | 1,114 |
 | 114 | Deanna Nolan | 1,112 |
 | 115 | Aliyah Boston | 1,110 |
 | 115 | Chiney Ogwumike | 1,110 |
@@ -1530,8 +1530,8 @@ _Last updated: 2026-06-09 23:34 UTC_
 | 74 | Becky Hammon | 733 |
 | 75 | Latasha Byears | 730 |
 | 76 | **Allisha Gray** 🔴 +2 | 728 |
+| 77 | **Elizabeth Williams** 🔴 +2 | 722 |
 | 77 | Kristi Toliver | 722 |
-| 78 | **Elizabeth Williams** 🔴 +1 | 721 |
 | 79 | Ariel Atkins | 713 |
 | 79 | Cheryl Ford | 713 |
 | 81 | Jia Perkins | 711 |
