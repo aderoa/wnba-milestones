@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-09 00:04 UTC_
+_Last updated: 2026-06-09 00:05 UTC_
 
 ## Contents
 
@@ -47,7 +47,7 @@ _Last updated: 2026-06-09 00:04 UTC_
 | 26 | Lindsay Whalen | 5,511 |
 | 27 | Swin Cash | 5,119 |
 | 28 | Tangela Smith | 5,035 |
-| 29 | **Kelsey Mitchell** 🔴 +7 | 5,010 |
+| 29 | **Kelsey Mitchell** 🔴 +9 | 5,012 |
 | 30 | Taj McWilliams-Franklin | 4,992 |
 | 31 | Tiffany Hayes | 4,985 |
 | 32 | Maya Moore | 4,984 |
@@ -187,7 +187,7 @@ _Last updated: 2026-06-09 00:04 UTC_
 | 166 | **Aliyah Boston** 🔴 +8 | 1,936 |
 | 167 | Cathrine Kraayeveld | 1,926 |
 | 168 | Roneeka Hodges | 1,925 |
-| 169 | **Myisha Hines-Allen** 🔴 +3 | 1,921 |
+| 169 | **Myisha Hines-Allen** 🔴 +5 | 1,923 |
 | 170 | Latasha Byears | 1,920 |
 | 171 | Karima Christmas-Kelly | 1,919 |
 | 172 | Jessica Breland | 1,918 |
@@ -317,7 +317,7 @@ _Last updated: 2026-06-09 00:04 UTC_
 | 91 | Azurá Stevens | 1,256 |
 | 92 | Tiffany Hayes | 1,244 |
 | 93 | Ezi Magbegor | 1,243 |
-| 94 | **Myisha Hines-Allen** 🔴 +3 | 1,242 |
+| 93 | **Myisha Hines-Allen** 🔴 +4 | 1,243 |
 | 95 | Brianna Turner | 1,237 |
 | 96 | Seimone Augustus | 1,228 |
 | 97 | Kayla McBride | 1,226 |
@@ -408,7 +408,7 @@ _Last updated: 2026-06-09 00:04 UTC_
 | 181 | Kelsey Bone | 769 |
 | 181 | Tan White | 769 |
 | 184 | Tully Bevilaqua | 767 |
-| 185 | **Shakira Austin** 🔴 +3 | 761 |
+| 185 | **Shakira Austin** 🔴 +4 | 762 |
 | 186 | Layshia Clarendon | 756 |
 | 187 | Brooke Wyckoff | 751 |
 | 188 | Coco Miller | 750 |
