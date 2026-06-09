@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-09 04:02 UTC_
+_Last updated: 2026-06-09 04:03 UTC_
 
 ## Contents
 
@@ -87,7 +87,7 @@ _Last updated: 2026-06-09 04:02 UTC_
 | 66 | Mwadi Mabika | 3,576 |
 | 67 | Odyssey Sims | 3,574 |
 | 68 | Camille Smith | 3,551 |
-| 69 | **Jackie Young** 🔴 +26 | 3,548 |
+| 68 | **Jackie Young** 🔴 +29 | 3,551 |
 | 70 | Napheesa Collier | 3,542 |
 | 70 | Shannon Johnson | 3,542 |
 | 72 | Renee Montgomery | 3,533 |
@@ -238,7 +238,7 @@ _Last updated: 2026-06-09 04:02 UTC_
 | 12 | Alyssa Thomas | 2,817 |
 | 13 | Jonquel Jones | 2,663 |
 | 14 | Sancho Lyttle | 2,596 |
-| 15 | **A'ja Wilson** 🔴 +11 | 2,585 |
+| 15 | **A'ja Wilson** 🔴 +12 | 2,586 |
 | 16 | DeLisha Milton-Jones | 2,574 |
 | 17 | Breanna Stewart | 2,569 |
 | 18 | Brittney Griner | 2,556 |
@@ -320,8 +320,8 @@ _Last updated: 2026-06-09 04:02 UTC_
 | 93 | Myisha Hines-Allen | 1,243 |
 | 95 | **Brianna Turner** 🔴 | 1,237 |
 | 96 | Seimone Augustus | 1,228 |
+| 97 | **Chelsea Gray** 🔴 +5 | 1,226 |
 | 97 | Kayla McBride | 1,226 |
-| 98 | **Chelsea Gray** 🔴 +4 | 1,225 |
 | 99 | Jia Perkins | 1,220 |
 | 100 | DeMya Walker | 1,199 |
 | 101 | Latasha Byears | 1,190 |
@@ -335,7 +335,7 @@ _Last updated: 2026-06-09 04:02 UTC_
 | 109 | Andrea Stinson | 1,127 |
 | 109 | Tamika Raymond | 1,127 |
 | 111 | Adrienne Goodson | 1,126 |
-| 112 | **NaLyssa Smith** 🔴 +8 | 1,123 |
+| 112 | **NaLyssa Smith** 🔴 +9 | 1,124 |
 | 113 | Aliyah Boston | 1,120 |
 | 114 | Deanna Nolan | 1,112 |
 | 114 | Natasha Cloud | 1,112 |
@@ -520,11 +520,11 @@ _Last updated: 2026-06-09 04:02 UTC_
 | 89 | Betty Lennox | 651 |
 | 89 | Plenette Pierson | 651 |
 | 91 | Brittney Griner | 648 |
-| 92 | **A'ja Wilson** 🔴 +8 | 645 |
-| 92 | Alex Bentley | 645 |
+| 92 | **A'ja Wilson** 🔴 +9 | 646 |
+| 93 | Alex Bentley | 645 |
 | 94 | Asjha Jones | 637 |
 | 95 | Jennifer Azzi | 636 |
-| 96 | **Natisha Hiedeman** 🔴 +4 | 628 |
+| 96 | **Natisha Hiedeman** 🔴 +5 | 629 |
 | 97 | Jonquel Jones | 625 |
 | 98 | Sami Whitcomb | 623 |
 | 99 | Alysha Clark | 616 |
@@ -1104,7 +1104,7 @@ _Last updated: 2026-06-09 04:02 UTC_
 | 58 | Natasha Cloud | 339 |
 | 59 | Anna DeForge | 334 |
 | 60 | Erica Wheeler | 329 |
-| 61 | **Jackie Young** 🔴 +3 | 326 |
+| 61 | **Jackie Young** 🔴 +4 | 327 |
 | 62 | Sophie Cunningham | 319 |
 | 63 | Sugar Rodgers | 317 |
 | 64 | Marissa Coleman | 315 |

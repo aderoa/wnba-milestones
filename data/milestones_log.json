@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-09T04:03:00+00:00",
+    "text": "A'ja Wilson passed Alex Bentley for #92 all-time in assists (career 646) \u2014 up from #93 entering today \u2014 (15.0 - 4th \u2014 SEA @ LV)",
+    "kind": "rank_pass",
+    "player": "A'ja Wilson",
+    "stat": "assists",
+    "rank": 92,
+    "passed_players": [
+      "Alex Bentley"
+    ],
+    "new_total": 646
+  },
+  {
     "ts": "2026-06-09T03:50:00+00:00",
     "text": "Dominique Malonga reached 100 career fouls (now 100) \u2014 (6:05 - 4th \u2014 SEA @ LV)",
     "kind": "round",
@@ -2945,20 +2957,5 @@
       "Kedra Holland-Corn"
     ],
     "new_total": 1947
-  },
-  {
-    "ts": "2026-06-05T13:51:00+00:00",
-    "text": "Aliyah Boston passed NaLyssa Smith, Deanna Nolan, Natasha Cloud, and Chiney Ogwumike for #112 all-time in rebounds (career 1,117) \u2014 up from #115 entering today \u2014 (Final \u2014 ATL @ IND)",
-    "kind": "rank_pass",
-    "player": "Aliyah Boston",
-    "stat": "rebounds",
-    "rank": 112,
-    "passed_players": [
-      "NaLyssa Smith",
-      "Deanna Nolan",
-      "Natasha Cloud",
-      "Chiney Ogwumike"
-    ],
-    "new_total": 1117
   }
 ]
