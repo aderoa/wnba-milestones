@@ -1,5 +1,19 @@
 [
   {
+    "ts": "2026-06-09T03:28:00+00:00",
+    "text": "Jackie Young passed Betnijah Laney-Hamilton, Elena Baranova, and Jantel Lavender for #125 all-time in turnovers (career 445) \u2014 up from #128 entering today \u2014 (3:51 - 3rd \u2014 SEA @ LV)",
+    "kind": "rank_pass",
+    "player": "Jackie Young",
+    "stat": "turnovers",
+    "rank": 125,
+    "passed_players": [
+      "Betnijah Laney-Hamilton",
+      "Elena Baranova",
+      "Jantel Lavender"
+    ],
+    "new_total": 445
+  },
+  {
     "ts": "2026-06-09T02:48:00+00:00",
     "text": "A'ja Wilson passed Janeth Arcain for #73 all-time in steals (career 347) \u2014 (3:36 - 2nd \u2014 SEA @ LV)",
     "kind": "rank_pass",
@@ -2946,17 +2960,5 @@
       "Marissa Coleman"
     ],
     "new_total": 400
-  },
-  {
-    "ts": "2026-06-05T13:51:00+00:00",
-    "text": "Aliyah Boston passed Alison Bales for #80 all-time in blocks (career 150) \u2014 up from #81 entering today \u2014 (Final \u2014 ATL @ IND)",
-    "kind": "rank_pass",
-    "player": "Aliyah Boston",
-    "stat": "blocks",
-    "rank": 80,
-    "passed_players": [
-      "Alison Bales"
-    ],
-    "new_total": 150
   }
 ]

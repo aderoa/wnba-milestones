@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-09 03:28 UTC
+
+- **Jackie Young** passed **Betnijah Laney-Hamilton**, **Elena Baranova**, and **Jantel Lavender** for **#125** all-time in turnovers (career 445) — up from #128 entering today — _3:51 - 3rd — SEA @ LV_
+
 ## 2026-06-09 02:48 UTC
 
 - **A'ja Wilson** passed **Janeth Arcain** for **#73** all-time in steals (career 347) — _3:36 - 2nd — SEA @ LV_

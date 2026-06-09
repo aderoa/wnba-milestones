@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-09 03:27 UTC_
+_Last updated: 2026-06-09 03:28 UTC_
 
 ## Contents
 
@@ -37,7 +37,7 @@ _Last updated: 2026-06-09 03:27 UTC_
 | 16 | Brittney Griner | 6,031 |
 | 17 | Lauren Jackson | 6,005 |
 | 17 | Seimone Augustus | 6,005 |
-| 19 | **A'ja Wilson** 🔴 +23 | 5,965 |
+| 19 | **A'ja Wilson** 🔴 +26 | 5,968 |
 | 20 | Becky Hammon | 5,816 |
 | 21 | Angel McCoughtry | 5,797 |
 | 22 | Skylar Diggins | 5,626 |
@@ -194,7 +194,7 @@ _Last updated: 2026-06-09 03:27 UTC_
 | 173 | Nakia Sanford | 1,915 |
 | 174 | Ebony Hoffman | 1,909 |
 | 175 | Candice Wiggins | 1,901 |
-| 176 | **Natisha Hiedeman** 🔴 +7 | 1,865 |
+| 176 | **Natisha Hiedeman** 🔴 +10 | 1,868 |
 | 177 | Damiris Dantas | 1,833 |
 | 178 | Isabelle Harrison | 1,832 |
 | 179 | Tianna Hawkins | 1,825 |
@@ -434,7 +434,7 @@ _Last updated: 2026-06-09 03:27 UTC_
 | 3 | Ticha Penicheiro | 2,588 |
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
-| 6 | **Chelsea Gray** 🔴 +6 | 1,941 |
+| 6 | **Chelsea Gray** 🔴 +7 | 1,942 |
 | 7 | Alyssa Thomas | 1,903 |
 | 8 | Skylar Diggins | 1,812 |
 | 9 | Natasha Cloud | 1,772 |
@@ -524,7 +524,7 @@ _Last updated: 2026-06-09 03:27 UTC_
 | 93 | **A'ja Wilson** 🔴 +5 | 642 |
 | 94 | Asjha Jones | 637 |
 | 95 | Jennifer Azzi | 636 |
-| 96 | **Natisha Hiedeman** 🔴 +3 | 627 |
+| 96 | **Natisha Hiedeman** 🔴 +4 | 628 |
 | 97 | Jonquel Jones | 625 |
 | 98 | Sami Whitcomb | 623 |
 | 99 | Alysha Clark | 616 |
@@ -1114,8 +1114,8 @@ _Last updated: 2026-06-09 03:27 UTC_
 | 68 | Tan White | 311 |
 | 69 | Kedra Holland-Corn | 307 |
 | 70 | Kelly Miller | 305 |
-| 71 | **Natisha Hiedeman** 🔴 +1 | 304 |
-| 71 | Nikki Teasley | 304 |
+| 70 | **Natisha Hiedeman** 🔴 +2 | 305 |
+| 72 | Nikki Teasley | 304 |
 | 73 | Vickie Johnson | 295 |
 | 74 | Seimone Augustus | 293 |
 | 75 | Candice Wiggins | 290 |
@@ -1374,9 +1374,9 @@ _Last updated: 2026-06-09 03:27 UTC_
 | 122 | Kia Vaughn | 454 |
 | 124 | Janeth Arcain | 453 |
 | 125 | Betnijah Laney-Hamilton | 447 |
-| 126 | Elena Baranova | 444 |
-| 126 | **Jackie Young** 🔴 +3 | 444 |
-| 126 | Jantel Lavender | 444 |
+| 126 | **Jackie Young** 🔴 +4 | 445 |
+| 127 | Elena Baranova | 444 |
+| 127 | Jantel Lavender | 444 |
 | 129 | Alysha Clark | 440 |
 | 129 | Ann Wauters | 440 |
 | 129 | **Cheyenne Parker-Tyus** 🔴 | 440 |
