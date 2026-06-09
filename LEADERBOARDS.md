@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-09 03:20 UTC_
+_Last updated: 2026-06-09 03:21 UTC_
 
 ## Contents
 
@@ -89,8 +89,8 @@ _Last updated: 2026-06-09 03:20 UTC_
 | 68 | Camille Smith | 3,551 |
 | 69 | Napheesa Collier | 3,542 |
 | 69 | Shannon Johnson | 3,542 |
-| 71 | Renee Montgomery | 3,533 |
-| 72 | **Jackie Young** 🔴 +9 | 3,531 |
+| 71 | **Jackie Young** 🔴 +13 | 3,535 |
+| 72 | Renee Montgomery | 3,533 |
 | 73 | Jasmine Thomas | 3,522 |
 | 74 | Tamecka Dixon | 3,507 |
 | 75 | Tammy Sutton-Brown | 3,498 |
@@ -194,7 +194,7 @@ _Last updated: 2026-06-09 03:20 UTC_
 | 173 | Nakia Sanford | 1,915 |
 | 174 | Ebony Hoffman | 1,909 |
 | 175 | Candice Wiggins | 1,901 |
-| 176 | **Natisha Hiedeman** 🔴 +2 | 1,860 |
+| 176 | **Natisha Hiedeman** 🔴 +4 | 1,862 |
 | 177 | Damiris Dantas | 1,833 |
 | 178 | Isabelle Harrison | 1,832 |
 | 179 | Tianna Hawkins | 1,825 |
@@ -321,7 +321,7 @@ _Last updated: 2026-06-09 03:20 UTC_
 | 95 | Brianna Turner | 1,237 |
 | 96 | Seimone Augustus | 1,228 |
 | 97 | Kayla McBride | 1,226 |
-| 98 | **Chelsea Gray** 🔴 +1 | 1,222 |
+| 98 | **Chelsea Gray** 🔴 +3 | 1,224 |
 | 99 | Jia Perkins | 1,220 |
 | 100 | DeMya Walker | 1,199 |
 | 101 | Latasha Byears | 1,190 |
@@ -434,7 +434,7 @@ _Last updated: 2026-06-09 03:20 UTC_
 | 3 | Ticha Penicheiro | 2,588 |
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
-| 6 | **Chelsea Gray** 🔴 +5 | 1,940 |
+| 6 | **Chelsea Gray** 🔴 +6 | 1,941 |
 | 7 | Alyssa Thomas | 1,903 |
 | 8 | Skylar Diggins | 1,812 |
 | 9 | Natasha Cloud | 1,772 |
@@ -521,7 +521,7 @@ _Last updated: 2026-06-09 03:20 UTC_
 | 89 | Plenette Pierson | 651 |
 | 91 | Brittney Griner | 648 |
 | 92 | Alex Bentley | 645 |
-| 93 | **A'ja Wilson** 🔴 +4 | 641 |
+| 93 | **A'ja Wilson** 🔴 +5 | 642 |
 | 94 | Asjha Jones | 637 |
 | 95 | Jennifer Azzi | 636 |
 | 96 | **Natisha Hiedeman** 🔴 +3 | 627 |
@@ -1011,9 +1011,9 @@ _Last updated: 2026-06-09 03:20 UTC_
 | 170 | Adrienne Goodson | 203 |
 | 171 | Allie Quigley | 198 |
 | 172 | Layshia Clarendon | 195 |
+| 173 | **Natisha Hiedeman** 🔴 +3 | 194 |
 | 173 | Sonja Henning | 194 |
 | 173 | Tierra Ruffin-Pratt | 194 |
-| 175 | **Natisha Hiedeman** 🔴 +2 | 193 |
 | 176 | Cynthia Cooper | 192 |
 | 177 | Alanna Smith | 190 |
 | 177 | Myisha Hines-Allen | 190 |
