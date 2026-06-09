@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-09 00:39 UTC
+
+- **Damiris Dantas** reached **1,000** career rebounds (now 1,000) — _4:20 - 3rd — IND @ WSH_
+
 ## 2026-06-09 00:36 UTC
 
 - **Michaela Onyenwere** passed **Dearica Hamby** for **#154** all-time in three-pointers (career 143) — up from #156 entering today — _5:19 - 3rd — IND @ WSH_

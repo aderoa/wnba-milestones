@@ -1,5 +1,14 @@
 [
   {
+    "ts": "2026-06-09T00:39:00+00:00",
+    "text": "Damiris Dantas reached 1,000 career rebounds (now 1,000) \u2014 (4:20 - 3rd \u2014 IND @ WSH)",
+    "kind": "round",
+    "player": "Damiris Dantas",
+    "stat": "rebounds",
+    "value": 1000,
+    "new_total": 1000
+  },
+  {
     "ts": "2026-06-09T00:36:00+00:00",
     "text": "Michaela Onyenwere passed Dearica Hamby for #154 all-time in three-pointers (career 143) \u2014 up from #156 entering today \u2014 (5:19 - 3rd \u2014 IND @ WSH)",
     "kind": "rank_pass",
@@ -2962,20 +2971,5 @@
       "Kamila Vodichkova"
     ],
     "new_total": 382
-  },
-  {
-    "ts": "2026-06-05T13:51:00+00:00",
-    "text": "Myisha Hines-Allen passed Sheryl Swoopes, Monique Billings, Nikki McCray, and Alex Bentley for #156 all-time in fouls (career 521) \u2014 up from #160 entering today \u2014 (Final \u2014 ATL @ IND)",
-    "kind": "rank_pass",
-    "player": "Myisha Hines-Allen",
-    "stat": "fouls",
-    "rank": 156,
-    "passed_players": [
-      "Sheryl Swoopes",
-      "Monique Billings",
-      "Nikki McCray",
-      "Alex Bentley"
-    ],
-    "new_total": 521
   }
 ]
