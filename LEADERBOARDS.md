@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-09 23:45 UTC_
+_Last updated: 2026-06-09 23:46 UTC_
 
 ## Contents
 
@@ -40,7 +40,7 @@ _Last updated: 2026-06-09 23:45 UTC_
 | 19 | A'ja Wilson | 5,942 |
 | 20 | Becky Hammon | 5,816 |
 | 21 | Angel McCoughtry | 5,797 |
-| 22 | **Skylar Diggins** 🔴 +6 | 5,632 |
+| 22 | **Skylar Diggins** 🔴 +9 | 5,635 |
 | 23 | DeLisha Milton-Jones | 5,571 |
 | 24 | Katie Douglas | 5,545 |
 | 25 | Kayla McBride | 5,522 |
@@ -437,7 +437,7 @@ _Last updated: 2026-06-09 23:45 UTC_
 | 6 | Chelsea Gray | 1,935 |
 | 7 | Alyssa Thomas | 1,903 |
 | 8 | **Skylar Diggins** 🔴 +1 | 1,813 |
-| 9 | **Natasha Cloud** 🔴 | 1,772 |
+| 9 | **Natasha Cloud** 🔴 +1 | 1,773 |
 | 10 | Becky Hammon | 1,705 |
 | 11 | Candace Parker | 1,634 |
 | 12 | Cappie Pondexter | 1,575 |
@@ -1074,7 +1074,7 @@ _Last updated: 2026-06-09 23:45 UTC_
 | 28 | Ariel Atkins | 451 |
 | 28 | Tiffany Hayes | 451 |
 | 30 | **Allisha Gray** 🔴 | 445 |
-| 31 | **Skylar Diggins** 🔴 +2 | 437 |
+| 31 | **Skylar Diggins** 🔴 +3 | 438 |
 | 32 | Lauren Jackson | 436 |
 | 33 | Shameka Christon | 434 |
 | 34 | Chelsea Gray | 425 |
