@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-09 00:39 UTC_
+_Last updated: 2026-06-09 00:40 UTC_
 
 ## Contents
 
@@ -47,7 +47,7 @@ _Last updated: 2026-06-09 00:39 UTC_
 | 26 | Lindsay Whalen | 5,511 |
 | 27 | Swin Cash | 5,119 |
 | 28 | Tangela Smith | 5,035 |
-| 29 | **Kelsey Mitchell** 🔴 +9 | 5,012 |
+| 29 | **Kelsey Mitchell** 🔴 +13 | 5,016 |
 | 30 | Taj McWilliams-Franklin | 4,992 |
 | 31 | Tiffany Hayes | 4,985 |
 | 32 | Maya Moore | 4,984 |
@@ -152,8 +152,8 @@ _Last updated: 2026-06-09 00:39 UTC_
 | 131 | Alex Bentley | 2,350 |
 | 132 | Kayla Thornton | 2,333 |
 | 133 | Merlakia Jones | 2,308 |
-| 134 | **Betnijah Laney-Hamilton** 🔴 +6 | 2,288 |
-| 134 | Kia Vaughn | 2,288 |
+| 134 | **Betnijah Laney-Hamilton** 🔴 +9 | 2,291 |
+| 135 | Kia Vaughn | 2,288 |
 | 136 | Azurá Stevens | 2,259 |
 | 137 | Allison Feaster | 2,258 |
 | 138 | Shekinna Stricklen | 2,245 |
@@ -1425,9 +1425,9 @@ _Last updated: 2026-06-09 00:39 UTC_
 | 173 | Diamond DeShields | 333 |
 | 175 | **Satou Sabally** 🔴 +2 | 332 |
 | 176 | Charde Houston | 331 |
-| 177 | **Caitlin Clark** 🔴 +2 | 326 |
-| 177 | Erlana Larkins | 326 |
-| 177 | Rita Williams | 326 |
+| 177 | **Caitlin Clark** 🔴 +3 | 327 |
+| 178 | Erlana Larkins | 326 |
+| 178 | Rita Williams | 326 |
 | 180 | Le'coe Willingham | 325 |
 | 181 | Olympia Scott | 324 |
 | 182 | Gabby Williams | 320 |

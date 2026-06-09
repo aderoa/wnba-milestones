@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-09T00:40:00+00:00",
+    "text": "Betnijah Laney-Hamilton passed Kia Vaughn for #134 all-time in points (career 2,291) \u2014 up from #135 entering today \u2014 (17.8 - 3rd \u2014 NY @ CON)",
+    "kind": "rank_pass",
+    "player": "Betnijah Laney-Hamilton",
+    "stat": "points",
+    "rank": 134,
+    "passed_players": [
+      "Kia Vaughn"
+    ],
+    "new_total": 2291
+  },
+  {
     "ts": "2026-06-09T00:39:00+00:00",
     "text": "Damiris Dantas reached 1,000 career rebounds (now 1,000) \u2014 (4:20 - 3rd \u2014 IND @ WSH)",
     "kind": "round",
@@ -2959,17 +2971,5 @@
       "Alanna Smith"
     ],
     "new_total": 191
-  },
-  {
-    "ts": "2026-06-05T13:51:00+00:00",
-    "text": "Myisha Hines-Allen passed Kamila Vodichkova for #154 all-time in turnovers (career 382) \u2014 up from #155 entering today \u2014 (Final \u2014 ATL @ IND)",
-    "kind": "rank_pass",
-    "player": "Myisha Hines-Allen",
-    "stat": "turnovers",
-    "rank": 154,
-    "passed_players": [
-      "Kamila Vodichkova"
-    ],
-    "new_total": 382
   }
 ]

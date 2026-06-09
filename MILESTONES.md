@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-09 00:40 UTC
+
+- **Betnijah Laney-Hamilton** passed **Kia Vaughn** for **#134** all-time in points (career 2,291) — up from #135 entering today — _17.8 - 3rd — NY @ CON_
+
 ## 2026-06-09 00:39 UTC
 
 - **Damiris Dantas** reached **1,000** career rebounds (now 1,000) — _4:20 - 3rd — IND @ WSH_
