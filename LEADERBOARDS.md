@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-09 02:43 UTC_
+_Last updated: 2026-06-09 02:44 UTC_
 
 ## Contents
 
@@ -202,7 +202,7 @@ _Last updated: 2026-06-09 02:43 UTC_
 | 181 | Rachel Banham | 1,823 |
 | 182 | Danielle Adams | 1,820 |
 | 183 | Charde Houston | 1,797 |
-| 184 | **NaLyssa Smith** 🔴 +10 | 1,785 |
+| 184 | **NaLyssa Smith** 🔴 +12 | 1,787 |
 | 185 | Kamila Vodichkova | 1,767 |
 | 186 | Tully Bevilaqua | 1,763 |
 | 187 | Sophie Cunningham | 1,760 |
@@ -238,7 +238,7 @@ _Last updated: 2026-06-09 02:43 UTC_
 | 12 | Alyssa Thomas | 2,817 |
 | 13 | Jonquel Jones | 2,663 |
 | 14 | Sancho Lyttle | 2,596 |
-| 15 | **A'ja Wilson** 🔴 +3 | 2,577 |
+| 15 | **A'ja Wilson** 🔴 +4 | 2,578 |
 | 16 | DeLisha Milton-Jones | 2,574 |
 | 17 | Breanna Stewart | 2,569 |
 | 18 | Brittney Griner | 2,556 |
@@ -521,10 +521,10 @@ _Last updated: 2026-06-09 02:43 UTC_
 | 89 | Plenette Pierson | 651 |
 | 91 | Brittney Griner | 648 |
 | 92 | Alex Bentley | 645 |
-| 93 | **A'ja Wilson** 🔴 +1 | 638 |
+| 93 | **A'ja Wilson** 🔴 +2 | 639 |
 | 94 | Asjha Jones | 637 |
 | 95 | Jennifer Azzi | 636 |
-| 96 | **Natisha Hiedeman** 🔴 +2 | 626 |
+| 96 | **Natisha Hiedeman** 🔴 +3 | 627 |
 | 97 | Jonquel Jones | 625 |
 | 98 | Sami Whitcomb | 623 |
 | 99 | Alysha Clark | 616 |
