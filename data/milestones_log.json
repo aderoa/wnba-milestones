@@ -1,5 +1,14 @@
 [
   {
+    "ts": "2026-06-09T01:08:00+00:00",
+    "text": "Lexie Hull reached 800 career points (now 800) \u2014 (5:35 - 4th \u2014 IND @ WSH)",
+    "kind": "round",
+    "player": "Lexie Hull",
+    "stat": "points",
+    "value": 800,
+    "new_total": 800
+  },
+  {
     "ts": "2026-06-09T01:02:00+00:00",
     "text": "Tyasha Harris passed Satou Sabally for #140 all-time in assists (career 457) \u2014 up from #142 entering today \u2014 (8:37 - 4th \u2014 IND @ WSH)",
     "kind": "rank_pass",
@@ -2959,17 +2968,5 @@
       "Ezi Magbegor"
     ],
     "new_total": 1246
-  },
-  {
-    "ts": "2026-06-05T13:51:00+00:00",
-    "text": "Myisha Hines-Allen passed Epiphanny Prince for #180 all-time in blocks (career 75) \u2014 up from #181 entering today \u2014 (Final \u2014 ATL @ IND)",
-    "kind": "rank_pass",
-    "player": "Myisha Hines-Allen",
-    "stat": "blocks",
-    "rank": 180,
-    "passed_players": [
-      "Epiphanny Prince"
-    ],
-    "new_total": 75
   }
 ]
