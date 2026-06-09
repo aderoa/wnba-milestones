@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-09 02:34 UTC
+
+- **Stefanie Dolson** passed **Candice Dupree** for **#30** all-time in blocks (career 317) — up from #31 entering today — _8:54 - 2nd — SEA @ LV_
+
 ## 2026-06-09 02:23 UTC
 
 - **Zia Cooke** reached **100** career fouls (now 100) — _3:30 - 1st — SEA @ LV_

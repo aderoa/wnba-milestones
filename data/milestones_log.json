@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-09T02:34:00+00:00",
+    "text": "Stefanie Dolson passed Candice Dupree for #30 all-time in blocks (career 317) \u2014 up from #31 entering today \u2014 (8:54 - 2nd \u2014 SEA @ LV)",
+    "kind": "rank_pass",
+    "player": "Stefanie Dolson",
+    "stat": "blocks",
+    "rank": 30,
+    "passed_players": [
+      "Candice Dupree"
+    ],
+    "new_total": 317
+  },
+  {
     "ts": "2026-06-09T02:23:00+00:00",
     "text": "Zia Cooke reached 100 career fouls (now 100) \u2014 (3:30 - 1st \u2014 SEA @ LV)",
     "kind": "round",
@@ -2947,18 +2959,5 @@
       "Sancho Lyttle"
     ],
     "new_total": 564
-  },
-  {
-    "ts": "2026-06-05T13:51:00+00:00",
-    "text": "Caitlin Clark passed Margo Dydek and Myisha Hines-Allen for #121 all-time in assists (career 525) \u2014 up from #123 entering today \u2014 (Final \u2014 ATL @ IND)",
-    "kind": "rank_pass",
-    "player": "Caitlin Clark",
-    "stat": "assists",
-    "rank": 121,
-    "passed_players": [
-      "Margo Dydek",
-      "Myisha Hines-Allen"
-    ],
-    "new_total": 525
   }
 ]
