@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-09 23:19 UTC_
+_Last updated: 2026-06-09 23:20 UTC_
 
 ## Contents
 
@@ -313,8 +313,8 @@ _Last updated: 2026-06-09 23:19 UTC_
 | 87 | Betty Lennox | 1,296 |
 | 88 | Tari Phillips | 1,274 |
 | 89 | Janel McCarville | 1,261 |
+| 90 | **Azurá Stevens** 🔴 +2 | 1,258 |
 | 90 | Liz Cambage | 1,258 |
-| 91 | **Azurá Stevens** 🔴 +1 | 1,257 |
 | 92 | Tiffany Hayes | 1,244 |
 | 93 | Ezi Magbegor | 1,243 |
 | 94 | Myisha Hines-Allen | 1,239 |
@@ -787,9 +787,9 @@ _Last updated: 2026-06-09 23:19 UTC_
 | 150 | Erlana Larkins | 85 |
 | 150 | Kalani Brown | 85 |
 | 150 | Kristin Folkl | 85 |
-| 154 | Charde Houston | 84 |
-| 154 | **Natasha Cloud** 🔴 | 84 |
-| 154 | Shatori Walker-Kimbrough | 84 |
+| 150 | **Natasha Cloud** 🔴 +1 | 85 |
+| 155 | Charde Houston | 84 |
+| 155 | Shatori Walker-Kimbrough | 84 |
 | 157 | Tamera Young | 83 |
 | 158 | Damiris Dantas | 82 |
 | 159 | Charlotte Smith | 81 |
@@ -974,7 +974,7 @@ _Last updated: 2026-06-09 23:19 UTC_
 | 133 | Coco Miller | 237 |
 | 134 | Marissa Coleman | 236 |
 | 135 | Nikki McCray | 235 |
-| 136 | **Rhyne Howard** 🔴 +1 | 233 |
+| 136 | **Rhyne Howard** 🔴 +2 | 234 |
 | 137 | Merlakia Jones | 232 |
 | 138 | Ruth Riley | 231 |
 | 139 | Scholanda Dorrell | 230 |
