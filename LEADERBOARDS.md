@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-09 00:00 UTC_
+_Last updated: 2026-06-09 00:01 UTC_
 
 ## Contents
 
@@ -1403,7 +1403,7 @@ _Last updated: 2026-06-09 00:00 UTC_
 | 152 | Hamchetou Maiga-Ba | 385 |
 | 153 | Elizabeth Williams | 384 |
 | 154 | Kamila Vodichkova | 381 |
-| 155 | **Myisha Hines-Allen** 🔴 | 380 |
+| 154 | **Myisha Hines-Allen** 🔴 +1 | 381 |
 | 156 | Jessica Breland | 378 |
 | 157 | Armintie Herrington | 377 |
 | 158 | Anna DeForge | 374 |
@@ -1611,9 +1611,9 @@ _Last updated: 2026-06-09 00:00 UTC_
 | 155 | Kayla McBride | 522 |
 | 156 | **Monique Billings** 🔴 +3 | 520 |
 | 157 | Sheryl Swoopes | 519 |
+| 158 | **Myisha Hines-Allen** 🔴 +1 | 517 |
 | 158 | Nikki McCray | 517 |
-| 159 | Alex Bentley | 516 |
-| 159 | **Myisha Hines-Allen** 🔴 | 516 |
+| 160 | Alex Bentley | 516 |
 | 161 | Jantel Lavender | 513 |
 | 162 | Adrienne Goodson | 512 |
 | 162 | Janeth Arcain | 512 |
