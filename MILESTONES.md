@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-09 02:23 UTC
+
+- **Zia Cooke** reached **100** career fouls (now 100) — _3:30 - 1st — SEA @ LV_
+
 ## 2026-06-09 01:35 UTC
 
 - **Caitlin Clark** passed **Shatori Walker-Kimbrough** and **Tayler Hill** for **#124** all-time in three-pointers (career 175) — up from #127 entering today — _1.2 - 4th — IND @ WSH_

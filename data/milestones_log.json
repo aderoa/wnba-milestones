@@ -1,5 +1,14 @@
 [
   {
+    "ts": "2026-06-09T02:23:00+00:00",
+    "text": "Zia Cooke reached 100 career fouls (now 100) \u2014 (3:30 - 1st \u2014 SEA @ LV)",
+    "kind": "round",
+    "player": "Zia Cooke",
+    "stat": "fouls",
+    "value": 100,
+    "new_total": 100
+  },
+  {
     "ts": "2026-06-09T01:35:00+00:00",
     "text": "Caitlin Clark passed Shatori Walker-Kimbrough and Tayler Hill for #124 all-time in three-pointers (career 175) \u2014 up from #127 entering today \u2014 (1.2 - 4th \u2014 IND @ WSH)",
     "kind": "rank_pass",
@@ -2951,17 +2960,5 @@
       "Myisha Hines-Allen"
     ],
     "new_total": 525
-  },
-  {
-    "ts": "2026-06-05T13:51:00+00:00",
-    "text": "Caitlin Clark passed Theresa Plaisance for #126 all-time in three-pointers (career 173) \u2014 up from #127 entering today \u2014 (Final \u2014 ATL @ IND)",
-    "kind": "rank_pass",
-    "player": "Caitlin Clark",
-    "stat": "three-pointers",
-    "rank": 126,
-    "passed_players": [
-      "Theresa Plaisance"
-    ],
-    "new_total": 173
   }
 ]
