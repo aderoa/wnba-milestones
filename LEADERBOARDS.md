@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-09 01:27 UTC_
+_Last updated: 2026-06-09 01:28 UTC_
 
 ## Contents
 
@@ -295,7 +295,7 @@ _Last updated: 2026-06-09 01:27 UTC_
 | 69 | Alana Beard | 1,420 |
 | 70 | Nakia Sanford | 1,419 |
 | 71 | Kara Braxton | 1,387 |
-| 72 | **Monique Billings** 🔴 +1 | 1,386 |
+| 71 | **Monique Billings** 🔴 +2 | 1,387 |
 | 73 | Allisha Gray | 1,384 |
 | 74 | Courtney Vandersloot | 1,383 |
 | 74 | Katie Smith | 1,383 |
