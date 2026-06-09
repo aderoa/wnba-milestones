@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-09 00:22 UTC_
+_Last updated: 2026-06-09 00:23 UTC_
 
 ## Contents
 
@@ -408,7 +408,7 @@ _Last updated: 2026-06-09 00:22 UTC_
 | 181 | Kelsey Bone | 769 |
 | 181 | Tan White | 769 |
 | 184 | Tully Bevilaqua | 767 |
-| 185 | **Shakira Austin** 🔴 +4 | 762 |
+| 185 | **Shakira Austin** 🔴 +5 | 763 |
 | 186 | Layshia Clarendon | 756 |
 | 187 | Brooke Wyckoff | 751 |
 | 188 | Coco Miller | 750 |
@@ -1016,7 +1016,7 @@ _Last updated: 2026-06-09 00:22 UTC_
 | 175 | Cynthia Cooper | 192 |
 | 176 | Natisha Hiedeman | 191 |
 | 177 | Alanna Smith | 190 |
-| 177 | **Myisha Hines-Allen** 🔴 +1 | 190 |
+| 178 | **Myisha Hines-Allen** 🔴 | 189 |
 | 179 | Tamicha Jackson | 188 |
 | 180 | Michele Timms | 187 |
 | 181 | Charde Houston | 185 |

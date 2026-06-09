@@ -1,5 +1,14 @@
 [
   {
+    "ts": "2026-06-09T00:23:00+00:00",
+    "text": "Han Xu reached 400 career points (now 401) \u2014 (5:59 - 3rd \u2014 NY @ CON)",
+    "kind": "round",
+    "player": "Han Xu",
+    "stat": "points",
+    "value": 400,
+    "new_total": 401
+  },
+  {
     "ts": "2026-06-08T23:46:00+00:00",
     "text": "Satou Sabally passed Jackie Young for #194 all-time in blocks (career 69) \u2014 up from #195 entering today \u2014 (4:07 - 2nd \u2014 NY @ CON)",
     "kind": "rank_pass",
@@ -2971,17 +2980,5 @@
       "Armintie Herrington"
     ],
     "new_total": 524
-  },
-  {
-    "ts": "2026-06-05T13:51:00+00:00",
-    "text": "Kayla Thornton passed Alana Beard for #77 all-time in three-pointers (career 289) \u2014 up from #78 entering today \u2014 (Final \u2014 GS @ MIN)",
-    "kind": "rank_pass",
-    "player": "Kayla Thornton",
-    "stat": "three-pointers",
-    "rank": 77,
-    "passed_players": [
-      "Alana Beard"
-    ],
-    "new_total": 289
   }
 ]
