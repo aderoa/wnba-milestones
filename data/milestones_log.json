@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-09T01:02:00+00:00",
+    "text": "Tyasha Harris passed Satou Sabally for #140 all-time in assists (career 457) \u2014 up from #142 entering today \u2014 (8:37 - 4th \u2014 IND @ WSH)",
+    "kind": "rank_pass",
+    "player": "Tyasha Harris",
+    "stat": "assists",
+    "rank": 140,
+    "passed_players": [
+      "Satou Sabally"
+    ],
+    "new_total": 457
+  },
+  {
     "ts": "2026-06-09T00:40:00+00:00",
     "text": "Betnijah Laney-Hamilton passed Kia Vaughn for #134 all-time in points (career 2,291) \u2014 up from #135 entering today \u2014 (17.8 - 3rd \u2014 NY @ CON)",
     "kind": "rank_pass",
@@ -2959,17 +2971,5 @@
       "Epiphanny Prince"
     ],
     "new_total": 75
-  },
-  {
-    "ts": "2026-06-05T13:51:00+00:00",
-    "text": "Myisha Hines-Allen passed Alanna Smith for #177 all-time in steals (career 191) \u2014 up from #178 entering today \u2014 (Final \u2014 ATL @ IND)",
-    "kind": "rank_pass",
-    "player": "Myisha Hines-Allen",
-    "stat": "steals",
-    "rank": 177,
-    "passed_players": [
-      "Alanna Smith"
-    ],
-    "new_total": 191
   }
 ]

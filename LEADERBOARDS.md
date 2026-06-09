@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-09 01:01 UTC_
+_Last updated: 2026-06-09 01:02 UTC_
 
 ## Contents
 
@@ -408,7 +408,7 @@ _Last updated: 2026-06-09 01:01 UTC_
 | 181 | Kelsey Bone | 769 |
 | 181 | Tan White | 769 |
 | 184 | Tully Bevilaqua | 767 |
-| 185 | **Shakira Austin** 🔴 +6 | 764 |
+| 185 | **Shakira Austin** 🔴 +7 | 765 |
 | 186 | Layshia Clarendon | 756 |
 | 187 | Brooke Wyckoff | 751 |
 | 188 | Coco Miller | 750 |
@@ -569,7 +569,7 @@ _Last updated: 2026-06-09 01:01 UTC_
 | 138 | Erin Phillips | 462 |
 | 139 | Sylvia Fowles | 461 |
 | 140 | **Satou Sabally** 🔴 +2 | 458 |
-| 141 | **Tyasha Harris** 🔴 +2 | 456 |
+| 141 | **Tyasha Harris** 🔴 +3 | 457 |
 | 142 | Sydney Colson | 454 |
 | 143 | Yolanda Griffith | 451 |
 | 144 | Elena Delle Donne | 450 |
@@ -1220,7 +1220,7 @@ _Last updated: 2026-06-09 01:01 UTC_
 | 174 | Lisa Leslie | 123 |
 | 175 | Sidney Spencer | 122 |
 | 176 | Jordin Canada | 120 |
-| 177 | **Lexie Hull** 🔴 +1 | 119 |
+| 176 | **Lexie Hull** 🔴 +2 | 120 |
 | 178 | Tonya Edwards | 118 |
 | 179 | Edwige Lawson-Wade | 116 |
 | 179 | **Kennedy Burke** 🔴 | 116 |

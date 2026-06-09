@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-09 01:02 UTC
+
+- **Tyasha Harris** passed **Satou Sabally** for **#140** all-time in assists (career 457) — up from #142 entering today — _8:37 - 4th — IND @ WSH_
+
 ## 2026-06-09 00:40 UTC
 
 - **Betnijah Laney-Hamilton** passed **Kia Vaughn** for **#134** all-time in points (career 2,291) — up from #135 entering today — _17.8 - 3rd — NY @ CON_
