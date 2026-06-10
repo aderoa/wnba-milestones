@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-10 00:11 UTC_
+_Last updated: 2026-06-10 00:12 UTC_
 
 ## Contents
 
@@ -154,7 +154,7 @@ _Last updated: 2026-06-10 00:11 UTC_
 | 133 | Merlakia Jones | 2,308 |
 | 134 | Kia Vaughn | 2,288 |
 | 135 | Betnijah Laney-Hamilton | 2,282 |
-| 136 | **Azurá Stevens** 🔴 +4 | 2,263 |
+| 136 | **Azurá Stevens** 🔴 +5 | 2,264 |
 | 137 | Allison Feaster | 2,258 |
 | 138 | **Jordin Canada** 🔴 +8 | 2,245 |
 | 138 | Shekinna Stricklen | 2,245 |
@@ -367,7 +367,7 @@ _Last updated: 2026-06-10 00:11 UTC_
 | 141 | Dominique Canty | 961 |
 | 142 | Armintie Herrington | 960 |
 | 143 | Janell Burse | 944 |
-| 144 | **Angel Reese** 🔴 +6 | 929 |
+| 144 | **Angel Reese** 🔴 +7 | 930 |
 | 145 | **Jessica Shepard** 🔴 +1 | 928 |
 | 146 | Merlakia Jones | 927 |
 | 147 | Satou Sabally | 926 |
@@ -911,8 +911,8 @@ _Last updated: 2026-06-10 00:11 UTC_
 | 70 | Svetlana Abrosimova | 352 |
 | 71 | **Natasha Cloud** 🔴 | 349 |
 | 72 | A'ja Wilson | 346 |
+| 72 | **Arike Ogunbowale** 🔴 +1 | 346 |
 | 72 | Janeth Arcain | 346 |
-| 74 | **Arike Ogunbowale** 🔴 | 345 |
 | 75 | Helen Darling | 343 |
 | 76 | Andrea Stinson | 342 |
 | 77 | Armintie Herrington | 340 |
