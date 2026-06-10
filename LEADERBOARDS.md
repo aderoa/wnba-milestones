@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-10 00:34 UTC_
+_Last updated: 2026-06-10 00:35 UTC_
 
 ## Contents
 
@@ -43,7 +43,7 @@ _Last updated: 2026-06-10 00:34 UTC_
 | 22 | **Skylar Diggins** 🔴 +14 | 5,640 |
 | 23 | DeLisha Milton-Jones | 5,571 |
 | 24 | Katie Douglas | 5,545 |
-| 25 | **Kayla McBride** 🔴 +9 | 5,531 |
+| 25 | **Kayla McBride** 🔴 +12 | 5,534 |
 | 26 | Lindsay Whalen | 5,511 |
 | 27 | Swin Cash | 5,119 |
 | 28 | Tangela Smith | 5,035 |
@@ -56,7 +56,7 @@ _Last updated: 2026-06-10 00:34 UTC_
 | 35 | Chamique Holdsclaw | 4,713 |
 | 36 | Elena Delle Donne | 4,706 |
 | 37 | Alyssa Thomas | 4,653 |
-| 38 | **Arike Ogunbowale** 🔴 +11 | 4,623 |
+| 38 | **Arike Ogunbowale** 🔴 +12 | 4,624 |
 | 39 | Penny Taylor | 4,595 |
 | 40 | **Natasha Howard** 🔴 +9 | 4,537 |
 | 41 | Chelsea Gray | 4,506 |
@@ -262,8 +262,8 @@ _Last updated: 2026-06-10 00:34 UTC_
 | 36 | Natalie Williams | 1,832 |
 | 37 | Wendy Palmer | 1,824 |
 | 38 | Sophia Young-Malcolm | 1,807 |
+| 39 | **Courtney Williams** 🔴 +4 | 1,805 |
 | 39 | Lindsay Whalen | 1,805 |
-| 40 | **Courtney Williams** 🔴 +3 | 1,804 |
 | 41 | Camille Smith | 1,802 |
 | 42 | Kiah Stokes | 1,790 |
 | 43 | Asjha Jones | 1,751 |
@@ -368,7 +368,7 @@ _Last updated: 2026-06-10 00:34 UTC_
 | 142 | Armintie Herrington | 960 |
 | 143 | Janell Burse | 944 |
 | 144 | **Angel Reese** 🔴 +11 | 934 |
-| 145 | **Jessica Shepard** 🔴 +2 | 929 |
+| 145 | **Jessica Shepard** 🔴 +3 | 930 |
 | 146 | Merlakia Jones | 927 |
 | 147 | Satou Sabally | 926 |
 | 148 | Nicky Anosike | 922 |
@@ -381,13 +381,13 @@ _Last updated: 2026-06-10 00:34 UTC_
 | 155 | Shameka Christon | 867 |
 | 156 | **Alanna Smith** 🔴 +2 | 866 |
 | 157 | Krystal Thomas | 862 |
-| 158 | **Nia Coffey** 🔴 +4 | 858 |
+| 158 | **Nia Coffey** 🔴 +5 | 859 |
 | 159 | Marina Mabrey | 849 |
 | 160 | Leilani Mitchell | 845 |
 | 161 | Essence Carson | 833 |
 | 162 | Kristi Toliver | 829 |
 | 163 | Marie Ferdinand-Harris | 828 |
-| 164 | **Naz Hillmon** 🔴 +2 | 824 |
+| 164 | **Naz Hillmon** 🔴 +3 | 825 |
 | 165 | Marlies Askamp | 822 |
 | 166 | Amanda Zahui B | 819 |
 | 166 | Barbara Farris | 819 |
@@ -530,7 +530,7 @@ _Last updated: 2026-06-10 00:34 UTC_
 | 99 | **Alysha Clark** 🔴 | 616 |
 | 100 | Debbie Black | 612 |
 | 101 | Cynthia Cooper | 602 |
-| 102 | **Natasha Howard** 🔴 +1 | 597 |
+| 102 | **Natasha Howard** 🔴 +2 | 598 |
 | 103 | Sancho Lyttle | 592 |
 | 104 | Camille Smith | 590 |
 | 105 | Armintie Herrington | 589 |
@@ -872,7 +872,7 @@ _Last updated: 2026-06-10 00:34 UTC_
 | 31 | **Skylar Diggins** 🔴 | 454 |
 | 32 | Tina Thompson | 452 |
 | 33 | Maya Moore | 449 |
-| 33 | **Natasha Howard** 🔴 +2 | 449 |
+| 34 | **Natasha Howard** 🔴 +1 | 448 |
 | 35 | Chelsea Gray | 445 |
 | 35 | Jewell Loyd | 445 |
 | 37 | Sheri Sam | 438 |
@@ -1049,7 +1049,7 @@ _Last updated: 2026-06-10 00:34 UTC_
 | 3 | Katie Smith | 906 |
 | 4 | Becky Hammon | 825 |
 | 5 | Tina Thompson | 745 |
-| 6 | **Kayla McBride** 🔴 +2 | 739 |
+| 6 | **Kayla McBride** 🔴 +3 | 740 |
 | 7 | Katie Douglas | 723 |
 | 8 | Kelsey Mitchell | 687 |
 | 9 | Jewell Loyd | 678 |
