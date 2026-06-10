@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-10 02:50 UTC_
+_Last updated: 2026-06-10 02:51 UTC_
 
 ## Contents
 
@@ -660,7 +660,7 @@ _Last updated: 2026-06-10 02:50 UTC_
 | 24 | Diana Taurasi | 349 |
 | 24 | Elena Delle Donne | 349 |
 | 26 | DeLisha Milton-Jones | 339 |
-| 27 | **Kiah Stokes** 🔴 | 336 |
+| 27 | **Kiah Stokes** 🔴 +1 | 337 |
 | 28 | Yolanda Griffith | 323 |
 | 29 | Elena Baranova | 320 |
 | 30 | Candice Dupree | 316 |
