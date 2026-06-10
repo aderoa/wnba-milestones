@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-10 00:51 UTC_
+_Last updated: 2026-06-10 00:52 UTC_
 
 ## Contents
 
@@ -118,7 +118,7 @@ _Last updated: 2026-06-10 00:51 UTC_
 | 97 | Marie Ferdinand-Harris | 3,001 |
 | 98 | **Natasha Cloud** 🔴 +16 | 2,968 |
 | 99 | Emma Meesseman | 2,966 |
-| 100 | **Elizabeth Williams** 🔴 +4 | 2,900 |
+| 100 | **Elizabeth Williams** 🔴 +6 | 2,902 |
 | 101 | Natalie Williams | 2,894 |
 | 102 | Jennifer Gillom | 2,888 |
 | 103 | Iziane Castro Marques | 2,862 |
@@ -143,7 +143,7 @@ _Last updated: 2026-06-10 00:51 UTC_
 | 122 | Glory Johnson | 2,531 |
 | 123 | Nikki McCray | 2,521 |
 | 124 | Crystal Robinson | 2,496 |
-| 125 | **Rhyne Howard** 🔴 +10 | 2,482 |
+| 125 | **Rhyne Howard** 🔴 +13 | 2,485 |
 | 126 | Tiffany Mitchell | 2,480 |
 | 127 | Ruth Riley | 2,434 |
 | 128 | Svetlana Abrosimova | 2,414 |
@@ -335,7 +335,7 @@ _Last updated: 2026-06-10 00:51 UTC_
 | 109 | Andrea Stinson | 1,127 |
 | 109 | Tamika Raymond | 1,127 |
 | 111 | Adrienne Goodson | 1,126 |
-| 112 | **Natasha Cloud** 🔴 +5 | 1,117 |
+| 112 | **Natasha Cloud** 🔴 +6 | 1,118 |
 | 113 | NaLyssa Smith | 1,115 |
 | 114 | Deanna Nolan | 1,112 |
 | 115 | Aliyah Boston | 1,110 |
@@ -436,7 +436,7 @@ _Last updated: 2026-06-10 00:51 UTC_
 | 5 | Lindsay Whalen | 2,347 |
 | 6 | Chelsea Gray | 1,935 |
 | 7 | Alyssa Thomas | 1,903 |
-| 8 | **Skylar Diggins** 🔴 +2 | 1,814 |
+| 8 | **Skylar Diggins** 🔴 +3 | 1,815 |
 | 9 | **Natasha Cloud** 🔴 +2 | 1,774 |
 | 10 | Becky Hammon | 1,705 |
 | 11 | Candace Parker | 1,634 |
@@ -456,7 +456,7 @@ _Last updated: 2026-06-10 00:51 UTC_
 | 25 | Katie Smith | 1,258 |
 | 26 | Kelsey Plum | 1,237 |
 | 27 | Odyssey Sims | 1,228 |
-| 28 | **Jordin Canada** 🔴 +4 | 1,205 |
+| 28 | **Jordin Canada** 🔴 +5 | 1,206 |
 | 29 | Vickie Johnson | 1,202 |
 | 30 | Leilani Mitchell | 1,197 |
 | 31 | DeWanna Bonner | 1,192 |
@@ -974,7 +974,7 @@ _Last updated: 2026-06-10 00:51 UTC_
 | 133 | Coco Miller | 237 |
 | 134 | Marissa Coleman | 236 |
 | 135 | Nikki McCray | 235 |
-| 136 | **Rhyne Howard** 🔴 +2 | 234 |
+| 135 | **Rhyne Howard** 🔴 +3 | 235 |
 | 137 | Merlakia Jones | 232 |
 | 138 | Ruth Riley | 231 |
 | 139 | Scholanda Dorrell | 230 |
@@ -1083,8 +1083,8 @@ _Last updated: 2026-06-10 00:51 UTC_
 | 37 | Penny Taylor | 407 |
 | 37 | Riquna Williams | 407 |
 | 39 | Jia Perkins | 396 |
-| 40 | **Alysha Clark** 🔴 | 394 |
-| 40 | **Rhyne Howard** 🔴 | 394 |
+| 40 | **Rhyne Howard** 🔴 +1 | 395 |
+| 41 | **Alysha Clark** 🔴 | 394 |
 | 42 | Roneeka Hodges | 389 |
 | 43 | Courtney Vandersloot | 385 |
 | 43 | **Rachel Banham** 🔴 +1 | 385 |
@@ -1400,8 +1400,8 @@ _Last updated: 2026-06-10 00:51 UTC_
 | 149 | Glory Johnson | 397 |
 | 150 | Marissa Coleman | 396 |
 | 151 | Sophia Witherspoon | 386 |
+| 152 | **Elizabeth Williams** 🔴 +1 | 385 |
 | 152 | Hamchetou Maiga-Ba | 385 |
-| 153 | **Elizabeth Williams** 🔴 | 384 |
 | 154 | Kamila Vodichkova | 381 |
 | 155 | Myisha Hines-Allen | 380 |
 | 156 | Jessica Breland | 378 |
