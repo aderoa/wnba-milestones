@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-10 01:08 UTC_
+_Last updated: 2026-06-10 01:09 UTC_
 
 ## Contents
 
@@ -56,7 +56,7 @@ _Last updated: 2026-06-10 01:08 UTC_
 | 35 | Chamique Holdsclaw | 4,713 |
 | 36 | Elena Delle Donne | 4,706 |
 | 37 | Alyssa Thomas | 4,653 |
-| 38 | **Arike Ogunbowale** 🔴 +14 | 4,626 |
+| 38 | **Arike Ogunbowale** 🔴 +16 | 4,628 |
 | 39 | Penny Taylor | 4,595 |
 | 40 | **Natasha Howard** 🔴 +14 | 4,542 |
 | 41 | Chelsea Gray | 4,506 |
@@ -64,8 +64,8 @@ _Last updated: 2026-06-10 01:08 UTC_
 | 43 | Crystal Langhorne | 4,433 |
 | 43 | Jia Perkins | 4,433 |
 | 45 | Kelsey Plum | 4,395 |
-| 46 | Courtney Vandersloot | 4,352 |
-| 47 | **Allisha Gray** 🔴 +12 | 4,351 |
+| 46 | **Allisha Gray** 🔴 +14 | 4,353 |
+| 47 | Courtney Vandersloot | 4,352 |
 | 48 | Sophia Young-Malcolm | 4,300 |
 | 49 | Kahleah Copper | 4,283 |
 | 50 | Plenette Pierson | 4,258 |
@@ -367,8 +367,8 @@ _Last updated: 2026-06-10 01:08 UTC_
 | 141 | Dominique Canty | 961 |
 | 142 | Armintie Herrington | 960 |
 | 143 | Janell Burse | 944 |
-| 144 | **Angel Reese** 🔴 +15 | 938 |
-| 145 | **Jessica Shepard** 🔴 +3 | 930 |
+| 144 | **Angel Reese** 🔴 +17 | 940 |
+| 145 | **Jessica Shepard** 🔴 +4 | 931 |
 | 146 | Merlakia Jones | 927 |
 | 147 | Satou Sabally | 926 |
 | 148 | Nicky Anosike | 922 |
@@ -411,8 +411,8 @@ _Last updated: 2026-06-10 01:08 UTC_
 | 185 | Shakira Austin | 758 |
 | 186 | Layshia Clarendon | 756 |
 | 187 | Brooke Wyckoff | 751 |
+| 188 | **Arike Ogunbowale** 🔴 +2 | 750 |
 | 188 | Coco Miller | 750 |
-| 189 | **Arike Ogunbowale** 🔴 +1 | 749 |
 | 190 | Alex Montgomery | 735 |
 | 191 | Ashley Robinson | 734 |
 | 192 | Shenise Johnson | 729 |
@@ -1271,7 +1271,7 @@ _Last updated: 2026-06-10 01:08 UTC_
 | 20 | Shannon Johnson | 934 |
 | 21 | Chelsea Gray | 898 |
 | 21 | Taj McWilliams-Franklin | 898 |
-| 23 | **Skylar Diggins** 🔴 +2 | 895 |
+| 23 | **Skylar Diggins** 🔴 +3 | 896 |
 | 24 | Candice Dupree | 869 |
 | 25 | Alana Beard | 854 |
 | 26 | DeWanna Bonner | 837 |
@@ -1513,8 +1513,8 @@ _Last updated: 2026-06-10 01:08 UTC_
 | 56 | Wendy Palmer | 831 |
 | 58 | Dearica Hamby | 829 |
 | 59 | Shannon Johnson | 813 |
+| 59 | **Skylar Diggins** 🔴 +1 | 813 |
 | 59 | Tully Bevilaqua | 813 |
-| 61 | **Skylar Diggins** 🔴 | 812 |
 | 62 | Nykesha Sales | 796 |
 | 63 | Ebony Hoffman | 791 |
 | 64 | Erica Wheeler | 787 |
