@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-10 03:49 UTC_
+_Last updated: 2026-06-10 03:50 UTC_
 
 ## Contents
 
@@ -21,7 +21,7 @@ _Last updated: 2026-06-10 03:49 UTC_
 |-----:|--------|------:|
 | 1 | Diana Taurasi | 10,608 |
 | 2 | Tina Charles | 8,396 |
-| 3 | **DeWanna Bonner** 🔴 | 7,910 |
+| 3 | **DeWanna Bonner** 🔴 +3 | 7,913 |
 | 4 | Tina Thompson | 7,470 |
 | 5 | Nneka Ogwumike | 7,440 |
 | 6 | Tamika Catchings | 7,371 |
@@ -207,7 +207,7 @@ _Last updated: 2026-06-10 03:49 UTC_
 | 186 | Tully Bevilaqua | 1,763 |
 | 187 | Sandy Brondello | 1,759 |
 | 188 | Sophie Cunningham | 1,752 |
-| 189 | **Gabby Williams** 🔴 +16 | 1,739 |
+| 189 | **Gabby Williams** 🔴 +19 | 1,742 |
 | 190 | Sugar Rodgers | 1,733 |
 | 191 | Moriah Jefferson | 1,722 |
 | 192 | Armintie Herrington | 1,696 |
@@ -435,7 +435,7 @@ _Last updated: 2026-06-10 03:49 UTC_
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
 | 6 | Chelsea Gray | 1,935 |
-| 7 | **Alyssa Thomas** 🔴 +7 | 1,910 |
+| 7 | **Alyssa Thomas** 🔴 +8 | 1,911 |
 | 8 | Skylar Diggins | 1,815 |
 | 9 | Natasha Cloud | 1,776 |
 | 10 | Becky Hammon | 1,705 |
@@ -547,7 +547,7 @@ _Last updated: 2026-06-10 03:49 UTC_
 | 116 | Janel McCarville | 551 |
 | 116 | Svetlana Abrosimova | 551 |
 | 118 | Michele Timms | 549 |
-| 119 | **Veronica Burton** 🔴 +4 | 541 |
+| 119 | **Veronica Burton** 🔴 +5 | 542 |
 | 120 | Marie Ferdinand-Harris | 528 |
 | 121 | Margo Dydek | 524 |
 | 122 | Myisha Hines-Allen | 520 |
@@ -851,8 +851,8 @@ _Last updated: 2026-06-10 03:49 UTC_
 | 10 | Angel McCoughtry | 627 |
 | 11 | Katie Douglas | 623 |
 | 12 | DeLisha Milton-Jones | 619 |
-| 13 | **Alyssa Thomas** 🔴 +1 | 577 |
-| 13 | Taj McWilliams-Franklin | 577 |
+| 13 | **Alyssa Thomas** 🔴 +2 | 578 |
+| 14 | Taj McWilliams-Franklin | 577 |
 | 15 | Tully Bevilaqua | 571 |
 | 16 | Courtney Vandersloot | 544 |
 | 17 | Yolanda Griffith | 527 |
@@ -1053,7 +1053,7 @@ _Last updated: 2026-06-10 03:49 UTC_
 | 7 | Katie Douglas | 723 |
 | 8 | Kelsey Mitchell | 687 |
 | 9 | Jewell Loyd | 678 |
-| 10 | **DeWanna Bonner** 🔴 | 672 |
+| 10 | **DeWanna Bonner** 🔴 +1 | 673 |
 | 11 | Kristi Toliver | 651 |
 | 12 | Kelsey Plum | 609 |
 | 13 | Tamika Catchings | 605 |
@@ -1200,8 +1200,8 @@ _Last updated: 2026-06-10 03:49 UTC_
 | 154 | Dearica Hamby | 142 |
 | 155 | Jordan Hooper | 141 |
 | 155 | Michaela Onyenwere | 141 |
-| 157 | Coco Miller | 139 |
-| 157 | **Gabby Williams** 🔴 +2 | 139 |
+| 157 | **Gabby Williams** 🔴 +3 | 140 |
+| 158 | Coco Miller | 139 |
 | 159 | Loree Moore | 138 |
 | 159 | Tanisha Wright | 138 |
 | 161 | Kaleena Mosqueda-Lewis | 137 |

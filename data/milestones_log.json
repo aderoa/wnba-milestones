@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-10T03:50:00+00:00",
+    "text": "Alyssa Thomas passed Taj McWilliams-Franklin for #13 all-time in steals (career 578) \u2014 up from #14 entering today \u2014 (5:43 - 4th \u2014 PHX @ GS)",
+    "kind": "rank_pass",
+    "player": "Alyssa Thomas",
+    "stat": "steals",
+    "rank": 13,
+    "passed_players": [
+      "Taj McWilliams-Franklin"
+    ],
+    "new_total": 578
+  },
+  {
     "ts": "2026-06-10T02:40:00+00:00",
     "text": "Veronica Burton passed Edwige Lawson-Wade, Kennedy Burke, and Marie Ferdinand-Harris for #179 all-time in three-pointers (career 117) \u2014 up from #185 entering today \u2014 (5:38 - 2nd \u2014 PHX @ GS)",
     "kind": "rank_pass",
@@ -2948,19 +2960,5 @@
       "Danielle Adams"
     ],
     "new_total": 1822
-  },
-  {
-    "ts": "2026-06-05T23:43:00+00:00",
-    "text": "Azur\u00e1 Stevens passed Jessica Breland, Murriel Page, and Shatori Walker-Kimbrough for #167 all-time in steals (career 205) \u2014 (4:01 - 1st \u2014 CON @ CHI)",
-    "kind": "rank_pass",
-    "player": "Azur\u00e1 Stevens",
-    "stat": "steals",
-    "rank": 167,
-    "passed_players": [
-      "Jessica Breland",
-      "Murriel Page",
-      "Shatori Walker-Kimbrough"
-    ],
-    "new_total": 205
   }
 ]

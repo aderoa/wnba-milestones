@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-10 03:50 UTC
+
+- **Alyssa Thomas** passed **Taj McWilliams-Franklin** for **#13** all-time in steals (career 578) — up from #14 entering today — _5:43 - 4th — PHX @ GS_
+
 ## 2026-06-10 02:40 UTC
 
 - **Veronica Burton** passed **Edwige Lawson-Wade**, **Kennedy Burke**, and **Marie Ferdinand-Harris** for **#179** all-time in three-pointers (career 117) — up from #185 entering today — _5:38 - 2nd — PHX @ GS_
