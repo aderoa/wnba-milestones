@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-10 02:34 UTC_
+_Last updated: 2026-06-10 02:35 UTC_
 
 ## Contents
 
@@ -1485,7 +1485,7 @@ _Last updated: 2026-06-10 02:34 UTC_
 | 29 | Brittney Griner | 980 |
 | 30 | Nakia Sanford | 979 |
 | 31 | Asjha Jones | 971 |
-| 32 | **Alyssa Thomas** 🔴 | 954 |
+| 32 | **Alyssa Thomas** 🔴 +1 | 955 |
 | 33 | Margo Dydek | 950 |
 | 34 | Sancho Lyttle | 947 |
 | 35 | Mwadi Mabika | 941 |
