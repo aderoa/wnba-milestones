@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-10 00:44 UTC_
+_Last updated: 2026-06-10 00:45 UTC_
 
 ## Contents
 
@@ -58,7 +58,7 @@ _Last updated: 2026-06-10 00:44 UTC_
 | 37 | Alyssa Thomas | 4,653 |
 | 38 | **Arike Ogunbowale** 🔴 +12 | 4,624 |
 | 39 | Penny Taylor | 4,595 |
-| 40 | **Natasha Howard** 🔴 +11 | 4,539 |
+| 40 | **Natasha Howard** 🔴 +14 | 4,542 |
 | 41 | Chelsea Gray | 4,506 |
 | 42 | Kristi Toliver | 4,474 |
 | 43 | Crystal Langhorne | 4,433 |
@@ -249,7 +249,7 @@ _Last updated: 2026-06-10 00:44 UTC_
 | 23 | Yolanda Griffith | 2,440 |
 | 24 | Dearica Hamby | 2,391 |
 | 25 | Tangela Smith | 2,328 |
-| 26 | **Natasha Howard** 🔴 +2 | 2,255 |
+| 26 | **Natasha Howard** 🔴 +3 | 2,256 |
 | 27 | Erika de Souza | 2,220 |
 | 28 | Diana Taurasi | 2,201 |
 | 29 | Margo Dydek | 2,138 |
@@ -473,7 +473,7 @@ _Last updated: 2026-06-10 00:44 UTC_
 | 42 | Sheryl Swoopes | 1,037 |
 | 43 | Tina Charles | 1,033 |
 | 44 | Nikki Teasley | 982 |
-| 45 | **Kayla McBride** 🔴 +3 | 971 |
+| 45 | **Kayla McBride** 🔴 +4 | 972 |
 | 46 | Tamecka Dixon | 960 |
 | 47 | Breanna Stewart | 953 |
 | 48 | Kara Lawson | 946 |
@@ -872,7 +872,7 @@ _Last updated: 2026-06-10 00:44 UTC_
 | 30 | Tangela Smith | 455 |
 | 32 | Tina Thompson | 452 |
 | 33 | Maya Moore | 449 |
-| 34 | **Natasha Howard** 🔴 +1 | 448 |
+| 33 | **Natasha Howard** 🔴 +2 | 449 |
 | 35 | Chelsea Gray | 445 |
 | 35 | Jewell Loyd | 445 |
 | 37 | Sheri Sam | 438 |
@@ -927,9 +927,9 @@ _Last updated: 2026-06-10 00:44 UTC_
 | 86 | Betty Lennox | 323 |
 | 86 | **Courtney Williams** 🔴 +2 | 323 |
 | 88 | Tammy Sutton-Brown | 319 |
-| 89 | **Alysha Clark** 🔴 +2 | 318 |
-| 90 | Plenette Pierson | 317 |
-| 90 | Temeka Johnson | 317 |
+| 89 | **Alysha Clark** 🔴 +1 | 317 |
+| 89 | Plenette Pierson | 317 |
+| 89 | Temeka Johnson | 317 |
 | 92 | Debbie Black | 315 |
 | 93 | Crystal Langhorne | 314 |
 | 93 | Gabby Williams | 314 |
