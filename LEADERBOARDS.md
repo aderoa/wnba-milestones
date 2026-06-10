@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-10 00:16 UTC_
+_Last updated: 2026-06-10 00:17 UTC_
 
 ## Contents
 
@@ -56,7 +56,7 @@ _Last updated: 2026-06-10 00:16 UTC_
 | 35 | Chamique Holdsclaw | 4,713 |
 | 36 | Elena Delle Donne | 4,706 |
 | 37 | Alyssa Thomas | 4,653 |
-| 38 | **Arike Ogunbowale** 🔴 +5 | 4,617 |
+| 38 | **Arike Ogunbowale** 🔴 +7 | 4,619 |
 | 39 | Penny Taylor | 4,595 |
 | 40 | **Natasha Howard** 🔴 +5 | 4,533 |
 | 41 | Chelsea Gray | 4,506 |
@@ -379,7 +379,7 @@ _Last updated: 2026-06-10 00:16 UTC_
 | 153 | Mistie Bass | 888 |
 | 154 | Erica Wheeler | 872 |
 | 155 | Shameka Christon | 867 |
-| 156 | Alanna Smith | 864 |
+| 156 | **Alanna Smith** 🔴 | 864 |
 | 157 | Krystal Thomas | 862 |
 | 158 | **Nia Coffey** 🔴 +3 | 857 |
 | 159 | Marina Mabrey | 849 |
@@ -609,7 +609,7 @@ _Last updated: 2026-06-10 00:16 UTC_
 | 178 | Jessica Breland | 377 |
 | 179 | Shenise Johnson | 376 |
 | 180 | Bridget Carleton | 375 |
-| 181 | Alanna Smith | 372 |
+| 181 | **Alanna Smith** 🔴 | 372 |
 | 182 | Suzie McConnell Serio | 370 |
 | 183 | Damiris Dantas | 368 |
 | 184 | Roneeka Hodges | 362 |
@@ -678,7 +678,7 @@ _Last updated: 2026-06-10 00:16 UTC_
 | 41 | Brianna Turner | 233 |
 | 43 | **Skylar Diggins** 🔴 | 229 |
 | 44 | Chasity Melvin | 228 |
-| 45 | Alanna Smith | 224 |
+| 45 | **Alanna Smith** 🔴 | 224 |
 | 46 | Teaira McCowan | 222 |
 | 47 | Sancho Lyttle | 221 |
 | 48 | Alana Beard | 220 |
@@ -1015,7 +1015,7 @@ _Last updated: 2026-06-10 00:16 UTC_
 | 173 | Tierra Ruffin-Pratt | 194 |
 | 175 | Cynthia Cooper | 192 |
 | 176 | Natisha Hiedeman | 191 |
-| 177 | Alanna Smith | 190 |
+| 177 | **Alanna Smith** 🔴 | 190 |
 | 178 | Myisha Hines-Allen | 189 |
 | 179 | Tamicha Jackson | 188 |
 | 180 | Michele Timms | 187 |
@@ -1184,7 +1184,7 @@ _Last updated: 2026-06-10 00:16 UTC_
 | 138 | Aari McDonald | 158 |
 | 138 | Jennifer Azzi | 158 |
 | 138 | **Natasha Howard** 🔴 +1 | 158 |
-| 141 | Alanna Smith | 154 |
+| 141 | **Alanna Smith** 🔴 | 154 |
 | 142 | Bridget Pettis | 153 |
 | 142 | Jennifer Gillom | 153 |
 | 142 | Stephanie Talbot | 153 |
@@ -1645,7 +1645,7 @@ _Last updated: 2026-06-10 00:16 UTC_
 | 189 | Allie Quigley | 475 |
 | 189 | **Nia Coffey** 🔴 | 475 |
 | 191 | Kia Nurse | 473 |
-| 192 | Alanna Smith | 470 |
+| 192 | **Alanna Smith** 🔴 | 470 |
 | 193 | Christi Thomas | 463 |
 | 193 | Nikki Teasley | 463 |
 | 195 | Sue Wicks | 462 |
