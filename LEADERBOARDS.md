@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-10 00:19 UTC_
+_Last updated: 2026-06-10 00:20 UTC_
 
 ## Contents
 
@@ -122,7 +122,7 @@ _Last updated: 2026-06-10 00:19 UTC_
 | 101 | Natalie Williams | 2,894 |
 | 102 | Jennifer Gillom | 2,888 |
 | 103 | Iziane Castro Marques | 2,862 |
-| 104 | Alysha Clark | 2,807 |
+| 104 | **Alysha Clark** 🔴 | 2,807 |
 | 105 | Jantel Lavender | 2,775 |
 | 106 | Brionna Jones | 2,765 |
 | 107 | Dominique Canty | 2,763 |
@@ -143,8 +143,8 @@ _Last updated: 2026-06-10 00:19 UTC_
 | 122 | Glory Johnson | 2,531 |
 | 123 | Nikki McCray | 2,521 |
 | 124 | Crystal Robinson | 2,496 |
+| 125 | **Rhyne Howard** 🔴 +8 | 2,480 |
 | 125 | Tiffany Mitchell | 2,480 |
-| 126 | **Rhyne Howard** 🔴 +6 | 2,478 |
 | 127 | Ruth Riley | 2,434 |
 | 128 | Svetlana Abrosimova | 2,414 |
 | 129 | Anna DeForge | 2,413 |
@@ -288,7 +288,7 @@ _Last updated: 2026-06-10 00:19 UTC_
 | 62 | Napheesa Collier | 1,510 |
 | 63 | Ticha Penicheiro | 1,485 |
 | 64 | Sue Bird | 1,466 |
-| 65 | Alysha Clark | 1,465 |
+| 65 | **Alysha Clark** 🔴 | 1,465 |
 | 66 | Nicole Powell | 1,457 |
 | 67 | Cheyenne Parker-Tyus | 1,442 |
 | 68 | Tamera Young | 1,433 |
@@ -368,7 +368,7 @@ _Last updated: 2026-06-10 00:19 UTC_
 | 142 | Armintie Herrington | 960 |
 | 143 | Janell Burse | 944 |
 | 144 | **Angel Reese** 🔴 +10 | 933 |
-| 145 | **Jessica Shepard** 🔴 +1 | 928 |
+| 145 | **Jessica Shepard** 🔴 +2 | 929 |
 | 146 | Merlakia Jones | 927 |
 | 147 | Satou Sabally | 926 |
 | 148 | Nicky Anosike | 922 |
@@ -379,7 +379,7 @@ _Last updated: 2026-06-10 00:19 UTC_
 | 153 | Mistie Bass | 888 |
 | 154 | Erica Wheeler | 872 |
 | 155 | Shameka Christon | 867 |
-| 156 | **Alanna Smith** 🔴 +1 | 865 |
+| 156 | **Alanna Smith** 🔴 +2 | 866 |
 | 157 | Krystal Thomas | 862 |
 | 158 | **Nia Coffey** 🔴 +3 | 857 |
 | 159 | Marina Mabrey | 849 |
@@ -527,7 +527,7 @@ _Last updated: 2026-06-10 00:19 UTC_
 | 96 | Jonquel Jones | 625 |
 | 97 | Natisha Hiedeman | 624 |
 | 98 | Sami Whitcomb | 623 |
-| 99 | Alysha Clark | 616 |
+| 99 | **Alysha Clark** 🔴 | 616 |
 | 100 | Debbie Black | 612 |
 | 101 | Cynthia Cooper | 602 |
 | 102 | **Natasha Howard** 🔴 +1 | 597 |
@@ -778,7 +778,7 @@ _Last updated: 2026-06-10 00:19 UTC_
 | 142 | Jasmine Thomas | 91 |
 | 142 | Kayla Alexander | 91 |
 | 144 | Allie Quigley | 90 |
-| 144 | Alysha Clark | 90 |
+| 144 | **Alysha Clark** 🔴 | 90 |
 | 144 | Kayla Thornton | 90 |
 | 147 | Marissa Coleman | 88 |
 | 148 | Tiffany Hayes | 87 |
@@ -872,7 +872,7 @@ _Last updated: 2026-06-10 00:19 UTC_
 | 31 | **Skylar Diggins** 🔴 | 454 |
 | 32 | Tina Thompson | 452 |
 | 33 | Maya Moore | 449 |
-| 34 | **Natasha Howard** 🔴 +1 | 448 |
+| 33 | **Natasha Howard** 🔴 +2 | 449 |
 | 35 | Chelsea Gray | 445 |
 | 35 | Jewell Loyd | 445 |
 | 37 | Sheri Sam | 438 |
@@ -929,7 +929,7 @@ _Last updated: 2026-06-10 00:19 UTC_
 | 88 | Tammy Sutton-Brown | 319 |
 | 89 | Plenette Pierson | 317 |
 | 89 | Temeka Johnson | 317 |
-| 91 | Alysha Clark | 316 |
+| 91 | **Alysha Clark** 🔴 | 316 |
 | 92 | Debbie Black | 315 |
 | 93 | Crystal Langhorne | 314 |
 | 93 | Gabby Williams | 314 |
@@ -1083,7 +1083,7 @@ _Last updated: 2026-06-10 00:19 UTC_
 | 37 | Penny Taylor | 407 |
 | 37 | Riquna Williams | 407 |
 | 39 | Jia Perkins | 396 |
-| 40 | Alysha Clark | 394 |
+| 40 | **Alysha Clark** 🔴 | 394 |
 | 40 | **Rhyne Howard** 🔴 | 394 |
 | 42 | Roneeka Hodges | 389 |
 | 43 | Courtney Vandersloot | 385 |
@@ -1271,7 +1271,7 @@ _Last updated: 2026-06-10 00:19 UTC_
 | 20 | Shannon Johnson | 934 |
 | 21 | Chelsea Gray | 898 |
 | 21 | Taj McWilliams-Franklin | 898 |
-| 23 | **Skylar Diggins** 🔴 | 893 |
+| 23 | **Skylar Diggins** 🔴 +1 | 894 |
 | 24 | Candice Dupree | 869 |
 | 25 | Alana Beard | 854 |
 | 26 | DeWanna Bonner | 837 |
@@ -1377,7 +1377,7 @@ _Last updated: 2026-06-10 00:19 UTC_
 | 125 | Elena Baranova | 444 |
 | 125 | Jantel Lavender | 444 |
 | 128 | Jackie Young | 441 |
-| 129 | Alysha Clark | 440 |
+| 129 | **Alysha Clark** 🔴 | 440 |
 | 129 | Ann Wauters | 440 |
 | 129 | Cheyenne Parker-Tyus | 440 |
 | 132 | Tiffany Mitchell | 439 |
@@ -1495,7 +1495,7 @@ _Last updated: 2026-06-10 00:19 UTC_
 | 39 | Ticha Penicheiro | 913 |
 | 40 | DeWanna Bonner | 912 |
 | 41 | Shavonte Zellous | 907 |
-| 42 | Alysha Clark | 896 |
+| 42 | **Alysha Clark** 🔴 | 896 |
 | 43 | Jonquel Jones | 890 |
 | 44 | DeMya Walker | 882 |
 | 45 | Candice Dupree | 876 |
