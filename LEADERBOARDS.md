@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-10 23:17 UTC_
+_Last updated: 2026-06-10 23:18 UTC_
 
 ## Contents
 
@@ -160,7 +160,7 @@ _Last updated: 2026-06-10 23:17 UTC_
 | 139 | Jordin Canada | 2,237 |
 | 139 | Kara Braxton | 2,237 |
 | 139 | Matee Ajavon | 2,237 |
-| 142 | Kia Nurse | 2,231 |
+| 142 | **Kia Nurse** 🔴 | 2,231 |
 | 143 | Dawn Staley | 2,228 |
 | 144 | Teaira McCowan | 2,221 |
 | 145 | Janel McCarville | 2,215 |
@@ -595,7 +595,7 @@ _Last updated: 2026-06-10 23:17 UTC_
 | 164 | Allison Feaster | 406 |
 | 165 | **Julie Allemand** 🔴 +2 | 403 |
 | 165 | Rita Williams | 403 |
-| 167 | Kia Nurse | 402 |
+| 167 | **Kia Nurse** 🔴 | 402 |
 | 168 | Marissa Coleman | 399 |
 | 169 | Aliyah Boston | 398 |
 | 170 | Jessica Shepard | 395 |
@@ -1094,7 +1094,7 @@ _Last updated: 2026-06-10 23:17 UTC_
 | 47 | Betty Lennox | 372 |
 | 49 | Jonquel Jones | 371 |
 | 50 | Epiphanny Prince | 368 |
-| 51 | Kia Nurse | 364 |
+| 51 | **Kia Nurse** 🔴 | 364 |
 | 52 | Kahleah Copper | 355 |
 | 53 | Nykesha Sales | 352 |
 | 54 | Cathrine Kraayeveld | 343 |
@@ -1431,7 +1431,7 @@ _Last updated: 2026-06-10 23:17 UTC_
 | 180 | Caitlin Clark | 324 |
 | 180 | Olympia Scott | 324 |
 | 182 | Gabby Williams | 320 |
-| 183 | Kia Nurse | 316 |
+| 183 | **Kia Nurse** 🔴 | 316 |
 | 184 | Barbara Farris | 315 |
 | 185 | Moriah Jefferson | 314 |
 | 186 | Alex Bentley | 313 |
@@ -1644,7 +1644,7 @@ _Last updated: 2026-06-10 23:17 UTC_
 | 188 | Allie Quigley | 475 |
 | 188 | Nia Coffey | 475 |
 | 190 | Azurá Stevens | 474 |
-| 191 | Kia Nurse | 473 |
+| 191 | **Kia Nurse** 🔴 | 473 |
 | 192 | Alanna Smith | 470 |
 | 193 | Christi Thomas | 463 |
 | 193 | Nikki Teasley | 463 |
