@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-10 00:56 UTC_
+_Last updated: 2026-06-10 00:57 UTC_
 
 ## Contents
 
@@ -65,7 +65,7 @@ _Last updated: 2026-06-10 00:56 UTC_
 | 43 | Jia Perkins | 4,433 |
 | 45 | Kelsey Plum | 4,395 |
 | 46 | Courtney Vandersloot | 4,352 |
-| 47 | **Allisha Gray** 🔴 +11 | 4,350 |
+| 47 | **Allisha Gray** 🔴 +12 | 4,351 |
 | 48 | Sophia Young-Malcolm | 4,300 |
 | 49 | Kahleah Copper | 4,283 |
 | 50 | Plenette Pierson | 4,258 |
@@ -899,7 +899,7 @@ _Last updated: 2026-06-10 00:56 UTC_
 | 58 | Chamique Holdsclaw | 376 |
 | 59 | Mwadi Mabika | 370 |
 | 60 | Brittney Sykes | 367 |
-| 61 | **Allisha Gray** 🔴 +2 | 362 |
+| 61 | **Allisha Gray** 🔴 +3 | 363 |
 | 62 | Lauren Jackson | 360 |
 | 62 | Tan White | 360 |
 | 64 | Vickie Johnson | 357 |
@@ -1296,7 +1296,7 @@ _Last updated: 2026-06-10 00:56 UTC_
 | 45 | Renee Montgomery | 697 |
 | 46 | Temeka Johnson | 696 |
 | 47 | Penny Taylor | 695 |
-| 48 | **Natasha Cloud** 🔴 | 692 |
+| 48 | **Natasha Cloud** 🔴 +1 | 693 |
 | 49 | Erica Wheeler | 690 |
 | 50 | Dominique Canty | 685 |
 | 51 | DeMya Walker | 684 |
