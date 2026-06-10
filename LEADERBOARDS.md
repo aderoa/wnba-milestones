@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-10 03:29 UTC_
+_Last updated: 2026-06-10 03:30 UTC_
 
 ## Contents
 
@@ -781,7 +781,7 @@ _Last updated: 2026-06-10 03:29 UTC_
 | 144 | Alysha Clark | 90 |
 | 144 | **Kayla Thornton** 🔴 | 90 |
 | 147 | Marissa Coleman | 88 |
-| 148 | **Tiffany Hayes** 🔴 | 87 |
+| 147 | **Tiffany Hayes** 🔴 +1 | 88 |
 | 149 | Astou Ndiaye-Diatta | 86 |
 | 149 | Natasha Cloud | 86 |
 | 151 | Adrian Williams-Strong | 85 |
