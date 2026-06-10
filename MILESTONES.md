@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-10 01:08 UTC
+
+- **Courtney Williams** passed **Betty Lennox** for **#86** all-time in steals (career 324) — up from #87 entering today — _8:03 - 3rd — DAL @ MIN_
+
 ## 2026-06-10 01:02 UTC
 
 - **Elizabeth Williams** passed **Hamchetou Maiga-Ba** for **#152** all-time in turnovers (career 386) — up from #153 entering today — _2:15 - 4th — ATL @ CHI_

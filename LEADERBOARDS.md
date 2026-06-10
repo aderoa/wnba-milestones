@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-10 01:07 UTC_
+_Last updated: 2026-06-10 01:08 UTC_
 
 ## Contents
 
@@ -40,7 +40,7 @@ _Last updated: 2026-06-10 01:07 UTC_
 | 19 | A'ja Wilson | 5,942 |
 | 20 | Becky Hammon | 5,816 |
 | 21 | Angel McCoughtry | 5,797 |
-| 22 | **Skylar Diggins** 🔴 +16 | 5,642 |
+| 22 | **Skylar Diggins** 🔴 +14 | 5,640 |
 | 23 | DeLisha Milton-Jones | 5,571 |
 | 24 | Katie Douglas | 5,545 |
 | 25 | **Kayla McBride** 🔴 +12 | 5,534 |
@@ -598,7 +598,7 @@ _Last updated: 2026-06-10 01:07 UTC_
 | 167 | Julie Allemand | 401 |
 | 168 | Marissa Coleman | 399 |
 | 169 | Aliyah Boston | 398 |
-| 170 | **Jessica Shepard** 🔴 +2 | 397 |
+| 169 | **Jessica Shepard** 🔴 +3 | 398 |
 | 171 | Stacey Dales | 395 |
 | 172 | Sugar Rodgers | 393 |
 | 173 | Shameka Christon | 389 |
@@ -924,8 +924,8 @@ _Last updated: 2026-06-10 01:07 UTC_
 | 83 | Kristi Toliver | 329 |
 | 84 | Matee Ajavon | 328 |
 | 85 | Napheesa Collier | 325 |
-| 86 | Betty Lennox | 323 |
-| 86 | **Courtney Williams** 🔴 +2 | 323 |
+| 86 | **Courtney Williams** 🔴 +3 | 324 |
+| 87 | Betty Lennox | 323 |
 | 88 | Tammy Sutton-Brown | 319 |
 | 89 | **Alysha Clark** 🔴 +1 | 317 |
 | 89 | Plenette Pierson | 317 |

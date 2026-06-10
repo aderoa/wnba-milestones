@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-10T01:08:00+00:00",
+    "text": "Courtney Williams passed Betty Lennox for #86 all-time in steals (career 324) \u2014 up from #87 entering today \u2014 (8:03 - 3rd \u2014 DAL @ MIN)",
+    "kind": "rank_pass",
+    "player": "Courtney Williams",
+    "stat": "steals",
+    "rank": 86,
+    "passed_players": [
+      "Betty Lennox"
+    ],
+    "new_total": 324
+  },
+  {
     "ts": "2026-06-10T01:02:00+00:00",
     "text": "Elizabeth Williams passed Hamchetou Maiga-Ba for #152 all-time in turnovers (career 386) \u2014 up from #153 entering today \u2014 (2:15 - 4th \u2014 ATL @ CHI)",
     "kind": "rank_pass",
@@ -2948,14 +2960,5 @@
       "Alanna Smith"
     ],
     "new_total": 471
-  },
-  {
-    "ts": "2026-06-05T23:36:00+00:00",
-    "text": "Diamond Miller reached 700 career points (now 701) \u2014 (7:36 - 1st \u2014 CON @ CHI)",
-    "kind": "round",
-    "player": "Diamond Miller",
-    "stat": "points",
-    "value": 700,
-    "new_total": 701
   }
 ]
