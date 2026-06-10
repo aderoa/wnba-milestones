@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-10 02:18 UTC_
+_Last updated: 2026-06-10 02:19 UTC_
 
 ## Contents
 
@@ -150,7 +150,7 @@ _Last updated: 2026-06-10 02:18 UTC_
 | 129 | Anna DeForge | 2,413 |
 | 130 | DeMya Walker | 2,379 |
 | 131 | Alex Bentley | 2,350 |
-| 132 | **Kayla Thornton** 🔴 | 2,333 |
+| 132 | **Kayla Thornton** 🔴 +3 | 2,336 |
 | 133 | Merlakia Jones | 2,308 |
 | 134 | Kia Vaughn | 2,288 |
 | 135 | Betnijah Laney-Hamilton | 2,282 |
@@ -315,7 +315,7 @@ _Last updated: 2026-06-10 02:18 UTC_
 | 89 | Azurá Stevens | 1,263 |
 | 90 | Janel McCarville | 1,261 |
 | 91 | Liz Cambage | 1,258 |
-| 92 | **Tiffany Hayes** 🔴 | 1,244 |
+| 92 | **Tiffany Hayes** 🔴 +1 | 1,245 |
 | 93 | Ezi Magbegor | 1,243 |
 | 94 | Myisha Hines-Allen | 1,239 |
 | 95 | Brianna Turner | 1,237 |
@@ -547,7 +547,7 @@ _Last updated: 2026-06-10 02:18 UTC_
 | 116 | Janel McCarville | 551 |
 | 116 | Svetlana Abrosimova | 551 |
 | 118 | Michele Timms | 549 |
-| 119 | **Veronica Burton** 🔴 | 537 |
+| 119 | **Veronica Burton** 🔴 +1 | 538 |
 | 120 | Marie Ferdinand-Harris | 528 |
 | 121 | Margo Dydek | 524 |
 | 122 | Myisha Hines-Allen | 520 |
@@ -1120,8 +1120,8 @@ _Last updated: 2026-06-10 02:18 UTC_
 | 74 | Seimone Augustus | 293 |
 | 75 | Candice Wiggins | 290 |
 | 75 | Tully Bevilaqua | 290 |
-| 77 | Alana Beard | 288 |
-| 77 | **Kayla Thornton** 🔴 | 288 |
+| 77 | **Kayla Thornton** 🔴 +1 | 289 |
+| 78 | Alana Beard | 288 |
 | 79 | Bridget Carleton | 287 |
 | 80 | Monique Currie | 284 |
 | 81 | Iziane Castro Marques | 275 |
