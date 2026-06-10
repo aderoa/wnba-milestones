@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-10 00:25 UTC_
+_Last updated: 2026-06-10 00:26 UTC_
 
 ## Contents
 
@@ -927,9 +927,9 @@ _Last updated: 2026-06-10 00:25 UTC_
 | 86 | Betty Lennox | 323 |
 | 87 | **Courtney Williams** 🔴 +1 | 322 |
 | 88 | Tammy Sutton-Brown | 319 |
-| 89 | **Alysha Clark** 🔴 +1 | 317 |
-| 89 | Plenette Pierson | 317 |
-| 89 | Temeka Johnson | 317 |
+| 89 | **Alysha Clark** 🔴 +2 | 318 |
+| 90 | Plenette Pierson | 317 |
+| 90 | Temeka Johnson | 317 |
 | 92 | Debbie Black | 315 |
 | 93 | Crystal Langhorne | 314 |
 | 93 | Gabby Williams | 314 |
