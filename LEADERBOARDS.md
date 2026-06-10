@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-10 00:57 UTC_
+_Last updated: 2026-06-10 00:58 UTC_
 
 ## Contents
 
@@ -358,8 +358,8 @@ _Last updated: 2026-06-10 00:57 UTC_
 | 132 | Damiris Dantas | 999 |
 | 133 | Sabrina Ionescu | 998 |
 | 134 | Marissa Coleman | 995 |
-| 135 | Kristen Rasmussen | 993 |
-| 135 | **Skylar Diggins** 🔴 +2 | 993 |
+| 135 | **Skylar Diggins** 🔴 +3 | 994 |
+| 136 | Kristen Rasmussen | 993 |
 | 137 | Danielle Robinson | 988 |
 | 138 | Shavonte Zellous | 978 |
 | 139 | Kara Lawson | 976 |
