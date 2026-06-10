@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-10 03:35 UTC_
+_Last updated: 2026-06-10 03:36 UTC_
 
 ## Contents
 
@@ -740,9 +740,9 @@ _Last updated: 2026-06-10 03:35 UTC_
 | 103 | Essence Carson | 121 |
 | 105 | Emily Engstler | 119 |
 | 106 | Krystal Thomas | 118 |
-| 107 | Andrea Stinson | 117 |
-| 107 | Crystal Langhorne | 117 |
-| 107 | **Natasha Mack** 🔴 | 117 |
+| 106 | **Natasha Mack** 🔴 +1 | 118 |
+| 108 | Andrea Stinson | 117 |
+| 108 | Crystal Langhorne | 117 |
 | 110 | Kamilla Cardoso | 115 |
 | 111 | Monique Currie | 114 |
 | 112 | Ariel Atkins | 113 |
