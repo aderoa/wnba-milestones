@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-10T00:51:00+00:00",
+    "text": "Natasha Cloud passed Emma Meesseman for #98 all-time in points (career 2,968) \u2014 up from #99 entering today \u2014 (5:57 - 4th \u2014 ATL @ CHI)",
+    "kind": "rank_pass",
+    "player": "Natasha Cloud",
+    "stat": "points",
+    "rank": 98,
+    "passed_players": [
+      "Emma Meesseman"
+    ],
+    "new_total": 2968
+  },
+  {
     "ts": "2026-06-10T00:50:00+00:00",
     "text": "Kamilla Cardoso passed Monique Currie for #110 all-time in blocks (career 115) \u2014 up from #114 entering today \u2014 (6:30 - 4th \u2014 ATL @ CHI)",
     "kind": "rank_pass",
@@ -2945,18 +2957,5 @@
       "Marlies Askamp"
     ],
     "new_total": 827
-  },
-  {
-    "ts": "2026-06-05T13:51:00+00:00",
-    "text": "Angel Reese passed Merlakia Jones and Satou Sabally for #144 all-time in rebounds (career 933) \u2014 up from #146 entering today \u2014 (Final \u2014 ATL @ IND)",
-    "kind": "rank_pass",
-    "player": "Angel Reese",
-    "stat": "rebounds",
-    "rank": 144,
-    "passed_players": [
-      "Merlakia Jones",
-      "Satou Sabally"
-    ],
-    "new_total": 933
   }
 ]

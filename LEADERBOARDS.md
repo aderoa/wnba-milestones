@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-10 00:50 UTC_
+_Last updated: 2026-06-10 00:51 UTC_
 
 ## Contents
 
@@ -116,8 +116,8 @@ _Last updated: 2026-06-10 00:50 UTC_
 | 95 | Sabrina Ionescu | 3,041 |
 | 96 | Shameka Christon | 3,039 |
 | 97 | Marie Ferdinand-Harris | 3,001 |
-| 98 | Emma Meesseman | 2,966 |
-| 98 | **Natasha Cloud** 🔴 +14 | 2,966 |
+| 98 | **Natasha Cloud** 🔴 +16 | 2,968 |
+| 99 | Emma Meesseman | 2,966 |
 | 100 | **Elizabeth Williams** 🔴 +4 | 2,900 |
 | 101 | Natalie Williams | 2,894 |
 | 102 | Jennifer Gillom | 2,888 |
@@ -909,7 +909,7 @@ _Last updated: 2026-06-10 00:50 UTC_
 | 68 | Erica Wheeler | 354 |
 | 69 | Vicky Bullett | 353 |
 | 70 | Svetlana Abrosimova | 352 |
-| 71 | **Natasha Cloud** 🔴 | 349 |
+| 71 | **Natasha Cloud** 🔴 +1 | 350 |
 | 72 | **Arike Ogunbowale** 🔴 +3 | 348 |
 | 73 | A'ja Wilson | 346 |
 | 73 | Janeth Arcain | 346 |
@@ -1354,8 +1354,8 @@ _Last updated: 2026-06-10 00:50 UTC_
 | 102 | Sabrina Ionescu | 518 |
 | 104 | Shavonte Zellous | 517 |
 | 104 | Wendy Palmer | 517 |
-| 106 | **Jordin Canada** 🔴 +2 | 514 |
-| 106 | Tully Bevilaqua | 514 |
+| 106 | **Jordin Canada** 🔴 +3 | 515 |
+| 107 | Tully Bevilaqua | 514 |
 | 108 | Jia Perkins | 513 |
 | 109 | Marina Mabrey | 510 |
 | 110 | Tamera Young | 501 |

@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-10 00:51 UTC
+
+- **Natasha Cloud** passed **Emma Meesseman** for **#98** all-time in points (career 2,968) — up from #99 entering today — _5:57 - 4th — ATL @ CHI_
+
 ## 2026-06-10 00:50 UTC
 
 - **Kamilla Cardoso** passed **Monique Currie** for **#110** all-time in blocks (career 115) — up from #114 entering today — _6:30 - 4th — ATL @ CHI_
