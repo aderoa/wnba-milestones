@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-10 00:43 UTC_
+_Last updated: 2026-06-10 00:44 UTC_
 
 ## Contents
 
@@ -437,7 +437,7 @@ _Last updated: 2026-06-10 00:43 UTC_
 | 6 | Chelsea Gray | 1,935 |
 | 7 | Alyssa Thomas | 1,903 |
 | 8 | **Skylar Diggins** 🔴 +2 | 1,814 |
-| 9 | **Natasha Cloud** 🔴 +1 | 1,773 |
+| 9 | **Natasha Cloud** 🔴 +2 | 1,774 |
 | 10 | Becky Hammon | 1,705 |
 | 11 | Candace Parker | 1,634 |
 | 12 | Cappie Pondexter | 1,575 |
@@ -563,9 +563,9 @@ _Last updated: 2026-06-10 00:43 UTC_
 | 131 | Tiffany Mitchell | 488 |
 | 133 | Rebekkah Brunson | 486 |
 | 134 | Kahleah Copper | 484 |
-| 135 | **Elizabeth Williams** 🔴 +3 | 470 |
 | 135 | Ukari Figgs | 470 |
-| 137 | Janeth Arcain | 469 |
+| 136 | **Elizabeth Williams** 🔴 +2 | 469 |
+| 136 | Janeth Arcain | 469 |
 | 138 | Erin Phillips | 462 |
 | 139 | Sylvia Fowles | 461 |
 | 140 | Satou Sabally | 456 |
@@ -1014,8 +1014,8 @@ _Last updated: 2026-06-10 00:43 UTC_
 | 173 | Sonja Henning | 194 |
 | 173 | Tierra Ruffin-Pratt | 194 |
 | 175 | Cynthia Cooper | 192 |
+| 176 | **Alanna Smith** 🔴 +1 | 191 |
 | 176 | Natisha Hiedeman | 191 |
-| 177 | **Alanna Smith** 🔴 | 190 |
 | 178 | Myisha Hines-Allen | 189 |
 | 179 | Tamicha Jackson | 188 |
 | 180 | Michele Timms | 187 |
