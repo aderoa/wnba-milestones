@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-10 03:28 UTC_
+_Last updated: 2026-06-10 03:29 UTC_
 
 ## Contents
 
@@ -1492,8 +1492,8 @@ _Last updated: 2026-06-10 03:28 UTC_
 | 36 | Tamika Whitmore | 940 |
 | 37 | Courtney Vandersloot | 938 |
 | 38 | Briann January | 921 |
+| 39 | **DeWanna Bonner** 🔴 +1 | 913 |
 | 39 | Ticha Penicheiro | 913 |
-| 40 | **DeWanna Bonner** 🔴 | 912 |
 | 41 | Shavonte Zellous | 907 |
 | 42 | Alysha Clark | 897 |
 | 43 | Jonquel Jones | 890 |
