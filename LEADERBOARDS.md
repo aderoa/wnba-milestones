@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-10 03:17 UTC_
+_Last updated: 2026-06-10 03:18 UTC_
 
 ## Contents
 
@@ -55,7 +55,7 @@ _Last updated: 2026-06-10 03:17 UTC_
 | 34 | Alana Beard | 4,740 |
 | 35 | Chamique Holdsclaw | 4,713 |
 | 36 | Elena Delle Donne | 4,706 |
-| 37 | **Alyssa Thomas** 🔴 +6 | 4,659 |
+| 37 | **Alyssa Thomas** 🔴 +8 | 4,661 |
 | 38 | Arike Ogunbowale | 4,628 |
 | 39 | Penny Taylor | 4,595 |
 | 40 | Natasha Howard | 4,549 |
@@ -562,7 +562,7 @@ _Last updated: 2026-06-10 03:17 UTC_
 | 131 | Crystal Robinson | 488 |
 | 131 | Tiffany Mitchell | 488 |
 | 133 | Rebekkah Brunson | 486 |
-| 134 | **Kahleah Copper** 🔴 | 484 |
+| 134 | **Kahleah Copper** 🔴 +1 | 485 |
 | 135 | Ukari Figgs | 470 |
 | 136 | Elizabeth Williams | 469 |
 | 136 | Janeth Arcain | 469 |
