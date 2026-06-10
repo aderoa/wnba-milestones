@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-10 01:16 UTC_
+_Last updated: 2026-06-10 01:17 UTC_
 
 ## Contents
 
@@ -871,7 +871,7 @@ _Last updated: 2026-06-10 01:16 UTC_
 | 30 | Skylar Diggins | 455 |
 | 30 | Tangela Smith | 455 |
 | 32 | Tina Thompson | 452 |
-| 33 | **Natasha Howard** 🔴 +3 | 450 |
+| 33 | **Natasha Howard** 🔴 +4 | 451 |
 | 34 | Maya Moore | 449 |
 | 35 | Chelsea Gray | 445 |
 | 35 | Jewell Loyd | 445 |
@@ -1349,7 +1349,7 @@ _Last updated: 2026-06-10 01:16 UTC_
 | 98 | Kara Lawson | 526 |
 | 99 | Leilani Mitchell | 525 |
 | 99 | Nicole Powell | 525 |
-| 101 | **Arike Ogunbowale** 🔴 | 520 |
+| 101 | **Arike Ogunbowale** 🔴 +1 | 521 |
 | 102 | Marie Ferdinand-Harris | 518 |
 | 102 | Sabrina Ionescu | 518 |
 | 104 | Shavonte Zellous | 517 |
