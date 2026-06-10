@@ -1,5 +1,29 @@
 [
   {
+    "ts": "2026-06-10T00:50:00+00:00",
+    "text": "Kamilla Cardoso passed Monique Currie for #110 all-time in blocks (career 115) \u2014 up from #114 entering today \u2014 (6:30 - 4th \u2014 ATL @ CHI)",
+    "kind": "rank_pass",
+    "player": "Kamilla Cardoso",
+    "stat": "blocks",
+    "rank": 110,
+    "passed_players": [
+      "Monique Currie"
+    ],
+    "new_total": 115
+  },
+  {
+    "ts": "2026-06-10T00:50:00+00:00",
+    "text": "Natasha Howard passed Katie Douglas for #27 all-time in turnovers (career 825) \u2014 up from #28 entering today \u2014 (Halftime \u2014 DAL @ MIN)",
+    "kind": "rank_pass",
+    "player": "Natasha Howard",
+    "stat": "turnovers",
+    "rank": 27,
+    "passed_players": [
+      "Katie Douglas"
+    ],
+    "new_total": 825
+  },
+  {
     "ts": "2026-06-10T00:48:00+00:00",
     "text": "Alysha Clark passed Ann Wauters and Cheyenne Parker-Tyus for #130 all-time in turnovers (career 441) \u2014 (43.2 - 2nd \u2014 DAL @ MIN)",
     "kind": "rank_pass",
@@ -2934,30 +2958,5 @@
       "Satou Sabally"
     ],
     "new_total": 933
-  },
-  {
-    "ts": "2026-06-05T13:51:00+00:00",
-    "text": "Allisha Gray passed Lauren Jackson and Tan White for #62 all-time in steals (career 362) \u2014 (Final \u2014 ATL @ IND)",
-    "kind": "rank_pass",
-    "player": "Allisha Gray",
-    "stat": "steals",
-    "rank": 62,
-    "passed_players": [
-      "Lauren Jackson",
-      "Tan White"
-    ],
-    "new_total": 362
-  },
-  {
-    "ts": "2026-06-05T13:51:00+00:00",
-    "text": "Allisha Gray passed A'ja Wilson for #120 all-time in turnovers (career 467) \u2014 up from #121 entering today \u2014 (Final \u2014 ATL @ IND)",
-    "kind": "rank_pass",
-    "player": "Allisha Gray",
-    "stat": "turnovers",
-    "rank": 120,
-    "passed_players": [
-      "A'ja Wilson"
-    ],
-    "new_total": 467
   }
 ]

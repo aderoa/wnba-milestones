@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-10 00:49 UTC_
+_Last updated: 2026-06-10 00:50 UTC_
 
 ## Contents
 
@@ -65,7 +65,7 @@ _Last updated: 2026-06-10 00:49 UTC_
 | 43 | Jia Perkins | 4,433 |
 | 45 | Kelsey Plum | 4,395 |
 | 46 | Courtney Vandersloot | 4,352 |
-| 47 | **Allisha Gray** 🔴 +9 | 4,348 |
+| 47 | **Allisha Gray** 🔴 +11 | 4,350 |
 | 48 | Sophia Young-Malcolm | 4,300 |
 | 49 | Kahleah Copper | 4,283 |
 | 50 | Plenette Pierson | 4,258 |
@@ -256,7 +256,7 @@ _Last updated: 2026-06-10 00:49 UTC_
 | 30 | Chamique Holdsclaw | 2,123 |
 | 31 | Chasity Melvin | 2,097 |
 | 32 | Tammy Sutton-Brown | 2,010 |
-| 33 | **Elizabeth Williams** 🔴 +2 | 1,954 |
+| 33 | **Elizabeth Williams** 🔴 +3 | 1,955 |
 | 34 | Cheryl Ford | 1,907 |
 | 35 | Plenette Pierson | 1,834 |
 | 36 | Natalie Williams | 1,832 |
@@ -480,8 +480,8 @@ _Last updated: 2026-06-10 00:49 UTC_
 | 49 | Tiffany Hayes | 936 |
 | 50 | Deanna Nolan | 930 |
 | 51 | Kelly Miller | 927 |
-| 52 | **Arike Ogunbowale** 🔴 +3 | 921 |
-| 52 | DeLisha Milton-Jones | 921 |
+| 52 | **Arike Ogunbowale** 🔴 +4 | 922 |
+| 53 | DeLisha Milton-Jones | 921 |
 | 54 | Nneka Ogwumike | 917 |
 | 55 | Angel McCoughtry | 915 |
 | 56 | Layshia Clarendon | 911 |
@@ -743,8 +743,8 @@ _Last updated: 2026-06-10 00:49 UTC_
 | 107 | Andrea Stinson | 117 |
 | 107 | Crystal Langhorne | 117 |
 | 107 | Natasha Mack | 117 |
-| 110 | **Kamilla Cardoso** 🔴 +3 | 114 |
-| 110 | Monique Currie | 114 |
+| 110 | **Kamilla Cardoso** 🔴 +4 | 115 |
+| 111 | Monique Currie | 114 |
 | 112 | Ariel Atkins | 113 |
 | 113 | Amanda Lassiter | 111 |
 | 113 | Kamila Vodichkova | 111 |
@@ -899,7 +899,7 @@ _Last updated: 2026-06-10 00:49 UTC_
 | 58 | Chamique Holdsclaw | 376 |
 | 59 | Mwadi Mabika | 370 |
 | 60 | Brittney Sykes | 367 |
-| 61 | **Allisha Gray** 🔴 +1 | 361 |
+| 61 | **Allisha Gray** 🔴 +2 | 362 |
 | 62 | Lauren Jackson | 360 |
 | 62 | Tan White | 360 |
 | 64 | Vickie Johnson | 357 |
@@ -910,7 +910,7 @@ _Last updated: 2026-06-10 00:49 UTC_
 | 69 | Vicky Bullett | 353 |
 | 70 | Svetlana Abrosimova | 352 |
 | 71 | **Natasha Cloud** 🔴 | 349 |
-| 72 | **Arike Ogunbowale** 🔴 +2 | 347 |
+| 72 | **Arike Ogunbowale** 🔴 +3 | 348 |
 | 73 | A'ja Wilson | 346 |
 | 73 | Janeth Arcain | 346 |
 | 75 | Helen Darling | 343 |
@@ -1271,12 +1271,12 @@ _Last updated: 2026-06-10 00:49 UTC_
 | 20 | Shannon Johnson | 934 |
 | 21 | Chelsea Gray | 898 |
 | 21 | Taj McWilliams-Franklin | 898 |
-| 23 | **Skylar Diggins** 🔴 +1 | 894 |
+| 23 | **Skylar Diggins** 🔴 +2 | 895 |
 | 24 | Candice Dupree | 869 |
 | 25 | Alana Beard | 854 |
 | 26 | DeWanna Bonner | 837 |
-| 27 | Katie Douglas | 824 |
-| 27 | **Natasha Howard** 🔴 +3 | 824 |
+| 27 | **Natasha Howard** 🔴 +4 | 825 |
+| 28 | Katie Douglas | 824 |
 | 29 | Betty Lennox | 800 |
 | 30 | Jasmine Thomas | 796 |
 | 31 | Nneka Ogwumike | 795 |

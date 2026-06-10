@@ -2,6 +2,11 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-10 00:50 UTC
+
+- **Kamilla Cardoso** passed **Monique Currie** for **#110** all-time in blocks (career 115) — up from #114 entering today — _6:30 - 4th — ATL @ CHI_
+- **Natasha Howard** passed **Katie Douglas** for **#27** all-time in turnovers (career 825) — up from #28 entering today — _Halftime — DAL @ MIN_
+
 ## 2026-06-10 00:48 UTC
 
 - **Alysha Clark** passed **Ann Wauters** and **Cheyenne Parker-Tyus** for **#130** all-time in turnovers (career 441) — _43.2 - 2nd — DAL @ MIN_
