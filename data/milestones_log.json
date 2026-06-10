@@ -1,5 +1,14 @@
 [
   {
+    "ts": "2026-06-10T01:16:00+00:00",
+    "text": "Natasha Howard reached 600 career assists (now 600) \u2014 (4:38 - 3rd \u2014 DAL @ MIN)",
+    "kind": "round",
+    "player": "Natasha Howard",
+    "stat": "assists",
+    "value": 600,
+    "new_total": 600
+  },
+  {
     "ts": "2026-06-10T01:08:00+00:00",
     "text": "Courtney Williams passed Betty Lennox for #86 all-time in steals (career 324) \u2014 up from #87 entering today \u2014 (8:03 - 3rd \u2014 DAL @ MIN)",
     "kind": "rank_pass",
@@ -2948,17 +2957,5 @@
     "stat": "rebounds",
     "value": 400,
     "new_total": 400
-  },
-  {
-    "ts": "2026-06-05T23:38:00+00:00",
-    "text": "Azur\u00e1 Stevens passed Alanna Smith for #191 all-time in fouls (career 471) \u2014 up from #192 entering today \u2014 (6:26 - 1st \u2014 CON @ CHI)",
-    "kind": "rank_pass",
-    "player": "Azur\u00e1 Stevens",
-    "stat": "fouls",
-    "rank": 191,
-    "passed_players": [
-      "Alanna Smith"
-    ],
-    "new_total": 471
   }
 ]
