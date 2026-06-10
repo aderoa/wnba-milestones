@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-10 00:09 UTC_
+_Last updated: 2026-06-10 00:10 UTC_
 
 ## Contents
 
@@ -56,9 +56,9 @@ _Last updated: 2026-06-10 00:09 UTC_
 | 35 | Chamique Holdsclaw | 4,713 |
 | 36 | Elena Delle Donne | 4,706 |
 | 37 | Alyssa Thomas | 4,653 |
-| 38 | **Arike Ogunbowale** 🔴 +2 | 4,614 |
+| 38 | **Arike Ogunbowale** 🔴 +5 | 4,617 |
 | 39 | Penny Taylor | 4,595 |
-| 40 | **Natasha Howard** 🔴 | 4,528 |
+| 40 | **Natasha Howard** 🔴 +5 | 4,533 |
 | 41 | Chelsea Gray | 4,506 |
 | 42 | Kristi Toliver | 4,474 |
 | 43 | Crystal Langhorne | 4,433 |
@@ -71,7 +71,7 @@ _Last updated: 2026-06-10 00:09 UTC_
 | 50 | Plenette Pierson | 4,258 |
 | 51 | Monique Currie | 4,253 |
 | 52 | Dearica Hamby | 4,243 |
-| 53 | **Courtney Williams** 🔴 | 4,238 |
+| 53 | **Courtney Williams** 🔴 +2 | 4,240 |
 | 54 | Vickie Johnson | 4,230 |
 | 55 | Yolanda Griffith | 4,224 |
 | 56 | Jonquel Jones | 4,222 |
@@ -381,7 +381,7 @@ _Last updated: 2026-06-10 00:09 UTC_
 | 155 | Shameka Christon | 867 |
 | 156 | Alanna Smith | 864 |
 | 157 | Krystal Thomas | 862 |
-| 158 | **Nia Coffey** 🔴 +1 | 855 |
+| 158 | **Nia Coffey** 🔴 +2 | 856 |
 | 159 | Marina Mabrey | 849 |
 | 160 | Leilani Mitchell | 845 |
 | 161 | Essence Carson | 833 |
@@ -598,8 +598,8 @@ _Last updated: 2026-06-10 00:09 UTC_
 | 167 | Julie Allemand | 401 |
 | 168 | Marissa Coleman | 399 |
 | 169 | Aliyah Boston | 398 |
-| 170 | **Jessica Shepard** 🔴 | 395 |
-| 170 | Stacey Dales | 395 |
+| 170 | **Jessica Shepard** 🔴 +1 | 396 |
+| 171 | Stacey Dales | 395 |
 | 172 | Sugar Rodgers | 393 |
 | 173 | Shameka Christon | 389 |
 | 173 | Tamicha Jackson | 389 |
@@ -1059,7 +1059,7 @@ _Last updated: 2026-06-10 00:09 UTC_
 | 13 | Tamika Catchings | 605 |
 | 14 | Kara Lawson | 583 |
 | 15 | Nicole Powell | 579 |
-| 16 | **Arike Ogunbowale** 🔴 | 566 |
+| 16 | **Arike Ogunbowale** 🔴 +1 | 567 |
 | 17 | Ivory Latta | 536 |
 | 18 | Renee Montgomery | 532 |
 | 19 | Maya Moore | 530 |
@@ -1183,7 +1183,7 @@ _Last updated: 2026-06-10 00:09 UTC_
 | 136 | Jennifer Lacy | 160 |
 | 138 | Aari McDonald | 158 |
 | 138 | Jennifer Azzi | 158 |
-| 140 | **Natasha Howard** 🔴 | 157 |
+| 138 | **Natasha Howard** 🔴 +1 | 158 |
 | 141 | Alanna Smith | 154 |
 | 142 | Bridget Pettis | 153 |
 | 142 | Jennifer Gillom | 153 |
