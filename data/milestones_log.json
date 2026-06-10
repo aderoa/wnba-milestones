@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-10T00:31:00+00:00",
+    "text": "Allisha Gray passed Kara Braxton for #71 all-time in rebounds (career 1,388) \u2014 up from #73 entering today \u2014 (3:06 - 3rd \u2014 ATL @ CHI)",
+    "kind": "rank_pass",
+    "player": "Allisha Gray",
+    "stat": "rebounds",
+    "rank": 71,
+    "passed_players": [
+      "Kara Braxton"
+    ],
+    "new_total": 1388
+  },
+  {
     "ts": "2026-06-10T00:26:00+00:00",
     "text": "Alysha Clark passed Plenette Pierson and Temeka Johnson for #89 all-time in steals (career 318) \u2014 up from #91 entering today \u2014 (8:13 - 2nd \u2014 DAL @ MIN)",
     "kind": "rank_pass",
@@ -2946,17 +2958,5 @@
       "Alysha Clark"
     ],
     "new_total": 396
-  },
-  {
-    "ts": "2026-06-05T13:51:00+00:00",
-    "text": "Monique Billings passed Kara Braxton for #71 all-time in rebounds (career 1,390) \u2014 up from #72 entering today \u2014 (Final \u2014 ATL @ IND)",
-    "kind": "rank_pass",
-    "player": "Monique Billings",
-    "stat": "rebounds",
-    "rank": 71,
-    "passed_players": [
-      "Kara Braxton"
-    ],
-    "new_total": 1390
   }
 ]

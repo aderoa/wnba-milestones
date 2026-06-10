@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-10 00:30 UTC_
+_Last updated: 2026-06-10 00:31 UTC_
 
 ## Contents
 
@@ -156,8 +156,8 @@ _Last updated: 2026-06-10 00:30 UTC_
 | 135 | Betnijah Laney-Hamilton | 2,282 |
 | 136 | **Azurá Stevens** 🔴 +7 | 2,266 |
 | 137 | Allison Feaster | 2,258 |
-| 138 | **Jordin Canada** 🔴 +8 | 2,245 |
-| 138 | Shekinna Stricklen | 2,245 |
+| 138 | **Jordin Canada** 🔴 +10 | 2,247 |
+| 139 | Shekinna Stricklen | 2,245 |
 | 140 | Kara Braxton | 2,237 |
 | 140 | Matee Ajavon | 2,237 |
 | 142 | Kia Nurse | 2,231 |
@@ -294,8 +294,8 @@ _Last updated: 2026-06-10 00:30 UTC_
 | 68 | Tamera Young | 1,433 |
 | 69 | Alana Beard | 1,420 |
 | 70 | Nakia Sanford | 1,419 |
-| 71 | **Allisha Gray** 🔴 +3 | 1,387 |
-| 71 | Kara Braxton | 1,387 |
+| 71 | **Allisha Gray** 🔴 +4 | 1,388 |
+| 72 | Kara Braxton | 1,387 |
 | 73 | Monique Billings | 1,385 |
 | 74 | Courtney Vandersloot | 1,383 |
 | 74 | Katie Smith | 1,383 |
@@ -745,7 +745,7 @@ _Last updated: 2026-06-10 00:30 UTC_
 | 107 | Natasha Mack | 117 |
 | 110 | Monique Currie | 114 |
 | 111 | Ariel Atkins | 113 |
-| 112 | **Kamilla Cardoso** 🔴 +1 | 112 |
+| 111 | **Kamilla Cardoso** 🔴 +2 | 113 |
 | 113 | Amanda Lassiter | 111 |
 | 113 | Kamila Vodichkova | 111 |
 | 113 | Sophia Young-Malcolm | 111 |
