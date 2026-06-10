@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-10 00:41 UTC_
+_Last updated: 2026-06-10 00:42 UTC_
 
 ## Contents
 
@@ -117,7 +117,7 @@ _Last updated: 2026-06-10 00:41 UTC_
 | 96 | Shameka Christon | 3,039 |
 | 97 | Marie Ferdinand-Harris | 3,001 |
 | 98 | Emma Meesseman | 2,966 |
-| 99 | **Natasha Cloud** 🔴 +9 | 2,961 |
+| 99 | **Natasha Cloud** 🔴 +11 | 2,963 |
 | 100 | **Elizabeth Williams** 🔴 +4 | 2,900 |
 | 101 | Natalie Williams | 2,894 |
 | 102 | Jennifer Gillom | 2,888 |
@@ -783,11 +783,11 @@ _Last updated: 2026-06-10 00:41 UTC_
 | 147 | Marissa Coleman | 88 |
 | 148 | Tiffany Hayes | 87 |
 | 149 | Astou Ndiaye-Diatta | 86 |
-| 150 | Adrian Williams-Strong | 85 |
-| 150 | Erlana Larkins | 85 |
-| 150 | Kalani Brown | 85 |
-| 150 | Kristin Folkl | 85 |
-| 150 | **Natasha Cloud** 🔴 +1 | 85 |
+| 149 | **Natasha Cloud** 🔴 +2 | 86 |
+| 151 | Adrian Williams-Strong | 85 |
+| 151 | Erlana Larkins | 85 |
+| 151 | Kalani Brown | 85 |
+| 151 | Kristin Folkl | 85 |
 | 155 | Charde Houston | 84 |
 | 155 | Shatori Walker-Kimbrough | 84 |
 | 157 | Tamera Young | 83 |
@@ -1354,8 +1354,8 @@ _Last updated: 2026-06-10 00:41 UTC_
 | 102 | Sabrina Ionescu | 518 |
 | 104 | Shavonte Zellous | 517 |
 | 104 | Wendy Palmer | 517 |
-| 106 | **Jordin Canada** 🔴 +3 | 515 |
-| 107 | Tully Bevilaqua | 514 |
+| 106 | **Jordin Canada** 🔴 +2 | 514 |
+| 106 | Tully Bevilaqua | 514 |
 | 108 | Jia Perkins | 513 |
 | 109 | Marina Mabrey | 510 |
 | 110 | Tamera Young | 501 |

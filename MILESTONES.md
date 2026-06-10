@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-10 00:42 UTC
+
+- **Natasha Cloud** passed **Adrian Williams-Strong**, **Erlana Larkins**, **Kalani Brown**, and **Kristin Folkl** for **#150** all-time in blocks (career 86) — up from #155 entering today — _End of 3rd — ATL @ CHI_
+
 ## 2026-06-10 00:36 UTC
 
 - **Arike Ogunbowale** passed **A'ja Wilson** and **Janeth Arcain** for **#72** all-time in steals (career 347) — up from #74 entering today — _4:43 - 2nd — DAL @ MIN_
