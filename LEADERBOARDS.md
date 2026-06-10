@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-10 00:45 UTC_
+_Last updated: 2026-06-10 00:46 UTC_
 
 ## Contents
 
@@ -743,9 +743,9 @@ _Last updated: 2026-06-10 00:45 UTC_
 | 107 | Andrea Stinson | 117 |
 | 107 | Crystal Langhorne | 117 |
 | 107 | Natasha Mack | 117 |
+| 110 | **Kamilla Cardoso** 🔴 +3 | 114 |
 | 110 | Monique Currie | 114 |
-| 111 | Ariel Atkins | 113 |
-| 111 | **Kamilla Cardoso** 🔴 +2 | 113 |
+| 112 | Ariel Atkins | 113 |
 | 113 | Amanda Lassiter | 111 |
 | 113 | Kamila Vodichkova | 111 |
 | 113 | Sophia Young-Malcolm | 111 |
@@ -871,8 +871,8 @@ _Last updated: 2026-06-10 00:45 UTC_
 | 30 | **Skylar Diggins** 🔴 +1 | 455 |
 | 30 | Tangela Smith | 455 |
 | 32 | Tina Thompson | 452 |
-| 33 | Maya Moore | 449 |
-| 33 | **Natasha Howard** 🔴 +2 | 449 |
+| 33 | **Natasha Howard** 🔴 +3 | 450 |
+| 34 | Maya Moore | 449 |
 | 35 | Chelsea Gray | 445 |
 | 35 | Jewell Loyd | 445 |
 | 37 | Sheri Sam | 438 |
@@ -1276,7 +1276,7 @@ _Last updated: 2026-06-10 00:45 UTC_
 | 25 | Alana Beard | 854 |
 | 26 | DeWanna Bonner | 837 |
 | 27 | Katie Douglas | 824 |
-| 28 | **Natasha Howard** 🔴 +1 | 822 |
+| 28 | **Natasha Howard** 🔴 +2 | 823 |
 | 29 | Betty Lennox | 800 |
 | 30 | Jasmine Thomas | 796 |
 | 31 | Nneka Ogwumike | 795 |

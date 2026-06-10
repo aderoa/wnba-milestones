@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-10 00:46 UTC
+
+- **Kamilla Cardoso** passed **Ariel Atkins** for **#111** all-time in blocks (career 114) — up from #114 entering today — _9:42 - 4th — ATL @ CHI_
+
 ## 2026-06-10 00:42 UTC
 
 - **Natasha Cloud** passed **Adrian Williams-Strong**, **Erlana Larkins**, **Kalani Brown**, and **Kristin Folkl** for **#150** all-time in blocks (career 86) — up from #155 entering today — _End of 3rd — ATL @ CHI_
