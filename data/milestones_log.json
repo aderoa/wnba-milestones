@@ -1,5 +1,19 @@
 [
   {
+    "ts": "2026-06-10T23:39:00+00:00",
+    "text": "Brittney Sykes passed Devereaux Peters, Nicky Anosike, and Seimone Augustus for #86 all-time in blocks (career 134) \u2014 (7:30 - 2nd \u2014 CON @ TOR)",
+    "kind": "rank_pass",
+    "player": "Brittney Sykes",
+    "stat": "blocks",
+    "rank": 86,
+    "passed_players": [
+      "Devereaux Peters",
+      "Nicky Anosike",
+      "Seimone Augustus"
+    ],
+    "new_total": 134
+  },
+  {
     "ts": "2026-06-10T23:22:00+00:00",
     "text": "Kennedy Burke passed Edwige Lawson-Wade and Marie Ferdinand-Harris for #179 all-time in three-pointers (career 117) \u2014 up from #180 entering today \u2014 (2:08 - 1st \u2014 CON @ TOR)",
     "kind": "rank_pass",
@@ -2950,17 +2964,5 @@
       "Shameka Christon"
     ],
     "new_total": 435
-  },
-  {
-    "ts": "2026-06-05T23:59:00+00:00",
-    "text": "Brittney Griner passed Alex Bentley for #91 all-time in assists (career 646) \u2014 up from #92 entering today \u2014 (7:55 - 2nd \u2014 CON @ CHI)",
-    "kind": "rank_pass",
-    "player": "Brittney Griner",
-    "stat": "assists",
-    "rank": 91,
-    "passed_players": [
-      "Alex Bentley"
-    ],
-    "new_total": 646
   }
 ]
