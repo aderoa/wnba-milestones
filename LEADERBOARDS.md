@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-10 00:07 UTC_
+_Last updated: 2026-06-10 00:08 UTC_
 
 ## Contents
 
@@ -56,7 +56,7 @@ _Last updated: 2026-06-10 00:07 UTC_
 | 35 | Chamique Holdsclaw | 4,713 |
 | 36 | Elena Delle Donne | 4,706 |
 | 37 | Alyssa Thomas | 4,653 |
-| 38 | **Arike Ogunbowale** 🔴 | 4,612 |
+| 38 | **Arike Ogunbowale** 🔴 +1 | 4,613 |
 | 39 | Penny Taylor | 4,595 |
 | 40 | **Natasha Howard** 🔴 | 4,528 |
 | 41 | Chelsea Gray | 4,506 |
@@ -412,7 +412,7 @@ _Last updated: 2026-06-10 00:07 UTC_
 | 186 | Layshia Clarendon | 756 |
 | 187 | Brooke Wyckoff | 751 |
 | 188 | Coco Miller | 750 |
-| 189 | **Arike Ogunbowale** 🔴 | 748 |
+| 189 | **Arike Ogunbowale** 🔴 +1 | 749 |
 | 190 | Alex Montgomery | 735 |
 | 191 | Ashley Robinson | 734 |
 | 192 | Shenise Johnson | 729 |
@@ -1585,7 +1585,7 @@ _Last updated: 2026-06-10 00:07 UTC_
 | 128 | Hamchetou Maiga-Ba | 580 |
 | 128 | Olympia Scott | 580 |
 | 131 | Ezi Magbegor | 576 |
-| 132 | **Courtney Williams** 🔴 | 574 |
+| 132 | **Courtney Williams** 🔴 +1 | 575 |
 | 133 | Le'coe Willingham | 571 |
 | 134 | Ashley Robinson | 567 |
 | 135 | Ivory Latta | 565 |
