@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-10 01:27 UTC_
+_Last updated: 2026-06-10 01:28 UTC_
 
 ## Contents
 
@@ -287,8 +287,8 @@ _Last updated: 2026-06-10 01:27 UTC_
 | 61 | Cappie Pondexter | 1,513 |
 | 62 | Napheesa Collier | 1,510 |
 | 63 | Ticha Penicheiro | 1,485 |
+| 64 | **Alysha Clark** 🔴 +1 | 1,466 |
 | 64 | Sue Bird | 1,466 |
-| 65 | **Alysha Clark** 🔴 | 1,465 |
 | 66 | Nicole Powell | 1,457 |
 | 67 | Cheyenne Parker-Tyus | 1,442 |
 | 68 | Tamera Young | 1,433 |
@@ -319,8 +319,8 @@ _Last updated: 2026-06-10 01:27 UTC_
 | 93 | Ezi Magbegor | 1,243 |
 | 94 | Myisha Hines-Allen | 1,239 |
 | 95 | Brianna Turner | 1,237 |
-| 96 | **Kayla McBride** 🔴 +2 | 1,228 |
-| 96 | Seimone Augustus | 1,228 |
+| 96 | **Kayla McBride** 🔴 +3 | 1,229 |
+| 97 | Seimone Augustus | 1,228 |
 | 98 | Chelsea Gray | 1,221 |
 | 99 | Jia Perkins | 1,220 |
 | 100 | DeMya Walker | 1,199 |
@@ -381,7 +381,7 @@ _Last updated: 2026-06-10 01:27 UTC_
 | 155 | Shameka Christon | 867 |
 | 156 | **Alanna Smith** 🔴 +2 | 866 |
 | 157 | Krystal Thomas | 862 |
-| 158 | **Nia Coffey** 🔴 +7 | 861 |
+| 157 | **Nia Coffey** 🔴 +8 | 862 |
 | 159 | Marina Mabrey | 849 |
 | 160 | Leilani Mitchell | 845 |
 | 161 | Essence Carson | 833 |
