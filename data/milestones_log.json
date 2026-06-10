@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-06-10T23:22:00+00:00",
+    "text": "Kennedy Burke passed Edwige Lawson-Wade and Marie Ferdinand-Harris for #179 all-time in three-pointers (career 117) \u2014 up from #180 entering today \u2014 (2:08 - 1st \u2014 CON @ TOR)",
+    "kind": "rank_pass",
+    "player": "Kennedy Burke",
+    "stat": "three-pointers",
+    "rank": 179,
+    "passed_players": [
+      "Edwige Lawson-Wade",
+      "Marie Ferdinand-Harris"
+    ],
+    "new_total": 117
+  },
+  {
     "ts": "2026-06-10T04:12:00+00:00",
     "text": "Kahleah Copper passed Adrian Williams-Strong and Moriah Jefferson for #150 all-time in steals (career 217) \u2014 up from #151 entering today \u2014 (Final \u2014 PHX @ GS)",
     "kind": "rank_pass",
@@ -2949,17 +2962,5 @@
       "Alex Bentley"
     ],
     "new_total": 646
-  },
-  {
-    "ts": "2026-06-05T23:58:00+00:00",
-    "text": "Rachel Banham passed Lindsey Harding for #180 all-time in fouls (career 487) \u2014 up from #181 entering today \u2014 (8:35 - 2nd \u2014 CON @ CHI)",
-    "kind": "rank_pass",
-    "player": "Rachel Banham",
-    "stat": "fouls",
-    "rank": 180,
-    "passed_players": [
-      "Lindsey Harding"
-    ],
-    "new_total": 487
   }
 ]

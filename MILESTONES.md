@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-10 23:22 UTC
+
+- **Kennedy Burke** passed **Edwige Lawson-Wade** and **Marie Ferdinand-Harris** for **#179** all-time in three-pointers (career 117) — up from #180 entering today — _2:08 - 1st — CON @ TOR_
+
 ## 2026-06-10 04:12 UTC
 
 - **Kahleah Copper** passed **Adrian Williams-Strong** and **Moriah Jefferson** for **#150** all-time in steals (career 217) — up from #151 entering today — _Final — PHX @ GS_
