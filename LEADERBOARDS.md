@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-10 00:46 UTC_
+_Last updated: 2026-06-10 00:47 UTC_
 
 ## Contents
 
@@ -312,8 +312,8 @@ _Last updated: 2026-06-10 00:46 UTC_
 | 86 | Jayne Appel Marinelli | 1,326 |
 | 87 | Betty Lennox | 1,296 |
 | 88 | Tari Phillips | 1,274 |
-| 89 | **Azurá Stevens** 🔴 +5 | 1,261 |
-| 89 | Janel McCarville | 1,261 |
+| 89 | **Azurá Stevens** 🔴 +6 | 1,262 |
+| 90 | Janel McCarville | 1,261 |
 | 91 | Liz Cambage | 1,258 |
 | 92 | Tiffany Hayes | 1,244 |
 | 93 | Ezi Magbegor | 1,243 |
@@ -530,7 +530,7 @@ _Last updated: 2026-06-10 00:46 UTC_
 | 99 | **Alysha Clark** 🔴 | 616 |
 | 100 | Debbie Black | 612 |
 | 101 | Cynthia Cooper | 602 |
-| 102 | **Natasha Howard** 🔴 +2 | 598 |
+| 102 | **Natasha Howard** 🔴 +3 | 599 |
 | 103 | Sancho Lyttle | 592 |
 | 104 | Camille Smith | 590 |
 | 105 | Armintie Herrington | 589 |
@@ -1368,8 +1368,8 @@ _Last updated: 2026-06-10 00:46 UTC_
 | 117 | Ebony Hoffman | 470 |
 | 118 | Elaine Powell | 469 |
 | 119 | Allie Quigley | 467 |
-| 120 | A'ja Wilson | 466 |
-| 120 | **Allisha Gray** 🔴 | 466 |
+| 119 | **Allisha Gray** 🔴 +1 | 467 |
+| 121 | A'ja Wilson | 466 |
 | 122 | Ariel Atkins | 454 |
 | 122 | Kia Vaughn | 454 |
 | 124 | Janeth Arcain | 453 |
@@ -1444,8 +1444,8 @@ _Last updated: 2026-06-10 00:46 UTC_
 | 193 | Crystal Robinson | 299 |
 | 194 | Michele Timms | 297 |
 | 195 | **Rachel Banham** 🔴 | 295 |
+| 196 | **Azurá Stevens** 🔴 +2 | 294 |
 | 196 | Kayla Thornton | 294 |
-| 197 | **Azurá Stevens** 🔴 +1 | 293 |
 | 198 | Natisha Hiedeman | 289 |
 | 199 | Alexis Hornbuckle | 288 |
 | 199 | Kristen Rasmussen | 288 |
