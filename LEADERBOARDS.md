@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-10 01:20 UTC_
+_Last updated: 2026-06-10 01:21 UTC_
 
 ## Contents
 
@@ -43,7 +43,7 @@ _Last updated: 2026-06-10 01:20 UTC_
 | 22 | Skylar Diggins | 5,643 |
 | 23 | DeLisha Milton-Jones | 5,571 |
 | 24 | Katie Douglas | 5,545 |
-| 25 | **Kayla McBride** 🔴 +18 | 5,540 |
+| 25 | **Kayla McBride** 🔴 +19 | 5,541 |
 | 26 | Lindsay Whalen | 5,511 |
 | 27 | Swin Cash | 5,119 |
 | 28 | Tangela Smith | 5,035 |
@@ -871,7 +871,7 @@ _Last updated: 2026-06-10 01:20 UTC_
 | 30 | Skylar Diggins | 455 |
 | 30 | Tangela Smith | 455 |
 | 32 | Tina Thompson | 452 |
-| 33 | **Natasha Howard** 🔴 +4 | 451 |
+| 33 | **Natasha Howard** 🔴 +3 | 450 |
 | 34 | Maya Moore | 449 |
 | 35 | Chelsea Gray | 445 |
 | 35 | Jewell Loyd | 445 |
@@ -1349,7 +1349,7 @@ _Last updated: 2026-06-10 01:20 UTC_
 | 98 | Kara Lawson | 526 |
 | 99 | Leilani Mitchell | 525 |
 | 99 | Nicole Powell | 525 |
-| 101 | **Arike Ogunbowale** 🔴 +1 | 521 |
+| 101 | **Arike Ogunbowale** 🔴 | 520 |
 | 102 | Marie Ferdinand-Harris | 518 |
 | 102 | Sabrina Ionescu | 518 |
 | 104 | Shavonte Zellous | 517 |
