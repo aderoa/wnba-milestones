@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-10 00:12 UTC_
+_Last updated: 2026-06-10 00:13 UTC_
 
 ## Contents
 
@@ -1641,9 +1641,9 @@ _Last updated: 2026-06-10 00:12 UTC_
 | 184 | Rhonda Mapp | 483 |
 | 186 | Sami Whitcomb | 480 |
 | 187 | Seimone Augustus | 477 |
-| 188 | Allie Quigley | 475 |
-| 188 | **Azurá Stevens** 🔴 +1 | 475 |
-| 188 | **Nia Coffey** 🔴 | 475 |
+| 188 | **Azurá Stevens** 🔴 +2 | 476 |
+| 189 | Allie Quigley | 475 |
+| 189 | **Nia Coffey** 🔴 | 475 |
 | 191 | Kia Nurse | 473 |
 | 192 | Alanna Smith | 470 |
 | 193 | Christi Thomas | 463 |
