@@ -1,5 +1,19 @@
 [
   {
+    "ts": "2026-06-10T02:40:00+00:00",
+    "text": "Veronica Burton passed Edwige Lawson-Wade, Kennedy Burke, and Marie Ferdinand-Harris for #179 all-time in three-pointers (career 117) \u2014 up from #185 entering today \u2014 (5:38 - 2nd \u2014 PHX @ GS)",
+    "kind": "rank_pass",
+    "player": "Veronica Burton",
+    "stat": "three-pointers",
+    "rank": 179,
+    "passed_players": [
+      "Edwige Lawson-Wade",
+      "Kennedy Burke",
+      "Marie Ferdinand-Harris"
+    ],
+    "new_total": 117
+  },
+  {
     "ts": "2026-06-10T01:16:00+00:00",
     "text": "Natasha Howard reached 600 career assists (now 600) \u2014 (4:38 - 3rd \u2014 DAL @ MIN)",
     "kind": "round",
@@ -2948,14 +2962,5 @@
       "Shatori Walker-Kimbrough"
     ],
     "new_total": 205
-  },
-  {
-    "ts": "2026-06-05T23:40:00+00:00",
-    "text": "Aneesah Morrow reached 400 career rebounds (now 400) \u2014 (5:14 - 1st \u2014 CON @ CHI)",
-    "kind": "round",
-    "player": "Aneesah Morrow",
-    "stat": "rebounds",
-    "value": 400,
-    "new_total": 400
   }
 ]
