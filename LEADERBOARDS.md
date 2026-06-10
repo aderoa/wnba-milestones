@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-10 00:47 UTC_
+_Last updated: 2026-06-10 00:48 UTC_
 
 ## Contents
 
@@ -117,7 +117,7 @@ _Last updated: 2026-06-10 00:47 UTC_
 | 96 | Shameka Christon | 3,039 |
 | 97 | Marie Ferdinand-Harris | 3,001 |
 | 98 | Emma Meesseman | 2,966 |
-| 99 | **Natasha Cloud** 🔴 +11 | 2,963 |
+| 98 | **Natasha Cloud** 🔴 +14 | 2,966 |
 | 100 | **Elizabeth Williams** 🔴 +4 | 2,900 |
 | 101 | Natalie Williams | 2,894 |
 | 102 | Jennifer Gillom | 2,888 |
@@ -143,8 +143,8 @@ _Last updated: 2026-06-10 00:47 UTC_
 | 122 | Glory Johnson | 2,531 |
 | 123 | Nikki McCray | 2,521 |
 | 124 | Crystal Robinson | 2,496 |
-| 125 | **Rhyne Howard** 🔴 +8 | 2,480 |
-| 125 | Tiffany Mitchell | 2,480 |
+| 125 | **Rhyne Howard** 🔴 +10 | 2,482 |
+| 126 | Tiffany Mitchell | 2,480 |
 | 127 | Ruth Riley | 2,434 |
 | 128 | Svetlana Abrosimova | 2,414 |
 | 129 | Anna DeForge | 2,413 |
@@ -312,7 +312,7 @@ _Last updated: 2026-06-10 00:47 UTC_
 | 86 | Jayne Appel Marinelli | 1,326 |
 | 87 | Betty Lennox | 1,296 |
 | 88 | Tari Phillips | 1,274 |
-| 89 | **Azurá Stevens** 🔴 +6 | 1,262 |
+| 89 | **Azurá Stevens** 🔴 +7 | 1,263 |
 | 90 | Janel McCarville | 1,261 |
 | 91 | Liz Cambage | 1,258 |
 | 92 | Tiffany Hayes | 1,244 |
@@ -387,7 +387,7 @@ _Last updated: 2026-06-10 00:47 UTC_
 | 161 | Essence Carson | 833 |
 | 162 | Kristi Toliver | 829 |
 | 163 | Marie Ferdinand-Harris | 828 |
-| 164 | **Naz Hillmon** 🔴 +5 | 827 |
+| 163 | **Naz Hillmon** 🔴 +6 | 828 |
 | 165 | Marlies Askamp | 822 |
 | 166 | Amanda Zahui B | 819 |
 | 166 | Barbara Farris | 819 |
@@ -480,8 +480,8 @@ _Last updated: 2026-06-10 00:47 UTC_
 | 49 | Tiffany Hayes | 936 |
 | 50 | Deanna Nolan | 930 |
 | 51 | Kelly Miller | 927 |
+| 52 | **Arike Ogunbowale** 🔴 +3 | 921 |
 | 52 | DeLisha Milton-Jones | 921 |
-| 53 | **Arike Ogunbowale** 🔴 +2 | 920 |
 | 54 | Nneka Ogwumike | 917 |
 | 55 | Angel McCoughtry | 915 |
 | 56 | Layshia Clarendon | 911 |
@@ -1013,9 +1013,9 @@ _Last updated: 2026-06-10 00:47 UTC_
 | 172 | Layshia Clarendon | 195 |
 | 173 | Sonja Henning | 194 |
 | 173 | Tierra Ruffin-Pratt | 194 |
+| 175 | **Alanna Smith** 🔴 +2 | 192 |
 | 175 | Cynthia Cooper | 192 |
-| 176 | **Alanna Smith** 🔴 +1 | 191 |
-| 176 | Natisha Hiedeman | 191 |
+| 177 | Natisha Hiedeman | 191 |
 | 178 | Myisha Hines-Allen | 189 |
 | 179 | Tamicha Jackson | 188 |
 | 180 | Michele Timms | 187 |
@@ -1101,7 +1101,7 @@ _Last updated: 2026-06-10 00:47 UTC_
 | 54 | Elena Delle Donne | 343 |
 | 56 | Candace Parker | 342 |
 | 57 | Deanna Nolan | 340 |
-| 58 | **Natasha Cloud** 🔴 | 339 |
+| 57 | **Natasha Cloud** 🔴 +1 | 340 |
 | 59 | Anna DeForge | 334 |
 | 60 | Erica Wheeler | 329 |
 | 61 | Jackie Young | 323 |
@@ -1276,7 +1276,7 @@ _Last updated: 2026-06-10 00:47 UTC_
 | 25 | Alana Beard | 854 |
 | 26 | DeWanna Bonner | 837 |
 | 27 | Katie Douglas | 824 |
-| 28 | **Natasha Howard** 🔴 +2 | 823 |
+| 27 | **Natasha Howard** 🔴 +3 | 824 |
 | 29 | Betty Lennox | 800 |
 | 30 | Jasmine Thomas | 796 |
 | 31 | Nneka Ogwumike | 795 |
@@ -1376,10 +1376,10 @@ _Last updated: 2026-06-10 00:47 UTC_
 | 125 | Betnijah Laney-Hamilton | 444 |
 | 125 | Elena Baranova | 444 |
 | 125 | Jantel Lavender | 444 |
+| 128 | **Alysha Clark** 🔴 +1 | 441 |
 | 128 | Jackie Young | 441 |
-| 129 | **Alysha Clark** 🔴 | 440 |
-| 129 | Ann Wauters | 440 |
-| 129 | Cheyenne Parker-Tyus | 440 |
+| 130 | Ann Wauters | 440 |
+| 130 | Cheyenne Parker-Tyus | 440 |
 | 132 | Tiffany Mitchell | 439 |
 | 133 | Kedra Holland-Corn | 438 |
 | 134 | Jennifer Gillom | 434 |
@@ -1443,7 +1443,7 @@ _Last updated: 2026-06-10 00:47 UTC_
 | 192 | Isabelle Harrison | 300 |
 | 193 | Crystal Robinson | 299 |
 | 194 | Michele Timms | 297 |
-| 195 | **Rachel Banham** 🔴 | 295 |
+| 195 | **Rachel Banham** 🔴 +1 | 296 |
 | 196 | **Azurá Stevens** 🔴 +2 | 294 |
 | 196 | Kayla Thornton | 294 |
 | 198 | Natisha Hiedeman | 289 |
@@ -1632,7 +1632,7 @@ _Last updated: 2026-06-10 00:47 UTC_
 | 176 | Karima Christmas-Kelly | 494 |
 | 177 | Ann Wauters | 493 |
 | 177 | Riquna Williams | 493 |
-| 179 | **Rachel Banham** 🔴 | 490 |
+| 179 | **Rachel Banham** 🔴 +1 | 491 |
 | 180 | Charde Houston | 487 |
 | 181 | Lindsey Harding | 486 |
 | 182 | Cathrine Kraayeveld | 484 |
@@ -1645,7 +1645,7 @@ _Last updated: 2026-06-10 00:47 UTC_
 | 189 | Allie Quigley | 475 |
 | 189 | **Nia Coffey** 🔴 | 475 |
 | 191 | Kia Nurse | 473 |
-| 192 | **Alanna Smith** 🔴 | 470 |
+| 192 | **Alanna Smith** 🔴 +1 | 471 |
 | 193 | Christi Thomas | 463 |
 | 193 | Nikki Teasley | 463 |
 | 195 | Sue Wicks | 462 |

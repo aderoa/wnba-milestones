@@ -2,6 +2,11 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-10 00:48 UTC
+
+- **Alysha Clark** passed **Ann Wauters** and **Cheyenne Parker-Tyus** for **#130** all-time in turnovers (career 441) — _43.2 - 2nd — DAL @ MIN_
+- **Alanna Smith** passed **Natisha Hiedeman** for **#176** all-time in steals (career 192) — up from #177 entering today — _43.2 - 2nd — DAL @ MIN_
+
 ## 2026-06-10 00:46 UTC
 
 - **Kamilla Cardoso** passed **Ariel Atkins** for **#111** all-time in blocks (career 114) — up from #114 entering today — _9:42 - 4th — ATL @ CHI_

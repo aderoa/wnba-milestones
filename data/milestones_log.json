@@ -1,5 +1,30 @@
 [
   {
+    "ts": "2026-06-10T00:48:00+00:00",
+    "text": "Alysha Clark passed Ann Wauters and Cheyenne Parker-Tyus for #130 all-time in turnovers (career 441) \u2014 (43.2 - 2nd \u2014 DAL @ MIN)",
+    "kind": "rank_pass",
+    "player": "Alysha Clark",
+    "stat": "turnovers",
+    "rank": 130,
+    "passed_players": [
+      "Ann Wauters",
+      "Cheyenne Parker-Tyus"
+    ],
+    "new_total": 441
+  },
+  {
+    "ts": "2026-06-10T00:48:00+00:00",
+    "text": "Alanna Smith passed Natisha Hiedeman for #176 all-time in steals (career 192) \u2014 up from #177 entering today \u2014 (43.2 - 2nd \u2014 DAL @ MIN)",
+    "kind": "rank_pass",
+    "player": "Alanna Smith",
+    "stat": "steals",
+    "rank": 176,
+    "passed_players": [
+      "Natisha Hiedeman"
+    ],
+    "new_total": 192
+  },
+  {
     "ts": "2026-06-10T00:46:00+00:00",
     "text": "Kamilla Cardoso passed Ariel Atkins for #111 all-time in blocks (career 114) \u2014 up from #114 entering today \u2014 (9:42 - 4th \u2014 ATL @ CHI)",
     "kind": "rank_pass",
@@ -2934,32 +2959,5 @@
       "A'ja Wilson"
     ],
     "new_total": 467
-  },
-  {
-    "ts": "2026-06-05T13:51:00+00:00",
-    "text": "Jordin Canada passed Azur\u00e1 Stevens, Shekinna Stricklen, Kara Braxton, and Matee Ajavon for #137 all-time in points (career 2,250) \u2014 up from #139 entering today \u2014 (Final \u2014 ATL @ IND)",
-    "kind": "rank_pass",
-    "player": "Jordin Canada",
-    "stat": "points",
-    "rank": 137,
-    "passed_players": [
-      "Azur\u00e1 Stevens",
-      "Shekinna Stricklen",
-      "Kara Braxton",
-      "Matee Ajavon"
-    ],
-    "new_total": 2250
-  },
-  {
-    "ts": "2026-06-05T13:51:00+00:00",
-    "text": "Jordin Canada passed Vickie Johnson for #28 all-time in assists (career 1,208) \u2014 up from #29 entering today \u2014 (Final \u2014 ATL @ IND)",
-    "kind": "rank_pass",
-    "player": "Jordin Canada",
-    "stat": "assists",
-    "rank": 28,
-    "passed_players": [
-      "Vickie Johnson"
-    ],
-    "new_total": 1208
   }
 ]
