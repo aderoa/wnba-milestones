@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-10 00:05 UTC_
+_Last updated: 2026-06-10 00:06 UTC_
 
 ## Contents
 
@@ -925,7 +925,7 @@ _Last updated: 2026-06-10 00:05 UTC_
 | 84 | Matee Ajavon | 328 |
 | 85 | Napheesa Collier | 325 |
 | 86 | Betty Lennox | 323 |
-| 87 | **Courtney Williams** 🔴 | 321 |
+| 87 | **Courtney Williams** 🔴 +1 | 322 |
 | 88 | Tammy Sutton-Brown | 319 |
 | 89 | Plenette Pierson | 317 |
 | 89 | Temeka Johnson | 317 |
@@ -1307,7 +1307,7 @@ _Last updated: 2026-06-10 00:05 UTC_
 | 56 | Tammy Sutton-Brown | 672 |
 | 57 | Deanna Nolan | 669 |
 | 58 | Chasity Melvin | 666 |
-| 59 | **Courtney Williams** 🔴 | 662 |
+| 59 | **Courtney Williams** 🔴 +1 | 663 |
 | 60 | Vickie Johnson | 660 |
 | 61 | Yolanda Griffith | 653 |
 | 62 | Sheri Sam | 650 |
