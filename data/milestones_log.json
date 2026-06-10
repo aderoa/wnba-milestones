@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-10T01:02:00+00:00",
+    "text": "Elizabeth Williams passed Hamchetou Maiga-Ba for #152 all-time in turnovers (career 386) \u2014 up from #153 entering today \u2014 (2:15 - 4th \u2014 ATL @ CHI)",
+    "kind": "rank_pass",
+    "player": "Elizabeth Williams",
+    "stat": "turnovers",
+    "rank": 152,
+    "passed_players": [
+      "Hamchetou Maiga-Ba"
+    ],
+    "new_total": 386
+  },
+  {
     "ts": "2026-06-10T00:51:00+00:00",
     "text": "Natasha Cloud passed Emma Meesseman for #98 all-time in points (career 2,968) \u2014 up from #99 entering today \u2014 (5:57 - 4th \u2014 ATL @ CHI)",
     "kind": "rank_pass",
@@ -2945,17 +2957,5 @@
     "stat": "points",
     "value": 700,
     "new_total": 701
-  },
-  {
-    "ts": "2026-06-05T13:51:00+00:00",
-    "text": "Naz Hillmon passed Marlies Askamp for #164 all-time in rebounds (career 827) \u2014 up from #165 entering today \u2014 (Final \u2014 ATL @ IND)",
-    "kind": "rank_pass",
-    "player": "Naz Hillmon",
-    "stat": "rebounds",
-    "rank": 164,
-    "passed_players": [
-      "Marlies Askamp"
-    ],
-    "new_total": 827
   }
 ]

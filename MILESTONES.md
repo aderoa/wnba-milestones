@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-10 01:02 UTC
+
+- **Elizabeth Williams** passed **Hamchetou Maiga-Ba** for **#152** all-time in turnovers (career 386) — up from #153 entering today — _2:15 - 4th — ATL @ CHI_
+
 ## 2026-06-10 00:51 UTC
 
 - **Natasha Cloud** passed **Emma Meesseman** for **#98** all-time in points (career 2,968) — up from #99 entering today — _5:57 - 4th — ATL @ CHI_
