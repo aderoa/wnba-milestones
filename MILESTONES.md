@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-10 00:36 UTC
+
+- **Arike Ogunbowale** passed **A'ja Wilson** and **Janeth Arcain** for **#72** all-time in steals (career 347) — up from #74 entering today — _4:43 - 2nd — DAL @ MIN_
+
 ## 2026-06-10 00:31 UTC
 
 - **Allisha Gray** passed **Kara Braxton** for **#71** all-time in rebounds (career 1,388) — up from #73 entering today — _3:06 - 3rd — ATL @ CHI_
