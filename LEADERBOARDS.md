@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-10 03:56 UTC_
+_Last updated: 2026-06-10 03:57 UTC_
 
 ## Contents
 
@@ -67,7 +67,7 @@ _Last updated: 2026-06-10 03:56 UTC_
 | 46 | Allisha Gray | 4,353 |
 | 47 | Courtney Vandersloot | 4,352 |
 | 48 | Sophia Young-Malcolm | 4,300 |
-| 49 | **Kahleah Copper** 🔴 +6 | 4,289 |
+| 49 | **Kahleah Copper** 🔴 +9 | 4,292 |
 | 50 | Plenette Pierson | 4,258 |
 | 51 | Courtney Williams | 4,254 |
 | 52 | Monique Currie | 4,253 |
@@ -207,7 +207,7 @@ _Last updated: 2026-06-10 03:56 UTC_
 | 186 | Tully Bevilaqua | 1,763 |
 | 187 | Sandy Brondello | 1,759 |
 | 188 | Sophie Cunningham | 1,752 |
-| 189 | **Gabby Williams** 🔴 +19 | 1,742 |
+| 189 | **Gabby Williams** 🔴 +21 | 1,744 |
 | 190 | Sugar Rodgers | 1,733 |
 | 191 | Moriah Jefferson | 1,722 |
 | 192 | Armintie Herrington | 1,696 |
@@ -231,7 +231,7 @@ _Last updated: 2026-06-10 03:56 UTC_
 | 5 | Nneka Ogwumike | 3,337 |
 | 6 | Tamika Catchings | 3,313 |
 | 7 | Lisa Leslie | 3,303 |
-| 8 | **DeWanna Bonner** 🔴 +2 | 3,262 |
+| 8 | **DeWanna Bonner** 🔴 +3 | 3,263 |
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
@@ -435,7 +435,7 @@ _Last updated: 2026-06-10 03:56 UTC_
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
 | 6 | Chelsea Gray | 1,935 |
-| 7 | **Alyssa Thomas** 🔴 +8 | 1,911 |
+| 7 | **Alyssa Thomas** 🔴 +9 | 1,912 |
 | 8 | Skylar Diggins | 1,815 |
 | 9 | Natasha Cloud | 1,776 |
 | 10 | Becky Hammon | 1,705 |
@@ -547,7 +547,7 @@ _Last updated: 2026-06-10 03:56 UTC_
 | 116 | Janel McCarville | 551 |
 | 116 | Svetlana Abrosimova | 551 |
 | 118 | Michele Timms | 549 |
-| 119 | **Veronica Burton** 🔴 +5 | 542 |
+| 119 | **Veronica Burton** 🔴 +6 | 543 |
 | 120 | Marie Ferdinand-Harris | 528 |
 | 121 | Margo Dydek | 524 |
 | 122 | Myisha Hines-Allen | 520 |
@@ -1095,7 +1095,7 @@ _Last updated: 2026-06-10 03:56 UTC_
 | 49 | Jonquel Jones | 371 |
 | 50 | Epiphanny Prince | 368 |
 | 51 | Kia Nurse | 364 |
-| 52 | **Kahleah Copper** 🔴 | 355 |
+| 52 | **Kahleah Copper** 🔴 +1 | 356 |
 | 53 | Nykesha Sales | 352 |
 | 54 | Cathrine Kraayeveld | 343 |
 | 54 | Elena Delle Donne | 343 |
