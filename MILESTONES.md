@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-10 04:12 UTC
+
+- **Kahleah Copper** passed **Adrian Williams-Strong** and **Moriah Jefferson** for **#150** all-time in steals (career 217) — up from #151 entering today — _Final — PHX @ GS_
+
 ## 2026-06-10 03:50 UTC
 
 - **Alyssa Thomas** passed **Taj McWilliams-Franklin** for **#13** all-time in steals (career 578) — up from #14 entering today — _5:43 - 4th — PHX @ GS_

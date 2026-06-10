@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-06-10T04:12:00+00:00",
+    "text": "Kahleah Copper passed Adrian Williams-Strong and Moriah Jefferson for #150 all-time in steals (career 217) \u2014 up from #151 entering today \u2014 (Final \u2014 PHX @ GS)",
+    "kind": "rank_pass",
+    "player": "Kahleah Copper",
+    "stat": "steals",
+    "rank": 150,
+    "passed_players": [
+      "Adrian Williams-Strong",
+      "Moriah Jefferson"
+    ],
+    "new_total": 217
+  },
+  {
     "ts": "2026-06-10T03:50:00+00:00",
     "text": "Alyssa Thomas passed Taj McWilliams-Franklin for #13 all-time in steals (career 578) \u2014 up from #14 entering today \u2014 (5:43 - 4th \u2014 PHX @ GS)",
     "kind": "rank_pass",
@@ -2948,17 +2961,5 @@
       "Lindsey Harding"
     ],
     "new_total": 487
-  },
-  {
-    "ts": "2026-06-05T23:56:00+00:00",
-    "text": "Rachel Banham passed Danielle Adams for #181 all-time in points (career 1,822) \u2014 up from #182 entering today \u2014 (9:16 - 2nd \u2014 CON @ CHI)",
-    "kind": "rank_pass",
-    "player": "Rachel Banham",
-    "stat": "points",
-    "rank": 181,
-    "passed_players": [
-      "Danielle Adams"
-    ],
-    "new_total": 1822
   }
 ]
