@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-10 23:14 UTC_
+_Last updated: 2026-06-10 23:15 UTC_
 
 ## Contents
 
@@ -1635,8 +1635,8 @@ _Last updated: 2026-06-10 23:14 UTC_
 | 179 | Rachel Banham | 490 |
 | 180 | Charde Houston | 487 |
 | 181 | Lindsey Harding | 486 |
-| 182 | Cathrine Kraayeveld | 484 |
-| 182 | **Isabelle Harrison** 🔴 | 484 |
+| 182 | **Isabelle Harrison** 🔴 +1 | 485 |
+| 183 | Cathrine Kraayeveld | 484 |
 | 184 | Liz Cambage | 483 |
 | 184 | Rhonda Mapp | 483 |
 | 186 | Sami Whitcomb | 480 |
