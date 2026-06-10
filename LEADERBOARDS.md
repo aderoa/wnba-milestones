@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-10 00:59 UTC_
+_Last updated: 2026-06-10 01:00 UTC_
 
 ## Contents
 
@@ -156,7 +156,7 @@ _Last updated: 2026-06-10 00:59 UTC_
 | 135 | Betnijah Laney-Hamilton | 2,282 |
 | 136 | **Azurá Stevens** 🔴 +8 | 2,267 |
 | 137 | Allison Feaster | 2,258 |
-| 138 | **Jordin Canada** 🔴 +12 | 2,249 |
+| 138 | **Jordin Canada** 🔴 +14 | 2,251 |
 | 139 | Shekinna Stricklen | 2,245 |
 | 140 | Kara Braxton | 2,237 |
 | 140 | Matee Ajavon | 2,237 |
