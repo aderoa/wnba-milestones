@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-11 01:08 UTC_
+_Last updated: 2026-06-11 01:09 UTC_
 
 ## Contents
 
@@ -1632,8 +1632,8 @@ _Last updated: 2026-06-11 01:08 UTC_
 | 176 | Karima Christmas-Kelly | 494 |
 | 177 | Ann Wauters | 493 |
 | 177 | Riquna Williams | 493 |
+| 179 | **Isabelle Harrison** 🔴 +6 | 490 |
 | 179 | Rachel Banham | 490 |
-| 180 | **Isabelle Harrison** 🔴 +5 | 489 |
 | 181 | Charde Houston | 487 |
 | 182 | Lindsey Harding | 486 |
 | 183 | Cathrine Kraayeveld | 484 |
