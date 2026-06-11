@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-11 01:14 UTC_
+_Last updated: 2026-06-11 01:15 UTC_
 
 ## Contents
 
@@ -1592,9 +1592,9 @@ _Last updated: 2026-06-11 01:14 UTC_
 | 136 | Barbara Farris | 563 |
 | 137 | Jessica Breland | 562 |
 | 138 | Dawn Staley | 551 |
-| 139 | Glory Johnson | 550 |
-| 139 | **Marina Mabrey** 🔴 +2 | 550 |
-| 139 | Tierra Ruffin-Pratt | 550 |
+| 138 | **Marina Mabrey** 🔴 +3 | 551 |
+| 140 | Glory Johnson | 550 |
+| 140 | Tierra Ruffin-Pratt | 550 |
 | 142 | Erlana Larkins | 546 |
 | 143 | Jayne Appel Marinelli | 543 |
 | 143 | Renee Montgomery | 543 |
