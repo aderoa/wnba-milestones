@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-11 23:24 UTC_
+_Last updated: 2026-06-11 23:25 UTC_
 
 ## Contents
 
@@ -256,7 +256,7 @@ _Last updated: 2026-06-11 23:24 UTC_
 | 30 | Chamique Holdsclaw | 2,123 |
 | 31 | Chasity Melvin | 2,097 |
 | 32 | Tammy Sutton-Brown | 2,010 |
-| 33 | **Elizabeth Williams** 🔴 | 1,952 |
+| 33 | **Elizabeth Williams** 🔴 +1 | 1,953 |
 | 34 | Cheryl Ford | 1,907 |
 | 35 | Plenette Pierson | 1,834 |
 | 36 | Natalie Williams | 1,832 |
@@ -565,7 +565,7 @@ _Last updated: 2026-06-11 23:24 UTC_
 | 134 | Kahleah Copper | 484 |
 | 135 | Ukari Figgs | 470 |
 | 136 | Janeth Arcain | 469 |
-| 137 | **Elizabeth Williams** 🔴 | 467 |
+| 137 | **Elizabeth Williams** 🔴 +1 | 468 |
 | 138 | Erin Phillips | 462 |
 | 139 | Sylvia Fowles | 461 |
 | 140 | Satou Sabally | 456 |
@@ -596,8 +596,8 @@ _Last updated: 2026-06-11 23:24 UTC_
 | 165 | Rita Williams | 403 |
 | 166 | Kia Nurse | 402 |
 | 167 | Julie Allemand | 401 |
-| 168 | **Aliyah Boston** 🔴 +1 | 399 |
-| 168 | Marissa Coleman | 399 |
+| 168 | **Aliyah Boston** 🔴 +2 | 400 |
+| 169 | Marissa Coleman | 399 |
 | 170 | Jessica Shepard | 395 |
 | 170 | Stacey Dales | 395 |
 | 172 | Sugar Rodgers | 393 |
@@ -714,7 +714,7 @@ _Last updated: 2026-06-11 23:24 UTC_
 | 77 | Sue Wicks | 153 |
 | 79 | Jessica Davenport | 151 |
 | 80 | Alison Bales | 148 |
-| 81 | **Aliyah Boston** 🔴 | 147 |
+| 80 | **Aliyah Boston** 🔴 +1 | 148 |
 | 82 | Chamique Holdsclaw | 143 |
 | 83 | Shavonte Zellous | 139 |
 | 84 | Penny Taylor | 136 |
@@ -1425,10 +1425,10 @@ _Last updated: 2026-06-11 23:24 UTC_
 | 173 | Diamond DeShields | 333 |
 | 175 | Charde Houston | 331 |
 | 176 | Satou Sabally | 330 |
+| 177 | **Caitlin Clark** 🔴 +2 | 326 |
 | 177 | Erlana Larkins | 326 |
 | 177 | Rita Williams | 326 |
-| 179 | **Caitlin Clark** 🔴 +1 | 325 |
-| 179 | Le'coe Willingham | 325 |
+| 180 | Le'coe Willingham | 325 |
 | 181 | Olympia Scott | 324 |
 | 182 | Gabby Williams | 320 |
 | 183 | Kia Nurse | 316 |
