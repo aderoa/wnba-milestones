@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-11 02:13 UTC_
+_Last updated: 2026-06-11 02:14 UTC_
 
 ## Contents
 
@@ -23,7 +23,7 @@ _Last updated: 2026-06-11 02:13 UTC_
 | 2 | Tina Charles | 8,396 |
 | 3 | DeWanna Bonner | 7,910 |
 | 4 | Tina Thompson | 7,470 |
-| 5 | **Nneka Ogwumike** 🔴 | 7,440 |
+| 5 | **Nneka Ogwumike** 🔴 +2 | 7,442 |
 | 6 | Tamika Catchings | 7,371 |
 | 7 | Candice Dupree | 6,861 |
 | 8 | Sue Bird | 6,802 |
@@ -63,14 +63,14 @@ _Last updated: 2026-06-11 02:13 UTC_
 | 42 | Kristi Toliver | 4,474 |
 | 43 | Crystal Langhorne | 4,433 |
 | 43 | Jia Perkins | 4,433 |
-| 45 | **Kelsey Plum** 🔴 | 4,395 |
+| 45 | **Kelsey Plum** 🔴 +6 | 4,401 |
 | 46 | Courtney Vandersloot | 4,352 |
 | 47 | Allisha Gray | 4,339 |
 | 48 | Sophia Young-Malcolm | 4,300 |
 | 49 | Kahleah Copper | 4,283 |
 | 50 | Plenette Pierson | 4,258 |
 | 51 | Monique Currie | 4,253 |
-| 52 | **Dearica Hamby** 🔴 | 4,243 |
+| 52 | **Dearica Hamby** 🔴 +2 | 4,245 |
 | 53 | Courtney Williams | 4,238 |
 | 54 | Vickie Johnson | 4,230 |
 | 55 | Yolanda Griffith | 4,224 |
@@ -228,7 +228,7 @@ _Last updated: 2026-06-11 02:13 UTC_
 | 2 | Sylvia Fowles | 4,005 |
 | 3 | Candace Parker | 3,467 |
 | 4 | Rebekkah Brunson | 3,345 |
-| 5 | **Nneka Ogwumike** 🔴 | 3,337 |
+| 5 | **Nneka Ogwumike** 🔴 +2 | 3,339 |
 | 6 | Tamika Catchings | 3,313 |
 | 7 | Lisa Leslie | 3,303 |
 | 8 | DeWanna Bonner | 3,260 |
@@ -247,7 +247,7 @@ _Last updated: 2026-06-11 02:13 UTC_
 | 21 | Crystal Langhorne | 2,454 |
 | 22 | Lauren Jackson | 2,444 |
 | 23 | Yolanda Griffith | 2,440 |
-| 24 | **Dearica Hamby** 🔴 +1 | 2,392 |
+| 24 | **Dearica Hamby** 🔴 +2 | 2,393 |
 | 25 | Tangela Smith | 2,328 |
 | 26 | Natasha Howard | 2,253 |
 | 27 | Erika de Souza | 2,220 |
@@ -396,9 +396,9 @@ _Last updated: 2026-06-11 02:13 UTC_
 | 170 | Betnijah Laney-Hamilton | 795 |
 | 170 | Gabby Williams | 795 |
 | 172 | Charlotte Smith | 794 |
+| 173 | **Ariel Atkins** 🔴 +2 | 788 |
 | 173 | Rhonda Mapp | 788 |
-| 174 | **Ariel Atkins** 🔴 | 786 |
-| 174 | Mercedes Russell | 786 |
+| 175 | Mercedes Russell | 786 |
 | 176 | Odyssey Sims | 785 |
 | 177 | Sue Wicks | 780 |
 | 178 | Lindsey Harding | 779 |
@@ -956,8 +956,8 @@ _Last updated: 2026-06-11 02:13 UTC_
 | 115 | Kayla Thornton | 263 |
 | 116 | Michelle Snow | 262 |
 | 117 | Karima Christmas-Kelly | 261 |
-| 118 | **Kelsey Plum** 🔴 | 260 |
-| 118 | Riquna Williams | 260 |
+| 117 | **Kelsey Plum** 🔴 +1 | 261 |
+| 119 | Riquna Williams | 260 |
 | 120 | Noelle Quinn | 256 |
 | 121 | Elaine Powell | 255 |
 | 121 | Loree Moore | 255 |
@@ -1055,7 +1055,7 @@ _Last updated: 2026-06-11 02:13 UTC_
 | 9 | Jewell Loyd | 678 |
 | 10 | DeWanna Bonner | 672 |
 | 11 | Kristi Toliver | 651 |
-| 12 | **Kelsey Plum** 🔴 | 609 |
+| 12 | **Kelsey Plum** 🔴 +2 | 611 |
 | 13 | Tamika Catchings | 605 |
 | 14 | Kara Lawson | 583 |
 | 15 | Nicole Powell | 579 |
@@ -1297,7 +1297,7 @@ _Last updated: 2026-06-11 02:13 UTC_
 | 46 | Temeka Johnson | 696 |
 | 47 | Penny Taylor | 695 |
 | 48 | Natasha Cloud | 692 |
-| 49 | **Erica Wheeler** 🔴 | 690 |
+| 49 | **Erica Wheeler** 🔴 +1 | 691 |
 | 50 | Dominique Canty | 685 |
 | 51 | DeMya Walker | 684 |
 | 52 | Asjha Jones | 682 |
@@ -1446,7 +1446,7 @@ _Last updated: 2026-06-11 02:13 UTC_
 | 195 | Rachel Banham | 295 |
 | 196 | Kayla Thornton | 294 |
 | 197 | Azurá Stevens | 292 |
-| 198 | **Natisha Hiedeman** 🔴 | 289 |
+| 198 | **Natisha Hiedeman** 🔴 +1 | 290 |
 | 199 | Alexis Hornbuckle | 288 |
 | 199 | Kristen Rasmussen | 288 |
 
@@ -1547,9 +1547,9 @@ _Last updated: 2026-06-11 02:13 UTC_
 | 91 | Jasmine Thomas | 685 |
 | 92 | Leilani Mitchell | 684 |
 | 93 | Crystal Robinson | 682 |
-| 94 | Jennifer Lacy | 680 |
-| 94 | **Kelsey Plum** 🔴 | 680 |
-| 94 | Temeka Johnson | 680 |
+| 94 | **Kelsey Plum** 🔴 +1 | 681 |
+| 95 | Jennifer Lacy | 680 |
+| 95 | Temeka Johnson | 680 |
 | 97 | Kelly Miller | 676 |
 | 98 | Cheyenne Parker-Tyus | 674 |
 | 99 | Chamique Holdsclaw | 667 |
