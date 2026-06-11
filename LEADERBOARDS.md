@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-11 03:18 UTC_
+_Last updated: 2026-06-11 03:19 UTC_
 
 ## Contents
 
@@ -23,7 +23,7 @@ _Last updated: 2026-06-11 03:18 UTC_
 | 2 | Tina Charles | 8,396 |
 | 3 | DeWanna Bonner | 7,910 |
 | 4 | Tina Thompson | 7,470 |
-| 5 | **Nneka Ogwumike** 🔴 +6 | 7,446 |
+| 5 | **Nneka Ogwumike** 🔴 +9 | 7,449 |
 | 6 | Tamika Catchings | 7,371 |
 | 7 | Candice Dupree | 6,861 |
 | 8 | Sue Bird | 6,802 |
@@ -194,7 +194,7 @@ _Last updated: 2026-06-11 03:18 UTC_
 | 173 | Nakia Sanford | 1,915 |
 | 174 | Ebony Hoffman | 1,909 |
 | 175 | Candice Wiggins | 1,901 |
-| 176 | **Natisha Hiedeman** 🔴 +7 | 1,865 |
+| 176 | **Natisha Hiedeman** 🔴 +10 | 1,868 |
 | 177 | Isabelle Harrison | 1,837 |
 | 178 | Damiris Dantas | 1,830 |
 | 179 | Tianna Hawkins | 1,825 |
@@ -454,7 +454,7 @@ _Last updated: 2026-06-11 03:18 UTC_
 | 23 | **Erica Wheeler** 🔴 +1 | 1,307 |
 | 24 | Kristi Toliver | 1,301 |
 | 25 | Katie Smith | 1,258 |
-| 26 | **Kelsey Plum** 🔴 +4 | 1,241 |
+| 26 | **Kelsey Plum** 🔴 +5 | 1,242 |
 | 27 | Odyssey Sims | 1,228 |
 | 28 | Vickie Johnson | 1,202 |
 | 29 | Jordin Canada | 1,201 |
@@ -1114,8 +1114,8 @@ _Last updated: 2026-06-11 03:18 UTC_
 | 68 | Tan White | 311 |
 | 69 | Kedra Holland-Corn | 307 |
 | 70 | Kelly Miller | 305 |
-| 71 | **Natisha Hiedeman** 🔴 +1 | 304 |
-| 71 | Nikki Teasley | 304 |
+| 70 | **Natisha Hiedeman** 🔴 +2 | 305 |
+| 72 | Nikki Teasley | 304 |
 | 73 | Vickie Johnson | 295 |
 | 74 | Seimone Augustus | 293 |
 | 75 | Candice Wiggins | 290 |
@@ -1134,8 +1134,8 @@ _Last updated: 2026-06-11 03:18 UTC_
 | 88 | Bria Hartley | 253 |
 | 89 | Angel McCoughtry | 249 |
 | 90 | Brittney Sykes | 245 |
-| 91 | Erin Thorn | 243 |
-| 91 | **Nneka Ogwumike** 🔴 | 243 |
+| 91 | **Nneka Ogwumike** 🔴 +1 | 244 |
+| 92 | Erin Thorn | 243 |
 | 93 | Azurá Stevens | 241 |
 | 94 | Alex Bentley | 239 |
 | 94 | Cynthia Cooper | 239 |
@@ -1472,7 +1472,7 @@ _Last updated: 2026-06-11 03:18 UTC_
 | 16 | Taj McWilliams-Franklin | 1,145 |
 | 17 | Monique Currie | 1,137 |
 | 18 | Natasha Howard | 1,124 |
-| 19 | **Stefanie Dolson** 🔴 +1 | 1,118 |
+| 19 | **Stefanie Dolson** 🔴 +2 | 1,119 |
 | 20 | Tanisha Wright | 1,109 |
 | 21 | Michelle Snow | 1,108 |
 | 22 | Sylvia Fowles | 1,049 |
