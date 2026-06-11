@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-11 23:45 UTC_
+_Last updated: 2026-06-11 23:46 UTC_
 
 ## Contents
 
@@ -144,7 +144,7 @@ _Last updated: 2026-06-11 23:45 UTC_
 | 123 | Nikki McCray | 2,521 |
 | 124 | Crystal Robinson | 2,496 |
 | 125 | Tiffany Mitchell | 2,480 |
-| 126 | **Rhyne Howard** 🔴 | 2,472 |
+| 126 | **Rhyne Howard** 🔴 +3 | 2,475 |
 | 127 | Ruth Riley | 2,434 |
 | 128 | Svetlana Abrosimova | 2,414 |
 | 129 | Anna DeForge | 2,413 |
@@ -295,7 +295,7 @@ _Last updated: 2026-06-11 23:45 UTC_
 | 69 | Alana Beard | 1,420 |
 | 70 | Nakia Sanford | 1,419 |
 | 71 | Kara Braxton | 1,387 |
-| 72 | **Monique Billings** 🔴 +1 | 1,386 |
+| 71 | **Monique Billings** 🔴 +2 | 1,387 |
 | 73 | **Allisha Gray** 🔴 +1 | 1,385 |
 | 74 | Courtney Vandersloot | 1,383 |
 | 74 | Katie Smith | 1,383 |
@@ -370,7 +370,7 @@ _Last updated: 2026-06-11 23:45 UTC_
 | 144 | Jessica Shepard | 927 |
 | 144 | Merlakia Jones | 927 |
 | 146 | **Satou Sabally** 🔴 | 926 |
-| 147 | **Angel Reese** 🔴 +1 | 924 |
+| 147 | **Angel Reese** 🔴 +2 | 925 |
 | 148 | Nicky Anosike | 922 |
 | 149 | Janeth Arcain | 916 |
 | 150 | Karima Christmas-Kelly | 908 |
@@ -1083,8 +1083,8 @@ _Last updated: 2026-06-11 23:45 UTC_
 | 37 | Penny Taylor | 407 |
 | 37 | Riquna Williams | 407 |
 | 39 | Jia Perkins | 396 |
-| 40 | Alysha Clark | 394 |
-| 40 | **Rhyne Howard** 🔴 | 394 |
+| 40 | **Rhyne Howard** 🔴 +1 | 395 |
+| 41 | Alysha Clark | 394 |
 | 42 | Roneeka Hodges | 389 |
 | 43 | Courtney Vandersloot | 385 |
 | 44 | **Rachel Banham** 🔴 | 384 |
@@ -1220,8 +1220,8 @@ _Last updated: 2026-06-11 23:45 UTC_
 | 174 | Lisa Leslie | 123 |
 | 175 | Sidney Spencer | 122 |
 | 176 | **Jordin Canada** 🔴 | 120 |
-| 177 | **Lexie Hull** 🔴 | 118 |
-| 177 | Tonya Edwards | 118 |
+| 177 | **Lexie Hull** 🔴 +1 | 119 |
+| 178 | Tonya Edwards | 118 |
 | 179 | Edwige Lawson-Wade | 116 |
 | 179 | Kennedy Burke | 116 |
 | 179 | Marie Ferdinand-Harris | 116 |
@@ -1296,7 +1296,7 @@ _Last updated: 2026-06-11 23:45 UTC_
 | 45 | Renee Montgomery | 697 |
 | 46 | Temeka Johnson | 696 |
 | 47 | Penny Taylor | 695 |
-| 48 | **Natasha Cloud** 🔴 +1 | 693 |
+| 48 | **Natasha Cloud** 🔴 +2 | 694 |
 | 49 | Erica Wheeler | 690 |
 | 50 | Dominique Canty | 685 |
 | 51 | DeMya Walker | 684 |
@@ -1331,8 +1331,8 @@ _Last updated: 2026-06-11 23:45 UTC_
 | 80 | Helen Darling | 575 |
 | 80 | Nykesha Sales | 575 |
 | 82 | Andrea Stinson | 571 |
-| 83 | **Breanna Stewart** 🔴 | 570 |
-| 83 | Kara Braxton | 570 |
+| 82 | **Breanna Stewart** 🔴 +1 | 571 |
+| 84 | Kara Braxton | 570 |
 | 85 | Nikki McCray | 565 |
 | 86 | **Kelsey Mitchell** 🔴 | 563 |
 | 86 | Sancho Lyttle | 563 |
@@ -1403,7 +1403,7 @@ _Last updated: 2026-06-11 23:45 UTC_
 | 152 | Hamchetou Maiga-Ba | 385 |
 | 153 | **Elizabeth Williams** 🔴 | 384 |
 | 154 | Kamila Vodichkova | 381 |
-| 155 | **Myisha Hines-Allen** 🔴 | 380 |
+| 154 | **Myisha Hines-Allen** 🔴 +1 | 381 |
 | 156 | Jessica Breland | 378 |
 | 157 | Armintie Herrington | 377 |
 | 158 | Anna DeForge | 374 |
