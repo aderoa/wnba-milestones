@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-11T01:16:00+00:00",
+    "text": "Marina Mabrey passed Dawn Staley for #138 all-time in fouls (career 552) \u2014 up from #141 entering today \u2014 (2:09 - 4th \u2014 CON @ TOR)",
+    "kind": "rank_pass",
+    "player": "Marina Mabrey",
+    "stat": "fouls",
+    "rank": 138,
+    "passed_players": [
+      "Dawn Staley"
+    ],
+    "new_total": 552
+  },
+  {
     "ts": "2026-06-11T01:15:00+00:00",
     "text": "Marina Mabrey passed Glory Johnson and Tierra Ruffin-Pratt for #139 all-time in fouls (career 551) \u2014 up from #141 entering today \u2014 (2:22 - 4th \u2014 CON @ TOR)",
     "kind": "rank_pass",
@@ -2951,17 +2963,5 @@
       "Vickie Johnson"
     ],
     "new_total": 753
-  },
-  {
-    "ts": "2026-06-06T00:22:00+00:00",
-    "text": "Rachel Banham passed Charde Houston for #179 all-time in fouls (career 488) \u2014 up from #181 entering today \u2014 (36.1 - 2nd \u2014 CON @ CHI)",
-    "kind": "rank_pass",
-    "player": "Rachel Banham",
-    "stat": "fouls",
-    "rank": 179,
-    "passed_players": [
-      "Charde Houston"
-    ],
-    "new_total": 488
   }
 ]

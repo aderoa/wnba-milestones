@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-11 01:15 UTC_
+_Last updated: 2026-06-11 01:16 UTC_
 
 ## Contents
 
@@ -1591,8 +1591,8 @@ _Last updated: 2026-06-11 01:15 UTC_
 | 135 | Ivory Latta | 565 |
 | 136 | Barbara Farris | 563 |
 | 137 | Jessica Breland | 562 |
-| 138 | Dawn Staley | 551 |
-| 138 | **Marina Mabrey** 🔴 +3 | 551 |
+| 138 | **Marina Mabrey** 🔴 +4 | 552 |
+| 139 | Dawn Staley | 551 |
 | 140 | Glory Johnson | 550 |
 | 140 | Tierra Ruffin-Pratt | 550 |
 | 142 | Erlana Larkins | 546 |
