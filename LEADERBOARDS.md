@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-11 03:30 UTC_
+_Last updated: 2026-06-11 03:31 UTC_
 
 ## Contents
 
@@ -1532,7 +1532,7 @@ _Last updated: 2026-06-11 03:30 UTC_
 | 76 | Allisha Gray | 726 |
 | 77 | Kristi Toliver | 722 |
 | 78 | Elizabeth Williams | 720 |
-| 79 | **Ariel Atkins** 🔴 +2 | 715 |
+| 79 | **Ariel Atkins** 🔴 +3 | 716 |
 | 80 | Cheryl Ford | 713 |
 | 81 | Jia Perkins | 711 |
 | 82 | Helen Darling | 709 |
