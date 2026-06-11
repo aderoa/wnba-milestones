@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-11 03:17 UTC_
+_Last updated: 2026-06-11 03:18 UTC_
 
 ## Contents
 
@@ -63,7 +63,7 @@ _Last updated: 2026-06-11 03:17 UTC_
 | 42 | Kristi Toliver | 4,474 |
 | 43 | Crystal Langhorne | 4,433 |
 | 43 | Jia Perkins | 4,433 |
-| 45 | **Kelsey Plum** 🔴 +12 | 4,407 |
+| 45 | **Kelsey Plum** 🔴 +14 | 4,409 |
 | 46 | Courtney Vandersloot | 4,352 |
 | 47 | Allisha Gray | 4,339 |
 | 48 | Sophia Young-Malcolm | 4,300 |
