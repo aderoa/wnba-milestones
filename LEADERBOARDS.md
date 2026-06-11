@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-11 02:50 UTC_
+_Last updated: 2026-06-11 02:51 UTC_
 
 ## Contents
 
@@ -1014,7 +1014,7 @@ _Last updated: 2026-06-11 02:50 UTC_
 | 173 | Sonja Henning | 194 |
 | 173 | Tierra Ruffin-Pratt | 194 |
 | 175 | Cynthia Cooper | 192 |
-| 176 | **Natisha Hiedeman** 🔴 | 191 |
+| 175 | **Natisha Hiedeman** 🔴 +1 | 192 |
 | 177 | Alanna Smith | 190 |
 | 178 | Myisha Hines-Allen | 189 |
 | 179 | Tamicha Jackson | 188 |
@@ -1312,8 +1312,8 @@ _Last updated: 2026-06-11 02:50 UTC_
 | 61 | Yolanda Griffith | 653 |
 | 62 | Sheri Sam | 650 |
 | 63 | Dawn Staley | 643 |
-| 64 | **Kelsey Plum** 🔴 +1 | 637 |
-| 64 | Ruth Riley | 637 |
+| 64 | **Kelsey Plum** 🔴 +2 | 638 |
+| 65 | Ruth Riley | 637 |
 | 66 | Kayla McBride | 636 |
 | 67 | Odyssey Sims | 631 |
 | 67 | Svetlana Abrosimova | 631 |
