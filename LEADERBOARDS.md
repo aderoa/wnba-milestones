@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-11 23:15 UTC_
+_Last updated: 2026-06-11 23:16 UTC_
 
 ## Contents
 
@@ -154,7 +154,7 @@ _Last updated: 2026-06-11 23:15 UTC_
 | 133 | Merlakia Jones | 2,308 |
 | 134 | Kia Vaughn | 2,288 |
 | 135 | Betnijah Laney-Hamilton | 2,282 |
-| 136 | **Azurá Stevens** 🔴 | 2,259 |
+| 136 | **Azurá Stevens** 🔴 +2 | 2,261 |
 | 137 | Allison Feaster | 2,258 |
 | 138 | Shekinna Stricklen | 2,245 |
 | 139 | Jordin Canada | 2,237 |
@@ -313,7 +313,7 @@ _Last updated: 2026-06-11 23:15 UTC_
 | 87 | Betty Lennox | 1,296 |
 | 88 | Tari Phillips | 1,274 |
 | 89 | Janel McCarville | 1,261 |
-| 90 | **Azurá Stevens** 🔴 +3 | 1,259 |
+| 90 | **Azurá Stevens** 🔴 +4 | 1,260 |
 | 91 | Liz Cambage | 1,258 |
 | 92 | Tiffany Hayes | 1,244 |
 | 93 | Ezi Magbegor | 1,243 |
@@ -1611,9 +1611,9 @@ _Last updated: 2026-06-11 23:15 UTC_
 | 155 | Kayla McBride | 522 |
 | 156 | **Monique Billings** 🔴 +2 | 519 |
 | 156 | Sheryl Swoopes | 519 |
+| 158 | **Myisha Hines-Allen** 🔴 +1 | 517 |
 | 158 | Nikki McCray | 517 |
-| 159 | Alex Bentley | 516 |
-| 159 | **Myisha Hines-Allen** 🔴 | 516 |
+| 160 | Alex Bentley | 516 |
 | 161 | Jantel Lavender | 513 |
 | 162 | Adrienne Goodson | 512 |
 | 162 | Janeth Arcain | 512 |
