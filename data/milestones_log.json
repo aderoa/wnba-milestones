@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-06-11T00:41:00+00:00",
+    "text": "Brittney Sykes passed Erin Thorn and Nneka Ogwumike for #90 all-time in three-pointers (career 244) \u2014 up from #92 entering today \u2014 (1:22 - 3rd \u2014 CON @ TOR)",
+    "kind": "rank_pass",
+    "player": "Brittney Sykes",
+    "stat": "three-pointers",
+    "rank": 90,
+    "passed_players": [
+      "Erin Thorn",
+      "Nneka Ogwumike"
+    ],
+    "new_total": 244
+  },
+  {
     "ts": "2026-06-11T00:00:00+00:00",
     "text": "Leila Lacan reached 300 career points (now 300) \u2014 (3.3 - 2nd \u2014 CON @ TOR)",
     "kind": "round",
@@ -2949,17 +2962,5 @@
       "Danielle Robinson"
     ],
     "new_total": 989
-  },
-  {
-    "ts": "2026-06-06T00:17:00+00:00",
-    "text": "Elizabeth Williams passed Jennifer Gillom for #101 all-time in points (career 2,890) \u2014 up from #102 entering today \u2014 (1:43 - 2nd \u2014 CON @ CHI)",
-    "kind": "rank_pass",
-    "player": "Elizabeth Williams",
-    "stat": "points",
-    "rank": 101,
-    "passed_players": [
-      "Jennifer Gillom"
-    ],
-    "new_total": 2890
   }
 ]

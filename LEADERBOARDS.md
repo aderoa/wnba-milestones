@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-11 00:40 UTC_
+_Last updated: 2026-06-11 00:41 UTC_
 
 ## Contents
 
@@ -83,7 +83,7 @@ _Last updated: 2026-06-11 00:40 UTC_
 | 62 | Allie Quigley | 3,786 |
 | 63 | Chasity Melvin | 3,781 |
 | 64 | Kara Lawson | 3,670 |
-| 65 | **Brittney Sykes** 🔴 +19 | 3,640 |
+| 65 | **Brittney Sykes** 🔴 +22 | 3,643 |
 | 66 | Mwadi Mabika | 3,576 |
 | 67 | Odyssey Sims | 3,574 |
 | 68 | Camille Smith | 3,551 |
@@ -593,7 +593,7 @@ _Last updated: 2026-06-11 00:40 UTC_
 | 162 | Jamierra Faulkner | 410 |
 | 162 | Murriel Page | 410 |
 | 164 | Allison Feaster | 406 |
-| 165 | **Julie Allemand** 🔴 +3 | 404 |
+| 165 | **Julie Allemand** 🔴 +4 | 405 |
 | 166 | Rita Williams | 403 |
 | 167 | **Kia Nurse** 🔴 | 402 |
 | 168 | Marissa Coleman | 399 |
@@ -1133,9 +1133,9 @@ _Last updated: 2026-06-11 00:40 UTC_
 | 86 | Rebecca Allen | 254 |
 | 88 | Bria Hartley | 253 |
 | 89 | Angel McCoughtry | 249 |
-| 90 | **Brittney Sykes** 🔴 +1 | 243 |
-| 90 | Erin Thorn | 243 |
-| 90 | Nneka Ogwumike | 243 |
+| 90 | **Brittney Sykes** 🔴 +2 | 244 |
+| 91 | Erin Thorn | 243 |
+| 91 | Nneka Ogwumike | 243 |
 | 93 | Azurá Stevens | 241 |
 | 94 | Alex Bentley | 239 |
 | 94 | Cynthia Cooper | 239 |

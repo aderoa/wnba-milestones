@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-11 00:41 UTC
+
+- **Brittney Sykes** passed **Erin Thorn** and **Nneka Ogwumike** for **#90** all-time in three-pointers (career 244) — up from #92 entering today — _1:22 - 3rd — CON @ TOR_
+
 ## 2026-06-11 00:00 UTC
 
 - **Leila Lacan** reached **300** career points (now 300) — _3.3 - 2nd — CON @ TOR_
