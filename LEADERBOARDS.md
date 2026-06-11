@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-11 03:54 UTC_
+_Last updated: 2026-06-11 03:55 UTC_
 
 ## Contents
 
@@ -396,7 +396,7 @@ _Last updated: 2026-06-11 03:54 UTC_
 | 170 | Betnijah Laney-Hamilton | 795 |
 | 170 | Gabby Williams | 795 |
 | 172 | Charlotte Smith | 794 |
-| 173 | **Ariel Atkins** 🔴 +5 | 791 |
+| 173 | **Ariel Atkins** 🔴 +6 | 792 |
 | 174 | Rhonda Mapp | 788 |
 | 175 | Mercedes Russell | 786 |
 | 176 | Odyssey Sims | 785 |
@@ -1511,7 +1511,7 @@ _Last updated: 2026-06-11 03:54 UTC_
 | 55 | Penny Taylor | 832 |
 | 56 | Dominique Canty | 831 |
 | 56 | Wendy Palmer | 831 |
-| 58 | **Dearica Hamby** 🔴 | 829 |
+| 58 | **Dearica Hamby** 🔴 +1 | 830 |
 | 59 | Shannon Johnson | 813 |
 | 59 | Tully Bevilaqua | 813 |
 | 61 | Skylar Diggins | 812 |
