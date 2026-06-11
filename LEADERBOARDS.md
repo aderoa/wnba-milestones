@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-11 23:14 UTC_
+_Last updated: 2026-06-11 23:15 UTC_
 
 ## Contents
 
@@ -190,7 +190,7 @@ _Last updated: 2026-06-11 23:14 UTC_
 | 169 | Latasha Byears | 1,920 |
 | 170 | Karima Christmas-Kelly | 1,919 |
 | 171 | Jessica Breland | 1,918 |
-| 171 | Myisha Hines-Allen | 1,918 |
+| 171 | **Myisha Hines-Allen** 🔴 | 1,918 |
 | 173 | Nakia Sanford | 1,915 |
 | 174 | Ebony Hoffman | 1,909 |
 | 175 | Candice Wiggins | 1,901 |
@@ -199,7 +199,7 @@ _Last updated: 2026-06-11 23:14 UTC_
 | 178 | Damiris Dantas | 1,830 |
 | 179 | Tianna Hawkins | 1,825 |
 | 180 | Noelle Quinn | 1,824 |
-| 181 | Rachel Banham | 1,823 |
+| 181 | **Rachel Banham** 🔴 | 1,823 |
 | 182 | Danielle Adams | 1,820 |
 | 183 | Charde Houston | 1,797 |
 | 184 | NaLyssa Smith | 1,775 |
@@ -317,7 +317,7 @@ _Last updated: 2026-06-11 23:14 UTC_
 | 91 | Liz Cambage | 1,258 |
 | 92 | Tiffany Hayes | 1,244 |
 | 93 | Ezi Magbegor | 1,243 |
-| 94 | Myisha Hines-Allen | 1,239 |
+| 94 | **Myisha Hines-Allen** 🔴 | 1,239 |
 | 95 | Brianna Turner | 1,237 |
 | 96 | Seimone Augustus | 1,228 |
 | 97 | Kayla McBride | 1,226 |
@@ -550,12 +550,12 @@ _Last updated: 2026-06-11 23:14 UTC_
 | 119 | Veronica Burton | 537 |
 | 120 | Marie Ferdinand-Harris | 528 |
 | 121 | Margo Dydek | 524 |
-| 122 | Myisha Hines-Allen | 520 |
+| 122 | **Myisha Hines-Allen** 🔴 | 520 |
 | 123 | **Caitlin Clark** 🔴 +2 | 519 |
 | 124 | Iziane Castro Marques | 509 |
 | 125 | Brittany Boyd-Jones | 508 |
 | 125 | Chasity Melvin | 508 |
-| 125 | Rachel Banham | 508 |
+| 125 | **Rachel Banham** 🔴 | 508 |
 | 125 | Rhyne Howard | 508 |
 | 129 | Anna DeForge | 503 |
 | 129 | Coco Miller | 503 |
@@ -814,7 +814,7 @@ _Last updated: 2026-06-11 23:14 UTC_
 | 177 | Kelsey Griffin | 75 |
 | 177 | Tianna Hawkins | 75 |
 | 180 | Epiphanny Prince | 74 |
-| 180 | Myisha Hines-Allen | 74 |
+| 180 | **Myisha Hines-Allen** 🔴 | 74 |
 | 182 | Ayana Walker | 73 |
 | 182 | Lindsay Wisdom-Hylton | 73 |
 | 184 | Awak Kuier | 72 |
@@ -1016,7 +1016,7 @@ _Last updated: 2026-06-11 23:14 UTC_
 | 175 | Cynthia Cooper | 192 |
 | 176 | Natisha Hiedeman | 191 |
 | 177 | Alanna Smith | 190 |
-| 178 | Myisha Hines-Allen | 189 |
+| 178 | **Myisha Hines-Allen** 🔴 | 189 |
 | 179 | Tamicha Jackson | 188 |
 | 180 | Michele Timms | 187 |
 | 181 | Charde Houston | 185 |
@@ -1087,7 +1087,7 @@ _Last updated: 2026-06-11 23:14 UTC_
 | 40 | Rhyne Howard | 394 |
 | 42 | Roneeka Hodges | 389 |
 | 43 | Courtney Vandersloot | 385 |
-| 44 | Rachel Banham | 384 |
+| 44 | **Rachel Banham** 🔴 | 384 |
 | 45 | Briann January | 381 |
 | 46 | Jasmine Thomas | 376 |
 | 47 | Allison Feaster | 372 |
@@ -1212,7 +1212,7 @@ _Last updated: 2026-06-11 23:14 UTC_
 | 166 | Amanda Zahui B | 130 |
 | 166 | Eva Nemcova | 130 |
 | 168 | Crystal Dangerfield | 129 |
-| 169 | Myisha Hines-Allen | 128 |
+| 169 | **Myisha Hines-Allen** 🔴 | 128 |
 | 169 | Ticha Penicheiro | 128 |
 | 171 | Michele Timms | 127 |
 | 172 | Tamecka Dixon | 126 |
@@ -1403,7 +1403,7 @@ _Last updated: 2026-06-11 23:14 UTC_
 | 152 | Hamchetou Maiga-Ba | 385 |
 | 153 | Elizabeth Williams | 384 |
 | 154 | Kamila Vodichkova | 381 |
-| 155 | Myisha Hines-Allen | 380 |
+| 155 | **Myisha Hines-Allen** 🔴 | 380 |
 | 156 | Jessica Breland | 378 |
 | 157 | Armintie Herrington | 377 |
 | 158 | Anna DeForge | 374 |
@@ -1443,7 +1443,7 @@ _Last updated: 2026-06-11 23:14 UTC_
 | 192 | Isabelle Harrison | 300 |
 | 193 | Crystal Robinson | 299 |
 | 194 | Michele Timms | 297 |
-| 195 | Rachel Banham | 295 |
+| 195 | **Rachel Banham** 🔴 | 295 |
 | 196 | Kayla Thornton | 294 |
 | 197 | **Azurá Stevens** 🔴 | 292 |
 | 198 | Natisha Hiedeman | 289 |
@@ -1613,7 +1613,7 @@ _Last updated: 2026-06-11 23:14 UTC_
 | 156 | Sheryl Swoopes | 519 |
 | 158 | Nikki McCray | 517 |
 | 159 | Alex Bentley | 516 |
-| 159 | Myisha Hines-Allen | 516 |
+| 159 | **Myisha Hines-Allen** 🔴 | 516 |
 | 161 | Jantel Lavender | 513 |
 | 162 | Adrienne Goodson | 512 |
 | 162 | Janeth Arcain | 512 |
@@ -1632,7 +1632,7 @@ _Last updated: 2026-06-11 23:14 UTC_
 | 176 | Karima Christmas-Kelly | 494 |
 | 177 | Ann Wauters | 493 |
 | 177 | Riquna Williams | 493 |
-| 179 | Rachel Banham | 490 |
+| 179 | **Rachel Banham** 🔴 | 490 |
 | 180 | Charde Houston | 487 |
 | 181 | Lindsey Harding | 486 |
 | 182 | Cathrine Kraayeveld | 484 |
