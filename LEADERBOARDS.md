@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-11 02:35 UTC_
+_Last updated: 2026-06-11 02:36 UTC_
 
 ## Contents
 
@@ -247,7 +247,7 @@ _Last updated: 2026-06-11 02:35 UTC_
 | 21 | Crystal Langhorne | 2,454 |
 | 22 | Lauren Jackson | 2,444 |
 | 23 | Yolanda Griffith | 2,440 |
-| 24 | **Dearica Hamby** 🔴 +5 | 2,396 |
+| 24 | **Dearica Hamby** 🔴 +6 | 2,397 |
 | 25 | Tangela Smith | 2,328 |
 | 26 | Natasha Howard | 2,253 |
 | 27 | Erika de Souza | 2,220 |
@@ -954,8 +954,8 @@ _Last updated: 2026-06-11 02:35 UTC_
 | 113 | Anna DeForge | 266 |
 | 114 | Brionna Jones | 265 |
 | 115 | Kayla Thornton | 263 |
-| 116 | **Kelsey Plum** 🔴 +2 | 262 |
-| 116 | Michelle Snow | 262 |
+| 115 | **Kelsey Plum** 🔴 +3 | 263 |
+| 117 | Michelle Snow | 262 |
 | 118 | Karima Christmas-Kelly | 261 |
 | 119 | Riquna Williams | 260 |
 | 120 | Noelle Quinn | 256 |
@@ -1532,7 +1532,7 @@ _Last updated: 2026-06-11 02:35 UTC_
 | 76 | Allisha Gray | 726 |
 | 77 | Kristi Toliver | 722 |
 | 78 | Elizabeth Williams | 720 |
-| 79 | **Ariel Atkins** 🔴 +1 | 714 |
+| 79 | **Ariel Atkins** 🔴 +2 | 715 |
 | 80 | Cheryl Ford | 713 |
 | 81 | Jia Perkins | 711 |
 | 82 | Helen Darling | 709 |
