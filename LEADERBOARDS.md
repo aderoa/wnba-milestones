@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-11 23:34 UTC_
+_Last updated: 2026-06-11 23:35 UTC_
 
 ## Contents
 
@@ -236,7 +236,7 @@ _Last updated: 2026-06-11 23:34 UTC_
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | Alyssa Thomas | 2,817 |
-| 13 | **Jonquel Jones** 🔴 +1 | 2,664 |
+| 13 | **Jonquel Jones** 🔴 +2 | 2,665 |
 | 14 | Sancho Lyttle | 2,596 |
 | 15 | A'ja Wilson | 2,574 |
 | 15 | DeLisha Milton-Jones | 2,574 |
@@ -550,7 +550,7 @@ _Last updated: 2026-06-11 23:34 UTC_
 | 119 | Veronica Burton | 537 |
 | 120 | Marie Ferdinand-Harris | 528 |
 | 121 | Margo Dydek | 524 |
-| 122 | **Myisha Hines-Allen** 🔴 +3 | 523 |
+| 122 | **Myisha Hines-Allen** 🔴 +2 | 522 |
 | 123 | **Caitlin Clark** 🔴 +4 | 521 |
 | 124 | Iziane Castro Marques | 509 |
 | 125 | Brittany Boyd-Jones | 508 |
@@ -974,8 +974,8 @@ _Last updated: 2026-06-11 23:34 UTC_
 | 133 | Coco Miller | 237 |
 | 134 | Marissa Coleman | 236 |
 | 135 | Nikki McCray | 235 |
-| 136 | Merlakia Jones | 232 |
-| 136 | **Rhyne Howard** 🔴 | 232 |
+| 136 | **Rhyne Howard** 🔴 +1 | 233 |
+| 137 | Merlakia Jones | 232 |
 | 138 | Ruth Riley | 231 |
 | 139 | Scholanda Dorrell | 230 |
 | 140 | Kara Lawson | 229 |
@@ -1317,7 +1317,7 @@ _Last updated: 2026-06-11 23:34 UTC_
 | 65 | Kelsey Plum | 636 |
 | 67 | Odyssey Sims | 631 |
 | 67 | Svetlana Abrosimova | 631 |
-| 69 | **Jonquel Jones** 🔴 | 627 |
+| 69 | **Jonquel Jones** 🔴 +1 | 628 |
 | 70 | Rebekkah Brunson | 615 |
 | 71 | Seimone Augustus | 613 |
 | 72 | Tiffany Hayes | 610 |
