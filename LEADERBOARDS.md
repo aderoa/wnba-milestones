@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-11 23:43 UTC_
+_Last updated: 2026-06-11 23:44 UTC_
 
 ## Contents
 
@@ -188,9 +188,9 @@ _Last updated: 2026-06-11 23:43 UTC_
 | 167 | Cathrine Kraayeveld | 1,926 |
 | 168 | Roneeka Hodges | 1,925 |
 | 169 | Latasha Byears | 1,920 |
-| 170 | Karima Christmas-Kelly | 1,919 |
-| 171 | Jessica Breland | 1,918 |
-| 171 | **Myisha Hines-Allen** 🔴 | 1,918 |
+| 169 | **Myisha Hines-Allen** 🔴 +2 | 1,920 |
+| 171 | Karima Christmas-Kelly | 1,919 |
+| 172 | Jessica Breland | 1,918 |
 | 173 | Nakia Sanford | 1,915 |
 | 174 | Ebony Hoffman | 1,909 |
 | 175 | Candice Wiggins | 1,901 |
@@ -496,7 +496,7 @@ _Last updated: 2026-06-11 23:43 UTC_
 | 65 | Tully Bevilaqua | 853 |
 | 66 | Brittney Sykes | 852 |
 | 67 | Jia Perkins | 837 |
-| 68 | **Kelsey Mitchell** 🔴 | 821 |
+| 68 | **Kelsey Mitchell** 🔴 +1 | 822 |
 | 69 | Andrea Stinson | 810 |
 | 70 | Tina Thompson | 803 |
 | 71 | Epiphanny Prince | 800 |
@@ -1296,7 +1296,7 @@ _Last updated: 2026-06-11 23:43 UTC_
 | 45 | Renee Montgomery | 697 |
 | 46 | Temeka Johnson | 696 |
 | 47 | Penny Taylor | 695 |
-| 48 | **Natasha Cloud** 🔴 | 692 |
+| 48 | **Natasha Cloud** 🔴 +1 | 693 |
 | 49 | Erica Wheeler | 690 |
 | 50 | Dominique Canty | 685 |
 | 51 | DeMya Walker | 684 |
@@ -1520,7 +1520,7 @@ _Last updated: 2026-06-11 23:43 UTC_
 | 64 | Erica Wheeler | 787 |
 | 65 | Sue Bird | 775 |
 | 66 | Sheri Sam | 766 |
-| 67 | **Natasha Cloud** 🔴 +1 | 756 |
+| 67 | **Natasha Cloud** 🔴 +2 | 757 |
 | 68 | Kia Vaughn | 755 |
 | 69 | Vickie Johnson | 752 |
 | 70 | Kara Braxton | 748 |
