@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-11 23:51 UTC_
+_Last updated: 2026-06-11 23:52 UTC_
 
 ## Contents
 
@@ -118,7 +118,7 @@ _Last updated: 2026-06-11 23:51 UTC_
 | 97 | Marie Ferdinand-Harris | 3,001 |
 | 98 | Emma Meesseman | 2,966 |
 | 99 | **Natasha Cloud** 🔴 +4 | 2,956 |
-| 100 | **Elizabeth Williams** 🔴 | 2,896 |
+| 100 | **Elizabeth Williams** 🔴 +2 | 2,898 |
 | 101 | Natalie Williams | 2,894 |
 | 102 | Jennifer Gillom | 2,888 |
 | 103 | Iziane Castro Marques | 2,862 |
@@ -312,8 +312,8 @@ _Last updated: 2026-06-11 23:51 UTC_
 | 86 | Jayne Appel Marinelli | 1,326 |
 | 87 | Betty Lennox | 1,296 |
 | 88 | Tari Phillips | 1,274 |
-| 89 | **Azurá Stevens** 🔴 +5 | 1,261 |
-| 89 | Janel McCarville | 1,261 |
+| 89 | **Azurá Stevens** 🔴 +6 | 1,262 |
+| 90 | Janel McCarville | 1,261 |
 | 91 | Liz Cambage | 1,258 |
 | 92 | Tiffany Hayes | 1,244 |
 | 93 | Ezi Magbegor | 1,243 |
@@ -938,7 +938,7 @@ _Last updated: 2026-06-11 23:51 UTC_
 | 97 | Kedra Holland-Corn | 301 |
 | 98 | Lindsey Harding | 295 |
 | 99 | Janel McCarville | 294 |
-| 100 | **Elizabeth Williams** 🔴 | 292 |
+| 100 | **Elizabeth Williams** 🔴 +1 | 293 |
 | 101 | Kelly Miller | 290 |
 | 102 | Glory Johnson | 289 |
 | 103 | Essence Carson | 285 |
@@ -1425,9 +1425,9 @@ _Last updated: 2026-06-11 23:51 UTC_
 | 173 | Diamond DeShields | 333 |
 | 175 | Charde Houston | 331 |
 | 176 | **Satou Sabally** 🔴 | 330 |
-| 177 | **Caitlin Clark** 🔴 +2 | 326 |
-| 177 | Erlana Larkins | 326 |
-| 177 | Rita Williams | 326 |
+| 177 | **Caitlin Clark** 🔴 +3 | 327 |
+| 178 | Erlana Larkins | 326 |
+| 178 | Rita Williams | 326 |
 | 180 | Le'coe Willingham | 325 |
 | 181 | Olympia Scott | 324 |
 | 182 | Gabby Williams | 320 |
