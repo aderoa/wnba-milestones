@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-11 00:00 UTC
+
+- **Leila Lacan** reached **300** career points (now 300) — _3.3 - 2nd — CON @ TOR_
+
 ## 2026-06-10 23:39 UTC
 
 - **Brittney Sykes** passed **Devereaux Peters**, **Nicky Anosike**, and **Seimone Augustus** for **#86** all-time in blocks (career 134) — _7:30 - 2nd — CON @ TOR_
