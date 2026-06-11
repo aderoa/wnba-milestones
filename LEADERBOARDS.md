@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-11 04:16 UTC_
+_Last updated: 2026-06-11 04:17 UTC_
 
 ## Contents
 
@@ -107,7 +107,7 @@ _Last updated: 2026-06-11 04:16 UTC_
 | 86 | Margo Dydek | 3,214 |
 | 87 | **Stefanie Dolson** 🔴 +2 | 3,197 |
 | 88 | Danielle Robinson | 3,160 |
-| 89 | **Erica Wheeler** 🔴 +8 | 3,152 |
+| 89 | **Erica Wheeler** 🔴 +10 | 3,154 |
 | 90 | Wendy Palmer | 3,135 |
 | 91 | Shavonte Zellous | 3,103 |
 | 92 | Briann January | 3,082 |
