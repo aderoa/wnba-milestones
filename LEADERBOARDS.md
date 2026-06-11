@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-11 23:06 UTC_
+_Last updated: 2026-06-11 23:07 UTC_
 
 ## Contents
 
@@ -295,7 +295,7 @@ _Last updated: 2026-06-11 23:06 UTC_
 | 69 | Alana Beard | 1,420 |
 | 70 | Nakia Sanford | 1,419 |
 | 71 | Kara Braxton | 1,387 |
-| 72 | **Monique Billings** 🔴 | 1,385 |
+| 72 | **Monique Billings** 🔴 +1 | 1,386 |
 | 73 | Allisha Gray | 1,384 |
 | 74 | Courtney Vandersloot | 1,383 |
 | 74 | Katie Smith | 1,383 |
@@ -314,7 +314,7 @@ _Last updated: 2026-06-11 23:06 UTC_
 | 88 | Tari Phillips | 1,274 |
 | 89 | Janel McCarville | 1,261 |
 | 90 | Liz Cambage | 1,258 |
-| 91 | **Azurá Stevens** 🔴 | 1,256 |
+| 91 | **Azurá Stevens** 🔴 +1 | 1,257 |
 | 92 | Tiffany Hayes | 1,244 |
 | 93 | Ezi Magbegor | 1,243 |
 | 94 | Myisha Hines-Allen | 1,239 |
@@ -1610,8 +1610,8 @@ _Last updated: 2026-06-11 23:06 UTC_
 | 153 | Sophie Cunningham | 523 |
 | 155 | Kayla McBride | 522 |
 | 156 | Sheryl Swoopes | 519 |
-| 157 | **Monique Billings** 🔴 | 517 |
-| 157 | Nikki McCray | 517 |
+| 157 | **Monique Billings** 🔴 +1 | 518 |
+| 158 | Nikki McCray | 517 |
 | 159 | Alex Bentley | 516 |
 | 159 | Myisha Hines-Allen | 516 |
 | 161 | Jantel Lavender | 513 |
