@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-11T03:45:00+00:00",
+    "text": "Ariel Atkins passed Tiffany Hayes for #54 all-time in steals (career 383) \u2014 up from #55 entering today \u2014 (7:51 - 4th \u2014 LA @ SEA)",
+    "kind": "rank_pass",
+    "player": "Ariel Atkins",
+    "stat": "steals",
+    "rank": 54,
+    "passed_players": [
+      "Tiffany Hayes"
+    ],
+    "new_total": 383
+  },
+  {
     "ts": "2026-06-11T03:22:00+00:00",
     "text": "Kelsey Plum passed Kayla Thornton for #115 all-time in steals (career 264) \u2014 up from #118 entering today \u2014 (4:13 - 3rd \u2014 LA @ SEA)",
     "kind": "rank_pass",
@@ -2951,17 +2963,5 @@
       "Brianna Turner"
     ],
     "new_total": 234
-  },
-  {
-    "ts": "2026-06-06T01:15:00+00:00",
-    "text": "Azur\u00e1 Stevens passed Kia Nurse for #190 all-time in fouls (career 474) \u2014 up from #192 entering today \u2014 (9:24 - 4th \u2014 CON @ CHI)",
-    "kind": "rank_pass",
-    "player": "Azur\u00e1 Stevens",
-    "stat": "fouls",
-    "rank": 190,
-    "passed_players": [
-      "Kia Nurse"
-    ],
-    "new_total": 474
   }
 ]
