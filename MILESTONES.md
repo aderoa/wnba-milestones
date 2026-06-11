@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-11 03:22 UTC
+
+- **Kelsey Plum** passed **Kayla Thornton** for **#115** all-time in steals (career 264) — up from #118 entering today — _4:13 - 3rd — LA @ SEA_
+
 ## 2026-06-11 01:43 UTC
 
 - **Marina Mabrey** passed **Shekinna Stricklen** for **#23** all-time in three-pointers (career 469) — up from #24 entering today — _3:11 - OT — CON @ TOR_
