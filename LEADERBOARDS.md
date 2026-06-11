@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-11 04:06 UTC_
+_Last updated: 2026-06-11 04:07 UTC_
 
 ## Contents
 
@@ -1508,10 +1508,10 @@ _Last updated: 2026-06-11 04:06 UTC_
 | 52 | Natalie Williams | 847 |
 | 52 | Tamera Young | 847 |
 | 54 | Candace Parker | 834 |
+| 55 | **Dearica Hamby** 🔴 +3 | 832 |
 | 55 | Penny Taylor | 832 |
-| 56 | **Dearica Hamby** 🔴 +2 | 831 |
-| 56 | Dominique Canty | 831 |
-| 56 | Wendy Palmer | 831 |
+| 57 | Dominique Canty | 831 |
+| 57 | Wendy Palmer | 831 |
 | 59 | Shannon Johnson | 813 |
 | 59 | Tully Bevilaqua | 813 |
 | 61 | Skylar Diggins | 812 |
