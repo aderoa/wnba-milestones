@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-11 01:06 UTC_
+_Last updated: 2026-06-11 01:07 UTC_
 
 ## Contents
 
@@ -344,7 +344,7 @@ _Last updated: 2026-06-11 01:06 UTC_
 | 118 | Ann Wauters | 1,105 |
 | 119 | Svetlana Abrosimova | 1,078 |
 | 120 | Le'coe Willingham | 1,054 |
-| 121 | **Isabelle Harrison** 🔴 +2 | 1,051 |
+| 121 | **Isabelle Harrison** 🔴 +3 | 1,052 |
 | 122 | Jackie Young | 1,044 |
 | 123 | Nicole Ohlde | 1,040 |
 | 124 | Tamecka Dixon | 1,035 |
@@ -898,7 +898,7 @@ _Last updated: 2026-06-11 01:06 UTC_
 | 57 | Monique Currie | 378 |
 | 58 | Chamique Holdsclaw | 376 |
 | 59 | Mwadi Mabika | 370 |
-| 60 | **Brittney Sykes** 🔴 | 367 |
+| 60 | **Brittney Sykes** 🔴 +1 | 368 |
 | 61 | Allisha Gray | 360 |
 | 61 | Lauren Jackson | 360 |
 | 61 | Tan White | 360 |
@@ -995,8 +995,8 @@ _Last updated: 2026-06-11 01:06 UTC_
 | 153 | Candice Wiggins | 215 |
 | 153 | Cheyenne Parker-Tyus | 215 |
 | 153 | Elena Baranova | 215 |
-| 157 | **Marina Mabrey** 🔴 +1 | 213 |
-| 157 | Shekinna Stricklen | 213 |
+| 157 | **Marina Mabrey** 🔴 +2 | 214 |
+| 158 | Shekinna Stricklen | 213 |
 | 159 | Nikki Teasley | 211 |
 | 160 | Iziane Castro Marques | 209 |
 | 160 | Tiffany Mitchell | 209 |
@@ -1025,9 +1025,9 @@ _Last updated: 2026-06-11 01:06 UTC_
 | 184 | Rebecca Allen | 183 |
 | 185 | Erin Phillips | 182 |
 | 185 | Sabrina Ionescu | 182 |
-| 187 | **Isabelle Harrison** 🔴 +1 | 181 |
 | 187 | Nakia Sanford | 181 |
-| 189 | Diamond DeShields | 180 |
+| 188 | Diamond DeShields | 180 |
+| 188 | **Isabelle Harrison** 🔴 | 180 |
 | 190 | Bridget Pettis | 177 |
 | 190 | Monique Billings | 177 |
 | 192 | Brittany Boyd-Jones | 176 |
