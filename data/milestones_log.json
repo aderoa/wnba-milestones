@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-11T01:43:00+00:00",
+    "text": "Marina Mabrey passed Shekinna Stricklen for #23 all-time in three-pointers (career 469) \u2014 up from #24 entering today \u2014 (3:11 - OT \u2014 CON @ TOR)",
+    "kind": "rank_pass",
+    "player": "Marina Mabrey",
+    "stat": "three-pointers",
+    "rank": 23,
+    "passed_players": [
+      "Shekinna Stricklen"
+    ],
+    "new_total": 469
+  },
+  {
     "ts": "2026-06-11T01:16:00+00:00",
     "text": "Marina Mabrey passed Dawn Staley for #138 all-time in fouls (career 552) \u2014 up from #141 entering today \u2014 (2:09 - 4th \u2014 CON @ TOR)",
     "kind": "rank_pass",
@@ -2951,17 +2963,5 @@
       "Kelly Miller"
     ],
     "new_total": 291
-  },
-  {
-    "ts": "2026-06-06T00:55:00+00:00",
-    "text": "Natasha Cloud passed Vickie Johnson for #69 all-time in fouls (career 753) \u2014 (5:36 - 3rd \u2014 CON @ CHI)",
-    "kind": "rank_pass",
-    "player": "Natasha Cloud",
-    "stat": "fouls",
-    "rank": 69,
-    "passed_players": [
-      "Vickie Johnson"
-    ],
-    "new_total": 753
   }
 ]
