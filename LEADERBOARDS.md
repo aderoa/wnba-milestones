@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-11 02:31 UTC_
+_Last updated: 2026-06-11 02:32 UTC_
 
 ## Contents
 
@@ -107,7 +107,7 @@ _Last updated: 2026-06-11 02:31 UTC_
 | 86 | Margo Dydek | 3,214 |
 | 87 | **Stefanie Dolson** 🔴 +2 | 3,197 |
 | 88 | Danielle Robinson | 3,160 |
-| 89 | **Erica Wheeler** 🔴 | 3,144 |
+| 89 | **Erica Wheeler** 🔴 +2 | 3,146 |
 | 90 | Wendy Palmer | 3,135 |
 | 91 | Shavonte Zellous | 3,103 |
 | 92 | Briann January | 3,082 |
@@ -228,7 +228,7 @@ _Last updated: 2026-06-11 02:31 UTC_
 | 2 | Sylvia Fowles | 4,005 |
 | 3 | Candace Parker | 3,467 |
 | 4 | Rebekkah Brunson | 3,345 |
-| 5 | **Nneka Ogwumike** 🔴 +3 | 3,340 |
+| 5 | **Nneka Ogwumike** 🔴 +4 | 3,341 |
 | 6 | Tamika Catchings | 3,313 |
 | 7 | Lisa Leslie | 3,303 |
 | 8 | DeWanna Bonner | 3,260 |
@@ -247,7 +247,7 @@ _Last updated: 2026-06-11 02:31 UTC_
 | 21 | Crystal Langhorne | 2,454 |
 | 22 | Lauren Jackson | 2,444 |
 | 23 | Yolanda Griffith | 2,440 |
-| 24 | **Dearica Hamby** 🔴 +4 | 2,395 |
+| 24 | **Dearica Hamby** 🔴 +5 | 2,396 |
 | 25 | Tangela Smith | 2,328 |
 | 26 | Natasha Howard | 2,253 |
 | 27 | Erika de Souza | 2,220 |
