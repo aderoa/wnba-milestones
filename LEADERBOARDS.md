@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-11 23:52 UTC_
+_Last updated: 2026-06-11 23:53 UTC_
 
 ## Contents
 
@@ -65,7 +65,7 @@ _Last updated: 2026-06-11 23:52 UTC_
 | 43 | Jia Perkins | 4,433 |
 | 45 | Kelsey Plum | 4,395 |
 | 46 | Courtney Vandersloot | 4,352 |
-| 47 | **Allisha Gray** 🔴 | 4,339 |
+| 47 | **Allisha Gray** 🔴 +1 | 4,340 |
 | 48 | Sophia Young-Malcolm | 4,300 |
 | 49 | Kahleah Copper | 4,283 |
 | 50 | Plenette Pierson | 4,258 |
@@ -369,7 +369,7 @@ _Last updated: 2026-06-11 23:52 UTC_
 | 143 | Janell Burse | 944 |
 | 144 | Jessica Shepard | 927 |
 | 144 | Merlakia Jones | 927 |
-| 146 | **Satou Sabally** 🔴 | 926 |
+| 144 | **Satou Sabally** 🔴 +1 | 927 |
 | 147 | **Angel Reese** 🔴 +2 | 925 |
 | 148 | Nicky Anosike | 922 |
 | 149 | Janeth Arcain | 916 |
@@ -437,7 +437,7 @@ _Last updated: 2026-06-11 23:52 UTC_
 | 6 | Chelsea Gray | 1,935 |
 | 7 | Alyssa Thomas | 1,903 |
 | 8 | **Skylar Diggins** 🔴 | 1,812 |
-| 9 | **Natasha Cloud** 🔴 +1 | 1,773 |
+| 9 | **Natasha Cloud** 🔴 +2 | 1,774 |
 | 10 | Becky Hammon | 1,705 |
 | 11 | Candace Parker | 1,634 |
 | 12 | Cappie Pondexter | 1,575 |
