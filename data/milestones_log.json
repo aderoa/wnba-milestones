@@ -1,5 +1,14 @@
 [
   {
+    "ts": "2026-06-12T02:09:00+00:00",
+    "text": "Paige Bueckers reached 900 career points (now 901) \u2014 (9:22 - 3rd \u2014 PHX @ DAL)",
+    "kind": "round",
+    "player": "Paige Bueckers",
+    "stat": "points",
+    "value": 900,
+    "new_total": 901
+  },
+  {
     "ts": "2026-06-12T01:36:00+00:00",
     "text": "Satou Sabally passed Teaira McCowan for #144 all-time in points (career 2,223) \u2014 up from #148 entering today \u2014 (4:27 - 4th \u2014 NY @ ATL)",
     "kind": "rank_pass",
@@ -2956,17 +2965,5 @@
       "Jenna O'Hea"
     ],
     "new_total": 133
-  },
-  {
-    "ts": "2026-06-06T02:42:00+00:00",
-    "text": "Arike Ogunbowale passed Angel McCoughtry for #53 all-time in assists (career 916) \u2014 up from #54 entering today \u2014 (6:11 - 2nd \u2014 DAL @ LA)",
-    "kind": "rank_pass",
-    "player": "Arike Ogunbowale",
-    "stat": "assists",
-    "rank": 53,
-    "passed_players": [
-      "Angel McCoughtry"
-    ],
-    "new_total": 916
   }
 ]
