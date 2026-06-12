@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-12 03:44 UTC_
+_Last updated: 2026-06-12 03:45 UTC_
 
 ## Contents
 
@@ -434,7 +434,7 @@ _Last updated: 2026-06-12 03:44 UTC_
 | 3 | Ticha Penicheiro | 2,588 |
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
-| 6 | **Chelsea Gray** 🔴 +2 | 1,937 |
+| 6 | **Chelsea Gray** 🔴 +3 | 1,938 |
 | 7 | Alyssa Thomas | 1,913 |
 | 8 | Skylar Diggins | 1,813 |
 | 9 | Natasha Cloud | 1,777 |
@@ -640,7 +640,7 @@ _Last updated: 2026-06-12 03:44 UTC_
 | 4 | Sylvia Fowles | 721 |
 | 5 | Candace Parker | 619 |
 | 6 | Lauren Jackson | 586 |
-| 7 | **A'ja Wilson** 🔴 +1 | 557 |
+| 7 | **A'ja Wilson** 🔴 +2 | 558 |
 | 8 | Tammy Sutton-Brown | 555 |
 | 9 | Tangela Smith | 554 |
 | 10 | Ruth Riley | 505 |
@@ -1185,9 +1185,9 @@ _Last updated: 2026-06-12 03:44 UTC_
 | 138 | Jennifer Azzi | 158 |
 | 140 | Natasha Howard | 157 |
 | 141 | Alanna Smith | 154 |
-| 142 | Bridget Pettis | 153 |
-| 142 | Jennifer Gillom | 153 |
-| 142 | **Stephanie Talbot** 🔴 | 153 |
+| 141 | **Stephanie Talbot** 🔴 +1 | 154 |
+| 143 | Bridget Pettis | 153 |
+| 143 | Jennifer Gillom | 153 |
 | 145 | Rita Williams | 150 |
 | 146 | Moriah Jefferson | 149 |
 | 146 | Tiffany Mitchell | 149 |
@@ -1269,7 +1269,7 @@ _Last updated: 2026-06-12 03:44 UTC_
 | 18 | Cappie Pondexter | 945 |
 | 19 | Katie Smith | 935 |
 | 20 | Shannon Johnson | 934 |
-| 21 | **Chelsea Gray** 🔴 +4 | 902 |
+| 21 | **Chelsea Gray** 🔴 +5 | 903 |
 | 22 | Taj McWilliams-Franklin | 898 |
 | 23 | Skylar Diggins | 894 |
 | 24 | Candice Dupree | 869 |
