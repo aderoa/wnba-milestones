@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-12 04:02 UTC_
+_Last updated: 2026-06-12 04:03 UTC_
 
 ## Contents
 
@@ -89,7 +89,7 @@ _Last updated: 2026-06-12 04:02 UTC_
 | 68 | Camille Smith | 3,551 |
 | 69 | Napheesa Collier | 3,542 |
 | 69 | Shannon Johnson | 3,542 |
-| 71 | **Jackie Young** 🔴 +14 | 3,536 |
+| 71 | **Jackie Young** 🔴 +16 | 3,538 |
 | 72 | Renee Montgomery | 3,533 |
 | 73 | Jasmine Thomas | 3,522 |
 | 74 | Tamecka Dixon | 3,507 |
