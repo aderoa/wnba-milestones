@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-12 02:39 UTC_
+_Last updated: 2026-06-12 02:40 UTC_
 
 ## Contents
 
@@ -67,7 +67,7 @@ _Last updated: 2026-06-12 02:39 UTC_
 | 46 | Allisha Gray | 4,357 |
 | 47 | Courtney Vandersloot | 4,352 |
 | 48 | Sophia Young-Malcolm | 4,300 |
-| 49 | **Kahleah Copper** 🔴 +7 | 4,290 |
+| 49 | **Kahleah Copper** 🔴 +10 | 4,293 |
 | 50 | Plenette Pierson | 4,258 |
 | 51 | Monique Currie | 4,253 |
 | 52 | Dearica Hamby | 4,243 |
@@ -378,8 +378,8 @@ _Last updated: 2026-06-12 02:39 UTC_
 | 152 | Temeka Johnson | 889 |
 | 153 | Mistie Bass | 888 |
 | 154 | Erica Wheeler | 872 |
-| 155 | **Alanna Smith** 🔴 +3 | 867 |
-| 155 | Shameka Christon | 867 |
+| 155 | **Alanna Smith** 🔴 +4 | 868 |
+| 156 | Shameka Christon | 867 |
 | 157 | Krystal Thomas | 862 |
 | 158 | Nia Coffey | 854 |
 | 159 | Marina Mabrey | 849 |
@@ -435,7 +435,7 @@ _Last updated: 2026-06-12 02:39 UTC_
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
 | 6 | **Chelsea Gray** 🔴 +1 | 1,936 |
-| 7 | **Alyssa Thomas** 🔴 +7 | 1,910 |
+| 7 | **Alyssa Thomas** 🔴 +8 | 1,911 |
 | 8 | Skylar Diggins | 1,813 |
 | 9 | Natasha Cloud | 1,777 |
 | 10 | Becky Hammon | 1,705 |
@@ -851,7 +851,7 @@ _Last updated: 2026-06-12 02:39 UTC_
 | 10 | Angel McCoughtry | 627 |
 | 11 | Katie Douglas | 623 |
 | 12 | DeLisha Milton-Jones | 619 |
-| 13 | **Alyssa Thomas** 🔴 +2 | 578 |
+| 13 | **Alyssa Thomas** 🔴 +3 | 579 |
 | 14 | Taj McWilliams-Franklin | 577 |
 | 15 | Tully Bevilaqua | 571 |
 | 16 | Courtney Vandersloot | 544 |
@@ -1095,7 +1095,7 @@ _Last updated: 2026-06-12 02:39 UTC_
 | 48 | Betty Lennox | 372 |
 | 50 | Epiphanny Prince | 368 |
 | 51 | Kia Nurse | 364 |
-| 52 | **Kahleah Copper** 🔴 | 355 |
+| 52 | **Kahleah Copper** 🔴 +1 | 356 |
 | 53 | Nykesha Sales | 352 |
 | 54 | Cathrine Kraayeveld | 343 |
 | 54 | Elena Delle Donne | 343 |
@@ -1367,8 +1367,8 @@ _Last updated: 2026-06-12 02:39 UTC_
 | 116 | Natalie Williams | 480 |
 | 117 | Ebony Hoffman | 470 |
 | 118 | Elaine Powell | 469 |
-| 119 | **A'ja Wilson** 🔴 +1 | 467 |
-| 119 | Allie Quigley | 467 |
+| 119 | **A'ja Wilson** 🔴 +2 | 468 |
+| 120 | Allie Quigley | 467 |
 | 121 | Allisha Gray | 466 |
 | 122 | Ariel Atkins | 454 |
 | 122 | Kia Vaughn | 454 |
@@ -1599,7 +1599,7 @@ _Last updated: 2026-06-12 02:39 UTC_
 | 143 | Jayne Appel Marinelli | 543 |
 | 143 | Renee Montgomery | 543 |
 | 145 | Marissa Coleman | 541 |
-| 146 | **A'ja Wilson** 🔴 | 537 |
+| 146 | **A'ja Wilson** 🔴 +1 | 538 |
 | 147 | Kristen Rasmussen | 533 |
 | 148 | Amanda Zahui B | 530 |
 | 149 | Damiris Dantas | 529 |
