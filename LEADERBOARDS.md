@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-12 03:42 UTC_
+_Last updated: 2026-06-12 03:43 UTC_
 
 ## Contents
 
@@ -37,7 +37,7 @@ _Last updated: 2026-06-12 03:42 UTC_
 | 16 | Brittney Griner | 6,031 |
 | 17 | Lauren Jackson | 6,005 |
 | 17 | Seimone Augustus | 6,005 |
-| 19 | **A'ja Wilson** 🔴 +28 | 5,970 |
+| 19 | **A'ja Wilson** 🔴 +30 | 5,972 |
 | 20 | Becky Hammon | 5,816 |
 | 21 | Angel McCoughtry | 5,797 |
 | 22 | Skylar Diggins | 5,647 |
@@ -640,7 +640,7 @@ _Last updated: 2026-06-12 03:42 UTC_
 | 4 | Sylvia Fowles | 721 |
 | 5 | Candace Parker | 619 |
 | 6 | Lauren Jackson | 586 |
-| 7 | **A'ja Wilson** 🔴 | 556 |
+| 7 | **A'ja Wilson** 🔴 +1 | 557 |
 | 8 | Tammy Sutton-Brown | 555 |
 | 9 | Tangela Smith | 554 |
 | 10 | Ruth Riley | 505 |
@@ -1366,8 +1366,8 @@ _Last updated: 2026-06-12 03:42 UTC_
 | 115 | Sophia Young-Malcolm | 482 |
 | 116 | Natalie Williams | 480 |
 | 117 | Ebony Hoffman | 470 |
+| 118 | **A'ja Wilson** 🔴 +3 | 469 |
 | 118 | Elaine Powell | 469 |
-| 119 | **A'ja Wilson** 🔴 +2 | 468 |
 | 120 | Allie Quigley | 467 |
 | 121 | Allisha Gray | 466 |
 | 122 | Ariel Atkins | 454 |
