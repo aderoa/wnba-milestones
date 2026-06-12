@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-12 01:13 UTC_
+_Last updated: 2026-06-12 01:14 UTC_
 
 ## Contents
 
@@ -163,8 +163,8 @@ _Last updated: 2026-06-12 01:13 UTC_
 | 142 | Kia Nurse | 2,231 |
 | 143 | Dawn Staley | 2,228 |
 | 144 | Teaira McCowan | 2,221 |
-| 145 | Janel McCarville | 2,215 |
-| 146 | **Satou Sabally** 🔴 +8 | 2,212 |
+| 145 | **Satou Sabally** 🔴 +14 | 2,218 |
+| 146 | Janel McCarville | 2,215 |
 | 147 | Sami Whitcomb | 2,211 |
 | 148 | Sophia Witherspoon | 2,210 |
 | 149 | Ruthie Bolton | 2,175 |
@@ -240,7 +240,7 @@ _Last updated: 2026-06-12 01:13 UTC_
 | 14 | Sancho Lyttle | 2,596 |
 | 15 | A'ja Wilson | 2,574 |
 | 15 | DeLisha Milton-Jones | 2,574 |
-| 17 | **Breanna Stewart** 🔴 +8 | 2,568 |
+| 17 | **Breanna Stewart** 🔴 +9 | 2,569 |
 | 18 | Brittney Griner | 2,556 |
 | 19 | Swin Cash | 2,521 |
 | 20 | Michelle Snow | 2,476 |
@@ -534,7 +534,7 @@ _Last updated: 2026-06-12 01:13 UTC_
 | 103 | Sancho Lyttle | 592 |
 | 104 | Camille Smith | 590 |
 | 105 | Armintie Herrington | 589 |
-| 106 | **Betnijah Laney-Hamilton** 🔴 +1 | 586 |
+| 106 | **Betnijah Laney-Hamilton** 🔴 +3 | 588 |
 | 107 | Tan White | 578 |
 | 108 | Matee Ajavon | 577 |
 | 109 | Gabby Williams | 572 |
@@ -1145,7 +1145,7 @@ _Last updated: 2026-06-12 01:13 UTC_
 | 99 | Stacey Dales | 232 |
 | 100 | Elena Baranova | 224 |
 | 101 | Essence Carson | 223 |
-| 102 | **Satou Sabally** 🔴 +2 | 220 |
+| 102 | **Satou Sabally** 🔴 +4 | 222 |
 | 103 | Kelly Mazzante | 218 |
 | 103 | Sheri Sam | 218 |
 | 105 | **Damiris Dantas** 🔴 | 211 |
