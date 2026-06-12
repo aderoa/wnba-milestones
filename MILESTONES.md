@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-12 03:28 UTC
+
+- **Jackie Young** passed **Isabelle Harrison** for **#121** all-time in rebounds (career 1,050) — up from #122 entering today — _4:18 - 3rd — LV @ POR_
+
 ## 2026-06-12 03:26 UTC
 
 - **NaLyssa Smith** passed **Kara Lawson** for **#197** all-time in fouls (career 458) — up from #198 entering today — _4:53 - 3rd — LV @ POR_

@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-12 03:27 UTC_
+_Last updated: 2026-06-12 03:28 UTC_
 
 ## Contents
 
@@ -37,7 +37,7 @@ _Last updated: 2026-06-12 03:27 UTC_
 | 16 | Brittney Griner | 6,031 |
 | 17 | Lauren Jackson | 6,005 |
 | 17 | Seimone Augustus | 6,005 |
-| 19 | **A'ja Wilson** 🔴 +25 | 5,967 |
+| 19 | **A'ja Wilson** 🔴 +26 | 5,968 |
 | 20 | Becky Hammon | 5,816 |
 | 21 | Angel McCoughtry | 5,797 |
 | 22 | Skylar Diggins | 5,647 |
@@ -290,7 +290,7 @@ _Last updated: 2026-06-12 03:27 UTC_
 | 64 | Sue Bird | 1,466 |
 | 65 | Alysha Clark | 1,465 |
 | 66 | Nicole Powell | 1,457 |
-| 67 | **Cheyenne Parker-Tyus** 🔴 +1 | 1,443 |
+| 67 | **Cheyenne Parker-Tyus** 🔴 +2 | 1,444 |
 | 68 | Tamera Young | 1,433 |
 | 69 | Alana Beard | 1,420 |
 | 70 | Nakia Sanford | 1,419 |
@@ -344,8 +344,8 @@ _Last updated: 2026-06-12 03:27 UTC_
 | 118 | Ann Wauters | 1,105 |
 | 119 | Svetlana Abrosimova | 1,078 |
 | 120 | Le'coe Willingham | 1,054 |
-| 121 | Isabelle Harrison | 1,049 |
-| 121 | **Jackie Young** 🔴 +5 | 1,049 |
+| 121 | **Jackie Young** 🔴 +6 | 1,050 |
+| 122 | Isabelle Harrison | 1,049 |
 | 123 | Nicole Ohlde | 1,040 |
 | 124 | Tamecka Dixon | 1,035 |
 | 125 | Kamila Vodichkova | 1,031 |
@@ -872,8 +872,8 @@ _Last updated: 2026-06-12 03:27 UTC_
 | 30 | Tangela Smith | 455 |
 | 32 | Tina Thompson | 452 |
 | 33 | Maya Moore | 449 |
+| 34 | **Jewell Loyd** 🔴 +2 | 447 |
 | 34 | Natasha Howard | 447 |
-| 35 | **Jewell Loyd** 🔴 +1 | 446 |
 | 36 | **Chelsea Gray** 🔴 | 445 |
 | 37 | Sheri Sam | 438 |
 | 38 | Camille Smith | 437 |
