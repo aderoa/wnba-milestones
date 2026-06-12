@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-12 02:48 UTC_
+_Last updated: 2026-06-12 02:49 UTC_
 
 ## Contents
 
@@ -231,7 +231,7 @@ _Last updated: 2026-06-12 02:48 UTC_
 | 5 | Nneka Ogwumike | 3,337 |
 | 6 | Tamika Catchings | 3,313 |
 | 7 | Lisa Leslie | 3,303 |
-| 8 | **DeWanna Bonner** 🔴 +4 | 3,264 |
+| 8 | **DeWanna Bonner** 🔴 +5 | 3,265 |
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
@@ -910,9 +910,9 @@ _Last updated: 2026-06-12 02:48 UTC_
 | 69 | Vicky Bullett | 353 |
 | 70 | Svetlana Abrosimova | 352 |
 | 71 | Natasha Cloud | 349 |
-| 72 | **A'ja Wilson** 🔴 | 346 |
-| 72 | **Arike Ogunbowale** 🔴 +1 | 346 |
-| 72 | Janeth Arcain | 346 |
+| 72 | **Arike Ogunbowale** 🔴 +2 | 347 |
+| 73 | **A'ja Wilson** 🔴 | 346 |
+| 73 | Janeth Arcain | 346 |
 | 75 | Helen Darling | 343 |
 | 76 | Andrea Stinson | 342 |
 | 77 | Armintie Herrington | 340 |
@@ -1495,7 +1495,7 @@ _Last updated: 2026-06-12 02:48 UTC_
 | 39 | **DeWanna Bonner** 🔴 +1 | 913 |
 | 39 | Ticha Penicheiro | 913 |
 | 41 | Shavonte Zellous | 907 |
-| 42 | **Alysha Clark** 🔴 +1 | 897 |
+| 42 | **Alysha Clark** 🔴 +2 | 898 |
 | 43 | Jonquel Jones | 895 |
 | 44 | DeMya Walker | 882 |
 | 45 | Candice Dupree | 876 |
