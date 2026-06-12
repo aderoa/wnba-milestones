@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-12 02:09 UTC_
+_Last updated: 2026-06-12 02:10 UTC_
 
 ## Contents
 
@@ -37,7 +37,7 @@ _Last updated: 2026-06-12 02:09 UTC_
 | 16 | Brittney Griner | 6,031 |
 | 17 | Lauren Jackson | 6,005 |
 | 17 | Seimone Augustus | 6,005 |
-| 19 | **A'ja Wilson** 🔴 +2 | 5,944 |
+| 19 | **A'ja Wilson** 🔴 +4 | 5,946 |
 | 20 | Becky Hammon | 5,816 |
 | 21 | Angel McCoughtry | 5,797 |
 | 22 | Skylar Diggins | 5,647 |
@@ -235,7 +235,7 @@ _Last updated: 2026-06-12 02:09 UTC_
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
-| 12 | **Alyssa Thomas** 🔴 +6 | 2,823 |
+| 12 | **Alyssa Thomas** 🔴 +7 | 2,824 |
 | 13 | Jonquel Jones | 2,673 |
 | 14 | Sancho Lyttle | 2,596 |
 | 15 | **A'ja Wilson** 🔴 | 2,574 |
@@ -367,7 +367,7 @@ _Last updated: 2026-06-12 02:09 UTC_
 | 141 | Dominique Canty | 961 |
 | 142 | Armintie Herrington | 960 |
 | 143 | Janell Burse | 944 |
-| 144 | **Jessica Shepard** 🔴 +6 | 933 |
+| 144 | **Jessica Shepard** 🔴 +7 | 934 |
 | 145 | Angel Reese | 932 |
 | 146 | Satou Sabally | 929 |
 | 147 | Merlakia Jones | 927 |
@@ -434,7 +434,7 @@ _Last updated: 2026-06-12 02:09 UTC_
 | 3 | Ticha Penicheiro | 2,588 |
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
-| 6 | **Chelsea Gray** 🔴 | 1,935 |
+| 6 | **Chelsea Gray** 🔴 +1 | 1,936 |
 | 7 | **Alyssa Thomas** 🔴 +5 | 1,908 |
 | 8 | Skylar Diggins | 1,813 |
 | 9 | Natasha Cloud | 1,777 |
@@ -1261,7 +1261,7 @@ _Last updated: 2026-06-12 02:09 UTC_
 | 10 | Candace Parker | 1,062 |
 | 11 | Tamika Catchings | 1,041 |
 | 12 | Tina Charles | 1,040 |
-| 13 | **Alyssa Thomas** 🔴 +2 | 1,005 |
+| 13 | **Alyssa Thomas** 🔴 +3 | 1,006 |
 | 14 | Lindsay Whalen | 1,002 |
 | 15 | Sylvia Fowles | 961 |
 | 16 | Tanisha Wright | 954 |
@@ -1269,7 +1269,7 @@ _Last updated: 2026-06-12 02:09 UTC_
 | 18 | Cappie Pondexter | 945 |
 | 19 | Katie Smith | 935 |
 | 20 | Shannon Johnson | 934 |
-| 21 | **Chelsea Gray** 🔴 +1 | 899 |
+| 21 | **Chelsea Gray** 🔴 +2 | 900 |
 | 22 | Taj McWilliams-Franklin | 898 |
 | 23 | Skylar Diggins | 894 |
 | 24 | Candice Dupree | 869 |
@@ -1485,7 +1485,7 @@ _Last updated: 2026-06-12 02:09 UTC_
 | 29 | Brittney Griner | 980 |
 | 30 | Nakia Sanford | 979 |
 | 31 | Asjha Jones | 971 |
-| 32 | **Alyssa Thomas** 🔴 | 954 |
+| 32 | **Alyssa Thomas** 🔴 +1 | 955 |
 | 33 | Margo Dydek | 950 |
 | 34 | Sancho Lyttle | 947 |
 | 35 | Mwadi Mabika | 941 |
