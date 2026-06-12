@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-12 01:32 UTC_
+_Last updated: 2026-06-12 01:33 UTC_
 
 ## Contents
 
@@ -183,7 +183,7 @@ _Last updated: 2026-06-12 01:32 UTC_
 | 162 | Bria Hartley | 1,967 |
 | 163 | Chiney Ogwumike | 1,964 |
 | 164 | Nicole Ohlde | 1,959 |
-| 165 | **Aliyah Boston** 🔴 +28 | 1,956 |
+| 165 | **Aliyah Boston** 🔴 +30 | 1,958 |
 | 166 | Kedra Holland-Corn | 1,938 |
 | 167 | Cathrine Kraayeveld | 1,926 |
 | 168 | Roneeka Hodges | 1,925 |
@@ -240,7 +240,7 @@ _Last updated: 2026-06-12 01:32 UTC_
 | 14 | Sancho Lyttle | 2,596 |
 | 15 | A'ja Wilson | 2,574 |
 | 15 | DeLisha Milton-Jones | 2,574 |
-| 17 | **Breanna Stewart** 🔴 +10 | 2,570 |
+| 17 | **Breanna Stewart** 🔴 +11 | 2,571 |
 | 18 | Brittney Griner | 2,556 |
 | 19 | Swin Cash | 2,521 |
 | 20 | Michelle Snow | 2,476 |
@@ -335,7 +335,7 @@ _Last updated: 2026-06-12 01:32 UTC_
 | 109 | Andrea Stinson | 1,127 |
 | 109 | Tamika Raymond | 1,127 |
 | 111 | Adrienne Goodson | 1,126 |
-| 112 | **Aliyah Boston** 🔴 +7 | 1,117 |
+| 112 | **Aliyah Boston** 🔴 +9 | 1,119 |
 | 113 | **Natasha Cloud** 🔴 +4 | 1,116 |
 | 114 | NaLyssa Smith | 1,115 |
 | 115 | Deanna Nolan | 1,112 |
@@ -1330,7 +1330,7 @@ _Last updated: 2026-06-12 01:32 UTC_
 | 79 | Brittney Sykes | 579 |
 | 80 | Helen Darling | 575 |
 | 80 | Nykesha Sales | 575 |
-| 82 | **Breanna Stewart** 🔴 +3 | 573 |
+| 82 | **Breanna Stewart** 🔴 +4 | 574 |
 | 83 | Andrea Stinson | 571 |
 | 84 | Kara Braxton | 570 |
 | 85 | **Kelsey Mitchell** 🔴 +2 | 565 |
@@ -1495,7 +1495,7 @@ _Last updated: 2026-06-12 01:32 UTC_
 | 39 | Ticha Penicheiro | 913 |
 | 40 | **DeWanna Bonner** 🔴 | 912 |
 | 41 | Shavonte Zellous | 907 |
-| 42 | **Alysha Clark** 🔴 | 896 |
+| 42 | **Alysha Clark** 🔴 +1 | 897 |
 | 43 | **Jonquel Jones** 🔴 +4 | 894 |
 | 44 | DeMya Walker | 882 |
 | 45 | Candice Dupree | 876 |
@@ -1520,7 +1520,7 @@ _Last updated: 2026-06-12 01:32 UTC_
 | 64 | Erica Wheeler | 787 |
 | 65 | Sue Bird | 775 |
 | 66 | Sheri Sam | 766 |
-| 67 | **Natasha Cloud** 🔴 +6 | 761 |
+| 67 | **Natasha Cloud** 🔴 +5 | 760 |
 | 68 | Kia Vaughn | 755 |
 | 69 | Vickie Johnson | 752 |
 | 70 | Kara Braxton | 748 |
@@ -1552,8 +1552,8 @@ _Last updated: 2026-06-12 01:32 UTC_
 | 94 | Temeka Johnson | 680 |
 | 97 | Kelly Miller | 676 |
 | 98 | Cheyenne Parker-Tyus | 674 |
+| 99 | **Breanna Stewart** 🔴 +2 | 667 |
 | 99 | Chamique Holdsclaw | 667 |
-| 100 | **Breanna Stewart** 🔴 +1 | 666 |
 | 101 | Tianna Hawkins | 662 |
 | 102 | Jewell Loyd | 661 |
 | 102 | Kayla Thornton | 661 |
