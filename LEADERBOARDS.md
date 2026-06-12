@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-12 02:52 UTC_
+_Last updated: 2026-06-12 02:53 UTC_
 
 ## Contents
 
@@ -37,7 +37,7 @@ _Last updated: 2026-06-12 02:52 UTC_
 | 16 | Brittney Griner | 6,031 |
 | 17 | Lauren Jackson | 6,005 |
 | 17 | Seimone Augustus | 6,005 |
-| 19 | **A'ja Wilson** 🔴 +8 | 5,950 |
+| 19 | **A'ja Wilson** 🔴 +9 | 5,951 |
 | 20 | Becky Hammon | 5,816 |
 | 21 | Angel McCoughtry | 5,797 |
 | 22 | Skylar Diggins | 5,647 |
@@ -90,7 +90,7 @@ _Last updated: 2026-06-12 02:52 UTC_
 | 69 | Napheesa Collier | 3,542 |
 | 69 | Shannon Johnson | 3,542 |
 | 71 | Renee Montgomery | 3,533 |
-| 72 | **Jackie Young** 🔴 +8 | 3,530 |
+| 72 | **Jackie Young** 🔴 +10 | 3,532 |
 | 73 | Jasmine Thomas | 3,522 |
 | 74 | Tamecka Dixon | 3,507 |
 | 75 | Tammy Sutton-Brown | 3,498 |
@@ -231,7 +231,7 @@ _Last updated: 2026-06-12 02:52 UTC_
 | 5 | Nneka Ogwumike | 3,337 |
 | 6 | Tamika Catchings | 3,313 |
 | 7 | Lisa Leslie | 3,303 |
-| 8 | **DeWanna Bonner** 🔴 +6 | 3,266 |
+| 8 | **DeWanna Bonner** 🔴 +7 | 3,267 |
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
@@ -521,7 +521,7 @@ _Last updated: 2026-06-12 02:52 UTC_
 | 89 | Plenette Pierson | 651 |
 | 91 | Brittney Griner | 648 |
 | 92 | Alex Bentley | 645 |
-| 93 | **A'ja Wilson** 🔴 +1 | 638 |
+| 93 | **A'ja Wilson** 🔴 +2 | 639 |
 | 94 | Asjha Jones | 637 |
 | 95 | Jennifer Azzi | 636 |
 | 96 | Jonquel Jones | 630 |
