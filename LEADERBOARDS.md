@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-12 01:06 UTC_
+_Last updated: 2026-06-12 01:07 UTC_
 
 ## Contents
 
@@ -315,9 +315,9 @@ _Last updated: 2026-06-12 01:06 UTC_
 | 89 | **Azurá Stevens** 🔴 +8 | 1,264 |
 | 90 | Janel McCarville | 1,261 |
 | 91 | Liz Cambage | 1,258 |
+| 92 | **Myisha Hines-Allen** 🔴 +5 | 1,244 |
 | 92 | Tiffany Hayes | 1,244 |
-| 93 | Ezi Magbegor | 1,243 |
-| 93 | **Myisha Hines-Allen** 🔴 +4 | 1,243 |
+| 94 | Ezi Magbegor | 1,243 |
 | 95 | Brianna Turner | 1,237 |
 | 96 | Seimone Augustus | 1,228 |
 | 97 | Kayla McBride | 1,226 |
@@ -337,7 +337,7 @@ _Last updated: 2026-06-12 01:06 UTC_
 | 111 | Adrienne Goodson | 1,126 |
 | 112 | **Aliyah Boston** 🔴 +5 | 1,115 |
 | 112 | NaLyssa Smith | 1,115 |
-| 114 | **Natasha Cloud** 🔴 +1 | 1,113 |
+| 114 | **Natasha Cloud** 🔴 +2 | 1,114 |
 | 115 | Deanna Nolan | 1,112 |
 | 116 | Chiney Ogwumike | 1,110 |
 | 117 | Becky Hammon | 1,108 |
@@ -367,10 +367,10 @@ _Last updated: 2026-06-12 01:06 UTC_
 | 141 | Dominique Canty | 961 |
 | 142 | Armintie Herrington | 960 |
 | 143 | Janell Burse | 944 |
+| 144 | **Angel Reese** 🔴 +5 | 928 |
 | 144 | **Satou Sabally** 🔴 +2 | 928 |
-| 145 | **Angel Reese** 🔴 +4 | 927 |
-| 145 | **Jessica Shepard** 🔴 | 927 |
-| 145 | Merlakia Jones | 927 |
+| 146 | **Jessica Shepard** 🔴 | 927 |
+| 146 | Merlakia Jones | 927 |
 | 148 | Nicky Anosike | 922 |
 | 149 | Janeth Arcain | 916 |
 | 150 | Karima Christmas-Kelly | 908 |
@@ -1320,8 +1320,8 @@ _Last updated: 2026-06-12 01:06 UTC_
 | 69 | **Jonquel Jones** 🔴 +2 | 629 |
 | 70 | Rebekkah Brunson | 615 |
 | 71 | Seimone Augustus | 613 |
+| 72 | **Kahleah Copper** 🔴 +1 | 610 |
 | 72 | Tiffany Hayes | 610 |
-| 73 | **Kahleah Copper** 🔴 | 609 |
 | 74 | Teresa Weatherspoon | 601 |
 | 75 | Lindsey Harding | 600 |
 | 75 | Tamika Whitmore | 600 |
