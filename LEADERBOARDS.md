@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-12 02:14 UTC_
+_Last updated: 2026-06-12 02:15 UTC_
 
 ## Contents
 
@@ -1205,7 +1205,7 @@ _Last updated: 2026-06-12 02:14 UTC_
 | 158 | Tanisha Wright | 138 |
 | 160 | Gabby Williams | 137 |
 | 160 | Kaleena Mosqueda-Lewis | 137 |
-| 162 | Karlie Samuelson | 135 |
+| 162 | **Karlie Samuelson** 🔴 | 135 |
 | 163 | Shay Murphy | 134 |
 | 164 | Brooke Wyckoff | 132 |
 | 164 | Jenna O'Hea | 132 |
