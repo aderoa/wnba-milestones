@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-12 02:24 UTC
+
+- **Cheyenne Parker-Tyus** reached **2,600** career points (now 2,601) — _38.2 - 1st — LV @ POR_
+
 ## 2026-06-12 02:09 UTC
 
 - **Paige Bueckers** reached **900** career points (now 901) — _9:22 - 3rd — PHX @ DAL_
