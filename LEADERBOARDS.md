@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-12 01:29 UTC_
+_Last updated: 2026-06-12 01:30 UTC_
 
 ## Contents
 
@@ -240,7 +240,7 @@ _Last updated: 2026-06-12 01:29 UTC_
 | 14 | Sancho Lyttle | 2,596 |
 | 15 | A'ja Wilson | 2,574 |
 | 15 | DeLisha Milton-Jones | 2,574 |
-| 17 | **Breanna Stewart** 🔴 +9 | 2,569 |
+| 17 | **Breanna Stewart** 🔴 +10 | 2,570 |
 | 18 | Brittney Griner | 2,556 |
 | 19 | Swin Cash | 2,521 |
 | 20 | Michelle Snow | 2,476 |
@@ -368,8 +368,8 @@ _Last updated: 2026-06-12 01:29 UTC_
 | 142 | Armintie Herrington | 960 |
 | 143 | Janell Burse | 944 |
 | 144 | **Jessica Shepard** 🔴 +4 | 931 |
-| 145 | **Angel Reese** 🔴 +5 | 928 |
-| 145 | **Satou Sabally** 🔴 +2 | 928 |
+| 145 | **Angel Reese** 🔴 +6 | 929 |
+| 146 | **Satou Sabally** 🔴 +2 | 928 |
 | 147 | Merlakia Jones | 927 |
 | 148 | Nicky Anosike | 922 |
 | 149 | Janeth Arcain | 916 |
@@ -1520,7 +1520,7 @@ _Last updated: 2026-06-12 01:29 UTC_
 | 64 | Erica Wheeler | 787 |
 | 65 | Sue Bird | 775 |
 | 66 | Sheri Sam | 766 |
-| 67 | **Natasha Cloud** 🔴 +5 | 760 |
+| 67 | **Natasha Cloud** 🔴 +6 | 761 |
 | 68 | Kia Vaughn | 755 |
 | 69 | Vickie Johnson | 752 |
 | 70 | Kara Braxton | 748 |
@@ -1640,8 +1640,8 @@ _Last updated: 2026-06-12 01:29 UTC_
 | 184 | Liz Cambage | 483 |
 | 184 | Rhonda Mapp | 483 |
 | 186 | Sami Whitcomb | 480 |
+| 187 | **Azurá Stevens** 🔴 +3 | 477 |
 | 187 | Seimone Augustus | 477 |
-| 188 | **Azurá Stevens** 🔴 +2 | 476 |
 | 189 | Allie Quigley | 475 |
 | 189 | Nia Coffey | 475 |
 | 191 | Kia Nurse | 473 |
