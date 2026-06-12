@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-12 00:55 UTC_
+_Last updated: 2026-06-12 00:56 UTC_
 
 ## Contents
 
@@ -236,11 +236,11 @@ _Last updated: 2026-06-12 00:55 UTC_
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | Alyssa Thomas | 2,817 |
-| 13 | **Jonquel Jones** 🔴 +9 | 2,672 |
+| 13 | **Jonquel Jones** 🔴 +10 | 2,673 |
 | 14 | Sancho Lyttle | 2,596 |
 | 15 | A'ja Wilson | 2,574 |
 | 15 | DeLisha Milton-Jones | 2,574 |
-| 17 | **Breanna Stewart** 🔴 +4 | 2,564 |
+| 17 | **Breanna Stewart** 🔴 +5 | 2,565 |
 | 18 | Brittney Griner | 2,556 |
 | 19 | Swin Cash | 2,521 |
 | 20 | Michelle Snow | 2,476 |
@@ -368,9 +368,9 @@ _Last updated: 2026-06-12 00:55 UTC_
 | 142 | Armintie Herrington | 960 |
 | 143 | Janell Burse | 944 |
 | 144 | **Satou Sabally** 🔴 +2 | 928 |
+| 145 | **Angel Reese** 🔴 +4 | 927 |
 | 145 | Jessica Shepard | 927 |
 | 145 | Merlakia Jones | 927 |
-| 147 | **Angel Reese** 🔴 +3 | 926 |
 | 148 | Nicky Anosike | 922 |
 | 149 | Janeth Arcain | 916 |
 | 150 | Karima Christmas-Kelly | 908 |
@@ -387,8 +387,8 @@ _Last updated: 2026-06-12 00:55 UTC_
 | 161 | Essence Carson | 833 |
 | 162 | Kristi Toliver | 829 |
 | 163 | Marie Ferdinand-Harris | 828 |
-| 164 | Marlies Askamp | 822 |
-| 164 | **Naz Hillmon** 🔴 | 822 |
+| 164 | **Naz Hillmon** 🔴 +1 | 823 |
+| 165 | Marlies Askamp | 822 |
 | 166 | Amanda Zahui B | 819 |
 | 166 | Barbara Farris | 819 |
 | 168 | Carolyn Swords | 814 |
@@ -456,7 +456,7 @@ _Last updated: 2026-06-12 00:55 UTC_
 | 25 | Katie Smith | 1,258 |
 | 26 | Kelsey Plum | 1,237 |
 | 27 | Odyssey Sims | 1,228 |
-| 28 | **Jordin Canada** 🔴 +4 | 1,205 |
+| 28 | **Jordin Canada** 🔴 +5 | 1,206 |
 | 29 | Vickie Johnson | 1,202 |
 | 30 | Leilani Mitchell | 1,197 |
 | 31 | DeWanna Bonner | 1,192 |
@@ -524,7 +524,7 @@ _Last updated: 2026-06-12 00:55 UTC_
 | 93 | A'ja Wilson | 637 |
 | 93 | Asjha Jones | 637 |
 | 95 | Jennifer Azzi | 636 |
-| 96 | **Jonquel Jones** 🔴 +2 | 627 |
+| 96 | **Jonquel Jones** 🔴 +3 | 628 |
 | 97 | Natisha Hiedeman | 624 |
 | 98 | Sami Whitcomb | 623 |
 | 99 | Alysha Clark | 616 |
