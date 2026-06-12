@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-12 03:51 UTC_
+_Last updated: 2026-06-12 03:52 UTC_
 
 ## Contents
 
@@ -737,8 +737,8 @@ _Last updated: 2026-06-12 03:51 UTC_
 | 101 | Alyssa Thomas | 123 |
 | 102 | Natalie Williams | 122 |
 | 103 | Ebony Hoffman | 121 |
+| 103 | **Emily Engstler** 🔴 +2 | 121 |
 | 103 | Essence Carson | 121 |
-| 105 | **Emily Engstler** 🔴 +1 | 120 |
 | 106 | Krystal Thomas | 118 |
 | 107 | Andrea Stinson | 117 |
 | 107 | Crystal Langhorne | 117 |
