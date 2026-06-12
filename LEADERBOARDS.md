@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-12 01:22 UTC_
+_Last updated: 2026-06-12 01:23 UTC_
 
 ## Contents
 
@@ -892,8 +892,8 @@ _Last updated: 2026-06-12 01:22 UTC_
 | 51 | Briann January | 386 |
 | 52 | Swin Cash | 384 |
 | 52 | Tina Charles | 384 |
+| 54 | **Jordin Canada** 🔴 +2 | 382 |
 | 54 | Tiffany Hayes | 382 |
-| 55 | **Jordin Canada** 🔴 +1 | 381 |
 | 56 | Ariel Atkins | 380 |
 | 57 | Monique Currie | 378 |
 | 58 | Chamique Holdsclaw | 376 |
@@ -1315,9 +1315,9 @@ _Last updated: 2026-06-12 01:22 UTC_
 | 64 | Ruth Riley | 637 |
 | 65 | Kayla McBride | 636 |
 | 65 | Kelsey Plum | 636 |
+| 67 | **Jonquel Jones** 🔴 +4 | 631 |
 | 67 | Odyssey Sims | 631 |
 | 67 | Svetlana Abrosimova | 631 |
-| 69 | **Jonquel Jones** 🔴 +3 | 630 |
 | 70 | Rebekkah Brunson | 615 |
 | 71 | Seimone Augustus | 613 |
 | 72 | **Kahleah Copper** 🔴 +2 | 611 |
@@ -1645,7 +1645,7 @@ _Last updated: 2026-06-12 01:22 UTC_
 | 189 | Allie Quigley | 475 |
 | 189 | Nia Coffey | 475 |
 | 191 | Kia Nurse | 473 |
-| 192 | **Alanna Smith** 🔴 | 470 |
+| 192 | **Alanna Smith** 🔴 +1 | 471 |
 | 193 | Christi Thomas | 463 |
 | 193 | Nikki Teasley | 463 |
 | 195 | Sue Wicks | 462 |
