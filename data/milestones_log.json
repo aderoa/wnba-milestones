@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-12T01:00:00+00:00",
+    "text": "Natasha Cloud passed Penny Taylor for #47 all-time in turnovers (career 696) \u2014 up from #48 entering today \u2014 (5:16 - 4th \u2014 CHI @ IND)",
+    "kind": "rank_pass",
+    "player": "Natasha Cloud",
+    "stat": "turnovers",
+    "rank": 47,
+    "passed_players": [
+      "Penny Taylor"
+    ],
+    "new_total": 696
+  },
+  {
     "ts": "2026-06-12T00:58:00+00:00",
     "text": "Jonquel Jones passed Vickie Johnson for #54 all-time in points (career 4,233) \u2014 up from #56 entering today \u2014 (5:06 - 3rd \u2014 NY @ ATL)",
     "kind": "rank_pass",
@@ -2954,17 +2966,5 @@
       "Natalie Williams"
     ],
     "new_total": 2896
-  },
-  {
-    "ts": "2026-06-06T01:26:00+00:00",
-    "text": "Azur\u00e1 Stevens passed Allison Feaster for #136 all-time in points (career 2,259) \u2014 up from #137 entering today \u2014 (4:23 - 4th \u2014 CON @ CHI)",
-    "kind": "rank_pass",
-    "player": "Azur\u00e1 Stevens",
-    "stat": "points",
-    "rank": 136,
-    "passed_players": [
-      "Allison Feaster"
-    ],
-    "new_total": 2259
   }
 ]

@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-12 00:59 UTC_
+_Last updated: 2026-06-12 01:00 UTC_
 
 ## Contents
 
@@ -183,12 +183,12 @@ _Last updated: 2026-06-12 00:59 UTC_
 | 162 | Bria Hartley | 1,967 |
 | 163 | Chiney Ogwumike | 1,964 |
 | 164 | Nicole Ohlde | 1,959 |
-| 165 | **Aliyah Boston** 🔴 +23 | 1,951 |
+| 165 | **Aliyah Boston** 🔴 +24 | 1,952 |
 | 166 | Kedra Holland-Corn | 1,938 |
 | 167 | Cathrine Kraayeveld | 1,926 |
 | 168 | Roneeka Hodges | 1,925 |
-| 169 | Latasha Byears | 1,920 |
-| 169 | **Myisha Hines-Allen** 🔴 +2 | 1,920 |
+| 169 | **Myisha Hines-Allen** 🔴 +4 | 1,922 |
+| 170 | Latasha Byears | 1,920 |
 | 171 | Karima Christmas-Kelly | 1,919 |
 | 172 | Jessica Breland | 1,918 |
 | 173 | Nakia Sanford | 1,915 |
@@ -713,8 +713,8 @@ _Last updated: 2026-06-12 00:59 UTC_
 | 77 | Ann Wauters | 153 |
 | 77 | Sue Wicks | 153 |
 | 79 | Jessica Davenport | 151 |
-| 80 | Alison Bales | 148 |
-| 80 | **Aliyah Boston** 🔴 +1 | 148 |
+| 80 | **Aliyah Boston** 🔴 +2 | 149 |
+| 81 | Alison Bales | 148 |
 | 82 | Chamique Holdsclaw | 143 |
 | 83 | Shavonte Zellous | 139 |
 | 84 | Penny Taylor | 136 |
@@ -1294,9 +1294,9 @@ _Last updated: 2026-06-12 00:59 UTC_
 | 43 | Michelle Snow | 723 |
 | 44 | Tamecka Dixon | 716 |
 | 45 | Renee Montgomery | 697 |
+| 46 | **Natasha Cloud** 🔴 +4 | 696 |
 | 46 | Temeka Johnson | 696 |
-| 47 | **Natasha Cloud** 🔴 +3 | 695 |
-| 47 | Penny Taylor | 695 |
+| 48 | Penny Taylor | 695 |
 | 49 | Erica Wheeler | 690 |
 | 50 | Dominique Canty | 685 |
 | 51 | DeMya Walker | 684 |

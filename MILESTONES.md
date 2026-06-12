@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-12 01:00 UTC
+
+- **Natasha Cloud** passed **Penny Taylor** for **#47** all-time in turnovers (career 696) — up from #48 entering today — _5:16 - 4th — CHI @ IND_
+
 ## 2026-06-12 00:58 UTC
 
 - **Jonquel Jones** passed **Vickie Johnson** for **#54** all-time in points (career 4,233) — up from #56 entering today — _5:06 - 3rd — NY @ ATL_
