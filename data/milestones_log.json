@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-12T03:31:00+00:00",
+    "text": "Cheyenne Parker-Tyus passed Cynthia Cooper for #118 all-time in points (career 2,603) \u2014 up from #119 entering today \u2014 (3:35 - 3rd \u2014 LV @ POR)",
+    "kind": "rank_pass",
+    "player": "Cheyenne Parker-Tyus",
+    "stat": "points",
+    "rank": 118,
+    "passed_players": [
+      "Cynthia Cooper"
+    ],
+    "new_total": 2603
+  },
+  {
     "ts": "2026-06-12T03:28:00+00:00",
     "text": "Jackie Young passed Isabelle Harrison for #121 all-time in rebounds (career 1,050) \u2014 up from #122 entering today \u2014 (4:18 - 3rd \u2014 LV @ POR)",
     "kind": "rank_pass",
@@ -2947,17 +2959,5 @@
     "stat": "points",
     "value": 7900,
     "new_total": 7901
-  },
-  {
-    "ts": "2026-06-06T02:57:00+00:00",
-    "text": "Jessica Shepard passed Janeth Arcain for #148 all-time in rebounds (career 917) \u2014 up from #149 entering today \u2014 (3.5 - 2nd \u2014 DAL @ LA)",
-    "kind": "rank_pass",
-    "player": "Jessica Shepard",
-    "stat": "rebounds",
-    "rank": 148,
-    "passed_players": [
-      "Janeth Arcain"
-    ],
-    "new_total": 917
   }
 ]
