@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-12 03:57 UTC_
+_Last updated: 2026-06-12 03:59 UTC_
 
 ## Contents
 
@@ -521,7 +521,7 @@ _Last updated: 2026-06-12 03:57 UTC_
 | 89 | Plenette Pierson | 651 |
 | 91 | Brittney Griner | 648 |
 | 92 | Alex Bentley | 645 |
-| 93 | **A'ja Wilson** 🔴 +3 | 640 |
+| 93 | **A'ja Wilson** 🔴 +4 | 641 |
 | 94 | Asjha Jones | 637 |
 | 95 | Jennifer Azzi | 636 |
 | 96 | Jonquel Jones | 630 |
@@ -825,10 +825,10 @@ _Last updated: 2026-06-12 03:57 UTC_
 | 189 | Marlies Askamp | 71 |
 | 189 | Tanisha Wright | 71 |
 | 191 | Wendy Palmer | 70 |
+| 192 | **Jackie Young** 🔴 +1 | 69 |
 | 192 | Mercedes Russell | 69 |
 | 192 | Rhonda Mapp | 69 |
-| 194 | **Jackie Young** 🔴 | 68 |
-| 194 | Satou Sabally | 68 |
+| 195 | Satou Sabally | 68 |
 | 196 | Shannon Johnson | 67 |
 | 197 | Crystal Robinson | 65 |
 | 197 | Queen Egbo | 65 |
@@ -1184,8 +1184,8 @@ _Last updated: 2026-06-12 03:57 UTC_
 | 138 | Aari McDonald | 158 |
 | 138 | Jennifer Azzi | 158 |
 | 140 | Natasha Howard | 157 |
-| 141 | Alanna Smith | 154 |
-| 141 | **Stephanie Talbot** 🔴 +1 | 154 |
+| 141 | **Stephanie Talbot** 🔴 +2 | 155 |
+| 142 | Alanna Smith | 154 |
 | 143 | Bridget Pettis | 153 |
 | 143 | Jennifer Gillom | 153 |
 | 145 | Rita Williams | 150 |
