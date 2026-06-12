@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-12 01:38 UTC_
+_Last updated: 2026-06-12 01:39 UTC_
 
 ## Contents
 
@@ -143,7 +143,7 @@ _Last updated: 2026-06-12 01:38 UTC_
 | 122 | Glory Johnson | 2,531 |
 | 123 | Nikki McCray | 2,521 |
 | 124 | Crystal Robinson | 2,496 |
-| 125 | **Rhyne Howard** 🔴 +19 | 2,491 |
+| 125 | **Rhyne Howard** 🔴 +22 | 2,494 |
 | 126 | Tiffany Mitchell | 2,480 |
 | 127 | Ruth Riley | 2,434 |
 | 128 | Svetlana Abrosimova | 2,414 |
@@ -456,7 +456,7 @@ _Last updated: 2026-06-12 01:38 UTC_
 | 25 | Katie Smith | 1,258 |
 | 26 | Kelsey Plum | 1,237 |
 | 27 | Odyssey Sims | 1,228 |
-| 28 | **Jordin Canada** 🔴 +6 | 1,207 |
+| 28 | **Jordin Canada** 🔴 +7 | 1,208 |
 | 29 | Vickie Johnson | 1,202 |
 | 30 | Leilani Mitchell | 1,197 |
 | 31 | **DeWanna Bonner** 🔴 | 1,192 |
@@ -973,8 +973,8 @@ _Last updated: 2026-06-12 01:38 UTC_
 | 132 | Shavonte Zellous | 241 |
 | 133 | Coco Miller | 237 |
 | 134 | Marissa Coleman | 236 |
-| 135 | Nikki McCray | 235 |
-| 135 | **Rhyne Howard** 🔴 +3 | 235 |
+| 134 | **Rhyne Howard** 🔴 +4 | 236 |
+| 136 | Nikki McCray | 235 |
 | 137 | Merlakia Jones | 232 |
 | 138 | Ruth Riley | 231 |
 | 139 | Scholanda Dorrell | 230 |
@@ -1082,7 +1082,7 @@ _Last updated: 2026-06-12 01:38 UTC_
 | 36 | Mwadi Mabika | 415 |
 | 37 | Penny Taylor | 407 |
 | 37 | Riquna Williams | 407 |
-| 39 | **Rhyne Howard** 🔴 +4 | 398 |
+| 39 | **Rhyne Howard** 🔴 +5 | 399 |
 | 40 | Jia Perkins | 396 |
 | 41 | **Alysha Clark** 🔴 | 394 |
 | 42 | Roneeka Hodges | 389 |
