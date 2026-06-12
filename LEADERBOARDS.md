@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-12 01:23 UTC_
+_Last updated: 2026-06-12 01:24 UTC_
 
 ## Contents
 
@@ -1645,7 +1645,7 @@ _Last updated: 2026-06-12 01:23 UTC_
 | 189 | Allie Quigley | 475 |
 | 189 | Nia Coffey | 475 |
 | 191 | Kia Nurse | 473 |
-| 192 | **Alanna Smith** 🔴 +1 | 471 |
+| 192 | **Alanna Smith** 🔴 +2 | 472 |
 | 193 | Christi Thomas | 463 |
 | 193 | Nikki Teasley | 463 |
 | 195 | Sue Wicks | 462 |
