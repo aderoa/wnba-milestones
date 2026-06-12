@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-11 23:59 UTC_
+_Last updated: 2026-06-12 00:00 UTC_
 
 ## Contents
 
@@ -294,9 +294,9 @@ _Last updated: 2026-06-11 23:59 UTC_
 | 68 | Tamera Young | 1,433 |
 | 69 | Alana Beard | 1,420 |
 | 70 | Nakia Sanford | 1,419 |
+| 71 | **Allisha Gray** 🔴 +3 | 1,387 |
 | 71 | Kara Braxton | 1,387 |
 | 71 | **Monique Billings** 🔴 +2 | 1,387 |
-| 73 | **Allisha Gray** 🔴 +2 | 1,386 |
 | 74 | Courtney Vandersloot | 1,383 |
 | 74 | Katie Smith | 1,383 |
 | 76 | Ebony Hoffman | 1,376 |
@@ -648,7 +648,7 @@ _Last updated: 2026-06-11 23:59 UTC_
 | 12 | Taj McWilliams-Franklin | 443 |
 | 13 | **Breanna Stewart** 🔴 +1 | 437 |
 | 14 | Tina Charles | 428 |
-| 15 | **Jonquel Jones** 🔴 +1 | 416 |
+| 15 | **Jonquel Jones** 🔴 +2 | 417 |
 | 16 | Michelle Snow | 403 |
 | 17 | Tamika Catchings | 383 |
 | 18 | Tina Thompson | 372 |
@@ -974,7 +974,7 @@ _Last updated: 2026-06-11 23:59 UTC_
 | 133 | Coco Miller | 237 |
 | 134 | Marissa Coleman | 236 |
 | 135 | Nikki McCray | 235 |
-| 136 | **Rhyne Howard** 🔴 +1 | 233 |
+| 136 | **Rhyne Howard** 🔴 +2 | 234 |
 | 137 | Merlakia Jones | 232 |
 | 138 | Ruth Riley | 231 |
 | 139 | Scholanda Dorrell | 230 |
@@ -1330,8 +1330,8 @@ _Last updated: 2026-06-11 23:59 UTC_
 | 79 | Brittney Sykes | 579 |
 | 80 | Helen Darling | 575 |
 | 80 | Nykesha Sales | 575 |
-| 82 | Andrea Stinson | 571 |
-| 82 | **Breanna Stewart** 🔴 +1 | 571 |
+| 82 | **Breanna Stewart** 🔴 +2 | 572 |
+| 83 | Andrea Stinson | 571 |
 | 84 | Kara Braxton | 570 |
 | 85 | Nikki McCray | 565 |
 | 86 | **Kelsey Mitchell** 🔴 | 563 |
