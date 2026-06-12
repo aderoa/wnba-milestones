@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-12 00:48 UTC_
+_Last updated: 2026-06-12 00:49 UTC_
 
 ## Contents
 
@@ -183,7 +183,7 @@ _Last updated: 2026-06-12 00:48 UTC_
 | 162 | Bria Hartley | 1,967 |
 | 163 | Chiney Ogwumike | 1,964 |
 | 164 | Nicole Ohlde | 1,959 |
-| 165 | **Aliyah Boston** 🔴 +17 | 1,945 |
+| 165 | **Aliyah Boston** 🔴 +19 | 1,947 |
 | 166 | Kedra Holland-Corn | 1,938 |
 | 167 | Cathrine Kraayeveld | 1,926 |
 | 168 | Roneeka Hodges | 1,925 |
@@ -317,7 +317,7 @@ _Last updated: 2026-06-12 00:48 UTC_
 | 91 | Liz Cambage | 1,258 |
 | 92 | Tiffany Hayes | 1,244 |
 | 93 | Ezi Magbegor | 1,243 |
-| 94 | **Myisha Hines-Allen** 🔴 +2 | 1,241 |
+| 94 | **Myisha Hines-Allen** 🔴 +3 | 1,242 |
 | 95 | Brianna Turner | 1,237 |
 | 96 | Seimone Augustus | 1,228 |
 | 97 | Kayla McBride | 1,226 |
@@ -549,9 +549,9 @@ _Last updated: 2026-06-12 00:48 UTC_
 | 118 | Michele Timms | 549 |
 | 119 | Veronica Burton | 537 |
 | 120 | Marie Ferdinand-Harris | 528 |
-| 121 | **Caitlin Clark** 🔴 +7 | 524 |
-| 121 | Margo Dydek | 524 |
-| 123 | **Myisha Hines-Allen** 🔴 +2 | 522 |
+| 121 | **Caitlin Clark** 🔴 +8 | 525 |
+| 122 | Margo Dydek | 524 |
+| 123 | **Myisha Hines-Allen** 🔴 +3 | 523 |
 | 124 | Iziane Castro Marques | 509 |
 | 124 | **Rhyne Howard** 🔴 +1 | 509 |
 | 126 | Brittany Boyd-Jones | 508 |
