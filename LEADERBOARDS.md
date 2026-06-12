@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-12 00:53 UTC_
+_Last updated: 2026-06-12 00:54 UTC_
 
 ## Contents
 
@@ -143,7 +143,7 @@ _Last updated: 2026-06-12 00:53 UTC_
 | 122 | Glory Johnson | 2,531 |
 | 123 | Nikki McCray | 2,521 |
 | 124 | Crystal Robinson | 2,496 |
-| 125 | **Rhyne Howard** 🔴 +12 | 2,484 |
+| 125 | **Rhyne Howard** 🔴 +15 | 2,487 |
 | 126 | Tiffany Mitchell | 2,480 |
 | 127 | Ruth Riley | 2,434 |
 | 128 | Svetlana Abrosimova | 2,414 |
@@ -236,7 +236,7 @@ _Last updated: 2026-06-12 00:53 UTC_
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | Alyssa Thomas | 2,817 |
-| 13 | **Jonquel Jones** 🔴 +8 | 2,671 |
+| 13 | **Jonquel Jones** 🔴 +9 | 2,672 |
 | 14 | Sancho Lyttle | 2,596 |
 | 15 | A'ja Wilson | 2,574 |
 | 15 | DeLisha Milton-Jones | 2,574 |
@@ -503,7 +503,7 @@ _Last updated: 2026-06-12 00:53 UTC_
 | 72 | Mwadi Mabika | 774 |
 | 73 | Marina Mabrey | 772 |
 | 74 | Sheri Sam | 745 |
-| 75 | **Allisha Gray** 🔴 | 743 |
+| 75 | **Allisha Gray** 🔴 +1 | 744 |
 | 76 | Monique Currie | 740 |
 | 77 | Elaine Powell | 728 |
 | 78 | Dearica Hamby | 718 |
@@ -552,8 +552,8 @@ _Last updated: 2026-06-12 00:53 UTC_
 | 121 | **Caitlin Clark** 🔴 +8 | 525 |
 | 122 | Margo Dydek | 524 |
 | 123 | **Myisha Hines-Allen** 🔴 +3 | 523 |
-| 124 | Iziane Castro Marques | 509 |
-| 124 | **Rhyne Howard** 🔴 +1 | 509 |
+| 124 | **Rhyne Howard** 🔴 +2 | 510 |
+| 125 | Iziane Castro Marques | 509 |
 | 126 | Brittany Boyd-Jones | 508 |
 | 126 | Chasity Melvin | 508 |
 | 126 | **Rachel Banham** 🔴 | 508 |
@@ -1082,7 +1082,7 @@ _Last updated: 2026-06-12 00:53 UTC_
 | 36 | Mwadi Mabika | 415 |
 | 37 | Penny Taylor | 407 |
 | 37 | Riquna Williams | 407 |
-| 39 | **Rhyne Howard** 🔴 +3 | 397 |
+| 39 | **Rhyne Howard** 🔴 +4 | 398 |
 | 40 | Jia Perkins | 396 |
 | 41 | Alysha Clark | 394 |
 | 42 | Roneeka Hodges | 389 |
@@ -1496,7 +1496,7 @@ _Last updated: 2026-06-12 00:53 UTC_
 | 40 | DeWanna Bonner | 912 |
 | 41 | Shavonte Zellous | 907 |
 | 42 | Alysha Clark | 896 |
-| 43 | **Jonquel Jones** 🔴 +2 | 892 |
+| 43 | **Jonquel Jones** 🔴 +3 | 893 |
 | 44 | DeMya Walker | 882 |
 | 45 | Candice Dupree | 876 |
 | 46 | Murriel Page | 872 |
