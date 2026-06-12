@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-12 01:27 UTC_
+_Last updated: 2026-06-12 01:28 UTC_
 
 ## Contents
 
@@ -32,7 +32,7 @@ _Last updated: 2026-06-12 01:27 UTC_
 | 11 | Katie Smith | 6,450 |
 | 12 | Sylvia Fowles | 6,413 |
 | 13 | Lisa Leslie | 6,251 |
-| 14 | **Breanna Stewart** 🔴 +15 | 6,188 |
+| 14 | **Breanna Stewart** 🔴 +16 | 6,189 |
 | 15 | Jewell Loyd | 6,078 |
 | 16 | Brittney Griner | 6,031 |
 | 17 | Lauren Jackson | 6,005 |
@@ -256,7 +256,7 @@ _Last updated: 2026-06-12 01:27 UTC_
 | 30 | Chamique Holdsclaw | 2,123 |
 | 31 | Chasity Melvin | 2,097 |
 | 32 | Tammy Sutton-Brown | 2,010 |
-| 33 | **Elizabeth Williams** 🔴 +2 | 1,954 |
+| 33 | **Elizabeth Williams** 🔴 +3 | 1,955 |
 | 34 | Cheryl Ford | 1,907 |
 | 35 | Plenette Pierson | 1,834 |
 | 36 | Natalie Williams | 1,832 |
@@ -336,8 +336,8 @@ _Last updated: 2026-06-12 01:27 UTC_
 | 109 | Tamika Raymond | 1,127 |
 | 111 | Adrienne Goodson | 1,126 |
 | 112 | **Aliyah Boston** 🔴 +7 | 1,117 |
-| 113 | NaLyssa Smith | 1,115 |
-| 113 | **Natasha Cloud** 🔴 +3 | 1,115 |
+| 113 | **Natasha Cloud** 🔴 +4 | 1,116 |
+| 114 | NaLyssa Smith | 1,115 |
 | 115 | Deanna Nolan | 1,112 |
 | 116 | Chiney Ogwumike | 1,110 |
 | 117 | Becky Hammon | 1,108 |
@@ -979,9 +979,9 @@ _Last updated: 2026-06-12 01:27 UTC_
 | 138 | Ruth Riley | 231 |
 | 139 | Scholanda Dorrell | 230 |
 | 140 | Kara Lawson | 229 |
+| 141 | **Kelsey Mitchell** 🔴 +2 | 226 |
 | 141 | Wendy Palmer | 226 |
-| 142 | Alexis Hornbuckle | 225 |
-| 142 | **Kelsey Mitchell** 🔴 +1 | 225 |
+| 143 | Alexis Hornbuckle | 225 |
 | 144 | Cheryl Ford | 224 |
 | 145 | Rushia Brown | 221 |
 | 146 | DeMya Walker | 220 |
@@ -1293,9 +1293,9 @@ _Last updated: 2026-06-12 01:27 UTC_
 | 42 | Monique Currie | 724 |
 | 43 | Michelle Snow | 723 |
 | 44 | Tamecka Dixon | 716 |
+| 45 | **Natasha Cloud** 🔴 +5 | 697 |
 | 45 | Renee Montgomery | 697 |
-| 46 | **Natasha Cloud** 🔴 +4 | 696 |
-| 46 | Temeka Johnson | 696 |
+| 47 | Temeka Johnson | 696 |
 | 48 | Penny Taylor | 695 |
 | 49 | Erica Wheeler | 690 |
 | 50 | Dominique Canty | 685 |

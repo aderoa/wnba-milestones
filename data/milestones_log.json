@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-12T01:28:00+00:00",
+    "text": "Natasha Cloud passed Temeka Johnson for #46 all-time in turnovers (career 697) \u2014 up from #48 entering today \u2014 (3:35 - OT \u2014 CHI @ IND)",
+    "kind": "rank_pass",
+    "player": "Natasha Cloud",
+    "stat": "turnovers",
+    "rank": 46,
+    "passed_players": [
+      "Temeka Johnson"
+    ],
+    "new_total": 697
+  },
+  {
     "ts": "2026-06-12T01:25:00+00:00",
     "text": "Awak Kuier passed Cappie Pondexter, Christi Thomas, Olympia Scott, and Sue Bird for #185 all-time in blocks (career 73) \u2014 (End of 1st \u2014 PHX @ DAL)",
     "kind": "rank_pass",
@@ -2957,17 +2969,5 @@
       "Wendy Palmer"
     ],
     "new_total": 518
-  },
-  {
-    "ts": "2026-06-06T02:09:00+00:00",
-    "text": "Nneka Ogwumike passed Arike Ogunbowale for #54 all-time in assists (career 913) \u2014 up from #55 entering today \u2014 (7:28 - 1st \u2014 DAL @ LA)",
-    "kind": "rank_pass",
-    "player": "Nneka Ogwumike",
-    "stat": "assists",
-    "rank": 54,
-    "passed_players": [
-      "Arike Ogunbowale"
-    ],
-    "new_total": 913
   }
 ]
