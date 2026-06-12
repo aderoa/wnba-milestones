@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-12 02:55 UTC
+
+- **DeWanna Bonner** passed **Ticha Penicheiro** for **#39** all-time in fouls (career 914) — up from #40 entering today — _11.7 - 4th — PHX @ DAL_
+
 ## 2026-06-12 02:51 UTC
 
 - **Kahleah Copper** passed **Rebekkah Brunson** for **#133** all-time in assists (career 487) — up from #134 entering today — _1:28 - 4th — PHX @ DAL_

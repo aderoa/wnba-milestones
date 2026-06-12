@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-12T02:55:00+00:00",
+    "text": "DeWanna Bonner passed Ticha Penicheiro for #39 all-time in fouls (career 914) \u2014 up from #40 entering today \u2014 (11.7 - 4th \u2014 PHX @ DAL)",
+    "kind": "rank_pass",
+    "player": "DeWanna Bonner",
+    "stat": "fouls",
+    "rank": 39,
+    "passed_players": [
+      "Ticha Penicheiro"
+    ],
+    "new_total": 914
+  },
+  {
     "ts": "2026-06-12T02:51:00+00:00",
     "text": "Kahleah Copper passed Rebekkah Brunson for #133 all-time in assists (career 487) \u2014 up from #134 entering today \u2014 (1:28 - 4th \u2014 PHX @ DAL)",
     "kind": "rank_pass",
@@ -2948,18 +2960,5 @@
       "Angel McCoughtry"
     ],
     "new_total": 916
-  },
-  {
-    "ts": "2026-06-06T02:53:00+00:00",
-    "text": "Arike Ogunbowale passed Marie Ferdinand-Harris and Sabrina Ionescu for #101 all-time in turnovers (career 519) \u2014 up from #103 entering today \u2014 (2:40 - 2nd \u2014 DAL @ LA)",
-    "kind": "rank_pass",
-    "player": "Arike Ogunbowale",
-    "stat": "turnovers",
-    "rank": 101,
-    "passed_players": [
-      "Marie Ferdinand-Harris",
-      "Sabrina Ionescu"
-    ],
-    "new_total": 519
   }
 ]
