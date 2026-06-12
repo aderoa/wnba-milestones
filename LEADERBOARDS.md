@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-12 02:04 UTC_
+_Last updated: 2026-06-12 02:05 UTC_
 
 ## Contents
 
@@ -336,8 +336,8 @@ _Last updated: 2026-06-12 02:04 UTC_
 | 109 | Tamika Raymond | 1,127 |
 | 111 | Adrienne Goodson | 1,126 |
 | 112 | Aliyah Boston | 1,122 |
+| 113 | **NaLyssa Smith** 🔴 +1 | 1,116 |
 | 113 | Natasha Cloud | 1,116 |
-| 114 | **NaLyssa Smith** 🔴 | 1,115 |
 | 115 | Deanna Nolan | 1,112 |
 | 116 | Chiney Ogwumike | 1,110 |
 | 117 | Becky Hammon | 1,108 |
@@ -1269,8 +1269,8 @@ _Last updated: 2026-06-12 02:04 UTC_
 | 18 | Cappie Pondexter | 945 |
 | 19 | Katie Smith | 935 |
 | 20 | Shannon Johnson | 934 |
-| 21 | **Chelsea Gray** 🔴 | 898 |
-| 21 | Taj McWilliams-Franklin | 898 |
+| 21 | **Chelsea Gray** 🔴 +1 | 899 |
+| 22 | Taj McWilliams-Franklin | 898 |
 | 23 | Skylar Diggins | 894 |
 | 24 | Candice Dupree | 869 |
 | 25 | Alana Beard | 854 |
