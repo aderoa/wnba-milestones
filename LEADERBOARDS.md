@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-12 02:17 UTC_
+_Last updated: 2026-06-12 02:18 UTC_
 
 ## Contents
 
@@ -137,7 +137,7 @@ _Last updated: 2026-06-12 02:17 UTC_
 | 116 | Temeka Johnson | 2,620 |
 | 117 | Leilani Mitchell | 2,618 |
 | 118 | Cynthia Cooper | 2,601 |
-| 119 | Cheyenne Parker-Tyus | 2,599 |
+| 119 | **Cheyenne Parker-Tyus** 🔴 | 2,599 |
 | 120 | Tan White | 2,595 |
 | 121 | Kelly Miller | 2,558 |
 | 122 | Glory Johnson | 2,531 |
@@ -202,7 +202,7 @@ _Last updated: 2026-06-12 02:17 UTC_
 | 181 | Rachel Banham | 1,823 |
 | 182 | Danielle Adams | 1,820 |
 | 183 | Charde Houston | 1,797 |
-| 184 | **NaLyssa Smith** 🔴 +4 | 1,779 |
+| 184 | **NaLyssa Smith** 🔴 +5 | 1,780 |
 | 185 | Kamila Vodichkova | 1,767 |
 | 186 | Tully Bevilaqua | 1,763 |
 | 187 | Sandy Brondello | 1,759 |
@@ -235,7 +235,7 @@ _Last updated: 2026-06-12 02:17 UTC_
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
-| 12 | **Alyssa Thomas** 🔴 +7 | 2,824 |
+| 12 | **Alyssa Thomas** 🔴 +6 | 2,823 |
 | 13 | Jonquel Jones | 2,673 |
 | 14 | Sancho Lyttle | 2,596 |
 | 15 | **A'ja Wilson** 🔴 | 2,574 |
@@ -290,7 +290,7 @@ _Last updated: 2026-06-12 02:17 UTC_
 | 64 | Sue Bird | 1,466 |
 | 65 | **Alysha Clark** 🔴 | 1,465 |
 | 66 | Nicole Powell | 1,457 |
-| 67 | Cheyenne Parker-Tyus | 1,442 |
+| 67 | **Cheyenne Parker-Tyus** 🔴 | 1,442 |
 | 68 | Tamera Young | 1,433 |
 | 69 | Alana Beard | 1,420 |
 | 70 | Nakia Sanford | 1,419 |
@@ -670,7 +670,7 @@ _Last updated: 2026-06-12 02:17 UTC_
 | 34 | Liz Cambage | 264 |
 | 35 | Nneka Ogwumike | 263 |
 | 36 | Swin Cash | 258 |
-| 37 | Cheyenne Parker-Tyus | 257 |
+| 37 | **Cheyenne Parker-Tyus** 🔴 | 257 |
 | 38 | Plenette Pierson | 242 |
 | 39 | Napheesa Collier | 239 |
 | 40 | Emma Meesseman | 238 |
@@ -993,7 +993,7 @@ _Last updated: 2026-06-12 02:17 UTC_
 | 150 | Moriah Jefferson | 216 |
 | 153 | Asjha Jones | 215 |
 | 153 | Candice Wiggins | 215 |
-| 153 | Cheyenne Parker-Tyus | 215 |
+| 153 | **Cheyenne Parker-Tyus** 🔴 | 215 |
 | 153 | Elena Baranova | 215 |
 | 157 | Shekinna Stricklen | 213 |
 | 158 | Marina Mabrey | 212 |
@@ -1367,9 +1367,9 @@ _Last updated: 2026-06-12 02:17 UTC_
 | 116 | Natalie Williams | 480 |
 | 117 | Ebony Hoffman | 470 |
 | 118 | Elaine Powell | 469 |
+| 119 | **A'ja Wilson** 🔴 +1 | 467 |
 | 119 | Allie Quigley | 467 |
-| 120 | **A'ja Wilson** 🔴 | 466 |
-| 120 | Allisha Gray | 466 |
+| 121 | Allisha Gray | 466 |
 | 122 | Ariel Atkins | 454 |
 | 122 | Kia Vaughn | 454 |
 | 124 | Janeth Arcain | 453 |
@@ -1379,7 +1379,7 @@ _Last updated: 2026-06-12 02:17 UTC_
 | 128 | **Jackie Young** 🔴 +1 | 442 |
 | 129 | **Alysha Clark** 🔴 | 440 |
 | 129 | Ann Wauters | 440 |
-| 129 | Cheyenne Parker-Tyus | 440 |
+| 129 | **Cheyenne Parker-Tyus** 🔴 | 440 |
 | 132 | Tiffany Mitchell | 439 |
 | 133 | Kedra Holland-Corn | 438 |
 | 134 | Jennifer Gillom | 434 |
@@ -1551,7 +1551,7 @@ _Last updated: 2026-06-12 02:17 UTC_
 | 94 | Kelsey Plum | 680 |
 | 94 | Temeka Johnson | 680 |
 | 97 | Kelly Miller | 676 |
-| 98 | Cheyenne Parker-Tyus | 674 |
+| 98 | **Cheyenne Parker-Tyus** 🔴 | 674 |
 | 99 | Breanna Stewart | 667 |
 | 99 | Chamique Holdsclaw | 667 |
 | 101 | Tianna Hawkins | 662 |
