@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-12 03:52 UTC_
+_Last updated: 2026-06-12 03:53 UTC_
 
 ## Contents
 
@@ -37,7 +37,7 @@ _Last updated: 2026-06-12 03:52 UTC_
 | 16 | Brittney Griner | 6,031 |
 | 17 | Lauren Jackson | 6,005 |
 | 17 | Seimone Augustus | 6,005 |
-| 19 | **A'ja Wilson** 🔴 +30 | 5,972 |
+| 19 | **A'ja Wilson** 🔴 +32 | 5,974 |
 | 20 | Becky Hammon | 5,816 |
 | 21 | Angel McCoughtry | 5,797 |
 | 22 | Skylar Diggins | 5,647 |
@@ -238,7 +238,7 @@ _Last updated: 2026-06-12 03:52 UTC_
 | 12 | Alyssa Thomas | 2,826 |
 | 13 | Jonquel Jones | 2,673 |
 | 14 | Sancho Lyttle | 2,596 |
-| 15 | **A'ja Wilson** 🔴 +4 | 2,578 |
+| 15 | **A'ja Wilson** 🔴 +5 | 2,579 |
 | 16 | DeLisha Milton-Jones | 2,574 |
 | 17 | Breanna Stewart | 2,571 |
 | 18 | Brittney Griner | 2,556 |
@@ -803,13 +803,13 @@ _Last updated: 2026-06-12 03:52 UTC_
 | 165 | Slobodanka Tuvic | 78 |
 | 168 | Kara Wolters | 77 |
 | 168 | Noelle Quinn | 77 |
+| 168 | **Stephanie Talbot** 🔴 +1 | 77 |
 | 168 | Tierra Ruffin-Pratt | 77 |
-| 171 | Cameron Brink | 76 |
-| 171 | Jennifer Lacy | 76 |
-| 171 | **Stephanie Talbot** 🔴 | 76 |
-| 171 | Sugar Rodgers | 76 |
-| 171 | Tan White | 76 |
-| 171 | Tiffany Jackson | 76 |
+| 172 | Cameron Brink | 76 |
+| 172 | Jennifer Lacy | 76 |
+| 172 | Sugar Rodgers | 76 |
+| 172 | Tan White | 76 |
+| 172 | Tiffany Jackson | 76 |
 | 177 | Karima Christmas-Kelly | 75 |
 | 177 | Kelsey Griffin | 75 |
 | 177 | Myisha Hines-Allen | 75 |
