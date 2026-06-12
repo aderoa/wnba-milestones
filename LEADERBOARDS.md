@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-12 01:19 UTC_
+_Last updated: 2026-06-12 01:20 UTC_
 
 ## Contents
 
@@ -21,7 +21,7 @@ _Last updated: 2026-06-12 01:19 UTC_
 |-----:|--------|------:|
 | 1 | Diana Taurasi | 10,608 |
 | 2 | Tina Charles | 8,396 |
-| 3 | **DeWanna Bonner** 🔴 +2 | 7,912 |
+| 3 | **DeWanna Bonner** 🔴 +4 | 7,914 |
 | 4 | Tina Thompson | 7,470 |
 | 5 | Nneka Ogwumike | 7,440 |
 | 6 | Tamika Catchings | 7,371 |
@@ -118,7 +118,7 @@ _Last updated: 2026-06-12 01:19 UTC_
 | 97 | Marie Ferdinand-Harris | 3,001 |
 | 98 | Emma Meesseman | 2,966 |
 | 99 | **Natasha Cloud** 🔴 +6 | 2,958 |
-| 100 | **Elizabeth Williams** 🔴 +5 | 2,901 |
+| 100 | **Elizabeth Williams** 🔴 +6 | 2,902 |
 | 101 | Natalie Williams | 2,894 |
 | 102 | Jennifer Gillom | 2,888 |
 | 103 | Iziane Castro Marques | 2,862 |
@@ -231,11 +231,11 @@ _Last updated: 2026-06-12 01:19 UTC_
 | 5 | Nneka Ogwumike | 3,337 |
 | 6 | Tamika Catchings | 3,313 |
 | 7 | Lisa Leslie | 3,303 |
-| 8 | **DeWanna Bonner** 🔴 | 3,260 |
+| 8 | **DeWanna Bonner** 🔴 +1 | 3,261 |
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
-| 12 | **Alyssa Thomas** 🔴 +3 | 2,820 |
+| 12 | **Alyssa Thomas** 🔴 +4 | 2,821 |
 | 13 | **Jonquel Jones** 🔴 +10 | 2,673 |
 | 14 | Sancho Lyttle | 2,596 |
 | 15 | A'ja Wilson | 2,574 |
@@ -256,7 +256,7 @@ _Last updated: 2026-06-12 01:19 UTC_
 | 30 | Chamique Holdsclaw | 2,123 |
 | 31 | Chasity Melvin | 2,097 |
 | 32 | Tammy Sutton-Brown | 2,010 |
-| 33 | **Elizabeth Williams** 🔴 +1 | 1,953 |
+| 33 | **Elizabeth Williams** 🔴 +2 | 1,954 |
 | 34 | Cheryl Ford | 1,907 |
 | 35 | Plenette Pierson | 1,834 |
 | 36 | Natalie Williams | 1,832 |
@@ -412,7 +412,7 @@ _Last updated: 2026-06-12 01:19 UTC_
 | 186 | Layshia Clarendon | 756 |
 | 187 | Brooke Wyckoff | 751 |
 | 188 | Coco Miller | 750 |
-| 189 | **Arike Ogunbowale** 🔴 | 748 |
+| 189 | **Arike Ogunbowale** 🔴 +1 | 749 |
 | 190 | Alex Montgomery | 735 |
 | 191 | Ashley Robinson | 734 |
 | 192 | Shenise Johnson | 729 |
@@ -598,8 +598,8 @@ _Last updated: 2026-06-12 01:19 UTC_
 | 167 | **Aliyah Boston** 🔴 +3 | 401 |
 | 167 | Julie Allemand | 401 |
 | 169 | Marissa Coleman | 399 |
-| 170 | **Jessica Shepard** 🔴 | 395 |
-| 170 | Stacey Dales | 395 |
+| 170 | **Jessica Shepard** 🔴 +1 | 396 |
+| 171 | Stacey Dales | 395 |
 | 172 | Sugar Rodgers | 393 |
 | 173 | Shameka Christon | 389 |
 | 173 | Tamicha Jackson | 389 |
@@ -1575,7 +1575,7 @@ _Last updated: 2026-06-12 01:19 UTC_
 | 119 | Odyssey Sims | 610 |
 | 120 | Layshia Clarendon | 609 |
 | 121 | Tiffany Mitchell | 604 |
-| 122 | **Kelsey Mitchell** 🔴 +1 | 602 |
+| 122 | **Kelsey Mitchell** 🔴 +2 | 603 |
 | 123 | Janel McCarville | 597 |
 | 124 | Kamila Vodichkova | 596 |
 | 125 | Teresa Weatherspoon | 589 |
