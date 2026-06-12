@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-12 01:39 UTC_
+_Last updated: 2026-06-12 01:40 UTC_
 
 ## Contents
 
@@ -1520,7 +1520,7 @@ _Last updated: 2026-06-12 01:39 UTC_
 | 64 | Erica Wheeler | 787 |
 | 65 | Sue Bird | 775 |
 | 66 | Sheri Sam | 766 |
-| 67 | **Natasha Cloud** 🔴 +5 | 760 |
+| 67 | **Natasha Cloud** 🔴 +6 | 761 |
 | 68 | Kia Vaughn | 755 |
 | 69 | Vickie Johnson | 752 |
 | 70 | Kara Braxton | 748 |
