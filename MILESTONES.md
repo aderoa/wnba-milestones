@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-12 02:27 UTC
+
+- **Jessica Shepard** passed **Julie Allemand** for **#167** all-time in assists (career 402) — up from #170 entering today — _2.1 - 3rd — PHX @ DAL_
+
 ## 2026-06-12 02:24 UTC
 
 - **Cheyenne Parker-Tyus** reached **2,600** career points (now 2,601) — _38.2 - 1st — LV @ POR_
