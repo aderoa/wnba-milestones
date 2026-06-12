@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-12 01:35 UTC_
+_Last updated: 2026-06-12 01:36 UTC_
 
 ## Contents
 
@@ -67,7 +67,7 @@ _Last updated: 2026-06-12 01:35 UTC_
 | 46 | **Allisha Gray** 🔴 +16 | 4,355 |
 | 47 | Courtney Vandersloot | 4,352 |
 | 48 | Sophia Young-Malcolm | 4,300 |
-| 49 | **Kahleah Copper** 🔴 +1 | 4,284 |
+| 49 | **Kahleah Copper** 🔴 +3 | 4,286 |
 | 50 | Plenette Pierson | 4,258 |
 | 51 | Monique Currie | 4,253 |
 | 52 | Dearica Hamby | 4,243 |
@@ -162,8 +162,8 @@ _Last updated: 2026-06-12 01:35 UTC_
 | 140 | Matee Ajavon | 2,237 |
 | 142 | Kia Nurse | 2,231 |
 | 143 | Dawn Staley | 2,228 |
-| 144 | **Satou Sabally** 🔴 +17 | 2,221 |
-| 144 | Teaira McCowan | 2,221 |
+| 144 | **Satou Sabally** 🔴 +19 | 2,223 |
+| 145 | Teaira McCowan | 2,221 |
 | 146 | Janel McCarville | 2,215 |
 | 147 | Sami Whitcomb | 2,211 |
 | 148 | Sophia Witherspoon | 2,210 |

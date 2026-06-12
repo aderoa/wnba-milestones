@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-12 01:36 UTC
+
+- **Satou Sabally** passed **Teaira McCowan** for **#144** all-time in points (career 2,223) — up from #148 entering today — _4:27 - 4th — NY @ ATL_
+
 ## 2026-06-12 01:35 UTC
 
 - **Aliyah Boston** passed **Nicole Ohlde** for **#164** all-time in points (career 1,960) — up from #166 entering today — _1:10 - OT — CHI @ IND_
