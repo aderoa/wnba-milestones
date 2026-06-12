@@ -2,6 +2,11 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-12 03:37 UTC
+
+- **Bridget Carleton** reached **1,400** career points (now 1,401) — _58.1 - 3rd — LV @ POR_
+- **Bridget Carleton** passed **Alana Beard** and **Kayla Thornton** for **#77** all-time in three-pointers (career 289) — up from #79 entering today — _58.1 - 3rd — LV @ POR_
+
 ## 2026-06-12 03:35 UTC
 
 - **Jewell Loyd** passed **Natasha Howard** for **#34** all-time in steals (career 448) — up from #36 entering today — _2:03 - 3rd — LV @ POR_
