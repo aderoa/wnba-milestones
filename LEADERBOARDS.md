@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-12 02:18 UTC_
+_Last updated: 2026-06-12 02:19 UTC_
 
 ## Contents
 
@@ -67,7 +67,7 @@ _Last updated: 2026-06-12 02:18 UTC_
 | 46 | Allisha Gray | 4,357 |
 | 47 | Courtney Vandersloot | 4,352 |
 | 48 | Sophia Young-Malcolm | 4,300 |
-| 49 | **Kahleah Copper** 🔴 +3 | 4,286 |
+| 49 | **Kahleah Copper** 🔴 +5 | 4,288 |
 | 50 | Plenette Pierson | 4,258 |
 | 51 | Monique Currie | 4,253 |
 | 52 | Dearica Hamby | 4,243 |
@@ -90,8 +90,8 @@ _Last updated: 2026-06-12 02:18 UTC_
 | 69 | Napheesa Collier | 3,542 |
 | 69 | Shannon Johnson | 3,542 |
 | 71 | Renee Montgomery | 3,533 |
-| 72 | **Jackie Young** 🔴 | 3,522 |
-| 72 | Jasmine Thomas | 3,522 |
+| 72 | **Jackie Young** 🔴 +1 | 3,523 |
+| 73 | Jasmine Thomas | 3,522 |
 | 74 | Tamecka Dixon | 3,507 |
 | 75 | Tammy Sutton-Brown | 3,498 |
 | 76 | Sancho Lyttle | 3,478 |
@@ -235,7 +235,7 @@ _Last updated: 2026-06-12 02:18 UTC_
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
-| 12 | **Alyssa Thomas** 🔴 +6 | 2,823 |
+| 12 | **Alyssa Thomas** 🔴 +7 | 2,824 |
 | 13 | Jonquel Jones | 2,673 |
 | 14 | Sancho Lyttle | 2,596 |
 | 15 | **A'ja Wilson** 🔴 | 2,574 |
@@ -367,7 +367,7 @@ _Last updated: 2026-06-12 02:18 UTC_
 | 141 | Dominique Canty | 961 |
 | 142 | Armintie Herrington | 960 |
 | 143 | Janell Burse | 944 |
-| 144 | **Jessica Shepard** 🔴 +7 | 934 |
+| 144 | **Jessica Shepard** 🔴 +8 | 935 |
 | 145 | Angel Reese | 932 |
 | 146 | Satou Sabally | 929 |
 | 147 | Merlakia Jones | 927 |
@@ -410,7 +410,7 @@ _Last updated: 2026-06-12 02:18 UTC_
 | 184 | Tully Bevilaqua | 767 |
 | 185 | Shakira Austin | 758 |
 | 186 | Layshia Clarendon | 756 |
-| 187 | **Arike Ogunbowale** 🔴 +4 | 752 |
+| 187 | **Arike Ogunbowale** 🔴 +5 | 753 |
 | 188 | Brooke Wyckoff | 751 |
 | 189 | Coco Miller | 750 |
 | 190 | Alex Montgomery | 735 |
@@ -596,8 +596,8 @@ _Last updated: 2026-06-12 02:18 UTC_
 | 165 | Rita Williams | 403 |
 | 166 | Kia Nurse | 402 |
 | 167 | Aliyah Boston | 401 |
+| 167 | **Jessica Shepard** 🔴 +6 | 401 |
 | 167 | Julie Allemand | 401 |
-| 169 | **Jessica Shepard** 🔴 +5 | 400 |
 | 170 | Marissa Coleman | 399 |
 | 171 | Stacey Dales | 395 |
 | 172 | Sugar Rodgers | 393 |
