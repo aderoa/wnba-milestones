@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-12 01:40 UTC_
+_Last updated: 2026-06-12 01:41 UTC_
 
 ## Contents
 
@@ -47,7 +47,7 @@ _Last updated: 2026-06-12 01:40 UTC_
 | 26 | Lindsay Whalen | 5,511 |
 | 27 | Swin Cash | 5,119 |
 | 28 | Tangela Smith | 5,035 |
-| 29 | **Kelsey Mitchell** 🔴 +18 | 5,021 |
+| 29 | **Kelsey Mitchell** 🔴 +19 | 5,022 |
 | 30 | Taj McWilliams-Franklin | 4,992 |
 | 31 | Tiffany Hayes | 4,985 |
 | 32 | Maya Moore | 4,984 |
@@ -315,7 +315,7 @@ _Last updated: 2026-06-12 01:40 UTC_
 | 89 | **Azurá Stevens** 🔴 +9 | 1,265 |
 | 90 | Janel McCarville | 1,261 |
 | 91 | Liz Cambage | 1,258 |
-| 92 | **Myisha Hines-Allen** 🔴 +7 | 1,246 |
+| 92 | **Myisha Hines-Allen** 🔴 +8 | 1,247 |
 | 93 | Tiffany Hayes | 1,244 |
 | 94 | Ezi Magbegor | 1,243 |
 | 95 | Brianna Turner | 1,237 |
@@ -368,7 +368,7 @@ _Last updated: 2026-06-12 01:40 UTC_
 | 142 | Armintie Herrington | 960 |
 | 143 | Janell Burse | 944 |
 | 144 | **Angel Reese** 🔴 +9 | 932 |
-| 145 | **Jessica Shepard** 🔴 +4 | 931 |
+| 144 | **Jessica Shepard** 🔴 +5 | 932 |
 | 146 | **Satou Sabally** 🔴 +3 | 929 |
 | 147 | Merlakia Jones | 927 |
 | 148 | Nicky Anosike | 922 |
@@ -410,9 +410,9 @@ _Last updated: 2026-06-12 01:40 UTC_
 | 184 | Tully Bevilaqua | 767 |
 | 185 | Shakira Austin | 758 |
 | 186 | Layshia Clarendon | 756 |
+| 187 | **Arike Ogunbowale** 🔴 +3 | 751 |
 | 187 | Brooke Wyckoff | 751 |
-| 188 | **Arike Ogunbowale** 🔴 +2 | 750 |
-| 188 | Coco Miller | 750 |
+| 189 | Coco Miller | 750 |
 | 190 | Alex Montgomery | 735 |
 | 191 | Ashley Robinson | 734 |
 | 192 | Shenise Johnson | 729 |
@@ -524,7 +524,7 @@ _Last updated: 2026-06-12 01:40 UTC_
 | 93 | A'ja Wilson | 637 |
 | 93 | Asjha Jones | 637 |
 | 95 | Jennifer Azzi | 636 |
-| 96 | **Jonquel Jones** 🔴 +4 | 629 |
+| 96 | **Jonquel Jones** 🔴 +5 | 630 |
 | 97 | Natisha Hiedeman | 624 |
 | 98 | Sami Whitcomb | 623 |
 | 99 | **Alysha Clark** 🔴 | 616 |
@@ -1349,7 +1349,7 @@ _Last updated: 2026-06-12 01:40 UTC_
 | 98 | Kara Lawson | 526 |
 | 99 | Leilani Mitchell | 525 |
 | 99 | Nicole Powell | 525 |
-| 101 | **Arike Ogunbowale** 🔴 +1 | 521 |
+| 101 | **Arike Ogunbowale** 🔴 +2 | 522 |
 | 102 | Marie Ferdinand-Harris | 518 |
 | 102 | Sabrina Ionescu | 518 |
 | 104 | Shavonte Zellous | 517 |
