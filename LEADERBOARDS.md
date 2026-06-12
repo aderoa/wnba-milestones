@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-12 01:07 UTC_
+_Last updated: 2026-06-12 01:08 UTC_
 
 ## Contents
 
@@ -183,7 +183,7 @@ _Last updated: 2026-06-12 01:07 UTC_
 | 162 | Bria Hartley | 1,967 |
 | 163 | Chiney Ogwumike | 1,964 |
 | 164 | Nicole Ohlde | 1,959 |
-| 165 | **Aliyah Boston** 🔴 +24 | 1,952 |
+| 165 | **Aliyah Boston** 🔴 +26 | 1,954 |
 | 166 | Kedra Holland-Corn | 1,938 |
 | 167 | Cathrine Kraayeveld | 1,926 |
 | 168 | Roneeka Hodges | 1,925 |
@@ -235,12 +235,12 @@ _Last updated: 2026-06-12 01:07 UTC_
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
-| 12 | **Alyssa Thomas** 🔴 | 2,817 |
+| 12 | **Alyssa Thomas** 🔴 +1 | 2,818 |
 | 13 | **Jonquel Jones** 🔴 +10 | 2,673 |
 | 14 | Sancho Lyttle | 2,596 |
 | 15 | A'ja Wilson | 2,574 |
 | 15 | DeLisha Milton-Jones | 2,574 |
-| 17 | **Breanna Stewart** 🔴 +7 | 2,567 |
+| 17 | **Breanna Stewart** 🔴 +8 | 2,568 |
 | 18 | Brittney Griner | 2,556 |
 | 19 | Swin Cash | 2,521 |
 | 20 | Michelle Snow | 2,476 |
@@ -335,8 +335,8 @@ _Last updated: 2026-06-12 01:07 UTC_
 | 109 | Andrea Stinson | 1,127 |
 | 109 | Tamika Raymond | 1,127 |
 | 111 | Adrienne Goodson | 1,126 |
-| 112 | **Aliyah Boston** 🔴 +5 | 1,115 |
-| 112 | NaLyssa Smith | 1,115 |
+| 112 | **Aliyah Boston** 🔴 +6 | 1,116 |
+| 113 | NaLyssa Smith | 1,115 |
 | 114 | **Natasha Cloud** 🔴 +2 | 1,114 |
 | 115 | Deanna Nolan | 1,112 |
 | 116 | Chiney Ogwumike | 1,110 |
@@ -549,7 +549,7 @@ _Last updated: 2026-06-12 01:07 UTC_
 | 118 | Michele Timms | 549 |
 | 119 | Veronica Burton | 537 |
 | 120 | Marie Ferdinand-Harris | 528 |
-| 121 | **Caitlin Clark** 🔴 +8 | 525 |
+| 121 | **Caitlin Clark** 🔴 +9 | 526 |
 | 122 | Margo Dydek | 524 |
 | 123 | **Myisha Hines-Allen** 🔴 +3 | 523 |
 | 124 | **Rhyne Howard** 🔴 +2 | 510 |
@@ -881,7 +881,7 @@ _Last updated: 2026-06-12 01:07 UTC_
 | 40 | Candice Dupree | 431 |
 | 41 | Epiphanny Prince | 429 |
 | 42 | Tanisha Wright | 427 |
-| 43 | **Breanna Stewart** 🔴 | 421 |
+| 43 | **Breanna Stewart** 🔴 +1 | 422 |
 | 44 | Katie Smith | 408 |
 | 45 | Cappie Pondexter | 405 |
 | 46 | Nicole Powell | 401 |
@@ -1261,7 +1261,7 @@ _Last updated: 2026-06-12 01:07 UTC_
 | 10 | Candace Parker | 1,062 |
 | 11 | Tamika Catchings | 1,041 |
 | 12 | Tina Charles | 1,040 |
-| 13 | **Alyssa Thomas** 🔴 | 1,003 |
+| 13 | **Alyssa Thomas** 🔴 +1 | 1,004 |
 | 14 | Lindsay Whalen | 1,002 |
 | 15 | Sylvia Fowles | 961 |
 | 16 | Tanisha Wright | 954 |
