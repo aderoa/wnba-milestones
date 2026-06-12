@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-12 01:29 UTC
+
+- **Sydney Taylor** reached **100** career points (now 102) — _2:50 - OT — CHI @ IND_
+
 ## 2026-06-12 01:28 UTC
 
 - **Natasha Cloud** passed **Temeka Johnson** for **#46** all-time in turnovers (career 697) — up from #48 entering today — _3:35 - OT — CHI @ IND_

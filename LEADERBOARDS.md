@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-12 01:28 UTC_
+_Last updated: 2026-06-12 01:29 UTC_
 
 ## Contents
 
@@ -72,7 +72,7 @@ _Last updated: 2026-06-12 01:28 UTC_
 | 51 | Monique Currie | 4,253 |
 | 52 | Dearica Hamby | 4,243 |
 | 53 | Courtney Williams | 4,238 |
-| 54 | **Jonquel Jones** 🔴 +11 | 4,233 |
+| 54 | **Jonquel Jones** 🔴 +13 | 4,235 |
 | 55 | Vickie Johnson | 4,230 |
 | 56 | Yolanda Griffith | 4,224 |
 | 57 | Rebekkah Brunson | 4,133 |
@@ -294,9 +294,9 @@ _Last updated: 2026-06-12 01:28 UTC_
 | 68 | Tamera Young | 1,433 |
 | 69 | Alana Beard | 1,420 |
 | 70 | Nakia Sanford | 1,419 |
-| 71 | **Allisha Gray** 🔴 +3 | 1,387 |
-| 71 | Kara Braxton | 1,387 |
-| 71 | **Monique Billings** 🔴 +2 | 1,387 |
+| 71 | **Allisha Gray** 🔴 +4 | 1,388 |
+| 72 | Kara Braxton | 1,387 |
+| 72 | **Monique Billings** 🔴 +2 | 1,387 |
 | 74 | Courtney Vandersloot | 1,383 |
 | 74 | Katie Smith | 1,383 |
 | 76 | Ebony Hoffman | 1,376 |
@@ -315,7 +315,7 @@ _Last updated: 2026-06-12 01:28 UTC_
 | 89 | **Azurá Stevens** 🔴 +8 | 1,264 |
 | 90 | Janel McCarville | 1,261 |
 | 91 | Liz Cambage | 1,258 |
-| 92 | **Myisha Hines-Allen** 🔴 +6 | 1,245 |
+| 92 | **Myisha Hines-Allen** 🔴 +7 | 1,246 |
 | 93 | Tiffany Hayes | 1,244 |
 | 94 | Ezi Magbegor | 1,243 |
 | 95 | Brianna Turner | 1,237 |
@@ -648,7 +648,7 @@ _Last updated: 2026-06-12 01:28 UTC_
 | 12 | Taj McWilliams-Franklin | 443 |
 | 13 | **Breanna Stewart** 🔴 +1 | 437 |
 | 14 | Tina Charles | 428 |
-| 15 | **Jonquel Jones** 🔴 +2 | 417 |
+| 15 | **Jonquel Jones** 🔴 +3 | 418 |
 | 16 | Michelle Snow | 403 |
 | 17 | Tamika Catchings | 383 |
 | 18 | Tina Thompson | 372 |
