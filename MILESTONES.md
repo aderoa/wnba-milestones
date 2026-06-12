@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-12 01:31 UTC
+
+- **Leonie Fiebich** passed **Shoni Schimmel** for **#189** all-time in three-pointers (career 112) — up from #190 entering today — _6:51 - 4th — NY @ ATL_
+
 ## 2026-06-12 01:29 UTC
 
 - **Sydney Taylor** reached **100** career points (now 102) — _2:50 - OT — CHI @ IND_

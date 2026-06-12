@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-12T01:31:00+00:00",
+    "text": "Leonie Fiebich passed Shoni Schimmel for #189 all-time in three-pointers (career 112) \u2014 up from #190 entering today \u2014 (6:51 - 4th \u2014 NY @ ATL)",
+    "kind": "rank_pass",
+    "player": "Leonie Fiebich",
+    "stat": "three-pointers",
+    "rank": 189,
+    "passed_players": [
+      "Shoni Schimmel"
+    ],
+    "new_total": 112
+  },
+  {
     "ts": "2026-06-12T01:29:00+00:00",
     "text": "Sydney Taylor reached 100 career points (now 102) \u2014 (2:50 - OT \u2014 CHI @ IND)",
     "kind": "round",
@@ -2953,17 +2965,5 @@
     "stat": "points",
     "value": 100,
     "new_total": 102
-  },
-  {
-    "ts": "2026-06-06T02:12:00+00:00",
-    "text": "Ariel Atkins passed Bria Hartley for #87 all-time in assists (career 662) \u2014 (5:18 - 1st \u2014 DAL @ LA)",
-    "kind": "rank_pass",
-    "player": "Ariel Atkins",
-    "stat": "assists",
-    "rank": 87,
-    "passed_players": [
-      "Bria Hartley"
-    ],
-    "new_total": 662
   }
 ]
