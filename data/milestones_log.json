@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-12T03:26:00+00:00",
+    "text": "NaLyssa Smith passed Kara Lawson for #197 all-time in fouls (career 458) \u2014 up from #198 entering today \u2014 (4:53 - 3rd \u2014 LV @ POR)",
+    "kind": "rank_pass",
+    "player": "NaLyssa Smith",
+    "stat": "fouls",
+    "rank": 197,
+    "passed_players": [
+      "Kara Lawson"
+    ],
+    "new_total": 458
+  },
+  {
     "ts": "2026-06-12T02:55:00+00:00",
     "text": "DeWanna Bonner passed Ticha Penicheiro for #39 all-time in fouls (career 914) \u2014 up from #40 entering today \u2014 (11.7 - 4th \u2014 PHX @ DAL)",
     "kind": "rank_pass",
@@ -2948,17 +2960,5 @@
       "Crystal Langhorne"
     ],
     "new_total": 118
-  },
-  {
-    "ts": "2026-06-06T02:54:00+00:00",
-    "text": "Nneka Ogwumike passed Angel McCoughtry for #53 all-time in assists (career 916) \u2014 up from #55 entering today \u2014 (2:16 - 2nd \u2014 DAL @ LA)",
-    "kind": "rank_pass",
-    "player": "Nneka Ogwumike",
-    "stat": "assists",
-    "rank": 53,
-    "passed_players": [
-      "Angel McCoughtry"
-    ],
-    "new_total": 916
   }
 ]

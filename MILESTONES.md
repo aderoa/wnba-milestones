@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-12 03:26 UTC
+
+- **NaLyssa Smith** passed **Kara Lawson** for **#197** all-time in fouls (career 458) — up from #198 entering today — _4:53 - 3rd — LV @ POR_
+
 ## 2026-06-12 02:55 UTC
 
 - **DeWanna Bonner** passed **Ticha Penicheiro** for **#39** all-time in fouls (career 914) — up from #40 entering today — _11.7 - 4th — PHX @ DAL_
