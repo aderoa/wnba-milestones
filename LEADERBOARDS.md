@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-12 02:40 UTC_
+_Last updated: 2026-06-12 02:41 UTC_
 
 ## Contents
 
@@ -59,7 +59,7 @@ _Last updated: 2026-06-12 02:40 UTC_
 | 38 | **Arike Ogunbowale** 🔴 +2 | 4,614 |
 | 39 | Penny Taylor | 4,595 |
 | 40 | Natasha Howard | 4,528 |
-| 41 | **Chelsea Gray** 🔴 +9 | 4,515 |
+| 41 | **Chelsea Gray** 🔴 +12 | 4,518 |
 | 42 | Kristi Toliver | 4,474 |
 | 43 | Crystal Langhorne | 4,433 |
 | 43 | Jia Perkins | 4,433 |
@@ -464,7 +464,7 @@ _Last updated: 2026-06-12 02:40 UTC_
 | 33 | Renee Montgomery | 1,140 |
 | 34 | Swin Cash | 1,131 |
 | 35 | Lindsey Harding | 1,090 |
-| 36 | **Jackie Young** 🔴 | 1,087 |
+| 36 | **Jackie Young** 🔴 +1 | 1,088 |
 | 37 | Sabrina Ionescu | 1,074 |
 | 38 | Katie Douglas | 1,069 |
 | 39 | Alana Beard | 1,061 |
@@ -1077,7 +1077,7 @@ _Last updated: 2026-06-12 02:40 UTC_
 | 31 | Skylar Diggins | 437 |
 | 32 | Lauren Jackson | 436 |
 | 33 | Shameka Christon | 434 |
-| 34 | **Chelsea Gray** 🔴 +3 | 428 |
+| 34 | **Chelsea Gray** 🔴 +4 | 429 |
 | 35 | Crystal Robinson | 425 |
 | 36 | Mwadi Mabika | 415 |
 | 37 | Penny Taylor | 407 |
@@ -1651,6 +1651,6 @@ _Last updated: 2026-06-12 02:40 UTC_
 | 195 | Sue Wicks | 462 |
 | 196 | Natalie Achonwa | 459 |
 | 197 | Kara Lawson | 457 |
-| 198 | **NaLyssa Smith** 🔴 +1 | 455 |
+| 198 | **NaLyssa Smith** 🔴 +2 | 456 |
 | 199 | Satou Sabally | 452 |
 | 200 | Alexis Hornbuckle | 450 |
