@@ -1,5 +1,20 @@
 [
   {
+    "ts": "2026-06-12T01:25:00+00:00",
+    "text": "Awak Kuier passed Cappie Pondexter, Christi Thomas, Olympia Scott, and Sue Bird for #185 all-time in blocks (career 73) \u2014 (End of 1st \u2014 PHX @ DAL)",
+    "kind": "rank_pass",
+    "player": "Awak Kuier",
+    "stat": "blocks",
+    "rank": 185,
+    "passed_players": [
+      "Cappie Pondexter",
+      "Christi Thomas",
+      "Olympia Scott",
+      "Sue Bird"
+    ],
+    "new_total": 73
+  },
+  {
     "ts": "2026-06-12T01:12:00+00:00",
     "text": "Kahleah Copper passed Tiffany Hayes for #72 all-time in turnovers (career 611) \u2014 up from #73 entering today \u2014 (6:09 - 1st \u2014 PHX @ DAL)",
     "kind": "rank_pass",
@@ -2952,18 +2967,6 @@
     "rank": 54,
     "passed_players": [
       "Arike Ogunbowale"
-    ],
-    "new_total": 913
-  },
-  {
-    "ts": "2026-06-06T02:07:00+00:00",
-    "text": "Arike Ogunbowale passed Nneka Ogwumike for #55 all-time in assists (career 913) \u2014 (9:21 - 1st \u2014 DAL @ LA)",
-    "kind": "rank_pass",
-    "player": "Arike Ogunbowale",
-    "stat": "assists",
-    "rank": 55,
-    "passed_players": [
-      "Nneka Ogwumike"
     ],
     "new_total": 913
   }

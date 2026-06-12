@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-12 01:24 UTC_
+_Last updated: 2026-06-12 01:25 UTC_
 
 ## Contents
 
@@ -815,13 +815,13 @@ _Last updated: 2026-06-12 01:24 UTC_
 | 177 | **Myisha Hines-Allen** 🔴 +1 | 75 |
 | 177 | Tianna Hawkins | 75 |
 | 181 | Epiphanny Prince | 74 |
+| 182 | **Awak Kuier** 🔴 +1 | 73 |
 | 182 | Ayana Walker | 73 |
 | 182 | Lindsay Wisdom-Hylton | 73 |
-| 184 | **Awak Kuier** 🔴 | 72 |
-| 184 | Cappie Pondexter | 72 |
-| 184 | Christi Thomas | 72 |
-| 184 | Olympia Scott | 72 |
-| 184 | Sue Bird | 72 |
+| 185 | Cappie Pondexter | 72 |
+| 185 | Christi Thomas | 72 |
+| 185 | Olympia Scott | 72 |
+| 185 | Sue Bird | 72 |
 | 189 | Marlies Askamp | 71 |
 | 189 | Tanisha Wright | 71 |
 | 191 | Wendy Palmer | 70 |
