@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-12 00:52 UTC_
+_Last updated: 2026-06-12 00:53 UTC_
 
 ## Contents
 
@@ -317,7 +317,7 @@ _Last updated: 2026-06-12 00:52 UTC_
 | 91 | Liz Cambage | 1,258 |
 | 92 | Tiffany Hayes | 1,244 |
 | 93 | Ezi Magbegor | 1,243 |
-| 94 | **Myisha Hines-Allen** 🔴 +3 | 1,242 |
+| 93 | **Myisha Hines-Allen** 🔴 +4 | 1,243 |
 | 95 | Brianna Turner | 1,237 |
 | 96 | Seimone Augustus | 1,228 |
 | 97 | Kayla McBride | 1,226 |
@@ -713,8 +713,8 @@ _Last updated: 2026-06-12 00:52 UTC_
 | 77 | Ann Wauters | 153 |
 | 77 | Sue Wicks | 153 |
 | 79 | Jessica Davenport | 151 |
-| 80 | **Aliyah Boston** 🔴 +2 | 149 |
-| 81 | Alison Bales | 148 |
+| 80 | Alison Bales | 148 |
+| 80 | **Aliyah Boston** 🔴 +1 | 148 |
 | 82 | Chamique Holdsclaw | 143 |
 | 83 | Shavonte Zellous | 139 |
 | 84 | Penny Taylor | 136 |
@@ -1172,7 +1172,7 @@ _Last updated: 2026-06-12 00:52 UTC_
 | 126 | **Caitlin Clark** 🔴 +1 | 172 |
 | 126 | Theresa Plaisance | 172 |
 | 128 | Amanda Lassiter | 170 |
-| 129 | **Marine Johannès** 🔴 +1 | 169 |
+| 128 | **Marine Johannès** 🔴 +2 | 170 |
 | 130 | Shavonte Zellous | 167 |
 | 130 | Tianna Hawkins | 167 |
 | 132 | Charlotte Smith | 164 |
