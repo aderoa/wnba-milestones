@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-12 01:08 UTC_
+_Last updated: 2026-06-12 01:09 UTC_
 
 ## Contents
 
@@ -32,7 +32,7 @@ _Last updated: 2026-06-12 01:08 UTC_
 | 11 | Katie Smith | 6,450 |
 | 12 | Sylvia Fowles | 6,413 |
 | 13 | Lisa Leslie | 6,251 |
-| 14 | **Breanna Stewart** 🔴 +14 | 6,187 |
+| 14 | **Breanna Stewart** 🔴 +15 | 6,188 |
 | 15 | Jewell Loyd | 6,078 |
 | 16 | Brittney Griner | 6,031 |
 | 17 | Lauren Jackson | 6,005 |
@@ -56,7 +56,7 @@ _Last updated: 2026-06-12 01:08 UTC_
 | 35 | Chamique Holdsclaw | 4,713 |
 | 36 | Elena Delle Donne | 4,706 |
 | 37 | **Alyssa Thomas** 🔴 | 4,653 |
-| 38 | **Arike Ogunbowale** 🔴 | 4,612 |
+| 38 | **Arike Ogunbowale** 🔴 +2 | 4,614 |
 | 39 | Penny Taylor | 4,595 |
 | 40 | Natasha Howard | 4,528 |
 | 41 | Chelsea Gray | 4,506 |
@@ -117,7 +117,7 @@ _Last updated: 2026-06-12 01:08 UTC_
 | 96 | Shameka Christon | 3,039 |
 | 97 | Marie Ferdinand-Harris | 3,001 |
 | 98 | Emma Meesseman | 2,966 |
-| 99 | **Natasha Cloud** 🔴 +4 | 2,956 |
+| 99 | **Natasha Cloud** 🔴 +6 | 2,958 |
 | 100 | **Elizabeth Williams** 🔴 +4 | 2,900 |
 | 101 | Natalie Williams | 2,894 |
 | 102 | Jennifer Gillom | 2,888 |
@@ -315,8 +315,8 @@ _Last updated: 2026-06-12 01:08 UTC_
 | 89 | **Azurá Stevens** 🔴 +8 | 1,264 |
 | 90 | Janel McCarville | 1,261 |
 | 91 | Liz Cambage | 1,258 |
-| 92 | **Myisha Hines-Allen** 🔴 +5 | 1,244 |
-| 92 | Tiffany Hayes | 1,244 |
+| 92 | **Myisha Hines-Allen** 🔴 +6 | 1,245 |
+| 93 | Tiffany Hayes | 1,244 |
 | 94 | Ezi Magbegor | 1,243 |
 | 95 | Brianna Turner | 1,237 |
 | 96 | Seimone Augustus | 1,228 |
@@ -337,7 +337,7 @@ _Last updated: 2026-06-12 01:08 UTC_
 | 111 | Adrienne Goodson | 1,126 |
 | 112 | **Aliyah Boston** 🔴 +6 | 1,116 |
 | 113 | NaLyssa Smith | 1,115 |
-| 114 | **Natasha Cloud** 🔴 +2 | 1,114 |
+| 113 | **Natasha Cloud** 🔴 +3 | 1,115 |
 | 115 | Deanna Nolan | 1,112 |
 | 116 | Chiney Ogwumike | 1,110 |
 | 117 | Becky Hammon | 1,108 |
@@ -358,8 +358,8 @@ _Last updated: 2026-06-12 01:08 UTC_
 | 131 | Tianna Hawkins | 1,000 |
 | 133 | Sabrina Ionescu | 998 |
 | 134 | Marissa Coleman | 995 |
-| 135 | Kristen Rasmussen | 993 |
-| 135 | **Skylar Diggins** 🔴 +2 | 993 |
+| 135 | **Skylar Diggins** 🔴 +3 | 994 |
+| 136 | Kristen Rasmussen | 993 |
 | 137 | Danielle Robinson | 988 |
 | 138 | Shavonte Zellous | 978 |
 | 139 | Kara Lawson | 976 |
@@ -368,9 +368,9 @@ _Last updated: 2026-06-12 01:08 UTC_
 | 142 | Armintie Herrington | 960 |
 | 143 | Janell Burse | 944 |
 | 144 | **Angel Reese** 🔴 +5 | 928 |
+| 144 | **Jessica Shepard** 🔴 +1 | 928 |
 | 144 | **Satou Sabally** 🔴 +2 | 928 |
-| 146 | **Jessica Shepard** 🔴 | 927 |
-| 146 | Merlakia Jones | 927 |
+| 147 | Merlakia Jones | 927 |
 | 148 | Nicky Anosike | 922 |
 | 149 | Janeth Arcain | 916 |
 | 150 | Karima Christmas-Kelly | 908 |
@@ -562,7 +562,7 @@ _Last updated: 2026-06-12 01:08 UTC_
 | 131 | Crystal Robinson | 488 |
 | 131 | Tiffany Mitchell | 488 |
 | 133 | Rebekkah Brunson | 486 |
-| 134 | **Kahleah Copper** 🔴 | 484 |
+| 134 | **Kahleah Copper** 🔴 +1 | 485 |
 | 135 | Ukari Figgs | 470 |
 | 136 | Janeth Arcain | 469 |
 | 137 | **Elizabeth Williams** 🔴 +1 | 468 |
@@ -644,7 +644,7 @@ _Last updated: 2026-06-12 01:08 UTC_
 | 8 | Tammy Sutton-Brown | 555 |
 | 9 | Tangela Smith | 554 |
 | 10 | Ruth Riley | 505 |
-| 11 | **Elizabeth Williams** 🔴 +2 | 495 |
+| 11 | **Elizabeth Williams** 🔴 +3 | 496 |
 | 12 | Taj McWilliams-Franklin | 443 |
 | 13 | **Breanna Stewart** 🔴 +1 | 437 |
 | 14 | Tina Charles | 428 |
@@ -911,8 +911,8 @@ _Last updated: 2026-06-12 01:08 UTC_
 | 70 | Svetlana Abrosimova | 352 |
 | 71 | **Natasha Cloud** 🔴 | 349 |
 | 72 | A'ja Wilson | 346 |
+| 72 | **Arike Ogunbowale** 🔴 +1 | 346 |
 | 72 | Janeth Arcain | 346 |
-| 74 | **Arike Ogunbowale** 🔴 | 345 |
 | 75 | Helen Darling | 343 |
 | 76 | Andrea Stinson | 342 |
 | 77 | Armintie Herrington | 340 |
@@ -1528,8 +1528,8 @@ _Last updated: 2026-06-12 01:08 UTC_
 | 72 | Crystal Langhorne | 737 |
 | 73 | Shameka Christon | 734 |
 | 74 | Becky Hammon | 733 |
+| 75 | **Allisha Gray** 🔴 +4 | 730 |
 | 75 | Latasha Byears | 730 |
-| 76 | **Allisha Gray** 🔴 +3 | 729 |
 | 77 | Kristi Toliver | 722 |
 | 78 | **Elizabeth Williams** 🔴 +1 | 721 |
 | 79 | Ariel Atkins | 713 |
