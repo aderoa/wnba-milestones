@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-12 02:35 UTC_
+_Last updated: 2026-06-12 02:36 UTC_
 
 ## Contents
 
@@ -738,7 +738,7 @@ _Last updated: 2026-06-12 02:35 UTC_
 | 102 | Natalie Williams | 122 |
 | 103 | Ebony Hoffman | 121 |
 | 103 | Essence Carson | 121 |
-| 105 | **Emily Engstler** 🔴 | 119 |
+| 105 | **Emily Engstler** 🔴 +1 | 120 |
 | 106 | Krystal Thomas | 118 |
 | 107 | Andrea Stinson | 117 |
 | 107 | Crystal Langhorne | 117 |
@@ -1651,6 +1651,6 @@ _Last updated: 2026-06-12 02:35 UTC_
 | 195 | Sue Wicks | 462 |
 | 196 | Natalie Achonwa | 459 |
 | 197 | Kara Lawson | 457 |
-| 198 | **NaLyssa Smith** 🔴 | 454 |
+| 198 | **NaLyssa Smith** 🔴 +1 | 455 |
 | 199 | Satou Sabally | 452 |
 | 200 | Alexis Hornbuckle | 450 |
