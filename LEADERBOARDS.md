@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-12 02:21 UTC_
+_Last updated: 2026-06-12 02:22 UTC_
 
 ## Contents
 
@@ -37,7 +37,7 @@ _Last updated: 2026-06-12 02:21 UTC_
 | 16 | Brittney Griner | 6,031 |
 | 17 | Lauren Jackson | 6,005 |
 | 17 | Seimone Augustus | 6,005 |
-| 19 | **A'ja Wilson** 🔴 +4 | 5,946 |
+| 19 | **A'ja Wilson** 🔴 +5 | 5,947 |
 | 20 | Becky Hammon | 5,816 |
 | 21 | Angel McCoughtry | 5,797 |
 | 22 | Skylar Diggins | 5,647 |
@@ -378,8 +378,8 @@ _Last updated: 2026-06-12 02:21 UTC_
 | 152 | Temeka Johnson | 889 |
 | 153 | Mistie Bass | 888 |
 | 154 | Erica Wheeler | 872 |
+| 155 | **Alanna Smith** 🔴 +3 | 867 |
 | 155 | Shameka Christon | 867 |
-| 156 | **Alanna Smith** 🔴 +2 | 866 |
 | 157 | Krystal Thomas | 862 |
 | 158 | Nia Coffey | 854 |
 | 159 | Marina Mabrey | 849 |
@@ -1579,7 +1579,7 @@ _Last updated: 2026-06-12 02:21 UTC_
 | 123 | Janel McCarville | 597 |
 | 124 | Kamila Vodichkova | 596 |
 | 125 | Teresa Weatherspoon | 589 |
-| 126 | **Arike Ogunbowale** 🔴 +1 | 587 |
+| 126 | **Arike Ogunbowale** 🔴 +2 | 588 |
 | 127 | Emma Meesseman | 585 |
 | 128 | Chiney Ogwumike | 580 |
 | 128 | Hamchetou Maiga-Ba | 580 |
