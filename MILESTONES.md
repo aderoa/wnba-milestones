@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-12 00:10 UTC
+
+- **Jonquel Jones** passed **Allison Feaster** and **Betty Lennox** for **#47** all-time in three-pointers (career 373) — up from #49 entering today — _4:58 - 2nd — NY @ ATL_
+
 ## 2026-06-11 03:49 UTC
 
 - **Cameron Brink** passed **Kara Wolters**, **Noelle Quinn**, and **Tierra Ruffin-Pratt** for **#168** all-time in blocks (career 78) — up from #171 entering today — _5:55 - 4th — LA @ SEA_

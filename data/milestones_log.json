@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-06-12T00:10:00+00:00",
+    "text": "Jonquel Jones passed Allison Feaster and Betty Lennox for #47 all-time in three-pointers (career 373) \u2014 up from #49 entering today \u2014 (4:58 - 2nd \u2014 NY @ ATL)",
+    "kind": "rank_pass",
+    "player": "Jonquel Jones",
+    "stat": "three-pointers",
+    "rank": 47,
+    "passed_players": [
+      "Allison Feaster",
+      "Betty Lennox"
+    ],
+    "new_total": 373
+  },
+  {
     "ts": "2026-06-11T03:49:00+00:00",
     "text": "Cameron Brink passed Kara Wolters, Noelle Quinn, and Tierra Ruffin-Pratt for #168 all-time in blocks (career 78) \u2014 up from #171 entering today \u2014 (5:55 - 4th \u2014 LA @ SEA)",
     "kind": "rank_pass",
@@ -2953,17 +2966,5 @@
       "Nakia Sanford"
     ],
     "new_total": 980
-  },
-  {
-    "ts": "2026-06-06T01:19:00+00:00",
-    "text": "Kamilla Cardoso passed Shakira Austin for #116 all-time in blocks (career 111) \u2014 up from #117 entering today \u2014 (6:47 - 4th \u2014 CON @ CHI)",
-    "kind": "rank_pass",
-    "player": "Kamilla Cardoso",
-    "stat": "blocks",
-    "rank": 116,
-    "passed_players": [
-      "Shakira Austin"
-    ],
-    "new_total": 111
   }
 ]
