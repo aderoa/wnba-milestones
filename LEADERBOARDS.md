@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-12 03:33 UTC_
+_Last updated: 2026-06-12 03:34 UTC_
 
 ## Contents
 
@@ -59,7 +59,7 @@ _Last updated: 2026-06-12 03:33 UTC_
 | 38 | Arike Ogunbowale | 4,614 |
 | 39 | Penny Taylor | 4,595 |
 | 40 | Natasha Howard | 4,528 |
-| 41 | **Chelsea Gray** 🔴 +18 | 4,524 |
+| 41 | **Chelsea Gray** 🔴 +20 | 4,526 |
 | 42 | Kristi Toliver | 4,474 |
 | 43 | Crystal Langhorne | 4,433 |
 | 43 | Jia Perkins | 4,433 |
@@ -238,7 +238,7 @@ _Last updated: 2026-06-12 03:33 UTC_
 | 12 | Alyssa Thomas | 2,826 |
 | 13 | Jonquel Jones | 2,673 |
 | 14 | Sancho Lyttle | 2,596 |
-| 15 | **A'ja Wilson** 🔴 +2 | 2,576 |
+| 15 | **A'ja Wilson** 🔴 +3 | 2,577 |
 | 16 | DeLisha Milton-Jones | 2,574 |
 | 17 | Breanna Stewart | 2,571 |
 | 18 | Brittney Griner | 2,556 |
@@ -1551,7 +1551,7 @@ _Last updated: 2026-06-12 03:33 UTC_
 | 94 | Kelsey Plum | 680 |
 | 94 | Temeka Johnson | 680 |
 | 97 | Kelly Miller | 676 |
-| 98 | **Cheyenne Parker-Tyus** 🔴 | 674 |
+| 98 | **Cheyenne Parker-Tyus** 🔴 +1 | 675 |
 | 99 | Breanna Stewart | 667 |
 | 99 | Chamique Holdsclaw | 667 |
 | 101 | Tianna Hawkins | 662 |
