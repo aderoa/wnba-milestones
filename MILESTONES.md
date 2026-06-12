@@ -2,6 +2,11 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-12 01:35 UTC
+
+- **Aliyah Boston** passed **Nicole Ohlde** for **#164** all-time in points (career 1,960) — up from #166 entering today — _1:10 - OT — CHI @ IND_
+- **Kelsey Mitchell** passed **Wendy Palmer** for **#141** all-time in steals (career 227) — up from #144 entering today — _1:10 - OT — CHI @ IND_
+
 ## 2026-06-12 01:31 UTC
 
 - **Leonie Fiebich** passed **Shoni Schimmel** for **#189** all-time in three-pointers (career 112) — up from #190 entering today — _6:51 - 4th — NY @ ATL_

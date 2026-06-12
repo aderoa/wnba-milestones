@@ -1,5 +1,29 @@
 [
   {
+    "ts": "2026-06-12T01:35:00+00:00",
+    "text": "Aliyah Boston passed Nicole Ohlde for #164 all-time in points (career 1,960) \u2014 up from #166 entering today \u2014 (1:10 - OT \u2014 CHI @ IND)",
+    "kind": "rank_pass",
+    "player": "Aliyah Boston",
+    "stat": "points",
+    "rank": 164,
+    "passed_players": [
+      "Nicole Ohlde"
+    ],
+    "new_total": 1960
+  },
+  {
+    "ts": "2026-06-12T01:35:00+00:00",
+    "text": "Kelsey Mitchell passed Wendy Palmer for #141 all-time in steals (career 227) \u2014 up from #144 entering today \u2014 (1:10 - OT \u2014 CHI @ IND)",
+    "kind": "rank_pass",
+    "player": "Kelsey Mitchell",
+    "stat": "steals",
+    "rank": 141,
+    "passed_players": [
+      "Wendy Palmer"
+    ],
+    "new_total": 227
+  },
+  {
     "ts": "2026-06-12T01:31:00+00:00",
     "text": "Leonie Fiebich passed Shoni Schimmel for #189 all-time in three-pointers (career 112) \u2014 up from #190 entering today \u2014 (6:51 - 4th \u2014 NY @ ATL)",
     "kind": "rank_pass",
@@ -2944,26 +2968,5 @@
       "Janeth Arcain"
     ],
     "new_total": 454
-  },
-  {
-    "ts": "2026-06-06T02:40:00+00:00",
-    "text": "Ariel Atkins passed Helen Darling for #81 all-time in fouls (career 710) \u2014 up from #82 entering today \u2014 (7:07 - 2nd \u2014 DAL @ LA)",
-    "kind": "rank_pass",
-    "player": "Ariel Atkins",
-    "stat": "fouls",
-    "rank": 81,
-    "passed_players": [
-      "Helen Darling"
-    ],
-    "new_total": 710
-  },
-  {
-    "ts": "2026-06-06T02:34:00+00:00",
-    "text": "Azzi Fudd reached 100 career points (now 102) \u2014 (8:23 - 2nd \u2014 DAL @ LA)",
-    "kind": "round",
-    "player": "Azzi Fudd",
-    "stat": "points",
-    "value": 100,
-    "new_total": 102
   }
 ]
