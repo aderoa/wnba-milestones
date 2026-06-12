@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-12 01:33 UTC_
+_Last updated: 2026-06-12 01:34 UTC_
 
 ## Contents
 
@@ -67,7 +67,7 @@ _Last updated: 2026-06-12 01:33 UTC_
 | 46 | **Allisha Gray** 🔴 +16 | 4,355 |
 | 47 | Courtney Vandersloot | 4,352 |
 | 48 | Sophia Young-Malcolm | 4,300 |
-| 49 | **Kahleah Copper** 🔴 | 4,283 |
+| 49 | **Kahleah Copper** 🔴 +1 | 4,284 |
 | 50 | Plenette Pierson | 4,258 |
 | 51 | Monique Currie | 4,253 |
 | 52 | Dearica Hamby | 4,243 |
@@ -312,7 +312,7 @@ _Last updated: 2026-06-12 01:33 UTC_
 | 86 | Jayne Appel Marinelli | 1,326 |
 | 87 | Betty Lennox | 1,296 |
 | 88 | Tari Phillips | 1,274 |
-| 89 | **Azurá Stevens** 🔴 +8 | 1,264 |
+| 89 | **Azurá Stevens** 🔴 +9 | 1,265 |
 | 90 | Janel McCarville | 1,261 |
 | 91 | Liz Cambage | 1,258 |
 | 92 | **Myisha Hines-Allen** 🔴 +7 | 1,246 |
@@ -335,7 +335,7 @@ _Last updated: 2026-06-12 01:33 UTC_
 | 109 | Andrea Stinson | 1,127 |
 | 109 | Tamika Raymond | 1,127 |
 | 111 | Adrienne Goodson | 1,126 |
-| 112 | **Aliyah Boston** 🔴 +9 | 1,119 |
+| 112 | **Aliyah Boston** 🔴 +10 | 1,120 |
 | 113 | **Natasha Cloud** 🔴 +4 | 1,116 |
 | 114 | NaLyssa Smith | 1,115 |
 | 115 | Deanna Nolan | 1,112 |
@@ -393,8 +393,8 @@ _Last updated: 2026-06-12 01:33 UTC_
 | 166 | Barbara Farris | 819 |
 | 168 | Carolyn Swords | 814 |
 | 169 | Tierra Ruffin-Pratt | 799 |
-| 170 | **Betnijah Laney-Hamilton** 🔴 | 795 |
-| 170 | Gabby Williams | 795 |
+| 170 | **Betnijah Laney-Hamilton** 🔴 +1 | 796 |
+| 171 | Gabby Williams | 795 |
 | 172 | Charlotte Smith | 794 |
 | 173 | Rhonda Mapp | 788 |
 | 174 | Ariel Atkins | 786 |
@@ -475,7 +475,7 @@ _Last updated: 2026-06-12 01:33 UTC_
 | 44 | Nikki Teasley | 982 |
 | 45 | Kayla McBride | 968 |
 | 46 | Tamecka Dixon | 960 |
-| 47 | **Breanna Stewart** 🔴 +4 | 957 |
+| 47 | **Breanna Stewart** 🔴 +5 | 958 |
 | 48 | Kara Lawson | 946 |
 | 49 | Tiffany Hayes | 936 |
 | 50 | Deanna Nolan | 930 |
