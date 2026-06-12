@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-12 02:37 UTC_
+_Last updated: 2026-06-12 02:38 UTC_
 
 ## Contents
 
@@ -33,7 +33,7 @@ _Last updated: 2026-06-12 02:37 UTC_
 | 12 | Sylvia Fowles | 6,413 |
 | 13 | Lisa Leslie | 6,251 |
 | 14 | Breanna Stewart | 6,192 |
-| 15 | **Jewell Loyd** 🔴 | 6,078 |
+| 15 | **Jewell Loyd** 🔴 +2 | 6,080 |
 | 16 | Brittney Griner | 6,031 |
 | 17 | Lauren Jackson | 6,005 |
 | 17 | Seimone Augustus | 6,005 |
@@ -67,7 +67,7 @@ _Last updated: 2026-06-12 02:37 UTC_
 | 46 | Allisha Gray | 4,357 |
 | 47 | Courtney Vandersloot | 4,352 |
 | 48 | Sophia Young-Malcolm | 4,300 |
-| 49 | **Kahleah Copper** 🔴 +5 | 4,288 |
+| 49 | **Kahleah Copper** 🔴 +7 | 4,290 |
 | 50 | Plenette Pierson | 4,258 |
 | 51 | Monique Currie | 4,253 |
 | 52 | Dearica Hamby | 4,243 |
@@ -336,7 +336,7 @@ _Last updated: 2026-06-12 02:37 UTC_
 | 109 | Tamika Raymond | 1,127 |
 | 111 | Adrienne Goodson | 1,126 |
 | 112 | Aliyah Boston | 1,122 |
-| 113 | **NaLyssa Smith** 🔴 +2 | 1,117 |
+| 113 | **NaLyssa Smith** 🔴 +3 | 1,118 |
 | 114 | Natasha Cloud | 1,116 |
 | 115 | Deanna Nolan | 1,112 |
 | 116 | Chiney Ogwumike | 1,110 |
