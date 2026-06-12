@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-12 00:27 UTC_
+_Last updated: 2026-06-12 00:28 UTC_
 
 ## Contents
 
@@ -143,7 +143,7 @@ _Last updated: 2026-06-12 00:27 UTC_
 | 122 | Glory Johnson | 2,531 |
 | 123 | Nikki McCray | 2,521 |
 | 124 | Crystal Robinson | 2,496 |
-| 125 | **Rhyne Howard** 🔴 +9 | 2,481 |
+| 125 | **Rhyne Howard** 🔴 +12 | 2,484 |
 | 126 | Tiffany Mitchell | 2,480 |
 | 127 | Ruth Riley | 2,434 |
 | 128 | Svetlana Abrosimova | 2,414 |
@@ -183,7 +183,7 @@ _Last updated: 2026-06-12 00:27 UTC_
 | 162 | Bria Hartley | 1,967 |
 | 163 | Chiney Ogwumike | 1,964 |
 | 164 | Nicole Ohlde | 1,959 |
-| 165 | **Aliyah Boston** 🔴 +16 | 1,944 |
+| 165 | **Aliyah Boston** 🔴 +17 | 1,945 |
 | 166 | Kedra Holland-Corn | 1,938 |
 | 167 | Cathrine Kraayeveld | 1,926 |
 | 168 | Roneeka Hodges | 1,925 |
@@ -196,7 +196,7 @@ _Last updated: 2026-06-12 00:27 UTC_
 | 175 | Candice Wiggins | 1,901 |
 | 176 | Natisha Hiedeman | 1,858 |
 | 177 | Isabelle Harrison | 1,832 |
-| 178 | Damiris Dantas | 1,830 |
+| 178 | **Damiris Dantas** 🔴 | 1,830 |
 | 179 | Tianna Hawkins | 1,825 |
 | 180 | Noelle Quinn | 1,824 |
 | 181 | **Rachel Banham** 🔴 | 1,823 |
@@ -336,9 +336,9 @@ _Last updated: 2026-06-12 00:27 UTC_
 | 109 | Tamika Raymond | 1,127 |
 | 111 | Adrienne Goodson | 1,126 |
 | 112 | NaLyssa Smith | 1,115 |
+| 113 | **Aliyah Boston** 🔴 +3 | 1,113 |
 | 113 | **Natasha Cloud** 🔴 +1 | 1,113 |
-| 114 | **Aliyah Boston** 🔴 +2 | 1,112 |
-| 114 | Deanna Nolan | 1,112 |
+| 115 | Deanna Nolan | 1,112 |
 | 116 | Chiney Ogwumike | 1,110 |
 | 117 | Becky Hammon | 1,108 |
 | 118 | Ann Wauters | 1,105 |
@@ -355,7 +355,7 @@ _Last updated: 2026-06-12 00:27 UTC_
 | 128 | Noelle Quinn | 1,011 |
 | 130 | Tiffany Jackson | 1,002 |
 | 131 | Tianna Hawkins | 1,000 |
-| 132 | Damiris Dantas | 999 |
+| 132 | **Damiris Dantas** 🔴 | 999 |
 | 133 | Sabrina Ionescu | 998 |
 | 134 | Marissa Coleman | 995 |
 | 135 | Kristen Rasmussen | 993 |
@@ -456,7 +456,7 @@ _Last updated: 2026-06-12 00:27 UTC_
 | 25 | Katie Smith | 1,258 |
 | 26 | Kelsey Plum | 1,237 |
 | 27 | Odyssey Sims | 1,228 |
-| 28 | **Jordin Canada** 🔴 +3 | 1,204 |
+| 28 | **Jordin Canada** 🔴 +4 | 1,205 |
 | 29 | Vickie Johnson | 1,202 |
 | 30 | Leilani Mitchell | 1,197 |
 | 31 | DeWanna Bonner | 1,192 |
@@ -475,7 +475,7 @@ _Last updated: 2026-06-12 00:27 UTC_
 | 44 | Nikki Teasley | 982 |
 | 45 | Kayla McBride | 968 |
 | 46 | Tamecka Dixon | 960 |
-| 47 | **Breanna Stewart** 🔴 +2 | 955 |
+| 47 | **Breanna Stewart** 🔴 +3 | 956 |
 | 48 | Kara Lawson | 946 |
 | 49 | Tiffany Hayes | 936 |
 | 50 | Deanna Nolan | 930 |
@@ -611,7 +611,7 @@ _Last updated: 2026-06-12 00:27 UTC_
 | 180 | Bridget Carleton | 375 |
 | 181 | Alanna Smith | 372 |
 | 182 | Suzie McConnell Serio | 370 |
-| 183 | Damiris Dantas | 368 |
+| 183 | **Damiris Dantas** 🔴 | 368 |
 | 184 | Roneeka Hodges | 362 |
 | 185 | Andrea Nagy | 361 |
 | 185 | Diamond DeShields | 361 |
@@ -791,7 +791,7 @@ _Last updated: 2026-06-12 00:27 UTC_
 | 154 | **Natasha Cloud** 🔴 | 84 |
 | 154 | Shatori Walker-Kimbrough | 84 |
 | 157 | Tamera Young | 83 |
-| 158 | Damiris Dantas | 82 |
+| 158 | **Damiris Dantas** 🔴 | 82 |
 | 159 | Charlotte Smith | 81 |
 | 159 | Cintia dos Santos | 81 |
 | 159 | Jessie Hicks | 81 |
@@ -1082,8 +1082,8 @@ _Last updated: 2026-06-12 00:27 UTC_
 | 36 | Mwadi Mabika | 415 |
 | 37 | Penny Taylor | 407 |
 | 37 | Riquna Williams | 407 |
-| 39 | Jia Perkins | 396 |
-| 39 | **Rhyne Howard** 🔴 +2 | 396 |
+| 39 | **Rhyne Howard** 🔴 +3 | 397 |
+| 40 | Jia Perkins | 396 |
 | 41 | Alysha Clark | 394 |
 | 42 | Roneeka Hodges | 389 |
 | 43 | Courtney Vandersloot | 385 |
@@ -1148,7 +1148,7 @@ _Last updated: 2026-06-12 00:27 UTC_
 | 102 | **Satou Sabally** 🔴 +2 | 220 |
 | 103 | Kelly Mazzante | 218 |
 | 103 | Sheri Sam | 218 |
-| 105 | Damiris Dantas | 211 |
+| 105 | **Damiris Dantas** 🔴 | 211 |
 | 105 | Erin Phillips | 211 |
 | 107 | Andrea Stinson | 207 |
 | 108 | **Betnijah Laney-Hamilton** 🔴 | 204 |
@@ -1602,7 +1602,7 @@ _Last updated: 2026-06-12 00:27 UTC_
 | 146 | A'ja Wilson | 537 |
 | 147 | Kristen Rasmussen | 533 |
 | 148 | Amanda Zahui B | 530 |
-| 149 | Damiris Dantas | 527 |
+| 149 | **Damiris Dantas** 🔴 | 527 |
 | 150 | Candice Wiggins | 525 |
 | 150 | Epiphanny Prince | 525 |
 | 150 | Jackie Young | 525 |
