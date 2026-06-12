@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-12 01:18 UTC_
+_Last updated: 2026-06-12 01:19 UTC_
 
 ## Contents
 
@@ -21,7 +21,7 @@ _Last updated: 2026-06-12 01:18 UTC_
 |-----:|--------|------:|
 | 1 | Diana Taurasi | 10,608 |
 | 2 | Tina Charles | 8,396 |
-| 3 | **DeWanna Bonner** 🔴 | 7,910 |
+| 3 | **DeWanna Bonner** 🔴 +2 | 7,912 |
 | 4 | Tina Thompson | 7,470 |
 | 5 | Nneka Ogwumike | 7,440 |
 | 6 | Tamika Catchings | 7,371 |
@@ -64,8 +64,8 @@ _Last updated: 2026-06-12 01:18 UTC_
 | 43 | Crystal Langhorne | 4,433 |
 | 43 | Jia Perkins | 4,433 |
 | 45 | Kelsey Plum | 4,395 |
-| 46 | Courtney Vandersloot | 4,352 |
-| 47 | **Allisha Gray** 🔴 +9 | 4,348 |
+| 46 | **Allisha Gray** 🔴 +14 | 4,353 |
+| 47 | Courtney Vandersloot | 4,352 |
 | 48 | Sophia Young-Malcolm | 4,300 |
 | 49 | **Kahleah Copper** 🔴 | 4,283 |
 | 50 | Plenette Pierson | 4,258 |
@@ -367,7 +367,7 @@ _Last updated: 2026-06-12 01:18 UTC_
 | 141 | Dominique Canty | 961 |
 | 142 | Armintie Herrington | 960 |
 | 143 | Janell Burse | 944 |
-| 144 | **Jessica Shepard** 🔴 +3 | 930 |
+| 144 | **Jessica Shepard** 🔴 +4 | 931 |
 | 145 | **Angel Reese** 🔴 +5 | 928 |
 | 145 | **Satou Sabally** 🔴 +2 | 928 |
 | 147 | Merlakia Jones | 927 |
@@ -552,7 +552,7 @@ _Last updated: 2026-06-12 01:18 UTC_
 | 121 | **Caitlin Clark** 🔴 +9 | 526 |
 | 122 | Margo Dydek | 524 |
 | 123 | **Myisha Hines-Allen** 🔴 +3 | 523 |
-| 124 | **Rhyne Howard** 🔴 +2 | 510 |
+| 124 | **Rhyne Howard** 🔴 +3 | 511 |
 | 125 | Iziane Castro Marques | 509 |
 | 126 | Brittany Boyd-Jones | 508 |
 | 126 | Chasity Melvin | 508 |
@@ -845,7 +845,7 @@ _Last updated: 2026-06-12 01:18 UTC_
 | 4 | Alana Beard | 710 |
 | 5 | Nneka Ogwumike | 678 |
 | 6 | Sheryl Swoopes | 657 |
-| 7 | **DeWanna Bonner** 🔴 | 643 |
+| 7 | **DeWanna Bonner** 🔴 +1 | 644 |
 | 8 | Jia Perkins | 634 |
 | 9 | Sancho Lyttle | 630 |
 | 10 | Angel McCoughtry | 627 |
@@ -899,9 +899,9 @@ _Last updated: 2026-06-12 01:18 UTC_
 | 58 | Chamique Holdsclaw | 376 |
 | 59 | Mwadi Mabika | 370 |
 | 60 | Brittney Sykes | 367 |
-| 61 | **Allisha Gray** 🔴 | 360 |
-| 61 | Lauren Jackson | 360 |
-| 61 | Tan White | 360 |
+| 61 | **Allisha Gray** 🔴 +1 | 361 |
+| 62 | Lauren Jackson | 360 |
+| 62 | Tan White | 360 |
 | 64 | Vickie Johnson | 357 |
 | 65 | Dominique Canty | 356 |
 | 65 | Renee Montgomery | 356 |
@@ -1073,7 +1073,7 @@ _Last updated: 2026-06-12 01:18 UTC_
 | 27 | **Breanna Stewart** 🔴 | 460 |
 | 28 | Ariel Atkins | 451 |
 | 28 | Tiffany Hayes | 451 |
-| 30 | **Allisha Gray** 🔴 | 445 |
+| 30 | **Allisha Gray** 🔴 +1 | 446 |
 | 31 | Lauren Jackson | 436 |
 | 31 | **Skylar Diggins** 🔴 +1 | 436 |
 | 33 | Shameka Christon | 434 |
@@ -1317,7 +1317,7 @@ _Last updated: 2026-06-12 01:18 UTC_
 | 65 | Kelsey Plum | 636 |
 | 67 | Odyssey Sims | 631 |
 | 67 | Svetlana Abrosimova | 631 |
-| 69 | **Jonquel Jones** 🔴 +2 | 629 |
+| 69 | **Jonquel Jones** 🔴 +3 | 630 |
 | 70 | Rebekkah Brunson | 615 |
 | 71 | Seimone Augustus | 613 |
 | 72 | **Kahleah Copper** 🔴 +2 | 611 |
@@ -1424,7 +1424,7 @@ _Last updated: 2026-06-12 01:18 UTC_
 | 173 | Aerial Powers | 333 |
 | 173 | Diamond DeShields | 333 |
 | 175 | Charde Houston | 331 |
-| 176 | **Satou Sabally** 🔴 | 330 |
+| 175 | **Satou Sabally** 🔴 +1 | 331 |
 | 177 | **Caitlin Clark** 🔴 +5 | 329 |
 | 178 | Erlana Larkins | 326 |
 | 178 | Rita Williams | 326 |
