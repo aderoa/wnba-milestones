@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-12T03:35:00+00:00",
+    "text": "Jewell Loyd passed Natasha Howard for #34 all-time in steals (career 448) \u2014 up from #36 entering today \u2014 (2:03 - 3rd \u2014 LV @ POR)",
+    "kind": "rank_pass",
+    "player": "Jewell Loyd",
+    "stat": "steals",
+    "rank": 34,
+    "passed_players": [
+      "Natasha Howard"
+    ],
+    "new_total": 448
+  },
+  {
     "ts": "2026-06-12T03:31:00+00:00",
     "text": "Cheyenne Parker-Tyus passed Cynthia Cooper for #118 all-time in points (career 2,603) \u2014 up from #119 entering today \u2014 (3:35 - 3rd \u2014 LV @ POR)",
     "kind": "rank_pass",
@@ -2950,14 +2962,5 @@
       "Courtney Williams"
     ],
     "new_total": 4239
-  },
-  {
-    "ts": "2026-06-06T03:16:00+00:00",
-    "text": "DeWanna Bonner reached 7,900 career points (now 7,901) \u2014 (7:53 - 3rd \u2014 PHX @ POR)",
-    "kind": "round",
-    "player": "DeWanna Bonner",
-    "stat": "points",
-    "value": 7900,
-    "new_total": 7901
   }
 ]

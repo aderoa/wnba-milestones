@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-12 03:35 UTC
+
+- **Jewell Loyd** passed **Natasha Howard** for **#34** all-time in steals (career 448) — up from #36 entering today — _2:03 - 3rd — LV @ POR_
+
 ## 2026-06-12 03:31 UTC
 
 - **Cheyenne Parker-Tyus** passed **Cynthia Cooper** for **#118** all-time in points (career 2,603) — up from #119 entering today — _3:35 - 3rd — LV @ POR_
