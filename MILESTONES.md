@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-12 03:51 UTC
+
+- **Chelsea Gray** passed **Natasha Howard** for **#40** all-time in points (career 4,529) — up from #41 entering today — _5:18 - 4th — LV @ POR_
+
 ## 2026-06-12 03:37 UTC
 
 - **Bridget Carleton** reached **1,400** career points (now 1,401) — _58.1 - 3rd — LV @ POR_

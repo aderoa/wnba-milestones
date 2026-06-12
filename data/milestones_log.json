@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-12T03:51:00+00:00",
+    "text": "Chelsea Gray passed Natasha Howard for #40 all-time in points (career 4,529) \u2014 up from #41 entering today \u2014 (5:18 - 4th \u2014 LV @ POR)",
+    "kind": "rank_pass",
+    "player": "Chelsea Gray",
+    "stat": "points",
+    "rank": 40,
+    "passed_players": [
+      "Natasha Howard"
+    ],
+    "new_total": 4529
+  },
+  {
     "ts": "2026-06-12T03:37:00+00:00",
     "text": "Bridget Carleton reached 1,400 career points (now 1,401) \u2014 (58.1 - 3rd \u2014 LV @ POR)",
     "kind": "round",
@@ -2954,14 +2966,5 @@
       "Brittney Sykes"
     ],
     "new_total": 243
-  },
-  {
-    "ts": "2026-06-06T03:20:00+00:00",
-    "text": "Luisa Geiselsoder reached 100 career fouls (now 100) \u2014 (5:38 - 3rd \u2014 PHX @ POR)",
-    "kind": "round",
-    "player": "Luisa Geiselsoder",
-    "stat": "fouls",
-    "value": 100,
-    "new_total": 100
   }
 ]

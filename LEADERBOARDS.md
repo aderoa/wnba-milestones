@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-12 03:50 UTC_
+_Last updated: 2026-06-12 03:51 UTC_
 
 ## Contents
 
@@ -58,8 +58,8 @@ _Last updated: 2026-06-12 03:50 UTC_
 | 37 | Alyssa Thomas | 4,659 |
 | 38 | Arike Ogunbowale | 4,614 |
 | 39 | Penny Taylor | 4,595 |
-| 40 | Natasha Howard | 4,528 |
-| 41 | **Chelsea Gray** 🔴 +20 | 4,526 |
+| 40 | **Chelsea Gray** 🔴 +23 | 4,529 |
+| 41 | Natasha Howard | 4,528 |
 | 42 | Kristi Toliver | 4,474 |
 | 43 | Crystal Langhorne | 4,433 |
 | 43 | Jia Perkins | 4,433 |
@@ -603,8 +603,8 @@ _Last updated: 2026-06-12 03:50 UTC_
 | 172 | Sugar Rodgers | 393 |
 | 173 | Shameka Christon | 389 |
 | 173 | Tamicha Jackson | 389 |
-| 175 | Riquna Williams | 387 |
-| 175 | **Stephanie Talbot** 🔴 +2 | 387 |
+| 175 | **Stephanie Talbot** 🔴 +3 | 388 |
+| 176 | Riquna Williams | 387 |
 | 177 | Dana Evans | 379 |
 | 178 | Jessica Breland | 377 |
 | 179 | Shenise Johnson | 376 |
@@ -640,7 +640,7 @@ _Last updated: 2026-06-12 03:50 UTC_
 | 4 | Sylvia Fowles | 721 |
 | 5 | Candace Parker | 619 |
 | 6 | Lauren Jackson | 586 |
-| 7 | **A'ja Wilson** 🔴 +2 | 558 |
+| 7 | **A'ja Wilson** 🔴 +1 | 557 |
 | 8 | Tammy Sutton-Brown | 555 |
 | 9 | Tangela Smith | 554 |
 | 10 | Ruth Riley | 505 |
@@ -1077,7 +1077,7 @@ _Last updated: 2026-06-12 03:50 UTC_
 | 31 | Skylar Diggins | 437 |
 | 32 | Lauren Jackson | 436 |
 | 33 | Shameka Christon | 434 |
-| 34 | **Chelsea Gray** 🔴 +6 | 431 |
+| 34 | **Chelsea Gray** 🔴 +7 | 432 |
 | 35 | Crystal Robinson | 425 |
 | 36 | Mwadi Mabika | 415 |
 | 37 | Penny Taylor | 407 |
