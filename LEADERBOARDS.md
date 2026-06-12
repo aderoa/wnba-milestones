@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-12 23:47 UTC_
+_Last updated: 2026-06-12 23:48 UTC_
 
 ## Contents
 
@@ -83,7 +83,7 @@ _Last updated: 2026-06-12 23:47 UTC_
 | 62 | Allie Quigley | 3,786 |
 | 63 | Chasity Melvin | 3,781 |
 | 64 | Kara Lawson | 3,670 |
-| 65 | **Brittney Sykes** 🔴 +4 | 3,625 |
+| 65 | **Brittney Sykes** 🔴 +6 | 3,627 |
 | 66 | Mwadi Mabika | 3,576 |
 | 67 | Odyssey Sims | 3,574 |
 | 68 | Camille Smith | 3,551 |
@@ -769,9 +769,9 @@ _Last updated: 2026-06-12 23:47 UTC_
 | 133 | Mwadi Mabika | 98 |
 | 133 | Natalie Achonwa | 98 |
 | 135 | Aneika Morello | 96 |
+| 135 | **Isabelle Harrison** 🔴 +1 | 96 |
 | 135 | Tiffani Johnson | 96 |
-| 137 | Imani McGee-Stafford | 95 |
-| 137 | **Isabelle Harrison** 🔴 | 95 |
+| 138 | Imani McGee-Stafford | 95 |
 | 139 | Jewell Loyd | 94 |
 | 139 | NaLyssa Smith | 94 |
 | 139 | Sandrine Gruda | 94 |
@@ -1541,8 +1541,8 @@ _Last updated: 2026-06-12 23:47 UTC_
 | 85 | Tan White | 698 |
 | 86 | Katie Douglas | 697 |
 | 87 | Danielle Robinson | 692 |
-| 88 | **Brittney Sykes** 🔴 | 687 |
-| 88 | Sophia Young-Malcolm | 687 |
+| 88 | **Brittney Sykes** 🔴 +1 | 688 |
+| 89 | Sophia Young-Malcolm | 687 |
 | 90 | Maya Moore | 686 |
 | 91 | Jasmine Thomas | 685 |
 | 92 | Leilani Mitchell | 684 |

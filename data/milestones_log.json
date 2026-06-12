@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-12T23:48:00+00:00",
+    "text": "Isabelle Harrison passed Imani McGee-Stafford for #137 all-time in blocks (career 96) \u2014 up from #138 entering today \u2014 (2:23 - 1st \u2014 TOR @ WSH)",
+    "kind": "rank_pass",
+    "player": "Isabelle Harrison",
+    "stat": "blocks",
+    "rank": 137,
+    "passed_players": [
+      "Imani McGee-Stafford"
+    ],
+    "new_total": 96
+  },
+  {
     "ts": "2026-06-12T03:51:00+00:00",
     "text": "Chelsea Gray passed Natasha Howard for #40 all-time in points (career 4,529) \u2014 up from #41 entering today \u2014 (5:18 - 4th \u2014 LV @ POR)",
     "kind": "rank_pass",
@@ -2954,17 +2966,5 @@
       "Krystal Thomas"
     ],
     "new_total": 863
-  },
-  {
-    "ts": "2026-06-06T03:20:00+00:00",
-    "text": "Nneka Ogwumike passed Brittney Sykes for #91 all-time in three-pointers (career 243) \u2014 up from #92 entering today \u2014 (5:16 - 3rd \u2014 DAL @ LA)",
-    "kind": "rank_pass",
-    "player": "Nneka Ogwumike",
-    "stat": "three-pointers",
-    "rank": 91,
-    "passed_players": [
-      "Brittney Sykes"
-    ],
-    "new_total": 243
   }
 ]

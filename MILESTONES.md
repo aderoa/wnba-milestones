@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-12 23:48 UTC
+
+- **Isabelle Harrison** passed **Imani McGee-Stafford** for **#137** all-time in blocks (career 96) — up from #138 entering today — _2:23 - 1st — TOR @ WSH_
+
 ## 2026-06-12 03:51 UTC
 
 - **Chelsea Gray** passed **Natasha Howard** for **#40** all-time in points (career 4,529) — up from #41 entering today — _5:18 - 4th — LV @ POR_
