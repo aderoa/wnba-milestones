@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-12 00:57 UTC_
+_Last updated: 2026-06-12 00:58 UTC_
 
 ## Contents
 
@@ -32,7 +32,7 @@ _Last updated: 2026-06-12 00:57 UTC_
 | 11 | Katie Smith | 6,450 |
 | 12 | Sylvia Fowles | 6,413 |
 | 13 | Lisa Leslie | 6,251 |
-| 14 | **Breanna Stewart** 🔴 +11 | 6,184 |
+| 14 | **Breanna Stewart** 🔴 +13 | 6,186 |
 | 15 | Jewell Loyd | 6,078 |
 | 16 | Brittney Griner | 6,031 |
 | 17 | Lauren Jackson | 6,005 |
@@ -72,8 +72,8 @@ _Last updated: 2026-06-12 00:57 UTC_
 | 51 | Monique Currie | 4,253 |
 | 52 | Dearica Hamby | 4,243 |
 | 53 | Courtney Williams | 4,238 |
-| 54 | **Jonquel Jones** 🔴 +8 | 4,230 |
-| 54 | Vickie Johnson | 4,230 |
+| 54 | **Jonquel Jones** 🔴 +11 | 4,233 |
+| 55 | Vickie Johnson | 4,230 |
 | 56 | Yolanda Griffith | 4,224 |
 | 57 | Rebekkah Brunson | 4,133 |
 | 58 | Asjha Jones | 3,986 |
@@ -240,7 +240,7 @@ _Last updated: 2026-06-12 00:57 UTC_
 | 14 | Sancho Lyttle | 2,596 |
 | 15 | A'ja Wilson | 2,574 |
 | 15 | DeLisha Milton-Jones | 2,574 |
-| 17 | **Breanna Stewart** 🔴 +6 | 2,566 |
+| 17 | **Breanna Stewart** 🔴 +7 | 2,567 |
 | 18 | Brittney Griner | 2,556 |
 | 19 | Swin Cash | 2,521 |
 | 20 | Michelle Snow | 2,476 |
@@ -534,7 +534,7 @@ _Last updated: 2026-06-12 00:57 UTC_
 | 103 | Sancho Lyttle | 592 |
 | 104 | Camille Smith | 590 |
 | 105 | Armintie Herrington | 589 |
-| 106 | **Betnijah Laney-Hamilton** 🔴 | 585 |
+| 106 | **Betnijah Laney-Hamilton** 🔴 +1 | 586 |
 | 107 | Tan White | 578 |
 | 108 | Matee Ajavon | 577 |
 | 109 | Gabby Williams | 572 |
@@ -1090,7 +1090,7 @@ _Last updated: 2026-06-12 00:57 UTC_
 | 44 | **Rachel Banham** 🔴 | 384 |
 | 45 | Briann January | 381 |
 | 46 | Jasmine Thomas | 376 |
-| 47 | **Jonquel Jones** 🔴 +2 | 373 |
+| 47 | **Jonquel Jones** 🔴 +3 | 374 |
 | 48 | Allison Feaster | 372 |
 | 48 | Betty Lennox | 372 |
 | 50 | Epiphanny Prince | 368 |

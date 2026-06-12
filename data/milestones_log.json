@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-12T00:58:00+00:00",
+    "text": "Jonquel Jones passed Vickie Johnson for #54 all-time in points (career 4,233) \u2014 up from #56 entering today \u2014 (5:06 - 3rd \u2014 NY @ ATL)",
+    "kind": "rank_pass",
+    "player": "Jonquel Jones",
+    "stat": "points",
+    "rank": 54,
+    "passed_players": [
+      "Vickie Johnson"
+    ],
+    "new_total": 4233
+  },
+  {
     "ts": "2026-06-12T00:10:00+00:00",
     "text": "Jonquel Jones passed Allison Feaster and Betty Lennox for #47 all-time in three-pointers (career 373) \u2014 up from #49 entering today \u2014 (4:58 - 2nd \u2014 NY @ ATL)",
     "kind": "rank_pass",
@@ -2954,17 +2966,5 @@
       "Allison Feaster"
     ],
     "new_total": 2259
-  },
-  {
-    "ts": "2026-06-06T01:24:00+00:00",
-    "text": "Brittney Griner passed Nakia Sanford for #29 all-time in fouls (career 980) \u2014 up from #30 entering today \u2014 (5:30 - 4th \u2014 CON @ CHI)",
-    "kind": "rank_pass",
-    "player": "Brittney Griner",
-    "stat": "fouls",
-    "rank": 29,
-    "passed_players": [
-      "Nakia Sanford"
-    ],
-    "new_total": 980
   }
 ]
