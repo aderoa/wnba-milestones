@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-12 02:51 UTC
+
+- **Kahleah Copper** passed **Rebekkah Brunson** for **#133** all-time in assists (career 487) — up from #134 entering today — _1:28 - 4th — PHX @ DAL_
+
 ## 2026-06-12 02:40 UTC
 
 - **Alanna Smith** passed **Shameka Christon** for **#155** all-time in rebounds (career 868) — up from #156 entering today — _6:32 - 4th — PHX @ DAL_

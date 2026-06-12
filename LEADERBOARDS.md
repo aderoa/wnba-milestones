@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-12 02:50 UTC_
+_Last updated: 2026-06-12 02:51 UTC_
 
 ## Contents
 
@@ -21,7 +21,7 @@ _Last updated: 2026-06-12 02:50 UTC_
 |-----:|--------|------:|
 | 1 | Diana Taurasi | 10,608 |
 | 2 | Tina Charles | 8,396 |
-| 3 | **DeWanna Bonner** 🔴 +7 | 7,917 |
+| 3 | **DeWanna Bonner** 🔴 +9 | 7,919 |
 | 4 | Tina Thompson | 7,470 |
 | 5 | Nneka Ogwumike | 7,440 |
 | 6 | Tamika Catchings | 7,371 |
@@ -67,7 +67,7 @@ _Last updated: 2026-06-12 02:50 UTC_
 | 46 | Allisha Gray | 4,357 |
 | 47 | Courtney Vandersloot | 4,352 |
 | 48 | Sophia Young-Malcolm | 4,300 |
-| 49 | **Kahleah Copper** 🔴 +10 | 4,293 |
+| 49 | **Kahleah Copper** 🔴 +13 | 4,296 |
 | 50 | Plenette Pierson | 4,258 |
 | 51 | Monique Currie | 4,253 |
 | 52 | Dearica Hamby | 4,243 |
@@ -202,7 +202,7 @@ _Last updated: 2026-06-12 02:50 UTC_
 | 181 | Rachel Banham | 1,823 |
 | 182 | Danielle Adams | 1,820 |
 | 183 | Charde Houston | 1,797 |
-| 184 | **NaLyssa Smith** 🔴 +6 | 1,781 |
+| 184 | **NaLyssa Smith** 🔴 +8 | 1,783 |
 | 185 | Kamila Vodichkova | 1,767 |
 | 186 | Tully Bevilaqua | 1,763 |
 | 187 | Sandy Brondello | 1,759 |
@@ -231,7 +231,7 @@ _Last updated: 2026-06-12 02:50 UTC_
 | 5 | Nneka Ogwumike | 3,337 |
 | 6 | Tamika Catchings | 3,313 |
 | 7 | Lisa Leslie | 3,303 |
-| 8 | **DeWanna Bonner** 🔴 +5 | 3,265 |
+| 8 | **DeWanna Bonner** 🔴 +6 | 3,266 |
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
@@ -336,7 +336,7 @@ _Last updated: 2026-06-12 02:50 UTC_
 | 109 | Tamika Raymond | 1,127 |
 | 111 | Adrienne Goodson | 1,126 |
 | 112 | Aliyah Boston | 1,122 |
-| 113 | **NaLyssa Smith** 🔴 +4 | 1,119 |
+| 113 | **NaLyssa Smith** 🔴 +5 | 1,120 |
 | 114 | Natasha Cloud | 1,116 |
 | 115 | Deanna Nolan | 1,112 |
 | 116 | Chiney Ogwumike | 1,110 |
@@ -459,7 +459,7 @@ _Last updated: 2026-06-12 02:50 UTC_
 | 28 | Jordin Canada | 1,208 |
 | 29 | Vickie Johnson | 1,202 |
 | 30 | Leilani Mitchell | 1,197 |
-| 31 | **DeWanna Bonner** 🔴 | 1,192 |
+| 31 | **DeWanna Bonner** 🔴 +1 | 1,193 |
 | 32 | **Jewell Loyd** 🔴 +1 | 1,145 |
 | 33 | Renee Montgomery | 1,140 |
 | 34 | Swin Cash | 1,131 |
@@ -561,8 +561,8 @@ _Last updated: 2026-06-12 02:50 UTC_
 | 129 | Coco Miller | 503 |
 | 131 | Crystal Robinson | 488 |
 | 131 | Tiffany Mitchell | 488 |
-| 133 | **Kahleah Copper** 🔴 +2 | 486 |
-| 133 | Rebekkah Brunson | 486 |
+| 133 | **Kahleah Copper** 🔴 +3 | 487 |
+| 134 | Rebekkah Brunson | 486 |
 | 135 | Ukari Figgs | 470 |
 | 136 | Janeth Arcain | 469 |
 | 137 | Elizabeth Williams | 468 |
@@ -845,7 +845,7 @@ _Last updated: 2026-06-12 02:50 UTC_
 | 4 | Alana Beard | 710 |
 | 5 | Nneka Ogwumike | 678 |
 | 6 | Sheryl Swoopes | 657 |
-| 7 | **DeWanna Bonner** 🔴 +2 | 645 |
+| 7 | **DeWanna Bonner** 🔴 +3 | 646 |
 | 8 | Jia Perkins | 634 |
 | 9 | Sancho Lyttle | 630 |
 | 10 | Angel McCoughtry | 627 |
@@ -1095,7 +1095,7 @@ _Last updated: 2026-06-12 02:50 UTC_
 | 48 | Betty Lennox | 372 |
 | 50 | Epiphanny Prince | 368 |
 | 51 | Kia Nurse | 364 |
-| 52 | **Kahleah Copper** 🔴 +1 | 356 |
+| 52 | **Kahleah Copper** 🔴 +2 | 357 |
 | 53 | Nykesha Sales | 352 |
 | 54 | Cathrine Kraayeveld | 343 |
 | 54 | Elena Delle Donne | 343 |
