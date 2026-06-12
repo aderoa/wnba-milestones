@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-12 04:01 UTC_
+_Last updated: 2026-06-12 04:02 UTC_
 
 ## Contents
 
@@ -320,8 +320,8 @@ _Last updated: 2026-06-12 04:01 UTC_
 | 94 | Ezi Magbegor | 1,243 |
 | 95 | **Brianna Turner** 🔴 | 1,237 |
 | 96 | Seimone Augustus | 1,228 |
+| 97 | **Chelsea Gray** 🔴 +5 | 1,226 |
 | 97 | Kayla McBride | 1,226 |
-| 98 | **Chelsea Gray** 🔴 +4 | 1,225 |
 | 99 | Jia Perkins | 1,220 |
 | 100 | DeMya Walker | 1,199 |
 | 101 | Latasha Byears | 1,190 |
@@ -640,7 +640,7 @@ _Last updated: 2026-06-12 04:01 UTC_
 | 4 | Sylvia Fowles | 721 |
 | 5 | Candace Parker | 619 |
 | 6 | Lauren Jackson | 586 |
-| 7 | **A'ja Wilson** 🔴 +1 | 557 |
+| 7 | **A'ja Wilson** 🔴 +2 | 558 |
 | 8 | Tammy Sutton-Brown | 555 |
 | 9 | Tangela Smith | 554 |
 | 10 | Ruth Riley | 505 |
@@ -1603,7 +1603,7 @@ _Last updated: 2026-06-12 04:01 UTC_
 | 147 | Kristen Rasmussen | 533 |
 | 148 | Amanda Zahui B | 530 |
 | 149 | Damiris Dantas | 529 |
-| 150 | **Jackie Young** 🔴 +1 | 526 |
+| 150 | **Jackie Young** 🔴 +2 | 527 |
 | 151 | Candice Wiggins | 525 |
 | 151 | Epiphanny Prince | 525 |
 | 153 | Armintie Herrington | 523 |
