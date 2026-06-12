@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-12 00:28 UTC_
+_Last updated: 2026-06-12 00:29 UTC_
 
 ## Contents
 
@@ -1295,8 +1295,8 @@ _Last updated: 2026-06-12 00:28 UTC_
 | 44 | Tamecka Dixon | 716 |
 | 45 | Renee Montgomery | 697 |
 | 46 | Temeka Johnson | 696 |
+| 47 | **Natasha Cloud** 🔴 +3 | 695 |
 | 47 | Penny Taylor | 695 |
-| 48 | **Natasha Cloud** 🔴 +2 | 694 |
 | 49 | Erica Wheeler | 690 |
 | 50 | Dominique Canty | 685 |
 | 51 | DeMya Walker | 684 |
@@ -1513,8 +1513,8 @@ _Last updated: 2026-06-12 00:28 UTC_
 | 56 | Wendy Palmer | 831 |
 | 58 | Dearica Hamby | 829 |
 | 59 | Shannon Johnson | 813 |
+| 59 | **Skylar Diggins** 🔴 +1 | 813 |
 | 59 | Tully Bevilaqua | 813 |
-| 61 | **Skylar Diggins** 🔴 | 812 |
 | 62 | Nykesha Sales | 796 |
 | 63 | Ebony Hoffman | 791 |
 | 64 | Erica Wheeler | 787 |
