@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-12T01:12:00+00:00",
+    "text": "Kahleah Copper passed Tiffany Hayes for #72 all-time in turnovers (career 611) \u2014 up from #73 entering today \u2014 (6:09 - 1st \u2014 PHX @ DAL)",
+    "kind": "rank_pass",
+    "player": "Kahleah Copper",
+    "stat": "turnovers",
+    "rank": 72,
+    "passed_players": [
+      "Tiffany Hayes"
+    ],
+    "new_total": 611
+  },
+  {
     "ts": "2026-06-12T01:00:00+00:00",
     "text": "Natasha Cloud passed Penny Taylor for #47 all-time in turnovers (career 696) \u2014 up from #48 entering today \u2014 (5:16 - 4th \u2014 CHI @ IND)",
     "kind": "rank_pass",
@@ -2954,17 +2966,5 @@
       "Nneka Ogwumike"
     ],
     "new_total": 913
-  },
-  {
-    "ts": "2026-06-06T01:40:00+00:00",
-    "text": "Elizabeth Williams passed Natalie Williams for #100 all-time in points (career 2,896) \u2014 up from #102 entering today \u2014 (14.5 - 4th \u2014 CON @ CHI)",
-    "kind": "rank_pass",
-    "player": "Elizabeth Williams",
-    "stat": "points",
-    "rank": 100,
-    "passed_players": [
-      "Natalie Williams"
-    ],
-    "new_total": 2896
   }
 ]
