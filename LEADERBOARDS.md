@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-12 00:18 UTC_
+_Last updated: 2026-06-12 00:19 UTC_
 
 ## Contents
 
@@ -40,7 +40,7 @@ _Last updated: 2026-06-12 00:18 UTC_
 | 19 | A'ja Wilson | 5,942 |
 | 20 | Becky Hammon | 5,816 |
 | 21 | Angel McCoughtry | 5,797 |
-| 22 | **Skylar Diggins** 🔴 +5 | 5,631 |
+| 22 | **Skylar Diggins** 🔴 +8 | 5,634 |
 | 23 | DeLisha Milton-Jones | 5,571 |
 | 24 | Katie Douglas | 5,545 |
 | 25 | Kayla McBride | 5,522 |
@@ -65,7 +65,7 @@ _Last updated: 2026-06-12 00:18 UTC_
 | 43 | Jia Perkins | 4,433 |
 | 45 | Kelsey Plum | 4,395 |
 | 46 | Courtney Vandersloot | 4,352 |
-| 47 | **Allisha Gray** 🔴 +3 | 4,342 |
+| 47 | **Allisha Gray** 🔴 +4 | 4,343 |
 | 48 | Sophia Young-Malcolm | 4,300 |
 | 49 | Kahleah Copper | 4,283 |
 | 50 | Plenette Pierson | 4,258 |
@@ -236,7 +236,7 @@ _Last updated: 2026-06-12 00:18 UTC_
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | Alyssa Thomas | 2,817 |
-| 13 | **Jonquel Jones** 🔴 +6 | 2,669 |
+| 13 | **Jonquel Jones** 🔴 +7 | 2,670 |
 | 14 | Sancho Lyttle | 2,596 |
 | 15 | A'ja Wilson | 2,574 |
 | 15 | DeLisha Milton-Jones | 2,574 |
@@ -312,7 +312,7 @@ _Last updated: 2026-06-12 00:18 UTC_
 | 86 | Jayne Appel Marinelli | 1,326 |
 | 87 | Betty Lennox | 1,296 |
 | 88 | Tari Phillips | 1,274 |
-| 89 | **Azurá Stevens** 🔴 +7 | 1,263 |
+| 89 | **Azurá Stevens** 🔴 +8 | 1,264 |
 | 90 | Janel McCarville | 1,261 |
 | 91 | Liz Cambage | 1,258 |
 | 92 | Tiffany Hayes | 1,244 |
@@ -868,8 +868,8 @@ _Last updated: 2026-06-12 00:18 UTC_
 | 27 | Sophia Young-Malcolm | 477 |
 | 28 | Teresa Weatherspoon | 463 |
 | 29 | Rebekkah Brunson | 456 |
+| 30 | **Skylar Diggins** 🔴 +1 | 455 |
 | 30 | Tangela Smith | 455 |
-| 31 | **Skylar Diggins** 🔴 | 454 |
 | 32 | Tina Thompson | 452 |
 | 33 | Maya Moore | 449 |
 | 34 | Natasha Howard | 447 |
@@ -1425,7 +1425,7 @@ _Last updated: 2026-06-12 00:18 UTC_
 | 173 | Diamond DeShields | 333 |
 | 175 | Charde Houston | 331 |
 | 176 | **Satou Sabally** 🔴 | 330 |
-| 177 | **Caitlin Clark** 🔴 +3 | 327 |
+| 177 | **Caitlin Clark** 🔴 +4 | 328 |
 | 178 | Erlana Larkins | 326 |
 | 178 | Rita Williams | 326 |
 | 180 | Le'coe Willingham | 325 |
@@ -1529,7 +1529,7 @@ _Last updated: 2026-06-12 00:18 UTC_
 | 73 | Shameka Christon | 734 |
 | 74 | Becky Hammon | 733 |
 | 75 | Latasha Byears | 730 |
-| 76 | **Allisha Gray** 🔴 +1 | 727 |
+| 76 | **Allisha Gray** 🔴 +2 | 728 |
 | 77 | Kristi Toliver | 722 |
 | 78 | **Elizabeth Williams** 🔴 +1 | 721 |
 | 79 | Ariel Atkins | 713 |
