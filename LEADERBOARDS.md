@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-12 02:06 UTC_
+_Last updated: 2026-06-12 02:07 UTC_
 
 ## Contents
 
@@ -202,7 +202,7 @@ _Last updated: 2026-06-12 02:06 UTC_
 | 181 | Rachel Banham | 1,823 |
 | 182 | Danielle Adams | 1,820 |
 | 183 | Charde Houston | 1,797 |
-| 184 | **NaLyssa Smith** 🔴 +1 | 1,776 |
+| 184 | **NaLyssa Smith** 🔴 +2 | 1,777 |
 | 185 | Kamila Vodichkova | 1,767 |
 | 186 | Tully Bevilaqua | 1,763 |
 | 187 | Sandy Brondello | 1,759 |
@@ -336,8 +336,8 @@ _Last updated: 2026-06-12 02:06 UTC_
 | 109 | Tamika Raymond | 1,127 |
 | 111 | Adrienne Goodson | 1,126 |
 | 112 | Aliyah Boston | 1,122 |
-| 113 | **NaLyssa Smith** 🔴 +1 | 1,116 |
-| 113 | Natasha Cloud | 1,116 |
+| 113 | **NaLyssa Smith** 🔴 +2 | 1,117 |
+| 114 | Natasha Cloud | 1,116 |
 | 115 | Deanna Nolan | 1,112 |
 | 116 | Chiney Ogwumike | 1,110 |
 | 117 | Becky Hammon | 1,108 |
@@ -1376,7 +1376,7 @@ _Last updated: 2026-06-12 02:06 UTC_
 | 125 | Betnijah Laney-Hamilton | 444 |
 | 125 | Elena Baranova | 444 |
 | 125 | Jantel Lavender | 444 |
-| 128 | **Jackie Young** 🔴 | 441 |
+| 128 | **Jackie Young** 🔴 +1 | 442 |
 | 129 | **Alysha Clark** 🔴 | 440 |
 | 129 | Ann Wauters | 440 |
 | 129 | Cheyenne Parker-Tyus | 440 |
@@ -1603,9 +1603,9 @@ _Last updated: 2026-06-12 02:06 UTC_
 | 147 | Kristen Rasmussen | 533 |
 | 148 | Amanda Zahui B | 530 |
 | 149 | Damiris Dantas | 529 |
-| 150 | Candice Wiggins | 525 |
-| 150 | Epiphanny Prince | 525 |
-| 150 | **Jackie Young** 🔴 | 525 |
+| 150 | **Jackie Young** 🔴 +1 | 526 |
+| 151 | Candice Wiggins | 525 |
+| 151 | Epiphanny Prince | 525 |
 | 153 | Armintie Herrington | 523 |
 | 153 | Sophie Cunningham | 523 |
 | 155 | Kayla McBride | 522 |
