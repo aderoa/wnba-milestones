@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-13 00:58 UTC_
+_Last updated: 2026-06-13 00:59 UTC_
 
 ## Contents
 
@@ -718,10 +718,10 @@ _Last updated: 2026-06-13 00:58 UTC_
 | 82 | Chamique Holdsclaw | 143 |
 | 83 | Shavonte Zellous | 139 |
 | 84 | Penny Taylor | 136 |
-| 85 | **Brittney Sykes** 🔴 | 133 |
-| 85 | Devereaux Peters | 133 |
-| 85 | Nicky Anosike | 133 |
-| 85 | Seimone Augustus | 133 |
+| 85 | **Brittney Sykes** 🔴 +1 | 134 |
+| 86 | Devereaux Peters | 133 |
+| 86 | Nicky Anosike | 133 |
+| 86 | Seimone Augustus | 133 |
 | 89 | Katie Mattera | 131 |
 | 89 | Nakia Sanford | 131 |
 | 91 | Brooke Wyckoff | 129 |
@@ -1327,7 +1327,7 @@ _Last updated: 2026-06-13 00:58 UTC_
 | 75 | Tamika Whitmore | 600 |
 | 77 | Kelly Miller | 596 |
 | 78 | Stefanie Dolson | 589 |
-| 79 | **Brittney Sykes** 🔴 +4 | 583 |
+| 79 | **Brittney Sykes** 🔴 +5 | 584 |
 | 80 | Helen Darling | 575 |
 | 80 | Nykesha Sales | 575 |
 | 82 | Andrea Stinson | 571 |
