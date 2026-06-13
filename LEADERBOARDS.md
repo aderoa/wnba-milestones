@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-13 02:08 UTC_
+_Last updated: 2026-06-13 02:09 UTC_
 
 ## Contents
 
@@ -150,7 +150,7 @@ _Last updated: 2026-06-13 02:08 UTC_
 | 129 | Anna DeForge | 2,413 |
 | 130 | DeMya Walker | 2,379 |
 | 131 | Alex Bentley | 2,350 |
-| 132 | **Kayla Thornton** 🔴 | 2,333 |
+| 132 | **Kayla Thornton** 🔴 +2 | 2,335 |
 | 133 | Merlakia Jones | 2,308 |
 | 134 | Kia Vaughn | 2,288 |
 | 135 | Betnijah Laney-Hamilton | 2,282 |
@@ -208,7 +208,7 @@ _Last updated: 2026-06-13 02:08 UTC_
 | 187 | Sandy Brondello | 1,759 |
 | 188 | Sophie Cunningham | 1,752 |
 | 189 | Sugar Rodgers | 1,733 |
-| 190 | **Gabby Williams** 🔴 | 1,723 |
+| 190 | **Gabby Williams** 🔴 +3 | 1,726 |
 | 191 | Moriah Jefferson | 1,722 |
 | 192 | Armintie Herrington | 1,696 |
 | 193 | Nikki Teasley | 1,690 |
@@ -547,7 +547,7 @@ _Last updated: 2026-06-13 02:08 UTC_
 | 116 | Janel McCarville | 551 |
 | 116 | Svetlana Abrosimova | 551 |
 | 118 | Michele Timms | 549 |
-| 119 | **Veronica Burton** 🔴 | 537 |
+| 119 | **Veronica Burton** 🔴 +1 | 538 |
 | 120 | Marie Ferdinand-Harris | 528 |
 | 121 | Margo Dydek | 524 |
 | 122 | Myisha Hines-Allen | 520 |
@@ -1037,7 +1037,7 @@ _Last updated: 2026-06-13 02:08 UTC_
 | 195 | Ezi Magbegor | 174 |
 | 195 | Margo Dydek | 174 |
 | 198 | Kamila Vodichkova | 173 |
-| 199 | **Kiah Stokes** 🔴 | 172 |
+| 198 | **Kiah Stokes** 🔴 +1 | 173 |
 | 200 | Brittney Griner | 170 |
 
 ## Three-pointers
@@ -1201,10 +1201,10 @@ _Last updated: 2026-06-13 02:08 UTC_
 | 154 | Michaela Onyenwere | 142 |
 | 156 | Jordan Hooper | 141 |
 | 157 | Coco Miller | 139 |
+| 158 | **Gabby Williams** 🔴 +1 | 138 |
 | 158 | Loree Moore | 138 |
 | 158 | Tanisha Wright | 138 |
-| 160 | **Gabby Williams** 🔴 | 137 |
-| 160 | Kaleena Mosqueda-Lewis | 137 |
+| 161 | Kaleena Mosqueda-Lewis | 137 |
 | 162 | Karlie Samuelson | 135 |
 | 163 | Shay Murphy | 134 |
 | 164 | Brooke Wyckoff | 132 |
@@ -1446,7 +1446,7 @@ _Last updated: 2026-06-13 02:08 UTC_
 | 195 | Rachel Banham | 295 |
 | 196 | **Kayla Thornton** 🔴 | 294 |
 | 197 | Azurá Stevens | 292 |
-| 198 | **Natisha Hiedeman** 🔴 | 289 |
+| 198 | **Natisha Hiedeman** 🔴 +1 | 290 |
 | 199 | Alexis Hornbuckle | 288 |
 | 199 | Kristen Rasmussen | 288 |
 
