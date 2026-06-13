@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-13 01:34 UTC_
+_Last updated: 2026-06-13 01:35 UTC_
 
 ## Contents
 
@@ -406,8 +406,8 @@ _Last updated: 2026-06-13 01:34 UTC_
 | 180 | Teresa Weatherspoon | 775 |
 | 181 | Anna DeForge | 769 |
 | 181 | Kelsey Bone | 769 |
+| 181 | **Shakira Austin** 🔴 +11 | 769 |
 | 181 | Tan White | 769 |
-| 184 | **Shakira Austin** 🔴 +10 | 768 |
 | 185 | Tully Bevilaqua | 767 |
 | 186 | Layshia Clarendon | 756 |
 | 187 | Brooke Wyckoff | 751 |
