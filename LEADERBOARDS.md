@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-13 02:47 UTC_
+_Last updated: 2026-06-13 02:48 UTC_
 
 ## Contents
 
@@ -1560,8 +1560,8 @@ _Last updated: 2026-06-13 02:47 UTC_
 | 104 | Tari Phillips | 648 |
 | 105 | Marie Ferdinand-Harris | 646 |
 | 106 | Charlotte Smith | 638 |
-| 107 | Janell Burse | 632 |
-| 107 | **Kiah Stokes** 🔴 | 632 |
+| 107 | **Kiah Stokes** 🔴 +1 | 633 |
+| 108 | Janell Burse | 632 |
 | 109 | Nicole Ohlde | 631 |
 | 110 | Jennifer Gillom | 629 |
 | 111 | Deanna Nolan | 628 |
