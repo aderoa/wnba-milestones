@@ -1,5 +1,14 @@
 [
   {
+    "ts": "2026-06-13T04:20:00+00:00",
+    "text": "Janelle Salaun reached 100 career fouls (now 100) \u2014 (50.3 - 4th \u2014 GS @ SEA)",
+    "kind": "round",
+    "player": "Janelle Salaun",
+    "stat": "fouls",
+    "value": 100,
+    "new_total": 100
+  },
+  {
     "ts": "2026-06-13T03:55:00+00:00",
     "text": "Kayla Thornton passed Jasmine Thomas and Kayla Alexander for #142 all-time in blocks (career 92) \u2014 up from #146 entering today \u2014 (5:47 - 4th \u2014 GS @ SEA)",
     "kind": "rank_pass",
@@ -2957,14 +2966,5 @@
     "stat": "points",
     "value": 800,
     "new_total": 800
-  },
-  {
-    "ts": "2026-06-06T03:39:00+00:00",
-    "text": "Cameron Brink reached 300 career points (now 300) \u2014 (9:17 - 4th \u2014 DAL @ LA)",
-    "kind": "round",
-    "player": "Cameron Brink",
-    "stat": "points",
-    "value": 300,
-    "new_total": 300
   }
 ]

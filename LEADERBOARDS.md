@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-13 04:19 UTC_
+_Last updated: 2026-06-13 04:20 UTC_
 
 ## Contents
 
@@ -477,7 +477,7 @@ _Last updated: 2026-06-13 04:19 UTC_
 | 46 | Tamecka Dixon | 960 |
 | 47 | Breanna Stewart | 953 |
 | 48 | Kara Lawson | 946 |
-| 49 | **Tiffany Hayes** 🔴 +2 | 938 |
+| 49 | **Tiffany Hayes** 🔴 +3 | 939 |
 | 50 | Deanna Nolan | 930 |
 | 51 | Kelly Miller | 927 |
 | 52 | DeLisha Milton-Jones | 921 |
@@ -547,7 +547,7 @@ _Last updated: 2026-06-13 04:19 UTC_
 | 116 | Janel McCarville | 551 |
 | 116 | Svetlana Abrosimova | 551 |
 | 118 | Michele Timms | 549 |
-| 119 | **Veronica Burton** 🔴 +9 | 546 |
+| 119 | **Veronica Burton** 🔴 +8 | 545 |
 | 120 | Marie Ferdinand-Harris | 528 |
 | 121 | Margo Dydek | 524 |
 | 122 | Myisha Hines-Allen | 520 |
