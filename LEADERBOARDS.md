@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-13 23:02 UTC_
+_Last updated: 2026-06-13 23:03 UTC_
 
 ## Contents
 
@@ -47,7 +47,7 @@ _Last updated: 2026-06-13 23:02 UTC_
 | 26 | Lindsay Whalen | 5,511 |
 | 27 | Swin Cash | 5,119 |
 | 28 | Tangela Smith | 5,035 |
-| 29 | **Kelsey Mitchell** 🔴 +13 | 5,016 |
+| 29 | **Kelsey Mitchell** 🔴 +14 | 5,017 |
 | 30 | Taj McWilliams-Franklin | 4,992 |
 | 31 | Tiffany Hayes | 4,985 |
 | 32 | Maya Moore | 4,984 |
@@ -215,7 +215,7 @@ _Last updated: 2026-06-13 23:02 UTC_
 | 194 | Shenise Johnson | 1,688 |
 | 195 | Janell Burse | 1,580 |
 | 196 | Le'coe Willingham | 1,552 |
-| 197 | **Monique Billings** 🔴 +7 | 1,550 |
+| 197 | **Monique Billings** 🔴 +8 | 1,551 |
 | 198 | Shatori Walker-Kimbrough | 1,544 |
 | 199 | Rebecca Allen | 1,526 |
 | 200 | Jennifer Lacy | 1,504 |
@@ -294,8 +294,8 @@ _Last updated: 2026-06-13 23:02 UTC_
 | 68 | Tamera Young | 1,433 |
 | 69 | Alana Beard | 1,420 |
 | 70 | Nakia Sanford | 1,419 |
-| 71 | Kara Braxton | 1,387 |
-| 71 | **Monique Billings** 🔴 +2 | 1,387 |
+| 71 | **Monique Billings** 🔴 +3 | 1,388 |
+| 72 | Kara Braxton | 1,387 |
 | 73 | Allisha Gray | 1,384 |
 | 74 | Courtney Vandersloot | 1,383 |
 | 74 | Katie Smith | 1,383 |
@@ -723,8 +723,8 @@ _Last updated: 2026-06-13 23:02 UTC_
 | 85 | Nicky Anosike | 133 |
 | 85 | Seimone Augustus | 133 |
 | 89 | Katie Mattera | 131 |
-| 89 | **Monique Billings** 🔴 +2 | 131 |
 | 89 | Nakia Sanford | 131 |
+| 91 | **Monique Billings** 🔴 +1 | 130 |
 | 92 | Brooke Wyckoff | 129 |
 | 92 | Cathrine Kraayeveld | 129 |
 | 94 | Chiney Ogwumike | 127 |
