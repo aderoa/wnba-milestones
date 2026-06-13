@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-13 03:16 UTC_
+_Last updated: 2026-06-13 03:17 UTC_
 
 ## Contents
 
@@ -48,8 +48,8 @@ _Last updated: 2026-06-13 03:16 UTC_
 | 27 | Swin Cash | 5,119 |
 | 28 | Tangela Smith | 5,035 |
 | 29 | Kelsey Mitchell | 5,003 |
-| 30 | Taj McWilliams-Franklin | 4,992 |
-| 30 | **Tiffany Hayes** 🔴 +7 | 4,992 |
+| 30 | **Tiffany Hayes** 🔴 +9 | 4,994 |
+| 31 | Taj McWilliams-Franklin | 4,992 |
 | 32 | Maya Moore | 4,984 |
 | 33 | Sheryl Swoopes | 4,875 |
 | 34 | Alana Beard | 4,740 |
@@ -207,8 +207,8 @@ _Last updated: 2026-06-13 03:16 UTC_
 | 186 | Tully Bevilaqua | 1,763 |
 | 187 | Sandy Brondello | 1,759 |
 | 188 | Sophie Cunningham | 1,752 |
-| 189 | Sugar Rodgers | 1,733 |
-| 190 | **Gabby Williams** 🔴 +9 | 1,732 |
+| 189 | **Gabby Williams** 🔴 +11 | 1,734 |
+| 190 | Sugar Rodgers | 1,733 |
 | 191 | Moriah Jefferson | 1,722 |
 | 192 | Armintie Herrington | 1,696 |
 | 193 | Nikki Teasley | 1,690 |
@@ -524,7 +524,7 @@ _Last updated: 2026-06-13 03:16 UTC_
 | 93 | A'ja Wilson | 637 |
 | 93 | Asjha Jones | 637 |
 | 95 | Jennifer Azzi | 636 |
-| 96 | **Natisha Hiedeman** 🔴 +2 | 626 |
+| 96 | **Natisha Hiedeman** 🔴 +3 | 627 |
 | 97 | Jonquel Jones | 625 |
 | 98 | Sami Whitcomb | 623 |
 | 99 | Alysha Clark | 616 |
@@ -931,8 +931,8 @@ _Last updated: 2026-06-13 03:16 UTC_
 | 89 | Temeka Johnson | 317 |
 | 91 | Alysha Clark | 316 |
 | 92 | Debbie Black | 315 |
-| 93 | Crystal Langhorne | 314 |
-| 93 | **Gabby Williams** 🔴 | 314 |
+| 92 | **Gabby Williams** 🔴 +1 | 315 |
+| 94 | Crystal Langhorne | 314 |
 | 95 | Ebony Hoffman | 308 |
 | 96 | Tamera Young | 305 |
 | 97 | Kedra Holland-Corn | 301 |
