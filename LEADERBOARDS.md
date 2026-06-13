@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-13 04:15 UTC_
+_Last updated: 2026-06-13 04:16 UTC_
 
 ## Contents
 
@@ -194,7 +194,7 @@ _Last updated: 2026-06-13 04:15 UTC_
 | 173 | Nakia Sanford | 1,915 |
 | 174 | Ebony Hoffman | 1,909 |
 | 175 | Candice Wiggins | 1,901 |
-| 176 | **Natisha Hiedeman** 🔴 +23 | 1,881 |
+| 176 | **Natisha Hiedeman** 🔴 +25 | 1,883 |
 | 177 | Isabelle Harrison | 1,840 |
 | 178 | Damiris Dantas | 1,830 |
 | 179 | Tianna Hawkins | 1,825 |
@@ -1011,9 +1011,9 @@ _Last updated: 2026-06-13 04:15 UTC_
 | 170 | Adrienne Goodson | 203 |
 | 171 | Allie Quigley | 198 |
 | 172 | Layshia Clarendon | 195 |
+| 173 | **Natisha Hiedeman** 🔴 +3 | 194 |
 | 173 | Sonja Henning | 194 |
 | 173 | Tierra Ruffin-Pratt | 194 |
-| 175 | **Natisha Hiedeman** 🔴 +2 | 193 |
 | 176 | Cynthia Cooper | 192 |
 | 177 | Alanna Smith | 190 |
 | 178 | Myisha Hines-Allen | 189 |
@@ -1430,7 +1430,7 @@ _Last updated: 2026-06-13 04:15 UTC_
 | 179 | Le'coe Willingham | 325 |
 | 180 | Caitlin Clark | 324 |
 | 180 | Olympia Scott | 324 |
-| 182 | **Gabby Williams** 🔴 +2 | 322 |
+| 182 | **Gabby Williams** 🔴 +3 | 323 |
 | 183 | Kia Nurse | 316 |
 | 184 | Barbara Farris | 315 |
 | 185 | Moriah Jefferson | 314 |
