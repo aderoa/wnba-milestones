@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-13 02:21 UTC
+
+- **Kayla Thornton** passed **Allie Quigley** and **Alysha Clark** for **#144** all-time in blocks (career 91) — up from #146 entering today — _2:48 - 1st — GS @ SEA_
+
 ## 2026-06-13 01:26 UTC
 
 - **Isabelle Harrison** passed **Rebecca Allen** for **#184** all-time in steals (career 184) — up from #189 entering today — _3:28 - 4th — TOR @ WSH_

@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-06-13T02:21:00+00:00",
+    "text": "Kayla Thornton passed Allie Quigley and Alysha Clark for #144 all-time in blocks (career 91) \u2014 up from #146 entering today \u2014 (2:48 - 1st \u2014 GS @ SEA)",
+    "kind": "rank_pass",
+    "player": "Kayla Thornton",
+    "stat": "blocks",
+    "rank": 144,
+    "passed_players": [
+      "Allie Quigley",
+      "Alysha Clark"
+    ],
+    "new_total": 91
+  },
+  {
     "ts": "2026-06-13T01:26:00+00:00",
     "text": "Isabelle Harrison passed Rebecca Allen for #184 all-time in steals (career 184) \u2014 up from #189 entering today \u2014 (3:28 - 4th \u2014 TOR @ WSH)",
     "kind": "rank_pass",
@@ -2952,17 +2965,5 @@
       "Nicky Anosike"
     ],
     "new_total": 923
-  },
-  {
-    "ts": "2026-06-06T03:30:00+00:00",
-    "text": "Erica Wheeler passed Vicky Bullett for #69 all-time in steals (career 354) \u2014 (1:11 - 3rd \u2014 DAL @ LA)",
-    "kind": "rank_pass",
-    "player": "Erica Wheeler",
-    "stat": "steals",
-    "rank": 69,
-    "passed_players": [
-      "Vicky Bullett"
-    ],
-    "new_total": 354
   }
 ]
