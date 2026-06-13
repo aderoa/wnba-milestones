@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-13 04:48 UTC_
+_Last updated: 2026-06-13 04:49 UTC_
 
 ## Contents
 
@@ -1011,9 +1011,9 @@ _Last updated: 2026-06-13 04:48 UTC_
 | 170 | Adrienne Goodson | 203 |
 | 171 | Allie Quigley | 198 |
 | 172 | Layshia Clarendon | 195 |
-| 173 | Natisha Hiedeman | 194 |
 | 173 | Sonja Henning | 194 |
 | 173 | Tierra Ruffin-Pratt | 194 |
+| 175 | Natisha Hiedeman | 193 |
 | 176 | Cynthia Cooper | 192 |
 | 177 | Alanna Smith | 190 |
 | 178 | Myisha Hines-Allen | 189 |
