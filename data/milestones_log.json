@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-13T00:54:00+00:00",
+    "text": "Marina Mabrey passed Jia Perkins for #107 all-time in turnovers (career 514) \u2014 up from #109 entering today \u2014 (4:21 - 3rd \u2014 TOR @ WSH)",
+    "kind": "rank_pass",
+    "player": "Marina Mabrey",
+    "stat": "turnovers",
+    "rank": 107,
+    "passed_players": [
+      "Jia Perkins"
+    ],
+    "new_total": 514
+  },
+  {
     "ts": "2026-06-13T00:02:00+00:00",
     "text": "Isabelle Harrison passed Nakia Sanford for #187 all-time in steals (career 182) \u2014 up from #189 entering today \u2014 (6:40 - 2nd \u2014 TOR @ WSH)",
     "kind": "rank_pass",
@@ -2953,18 +2965,5 @@
       "Svetlana Abrosimova"
     ],
     "new_total": 632
-  },
-  {
-    "ts": "2026-06-06T03:21:00+00:00",
-    "text": "Kelsey Plum passed Sami Whitcomb and Shekinna Stricklen for #194 all-time in rebounds (career 727) \u2014 (4:29 - 3rd \u2014 DAL @ LA)",
-    "kind": "rank_pass",
-    "player": "Kelsey Plum",
-    "stat": "rebounds",
-    "rank": 194,
-    "passed_players": [
-      "Sami Whitcomb",
-      "Shekinna Stricklen"
-    ],
-    "new_total": 727
   }
 ]
