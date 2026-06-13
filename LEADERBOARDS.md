@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-13 03:56 UTC_
+_Last updated: 2026-06-13 03:57 UTC_
 
 ## Contents
 
@@ -775,7 +775,7 @@ _Last updated: 2026-06-13 03:56 UTC_
 | 139 | Jewell Loyd | 94 |
 | 139 | NaLyssa Smith | 94 |
 | 139 | Sandrine Gruda | 94 |
-| 142 | **Kayla Thornton** 🔴 +2 | 92 |
+| 142 | **Kayla Thornton** 🔴 +3 | 93 |
 | 143 | Jasmine Thomas | 91 |
 | 143 | Kayla Alexander | 91 |
 | 145 | Allie Quigley | 90 |
@@ -1554,9 +1554,9 @@ _Last updated: 2026-06-13 03:56 UTC_
 | 98 | Cheyenne Parker-Tyus | 674 |
 | 99 | Chamique Holdsclaw | 667 |
 | 100 | Breanna Stewart | 665 |
+| 101 | **Kayla Thornton** 🔴 +1 | 662 |
 | 101 | Tianna Hawkins | 662 |
-| 102 | Jewell Loyd | 661 |
-| 102 | **Kayla Thornton** 🔴 | 661 |
+| 103 | Jewell Loyd | 661 |
 | 104 | Tari Phillips | 648 |
 | 105 | Marie Ferdinand-Harris | 646 |
 | 106 | Charlotte Smith | 638 |
