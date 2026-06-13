@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-13 01:30 UTC_
+_Last updated: 2026-06-13 01:31 UTC_
 
 ## Contents
 
@@ -111,7 +111,7 @@ _Last updated: 2026-06-13 01:30 UTC_
 | 90 | Wendy Palmer | 3,135 |
 | 91 | Shavonte Zellous | 3,103 |
 | 92 | Briann January | 3,082 |
-| 93 | **Marina Mabrey** 🔴 +11 | 3,063 |
+| 93 | **Marina Mabrey** 🔴 +14 | 3,066 |
 | 94 | Erika de Souza | 3,046 |
 | 95 | Sabrina Ionescu | 3,041 |
 | 96 | Shameka Christon | 3,039 |
@@ -745,12 +745,12 @@ _Last updated: 2026-06-13 01:30 UTC_
 | 107 | Natasha Mack | 117 |
 | 110 | Monique Currie | 114 |
 | 111 | Ariel Atkins | 113 |
-| 112 | Amanda Lassiter | 111 |
-| 112 | Kamila Vodichkova | 111 |
-| 112 | Kamilla Cardoso | 111 |
-| 112 | **Shakira Austin** 🔴 +1 | 111 |
-| 112 | Sophia Young-Malcolm | 111 |
-| 112 | Tari Phillips | 111 |
+| 112 | **Shakira Austin** 🔴 +2 | 112 |
+| 113 | Amanda Lassiter | 111 |
+| 113 | Kamila Vodichkova | 111 |
+| 113 | Kamilla Cardoso | 111 |
+| 113 | Sophia Young-Malcolm | 111 |
+| 113 | Tari Phillips | 111 |
 | 118 | Erin Perperoglou | 108 |
 | 118 | Glory Johnson | 108 |
 | 120 | Courtney Williams | 106 |
