@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-13 23:04 UTC_
+_Last updated: 2026-06-13 23:05 UTC_
 
 ## Contents
 
@@ -1425,9 +1425,9 @@ _Last updated: 2026-06-13 23:04 UTC_
 | 173 | Diamond DeShields | 333 |
 | 175 | Charde Houston | 331 |
 | 176 | Satou Sabally | 330 |
-| 177 | **Caitlin Clark** 🔴 +2 | 326 |
-| 177 | Erlana Larkins | 326 |
-| 177 | Rita Williams | 326 |
+| 177 | **Caitlin Clark** 🔴 +3 | 327 |
+| 178 | Erlana Larkins | 326 |
+| 178 | Rita Williams | 326 |
 | 180 | Le'coe Willingham | 325 |
 | 181 | Olympia Scott | 324 |
 | 182 | Gabby Williams | 320 |
