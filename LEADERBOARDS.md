@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-13 23:40 UTC_
+_Last updated: 2026-06-13 23:41 UTC_
 
 ## Contents
 
@@ -184,7 +184,7 @@ _Last updated: 2026-06-13 23:40 UTC_
 | 163 | Chiney Ogwumike | 1,964 |
 | 164 | Nicole Ohlde | 1,959 |
 | 165 | Kedra Holland-Corn | 1,938 |
-| 166 | **Aliyah Boston** 🔴 +7 | 1,935 |
+| 166 | **Aliyah Boston** 🔴 +9 | 1,937 |
 | 167 | Cathrine Kraayeveld | 1,926 |
 | 168 | Roneeka Hodges | 1,925 |
 | 169 | Latasha Byears | 1,920 |
@@ -335,7 +335,7 @@ _Last updated: 2026-06-13 23:40 UTC_
 | 109 | Andrea Stinson | 1,127 |
 | 109 | Tamika Raymond | 1,127 |
 | 111 | Adrienne Goodson | 1,126 |
-| 112 | **Aliyah Boston** 🔴 +7 | 1,117 |
+| 112 | **Aliyah Boston** 🔴 +8 | 1,118 |
 | 113 | NaLyssa Smith | 1,115 |
 | 114 | Deanna Nolan | 1,112 |
 | 114 | Natasha Cloud | 1,112 |
@@ -550,7 +550,7 @@ _Last updated: 2026-06-13 23:40 UTC_
 | 119 | Veronica Burton | 537 |
 | 120 | Marie Ferdinand-Harris | 528 |
 | 121 | Margo Dydek | 524 |
-| 122 | **Caitlin Clark** 🔴 +4 | 521 |
+| 122 | **Caitlin Clark** 🔴 +5 | 522 |
 | 123 | **Myisha Hines-Allen** 🔴 | 520 |
 | 124 | Iziane Castro Marques | 509 |
 | 125 | Brittany Boyd-Jones | 508 |
@@ -714,7 +714,7 @@ _Last updated: 2026-06-13 23:40 UTC_
 | 77 | Sue Wicks | 153 |
 | 79 | Jessica Davenport | 151 |
 | 80 | Alison Bales | 148 |
-| 81 | **Aliyah Boston** 🔴 | 147 |
+| 80 | **Aliyah Boston** 🔴 +1 | 148 |
 | 82 | Chamique Holdsclaw | 143 |
 | 83 | Shavonte Zellous | 139 |
 | 84 | Penny Taylor | 136 |
@@ -1403,7 +1403,7 @@ _Last updated: 2026-06-13 23:40 UTC_
 | 152 | Hamchetou Maiga-Ba | 385 |
 | 153 | Elizabeth Williams | 384 |
 | 154 | Kamila Vodichkova | 381 |
-| 155 | **Myisha Hines-Allen** 🔴 | 380 |
+| 154 | **Myisha Hines-Allen** 🔴 +1 | 381 |
 | 156 | Jessica Breland | 378 |
 | 157 | Armintie Herrington | 377 |
 | 158 | Anna DeForge | 374 |
@@ -1610,8 +1610,8 @@ _Last updated: 2026-06-13 23:40 UTC_
 | 154 | Armintie Herrington | 523 |
 | 155 | Kayla McBride | 522 |
 | 156 | **Monique Billings** 🔴 +2 | 519 |
+| 156 | **Myisha Hines-Allen** 🔴 +3 | 519 |
 | 156 | Sheryl Swoopes | 519 |
-| 158 | **Myisha Hines-Allen** 🔴 +2 | 518 |
 | 159 | Nikki McCray | 517 |
 | 160 | Alex Bentley | 516 |
 | 161 | Jantel Lavender | 513 |
