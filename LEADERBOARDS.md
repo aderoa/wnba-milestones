@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-13 02:18 UTC_
+_Last updated: 2026-06-13 02:19 UTC_
 
 ## Contents
 
@@ -208,7 +208,7 @@ _Last updated: 2026-06-13 02:18 UTC_
 | 187 | Sandy Brondello | 1,759 |
 | 188 | Sophie Cunningham | 1,752 |
 | 189 | Sugar Rodgers | 1,733 |
-| 190 | **Gabby Williams** 🔴 +3 | 1,726 |
+| 190 | **Gabby Williams** 🔴 +6 | 1,729 |
 | 191 | Moriah Jefferson | 1,722 |
 | 192 | Armintie Herrington | 1,696 |
 | 193 | Nikki Teasley | 1,690 |
@@ -265,7 +265,7 @@ _Last updated: 2026-06-13 02:18 UTC_
 | 39 | Lindsay Whalen | 1,805 |
 | 40 | Camille Smith | 1,802 |
 | 41 | Courtney Williams | 1,801 |
-| 42 | **Kiah Stokes** 🔴 | 1,790 |
+| 42 | **Kiah Stokes** 🔴 +1 | 1,791 |
 | 43 | Asjha Jones | 1,751 |
 | 44 | **Stefanie Dolson** 🔴 | 1,688 |
 | 45 | Teaira McCowan | 1,682 |
