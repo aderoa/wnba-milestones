@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-13 23:55 UTC_
+_Last updated: 2026-06-13 23:56 UTC_
 
 ## Contents
 
@@ -496,7 +496,7 @@ _Last updated: 2026-06-13 23:55 UTC_
 | 65 | Tully Bevilaqua | 853 |
 | 66 | Brittney Sykes | 852 |
 | 67 | Jia Perkins | 837 |
-| 68 | **Kelsey Mitchell** 🔴 +2 | 823 |
+| 68 | **Kelsey Mitchell** 🔴 +3 | 824 |
 | 69 | Andrea Stinson | 810 |
 | 70 | Tina Thompson | 803 |
 | 71 | Epiphanny Prince | 800 |
@@ -1166,10 +1166,10 @@ _Last updated: 2026-06-13 23:55 UTC_
 | 120 | Aerial Powers | 179 |
 | 120 | Camille Smith | 179 |
 | 122 | Swin Cash | 176 |
+| 123 | **Caitlin Clark** 🔴 +4 | 175 |
 | 123 | Nikki McCray | 175 |
-| 124 | **Caitlin Clark** 🔴 +3 | 174 |
-| 124 | Shatori Walker-Kimbrough | 174 |
-| 124 | Tayler Hill | 174 |
+| 125 | Shatori Walker-Kimbrough | 174 |
+| 125 | Tayler Hill | 174 |
 | 127 | Theresa Plaisance | 172 |
 | 128 | Amanda Lassiter | 170 |
 | 129 | Marine Johannès | 168 |
