@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-13 04:22 UTC
+
+- **Tiffany Hayes** passed **Seimone Augustus** for **#71** all-time in turnovers (career 614) — up from #72 entering today — _21.3 - 4th — GS @ SEA_
+
 ## 2026-06-13 04:20 UTC
 
 - **Janelle Salaun** reached **100** career fouls (now 100) — _50.3 - 4th — GS @ SEA_

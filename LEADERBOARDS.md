@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-13 04:21 UTC_
+_Last updated: 2026-06-13 04:22 UTC_
 
 ## Contents
 
@@ -315,7 +315,7 @@ _Last updated: 2026-06-13 04:21 UTC_
 | 89 | Janel McCarville | 1,261 |
 | 90 | Liz Cambage | 1,258 |
 | 91 | Azurá Stevens | 1,256 |
-| 92 | **Tiffany Hayes** 🔴 +3 | 1,247 |
+| 92 | **Tiffany Hayes** 🔴 +4 | 1,248 |
 | 93 | Ezi Magbegor | 1,243 |
 | 94 | Myisha Hines-Allen | 1,239 |
 | 95 | Brianna Turner | 1,237 |
@@ -1319,8 +1319,8 @@ _Last updated: 2026-06-13 04:21 UTC_
 | 67 | Svetlana Abrosimova | 631 |
 | 69 | Jonquel Jones | 627 |
 | 70 | Rebekkah Brunson | 615 |
-| 71 | Seimone Augustus | 613 |
-| 71 | **Tiffany Hayes** 🔴 +3 | 613 |
+| 71 | **Tiffany Hayes** 🔴 +4 | 614 |
+| 72 | Seimone Augustus | 613 |
 | 73 | Kahleah Copper | 609 |
 | 74 | Teresa Weatherspoon | 601 |
 | 75 | Lindsey Harding | 600 |

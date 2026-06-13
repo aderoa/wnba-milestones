@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-13T04:22:00+00:00",
+    "text": "Tiffany Hayes passed Seimone Augustus for #71 all-time in turnovers (career 614) \u2014 up from #72 entering today \u2014 (21.3 - 4th \u2014 GS @ SEA)",
+    "kind": "rank_pass",
+    "player": "Tiffany Hayes",
+    "stat": "turnovers",
+    "rank": 71,
+    "passed_players": [
+      "Seimone Augustus"
+    ],
+    "new_total": 614
+  },
+  {
     "ts": "2026-06-13T04:20:00+00:00",
     "text": "Janelle Salaun reached 100 career fouls (now 100) \u2014 (50.3 - 4th \u2014 GS @ SEA)",
     "kind": "round",
@@ -2957,14 +2969,5 @@
       "Krystal Thomas"
     ],
     "new_total": 119
-  },
-  {
-    "ts": "2026-06-06T03:49:00+00:00",
-    "text": "Maddy Siegrist reached 800 career points (now 800) \u2014 (6:26 - 4th \u2014 DAL @ LA)",
-    "kind": "round",
-    "player": "Maddy Siegrist",
-    "stat": "points",
-    "value": 800,
-    "new_total": 800
   }
 ]
