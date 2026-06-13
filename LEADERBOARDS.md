@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-13 01:25 UTC_
+_Last updated: 2026-06-13 01:26 UTC_
 
 ## Contents
 
@@ -111,7 +111,7 @@ _Last updated: 2026-06-13 01:25 UTC_
 | 90 | Wendy Palmer | 3,135 |
 | 91 | Shavonte Zellous | 3,103 |
 | 92 | Briann January | 3,082 |
-| 93 | **Marina Mabrey** 🔴 +9 | 3,061 |
+| 93 | **Marina Mabrey** 🔴 +11 | 3,063 |
 | 94 | Erika de Souza | 3,046 |
 | 95 | Sabrina Ionescu | 3,041 |
 | 96 | Shameka Christon | 3,039 |
@@ -382,7 +382,7 @@ _Last updated: 2026-06-13 01:25 UTC_
 | 156 | Alanna Smith | 864 |
 | 157 | Krystal Thomas | 862 |
 | 158 | Nia Coffey | 854 |
-| 159 | **Marina Mabrey** 🔴 | 849 |
+| 159 | **Marina Mabrey** 🔴 +1 | 850 |
 | 160 | Leilani Mitchell | 845 |
 | 161 | Essence Carson | 833 |
 | 162 | Kristi Toliver | 829 |
@@ -407,8 +407,8 @@ _Last updated: 2026-06-13 01:25 UTC_
 | 181 | Anna DeForge | 769 |
 | 181 | Kelsey Bone | 769 |
 | 181 | Tan White | 769 |
-| 184 | **Shakira Austin** 🔴 +9 | 767 |
-| 184 | Tully Bevilaqua | 767 |
+| 184 | **Shakira Austin** 🔴 +10 | 768 |
+| 185 | Tully Bevilaqua | 767 |
 | 186 | Layshia Clarendon | 756 |
 | 187 | Brooke Wyckoff | 751 |
 | 188 | Coco Miller | 750 |
@@ -1022,8 +1022,8 @@ _Last updated: 2026-06-13 01:25 UTC_
 | 181 | Charde Houston | 185 |
 | 181 | Tiffany Jackson | 185 |
 | 183 | Erin Perperoglou | 184 |
-| 184 | **Isabelle Harrison** 🔴 +3 | 183 |
-| 184 | Rebecca Allen | 183 |
+| 183 | **Isabelle Harrison** 🔴 +4 | 184 |
+| 185 | Rebecca Allen | 183 |
 | 186 | Erin Phillips | 182 |
 | 186 | Sabrina Ionescu | 182 |
 | 188 | Nakia Sanford | 181 |

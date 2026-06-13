@@ -2,6 +2,11 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-13 01:26 UTC
+
+- **Isabelle Harrison** passed **Rebecca Allen** for **#184** all-time in steals (career 184) — up from #189 entering today — _3:28 - 4th — TOR @ WSH_
+- **Shakira Austin** passed **Tully Bevilaqua** for **#184** all-time in rebounds (career 768) — up from #185 entering today — _3:28 - 4th — TOR @ WSH_
+
 ## 2026-06-13 01:03 UTC
 
 - **Isabelle Harrison** passed **Erin Phillips** and **Sabrina Ionescu** for **#185** all-time in steals (career 183) — up from #189 entering today — _2:03 - 3rd — TOR @ WSH_

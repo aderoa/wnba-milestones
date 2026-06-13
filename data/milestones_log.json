@@ -1,5 +1,29 @@
 [
   {
+    "ts": "2026-06-13T01:26:00+00:00",
+    "text": "Isabelle Harrison passed Rebecca Allen for #184 all-time in steals (career 184) \u2014 up from #189 entering today \u2014 (3:28 - 4th \u2014 TOR @ WSH)",
+    "kind": "rank_pass",
+    "player": "Isabelle Harrison",
+    "stat": "steals",
+    "rank": 184,
+    "passed_players": [
+      "Rebecca Allen"
+    ],
+    "new_total": 184
+  },
+  {
+    "ts": "2026-06-13T01:26:00+00:00",
+    "text": "Shakira Austin passed Tully Bevilaqua for #184 all-time in rebounds (career 768) \u2014 up from #185 entering today \u2014 (3:28 - 4th \u2014 TOR @ WSH)",
+    "kind": "rank_pass",
+    "player": "Shakira Austin",
+    "stat": "rebounds",
+    "rank": 184,
+    "passed_players": [
+      "Tully Bevilaqua"
+    ],
+    "new_total": 768
+  },
+  {
     "ts": "2026-06-13T01:03:00+00:00",
     "text": "Isabelle Harrison passed Erin Phillips and Sabrina Ionescu for #185 all-time in steals (career 183) \u2014 up from #189 entering today \u2014 (2:03 - 3rd \u2014 TOR @ WSH)",
     "kind": "rank_pass",
@@ -2940,31 +2964,5 @@
       "Vicky Bullett"
     ],
     "new_total": 354
-  },
-  {
-    "ts": "2026-06-06T03:28:00+00:00",
-    "text": "Cameron Brink passed Karima Christmas-Kelly, Kelsey Griffin, and Tianna Hawkins for #177 all-time in blocks (career 76) \u2014 (2:27 - 3rd \u2014 DAL @ LA)",
-    "kind": "rank_pass",
-    "player": "Cameron Brink",
-    "stat": "blocks",
-    "rank": 177,
-    "passed_players": [
-      "Karima Christmas-Kelly",
-      "Kelsey Griffin",
-      "Tianna Hawkins"
-    ],
-    "new_total": 76
-  },
-  {
-    "ts": "2026-06-06T03:26:00+00:00",
-    "text": "Karlie Samuelson passed Shay Murphy for #162 all-time in three-pointers (career 135) \u2014 up from #165 entering today \u2014 (3:37 - 3rd \u2014 PHX @ POR)",
-    "kind": "rank_pass",
-    "player": "Karlie Samuelson",
-    "stat": "three-pointers",
-    "rank": 162,
-    "passed_players": [
-      "Shay Murphy"
-    ],
-    "new_total": 135
   }
 ]
