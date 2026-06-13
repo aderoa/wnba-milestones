@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-13 01:03 UTC
+
+- **Isabelle Harrison** passed **Erin Phillips** and **Sabrina Ionescu** for **#185** all-time in steals (career 183) — up from #189 entering today — _2:03 - 3rd — TOR @ WSH_
+
 ## 2026-06-13 00:54 UTC
 
 - **Marina Mabrey** passed **Jia Perkins** for **#107** all-time in turnovers (career 514) — up from #109 entering today — _4:21 - 3rd — TOR @ WSH_

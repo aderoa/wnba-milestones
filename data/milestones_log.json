@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-06-13T01:03:00+00:00",
+    "text": "Isabelle Harrison passed Erin Phillips and Sabrina Ionescu for #185 all-time in steals (career 183) \u2014 up from #189 entering today \u2014 (2:03 - 3rd \u2014 TOR @ WSH)",
+    "kind": "rank_pass",
+    "player": "Isabelle Harrison",
+    "stat": "steals",
+    "rank": 185,
+    "passed_players": [
+      "Erin Phillips",
+      "Sabrina Ionescu"
+    ],
+    "new_total": 183
+  },
+  {
     "ts": "2026-06-13T00:54:00+00:00",
     "text": "Marina Mabrey passed Jia Perkins for #107 all-time in turnovers (career 514) \u2014 up from #109 entering today \u2014 (4:21 - 3rd \u2014 TOR @ WSH)",
     "kind": "rank_pass",
@@ -2953,17 +2966,5 @@
       "Shay Murphy"
     ],
     "new_total": 135
-  },
-  {
-    "ts": "2026-06-06T03:22:00+00:00",
-    "text": "Kelsey Plum passed Svetlana Abrosimova for #67 all-time in turnovers (career 632) \u2014 (4:06 - 3rd \u2014 DAL @ LA)",
-    "kind": "rank_pass",
-    "player": "Kelsey Plum",
-    "stat": "turnovers",
-    "rank": 67,
-    "passed_players": [
-      "Svetlana Abrosimova"
-    ],
-    "new_total": 632
   }
 ]
