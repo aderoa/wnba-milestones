@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-13 23:24 UTC_
+_Last updated: 2026-06-13 23:25 UTC_
 
 ## Contents
 
@@ -519,7 +519,7 @@ _Last updated: 2026-06-13 23:24 UTC_
 | 88 | Lindsay Allen | 657 |
 | 89 | Betty Lennox | 651 |
 | 89 | Plenette Pierson | 651 |
-| 91 | **Brittney Griner** 🔴 +1 | 649 |
+| 91 | **Brittney Griner** 🔴 +2 | 650 |
 | 92 | Alex Bentley | 645 |
 | 93 | A'ja Wilson | 637 |
 | 93 | Asjha Jones | 637 |
@@ -1167,9 +1167,9 @@ _Last updated: 2026-06-13 23:24 UTC_
 | 120 | Camille Smith | 179 |
 | 122 | Swin Cash | 176 |
 | 123 | Nikki McCray | 175 |
+| 124 | **Caitlin Clark** 🔴 +3 | 174 |
 | 124 | Shatori Walker-Kimbrough | 174 |
 | 124 | Tayler Hill | 174 |
-| 126 | **Caitlin Clark** 🔴 +2 | 173 |
 | 127 | Theresa Plaisance | 172 |
 | 128 | Amanda Lassiter | 170 |
 | 129 | Marine Johannès | 168 |
