@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-13 23:00 UTC_
+_Last updated: 2026-06-13 23:01 UTC_
 
 ## Contents
 
@@ -47,7 +47,7 @@ _Last updated: 2026-06-13 23:00 UTC_
 | 26 | Lindsay Whalen | 5,511 |
 | 27 | Swin Cash | 5,119 |
 | 28 | Tangela Smith | 5,035 |
-| 29 | **Kelsey Mitchell** 🔴 +11 | 5,014 |
+| 29 | **Kelsey Mitchell** 🔴 +13 | 5,016 |
 | 30 | Taj McWilliams-Franklin | 4,992 |
 | 31 | Tiffany Hayes | 4,985 |
 | 32 | Maya Moore | 4,984 |
@@ -550,8 +550,8 @@ _Last updated: 2026-06-13 23:00 UTC_
 | 119 | Veronica Burton | 537 |
 | 120 | Marie Ferdinand-Harris | 528 |
 | 121 | Margo Dydek | 524 |
-| 122 | **Caitlin Clark** 🔴 +3 | 520 |
-| 122 | **Myisha Hines-Allen** 🔴 | 520 |
+| 122 | **Caitlin Clark** 🔴 +4 | 521 |
+| 123 | **Myisha Hines-Allen** 🔴 | 520 |
 | 124 | Iziane Castro Marques | 509 |
 | 125 | Brittany Boyd-Jones | 508 |
 | 125 | Chasity Melvin | 508 |
@@ -723,10 +723,10 @@ _Last updated: 2026-06-13 23:00 UTC_
 | 85 | Nicky Anosike | 133 |
 | 85 | Seimone Augustus | 133 |
 | 89 | Katie Mattera | 131 |
+| 89 | **Monique Billings** 🔴 +2 | 131 |
 | 89 | Nakia Sanford | 131 |
-| 91 | Brooke Wyckoff | 129 |
-| 91 | Cathrine Kraayeveld | 129 |
-| 91 | **Monique Billings** 🔴 | 129 |
+| 92 | Brooke Wyckoff | 129 |
+| 92 | Cathrine Kraayeveld | 129 |
 | 94 | Chiney Ogwumike | 127 |
 | 94 | Kristen Rasmussen | 127 |
 | 96 | Chelsea Gray | 126 |
