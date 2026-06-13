@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-13 03:59 UTC_
+_Last updated: 2026-06-13 04:00 UTC_
 
 ## Contents
 
@@ -953,7 +953,7 @@ _Last updated: 2026-06-13 03:59 UTC_
 | 112 | Crystal Robinson | 267 |
 | 113 | Anna DeForge | 266 |
 | 114 | Brionna Jones | 265 |
-| 115 | **Kayla Thornton** 🔴 | 263 |
+| 115 | **Kayla Thornton** 🔴 +1 | 264 |
 | 116 | Michelle Snow | 262 |
 | 117 | Karima Christmas-Kelly | 261 |
 | 118 | Kelsey Plum | 260 |
@@ -1446,7 +1446,7 @@ _Last updated: 2026-06-13 03:59 UTC_
 | 195 | **Kayla Thornton** 🔴 +1 | 295 |
 | 195 | Rachel Banham | 295 |
 | 197 | Azurá Stevens | 292 |
-| 198 | **Natisha Hiedeman** 🔴 +2 | 291 |
+| 197 | **Natisha Hiedeman** 🔴 +3 | 292 |
 | 199 | Alexis Hornbuckle | 288 |
 | 199 | Kristen Rasmussen | 288 |
 
