@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-12 23:59 UTC_
+_Last updated: 2026-06-13 00:00 UTC_
 
 ## Contents
 
@@ -1357,7 +1357,7 @@ _Last updated: 2026-06-12 23:59 UTC_
 | 106 | Tully Bevilaqua | 514 |
 | 107 | Jia Perkins | 513 |
 | 108 | Jordin Canada | 512 |
-| 109 | **Marina Mabrey** 🔴 | 510 |
+| 108 | **Marina Mabrey** 🔴 +2 | 512 |
 | 110 | Tamera Young | 501 |
 | 111 | Nikki Teasley | 493 |
 | 111 | Tari Phillips | 493 |
@@ -1541,7 +1541,7 @@ _Last updated: 2026-06-12 23:59 UTC_
 | 85 | Tan White | 698 |
 | 86 | Katie Douglas | 697 |
 | 87 | Danielle Robinson | 692 |
-| 88 | **Brittney Sykes** 🔴 +1 | 688 |
+| 88 | **Brittney Sykes** 🔴 +2 | 689 |
 | 89 | Sophia Young-Malcolm | 687 |
 | 90 | Maya Moore | 686 |
 | 91 | Jasmine Thomas | 685 |
