@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-13 22:49 UTC_
+_Last updated: 2026-06-13 22:50 UTC_
 
 ## Contents
 
@@ -1333,8 +1333,8 @@ _Last updated: 2026-06-13 22:49 UTC_
 | 82 | Andrea Stinson | 571 |
 | 83 | Breanna Stewart | 570 |
 | 83 | Kara Braxton | 570 |
-| 85 | **Kelsey Mitchell** 🔴 +2 | 565 |
-| 85 | Nikki McCray | 565 |
+| 85 | **Kelsey Mitchell** 🔴 +3 | 566 |
+| 86 | Nikki McCray | 565 |
 | 87 | Sancho Lyttle | 563 |
 | 88 | Tan White | 557 |
 | 89 | Lauren Jackson | 549 |
@@ -1575,7 +1575,7 @@ _Last updated: 2026-06-13 22:49 UTC_
 | 119 | Odyssey Sims | 610 |
 | 120 | Layshia Clarendon | 609 |
 | 121 | Tiffany Mitchell | 604 |
-| 122 | **Kelsey Mitchell** 🔴 | 601 |
+| 122 | **Kelsey Mitchell** 🔴 +1 | 602 |
 | 123 | Janel McCarville | 597 |
 | 124 | Kamila Vodichkova | 596 |
 | 125 | Teresa Weatherspoon | 589 |
