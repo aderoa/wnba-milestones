@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-13T03:34:00+00:00",
+    "text": "Natisha Hiedeman passed Kedra Holland-Corn for #69 all-time in three-pointers (career 308) \u2014 up from #72 entering today \u2014 (1:43 - 3rd \u2014 GS @ SEA)",
+    "kind": "rank_pass",
+    "player": "Natisha Hiedeman",
+    "stat": "three-pointers",
+    "rank": 69,
+    "passed_players": [
+      "Kedra Holland-Corn"
+    ],
+    "new_total": 308
+  },
+  {
     "ts": "2026-06-13T02:21:00+00:00",
     "text": "Kayla Thornton passed Allie Quigley and Alysha Clark for #144 all-time in blocks (career 91) \u2014 up from #146 entering today \u2014 (2:48 - 1st \u2014 GS @ SEA)",
     "kind": "rank_pass",
@@ -2953,17 +2965,5 @@
       "Angel Reese"
     ],
     "new_total": 925
-  },
-  {
-    "ts": "2026-06-06T03:30:00+00:00",
-    "text": "Jessica Shepard passed Nicky Anosike for #147 all-time in rebounds (career 923) \u2014 up from #149 entering today \u2014 (1:11 - 3rd \u2014 DAL @ LA)",
-    "kind": "rank_pass",
-    "player": "Jessica Shepard",
-    "stat": "rebounds",
-    "rank": 147,
-    "passed_players": [
-      "Nicky Anosike"
-    ],
-    "new_total": 923
   }
 ]

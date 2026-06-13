@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-13 03:33 UTC_
+_Last updated: 2026-06-13 03:34 UTC_
 
 ## Contents
 
@@ -194,7 +194,7 @@ _Last updated: 2026-06-13 03:33 UTC_
 | 173 | Nakia Sanford | 1,915 |
 | 174 | Ebony Hoffman | 1,909 |
 | 175 | Candice Wiggins | 1,901 |
-| 176 | **Natisha Hiedeman** 🔴 +16 | 1,874 |
+| 176 | **Natisha Hiedeman** 🔴 +19 | 1,877 |
 | 177 | Isabelle Harrison | 1,840 |
 | 178 | Damiris Dantas | 1,830 |
 | 179 | Tianna Hawkins | 1,825 |
@@ -1112,8 +1112,8 @@ _Last updated: 2026-06-13 03:33 UTC_
 | 66 | DeLisha Milton-Jones | 312 |
 | 66 | Ruthie Bolton | 312 |
 | 68 | Tan White | 311 |
-| 69 | Kedra Holland-Corn | 307 |
-| 69 | **Natisha Hiedeman** 🔴 +4 | 307 |
+| 69 | **Natisha Hiedeman** 🔴 +5 | 308 |
+| 70 | Kedra Holland-Corn | 307 |
 | 71 | Kelly Miller | 305 |
 | 72 | Nikki Teasley | 304 |
 | 73 | Vickie Johnson | 295 |
@@ -1320,7 +1320,7 @@ _Last updated: 2026-06-13 03:33 UTC_
 | 69 | Jonquel Jones | 627 |
 | 70 | Rebekkah Brunson | 615 |
 | 71 | Seimone Augustus | 613 |
-| 72 | **Tiffany Hayes** 🔴 +1 | 611 |
+| 71 | **Tiffany Hayes** 🔴 +3 | 613 |
 | 73 | Kahleah Copper | 609 |
 | 74 | Teresa Weatherspoon | 601 |
 | 75 | Lindsey Harding | 600 |
@@ -1477,7 +1477,7 @@ _Last updated: 2026-06-13 03:33 UTC_
 | 21 | Michelle Snow | 1,108 |
 | 22 | Sylvia Fowles | 1,049 |
 | 23 | Tina Charles | 1,037 |
-| 24 | **Tiffany Hayes** 🔴 | 1,007 |
+| 24 | **Tiffany Hayes** 🔴 +1 | 1,008 |
 | 25 | Lindsay Whalen | 998 |
 | 26 | Rebekkah Brunson | 996 |
 | 27 | Yolanda Griffith | 991 |
