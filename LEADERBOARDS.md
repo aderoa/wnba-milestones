@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-13 23:36 UTC_
+_Last updated: 2026-06-13 23:37 UTC_
 
 ## Contents
 
@@ -570,7 +570,7 @@ _Last updated: 2026-06-13 23:36 UTC_
 | 139 | Sylvia Fowles | 461 |
 | 140 | Satou Sabally | 456 |
 | 141 | Sydney Colson | 454 |
-| 141 | Tyasha Harris | 454 |
+| 141 | **Tyasha Harris** 🔴 | 454 |
 | 143 | Yolanda Griffith | 451 |
 | 144 | Elena Delle Donne | 450 |
 | 144 | Kristi Harrower | 450 |
@@ -1176,7 +1176,7 @@ _Last updated: 2026-06-13 23:36 UTC_
 | 130 | Shavonte Zellous | 167 |
 | 130 | Tianna Hawkins | 167 |
 | 132 | Charlotte Smith | 164 |
-| 133 | Tyasha Harris | 162 |
+| 133 | **Tyasha Harris** 🔴 | 162 |
 | 133 | Ukari Figgs | 162 |
 | 135 | Edna Campbell | 161 |
 | 136 | Dana Evans | 160 |
@@ -1425,7 +1425,7 @@ _Last updated: 2026-06-13 23:36 UTC_
 | 173 | Diamond DeShields | 333 |
 | 175 | Charde Houston | 331 |
 | 176 | Satou Sabally | 330 |
-| 177 | **Caitlin Clark** 🔴 +4 | 328 |
+| 177 | **Caitlin Clark** 🔴 +5 | 329 |
 | 178 | Erlana Larkins | 326 |
 | 178 | Rita Williams | 326 |
 | 180 | Le'coe Willingham | 325 |
