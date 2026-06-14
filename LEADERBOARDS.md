@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-14 20:15 UTC_
+_Last updated: 2026-06-14 20:16 UTC_
 
 ## Contents
 
@@ -64,8 +64,8 @@ _Last updated: 2026-06-14 20:15 UTC_
 | 43 | Crystal Langhorne | 4,433 |
 | 43 | Jia Perkins | 4,433 |
 | 45 | Kelsey Plum | 4,395 |
-| 46 | Courtney Vandersloot | 4,352 |
-| 47 | **Allisha Gray** 🔴 +11 | 4,350 |
+| 46 | **Allisha Gray** 🔴 +14 | 4,353 |
+| 47 | Courtney Vandersloot | 4,352 |
 | 48 | Sophia Young-Malcolm | 4,300 |
 | 49 | Kahleah Copper | 4,283 |
 | 50 | Plenette Pierson | 4,258 |
@@ -367,7 +367,7 @@ _Last updated: 2026-06-14 20:15 UTC_
 | 141 | Dominique Canty | 961 |
 | 142 | Armintie Herrington | 960 |
 | 143 | Janell Burse | 944 |
-| 144 | **Angel Reese** 🔴 +9 | 932 |
+| 144 | **Angel Reese** 🔴 +12 | 935 |
 | 145 | Jessica Shepard | 927 |
 | 145 | Merlakia Jones | 927 |
 | 145 | **Satou Sabally** 🔴 +1 | 927 |
@@ -382,7 +382,7 @@ _Last updated: 2026-06-14 20:15 UTC_
 | 156 | Alanna Smith | 864 |
 | 157 | Krystal Thomas | 862 |
 | 158 | Nia Coffey | 854 |
-| 159 | **Marina Mabrey** 🔴 +3 | 852 |
+| 159 | **Marina Mabrey** 🔴 +4 | 853 |
 | 160 | Leilani Mitchell | 845 |
 | 161 | Essence Carson | 833 |
 | 162 | Kristi Toliver | 829 |
@@ -718,10 +718,10 @@ _Last updated: 2026-06-14 20:15 UTC_
 | 82 | Chamique Holdsclaw | 143 |
 | 83 | Shavonte Zellous | 139 |
 | 84 | Penny Taylor | 136 |
-| 85 | **Brittney Sykes** 🔴 | 133 |
-| 85 | Devereaux Peters | 133 |
-| 85 | Nicky Anosike | 133 |
-| 85 | Seimone Augustus | 133 |
+| 85 | **Brittney Sykes** 🔴 +1 | 134 |
+| 86 | Devereaux Peters | 133 |
+| 86 | Nicky Anosike | 133 |
+| 86 | Seimone Augustus | 133 |
 | 89 | Katie Mattera | 131 |
 | 89 | Nakia Sanford | 131 |
 | 91 | Brooke Wyckoff | 129 |
@@ -1073,7 +1073,7 @@ _Last updated: 2026-06-14 20:15 UTC_
 | 27 | **Breanna Stewart** 🔴 +1 | 461 |
 | 28 | Ariel Atkins | 451 |
 | 28 | Tiffany Hayes | 451 |
-| 30 | **Allisha Gray** 🔴 +2 | 447 |
+| 30 | **Allisha Gray** 🔴 +3 | 448 |
 | 31 | Lauren Jackson | 436 |
 | 32 | Skylar Diggins | 435 |
 | 33 | Shameka Christon | 434 |
@@ -1357,7 +1357,7 @@ _Last updated: 2026-06-14 20:15 UTC_
 | 106 | Tully Bevilaqua | 514 |
 | 107 | Jia Perkins | 513 |
 | 107 | **Jordin Canada** 🔴 +1 | 513 |
-| 109 | **Marina Mabrey** 🔴 +1 | 511 |
+| 109 | **Marina Mabrey** 🔴 +2 | 512 |
 | 110 | Tamera Young | 501 |
 | 111 | Nikki Teasley | 493 |
 | 111 | Tari Phillips | 493 |
@@ -1592,9 +1592,9 @@ _Last updated: 2026-06-14 20:15 UTC_
 | 136 | Barbara Farris | 563 |
 | 137 | Jessica Breland | 562 |
 | 138 | Dawn Staley | 551 |
-| 139 | Glory Johnson | 550 |
-| 139 | **Marina Mabrey** 🔴 +2 | 550 |
-| 139 | Tierra Ruffin-Pratt | 550 |
+| 138 | **Marina Mabrey** 🔴 +3 | 551 |
+| 140 | Glory Johnson | 550 |
+| 140 | Tierra Ruffin-Pratt | 550 |
 | 142 | Erlana Larkins | 546 |
 | 143 | Jayne Appel Marinelli | 543 |
 | 143 | Renee Montgomery | 543 |
