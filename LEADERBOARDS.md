@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-14 20:05 UTC_
+_Last updated: 2026-06-14 20:06 UTC_
 
 ## Contents
 
@@ -766,9 +766,9 @@ _Last updated: 2026-06-14 20:05 UTC_
 | 130 | Chante Black | 100 |
 | 130 | Danielle Adams | 100 |
 | 130 | Nicole Powell | 100 |
-| 133 | **Isabelle Harrison** 🔴 +3 | 98 |
 | 133 | Mwadi Mabika | 98 |
 | 133 | Natalie Achonwa | 98 |
+| 135 | **Isabelle Harrison** 🔴 +2 | 97 |
 | 136 | Aneika Morello | 96 |
 | 136 | Tiffani Johnson | 96 |
 | 138 | Imani McGee-Stafford | 95 |
@@ -790,9 +790,9 @@ _Last updated: 2026-06-14 20:05 UTC_
 | 154 | Charde Houston | 84 |
 | 154 | Natasha Cloud | 84 |
 | 154 | Shatori Walker-Kimbrough | 84 |
-| 157 | **Marina Mabrey** 🔴 +2 | 83 |
 | 157 | Tamera Young | 83 |
-| 159 | Damiris Dantas | 82 |
+| 158 | Damiris Dantas | 82 |
+| 158 | **Marina Mabrey** 🔴 +1 | 82 |
 | 160 | Charlotte Smith | 81 |
 | 160 | Cintia dos Santos | 81 |
 | 160 | Jessie Hicks | 81 |
