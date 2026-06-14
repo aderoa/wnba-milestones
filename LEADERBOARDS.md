@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-14 00:14 UTC_
+_Last updated: 2026-06-14 00:15 UTC_
 
 ## Contents
 
@@ -206,7 +206,7 @@ _Last updated: 2026-06-14 00:14 UTC_
 | 185 | Kamila Vodichkova | 1,767 |
 | 186 | Tully Bevilaqua | 1,763 |
 | 187 | Sandy Brondello | 1,759 |
-| 188 | **Sophie Cunningham** 🔴 | 1,752 |
+| 188 | **Sophie Cunningham** 🔴 +6 | 1,758 |
 | 189 | Sugar Rodgers | 1,733 |
 | 190 | Gabby Williams | 1,723 |
 | 191 | Moriah Jefferson | 1,722 |
@@ -595,9 +595,9 @@ _Last updated: 2026-06-14 00:14 UTC_
 | 164 | Allison Feaster | 406 |
 | 165 | Rita Williams | 403 |
 | 166 | Kia Nurse | 402 |
+| 167 | **Aliyah Boston** 🔴 +3 | 401 |
 | 167 | Julie Allemand | 401 |
-| 168 | **Aliyah Boston** 🔴 +1 | 399 |
-| 168 | Marissa Coleman | 399 |
+| 169 | Marissa Coleman | 399 |
 | 170 | Jessica Shepard | 395 |
 | 170 | Stacey Dales | 395 |
 | 172 | Sugar Rodgers | 393 |
@@ -1028,8 +1028,8 @@ _Last updated: 2026-06-14 00:14 UTC_
 | 187 | Nakia Sanford | 181 |
 | 188 | Diamond DeShields | 180 |
 | 188 | Isabelle Harrison | 180 |
-| 190 | Bridget Pettis | 177 |
-| 190 | **Monique Billings** 🔴 | 177 |
+| 190 | **Monique Billings** 🔴 +1 | 178 |
+| 191 | Bridget Pettis | 177 |
 | 192 | Brittany Boyd-Jones | 176 |
 | 192 | Chiney Ogwumike | 176 |
 | 194 | Tamika Raymond | 175 |
@@ -1105,8 +1105,8 @@ _Last updated: 2026-06-14 00:14 UTC_
 | 59 | Anna DeForge | 334 |
 | 60 | Erica Wheeler | 329 |
 | 61 | **Jackie Young** 🔴 | 323 |
-| 62 | **Sophie Cunningham** 🔴 | 317 |
-| 62 | Sugar Rodgers | 317 |
+| 62 | **Sophie Cunningham** 🔴 +2 | 319 |
+| 63 | Sugar Rodgers | 317 |
 | 64 | Marissa Coleman | 315 |
 | 65 | Shannon Johnson | 313 |
 | 66 | DeLisha Milton-Jones | 312 |
