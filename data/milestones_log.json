@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-14T19:59:00+00:00",
+    "text": "Marina Mabrey passed Damiris Dantas for #158 all-time in blocks (career 83) \u2014 up from #162 entering today \u2014 (3.7 - 2nd \u2014 ATL @ TOR)",
+    "kind": "rank_pass",
+    "player": "Marina Mabrey",
+    "stat": "blocks",
+    "rank": 158,
+    "passed_players": [
+      "Damiris Dantas"
+    ],
+    "new_total": 83
+  },
+  {
     "ts": "2026-06-14T19:44:00+00:00",
     "text": "Marine Johann\u00e8s passed Amanda Lassiter for #128 all-time in three-pointers (career 171) \u2014 up from #129 entering today \u2014 (4:23 - 2nd \u2014 WSH @ NY)",
     "kind": "rank_pass",
@@ -2956,18 +2968,5 @@
       "Kayla McBride"
     ],
     "new_total": 641
-  },
-  {
-    "ts": "2026-06-06T12:04:00+00:00",
-    "text": "Kelsey Plum passed Jennifer Lacy and Temeka Johnson for #94 all-time in fouls (career 682) \u2014 up from #95 entering today \u2014 (Final \u2014 DAL @ LA)",
-    "kind": "rank_pass",
-    "player": "Kelsey Plum",
-    "stat": "fouls",
-    "rank": 94,
-    "passed_players": [
-      "Jennifer Lacy",
-      "Temeka Johnson"
-    ],
-    "new_total": 682
   }
 ]
