@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-14 20:46 UTC_
+_Last updated: 2026-06-14 20:47 UTC_
 
 ## Contents
 
@@ -755,10 +755,10 @@ _Last updated: 2026-06-14 20:46 UTC_
 | 118 | Glory Johnson | 108 |
 | 120 | Courtney Williams | 106 |
 | 120 | Sylvia Crawley | 106 |
-| 122 | Carolyn Swords | 104 |
-| 122 | Dearica Hamby | 104 |
-| 122 | Rebecca Lobo | 104 |
-| 122 | **Rhyne Howard** 🔴 +2 | 104 |
+| 122 | **Rhyne Howard** 🔴 +3 | 105 |
+| 123 | Carolyn Swords | 104 |
+| 123 | Dearica Hamby | 104 |
+| 123 | Rebecca Lobo | 104 |
 | 126 | Jennifer Gillom | 103 |
 | 126 | Jia Perkins | 103 |
 | 128 | Theresa Plaisance | 102 |

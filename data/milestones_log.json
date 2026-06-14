@@ -1,5 +1,19 @@
 [
   {
+    "ts": "2026-06-14T20:47:00+00:00",
+    "text": "Rhyne Howard passed Carolyn Swords, Dearica Hamby, and Rebecca Lobo for #122 all-time in blocks (career 105) \u2014 up from #127 entering today \u2014 (8:19 - 4th \u2014 ATL @ TOR)",
+    "kind": "rank_pass",
+    "player": "Rhyne Howard",
+    "stat": "blocks",
+    "rank": 122,
+    "passed_players": [
+      "Carolyn Swords",
+      "Dearica Hamby",
+      "Rebecca Lobo"
+    ],
+    "new_total": 105
+  },
+  {
     "ts": "2026-06-14T20:40:00+00:00",
     "text": "Julie Allemand passed Allison Feaster for #164 all-time in assists (career 407) \u2014 up from #167 entering today \u2014 (18.1 - 3rd \u2014 ATL @ TOR)",
     "kind": "rank_pass",
@@ -2959,17 +2973,5 @@
       "Erin Thorn"
     ],
     "new_total": 244
-  },
-  {
-    "ts": "2026-06-06T12:04:00+00:00",
-    "text": "Dearica Hamby passed Monique Currie for #51 all-time in points (career 4,258) \u2014 up from #52 entering today \u2014 (Final \u2014 DAL @ LA)",
-    "kind": "rank_pass",
-    "player": "Dearica Hamby",
-    "stat": "points",
-    "rank": 51,
-    "passed_players": [
-      "Monique Currie"
-    ],
-    "new_total": 4258
   }
 ]
