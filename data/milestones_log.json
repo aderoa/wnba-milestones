@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-14T20:40:00+00:00",
+    "text": "Julie Allemand passed Allison Feaster for #164 all-time in assists (career 407) \u2014 up from #167 entering today \u2014 (18.1 - 3rd \u2014 ATL @ TOR)",
+    "kind": "rank_pass",
+    "player": "Julie Allemand",
+    "stat": "assists",
+    "rank": 164,
+    "passed_players": [
+      "Allison Feaster"
+    ],
+    "new_total": 407
+  },
+  {
     "ts": "2026-06-14T20:29:00+00:00",
     "text": "Jonquel Jones passed Ruthie Bolton for #123 all-time in steals (career 255) \u2014 up from #124 entering today \u2014 (3:27 - 3rd \u2014 WSH @ NY)",
     "kind": "rank_pass",
@@ -2959,14 +2971,5 @@
       "Monique Currie"
     ],
     "new_total": 4258
-  },
-  {
-    "ts": "2026-06-06T12:04:00+00:00",
-    "text": "Kelsey Plum reached 4,400 career points (now 4,422) \u2014 (Final \u2014 DAL @ LA)",
-    "kind": "round",
-    "player": "Kelsey Plum",
-    "stat": "points",
-    "value": 4400,
-    "new_total": 4422
   }
 ]

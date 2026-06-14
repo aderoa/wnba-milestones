@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-14 20:39 UTC_
+_Last updated: 2026-06-14 20:40 UTC_
 
 ## Contents
 
@@ -111,7 +111,7 @@ _Last updated: 2026-06-14 20:39 UTC_
 | 90 | Wendy Palmer | 3,135 |
 | 91 | Shavonte Zellous | 3,103 |
 | 92 | Briann January | 3,082 |
-| 93 | **Marina Mabrey** 🔴 +6 | 3,058 |
+| 93 | **Marina Mabrey** 🔴 +9 | 3,061 |
 | 94 | Erika de Souza | 3,046 |
 | 95 | **Sabrina Ionescu** 🔴 +4 | 3,045 |
 | 96 | Shameka Christon | 3,039 |
@@ -294,8 +294,8 @@ _Last updated: 2026-06-14 20:39 UTC_
 | 68 | Tamera Young | 1,433 |
 | 69 | Alana Beard | 1,420 |
 | 70 | Nakia Sanford | 1,419 |
+| 71 | **Allisha Gray** 🔴 +3 | 1,387 |
 | 71 | Kara Braxton | 1,387 |
-| 72 | **Allisha Gray** 🔴 +2 | 1,386 |
 | 73 | Monique Billings | 1,385 |
 | 74 | Courtney Vandersloot | 1,383 |
 | 74 | Katie Smith | 1,383 |
@@ -367,7 +367,7 @@ _Last updated: 2026-06-14 20:39 UTC_
 | 141 | Dominique Canty | 961 |
 | 142 | Armintie Herrington | 960 |
 | 143 | Janell Burse | 944 |
-| 144 | **Angel Reese** 🔴 +13 | 936 |
+| 144 | **Angel Reese** 🔴 +14 | 937 |
 | 145 | **Satou Sabally** 🔴 +2 | 928 |
 | 146 | Jessica Shepard | 927 |
 | 146 | Merlakia Jones | 927 |
@@ -592,8 +592,8 @@ _Last updated: 2026-06-14 20:39 UTC_
 | 161 | Erin Thorn | 414 |
 | 162 | Jamierra Faulkner | 410 |
 | 162 | Murriel Page | 410 |
-| 164 | Allison Feaster | 406 |
-| 164 | **Julie Allemand** 🔴 +5 | 406 |
+| 164 | **Julie Allemand** 🔴 +6 | 407 |
+| 165 | Allison Feaster | 406 |
 | 166 | Rita Williams | 403 |
 | 167 | **Kia Nurse** 🔴 | 402 |
 | 168 | Marissa Coleman | 399 |
@@ -1067,7 +1067,7 @@ _Last updated: 2026-06-14 20:39 UTC_
 | 21 | Allie Quigley | 510 |
 | 22 | Leilani Mitchell | 508 |
 | 23 | Shekinna Stricklen | 468 |
-| 24 | **Marina Mabrey** 🔴 +1 | 466 |
+| 24 | **Marina Mabrey** 🔴 +2 | 467 |
 | 25 | Cappie Pondexter | 464 |
 | 26 | **Sabrina Ionescu** 🔴 | 462 |
 | 27 | **Breanna Stewart** 🔴 +1 | 461 |

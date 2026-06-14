@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-14 20:40 UTC
+
+- **Julie Allemand** passed **Allison Feaster** for **#164** all-time in assists (career 407) — up from #167 entering today — _18.1 - 3rd — ATL @ TOR_
+
 ## 2026-06-14 20:29 UTC
 
 - **Jonquel Jones** passed **Ruthie Bolton** for **#123** all-time in steals (career 255) — up from #124 entering today — _3:27 - 3rd — WSH @ NY_
