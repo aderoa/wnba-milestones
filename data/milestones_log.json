@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-06-14T03:55:00+00:00",
+    "text": "Kelsey Plum passed Crystal Langhorne and Jia Perkins for #43 all-time in points (career 4,434) \u2014 up from #45 entering today \u2014 (32.6 - 4th \u2014 LA @ PHX)",
+    "kind": "rank_pass",
+    "player": "Kelsey Plum",
+    "stat": "points",
+    "rank": 43,
+    "passed_players": [
+      "Crystal Langhorne",
+      "Jia Perkins"
+    ],
+    "new_total": 4434
+  },
+  {
     "ts": "2026-06-14T03:51:00+00:00",
     "text": "Natasha Mack passed Emily Engstler for #105 all-time in blocks (career 120) \u2014 up from #109 entering today \u2014 (1:32 - 4th \u2014 LA @ PHX)",
     "kind": "rank_pass",
@@ -2959,21 +2972,5 @@
       "Cheryl Ford"
     ],
     "new_total": 718
-  },
-  {
-    "ts": "2026-06-06T12:04:00+00:00",
-    "text": "Cameron Brink passed Jennifer Lacy, Stephanie Talbot, Sugar Rodgers, Tan White, and Tiffany Jackson for #172 all-time in blocks (career 77) \u2014 (Final \u2014 DAL @ LA)",
-    "kind": "rank_pass",
-    "player": "Cameron Brink",
-    "stat": "blocks",
-    "rank": 172,
-    "passed_players": [
-      "Jennifer Lacy",
-      "Stephanie Talbot",
-      "Sugar Rodgers",
-      "Tan White",
-      "Tiffany Jackson"
-    ],
-    "new_total": 77
   }
 ]

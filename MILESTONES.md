@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-14 03:55 UTC
+
+- **Kelsey Plum** passed **Crystal Langhorne** and **Jia Perkins** for **#43** all-time in points (career 4,434) — up from #45 entering today — _32.6 - 4th — LA @ PHX_
+
 ## 2026-06-14 03:51 UTC
 
 - **Natasha Mack** passed **Emily Engstler** for **#105** all-time in blocks (career 120) — up from #109 entering today — _1:32 - 4th — LA @ PHX_

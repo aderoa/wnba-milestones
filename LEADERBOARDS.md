@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-14 03:54 UTC_
+_Last updated: 2026-06-14 03:55 UTC_
 
 ## Contents
 
@@ -61,12 +61,12 @@ _Last updated: 2026-06-14 03:54 UTC_
 | 40 | Natasha Howard | 4,550 |
 | 41 | Chelsea Gray | 4,529 |
 | 42 | Kristi Toliver | 4,474 |
-| 43 | Crystal Langhorne | 4,433 |
-| 43 | Jia Perkins | 4,433 |
-| 45 | **Kelsey Plum** 🔴 +36 | 4,431 |
+| 43 | **Kelsey Plum** 🔴 +39 | 4,434 |
+| 44 | Crystal Langhorne | 4,433 |
+| 44 | Jia Perkins | 4,433 |
 | 46 | Courtney Vandersloot | 4,352 |
 | 47 | Allisha Gray | 4,339 |
-| 48 | **Kahleah Copper** 🔴 +36 | 4,319 |
+| 48 | **Kahleah Copper** 🔴 +39 | 4,322 |
 | 49 | Sophia Young-Malcolm | 4,300 |
 | 50 | Plenette Pierson | 4,258 |
 | 51 | Courtney Williams | 4,255 |
@@ -1055,7 +1055,7 @@ _Last updated: 2026-06-14 03:54 UTC_
 | 9 | Jewell Loyd | 680 |
 | 10 | **DeWanna Bonner** 🔴 +3 | 675 |
 | 11 | Kristi Toliver | 651 |
-| 12 | **Kelsey Plum** 🔴 +4 | 613 |
+| 12 | **Kelsey Plum** 🔴 +5 | 614 |
 | 13 | Tamika Catchings | 605 |
 | 14 | Kara Lawson | 583 |
 | 15 | Nicole Powell | 579 |
@@ -1095,7 +1095,7 @@ _Last updated: 2026-06-14 03:54 UTC_
 | 49 | Jonquel Jones | 371 |
 | 50 | Epiphanny Prince | 368 |
 | 51 | Kia Nurse | 364 |
-| 52 | **Kahleah Copper** 🔴 +5 | 360 |
+| 52 | **Kahleah Copper** 🔴 +6 | 361 |
 | 53 | Nykesha Sales | 352 |
 | 54 | Cathrine Kraayeveld | 343 |
 | 54 | Elena Delle Donne | 343 |
