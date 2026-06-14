@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-14 01:37 UTC_
+_Last updated: 2026-06-14 01:38 UTC_
 
 ## Contents
 
@@ -336,7 +336,7 @@ _Last updated: 2026-06-14 01:37 UTC_
 | 109 | Tamika Raymond | 1,127 |
 | 111 | Adrienne Goodson | 1,126 |
 | 112 | Aliyah Boston | 1,121 |
-| 113 | **NaLyssa Smith** 🔴 +5 | 1,120 |
+| 112 | **NaLyssa Smith** 🔴 +6 | 1,121 |
 | 114 | Deanna Nolan | 1,112 |
 | 114 | Natasha Cloud | 1,112 |
 | 116 | Chiney Ogwumike | 1,110 |
@@ -367,7 +367,7 @@ _Last updated: 2026-06-14 01:37 UTC_
 | 141 | Dominique Canty | 961 |
 | 142 | Armintie Herrington | 960 |
 | 143 | Janell Burse | 944 |
-| 144 | **Jessica Shepard** 🔴 +7 | 934 |
+| 144 | **Jessica Shepard** 🔴 +8 | 935 |
 | 145 | Merlakia Jones | 927 |
 | 146 | Satou Sabally | 926 |
 | 147 | Angel Reese | 923 |
@@ -1276,7 +1276,7 @@ _Last updated: 2026-06-14 01:37 UTC_
 | 25 | Alana Beard | 854 |
 | 26 | DeWanna Bonner | 837 |
 | 27 | Katie Douglas | 824 |
-| 28 | **Natasha Howard** 🔴 +1 | 822 |
+| 28 | **Natasha Howard** 🔴 +2 | 823 |
 | 29 | Betty Lennox | 800 |
 | 30 | Jasmine Thomas | 796 |
 | 31 | Nneka Ogwumike | 795 |
