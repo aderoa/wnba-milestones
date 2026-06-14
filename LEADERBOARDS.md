@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-14 01:38 UTC_
+_Last updated: 2026-06-14 01:39 UTC_
 
 ## Contents
 
@@ -607,8 +607,8 @@ _Last updated: 2026-06-14 01:38 UTC_
 | 176 | **Stephanie Talbot** 🔴 +1 | 386 |
 | 177 | Dana Evans | 379 |
 | 178 | Jessica Breland | 377 |
+| 179 | **Bridget Carleton** 🔴 +1 | 376 |
 | 179 | Shenise Johnson | 376 |
-| 180 | **Bridget Carleton** 🔴 | 375 |
 | 181 | **Alanna Smith** 🔴 | 372 |
 | 182 | Suzie McConnell Serio | 370 |
 | 183 | Damiris Dantas | 368 |
@@ -1554,8 +1554,8 @@ _Last updated: 2026-06-14 01:38 UTC_
 | 98 | **Cheyenne Parker-Tyus** 🔴 +1 | 675 |
 | 99 | Chamique Holdsclaw | 667 |
 | 100 | Breanna Stewart | 665 |
-| 101 | **Jewell Loyd** 🔴 +1 | 662 |
-| 101 | Tianna Hawkins | 662 |
+| 101 | **Jewell Loyd** 🔴 +2 | 663 |
+| 102 | Tianna Hawkins | 662 |
 | 103 | Kayla Thornton | 661 |
 | 104 | Tari Phillips | 648 |
 | 105 | Marie Ferdinand-Harris | 646 |
