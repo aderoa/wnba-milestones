@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-14 03:06 UTC_
+_Last updated: 2026-06-14 03:07 UTC_
 
 ## Contents
 
@@ -63,7 +63,7 @@ _Last updated: 2026-06-14 03:06 UTC_
 | 42 | Kristi Toliver | 4,474 |
 | 43 | Crystal Langhorne | 4,433 |
 | 43 | Jia Perkins | 4,433 |
-| 45 | **Kelsey Plum** 🔴 +13 | 4,408 |
+| 45 | **Kelsey Plum** 🔴 +15 | 4,410 |
 | 46 | Courtney Vandersloot | 4,352 |
 | 47 | Allisha Gray | 4,339 |
 | 48 | **Kahleah Copper** 🔴 +21 | 4,304 |
@@ -956,8 +956,8 @@ _Last updated: 2026-06-14 03:06 UTC_
 | 115 | Kayla Thornton | 263 |
 | 116 | Michelle Snow | 262 |
 | 117 | Karima Christmas-Kelly | 261 |
-| 118 | **Kelsey Plum** 🔴 | 260 |
-| 118 | Riquna Williams | 260 |
+| 117 | **Kelsey Plum** 🔴 +1 | 261 |
+| 119 | Riquna Williams | 260 |
 | 120 | Noelle Quinn | 256 |
 | 121 | Elaine Powell | 255 |
 | 121 | Loree Moore | 255 |
@@ -1320,7 +1320,7 @@ _Last updated: 2026-06-14 03:06 UTC_
 | 69 | Jonquel Jones | 627 |
 | 70 | Rebekkah Brunson | 615 |
 | 71 | Seimone Augustus | 613 |
-| 72 | **Kahleah Copper** 🔴 +2 | 611 |
+| 72 | **Kahleah Copper** 🔴 +3 | 612 |
 | 73 | Tiffany Hayes | 610 |
 | 74 | Teresa Weatherspoon | 601 |
 | 75 | Lindsey Harding | 600 |
