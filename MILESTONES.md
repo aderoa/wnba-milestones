@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-14 03:41 UTC
+
+- **Nneka Ogwumike** passed **Liz Cambage** for **#34** all-time in blocks (career 265) — up from #35 entering today — _6:18 - 4th — LA @ PHX_
+
 ## 2026-06-14 03:38 UTC
 
 - **Natasha Mack** passed **Krystal Thomas** for **#106** all-time in blocks (career 119) — up from #109 entering today — _7:48 - 4th — LA @ PHX_
