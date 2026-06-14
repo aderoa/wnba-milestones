@@ -1,5 +1,26 @@
 [
   {
+    "ts": "2026-06-14T19:26:00+00:00",
+    "text": "Sabrina Ionescu reached 1,000 career rebounds (now 1,000) \u2014 (20.3 - 1st \u2014 WSH @ NY)",
+    "kind": "round",
+    "player": "Sabrina Ionescu",
+    "stat": "rebounds",
+    "value": 1000,
+    "new_total": 1000
+  },
+  {
+    "ts": "2026-06-14T19:26:00+00:00",
+    "text": "Sabrina Ionescu passed Damiris Dantas for #132 all-time in rebounds (career 1,000) \u2014 up from #133 entering today \u2014 (20.3 - 1st \u2014 WSH @ NY)",
+    "kind": "rank_pass",
+    "player": "Sabrina Ionescu",
+    "stat": "rebounds",
+    "rank": 132,
+    "passed_players": [
+      "Damiris Dantas"
+    ],
+    "new_total": 1000
+  },
+  {
     "ts": "2026-06-14T19:21:00+00:00",
     "text": "Rhyne Howard passed Jennifer Gillom and Jia Perkins for #125 all-time in blocks (career 104) \u2014 up from #127 entering today \u2014 (41.4 - 1st \u2014 ATL @ TOR)",
     "kind": "rank_pass",
@@ -2949,29 +2970,5 @@
       "Mercedes Russell"
     ],
     "new_total": 791
-  },
-  {
-    "ts": "2026-06-06T12:04:00+00:00",
-    "text": "Ariel Atkins passed Jordin Canada for #56 all-time in steals (career 381) \u2014 (Final \u2014 DAL @ LA)",
-    "kind": "rank_pass",
-    "player": "Ariel Atkins",
-    "stat": "steals",
-    "rank": 56,
-    "passed_players": [
-      "Jordin Canada"
-    ],
-    "new_total": 381
-  },
-  {
-    "ts": "2026-06-06T12:04:00+00:00",
-    "text": "Ariel Atkins passed Tiffany Hayes for #29 all-time in three-pointers (career 455) \u2014 (Final \u2014 DAL @ LA)",
-    "kind": "rank_pass",
-    "player": "Ariel Atkins",
-    "stat": "three-pointers",
-    "rank": 29,
-    "passed_players": [
-      "Tiffany Hayes"
-    ],
-    "new_total": 455
   }
 ]

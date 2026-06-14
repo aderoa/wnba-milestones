@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-14 19:25 UTC_
+_Last updated: 2026-06-14 19:26 UTC_
 
 ## Contents
 
@@ -354,9 +354,9 @@ _Last updated: 2026-06-14 19:25 UTC_
 | 128 | Kelly Miller | 1,011 |
 | 128 | Noelle Quinn | 1,011 |
 | 130 | Tiffany Jackson | 1,002 |
+| 131 | **Sabrina Ionescu** 🔴 +2 | 1,000 |
 | 131 | Tianna Hawkins | 1,000 |
-| 132 | Damiris Dantas | 999 |
-| 132 | **Sabrina Ionescu** 🔴 +1 | 999 |
+| 133 | Damiris Dantas | 999 |
 | 134 | Marissa Coleman | 995 |
 | 135 | Kristen Rasmussen | 993 |
 | 136 | Skylar Diggins | 991 |
@@ -393,8 +393,8 @@ _Last updated: 2026-06-14 19:25 UTC_
 | 166 | Barbara Farris | 819 |
 | 168 | Carolyn Swords | 814 |
 | 169 | Tierra Ruffin-Pratt | 799 |
-| 170 | **Betnijah Laney-Hamilton** 🔴 | 795 |
-| 170 | Gabby Williams | 795 |
+| 170 | **Betnijah Laney-Hamilton** 🔴 +1 | 796 |
+| 171 | Gabby Williams | 795 |
 | 172 | Charlotte Smith | 794 |
 | 173 | Rhonda Mapp | 788 |
 | 174 | Ariel Atkins | 786 |
@@ -534,7 +534,7 @@ _Last updated: 2026-06-14 19:25 UTC_
 | 103 | Sancho Lyttle | 592 |
 | 104 | Camille Smith | 590 |
 | 105 | Armintie Herrington | 589 |
-| 106 | **Betnijah Laney-Hamilton** 🔴 | 585 |
+| 106 | **Betnijah Laney-Hamilton** 🔴 +1 | 586 |
 | 107 | Tan White | 578 |
 | 108 | Matee Ajavon | 577 |
 | 109 | Gabby Williams | 572 |
@@ -594,8 +594,8 @@ _Last updated: 2026-06-14 19:25 UTC_
 | 162 | Murriel Page | 410 |
 | 164 | Allison Feaster | 406 |
 | 165 | Rita Williams | 403 |
+| 166 | **Julie Allemand** 🔴 +1 | 402 |
 | 166 | **Kia Nurse** 🔴 | 402 |
-| 167 | **Julie Allemand** 🔴 | 401 |
 | 168 | Marissa Coleman | 399 |
 | 169 | Aliyah Boston | 398 |
 | 170 | Jessica Shepard | 395 |

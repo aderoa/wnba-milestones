@@ -2,6 +2,11 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-14 19:26 UTC
+
+- **Sabrina Ionescu** reached **1,000** career rebounds (now 1,000) — _20.3 - 1st — WSH @ NY_
+- **Sabrina Ionescu** passed **Damiris Dantas** for **#132** all-time in rebounds (career 1,000) — up from #133 entering today — _20.3 - 1st — WSH @ NY_
+
 ## 2026-06-14 19:21 UTC
 
 - **Rhyne Howard** passed **Jennifer Gillom** and **Jia Perkins** for **#125** all-time in blocks (career 104) — up from #127 entering today — _41.4 - 1st — ATL @ TOR_
