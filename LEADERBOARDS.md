@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-14 03:31 UTC_
+_Last updated: 2026-06-14 03:32 UTC_
 
 ## Contents
 
@@ -247,7 +247,7 @@ _Last updated: 2026-06-14 03:31 UTC_
 | 21 | Crystal Langhorne | 2,454 |
 | 22 | Lauren Jackson | 2,444 |
 | 23 | Yolanda Griffith | 2,440 |
-| 24 | **Dearica Hamby** 🔴 +4 | 2,395 |
+| 24 | **Dearica Hamby** 🔴 +5 | 2,396 |
 | 25 | Tangela Smith | 2,328 |
 | 26 | Natasha Howard | 2,262 |
 | 27 | Erika de Souza | 2,220 |
@@ -1296,8 +1296,8 @@ _Last updated: 2026-06-14 03:31 UTC_
 | 45 | Renee Montgomery | 697 |
 | 46 | Temeka Johnson | 696 |
 | 47 | Penny Taylor | 695 |
-| 48 | **Erica Wheeler** 🔴 +2 | 692 |
-| 48 | Natasha Cloud | 692 |
+| 48 | **Erica Wheeler** 🔴 +3 | 693 |
+| 49 | Natasha Cloud | 692 |
 | 50 | Dominique Canty | 685 |
 | 51 | DeMya Walker | 684 |
 | 52 | Asjha Jones | 682 |
