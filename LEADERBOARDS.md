@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-14 04:04 UTC_
+_Last updated: 2026-06-14 04:05 UTC_
 
 ## Contents
 
@@ -799,12 +799,12 @@ _Last updated: 2026-06-14 04:04 UTC_
 | 163 | Nykesha Sales | 80 |
 | 163 | Rushia Brown | 80 |
 | 165 | Astou Ndour-Fall | 78 |
+| 165 | **Cameron Brink** 🔴 +2 | 78 |
 | 165 | Katie Smith | 78 |
 | 165 | Slobodanka Tuvic | 78 |
-| 168 | **Cameron Brink** 🔴 +1 | 77 |
-| 168 | Kara Wolters | 77 |
-| 168 | Noelle Quinn | 77 |
-| 168 | Tierra Ruffin-Pratt | 77 |
+| 169 | Kara Wolters | 77 |
+| 169 | Noelle Quinn | 77 |
+| 169 | Tierra Ruffin-Pratt | 77 |
 | 172 | Jennifer Lacy | 76 |
 | 172 | Stephanie Talbot | 76 |
 | 172 | Sugar Rodgers | 76 |
@@ -893,8 +893,8 @@ _Last updated: 2026-06-14 04:04 UTC_
 | 52 | Swin Cash | 384 |
 | 52 | Tina Charles | 384 |
 | 54 | Tiffany Hayes | 382 |
-| 55 | **Ariel Atkins** 🔴 | 380 |
-| 55 | Jordin Canada | 380 |
+| 55 | **Ariel Atkins** 🔴 +1 | 381 |
+| 56 | Jordin Canada | 380 |
 | 57 | Monique Currie | 378 |
 | 58 | Chamique Holdsclaw | 376 |
 | 59 | Mwadi Mabika | 370 |
@@ -1279,7 +1279,7 @@ _Last updated: 2026-06-14 04:04 UTC_
 | 28 | Natasha Howard | 823 |
 | 29 | Betty Lennox | 800 |
 | 30 | Jasmine Thomas | 796 |
-| 31 | **Nneka Ogwumike** 🔴 | 795 |
+| 30 | **Nneka Ogwumike** 🔴 +1 | 796 |
 | 32 | Chamique Holdsclaw | 789 |
 | 33 | Jewell Loyd | 786 |
 | 34 | Crystal Langhorne | 782 |
@@ -1524,7 +1524,7 @@ _Last updated: 2026-06-14 04:04 UTC_
 | 67 | Natasha Cloud | 755 |
 | 69 | Vickie Johnson | 752 |
 | 70 | Kara Braxton | 748 |
-| 71 | **Kahleah Copper** 🔴 +1 | 739 |
+| 71 | **Kahleah Copper** 🔴 +2 | 740 |
 | 72 | Crystal Langhorne | 737 |
 | 73 | Shameka Christon | 734 |
 | 74 | Becky Hammon | 733 |
@@ -1546,8 +1546,8 @@ _Last updated: 2026-06-14 04:04 UTC_
 | 90 | Maya Moore | 686 |
 | 91 | Jasmine Thomas | 685 |
 | 92 | Leilani Mitchell | 684 |
-| 93 | Crystal Robinson | 682 |
-| 93 | **Kelsey Plum** 🔴 +2 | 682 |
+| 93 | **Kelsey Plum** 🔴 +3 | 683 |
+| 94 | Crystal Robinson | 682 |
 | 95 | Jennifer Lacy | 680 |
 | 95 | Temeka Johnson | 680 |
 | 97 | Kelly Miller | 676 |
