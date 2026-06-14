@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-14 01:52 UTC_
+_Last updated: 2026-06-14 01:53 UTC_
 
 ## Contents
 
@@ -43,7 +43,7 @@ _Last updated: 2026-06-14 01:52 UTC_
 | 22 | Skylar Diggins | 5,626 |
 | 23 | DeLisha Milton-Jones | 5,571 |
 | 24 | Katie Douglas | 5,545 |
-| 25 | **Kayla McBride** 🔴 +16 | 5,538 |
+| 25 | **Kayla McBride** 🔴 +19 | 5,541 |
 | 26 | Lindsay Whalen | 5,511 |
 | 27 | Swin Cash | 5,119 |
 | 28 | Tangela Smith | 5,035 |
@@ -345,7 +345,7 @@ _Last updated: 2026-06-14 01:52 UTC_
 | 119 | Svetlana Abrosimova | 1,078 |
 | 120 | Le'coe Willingham | 1,054 |
 | 121 | Isabelle Harrison | 1,049 |
-| 122 | **Jackie Young** 🔴 +4 | 1,048 |
+| 121 | **Jackie Young** 🔴 +5 | 1,049 |
 | 123 | Nicole Ohlde | 1,040 |
 | 124 | Tamecka Dixon | 1,035 |
 | 125 | Kamila Vodichkova | 1,031 |
@@ -445,7 +445,7 @@ _Last updated: 2026-06-14 01:52 UTC_
 | 14 | Danielle Robinson | 1,480 |
 | 15 | Shannon Johnson | 1,423 |
 | 15 | Tanisha Wright | 1,423 |
-| 17 | **Courtney Williams** 🔴 +3 | 1,408 |
+| 17 | **Courtney Williams** 🔴 +4 | 1,409 |
 | 18 | Temeka Johnson | 1,382 |
 | 19 | Jasmine Thomas | 1,355 |
 | 20 | Briann January | 1,339 |
@@ -873,8 +873,8 @@ _Last updated: 2026-06-14 01:52 UTC_
 | 32 | Tina Thompson | 452 |
 | 33 | **Natasha Howard** 🔴 +4 | 451 |
 | 34 | Maya Moore | 449 |
-| 35 | **Chelsea Gray** 🔴 +3 | 448 |
-| 36 | **Jewell Loyd** 🔴 +2 | 447 |
+| 35 | **Chelsea Gray** 🔴 +2 | 447 |
+| 35 | **Jewell Loyd** 🔴 +2 | 447 |
 | 37 | **Kayla McBride** 🔴 +2 | 438 |
 | 37 | Sheri Sam | 438 |
 | 39 | Camille Smith | 437 |
@@ -1049,7 +1049,7 @@ _Last updated: 2026-06-14 01:52 UTC_
 | 3 | Katie Smith | 906 |
 | 4 | Becky Hammon | 825 |
 | 5 | Tina Thompson | 745 |
-| 6 | **Kayla McBride** 🔴 +2 | 739 |
+| 6 | **Kayla McBride** 🔴 +3 | 740 |
 | 7 | Katie Douglas | 723 |
 | 8 | Kelsey Mitchell | 689 |
 | 9 | **Jewell Loyd** 🔴 +2 | 680 |
@@ -1377,9 +1377,9 @@ _Last updated: 2026-06-14 01:52 UTC_
 | 125 | Elena Baranova | 444 |
 | 125 | **Jackie Young** 🔴 +3 | 444 |
 | 125 | Jantel Lavender | 444 |
-| 129 | **Alysha Clark** 🔴 | 440 |
-| 129 | Ann Wauters | 440 |
-| 129 | **Cheyenne Parker-Tyus** 🔴 | 440 |
+| 129 | **Alysha Clark** 🔴 +1 | 441 |
+| 130 | Ann Wauters | 440 |
+| 130 | **Cheyenne Parker-Tyus** 🔴 | 440 |
 | 132 | Tiffany Mitchell | 439 |
 | 133 | Kedra Holland-Corn | 438 |
 | 134 | Jennifer Gillom | 434 |
@@ -1471,7 +1471,7 @@ _Last updated: 2026-06-14 01:52 UTC_
 | 15 | Swin Cash | 1,146 |
 | 16 | Taj McWilliams-Franklin | 1,145 |
 | 17 | Monique Currie | 1,137 |
-| 18 | **Natasha Howard** 🔴 +5 | 1,129 |
+| 18 | **Natasha Howard** 🔴 +6 | 1,130 |
 | 19 | Stefanie Dolson | 1,117 |
 | 20 | Tanisha Wright | 1,109 |
 | 21 | Michelle Snow | 1,108 |
