@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-14 03:44 UTC_
+_Last updated: 2026-06-14 03:45 UTC_
 
 ## Contents
 
@@ -55,7 +55,7 @@ _Last updated: 2026-06-14 03:44 UTC_
 | 34 | Alana Beard | 4,740 |
 | 35 | Chamique Holdsclaw | 4,713 |
 | 36 | Elena Delle Donne | 4,706 |
-| 37 | **Alyssa Thomas** 🔴 +6 | 4,659 |
+| 37 | **Alyssa Thomas** 🔴 +8 | 4,661 |
 | 38 | Arike Ogunbowale | 4,634 |
 | 39 | Penny Taylor | 4,595 |
 | 40 | Natasha Howard | 4,550 |
@@ -63,10 +63,10 @@ _Last updated: 2026-06-14 03:44 UTC_
 | 42 | Kristi Toliver | 4,474 |
 | 43 | Crystal Langhorne | 4,433 |
 | 43 | Jia Perkins | 4,433 |
-| 45 | **Kelsey Plum** 🔴 +26 | 4,421 |
+| 45 | **Kelsey Plum** 🔴 +29 | 4,424 |
 | 46 | Courtney Vandersloot | 4,352 |
 | 47 | Allisha Gray | 4,339 |
-| 48 | **Kahleah Copper** 🔴 +30 | 4,313 |
+| 48 | **Kahleah Copper** 🔴 +32 | 4,315 |
 | 49 | Sophia Young-Malcolm | 4,300 |
 | 50 | Plenette Pierson | 4,258 |
 | 51 | Courtney Williams | 4,255 |
@@ -227,7 +227,7 @@ _Last updated: 2026-06-14 03:44 UTC_
 | 1 | Tina Charles | 4,262 |
 | 2 | Sylvia Fowles | 4,005 |
 | 3 | Candace Parker | 3,467 |
-| 4 | **Nneka Ogwumike** 🔴 +12 | 3,349 |
+| 4 | **Nneka Ogwumike** 🔴 +13 | 3,350 |
 | 5 | Rebekkah Brunson | 3,345 |
 | 6 | Tamika Catchings | 3,313 |
 | 7 | Lisa Leslie | 3,303 |
@@ -1055,7 +1055,7 @@ _Last updated: 2026-06-14 03:44 UTC_
 | 9 | Jewell Loyd | 680 |
 | 10 | **DeWanna Bonner** 🔴 +3 | 675 |
 | 11 | Kristi Toliver | 651 |
-| 12 | **Kelsey Plum** 🔴 +2 | 611 |
+| 12 | **Kelsey Plum** 🔴 +3 | 612 |
 | 13 | Tamika Catchings | 605 |
 | 14 | Kara Lawson | 583 |
 | 15 | Nicole Powell | 579 |
