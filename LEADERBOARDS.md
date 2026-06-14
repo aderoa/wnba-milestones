@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-14 02:13 UTC_
+_Last updated: 2026-06-14 02:14 UTC_
 
 ## Contents
 
@@ -56,7 +56,7 @@ _Last updated: 2026-06-14 02:13 UTC_
 | 35 | Chamique Holdsclaw | 4,713 |
 | 36 | Elena Delle Donne | 4,706 |
 | 37 | **Alyssa Thomas** 🔴 +2 | 4,655 |
-| 38 | **Arike Ogunbowale** 🔴 +19 | 4,631 |
+| 38 | **Arike Ogunbowale** 🔴 +20 | 4,632 |
 | 39 | Penny Taylor | 4,595 |
 | 40 | Natasha Howard | 4,550 |
 | 41 | Chelsea Gray | 4,529 |
@@ -67,7 +67,7 @@ _Last updated: 2026-06-14 02:13 UTC_
 | 46 | Courtney Vandersloot | 4,352 |
 | 47 | Allisha Gray | 4,339 |
 | 48 | Sophia Young-Malcolm | 4,300 |
-| 49 | **Kahleah Copper** 🔴 +7 | 4,290 |
+| 49 | **Kahleah Copper** 🔴 +12 | 4,295 |
 | 50 | Plenette Pierson | 4,258 |
 | 51 | Courtney Williams | 4,255 |
 | 52 | Monique Currie | 4,253 |
@@ -96,7 +96,7 @@ _Last updated: 2026-06-14 02:13 UTC_
 | 75 | Tammy Sutton-Brown | 3,498 |
 | 76 | Sancho Lyttle | 3,478 |
 | 77 | Ivory Latta | 3,447 |
-| 78 | **Ariel Atkins** 🔴 | 3,442 |
+| 78 | **Ariel Atkins** 🔴 +3 | 3,445 |
 | 79 | Nicole Powell | 3,407 |
 | 80 | Epiphanny Prince | 3,381 |
 | 81 | Michelle Snow | 3,361 |
@@ -435,7 +435,7 @@ _Last updated: 2026-06-14 02:13 UTC_
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
 | 6 | Chelsea Gray | 1,942 |
-| 7 | **Alyssa Thomas** 🔴 +4 | 1,907 |
+| 7 | **Alyssa Thomas** 🔴 +5 | 1,908 |
 | 8 | Skylar Diggins | 1,812 |
 | 9 | Natasha Cloud | 1,772 |
 | 10 | Becky Hammon | 1,705 |
@@ -454,7 +454,7 @@ _Last updated: 2026-06-14 02:13 UTC_
 | 23 | **Erica Wheeler** 🔴 | 1,306 |
 | 24 | Kristi Toliver | 1,301 |
 | 25 | Katie Smith | 1,258 |
-| 26 | **Kelsey Plum** 🔴 +3 | 1,240 |
+| 26 | **Kelsey Plum** 🔴 +4 | 1,241 |
 | 27 | Odyssey Sims | 1,228 |
 | 28 | Vickie Johnson | 1,202 |
 | 29 | Jordin Canada | 1,201 |
@@ -1071,8 +1071,8 @@ _Last updated: 2026-06-14 02:13 UTC_
 | 25 | Cappie Pondexter | 464 |
 | 26 | Sabrina Ionescu | 462 |
 | 27 | Breanna Stewart | 460 |
-| 28 | **Ariel Atkins** 🔴 | 451 |
-| 28 | Tiffany Hayes | 451 |
+| 28 | **Ariel Atkins** 🔴 +1 | 452 |
+| 29 | Tiffany Hayes | 451 |
 | 30 | Allisha Gray | 445 |
 | 31 | Lauren Jackson | 436 |
 | 32 | Skylar Diggins | 435 |
@@ -1095,7 +1095,7 @@ _Last updated: 2026-06-14 02:13 UTC_
 | 49 | Jonquel Jones | 371 |
 | 50 | Epiphanny Prince | 368 |
 | 51 | Kia Nurse | 364 |
-| 52 | **Kahleah Copper** 🔴 +1 | 356 |
+| 52 | **Kahleah Copper** 🔴 +2 | 357 |
 | 53 | Nykesha Sales | 352 |
 | 54 | Cathrine Kraayeveld | 343 |
 | 54 | Elena Delle Donne | 343 |
@@ -1303,7 +1303,7 @@ _Last updated: 2026-06-14 02:13 UTC_
 | 52 | Asjha Jones | 682 |
 | 53 | Danielle Robinson | 680 |
 | 54 | Sheryl Swoopes | 677 |
-| 55 | **Dearica Hamby** 🔴 | 673 |
+| 55 | **Dearica Hamby** 🔴 +1 | 674 |
 | 56 | Tammy Sutton-Brown | 672 |
 | 57 | Deanna Nolan | 669 |
 | 58 | Chasity Melvin | 666 |
@@ -1511,7 +1511,7 @@ _Last updated: 2026-06-14 02:13 UTC_
 | 55 | Penny Taylor | 832 |
 | 56 | Dominique Canty | 831 |
 | 56 | Wendy Palmer | 831 |
-| 58 | **Dearica Hamby** 🔴 | 829 |
+| 58 | **Dearica Hamby** 🔴 +1 | 830 |
 | 59 | Shannon Johnson | 813 |
 | 59 | Tully Bevilaqua | 813 |
 | 61 | Skylar Diggins | 812 |
