@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-14 00:02 UTC_
+_Last updated: 2026-06-14 00:03 UTC_
 
 ## Contents
 
@@ -183,7 +183,7 @@ _Last updated: 2026-06-14 00:02 UTC_
 | 162 | Bria Hartley | 1,967 |
 | 163 | Chiney Ogwumike | 1,964 |
 | 164 | Nicole Ohlde | 1,959 |
-| 165 | **Aliyah Boston** 🔴 +11 | 1,939 |
+| 165 | **Aliyah Boston** 🔴 +13 | 1,941 |
 | 166 | Kedra Holland-Corn | 1,938 |
 | 167 | Cathrine Kraayeveld | 1,926 |
 | 168 | Roneeka Hodges | 1,925 |
@@ -294,7 +294,7 @@ _Last updated: 2026-06-14 00:02 UTC_
 | 68 | Tamera Young | 1,433 |
 | 69 | Alana Beard | 1,420 |
 | 70 | Nakia Sanford | 1,419 |
-| 71 | **Monique Billings** 🔴 +5 | 1,390 |
+| 71 | **Monique Billings** 🔴 +6 | 1,391 |
 | 72 | Kara Braxton | 1,387 |
 | 73 | Allisha Gray | 1,384 |
 | 74 | Courtney Vandersloot | 1,383 |
@@ -496,7 +496,7 @@ _Last updated: 2026-06-14 00:02 UTC_
 | 65 | Tully Bevilaqua | 853 |
 | 66 | Brittney Sykes | 852 |
 | 67 | Jia Perkins | 837 |
-| 68 | **Kelsey Mitchell** 🔴 +3 | 824 |
+| 68 | **Kelsey Mitchell** 🔴 +4 | 825 |
 | 69 | Andrea Stinson | 810 |
 | 70 | Tina Thompson | 803 |
 | 71 | Epiphanny Prince | 800 |
@@ -723,8 +723,8 @@ _Last updated: 2026-06-14 00:02 UTC_
 | 85 | Nicky Anosike | 133 |
 | 85 | Seimone Augustus | 133 |
 | 89 | Katie Mattera | 131 |
+| 89 | **Monique Billings** 🔴 +2 | 131 |
 | 89 | Nakia Sanford | 131 |
-| 91 | **Monique Billings** 🔴 +1 | 130 |
 | 92 | Brooke Wyckoff | 129 |
 | 92 | Cathrine Kraayeveld | 129 |
 | 94 | Chiney Ogwumike | 127 |
