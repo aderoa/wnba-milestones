@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-14 00:22 UTC_
+_Last updated: 2026-06-14 00:23 UTC_
 
 ## Contents
 
@@ -58,7 +58,7 @@ _Last updated: 2026-06-14 00:22 UTC_
 | 37 | Alyssa Thomas | 4,653 |
 | 38 | Arike Ogunbowale | 4,612 |
 | 39 | Penny Taylor | 4,595 |
-| 40 | **Natasha Howard** 🔴 +3 | 4,531 |
+| 40 | **Natasha Howard** 🔴 +4 | 4,532 |
 | 41 | **Chelsea Gray** 🔴 +12 | 4,518 |
 | 42 | Kristi Toliver | 4,474 |
 | 43 | Crystal Langhorne | 4,433 |
@@ -70,7 +70,7 @@ _Last updated: 2026-06-14 00:22 UTC_
 | 49 | Kahleah Copper | 4,283 |
 | 50 | Plenette Pierson | 4,258 |
 | 51 | Monique Currie | 4,253 |
-| 52 | **Courtney Williams** 🔴 +9 | 4,247 |
+| 52 | **Courtney Williams** 🔴 +11 | 4,249 |
 | 53 | Dearica Hamby | 4,243 |
 | 54 | Vickie Johnson | 4,230 |
 | 55 | Yolanda Griffith | 4,224 |
@@ -249,7 +249,7 @@ _Last updated: 2026-06-14 00:22 UTC_
 | 23 | Yolanda Griffith | 2,440 |
 | 24 | Dearica Hamby | 2,391 |
 | 25 | Tangela Smith | 2,328 |
-| 26 | **Natasha Howard** 🔴 +3 | 2,256 |
+| 26 | **Natasha Howard** 🔴 +4 | 2,257 |
 | 27 | Erika de Souza | 2,220 |
 | 28 | Diana Taurasi | 2,201 |
 | 29 | Margo Dydek | 2,138 |
@@ -593,9 +593,9 @@ _Last updated: 2026-06-14 00:22 UTC_
 | 162 | Jamierra Faulkner | 410 |
 | 162 | Murriel Page | 410 |
 | 164 | Allison Feaster | 406 |
+| 165 | Aliyah Boston | 403 |
 | 165 | Rita Williams | 403 |
-| 166 | Aliyah Boston | 402 |
-| 166 | Kia Nurse | 402 |
+| 167 | Kia Nurse | 402 |
 | 168 | Julie Allemand | 401 |
 | 169 | Marissa Coleman | 399 |
 | 170 | Jessica Shepard | 395 |
