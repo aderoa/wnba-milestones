@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-14 20:50 UTC
+
+- **Jonquel Jones** passed **Courtney Williams** for **#53** all-time in points (career 4,240) — up from #56 entering today — _7:08 - 4th — WSH @ NY_
+
 ## 2026-06-14 20:47 UTC
 
 - **Rhyne Howard** passed **Carolyn Swords**, **Dearica Hamby**, and **Rebecca Lobo** for **#122** all-time in blocks (career 105) — up from #127 entering today — _8:19 - 4th — ATL @ TOR_

@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-14T20:50:00+00:00",
+    "text": "Jonquel Jones passed Courtney Williams for #53 all-time in points (career 4,240) \u2014 up from #56 entering today \u2014 (7:08 - 4th \u2014 WSH @ NY)",
+    "kind": "rank_pass",
+    "player": "Jonquel Jones",
+    "stat": "points",
+    "rank": 53,
+    "passed_players": [
+      "Courtney Williams"
+    ],
+    "new_total": 4240
+  },
+  {
     "ts": "2026-06-14T20:47:00+00:00",
     "text": "Rhyne Howard passed Carolyn Swords, Dearica Hamby, and Rebecca Lobo for #122 all-time in blocks (career 105) \u2014 up from #127 entering today \u2014 (8:19 - 4th \u2014 ATL @ TOR)",
     "kind": "rank_pass",
@@ -2961,17 +2973,5 @@
       "Arike Ogunbowale"
     ],
     "new_total": 922
-  },
-  {
-    "ts": "2026-06-06T12:04:00+00:00",
-    "text": "Nneka Ogwumike passed Erin Thorn for #90 all-time in three-pointers (career 244) \u2014 up from #91 entering today \u2014 (Final \u2014 DAL @ LA)",
-    "kind": "rank_pass",
-    "player": "Nneka Ogwumike",
-    "stat": "three-pointers",
-    "rank": 90,
-    "passed_players": [
-      "Erin Thorn"
-    ],
-    "new_total": 244
   }
 ]

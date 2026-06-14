@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-14 20:49 UTC_
+_Last updated: 2026-06-14 20:50 UTC_
 
 ## Contents
 
@@ -71,8 +71,8 @@ _Last updated: 2026-06-14 20:49 UTC_
 | 50 | Plenette Pierson | 4,258 |
 | 51 | Monique Currie | 4,253 |
 | 52 | Dearica Hamby | 4,243 |
-| 53 | Courtney Williams | 4,238 |
-| 54 | **Jonquel Jones** 🔴 +15 | 4,237 |
+| 53 | **Jonquel Jones** 🔴 +18 | 4,240 |
+| 54 | Courtney Williams | 4,238 |
 | 55 | Vickie Johnson | 4,230 |
 | 56 | Yolanda Griffith | 4,224 |
 | 57 | Rebekkah Brunson | 4,133 |
@@ -1090,7 +1090,7 @@ _Last updated: 2026-06-14 20:49 UTC_
 | 44 | Rachel Banham | 384 |
 | 45 | Briann January | 381 |
 | 46 | Jasmine Thomas | 376 |
-| 47 | **Jonquel Jones** 🔴 +2 | 373 |
+| 47 | **Jonquel Jones** 🔴 +3 | 374 |
 | 48 | Allison Feaster | 372 |
 | 48 | Betty Lennox | 372 |
 | 50 | Epiphanny Prince | 368 |
@@ -1317,7 +1317,7 @@ _Last updated: 2026-06-14 20:49 UTC_
 | 65 | Kelsey Plum | 636 |
 | 67 | Odyssey Sims | 631 |
 | 67 | Svetlana Abrosimova | 631 |
-| 69 | **Jonquel Jones** 🔴 +1 | 628 |
+| 69 | **Jonquel Jones** 🔴 +2 | 629 |
 | 70 | Rebekkah Brunson | 615 |
 | 71 | Seimone Augustus | 613 |
 | 72 | Tiffany Hayes | 610 |
@@ -1354,9 +1354,9 @@ _Last updated: 2026-06-14 20:49 UTC_
 | 103 | Marie Ferdinand-Harris | 518 |
 | 104 | Shavonte Zellous | 517 |
 | 104 | Wendy Palmer | 517 |
+| 106 | **Jordin Canada** 🔴 +2 | 514 |
 | 106 | Tully Bevilaqua | 514 |
-| 107 | Jia Perkins | 513 |
-| 107 | **Jordin Canada** 🔴 +1 | 513 |
+| 108 | Jia Perkins | 513 |
 | 109 | **Marina Mabrey** 🔴 +1 | 511 |
 | 110 | Tamera Young | 501 |
 | 111 | Nikki Teasley | 493 |
