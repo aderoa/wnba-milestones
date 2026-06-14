@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-14 01:36 UTC_
+_Last updated: 2026-06-14 01:37 UTC_
 
 ## Contents
 
@@ -345,7 +345,7 @@ _Last updated: 2026-06-14 01:36 UTC_
 | 119 | Svetlana Abrosimova | 1,078 |
 | 120 | Le'coe Willingham | 1,054 |
 | 121 | Isabelle Harrison | 1,049 |
-| 122 | **Jackie Young** 🔴 +4 | 1,048 |
+| 121 | **Jackie Young** 🔴 +5 | 1,049 |
 | 123 | Nicole Ohlde | 1,040 |
 | 124 | Tamecka Dixon | 1,035 |
 | 125 | Kamila Vodichkova | 1,031 |
@@ -871,7 +871,7 @@ _Last updated: 2026-06-14 01:36 UTC_
 | 30 | Tangela Smith | 455 |
 | 31 | Skylar Diggins | 454 |
 | 32 | Tina Thompson | 452 |
-| 33 | **Natasha Howard** 🔴 +3 | 450 |
+| 33 | **Natasha Howard** 🔴 +4 | 451 |
 | 34 | Maya Moore | 449 |
 | 35 | **Chelsea Gray** 🔴 +2 | 447 |
 | 35 | **Jewell Loyd** 🔴 +2 | 447 |
@@ -1269,7 +1269,7 @@ _Last updated: 2026-06-14 01:36 UTC_
 | 18 | Cappie Pondexter | 945 |
 | 19 | Katie Smith | 935 |
 | 20 | Shannon Johnson | 934 |
-| 21 | **Chelsea Gray** 🔴 +1 | 899 |
+| 21 | **Chelsea Gray** 🔴 +2 | 900 |
 | 22 | Taj McWilliams-Franklin | 898 |
 | 23 | Skylar Diggins | 893 |
 | 24 | Candice Dupree | 869 |
@@ -1471,7 +1471,7 @@ _Last updated: 2026-06-14 01:36 UTC_
 | 15 | Swin Cash | 1,146 |
 | 16 | Taj McWilliams-Franklin | 1,145 |
 | 17 | Monique Currie | 1,137 |
-| 18 | **Natasha Howard** 🔴 +3 | 1,127 |
+| 18 | **Natasha Howard** 🔴 +4 | 1,128 |
 | 19 | Stefanie Dolson | 1,117 |
 | 20 | Tanisha Wright | 1,109 |
 | 21 | Michelle Snow | 1,108 |
