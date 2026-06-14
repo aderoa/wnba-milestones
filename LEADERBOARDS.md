@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-14 00:23 UTC_
+_Last updated: 2026-06-14 00:24 UTC_
 
 ## Contents
 
@@ -873,8 +873,8 @@ _Last updated: 2026-06-14 00:23 UTC_
 | 32 | Tina Thompson | 452 |
 | 33 | Maya Moore | 449 |
 | 34 | **Natasha Howard** 🔴 +1 | 448 |
-| 35 | **Chelsea Gray** 🔴 +1 | 446 |
-| 35 | **Jewell Loyd** 🔴 +1 | 446 |
+| 35 | **Jewell Loyd** 🔴 +2 | 447 |
+| 36 | **Chelsea Gray** 🔴 +1 | 446 |
 | 37 | Sheri Sam | 438 |
 | 38 | Camille Smith | 437 |
 | 39 | **Kayla McBride** 🔴 | 436 |
@@ -1551,7 +1551,7 @@ _Last updated: 2026-06-14 00:23 UTC_
 | 94 | Kelsey Plum | 680 |
 | 94 | Temeka Johnson | 680 |
 | 97 | Kelly Miller | 676 |
-| 98 | **Cheyenne Parker-Tyus** 🔴 | 674 |
+| 98 | **Cheyenne Parker-Tyus** 🔴 +1 | 675 |
 | 99 | Chamique Holdsclaw | 667 |
 | 100 | Breanna Stewart | 665 |
 | 101 | Tianna Hawkins | 662 |
