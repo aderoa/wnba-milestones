@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-14T21:09:00+00:00",
+    "text": "Jordin Canada passed Tiffany Hayes for #54 all-time in steals (career 383) \u2014 up from #56 entering today \u2014 (2:10 - 4th \u2014 ATL @ TOR)",
+    "kind": "rank_pass",
+    "player": "Jordin Canada",
+    "stat": "steals",
+    "rank": 54,
+    "passed_players": [
+      "Tiffany Hayes"
+    ],
+    "new_total": 383
+  },
+  {
     "ts": "2026-06-14T21:01:00+00:00",
     "text": "Sabrina Ionescu passed Tianna Hawkins for #131 all-time in rebounds (career 1,001) \u2014 up from #133 entering today \u2014 (2:21 - 4th \u2014 WSH @ NY)",
     "kind": "rank_pass",
@@ -2961,18 +2973,5 @@
     "stat": "rebounds",
     "value": 300,
     "new_total": 300
-  },
-  {
-    "ts": "2026-06-06T12:04:00+00:00",
-    "text": "Arike Ogunbowale passed Brooke Wyckoff and Coco Miller for #187 all-time in rebounds (career 754) \u2014 up from #189 entering today \u2014 (Final \u2014 DAL @ LA)",
-    "kind": "rank_pass",
-    "player": "Arike Ogunbowale",
-    "stat": "rebounds",
-    "rank": 187,
-    "passed_players": [
-      "Brooke Wyckoff",
-      "Coco Miller"
-    ],
-    "new_total": 754
   }
 ]
