@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-14 20:23 UTC_
+_Last updated: 2026-06-14 20:24 UTC_
 
 ## Contents
 
@@ -1652,5 +1652,5 @@ _Last updated: 2026-06-14 20:23 UTC_
 | 196 | Natalie Achonwa | 459 |
 | 197 | Kara Lawson | 457 |
 | 198 | NaLyssa Smith | 454 |
-| 199 | Alexis Hornbuckle | 450 |
-| 199 | **Satou Sabally** 🔴 | 450 |
+| 199 | **Satou Sabally** 🔴 +1 | 451 |
+| 200 | Alexis Hornbuckle | 450 |
