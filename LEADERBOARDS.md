@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-14 00:30 UTC_
+_Last updated: 2026-06-14 00:31 UTC_
 
 ## Contents
 
@@ -136,7 +136,7 @@ _Last updated: 2026-06-14 00:30 UTC_
 | 115 | Janeth Arcain | 2,633 |
 | 116 | Temeka Johnson | 2,620 |
 | 117 | Leilani Mitchell | 2,618 |
-| 118 | **Cheyenne Parker-Tyus** 🔴 +6 | 2,605 |
+| 118 | **Cheyenne Parker-Tyus** 🔴 +9 | 2,608 |
 | 119 | Cynthia Cooper | 2,601 |
 | 120 | Tan White | 2,595 |
 | 121 | Kelly Miller | 2,558 |
