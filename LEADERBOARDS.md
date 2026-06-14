@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-14 20:16 UTC_
+_Last updated: 2026-06-14 20:17 UTC_
 
 ## Contents
 
@@ -73,7 +73,7 @@ _Last updated: 2026-06-14 20:16 UTC_
 | 52 | Dearica Hamby | 4,243 |
 | 53 | Courtney Williams | 4,238 |
 | 54 | Vickie Johnson | 4,230 |
-| 55 | **Jonquel Jones** 🔴 +3 | 4,225 |
+| 55 | **Jonquel Jones** 🔴 +5 | 4,227 |
 | 56 | Yolanda Griffith | 4,224 |
 | 57 | Rebekkah Brunson | 4,133 |
 | 58 | Asjha Jones | 3,986 |
@@ -456,7 +456,7 @@ _Last updated: 2026-06-14 20:16 UTC_
 | 25 | Katie Smith | 1,258 |
 | 26 | Kelsey Plum | 1,237 |
 | 27 | Odyssey Sims | 1,228 |
-| 28 | **Jordin Canada** 🔴 +5 | 1,206 |
+| 28 | **Jordin Canada** 🔴 +6 | 1,207 |
 | 29 | Vickie Johnson | 1,202 |
 | 30 | Leilani Mitchell | 1,197 |
 | 31 | DeWanna Bonner | 1,192 |
@@ -475,7 +475,7 @@ _Last updated: 2026-06-14 20:16 UTC_
 | 44 | Nikki Teasley | 982 |
 | 45 | Kayla McBride | 968 |
 | 46 | Tamecka Dixon | 960 |
-| 47 | **Breanna Stewart** 🔴 | 953 |
+| 47 | **Breanna Stewart** 🔴 +1 | 954 |
 | 48 | Kara Lawson | 946 |
 | 49 | Tiffany Hayes | 936 |
 | 50 | Deanna Nolan | 930 |
@@ -1357,7 +1357,7 @@ _Last updated: 2026-06-14 20:16 UTC_
 | 106 | Tully Bevilaqua | 514 |
 | 107 | Jia Perkins | 513 |
 | 107 | **Jordin Canada** 🔴 +1 | 513 |
-| 109 | **Marina Mabrey** 🔴 +2 | 512 |
+| 109 | **Marina Mabrey** 🔴 +1 | 511 |
 | 110 | Tamera Young | 501 |
 | 111 | Nikki Teasley | 493 |
 | 111 | Tari Phillips | 493 |
@@ -1592,9 +1592,9 @@ _Last updated: 2026-06-14 20:16 UTC_
 | 136 | Barbara Farris | 563 |
 | 137 | Jessica Breland | 562 |
 | 138 | Dawn Staley | 551 |
-| 138 | **Marina Mabrey** 🔴 +3 | 551 |
-| 140 | Glory Johnson | 550 |
-| 140 | Tierra Ruffin-Pratt | 550 |
+| 139 | Glory Johnson | 550 |
+| 139 | **Marina Mabrey** 🔴 +2 | 550 |
+| 139 | Tierra Ruffin-Pratt | 550 |
 | 142 | Erlana Larkins | 546 |
 | 143 | Jayne Appel Marinelli | 543 |
 | 143 | Renee Montgomery | 543 |
