@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-14 03:20 UTC_
+_Last updated: 2026-06-14 03:21 UTC_
 
 ## Contents
 
@@ -23,7 +23,7 @@ _Last updated: 2026-06-14 03:20 UTC_
 | 2 | Tina Charles | 8,396 |
 | 3 | **DeWanna Bonner** 🔴 +10 | 7,920 |
 | 4 | Tina Thompson | 7,470 |
-| 5 | **Nneka Ogwumike** 🔴 +16 | 7,456 |
+| 5 | **Nneka Ogwumike** 🔴 +13 | 7,453 |
 | 6 | Tamika Catchings | 7,371 |
 | 7 | Candice Dupree | 6,861 |
 | 8 | Sue Bird | 6,802 |
@@ -227,15 +227,15 @@ _Last updated: 2026-06-14 03:20 UTC_
 | 1 | Tina Charles | 4,262 |
 | 2 | Sylvia Fowles | 4,005 |
 | 3 | Candace Parker | 3,467 |
-| 4 | Rebekkah Brunson | 3,345 |
-| 5 | **Nneka Ogwumike** 🔴 +7 | 3,344 |
+| 4 | **Nneka Ogwumike** 🔴 +9 | 3,346 |
+| 5 | Rebekkah Brunson | 3,345 |
 | 6 | Tamika Catchings | 3,313 |
 | 7 | Lisa Leslie | 3,303 |
 | 8 | **DeWanna Bonner** 🔴 +1 | 3,261 |
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
-| 12 | **Alyssa Thomas** 🔴 +2 | 2,819 |
+| 12 | **Alyssa Thomas** 🔴 +3 | 2,820 |
 | 13 | Jonquel Jones | 2,663 |
 | 14 | Sancho Lyttle | 2,596 |
 | 15 | A'ja Wilson | 2,584 |
@@ -454,7 +454,7 @@ _Last updated: 2026-06-14 03:20 UTC_
 | 23 | **Erica Wheeler** 🔴 +5 | 1,311 |
 | 24 | Kristi Toliver | 1,301 |
 | 25 | Katie Smith | 1,258 |
-| 26 | **Kelsey Plum** 🔴 +8 | 1,245 |
+| 26 | **Kelsey Plum** 🔴 +7 | 1,244 |
 | 27 | Odyssey Sims | 1,228 |
 | 28 | Vickie Johnson | 1,202 |
 | 29 | Jordin Canada | 1,201 |
@@ -668,7 +668,7 @@ _Last updated: 2026-06-14 03:20 UTC_
 | 32 | Vicky Bullett | 288 |
 | 33 | Rebekkah Brunson | 281 |
 | 34 | Liz Cambage | 264 |
-| 35 | **Nneka Ogwumike** 🔴 | 263 |
+| 34 | **Nneka Ogwumike** 🔴 +1 | 264 |
 | 36 | Swin Cash | 258 |
 | 37 | Cheyenne Parker-Tyus | 257 |
 | 38 | Plenette Pierson | 242 |
@@ -1133,7 +1133,7 @@ _Last updated: 2026-06-14 03:20 UTC_
 | 86 | Rebecca Allen | 254 |
 | 88 | Bria Hartley | 253 |
 | 89 | Angel McCoughtry | 249 |
-| 90 | **Nneka Ogwumike** 🔴 +4 | 247 |
+| 90 | **Nneka Ogwumike** 🔴 +3 | 246 |
 | 91 | Erin Thorn | 243 |
 | 92 | Brittney Sykes | 242 |
 | 93 | Azurá Stevens | 241 |
