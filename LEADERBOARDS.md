@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-14 00:50 UTC_
+_Last updated: 2026-06-14 00:51 UTC_
 
 ## Contents
 
@@ -202,7 +202,7 @@ _Last updated: 2026-06-14 00:50 UTC_
 | 181 | Rachel Banham | 1,823 |
 | 182 | Danielle Adams | 1,820 |
 | 183 | Charde Houston | 1,797 |
-| 184 | **NaLyssa Smith** 🔴 +9 | 1,784 |
+| 184 | **NaLyssa Smith** 🔴 +11 | 1,786 |
 | 185 | Kamila Vodichkova | 1,767 |
 | 186 | Sophie Cunningham | 1,763 |
 | 186 | Tully Bevilaqua | 1,763 |
@@ -336,7 +336,7 @@ _Last updated: 2026-06-14 00:50 UTC_
 | 109 | Tamika Raymond | 1,127 |
 | 111 | Adrienne Goodson | 1,126 |
 | 112 | Aliyah Boston | 1,121 |
-| 113 | **NaLyssa Smith** 🔴 +5 | 1,120 |
+| 112 | **NaLyssa Smith** 🔴 +6 | 1,121 |
 | 114 | Deanna Nolan | 1,112 |
 | 114 | Natasha Cloud | 1,112 |
 | 116 | Chiney Ogwumike | 1,110 |
@@ -1471,7 +1471,7 @@ _Last updated: 2026-06-14 00:50 UTC_
 | 15 | Swin Cash | 1,146 |
 | 16 | Taj McWilliams-Franklin | 1,145 |
 | 17 | Monique Currie | 1,137 |
-| 18 | **Natasha Howard** 🔴 +2 | 1,126 |
+| 18 | **Natasha Howard** 🔴 +3 | 1,127 |
 | 19 | Stefanie Dolson | 1,117 |
 | 20 | Tanisha Wright | 1,109 |
 | 21 | Michelle Snow | 1,108 |
