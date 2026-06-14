@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-14 19:14 UTC_
+_Last updated: 2026-06-14 19:15 UTC_
 
 ## Contents
 
@@ -113,7 +113,7 @@ _Last updated: 2026-06-14 19:14 UTC_
 | 92 | Briann January | 3,082 |
 | 93 | **Marina Mabrey** 🔴 | 3,052 |
 | 94 | Erika de Souza | 3,046 |
-| 95 | Sabrina Ionescu | 3,041 |
+| 95 | **Sabrina Ionescu** 🔴 | 3,041 |
 | 96 | Shameka Christon | 3,039 |
 | 97 | Marie Ferdinand-Harris | 3,001 |
 | 98 | Emma Meesseman | 2,966 |
@@ -166,7 +166,7 @@ _Last updated: 2026-06-14 19:14 UTC_
 | 145 | Janel McCarville | 2,215 |
 | 146 | Sami Whitcomb | 2,211 |
 | 147 | Sophia Witherspoon | 2,210 |
-| 148 | Satou Sabally | 2,204 |
+| 148 | **Satou Sabally** 🔴 | 2,204 |
 | 149 | Ruthie Bolton | 2,175 |
 | 150 | Ann Wauters | 2,170 |
 | 151 | Layshia Clarendon | 2,168 |
@@ -195,7 +195,7 @@ _Last updated: 2026-06-14 19:14 UTC_
 | 174 | Ebony Hoffman | 1,909 |
 | 175 | Candice Wiggins | 1,901 |
 | 176 | Natisha Hiedeman | 1,858 |
-| 177 | **Isabelle Harrison** 🔴 +2 | 1,834 |
+| 177 | **Isabelle Harrison** 🔴 +5 | 1,837 |
 | 178 | Damiris Dantas | 1,830 |
 | 179 | Tianna Hawkins | 1,825 |
 | 180 | Noelle Quinn | 1,824 |
@@ -236,7 +236,7 @@ _Last updated: 2026-06-14 19:14 UTC_
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | Alyssa Thomas | 2,817 |
-| 13 | **Jonquel Jones** 🔴 +1 | 2,664 |
+| 13 | **Jonquel Jones** 🔴 +2 | 2,665 |
 | 14 | Sancho Lyttle | 2,596 |
 | 15 | A'ja Wilson | 2,574 |
 | 15 | DeLisha Milton-Jones | 2,574 |
@@ -356,7 +356,7 @@ _Last updated: 2026-06-14 19:14 UTC_
 | 130 | Tiffany Jackson | 1,002 |
 | 131 | Tianna Hawkins | 1,000 |
 | 132 | Damiris Dantas | 999 |
-| 133 | Sabrina Ionescu | 998 |
+| 133 | **Sabrina Ionescu** 🔴 | 998 |
 | 134 | Marissa Coleman | 995 |
 | 135 | Kristen Rasmussen | 993 |
 | 136 | Skylar Diggins | 991 |
@@ -369,7 +369,7 @@ _Last updated: 2026-06-14 19:14 UTC_
 | 143 | Janell Burse | 944 |
 | 144 | Jessica Shepard | 927 |
 | 144 | Merlakia Jones | 927 |
-| 146 | Satou Sabally | 926 |
+| 146 | **Satou Sabally** 🔴 | 926 |
 | 147 | **Angel Reese** 🔴 +2 | 925 |
 | 148 | Nicky Anosike | 922 |
 | 149 | Janeth Arcain | 916 |
@@ -465,7 +465,7 @@ _Last updated: 2026-06-14 19:14 UTC_
 | 34 | Swin Cash | 1,131 |
 | 35 | Lindsey Harding | 1,090 |
 | 36 | Jackie Young | 1,087 |
-| 37 | Sabrina Ionescu | 1,074 |
+| 37 | **Sabrina Ionescu** 🔴 | 1,074 |
 | 38 | Katie Douglas | 1,069 |
 | 39 | Alana Beard | 1,061 |
 | 40 | Penny Taylor | 1,049 |
@@ -568,7 +568,7 @@ _Last updated: 2026-06-14 19:14 UTC_
 | 137 | Elizabeth Williams | 467 |
 | 138 | Erin Phillips | 462 |
 | 139 | Sylvia Fowles | 461 |
-| 140 | Satou Sabally | 456 |
+| 140 | **Satou Sabally** 🔴 | 456 |
 | 141 | Sydney Colson | 454 |
 | 141 | Tyasha Harris | 454 |
 | 143 | Yolanda Griffith | 451 |
@@ -828,12 +828,12 @@ _Last updated: 2026-06-14 19:14 UTC_
 | 192 | Mercedes Russell | 69 |
 | 192 | Rhonda Mapp | 69 |
 | 194 | Jackie Young | 68 |
-| 194 | Satou Sabally | 68 |
+| 194 | **Satou Sabally** 🔴 | 68 |
 | 196 | Shannon Johnson | 67 |
 | 197 | Crystal Robinson | 65 |
 | 197 | Queen Egbo | 65 |
 | 197 | Riquna Williams | 65 |
-| 197 | Sabrina Ionescu | 65 |
+| 197 | **Sabrina Ionescu** 🔴 | 65 |
 
 ## Steals
 
@@ -1024,7 +1024,7 @@ _Last updated: 2026-06-14 19:14 UTC_
 | 183 | Erin Perperoglou | 184 |
 | 184 | Rebecca Allen | 183 |
 | 185 | Erin Phillips | 182 |
-| 185 | Sabrina Ionescu | 182 |
+| 185 | **Sabrina Ionescu** 🔴 | 182 |
 | 187 | Nakia Sanford | 181 |
 | 188 | Diamond DeShields | 180 |
 | 188 | **Isabelle Harrison** 🔴 | 180 |
@@ -1069,7 +1069,7 @@ _Last updated: 2026-06-14 19:14 UTC_
 | 23 | Shekinna Stricklen | 468 |
 | 24 | **Marina Mabrey** 🔴 | 465 |
 | 25 | Cappie Pondexter | 464 |
-| 26 | Sabrina Ionescu | 462 |
+| 26 | **Sabrina Ionescu** 🔴 | 462 |
 | 27 | **Breanna Stewart** 🔴 | 460 |
 | 28 | Ariel Atkins | 451 |
 | 28 | Tiffany Hayes | 451 |
@@ -1146,7 +1146,7 @@ _Last updated: 2026-06-14 19:14 UTC_
 | 100 | Elena Baranova | 224 |
 | 101 | Essence Carson | 223 |
 | 102 | Kelly Mazzante | 218 |
-| 102 | Satou Sabally | 218 |
+| 102 | **Satou Sabally** 🔴 | 218 |
 | 102 | Sheri Sam | 218 |
 | 105 | Damiris Dantas | 211 |
 | 105 | Erin Phillips | 211 |
@@ -1351,7 +1351,7 @@ _Last updated: 2026-06-14 19:14 UTC_
 | 99 | Nicole Powell | 525 |
 | 101 | Arike Ogunbowale | 520 |
 | 102 | Marie Ferdinand-Harris | 518 |
-| 102 | Sabrina Ionescu | 518 |
+| 102 | **Sabrina Ionescu** 🔴 | 518 |
 | 104 | Shavonte Zellous | 517 |
 | 104 | Wendy Palmer | 517 |
 | 106 | Tully Bevilaqua | 514 |
@@ -1424,7 +1424,7 @@ _Last updated: 2026-06-14 19:14 UTC_
 | 173 | Aerial Powers | 333 |
 | 173 | Diamond DeShields | 333 |
 | 175 | Charde Houston | 331 |
-| 176 | Satou Sabally | 330 |
+| 176 | **Satou Sabally** 🔴 | 330 |
 | 177 | Erlana Larkins | 326 |
 | 177 | Rita Williams | 326 |
 | 179 | Le'coe Willingham | 325 |
@@ -1653,4 +1653,4 @@ _Last updated: 2026-06-14 19:14 UTC_
 | 197 | Kara Lawson | 457 |
 | 198 | NaLyssa Smith | 454 |
 | 199 | Alexis Hornbuckle | 450 |
-| 199 | Satou Sabally | 450 |
+| 199 | **Satou Sabally** 🔴 | 450 |
