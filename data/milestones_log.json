@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-14T01:49:00+00:00",
+    "text": "Chelsea Gray passed Natasha Howard for #34 all-time in steals (career 448) \u2014 up from #35 entering today \u2014 (2:59 - 4th \u2014 MIN @ LV)",
+    "kind": "rank_pass",
+    "player": "Chelsea Gray",
+    "stat": "steals",
+    "rank": 34,
+    "passed_players": [
+      "Natasha Howard"
+    ],
+    "new_total": 448
+  },
+  {
     "ts": "2026-06-14T01:28:00+00:00",
     "text": "Kayla McBride passed Armintie Herrington and Sophie Cunningham for #153 all-time in fouls (career 524) \u2014 up from #155 entering today \u2014 (46.5 - 3rd \u2014 MIN @ LV)",
     "kind": "rank_pass",
@@ -2958,17 +2970,5 @@
       "Satou Sabally"
     ],
     "new_total": 927
-  },
-  {
-    "ts": "2026-06-06T04:03:00+00:00",
-    "text": "Arike Ogunbowale passed Emma Meesseman for #126 all-time in fouls (career 586) \u2014 up from #127 entering today \u2014 (2:13 - 4th \u2014 DAL @ LA)",
-    "kind": "rank_pass",
-    "player": "Arike Ogunbowale",
-    "stat": "fouls",
-    "rank": 126,
-    "passed_players": [
-      "Emma Meesseman"
-    ],
-    "new_total": 586
   }
 ]

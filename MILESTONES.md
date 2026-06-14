@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-14 01:49 UTC
+
+- **Chelsea Gray** passed **Natasha Howard** for **#34** all-time in steals (career 448) — up from #35 entering today — _2:59 - 4th — MIN @ LV_
+
 ## 2026-06-14 01:28 UTC
 
 - **Kayla McBride** passed **Armintie Herrington** and **Sophie Cunningham** for **#153** all-time in fouls (career 524) — up from #155 entering today — _46.5 - 3rd — MIN @ LV_

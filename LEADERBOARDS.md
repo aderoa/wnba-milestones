@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-14 01:48 UTC_
+_Last updated: 2026-06-14 01:49 UTC_
 
 ## Contents
 
@@ -367,7 +367,7 @@ _Last updated: 2026-06-14 01:48 UTC_
 | 141 | Dominique Canty | 961 |
 | 142 | Armintie Herrington | 960 |
 | 143 | Janell Burse | 944 |
-| 144 | **Jessica Shepard** 🔴 +8 | 935 |
+| 144 | **Jessica Shepard** 🔴 +9 | 936 |
 | 145 | Merlakia Jones | 927 |
 | 146 | Satou Sabally | 926 |
 | 147 | Angel Reese | 923 |
@@ -381,7 +381,7 @@ _Last updated: 2026-06-14 01:48 UTC_
 | 155 | **Alanna Smith** 🔴 +3 | 867 |
 | 155 | Shameka Christon | 867 |
 | 157 | Krystal Thomas | 862 |
-| 158 | **Nia Coffey** 🔴 +2 | 856 |
+| 158 | **Nia Coffey** 🔴 +3 | 857 |
 | 159 | Marina Mabrey | 849 |
 | 160 | Leilani Mitchell | 845 |
 | 161 | Essence Carson | 833 |
@@ -873,8 +873,8 @@ _Last updated: 2026-06-14 01:48 UTC_
 | 32 | Tina Thompson | 452 |
 | 33 | **Natasha Howard** 🔴 +4 | 451 |
 | 34 | Maya Moore | 449 |
-| 35 | **Chelsea Gray** 🔴 +2 | 447 |
-| 35 | **Jewell Loyd** 🔴 +2 | 447 |
+| 35 | **Chelsea Gray** 🔴 +3 | 448 |
+| 36 | **Jewell Loyd** 🔴 +2 | 447 |
 | 37 | **Kayla McBride** 🔴 +2 | 438 |
 | 37 | Sheri Sam | 438 |
 | 39 | Camille Smith | 437 |
@@ -1307,7 +1307,7 @@ _Last updated: 2026-06-14 01:48 UTC_
 | 56 | Tammy Sutton-Brown | 672 |
 | 57 | Deanna Nolan | 669 |
 | 58 | Chasity Melvin | 666 |
-| 59 | **Courtney Williams** 🔴 | 662 |
+| 59 | **Courtney Williams** 🔴 +1 | 663 |
 | 60 | Vickie Johnson | 660 |
 | 61 | Yolanda Griffith | 653 |
 | 62 | Sheri Sam | 650 |
