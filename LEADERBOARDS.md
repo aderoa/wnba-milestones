@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-14 01:44 UTC_
+_Last updated: 2026-06-14 01:45 UTC_
 
 ## Contents
 
@@ -37,7 +37,7 @@ _Last updated: 2026-06-14 01:44 UTC_
 | 16 | Brittney Griner | 6,041 |
 | 17 | Lauren Jackson | 6,005 |
 | 17 | Seimone Augustus | 6,005 |
-| 19 | **A'ja Wilson** 🔴 +19 | 5,961 |
+| 19 | **A'ja Wilson** 🔴 +20 | 5,962 |
 | 20 | Becky Hammon | 5,816 |
 | 21 | Angel McCoughtry | 5,797 |
 | 22 | Skylar Diggins | 5,626 |
@@ -527,7 +527,7 @@ _Last updated: 2026-06-14 01:44 UTC_
 | 96 | Jonquel Jones | 625 |
 | 97 | Natisha Hiedeman | 624 |
 | 98 | Sami Whitcomb | 623 |
-| 99 | **Alysha Clark** 🔴 | 616 |
+| 99 | **Alysha Clark** 🔴 +1 | 617 |
 | 100 | Debbie Black | 612 |
 | 101 | Cynthia Cooper | 602 |
 | 102 | **Natasha Howard** 🔴 +1 | 597 |
@@ -1651,6 +1651,6 @@ _Last updated: 2026-06-14 01:44 UTC_
 | 195 | Sue Wicks | 462 |
 | 196 | Natalie Achonwa | 459 |
 | 197 | Kara Lawson | 457 |
-| 198 | **NaLyssa Smith** 🔴 +1 | 455 |
+| 198 | **NaLyssa Smith** 🔴 +2 | 456 |
 | 199 | Alexis Hornbuckle | 450 |
 | 199 | Satou Sabally | 450 |
