@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-14 19:21 UTC_
+_Last updated: 2026-06-14 19:22 UTC_
 
 ## Contents
 
@@ -32,7 +32,7 @@ _Last updated: 2026-06-14 19:21 UTC_
 | 11 | Katie Smith | 6,450 |
 | 12 | Sylvia Fowles | 6,413 |
 | 13 | Lisa Leslie | 6,251 |
-| 14 | **Breanna Stewart** 🔴 | 6,173 |
+| 14 | **Breanna Stewart** 🔴 +2 | 6,175 |
 | 15 | Jewell Loyd | 6,078 |
 | 16 | Brittney Griner | 6,031 |
 | 17 | Lauren Jackson | 6,005 |
@@ -195,7 +195,7 @@ _Last updated: 2026-06-14 19:21 UTC_
 | 174 | Ebony Hoffman | 1,909 |
 | 175 | Candice Wiggins | 1,901 |
 | 176 | Natisha Hiedeman | 1,858 |
-| 177 | **Isabelle Harrison** 🔴 +5 | 1,837 |
+| 177 | **Isabelle Harrison** 🔴 +6 | 1,838 |
 | 178 | Damiris Dantas | 1,830 |
 | 179 | Tianna Hawkins | 1,825 |
 | 180 | Noelle Quinn | 1,824 |
@@ -356,7 +356,7 @@ _Last updated: 2026-06-14 19:21 UTC_
 | 130 | Tiffany Jackson | 1,002 |
 | 131 | Tianna Hawkins | 1,000 |
 | 132 | Damiris Dantas | 999 |
-| 133 | **Sabrina Ionescu** 🔴 | 998 |
+| 132 | **Sabrina Ionescu** 🔴 +1 | 999 |
 | 134 | Marissa Coleman | 995 |
 | 135 | Kristen Rasmussen | 993 |
 | 136 | Skylar Diggins | 991 |
@@ -568,7 +568,7 @@ _Last updated: 2026-06-14 19:21 UTC_
 | 137 | Elizabeth Williams | 467 |
 | 138 | Erin Phillips | 462 |
 | 139 | Sylvia Fowles | 461 |
-| 140 | **Satou Sabally** 🔴 +1 | 457 |
+| 140 | **Satou Sabally** 🔴 +3 | 459 |
 | 141 | Sydney Colson | 454 |
 | 141 | Tyasha Harris | 454 |
 | 143 | Yolanda Griffith | 451 |
