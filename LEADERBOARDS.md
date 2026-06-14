@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-14 02:37 UTC_
+_Last updated: 2026-06-14 02:38 UTC_
 
 ## Contents
 
@@ -514,7 +514,7 @@ _Last updated: 2026-06-14 02:37 UTC_
 | 83 | Moriah Jefferson | 685 |
 | 84 | Emma Meesseman | 681 |
 | 85 | Nykesha Sales | 677 |
-| 86 | **Ariel Atkins** 🔴 | 664 |
+| 86 | **Ariel Atkins** 🔴 +1 | 665 |
 | 87 | Bria Hartley | 661 |
 | 88 | Lindsay Allen | 657 |
 | 89 | Brittney Griner | 652 |
