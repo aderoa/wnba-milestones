@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-14 00:04 UTC_
+_Last updated: 2026-06-14 00:05 UTC_
 
 ## Contents
 
@@ -496,7 +496,7 @@ _Last updated: 2026-06-14 00:04 UTC_
 | 65 | Tully Bevilaqua | 853 |
 | 66 | Brittney Sykes | 852 |
 | 67 | Jia Perkins | 837 |
-| 68 | **Kelsey Mitchell** 🔴 +4 | 825 |
+| 68 | **Kelsey Mitchell** 🔴 +5 | 826 |
 | 69 | Andrea Stinson | 810 |
 | 70 | Tina Thompson | 803 |
 | 71 | Epiphanny Prince | 800 |
@@ -1165,9 +1165,9 @@ _Last updated: 2026-06-14 00:04 UTC_
 | 119 | Karima Christmas-Kelly | 181 |
 | 120 | Aerial Powers | 179 |
 | 120 | Camille Smith | 179 |
+| 122 | **Caitlin Clark** 🔴 +5 | 176 |
 | 122 | Swin Cash | 176 |
-| 123 | **Caitlin Clark** 🔴 +4 | 175 |
-| 123 | Nikki McCray | 175 |
+| 124 | Nikki McCray | 175 |
 | 125 | Shatori Walker-Kimbrough | 174 |
 | 125 | Tayler Hill | 174 |
 | 127 | Theresa Plaisance | 172 |
@@ -1289,7 +1289,7 @@ _Last updated: 2026-06-14 00:04 UTC_
 | 38 | Margo Dydek | 758 |
 | 39 | Tangela Smith | 751 |
 | 40 | Kristi Toliver | 748 |
-| 41 | **Brittney Griner** 🔴 | 743 |
+| 41 | **Brittney Griner** 🔴 +1 | 744 |
 | 42 | Monique Currie | 724 |
 | 43 | Michelle Snow | 723 |
 | 44 | Tamecka Dixon | 716 |
@@ -1481,8 +1481,8 @@ _Last updated: 2026-06-14 00:04 UTC_
 | 25 | Lindsay Whalen | 998 |
 | 26 | Rebekkah Brunson | 996 |
 | 27 | Yolanda Griffith | 991 |
-| 28 | **Brittney Griner** 🔴 +2 | 982 |
-| 28 | Lauren Jackson | 982 |
+| 28 | **Brittney Griner** 🔴 +3 | 983 |
+| 29 | Lauren Jackson | 982 |
 | 30 | Nakia Sanford | 979 |
 | 31 | Asjha Jones | 971 |
 | 32 | Alyssa Thomas | 954 |

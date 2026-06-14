@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-14 00:05 UTC
+
+- **Caitlin Clark** passed **Nikki McCray** for **#123** all-time in three-pointers (career 176) — up from #127 entering today — _5:20 - 4th — IND @ CON_
+
 ## 2026-06-13 04:22 UTC
 
 - **Tiffany Hayes** passed **Seimone Augustus** for **#71** all-time in turnovers (career 614) — up from #72 entering today — _21.3 - 4th — GS @ SEA_
