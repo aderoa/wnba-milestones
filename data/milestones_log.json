@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-06-14T01:59:00+00:00",
+    "text": "Bridget Carleton passed Candice Wiggins and Tully Bevilaqua for #75 all-time in three-pointers (career 291) \u2014 up from #79 entering today \u2014 (0.0 - 3rd \u2014 DAL @ POR)",
+    "kind": "rank_pass",
+    "player": "Bridget Carleton",
+    "stat": "three-pointers",
+    "rank": 75,
+    "passed_players": [
+      "Candice Wiggins",
+      "Tully Bevilaqua"
+    ],
+    "new_total": 291
+  },
+  {
     "ts": "2026-06-14T01:49:00+00:00",
     "text": "Chelsea Gray passed Natasha Howard for #34 all-time in steals (career 448) \u2014 up from #35 entering today \u2014 (2:59 - 4th \u2014 MIN @ LV)",
     "kind": "rank_pass",
@@ -2958,17 +2971,5 @@
       "Natasha Cloud"
     ],
     "new_total": 690
-  },
-  {
-    "ts": "2026-06-06T04:04:00+00:00",
-    "text": "Jessica Shepard passed Satou Sabally for #145 all-time in rebounds (career 927) \u2014 up from #149 entering today \u2014 (1:33 - 4th \u2014 DAL @ LA)",
-    "kind": "rank_pass",
-    "player": "Jessica Shepard",
-    "stat": "rebounds",
-    "rank": 145,
-    "passed_players": [
-      "Satou Sabally"
-    ],
-    "new_total": 927
   }
 ]

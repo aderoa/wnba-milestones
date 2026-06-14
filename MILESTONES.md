@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-14 01:59 UTC
+
+- **Bridget Carleton** passed **Candice Wiggins** and **Tully Bevilaqua** for **#75** all-time in three-pointers (career 291) — up from #79 entering today — _0.0 - 3rd — DAL @ POR_
+
 ## 2026-06-14 01:49 UTC
 
 - **Chelsea Gray** passed **Natasha Howard** for **#34** all-time in steals (career 448) — up from #35 entering today — _2:59 - 4th — MIN @ LV_

@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-14 01:58 UTC_
+_Last updated: 2026-06-14 01:59 UTC_
 
 ## Contents
 
@@ -1118,9 +1118,9 @@ _Last updated: 2026-06-14 01:58 UTC_
 | 72 | Natisha Hiedeman | 303 |
 | 73 | Vickie Johnson | 295 |
 | 74 | Seimone Augustus | 293 |
-| 75 | **Bridget Carleton** 🔴 +3 | 290 |
-| 75 | Candice Wiggins | 290 |
-| 75 | Tully Bevilaqua | 290 |
+| 75 | **Bridget Carleton** 🔴 +4 | 291 |
+| 76 | Candice Wiggins | 290 |
+| 76 | Tully Bevilaqua | 290 |
 | 78 | Alana Beard | 288 |
 | 78 | Kayla Thornton | 288 |
 | 80 | Monique Currie | 284 |
