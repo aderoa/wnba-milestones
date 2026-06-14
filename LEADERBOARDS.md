@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-14 20:33 UTC_
+_Last updated: 2026-06-14 20:34 UTC_
 
 ## Contents
 
@@ -393,7 +393,7 @@ _Last updated: 2026-06-14 20:33 UTC_
 | 166 | Barbara Farris | 819 |
 | 168 | Carolyn Swords | 814 |
 | 169 | Tierra Ruffin-Pratt | 799 |
-| 170 | **Betnijah Laney-Hamilton** 🔴 +1 | 796 |
+| 170 | **Betnijah Laney-Hamilton** 🔴 +2 | 797 |
 | 171 | Gabby Williams | 795 |
 | 172 | Charlotte Smith | 794 |
 | 173 | Rhonda Mapp | 788 |
@@ -1373,9 +1373,9 @@ _Last updated: 2026-06-14 20:33 UTC_
 | 122 | Ariel Atkins | 454 |
 | 122 | Kia Vaughn | 454 |
 | 124 | Janeth Arcain | 453 |
-| 125 | **Betnijah Laney-Hamilton** 🔴 | 444 |
-| 125 | Elena Baranova | 444 |
-| 125 | Jantel Lavender | 444 |
+| 125 | **Betnijah Laney-Hamilton** 🔴 +1 | 445 |
+| 126 | Elena Baranova | 444 |
+| 126 | Jantel Lavender | 444 |
 | 128 | Jackie Young | 441 |
 | 129 | Alysha Clark | 440 |
 | 129 | Ann Wauters | 440 |
@@ -1541,7 +1541,7 @@ _Last updated: 2026-06-14 20:33 UTC_
 | 85 | Tan White | 698 |
 | 86 | Katie Douglas | 697 |
 | 87 | Danielle Robinson | 692 |
-| 88 | **Brittney Sykes** 🔴 +1 | 688 |
+| 88 | **Brittney Sykes** 🔴 +2 | 689 |
 | 89 | Sophia Young-Malcolm | 687 |
 | 90 | Maya Moore | 686 |
 | 91 | Jasmine Thomas | 685 |
