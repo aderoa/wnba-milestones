@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-14 00:48 UTC_
+_Last updated: 2026-06-14 00:49 UTC_
 
 ## Contents
 
@@ -58,7 +58,7 @@ _Last updated: 2026-06-14 00:48 UTC_
 | 37 | Alyssa Thomas | 4,653 |
 | 38 | **Arike Ogunbowale** 🔴 | 4,612 |
 | 39 | Penny Taylor | 4,595 |
-| 40 | **Natasha Howard** 🔴 +13 | 4,541 |
+| 40 | **Natasha Howard** 🔴 +15 | 4,543 |
 | 41 | **Chelsea Gray** 🔴 +16 | 4,522 |
 | 42 | Kristi Toliver | 4,474 |
 | 43 | Crystal Langhorne | 4,433 |
@@ -90,8 +90,8 @@ _Last updated: 2026-06-14 00:48 UTC_
 | 69 | Napheesa Collier | 3,542 |
 | 69 | Shannon Johnson | 3,542 |
 | 71 | Renee Montgomery | 3,533 |
-| 72 | **Jackie Young** 🔴 | 3,522 |
-| 72 | Jasmine Thomas | 3,522 |
+| 72 | **Jackie Young** 🔴 +3 | 3,525 |
+| 73 | Jasmine Thomas | 3,522 |
 | 74 | Tamecka Dixon | 3,507 |
 | 75 | Tammy Sutton-Brown | 3,498 |
 | 76 | Sancho Lyttle | 3,478 |
@@ -445,7 +445,7 @@ _Last updated: 2026-06-14 00:48 UTC_
 | 14 | Danielle Robinson | 1,480 |
 | 15 | Shannon Johnson | 1,423 |
 | 15 | Tanisha Wright | 1,423 |
-| 17 | **Courtney Williams** 🔴 +2 | 1,407 |
+| 17 | **Courtney Williams** 🔴 +3 | 1,408 |
 | 18 | Temeka Johnson | 1,382 |
 | 19 | Jasmine Thomas | 1,355 |
 | 20 | Briann January | 1,339 |
@@ -460,7 +460,7 @@ _Last updated: 2026-06-14 00:48 UTC_
 | 29 | Jordin Canada | 1,201 |
 | 30 | Leilani Mitchell | 1,197 |
 | 31 | DeWanna Bonner | 1,192 |
-| 32 | **Jewell Loyd** 🔴 +1 | 1,145 |
+| 32 | **Jewell Loyd** 🔴 +2 | 1,146 |
 | 33 | Renee Montgomery | 1,140 |
 | 34 | Swin Cash | 1,131 |
 | 35 | **Jackie Young** 🔴 +4 | 1,091 |
@@ -1104,7 +1104,7 @@ _Last updated: 2026-06-14 00:48 UTC_
 | 58 | Natasha Cloud | 339 |
 | 59 | Anna DeForge | 334 |
 | 60 | Erica Wheeler | 329 |
-| 61 | **Jackie Young** 🔴 | 323 |
+| 61 | **Jackie Young** 🔴 +1 | 324 |
 | 62 | Sophie Cunningham | 320 |
 | 63 | Sugar Rodgers | 317 |
 | 64 | Marissa Coleman | 315 |
@@ -1554,9 +1554,9 @@ _Last updated: 2026-06-14 00:48 UTC_
 | 98 | **Cheyenne Parker-Tyus** 🔴 +1 | 675 |
 | 99 | Chamique Holdsclaw | 667 |
 | 100 | Breanna Stewart | 665 |
+| 101 | **Jewell Loyd** 🔴 +1 | 662 |
 | 101 | Tianna Hawkins | 662 |
-| 102 | **Jewell Loyd** 🔴 | 661 |
-| 102 | Kayla Thornton | 661 |
+| 103 | Kayla Thornton | 661 |
 | 104 | Tari Phillips | 648 |
 | 105 | Marie Ferdinand-Harris | 646 |
 | 106 | Charlotte Smith | 638 |
