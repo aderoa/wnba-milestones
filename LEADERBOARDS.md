@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-14 19:56 UTC_
+_Last updated: 2026-06-14 19:57 UTC_
 
 ## Contents
 
@@ -111,7 +111,7 @@ _Last updated: 2026-06-14 19:56 UTC_
 | 90 | Wendy Palmer | 3,135 |
 | 91 | Shavonte Zellous | 3,103 |
 | 92 | Briann January | 3,082 |
-| 93 | **Marina Mabrey** 🔴 | 3,052 |
+| 93 | **Marina Mabrey** 🔴 +2 | 3,054 |
 | 94 | Erika de Souza | 3,046 |
 | 95 | **Sabrina Ionescu** 🔴 | 3,041 |
 | 96 | Shameka Christon | 3,039 |
@@ -456,7 +456,7 @@ _Last updated: 2026-06-14 19:56 UTC_
 | 25 | Katie Smith | 1,258 |
 | 26 | Kelsey Plum | 1,237 |
 | 27 | Odyssey Sims | 1,228 |
-| 28 | **Jordin Canada** 🔴 +6 | 1,207 |
+| 28 | **Jordin Canada** 🔴 +5 | 1,206 |
 | 29 | Vickie Johnson | 1,202 |
 | 30 | Leilani Mitchell | 1,197 |
 | 31 | DeWanna Bonner | 1,192 |
@@ -502,7 +502,7 @@ _Last updated: 2026-06-14 19:56 UTC_
 | 71 | Epiphanny Prince | 800 |
 | 72 | Mwadi Mabika | 774 |
 | 73 | **Marina Mabrey** 🔴 +1 | 773 |
-| 74 | **Allisha Gray** 🔴 +3 | 746 |
+| 74 | **Allisha Gray** 🔴 +4 | 747 |
 | 75 | Sheri Sam | 745 |
 | 76 | Monique Currie | 740 |
 | 77 | Elaine Powell | 728 |
@@ -1356,7 +1356,7 @@ _Last updated: 2026-06-14 19:56 UTC_
 | 104 | Wendy Palmer | 517 |
 | 106 | Tully Bevilaqua | 514 |
 | 107 | Jia Perkins | 513 |
-| 108 | **Jordin Canada** 🔴 | 512 |
+| 107 | **Jordin Canada** 🔴 +1 | 513 |
 | 109 | **Marina Mabrey** 🔴 +1 | 511 |
 | 110 | Tamera Young | 501 |
 | 111 | Nikki Teasley | 493 |
