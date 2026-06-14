@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-14 02:14 UTC_
+_Last updated: 2026-06-14 02:15 UTC_
 
 ## Contents
 
@@ -21,7 +21,7 @@ _Last updated: 2026-06-14 02:14 UTC_
 |-----:|--------|------:|
 | 1 | Diana Taurasi | 10,608 |
 | 2 | Tina Charles | 8,396 |
-| 3 | DeWanna Bonner | 7,910 |
+| 3 | **DeWanna Bonner** 🔴 | 7,910 |
 | 4 | Tina Thompson | 7,470 |
 | 5 | **Nneka Ogwumike** 🔴 +5 | 7,445 |
 | 6 | Tamika Catchings | 7,371 |
@@ -63,7 +63,7 @@ _Last updated: 2026-06-14 02:14 UTC_
 | 42 | Kristi Toliver | 4,474 |
 | 43 | Crystal Langhorne | 4,433 |
 | 43 | Jia Perkins | 4,433 |
-| 45 | **Kelsey Plum** 🔴 +3 | 4,398 |
+| 45 | **Kelsey Plum** 🔴 +5 | 4,400 |
 | 46 | Courtney Vandersloot | 4,352 |
 | 47 | Allisha Gray | 4,339 |
 | 48 | Sophia Young-Malcolm | 4,300 |
@@ -231,7 +231,7 @@ _Last updated: 2026-06-14 02:14 UTC_
 | 5 | **Nneka Ogwumike** 🔴 +1 | 3,338 |
 | 6 | Tamika Catchings | 3,313 |
 | 7 | Lisa Leslie | 3,303 |
-| 8 | DeWanna Bonner | 3,260 |
+| 8 | **DeWanna Bonner** 🔴 | 3,260 |
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
@@ -459,7 +459,7 @@ _Last updated: 2026-06-14 02:14 UTC_
 | 28 | Vickie Johnson | 1,202 |
 | 29 | Jordin Canada | 1,201 |
 | 30 | Leilani Mitchell | 1,197 |
-| 31 | DeWanna Bonner | 1,192 |
+| 31 | **DeWanna Bonner** 🔴 | 1,192 |
 | 32 | Jewell Loyd | 1,147 |
 | 33 | Renee Montgomery | 1,140 |
 | 34 | Swin Cash | 1,131 |
@@ -656,7 +656,7 @@ _Last updated: 2026-06-14 02:14 UTC_
 | 20 | Jessica Breland | 367 |
 | 21 | Natasha Howard | 364 |
 | 22 | Ezi Magbegor | 354 |
-| 23 | DeWanna Bonner | 353 |
+| 23 | **DeWanna Bonner** 🔴 | 353 |
 | 24 | Diana Taurasi | 349 |
 | 24 | Elena Delle Donne | 349 |
 | 26 | DeLisha Milton-Jones | 339 |
@@ -804,7 +804,7 @@ _Last updated: 2026-06-14 02:14 UTC_
 | 168 | Kara Wolters | 77 |
 | 168 | Noelle Quinn | 77 |
 | 168 | Tierra Ruffin-Pratt | 77 |
-| 171 | Cameron Brink | 76 |
+| 171 | **Cameron Brink** 🔴 | 76 |
 | 171 | Jennifer Lacy | 76 |
 | 171 | Stephanie Talbot | 76 |
 | 171 | Sugar Rodgers | 76 |
@@ -845,7 +845,7 @@ _Last updated: 2026-06-14 02:14 UTC_
 | 4 | Alana Beard | 710 |
 | 5 | **Nneka Ogwumike** 🔴 | 678 |
 | 6 | Sheryl Swoopes | 657 |
-| 7 | DeWanna Bonner | 643 |
+| 7 | **DeWanna Bonner** 🔴 | 643 |
 | 8 | Jia Perkins | 634 |
 | 9 | Sancho Lyttle | 630 |
 | 10 | Angel McCoughtry | 627 |
@@ -1053,7 +1053,7 @@ _Last updated: 2026-06-14 02:14 UTC_
 | 7 | Katie Douglas | 723 |
 | 8 | Kelsey Mitchell | 689 |
 | 9 | Jewell Loyd | 680 |
-| 10 | DeWanna Bonner | 672 |
+| 10 | **DeWanna Bonner** 🔴 | 672 |
 | 11 | Kristi Toliver | 651 |
 | 12 | **Kelsey Plum** 🔴 +1 | 610 |
 | 13 | Tamika Catchings | 605 |
@@ -1274,7 +1274,7 @@ _Last updated: 2026-06-14 02:14 UTC_
 | 23 | Skylar Diggins | 893 |
 | 24 | Candice Dupree | 869 |
 | 25 | Alana Beard | 854 |
-| 26 | DeWanna Bonner | 837 |
+| 26 | **DeWanna Bonner** 🔴 | 837 |
 | 27 | Katie Douglas | 824 |
 | 28 | Natasha Howard | 823 |
 | 29 | Betty Lennox | 800 |
@@ -1493,7 +1493,7 @@ _Last updated: 2026-06-14 02:14 UTC_
 | 37 | Courtney Vandersloot | 938 |
 | 38 | Briann January | 921 |
 | 39 | Ticha Penicheiro | 913 |
-| 40 | DeWanna Bonner | 912 |
+| 40 | **DeWanna Bonner** 🔴 | 912 |
 | 41 | Shavonte Zellous | 907 |
 | 42 | **Alysha Clark** 🔴 +1 | 897 |
 | 43 | Jonquel Jones | 890 |
