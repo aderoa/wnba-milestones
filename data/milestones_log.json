@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-06-14T02:13:00+00:00",
+    "text": "Awak Kuier passed Ayana Walker and Lindsay Wisdom-Hylton for #182 all-time in blocks (career 74) \u2014 up from #184 entering today \u2014 (4:53 - 4th \u2014 DAL @ POR)",
+    "kind": "rank_pass",
+    "player": "Awak Kuier",
+    "stat": "blocks",
+    "rank": 182,
+    "passed_players": [
+      "Ayana Walker",
+      "Lindsay Wisdom-Hylton"
+    ],
+    "new_total": 74
+  },
+  {
     "ts": "2026-06-14T01:59:00+00:00",
     "text": "Bridget Carleton passed Candice Wiggins and Tully Bevilaqua for #75 all-time in three-pointers (career 291) \u2014 up from #79 entering today \u2014 (0.0 - 3rd \u2014 DAL @ POR)",
     "kind": "rank_pass",
@@ -2959,17 +2972,5 @@
       "Kaleena Mosqueda-Lewis"
     ],
     "new_total": 139
-  },
-  {
-    "ts": "2026-06-06T04:11:00+00:00",
-    "text": "Erica Wheeler passed Natasha Cloud for #48 all-time in turnovers (career 690) \u2014 up from #49 entering today \u2014 (30.5 - 4th \u2014 DAL @ LA)",
-    "kind": "rank_pass",
-    "player": "Erica Wheeler",
-    "stat": "turnovers",
-    "rank": 48,
-    "passed_players": [
-      "Natasha Cloud"
-    ],
-    "new_total": 690
   }
 ]

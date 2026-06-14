@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-14 02:12 UTC_
+_Last updated: 2026-06-14 02:13 UTC_
 
 ## Contents
 
@@ -410,7 +410,7 @@ _Last updated: 2026-06-14 02:12 UTC_
 | 184 | Tully Bevilaqua | 767 |
 | 185 | Shakira Austin | 758 |
 | 186 | Layshia Clarendon | 756 |
-| 187 | **Arike Ogunbowale** 🔴 +4 | 752 |
+| 187 | **Arike Ogunbowale** 🔴 +5 | 753 |
 | 188 | Brooke Wyckoff | 751 |
 | 189 | Coco Miller | 750 |
 | 190 | Alex Montgomery | 735 |
@@ -813,11 +813,11 @@ _Last updated: 2026-06-14 02:12 UTC_
 | 177 | Karima Christmas-Kelly | 75 |
 | 177 | Kelsey Griffin | 75 |
 | 177 | Tianna Hawkins | 75 |
+| 180 | **Awak Kuier** 🔴 +2 | 74 |
 | 180 | Epiphanny Prince | 74 |
 | 180 | Myisha Hines-Allen | 74 |
-| 182 | **Awak Kuier** 🔴 +1 | 73 |
-| 182 | Ayana Walker | 73 |
-| 182 | Lindsay Wisdom-Hylton | 73 |
+| 183 | Ayana Walker | 73 |
+| 183 | Lindsay Wisdom-Hylton | 73 |
 | 185 | Cappie Pondexter | 72 |
 | 185 | Christi Thomas | 72 |
 | 185 | Olympia Scott | 72 |
