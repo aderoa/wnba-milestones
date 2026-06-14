@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-14 01:17 UTC_
+_Last updated: 2026-06-14 01:18 UTC_
 
 ## Contents
 
@@ -43,7 +43,7 @@ _Last updated: 2026-06-14 01:17 UTC_
 | 22 | Skylar Diggins | 5,626 |
 | 23 | DeLisha Milton-Jones | 5,571 |
 | 24 | Katie Douglas | 5,545 |
-| 25 | **Kayla McBride** 🔴 +9 | 5,531 |
+| 25 | **Kayla McBride** 🔴 +11 | 5,533 |
 | 26 | Lindsay Whalen | 5,511 |
 | 27 | Swin Cash | 5,119 |
 | 28 | Tangela Smith | 5,035 |
@@ -345,7 +345,7 @@ _Last updated: 2026-06-14 01:17 UTC_
 | 119 | Svetlana Abrosimova | 1,078 |
 | 120 | Le'coe Willingham | 1,054 |
 | 121 | Isabelle Harrison | 1,049 |
-| 122 | **Jackie Young** 🔴 +3 | 1,047 |
+| 122 | **Jackie Young** 🔴 +4 | 1,048 |
 | 123 | Nicole Ohlde | 1,040 |
 | 124 | Tamecka Dixon | 1,035 |
 | 125 | Kamila Vodichkova | 1,031 |
@@ -654,7 +654,7 @@ _Last updated: 2026-06-14 01:17 UTC_
 | 18 | Tina Thompson | 372 |
 | 19 | Erika de Souza | 370 |
 | 20 | Jessica Breland | 367 |
-| 21 | **Natasha Howard** 🔴 | 363 |
+| 21 | **Natasha Howard** 🔴 +1 | 364 |
 | 22 | Ezi Magbegor | 354 |
 | 23 | DeWanna Bonner | 353 |
 | 24 | Diana Taurasi | 349 |
@@ -925,7 +925,7 @@ _Last updated: 2026-06-14 01:17 UTC_
 | 84 | Matee Ajavon | 328 |
 | 85 | Napheesa Collier | 325 |
 | 86 | Betty Lennox | 323 |
-| 87 | **Courtney Williams** 🔴 | 321 |
+| 87 | **Courtney Williams** 🔴 +1 | 322 |
 | 88 | Tammy Sutton-Brown | 319 |
 | 89 | Plenette Pierson | 317 |
 | 89 | Temeka Johnson | 317 |
@@ -1376,7 +1376,7 @@ _Last updated: 2026-06-14 01:17 UTC_
 | 125 | Betnijah Laney-Hamilton | 444 |
 | 125 | Elena Baranova | 444 |
 | 125 | Jantel Lavender | 444 |
-| 128 | **Jackie Young** 🔴 +1 | 442 |
+| 128 | **Jackie Young** 🔴 +2 | 443 |
 | 129 | **Alysha Clark** 🔴 | 440 |
 | 129 | Ann Wauters | 440 |
 | 129 | **Cheyenne Parker-Tyus** 🔴 | 440 |
@@ -1603,10 +1603,10 @@ _Last updated: 2026-06-14 01:17 UTC_
 | 147 | Kristen Rasmussen | 533 |
 | 148 | Amanda Zahui B | 530 |
 | 149 | Damiris Dantas | 527 |
-| 150 | Candice Wiggins | 525 |
-| 150 | Epiphanny Prince | 525 |
-| 150 | **Jackie Young** 🔴 | 525 |
-| 150 | Sophie Cunningham | 525 |
+| 150 | **Jackie Young** 🔴 +1 | 526 |
+| 151 | Candice Wiggins | 525 |
+| 151 | Epiphanny Prince | 525 |
+| 151 | Sophie Cunningham | 525 |
 | 154 | Armintie Herrington | 523 |
 | 155 | **Kayla McBride** 🔴 | 522 |
 | 156 | Monique Billings | 519 |
