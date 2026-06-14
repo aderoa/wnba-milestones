@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-06-14T19:21:00+00:00",
+    "text": "Rhyne Howard passed Jennifer Gillom and Jia Perkins for #125 all-time in blocks (career 104) \u2014 up from #127 entering today \u2014 (41.4 - 1st \u2014 ATL @ TOR)",
+    "kind": "rank_pass",
+    "player": "Rhyne Howard",
+    "stat": "blocks",
+    "rank": 125,
+    "passed_players": [
+      "Jennifer Gillom",
+      "Jia Perkins"
+    ],
+    "new_total": 104
+  },
+  {
     "ts": "2026-06-14T04:14:00+00:00",
     "text": "Kahleah Copper passed Seimone Augustus for #71 all-time in turnovers (career 614) \u2014 up from #73 entering today \u2014 (53.8 - OT \u2014 LA @ PHX)",
     "kind": "rank_pass",
@@ -2960,17 +2973,5 @@
       "Tiffany Hayes"
     ],
     "new_total": 455
-  },
-  {
-    "ts": "2026-06-06T12:04:00+00:00",
-    "text": "Ariel Atkins passed Kia Vaughn for #123 all-time in turnovers (career 456) \u2014 (Final \u2014 DAL @ LA)",
-    "kind": "rank_pass",
-    "player": "Ariel Atkins",
-    "stat": "turnovers",
-    "rank": 123,
-    "passed_players": [
-      "Kia Vaughn"
-    ],
-    "new_total": 456
   }
 ]

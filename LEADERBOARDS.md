@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-14 19:20 UTC_
+_Last updated: 2026-06-14 19:21 UTC_
 
 ## Contents
 
@@ -758,9 +758,9 @@ _Last updated: 2026-06-14 19:20 UTC_
 | 122 | Carolyn Swords | 104 |
 | 122 | Dearica Hamby | 104 |
 | 122 | Rebecca Lobo | 104 |
-| 125 | Jennifer Gillom | 103 |
-| 125 | Jia Perkins | 103 |
-| 125 | **Rhyne Howard** 🔴 +1 | 103 |
+| 122 | **Rhyne Howard** 🔴 +2 | 104 |
+| 126 | Jennifer Gillom | 103 |
+| 126 | Jia Perkins | 103 |
 | 128 | Theresa Plaisance | 102 |
 | 129 | Deanna Nolan | 101 |
 | 130 | Chante Black | 100 |
