@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-14 01:16 UTC_
+_Last updated: 2026-06-14 01:17 UTC_
 
 ## Contents
 
@@ -43,7 +43,7 @@ _Last updated: 2026-06-14 01:16 UTC_
 | 22 | Skylar Diggins | 5,626 |
 | 23 | DeLisha Milton-Jones | 5,571 |
 | 24 | Katie Douglas | 5,545 |
-| 25 | **Kayla McBride** 🔴 +8 | 5,530 |
+| 25 | **Kayla McBride** 🔴 +9 | 5,531 |
 | 26 | Lindsay Whalen | 5,511 |
 | 27 | Swin Cash | 5,119 |
 | 28 | Tangela Smith | 5,035 |
@@ -59,7 +59,7 @@ _Last updated: 2026-06-14 01:16 UTC_
 | 38 | **Arike Ogunbowale** 🔴 +10 | 4,622 |
 | 39 | Penny Taylor | 4,595 |
 | 40 | **Natasha Howard** 🔴 +18 | 4,546 |
-| 41 | **Chelsea Gray** 🔴 +16 | 4,522 |
+| 41 | **Chelsea Gray** 🔴 +18 | 4,524 |
 | 42 | Kristi Toliver | 4,474 |
 | 43 | Crystal Langhorne | 4,433 |
 | 43 | Jia Perkins | 4,433 |
@@ -249,7 +249,7 @@ _Last updated: 2026-06-14 01:16 UTC_
 | 23 | Yolanda Griffith | 2,440 |
 | 24 | Dearica Hamby | 2,391 |
 | 25 | Tangela Smith | 2,328 |
-| 26 | **Natasha Howard** 🔴 +4 | 2,257 |
+| 26 | **Natasha Howard** 🔴 +5 | 2,258 |
 | 27 | Erika de Souza | 2,220 |
 | 28 | Diana Taurasi | 2,201 |
 | 29 | Margo Dydek | 2,138 |
@@ -1651,6 +1651,6 @@ _Last updated: 2026-06-14 01:16 UTC_
 | 195 | Sue Wicks | 462 |
 | 196 | Natalie Achonwa | 459 |
 | 197 | Kara Lawson | 457 |
-| 198 | **NaLyssa Smith** 🔴 | 454 |
+| 198 | **NaLyssa Smith** 🔴 +1 | 455 |
 | 199 | Alexis Hornbuckle | 450 |
 | 199 | Satou Sabally | 450 |
