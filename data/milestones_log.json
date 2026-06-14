@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-14T20:29:00+00:00",
+    "text": "Jonquel Jones passed Ruthie Bolton for #123 all-time in steals (career 255) \u2014 up from #124 entering today \u2014 (3:27 - 3rd \u2014 WSH @ NY)",
+    "kind": "rank_pass",
+    "player": "Jonquel Jones",
+    "stat": "steals",
+    "rank": 123,
+    "passed_players": [
+      "Ruthie Bolton"
+    ],
+    "new_total": 255
+  },
+  {
     "ts": "2026-06-14T20:03:00+00:00",
     "text": "Isabelle Harrison passed Aneika Morello and Tiffani Johnson for #135 all-time in blocks (career 97) \u2014 up from #138 entering today \u2014 (Halftime \u2014 ATL @ TOR)",
     "kind": "rank_pass",
@@ -2956,17 +2968,5 @@
     "stat": "points",
     "value": 4400,
     "new_total": 4422
-  },
-  {
-    "ts": "2026-06-06T12:04:00+00:00",
-    "text": "Kelsey Plum passed Shenise Johnson for #192 all-time in rebounds (career 730) \u2014 up from #193 entering today \u2014 (Final \u2014 DAL @ LA)",
-    "kind": "rank_pass",
-    "player": "Kelsey Plum",
-    "stat": "rebounds",
-    "rank": 192,
-    "passed_players": [
-      "Shenise Johnson"
-    ],
-    "new_total": 730
   }
 ]
