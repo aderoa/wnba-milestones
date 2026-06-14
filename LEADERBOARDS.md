@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-14 19:48 UTC_
+_Last updated: 2026-06-14 19:49 UTC_
 
 ## Contents
 
@@ -1327,7 +1327,7 @@ _Last updated: 2026-06-14 19:48 UTC_
 | 75 | Tamika Whitmore | 600 |
 | 77 | Kelly Miller | 596 |
 | 78 | Stefanie Dolson | 589 |
-| 79 | **Brittney Sykes** 🔴 +1 | 580 |
+| 79 | **Brittney Sykes** 🔴 +2 | 581 |
 | 80 | Helen Darling | 575 |
 | 80 | Nykesha Sales | 575 |
 | 82 | Andrea Stinson | 571 |
