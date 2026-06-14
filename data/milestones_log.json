@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-14T02:48:00+00:00",
+    "text": "Erica Wheeler passed Tamecka Dixon for #67 all-time in steals (career 356) \u2014 up from #68 entering today \u2014 (24.1 - 2nd \u2014 LA @ PHX)",
+    "kind": "rank_pass",
+    "player": "Erica Wheeler",
+    "stat": "steals",
+    "rank": 67,
+    "passed_players": [
+      "Tamecka Dixon"
+    ],
+    "new_total": 356
+  },
+  {
     "ts": "2026-06-14T02:44:00+00:00",
     "text": "Kahleah Copper passed Sophia Young-Malcolm for #48 all-time in points (career 4,303) \u2014 up from #49 entering today \u2014 (1:47 - 2nd \u2014 LA @ PHX)",
     "kind": "rank_pass",
@@ -2957,14 +2969,5 @@
       "Crystal Langhorne"
     ],
     "new_total": 118
-  },
-  {
-    "ts": "2026-06-06T12:04:00+00:00",
-    "text": "Lexi Held reached 200 career points (now 200) \u2014 (Final \u2014 PHX @ POR)",
-    "kind": "round",
-    "player": "Lexi Held",
-    "stat": "points",
-    "value": 200,
-    "new_total": 200
   }
 ]
