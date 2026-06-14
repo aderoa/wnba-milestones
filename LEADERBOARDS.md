@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-14 02:04 UTC_
+_Last updated: 2026-06-14 02:05 UTC_
 
 ## Contents
 
@@ -55,8 +55,8 @@ _Last updated: 2026-06-14 02:04 UTC_
 | 34 | Alana Beard | 4,740 |
 | 35 | Chamique Holdsclaw | 4,713 |
 | 36 | Elena Delle Donne | 4,706 |
-| 37 | **Alyssa Thomas** 🔴 | 4,653 |
-| 38 | **Arike Ogunbowale** 🔴 +14 | 4,626 |
+| 37 | **Alyssa Thomas** 🔴 +2 | 4,655 |
+| 38 | **Arike Ogunbowale** 🔴 +15 | 4,627 |
 | 39 | Penny Taylor | 4,595 |
 | 40 | **Natasha Howard** 🔴 +22 | 4,550 |
 | 41 | **Chelsea Gray** 🔴 +21 | 4,527 |
@@ -435,7 +435,7 @@ _Last updated: 2026-06-14 02:04 UTC_
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
 | 6 | **Chelsea Gray** 🔴 +7 | 1,942 |
-| 7 | **Alyssa Thomas** 🔴 | 1,903 |
+| 7 | **Alyssa Thomas** 🔴 +1 | 1,904 |
 | 8 | Skylar Diggins | 1,812 |
 | 9 | Natasha Cloud | 1,772 |
 | 10 | Becky Hammon | 1,705 |
@@ -454,7 +454,7 @@ _Last updated: 2026-06-14 02:04 UTC_
 | 23 | **Erica Wheeler** 🔴 | 1,306 |
 | 24 | Kristi Toliver | 1,301 |
 | 25 | Katie Smith | 1,258 |
-| 26 | **Kelsey Plum** 🔴 | 1,237 |
+| 26 | **Kelsey Plum** 🔴 +1 | 1,238 |
 | 27 | Odyssey Sims | 1,228 |
 | 28 | Vickie Johnson | 1,202 |
 | 29 | Jordin Canada | 1,201 |
