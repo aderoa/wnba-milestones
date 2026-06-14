@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-14 00:11 UTC_
+_Last updated: 2026-06-14 00:12 UTC_
 
 ## Contents
 
@@ -37,13 +37,13 @@ _Last updated: 2026-06-14 00:11 UTC_
 | 16 | **Brittney Griner** 🔴 +8 | 6,039 |
 | 17 | Lauren Jackson | 6,005 |
 | 17 | Seimone Augustus | 6,005 |
-| 19 | **A'ja Wilson** 🔴 | 5,942 |
+| 19 | **A'ja Wilson** 🔴 +2 | 5,944 |
 | 20 | Becky Hammon | 5,816 |
 | 21 | Angel McCoughtry | 5,797 |
 | 22 | Skylar Diggins | 5,626 |
 | 23 | DeLisha Milton-Jones | 5,571 |
 | 24 | Katie Douglas | 5,545 |
-| 25 | **Kayla McBride** 🔴 | 5,522 |
+| 25 | **Kayla McBride** 🔴 +2 | 5,524 |
 | 26 | Lindsay Whalen | 5,511 |
 | 27 | Swin Cash | 5,119 |
 | 28 | Tangela Smith | 5,035 |
@@ -59,7 +59,7 @@ _Last updated: 2026-06-14 00:11 UTC_
 | 38 | Arike Ogunbowale | 4,612 |
 | 39 | Penny Taylor | 4,595 |
 | 40 | **Natasha Howard** 🔴 +2 | 4,530 |
-| 41 | **Chelsea Gray** 🔴 +6 | 4,512 |
+| 41 | **Chelsea Gray** 🔴 +9 | 4,515 |
 | 42 | Kristi Toliver | 4,474 |
 | 43 | Crystal Langhorne | 4,433 |
 | 43 | Jia Perkins | 4,433 |
@@ -202,7 +202,7 @@ _Last updated: 2026-06-14 00:11 UTC_
 | 181 | Rachel Banham | 1,823 |
 | 182 | Danielle Adams | 1,820 |
 | 183 | Charde Houston | 1,797 |
-| 184 | **NaLyssa Smith** 🔴 | 1,775 |
+| 184 | **NaLyssa Smith** 🔴 +2 | 1,777 |
 | 185 | Kamila Vodichkova | 1,767 |
 | 186 | Tully Bevilaqua | 1,763 |
 | 187 | Sandy Brondello | 1,759 |
@@ -336,7 +336,7 @@ _Last updated: 2026-06-14 00:11 UTC_
 | 109 | Tamika Raymond | 1,127 |
 | 111 | Adrienne Goodson | 1,126 |
 | 112 | **Aliyah Boston** 🔴 +10 | 1,120 |
-| 113 | **NaLyssa Smith** 🔴 | 1,115 |
+| 113 | **NaLyssa Smith** 🔴 +1 | 1,116 |
 | 114 | Deanna Nolan | 1,112 |
 | 114 | Natasha Cloud | 1,112 |
 | 116 | Chiney Ogwumike | 1,110 |
@@ -381,7 +381,7 @@ _Last updated: 2026-06-14 00:11 UTC_
 | 155 | Shameka Christon | 867 |
 | 156 | Alanna Smith | 864 |
 | 157 | Krystal Thomas | 862 |
-| 158 | **Nia Coffey** 🔴 | 854 |
+| 158 | **Nia Coffey** 🔴 +1 | 855 |
 | 159 | Marina Mabrey | 849 |
 | 160 | Leilani Mitchell | 845 |
 | 161 | Essence Carson | 833 |
@@ -434,7 +434,7 @@ _Last updated: 2026-06-14 00:11 UTC_
 | 3 | Ticha Penicheiro | 2,588 |
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
-| 6 | **Chelsea Gray** 🔴 | 1,935 |
+| 6 | **Chelsea Gray** 🔴 +1 | 1,936 |
 | 7 | Alyssa Thomas | 1,903 |
 | 8 | Skylar Diggins | 1,812 |
 | 9 | Natasha Cloud | 1,772 |
@@ -521,8 +521,8 @@ _Last updated: 2026-06-14 00:11 UTC_
 | 90 | Betty Lennox | 651 |
 | 90 | Plenette Pierson | 651 |
 | 92 | Alex Bentley | 645 |
-| 93 | **A'ja Wilson** 🔴 | 637 |
-| 93 | Asjha Jones | 637 |
+| 93 | **A'ja Wilson** 🔴 +1 | 638 |
+| 94 | Asjha Jones | 637 |
 | 95 | Jennifer Azzi | 636 |
 | 96 | Jonquel Jones | 625 |
 | 97 | Natisha Hiedeman | 624 |
@@ -873,8 +873,8 @@ _Last updated: 2026-06-14 00:11 UTC_
 | 32 | Tina Thompson | 452 |
 | 33 | Maya Moore | 449 |
 | 34 | **Natasha Howard** 🔴 +1 | 448 |
-| 35 | **Chelsea Gray** 🔴 | 445 |
-| 35 | Jewell Loyd | 445 |
+| 35 | **Chelsea Gray** 🔴 +1 | 446 |
+| 36 | Jewell Loyd | 445 |
 | 37 | Sheri Sam | 438 |
 | 38 | Camille Smith | 437 |
 | 39 | **Kayla McBride** 🔴 | 436 |
@@ -1077,7 +1077,7 @@ _Last updated: 2026-06-14 00:11 UTC_
 | 31 | Lauren Jackson | 436 |
 | 32 | Skylar Diggins | 435 |
 | 33 | Shameka Christon | 434 |
-| 34 | **Chelsea Gray** 🔴 +2 | 427 |
+| 34 | **Chelsea Gray** 🔴 +3 | 428 |
 | 35 | Crystal Robinson | 425 |
 | 36 | Mwadi Mabika | 415 |
 | 37 | Penny Taylor | 407 |
