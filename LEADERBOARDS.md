@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-14 20:18 UTC_
+_Last updated: 2026-06-14 20:19 UTC_
 
 ## Contents
 
@@ -72,8 +72,8 @@ _Last updated: 2026-06-14 20:18 UTC_
 | 51 | Monique Currie | 4,253 |
 | 52 | Dearica Hamby | 4,243 |
 | 53 | Courtney Williams | 4,238 |
-| 54 | Vickie Johnson | 4,230 |
-| 55 | **Jonquel Jones** 🔴 +7 | 4,229 |
+| 54 | **Jonquel Jones** 🔴 +10 | 4,232 |
+| 55 | Vickie Johnson | 4,230 |
 | 56 | Yolanda Griffith | 4,224 |
 | 57 | Rebekkah Brunson | 4,133 |
 | 58 | Asjha Jones | 3,986 |
@@ -344,7 +344,7 @@ _Last updated: 2026-06-14 20:18 UTC_
 | 118 | Ann Wauters | 1,105 |
 | 119 | Svetlana Abrosimova | 1,078 |
 | 120 | Le'coe Willingham | 1,054 |
-| 121 | **Isabelle Harrison** 🔴 +1 | 1,050 |
+| 121 | **Isabelle Harrison** 🔴 +2 | 1,051 |
 | 122 | Jackie Young | 1,044 |
 | 123 | Nicole Ohlde | 1,040 |
 | 124 | Tamecka Dixon | 1,035 |
@@ -899,9 +899,9 @@ _Last updated: 2026-06-14 20:18 UTC_
 | 58 | Chamique Holdsclaw | 376 |
 | 59 | Mwadi Mabika | 370 |
 | 60 | **Brittney Sykes** 🔴 | 367 |
-| 61 | **Allisha Gray** 🔴 | 360 |
-| 61 | Lauren Jackson | 360 |
-| 61 | Tan White | 360 |
+| 61 | **Allisha Gray** 🔴 +1 | 361 |
+| 62 | Lauren Jackson | 360 |
+| 62 | Tan White | 360 |
 | 64 | Vickie Johnson | 357 |
 | 65 | Dominique Canty | 356 |
 | 65 | Renee Montgomery | 356 |
@@ -1090,9 +1090,9 @@ _Last updated: 2026-06-14 20:18 UTC_
 | 44 | Rachel Banham | 384 |
 | 45 | Briann January | 381 |
 | 46 | Jasmine Thomas | 376 |
-| 47 | Allison Feaster | 372 |
-| 47 | Betty Lennox | 372 |
-| 47 | **Jonquel Jones** 🔴 +1 | 372 |
+| 47 | **Jonquel Jones** 🔴 +2 | 373 |
+| 48 | Allison Feaster | 372 |
+| 48 | Betty Lennox | 372 |
 | 50 | Epiphanny Prince | 368 |
 | 51 | **Kia Nurse** 🔴 +1 | 365 |
 | 52 | Kahleah Copper | 355 |
