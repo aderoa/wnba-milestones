@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-14T04:14:00+00:00",
+    "text": "Kahleah Copper passed Seimone Augustus for #71 all-time in turnovers (career 614) \u2014 up from #73 entering today \u2014 (53.8 - OT \u2014 LA @ PHX)",
+    "kind": "rank_pass",
+    "player": "Kahleah Copper",
+    "stat": "turnovers",
+    "rank": 71,
+    "passed_players": [
+      "Seimone Augustus"
+    ],
+    "new_total": 614
+  },
+  {
     "ts": "2026-06-14T03:55:00+00:00",
     "text": "Kelsey Plum passed Crystal Langhorne and Jia Perkins for #43 all-time in points (career 4,434) \u2014 up from #45 entering today \u2014 (32.6 - 4th \u2014 LA @ PHX)",
     "kind": "rank_pass",
@@ -2960,17 +2972,5 @@
       "Kia Vaughn"
     ],
     "new_total": 456
-  },
-  {
-    "ts": "2026-06-06T12:04:00+00:00",
-    "text": "Ariel Atkins passed Cheryl Ford for #80 all-time in fouls (career 718) \u2014 (Final \u2014 DAL @ LA)",
-    "kind": "rank_pass",
-    "player": "Ariel Atkins",
-    "stat": "fouls",
-    "rank": 80,
-    "passed_players": [
-      "Cheryl Ford"
-    ],
-    "new_total": 718
   }
 ]
