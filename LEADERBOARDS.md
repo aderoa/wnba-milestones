@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-14 21:09 UTC_
+_Last updated: 2026-06-14 21:10 UTC_
 
 ## Contents
 
@@ -64,7 +64,7 @@ _Last updated: 2026-06-14 21:09 UTC_
 | 43 | Crystal Langhorne | 4,433 |
 | 43 | Jia Perkins | 4,433 |
 | 45 | Kelsey Plum | 4,395 |
-| 46 | **Allisha Gray** 🔴 +23 | 4,362 |
+| 46 | **Allisha Gray** 🔴 +26 | 4,365 |
 | 47 | Courtney Vandersloot | 4,352 |
 | 48 | Sophia Young-Malcolm | 4,300 |
 | 49 | Kahleah Copper | 4,283 |
@@ -143,7 +143,7 @@ _Last updated: 2026-06-14 21:09 UTC_
 | 122 | Glory Johnson | 2,531 |
 | 123 | Nikki McCray | 2,521 |
 | 124 | Crystal Robinson | 2,496 |
-| 125 | **Rhyne Howard** 🔴 +23 | 2,495 |
+| 124 | **Rhyne Howard** 🔴 +24 | 2,496 |
 | 126 | Tiffany Mitchell | 2,480 |
 | 127 | Ruth Riley | 2,434 |
 | 128 | Svetlana Abrosimova | 2,414 |
@@ -552,8 +552,8 @@ _Last updated: 2026-06-14 21:09 UTC_
 | 121 | Margo Dydek | 524 |
 | 122 | Myisha Hines-Allen | 520 |
 | 123 | Caitlin Clark | 517 |
-| 124 | Iziane Castro Marques | 509 |
-| 124 | **Rhyne Howard** 🔴 +1 | 509 |
+| 124 | **Rhyne Howard** 🔴 +2 | 510 |
+| 125 | Iziane Castro Marques | 509 |
 | 126 | Brittany Boyd-Jones | 508 |
 | 126 | Chasity Melvin | 508 |
 | 126 | Rachel Banham | 508 |
@@ -1073,7 +1073,7 @@ _Last updated: 2026-06-14 21:09 UTC_
 | 27 | Breanna Stewart | 461 |
 | 28 | Ariel Atkins | 451 |
 | 28 | Tiffany Hayes | 451 |
-| 30 | **Allisha Gray** 🔴 +4 | 449 |
+| 30 | **Allisha Gray** 🔴 +5 | 450 |
 | 31 | Lauren Jackson | 436 |
 | 32 | Skylar Diggins | 435 |
 | 33 | Shameka Christon | 434 |
