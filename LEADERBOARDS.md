@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-14 02:11 UTC_
+_Last updated: 2026-06-14 02:12 UTC_
 
 ## Contents
 
@@ -67,7 +67,7 @@ _Last updated: 2026-06-14 02:11 UTC_
 | 46 | Courtney Vandersloot | 4,352 |
 | 47 | Allisha Gray | 4,339 |
 | 48 | Sophia Young-Malcolm | 4,300 |
-| 49 | **Kahleah Copper** 🔴 +5 | 4,288 |
+| 49 | **Kahleah Copper** 🔴 +7 | 4,290 |
 | 50 | Plenette Pierson | 4,258 |
 | 51 | Courtney Williams | 4,255 |
 | 52 | Monique Currie | 4,253 |
@@ -885,7 +885,7 @@ _Last updated: 2026-06-14 02:11 UTC_
 | 44 | Katie Smith | 408 |
 | 45 | Cappie Pondexter | 405 |
 | 46 | Nicole Powell | 401 |
-| 47 | **Dearica Hamby** 🔴 | 398 |
+| 47 | **Dearica Hamby** 🔴 +1 | 399 |
 | 48 | Jasmine Thomas | 394 |
 | 49 | Danielle Robinson | 389 |
 | 50 | Deanna Nolan | 388 |
@@ -1370,8 +1370,8 @@ _Last updated: 2026-06-14 02:11 UTC_
 | 118 | Elaine Powell | 469 |
 | 120 | Allie Quigley | 467 |
 | 121 | Allisha Gray | 466 |
-| 122 | **Ariel Atkins** 🔴 | 454 |
-| 122 | Kia Vaughn | 454 |
+| 122 | **Ariel Atkins** 🔴 +1 | 455 |
+| 123 | Kia Vaughn | 454 |
 | 124 | Janeth Arcain | 453 |
 | 125 | Betnijah Laney-Hamilton | 444 |
 | 125 | Elena Baranova | 444 |
