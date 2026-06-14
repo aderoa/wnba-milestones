@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-14 00:07 UTC_
+_Last updated: 2026-06-14 00:08 UTC_
 
 ## Contents
 
@@ -34,7 +34,7 @@ _Last updated: 2026-06-14 00:07 UTC_
 | 13 | Lisa Leslie | 6,251 |
 | 14 | Breanna Stewart | 6,173 |
 | 15 | Jewell Loyd | 6,078 |
-| 16 | **Brittney Griner** 🔴 +6 | 6,037 |
+| 16 | **Brittney Griner** 🔴 +8 | 6,039 |
 | 17 | Lauren Jackson | 6,005 |
 | 17 | Seimone Augustus | 6,005 |
 | 19 | **A'ja Wilson** 🔴 | 5,942 |
@@ -47,7 +47,7 @@ _Last updated: 2026-06-14 00:07 UTC_
 | 26 | Lindsay Whalen | 5,511 |
 | 27 | Swin Cash | 5,119 |
 | 28 | Tangela Smith | 5,035 |
-| 29 | **Kelsey Mitchell** 🔴 +17 | 5,020 |
+| 29 | **Kelsey Mitchell** 🔴 +19 | 5,022 |
 | 30 | Taj McWilliams-Franklin | 4,992 |
 | 31 | Tiffany Hayes | 4,985 |
 | 32 | Maya Moore | 4,984 |
@@ -335,7 +335,7 @@ _Last updated: 2026-06-14 00:07 UTC_
 | 109 | Andrea Stinson | 1,127 |
 | 109 | Tamika Raymond | 1,127 |
 | 111 | Adrienne Goodson | 1,126 |
-| 112 | **Aliyah Boston** 🔴 +9 | 1,119 |
+| 112 | **Aliyah Boston** 🔴 +10 | 1,120 |
 | 113 | **NaLyssa Smith** 🔴 | 1,115 |
 | 114 | Deanna Nolan | 1,112 |
 | 114 | Natasha Cloud | 1,112 |
@@ -1641,8 +1641,8 @@ _Last updated: 2026-06-14 00:07 UTC_
 | 184 | Rhonda Mapp | 483 |
 | 186 | Sami Whitcomb | 480 |
 | 187 | Seimone Augustus | 477 |
-| 188 | Allie Quigley | 475 |
-| 188 | **Nia Coffey** 🔴 | 475 |
+| 188 | **Nia Coffey** 🔴 +1 | 476 |
+| 189 | Allie Quigley | 475 |
 | 190 | Azurá Stevens | 474 |
 | 191 | Kia Nurse | 473 |
 | 192 | Alanna Smith | 470 |
