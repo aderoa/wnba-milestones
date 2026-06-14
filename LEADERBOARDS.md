@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-14 01:54 UTC_
+_Last updated: 2026-06-14 01:55 UTC_
 
 ## Contents
 
@@ -37,7 +37,7 @@ _Last updated: 2026-06-14 01:54 UTC_
 | 16 | Brittney Griner | 6,041 |
 | 17 | Lauren Jackson | 6,005 |
 | 17 | Seimone Augustus | 6,005 |
-| 19 | **A'ja Wilson** 🔴 +20 | 5,962 |
+| 19 | **A'ja Wilson** 🔴 +22 | 5,964 |
 | 20 | Becky Hammon | 5,816 |
 | 21 | Angel McCoughtry | 5,797 |
 | 22 | Skylar Diggins | 5,626 |
@@ -238,7 +238,7 @@ _Last updated: 2026-06-14 01:54 UTC_
 | 12 | Alyssa Thomas | 2,817 |
 | 13 | Jonquel Jones | 2,663 |
 | 14 | Sancho Lyttle | 2,596 |
-| 15 | **A'ja Wilson** 🔴 +9 | 2,583 |
+| 15 | **A'ja Wilson** 🔴 +10 | 2,584 |
 | 16 | DeLisha Milton-Jones | 2,574 |
 | 17 | Breanna Stewart | 2,560 |
 | 18 | Brittney Griner | 2,558 |
@@ -262,8 +262,8 @@ _Last updated: 2026-06-14 01:54 UTC_
 | 36 | Natalie Williams | 1,832 |
 | 37 | Wendy Palmer | 1,824 |
 | 38 | Sophia Young-Malcolm | 1,807 |
-| 39 | **Courtney Williams** 🔴 +4 | 1,805 |
-| 39 | Lindsay Whalen | 1,805 |
+| 39 | **Courtney Williams** 🔴 +5 | 1,806 |
+| 40 | Lindsay Whalen | 1,805 |
 | 41 | Camille Smith | 1,802 |
 | 42 | Kiah Stokes | 1,790 |
 | 43 | Asjha Jones | 1,751 |
@@ -463,7 +463,7 @@ _Last updated: 2026-06-14 01:54 UTC_
 | 32 | **Jewell Loyd** 🔴 +3 | 1,147 |
 | 33 | Renee Montgomery | 1,140 |
 | 34 | Swin Cash | 1,131 |
-| 35 | **Jackie Young** 🔴 +9 | 1,096 |
+| 35 | **Jackie Young** 🔴 +10 | 1,097 |
 | 36 | Lindsey Harding | 1,090 |
 | 37 | Sabrina Ionescu | 1,074 |
 | 38 | Katie Douglas | 1,069 |
@@ -640,7 +640,7 @@ _Last updated: 2026-06-14 01:54 UTC_
 | 4 | Sylvia Fowles | 721 |
 | 5 | Candace Parker | 619 |
 | 6 | Lauren Jackson | 586 |
-| 7 | **A'ja Wilson** 🔴 +2 | 558 |
+| 7 | **A'ja Wilson** 🔴 +3 | 559 |
 | 8 | Tammy Sutton-Brown | 555 |
 | 9 | Tangela Smith | 554 |
 | 10 | Ruth Riley | 505 |
