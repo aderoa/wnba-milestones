@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-14 20:58 UTC_
+_Last updated: 2026-06-14 20:59 UTC_
 
 ## Contents
 
@@ -165,8 +165,8 @@ _Last updated: 2026-06-14 20:58 UTC_
 | 144 | Teaira McCowan | 2,221 |
 | 145 | Janel McCarville | 2,215 |
 | 146 | Sami Whitcomb | 2,211 |
+| 147 | **Satou Sabally** 🔴 +6 | 2,210 |
 | 147 | Sophia Witherspoon | 2,210 |
-| 148 | **Satou Sabally** 🔴 +5 | 2,209 |
 | 149 | Ruthie Bolton | 2,175 |
 | 150 | Ann Wauters | 2,170 |
 | 151 | Layshia Clarendon | 2,168 |
@@ -958,10 +958,10 @@ _Last updated: 2026-06-14 20:58 UTC_
 | 117 | Karima Christmas-Kelly | 261 |
 | 118 | Kelsey Plum | 260 |
 | 118 | Riquna Williams | 260 |
+| 120 | **Jonquel Jones** 🔴 +3 | 256 |
 | 120 | Noelle Quinn | 256 |
-| 121 | Elaine Powell | 255 |
-| 121 | **Jonquel Jones** 🔴 +2 | 255 |
-| 121 | Loree Moore | 255 |
+| 122 | Elaine Powell | 255 |
+| 122 | Loree Moore | 255 |
 | 124 | Ruthie Bolton | 254 |
 | 125 | Hamchetou Maiga-Ba | 251 |
 | 125 | Tamika Whitmore | 251 |
@@ -1357,7 +1357,7 @@ _Last updated: 2026-06-14 20:58 UTC_
 | 106 | **Jordin Canada** 🔴 +2 | 514 |
 | 106 | Tully Bevilaqua | 514 |
 | 108 | Jia Perkins | 513 |
-| 109 | **Marina Mabrey** 🔴 +1 | 511 |
+| 109 | **Marina Mabrey** 🔴 +2 | 512 |
 | 110 | Tamera Young | 501 |
 | 111 | Nikki Teasley | 493 |
 | 111 | Tari Phillips | 493 |
