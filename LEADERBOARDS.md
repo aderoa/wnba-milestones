@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-14 20:34 UTC_
+_Last updated: 2026-06-14 20:35 UTC_
 
 ## Contents
 
@@ -111,7 +111,7 @@ _Last updated: 2026-06-14 20:34 UTC_
 | 90 | Wendy Palmer | 3,135 |
 | 91 | Shavonte Zellous | 3,103 |
 | 92 | Briann January | 3,082 |
-| 93 | **Marina Mabrey** 🔴 +3 | 3,055 |
+| 93 | **Marina Mabrey** 🔴 +6 | 3,058 |
 | 94 | Erika de Souza | 3,046 |
 | 95 | **Sabrina Ionescu** 🔴 +2 | 3,043 |
 | 96 | Shameka Christon | 3,039 |
@@ -153,7 +153,7 @@ _Last updated: 2026-06-14 20:34 UTC_
 | 132 | Kayla Thornton | 2,333 |
 | 133 | Merlakia Jones | 2,308 |
 | 134 | Kia Vaughn | 2,288 |
-| 135 | **Betnijah Laney-Hamilton** 🔴 +2 | 2,284 |
+| 135 | **Betnijah Laney-Hamilton** 🔴 +4 | 2,286 |
 | 136 | Azurá Stevens | 2,259 |
 | 137 | Allison Feaster | 2,258 |
 | 138 | Shekinna Stricklen | 2,245 |
@@ -166,7 +166,7 @@ _Last updated: 2026-06-14 20:34 UTC_
 | 145 | Janel McCarville | 2,215 |
 | 146 | Sami Whitcomb | 2,211 |
 | 147 | Sophia Witherspoon | 2,210 |
-| 148 | **Satou Sabally** 🔴 +2 | 2,206 |
+| 148 | **Satou Sabally** 🔴 +5 | 2,209 |
 | 149 | Ruthie Bolton | 2,175 |
 | 150 | Ann Wauters | 2,170 |
 | 151 | Layshia Clarendon | 2,168 |
@@ -465,7 +465,7 @@ _Last updated: 2026-06-14 20:34 UTC_
 | 34 | Swin Cash | 1,131 |
 | 35 | Lindsey Harding | 1,090 |
 | 36 | Jackie Young | 1,087 |
-| 37 | **Sabrina Ionescu** 🔴 +1 | 1,075 |
+| 37 | **Sabrina Ionescu** 🔴 +2 | 1,076 |
 | 38 | Katie Douglas | 1,069 |
 | 39 | Alana Beard | 1,061 |
 | 40 | Penny Taylor | 1,049 |
@@ -567,8 +567,8 @@ _Last updated: 2026-06-14 20:34 UTC_
 | 136 | Janeth Arcain | 469 |
 | 137 | Elizabeth Williams | 467 |
 | 138 | Erin Phillips | 462 |
+| 139 | **Satou Sabally** 🔴 +5 | 461 |
 | 139 | Sylvia Fowles | 461 |
-| 140 | **Satou Sabally** 🔴 +4 | 460 |
 | 141 | Sydney Colson | 454 |
 | 141 | Tyasha Harris | 454 |
 | 143 | Yolanda Griffith | 451 |
@@ -1067,7 +1067,7 @@ _Last updated: 2026-06-14 20:34 UTC_
 | 21 | Allie Quigley | 510 |
 | 22 | Leilani Mitchell | 508 |
 | 23 | Shekinna Stricklen | 468 |
-| 24 | **Marina Mabrey** 🔴 | 465 |
+| 24 | **Marina Mabrey** 🔴 +1 | 466 |
 | 25 | Cappie Pondexter | 464 |
 | 26 | **Sabrina Ionescu** 🔴 | 462 |
 | 27 | **Breanna Stewart** 🔴 +1 | 461 |
@@ -1145,9 +1145,9 @@ _Last updated: 2026-06-14 20:34 UTC_
 | 99 | Stacey Dales | 232 |
 | 100 | Elena Baranova | 224 |
 | 101 | Essence Carson | 223 |
-| 102 | Kelly Mazzante | 218 |
-| 102 | **Satou Sabally** 🔴 | 218 |
-| 102 | Sheri Sam | 218 |
+| 102 | **Satou Sabally** 🔴 +1 | 219 |
+| 103 | Kelly Mazzante | 218 |
+| 103 | Sheri Sam | 218 |
 | 105 | Damiris Dantas | 211 |
 | 105 | Erin Phillips | 211 |
 | 107 | Andrea Stinson | 207 |
@@ -1198,8 +1198,8 @@ _Last updated: 2026-06-14 20:34 UTC_
 | 151 | Matee Ajavon | 144 |
 | 153 | Shenise Johnson | 143 |
 | 154 | Dearica Hamby | 142 |
-| 155 | Jordan Hooper | 141 |
-| 155 | **Michaela Onyenwere** 🔴 | 141 |
+| 154 | **Michaela Onyenwere** 🔴 +1 | 142 |
+| 156 | Jordan Hooper | 141 |
 | 157 | Coco Miller | 139 |
 | 158 | Loree Moore | 138 |
 | 158 | Tanisha Wright | 138 |
