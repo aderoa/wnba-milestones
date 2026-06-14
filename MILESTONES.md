@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-14 02:39 UTC
+
+- **Kahleah Copper** reached **4,300** career points (now 4,300) — _2:52 - 2nd — LA @ PHX_
+
 ## 2026-06-14 02:13 UTC
 
 - **Awak Kuier** passed **Ayana Walker** and **Lindsay Wisdom-Hylton** for **#182** all-time in blocks (career 74) — up from #184 entering today — _4:53 - 4th — DAL @ POR_

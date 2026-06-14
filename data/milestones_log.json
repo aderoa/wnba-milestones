@@ -1,5 +1,14 @@
 [
   {
+    "ts": "2026-06-14T02:39:00+00:00",
+    "text": "Kahleah Copper reached 4,300 career points (now 4,300) \u2014 (2:52 - 2nd \u2014 LA @ PHX)",
+    "kind": "round",
+    "player": "Kahleah Copper",
+    "stat": "points",
+    "value": 4300,
+    "new_total": 4300
+  },
+  {
     "ts": "2026-06-14T02:13:00+00:00",
     "text": "Awak Kuier passed Ayana Walker and Lindsay Wisdom-Hylton for #182 all-time in blocks (career 74) \u2014 up from #184 entering today \u2014 (4:53 - 4th \u2014 DAL @ POR)",
     "kind": "rank_pass",
@@ -2957,20 +2966,5 @@
       "Shenise Johnson"
     ],
     "new_total": 377
-  },
-  {
-    "ts": "2026-06-06T12:04:00+00:00",
-    "text": "Karlie Samuelson passed Loree Moore, Tanisha Wright, Gabby Williams, and Kaleena Mosqueda-Lewis for #158 all-time in three-pointers (career 139) \u2014 up from #162 entering today \u2014 (Final \u2014 PHX @ POR)",
-    "kind": "rank_pass",
-    "player": "Karlie Samuelson",
-    "stat": "three-pointers",
-    "rank": 158,
-    "passed_players": [
-      "Loree Moore",
-      "Tanisha Wright",
-      "Gabby Williams",
-      "Kaleena Mosqueda-Lewis"
-    ],
-    "new_total": 139
   }
 ]
