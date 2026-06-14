@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-14 02:43 UTC_
+_Last updated: 2026-06-14 02:44 UTC_
 
 ## Contents
 
@@ -63,11 +63,11 @@ _Last updated: 2026-06-14 02:43 UTC_
 | 42 | Kristi Toliver | 4,474 |
 | 43 | Crystal Langhorne | 4,433 |
 | 43 | Jia Perkins | 4,433 |
-| 45 | **Kelsey Plum** 🔴 +8 | 4,403 |
+| 45 | **Kelsey Plum** 🔴 +9 | 4,404 |
 | 46 | Courtney Vandersloot | 4,352 |
 | 47 | Allisha Gray | 4,339 |
-| 48 | **Kahleah Copper** 🔴 +17 | 4,300 |
-| 48 | Sophia Young-Malcolm | 4,300 |
+| 48 | **Kahleah Copper** 🔴 +20 | 4,303 |
+| 49 | Sophia Young-Malcolm | 4,300 |
 | 50 | Plenette Pierson | 4,258 |
 | 51 | Courtney Williams | 4,255 |
 | 52 | Monique Currie | 4,253 |
@@ -737,8 +737,8 @@ _Last updated: 2026-06-14 02:43 UTC_
 | 101 | **Alyssa Thomas** 🔴 | 123 |
 | 102 | Natalie Williams | 122 |
 | 103 | Ebony Hoffman | 121 |
+| 103 | Emily Engstler | 121 |
 | 103 | Essence Carson | 121 |
-| 105 | Emily Engstler | 120 |
 | 106 | Krystal Thomas | 118 |
 | 106 | **Natasha Mack** 🔴 +1 | 118 |
 | 108 | Andrea Stinson | 117 |
@@ -1095,7 +1095,7 @@ _Last updated: 2026-06-14 02:43 UTC_
 | 49 | Jonquel Jones | 371 |
 | 50 | Epiphanny Prince | 368 |
 | 51 | Kia Nurse | 364 |
-| 52 | **Kahleah Copper** 🔴 +3 | 358 |
+| 52 | **Kahleah Copper** 🔴 +4 | 359 |
 | 53 | Nykesha Sales | 352 |
 | 54 | Cathrine Kraayeveld | 343 |
 | 54 | Elena Delle Donne | 343 |
@@ -1296,8 +1296,8 @@ _Last updated: 2026-06-14 02:43 UTC_
 | 45 | Renee Montgomery | 697 |
 | 46 | Temeka Johnson | 696 |
 | 47 | Penny Taylor | 695 |
+| 48 | **Erica Wheeler** 🔴 +2 | 692 |
 | 48 | Natasha Cloud | 692 |
-| 49 | **Erica Wheeler** 🔴 +1 | 691 |
 | 50 | Dominique Canty | 685 |
 | 51 | DeMya Walker | 684 |
 | 52 | Asjha Jones | 682 |
@@ -1532,7 +1532,7 @@ _Last updated: 2026-06-14 02:43 UTC_
 | 76 | Allisha Gray | 726 |
 | 77 | Kristi Toliver | 722 |
 | 78 | Elizabeth Williams | 720 |
-| 79 | **Ariel Atkins** 🔴 +2 | 715 |
+| 79 | **Ariel Atkins** 🔴 +3 | 716 |
 | 80 | Cheryl Ford | 713 |
 | 81 | Jia Perkins | 711 |
 | 82 | Helen Darling | 709 |

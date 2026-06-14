@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-14 02:44 UTC
+
+- **Kahleah Copper** passed **Sophia Young-Malcolm** for **#48** all-time in points (career 4,303) — up from #49 entering today — _1:47 - 2nd — LA @ PHX_
+
 ## 2026-06-14 02:39 UTC
 
 - **Kahleah Copper** reached **4,300** career points (now 4,300) — _2:52 - 2nd — LA @ PHX_
