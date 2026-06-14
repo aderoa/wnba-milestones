@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-14 01:20 UTC_
+_Last updated: 2026-06-14 01:21 UTC_
 
 ## Contents
 
@@ -410,8 +410,8 @@ _Last updated: 2026-06-14 01:20 UTC_
 | 184 | Tully Bevilaqua | 767 |
 | 185 | Shakira Austin | 758 |
 | 186 | Layshia Clarendon | 756 |
-| 187 | **Arike Ogunbowale** 🔴 +3 | 751 |
-| 187 | Brooke Wyckoff | 751 |
+| 187 | **Arike Ogunbowale** 🔴 +4 | 752 |
+| 188 | Brooke Wyckoff | 751 |
 | 189 | Coco Miller | 750 |
 | 190 | Alex Montgomery | 735 |
 | 191 | Ashley Robinson | 734 |
@@ -598,8 +598,8 @@ _Last updated: 2026-06-14 01:20 UTC_
 | 167 | Kia Nurse | 402 |
 | 168 | Julie Allemand | 401 |
 | 169 | Marissa Coleman | 399 |
-| 170 | **Jessica Shepard** 🔴 | 395 |
-| 170 | Stacey Dales | 395 |
+| 170 | **Jessica Shepard** 🔴 +1 | 396 |
+| 171 | Stacey Dales | 395 |
 | 172 | Sugar Rodgers | 393 |
 | 173 | Shameka Christon | 389 |
 | 173 | Tamicha Jackson | 389 |
@@ -877,7 +877,7 @@ _Last updated: 2026-06-14 01:20 UTC_
 | 35 | **Jewell Loyd** 🔴 +2 | 447 |
 | 37 | Sheri Sam | 438 |
 | 38 | Camille Smith | 437 |
-| 39 | **Kayla McBride** 🔴 | 436 |
+| 38 | **Kayla McBride** 🔴 +1 | 437 |
 | 40 | Candice Dupree | 431 |
 | 41 | Epiphanny Prince | 429 |
 | 42 | Tanisha Wright | 427 |
