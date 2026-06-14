@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-14 01:09 UTC_
+_Last updated: 2026-06-14 01:10 UTC_
 
 ## Contents
 
@@ -90,7 +90,7 @@ _Last updated: 2026-06-14 01:09 UTC_
 | 69 | Napheesa Collier | 3,542 |
 | 69 | Shannon Johnson | 3,542 |
 | 71 | Renee Montgomery | 3,533 |
-| 72 | **Jackie Young** 🔴 +5 | 3,527 |
+| 72 | **Jackie Young** 🔴 +6 | 3,528 |
 | 73 | Jasmine Thomas | 3,522 |
 | 74 | Tamecka Dixon | 3,507 |
 | 75 | Tammy Sutton-Brown | 3,498 |
@@ -345,7 +345,7 @@ _Last updated: 2026-06-14 01:09 UTC_
 | 119 | Svetlana Abrosimova | 1,078 |
 | 120 | Le'coe Willingham | 1,054 |
 | 121 | Isabelle Harrison | 1,049 |
-| 122 | **Jackie Young** 🔴 +2 | 1,046 |
+| 122 | **Jackie Young** 🔴 +3 | 1,047 |
 | 123 | Nicole Ohlde | 1,040 |
 | 124 | Tamecka Dixon | 1,035 |
 | 125 | Kamila Vodichkova | 1,031 |
@@ -378,8 +378,8 @@ _Last updated: 2026-06-14 01:09 UTC_
 | 152 | Temeka Johnson | 889 |
 | 153 | Mistie Bass | 888 |
 | 154 | Erica Wheeler | 872 |
+| 155 | **Alanna Smith** 🔴 +3 | 867 |
 | 155 | Shameka Christon | 867 |
-| 156 | **Alanna Smith** 🔴 +2 | 866 |
 | 157 | Krystal Thomas | 862 |
 | 158 | **Nia Coffey** 🔴 +2 | 856 |
 | 159 | Marina Mabrey | 849 |
@@ -473,7 +473,7 @@ _Last updated: 2026-06-14 01:09 UTC_
 | 42 | Sheryl Swoopes | 1,037 |
 | 43 | Tina Charles | 1,033 |
 | 44 | Nikki Teasley | 982 |
-| 45 | **Kayla McBride** 🔴 | 968 |
+| 45 | **Kayla McBride** 🔴 +1 | 969 |
 | 46 | Tamecka Dixon | 960 |
 | 47 | Breanna Stewart | 953 |
 | 48 | Kara Lawson | 946 |
@@ -481,7 +481,7 @@ _Last updated: 2026-06-14 01:09 UTC_
 | 50 | Deanna Nolan | 930 |
 | 51 | Kelly Miller | 927 |
 | 52 | DeLisha Milton-Jones | 921 |
-| 53 | **Arike Ogunbowale** 🔴 +1 | 919 |
+| 53 | **Arike Ogunbowale** 🔴 +2 | 920 |
 | 54 | Nneka Ogwumike | 917 |
 | 55 | Angel McCoughtry | 915 |
 | 56 | Layshia Clarendon | 911 |
@@ -1160,8 +1160,8 @@ _Last updated: 2026-06-14 01:09 UTC_
 | 114 | Victoria Vivians | 192 |
 | 115 | Danielle Adams | 188 |
 | 115 | Napheesa Collier | 188 |
-| 117 | **Nia Coffey** 🔴 | 184 |
-| 117 | Noelle Quinn | 184 |
+| 117 | **Nia Coffey** 🔴 +1 | 185 |
+| 118 | Noelle Quinn | 184 |
 | 119 | Karima Christmas-Kelly | 181 |
 | 120 | Aerial Powers | 179 |
 | 120 | Camille Smith | 179 |
