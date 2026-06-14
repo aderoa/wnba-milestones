@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-14 04:07 UTC_
+_Last updated: 2026-06-14 04:08 UTC_
 
 ## Contents
 
@@ -482,7 +482,7 @@ _Last updated: 2026-06-14 04:07 UTC_
 | 51 | Kelly Miller | 927 |
 | 52 | DeLisha Milton-Jones | 921 |
 | 53 | Arike Ogunbowale | 920 |
-| 54 | **Nneka Ogwumike** 🔴 +2 | 919 |
+| 53 | **Nneka Ogwumike** 🔴 +3 | 920 |
 | 55 | Angel McCoughtry | 915 |
 | 56 | Layshia Clarendon | 911 |
 | 56 | Seimone Augustus | 911 |
