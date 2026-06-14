@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-14 20:25 UTC_
+_Last updated: 2026-06-14 20:26 UTC_
 
 ## Contents
 
@@ -1423,7 +1423,7 @@ _Last updated: 2026-06-14 20:25 UTC_
 | 172 | Scholanda Dorrell | 335 |
 | 173 | Aerial Powers | 333 |
 | 173 | Diamond DeShields | 333 |
-| 175 | **Satou Sabally** 🔴 +2 | 332 |
+| 173 | **Satou Sabally** 🔴 +3 | 333 |
 | 176 | Charde Houston | 331 |
 | 177 | Erlana Larkins | 326 |
 | 177 | Rita Williams | 326 |
