@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-14 19:16 UTC_
+_Last updated: 2026-06-14 19:17 UTC_
 
 ## Contents
 
@@ -83,7 +83,7 @@ _Last updated: 2026-06-14 19:16 UTC_
 | 62 | Allie Quigley | 3,786 |
 | 63 | Chasity Melvin | 3,781 |
 | 64 | Kara Lawson | 3,670 |
-| 65 | **Brittney Sykes** 🔴 +4 | 3,625 |
+| 65 | **Brittney Sykes** 🔴 +6 | 3,627 |
 | 66 | Mwadi Mabika | 3,576 |
 | 67 | Odyssey Sims | 3,574 |
 | 68 | Camille Smith | 3,551 |
@@ -369,8 +369,8 @@ _Last updated: 2026-06-14 19:16 UTC_
 | 143 | Janell Burse | 944 |
 | 144 | Jessica Shepard | 927 |
 | 144 | Merlakia Jones | 927 |
+| 146 | **Angel Reese** 🔴 +3 | 926 |
 | 146 | **Satou Sabally** 🔴 | 926 |
-| 147 | **Angel Reese** 🔴 +2 | 925 |
 | 148 | Nicky Anosike | 922 |
 | 149 | Janeth Arcain | 916 |
 | 150 | Karima Christmas-Kelly | 908 |
@@ -382,7 +382,7 @@ _Last updated: 2026-06-14 19:16 UTC_
 | 156 | Alanna Smith | 864 |
 | 157 | Krystal Thomas | 862 |
 | 158 | Nia Coffey | 854 |
-| 159 | **Marina Mabrey** 🔴 +2 | 851 |
+| 159 | **Marina Mabrey** 🔴 +3 | 852 |
 | 160 | Leilani Mitchell | 845 |
 | 161 | Essence Carson | 833 |
 | 162 | Kristi Toliver | 829 |
@@ -646,7 +646,7 @@ _Last updated: 2026-06-14 19:16 UTC_
 | 10 | Ruth Riley | 505 |
 | 11 | Elizabeth Williams | 493 |
 | 12 | Taj McWilliams-Franklin | 443 |
-| 13 | **Breanna Stewart** 🔴 +1 | 437 |
+| 13 | **Breanna Stewart** 🔴 +2 | 438 |
 | 14 | Tina Charles | 428 |
 | 15 | **Jonquel Jones** 🔴 +2 | 417 |
 | 16 | Michelle Snow | 403 |
