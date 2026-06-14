@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-14 02:10 UTC_
+_Last updated: 2026-06-14 02:11 UTC_
 
 ## Contents
 
@@ -23,7 +23,7 @@ _Last updated: 2026-06-14 02:10 UTC_
 | 2 | Tina Charles | 8,396 |
 | 3 | DeWanna Bonner | 7,910 |
 | 4 | Tina Thompson | 7,470 |
-| 5 | **Nneka Ogwumike** 🔴 +2 | 7,442 |
+| 5 | **Nneka Ogwumike** 🔴 +5 | 7,445 |
 | 6 | Tamika Catchings | 7,371 |
 | 7 | Candice Dupree | 6,861 |
 | 8 | Sue Bird | 6,802 |
@@ -107,7 +107,7 @@ _Last updated: 2026-06-14 02:10 UTC_
 | 86 | Margo Dydek | 3,214 |
 | 87 | Stefanie Dolson | 3,195 |
 | 88 | Danielle Robinson | 3,160 |
-| 89 | **Erica Wheeler** 🔴 | 3,144 |
+| 89 | **Erica Wheeler** 🔴 +3 | 3,147 |
 | 90 | Wendy Palmer | 3,135 |
 | 91 | Shavonte Zellous | 3,103 |
 | 92 | Briann January | 3,082 |
@@ -247,7 +247,7 @@ _Last updated: 2026-06-14 02:10 UTC_
 | 21 | Crystal Langhorne | 2,454 |
 | 22 | Lauren Jackson | 2,444 |
 | 23 | Yolanda Griffith | 2,440 |
-| 24 | **Dearica Hamby** 🔴 | 2,391 |
+| 24 | **Dearica Hamby** 🔴 +2 | 2,393 |
 | 25 | Tangela Smith | 2,328 |
 | 26 | Natasha Howard | 2,262 |
 | 27 | Erika de Souza | 2,220 |
@@ -435,7 +435,7 @@ _Last updated: 2026-06-14 02:10 UTC_
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
 | 6 | Chelsea Gray | 1,942 |
-| 7 | **Alyssa Thomas** 🔴 +3 | 1,906 |
+| 7 | **Alyssa Thomas** 🔴 +4 | 1,907 |
 | 8 | Skylar Diggins | 1,812 |
 | 9 | Natasha Cloud | 1,772 |
 | 10 | Becky Hammon | 1,705 |
@@ -454,7 +454,7 @@ _Last updated: 2026-06-14 02:10 UTC_
 | 23 | **Erica Wheeler** 🔴 | 1,306 |
 | 24 | Kristi Toliver | 1,301 |
 | 25 | Katie Smith | 1,258 |
-| 26 | **Kelsey Plum** 🔴 +1 | 1,238 |
+| 26 | **Kelsey Plum** 🔴 +3 | 1,240 |
 | 27 | Odyssey Sims | 1,228 |
 | 28 | Vickie Johnson | 1,202 |
 | 29 | Jordin Canada | 1,201 |
@@ -1103,7 +1103,7 @@ _Last updated: 2026-06-14 02:10 UTC_
 | 57 | Deanna Nolan | 340 |
 | 58 | Natasha Cloud | 339 |
 | 59 | Anna DeForge | 334 |
-| 60 | **Erica Wheeler** 🔴 | 329 |
+| 60 | **Erica Wheeler** 🔴 +1 | 330 |
 | 61 | Jackie Young | 324 |
 | 62 | Sophie Cunningham | 320 |
 | 63 | Sugar Rodgers | 317 |
@@ -1133,8 +1133,8 @@ _Last updated: 2026-06-14 02:10 UTC_
 | 86 | Rebecca Allen | 254 |
 | 88 | Bria Hartley | 253 |
 | 89 | Angel McCoughtry | 249 |
-| 90 | Erin Thorn | 243 |
-| 90 | **Nneka Ogwumike** 🔴 | 243 |
+| 90 | **Nneka Ogwumike** 🔴 +1 | 244 |
+| 91 | Erin Thorn | 243 |
 | 92 | Brittney Sykes | 242 |
 | 93 | Azurá Stevens | 241 |
 | 94 | Alex Bentley | 239 |
@@ -1312,9 +1312,9 @@ _Last updated: 2026-06-14 02:10 UTC_
 | 61 | Yolanda Griffith | 653 |
 | 62 | Sheri Sam | 650 |
 | 63 | Dawn Staley | 643 |
+| 64 | **Kelsey Plum** 🔴 +1 | 637 |
 | 64 | Ruth Riley | 637 |
-| 65 | Kayla McBride | 636 |
-| 65 | **Kelsey Plum** 🔴 | 636 |
+| 66 | Kayla McBride | 636 |
 | 67 | Odyssey Sims | 631 |
 | 67 | Svetlana Abrosimova | 631 |
 | 69 | Jonquel Jones | 627 |
