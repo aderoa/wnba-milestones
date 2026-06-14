@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-14 03:10 UTC_
+_Last updated: 2026-06-14 03:11 UTC_
 
 ## Contents
 
@@ -63,10 +63,10 @@ _Last updated: 2026-06-14 03:10 UTC_
 | 42 | Kristi Toliver | 4,474 |
 | 43 | Crystal Langhorne | 4,433 |
 | 43 | Jia Perkins | 4,433 |
-| 45 | **Kelsey Plum** 🔴 +19 | 4,414 |
+| 45 | **Kelsey Plum** 🔴 +22 | 4,417 |
 | 46 | Courtney Vandersloot | 4,352 |
 | 47 | Allisha Gray | 4,339 |
-| 48 | **Kahleah Copper** 🔴 +23 | 4,306 |
+| 48 | **Kahleah Copper** 🔴 +26 | 4,309 |
 | 49 | Sophia Young-Malcolm | 4,300 |
 | 50 | Plenette Pierson | 4,258 |
 | 51 | Courtney Williams | 4,255 |
@@ -451,7 +451,7 @@ _Last updated: 2026-06-14 03:10 UTC_
 | 20 | Briann January | 1,339 |
 | 21 | Dawn Staley | 1,337 |
 | 22 | Teresa Weatherspoon | 1,333 |
-| 23 | **Erica Wheeler** 🔴 +4 | 1,310 |
+| 23 | **Erica Wheeler** 🔴 +5 | 1,311 |
 | 24 | Kristi Toliver | 1,301 |
 | 25 | Katie Smith | 1,258 |
 | 26 | **Kelsey Plum** 🔴 +6 | 1,243 |
@@ -1055,7 +1055,7 @@ _Last updated: 2026-06-14 03:10 UTC_
 | 9 | Jewell Loyd | 680 |
 | 10 | **DeWanna Bonner** 🔴 +3 | 675 |
 | 11 | Kristi Toliver | 651 |
-| 12 | **Kelsey Plum** 🔴 +1 | 610 |
+| 12 | **Kelsey Plum** 🔴 +2 | 611 |
 | 13 | Tamika Catchings | 605 |
 | 14 | Kara Lawson | 583 |
 | 15 | Nicole Powell | 579 |
@@ -1095,7 +1095,7 @@ _Last updated: 2026-06-14 03:10 UTC_
 | 49 | Jonquel Jones | 371 |
 | 50 | Epiphanny Prince | 368 |
 | 51 | Kia Nurse | 364 |
-| 52 | **Kahleah Copper** 🔴 +4 | 359 |
+| 52 | **Kahleah Copper** 🔴 +5 | 360 |
 | 53 | Nykesha Sales | 352 |
 | 54 | Cathrine Kraayeveld | 343 |
 | 54 | Elena Delle Donne | 343 |
