@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-14 00:59 UTC_
+_Last updated: 2026-06-14 01:00 UTC_
 
 ## Contents
 
@@ -56,7 +56,7 @@ _Last updated: 2026-06-14 00:59 UTC_
 | 35 | Chamique Holdsclaw | 4,713 |
 | 36 | Elena Delle Donne | 4,706 |
 | 37 | Alyssa Thomas | 4,653 |
-| 38 | **Arike Ogunbowale** 🔴 | 4,612 |
+| 38 | **Arike Ogunbowale** 🔴 +3 | 4,615 |
 | 39 | Penny Taylor | 4,595 |
 | 40 | **Natasha Howard** 🔴 +16 | 4,544 |
 | 41 | **Chelsea Gray** 🔴 +16 | 4,522 |
@@ -379,7 +379,7 @@ _Last updated: 2026-06-14 00:59 UTC_
 | 153 | Mistie Bass | 888 |
 | 154 | Erica Wheeler | 872 |
 | 155 | Shameka Christon | 867 |
-| 156 | **Alanna Smith** 🔴 +1 | 865 |
+| 156 | **Alanna Smith** 🔴 +2 | 866 |
 | 157 | Krystal Thomas | 862 |
 | 158 | **Nia Coffey** 🔴 +2 | 856 |
 | 159 | Marina Mabrey | 849 |
@@ -1059,7 +1059,7 @@ _Last updated: 2026-06-14 00:59 UTC_
 | 13 | Tamika Catchings | 605 |
 | 14 | Kara Lawson | 583 |
 | 15 | Nicole Powell | 579 |
-| 16 | **Arike Ogunbowale** 🔴 | 566 |
+| 16 | **Arike Ogunbowale** 🔴 +1 | 567 |
 | 17 | Ivory Latta | 536 |
 | 18 | Renee Montgomery | 532 |
 | 19 | Maya Moore | 530 |
@@ -1121,8 +1121,8 @@ _Last updated: 2026-06-14 00:59 UTC_
 | 75 | Candice Wiggins | 290 |
 | 75 | Tully Bevilaqua | 290 |
 | 77 | Alana Beard | 288 |
+| 77 | **Bridget Carleton** 🔴 +1 | 288 |
 | 77 | Kayla Thornton | 288 |
-| 79 | **Bridget Carleton** 🔴 | 287 |
 | 80 | Monique Currie | 284 |
 | 81 | Iziane Castro Marques | 275 |
 | 82 | Stefanie Dolson | 273 |
