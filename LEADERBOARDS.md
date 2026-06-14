@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-14 00:09 UTC_
+_Last updated: 2026-06-14 00:10 UTC_
 
 ## Contents
 
@@ -238,8 +238,8 @@ _Last updated: 2026-06-14 00:09 UTC_
 | 12 | Alyssa Thomas | 2,817 |
 | 13 | Jonquel Jones | 2,663 |
 | 14 | Sancho Lyttle | 2,596 |
-| 15 | **A'ja Wilson** 🔴 | 2,574 |
-| 15 | DeLisha Milton-Jones | 2,574 |
+| 15 | **A'ja Wilson** 🔴 +1 | 2,575 |
+| 16 | DeLisha Milton-Jones | 2,574 |
 | 17 | Breanna Stewart | 2,560 |
 | 18 | **Brittney Griner** 🔴 +1 | 2,557 |
 | 19 | Swin Cash | 2,521 |
@@ -264,7 +264,7 @@ _Last updated: 2026-06-14 00:09 UTC_
 | 38 | Sophia Young-Malcolm | 1,807 |
 | 39 | Lindsay Whalen | 1,805 |
 | 40 | Camille Smith | 1,802 |
-| 41 | **Courtney Williams** 🔴 | 1,801 |
+| 40 | **Courtney Williams** 🔴 +1 | 1,802 |
 | 42 | Kiah Stokes | 1,790 |
 | 43 | Asjha Jones | 1,751 |
 | 44 | Stefanie Dolson | 1,688 |
@@ -345,7 +345,7 @@ _Last updated: 2026-06-14 00:09 UTC_
 | 119 | Svetlana Abrosimova | 1,078 |
 | 120 | Le'coe Willingham | 1,054 |
 | 121 | Isabelle Harrison | 1,049 |
-| 122 | **Jackie Young** 🔴 | 1,044 |
+| 122 | **Jackie Young** 🔴 +1 | 1,045 |
 | 123 | Nicole Ohlde | 1,040 |
 | 124 | Tamecka Dixon | 1,035 |
 | 125 | Kamila Vodichkova | 1,031 |
@@ -704,7 +704,7 @@ _Last updated: 2026-06-14 00:09 UTC_
 | 68 | Jantel Lavender | 170 |
 | 69 | Camille Smith | 169 |
 | 70 | Shameka Christon | 165 |
-| 71 | **Nia Coffey** 🔴 | 163 |
+| 71 | **Nia Coffey** 🔴 +1 | 164 |
 | 72 | Cheryl Ford | 160 |
 | 73 | Kara Braxton | 157 |
 | 74 | Allisha Gray | 156 |
@@ -872,7 +872,7 @@ _Last updated: 2026-06-14 00:09 UTC_
 | 31 | Skylar Diggins | 454 |
 | 32 | Tina Thompson | 452 |
 | 33 | Maya Moore | 449 |
-| 34 | **Natasha Howard** 🔴 | 447 |
+| 34 | **Natasha Howard** 🔴 +1 | 448 |
 | 35 | **Chelsea Gray** 🔴 | 445 |
 | 35 | Jewell Loyd | 445 |
 | 37 | Sheri Sam | 438 |
@@ -1376,7 +1376,7 @@ _Last updated: 2026-06-14 00:09 UTC_
 | 125 | Betnijah Laney-Hamilton | 444 |
 | 125 | Elena Baranova | 444 |
 | 125 | Jantel Lavender | 444 |
-| 128 | **Jackie Young** 🔴 | 441 |
+| 128 | **Jackie Young** 🔴 +1 | 442 |
 | 129 | Alysha Clark | 440 |
 | 129 | Ann Wauters | 440 |
 | 129 | Cheyenne Parker-Tyus | 440 |
