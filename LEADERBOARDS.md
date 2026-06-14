@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-14 00:17 UTC_
+_Last updated: 2026-06-14 00:18 UTC_
 
 ## Contents
 
@@ -70,8 +70,8 @@ _Last updated: 2026-06-14 00:17 UTC_
 | 49 | Kahleah Copper | 4,283 |
 | 50 | Plenette Pierson | 4,258 |
 | 51 | Monique Currie | 4,253 |
-| 52 | **Courtney Williams** 🔴 +5 | 4,243 |
-| 52 | Dearica Hamby | 4,243 |
+| 52 | **Courtney Williams** 🔴 +7 | 4,245 |
+| 53 | Dearica Hamby | 4,243 |
 | 54 | Vickie Johnson | 4,230 |
 | 55 | Yolanda Griffith | 4,224 |
 | 56 | Jonquel Jones | 4,222 |
@@ -202,11 +202,11 @@ _Last updated: 2026-06-14 00:17 UTC_
 | 181 | Rachel Banham | 1,823 |
 | 182 | Danielle Adams | 1,820 |
 | 183 | Charde Houston | 1,797 |
-| 184 | **NaLyssa Smith** 🔴 +4 | 1,779 |
+| 184 | **NaLyssa Smith** 🔴 +6 | 1,781 |
 | 185 | Kamila Vodichkova | 1,767 |
 | 186 | Tully Bevilaqua | 1,763 |
-| 187 | Sandy Brondello | 1,759 |
-| 188 | **Sophie Cunningham** 🔴 +6 | 1,758 |
+| 187 | **Sophie Cunningham** 🔴 +8 | 1,760 |
+| 188 | Sandy Brondello | 1,759 |
 | 189 | Sugar Rodgers | 1,733 |
 | 190 | Gabby Williams | 1,723 |
 | 191 | Moriah Jefferson | 1,722 |
@@ -238,7 +238,7 @@ _Last updated: 2026-06-14 00:17 UTC_
 | 12 | Alyssa Thomas | 2,817 |
 | 13 | Jonquel Jones | 2,663 |
 | 14 | Sancho Lyttle | 2,596 |
-| 15 | **A'ja Wilson** 🔴 +2 | 2,576 |
+| 15 | **A'ja Wilson** 🔴 +3 | 2,577 |
 | 16 | DeLisha Milton-Jones | 2,574 |
 | 17 | Breanna Stewart | 2,560 |
 | 18 | **Brittney Griner** 🔴 +1 | 2,557 |
@@ -249,7 +249,7 @@ _Last updated: 2026-06-14 00:17 UTC_
 | 23 | Yolanda Griffith | 2,440 |
 | 24 | Dearica Hamby | 2,391 |
 | 25 | Tangela Smith | 2,328 |
-| 26 | **Natasha Howard** 🔴 | 2,253 |
+| 26 | **Natasha Howard** 🔴 +1 | 2,254 |
 | 27 | Erika de Souza | 2,220 |
 | 28 | Diana Taurasi | 2,201 |
 | 29 | Margo Dydek | 2,138 |
@@ -335,8 +335,8 @@ _Last updated: 2026-06-14 00:17 UTC_
 | 109 | Andrea Stinson | 1,127 |
 | 109 | Tamika Raymond | 1,127 |
 | 111 | Adrienne Goodson | 1,126 |
-| 112 | **Aliyah Boston** 🔴 +10 | 1,120 |
-| 113 | **NaLyssa Smith** 🔴 +2 | 1,117 |
+| 112 | **Aliyah Boston** 🔴 +11 | 1,121 |
+| 113 | **NaLyssa Smith** 🔴 +3 | 1,118 |
 | 114 | Deanna Nolan | 1,112 |
 | 114 | Natasha Cloud | 1,112 |
 | 116 | Chiney Ogwumike | 1,110 |
@@ -874,7 +874,7 @@ _Last updated: 2026-06-14 00:17 UTC_
 | 33 | Maya Moore | 449 |
 | 34 | **Natasha Howard** 🔴 +1 | 448 |
 | 35 | **Chelsea Gray** 🔴 +1 | 446 |
-| 36 | **Jewell Loyd** 🔴 | 445 |
+| 35 | **Jewell Loyd** 🔴 +1 | 446 |
 | 37 | Sheri Sam | 438 |
 | 38 | Camille Smith | 437 |
 | 39 | **Kayla McBride** 🔴 | 436 |
@@ -1276,7 +1276,7 @@ _Last updated: 2026-06-14 00:17 UTC_
 | 25 | Alana Beard | 854 |
 | 26 | DeWanna Bonner | 837 |
 | 27 | Katie Douglas | 824 |
-| 28 | **Natasha Howard** 🔴 | 821 |
+| 28 | **Natasha Howard** 🔴 +1 | 822 |
 | 29 | Betty Lennox | 800 |
 | 30 | Jasmine Thomas | 796 |
 | 31 | Nneka Ogwumike | 795 |
