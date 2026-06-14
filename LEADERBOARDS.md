@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-14 00:10 UTC_
+_Last updated: 2026-06-14 00:11 UTC_
 
 ## Contents
 
@@ -59,7 +59,7 @@ _Last updated: 2026-06-14 00:10 UTC_
 | 38 | Arike Ogunbowale | 4,612 |
 | 39 | Penny Taylor | 4,595 |
 | 40 | **Natasha Howard** 🔴 +2 | 4,530 |
-| 41 | **Chelsea Gray** 🔴 +3 | 4,509 |
+| 41 | **Chelsea Gray** 🔴 +6 | 4,512 |
 | 42 | Kristi Toliver | 4,474 |
 | 43 | Crystal Langhorne | 4,433 |
 | 43 | Jia Perkins | 4,433 |
@@ -71,7 +71,7 @@ _Last updated: 2026-06-14 00:10 UTC_
 | 50 | Plenette Pierson | 4,258 |
 | 51 | Monique Currie | 4,253 |
 | 52 | Dearica Hamby | 4,243 |
-| 53 | **Courtney Williams** 🔴 | 4,238 |
+| 53 | **Courtney Williams** 🔴 +2 | 4,240 |
 | 54 | Vickie Johnson | 4,230 |
 | 55 | Yolanda Griffith | 4,224 |
 | 56 | Jonquel Jones | 4,222 |
@@ -238,7 +238,7 @@ _Last updated: 2026-06-14 00:10 UTC_
 | 12 | Alyssa Thomas | 2,817 |
 | 13 | Jonquel Jones | 2,663 |
 | 14 | Sancho Lyttle | 2,596 |
-| 15 | **A'ja Wilson** 🔴 +1 | 2,575 |
+| 15 | **A'ja Wilson** 🔴 +2 | 2,576 |
 | 16 | DeLisha Milton-Jones | 2,574 |
 | 17 | Breanna Stewart | 2,560 |
 | 18 | **Brittney Griner** 🔴 +1 | 2,557 |
@@ -294,7 +294,7 @@ _Last updated: 2026-06-14 00:10 UTC_
 | 68 | Tamera Young | 1,433 |
 | 69 | Alana Beard | 1,420 |
 | 70 | Nakia Sanford | 1,419 |
-| 71 | **Monique Billings** 🔴 +6 | 1,391 |
+| 71 | **Monique Billings** 🔴 +7 | 1,392 |
 | 72 | Kara Braxton | 1,387 |
 | 73 | Allisha Gray | 1,384 |
 | 74 | Courtney Vandersloot | 1,383 |
@@ -604,7 +604,7 @@ _Last updated: 2026-06-14 00:10 UTC_
 | 173 | Shameka Christon | 389 |
 | 173 | Tamicha Jackson | 389 |
 | 175 | Riquna Williams | 387 |
-| 176 | **Stephanie Talbot** 🔴 | 385 |
+| 176 | **Stephanie Talbot** 🔴 +1 | 386 |
 | 177 | Dana Evans | 379 |
 | 178 | Jessica Breland | 377 |
 | 179 | Shenise Johnson | 376 |
@@ -1077,7 +1077,7 @@ _Last updated: 2026-06-14 00:10 UTC_
 | 31 | Lauren Jackson | 436 |
 | 32 | Skylar Diggins | 435 |
 | 33 | Shameka Christon | 434 |
-| 34 | **Chelsea Gray** 🔴 +1 | 426 |
+| 34 | **Chelsea Gray** 🔴 +2 | 427 |
 | 35 | Crystal Robinson | 425 |
 | 36 | Mwadi Mabika | 415 |
 | 37 | Penny Taylor | 407 |
