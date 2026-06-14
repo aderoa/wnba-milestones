@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-14 00:16 UTC_
+_Last updated: 2026-06-14 00:17 UTC_
 
 ## Contents
 
@@ -70,8 +70,8 @@ _Last updated: 2026-06-14 00:16 UTC_
 | 49 | Kahleah Copper | 4,283 |
 | 50 | Plenette Pierson | 4,258 |
 | 51 | Monique Currie | 4,253 |
+| 52 | **Courtney Williams** 🔴 +5 | 4,243 |
 | 52 | Dearica Hamby | 4,243 |
-| 53 | **Courtney Williams** 🔴 +2 | 4,240 |
 | 54 | Vickie Johnson | 4,230 |
 | 55 | Yolanda Griffith | 4,224 |
 | 56 | Jonquel Jones | 4,222 |
@@ -202,7 +202,7 @@ _Last updated: 2026-06-14 00:16 UTC_
 | 181 | Rachel Banham | 1,823 |
 | 182 | Danielle Adams | 1,820 |
 | 183 | Charde Houston | 1,797 |
-| 184 | **NaLyssa Smith** 🔴 +2 | 1,777 |
+| 184 | **NaLyssa Smith** 🔴 +4 | 1,779 |
 | 185 | Kamila Vodichkova | 1,767 |
 | 186 | Tully Bevilaqua | 1,763 |
 | 187 | Sandy Brondello | 1,759 |
@@ -464,7 +464,7 @@ _Last updated: 2026-06-14 00:16 UTC_
 | 33 | Renee Montgomery | 1,140 |
 | 34 | Swin Cash | 1,131 |
 | 35 | Lindsey Harding | 1,090 |
-| 36 | **Jackie Young** 🔴 +1 | 1,088 |
+| 36 | **Jackie Young** 🔴 +2 | 1,089 |
 | 37 | Sabrina Ionescu | 1,074 |
 | 38 | Katie Douglas | 1,069 |
 | 39 | Alana Beard | 1,061 |
@@ -1126,8 +1126,8 @@ _Last updated: 2026-06-14 00:16 UTC_
 | 80 | Monique Currie | 284 |
 | 81 | Iziane Castro Marques | 275 |
 | 82 | Stefanie Dolson | 273 |
+| 83 | **Courtney Williams** 🔴 +1 | 270 |
 | 83 | Sheryl Swoopes | 270 |
-| 84 | **Courtney Williams** 🔴 | 269 |
 | 85 | Sophia Witherspoon | 260 |
 | 86 | Dawn Staley | 254 |
 | 86 | Rebecca Allen | 254 |
