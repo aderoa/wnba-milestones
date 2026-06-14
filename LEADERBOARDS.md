@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-14 02:30 UTC_
+_Last updated: 2026-06-14 02:31 UTC_
 
 ## Contents
 
@@ -228,7 +228,7 @@ _Last updated: 2026-06-14 02:30 UTC_
 | 2 | Sylvia Fowles | 4,005 |
 | 3 | Candace Parker | 3,467 |
 | 4 | Rebekkah Brunson | 3,345 |
-| 5 | **Nneka Ogwumike** 🔴 +2 | 3,339 |
+| 5 | **Nneka Ogwumike** 🔴 +3 | 3,340 |
 | 6 | Tamika Catchings | 3,313 |
 | 7 | Lisa Leslie | 3,303 |
 | 8 | **DeWanna Bonner** 🔴 | 3,260 |
@@ -451,7 +451,7 @@ _Last updated: 2026-06-14 02:30 UTC_
 | 20 | Briann January | 1,339 |
 | 21 | Dawn Staley | 1,337 |
 | 22 | Teresa Weatherspoon | 1,333 |
-| 23 | **Erica Wheeler** 🔴 +3 | 1,309 |
+| 23 | **Erica Wheeler** 🔴 +4 | 1,310 |
 | 24 | Kristi Toliver | 1,301 |
 | 25 | Katie Smith | 1,258 |
 | 26 | **Kelsey Plum** 🔴 +4 | 1,241 |
@@ -1117,8 +1117,8 @@ _Last updated: 2026-06-14 02:30 UTC_
 | 71 | Nikki Teasley | 304 |
 | 72 | Natisha Hiedeman | 303 |
 | 73 | Vickie Johnson | 295 |
+| 74 | **Bridget Carleton** 🔴 +6 | 293 |
 | 74 | Seimone Augustus | 293 |
-| 75 | **Bridget Carleton** 🔴 +5 | 292 |
 | 76 | Candice Wiggins | 290 |
 | 76 | Tully Bevilaqua | 290 |
 | 78 | Alana Beard | 288 |
@@ -1492,8 +1492,8 @@ _Last updated: 2026-06-14 02:30 UTC_
 | 36 | Tamika Whitmore | 940 |
 | 37 | Courtney Vandersloot | 938 |
 | 38 | Briann January | 921 |
-| 39 | **DeWanna Bonner** 🔴 +1 | 913 |
-| 39 | Ticha Penicheiro | 913 |
+| 39 | **DeWanna Bonner** 🔴 +2 | 914 |
+| 40 | Ticha Penicheiro | 913 |
 | 41 | Shavonte Zellous | 907 |
 | 42 | **Alysha Clark** 🔴 +2 | 898 |
 | 43 | Jonquel Jones | 890 |
