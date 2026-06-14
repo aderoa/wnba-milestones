@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-14 02:05 UTC_
+_Last updated: 2026-06-14 02:06 UTC_
 
 ## Contents
 
@@ -56,7 +56,7 @@ _Last updated: 2026-06-14 02:05 UTC_
 | 35 | Chamique Holdsclaw | 4,713 |
 | 36 | Elena Delle Donne | 4,706 |
 | 37 | **Alyssa Thomas** 🔴 +2 | 4,655 |
-| 38 | **Arike Ogunbowale** 🔴 +15 | 4,627 |
+| 38 | **Arike Ogunbowale** 🔴 +17 | 4,629 |
 | 39 | Penny Taylor | 4,595 |
 | 40 | **Natasha Howard** 🔴 +22 | 4,550 |
 | 41 | **Chelsea Gray** 🔴 +21 | 4,527 |
@@ -67,7 +67,7 @@ _Last updated: 2026-06-14 02:05 UTC_
 | 46 | Courtney Vandersloot | 4,352 |
 | 47 | Allisha Gray | 4,339 |
 | 48 | Sophia Young-Malcolm | 4,300 |
-| 49 | **Kahleah Copper** 🔴 | 4,283 |
+| 49 | **Kahleah Copper** 🔴 +3 | 4,286 |
 | 50 | Plenette Pierson | 4,258 |
 | 51 | **Courtney Williams** 🔴 +17 | 4,255 |
 | 52 | Monique Currie | 4,253 |
@@ -435,7 +435,7 @@ _Last updated: 2026-06-14 02:05 UTC_
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
 | 6 | **Chelsea Gray** 🔴 +7 | 1,942 |
-| 7 | **Alyssa Thomas** 🔴 +1 | 1,904 |
+| 7 | **Alyssa Thomas** 🔴 +2 | 1,905 |
 | 8 | Skylar Diggins | 1,812 |
 | 9 | Natasha Cloud | 1,772 |
 | 10 | Becky Hammon | 1,705 |
@@ -740,9 +740,9 @@ _Last updated: 2026-06-14 02:05 UTC_
 | 103 | Essence Carson | 121 |
 | 105 | **Emily Engstler** 🔴 +1 | 120 |
 | 106 | Krystal Thomas | 118 |
-| 107 | Andrea Stinson | 117 |
-| 107 | Crystal Langhorne | 117 |
-| 107 | **Natasha Mack** 🔴 | 117 |
+| 106 | **Natasha Mack** 🔴 +1 | 118 |
+| 108 | Andrea Stinson | 117 |
+| 108 | Crystal Langhorne | 117 |
 | 110 | Monique Currie | 114 |
 | 111 | **Ariel Atkins** 🔴 | 113 |
 | 112 | Amanda Lassiter | 111 |
@@ -1095,7 +1095,7 @@ _Last updated: 2026-06-14 02:05 UTC_
 | 49 | Jonquel Jones | 371 |
 | 50 | Epiphanny Prince | 368 |
 | 51 | Kia Nurse | 364 |
-| 52 | **Kahleah Copper** 🔴 | 355 |
+| 52 | **Kahleah Copper** 🔴 +1 | 356 |
 | 53 | Nykesha Sales | 352 |
 | 54 | Cathrine Kraayeveld | 343 |
 | 54 | Elena Delle Donne | 343 |
@@ -1118,7 +1118,7 @@ _Last updated: 2026-06-14 02:05 UTC_
 | 72 | Natisha Hiedeman | 303 |
 | 73 | Vickie Johnson | 295 |
 | 74 | Seimone Augustus | 293 |
-| 75 | **Bridget Carleton** 🔴 +4 | 291 |
+| 75 | **Bridget Carleton** 🔴 +5 | 292 |
 | 76 | Candice Wiggins | 290 |
 | 76 | Tully Bevilaqua | 290 |
 | 78 | Alana Beard | 288 |
