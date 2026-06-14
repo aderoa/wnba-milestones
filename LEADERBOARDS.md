@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-14 19:52 UTC_
+_Last updated: 2026-06-14 19:53 UTC_
 
 ## Contents
 
@@ -240,7 +240,7 @@ _Last updated: 2026-06-14 19:52 UTC_
 | 14 | Sancho Lyttle | 2,596 |
 | 15 | A'ja Wilson | 2,574 |
 | 15 | DeLisha Milton-Jones | 2,574 |
-| 17 | **Breanna Stewart** 🔴 +7 | 2,567 |
+| 17 | **Breanna Stewart** 🔴 +9 | 2,569 |
 | 18 | Brittney Griner | 2,556 |
 | 19 | Swin Cash | 2,521 |
 | 20 | Michelle Snow | 2,476 |
@@ -408,7 +408,7 @@ _Last updated: 2026-06-14 19:52 UTC_
 | 181 | Kelsey Bone | 769 |
 | 181 | Tan White | 769 |
 | 184 | Tully Bevilaqua | 767 |
-| 185 | **Shakira Austin** 🔴 +4 | 762 |
+| 185 | **Shakira Austin** 🔴 +5 | 763 |
 | 186 | Layshia Clarendon | 756 |
 | 187 | Brooke Wyckoff | 751 |
 | 188 | Coco Miller | 750 |
@@ -646,7 +646,7 @@ _Last updated: 2026-06-14 19:52 UTC_
 | 10 | Ruth Riley | 505 |
 | 11 | Elizabeth Williams | 493 |
 | 12 | Taj McWilliams-Franklin | 443 |
-| 13 | **Breanna Stewart** 🔴 +4 | 440 |
+| 13 | **Breanna Stewart** 🔴 +5 | 441 |
 | 14 | Tina Charles | 428 |
 | 15 | **Jonquel Jones** 🔴 +1 | 416 |
 | 16 | Michelle Snow | 403 |
@@ -1331,8 +1331,8 @@ _Last updated: 2026-06-14 19:52 UTC_
 | 80 | Helen Darling | 575 |
 | 80 | Nykesha Sales | 575 |
 | 82 | Andrea Stinson | 571 |
-| 83 | **Breanna Stewart** 🔴 | 570 |
-| 83 | Kara Braxton | 570 |
+| 82 | **Breanna Stewart** 🔴 +1 | 571 |
+| 84 | Kara Braxton | 570 |
 | 85 | Nikki McCray | 565 |
 | 86 | Kelsey Mitchell | 563 |
 | 86 | Sancho Lyttle | 563 |
