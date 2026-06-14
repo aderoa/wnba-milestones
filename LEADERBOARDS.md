@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-14 04:05 UTC_
+_Last updated: 2026-06-14 04:06 UTC_
 
 ## Contents
 
@@ -61,7 +61,7 @@ _Last updated: 2026-06-14 04:05 UTC_
 | 40 | Natasha Howard | 4,550 |
 | 41 | Chelsea Gray | 4,529 |
 | 42 | Kristi Toliver | 4,474 |
-| 43 | **Kelsey Plum** 🔴 +41 | 4,436 |
+| 43 | **Kelsey Plum** 🔴 +42 | 4,437 |
 | 44 | Crystal Langhorne | 4,433 |
 | 44 | Jia Perkins | 4,433 |
 | 46 | Courtney Vandersloot | 4,352 |
@@ -415,8 +415,8 @@ _Last updated: 2026-06-14 04:05 UTC_
 | 189 | Coco Miller | 750 |
 | 190 | Alex Montgomery | 735 |
 | 191 | Ashley Robinson | 734 |
-| 192 | **Kelsey Plum** 🔴 +1 | 729 |
-| 192 | Shenise Johnson | 729 |
+| 192 | **Kelsey Plum** 🔴 +2 | 730 |
+| 193 | Shenise Johnson | 729 |
 | 194 | Sami Whitcomb | 726 |
 | 194 | Shekinna Stricklen | 726 |
 | 196 | Olympia Scott | 711 |
