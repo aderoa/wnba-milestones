@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-14 19:15 UTC_
+_Last updated: 2026-06-14 19:16 UTC_
 
 ## Contents
 
@@ -73,8 +73,8 @@ _Last updated: 2026-06-14 19:15 UTC_
 | 52 | Dearica Hamby | 4,243 |
 | 53 | Courtney Williams | 4,238 |
 | 54 | Vickie Johnson | 4,230 |
-| 55 | Yolanda Griffith | 4,224 |
-| 56 | **Jonquel Jones** 🔴 | 4,222 |
+| 55 | **Jonquel Jones** 🔴 +3 | 4,225 |
+| 56 | Yolanda Griffith | 4,224 |
 | 57 | Rebekkah Brunson | 4,133 |
 | 58 | Asjha Jones | 3,986 |
 | 59 | Deanna Nolan | 3,971 |
@@ -240,7 +240,7 @@ _Last updated: 2026-06-14 19:15 UTC_
 | 14 | Sancho Lyttle | 2,596 |
 | 15 | A'ja Wilson | 2,574 |
 | 15 | DeLisha Milton-Jones | 2,574 |
-| 17 | **Breanna Stewart** 🔴 +1 | 2,561 |
+| 17 | **Breanna Stewart** 🔴 +2 | 2,562 |
 | 18 | Brittney Griner | 2,556 |
 | 19 | Swin Cash | 2,521 |
 | 20 | Michelle Snow | 2,476 |
@@ -568,7 +568,7 @@ _Last updated: 2026-06-14 19:15 UTC_
 | 137 | Elizabeth Williams | 467 |
 | 138 | Erin Phillips | 462 |
 | 139 | Sylvia Fowles | 461 |
-| 140 | **Satou Sabally** 🔴 | 456 |
+| 140 | **Satou Sabally** 🔴 +1 | 457 |
 | 141 | Sydney Colson | 454 |
 | 141 | Tyasha Harris | 454 |
 | 143 | Yolanda Griffith | 451 |
@@ -648,7 +648,7 @@ _Last updated: 2026-06-14 19:15 UTC_
 | 12 | Taj McWilliams-Franklin | 443 |
 | 13 | **Breanna Stewart** 🔴 +1 | 437 |
 | 14 | Tina Charles | 428 |
-| 15 | **Jonquel Jones** 🔴 | 415 |
+| 15 | **Jonquel Jones** 🔴 +2 | 417 |
 | 16 | Michelle Snow | 403 |
 | 17 | Tamika Catchings | 383 |
 | 18 | Tina Thompson | 372 |
@@ -1092,7 +1092,7 @@ _Last updated: 2026-06-14 19:15 UTC_
 | 46 | Jasmine Thomas | 376 |
 | 47 | Allison Feaster | 372 |
 | 47 | Betty Lennox | 372 |
-| 49 | **Jonquel Jones** 🔴 | 371 |
+| 47 | **Jonquel Jones** 🔴 +1 | 372 |
 | 50 | Epiphanny Prince | 368 |
 | 51 | Kia Nurse | 364 |
 | 52 | Kahleah Copper | 355 |
