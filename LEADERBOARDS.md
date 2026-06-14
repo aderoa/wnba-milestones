@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-14 03:37 UTC_
+_Last updated: 2026-06-14 03:38 UTC_
 
 ## Contents
 
@@ -66,7 +66,7 @@ _Last updated: 2026-06-14 03:37 UTC_
 | 45 | **Kelsey Plum** 🔴 +24 | 4,419 |
 | 46 | Courtney Vandersloot | 4,352 |
 | 47 | Allisha Gray | 4,339 |
-| 48 | **Kahleah Copper** 🔴 +28 | 4,311 |
+| 48 | **Kahleah Copper** 🔴 +30 | 4,313 |
 | 49 | Sophia Young-Malcolm | 4,300 |
 | 50 | Plenette Pierson | 4,258 |
 | 51 | Courtney Williams | 4,255 |
@@ -327,7 +327,7 @@ _Last updated: 2026-06-14 03:37 UTC_
 | 101 | Latasha Byears | 1,190 |
 | 101 | Tanisha Wright | 1,190 |
 | 103 | Vicky Bullett | 1,189 |
-| 104 | **Kahleah Copper** 🔴 +6 | 1,177 |
+| 104 | **Kahleah Copper** 🔴 +7 | 1,178 |
 | 105 | Nykesha Sales | 1,148 |
 | 106 | Brittney Sykes | 1,145 |
 | 107 | Shannon Johnson | 1,143 |
@@ -739,8 +739,8 @@ _Last updated: 2026-06-14 03:37 UTC_
 | 103 | Ebony Hoffman | 121 |
 | 103 | Emily Engstler | 121 |
 | 103 | Essence Carson | 121 |
-| 106 | Krystal Thomas | 118 |
-| 106 | **Natasha Mack** 🔴 +1 | 118 |
+| 106 | **Natasha Mack** 🔴 +2 | 119 |
+| 107 | Krystal Thomas | 118 |
 | 108 | Andrea Stinson | 117 |
 | 108 | Crystal Langhorne | 117 |
 | 110 | Monique Currie | 114 |

@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-14T03:38:00+00:00",
+    "text": "Natasha Mack passed Krystal Thomas for #106 all-time in blocks (career 119) \u2014 up from #109 entering today \u2014 (7:48 - 4th \u2014 LA @ PHX)",
+    "kind": "rank_pass",
+    "player": "Natasha Mack",
+    "stat": "blocks",
+    "rank": 106,
+    "passed_players": [
+      "Krystal Thomas"
+    ],
+    "new_total": 119
+  },
+  {
     "ts": "2026-06-14T03:27:00+00:00",
     "text": "Erica Wheeler passed Dominique Canty and Renee Montgomery for #65 all-time in steals (career 357) \u2014 up from #68 entering today \u2014 (35.8 - 3rd \u2014 LA @ PHX)",
     "kind": "rank_pass",
@@ -2960,14 +2972,5 @@
       "Ezi Magbegor"
     ],
     "new_total": 356
-  },
-  {
-    "ts": "2026-06-06T12:04:00+00:00",
-    "text": "Natasha Mack reached 500 career rebounds (now 503) \u2014 (Final \u2014 PHX @ POR)",
-    "kind": "round",
-    "player": "Natasha Mack",
-    "stat": "rebounds",
-    "value": 500,
-    "new_total": 503
   }
 ]
