@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-14 20:02 UTC_
+_Last updated: 2026-06-14 20:03 UTC_
 
 ## Contents
 
@@ -768,9 +768,9 @@ _Last updated: 2026-06-14 20:02 UTC_
 | 130 | Nicole Powell | 100 |
 | 133 | Mwadi Mabika | 98 |
 | 133 | Natalie Achonwa | 98 |
-| 135 | Aneika Morello | 96 |
-| 135 | **Isabelle Harrison** 🔴 +1 | 96 |
-| 135 | Tiffani Johnson | 96 |
+| 135 | **Isabelle Harrison** 🔴 +2 | 97 |
+| 136 | Aneika Morello | 96 |
+| 136 | Tiffani Johnson | 96 |
 | 138 | Imani McGee-Stafford | 95 |
 | 139 | Jewell Loyd | 94 |
 | 139 | NaLyssa Smith | 94 |

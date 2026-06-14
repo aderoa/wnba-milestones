@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-06-14T20:03:00+00:00",
+    "text": "Isabelle Harrison passed Aneika Morello and Tiffani Johnson for #135 all-time in blocks (career 97) \u2014 up from #138 entering today \u2014 (Halftime \u2014 ATL @ TOR)",
+    "kind": "rank_pass",
+    "player": "Isabelle Harrison",
+    "stat": "blocks",
+    "rank": 135,
+    "passed_players": [
+      "Aneika Morello",
+      "Tiffani Johnson"
+    ],
+    "new_total": 97
+  },
+  {
     "ts": "2026-06-14T19:59:00+00:00",
     "text": "Marina Mabrey passed Damiris Dantas for #158 all-time in blocks (career 83) \u2014 up from #162 entering today \u2014 (3.7 - 2nd \u2014 ATL @ TOR)",
     "kind": "rank_pass",
@@ -2955,18 +2968,5 @@
       "Shenise Johnson"
     ],
     "new_total": 730
-  },
-  {
-    "ts": "2026-06-06T12:04:00+00:00",
-    "text": "Kelsey Plum passed Ruth Riley and Kayla McBride for #64 all-time in turnovers (career 641) \u2014 up from #66 entering today \u2014 (Final \u2014 DAL @ LA)",
-    "kind": "rank_pass",
-    "player": "Kelsey Plum",
-    "stat": "turnovers",
-    "rank": 64,
-    "passed_players": [
-      "Ruth Riley",
-      "Kayla McBride"
-    ],
-    "new_total": 641
   }
 ]

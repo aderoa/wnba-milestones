@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-14 20:03 UTC
+
+- **Isabelle Harrison** passed **Aneika Morello** and **Tiffani Johnson** for **#135** all-time in blocks (career 97) — up from #138 entering today — _Halftime — ATL @ TOR_
+
 ## 2026-06-14 19:59 UTC
 
 - **Marina Mabrey** passed **Damiris Dantas** for **#158** all-time in blocks (career 83) — up from #162 entering today — _3.7 - 2nd — ATL @ TOR_
