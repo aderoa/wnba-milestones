@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-14 19:22 UTC_
+_Last updated: 2026-06-14 19:23 UTC_
 
 ## Contents
 
@@ -153,13 +153,13 @@ _Last updated: 2026-06-14 19:22 UTC_
 | 132 | Kayla Thornton | 2,333 |
 | 133 | Merlakia Jones | 2,308 |
 | 134 | Kia Vaughn | 2,288 |
-| 135 | Betnijah Laney-Hamilton | 2,282 |
+| 135 | **Betnijah Laney-Hamilton** 🔴 | 2,282 |
 | 136 | Azurá Stevens | 2,259 |
 | 137 | Allison Feaster | 2,258 |
 | 138 | Shekinna Stricklen | 2,245 |
-| 139 | **Jordin Canada** 🔴 | 2,237 |
-| 139 | Kara Braxton | 2,237 |
-| 139 | Matee Ajavon | 2,237 |
+| 139 | **Jordin Canada** 🔴 +2 | 2,239 |
+| 140 | Kara Braxton | 2,237 |
+| 140 | Matee Ajavon | 2,237 |
 | 142 | **Kia Nurse** 🔴 +3 | 2,234 |
 | 143 | Dawn Staley | 2,228 |
 | 144 | Teaira McCowan | 2,221 |
@@ -195,7 +195,7 @@ _Last updated: 2026-06-14 19:22 UTC_
 | 174 | Ebony Hoffman | 1,909 |
 | 175 | Candice Wiggins | 1,901 |
 | 176 | Natisha Hiedeman | 1,858 |
-| 177 | **Isabelle Harrison** 🔴 +6 | 1,838 |
+| 177 | **Isabelle Harrison** 🔴 +9 | 1,841 |
 | 178 | Damiris Dantas | 1,830 |
 | 179 | Tianna Hawkins | 1,825 |
 | 180 | Noelle Quinn | 1,824 |
@@ -393,7 +393,7 @@ _Last updated: 2026-06-14 19:22 UTC_
 | 166 | Barbara Farris | 819 |
 | 168 | Carolyn Swords | 814 |
 | 169 | Tierra Ruffin-Pratt | 799 |
-| 170 | Betnijah Laney-Hamilton | 795 |
+| 170 | **Betnijah Laney-Hamilton** 🔴 | 795 |
 | 170 | Gabby Williams | 795 |
 | 172 | Charlotte Smith | 794 |
 | 173 | Rhonda Mapp | 788 |
@@ -534,7 +534,7 @@ _Last updated: 2026-06-14 19:22 UTC_
 | 103 | Sancho Lyttle | 592 |
 | 104 | Camille Smith | 590 |
 | 105 | Armintie Herrington | 589 |
-| 106 | Betnijah Laney-Hamilton | 585 |
+| 106 | **Betnijah Laney-Hamilton** 🔴 | 585 |
 | 107 | Tan White | 578 |
 | 108 | Matee Ajavon | 577 |
 | 109 | Gabby Williams | 572 |
@@ -1002,7 +1002,7 @@ _Last updated: 2026-06-14 19:22 UTC_
 | 160 | Tiffany Mitchell | 209 |
 | 162 | Kia Vaughn | 208 |
 | 162 | Sophia Witherspoon | 208 |
-| 164 | Betnijah Laney-Hamilton | 207 |
+| 164 | **Betnijah Laney-Hamilton** 🔴 | 207 |
 | 165 | Azurá Stevens | 205 |
 | 165 | Shameka Christon | 205 |
 | 167 | Jessica Breland | 204 |
@@ -1151,7 +1151,7 @@ _Last updated: 2026-06-14 19:22 UTC_
 | 105 | Damiris Dantas | 211 |
 | 105 | Erin Phillips | 211 |
 | 107 | Andrea Stinson | 207 |
-| 108 | Betnijah Laney-Hamilton | 204 |
+| 108 | **Betnijah Laney-Hamilton** 🔴 | 204 |
 | 109 | Lexie Brown | 203 |
 | 110 | Shanna Zolman | 199 |
 | 111 | Temeka Johnson | 197 |
@@ -1373,7 +1373,7 @@ _Last updated: 2026-06-14 19:22 UTC_
 | 122 | Ariel Atkins | 454 |
 | 122 | Kia Vaughn | 454 |
 | 124 | Janeth Arcain | 453 |
-| 125 | Betnijah Laney-Hamilton | 444 |
+| 125 | **Betnijah Laney-Hamilton** 🔴 | 444 |
 | 125 | Elena Baranova | 444 |
 | 125 | Jantel Lavender | 444 |
 | 128 | Jackie Young | 441 |
