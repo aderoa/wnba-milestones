@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-14 20:19 UTC_
+_Last updated: 2026-06-14 20:20 UTC_
 
 ## Contents
 
@@ -195,7 +195,7 @@ _Last updated: 2026-06-14 20:19 UTC_
 | 174 | Ebony Hoffman | 1,909 |
 | 175 | Candice Wiggins | 1,901 |
 | 176 | Natisha Hiedeman | 1,858 |
-| 177 | **Isabelle Harrison** 🔴 +15 | 1,847 |
+| 177 | **Isabelle Harrison** 🔴 +17 | 1,849 |
 | 178 | Damiris Dantas | 1,830 |
 | 179 | Tianna Hawkins | 1,825 |
 | 180 | Noelle Quinn | 1,824 |
@@ -295,8 +295,8 @@ _Last updated: 2026-06-14 20:19 UTC_
 | 69 | Alana Beard | 1,420 |
 | 70 | Nakia Sanford | 1,419 |
 | 71 | Kara Braxton | 1,387 |
-| 72 | **Allisha Gray** 🔴 +1 | 1,385 |
-| 72 | Monique Billings | 1,385 |
+| 72 | **Allisha Gray** 🔴 +2 | 1,386 |
+| 73 | Monique Billings | 1,385 |
 | 74 | Courtney Vandersloot | 1,383 |
 | 74 | Katie Smith | 1,383 |
 | 76 | Ebony Hoffman | 1,376 |
@@ -344,7 +344,7 @@ _Last updated: 2026-06-14 20:19 UTC_
 | 118 | Ann Wauters | 1,105 |
 | 119 | Svetlana Abrosimova | 1,078 |
 | 120 | Le'coe Willingham | 1,054 |
-| 121 | **Isabelle Harrison** 🔴 +2 | 1,051 |
+| 121 | **Isabelle Harrison** 🔴 +3 | 1,052 |
 | 122 | Jackie Young | 1,044 |
 | 123 | Nicole Ohlde | 1,040 |
 | 124 | Tamecka Dixon | 1,035 |
@@ -408,7 +408,7 @@ _Last updated: 2026-06-14 20:19 UTC_
 | 181 | Kelsey Bone | 769 |
 | 181 | Tan White | 769 |
 | 184 | Tully Bevilaqua | 767 |
-| 185 | **Shakira Austin** 🔴 +5 | 763 |
+| 185 | **Shakira Austin** 🔴 +6 | 764 |
 | 186 | Layshia Clarendon | 756 |
 | 187 | Brooke Wyckoff | 751 |
 | 188 | Coco Miller | 750 |
@@ -493,7 +493,7 @@ _Last updated: 2026-06-14 20:19 UTC_
 | 62 | Taj McWilliams-Franklin | 879 |
 | 63 | Noelle Quinn | 878 |
 | 64 | Lisa Leslie | 873 |
-| 65 | **Brittney Sykes** 🔴 +2 | 854 |
+| 65 | **Brittney Sykes** 🔴 +3 | 855 |
 | 66 | Tully Bevilaqua | 853 |
 | 67 | Jia Perkins | 837 |
 | 68 | Kelsey Mitchell | 821 |
@@ -648,7 +648,7 @@ _Last updated: 2026-06-14 20:19 UTC_
 | 12 | Taj McWilliams-Franklin | 443 |
 | 13 | **Breanna Stewart** 🔴 +5 | 441 |
 | 14 | Tina Charles | 428 |
-| 15 | **Jonquel Jones** 🔴 +1 | 416 |
+| 15 | **Jonquel Jones** 🔴 +2 | 417 |
 | 16 | Michelle Snow | 403 |
 | 17 | Tamika Catchings | 383 |
 | 18 | Tina Thompson | 372 |
