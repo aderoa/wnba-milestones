@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-14 03:53 UTC_
+_Last updated: 2026-06-14 03:54 UTC_
 
 ## Contents
 
@@ -63,7 +63,7 @@ _Last updated: 2026-06-14 03:53 UTC_
 | 42 | Kristi Toliver | 4,474 |
 | 43 | Crystal Langhorne | 4,433 |
 | 43 | Jia Perkins | 4,433 |
-| 45 | **Kelsey Plum** 🔴 +33 | 4,428 |
+| 45 | **Kelsey Plum** 🔴 +36 | 4,431 |
 | 46 | Courtney Vandersloot | 4,352 |
 | 47 | Allisha Gray | 4,339 |
 | 48 | **Kahleah Copper** 🔴 +36 | 4,319 |
@@ -514,7 +514,7 @@ _Last updated: 2026-06-14 03:53 UTC_
 | 83 | Moriah Jefferson | 685 |
 | 84 | Emma Meesseman | 681 |
 | 85 | Nykesha Sales | 677 |
-| 86 | **Ariel Atkins** 🔴 +1 | 665 |
+| 86 | **Ariel Atkins** 🔴 +2 | 666 |
 | 87 | Bria Hartley | 661 |
 | 88 | Lindsay Allen | 657 |
 | 89 | Brittney Griner | 652 |
@@ -1055,7 +1055,7 @@ _Last updated: 2026-06-14 03:53 UTC_
 | 9 | Jewell Loyd | 680 |
 | 10 | **DeWanna Bonner** 🔴 +3 | 675 |
 | 11 | Kristi Toliver | 651 |
-| 12 | **Kelsey Plum** 🔴 +3 | 612 |
+| 12 | **Kelsey Plum** 🔴 +4 | 613 |
 | 13 | Tamika Catchings | 605 |
 | 14 | Kara Lawson | 583 |
 | 15 | Nicole Powell | 579 |
