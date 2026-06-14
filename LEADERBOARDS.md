@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-14 00:41 UTC_
+_Last updated: 2026-06-14 00:42 UTC_
 
 ## Contents
 
@@ -37,7 +37,7 @@ _Last updated: 2026-06-14 00:41 UTC_
 | 16 | Brittney Griner | 6,041 |
 | 17 | Lauren Jackson | 6,005 |
 | 17 | Seimone Augustus | 6,005 |
-| 19 | **A'ja Wilson** 🔴 +10 | 5,952 |
+| 19 | **A'ja Wilson** 🔴 +12 | 5,954 |
 | 20 | Becky Hammon | 5,816 |
 | 21 | Angel McCoughtry | 5,797 |
 | 22 | Skylar Diggins | 5,626 |
@@ -59,7 +59,7 @@ _Last updated: 2026-06-14 00:41 UTC_
 | 38 | **Arike Ogunbowale** 🔴 | 4,612 |
 | 39 | Penny Taylor | 4,595 |
 | 40 | **Natasha Howard** 🔴 +8 | 4,536 |
-| 41 | **Chelsea Gray** 🔴 +13 | 4,519 |
+| 41 | **Chelsea Gray** 🔴 +16 | 4,522 |
 | 42 | Kristi Toliver | 4,474 |
 | 43 | Crystal Langhorne | 4,433 |
 | 43 | Jia Perkins | 4,433 |
@@ -367,7 +367,7 @@ _Last updated: 2026-06-14 00:41 UTC_
 | 141 | Dominique Canty | 961 |
 | 142 | Armintie Herrington | 960 |
 | 143 | Janell Burse | 944 |
-| 144 | **Jessica Shepard** 🔴 +3 | 930 |
+| 144 | **Jessica Shepard** 🔴 +5 | 932 |
 | 145 | Merlakia Jones | 927 |
 | 146 | Satou Sabally | 926 |
 | 147 | Angel Reese | 923 |
@@ -463,8 +463,8 @@ _Last updated: 2026-06-14 00:41 UTC_
 | 32 | **Jewell Loyd** 🔴 +1 | 1,145 |
 | 33 | Renee Montgomery | 1,140 |
 | 34 | Swin Cash | 1,131 |
-| 35 | **Jackie Young** 🔴 +3 | 1,090 |
-| 35 | Lindsey Harding | 1,090 |
+| 35 | **Jackie Young** 🔴 +4 | 1,091 |
+| 36 | Lindsey Harding | 1,090 |
 | 37 | Sabrina Ionescu | 1,074 |
 | 38 | Katie Douglas | 1,069 |
 | 39 | Alana Beard | 1,061 |
@@ -1077,7 +1077,7 @@ _Last updated: 2026-06-14 00:41 UTC_
 | 31 | Lauren Jackson | 436 |
 | 32 | Skylar Diggins | 435 |
 | 33 | Shameka Christon | 434 |
-| 34 | **Chelsea Gray** 🔴 +4 | 429 |
+| 34 | **Chelsea Gray** 🔴 +5 | 430 |
 | 35 | Crystal Robinson | 425 |
 | 36 | Mwadi Mabika | 415 |
 | 37 | Penny Taylor | 407 |
