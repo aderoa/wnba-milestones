@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-14 19:43 UTC_
+_Last updated: 2026-06-14 19:44 UTC_
 
 ## Contents
 
@@ -143,7 +143,7 @@ _Last updated: 2026-06-14 19:43 UTC_
 | 122 | Glory Johnson | 2,531 |
 | 123 | Nikki McCray | 2,521 |
 | 124 | Crystal Robinson | 2,496 |
-| 125 | **Rhyne Howard** 🔴 +9 | 2,481 |
+| 125 | **Rhyne Howard** 🔴 +12 | 2,484 |
 | 126 | Tiffany Mitchell | 2,480 |
 | 127 | Ruth Riley | 2,434 |
 | 128 | Svetlana Abrosimova | 2,414 |
@@ -344,7 +344,7 @@ _Last updated: 2026-06-14 19:43 UTC_
 | 118 | Ann Wauters | 1,105 |
 | 119 | Svetlana Abrosimova | 1,078 |
 | 120 | Le'coe Willingham | 1,054 |
-| 121 | **Isabelle Harrison** 🔴 | 1,049 |
+| 121 | **Isabelle Harrison** 🔴 +1 | 1,050 |
 | 122 | Jackie Young | 1,044 |
 | 123 | Nicole Ohlde | 1,040 |
 | 124 | Tamecka Dixon | 1,035 |
@@ -502,8 +502,8 @@ _Last updated: 2026-06-14 19:43 UTC_
 | 71 | Epiphanny Prince | 800 |
 | 72 | Mwadi Mabika | 774 |
 | 73 | **Marina Mabrey** 🔴 +1 | 773 |
-| 74 | **Allisha Gray** 🔴 +2 | 745 |
-| 74 | Sheri Sam | 745 |
+| 74 | **Allisha Gray** 🔴 +3 | 746 |
+| 75 | Sheri Sam | 745 |
 | 76 | Monique Currie | 740 |
 | 77 | Elaine Powell | 728 |
 | 78 | Dearica Hamby | 718 |
@@ -646,7 +646,7 @@ _Last updated: 2026-06-14 19:43 UTC_
 | 10 | Ruth Riley | 505 |
 | 11 | Elizabeth Williams | 493 |
 | 12 | Taj McWilliams-Franklin | 443 |
-| 13 | **Breanna Stewart** 🔴 +2 | 438 |
+| 13 | **Breanna Stewart** 🔴 +3 | 439 |
 | 14 | Tina Charles | 428 |
 | 15 | **Jonquel Jones** 🔴 +1 | 416 |
 | 16 | Michelle Snow | 403 |
@@ -1083,7 +1083,7 @@ _Last updated: 2026-06-14 19:43 UTC_
 | 37 | Penny Taylor | 407 |
 | 37 | Riquna Williams | 407 |
 | 39 | Jia Perkins | 396 |
-| 40 | **Rhyne Howard** 🔴 +1 | 395 |
+| 39 | **Rhyne Howard** 🔴 +2 | 396 |
 | 41 | Alysha Clark | 394 |
 | 42 | Roneeka Hodges | 389 |
 | 43 | Courtney Vandersloot | 385 |
@@ -1171,8 +1171,8 @@ _Last updated: 2026-06-14 19:43 UTC_
 | 124 | Tayler Hill | 174 |
 | 126 | Theresa Plaisance | 172 |
 | 127 | Caitlin Clark | 171 |
-| 128 | Amanda Lassiter | 170 |
-| 128 | **Marine Johannès** 🔴 +2 | 170 |
+| 127 | **Marine Johannès** 🔴 +3 | 171 |
+| 129 | Amanda Lassiter | 170 |
 | 130 | Shavonte Zellous | 167 |
 | 130 | Tianna Hawkins | 167 |
 | 132 | Charlotte Smith | 164 |

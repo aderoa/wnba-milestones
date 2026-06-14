@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-14T19:44:00+00:00",
+    "text": "Marine Johann\u00e8s passed Amanda Lassiter for #128 all-time in three-pointers (career 171) \u2014 up from #129 entering today \u2014 (4:23 - 2nd \u2014 WSH @ NY)",
+    "kind": "rank_pass",
+    "player": "Marine Johann\u00e8s",
+    "stat": "three-pointers",
+    "rank": 128,
+    "passed_players": [
+      "Amanda Lassiter"
+    ],
+    "new_total": 171
+  },
+  {
     "ts": "2026-06-14T19:31:00+00:00",
     "text": "Sabrina Ionescu passed Marie Ferdinand-Harris for #102 all-time in turnovers (career 519) \u2014 up from #103 entering today \u2014 (9:13 - 2nd \u2014 WSH @ NY)",
     "kind": "rank_pass",
@@ -2957,17 +2969,5 @@
       "Temeka Johnson"
     ],
     "new_total": 682
-  },
-  {
-    "ts": "2026-06-06T12:04:00+00:00",
-    "text": "Ariel Atkins passed Ivory Latta for #77 all-time in points (career 3,458) \u2014 up from #78 entering today \u2014 (Final \u2014 DAL @ LA)",
-    "kind": "rank_pass",
-    "player": "Ariel Atkins",
-    "stat": "points",
-    "rank": 77,
-    "passed_players": [
-      "Ivory Latta"
-    ],
-    "new_total": 3458
   }
 ]

@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-14 19:44 UTC
+
+- **Marine Johannès** passed **Amanda Lassiter** for **#128** all-time in three-pointers (career 171) — up from #129 entering today — _4:23 - 2nd — WSH @ NY_
+
 ## 2026-06-14 19:31 UTC
 
 - **Sabrina Ionescu** passed **Marie Ferdinand-Harris** for **#102** all-time in turnovers (career 519) — up from #103 entering today — _9:13 - 2nd — WSH @ NY_
