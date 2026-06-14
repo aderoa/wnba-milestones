@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-14 02:34 UTC_
+_Last updated: 2026-06-14 02:35 UTC_
 
 ## Contents
 
@@ -63,7 +63,7 @@ _Last updated: 2026-06-14 02:34 UTC_
 | 42 | Kristi Toliver | 4,474 |
 | 43 | Crystal Langhorne | 4,433 |
 | 43 | Jia Perkins | 4,433 |
-| 45 | **Kelsey Plum** 🔴 +5 | 4,400 |
+| 45 | **Kelsey Plum** 🔴 +7 | 4,402 |
 | 46 | Courtney Vandersloot | 4,352 |
 | 47 | Allisha Gray | 4,339 |
 | 48 | Sophia Young-Malcolm | 4,300 |
@@ -228,10 +228,10 @@ _Last updated: 2026-06-14 02:34 UTC_
 | 2 | Sylvia Fowles | 4,005 |
 | 3 | Candace Parker | 3,467 |
 | 4 | Rebekkah Brunson | 3,345 |
-| 5 | **Nneka Ogwumike** 🔴 +3 | 3,340 |
+| 5 | **Nneka Ogwumike** 🔴 +4 | 3,341 |
 | 6 | Tamika Catchings | 3,313 |
 | 7 | Lisa Leslie | 3,303 |
-| 8 | **DeWanna Bonner** 🔴 | 3,260 |
+| 8 | **DeWanna Bonner** 🔴 +1 | 3,261 |
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
@@ -397,8 +397,8 @@ _Last updated: 2026-06-14 02:34 UTC_
 | 170 | Gabby Williams | 795 |
 | 172 | Charlotte Smith | 794 |
 | 173 | Rhonda Mapp | 788 |
-| 174 | **Ariel Atkins** 🔴 | 786 |
-| 174 | Mercedes Russell | 786 |
+| 174 | **Ariel Atkins** 🔴 +1 | 787 |
+| 175 | Mercedes Russell | 786 |
 | 176 | Odyssey Sims | 785 |
 | 177 | Sue Wicks | 780 |
 | 178 | Lindsey Harding | 779 |
@@ -1261,7 +1261,7 @@ _Last updated: 2026-06-14 02:34 UTC_
 | 10 | Candace Parker | 1,062 |
 | 11 | Tamika Catchings | 1,041 |
 | 12 | Tina Charles | 1,040 |
-| 13 | **Alyssa Thomas** 🔴 | 1,003 |
+| 13 | **Alyssa Thomas** 🔴 +1 | 1,004 |
 | 14 | Lindsay Whalen | 1,002 |
 | 15 | Sylvia Fowles | 961 |
 | 16 | Tanisha Wright | 954 |
@@ -1492,8 +1492,8 @@ _Last updated: 2026-06-14 02:34 UTC_
 | 36 | Tamika Whitmore | 940 |
 | 37 | Courtney Vandersloot | 938 |
 | 38 | Briann January | 921 |
-| 39 | **DeWanna Bonner** 🔴 +2 | 914 |
-| 40 | Ticha Penicheiro | 913 |
+| 39 | **DeWanna Bonner** 🔴 +1 | 913 |
+| 39 | Ticha Penicheiro | 913 |
 | 41 | Shavonte Zellous | 907 |
 | 42 | **Alysha Clark** 🔴 +2 | 898 |
 | 43 | Jonquel Jones | 890 |
