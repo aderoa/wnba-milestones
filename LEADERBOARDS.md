@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-14 00:18 UTC_
+_Last updated: 2026-06-14 00:19 UTC_
 
 ## Contents
 
@@ -34,10 +34,10 @@ _Last updated: 2026-06-14 00:18 UTC_
 | 13 | Lisa Leslie | 6,251 |
 | 14 | Breanna Stewart | 6,173 |
 | 15 | **Jewell Loyd** 🔴 | 6,078 |
-| 16 | **Brittney Griner** 🔴 +8 | 6,039 |
+| 16 | **Brittney Griner** 🔴 +10 | 6,041 |
 | 17 | Lauren Jackson | 6,005 |
 | 17 | Seimone Augustus | 6,005 |
-| 19 | **A'ja Wilson** 🔴 +2 | 5,944 |
+| 19 | **A'ja Wilson** 🔴 +3 | 5,945 |
 | 20 | Becky Hammon | 5,816 |
 | 21 | Angel McCoughtry | 5,797 |
 | 22 | Skylar Diggins | 5,626 |
@@ -137,7 +137,7 @@ _Last updated: 2026-06-14 00:18 UTC_
 | 116 | Temeka Johnson | 2,620 |
 | 117 | Leilani Mitchell | 2,618 |
 | 118 | Cynthia Cooper | 2,601 |
-| 119 | Cheyenne Parker-Tyus | 2,599 |
+| 119 | **Cheyenne Parker-Tyus** 🔴 | 2,599 |
 | 120 | Tan White | 2,595 |
 | 121 | Kelly Miller | 2,558 |
 | 122 | Glory Johnson | 2,531 |
@@ -204,8 +204,8 @@ _Last updated: 2026-06-14 00:18 UTC_
 | 183 | Charde Houston | 1,797 |
 | 184 | **NaLyssa Smith** 🔴 +6 | 1,781 |
 | 185 | Kamila Vodichkova | 1,767 |
+| 186 | **Sophie Cunningham** 🔴 +11 | 1,763 |
 | 186 | Tully Bevilaqua | 1,763 |
-| 187 | **Sophie Cunningham** 🔴 +8 | 1,760 |
 | 188 | Sandy Brondello | 1,759 |
 | 189 | Sugar Rodgers | 1,733 |
 | 190 | Gabby Williams | 1,723 |
@@ -290,7 +290,7 @@ _Last updated: 2026-06-14 00:18 UTC_
 | 64 | Sue Bird | 1,466 |
 | 65 | Alysha Clark | 1,465 |
 | 66 | Nicole Powell | 1,457 |
-| 67 | Cheyenne Parker-Tyus | 1,442 |
+| 67 | **Cheyenne Parker-Tyus** 🔴 | 1,442 |
 | 68 | Tamera Young | 1,433 |
 | 69 | Alana Beard | 1,420 |
 | 70 | Nakia Sanford | 1,419 |
@@ -594,9 +594,9 @@ _Last updated: 2026-06-14 00:18 UTC_
 | 162 | Murriel Page | 410 |
 | 164 | Allison Feaster | 406 |
 | 165 | Rita Williams | 403 |
+| 166 | **Aliyah Boston** 🔴 +4 | 402 |
 | 166 | Kia Nurse | 402 |
-| 167 | **Aliyah Boston** 🔴 +3 | 401 |
-| 167 | Julie Allemand | 401 |
+| 168 | Julie Allemand | 401 |
 | 169 | Marissa Coleman | 399 |
 | 170 | Jessica Shepard | 395 |
 | 170 | Stacey Dales | 395 |
@@ -670,7 +670,7 @@ _Last updated: 2026-06-14 00:18 UTC_
 | 34 | Liz Cambage | 264 |
 | 35 | Nneka Ogwumike | 263 |
 | 36 | Swin Cash | 258 |
-| 37 | Cheyenne Parker-Tyus | 257 |
+| 37 | **Cheyenne Parker-Tyus** 🔴 | 257 |
 | 38 | Plenette Pierson | 242 |
 | 39 | Napheesa Collier | 239 |
 | 40 | Emma Meesseman | 238 |
@@ -993,7 +993,7 @@ _Last updated: 2026-06-14 00:18 UTC_
 | 150 | Moriah Jefferson | 216 |
 | 153 | Asjha Jones | 215 |
 | 153 | Candice Wiggins | 215 |
-| 153 | Cheyenne Parker-Tyus | 215 |
+| 153 | **Cheyenne Parker-Tyus** 🔴 | 215 |
 | 153 | Elena Baranova | 215 |
 | 157 | Shekinna Stricklen | 213 |
 | 158 | Marina Mabrey | 212 |
@@ -1105,7 +1105,7 @@ _Last updated: 2026-06-14 00:18 UTC_
 | 59 | Anna DeForge | 334 |
 | 60 | Erica Wheeler | 329 |
 | 61 | **Jackie Young** 🔴 | 323 |
-| 62 | **Sophie Cunningham** 🔴 +2 | 319 |
+| 62 | **Sophie Cunningham** 🔴 +3 | 320 |
 | 63 | Sugar Rodgers | 317 |
 | 64 | Marissa Coleman | 315 |
 | 65 | Shannon Johnson | 313 |
@@ -1379,7 +1379,7 @@ _Last updated: 2026-06-14 00:18 UTC_
 | 128 | **Jackie Young** 🔴 +1 | 442 |
 | 129 | Alysha Clark | 440 |
 | 129 | Ann Wauters | 440 |
-| 129 | Cheyenne Parker-Tyus | 440 |
+| 129 | **Cheyenne Parker-Tyus** 🔴 | 440 |
 | 132 | Tiffany Mitchell | 439 |
 | 133 | Kedra Holland-Corn | 438 |
 | 134 | Jennifer Gillom | 434 |
@@ -1551,7 +1551,7 @@ _Last updated: 2026-06-14 00:18 UTC_
 | 94 | Kelsey Plum | 680 |
 | 94 | Temeka Johnson | 680 |
 | 97 | Kelly Miller | 676 |
-| 98 | Cheyenne Parker-Tyus | 674 |
+| 98 | **Cheyenne Parker-Tyus** 🔴 | 674 |
 | 99 | Chamique Holdsclaw | 667 |
 | 100 | Breanna Stewart | 665 |
 | 101 | Tianna Hawkins | 662 |
@@ -1640,8 +1640,8 @@ _Last updated: 2026-06-14 00:18 UTC_
 | 184 | Liz Cambage | 483 |
 | 184 | Rhonda Mapp | 483 |
 | 186 | Sami Whitcomb | 480 |
+| 187 | **Nia Coffey** 🔴 +2 | 477 |
 | 187 | Seimone Augustus | 477 |
-| 188 | **Nia Coffey** 🔴 +1 | 476 |
 | 189 | Allie Quigley | 475 |
 | 190 | Azurá Stevens | 474 |
 | 191 | Kia Nurse | 473 |

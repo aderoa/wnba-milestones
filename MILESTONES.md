@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-14 00:19 UTC
+
+- **Aliyah Boston** passed **Julie Allemand** for **#167** all-time in assists (career 402) — up from #169 entering today — _22.2 - 4th — IND @ CON_
+
 ## 2026-06-14 00:05 UTC
 
 - **Caitlin Clark** passed **Nikki McCray** for **#123** all-time in three-pointers (career 176) — up from #127 entering today — _5:20 - 4th — IND @ CON_
