@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-14 20:26 UTC_
+_Last updated: 2026-06-14 20:27 UTC_
 
 ## Contents
 
@@ -72,7 +72,7 @@ _Last updated: 2026-06-14 20:26 UTC_
 | 51 | Monique Currie | 4,253 |
 | 52 | Dearica Hamby | 4,243 |
 | 53 | Courtney Williams | 4,238 |
-| 54 | **Jonquel Jones** 🔴 +10 | 4,232 |
+| 54 | **Jonquel Jones** 🔴 +12 | 4,234 |
 | 55 | Vickie Johnson | 4,230 |
 | 56 | Yolanda Griffith | 4,224 |
 | 57 | Rebekkah Brunson | 4,133 |
@@ -113,7 +113,7 @@ _Last updated: 2026-06-14 20:26 UTC_
 | 92 | Briann January | 3,082 |
 | 93 | **Marina Mabrey** 🔴 +3 | 3,055 |
 | 94 | Erika de Souza | 3,046 |
-| 95 | **Sabrina Ionescu** 🔴 | 3,041 |
+| 95 | **Sabrina Ionescu** 🔴 +2 | 3,043 |
 | 96 | Shameka Christon | 3,039 |
 | 97 | Marie Ferdinand-Harris | 3,001 |
 | 98 | Emma Meesseman | 2,966 |
@@ -387,7 +387,7 @@ _Last updated: 2026-06-14 20:26 UTC_
 | 161 | Essence Carson | 833 |
 | 162 | Kristi Toliver | 829 |
 | 163 | Marie Ferdinand-Harris | 828 |
-| 164 | **Naz Hillmon** 🔴 +2 | 824 |
+| 164 | **Naz Hillmon** 🔴 +3 | 825 |
 | 165 | Marlies Askamp | 822 |
 | 166 | Amanda Zahui B | 819 |
 | 166 | Barbara Farris | 819 |
@@ -524,7 +524,7 @@ _Last updated: 2026-06-14 20:26 UTC_
 | 93 | A'ja Wilson | 637 |
 | 93 | Asjha Jones | 637 |
 | 95 | Jennifer Azzi | 636 |
-| 96 | **Jonquel Jones** 🔴 | 625 |
+| 96 | **Jonquel Jones** 🔴 +1 | 626 |
 | 97 | Natisha Hiedeman | 624 |
 | 98 | Sami Whitcomb | 623 |
 | 99 | Alysha Clark | 616 |
