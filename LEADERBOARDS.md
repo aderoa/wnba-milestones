@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-14 00:29 UTC_
+_Last updated: 2026-06-14 00:30 UTC_
 
 ## Contents
 
@@ -136,7 +136,7 @@ _Last updated: 2026-06-14 00:29 UTC_
 | 115 | Janeth Arcain | 2,633 |
 | 116 | Temeka Johnson | 2,620 |
 | 117 | Leilani Mitchell | 2,618 |
-| 118 | **Cheyenne Parker-Tyus** 🔴 +4 | 2,603 |
+| 118 | **Cheyenne Parker-Tyus** 🔴 +6 | 2,605 |
 | 119 | Cynthia Cooper | 2,601 |
 | 120 | Tan White | 2,595 |
 | 121 | Kelly Miller | 2,558 |
@@ -202,7 +202,7 @@ _Last updated: 2026-06-14 00:29 UTC_
 | 181 | Rachel Banham | 1,823 |
 | 182 | Danielle Adams | 1,820 |
 | 183 | Charde Houston | 1,797 |
-| 184 | **NaLyssa Smith** 🔴 +6 | 1,781 |
+| 184 | **NaLyssa Smith** 🔴 +8 | 1,783 |
 | 185 | Kamila Vodichkova | 1,767 |
 | 186 | Sophie Cunningham | 1,763 |
 | 186 | Tully Bevilaqua | 1,763 |
@@ -304,7 +304,7 @@ _Last updated: 2026-06-14 00:29 UTC_
 | 78 | Sheri Sam | 1,356 |
 | 79 | Tamika Whitmore | 1,355 |
 | 80 | Emma Meesseman | 1,350 |
-| 81 | **Jewell Loyd** 🔴 | 1,349 |
+| 80 | **Jewell Loyd** 🔴 +1 | 1,350 |
 | 82 | Elena Baranova | 1,335 |
 | 83 | Brionna Jones | 1,333 |
 | 84 | Erlana Larkins | 1,329 |
@@ -336,7 +336,7 @@ _Last updated: 2026-06-14 00:29 UTC_
 | 109 | Tamika Raymond | 1,127 |
 | 111 | Adrienne Goodson | 1,126 |
 | 112 | Aliyah Boston | 1,121 |
-| 113 | **NaLyssa Smith** 🔴 +3 | 1,118 |
+| 113 | **NaLyssa Smith** 🔴 +4 | 1,119 |
 | 114 | Deanna Nolan | 1,112 |
 | 114 | Natasha Cloud | 1,112 |
 | 116 | Chiney Ogwumike | 1,110 |
@@ -460,7 +460,7 @@ _Last updated: 2026-06-14 00:29 UTC_
 | 29 | Jordin Canada | 1,201 |
 | 30 | Leilani Mitchell | 1,197 |
 | 31 | DeWanna Bonner | 1,192 |
-| 32 | **Jewell Loyd** 🔴 | 1,144 |
+| 32 | **Jewell Loyd** 🔴 +1 | 1,145 |
 | 33 | Renee Montgomery | 1,140 |
 | 34 | Swin Cash | 1,131 |
 | 35 | Lindsey Harding | 1,090 |
