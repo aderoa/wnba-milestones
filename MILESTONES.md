@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-14 03:27 UTC
+
+- **Erica Wheeler** passed **Dominique Canty** and **Renee Montgomery** for **#65** all-time in steals (career 357) — up from #68 entering today — _35.8 - 3rd — LA @ PHX_
+
 ## 2026-06-14 02:48 UTC
 
 - **Erica Wheeler** passed **Tamecka Dixon** for **#67** all-time in steals (career 356) — up from #68 entering today — _24.1 - 2nd — LA @ PHX_

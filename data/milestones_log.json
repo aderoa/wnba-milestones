@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-06-14T03:27:00+00:00",
+    "text": "Erica Wheeler passed Dominique Canty and Renee Montgomery for #65 all-time in steals (career 357) \u2014 up from #68 entering today \u2014 (35.8 - 3rd \u2014 LA @ PHX)",
+    "kind": "rank_pass",
+    "player": "Erica Wheeler",
+    "stat": "steals",
+    "rank": 65,
+    "passed_players": [
+      "Dominique Canty",
+      "Renee Montgomery"
+    ],
+    "new_total": 357
+  },
+  {
     "ts": "2026-06-14T02:48:00+00:00",
     "text": "Erica Wheeler passed Tamecka Dixon for #67 all-time in steals (career 356) \u2014 up from #68 entering today \u2014 (24.1 - 2nd \u2014 LA @ PHX)",
     "kind": "rank_pass",
@@ -2956,18 +2969,5 @@
     "stat": "rebounds",
     "value": 500,
     "new_total": 503
-  },
-  {
-    "ts": "2026-06-06T12:04:00+00:00",
-    "text": "Natasha Mack passed Andrea Stinson and Crystal Langhorne for #107 all-time in blocks (career 118) \u2014 up from #109 entering today \u2014 (Final \u2014 PHX @ POR)",
-    "kind": "rank_pass",
-    "player": "Natasha Mack",
-    "stat": "blocks",
-    "rank": 107,
-    "passed_players": [
-      "Andrea Stinson",
-      "Crystal Langhorne"
-    ],
-    "new_total": 118
   }
 ]
