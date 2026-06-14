@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-14 03:24 UTC_
+_Last updated: 2026-06-14 03:25 UTC_
 
 ## Contents
 
@@ -55,7 +55,7 @@ _Last updated: 2026-06-14 03:24 UTC_
 | 34 | Alana Beard | 4,740 |
 | 35 | Chamique Holdsclaw | 4,713 |
 | 36 | Elena Delle Donne | 4,706 |
-| 37 | **Alyssa Thomas** 🔴 +2 | 4,655 |
+| 37 | **Alyssa Thomas** 🔴 +4 | 4,657 |
 | 38 | Arike Ogunbowale | 4,634 |
 | 39 | Penny Taylor | 4,595 |
 | 40 | Natasha Howard | 4,550 |
@@ -1508,10 +1508,10 @@ _Last updated: 2026-06-14 03:24 UTC_
 | 52 | Natalie Williams | 847 |
 | 52 | Tamera Young | 847 |
 | 54 | Candace Parker | 834 |
+| 55 | **Dearica Hamby** 🔴 +3 | 832 |
 | 55 | Penny Taylor | 832 |
-| 56 | **Dearica Hamby** 🔴 +2 | 831 |
-| 56 | Dominique Canty | 831 |
-| 56 | Wendy Palmer | 831 |
+| 57 | Dominique Canty | 831 |
+| 57 | Wendy Palmer | 831 |
 | 59 | Shannon Johnson | 813 |
 | 59 | Tully Bevilaqua | 813 |
 | 61 | Skylar Diggins | 812 |
