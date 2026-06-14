@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-14T21:01:00+00:00",
+    "text": "Sabrina Ionescu passed Tianna Hawkins for #131 all-time in rebounds (career 1,001) \u2014 up from #133 entering today \u2014 (2:21 - 4th \u2014 WSH @ NY)",
+    "kind": "rank_pass",
+    "player": "Sabrina Ionescu",
+    "stat": "rebounds",
+    "rank": 131,
+    "passed_players": [
+      "Tianna Hawkins"
+    ],
+    "new_total": 1001
+  },
+  {
     "ts": "2026-06-14T20:59:00+00:00",
     "text": "Jonquel Jones passed Elaine Powell and Loree Moore for #121 all-time in steals (career 256) \u2014 up from #124 entering today \u2014 (3:43 - 4th \u2014 WSH @ NY)",
     "kind": "rank_pass",
@@ -2962,17 +2974,5 @@
       "Coco Miller"
     ],
     "new_total": 754
-  },
-  {
-    "ts": "2026-06-06T12:04:00+00:00",
-    "text": "Arike Ogunbowale passed DeLisha Milton-Jones for #52 all-time in assists (career 924) \u2014 up from #53 entering today \u2014 (Final \u2014 DAL @ LA)",
-    "kind": "rank_pass",
-    "player": "Arike Ogunbowale",
-    "stat": "assists",
-    "rank": 52,
-    "passed_players": [
-      "DeLisha Milton-Jones"
-    ],
-    "new_total": 924
   }
 ]

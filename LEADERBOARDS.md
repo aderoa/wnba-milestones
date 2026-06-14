@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-14 21:00 UTC_
+_Last updated: 2026-06-14 21:01 UTC_
 
 ## Contents
 
@@ -64,14 +64,14 @@ _Last updated: 2026-06-14 21:00 UTC_
 | 43 | Crystal Langhorne | 4,433 |
 | 43 | Jia Perkins | 4,433 |
 | 45 | Kelsey Plum | 4,395 |
-| 46 | **Allisha Gray** 🔴 +20 | 4,359 |
+| 46 | **Allisha Gray** 🔴 +23 | 4,362 |
 | 47 | Courtney Vandersloot | 4,352 |
 | 48 | Sophia Young-Malcolm | 4,300 |
 | 49 | Kahleah Copper | 4,283 |
 | 50 | Plenette Pierson | 4,258 |
 | 51 | Monique Currie | 4,253 |
 | 52 | Dearica Hamby | 4,243 |
-| 53 | **Jonquel Jones** 🔴 +18 | 4,240 |
+| 53 | **Jonquel Jones** 🔴 +20 | 4,242 |
 | 54 | Courtney Williams | 4,238 |
 | 55 | Vickie Johnson | 4,230 |
 | 56 | Yolanda Griffith | 4,224 |
@@ -354,8 +354,8 @@ _Last updated: 2026-06-14 21:00 UTC_
 | 128 | Kelly Miller | 1,011 |
 | 128 | Noelle Quinn | 1,011 |
 | 130 | Tiffany Jackson | 1,002 |
-| 131 | **Sabrina Ionescu** 🔴 +2 | 1,000 |
-| 131 | Tianna Hawkins | 1,000 |
+| 131 | **Sabrina Ionescu** 🔴 +3 | 1,001 |
+| 132 | Tianna Hawkins | 1,000 |
 | 133 | Damiris Dantas | 999 |
 | 134 | Marissa Coleman | 995 |
 | 135 | Kristen Rasmussen | 993 |
@@ -465,7 +465,7 @@ _Last updated: 2026-06-14 21:00 UTC_
 | 34 | Swin Cash | 1,131 |
 | 35 | Lindsey Harding | 1,090 |
 | 36 | Jackie Young | 1,087 |
-| 37 | **Sabrina Ionescu** 🔴 +2 | 1,076 |
+| 37 | **Sabrina Ionescu** 🔴 +3 | 1,077 |
 | 38 | Katie Douglas | 1,069 |
 | 39 | Alana Beard | 1,061 |
 | 40 | Penny Taylor | 1,049 |
@@ -1073,7 +1073,7 @@ _Last updated: 2026-06-14 21:00 UTC_
 | 27 | **Breanna Stewart** 🔴 +1 | 461 |
 | 28 | Ariel Atkins | 451 |
 | 28 | Tiffany Hayes | 451 |
-| 30 | **Allisha Gray** 🔴 +3 | 448 |
+| 30 | **Allisha Gray** 🔴 +4 | 449 |
 | 31 | Lauren Jackson | 436 |
 | 32 | Skylar Diggins | 435 |
 | 33 | Shameka Christon | 434 |
@@ -1350,7 +1350,7 @@ _Last updated: 2026-06-14 21:00 UTC_
 | 99 | Leilani Mitchell | 525 |
 | 99 | Nicole Powell | 525 |
 | 101 | Arike Ogunbowale | 520 |
-| 102 | **Sabrina Ionescu** 🔴 +1 | 519 |
+| 101 | **Sabrina Ionescu** 🔴 +2 | 520 |
 | 103 | Marie Ferdinand-Harris | 518 |
 | 104 | Shavonte Zellous | 517 |
 | 104 | Wendy Palmer | 517 |

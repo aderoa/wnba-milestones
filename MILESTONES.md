@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-14 21:01 UTC
+
+- **Sabrina Ionescu** passed **Tianna Hawkins** for **#131** all-time in rebounds (career 1,001) — up from #133 entering today — _2:21 - 4th — WSH @ NY_
+
 ## 2026-06-14 20:59 UTC
 
 - **Jonquel Jones** passed **Elaine Powell** and **Loree Moore** for **#121** all-time in steals (career 256) — up from #124 entering today — _3:43 - 4th — WSH @ NY_
