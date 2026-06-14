@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-14 19:35 UTC_
+_Last updated: 2026-06-14 19:36 UTC_
 
 ## Contents
 
@@ -195,7 +195,7 @@ _Last updated: 2026-06-14 19:35 UTC_
 | 174 | Ebony Hoffman | 1,909 |
 | 175 | Candice Wiggins | 1,901 |
 | 176 | Natisha Hiedeman | 1,858 |
-| 177 | **Isabelle Harrison** 🔴 +11 | 1,843 |
+| 177 | **Isabelle Harrison** 🔴 +13 | 1,845 |
 | 178 | Damiris Dantas | 1,830 |
 | 179 | Tianna Hawkins | 1,825 |
 | 180 | Noelle Quinn | 1,824 |
@@ -370,7 +370,7 @@ _Last updated: 2026-06-14 19:35 UTC_
 | 144 | **Angel Reese** 🔴 +4 | 927 |
 | 144 | Jessica Shepard | 927 |
 | 144 | Merlakia Jones | 927 |
-| 147 | **Satou Sabally** 🔴 | 926 |
+| 144 | **Satou Sabally** 🔴 +1 | 927 |
 | 148 | Nicky Anosike | 922 |
 | 149 | Janeth Arcain | 916 |
 | 150 | Karima Christmas-Kelly | 908 |
@@ -1593,8 +1593,8 @@ _Last updated: 2026-06-14 19:35 UTC_
 | 137 | Jessica Breland | 562 |
 | 138 | Dawn Staley | 551 |
 | 139 | Glory Johnson | 550 |
+| 139 | **Marina Mabrey** 🔴 +2 | 550 |
 | 139 | Tierra Ruffin-Pratt | 550 |
-| 141 | **Marina Mabrey** 🔴 +1 | 549 |
 | 142 | Erlana Larkins | 546 |
 | 143 | Jayne Appel Marinelli | 543 |
 | 143 | Renee Montgomery | 543 |
