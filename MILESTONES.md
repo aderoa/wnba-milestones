@@ -2,6 +2,11 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-14 20:58 UTC
+
+- **Satou Sabally** passed **Sylvia Fowles** for **#139** all-time in assists (career 462) — up from #140 entering today — _3:55 - 4th — WSH @ NY_
+- **Satou Sabally** passed **Aerial Powers** and **Diamond DeShields** for **#173** all-time in turnovers (career 334) — up from #176 entering today — _3:55 - 4th — WSH @ NY_
+
 ## 2026-06-14 20:50 UTC
 
 - **Jonquel Jones** passed **Courtney Williams** for **#53** all-time in points (career 4,240) — up from #56 entering today — _7:08 - 4th — WSH @ NY_

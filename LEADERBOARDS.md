@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-14 20:57 UTC_
+_Last updated: 2026-06-14 20:58 UTC_
 
 ## Contents
 
@@ -32,7 +32,7 @@ _Last updated: 2026-06-14 20:57 UTC_
 | 11 | Katie Smith | 6,450 |
 | 12 | Sylvia Fowles | 6,413 |
 | 13 | Lisa Leslie | 6,251 |
-| 14 | **Breanna Stewart** 🔴 +12 | 6,185 |
+| 14 | **Breanna Stewart** 🔴 +14 | 6,187 |
 | 15 | Jewell Loyd | 6,078 |
 | 16 | Brittney Griner | 6,031 |
 | 17 | Lauren Jackson | 6,005 |
@@ -64,7 +64,7 @@ _Last updated: 2026-06-14 20:57 UTC_
 | 43 | Crystal Langhorne | 4,433 |
 | 43 | Jia Perkins | 4,433 |
 | 45 | Kelsey Plum | 4,395 |
-| 46 | **Allisha Gray** 🔴 +18 | 4,357 |
+| 46 | **Allisha Gray** 🔴 +20 | 4,359 |
 | 47 | Courtney Vandersloot | 4,352 |
 | 48 | Sophia Young-Malcolm | 4,300 |
 | 49 | Kahleah Copper | 4,283 |
@@ -83,7 +83,7 @@ _Last updated: 2026-06-14 20:57 UTC_
 | 62 | Allie Quigley | 3,786 |
 | 63 | Chasity Melvin | 3,781 |
 | 64 | Kara Lawson | 3,670 |
-| 65 | **Brittney Sykes** 🔴 +9 | 3,630 |
+| 65 | **Brittney Sykes** 🔴 +11 | 3,632 |
 | 66 | Mwadi Mabika | 3,576 |
 | 67 | Odyssey Sims | 3,574 |
 | 68 | Camille Smith | 3,551 |
@@ -456,7 +456,7 @@ _Last updated: 2026-06-14 20:57 UTC_
 | 25 | Katie Smith | 1,258 |
 | 26 | Kelsey Plum | 1,237 |
 | 27 | Odyssey Sims | 1,228 |
-| 28 | **Jordin Canada** 🔴 +7 | 1,208 |
+| 28 | **Jordin Canada** 🔴 +8 | 1,209 |
 | 29 | Vickie Johnson | 1,202 |
 | 30 | Leilani Mitchell | 1,197 |
 | 31 | DeWanna Bonner | 1,192 |
@@ -567,8 +567,8 @@ _Last updated: 2026-06-14 20:57 UTC_
 | 136 | Janeth Arcain | 469 |
 | 137 | Elizabeth Williams | 467 |
 | 138 | Erin Phillips | 462 |
-| 139 | **Satou Sabally** 🔴 +5 | 461 |
-| 139 | Sylvia Fowles | 461 |
+| 138 | **Satou Sabally** 🔴 +6 | 462 |
+| 140 | Sylvia Fowles | 461 |
 | 141 | Sydney Colson | 454 |
 | 141 | Tyasha Harris | 454 |
 | 143 | Yolanda Griffith | 451 |
@@ -893,8 +893,8 @@ _Last updated: 2026-06-14 20:57 UTC_
 | 52 | Swin Cash | 384 |
 | 52 | Tina Charles | 384 |
 | 54 | Tiffany Hayes | 382 |
-| 55 | Ariel Atkins | 380 |
-| 55 | **Jordin Canada** 🔴 | 380 |
+| 55 | **Jordin Canada** 🔴 +1 | 381 |
+| 56 | Ariel Atkins | 380 |
 | 57 | Monique Currie | 378 |
 | 58 | Chamique Holdsclaw | 376 |
 | 59 | Mwadi Mabika | 370 |
@@ -1421,9 +1421,9 @@ _Last updated: 2026-06-14 20:57 UTC_
 | 170 | Teaira McCowan | 338 |
 | 171 | Charlotte Smith | 337 |
 | 172 | Scholanda Dorrell | 335 |
-| 173 | Aerial Powers | 333 |
-| 173 | Diamond DeShields | 333 |
-| 173 | **Satou Sabally** 🔴 +3 | 333 |
+| 173 | **Satou Sabally** 🔴 +4 | 334 |
+| 174 | Aerial Powers | 333 |
+| 174 | Diamond DeShields | 333 |
 | 176 | Charde Houston | 331 |
 | 177 | Erlana Larkins | 326 |
 | 177 | Rita Williams | 326 |
@@ -1652,5 +1652,5 @@ _Last updated: 2026-06-14 20:57 UTC_
 | 196 | Natalie Achonwa | 459 |
 | 197 | Kara Lawson | 457 |
 | 198 | NaLyssa Smith | 454 |
-| 199 | **Satou Sabally** 🔴 +2 | 452 |
+| 199 | **Satou Sabally** 🔴 +3 | 453 |
 | 200 | Alexis Hornbuckle | 450 |
