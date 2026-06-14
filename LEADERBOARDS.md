@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-14 01:23 UTC_
+_Last updated: 2026-06-14 01:24 UTC_
 
 ## Contents
 
@@ -59,7 +59,7 @@ _Last updated: 2026-06-14 01:23 UTC_
 | 38 | **Arike Ogunbowale** 🔴 +10 | 4,622 |
 | 39 | Penny Taylor | 4,595 |
 | 40 | **Natasha Howard** 🔴 +18 | 4,546 |
-| 41 | **Chelsea Gray** 🔴 +18 | 4,524 |
+| 41 | **Chelsea Gray** 🔴 +21 | 4,527 |
 | 42 | Kristi Toliver | 4,474 |
 | 43 | Crystal Langhorne | 4,433 |
 | 43 | Jia Perkins | 4,433 |
@@ -69,8 +69,8 @@ _Last updated: 2026-06-14 01:23 UTC_
 | 48 | Sophia Young-Malcolm | 4,300 |
 | 49 | Kahleah Copper | 4,283 |
 | 50 | Plenette Pierson | 4,258 |
+| 51 | **Courtney Williams** 🔴 +15 | 4,253 |
 | 51 | Monique Currie | 4,253 |
-| 52 | **Courtney Williams** 🔴 +13 | 4,251 |
 | 53 | Dearica Hamby | 4,243 |
 | 54 | Vickie Johnson | 4,230 |
 | 55 | Yolanda Griffith | 4,224 |
@@ -90,7 +90,7 @@ _Last updated: 2026-06-14 01:23 UTC_
 | 69 | Napheesa Collier | 3,542 |
 | 69 | Shannon Johnson | 3,542 |
 | 71 | Renee Montgomery | 3,533 |
-| 72 | **Jackie Young** 🔴 +8 | 3,530 |
+| 72 | **Jackie Young** 🔴 +10 | 3,532 |
 | 73 | Jasmine Thomas | 3,522 |
 | 74 | Tamecka Dixon | 3,507 |
 | 75 | Tammy Sutton-Brown | 3,498 |
@@ -290,7 +290,7 @@ _Last updated: 2026-06-14 01:23 UTC_
 | 64 | Sue Bird | 1,466 |
 | 65 | **Alysha Clark** 🔴 | 1,465 |
 | 66 | Nicole Powell | 1,457 |
-| 67 | **Cheyenne Parker-Tyus** 🔴 +1 | 1,443 |
+| 67 | **Cheyenne Parker-Tyus** 🔴 +2 | 1,444 |
 | 68 | Tamera Young | 1,433 |
 | 69 | Alana Beard | 1,420 |
 | 70 | Nakia Sanford | 1,419 |
@@ -463,7 +463,7 @@ _Last updated: 2026-06-14 01:23 UTC_
 | 32 | **Jewell Loyd** 🔴 +2 | 1,146 |
 | 33 | Renee Montgomery | 1,140 |
 | 34 | Swin Cash | 1,131 |
-| 35 | **Jackie Young** 🔴 +6 | 1,093 |
+| 35 | **Jackie Young** 🔴 +7 | 1,094 |
 | 36 | Lindsey Harding | 1,090 |
 | 37 | Sabrina Ionescu | 1,074 |
 | 38 | Katie Douglas | 1,069 |
@@ -473,7 +473,7 @@ _Last updated: 2026-06-14 01:23 UTC_
 | 42 | Sheryl Swoopes | 1,037 |
 | 43 | Tina Charles | 1,033 |
 | 44 | Nikki Teasley | 982 |
-| 45 | **Kayla McBride** 🔴 +3 | 971 |
+| 45 | **Kayla McBride** 🔴 +4 | 972 |
 | 46 | Tamecka Dixon | 960 |
 | 47 | Breanna Stewart | 953 |
 | 48 | Kara Lawson | 946 |
@@ -1077,7 +1077,7 @@ _Last updated: 2026-06-14 01:23 UTC_
 | 31 | Lauren Jackson | 436 |
 | 32 | Skylar Diggins | 435 |
 | 33 | Shameka Christon | 434 |
-| 34 | **Chelsea Gray** 🔴 +5 | 430 |
+| 34 | **Chelsea Gray** 🔴 +6 | 431 |
 | 35 | Crystal Robinson | 425 |
 | 36 | Mwadi Mabika | 415 |
 | 37 | Penny Taylor | 407 |
