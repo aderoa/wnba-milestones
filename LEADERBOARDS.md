@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-14 03:56 UTC_
+_Last updated: 2026-06-14 03:57 UTC_
 
 ## Contents
 
@@ -667,7 +667,7 @@ _Last updated: 2026-06-14 03:56 UTC_
 | 30 | Stefanie Dolson | 316 |
 | 32 | Vicky Bullett | 288 |
 | 33 | Rebekkah Brunson | 281 |
-| 34 | **Nneka Ogwumike** 🔴 +2 | 265 |
+| 34 | **Nneka Ogwumike** 🔴 +3 | 266 |
 | 35 | Liz Cambage | 264 |
 | 36 | Swin Cash | 258 |
 | 37 | Cheyenne Parker-Tyus | 257 |
