@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-14 00:39 UTC_
+_Last updated: 2026-06-14 00:40 UTC_
 
 ## Contents
 
@@ -318,7 +318,7 @@ _Last updated: 2026-06-14 00:39 UTC_
 | 92 | Tiffany Hayes | 1,244 |
 | 93 | Ezi Magbegor | 1,243 |
 | 94 | Myisha Hines-Allen | 1,239 |
-| 95 | Brianna Turner | 1,237 |
+| 95 | **Brianna Turner** 🔴 | 1,237 |
 | 96 | Seimone Augustus | 1,228 |
 | 97 | **Kayla McBride** 🔴 +1 | 1,227 |
 | 98 | **Chelsea Gray** 🔴 | 1,221 |
@@ -367,7 +367,7 @@ _Last updated: 2026-06-14 00:39 UTC_
 | 141 | Dominique Canty | 961 |
 | 142 | Armintie Herrington | 960 |
 | 143 | Janell Burse | 944 |
-| 144 | **Jessica Shepard** 🔴 +2 | 929 |
+| 144 | **Jessica Shepard** 🔴 +3 | 930 |
 | 145 | Merlakia Jones | 927 |
 | 146 | Satou Sabally | 926 |
 | 147 | Angel Reese | 923 |
@@ -675,7 +675,7 @@ _Last updated: 2026-06-14 00:39 UTC_
 | 39 | Napheesa Collier | 239 |
 | 40 | Emma Meesseman | 238 |
 | 41 | Azurá Stevens | 233 |
-| 41 | Brianna Turner | 233 |
+| 41 | **Brianna Turner** 🔴 | 233 |
 | 43 | Skylar Diggins | 229 |
 | 44 | Chasity Melvin | 228 |
 | 45 | Alanna Smith | 224 |
@@ -911,8 +911,8 @@ _Last updated: 2026-06-14 00:39 UTC_
 | 70 | Svetlana Abrosimova | 352 |
 | 71 | Natasha Cloud | 349 |
 | 72 | **A'ja Wilson** 🔴 | 346 |
-| 72 | **Arike Ogunbowale** 🔴 +1 | 346 |
 | 72 | Janeth Arcain | 346 |
+| 74 | **Arike Ogunbowale** 🔴 | 345 |
 | 75 | Helen Darling | 343 |
 | 76 | Andrea Stinson | 342 |
 | 77 | Armintie Herrington | 340 |
@@ -1349,7 +1349,7 @@ _Last updated: 2026-06-14 00:39 UTC_
 | 98 | Kara Lawson | 526 |
 | 99 | Leilani Mitchell | 525 |
 | 99 | Nicole Powell | 525 |
-| 101 | **Arike Ogunbowale** 🔴 | 520 |
+| 101 | **Arike Ogunbowale** 🔴 +1 | 521 |
 | 102 | Marie Ferdinand-Harris | 518 |
 | 102 | Sabrina Ionescu | 518 |
 | 104 | Shavonte Zellous | 517 |
@@ -1579,7 +1579,7 @@ _Last updated: 2026-06-14 00:39 UTC_
 | 123 | Janel McCarville | 597 |
 | 124 | Kamila Vodichkova | 596 |
 | 125 | Teresa Weatherspoon | 589 |
-| 126 | **Arike Ogunbowale** 🔴 | 586 |
+| 126 | **Arike Ogunbowale** 🔴 +1 | 587 |
 | 127 | Emma Meesseman | 585 |
 | 128 | Chiney Ogwumike | 580 |
 | 128 | Hamchetou Maiga-Ba | 580 |
