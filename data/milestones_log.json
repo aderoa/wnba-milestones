@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-14T19:31:00+00:00",
+    "text": "Sabrina Ionescu passed Marie Ferdinand-Harris for #102 all-time in turnovers (career 519) \u2014 up from #103 entering today \u2014 (9:13 - 2nd \u2014 WSH @ NY)",
+    "kind": "rank_pass",
+    "player": "Sabrina Ionescu",
+    "stat": "turnovers",
+    "rank": 102,
+    "passed_players": [
+      "Marie Ferdinand-Harris"
+    ],
+    "new_total": 519
+  },
+  {
     "ts": "2026-06-14T19:26:00+00:00",
     "text": "Sabrina Ionescu reached 1,000 career rebounds (now 1,000) \u2014 (20.3 - 1st \u2014 WSH @ NY)",
     "kind": "round",
@@ -2957,18 +2969,5 @@
       "Ivory Latta"
     ],
     "new_total": 3458
-  },
-  {
-    "ts": "2026-06-06T12:04:00+00:00",
-    "text": "Ariel Atkins passed Rhonda Mapp and Mercedes Russell for #173 all-time in rebounds (career 791) \u2014 up from #174 entering today \u2014 (Final \u2014 DAL @ LA)",
-    "kind": "rank_pass",
-    "player": "Ariel Atkins",
-    "stat": "rebounds",
-    "rank": 173,
-    "passed_players": [
-      "Rhonda Mapp",
-      "Mercedes Russell"
-    ],
-    "new_total": 791
   }
 ]

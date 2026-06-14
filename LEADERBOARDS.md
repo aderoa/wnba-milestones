@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-14 19:30 UTC_
+_Last updated: 2026-06-14 19:31 UTC_
 
 ## Contents
 
@@ -456,7 +456,7 @@ _Last updated: 2026-06-14 19:30 UTC_
 | 25 | Katie Smith | 1,258 |
 | 26 | Kelsey Plum | 1,237 |
 | 27 | Odyssey Sims | 1,228 |
-| 28 | **Jordin Canada** 🔴 +4 | 1,205 |
+| 28 | **Jordin Canada** 🔴 +5 | 1,206 |
 | 29 | Vickie Johnson | 1,202 |
 | 30 | Leilani Mitchell | 1,197 |
 | 31 | DeWanna Bonner | 1,192 |
@@ -1350,8 +1350,8 @@ _Last updated: 2026-06-14 19:30 UTC_
 | 99 | Leilani Mitchell | 525 |
 | 99 | Nicole Powell | 525 |
 | 101 | Arike Ogunbowale | 520 |
-| 102 | Marie Ferdinand-Harris | 518 |
-| 102 | **Sabrina Ionescu** 🔴 | 518 |
+| 102 | **Sabrina Ionescu** 🔴 +1 | 519 |
+| 103 | Marie Ferdinand-Harris | 518 |
 | 104 | Shavonte Zellous | 517 |
 | 104 | Wendy Palmer | 517 |
 | 106 | Tully Bevilaqua | 514 |
