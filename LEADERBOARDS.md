@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-14 02:33 UTC_
+_Last updated: 2026-06-14 02:34 UTC_
 
 ## Contents
 
@@ -598,7 +598,7 @@ _Last updated: 2026-06-14 02:33 UTC_
 | 167 | Kia Nurse | 402 |
 | 168 | Julie Allemand | 401 |
 | 169 | Marissa Coleman | 399 |
-| 170 | **Jessica Shepard** 🔴 +1 | 396 |
+| 170 | **Jessica Shepard** 🔴 +2 | 397 |
 | 171 | Stacey Dales | 395 |
 | 172 | Sugar Rodgers | 393 |
 | 173 | Shameka Christon | 389 |
