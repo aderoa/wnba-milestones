@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-14 01:10 UTC_
+_Last updated: 2026-06-14 01:11 UTC_
 
 ## Contents
 
@@ -37,7 +37,7 @@ _Last updated: 2026-06-14 01:10 UTC_
 | 16 | Brittney Griner | 6,041 |
 | 17 | Lauren Jackson | 6,005 |
 | 17 | Seimone Augustus | 6,005 |
-| 19 | **A'ja Wilson** 🔴 +14 | 5,956 |
+| 19 | **A'ja Wilson** 🔴 +17 | 5,959 |
 | 20 | Becky Hammon | 5,816 |
 | 21 | Angel McCoughtry | 5,797 |
 | 22 | Skylar Diggins | 5,626 |
@@ -238,7 +238,7 @@ _Last updated: 2026-06-14 01:10 UTC_
 | 12 | Alyssa Thomas | 2,817 |
 | 13 | Jonquel Jones | 2,663 |
 | 14 | Sancho Lyttle | 2,596 |
-| 15 | **A'ja Wilson** 🔴 +6 | 2,580 |
+| 15 | **A'ja Wilson** 🔴 +7 | 2,581 |
 | 16 | DeLisha Milton-Jones | 2,574 |
 | 17 | Breanna Stewart | 2,560 |
 | 18 | Brittney Griner | 2,558 |
@@ -463,7 +463,7 @@ _Last updated: 2026-06-14 01:10 UTC_
 | 32 | **Jewell Loyd** 🔴 +2 | 1,146 |
 | 33 | Renee Montgomery | 1,140 |
 | 34 | Swin Cash | 1,131 |
-| 35 | **Jackie Young** 🔴 +5 | 1,092 |
+| 35 | **Jackie Young** 🔴 +6 | 1,093 |
 | 36 | Lindsey Harding | 1,090 |
 | 37 | Sabrina Ionescu | 1,074 |
 | 38 | Katie Douglas | 1,069 |
@@ -640,7 +640,7 @@ _Last updated: 2026-06-14 01:10 UTC_
 | 4 | Sylvia Fowles | 721 |
 | 5 | Candace Parker | 619 |
 | 6 | Lauren Jackson | 586 |
-| 7 | **A'ja Wilson** 🔴 | 556 |
+| 7 | **A'ja Wilson** 🔴 +1 | 557 |
 | 8 | Tammy Sutton-Brown | 555 |
 | 9 | Tangela Smith | 554 |
 | 10 | Ruth Riley | 505 |
@@ -872,7 +872,7 @@ _Last updated: 2026-06-14 01:10 UTC_
 | 31 | Skylar Diggins | 454 |
 | 32 | Tina Thompson | 452 |
 | 33 | Maya Moore | 449 |
-| 34 | **Natasha Howard** 🔴 +1 | 448 |
+| 33 | **Natasha Howard** 🔴 +2 | 449 |
 | 35 | **Jewell Loyd** 🔴 +2 | 447 |
 | 36 | **Chelsea Gray** 🔴 +1 | 446 |
 | 37 | Sheri Sam | 438 |
@@ -1367,9 +1367,9 @@ _Last updated: 2026-06-14 01:10 UTC_
 | 116 | Natalie Williams | 480 |
 | 117 | Ebony Hoffman | 470 |
 | 118 | Elaine Powell | 469 |
+| 119 | **A'ja Wilson** 🔴 +1 | 467 |
 | 119 | Allie Quigley | 467 |
-| 120 | **A'ja Wilson** 🔴 | 466 |
-| 120 | Allisha Gray | 466 |
+| 121 | Allisha Gray | 466 |
 | 122 | Ariel Atkins | 454 |
 | 122 | Kia Vaughn | 454 |
 | 124 | Janeth Arcain | 453 |
@@ -1645,7 +1645,7 @@ _Last updated: 2026-06-14 01:10 UTC_
 | 189 | Allie Quigley | 475 |
 | 190 | Azurá Stevens | 474 |
 | 191 | Kia Nurse | 473 |
-| 192 | **Alanna Smith** 🔴 | 470 |
+| 192 | **Alanna Smith** 🔴 +1 | 471 |
 | 193 | Christi Thomas | 463 |
 | 193 | Nikki Teasley | 463 |
 | 195 | Sue Wicks | 462 |
