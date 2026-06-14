@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-14 02:26 UTC_
+_Last updated: 2026-06-14 02:27 UTC_
 
 ## Contents
 
@@ -21,7 +21,7 @@ _Last updated: 2026-06-14 02:26 UTC_
 |-----:|--------|------:|
 | 1 | Diana Taurasi | 10,608 |
 | 2 | Tina Charles | 8,396 |
-| 3 | **DeWanna Bonner** 🔴 +3 | 7,913 |
+| 3 | **DeWanna Bonner** 🔴 +4 | 7,914 |
 | 4 | Tina Thompson | 7,470 |
 | 5 | **Nneka Ogwumike** 🔴 +5 | 7,445 |
 | 6 | Tamika Catchings | 7,371 |
@@ -56,7 +56,7 @@ _Last updated: 2026-06-14 02:26 UTC_
 | 35 | Chamique Holdsclaw | 4,713 |
 | 36 | Elena Delle Donne | 4,706 |
 | 37 | **Alyssa Thomas** 🔴 +2 | 4,655 |
-| 38 | **Arike Ogunbowale** 🔴 +20 | 4,632 |
+| 38 | **Arike Ogunbowale** 🔴 +22 | 4,634 |
 | 39 | Penny Taylor | 4,595 |
 | 40 | Natasha Howard | 4,550 |
 | 41 | Chelsea Gray | 4,529 |
@@ -367,7 +367,7 @@ _Last updated: 2026-06-14 02:26 UTC_
 | 141 | Dominique Canty | 961 |
 | 142 | Armintie Herrington | 960 |
 | 143 | Janell Burse | 944 |
-| 144 | **Jessica Shepard** 🔴 +13 | 940 |
+| 144 | **Jessica Shepard** 🔴 +14 | 941 |
 | 145 | Merlakia Jones | 927 |
 | 146 | Satou Sabally | 926 |
 | 147 | Angel Reese | 923 |
@@ -410,7 +410,7 @@ _Last updated: 2026-06-14 02:26 UTC_
 | 184 | Tully Bevilaqua | 767 |
 | 185 | Shakira Austin | 758 |
 | 186 | Layshia Clarendon | 756 |
-| 187 | **Arike Ogunbowale** 🔴 +5 | 753 |
+| 187 | **Arike Ogunbowale** 🔴 +6 | 754 |
 | 188 | Brooke Wyckoff | 751 |
 | 189 | Coco Miller | 750 |
 | 190 | Alex Montgomery | 735 |
@@ -451,7 +451,7 @@ _Last updated: 2026-06-14 02:26 UTC_
 | 20 | Briann January | 1,339 |
 | 21 | Dawn Staley | 1,337 |
 | 22 | Teresa Weatherspoon | 1,333 |
-| 23 | **Erica Wheeler** 🔴 +2 | 1,308 |
+| 23 | **Erica Wheeler** 🔴 +3 | 1,309 |
 | 24 | Kristi Toliver | 1,301 |
 | 25 | Katie Smith | 1,258 |
 | 26 | **Kelsey Plum** 🔴 +4 | 1,241 |
@@ -482,7 +482,7 @@ _Last updated: 2026-06-14 02:26 UTC_
 | 51 | Kelly Miller | 927 |
 | 52 | DeLisha Milton-Jones | 921 |
 | 53 | **Arike Ogunbowale** 🔴 +2 | 920 |
-| 54 | **Nneka Ogwumike** 🔴 | 917 |
+| 54 | **Nneka Ogwumike** 🔴 +1 | 918 |
 | 55 | Angel McCoughtry | 915 |
 | 56 | Layshia Clarendon | 911 |
 | 56 | Seimone Augustus | 911 |
