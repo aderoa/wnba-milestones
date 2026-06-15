@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-15 01:16 UTC_
+_Last updated: 2026-06-15 01:17 UTC_
 
 ## Contents
 
@@ -143,7 +143,7 @@ _Last updated: 2026-06-15 01:16 UTC_
 | 122 | Glory Johnson | 2,531 |
 | 123 | Nikki McCray | 2,521 |
 | 124 | Crystal Robinson | 2,496 |
-| 125 | Rhyne Howard | 2,493 |
+| 124 | Rhyne Howard | 2,496 |
 | 126 | Tiffany Mitchell | 2,480 |
 | 127 | Ruth Riley | 2,434 |
 | 128 | Svetlana Abrosimova | 2,414 |
@@ -367,10 +367,10 @@ _Last updated: 2026-06-15 01:16 UTC_
 | 141 | Dominique Canty | 961 |
 | 142 | Armintie Herrington | 960 |
 | 143 | Janell Burse | 944 |
-| 144 | Satou Sabally | 928 |
-| 145 | Angel Reese | 927 |
-| 145 | Jessica Shepard | 927 |
-| 145 | Merlakia Jones | 927 |
+| 144 | Angel Reese | 940 |
+| 145 | Satou Sabally | 928 |
+| 146 | Jessica Shepard | 927 |
+| 146 | Merlakia Jones | 927 |
 | 148 | Nicky Anosike | 922 |
 | 149 | Janeth Arcain | 916 |
 | 150 | Karima Christmas-Kelly | 908 |
@@ -387,7 +387,7 @@ _Last updated: 2026-06-15 01:16 UTC_
 | 161 | Essence Carson | 833 |
 | 162 | Kristi Toliver | 829 |
 | 163 | Marie Ferdinand-Harris | 828 |
-| 164 | Naz Hillmon | 823 |
+| 163 | Naz Hillmon | 828 |
 | 165 | Marlies Askamp | 822 |
 | 166 | Amanda Zahui B | 819 |
 | 166 | Barbara Farris | 819 |
@@ -552,8 +552,8 @@ _Last updated: 2026-06-15 01:16 UTC_
 | 121 | Margo Dydek | 524 |
 | 122 | Myisha Hines-Allen | 520 |
 | 123 | Caitlin Clark | 517 |
-| 124 | Iziane Castro Marques | 509 |
-| 124 | Rhyne Howard | 509 |
+| 124 | Rhyne Howard | 510 |
+| 125 | Iziane Castro Marques | 509 |
 | 126 | Brittany Boyd-Jones | 508 |
 | 126 | Chasity Melvin | 508 |
 | 126 | Rachel Banham | 508 |
