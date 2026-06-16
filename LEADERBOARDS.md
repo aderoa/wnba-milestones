@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-16 01:13 UTC_
+_Last updated: 2026-06-16 01:14 UTC_
 
 ## Contents
 
@@ -58,7 +58,7 @@ _Last updated: 2026-06-16 01:13 UTC_
 | 37 | Alyssa Thomas | 4,653 |
 | 38 | **Arike Ogunbowale** 🔴 +11 | 4,623 |
 | 39 | Penny Taylor | 4,595 |
-| 40 | **Natasha Howard** 🔴 +11 | 4,539 |
+| 40 | **Natasha Howard** 🔴 +13 | 4,541 |
 | 41 | **Chelsea Gray** 🔴 | 4,506 |
 | 42 | Kristi Toliver | 4,474 |
 | 43 | Crystal Langhorne | 4,433 |
@@ -202,7 +202,7 @@ _Last updated: 2026-06-16 01:13 UTC_
 | 181 | Rachel Banham | 1,823 |
 | 182 | Danielle Adams | 1,820 |
 | 183 | Charde Houston | 1,797 |
-| 184 | **NaLyssa Smith** 🔴 +2 | 1,777 |
+| 184 | **NaLyssa Smith** 🔴 +4 | 1,779 |
 | 185 | Kamila Vodichkova | 1,767 |
 | 186 | Tully Bevilaqua | 1,763 |
 | 187 | Sandy Brondello | 1,759 |
@@ -249,7 +249,7 @@ _Last updated: 2026-06-16 01:13 UTC_
 | 23 | Yolanda Griffith | 2,440 |
 | 24 | Dearica Hamby | 2,391 |
 | 25 | Tangela Smith | 2,328 |
-| 26 | **Natasha Howard** 🔴 +3 | 2,256 |
+| 26 | **Natasha Howard** 🔴 +4 | 2,257 |
 | 27 | Erika de Souza | 2,220 |
 | 28 | Diana Taurasi | 2,201 |
 | 29 | Margo Dydek | 2,138 |
@@ -335,7 +335,7 @@ _Last updated: 2026-06-16 01:13 UTC_
 | 109 | Andrea Stinson | 1,127 |
 | 109 | Tamika Raymond | 1,127 |
 | 111 | Adrienne Goodson | 1,126 |
-| 112 | **NaLyssa Smith** 🔴 +3 | 1,118 |
+| 112 | **NaLyssa Smith** 🔴 +4 | 1,119 |
 | 113 | Deanna Nolan | 1,112 |
 | 113 | Natasha Cloud | 1,112 |
 | 115 | Aliyah Boston | 1,110 |
@@ -434,7 +434,7 @@ _Last updated: 2026-06-16 01:13 UTC_
 | 3 | Ticha Penicheiro | 2,588 |
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
-| 6 | **Chelsea Gray** 🔴 +4 | 1,939 |
+| 6 | **Chelsea Gray** 🔴 +5 | 1,940 |
 | 7 | Alyssa Thomas | 1,903 |
 | 8 | Skylar Diggins | 1,812 |
 | 9 | Natasha Cloud | 1,772 |
@@ -872,7 +872,7 @@ _Last updated: 2026-06-16 01:13 UTC_
 | 31 | Skylar Diggins | 454 |
 | 32 | Tina Thompson | 452 |
 | 33 | Maya Moore | 449 |
-| 34 | **Natasha Howard** 🔴 +1 | 448 |
+| 33 | **Natasha Howard** 🔴 +2 | 449 |
 | 35 | **Chelsea Gray** 🔴 +1 | 446 |
 | 36 | **Jewell Loyd** 🔴 | 445 |
 | 37 | Sheri Sam | 438 |
@@ -1312,7 +1312,7 @@ _Last updated: 2026-06-16 01:13 UTC_
 | 61 | Yolanda Griffith | 653 |
 | 62 | Sheri Sam | 650 |
 | 63 | Dawn Staley | 643 |
-| 64 | **Kayla McBride** 🔴 +2 | 638 |
+| 64 | **Kayla McBride** 🔴 +4 | 640 |
 | 65 | Ruth Riley | 637 |
 | 66 | Kelsey Plum | 636 |
 | 67 | Odyssey Sims | 631 |
@@ -1606,9 +1606,9 @@ _Last updated: 2026-06-16 01:13 UTC_
 | 149 | **Jackie Young** 🔴 +2 | 527 |
 | 151 | Candice Wiggins | 525 |
 | 151 | Epiphanny Prince | 525 |
-| 153 | Armintie Herrington | 523 |
-| 153 | Sophie Cunningham | 523 |
-| 155 | **Kayla McBride** 🔴 | 522 |
+| 153 | **Kayla McBride** 🔴 +2 | 524 |
+| 154 | Armintie Herrington | 523 |
+| 154 | Sophie Cunningham | 523 |
 | 156 | Sheryl Swoopes | 519 |
 | 157 | Monique Billings | 517 |
 | 157 | Nikki McCray | 517 |
