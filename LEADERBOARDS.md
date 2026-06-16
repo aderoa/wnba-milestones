@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-16 01:32 UTC_
+_Last updated: 2026-06-16 01:33 UTC_
 
 ## Contents
 
@@ -162,7 +162,7 @@ _Last updated: 2026-06-16 01:32 UTC_
 | 139 | Matee Ajavon | 2,237 |
 | 142 | Kia Nurse | 2,231 |
 | 143 | Dawn Staley | 2,228 |
-| 144 | Teaira McCowan | 2,221 |
+| 144 | **Teaira McCowan** 🔴 | 2,221 |
 | 145 | Janel McCarville | 2,215 |
 | 146 | Sami Whitcomb | 2,211 |
 | 147 | Sophia Witherspoon | 2,210 |
@@ -268,7 +268,7 @@ _Last updated: 2026-06-16 01:32 UTC_
 | 42 | Kiah Stokes | 1,790 |
 | 43 | Asjha Jones | 1,751 |
 | 44 | Stefanie Dolson | 1,688 |
-| 45 | Teaira McCowan | 1,682 |
+| 45 | **Teaira McCowan** 🔴 | 1,682 |
 | 46 | Monique Currie | 1,666 |
 | 47 | Glory Johnson | 1,640 |
 | 48 | Vickie Johnson | 1,634 |
@@ -290,7 +290,7 @@ _Last updated: 2026-06-16 01:32 UTC_
 | 64 | Sue Bird | 1,466 |
 | 65 | Alysha Clark | 1,465 |
 | 66 | Nicole Powell | 1,457 |
-| 67 | **Cheyenne Parker-Tyus** 🔴 +2 | 1,444 |
+| 67 | **Cheyenne Parker-Tyus** 🔴 +3 | 1,445 |
 | 68 | Tamera Young | 1,433 |
 | 69 | Alana Beard | 1,420 |
 | 70 | Nakia Sanford | 1,419 |
@@ -367,7 +367,7 @@ _Last updated: 2026-06-16 01:32 UTC_
 | 141 | Dominique Canty | 961 |
 | 142 | Armintie Herrington | 960 |
 | 143 | Janell Burse | 944 |
-| 144 | **Jessica Shepard** 🔴 +11 | 938 |
+| 144 | **Jessica Shepard** 🔴 +12 | 939 |
 | 145 | Merlakia Jones | 927 |
 | 146 | Satou Sabally | 926 |
 | 147 | Angel Reese | 923 |
@@ -679,7 +679,7 @@ _Last updated: 2026-06-16 01:32 UTC_
 | 43 | Skylar Diggins | 229 |
 | 44 | Chasity Melvin | 228 |
 | 45 | **Alanna Smith** 🔴 | 224 |
-| 46 | Teaira McCowan | 222 |
+| 46 | **Teaira McCowan** 🔴 | 222 |
 | 47 | Sancho Lyttle | 221 |
 | 48 | Alana Beard | 220 |
 | 49 | Janell Burse | 216 |
@@ -1418,7 +1418,7 @@ _Last updated: 2026-06-16 01:32 UTC_
 | 167 | Janell Burse | 347 |
 | 168 | Brionna Jones | 346 |
 | 169 | Loree Moore | 339 |
-| 170 | Teaira McCowan | 338 |
+| 170 | **Teaira McCowan** 🔴 | 338 |
 | 171 | Charlotte Smith | 337 |
 | 172 | Scholanda Dorrell | 335 |
 | 173 | Aerial Powers | 333 |
@@ -1565,7 +1565,7 @@ _Last updated: 2026-06-16 01:32 UTC_
 | 109 | Nicole Ohlde | 631 |
 | 110 | Jennifer Gillom | 629 |
 | 111 | Deanna Nolan | 628 |
-| 112 | Teaira McCowan | 627 |
+| 112 | **Teaira McCowan** 🔴 | 627 |
 | 113 | Brionna Jones | 625 |
 | 114 | **Chelsea Gray** 🔴 +3 | 624 |
 | 115 | Courtney Paris | 617 |
