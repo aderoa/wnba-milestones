@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-16 03:21 UTC_
+_Last updated: 2026-06-16 03:22 UTC_
 
 ## Contents
 
@@ -23,7 +23,7 @@ _Last updated: 2026-06-16 03:21 UTC_
 | 2 | Tina Charles | 8,396 |
 | 3 | DeWanna Bonner | 7,910 |
 | 4 | Tina Thompson | 7,470 |
-| 5 | **Nneka Ogwumike** 🔴 +4 | 7,444 |
+| 5 | **Nneka Ogwumike** 🔴 +7 | 7,447 |
 | 6 | Tamika Catchings | 7,371 |
 | 7 | Candice Dupree | 6,861 |
 | 8 | Sue Bird | 6,802 |
@@ -228,7 +228,7 @@ _Last updated: 2026-06-16 03:21 UTC_
 | 2 | Sylvia Fowles | 4,005 |
 | 3 | Candace Parker | 3,467 |
 | 4 | Rebekkah Brunson | 3,345 |
-| 5 | **Nneka Ogwumike** 🔴 +7 | 3,344 |
+| 5 | **Nneka Ogwumike** 🔴 +6 | 3,343 |
 | 6 | Tamika Catchings | 3,313 |
 | 7 | Lisa Leslie | 3,303 |
 | 8 | DeWanna Bonner | 3,260 |
@@ -514,7 +514,7 @@ _Last updated: 2026-06-16 03:21 UTC_
 | 83 | Moriah Jefferson | 685 |
 | 84 | Emma Meesseman | 681 |
 | 85 | Nykesha Sales | 677 |
-| 86 | **Ariel Atkins** 🔴 +1 | 665 |
+| 86 | **Ariel Atkins** 🔴 +2 | 666 |
 | 87 | Bria Hartley | 661 |
 | 88 | Lindsay Allen | 657 |
 | 89 | Betty Lennox | 651 |
@@ -893,8 +893,8 @@ _Last updated: 2026-06-16 03:21 UTC_
 | 52 | Swin Cash | 384 |
 | 52 | Tina Charles | 384 |
 | 54 | **Tiffany Hayes** 🔴 +1 | 383 |
-| 55 | **Ariel Atkins** 🔴 +1 | 381 |
-| 56 | Jordin Canada | 380 |
+| 55 | **Ariel Atkins** 🔴 | 380 |
+| 55 | Jordin Canada | 380 |
 | 57 | Monique Currie | 378 |
 | 58 | Chamique Holdsclaw | 376 |
 | 59 | Mwadi Mabika | 370 |
@@ -1133,8 +1133,8 @@ _Last updated: 2026-06-16 03:21 UTC_
 | 86 | Rebecca Allen | 254 |
 | 88 | Bria Hartley | 253 |
 | 89 | Angel McCoughtry | 249 |
-| 90 | Erin Thorn | 243 |
-| 90 | **Nneka Ogwumike** 🔴 | 243 |
+| 90 | **Nneka Ogwumike** 🔴 +1 | 244 |
+| 91 | Erin Thorn | 243 |
 | 92 | Brittney Sykes | 242 |
 | 93 | Azurá Stevens | 241 |
 | 94 | Alex Bentley | 239 |
@@ -1222,10 +1222,10 @@ _Last updated: 2026-06-16 03:21 UTC_
 | 176 | Jordin Canada | 120 |
 | 177 | Lexie Hull | 118 |
 | 177 | Tonya Edwards | 118 |
-| 179 | Edwige Lawson-Wade | 116 |
-| 179 | Kennedy Burke | 116 |
-| 179 | Marie Ferdinand-Harris | 116 |
-| 179 | **Veronica Burton** 🔴 +1 | 116 |
+| 179 | **Veronica Burton** 🔴 +2 | 117 |
+| 180 | Edwige Lawson-Wade | 116 |
+| 180 | Kennedy Burke | 116 |
+| 180 | Marie Ferdinand-Harris | 116 |
 | 183 | Ebony Hoffman | 115 |
 | 183 | Shey Peddy | 115 |
 | 183 | Stephanie White | 115 |
