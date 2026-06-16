@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-16 01:49 UTC_
+_Last updated: 2026-06-16 01:50 UTC_
 
 ## Contents
 
@@ -33,7 +33,7 @@ _Last updated: 2026-06-16 01:49 UTC_
 | 12 | Sylvia Fowles | 6,413 |
 | 13 | Lisa Leslie | 6,251 |
 | 14 | Breanna Stewart | 6,173 |
-| 15 | **Jewell Loyd** 🔴 +19 | 6,097 |
+| 15 | **Jewell Loyd** 🔴 +21 | 6,099 |
 | 16 | Brittney Griner | 6,031 |
 | 17 | Lauren Jackson | 6,005 |
 | 17 | Seimone Augustus | 6,005 |
@@ -58,7 +58,7 @@ _Last updated: 2026-06-16 01:49 UTC_
 | 37 | Alyssa Thomas | 4,653 |
 | 38 | **Arike Ogunbowale** 🔴 +22 | 4,634 |
 | 39 | Penny Taylor | 4,595 |
-| 40 | **Natasha Howard** 🔴 +16 | 4,544 |
+| 40 | **Natasha Howard** 🔴 +18 | 4,546 |
 | 41 | **Chelsea Gray** 🔴 | 4,506 |
 | 42 | Kristi Toliver | 4,474 |
 | 43 | Crystal Langhorne | 4,433 |
@@ -473,7 +473,7 @@ _Last updated: 2026-06-16 01:49 UTC_
 | 42 | Sheryl Swoopes | 1,037 |
 | 43 | Tina Charles | 1,033 |
 | 44 | Nikki Teasley | 982 |
-| 45 | **Kayla McBride** 🔴 +3 | 971 |
+| 45 | **Kayla McBride** 🔴 +4 | 972 |
 | 46 | Tamecka Dixon | 960 |
 | 47 | Breanna Stewart | 953 |
 | 48 | Kara Lawson | 946 |
@@ -875,9 +875,9 @@ _Last updated: 2026-06-16 01:49 UTC_
 | 33 | **Natasha Howard** 🔴 +2 | 449 |
 | 35 | **Chelsea Gray** 🔴 +2 | 447 |
 | 36 | **Jewell Loyd** 🔴 | 445 |
+| 37 | **Kayla McBride** 🔴 +2 | 438 |
 | 37 | Sheri Sam | 438 |
-| 38 | Camille Smith | 437 |
-| 38 | **Kayla McBride** 🔴 +1 | 437 |
+| 39 | Camille Smith | 437 |
 | 40 | Candice Dupree | 431 |
 | 41 | Epiphanny Prince | 429 |
 | 42 | Tanisha Wright | 427 |
