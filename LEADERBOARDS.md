@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-16 23:09 UTC_
+_Last updated: 2026-06-16 23:10 UTC_
 
 ## Contents
 
@@ -83,7 +83,7 @@ _Last updated: 2026-06-16 23:09 UTC_
 | 62 | Allie Quigley | 3,786 |
 | 63 | Chasity Melvin | 3,781 |
 | 64 | Kara Lawson | 3,670 |
-| 65 | **Brittney Sykes** 🔴 +2 | 3,623 |
+| 65 | **Brittney Sykes** 🔴 +4 | 3,625 |
 | 66 | Mwadi Mabika | 3,576 |
 | 67 | Odyssey Sims | 3,574 |
 | 68 | Camille Smith | 3,551 |
@@ -184,7 +184,7 @@ _Last updated: 2026-06-16 23:09 UTC_
 | 163 | Chiney Ogwumike | 1,964 |
 | 164 | Nicole Ohlde | 1,959 |
 | 165 | Kedra Holland-Corn | 1,938 |
-| 166 | **Aliyah Boston** 🔴 +2 | 1,930 |
+| 166 | **Aliyah Boston** 🔴 +3 | 1,931 |
 | 167 | Cathrine Kraayeveld | 1,926 |
 | 168 | Roneeka Hodges | 1,925 |
 | 169 | Latasha Byears | 1,920 |
@@ -336,9 +336,9 @@ _Last updated: 2026-06-16 23:09 UTC_
 | 109 | Tamika Raymond | 1,127 |
 | 111 | Adrienne Goodson | 1,126 |
 | 112 | NaLyssa Smith | 1,115 |
-| 113 | Deanna Nolan | 1,112 |
-| 113 | Natasha Cloud | 1,112 |
-| 115 | **Aliyah Boston** 🔴 +1 | 1,111 |
+| 113 | **Aliyah Boston** 🔴 +3 | 1,113 |
+| 114 | Deanna Nolan | 1,112 |
+| 114 | Natasha Cloud | 1,112 |
 | 116 | Chiney Ogwumike | 1,110 |
 | 117 | Becky Hammon | 1,108 |
 | 118 | Ann Wauters | 1,105 |
@@ -792,10 +792,10 @@ _Last updated: 2026-06-16 23:09 UTC_
 | 154 | Shatori Walker-Kimbrough | 84 |
 | 157 | Tamera Young | 83 |
 | 158 | Damiris Dantas | 82 |
-| 159 | Charlotte Smith | 81 |
-| 159 | Cintia dos Santos | 81 |
-| 159 | Jessie Hicks | 81 |
-| 159 | **Marina Mabrey** 🔴 | 81 |
+| 158 | **Marina Mabrey** 🔴 +1 | 82 |
+| 160 | Charlotte Smith | 81 |
+| 160 | Cintia dos Santos | 81 |
+| 160 | Jessie Hicks | 81 |
 | 163 | Nykesha Sales | 80 |
 | 163 | Rushia Brown | 80 |
 | 165 | Astou Ndour-Fall | 78 |
@@ -1610,8 +1610,8 @@ _Last updated: 2026-06-16 23:09 UTC_
 | 153 | Sophie Cunningham | 523 |
 | 155 | Kayla McBride | 522 |
 | 156 | Sheryl Swoopes | 519 |
-| 157 | **Monique Billings** 🔴 | 517 |
-| 157 | Nikki McCray | 517 |
+| 157 | **Monique Billings** 🔴 +1 | 518 |
+| 158 | Nikki McCray | 517 |
 | 159 | Alex Bentley | 516 |
 | 159 | Myisha Hines-Allen | 516 |
 | 161 | Jantel Lavender | 513 |
