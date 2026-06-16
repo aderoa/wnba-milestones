@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-16T03:55:00+00:00",
+    "text": "Erica Wheeler passed Ebony Hoffman for #63 all-time in fouls (career 792) \u2014 up from #64 entering today \u2014 (5:53 - 4th \u2014 LA @ GS)",
+    "kind": "rank_pass",
+    "player": "Erica Wheeler",
+    "stat": "fouls",
+    "rank": 63,
+    "passed_players": [
+      "Ebony Hoffman"
+    ],
+    "new_total": 792
+  },
+  {
     "ts": "2026-06-16T03:49:00+00:00",
     "text": "Kelsey Plum passed Leilani Mitchell for #92 all-time in fouls (career 685) \u2014 up from #95 entering today \u2014 (9:02 - 4th \u2014 LA @ GS)",
     "kind": "rank_pass",
@@ -2974,18 +2986,5 @@
       "Lauren Jackson"
     ],
     "new_total": 437
-  },
-  {
-    "ts": "2026-06-06T12:04:00+00:00",
-    "text": "Rachel Banham passed Tianna Hawkins and Noelle Quinn for #179 all-time in points (career 1,829) \u2014 up from #181 entering today \u2014 (Final \u2014 CON @ CHI)",
-    "kind": "rank_pass",
-    "player": "Rachel Banham",
-    "stat": "points",
-    "rank": 179,
-    "passed_players": [
-      "Tianna Hawkins",
-      "Noelle Quinn"
-    ],
-    "new_total": 1829
   }
 ]
