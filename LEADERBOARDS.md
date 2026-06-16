@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-16 01:36 UTC_
+_Last updated: 2026-06-16 01:37 UTC_
 
 ## Contents
 
@@ -33,7 +33,7 @@ _Last updated: 2026-06-16 01:36 UTC_
 | 12 | Sylvia Fowles | 6,413 |
 | 13 | Lisa Leslie | 6,251 |
 | 14 | Breanna Stewart | 6,173 |
-| 15 | **Jewell Loyd** 🔴 +17 | 6,095 |
+| 15 | **Jewell Loyd** 🔴 +19 | 6,097 |
 | 16 | Brittney Griner | 6,031 |
 | 17 | Lauren Jackson | 6,005 |
 | 17 | Seimone Augustus | 6,005 |
@@ -434,7 +434,7 @@ _Last updated: 2026-06-16 01:36 UTC_
 | 3 | Ticha Penicheiro | 2,588 |
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
-| 6 | **Chelsea Gray** 🔴 +8 | 1,943 |
+| 6 | **Chelsea Gray** 🔴 +9 | 1,944 |
 | 7 | Alyssa Thomas | 1,903 |
 | 8 | Skylar Diggins | 1,812 |
 | 9 | Natasha Cloud | 1,772 |
@@ -480,7 +480,7 @@ _Last updated: 2026-06-16 01:36 UTC_
 | 49 | Tiffany Hayes | 936 |
 | 50 | Deanna Nolan | 930 |
 | 51 | Kelly Miller | 927 |
-| 52 | **Arike Ogunbowale** 🔴 +6 | 924 |
+| 52 | **Arike Ogunbowale** 🔴 +7 | 925 |
 | 53 | DeLisha Milton-Jones | 921 |
 | 54 | Nneka Ogwumike | 917 |
 | 55 | Angel McCoughtry | 915 |
