@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-16 02:18 UTC_
+_Last updated: 2026-06-16 02:19 UTC_
 
 ## Contents
 
@@ -63,7 +63,7 @@ _Last updated: 2026-06-16 02:18 UTC_
 | 42 | Kristi Toliver | 4,474 |
 | 43 | Crystal Langhorne | 4,433 |
 | 43 | Jia Perkins | 4,433 |
-| 45 | **Kelsey Plum** 🔴 | 4,395 |
+| 45 | **Kelsey Plum** 🔴 +3 | 4,398 |
 | 46 | Courtney Vandersloot | 4,352 |
 | 47 | Allisha Gray | 4,339 |
 | 48 | Sophia Young-Malcolm | 4,300 |
@@ -96,7 +96,7 @@ _Last updated: 2026-06-16 02:18 UTC_
 | 75 | Tammy Sutton-Brown | 3,498 |
 | 76 | Sancho Lyttle | 3,478 |
 | 77 | Ivory Latta | 3,447 |
-| 78 | **Ariel Atkins** 🔴 | 3,442 |
+| 78 | **Ariel Atkins** 🔴 +2 | 3,444 |
 | 79 | Nicole Powell | 3,407 |
 | 80 | Epiphanny Prince | 3,381 |
 | 81 | Michelle Snow | 3,361 |
@@ -247,7 +247,7 @@ _Last updated: 2026-06-16 02:18 UTC_
 | 21 | Crystal Langhorne | 2,454 |
 | 22 | Lauren Jackson | 2,444 |
 | 23 | Yolanda Griffith | 2,440 |
-| 24 | **Dearica Hamby** 🔴 +1 | 2,392 |
+| 24 | **Dearica Hamby** 🔴 +2 | 2,393 |
 | 25 | Tangela Smith | 2,328 |
 | 26 | Natasha Howard | 2,259 |
 | 27 | Erika de Souza | 2,220 |
@@ -482,7 +482,7 @@ _Last updated: 2026-06-16 02:18 UTC_
 | 51 | Kelly Miller | 927 |
 | 52 | Arike Ogunbowale | 925 |
 | 53 | DeLisha Milton-Jones | 921 |
-| 54 | **Nneka Ogwumike** 🔴 | 917 |
+| 54 | **Nneka Ogwumike** 🔴 +1 | 918 |
 | 55 | Angel McCoughtry | 915 |
 | 56 | Layshia Clarendon | 911 |
 | 56 | Seimone Augustus | 911 |
@@ -506,7 +506,7 @@ _Last updated: 2026-06-16 02:18 UTC_
 | 75 | Allisha Gray | 743 |
 | 76 | Monique Currie | 740 |
 | 77 | Elaine Powell | 728 |
-| 78 | **Dearica Hamby** 🔴 | 718 |
+| 78 | **Dearica Hamby** 🔴 +1 | 719 |
 | 79 | Stefanie Dolson | 700 |
 | 80 | Chamique Holdsclaw | 698 |
 | 81 | Shavonte Zellous | 693 |
@@ -1055,7 +1055,7 @@ _Last updated: 2026-06-16 02:18 UTC_
 | 9 | Jewell Loyd | 683 |
 | 10 | DeWanna Bonner | 672 |
 | 11 | Kristi Toliver | 651 |
-| 12 | **Kelsey Plum** 🔴 | 609 |
+| 12 | **Kelsey Plum** 🔴 +1 | 610 |
 | 13 | Tamika Catchings | 605 |
 | 14 | Kara Lawson | 583 |
 | 15 | Nicole Powell | 579 |
@@ -1560,8 +1560,8 @@ _Last updated: 2026-06-16 02:18 UTC_
 | 104 | Tari Phillips | 648 |
 | 105 | Marie Ferdinand-Harris | 646 |
 | 106 | Charlotte Smith | 638 |
-| 107 | Janell Burse | 632 |
-| 107 | **Kiah Stokes** 🔴 | 632 |
+| 107 | **Kiah Stokes** 🔴 +1 | 633 |
+| 108 | Janell Burse | 632 |
 | 109 | Nicole Ohlde | 631 |
 | 110 | Jennifer Gillom | 629 |
 | 110 | Teaira McCowan | 629 |
