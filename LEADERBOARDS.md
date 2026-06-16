@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-16 01:16 UTC_
+_Last updated: 2026-06-16 01:17 UTC_
 
 ## Contents
 
@@ -202,7 +202,7 @@ _Last updated: 2026-06-16 01:16 UTC_
 | 181 | Rachel Banham | 1,823 |
 | 182 | Danielle Adams | 1,820 |
 | 183 | Charde Houston | 1,797 |
-| 184 | **NaLyssa Smith** 🔴 +4 | 1,779 |
+| 184 | **NaLyssa Smith** 🔴 +6 | 1,781 |
 | 185 | Kamila Vodichkova | 1,767 |
 | 186 | Tully Bevilaqua | 1,763 |
 | 187 | Sandy Brondello | 1,759 |
@@ -480,7 +480,7 @@ _Last updated: 2026-06-16 01:16 UTC_
 | 49 | Tiffany Hayes | 936 |
 | 50 | Deanna Nolan | 930 |
 | 51 | Kelly Miller | 927 |
-| 52 | **Arike Ogunbowale** 🔴 +4 | 922 |
+| 52 | **Arike Ogunbowale** 🔴 +5 | 923 |
 | 53 | DeLisha Milton-Jones | 921 |
 | 54 | Nneka Ogwumike | 917 |
 | 55 | Angel McCoughtry | 915 |
@@ -604,7 +604,7 @@ _Last updated: 2026-06-16 01:16 UTC_
 | 173 | Shameka Christon | 389 |
 | 173 | Tamicha Jackson | 389 |
 | 175 | Riquna Williams | 387 |
-| 176 | **Stephanie Talbot** 🔴 +1 | 386 |
+| 175 | **Stephanie Talbot** 🔴 +2 | 387 |
 | 177 | Dana Evans | 379 |
 | 178 | **Bridget Carleton** 🔴 +2 | 377 |
 | 178 | Jessica Breland | 377 |
@@ -910,9 +910,9 @@ _Last updated: 2026-06-16 01:16 UTC_
 | 69 | Vicky Bullett | 353 |
 | 70 | Svetlana Abrosimova | 352 |
 | 71 | Natasha Cloud | 349 |
-| 72 | **A'ja Wilson** 🔴 | 346 |
-| 72 | **Arike Ogunbowale** 🔴 +1 | 346 |
-| 72 | Janeth Arcain | 346 |
+| 72 | **A'ja Wilson** 🔴 +1 | 347 |
+| 73 | **Arike Ogunbowale** 🔴 +1 | 346 |
+| 73 | Janeth Arcain | 346 |
 | 75 | Helen Darling | 343 |
 | 76 | Andrea Stinson | 342 |
 | 77 | Armintie Herrington | 340 |
@@ -1269,7 +1269,7 @@ _Last updated: 2026-06-16 01:16 UTC_
 | 18 | Cappie Pondexter | 945 |
 | 19 | Katie Smith | 935 |
 | 20 | Shannon Johnson | 934 |
-| 21 | **Chelsea Gray** 🔴 +3 | 901 |
+| 21 | **Chelsea Gray** 🔴 +4 | 902 |
 | 22 | Taj McWilliams-Franklin | 898 |
 | 23 | Skylar Diggins | 893 |
 | 24 | Candice Dupree | 869 |
@@ -1602,8 +1602,8 @@ _Last updated: 2026-06-16 01:16 UTC_
 | 146 | **A'ja Wilson** 🔴 | 537 |
 | 147 | Kristen Rasmussen | 533 |
 | 148 | Amanda Zahui B | 530 |
-| 149 | Damiris Dantas | 527 |
-| 149 | **Jackie Young** 🔴 +2 | 527 |
+| 149 | **Jackie Young** 🔴 +3 | 528 |
+| 150 | Damiris Dantas | 527 |
 | 151 | Candice Wiggins | 525 |
 | 151 | Epiphanny Prince | 525 |
 | 153 | **Kayla McBride** 🔴 +2 | 524 |
