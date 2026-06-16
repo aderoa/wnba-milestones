@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-16 03:21 UTC
+
+- **Kayla Thornton** passed **Anna DeForge** and **Brionna Jones** for **#113** all-time in steals (career 267) — up from #115 entering today — _7:24 - 3rd — LA @ GS_
+
 ## 2026-06-16 02:58 UTC
 
 - **Kiah Stokes** passed **Kamila Vodichkova** for **#198** all-time in steals (career 174) — up from #199 entering today — _1:25 - 2nd — LA @ GS_

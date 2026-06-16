@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-06-16T03:21:00+00:00",
+    "text": "Kayla Thornton passed Anna DeForge and Brionna Jones for #113 all-time in steals (career 267) \u2014 up from #115 entering today \u2014 (7:24 - 3rd \u2014 LA @ GS)",
+    "kind": "rank_pass",
+    "player": "Kayla Thornton",
+    "stat": "steals",
+    "rank": 113,
+    "passed_players": [
+      "Anna DeForge",
+      "Brionna Jones"
+    ],
+    "new_total": 267
+  },
+  {
     "ts": "2026-06-16T02:58:00+00:00",
     "text": "Kiah Stokes passed Kamila Vodichkova for #198 all-time in steals (career 174) \u2014 up from #199 entering today \u2014 (1:25 - 2nd \u2014 LA @ GS)",
     "kind": "rank_pass",
@@ -2977,18 +2990,5 @@
       "Rhyne Howard"
     ],
     "new_total": 511
-  },
-  {
-    "ts": "2026-06-06T12:04:00+00:00",
-    "text": "Rachel Banham passed Ann Wauters and Riquna Williams for #177 all-time in fouls (career 494) \u2014 up from #179 entering today \u2014 (Final \u2014 CON @ CHI)",
-    "kind": "rank_pass",
-    "player": "Rachel Banham",
-    "stat": "fouls",
-    "rank": 177,
-    "passed_players": [
-      "Ann Wauters",
-      "Riquna Williams"
-    ],
-    "new_total": 494
   }
 ]

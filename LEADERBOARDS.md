@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-16 03:20 UTC_
+_Last updated: 2026-06-16 03:21 UTC_
 
 ## Contents
 
@@ -247,7 +247,7 @@ _Last updated: 2026-06-16 03:20 UTC_
 | 21 | Crystal Langhorne | 2,454 |
 | 22 | Lauren Jackson | 2,444 |
 | 23 | Yolanda Griffith | 2,440 |
-| 24 | **Dearica Hamby** 🔴 +4 | 2,395 |
+| 24 | **Dearica Hamby** 🔴 +5 | 2,396 |
 | 25 | Tangela Smith | 2,328 |
 | 26 | Natasha Howard | 2,259 |
 | 27 | Erika de Souza | 2,220 |
@@ -885,7 +885,7 @@ _Last updated: 2026-06-16 03:20 UTC_
 | 44 | Katie Smith | 408 |
 | 45 | Cappie Pondexter | 405 |
 | 46 | Nicole Powell | 401 |
-| 47 | **Dearica Hamby** 🔴 +1 | 399 |
+| 47 | **Dearica Hamby** 🔴 +2 | 400 |
 | 48 | Jasmine Thomas | 394 |
 | 49 | Danielle Robinson | 389 |
 | 50 | Deanna Nolan | 388 |
@@ -951,9 +951,9 @@ _Last updated: 2026-06-16 03:20 UTC_
 | 110 | Natalie Williams | 270 |
 | 110 | Nicky Anosike | 270 |
 | 112 | Crystal Robinson | 267 |
-| 113 | Anna DeForge | 266 |
-| 114 | Brionna Jones | 265 |
-| 114 | **Kayla Thornton** 🔴 +2 | 265 |
+| 112 | **Kayla Thornton** 🔴 +4 | 267 |
+| 114 | Anna DeForge | 266 |
+| 115 | Brionna Jones | 265 |
 | 116 | Michelle Snow | 262 |
 | 117 | Karima Christmas-Kelly | 261 |
 | 118 | **Kelsey Plum** 🔴 | 260 |
@@ -1313,8 +1313,8 @@ _Last updated: 2026-06-16 03:20 UTC_
 | 62 | Sheri Sam | 650 |
 | 63 | Dawn Staley | 643 |
 | 64 | Kayla McBride | 640 |
-| 65 | Ruth Riley | 637 |
-| 66 | **Kelsey Plum** 🔴 | 636 |
+| 65 | **Kelsey Plum** 🔴 +2 | 638 |
+| 66 | Ruth Riley | 637 |
 | 67 | Odyssey Sims | 631 |
 | 67 | Svetlana Abrosimova | 631 |
 | 69 | Jonquel Jones | 627 |
