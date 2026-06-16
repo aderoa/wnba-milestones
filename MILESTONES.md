@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-16 03:49 UTC
+
+- **Kelsey Plum** passed **Leilani Mitchell** for **#92** all-time in fouls (career 685) — up from #95 entering today — _9:02 - 4th — LA @ GS_
+
 ## 2026-06-16 03:21 UTC
 
 - **Kayla Thornton** passed **Anna DeForge** and **Brionna Jones** for **#113** all-time in steals (career 267) — up from #115 entering today — _7:24 - 3rd — LA @ GS_

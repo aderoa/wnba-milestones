@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-16T03:49:00+00:00",
+    "text": "Kelsey Plum passed Leilani Mitchell for #92 all-time in fouls (career 685) \u2014 up from #95 entering today \u2014 (9:02 - 4th \u2014 LA @ GS)",
+    "kind": "rank_pass",
+    "player": "Kelsey Plum",
+    "stat": "fouls",
+    "rank": 92,
+    "passed_players": [
+      "Leilani Mitchell"
+    ],
+    "new_total": 685
+  },
+  {
     "ts": "2026-06-16T03:21:00+00:00",
     "text": "Kayla Thornton passed Anna DeForge and Brionna Jones for #113 all-time in steals (career 267) \u2014 up from #115 entering today \u2014 (7:24 - 3rd \u2014 LA @ GS)",
     "kind": "rank_pass",
@@ -2975,20 +2987,5 @@
       "Noelle Quinn"
     ],
     "new_total": 1829
-  },
-  {
-    "ts": "2026-06-06T12:04:00+00:00",
-    "text": "Rachel Banham passed Iziane Castro Marques, Brittany Boyd-Jones, Chasity Melvin, and Rhyne Howard for #124 all-time in assists (career 511) \u2014 up from #127 entering today \u2014 (Final \u2014 CON @ CHI)",
-    "kind": "rank_pass",
-    "player": "Rachel Banham",
-    "stat": "assists",
-    "rank": 124,
-    "passed_players": [
-      "Iziane Castro Marques",
-      "Brittany Boyd-Jones",
-      "Chasity Melvin",
-      "Rhyne Howard"
-    ],
-    "new_total": 511
   }
 ]
