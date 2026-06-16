@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-16 04:04 UTC_
+_Last updated: 2026-06-16 04:05 UTC_
 
 ## Contents
 
@@ -207,8 +207,8 @@ _Last updated: 2026-06-16 04:04 UTC_
 | 186 | Tully Bevilaqua | 1,763 |
 | 187 | Sandy Brondello | 1,759 |
 | 188 | Sophie Cunningham | 1,752 |
-| 189 | **Gabby Williams** 🔴 +10 | 1,733 |
-| 189 | Sugar Rodgers | 1,733 |
+| 189 | **Gabby Williams** 🔴 +11 | 1,734 |
+| 190 | Sugar Rodgers | 1,733 |
 | 191 | Moriah Jefferson | 1,722 |
 | 192 | Armintie Herrington | 1,696 |
 | 193 | Nikki Teasley | 1,690 |
@@ -1544,9 +1544,9 @@ _Last updated: 2026-06-16 04:04 UTC_
 | 87 | Danielle Robinson | 692 |
 | 88 | Brittney Sykes | 687 |
 | 88 | Sophia Young-Malcolm | 687 |
+| 90 | **Kelsey Plum** 🔴 +6 | 686 |
 | 90 | Maya Moore | 686 |
-| 91 | Jasmine Thomas | 685 |
-| 91 | **Kelsey Plum** 🔴 +5 | 685 |
+| 92 | Jasmine Thomas | 685 |
 | 93 | Leilani Mitchell | 684 |
 | 94 | Crystal Robinson | 682 |
 | 95 | Jennifer Lacy | 680 |
