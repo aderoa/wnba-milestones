@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-16 02:16 UTC_
+_Last updated: 2026-06-16 02:17 UTC_
 
 ## Contents
 
@@ -247,7 +247,7 @@ _Last updated: 2026-06-16 02:16 UTC_
 | 21 | Crystal Langhorne | 2,454 |
 | 22 | Lauren Jackson | 2,444 |
 | 23 | Yolanda Griffith | 2,440 |
-| 24 | **Dearica Hamby** 🔴 | 2,391 |
+| 24 | **Dearica Hamby** 🔴 +1 | 2,392 |
 | 25 | Tangela Smith | 2,328 |
 | 26 | Natasha Howard | 2,259 |
 | 27 | Erika de Souza | 2,220 |
@@ -265,7 +265,7 @@ _Last updated: 2026-06-16 02:16 UTC_
 | 39 | Courtney Williams | 1,806 |
 | 40 | Lindsay Whalen | 1,805 |
 | 41 | Camille Smith | 1,802 |
-| 42 | **Kiah Stokes** 🔴 | 1,790 |
+| 42 | **Kiah Stokes** 🔴 +1 | 1,791 |
 | 43 | Asjha Jones | 1,751 |
 | 44 | Stefanie Dolson | 1,688 |
 | 45 | Teaira McCowan | 1,686 |
@@ -1511,7 +1511,7 @@ _Last updated: 2026-06-16 02:16 UTC_
 | 55 | Penny Taylor | 832 |
 | 56 | Dominique Canty | 831 |
 | 56 | Wendy Palmer | 831 |
-| 58 | **Dearica Hamby** 🔴 | 829 |
+| 58 | **Dearica Hamby** 🔴 +1 | 830 |
 | 59 | Shannon Johnson | 813 |
 | 59 | Tully Bevilaqua | 813 |
 | 61 | Skylar Diggins | 812 |
