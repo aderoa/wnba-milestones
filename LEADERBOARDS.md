@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-16 23:10 UTC_
+_Last updated: 2026-06-16 23:11 UTC_
 
 ## Contents
 
@@ -195,7 +195,7 @@ _Last updated: 2026-06-16 23:10 UTC_
 | 174 | Ebony Hoffman | 1,909 |
 | 175 | Candice Wiggins | 1,901 |
 | 176 | Natisha Hiedeman | 1,858 |
-| 177 | **Isabelle Harrison** 🔴 | 1,832 |
+| 177 | **Isabelle Harrison** 🔴 +3 | 1,835 |
 | 178 | Damiris Dantas | 1,830 |
 | 179 | Tianna Hawkins | 1,825 |
 | 180 | Noelle Quinn | 1,824 |
@@ -215,8 +215,8 @@ _Last updated: 2026-06-16 23:10 UTC_
 | 194 | Shenise Johnson | 1,688 |
 | 195 | Janell Burse | 1,580 |
 | 196 | Le'coe Willingham | 1,552 |
-| 197 | Shatori Walker-Kimbrough | 1,544 |
-| 198 | **Monique Billings** 🔴 | 1,543 |
+| 197 | **Monique Billings** 🔴 +2 | 1,545 |
+| 198 | Shatori Walker-Kimbrough | 1,544 |
 | 199 | Rebecca Allen | 1,526 |
 | 200 | Jennifer Lacy | 1,504 |
 
@@ -295,7 +295,7 @@ _Last updated: 2026-06-16 23:10 UTC_
 | 69 | Alana Beard | 1,420 |
 | 70 | Nakia Sanford | 1,419 |
 | 71 | Kara Braxton | 1,387 |
-| 72 | **Monique Billings** 🔴 | 1,385 |
+| 71 | **Monique Billings** 🔴 +2 | 1,387 |
 | 73 | Allisha Gray | 1,384 |
 | 74 | Courtney Vandersloot | 1,383 |
 | 74 | Katie Smith | 1,383 |
@@ -336,7 +336,7 @@ _Last updated: 2026-06-16 23:10 UTC_
 | 109 | Tamika Raymond | 1,127 |
 | 111 | Adrienne Goodson | 1,126 |
 | 112 | NaLyssa Smith | 1,115 |
-| 113 | **Aliyah Boston** 🔴 +3 | 1,113 |
+| 113 | **Aliyah Boston** 🔴 +4 | 1,114 |
 | 114 | Deanna Nolan | 1,112 |
 | 114 | Natasha Cloud | 1,112 |
 | 116 | Chiney Ogwumike | 1,110 |
@@ -344,7 +344,7 @@ _Last updated: 2026-06-16 23:10 UTC_
 | 118 | Ann Wauters | 1,105 |
 | 119 | Svetlana Abrosimova | 1,078 |
 | 120 | Le'coe Willingham | 1,054 |
-| 121 | **Isabelle Harrison** 🔴 | 1,049 |
+| 121 | **Isabelle Harrison** 🔴 +1 | 1,050 |
 | 122 | Jackie Young | 1,044 |
 | 123 | Nicole Ohlde | 1,040 |
 | 124 | Tamecka Dixon | 1,035 |
@@ -500,8 +500,8 @@ _Last updated: 2026-06-16 23:10 UTC_
 | 69 | Andrea Stinson | 810 |
 | 70 | Tina Thompson | 803 |
 | 71 | Epiphanny Prince | 800 |
+| 72 | **Marina Mabrey** 🔴 +2 | 774 |
 | 72 | Mwadi Mabika | 774 |
-| 73 | **Marina Mabrey** 🔴 | 772 |
 | 74 | Sheri Sam | 745 |
 | 75 | Allisha Gray | 743 |
 | 76 | Monique Currie | 740 |
@@ -551,7 +551,7 @@ _Last updated: 2026-06-16 23:10 UTC_
 | 120 | Marie Ferdinand-Harris | 528 |
 | 121 | Margo Dydek | 524 |
 | 122 | Myisha Hines-Allen | 520 |
-| 123 | **Caitlin Clark** 🔴 | 517 |
+| 123 | **Caitlin Clark** 🔴 +1 | 518 |
 | 124 | Iziane Castro Marques | 509 |
 | 125 | Brittany Boyd-Jones | 508 |
 | 125 | Chasity Melvin | 508 |
