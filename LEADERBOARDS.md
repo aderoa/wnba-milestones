@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-16 23:55 UTC_
+_Last updated: 2026-06-16 23:56 UTC_
 
 ## Contents
 
@@ -195,7 +195,7 @@ _Last updated: 2026-06-16 23:55 UTC_
 | 174 | Ebony Hoffman | 1,909 |
 | 175 | Candice Wiggins | 1,901 |
 | 176 | Natisha Hiedeman | 1,858 |
-| 177 | **Isabelle Harrison** 🔴 +8 | 1,840 |
+| 177 | **Isabelle Harrison** 🔴 +10 | 1,842 |
 | 178 | Damiris Dantas | 1,830 |
 | 179 | Tianna Hawkins | 1,825 |
 | 180 | Noelle Quinn | 1,824 |
@@ -205,8 +205,8 @@ _Last updated: 2026-06-16 23:55 UTC_
 | 184 | NaLyssa Smith | 1,775 |
 | 185 | Kamila Vodichkova | 1,767 |
 | 186 | Tully Bevilaqua | 1,763 |
-| 187 | Sandy Brondello | 1,759 |
-| 188 | **Sophie Cunningham** 🔴 +3 | 1,755 |
+| 187 | **Sophie Cunningham** 🔴 +8 | 1,760 |
+| 188 | Sandy Brondello | 1,759 |
 | 189 | Sugar Rodgers | 1,733 |
 | 190 | Gabby Williams | 1,723 |
 | 191 | Moriah Jefferson | 1,722 |
@@ -549,8 +549,8 @@ _Last updated: 2026-06-16 23:55 UTC_
 | 118 | Michele Timms | 549 |
 | 119 | Veronica Burton | 537 |
 | 120 | Marie Ferdinand-Harris | 528 |
-| 121 | **Caitlin Clark** 🔴 +7 | 524 |
-| 121 | Margo Dydek | 524 |
+| 121 | **Caitlin Clark** 🔴 +8 | 525 |
+| 122 | Margo Dydek | 524 |
 | 123 | **Myisha Hines-Allen** 🔴 | 520 |
 | 124 | Iziane Castro Marques | 509 |
 | 125 | Brittany Boyd-Jones | 508 |
@@ -596,8 +596,8 @@ _Last updated: 2026-06-16 23:55 UTC_
 | 165 | Rita Williams | 403 |
 | 166 | **Julie Allemand** 🔴 +1 | 402 |
 | 166 | **Kia Nurse** 🔴 | 402 |
-| 168 | **Aliyah Boston** 🔴 +1 | 399 |
-| 168 | Marissa Coleman | 399 |
+| 168 | **Aliyah Boston** 🔴 +2 | 400 |
+| 169 | Marissa Coleman | 399 |
 | 170 | Jessica Shepard | 395 |
 | 170 | Stacey Dales | 395 |
 | 172 | Sugar Rodgers | 393 |
@@ -1105,7 +1105,7 @@ _Last updated: 2026-06-16 23:55 UTC_
 | 59 | Anna DeForge | 334 |
 | 60 | Erica Wheeler | 329 |
 | 61 | Jackie Young | 323 |
-| 62 | **Sophie Cunningham** 🔴 +1 | 318 |
+| 62 | **Sophie Cunningham** 🔴 +2 | 319 |
 | 63 | Sugar Rodgers | 317 |
 | 64 | Marissa Coleman | 315 |
 | 65 | Shannon Johnson | 313 |
@@ -1357,7 +1357,7 @@ _Last updated: 2026-06-16 23:55 UTC_
 | 106 | Tully Bevilaqua | 514 |
 | 107 | Jia Perkins | 513 |
 | 108 | Jordin Canada | 512 |
-| 109 | **Marina Mabrey** 🔴 | 510 |
+| 109 | **Marina Mabrey** 🔴 +1 | 511 |
 | 110 | Tamera Young | 501 |
 | 111 | Nikki Teasley | 493 |
 | 111 | Tari Phillips | 493 |
