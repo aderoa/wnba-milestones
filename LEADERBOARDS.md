@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-16 01:20 UTC_
+_Last updated: 2026-06-16 01:21 UTC_
 
 ## Contents
 
@@ -37,13 +37,13 @@ _Last updated: 2026-06-16 01:20 UTC_
 | 16 | Brittney Griner | 6,031 |
 | 17 | Lauren Jackson | 6,005 |
 | 17 | Seimone Augustus | 6,005 |
-| 19 | **A'ja Wilson** 🔴 +14 | 5,956 |
+| 19 | **A'ja Wilson** 🔴 +16 | 5,958 |
 | 20 | Becky Hammon | 5,816 |
 | 21 | Angel McCoughtry | 5,797 |
 | 22 | Skylar Diggins | 5,626 |
 | 23 | DeLisha Milton-Jones | 5,571 |
 | 24 | Katie Douglas | 5,545 |
-| 25 | **Kayla McBride** 🔴 +12 | 5,534 |
+| 25 | **Kayla McBride** 🔴 +14 | 5,536 |
 | 26 | Lindsay Whalen | 5,511 |
 | 27 | Swin Cash | 5,119 |
 | 28 | Tangela Smith | 5,035 |
@@ -381,7 +381,7 @@ _Last updated: 2026-06-16 01:20 UTC_
 | 155 | Shameka Christon | 867 |
 | 156 | **Alanna Smith** 🔴 +1 | 865 |
 | 157 | Krystal Thomas | 862 |
-| 158 | **Nia Coffey** 🔴 +4 | 858 |
+| 158 | **Nia Coffey** 🔴 +5 | 859 |
 | 159 | Marina Mabrey | 849 |
 | 160 | Leilani Mitchell | 845 |
 | 161 | Essence Carson | 833 |
@@ -434,7 +434,7 @@ _Last updated: 2026-06-16 01:20 UTC_
 | 3 | Ticha Penicheiro | 2,588 |
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
-| 6 | **Chelsea Gray** 🔴 +5 | 1,940 |
+| 6 | **Chelsea Gray** 🔴 +6 | 1,941 |
 | 7 | Alyssa Thomas | 1,903 |
 | 8 | Skylar Diggins | 1,812 |
 | 9 | Natasha Cloud | 1,772 |
@@ -877,7 +877,7 @@ _Last updated: 2026-06-16 01:20 UTC_
 | 36 | **Jewell Loyd** 🔴 | 445 |
 | 37 | Sheri Sam | 438 |
 | 38 | Camille Smith | 437 |
-| 39 | **Kayla McBride** 🔴 | 436 |
+| 38 | **Kayla McBride** 🔴 +1 | 437 |
 | 40 | Candice Dupree | 431 |
 | 41 | Epiphanny Prince | 429 |
 | 42 | Tanisha Wright | 427 |
@@ -1602,7 +1602,7 @@ _Last updated: 2026-06-16 01:20 UTC_
 | 146 | **A'ja Wilson** 🔴 +1 | 538 |
 | 147 | Kristen Rasmussen | 533 |
 | 148 | Amanda Zahui B | 530 |
-| 149 | **Jackie Young** 🔴 +3 | 528 |
+| 149 | **Jackie Young** 🔴 +4 | 529 |
 | 150 | Damiris Dantas | 527 |
 | 151 | Candice Wiggins | 525 |
 | 151 | Epiphanny Prince | 525 |
