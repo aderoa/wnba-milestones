@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-16 03:32 UTC_
+_Last updated: 2026-06-16 03:33 UTC_
 
 ## Contents
 
@@ -49,7 +49,7 @@ _Last updated: 2026-06-16 03:32 UTC_
 | 28 | Tangela Smith | 5,035 |
 | 29 | Kelsey Mitchell | 5,003 |
 | 30 | Taj McWilliams-Franklin | 4,992 |
-| 31 | **Tiffany Hayes** 🔴 +2 | 4,987 |
+| 31 | **Tiffany Hayes** 🔴 +4 | 4,989 |
 | 32 | Maya Moore | 4,984 |
 | 33 | Sheryl Swoopes | 4,875 |
 | 34 | Alana Beard | 4,740 |
@@ -63,7 +63,7 @@ _Last updated: 2026-06-16 03:32 UTC_
 | 42 | Kristi Toliver | 4,474 |
 | 43 | Crystal Langhorne | 4,433 |
 | 43 | Jia Perkins | 4,433 |
-| 45 | **Kelsey Plum** 🔴 +7 | 4,402 |
+| 45 | **Kelsey Plum** 🔴 +9 | 4,404 |
 | 46 | Courtney Vandersloot | 4,352 |
 | 47 | Allisha Gray | 4,339 |
 | 48 | Sophia Young-Malcolm | 4,300 |
@@ -1545,8 +1545,8 @@ _Last updated: 2026-06-16 03:32 UTC_
 | 88 | Sophia Young-Malcolm | 687 |
 | 90 | Maya Moore | 686 |
 | 91 | Jasmine Thomas | 685 |
+| 92 | **Kelsey Plum** 🔴 +4 | 684 |
 | 92 | Leilani Mitchell | 684 |
-| 93 | **Kelsey Plum** 🔴 +3 | 683 |
 | 94 | Crystal Robinson | 682 |
 | 95 | Jennifer Lacy | 680 |
 | 95 | Temeka Johnson | 680 |
