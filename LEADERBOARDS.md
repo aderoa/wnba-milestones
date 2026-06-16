@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-16 02:23 UTC_
+_Last updated: 2026-06-16 02:24 UTC_
 
 ## Contents
 
@@ -208,7 +208,7 @@ _Last updated: 2026-06-16 02:23 UTC_
 | 187 | Sandy Brondello | 1,759 |
 | 188 | Sophie Cunningham | 1,752 |
 | 189 | Sugar Rodgers | 1,733 |
-| 190 | **Gabby Williams** 🔴 +4 | 1,727 |
+| 190 | **Gabby Williams** 🔴 +6 | 1,729 |
 | 191 | Moriah Jefferson | 1,722 |
 | 192 | Armintie Herrington | 1,696 |
 | 193 | Nikki Teasley | 1,690 |
@@ -228,7 +228,7 @@ _Last updated: 2026-06-16 02:23 UTC_
 | 2 | Sylvia Fowles | 4,005 |
 | 3 | Candace Parker | 3,467 |
 | 4 | Rebekkah Brunson | 3,345 |
-| 5 | **Nneka Ogwumike** 🔴 +1 | 3,338 |
+| 5 | **Nneka Ogwumike** 🔴 +2 | 3,339 |
 | 6 | Tamika Catchings | 3,313 |
 | 7 | Lisa Leslie | 3,303 |
 | 8 | DeWanna Bonner | 3,260 |
@@ -393,8 +393,8 @@ _Last updated: 2026-06-16 02:23 UTC_
 | 166 | Barbara Farris | 819 |
 | 168 | Carolyn Swords | 814 |
 | 169 | Tierra Ruffin-Pratt | 799 |
-| 170 | Betnijah Laney-Hamilton | 795 |
-| 170 | **Gabby Williams** 🔴 | 795 |
+| 170 | **Gabby Williams** 🔴 +1 | 796 |
+| 171 | Betnijah Laney-Hamilton | 795 |
 | 172 | Charlotte Smith | 794 |
 | 173 | Rhonda Mapp | 788 |
 | 174 | **Ariel Atkins** 🔴 | 786 |
