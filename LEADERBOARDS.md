@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-16 23:53 UTC_
+_Last updated: 2026-06-16 23:54 UTC_
 
 ## Contents
 
@@ -83,7 +83,7 @@ _Last updated: 2026-06-16 23:53 UTC_
 | 62 | Allie Quigley | 3,786 |
 | 63 | Chasity Melvin | 3,781 |
 | 64 | Kara Lawson | 3,670 |
-| 65 | **Brittney Sykes** 🔴 +6 | 3,627 |
+| 65 | **Brittney Sykes** 🔴 +9 | 3,630 |
 | 66 | Mwadi Mabika | 3,576 |
 | 67 | Odyssey Sims | 3,574 |
 | 68 | Camille Smith | 3,551 |
@@ -184,7 +184,7 @@ _Last updated: 2026-06-16 23:53 UTC_
 | 163 | Chiney Ogwumike | 1,964 |
 | 164 | Nicole Ohlde | 1,959 |
 | 165 | Kedra Holland-Corn | 1,938 |
-| 166 | **Aliyah Boston** 🔴 +7 | 1,935 |
+| 166 | **Aliyah Boston** 🔴 +9 | 1,937 |
 | 167 | Cathrine Kraayeveld | 1,926 |
 | 168 | Roneeka Hodges | 1,925 |
 | 169 | Latasha Byears | 1,920 |
@@ -549,8 +549,8 @@ _Last updated: 2026-06-16 23:53 UTC_
 | 118 | Michele Timms | 549 |
 | 119 | Veronica Burton | 537 |
 | 120 | Marie Ferdinand-Harris | 528 |
+| 121 | **Caitlin Clark** 🔴 +7 | 524 |
 | 121 | Margo Dydek | 524 |
-| 122 | **Caitlin Clark** 🔴 +6 | 523 |
 | 123 | **Myisha Hines-Allen** 🔴 | 520 |
 | 124 | Iziane Castro Marques | 509 |
 | 125 | Brittany Boyd-Jones | 508 |
@@ -1133,9 +1133,9 @@ _Last updated: 2026-06-16 23:53 UTC_
 | 86 | Rebecca Allen | 254 |
 | 88 | Bria Hartley | 253 |
 | 89 | Angel McCoughtry | 249 |
+| 90 | **Brittney Sykes** 🔴 +1 | 243 |
 | 90 | Erin Thorn | 243 |
 | 90 | Nneka Ogwumike | 243 |
-| 92 | **Brittney Sykes** 🔴 | 242 |
 | 93 | Azurá Stevens | 241 |
 | 94 | Alex Bentley | 239 |
 | 94 | Cynthia Cooper | 239 |
