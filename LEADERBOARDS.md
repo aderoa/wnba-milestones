@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-16 01:44 UTC_
+_Last updated: 2026-06-16 01:45 UTC_
 
 ## Contents
 
@@ -703,8 +703,8 @@ _Last updated: 2026-06-16 01:44 UTC_
 | 66 | Nicole Ohlde | 171 |
 | 68 | Jantel Lavender | 170 |
 | 69 | Camille Smith | 169 |
-| 70 | **Nia Coffey** 🔴 +2 | 165 |
-| 70 | Shameka Christon | 165 |
+| 70 | **Nia Coffey** 🔴 +3 | 166 |
+| 71 | Shameka Christon | 165 |
 | 72 | Cheryl Ford | 160 |
 | 73 | Kara Braxton | 157 |
 | 74 | Allisha Gray | 156 |
@@ -1367,8 +1367,8 @@ _Last updated: 2026-06-16 01:44 UTC_
 | 116 | Natalie Williams | 480 |
 | 117 | Ebony Hoffman | 470 |
 | 118 | Elaine Powell | 469 |
-| 119 | **A'ja Wilson** 🔴 +1 | 467 |
-| 119 | Allie Quigley | 467 |
+| 119 | **A'ja Wilson** 🔴 +2 | 468 |
+| 120 | Allie Quigley | 467 |
 | 121 | Allisha Gray | 466 |
 | 122 | Ariel Atkins | 454 |
 | 122 | Kia Vaughn | 454 |
