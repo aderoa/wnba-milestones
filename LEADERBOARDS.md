@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-16 02:29 UTC_
+_Last updated: 2026-06-16 02:30 UTC_
 
 ## Contents
 
@@ -477,7 +477,7 @@ _Last updated: 2026-06-16 02:29 UTC_
 | 46 | Tamecka Dixon | 960 |
 | 47 | Breanna Stewart | 953 |
 | 48 | Kara Lawson | 946 |
-| 49 | **Tiffany Hayes** 🔴 | 936 |
+| 49 | **Tiffany Hayes** 🔴 +1 | 937 |
 | 50 | Deanna Nolan | 930 |
 | 51 | Kelly Miller | 927 |
 | 52 | Arike Ogunbowale | 925 |
@@ -892,7 +892,7 @@ _Last updated: 2026-06-16 02:29 UTC_
 | 51 | Briann January | 386 |
 | 52 | Swin Cash | 384 |
 | 52 | Tina Charles | 384 |
-| 54 | **Tiffany Hayes** 🔴 | 382 |
+| 54 | **Tiffany Hayes** 🔴 +1 | 383 |
 | 55 | **Ariel Atkins** 🔴 +1 | 381 |
 | 56 | Jordin Canada | 380 |
 | 57 | Monique Currie | 378 |
@@ -1279,7 +1279,7 @@ _Last updated: 2026-06-16 02:29 UTC_
 | 28 | Natasha Howard | 823 |
 | 29 | Betty Lennox | 800 |
 | 30 | Jasmine Thomas | 796 |
-| 31 | **Nneka Ogwumike** 🔴 | 795 |
+| 30 | **Nneka Ogwumike** 🔴 +1 | 796 |
 | 32 | Chamique Holdsclaw | 789 |
 | 33 | Jewell Loyd | 788 |
 | 34 | Crystal Langhorne | 782 |
@@ -1547,9 +1547,9 @@ _Last updated: 2026-06-16 02:29 UTC_
 | 91 | Jasmine Thomas | 685 |
 | 92 | Leilani Mitchell | 684 |
 | 93 | Crystal Robinson | 682 |
-| 94 | Jennifer Lacy | 680 |
-| 94 | **Kelsey Plum** 🔴 | 680 |
-| 94 | Temeka Johnson | 680 |
+| 94 | **Kelsey Plum** 🔴 +1 | 681 |
+| 95 | Jennifer Lacy | 680 |
+| 95 | Temeka Johnson | 680 |
 | 97 | Kelly Miller | 676 |
 | 98 | Cheyenne Parker-Tyus | 675 |
 | 99 | Chamique Holdsclaw | 667 |
