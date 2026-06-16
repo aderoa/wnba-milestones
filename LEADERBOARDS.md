@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-16 03:22 UTC_
+_Last updated: 2026-06-16 03:23 UTC_
 
 ## Contents
 
@@ -95,8 +95,8 @@ _Last updated: 2026-06-16 03:22 UTC_
 | 74 | Tamecka Dixon | 3,507 |
 | 75 | Tammy Sutton-Brown | 3,498 |
 | 76 | Sancho Lyttle | 3,478 |
-| 77 | Ivory Latta | 3,447 |
-| 78 | **Ariel Atkins** 🔴 +4 | 3,446 |
+| 77 | **Ariel Atkins** 🔴 +6 | 3,448 |
+| 78 | Ivory Latta | 3,447 |
 | 79 | Nicole Powell | 3,407 |
 | 80 | Epiphanny Prince | 3,381 |
 | 81 | Michelle Snow | 3,361 |
@@ -228,7 +228,7 @@ _Last updated: 2026-06-16 03:22 UTC_
 | 2 | Sylvia Fowles | 4,005 |
 | 3 | Candace Parker | 3,467 |
 | 4 | Rebekkah Brunson | 3,345 |
-| 5 | **Nneka Ogwumike** 🔴 +6 | 3,343 |
+| 5 | **Nneka Ogwumike** 🔴 +7 | 3,344 |
 | 6 | Tamika Catchings | 3,313 |
 | 7 | Lisa Leslie | 3,303 |
 | 8 | DeWanna Bonner | 3,260 |
@@ -482,7 +482,7 @@ _Last updated: 2026-06-16 03:22 UTC_
 | 51 | Kelly Miller | 927 |
 | 52 | Arike Ogunbowale | 925 |
 | 53 | DeLisha Milton-Jones | 921 |
-| 54 | **Nneka Ogwumike** 🔴 +1 | 918 |
+| 54 | **Nneka Ogwumike** 🔴 +2 | 919 |
 | 55 | Angel McCoughtry | 915 |
 | 56 | Layshia Clarendon | 911 |
 | 56 | Seimone Augustus | 911 |
@@ -885,7 +885,7 @@ _Last updated: 2026-06-16 03:22 UTC_
 | 44 | Katie Smith | 408 |
 | 45 | Cappie Pondexter | 405 |
 | 46 | Nicole Powell | 401 |
-| 47 | **Dearica Hamby** 🔴 +2 | 400 |
+| 47 | **Dearica Hamby** 🔴 +1 | 399 |
 | 48 | Jasmine Thomas | 394 |
 | 49 | Danielle Robinson | 389 |
 | 50 | Deanna Nolan | 388 |
@@ -893,8 +893,8 @@ _Last updated: 2026-06-16 03:22 UTC_
 | 52 | Swin Cash | 384 |
 | 52 | Tina Charles | 384 |
 | 54 | **Tiffany Hayes** 🔴 +1 | 383 |
-| 55 | **Ariel Atkins** 🔴 | 380 |
-| 55 | Jordin Canada | 380 |
+| 55 | **Ariel Atkins** 🔴 +1 | 381 |
+| 56 | Jordin Canada | 380 |
 | 57 | Monique Currie | 378 |
 | 58 | Chamique Holdsclaw | 376 |
 | 59 | Mwadi Mabika | 370 |
