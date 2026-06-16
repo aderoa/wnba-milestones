@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-16 02:58 UTC
+
+- **Kiah Stokes** passed **Kamila Vodichkova** for **#198** all-time in steals (career 174) — up from #199 entering today — _1:25 - 2nd — LA @ GS_
+
 ## 2026-06-16 02:12 UTC
 
 - **Sug Sutton** passed **Elena Delle Donne**, **Kristi Harrower**, and **Nikki McCray** for **#144** all-time in assists (career 451) — up from #148 entering today — _Final — LV @ DAL_

@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-16 02:57 UTC_
+_Last updated: 2026-06-16 02:58 UTC_
 
 ## Contents
 
@@ -1035,9 +1035,9 @@ _Last updated: 2026-06-16 02:57 UTC_
 | 194 | Tamika Raymond | 175 |
 | 195 | Elena Delle Donne | 174 |
 | 195 | Ezi Magbegor | 174 |
+| 195 | **Kiah Stokes** 🔴 +2 | 174 |
 | 195 | Margo Dydek | 174 |
-| 198 | Kamila Vodichkova | 173 |
-| 198 | **Kiah Stokes** 🔴 +1 | 173 |
+| 199 | Kamila Vodichkova | 173 |
 | 200 | Brittney Griner | 170 |
 
 ## Three-pointers
@@ -1297,7 +1297,7 @@ _Last updated: 2026-06-16 02:57 UTC_
 | 46 | Temeka Johnson | 696 |
 | 47 | Penny Taylor | 695 |
 | 48 | Natasha Cloud | 692 |
-| 49 | **Erica Wheeler** 🔴 | 690 |
+| 49 | **Erica Wheeler** 🔴 +1 | 691 |
 | 50 | Dominique Canty | 685 |
 | 51 | DeMya Walker | 684 |
 | 52 | Asjha Jones | 682 |
@@ -1517,7 +1517,7 @@ _Last updated: 2026-06-16 02:57 UTC_
 | 61 | Skylar Diggins | 812 |
 | 62 | Nykesha Sales | 796 |
 | 63 | Ebony Hoffman | 791 |
-| 64 | **Erica Wheeler** 🔴 +1 | 788 |
+| 64 | **Erica Wheeler** 🔴 +2 | 789 |
 | 65 | Sue Bird | 775 |
 | 66 | Sheri Sam | 766 |
 | 67 | Kia Vaughn | 755 |

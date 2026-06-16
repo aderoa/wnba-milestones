@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-16T02:58:00+00:00",
+    "text": "Kiah Stokes passed Kamila Vodichkova for #198 all-time in steals (career 174) \u2014 up from #199 entering today \u2014 (1:25 - 2nd \u2014 LA @ GS)",
+    "kind": "rank_pass",
+    "player": "Kiah Stokes",
+    "stat": "steals",
+    "rank": 198,
+    "passed_players": [
+      "Kamila Vodichkova"
+    ],
+    "new_total": 174
+  },
+  {
     "ts": "2026-06-16T02:12:00+00:00",
     "text": "Sug Sutton passed Elena Delle Donne, Kristi Harrower, and Nikki McCray for #144 all-time in assists (career 451) \u2014 up from #148 entering today \u2014 (Final \u2014 LV @ DAL)",
     "kind": "rank_pass",
@@ -2978,14 +2990,5 @@
       "Riquna Williams"
     ],
     "new_total": 494
-  },
-  {
-    "ts": "2026-06-06T12:04:00+00:00",
-    "text": "Elizabeth Williams reached 2,900 career points (now 2,906) \u2014 (Final \u2014 CON @ CHI)",
-    "kind": "round",
-    "player": "Elizabeth Williams",
-    "stat": "points",
-    "value": 2900,
-    "new_total": 2906
   }
 ]
