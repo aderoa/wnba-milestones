@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-16 03:35 UTC_
+_Last updated: 2026-06-16 03:36 UTC_
 
 ## Contents
 
@@ -71,7 +71,7 @@ _Last updated: 2026-06-16 03:35 UTC_
 | 50 | Plenette Pierson | 4,258 |
 | 51 | Courtney Williams | 4,254 |
 | 52 | Monique Currie | 4,253 |
-| 53 | **Dearica Hamby** 🔴 +2 | 4,245 |
+| 53 | **Dearica Hamby** 🔴 +4 | 4,247 |
 | 54 | Vickie Johnson | 4,230 |
 | 55 | Yolanda Griffith | 4,224 |
 | 56 | Jonquel Jones | 4,222 |
@@ -451,7 +451,7 @@ _Last updated: 2026-06-16 03:35 UTC_
 | 20 | Briann January | 1,339 |
 | 21 | Dawn Staley | 1,337 |
 | 22 | Teresa Weatherspoon | 1,333 |
-| 23 | **Erica Wheeler** 🔴 +4 | 1,310 |
+| 23 | **Erica Wheeler** 🔴 +5 | 1,311 |
 | 24 | Kristi Toliver | 1,301 |
 | 25 | Katie Smith | 1,258 |
 | 26 | **Kelsey Plum** 🔴 +1 | 1,238 |
@@ -904,9 +904,9 @@ _Last updated: 2026-06-16 03:35 UTC_
 | 61 | Tan White | 360 |
 | 64 | Vickie Johnson | 357 |
 | 65 | Dominique Canty | 356 |
+| 65 | **Erica Wheeler** 🔴 +2 | 356 |
 | 65 | Renee Montgomery | 356 |
-| 67 | **Erica Wheeler** 🔴 +1 | 355 |
-| 67 | Tamecka Dixon | 355 |
+| 68 | Tamecka Dixon | 355 |
 | 69 | Vicky Bullett | 353 |
 | 70 | Svetlana Abrosimova | 352 |
 | 71 | Natasha Cloud | 349 |
