@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-16 02:03 UTC_
+_Last updated: 2026-06-16 02:04 UTC_
 
 ## Contents
 
@@ -268,7 +268,7 @@ _Last updated: 2026-06-16 02:03 UTC_
 | 42 | Kiah Stokes | 1,790 |
 | 43 | Asjha Jones | 1,751 |
 | 44 | Stefanie Dolson | 1,688 |
-| 45 | **Teaira McCowan** 🔴 +2 | 1,684 |
+| 45 | **Teaira McCowan** 🔴 +3 | 1,685 |
 | 46 | Monique Currie | 1,666 |
 | 47 | Glory Johnson | 1,640 |
 | 48 | Vickie Johnson | 1,634 |
@@ -679,7 +679,7 @@ _Last updated: 2026-06-16 02:03 UTC_
 | 43 | Skylar Diggins | 229 |
 | 44 | Chasity Melvin | 228 |
 | 45 | Alanna Smith | 224 |
-| 46 | **Teaira McCowan** 🔴 | 222 |
+| 46 | **Teaira McCowan** 🔴 +1 | 223 |
 | 47 | Sancho Lyttle | 221 |
 | 48 | Alana Beard | 220 |
 | 49 | Janell Burse | 216 |
@@ -1564,8 +1564,8 @@ _Last updated: 2026-06-16 02:03 UTC_
 | 107 | Kiah Stokes | 632 |
 | 109 | Nicole Ohlde | 631 |
 | 110 | Jennifer Gillom | 629 |
-| 111 | Deanna Nolan | 628 |
-| 111 | **Teaira McCowan** 🔴 +1 | 628 |
+| 110 | **Teaira McCowan** 🔴 +2 | 629 |
+| 112 | Deanna Nolan | 628 |
 | 113 | Brionna Jones | 625 |
 | 114 | Chelsea Gray | 624 |
 | 115 | Courtney Paris | 617 |
