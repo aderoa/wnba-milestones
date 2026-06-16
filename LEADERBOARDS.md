@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-16 00:45 UTC_
+_Last updated: 2026-06-16 00:46 UTC_
 
 ## Contents
 
@@ -202,7 +202,7 @@ _Last updated: 2026-06-16 00:45 UTC_
 | 181 | Rachel Banham | 1,823 |
 | 182 | Danielle Adams | 1,820 |
 | 183 | Charde Houston | 1,797 |
-| 184 | **NaLyssa Smith** 🔴 | 1,775 |
+| 184 | **NaLyssa Smith** 🔴 +2 | 1,777 |
 | 185 | Kamila Vodichkova | 1,767 |
 | 186 | Tully Bevilaqua | 1,763 |
 | 187 | Sandy Brondello | 1,759 |
@@ -434,7 +434,7 @@ _Last updated: 2026-06-16 00:45 UTC_
 | 3 | Ticha Penicheiro | 2,588 |
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
-| 6 | **Chelsea Gray** 🔴 +3 | 1,938 |
+| 6 | **Chelsea Gray** 🔴 +4 | 1,939 |
 | 7 | Alyssa Thomas | 1,903 |
 | 8 | Skylar Diggins | 1,812 |
 | 9 | Natasha Cloud | 1,772 |
@@ -596,8 +596,8 @@ _Last updated: 2026-06-16 00:45 UTC_
 | 165 | Rita Williams | 403 |
 | 166 | Kia Nurse | 402 |
 | 167 | Julie Allemand | 401 |
-| 168 | **Jessica Shepard** 🔴 +4 | 399 |
-| 168 | Marissa Coleman | 399 |
+| 168 | **Jessica Shepard** 🔴 +5 | 400 |
+| 169 | Marissa Coleman | 399 |
 | 170 | Aliyah Boston | 398 |
 | 171 | Stacey Dales | 395 |
 | 172 | Sugar Rodgers | 393 |
@@ -911,8 +911,8 @@ _Last updated: 2026-06-16 00:45 UTC_
 | 70 | Svetlana Abrosimova | 352 |
 | 71 | Natasha Cloud | 349 |
 | 72 | **A'ja Wilson** 🔴 | 346 |
+| 72 | **Arike Ogunbowale** 🔴 +1 | 346 |
 | 72 | Janeth Arcain | 346 |
-| 74 | **Arike Ogunbowale** 🔴 | 345 |
 | 75 | Helen Darling | 343 |
 | 76 | Andrea Stinson | 342 |
 | 77 | Armintie Herrington | 340 |
@@ -1367,9 +1367,9 @@ _Last updated: 2026-06-16 00:45 UTC_
 | 116 | Natalie Williams | 480 |
 | 117 | Ebony Hoffman | 470 |
 | 118 | Elaine Powell | 469 |
+| 119 | **A'ja Wilson** 🔴 +1 | 467 |
 | 119 | Allie Quigley | 467 |
-| 120 | **A'ja Wilson** 🔴 | 466 |
-| 120 | Allisha Gray | 466 |
+| 121 | Allisha Gray | 466 |
 | 122 | Ariel Atkins | 454 |
 | 122 | Kia Vaughn | 454 |
 | 124 | Janeth Arcain | 453 |
@@ -1603,7 +1603,7 @@ _Last updated: 2026-06-16 00:45 UTC_
 | 147 | Kristen Rasmussen | 533 |
 | 148 | Amanda Zahui B | 530 |
 | 149 | Damiris Dantas | 527 |
-| 150 | **Jackie Young** 🔴 +1 | 526 |
+| 149 | **Jackie Young** 🔴 +2 | 527 |
 | 151 | Candice Wiggins | 525 |
 | 151 | Epiphanny Prince | 525 |
 | 153 | Armintie Herrington | 523 |
