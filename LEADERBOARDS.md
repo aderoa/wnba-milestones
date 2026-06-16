@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-16 00:20 UTC_
+_Last updated: 2026-06-16 00:21 UTC_
 
 ## Contents
 
@@ -1376,7 +1376,7 @@ _Last updated: 2026-06-16 00:20 UTC_
 | 125 | Betnijah Laney-Hamilton | 444 |
 | 125 | Elena Baranova | 444 |
 | 125 | Jantel Lavender | 444 |
-| 128 | **Jackie Young** 🔴 | 441 |
+| 128 | **Jackie Young** 🔴 +1 | 442 |
 | 129 | Alysha Clark | 440 |
 | 129 | Ann Wauters | 440 |
 | 129 | **Cheyenne Parker-Tyus** 🔴 | 440 |
