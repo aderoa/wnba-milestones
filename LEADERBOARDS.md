@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-16 02:20 UTC_
+_Last updated: 2026-06-16 02:21 UTC_
 
 ## Contents
 
@@ -63,7 +63,7 @@ _Last updated: 2026-06-16 02:20 UTC_
 | 42 | Kristi Toliver | 4,474 |
 | 43 | Crystal Langhorne | 4,433 |
 | 43 | Jia Perkins | 4,433 |
-| 45 | **Kelsey Plum** 🔴 +3 | 4,398 |
+| 45 | **Kelsey Plum** 🔴 +4 | 4,399 |
 | 46 | Courtney Vandersloot | 4,352 |
 | 47 | Allisha Gray | 4,339 |
 | 48 | Sophia Young-Malcolm | 4,300 |
@@ -208,7 +208,7 @@ _Last updated: 2026-06-16 02:20 UTC_
 | 187 | Sandy Brondello | 1,759 |
 | 188 | Sophie Cunningham | 1,752 |
 | 189 | Sugar Rodgers | 1,733 |
-| 190 | **Gabby Williams** 🔴 +2 | 1,725 |
+| 190 | **Gabby Williams** 🔴 +3 | 1,726 |
 | 191 | Moriah Jefferson | 1,722 |
 | 192 | Armintie Herrington | 1,696 |
 | 193 | Nikki Teasley | 1,690 |
