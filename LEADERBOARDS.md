@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-16 03:23 UTC_
+_Last updated: 2026-06-16 03:24 UTC_
 
 ## Contents
 
@@ -71,7 +71,7 @@ _Last updated: 2026-06-16 03:23 UTC_
 | 50 | Plenette Pierson | 4,258 |
 | 51 | Courtney Williams | 4,254 |
 | 52 | Monique Currie | 4,253 |
-| 53 | **Dearica Hamby** 🔴 | 4,243 |
+| 53 | **Dearica Hamby** 🔴 +2 | 4,245 |
 | 54 | Vickie Johnson | 4,230 |
 | 55 | Yolanda Griffith | 4,224 |
 | 56 | Jonquel Jones | 4,222 |
@@ -454,7 +454,7 @@ _Last updated: 2026-06-16 03:23 UTC_
 | 23 | **Erica Wheeler** 🔴 +4 | 1,310 |
 | 24 | Kristi Toliver | 1,301 |
 | 25 | Katie Smith | 1,258 |
-| 26 | **Kelsey Plum** 🔴 | 1,237 |
+| 26 | **Kelsey Plum** 🔴 +1 | 1,238 |
 | 27 | Odyssey Sims | 1,228 |
 | 28 | Vickie Johnson | 1,202 |
 | 29 | Jordin Canada | 1,201 |
@@ -1430,7 +1430,7 @@ _Last updated: 2026-06-16 03:23 UTC_
 | 179 | Le'coe Willingham | 325 |
 | 180 | Caitlin Clark | 324 |
 | 180 | Olympia Scott | 324 |
-| 182 | **Gabby Williams** 🔴 +1 | 321 |
+| 182 | **Gabby Williams** 🔴 +2 | 322 |
 | 183 | Kia Nurse | 316 |
 | 184 | Barbara Farris | 315 |
 | 185 | Moriah Jefferson | 314 |
