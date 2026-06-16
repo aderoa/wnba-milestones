@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-16 00:37 UTC_
+_Last updated: 2026-06-16 00:38 UTC_
 
 ## Contents
 
@@ -56,7 +56,7 @@ _Last updated: 2026-06-16 00:37 UTC_
 | 35 | Chamique Holdsclaw | 4,713 |
 | 36 | Elena Delle Donne | 4,706 |
 | 37 | Alyssa Thomas | 4,653 |
-| 38 | **Arike Ogunbowale** 🔴 +8 | 4,620 |
+| 38 | **Arike Ogunbowale** 🔴 +11 | 4,623 |
 | 39 | Penny Taylor | 4,595 |
 | 40 | **Natasha Howard** 🔴 +4 | 4,532 |
 | 41 | **Chelsea Gray** 🔴 | 4,506 |
@@ -321,7 +321,7 @@ _Last updated: 2026-06-16 00:37 UTC_
 | 95 | **Brianna Turner** 🔴 | 1,237 |
 | 96 | **Kayla McBride** 🔴 +3 | 1,229 |
 | 97 | Seimone Augustus | 1,228 |
-| 98 | **Chelsea Gray** 🔴 +1 | 1,222 |
+| 98 | **Chelsea Gray** 🔴 +2 | 1,223 |
 | 99 | Jia Perkins | 1,220 |
 | 100 | DeMya Walker | 1,199 |
 | 101 | Latasha Byears | 1,190 |
@@ -367,7 +367,7 @@ _Last updated: 2026-06-16 00:37 UTC_
 | 141 | Dominique Canty | 961 |
 | 142 | Armintie Herrington | 960 |
 | 143 | Janell Burse | 944 |
-| 144 | **Jessica Shepard** 🔴 +4 | 931 |
+| 144 | **Jessica Shepard** 🔴 +5 | 932 |
 | 145 | Merlakia Jones | 927 |
 | 146 | Satou Sabally | 926 |
 | 147 | Angel Reese | 923 |
@@ -598,7 +598,7 @@ _Last updated: 2026-06-16 00:37 UTC_
 | 167 | Julie Allemand | 401 |
 | 168 | Marissa Coleman | 399 |
 | 169 | Aliyah Boston | 398 |
-| 170 | **Jessica Shepard** 🔴 +2 | 397 |
+| 169 | **Jessica Shepard** 🔴 +3 | 398 |
 | 171 | Stacey Dales | 395 |
 | 172 | Sugar Rodgers | 393 |
 | 173 | Shameka Christon | 389 |
@@ -1059,7 +1059,7 @@ _Last updated: 2026-06-16 00:37 UTC_
 | 13 | Tamika Catchings | 605 |
 | 14 | Kara Lawson | 583 |
 | 15 | Nicole Powell | 579 |
-| 16 | **Arike Ogunbowale** 🔴 +1 | 567 |
+| 16 | **Arike Ogunbowale** 🔴 +2 | 568 |
 | 17 | Ivory Latta | 536 |
 | 18 | Renee Montgomery | 532 |
 | 19 | Maya Moore | 530 |
@@ -1269,7 +1269,7 @@ _Last updated: 2026-06-16 00:37 UTC_
 | 18 | Cappie Pondexter | 945 |
 | 19 | Katie Smith | 935 |
 | 20 | Shannon Johnson | 934 |
-| 21 | **Chelsea Gray** 🔴 +1 | 899 |
+| 21 | **Chelsea Gray** 🔴 +2 | 900 |
 | 22 | Taj McWilliams-Franklin | 898 |
 | 23 | Skylar Diggins | 893 |
 | 24 | Candice Dupree | 869 |
