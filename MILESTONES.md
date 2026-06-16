@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-16 00:28 UTC
+
+- **Cheyenne Parker-Tyus** passed **Alysha Clark** and **Ann Wauters** for **#129** all-time in turnovers (career 441) — up from #131 entering today — _27.7 - 1st — LV @ DAL_
+
 ## 2026-06-14 21:09 UTC
 
 - **Jordin Canada** passed **Tiffany Hayes** for **#54** all-time in steals (career 383) — up from #56 entering today — _2:10 - 4th — ATL @ TOR_

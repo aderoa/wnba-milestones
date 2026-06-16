@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-16 00:27 UTC_
+_Last updated: 2026-06-16 00:28 UTC_
 
 ## Contents
 
@@ -136,8 +136,8 @@ _Last updated: 2026-06-16 00:27 UTC_
 | 115 | Janeth Arcain | 2,633 |
 | 116 | Temeka Johnson | 2,620 |
 | 117 | Leilani Mitchell | 2,618 |
+| 118 | **Cheyenne Parker-Tyus** 🔴 +2 | 2,601 |
 | 118 | Cynthia Cooper | 2,601 |
-| 119 | **Cheyenne Parker-Tyus** 🔴 | 2,599 |
 | 120 | Tan White | 2,595 |
 | 121 | Kelly Miller | 2,558 |
 | 122 | Glory Johnson | 2,531 |
@@ -318,7 +318,7 @@ _Last updated: 2026-06-16 00:27 UTC_
 | 92 | Tiffany Hayes | 1,244 |
 | 93 | Ezi Magbegor | 1,243 |
 | 94 | Myisha Hines-Allen | 1,239 |
-| 95 | Brianna Turner | 1,237 |
+| 95 | **Brianna Turner** 🔴 | 1,237 |
 | 96 | **Kayla McBride** 🔴 +2 | 1,228 |
 | 96 | Seimone Augustus | 1,228 |
 | 98 | **Chelsea Gray** 🔴 +1 | 1,222 |
@@ -481,7 +481,7 @@ _Last updated: 2026-06-16 00:27 UTC_
 | 50 | Deanna Nolan | 930 |
 | 51 | Kelly Miller | 927 |
 | 52 | DeLisha Milton-Jones | 921 |
-| 53 | **Arike Ogunbowale** 🔴 +1 | 919 |
+| 53 | **Arike Ogunbowale** 🔴 +2 | 920 |
 | 54 | Nneka Ogwumike | 917 |
 | 55 | Angel McCoughtry | 915 |
 | 56 | Layshia Clarendon | 911 |
@@ -675,7 +675,7 @@ _Last updated: 2026-06-16 00:27 UTC_
 | 39 | Napheesa Collier | 239 |
 | 40 | Emma Meesseman | 238 |
 | 41 | Azurá Stevens | 233 |
-| 41 | Brianna Turner | 233 |
+| 41 | **Brianna Turner** 🔴 | 233 |
 | 43 | Skylar Diggins | 229 |
 | 44 | Chasity Melvin | 228 |
 | 45 | **Alanna Smith** 🔴 | 224 |
@@ -1377,9 +1377,9 @@ _Last updated: 2026-06-16 00:27 UTC_
 | 125 | Elena Baranova | 444 |
 | 125 | Jantel Lavender | 444 |
 | 128 | **Jackie Young** 🔴 +1 | 442 |
-| 129 | Alysha Clark | 440 |
-| 129 | Ann Wauters | 440 |
-| 129 | **Cheyenne Parker-Tyus** 🔴 | 440 |
+| 129 | **Cheyenne Parker-Tyus** 🔴 +1 | 441 |
+| 130 | Alysha Clark | 440 |
+| 130 | Ann Wauters | 440 |
 | 132 | Tiffany Mitchell | 439 |
 | 133 | Kedra Holland-Corn | 438 |
 | 134 | Jennifer Gillom | 434 |

@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-06-16T00:28:00+00:00",
+    "text": "Cheyenne Parker-Tyus passed Alysha Clark and Ann Wauters for #129 all-time in turnovers (career 441) \u2014 up from #131 entering today \u2014 (27.7 - 1st \u2014 LV @ DAL)",
+    "kind": "rank_pass",
+    "player": "Cheyenne Parker-Tyus",
+    "stat": "turnovers",
+    "rank": 129,
+    "passed_players": [
+      "Alysha Clark",
+      "Ann Wauters"
+    ],
+    "new_total": 441
+  },
+  {
     "ts": "2026-06-14T21:09:00+00:00",
     "text": "Jordin Canada passed Tiffany Hayes for #54 all-time in steals (career 383) \u2014 up from #56 entering today \u2014 (2:10 - 4th \u2014 ATL @ TOR)",
     "kind": "rank_pass",
@@ -2964,14 +2977,5 @@
     "stat": "turnovers",
     "value": 200,
     "new_total": 202
-  },
-  {
-    "ts": "2026-06-06T12:04:00+00:00",
-    "text": "Maddy Siegrist reached 300 career rebounds (now 300) \u2014 (Final \u2014 DAL @ LA)",
-    "kind": "round",
-    "player": "Maddy Siegrist",
-    "stat": "rebounds",
-    "value": 300,
-    "new_total": 300
   }
 ]
