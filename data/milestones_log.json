@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-16T01:46:00+00:00",
+    "text": "Jessica Shepard passed Rita Williams for #165 all-time in assists (career 404) \u2014 up from #170 entering today \u2014 (6:01 - 4th \u2014 LV @ DAL)",
+    "kind": "rank_pass",
+    "player": "Jessica Shepard",
+    "stat": "assists",
+    "rank": 165,
+    "passed_players": [
+      "Rita Williams"
+    ],
+    "new_total": 404
+  },
+  {
     "ts": "2026-06-16T01:41:00+00:00",
     "text": "Jessica Shepard passed Kia Nurse for #166 all-time in assists (career 403) \u2014 up from #170 entering today \u2014 (7:18 - 4th \u2014 LV @ DAL)",
     "kind": "rank_pass",
@@ -2968,17 +2980,5 @@
     "stat": "points",
     "value": 1000,
     "new_total": 1013
-  },
-  {
-    "ts": "2026-06-06T12:04:00+00:00",
-    "text": "Jessica Shepard passed Merlakia Jones for #145 all-time in rebounds (career 942) \u2014 (Final \u2014 DAL @ LA)",
-    "kind": "rank_pass",
-    "player": "Jessica Shepard",
-    "stat": "rebounds",
-    "rank": 145,
-    "passed_players": [
-      "Merlakia Jones"
-    ],
-    "new_total": 942
   }
 ]

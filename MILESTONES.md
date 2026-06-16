@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-16 01:46 UTC
+
+- **Jessica Shepard** passed **Rita Williams** for **#165** all-time in assists (career 404) — up from #170 entering today — _6:01 - 4th — LV @ DAL_
+
 ## 2026-06-16 01:41 UTC
 
 - **Jessica Shepard** passed **Kia Nurse** for **#166** all-time in assists (career 403) — up from #170 entering today — _7:18 - 4th — LV @ DAL_
