@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-16 01:40 UTC
+
+- **Kierstan Bell** reached **100** career fouls (now 100) — _7:55 - 4th — LV @ DAL_
+
 ## 2026-06-16 01:27 UTC
 
 - **Cheyenne Parker-Tyus** passed **Asjha Jones**, **Candice Wiggins**, and **Elena Baranova** for **#153** all-time in steals (career 216) — up from #155 entering today — _2:51 - 3rd — LV @ DAL_

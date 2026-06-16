@@ -1,5 +1,14 @@
 [
   {
+    "ts": "2026-06-16T01:40:00+00:00",
+    "text": "Kierstan Bell reached 100 career fouls (now 100) \u2014 (7:55 - 4th \u2014 LV @ DAL)",
+    "kind": "round",
+    "player": "Kierstan Bell",
+    "stat": "fouls",
+    "value": 100,
+    "new_total": 100
+  },
+  {
     "ts": "2026-06-16T01:27:00+00:00",
     "text": "Cheyenne Parker-Tyus passed Asjha Jones, Candice Wiggins, and Elena Baranova for #153 all-time in steals (career 216) \u2014 up from #155 entering today \u2014 (2:51 - 3rd \u2014 LV @ DAL)",
     "kind": "rank_pass",
@@ -2967,20 +2976,6 @@
     "player": "Jessica Shepard",
     "stat": "assists",
     "value": 400,
-    "new_total": 400
-  },
-  {
-    "ts": "2026-06-06T12:04:00+00:00",
-    "text": "Jessica Shepard passed Marissa Coleman, Aliyah Boston, and Stacey Dales for #168 all-time in assists (career 400) \u2014 up from #170 entering today \u2014 (Final \u2014 DAL @ LA)",
-    "kind": "rank_pass",
-    "player": "Jessica Shepard",
-    "stat": "assists",
-    "rank": 168,
-    "passed_players": [
-      "Marissa Coleman",
-      "Aliyah Boston",
-      "Stacey Dales"
-    ],
     "new_total": 400
   }
 ]
