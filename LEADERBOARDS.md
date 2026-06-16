@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-16 01:27 UTC_
+_Last updated: 2026-06-16 01:28 UTC_
 
 ## Contents
 
@@ -37,7 +37,7 @@ _Last updated: 2026-06-16 01:27 UTC_
 | 16 | Brittney Griner | 6,031 |
 | 17 | Lauren Jackson | 6,005 |
 | 17 | Seimone Augustus | 6,005 |
-| 19 | **A'ja Wilson** 🔴 +16 | 5,958 |
+| 19 | **A'ja Wilson** 🔴 +18 | 5,960 |
 | 20 | Becky Hammon | 5,816 |
 | 21 | Angel McCoughtry | 5,797 |
 | 22 | Skylar Diggins | 5,626 |
@@ -136,8 +136,8 @@ _Last updated: 2026-06-16 01:27 UTC_
 | 115 | Janeth Arcain | 2,633 |
 | 116 | Temeka Johnson | 2,620 |
 | 117 | Leilani Mitchell | 2,618 |
-| 118 | **Cheyenne Parker-Tyus** 🔴 +2 | 2,601 |
-| 118 | Cynthia Cooper | 2,601 |
+| 118 | **Cheyenne Parker-Tyus** 🔴 +4 | 2,603 |
+| 119 | Cynthia Cooper | 2,601 |
 | 120 | Tan White | 2,595 |
 | 121 | Kelly Miller | 2,558 |
 | 122 | Glory Johnson | 2,531 |
@@ -238,7 +238,7 @@ _Last updated: 2026-06-16 01:27 UTC_
 | 12 | Alyssa Thomas | 2,817 |
 | 13 | Jonquel Jones | 2,663 |
 | 14 | Sancho Lyttle | 2,596 |
-| 15 | **A'ja Wilson** 🔴 +4 | 2,578 |
+| 15 | **A'ja Wilson** 🔴 +5 | 2,579 |
 | 16 | DeLisha Milton-Jones | 2,574 |
 | 17 | Breanna Stewart | 2,560 |
 | 18 | Brittney Griner | 2,556 |
@@ -434,7 +434,7 @@ _Last updated: 2026-06-16 01:27 UTC_
 | 3 | Ticha Penicheiro | 2,588 |
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
-| 6 | **Chelsea Gray** 🔴 +6 | 1,941 |
+| 6 | **Chelsea Gray** 🔴 +8 | 1,943 |
 | 7 | Alyssa Thomas | 1,903 |
 | 8 | Skylar Diggins | 1,812 |
 | 9 | Natasha Cloud | 1,772 |
@@ -594,9 +594,9 @@ _Last updated: 2026-06-16 01:27 UTC_
 | 162 | Murriel Page | 410 |
 | 164 | Allison Feaster | 406 |
 | 165 | Rita Williams | 403 |
+| 166 | **Jessica Shepard** 🔴 +7 | 402 |
 | 166 | Kia Nurse | 402 |
-| 167 | **Jessica Shepard** 🔴 +6 | 401 |
-| 167 | Julie Allemand | 401 |
+| 168 | Julie Allemand | 401 |
 | 169 | Marissa Coleman | 399 |
 | 170 | Aliyah Boston | 398 |
 | 171 | Stacey Dales | 395 |
@@ -910,7 +910,7 @@ _Last updated: 2026-06-16 01:27 UTC_
 | 69 | Vicky Bullett | 353 |
 | 70 | Svetlana Abrosimova | 352 |
 | 71 | Natasha Cloud | 349 |
-| 72 | **A'ja Wilson** 🔴 +2 | 348 |
+| 72 | **A'ja Wilson** 🔴 +1 | 347 |
 | 73 | **Arike Ogunbowale** 🔴 +1 | 346 |
 | 73 | Janeth Arcain | 346 |
 | 75 | Helen Darling | 343 |
