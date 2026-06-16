@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-16 02:15 UTC_
+_Last updated: 2026-06-16 02:16 UTC_
 
 ## Contents
 
@@ -208,7 +208,7 @@ _Last updated: 2026-06-16 02:15 UTC_
 | 187 | Sandy Brondello | 1,759 |
 | 188 | Sophie Cunningham | 1,752 |
 | 189 | Sugar Rodgers | 1,733 |
-| 190 | **Gabby Williams** 🔴 | 1,723 |
+| 190 | **Gabby Williams** 🔴 +2 | 1,725 |
 | 191 | Moriah Jefferson | 1,722 |
 | 192 | Armintie Herrington | 1,696 |
 | 193 | Nikki Teasley | 1,690 |
@@ -616,7 +616,7 @@ _Last updated: 2026-06-16 02:15 UTC_
 | 185 | Andrea Nagy | 361 |
 | 185 | Diamond DeShields | 361 |
 | 185 | Erlana Larkins | 361 |
-| 188 | **Kayla Thornton** 🔴 | 358 |
+| 188 | **Kayla Thornton** 🔴 +1 | 359 |
 | 189 | Merlakia Jones | 355 |
 | 190 | Charlotte Smith | 352 |
 | 190 | Ruthie Bolton | 352 |
@@ -1517,7 +1517,7 @@ _Last updated: 2026-06-16 02:15 UTC_
 | 61 | Skylar Diggins | 812 |
 | 62 | Nykesha Sales | 796 |
 | 63 | Ebony Hoffman | 791 |
-| 64 | **Erica Wheeler** 🔴 | 787 |
+| 64 | **Erica Wheeler** 🔴 +1 | 788 |
 | 65 | Sue Bird | 775 |
 | 66 | Sheri Sam | 766 |
 | 67 | Kia Vaughn | 755 |
