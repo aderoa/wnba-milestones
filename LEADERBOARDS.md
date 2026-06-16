@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-16 00:15 UTC_
+_Last updated: 2026-06-16 00:16 UTC_
 
 ## Contents
 
@@ -37,7 +37,7 @@ _Last updated: 2026-06-16 00:15 UTC_
 | 16 | Brittney Griner | 6,031 |
 | 17 | Lauren Jackson | 6,005 |
 | 17 | Seimone Augustus | 6,005 |
-| 19 | **A'ja Wilson** 🔴 +2 | 5,944 |
+| 19 | **A'ja Wilson** 🔴 +4 | 5,946 |
 | 20 | Becky Hammon | 5,816 |
 | 21 | Angel McCoughtry | 5,797 |
 | 22 | Skylar Diggins | 5,626 |
@@ -335,7 +335,7 @@ _Last updated: 2026-06-16 00:15 UTC_
 | 109 | Andrea Stinson | 1,127 |
 | 109 | Tamika Raymond | 1,127 |
 | 111 | Adrienne Goodson | 1,126 |
-| 112 | **NaLyssa Smith** 🔴 +1 | 1,116 |
+| 112 | **NaLyssa Smith** 🔴 +2 | 1,117 |
 | 113 | Deanna Nolan | 1,112 |
 | 113 | Natasha Cloud | 1,112 |
 | 115 | Aliyah Boston | 1,110 |
@@ -367,7 +367,7 @@ _Last updated: 2026-06-16 00:15 UTC_
 | 141 | Dominique Canty | 961 |
 | 142 | Armintie Herrington | 960 |
 | 143 | Janell Burse | 944 |
-| 144 | **Jessica Shepard** 🔴 +3 | 930 |
+| 144 | **Jessica Shepard** 🔴 +4 | 931 |
 | 145 | Merlakia Jones | 927 |
 | 146 | Satou Sabally | 926 |
 | 147 | Angel Reese | 923 |
@@ -815,13 +815,13 @@ _Last updated: 2026-06-16 00:15 UTC_
 | 177 | Tianna Hawkins | 75 |
 | 180 | Epiphanny Prince | 74 |
 | 180 | Myisha Hines-Allen | 74 |
+| 182 | **Awak Kuier** 🔴 +1 | 73 |
 | 182 | Ayana Walker | 73 |
 | 182 | Lindsay Wisdom-Hylton | 73 |
-| 184 | **Awak Kuier** 🔴 | 72 |
-| 184 | Cappie Pondexter | 72 |
-| 184 | Christi Thomas | 72 |
-| 184 | Olympia Scott | 72 |
-| 184 | Sue Bird | 72 |
+| 185 | Cappie Pondexter | 72 |
+| 185 | Christi Thomas | 72 |
+| 185 | Olympia Scott | 72 |
+| 185 | Sue Bird | 72 |
 | 189 | Marlies Askamp | 71 |
 | 189 | Tanisha Wright | 71 |
 | 191 | Wendy Palmer | 70 |
@@ -1307,7 +1307,7 @@ _Last updated: 2026-06-16 00:15 UTC_
 | 56 | Tammy Sutton-Brown | 672 |
 | 57 | Deanna Nolan | 669 |
 | 58 | Chasity Melvin | 666 |
-| 59 | **Courtney Williams** 🔴 | 662 |
+| 59 | **Courtney Williams** 🔴 +1 | 663 |
 | 60 | Vickie Johnson | 660 |
 | 61 | Yolanda Griffith | 653 |
 | 62 | Sheri Sam | 650 |
