@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-16 00:43 UTC_
+_Last updated: 2026-06-16 00:44 UTC_
 
 ## Contents
 
@@ -70,7 +70,7 @@ _Last updated: 2026-06-16 00:43 UTC_
 | 49 | Kahleah Copper | 4,283 |
 | 50 | Plenette Pierson | 4,258 |
 | 51 | Monique Currie | 4,253 |
-| 52 | **Courtney Williams** 🔴 +6 | 4,244 |
+| 52 | **Courtney Williams** 🔴 +9 | 4,247 |
 | 53 | Dearica Hamby | 4,243 |
 | 54 | Vickie Johnson | 4,230 |
 | 55 | Yolanda Griffith | 4,224 |
@@ -249,7 +249,7 @@ _Last updated: 2026-06-16 00:43 UTC_
 | 23 | Yolanda Griffith | 2,440 |
 | 24 | Dearica Hamby | 2,391 |
 | 25 | Tangela Smith | 2,328 |
-| 26 | **Natasha Howard** 🔴 +1 | 2,254 |
+| 26 | **Natasha Howard** 🔴 +2 | 2,255 |
 | 27 | Erika de Souza | 2,220 |
 | 28 | Diana Taurasi | 2,201 |
 | 29 | Margo Dydek | 2,138 |
@@ -261,9 +261,9 @@ _Last updated: 2026-06-16 00:43 UTC_
 | 35 | Plenette Pierson | 1,834 |
 | 36 | Natalie Williams | 1,832 |
 | 37 | Wendy Palmer | 1,824 |
+| 38 | **Courtney Williams** 🔴 +6 | 1,807 |
 | 38 | Sophia Young-Malcolm | 1,807 |
-| 39 | **Courtney Williams** 🔴 +4 | 1,805 |
-| 39 | Lindsay Whalen | 1,805 |
+| 40 | Lindsay Whalen | 1,805 |
 | 41 | Camille Smith | 1,802 |
 | 42 | Kiah Stokes | 1,790 |
 | 43 | Asjha Jones | 1,751 |
@@ -319,7 +319,7 @@ _Last updated: 2026-06-16 00:43 UTC_
 | 93 | Ezi Magbegor | 1,243 |
 | 94 | Myisha Hines-Allen | 1,239 |
 | 95 | **Brianna Turner** 🔴 | 1,237 |
-| 96 | **Kayla McBride** 🔴 +3 | 1,229 |
+| 96 | **Kayla McBride** 🔴 +4 | 1,230 |
 | 97 | Seimone Augustus | 1,228 |
 | 98 | **Chelsea Gray** 🔴 +2 | 1,223 |
 | 99 | Jia Perkins | 1,220 |
@@ -1126,8 +1126,8 @@ _Last updated: 2026-06-16 00:43 UTC_
 | 80 | Monique Currie | 284 |
 | 81 | Iziane Castro Marques | 275 |
 | 82 | Stefanie Dolson | 273 |
+| 83 | **Courtney Williams** 🔴 +1 | 270 |
 | 83 | Sheryl Swoopes | 270 |
-| 84 | **Courtney Williams** 🔴 | 269 |
 | 85 | Sophia Witherspoon | 260 |
 | 86 | Dawn Staley | 254 |
 | 86 | Rebecca Allen | 254 |
@@ -1312,8 +1312,8 @@ _Last updated: 2026-06-16 00:43 UTC_
 | 61 | Yolanda Griffith | 653 |
 | 62 | Sheri Sam | 650 |
 | 63 | Dawn Staley | 643 |
-| 64 | **Kayla McBride** 🔴 +1 | 637 |
-| 64 | Ruth Riley | 637 |
+| 64 | **Kayla McBride** 🔴 +2 | 638 |
+| 65 | Ruth Riley | 637 |
 | 66 | Kelsey Plum | 636 |
 | 67 | Odyssey Sims | 631 |
 | 67 | Svetlana Abrosimova | 631 |
@@ -1579,7 +1579,7 @@ _Last updated: 2026-06-16 00:43 UTC_
 | 123 | Janel McCarville | 597 |
 | 124 | Kamila Vodichkova | 596 |
 | 125 | Teresa Weatherspoon | 589 |
-| 126 | **Arike Ogunbowale** 🔴 | 586 |
+| 126 | **Arike Ogunbowale** 🔴 +1 | 587 |
 | 127 | Emma Meesseman | 585 |
 | 128 | Chiney Ogwumike | 580 |
 | 128 | Hamchetou Maiga-Ba | 580 |
