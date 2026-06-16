@@ -1,5 +1,19 @@
 [
   {
+    "ts": "2026-06-16T01:27:00+00:00",
+    "text": "Cheyenne Parker-Tyus passed Asjha Jones, Candice Wiggins, and Elena Baranova for #153 all-time in steals (career 216) \u2014 up from #155 entering today \u2014 (2:51 - 3rd \u2014 LV @ DAL)",
+    "kind": "rank_pass",
+    "player": "Cheyenne Parker-Tyus",
+    "stat": "steals",
+    "rank": 153,
+    "passed_players": [
+      "Asjha Jones",
+      "Candice Wiggins",
+      "Elena Baranova"
+    ],
+    "new_total": 216
+  },
+  {
     "ts": "2026-06-16T00:28:00+00:00",
     "text": "Cheyenne Parker-Tyus passed Alysha Clark and Ann Wauters for #129 all-time in turnovers (career 441) \u2014 up from #131 entering today \u2014 (27.7 - 1st \u2014 LV @ DAL)",
     "kind": "rank_pass",
@@ -2968,14 +2982,5 @@
       "Stacey Dales"
     ],
     "new_total": 400
-  },
-  {
-    "ts": "2026-06-06T12:04:00+00:00",
-    "text": "Jessica Shepard reached 200 career turnovers (now 202) \u2014 (Final \u2014 DAL @ LA)",
-    "kind": "round",
-    "player": "Jessica Shepard",
-    "stat": "turnovers",
-    "value": 200,
-    "new_total": 202
   }
 ]

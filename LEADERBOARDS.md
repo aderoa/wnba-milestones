@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-16 01:26 UTC_
+_Last updated: 2026-06-16 01:27 UTC_
 
 ## Contents
 
@@ -58,7 +58,7 @@ _Last updated: 2026-06-16 01:26 UTC_
 | 37 | Alyssa Thomas | 4,653 |
 | 38 | **Arike Ogunbowale** 🔴 +16 | 4,628 |
 | 39 | Penny Taylor | 4,595 |
-| 40 | **Natasha Howard** 🔴 +15 | 4,543 |
+| 40 | **Natasha Howard** 🔴 +16 | 4,544 |
 | 41 | **Chelsea Gray** 🔴 | 4,506 |
 | 42 | Kristi Toliver | 4,474 |
 | 43 | Crystal Langhorne | 4,433 |
@@ -910,7 +910,7 @@ _Last updated: 2026-06-16 01:26 UTC_
 | 69 | Vicky Bullett | 353 |
 | 70 | Svetlana Abrosimova | 352 |
 | 71 | Natasha Cloud | 349 |
-| 72 | **A'ja Wilson** 🔴 +1 | 347 |
+| 72 | **A'ja Wilson** 🔴 +2 | 348 |
 | 73 | **Arike Ogunbowale** 🔴 +1 | 346 |
 | 73 | Janeth Arcain | 346 |
 | 75 | Helen Darling | 343 |
@@ -989,12 +989,12 @@ _Last updated: 2026-06-16 01:26 UTC_
 | 148 | Allison Feaster | 219 |
 | 149 | Shenise Johnson | 217 |
 | 150 | Adrian Williams-Strong | 216 |
+| 150 | **Cheyenne Parker-Tyus** 🔴 +1 | 216 |
 | 150 | Kahleah Copper | 216 |
 | 150 | Moriah Jefferson | 216 |
-| 153 | Asjha Jones | 215 |
-| 153 | Candice Wiggins | 215 |
-| 153 | **Cheyenne Parker-Tyus** 🔴 | 215 |
-| 153 | Elena Baranova | 215 |
+| 154 | Asjha Jones | 215 |
+| 154 | Candice Wiggins | 215 |
+| 154 | Elena Baranova | 215 |
 | 157 | Shekinna Stricklen | 213 |
 | 158 | Marina Mabrey | 212 |
 | 159 | Nikki Teasley | 211 |
@@ -1645,7 +1645,7 @@ _Last updated: 2026-06-16 01:26 UTC_
 | 188 | **Nia Coffey** 🔴 | 475 |
 | 190 | Azurá Stevens | 474 |
 | 191 | Kia Nurse | 473 |
-| 192 | **Alanna Smith** 🔴 | 470 |
+| 192 | **Alanna Smith** 🔴 +1 | 471 |
 | 193 | Christi Thomas | 463 |
 | 193 | Nikki Teasley | 463 |
 | 195 | Sue Wicks | 462 |
