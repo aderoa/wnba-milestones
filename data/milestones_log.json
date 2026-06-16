@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-16T01:51:00+00:00",
+    "text": "Courtney Williams passed Sheryl Swoopes for #83 all-time in three-pointers (career 271) \u2014 up from #84 entering today \u2014 (6:36 - 4th \u2014 POR @ MIN)",
+    "kind": "rank_pass",
+    "player": "Courtney Williams",
+    "stat": "three-pointers",
+    "rank": 83,
+    "passed_players": [
+      "Sheryl Swoopes"
+    ],
+    "new_total": 271
+  },
+  {
     "ts": "2026-06-16T01:47:00+00:00",
     "text": "Cheyenne Parker-Tyus passed Adrian Williams-Strong, Kahleah Copper, and Moriah Jefferson for #150 all-time in steals (career 217) \u2014 up from #155 entering today \u2014 (5:08 - 4th \u2014 LV @ DAL)",
     "kind": "rank_pass",
@@ -2973,17 +2985,5 @@
       "Deanna Nolan"
     ],
     "new_total": 341
-  },
-  {
-    "ts": "2026-06-06T12:04:00+00:00",
-    "text": "Natasha Cloud passed Kia Vaughn for #67 all-time in fouls (career 758) \u2014 up from #68 entering today \u2014 (Final \u2014 CON @ CHI)",
-    "kind": "rank_pass",
-    "player": "Natasha Cloud",
-    "stat": "fouls",
-    "rank": 67,
-    "passed_players": [
-      "Kia Vaughn"
-    ],
-    "new_total": 758
   }
 ]
