@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-16 00:34 UTC_
+_Last updated: 2026-06-16 00:35 UTC_
 
 ## Contents
 
@@ -33,7 +33,7 @@ _Last updated: 2026-06-16 00:34 UTC_
 | 12 | Sylvia Fowles | 6,413 |
 | 13 | Lisa Leslie | 6,251 |
 | 14 | Breanna Stewart | 6,173 |
-| 15 | **Jewell Loyd** 🔴 +3 | 6,081 |
+| 15 | **Jewell Loyd** 🔴 +6 | 6,084 |
 | 16 | Brittney Griner | 6,031 |
 | 17 | Lauren Jackson | 6,005 |
 | 17 | Seimone Augustus | 6,005 |
@@ -56,7 +56,7 @@ _Last updated: 2026-06-16 00:34 UTC_
 | 35 | Chamique Holdsclaw | 4,713 |
 | 36 | Elena Delle Donne | 4,706 |
 | 37 | Alyssa Thomas | 4,653 |
-| 38 | **Arike Ogunbowale** 🔴 +3 | 4,615 |
+| 38 | **Arike Ogunbowale** 🔴 +5 | 4,617 |
 | 39 | Penny Taylor | 4,595 |
 | 40 | **Natasha Howard** 🔴 +4 | 4,532 |
 | 41 | **Chelsea Gray** 🔴 | 4,506 |
@@ -576,7 +576,7 @@ _Last updated: 2026-06-16 00:34 UTC_
 | 144 | Kristi Harrower | 450 |
 | 144 | Nikki McCray | 450 |
 | 147 | Ruth Riley | 449 |
-| 148 | **Sug Sutton** 🔴 | 447 |
+| 148 | **Sug Sutton** 🔴 +1 | 448 |
 | 149 | DeMya Walker | 446 |
 | 150 | Essence Carson | 445 |
 | 151 | Michelle Snow | 437 |
@@ -1052,7 +1052,7 @@ _Last updated: 2026-06-16 00:34 UTC_
 | 6 | **Kayla McBride** 🔴 +1 | 738 |
 | 7 | Katie Douglas | 723 |
 | 8 | Kelsey Mitchell | 687 |
-| 9 | **Jewell Loyd** 🔴 +1 | 679 |
+| 9 | **Jewell Loyd** 🔴 +2 | 680 |
 | 10 | DeWanna Bonner | 672 |
 | 11 | Kristi Toliver | 651 |
 | 12 | Kelsey Plum | 609 |
