@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-16 01:18 UTC_
+_Last updated: 2026-06-16 01:19 UTC_
 
 ## Contents
 
@@ -56,7 +56,7 @@ _Last updated: 2026-06-16 01:18 UTC_
 | 35 | Chamique Holdsclaw | 4,713 |
 | 36 | Elena Delle Donne | 4,706 |
 | 37 | Alyssa Thomas | 4,653 |
-| 38 | **Arike Ogunbowale** 🔴 +11 | 4,623 |
+| 38 | **Arike Ogunbowale** 🔴 +14 | 4,626 |
 | 39 | Penny Taylor | 4,595 |
 | 40 | **Natasha Howard** 🔴 +15 | 4,543 |
 | 41 | **Chelsea Gray** 🔴 | 4,506 |
@@ -367,7 +367,7 @@ _Last updated: 2026-06-16 01:18 UTC_
 | 141 | Dominique Canty | 961 |
 | 142 | Armintie Herrington | 960 |
 | 143 | Janell Burse | 944 |
-| 144 | **Jessica Shepard** 🔴 +9 | 936 |
+| 144 | **Jessica Shepard** 🔴 +10 | 937 |
 | 145 | Merlakia Jones | 927 |
 | 146 | Satou Sabally | 926 |
 | 147 | Angel Reese | 923 |
@@ -595,8 +595,8 @@ _Last updated: 2026-06-16 01:18 UTC_
 | 164 | Allison Feaster | 406 |
 | 165 | Rita Williams | 403 |
 | 166 | Kia Nurse | 402 |
+| 167 | **Jessica Shepard** 🔴 +6 | 401 |
 | 167 | Julie Allemand | 401 |
-| 168 | **Jessica Shepard** 🔴 +5 | 400 |
 | 169 | Marissa Coleman | 399 |
 | 170 | Aliyah Boston | 398 |
 | 171 | Stacey Dales | 395 |
@@ -1059,7 +1059,7 @@ _Last updated: 2026-06-16 01:18 UTC_
 | 13 | Tamika Catchings | 605 |
 | 14 | Kara Lawson | 583 |
 | 15 | Nicole Powell | 579 |
-| 16 | **Arike Ogunbowale** 🔴 +2 | 568 |
+| 16 | **Arike Ogunbowale** 🔴 +3 | 569 |
 | 17 | Ivory Latta | 536 |
 | 18 | Renee Montgomery | 532 |
 | 19 | Maya Moore | 530 |
@@ -1554,8 +1554,8 @@ _Last updated: 2026-06-16 01:18 UTC_
 | 98 | **Cheyenne Parker-Tyus** 🔴 +1 | 675 |
 | 99 | Chamique Holdsclaw | 667 |
 | 100 | Breanna Stewart | 665 |
-| 101 | **Jewell Loyd** 🔴 +1 | 662 |
-| 101 | Tianna Hawkins | 662 |
+| 101 | **Jewell Loyd** 🔴 +2 | 663 |
+| 102 | Tianna Hawkins | 662 |
 | 103 | Kayla Thornton | 661 |
 | 104 | Tari Phillips | 648 |
 | 105 | Marie Ferdinand-Harris | 646 |
