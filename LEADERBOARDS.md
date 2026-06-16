@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-16 00:29 UTC_
+_Last updated: 2026-06-16 00:30 UTC_
 
 ## Contents
 
@@ -379,7 +379,7 @@ _Last updated: 2026-06-16 00:29 UTC_
 | 153 | Mistie Bass | 888 |
 | 154 | Erica Wheeler | 872 |
 | 155 | Shameka Christon | 867 |
-| 156 | **Alanna Smith** 🔴 | 864 |
+| 156 | **Alanna Smith** 🔴 +1 | 865 |
 | 157 | Krystal Thomas | 862 |
 | 158 | **Nia Coffey** 🔴 +3 | 857 |
 | 159 | Marina Mabrey | 849 |
@@ -473,7 +473,7 @@ _Last updated: 2026-06-16 00:29 UTC_
 | 42 | Sheryl Swoopes | 1,037 |
 | 43 | Tina Charles | 1,033 |
 | 44 | Nikki Teasley | 982 |
-| 45 | **Kayla McBride** 🔴 | 968 |
+| 45 | **Kayla McBride** 🔴 +1 | 969 |
 | 46 | Tamecka Dixon | 960 |
 | 47 | Breanna Stewart | 953 |
 | 48 | Kara Lawson | 946 |
