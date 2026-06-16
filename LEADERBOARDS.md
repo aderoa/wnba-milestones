@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-16 01:38 UTC_
+_Last updated: 2026-06-16 01:39 UTC_
 
 ## Contents
 
@@ -202,7 +202,7 @@ _Last updated: 2026-06-16 01:38 UTC_
 | 181 | Rachel Banham | 1,823 |
 | 182 | Danielle Adams | 1,820 |
 | 183 | Charde Houston | 1,797 |
-| 184 | **NaLyssa Smith** 🔴 +6 | 1,781 |
+| 184 | **NaLyssa Smith** 🔴 +7 | 1,782 |
 | 185 | Kamila Vodichkova | 1,767 |
 | 186 | Tully Bevilaqua | 1,763 |
 | 187 | Sandy Brondello | 1,759 |
@@ -367,7 +367,7 @@ _Last updated: 2026-06-16 01:38 UTC_
 | 141 | Dominique Canty | 961 |
 | 142 | Armintie Herrington | 960 |
 | 143 | Janell Burse | 944 |
-| 144 | **Jessica Shepard** 🔴 +12 | 939 |
+| 144 | **Jessica Shepard** 🔴 +13 | 940 |
 | 145 | Merlakia Jones | 927 |
 | 146 | Satou Sabally | 926 |
 | 147 | Angel Reese | 923 |
@@ -410,8 +410,8 @@ _Last updated: 2026-06-16 01:38 UTC_
 | 184 | Tully Bevilaqua | 767 |
 | 185 | Shakira Austin | 758 |
 | 186 | Layshia Clarendon | 756 |
-| 187 | **Arike Ogunbowale** 🔴 +3 | 751 |
-| 187 | Brooke Wyckoff | 751 |
+| 187 | **Arike Ogunbowale** 🔴 +4 | 752 |
+| 188 | Brooke Wyckoff | 751 |
 | 189 | Coco Miller | 750 |
 | 190 | Alex Montgomery | 735 |
 | 191 | Ashley Robinson | 734 |
