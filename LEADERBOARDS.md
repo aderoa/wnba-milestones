@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-16 23:43 UTC_
+_Last updated: 2026-06-16 23:44 UTC_
 
 ## Contents
 
@@ -493,7 +493,7 @@ _Last updated: 2026-06-16 23:43 UTC_
 | 62 | Taj McWilliams-Franklin | 879 |
 | 63 | Noelle Quinn | 878 |
 | 64 | Lisa Leslie | 873 |
-| 65 | **Brittney Sykes** 🔴 +2 | 854 |
+| 65 | **Brittney Sykes** 🔴 +3 | 855 |
 | 66 | Tully Bevilaqua | 853 |
 | 67 | Jia Perkins | 837 |
 | 68 | **Kelsey Mitchell** 🔴 +1 | 822 |
@@ -1425,7 +1425,7 @@ _Last updated: 2026-06-16 23:43 UTC_
 | 173 | Diamond DeShields | 333 |
 | 175 | Charde Houston | 331 |
 | 176 | Satou Sabally | 330 |
-| 177 | **Caitlin Clark** 🔴 +3 | 327 |
+| 177 | **Caitlin Clark** 🔴 +4 | 328 |
 | 178 | Erlana Larkins | 326 |
 | 178 | Rita Williams | 326 |
 | 180 | Le'coe Willingham | 325 |
