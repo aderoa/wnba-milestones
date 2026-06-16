@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-16 00:44 UTC_
+_Last updated: 2026-06-16 00:45 UTC_
 
 ## Contents
 
@@ -596,9 +596,9 @@ _Last updated: 2026-06-16 00:44 UTC_
 | 165 | Rita Williams | 403 |
 | 166 | Kia Nurse | 402 |
 | 167 | Julie Allemand | 401 |
+| 168 | **Jessica Shepard** 🔴 +4 | 399 |
 | 168 | Marissa Coleman | 399 |
-| 169 | Aliyah Boston | 398 |
-| 169 | **Jessica Shepard** 🔴 +3 | 398 |
+| 170 | Aliyah Boston | 398 |
 | 171 | Stacey Dales | 395 |
 | 172 | Sugar Rodgers | 393 |
 | 173 | Shameka Christon | 389 |
@@ -1376,7 +1376,7 @@ _Last updated: 2026-06-16 00:44 UTC_
 | 125 | Betnijah Laney-Hamilton | 444 |
 | 125 | Elena Baranova | 444 |
 | 125 | Jantel Lavender | 444 |
-| 128 | **Jackie Young** 🔴 +1 | 442 |
+| 128 | **Jackie Young** 🔴 +2 | 443 |
 | 129 | **Cheyenne Parker-Tyus** 🔴 +1 | 441 |
 | 130 | Alysha Clark | 440 |
 | 130 | Ann Wauters | 440 |
