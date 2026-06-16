@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-16 01:59 UTC_
+_Last updated: 2026-06-16 02:00 UTC_
 
 ## Contents
 
@@ -575,8 +575,8 @@ _Last updated: 2026-06-16 01:59 UTC_
 | 144 | Elena Delle Donne | 450 |
 | 144 | Kristi Harrower | 450 |
 | 144 | Nikki McCray | 450 |
-| 147 | Ruth Riley | 449 |
-| 147 | **Sug Sutton** 🔴 +2 | 449 |
+| 144 | **Sug Sutton** 🔴 +3 | 450 |
+| 148 | Ruth Riley | 449 |
 | 149 | DeMya Walker | 446 |
 | 150 | Essence Carson | 445 |
 | 151 | Michelle Snow | 437 |
@@ -603,8 +603,8 @@ _Last updated: 2026-06-16 01:59 UTC_
 | 172 | Sugar Rodgers | 393 |
 | 173 | Shameka Christon | 389 |
 | 173 | Tamicha Jackson | 389 |
-| 175 | Riquna Williams | 387 |
-| 175 | **Stephanie Talbot** 🔴 +2 | 387 |
+| 175 | **Stephanie Talbot** 🔴 +3 | 388 |
+| 176 | Riquna Williams | 387 |
 | 177 | Dana Evans | 379 |
 | 178 | **Bridget Carleton** 🔴 +2 | 377 |
 | 178 | Jessica Breland | 377 |
