@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-16 02:37 UTC_
+_Last updated: 2026-06-16 02:38 UTC_
 
 ## Contents
 
@@ -49,7 +49,7 @@ _Last updated: 2026-06-16 02:37 UTC_
 | 28 | Tangela Smith | 5,035 |
 | 29 | Kelsey Mitchell | 5,003 |
 | 30 | Taj McWilliams-Franklin | 4,992 |
-| 31 | **Tiffany Hayes** 🔴 | 4,985 |
+| 31 | **Tiffany Hayes** 🔴 +2 | 4,987 |
 | 32 | Maya Moore | 4,984 |
 | 33 | Sheryl Swoopes | 4,875 |
 | 34 | Alana Beard | 4,740 |
@@ -247,7 +247,7 @@ _Last updated: 2026-06-16 02:37 UTC_
 | 21 | Crystal Langhorne | 2,454 |
 | 22 | Lauren Jackson | 2,444 |
 | 23 | Yolanda Griffith | 2,440 |
-| 24 | **Dearica Hamby** 🔴 +2 | 2,393 |
+| 24 | **Dearica Hamby** 🔴 +3 | 2,394 |
 | 25 | Tangela Smith | 2,328 |
 | 26 | Natasha Howard | 2,259 |
 | 27 | Erika de Souza | 2,220 |
@@ -801,15 +801,15 @@ _Last updated: 2026-06-16 02:37 UTC_
 | 165 | Astou Ndour-Fall | 78 |
 | 165 | Katie Smith | 78 |
 | 165 | Slobodanka Tuvic | 78 |
+| 168 | **Cameron Brink** 🔴 +1 | 77 |
 | 168 | Kara Wolters | 77 |
 | 168 | Noelle Quinn | 77 |
 | 168 | Tierra Ruffin-Pratt | 77 |
-| 171 | **Cameron Brink** 🔴 | 76 |
-| 171 | Jennifer Lacy | 76 |
-| 171 | Stephanie Talbot | 76 |
-| 171 | Sugar Rodgers | 76 |
-| 171 | Tan White | 76 |
-| 171 | Tiffany Jackson | 76 |
+| 172 | Jennifer Lacy | 76 |
+| 172 | Stephanie Talbot | 76 |
+| 172 | Sugar Rodgers | 76 |
+| 172 | Tan White | 76 |
+| 172 | Tiffany Jackson | 76 |
 | 177 | Karima Christmas-Kelly | 75 |
 | 177 | Kelsey Griffin | 75 |
 | 177 | Tianna Hawkins | 75 |
@@ -953,7 +953,7 @@ _Last updated: 2026-06-16 02:37 UTC_
 | 112 | Crystal Robinson | 267 |
 | 113 | Anna DeForge | 266 |
 | 114 | Brionna Jones | 265 |
-| 115 | **Kayla Thornton** 🔴 +1 | 264 |
+| 114 | **Kayla Thornton** 🔴 +2 | 265 |
 | 116 | Michelle Snow | 262 |
 | 117 | Karima Christmas-Kelly | 261 |
 | 118 | **Kelsey Plum** 🔴 | 260 |
@@ -1303,7 +1303,7 @@ _Last updated: 2026-06-16 02:37 UTC_
 | 52 | Asjha Jones | 682 |
 | 53 | Danielle Robinson | 680 |
 | 54 | Sheryl Swoopes | 677 |
-| 55 | **Dearica Hamby** 🔴 +1 | 674 |
+| 55 | **Dearica Hamby** 🔴 +2 | 675 |
 | 56 | Tammy Sutton-Brown | 672 |
 | 57 | Deanna Nolan | 669 |
 | 58 | Chasity Melvin | 666 |
