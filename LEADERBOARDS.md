@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-16 23:56 UTC_
+_Last updated: 2026-06-16 23:57 UTC_
 
 ## Contents
 
@@ -111,7 +111,7 @@ _Last updated: 2026-06-16 23:56 UTC_
 | 90 | Wendy Palmer | 3,135 |
 | 91 | Shavonte Zellous | 3,103 |
 | 92 | Briann January | 3,082 |
-| 93 | **Marina Mabrey** 🔴 +8 | 3,060 |
+| 93 | **Marina Mabrey** 🔴 +11 | 3,063 |
 | 94 | Erika de Souza | 3,046 |
 | 95 | Sabrina Ionescu | 3,041 |
 | 96 | Shameka Christon | 3,039 |
@@ -183,8 +183,8 @@ _Last updated: 2026-06-16 23:56 UTC_
 | 162 | Bria Hartley | 1,967 |
 | 163 | Chiney Ogwumike | 1,964 |
 | 164 | Nicole Ohlde | 1,959 |
-| 165 | Kedra Holland-Corn | 1,938 |
-| 166 | **Aliyah Boston** 🔴 +9 | 1,937 |
+| 165 | **Aliyah Boston** 🔴 +11 | 1,939 |
+| 166 | Kedra Holland-Corn | 1,938 |
 | 167 | Cathrine Kraayeveld | 1,926 |
 | 168 | Roneeka Hodges | 1,925 |
 | 169 | Latasha Byears | 1,920 |
@@ -549,7 +549,7 @@ _Last updated: 2026-06-16 23:56 UTC_
 | 118 | Michele Timms | 549 |
 | 119 | Veronica Burton | 537 |
 | 120 | Marie Ferdinand-Harris | 528 |
-| 121 | **Caitlin Clark** 🔴 +8 | 525 |
+| 121 | **Caitlin Clark** 🔴 +9 | 526 |
 | 122 | Margo Dydek | 524 |
 | 123 | **Myisha Hines-Allen** 🔴 | 520 |
 | 124 | Iziane Castro Marques | 509 |
@@ -1067,7 +1067,7 @@ _Last updated: 2026-06-16 23:56 UTC_
 | 21 | Allie Quigley | 510 |
 | 22 | Leilani Mitchell | 508 |
 | 23 | Shekinna Stricklen | 468 |
-| 24 | **Marina Mabrey** 🔴 | 465 |
+| 24 | **Marina Mabrey** 🔴 +1 | 466 |
 | 25 | Cappie Pondexter | 464 |
 | 26 | Sabrina Ionescu | 462 |
 | 27 | Breanna Stewart | 460 |
@@ -1425,7 +1425,7 @@ _Last updated: 2026-06-16 23:56 UTC_
 | 173 | Diamond DeShields | 333 |
 | 175 | Charde Houston | 331 |
 | 176 | Satou Sabally | 330 |
-| 177 | **Caitlin Clark** 🔴 +4 | 328 |
+| 177 | **Caitlin Clark** 🔴 +5 | 329 |
 | 178 | Erlana Larkins | 326 |
 | 178 | Rita Williams | 326 |
 | 180 | Le'coe Willingham | 325 |
