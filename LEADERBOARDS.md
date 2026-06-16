@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-16 23:08 UTC_
+_Last updated: 2026-06-16 23:09 UTC_
 
 ## Contents
 
@@ -184,7 +184,7 @@ _Last updated: 2026-06-16 23:08 UTC_
 | 163 | Chiney Ogwumike | 1,964 |
 | 164 | Nicole Ohlde | 1,959 |
 | 165 | Kedra Holland-Corn | 1,938 |
-| 166 | **Aliyah Boston** 🔴 | 1,928 |
+| 166 | **Aliyah Boston** 🔴 +2 | 1,930 |
 | 167 | Cathrine Kraayeveld | 1,926 |
 | 168 | Roneeka Hodges | 1,925 |
 | 169 | Latasha Byears | 1,920 |
@@ -496,7 +496,7 @@ _Last updated: 2026-06-16 23:08 UTC_
 | 65 | Tully Bevilaqua | 853 |
 | 66 | **Brittney Sykes** 🔴 | 852 |
 | 67 | Jia Perkins | 837 |
-| 68 | **Kelsey Mitchell** 🔴 | 821 |
+| 68 | **Kelsey Mitchell** 🔴 +1 | 822 |
 | 69 | Andrea Stinson | 810 |
 | 70 | Tina Thompson | 803 |
 | 71 | Epiphanny Prince | 800 |
@@ -1427,9 +1427,9 @@ _Last updated: 2026-06-16 23:08 UTC_
 | 176 | Satou Sabally | 330 |
 | 177 | Erlana Larkins | 326 |
 | 177 | Rita Williams | 326 |
+| 179 | **Caitlin Clark** 🔴 +1 | 325 |
 | 179 | Le'coe Willingham | 325 |
-| 180 | **Caitlin Clark** 🔴 | 324 |
-| 180 | Olympia Scott | 324 |
+| 181 | Olympia Scott | 324 |
 | 182 | Gabby Williams | 320 |
 | 183 | Kia Nurse | 316 |
 | 184 | Barbara Farris | 315 |
@@ -1635,8 +1635,8 @@ _Last updated: 2026-06-16 23:08 UTC_
 | 179 | Rachel Banham | 490 |
 | 180 | Charde Houston | 487 |
 | 181 | Lindsey Harding | 486 |
-| 182 | Cathrine Kraayeveld | 484 |
-| 182 | **Isabelle Harrison** 🔴 | 484 |
+| 182 | **Isabelle Harrison** 🔴 +1 | 485 |
+| 183 | Cathrine Kraayeveld | 484 |
 | 184 | Liz Cambage | 483 |
 | 184 | Rhonda Mapp | 483 |
 | 186 | Sami Whitcomb | 480 |
