@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-16 04:03 UTC_
+_Last updated: 2026-06-16 04:04 UTC_
 
 ## Contents
 
@@ -150,7 +150,7 @@ _Last updated: 2026-06-16 04:03 UTC_
 | 129 | Anna DeForge | 2,413 |
 | 130 | DeMya Walker | 2,379 |
 | 131 | Alex Bentley | 2,350 |
-| 132 | **Kayla Thornton** 🔴 +4 | 2,337 |
+| 132 | **Kayla Thornton** 🔴 +7 | 2,340 |
 | 133 | Merlakia Jones | 2,308 |
 | 134 | Kia Vaughn | 2,288 |
 | 135 | Betnijah Laney-Hamilton | 2,282 |
@@ -377,7 +377,7 @@ _Last updated: 2026-06-16 04:03 UTC_
 | 151 | Natalie Achonwa | 895 |
 | 152 | Temeka Johnson | 889 |
 | 153 | Mistie Bass | 888 |
-| 154 | **Erica Wheeler** 🔴 +3 | 875 |
+| 154 | **Erica Wheeler** 🔴 +4 | 876 |
 | 155 | Shameka Christon | 867 |
 | 156 | Alanna Smith | 865 |
 | 157 | Krystal Thomas | 862 |
@@ -547,7 +547,7 @@ _Last updated: 2026-06-16 04:03 UTC_
 | 116 | Janel McCarville | 551 |
 | 116 | Svetlana Abrosimova | 551 |
 | 118 | Michele Timms | 549 |
-| 119 | **Veronica Burton** 🔴 +2 | 539 |
+| 119 | **Veronica Burton** 🔴 +3 | 540 |
 | 120 | Marie Ferdinand-Harris | 528 |
 | 121 | Margo Dydek | 524 |
 | 122 | Myisha Hines-Allen | 520 |
@@ -834,6 +834,7 @@ _Last updated: 2026-06-16 04:03 UTC_
 | 197 | Queen Egbo | 65 |
 | 197 | Riquna Williams | 65 |
 | 197 | Sabrina Ionescu | 65 |
+| 197 | **Veronica Burton** 🔴 +2 | 65 |
 
 ## Steals
 
@@ -931,8 +932,8 @@ _Last updated: 2026-06-16 04:03 UTC_
 | 89 | Temeka Johnson | 317 |
 | 91 | Alysha Clark | 316 |
 | 92 | Debbie Black | 315 |
-| 93 | Crystal Langhorne | 314 |
-| 93 | **Gabby Williams** 🔴 | 314 |
+| 92 | **Gabby Williams** 🔴 +1 | 315 |
+| 94 | Crystal Langhorne | 314 |
 | 95 | Ebony Hoffman | 308 |
 | 96 | Tamera Young | 305 |
 | 97 | Kedra Holland-Corn | 301 |
@@ -1120,8 +1121,8 @@ _Last updated: 2026-06-16 04:03 UTC_
 | 74 | Seimone Augustus | 293 |
 | 75 | Candice Wiggins | 290 |
 | 75 | Tully Bevilaqua | 290 |
-| 77 | Alana Beard | 288 |
-| 77 | **Kayla Thornton** 🔴 | 288 |
+| 77 | **Kayla Thornton** 🔴 +1 | 289 |
+| 78 | Alana Beard | 288 |
 | 79 | Bridget Carleton | 287 |
 | 80 | Monique Currie | 284 |
 | 81 | Iziane Castro Marques | 275 |
@@ -1303,7 +1304,7 @@ _Last updated: 2026-06-16 04:03 UTC_
 | 52 | Asjha Jones | 682 |
 | 53 | Danielle Robinson | 680 |
 | 54 | Sheryl Swoopes | 677 |
-| 55 | **Dearica Hamby** 🔴 +2 | 675 |
+| 55 | **Dearica Hamby** 🔴 +3 | 676 |
 | 56 | Tammy Sutton-Brown | 672 |
 | 57 | Deanna Nolan | 669 |
 | 58 | Chasity Melvin | 666 |
