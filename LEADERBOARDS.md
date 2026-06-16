@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-16 00:42 UTC_
+_Last updated: 2026-06-16 00:43 UTC_
 
 ## Contents
 
@@ -58,7 +58,7 @@ _Last updated: 2026-06-16 00:42 UTC_
 | 37 | Alyssa Thomas | 4,653 |
 | 38 | **Arike Ogunbowale** 🔴 +11 | 4,623 |
 | 39 | Penny Taylor | 4,595 |
-| 40 | **Natasha Howard** 🔴 +4 | 4,532 |
+| 40 | **Natasha Howard** 🔴 +7 | 4,535 |
 | 41 | **Chelsea Gray** 🔴 | 4,506 |
 | 42 | Kristi Toliver | 4,474 |
 | 43 | Crystal Langhorne | 4,433 |
@@ -262,8 +262,8 @@ _Last updated: 2026-06-16 00:42 UTC_
 | 36 | Natalie Williams | 1,832 |
 | 37 | Wendy Palmer | 1,824 |
 | 38 | Sophia Young-Malcolm | 1,807 |
+| 39 | **Courtney Williams** 🔴 +4 | 1,805 |
 | 39 | Lindsay Whalen | 1,805 |
-| 40 | **Courtney Williams** 🔴 +3 | 1,804 |
 | 41 | Camille Smith | 1,802 |
 | 42 | Kiah Stokes | 1,790 |
 | 43 | Asjha Jones | 1,751 |
@@ -345,7 +345,7 @@ _Last updated: 2026-06-16 00:42 UTC_
 | 119 | Svetlana Abrosimova | 1,078 |
 | 120 | Le'coe Willingham | 1,054 |
 | 121 | Isabelle Harrison | 1,049 |
-| 122 | **Jackie Young** 🔴 +1 | 1,045 |
+| 122 | **Jackie Young** 🔴 +2 | 1,046 |
 | 123 | Nicole Ohlde | 1,040 |
 | 124 | Tamecka Dixon | 1,035 |
 | 125 | Kamila Vodichkova | 1,031 |
@@ -411,8 +411,8 @@ _Last updated: 2026-06-16 00:42 UTC_
 | 185 | Shakira Austin | 758 |
 | 186 | Layshia Clarendon | 756 |
 | 187 | Brooke Wyckoff | 751 |
+| 188 | **Arike Ogunbowale** 🔴 +2 | 750 |
 | 188 | Coco Miller | 750 |
-| 189 | **Arike Ogunbowale** 🔴 +1 | 749 |
 | 190 | Alex Montgomery | 735 |
 | 191 | Ashley Robinson | 734 |
 | 192 | Shenise Johnson | 729 |
@@ -445,7 +445,7 @@ _Last updated: 2026-06-16 00:42 UTC_
 | 14 | Danielle Robinson | 1,480 |
 | 15 | Shannon Johnson | 1,423 |
 | 15 | Tanisha Wright | 1,423 |
-| 17 | **Courtney Williams** 🔴 +1 | 1,406 |
+| 17 | **Courtney Williams** 🔴 +2 | 1,407 |
 | 18 | Temeka Johnson | 1,382 |
 | 19 | Jasmine Thomas | 1,355 |
 | 20 | Briann January | 1,339 |
@@ -480,8 +480,8 @@ _Last updated: 2026-06-16 00:42 UTC_
 | 49 | Tiffany Hayes | 936 |
 | 50 | Deanna Nolan | 930 |
 | 51 | Kelly Miller | 927 |
-| 52 | **Arike Ogunbowale** 🔴 +3 | 921 |
-| 52 | DeLisha Milton-Jones | 921 |
+| 52 | **Arike Ogunbowale** 🔴 +4 | 922 |
+| 53 | DeLisha Milton-Jones | 921 |
 | 54 | Nneka Ogwumike | 917 |
 | 55 | Angel McCoughtry | 915 |
 | 56 | Layshia Clarendon | 911 |
@@ -813,11 +813,11 @@ _Last updated: 2026-06-16 00:42 UTC_
 | 177 | Karima Christmas-Kelly | 75 |
 | 177 | Kelsey Griffin | 75 |
 | 177 | Tianna Hawkins | 75 |
+| 180 | **Awak Kuier** 🔴 +2 | 74 |
 | 180 | Epiphanny Prince | 74 |
 | 180 | Myisha Hines-Allen | 74 |
-| 182 | **Awak Kuier** 🔴 +1 | 73 |
-| 182 | Ayana Walker | 73 |
-| 182 | Lindsay Wisdom-Hylton | 73 |
+| 183 | Ayana Walker | 73 |
+| 183 | Lindsay Wisdom-Hylton | 73 |
 | 185 | Cappie Pondexter | 72 |
 | 185 | Christi Thomas | 72 |
 | 185 | Olympia Scott | 72 |
