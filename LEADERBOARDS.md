@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-16 02:19 UTC_
+_Last updated: 2026-06-16 02:20 UTC_
 
 ## Contents
 
@@ -571,11 +571,11 @@ _Last updated: 2026-06-16 02:19 UTC_
 | 140 | Satou Sabally | 456 |
 | 141 | Sydney Colson | 454 |
 | 141 | Tyasha Harris | 454 |
+| 143 | Sug Sutton | 451 |
 | 143 | Yolanda Griffith | 451 |
-| 144 | Elena Delle Donne | 450 |
-| 144 | Kristi Harrower | 450 |
-| 144 | Nikki McCray | 450 |
-| 144 | Sug Sutton | 450 |
+| 145 | Elena Delle Donne | 450 |
+| 145 | Kristi Harrower | 450 |
+| 145 | Nikki McCray | 450 |
 | 148 | Ruth Riley | 449 |
 | 149 | DeMya Walker | 446 |
 | 150 | Essence Carson | 445 |
@@ -1037,7 +1037,7 @@ _Last updated: 2026-06-16 02:19 UTC_
 | 195 | Ezi Magbegor | 174 |
 | 195 | Margo Dydek | 174 |
 | 198 | Kamila Vodichkova | 173 |
-| 199 | **Kiah Stokes** 🔴 | 172 |
+| 198 | **Kiah Stokes** 🔴 +1 | 173 |
 | 200 | Brittney Griner | 170 |
 
 ## Three-pointers
@@ -1303,7 +1303,7 @@ _Last updated: 2026-06-16 02:19 UTC_
 | 52 | Asjha Jones | 682 |
 | 53 | Danielle Robinson | 680 |
 | 54 | Sheryl Swoopes | 677 |
-| 55 | **Dearica Hamby** 🔴 | 673 |
+| 55 | **Dearica Hamby** 🔴 +1 | 674 |
 | 56 | Tammy Sutton-Brown | 672 |
 | 57 | Deanna Nolan | 669 |
 | 58 | Chasity Melvin | 666 |
@@ -1509,9 +1509,9 @@ _Last updated: 2026-06-16 02:19 UTC_
 | 52 | Tamera Young | 847 |
 | 54 | Candace Parker | 834 |
 | 55 | Penny Taylor | 832 |
+| 56 | **Dearica Hamby** 🔴 +2 | 831 |
 | 56 | Dominique Canty | 831 |
 | 56 | Wendy Palmer | 831 |
-| 58 | **Dearica Hamby** 🔴 +1 | 830 |
 | 59 | Shannon Johnson | 813 |
 | 59 | Tully Bevilaqua | 813 |
 | 61 | Skylar Diggins | 812 |
