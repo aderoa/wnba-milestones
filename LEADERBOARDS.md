@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-16 23:45 UTC_
+_Last updated: 2026-06-16 23:46 UTC_
 
 ## Contents
 
@@ -329,13 +329,13 @@ _Last updated: 2026-06-16 23:45 UTC_
 | 103 | Vicky Bullett | 1,189 |
 | 104 | Kahleah Copper | 1,171 |
 | 105 | Nykesha Sales | 1,148 |
-| 106 | **Brittney Sykes** 🔴 +1 | 1,146 |
+| 106 | **Brittney Sykes** 🔴 +2 | 1,147 |
 | 107 | Shannon Johnson | 1,143 |
 | 108 | Adrian Williams-Strong | 1,131 |
 | 109 | Andrea Stinson | 1,127 |
 | 109 | Tamika Raymond | 1,127 |
 | 111 | Adrienne Goodson | 1,126 |
-| 112 | **Aliyah Boston** 🔴 +6 | 1,116 |
+| 112 | **Aliyah Boston** 🔴 +7 | 1,117 |
 | 113 | NaLyssa Smith | 1,115 |
 | 114 | Deanna Nolan | 1,112 |
 | 114 | Natasha Cloud | 1,112 |
@@ -1024,9 +1024,9 @@ _Last updated: 2026-06-16 23:45 UTC_
 | 183 | Erin Perperoglou | 184 |
 | 184 | Rebecca Allen | 183 |
 | 185 | Erin Phillips | 182 |
+| 185 | **Isabelle Harrison** 🔴 +2 | 182 |
 | 185 | Sabrina Ionescu | 182 |
-| 187 | **Isabelle Harrison** 🔴 +1 | 181 |
-| 187 | Nakia Sanford | 181 |
+| 188 | Nakia Sanford | 181 |
 | 189 | Diamond DeShields | 180 |
 | 190 | Bridget Pettis | 177 |
 | 190 | **Monique Billings** 🔴 | 177 |
@@ -1334,8 +1334,8 @@ _Last updated: 2026-06-16 23:45 UTC_
 | 83 | Breanna Stewart | 570 |
 | 83 | Kara Braxton | 570 |
 | 85 | Nikki McCray | 565 |
-| 86 | **Kelsey Mitchell** 🔴 | 563 |
-| 86 | Sancho Lyttle | 563 |
+| 86 | **Kelsey Mitchell** 🔴 +1 | 564 |
+| 87 | Sancho Lyttle | 563 |
 | 88 | Tan White | 557 |
 | 89 | Lauren Jackson | 549 |
 | 90 | Matee Ajavon | 544 |
