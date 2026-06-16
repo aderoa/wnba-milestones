@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-16 02:44 UTC_
+_Last updated: 2026-06-16 02:45 UTC_
 
 ## Contents
 
@@ -150,7 +150,7 @@ _Last updated: 2026-06-16 02:44 UTC_
 | 129 | Anna DeForge | 2,413 |
 | 130 | DeMya Walker | 2,379 |
 | 131 | Alex Bentley | 2,350 |
-| 132 | **Kayla Thornton** 🔴 +2 | 2,335 |
+| 132 | **Kayla Thornton** 🔴 +4 | 2,337 |
 | 133 | Merlakia Jones | 2,308 |
 | 134 | Kia Vaughn | 2,288 |
 | 135 | Betnijah Laney-Hamilton | 2,282 |
@@ -300,7 +300,7 @@ _Last updated: 2026-06-16 02:44 UTC_
 | 74 | Courtney Vandersloot | 1,383 |
 | 74 | Katie Smith | 1,383 |
 | 76 | Ebony Hoffman | 1,376 |
-| 77 | **Kayla Thornton** 🔴 +1 | 1,361 |
+| 77 | **Kayla Thornton** 🔴 +2 | 1,362 |
 | 78 | Sheri Sam | 1,356 |
 | 79 | Tamika Whitmore | 1,355 |
 | 80 | Jewell Loyd | 1,351 |
@@ -451,7 +451,7 @@ _Last updated: 2026-06-16 02:44 UTC_
 | 20 | Briann January | 1,339 |
 | 21 | Dawn Staley | 1,337 |
 | 22 | Teresa Weatherspoon | 1,333 |
-| 23 | **Erica Wheeler** 🔴 +3 | 1,309 |
+| 23 | **Erica Wheeler** 🔴 +4 | 1,310 |
 | 24 | Kristi Toliver | 1,301 |
 | 25 | Katie Smith | 1,258 |
 | 26 | **Kelsey Plum** 🔴 | 1,237 |
