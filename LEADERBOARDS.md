@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-16 03:31 UTC_
+_Last updated: 2026-06-16 03:32 UTC_
 
 ## Contents
 
@@ -1517,7 +1517,7 @@ _Last updated: 2026-06-16 03:31 UTC_
 | 61 | Skylar Diggins | 812 |
 | 62 | Nykesha Sales | 796 |
 | 63 | Ebony Hoffman | 791 |
-| 64 | **Erica Wheeler** 🔴 +2 | 789 |
+| 64 | **Erica Wheeler** 🔴 +3 | 790 |
 | 65 | Sue Bird | 775 |
 | 66 | Sheri Sam | 766 |
 | 67 | Kia Vaughn | 755 |
