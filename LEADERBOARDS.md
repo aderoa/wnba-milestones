@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-16 01:40 UTC_
+_Last updated: 2026-06-16 01:41 UTC_
 
 ## Contents
 
@@ -202,7 +202,7 @@ _Last updated: 2026-06-16 01:40 UTC_
 | 181 | Rachel Banham | 1,823 |
 | 182 | Danielle Adams | 1,820 |
 | 183 | Charde Houston | 1,797 |
-| 184 | **NaLyssa Smith** 🔴 +7 | 1,782 |
+| 184 | **NaLyssa Smith** 🔴 +9 | 1,784 |
 | 185 | Kamila Vodichkova | 1,767 |
 | 186 | Tully Bevilaqua | 1,763 |
 | 187 | Sandy Brondello | 1,759 |
@@ -290,7 +290,7 @@ _Last updated: 2026-06-16 01:40 UTC_
 | 64 | Sue Bird | 1,466 |
 | 65 | Alysha Clark | 1,465 |
 | 66 | Nicole Powell | 1,457 |
-| 67 | **Cheyenne Parker-Tyus** 🔴 +3 | 1,445 |
+| 67 | **Cheyenne Parker-Tyus** 🔴 +4 | 1,446 |
 | 68 | Tamera Young | 1,433 |
 | 69 | Alana Beard | 1,420 |
 | 70 | Nakia Sanford | 1,419 |
@@ -367,7 +367,7 @@ _Last updated: 2026-06-16 01:40 UTC_
 | 141 | Dominique Canty | 961 |
 | 142 | Armintie Herrington | 960 |
 | 143 | Janell Burse | 944 |
-| 144 | **Jessica Shepard** 🔴 +13 | 940 |
+| 144 | **Jessica Shepard** 🔴 +14 | 941 |
 | 145 | Merlakia Jones | 927 |
 | 146 | Satou Sabally | 926 |
 | 147 | Angel Reese | 923 |
@@ -463,7 +463,7 @@ _Last updated: 2026-06-16 01:40 UTC_
 | 32 | **Jewell Loyd** 🔴 | 1,144 |
 | 33 | Renee Montgomery | 1,140 |
 | 34 | Swin Cash | 1,131 |
-| 35 | **Jackie Young** 🔴 +4 | 1,091 |
+| 35 | **Jackie Young** 🔴 +5 | 1,092 |
 | 36 | Lindsey Harding | 1,090 |
 | 37 | Sabrina Ionescu | 1,074 |
 | 38 | Katie Douglas | 1,069 |
@@ -593,9 +593,9 @@ _Last updated: 2026-06-16 01:40 UTC_
 | 162 | Jamierra Faulkner | 410 |
 | 162 | Murriel Page | 410 |
 | 164 | Allison Feaster | 406 |
+| 165 | **Jessica Shepard** 🔴 +8 | 403 |
 | 165 | Rita Williams | 403 |
-| 166 | **Jessica Shepard** 🔴 +7 | 402 |
-| 166 | Kia Nurse | 402 |
+| 167 | Kia Nurse | 402 |
 | 168 | Julie Allemand | 401 |
 | 169 | Marissa Coleman | 399 |
 | 170 | Aliyah Boston | 398 |
@@ -1579,7 +1579,7 @@ _Last updated: 2026-06-16 01:40 UTC_
 | 123 | Janel McCarville | 597 |
 | 124 | Kamila Vodichkova | 596 |
 | 125 | Teresa Weatherspoon | 589 |
-| 126 | **Arike Ogunbowale** 🔴 +1 | 587 |
+| 126 | **Arike Ogunbowale** 🔴 +2 | 588 |
 | 127 | Emma Meesseman | 585 |
 | 128 | Chiney Ogwumike | 580 |
 | 128 | Hamchetou Maiga-Ba | 580 |

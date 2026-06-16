@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-16T01:41:00+00:00",
+    "text": "Jessica Shepard passed Kia Nurse for #166 all-time in assists (career 403) \u2014 up from #170 entering today \u2014 (7:18 - 4th \u2014 LV @ DAL)",
+    "kind": "rank_pass",
+    "player": "Jessica Shepard",
+    "stat": "assists",
+    "rank": 166,
+    "passed_players": [
+      "Kia Nurse"
+    ],
+    "new_total": 403
+  },
+  {
     "ts": "2026-06-16T01:40:00+00:00",
     "text": "Kierstan Bell reached 100 career fouls (now 100) \u2014 (7:55 - 4th \u2014 LV @ DAL)",
     "kind": "round",
@@ -2968,14 +2980,5 @@
       "Merlakia Jones"
     ],
     "new_total": 942
-  },
-  {
-    "ts": "2026-06-06T12:04:00+00:00",
-    "text": "Jessica Shepard reached 400 career assists (now 400) \u2014 (Final \u2014 DAL @ LA)",
-    "kind": "round",
-    "player": "Jessica Shepard",
-    "stat": "assists",
-    "value": 400,
-    "new_total": 400
   }
 ]
