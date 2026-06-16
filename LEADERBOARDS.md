@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-16 03:37 UTC_
+_Last updated: 2026-06-16 03:38 UTC_
 
 ## Contents
 
@@ -377,7 +377,7 @@ _Last updated: 2026-06-16 03:37 UTC_
 | 151 | Natalie Achonwa | 895 |
 | 152 | Temeka Johnson | 889 |
 | 153 | Mistie Bass | 888 |
-| 154 | **Erica Wheeler** 🔴 +2 | 874 |
+| 154 | **Erica Wheeler** 🔴 +3 | 875 |
 | 155 | Shameka Christon | 867 |
 | 156 | Alanna Smith | 865 |
 | 157 | Krystal Thomas | 862 |
@@ -904,9 +904,9 @@ _Last updated: 2026-06-16 03:37 UTC_
 | 61 | Tan White | 360 |
 | 64 | Vickie Johnson | 357 |
 | 65 | Dominique Canty | 356 |
-| 65 | **Erica Wheeler** 🔴 +2 | 356 |
 | 65 | Renee Montgomery | 356 |
-| 68 | Tamecka Dixon | 355 |
+| 67 | **Erica Wheeler** 🔴 +1 | 355 |
+| 67 | Tamecka Dixon | 355 |
 | 69 | Vicky Bullett | 353 |
 | 70 | Svetlana Abrosimova | 352 |
 | 71 | Natasha Cloud | 349 |
