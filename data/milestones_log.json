@@ -1,5 +1,19 @@
 [
   {
+    "ts": "2026-06-16T01:47:00+00:00",
+    "text": "Cheyenne Parker-Tyus passed Adrian Williams-Strong, Kahleah Copper, and Moriah Jefferson for #150 all-time in steals (career 217) \u2014 up from #155 entering today \u2014 (5:08 - 4th \u2014 LV @ DAL)",
+    "kind": "rank_pass",
+    "player": "Cheyenne Parker-Tyus",
+    "stat": "steals",
+    "rank": 150,
+    "passed_players": [
+      "Adrian Williams-Strong",
+      "Kahleah Copper",
+      "Moriah Jefferson"
+    ],
+    "new_total": 217
+  },
+  {
     "ts": "2026-06-16T01:46:00+00:00",
     "text": "Jessica Shepard passed Rita Williams for #165 all-time in assists (career 404) \u2014 up from #170 entering today \u2014 (6:01 - 4th \u2014 LV @ DAL)",
     "kind": "rank_pass",
@@ -2971,14 +2985,5 @@
       "Kia Vaughn"
     ],
     "new_total": 758
-  },
-  {
-    "ts": "2026-06-06T12:04:00+00:00",
-    "text": "Jessica Shepard reached 1,000 career points (now 1,013) \u2014 (Final \u2014 DAL @ LA)",
-    "kind": "round",
-    "player": "Jessica Shepard",
-    "stat": "points",
-    "value": 1000,
-    "new_total": 1013
   }
 ]

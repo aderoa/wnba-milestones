@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-16 01:47 UTC
+
+- **Cheyenne Parker-Tyus** passed **Adrian Williams-Strong**, **Kahleah Copper**, and **Moriah Jefferson** for **#150** all-time in steals (career 217) — up from #155 entering today — _5:08 - 4th — LV @ DAL_
+
 ## 2026-06-16 01:46 UTC
 
 - **Jessica Shepard** passed **Rita Williams** for **#165** all-time in assists (career 404) — up from #170 entering today — _6:01 - 4th — LV @ DAL_

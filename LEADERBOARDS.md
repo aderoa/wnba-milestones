@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-16 01:46 UTC_
+_Last updated: 2026-06-16 01:47 UTC_
 
 ## Contents
 
@@ -249,7 +249,7 @@ _Last updated: 2026-06-16 01:46 UTC_
 | 23 | Yolanda Griffith | 2,440 |
 | 24 | Dearica Hamby | 2,391 |
 | 25 | Tangela Smith | 2,328 |
-| 26 | **Natasha Howard** 🔴 +5 | 2,258 |
+| 26 | **Natasha Howard** 🔴 +6 | 2,259 |
 | 27 | Erika de Souza | 2,220 |
 | 28 | Diana Taurasi | 2,201 |
 | 29 | Margo Dydek | 2,138 |
@@ -473,7 +473,7 @@ _Last updated: 2026-06-16 01:46 UTC_
 | 42 | Sheryl Swoopes | 1,037 |
 | 43 | Tina Charles | 1,033 |
 | 44 | Nikki Teasley | 982 |
-| 45 | **Kayla McBride** 🔴 +2 | 970 |
+| 45 | **Kayla McBride** 🔴 +3 | 971 |
 | 46 | Tamecka Dixon | 960 |
 | 47 | Breanna Stewart | 953 |
 | 48 | Kara Lawson | 946 |
@@ -911,8 +911,8 @@ _Last updated: 2026-06-16 01:46 UTC_
 | 70 | Svetlana Abrosimova | 352 |
 | 71 | Natasha Cloud | 349 |
 | 72 | **A'ja Wilson** 🔴 +1 | 347 |
-| 73 | **Arike Ogunbowale** 🔴 +1 | 346 |
-| 73 | Janeth Arcain | 346 |
+| 72 | **Arike Ogunbowale** 🔴 +2 | 347 |
+| 74 | Janeth Arcain | 346 |
 | 75 | Helen Darling | 343 |
 | 76 | Andrea Stinson | 342 |
 | 77 | Armintie Herrington | 340 |
@@ -987,11 +987,11 @@ _Last updated: 2026-06-16 01:46 UTC_
 | 146 | DeMya Walker | 220 |
 | 146 | Jennifer Gillom | 220 |
 | 148 | Allison Feaster | 219 |
+| 149 | **Cheyenne Parker-Tyus** 🔴 +2 | 217 |
 | 149 | Shenise Johnson | 217 |
-| 150 | Adrian Williams-Strong | 216 |
-| 150 | **Cheyenne Parker-Tyus** 🔴 +1 | 216 |
-| 150 | Kahleah Copper | 216 |
-| 150 | Moriah Jefferson | 216 |
+| 151 | Adrian Williams-Strong | 216 |
+| 151 | Kahleah Copper | 216 |
+| 151 | Moriah Jefferson | 216 |
 | 154 | Asjha Jones | 215 |
 | 154 | Candice Wiggins | 215 |
 | 154 | Elena Baranova | 215 |
@@ -1281,7 +1281,7 @@ _Last updated: 2026-06-16 01:46 UTC_
 | 30 | Jasmine Thomas | 796 |
 | 31 | Nneka Ogwumike | 795 |
 | 32 | Chamique Holdsclaw | 789 |
-| 33 | **Jewell Loyd** 🔴 | 786 |
+| 33 | **Jewell Loyd** 🔴 +2 | 788 |
 | 34 | Crystal Langhorne | 782 |
 | 35 | Camille Smith | 779 |
 | 36 | Plenette Pierson | 773 |
