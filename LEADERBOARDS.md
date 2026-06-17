@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-17 00:29 UTC_
+_Last updated: 2026-06-17 00:30 UTC_
 
 ## Contents
 
@@ -47,7 +47,7 @@ _Last updated: 2026-06-17 00:29 UTC_
 | 26 | Lindsay Whalen | 5,511 |
 | 27 | Swin Cash | 5,119 |
 | 28 | Tangela Smith | 5,035 |
-| 29 | **Kelsey Mitchell** 🔴 +17 | 5,020 |
+| 29 | **Kelsey Mitchell** 🔴 +20 | 5,023 |
 | 30 | Taj McWilliams-Franklin | 4,992 |
 | 31 | Tiffany Hayes | 4,985 |
 | 32 | Maya Moore | 4,984 |
@@ -111,7 +111,7 @@ _Last updated: 2026-06-17 00:29 UTC_
 | 90 | Wendy Palmer | 3,135 |
 | 91 | Shavonte Zellous | 3,103 |
 | 92 | Briann January | 3,082 |
-| 93 | **Marina Mabrey** 🔴 +16 | 3,068 |
+| 93 | **Marina Mabrey** 🔴 +18 | 3,070 |
 | 94 | Erika de Souza | 3,046 |
 | 95 | Sabrina Ionescu | 3,041 |
 | 96 | Shameka Christon | 3,039 |
@@ -594,9 +594,9 @@ _Last updated: 2026-06-17 00:29 UTC_
 | 162 | Murriel Page | 410 |
 | 164 | Allison Feaster | 406 |
 | 165 | Rita Williams | 403 |
+| 166 | **Aliyah Boston** 🔴 +4 | 402 |
 | 166 | **Julie Allemand** 🔴 +1 | 402 |
 | 166 | **Kia Nurse** 🔴 | 402 |
-| 168 | **Aliyah Boston** 🔴 +3 | 401 |
 | 169 | Marissa Coleman | 399 |
 | 170 | Jessica Shepard | 395 |
 | 170 | Stacey Dales | 395 |
@@ -1051,7 +1051,7 @@ _Last updated: 2026-06-17 00:29 UTC_
 | 5 | Tina Thompson | 745 |
 | 6 | Kayla McBride | 737 |
 | 7 | Katie Douglas | 723 |
-| 8 | **Kelsey Mitchell** 🔴 +1 | 688 |
+| 8 | **Kelsey Mitchell** 🔴 +2 | 689 |
 | 9 | Jewell Loyd | 678 |
 | 10 | DeWanna Bonner | 672 |
 | 11 | Kristi Toliver | 651 |
