@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-17T01:05:00+00:00",
+    "text": "Sophie Cunningham passed NaLyssa Smith for #184 all-time in points (career 1,776) \u2014 up from #188 entering today \u2014 (2:14 - 4th \u2014 TOR @ IND)",
+    "kind": "rank_pass",
+    "player": "Sophie Cunningham",
+    "stat": "points",
+    "rank": 184,
+    "passed_players": [
+      "NaLyssa Smith"
+    ],
+    "new_total": 1776
+  },
+  {
     "ts": "2026-06-17T00:37:00+00:00",
     "text": "Sophie Cunningham passed Kamila Vodichkova for #185 all-time in points (career 1,769) \u2014 up from #188 entering today \u2014 (7.4 - 3rd \u2014 TOR @ IND)",
     "kind": "rank_pass",
@@ -2972,19 +2984,5 @@
       "Shameka Christon"
     ],
     "new_total": 206
-  },
-  {
-    "ts": "2026-06-06T12:04:00+00:00",
-    "text": "Azur\u00e1 Stevens passed Seimone Augustus, Allie Quigley, and Nia Coffey for #187 all-time in fouls (career 478) \u2014 up from #190 entering today \u2014 (Final \u2014 CON @ CHI)",
-    "kind": "rank_pass",
-    "player": "Azur\u00e1 Stevens",
-    "stat": "fouls",
-    "rank": 187,
-    "passed_players": [
-      "Seimone Augustus",
-      "Allie Quigley",
-      "Nia Coffey"
-    ],
-    "new_total": 478
   }
 ]
