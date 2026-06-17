@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-17T00:28:00+00:00",
+    "text": "Caitlin Clark passed Marie Ferdinand-Harris for #120 all-time in assists (career 529) \u2014 up from #123 entering today \u2014 (4:28 - 3rd \u2014 TOR @ IND)",
+    "kind": "rank_pass",
+    "player": "Caitlin Clark",
+    "stat": "assists",
+    "rank": 120,
+    "passed_players": [
+      "Marie Ferdinand-Harris"
+    ],
+    "new_total": 529
+  },
+  {
     "ts": "2026-06-16T04:05:00+00:00",
     "text": "Kelsey Plum passed Jasmine Thomas for #91 all-time in fouls (career 686) \u2014 up from #95 entering today \u2014 (4:17 - 4th \u2014 LA @ GS)",
     "kind": "rank_pass",
@@ -2974,17 +2986,5 @@
       "Tari Phillips"
     ],
     "new_total": 113
-  },
-  {
-    "ts": "2026-06-06T12:04:00+00:00",
-    "text": "Skylar Diggins passed Kristen Rasmussen for #135 all-time in rebounds (career 994) \u2014 up from #136 entering today \u2014 (Final \u2014 CON @ CHI)",
-    "kind": "rank_pass",
-    "player": "Skylar Diggins",
-    "stat": "rebounds",
-    "rank": 135,
-    "passed_players": [
-      "Kristen Rasmussen"
-    ],
-    "new_total": 994
   }
 ]
