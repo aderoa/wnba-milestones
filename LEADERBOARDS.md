@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-17 00:36 UTC_
+_Last updated: 2026-06-17 00:37 UTC_
 
 ## Contents
 
@@ -203,8 +203,8 @@ _Last updated: 2026-06-17 00:36 UTC_
 | 182 | Danielle Adams | 1,820 |
 | 183 | Charde Houston | 1,797 |
 | 184 | NaLyssa Smith | 1,775 |
-| 185 | Kamila Vodichkova | 1,767 |
-| 186 | **Sophie Cunningham** 🔴 +14 | 1,766 |
+| 185 | **Sophie Cunningham** 🔴 +17 | 1,769 |
+| 186 | Kamila Vodichkova | 1,767 |
 | 187 | Tully Bevilaqua | 1,763 |
 | 188 | Sandy Brondello | 1,759 |
 | 189 | Sugar Rodgers | 1,733 |
@@ -551,7 +551,7 @@ _Last updated: 2026-06-17 00:36 UTC_
 | 120 | **Caitlin Clark** 🔴 +13 | 530 |
 | 121 | Marie Ferdinand-Harris | 528 |
 | 122 | Margo Dydek | 524 |
-| 123 | **Myisha Hines-Allen** 🔴 +1 | 521 |
+| 123 | **Myisha Hines-Allen** 🔴 +2 | 522 |
 | 124 | Iziane Castro Marques | 509 |
 | 125 | Brittany Boyd-Jones | 508 |
 | 125 | Chasity Melvin | 508 |
@@ -1105,7 +1105,7 @@ _Last updated: 2026-06-17 00:36 UTC_
 | 59 | Anna DeForge | 334 |
 | 60 | Erica Wheeler | 329 |
 | 61 | Jackie Young | 323 |
-| 62 | **Sophie Cunningham** 🔴 +4 | 321 |
+| 62 | **Sophie Cunningham** 🔴 +5 | 322 |
 | 63 | Sugar Rodgers | 317 |
 | 64 | Marissa Coleman | 315 |
 | 65 | Shannon Johnson | 313 |
