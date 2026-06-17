@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-17 00:41 UTC_
+_Last updated: 2026-06-17 00:42 UTC_
 
 ## Contents
 
@@ -203,7 +203,7 @@ _Last updated: 2026-06-17 00:41 UTC_
 | 182 | Danielle Adams | 1,820 |
 | 183 | Charde Houston | 1,797 |
 | 184 | NaLyssa Smith | 1,775 |
-| 185 | **Sophie Cunningham** 🔴 +17 | 1,769 |
+| 185 | **Sophie Cunningham** 🔴 +20 | 1,772 |
 | 186 | Kamila Vodichkova | 1,767 |
 | 187 | Tully Bevilaqua | 1,763 |
 | 188 | Sandy Brondello | 1,759 |
@@ -317,7 +317,7 @@ _Last updated: 2026-06-17 00:41 UTC_
 | 91 | Azurá Stevens | 1,256 |
 | 92 | Tiffany Hayes | 1,244 |
 | 93 | Ezi Magbegor | 1,243 |
-| 94 | **Myisha Hines-Allen** 🔴 | 1,239 |
+| 94 | **Myisha Hines-Allen** 🔴 +2 | 1,241 |
 | 95 | Brianna Turner | 1,237 |
 | 96 | Seimone Augustus | 1,228 |
 | 97 | Kayla McBride | 1,226 |
@@ -496,7 +496,7 @@ _Last updated: 2026-06-17 00:41 UTC_
 | 65 | **Brittney Sykes** 🔴 +3 | 855 |
 | 66 | Tully Bevilaqua | 853 |
 | 67 | Jia Perkins | 837 |
-| 68 | **Kelsey Mitchell** 🔴 +1 | 822 |
+| 68 | **Kelsey Mitchell** 🔴 +2 | 823 |
 | 69 | Andrea Stinson | 810 |
 | 70 | Tina Thompson | 803 |
 | 71 | Epiphanny Prince | 800 |
@@ -1105,7 +1105,7 @@ _Last updated: 2026-06-17 00:41 UTC_
 | 59 | Anna DeForge | 334 |
 | 60 | Erica Wheeler | 329 |
 | 61 | Jackie Young | 323 |
-| 62 | **Sophie Cunningham** 🔴 +5 | 322 |
+| 61 | **Sophie Cunningham** 🔴 +6 | 323 |
 | 63 | Sugar Rodgers | 317 |
 | 64 | Marissa Coleman | 315 |
 | 65 | Shannon Johnson | 313 |
