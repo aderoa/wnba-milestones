@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-17 00:14 UTC_
+_Last updated: 2026-06-17 00:15 UTC_
 
 ## Contents
 
@@ -83,7 +83,7 @@ _Last updated: 2026-06-17 00:14 UTC_
 | 62 | Allie Quigley | 3,786 |
 | 63 | Chasity Melvin | 3,781 |
 | 64 | Kara Lawson | 3,670 |
-| 65 | **Brittney Sykes** 🔴 +9 | 3,630 |
+| 65 | **Brittney Sykes** 🔴 +11 | 3,632 |
 | 66 | Mwadi Mabika | 3,576 |
 | 67 | Odyssey Sims | 3,574 |
 | 68 | Camille Smith | 3,551 |
@@ -294,7 +294,7 @@ _Last updated: 2026-06-17 00:14 UTC_
 | 68 | Tamera Young | 1,433 |
 | 69 | Alana Beard | 1,420 |
 | 70 | Nakia Sanford | 1,419 |
-| 71 | **Monique Billings** 🔴 +5 | 1,390 |
+| 71 | **Monique Billings** 🔴 +6 | 1,391 |
 | 72 | Kara Braxton | 1,387 |
 | 73 | Allisha Gray | 1,384 |
 | 74 | Courtney Vandersloot | 1,383 |
@@ -1594,7 +1594,7 @@ _Last updated: 2026-06-17 00:14 UTC_
 | 138 | Dawn Staley | 551 |
 | 139 | Glory Johnson | 550 |
 | 139 | Tierra Ruffin-Pratt | 550 |
-| 141 | **Marina Mabrey** 🔴 | 548 |
+| 141 | **Marina Mabrey** 🔴 +1 | 549 |
 | 142 | Erlana Larkins | 546 |
 | 143 | Jayne Appel Marinelli | 543 |
 | 143 | Renee Montgomery | 543 |
