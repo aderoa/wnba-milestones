@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-17 00:44 UTC_
+_Last updated: 2026-06-17 00:45 UTC_
 
 ## Contents
 
@@ -335,7 +335,7 @@ _Last updated: 2026-06-17 00:44 UTC_
 | 109 | Andrea Stinson | 1,127 |
 | 109 | Tamika Raymond | 1,127 |
 | 111 | Adrienne Goodson | 1,126 |
-| 112 | **Aliyah Boston** 🔴 +10 | 1,120 |
+| 112 | **Aliyah Boston** 🔴 +11 | 1,121 |
 | 113 | NaLyssa Smith | 1,115 |
 | 114 | Deanna Nolan | 1,112 |
 | 114 | Natasha Cloud | 1,112 |
@@ -382,7 +382,7 @@ _Last updated: 2026-06-17 00:44 UTC_
 | 156 | Alanna Smith | 864 |
 | 157 | Krystal Thomas | 862 |
 | 158 | Nia Coffey | 854 |
-| 159 | **Marina Mabrey** 🔴 | 849 |
+| 159 | **Marina Mabrey** 🔴 +1 | 850 |
 | 160 | Leilani Mitchell | 845 |
 | 161 | Essence Carson | 833 |
 | 162 | Kristi Toliver | 829 |
@@ -713,8 +713,8 @@ _Last updated: 2026-06-17 00:44 UTC_
 | 77 | Ann Wauters | 153 |
 | 77 | Sue Wicks | 153 |
 | 79 | Jessica Davenport | 151 |
-| 80 | Alison Bales | 148 |
-| 80 | **Aliyah Boston** 🔴 +1 | 148 |
+| 80 | **Aliyah Boston** 🔴 +2 | 149 |
+| 81 | Alison Bales | 148 |
 | 82 | Chamique Holdsclaw | 143 |
 | 83 | Shavonte Zellous | 139 |
 | 84 | Penny Taylor | 136 |
