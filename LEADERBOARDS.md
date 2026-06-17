@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-17 23:31 UTC_
+_Last updated: 2026-06-17 23:32 UTC_
 
 ## Contents
 
@@ -1222,9 +1222,9 @@ _Last updated: 2026-06-17 23:31 UTC_
 | 176 | Jordin Canada | 120 |
 | 177 | Lexie Hull | 118 |
 | 177 | Tonya Edwards | 118 |
-| 179 | Edwige Lawson-Wade | 116 |
-| 179 | **Kennedy Burke** 🔴 | 116 |
-| 179 | Marie Ferdinand-Harris | 116 |
+| 179 | **Kennedy Burke** 🔴 +1 | 117 |
+| 180 | Edwige Lawson-Wade | 116 |
+| 180 | Marie Ferdinand-Harris | 116 |
 | 182 | Ebony Hoffman | 115 |
 | 182 | Shey Peddy | 115 |
 | 182 | Stephanie White | 115 |
