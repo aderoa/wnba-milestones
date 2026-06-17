@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-17 00:31 UTC_
+_Last updated: 2026-06-17 00:32 UTC_
 
 ## Contents
 
@@ -47,7 +47,7 @@ _Last updated: 2026-06-17 00:31 UTC_
 | 26 | Lindsay Whalen | 5,511 |
 | 27 | Swin Cash | 5,119 |
 | 28 | Tangela Smith | 5,035 |
-| 29 | **Kelsey Mitchell** 🔴 +20 | 5,023 |
+| 29 | **Kelsey Mitchell** 🔴 +22 | 5,025 |
 | 30 | Taj McWilliams-Franklin | 4,992 |
 | 31 | Tiffany Hayes | 4,985 |
 | 32 | Maya Moore | 4,984 |
@@ -204,8 +204,8 @@ _Last updated: 2026-06-17 00:31 UTC_
 | 183 | Charde Houston | 1,797 |
 | 184 | NaLyssa Smith | 1,775 |
 | 185 | Kamila Vodichkova | 1,767 |
-| 186 | **Sophie Cunningham** 🔴 +11 | 1,763 |
-| 186 | Tully Bevilaqua | 1,763 |
+| 186 | **Sophie Cunningham** 🔴 +14 | 1,766 |
+| 187 | Tully Bevilaqua | 1,763 |
 | 188 | Sandy Brondello | 1,759 |
 | 189 | Sugar Rodgers | 1,733 |
 | 190 | Gabby Williams | 1,723 |
@@ -548,10 +548,10 @@ _Last updated: 2026-06-17 00:31 UTC_
 | 116 | Svetlana Abrosimova | 551 |
 | 118 | Michele Timms | 549 |
 | 119 | Veronica Burton | 537 |
-| 120 | **Caitlin Clark** 🔴 +12 | 529 |
+| 120 | **Caitlin Clark** 🔴 +13 | 530 |
 | 121 | Marie Ferdinand-Harris | 528 |
 | 122 | Margo Dydek | 524 |
-| 123 | **Myisha Hines-Allen** 🔴 | 520 |
+| 123 | **Myisha Hines-Allen** 🔴 +1 | 521 |
 | 124 | Iziane Castro Marques | 509 |
 | 125 | Brittany Boyd-Jones | 508 |
 | 125 | Chasity Melvin | 508 |
@@ -1105,7 +1105,7 @@ _Last updated: 2026-06-17 00:31 UTC_
 | 59 | Anna DeForge | 334 |
 | 60 | Erica Wheeler | 329 |
 | 61 | Jackie Young | 323 |
-| 62 | **Sophie Cunningham** 🔴 +3 | 320 |
+| 62 | **Sophie Cunningham** 🔴 +4 | 321 |
 | 63 | Sugar Rodgers | 317 |
 | 64 | Marissa Coleman | 315 |
 | 65 | Shannon Johnson | 313 |

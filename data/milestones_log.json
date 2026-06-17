@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-17T00:32:00+00:00",
+    "text": "Sophie Cunningham passed Tully Bevilaqua for #186 all-time in points (career 1,766) \u2014 up from #188 entering today \u2014 (2:36 - 3rd \u2014 TOR @ IND)",
+    "kind": "rank_pass",
+    "player": "Sophie Cunningham",
+    "stat": "points",
+    "rank": 186,
+    "passed_players": [
+      "Tully Bevilaqua"
+    ],
+    "new_total": 1766
+  },
+  {
     "ts": "2026-06-17T00:28:00+00:00",
     "text": "Caitlin Clark passed Marie Ferdinand-Harris for #120 all-time in assists (career 529) \u2014 up from #123 entering today \u2014 (4:28 - 3rd \u2014 TOR @ IND)",
     "kind": "rank_pass",
@@ -2971,20 +2983,5 @@
     "stat": "rebounds",
     "value": 700,
     "new_total": 701
-  },
-  {
-    "ts": "2026-06-06T12:04:00+00:00",
-    "text": "Kamilla Cardoso passed Amanda Lassiter, Kamila Vodichkova, Sophia Young-Malcolm, and Tari Phillips for #112 all-time in blocks (career 113) \u2014 up from #114 entering today \u2014 (Final \u2014 CON @ CHI)",
-    "kind": "rank_pass",
-    "player": "Kamilla Cardoso",
-    "stat": "blocks",
-    "rank": 112,
-    "passed_players": [
-      "Amanda Lassiter",
-      "Kamila Vodichkova",
-      "Sophia Young-Malcolm",
-      "Tari Phillips"
-    ],
-    "new_total": 113
   }
 ]

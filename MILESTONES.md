@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-17 00:32 UTC
+
+- **Sophie Cunningham** passed **Tully Bevilaqua** for **#186** all-time in points (career 1,766) — up from #188 entering today — _2:36 - 3rd — TOR @ IND_
+
 ## 2026-06-17 00:28 UTC
 
 - **Caitlin Clark** passed **Marie Ferdinand-Harris** for **#120** all-time in assists (career 529) — up from #123 entering today — _4:28 - 3rd — TOR @ IND_
