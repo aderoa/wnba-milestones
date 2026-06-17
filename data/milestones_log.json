@@ -1,5 +1,19 @@
 [
   {
+    "ts": "2026-06-17T01:09:00+00:00",
+    "text": "Kia Nurse passed Jordin Canada, Kara Braxton, and Matee Ajavon for #139 all-time in points (career 2,239) \u2014 up from #142 entering today \u2014 (57.9 - 4th \u2014 TOR @ IND)",
+    "kind": "rank_pass",
+    "player": "Kia Nurse",
+    "stat": "points",
+    "rank": 139,
+    "passed_players": [
+      "Jordin Canada",
+      "Kara Braxton",
+      "Matee Ajavon"
+    ],
+    "new_total": 2239
+  },
+  {
     "ts": "2026-06-17T01:05:00+00:00",
     "text": "Sophie Cunningham passed NaLyssa Smith for #184 all-time in points (career 1,776) \u2014 up from #188 entering today \u2014 (2:14 - 4th \u2014 TOR @ IND)",
     "kind": "rank_pass",
@@ -2972,17 +2986,5 @@
       "Liz Cambage"
     ],
     "new_total": 1266
-  },
-  {
-    "ts": "2026-06-06T12:04:00+00:00",
-    "text": "Azur\u00e1 Stevens passed Shameka Christon for #166 all-time in steals (career 206) \u2014 (Final \u2014 CON @ CHI)",
-    "kind": "rank_pass",
-    "player": "Azur\u00e1 Stevens",
-    "stat": "steals",
-    "rank": 166,
-    "passed_players": [
-      "Shameka Christon"
-    ],
-    "new_total": 206
   }
 ]

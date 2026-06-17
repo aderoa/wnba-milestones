@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-17 01:09 UTC
+
+- **Kia Nurse** passed **Jordin Canada**, **Kara Braxton**, and **Matee Ajavon** for **#139** all-time in points (career 2,239) — up from #142 entering today — _57.9 - 4th — TOR @ IND_
+
 ## 2026-06-17 01:05 UTC
 
 - **Sophie Cunningham** passed **NaLyssa Smith** for **#184** all-time in points (career 1,776) — up from #188 entering today — _2:14 - 4th — TOR @ IND_
