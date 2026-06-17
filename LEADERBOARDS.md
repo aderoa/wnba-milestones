@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-17 00:24 UTC_
+_Last updated: 2026-06-17 00:25 UTC_
 
 ## Contents
 
@@ -47,7 +47,7 @@ _Last updated: 2026-06-17 00:24 UTC_
 | 26 | Lindsay Whalen | 5,511 |
 | 27 | Swin Cash | 5,119 |
 | 28 | Tangela Smith | 5,035 |
-| 29 | **Kelsey Mitchell** 🔴 +15 | 5,018 |
+| 29 | **Kelsey Mitchell** 🔴 +17 | 5,020 |
 | 30 | Taj McWilliams-Franklin | 4,992 |
 | 31 | Tiffany Hayes | 4,985 |
 | 32 | Maya Moore | 4,984 |
@@ -335,7 +335,7 @@ _Last updated: 2026-06-17 00:24 UTC_
 | 109 | Andrea Stinson | 1,127 |
 | 109 | Tamika Raymond | 1,127 |
 | 111 | Adrienne Goodson | 1,126 |
-| 112 | **Aliyah Boston** 🔴 +8 | 1,118 |
+| 112 | **Aliyah Boston** 🔴 +9 | 1,119 |
 | 113 | NaLyssa Smith | 1,115 |
 | 114 | Deanna Nolan | 1,112 |
 | 114 | Natasha Cloud | 1,112 |
@@ -596,7 +596,7 @@ _Last updated: 2026-06-17 00:24 UTC_
 | 165 | Rita Williams | 403 |
 | 166 | **Julie Allemand** 🔴 +1 | 402 |
 | 166 | **Kia Nurse** 🔴 | 402 |
-| 168 | **Aliyah Boston** 🔴 +2 | 400 |
+| 168 | **Aliyah Boston** 🔴 +3 | 401 |
 | 169 | Marissa Coleman | 399 |
 | 170 | Jessica Shepard | 395 |
 | 170 | Stacey Dales | 395 |
