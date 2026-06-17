@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-17 01:05 UTC_
+_Last updated: 2026-06-17 01:06 UTC_
 
 ## Contents
 
@@ -196,7 +196,7 @@ _Last updated: 2026-06-17 01:05 UTC_
 | 175 | Candice Wiggins | 1,901 |
 | 176 | Natisha Hiedeman | 1,858 |
 | 177 | **Isabelle Harrison** 🔴 +11 | 1,843 |
-| 178 | Damiris Dantas | 1,830 |
+| 178 | **Damiris Dantas** 🔴 | 1,830 |
 | 179 | Tianna Hawkins | 1,825 |
 | 180 | Noelle Quinn | 1,824 |
 | 181 | Rachel Banham | 1,823 |
@@ -355,7 +355,7 @@ _Last updated: 2026-06-17 01:05 UTC_
 | 128 | Noelle Quinn | 1,011 |
 | 130 | Tiffany Jackson | 1,002 |
 | 131 | Tianna Hawkins | 1,000 |
-| 132 | Damiris Dantas | 999 |
+| 132 | **Damiris Dantas** 🔴 | 999 |
 | 133 | Sabrina Ionescu | 998 |
 | 134 | Marissa Coleman | 995 |
 | 135 | Kristen Rasmussen | 993 |
@@ -611,7 +611,7 @@ _Last updated: 2026-06-17 01:05 UTC_
 | 180 | Bridget Carleton | 375 |
 | 181 | Alanna Smith | 372 |
 | 182 | Suzie McConnell Serio | 370 |
-| 183 | Damiris Dantas | 368 |
+| 183 | **Damiris Dantas** 🔴 | 368 |
 | 184 | Roneeka Hodges | 362 |
 | 185 | Andrea Nagy | 361 |
 | 185 | Diamond DeShields | 361 |
@@ -791,7 +791,7 @@ _Last updated: 2026-06-17 01:05 UTC_
 | 154 | Natasha Cloud | 84 |
 | 154 | Shatori Walker-Kimbrough | 84 |
 | 157 | Tamera Young | 83 |
-| 158 | Damiris Dantas | 82 |
+| 158 | **Damiris Dantas** 🔴 | 82 |
 | 158 | **Marina Mabrey** 🔴 +1 | 82 |
 | 160 | Charlotte Smith | 81 |
 | 160 | Cintia dos Santos | 81 |
@@ -1148,7 +1148,7 @@ _Last updated: 2026-06-17 01:05 UTC_
 | 102 | Kelly Mazzante | 218 |
 | 102 | Satou Sabally | 218 |
 | 102 | Sheri Sam | 218 |
-| 105 | Damiris Dantas | 211 |
+| 105 | **Damiris Dantas** 🔴 | 211 |
 | 105 | Erin Phillips | 211 |
 | 107 | Andrea Stinson | 207 |
 | 108 | Betnijah Laney-Hamilton | 204 |
@@ -1602,7 +1602,7 @@ _Last updated: 2026-06-17 01:05 UTC_
 | 146 | A'ja Wilson | 537 |
 | 147 | Kristen Rasmussen | 533 |
 | 148 | Amanda Zahui B | 530 |
-| 149 | Damiris Dantas | 527 |
+| 149 | **Damiris Dantas** 🔴 | 527 |
 | 150 | Candice Wiggins | 525 |
 | 150 | Epiphanny Prince | 525 |
 | 150 | Jackie Young | 525 |
