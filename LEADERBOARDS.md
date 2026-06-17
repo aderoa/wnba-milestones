@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-17 01:02 UTC_
+_Last updated: 2026-06-17 01:03 UTC_
 
 ## Contents
 
@@ -1169,8 +1169,8 @@ _Last updated: 2026-06-17 01:02 UTC_
 | 123 | Nikki McCray | 175 |
 | 124 | Shatori Walker-Kimbrough | 174 |
 | 124 | Tayler Hill | 174 |
+| 126 | **Caitlin Clark** 🔴 +1 | 172 |
 | 126 | Theresa Plaisance | 172 |
-| 127 | **Caitlin Clark** 🔴 | 171 |
 | 128 | Amanda Lassiter | 170 |
 | 129 | Marine Johannès | 168 |
 | 130 | Shavonte Zellous | 167 |
@@ -1606,8 +1606,8 @@ _Last updated: 2026-06-17 01:02 UTC_
 | 150 | Candice Wiggins | 525 |
 | 150 | Epiphanny Prince | 525 |
 | 150 | Jackie Young | 525 |
-| 153 | Armintie Herrington | 523 |
-| 153 | **Sophie Cunningham** 🔴 | 523 |
+| 153 | **Sophie Cunningham** 🔴 +1 | 524 |
+| 154 | Armintie Herrington | 523 |
 | 155 | Kayla McBride | 522 |
 | 156 | **Monique Billings** 🔴 +2 | 519 |
 | 156 | Sheryl Swoopes | 519 |
