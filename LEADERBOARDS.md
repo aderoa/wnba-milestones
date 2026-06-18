@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-18 00:49 UTC_
+_Last updated: 2026-06-18 00:50 UTC_
 
 ## Contents
 
@@ -359,7 +359,7 @@ _Last updated: 2026-06-18 00:49 UTC_
 | 132 | **Sabrina Ionescu** 🔴 +1 | 999 |
 | 134 | Marissa Coleman | 995 |
 | 135 | Kristen Rasmussen | 993 |
-| 136 | **Skylar Diggins** 🔴 | 991 |
+| 136 | **Skylar Diggins** 🔴 +1 | 992 |
 | 137 | Danielle Robinson | 988 |
 | 138 | Shavonte Zellous | 978 |
 | 139 | Kara Lawson | 976 |
