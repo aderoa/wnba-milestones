@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-18 02:40 UTC_
+_Last updated: 2026-06-18 02:41 UTC_
 
 ## Contents
 
@@ -207,7 +207,7 @@ _Last updated: 2026-06-18 02:40 UTC_
 | 186 | Tully Bevilaqua | 1,763 |
 | 187 | Sandy Brondello | 1,759 |
 | 188 | Sophie Cunningham | 1,752 |
-| 189 | **Gabby Williams** 🔴 +11 | 1,734 |
+| 189 | **Gabby Williams** 🔴 +13 | 1,736 |
 | 190 | Sugar Rodgers | 1,733 |
 | 191 | Moriah Jefferson | 1,722 |
 | 192 | Armintie Herrington | 1,696 |
@@ -228,7 +228,7 @@ _Last updated: 2026-06-18 02:40 UTC_
 | 2 | Sylvia Fowles | 4,005 |
 | 3 | Candace Parker | 3,467 |
 | 4 | Rebekkah Brunson | 3,345 |
-| 5 | **Nneka Ogwumike** 🔴 +3 | 3,340 |
+| 5 | **Nneka Ogwumike** 🔴 +4 | 3,341 |
 | 6 | Tamika Catchings | 3,313 |
 | 7 | Lisa Leslie | 3,303 |
 | 8 | **DeWanna Bonner** 🔴 +2 | 3,262 |
@@ -265,7 +265,7 @@ _Last updated: 2026-06-18 02:40 UTC_
 | 39 | Lindsay Whalen | 1,805 |
 | 40 | Camille Smith | 1,802 |
 | 40 | **Courtney Williams** 🔴 +1 | 1,802 |
-| 42 | **Kiah Stokes** 🔴 +4 | 1,794 |
+| 42 | **Kiah Stokes** 🔴 +5 | 1,795 |
 | 43 | Asjha Jones | 1,751 |
 | 44 | **Stefanie Dolson** 🔴 +2 | 1,690 |
 | 45 | Teaira McCowan | 1,682 |
@@ -300,7 +300,7 @@ _Last updated: 2026-06-18 02:40 UTC_
 | 74 | Courtney Vandersloot | 1,383 |
 | 74 | Katie Smith | 1,383 |
 | 76 | Ebony Hoffman | 1,376 |
-| 77 | **Kayla Thornton** 🔴 +2 | 1,362 |
+| 77 | **Kayla Thornton** 🔴 +4 | 1,364 |
 | 78 | Sheri Sam | 1,356 |
 | 79 | Tamika Whitmore | 1,355 |
 | 80 | Emma Meesseman | 1,350 |
@@ -1278,8 +1278,8 @@ _Last updated: 2026-06-18 02:40 UTC_
 | 27 | Katie Douglas | 824 |
 | 28 | **Natasha Howard** 🔴 +1 | 822 |
 | 29 | Betty Lennox | 800 |
-| 30 | Jasmine Thomas | 796 |
-| 30 | **Nneka Ogwumike** 🔴 +1 | 796 |
+| 30 | **Nneka Ogwumike** 🔴 +2 | 797 |
+| 31 | Jasmine Thomas | 796 |
 | 32 | Chamique Holdsclaw | 789 |
 | 33 | **Jewell Loyd** 🔴 | 786 |
 | 34 | Crystal Langhorne | 782 |
