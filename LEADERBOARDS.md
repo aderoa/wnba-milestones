@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-18 03:14 UTC_
+_Last updated: 2026-06-18 03:15 UTC_
 
 ## Contents
 
@@ -96,7 +96,7 @@ _Last updated: 2026-06-18 03:14 UTC_
 | 75 | Tammy Sutton-Brown | 3,498 |
 | 76 | Sancho Lyttle | 3,478 |
 | 77 | Ivory Latta | 3,447 |
-| 78 | **Ariel Atkins** 🔴 +2 | 3,444 |
+| 78 | **Ariel Atkins** 🔴 +4 | 3,446 |
 | 79 | Nicole Powell | 3,407 |
 | 80 | Epiphanny Prince | 3,381 |
 | 81 | Michelle Snow | 3,361 |
@@ -525,7 +525,7 @@ _Last updated: 2026-06-18 03:14 UTC_
 | 94 | Asjha Jones | 637 |
 | 95 | Jennifer Azzi | 636 |
 | 96 | Jonquel Jones | 628 |
-| 97 | **Natisha Hiedeman** 🔴 +3 | 627 |
+| 96 | **Natisha Hiedeman** 🔴 +4 | 628 |
 | 98 | Sami Whitcomb | 623 |
 | 99 | Alysha Clark | 616 |
 | 100 | Debbie Black | 612 |
@@ -537,7 +537,7 @@ _Last updated: 2026-06-18 03:14 UTC_
 | 106 | Betnijah Laney-Hamilton | 585 |
 | 107 | Tan White | 578 |
 | 108 | Matee Ajavon | 577 |
-| 109 | **Gabby Williams** 🔴 +1 | 573 |
+| 109 | **Gabby Williams** 🔴 +2 | 574 |
 | 110 | Napheesa Collier | 570 |
 | 111 | Nicole Powell | 567 |
 | 112 | Loree Moore | 562 |
@@ -777,9 +777,9 @@ _Last updated: 2026-06-18 03:14 UTC_
 | 139 | Sandrine Gruda | 94 |
 | 142 | Jasmine Thomas | 91 |
 | 142 | Kayla Alexander | 91 |
-| 144 | Allie Quigley | 90 |
-| 144 | Alysha Clark | 90 |
-| 144 | **Kayla Thornton** 🔴 | 90 |
+| 142 | **Kayla Thornton** 🔴 +1 | 91 |
+| 145 | Allie Quigley | 90 |
+| 145 | Alysha Clark | 90 |
 | 147 | Marissa Coleman | 88 |
 | 148 | **Tiffany Hayes** 🔴 | 87 |
 | 149 | Astou Ndiaye-Diatta | 86 |
@@ -843,7 +843,7 @@ _Last updated: 2026-06-18 03:14 UTC_
 | 2 | Ticha Penicheiro | 761 |
 | 3 | Sue Bird | 724 |
 | 4 | Alana Beard | 710 |
-| 5 | **Nneka Ogwumike** 🔴 +1 | 679 |
+| 5 | **Nneka Ogwumike** 🔴 +2 | 680 |
 | 6 | Sheryl Swoopes | 657 |
 | 7 | **DeWanna Bonner** 🔴 +1 | 644 |
 | 8 | Jia Perkins | 634 |
@@ -1225,10 +1225,10 @@ _Last updated: 2026-06-18 03:14 UTC_
 | 177 | Tonya Edwards | 118 |
 | 180 | Edwige Lawson-Wade | 116 |
 | 180 | Marie Ferdinand-Harris | 116 |
-| 182 | Ebony Hoffman | 115 |
-| 182 | Shey Peddy | 115 |
-| 182 | Stephanie White | 115 |
-| 182 | **Veronica Burton** 🔴 | 115 |
+| 180 | **Veronica Burton** 🔴 +1 | 116 |
+| 183 | Ebony Hoffman | 115 |
+| 183 | Shey Peddy | 115 |
+| 183 | Stephanie White | 115 |
 | 186 | Gordana Grubin | 114 |
 | 186 | Rickea Jackson | 114 |
 | 186 | Sandy Brondello | 114 |
@@ -1312,9 +1312,9 @@ _Last updated: 2026-06-18 03:14 UTC_
 | 61 | Yolanda Griffith | 653 |
 | 62 | Sheri Sam | 650 |
 | 63 | Dawn Staley | 643 |
+| 64 | **Kayla McBride** 🔴 +1 | 637 |
 | 64 | Ruth Riley | 637 |
-| 65 | **Kayla McBride** 🔴 | 636 |
-| 65 | Kelsey Plum | 636 |
+| 66 | Kelsey Plum | 636 |
 | 67 | Jonquel Jones | 631 |
 | 67 | Odyssey Sims | 631 |
 | 67 | Svetlana Abrosimova | 631 |
@@ -1471,7 +1471,7 @@ _Last updated: 2026-06-18 03:14 UTC_
 | 15 | Swin Cash | 1,146 |
 | 16 | Taj McWilliams-Franklin | 1,145 |
 | 17 | Monique Currie | 1,137 |
-| 18 | **Natasha Howard** 🔴 +1 | 1,125 |
+| 18 | **Natasha Howard** 🔴 +2 | 1,126 |
 | 19 | **Stefanie Dolson** 🔴 | 1,117 |
 | 20 | Tanisha Wright | 1,109 |
 | 21 | Michelle Snow | 1,108 |
