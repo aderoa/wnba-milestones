@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-18 03:34 UTC
+
+- **Kayla McBride** passed **Sheri Sam** for **#37** all-time in steals (career 439) — up from #39 entering today — _9:33 - 4th — MIN @ LA_
+
 ## 2026-06-18 03:21 UTC
 
 - **A'ja Wilson** passed **Natasha Cloud** for **#71** all-time in steals (career 350) — up from #72 entering today — _8:39 - 3rd — LV @ PHX_
