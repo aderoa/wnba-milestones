@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-18 02:48 UTC_
+_Last updated: 2026-06-18 02:49 UTC_
 
 ## Contents
 
@@ -67,7 +67,7 @@ _Last updated: 2026-06-18 02:48 UTC_
 | 46 | Courtney Vandersloot | 4,352 |
 | 47 | Allisha Gray | 4,339 |
 | 48 | Sophia Young-Malcolm | 4,300 |
-| 49 | **Kahleah Copper** 🔴 +8 | 4,291 |
+| 49 | **Kahleah Copper** 🔴 +10 | 4,293 |
 | 50 | Plenette Pierson | 4,258 |
 | 51 | **Dearica Hamby** 🔴 +10 | 4,253 |
 | 51 | Monique Currie | 4,253 |
@@ -265,7 +265,7 @@ _Last updated: 2026-06-18 02:48 UTC_
 | 39 | Lindsay Whalen | 1,805 |
 | 40 | **Courtney Williams** 🔴 +2 | 1,803 |
 | 41 | Camille Smith | 1,802 |
-| 42 | **Kiah Stokes** 🔴 +5 | 1,795 |
+| 42 | **Kiah Stokes** 🔴 +6 | 1,796 |
 | 43 | Asjha Jones | 1,751 |
 | 44 | **Stefanie Dolson** 🔴 +2 | 1,690 |
 | 45 | Teaira McCowan | 1,682 |
@@ -367,7 +367,7 @@ _Last updated: 2026-06-18 02:48 UTC_
 | 141 | Dominique Canty | 961 |
 | 142 | Armintie Herrington | 960 |
 | 143 | Janell Burse | 944 |
-| 144 | **Jessica Shepard** 🔴 +5 | 932 |
+| 144 | **Jessica Shepard** 🔴 +6 | 933 |
 | 145 | Satou Sabally | 928 |
 | 146 | Merlakia Jones | 927 |
 | 147 | Angel Reese | 923 |
@@ -525,7 +525,7 @@ _Last updated: 2026-06-18 02:48 UTC_
 | 94 | Asjha Jones | 637 |
 | 95 | Jennifer Azzi | 636 |
 | 96 | Jonquel Jones | 628 |
-| 97 | **Natisha Hiedeman** 🔴 +2 | 626 |
+| 97 | **Natisha Hiedeman** 🔴 +3 | 627 |
 | 98 | Sami Whitcomb | 623 |
 | 99 | Alysha Clark | 616 |
 | 100 | Debbie Black | 612 |
@@ -655,12 +655,12 @@ _Last updated: 2026-06-18 02:48 UTC_
 | 19 | Erika de Souza | 370 |
 | 20 | Jessica Breland | 367 |
 | 21 | **Natasha Howard** 🔴 +1 | 364 |
-| 22 | **DeWanna Bonner** 🔴 +1 | 354 |
 | 22 | Ezi Magbegor | 354 |
+| 23 | **DeWanna Bonner** 🔴 | 353 |
 | 24 | Diana Taurasi | 349 |
 | 24 | Elena Delle Donne | 349 |
 | 26 | DeLisha Milton-Jones | 339 |
-| 27 | **Kiah Stokes** 🔴 | 336 |
+| 27 | **Kiah Stokes** 🔴 +1 | 337 |
 | 28 | Yolanda Griffith | 323 |
 | 29 | Elena Baranova | 320 |
 | 30 | Candice Dupree | 316 |
@@ -910,7 +910,7 @@ _Last updated: 2026-06-18 02:48 UTC_
 | 69 | Vicky Bullett | 353 |
 | 70 | Svetlana Abrosimova | 352 |
 | 71 | Natasha Cloud | 351 |
-| 72 | **A'ja Wilson** 🔴 +1 | 347 |
+| 72 | **A'ja Wilson** 🔴 +2 | 348 |
 | 73 | Janeth Arcain | 346 |
 | 74 | **Arike Ogunbowale** 🔴 | 345 |
 | 75 | Helen Darling | 343 |
@@ -987,10 +987,10 @@ _Last updated: 2026-06-18 02:48 UTC_
 | 146 | DeMya Walker | 220 |
 | 146 | Jennifer Gillom | 220 |
 | 148 | Allison Feaster | 219 |
+| 149 | **Kahleah Copper** 🔴 +1 | 217 |
 | 149 | Shenise Johnson | 217 |
-| 150 | Adrian Williams-Strong | 216 |
-| 150 | **Kahleah Copper** 🔴 | 216 |
-| 150 | Moriah Jefferson | 216 |
+| 151 | Adrian Williams-Strong | 216 |
+| 151 | Moriah Jefferson | 216 |
 | 153 | Asjha Jones | 215 |
 | 153 | Candice Wiggins | 215 |
 | 153 | **Cheyenne Parker-Tyus** 🔴 | 215 |
@@ -1269,8 +1269,8 @@ _Last updated: 2026-06-18 02:48 UTC_
 | 18 | Cappie Pondexter | 945 |
 | 19 | Katie Smith | 935 |
 | 20 | Shannon Johnson | 934 |
-| 21 | **Chelsea Gray** 🔴 | 898 |
-| 21 | Taj McWilliams-Franklin | 898 |
+| 21 | **Chelsea Gray** 🔴 +1 | 899 |
+| 22 | Taj McWilliams-Franklin | 898 |
 | 23 | Skylar Diggins | 894 |
 | 24 | Candice Dupree | 869 |
 | 25 | Alana Beard | 854 |
@@ -1320,8 +1320,8 @@ _Last updated: 2026-06-18 02:48 UTC_
 | 67 | Svetlana Abrosimova | 631 |
 | 70 | Rebekkah Brunson | 615 |
 | 71 | Seimone Augustus | 613 |
-| 72 | **Kahleah Copper** 🔴 +1 | 610 |
-| 72 | **Tiffany Hayes** 🔴 | 610 |
+| 72 | **Kahleah Copper** 🔴 +2 | 611 |
+| 73 | **Tiffany Hayes** 🔴 | 610 |
 | 74 | Teresa Weatherspoon | 601 |
 | 75 | Lindsey Harding | 600 |
 | 75 | Tamika Whitmore | 600 |
@@ -1444,8 +1444,8 @@ _Last updated: 2026-06-18 02:48 UTC_
 | 193 | Crystal Robinson | 299 |
 | 194 | Michele Timms | 297 |
 | 195 | Azurá Stevens | 296 |
-| 196 | **Kayla Thornton** 🔴 +1 | 295 |
 | 196 | Rachel Banham | 295 |
+| 197 | **Kayla Thornton** 🔴 | 294 |
 | 198 | **Natisha Hiedeman** 🔴 +4 | 293 |
 | 199 | Alexis Hornbuckle | 288 |
 | 199 | Kristen Rasmussen | 288 |
