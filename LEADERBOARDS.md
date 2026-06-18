@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-18 03:37 UTC_
+_Last updated: 2026-06-18 03:38 UTC_
 
 ## Contents
 
@@ -23,7 +23,7 @@ _Last updated: 2026-06-18 03:37 UTC_
 | 2 | Tina Charles | 8,396 |
 | 3 | **DeWanna Bonner** 🔴 +10 | 7,920 |
 | 4 | Tina Thompson | 7,470 |
-| 5 | **Nneka Ogwumike** 🔴 +8 | 7,448 |
+| 5 | **Nneka Ogwumike** 🔴 +9 | 7,449 |
 | 6 | Tamika Catchings | 7,371 |
 | 7 | Candice Dupree | 6,861 |
 | 8 | Sue Bird | 6,802 |
@@ -37,7 +37,7 @@ _Last updated: 2026-06-18 03:37 UTC_
 | 16 | Brittney Griner | 6,037 |
 | 17 | Lauren Jackson | 6,005 |
 | 17 | Seimone Augustus | 6,005 |
-| 19 | **A'ja Wilson** 🔴 +24 | 5,966 |
+| 19 | **A'ja Wilson** 🔴 +26 | 5,968 |
 | 20 | Becky Hammon | 5,816 |
 | 21 | Angel McCoughtry | 5,797 |
 | 22 | Skylar Diggins | 5,645 |
@@ -58,7 +58,7 @@ _Last updated: 2026-06-18 03:37 UTC_
 | 37 | **Alyssa Thomas** 🔴 +8 | 4,661 |
 | 38 | **Arike Ogunbowale** 🔴 +16 | 4,628 |
 | 39 | Penny Taylor | 4,595 |
-| 40 | **Natasha Howard** 🔴 +11 | 4,539 |
+| 40 | **Natasha Howard** 🔴 +13 | 4,541 |
 | 41 | **Chelsea Gray** 🔴 +3 | 4,509 |
 | 42 | Kristi Toliver | 4,474 |
 | 43 | Crystal Langhorne | 4,433 |
@@ -207,7 +207,7 @@ _Last updated: 2026-06-18 03:37 UTC_
 | 186 | Tully Bevilaqua | 1,763 |
 | 187 | Sandy Brondello | 1,759 |
 | 188 | Sophie Cunningham | 1,752 |
-| 189 | **Gabby Williams** 🔴 +19 | 1,742 |
+| 189 | **Gabby Williams** 🔴 +22 | 1,745 |
 | 190 | Sugar Rodgers | 1,733 |
 | 191 | Moriah Jefferson | 1,722 |
 | 192 | Armintie Herrington | 1,696 |
@@ -445,7 +445,7 @@ _Last updated: 2026-06-18 03:37 UTC_
 | 14 | Danielle Robinson | 1,480 |
 | 15 | Shannon Johnson | 1,423 |
 | 15 | Tanisha Wright | 1,423 |
-| 17 | **Courtney Williams** 🔴 +4 | 1,409 |
+| 17 | **Courtney Williams** 🔴 +5 | 1,410 |
 | 18 | Temeka Johnson | 1,382 |
 | 19 | Jasmine Thomas | 1,355 |
 | 20 | Briann January | 1,339 |
@@ -460,7 +460,7 @@ _Last updated: 2026-06-18 03:37 UTC_
 | 29 | Jordin Canada | 1,201 |
 | 30 | Leilani Mitchell | 1,197 |
 | 31 | **DeWanna Bonner** 🔴 +1 | 1,193 |
-| 32 | **Jewell Loyd** 🔴 | 1,144 |
+| 32 | **Jewell Loyd** 🔴 +1 | 1,145 |
 | 33 | Renee Montgomery | 1,140 |
 | 34 | Swin Cash | 1,131 |
 | 35 | **Jackie Young** 🔴 +6 | 1,093 |
@@ -1118,7 +1118,7 @@ _Last updated: 2026-06-18 03:37 UTC_
 | 72 | Nikki Teasley | 304 |
 | 73 | Vickie Johnson | 295 |
 | 74 | Seimone Augustus | 293 |
-| 75 | **Bridget Carleton** 🔴 +4 | 291 |
+| 75 | **Bridget Carleton** 🔴 +5 | 292 |
 | 76 | Candice Wiggins | 290 |
 | 76 | **Kayla Thornton** 🔴 +2 | 290 |
 | 76 | Tully Bevilaqua | 290 |
@@ -1471,7 +1471,7 @@ _Last updated: 2026-06-18 03:37 UTC_
 | 15 | Swin Cash | 1,146 |
 | 16 | Taj McWilliams-Franklin | 1,145 |
 | 17 | Monique Currie | 1,137 |
-| 18 | **Natasha Howard** 🔴 +2 | 1,126 |
+| 18 | **Natasha Howard** 🔴 +3 | 1,127 |
 | 19 | **Stefanie Dolson** 🔴 | 1,117 |
 | 20 | Tanisha Wright | 1,109 |
 | 21 | Michelle Snow | 1,108 |
@@ -1579,7 +1579,7 @@ _Last updated: 2026-06-18 03:37 UTC_
 | 123 | Janel McCarville | 597 |
 | 124 | Kamila Vodichkova | 596 |
 | 125 | Teresa Weatherspoon | 589 |
-| 126 | **Arike Ogunbowale** 🔴 +1 | 587 |
+| 126 | **Arike Ogunbowale** 🔴 +2 | 588 |
 | 127 | Emma Meesseman | 585 |
 | 128 | Chiney Ogwumike | 580 |
 | 128 | Hamchetou Maiga-Ba | 580 |
