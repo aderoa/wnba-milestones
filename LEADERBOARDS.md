@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-18 03:25 UTC_
+_Last updated: 2026-06-18 03:26 UTC_
 
 ## Contents
 
@@ -194,7 +194,7 @@ _Last updated: 2026-06-18 03:25 UTC_
 | 173 | Nakia Sanford | 1,915 |
 | 174 | Ebony Hoffman | 1,909 |
 | 175 | Candice Wiggins | 1,901 |
-| 176 | **Natisha Hiedeman** 🔴 +15 | 1,873 |
+| 176 | **Natisha Hiedeman** 🔴 +16 | 1,874 |
 | 177 | Isabelle Harrison | 1,832 |
 | 178 | Damiris Dantas | 1,830 |
 | 179 | Tianna Hawkins | 1,825 |
@@ -202,7 +202,7 @@ _Last updated: 2026-06-18 03:25 UTC_
 | 181 | Rachel Banham | 1,823 |
 | 182 | Danielle Adams | 1,820 |
 | 183 | Charde Houston | 1,797 |
-| 184 | **NaLyssa Smith** 🔴 +8 | 1,783 |
+| 184 | **NaLyssa Smith** 🔴 +10 | 1,785 |
 | 185 | Kamila Vodichkova | 1,767 |
 | 186 | Tully Bevilaqua | 1,763 |
 | 187 | Sandy Brondello | 1,759 |
@@ -227,8 +227,8 @@ _Last updated: 2026-06-18 03:25 UTC_
 | 1 | Tina Charles | 4,262 |
 | 2 | Sylvia Fowles | 4,005 |
 | 3 | Candace Parker | 3,467 |
+| 4 | **Nneka Ogwumike** 🔴 +8 | 3,345 |
 | 4 | Rebekkah Brunson | 3,345 |
-| 5 | **Nneka Ogwumike** 🔴 +7 | 3,344 |
 | 6 | Tamika Catchings | 3,313 |
 | 7 | Lisa Leslie | 3,303 |
 | 8 | **DeWanna Bonner** 🔴 +1 | 3,261 |
@@ -319,9 +319,9 @@ _Last updated: 2026-06-18 03:25 UTC_
 | 93 | Ezi Magbegor | 1,243 |
 | 94 | **Brianna Turner** 🔴 +3 | 1,240 |
 | 95 | Myisha Hines-Allen | 1,239 |
-| 96 | **Kayla McBride** 🔴 +3 | 1,229 |
+| 96 | **Kayla McBride** 🔴 +4 | 1,230 |
 | 97 | Seimone Augustus | 1,228 |
-| 98 | **Chelsea Gray** 🔴 +1 | 1,222 |
+| 98 | **Chelsea Gray** 🔴 +2 | 1,223 |
 | 99 | Jia Perkins | 1,220 |
 | 100 | DeMya Walker | 1,199 |
 | 101 | Latasha Byears | 1,190 |
@@ -463,7 +463,7 @@ _Last updated: 2026-06-18 03:25 UTC_
 | 32 | **Jewell Loyd** 🔴 | 1,144 |
 | 33 | Renee Montgomery | 1,140 |
 | 34 | Swin Cash | 1,131 |
-| 35 | **Jackie Young** 🔴 +5 | 1,092 |
+| 35 | **Jackie Young** 🔴 +6 | 1,093 |
 | 36 | Lindsey Harding | 1,090 |
 | 37 | Sabrina Ionescu | 1,075 |
 | 38 | Katie Douglas | 1,069 |
@@ -925,7 +925,7 @@ _Last updated: 2026-06-18 03:25 UTC_
 | 84 | Matee Ajavon | 328 |
 | 85 | Napheesa Collier | 325 |
 | 86 | Betty Lennox | 323 |
-| 87 | **Courtney Williams** 🔴 | 321 |
+| 87 | **Courtney Williams** 🔴 +1 | 322 |
 | 88 | Tammy Sutton-Brown | 319 |
 | 89 | Plenette Pierson | 317 |
 | 89 | Temeka Johnson | 317 |
@@ -942,7 +942,7 @@ _Last updated: 2026-06-18 03:25 UTC_
 | 101 | Kelly Miller | 290 |
 | 102 | Glory Johnson | 289 |
 | 103 | Essence Carson | 285 |
-| 104 | **Jackie Young** 🔴 +3 | 282 |
+| 104 | **Jackie Young** 🔴 +4 | 283 |
 | 105 | Seimone Augustus | 280 |
 | 106 | Tari Phillips | 277 |
 | 107 | Emma Meesseman | 276 |
@@ -1205,7 +1205,7 @@ _Last updated: 2026-06-18 03:25 UTC_
 | 159 | Loree Moore | 138 |
 | 159 | Tanisha Wright | 138 |
 | 161 | Kaleena Mosqueda-Lewis | 137 |
-| 162 | **Karlie Samuelson** 🔴 | 135 |
+| 162 | **Karlie Samuelson** 🔴 +1 | 136 |
 | 163 | Shay Murphy | 134 |
 | 164 | Brooke Wyckoff | 132 |
 | 164 | Jenna O'Hea | 132 |
@@ -1261,7 +1261,7 @@ _Last updated: 2026-06-18 03:25 UTC_
 | 10 | Candace Parker | 1,062 |
 | 11 | Tamika Catchings | 1,041 |
 | 12 | Tina Charles | 1,040 |
-| 13 | **Alyssa Thomas** 🔴 +1 | 1,004 |
+| 13 | **Alyssa Thomas** 🔴 +2 | 1,005 |
 | 14 | Lindsay Whalen | 1,002 |
 | 15 | Sylvia Fowles | 961 |
 | 16 | Tanisha Wright | 954 |
@@ -1524,7 +1524,7 @@ _Last updated: 2026-06-18 03:25 UTC_
 | 68 | Kia Vaughn | 755 |
 | 69 | Vickie Johnson | 752 |
 | 70 | Kara Braxton | 748 |
-| 71 | **Kahleah Copper** 🔴 +2 | 740 |
+| 71 | **Kahleah Copper** 🔴 +3 | 741 |
 | 72 | Crystal Langhorne | 737 |
 | 73 | Shameka Christon | 734 |
 | 74 | Becky Hammon | 733 |
