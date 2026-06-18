@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-18 23:41 UTC_
+_Last updated: 2026-06-18 23:42 UTC_
 
 ## Contents
 
@@ -157,9 +157,9 @@ _Last updated: 2026-06-18 23:41 UTC_
 | 136 | Azurá Stevens | 2,259 |
 | 137 | Allison Feaster | 2,258 |
 | 138 | Shekinna Stricklen | 2,245 |
-| 139 | **Jordin Canada** 🔴 | 2,237 |
-| 139 | Kara Braxton | 2,237 |
-| 139 | Matee Ajavon | 2,237 |
+| 139 | **Jordin Canada** 🔴 +3 | 2,240 |
+| 140 | Kara Braxton | 2,237 |
+| 140 | Matee Ajavon | 2,237 |
 | 142 | Kia Nurse | 2,231 |
 | 143 | Dawn Staley | 2,228 |
 | 144 | Teaira McCowan | 2,221 |
@@ -551,7 +551,7 @@ _Last updated: 2026-06-18 23:41 UTC_
 | 120 | Marie Ferdinand-Harris | 528 |
 | 121 | Margo Dydek | 524 |
 | 122 | Myisha Hines-Allen | 520 |
-| 123 | **Caitlin Clark** 🔴 | 517 |
+| 123 | **Caitlin Clark** 🔴 +1 | 518 |
 | 124 | Iziane Castro Marques | 509 |
 | 125 | Brittany Boyd-Jones | 508 |
 | 125 | Chasity Melvin | 508 |
@@ -1219,7 +1219,7 @@ _Last updated: 2026-06-18 23:41 UTC_
 | 173 | Charde Houston | 124 |
 | 174 | Lisa Leslie | 123 |
 | 175 | Sidney Spencer | 122 |
-| 176 | **Jordin Canada** 🔴 | 120 |
+| 176 | **Jordin Canada** 🔴 +1 | 121 |
 | 177 | **Lexie Hull** 🔴 | 118 |
 | 177 | Tonya Edwards | 118 |
 | 179 | Edwige Lawson-Wade | 116 |
