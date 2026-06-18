@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-18 02:04 UTC_
+_Last updated: 2026-06-18 02:05 UTC_
 
 ## Contents
 
@@ -43,7 +43,7 @@ _Last updated: 2026-06-18 02:04 UTC_
 | 22 | **Skylar Diggins** 🔴 +19 | 5,645 |
 | 23 | DeLisha Milton-Jones | 5,571 |
 | 24 | Katie Douglas | 5,545 |
-| 25 | **Kayla McBride** 🔴 | 5,522 |
+| 25 | **Kayla McBride** 🔴 +3 | 5,525 |
 | 26 | Lindsay Whalen | 5,511 |
 | 27 | Swin Cash | 5,119 |
 | 28 | Tangela Smith | 5,035 |
@@ -228,7 +228,7 @@ _Last updated: 2026-06-18 02:04 UTC_
 | 2 | Sylvia Fowles | 4,005 |
 | 3 | Candace Parker | 3,467 |
 | 4 | Rebekkah Brunson | 3,345 |
-| 5 | **Nneka Ogwumike** 🔴 +1 | 3,338 |
+| 5 | **Nneka Ogwumike** 🔴 +2 | 3,339 |
 | 6 | Tamika Catchings | 3,313 |
 | 7 | Lisa Leslie | 3,303 |
 | 8 | DeWanna Bonner | 3,260 |
@@ -367,9 +367,9 @@ _Last updated: 2026-06-18 02:04 UTC_
 | 141 | Dominique Canty | 961 |
 | 142 | Armintie Herrington | 960 |
 | 143 | Janell Burse | 944 |
+| 144 | **Jessica Shepard** 🔴 +1 | 928 |
 | 144 | **Satou Sabally** 🔴 +2 | 928 |
-| 145 | **Jessica Shepard** 🔴 | 927 |
-| 145 | Merlakia Jones | 927 |
+| 146 | Merlakia Jones | 927 |
 | 147 | Angel Reese | 923 |
 | 148 | Nicky Anosike | 922 |
 | 149 | Janeth Arcain | 916 |
@@ -451,7 +451,7 @@ _Last updated: 2026-06-18 02:04 UTC_
 | 20 | Briann January | 1,339 |
 | 21 | Dawn Staley | 1,337 |
 | 22 | Teresa Weatherspoon | 1,333 |
-| 23 | **Erica Wheeler** 🔴 | 1,306 |
+| 23 | **Erica Wheeler** 🔴 +1 | 1,307 |
 | 24 | Kristi Toliver | 1,301 |
 | 25 | Katie Smith | 1,258 |
 | 26 | Kelsey Plum | 1,237 |
@@ -482,7 +482,7 @@ _Last updated: 2026-06-18 02:04 UTC_
 | 51 | Kelly Miller | 927 |
 | 52 | DeLisha Milton-Jones | 921 |
 | 53 | **Arike Ogunbowale** 🔴 | 918 |
-| 54 | **Nneka Ogwumike** 🔴 | 917 |
+| 53 | **Nneka Ogwumike** 🔴 +1 | 918 |
 | 55 | Angel McCoughtry | 915 |
 | 56 | Layshia Clarendon | 911 |
 | 56 | Seimone Augustus | 911 |
@@ -598,8 +598,8 @@ _Last updated: 2026-06-18 02:04 UTC_
 | 167 | Julie Allemand | 401 |
 | 168 | Marissa Coleman | 399 |
 | 169 | Aliyah Boston | 398 |
-| 170 | **Jessica Shepard** 🔴 | 395 |
-| 170 | Stacey Dales | 395 |
+| 170 | **Jessica Shepard** 🔴 +1 | 396 |
+| 171 | Stacey Dales | 395 |
 | 172 | Sugar Rodgers | 393 |
 | 173 | Shameka Christon | 389 |
 | 173 | Tamicha Jackson | 389 |
@@ -1049,7 +1049,7 @@ _Last updated: 2026-06-18 02:04 UTC_
 | 3 | Katie Smith | 906 |
 | 4 | Becky Hammon | 825 |
 | 5 | Tina Thompson | 745 |
-| 6 | **Kayla McBride** 🔴 | 737 |
+| 6 | **Kayla McBride** 🔴 +1 | 738 |
 | 7 | Katie Douglas | 723 |
 | 8 | Kelsey Mitchell | 687 |
 | 9 | Jewell Loyd | 678 |
@@ -1446,7 +1446,7 @@ _Last updated: 2026-06-18 02:04 UTC_
 | 195 | **Azurá Stevens** 🔴 +4 | 296 |
 | 196 | **Rachel Banham** 🔴 | 295 |
 | 197 | **Kayla Thornton** 🔴 | 294 |
-| 198 | **Natisha Hiedeman** 🔴 +1 | 290 |
+| 198 | **Natisha Hiedeman** 🔴 +2 | 291 |
 | 199 | Alexis Hornbuckle | 288 |
 | 199 | Kristen Rasmussen | 288 |
 
