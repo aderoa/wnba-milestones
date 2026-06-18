@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-18 03:36 UTC_
+_Last updated: 2026-06-18 03:37 UTC_
 
 ## Contents
 
@@ -56,7 +56,7 @@ _Last updated: 2026-06-18 03:36 UTC_
 | 35 | Chamique Holdsclaw | 4,713 |
 | 36 | Elena Delle Donne | 4,706 |
 | 37 | **Alyssa Thomas** 🔴 +8 | 4,661 |
-| 38 | **Arike Ogunbowale** 🔴 +14 | 4,626 |
+| 38 | **Arike Ogunbowale** 🔴 +16 | 4,628 |
 | 39 | Penny Taylor | 4,595 |
 | 40 | **Natasha Howard** 🔴 +11 | 4,539 |
 | 41 | **Chelsea Gray** 🔴 +3 | 4,509 |
@@ -435,7 +435,7 @@ _Last updated: 2026-06-18 03:36 UTC_
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
 | 6 | **Chelsea Gray** 🔴 +5 | 1,940 |
-| 7 | **Alyssa Thomas** 🔴 +10 | 1,913 |
+| 7 | **Alyssa Thomas** 🔴 +11 | 1,914 |
 | 8 | Skylar Diggins | 1,820 |
 | 9 | Natasha Cloud | 1,776 |
 | 10 | Becky Hammon | 1,705 |
@@ -537,7 +537,7 @@ _Last updated: 2026-06-18 03:36 UTC_
 | 106 | Betnijah Laney-Hamilton | 585 |
 | 107 | Tan White | 578 |
 | 108 | Matee Ajavon | 577 |
-| 109 | **Gabby Williams** 🔴 +2 | 574 |
+| 109 | **Gabby Williams** 🔴 +3 | 575 |
 | 110 | Napheesa Collier | 570 |
 | 111 | Nicole Powell | 567 |
 | 112 | Loree Moore | 562 |
@@ -1223,9 +1223,9 @@ _Last updated: 2026-06-18 03:36 UTC_
 | 177 | Kennedy Burke | 118 |
 | 177 | Lexie Hull | 118 |
 | 177 | Tonya Edwards | 118 |
-| 180 | Edwige Lawson-Wade | 116 |
-| 180 | Marie Ferdinand-Harris | 116 |
-| 180 | **Veronica Burton** 🔴 +1 | 116 |
+| 180 | **Veronica Burton** 🔴 +2 | 117 |
+| 181 | Edwige Lawson-Wade | 116 |
+| 181 | Marie Ferdinand-Harris | 116 |
 | 183 | Ebony Hoffman | 115 |
 | 183 | Shey Peddy | 115 |
 | 183 | Stephanie White | 115 |
@@ -1303,7 +1303,7 @@ _Last updated: 2026-06-18 03:36 UTC_
 | 52 | Asjha Jones | 682 |
 | 53 | Danielle Robinson | 680 |
 | 54 | Sheryl Swoopes | 677 |
-| 55 | **Dearica Hamby** 🔴 +2 | 675 |
+| 55 | **Dearica Hamby** 🔴 +3 | 676 |
 | 56 | Tammy Sutton-Brown | 672 |
 | 57 | Deanna Nolan | 669 |
 | 58 | Chasity Melvin | 666 |
@@ -1485,7 +1485,7 @@ _Last updated: 2026-06-18 03:36 UTC_
 | 29 | Lauren Jackson | 982 |
 | 30 | Nakia Sanford | 979 |
 | 31 | Asjha Jones | 971 |
-| 32 | **Alyssa Thomas** 🔴 +2 | 956 |
+| 32 | **Alyssa Thomas** 🔴 +3 | 957 |
 | 33 | Margo Dydek | 950 |
 | 34 | Sancho Lyttle | 947 |
 | 35 | Mwadi Mabika | 941 |
