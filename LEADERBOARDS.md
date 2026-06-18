@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-18 02:52 UTC_
+_Last updated: 2026-06-18 02:53 UTC_
 
 ## Contents
 
@@ -37,7 +37,7 @@ _Last updated: 2026-06-18 02:52 UTC_
 | 16 | Brittney Griner | 6,037 |
 | 17 | Lauren Jackson | 6,005 |
 | 17 | Seimone Augustus | 6,005 |
-| 19 | **A'ja Wilson** 🔴 +14 | 5,956 |
+| 19 | **A'ja Wilson** 🔴 +16 | 5,958 |
 | 20 | Becky Hammon | 5,816 |
 | 21 | Angel McCoughtry | 5,797 |
 | 22 | Skylar Diggins | 5,645 |
@@ -67,7 +67,7 @@ _Last updated: 2026-06-18 02:52 UTC_
 | 46 | Courtney Vandersloot | 4,352 |
 | 47 | Allisha Gray | 4,339 |
 | 48 | Sophia Young-Malcolm | 4,300 |
-| 49 | **Kahleah Copper** 🔴 +10 | 4,293 |
+| 49 | **Kahleah Copper** 🔴 +12 | 4,295 |
 | 50 | Plenette Pierson | 4,258 |
 | 51 | **Dearica Hamby** 🔴 +10 | 4,253 |
 | 51 | Monique Currie | 4,253 |
@@ -300,7 +300,7 @@ _Last updated: 2026-06-18 02:52 UTC_
 | 74 | Courtney Vandersloot | 1,383 |
 | 74 | Katie Smith | 1,383 |
 | 76 | Ebony Hoffman | 1,376 |
-| 77 | **Kayla Thornton** 🔴 +4 | 1,364 |
+| 77 | **Kayla Thornton** 🔴 +5 | 1,365 |
 | 78 | Sheri Sam | 1,356 |
 | 79 | Tamika Whitmore | 1,355 |
 | 80 | Emma Meesseman | 1,350 |
@@ -434,8 +434,8 @@ _Last updated: 2026-06-18 02:52 UTC_
 | 3 | Ticha Penicheiro | 2,588 |
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
-| 6 | **Chelsea Gray** 🔴 +3 | 1,938 |
-| 7 | **Alyssa Thomas** 🔴 +6 | 1,909 |
+| 6 | **Chelsea Gray** 🔴 +4 | 1,939 |
+| 7 | **Alyssa Thomas** 🔴 +7 | 1,910 |
 | 8 | Skylar Diggins | 1,820 |
 | 9 | Natasha Cloud | 1,776 |
 | 10 | Becky Hammon | 1,705 |
