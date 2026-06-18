@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-06-18T02:34:00+00:00",
+    "text": "NaLyssa Smith passed Jewell Loyd and Sandrine Gruda for #139 all-time in blocks (career 95) \u2014 up from #140 entering today \u2014 (24.6 - 1st \u2014 LV @ PHX)",
+    "kind": "rank_pass",
+    "player": "NaLyssa Smith",
+    "stat": "blocks",
+    "rank": 139,
+    "passed_players": [
+      "Jewell Loyd",
+      "Sandrine Gruda"
+    ],
+    "new_total": 95
+  },
+  {
     "ts": "2026-06-18T02:27:00+00:00",
     "text": "Jackie Young passed Seimone Augustus for #104 all-time in steals (career 281) \u2014 up from #105 entering today \u2014 (2:50 - 1st \u2014 LV @ PHX)",
     "kind": "rank_pass",
@@ -2976,17 +2989,5 @@
       "Azur\u00e1 Stevens"
     ],
     "new_total": 293
-  },
-  {
-    "ts": "2026-06-06T17:38:00+00:00",
-    "text": "Courtney Williams passed Dearica Hamby for #52 all-time in points (career 4,245) \u2014 up from #53 entering today \u2014 (4:09 - 2nd \u2014 SEA @ MIN)",
-    "kind": "rank_pass",
-    "player": "Courtney Williams",
-    "stat": "points",
-    "rank": 52,
-    "passed_players": [
-      "Dearica Hamby"
-    ],
-    "new_total": 4245
   }
 ]

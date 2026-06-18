@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-18 02:34 UTC
+
+- **NaLyssa Smith** passed **Jewell Loyd** and **Sandrine Gruda** for **#139** all-time in blocks (career 95) — up from #140 entering today — _24.6 - 1st — LV @ PHX_
+
 ## 2026-06-18 02:27 UTC
 
 - **Jackie Young** passed **Seimone Augustus** for **#104** all-time in steals (career 281) — up from #105 entering today — _2:50 - 1st — LV @ PHX_
