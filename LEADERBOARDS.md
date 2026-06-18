@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-18 03:35 UTC_
+_Last updated: 2026-06-18 03:36 UTC_
 
 ## Contents
 
@@ -71,7 +71,7 @@ _Last updated: 2026-06-18 03:35 UTC_
 | 50 | Plenette Pierson | 4,258 |
 | 51 | **Dearica Hamby** 🔴 +12 | 4,255 |
 | 52 | Monique Currie | 4,253 |
-| 53 | **Courtney Williams** 🔴 +7 | 4,245 |
+| 53 | **Courtney Williams** 🔴 +9 | 4,247 |
 | 54 | Jonquel Jones | 4,241 |
 | 55 | Vickie Johnson | 4,230 |
 | 56 | Yolanda Griffith | 4,224 |
@@ -300,7 +300,7 @@ _Last updated: 2026-06-18 03:35 UTC_
 | 74 | Courtney Vandersloot | 1,383 |
 | 74 | Katie Smith | 1,383 |
 | 76 | Ebony Hoffman | 1,376 |
-| 77 | **Kayla Thornton** 🔴 +7 | 1,367 |
+| 77 | **Kayla Thornton** 🔴 +8 | 1,368 |
 | 78 | Sheri Sam | 1,356 |
 | 79 | Tamika Whitmore | 1,355 |
 | 80 | **Jewell Loyd** 🔴 +2 | 1,351 |
@@ -1639,8 +1639,8 @@ _Last updated: 2026-06-18 03:35 UTC_
 | 182 | Isabelle Harrison | 484 |
 | 184 | Liz Cambage | 483 |
 | 184 | Rhonda Mapp | 483 |
+| 186 | **Nia Coffey** 🔴 +5 | 480 |
 | 186 | Sami Whitcomb | 480 |
-| 187 | **Nia Coffey** 🔴 +4 | 479 |
 | 188 | Azurá Stevens | 478 |
 | 189 | Seimone Augustus | 477 |
 | 190 | Allie Quigley | 475 |
