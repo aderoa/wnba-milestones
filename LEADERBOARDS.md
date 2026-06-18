@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-18 00:31 UTC_
+_Last updated: 2026-06-18 00:32 UTC_
 
 ## Contents
 
@@ -256,7 +256,7 @@ _Last updated: 2026-06-18 00:31 UTC_
 | 30 | Chamique Holdsclaw | 2,123 |
 | 31 | Chasity Melvin | 2,097 |
 | 32 | Tammy Sutton-Brown | 2,010 |
-| 33 | **Elizabeth Williams** 🔴 +1 | 1,953 |
+| 33 | **Elizabeth Williams** 🔴 +2 | 1,954 |
 | 34 | Cheryl Ford | 1,907 |
 | 35 | Plenette Pierson | 1,834 |
 | 36 | Natalie Williams | 1,832 |
@@ -336,8 +336,8 @@ _Last updated: 2026-06-18 00:31 UTC_
 | 109 | Tamika Raymond | 1,127 |
 | 111 | Adrienne Goodson | 1,126 |
 | 112 | NaLyssa Smith | 1,115 |
-| 113 | Deanna Nolan | 1,112 |
-| 113 | **Natasha Cloud** 🔴 | 1,112 |
+| 113 | **Natasha Cloud** 🔴 +1 | 1,113 |
+| 114 | Deanna Nolan | 1,112 |
 | 115 | Aliyah Boston | 1,110 |
 | 115 | Chiney Ogwumike | 1,110 |
 | 117 | Becky Hammon | 1,108 |
@@ -1445,7 +1445,7 @@ _Last updated: 2026-06-18 00:31 UTC_
 | 194 | Michele Timms | 297 |
 | 195 | **Rachel Banham** 🔴 | 295 |
 | 196 | Kayla Thornton | 294 |
-| 197 | **Azurá Stevens** 🔴 | 292 |
+| 197 | **Azurá Stevens** 🔴 +1 | 293 |
 | 198 | Natisha Hiedeman | 289 |
 | 199 | Alexis Hornbuckle | 288 |
 | 199 | Kristen Rasmussen | 288 |
