@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-18 03:16 UTC_
+_Last updated: 2026-06-18 03:17 UTC_
 
 ## Contents
 
@@ -911,8 +911,8 @@ _Last updated: 2026-06-18 03:16 UTC_
 | 70 | Svetlana Abrosimova | 352 |
 | 71 | Natasha Cloud | 351 |
 | 72 | **A'ja Wilson** 🔴 +3 | 349 |
+| 73 | **Arike Ogunbowale** 🔴 +1 | 346 |
 | 73 | Janeth Arcain | 346 |
-| 74 | **Arike Ogunbowale** 🔴 | 345 |
 | 75 | Helen Darling | 343 |
 | 76 | Andrea Stinson | 342 |
 | 77 | Armintie Herrington | 340 |
