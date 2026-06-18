@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-06-18T00:56:00+00:00",
+    "text": "Michaela Onyenwere passed Helen Darling and Matee Ajavon for #151 all-time in three-pointers (career 145) \u2014 up from #156 entering today \u2014 (2:40 - 4th \u2014 WSH @ CON)",
+    "kind": "rank_pass",
+    "player": "Michaela Onyenwere",
+    "stat": "three-pointers",
+    "rank": 151,
+    "passed_players": [
+      "Helen Darling",
+      "Matee Ajavon"
+    ],
+    "new_total": 145
+  },
+  {
     "ts": "2026-06-18T00:45:00+00:00",
     "text": "Sabrina Ionescu passed Arike Ogunbowale for #101 all-time in turnovers (career 521) \u2014 up from #103 entering today \u2014 (2:10 - 2nd \u2014 NY @ CHI)",
     "kind": "rank_pass",
@@ -2975,18 +2988,5 @@
       "Breanna Stewart"
     ],
     "new_total": 2564
-  },
-  {
-    "ts": "2026-06-06T12:04:00+00:00",
-    "text": "Brittney Griner passed Betty Lennox and Plenette Pierson for #89 all-time in assists (career 653) \u2014 up from #91 entering today \u2014 (Final \u2014 CON @ CHI)",
-    "kind": "rank_pass",
-    "player": "Brittney Griner",
-    "stat": "assists",
-    "rank": 89,
-    "passed_players": [
-      "Betty Lennox",
-      "Plenette Pierson"
-    ],
-    "new_total": 653
   }
 ]
