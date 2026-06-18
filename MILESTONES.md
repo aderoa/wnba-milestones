@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-18 01:54 UTC
+
+- **Breanna Stewart** passed **Chamique Holdsclaw** for **#99** all-time in fouls (career 668) — up from #100 entering today — _3:55 - 4th — NY @ CHI_
+
 ## 2026-06-18 00:58 UTC
 
 - **Sonia Citron** reached **800** career points (now 802) — _1:52 - 4th — WSH @ CON_
