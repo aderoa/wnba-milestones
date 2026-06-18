@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-18 03:43 UTC_
+_Last updated: 2026-06-18 03:44 UTC_
 
 ## Contents
 
@@ -71,7 +71,7 @@ _Last updated: 2026-06-18 03:43 UTC_
 | 50 | Plenette Pierson | 4,258 |
 | 51 | **Dearica Hamby** 🔴 +12 | 4,255 |
 | 52 | Monique Currie | 4,253 |
-| 53 | **Courtney Williams** 🔴 +11 | 4,249 |
+| 53 | **Courtney Williams** 🔴 +13 | 4,251 |
 | 54 | Jonquel Jones | 4,241 |
 | 55 | Vickie Johnson | 4,230 |
 | 56 | Yolanda Griffith | 4,224 |
@@ -379,7 +379,7 @@ _Last updated: 2026-06-18 03:43 UTC_
 | 153 | Mistie Bass | 888 |
 | 154 | **Erica Wheeler** 🔴 +1 | 873 |
 | 155 | Shameka Christon | 867 |
-| 156 | **Alanna Smith** 🔴 +1 | 865 |
+| 156 | **Alanna Smith** 🔴 +2 | 866 |
 | 157 | Krystal Thomas | 862 |
 | 158 | **Nia Coffey** 🔴 +6 | 860 |
 | 159 | Marina Mabrey | 849 |
@@ -481,7 +481,7 @@ _Last updated: 2026-06-18 03:43 UTC_
 | 50 | Deanna Nolan | 930 |
 | 51 | Kelly Miller | 927 |
 | 52 | DeLisha Milton-Jones | 921 |
-| 53 | **Arike Ogunbowale** 🔴 +1 | 919 |
+| 53 | **Arike Ogunbowale** 🔴 +2 | 920 |
 | 54 | **Nneka Ogwumike** 🔴 +1 | 918 |
 | 55 | Angel McCoughtry | 915 |
 | 56 | Layshia Clarendon | 911 |
@@ -738,7 +738,7 @@ _Last updated: 2026-06-18 03:43 UTC_
 | 102 | Natalie Williams | 122 |
 | 103 | Ebony Hoffman | 121 |
 | 103 | Essence Carson | 121 |
-| 105 | **Emily Engstler** 🔴 | 119 |
+| 105 | **Emily Engstler** 🔴 +1 | 120 |
 | 106 | Krystal Thomas | 118 |
 | 106 | **Natasha Mack** 🔴 +1 | 118 |
 | 108 | Andrea Stinson | 117 |
