@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-18 05:58 UTC_
+_Last updated: 2026-06-18 05:59 UTC_
 
 ## Contents
 
@@ -150,7 +150,7 @@ _Last updated: 2026-06-18 05:58 UTC_
 | 129 | Anna DeForge | 2,413 |
 | 130 | DeMya Walker | 2,379 |
 | 131 | Alex Bentley | 2,350 |
-| 132 | Kayla Thornton | 2,336 |
+| 132 | Kayla Thornton | 2,341 |
 | 133 | Merlakia Jones | 2,308 |
 | 134 | Kia Vaughn | 2,288 |
 | 135 | Betnijah Laney-Hamilton | 2,282 |
@@ -300,7 +300,7 @@ _Last updated: 2026-06-18 05:58 UTC_
 | 74 | Courtney Vandersloot | 1,383 |
 | 74 | Katie Smith | 1,383 |
 | 76 | Ebony Hoffman | 1,376 |
-| 77 | Kayla Thornton | 1,365 |
+| 77 | Kayla Thornton | 1,371 |
 | 78 | Sheri Sam | 1,356 |
 | 79 | Tamika Whitmore | 1,355 |
 | 80 | Jewell Loyd | 1,352 |
@@ -616,7 +616,7 @@ _Last updated: 2026-06-18 05:58 UTC_
 | 185 | Andrea Nagy | 361 |
 | 185 | Diamond DeShields | 361 |
 | 185 | Erlana Larkins | 361 |
-| 188 | Kayla Thornton | 359 |
+| 188 | Kayla Thornton | 360 |
 | 189 | Merlakia Jones | 355 |
 | 190 | Charlotte Smith | 352 |
 | 190 | Ruthie Bolton | 352 |
@@ -777,9 +777,9 @@ _Last updated: 2026-06-18 05:58 UTC_
 | 139 | Sandrine Gruda | 94 |
 | 142 | Jasmine Thomas | 91 |
 | 142 | Kayla Alexander | 91 |
-| 144 | Allie Quigley | 90 |
-| 144 | Alysha Clark | 90 |
-| 144 | Kayla Thornton | 90 |
+| 142 | Kayla Thornton | 91 |
+| 145 | Allie Quigley | 90 |
+| 145 | Alysha Clark | 90 |
 | 147 | Marissa Coleman | 88 |
 | 148 | Tiffany Hayes | 87 |
 | 149 | Astou Ndiaye-Diatta | 86 |
@@ -1120,8 +1120,8 @@ _Last updated: 2026-06-18 05:58 UTC_
 | 74 | Bridget Carleton | 294 |
 | 75 | Seimone Augustus | 293 |
 | 76 | Candice Wiggins | 290 |
+| 76 | Kayla Thornton | 290 |
 | 76 | Tully Bevilaqua | 290 |
-| 78 | Kayla Thornton | 289 |
 | 79 | Alana Beard | 288 |
 | 80 | Monique Currie | 284 |
 | 81 | Iziane Castro Marques | 275 |
@@ -1555,8 +1555,8 @@ _Last updated: 2026-06-18 05:58 UTC_
 | 99 | Breanna Stewart | 668 |
 | 100 | Chamique Holdsclaw | 667 |
 | 101 | Jewell Loyd | 664 |
+| 102 | Kayla Thornton | 662 |
 | 102 | Tianna Hawkins | 662 |
-| 103 | Kayla Thornton | 661 |
 | 104 | Tari Phillips | 648 |
 | 105 | Marie Ferdinand-Harris | 646 |
 | 106 | Charlotte Smith | 638 |
