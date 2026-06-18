@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-18T00:42:00+00:00",
+    "text": "Azur\u00e1 Stevens passed Rachel Banham for #195 all-time in turnovers (career 296) \u2014 up from #197 entering today \u2014 (4:16 - 2nd \u2014 NY @ CHI)",
+    "kind": "rank_pass",
+    "player": "Azur\u00e1 Stevens",
+    "stat": "turnovers",
+    "rank": 195,
+    "passed_players": [
+      "Rachel Banham"
+    ],
+    "new_total": 296
+  },
+  {
     "ts": "2026-06-18T00:35:00+00:00",
     "text": "Azur\u00e1 Stevens passed Kayla Thornton for #196 all-time in turnovers (career 295) \u2014 up from #197 entering today \u2014 (6:29 - 2nd \u2014 NY @ CHI)",
     "kind": "rank_pass",
@@ -2976,14 +2988,5 @@
       "Lauren Jackson"
     ],
     "new_total": 983
-  },
-  {
-    "ts": "2026-06-06T12:04:00+00:00",
-    "text": "Leila Lacan reached 100 career fouls (now 102) \u2014 (Final \u2014 CON @ CHI)",
-    "kind": "round",
-    "player": "Leila Lacan",
-    "stat": "fouls",
-    "value": 100,
-    "new_total": 102
   }
 ]

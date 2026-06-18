@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-18 00:41 UTC_
+_Last updated: 2026-06-18 00:42 UTC_
 
 ## Contents
 
@@ -313,8 +313,8 @@ _Last updated: 2026-06-18 00:41 UTC_
 | 87 | Betty Lennox | 1,296 |
 | 88 | Tari Phillips | 1,274 |
 | 89 | Janel McCarville | 1,261 |
-| 90 | **Azurá Stevens** 🔴 +2 | 1,258 |
-| 90 | Liz Cambage | 1,258 |
+| 90 | **Azurá Stevens** 🔴 +3 | 1,259 |
+| 91 | Liz Cambage | 1,258 |
 | 92 | Tiffany Hayes | 1,244 |
 | 93 | Ezi Magbegor | 1,243 |
 | 94 | Myisha Hines-Allen | 1,239 |
@@ -1003,8 +1003,8 @@ _Last updated: 2026-06-18 00:41 UTC_
 | 162 | Kia Vaughn | 208 |
 | 162 | Sophia Witherspoon | 208 |
 | 164 | Betnijah Laney-Hamilton | 207 |
-| 165 | **Azurá Stevens** 🔴 +1 | 206 |
-| 166 | Shameka Christon | 205 |
+| 165 | **Azurá Stevens** 🔴 | 205 |
+| 165 | Shameka Christon | 205 |
 | 167 | Jessica Breland | 204 |
 | 167 | Murriel Page | 204 |
 | 167 | Shatori Walker-Kimbrough | 204 |
@@ -1443,8 +1443,8 @@ _Last updated: 2026-06-18 00:41 UTC_
 | 192 | Isabelle Harrison | 300 |
 | 193 | Crystal Robinson | 299 |
 | 194 | Michele Timms | 297 |
-| 195 | **Azurá Stevens** 🔴 +3 | 295 |
-| 195 | **Rachel Banham** 🔴 | 295 |
+| 195 | **Azurá Stevens** 🔴 +4 | 296 |
+| 196 | **Rachel Banham** 🔴 | 295 |
 | 197 | Kayla Thornton | 294 |
 | 198 | Natisha Hiedeman | 289 |
 | 199 | Alexis Hornbuckle | 288 |
