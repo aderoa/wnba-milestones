@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-18 23:42 UTC_
+_Last updated: 2026-06-18 23:43 UTC_
 
 ## Contents
 
@@ -370,7 +370,7 @@ _Last updated: 2026-06-18 23:42 UTC_
 | 144 | Jessica Shepard | 927 |
 | 144 | Merlakia Jones | 927 |
 | 146 | Satou Sabally | 926 |
-| 147 | **Angel Reese** 🔴 | 923 |
+| 147 | **Angel Reese** 🔴 +1 | 924 |
 | 148 | Nicky Anosike | 922 |
 | 149 | Janeth Arcain | 916 |
 | 150 | Karima Christmas-Kelly | 908 |
@@ -893,8 +893,8 @@ _Last updated: 2026-06-18 23:42 UTC_
 | 52 | Swin Cash | 384 |
 | 52 | Tina Charles | 384 |
 | 54 | Tiffany Hayes | 382 |
-| 55 | Ariel Atkins | 380 |
-| 55 | **Jordin Canada** 🔴 | 380 |
+| 55 | **Jordin Canada** 🔴 +1 | 381 |
+| 56 | Ariel Atkins | 380 |
 | 57 | Monique Currie | 378 |
 | 58 | Chamique Holdsclaw | 376 |
 | 59 | Mwadi Mabika | 370 |
@@ -1028,8 +1028,8 @@ _Last updated: 2026-06-18 23:42 UTC_
 | 187 | Nakia Sanford | 181 |
 | 188 | Diamond DeShields | 180 |
 | 188 | Isabelle Harrison | 180 |
-| 190 | Bridget Pettis | 177 |
-| 190 | **Monique Billings** 🔴 | 177 |
+| 190 | **Monique Billings** 🔴 +1 | 178 |
+| 191 | Bridget Pettis | 177 |
 | 192 | Brittany Boyd-Jones | 176 |
 | 192 | Chiney Ogwumike | 176 |
 | 194 | Tamika Raymond | 175 |
@@ -1427,9 +1427,9 @@ _Last updated: 2026-06-18 23:42 UTC_
 | 176 | Satou Sabally | 330 |
 | 177 | Erlana Larkins | 326 |
 | 177 | Rita Williams | 326 |
+| 179 | **Caitlin Clark** 🔴 +1 | 325 |
 | 179 | Le'coe Willingham | 325 |
-| 180 | **Caitlin Clark** 🔴 | 324 |
-| 180 | Olympia Scott | 324 |
+| 181 | Olympia Scott | 324 |
 | 182 | Gabby Williams | 320 |
 | 183 | Kia Nurse | 316 |
 | 184 | Barbara Farris | 315 |
