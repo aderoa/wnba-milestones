@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-18 03:47 UTC_
+_Last updated: 2026-06-18 03:48 UTC_
 
 ## Contents
 
@@ -66,7 +66,7 @@ _Last updated: 2026-06-18 03:47 UTC_
 | 45 | Kelsey Plum | 4,395 |
 | 46 | Courtney Vandersloot | 4,352 |
 | 47 | Allisha Gray | 4,339 |
-| 48 | **Kahleah Copper** 🔴 +21 | 4,304 |
+| 48 | **Kahleah Copper** 🔴 +23 | 4,306 |
 | 49 | Sophia Young-Malcolm | 4,300 |
 | 50 | Plenette Pierson | 4,258 |
 | 51 | **Dearica Hamby** 🔴 +12 | 4,255 |
@@ -367,7 +367,7 @@ _Last updated: 2026-06-18 03:47 UTC_
 | 141 | Dominique Canty | 961 |
 | 142 | Armintie Herrington | 960 |
 | 143 | Janell Burse | 944 |
-| 144 | **Jessica Shepard** 🔴 +8 | 935 |
+| 144 | **Jessica Shepard** 🔴 +9 | 936 |
 | 145 | Satou Sabally | 928 |
 | 146 | Merlakia Jones | 927 |
 | 147 | Angel Reese | 923 |
@@ -480,8 +480,8 @@ _Last updated: 2026-06-18 03:47 UTC_
 | 49 | **Tiffany Hayes** 🔴 +1 | 937 |
 | 50 | Deanna Nolan | 930 |
 | 51 | Kelly Miller | 927 |
+| 52 | **Arike Ogunbowale** 🔴 +3 | 921 |
 | 52 | DeLisha Milton-Jones | 921 |
-| 53 | **Arike Ogunbowale** 🔴 +2 | 920 |
 | 54 | **Nneka Ogwumike** 🔴 +1 | 918 |
 | 55 | Angel McCoughtry | 915 |
 | 56 | Layshia Clarendon | 911 |
@@ -909,8 +909,8 @@ _Last updated: 2026-06-18 03:47 UTC_
 | 67 | Tamecka Dixon | 355 |
 | 69 | Vicky Bullett | 353 |
 | 70 | Svetlana Abrosimova | 352 |
-| 71 | **A'ja Wilson** 🔴 +5 | 351 |
 | 71 | Natasha Cloud | 351 |
+| 72 | **A'ja Wilson** 🔴 +4 | 350 |
 | 73 | **Arike Ogunbowale** 🔴 +1 | 346 |
 | 73 | Janeth Arcain | 346 |
 | 75 | Helen Darling | 343 |
@@ -1269,7 +1269,7 @@ _Last updated: 2026-06-18 03:47 UTC_
 | 18 | Cappie Pondexter | 945 |
 | 19 | Katie Smith | 935 |
 | 20 | Shannon Johnson | 934 |
-| 21 | **Chelsea Gray** 🔴 +2 | 900 |
+| 21 | **Chelsea Gray** 🔴 +3 | 901 |
 | 22 | Taj McWilliams-Franklin | 898 |
 | 23 | Skylar Diggins | 894 |
 | 24 | Candice Dupree | 869 |
