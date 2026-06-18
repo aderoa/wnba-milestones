@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-18 03:21 UTC_
+_Last updated: 2026-06-18 03:22 UTC_
 
 ## Contents
 
@@ -58,7 +58,7 @@ _Last updated: 2026-06-18 03:21 UTC_
 | 37 | **Alyssa Thomas** 🔴 +6 | 4,659 |
 | 38 | **Arike Ogunbowale** 🔴 +14 | 4,626 |
 | 39 | Penny Taylor | 4,595 |
-| 40 | **Natasha Howard** 🔴 +10 | 4,538 |
+| 40 | **Natasha Howard** 🔴 +11 | 4,539 |
 | 41 | **Chelsea Gray** 🔴 +3 | 4,509 |
 | 42 | Kristi Toliver | 4,474 |
 | 43 | Crystal Langhorne | 4,433 |
@@ -67,7 +67,7 @@ _Last updated: 2026-06-18 03:21 UTC_
 | 46 | Courtney Vandersloot | 4,352 |
 | 47 | Allisha Gray | 4,339 |
 | 48 | Sophia Young-Malcolm | 4,300 |
-| 49 | **Kahleah Copper** 🔴 +14 | 4,297 |
+| 49 | **Kahleah Copper** 🔴 +16 | 4,299 |
 | 50 | Plenette Pierson | 4,258 |
 | 51 | **Dearica Hamby** 🔴 +10 | 4,253 |
 | 51 | Monique Currie | 4,253 |
@@ -87,9 +87,9 @@ _Last updated: 2026-06-18 03:21 UTC_
 | 66 | Mwadi Mabika | 3,576 |
 | 67 | Odyssey Sims | 3,574 |
 | 68 | Camille Smith | 3,551 |
+| 69 | **Jackie Young** 🔴 +20 | 3,542 |
 | 69 | Napheesa Collier | 3,542 |
 | 69 | Shannon Johnson | 3,542 |
-| 71 | **Jackie Young** 🔴 +17 | 3,539 |
 | 72 | Renee Montgomery | 3,533 |
 | 73 | Jasmine Thomas | 3,522 |
 | 74 | Tamecka Dixon | 3,507 |
@@ -235,7 +235,7 @@ _Last updated: 2026-06-18 03:21 UTC_
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
-| 12 | **Alyssa Thomas** 🔴 +1 | 2,818 |
+| 12 | **Alyssa Thomas** 🔴 +2 | 2,819 |
 | 13 | Jonquel Jones | 2,671 |
 | 14 | Sancho Lyttle | 2,596 |
 | 15 | **A'ja Wilson** 🔴 +2 | 2,576 |
@@ -265,7 +265,7 @@ _Last updated: 2026-06-18 03:21 UTC_
 | 39 | Lindsay Whalen | 1,805 |
 | 40 | Camille Smith | 1,802 |
 | 40 | **Courtney Williams** 🔴 +1 | 1,802 |
-| 42 | **Kiah Stokes** 🔴 +6 | 1,796 |
+| 42 | **Kiah Stokes** 🔴 +7 | 1,797 |
 | 43 | Asjha Jones | 1,751 |
 | 44 | **Stefanie Dolson** 🔴 +2 | 1,690 |
 | 45 | Teaira McCowan | 1,682 |
@@ -435,7 +435,7 @@ _Last updated: 2026-06-18 03:21 UTC_
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
 | 6 | **Chelsea Gray** 🔴 +5 | 1,940 |
-| 7 | **Alyssa Thomas** 🔴 +8 | 1,911 |
+| 7 | **Alyssa Thomas** 🔴 +9 | 1,912 |
 | 8 | Skylar Diggins | 1,820 |
 | 9 | Natasha Cloud | 1,776 |
 | 10 | Becky Hammon | 1,705 |
@@ -576,7 +576,7 @@ _Last updated: 2026-06-18 03:21 UTC_
 | 144 | Kristi Harrower | 450 |
 | 144 | Nikki McCray | 450 |
 | 147 | Ruth Riley | 449 |
-| 148 | **Sug Sutton** 🔴 | 447 |
+| 148 | **Sug Sutton** 🔴 +1 | 448 |
 | 149 | DeMya Walker | 446 |
 | 150 | Essence Carson | 445 |
 | 151 | Michelle Snow | 437 |
@@ -604,7 +604,7 @@ _Last updated: 2026-06-18 03:21 UTC_
 | 173 | Shameka Christon | 389 |
 | 173 | Tamicha Jackson | 389 |
 | 175 | Riquna Williams | 387 |
-| 176 | **Stephanie Talbot** 🔴 | 385 |
+| 176 | **Stephanie Talbot** 🔴 +1 | 386 |
 | 177 | Dana Evans | 379 |
 | 178 | Jessica Breland | 377 |
 | 179 | Shenise Johnson | 376 |
@@ -1104,7 +1104,7 @@ _Last updated: 2026-06-18 03:21 UTC_
 | 57 | Natasha Cloud | 340 |
 | 59 | Anna DeForge | 334 |
 | 60 | **Erica Wheeler** 🔴 | 329 |
-| 61 | **Jackie Young** 🔴 +3 | 326 |
+| 61 | **Jackie Young** 🔴 +4 | 327 |
 | 62 | Sophie Cunningham | 317 |
 | 62 | Sugar Rodgers | 317 |
 | 64 | Marissa Coleman | 315 |
@@ -1261,7 +1261,7 @@ _Last updated: 2026-06-18 03:21 UTC_
 | 10 | Candace Parker | 1,062 |
 | 11 | Tamika Catchings | 1,041 |
 | 12 | Tina Charles | 1,040 |
-| 13 | **Alyssa Thomas** 🔴 | 1,003 |
+| 13 | **Alyssa Thomas** 🔴 +1 | 1,004 |
 | 14 | Lindsay Whalen | 1,002 |
 | 15 | Sylvia Fowles | 961 |
 | 16 | Tanisha Wright | 954 |
@@ -1509,9 +1509,9 @@ _Last updated: 2026-06-18 03:21 UTC_
 | 52 | Tamera Young | 847 |
 | 54 | Candace Parker | 834 |
 | 55 | Penny Taylor | 832 |
+| 56 | **Dearica Hamby** 🔴 +2 | 831 |
 | 56 | Dominique Canty | 831 |
 | 56 | Wendy Palmer | 831 |
-| 58 | **Dearica Hamby** 🔴 +1 | 830 |
 | 59 | Shannon Johnson | 813 |
 | 59 | Skylar Diggins | 813 |
 | 59 | Tully Bevilaqua | 813 |
