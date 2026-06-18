@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-18 03:39 UTC_
+_Last updated: 2026-06-18 03:40 UTC_
 
 ## Contents
 
@@ -235,7 +235,7 @@ _Last updated: 2026-06-18 03:39 UTC_
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
-| 12 | **Alyssa Thomas** 🔴 +3 | 2,820 |
+| 12 | **Alyssa Thomas** 🔴 +4 | 2,821 |
 | 13 | Jonquel Jones | 2,671 |
 | 14 | Sancho Lyttle | 2,596 |
 | 15 | **A'ja Wilson** 🔴 +4 | 2,578 |
@@ -300,7 +300,7 @@ _Last updated: 2026-06-18 03:39 UTC_
 | 74 | Courtney Vandersloot | 1,383 |
 | 74 | Katie Smith | 1,383 |
 | 76 | Ebony Hoffman | 1,376 |
-| 77 | **Kayla Thornton** 🔴 +8 | 1,368 |
+| 77 | **Kayla Thornton** 🔴 +9 | 1,369 |
 | 78 | Sheri Sam | 1,356 |
 | 79 | Tamika Whitmore | 1,355 |
 | 80 | **Jewell Loyd** 🔴 +2 | 1,351 |
@@ -1444,9 +1444,9 @@ _Last updated: 2026-06-18 03:39 UTC_
 | 193 | Crystal Robinson | 299 |
 | 194 | Michele Timms | 297 |
 | 195 | Azurá Stevens | 296 |
+| 196 | **Kayla Thornton** 🔴 +1 | 295 |
 | 196 | Rachel Banham | 295 |
-| 197 | **Kayla Thornton** 🔴 | 294 |
-| 197 | **Natisha Hiedeman** 🔴 +5 | 294 |
+| 198 | **Natisha Hiedeman** 🔴 +5 | 294 |
 | 199 | Alexis Hornbuckle | 288 |
 | 199 | Kristen Rasmussen | 288 |
 
@@ -1555,8 +1555,8 @@ _Last updated: 2026-06-18 03:39 UTC_
 | 99 | Breanna Stewart | 668 |
 | 100 | Chamique Holdsclaw | 667 |
 | 101 | **Jewell Loyd** 🔴 +3 | 664 |
-| 102 | **Kayla Thornton** 🔴 +1 | 662 |
-| 102 | Tianna Hawkins | 662 |
+| 102 | **Kayla Thornton** 🔴 +2 | 663 |
+| 103 | Tianna Hawkins | 662 |
 | 104 | Tari Phillips | 648 |
 | 105 | Marie Ferdinand-Harris | 646 |
 | 106 | Charlotte Smith | 638 |
