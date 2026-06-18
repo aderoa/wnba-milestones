@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-18 02:58 UTC_
+_Last updated: 2026-06-18 02:59 UTC_
 
 ## Contents
 
@@ -37,7 +37,7 @@ _Last updated: 2026-06-18 02:58 UTC_
 | 16 | Brittney Griner | 6,037 |
 | 17 | Lauren Jackson | 6,005 |
 | 17 | Seimone Augustus | 6,005 |
-| 19 | **A'ja Wilson** 🔴 +16 | 5,958 |
+| 19 | **A'ja Wilson** 🔴 +17 | 5,959 |
 | 20 | Becky Hammon | 5,816 |
 | 21 | Angel McCoughtry | 5,797 |
 | 22 | Skylar Diggins | 5,645 |
@@ -238,7 +238,7 @@ _Last updated: 2026-06-18 02:58 UTC_
 | 12 | **Alyssa Thomas** 🔴 +1 | 2,818 |
 | 13 | Jonquel Jones | 2,671 |
 | 14 | Sancho Lyttle | 2,596 |
-| 15 | **A'ja Wilson** 🔴 +3 | 2,577 |
+| 15 | **A'ja Wilson** 🔴 +2 | 2,576 |
 | 16 | DeLisha Milton-Jones | 2,574 |
 | 17 | Breanna Stewart | 2,566 |
 | 18 | Brittney Griner | 2,559 |
@@ -318,7 +318,7 @@ _Last updated: 2026-06-18 02:58 UTC_
 | 92 | **Tiffany Hayes** 🔴 | 1,244 |
 | 93 | Ezi Magbegor | 1,243 |
 | 94 | Myisha Hines-Allen | 1,239 |
-| 95 | **Brianna Turner** 🔴 | 1,237 |
+| 95 | **Brianna Turner** 🔴 +1 | 1,238 |
 | 96 | **Kayla McBride** 🔴 +2 | 1,228 |
 | 96 | Seimone Augustus | 1,228 |
 | 98 | **Chelsea Gray** 🔴 +1 | 1,222 |
