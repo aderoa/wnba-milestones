@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-18 03:07 UTC_
+_Last updated: 2026-06-18 03:08 UTC_
 
 ## Contents
 
@@ -23,7 +23,7 @@ _Last updated: 2026-06-18 03:07 UTC_
 | 2 | Tina Charles | 8,396 |
 | 3 | **DeWanna Bonner** 🔴 +10 | 7,920 |
 | 4 | Tina Thompson | 7,470 |
-| 5 | **Nneka Ogwumike** 🔴 +2 | 7,442 |
+| 5 | **Nneka Ogwumike** 🔴 +4 | 7,444 |
 | 6 | Tamika Catchings | 7,371 |
 | 7 | Candice Dupree | 6,861 |
 | 8 | Sue Bird | 6,802 |
@@ -247,7 +247,7 @@ _Last updated: 2026-06-18 03:07 UTC_
 | 21 | Crystal Langhorne | 2,454 |
 | 22 | Lauren Jackson | 2,444 |
 | 23 | Yolanda Griffith | 2,440 |
-| 24 | **Dearica Hamby** 🔴 +6 | 2,397 |
+| 24 | **Dearica Hamby** 🔴 +8 | 2,399 |
 | 25 | Tangela Smith | 2,328 |
 | 26 | **Natasha Howard** 🔴 +8 | 2,261 |
 | 27 | Erika de Souza | 2,220 |
@@ -445,7 +445,7 @@ _Last updated: 2026-06-18 03:07 UTC_
 | 14 | Danielle Robinson | 1,480 |
 | 15 | Shannon Johnson | 1,423 |
 | 15 | Tanisha Wright | 1,423 |
-| 17 | **Courtney Williams** 🔴 +3 | 1,408 |
+| 17 | **Courtney Williams** 🔴 +4 | 1,409 |
 | 18 | Temeka Johnson | 1,382 |
 | 19 | Jasmine Thomas | 1,355 |
 | 20 | Briann January | 1,339 |
@@ -506,7 +506,7 @@ _Last updated: 2026-06-18 03:07 UTC_
 | 75 | Allisha Gray | 743 |
 | 76 | Monique Currie | 740 |
 | 77 | Elaine Powell | 728 |
-| 78 | **Dearica Hamby** 🔴 +2 | 720 |
+| 78 | **Dearica Hamby** 🔴 +3 | 721 |
 | 79 | **Stefanie Dolson** 🔴 | 700 |
 | 80 | Chamique Holdsclaw | 698 |
 | 81 | Shavonte Zellous | 693 |
@@ -1160,8 +1160,8 @@ _Last updated: 2026-06-18 03:07 UTC_
 | 114 | Victoria Vivians | 192 |
 | 115 | Danielle Adams | 188 |
 | 115 | Napheesa Collier | 188 |
-| 117 | **Nia Coffey** 🔴 | 184 |
-| 117 | Noelle Quinn | 184 |
+| 117 | **Nia Coffey** 🔴 +1 | 185 |
+| 118 | Noelle Quinn | 184 |
 | 119 | Karima Christmas-Kelly | 181 |
 | 120 | Aerial Powers | 179 |
 | 120 | Camille Smith | 179 |
