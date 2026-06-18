@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-18 03:38 UTC_
+_Last updated: 2026-06-18 03:39 UTC_
 
 ## Contents
 
@@ -23,7 +23,7 @@ _Last updated: 2026-06-18 03:38 UTC_
 | 2 | Tina Charles | 8,396 |
 | 3 | **DeWanna Bonner** 🔴 +10 | 7,920 |
 | 4 | Tina Thompson | 7,470 |
-| 5 | **Nneka Ogwumike** 🔴 +9 | 7,449 |
+| 5 | **Nneka Ogwumike** 🔴 +10 | 7,450 |
 | 6 | Tamika Catchings | 7,371 |
 | 7 | Candice Dupree | 6,861 |
 | 8 | Sue Bird | 6,802 |
@@ -56,9 +56,9 @@ _Last updated: 2026-06-18 03:38 UTC_
 | 35 | Chamique Holdsclaw | 4,713 |
 | 36 | Elena Delle Donne | 4,706 |
 | 37 | **Alyssa Thomas** 🔴 +8 | 4,661 |
-| 38 | **Arike Ogunbowale** 🔴 +16 | 4,628 |
+| 38 | **Arike Ogunbowale** 🔴 +19 | 4,631 |
 | 39 | Penny Taylor | 4,595 |
-| 40 | **Natasha Howard** 🔴 +13 | 4,541 |
+| 40 | **Natasha Howard** 🔴 +15 | 4,543 |
 | 41 | **Chelsea Gray** 🔴 +3 | 4,509 |
 | 42 | Kristi Toliver | 4,474 |
 | 43 | Crystal Langhorne | 4,433 |
@@ -71,7 +71,7 @@ _Last updated: 2026-06-18 03:38 UTC_
 | 50 | Plenette Pierson | 4,258 |
 | 51 | **Dearica Hamby** 🔴 +12 | 4,255 |
 | 52 | Monique Currie | 4,253 |
-| 53 | **Courtney Williams** 🔴 +9 | 4,247 |
+| 53 | **Courtney Williams** 🔴 +11 | 4,249 |
 | 54 | Jonquel Jones | 4,241 |
 | 55 | Vickie Johnson | 4,230 |
 | 56 | Yolanda Griffith | 4,224 |
@@ -235,10 +235,10 @@ _Last updated: 2026-06-18 03:38 UTC_
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
-| 12 | **Alyssa Thomas** 🔴 +2 | 2,819 |
+| 12 | **Alyssa Thomas** 🔴 +3 | 2,820 |
 | 13 | Jonquel Jones | 2,671 |
 | 14 | Sancho Lyttle | 2,596 |
-| 15 | **A'ja Wilson** 🔴 +2 | 2,576 |
+| 15 | **A'ja Wilson** 🔴 +4 | 2,578 |
 | 16 | DeLisha Milton-Jones | 2,574 |
 | 17 | Breanna Stewart | 2,566 |
 | 18 | Brittney Griner | 2,559 |
@@ -463,7 +463,7 @@ _Last updated: 2026-06-18 03:38 UTC_
 | 32 | **Jewell Loyd** 🔴 +1 | 1,145 |
 | 33 | Renee Montgomery | 1,140 |
 | 34 | Swin Cash | 1,131 |
-| 35 | **Jackie Young** 🔴 +6 | 1,093 |
+| 35 | **Jackie Young** 🔴 +7 | 1,094 |
 | 36 | Lindsey Harding | 1,090 |
 | 37 | Sabrina Ionescu | 1,075 |
 | 38 | Katie Douglas | 1,069 |
@@ -909,8 +909,8 @@ _Last updated: 2026-06-18 03:38 UTC_
 | 67 | Tamecka Dixon | 355 |
 | 69 | Vicky Bullett | 353 |
 | 70 | Svetlana Abrosimova | 352 |
+| 71 | **A'ja Wilson** 🔴 +5 | 351 |
 | 71 | Natasha Cloud | 351 |
-| 72 | **A'ja Wilson** 🔴 +4 | 350 |
 | 73 | **Arike Ogunbowale** 🔴 +1 | 346 |
 | 73 | Janeth Arcain | 346 |
 | 75 | Helen Darling | 343 |
@@ -1185,9 +1185,9 @@ _Last updated: 2026-06-18 03:38 UTC_
 | 138 | Jennifer Azzi | 158 |
 | 140 | **Natasha Howard** 🔴 | 157 |
 | 141 | **Alanna Smith** 🔴 +1 | 155 |
-| 142 | Bridget Pettis | 153 |
-| 142 | Jennifer Gillom | 153 |
-| 142 | **Stephanie Talbot** 🔴 | 153 |
+| 142 | **Stephanie Talbot** 🔴 +1 | 154 |
+| 143 | Bridget Pettis | 153 |
+| 143 | Jennifer Gillom | 153 |
 | 145 | Rita Williams | 150 |
 | 146 | Moriah Jefferson | 149 |
 | 146 | Tiffany Mitchell | 149 |
