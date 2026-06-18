@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-18 01:51 UTC_
+_Last updated: 2026-06-18 01:52 UTC_
 
 ## Contents
 
@@ -72,7 +72,7 @@ _Last updated: 2026-06-18 01:51 UTC_
 | 51 | Monique Currie | 4,253 |
 | 52 | Dearica Hamby | 4,243 |
 | 53 | Courtney Williams | 4,238 |
-| 54 | **Jonquel Jones** 🔴 +12 | 4,234 |
+| 54 | **Jonquel Jones** 🔴 +15 | 4,237 |
 | 55 | Vickie Johnson | 4,230 |
 | 56 | Yolanda Griffith | 4,224 |
 | 57 | Rebekkah Brunson | 4,133 |
@@ -236,7 +236,7 @@ _Last updated: 2026-06-18 01:51 UTC_
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | Alyssa Thomas | 2,817 |
-| 13 | **Jonquel Jones** 🔴 +5 | 2,668 |
+| 13 | **Jonquel Jones** 🔴 +6 | 2,669 |
 | 14 | Sancho Lyttle | 2,596 |
 | 15 | A'ja Wilson | 2,574 |
 | 15 | DeLisha Milton-Jones | 2,574 |
@@ -1090,7 +1090,7 @@ _Last updated: 2026-06-18 01:51 UTC_
 | 44 | **Rachel Banham** 🔴 | 384 |
 | 45 | Briann January | 381 |
 | 46 | Jasmine Thomas | 376 |
-| 47 | **Jonquel Jones** 🔴 +2 | 373 |
+| 47 | **Jonquel Jones** 🔴 +3 | 374 |
 | 48 | Allison Feaster | 372 |
 | 48 | Betty Lennox | 372 |
 | 50 | Epiphanny Prince | 368 |
