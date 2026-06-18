@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-18 01:37 UTC_
+_Last updated: 2026-06-18 01:38 UTC_
 
 ## Contents
 
@@ -32,7 +32,7 @@ _Last updated: 2026-06-18 01:37 UTC_
 | 11 | Katie Smith | 6,450 |
 | 12 | Sylvia Fowles | 6,413 |
 | 13 | Lisa Leslie | 6,251 |
-| 14 | **Breanna Stewart** 🔴 +15 | 6,188 |
+| 14 | **Breanna Stewart** 🔴 +17 | 6,190 |
 | 15 | Jewell Loyd | 6,078 |
 | 16 | Brittney Griner | 6,037 |
 | 17 | Lauren Jackson | 6,005 |
@@ -436,7 +436,7 @@ _Last updated: 2026-06-18 01:37 UTC_
 | 5 | Lindsay Whalen | 2,347 |
 | 6 | Chelsea Gray | 1,935 |
 | 7 | Alyssa Thomas | 1,903 |
-| 8 | **Skylar Diggins** 🔴 +5 | 1,817 |
+| 8 | **Skylar Diggins** 🔴 +6 | 1,818 |
 | 9 | **Natasha Cloud** 🔴 +3 | 1,775 |
 | 10 | Becky Hammon | 1,705 |
 | 11 | Candace Parker | 1,634 |
@@ -524,7 +524,7 @@ _Last updated: 2026-06-18 01:37 UTC_
 | 93 | A'ja Wilson | 637 |
 | 93 | Asjha Jones | 637 |
 | 95 | Jennifer Azzi | 636 |
-| 96 | **Jonquel Jones** 🔴 +2 | 627 |
+| 96 | **Jonquel Jones** 🔴 +3 | 628 |
 | 97 | Natisha Hiedeman | 624 |
 | 98 | Sami Whitcomb | 623 |
 | 99 | Alysha Clark | 616 |
