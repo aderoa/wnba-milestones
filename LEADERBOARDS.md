@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-18 03:24 UTC_
+_Last updated: 2026-06-18 03:25 UTC_
 
 ## Contents
 
@@ -37,7 +37,7 @@ _Last updated: 2026-06-18 03:24 UTC_
 | 16 | Brittney Griner | 6,037 |
 | 17 | Lauren Jackson | 6,005 |
 | 17 | Seimone Augustus | 6,005 |
-| 19 | **A'ja Wilson** 🔴 +21 | 5,963 |
+| 19 | **A'ja Wilson** 🔴 +22 | 5,964 |
 | 20 | Becky Hammon | 5,816 |
 | 21 | Angel McCoughtry | 5,797 |
 | 22 | Skylar Diggins | 5,645 |
@@ -66,7 +66,7 @@ _Last updated: 2026-06-18 03:24 UTC_
 | 45 | Kelsey Plum | 4,395 |
 | 46 | Courtney Vandersloot | 4,352 |
 | 47 | Allisha Gray | 4,339 |
-| 48 | **Kahleah Copper** 🔴 +18 | 4,301 |
+| 48 | **Kahleah Copper** 🔴 +21 | 4,304 |
 | 49 | Sophia Young-Malcolm | 4,300 |
 | 50 | Plenette Pierson | 4,258 |
 | 51 | **Dearica Hamby** 🔴 +10 | 4,253 |
@@ -194,7 +194,7 @@ _Last updated: 2026-06-18 03:24 UTC_
 | 173 | Nakia Sanford | 1,915 |
 | 174 | Ebony Hoffman | 1,909 |
 | 175 | Candice Wiggins | 1,901 |
-| 176 | **Natisha Hiedeman** 🔴 +14 | 1,872 |
+| 176 | **Natisha Hiedeman** 🔴 +15 | 1,873 |
 | 177 | Isabelle Harrison | 1,832 |
 | 178 | Damiris Dantas | 1,830 |
 | 179 | Tianna Hawkins | 1,825 |
@@ -435,7 +435,7 @@ _Last updated: 2026-06-18 03:24 UTC_
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
 | 6 | **Chelsea Gray** 🔴 +5 | 1,940 |
-| 7 | **Alyssa Thomas** 🔴 +9 | 1,912 |
+| 7 | **Alyssa Thomas** 🔴 +10 | 1,913 |
 | 8 | Skylar Diggins | 1,820 |
 | 9 | Natasha Cloud | 1,776 |
 | 10 | Becky Hammon | 1,705 |
@@ -1095,7 +1095,7 @@ _Last updated: 2026-06-18 03:24 UTC_
 | 48 | Betty Lennox | 372 |
 | 50 | Epiphanny Prince | 368 |
 | 51 | Kia Nurse | 364 |
-| 52 | **Kahleah Copper** 🔴 | 355 |
+| 52 | **Kahleah Copper** 🔴 +1 | 356 |
 | 53 | Nykesha Sales | 352 |
 | 54 | Cathrine Kraayeveld | 343 |
 | 54 | Elena Delle Donne | 343 |
@@ -1554,9 +1554,9 @@ _Last updated: 2026-06-18 03:24 UTC_
 | 98 | **Cheyenne Parker-Tyus** 🔴 | 674 |
 | 99 | Breanna Stewart | 668 |
 | 100 | Chamique Holdsclaw | 667 |
-| 101 | **Jewell Loyd** 🔴 +1 | 662 |
-| 101 | **Kayla Thornton** 🔴 +1 | 662 |
-| 101 | Tianna Hawkins | 662 |
+| 101 | **Jewell Loyd** 🔴 +2 | 663 |
+| 102 | **Kayla Thornton** 🔴 +1 | 662 |
+| 102 | Tianna Hawkins | 662 |
 | 104 | Tari Phillips | 648 |
 | 105 | Marie Ferdinand-Harris | 646 |
 | 106 | Charlotte Smith | 638 |
