@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-18 03:10 UTC_
+_Last updated: 2026-06-18 03:11 UTC_
 
 ## Contents
 
@@ -207,7 +207,7 @@ _Last updated: 2026-06-18 03:10 UTC_
 | 186 | Tully Bevilaqua | 1,763 |
 | 187 | Sandy Brondello | 1,759 |
 | 188 | Sophie Cunningham | 1,752 |
-| 189 | **Gabby Williams** 🔴 +13 | 1,736 |
+| 189 | **Gabby Williams** 🔴 +15 | 1,738 |
 | 190 | Sugar Rodgers | 1,733 |
 | 191 | Moriah Jefferson | 1,722 |
 | 192 | Armintie Herrington | 1,696 |
@@ -247,7 +247,7 @@ _Last updated: 2026-06-18 03:10 UTC_
 | 21 | Crystal Langhorne | 2,454 |
 | 22 | Lauren Jackson | 2,444 |
 | 23 | Yolanda Griffith | 2,440 |
-| 24 | **Dearica Hamby** 🔴 +8 | 2,399 |
+| 24 | **Dearica Hamby** 🔴 +9 | 2,400 |
 | 25 | Tangela Smith | 2,328 |
 | 26 | **Natasha Howard** 🔴 +8 | 2,261 |
 | 27 | Erika de Souza | 2,220 |
@@ -300,7 +300,7 @@ _Last updated: 2026-06-18 03:10 UTC_
 | 74 | Courtney Vandersloot | 1,383 |
 | 74 | Katie Smith | 1,383 |
 | 76 | Ebony Hoffman | 1,376 |
-| 77 | **Kayla Thornton** 🔴 +5 | 1,365 |
+| 77 | **Kayla Thornton** 🔴 +6 | 1,366 |
 | 78 | Sheri Sam | 1,356 |
 | 79 | Tamika Whitmore | 1,355 |
 | 80 | Emma Meesseman | 1,350 |
@@ -367,7 +367,7 @@ _Last updated: 2026-06-18 03:10 UTC_
 | 141 | Dominique Canty | 961 |
 | 142 | Armintie Herrington | 960 |
 | 143 | Janell Burse | 944 |
-| 144 | **Jessica Shepard** 🔴 +6 | 933 |
+| 144 | **Jessica Shepard** 🔴 +7 | 934 |
 | 145 | Satou Sabally | 928 |
 | 146 | Merlakia Jones | 927 |
 | 147 | Angel Reese | 923 |
@@ -393,8 +393,8 @@ _Last updated: 2026-06-18 03:10 UTC_
 | 166 | Barbara Farris | 819 |
 | 168 | Carolyn Swords | 814 |
 | 169 | Tierra Ruffin-Pratt | 799 |
-| 170 | Betnijah Laney-Hamilton | 795 |
-| 170 | **Gabby Williams** 🔴 | 795 |
+| 170 | **Gabby Williams** 🔴 +1 | 796 |
+| 171 | Betnijah Laney-Hamilton | 795 |
 | 172 | Charlotte Smith | 794 |
 | 173 | Rhonda Mapp | 788 |
 | 174 | **Ariel Atkins** 🔴 +1 | 787 |
@@ -1307,7 +1307,7 @@ _Last updated: 2026-06-18 03:10 UTC_
 | 56 | Tammy Sutton-Brown | 672 |
 | 57 | Deanna Nolan | 669 |
 | 58 | Chasity Melvin | 666 |
-| 59 | **Courtney Williams** 🔴 +1 | 663 |
+| 59 | **Courtney Williams** 🔴 +2 | 664 |
 | 60 | Vickie Johnson | 660 |
 | 61 | Yolanda Griffith | 653 |
 | 62 | Sheri Sam | 650 |
