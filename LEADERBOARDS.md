@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-18 00:16 UTC_
+_Last updated: 2026-06-18 00:17 UTC_
 
 ## Contents
 
@@ -40,7 +40,7 @@ _Last updated: 2026-06-18 00:16 UTC_
 | 19 | A'ja Wilson | 5,942 |
 | 20 | Becky Hammon | 5,816 |
 | 21 | Angel McCoughtry | 5,797 |
-| 22 | **Skylar Diggins** 🔴 | 5,626 |
+| 22 | **Skylar Diggins** 🔴 +6 | 5,632 |
 | 23 | DeLisha Milton-Jones | 5,571 |
 | 24 | Katie Douglas | 5,545 |
 | 25 | Kayla McBride | 5,522 |
@@ -73,8 +73,8 @@ _Last updated: 2026-06-18 00:16 UTC_
 | 52 | Dearica Hamby | 4,243 |
 | 53 | Courtney Williams | 4,238 |
 | 54 | Vickie Johnson | 4,230 |
-| 55 | **Jonquel Jones** 🔴 +2 | 4,224 |
-| 55 | Yolanda Griffith | 4,224 |
+| 55 | **Jonquel Jones** 🔴 +4 | 4,226 |
+| 56 | Yolanda Griffith | 4,224 |
 | 57 | Rebekkah Brunson | 4,133 |
 | 58 | Asjha Jones | 3,986 |
 | 59 | Deanna Nolan | 3,971 |
@@ -1074,8 +1074,8 @@ _Last updated: 2026-06-18 00:16 UTC_
 | 28 | Ariel Atkins | 451 |
 | 28 | Tiffany Hayes | 451 |
 | 30 | Allisha Gray | 445 |
-| 31 | Lauren Jackson | 436 |
-| 32 | **Skylar Diggins** 🔴 | 435 |
+| 31 | **Skylar Diggins** 🔴 +2 | 437 |
+| 32 | Lauren Jackson | 436 |
 | 33 | Shameka Christon | 434 |
 | 34 | Chelsea Gray | 425 |
 | 34 | Crystal Robinson | 425 |
