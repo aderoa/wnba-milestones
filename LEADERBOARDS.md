@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-18 02:16 UTC_
+_Last updated: 2026-06-18 02:17 UTC_
 
 ## Contents
 
@@ -49,7 +49,7 @@ _Last updated: 2026-06-18 02:16 UTC_
 | 28 | Tangela Smith | 5,035 |
 | 29 | Kelsey Mitchell | 5,003 |
 | 30 | Taj McWilliams-Franklin | 4,992 |
-| 31 | **Tiffany Hayes** 🔴 | 4,985 |
+| 31 | **Tiffany Hayes** 🔴 +2 | 4,987 |
 | 32 | Maya Moore | 4,984 |
 | 33 | Sheryl Swoopes | 4,875 |
 | 34 | Alana Beard | 4,740 |
@@ -70,7 +70,7 @@ _Last updated: 2026-06-18 02:16 UTC_
 | 49 | **Kahleah Copper** 🔴 +8 | 4,291 |
 | 50 | Plenette Pierson | 4,258 |
 | 51 | Monique Currie | 4,253 |
-| 52 | **Dearica Hamby** 🔴 +6 | 4,249 |
+| 52 | **Dearica Hamby** 🔴 +7 | 4,250 |
 | 53 | Jonquel Jones | 4,241 |
 | 54 | **Courtney Williams** 🔴 +2 | 4,240 |
 | 55 | Vickie Johnson | 4,230 |
@@ -247,7 +247,7 @@ _Last updated: 2026-06-18 02:16 UTC_
 | 21 | Crystal Langhorne | 2,454 |
 | 22 | Lauren Jackson | 2,444 |
 | 23 | Yolanda Griffith | 2,440 |
-| 24 | **Dearica Hamby** 🔴 +3 | 2,394 |
+| 24 | **Dearica Hamby** 🔴 +5 | 2,396 |
 | 25 | Tangela Smith | 2,328 |
 | 26 | **Natasha Howard** 🔴 +5 | 2,258 |
 | 27 | Erika de Souza | 2,220 |
@@ -267,7 +267,7 @@ _Last updated: 2026-06-18 02:16 UTC_
 | 41 | **Courtney Williams** 🔴 | 1,801 |
 | 42 | **Kiah Stokes** 🔴 +2 | 1,792 |
 | 43 | Asjha Jones | 1,751 |
-| 44 | **Stefanie Dolson** 🔴 +1 | 1,689 |
+| 44 | **Stefanie Dolson** 🔴 +2 | 1,690 |
 | 45 | Teaira McCowan | 1,682 |
 | 46 | Monique Currie | 1,666 |
 | 47 | Glory Johnson | 1,640 |
@@ -381,7 +381,7 @@ _Last updated: 2026-06-18 02:16 UTC_
 | 155 | Shameka Christon | 867 |
 | 156 | **Alanna Smith** 🔴 | 864 |
 | 157 | Krystal Thomas | 862 |
-| 158 | **Nia Coffey** 🔴 +1 | 855 |
+| 158 | **Nia Coffey** 🔴 +2 | 856 |
 | 159 | Marina Mabrey | 849 |
 | 160 | Leilani Mitchell | 845 |
 | 161 | Essence Carson | 833 |
@@ -435,7 +435,7 @@ _Last updated: 2026-06-18 02:16 UTC_
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
 | 6 | **Chelsea Gray** 🔴 +3 | 1,938 |
-| 7 | **Alyssa Thomas** 🔴 | 1,903 |
+| 7 | **Alyssa Thomas** 🔴 +1 | 1,904 |
 | 8 | Skylar Diggins | 1,820 |
 | 9 | Natasha Cloud | 1,776 |
 | 10 | Becky Hammon | 1,705 |
@@ -1184,7 +1184,7 @@ _Last updated: 2026-06-18 02:16 UTC_
 | 138 | Aari McDonald | 158 |
 | 138 | Jennifer Azzi | 158 |
 | 140 | **Natasha Howard** 🔴 | 157 |
-| 141 | **Alanna Smith** 🔴 | 154 |
+| 141 | **Alanna Smith** 🔴 +1 | 155 |
 | 142 | Bridget Pettis | 153 |
 | 142 | Jennifer Gillom | 153 |
 | 142 | **Stephanie Talbot** 🔴 | 153 |
@@ -1524,7 +1524,7 @@ _Last updated: 2026-06-18 02:16 UTC_
 | 68 | Kia Vaughn | 755 |
 | 69 | Vickie Johnson | 752 |
 | 70 | Kara Braxton | 748 |
-| 71 | **Kahleah Copper** 🔴 | 738 |
+| 71 | **Kahleah Copper** 🔴 +1 | 739 |
 | 72 | Crystal Langhorne | 737 |
 | 73 | Shameka Christon | 734 |
 | 74 | Becky Hammon | 733 |
