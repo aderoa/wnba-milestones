@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-18 03:47 UTC
+
+- **Brianna Turner** passed **Azurá Stevens** for **#41** all-time in blocks (career 234) — up from #42 entering today — _8:40 - 4th — LV @ PHX_
+
 ## 2026-06-18 03:46 UTC
 
 - **Olivia Miles** reached **200** career points (now 201) — _5:03 - 4th — MIN @ LA_

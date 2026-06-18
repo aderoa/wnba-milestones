@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-18T03:47:00+00:00",
+    "text": "Brianna Turner passed Azur\u00e1 Stevens for #41 all-time in blocks (career 234) \u2014 up from #42 entering today \u2014 (8:40 - 4th \u2014 LV @ PHX)",
+    "kind": "rank_pass",
+    "player": "Brianna Turner",
+    "stat": "blocks",
+    "rank": 41,
+    "passed_players": [
+      "Azur\u00e1 Stevens"
+    ],
+    "new_total": 234
+  },
+  {
     "ts": "2026-06-18T03:46:00+00:00",
     "text": "Olivia Miles reached 200 career points (now 201) \u2014 (5:03 - 4th \u2014 MIN @ LA)",
     "kind": "round",
@@ -2974,17 +2986,5 @@
       "Jasmine Thomas"
     ],
     "new_total": 3525
-  },
-  {
-    "ts": "2026-06-06T19:07:00+00:00",
-    "text": "Chelsea Gray passed Taj McWilliams-Franklin for #22 all-time in turnovers (career 899) \u2014 (8:29 - 1st \u2014 GS @ LV)",
-    "kind": "rank_pass",
-    "player": "Chelsea Gray",
-    "stat": "turnovers",
-    "rank": 22,
-    "passed_players": [
-      "Taj McWilliams-Franklin"
-    ],
-    "new_total": 899
   }
 ]
