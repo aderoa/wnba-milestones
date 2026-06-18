@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-18 03:06 UTC_
+_Last updated: 2026-06-18 03:07 UTC_
 
 ## Contents
 
@@ -56,9 +56,9 @@ _Last updated: 2026-06-18 03:06 UTC_
 | 35 | Chamique Holdsclaw | 4,713 |
 | 36 | Elena Delle Donne | 4,706 |
 | 37 | **Alyssa Thomas** 🔴 +6 | 4,659 |
-| 38 | **Arike Ogunbowale** 🔴 +6 | 4,618 |
+| 38 | **Arike Ogunbowale** 🔴 +12 | 4,624 |
 | 39 | Penny Taylor | 4,595 |
-| 40 | **Natasha Howard** 🔴 +9 | 4,537 |
+| 40 | **Natasha Howard** 🔴 +10 | 4,538 |
 | 41 | **Chelsea Gray** 🔴 +3 | 4,509 |
 | 42 | Kristi Toliver | 4,474 |
 | 43 | Crystal Langhorne | 4,433 |
@@ -247,7 +247,7 @@ _Last updated: 2026-06-18 03:06 UTC_
 | 21 | Crystal Langhorne | 2,454 |
 | 22 | Lauren Jackson | 2,444 |
 | 23 | Yolanda Griffith | 2,440 |
-| 24 | **Dearica Hamby** 🔴 +5 | 2,396 |
+| 24 | **Dearica Hamby** 🔴 +6 | 2,397 |
 | 25 | Tangela Smith | 2,328 |
 | 26 | **Natasha Howard** 🔴 +8 | 2,261 |
 | 27 | Erika de Souza | 2,220 |
@@ -263,8 +263,8 @@ _Last updated: 2026-06-18 03:06 UTC_
 | 37 | Wendy Palmer | 1,824 |
 | 38 | Sophia Young-Malcolm | 1,807 |
 | 39 | Lindsay Whalen | 1,805 |
-| 40 | **Courtney Williams** 🔴 +2 | 1,803 |
-| 41 | Camille Smith | 1,802 |
+| 40 | Camille Smith | 1,802 |
+| 40 | **Courtney Williams** 🔴 +1 | 1,802 |
 | 42 | **Kiah Stokes** 🔴 +6 | 1,796 |
 | 43 | Asjha Jones | 1,751 |
 | 44 | **Stefanie Dolson** 🔴 +2 | 1,690 |
@@ -381,7 +381,7 @@ _Last updated: 2026-06-18 03:06 UTC_
 | 155 | Shameka Christon | 867 |
 | 156 | **Alanna Smith** 🔴 | 864 |
 | 157 | Krystal Thomas | 862 |
-| 158 | **Nia Coffey** 🔴 +4 | 858 |
+| 158 | **Nia Coffey** 🔴 +5 | 859 |
 | 159 | Marina Mabrey | 849 |
 | 160 | Leilani Mitchell | 845 |
 | 161 | Essence Carson | 833 |
@@ -598,7 +598,7 @@ _Last updated: 2026-06-18 03:06 UTC_
 | 167 | Julie Allemand | 401 |
 | 168 | Marissa Coleman | 399 |
 | 169 | Aliyah Boston | 398 |
-| 170 | **Jessica Shepard** 🔴 +1 | 396 |
+| 170 | **Jessica Shepard** 🔴 +2 | 397 |
 | 171 | Stacey Dales | 395 |
 | 172 | Sugar Rodgers | 393 |
 | 173 | Shameka Christon | 389 |
@@ -872,7 +872,7 @@ _Last updated: 2026-06-18 03:06 UTC_
 | 30 | Tangela Smith | 455 |
 | 32 | Tina Thompson | 452 |
 | 33 | Maya Moore | 449 |
-| 34 | **Natasha Howard** 🔴 | 447 |
+| 34 | **Natasha Howard** 🔴 +1 | 448 |
 | 35 | **Chelsea Gray** 🔴 +1 | 446 |
 | 36 | **Jewell Loyd** 🔴 | 445 |
 | 37 | Sheri Sam | 438 |
@@ -1059,7 +1059,7 @@ _Last updated: 2026-06-18 03:06 UTC_
 | 13 | Tamika Catchings | 605 |
 | 14 | Kara Lawson | 583 |
 | 15 | Nicole Powell | 579 |
-| 16 | **Arike Ogunbowale** 🔴 +2 | 568 |
+| 16 | **Arike Ogunbowale** 🔴 +3 | 569 |
 | 17 | Ivory Latta | 536 |
 | 18 | Renee Montgomery | 532 |
 | 19 | Maya Moore | 530 |
@@ -1303,7 +1303,7 @@ _Last updated: 2026-06-18 03:06 UTC_
 | 52 | Asjha Jones | 682 |
 | 53 | Danielle Robinson | 680 |
 | 54 | Sheryl Swoopes | 677 |
-| 55 | **Dearica Hamby** 🔴 +1 | 674 |
+| 55 | **Dearica Hamby** 🔴 +2 | 675 |
 | 56 | Tammy Sutton-Brown | 672 |
 | 57 | Deanna Nolan | 669 |
 | 58 | Chasity Melvin | 666 |
@@ -1430,7 +1430,7 @@ _Last updated: 2026-06-18 03:06 UTC_
 | 179 | Le'coe Willingham | 325 |
 | 180 | Caitlin Clark | 324 |
 | 180 | Olympia Scott | 324 |
-| 182 | **Gabby Williams** 🔴 +1 | 321 |
+| 182 | **Gabby Williams** 🔴 +2 | 322 |
 | 183 | Kia Nurse | 316 |
 | 184 | Barbara Farris | 315 |
 | 185 | Moriah Jefferson | 314 |
