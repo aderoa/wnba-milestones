@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-18 02:06 UTC_
+_Last updated: 2026-06-18 02:07 UTC_
 
 ## Contents
 
@@ -70,9 +70,9 @@ _Last updated: 2026-06-18 02:06 UTC_
 | 49 | Kahleah Copper | 4,283 |
 | 50 | Plenette Pierson | 4,258 |
 | 51 | Monique Currie | 4,253 |
-| 52 | **Dearica Hamby** 🔴 | 4,243 |
+| 52 | **Dearica Hamby** 🔴 +2 | 4,245 |
 | 53 | **Jonquel Jones** 🔴 +19 | 4,241 |
-| 54 | **Courtney Williams** 🔴 | 4,238 |
+| 54 | **Courtney Williams** 🔴 +2 | 4,240 |
 | 55 | Vickie Johnson | 4,230 |
 | 56 | Yolanda Griffith | 4,224 |
 | 57 | Rebekkah Brunson | 4,133 |
@@ -300,7 +300,7 @@ _Last updated: 2026-06-18 02:06 UTC_
 | 74 | Courtney Vandersloot | 1,383 |
 | 74 | Katie Smith | 1,383 |
 | 76 | Ebony Hoffman | 1,376 |
-| 77 | **Kayla Thornton** 🔴 +1 | 1,361 |
+| 77 | **Kayla Thornton** 🔴 +2 | 1,362 |
 | 78 | Sheri Sam | 1,356 |
 | 79 | Tamika Whitmore | 1,355 |
 | 80 | Emma Meesseman | 1,350 |
@@ -367,8 +367,8 @@ _Last updated: 2026-06-18 02:06 UTC_
 | 141 | Dominique Canty | 961 |
 | 142 | Armintie Herrington | 960 |
 | 143 | Janell Burse | 944 |
-| 144 | **Jessica Shepard** 🔴 +1 | 928 |
-| 144 | **Satou Sabally** 🔴 +2 | 928 |
+| 144 | **Jessica Shepard** 🔴 +2 | 929 |
+| 145 | **Satou Sabally** 🔴 +2 | 928 |
 | 146 | Merlakia Jones | 927 |
 | 147 | Angel Reese | 923 |
 | 148 | Nicky Anosike | 922 |
@@ -381,7 +381,7 @@ _Last updated: 2026-06-18 02:06 UTC_
 | 155 | Shameka Christon | 867 |
 | 156 | Alanna Smith | 864 |
 | 157 | Krystal Thomas | 862 |
-| 158 | **Nia Coffey** 🔴 | 854 |
+| 158 | **Nia Coffey** 🔴 +1 | 855 |
 | 159 | Marina Mabrey | 849 |
 | 160 | Leilani Mitchell | 845 |
 | 161 | Essence Carson | 833 |
@@ -411,8 +411,8 @@ _Last updated: 2026-06-18 02:06 UTC_
 | 185 | Shakira Austin | 758 |
 | 186 | Layshia Clarendon | 756 |
 | 187 | Brooke Wyckoff | 751 |
+| 188 | **Arike Ogunbowale** 🔴 +2 | 750 |
 | 188 | Coco Miller | 750 |
-| 189 | **Arike Ogunbowale** 🔴 +1 | 749 |
 | 190 | Alex Montgomery | 735 |
 | 191 | Ashley Robinson | 734 |
 | 192 | Shenise Johnson | 729 |
@@ -525,7 +525,7 @@ _Last updated: 2026-06-18 02:06 UTC_
 | 93 | Asjha Jones | 637 |
 | 95 | Jennifer Azzi | 636 |
 | 96 | **Jonquel Jones** 🔴 +3 | 628 |
-| 97 | **Natisha Hiedeman** 🔴 | 624 |
+| 97 | **Natisha Hiedeman** 🔴 +1 | 625 |
 | 98 | Sami Whitcomb | 623 |
 | 99 | Alysha Clark | 616 |
 | 100 | Debbie Black | 612 |
@@ -1120,9 +1120,9 @@ _Last updated: 2026-06-18 02:06 UTC_
 | 74 | Seimone Augustus | 293 |
 | 75 | Candice Wiggins | 290 |
 | 75 | Tully Bevilaqua | 290 |
-| 77 | Alana Beard | 288 |
-| 77 | **Bridget Carleton** 🔴 +1 | 288 |
-| 77 | **Kayla Thornton** 🔴 | 288 |
+| 77 | **Bridget Carleton** 🔴 +2 | 289 |
+| 78 | Alana Beard | 288 |
+| 78 | **Kayla Thornton** 🔴 | 288 |
 | 80 | Monique Currie | 284 |
 | 81 | Iziane Castro Marques | 275 |
 | 82 | Stefanie Dolson | 273 |
@@ -1642,8 +1642,8 @@ _Last updated: 2026-06-18 02:06 UTC_
 | 186 | Sami Whitcomb | 480 |
 | 187 | **Azurá Stevens** 🔴 +4 | 478 |
 | 188 | Seimone Augustus | 477 |
-| 189 | Allie Quigley | 475 |
-| 189 | **Nia Coffey** 🔴 | 475 |
+| 189 | **Nia Coffey** 🔴 +1 | 476 |
+| 190 | Allie Quigley | 475 |
 | 191 | Kia Nurse | 473 |
 | 192 | Alanna Smith | 470 |
 | 193 | Christi Thomas | 463 |
