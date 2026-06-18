@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-18 03:19 UTC_
+_Last updated: 2026-06-18 03:20 UTC_
 
 ## Contents
 
@@ -23,7 +23,7 @@ _Last updated: 2026-06-18 03:19 UTC_
 | 2 | Tina Charles | 8,396 |
 | 3 | **DeWanna Bonner** 🔴 +10 | 7,920 |
 | 4 | Tina Thompson | 7,470 |
-| 5 | **Nneka Ogwumike** 🔴 +4 | 7,444 |
+| 5 | **Nneka Ogwumike** 🔴 +6 | 7,446 |
 | 6 | Tamika Catchings | 7,371 |
 | 7 | Candice Dupree | 6,861 |
 | 8 | Sue Bird | 6,802 |
@@ -48,8 +48,8 @@ _Last updated: 2026-06-18 03:19 UTC_
 | 27 | Swin Cash | 5,119 |
 | 28 | Tangela Smith | 5,035 |
 | 29 | Kelsey Mitchell | 5,003 |
-| 30 | Taj McWilliams-Franklin | 4,992 |
-| 31 | **Tiffany Hayes** 🔴 +5 | 4,990 |
+| 30 | **Tiffany Hayes** 🔴 +8 | 4,993 |
+| 31 | Taj McWilliams-Franklin | 4,992 |
 | 32 | Maya Moore | 4,984 |
 | 33 | Sheryl Swoopes | 4,875 |
 | 34 | Alana Beard | 4,740 |
@@ -89,7 +89,7 @@ _Last updated: 2026-06-18 03:19 UTC_
 | 68 | Camille Smith | 3,551 |
 | 69 | Napheesa Collier | 3,542 |
 | 69 | Shannon Johnson | 3,542 |
-| 71 | **Jackie Young** 🔴 +12 | 3,534 |
+| 71 | **Jackie Young** 🔴 +15 | 3,537 |
 | 72 | Renee Montgomery | 3,533 |
 | 73 | Jasmine Thomas | 3,522 |
 | 74 | Tamecka Dixon | 3,507 |
@@ -335,7 +335,7 @@ _Last updated: 2026-06-18 03:19 UTC_
 | 109 | Andrea Stinson | 1,127 |
 | 109 | Tamika Raymond | 1,127 |
 | 111 | Adrienne Goodson | 1,126 |
-| 112 | **NaLyssa Smith** 🔴 +1 | 1,116 |
+| 112 | **NaLyssa Smith** 🔴 +2 | 1,117 |
 | 113 | Natasha Cloud | 1,115 |
 | 114 | Deanna Nolan | 1,112 |
 | 115 | Aliyah Boston | 1,110 |
@@ -843,7 +843,7 @@ _Last updated: 2026-06-18 03:19 UTC_
 | 2 | Ticha Penicheiro | 761 |
 | 3 | Sue Bird | 724 |
 | 4 | Alana Beard | 710 |
-| 5 | **Nneka Ogwumike** 🔴 +2 | 680 |
+| 5 | **Nneka Ogwumike** 🔴 +1 | 679 |
 | 6 | Sheryl Swoopes | 657 |
 | 7 | **DeWanna Bonner** 🔴 +1 | 644 |
 | 8 | Jia Perkins | 634 |
@@ -905,8 +905,8 @@ _Last updated: 2026-06-18 03:19 UTC_
 | 64 | Vickie Johnson | 357 |
 | 65 | Dominique Canty | 356 |
 | 65 | Renee Montgomery | 356 |
+| 67 | **Erica Wheeler** 🔴 +1 | 355 |
 | 67 | Tamecka Dixon | 355 |
-| 68 | **Erica Wheeler** 🔴 | 354 |
 | 69 | Vicky Bullett | 353 |
 | 70 | Svetlana Abrosimova | 352 |
 | 71 | Natasha Cloud | 351 |
@@ -1071,7 +1071,7 @@ _Last updated: 2026-06-18 03:19 UTC_
 | 25 | Cappie Pondexter | 464 |
 | 25 | Sabrina Ionescu | 464 |
 | 27 | Breanna Stewart | 461 |
-| 28 | **Tiffany Hayes** 🔴 +1 | 452 |
+| 28 | **Tiffany Hayes** 🔴 +2 | 453 |
 | 29 | **Ariel Atkins** 🔴 | 451 |
 | 30 | Allisha Gray | 445 |
 | 31 | Skylar Diggins | 438 |
@@ -1104,7 +1104,7 @@ _Last updated: 2026-06-18 03:19 UTC_
 | 57 | Natasha Cloud | 340 |
 | 59 | Anna DeForge | 334 |
 | 60 | **Erica Wheeler** 🔴 | 329 |
-| 61 | **Jackie Young** 🔴 +2 | 325 |
+| 61 | **Jackie Young** 🔴 +3 | 326 |
 | 62 | Sophie Cunningham | 317 |
 | 62 | Sugar Rodgers | 317 |
 | 64 | Marissa Coleman | 315 |
