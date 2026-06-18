@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-18 02:46 UTC_
+_Last updated: 2026-06-18 02:47 UTC_
 
 ## Contents
 
@@ -319,8 +319,8 @@ _Last updated: 2026-06-18 02:46 UTC_
 | 93 | Ezi Magbegor | 1,243 |
 | 94 | Myisha Hines-Allen | 1,239 |
 | 95 | Brianna Turner | 1,237 |
+| 96 | **Kayla McBride** 🔴 +2 | 1,228 |
 | 96 | Seimone Augustus | 1,228 |
-| 97 | **Kayla McBride** 🔴 +1 | 1,227 |
 | 98 | **Chelsea Gray** 🔴 +1 | 1,222 |
 | 99 | Jia Perkins | 1,220 |
 | 100 | DeMya Walker | 1,199 |
@@ -367,7 +367,7 @@ _Last updated: 2026-06-18 02:46 UTC_
 | 141 | Dominique Canty | 961 |
 | 142 | Armintie Herrington | 960 |
 | 143 | Janell Burse | 944 |
-| 144 | **Jessica Shepard** 🔴 +4 | 931 |
+| 144 | **Jessica Shepard** 🔴 +5 | 932 |
 | 145 | Satou Sabally | 928 |
 | 146 | Merlakia Jones | 927 |
 | 147 | Angel Reese | 923 |
@@ -953,7 +953,7 @@ _Last updated: 2026-06-18 02:46 UTC_
 | 112 | Crystal Robinson | 267 |
 | 113 | Anna DeForge | 266 |
 | 114 | Brionna Jones | 265 |
-| 115 | **Kayla Thornton** 🔴 +1 | 264 |
+| 115 | **Kayla Thornton** 🔴 | 263 |
 | 116 | Michelle Snow | 262 |
 | 117 | Karima Christmas-Kelly | 261 |
 | 118 | Kelsey Plum | 260 |
@@ -1307,7 +1307,7 @@ _Last updated: 2026-06-18 02:46 UTC_
 | 56 | Tammy Sutton-Brown | 672 |
 | 57 | Deanna Nolan | 669 |
 | 58 | Chasity Melvin | 666 |
-| 59 | **Courtney Williams** 🔴 | 662 |
+| 59 | **Courtney Williams** 🔴 +1 | 663 |
 | 60 | Vickie Johnson | 660 |
 | 61 | Yolanda Griffith | 653 |
 | 62 | Sheri Sam | 650 |
@@ -1444,8 +1444,8 @@ _Last updated: 2026-06-18 02:46 UTC_
 | 193 | Crystal Robinson | 299 |
 | 194 | Michele Timms | 297 |
 | 195 | Azurá Stevens | 296 |
+| 196 | **Kayla Thornton** 🔴 +1 | 295 |
 | 196 | Rachel Banham | 295 |
-| 197 | **Kayla Thornton** 🔴 | 294 |
 | 198 | **Natisha Hiedeman** 🔴 +4 | 293 |
 | 199 | Alexis Hornbuckle | 288 |
 | 199 | Kristen Rasmussen | 288 |
@@ -1585,7 +1585,7 @@ _Last updated: 2026-06-18 02:46 UTC_
 | 128 | Hamchetou Maiga-Ba | 580 |
 | 128 | Olympia Scott | 580 |
 | 131 | Ezi Magbegor | 576 |
-| 132 | **Courtney Williams** 🔴 | 574 |
+| 132 | **Courtney Williams** 🔴 +1 | 575 |
 | 133 | Le'coe Willingham | 571 |
 | 134 | Ashley Robinson | 567 |
 | 135 | Ivory Latta | 565 |
