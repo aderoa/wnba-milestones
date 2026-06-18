@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-18 01:20 UTC_
+_Last updated: 2026-06-18 01:21 UTC_
 
 ## Contents
 
@@ -118,7 +118,7 @@ _Last updated: 2026-06-18 01:20 UTC_
 | 97 | Marie Ferdinand-Harris | 3,001 |
 | 98 | Emma Meesseman | 2,966 |
 | 99 | **Natasha Cloud** 🔴 +3 | 2,955 |
-| 100 | **Elizabeth Williams** 🔴 | 2,896 |
+| 100 | **Elizabeth Williams** 🔴 +2 | 2,898 |
 | 101 | Natalie Williams | 2,894 |
 | 102 | Jennifer Gillom | 2,888 |
 | 103 | Iziane Castro Marques | 2,862 |
@@ -437,7 +437,7 @@ _Last updated: 2026-06-18 01:20 UTC_
 | 6 | Chelsea Gray | 1,935 |
 | 7 | Alyssa Thomas | 1,903 |
 | 8 | **Skylar Diggins** 🔴 +5 | 1,817 |
-| 9 | **Natasha Cloud** 🔴 +2 | 1,774 |
+| 9 | **Natasha Cloud** 🔴 +3 | 1,775 |
 | 10 | Becky Hammon | 1,705 |
 | 11 | Candace Parker | 1,634 |
 | 12 | Cappie Pondexter | 1,575 |
@@ -1652,5 +1652,5 @@ _Last updated: 2026-06-18 01:20 UTC_
 | 196 | Natalie Achonwa | 459 |
 | 197 | Kara Lawson | 457 |
 | 198 | NaLyssa Smith | 454 |
-| 199 | Alexis Hornbuckle | 450 |
-| 199 | **Satou Sabally** 🔴 | 450 |
+| 199 | **Satou Sabally** 🔴 +1 | 451 |
+| 200 | Alexis Hornbuckle | 450 |
