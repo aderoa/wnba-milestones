@@ -1,5 +1,14 @@
 [
   {
+    "ts": "2026-06-18T03:46:00+00:00",
+    "text": "Olivia Miles reached 200 career points (now 201) \u2014 (5:03 - 4th \u2014 MIN @ LA)",
+    "kind": "round",
+    "player": "Olivia Miles",
+    "stat": "points",
+    "value": 200,
+    "new_total": 201
+  },
+  {
     "ts": "2026-06-18T03:34:00+00:00",
     "text": "Kayla McBride passed Sheri Sam for #37 all-time in steals (career 439) \u2014 up from #39 entering today \u2014 (9:33 - 4th \u2014 MIN @ LA)",
     "kind": "rank_pass",
@@ -2977,17 +2986,5 @@
       "Taj McWilliams-Franklin"
     ],
     "new_total": 899
-  },
-  {
-    "ts": "2026-06-06T18:59:00+00:00",
-    "text": "Teaira McCowan passed Deanna Nolan for #111 all-time in fouls (career 629) \u2014 up from #112 entering today \u2014 (11.0 - 4th \u2014 SEA @ MIN)",
-    "kind": "rank_pass",
-    "player": "Teaira McCowan",
-    "stat": "fouls",
-    "rank": 111,
-    "passed_players": [
-      "Deanna Nolan"
-    ],
-    "new_total": 629
   }
 ]
