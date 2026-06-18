@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-18T02:27:00+00:00",
+    "text": "Jackie Young passed Seimone Augustus for #104 all-time in steals (career 281) \u2014 up from #105 entering today \u2014 (2:50 - 1st \u2014 LV @ PHX)",
+    "kind": "rank_pass",
+    "player": "Jackie Young",
+    "stat": "steals",
+    "rank": 104,
+    "passed_players": [
+      "Seimone Augustus"
+    ],
+    "new_total": 281
+  },
+  {
     "ts": "2026-06-18T02:00:00+00:00",
     "text": "Sabrina Ionescu passed Erika de Souza for #94 all-time in points (career 3,049) \u2014 up from #95 entering today \u2014 (1:45 - 4th \u2014 NY @ CHI)",
     "kind": "rank_pass",
@@ -2976,17 +2988,5 @@
       "Dearica Hamby"
     ],
     "new_total": 4245
-  },
-  {
-    "ts": "2026-06-06T17:36:00+00:00",
-    "text": "Natisha Hiedeman passed Nikki Teasley for #71 all-time in three-pointers (career 305) \u2014 up from #72 entering today \u2014 (5:35 - 2nd \u2014 SEA @ MIN)",
-    "kind": "rank_pass",
-    "player": "Natisha Hiedeman",
-    "stat": "three-pointers",
-    "rank": 71,
-    "passed_players": [
-      "Nikki Teasley"
-    ],
-    "new_total": 305
   }
 ]
