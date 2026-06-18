@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-18 02:42 UTC_
+_Last updated: 2026-06-18 02:43 UTC_
 
 ## Contents
 
@@ -194,7 +194,7 @@ _Last updated: 2026-06-18 02:42 UTC_
 | 173 | Nakia Sanford | 1,915 |
 | 174 | Ebony Hoffman | 1,909 |
 | 175 | Candice Wiggins | 1,901 |
-| 176 | **Natisha Hiedeman** 🔴 +9 | 1,867 |
+| 176 | **Natisha Hiedeman** 🔴 +12 | 1,870 |
 | 177 | Isabelle Harrison | 1,832 |
 | 178 | Damiris Dantas | 1,830 |
 | 179 | Tianna Hawkins | 1,825 |
@@ -381,7 +381,7 @@ _Last updated: 2026-06-18 02:42 UTC_
 | 155 | Shameka Christon | 867 |
 | 156 | **Alanna Smith** 🔴 | 864 |
 | 157 | Krystal Thomas | 862 |
-| 158 | **Nia Coffey** 🔴 +2 | 856 |
+| 158 | **Nia Coffey** 🔴 +3 | 857 |
 | 159 | Marina Mabrey | 849 |
 | 160 | Leilani Mitchell | 845 |
 | 161 | Essence Carson | 833 |
@@ -843,7 +843,7 @@ _Last updated: 2026-06-18 02:42 UTC_
 | 2 | Ticha Penicheiro | 761 |
 | 3 | Sue Bird | 724 |
 | 4 | Alana Beard | 710 |
-| 5 | **Nneka Ogwumike** 🔴 | 678 |
+| 5 | **Nneka Ogwumike** 🔴 +1 | 679 |
 | 6 | Sheryl Swoopes | 657 |
 | 7 | **DeWanna Bonner** 🔴 +1 | 644 |
 | 8 | Jia Perkins | 634 |
@@ -875,9 +875,9 @@ _Last updated: 2026-06-18 02:42 UTC_
 | 34 | **Natasha Howard** 🔴 | 447 |
 | 35 | **Chelsea Gray** 🔴 | 445 |
 | 35 | **Jewell Loyd** 🔴 | 445 |
+| 37 | **Kayla McBride** 🔴 +2 | 438 |
 | 37 | Sheri Sam | 438 |
-| 38 | Camille Smith | 437 |
-| 38 | **Kayla McBride** 🔴 +1 | 437 |
+| 39 | Camille Smith | 437 |
 | 40 | Candice Dupree | 431 |
 | 41 | Epiphanny Prince | 429 |
 | 42 | Tanisha Wright | 427 |
@@ -910,8 +910,8 @@ _Last updated: 2026-06-18 02:42 UTC_
 | 69 | Vicky Bullett | 353 |
 | 70 | Svetlana Abrosimova | 352 |
 | 71 | Natasha Cloud | 351 |
-| 72 | **A'ja Wilson** 🔴 | 346 |
-| 72 | Janeth Arcain | 346 |
+| 72 | **A'ja Wilson** 🔴 +1 | 347 |
+| 73 | Janeth Arcain | 346 |
 | 74 | **Arike Ogunbowale** 🔴 | 345 |
 | 75 | Helen Darling | 343 |
 | 76 | Andrea Stinson | 342 |
@@ -1113,7 +1113,7 @@ _Last updated: 2026-06-18 02:42 UTC_
 | 66 | Ruthie Bolton | 312 |
 | 68 | Tan White | 311 |
 | 69 | Kedra Holland-Corn | 307 |
-| 70 | **Natisha Hiedeman** 🔴 +3 | 306 |
+| 69 | **Natisha Hiedeman** 🔴 +4 | 307 |
 | 71 | Kelly Miller | 305 |
 | 72 | Nikki Teasley | 304 |
 | 73 | Vickie Johnson | 295 |
@@ -1367,11 +1367,11 @@ _Last updated: 2026-06-18 02:42 UTC_
 | 116 | Natalie Williams | 480 |
 | 117 | Ebony Hoffman | 470 |
 | 118 | Elaine Powell | 469 |
+| 119 | **A'ja Wilson** 🔴 +1 | 467 |
 | 119 | Allie Quigley | 467 |
-| 120 | **A'ja Wilson** 🔴 | 466 |
-| 120 | Allisha Gray | 466 |
-| 122 | **Ariel Atkins** 🔴 | 454 |
-| 122 | Kia Vaughn | 454 |
+| 121 | Allisha Gray | 466 |
+| 122 | **Ariel Atkins** 🔴 +1 | 455 |
+| 123 | Kia Vaughn | 454 |
 | 124 | Janeth Arcain | 453 |
 | 125 | Betnijah Laney-Hamilton | 444 |
 | 125 | Elena Baranova | 444 |
