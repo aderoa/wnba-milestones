@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-18 02:41 UTC_
+_Last updated: 2026-06-18 02:42 UTC_
 
 ## Contents
 
@@ -69,8 +69,8 @@ _Last updated: 2026-06-18 02:41 UTC_
 | 48 | Sophia Young-Malcolm | 4,300 |
 | 49 | **Kahleah Copper** 🔴 +8 | 4,291 |
 | 50 | Plenette Pierson | 4,258 |
+| 51 | **Dearica Hamby** 🔴 +10 | 4,253 |
 | 51 | Monique Currie | 4,253 |
-| 52 | **Dearica Hamby** 🔴 +7 | 4,250 |
 | 53 | **Courtney Williams** 🔴 +7 | 4,245 |
 | 54 | Jonquel Jones | 4,241 |
 | 55 | Vickie Johnson | 4,230 |
@@ -228,7 +228,7 @@ _Last updated: 2026-06-18 02:41 UTC_
 | 2 | Sylvia Fowles | 4,005 |
 | 3 | Candace Parker | 3,467 |
 | 4 | Rebekkah Brunson | 3,345 |
-| 5 | **Nneka Ogwumike** 🔴 +4 | 3,341 |
+| 5 | **Nneka Ogwumike** 🔴 +5 | 3,342 |
 | 6 | Tamika Catchings | 3,313 |
 | 7 | Lisa Leslie | 3,303 |
 | 8 | **DeWanna Bonner** 🔴 +2 | 3,262 |
@@ -514,7 +514,7 @@ _Last updated: 2026-06-18 02:41 UTC_
 | 83 | Moriah Jefferson | 685 |
 | 84 | Emma Meesseman | 681 |
 | 85 | Nykesha Sales | 677 |
-| 86 | **Ariel Atkins** 🔴 +1 | 665 |
+| 86 | **Ariel Atkins** 🔴 +2 | 666 |
 | 87 | Bria Hartley | 661 |
 | 88 | Lindsay Allen | 657 |
 | 89 | Betty Lennox | 651 |
@@ -772,9 +772,9 @@ _Last updated: 2026-06-18 02:41 UTC_
 | 135 | Tiffani Johnson | 96 |
 | 137 | Imani McGee-Stafford | 95 |
 | 137 | Isabelle Harrison | 95 |
-| 137 | **NaLyssa Smith** 🔴 +1 | 95 |
-| 140 | **Jewell Loyd** 🔴 | 94 |
-| 140 | Sandrine Gruda | 94 |
+| 139 | **Jewell Loyd** 🔴 | 94 |
+| 139 | **NaLyssa Smith** 🔴 | 94 |
+| 139 | Sandrine Gruda | 94 |
 | 142 | Jasmine Thomas | 91 |
 | 142 | Kayla Alexander | 91 |
 | 144 | Allie Quigley | 90 |
@@ -1197,8 +1197,8 @@ _Last updated: 2026-06-18 02:41 UTC_
 | 151 | Michaela Onyenwere | 145 |
 | 152 | Helen Darling | 144 |
 | 152 | Matee Ajavon | 144 |
+| 154 | **Dearica Hamby** 🔴 +1 | 143 |
 | 154 | Shenise Johnson | 143 |
-| 155 | **Dearica Hamby** 🔴 | 142 |
 | 156 | Jordan Hooper | 141 |
 | 157 | Coco Miller | 139 |
 | 157 | **Gabby Williams** 🔴 +2 | 139 |
@@ -1651,6 +1651,6 @@ _Last updated: 2026-06-18 02:41 UTC_
 | 195 | Sue Wicks | 462 |
 | 196 | Natalie Achonwa | 459 |
 | 197 | Kara Lawson | 457 |
-| 198 | **NaLyssa Smith** 🔴 | 454 |
+| 198 | **NaLyssa Smith** 🔴 +1 | 455 |
 | 199 | Satou Sabally | 452 |
 | 200 | Alexis Hornbuckle | 450 |
