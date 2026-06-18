@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-18 03:05 UTC_
+_Last updated: 2026-06-18 03:06 UTC_
 
 ## Contents
 
@@ -987,10 +987,10 @@ _Last updated: 2026-06-18 03:05 UTC_
 | 146 | DeMya Walker | 220 |
 | 146 | Jennifer Gillom | 220 |
 | 148 | Allison Feaster | 219 |
-| 149 | **Kahleah Copper** 🔴 +1 | 217 |
 | 149 | Shenise Johnson | 217 |
-| 151 | Adrian Williams-Strong | 216 |
-| 151 | Moriah Jefferson | 216 |
+| 150 | Adrian Williams-Strong | 216 |
+| 150 | **Kahleah Copper** 🔴 | 216 |
+| 150 | Moriah Jefferson | 216 |
 | 153 | Asjha Jones | 215 |
 | 153 | Candice Wiggins | 215 |
 | 153 | **Cheyenne Parker-Tyus** 🔴 | 215 |
@@ -1430,7 +1430,7 @@ _Last updated: 2026-06-18 03:05 UTC_
 | 179 | Le'coe Willingham | 325 |
 | 180 | Caitlin Clark | 324 |
 | 180 | Olympia Scott | 324 |
-| 182 | **Gabby Williams** 🔴 | 320 |
+| 182 | **Gabby Williams** 🔴 +1 | 321 |
 | 183 | Kia Nurse | 316 |
 | 184 | Barbara Farris | 315 |
 | 185 | Moriah Jefferson | 314 |
