@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-18 03:11 UTC_
+_Last updated: 2026-06-18 03:12 UTC_
 
 ## Contents
 
@@ -56,7 +56,7 @@ _Last updated: 2026-06-18 03:11 UTC_
 | 35 | Chamique Holdsclaw | 4,713 |
 | 36 | Elena Delle Donne | 4,706 |
 | 37 | **Alyssa Thomas** 🔴 +6 | 4,659 |
-| 38 | **Arike Ogunbowale** 🔴 +12 | 4,624 |
+| 38 | **Arike Ogunbowale** 🔴 +13 | 4,625 |
 | 39 | Penny Taylor | 4,595 |
 | 40 | **Natasha Howard** 🔴 +10 | 4,538 |
 | 41 | **Chelsea Gray** 🔴 +3 | 4,509 |
@@ -207,7 +207,7 @@ _Last updated: 2026-06-18 03:11 UTC_
 | 186 | Tully Bevilaqua | 1,763 |
 | 187 | Sandy Brondello | 1,759 |
 | 188 | Sophie Cunningham | 1,752 |
-| 189 | **Gabby Williams** 🔴 +15 | 1,738 |
+| 189 | **Gabby Williams** 🔴 +16 | 1,739 |
 | 190 | Sugar Rodgers | 1,733 |
 | 191 | Moriah Jefferson | 1,722 |
 | 192 | Armintie Herrington | 1,696 |
@@ -1555,8 +1555,8 @@ _Last updated: 2026-06-18 03:11 UTC_
 | 99 | Breanna Stewart | 668 |
 | 100 | Chamique Holdsclaw | 667 |
 | 101 | **Jewell Loyd** 🔴 +1 | 662 |
+| 101 | **Kayla Thornton** 🔴 +1 | 662 |
 | 101 | Tianna Hawkins | 662 |
-| 103 | **Kayla Thornton** 🔴 | 661 |
 | 104 | Tari Phillips | 648 |
 | 105 | Marie Ferdinand-Harris | 646 |
 | 106 | Charlotte Smith | 638 |
@@ -1584,8 +1584,8 @@ _Last updated: 2026-06-18 03:11 UTC_
 | 128 | Chiney Ogwumike | 580 |
 | 128 | Hamchetou Maiga-Ba | 580 |
 | 128 | Olympia Scott | 580 |
+| 131 | **Courtney Williams** 🔴 +2 | 576 |
 | 131 | Ezi Magbegor | 576 |
-| 132 | **Courtney Williams** 🔴 +1 | 575 |
 | 133 | Le'coe Willingham | 571 |
 | 134 | Ashley Robinson | 567 |
 | 135 | Ivory Latta | 565 |
@@ -1640,8 +1640,8 @@ _Last updated: 2026-06-18 03:11 UTC_
 | 184 | Liz Cambage | 483 |
 | 184 | Rhonda Mapp | 483 |
 | 186 | Sami Whitcomb | 480 |
-| 187 | Azurá Stevens | 478 |
-| 187 | **Nia Coffey** 🔴 +3 | 478 |
+| 187 | **Nia Coffey** 🔴 +4 | 479 |
+| 188 | Azurá Stevens | 478 |
 | 189 | Seimone Augustus | 477 |
 | 190 | Allie Quigley | 475 |
 | 191 | Kia Nurse | 473 |
