@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-18 03:22 UTC_
+_Last updated: 2026-06-18 03:23 UTC_
 
 ## Contents
 
@@ -37,7 +37,7 @@ _Last updated: 2026-06-18 03:22 UTC_
 | 16 | Brittney Griner | 6,037 |
 | 17 | Lauren Jackson | 6,005 |
 | 17 | Seimone Augustus | 6,005 |
-| 19 | **A'ja Wilson** 🔴 +18 | 5,960 |
+| 19 | **A'ja Wilson** 🔴 +20 | 5,962 |
 | 20 | Becky Hammon | 5,816 |
 | 21 | Angel McCoughtry | 5,797 |
 | 22 | Skylar Diggins | 5,645 |
@@ -48,7 +48,7 @@ _Last updated: 2026-06-18 03:22 UTC_
 | 27 | Swin Cash | 5,119 |
 | 28 | Tangela Smith | 5,035 |
 | 29 | Kelsey Mitchell | 5,003 |
-| 30 | **Tiffany Hayes** 🔴 +8 | 4,993 |
+| 30 | **Tiffany Hayes** 🔴 +10 | 4,995 |
 | 31 | Taj McWilliams-Franklin | 4,992 |
 | 32 | Maya Moore | 4,984 |
 | 33 | Sheryl Swoopes | 4,875 |
@@ -66,8 +66,8 @@ _Last updated: 2026-06-18 03:22 UTC_
 | 45 | Kelsey Plum | 4,395 |
 | 46 | Courtney Vandersloot | 4,352 |
 | 47 | Allisha Gray | 4,339 |
-| 48 | Sophia Young-Malcolm | 4,300 |
-| 49 | **Kahleah Copper** 🔴 +16 | 4,299 |
+| 48 | **Kahleah Copper** 🔴 +18 | 4,301 |
+| 49 | Sophia Young-Malcolm | 4,300 |
 | 50 | Plenette Pierson | 4,258 |
 | 51 | **Dearica Hamby** 🔴 +10 | 4,253 |
 | 51 | Monique Currie | 4,253 |
@@ -463,7 +463,7 @@ _Last updated: 2026-06-18 03:22 UTC_
 | 32 | **Jewell Loyd** 🔴 | 1,144 |
 | 33 | Renee Montgomery | 1,140 |
 | 34 | Swin Cash | 1,131 |
-| 35 | **Jackie Young** 🔴 +4 | 1,091 |
+| 35 | **Jackie Young** 🔴 +5 | 1,092 |
 | 36 | Lindsey Harding | 1,090 |
 | 37 | Sabrina Ionescu | 1,075 |
 | 38 | Katie Douglas | 1,069 |
@@ -1370,13 +1370,13 @@ _Last updated: 2026-06-18 03:22 UTC_
 | 119 | **A'ja Wilson** 🔴 +2 | 468 |
 | 120 | Allie Quigley | 467 |
 | 121 | Allisha Gray | 466 |
-| 122 | **Ariel Atkins** 🔴 +2 | 456 |
+| 122 | **Ariel Atkins** 🔴 +3 | 457 |
 | 123 | Kia Vaughn | 454 |
 | 124 | Janeth Arcain | 453 |
 | 125 | Betnijah Laney-Hamilton | 444 |
 | 125 | Elena Baranova | 444 |
 | 125 | Jantel Lavender | 444 |
-| 128 | **Jackie Young** 🔴 | 441 |
+| 128 | **Jackie Young** 🔴 +1 | 442 |
 | 129 | Alysha Clark | 440 |
 | 129 | Ann Wauters | 440 |
 | 129 | **Cheyenne Parker-Tyus** 🔴 | 440 |
@@ -1532,7 +1532,7 @@ _Last updated: 2026-06-18 03:22 UTC_
 | 76 | Allisha Gray | 726 |
 | 77 | Kristi Toliver | 722 |
 | 78 | Elizabeth Williams | 720 |
-| 79 | **Ariel Atkins** 🔴 +3 | 716 |
+| 79 | **Ariel Atkins** 🔴 +4 | 717 |
 | 80 | Cheryl Ford | 713 |
 | 81 | Jia Perkins | 711 |
 | 82 | Helen Darling | 709 |
