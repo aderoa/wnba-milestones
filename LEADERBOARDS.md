@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-18 04:10 UTC_
+_Last updated: 2026-06-18 04:11 UTC_
 
 ## Contents
 
@@ -66,7 +66,7 @@ _Last updated: 2026-06-18 04:10 UTC_
 | 45 | Kelsey Plum | 4,395 |
 | 46 | Courtney Vandersloot | 4,352 |
 | 47 | Allisha Gray | 4,339 |
-| 48 | **Kahleah Copper** 🔴 +24 | 4,307 |
+| 48 | **Kahleah Copper** 🔴 +25 | 4,308 |
 | 49 | Sophia Young-Malcolm | 4,300 |
 | 50 | Plenette Pierson | 4,258 |
 | 51 | Dearica Hamby | 4,255 |
@@ -1599,7 +1599,7 @@ _Last updated: 2026-06-18 04:10 UTC_
 | 143 | Jayne Appel Marinelli | 543 |
 | 143 | Renee Montgomery | 543 |
 | 145 | Marissa Coleman | 541 |
-| 146 | **A'ja Wilson** 🔴 +1 | 538 |
+| 146 | **A'ja Wilson** 🔴 +2 | 539 |
 | 147 | Kristen Rasmussen | 533 |
 | 148 | Amanda Zahui B | 530 |
 | 149 | Damiris Dantas | 527 |
