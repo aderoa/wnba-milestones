@@ -1,5 +1,14 @@
 [
   {
+    "ts": "2026-06-18T00:58:00+00:00",
+    "text": "Sonia Citron reached 800 career points (now 802) \u2014 (1:52 - 4th \u2014 WSH @ CON)",
+    "kind": "round",
+    "player": "Sonia Citron",
+    "stat": "points",
+    "value": 800,
+    "new_total": 802
+  },
+  {
     "ts": "2026-06-18T00:56:00+00:00",
     "text": "Michaela Onyenwere passed Helen Darling and Matee Ajavon for #151 all-time in three-pointers (career 145) \u2014 up from #156 entering today \u2014 (2:40 - 4th \u2014 WSH @ CON)",
     "kind": "rank_pass",
@@ -2976,17 +2985,5 @@
     "stat": "points",
     "value": 3200,
     "new_total": 3201
-  },
-  {
-    "ts": "2026-06-06T12:04:00+00:00",
-    "text": "Brittney Griner passed Breanna Stewart for #17 all-time in rebounds (career 2,564) \u2014 up from #18 entering today \u2014 (Final \u2014 CON @ CHI)",
-    "kind": "rank_pass",
-    "player": "Brittney Griner",
-    "stat": "rebounds",
-    "rank": 17,
-    "passed_players": [
-      "Breanna Stewart"
-    ],
-    "new_total": 2564
   }
 ]

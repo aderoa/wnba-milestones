@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-18 00:58 UTC
+
+- **Sonia Citron** reached **800** career points (now 802) — _1:52 - 4th — WSH @ CON_
+
 ## 2026-06-18 00:56 UTC
 
 - **Michaela Onyenwere** passed **Helen Darling** and **Matee Ajavon** for **#151** all-time in three-pointers (career 145) — up from #156 entering today — _2:40 - 4th — WSH @ CON_
