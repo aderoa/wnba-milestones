@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-18 02:47 UTC_
+_Last updated: 2026-06-18 02:48 UTC_
 
 ## Contents
 
@@ -58,7 +58,7 @@ _Last updated: 2026-06-18 02:47 UTC_
 | 37 | **Alyssa Thomas** 🔴 +2 | 4,655 |
 | 38 | **Arike Ogunbowale** 🔴 +6 | 4,618 |
 | 39 | Penny Taylor | 4,595 |
-| 40 | **Natasha Howard** 🔴 +6 | 4,534 |
+| 40 | **Natasha Howard** 🔴 +9 | 4,537 |
 | 41 | **Chelsea Gray** 🔴 +3 | 4,509 |
 | 42 | Kristi Toliver | 4,474 |
 | 43 | Crystal Langhorne | 4,433 |
@@ -263,8 +263,8 @@ _Last updated: 2026-06-18 02:47 UTC_
 | 37 | Wendy Palmer | 1,824 |
 | 38 | Sophia Young-Malcolm | 1,807 |
 | 39 | Lindsay Whalen | 1,805 |
-| 40 | Camille Smith | 1,802 |
-| 40 | **Courtney Williams** 🔴 +1 | 1,802 |
+| 40 | **Courtney Williams** 🔴 +2 | 1,803 |
+| 41 | Camille Smith | 1,802 |
 | 42 | **Kiah Stokes** 🔴 +5 | 1,795 |
 | 43 | Asjha Jones | 1,751 |
 | 44 | **Stefanie Dolson** 🔴 +2 | 1,690 |
@@ -445,7 +445,7 @@ _Last updated: 2026-06-18 02:47 UTC_
 | 14 | Danielle Robinson | 1,480 |
 | 15 | Shannon Johnson | 1,423 |
 | 15 | Tanisha Wright | 1,423 |
-| 17 | **Courtney Williams** 🔴 +2 | 1,407 |
+| 17 | **Courtney Williams** 🔴 +3 | 1,408 |
 | 18 | Temeka Johnson | 1,382 |
 | 19 | Jasmine Thomas | 1,355 |
 | 20 | Briann January | 1,339 |
@@ -547,7 +547,7 @@ _Last updated: 2026-06-18 02:47 UTC_
 | 116 | Janel McCarville | 551 |
 | 116 | Svetlana Abrosimova | 551 |
 | 118 | Michele Timms | 549 |
-| 119 | **Veronica Burton** 🔴 +2 | 539 |
+| 119 | **Veronica Burton** 🔴 +3 | 540 |
 | 120 | Marie Ferdinand-Harris | 528 |
 | 121 | Margo Dydek | 524 |
 | 122 | Myisha Hines-Allen | 520 |
@@ -655,8 +655,8 @@ _Last updated: 2026-06-18 02:47 UTC_
 | 19 | Erika de Souza | 370 |
 | 20 | Jessica Breland | 367 |
 | 21 | **Natasha Howard** 🔴 +1 | 364 |
-| 22 | **DeWanna Bonner** 🔴 +2 | 355 |
-| 23 | Ezi Magbegor | 354 |
+| 22 | **DeWanna Bonner** 🔴 +1 | 354 |
+| 22 | Ezi Magbegor | 354 |
 | 24 | Diana Taurasi | 349 |
 | 24 | Elena Delle Donne | 349 |
 | 26 | DeLisha Milton-Jones | 339 |
@@ -704,7 +704,7 @@ _Last updated: 2026-06-18 02:47 UTC_
 | 68 | Jantel Lavender | 170 |
 | 69 | Camille Smith | 169 |
 | 70 | Shameka Christon | 165 |
-| 71 | **Nia Coffey** 🔴 | 163 |
+| 71 | **Nia Coffey** 🔴 +1 | 164 |
 | 72 | Cheryl Ford | 160 |
 | 73 | Kara Braxton | 157 |
 | 74 | Allisha Gray | 156 |
@@ -1532,7 +1532,7 @@ _Last updated: 2026-06-18 02:47 UTC_
 | 76 | Allisha Gray | 726 |
 | 77 | Kristi Toliver | 722 |
 | 78 | Elizabeth Williams | 720 |
-| 79 | **Ariel Atkins** 🔴 +1 | 714 |
+| 79 | **Ariel Atkins** 🔴 +2 | 715 |
 | 80 | Cheryl Ford | 713 |
 | 81 | Jia Perkins | 711 |
 | 82 | Helen Darling | 709 |
