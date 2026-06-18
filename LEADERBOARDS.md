@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-18 03:12 UTC_
+_Last updated: 2026-06-18 03:13 UTC_
 
 ## Contents
 
@@ -56,7 +56,7 @@ _Last updated: 2026-06-18 03:12 UTC_
 | 35 | Chamique Holdsclaw | 4,713 |
 | 36 | Elena Delle Donne | 4,706 |
 | 37 | **Alyssa Thomas** 🔴 +6 | 4,659 |
-| 38 | **Arike Ogunbowale** 🔴 +13 | 4,625 |
+| 38 | **Arike Ogunbowale** 🔴 +14 | 4,626 |
 | 39 | Penny Taylor | 4,595 |
 | 40 | **Natasha Howard** 🔴 +10 | 4,538 |
 | 41 | **Chelsea Gray** 🔴 +3 | 4,509 |
@@ -885,7 +885,7 @@ _Last updated: 2026-06-18 03:12 UTC_
 | 44 | Katie Smith | 408 |
 | 45 | Cappie Pondexter | 405 |
 | 46 | Nicole Powell | 401 |
-| 47 | **Dearica Hamby** 🔴 +1 | 399 |
+| 47 | **Dearica Hamby** 🔴 +2 | 400 |
 | 48 | Jasmine Thomas | 394 |
 | 49 | Danielle Robinson | 389 |
 | 50 | Deanna Nolan | 388 |
@@ -1118,9 +1118,9 @@ _Last updated: 2026-06-18 03:12 UTC_
 | 72 | Nikki Teasley | 304 |
 | 73 | Vickie Johnson | 295 |
 | 74 | Seimone Augustus | 293 |
-| 75 | **Bridget Carleton** 🔴 +3 | 290 |
-| 75 | Candice Wiggins | 290 |
-| 75 | Tully Bevilaqua | 290 |
+| 75 | **Bridget Carleton** 🔴 +4 | 291 |
+| 76 | Candice Wiggins | 290 |
+| 76 | Tully Bevilaqua | 290 |
 | 78 | **Kayla Thornton** 🔴 +1 | 289 |
 | 79 | Alana Beard | 288 |
 | 80 | Monique Currie | 284 |
@@ -1307,7 +1307,7 @@ _Last updated: 2026-06-18 03:12 UTC_
 | 56 | Tammy Sutton-Brown | 672 |
 | 57 | Deanna Nolan | 669 |
 | 58 | Chasity Melvin | 666 |
-| 59 | **Courtney Williams** 🔴 +2 | 664 |
+| 59 | **Courtney Williams** 🔴 +3 | 665 |
 | 60 | Vickie Johnson | 660 |
 | 61 | Yolanda Griffith | 653 |
 | 62 | Sheri Sam | 650 |
@@ -1606,9 +1606,9 @@ _Last updated: 2026-06-18 03:12 UTC_
 | 149 | **Jackie Young** 🔴 +2 | 527 |
 | 151 | Candice Wiggins | 525 |
 | 151 | Epiphanny Prince | 525 |
-| 153 | Armintie Herrington | 523 |
-| 153 | **Kayla McBride** 🔴 +1 | 523 |
-| 153 | Sophie Cunningham | 523 |
+| 153 | **Kayla McBride** 🔴 +2 | 524 |
+| 154 | Armintie Herrington | 523 |
+| 154 | Sophie Cunningham | 523 |
 | 156 | Sheryl Swoopes | 519 |
 | 157 | Monique Billings | 517 |
 | 157 | Nikki McCray | 517 |
