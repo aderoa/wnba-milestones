@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-18 03:51 UTC_
+_Last updated: 2026-06-18 03:52 UTC_
 
 ## Contents
 
@@ -202,7 +202,7 @@ _Last updated: 2026-06-18 03:51 UTC_
 | 181 | Rachel Banham | 1,823 |
 | 182 | Danielle Adams | 1,820 |
 | 183 | Charde Houston | 1,797 |
-| 184 | **NaLyssa Smith** 🔴 +15 | 1,790 |
+| 184 | **NaLyssa Smith** 🔴 +17 | 1,792 |
 | 185 | Kamila Vodichkova | 1,767 |
 | 186 | Tully Bevilaqua | 1,763 |
 | 187 | Sandy Brondello | 1,759 |
@@ -238,7 +238,7 @@ _Last updated: 2026-06-18 03:51 UTC_
 | 12 | **Alyssa Thomas** 🔴 +4 | 2,821 |
 | 13 | Jonquel Jones | 2,671 |
 | 14 | Sancho Lyttle | 2,596 |
-| 15 | **A'ja Wilson** 🔴 +6 | 2,580 |
+| 15 | **A'ja Wilson** 🔴 +7 | 2,581 |
 | 16 | DeLisha Milton-Jones | 2,574 |
 | 17 | Breanna Stewart | 2,566 |
 | 18 | Brittney Griner | 2,559 |
@@ -434,7 +434,7 @@ _Last updated: 2026-06-18 03:51 UTC_
 | 3 | Ticha Penicheiro | 2,588 |
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
-| 6 | **Chelsea Gray** 🔴 +5 | 1,940 |
+| 6 | **Chelsea Gray** 🔴 +6 | 1,941 |
 | 7 | **Alyssa Thomas** 🔴 +11 | 1,914 |
 | 8 | Skylar Diggins | 1,820 |
 | 9 | Natasha Cloud | 1,776 |
@@ -737,8 +737,8 @@ _Last updated: 2026-06-18 03:51 UTC_
 | 101 | **Alyssa Thomas** 🔴 | 123 |
 | 102 | Natalie Williams | 122 |
 | 103 | Ebony Hoffman | 121 |
+| 103 | **Emily Engstler** 🔴 +2 | 121 |
 | 103 | Essence Carson | 121 |
-| 105 | **Emily Engstler** 🔴 +1 | 120 |
 | 106 | Krystal Thomas | 118 |
 | 106 | **Natasha Mack** 🔴 +1 | 118 |
 | 108 | Andrea Stinson | 117 |
@@ -845,7 +845,7 @@ _Last updated: 2026-06-18 03:51 UTC_
 | 4 | Alana Beard | 710 |
 | 5 | **Nneka Ogwumike** 🔴 +1 | 679 |
 | 6 | Sheryl Swoopes | 657 |
-| 7 | **DeWanna Bonner** 🔴 +1 | 644 |
+| 7 | **DeWanna Bonner** 🔴 +2 | 645 |
 | 8 | Jia Perkins | 634 |
 | 9 | Sancho Lyttle | 630 |
 | 10 | Angel McCoughtry | 627 |
@@ -909,8 +909,8 @@ _Last updated: 2026-06-18 03:51 UTC_
 | 67 | Tamecka Dixon | 355 |
 | 69 | Vicky Bullett | 353 |
 | 70 | Svetlana Abrosimova | 352 |
+| 71 | **A'ja Wilson** 🔴 +5 | 351 |
 | 71 | Natasha Cloud | 351 |
-| 72 | **A'ja Wilson** 🔴 +4 | 350 |
 | 73 | **Arike Ogunbowale** 🔴 +1 | 346 |
 | 73 | Janeth Arcain | 346 |
 | 75 | Helen Darling | 343 |
@@ -1261,7 +1261,7 @@ _Last updated: 2026-06-18 03:51 UTC_
 | 10 | Candace Parker | 1,062 |
 | 11 | Tamika Catchings | 1,041 |
 | 12 | Tina Charles | 1,040 |
-| 13 | **Alyssa Thomas** 🔴 +4 | 1,007 |
+| 13 | **Alyssa Thomas** 🔴 +5 | 1,008 |
 | 14 | Lindsay Whalen | 1,002 |
 | 15 | Sylvia Fowles | 961 |
 | 16 | Tanisha Wright | 954 |
@@ -1375,8 +1375,8 @@ _Last updated: 2026-06-18 03:51 UTC_
 | 124 | Janeth Arcain | 453 |
 | 125 | Betnijah Laney-Hamilton | 444 |
 | 125 | Elena Baranova | 444 |
+| 125 | **Jackie Young** 🔴 +3 | 444 |
 | 125 | Jantel Lavender | 444 |
-| 128 | **Jackie Young** 🔴 +2 | 443 |
 | 129 | Alysha Clark | 440 |
 | 129 | Ann Wauters | 440 |
 | 129 | **Cheyenne Parker-Tyus** 🔴 | 440 |
