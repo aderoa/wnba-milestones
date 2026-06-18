@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-18 03:04 UTC_
+_Last updated: 2026-06-18 03:05 UTC_
 
 ## Contents
 
@@ -43,7 +43,7 @@ _Last updated: 2026-06-18 03:04 UTC_
 | 22 | Skylar Diggins | 5,645 |
 | 23 | DeLisha Milton-Jones | 5,571 |
 | 24 | Katie Douglas | 5,545 |
-| 25 | **Kayla McBride** 🔴 +5 | 5,527 |
+| 25 | **Kayla McBride** 🔴 +8 | 5,530 |
 | 26 | Lindsay Whalen | 5,511 |
 | 27 | Swin Cash | 5,119 |
 | 28 | Tangela Smith | 5,035 |
@@ -381,7 +381,7 @@ _Last updated: 2026-06-18 03:04 UTC_
 | 155 | Shameka Christon | 867 |
 | 156 | **Alanna Smith** 🔴 | 864 |
 | 157 | Krystal Thomas | 862 |
-| 158 | **Nia Coffey** 🔴 +3 | 857 |
+| 158 | **Nia Coffey** 🔴 +4 | 858 |
 | 159 | Marina Mabrey | 849 |
 | 160 | Leilani Mitchell | 845 |
 | 161 | Essence Carson | 833 |
@@ -875,9 +875,9 @@ _Last updated: 2026-06-18 03:04 UTC_
 | 34 | **Natasha Howard** 🔴 | 447 |
 | 35 | **Chelsea Gray** 🔴 +1 | 446 |
 | 36 | **Jewell Loyd** 🔴 | 445 |
-| 37 | **Kayla McBride** 🔴 +2 | 438 |
 | 37 | Sheri Sam | 438 |
-| 39 | Camille Smith | 437 |
+| 38 | Camille Smith | 437 |
+| 38 | **Kayla McBride** 🔴 +1 | 437 |
 | 40 | Candice Dupree | 431 |
 | 41 | Epiphanny Prince | 429 |
 | 42 | Tanisha Wright | 427 |
@@ -1049,7 +1049,7 @@ _Last updated: 2026-06-18 03:04 UTC_
 | 3 | Katie Smith | 906 |
 | 4 | Becky Hammon | 825 |
 | 5 | Tina Thompson | 745 |
-| 6 | **Kayla McBride** 🔴 +1 | 738 |
+| 6 | **Kayla McBride** 🔴 +2 | 739 |
 | 7 | Katie Douglas | 723 |
 | 8 | Kelsey Mitchell | 687 |
 | 9 | **Jewell Loyd** 🔴 | 678 |
