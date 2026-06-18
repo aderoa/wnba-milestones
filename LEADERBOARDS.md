@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-18 00:34 UTC_
+_Last updated: 2026-06-18 00:35 UTC_
 
 ## Contents
 
@@ -32,7 +32,7 @@ _Last updated: 2026-06-18 00:34 UTC_
 | 11 | Katie Smith | 6,450 |
 | 12 | Sylvia Fowles | 6,413 |
 | 13 | Lisa Leslie | 6,251 |
-| 14 | **Breanna Stewart** 🔴 +6 | 6,179 |
+| 14 | **Breanna Stewart** 🔴 +8 | 6,181 |
 | 15 | Jewell Loyd | 6,078 |
 | 16 | **Brittney Griner** 🔴 +4 | 6,035 |
 | 17 | Lauren Jackson | 6,005 |
@@ -236,7 +236,7 @@ _Last updated: 2026-06-18 00:34 UTC_
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | Alyssa Thomas | 2,817 |
-| 13 | **Jonquel Jones** 🔴 +2 | 2,665 |
+| 13 | **Jonquel Jones** 🔴 +3 | 2,666 |
 | 14 | Sancho Lyttle | 2,596 |
 | 15 | A'ja Wilson | 2,574 |
 | 15 | DeLisha Milton-Jones | 2,574 |
@@ -313,8 +313,8 @@ _Last updated: 2026-06-18 00:34 UTC_
 | 87 | Betty Lennox | 1,296 |
 | 88 | Tari Phillips | 1,274 |
 | 89 | Janel McCarville | 1,261 |
+| 90 | **Azurá Stevens** 🔴 +2 | 1,258 |
 | 90 | Liz Cambage | 1,258 |
-| 91 | **Azurá Stevens** 🔴 +1 | 1,257 |
 | 92 | Tiffany Hayes | 1,244 |
 | 93 | Ezi Magbegor | 1,243 |
 | 94 | Myisha Hines-Allen | 1,239 |
@@ -524,7 +524,7 @@ _Last updated: 2026-06-18 00:34 UTC_
 | 93 | A'ja Wilson | 637 |
 | 93 | Asjha Jones | 637 |
 | 95 | Jennifer Azzi | 636 |
-| 96 | **Jonquel Jones** 🔴 | 625 |
+| 96 | **Jonquel Jones** 🔴 +1 | 626 |
 | 97 | Natisha Hiedeman | 624 |
 | 98 | Sami Whitcomb | 623 |
 | 99 | Alysha Clark | 616 |
@@ -1443,9 +1443,9 @@ _Last updated: 2026-06-18 00:34 UTC_
 | 192 | Isabelle Harrison | 300 |
 | 193 | Crystal Robinson | 299 |
 | 194 | Michele Timms | 297 |
-| 195 | **Rachel Banham** 🔴 | 295 |
-| 196 | **Azurá Stevens** 🔴 +2 | 294 |
-| 196 | Kayla Thornton | 294 |
+| 195 | **Rachel Banham** 🔴 +1 | 296 |
+| 196 | **Azurá Stevens** 🔴 +3 | 295 |
+| 197 | Kayla Thornton | 294 |
 | 198 | Natisha Hiedeman | 289 |
 | 199 | Alexis Hornbuckle | 288 |
 | 199 | Kristen Rasmussen | 288 |

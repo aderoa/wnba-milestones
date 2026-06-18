@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-18T00:35:00+00:00",
+    "text": "Azur\u00e1 Stevens passed Kayla Thornton for #196 all-time in turnovers (career 295) \u2014 up from #197 entering today \u2014 (6:29 - 2nd \u2014 NY @ CHI)",
+    "kind": "rank_pass",
+    "player": "Azur\u00e1 Stevens",
+    "stat": "turnovers",
+    "rank": 196,
+    "passed_players": [
+      "Kayla Thornton"
+    ],
+    "new_total": 295
+  },
+  {
     "ts": "2026-06-17T01:09:00+00:00",
     "text": "Kia Nurse passed Jordin Canada, Kara Braxton, and Matee Ajavon for #139 all-time in points (career 2,239) \u2014 up from #142 entering today \u2014 (57.9 - 4th \u2014 TOR @ IND)",
     "kind": "rank_pass",
@@ -2973,18 +2985,5 @@
     "stat": "fouls",
     "value": 100,
     "new_total": 102
-  },
-  {
-    "ts": "2026-06-06T12:04:00+00:00",
-    "text": "Azur\u00e1 Stevens passed Janel McCarville and Liz Cambage for #89 all-time in rebounds (career 1,266) \u2014 up from #91 entering today \u2014 (Final \u2014 CON @ CHI)",
-    "kind": "rank_pass",
-    "player": "Azur\u00e1 Stevens",
-    "stat": "rebounds",
-    "rank": 89,
-    "passed_players": [
-      "Janel McCarville",
-      "Liz Cambage"
-    ],
-    "new_total": 1266
   }
 ]

@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-18 00:35 UTC
+
+- **Azurá Stevens** passed **Kayla Thornton** for **#196** all-time in turnovers (career 295) — up from #197 entering today — _6:29 - 2nd — NY @ CHI_
+
 ## 2026-06-17 01:09 UTC
 
 - **Kia Nurse** passed **Jordin Canada**, **Kara Braxton**, and **Matee Ajavon** for **#139** all-time in points (career 2,239) — up from #142 entering today — _57.9 - 4th — TOR @ IND_
