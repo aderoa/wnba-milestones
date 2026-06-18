@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-18 03:58 UTC_
+_Last updated: 2026-06-18 03:59 UTC_
 
 ## Contents
 
@@ -162,8 +162,8 @@ _Last updated: 2026-06-18 03:58 UTC_
 | 139 | Matee Ajavon | 2,237 |
 | 142 | Kia Nurse | 2,231 |
 | 143 | Dawn Staley | 2,228 |
-| 144 | Satou Sabally | 2,221 |
-| 144 | **Teaira McCowan** 🔴 | 2,221 |
+| 144 | **Teaira McCowan** 🔴 +2 | 2,223 |
+| 145 | Satou Sabally | 2,221 |
 | 146 | Janel McCarville | 2,215 |
 | 147 | Sami Whitcomb | 2,211 |
 | 148 | Sophia Witherspoon | 2,210 |
@@ -194,7 +194,7 @@ _Last updated: 2026-06-18 03:58 UTC_
 | 173 | Nakia Sanford | 1,915 |
 | 174 | Ebony Hoffman | 1,909 |
 | 175 | Candice Wiggins | 1,901 |
-| 176 | **Natisha Hiedeman** 🔴 +16 | 1,874 |
+| 176 | **Natisha Hiedeman** 🔴 +19 | 1,877 |
 | 177 | Isabelle Harrison | 1,832 |
 | 178 | Damiris Dantas | 1,830 |
 | 179 | Tianna Hawkins | 1,825 |
@@ -238,7 +238,7 @@ _Last updated: 2026-06-18 03:58 UTC_
 | 12 | **Alyssa Thomas** 🔴 +4 | 2,821 |
 | 13 | Jonquel Jones | 2,671 |
 | 14 | Sancho Lyttle | 2,596 |
-| 15 | **A'ja Wilson** 🔴 +8 | 2,582 |
+| 15 | **A'ja Wilson** 🔴 +9 | 2,583 |
 | 16 | DeLisha Milton-Jones | 2,574 |
 | 17 | Breanna Stewart | 2,566 |
 | 18 | Brittney Griner | 2,559 |
@@ -524,7 +524,7 @@ _Last updated: 2026-06-18 03:58 UTC_
 | 93 | **A'ja Wilson** 🔴 +3 | 640 |
 | 94 | Asjha Jones | 637 |
 | 95 | Jennifer Azzi | 636 |
-| 96 | **Natisha Hiedeman** 🔴 +5 | 629 |
+| 96 | **Natisha Hiedeman** 🔴 +6 | 630 |
 | 97 | Jonquel Jones | 628 |
 | 98 | Sami Whitcomb | 623 |
 | 99 | Alysha Clark | 616 |
@@ -1112,8 +1112,8 @@ _Last updated: 2026-06-18 03:58 UTC_
 | 66 | DeLisha Milton-Jones | 312 |
 | 66 | Ruthie Bolton | 312 |
 | 68 | Tan White | 311 |
-| 69 | Kedra Holland-Corn | 307 |
-| 69 | **Natisha Hiedeman** 🔴 +4 | 307 |
+| 69 | **Natisha Hiedeman** 🔴 +5 | 308 |
+| 70 | Kedra Holland-Corn | 307 |
 | 71 | Kelly Miller | 305 |
 | 72 | Nikki Teasley | 304 |
 | 73 | Vickie Johnson | 295 |
