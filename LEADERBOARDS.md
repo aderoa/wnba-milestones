@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-18 02:59 UTC_
+_Last updated: 2026-06-18 03:00 UTC_
 
 ## Contents
 
@@ -37,7 +37,7 @@ _Last updated: 2026-06-18 02:59 UTC_
 | 16 | Brittney Griner | 6,037 |
 | 17 | Lauren Jackson | 6,005 |
 | 17 | Seimone Augustus | 6,005 |
-| 19 | **A'ja Wilson** 🔴 +17 | 5,959 |
+| 19 | **A'ja Wilson** 🔴 +18 | 5,960 |
 | 20 | Becky Hammon | 5,816 |
 | 21 | Angel McCoughtry | 5,797 |
 | 22 | Skylar Diggins | 5,645 |
@@ -317,8 +317,8 @@ _Last updated: 2026-06-18 02:59 UTC_
 | 91 | Liz Cambage | 1,258 |
 | 92 | **Tiffany Hayes** 🔴 | 1,244 |
 | 93 | Ezi Magbegor | 1,243 |
-| 94 | Myisha Hines-Allen | 1,239 |
-| 95 | **Brianna Turner** 🔴 +1 | 1,238 |
+| 94 | **Brianna Turner** 🔴 +3 | 1,240 |
+| 95 | Myisha Hines-Allen | 1,239 |
 | 96 | **Kayla McBride** 🔴 +2 | 1,228 |
 | 96 | Seimone Augustus | 1,228 |
 | 98 | **Chelsea Gray** 🔴 +1 | 1,222 |
@@ -327,7 +327,7 @@ _Last updated: 2026-06-18 02:59 UTC_
 | 101 | Latasha Byears | 1,190 |
 | 101 | Tanisha Wright | 1,190 |
 | 103 | Vicky Bullett | 1,189 |
-| 104 | **Kahleah Copper** 🔴 +1 | 1,172 |
+| 104 | **Kahleah Copper** 🔴 +2 | 1,173 |
 | 105 | Nykesha Sales | 1,148 |
 | 106 | Brittney Sykes | 1,145 |
 | 107 | Shannon Johnson | 1,143 |

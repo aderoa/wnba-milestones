@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-18T03:00:00+00:00",
+    "text": "Brianna Turner passed Myisha Hines-Allen for #94 all-time in rebounds (career 1,240) \u2014 up from #95 entering today \u2014 (1:05 - 2nd \u2014 LV @ PHX)",
+    "kind": "rank_pass",
+    "player": "Brianna Turner",
+    "stat": "rebounds",
+    "rank": 94,
+    "passed_players": [
+      "Myisha Hines-Allen"
+    ],
+    "new_total": 1240
+  },
+  {
     "ts": "2026-06-18T02:34:00+00:00",
     "text": "NaLyssa Smith passed Jewell Loyd and Sandrine Gruda for #139 all-time in blocks (career 95) \u2014 up from #140 entering today \u2014 (24.6 - 1st \u2014 LV @ PHX)",
     "kind": "rank_pass",
@@ -2977,17 +2989,5 @@
       "Kelly Miller"
     ],
     "new_total": 306
-  },
-  {
-    "ts": "2026-06-06T18:13:00+00:00",
-    "text": "Natisha Hiedeman passed Azur\u00e1 Stevens for #197 all-time in turnovers (career 293) \u2014 up from #198 entering today \u2014 (6:40 - 3rd \u2014 SEA @ MIN)",
-    "kind": "rank_pass",
-    "player": "Natisha Hiedeman",
-    "stat": "turnovers",
-    "rank": 197,
-    "passed_players": [
-      "Azur\u00e1 Stevens"
-    ],
-    "new_total": 293
   }
 ]
