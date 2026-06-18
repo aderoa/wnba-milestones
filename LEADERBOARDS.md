@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-18 02:30 UTC_
+_Last updated: 2026-06-18 02:31 UTC_
 
 ## Contents
 
@@ -136,8 +136,8 @@ _Last updated: 2026-06-18 02:30 UTC_
 | 115 | Janeth Arcain | 2,633 |
 | 116 | Temeka Johnson | 2,620 |
 | 117 | Leilani Mitchell | 2,618 |
+| 118 | **Cheyenne Parker-Tyus** 🔴 +2 | 2,601 |
 | 118 | Cynthia Cooper | 2,601 |
-| 119 | **Cheyenne Parker-Tyus** 🔴 | 2,599 |
 | 120 | Tan White | 2,595 |
 | 121 | Kelly Miller | 2,558 |
 | 122 | Glory Johnson | 2,531 |
@@ -379,7 +379,7 @@ _Last updated: 2026-06-18 02:30 UTC_
 | 153 | Mistie Bass | 888 |
 | 154 | **Erica Wheeler** 🔴 +1 | 873 |
 | 155 | Shameka Christon | 867 |
-| 156 | **Alanna Smith** 🔴 +1 | 865 |
+| 156 | **Alanna Smith** 🔴 | 864 |
 | 157 | Krystal Thomas | 862 |
 | 158 | **Nia Coffey** 🔴 +2 | 856 |
 | 159 | Marina Mabrey | 849 |
@@ -435,7 +435,7 @@ _Last updated: 2026-06-18 02:30 UTC_
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
 | 6 | **Chelsea Gray** 🔴 +3 | 1,938 |
-| 7 | **Alyssa Thomas** 🔴 +4 | 1,907 |
+| 7 | **Alyssa Thomas** 🔴 +5 | 1,908 |
 | 8 | Skylar Diggins | 1,820 |
 | 9 | Natasha Cloud | 1,776 |
 | 10 | Becky Hammon | 1,705 |
@@ -521,8 +521,8 @@ _Last updated: 2026-06-18 02:30 UTC_
 | 89 | Plenette Pierson | 651 |
 | 91 | Brittney Griner | 649 |
 | 92 | Alex Bentley | 645 |
-| 93 | **A'ja Wilson** 🔴 | 637 |
-| 93 | Asjha Jones | 637 |
+| 93 | **A'ja Wilson** 🔴 +1 | 638 |
+| 94 | Asjha Jones | 637 |
 | 95 | Jennifer Azzi | 636 |
 | 96 | Jonquel Jones | 628 |
 | 97 | **Natisha Hiedeman** 🔴 +2 | 626 |
@@ -655,8 +655,8 @@ _Last updated: 2026-06-18 02:30 UTC_
 | 19 | Erika de Souza | 370 |
 | 20 | Jessica Breland | 367 |
 | 21 | **Natasha Howard** 🔴 +1 | 364 |
+| 22 | **DeWanna Bonner** 🔴 +1 | 354 |
 | 22 | Ezi Magbegor | 354 |
-| 23 | **DeWanna Bonner** 🔴 | 353 |
 | 24 | Diana Taurasi | 349 |
 | 24 | Elena Delle Donne | 349 |
 | 26 | DeLisha Milton-Jones | 339 |
