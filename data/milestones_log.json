@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-18T00:45:00+00:00",
+    "text": "Sabrina Ionescu passed Arike Ogunbowale for #101 all-time in turnovers (career 521) \u2014 up from #103 entering today \u2014 (2:10 - 2nd \u2014 NY @ CHI)",
+    "kind": "rank_pass",
+    "player": "Sabrina Ionescu",
+    "stat": "turnovers",
+    "rank": 101,
+    "passed_players": [
+      "Arike Ogunbowale"
+    ],
+    "new_total": 521
+  },
+  {
     "ts": "2026-06-18T00:42:00+00:00",
     "text": "Azur\u00e1 Stevens passed Rachel Banham for #195 all-time in turnovers (career 296) \u2014 up from #197 entering today \u2014 (4:16 - 2nd \u2014 NY @ CHI)",
     "kind": "rank_pass",
@@ -2976,17 +2988,5 @@
       "Plenette Pierson"
     ],
     "new_total": 653
-  },
-  {
-    "ts": "2026-06-06T12:04:00+00:00",
-    "text": "Brittney Griner passed Lauren Jackson for #28 all-time in fouls (career 983) \u2014 up from #29 entering today \u2014 (Final \u2014 CON @ CHI)",
-    "kind": "rank_pass",
-    "player": "Brittney Griner",
-    "stat": "fouls",
-    "rank": 28,
-    "passed_players": [
-      "Lauren Jackson"
-    ],
-    "new_total": 983
   }
 ]
