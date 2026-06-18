@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-18 02:18 UTC_
+_Last updated: 2026-06-18 02:19 UTC_
 
 ## Contents
 
@@ -71,8 +71,8 @@ _Last updated: 2026-06-18 02:18 UTC_
 | 50 | Plenette Pierson | 4,258 |
 | 51 | Monique Currie | 4,253 |
 | 52 | **Dearica Hamby** 🔴 +7 | 4,250 |
-| 53 | Jonquel Jones | 4,241 |
-| 54 | **Courtney Williams** 🔴 +2 | 4,240 |
+| 53 | **Courtney Williams** 🔴 +4 | 4,242 |
+| 54 | Jonquel Jones | 4,241 |
 | 55 | Vickie Johnson | 4,230 |
 | 56 | Yolanda Griffith | 4,224 |
 | 57 | Rebekkah Brunson | 4,133 |
@@ -1532,8 +1532,8 @@ _Last updated: 2026-06-18 02:18 UTC_
 | 76 | Allisha Gray | 726 |
 | 77 | Kristi Toliver | 722 |
 | 78 | Elizabeth Williams | 720 |
-| 79 | **Ariel Atkins** 🔴 | 713 |
-| 79 | Cheryl Ford | 713 |
+| 79 | **Ariel Atkins** 🔴 +1 | 714 |
+| 80 | Cheryl Ford | 713 |
 | 81 | Jia Perkins | 711 |
 | 82 | Helen Darling | 709 |
 | 83 | Matee Ajavon | 701 |
@@ -1554,9 +1554,9 @@ _Last updated: 2026-06-18 02:18 UTC_
 | 98 | Cheyenne Parker-Tyus | 674 |
 | 99 | Breanna Stewart | 668 |
 | 100 | Chamique Holdsclaw | 667 |
+| 101 | **Jewell Loyd** 🔴 +1 | 662 |
 | 101 | Tianna Hawkins | 662 |
-| 102 | **Jewell Loyd** 🔴 | 661 |
-| 102 | **Kayla Thornton** 🔴 | 661 |
+| 103 | **Kayla Thornton** 🔴 | 661 |
 | 104 | Tari Phillips | 648 |
 | 105 | Marie Ferdinand-Harris | 646 |
 | 106 | Charlotte Smith | 638 |
