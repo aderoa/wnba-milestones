@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-18 02:20 UTC_
+_Last updated: 2026-06-18 02:21 UTC_
 
 ## Contents
 
@@ -37,7 +37,7 @@ _Last updated: 2026-06-18 02:20 UTC_
 | 16 | Brittney Griner | 6,037 |
 | 17 | Lauren Jackson | 6,005 |
 | 17 | Seimone Augustus | 6,005 |
-| 19 | **A'ja Wilson** 🔴 +2 | 5,944 |
+| 19 | **A'ja Wilson** 🔴 +7 | 5,949 |
 | 20 | Becky Hammon | 5,816 |
 | 21 | Angel McCoughtry | 5,797 |
 | 22 | Skylar Diggins | 5,645 |
@@ -238,8 +238,8 @@ _Last updated: 2026-06-18 02:20 UTC_
 | 12 | **Alyssa Thomas** 🔴 | 2,817 |
 | 13 | Jonquel Jones | 2,671 |
 | 14 | Sancho Lyttle | 2,596 |
-| 15 | **A'ja Wilson** 🔴 | 2,574 |
-| 15 | DeLisha Milton-Jones | 2,574 |
+| 15 | **A'ja Wilson** 🔴 +1 | 2,575 |
+| 16 | DeLisha Milton-Jones | 2,574 |
 | 17 | Breanna Stewart | 2,566 |
 | 18 | Brittney Griner | 2,559 |
 | 19 | Swin Cash | 2,521 |
@@ -335,8 +335,8 @@ _Last updated: 2026-06-18 02:20 UTC_
 | 109 | Andrea Stinson | 1,127 |
 | 109 | Tamika Raymond | 1,127 |
 | 111 | Adrienne Goodson | 1,126 |
-| 112 | **NaLyssa Smith** 🔴 | 1,115 |
-| 112 | Natasha Cloud | 1,115 |
+| 112 | **NaLyssa Smith** 🔴 +1 | 1,116 |
+| 113 | Natasha Cloud | 1,115 |
 | 114 | Deanna Nolan | 1,112 |
 | 115 | Aliyah Boston | 1,110 |
 | 115 | Chiney Ogwumike | 1,110 |
@@ -463,8 +463,8 @@ _Last updated: 2026-06-18 02:20 UTC_
 | 32 | **Jewell Loyd** 🔴 | 1,144 |
 | 33 | Renee Montgomery | 1,140 |
 | 34 | Swin Cash | 1,131 |
-| 35 | Lindsey Harding | 1,090 |
-| 36 | **Jackie Young** 🔴 +2 | 1,089 |
+| 35 | **Jackie Young** 🔴 +4 | 1,091 |
+| 36 | Lindsey Harding | 1,090 |
 | 37 | Sabrina Ionescu | 1,075 |
 | 38 | Katie Douglas | 1,069 |
 | 39 | Alana Beard | 1,061 |
@@ -477,7 +477,7 @@ _Last updated: 2026-06-18 02:20 UTC_
 | 46 | Tamecka Dixon | 960 |
 | 47 | Breanna Stewart | 956 |
 | 48 | Kara Lawson | 946 |
-| 49 | **Tiffany Hayes** 🔴 | 936 |
+| 49 | **Tiffany Hayes** 🔴 +1 | 937 |
 | 50 | Deanna Nolan | 930 |
 | 51 | Kelly Miller | 927 |
 | 52 | DeLisha Milton-Jones | 921 |
@@ -525,7 +525,7 @@ _Last updated: 2026-06-18 02:20 UTC_
 | 93 | Asjha Jones | 637 |
 | 95 | Jennifer Azzi | 636 |
 | 96 | Jonquel Jones | 628 |
-| 97 | **Natisha Hiedeman** 🔴 +1 | 625 |
+| 97 | **Natisha Hiedeman** 🔴 +2 | 626 |
 | 98 | Sami Whitcomb | 623 |
 | 99 | Alysha Clark | 616 |
 | 100 | Debbie Black | 612 |
@@ -1477,7 +1477,7 @@ _Last updated: 2026-06-18 02:20 UTC_
 | 21 | Michelle Snow | 1,108 |
 | 22 | Sylvia Fowles | 1,049 |
 | 23 | Tina Charles | 1,037 |
-| 24 | **Tiffany Hayes** 🔴 | 1,007 |
+| 24 | **Tiffany Hayes** 🔴 +1 | 1,008 |
 | 25 | Lindsay Whalen | 998 |
 | 26 | Rebekkah Brunson | 996 |
 | 27 | Yolanda Griffith | 991 |
@@ -1492,8 +1492,8 @@ _Last updated: 2026-06-18 02:20 UTC_
 | 36 | Tamika Whitmore | 940 |
 | 37 | Courtney Vandersloot | 938 |
 | 38 | Briann January | 921 |
+| 39 | **DeWanna Bonner** 🔴 +1 | 913 |
 | 39 | Ticha Penicheiro | 913 |
-| 40 | **DeWanna Bonner** 🔴 | 912 |
 | 41 | Shavonte Zellous | 907 |
 | 42 | Alysha Clark | 896 |
 | 43 | Jonquel Jones | 892 |
