@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-18 02:45 UTC_
+_Last updated: 2026-06-18 02:46 UTC_
 
 ## Contents
 
@@ -397,8 +397,8 @@ _Last updated: 2026-06-18 02:45 UTC_
 | 170 | **Gabby Williams** 🔴 | 795 |
 | 172 | Charlotte Smith | 794 |
 | 173 | Rhonda Mapp | 788 |
-| 174 | **Ariel Atkins** 🔴 | 786 |
-| 174 | Mercedes Russell | 786 |
+| 174 | **Ariel Atkins** 🔴 +1 | 787 |
+| 175 | Mercedes Russell | 786 |
 | 176 | Odyssey Sims | 785 |
 | 177 | Sue Wicks | 780 |
 | 178 | Lindsey Harding | 779 |
@@ -451,7 +451,7 @@ _Last updated: 2026-06-18 02:45 UTC_
 | 20 | Briann January | 1,339 |
 | 21 | Dawn Staley | 1,337 |
 | 22 | Teresa Weatherspoon | 1,333 |
-| 23 | **Erica Wheeler** 🔴 +2 | 1,308 |
+| 23 | **Erica Wheeler** 🔴 +3 | 1,309 |
 | 24 | Kristi Toliver | 1,301 |
 | 25 | Katie Smith | 1,258 |
 | 26 | Kelsey Plum | 1,237 |
