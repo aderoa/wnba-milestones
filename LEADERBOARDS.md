@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-18 03:02 UTC_
+_Last updated: 2026-06-18 03:03 UTC_
 
 ## Contents
 
@@ -67,7 +67,7 @@ _Last updated: 2026-06-18 03:02 UTC_
 | 46 | Courtney Vandersloot | 4,352 |
 | 47 | Allisha Gray | 4,339 |
 | 48 | Sophia Young-Malcolm | 4,300 |
-| 49 | **Kahleah Copper** 🔴 +12 | 4,295 |
+| 49 | **Kahleah Copper** 🔴 +14 | 4,297 |
 | 50 | Plenette Pierson | 4,258 |
 | 51 | **Dearica Hamby** 🔴 +10 | 4,253 |
 | 51 | Monique Currie | 4,253 |
@@ -249,7 +249,7 @@ _Last updated: 2026-06-18 03:02 UTC_
 | 23 | Yolanda Griffith | 2,440 |
 | 24 | **Dearica Hamby** 🔴 +5 | 2,396 |
 | 25 | Tangela Smith | 2,328 |
-| 26 | **Natasha Howard** 🔴 +9 | 2,262 |
+| 26 | **Natasha Howard** 🔴 +8 | 2,261 |
 | 27 | Erika de Souza | 2,220 |
 | 28 | Diana Taurasi | 2,201 |
 | 29 | Margo Dydek | 2,138 |
@@ -1276,7 +1276,7 @@ _Last updated: 2026-06-18 03:02 UTC_
 | 25 | Alana Beard | 854 |
 | 26 | **DeWanna Bonner** 🔴 | 837 |
 | 27 | Katie Douglas | 824 |
-| 28 | **Natasha Howard** 🔴 +1 | 822 |
+| 28 | **Natasha Howard** 🔴 +2 | 823 |
 | 29 | Betty Lennox | 800 |
 | 30 | **Nneka Ogwumike** 🔴 +2 | 797 |
 | 31 | Jasmine Thomas | 796 |
@@ -1599,7 +1599,7 @@ _Last updated: 2026-06-18 03:02 UTC_
 | 143 | Jayne Appel Marinelli | 543 |
 | 143 | Renee Montgomery | 543 |
 | 145 | Marissa Coleman | 541 |
-| 146 | **A'ja Wilson** 🔴 | 537 |
+| 146 | **A'ja Wilson** 🔴 +1 | 538 |
 | 147 | Kristen Rasmussen | 533 |
 | 148 | Amanda Zahui B | 530 |
 | 149 | Damiris Dantas | 527 |
