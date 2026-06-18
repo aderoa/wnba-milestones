@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-18 03:16 UTC
+
+- **Courtney Williams** passed **Ezi Magbegor** for **#131** all-time in fouls (career 577) — up from #132 entering today — _4:49 - 3rd — MIN @ LA_
+
 ## 2026-06-18 03:00 UTC
 
 - **Brianna Turner** passed **Myisha Hines-Allen** for **#94** all-time in rebounds (career 1,240) — up from #95 entering today — _1:05 - 2nd — LV @ PHX_

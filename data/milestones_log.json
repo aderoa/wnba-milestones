@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-18T03:16:00+00:00",
+    "text": "Courtney Williams passed Ezi Magbegor for #131 all-time in fouls (career 577) \u2014 up from #132 entering today \u2014 (4:49 - 3rd \u2014 MIN @ LA)",
+    "kind": "rank_pass",
+    "player": "Courtney Williams",
+    "stat": "fouls",
+    "rank": 131,
+    "passed_players": [
+      "Ezi Magbegor"
+    ],
+    "new_total": 577
+  },
+  {
     "ts": "2026-06-18T03:00:00+00:00",
     "text": "Brianna Turner passed Myisha Hines-Allen for #94 all-time in rebounds (career 1,240) \u2014 up from #95 entering today \u2014 (1:05 - 2nd \u2014 LV @ PHX)",
     "kind": "rank_pass",
@@ -2977,17 +2989,5 @@
       "Maya Moore"
     ],
     "new_total": 450
-  },
-  {
-    "ts": "2026-06-06T18:15:00+00:00",
-    "text": "Natisha Hiedeman passed Kelly Miller for #70 all-time in three-pointers (career 306) \u2014 up from #72 entering today \u2014 (5:56 - 3rd \u2014 SEA @ MIN)",
-    "kind": "rank_pass",
-    "player": "Natisha Hiedeman",
-    "stat": "three-pointers",
-    "rank": 70,
-    "passed_players": [
-      "Kelly Miller"
-    ],
-    "new_total": 306
   }
 ]

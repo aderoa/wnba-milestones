@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-18 03:15 UTC_
+_Last updated: 2026-06-18 03:16 UTC_
 
 ## Contents
 
@@ -150,7 +150,7 @@ _Last updated: 2026-06-18 03:15 UTC_
 | 129 | Anna DeForge | 2,413 |
 | 130 | DeMya Walker | 2,379 |
 | 131 | Alex Bentley | 2,350 |
-| 132 | **Kayla Thornton** 🔴 +3 | 2,336 |
+| 132 | **Kayla Thornton** 🔴 +6 | 2,339 |
 | 133 | Merlakia Jones | 2,308 |
 | 134 | Kia Vaughn | 2,288 |
 | 135 | Betnijah Laney-Hamilton | 2,282 |
@@ -884,8 +884,8 @@ _Last updated: 2026-06-18 03:15 UTC_
 | 43 | Breanna Stewart | 423 |
 | 44 | Katie Smith | 408 |
 | 45 | Cappie Pondexter | 405 |
+| 46 | **Dearica Hamby** 🔴 +3 | 401 |
 | 46 | Nicole Powell | 401 |
-| 47 | **Dearica Hamby** 🔴 +2 | 400 |
 | 48 | Jasmine Thomas | 394 |
 | 49 | Danielle Robinson | 389 |
 | 50 | Deanna Nolan | 388 |
@@ -1014,7 +1014,7 @@ _Last updated: 2026-06-18 03:15 UTC_
 | 173 | Sonja Henning | 194 |
 | 173 | Tierra Ruffin-Pratt | 194 |
 | 175 | Cynthia Cooper | 192 |
-| 176 | **Natisha Hiedeman** 🔴 | 191 |
+| 175 | **Natisha Hiedeman** 🔴 +1 | 192 |
 | 177 | **Alanna Smith** 🔴 | 190 |
 | 178 | Myisha Hines-Allen | 189 |
 | 179 | Tamicha Jackson | 188 |
@@ -1120,8 +1120,8 @@ _Last updated: 2026-06-18 03:15 UTC_
 | 74 | Seimone Augustus | 293 |
 | 75 | **Bridget Carleton** 🔴 +4 | 291 |
 | 76 | Candice Wiggins | 290 |
+| 76 | **Kayla Thornton** 🔴 +2 | 290 |
 | 76 | Tully Bevilaqua | 290 |
-| 78 | **Kayla Thornton** 🔴 +1 | 289 |
 | 79 | Alana Beard | 288 |
 | 80 | Monique Currie | 284 |
 | 81 | Iziane Castro Marques | 275 |
@@ -1584,8 +1584,8 @@ _Last updated: 2026-06-18 03:15 UTC_
 | 128 | Chiney Ogwumike | 580 |
 | 128 | Hamchetou Maiga-Ba | 580 |
 | 128 | Olympia Scott | 580 |
-| 131 | **Courtney Williams** 🔴 +2 | 576 |
-| 131 | Ezi Magbegor | 576 |
+| 131 | **Courtney Williams** 🔴 +3 | 577 |
+| 132 | Ezi Magbegor | 576 |
 | 133 | Le'coe Willingham | 571 |
 | 134 | Ashley Robinson | 567 |
 | 135 | Ivory Latta | 565 |
