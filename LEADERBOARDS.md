@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-18 00:12 UTC_
+_Last updated: 2026-06-18 00:13 UTC_
 
 ## Contents
 
@@ -1481,8 +1481,8 @@ _Last updated: 2026-06-18 00:12 UTC_
 | 25 | Lindsay Whalen | 998 |
 | 26 | Rebekkah Brunson | 996 |
 | 27 | Yolanda Griffith | 991 |
-| 28 | **Brittney Griner** 🔴 +2 | 982 |
-| 28 | Lauren Jackson | 982 |
+| 28 | **Brittney Griner** 🔴 +3 | 983 |
+| 29 | Lauren Jackson | 982 |
 | 30 | Nakia Sanford | 979 |
 | 31 | Asjha Jones | 971 |
 | 32 | Alyssa Thomas | 954 |
