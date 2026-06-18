@@ -1,5 +1,14 @@
 [
   {
+    "ts": "2026-06-18T03:58:00+00:00",
+    "text": "Emma Cannon reached 700 career points (now 701) \u2014 (3:08 - 4th \u2014 MIN @ LA)",
+    "kind": "round",
+    "player": "Emma Cannon",
+    "stat": "points",
+    "value": 700,
+    "new_total": 701
+  },
+  {
     "ts": "2026-06-18T03:47:00+00:00",
     "text": "Brianna Turner passed Azur\u00e1 Stevens for #41 all-time in blocks (career 234) \u2014 up from #42 entering today \u2014 (8:40 - 4th \u2014 LV @ PHX)",
     "kind": "rank_pass",
@@ -2974,17 +2983,5 @@
       "Jewell Loyd"
     ],
     "new_total": 446
-  },
-  {
-    "ts": "2026-06-06T19:09:00+00:00",
-    "text": "Jackie Young passed Jasmine Thomas for #73 all-time in points (career 3,525) \u2014 (7:28 - 1st \u2014 GS @ LV)",
-    "kind": "rank_pass",
-    "player": "Jackie Young",
-    "stat": "points",
-    "rank": 73,
-    "passed_players": [
-      "Jasmine Thomas"
-    ],
-    "new_total": 3525
   }
 ]
