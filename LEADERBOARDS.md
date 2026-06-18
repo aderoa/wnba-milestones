@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-18 02:43 UTC_
+_Last updated: 2026-06-18 02:44 UTC_
 
 ## Contents
 
@@ -37,7 +37,7 @@ _Last updated: 2026-06-18 02:43 UTC_
 | 16 | Brittney Griner | 6,037 |
 | 17 | Lauren Jackson | 6,005 |
 | 17 | Seimone Augustus | 6,005 |
-| 19 | **A'ja Wilson** 🔴 +8 | 5,950 |
+| 19 | **A'ja Wilson** 🔴 +10 | 5,952 |
 | 20 | Becky Hammon | 5,816 |
 | 21 | Angel McCoughtry | 5,797 |
 | 22 | Skylar Diggins | 5,645 |
@@ -228,7 +228,7 @@ _Last updated: 2026-06-18 02:43 UTC_
 | 2 | Sylvia Fowles | 4,005 |
 | 3 | Candace Parker | 3,467 |
 | 4 | Rebekkah Brunson | 3,345 |
-| 5 | **Nneka Ogwumike** 🔴 +5 | 3,342 |
+| 5 | **Nneka Ogwumike** 🔴 +6 | 3,343 |
 | 6 | Tamika Catchings | 3,313 |
 | 7 | Lisa Leslie | 3,303 |
 | 8 | **DeWanna Bonner** 🔴 +2 | 3,262 |
@@ -321,7 +321,7 @@ _Last updated: 2026-06-18 02:43 UTC_
 | 95 | Brianna Turner | 1,237 |
 | 96 | Seimone Augustus | 1,228 |
 | 97 | **Kayla McBride** 🔴 +1 | 1,227 |
-| 98 | **Chelsea Gray** 🔴 | 1,221 |
+| 98 | **Chelsea Gray** 🔴 +1 | 1,222 |
 | 99 | Jia Perkins | 1,220 |
 | 100 | DeMya Walker | 1,199 |
 | 101 | Latasha Byears | 1,190 |
@@ -1641,8 +1641,8 @@ _Last updated: 2026-06-18 02:43 UTC_
 | 184 | Rhonda Mapp | 483 |
 | 186 | Sami Whitcomb | 480 |
 | 187 | Azurá Stevens | 478 |
-| 188 | **Nia Coffey** 🔴 +2 | 477 |
-| 188 | Seimone Augustus | 477 |
+| 187 | **Nia Coffey** 🔴 +3 | 478 |
+| 189 | Seimone Augustus | 477 |
 | 190 | Allie Quigley | 475 |
 | 191 | Kia Nurse | 473 |
 | 192 | **Alanna Smith** 🔴 +1 | 471 |
