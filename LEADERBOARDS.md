@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-18 02:34 UTC_
+_Last updated: 2026-06-18 02:35 UTC_
 
 ## Contents
 
@@ -58,7 +58,7 @@ _Last updated: 2026-06-18 02:34 UTC_
 | 37 | **Alyssa Thomas** 🔴 +2 | 4,655 |
 | 38 | **Arike Ogunbowale** 🔴 +6 | 4,618 |
 | 39 | Penny Taylor | 4,595 |
-| 40 | **Natasha Howard** 🔴 +4 | 4,532 |
+| 40 | **Natasha Howard** 🔴 +6 | 4,534 |
 | 41 | **Chelsea Gray** 🔴 +1 | 4,507 |
 | 42 | Kristi Toliver | 4,474 |
 | 43 | Crystal Langhorne | 4,433 |
@@ -249,7 +249,7 @@ _Last updated: 2026-06-18 02:34 UTC_
 | 23 | Yolanda Griffith | 2,440 |
 | 24 | **Dearica Hamby** 🔴 +5 | 2,396 |
 | 25 | Tangela Smith | 2,328 |
-| 26 | **Natasha Howard** 🔴 +8 | 2,261 |
+| 26 | **Natasha Howard** 🔴 +9 | 2,262 |
 | 27 | Erika de Souza | 2,220 |
 | 28 | Diana Taurasi | 2,201 |
 | 29 | Margo Dydek | 2,138 |
@@ -1303,7 +1303,7 @@ _Last updated: 2026-06-18 02:34 UTC_
 | 52 | Asjha Jones | 682 |
 | 53 | Danielle Robinson | 680 |
 | 54 | Sheryl Swoopes | 677 |
-| 55 | **Dearica Hamby** 🔴 | 673 |
+| 55 | **Dearica Hamby** 🔴 +1 | 674 |
 | 56 | Tammy Sutton-Brown | 672 |
 | 57 | Deanna Nolan | 669 |
 | 58 | Chasity Melvin | 666 |
@@ -1579,7 +1579,7 @@ _Last updated: 2026-06-18 02:34 UTC_
 | 123 | Janel McCarville | 597 |
 | 124 | Kamila Vodichkova | 596 |
 | 125 | Teresa Weatherspoon | 589 |
-| 126 | **Arike Ogunbowale** 🔴 | 586 |
+| 126 | **Arike Ogunbowale** 🔴 +1 | 587 |
 | 127 | Emma Meesseman | 585 |
 | 128 | Chiney Ogwumike | 580 |
 | 128 | Hamchetou Maiga-Ba | 580 |
@@ -1603,7 +1603,7 @@ _Last updated: 2026-06-18 02:34 UTC_
 | 147 | Kristen Rasmussen | 533 |
 | 148 | Amanda Zahui B | 530 |
 | 149 | Damiris Dantas | 527 |
-| 150 | **Jackie Young** 🔴 +1 | 526 |
+| 149 | **Jackie Young** 🔴 +2 | 527 |
 | 151 | Candice Wiggins | 525 |
 | 151 | Epiphanny Prince | 525 |
 | 153 | Armintie Herrington | 523 |
