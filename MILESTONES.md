@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-18 04:08 UTC
+
+- **Bridget Carleton** passed **Seimone Augustus** for **#74** all-time in three-pointers (career 294) — up from #79 entering today — _40.5 - 4th — SEA @ POR_
+
 ## 2026-06-18 03:58 UTC
 
 - **Emma Cannon** reached **700** career points (now 701) — _3:08 - 4th — MIN @ LA_

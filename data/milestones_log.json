@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-18T04:08:00+00:00",
+    "text": "Bridget Carleton passed Seimone Augustus for #74 all-time in three-pointers (career 294) \u2014 up from #79 entering today \u2014 (40.5 - 4th \u2014 SEA @ POR)",
+    "kind": "rank_pass",
+    "player": "Bridget Carleton",
+    "stat": "three-pointers",
+    "rank": 74,
+    "passed_players": [
+      "Seimone Augustus"
+    ],
+    "new_total": 294
+  },
+  {
     "ts": "2026-06-18T03:58:00+00:00",
     "text": "Emma Cannon reached 700 career points (now 701) \u2014 (3:08 - 4th \u2014 MIN @ LA)",
     "kind": "round",
@@ -2971,17 +2983,5 @@
       "DeLisha Milton-Jones"
     ],
     "new_total": 2575
-  },
-  {
-    "ts": "2026-06-06T19:09:00+00:00",
-    "text": "Chelsea Gray passed Jewell Loyd for #36 all-time in steals (career 446) \u2014 (7:28 - 1st \u2014 GS @ LV)",
-    "kind": "rank_pass",
-    "player": "Chelsea Gray",
-    "stat": "steals",
-    "rank": 36,
-    "passed_players": [
-      "Jewell Loyd"
-    ],
-    "new_total": 446
   }
 ]

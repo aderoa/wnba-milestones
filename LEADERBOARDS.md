@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-18 04:07 UTC_
+_Last updated: 2026-06-18 04:08 UTC_
 
 ## Contents
 
@@ -303,7 +303,7 @@ _Last updated: 2026-06-18 04:07 UTC_
 | 77 | Kayla Thornton | 1,371 |
 | 78 | Sheri Sam | 1,356 |
 | 79 | Tamika Whitmore | 1,355 |
-| 80 | **Jewell Loyd** 🔴 +2 | 1,351 |
+| 80 | **Jewell Loyd** 🔴 +3 | 1,352 |
 | 81 | Emma Meesseman | 1,350 |
 | 82 | Elena Baranova | 1,335 |
 | 83 | Brionna Jones | 1,333 |
@@ -1117,8 +1117,8 @@ _Last updated: 2026-06-18 04:07 UTC_
 | 71 | Kelly Miller | 305 |
 | 72 | Nikki Teasley | 304 |
 | 73 | Vickie Johnson | 295 |
-| 74 | **Bridget Carleton** 🔴 +6 | 293 |
-| 74 | Seimone Augustus | 293 |
+| 74 | **Bridget Carleton** 🔴 +7 | 294 |
+| 75 | Seimone Augustus | 293 |
 | 76 | Candice Wiggins | 290 |
 | 76 | Kayla Thornton | 290 |
 | 76 | Tully Bevilaqua | 290 |
