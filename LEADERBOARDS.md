@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-18 02:14 UTC_
+_Last updated: 2026-06-18 02:15 UTC_
 
 ## Contents
 
@@ -67,10 +67,10 @@ _Last updated: 2026-06-18 02:14 UTC_
 | 46 | Courtney Vandersloot | 4,352 |
 | 47 | Allisha Gray | 4,339 |
 | 48 | Sophia Young-Malcolm | 4,300 |
-| 49 | **Kahleah Copper** 🔴 +4 | 4,287 |
+| 49 | **Kahleah Copper** 🔴 +8 | 4,291 |
 | 50 | Plenette Pierson | 4,258 |
 | 51 | Monique Currie | 4,253 |
-| 52 | **Dearica Hamby** 🔴 +4 | 4,247 |
+| 52 | **Dearica Hamby** 🔴 +6 | 4,249 |
 | 53 | Jonquel Jones | 4,241 |
 | 54 | **Courtney Williams** 🔴 +2 | 4,240 |
 | 55 | Vickie Johnson | 4,230 |
@@ -90,8 +90,8 @@ _Last updated: 2026-06-18 02:14 UTC_
 | 69 | Napheesa Collier | 3,542 |
 | 69 | Shannon Johnson | 3,542 |
 | 71 | Renee Montgomery | 3,533 |
-| 72 | **Jackie Young** 🔴 | 3,522 |
-| 72 | Jasmine Thomas | 3,522 |
+| 72 | **Jackie Young** 🔴 +2 | 3,524 |
+| 73 | Jasmine Thomas | 3,522 |
 | 74 | Tamecka Dixon | 3,507 |
 | 75 | Tammy Sutton-Brown | 3,498 |
 | 76 | Sancho Lyttle | 3,478 |
@@ -327,7 +327,7 @@ _Last updated: 2026-06-18 02:14 UTC_
 | 101 | Latasha Byears | 1,190 |
 | 101 | Tanisha Wright | 1,190 |
 | 103 | Vicky Bullett | 1,189 |
-| 104 | **Kahleah Copper** 🔴 | 1,171 |
+| 104 | **Kahleah Copper** 🔴 +1 | 1,172 |
 | 105 | Nykesha Sales | 1,148 |
 | 106 | Brittney Sykes | 1,145 |
 | 107 | Shannon Johnson | 1,143 |
@@ -434,7 +434,7 @@ _Last updated: 2026-06-18 02:14 UTC_
 | 3 | Ticha Penicheiro | 2,588 |
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
-| 6 | **Chelsea Gray** 🔴 +1 | 1,936 |
+| 6 | **Chelsea Gray** 🔴 +2 | 1,937 |
 | 7 | **Alyssa Thomas** 🔴 | 1,903 |
 | 8 | Skylar Diggins | 1,820 |
 | 9 | Natasha Cloud | 1,776 |
@@ -445,13 +445,13 @@ _Last updated: 2026-06-18 02:14 UTC_
 | 14 | Danielle Robinson | 1,480 |
 | 15 | Shannon Johnson | 1,423 |
 | 15 | Tanisha Wright | 1,423 |
-| 17 | **Courtney Williams** 🔴 +1 | 1,406 |
+| 17 | **Courtney Williams** 🔴 +2 | 1,407 |
 | 18 | Temeka Johnson | 1,382 |
 | 19 | Jasmine Thomas | 1,355 |
 | 20 | Briann January | 1,339 |
 | 21 | Dawn Staley | 1,337 |
 | 22 | Teresa Weatherspoon | 1,333 |
-| 23 | **Erica Wheeler** 🔴 +1 | 1,307 |
+| 23 | **Erica Wheeler** 🔴 +2 | 1,308 |
 | 24 | Kristi Toliver | 1,301 |
 | 25 | Katie Smith | 1,258 |
 | 26 | Kelsey Plum | 1,237 |
@@ -910,8 +910,8 @@ _Last updated: 2026-06-18 02:14 UTC_
 | 69 | Vicky Bullett | 353 |
 | 70 | Svetlana Abrosimova | 352 |
 | 71 | Natasha Cloud | 351 |
-| 72 | **A'ja Wilson** 🔴 | 346 |
-| 72 | Janeth Arcain | 346 |
+| 72 | **A'ja Wilson** 🔴 +1 | 347 |
+| 73 | Janeth Arcain | 346 |
 | 74 | **Arike Ogunbowale** 🔴 | 345 |
 | 75 | Helen Darling | 343 |
 | 76 | Andrea Stinson | 342 |
@@ -1192,7 +1192,7 @@ _Last updated: 2026-06-18 02:14 UTC_
 | 146 | Moriah Jefferson | 149 |
 | 146 | Tiffany Mitchell | 149 |
 | 148 | Diamond DeShields | 147 |
-| 148 | Katie Lou Samuelson | 147 |
+| 148 | **Katie Lou Samuelson** 🔴 | 147 |
 | 150 | Wendy Palmer | 146 |
 | 151 | Michaela Onyenwere | 145 |
 | 152 | Helen Darling | 144 |
@@ -1205,7 +1205,7 @@ _Last updated: 2026-06-18 02:14 UTC_
 | 158 | Tanisha Wright | 138 |
 | 160 | **Gabby Williams** 🔴 | 137 |
 | 160 | Kaleena Mosqueda-Lewis | 137 |
-| 162 | Karlie Samuelson | 135 |
+| 162 | **Karlie Samuelson** 🔴 | 135 |
 | 163 | Shay Murphy | 134 |
 | 164 | Brooke Wyckoff | 132 |
 | 164 | Jenna O'Hea | 132 |
@@ -1641,8 +1641,8 @@ _Last updated: 2026-06-18 02:14 UTC_
 | 184 | Rhonda Mapp | 483 |
 | 186 | Sami Whitcomb | 480 |
 | 187 | Azurá Stevens | 478 |
+| 188 | **Nia Coffey** 🔴 +2 | 477 |
 | 188 | Seimone Augustus | 477 |
-| 189 | **Nia Coffey** 🔴 +1 | 476 |
 | 190 | Allie Quigley | 475 |
 | 191 | Kia Nurse | 473 |
 | 192 | Alanna Smith | 470 |
