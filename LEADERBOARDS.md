@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-18 03:23 UTC_
+_Last updated: 2026-06-18 03:24 UTC_
 
 ## Contents
 
@@ -37,13 +37,13 @@ _Last updated: 2026-06-18 03:23 UTC_
 | 16 | Brittney Griner | 6,037 |
 | 17 | Lauren Jackson | 6,005 |
 | 17 | Seimone Augustus | 6,005 |
-| 19 | **A'ja Wilson** 🔴 +20 | 5,962 |
+| 19 | **A'ja Wilson** 🔴 +21 | 5,963 |
 | 20 | Becky Hammon | 5,816 |
 | 21 | Angel McCoughtry | 5,797 |
 | 22 | Skylar Diggins | 5,645 |
 | 23 | DeLisha Milton-Jones | 5,571 |
 | 24 | Katie Douglas | 5,545 |
-| 25 | **Kayla McBride** 🔴 +8 | 5,530 |
+| 25 | **Kayla McBride** 🔴 +10 | 5,532 |
 | 26 | Lindsay Whalen | 5,511 |
 | 27 | Swin Cash | 5,119 |
 | 28 | Tangela Smith | 5,035 |
@@ -228,7 +228,7 @@ _Last updated: 2026-06-18 03:23 UTC_
 | 2 | Sylvia Fowles | 4,005 |
 | 3 | Candace Parker | 3,467 |
 | 4 | Rebekkah Brunson | 3,345 |
-| 5 | **Nneka Ogwumike** 🔴 +6 | 3,343 |
+| 5 | **Nneka Ogwumike** 🔴 +7 | 3,344 |
 | 6 | Tamika Catchings | 3,313 |
 | 7 | Lisa Leslie | 3,303 |
 | 8 | **DeWanna Bonner** 🔴 +1 | 3,261 |
@@ -319,8 +319,8 @@ _Last updated: 2026-06-18 03:23 UTC_
 | 93 | Ezi Magbegor | 1,243 |
 | 94 | **Brianna Turner** 🔴 +3 | 1,240 |
 | 95 | Myisha Hines-Allen | 1,239 |
-| 96 | **Kayla McBride** 🔴 +2 | 1,228 |
-| 96 | Seimone Augustus | 1,228 |
+| 96 | **Kayla McBride** 🔴 +3 | 1,229 |
+| 97 | Seimone Augustus | 1,228 |
 | 98 | **Chelsea Gray** 🔴 +1 | 1,222 |
 | 99 | Jia Perkins | 1,220 |
 | 100 | DeMya Walker | 1,199 |
@@ -576,7 +576,7 @@ _Last updated: 2026-06-18 03:23 UTC_
 | 144 | Kristi Harrower | 450 |
 | 144 | Nikki McCray | 450 |
 | 147 | Ruth Riley | 449 |
-| 148 | **Sug Sutton** 🔴 +1 | 448 |
+| 147 | **Sug Sutton** 🔴 +2 | 449 |
 | 149 | DeMya Walker | 446 |
 | 150 | Essence Carson | 445 |
 | 151 | Michelle Snow | 437 |
@@ -875,9 +875,9 @@ _Last updated: 2026-06-18 03:23 UTC_
 | 34 | **Natasha Howard** 🔴 +1 | 448 |
 | 35 | **Chelsea Gray** 🔴 +1 | 446 |
 | 36 | **Jewell Loyd** 🔴 | 445 |
+| 37 | **Kayla McBride** 🔴 +2 | 438 |
 | 37 | Sheri Sam | 438 |
-| 38 | Camille Smith | 437 |
-| 38 | **Kayla McBride** 🔴 +1 | 437 |
+| 39 | Camille Smith | 437 |
 | 40 | Candice Dupree | 431 |
 | 41 | Epiphanny Prince | 429 |
 | 42 | Tanisha Wright | 427 |
@@ -1485,7 +1485,7 @@ _Last updated: 2026-06-18 03:23 UTC_
 | 29 | Lauren Jackson | 982 |
 | 30 | Nakia Sanford | 979 |
 | 31 | Asjha Jones | 971 |
-| 32 | **Alyssa Thomas** 🔴 +1 | 955 |
+| 32 | **Alyssa Thomas** 🔴 +2 | 956 |
 | 33 | Margo Dydek | 950 |
 | 34 | Sancho Lyttle | 947 |
 | 35 | Mwadi Mabika | 941 |
