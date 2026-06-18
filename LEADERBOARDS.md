@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-18 02:51 UTC_
+_Last updated: 2026-06-18 02:52 UTC_
 
 ## Contents
 
@@ -55,7 +55,7 @@ _Last updated: 2026-06-18 02:51 UTC_
 | 34 | Alana Beard | 4,740 |
 | 35 | Chamique Holdsclaw | 4,713 |
 | 36 | Elena Delle Donne | 4,706 |
-| 37 | **Alyssa Thomas** 🔴 +4 | 4,657 |
+| 37 | **Alyssa Thomas** 🔴 +6 | 4,659 |
 | 38 | **Arike Ogunbowale** 🔴 +6 | 4,618 |
 | 39 | Penny Taylor | 4,595 |
 | 40 | **Natasha Howard** 🔴 +9 | 4,537 |
@@ -90,7 +90,7 @@ _Last updated: 2026-06-18 02:51 UTC_
 | 69 | Napheesa Collier | 3,542 |
 | 69 | Shannon Johnson | 3,542 |
 | 71 | Renee Montgomery | 3,533 |
-| 72 | **Jackie Young** 🔴 +7 | 3,529 |
+| 72 | **Jackie Young** 🔴 +9 | 3,531 |
 | 73 | Jasmine Thomas | 3,522 |
 | 74 | Tamecka Dixon | 3,507 |
 | 75 | Tammy Sutton-Brown | 3,498 |
@@ -300,7 +300,7 @@ _Last updated: 2026-06-18 02:51 UTC_
 | 74 | Courtney Vandersloot | 1,383 |
 | 74 | Katie Smith | 1,383 |
 | 76 | Ebony Hoffman | 1,376 |
-| 77 | **Kayla Thornton** 🔴 +5 | 1,365 |
+| 77 | **Kayla Thornton** 🔴 +4 | 1,364 |
 | 78 | Sheri Sam | 1,356 |
 | 79 | Tamika Whitmore | 1,355 |
 | 80 | Emma Meesseman | 1,350 |
@@ -561,8 +561,8 @@ _Last updated: 2026-06-18 02:51 UTC_
 | 129 | Coco Miller | 503 |
 | 131 | Crystal Robinson | 488 |
 | 131 | Tiffany Mitchell | 488 |
+| 133 | **Kahleah Copper** 🔴 +2 | 486 |
 | 133 | Rebekkah Brunson | 486 |
-| 134 | **Kahleah Copper** 🔴 +1 | 485 |
 | 135 | Ukari Figgs | 470 |
 | 136 | Janeth Arcain | 469 |
 | 137 | Elizabeth Williams | 467 |
@@ -910,7 +910,7 @@ _Last updated: 2026-06-18 02:51 UTC_
 | 69 | Vicky Bullett | 353 |
 | 70 | Svetlana Abrosimova | 352 |
 | 71 | Natasha Cloud | 351 |
-| 72 | **A'ja Wilson** 🔴 +2 | 348 |
+| 72 | **A'ja Wilson** 🔴 +3 | 349 |
 | 73 | Janeth Arcain | 346 |
 | 74 | **Arike Ogunbowale** 🔴 | 345 |
 | 75 | Helen Darling | 343 |
@@ -1320,7 +1320,7 @@ _Last updated: 2026-06-18 02:51 UTC_
 | 67 | Svetlana Abrosimova | 631 |
 | 70 | Rebekkah Brunson | 615 |
 | 71 | Seimone Augustus | 613 |
-| 72 | **Kahleah Copper** 🔴 +2 | 611 |
+| 72 | **Kahleah Copper** 🔴 +3 | 612 |
 | 73 | **Tiffany Hayes** 🔴 | 610 |
 | 74 | Teresa Weatherspoon | 601 |
 | 75 | Lindsey Harding | 600 |
@@ -1367,8 +1367,8 @@ _Last updated: 2026-06-18 02:51 UTC_
 | 116 | Natalie Williams | 480 |
 | 117 | Ebony Hoffman | 470 |
 | 118 | Elaine Powell | 469 |
-| 119 | **A'ja Wilson** 🔴 +1 | 467 |
-| 119 | Allie Quigley | 467 |
+| 119 | **A'ja Wilson** 🔴 +2 | 468 |
+| 120 | Allie Quigley | 467 |
 | 121 | Allisha Gray | 466 |
 | 122 | **Ariel Atkins** 🔴 +2 | 456 |
 | 123 | Kia Vaughn | 454 |
