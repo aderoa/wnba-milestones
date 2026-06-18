@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-18 01:24 UTC_
+_Last updated: 2026-06-18 01:25 UTC_
 
 ## Contents
 
@@ -162,8 +162,8 @@ _Last updated: 2026-06-18 01:24 UTC_
 | 139 | Matee Ajavon | 2,237 |
 | 142 | Kia Nurse | 2,231 |
 | 143 | Dawn Staley | 2,228 |
+| 144 | **Satou Sabally** 🔴 +17 | 2,221 |
 | 144 | Teaira McCowan | 2,221 |
-| 145 | **Satou Sabally** 🔴 +15 | 2,219 |
 | 146 | Janel McCarville | 2,215 |
 | 147 | Sami Whitcomb | 2,211 |
 | 148 | Sophia Witherspoon | 2,210 |
