@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-18 02:28 UTC_
+_Last updated: 2026-06-18 02:29 UTC_
 
 ## Contents
 
@@ -21,7 +21,7 @@ _Last updated: 2026-06-18 02:28 UTC_
 |-----:|--------|------:|
 | 1 | Diana Taurasi | 10,608 |
 | 2 | Tina Charles | 8,396 |
-| 3 | **DeWanna Bonner** 🔴 +6 | 7,916 |
+| 3 | **DeWanna Bonner** 🔴 +8 | 7,918 |
 | 4 | Tina Thompson | 7,470 |
 | 5 | **Nneka Ogwumike** 🔴 +2 | 7,442 |
 | 6 | Tamika Catchings | 7,371 |
@@ -228,14 +228,14 @@ _Last updated: 2026-06-18 02:28 UTC_
 | 2 | Sylvia Fowles | 4,005 |
 | 3 | Candace Parker | 3,467 |
 | 4 | Rebekkah Brunson | 3,345 |
-| 5 | **Nneka Ogwumike** 🔴 +2 | 3,339 |
+| 5 | **Nneka Ogwumike** 🔴 +3 | 3,340 |
 | 6 | Tamika Catchings | 3,313 |
 | 7 | Lisa Leslie | 3,303 |
 | 8 | **DeWanna Bonner** 🔴 +1 | 3,261 |
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
-| 12 | **Alyssa Thomas** 🔴 | 2,817 |
+| 12 | **Alyssa Thomas** 🔴 +1 | 2,818 |
 | 13 | Jonquel Jones | 2,671 |
 | 14 | Sancho Lyttle | 2,596 |
 | 15 | **A'ja Wilson** 🔴 +1 | 2,575 |
@@ -249,7 +249,7 @@ _Last updated: 2026-06-18 02:28 UTC_
 | 23 | Yolanda Griffith | 2,440 |
 | 24 | **Dearica Hamby** 🔴 +5 | 2,396 |
 | 25 | Tangela Smith | 2,328 |
-| 26 | **Natasha Howard** 🔴 +5 | 2,258 |
+| 26 | **Natasha Howard** 🔴 +6 | 2,259 |
 | 27 | Erika de Souza | 2,220 |
 | 28 | Diana Taurasi | 2,201 |
 | 29 | Margo Dydek | 2,138 |
@@ -290,7 +290,7 @@ _Last updated: 2026-06-18 02:28 UTC_
 | 64 | Sue Bird | 1,466 |
 | 65 | Alysha Clark | 1,465 |
 | 66 | Nicole Powell | 1,457 |
-| 67 | **Cheyenne Parker-Tyus** 🔴 | 1,442 |
+| 67 | **Cheyenne Parker-Tyus** 🔴 +1 | 1,443 |
 | 68 | Tamera Young | 1,433 |
 | 69 | Alana Beard | 1,420 |
 | 70 | Nakia Sanford | 1,419 |
@@ -669,8 +669,8 @@ _Last updated: 2026-06-18 02:28 UTC_
 | 33 | Rebekkah Brunson | 281 |
 | 34 | Liz Cambage | 264 |
 | 35 | **Nneka Ogwumike** 🔴 | 263 |
+| 36 | **Cheyenne Parker-Tyus** 🔴 +1 | 258 |
 | 36 | Swin Cash | 258 |
-| 37 | **Cheyenne Parker-Tyus** 🔴 | 257 |
 | 38 | Plenette Pierson | 242 |
 | 39 | Napheesa Collier | 239 |
 | 40 | Emma Meesseman | 238 |
@@ -893,8 +893,8 @@ _Last updated: 2026-06-18 02:28 UTC_
 | 52 | Swin Cash | 384 |
 | 52 | Tina Charles | 384 |
 | 54 | **Tiffany Hayes** 🔴 | 382 |
-| 55 | **Ariel Atkins** 🔴 | 380 |
-| 55 | Jordin Canada | 380 |
+| 55 | **Ariel Atkins** 🔴 +1 | 381 |
+| 56 | Jordin Canada | 380 |
 | 57 | Monique Currie | 378 |
 | 58 | Chamique Holdsclaw | 376 |
 | 59 | Mwadi Mabika | 370 |
@@ -1511,7 +1511,7 @@ _Last updated: 2026-06-18 02:28 UTC_
 | 55 | Penny Taylor | 832 |
 | 56 | Dominique Canty | 831 |
 | 56 | Wendy Palmer | 831 |
-| 58 | **Dearica Hamby** 🔴 | 829 |
+| 58 | **Dearica Hamby** 🔴 +1 | 830 |
 | 59 | Shannon Johnson | 813 |
 | 59 | Skylar Diggins | 813 |
 | 59 | Tully Bevilaqua | 813 |
