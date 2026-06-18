@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-18 01:13 UTC_
+_Last updated: 2026-06-18 01:14 UTC_
 
 ## Contents
 
@@ -312,8 +312,8 @@ _Last updated: 2026-06-18 01:13 UTC_
 | 86 | Jayne Appel Marinelli | 1,326 |
 | 87 | Betty Lennox | 1,296 |
 | 88 | Tari Phillips | 1,274 |
-| 89 | **Azurá Stevens** 🔴 +5 | 1,261 |
-| 89 | Janel McCarville | 1,261 |
+| 89 | **Azurá Stevens** 🔴 +6 | 1,262 |
+| 90 | Janel McCarville | 1,261 |
 | 91 | Liz Cambage | 1,258 |
 | 92 | Tiffany Hayes | 1,244 |
 | 93 | Ezi Magbegor | 1,243 |
@@ -436,7 +436,7 @@ _Last updated: 2026-06-18 01:13 UTC_
 | 5 | Lindsay Whalen | 2,347 |
 | 6 | Chelsea Gray | 1,935 |
 | 7 | Alyssa Thomas | 1,903 |
-| 8 | **Skylar Diggins** 🔴 +3 | 1,815 |
+| 8 | **Skylar Diggins** 🔴 +4 | 1,816 |
 | 9 | **Natasha Cloud** 🔴 +2 | 1,774 |
 | 10 | Becky Hammon | 1,705 |
 | 11 | Candace Parker | 1,634 |
@@ -1520,7 +1520,7 @@ _Last updated: 2026-06-18 01:13 UTC_
 | 64 | Erica Wheeler | 787 |
 | 65 | Sue Bird | 775 |
 | 66 | Sheri Sam | 766 |
-| 67 | **Natasha Cloud** 🔴 +2 | 757 |
+| 67 | **Natasha Cloud** 🔴 +3 | 758 |
 | 68 | Kia Vaughn | 755 |
 | 69 | Vickie Johnson | 752 |
 | 70 | Kara Braxton | 748 |
