@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-18 23:46 UTC_
+_Last updated: 2026-06-18 23:47 UTC_
 
 ## Contents
 
@@ -760,8 +760,8 @@ _Last updated: 2026-06-18 23:46 UTC_
 | 122 | Rebecca Lobo | 104 |
 | 125 | Jennifer Gillom | 103 |
 | 125 | Jia Perkins | 103 |
-| 127 | **Rhyne Howard** 🔴 | 102 |
-| 127 | Theresa Plaisance | 102 |
+| 125 | **Rhyne Howard** 🔴 +1 | 103 |
+| 128 | Theresa Plaisance | 102 |
 | 129 | Deanna Nolan | 101 |
 | 130 | Chante Black | 100 |
 | 130 | Danielle Adams | 100 |
@@ -1575,7 +1575,7 @@ _Last updated: 2026-06-18 23:46 UTC_
 | 119 | Odyssey Sims | 610 |
 | 120 | Layshia Clarendon | 609 |
 | 121 | Tiffany Mitchell | 604 |
-| 122 | **Kelsey Mitchell** 🔴 | 601 |
+| 122 | **Kelsey Mitchell** 🔴 +1 | 602 |
 | 123 | Janel McCarville | 597 |
 | 124 | Kamila Vodichkova | 596 |
 | 125 | Teresa Weatherspoon | 589 |
