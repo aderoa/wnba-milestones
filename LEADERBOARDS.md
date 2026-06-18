@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-18 03:34 UTC_
+_Last updated: 2026-06-18 03:35 UTC_
 
 ## Contents
 
@@ -202,7 +202,7 @@ _Last updated: 2026-06-18 03:34 UTC_
 | 181 | Rachel Banham | 1,823 |
 | 182 | Danielle Adams | 1,820 |
 | 183 | Charde Houston | 1,797 |
-| 184 | **NaLyssa Smith** 🔴 +10 | 1,785 |
+| 184 | **NaLyssa Smith** 🔴 +12 | 1,787 |
 | 185 | Kamila Vodichkova | 1,767 |
 | 186 | Tully Bevilaqua | 1,763 |
 | 187 | Sandy Brondello | 1,759 |
@@ -381,7 +381,7 @@ _Last updated: 2026-06-18 03:34 UTC_
 | 155 | Shameka Christon | 867 |
 | 156 | **Alanna Smith** 🔴 +1 | 865 |
 | 157 | Krystal Thomas | 862 |
-| 158 | **Nia Coffey** 🔴 +5 | 859 |
+| 158 | **Nia Coffey** 🔴 +6 | 860 |
 | 159 | Marina Mabrey | 849 |
 | 160 | Leilani Mitchell | 845 |
 | 161 | Essence Carson | 833 |
@@ -925,7 +925,7 @@ _Last updated: 2026-06-18 03:34 UTC_
 | 84 | Matee Ajavon | 328 |
 | 85 | Napheesa Collier | 325 |
 | 86 | Betty Lennox | 323 |
-| 87 | **Courtney Williams** 🔴 +1 | 322 |
+| 87 | **Courtney Williams** 🔴 | 321 |
 | 88 | Tammy Sutton-Brown | 319 |
 | 89 | Plenette Pierson | 317 |
 | 89 | Temeka Johnson | 317 |
@@ -1261,7 +1261,7 @@ _Last updated: 2026-06-18 03:34 UTC_
 | 10 | Candace Parker | 1,062 |
 | 11 | Tamika Catchings | 1,041 |
 | 12 | Tina Charles | 1,040 |
-| 13 | **Alyssa Thomas** 🔴 +2 | 1,005 |
+| 13 | **Alyssa Thomas** 🔴 +3 | 1,006 |
 | 14 | Lindsay Whalen | 1,002 |
 | 15 | Sylvia Fowles | 961 |
 | 16 | Tanisha Wright | 954 |
