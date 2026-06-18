@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-18 01:09 UTC_
+_Last updated: 2026-06-18 01:10 UTC_
 
 ## Contents
 
@@ -40,7 +40,7 @@ _Last updated: 2026-06-18 01:09 UTC_
 | 19 | A'ja Wilson | 5,942 |
 | 20 | Becky Hammon | 5,816 |
 | 21 | Angel McCoughtry | 5,797 |
-| 22 | **Skylar Diggins** 🔴 +13 | 5,639 |
+| 22 | **Skylar Diggins** 🔴 +15 | 5,641 |
 | 23 | DeLisha Milton-Jones | 5,571 |
 | 24 | Katie Douglas | 5,545 |
 | 25 | Kayla McBride | 5,522 |
@@ -236,7 +236,7 @@ _Last updated: 2026-06-18 01:09 UTC_
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | Alyssa Thomas | 2,817 |
-| 13 | **Jonquel Jones** 🔴 +4 | 2,667 |
+| 13 | **Jonquel Jones** 🔴 +5 | 2,668 |
 | 14 | Sancho Lyttle | 2,596 |
 | 15 | A'ja Wilson | 2,574 |
 | 15 | DeLisha Milton-Jones | 2,574 |
@@ -359,7 +359,7 @@ _Last updated: 2026-06-18 01:09 UTC_
 | 132 | **Sabrina Ionescu** 🔴 +1 | 999 |
 | 134 | Marissa Coleman | 995 |
 | 135 | Kristen Rasmussen | 993 |
-| 136 | **Skylar Diggins** 🔴 +1 | 992 |
+| 135 | **Skylar Diggins** 🔴 +2 | 993 |
 | 137 | Danielle Robinson | 988 |
 | 138 | Shavonte Zellous | 978 |
 | 139 | Kara Lawson | 976 |
@@ -1331,8 +1331,8 @@ _Last updated: 2026-06-18 01:09 UTC_
 | 80 | Helen Darling | 575 |
 | 80 | Nykesha Sales | 575 |
 | 82 | Andrea Stinson | 571 |
-| 82 | **Breanna Stewart** 🔴 +1 | 571 |
-| 84 | Kara Braxton | 570 |
+| 83 | **Breanna Stewart** 🔴 | 570 |
+| 83 | Kara Braxton | 570 |
 | 85 | Nikki McCray | 565 |
 | 86 | Kelsey Mitchell | 563 |
 | 86 | Sancho Lyttle | 563 |
@@ -1641,9 +1641,9 @@ _Last updated: 2026-06-18 01:09 UTC_
 | 184 | Rhonda Mapp | 483 |
 | 186 | Sami Whitcomb | 480 |
 | 187 | Seimone Augustus | 477 |
-| 188 | Allie Quigley | 475 |
-| 188 | **Azurá Stevens** 🔴 +1 | 475 |
-| 188 | Nia Coffey | 475 |
+| 188 | **Azurá Stevens** 🔴 +2 | 476 |
+| 189 | Allie Quigley | 475 |
+| 189 | Nia Coffey | 475 |
 | 191 | Kia Nurse | 473 |
 | 192 | Alanna Smith | 470 |
 | 193 | Christi Thomas | 463 |
