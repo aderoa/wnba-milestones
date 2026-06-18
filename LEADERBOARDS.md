@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-18 00:22 UTC_
+_Last updated: 2026-06-18 00:23 UTC_
 
 ## Contents
 
@@ -32,7 +32,7 @@ _Last updated: 2026-06-18 00:22 UTC_
 | 11 | Katie Smith | 6,450 |
 | 12 | Sylvia Fowles | 6,413 |
 | 13 | Lisa Leslie | 6,251 |
-| 14 | **Breanna Stewart** 🔴 +2 | 6,175 |
+| 14 | **Breanna Stewart** 🔴 +4 | 6,177 |
 | 15 | Jewell Loyd | 6,078 |
 | 16 | **Brittney Griner** 🔴 +4 | 6,035 |
 | 17 | Lauren Jackson | 6,005 |
@@ -166,7 +166,7 @@ _Last updated: 2026-06-18 00:22 UTC_
 | 145 | Janel McCarville | 2,215 |
 | 146 | Sami Whitcomb | 2,211 |
 | 147 | Sophia Witherspoon | 2,210 |
-| 148 | **Satou Sabally** 🔴 +2 | 2,206 |
+| 148 | **Satou Sabally** 🔴 +4 | 2,208 |
 | 149 | Ruthie Bolton | 2,175 |
 | 150 | Ann Wauters | 2,170 |
 | 151 | Layshia Clarendon | 2,168 |
@@ -240,7 +240,7 @@ _Last updated: 2026-06-18 00:22 UTC_
 | 14 | Sancho Lyttle | 2,596 |
 | 15 | A'ja Wilson | 2,574 |
 | 15 | DeLisha Milton-Jones | 2,574 |
-| 17 | **Breanna Stewart** 🔴 | 2,560 |
+| 17 | **Breanna Stewart** 🔴 +1 | 2,561 |
 | 18 | **Brittney Griner** 🔴 +3 | 2,559 |
 | 19 | Swin Cash | 2,521 |
 | 20 | Michelle Snow | 2,476 |
@@ -436,7 +436,7 @@ _Last updated: 2026-06-18 00:22 UTC_
 | 5 | Lindsay Whalen | 2,347 |
 | 6 | Chelsea Gray | 1,935 |
 | 7 | Alyssa Thomas | 1,903 |
-| 8 | **Skylar Diggins** 🔴 +2 | 1,814 |
+| 8 | **Skylar Diggins** 🔴 +3 | 1,815 |
 | 9 | **Natasha Cloud** 🔴 +1 | 1,773 |
 | 10 | Becky Hammon | 1,705 |
 | 11 | Candace Parker | 1,634 |
@@ -938,7 +938,7 @@ _Last updated: 2026-06-18 00:22 UTC_
 | 97 | Kedra Holland-Corn | 301 |
 | 98 | Lindsey Harding | 295 |
 | 99 | Janel McCarville | 294 |
-| 100 | **Elizabeth Williams** 🔴 | 292 |
+| 100 | **Elizabeth Williams** 🔴 +1 | 293 |
 | 101 | Kelly Miller | 290 |
 | 102 | Glory Johnson | 289 |
 | 103 | Essence Carson | 285 |
@@ -1220,9 +1220,9 @@ _Last updated: 2026-06-18 00:22 UTC_
 | 174 | Lisa Leslie | 123 |
 | 175 | Sidney Spencer | 122 |
 | 176 | Jordin Canada | 120 |
+| 177 | **Kennedy Burke** 🔴 +2 | 118 |
 | 177 | Lexie Hull | 118 |
 | 177 | Tonya Edwards | 118 |
-| 179 | **Kennedy Burke** 🔴 +1 | 117 |
 | 180 | Edwige Lawson-Wade | 116 |
 | 180 | Marie Ferdinand-Harris | 116 |
 | 182 | Ebony Hoffman | 115 |
@@ -1350,7 +1350,7 @@ _Last updated: 2026-06-18 00:22 UTC_
 | 99 | Leilani Mitchell | 525 |
 | 99 | Nicole Powell | 525 |
 | 101 | Arike Ogunbowale | 520 |
-| 102 | **Sabrina Ionescu** 🔴 +1 | 519 |
+| 101 | **Sabrina Ionescu** 🔴 +2 | 520 |
 | 103 | Marie Ferdinand-Harris | 518 |
 | 104 | Shavonte Zellous | 517 |
 | 104 | Wendy Palmer | 517 |
