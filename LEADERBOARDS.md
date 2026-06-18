@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-18 03:30 UTC_
+_Last updated: 2026-06-18 03:31 UTC_
 
 ## Contents
 
@@ -55,7 +55,7 @@ _Last updated: 2026-06-18 03:30 UTC_
 | 34 | Alana Beard | 4,740 |
 | 35 | Chamique Holdsclaw | 4,713 |
 | 36 | Elena Delle Donne | 4,706 |
-| 37 | **Alyssa Thomas** 🔴 +6 | 4,659 |
+| 37 | **Alyssa Thomas** 🔴 +8 | 4,661 |
 | 38 | **Arike Ogunbowale** 🔴 +14 | 4,626 |
 | 39 | Penny Taylor | 4,595 |
 | 40 | **Natasha Howard** 🔴 +11 | 4,539 |
@@ -459,7 +459,7 @@ _Last updated: 2026-06-18 03:30 UTC_
 | 28 | Vickie Johnson | 1,202 |
 | 29 | Jordin Canada | 1,201 |
 | 30 | Leilani Mitchell | 1,197 |
-| 31 | **DeWanna Bonner** 🔴 | 1,192 |
+| 31 | **DeWanna Bonner** 🔴 +1 | 1,193 |
 | 32 | **Jewell Loyd** 🔴 | 1,144 |
 | 33 | Renee Montgomery | 1,140 |
 | 34 | Swin Cash | 1,131 |
@@ -547,7 +547,7 @@ _Last updated: 2026-06-18 03:30 UTC_
 | 116 | Janel McCarville | 551 |
 | 116 | Svetlana Abrosimova | 551 |
 | 118 | Michele Timms | 549 |
-| 119 | **Veronica Burton** 🔴 +3 | 540 |
+| 119 | **Veronica Burton** 🔴 +4 | 541 |
 | 120 | Marie Ferdinand-Harris | 528 |
 | 121 | Margo Dydek | 524 |
 | 122 | Myisha Hines-Allen | 520 |
@@ -931,8 +931,8 @@ _Last updated: 2026-06-18 03:30 UTC_
 | 89 | Temeka Johnson | 317 |
 | 91 | Alysha Clark | 316 |
 | 92 | Debbie Black | 315 |
-| 93 | Crystal Langhorne | 314 |
-| 93 | **Gabby Williams** 🔴 | 314 |
+| 92 | **Gabby Williams** 🔴 +1 | 315 |
+| 94 | Crystal Langhorne | 314 |
 | 95 | Ebony Hoffman | 308 |
 | 96 | Tamera Young | 305 |
 | 97 | Kedra Holland-Corn | 301 |
@@ -1524,7 +1524,7 @@ _Last updated: 2026-06-18 03:30 UTC_
 | 68 | Kia Vaughn | 755 |
 | 69 | Vickie Johnson | 752 |
 | 70 | Kara Braxton | 748 |
-| 71 | **Kahleah Copper** 🔴 +3 | 741 |
+| 71 | **Kahleah Copper** 🔴 +4 | 742 |
 | 72 | Crystal Langhorne | 737 |
 | 73 | Shameka Christon | 734 |
 | 74 | Becky Hammon | 733 |
