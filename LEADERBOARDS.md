@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-18 04:04 UTC_
+_Last updated: 2026-06-18 04:05 UTC_
 
 ## Contents
 
@@ -607,8 +607,8 @@ _Last updated: 2026-06-18 04:04 UTC_
 | 176 | **Stephanie Talbot** 🔴 +1 | 386 |
 | 177 | Dana Evans | 379 |
 | 178 | Jessica Breland | 377 |
+| 179 | **Bridget Carleton** 🔴 +1 | 376 |
 | 179 | Shenise Johnson | 376 |
-| 180 | **Bridget Carleton** 🔴 | 375 |
 | 181 | Alanna Smith | 372 |
 | 182 | Suzie McConnell Serio | 370 |
 | 183 | Damiris Dantas | 368 |
@@ -1564,8 +1564,8 @@ _Last updated: 2026-06-18 04:04 UTC_
 | 107 | Kiah Stokes | 632 |
 | 109 | Nicole Ohlde | 631 |
 | 110 | Jennifer Gillom | 629 |
-| 111 | Deanna Nolan | 628 |
-| 111 | **Teaira McCowan** 🔴 +1 | 628 |
+| 110 | **Teaira McCowan** 🔴 +2 | 629 |
+| 112 | Deanna Nolan | 628 |
 | 113 | Brionna Jones | 625 |
 | 114 | **Chelsea Gray** 🔴 +1 | 622 |
 | 115 | Courtney Paris | 617 |
