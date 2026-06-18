@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-18 01:16 UTC_
+_Last updated: 2026-06-18 01:17 UTC_
 
 ## Contents
 
@@ -113,7 +113,7 @@ _Last updated: 2026-06-18 01:16 UTC_
 | 92 | Briann January | 3,082 |
 | 93 | Marina Mabrey | 3,052 |
 | 94 | Erika de Souza | 3,046 |
-| 95 | **Sabrina Ionescu** 🔴 | 3,041 |
+| 94 | **Sabrina Ionescu** 🔴 +5 | 3,046 |
 | 96 | Shameka Christon | 3,039 |
 | 97 | Marie Ferdinand-Harris | 3,001 |
 | 98 | Emma Meesseman | 2,966 |
@@ -163,7 +163,7 @@ _Last updated: 2026-06-18 01:16 UTC_
 | 142 | Kia Nurse | 2,231 |
 | 143 | Dawn Staley | 2,228 |
 | 144 | Teaira McCowan | 2,221 |
-| 145 | **Satou Sabally** 🔴 +13 | 2,217 |
+| 145 | **Satou Sabally** 🔴 +15 | 2,219 |
 | 146 | Janel McCarville | 2,215 |
 | 147 | Sami Whitcomb | 2,211 |
 | 148 | Sophia Witherspoon | 2,210 |
@@ -240,7 +240,7 @@ _Last updated: 2026-06-18 01:16 UTC_
 | 14 | Sancho Lyttle | 2,596 |
 | 15 | A'ja Wilson | 2,574 |
 | 15 | DeLisha Milton-Jones | 2,574 |
-| 17 | **Breanna Stewart** 🔴 +4 | 2,564 |
+| 17 | **Breanna Stewart** 🔴 +5 | 2,565 |
 | 18 | Brittney Griner | 2,559 |
 | 19 | Swin Cash | 2,521 |
 | 20 | Michelle Snow | 2,476 |
@@ -354,8 +354,8 @@ _Last updated: 2026-06-18 01:16 UTC_
 | 128 | Kelly Miller | 1,011 |
 | 128 | Noelle Quinn | 1,011 |
 | 130 | Tiffany Jackson | 1,002 |
-| 131 | **Sabrina Ionescu** 🔴 +2 | 1,000 |
-| 131 | Tianna Hawkins | 1,000 |
+| 131 | **Sabrina Ionescu** 🔴 +3 | 1,001 |
+| 132 | Tianna Hawkins | 1,000 |
 | 133 | Damiris Dantas | 999 |
 | 134 | Marissa Coleman | 995 |
 | 135 | Kristen Rasmussen | 993 |
@@ -436,7 +436,7 @@ _Last updated: 2026-06-18 01:16 UTC_
 | 5 | Lindsay Whalen | 2,347 |
 | 6 | Chelsea Gray | 1,935 |
 | 7 | Alyssa Thomas | 1,903 |
-| 8 | **Skylar Diggins** 🔴 +5 | 1,817 |
+| 8 | **Skylar Diggins** 🔴 +6 | 1,818 |
 | 9 | **Natasha Cloud** 🔴 +2 | 1,774 |
 | 10 | Becky Hammon | 1,705 |
 | 11 | Candace Parker | 1,634 |
@@ -475,7 +475,7 @@ _Last updated: 2026-06-18 01:16 UTC_
 | 44 | Nikki Teasley | 982 |
 | 45 | Kayla McBride | 968 |
 | 46 | Tamecka Dixon | 960 |
-| 47 | **Breanna Stewart** 🔴 +2 | 955 |
+| 47 | **Breanna Stewart** 🔴 +3 | 956 |
 | 48 | Kara Lawson | 946 |
 | 49 | Tiffany Hayes | 936 |
 | 50 | Deanna Nolan | 930 |
@@ -1069,7 +1069,7 @@ _Last updated: 2026-06-18 01:16 UTC_
 | 23 | Shekinna Stricklen | 468 |
 | 24 | Marina Mabrey | 465 |
 | 25 | Cappie Pondexter | 464 |
-| 26 | **Sabrina Ionescu** 🔴 | 462 |
+| 26 | **Sabrina Ionescu** 🔴 +1 | 463 |
 | 27 | **Breanna Stewart** 🔴 +1 | 461 |
 | 28 | Ariel Atkins | 451 |
 | 28 | Tiffany Hayes | 451 |
