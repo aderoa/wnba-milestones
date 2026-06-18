@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-18 01:08 UTC_
+_Last updated: 2026-06-18 01:09 UTC_
 
 ## Contents
 
@@ -312,8 +312,8 @@ _Last updated: 2026-06-18 01:08 UTC_
 | 86 | Jayne Appel Marinelli | 1,326 |
 | 87 | Betty Lennox | 1,296 |
 | 88 | Tari Phillips | 1,274 |
+| 89 | **Azurá Stevens** 🔴 +5 | 1,261 |
 | 89 | Janel McCarville | 1,261 |
-| 90 | **Azurá Stevens** 🔴 +3 | 1,259 |
 | 91 | Liz Cambage | 1,258 |
 | 92 | Tiffany Hayes | 1,244 |
 | 93 | Ezi Magbegor | 1,243 |
@@ -648,7 +648,7 @@ _Last updated: 2026-06-18 01:08 UTC_
 | 12 | Taj McWilliams-Franklin | 443 |
 | 13 | **Breanna Stewart** 🔴 | 436 |
 | 14 | Tina Charles | 428 |
-| 15 | **Jonquel Jones** 🔴 | 415 |
+| 15 | **Jonquel Jones** 🔴 +1 | 416 |
 | 16 | Michelle Snow | 403 |
 | 17 | Tamika Catchings | 383 |
 | 18 | Tina Thompson | 372 |
@@ -961,8 +961,8 @@ _Last updated: 2026-06-18 01:08 UTC_
 | 120 | Noelle Quinn | 256 |
 | 121 | Elaine Powell | 255 |
 | 121 | Loree Moore | 255 |
+| 123 | **Jonquel Jones** 🔴 +1 | 254 |
 | 123 | Ruthie Bolton | 254 |
-| 124 | **Jonquel Jones** 🔴 | 253 |
 | 125 | Hamchetou Maiga-Ba | 251 |
 | 125 | Tamika Whitmore | 251 |
 | 127 | Sami Whitcomb | 246 |
