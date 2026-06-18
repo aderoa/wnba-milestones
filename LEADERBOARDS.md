@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-18 03:40 UTC_
+_Last updated: 2026-06-18 03:41 UTC_
 
 ## Contents
 
@@ -150,7 +150,7 @@ _Last updated: 2026-06-18 03:40 UTC_
 | 129 | Anna DeForge | 2,413 |
 | 130 | DeMya Walker | 2,379 |
 | 131 | Alex Bentley | 2,350 |
-| 132 | **Kayla Thornton** 🔴 +6 | 2,339 |
+| 132 | **Kayla Thornton** 🔴 +8 | 2,341 |
 | 133 | Merlakia Jones | 2,308 |
 | 134 | Kia Vaughn | 2,288 |
 | 135 | Betnijah Laney-Hamilton | 2,282 |
@@ -1444,9 +1444,9 @@ _Last updated: 2026-06-18 03:40 UTC_
 | 193 | Crystal Robinson | 299 |
 | 194 | Michele Timms | 297 |
 | 195 | Azurá Stevens | 296 |
-| 196 | **Kayla Thornton** 🔴 +1 | 295 |
 | 196 | Rachel Banham | 295 |
-| 198 | **Natisha Hiedeman** 🔴 +5 | 294 |
+| 197 | **Kayla Thornton** 🔴 | 294 |
+| 197 | **Natisha Hiedeman** 🔴 +5 | 294 |
 | 199 | Alexis Hornbuckle | 288 |
 | 199 | Kristen Rasmussen | 288 |
 
@@ -1555,8 +1555,8 @@ _Last updated: 2026-06-18 03:40 UTC_
 | 99 | Breanna Stewart | 668 |
 | 100 | Chamique Holdsclaw | 667 |
 | 101 | **Jewell Loyd** 🔴 +3 | 664 |
-| 102 | **Kayla Thornton** 🔴 +2 | 663 |
-| 103 | Tianna Hawkins | 662 |
+| 102 | **Kayla Thornton** 🔴 +1 | 662 |
+| 102 | Tianna Hawkins | 662 |
 | 104 | Tari Phillips | 648 |
 | 105 | Marie Ferdinand-Harris | 646 |
 | 106 | Charlotte Smith | 638 |
