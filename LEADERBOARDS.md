@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-18 01:59 UTC_
+_Last updated: 2026-06-18 02:00 UTC_
 
 ## Contents
 
@@ -112,8 +112,8 @@ _Last updated: 2026-06-18 01:59 UTC_
 | 91 | Shavonte Zellous | 3,103 |
 | 92 | Briann January | 3,082 |
 | 93 | Marina Mabrey | 3,052 |
-| 94 | Erika de Souza | 3,046 |
-| 94 | **Sabrina Ionescu** 🔴 +5 | 3,046 |
+| 94 | **Sabrina Ionescu** 🔴 +8 | 3,049 |
+| 95 | Erika de Souza | 3,046 |
 | 96 | Shameka Christon | 3,039 |
 | 97 | Marie Ferdinand-Harris | 3,001 |
 | 98 | Emma Meesseman | 2,966 |
@@ -236,7 +236,7 @@ _Last updated: 2026-06-18 01:59 UTC_
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | Alyssa Thomas | 2,817 |
-| 13 | **Jonquel Jones** 🔴 +7 | 2,670 |
+| 13 | **Jonquel Jones** 🔴 +8 | 2,671 |
 | 14 | Sancho Lyttle | 2,596 |
 | 15 | A'ja Wilson | 2,574 |
 | 15 | DeLisha Milton-Jones | 2,574 |
@@ -1069,7 +1069,7 @@ _Last updated: 2026-06-18 01:59 UTC_
 | 23 | Shekinna Stricklen | 468 |
 | 24 | Marina Mabrey | 465 |
 | 25 | Cappie Pondexter | 464 |
-| 26 | **Sabrina Ionescu** 🔴 +1 | 463 |
+| 25 | **Sabrina Ionescu** 🔴 +2 | 464 |
 | 27 | **Breanna Stewart** 🔴 +1 | 461 |
 | 28 | Ariel Atkins | 451 |
 | 28 | Tiffany Hayes | 451 |
@@ -1315,9 +1315,9 @@ _Last updated: 2026-06-18 01:59 UTC_
 | 64 | Ruth Riley | 637 |
 | 65 | Kayla McBride | 636 |
 | 65 | Kelsey Plum | 636 |
+| 67 | **Jonquel Jones** 🔴 +4 | 631 |
 | 67 | Odyssey Sims | 631 |
 | 67 | Svetlana Abrosimova | 631 |
-| 69 | **Jonquel Jones** 🔴 +3 | 630 |
 | 70 | Rebekkah Brunson | 615 |
 | 71 | Seimone Augustus | 613 |
 | 72 | Tiffany Hayes | 610 |

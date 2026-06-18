@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-18 02:00 UTC
+
+- **Sabrina Ionescu** passed **Erika de Souza** for **#94** all-time in points (career 3,049) — up from #95 entering today — _1:45 - 4th — NY @ CHI_
+
 ## 2026-06-18 01:54 UTC
 
 - **Breanna Stewart** passed **Chamique Holdsclaw** for **#99** all-time in fouls (career 668) — up from #100 entering today — _3:55 - 4th — NY @ CHI_
