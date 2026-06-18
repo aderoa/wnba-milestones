@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-18 02:31 UTC_
+_Last updated: 2026-06-18 02:32 UTC_
 
 ## Contents
 
@@ -208,7 +208,7 @@ _Last updated: 2026-06-18 02:31 UTC_
 | 187 | Sandy Brondello | 1,759 |
 | 188 | Sophie Cunningham | 1,752 |
 | 189 | Sugar Rodgers | 1,733 |
-| 190 | **Gabby Williams** 🔴 +4 | 1,727 |
+| 190 | **Gabby Williams** 🔴 +7 | 1,730 |
 | 191 | Moriah Jefferson | 1,722 |
 | 192 | Armintie Herrington | 1,696 |
 | 193 | Nikki Teasley | 1,690 |
@@ -1118,9 +1118,9 @@ _Last updated: 2026-06-18 02:31 UTC_
 | 72 | Nikki Teasley | 304 |
 | 73 | Vickie Johnson | 295 |
 | 74 | Seimone Augustus | 293 |
+| 75 | **Bridget Carleton** 🔴 +3 | 290 |
 | 75 | Candice Wiggins | 290 |
 | 75 | Tully Bevilaqua | 290 |
-| 77 | **Bridget Carleton** 🔴 +2 | 289 |
 | 78 | Alana Beard | 288 |
 | 78 | **Kayla Thornton** 🔴 | 288 |
 | 80 | Monique Currie | 284 |
@@ -1201,10 +1201,10 @@ _Last updated: 2026-06-18 02:31 UTC_
 | 155 | **Dearica Hamby** 🔴 | 142 |
 | 156 | Jordan Hooper | 141 |
 | 157 | Coco Miller | 139 |
+| 158 | **Gabby Williams** 🔴 +1 | 138 |
 | 158 | Loree Moore | 138 |
 | 158 | Tanisha Wright | 138 |
-| 160 | **Gabby Williams** 🔴 | 137 |
-| 160 | Kaleena Mosqueda-Lewis | 137 |
+| 161 | Kaleena Mosqueda-Lewis | 137 |
 | 162 | **Karlie Samuelson** 🔴 | 135 |
 | 163 | Shay Murphy | 134 |
 | 164 | Brooke Wyckoff | 132 |
