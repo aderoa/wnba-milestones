@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-18 03:29 UTC_
+_Last updated: 2026-06-18 03:30 UTC_
 
 ## Contents
 
@@ -37,7 +37,7 @@ _Last updated: 2026-06-18 03:29 UTC_
 | 16 | Brittney Griner | 6,037 |
 | 17 | Lauren Jackson | 6,005 |
 | 17 | Seimone Augustus | 6,005 |
-| 19 | **A'ja Wilson** 🔴 +22 | 5,964 |
+| 19 | **A'ja Wilson** 🔴 +24 | 5,966 |
 | 20 | Becky Hammon | 5,816 |
 | 21 | Angel McCoughtry | 5,797 |
 | 22 | Skylar Diggins | 5,645 |
@@ -300,7 +300,7 @@ _Last updated: 2026-06-18 03:29 UTC_
 | 74 | Courtney Vandersloot | 1,383 |
 | 74 | Katie Smith | 1,383 |
 | 76 | Ebony Hoffman | 1,376 |
-| 77 | **Kayla Thornton** 🔴 +6 | 1,366 |
+| 77 | **Kayla Thornton** 🔴 +7 | 1,367 |
 | 78 | Sheri Sam | 1,356 |
 | 79 | Tamika Whitmore | 1,355 |
 | 80 | Emma Meesseman | 1,350 |
@@ -1205,7 +1205,7 @@ _Last updated: 2026-06-18 03:29 UTC_
 | 159 | Loree Moore | 138 |
 | 159 | Tanisha Wright | 138 |
 | 161 | Kaleena Mosqueda-Lewis | 137 |
-| 162 | **Karlie Samuelson** 🔴 +1 | 136 |
+| 161 | **Karlie Samuelson** 🔴 +2 | 137 |
 | 163 | Shay Murphy | 134 |
 | 164 | Brooke Wyckoff | 132 |
 | 164 | Jenna O'Hea | 132 |
