@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-18 00:25 UTC_
+_Last updated: 2026-06-18 00:26 UTC_
 
 ## Contents
 
@@ -32,7 +32,7 @@ _Last updated: 2026-06-18 00:25 UTC_
 | 11 | Katie Smith | 6,450 |
 | 12 | Sylvia Fowles | 6,413 |
 | 13 | Lisa Leslie | 6,251 |
-| 14 | **Breanna Stewart** 🔴 +5 | 6,178 |
+| 14 | **Breanna Stewart** 🔴 +6 | 6,179 |
 | 15 | Jewell Loyd | 6,078 |
 | 16 | **Brittney Griner** 🔴 +4 | 6,035 |
 | 17 | Lauren Jackson | 6,005 |
@@ -240,7 +240,7 @@ _Last updated: 2026-06-18 00:25 UTC_
 | 14 | Sancho Lyttle | 2,596 |
 | 15 | A'ja Wilson | 2,574 |
 | 15 | DeLisha Milton-Jones | 2,574 |
-| 17 | **Breanna Stewart** 🔴 +2 | 2,562 |
+| 17 | **Breanna Stewart** 🔴 +3 | 2,563 |
 | 18 | **Brittney Griner** 🔴 +3 | 2,559 |
 | 19 | Swin Cash | 2,521 |
 | 20 | Michelle Snow | 2,476 |
@@ -1172,7 +1172,7 @@ _Last updated: 2026-06-18 00:25 UTC_
 | 126 | Theresa Plaisance | 172 |
 | 127 | Caitlin Clark | 171 |
 | 128 | Amanda Lassiter | 170 |
-| 129 | **Marine Johannès** 🔴 | 168 |
+| 129 | **Marine Johannès** 🔴 +1 | 169 |
 | 130 | Shavonte Zellous | 167 |
 | 130 | Tianna Hawkins | 167 |
 | 132 | Charlotte Smith | 164 |
