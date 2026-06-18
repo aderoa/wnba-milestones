@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-18 02:55 UTC_
+_Last updated: 2026-06-18 02:56 UTC_
 
 ## Contents
 
@@ -238,7 +238,7 @@ _Last updated: 2026-06-18 02:55 UTC_
 | 12 | **Alyssa Thomas** 🔴 +1 | 2,818 |
 | 13 | Jonquel Jones | 2,671 |
 | 14 | Sancho Lyttle | 2,596 |
-| 15 | **A'ja Wilson** 🔴 +2 | 2,576 |
+| 15 | **A'ja Wilson** 🔴 +3 | 2,577 |
 | 16 | DeLisha Milton-Jones | 2,574 |
 | 17 | Breanna Stewart | 2,566 |
 | 18 | Brittney Griner | 2,559 |
@@ -434,7 +434,7 @@ _Last updated: 2026-06-18 02:55 UTC_
 | 3 | Ticha Penicheiro | 2,588 |
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
-| 6 | **Chelsea Gray** 🔴 +4 | 1,939 |
+| 6 | **Chelsea Gray** 🔴 +5 | 1,940 |
 | 7 | **Alyssa Thomas** 🔴 +7 | 1,910 |
 | 8 | Skylar Diggins | 1,820 |
 | 9 | Natasha Cloud | 1,776 |
@@ -873,8 +873,8 @@ _Last updated: 2026-06-18 02:55 UTC_
 | 32 | Tina Thompson | 452 |
 | 33 | Maya Moore | 449 |
 | 34 | **Natasha Howard** 🔴 | 447 |
-| 35 | **Chelsea Gray** 🔴 | 445 |
-| 35 | **Jewell Loyd** 🔴 | 445 |
+| 35 | **Chelsea Gray** 🔴 +1 | 446 |
+| 36 | **Jewell Loyd** 🔴 | 445 |
 | 37 | **Kayla McBride** 🔴 +2 | 438 |
 | 37 | Sheri Sam | 438 |
 | 39 | Camille Smith | 437 |
@@ -1485,7 +1485,7 @@ _Last updated: 2026-06-18 02:55 UTC_
 | 29 | Lauren Jackson | 982 |
 | 30 | Nakia Sanford | 979 |
 | 31 | Asjha Jones | 971 |
-| 32 | **Alyssa Thomas** 🔴 | 954 |
+| 32 | **Alyssa Thomas** 🔴 +1 | 955 |
 | 33 | Margo Dydek | 950 |
 | 34 | Sancho Lyttle | 947 |
 | 35 | Mwadi Mabika | 941 |
