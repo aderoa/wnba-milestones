@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-18 03:21 UTC
+
+- **A'ja Wilson** passed **Natasha Cloud** for **#71** all-time in steals (career 350) — up from #72 entering today — _8:39 - 3rd — LV @ PHX_
+
 ## 2026-06-18 03:16 UTC
 
 - **Courtney Williams** passed **Ezi Magbegor** for **#131** all-time in fouls (career 577) — up from #132 entering today — _4:49 - 3rd — MIN @ LA_

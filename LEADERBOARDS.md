@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-18 03:20 UTC_
+_Last updated: 2026-06-18 03:21 UTC_
 
 ## Contents
 
@@ -89,7 +89,7 @@ _Last updated: 2026-06-18 03:20 UTC_
 | 68 | Camille Smith | 3,551 |
 | 69 | Napheesa Collier | 3,542 |
 | 69 | Shannon Johnson | 3,542 |
-| 71 | **Jackie Young** 🔴 +15 | 3,537 |
+| 71 | **Jackie Young** 🔴 +17 | 3,539 |
 | 72 | Renee Montgomery | 3,533 |
 | 73 | Jasmine Thomas | 3,522 |
 | 74 | Tamecka Dixon | 3,507 |
@@ -107,7 +107,7 @@ _Last updated: 2026-06-18 03:20 UTC_
 | 86 | Margo Dydek | 3,214 |
 | 87 | **Stefanie Dolson** 🔴 | 3,195 |
 | 88 | Danielle Robinson | 3,160 |
-| 89 | **Erica Wheeler** 🔴 +4 | 3,148 |
+| 89 | **Erica Wheeler** 🔴 +6 | 3,150 |
 | 90 | Wendy Palmer | 3,135 |
 | 91 | Shavonte Zellous | 3,103 |
 | 92 | Briann January | 3,082 |
@@ -249,7 +249,7 @@ _Last updated: 2026-06-18 03:20 UTC_
 | 23 | Yolanda Griffith | 2,440 |
 | 24 | **Dearica Hamby** 🔴 +9 | 2,400 |
 | 25 | Tangela Smith | 2,328 |
-| 26 | **Natasha Howard** 🔴 +8 | 2,261 |
+| 26 | **Natasha Howard** 🔴 +9 | 2,262 |
 | 27 | Erika de Souza | 2,220 |
 | 28 | Diana Taurasi | 2,201 |
 | 29 | Margo Dydek | 2,138 |
@@ -435,7 +435,7 @@ _Last updated: 2026-06-18 03:20 UTC_
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
 | 6 | **Chelsea Gray** 🔴 +5 | 1,940 |
-| 7 | **Alyssa Thomas** 🔴 +7 | 1,910 |
+| 7 | **Alyssa Thomas** 🔴 +8 | 1,911 |
 | 8 | Skylar Diggins | 1,820 |
 | 9 | Natasha Cloud | 1,776 |
 | 10 | Becky Hammon | 1,705 |
@@ -506,7 +506,7 @@ _Last updated: 2026-06-18 03:20 UTC_
 | 75 | Allisha Gray | 743 |
 | 76 | Monique Currie | 740 |
 | 77 | Elaine Powell | 728 |
-| 78 | **Dearica Hamby** 🔴 +3 | 721 |
+| 78 | **Dearica Hamby** 🔴 +2 | 720 |
 | 79 | **Stefanie Dolson** 🔴 | 700 |
 | 80 | Chamique Holdsclaw | 698 |
 | 81 | Shavonte Zellous | 693 |
@@ -521,7 +521,7 @@ _Last updated: 2026-06-18 03:20 UTC_
 | 89 | Plenette Pierson | 651 |
 | 91 | Brittney Griner | 649 |
 | 92 | Alex Bentley | 645 |
-| 93 | **A'ja Wilson** 🔴 +2 | 639 |
+| 93 | **A'ja Wilson** 🔴 +3 | 640 |
 | 94 | Asjha Jones | 637 |
 | 95 | Jennifer Azzi | 636 |
 | 96 | Jonquel Jones | 628 |
@@ -910,7 +910,7 @@ _Last updated: 2026-06-18 03:20 UTC_
 | 69 | Vicky Bullett | 353 |
 | 70 | Svetlana Abrosimova | 352 |
 | 71 | Natasha Cloud | 351 |
-| 72 | **A'ja Wilson** 🔴 +3 | 349 |
+| 72 | **A'ja Wilson** 🔴 +4 | 350 |
 | 73 | **Arike Ogunbowale** 🔴 +1 | 346 |
 | 73 | Janeth Arcain | 346 |
 | 75 | Helen Darling | 343 |

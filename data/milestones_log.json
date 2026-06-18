@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-18T03:21:00+00:00",
+    "text": "A'ja Wilson passed Natasha Cloud for #71 all-time in steals (career 350) \u2014 up from #72 entering today \u2014 (8:39 - 3rd \u2014 LV @ PHX)",
+    "kind": "rank_pass",
+    "player": "A'ja Wilson",
+    "stat": "steals",
+    "rank": 71,
+    "passed_players": [
+      "Natasha Cloud"
+    ],
+    "new_total": 350
+  },
+  {
     "ts": "2026-06-18T03:16:00+00:00",
     "text": "Courtney Williams passed Ezi Magbegor for #131 all-time in fouls (career 577) \u2014 up from #132 entering today \u2014 (4:49 - 3rd \u2014 MIN @ LA)",
     "kind": "rank_pass",
@@ -2977,17 +2989,5 @@
       "Cynthia Cooper"
     ],
     "new_total": 193
-  },
-  {
-    "ts": "2026-06-06T18:20:00+00:00",
-    "text": "Natasha Howard passed Maya Moore for #33 all-time in steals (career 450) \u2014 up from #34 entering today \u2014 (4:00 - 3rd \u2014 SEA @ MIN)",
-    "kind": "rank_pass",
-    "player": "Natasha Howard",
-    "stat": "steals",
-    "rank": 33,
-    "passed_players": [
-      "Maya Moore"
-    ],
-    "new_total": 450
   }
 ]
