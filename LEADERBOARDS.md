@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-18 01:15 UTC_
+_Last updated: 2026-06-18 01:16 UTC_
 
 ## Contents
 
@@ -436,7 +436,7 @@ _Last updated: 2026-06-18 01:15 UTC_
 | 5 | Lindsay Whalen | 2,347 |
 | 6 | Chelsea Gray | 1,935 |
 | 7 | Alyssa Thomas | 1,903 |
-| 8 | **Skylar Diggins** 🔴 +4 | 1,816 |
+| 8 | **Skylar Diggins** 🔴 +5 | 1,817 |
 | 9 | **Natasha Cloud** 🔴 +2 | 1,774 |
 | 10 | Becky Hammon | 1,705 |
 | 11 | Candace Parker | 1,634 |
@@ -644,7 +644,7 @@ _Last updated: 2026-06-18 01:15 UTC_
 | 8 | Tammy Sutton-Brown | 555 |
 | 9 | Tangela Smith | 554 |
 | 10 | Ruth Riley | 505 |
-| 11 | **Elizabeth Williams** 🔴 +1 | 494 |
+| 11 | **Elizabeth Williams** 🔴 +2 | 495 |
 | 12 | Taj McWilliams-Franklin | 443 |
 | 13 | **Breanna Stewart** 🔴 +1 | 437 |
 | 14 | Tina Charles | 428 |
@@ -1552,8 +1552,8 @@ _Last updated: 2026-06-18 01:15 UTC_
 | 94 | Temeka Johnson | 680 |
 | 97 | Kelly Miller | 676 |
 | 98 | Cheyenne Parker-Tyus | 674 |
+| 99 | **Breanna Stewart** 🔴 +2 | 667 |
 | 99 | Chamique Holdsclaw | 667 |
-| 100 | **Breanna Stewart** 🔴 +1 | 666 |
 | 101 | Tianna Hawkins | 662 |
 | 102 | Jewell Loyd | 661 |
 | 102 | Kayla Thornton | 661 |
