@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-18 03:56 UTC_
+_Last updated: 2026-06-18 03:57 UTC_
 
 ## Contents
 
@@ -238,7 +238,7 @@ _Last updated: 2026-06-18 03:56 UTC_
 | 12 | **Alyssa Thomas** 🔴 +4 | 2,821 |
 | 13 | Jonquel Jones | 2,671 |
 | 14 | Sancho Lyttle | 2,596 |
-| 15 | **A'ja Wilson** 🔴 +7 | 2,581 |
+| 15 | **A'ja Wilson** 🔴 +8 | 2,582 |
 | 16 | DeLisha Milton-Jones | 2,574 |
 | 17 | Breanna Stewart | 2,566 |
 | 18 | Brittney Griner | 2,559 |
@@ -268,7 +268,7 @@ _Last updated: 2026-06-18 03:56 UTC_
 | 42 | **Kiah Stokes** 🔴 +7 | 1,797 |
 | 43 | Asjha Jones | 1,751 |
 | 44 | **Stefanie Dolson** 🔴 +2 | 1,690 |
-| 45 | **Teaira McCowan** 🔴 | 1,682 |
+| 45 | **Teaira McCowan** 🔴 +1 | 1,683 |
 | 46 | Monique Currie | 1,666 |
 | 47 | Glory Johnson | 1,640 |
 | 48 | Vickie Johnson | 1,634 |
@@ -327,7 +327,7 @@ _Last updated: 2026-06-18 03:56 UTC_
 | 101 | Latasha Byears | 1,190 |
 | 101 | Tanisha Wright | 1,190 |
 | 103 | Vicky Bullett | 1,189 |
-| 104 | **Kahleah Copper** 🔴 +3 | 1,174 |
+| 104 | **Kahleah Copper** 🔴 +4 | 1,175 |
 | 105 | Nykesha Sales | 1,148 |
 | 106 | Brittney Sykes | 1,145 |
 | 107 | Shannon Johnson | 1,143 |
@@ -561,8 +561,8 @@ _Last updated: 2026-06-18 03:56 UTC_
 | 129 | Coco Miller | 503 |
 | 131 | Crystal Robinson | 488 |
 | 131 | Tiffany Mitchell | 488 |
-| 133 | **Kahleah Copper** 🔴 +2 | 486 |
-| 133 | Rebekkah Brunson | 486 |
+| 133 | **Kahleah Copper** 🔴 +3 | 487 |
+| 134 | Rebekkah Brunson | 486 |
 | 135 | Ukari Figgs | 470 |
 | 136 | Janeth Arcain | 469 |
 | 137 | Elizabeth Williams | 467 |
@@ -1418,7 +1418,7 @@ _Last updated: 2026-06-18 03:56 UTC_
 | 167 | Janell Burse | 347 |
 | 168 | Brionna Jones | 346 |
 | 169 | Loree Moore | 339 |
-| 170 | **Teaira McCowan** 🔴 | 338 |
+| 169 | **Teaira McCowan** 🔴 +1 | 339 |
 | 171 | Charlotte Smith | 337 |
 | 172 | Scholanda Dorrell | 335 |
 | 173 | Aerial Powers | 333 |
@@ -1565,7 +1565,7 @@ _Last updated: 2026-06-18 03:56 UTC_
 | 109 | Nicole Ohlde | 631 |
 | 110 | Jennifer Gillom | 629 |
 | 111 | Deanna Nolan | 628 |
-| 112 | **Teaira McCowan** 🔴 | 627 |
+| 111 | **Teaira McCowan** 🔴 +1 | 628 |
 | 113 | Brionna Jones | 625 |
 | 114 | **Chelsea Gray** 🔴 +1 | 622 |
 | 115 | Courtney Paris | 617 |
