@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-19 00:07 UTC_
+_Last updated: 2026-06-19 00:08 UTC_
 
 ## Contents
 
@@ -570,7 +570,7 @@ _Last updated: 2026-06-19 00:07 UTC_
 | 139 | Sylvia Fowles | 461 |
 | 140 | Satou Sabally | 456 |
 | 141 | Sydney Colson | 454 |
-| 141 | Tyasha Harris | 454 |
+| 141 | **Tyasha Harris** 🔴 | 454 |
 | 143 | Yolanda Griffith | 451 |
 | 144 | Elena Delle Donne | 450 |
 | 144 | Kristi Harrower | 450 |
@@ -1176,7 +1176,7 @@ _Last updated: 2026-06-19 00:07 UTC_
 | 130 | Shavonte Zellous | 167 |
 | 130 | Tianna Hawkins | 167 |
 | 132 | Charlotte Smith | 164 |
-| 133 | Tyasha Harris | 162 |
+| 133 | **Tyasha Harris** 🔴 | 162 |
 | 133 | Ukari Figgs | 162 |
 | 135 | Edna Campbell | 161 |
 | 136 | Dana Evans | 160 |
