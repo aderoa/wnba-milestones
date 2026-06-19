@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-19 23:33 UTC_
+_Last updated: 2026-06-19 23:34 UTC_
 
 ## Contents
 
@@ -111,9 +111,9 @@ _Last updated: 2026-06-19 23:33 UTC_
 | 90 | Wendy Palmer | 3,135 |
 | 91 | Shavonte Zellous | 3,103 |
 | 92 | Briann January | 3,082 |
-| 93 | **Marina Mabrey** 🔴 | 3,052 |
+| 93 | **Marina Mabrey** 🔴 +3 | 3,055 |
 | 94 | Erika de Souza | 3,046 |
-| 95 | **Sabrina Ionescu** 🔴 | 3,041 |
+| 95 | **Sabrina Ionescu** 🔴 +2 | 3,043 |
 | 96 | Shameka Christon | 3,039 |
 | 97 | Marie Ferdinand-Harris | 3,001 |
 | 98 | Emma Meesseman | 2,966 |
@@ -195,7 +195,7 @@ _Last updated: 2026-06-19 23:33 UTC_
 | 174 | Ebony Hoffman | 1,909 |
 | 175 | Candice Wiggins | 1,901 |
 | 176 | Natisha Hiedeman | 1,858 |
-| 177 | **Isabelle Harrison** 🔴 | 1,832 |
+| 177 | **Isabelle Harrison** 🔴 +3 | 1,835 |
 | 178 | Damiris Dantas | 1,830 |
 | 179 | Tianna Hawkins | 1,825 |
 | 180 | Noelle Quinn | 1,824 |
@@ -344,7 +344,7 @@ _Last updated: 2026-06-19 23:33 UTC_
 | 118 | Ann Wauters | 1,105 |
 | 119 | Svetlana Abrosimova | 1,078 |
 | 120 | Le'coe Willingham | 1,054 |
-| 121 | **Isabelle Harrison** 🔴 | 1,049 |
+| 121 | **Isabelle Harrison** 🔴 +1 | 1,050 |
 | 122 | Jackie Young | 1,044 |
 | 123 | Nicole Ohlde | 1,040 |
 | 124 | Tamecka Dixon | 1,035 |
@@ -1067,7 +1067,7 @@ _Last updated: 2026-06-19 23:33 UTC_
 | 21 | Allie Quigley | 510 |
 | 22 | Leilani Mitchell | 508 |
 | 23 | Shekinna Stricklen | 468 |
-| 24 | **Marina Mabrey** 🔴 | 465 |
+| 24 | **Marina Mabrey** 🔴 +1 | 466 |
 | 25 | Cappie Pondexter | 464 |
 | 26 | **Sabrina Ionescu** 🔴 | 462 |
 | 27 | **Breanna Stewart** 🔴 | 460 |
