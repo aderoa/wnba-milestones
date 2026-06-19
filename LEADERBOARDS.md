@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-19 00:19 UTC_
+_Last updated: 2026-06-19 00:20 UTC_
 
 ## Contents
 
@@ -184,7 +184,7 @@ _Last updated: 2026-06-19 00:19 UTC_
 | 163 | Chiney Ogwumike | 1,964 |
 | 164 | Nicole Ohlde | 1,959 |
 | 165 | Kedra Holland-Corn | 1,938 |
-| 166 | **Aliyah Boston** 🔴 +4 | 1,932 |
+| 166 | **Aliyah Boston** 🔴 +7 | 1,935 |
 | 167 | Cathrine Kraayeveld | 1,926 |
 | 168 | Roneeka Hodges | 1,925 |
 | 169 | Latasha Byears | 1,920 |
@@ -550,8 +550,8 @@ _Last updated: 2026-06-19 00:19 UTC_
 | 119 | Veronica Burton | 537 |
 | 120 | Marie Ferdinand-Harris | 528 |
 | 121 | Margo Dydek | 524 |
+| 122 | **Caitlin Clark** 🔴 +3 | 520 |
 | 122 | **Myisha Hines-Allen** 🔴 | 520 |
-| 123 | **Caitlin Clark** 🔴 +2 | 519 |
 | 124 | Iziane Castro Marques | 509 |
 | 124 | **Rhyne Howard** 🔴 +1 | 509 |
 | 126 | Brittany Boyd-Jones | 508 |
@@ -596,8 +596,8 @@ _Last updated: 2026-06-19 00:19 UTC_
 | 165 | Rita Williams | 403 |
 | 166 | Kia Nurse | 402 |
 | 167 | Julie Allemand | 401 |
-| 168 | **Aliyah Boston** 🔴 +1 | 399 |
-| 168 | Marissa Coleman | 399 |
+| 168 | **Aliyah Boston** 🔴 +2 | 400 |
+| 169 | Marissa Coleman | 399 |
 | 170 | Jessica Shepard | 395 |
 | 170 | Stacey Dales | 395 |
 | 172 | Sugar Rodgers | 393 |
