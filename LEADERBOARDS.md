@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-19 00:18 UTC_
+_Last updated: 2026-06-19 00:19 UTC_
 
 ## Contents
 
@@ -65,7 +65,7 @@ _Last updated: 2026-06-19 00:18 UTC_
 | 43 | Jia Perkins | 4,433 |
 | 45 | Kelsey Plum | 4,395 |
 | 46 | Courtney Vandersloot | 4,352 |
-| 47 | **Allisha Gray** 🔴 +2 | 4,341 |
+| 47 | **Allisha Gray** 🔴 +5 | 4,344 |
 | 48 | Sophia Young-Malcolm | 4,300 |
 | 49 | Kahleah Copper | 4,283 |
 | 50 | Plenette Pierson | 4,258 |
@@ -456,7 +456,7 @@ _Last updated: 2026-06-19 00:18 UTC_
 | 25 | Katie Smith | 1,258 |
 | 26 | Kelsey Plum | 1,237 |
 | 27 | Odyssey Sims | 1,228 |
-| 28 | **Jordin Canada** 🔴 +3 | 1,204 |
+| 28 | **Jordin Canada** 🔴 +4 | 1,205 |
 | 29 | Vickie Johnson | 1,202 |
 | 30 | Leilani Mitchell | 1,197 |
 | 31 | DeWanna Bonner | 1,192 |
@@ -892,8 +892,8 @@ _Last updated: 2026-06-19 00:18 UTC_
 | 51 | Briann January | 386 |
 | 52 | Swin Cash | 384 |
 | 52 | Tina Charles | 384 |
-| 54 | **Jordin Canada** 🔴 +2 | 382 |
-| 54 | Tiffany Hayes | 382 |
+| 54 | **Jordin Canada** 🔴 +3 | 383 |
+| 55 | Tiffany Hayes | 382 |
 | 56 | Ariel Atkins | 380 |
 | 57 | Monique Currie | 378 |
 | 58 | Chamique Holdsclaw | 376 |
@@ -1073,7 +1073,7 @@ _Last updated: 2026-06-19 00:18 UTC_
 | 27 | Breanna Stewart | 460 |
 | 28 | Ariel Atkins | 451 |
 | 28 | Tiffany Hayes | 451 |
-| 30 | **Allisha Gray** 🔴 | 445 |
+| 30 | **Allisha Gray** 🔴 +1 | 446 |
 | 31 | Lauren Jackson | 436 |
 | 32 | Skylar Diggins | 435 |
 | 33 | Shameka Christon | 434 |
@@ -1334,8 +1334,8 @@ _Last updated: 2026-06-19 00:18 UTC_
 | 83 | Breanna Stewart | 570 |
 | 83 | Kara Braxton | 570 |
 | 85 | Nikki McCray | 565 |
-| 86 | **Kelsey Mitchell** 🔴 | 563 |
-| 86 | Sancho Lyttle | 563 |
+| 86 | **Kelsey Mitchell** 🔴 +1 | 564 |
+| 87 | Sancho Lyttle | 563 |
 | 88 | Tan White | 557 |
 | 89 | Lauren Jackson | 549 |
 | 90 | Matee Ajavon | 544 |
