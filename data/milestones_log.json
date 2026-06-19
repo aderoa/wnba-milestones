@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-19T00:56:00+00:00",
+    "text": "Allisha Gray passed Allie Quigley for #119 all-time in turnovers (career 468) \u2014 up from #121 entering today \u2014 (7:18 - 3rd \u2014 ATL @ IND)",
+    "kind": "rank_pass",
+    "player": "Allisha Gray",
+    "stat": "turnovers",
+    "rank": 119,
+    "passed_players": [
+      "Allie Quigley"
+    ],
+    "new_total": 468
+  },
+  {
     "ts": "2026-06-18T04:08:00+00:00",
     "text": "Bridget Carleton passed Seimone Augustus for #74 all-time in three-pointers (career 294) \u2014 up from #79 entering today \u2014 (40.5 - 4th \u2014 SEA @ POR)",
     "kind": "rank_pass",
@@ -2971,17 +2983,5 @@
       "Jewell Loyd"
     ],
     "new_total": 662
-  },
-  {
-    "ts": "2026-06-06T19:12:00+00:00",
-    "text": "A'ja Wilson passed DeLisha Milton-Jones for #16 all-time in rebounds (career 2,575) \u2014 (5:44 - 1st \u2014 GS @ LV)",
-    "kind": "rank_pass",
-    "player": "A'ja Wilson",
-    "stat": "rebounds",
-    "rank": 16,
-    "passed_players": [
-      "DeLisha Milton-Jones"
-    ],
-    "new_total": 2575
   }
 ]
