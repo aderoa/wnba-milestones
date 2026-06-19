@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-19 00:59 UTC_
+_Last updated: 2026-06-19 01:00 UTC_
 
 ## Contents
 
@@ -215,7 +215,7 @@ _Last updated: 2026-06-19 00:59 UTC_
 | 194 | Shenise Johnson | 1,688 |
 | 195 | Janell Burse | 1,580 |
 | 196 | Le'coe Willingham | 1,552 |
-| 197 | **Monique Billings** 🔴 +4 | 1,547 |
+| 197 | **Monique Billings** 🔴 +5 | 1,548 |
 | 198 | Shatori Walker-Kimbrough | 1,544 |
 | 199 | Rebecca Allen | 1,526 |
 | 200 | Jennifer Lacy | 1,504 |
@@ -295,7 +295,7 @@ _Last updated: 2026-06-19 00:59 UTC_
 | 69 | Alana Beard | 1,420 |
 | 70 | Nakia Sanford | 1,419 |
 | 71 | Kara Braxton | 1,387 |
-| 72 | **Monique Billings** 🔴 +1 | 1,386 |
+| 71 | **Monique Billings** 🔴 +2 | 1,387 |
 | 73 | **Allisha Gray** 🔴 | 1,384 |
 | 74 | Courtney Vandersloot | 1,383 |
 | 74 | Katie Smith | 1,383 |
@@ -1529,7 +1529,7 @@ _Last updated: 2026-06-19 00:59 UTC_
 | 73 | Shameka Christon | 734 |
 | 74 | Becky Hammon | 733 |
 | 75 | Latasha Byears | 730 |
-| 76 | **Allisha Gray** 🔴 +1 | 727 |
+| 76 | **Allisha Gray** 🔴 +2 | 728 |
 | 77 | Kristi Toliver | 722 |
 | 78 | Elizabeth Williams | 720 |
 | 79 | Ariel Atkins | 713 |
