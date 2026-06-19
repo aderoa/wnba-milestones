@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-19 01:42 UTC_
+_Last updated: 2026-06-19 01:43 UTC_
 
 ## Contents
 
@@ -335,7 +335,7 @@ _Last updated: 2026-06-19 01:42 UTC_
 | 109 | Andrea Stinson | 1,127 |
 | 109 | Tamika Raymond | 1,127 |
 | 111 | Adrienne Goodson | 1,126 |
-| 112 | **Aliyah Boston** 🔴 +7 | 1,117 |
+| 112 | **Aliyah Boston** 🔴 +8 | 1,118 |
 | 113 | NaLyssa Smith | 1,115 |
 | 114 | Deanna Nolan | 1,112 |
 | 114 | Natasha Cloud | 1,112 |
@@ -1528,8 +1528,8 @@ _Last updated: 2026-06-19 01:42 UTC_
 | 72 | Crystal Langhorne | 737 |
 | 73 | Shameka Christon | 734 |
 | 74 | Becky Hammon | 733 |
+| 75 | **Allisha Gray** 🔴 +4 | 730 |
 | 75 | Latasha Byears | 730 |
-| 76 | **Allisha Gray** 🔴 +3 | 729 |
 | 77 | Kristi Toliver | 722 |
 | 78 | Elizabeth Williams | 720 |
 | 79 | Ariel Atkins | 713 |
