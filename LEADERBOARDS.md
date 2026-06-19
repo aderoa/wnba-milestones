@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-19 23:49 UTC_
+_Last updated: 2026-06-19 23:50 UTC_
 
 ## Contents
 
@@ -568,7 +568,7 @@ _Last updated: 2026-06-19 23:49 UTC_
 | 137 | Elizabeth Williams | 467 |
 | 138 | Erin Phillips | 462 |
 | 139 | Sylvia Fowles | 461 |
-| 140 | **Satou Sabally** 🔴 | 456 |
+| 140 | **Satou Sabally** 🔴 +1 | 457 |
 | 141 | Sydney Colson | 454 |
 | 141 | Tyasha Harris | 454 |
 | 143 | Yolanda Griffith | 451 |
