@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-19 01:37 UTC_
+_Last updated: 2026-06-19 01:38 UTC_
 
 ## Contents
 
@@ -204,8 +204,8 @@ _Last updated: 2026-06-19 01:37 UTC_
 | 183 | Charde Houston | 1,797 |
 | 184 | NaLyssa Smith | 1,775 |
 | 185 | Kamila Vodichkova | 1,767 |
-| 186 | Tully Bevilaqua | 1,763 |
-| 187 | **Sophie Cunningham** 🔴 +10 | 1,762 |
+| 186 | **Sophie Cunningham** 🔴 +12 | 1,764 |
+| 187 | Tully Bevilaqua | 1,763 |
 | 188 | Sandy Brondello | 1,759 |
 | 189 | Sugar Rodgers | 1,733 |
 | 190 | Gabby Williams | 1,723 |
@@ -569,7 +569,7 @@ _Last updated: 2026-06-19 01:37 UTC_
 | 138 | Erin Phillips | 462 |
 | 139 | Sylvia Fowles | 461 |
 | 140 | Satou Sabally | 456 |
-| 141 | **Tyasha Harris** 🔴 +1 | 455 |
+| 140 | **Tyasha Harris** 🔴 +2 | 456 |
 | 142 | Sydney Colson | 454 |
 | 143 | Yolanda Griffith | 451 |
 | 144 | Elena Delle Donne | 450 |
