@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-19 01:00 UTC_
+_Last updated: 2026-06-19 01:01 UTC_
 
 ## Contents
 
@@ -215,7 +215,7 @@ _Last updated: 2026-06-19 01:00 UTC_
 | 194 | Shenise Johnson | 1,688 |
 | 195 | Janell Burse | 1,580 |
 | 196 | Le'coe Willingham | 1,552 |
-| 197 | **Monique Billings** 🔴 +5 | 1,548 |
+| 197 | **Monique Billings** 🔴 +6 | 1,549 |
 | 198 | Shatori Walker-Kimbrough | 1,544 |
 | 199 | Rebecca Allen | 1,526 |
 | 200 | Jennifer Lacy | 1,504 |
@@ -714,7 +714,7 @@ _Last updated: 2026-06-19 01:00 UTC_
 | 77 | Sue Wicks | 153 |
 | 79 | Jessica Davenport | 151 |
 | 80 | Alison Bales | 148 |
-| 81 | **Aliyah Boston** 🔴 | 147 |
+| 80 | **Aliyah Boston** 🔴 +1 | 148 |
 | 82 | Chamique Holdsclaw | 143 |
 | 83 | Shavonte Zellous | 139 |
 | 84 | Penny Taylor | 136 |
