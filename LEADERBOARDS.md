@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-19 01:45 UTC_
+_Last updated: 2026-06-19 01:46 UTC_
 
 ## Contents
 
@@ -64,7 +64,7 @@ _Last updated: 2026-06-19 01:45 UTC_
 | 43 | Crystal Langhorne | 4,433 |
 | 43 | Jia Perkins | 4,433 |
 | 45 | Kelsey Plum | 4,395 |
-| 46 | **Allisha Gray** 🔴 +15 | 4,354 |
+| 46 | **Allisha Gray** 🔴 +17 | 4,356 |
 | 47 | Courtney Vandersloot | 4,352 |
 | 48 | Sophia Young-Malcolm | 4,300 |
 | 49 | Kahleah Copper | 4,283 |
@@ -367,7 +367,7 @@ _Last updated: 2026-06-19 01:45 UTC_
 | 141 | Dominique Canty | 961 |
 | 142 | Armintie Herrington | 960 |
 | 143 | Janell Burse | 944 |
-| 144 | **Angel Reese** 🔴 +7 | 930 |
+| 144 | **Angel Reese** 🔴 +8 | 931 |
 | 145 | Jessica Shepard | 927 |
 | 145 | Merlakia Jones | 927 |
 | 147 | Satou Sabally | 926 |
@@ -456,7 +456,7 @@ _Last updated: 2026-06-19 01:45 UTC_
 | 25 | Katie Smith | 1,258 |
 | 26 | Kelsey Plum | 1,237 |
 | 27 | Odyssey Sims | 1,228 |
-| 28 | **Jordin Canada** 🔴 +4 | 1,205 |
+| 28 | **Jordin Canada** 🔴 +5 | 1,206 |
 | 29 | Vickie Johnson | 1,202 |
 | 30 | Leilani Mitchell | 1,197 |
 | 31 | DeWanna Bonner | 1,192 |
@@ -713,7 +713,7 @@ _Last updated: 2026-06-19 01:45 UTC_
 | 77 | Ann Wauters | 153 |
 | 77 | Sue Wicks | 153 |
 | 79 | Jessica Davenport | 151 |
-| 80 | **Aliyah Boston** 🔴 +2 | 149 |
+| 80 | **Aliyah Boston** 🔴 +3 | 150 |
 | 81 | Alison Bales | 148 |
 | 82 | Chamique Holdsclaw | 143 |
 | 83 | Shavonte Zellous | 139 |
@@ -890,9 +890,9 @@ _Last updated: 2026-06-19 01:45 UTC_
 | 49 | Danielle Robinson | 389 |
 | 50 | Deanna Nolan | 388 |
 | 51 | Briann January | 386 |
+| 52 | **Jordin Canada** 🔴 +4 | 384 |
 | 52 | Swin Cash | 384 |
 | 52 | Tina Charles | 384 |
-| 54 | **Jordin Canada** 🔴 +3 | 383 |
 | 55 | Tiffany Hayes | 382 |
 | 56 | Ariel Atkins | 380 |
 | 57 | Monique Currie | 378 |
