@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-19 00:12 UTC_
+_Last updated: 2026-06-19 00:13 UTC_
 
 ## Contents
 
@@ -143,7 +143,7 @@ _Last updated: 2026-06-19 00:12 UTC_
 | 122 | Glory Johnson | 2,531 |
 | 123 | Nikki McCray | 2,521 |
 | 124 | Crystal Robinson | 2,496 |
-| 125 | **Rhyne Howard** 🔴 +9 | 2,481 |
+| 125 | **Rhyne Howard** 🔴 +10 | 2,482 |
 | 126 | Tiffany Mitchell | 2,480 |
 | 127 | Ruth Riley | 2,434 |
 | 128 | Svetlana Abrosimova | 2,414 |
@@ -205,7 +205,7 @@ _Last updated: 2026-06-19 00:12 UTC_
 | 184 | NaLyssa Smith | 1,775 |
 | 185 | Kamila Vodichkova | 1,767 |
 | 186 | Tully Bevilaqua | 1,763 |
-| 187 | **Sophie Cunningham** 🔴 +8 | 1,760 |
+| 187 | **Sophie Cunningham** 🔴 +10 | 1,762 |
 | 188 | Sandy Brondello | 1,759 |
 | 189 | Sugar Rodgers | 1,733 |
 | 190 | Gabby Williams | 1,723 |
@@ -456,7 +456,7 @@ _Last updated: 2026-06-19 00:12 UTC_
 | 25 | Katie Smith | 1,258 |
 | 26 | Kelsey Plum | 1,237 |
 | 27 | Odyssey Sims | 1,228 |
-| 28 | **Jordin Canada** 🔴 +2 | 1,203 |
+| 28 | **Jordin Canada** 🔴 +3 | 1,204 |
 | 29 | Vickie Johnson | 1,202 |
 | 30 | Leilani Mitchell | 1,197 |
 | 31 | DeWanna Bonner | 1,192 |
@@ -569,8 +569,8 @@ _Last updated: 2026-06-19 00:12 UTC_
 | 138 | Erin Phillips | 462 |
 | 139 | Sylvia Fowles | 461 |
 | 140 | Satou Sabally | 456 |
-| 141 | Sydney Colson | 454 |
-| 141 | **Tyasha Harris** 🔴 | 454 |
+| 141 | **Tyasha Harris** 🔴 +1 | 455 |
+| 142 | Sydney Colson | 454 |
 | 143 | Yolanda Griffith | 451 |
 | 144 | Elena Delle Donne | 450 |
 | 144 | Kristi Harrower | 450 |
@@ -1368,8 +1368,8 @@ _Last updated: 2026-06-19 00:12 UTC_
 | 117 | Ebony Hoffman | 470 |
 | 118 | Elaine Powell | 469 |
 | 119 | Allie Quigley | 467 |
-| 120 | A'ja Wilson | 466 |
-| 120 | **Allisha Gray** 🔴 | 466 |
+| 119 | **Allisha Gray** 🔴 +1 | 467 |
+| 121 | A'ja Wilson | 466 |
 | 122 | Ariel Atkins | 454 |
 | 122 | Kia Vaughn | 454 |
 | 124 | Janeth Arcain | 453 |
