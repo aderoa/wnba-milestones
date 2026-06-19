@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-19 23:45 UTC_
+_Last updated: 2026-06-19 23:46 UTC_
 
 ## Contents
 
@@ -34,7 +34,7 @@ _Last updated: 2026-06-19 23:45 UTC_
 | 13 | Lisa Leslie | 6,251 |
 | 14 | **Breanna Stewart** 🔴 | 6,173 |
 | 15 | Jewell Loyd | 6,078 |
-| 16 | **Brittney Griner** 🔴 +4 | 6,035 |
+| 16 | **Brittney Griner** 🔴 +6 | 6,037 |
 | 17 | Lauren Jackson | 6,005 |
 | 17 | Seimone Augustus | 6,005 |
 | 19 | A'ja Wilson | 5,942 |
@@ -166,7 +166,7 @@ _Last updated: 2026-06-19 23:45 UTC_
 | 145 | Janel McCarville | 2,215 |
 | 146 | Sami Whitcomb | 2,211 |
 | 147 | Sophia Witherspoon | 2,210 |
-| 148 | **Satou Sabally** 🔴 | 2,204 |
+| 148 | **Satou Sabally** 🔴 +3 | 2,207 |
 | 149 | Ruthie Bolton | 2,175 |
 | 150 | Ann Wauters | 2,170 |
 | 151 | Layshia Clarendon | 2,168 |
@@ -195,7 +195,7 @@ _Last updated: 2026-06-19 23:45 UTC_
 | 174 | Ebony Hoffman | 1,909 |
 | 175 | Candice Wiggins | 1,901 |
 | 176 | Natisha Hiedeman | 1,858 |
-| 177 | **Isabelle Harrison** 🔴 +5 | 1,837 |
+| 177 | **Isabelle Harrison** 🔴 +7 | 1,839 |
 | 178 | Damiris Dantas | 1,830 |
 | 179 | Tianna Hawkins | 1,825 |
 | 180 | Noelle Quinn | 1,824 |
@@ -240,7 +240,7 @@ _Last updated: 2026-06-19 23:45 UTC_
 | 14 | Sancho Lyttle | 2,596 |
 | 15 | A'ja Wilson | 2,574 |
 | 15 | DeLisha Milton-Jones | 2,574 |
-| 17 | **Breanna Stewart** 🔴 +3 | 2,563 |
+| 17 | **Breanna Stewart** 🔴 +4 | 2,564 |
 | 18 | **Brittney Griner** 🔴 | 2,556 |
 | 19 | Swin Cash | 2,521 |
 | 20 | Michelle Snow | 2,476 |
@@ -475,7 +475,7 @@ _Last updated: 2026-06-19 23:45 UTC_
 | 44 | Nikki Teasley | 982 |
 | 45 | Kayla McBride | 968 |
 | 46 | Tamecka Dixon | 960 |
-| 47 | **Breanna Stewart** 🔴 +1 | 954 |
+| 47 | **Breanna Stewart** 🔴 +2 | 955 |
 | 48 | Kara Lawson | 946 |
 | 49 | Tiffany Hayes | 936 |
 | 50 | Deanna Nolan | 930 |
@@ -501,7 +501,7 @@ _Last updated: 2026-06-19 23:45 UTC_
 | 70 | Tina Thompson | 803 |
 | 71 | Epiphanny Prince | 800 |
 | 72 | Mwadi Mabika | 774 |
-| 73 | **Marina Mabrey** 🔴 | 772 |
+| 73 | **Marina Mabrey** 🔴 +1 | 773 |
 | 74 | Sheri Sam | 745 |
 | 75 | Allisha Gray | 743 |
 | 76 | Monique Currie | 740 |
@@ -1145,9 +1145,9 @@ _Last updated: 2026-06-19 23:45 UTC_
 | 99 | Stacey Dales | 232 |
 | 100 | Elena Baranova | 224 |
 | 101 | Essence Carson | 223 |
-| 102 | Kelly Mazzante | 218 |
-| 102 | **Satou Sabally** 🔴 | 218 |
-| 102 | Sheri Sam | 218 |
+| 102 | **Satou Sabally** 🔴 +1 | 219 |
+| 103 | Kelly Mazzante | 218 |
+| 103 | Sheri Sam | 218 |
 | 105 | Damiris Dantas | 211 |
 | 105 | Erin Phillips | 211 |
 | 107 | Andrea Stinson | 207 |
