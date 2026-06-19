@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-19 23:44 UTC_
+_Last updated: 2026-06-19 23:45 UTC_
 
 ## Contents
 
@@ -111,7 +111,7 @@ _Last updated: 2026-06-19 23:44 UTC_
 | 90 | Wendy Palmer | 3,135 |
 | 91 | Shavonte Zellous | 3,103 |
 | 92 | Briann January | 3,082 |
-| 93 | **Marina Mabrey** 🔴 +8 | 3,060 |
+| 93 | **Marina Mabrey** 🔴 +11 | 3,063 |
 | 94 | Erika de Souza | 3,046 |
 | 94 | **Sabrina Ionescu** 🔴 +5 | 3,046 |
 | 96 | Shameka Christon | 3,039 |
@@ -166,7 +166,7 @@ _Last updated: 2026-06-19 23:44 UTC_
 | 145 | Janel McCarville | 2,215 |
 | 146 | Sami Whitcomb | 2,211 |
 | 147 | Sophia Witherspoon | 2,210 |
-| 148 | Satou Sabally | 2,204 |
+| 148 | **Satou Sabally** 🔴 | 2,204 |
 | 149 | Ruthie Bolton | 2,175 |
 | 150 | Ann Wauters | 2,170 |
 | 151 | Layshia Clarendon | 2,168 |
@@ -369,7 +369,7 @@ _Last updated: 2026-06-19 23:44 UTC_
 | 143 | Janell Burse | 944 |
 | 144 | Jessica Shepard | 927 |
 | 144 | Merlakia Jones | 927 |
-| 146 | Satou Sabally | 926 |
+| 146 | **Satou Sabally** 🔴 | 926 |
 | 147 | Angel Reese | 923 |
 | 148 | Nicky Anosike | 922 |
 | 149 | Janeth Arcain | 916 |
@@ -568,7 +568,7 @@ _Last updated: 2026-06-19 23:44 UTC_
 | 137 | Elizabeth Williams | 467 |
 | 138 | Erin Phillips | 462 |
 | 139 | Sylvia Fowles | 461 |
-| 140 | Satou Sabally | 456 |
+| 140 | **Satou Sabally** 🔴 | 456 |
 | 141 | Sydney Colson | 454 |
 | 141 | Tyasha Harris | 454 |
 | 143 | Yolanda Griffith | 451 |
@@ -828,7 +828,7 @@ _Last updated: 2026-06-19 23:44 UTC_
 | 192 | Mercedes Russell | 69 |
 | 192 | Rhonda Mapp | 69 |
 | 194 | Jackie Young | 68 |
-| 194 | Satou Sabally | 68 |
+| 194 | **Satou Sabally** 🔴 | 68 |
 | 196 | Shannon Johnson | 67 |
 | 197 | Crystal Robinson | 65 |
 | 197 | Queen Egbo | 65 |
@@ -1066,8 +1066,8 @@ _Last updated: 2026-06-19 23:44 UTC_
 | 20 | Sami Whitcomb | 511 |
 | 21 | Allie Quigley | 510 |
 | 22 | Leilani Mitchell | 508 |
+| 23 | **Marina Mabrey** 🔴 +3 | 468 |
 | 23 | Shekinna Stricklen | 468 |
-| 24 | **Marina Mabrey** 🔴 +2 | 467 |
 | 25 | Cappie Pondexter | 464 |
 | 26 | **Sabrina Ionescu** 🔴 +1 | 463 |
 | 27 | **Breanna Stewart** 🔴 | 460 |
@@ -1146,7 +1146,7 @@ _Last updated: 2026-06-19 23:44 UTC_
 | 100 | Elena Baranova | 224 |
 | 101 | Essence Carson | 223 |
 | 102 | Kelly Mazzante | 218 |
-| 102 | Satou Sabally | 218 |
+| 102 | **Satou Sabally** 🔴 | 218 |
 | 102 | Sheri Sam | 218 |
 | 105 | Damiris Dantas | 211 |
 | 105 | Erin Phillips | 211 |
@@ -1424,7 +1424,7 @@ _Last updated: 2026-06-19 23:44 UTC_
 | 173 | Aerial Powers | 333 |
 | 173 | Diamond DeShields | 333 |
 | 175 | Charde Houston | 331 |
-| 176 | Satou Sabally | 330 |
+| 176 | **Satou Sabally** 🔴 | 330 |
 | 177 | Erlana Larkins | 326 |
 | 177 | Rita Williams | 326 |
 | 179 | Le'coe Willingham | 325 |
@@ -1653,4 +1653,4 @@ _Last updated: 2026-06-19 23:44 UTC_
 | 197 | Kara Lawson | 457 |
 | 198 | NaLyssa Smith | 454 |
 | 199 | Alexis Hornbuckle | 450 |
-| 199 | Satou Sabally | 450 |
+| 199 | **Satou Sabally** 🔴 | 450 |
