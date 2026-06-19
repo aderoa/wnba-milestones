@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-19 00:52 UTC_
+_Last updated: 2026-06-19 00:53 UTC_
 
 ## Contents
 
@@ -47,7 +47,7 @@ _Last updated: 2026-06-19 00:52 UTC_
 | 26 | Lindsay Whalen | 5,511 |
 | 27 | Swin Cash | 5,119 |
 | 28 | Tangela Smith | 5,035 |
-| 29 | **Kelsey Mitchell** 🔴 +5 | 5,008 |
+| 29 | **Kelsey Mitchell** 🔴 +7 | 5,010 |
 | 30 | Taj McWilliams-Franklin | 4,992 |
 | 31 | Tiffany Hayes | 4,985 |
 | 32 | Maya Moore | 4,984 |
@@ -64,8 +64,8 @@ _Last updated: 2026-06-19 00:52 UTC_
 | 43 | Crystal Langhorne | 4,433 |
 | 43 | Jia Perkins | 4,433 |
 | 45 | Kelsey Plum | 4,395 |
+| 46 | **Allisha Gray** 🔴 +13 | 4,352 |
 | 46 | Courtney Vandersloot | 4,352 |
-| 47 | **Allisha Gray** 🔴 +10 | 4,349 |
 | 48 | Sophia Young-Malcolm | 4,300 |
 | 49 | Kahleah Copper | 4,283 |
 | 50 | Plenette Pierson | 4,258 |
@@ -336,9 +336,9 @@ _Last updated: 2026-06-19 00:52 UTC_
 | 109 | Tamika Raymond | 1,127 |
 | 111 | Adrienne Goodson | 1,126 |
 | 112 | NaLyssa Smith | 1,115 |
-| 113 | **Aliyah Boston** 🔴 +2 | 1,112 |
-| 113 | Deanna Nolan | 1,112 |
-| 113 | Natasha Cloud | 1,112 |
+| 113 | **Aliyah Boston** 🔴 +3 | 1,113 |
+| 114 | Deanna Nolan | 1,112 |
+| 114 | Natasha Cloud | 1,112 |
 | 116 | Chiney Ogwumike | 1,110 |
 | 117 | Becky Hammon | 1,108 |
 | 118 | Ann Wauters | 1,105 |
@@ -899,7 +899,7 @@ _Last updated: 2026-06-19 00:52 UTC_
 | 58 | Chamique Holdsclaw | 376 |
 | 59 | Mwadi Mabika | 370 |
 | 60 | Brittney Sykes | 367 |
-| 61 | **Allisha Gray** 🔴 +1 | 361 |
+| 61 | **Allisha Gray** 🔴 +2 | 362 |
 | 62 | Lauren Jackson | 360 |
 | 62 | Tan White | 360 |
 | 64 | Vickie Johnson | 357 |
@@ -1425,7 +1425,7 @@ _Last updated: 2026-06-19 00:52 UTC_
 | 173 | Diamond DeShields | 333 |
 | 175 | Charde Houston | 331 |
 | 176 | Satou Sabally | 330 |
-| 177 | **Caitlin Clark** 🔴 +3 | 327 |
+| 177 | **Caitlin Clark** 🔴 +4 | 328 |
 | 178 | Erlana Larkins | 326 |
 | 178 | Rita Williams | 326 |
 | 180 | Le'coe Willingham | 325 |
