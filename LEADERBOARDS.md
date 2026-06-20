@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-20 20:38 UTC_
+_Last updated: 2026-06-20 20:39 UTC_
 
 ## Contents
 
@@ -66,8 +66,8 @@ _Last updated: 2026-06-20 20:38 UTC_
 | 45 | Kelsey Plum | 4,395 |
 | 46 | Allisha Gray | 4,361 |
 | 47 | Courtney Vandersloot | 4,352 |
+| 48 | **Kahleah Copper** 🔴 +17 | 4,300 |
 | 48 | Sophia Young-Malcolm | 4,300 |
-| 49 | **Kahleah Copper** 🔴 +14 | 4,297 |
 | 50 | Plenette Pierson | 4,258 |
 | 51 | Monique Currie | 4,253 |
 | 52 | Dearica Hamby | 4,243 |
@@ -105,7 +105,7 @@ _Last updated: 2026-06-20 20:38 UTC_
 | 84 | Andrea Stinson | 3,351 |
 | 85 | Tanisha Wright | 3,324 |
 | 86 | Margo Dydek | 3,214 |
-| 87 | **Stefanie Dolson** 🔴 +3 | 3,198 |
+| 87 | **Stefanie Dolson** 🔴 +5 | 3,200 |
 | 88 | Danielle Robinson | 3,160 |
 | 89 | Erica Wheeler | 3,144 |
 | 90 | Wendy Palmer | 3,135 |
@@ -459,7 +459,7 @@ _Last updated: 2026-06-20 20:38 UTC_
 | 28 | Jordin Canada | 1,213 |
 | 29 | Vickie Johnson | 1,202 |
 | 30 | Leilani Mitchell | 1,197 |
-| 31 | **DeWanna Bonner** 🔴 | 1,192 |
+| 31 | **DeWanna Bonner** 🔴 +1 | 1,193 |
 | 32 | Jewell Loyd | 1,144 |
 | 33 | Renee Montgomery | 1,140 |
 | 34 | Swin Cash | 1,131 |
@@ -1095,7 +1095,7 @@ _Last updated: 2026-06-20 20:38 UTC_
 | 49 | Jonquel Jones | 371 |
 | 50 | Epiphanny Prince | 368 |
 | 51 | Kia Nurse | 364 |
-| 52 | **Kahleah Copper** 🔴 +1 | 356 |
+| 52 | **Kahleah Copper** 🔴 +2 | 357 |
 | 53 | Nykesha Sales | 352 |
 | 54 | Cathrine Kraayeveld | 343 |
 | 54 | Elena Delle Donne | 343 |
@@ -1320,8 +1320,8 @@ _Last updated: 2026-06-20 20:38 UTC_
 | 69 | Jonquel Jones | 627 |
 | 70 | Rebekkah Brunson | 615 |
 | 71 | Seimone Augustus | 613 |
+| 72 | **Kahleah Copper** 🔴 +1 | 610 |
 | 72 | Tiffany Hayes | 610 |
-| 73 | **Kahleah Copper** 🔴 | 609 |
 | 74 | Teresa Weatherspoon | 601 |
 | 75 | Lindsey Harding | 600 |
 | 75 | Tamika Whitmore | 600 |
