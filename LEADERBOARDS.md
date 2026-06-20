@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-20 01:16 UTC_
+_Last updated: 2026-06-20 01:17 UTC_
 
 ## Contents
 
@@ -72,8 +72,8 @@ _Last updated: 2026-06-20 01:16 UTC_
 | 51 | Monique Currie | 4,253 |
 | 52 | Dearica Hamby | 4,243 |
 | 53 | Courtney Williams | 4,238 |
+| 54 | **Jonquel Jones** 🔴 +8 | 4,230 |
 | 54 | Vickie Johnson | 4,230 |
-| 55 | **Jonquel Jones** 🔴 +7 | 4,229 |
 | 56 | Yolanda Griffith | 4,224 |
 | 57 | Rebekkah Brunson | 4,133 |
 | 58 | Asjha Jones | 3,986 |
@@ -236,7 +236,7 @@ _Last updated: 2026-06-20 01:16 UTC_
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | Alyssa Thomas | 2,817 |
-| 13 | **Jonquel Jones** 🔴 +9 | 2,672 |
+| 13 | **Jonquel Jones** 🔴 +10 | 2,673 |
 | 14 | Sancho Lyttle | 2,596 |
 | 15 | A'ja Wilson | 2,574 |
 | 15 | DeLisha Milton-Jones | 2,574 |
@@ -524,7 +524,7 @@ _Last updated: 2026-06-20 01:16 UTC_
 | 93 | A'ja Wilson | 637 |
 | 93 | Asjha Jones | 637 |
 | 95 | Jennifer Azzi | 636 |
-| 96 | **Jonquel Jones** 🔴 +1 | 626 |
+| 96 | **Jonquel Jones** 🔴 +2 | 627 |
 | 97 | Natisha Hiedeman | 624 |
 | 98 | Sami Whitcomb | 623 |
 | 99 | Alysha Clark | 616 |
@@ -591,8 +591,8 @@ _Last updated: 2026-06-20 01:16 UTC_
 | 160 | Aari McDonald | 415 |
 | 161 | Erin Thorn | 414 |
 | 162 | Jamierra Faulkner | 410 |
+| 162 | **Julie Allemand** 🔴 +9 | 410 |
 | 162 | Murriel Page | 410 |
-| 164 | **Julie Allemand** 🔴 +8 | 409 |
 | 165 | Allison Feaster | 406 |
 | 166 | Rita Williams | 403 |
 | 167 | **Kia Nurse** 🔴 | 402 |
