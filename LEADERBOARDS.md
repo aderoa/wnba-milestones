@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-20 03:43 UTC_
+_Last updated: 2026-06-20 03:44 UTC_
 
 ## Contents
 
@@ -43,7 +43,7 @@ _Last updated: 2026-06-20 03:43 UTC_
 | 22 | Skylar Diggins | 5,626 |
 | 23 | DeLisha Milton-Jones | 5,571 |
 | 24 | Katie Douglas | 5,545 |
-| 25 | **Kayla McBride** 🔴 +15 | 5,537 |
+| 25 | **Kayla McBride** 🔴 +17 | 5,539 |
 | 26 | Lindsay Whalen | 5,511 |
 | 27 | Swin Cash | 5,119 |
 | 28 | Tangela Smith | 5,035 |
@@ -207,7 +207,7 @@ _Last updated: 2026-06-20 03:43 UTC_
 | 186 | Tully Bevilaqua | 1,763 |
 | 187 | Sandy Brondello | 1,759 |
 | 188 | Sophie Cunningham | 1,752 |
-| 189 | **Gabby Williams** 🔴 +12 | 1,735 |
+| 189 | **Gabby Williams** 🔴 +15 | 1,738 |
 | 190 | Sugar Rodgers | 1,733 |
 | 191 | Moriah Jefferson | 1,722 |
 | 192 | Armintie Herrington | 1,696 |
@@ -392,7 +392,7 @@ _Last updated: 2026-06-20 03:43 UTC_
 | 166 | Amanda Zahui B | 819 |
 | 166 | Barbara Farris | 819 |
 | 168 | Carolyn Swords | 814 |
-| 169 | **Gabby Williams** 🔴 +5 | 800 |
+| 169 | **Gabby Williams** 🔴 +6 | 801 |
 | 170 | Tierra Ruffin-Pratt | 799 |
 | 171 | Betnijah Laney-Hamilton | 795 |
 | 172 | Charlotte Smith | 794 |
@@ -547,7 +547,7 @@ _Last updated: 2026-06-20 03:43 UTC_
 | 116 | Janel McCarville | 551 |
 | 116 | Svetlana Abrosimova | 551 |
 | 118 | Michele Timms | 549 |
-| 119 | **Veronica Burton** 🔴 +4 | 541 |
+| 119 | **Veronica Burton** 🔴 +5 | 542 |
 | 120 | Marie Ferdinand-Harris | 528 |
 | 121 | Margo Dydek | 524 |
 | 122 | Myisha Hines-Allen | 520 |
@@ -1201,9 +1201,9 @@ _Last updated: 2026-06-20 03:43 UTC_
 | 155 | Jordan Hooper | 141 |
 | 155 | Michaela Onyenwere | 141 |
 | 157 | Coco Miller | 139 |
-| 158 | **Gabby Williams** 🔴 +1 | 138 |
-| 158 | Loree Moore | 138 |
-| 158 | Tanisha Wright | 138 |
+| 157 | **Gabby Williams** 🔴 +2 | 139 |
+| 159 | Loree Moore | 138 |
+| 159 | Tanisha Wright | 138 |
 | 161 | Kaleena Mosqueda-Lewis | 137 |
 | 162 | Karlie Samuelson | 135 |
 | 163 | Shay Murphy | 134 |
