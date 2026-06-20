@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-20 18:29 UTC_
+_Last updated: 2026-06-20 18:30 UTC_
 
 ## Contents
 
@@ -503,7 +503,7 @@ _Last updated: 2026-06-20 18:29 UTC_
 | 72 | Mwadi Mabika | 774 |
 | 73 | Marina Mabrey | 772 |
 | 74 | Sheri Sam | 745 |
-| 75 | **Allisha Gray** 🔴 | 743 |
+| 75 | **Allisha Gray** 🔴 +1 | 744 |
 | 76 | Monique Currie | 740 |
 | 77 | Elaine Powell | 728 |
 | 78 | Dearica Hamby | 718 |
@@ -1425,7 +1425,7 @@ _Last updated: 2026-06-20 18:29 UTC_
 | 173 | Diamond DeShields | 333 |
 | 175 | Charde Houston | 331 |
 | 176 | Satou Sabally | 330 |
-| 177 | **Caitlin Clark** 🔴 +3 | 327 |
+| 177 | **Caitlin Clark** 🔴 +4 | 328 |
 | 178 | Erlana Larkins | 326 |
 | 178 | Rita Williams | 326 |
 | 180 | Le'coe Willingham | 325 |
