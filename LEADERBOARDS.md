@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-20 18:55 UTC_
+_Last updated: 2026-06-20 18:56 UTC_
 
 ## Contents
 
@@ -143,7 +143,7 @@ _Last updated: 2026-06-20 18:55 UTC_
 | 122 | Glory Johnson | 2,531 |
 | 123 | Nikki McCray | 2,521 |
 | 124 | Crystal Robinson | 2,496 |
-| 125 | **Rhyne Howard** 🔴 +17 | 2,489 |
+| 125 | **Rhyne Howard** 🔴 +20 | 2,492 |
 | 126 | Tiffany Mitchell | 2,480 |
 | 127 | Ruth Riley | 2,434 |
 | 128 | Svetlana Abrosimova | 2,414 |
@@ -354,8 +354,8 @@ _Last updated: 2026-06-20 18:55 UTC_
 | 128 | Kelly Miller | 1,011 |
 | 128 | Noelle Quinn | 1,011 |
 | 130 | Tiffany Jackson | 1,002 |
+| 131 | **Damiris Dantas** 🔴 +1 | 1,000 |
 | 131 | Tianna Hawkins | 1,000 |
-| 132 | **Damiris Dantas** 🔴 | 999 |
 | 133 | Sabrina Ionescu | 998 |
 | 134 | Marissa Coleman | 995 |
 | 135 | Kristen Rasmussen | 993 |
@@ -1082,7 +1082,7 @@ _Last updated: 2026-06-20 18:55 UTC_
 | 36 | Mwadi Mabika | 415 |
 | 37 | Penny Taylor | 407 |
 | 37 | Riquna Williams | 407 |
-| 39 | **Rhyne Howard** 🔴 +3 | 397 |
+| 39 | **Rhyne Howard** 🔴 +4 | 398 |
 | 40 | Jia Perkins | 396 |
 | 41 | Alysha Clark | 394 |
 | 42 | Roneeka Hodges | 389 |
@@ -1334,8 +1334,8 @@ _Last updated: 2026-06-20 18:55 UTC_
 | 83 | Breanna Stewart | 570 |
 | 83 | Kara Braxton | 570 |
 | 85 | Nikki McCray | 565 |
-| 86 | **Kelsey Mitchell** 🔴 | 563 |
-| 86 | Sancho Lyttle | 563 |
+| 86 | **Kelsey Mitchell** 🔴 +1 | 564 |
+| 87 | Sancho Lyttle | 563 |
 | 88 | Tan White | 557 |
 | 89 | Lauren Jackson | 549 |
 | 90 | Matee Ajavon | 544 |
