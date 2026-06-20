@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-20 02:46 UTC_
+_Last updated: 2026-06-20 02:47 UTC_
 
 ## Contents
 
@@ -262,8 +262,8 @@ _Last updated: 2026-06-20 02:46 UTC_
 | 36 | Natalie Williams | 1,832 |
 | 37 | Wendy Palmer | 1,824 |
 | 38 | Sophia Young-Malcolm | 1,807 |
+| 39 | **Courtney Williams** 🔴 +4 | 1,805 |
 | 39 | Lindsay Whalen | 1,805 |
-| 40 | **Courtney Williams** 🔴 +3 | 1,804 |
 | 41 | Camille Smith | 1,802 |
 | 42 | **Kiah Stokes** 🔴 +4 | 1,794 |
 | 43 | Asjha Jones | 1,751 |
@@ -445,7 +445,7 @@ _Last updated: 2026-06-20 02:46 UTC_
 | 14 | Danielle Robinson | 1,480 |
 | 15 | Shannon Johnson | 1,423 |
 | 15 | Tanisha Wright | 1,423 |
-| 17 | **Courtney Williams** 🔴 +2 | 1,407 |
+| 17 | **Courtney Williams** 🔴 +3 | 1,408 |
 | 18 | Temeka Johnson | 1,382 |
 | 19 | Jasmine Thomas | 1,355 |
 | 20 | Briann January | 1,339 |
@@ -1160,7 +1160,7 @@ _Last updated: 2026-06-20 02:46 UTC_
 | 114 | Victoria Vivians | 192 |
 | 115 | Danielle Adams | 188 |
 | 115 | Napheesa Collier | 188 |
-| 117 | **Nia Coffey** 🔴 +1 | 185 |
+| 117 | **Nia Coffey** 🔴 +3 | 187 |
 | 118 | Noelle Quinn | 184 |
 | 119 | Karima Christmas-Kelly | 181 |
 | 120 | Aerial Powers | 179 |
