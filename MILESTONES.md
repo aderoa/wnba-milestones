@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-20 00:17 UTC
+
+- **Marina Mabrey** passed **Tully Bevilaqua** for **#106** all-time in turnovers (career 515) — up from #109 entering today — _2:31 - 2nd — TOR @ CON_
+
 ## 2026-06-19 00:56 UTC
 
 - **Allisha Gray** passed **Allie Quigley** for **#119** all-time in turnovers (career 468) — up from #121 entering today — _7:18 - 3rd — ATL @ IND_
