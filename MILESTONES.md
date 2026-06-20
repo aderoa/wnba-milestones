@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-20 03:23 UTC
+
+- **Courtney Williams** passed **Sylvia Crawley** for **#121** all-time in blocks (career 107) — _5:20 - 3rd — MIN @ GS_
+
 ## 2026-06-20 01:19 UTC
 
 - **Marina Mabrey** passed **Briann January** for **#92** all-time in points (career 3,086) — up from #93 entering today — _3:16 - 4th — TOR @ CON_

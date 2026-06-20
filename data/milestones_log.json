@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-20T03:23:00+00:00",
+    "text": "Courtney Williams passed Sylvia Crawley for #121 all-time in blocks (career 107) \u2014 (5:20 - 3rd \u2014 MIN @ GS)",
+    "kind": "rank_pass",
+    "player": "Courtney Williams",
+    "stat": "blocks",
+    "rank": 121,
+    "passed_players": [
+      "Sylvia Crawley"
+    ],
+    "new_total": 107
+  },
+  {
     "ts": "2026-06-20T01:19:00+00:00",
     "text": "Marina Mabrey passed Briann January for #92 all-time in points (career 3,086) \u2014 up from #93 entering today \u2014 (3:16 - 4th \u2014 TOR @ CON)",
     "kind": "rank_pass",
@@ -2971,17 +2983,5 @@
       "Emma Meesseman"
     ],
     "new_total": 1351
-  },
-  {
-    "ts": "2026-06-06T19:19:00+00:00",
-    "text": "A'ja Wilson passed Allisha Gray for #121 all-time in turnovers (career 467) \u2014 (2:53 - 1st \u2014 GS @ LV)",
-    "kind": "rank_pass",
-    "player": "A'ja Wilson",
-    "stat": "turnovers",
-    "rank": 121,
-    "passed_players": [
-      "Allisha Gray"
-    ],
-    "new_total": 467
   }
 ]
