@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-20 17:22 UTC_
+_Last updated: 2026-06-20 17:23 UTC_
 
 ## Contents
 
@@ -184,13 +184,13 @@ _Last updated: 2026-06-20 17:22 UTC_
 | 163 | Chiney Ogwumike | 1,964 |
 | 164 | Nicole Ohlde | 1,959 |
 | 165 | Kedra Holland-Corn | 1,938 |
-| 166 | **Aliyah Boston** 🔴 +3 | 1,931 |
+| 166 | **Aliyah Boston** 🔴 +5 | 1,933 |
 | 167 | Cathrine Kraayeveld | 1,926 |
 | 168 | Roneeka Hodges | 1,925 |
-| 169 | Latasha Byears | 1,920 |
-| 170 | Karima Christmas-Kelly | 1,919 |
-| 171 | Jessica Breland | 1,918 |
-| 171 | **Myisha Hines-Allen** 🔴 | 1,918 |
+| 169 | **Myisha Hines-Allen** 🔴 +3 | 1,921 |
+| 170 | Latasha Byears | 1,920 |
+| 171 | Karima Christmas-Kelly | 1,919 |
+| 172 | Jessica Breland | 1,918 |
 | 173 | Nakia Sanford | 1,915 |
 | 174 | Ebony Hoffman | 1,909 |
 | 175 | Candice Wiggins | 1,901 |
@@ -336,9 +336,9 @@ _Last updated: 2026-06-20 17:22 UTC_
 | 109 | Tamika Raymond | 1,127 |
 | 111 | Adrienne Goodson | 1,126 |
 | 112 | NaLyssa Smith | 1,115 |
-| 113 | **Aliyah Boston** 🔴 +2 | 1,112 |
-| 113 | Deanna Nolan | 1,112 |
-| 113 | Natasha Cloud | 1,112 |
+| 113 | **Aliyah Boston** 🔴 +3 | 1,113 |
+| 114 | Deanna Nolan | 1,112 |
+| 114 | Natasha Cloud | 1,112 |
 | 116 | Chiney Ogwumike | 1,110 |
 | 117 | Becky Hammon | 1,108 |
 | 118 | Ann Wauters | 1,105 |
@@ -496,7 +496,7 @@ _Last updated: 2026-06-20 17:22 UTC_
 | 65 | Tully Bevilaqua | 853 |
 | 66 | Brittney Sykes | 852 |
 | 67 | Jia Perkins | 837 |
-| 68 | **Kelsey Mitchell** 🔴 +2 | 823 |
+| 68 | **Kelsey Mitchell** 🔴 +3 | 824 |
 | 69 | Andrea Stinson | 810 |
 | 70 | Tina Thompson | 803 |
 | 71 | Epiphanny Prince | 800 |
@@ -551,7 +551,7 @@ _Last updated: 2026-06-20 17:22 UTC_
 | 120 | Marie Ferdinand-Harris | 528 |
 | 121 | Margo Dydek | 524 |
 | 122 | **Myisha Hines-Allen** 🔴 | 520 |
-| 123 | **Caitlin Clark** 🔴 | 517 |
+| 123 | **Caitlin Clark** 🔴 +1 | 518 |
 | 124 | **Rhyne Howard** 🔴 +2 | 510 |
 | 125 | Iziane Castro Marques | 509 |
 | 126 | Brittany Boyd-Jones | 508 |
@@ -1212,8 +1212,8 @@ _Last updated: 2026-06-20 17:22 UTC_
 | 166 | Amanda Zahui B | 130 |
 | 166 | Eva Nemcova | 130 |
 | 168 | Crystal Dangerfield | 129 |
-| 169 | **Myisha Hines-Allen** 🔴 | 128 |
-| 169 | Ticha Penicheiro | 128 |
+| 168 | **Myisha Hines-Allen** 🔴 +1 | 129 |
+| 170 | Ticha Penicheiro | 128 |
 | 171 | Michele Timms | 127 |
 | 172 | Tamecka Dixon | 126 |
 | 173 | Charde Houston | 124 |
