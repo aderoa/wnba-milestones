@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-20 17:35 UTC_
+_Last updated: 2026-06-20 17:36 UTC_
 
 ## Contents
 
@@ -387,7 +387,7 @@ _Last updated: 2026-06-20 17:35 UTC_
 | 161 | Essence Carson | 833 |
 | 162 | Kristi Toliver | 829 |
 | 163 | Marie Ferdinand-Harris | 828 |
-| 164 | **Naz Hillmon** 🔴 +2 | 824 |
+| 164 | **Naz Hillmon** 🔴 +4 | 826 |
 | 165 | Marlies Askamp | 822 |
 | 166 | Amanda Zahui B | 819 |
 | 166 | Barbara Farris | 819 |
@@ -1609,8 +1609,8 @@ _Last updated: 2026-06-20 17:35 UTC_
 | 153 | **Sophie Cunningham** 🔴 +1 | 524 |
 | 154 | Armintie Herrington | 523 |
 | 155 | Kayla McBride | 522 |
-| 156 | **Monique Billings** 🔴 +2 | 519 |
-| 156 | Sheryl Swoopes | 519 |
+| 156 | **Monique Billings** 🔴 +3 | 520 |
+| 157 | Sheryl Swoopes | 519 |
 | 158 | **Myisha Hines-Allen** 🔴 +1 | 517 |
 | 158 | Nikki McCray | 517 |
 | 160 | Alex Bentley | 516 |
