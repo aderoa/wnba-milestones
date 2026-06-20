@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-20 02:38 UTC_
+_Last updated: 2026-06-20 02:39 UTC_
 
 ## Contents
 
@@ -70,7 +70,7 @@ _Last updated: 2026-06-20 02:38 UTC_
 | 49 | Kahleah Copper | 4,283 |
 | 50 | Plenette Pierson | 4,258 |
 | 51 | Monique Currie | 4,253 |
-| 52 | **Courtney Williams** 🔴 +9 | 4,247 |
+| 52 | **Courtney Williams** 🔴 +12 | 4,250 |
 | 53 | Dearica Hamby | 4,243 |
 | 54 | Jonquel Jones | 4,232 |
 | 55 | Vickie Johnson | 4,230 |
@@ -319,8 +319,8 @@ _Last updated: 2026-06-20 02:38 UTC_
 | 93 | Ezi Magbegor | 1,243 |
 | 94 | Myisha Hines-Allen | 1,239 |
 | 95 | Brianna Turner | 1,237 |
+| 96 | **Kayla McBride** 🔴 +2 | 1,228 |
 | 96 | Seimone Augustus | 1,228 |
-| 97 | **Kayla McBride** 🔴 +1 | 1,227 |
 | 98 | Chelsea Gray | 1,221 |
 | 99 | Jia Perkins | 1,220 |
 | 100 | DeMya Walker | 1,199 |
@@ -381,7 +381,7 @@ _Last updated: 2026-06-20 02:38 UTC_
 | 155 | Shameka Christon | 867 |
 | 156 | Alanna Smith | 864 |
 | 157 | Krystal Thomas | 862 |
-| 158 | **Nia Coffey** 🔴 +2 | 856 |
+| 158 | **Nia Coffey** 🔴 +3 | 857 |
 | 159 | Marina Mabrey | 853 |
 | 160 | Leilani Mitchell | 845 |
 | 161 | Essence Carson | 833 |
@@ -393,7 +393,7 @@ _Last updated: 2026-06-20 02:38 UTC_
 | 166 | Barbara Farris | 819 |
 | 168 | Carolyn Swords | 814 |
 | 169 | Tierra Ruffin-Pratt | 799 |
-| 170 | **Gabby Williams** 🔴 +1 | 796 |
+| 170 | **Gabby Williams** 🔴 +2 | 797 |
 | 171 | Betnijah Laney-Hamilton | 795 |
 | 172 | Charlotte Smith | 794 |
 | 173 | Rhonda Mapp | 788 |
@@ -1126,8 +1126,8 @@ _Last updated: 2026-06-20 02:38 UTC_
 | 80 | Monique Currie | 284 |
 | 81 | Iziane Castro Marques | 275 |
 | 82 | Stefanie Dolson | 273 |
+| 83 | **Courtney Williams** 🔴 +1 | 270 |
 | 83 | Sheryl Swoopes | 270 |
-| 84 | **Courtney Williams** 🔴 | 269 |
 | 85 | Sophia Witherspoon | 260 |
 | 86 | Dawn Staley | 254 |
 | 86 | Rebecca Allen | 254 |
