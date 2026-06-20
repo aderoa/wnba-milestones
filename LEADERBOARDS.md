@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-20 18:38 UTC_
+_Last updated: 2026-06-20 18:39 UTC_
 
 ## Contents
 
@@ -183,8 +183,8 @@ _Last updated: 2026-06-20 18:38 UTC_
 | 162 | Bria Hartley | 1,967 |
 | 163 | Chiney Ogwumike | 1,964 |
 | 164 | Nicole Ohlde | 1,959 |
+| 165 | **Aliyah Boston** 🔴 +10 | 1,938 |
 | 165 | Kedra Holland-Corn | 1,938 |
-| 166 | **Aliyah Boston** 🔴 +8 | 1,936 |
 | 167 | **Myisha Hines-Allen** 🔴 +9 | 1,927 |
 | 168 | Cathrine Kraayeveld | 1,926 |
 | 169 | Roneeka Hodges | 1,925 |
@@ -335,8 +335,8 @@ _Last updated: 2026-06-20 18:38 UTC_
 | 109 | Andrea Stinson | 1,127 |
 | 109 | Tamika Raymond | 1,127 |
 | 111 | Adrienne Goodson | 1,126 |
-| 112 | **Aliyah Boston** 🔴 +5 | 1,115 |
-| 112 | NaLyssa Smith | 1,115 |
+| 112 | **Aliyah Boston** 🔴 +6 | 1,116 |
+| 113 | NaLyssa Smith | 1,115 |
 | 114 | Deanna Nolan | 1,112 |
 | 114 | Natasha Cloud | 1,112 |
 | 116 | Chiney Ogwumike | 1,110 |
@@ -899,9 +899,9 @@ _Last updated: 2026-06-20 18:38 UTC_
 | 58 | Chamique Holdsclaw | 376 |
 | 59 | Mwadi Mabika | 370 |
 | 60 | Brittney Sykes | 367 |
-| 61 | **Allisha Gray** 🔴 | 360 |
-| 61 | Lauren Jackson | 360 |
-| 61 | Tan White | 360 |
+| 61 | **Allisha Gray** 🔴 +1 | 361 |
+| 62 | Lauren Jackson | 360 |
+| 62 | Tan White | 360 |
 | 64 | Vickie Johnson | 357 |
 | 65 | Dominique Canty | 356 |
 | 65 | Renee Montgomery | 356 |
