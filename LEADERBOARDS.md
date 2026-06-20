@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-20 02:51 UTC_
+_Last updated: 2026-06-20 02:52 UTC_
 
 ## Contents
 
@@ -300,7 +300,7 @@ _Last updated: 2026-06-20 02:51 UTC_
 | 74 | Courtney Vandersloot | 1,383 |
 | 74 | Katie Smith | 1,383 |
 | 76 | Ebony Hoffman | 1,376 |
-| 77 | **Kayla Thornton** 🔴 +3 | 1,363 |
+| 77 | **Kayla Thornton** 🔴 +5 | 1,365 |
 | 78 | Sheri Sam | 1,356 |
 | 79 | Tamika Whitmore | 1,355 |
 | 80 | Emma Meesseman | 1,350 |
@@ -616,7 +616,7 @@ _Last updated: 2026-06-20 02:51 UTC_
 | 185 | Andrea Nagy | 361 |
 | 185 | Diamond DeShields | 361 |
 | 185 | Erlana Larkins | 361 |
-| 188 | **Kayla Thornton** 🔴 +1 | 359 |
+| 188 | **Kayla Thornton** 🔴 +2 | 360 |
 | 189 | Merlakia Jones | 355 |
 | 190 | Charlotte Smith | 352 |
 | 190 | Ruthie Bolton | 352 |
@@ -1225,10 +1225,10 @@ _Last updated: 2026-06-20 02:51 UTC_
 | 177 | Tonya Edwards | 118 |
 | 180 | Edwige Lawson-Wade | 116 |
 | 180 | Marie Ferdinand-Harris | 116 |
-| 182 | Ebony Hoffman | 115 |
-| 182 | Shey Peddy | 115 |
-| 182 | Stephanie White | 115 |
-| 182 | **Veronica Burton** 🔴 | 115 |
+| 180 | **Veronica Burton** 🔴 +1 | 116 |
+| 183 | Ebony Hoffman | 115 |
+| 183 | Shey Peddy | 115 |
+| 183 | Stephanie White | 115 |
 | 186 | Gordana Grubin | 114 |
 | 186 | Rickea Jackson | 114 |
 | 186 | Sandy Brondello | 114 |
