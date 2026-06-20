@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-20 04:06 UTC
+
+- **Courtney Williams** passed **Plenette Pierson** for **#50** all-time in points (career 4,259) — up from #53 entering today — _24.2 - 4th — MIN @ GS_
+
 ## 2026-06-20 03:23 UTC
 
 - **Courtney Williams** passed **Sylvia Crawley** for **#121** all-time in blocks (career 107) — _5:20 - 3rd — MIN @ GS_
