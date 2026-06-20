@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-20 18:05 UTC_
+_Last updated: 2026-06-20 18:06 UTC_
 
 ## Contents
 
@@ -47,7 +47,7 @@ _Last updated: 2026-06-20 18:05 UTC_
 | 26 | Lindsay Whalen | 5,511 |
 | 27 | Swin Cash | 5,119 |
 | 28 | Tangela Smith | 5,035 |
-| 29 | **Kelsey Mitchell** 🔴 +14 | 5,017 |
+| 29 | **Kelsey Mitchell** 🔴 +15 | 5,018 |
 | 30 | Taj McWilliams-Franklin | 4,992 |
 | 31 | Tiffany Hayes | 4,985 |
 | 32 | Maya Moore | 4,984 |
@@ -1529,7 +1529,7 @@ _Last updated: 2026-06-20 18:05 UTC_
 | 73 | Shameka Christon | 734 |
 | 74 | Becky Hammon | 733 |
 | 75 | Latasha Byears | 730 |
-| 76 | **Allisha Gray** 🔴 +1 | 727 |
+| 76 | **Allisha Gray** 🔴 +2 | 728 |
 | 77 | Kristi Toliver | 722 |
 | 78 | Elizabeth Williams | 720 |
 | 79 | Ariel Atkins | 713 |
