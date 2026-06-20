@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-20 20:22 UTC_
+_Last updated: 2026-06-20 20:23 UTC_
 
 ## Contents
 
@@ -67,7 +67,7 @@ _Last updated: 2026-06-20 20:22 UTC_
 | 46 | Allisha Gray | 4,361 |
 | 47 | Courtney Vandersloot | 4,352 |
 | 48 | Sophia Young-Malcolm | 4,300 |
-| 49 | **Kahleah Copper** 🔴 +7 | 4,290 |
+| 49 | **Kahleah Copper** 🔴 +9 | 4,292 |
 | 50 | Plenette Pierson | 4,258 |
 | 51 | Monique Currie | 4,253 |
 | 52 | Dearica Hamby | 4,243 |
@@ -987,10 +987,10 @@ _Last updated: 2026-06-20 20:22 UTC_
 | 146 | DeMya Walker | 220 |
 | 146 | Jennifer Gillom | 220 |
 | 148 | Allison Feaster | 219 |
+| 149 | **Kahleah Copper** 🔴 +1 | 217 |
 | 149 | Shenise Johnson | 217 |
-| 150 | Adrian Williams-Strong | 216 |
-| 150 | **Kahleah Copper** 🔴 | 216 |
-| 150 | Moriah Jefferson | 216 |
+| 151 | Adrian Williams-Strong | 216 |
+| 151 | Moriah Jefferson | 216 |
 | 153 | Asjha Jones | 215 |
 | 153 | Candice Wiggins | 215 |
 | 153 | Cheyenne Parker-Tyus | 215 |
@@ -1446,7 +1446,7 @@ _Last updated: 2026-06-20 20:22 UTC_
 | 195 | Rachel Banham | 295 |
 | 196 | Kayla Thornton | 294 |
 | 197 | Azurá Stevens | 292 |
-| 198 | **Natisha Hiedeman** 🔴 +1 | 290 |
+| 198 | **Natisha Hiedeman** 🔴 +2 | 291 |
 | 199 | Alexis Hornbuckle | 288 |
 | 199 | Kristen Rasmussen | 288 |
 
