@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-20 19:05 UTC_
+_Last updated: 2026-06-20 19:06 UTC_
 
 ## Contents
 
@@ -706,8 +706,8 @@ _Last updated: 2026-06-20 19:05 UTC_
 | 70 | Shameka Christon | 165 |
 | 71 | Nia Coffey | 163 |
 | 72 | Cheryl Ford | 160 |
+| 73 | **Allisha Gray** 🔴 +1 | 157 |
 | 73 | Kara Braxton | 157 |
-| 74 | **Allisha Gray** 🔴 | 156 |
 | 75 | DeMya Walker | 155 |
 | 75 | Tamika Whitmore | 155 |
 | 77 | Ann Wauters | 153 |
