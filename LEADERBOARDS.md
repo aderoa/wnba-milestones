@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-20 00:55 UTC_
+_Last updated: 2026-06-20 00:56 UTC_
 
 ## Contents
 
@@ -32,7 +32,7 @@ _Last updated: 2026-06-20 00:55 UTC_
 | 11 | Katie Smith | 6,450 |
 | 12 | Sylvia Fowles | 6,413 |
 | 13 | Lisa Leslie | 6,251 |
-| 14 | **Breanna Stewart** 🔴 +12 | 6,185 |
+| 14 | **Breanna Stewart** 🔴 +14 | 6,187 |
 | 15 | Jewell Loyd | 6,078 |
 | 16 | **Brittney Griner** 🔴 +13 | 6,044 |
 | 17 | Lauren Jackson | 6,005 |
@@ -111,7 +111,7 @@ _Last updated: 2026-06-20 00:55 UTC_
 | 90 | Wendy Palmer | 3,135 |
 | 91 | Shavonte Zellous | 3,103 |
 | 92 | Briann January | 3,082 |
-| 93 | **Marina Mabrey** 🔴 +13 | 3,065 |
+| 93 | **Marina Mabrey** 🔴 +16 | 3,068 |
 | 94 | **Sabrina Ionescu** 🔴 +7 | 3,048 |
 | 95 | Erika de Souza | 3,046 |
 | 96 | Shameka Christon | 3,039 |
@@ -164,9 +164,9 @@ _Last updated: 2026-06-20 00:55 UTC_
 | 143 | Dawn Staley | 2,228 |
 | 144 | Teaira McCowan | 2,221 |
 | 145 | Janel McCarville | 2,215 |
-| 146 | **Satou Sabally** 🔴 +8 | 2,212 |
-| 147 | Sami Whitcomb | 2,211 |
-| 148 | Sophia Witherspoon | 2,210 |
+| 146 | Sami Whitcomb | 2,211 |
+| 147 | **Satou Sabally** 🔴 +6 | 2,210 |
+| 147 | Sophia Witherspoon | 2,210 |
 | 149 | Ruthie Bolton | 2,175 |
 | 150 | Ann Wauters | 2,170 |
 | 151 | Layshia Clarendon | 2,168 |
@@ -1066,8 +1066,8 @@ _Last updated: 2026-06-20 00:55 UTC_
 | 20 | Sami Whitcomb | 511 |
 | 21 | Allie Quigley | 510 |
 | 22 | Leilani Mitchell | 508 |
-| 23 | **Marina Mabrey** 🔴 +3 | 468 |
-| 23 | Shekinna Stricklen | 468 |
+| 23 | **Marina Mabrey** 🔴 +4 | 469 |
+| 24 | Shekinna Stricklen | 468 |
 | 25 | Cappie Pondexter | 464 |
 | 26 | **Sabrina Ionescu** 🔴 +1 | 463 |
 | 27 | **Breanna Stewart** 🔴 | 460 |
@@ -1354,7 +1354,7 @@ _Last updated: 2026-06-20 00:55 UTC_
 | 103 | Marie Ferdinand-Harris | 518 |
 | 104 | Shavonte Zellous | 517 |
 | 104 | Wendy Palmer | 517 |
-| 106 | **Marina Mabrey** 🔴 +5 | 515 |
+| 106 | **Marina Mabrey** 🔴 +6 | 516 |
 | 107 | Tully Bevilaqua | 514 |
 | 108 | Jia Perkins | 513 |
 | 109 | Jordin Canada | 512 |
@@ -1424,7 +1424,7 @@ _Last updated: 2026-06-20 00:55 UTC_
 | 173 | Aerial Powers | 333 |
 | 173 | Diamond DeShields | 333 |
 | 175 | Charde Houston | 331 |
-| 175 | **Satou Sabally** 🔴 +1 | 331 |
+| 176 | **Satou Sabally** 🔴 | 330 |
 | 177 | Erlana Larkins | 326 |
 | 177 | Rita Williams | 326 |
 | 179 | Le'coe Willingham | 325 |
@@ -1652,5 +1652,5 @@ _Last updated: 2026-06-20 00:55 UTC_
 | 196 | Natalie Achonwa | 459 |
 | 197 | Kara Lawson | 457 |
 | 198 | NaLyssa Smith | 454 |
-| 199 | **Satou Sabally** 🔴 +2 | 452 |
+| 199 | **Satou Sabally** 🔴 +1 | 451 |
 | 200 | Alexis Hornbuckle | 450 |
