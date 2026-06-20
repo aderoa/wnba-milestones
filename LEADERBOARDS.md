@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-20 00:39 UTC_
+_Last updated: 2026-06-20 00:40 UTC_
 
 ## Contents
 
@@ -236,12 +236,12 @@ _Last updated: 2026-06-20 00:39 UTC_
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | Alyssa Thomas | 2,817 |
-| 13 | **Jonquel Jones** 🔴 +5 | 2,668 |
+| 13 | **Jonquel Jones** 🔴 +6 | 2,669 |
 | 14 | Sancho Lyttle | 2,596 |
 | 15 | A'ja Wilson | 2,574 |
 | 15 | DeLisha Milton-Jones | 2,574 |
 | 17 | **Breanna Stewart** 🔴 +7 | 2,567 |
-| 18 | **Brittney Griner** 🔴 +4 | 2,560 |
+| 18 | **Brittney Griner** 🔴 +5 | 2,561 |
 | 19 | Swin Cash | 2,521 |
 | 20 | Michelle Snow | 2,476 |
 | 21 | Crystal Langhorne | 2,454 |
@@ -1349,8 +1349,8 @@ _Last updated: 2026-06-20 00:39 UTC_
 | 98 | Kara Lawson | 526 |
 | 99 | Leilani Mitchell | 525 |
 | 99 | Nicole Powell | 525 |
-| 101 | Arike Ogunbowale | 520 |
-| 101 | **Sabrina Ionescu** 🔴 +2 | 520 |
+| 101 | **Sabrina Ionescu** 🔴 +3 | 521 |
+| 102 | Arike Ogunbowale | 520 |
 | 103 | Marie Ferdinand-Harris | 518 |
 | 104 | Shavonte Zellous | 517 |
 | 104 | Wendy Palmer | 517 |
