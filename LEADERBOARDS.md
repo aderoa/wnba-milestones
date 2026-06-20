@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-20 04:01 UTC_
+_Last updated: 2026-06-20 04:02 UTC_
 
 ## Contents
 
@@ -261,7 +261,7 @@ _Last updated: 2026-06-20 04:01 UTC_
 | 35 | Plenette Pierson | 1,834 |
 | 36 | Natalie Williams | 1,832 |
 | 37 | Wendy Palmer | 1,824 |
-| 38 | **Courtney Williams** 🔴 +11 | 1,812 |
+| 38 | **Courtney Williams** 🔴 +12 | 1,813 |
 | 39 | Sophia Young-Malcolm | 1,807 |
 | 40 | Lindsay Whalen | 1,805 |
 | 41 | Camille Smith | 1,802 |
@@ -392,7 +392,7 @@ _Last updated: 2026-06-20 04:01 UTC_
 | 166 | Amanda Zahui B | 819 |
 | 166 | Barbara Farris | 819 |
 | 168 | Carolyn Swords | 814 |
-| 169 | **Gabby Williams** 🔴 +7 | 802 |
+| 169 | **Gabby Williams** 🔴 +8 | 803 |
 | 170 | Tierra Ruffin-Pratt | 799 |
 | 171 | Betnijah Laney-Hamilton | 795 |
 | 172 | Charlotte Smith | 794 |
