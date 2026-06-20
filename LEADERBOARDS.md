@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-20 03:14 UTC_
+_Last updated: 2026-06-20 03:15 UTC_
 
 ## Contents
 
@@ -43,7 +43,7 @@ _Last updated: 2026-06-20 03:14 UTC_
 | 22 | Skylar Diggins | 5,626 |
 | 23 | DeLisha Milton-Jones | 5,571 |
 | 24 | Katie Douglas | 5,545 |
-| 25 | **Kayla McBride** 🔴 +6 | 5,528 |
+| 25 | **Kayla McBride** 🔴 +9 | 5,531 |
 | 26 | Lindsay Whalen | 5,511 |
 | 27 | Swin Cash | 5,119 |
 | 28 | Tangela Smith | 5,035 |
@@ -150,7 +150,7 @@ _Last updated: 2026-06-20 03:14 UTC_
 | 129 | Anna DeForge | 2,413 |
 | 130 | DeMya Walker | 2,379 |
 | 131 | Alex Bentley | 2,350 |
-| 132 | **Kayla Thornton** 🔴 | 2,333 |
+| 132 | **Kayla Thornton** 🔴 +3 | 2,336 |
 | 133 | Merlakia Jones | 2,308 |
 | 134 | Kia Vaughn | 2,288 |
 | 135 | Betnijah Laney-Hamilton | 2,282 |
@@ -249,7 +249,7 @@ _Last updated: 2026-06-20 03:14 UTC_
 | 23 | Yolanda Griffith | 2,440 |
 | 24 | Dearica Hamby | 2,391 |
 | 25 | Tangela Smith | 2,328 |
-| 26 | **Natasha Howard** 🔴 +3 | 2,256 |
+| 26 | **Natasha Howard** 🔴 +4 | 2,257 |
 | 27 | Erika de Souza | 2,220 |
 | 28 | Diana Taurasi | 2,201 |
 | 29 | Margo Dydek | 2,138 |
@@ -530,7 +530,7 @@ _Last updated: 2026-06-20 03:14 UTC_
 | 99 | Alysha Clark | 616 |
 | 100 | Debbie Black | 612 |
 | 101 | Cynthia Cooper | 602 |
-| 102 | **Natasha Howard** 🔴 +1 | 597 |
+| 102 | **Natasha Howard** 🔴 +2 | 598 |
 | 103 | Sancho Lyttle | 592 |
 | 104 | Camille Smith | 590 |
 | 105 | Armintie Herrington | 589 |
@@ -1049,7 +1049,7 @@ _Last updated: 2026-06-20 03:14 UTC_
 | 3 | Katie Smith | 906 |
 | 4 | Becky Hammon | 825 |
 | 5 | Tina Thompson | 745 |
-| 6 | **Kayla McBride** 🔴 | 737 |
+| 6 | **Kayla McBride** 🔴 +1 | 738 |
 | 7 | Katie Douglas | 723 |
 | 8 | Kelsey Mitchell | 687 |
 | 9 | Jewell Loyd | 678 |
@@ -1120,8 +1120,8 @@ _Last updated: 2026-06-20 03:14 UTC_
 | 74 | Seimone Augustus | 293 |
 | 75 | Candice Wiggins | 290 |
 | 75 | Tully Bevilaqua | 290 |
-| 77 | Alana Beard | 288 |
-| 77 | **Kayla Thornton** 🔴 | 288 |
+| 77 | **Kayla Thornton** 🔴 +1 | 289 |
+| 78 | Alana Beard | 288 |
 | 79 | Bridget Carleton | 287 |
 | 80 | Monique Currie | 284 |
 | 81 | Iziane Castro Marques | 275 |
