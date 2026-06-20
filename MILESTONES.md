@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-20 01:19 UTC
+
+- **Marina Mabrey** passed **Briann January** for **#92** all-time in points (career 3,086) — up from #93 entering today — _3:16 - 4th — TOR @ CON_
+
 ## 2026-06-20 00:17 UTC
 
 - **Marina Mabrey** passed **Tully Bevilaqua** for **#106** all-time in turnovers (career 515) — up from #109 entering today — _2:31 - 2nd — TOR @ CON_
