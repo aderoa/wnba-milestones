@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-20 02:21 UTC_
+_Last updated: 2026-06-20 02:22 UTC_
 
 ## Contents
 
@@ -300,7 +300,7 @@ _Last updated: 2026-06-20 02:21 UTC_
 | 74 | Courtney Vandersloot | 1,383 |
 | 74 | Katie Smith | 1,383 |
 | 76 | Ebony Hoffman | 1,376 |
-| 77 | **Kayla Thornton** 🔴 +3 | 1,363 |
+| 77 | **Kayla Thornton** 🔴 +2 | 1,362 |
 | 78 | Sheri Sam | 1,356 |
 | 79 | Tamika Whitmore | 1,355 |
 | 80 | Emma Meesseman | 1,350 |
@@ -320,7 +320,7 @@ _Last updated: 2026-06-20 02:21 UTC_
 | 94 | Myisha Hines-Allen | 1,239 |
 | 95 | Brianna Turner | 1,237 |
 | 96 | Seimone Augustus | 1,228 |
-| 97 | **Kayla McBride** 🔴 | 1,226 |
+| 97 | **Kayla McBride** 🔴 +1 | 1,227 |
 | 98 | Chelsea Gray | 1,221 |
 | 99 | Jia Perkins | 1,220 |
 | 100 | DeMya Walker | 1,199 |
