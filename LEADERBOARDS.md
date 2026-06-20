@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-20 02:12 UTC_
+_Last updated: 2026-06-20 02:13 UTC_
 
 ## Contents
 
@@ -654,7 +654,7 @@ _Last updated: 2026-06-20 02:12 UTC_
 | 18 | Tina Thompson | 372 |
 | 19 | Erika de Souza | 370 |
 | 20 | Jessica Breland | 367 |
-| 21 | **Natasha Howard** 🔴 | 363 |
+| 21 | **Natasha Howard** 🔴 +1 | 364 |
 | 22 | Ezi Magbegor | 354 |
 | 23 | DeWanna Bonner | 353 |
 | 24 | Diana Taurasi | 349 |
@@ -1554,9 +1554,9 @@ _Last updated: 2026-06-20 02:12 UTC_
 | 98 | Cheyenne Parker-Tyus | 674 |
 | 99 | Breanna Stewart | 670 |
 | 100 | Chamique Holdsclaw | 667 |
+| 101 | **Kayla Thornton** 🔴 +1 | 662 |
 | 101 | Tianna Hawkins | 662 |
-| 102 | Jewell Loyd | 661 |
-| 102 | **Kayla Thornton** 🔴 | 661 |
+| 103 | Jewell Loyd | 661 |
 | 104 | Tari Phillips | 648 |
 | 105 | Marie Ferdinand-Harris | 646 |
 | 106 | Charlotte Smith | 638 |
