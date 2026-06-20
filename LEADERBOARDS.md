@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-20 19:02 UTC_
+_Last updated: 2026-06-20 19:03 UTC_
 
 ## Contents
 
@@ -195,8 +195,8 @@ _Last updated: 2026-06-20 19:02 UTC_
 | 174 | Ebony Hoffman | 1,909 |
 | 175 | Candice Wiggins | 1,901 |
 | 176 | Natisha Hiedeman | 1,858 |
+| 177 | **Damiris Dantas** 🔴 +2 | 1,832 |
 | 177 | Isabelle Harrison | 1,832 |
-| 178 | **Damiris Dantas** 🔴 | 1,830 |
 | 179 | Tianna Hawkins | 1,825 |
 | 180 | Noelle Quinn | 1,824 |
 | 181 | Rachel Banham | 1,823 |
@@ -353,8 +353,8 @@ _Last updated: 2026-06-20 19:02 UTC_
 | 127 | Cathrine Kraayeveld | 1,013 |
 | 128 | Kelly Miller | 1,011 |
 | 128 | Noelle Quinn | 1,011 |
+| 130 | **Damiris Dantas** 🔴 +3 | 1,002 |
 | 130 | Tiffany Jackson | 1,002 |
-| 131 | **Damiris Dantas** 🔴 +2 | 1,001 |
 | 132 | Tianna Hawkins | 1,000 |
 | 133 | Sabrina Ionescu | 998 |
 | 134 | Marissa Coleman | 995 |
@@ -550,7 +550,7 @@ _Last updated: 2026-06-20 19:02 UTC_
 | 119 | Veronica Burton | 537 |
 | 120 | Marie Ferdinand-Harris | 528 |
 | 121 | Margo Dydek | 524 |
-| 122 | **Caitlin Clark** 🔴 +5 | 522 |
+| 122 | **Caitlin Clark** 🔴 +6 | 523 |
 | 123 | **Myisha Hines-Allen** 🔴 | 520 |
 | 124 | **Rhyne Howard** 🔴 +3 | 511 |
 | 125 | Iziane Castro Marques | 509 |
