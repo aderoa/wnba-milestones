@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-20 04:02 UTC_
+_Last updated: 2026-06-20 04:03 UTC_
 
 ## Contents
 
@@ -1606,7 +1606,7 @@ _Last updated: 2026-06-20 04:02 UTC_
 | 150 | Candice Wiggins | 525 |
 | 150 | Epiphanny Prince | 525 |
 | 150 | Jackie Young | 525 |
-| 153 | **Kayla McBride** 🔴 +2 | 524 |
+| 150 | **Kayla McBride** 🔴 +3 | 525 |
 | 154 | Armintie Herrington | 523 |
 | 154 | Sophie Cunningham | 523 |
 | 156 | Sheryl Swoopes | 519 |
