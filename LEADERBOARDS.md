@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-20 03:18 UTC_
+_Last updated: 2026-06-20 03:19 UTC_
 
 ## Contents
 
@@ -69,8 +69,8 @@ _Last updated: 2026-06-20 03:18 UTC_
 | 48 | Sophia Young-Malcolm | 4,300 |
 | 49 | Kahleah Copper | 4,283 |
 | 50 | Plenette Pierson | 4,258 |
+| 51 | **Courtney Williams** 🔴 +15 | 4,253 |
 | 51 | Monique Currie | 4,253 |
-| 52 | **Courtney Williams** 🔴 +12 | 4,250 |
 | 53 | Dearica Hamby | 4,243 |
 | 54 | Jonquel Jones | 4,232 |
 | 55 | Vickie Johnson | 4,230 |
@@ -249,7 +249,7 @@ _Last updated: 2026-06-20 03:18 UTC_
 | 23 | Yolanda Griffith | 2,440 |
 | 24 | Dearica Hamby | 2,391 |
 | 25 | Tangela Smith | 2,328 |
-| 26 | **Natasha Howard** 🔴 +5 | 2,258 |
+| 26 | **Natasha Howard** 🔴 +6 | 2,259 |
 | 27 | Erika de Souza | 2,220 |
 | 28 | Diana Taurasi | 2,201 |
 | 29 | Margo Dydek | 2,138 |
@@ -381,7 +381,7 @@ _Last updated: 2026-06-20 03:18 UTC_
 | 155 | Shameka Christon | 867 |
 | 156 | Alanna Smith | 864 |
 | 157 | Krystal Thomas | 862 |
-| 158 | **Nia Coffey** 🔴 +4 | 858 |
+| 158 | **Nia Coffey** 🔴 +5 | 859 |
 | 159 | Marina Mabrey | 853 |
 | 160 | Leilani Mitchell | 845 |
 | 161 | Essence Carson | 833 |
@@ -1126,8 +1126,8 @@ _Last updated: 2026-06-20 03:18 UTC_
 | 80 | Monique Currie | 284 |
 | 81 | Iziane Castro Marques | 275 |
 | 82 | Stefanie Dolson | 273 |
-| 83 | **Courtney Williams** 🔴 +1 | 270 |
-| 83 | Sheryl Swoopes | 270 |
+| 83 | **Courtney Williams** 🔴 +2 | 271 |
+| 84 | Sheryl Swoopes | 270 |
 | 85 | Sophia Witherspoon | 260 |
 | 86 | Dawn Staley | 254 |
 | 86 | Rebecca Allen | 254 |
@@ -1276,7 +1276,7 @@ _Last updated: 2026-06-20 03:18 UTC_
 | 25 | Alana Beard | 854 |
 | 26 | DeWanna Bonner | 837 |
 | 27 | Katie Douglas | 824 |
-| 28 | **Natasha Howard** 🔴 | 821 |
+| 28 | **Natasha Howard** 🔴 +1 | 822 |
 | 29 | Betty Lennox | 800 |
 | 30 | Jasmine Thomas | 796 |
 | 31 | Nneka Ogwumike | 795 |
