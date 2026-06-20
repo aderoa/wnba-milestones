@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-20 00:59 UTC_
+_Last updated: 2026-06-20 01:00 UTC_
 
 ## Contents
 
@@ -164,7 +164,7 @@ _Last updated: 2026-06-20 00:59 UTC_
 | 143 | Dawn Staley | 2,228 |
 | 144 | Teaira McCowan | 2,221 |
 | 145 | Janel McCarville | 2,215 |
-| 146 | **Satou Sabally** 🔴 +8 | 2,212 |
+| 145 | **Satou Sabally** 🔴 +11 | 2,215 |
 | 147 | Sami Whitcomb | 2,211 |
 | 148 | Sophia Witherspoon | 2,210 |
 | 149 | Ruthie Bolton | 2,175 |
@@ -465,7 +465,7 @@ _Last updated: 2026-06-20 00:59 UTC_
 | 34 | Swin Cash | 1,131 |
 | 35 | Lindsey Harding | 1,090 |
 | 36 | Jackie Young | 1,087 |
-| 37 | **Sabrina Ionescu** 🔴 +2 | 1,076 |
+| 37 | **Sabrina Ionescu** 🔴 +3 | 1,077 |
 | 38 | Katie Douglas | 1,069 |
 | 39 | Alana Beard | 1,061 |
 | 40 | Penny Taylor | 1,049 |
@@ -1145,7 +1145,7 @@ _Last updated: 2026-06-20 00:59 UTC_
 | 99 | Stacey Dales | 232 |
 | 100 | Elena Baranova | 224 |
 | 101 | Essence Carson | 223 |
-| 102 | **Satou Sabally** 🔴 +2 | 220 |
+| 102 | **Satou Sabally** 🔴 +3 | 221 |
 | 103 | Kelly Mazzante | 218 |
 | 103 | Sheri Sam | 218 |
 | 105 | Damiris Dantas | 211 |
