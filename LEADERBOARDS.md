@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-20 03:28 UTC_
+_Last updated: 2026-06-20 03:29 UTC_
 
 ## Contents
 
@@ -43,7 +43,7 @@ _Last updated: 2026-06-20 03:28 UTC_
 | 22 | Skylar Diggins | 5,626 |
 | 23 | DeLisha Milton-Jones | 5,571 |
 | 24 | Katie Douglas | 5,545 |
-| 25 | **Kayla McBride** 🔴 +11 | 5,533 |
+| 25 | **Kayla McBride** 🔴 +13 | 5,535 |
 | 26 | Lindsay Whalen | 5,511 |
 | 27 | Swin Cash | 5,119 |
 | 28 | Tangela Smith | 5,035 |
@@ -69,8 +69,8 @@ _Last updated: 2026-06-20 03:28 UTC_
 | 48 | Sophia Young-Malcolm | 4,300 |
 | 49 | Kahleah Copper | 4,283 |
 | 50 | Plenette Pierson | 4,258 |
-| 51 | **Courtney Williams** 🔴 +15 | 4,253 |
-| 51 | Monique Currie | 4,253 |
+| 51 | **Courtney Williams** 🔴 +17 | 4,255 |
+| 52 | Monique Currie | 4,253 |
 | 53 | Dearica Hamby | 4,243 |
 | 54 | Jonquel Jones | 4,232 |
 | 55 | Vickie Johnson | 4,230 |
@@ -530,7 +530,7 @@ _Last updated: 2026-06-20 03:28 UTC_
 | 99 | Alysha Clark | 616 |
 | 100 | Debbie Black | 612 |
 | 101 | Cynthia Cooper | 602 |
-| 102 | **Natasha Howard** 🔴 +3 | 599 |
+| 102 | **Natasha Howard** 🔴 +4 | 600 |
 | 103 | Sancho Lyttle | 592 |
 | 104 | Camille Smith | 590 |
 | 105 | Armintie Herrington | 589 |
@@ -1312,9 +1312,9 @@ _Last updated: 2026-06-20 03:28 UTC_
 | 61 | Yolanda Griffith | 653 |
 | 62 | Sheri Sam | 650 |
 | 63 | Dawn Staley | 643 |
-| 64 | **Kayla McBride** 🔴 +1 | 637 |
 | 64 | Ruth Riley | 637 |
-| 66 | Kelsey Plum | 636 |
+| 65 | **Kayla McBride** 🔴 | 636 |
+| 65 | Kelsey Plum | 636 |
 | 67 | Odyssey Sims | 631 |
 | 67 | Svetlana Abrosimova | 631 |
 | 69 | Jonquel Jones | 629 |
