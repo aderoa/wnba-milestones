@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-20 00:58 UTC_
+_Last updated: 2026-06-20 00:59 UTC_
 
 ## Contents
 
@@ -356,7 +356,7 @@ _Last updated: 2026-06-20 00:58 UTC_
 | 130 | Tiffany Jackson | 1,002 |
 | 131 | Tianna Hawkins | 1,000 |
 | 132 | Damiris Dantas | 999 |
-| 133 | **Sabrina Ionescu** 🔴 | 998 |
+| 132 | **Sabrina Ionescu** 🔴 +1 | 999 |
 | 134 | Marissa Coleman | 995 |
 | 135 | Kristen Rasmussen | 993 |
 | 136 | Skylar Diggins | 991 |
@@ -1423,8 +1423,8 @@ _Last updated: 2026-06-20 00:58 UTC_
 | 172 | Scholanda Dorrell | 335 |
 | 173 | Aerial Powers | 333 |
 | 173 | Diamond DeShields | 333 |
-| 175 | Charde Houston | 331 |
-| 175 | **Satou Sabally** 🔴 +1 | 331 |
+| 175 | **Satou Sabally** 🔴 +2 | 332 |
+| 176 | Charde Houston | 331 |
 | 177 | Erlana Larkins | 326 |
 | 177 | Rita Williams | 326 |
 | 179 | Le'coe Willingham | 325 |
@@ -1652,5 +1652,5 @@ _Last updated: 2026-06-20 00:58 UTC_
 | 196 | Natalie Achonwa | 459 |
 | 197 | Kara Lawson | 457 |
 | 198 | NaLyssa Smith | 454 |
-| 199 | **Satou Sabally** 🔴 +2 | 452 |
+| 199 | **Satou Sabally** 🔴 +3 | 453 |
 | 200 | Alexis Hornbuckle | 450 |
