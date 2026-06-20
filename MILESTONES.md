@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-20 18:47 UTC
+
+- **Aliyah Boston** passed **Rita Williams** for **#165** all-time in assists (career 404) — up from #169 entering today — _52.9 - 3rd — IND @ ATL_
+
 ## 2026-06-20 18:41 UTC
 
 - **Caitlin Clark** passed **Satou Sabally** for **#176** all-time in turnovers (career 331) — up from #180 entering today — _1:53 - 3rd — IND @ ATL_

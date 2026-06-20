@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-20T18:47:00+00:00",
+    "text": "Aliyah Boston passed Rita Williams for #165 all-time in assists (career 404) \u2014 up from #169 entering today \u2014 (52.9 - 3rd \u2014 IND @ ATL)",
+    "kind": "rank_pass",
+    "player": "Aliyah Boston",
+    "stat": "assists",
+    "rank": 165,
+    "passed_players": [
+      "Rita Williams"
+    ],
+    "new_total": 404
+  },
+  {
     "ts": "2026-06-20T18:41:00+00:00",
     "text": "Caitlin Clark passed Satou Sabally for #176 all-time in turnovers (career 331) \u2014 up from #180 entering today \u2014 (1:53 - 3rd \u2014 IND @ ATL)",
     "kind": "rank_pass",
@@ -2971,21 +2983,5 @@
       "Epiphanny Prince"
     ],
     "new_total": 526
-  },
-  {
-    "ts": "2026-06-06T19:38:00+00:00",
-    "text": "Stephanie Talbot passed Cameron Brink, Jennifer Lacy, Sugar Rodgers, Tan White, and Tiffany Jackson for #171 all-time in blocks (career 77) \u2014 up from #173 entering today \u2014 (6:14 - 2nd \u2014 GS @ LV)",
-    "kind": "rank_pass",
-    "player": "Stephanie Talbot",
-    "stat": "blocks",
-    "rank": 171,
-    "passed_players": [
-      "Cameron Brink",
-      "Jennifer Lacy",
-      "Sugar Rodgers",
-      "Tan White",
-      "Tiffany Jackson"
-    ],
-    "new_total": 77
   }
 ]
