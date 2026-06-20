@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-20 19:14 UTC_
+_Last updated: 2026-06-20 19:15 UTC_
 
 ## Contents
 
@@ -55,7 +55,7 @@ _Last updated: 2026-06-20 19:14 UTC_
 | 34 | Alana Beard | 4,740 |
 | 35 | Chamique Holdsclaw | 4,713 |
 | 36 | Elena Delle Donne | 4,706 |
-| 37 | **Alyssa Thomas** 🔴 | 4,653 |
+| 37 | **Alyssa Thomas** 🔴 +2 | 4,655 |
 | 38 | Arike Ogunbowale | 4,612 |
 | 39 | Penny Taylor | 4,595 |
 | 40 | Natasha Howard | 4,528 |
@@ -156,7 +156,7 @@ _Last updated: 2026-06-20 19:14 UTC_
 | 135 | Betnijah Laney-Hamilton | 2,282 |
 | 136 | Azurá Stevens | 2,259 |
 | 137 | Allison Feaster | 2,258 |
-| 138 | **Jordin Canada** 🔴 +10 | 2,247 |
+| 138 | **Jordin Canada** 🔴 +12 | 2,249 |
 | 139 | Shekinna Stricklen | 2,245 |
 | 140 | Kara Braxton | 2,237 |
 | 140 | Matee Ajavon | 2,237 |
@@ -194,7 +194,7 @@ _Last updated: 2026-06-20 19:14 UTC_
 | 173 | Nakia Sanford | 1,915 |
 | 174 | Ebony Hoffman | 1,909 |
 | 175 | Candice Wiggins | 1,901 |
-| 176 | **Natisha Hiedeman** 🔴 | 1,858 |
+| 176 | **Natisha Hiedeman** 🔴 +2 | 1,860 |
 | 177 | **Damiris Dantas** 🔴 +3 | 1,833 |
 | 178 | Isabelle Harrison | 1,832 |
 | 179 | Tianna Hawkins | 1,825 |
@@ -335,7 +335,7 @@ _Last updated: 2026-06-20 19:14 UTC_
 | 109 | Andrea Stinson | 1,127 |
 | 109 | Tamika Raymond | 1,127 |
 | 111 | Adrienne Goodson | 1,126 |
-| 112 | **Aliyah Boston** 🔴 +8 | 1,118 |
+| 112 | **Aliyah Boston** 🔴 +9 | 1,119 |
 | 113 | NaLyssa Smith | 1,115 |
 | 114 | Deanna Nolan | 1,112 |
 | 114 | Natasha Cloud | 1,112 |
