@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-20 18:34 UTC_
+_Last updated: 2026-06-20 18:35 UTC_
 
 ## Contents
 
@@ -294,9 +294,9 @@ _Last updated: 2026-06-20 18:34 UTC_
 | 68 | Tamera Young | 1,433 |
 | 69 | Alana Beard | 1,420 |
 | 70 | Nakia Sanford | 1,419 |
-| 71 | Kara Braxton | 1,387 |
-| 72 | **Allisha Gray** 🔴 +2 | 1,386 |
-| 72 | **Monique Billings** 🔴 +1 | 1,386 |
+| 71 | **Allisha Gray** 🔴 +4 | 1,388 |
+| 72 | Kara Braxton | 1,387 |
+| 73 | **Monique Billings** 🔴 +1 | 1,386 |
 | 74 | Courtney Vandersloot | 1,383 |
 | 74 | Katie Smith | 1,383 |
 | 76 | Ebony Hoffman | 1,376 |
@@ -760,8 +760,8 @@ _Last updated: 2026-06-20 18:34 UTC_
 | 122 | Rebecca Lobo | 104 |
 | 125 | Jennifer Gillom | 103 |
 | 125 | Jia Perkins | 103 |
-| 127 | **Rhyne Howard** 🔴 | 102 |
-| 127 | Theresa Plaisance | 102 |
+| 125 | **Rhyne Howard** 🔴 +1 | 103 |
+| 128 | Theresa Plaisance | 102 |
 | 129 | Deanna Nolan | 101 |
 | 130 | Chante Black | 100 |
 | 130 | Danielle Adams | 100 |
@@ -1425,7 +1425,7 @@ _Last updated: 2026-06-20 18:34 UTC_
 | 173 | Diamond DeShields | 333 |
 | 175 | Charde Houston | 331 |
 | 176 | Satou Sabally | 330 |
-| 177 | **Caitlin Clark** 🔴 +4 | 328 |
+| 177 | **Caitlin Clark** 🔴 +5 | 329 |
 | 178 | Erlana Larkins | 326 |
 | 178 | Rita Williams | 326 |
 | 180 | Le'coe Willingham | 325 |
