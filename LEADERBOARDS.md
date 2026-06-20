@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-20 01:26 UTC_
+_Last updated: 2026-06-20 01:27 UTC_
 
 ## Contents
 
@@ -34,7 +34,7 @@ _Last updated: 2026-06-20 01:26 UTC_
 | 13 | Lisa Leslie | 6,251 |
 | 14 | **Breanna Stewart** 🔴 +16 | 6,189 |
 | 15 | Jewell Loyd | 6,078 |
-| 16 | **Brittney Griner** 🔴 +15 | 6,046 |
+| 16 | **Brittney Griner** 🔴 +16 | 6,047 |
 | 17 | Lauren Jackson | 6,005 |
 | 17 | Seimone Augustus | 6,005 |
 | 19 | A'ja Wilson | 5,942 |
@@ -110,7 +110,7 @@ _Last updated: 2026-06-20 01:26 UTC_
 | 89 | Erica Wheeler | 3,144 |
 | 90 | Wendy Palmer | 3,135 |
 | 91 | Shavonte Zellous | 3,103 |
-| 92 | **Marina Mabrey** 🔴 +34 | 3,086 |
+| 92 | **Marina Mabrey** 🔴 +37 | 3,089 |
 | 93 | Briann January | 3,082 |
 | 94 | **Sabrina Ionescu** 🔴 +7 | 3,048 |
 | 95 | Erika de Souza | 3,046 |
@@ -1066,7 +1066,7 @@ _Last updated: 2026-06-20 01:26 UTC_
 | 20 | Sami Whitcomb | 511 |
 | 21 | Allie Quigley | 510 |
 | 22 | Leilani Mitchell | 508 |
-| 23 | **Marina Mabrey** 🔴 +8 | 473 |
+| 23 | **Marina Mabrey** 🔴 +9 | 474 |
 | 24 | Shekinna Stricklen | 468 |
 | 25 | Cappie Pondexter | 464 |
 | 26 | **Sabrina Ionescu** 🔴 +1 | 463 |
@@ -1349,7 +1349,7 @@ _Last updated: 2026-06-20 01:26 UTC_
 | 98 | Kara Lawson | 526 |
 | 99 | Leilani Mitchell | 525 |
 | 99 | Nicole Powell | 525 |
-| 101 | **Sabrina Ionescu** 🔴 +3 | 521 |
+| 101 | **Sabrina Ionescu** 🔴 +4 | 522 |
 | 102 | Arike Ogunbowale | 520 |
 | 103 | Marie Ferdinand-Harris | 518 |
 | 104 | Shavonte Zellous | 517 |
