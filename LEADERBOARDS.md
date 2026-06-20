@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-20 00:56 UTC_
+_Last updated: 2026-06-20 00:57 UTC_
 
 ## Contents
 
@@ -164,9 +164,9 @@ _Last updated: 2026-06-20 00:56 UTC_
 | 143 | Dawn Staley | 2,228 |
 | 144 | Teaira McCowan | 2,221 |
 | 145 | Janel McCarville | 2,215 |
-| 146 | Sami Whitcomb | 2,211 |
-| 147 | **Satou Sabally** 🔴 +6 | 2,210 |
-| 147 | Sophia Witherspoon | 2,210 |
+| 146 | **Satou Sabally** 🔴 +8 | 2,212 |
+| 147 | Sami Whitcomb | 2,211 |
+| 148 | Sophia Witherspoon | 2,210 |
 | 149 | Ruthie Bolton | 2,175 |
 | 150 | Ann Wauters | 2,170 |
 | 151 | Layshia Clarendon | 2,168 |
@@ -1317,7 +1317,7 @@ _Last updated: 2026-06-20 00:56 UTC_
 | 65 | Kelsey Plum | 636 |
 | 67 | Odyssey Sims | 631 |
 | 67 | Svetlana Abrosimova | 631 |
-| 69 | **Jonquel Jones** 🔴 +1 | 628 |
+| 69 | **Jonquel Jones** 🔴 +2 | 629 |
 | 70 | Rebekkah Brunson | 615 |
 | 71 | Seimone Augustus | 613 |
 | 72 | Tiffany Hayes | 610 |
@@ -1424,7 +1424,7 @@ _Last updated: 2026-06-20 00:56 UTC_
 | 173 | Aerial Powers | 333 |
 | 173 | Diamond DeShields | 333 |
 | 175 | Charde Houston | 331 |
-| 176 | **Satou Sabally** 🔴 | 330 |
+| 175 | **Satou Sabally** 🔴 +1 | 331 |
 | 177 | Erlana Larkins | 326 |
 | 177 | Rita Williams | 326 |
 | 179 | Le'coe Willingham | 325 |
@@ -1552,7 +1552,7 @@ _Last updated: 2026-06-20 00:56 UTC_
 | 94 | Temeka Johnson | 680 |
 | 97 | Kelly Miller | 676 |
 | 98 | Cheyenne Parker-Tyus | 674 |
-| 99 | **Breanna Stewart** 🔴 +3 | 668 |
+| 99 | **Breanna Stewart** 🔴 +4 | 669 |
 | 100 | Chamique Holdsclaw | 667 |
 | 101 | Tianna Hawkins | 662 |
 | 102 | Jewell Loyd | 661 |
@@ -1593,8 +1593,8 @@ _Last updated: 2026-06-20 00:56 UTC_
 | 137 | Jessica Breland | 562 |
 | 138 | Dawn Staley | 551 |
 | 139 | Glory Johnson | 550 |
+| 139 | **Marina Mabrey** 🔴 +2 | 550 |
 | 139 | Tierra Ruffin-Pratt | 550 |
-| 141 | **Marina Mabrey** 🔴 +1 | 549 |
 | 142 | Erlana Larkins | 546 |
 | 143 | Jayne Appel Marinelli | 543 |
 | 143 | Renee Montgomery | 543 |
@@ -1652,5 +1652,5 @@ _Last updated: 2026-06-20 00:56 UTC_
 | 196 | Natalie Achonwa | 459 |
 | 197 | Kara Lawson | 457 |
 | 198 | NaLyssa Smith | 454 |
-| 199 | **Satou Sabally** 🔴 +1 | 451 |
+| 199 | **Satou Sabally** 🔴 +2 | 452 |
 | 200 | Alexis Hornbuckle | 450 |
