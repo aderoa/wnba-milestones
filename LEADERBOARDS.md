@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-20 18:27 UTC_
+_Last updated: 2026-06-20 18:28 UTC_
 
 ## Contents
 
@@ -143,7 +143,7 @@ _Last updated: 2026-06-20 18:27 UTC_
 | 122 | Glory Johnson | 2,531 |
 | 123 | Nikki McCray | 2,521 |
 | 124 | Crystal Robinson | 2,496 |
-| 125 | **Rhyne Howard** 🔴 +12 | 2,484 |
+| 125 | **Rhyne Howard** 🔴 +14 | 2,486 |
 | 126 | Tiffany Mitchell | 2,480 |
 | 127 | Ruth Riley | 2,434 |
 | 128 | Svetlana Abrosimova | 2,414 |
@@ -185,9 +185,9 @@ _Last updated: 2026-06-20 18:27 UTC_
 | 164 | Nicole Ohlde | 1,959 |
 | 165 | Kedra Holland-Corn | 1,938 |
 | 166 | **Aliyah Boston** 🔴 +8 | 1,936 |
-| 167 | Cathrine Kraayeveld | 1,926 |
-| 168 | **Myisha Hines-Allen** 🔴 +7 | 1,925 |
-| 168 | Roneeka Hodges | 1,925 |
+| 167 | **Myisha Hines-Allen** 🔴 +9 | 1,927 |
+| 168 | Cathrine Kraayeveld | 1,926 |
+| 169 | Roneeka Hodges | 1,925 |
 | 170 | Latasha Byears | 1,920 |
 | 171 | Karima Christmas-Kelly | 1,919 |
 | 172 | Jessica Breland | 1,918 |
@@ -550,7 +550,7 @@ _Last updated: 2026-06-20 18:27 UTC_
 | 119 | Veronica Burton | 537 |
 | 120 | Marie Ferdinand-Harris | 528 |
 | 121 | Margo Dydek | 524 |
-| 122 | **Caitlin Clark** 🔴 +4 | 521 |
+| 122 | **Caitlin Clark** 🔴 +5 | 522 |
 | 123 | **Myisha Hines-Allen** 🔴 | 520 |
 | 124 | **Rhyne Howard** 🔴 +2 | 510 |
 | 125 | Iziane Castro Marques | 509 |

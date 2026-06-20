@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-06-20T18:28:00+00:00",
+    "text": "Myisha Hines-Allen passed Cathrine Kraayeveld and Roneeka Hodges for #167 all-time in points (career 1,927) \u2014 up from #172 entering today \u2014 (7:15 - 3rd \u2014 IND @ ATL)",
+    "kind": "rank_pass",
+    "player": "Myisha Hines-Allen",
+    "stat": "points",
+    "rank": 167,
+    "passed_players": [
+      "Cathrine Kraayeveld",
+      "Roneeka Hodges"
+    ],
+    "new_total": 1927
+  },
+  {
     "ts": "2026-06-20T04:06:00+00:00",
     "text": "Courtney Williams passed Plenette Pierson for #50 all-time in points (career 4,259) \u2014 up from #53 entering today \u2014 (24.2 - 4th \u2014 MIN @ GS)",
     "kind": "rank_pass",
@@ -2974,14 +2987,5 @@
       "Riquna Williams"
     ],
     "new_total": 388
-  },
-  {
-    "ts": "2026-06-06T19:34:00+00:00",
-    "text": "Kaila Charles reached 100 career assists (now 100) \u2014 (8:02 - 2nd \u2014 GS @ LV)",
-    "kind": "round",
-    "player": "Kaila Charles",
-    "stat": "assists",
-    "value": 100,
-    "new_total": 100
   }
 ]

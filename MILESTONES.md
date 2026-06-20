@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-20 18:28 UTC
+
+- **Myisha Hines-Allen** passed **Cathrine Kraayeveld** and **Roneeka Hodges** for **#167** all-time in points (career 1,927) — up from #172 entering today — _7:15 - 3rd — IND @ ATL_
+
 ## 2026-06-20 04:06 UTC
 
 - **Courtney Williams** passed **Plenette Pierson** for **#50** all-time in points (career 4,259) — up from #53 entering today — _24.2 - 4th — MIN @ GS_
