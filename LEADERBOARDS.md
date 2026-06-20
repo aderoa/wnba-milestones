@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-20 00:01 UTC_
+_Last updated: 2026-06-20 00:02 UTC_
 
 ## Contents
 
@@ -236,11 +236,11 @@ _Last updated: 2026-06-20 00:01 UTC_
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | Alyssa Thomas | 2,817 |
-| 13 | **Jonquel Jones** 🔴 +4 | 2,667 |
+| 13 | **Jonquel Jones** 🔴 +5 | 2,668 |
 | 14 | Sancho Lyttle | 2,596 |
 | 15 | A'ja Wilson | 2,574 |
 | 15 | DeLisha Milton-Jones | 2,574 |
-| 17 | **Breanna Stewart** 🔴 +4 | 2,564 |
+| 17 | **Breanna Stewart** 🔴 +5 | 2,565 |
 | 18 | **Brittney Griner** 🔴 +1 | 2,557 |
 | 19 | Swin Cash | 2,521 |
 | 20 | Michelle Snow | 2,476 |
@@ -475,7 +475,7 @@ _Last updated: 2026-06-20 00:01 UTC_
 | 44 | Nikki Teasley | 982 |
 | 45 | Kayla McBride | 968 |
 | 46 | Tamecka Dixon | 960 |
-| 47 | **Breanna Stewart** 🔴 +2 | 955 |
+| 47 | **Breanna Stewart** 🔴 +3 | 956 |
 | 48 | Kara Lawson | 946 |
 | 49 | Tiffany Hayes | 936 |
 | 50 | Deanna Nolan | 930 |
@@ -1232,8 +1232,8 @@ _Last updated: 2026-06-20 00:01 UTC_
 | 186 | Gordana Grubin | 114 |
 | 186 | Rickea Jackson | 114 |
 | 186 | Sandy Brondello | 114 |
+| 189 | **Leonie Fiebich** 🔴 +1 | 111 |
 | 189 | Shoni Schimmel | 111 |
-| 190 | **Leonie Fiebich** 🔴 | 110 |
 | 191 | Emma Meesseman | 109 |
 | 191 | Scholanda Dorrell | 109 |
 | 193 | Belinda Snell | 108 |
