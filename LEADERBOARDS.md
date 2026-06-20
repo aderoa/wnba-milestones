@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-20 03:41 UTC_
+_Last updated: 2026-06-20 03:42 UTC_
 
 ## Contents
 
@@ -43,7 +43,7 @@ _Last updated: 2026-06-20 03:41 UTC_
 | 22 | Skylar Diggins | 5,626 |
 | 23 | DeLisha Milton-Jones | 5,571 |
 | 24 | Katie Douglas | 5,545 |
-| 25 | **Kayla McBride** 🔴 +13 | 5,535 |
+| 25 | **Kayla McBride** 🔴 +15 | 5,537 |
 | 26 | Lindsay Whalen | 5,511 |
 | 27 | Swin Cash | 5,119 |
 | 28 | Tangela Smith | 5,035 |
@@ -261,7 +261,7 @@ _Last updated: 2026-06-20 03:41 UTC_
 | 35 | Plenette Pierson | 1,834 |
 | 36 | Natalie Williams | 1,832 |
 | 37 | Wendy Palmer | 1,824 |
-| 38 | **Courtney Williams** 🔴 +9 | 1,810 |
+| 38 | **Courtney Williams** 🔴 +10 | 1,811 |
 | 39 | Sophia Young-Malcolm | 1,807 |
 | 40 | Lindsay Whalen | 1,805 |
 | 41 | Camille Smith | 1,802 |
@@ -925,7 +925,7 @@ _Last updated: 2026-06-20 03:41 UTC_
 | 84 | Matee Ajavon | 328 |
 | 85 | Napheesa Collier | 325 |
 | 86 | Betty Lennox | 323 |
-| 87 | **Courtney Williams** 🔴 +1 | 322 |
+| 86 | **Courtney Williams** 🔴 +2 | 323 |
 | 88 | Tammy Sutton-Brown | 319 |
 | 89 | Plenette Pierson | 317 |
 | 89 | Temeka Johnson | 317 |
