@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-20 18:49 UTC_
+_Last updated: 2026-06-20 18:50 UTC_
 
 ## Contents
 
@@ -156,8 +156,8 @@ _Last updated: 2026-06-20 18:49 UTC_
 | 135 | Betnijah Laney-Hamilton | 2,282 |
 | 136 | Azurá Stevens | 2,259 |
 | 137 | Allison Feaster | 2,258 |
+| 138 | **Jordin Canada** 🔴 +8 | 2,245 |
 | 138 | Shekinna Stricklen | 2,245 |
-| 139 | **Jordin Canada** 🔴 +6 | 2,243 |
 | 140 | Kara Braxton | 2,237 |
 | 140 | Matee Ajavon | 2,237 |
 | 142 | Kia Nurse | 2,231 |
@@ -892,8 +892,8 @@ _Last updated: 2026-06-20 18:49 UTC_
 | 51 | Briann January | 386 |
 | 52 | Swin Cash | 384 |
 | 52 | Tina Charles | 384 |
-| 54 | **Jordin Canada** 🔴 +2 | 382 |
-| 54 | Tiffany Hayes | 382 |
+| 54 | **Jordin Canada** 🔴 +3 | 383 |
+| 55 | Tiffany Hayes | 382 |
 | 56 | Ariel Atkins | 380 |
 | 57 | Monique Currie | 378 |
 | 58 | Chamique Holdsclaw | 376 |
@@ -1436,7 +1436,7 @@ _Last updated: 2026-06-20 18:49 UTC_
 | 185 | Moriah Jefferson | 314 |
 | 186 | Alex Bentley | 313 |
 | 187 | Tamika Raymond | 311 |
-| 188 | **Monique Billings** 🔴 | 307 |
+| 188 | **Monique Billings** 🔴 +1 | 308 |
 | 189 | Erin Perperoglou | 305 |
 | 189 | Jennifer Lacy | 305 |
 | 191 | Tianna Hawkins | 303 |
