@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-20 01:25 UTC_
+_Last updated: 2026-06-20 01:26 UTC_
 
 ## Contents
 
@@ -236,7 +236,7 @@ _Last updated: 2026-06-20 01:25 UTC_
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | Alyssa Thomas | 2,817 |
-| 13 | **Jonquel Jones** 🔴 +10 | 2,673 |
+| 13 | **Jonquel Jones** 🔴 +11 | 2,674 |
 | 14 | Sancho Lyttle | 2,596 |
 | 15 | A'ja Wilson | 2,574 |
 | 15 | DeLisha Milton-Jones | 2,574 |
@@ -1317,7 +1317,7 @@ _Last updated: 2026-06-20 01:25 UTC_
 | 65 | Kelsey Plum | 636 |
 | 67 | Odyssey Sims | 631 |
 | 67 | Svetlana Abrosimova | 631 |
-| 69 | **Jonquel Jones** 🔴 +2 | 629 |
+| 69 | **Jonquel Jones** 🔴 +3 | 630 |
 | 70 | Rebekkah Brunson | 615 |
 | 71 | Seimone Augustus | 613 |
 | 72 | Tiffany Hayes | 610 |
@@ -1330,8 +1330,8 @@ _Last updated: 2026-06-20 01:25 UTC_
 | 79 | Brittney Sykes | 579 |
 | 80 | Helen Darling | 575 |
 | 80 | Nykesha Sales | 575 |
-| 82 | Andrea Stinson | 571 |
-| 82 | **Breanna Stewart** 🔴 +1 | 571 |
+| 82 | **Breanna Stewart** 🔴 +2 | 572 |
+| 83 | Andrea Stinson | 571 |
 | 84 | Kara Braxton | 570 |
 | 85 | Nikki McCray | 565 |
 | 86 | Kelsey Mitchell | 563 |
@@ -1634,8 +1634,8 @@ _Last updated: 2026-06-20 01:25 UTC_
 | 177 | Riquna Williams | 493 |
 | 179 | Rachel Banham | 490 |
 | 180 | Charde Houston | 487 |
+| 181 | **Isabelle Harrison** 🔴 +2 | 486 |
 | 181 | Lindsey Harding | 486 |
-| 182 | **Isabelle Harrison** 🔴 +1 | 485 |
 | 183 | Cathrine Kraayeveld | 484 |
 | 184 | Liz Cambage | 483 |
 | 184 | Rhonda Mapp | 483 |
