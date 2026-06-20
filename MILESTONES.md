@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-20 18:57 UTC
+
+- **Damiris Dantas** passed **Tianna Hawkins** for **#131** all-time in rebounds (career 1,001) — up from #132 entering today — _8:21 - 4th — IND @ ATL_
+
 ## 2026-06-20 18:47 UTC
 
 - **Aliyah Boston** passed **Rita Williams** for **#165** all-time in assists (career 404) — up from #169 entering today — _52.9 - 3rd — IND @ ATL_
