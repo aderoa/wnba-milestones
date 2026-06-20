@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-20 19:24 UTC_
+_Last updated: 2026-06-20 19:25 UTC_
 
 ## Contents
 
@@ -204,8 +204,8 @@ _Last updated: 2026-06-20 19:24 UTC_
 | 183 | Charde Houston | 1,797 |
 | 184 | NaLyssa Smith | 1,775 |
 | 185 | Kamila Vodichkova | 1,767 |
-| 186 | Tully Bevilaqua | 1,763 |
-| 187 | **Sophie Cunningham** 🔴 +9 | 1,761 |
+| 186 | **Sophie Cunningham** 🔴 +12 | 1,764 |
+| 187 | Tully Bevilaqua | 1,763 |
 | 188 | Sandy Brondello | 1,759 |
 | 189 | Sugar Rodgers | 1,733 |
 | 190 | Gabby Williams | 1,723 |
@@ -435,7 +435,7 @@ _Last updated: 2026-06-20 19:24 UTC_
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
 | 6 | Chelsea Gray | 1,935 |
-| 7 | **Alyssa Thomas** 🔴 +2 | 1,905 |
+| 7 | **Alyssa Thomas** 🔴 +3 | 1,906 |
 | 8 | Skylar Diggins | 1,812 |
 | 9 | Natasha Cloud | 1,772 |
 | 10 | Becky Hammon | 1,705 |
@@ -524,8 +524,8 @@ _Last updated: 2026-06-20 19:24 UTC_
 | 93 | A'ja Wilson | 637 |
 | 93 | Asjha Jones | 637 |
 | 95 | Jennifer Azzi | 636 |
-| 96 | Jonquel Jones | 625 |
-| 96 | **Natisha Hiedeman** 🔴 +1 | 625 |
+| 96 | **Natisha Hiedeman** 🔴 +2 | 626 |
+| 97 | Jonquel Jones | 625 |
 | 98 | Sami Whitcomb | 623 |
 | 99 | Alysha Clark | 616 |
 | 100 | Debbie Black | 612 |
@@ -1105,7 +1105,7 @@ _Last updated: 2026-06-20 19:24 UTC_
 | 59 | Anna DeForge | 334 |
 | 60 | Erica Wheeler | 329 |
 | 61 | Jackie Young | 323 |
-| 62 | **Sophie Cunningham** 🔴 +2 | 319 |
+| 62 | **Sophie Cunningham** 🔴 +3 | 320 |
 | 63 | Sugar Rodgers | 317 |
 | 64 | Marissa Coleman | 315 |
 | 65 | Shannon Johnson | 313 |
@@ -1191,8 +1191,8 @@ _Last updated: 2026-06-20 19:24 UTC_
 | 145 | Rita Williams | 150 |
 | 146 | Moriah Jefferson | 149 |
 | 146 | Tiffany Mitchell | 149 |
-| 148 | Diamond DeShields | 147 |
-| 148 | **Katie Lou Samuelson** 🔴 | 147 |
+| 148 | **Katie Lou Samuelson** 🔴 +1 | 148 |
+| 149 | Diamond DeShields | 147 |
 | 150 | Wendy Palmer | 146 |
 | 151 | Helen Darling | 144 |
 | 151 | Matee Ajavon | 144 |
