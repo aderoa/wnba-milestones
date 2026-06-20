@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-20 00:14 UTC_
+_Last updated: 2026-06-20 00:15 UTC_
 
 ## Contents
 
@@ -164,9 +164,9 @@ _Last updated: 2026-06-20 00:14 UTC_
 | 143 | Dawn Staley | 2,228 |
 | 144 | Teaira McCowan | 2,221 |
 | 145 | Janel McCarville | 2,215 |
-| 146 | Sami Whitcomb | 2,211 |
-| 147 | **Satou Sabally** 🔴 +6 | 2,210 |
-| 147 | Sophia Witherspoon | 2,210 |
+| 146 | **Satou Sabally** 🔴 +8 | 2,212 |
+| 147 | Sami Whitcomb | 2,211 |
+| 148 | Sophia Witherspoon | 2,210 |
 | 149 | Ruthie Bolton | 2,175 |
 | 150 | Ann Wauters | 2,170 |
 | 151 | Layshia Clarendon | 2,168 |
@@ -240,7 +240,7 @@ _Last updated: 2026-06-20 00:14 UTC_
 | 14 | Sancho Lyttle | 2,596 |
 | 15 | A'ja Wilson | 2,574 |
 | 15 | DeLisha Milton-Jones | 2,574 |
-| 17 | **Breanna Stewart** 🔴 +5 | 2,565 |
+| 17 | **Breanna Stewart** 🔴 +6 | 2,566 |
 | 18 | **Brittney Griner** 🔴 +1 | 2,557 |
 | 19 | Swin Cash | 2,521 |
 | 20 | Michelle Snow | 2,476 |
@@ -475,7 +475,7 @@ _Last updated: 2026-06-20 00:14 UTC_
 | 44 | Nikki Teasley | 982 |
 | 45 | Kayla McBride | 968 |
 | 46 | Tamecka Dixon | 960 |
-| 47 | **Breanna Stewart** 🔴 +4 | 957 |
+| 47 | **Breanna Stewart** 🔴 +5 | 958 |
 | 48 | Kara Lawson | 946 |
 | 49 | Tiffany Hayes | 936 |
 | 50 | Deanna Nolan | 930 |
