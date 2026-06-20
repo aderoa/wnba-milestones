@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-20 17:11 UTC_
+_Last updated: 2026-06-20 17:12 UTC_
 
 ## Contents
 
@@ -65,7 +65,7 @@ _Last updated: 2026-06-20 17:11 UTC_
 | 43 | Jia Perkins | 4,433 |
 | 45 | Kelsey Plum | 4,395 |
 | 46 | Courtney Vandersloot | 4,352 |
-| 47 | **Allisha Gray** 🔴 +2 | 4,341 |
+| 47 | **Allisha Gray** 🔴 +4 | 4,343 |
 | 48 | Sophia Young-Malcolm | 4,300 |
 | 49 | Kahleah Copper | 4,283 |
 | 50 | Plenette Pierson | 4,258 |
@@ -215,7 +215,7 @@ _Last updated: 2026-06-20 17:11 UTC_
 | 194 | Shenise Johnson | 1,688 |
 | 195 | Janell Burse | 1,580 |
 | 196 | Le'coe Willingham | 1,552 |
-| 197 | **Monique Billings** 🔴 +5 | 1,548 |
+| 197 | **Monique Billings** 🔴 +7 | 1,550 |
 | 198 | Shatori Walker-Kimbrough | 1,544 |
 | 199 | Rebecca Allen | 1,526 |
 | 200 | Jennifer Lacy | 1,504 |
@@ -296,7 +296,7 @@ _Last updated: 2026-06-20 17:11 UTC_
 | 70 | Nakia Sanford | 1,419 |
 | 71 | Kara Braxton | 1,387 |
 | 72 | **Monique Billings** 🔴 +1 | 1,386 |
-| 73 | **Allisha Gray** 🔴 | 1,384 |
+| 73 | **Allisha Gray** 🔴 +1 | 1,385 |
 | 74 | Courtney Vandersloot | 1,383 |
 | 74 | Katie Smith | 1,383 |
 | 76 | Ebony Hoffman | 1,376 |
@@ -595,9 +595,9 @@ _Last updated: 2026-06-20 17:11 UTC_
 | 164 | Allison Feaster | 406 |
 | 165 | Rita Williams | 403 |
 | 166 | Kia Nurse | 402 |
+| 167 | **Aliyah Boston** 🔴 +3 | 401 |
 | 167 | Julie Allemand | 401 |
-| 168 | **Aliyah Boston** 🔴 +1 | 399 |
-| 168 | Marissa Coleman | 399 |
+| 169 | Marissa Coleman | 399 |
 | 170 | Jessica Shepard | 395 |
 | 170 | Stacey Dales | 395 |
 | 172 | Sugar Rodgers | 393 |
@@ -1169,8 +1169,8 @@ _Last updated: 2026-06-20 17:11 UTC_
 | 123 | Nikki McCray | 175 |
 | 124 | Shatori Walker-Kimbrough | 174 |
 | 124 | Tayler Hill | 174 |
-| 126 | **Caitlin Clark** 🔴 +1 | 172 |
-| 126 | Theresa Plaisance | 172 |
+| 126 | **Caitlin Clark** 🔴 +2 | 173 |
+| 127 | Theresa Plaisance | 172 |
 | 128 | Amanda Lassiter | 170 |
 | 129 | Marine Johannès | 168 |
 | 130 | Shavonte Zellous | 167 |
