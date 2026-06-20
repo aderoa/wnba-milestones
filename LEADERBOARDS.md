@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-20 02:10 UTC_
+_Last updated: 2026-06-20 02:11 UTC_
 
 ## Contents
 
@@ -43,7 +43,7 @@ _Last updated: 2026-06-20 02:10 UTC_
 | 22 | Skylar Diggins | 5,626 |
 | 23 | DeLisha Milton-Jones | 5,571 |
 | 24 | Katie Douglas | 5,545 |
-| 25 | **Kayla McBride** 🔴 | 5,522 |
+| 25 | **Kayla McBride** 🔴 +2 | 5,524 |
 | 26 | Lindsay Whalen | 5,511 |
 | 27 | Swin Cash | 5,119 |
 | 28 | Tangela Smith | 5,035 |
@@ -616,7 +616,7 @@ _Last updated: 2026-06-20 02:10 UTC_
 | 185 | Andrea Nagy | 361 |
 | 185 | Diamond DeShields | 361 |
 | 185 | Erlana Larkins | 361 |
-| 188 | **Kayla Thornton** 🔴 | 358 |
+| 188 | **Kayla Thornton** 🔴 +1 | 359 |
 | 189 | Merlakia Jones | 355 |
 | 190 | Charlotte Smith | 352 |
 | 190 | Ruthie Bolton | 352 |
@@ -1239,10 +1239,10 @@ _Last updated: 2026-06-20 02:10 UTC_
 | 193 | Belinda Snell | 108 |
 | 194 | Layshia Clarendon | 107 |
 | 195 | Laurie Koehn | 105 |
+| 196 | **Cecilia Zandalasini** 🔴 +1 | 104 |
 | 196 | Julie Vanloo | 104 |
-| 197 | **Cecilia Zandalasini** 🔴 | 103 |
-| 197 | Jeanette Pohlen-Mavunga | 103 |
-| 197 | Kiesha Brown | 103 |
+| 198 | Jeanette Pohlen-Mavunga | 103 |
+| 198 | Kiesha Brown | 103 |
 | 200 | Adrienne Johnson | 102 |
 
 ## Turnovers
@@ -1430,7 +1430,7 @@ _Last updated: 2026-06-20 02:10 UTC_
 | 179 | Le'coe Willingham | 325 |
 | 180 | Caitlin Clark | 324 |
 | 180 | Olympia Scott | 324 |
-| 182 | **Gabby Williams** 🔴 | 320 |
+| 182 | **Gabby Williams** 🔴 +1 | 321 |
 | 183 | Kia Nurse | 316 |
 | 184 | Barbara Farris | 315 |
 | 185 | Moriah Jefferson | 314 |
