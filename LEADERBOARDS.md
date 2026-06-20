@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-20 18:04 UTC_
+_Last updated: 2026-06-20 18:05 UTC_
 
 ## Contents
 
@@ -143,7 +143,7 @@ _Last updated: 2026-06-20 18:04 UTC_
 | 122 | Glory Johnson | 2,531 |
 | 123 | Nikki McCray | 2,521 |
 | 124 | Crystal Robinson | 2,496 |
-| 125 | **Rhyne Howard** 🔴 +11 | 2,483 |
+| 125 | **Rhyne Howard** 🔴 +12 | 2,484 |
 | 126 | Tiffany Mitchell | 2,480 |
 | 127 | Ruth Riley | 2,434 |
 | 128 | Svetlana Abrosimova | 2,414 |
@@ -550,8 +550,8 @@ _Last updated: 2026-06-20 18:04 UTC_
 | 119 | Veronica Burton | 537 |
 | 120 | Marie Ferdinand-Harris | 528 |
 | 121 | Margo Dydek | 524 |
-| 122 | **Myisha Hines-Allen** 🔴 +1 | 521 |
-| 123 | **Caitlin Clark** 🔴 +3 | 520 |
+| 122 | **Caitlin Clark** 🔴 +4 | 521 |
+| 123 | **Myisha Hines-Allen** 🔴 | 520 |
 | 124 | **Rhyne Howard** 🔴 +2 | 510 |
 | 125 | Iziane Castro Marques | 509 |
 | 126 | Brittany Boyd-Jones | 508 |
@@ -1610,8 +1610,8 @@ _Last updated: 2026-06-20 18:04 UTC_
 | 154 | Armintie Herrington | 523 |
 | 155 | Kayla McBride | 522 |
 | 156 | **Monique Billings** 🔴 +3 | 520 |
+| 157 | **Myisha Hines-Allen** 🔴 +3 | 519 |
 | 157 | Sheryl Swoopes | 519 |
-| 158 | **Myisha Hines-Allen** 🔴 +2 | 518 |
 | 159 | Nikki McCray | 517 |
 | 160 | Alex Bentley | 516 |
 | 161 | Jantel Lavender | 513 |
