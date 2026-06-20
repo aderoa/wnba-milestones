@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-20 01:08 UTC_
+_Last updated: 2026-06-20 01:09 UTC_
 
 ## Contents
 
@@ -111,7 +111,7 @@ _Last updated: 2026-06-20 01:08 UTC_
 | 90 | Wendy Palmer | 3,135 |
 | 91 | Shavonte Zellous | 3,103 |
 | 92 | Briann January | 3,082 |
-| 93 | **Marina Mabrey** 🔴 +16 | 3,068 |
+| 93 | **Marina Mabrey** 🔴 +21 | 3,073 |
 | 94 | **Sabrina Ionescu** 🔴 +7 | 3,048 |
 | 95 | Erika de Souza | 3,046 |
 | 96 | Shameka Christon | 3,039 |
@@ -1066,7 +1066,7 @@ _Last updated: 2026-06-20 01:08 UTC_
 | 20 | Sami Whitcomb | 511 |
 | 21 | Allie Quigley | 510 |
 | 22 | Leilani Mitchell | 508 |
-| 23 | **Marina Mabrey** 🔴 +4 | 469 |
+| 23 | **Marina Mabrey** 🔴 +5 | 470 |
 | 24 | Shekinna Stricklen | 468 |
 | 25 | Cappie Pondexter | 464 |
 | 26 | **Sabrina Ionescu** 🔴 +1 | 463 |
@@ -1232,7 +1232,7 @@ _Last updated: 2026-06-20 01:08 UTC_
 | 186 | Gordana Grubin | 114 |
 | 186 | Rickea Jackson | 114 |
 | 186 | Sandy Brondello | 114 |
-| 189 | **Leonie Fiebich** 🔴 +2 | 112 |
+| 189 | **Leonie Fiebich** 🔴 +3 | 113 |
 | 190 | Shoni Schimmel | 111 |
 | 191 | Emma Meesseman | 109 |
 | 191 | Scholanda Dorrell | 109 |
