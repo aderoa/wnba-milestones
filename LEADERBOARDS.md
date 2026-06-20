@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-20 18:37 UTC_
+_Last updated: 2026-06-20 18:38 UTC_
 
 ## Contents
 
@@ -143,7 +143,7 @@ _Last updated: 2026-06-20 18:37 UTC_
 | 122 | Glory Johnson | 2,531 |
 | 123 | Nikki McCray | 2,521 |
 | 124 | Crystal Robinson | 2,496 |
-| 125 | **Rhyne Howard** 🔴 +14 | 2,486 |
+| 125 | **Rhyne Howard** 🔴 +17 | 2,489 |
 | 126 | Tiffany Mitchell | 2,480 |
 | 127 | Ruth Riley | 2,434 |
 | 128 | Svetlana Abrosimova | 2,414 |
@@ -335,8 +335,8 @@ _Last updated: 2026-06-20 18:37 UTC_
 | 109 | Andrea Stinson | 1,127 |
 | 109 | Tamika Raymond | 1,127 |
 | 111 | Adrienne Goodson | 1,126 |
+| 112 | **Aliyah Boston** 🔴 +5 | 1,115 |
 | 112 | NaLyssa Smith | 1,115 |
-| 113 | **Aliyah Boston** 🔴 +4 | 1,114 |
 | 114 | Deanna Nolan | 1,112 |
 | 114 | Natasha Cloud | 1,112 |
 | 116 | Chiney Ogwumike | 1,110 |
@@ -1082,8 +1082,8 @@ _Last updated: 2026-06-20 18:37 UTC_
 | 36 | Mwadi Mabika | 415 |
 | 37 | Penny Taylor | 407 |
 | 37 | Riquna Williams | 407 |
-| 39 | Jia Perkins | 396 |
-| 39 | **Rhyne Howard** 🔴 +2 | 396 |
+| 39 | **Rhyne Howard** 🔴 +3 | 397 |
+| 40 | Jia Perkins | 396 |
 | 41 | Alysha Clark | 394 |
 | 42 | Roneeka Hodges | 389 |
 | 43 | Courtney Vandersloot | 385 |
