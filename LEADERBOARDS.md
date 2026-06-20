@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-20 03:17 UTC_
+_Last updated: 2026-06-20 03:18 UTC_
 
 ## Contents
 
@@ -58,7 +58,7 @@ _Last updated: 2026-06-20 03:17 UTC_
 | 37 | Alyssa Thomas | 4,653 |
 | 38 | Arike Ogunbowale | 4,612 |
 | 39 | Penny Taylor | 4,595 |
-| 40 | **Natasha Howard** 🔴 +8 | 4,536 |
+| 40 | **Natasha Howard** 🔴 +10 | 4,538 |
 | 41 | Chelsea Gray | 4,506 |
 | 42 | Kristi Toliver | 4,474 |
 | 43 | Crystal Langhorne | 4,433 |
@@ -547,7 +547,7 @@ _Last updated: 2026-06-20 03:17 UTC_
 | 116 | Janel McCarville | 551 |
 | 116 | Svetlana Abrosimova | 551 |
 | 118 | Michele Timms | 549 |
-| 119 | **Veronica Burton** 🔴 +4 | 541 |
+| 119 | **Veronica Burton** 🔴 +5 | 542 |
 | 120 | Marie Ferdinand-Harris | 528 |
 | 121 | Margo Dydek | 524 |
 | 122 | Myisha Hines-Allen | 520 |
@@ -831,7 +831,6 @@ _Last updated: 2026-06-20 03:17 UTC_
 | 194 | Satou Sabally | 68 |
 | 196 | Shannon Johnson | 67 |
 | 197 | Crystal Robinson | 65 |
-| 197 | **Gabby Williams** 🔴 +1 | 65 |
 | 197 | Queen Egbo | 65 |
 | 197 | Riquna Williams | 65 |
 | 197 | Sabrina Ionescu | 65 |
