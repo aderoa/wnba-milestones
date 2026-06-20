@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-20 19:17 UTC_
+_Last updated: 2026-06-20 19:18 UTC_
 
 ## Contents
 
@@ -327,7 +327,7 @@ _Last updated: 2026-06-20 19:17 UTC_
 | 101 | Latasha Byears | 1,190 |
 | 101 | Tanisha Wright | 1,190 |
 | 103 | Vicky Bullett | 1,189 |
-| 104 | **Kahleah Copper** 🔴 +1 | 1,172 |
+| 104 | **Kahleah Copper** 🔴 +2 | 1,173 |
 | 105 | Nykesha Sales | 1,148 |
 | 106 | Brittney Sykes | 1,145 |
 | 107 | Shannon Johnson | 1,143 |
@@ -435,7 +435,7 @@ _Last updated: 2026-06-20 19:17 UTC_
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
 | 6 | Chelsea Gray | 1,935 |
-| 7 | **Alyssa Thomas** 🔴 +1 | 1,904 |
+| 7 | **Alyssa Thomas** 🔴 +2 | 1,905 |
 | 8 | Skylar Diggins | 1,812 |
 | 9 | Natasha Cloud | 1,772 |
 | 10 | Becky Hammon | 1,705 |
@@ -525,7 +525,7 @@ _Last updated: 2026-06-20 19:17 UTC_
 | 93 | Asjha Jones | 637 |
 | 95 | Jennifer Azzi | 636 |
 | 96 | Jonquel Jones | 625 |
-| 97 | **Natisha Hiedeman** 🔴 | 624 |
+| 96 | **Natisha Hiedeman** 🔴 +1 | 625 |
 | 98 | Sami Whitcomb | 623 |
 | 99 | Alysha Clark | 616 |
 | 100 | Debbie Black | 612 |
@@ -1192,7 +1192,7 @@ _Last updated: 2026-06-20 19:17 UTC_
 | 146 | Moriah Jefferson | 149 |
 | 146 | Tiffany Mitchell | 149 |
 | 148 | Diamond DeShields | 147 |
-| 148 | Katie Lou Samuelson | 147 |
+| 148 | **Katie Lou Samuelson** 🔴 | 147 |
 | 150 | Wendy Palmer | 146 |
 | 151 | Helen Darling | 144 |
 | 151 | Matee Ajavon | 144 |
