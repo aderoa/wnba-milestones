@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-20 00:18 UTC_
+_Last updated: 2026-06-20 00:19 UTC_
 
 ## Contents
 
@@ -195,7 +195,7 @@ _Last updated: 2026-06-20 00:18 UTC_
 | 174 | Ebony Hoffman | 1,909 |
 | 175 | Candice Wiggins | 1,901 |
 | 176 | Natisha Hiedeman | 1,858 |
-| 177 | **Isabelle Harrison** 🔴 +10 | 1,842 |
+| 177 | **Isabelle Harrison** 🔴 +13 | 1,845 |
 | 178 | Damiris Dantas | 1,830 |
 | 179 | Tianna Hawkins | 1,825 |
 | 180 | Noelle Quinn | 1,824 |
@@ -240,8 +240,8 @@ _Last updated: 2026-06-20 00:18 UTC_
 | 14 | Sancho Lyttle | 2,596 |
 | 15 | A'ja Wilson | 2,574 |
 | 15 | DeLisha Milton-Jones | 2,574 |
-| 17 | **Breanna Stewart** 🔴 +6 | 2,566 |
-| 18 | **Brittney Griner** 🔴 +2 | 2,558 |
+| 17 | **Breanna Stewart** 🔴 +7 | 2,567 |
+| 18 | **Brittney Griner** 🔴 +3 | 2,559 |
 | 19 | Swin Cash | 2,521 |
 | 20 | Michelle Snow | 2,476 |
 | 21 | Crystal Langhorne | 2,454 |
@@ -593,7 +593,7 @@ _Last updated: 2026-06-20 00:18 UTC_
 | 162 | Jamierra Faulkner | 410 |
 | 162 | Murriel Page | 410 |
 | 164 | Allison Feaster | 406 |
-| 165 | **Julie Allemand** 🔴 +3 | 404 |
+| 165 | **Julie Allemand** 🔴 +4 | 405 |
 | 166 | Rita Williams | 403 |
 | 167 | **Kia Nurse** 🔴 | 402 |
 | 168 | Marissa Coleman | 399 |
