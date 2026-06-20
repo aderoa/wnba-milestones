@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-20 00:21 UTC_
+_Last updated: 2026-06-20 00:22 UTC_
 
 ## Contents
 
@@ -592,8 +592,8 @@ _Last updated: 2026-06-20 00:21 UTC_
 | 161 | Erin Thorn | 414 |
 | 162 | Jamierra Faulkner | 410 |
 | 162 | Murriel Page | 410 |
-| 164 | Allison Feaster | 406 |
-| 164 | **Julie Allemand** 🔴 +5 | 406 |
+| 164 | **Julie Allemand** 🔴 +6 | 407 |
+| 165 | Allison Feaster | 406 |
 | 166 | Rita Williams | 403 |
 | 167 | **Kia Nurse** 🔴 | 402 |
 | 168 | Marissa Coleman | 399 |
