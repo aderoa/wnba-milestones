@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-20 18:40 UTC_
+_Last updated: 2026-06-20 18:41 UTC_
 
 ## Contents
 
@@ -335,7 +335,7 @@ _Last updated: 2026-06-20 18:40 UTC_
 | 109 | Andrea Stinson | 1,127 |
 | 109 | Tamika Raymond | 1,127 |
 | 111 | Adrienne Goodson | 1,126 |
-| 112 | **Aliyah Boston** 🔴 +6 | 1,116 |
+| 112 | **Aliyah Boston** 🔴 +7 | 1,117 |
 | 113 | NaLyssa Smith | 1,115 |
 | 114 | Deanna Nolan | 1,112 |
 | 114 | Natasha Cloud | 1,112 |
@@ -456,7 +456,7 @@ _Last updated: 2026-06-20 18:40 UTC_
 | 25 | Katie Smith | 1,258 |
 | 26 | Kelsey Plum | 1,237 |
 | 27 | Odyssey Sims | 1,228 |
-| 28 | **Jordin Canada** 🔴 +8 | 1,209 |
+| 28 | **Jordin Canada** 🔴 +9 | 1,210 |
 | 29 | Vickie Johnson | 1,202 |
 | 30 | Leilani Mitchell | 1,197 |
 | 31 | DeWanna Bonner | 1,192 |
@@ -1423,9 +1423,9 @@ _Last updated: 2026-06-20 18:40 UTC_
 | 172 | Scholanda Dorrell | 335 |
 | 173 | Aerial Powers | 333 |
 | 173 | Diamond DeShields | 333 |
+| 175 | **Caitlin Clark** 🔴 +7 | 331 |
 | 175 | Charde Houston | 331 |
-| 176 | **Caitlin Clark** 🔴 +6 | 330 |
-| 176 | Satou Sabally | 330 |
+| 177 | Satou Sabally | 330 |
 | 178 | Erlana Larkins | 326 |
 | 178 | Rita Williams | 326 |
 | 180 | Le'coe Willingham | 325 |

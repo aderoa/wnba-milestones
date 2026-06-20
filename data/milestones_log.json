@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-20T18:41:00+00:00",
+    "text": "Caitlin Clark passed Satou Sabally for #176 all-time in turnovers (career 331) \u2014 up from #180 entering today \u2014 (1:53 - 3rd \u2014 IND @ ATL)",
+    "kind": "rank_pass",
+    "player": "Caitlin Clark",
+    "stat": "turnovers",
+    "rank": 176,
+    "passed_players": [
+      "Satou Sabally"
+    ],
+    "new_total": 331
+  },
+  {
     "ts": "2026-06-20T18:28:00+00:00",
     "text": "Myisha Hines-Allen passed Cathrine Kraayeveld and Roneeka Hodges for #167 all-time in points (career 1,927) \u2014 up from #172 entering today \u2014 (7:15 - 3rd \u2014 IND @ ATL)",
     "kind": "rank_pass",
@@ -2975,17 +2987,5 @@
       "Tiffany Jackson"
     ],
     "new_total": 77
-  },
-  {
-    "ts": "2026-06-06T19:37:00+00:00",
-    "text": "Stephanie Talbot passed Riquna Williams for #175 all-time in assists (career 388) \u2014 up from #176 entering today \u2014 (6:33 - 2nd \u2014 GS @ LV)",
-    "kind": "rank_pass",
-    "player": "Stephanie Talbot",
-    "stat": "assists",
-    "rank": 175,
-    "passed_players": [
-      "Riquna Williams"
-    ],
-    "new_total": 388
   }
 ]
