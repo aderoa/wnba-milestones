@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-20 19:22 UTC_
+_Last updated: 2026-06-20 19:23 UTC_
 
 ## Contents
 
@@ -55,7 +55,7 @@ _Last updated: 2026-06-20 19:22 UTC_
 | 34 | Alana Beard | 4,740 |
 | 35 | Chamique Holdsclaw | 4,713 |
 | 36 | Elena Delle Donne | 4,706 |
-| 37 | **Alyssa Thomas** 🔴 +2 | 4,655 |
+| 37 | **Alyssa Thomas** 🔴 +4 | 4,657 |
 | 38 | Arike Ogunbowale | 4,612 |
 | 39 | Penny Taylor | 4,595 |
 | 40 | Natasha Howard | 4,528 |
@@ -64,7 +64,7 @@ _Last updated: 2026-06-20 19:22 UTC_
 | 43 | Crystal Langhorne | 4,433 |
 | 43 | Jia Perkins | 4,433 |
 | 45 | Kelsey Plum | 4,395 |
-| 46 | **Allisha Gray** 🔴 +21 | 4,360 |
+| 46 | **Allisha Gray** 🔴 +22 | 4,361 |
 | 47 | Courtney Vandersloot | 4,352 |
 | 48 | Sophia Young-Malcolm | 4,300 |
 | 49 | **Kahleah Copper** 🔴 +2 | 4,285 |
@@ -194,7 +194,7 @@ _Last updated: 2026-06-20 19:22 UTC_
 | 173 | Nakia Sanford | 1,915 |
 | 174 | Ebony Hoffman | 1,909 |
 | 175 | Candice Wiggins | 1,901 |
-| 176 | **Natisha Hiedeman** 🔴 +4 | 1,862 |
+| 176 | **Natisha Hiedeman** 🔴 +6 | 1,864 |
 | 177 | **Damiris Dantas** 🔴 +3 | 1,833 |
 | 178 | Isabelle Harrison | 1,832 |
 | 179 | Tianna Hawkins | 1,825 |
@@ -205,8 +205,8 @@ _Last updated: 2026-06-20 19:22 UTC_
 | 184 | NaLyssa Smith | 1,775 |
 | 185 | Kamila Vodichkova | 1,767 |
 | 186 | Tully Bevilaqua | 1,763 |
-| 187 | Sandy Brondello | 1,759 |
-| 187 | **Sophie Cunningham** 🔴 +7 | 1,759 |
+| 187 | **Sophie Cunningham** 🔴 +9 | 1,761 |
+| 188 | Sandy Brondello | 1,759 |
 | 189 | Sugar Rodgers | 1,733 |
 | 190 | Gabby Williams | 1,723 |
 | 191 | Moriah Jefferson | 1,722 |
@@ -1529,7 +1529,7 @@ _Last updated: 2026-06-20 19:22 UTC_
 | 73 | Shameka Christon | 734 |
 | 74 | Becky Hammon | 733 |
 | 75 | Latasha Byears | 730 |
-| 76 | **Allisha Gray** 🔴 +2 | 728 |
+| 76 | **Allisha Gray** 🔴 +3 | 729 |
 | 77 | Kristi Toliver | 722 |
 | 78 | Elizabeth Williams | 720 |
 | 79 | Ariel Atkins | 713 |
