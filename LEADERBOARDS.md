@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-20 17:41 UTC_
+_Last updated: 2026-06-20 17:42 UTC_
 
 ## Contents
 
@@ -47,7 +47,7 @@ _Last updated: 2026-06-20 17:41 UTC_
 | 26 | Lindsay Whalen | 5,511 |
 | 27 | Swin Cash | 5,119 |
 | 28 | Tangela Smith | 5,035 |
-| 29 | **Kelsey Mitchell** 🔴 +4 | 5,007 |
+| 29 | **Kelsey Mitchell** 🔴 +6 | 5,009 |
 | 30 | Taj McWilliams-Franklin | 4,992 |
 | 31 | Tiffany Hayes | 4,985 |
 | 32 | Maya Moore | 4,984 |
@@ -369,8 +369,8 @@ _Last updated: 2026-06-20 17:41 UTC_
 | 143 | Janell Burse | 944 |
 | 144 | Jessica Shepard | 927 |
 | 144 | Merlakia Jones | 927 |
+| 146 | **Angel Reese** 🔴 +3 | 926 |
 | 146 | Satou Sabally | 926 |
-| 147 | **Angel Reese** 🔴 +2 | 925 |
 | 148 | Nicky Anosike | 922 |
 | 149 | Janeth Arcain | 916 |
 | 150 | Karima Christmas-Kelly | 908 |
@@ -594,9 +594,9 @@ _Last updated: 2026-06-20 17:41 UTC_
 | 162 | Murriel Page | 410 |
 | 164 | Allison Feaster | 406 |
 | 165 | Rita Williams | 403 |
+| 166 | **Aliyah Boston** 🔴 +4 | 402 |
 | 166 | Kia Nurse | 402 |
-| 167 | **Aliyah Boston** 🔴 +3 | 401 |
-| 167 | Julie Allemand | 401 |
+| 168 | Julie Allemand | 401 |
 | 169 | Marissa Coleman | 399 |
 | 170 | Jessica Shepard | 395 |
 | 170 | Stacey Dales | 395 |
@@ -1606,7 +1606,7 @@ _Last updated: 2026-06-20 17:41 UTC_
 | 150 | Candice Wiggins | 525 |
 | 150 | Epiphanny Prince | 525 |
 | 150 | Jackie Young | 525 |
-| 150 | **Sophie Cunningham** 🔴 +2 | 525 |
+| 153 | **Sophie Cunningham** 🔴 +1 | 524 |
 | 154 | Armintie Herrington | 523 |
 | 155 | Kayla McBride | 522 |
 | 156 | **Monique Billings** 🔴 +3 | 520 |
