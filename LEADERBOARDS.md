@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-20 00:17 UTC_
+_Last updated: 2026-06-20 00:18 UTC_
 
 ## Contents
 
@@ -34,7 +34,7 @@ _Last updated: 2026-06-20 00:17 UTC_
 | 13 | Lisa Leslie | 6,251 |
 | 14 | **Breanna Stewart** 🔴 +5 | 6,178 |
 | 15 | Jewell Loyd | 6,078 |
-| 16 | **Brittney Griner** 🔴 +6 | 6,037 |
+| 16 | **Brittney Griner** 🔴 +8 | 6,039 |
 | 17 | Lauren Jackson | 6,005 |
 | 17 | Seimone Augustus | 6,005 |
 | 19 | A'ja Wilson | 5,942 |
@@ -241,7 +241,7 @@ _Last updated: 2026-06-20 00:17 UTC_
 | 15 | A'ja Wilson | 2,574 |
 | 15 | DeLisha Milton-Jones | 2,574 |
 | 17 | **Breanna Stewart** 🔴 +6 | 2,566 |
-| 18 | **Brittney Griner** 🔴 +1 | 2,557 |
+| 18 | **Brittney Griner** 🔴 +2 | 2,558 |
 | 19 | Swin Cash | 2,521 |
 | 20 | Michelle Snow | 2,476 |
 | 21 | Crystal Langhorne | 2,454 |
@@ -635,7 +635,7 @@ _Last updated: 2026-06-20 00:17 UTC_
 | Rank | Player | Total |
 |-----:|--------|------:|
 | 1 | Margo Dydek | 873 |
-| 2 | **Brittney Griner** 🔴 +1 | 869 |
+| 2 | **Brittney Griner** 🔴 +2 | 870 |
 | 3 | Lisa Leslie | 818 |
 | 4 | Sylvia Fowles | 721 |
 | 5 | Candace Parker | 619 |
@@ -1652,5 +1652,5 @@ _Last updated: 2026-06-20 00:17 UTC_
 | 196 | Natalie Achonwa | 459 |
 | 197 | Kara Lawson | 457 |
 | 198 | NaLyssa Smith | 454 |
-| 199 | **Satou Sabally** 🔴 +1 | 451 |
+| 199 | **Satou Sabally** 🔴 +2 | 452 |
 | 200 | Alexis Hornbuckle | 450 |
