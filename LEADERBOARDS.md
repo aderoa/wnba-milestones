@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-20 19:46 UTC_
+_Last updated: 2026-06-20 19:47 UTC_
 
 ## Contents
 
@@ -21,7 +21,7 @@ _Last updated: 2026-06-20 19:46 UTC_
 |-----:|--------|------:|
 | 1 | Diana Taurasi | 10,608 |
 | 2 | Tina Charles | 8,396 |
-| 3 | **DeWanna Bonner** 🔴 +5 | 7,915 |
+| 3 | **DeWanna Bonner** 🔴 +8 | 7,918 |
 | 4 | Tina Thompson | 7,470 |
 | 5 | Nneka Ogwumike | 7,440 |
 | 6 | Tamika Catchings | 7,371 |
@@ -663,8 +663,8 @@ _Last updated: 2026-06-20 19:46 UTC_
 | 27 | Kiah Stokes | 336 |
 | 28 | Yolanda Griffith | 323 |
 | 29 | Elena Baranova | 320 |
-| 30 | **Stefanie Dolson** 🔴 +1 | 317 |
-| 31 | Candice Dupree | 316 |
+| 30 | Candice Dupree | 316 |
+| 30 | **Stefanie Dolson** 🔴 | 316 |
 | 32 | Vicky Bullett | 288 |
 | 33 | Rebekkah Brunson | 281 |
 | 34 | Liz Cambage | 264 |
@@ -1053,7 +1053,7 @@ _Last updated: 2026-06-20 19:46 UTC_
 | 7 | Katie Douglas | 723 |
 | 8 | Kelsey Mitchell | 689 |
 | 9 | Jewell Loyd | 678 |
-| 10 | **DeWanna Bonner** 🔴 | 672 |
+| 10 | **DeWanna Bonner** 🔴 +1 | 673 |
 | 11 | Kristi Toliver | 651 |
 | 12 | Kelsey Plum | 609 |
 | 13 | Tamika Catchings | 605 |
