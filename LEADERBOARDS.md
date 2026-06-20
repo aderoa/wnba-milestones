@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-20 00:20 UTC_
+_Last updated: 2026-06-20 00:21 UTC_
 
 ## Contents
 
@@ -34,7 +34,7 @@ _Last updated: 2026-06-20 00:20 UTC_
 | 13 | Lisa Leslie | 6,251 |
 | 14 | **Breanna Stewart** 🔴 +6 | 6,179 |
 | 15 | Jewell Loyd | 6,078 |
-| 16 | **Brittney Griner** 🔴 +10 | 6,041 |
+| 16 | **Brittney Griner** 🔴 +11 | 6,042 |
 | 17 | Lauren Jackson | 6,005 |
 | 17 | Seimone Augustus | 6,005 |
 | 19 | A'ja Wilson | 5,942 |
@@ -1424,7 +1424,7 @@ _Last updated: 2026-06-20 00:20 UTC_
 | 173 | Aerial Powers | 333 |
 | 173 | Diamond DeShields | 333 |
 | 175 | Charde Houston | 331 |
-| 176 | **Satou Sabally** 🔴 | 330 |
+| 175 | **Satou Sabally** 🔴 +1 | 331 |
 | 177 | Erlana Larkins | 326 |
 | 177 | Rita Williams | 326 |
 | 179 | Le'coe Willingham | 325 |
@@ -1594,7 +1594,7 @@ _Last updated: 2026-06-20 00:20 UTC_
 | 138 | Dawn Staley | 551 |
 | 139 | Glory Johnson | 550 |
 | 139 | Tierra Ruffin-Pratt | 550 |
-| 141 | **Marina Mabrey** 🔴 | 548 |
+| 141 | **Marina Mabrey** 🔴 +1 | 549 |
 | 142 | Erlana Larkins | 546 |
 | 143 | Jayne Appel Marinelli | 543 |
 | 143 | Renee Montgomery | 543 |
