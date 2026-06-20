@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-20 17:29 UTC_
+_Last updated: 2026-06-20 17:30 UTC_
 
 ## Contents
 
@@ -186,8 +186,8 @@ _Last updated: 2026-06-20 17:29 UTC_
 | 165 | Kedra Holland-Corn | 1,938 |
 | 166 | **Aliyah Boston** 🔴 +6 | 1,934 |
 | 167 | Cathrine Kraayeveld | 1,926 |
+| 168 | **Myisha Hines-Allen** 🔴 +7 | 1,925 |
 | 168 | Roneeka Hodges | 1,925 |
-| 169 | **Myisha Hines-Allen** 🔴 +5 | 1,923 |
 | 170 | Latasha Byears | 1,920 |
 | 171 | Karima Christmas-Kelly | 1,919 |
 | 172 | Jessica Breland | 1,918 |
@@ -387,7 +387,7 @@ _Last updated: 2026-06-20 17:29 UTC_
 | 161 | Essence Carson | 833 |
 | 162 | Kristi Toliver | 829 |
 | 163 | Marie Ferdinand-Harris | 828 |
-| 164 | **Naz Hillmon** 🔴 +2 | 824 |
+| 164 | **Naz Hillmon** 🔴 +3 | 825 |
 | 165 | Marlies Askamp | 822 |
 | 166 | Amanda Zahui B | 819 |
 | 166 | Barbara Farris | 819 |
@@ -724,9 +724,9 @@ _Last updated: 2026-06-20 17:29 UTC_
 | 85 | Seimone Augustus | 133 |
 | 89 | Katie Mattera | 131 |
 | 89 | Nakia Sanford | 131 |
-| 91 | Brooke Wyckoff | 129 |
-| 91 | Cathrine Kraayeveld | 129 |
-| 91 | **Monique Billings** 🔴 | 129 |
+| 91 | **Monique Billings** 🔴 +1 | 130 |
+| 92 | Brooke Wyckoff | 129 |
+| 92 | Cathrine Kraayeveld | 129 |
 | 94 | Chiney Ogwumike | 127 |
 | 94 | Kristen Rasmussen | 127 |
 | 96 | Chelsea Gray | 126 |
