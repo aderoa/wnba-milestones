@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-20 00:41 UTC_
+_Last updated: 2026-06-20 00:42 UTC_
 
 ## Contents
 
@@ -240,8 +240,8 @@ _Last updated: 2026-06-20 00:41 UTC_
 | 14 | Sancho Lyttle | 2,596 |
 | 15 | A'ja Wilson | 2,574 |
 | 15 | DeLisha Milton-Jones | 2,574 |
-| 17 | **Breanna Stewart** 🔴 +7 | 2,567 |
-| 18 | **Brittney Griner** 🔴 +5 | 2,561 |
+| 17 | **Breanna Stewart** 🔴 +8 | 2,568 |
+| 18 | **Brittney Griner** 🔴 +6 | 2,562 |
 | 19 | Swin Cash | 2,521 |
 | 20 | Michelle Snow | 2,476 |
 | 21 | Crystal Langhorne | 2,454 |
@@ -500,8 +500,8 @@ _Last updated: 2026-06-20 00:41 UTC_
 | 69 | Andrea Stinson | 810 |
 | 70 | Tina Thompson | 803 |
 | 71 | Epiphanny Prince | 800 |
-| 72 | **Marina Mabrey** 🔴 +2 | 774 |
-| 72 | Mwadi Mabika | 774 |
+| 72 | **Marina Mabrey** 🔴 +3 | 775 |
+| 73 | Mwadi Mabika | 774 |
 | 74 | Sheri Sam | 745 |
 | 75 | Allisha Gray | 743 |
 | 76 | Monique Currie | 740 |
@@ -1496,7 +1496,7 @@ _Last updated: 2026-06-20 00:41 UTC_
 | 40 | DeWanna Bonner | 912 |
 | 41 | Shavonte Zellous | 907 |
 | 42 | Alysha Clark | 896 |
-| 43 | **Jonquel Jones** 🔴 +1 | 891 |
+| 43 | **Jonquel Jones** 🔴 +2 | 892 |
 | 44 | DeMya Walker | 882 |
 | 45 | Candice Dupree | 876 |
 | 46 | Murriel Page | 872 |
@@ -1635,8 +1635,8 @@ _Last updated: 2026-06-20 00:41 UTC_
 | 179 | Rachel Banham | 490 |
 | 180 | Charde Houston | 487 |
 | 181 | Lindsey Harding | 486 |
-| 182 | Cathrine Kraayeveld | 484 |
-| 182 | **Isabelle Harrison** 🔴 | 484 |
+| 182 | **Isabelle Harrison** 🔴 +1 | 485 |
+| 183 | Cathrine Kraayeveld | 484 |
 | 184 | Liz Cambage | 483 |
 | 184 | Rhonda Mapp | 483 |
 | 186 | Sami Whitcomb | 480 |
