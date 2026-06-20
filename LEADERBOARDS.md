@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-20 18:48 UTC_
+_Last updated: 2026-06-20 18:49 UTC_
 
 ## Contents
 
@@ -157,7 +157,7 @@ _Last updated: 2026-06-20 18:48 UTC_
 | 136 | Azurá Stevens | 2,259 |
 | 137 | Allison Feaster | 2,258 |
 | 138 | Shekinna Stricklen | 2,245 |
-| 139 | **Jordin Canada** 🔴 +4 | 2,241 |
+| 139 | **Jordin Canada** 🔴 +6 | 2,243 |
 | 140 | Kara Braxton | 2,237 |
 | 140 | Matee Ajavon | 2,237 |
 | 142 | Kia Nurse | 2,231 |
@@ -206,7 +206,7 @@ _Last updated: 2026-06-20 18:48 UTC_
 | 185 | Kamila Vodichkova | 1,767 |
 | 186 | Tully Bevilaqua | 1,763 |
 | 187 | Sandy Brondello | 1,759 |
-| 188 | **Sophie Cunningham** 🔴 +4 | 1,756 |
+| 187 | **Sophie Cunningham** 🔴 +7 | 1,759 |
 | 189 | Sugar Rodgers | 1,733 |
 | 190 | Gabby Williams | 1,723 |
 | 191 | Moriah Jefferson | 1,722 |
@@ -892,8 +892,8 @@ _Last updated: 2026-06-20 18:48 UTC_
 | 51 | Briann January | 386 |
 | 52 | Swin Cash | 384 |
 | 52 | Tina Charles | 384 |
+| 54 | **Jordin Canada** 🔴 +2 | 382 |
 | 54 | Tiffany Hayes | 382 |
-| 55 | **Jordin Canada** 🔴 +1 | 381 |
 | 56 | Ariel Atkins | 380 |
 | 57 | Monique Currie | 378 |
 | 58 | Chamique Holdsclaw | 376 |
@@ -1105,7 +1105,7 @@ _Last updated: 2026-06-20 18:48 UTC_
 | 59 | Anna DeForge | 334 |
 | 60 | Erica Wheeler | 329 |
 | 61 | Jackie Young | 323 |
-| 62 | **Sophie Cunningham** 🔴 +1 | 318 |
+| 62 | **Sophie Cunningham** 🔴 +2 | 319 |
 | 63 | Sugar Rodgers | 317 |
 | 64 | Marissa Coleman | 315 |
 | 65 | Shannon Johnson | 313 |
