@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-20 00:43 UTC_
+_Last updated: 2026-06-20 00:44 UTC_
 
 ## Contents
 
@@ -34,7 +34,7 @@ _Last updated: 2026-06-20 00:43 UTC_
 | 13 | Lisa Leslie | 6,251 |
 | 14 | **Breanna Stewart** 🔴 +8 | 6,181 |
 | 15 | Jewell Loyd | 6,078 |
-| 16 | **Brittney Griner** 🔴 +11 | 6,042 |
+| 16 | **Brittney Griner** 🔴 +13 | 6,044 |
 | 17 | Lauren Jackson | 6,005 |
 | 17 | Seimone Augustus | 6,005 |
 | 19 | A'ja Wilson | 5,942 |
@@ -241,7 +241,7 @@ _Last updated: 2026-06-20 00:43 UTC_
 | 15 | A'ja Wilson | 2,574 |
 | 15 | DeLisha Milton-Jones | 2,574 |
 | 17 | **Breanna Stewart** 🔴 +8 | 2,568 |
-| 18 | **Brittney Griner** 🔴 +6 | 2,562 |
+| 18 | **Brittney Griner** 🔴 +7 | 2,563 |
 | 19 | Swin Cash | 2,521 |
 | 20 | Michelle Snow | 2,476 |
 | 21 | Crystal Langhorne | 2,454 |
@@ -465,7 +465,7 @@ _Last updated: 2026-06-20 00:43 UTC_
 | 34 | Swin Cash | 1,131 |
 | 35 | Lindsey Harding | 1,090 |
 | 36 | Jackie Young | 1,087 |
-| 37 | **Sabrina Ionescu** 🔴 +1 | 1,075 |
+| 37 | **Sabrina Ionescu** 🔴 +2 | 1,076 |
 | 38 | Katie Douglas | 1,069 |
 | 39 | Alana Beard | 1,061 |
 | 40 | Penny Taylor | 1,049 |
@@ -635,7 +635,7 @@ _Last updated: 2026-06-20 00:43 UTC_
 | Rank | Player | Total |
 |-----:|--------|------:|
 | 1 | Margo Dydek | 873 |
-| 2 | **Brittney Griner** 🔴 +3 | 871 |
+| 2 | **Brittney Griner** 🔴 +2 | 870 |
 | 3 | Lisa Leslie | 818 |
 | 4 | Sylvia Fowles | 721 |
 | 5 | Candace Parker | 619 |
@@ -1232,8 +1232,8 @@ _Last updated: 2026-06-20 00:43 UTC_
 | 186 | Gordana Grubin | 114 |
 | 186 | Rickea Jackson | 114 |
 | 186 | Sandy Brondello | 114 |
-| 189 | **Leonie Fiebich** 🔴 +1 | 111 |
-| 189 | Shoni Schimmel | 111 |
+| 189 | **Leonie Fiebich** 🔴 +2 | 112 |
+| 190 | Shoni Schimmel | 111 |
 | 191 | Emma Meesseman | 109 |
 | 191 | Scholanda Dorrell | 109 |
 | 193 | Belinda Snell | 108 |
@@ -1552,8 +1552,8 @@ _Last updated: 2026-06-20 00:43 UTC_
 | 94 | Temeka Johnson | 680 |
 | 97 | Kelly Miller | 676 |
 | 98 | Cheyenne Parker-Tyus | 674 |
-| 99 | **Breanna Stewart** 🔴 +2 | 667 |
-| 99 | Chamique Holdsclaw | 667 |
+| 99 | **Breanna Stewart** 🔴 +3 | 668 |
+| 100 | Chamique Holdsclaw | 667 |
 | 101 | Tianna Hawkins | 662 |
 | 102 | Jewell Loyd | 661 |
 | 102 | Kayla Thornton | 661 |
