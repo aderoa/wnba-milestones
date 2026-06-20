@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-20 03:27 UTC_
+_Last updated: 2026-06-20 03:28 UTC_
 
 ## Contents
 
@@ -261,7 +261,7 @@ _Last updated: 2026-06-20 03:27 UTC_
 | 35 | Plenette Pierson | 1,834 |
 | 36 | Natalie Williams | 1,832 |
 | 37 | Wendy Palmer | 1,824 |
-| 38 | **Courtney Williams** 🔴 +7 | 1,808 |
+| 38 | **Courtney Williams** 🔴 +8 | 1,809 |
 | 39 | Sophia Young-Malcolm | 1,807 |
 | 40 | Lindsay Whalen | 1,805 |
 | 41 | Camille Smith | 1,802 |
@@ -1312,9 +1312,9 @@ _Last updated: 2026-06-20 03:27 UTC_
 | 61 | Yolanda Griffith | 653 |
 | 62 | Sheri Sam | 650 |
 | 63 | Dawn Staley | 643 |
+| 64 | **Kayla McBride** 🔴 +1 | 637 |
 | 64 | Ruth Riley | 637 |
-| 65 | **Kayla McBride** 🔴 | 636 |
-| 65 | Kelsey Plum | 636 |
+| 66 | Kelsey Plum | 636 |
 | 67 | Odyssey Sims | 631 |
 | 67 | Svetlana Abrosimova | 631 |
 | 69 | Jonquel Jones | 629 |
@@ -1606,9 +1606,9 @@ _Last updated: 2026-06-20 03:27 UTC_
 | 150 | Candice Wiggins | 525 |
 | 150 | Epiphanny Prince | 525 |
 | 150 | Jackie Young | 525 |
-| 153 | Armintie Herrington | 523 |
-| 153 | **Kayla McBride** 🔴 +1 | 523 |
-| 153 | Sophie Cunningham | 523 |
+| 153 | **Kayla McBride** 🔴 +2 | 524 |
+| 154 | Armintie Herrington | 523 |
+| 154 | Sophie Cunningham | 523 |
 | 156 | Sheryl Swoopes | 519 |
 | 157 | Monique Billings | 517 |
 | 157 | Nikki McCray | 517 |
