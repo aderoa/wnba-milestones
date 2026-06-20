@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-20 20:17 UTC_
+_Last updated: 2026-06-20 20:18 UTC_
 
 ## Contents
 
@@ -327,7 +327,7 @@ _Last updated: 2026-06-20 20:17 UTC_
 | 101 | Latasha Byears | 1,190 |
 | 101 | Tanisha Wright | 1,190 |
 | 103 | Vicky Bullett | 1,189 |
-| 104 | **Kahleah Copper** 🔴 +4 | 1,175 |
+| 104 | **Kahleah Copper** 🔴 +5 | 1,176 |
 | 105 | Nykesha Sales | 1,148 |
 | 106 | Brittney Sykes | 1,145 |
 | 107 | Shannon Johnson | 1,143 |
@@ -435,7 +435,7 @@ _Last updated: 2026-06-20 20:17 UTC_
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
 | 6 | Chelsea Gray | 1,935 |
-| 7 | **Alyssa Thomas** 🔴 +4 | 1,907 |
+| 7 | **Alyssa Thomas** 🔴 +5 | 1,908 |
 | 8 | Skylar Diggins | 1,812 |
 | 9 | Natasha Cloud | 1,772 |
 | 10 | Becky Hammon | 1,705 |
@@ -561,8 +561,8 @@ _Last updated: 2026-06-20 20:17 UTC_
 | 129 | Coco Miller | 503 |
 | 131 | Crystal Robinson | 488 |
 | 131 | Tiffany Mitchell | 488 |
+| 133 | **Kahleah Copper** 🔴 +2 | 486 |
 | 133 | Rebekkah Brunson | 486 |
-| 134 | **Kahleah Copper** 🔴 +1 | 485 |
 | 135 | Ukari Figgs | 470 |
 | 136 | Janeth Arcain | 469 |
 | 137 | Elizabeth Williams | 467 |
