@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-21 23:31 UTC_
+_Last updated: 2026-06-21 23:32 UTC_
 
 ## Contents
 
@@ -249,7 +249,7 @@ _Last updated: 2026-06-21 23:31 UTC_
 | 23 | Yolanda Griffith | 2,440 |
 | 24 | Dearica Hamby | 2,391 |
 | 25 | Tangela Smith | 2,328 |
-| 26 | **Natasha Howard** 🔴 +5 | 2,258 |
+| 26 | **Natasha Howard** 🔴 +4 | 2,257 |
 | 27 | Erika de Souza | 2,220 |
 | 28 | Diana Taurasi | 2,201 |
 | 29 | Margo Dydek | 2,138 |
@@ -654,7 +654,7 @@ _Last updated: 2026-06-21 23:31 UTC_
 | 18 | Tina Thompson | 372 |
 | 19 | Erika de Souza | 370 |
 | 20 | Jessica Breland | 367 |
-| 21 | **Natasha Howard** 🔴 +1 | 364 |
+| 21 | **Natasha Howard** 🔴 | 363 |
 | 22 | Ezi Magbegor | 354 |
 | 23 | DeWanna Bonner | 353 |
 | 24 | Diana Taurasi | 349 |
@@ -871,7 +871,7 @@ _Last updated: 2026-06-21 23:31 UTC_
 | 30 | Tangela Smith | 455 |
 | 31 | Skylar Diggins | 454 |
 | 32 | Tina Thompson | 452 |
-| 33 | **Natasha Howard** 🔴 +3 | 450 |
+| 33 | **Natasha Howard** 🔴 +4 | 451 |
 | 34 | Maya Moore | 449 |
 | 35 | Chelsea Gray | 446 |
 | 35 | Jewell Loyd | 446 |
