@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-21 00:17 UTC_
+_Last updated: 2026-06-21 00:18 UTC_
 
 ## Contents
 
@@ -40,7 +40,7 @@ _Last updated: 2026-06-21 00:17 UTC_
 | 19 | A'ja Wilson | 5,942 |
 | 20 | Becky Hammon | 5,816 |
 | 21 | Angel McCoughtry | 5,797 |
-| 22 | **Skylar Diggins** 🔴 | 5,626 |
+| 22 | **Skylar Diggins** 🔴 +3 | 5,629 |
 | 23 | DeLisha Milton-Jones | 5,571 |
 | 24 | Katie Douglas | 5,545 |
 | 25 | Kayla McBride | 5,522 |
@@ -868,8 +868,8 @@ _Last updated: 2026-06-21 00:17 UTC_
 | 27 | Sophia Young-Malcolm | 477 |
 | 28 | Teresa Weatherspoon | 463 |
 | 29 | Rebekkah Brunson | 456 |
-| 30 | **Skylar Diggins** 🔴 +1 | 455 |
-| 30 | Tangela Smith | 455 |
+| 29 | **Skylar Diggins** 🔴 +2 | 456 |
+| 31 | Tangela Smith | 455 |
 | 32 | Tina Thompson | 452 |
 | 33 | Maya Moore | 449 |
 | 34 | Natasha Howard | 447 |
@@ -1014,8 +1014,8 @@ _Last updated: 2026-06-21 00:17 UTC_
 | 173 | Sonja Henning | 194 |
 | 173 | Tierra Ruffin-Pratt | 194 |
 | 175 | Cynthia Cooper | 192 |
+| 176 | **Alanna Smith** 🔴 +1 | 191 |
 | 176 | Natisha Hiedeman | 191 |
-| 177 | **Alanna Smith** 🔴 | 190 |
 | 178 | Myisha Hines-Allen | 189 |
 | 179 | Tamicha Jackson | 188 |
 | 180 | Michele Timms | 187 |
@@ -1075,7 +1075,7 @@ _Last updated: 2026-06-21 00:17 UTC_
 | 28 | Tiffany Hayes | 451 |
 | 30 | Allisha Gray | 447 |
 | 31 | Lauren Jackson | 436 |
-| 32 | **Skylar Diggins** 🔴 | 435 |
+| 31 | **Skylar Diggins** 🔴 +1 | 436 |
 | 33 | Shameka Christon | 434 |
 | 34 | Chelsea Gray | 425 |
 | 34 | Crystal Robinson | 425 |
@@ -1271,7 +1271,7 @@ _Last updated: 2026-06-21 00:17 UTC_
 | 20 | Shannon Johnson | 934 |
 | 21 | Chelsea Gray | 898 |
 | 21 | Taj McWilliams-Franklin | 898 |
-| 23 | **Skylar Diggins** 🔴 | 893 |
+| 23 | **Skylar Diggins** 🔴 +1 | 894 |
 | 24 | Candice Dupree | 869 |
 | 25 | Alana Beard | 854 |
 | 26 | DeWanna Bonner | 837 |

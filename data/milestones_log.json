@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-21T00:18:00+00:00",
+    "text": "Skylar Diggins passed Tangela Smith for #30 all-time in steals (career 456) \u2014 up from #31 entering today \u2014 (4:46 - 1st \u2014 CHI @ DAL)",
+    "kind": "rank_pass",
+    "player": "Skylar Diggins",
+    "stat": "steals",
+    "rank": 30,
+    "passed_players": [
+      "Tangela Smith"
+    ],
+    "new_total": 456
+  },
+  {
     "ts": "2026-06-20T18:57:00+00:00",
     "text": "Damiris Dantas passed Tianna Hawkins for #131 all-time in rebounds (career 1,001) \u2014 up from #132 entering today \u2014 (8:21 - 4th \u2014 IND @ ATL)",
     "kind": "rank_pass",
@@ -2973,14 +2985,5 @@
       "Stephanie White"
     ],
     "new_total": 116
-  },
-  {
-    "ts": "2026-06-06T19:43:00+00:00",
-    "text": "Chelsea Gray reached 900 career turnovers (now 900) \u2014 (2:59 - 2nd \u2014 GS @ LV)",
-    "kind": "round",
-    "player": "Chelsea Gray",
-    "stat": "turnovers",
-    "value": 900,
-    "new_total": 900
   }
 ]
