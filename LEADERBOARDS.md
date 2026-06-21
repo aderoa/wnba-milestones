@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-21 22:08 UTC_
+_Last updated: 2026-06-21 22:09 UTC_
 
 ## Contents
 
@@ -87,9 +87,9 @@ _Last updated: 2026-06-21 22:08 UTC_
 | 66 | Mwadi Mabika | 3,576 |
 | 67 | Odyssey Sims | 3,574 |
 | 68 | Camille Smith | 3,551 |
-| 69 | Napheesa Collier | 3,542 |
-| 69 | Shannon Johnson | 3,542 |
-| 71 | Jackie Young | 3,535 |
+| 69 | Jackie Young | 3,543 |
+| 70 | Napheesa Collier | 3,542 |
+| 70 | Shannon Johnson | 3,542 |
 | 72 | Renee Montgomery | 3,533 |
 | 73 | Jasmine Thomas | 3,522 |
 | 74 | Tamecka Dixon | 3,507 |
@@ -345,7 +345,7 @@ _Last updated: 2026-06-21 22:08 UTC_
 | 119 | Svetlana Abrosimova | 1,078 |
 | 120 | Le'coe Willingham | 1,054 |
 | 121 | Isabelle Harrison | 1,049 |
-| 122 | Jackie Young | 1,046 |
+| 122 | Jackie Young | 1,047 |
 | 123 | Nicole Ohlde | 1,040 |
 | 124 | Tamecka Dixon | 1,035 |
 | 125 | Kamila Vodichkova | 1,031 |
@@ -408,7 +408,7 @@ _Last updated: 2026-06-21 22:08 UTC_
 | 181 | Kelsey Bone | 769 |
 | 181 | Tan White | 769 |
 | 184 | Tully Bevilaqua | 767 |
-| 185 | **Shakira Austin** 🔴 | 758 |
+| 185 | **Shakira Austin** 🔴 +1 | 759 |
 | 186 | Layshia Clarendon | 756 |
 | 187 | Brooke Wyckoff | 751 |
 | 188 | Coco Miller | 750 |
@@ -463,8 +463,8 @@ _Last updated: 2026-06-21 22:08 UTC_
 | 32 | Jewell Loyd | 1,145 |
 | 33 | Renee Montgomery | 1,140 |
 | 34 | Swin Cash | 1,131 |
-| 35 | Lindsey Harding | 1,090 |
-| 36 | Jackie Young | 1,089 |
+| 35 | Jackie Young | 1,092 |
+| 36 | Lindsey Harding | 1,090 |
 | 37 | Sabrina Ionescu | 1,074 |
 | 38 | Katie Douglas | 1,069 |
 | 39 | Alana Beard | 1,061 |
@@ -1602,13 +1602,13 @@ _Last updated: 2026-06-21 22:08 UTC_
 | 146 | A'ja Wilson | 537 |
 | 147 | Kristen Rasmussen | 533 |
 | 148 | Amanda Zahui B | 530 |
-| 149 | Damiris Dantas | 527 |
-| 150 | Jackie Young | 526 |
+| 149 | Jackie Young | 528 |
+| 150 | Damiris Dantas | 527 |
 | 151 | Candice Wiggins | 525 |
 | 151 | Epiphanny Prince | 525 |
 | 153 | Armintie Herrington | 523 |
+| 153 | **Kayla McBride** 🔴 +1 | 523 |
 | 153 | Sophie Cunningham | 523 |
-| 155 | **Kayla McBride** 🔴 | 522 |
 | 156 | Sheryl Swoopes | 519 |
 | 157 | Monique Billings | 517 |
 | 157 | Nikki McCray | 517 |
