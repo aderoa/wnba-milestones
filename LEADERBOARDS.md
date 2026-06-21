@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-21 21:18 UTC_
+_Last updated: 2026-06-21 21:19 UTC_
 
 ## Contents
 
@@ -1035,9 +1035,9 @@ _Last updated: 2026-06-21 21:18 UTC_
 | 194 | Tamika Raymond | 175 |
 | 195 | Elena Delle Donne | 174 |
 | 195 | Ezi Magbegor | 174 |
+| 195 | **Kiah Stokes** 🔴 +2 | 174 |
 | 195 | Margo Dydek | 174 |
-| 198 | Kamila Vodichkova | 173 |
-| 198 | **Kiah Stokes** 🔴 +1 | 173 |
+| 199 | Kamila Vodichkova | 173 |
 | 200 | Brittney Griner | 170 |
 
 ## Three-pointers
