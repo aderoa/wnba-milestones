@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-21 00:23 UTC_
+_Last updated: 2026-06-21 00:24 UTC_
 
 ## Contents
 
@@ -1184,7 +1184,7 @@ _Last updated: 2026-06-21 00:23 UTC_
 | 138 | Aari McDonald | 158 |
 | 138 | Jennifer Azzi | 158 |
 | 140 | Natasha Howard | 157 |
-| 141 | **Alanna Smith** 🔴 | 154 |
+| 141 | **Alanna Smith** 🔴 +1 | 155 |
 | 142 | Bridget Pettis | 153 |
 | 142 | Jennifer Gillom | 153 |
 | 142 | Stephanie Talbot | 153 |
@@ -1296,7 +1296,7 @@ _Last updated: 2026-06-21 00:23 UTC_
 | 45 | Renee Montgomery | 697 |
 | 46 | Temeka Johnson | 696 |
 | 47 | Penny Taylor | 695 |
-| 48 | **Natasha Cloud** 🔴 | 692 |
+| 48 | **Natasha Cloud** 🔴 +1 | 693 |
 | 49 | Erica Wheeler | 690 |
 | 50 | Dominique Canty | 685 |
 | 51 | DeMya Walker | 684 |
