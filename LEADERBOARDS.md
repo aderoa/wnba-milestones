@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-21 22:50 UTC_
+_Last updated: 2026-06-21 22:51 UTC_
 
 ## Contents
 
@@ -445,7 +445,7 @@ _Last updated: 2026-06-21 22:50 UTC_
 | 14 | Danielle Robinson | 1,480 |
 | 15 | Shannon Johnson | 1,423 |
 | 15 | Tanisha Wright | 1,423 |
-| 17 | **Courtney Williams** 🔴 +1 | 1,406 |
+| 17 | **Courtney Williams** 🔴 +2 | 1,407 |
 | 18 | Temeka Johnson | 1,382 |
 | 19 | Jasmine Thomas | 1,355 |
 | 20 | Briann January | 1,339 |
@@ -753,8 +753,8 @@ _Last updated: 2026-06-21 22:50 UTC_
 | 112 | Tari Phillips | 111 |
 | 118 | Erin Perperoglou | 108 |
 | 118 | Glory Johnson | 108 |
-| 120 | **Courtney Williams** 🔴 +1 | 107 |
-| 121 | Sylvia Crawley | 106 |
+| 120 | **Courtney Williams** 🔴 | 106 |
+| 120 | Sylvia Crawley | 106 |
 | 122 | Carolyn Swords | 104 |
 | 122 | Dearica Hamby | 104 |
 | 122 | Rebecca Lobo | 104 |
