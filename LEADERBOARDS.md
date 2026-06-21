@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-21 22:07 UTC_
+_Last updated: 2026-06-21 22:08 UTC_
 
 ## Contents
 
@@ -87,9 +87,9 @@ _Last updated: 2026-06-21 22:07 UTC_
 | 66 | Mwadi Mabika | 3,576 |
 | 67 | Odyssey Sims | 3,574 |
 | 68 | Camille Smith | 3,551 |
-| 69 | Jackie Young | 3,543 |
-| 70 | Napheesa Collier | 3,542 |
-| 70 | Shannon Johnson | 3,542 |
+| 69 | Napheesa Collier | 3,542 |
+| 69 | Shannon Johnson | 3,542 |
+| 71 | Jackie Young | 3,535 |
 | 72 | Renee Montgomery | 3,533 |
 | 73 | Jasmine Thomas | 3,522 |
 | 74 | Tamecka Dixon | 3,507 |
@@ -320,7 +320,7 @@ _Last updated: 2026-06-21 22:07 UTC_
 | 94 | Brianna Turner | 1,240 |
 | 95 | Myisha Hines-Allen | 1,239 |
 | 96 | Seimone Augustus | 1,228 |
-| 97 | **Kayla McBride** 🔴 | 1,226 |
+| 97 | **Kayla McBride** 🔴 +1 | 1,227 |
 | 98 | Chelsea Gray | 1,223 |
 | 99 | Jia Perkins | 1,220 |
 | 100 | DeMya Walker | 1,199 |
@@ -345,7 +345,7 @@ _Last updated: 2026-06-21 22:07 UTC_
 | 119 | Svetlana Abrosimova | 1,078 |
 | 120 | Le'coe Willingham | 1,054 |
 | 121 | Isabelle Harrison | 1,049 |
-| 122 | Jackie Young | 1,047 |
+| 122 | Jackie Young | 1,046 |
 | 123 | Nicole Ohlde | 1,040 |
 | 124 | Tamecka Dixon | 1,035 |
 | 125 | Kamila Vodichkova | 1,031 |
@@ -463,8 +463,8 @@ _Last updated: 2026-06-21 22:07 UTC_
 | 32 | Jewell Loyd | 1,145 |
 | 33 | Renee Montgomery | 1,140 |
 | 34 | Swin Cash | 1,131 |
-| 35 | Jackie Young | 1,092 |
-| 36 | Lindsey Harding | 1,090 |
+| 35 | Lindsey Harding | 1,090 |
+| 36 | Jackie Young | 1,089 |
 | 37 | Sabrina Ionescu | 1,074 |
 | 38 | Katie Douglas | 1,069 |
 | 39 | Alana Beard | 1,061 |
@@ -872,7 +872,7 @@ _Last updated: 2026-06-21 22:07 UTC_
 | 31 | Skylar Diggins | 454 |
 | 32 | Tina Thompson | 452 |
 | 33 | Maya Moore | 449 |
-| 34 | **Natasha Howard** 🔴 | 447 |
+| 34 | **Natasha Howard** 🔴 +1 | 448 |
 | 35 | Chelsea Gray | 446 |
 | 35 | Jewell Loyd | 446 |
 | 37 | Sheri Sam | 438 |
@@ -1602,8 +1602,8 @@ _Last updated: 2026-06-21 22:07 UTC_
 | 146 | A'ja Wilson | 537 |
 | 147 | Kristen Rasmussen | 533 |
 | 148 | Amanda Zahui B | 530 |
-| 149 | Jackie Young | 528 |
-| 150 | Damiris Dantas | 527 |
+| 149 | Damiris Dantas | 527 |
+| 150 | Jackie Young | 526 |
 | 151 | Candice Wiggins | 525 |
 | 151 | Epiphanny Prince | 525 |
 | 153 | Armintie Herrington | 523 |
