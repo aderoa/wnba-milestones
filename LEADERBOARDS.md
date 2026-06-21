@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-21 20:15 UTC_
+_Last updated: 2026-06-21 20:16 UTC_
 
 ## Contents
 
@@ -90,7 +90,7 @@ _Last updated: 2026-06-21 20:15 UTC_
 | 69 | Napheesa Collier | 3,542 |
 | 69 | Shannon Johnson | 3,542 |
 | 71 | Renee Montgomery | 3,533 |
-| 72 | **Jackie Young** 🔴 +3 | 3,525 |
+| 72 | **Jackie Young** 🔴 +6 | 3,528 |
 | 73 | Jasmine Thomas | 3,522 |
 | 74 | Tamecka Dixon | 3,507 |
 | 75 | Tammy Sutton-Brown | 3,498 |
@@ -317,8 +317,8 @@ _Last updated: 2026-06-21 20:15 UTC_
 | 91 | Azurá Stevens | 1,256 |
 | 92 | Tiffany Hayes | 1,244 |
 | 93 | Ezi Magbegor | 1,243 |
+| 94 | **Brianna Turner** 🔴 +2 | 1,239 |
 | 94 | Myisha Hines-Allen | 1,239 |
-| 95 | **Brianna Turner** 🔴 +1 | 1,238 |
 | 96 | Seimone Augustus | 1,228 |
 | 97 | Kayla McBride | 1,226 |
 | 98 | **Chelsea Gray** 🔴 +1 | 1,222 |
@@ -1104,7 +1104,7 @@ _Last updated: 2026-06-21 20:15 UTC_
 | 58 | Natasha Cloud | 339 |
 | 59 | Anna DeForge | 334 |
 | 60 | Erica Wheeler | 329 |
-| 61 | **Jackie Young** 🔴 +1 | 324 |
+| 61 | **Jackie Young** 🔴 +2 | 325 |
 | 62 | Sophie Cunningham | 317 |
 | 62 | Sugar Rodgers | 317 |
 | 64 | Marissa Coleman | 315 |
