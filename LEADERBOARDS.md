@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-21 21:25 UTC_
+_Last updated: 2026-06-21 21:26 UTC_
 
 ## Contents
 
@@ -463,8 +463,8 @@ _Last updated: 2026-06-21 21:25 UTC_
 | 32 | **Jewell Loyd** 🔴 | 1,144 |
 | 33 | Renee Montgomery | 1,140 |
 | 34 | Swin Cash | 1,131 |
-| 35 | **Jackie Young** 🔴 +3 | 1,090 |
-| 35 | Lindsey Harding | 1,090 |
+| 35 | **Jackie Young** 🔴 +4 | 1,091 |
+| 36 | Lindsey Harding | 1,090 |
 | 37 | Sabrina Ionescu | 1,074 |
 | 38 | Katie Douglas | 1,069 |
 | 39 | Alana Beard | 1,061 |
@@ -1320,7 +1320,7 @@ _Last updated: 2026-06-21 21:25 UTC_
 | 69 | Jonquel Jones | 627 |
 | 70 | Rebekkah Brunson | 615 |
 | 71 | Seimone Augustus | 613 |
-| 72 | **Tiffany Hayes** 🔴 | 610 |
+| 72 | **Tiffany Hayes** 🔴 +1 | 611 |
 | 73 | Kahleah Copper | 609 |
 | 74 | Teresa Weatherspoon | 601 |
 | 75 | Lindsey Harding | 600 |
