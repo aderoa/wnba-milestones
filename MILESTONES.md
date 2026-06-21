@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-21 02:09 UTC
+
+- **Skylar Diggins** passed **Rebekkah Brunson** for **#29** all-time in steals (career 457) — up from #31 entering today — _35.7 - 4th — CHI @ DAL_
+
 ## 2026-06-21 01:27 UTC
 
 - **Kamilla Cardoso** reached **1,000** career points (now 1,000) — _2:47 - 3rd — CHI @ DAL_

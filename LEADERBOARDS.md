@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-21 02:08 UTC_
+_Last updated: 2026-06-21 02:09 UTC_
 
 ## Contents
 
@@ -367,7 +367,7 @@ _Last updated: 2026-06-21 02:08 UTC_
 | 141 | Dominique Canty | 961 |
 | 142 | Armintie Herrington | 960 |
 | 143 | Janell Burse | 944 |
-| 144 | **Jessica Shepard** 🔴 +7 | 934 |
+| 144 | **Jessica Shepard** 🔴 +8 | 935 |
 | 145 | Angel Reese | 931 |
 | 146 | Merlakia Jones | 927 |
 | 147 | Satou Sabally | 926 |
@@ -868,8 +868,8 @@ _Last updated: 2026-06-21 02:08 UTC_
 | 26 | Penny Taylor | 479 |
 | 27 | Sophia Young-Malcolm | 477 |
 | 28 | Teresa Weatherspoon | 463 |
-| 29 | Rebekkah Brunson | 456 |
-| 29 | **Skylar Diggins** 🔴 +2 | 456 |
+| 29 | **Skylar Diggins** 🔴 +3 | 457 |
+| 30 | Rebekkah Brunson | 456 |
 | 31 | Tangela Smith | 455 |
 | 32 | Tina Thompson | 452 |
 | 33 | Maya Moore | 449 |

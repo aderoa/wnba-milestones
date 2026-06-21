@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-21T02:09:00+00:00",
+    "text": "Skylar Diggins passed Rebekkah Brunson for #29 all-time in steals (career 457) \u2014 up from #31 entering today \u2014 (35.7 - 4th \u2014 CHI @ DAL)",
+    "kind": "rank_pass",
+    "player": "Skylar Diggins",
+    "stat": "steals",
+    "rank": 29,
+    "passed_players": [
+      "Rebekkah Brunson"
+    ],
+    "new_total": 457
+  },
+  {
     "ts": "2026-06-21T01:27:00+00:00",
     "text": "Kamilla Cardoso reached 1,000 career points (now 1,000) \u2014 (2:47 - 3rd \u2014 CHI @ DAL)",
     "kind": "round",
@@ -2969,17 +2981,5 @@
       "Jennifer Gillom"
     ],
     "new_total": 154
-  },
-  {
-    "ts": "2026-06-06T19:49:00+00:00",
-    "text": "A'ja Wilson passed Asjha Jones for #94 all-time in assists (career 638) \u2014 (1:23 - 2nd \u2014 GS @ LV)",
-    "kind": "rank_pass",
-    "player": "A'ja Wilson",
-    "stat": "assists",
-    "rank": 94,
-    "passed_players": [
-      "Asjha Jones"
-    ],
-    "new_total": 638
   }
 ]
