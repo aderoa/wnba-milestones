@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-21 20:48 UTC_
+_Last updated: 2026-06-21 20:49 UTC_
 
 ## Contents
 
@@ -59,7 +59,7 @@ _Last updated: 2026-06-21 20:48 UTC_
 | 38 | Arike Ogunbowale | 4,612 |
 | 39 | Penny Taylor | 4,595 |
 | 40 | Natasha Howard | 4,528 |
-| 41 | **Chelsea Gray** 🔴 +5 | 4,511 |
+| 41 | **Chelsea Gray** 🔴 +7 | 4,513 |
 | 42 | Kristi Toliver | 4,474 |
 | 43 | Crystal Langhorne | 4,433 |
 | 43 | Jia Perkins | 4,433 |
@@ -208,7 +208,7 @@ _Last updated: 2026-06-21 20:48 UTC_
 | 187 | Sandy Brondello | 1,759 |
 | 188 | Sophie Cunningham | 1,752 |
 | 189 | Sugar Rodgers | 1,733 |
-| 190 | **Gabby Williams** 🔴 +7 | 1,730 |
+| 190 | **Gabby Williams** 🔴 +8 | 1,731 |
 | 191 | Moriah Jefferson | 1,722 |
 | 192 | Armintie Herrington | 1,696 |
 | 193 | Nikki Teasley | 1,690 |
@@ -265,7 +265,7 @@ _Last updated: 2026-06-21 20:48 UTC_
 | 39 | Lindsay Whalen | 1,805 |
 | 40 | Camille Smith | 1,802 |
 | 41 | Courtney Williams | 1,801 |
-| 42 | **Kiah Stokes** 🔴 +1 | 1,791 |
+| 42 | **Kiah Stokes** 🔴 +2 | 1,792 |
 | 43 | Asjha Jones | 1,751 |
 | 44 | Stefanie Dolson | 1,688 |
 | 45 | Teaira McCowan | 1,682 |
@@ -317,8 +317,8 @@ _Last updated: 2026-06-21 20:48 UTC_
 | 91 | Azurá Stevens | 1,256 |
 | 92 | **Tiffany Hayes** 🔴 +1 | 1,245 |
 | 93 | Ezi Magbegor | 1,243 |
-| 94 | **Brianna Turner** 🔴 +2 | 1,239 |
-| 94 | Myisha Hines-Allen | 1,239 |
+| 94 | **Brianna Turner** 🔴 +3 | 1,240 |
+| 95 | Myisha Hines-Allen | 1,239 |
 | 96 | Seimone Augustus | 1,228 |
 | 97 | Kayla McBride | 1,226 |
 | 98 | **Chelsea Gray** 🔴 +1 | 1,222 |
@@ -464,7 +464,7 @@ _Last updated: 2026-06-21 20:48 UTC_
 | 33 | Renee Montgomery | 1,140 |
 | 34 | Swin Cash | 1,131 |
 | 35 | Lindsey Harding | 1,090 |
-| 36 | **Jackie Young** 🔴 | 1,087 |
+| 36 | **Jackie Young** 🔴 +1 | 1,088 |
 | 37 | Sabrina Ionescu | 1,074 |
 | 38 | Katie Douglas | 1,069 |
 | 39 | Alana Beard | 1,061 |
