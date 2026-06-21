@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-21 01:57 UTC_
+_Last updated: 2026-06-21 01:58 UTC_
 
 ## Contents
 
@@ -911,8 +911,8 @@ _Last updated: 2026-06-21 01:57 UTC_
 | 70 | Svetlana Abrosimova | 352 |
 | 71 | **Natasha Cloud** 🔴 +1 | 350 |
 | 72 | A'ja Wilson | 346 |
+| 72 | **Arike Ogunbowale** 🔴 +1 | 346 |
 | 72 | Janeth Arcain | 346 |
-| 74 | **Arike Ogunbowale** 🔴 | 345 |
 | 75 | Helen Darling | 343 |
 | 76 | Andrea Stinson | 342 |
 | 77 | Armintie Herrington | 340 |
@@ -1271,7 +1271,7 @@ _Last updated: 2026-06-21 01:57 UTC_
 | 20 | Shannon Johnson | 934 |
 | 21 | Chelsea Gray | 898 |
 | 21 | Taj McWilliams-Franklin | 898 |
-| 23 | **Skylar Diggins** 🔴 +2 | 895 |
+| 23 | **Skylar Diggins** 🔴 +3 | 896 |
 | 24 | Candice Dupree | 869 |
 | 25 | Alana Beard | 854 |
 | 26 | DeWanna Bonner | 837 |
