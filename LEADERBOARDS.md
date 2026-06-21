@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-21 00:26 UTC_
+_Last updated: 2026-06-21 00:27 UTC_
 
 ## Contents
 
@@ -117,7 +117,7 @@ _Last updated: 2026-06-21 00:26 UTC_
 | 96 | Shameka Christon | 3,039 |
 | 97 | Marie Ferdinand-Harris | 3,001 |
 | 98 | Emma Meesseman | 2,966 |
-| 99 | **Natasha Cloud** 🔴 +1 | 2,953 |
+| 99 | **Natasha Cloud** 🔴 +2 | 2,954 |
 | 100 | **Elizabeth Williams** 🔴 +2 | 2,898 |
 | 101 | Natalie Williams | 2,894 |
 | 102 | Jennifer Gillom | 2,888 |
@@ -815,13 +815,13 @@ _Last updated: 2026-06-21 00:26 UTC_
 | 177 | Myisha Hines-Allen | 75 |
 | 177 | Tianna Hawkins | 75 |
 | 181 | Epiphanny Prince | 74 |
+| 182 | **Awak Kuier** 🔴 +1 | 73 |
 | 182 | Ayana Walker | 73 |
 | 182 | Lindsay Wisdom-Hylton | 73 |
-| 184 | **Awak Kuier** 🔴 | 72 |
-| 184 | Cappie Pondexter | 72 |
-| 184 | Christi Thomas | 72 |
-| 184 | Olympia Scott | 72 |
-| 184 | Sue Bird | 72 |
+| 185 | Cappie Pondexter | 72 |
+| 185 | Christi Thomas | 72 |
+| 185 | Olympia Scott | 72 |
+| 185 | Sue Bird | 72 |
 | 189 | Marlies Askamp | 71 |
 | 189 | Tanisha Wright | 71 |
 | 191 | Wendy Palmer | 70 |
