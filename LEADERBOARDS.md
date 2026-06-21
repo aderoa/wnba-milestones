@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-21 22:09 UTC_
+_Last updated: 2026-06-21 22:10 UTC_
 
 ## Contents
 
@@ -58,7 +58,7 @@ _Last updated: 2026-06-21 22:09 UTC_
 | 37 | Alyssa Thomas | 4,653 |
 | 38 | Arike Ogunbowale | 4,612 |
 | 39 | Penny Taylor | 4,595 |
-| 40 | **Natasha Howard** 🔴 | 4,528 |
+| 40 | **Natasha Howard** 🔴 +4 | 4,532 |
 | 41 | Chelsea Gray | 4,521 |
 | 42 | Kristi Toliver | 4,474 |
 | 43 | Crystal Langhorne | 4,433 |
@@ -264,7 +264,7 @@ _Last updated: 2026-06-21 22:09 UTC_
 | 38 | Sophia Young-Malcolm | 1,807 |
 | 39 | Lindsay Whalen | 1,805 |
 | 40 | Camille Smith | 1,802 |
-| 41 | **Courtney Williams** 🔴 | 1,801 |
+| 40 | **Courtney Williams** 🔴 +1 | 1,802 |
 | 42 | Kiah Stokes | 1,793 |
 | 43 | Asjha Jones | 1,751 |
 | 44 | Stefanie Dolson | 1,688 |
@@ -703,8 +703,8 @@ _Last updated: 2026-06-21 22:09 UTC_
 | 66 | Nicole Ohlde | 171 |
 | 68 | Jantel Lavender | 170 |
 | 69 | Camille Smith | 169 |
+| 70 | **Nia Coffey** 🔴 +2 | 165 |
 | 70 | Shameka Christon | 165 |
-| 71 | **Nia Coffey** 🔴 +1 | 164 |
 | 72 | Cheryl Ford | 160 |
 | 73 | Kara Braxton | 157 |
 | 74 | Allisha Gray | 156 |
@@ -872,7 +872,7 @@ _Last updated: 2026-06-21 22:09 UTC_
 | 31 | Skylar Diggins | 454 |
 | 32 | Tina Thompson | 452 |
 | 33 | Maya Moore | 449 |
-| 34 | **Natasha Howard** 🔴 +1 | 448 |
+| 33 | **Natasha Howard** 🔴 +2 | 449 |
 | 35 | Chelsea Gray | 446 |
 | 35 | Jewell Loyd | 446 |
 | 37 | Sheri Sam | 438 |
