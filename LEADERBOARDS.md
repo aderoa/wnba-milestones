@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-21 22:44 UTC_
+_Last updated: 2026-06-21 22:45 UTC_
 
 ## Contents
 
@@ -70,7 +70,7 @@ _Last updated: 2026-06-21 22:44 UTC_
 | 49 | Kahleah Copper | 4,283 |
 | 50 | Plenette Pierson | 4,258 |
 | 51 | Monique Currie | 4,253 |
-| 52 | **Courtney Williams** 🔴 +9 | 4,247 |
+| 52 | **Courtney Williams** 🔴 +11 | 4,249 |
 | 53 | Dearica Hamby | 4,243 |
 | 54 | Vickie Johnson | 4,230 |
 | 55 | Yolanda Griffith | 4,224 |
@@ -319,8 +319,8 @@ _Last updated: 2026-06-21 22:44 UTC_
 | 93 | Ezi Magbegor | 1,243 |
 | 94 | Brianna Turner | 1,240 |
 | 95 | Myisha Hines-Allen | 1,239 |
+| 96 | **Kayla McBride** 🔴 +2 | 1,228 |
 | 96 | Seimone Augustus | 1,228 |
-| 97 | **Kayla McBride** 🔴 +1 | 1,227 |
 | 98 | Chelsea Gray | 1,223 |
 | 99 | Jia Perkins | 1,220 |
 | 100 | DeMya Walker | 1,199 |
@@ -753,8 +753,8 @@ _Last updated: 2026-06-21 22:44 UTC_
 | 112 | Tari Phillips | 111 |
 | 118 | Erin Perperoglou | 108 |
 | 118 | Glory Johnson | 108 |
-| 120 | **Courtney Williams** 🔴 | 106 |
-| 120 | Sylvia Crawley | 106 |
+| 120 | **Courtney Williams** 🔴 +1 | 107 |
+| 121 | Sylvia Crawley | 106 |
 | 122 | Carolyn Swords | 104 |
 | 122 | Dearica Hamby | 104 |
 | 122 | Rebecca Lobo | 104 |
