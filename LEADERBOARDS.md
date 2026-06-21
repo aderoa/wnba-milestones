@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-21 21:19 UTC_
+_Last updated: 2026-06-21 21:20 UTC_
 
 ## Contents
 
@@ -202,7 +202,7 @@ _Last updated: 2026-06-21 21:19 UTC_
 | 181 | Rachel Banham | 1,823 |
 | 182 | Danielle Adams | 1,820 |
 | 183 | Charde Houston | 1,797 |
-| 184 | **NaLyssa Smith** 🔴 +10 | 1,785 |
+| 184 | **NaLyssa Smith** 🔴 +12 | 1,787 |
 | 185 | Kamila Vodichkova | 1,767 |
 | 186 | Tully Bevilaqua | 1,763 |
 | 187 | Sandy Brondello | 1,759 |
@@ -300,7 +300,7 @@ _Last updated: 2026-06-21 21:19 UTC_
 | 74 | Courtney Vandersloot | 1,383 |
 | 74 | Katie Smith | 1,383 |
 | 76 | Ebony Hoffman | 1,376 |
-| 77 | **Kayla Thornton** 🔴 +3 | 1,363 |
+| 77 | **Kayla Thornton** 🔴 +4 | 1,364 |
 | 78 | Sheri Sam | 1,356 |
 | 79 | Tamika Whitmore | 1,355 |
 | 80 | Emma Meesseman | 1,350 |
@@ -321,7 +321,7 @@ _Last updated: 2026-06-21 21:19 UTC_
 | 95 | Myisha Hines-Allen | 1,239 |
 | 96 | Seimone Augustus | 1,228 |
 | 97 | Kayla McBride | 1,226 |
-| 98 | **Chelsea Gray** 🔴 +1 | 1,222 |
+| 98 | **Chelsea Gray** 🔴 +2 | 1,223 |
 | 99 | Jia Perkins | 1,220 |
 | 100 | DeMya Walker | 1,199 |
 | 101 | Latasha Byears | 1,190 |
@@ -772,9 +772,9 @@ _Last updated: 2026-06-21 21:19 UTC_
 | 135 | Tiffani Johnson | 96 |
 | 137 | Imani McGee-Stafford | 95 |
 | 137 | Isabelle Harrison | 95 |
-| 139 | **Jewell Loyd** 🔴 | 94 |
-| 139 | **NaLyssa Smith** 🔴 | 94 |
-| 139 | Sandrine Gruda | 94 |
+| 137 | **NaLyssa Smith** 🔴 +1 | 95 |
+| 140 | **Jewell Loyd** 🔴 | 94 |
+| 140 | Sandrine Gruda | 94 |
 | 142 | Jasmine Thomas | 91 |
 | 142 | Kayla Alexander | 91 |
 | 144 | Allie Quigley | 90 |
@@ -953,7 +953,7 @@ _Last updated: 2026-06-21 21:19 UTC_
 | 112 | Crystal Robinson | 267 |
 | 113 | Anna DeForge | 266 |
 | 114 | Brionna Jones | 265 |
-| 115 | **Kayla Thornton** 🔴 +1 | 264 |
+| 115 | **Kayla Thornton** 🔴 | 263 |
 | 116 | Michelle Snow | 262 |
 | 117 | Karima Christmas-Kelly | 261 |
 | 118 | Kelsey Plum | 260 |
