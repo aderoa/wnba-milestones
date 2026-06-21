@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-21 21:26 UTC_
+_Last updated: 2026-06-21 21:27 UTC_
 
 ## Contents
 
@@ -37,7 +37,7 @@ _Last updated: 2026-06-21 21:26 UTC_
 | 16 | Brittney Griner | 6,031 |
 | 17 | Lauren Jackson | 6,005 |
 | 17 | Seimone Augustus | 6,005 |
-| 19 | **A'ja Wilson** 🔴 +13 | 5,955 |
+| 19 | **A'ja Wilson** 🔴 +15 | 5,957 |
 | 20 | Becky Hammon | 5,816 |
 | 21 | Angel McCoughtry | 5,797 |
 | 22 | Skylar Diggins | 5,626 |
@@ -463,7 +463,7 @@ _Last updated: 2026-06-21 21:26 UTC_
 | 32 | **Jewell Loyd** 🔴 | 1,144 |
 | 33 | Renee Montgomery | 1,140 |
 | 34 | Swin Cash | 1,131 |
-| 35 | **Jackie Young** 🔴 +4 | 1,091 |
+| 35 | **Jackie Young** 🔴 +5 | 1,092 |
 | 36 | Lindsey Harding | 1,090 |
 | 37 | Sabrina Ionescu | 1,074 |
 | 38 | Katie Douglas | 1,069 |
@@ -1554,8 +1554,8 @@ _Last updated: 2026-06-21 21:26 UTC_
 | 98 | Cheyenne Parker-Tyus | 674 |
 | 99 | Chamique Holdsclaw | 667 |
 | 100 | Breanna Stewart | 665 |
-| 101 | **Jewell Loyd** 🔴 +3 | 664 |
-| 101 | **Kayla Thornton** 🔴 +3 | 664 |
+| 100 | **Kayla Thornton** 🔴 +4 | 665 |
+| 102 | **Jewell Loyd** 🔴 +3 | 664 |
 | 103 | Tianna Hawkins | 662 |
 | 104 | Tari Phillips | 648 |
 | 105 | Marie Ferdinand-Harris | 646 |
