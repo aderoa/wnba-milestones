@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-21 21:41 UTC_
+_Last updated: 2026-06-21 21:42 UTC_
 
 ## Contents
 
@@ -1281,7 +1281,7 @@ _Last updated: 2026-06-21 21:41 UTC_
 | 30 | Jasmine Thomas | 796 |
 | 31 | Nneka Ogwumike | 795 |
 | 32 | Chamique Holdsclaw | 789 |
-| 33 | **Jewell Loyd** 🔴 +1 | 787 |
+| 33 | **Jewell Loyd** 🔴 +2 | 788 |
 | 34 | Crystal Langhorne | 782 |
 | 35 | Camille Smith | 779 |
 | 36 | Plenette Pierson | 773 |
