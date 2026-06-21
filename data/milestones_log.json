@@ -1,5 +1,14 @@
 [
   {
+    "ts": "2026-06-21T01:27:00+00:00",
+    "text": "Kamilla Cardoso reached 1,000 career points (now 1,000) \u2014 (2:47 - 3rd \u2014 CHI @ DAL)",
+    "kind": "round",
+    "player": "Kamilla Cardoso",
+    "stat": "points",
+    "value": 1000,
+    "new_total": 1000
+  },
+  {
     "ts": "2026-06-21T01:24:00+00:00",
     "text": "Skylar Diggins passed Shannon Johnson and Tully Bevilaqua for #59 all-time in fouls (career 814) \u2014 up from #61 entering today \u2014 (4:40 - 3rd \u2014 CHI @ DAL)",
     "kind": "rank_pass",
@@ -2972,17 +2981,5 @@
       "Asjha Jones"
     ],
     "new_total": 638
-  },
-  {
-    "ts": "2026-06-06T19:44:00+00:00",
-    "text": "A'ja Wilson passed Allie Quigley for #119 all-time in turnovers (career 468) \u2014 up from #120 entering today \u2014 (2:59 - 2nd \u2014 GS @ LV)",
-    "kind": "rank_pass",
-    "player": "A'ja Wilson",
-    "stat": "turnovers",
-    "rank": 119,
-    "passed_players": [
-      "Allie Quigley"
-    ],
-    "new_total": 468
   }
 ]
