@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-21 01:23 UTC_
+_Last updated: 2026-06-21 01:24 UTC_
 
 ## Contents
 
@@ -1271,7 +1271,7 @@ _Last updated: 2026-06-21 01:23 UTC_
 | 20 | Shannon Johnson | 934 |
 | 21 | Chelsea Gray | 898 |
 | 21 | Taj McWilliams-Franklin | 898 |
-| 23 | **Skylar Diggins** 🔴 +1 | 894 |
+| 23 | **Skylar Diggins** 🔴 +2 | 895 |
 | 24 | Candice Dupree | 869 |
 | 25 | Alana Beard | 854 |
 | 26 | DeWanna Bonner | 837 |
@@ -1512,9 +1512,9 @@ _Last updated: 2026-06-21 01:23 UTC_
 | 56 | Dominique Canty | 831 |
 | 56 | Wendy Palmer | 831 |
 | 58 | Dearica Hamby | 829 |
-| 59 | Shannon Johnson | 813 |
-| 59 | **Skylar Diggins** 🔴 +1 | 813 |
-| 59 | Tully Bevilaqua | 813 |
+| 59 | **Skylar Diggins** 🔴 +2 | 814 |
+| 60 | Shannon Johnson | 813 |
+| 60 | Tully Bevilaqua | 813 |
 | 62 | Nykesha Sales | 796 |
 | 63 | Ebony Hoffman | 791 |
 | 64 | Erica Wheeler | 787 |
