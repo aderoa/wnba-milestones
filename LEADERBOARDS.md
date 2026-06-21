@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-21 01:53 UTC_
+_Last updated: 2026-06-21 01:54 UTC_
 
 ## Contents
 
@@ -336,7 +336,7 @@ _Last updated: 2026-06-21 01:53 UTC_
 | 109 | Tamika Raymond | 1,127 |
 | 111 | Adrienne Goodson | 1,126 |
 | 112 | Aliyah Boston | 1,119 |
-| 113 | **Natasha Cloud** 🔴 +4 | 1,116 |
+| 113 | **Natasha Cloud** 🔴 +5 | 1,117 |
 | 114 | NaLyssa Smith | 1,115 |
 | 115 | Deanna Nolan | 1,112 |
 | 116 | Chiney Ogwumike | 1,110 |
@@ -437,7 +437,7 @@ _Last updated: 2026-06-21 01:53 UTC_
 | 6 | Chelsea Gray | 1,935 |
 | 7 | Alyssa Thomas | 1,912 |
 | 8 | **Skylar Diggins** 🔴 +5 | 1,817 |
-| 9 | **Natasha Cloud** 🔴 +4 | 1,776 |
+| 9 | **Natasha Cloud** 🔴 +5 | 1,777 |
 | 10 | Becky Hammon | 1,705 |
 | 11 | Candace Parker | 1,634 |
 | 12 | Cappie Pondexter | 1,575 |
@@ -598,7 +598,7 @@ _Last updated: 2026-06-21 01:53 UTC_
 | 167 | Kia Nurse | 402 |
 | 168 | Julie Allemand | 401 |
 | 169 | Marissa Coleman | 399 |
-| 170 | **Jessica Shepard** 🔴 +1 | 396 |
+| 170 | **Jessica Shepard** 🔴 +2 | 397 |
 | 171 | Stacey Dales | 395 |
 | 172 | Sugar Rodgers | 393 |
 | 173 | Shameka Christon | 389 |
