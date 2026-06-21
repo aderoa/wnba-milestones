@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-21 01:29 UTC_
+_Last updated: 2026-06-21 01:30 UTC_
 
 ## Contents
 
@@ -117,7 +117,7 @@ _Last updated: 2026-06-21 01:29 UTC_
 | 96 | Shameka Christon | 3,039 |
 | 97 | Marie Ferdinand-Harris | 3,001 |
 | 98 | Emma Meesseman | 2,966 |
-| 99 | **Natasha Cloud** 🔴 +7 | 2,959 |
+| 99 | **Natasha Cloud** 🔴 +10 | 2,962 |
 | 100 | **Elizabeth Williams** 🔴 +2 | 2,898 |
 | 101 | Natalie Williams | 2,894 |
 | 102 | Jennifer Gillom | 2,888 |
@@ -336,8 +336,8 @@ _Last updated: 2026-06-21 01:29 UTC_
 | 109 | Tamika Raymond | 1,127 |
 | 111 | Adrienne Goodson | 1,126 |
 | 112 | Aliyah Boston | 1,119 |
-| 113 | NaLyssa Smith | 1,115 |
-| 113 | **Natasha Cloud** 🔴 +3 | 1,115 |
+| 113 | **Natasha Cloud** 🔴 +4 | 1,116 |
+| 114 | NaLyssa Smith | 1,115 |
 | 115 | Deanna Nolan | 1,112 |
 | 116 | Chiney Ogwumike | 1,110 |
 | 117 | Becky Hammon | 1,108 |
@@ -1100,8 +1100,8 @@ _Last updated: 2026-06-21 01:29 UTC_
 | 54 | Cathrine Kraayeveld | 343 |
 | 54 | Elena Delle Donne | 343 |
 | 56 | Candace Parker | 342 |
-| 57 | Deanna Nolan | 340 |
-| 57 | **Natasha Cloud** 🔴 +1 | 340 |
+| 57 | **Natasha Cloud** 🔴 +2 | 341 |
+| 58 | Deanna Nolan | 340 |
 | 59 | Anna DeForge | 334 |
 | 60 | Erica Wheeler | 329 |
 | 61 | Jackie Young | 323 |
@@ -1531,7 +1531,7 @@ _Last updated: 2026-06-21 01:29 UTC_
 | 75 | Latasha Byears | 730 |
 | 76 | Allisha Gray | 729 |
 | 77 | Kristi Toliver | 722 |
-| 78 | **Elizabeth Williams** 🔴 | 720 |
+| 78 | **Elizabeth Williams** 🔴 +1 | 721 |
 | 79 | Ariel Atkins | 713 |
 | 79 | Cheryl Ford | 713 |
 | 81 | Jia Perkins | 711 |
