@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-21 20:41 UTC_
+_Last updated: 2026-06-21 20:42 UTC_
 
 ## Contents
 
@@ -37,7 +37,7 @@ _Last updated: 2026-06-21 20:41 UTC_
 | 16 | Brittney Griner | 6,031 |
 | 17 | Lauren Jackson | 6,005 |
 | 17 | Seimone Augustus | 6,005 |
-| 19 | **A'ja Wilson** 🔴 +6 | 5,948 |
+| 19 | **A'ja Wilson** 🔴 +8 | 5,950 |
 | 20 | Becky Hammon | 5,816 |
 | 21 | Angel McCoughtry | 5,797 |
 | 22 | Skylar Diggins | 5,626 |
@@ -202,7 +202,7 @@ _Last updated: 2026-06-21 20:41 UTC_
 | 181 | Rachel Banham | 1,823 |
 | 182 | Danielle Adams | 1,820 |
 | 183 | Charde Houston | 1,797 |
-| 184 | **NaLyssa Smith** 🔴 +4 | 1,779 |
+| 184 | **NaLyssa Smith** 🔴 +6 | 1,781 |
 | 185 | Kamila Vodichkova | 1,767 |
 | 186 | Tully Bevilaqua | 1,763 |
 | 187 | Sandy Brondello | 1,759 |
@@ -265,7 +265,7 @@ _Last updated: 2026-06-21 20:41 UTC_
 | 39 | Lindsay Whalen | 1,805 |
 | 40 | Camille Smith | 1,802 |
 | 41 | Courtney Williams | 1,801 |
-| 42 | **Kiah Stokes** 🔴 | 1,790 |
+| 42 | **Kiah Stokes** 🔴 +1 | 1,791 |
 | 43 | Asjha Jones | 1,751 |
 | 44 | Stefanie Dolson | 1,688 |
 | 45 | Teaira McCowan | 1,682 |
@@ -335,7 +335,7 @@ _Last updated: 2026-06-21 20:41 UTC_
 | 109 | Andrea Stinson | 1,127 |
 | 109 | Tamika Raymond | 1,127 |
 | 111 | Adrienne Goodson | 1,126 |
-| 112 | **NaLyssa Smith** 🔴 +1 | 1,116 |
+| 112 | **NaLyssa Smith** 🔴 +2 | 1,117 |
 | 113 | Deanna Nolan | 1,112 |
 | 113 | Natasha Cloud | 1,112 |
 | 115 | Aliyah Boston | 1,110 |
@@ -345,7 +345,7 @@ _Last updated: 2026-06-21 20:41 UTC_
 | 119 | Svetlana Abrosimova | 1,078 |
 | 120 | Le'coe Willingham | 1,054 |
 | 121 | Isabelle Harrison | 1,049 |
-| 122 | **Jackie Young** 🔴 | 1,044 |
+| 122 | **Jackie Young** 🔴 +1 | 1,045 |
 | 123 | Nicole Ohlde | 1,040 |
 | 124 | Tamecka Dixon | 1,035 |
 | 125 | Kamila Vodichkova | 1,031 |
@@ -604,7 +604,7 @@ _Last updated: 2026-06-21 20:41 UTC_
 | 173 | Shameka Christon | 389 |
 | 173 | Tamicha Jackson | 389 |
 | 175 | Riquna Williams | 387 |
-| 176 | **Stephanie Talbot** 🔴 | 385 |
+| 176 | **Stephanie Talbot** 🔴 +1 | 386 |
 | 177 | Dana Evans | 379 |
 | 178 | Jessica Breland | 377 |
 | 179 | Shenise Johnson | 376 |
@@ -640,7 +640,7 @@ _Last updated: 2026-06-21 20:41 UTC_
 | 4 | Sylvia Fowles | 721 |
 | 5 | Candace Parker | 619 |
 | 6 | Lauren Jackson | 586 |
-| 7 | **A'ja Wilson** 🔴 | 556 |
+| 7 | **A'ja Wilson** 🔴 +1 | 557 |
 | 8 | Tammy Sutton-Brown | 555 |
 | 9 | Tangela Smith | 554 |
 | 10 | Ruth Riley | 505 |
