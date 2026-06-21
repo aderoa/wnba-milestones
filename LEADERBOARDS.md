@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-21 20:43 UTC_
+_Last updated: 2026-06-21 20:44 UTC_
 
 ## Contents
 
@@ -202,7 +202,7 @@ _Last updated: 2026-06-21 20:43 UTC_
 | 181 | Rachel Banham | 1,823 |
 | 182 | Danielle Adams | 1,820 |
 | 183 | Charde Houston | 1,797 |
-| 184 | **NaLyssa Smith** 🔴 +8 | 1,783 |
+| 184 | **NaLyssa Smith** 🔴 +10 | 1,785 |
 | 185 | Kamila Vodichkova | 1,767 |
 | 186 | Tully Bevilaqua | 1,763 |
 | 187 | Sandy Brondello | 1,759 |
@@ -238,7 +238,7 @@ _Last updated: 2026-06-21 20:43 UTC_
 | 12 | Alyssa Thomas | 2,817 |
 | 13 | Jonquel Jones | 2,663 |
 | 14 | Sancho Lyttle | 2,596 |
-| 15 | **A'ja Wilson** 🔴 +5 | 2,579 |
+| 15 | **A'ja Wilson** 🔴 +6 | 2,580 |
 | 16 | DeLisha Milton-Jones | 2,574 |
 | 17 | Breanna Stewart | 2,560 |
 | 18 | Brittney Griner | 2,556 |
@@ -335,7 +335,7 @@ _Last updated: 2026-06-21 20:43 UTC_
 | 109 | Andrea Stinson | 1,127 |
 | 109 | Tamika Raymond | 1,127 |
 | 111 | Adrienne Goodson | 1,126 |
-| 112 | **NaLyssa Smith** 🔴 +2 | 1,117 |
+| 112 | **NaLyssa Smith** 🔴 +3 | 1,118 |
 | 113 | Deanna Nolan | 1,112 |
 | 113 | Natasha Cloud | 1,112 |
 | 115 | Aliyah Boston | 1,110 |
@@ -1443,8 +1443,8 @@ _Last updated: 2026-06-21 20:43 UTC_
 | 192 | Isabelle Harrison | 300 |
 | 193 | Crystal Robinson | 299 |
 | 194 | Michele Timms | 297 |
+| 195 | **Kayla Thornton** 🔴 +1 | 295 |
 | 195 | Rachel Banham | 295 |
-| 196 | **Kayla Thornton** 🔴 | 294 |
 | 197 | Azurá Stevens | 292 |
 | 198 | Natisha Hiedeman | 289 |
 | 199 | Alexis Hornbuckle | 288 |
@@ -1555,8 +1555,8 @@ _Last updated: 2026-06-21 20:43 UTC_
 | 99 | Chamique Holdsclaw | 667 |
 | 100 | Breanna Stewart | 665 |
 | 101 | **Jewell Loyd** 🔴 +2 | 663 |
-| 102 | **Kayla Thornton** 🔴 +1 | 662 |
-| 102 | Tianna Hawkins | 662 |
+| 101 | **Kayla Thornton** 🔴 +2 | 663 |
+| 103 | Tianna Hawkins | 662 |
 | 104 | Tari Phillips | 648 |
 | 105 | Marie Ferdinand-Harris | 646 |
 | 106 | Charlotte Smith | 638 |
