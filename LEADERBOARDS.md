@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-22 02:04 UTC_
+_Last updated: 2026-06-22 02:05 UTC_
 
 ## Contents
 
@@ -23,7 +23,7 @@ _Last updated: 2026-06-22 02:04 UTC_
 | 2 | Tina Charles | 8,396 |
 | 3 | DeWanna Bonner | 7,910 |
 | 4 | Tina Thompson | 7,470 |
-| 5 | **Nneka Ogwumike** 🔴 +18 | 7,458 |
+| 5 | **Nneka Ogwumike** 🔴 +21 | 7,461 |
 | 6 | Tamika Catchings | 7,371 |
 | 7 | Candice Dupree | 6,861 |
 | 8 | Sue Bird | 6,802 |
@@ -451,7 +451,7 @@ _Last updated: 2026-06-22 02:04 UTC_
 | 20 | Briann January | 1,339 |
 | 21 | Dawn Staley | 1,337 |
 | 22 | Teresa Weatherspoon | 1,333 |
-| 23 | **Erica Wheeler** 🔴 +3 | 1,309 |
+| 23 | **Erica Wheeler** 🔴 +4 | 1,310 |
 | 24 | Kristi Toliver | 1,301 |
 | 25 | Katie Smith | 1,258 |
 | 26 | **Kelsey Plum** 🔴 +7 | 1,244 |
@@ -1133,8 +1133,8 @@ _Last updated: 2026-06-22 02:04 UTC_
 | 87 | Dawn Staley | 254 |
 | 88 | Bria Hartley | 253 |
 | 89 | Angel McCoughtry | 249 |
-| 90 | Erin Thorn | 243 |
-| 90 | **Nneka Ogwumike** 🔴 | 243 |
+| 90 | **Nneka Ogwumike** 🔴 +1 | 244 |
+| 91 | Erin Thorn | 243 |
 | 92 | Brittney Sykes | 242 |
 | 93 | Azurá Stevens | 241 |
 | 94 | Alex Bentley | 239 |
@@ -1517,7 +1517,7 @@ _Last updated: 2026-06-22 02:04 UTC_
 | 61 | Skylar Diggins | 812 |
 | 62 | Nykesha Sales | 796 |
 | 63 | Ebony Hoffman | 791 |
-| 64 | **Erica Wheeler** 🔴 +2 | 789 |
+| 64 | **Erica Wheeler** 🔴 +3 | 790 |
 | 65 | Sue Bird | 775 |
 | 66 | Sheri Sam | 766 |
 | 67 | Kia Vaughn | 755 |
@@ -1545,8 +1545,8 @@ _Last updated: 2026-06-22 02:04 UTC_
 | 88 | Sophia Young-Malcolm | 687 |
 | 90 | Maya Moore | 686 |
 | 91 | Jasmine Thomas | 685 |
+| 92 | **Kelsey Plum** 🔴 +4 | 684 |
 | 92 | Leilani Mitchell | 684 |
-| 93 | **Kelsey Plum** 🔴 +3 | 683 |
 | 94 | Crystal Robinson | 682 |
 | 95 | Jennifer Lacy | 680 |
 | 95 | Temeka Johnson | 680 |
