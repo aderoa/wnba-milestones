@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-22 01:45 UTC
+
+- **Dearica Hamby** passed **Penny Taylor** for **#55** all-time in fouls (career 833) — up from #58 entering today — _9:09 - 4th — NY @ LA_
+
 ## 2026-06-22 01:36 UTC
 
 - **Rebecca Allen** passed **Dawn Staley** for **#86** all-time in three-pointers (career 255) — up from #87 entering today — _58.2 - 3rd — NY @ LA_

@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-22T01:45:00+00:00",
+    "text": "Dearica Hamby passed Penny Taylor for #55 all-time in fouls (career 833) \u2014 up from #58 entering today \u2014 (9:09 - 4th \u2014 NY @ LA)",
+    "kind": "rank_pass",
+    "player": "Dearica Hamby",
+    "stat": "fouls",
+    "rank": 55,
+    "passed_players": [
+      "Penny Taylor"
+    ],
+    "new_total": 833
+  },
+  {
     "ts": "2026-06-22T01:36:00+00:00",
     "text": "Rebecca Allen passed Dawn Staley for #86 all-time in three-pointers (career 255) \u2014 up from #87 entering today \u2014 (58.2 - 3rd \u2014 NY @ LA)",
     "kind": "rank_pass",
@@ -2970,17 +2982,5 @@
       "Tianna Hawkins"
     ],
     "new_total": 663
-  },
-  {
-    "ts": "2026-06-06T20:09:00+00:00",
-    "text": "Gabby Williams passed Sugar Rodgers for #189 all-time in points (career 1,735) \u2014 up from #190 entering today \u2014 (9:06 - 3rd \u2014 GS @ LV)",
-    "kind": "rank_pass",
-    "player": "Gabby Williams",
-    "stat": "points",
-    "rank": 189,
-    "passed_players": [
-      "Sugar Rodgers"
-    ],
-    "new_total": 1735
   }
 ]
