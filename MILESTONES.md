@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-22 01:36 UTC
+
+- **Rebecca Allen** passed **Dawn Staley** for **#86** all-time in three-pointers (career 255) — up from #87 entering today — _58.2 - 3rd — NY @ LA_
+
 ## 2026-06-22 00:15 UTC
 
 - **Kayla McBride** passed **Candice Wiggins**, **Epiphanny Prince**, and **Jackie Young** for **#150** all-time in fouls (career 526) — up from #155 entering today — _5.9 - 4th — WSH @ MIN_

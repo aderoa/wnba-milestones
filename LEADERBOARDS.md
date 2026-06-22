@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-22 01:35 UTC_
+_Last updated: 2026-06-22 01:36 UTC_
 
 ## Contents
 
@@ -69,9 +69,9 @@ _Last updated: 2026-06-22 01:35 UTC_
 | 48 | Sophia Young-Malcolm | 4,300 |
 | 49 | Kahleah Copper | 4,283 |
 | 50 | Plenette Pierson | 4,258 |
+| 51 | **Dearica Hamby** 🔴 +10 | 4,253 |
 | 51 | Monique Currie | 4,253 |
-| 52 | Courtney Williams | 4,251 |
-| 52 | **Dearica Hamby** 🔴 +8 | 4,251 |
+| 53 | Courtney Williams | 4,251 |
 | 54 | **Jonquel Jones** 🔴 +15 | 4,237 |
 | 55 | Vickie Johnson | 4,230 |
 | 56 | Yolanda Griffith | 4,224 |
@@ -217,7 +217,7 @@ _Last updated: 2026-06-22 01:35 UTC_
 | 196 | Le'coe Willingham | 1,552 |
 | 197 | Shatori Walker-Kimbrough | 1,544 |
 | 198 | Monique Billings | 1,543 |
-| 199 | **Rebecca Allen** 🔴 | 1,526 |
+| 199 | **Rebecca Allen** 🔴 +3 | 1,529 |
 | 200 | Jennifer Lacy | 1,504 |
 
 ## Rebounds
@@ -451,7 +451,7 @@ _Last updated: 2026-06-22 01:35 UTC_
 | 20 | Briann January | 1,339 |
 | 21 | Dawn Staley | 1,337 |
 | 22 | Teresa Weatherspoon | 1,333 |
-| 23 | **Erica Wheeler** 🔴 | 1,306 |
+| 23 | **Erica Wheeler** 🔴 +1 | 1,307 |
 | 24 | Kristi Toliver | 1,301 |
 | 25 | Katie Smith | 1,258 |
 | 26 | **Kelsey Plum** 🔴 +5 | 1,242 |
@@ -567,8 +567,8 @@ _Last updated: 2026-06-22 01:35 UTC_
 | 136 | Janeth Arcain | 469 |
 | 137 | Elizabeth Williams | 467 |
 | 138 | Erin Phillips | 462 |
+| 139 | **Satou Sabally** 🔴 +5 | 461 |
 | 139 | Sylvia Fowles | 461 |
-| 140 | **Satou Sabally** 🔴 +4 | 460 |
 | 141 | Sydney Colson | 454 |
 | 141 | Tyasha Harris | 454 |
 | 143 | Yolanda Griffith | 451 |
@@ -1129,8 +1129,8 @@ _Last updated: 2026-06-22 01:35 UTC_
 | 83 | Courtney Williams | 270 |
 | 83 | Sheryl Swoopes | 270 |
 | 85 | Sophia Witherspoon | 260 |
-| 86 | Dawn Staley | 254 |
-| 86 | **Rebecca Allen** 🔴 | 254 |
+| 86 | **Rebecca Allen** 🔴 +1 | 255 |
+| 87 | Dawn Staley | 254 |
 | 88 | Bria Hartley | 253 |
 | 89 | Angel McCoughtry | 249 |
 | 90 | Erin Thorn | 243 |
@@ -1517,7 +1517,7 @@ _Last updated: 2026-06-22 01:35 UTC_
 | 61 | Skylar Diggins | 812 |
 | 62 | Nykesha Sales | 796 |
 | 63 | Ebony Hoffman | 791 |
-| 64 | **Erica Wheeler** 🔴 +1 | 788 |
+| 64 | **Erica Wheeler** 🔴 +2 | 789 |
 | 65 | Sue Bird | 775 |
 | 66 | Sheri Sam | 766 |
 | 67 | Kia Vaughn | 755 |
