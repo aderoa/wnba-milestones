@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-22 00:39 UTC_
+_Last updated: 2026-06-22 00:40 UTC_
 
 ## Contents
 
@@ -23,7 +23,7 @@ _Last updated: 2026-06-22 00:39 UTC_
 | 2 | Tina Charles | 8,396 |
 | 3 | DeWanna Bonner | 7,910 |
 | 4 | Tina Thompson | 7,470 |
-| 5 | **Nneka Ogwumike** 🔴 +2 | 7,442 |
+| 5 | **Nneka Ogwumike** 🔴 +4 | 7,444 |
 | 6 | Tamika Catchings | 7,371 |
 | 7 | Candice Dupree | 6,861 |
 | 8 | Sue Bird | 6,802 |
@@ -107,7 +107,7 @@ _Last updated: 2026-06-22 00:39 UTC_
 | 86 | Margo Dydek | 3,214 |
 | 87 | Stefanie Dolson | 3,195 |
 | 88 | Danielle Robinson | 3,160 |
-| 89 | **Erica Wheeler** 🔴 +7 | 3,151 |
+| 89 | **Erica Wheeler** 🔴 +8 | 3,152 |
 | 90 | Wendy Palmer | 3,135 |
 | 91 | Shavonte Zellous | 3,103 |
 | 92 | Briann January | 3,082 |
@@ -843,7 +843,7 @@ _Last updated: 2026-06-22 00:39 UTC_
 | 2 | Ticha Penicheiro | 761 |
 | 3 | Sue Bird | 724 |
 | 4 | Alana Beard | 710 |
-| 5 | **Nneka Ogwumike** 🔴 +1 | 679 |
+| 5 | **Nneka Ogwumike** 🔴 +2 | 680 |
 | 6 | Sheryl Swoopes | 657 |
 | 7 | DeWanna Bonner | 643 |
 | 8 | Jia Perkins | 634 |
@@ -1350,8 +1350,8 @@ _Last updated: 2026-06-22 00:39 UTC_
 | 99 | Leilani Mitchell | 525 |
 | 99 | Nicole Powell | 525 |
 | 101 | Arike Ogunbowale | 520 |
-| 102 | Marie Ferdinand-Harris | 518 |
-| 102 | **Sabrina Ionescu** 🔴 | 518 |
+| 102 | **Sabrina Ionescu** 🔴 +1 | 519 |
+| 103 | Marie Ferdinand-Harris | 518 |
 | 104 | Shavonte Zellous | 517 |
 | 104 | Wendy Palmer | 517 |
 | 106 | Tully Bevilaqua | 514 |
