@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-22 00:14 UTC_
+_Last updated: 2026-06-22 00:15 UTC_
 
 ## Contents
 
@@ -1172,7 +1172,7 @@ _Last updated: 2026-06-22 00:14 UTC_
 | 126 | Theresa Plaisance | 172 |
 | 127 | Caitlin Clark | 171 |
 | 128 | Amanda Lassiter | 170 |
-| 129 | Marine Johannès | 168 |
+| 129 | **Marine Johannès** 🔴 | 168 |
 | 130 | Shavonte Zellous | 167 |
 | 130 | Tianna Hawkins | 167 |
 | 132 | Charlotte Smith | 164 |
@@ -1604,9 +1604,9 @@ _Last updated: 2026-06-22 00:14 UTC_
 | 148 | Amanda Zahui B | 530 |
 | 149 | Jackie Young | 528 |
 | 150 | Damiris Dantas | 527 |
-| 151 | Candice Wiggins | 525 |
-| 151 | Epiphanny Prince | 525 |
-| 151 | **Kayla McBride** 🔴 +3 | 525 |
+| 151 | **Kayla McBride** 🔴 +4 | 526 |
+| 152 | Candice Wiggins | 525 |
+| 152 | Epiphanny Prince | 525 |
 | 154 | Armintie Herrington | 523 |
 | 154 | Sophie Cunningham | 523 |
 | 156 | Sheryl Swoopes | 519 |

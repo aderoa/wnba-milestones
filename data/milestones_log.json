@@ -1,5 +1,19 @@
 [
   {
+    "ts": "2026-06-22T00:15:00+00:00",
+    "text": "Kayla McBride passed Candice Wiggins, Epiphanny Prince, and Jackie Young for #150 all-time in fouls (career 526) \u2014 up from #155 entering today \u2014 (5.9 - 4th \u2014 WSH @ MIN)",
+    "kind": "rank_pass",
+    "player": "Kayla McBride",
+    "stat": "fouls",
+    "rank": 150,
+    "passed_players": [
+      "Candice Wiggins",
+      "Epiphanny Prince",
+      "Jackie Young"
+    ],
+    "new_total": 526
+  },
+  {
     "ts": "2026-06-21T02:09:00+00:00",
     "text": "Skylar Diggins passed Rebekkah Brunson for #29 all-time in steals (career 457) \u2014 up from #31 entering today \u2014 (35.7 - 4th \u2014 CHI @ DAL)",
     "kind": "rank_pass",
@@ -2968,18 +2982,5 @@
       "Chelsea Gray"
     ],
     "new_total": 446
-  },
-  {
-    "ts": "2026-06-06T19:49:00+00:00",
-    "text": "Stephanie Talbot passed Bridget Pettis and Jennifer Gillom for #142 all-time in three-pointers (career 154) \u2014 up from #144 entering today \u2014 (1:23 - 2nd \u2014 GS @ LV)",
-    "kind": "rank_pass",
-    "player": "Stephanie Talbot",
-    "stat": "three-pointers",
-    "rank": 142,
-    "passed_players": [
-      "Bridget Pettis",
-      "Jennifer Gillom"
-    ],
-    "new_total": 154
   }
 ]
