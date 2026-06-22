@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-22 23:36 UTC_
+_Last updated: 2026-06-22 23:37 UTC_
 
 ## Contents
 
@@ -65,7 +65,7 @@ _Last updated: 2026-06-22 23:36 UTC_
 | 43 | Jia Perkins | 4,433 |
 | 45 | Kelsey Plum | 4,395 |
 | 46 | Courtney Vandersloot | 4,352 |
-| 47 | **Allisha Gray** 🔴 +2 | 4,341 |
+| 47 | **Allisha Gray** 🔴 +5 | 4,344 |
 | 48 | Sophia Young-Malcolm | 4,300 |
 | 49 | Kahleah Copper | 4,283 |
 | 50 | Plenette Pierson | 4,258 |
@@ -1482,7 +1482,7 @@ _Last updated: 2026-06-22 23:36 UTC_
 | 26 | Rebekkah Brunson | 996 |
 | 27 | Yolanda Griffith | 991 |
 | 28 | Lauren Jackson | 982 |
-| 29 | **Brittney Griner** 🔴 | 980 |
+| 29 | **Brittney Griner** 🔴 +1 | 981 |
 | 30 | Nakia Sanford | 979 |
 | 31 | Asjha Jones | 971 |
 | 32 | Alyssa Thomas | 954 |
@@ -1512,9 +1512,9 @@ _Last updated: 2026-06-22 23:36 UTC_
 | 56 | Dominique Canty | 831 |
 | 56 | Wendy Palmer | 831 |
 | 58 | Dearica Hamby | 829 |
-| 59 | Shannon Johnson | 813 |
-| 59 | **Skylar Diggins** 🔴 +1 | 813 |
-| 59 | Tully Bevilaqua | 813 |
+| 59 | **Skylar Diggins** 🔴 +2 | 814 |
+| 60 | Shannon Johnson | 813 |
+| 60 | Tully Bevilaqua | 813 |
 | 62 | Nykesha Sales | 796 |
 | 63 | Ebony Hoffman | 791 |
 | 64 | Erica Wheeler | 787 |
