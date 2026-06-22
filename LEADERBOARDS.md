@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-22 23:47 UTC_
+_Last updated: 2026-06-22 23:48 UTC_
 
 ## Contents
 
@@ -456,8 +456,8 @@ _Last updated: 2026-06-22 23:47 UTC_
 | 25 | Katie Smith | 1,258 |
 | 26 | Kelsey Plum | 1,237 |
 | 27 | Odyssey Sims | 1,228 |
-| 28 | **Jordin Canada** 🔴 +1 | 1,202 |
-| 28 | Vickie Johnson | 1,202 |
+| 28 | **Jordin Canada** 🔴 +2 | 1,203 |
+| 29 | Vickie Johnson | 1,202 |
 | 30 | Leilani Mitchell | 1,197 |
 | 31 | DeWanna Bonner | 1,192 |
 | 32 | Jewell Loyd | 1,144 |
@@ -519,7 +519,7 @@ _Last updated: 2026-06-22 23:47 UTC_
 | 88 | Lindsay Allen | 657 |
 | 89 | Betty Lennox | 651 |
 | 89 | Plenette Pierson | 651 |
-| 91 | **Brittney Griner** 🔴 | 648 |
+| 91 | **Brittney Griner** 🔴 +1 | 649 |
 | 92 | Alex Bentley | 645 |
 | 93 | A'ja Wilson | 637 |
 | 93 | Asjha Jones | 637 |
@@ -553,10 +553,10 @@ _Last updated: 2026-06-22 23:47 UTC_
 | 122 | Myisha Hines-Allen | 520 |
 | 123 | Caitlin Clark | 517 |
 | 124 | Iziane Castro Marques | 509 |
-| 124 | **Rachel Banham** 🔴 +1 | 509 |
-| 126 | Brittany Boyd-Jones | 508 |
-| 126 | Chasity Melvin | 508 |
-| 126 | **Rhyne Howard** 🔴 | 508 |
+| 125 | Brittany Boyd-Jones | 508 |
+| 125 | Chasity Melvin | 508 |
+| 125 | **Rachel Banham** 🔴 | 508 |
+| 125 | **Rhyne Howard** 🔴 | 508 |
 | 129 | Anna DeForge | 503 |
 | 129 | Coco Miller | 503 |
 | 131 | Crystal Robinson | 488 |
@@ -1222,9 +1222,9 @@ _Last updated: 2026-06-22 23:47 UTC_
 | 176 | **Jordin Canada** 🔴 | 120 |
 | 177 | Lexie Hull | 118 |
 | 177 | Tonya Edwards | 118 |
-| 179 | Edwige Lawson-Wade | 116 |
-| 179 | **Kennedy Burke** 🔴 | 116 |
-| 179 | Marie Ferdinand-Harris | 116 |
+| 179 | **Kennedy Burke** 🔴 +1 | 117 |
+| 180 | Edwige Lawson-Wade | 116 |
+| 180 | Marie Ferdinand-Harris | 116 |
 | 182 | Ebony Hoffman | 115 |
 | 182 | Shey Peddy | 115 |
 | 182 | Stephanie White | 115 |
