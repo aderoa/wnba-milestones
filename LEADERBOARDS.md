@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-22 00:53 UTC_
+_Last updated: 2026-06-22 00:54 UTC_
 
 ## Contents
 
@@ -72,8 +72,8 @@ _Last updated: 2026-06-22 00:53 UTC_
 | 51 | Monique Currie | 4,253 |
 | 52 | Courtney Williams | 4,251 |
 | 52 | **Dearica Hamby** 🔴 +8 | 4,251 |
-| 54 | Vickie Johnson | 4,230 |
-| 55 | **Jonquel Jones** 🔴 +7 | 4,229 |
+| 54 | **Jonquel Jones** 🔴 +9 | 4,231 |
+| 55 | Vickie Johnson | 4,230 |
 | 56 | Yolanda Griffith | 4,224 |
 | 57 | Rebekkah Brunson | 4,133 |
 | 58 | Asjha Jones | 3,986 |
@@ -568,7 +568,7 @@ _Last updated: 2026-06-22 00:53 UTC_
 | 137 | Elizabeth Williams | 467 |
 | 138 | Erin Phillips | 462 |
 | 139 | Sylvia Fowles | 461 |
-| 140 | **Satou Sabally** 🔴 +1 | 457 |
+| 140 | **Satou Sabally** 🔴 +2 | 458 |
 | 141 | Sydney Colson | 454 |
 | 141 | Tyasha Harris | 454 |
 | 143 | Yolanda Griffith | 451 |
