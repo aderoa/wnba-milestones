@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-22 23:33 UTC_
+_Last updated: 2026-06-22 23:34 UTC_
 
 ## Contents
 
@@ -144,7 +144,7 @@ _Last updated: 2026-06-22 23:33 UTC_
 | 123 | Nikki McCray | 2,521 |
 | 124 | Crystal Robinson | 2,496 |
 | 125 | Tiffany Mitchell | 2,480 |
-| 126 | **Rhyne Howard** 🔴 | 2,472 |
+| 126 | **Rhyne Howard** 🔴 +3 | 2,475 |
 | 127 | Ruth Riley | 2,434 |
 | 128 | Svetlana Abrosimova | 2,414 |
 | 129 | Anna DeForge | 2,413 |
@@ -157,9 +157,9 @@ _Last updated: 2026-06-22 23:33 UTC_
 | 136 | **Azurá Stevens** 🔴 +2 | 2,261 |
 | 137 | Allison Feaster | 2,258 |
 | 138 | Shekinna Stricklen | 2,245 |
-| 139 | **Jordin Canada** 🔴 | 2,237 |
-| 139 | Kara Braxton | 2,237 |
-| 139 | Matee Ajavon | 2,237 |
+| 139 | **Jordin Canada** 🔴 +2 | 2,239 |
+| 140 | Kara Braxton | 2,237 |
+| 140 | Matee Ajavon | 2,237 |
 | 142 | Kia Nurse | 2,231 |
 | 143 | Dawn Staley | 2,228 |
 | 144 | Teaira McCowan | 2,221 |
@@ -199,7 +199,7 @@ _Last updated: 2026-06-22 23:33 UTC_
 | 178 | Damiris Dantas | 1,830 |
 | 179 | Tianna Hawkins | 1,825 |
 | 180 | Noelle Quinn | 1,824 |
-| 181 | Rachel Banham | 1,823 |
+| 181 | **Rachel Banham** 🔴 | 1,823 |
 | 182 | Danielle Adams | 1,820 |
 | 183 | Charde Houston | 1,797 |
 | 184 | NaLyssa Smith | 1,775 |
@@ -456,8 +456,8 @@ _Last updated: 2026-06-22 23:33 UTC_
 | 25 | Katie Smith | 1,258 |
 | 26 | Kelsey Plum | 1,237 |
 | 27 | Odyssey Sims | 1,228 |
+| 28 | **Jordin Canada** 🔴 +1 | 1,202 |
 | 28 | Vickie Johnson | 1,202 |
-| 29 | **Jordin Canada** 🔴 | 1,201 |
 | 30 | Leilani Mitchell | 1,197 |
 | 31 | DeWanna Bonner | 1,192 |
 | 32 | Jewell Loyd | 1,144 |
@@ -555,7 +555,7 @@ _Last updated: 2026-06-22 23:33 UTC_
 | 124 | Iziane Castro Marques | 509 |
 | 125 | Brittany Boyd-Jones | 508 |
 | 125 | Chasity Melvin | 508 |
-| 125 | Rachel Banham | 508 |
+| 125 | **Rachel Banham** 🔴 | 508 |
 | 125 | **Rhyne Howard** 🔴 | 508 |
 | 129 | Anna DeForge | 503 |
 | 129 | Coco Miller | 503 |
@@ -893,8 +893,8 @@ _Last updated: 2026-06-22 23:33 UTC_
 | 52 | Swin Cash | 384 |
 | 52 | Tina Charles | 384 |
 | 54 | Tiffany Hayes | 382 |
-| 55 | Ariel Atkins | 380 |
-| 55 | **Jordin Canada** 🔴 | 380 |
+| 55 | **Jordin Canada** 🔴 +1 | 381 |
+| 56 | Ariel Atkins | 380 |
 | 57 | Monique Currie | 378 |
 | 58 | Chamique Holdsclaw | 376 |
 | 59 | Mwadi Mabika | 370 |
@@ -1003,8 +1003,8 @@ _Last updated: 2026-06-22 23:33 UTC_
 | 162 | Kia Vaughn | 208 |
 | 162 | Sophia Witherspoon | 208 |
 | 164 | Betnijah Laney-Hamilton | 207 |
-| 165 | **Azurá Stevens** 🔴 | 205 |
-| 165 | Shameka Christon | 205 |
+| 165 | **Azurá Stevens** 🔴 +1 | 206 |
+| 166 | Shameka Christon | 205 |
 | 167 | Jessica Breland | 204 |
 | 167 | Murriel Page | 204 |
 | 167 | Shatori Walker-Kimbrough | 204 |
@@ -1083,11 +1083,11 @@ _Last updated: 2026-06-22 23:33 UTC_
 | 37 | Penny Taylor | 407 |
 | 37 | Riquna Williams | 407 |
 | 39 | Jia Perkins | 396 |
-| 40 | Alysha Clark | 394 |
-| 40 | **Rhyne Howard** 🔴 | 394 |
+| 40 | **Rhyne Howard** 🔴 +1 | 395 |
+| 41 | Alysha Clark | 394 |
 | 42 | Roneeka Hodges | 389 |
 | 43 | Courtney Vandersloot | 385 |
-| 44 | Rachel Banham | 384 |
+| 44 | **Rachel Banham** 🔴 | 384 |
 | 45 | Briann January | 381 |
 | 46 | Jasmine Thomas | 376 |
 | 47 | Allison Feaster | 372 |
@@ -1443,7 +1443,7 @@ _Last updated: 2026-06-22 23:33 UTC_
 | 192 | **Isabelle Harrison** 🔴 | 300 |
 | 193 | Crystal Robinson | 299 |
 | 194 | Michele Timms | 297 |
-| 195 | Rachel Banham | 295 |
+| 195 | **Rachel Banham** 🔴 | 295 |
 | 196 | Kayla Thornton | 294 |
 | 197 | **Azurá Stevens** 🔴 | 292 |
 | 198 | Natisha Hiedeman | 289 |
@@ -1632,7 +1632,7 @@ _Last updated: 2026-06-22 23:33 UTC_
 | 176 | Karima Christmas-Kelly | 494 |
 | 177 | Ann Wauters | 493 |
 | 177 | Riquna Williams | 493 |
-| 179 | Rachel Banham | 490 |
+| 179 | **Rachel Banham** 🔴 | 490 |
 | 180 | Charde Houston | 487 |
 | 181 | Lindsey Harding | 486 |
 | 182 | Cathrine Kraayeveld | 484 |
