@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-22 00:20 UTC_
+_Last updated: 2026-06-22 00:21 UTC_
 
 ## Contents
 
@@ -475,7 +475,7 @@ _Last updated: 2026-06-22 00:20 UTC_
 | 44 | Nikki Teasley | 982 |
 | 45 | Kayla McBride | 972 |
 | 46 | Tamecka Dixon | 960 |
-| 47 | **Breanna Stewart** 🔴 +1 | 954 |
+| 47 | **Breanna Stewart** 🔴 +2 | 955 |
 | 48 | Kara Lawson | 946 |
 | 49 | Tiffany Hayes | 937 |
 | 50 | Deanna Nolan | 930 |
@@ -1511,7 +1511,7 @@ _Last updated: 2026-06-22 00:20 UTC_
 | 55 | Penny Taylor | 832 |
 | 56 | Dominique Canty | 831 |
 | 56 | Wendy Palmer | 831 |
-| 58 | **Dearica Hamby** 🔴 | 829 |
+| 58 | **Dearica Hamby** 🔴 +1 | 830 |
 | 59 | Shannon Johnson | 813 |
 | 59 | Tully Bevilaqua | 813 |
 | 61 | Skylar Diggins | 812 |
@@ -1553,8 +1553,8 @@ _Last updated: 2026-06-22 00:20 UTC_
 | 97 | Kelly Miller | 676 |
 | 98 | Cheyenne Parker-Tyus | 674 |
 | 99 | Chamique Holdsclaw | 667 |
-| 100 | **Breanna Stewart** 🔴 | 665 |
-| 100 | Kayla Thornton | 665 |
+| 100 | **Breanna Stewart** 🔴 +1 | 666 |
+| 101 | Kayla Thornton | 665 |
 | 102 | Jewell Loyd | 664 |
 | 103 | Tianna Hawkins | 662 |
 | 104 | Tari Phillips | 648 |
