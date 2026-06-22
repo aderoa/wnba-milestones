@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-22 23:37 UTC_
+_Last updated: 2026-06-22 23:38 UTC_
 
 ## Contents
 
@@ -382,13 +382,13 @@ _Last updated: 2026-06-22 23:37 UTC_
 | 156 | Alanna Smith | 864 |
 | 157 | Krystal Thomas | 862 |
 | 158 | Nia Coffey | 854 |
-| 159 | **Marina Mabrey** 🔴 | 849 |
+| 159 | **Marina Mabrey** 🔴 +1 | 850 |
 | 160 | Leilani Mitchell | 845 |
 | 161 | Essence Carson | 833 |
 | 162 | Kristi Toliver | 829 |
 | 163 | Marie Ferdinand-Harris | 828 |
-| 164 | Marlies Askamp | 822 |
-| 164 | **Naz Hillmon** 🔴 | 822 |
+| 164 | **Naz Hillmon** 🔴 +1 | 823 |
+| 165 | Marlies Askamp | 822 |
 | 166 | Amanda Zahui B | 819 |
 | 166 | Barbara Farris | 819 |
 | 168 | Carolyn Swords | 814 |
@@ -1443,7 +1443,7 @@ _Last updated: 2026-06-22 23:37 UTC_
 | 192 | **Isabelle Harrison** 🔴 | 300 |
 | 193 | Crystal Robinson | 299 |
 | 194 | Michele Timms | 297 |
-| 195 | **Rachel Banham** 🔴 | 295 |
+| 195 | **Rachel Banham** 🔴 +1 | 296 |
 | 196 | Kayla Thornton | 294 |
 | 197 | **Azurá Stevens** 🔴 | 292 |
 | 198 | Natisha Hiedeman | 289 |
