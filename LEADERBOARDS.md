@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-22 23:40 UTC_
+_Last updated: 2026-06-22 23:41 UTC_
 
 ## Contents
 
@@ -197,9 +197,9 @@ _Last updated: 2026-06-22 23:40 UTC_
 | 176 | Natisha Hiedeman | 1,858 |
 | 177 | **Isabelle Harrison** 🔴 | 1,832 |
 | 178 | Damiris Dantas | 1,830 |
-| 179 | Tianna Hawkins | 1,825 |
-| 180 | Noelle Quinn | 1,824 |
-| 181 | **Rachel Banham** 🔴 | 1,823 |
+| 179 | **Rachel Banham** 🔴 +3 | 1,826 |
+| 180 | Tianna Hawkins | 1,825 |
+| 181 | Noelle Quinn | 1,824 |
 | 182 | Danielle Adams | 1,820 |
 | 183 | Charde Houston | 1,797 |
 | 184 | NaLyssa Smith | 1,775 |
@@ -564,8 +564,8 @@ _Last updated: 2026-06-22 23:40 UTC_
 | 133 | Rebekkah Brunson | 486 |
 | 134 | Kahleah Copper | 484 |
 | 135 | Ukari Figgs | 470 |
+| 136 | **Elizabeth Williams** 🔴 +2 | 469 |
 | 136 | Janeth Arcain | 469 |
-| 137 | **Elizabeth Williams** 🔴 +1 | 468 |
 | 138 | Erin Phillips | 462 |
 | 139 | Sylvia Fowles | 461 |
 | 140 | Satou Sabally | 456 |
@@ -938,7 +938,7 @@ _Last updated: 2026-06-22 23:40 UTC_
 | 97 | Kedra Holland-Corn | 301 |
 | 98 | Lindsey Harding | 295 |
 | 99 | Janel McCarville | 294 |
-| 100 | **Elizabeth Williams** 🔴 | 292 |
+| 100 | **Elizabeth Williams** 🔴 +1 | 293 |
 | 101 | Kelly Miller | 290 |
 | 102 | Glory Johnson | 289 |
 | 103 | Essence Carson | 285 |
@@ -1087,7 +1087,7 @@ _Last updated: 2026-06-22 23:40 UTC_
 | 41 | Alysha Clark | 394 |
 | 42 | Roneeka Hodges | 389 |
 | 43 | Courtney Vandersloot | 385 |
-| 44 | **Rachel Banham** 🔴 | 384 |
+| 43 | **Rachel Banham** 🔴 +1 | 385 |
 | 45 | Briann January | 381 |
 | 46 | Jasmine Thomas | 376 |
 | 47 | Allison Feaster | 372 |
