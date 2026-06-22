@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-22 00:11 UTC_
+_Last updated: 2026-06-22 00:12 UTC_
 
 ## Contents
 
@@ -228,7 +228,7 @@ _Last updated: 2026-06-22 00:11 UTC_
 | 2 | Sylvia Fowles | 4,005 |
 | 3 | Candace Parker | 3,467 |
 | 4 | Rebekkah Brunson | 3,345 |
-| 5 | **Nneka Ogwumike** 🔴 | 3,337 |
+| 5 | **Nneka Ogwumike** 🔴 +1 | 3,338 |
 | 6 | Tamika Catchings | 3,313 |
 | 7 | Lisa Leslie | 3,303 |
 | 8 | DeWanna Bonner | 3,260 |
@@ -236,7 +236,7 @@ _Last updated: 2026-06-22 00:11 UTC_
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | Alyssa Thomas | 2,817 |
-| 13 | **Jonquel Jones** 🔴 | 2,663 |
+| 13 | **Jonquel Jones** 🔴 +2 | 2,665 |
 | 14 | Sancho Lyttle | 2,596 |
 | 15 | A'ja Wilson | 2,583 |
 | 16 | DeLisha Milton-Jones | 2,574 |
@@ -369,7 +369,7 @@ _Last updated: 2026-06-22 00:11 UTC_
 | 143 | Janell Burse | 944 |
 | 144 | Jessica Shepard | 927 |
 | 144 | Merlakia Jones | 927 |
-| 146 | **Satou Sabally** 🔴 | 926 |
+| 144 | **Satou Sabally** 🔴 +1 | 927 |
 | 147 | Angel Reese | 923 |
 | 148 | Nicky Anosike | 922 |
 | 149 | Janeth Arcain | 916 |
@@ -885,7 +885,7 @@ _Last updated: 2026-06-22 00:11 UTC_
 | 44 | Katie Smith | 408 |
 | 45 | Cappie Pondexter | 405 |
 | 46 | Nicole Powell | 401 |
-| 47 | **Dearica Hamby** 🔴 | 398 |
+| 47 | **Dearica Hamby** 🔴 +1 | 399 |
 | 48 | Jasmine Thomas | 394 |
 | 49 | Danielle Robinson | 389 |
 | 50 | Deanna Nolan | 388 |
@@ -1423,8 +1423,8 @@ _Last updated: 2026-06-22 00:11 UTC_
 | 172 | Scholanda Dorrell | 335 |
 | 173 | Aerial Powers | 333 |
 | 173 | Diamond DeShields | 333 |
-| 175 | Charde Houston | 331 |
-| 175 | **Satou Sabally** 🔴 +1 | 331 |
+| 175 | **Satou Sabally** 🔴 +2 | 332 |
+| 176 | Charde Houston | 331 |
 | 177 | Erlana Larkins | 326 |
 | 177 | Rita Williams | 326 |
 | 179 | Le'coe Willingham | 325 |
@@ -1471,7 +1471,7 @@ _Last updated: 2026-06-22 00:11 UTC_
 | 15 | Swin Cash | 1,146 |
 | 16 | Taj McWilliams-Franklin | 1,145 |
 | 17 | Monique Currie | 1,137 |
-| 18 | **Natasha Howard** 🔴 +3 | 1,127 |
+| 18 | **Natasha Howard** 🔴 +4 | 1,128 |
 | 19 | Stefanie Dolson | 1,117 |
 | 20 | Tanisha Wright | 1,109 |
 | 21 | Michelle Snow | 1,108 |
@@ -1547,9 +1547,9 @@ _Last updated: 2026-06-22 00:11 UTC_
 | 91 | Jasmine Thomas | 685 |
 | 92 | Leilani Mitchell | 684 |
 | 93 | Crystal Robinson | 682 |
-| 94 | Jennifer Lacy | 680 |
-| 94 | **Kelsey Plum** 🔴 | 680 |
-| 94 | Temeka Johnson | 680 |
+| 94 | **Kelsey Plum** 🔴 +1 | 681 |
+| 95 | Jennifer Lacy | 680 |
+| 95 | Temeka Johnson | 680 |
 | 97 | Kelly Miller | 676 |
 | 98 | Cheyenne Parker-Tyus | 674 |
 | 99 | Chamique Holdsclaw | 667 |
