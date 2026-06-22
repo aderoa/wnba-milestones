@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-22 00:09 UTC_
+_Last updated: 2026-06-22 00:10 UTC_
 
 ## Contents
 
@@ -107,7 +107,7 @@ _Last updated: 2026-06-22 00:09 UTC_
 | 86 | Margo Dydek | 3,214 |
 | 87 | Stefanie Dolson | 3,195 |
 | 88 | Danielle Robinson | 3,160 |
-| 89 | **Erica Wheeler** 🔴 | 3,144 |
+| 89 | **Erica Wheeler** 🔴 +2 | 3,146 |
 | 90 | Wendy Palmer | 3,135 |
 | 91 | Shavonte Zellous | 3,103 |
 | 92 | Briann January | 3,082 |
@@ -166,7 +166,7 @@ _Last updated: 2026-06-22 00:09 UTC_
 | 145 | Janel McCarville | 2,215 |
 | 146 | Sami Whitcomb | 2,211 |
 | 147 | Sophia Witherspoon | 2,210 |
-| 148 | **Satou Sabally** 🔴 | 2,204 |
+| 148 | **Satou Sabally** 🔴 +3 | 2,207 |
 | 149 | Ruthie Bolton | 2,175 |
 | 150 | Ann Wauters | 2,170 |
 | 151 | Layshia Clarendon | 2,168 |
@@ -465,7 +465,7 @@ _Last updated: 2026-06-22 00:09 UTC_
 | 34 | Swin Cash | 1,131 |
 | 35 | Jackie Young | 1,092 |
 | 36 | Lindsey Harding | 1,090 |
-| 37 | **Sabrina Ionescu** 🔴 | 1,074 |
+| 37 | **Sabrina Ionescu** 🔴 +1 | 1,075 |
 | 38 | Katie Douglas | 1,069 |
 | 39 | Alana Beard | 1,061 |
 | 40 | Penny Taylor | 1,049 |
@@ -743,8 +743,8 @@ _Last updated: 2026-06-22 00:09 UTC_
 | 107 | Andrea Stinson | 117 |
 | 107 | Crystal Langhorne | 117 |
 | 107 | Natasha Mack | 117 |
+| 110 | **Ariel Atkins** 🔴 +1 | 114 |
 | 110 | Monique Currie | 114 |
-| 111 | **Ariel Atkins** 🔴 | 113 |
 | 112 | Amanda Lassiter | 111 |
 | 112 | Kamila Vodichkova | 111 |
 | 112 | Kamilla Cardoso | 111 |
@@ -1145,9 +1145,9 @@ _Last updated: 2026-06-22 00:09 UTC_
 | 99 | Stacey Dales | 232 |
 | 100 | Elena Baranova | 224 |
 | 101 | Essence Carson | 223 |
-| 102 | Kelly Mazzante | 218 |
-| 102 | **Satou Sabally** 🔴 | 218 |
-| 102 | Sheri Sam | 218 |
+| 102 | **Satou Sabally** 🔴 +1 | 219 |
+| 103 | Kelly Mazzante | 218 |
+| 103 | Sheri Sam | 218 |
 | 105 | Damiris Dantas | 211 |
 | 105 | Erin Phillips | 211 |
 | 107 | Andrea Stinson | 207 |
