@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-22 23:44 UTC_
+_Last updated: 2026-06-22 23:45 UTC_
 
 ## Contents
 
@@ -111,14 +111,14 @@ _Last updated: 2026-06-22 23:44 UTC_
 | 90 | Wendy Palmer | 3,135 |
 | 91 | Shavonte Zellous | 3,103 |
 | 92 | Briann January | 3,082 |
-| 93 | **Marina Mabrey** 🔴 +2 | 3,054 |
+| 93 | **Marina Mabrey** 🔴 +3 | 3,055 |
 | 94 | Erika de Souza | 3,046 |
 | 95 | Sabrina Ionescu | 3,041 |
 | 96 | Shameka Christon | 3,039 |
 | 97 | Marie Ferdinand-Harris | 3,001 |
 | 98 | Emma Meesseman | 2,966 |
 | 99 | **Natasha Cloud** 🔴 +2 | 2,954 |
-| 100 | **Elizabeth Williams** 🔴 +1 | 2,897 |
+| 100 | **Elizabeth Williams** 🔴 +2 | 2,898 |
 | 101 | Natalie Williams | 2,894 |
 | 102 | Jennifer Gillom | 2,888 |
 | 103 | Iziane Castro Marques | 2,862 |
