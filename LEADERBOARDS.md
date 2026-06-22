@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-22 02:10 UTC_
+_Last updated: 2026-06-22 02:11 UTC_
 
 ## Contents
 
@@ -1552,7 +1552,7 @@ _Last updated: 2026-06-22 02:10 UTC_
 | 95 | Temeka Johnson | 680 |
 | 97 | Kelly Miller | 676 |
 | 98 | Cheyenne Parker-Tyus | 674 |
-| 99 | **Breanna Stewart** 🔴 +3 | 668 |
+| 99 | **Breanna Stewart** 🔴 +5 | 670 |
 | 100 | Chamique Holdsclaw | 667 |
 | 101 | Kayla Thornton | 665 |
 | 102 | Jewell Loyd | 664 |
