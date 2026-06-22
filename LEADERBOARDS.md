@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-22 01:56 UTC_
+_Last updated: 2026-06-22 01:57 UTC_
 
 ## Contents
 
@@ -23,7 +23,7 @@ _Last updated: 2026-06-22 01:56 UTC_
 | 2 | Tina Charles | 8,396 |
 | 3 | DeWanna Bonner | 7,910 |
 | 4 | Tina Thompson | 7,470 |
-| 5 | **Nneka Ogwumike** 🔴 +12 | 7,452 |
+| 5 | **Nneka Ogwumike** 🔴 +14 | 7,454 |
 | 6 | Tamika Catchings | 7,371 |
 | 7 | Candice Dupree | 6,861 |
 | 8 | Sue Bird | 6,802 |
@@ -163,7 +163,7 @@ _Last updated: 2026-06-22 01:56 UTC_
 | 142 | Kia Nurse | 2,231 |
 | 143 | Dawn Staley | 2,228 |
 | 144 | Teaira McCowan | 2,223 |
-| 145 | **Satou Sabally** 🔴 +13 | 2,217 |
+| 145 | **Satou Sabally** 🔴 +14 | 2,218 |
 | 146 | Janel McCarville | 2,215 |
 | 147 | Sami Whitcomb | 2,211 |
 | 148 | Sophia Witherspoon | 2,210 |
@@ -240,7 +240,7 @@ _Last updated: 2026-06-22 01:56 UTC_
 | 14 | Sancho Lyttle | 2,596 |
 | 15 | A'ja Wilson | 2,583 |
 | 16 | DeLisha Milton-Jones | 2,574 |
-| 17 | **Breanna Stewart** 🔴 +7 | 2,567 |
+| 17 | **Breanna Stewart** 🔴 +8 | 2,568 |
 | 18 | Brittney Griner | 2,556 |
 | 19 | Swin Cash | 2,521 |
 | 20 | Michelle Snow | 2,476 |
@@ -415,7 +415,7 @@ _Last updated: 2026-06-22 01:56 UTC_
 | 189 | Arike Ogunbowale | 748 |
 | 190 | Alex Montgomery | 735 |
 | 191 | Ashley Robinson | 734 |
-| 192 | **Kelsey Plum** 🔴 +2 | 730 |
+| 192 | **Kelsey Plum** 🔴 +3 | 731 |
 | 193 | Shenise Johnson | 729 |
 | 194 | Sami Whitcomb | 726 |
 | 194 | Shekinna Stricklen | 726 |
@@ -454,7 +454,7 @@ _Last updated: 2026-06-22 01:56 UTC_
 | 23 | **Erica Wheeler** 🔴 +2 | 1,308 |
 | 24 | Kristi Toliver | 1,301 |
 | 25 | Katie Smith | 1,258 |
-| 26 | **Kelsey Plum** 🔴 +6 | 1,243 |
+| 26 | **Kelsey Plum** 🔴 +7 | 1,244 |
 | 27 | Odyssey Sims | 1,228 |
 | 28 | Vickie Johnson | 1,202 |
 | 29 | Jordin Canada | 1,201 |
