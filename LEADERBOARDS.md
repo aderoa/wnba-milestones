@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-22 23:53 UTC_
+_Last updated: 2026-06-22 23:54 UTC_
 
 ## Contents
 
@@ -34,7 +34,7 @@ _Last updated: 2026-06-22 23:53 UTC_
 | 13 | Lisa Leslie | 6,251 |
 | 14 | Breanna Stewart | 6,173 |
 | 15 | Jewell Loyd | 6,078 |
-| 16 | **Brittney Griner** 🔴 +2 | 6,033 |
+| 16 | **Brittney Griner** 🔴 +4 | 6,035 |
 | 17 | Lauren Jackson | 6,005 |
 | 17 | Seimone Augustus | 6,005 |
 | 19 | A'ja Wilson | 5,942 |
@@ -157,10 +157,10 @@ _Last updated: 2026-06-22 23:53 UTC_
 | 136 | **Azurá Stevens** 🔴 +2 | 2,261 |
 | 137 | Allison Feaster | 2,258 |
 | 138 | Shekinna Stricklen | 2,245 |
-| 139 | **Jordin Canada** 🔴 +2 | 2,239 |
+| 139 | **Jordin Canada** 🔴 +5 | 2,242 |
 | 140 | Kara Braxton | 2,237 |
 | 140 | Matee Ajavon | 2,237 |
-| 142 | Kia Nurse | 2,231 |
+| 142 | **Kia Nurse** 🔴 | 2,231 |
 | 143 | Dawn Staley | 2,228 |
 | 144 | Teaira McCowan | 2,221 |
 | 145 | Janel McCarville | 2,215 |
@@ -344,7 +344,7 @@ _Last updated: 2026-06-22 23:53 UTC_
 | 118 | Ann Wauters | 1,105 |
 | 119 | Svetlana Abrosimova | 1,078 |
 | 120 | Le'coe Willingham | 1,054 |
-| 121 | **Isabelle Harrison** 🔴 +2 | 1,051 |
+| 121 | **Isabelle Harrison** 🔴 +1 | 1,050 |
 | 122 | Jackie Young | 1,044 |
 | 123 | Nicole Ohlde | 1,040 |
 | 124 | Tamecka Dixon | 1,035 |
@@ -503,7 +503,7 @@ _Last updated: 2026-06-22 23:53 UTC_
 | 72 | Mwadi Mabika | 774 |
 | 73 | **Marina Mabrey** 🔴 +1 | 773 |
 | 74 | Sheri Sam | 745 |
-| 75 | **Allisha Gray** 🔴 | 743 |
+| 75 | **Allisha Gray** 🔴 +1 | 744 |
 | 76 | Monique Currie | 740 |
 | 77 | Elaine Powell | 728 |
 | 78 | Dearica Hamby | 718 |
@@ -594,7 +594,7 @@ _Last updated: 2026-06-22 23:53 UTC_
 | 162 | Murriel Page | 410 |
 | 164 | Allison Feaster | 406 |
 | 165 | Rita Williams | 403 |
-| 166 | Kia Nurse | 402 |
+| 166 | **Kia Nurse** 🔴 | 402 |
 | 167 | **Julie Allemand** 🔴 | 401 |
 | 168 | Marissa Coleman | 399 |
 | 169 | Aliyah Boston | 398 |
@@ -1094,7 +1094,7 @@ _Last updated: 2026-06-22 23:53 UTC_
 | 47 | Betty Lennox | 372 |
 | 49 | Jonquel Jones | 371 |
 | 50 | Epiphanny Prince | 368 |
-| 51 | Kia Nurse | 364 |
+| 51 | **Kia Nurse** 🔴 | 364 |
 | 52 | Kahleah Copper | 355 |
 | 53 | Nykesha Sales | 352 |
 | 54 | Cathrine Kraayeveld | 343 |
@@ -1219,7 +1219,7 @@ _Last updated: 2026-06-22 23:53 UTC_
 | 173 | Charde Houston | 124 |
 | 174 | Lisa Leslie | 123 |
 | 175 | Sidney Spencer | 122 |
-| 176 | **Jordin Canada** 🔴 | 120 |
+| 176 | **Jordin Canada** 🔴 +1 | 121 |
 | 177 | Lexie Hull | 118 |
 | 177 | Tonya Edwards | 118 |
 | 179 | **Kennedy Burke** 🔴 +1 | 117 |
@@ -1431,7 +1431,7 @@ _Last updated: 2026-06-22 23:53 UTC_
 | 180 | Caitlin Clark | 324 |
 | 180 | Olympia Scott | 324 |
 | 182 | Gabby Williams | 320 |
-| 183 | Kia Nurse | 316 |
+| 183 | **Kia Nurse** 🔴 | 316 |
 | 184 | Barbara Farris | 315 |
 | 185 | Moriah Jefferson | 314 |
 | 186 | Alex Bentley | 313 |
@@ -1642,9 +1642,9 @@ _Last updated: 2026-06-22 23:53 UTC_
 | 186 | Sami Whitcomb | 480 |
 | 187 | Seimone Augustus | 477 |
 | 188 | Allie Quigley | 475 |
+| 188 | **Azurá Stevens** 🔴 +1 | 475 |
 | 188 | Nia Coffey | 475 |
-| 190 | **Azurá Stevens** 🔴 | 474 |
-| 191 | Kia Nurse | 473 |
+| 191 | **Kia Nurse** 🔴 | 473 |
 | 192 | Alanna Smith | 470 |
 | 193 | Christi Thomas | 463 |
 | 193 | Nikki Teasley | 463 |
