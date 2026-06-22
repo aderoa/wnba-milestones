@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-22 01:20 UTC_
+_Last updated: 2026-06-22 01:21 UTC_
 
 ## Contents
 
@@ -72,7 +72,7 @@ _Last updated: 2026-06-22 01:20 UTC_
 | 51 | Monique Currie | 4,253 |
 | 52 | Courtney Williams | 4,251 |
 | 52 | **Dearica Hamby** 🔴 +8 | 4,251 |
-| 54 | **Jonquel Jones** 🔴 +9 | 4,231 |
+| 54 | **Jonquel Jones** 🔴 +12 | 4,234 |
 | 55 | Vickie Johnson | 4,230 |
 | 56 | Yolanda Griffith | 4,224 |
 | 57 | Rebekkah Brunson | 4,133 |
@@ -95,8 +95,8 @@ _Last updated: 2026-06-22 01:20 UTC_
 | 74 | Tamecka Dixon | 3,507 |
 | 75 | Tammy Sutton-Brown | 3,498 |
 | 76 | Sancho Lyttle | 3,478 |
-| 77 | Ivory Latta | 3,447 |
-| 78 | **Ariel Atkins** 🔴 +3 | 3,445 |
+| 77 | **Ariel Atkins** 🔴 +6 | 3,448 |
+| 78 | Ivory Latta | 3,447 |
 | 79 | Nicole Powell | 3,407 |
 | 80 | Epiphanny Prince | 3,381 |
 | 81 | Michelle Snow | 3,361 |
@@ -354,9 +354,9 @@ _Last updated: 2026-06-22 01:20 UTC_
 | 128 | Kelly Miller | 1,011 |
 | 128 | Noelle Quinn | 1,011 |
 | 130 | Tiffany Jackson | 1,002 |
+| 131 | **Sabrina Ionescu** 🔴 +2 | 1,000 |
 | 131 | Tianna Hawkins | 1,000 |
-| 132 | Damiris Dantas | 999 |
-| 132 | **Sabrina Ionescu** 🔴 +1 | 999 |
+| 133 | Damiris Dantas | 999 |
 | 134 | Marissa Coleman | 995 |
 | 135 | Kristen Rasmussen | 993 |
 | 136 | Skylar Diggins | 991 |
@@ -475,7 +475,7 @@ _Last updated: 2026-06-22 01:20 UTC_
 | 44 | Nikki Teasley | 982 |
 | 45 | Kayla McBride | 972 |
 | 46 | Tamecka Dixon | 960 |
-| 47 | **Breanna Stewart** 🔴 +3 | 956 |
+| 47 | **Breanna Stewart** 🔴 +4 | 957 |
 | 48 | Kara Lawson | 946 |
 | 49 | Tiffany Hayes | 937 |
 | 50 | Deanna Nolan | 930 |
@@ -506,7 +506,7 @@ _Last updated: 2026-06-22 01:20 UTC_
 | 75 | Allisha Gray | 743 |
 | 76 | Monique Currie | 740 |
 | 77 | Elaine Powell | 728 |
-| 78 | **Dearica Hamby** 🔴 +1 | 719 |
+| 78 | **Dearica Hamby** 🔴 +2 | 720 |
 | 79 | Stefanie Dolson | 700 |
 | 80 | Chamique Holdsclaw | 698 |
 | 81 | Shavonte Zellous | 693 |
@@ -1071,7 +1071,7 @@ _Last updated: 2026-06-22 01:20 UTC_
 | 25 | Cappie Pondexter | 464 |
 | 26 | **Sabrina Ionescu** 🔴 | 462 |
 | 27 | **Breanna Stewart** 🔴 | 460 |
-| 28 | **Ariel Atkins** 🔴 +1 | 452 |
+| 28 | **Ariel Atkins** 🔴 +2 | 453 |
 | 29 | Tiffany Hayes | 451 |
 | 30 | Allisha Gray | 445 |
 | 31 | Lauren Jackson | 436 |
@@ -1090,9 +1090,9 @@ _Last updated: 2026-06-22 01:20 UTC_
 | 44 | Rachel Banham | 384 |
 | 45 | Briann January | 381 |
 | 46 | Jasmine Thomas | 376 |
-| 47 | Allison Feaster | 372 |
-| 47 | Betty Lennox | 372 |
-| 47 | **Jonquel Jones** 🔴 +1 | 372 |
+| 47 | **Jonquel Jones** 🔴 +2 | 373 |
+| 48 | Allison Feaster | 372 |
+| 48 | Betty Lennox | 372 |
 | 50 | Epiphanny Prince | 368 |
 | 51 | Kia Nurse | 364 |
 | 52 | Kahleah Copper | 355 |
