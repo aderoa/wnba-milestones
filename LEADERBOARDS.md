@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-22 01:46 UTC_
+_Last updated: 2026-06-22 01:47 UTC_
 
 ## Contents
 
@@ -107,7 +107,7 @@ _Last updated: 2026-06-22 01:46 UTC_
 | 86 | Margo Dydek | 3,214 |
 | 87 | Stefanie Dolson | 3,195 |
 | 88 | Danielle Robinson | 3,160 |
-| 89 | **Erica Wheeler** 🔴 +10 | 3,154 |
+| 89 | **Erica Wheeler** 🔴 +12 | 3,156 |
 | 90 | Wendy Palmer | 3,135 |
 | 91 | Shavonte Zellous | 3,103 |
 | 92 | Briann January | 3,082 |
@@ -163,8 +163,8 @@ _Last updated: 2026-06-22 01:46 UTC_
 | 142 | Kia Nurse | 2,231 |
 | 143 | Dawn Staley | 2,228 |
 | 144 | Teaira McCowan | 2,223 |
-| 145 | Janel McCarville | 2,215 |
-| 145 | **Satou Sabally** 🔴 +11 | 2,215 |
+| 145 | **Satou Sabally** 🔴 +13 | 2,217 |
+| 146 | Janel McCarville | 2,215 |
 | 147 | Sami Whitcomb | 2,211 |
 | 148 | Sophia Witherspoon | 2,210 |
 | 149 | Ruthie Bolton | 2,175 |
@@ -396,8 +396,8 @@ _Last updated: 2026-06-22 01:46 UTC_
 | 170 | Gabby Williams | 796 |
 | 171 | Betnijah Laney-Hamilton | 795 |
 | 172 | Charlotte Smith | 794 |
+| 173 | **Ariel Atkins** 🔴 +2 | 788 |
 | 173 | Rhonda Mapp | 788 |
-| 174 | **Ariel Atkins** 🔴 +1 | 787 |
 | 175 | Mercedes Russell | 786 |
 | 176 | Odyssey Sims | 785 |
 | 177 | Sue Wicks | 780 |
