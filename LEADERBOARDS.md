@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-22 00:29 UTC_
+_Last updated: 2026-06-22 00:30 UTC_
 
 ## Contents
 
@@ -960,9 +960,9 @@ _Last updated: 2026-06-22 00:29 UTC_
 | 118 | Riquna Williams | 260 |
 | 120 | Noelle Quinn | 256 |
 | 121 | Elaine Powell | 255 |
+| 121 | **Jonquel Jones** 🔴 +2 | 255 |
 | 121 | Loree Moore | 255 |
-| 123 | **Jonquel Jones** 🔴 +1 | 254 |
-| 123 | Ruthie Bolton | 254 |
+| 124 | Ruthie Bolton | 254 |
 | 125 | Hamchetou Maiga-Ba | 251 |
 | 125 | Tamika Whitmore | 251 |
 | 127 | Sami Whitcomb | 246 |
