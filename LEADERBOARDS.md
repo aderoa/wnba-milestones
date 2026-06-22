@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-22 00:12 UTC_
+_Last updated: 2026-06-22 00:13 UTC_
 
 ## Contents
 
@@ -240,7 +240,7 @@ _Last updated: 2026-06-22 00:12 UTC_
 | 14 | Sancho Lyttle | 2,596 |
 | 15 | A'ja Wilson | 2,583 |
 | 16 | DeLisha Milton-Jones | 2,574 |
-| 17 | **Breanna Stewart** 🔴 +1 | 2,561 |
+| 17 | **Breanna Stewart** 🔴 +2 | 2,562 |
 | 18 | Brittney Griner | 2,556 |
 | 19 | Swin Cash | 2,521 |
 | 20 | Michelle Snow | 2,476 |
@@ -475,7 +475,7 @@ _Last updated: 2026-06-22 00:12 UTC_
 | 44 | Nikki Teasley | 982 |
 | 45 | **Kayla McBride** 🔴 +4 | 972 |
 | 46 | Tamecka Dixon | 960 |
-| 47 | **Breanna Stewart** 🔴 | 953 |
+| 47 | **Breanna Stewart** 🔴 +1 | 954 |
 | 48 | Kara Lawson | 946 |
 | 49 | Tiffany Hayes | 937 |
 | 50 | Deanna Nolan | 930 |
@@ -885,7 +885,7 @@ _Last updated: 2026-06-22 00:12 UTC_
 | 44 | Katie Smith | 408 |
 | 45 | Cappie Pondexter | 405 |
 | 46 | Nicole Powell | 401 |
-| 47 | **Dearica Hamby** 🔴 +1 | 399 |
+| 47 | **Dearica Hamby** 🔴 | 398 |
 | 48 | Jasmine Thomas | 394 |
 | 49 | Danielle Robinson | 389 |
 | 50 | Deanna Nolan | 388 |
@@ -905,8 +905,8 @@ _Last updated: 2026-06-22 00:12 UTC_
 | 64 | Vickie Johnson | 357 |
 | 65 | Dominique Canty | 356 |
 | 65 | Renee Montgomery | 356 |
+| 67 | **Erica Wheeler** 🔴 +1 | 355 |
 | 67 | Tamecka Dixon | 355 |
-| 68 | **Erica Wheeler** 🔴 | 354 |
 | 69 | Vicky Bullett | 353 |
 | 70 | Svetlana Abrosimova | 352 |
 | 71 | Natasha Cloud | 349 |
