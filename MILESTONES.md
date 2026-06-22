@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-22 02:01 UTC
+
+- **Ariel Atkins** passed **Monique Currie** for **#110** all-time in blocks (career 115) — up from #111 entering today — _3:27 - 4th — NY @ LA_
+
 ## 2026-06-22 01:45 UTC
 
 - **Dearica Hamby** passed **Penny Taylor** for **#55** all-time in fouls (career 833) — up from #58 entering today — _9:09 - 4th — NY @ LA_
