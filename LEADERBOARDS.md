@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-22 01:52 UTC_
+_Last updated: 2026-06-22 01:53 UTC_
 
 ## Contents
 
@@ -1496,7 +1496,7 @@ _Last updated: 2026-06-22 01:52 UTC_
 | 40 | DeWanna Bonner | 912 |
 | 41 | Shavonte Zellous | 907 |
 | 42 | Alysha Clark | 896 |
-| 43 | **Jonquel Jones** 🔴 +2 | 892 |
+| 43 | **Jonquel Jones** 🔴 +3 | 893 |
 | 44 | DeMya Walker | 882 |
 | 45 | Candice Dupree | 876 |
 | 46 | Murriel Page | 872 |
