@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-22 00:13 UTC_
+_Last updated: 2026-06-22 00:14 UTC_
 
 ## Contents
 
@@ -165,8 +165,8 @@ _Last updated: 2026-06-22 00:13 UTC_
 | 144 | **Teaira McCowan** 🔴 +2 | 2,223 |
 | 145 | Janel McCarville | 2,215 |
 | 146 | Sami Whitcomb | 2,211 |
+| 147 | **Satou Sabally** 🔴 +6 | 2,210 |
 | 147 | Sophia Witherspoon | 2,210 |
-| 148 | **Satou Sabally** 🔴 +3 | 2,207 |
 | 149 | Ruthie Bolton | 2,175 |
 | 150 | Ann Wauters | 2,170 |
 | 151 | Layshia Clarendon | 2,168 |
@@ -247,7 +247,7 @@ _Last updated: 2026-06-22 00:13 UTC_
 | 21 | Crystal Langhorne | 2,454 |
 | 22 | Lauren Jackson | 2,444 |
 | 23 | Yolanda Griffith | 2,440 |
-| 24 | **Dearica Hamby** 🔴 | 2,391 |
+| 24 | **Dearica Hamby** 🔴 +1 | 2,392 |
 | 25 | Tangela Smith | 2,328 |
 | 26 | **Natasha Howard** 🔴 +6 | 2,259 |
 | 27 | Erika de Souza | 2,220 |
@@ -524,7 +524,7 @@ _Last updated: 2026-06-22 00:13 UTC_
 | 93 | A'ja Wilson | 640 |
 | 94 | Asjha Jones | 637 |
 | 95 | Jennifer Azzi | 636 |
-| 96 | **Jonquel Jones** 🔴 | 625 |
+| 96 | **Jonquel Jones** 🔴 +1 | 626 |
 | 97 | Natisha Hiedeman | 624 |
 | 98 | Sami Whitcomb | 623 |
 | 99 | Alysha Clark | 616 |
@@ -961,8 +961,8 @@ _Last updated: 2026-06-22 00:13 UTC_
 | 120 | Noelle Quinn | 256 |
 | 121 | Elaine Powell | 255 |
 | 121 | Loree Moore | 255 |
+| 123 | **Jonquel Jones** 🔴 +1 | 254 |
 | 123 | Ruthie Bolton | 254 |
-| 124 | **Jonquel Jones** 🔴 | 253 |
 | 125 | Hamchetou Maiga-Ba | 251 |
 | 125 | Tamika Whitmore | 251 |
 | 127 | Sami Whitcomb | 246 |
@@ -1145,7 +1145,7 @@ _Last updated: 2026-06-22 00:13 UTC_
 | 99 | Stacey Dales | 232 |
 | 100 | Elena Baranova | 224 |
 | 101 | Essence Carson | 223 |
-| 102 | **Satou Sabally** 🔴 +1 | 219 |
+| 102 | **Satou Sabally** 🔴 +2 | 220 |
 | 103 | Kelly Mazzante | 218 |
 | 103 | Sheri Sam | 218 |
 | 105 | Damiris Dantas | 211 |
@@ -1279,7 +1279,7 @@ _Last updated: 2026-06-22 00:13 UTC_
 | 28 | Katie Douglas | 824 |
 | 29 | Betty Lennox | 800 |
 | 30 | Jasmine Thomas | 796 |
-| 31 | **Nneka Ogwumike** 🔴 | 795 |
+| 30 | **Nneka Ogwumike** 🔴 +1 | 796 |
 | 32 | Chamique Holdsclaw | 789 |
 | 33 | Jewell Loyd | 788 |
 | 34 | Crystal Langhorne | 782 |
@@ -1313,8 +1313,8 @@ _Last updated: 2026-06-22 00:13 UTC_
 | 62 | Sheri Sam | 650 |
 | 63 | Dawn Staley | 643 |
 | 64 | **Kayla McBride** 🔴 +2 | 638 |
+| 65 | **Kelsey Plum** 🔴 +1 | 637 |
 | 65 | Ruth Riley | 637 |
-| 66 | **Kelsey Plum** 🔴 | 636 |
 | 67 | Odyssey Sims | 631 |
 | 67 | Svetlana Abrosimova | 631 |
 | 69 | **Jonquel Jones** 🔴 | 627 |
