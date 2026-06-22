@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-22 23:34 UTC_
+_Last updated: 2026-06-22 23:35 UTC_
 
 ## Contents
 
@@ -899,9 +899,9 @@ _Last updated: 2026-06-22 23:34 UTC_
 | 58 | Chamique Holdsclaw | 376 |
 | 59 | Mwadi Mabika | 370 |
 | 60 | Brittney Sykes | 367 |
-| 61 | **Allisha Gray** 🔴 | 360 |
-| 61 | Lauren Jackson | 360 |
-| 61 | Tan White | 360 |
+| 61 | **Allisha Gray** 🔴 +1 | 361 |
+| 62 | Lauren Jackson | 360 |
+| 62 | Tan White | 360 |
 | 64 | Vickie Johnson | 357 |
 | 65 | Dominique Canty | 356 |
 | 65 | Renee Montgomery | 356 |
