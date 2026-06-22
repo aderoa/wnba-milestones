@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-22 00:45 UTC_
+_Last updated: 2026-06-22 00:46 UTC_
 
 ## Contents
 
@@ -73,7 +73,7 @@ _Last updated: 2026-06-22 00:45 UTC_
 | 52 | Courtney Williams | 4,251 |
 | 52 | **Dearica Hamby** 🔴 +8 | 4,251 |
 | 54 | Vickie Johnson | 4,230 |
-| 55 | **Jonquel Jones** 🔴 +3 | 4,225 |
+| 55 | **Jonquel Jones** 🔴 +4 | 4,226 |
 | 56 | Yolanda Griffith | 4,224 |
 | 57 | Rebekkah Brunson | 4,133 |
 | 58 | Asjha Jones | 3,986 |
@@ -481,7 +481,7 @@ _Last updated: 2026-06-22 00:45 UTC_
 | 50 | Deanna Nolan | 930 |
 | 51 | Kelly Miller | 927 |
 | 52 | DeLisha Milton-Jones | 921 |
-| 53 | **Nneka Ogwumike** 🔴 +2 | 919 |
+| 53 | **Nneka Ogwumike** 🔴 +3 | 920 |
 | 54 | Arike Ogunbowale | 918 |
 | 55 | Angel McCoughtry | 915 |
 | 56 | Layshia Clarendon | 911 |
@@ -1509,9 +1509,9 @@ _Last updated: 2026-06-22 00:45 UTC_
 | 52 | Tamera Young | 847 |
 | 54 | Candace Parker | 834 |
 | 55 | Penny Taylor | 832 |
+| 56 | **Dearica Hamby** 🔴 +2 | 831 |
 | 56 | Dominique Canty | 831 |
 | 56 | Wendy Palmer | 831 |
-| 58 | **Dearica Hamby** 🔴 +1 | 830 |
 | 59 | Shannon Johnson | 813 |
 | 59 | Tully Bevilaqua | 813 |
 | 61 | Skylar Diggins | 812 |
