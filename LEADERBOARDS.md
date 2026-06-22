@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-22 23:54 UTC_
+_Last updated: 2026-06-22 23:55 UTC_
 
 ## Contents
 
@@ -154,7 +154,7 @@ _Last updated: 2026-06-22 23:54 UTC_
 | 133 | Merlakia Jones | 2,308 |
 | 134 | Kia Vaughn | 2,288 |
 | 135 | Betnijah Laney-Hamilton | 2,282 |
-| 136 | **Azurá Stevens** 🔴 +2 | 2,261 |
+| 136 | **Azurá Stevens** 🔴 +7 | 2,266 |
 | 137 | Allison Feaster | 2,258 |
 | 138 | Shekinna Stricklen | 2,245 |
 | 139 | **Jordin Canada** 🔴 +5 | 2,242 |
@@ -195,7 +195,7 @@ _Last updated: 2026-06-22 23:54 UTC_
 | 174 | Ebony Hoffman | 1,909 |
 | 175 | Candice Wiggins | 1,901 |
 | 176 | Natisha Hiedeman | 1,858 |
-| 177 | **Isabelle Harrison** 🔴 | 1,832 |
+| 177 | **Isabelle Harrison** 🔴 +3 | 1,835 |
 | 178 | Damiris Dantas | 1,830 |
 | 179 | **Rachel Banham** 🔴 +3 | 1,826 |
 | 180 | Tianna Hawkins | 1,825 |
@@ -313,8 +313,8 @@ _Last updated: 2026-06-22 23:54 UTC_
 | 87 | Betty Lennox | 1,296 |
 | 88 | Tari Phillips | 1,274 |
 | 89 | Janel McCarville | 1,261 |
+| 90 | **Azurá Stevens** 🔴 +2 | 1,258 |
 | 90 | Liz Cambage | 1,258 |
-| 91 | **Azurá Stevens** 🔴 +1 | 1,257 |
 | 92 | Tiffany Hayes | 1,244 |
 | 93 | Ezi Magbegor | 1,243 |
 | 94 | Myisha Hines-Allen | 1,239 |
@@ -344,7 +344,7 @@ _Last updated: 2026-06-22 23:54 UTC_
 | 118 | Ann Wauters | 1,105 |
 | 119 | Svetlana Abrosimova | 1,078 |
 | 120 | Le'coe Willingham | 1,054 |
-| 121 | **Isabelle Harrison** 🔴 +1 | 1,050 |
+| 121 | **Isabelle Harrison** 🔴 +2 | 1,051 |
 | 122 | Jackie Young | 1,044 |
 | 123 | Nicole Ohlde | 1,040 |
 | 124 | Tamecka Dixon | 1,035 |
@@ -1135,8 +1135,8 @@ _Last updated: 2026-06-22 23:54 UTC_
 | 89 | Angel McCoughtry | 249 |
 | 90 | Erin Thorn | 243 |
 | 90 | Nneka Ogwumike | 243 |
+| 92 | **Azurá Stevens** 🔴 +1 | 242 |
 | 92 | Brittney Sykes | 242 |
-| 93 | **Azurá Stevens** 🔴 | 241 |
 | 94 | Alex Bentley | 239 |
 | 94 | Cynthia Cooper | 239 |
 | 96 | Svetlana Abrosimova | 235 |
