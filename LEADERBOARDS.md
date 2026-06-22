@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-22 01:21 UTC_
+_Last updated: 2026-06-22 01:22 UTC_
 
 ## Contents
 
@@ -23,7 +23,7 @@ _Last updated: 2026-06-22 01:21 UTC_
 | 2 | Tina Charles | 8,396 |
 | 3 | DeWanna Bonner | 7,910 |
 | 4 | Tina Thompson | 7,470 |
-| 5 | **Nneka Ogwumike** 🔴 +4 | 7,444 |
+| 5 | **Nneka Ogwumike** 🔴 +6 | 7,446 |
 | 6 | Tamika Catchings | 7,371 |
 | 7 | Candice Dupree | 6,861 |
 | 8 | Sue Bird | 6,802 |
@@ -72,7 +72,7 @@ _Last updated: 2026-06-22 01:21 UTC_
 | 51 | Monique Currie | 4,253 |
 | 52 | Courtney Williams | 4,251 |
 | 52 | **Dearica Hamby** 🔴 +8 | 4,251 |
-| 54 | **Jonquel Jones** 🔴 +12 | 4,234 |
+| 54 | **Jonquel Jones** 🔴 +15 | 4,237 |
 | 55 | Vickie Johnson | 4,230 |
 | 56 | Yolanda Griffith | 4,224 |
 | 57 | Rebekkah Brunson | 4,133 |
@@ -228,7 +228,7 @@ _Last updated: 2026-06-22 01:21 UTC_
 | 2 | Sylvia Fowles | 4,005 |
 | 3 | Candace Parker | 3,467 |
 | 4 | Rebekkah Brunson | 3,345 |
-| 5 | **Nneka Ogwumike** 🔴 +3 | 3,340 |
+| 5 | **Nneka Ogwumike** 🔴 +4 | 3,341 |
 | 6 | Tamika Catchings | 3,313 |
 | 7 | Lisa Leslie | 3,303 |
 | 8 | DeWanna Bonner | 3,260 |
@@ -240,7 +240,7 @@ _Last updated: 2026-06-22 01:21 UTC_
 | 14 | Sancho Lyttle | 2,596 |
 | 15 | A'ja Wilson | 2,583 |
 | 16 | DeLisha Milton-Jones | 2,574 |
-| 17 | **Breanna Stewart** 🔴 +3 | 2,563 |
+| 17 | **Breanna Stewart** 🔴 +4 | 2,564 |
 | 18 | Brittney Griner | 2,556 |
 | 19 | Swin Cash | 2,521 |
 | 20 | Michelle Snow | 2,476 |
@@ -454,7 +454,7 @@ _Last updated: 2026-06-22 01:21 UTC_
 | 23 | **Erica Wheeler** 🔴 | 1,306 |
 | 24 | Kristi Toliver | 1,301 |
 | 25 | Katie Smith | 1,258 |
-| 26 | **Kelsey Plum** 🔴 +3 | 1,240 |
+| 26 | **Kelsey Plum** 🔴 +4 | 1,241 |
 | 27 | Odyssey Sims | 1,228 |
 | 28 | Vickie Johnson | 1,202 |
 | 29 | Jordin Canada | 1,201 |
@@ -568,7 +568,7 @@ _Last updated: 2026-06-22 01:21 UTC_
 | 137 | Elizabeth Williams | 467 |
 | 138 | Erin Phillips | 462 |
 | 139 | Sylvia Fowles | 461 |
-| 140 | **Satou Sabally** 🔴 +2 | 458 |
+| 140 | **Satou Sabally** 🔴 +4 | 460 |
 | 141 | Sydney Colson | 454 |
 | 141 | Tyasha Harris | 454 |
 | 143 | Yolanda Griffith | 451 |
@@ -1090,7 +1090,7 @@ _Last updated: 2026-06-22 01:21 UTC_
 | 44 | Rachel Banham | 384 |
 | 45 | Briann January | 381 |
 | 46 | Jasmine Thomas | 376 |
-| 47 | **Jonquel Jones** 🔴 +2 | 373 |
+| 47 | **Jonquel Jones** 🔴 +3 | 374 |
 | 48 | Allison Feaster | 372 |
 | 48 | Betty Lennox | 372 |
 | 50 | Epiphanny Prince | 368 |
@@ -1232,8 +1232,8 @@ _Last updated: 2026-06-22 01:21 UTC_
 | 186 | Gordana Grubin | 114 |
 | 186 | Rickea Jackson | 114 |
 | 186 | Sandy Brondello | 114 |
-| 189 | **Leonie Fiebich** 🔴 +1 | 111 |
-| 189 | Shoni Schimmel | 111 |
+| 189 | **Leonie Fiebich** 🔴 +2 | 112 |
+| 190 | Shoni Schimmel | 111 |
 | 191 | Emma Meesseman | 109 |
 | 191 | Scholanda Dorrell | 109 |
 | 193 | Belinda Snell | 108 |
