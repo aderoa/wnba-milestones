@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-22 01:47 UTC_
+_Last updated: 2026-06-22 01:48 UTC_
 
 ## Contents
 
@@ -32,7 +32,7 @@ _Last updated: 2026-06-22 01:47 UTC_
 | 11 | Katie Smith | 6,450 |
 | 12 | Sylvia Fowles | 6,413 |
 | 13 | Lisa Leslie | 6,251 |
-| 14 | **Breanna Stewart** 🔴 +12 | 6,185 |
+| 14 | **Breanna Stewart** 🔴 +14 | 6,187 |
 | 15 | Jewell Loyd | 6,092 |
 | 16 | Brittney Griner | 6,031 |
 | 17 | Lauren Jackson | 6,005 |
@@ -240,7 +240,7 @@ _Last updated: 2026-06-22 01:47 UTC_
 | 14 | Sancho Lyttle | 2,596 |
 | 15 | A'ja Wilson | 2,583 |
 | 16 | DeLisha Milton-Jones | 2,574 |
-| 17 | **Breanna Stewart** 🔴 +6 | 2,566 |
+| 17 | **Breanna Stewart** 🔴 +7 | 2,567 |
 | 18 | Brittney Griner | 2,556 |
 | 19 | Swin Cash | 2,521 |
 | 20 | Michelle Snow | 2,476 |
@@ -514,7 +514,7 @@ _Last updated: 2026-06-22 01:47 UTC_
 | 83 | Moriah Jefferson | 685 |
 | 84 | Emma Meesseman | 681 |
 | 85 | Nykesha Sales | 677 |
-| 86 | **Ariel Atkins** 🔴 +3 | 667 |
+| 86 | **Ariel Atkins** 🔴 +4 | 668 |
 | 87 | Bria Hartley | 661 |
 | 88 | Lindsay Allen | 657 |
 | 89 | Betty Lennox | 651 |
@@ -1423,7 +1423,7 @@ _Last updated: 2026-06-22 01:47 UTC_
 | 172 | Scholanda Dorrell | 335 |
 | 173 | Aerial Powers | 333 |
 | 173 | Diamond DeShields | 333 |
-| 175 | **Satou Sabally** 🔴 +2 | 332 |
+| 173 | **Satou Sabally** 🔴 +3 | 333 |
 | 176 | Charde Houston | 331 |
 | 177 | Erlana Larkins | 326 |
 | 177 | Rita Williams | 326 |
@@ -1652,5 +1652,5 @@ _Last updated: 2026-06-22 01:47 UTC_
 | 196 | Natalie Achonwa | 459 |
 | 197 | NaLyssa Smith | 458 |
 | 198 | Kara Lawson | 457 |
-| 199 | **Satou Sabally** 🔴 +2 | 452 |
+| 199 | **Satou Sabally** 🔴 +3 | 453 |
 | 200 | Alexis Hornbuckle | 450 |
