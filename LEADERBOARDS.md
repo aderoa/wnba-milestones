@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-22 00:19 UTC_
+_Last updated: 2026-06-22 00:20 UTC_
 
 ## Contents
 
@@ -236,7 +236,7 @@ _Last updated: 2026-06-22 00:19 UTC_
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | Alyssa Thomas | 2,817 |
-| 13 | **Jonquel Jones** 🔴 +3 | 2,666 |
+| 13 | **Jonquel Jones** 🔴 +4 | 2,667 |
 | 14 | Sancho Lyttle | 2,596 |
 | 15 | A'ja Wilson | 2,583 |
 | 16 | DeLisha Milton-Jones | 2,574 |
@@ -524,7 +524,7 @@ _Last updated: 2026-06-22 00:19 UTC_
 | 93 | A'ja Wilson | 640 |
 | 94 | Asjha Jones | 637 |
 | 95 | Jennifer Azzi | 636 |
-| 96 | **Jonquel Jones** 🔴 +1 | 626 |
+| 96 | **Jonquel Jones** 🔴 | 625 |
 | 97 | Natisha Hiedeman | 624 |
 | 98 | Sami Whitcomb | 623 |
 | 99 | Alysha Clark | 616 |
@@ -956,8 +956,8 @@ _Last updated: 2026-06-22 00:19 UTC_
 | 115 | Kayla Thornton | 263 |
 | 116 | Michelle Snow | 262 |
 | 117 | Karima Christmas-Kelly | 261 |
-| 117 | **Kelsey Plum** 🔴 +1 | 261 |
-| 119 | Riquna Williams | 260 |
+| 118 | **Kelsey Plum** 🔴 | 260 |
+| 118 | Riquna Williams | 260 |
 | 120 | Noelle Quinn | 256 |
 | 121 | Elaine Powell | 255 |
 | 121 | Loree Moore | 255 |
@@ -1423,8 +1423,8 @@ _Last updated: 2026-06-22 00:19 UTC_
 | 172 | Scholanda Dorrell | 335 |
 | 173 | Aerial Powers | 333 |
 | 173 | Diamond DeShields | 333 |
-| 175 | **Satou Sabally** 🔴 +2 | 332 |
-| 176 | Charde Houston | 331 |
+| 175 | Charde Houston | 331 |
+| 175 | **Satou Sabally** 🔴 +1 | 331 |
 | 177 | Erlana Larkins | 326 |
 | 177 | Rita Williams | 326 |
 | 179 | Le'coe Willingham | 325 |
