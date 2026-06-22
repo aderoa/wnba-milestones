@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-22 23:57 UTC_
+_Last updated: 2026-06-22 23:58 UTC_
 
 ## Contents
 
@@ -34,7 +34,7 @@ _Last updated: 2026-06-22 23:57 UTC_
 | 13 | Lisa Leslie | 6,251 |
 | 14 | Breanna Stewart | 6,173 |
 | 15 | Jewell Loyd | 6,078 |
-| 16 | **Brittney Griner** 🔴 +8 | 6,039 |
+| 16 | **Brittney Griner** 🔴 +10 | 6,041 |
 | 17 | Lauren Jackson | 6,005 |
 | 17 | Seimone Augustus | 6,005 |
 | 19 | A'ja Wilson | 5,942 |
@@ -154,7 +154,7 @@ _Last updated: 2026-06-22 23:57 UTC_
 | 133 | Merlakia Jones | 2,308 |
 | 134 | Kia Vaughn | 2,288 |
 | 135 | Betnijah Laney-Hamilton | 2,282 |
-| 136 | **Azurá Stevens** 🔴 +8 | 2,267 |
+| 136 | **Azurá Stevens** 🔴 +9 | 2,268 |
 | 137 | Allison Feaster | 2,258 |
 | 138 | Shekinna Stricklen | 2,245 |
 | 139 | **Jordin Canada** 🔴 +5 | 2,242 |
@@ -241,7 +241,7 @@ _Last updated: 2026-06-22 23:57 UTC_
 | 15 | A'ja Wilson | 2,574 |
 | 15 | DeLisha Milton-Jones | 2,574 |
 | 17 | Breanna Stewart | 2,560 |
-| 18 | **Brittney Griner** 🔴 +2 | 2,558 |
+| 18 | **Brittney Griner** 🔴 +3 | 2,559 |
 | 19 | Swin Cash | 2,521 |
 | 20 | Michelle Snow | 2,476 |
 | 21 | Crystal Langhorne | 2,454 |
@@ -1641,9 +1641,9 @@ _Last updated: 2026-06-22 23:57 UTC_
 | 184 | Rhonda Mapp | 483 |
 | 186 | Sami Whitcomb | 480 |
 | 187 | Seimone Augustus | 477 |
-| 188 | Allie Quigley | 475 |
-| 188 | **Azurá Stevens** 🔴 +1 | 475 |
-| 188 | Nia Coffey | 475 |
+| 188 | **Azurá Stevens** 🔴 +2 | 476 |
+| 189 | Allie Quigley | 475 |
+| 189 | Nia Coffey | 475 |
 | 191 | **Kia Nurse** 🔴 | 473 |
 | 192 | Alanna Smith | 470 |
 | 193 | Christi Thomas | 463 |
