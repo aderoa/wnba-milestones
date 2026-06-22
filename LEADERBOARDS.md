@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-22 01:45 UTC_
+_Last updated: 2026-06-22 01:46 UTC_
 
 ## Contents
 
@@ -32,7 +32,7 @@ _Last updated: 2026-06-22 01:45 UTC_
 | 11 | Katie Smith | 6,450 |
 | 12 | Sylvia Fowles | 6,413 |
 | 13 | Lisa Leslie | 6,251 |
-| 14 | **Breanna Stewart** 🔴 +10 | 6,183 |
+| 14 | **Breanna Stewart** 🔴 +12 | 6,185 |
 | 15 | Jewell Loyd | 6,092 |
 | 16 | Brittney Griner | 6,031 |
 | 17 | Lauren Jackson | 6,005 |
@@ -95,7 +95,7 @@ _Last updated: 2026-06-22 01:45 UTC_
 | 74 | Tamecka Dixon | 3,507 |
 | 75 | Tammy Sutton-Brown | 3,498 |
 | 76 | Sancho Lyttle | 3,478 |
-| 77 | **Ariel Atkins** 🔴 +8 | 3,450 |
+| 77 | **Ariel Atkins** 🔴 +10 | 3,452 |
 | 78 | Ivory Latta | 3,447 |
 | 79 | Nicole Powell | 3,407 |
 | 80 | Epiphanny Prince | 3,381 |
@@ -113,7 +113,7 @@ _Last updated: 2026-06-22 01:45 UTC_
 | 92 | Briann January | 3,082 |
 | 93 | Marina Mabrey | 3,052 |
 | 94 | Erika de Souza | 3,046 |
-| 95 | **Sabrina Ionescu** 🔴 | 3,041 |
+| 95 | **Sabrina Ionescu** 🔴 +2 | 3,043 |
 | 96 | Shameka Christon | 3,039 |
 | 97 | Marie Ferdinand-Harris | 3,001 |
 | 98 | Emma Meesseman | 2,966 |
@@ -240,7 +240,7 @@ _Last updated: 2026-06-22 01:45 UTC_
 | 14 | Sancho Lyttle | 2,596 |
 | 15 | A'ja Wilson | 2,583 |
 | 16 | DeLisha Milton-Jones | 2,574 |
-| 17 | **Breanna Stewart** 🔴 +5 | 2,565 |
+| 17 | **Breanna Stewart** 🔴 +6 | 2,566 |
 | 18 | Brittney Griner | 2,556 |
 | 19 | Swin Cash | 2,521 |
 | 20 | Michelle Snow | 2,476 |
@@ -524,7 +524,7 @@ _Last updated: 2026-06-22 01:45 UTC_
 | 93 | A'ja Wilson | 640 |
 | 94 | Asjha Jones | 637 |
 | 95 | Jennifer Azzi | 636 |
-| 96 | **Jonquel Jones** 🔴 +2 | 627 |
+| 96 | **Jonquel Jones** 🔴 +3 | 628 |
 | 97 | Natisha Hiedeman | 624 |
 | 98 | Sami Whitcomb | 623 |
 | 99 | Alysha Clark | 616 |
@@ -567,8 +567,8 @@ _Last updated: 2026-06-22 01:45 UTC_
 | 136 | Janeth Arcain | 469 |
 | 137 | Elizabeth Williams | 467 |
 | 138 | Erin Phillips | 462 |
-| 139 | **Satou Sabally** 🔴 +5 | 461 |
-| 139 | Sylvia Fowles | 461 |
+| 138 | **Satou Sabally** 🔴 +6 | 462 |
+| 140 | Sylvia Fowles | 461 |
 | 141 | Sydney Colson | 454 |
 | 141 | Tyasha Harris | 454 |
 | 143 | Yolanda Griffith | 451 |
