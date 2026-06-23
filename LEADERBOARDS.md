@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-23 01:24 UTC_
+_Last updated: 2026-06-23 01:25 UTC_
 
 ## Contents
 
@@ -111,7 +111,7 @@ _Last updated: 2026-06-23 01:24 UTC_
 | 90 | Wendy Palmer | 3,135 |
 | 91 | Shavonte Zellous | 3,103 |
 | 92 | Briann January | 3,082 |
-| 93 | **Marina Mabrey** 🔴 +20 | 3,072 |
+| 93 | **Marina Mabrey** 🔴 +21 | 3,073 |
 | 94 | Erika de Souza | 3,046 |
 | 95 | Sabrina Ionescu | 3,041 |
 | 96 | Shameka Christon | 3,039 |
@@ -214,8 +214,8 @@ _Last updated: 2026-06-23 01:24 UTC_
 | 193 | Nikki Teasley | 1,690 |
 | 194 | Shenise Johnson | 1,688 |
 | 195 | Janell Burse | 1,580 |
-| 196 | Le'coe Willingham | 1,552 |
-| 197 | **Monique Billings** 🔴 +7 | 1,550 |
+| 196 | **Monique Billings** 🔴 +10 | 1,553 |
+| 197 | Le'coe Willingham | 1,552 |
 | 198 | Shatori Walker-Kimbrough | 1,544 |
 | 199 | Rebecca Allen | 1,526 |
 | 200 | Jennifer Lacy | 1,504 |
@@ -367,7 +367,7 @@ _Last updated: 2026-06-23 01:24 UTC_
 | 141 | Dominique Canty | 961 |
 | 142 | Armintie Herrington | 960 |
 | 143 | Janell Burse | 944 |
-| 144 | **Angel Reese** 🔴 +6 | 929 |
+| 144 | **Angel Reese** 🔴 +7 | 930 |
 | 145 | Jessica Shepard | 927 |
 | 145 | Merlakia Jones | 927 |
 | 147 | Satou Sabally | 926 |
@@ -550,8 +550,8 @@ _Last updated: 2026-06-23 01:24 UTC_
 | 118 | Michele Timms | 549 |
 | 119 | Veronica Burton | 537 |
 | 120 | Marie Ferdinand-Harris | 528 |
-| 121 | **Caitlin Clark** 🔴 +7 | 524 |
-| 121 | Margo Dydek | 524 |
+| 121 | **Caitlin Clark** 🔴 +8 | 525 |
+| 122 | Margo Dydek | 524 |
 | 123 | **Myisha Hines-Allen** 🔴 +1 | 521 |
 | 124 | Iziane Castro Marques | 509 |
 | 124 | Rachel Banham | 509 |
@@ -1026,9 +1026,9 @@ _Last updated: 2026-06-23 01:24 UTC_
 | 184 | Rebecca Allen | 183 |
 | 185 | Erin Phillips | 182 |
 | 185 | Sabrina Ionescu | 182 |
+| 187 | **Isabelle Harrison** 🔴 +1 | 181 |
 | 187 | Nakia Sanford | 181 |
-| 188 | Diamond DeShields | 180 |
-| 188 | **Isabelle Harrison** 🔴 | 180 |
+| 189 | Diamond DeShields | 180 |
 | 190 | **Monique Billings** 🔴 +1 | 178 |
 | 191 | Bridget Pettis | 177 |
 | 192 | Brittany Boyd-Jones | 176 |
@@ -1262,7 +1262,7 @@ _Last updated: 2026-06-23 01:24 UTC_
 | 10 | Candace Parker | 1,062 |
 | 11 | Tamika Catchings | 1,041 |
 | 12 | Tina Charles | 1,040 |
-| 13 | **Alyssa Thomas** 🔴 +2 | 1,005 |
+| 13 | **Alyssa Thomas** 🔴 +3 | 1,006 |
 | 14 | Lindsay Whalen | 1,002 |
 | 15 | Sylvia Fowles | 961 |
 | 16 | Tanisha Wright | 954 |
@@ -1486,7 +1486,7 @@ _Last updated: 2026-06-23 01:24 UTC_
 | 29 | Lauren Jackson | 982 |
 | 30 | Nakia Sanford | 979 |
 | 31 | Asjha Jones | 971 |
-| 32 | **Alyssa Thomas** 🔴 +1 | 955 |
+| 32 | **Alyssa Thomas** 🔴 +2 | 956 |
 | 33 | Margo Dydek | 950 |
 | 34 | Sancho Lyttle | 947 |
 | 35 | Mwadi Mabika | 941 |
