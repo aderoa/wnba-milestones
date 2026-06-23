@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-23 00:24 UTC_
+_Last updated: 2026-06-23 00:25 UTC_
 
 ## Contents
 
@@ -195,7 +195,7 @@ _Last updated: 2026-06-23 00:24 UTC_
 | 174 | Ebony Hoffman | 1,909 |
 | 175 | Candice Wiggins | 1,901 |
 | 176 | Natisha Hiedeman | 1,858 |
-| 177 | **Isabelle Harrison** 🔴 +12 | 1,844 |
+| 177 | **Isabelle Harrison** 🔴 +14 | 1,846 |
 | 178 | Damiris Dantas | 1,830 |
 | 179 | **Rachel Banham** 🔴 +3 | 1,826 |
 | 180 | Tianna Hawkins | 1,825 |
@@ -231,7 +231,7 @@ _Last updated: 2026-06-23 00:24 UTC_
 | 5 | Nneka Ogwumike | 3,337 |
 | 6 | Tamika Catchings | 3,313 |
 | 7 | Lisa Leslie | 3,303 |
-| 8 | **DeWanna Bonner** 🔴 | 3,260 |
+| 8 | **DeWanna Bonner** 🔴 +1 | 3,261 |
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
@@ -593,9 +593,9 @@ _Last updated: 2026-06-23 00:24 UTC_
 | 162 | Jamierra Faulkner | 410 |
 | 162 | Murriel Page | 410 |
 | 164 | Allison Feaster | 406 |
+| 165 | **Kia Nurse** 🔴 +1 | 403 |
 | 165 | Rita Williams | 403 |
-| 166 | **Julie Allemand** 🔴 +1 | 402 |
-| 166 | **Kia Nurse** 🔴 | 402 |
+| 167 | **Julie Allemand** 🔴 +1 | 402 |
 | 168 | Marissa Coleman | 399 |
 | 169 | **Aliyah Boston** 🔴 | 398 |
 | 170 | Jessica Shepard | 395 |
@@ -1635,8 +1635,8 @@ _Last updated: 2026-06-23 00:24 UTC_
 | 179 | **Rachel Banham** 🔴 | 490 |
 | 180 | Charde Houston | 487 |
 | 181 | Lindsey Harding | 486 |
-| 182 | Cathrine Kraayeveld | 484 |
-| 182 | **Isabelle Harrison** 🔴 | 484 |
+| 182 | **Isabelle Harrison** 🔴 +1 | 485 |
+| 183 | Cathrine Kraayeveld | 484 |
 | 184 | Liz Cambage | 483 |
 | 184 | Rhonda Mapp | 483 |
 | 186 | Sami Whitcomb | 480 |
