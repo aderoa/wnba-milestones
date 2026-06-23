@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-23 00:41 UTC_
+_Last updated: 2026-06-23 00:42 UTC_
 
 ## Contents
 
@@ -21,7 +21,7 @@ _Last updated: 2026-06-23 00:41 UTC_
 |-----:|--------|------:|
 | 1 | Diana Taurasi | 10,608 |
 | 2 | Tina Charles | 8,396 |
-| 3 | **DeWanna Bonner** 🔴 +4 | 7,914 |
+| 3 | **DeWanna Bonner** 🔴 +7 | 7,917 |
 | 4 | Tina Thompson | 7,470 |
 | 5 | Nneka Ogwumike | 7,440 |
 | 6 | Tamika Catchings | 7,371 |
@@ -317,7 +317,7 @@ _Last updated: 2026-06-23 00:41 UTC_
 | 91 | Liz Cambage | 1,258 |
 | 92 | Tiffany Hayes | 1,244 |
 | 93 | Ezi Magbegor | 1,243 |
-| 94 | **Myisha Hines-Allen** 🔴 | 1,239 |
+| 94 | **Myisha Hines-Allen** 🔴 +1 | 1,240 |
 | 95 | Brianna Turner | 1,237 |
 | 96 | Seimone Augustus | 1,228 |
 | 97 | Kayla McBride | 1,226 |
@@ -436,7 +436,7 @@ _Last updated: 2026-06-23 00:41 UTC_
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
 | 6 | Chelsea Gray | 1,935 |
-| 7 | **Alyssa Thomas** 🔴 +3 | 1,906 |
+| 7 | **Alyssa Thomas** 🔴 +4 | 1,907 |
 | 8 | **Skylar Diggins** 🔴 +4 | 1,816 |
 | 9 | **Natasha Cloud** 🔴 | 1,772 |
 | 10 | Becky Hammon | 1,705 |
@@ -551,7 +551,7 @@ _Last updated: 2026-06-23 00:41 UTC_
 | 119 | Veronica Burton | 537 |
 | 120 | Marie Ferdinand-Harris | 528 |
 | 121 | Margo Dydek | 524 |
-| 122 | **Myisha Hines-Allen** 🔴 | 520 |
+| 122 | **Myisha Hines-Allen** 🔴 +1 | 521 |
 | 123 | **Caitlin Clark** 🔴 +1 | 518 |
 | 124 | Iziane Castro Marques | 509 |
 | 124 | **Rhyne Howard** 🔴 +1 | 509 |
@@ -1054,7 +1054,7 @@ _Last updated: 2026-06-23 00:41 UTC_
 | 7 | Katie Douglas | 723 |
 | 8 | **Kelsey Mitchell** 🔴 +1 | 688 |
 | 9 | Jewell Loyd | 678 |
-| 10 | **DeWanna Bonner** 🔴 | 672 |
+| 10 | **DeWanna Bonner** 🔴 +1 | 673 |
 | 11 | Kristi Toliver | 651 |
 | 12 | Kelsey Plum | 609 |
 | 13 | Tamika Catchings | 605 |
@@ -1168,10 +1168,10 @@ _Last updated: 2026-06-23 00:41 UTC_
 | 120 | Camille Smith | 179 |
 | 122 | Swin Cash | 176 |
 | 123 | Nikki McCray | 175 |
+| 124 | **Caitlin Clark** 🔴 +3 | 174 |
 | 124 | Shatori Walker-Kimbrough | 174 |
 | 124 | Tayler Hill | 174 |
-| 126 | **Caitlin Clark** 🔴 +1 | 172 |
-| 126 | Theresa Plaisance | 172 |
+| 127 | Theresa Plaisance | 172 |
 | 128 | Amanda Lassiter | 170 |
 | 129 | Marine Johannès | 168 |
 | 130 | Shavonte Zellous | 167 |
