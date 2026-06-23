@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-23 00:44 UTC_
+_Last updated: 2026-06-23 00:45 UTC_
 
 ## Contents
 
@@ -55,7 +55,7 @@ _Last updated: 2026-06-23 00:44 UTC_
 | 34 | Alana Beard | 4,740 |
 | 35 | Chamique Holdsclaw | 4,713 |
 | 36 | Elena Delle Donne | 4,706 |
-| 37 | **Alyssa Thomas** 🔴 +9 | 4,662 |
+| 37 | **Alyssa Thomas** 🔴 +11 | 4,664 |
 | 38 | Arike Ogunbowale | 4,612 |
 | 39 | Penny Taylor | 4,595 |
 | 40 | Natasha Howard | 4,528 |
@@ -67,7 +67,7 @@ _Last updated: 2026-06-23 00:44 UTC_
 | 46 | **Allisha Gray** 🔴 +16 | 4,355 |
 | 47 | Courtney Vandersloot | 4,352 |
 | 48 | Sophia Young-Malcolm | 4,300 |
-| 49 | **Kahleah Copper** 🔴 +2 | 4,285 |
+| 49 | **Kahleah Copper** 🔴 +5 | 4,288 |
 | 50 | Plenette Pierson | 4,258 |
 | 51 | Monique Currie | 4,253 |
 | 52 | Dearica Hamby | 4,243 |
@@ -184,7 +184,7 @@ _Last updated: 2026-06-23 00:44 UTC_
 | 163 | Chiney Ogwumike | 1,964 |
 | 164 | Nicole Ohlde | 1,959 |
 | 165 | Kedra Holland-Corn | 1,938 |
-| 166 | **Aliyah Boston** 🔴 | 1,928 |
+| 166 | **Aliyah Boston** 🔴 +2 | 1,930 |
 | 167 | Cathrine Kraayeveld | 1,926 |
 | 168 | Roneeka Hodges | 1,925 |
 | 169 | **Myisha Hines-Allen** 🔴 +3 | 1,921 |
@@ -436,7 +436,7 @@ _Last updated: 2026-06-23 00:44 UTC_
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
 | 6 | Chelsea Gray | 1,935 |
-| 7 | **Alyssa Thomas** 🔴 +4 | 1,907 |
+| 7 | **Alyssa Thomas** 🔴 +5 | 1,908 |
 | 8 | **Skylar Diggins** 🔴 +4 | 1,816 |
 | 9 | **Natasha Cloud** 🔴 | 1,772 |
 | 10 | Becky Hammon | 1,705 |
@@ -552,7 +552,7 @@ _Last updated: 2026-06-23 00:44 UTC_
 | 120 | Marie Ferdinand-Harris | 528 |
 | 121 | Margo Dydek | 524 |
 | 122 | **Myisha Hines-Allen** 🔴 +1 | 521 |
-| 123 | **Caitlin Clark** 🔴 +1 | 518 |
+| 123 | **Caitlin Clark** 🔴 +2 | 519 |
 | 124 | Iziane Castro Marques | 509 |
 | 124 | **Rhyne Howard** 🔴 +1 | 509 |
 | 126 | Brittany Boyd-Jones | 508 |
@@ -1096,7 +1096,7 @@ _Last updated: 2026-06-23 00:44 UTC_
 | 49 | Jonquel Jones | 371 |
 | 50 | Epiphanny Prince | 368 |
 | 51 | **Kia Nurse** 🔴 | 364 |
-| 52 | **Kahleah Copper** 🔴 | 355 |
+| 52 | **Kahleah Copper** 🔴 +1 | 356 |
 | 53 | Nykesha Sales | 352 |
 | 54 | Cathrine Kraayeveld | 343 |
 | 54 | Elena Delle Donne | 343 |
