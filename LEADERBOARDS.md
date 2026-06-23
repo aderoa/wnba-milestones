@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-23 01:02 UTC_
+_Last updated: 2026-06-23 01:03 UTC_
 
 ## Contents
 
@@ -296,7 +296,7 @@ _Last updated: 2026-06-23 01:02 UTC_
 | 70 | Nakia Sanford | 1,419 |
 | 71 | **Monique Billings** 🔴 +9 | 1,394 |
 | 72 | Kara Braxton | 1,387 |
-| 73 | **Allisha Gray** 🔴 | 1,384 |
+| 73 | **Allisha Gray** 🔴 +1 | 1,385 |
 | 74 | Courtney Vandersloot | 1,383 |
 | 74 | Katie Smith | 1,383 |
 | 76 | Ebony Hoffman | 1,376 |
@@ -730,10 +730,10 @@ _Last updated: 2026-06-23 01:02 UTC_
 | 91 | **Monique Billings** 🔴 | 129 |
 | 94 | Chiney Ogwumike | 127 |
 | 94 | Kristen Rasmussen | 127 |
-| 96 | Chelsea Gray | 126 |
-| 96 | Katie Douglas | 126 |
-| 96 | Mistie Bass | 126 |
-| 96 | **Olivia Nelson-Ododa** 🔴 +1 | 126 |
+| 94 | **Olivia Nelson-Ododa** 🔴 +2 | 127 |
+| 97 | Chelsea Gray | 126 |
+| 97 | Katie Douglas | 126 |
+| 97 | Mistie Bass | 126 |
 | 100 | Brionna Jones | 125 |
 | 101 | **Alyssa Thomas** 🔴 +1 | 124 |
 | 102 | Natalie Williams | 122 |
@@ -1357,8 +1357,8 @@ _Last updated: 2026-06-23 01:02 UTC_
 | 104 | Wendy Palmer | 517 |
 | 106 | Tully Bevilaqua | 514 |
 | 107 | Jia Perkins | 513 |
-| 108 | **Jordin Canada** 🔴 | 512 |
-| 108 | **Marina Mabrey** 🔴 +2 | 512 |
+| 107 | **Jordin Canada** 🔴 +1 | 513 |
+| 109 | **Marina Mabrey** 🔴 +2 | 512 |
 | 110 | Tamera Young | 501 |
 | 111 | Nikki Teasley | 493 |
 | 111 | Tari Phillips | 493 |
