@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-23 01:14 UTC_
+_Last updated: 2026-06-23 01:15 UTC_
 
 ## Contents
 
@@ -47,7 +47,7 @@ _Last updated: 2026-06-23 01:14 UTC_
 | 26 | Lindsay Whalen | 5,511 |
 | 27 | Swin Cash | 5,119 |
 | 28 | Tangela Smith | 5,035 |
-| 29 | **Kelsey Mitchell** 🔴 +11 | 5,014 |
+| 29 | **Kelsey Mitchell** 🔴 +13 | 5,016 |
 | 30 | Taj McWilliams-Franklin | 4,992 |
 | 31 | Tiffany Hayes | 4,985 |
 | 32 | Maya Moore | 4,984 |
@@ -551,8 +551,8 @@ _Last updated: 2026-06-23 01:14 UTC_
 | 119 | Veronica Burton | 537 |
 | 120 | Marie Ferdinand-Harris | 528 |
 | 121 | Margo Dydek | 524 |
-| 122 | **Caitlin Clark** 🔴 +4 | 521 |
-| 122 | **Myisha Hines-Allen** 🔴 +1 | 521 |
+| 122 | **Caitlin Clark** 🔴 +5 | 522 |
+| 123 | **Myisha Hines-Allen** 🔴 +1 | 521 |
 | 124 | Iziane Castro Marques | 509 |
 | 124 | **Rachel Banham** 🔴 +1 | 509 |
 | 124 | **Rhyne Howard** 🔴 +1 | 509 |
@@ -1221,7 +1221,7 @@ _Last updated: 2026-06-23 01:14 UTC_
 | 174 | Lisa Leslie | 123 |
 | 175 | Sidney Spencer | 122 |
 | 176 | **Jordin Canada** 🔴 +1 | 121 |
-| 177 | **Lexie Hull** 🔴 +1 | 119 |
+| 177 | **Lexie Hull** 🔴 +2 | 120 |
 | 178 | Tonya Edwards | 118 |
 | 179 | **Kennedy Burke** 🔴 +1 | 117 |
 | 180 | Edwige Lawson-Wade | 116 |
@@ -1358,7 +1358,7 @@ _Last updated: 2026-06-23 01:14 UTC_
 | 106 | Tully Bevilaqua | 514 |
 | 107 | Jia Perkins | 513 |
 | 107 | **Jordin Canada** 🔴 +1 | 513 |
-| 109 | **Marina Mabrey** 🔴 +2 | 512 |
+| 107 | **Marina Mabrey** 🔴 +3 | 513 |
 | 110 | Tamera Young | 501 |
 | 111 | Nikki Teasley | 493 |
 | 111 | Tari Phillips | 493 |
@@ -1593,9 +1593,9 @@ _Last updated: 2026-06-23 01:14 UTC_
 | 136 | Barbara Farris | 563 |
 | 137 | Jessica Breland | 562 |
 | 138 | Dawn Staley | 551 |
-| 139 | Glory Johnson | 550 |
-| 139 | **Marina Mabrey** 🔴 +2 | 550 |
-| 139 | Tierra Ruffin-Pratt | 550 |
+| 138 | **Marina Mabrey** 🔴 +3 | 551 |
+| 140 | Glory Johnson | 550 |
+| 140 | Tierra Ruffin-Pratt | 550 |
 | 142 | Erlana Larkins | 546 |
 | 143 | Jayne Appel Marinelli | 543 |
 | 143 | Renee Montgomery | 543 |
