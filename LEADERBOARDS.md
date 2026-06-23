@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-23 01:17 UTC_
+_Last updated: 2026-06-23 01:18 UTC_
 
 ## Contents
 
@@ -184,7 +184,7 @@ _Last updated: 2026-06-23 01:17 UTC_
 | 163 | Chiney Ogwumike | 1,964 |
 | 164 | Nicole Ohlde | 1,959 |
 | 165 | Kedra Holland-Corn | 1,938 |
-| 166 | **Aliyah Boston** 🔴 +6 | 1,934 |
+| 166 | **Aliyah Boston** 🔴 +7 | 1,935 |
 | 167 | Cathrine Kraayeveld | 1,926 |
 | 168 | Roneeka Hodges | 1,925 |
 | 169 | **Myisha Hines-Allen** 🔴 +3 | 1,921 |
@@ -195,7 +195,7 @@ _Last updated: 2026-06-23 01:17 UTC_
 | 174 | Ebony Hoffman | 1,909 |
 | 175 | Candice Wiggins | 1,901 |
 | 176 | Natisha Hiedeman | 1,858 |
-| 177 | **Isabelle Harrison** 🔴 +16 | 1,848 |
+| 177 | **Isabelle Harrison** 🔴 +17 | 1,849 |
 | 178 | Damiris Dantas | 1,830 |
 | 179 | Rachel Banham | 1,826 |
 | 180 | Tianna Hawkins | 1,825 |
@@ -335,8 +335,8 @@ _Last updated: 2026-06-23 01:17 UTC_
 | 109 | Andrea Stinson | 1,127 |
 | 109 | Tamika Raymond | 1,127 |
 | 111 | Adrienne Goodson | 1,126 |
+| 112 | **Aliyah Boston** 🔴 +5 | 1,115 |
 | 112 | NaLyssa Smith | 1,115 |
-| 113 | **Aliyah Boston** 🔴 +4 | 1,114 |
 | 114 | Natasha Cloud | 1,113 |
 | 115 | Deanna Nolan | 1,112 |
 | 116 | Chiney Ogwumike | 1,110 |
