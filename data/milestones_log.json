@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-23T01:00:00+00:00",
+    "text": "Kia Nurse passed Rita Williams for #165 all-time in assists (career 404) \u2014 up from #166 entering today \u2014 (2:37 - 3rd \u2014 TOR @ ATL)",
+    "kind": "rank_pass",
+    "player": "Kia Nurse",
+    "stat": "assists",
+    "rank": 165,
+    "passed_players": [
+      "Rita Williams"
+    ],
+    "new_total": 404
+  },
+  {
     "ts": "2026-06-23T00:34:00+00:00",
     "text": "Kamilla Cardoso passed Allie Quigley and Rebecca Allen for #199 all-time in rebounds (career 704) \u2014 new to top 200 today \u2014 (3:42 - 3rd \u2014 CHI @ CON)",
     "kind": "rank_pass",
@@ -2971,17 +2983,5 @@
       "Tianna Hawkins"
     ],
     "new_total": 663
-  },
-  {
-    "ts": "2026-06-06T20:31:00+00:00",
-    "text": "Jewell Loyd passed Kayla Thornton for #103 all-time in fouls (career 662) \u2014 (2:21 - 3rd \u2014 GS @ LV)",
-    "kind": "rank_pass",
-    "player": "Jewell Loyd",
-    "stat": "fouls",
-    "rank": 103,
-    "passed_players": [
-      "Kayla Thornton"
-    ],
-    "new_total": 662
   }
 ]

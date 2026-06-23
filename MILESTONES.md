@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-23 01:00 UTC
+
+- **Kia Nurse** passed **Rita Williams** for **#165** all-time in assists (career 404) — up from #166 entering today — _2:37 - 3rd — TOR @ ATL_
+
 ## 2026-06-23 00:34 UTC
 
 - **Kamilla Cardoso** passed **Allie Quigley** and **Rebecca Allen** for **#199** all-time in rebounds (career 704) — new to top 200 today — _3:42 - 3rd — CHI @ CON_

@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-23 00:59 UTC_
+_Last updated: 2026-06-23 01:00 UTC_
 
 ## Contents
 
@@ -111,7 +111,7 @@ _Last updated: 2026-06-23 00:59 UTC_
 | 90 | Wendy Palmer | 3,135 |
 | 91 | Shavonte Zellous | 3,103 |
 | 92 | Briann January | 3,082 |
-| 93 | **Marina Mabrey** 🔴 +13 | 3,065 |
+| 93 | **Marina Mabrey** 🔴 +15 | 3,067 |
 | 94 | Erika de Souza | 3,046 |
 | 95 | Sabrina Ionescu | 3,041 |
 | 96 | Shameka Christon | 3,039 |
@@ -594,9 +594,9 @@ _Last updated: 2026-06-23 00:59 UTC_
 | 162 | Jamierra Faulkner | 410 |
 | 162 | Murriel Page | 410 |
 | 164 | Allison Feaster | 406 |
-| 165 | **Julie Allemand** 🔴 +2 | 403 |
-| 165 | **Kia Nurse** 🔴 +1 | 403 |
-| 165 | Rita Williams | 403 |
+| 165 | **Kia Nurse** 🔴 +2 | 404 |
+| 166 | **Julie Allemand** 🔴 +2 | 403 |
+| 166 | Rita Williams | 403 |
 | 168 | Marissa Coleman | 399 |
 | 169 | **Aliyah Boston** 🔴 | 398 |
 | 170 | Jessica Shepard | 395 |
@@ -1530,7 +1530,7 @@ _Last updated: 2026-06-23 00:59 UTC_
 | 73 | Shameka Christon | 734 |
 | 74 | Becky Hammon | 733 |
 | 75 | Latasha Byears | 730 |
-| 76 | **Allisha Gray** 🔴 +1 | 727 |
+| 76 | **Allisha Gray** 🔴 +2 | 728 |
 | 77 | Kristi Toliver | 722 |
 | 78 | **Elizabeth Williams** 🔴 +1 | 721 |
 | 79 | Ariel Atkins | 713 |
