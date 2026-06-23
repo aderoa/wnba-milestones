@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-23 00:20 UTC_
+_Last updated: 2026-06-23 00:21 UTC_
 
 ## Contents
 
@@ -55,7 +55,7 @@ _Last updated: 2026-06-23 00:20 UTC_
 | 34 | Alana Beard | 4,740 |
 | 35 | Chamique Holdsclaw | 4,713 |
 | 36 | Elena Delle Donne | 4,706 |
-| 37 | **Alyssa Thomas** 🔴 +5 | 4,658 |
+| 37 | **Alyssa Thomas** 🔴 +7 | 4,660 |
 | 38 | Arike Ogunbowale | 4,612 |
 | 39 | Penny Taylor | 4,595 |
 | 40 | Natasha Howard | 4,528 |
@@ -235,7 +235,7 @@ _Last updated: 2026-06-23 00:20 UTC_
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
-| 12 | **Alyssa Thomas** 🔴 +1 | 2,818 |
+| 12 | **Alyssa Thomas** 🔴 +2 | 2,819 |
 | 13 | Jonquel Jones | 2,663 |
 | 14 | Sancho Lyttle | 2,596 |
 | 15 | A'ja Wilson | 2,574 |
@@ -337,8 +337,8 @@ _Last updated: 2026-06-23 00:20 UTC_
 | 111 | Adrienne Goodson | 1,126 |
 | 112 | NaLyssa Smith | 1,115 |
 | 113 | **Natasha Cloud** 🔴 +1 | 1,113 |
+| 114 | **Aliyah Boston** 🔴 +2 | 1,112 |
 | 114 | Deanna Nolan | 1,112 |
-| 115 | **Aliyah Boston** 🔴 +1 | 1,111 |
 | 116 | Chiney Ogwumike | 1,110 |
 | 117 | Becky Hammon | 1,108 |
 | 118 | Ann Wauters | 1,105 |
@@ -1427,9 +1427,9 @@ _Last updated: 2026-06-23 00:20 UTC_
 | 176 | Satou Sabally | 330 |
 | 177 | Erlana Larkins | 326 |
 | 177 | Rita Williams | 326 |
+| 179 | **Caitlin Clark** 🔴 +1 | 325 |
 | 179 | Le'coe Willingham | 325 |
-| 180 | **Caitlin Clark** 🔴 | 324 |
-| 180 | Olympia Scott | 324 |
+| 181 | Olympia Scott | 324 |
 | 182 | Gabby Williams | 320 |
 | 183 | **Kia Nurse** 🔴 | 316 |
 | 184 | Barbara Farris | 315 |
