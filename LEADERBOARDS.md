@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-23 01:13 UTC_
+_Last updated: 2026-06-23 01:14 UTC_
 
 ## Contents
 
@@ -184,7 +184,7 @@ _Last updated: 2026-06-23 01:13 UTC_
 | 163 | Chiney Ogwumike | 1,964 |
 | 164 | Nicole Ohlde | 1,959 |
 | 165 | Kedra Holland-Corn | 1,938 |
-| 166 | **Aliyah Boston** 🔴 +2 | 1,930 |
+| 166 | **Aliyah Boston** 🔴 +5 | 1,933 |
 | 167 | Cathrine Kraayeveld | 1,926 |
 | 168 | Roneeka Hodges | 1,925 |
 | 169 | **Myisha Hines-Allen** 🔴 +3 | 1,921 |
