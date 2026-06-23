@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-23 01:16 UTC_
+_Last updated: 2026-06-23 01:17 UTC_
 
 ## Contents
 
@@ -184,7 +184,7 @@ _Last updated: 2026-06-23 01:16 UTC_
 | 163 | Chiney Ogwumike | 1,964 |
 | 164 | Nicole Ohlde | 1,959 |
 | 165 | Kedra Holland-Corn | 1,938 |
-| 166 | **Aliyah Boston** 🔴 +5 | 1,933 |
+| 166 | **Aliyah Boston** 🔴 +6 | 1,934 |
 | 167 | Cathrine Kraayeveld | 1,926 |
 | 168 | Roneeka Hodges | 1,925 |
 | 169 | **Myisha Hines-Allen** 🔴 +3 | 1,921 |
@@ -195,7 +195,7 @@ _Last updated: 2026-06-23 01:16 UTC_
 | 174 | Ebony Hoffman | 1,909 |
 | 175 | Candice Wiggins | 1,901 |
 | 176 | Natisha Hiedeman | 1,858 |
-| 177 | **Isabelle Harrison** 🔴 +14 | 1,846 |
+| 177 | **Isabelle Harrison** 🔴 +16 | 1,848 |
 | 178 | Damiris Dantas | 1,830 |
 | 179 | Rachel Banham | 1,826 |
 | 180 | Tianna Hawkins | 1,825 |
@@ -343,8 +343,8 @@ _Last updated: 2026-06-23 01:16 UTC_
 | 117 | Becky Hammon | 1,108 |
 | 118 | Ann Wauters | 1,105 |
 | 119 | Svetlana Abrosimova | 1,078 |
-| 120 | **Isabelle Harrison** 🔴 +5 | 1,054 |
-| 120 | Le'coe Willingham | 1,054 |
+| 120 | **Isabelle Harrison** 🔴 +6 | 1,055 |
+| 121 | Le'coe Willingham | 1,054 |
 | 122 | Jackie Young | 1,044 |
 | 123 | Nicole Ohlde | 1,040 |
 | 124 | Tamecka Dixon | 1,035 |
@@ -501,7 +501,7 @@ _Last updated: 2026-06-23 01:16 UTC_
 | 69 | Andrea Stinson | 810 |
 | 70 | Tina Thompson | 803 |
 | 71 | Epiphanny Prince | 800 |
-| 72 | **Marina Mabrey** 🔴 +3 | 775 |
+| 72 | **Marina Mabrey** 🔴 +4 | 776 |
 | 73 | Mwadi Mabika | 774 |
 | 74 | **Allisha Gray** 🔴 +3 | 746 |
 | 75 | Sheri Sam | 745 |
@@ -1486,7 +1486,7 @@ _Last updated: 2026-06-23 01:16 UTC_
 | 29 | Lauren Jackson | 982 |
 | 30 | Nakia Sanford | 979 |
 | 31 | Asjha Jones | 971 |
-| 32 | **Alyssa Thomas** 🔴 | 954 |
+| 32 | **Alyssa Thomas** 🔴 +1 | 955 |
 | 33 | Margo Dydek | 950 |
 | 34 | Sancho Lyttle | 947 |
 | 35 | Mwadi Mabika | 941 |
