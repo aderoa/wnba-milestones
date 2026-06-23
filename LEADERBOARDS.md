@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-23 00:52 UTC_
+_Last updated: 2026-06-23 00:53 UTC_
 
 ## Contents
 
@@ -67,7 +67,7 @@ _Last updated: 2026-06-23 00:52 UTC_
 | 46 | **Allisha Gray** 🔴 +16 | 4,355 |
 | 47 | Courtney Vandersloot | 4,352 |
 | 48 | Sophia Young-Malcolm | 4,300 |
-| 49 | **Kahleah Copper** 🔴 +5 | 4,288 |
+| 49 | **Kahleah Copper** 🔴 +9 | 4,292 |
 | 50 | Plenette Pierson | 4,258 |
 | 51 | Monique Currie | 4,253 |
 | 52 | Dearica Hamby | 4,243 |
@@ -143,8 +143,8 @@ _Last updated: 2026-06-23 00:52 UTC_
 | 122 | Glory Johnson | 2,531 |
 | 123 | Nikki McCray | 2,521 |
 | 124 | Crystal Robinson | 2,496 |
-| 125 | Tiffany Mitchell | 2,480 |
-| 126 | **Rhyne Howard** 🔴 +5 | 2,477 |
+| 125 | **Rhyne Howard** 🔴 +11 | 2,483 |
+| 126 | Tiffany Mitchell | 2,480 |
 | 127 | Ruth Riley | 2,434 |
 | 128 | Svetlana Abrosimova | 2,414 |
 | 129 | Anna DeForge | 2,413 |
@@ -457,7 +457,7 @@ _Last updated: 2026-06-23 00:52 UTC_
 | 25 | Katie Smith | 1,258 |
 | 26 | Kelsey Plum | 1,237 |
 | 27 | Odyssey Sims | 1,228 |
-| 28 | **Jordin Canada** 🔴 +6 | 1,207 |
+| 28 | **Jordin Canada** 🔴 +8 | 1,209 |
 | 29 | Vickie Johnson | 1,202 |
 | 30 | Leilani Mitchell | 1,197 |
 | 31 | **DeWanna Bonner** 🔴 | 1,192 |
@@ -1083,8 +1083,8 @@ _Last updated: 2026-06-23 00:52 UTC_
 | 36 | Mwadi Mabika | 415 |
 | 37 | Penny Taylor | 407 |
 | 37 | Riquna Williams | 407 |
-| 39 | Jia Perkins | 396 |
-| 40 | **Rhyne Howard** 🔴 +1 | 395 |
+| 39 | **Rhyne Howard** 🔴 +3 | 397 |
+| 40 | Jia Perkins | 396 |
 | 41 | Alysha Clark | 394 |
 | 42 | Roneeka Hodges | 389 |
 | 43 | Courtney Vandersloot | 385 |
@@ -1096,7 +1096,7 @@ _Last updated: 2026-06-23 00:52 UTC_
 | 49 | Jonquel Jones | 371 |
 | 50 | Epiphanny Prince | 368 |
 | 51 | **Kia Nurse** 🔴 | 364 |
-| 52 | **Kahleah Copper** 🔴 +1 | 356 |
+| 52 | **Kahleah Copper** 🔴 +2 | 357 |
 | 53 | Nykesha Sales | 352 |
 | 54 | Cathrine Kraayeveld | 343 |
 | 54 | Elena Delle Donne | 343 |
