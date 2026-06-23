@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-23 01:39 UTC_
+_Last updated: 2026-06-23 01:40 UTC_
 
 ## Contents
 
@@ -160,7 +160,7 @@ _Last updated: 2026-06-23 01:39 UTC_
 | 139 | Shekinna Stricklen | 2,245 |
 | 140 | Kara Braxton | 2,237 |
 | 140 | Matee Ajavon | 2,237 |
-| 142 | **Kia Nurse** 🔴 | 2,231 |
+| 142 | **Kia Nurse** 🔴 +1 | 2,232 |
 | 143 | Dawn Staley | 2,228 |
 | 144 | Teaira McCowan | 2,221 |
 | 145 | Janel McCarville | 2,215 |
@@ -367,7 +367,7 @@ _Last updated: 2026-06-23 01:39 UTC_
 | 141 | Dominique Canty | 961 |
 | 142 | Armintie Herrington | 960 |
 | 143 | Janell Burse | 944 |
-| 144 | **Angel Reese** 🔴 +8 | 931 |
+| 144 | **Angel Reese** 🔴 +9 | 932 |
 | 145 | Jessica Shepard | 927 |
 | 145 | Merlakia Jones | 927 |
 | 147 | Satou Sabally | 926 |
@@ -1610,8 +1610,8 @@ _Last updated: 2026-06-23 01:39 UTC_
 | 153 | Armintie Herrington | 523 |
 | 153 | **Sophie Cunningham** 🔴 | 523 |
 | 155 | Kayla McBride | 522 |
+| 156 | **Monique Billings** 🔴 +2 | 519 |
 | 156 | Sheryl Swoopes | 519 |
-| 157 | **Monique Billings** 🔴 +1 | 518 |
 | 158 | Nikki McCray | 517 |
 | 159 | Alex Bentley | 516 |
 | 159 | **Myisha Hines-Allen** 🔴 | 516 |
