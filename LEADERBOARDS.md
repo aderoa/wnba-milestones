@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-23 02:15 UTC_
+_Last updated: 2026-06-23 02:16 UTC_
 
 ## Contents
 
@@ -577,7 +577,7 @@ _Last updated: 2026-06-23 02:15 UTC_
 | 144 | Kristi Harrower | 450 |
 | 144 | Nikki McCray | 450 |
 | 147 | Ruth Riley | 449 |
-| 148 | Sug Sutton | 447 |
+| 148 | **Sug Sutton** 🔴 | 447 |
 | 149 | DeMya Walker | 446 |
 | 150 | Essence Carson | 445 |
 | 151 | Michelle Snow | 437 |
@@ -597,9 +597,9 @@ _Last updated: 2026-06-23 02:15 UTC_
 | 164 | Kia Nurse | 406 |
 | 166 | Julie Allemand | 404 |
 | 167 | Rita Williams | 403 |
+| 168 | **Jessica Shepard** 🔴 +4 | 399 |
 | 168 | Marissa Coleman | 399 |
-| 169 | **Aliyah Boston** 🔴 | 398 |
-| 169 | **Jessica Shepard** 🔴 +3 | 398 |
+| 170 | **Aliyah Boston** 🔴 | 398 |
 | 171 | Stacey Dales | 395 |
 | 172 | Sugar Rodgers | 393 |
 | 173 | Shameka Christon | 389 |
