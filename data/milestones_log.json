@@ -1,5 +1,14 @@
 [
   {
+    "ts": "2026-06-23T03:49:00+00:00",
+    "text": "Dominique Malonga reached 400 career points (now 401) \u2014 (14.7 - 4th \u2014 DAL @ SEA)",
+    "kind": "round",
+    "player": "Dominique Malonga",
+    "stat": "points",
+    "value": 400,
+    "new_total": 401
+  },
+  {
     "ts": "2026-06-23T01:08:00+00:00",
     "text": "Kamilla Cardoso passed Rushia Brown for #198 all-time in rebounds (career 707) \u2014 new to top 200 today \u2014 (3:11 - 4th \u2014 CHI @ CON)",
     "kind": "rank_pass",
@@ -2973,17 +2982,5 @@
       "Tanisha Wright"
     ],
     "new_total": 139
-  },
-  {
-    "ts": "2026-06-06T20:42:00+00:00",
-    "text": "Tiffany Hayes passed Ariel Atkins for #28 all-time in three-pointers (career 452) \u2014 up from #29 entering today \u2014 (8:46 - 4th \u2014 GS @ LV)",
-    "kind": "rank_pass",
-    "player": "Tiffany Hayes",
-    "stat": "three-pointers",
-    "rank": 28,
-    "passed_players": [
-      "Ariel Atkins"
-    ],
-    "new_total": 452
   }
 ]

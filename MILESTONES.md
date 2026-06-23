@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-23 03:49 UTC
+
+- **Dominique Malonga** reached **400** career points (now 401) — _14.7 - 4th — DAL @ SEA_
+
 ## 2026-06-23 01:08 UTC
 
 - **Kamilla Cardoso** passed **Rushia Brown** for **#198** all-time in rebounds (career 707) — new to top 200 today — _3:11 - 4th — CHI @ CON_
