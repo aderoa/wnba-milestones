@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-23 01:26 UTC_
+_Last updated: 2026-06-23 01:27 UTC_
 
 ## Contents
 
@@ -111,7 +111,7 @@ _Last updated: 2026-06-23 01:26 UTC_
 | 90 | Wendy Palmer | 3,135 |
 | 91 | Shavonte Zellous | 3,103 |
 | 92 | Briann January | 3,082 |
-| 93 | **Marina Mabrey** 🔴 +21 | 3,073 |
+| 93 | **Marina Mabrey** 🔴 +23 | 3,075 |
 | 94 | Erika de Souza | 3,046 |
 | 95 | Sabrina Ionescu | 3,041 |
 | 96 | Shameka Christon | 3,039 |
@@ -335,7 +335,7 @@ _Last updated: 2026-06-23 01:26 UTC_
 | 109 | Andrea Stinson | 1,127 |
 | 109 | Tamika Raymond | 1,127 |
 | 111 | Adrienne Goodson | 1,126 |
-| 112 | **Aliyah Boston** 🔴 +6 | 1,116 |
+| 112 | **Aliyah Boston** 🔴 +7 | 1,117 |
 | 113 | NaLyssa Smith | 1,115 |
 | 114 | Natasha Cloud | 1,113 |
 | 115 | Deanna Nolan | 1,112 |
@@ -770,9 +770,9 @@ _Last updated: 2026-06-23 01:26 UTC_
 | 133 | Mwadi Mabika | 98 |
 | 133 | Natalie Achonwa | 98 |
 | 135 | Aneika Morello | 96 |
+| 135 | **Isabelle Harrison** 🔴 +1 | 96 |
 | 135 | Tiffani Johnson | 96 |
-| 137 | Imani McGee-Stafford | 95 |
-| 137 | **Isabelle Harrison** 🔴 | 95 |
+| 138 | Imani McGee-Stafford | 95 |
 | 139 | Jewell Loyd | 94 |
 | 139 | NaLyssa Smith | 94 |
 | 139 | Sandrine Gruda | 94 |
@@ -1437,7 +1437,7 @@ _Last updated: 2026-06-23 01:26 UTC_
 | 185 | Moriah Jefferson | 314 |
 | 186 | Alex Bentley | 313 |
 | 187 | Tamika Raymond | 311 |
-| 188 | **Monique Billings** 🔴 +2 | 309 |
+| 188 | **Monique Billings** 🔴 +3 | 310 |
 | 189 | Erin Perperoglou | 305 |
 | 189 | Jennifer Lacy | 305 |
 | 191 | Tianna Hawkins | 303 |
@@ -1611,8 +1611,8 @@ _Last updated: 2026-06-23 01:26 UTC_
 | 153 | **Sophie Cunningham** 🔴 | 523 |
 | 155 | Kayla McBride | 522 |
 | 156 | Sheryl Swoopes | 519 |
-| 157 | **Monique Billings** 🔴 | 517 |
-| 157 | Nikki McCray | 517 |
+| 157 | **Monique Billings** 🔴 +1 | 518 |
+| 158 | Nikki McCray | 517 |
 | 159 | Alex Bentley | 516 |
 | 159 | **Myisha Hines-Allen** 🔴 | 516 |
 | 161 | Jantel Lavender | 513 |
