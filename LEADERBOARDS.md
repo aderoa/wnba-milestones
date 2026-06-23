@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-23 02:33 UTC_
+_Last updated: 2026-06-23 02:34 UTC_
 
 ## Contents
 
@@ -412,7 +412,7 @@ _Last updated: 2026-06-23 02:33 UTC_
 | 186 | Layshia Clarendon | 756 |
 | 187 | Brooke Wyckoff | 751 |
 | 188 | Coco Miller | 750 |
-| 189 | **Arike Ogunbowale** 🔴 | 748 |
+| 189 | **Arike Ogunbowale** 🔴 +1 | 749 |
 | 190 | Alex Montgomery | 735 |
 | 191 | Ashley Robinson | 734 |
 | 192 | Shenise Johnson | 729 |
@@ -481,8 +481,8 @@ _Last updated: 2026-06-23 02:33 UTC_
 | 49 | Tiffany Hayes | 936 |
 | 50 | Deanna Nolan | 930 |
 | 51 | Kelly Miller | 927 |
+| 52 | **Arike Ogunbowale** 🔴 +3 | 921 |
 | 52 | DeLisha Milton-Jones | 921 |
-| 53 | **Arike Ogunbowale** 🔴 +2 | 920 |
 | 54 | Nneka Ogwumike | 917 |
 | 55 | Angel McCoughtry | 915 |
 | 56 | Layshia Clarendon | 911 |
@@ -1447,7 +1447,7 @@ _Last updated: 2026-06-23 02:33 UTC_
 | 195 | Rachel Banham | 296 |
 | 196 | Kayla Thornton | 294 |
 | 197 | Azurá Stevens | 293 |
-| 198 | **Natisha Hiedeman** 🔴 +1 | 290 |
+| 198 | **Natisha Hiedeman** 🔴 +2 | 291 |
 | 199 | Alexis Hornbuckle | 288 |
 | 199 | Kristen Rasmussen | 288 |
 
