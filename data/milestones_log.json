@@ -1,5 +1,14 @@
 [
   {
+    "ts": "2026-06-23T04:07:00+00:00",
+    "text": "Zia Cooke reached 500 career points (now 501) \u2014 (39.1 - OT \u2014 DAL @ SEA)",
+    "kind": "round",
+    "player": "Zia Cooke",
+    "stat": "points",
+    "value": 500,
+    "new_total": 501
+  },
+  {
     "ts": "2026-06-23T03:49:00+00:00",
     "text": "Dominique Malonga reached 400 career points (now 401) \u2014 (14.7 - 4th \u2014 DAL @ SEA)",
     "kind": "round",
@@ -2969,18 +2978,5 @@
       "Lindsey Harding"
     ],
     "new_total": 1091
-  },
-  {
-    "ts": "2026-06-06T20:57:00+00:00",
-    "text": "Gabby Williams passed Loree Moore and Tanisha Wright for #158 all-time in three-pointers (career 139) \u2014 up from #160 entering today \u2014 (3:26 - 4th \u2014 GS @ LV)",
-    "kind": "rank_pass",
-    "player": "Gabby Williams",
-    "stat": "three-pointers",
-    "rank": 158,
-    "passed_players": [
-      "Loree Moore",
-      "Tanisha Wright"
-    ],
-    "new_total": 139
   }
 ]
