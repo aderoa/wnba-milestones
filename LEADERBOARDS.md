@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-23 00:49 UTC_
+_Last updated: 2026-06-23 00:50 UTC_
 
 ## Contents
 
@@ -111,7 +111,7 @@ _Last updated: 2026-06-23 00:49 UTC_
 | 90 | Wendy Palmer | 3,135 |
 | 91 | Shavonte Zellous | 3,103 |
 | 92 | Briann January | 3,082 |
-| 93 | **Marina Mabrey** 🔴 +8 | 3,060 |
+| 93 | **Marina Mabrey** 🔴 +11 | 3,063 |
 | 94 | Erika de Souza | 3,046 |
 | 95 | Sabrina Ionescu | 3,041 |
 | 96 | Shameka Christon | 3,039 |
@@ -156,8 +156,8 @@ _Last updated: 2026-06-23 00:49 UTC_
 | 135 | Betnijah Laney-Hamilton | 2,282 |
 | 136 | **Azurá Stevens** 🔴 +11 | 2,270 |
 | 137 | Allison Feaster | 2,258 |
-| 138 | Shekinna Stricklen | 2,245 |
-| 139 | **Jordin Canada** 🔴 +7 | 2,244 |
+| 138 | **Jordin Canada** 🔴 +9 | 2,246 |
+| 139 | Shekinna Stricklen | 2,245 |
 | 140 | Kara Braxton | 2,237 |
 | 140 | Matee Ajavon | 2,237 |
 | 142 | **Kia Nurse** 🔴 | 2,231 |
@@ -996,8 +996,8 @@ _Last updated: 2026-06-23 00:49 UTC_
 | 153 | Candice Wiggins | 215 |
 | 153 | Cheyenne Parker-Tyus | 215 |
 | 153 | Elena Baranova | 215 |
+| 157 | **Marina Mabrey** 🔴 +1 | 213 |
 | 157 | Shekinna Stricklen | 213 |
-| 158 | **Marina Mabrey** 🔴 | 212 |
 | 159 | Nikki Teasley | 211 |
 | 160 | Iziane Castro Marques | 209 |
 | 160 | Tiffany Mitchell | 209 |
@@ -1068,7 +1068,7 @@ _Last updated: 2026-06-23 00:49 UTC_
 | 21 | Allie Quigley | 510 |
 | 22 | Leilani Mitchell | 508 |
 | 23 | Shekinna Stricklen | 468 |
-| 24 | **Marina Mabrey** 🔴 +1 | 466 |
+| 24 | **Marina Mabrey** 🔴 +2 | 467 |
 | 25 | Cappie Pondexter | 464 |
 | 26 | Sabrina Ionescu | 462 |
 | 27 | Breanna Stewart | 460 |
