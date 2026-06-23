@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-23 00:58 UTC_
+_Last updated: 2026-06-23 00:59 UTC_
 
 ## Contents
 
@@ -422,7 +422,7 @@ _Last updated: 2026-06-23 00:58 UTC_
 | 196 | Olympia Scott | 711 |
 | 197 | Katie Mattera | 708 |
 | 198 | Rushia Brown | 706 |
-| 199 | **Kamilla Cardoso** 🔴 +10 | 703 |
+| 199 | **Kamilla Cardoso** 🔴 +11 | 704 |
 | 200 | Allie Quigley | 702 |
 | 200 | Rebecca Allen | 702 |
 
@@ -1368,8 +1368,8 @@ _Last updated: 2026-06-23 00:58 UTC_
 | 116 | Natalie Williams | 480 |
 | 117 | Ebony Hoffman | 470 |
 | 118 | Elaine Powell | 469 |
-| 119 | Allie Quigley | 467 |
-| 119 | **Allisha Gray** 🔴 +1 | 467 |
+| 119 | **Allisha Gray** 🔴 +2 | 468 |
+| 120 | Allie Quigley | 467 |
 | 121 | A'ja Wilson | 466 |
 | 122 | Ariel Atkins | 454 |
 | 122 | Kia Vaughn | 454 |
