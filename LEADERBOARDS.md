@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-23 00:10 UTC_
+_Last updated: 2026-06-23 00:11 UTC_
 
 ## Contents
 
@@ -55,7 +55,7 @@ _Last updated: 2026-06-23 00:10 UTC_
 | 34 | Alana Beard | 4,740 |
 | 35 | Chamique Holdsclaw | 4,713 |
 | 36 | Elena Delle Donne | 4,706 |
-| 37 | **Alyssa Thomas** 🔴 | 4,653 |
+| 37 | **Alyssa Thomas** 🔴 +2 | 4,655 |
 | 38 | Arike Ogunbowale | 4,612 |
 | 39 | Penny Taylor | 4,595 |
 | 40 | Natasha Howard | 4,528 |
@@ -295,7 +295,7 @@ _Last updated: 2026-06-23 00:10 UTC_
 | 69 | Alana Beard | 1,420 |
 | 70 | Nakia Sanford | 1,419 |
 | 71 | Kara Braxton | 1,387 |
-| 72 | **Monique Billings** 🔴 | 1,385 |
+| 72 | **Monique Billings** 🔴 +1 | 1,386 |
 | 73 | **Allisha Gray** 🔴 | 1,384 |
 | 74 | Courtney Vandersloot | 1,383 |
 | 74 | Katie Smith | 1,383 |
@@ -338,8 +338,8 @@ _Last updated: 2026-06-23 00:10 UTC_
 | 112 | NaLyssa Smith | 1,115 |
 | 113 | **Natasha Cloud** 🔴 +1 | 1,113 |
 | 114 | Deanna Nolan | 1,112 |
-| 115 | **Aliyah Boston** 🔴 | 1,110 |
-| 115 | Chiney Ogwumike | 1,110 |
+| 115 | **Aliyah Boston** 🔴 +1 | 1,111 |
+| 116 | Chiney Ogwumike | 1,110 |
 | 117 | Becky Hammon | 1,108 |
 | 118 | Ann Wauters | 1,105 |
 | 119 | Svetlana Abrosimova | 1,078 |
@@ -496,7 +496,7 @@ _Last updated: 2026-06-23 00:10 UTC_
 | 65 | Tully Bevilaqua | 853 |
 | 66 | Brittney Sykes | 852 |
 | 67 | Jia Perkins | 837 |
-| 68 | **Kelsey Mitchell** 🔴 | 821 |
+| 68 | **Kelsey Mitchell** 🔴 +1 | 822 |
 | 69 | Andrea Stinson | 810 |
 | 70 | Tina Thompson | 803 |
 | 71 | Epiphanny Prince | 800 |
@@ -734,7 +734,7 @@ _Last updated: 2026-06-23 00:10 UTC_
 | 96 | Mistie Bass | 126 |
 | 96 | **Olivia Nelson-Ododa** 🔴 +1 | 126 |
 | 100 | Brionna Jones | 125 |
-| 101 | **Alyssa Thomas** 🔴 | 123 |
+| 101 | **Alyssa Thomas** 🔴 +1 | 124 |
 | 102 | Natalie Williams | 122 |
 | 103 | Ebony Hoffman | 121 |
 | 103 | Essence Carson | 121 |
@@ -851,8 +851,8 @@ _Last updated: 2026-06-23 00:10 UTC_
 | 10 | Angel McCoughtry | 627 |
 | 11 | Katie Douglas | 623 |
 | 12 | DeLisha Milton-Jones | 619 |
+| 13 | **Alyssa Thomas** 🔴 +1 | 577 |
 | 13 | Taj McWilliams-Franklin | 577 |
-| 14 | **Alyssa Thomas** 🔴 | 576 |
 | 15 | Tully Bevilaqua | 571 |
 | 16 | Courtney Vandersloot | 544 |
 | 17 | Yolanda Griffith | 527 |
@@ -1220,8 +1220,8 @@ _Last updated: 2026-06-23 00:10 UTC_
 | 174 | Lisa Leslie | 123 |
 | 175 | Sidney Spencer | 122 |
 | 176 | **Jordin Canada** 🔴 +1 | 121 |
-| 177 | **Lexie Hull** 🔴 | 118 |
-| 177 | Tonya Edwards | 118 |
+| 177 | **Lexie Hull** 🔴 +1 | 119 |
+| 178 | Tonya Edwards | 118 |
 | 179 | **Kennedy Burke** 🔴 +1 | 117 |
 | 180 | Edwige Lawson-Wade | 116 |
 | 180 | Marie Ferdinand-Harris | 116 |
