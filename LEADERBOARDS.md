@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-23 02:00 UTC_
+_Last updated: 2026-06-23 02:01 UTC_
 
 ## Contents
 
@@ -66,8 +66,8 @@ _Last updated: 2026-06-23 02:00 UTC_
 | 45 | Kelsey Plum | 4,395 |
 | 46 | Allisha Gray | 4,357 |
 | 47 | Courtney Vandersloot | 4,352 |
-| 48 | Sophia Young-Malcolm | 4,300 |
-| 49 | **Kahleah Copper** 🔴 +16 | 4,299 |
+| 48 | **Kahleah Copper** 🔴 +18 | 4,301 |
+| 49 | Sophia Young-Malcolm | 4,300 |
 | 50 | Plenette Pierson | 4,258 |
 | 51 | Monique Currie | 4,253 |
 | 52 | Dearica Hamby | 4,243 |
@@ -1525,7 +1525,7 @@ _Last updated: 2026-06-23 02:00 UTC_
 | 67 | Natasha Cloud | 755 |
 | 69 | Vickie Johnson | 752 |
 | 70 | Kara Braxton | 748 |
-| 71 | **Kahleah Copper** 🔴 +3 | 741 |
+| 71 | **Kahleah Copper** 🔴 +4 | 742 |
 | 72 | Crystal Langhorne | 737 |
 | 73 | Shameka Christon | 734 |
 | 74 | Becky Hammon | 733 |
@@ -1575,8 +1575,8 @@ _Last updated: 2026-06-23 02:00 UTC_
 | 118 | Svetlana Abrosimova | 613 |
 | 119 | Odyssey Sims | 610 |
 | 120 | Layshia Clarendon | 609 |
+| 121 | **Kelsey Mitchell** 🔴 +3 | 604 |
 | 121 | Tiffany Mitchell | 604 |
-| 122 | **Kelsey Mitchell** 🔴 +2 | 603 |
 | 123 | Janel McCarville | 597 |
 | 124 | Kamila Vodichkova | 596 |
 | 125 | Teresa Weatherspoon | 589 |
