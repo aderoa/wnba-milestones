@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-23 01:04 UTC_
+_Last updated: 2026-06-23 01:05 UTC_
 
 ## Contents
 
@@ -595,8 +595,8 @@ _Last updated: 2026-06-23 01:04 UTC_
 | 162 | Murriel Page | 410 |
 | 164 | Allison Feaster | 406 |
 | 165 | **Kia Nurse** 🔴 +3 | 405 |
-| 166 | **Julie Allemand** 🔴 +2 | 403 |
-| 166 | Rita Williams | 403 |
+| 166 | **Julie Allemand** 🔴 +3 | 404 |
+| 167 | Rita Williams | 403 |
 | 168 | Marissa Coleman | 399 |
 | 169 | **Aliyah Boston** 🔴 | 398 |
 | 170 | Jessica Shepard | 395 |
@@ -746,7 +746,7 @@ _Last updated: 2026-06-23 01:04 UTC_
 | 107 | **Natasha Mack** 🔴 | 117 |
 | 110 | Monique Currie | 114 |
 | 111 | Ariel Atkins | 113 |
-| 112 | **Kamilla Cardoso** 🔴 +1 | 112 |
+| 111 | **Kamilla Cardoso** 🔴 +2 | 113 |
 | 113 | Amanda Lassiter | 111 |
 | 113 | Kamila Vodichkova | 111 |
 | 113 | Sophia Young-Malcolm | 111 |
@@ -1633,7 +1633,7 @@ _Last updated: 2026-06-23 01:04 UTC_
 | 176 | Karima Christmas-Kelly | 494 |
 | 177 | Ann Wauters | 493 |
 | 177 | Riquna Williams | 493 |
-| 179 | **Rachel Banham** 🔴 | 490 |
+| 179 | **Rachel Banham** 🔴 +1 | 491 |
 | 180 | Charde Houston | 487 |
 | 181 | Lindsey Harding | 486 |
 | 182 | **Isabelle Harrison** 🔴 +1 | 485 |
