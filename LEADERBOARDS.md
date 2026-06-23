@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-23 01:07 UTC_
+_Last updated: 2026-06-23 01:08 UTC_
 
 ## Contents
 
@@ -421,8 +421,8 @@ _Last updated: 2026-06-23 01:07 UTC_
 | 194 | Shekinna Stricklen | 726 |
 | 196 | Olympia Scott | 711 |
 | 197 | Katie Mattera | 708 |
-| 198 | **Kamilla Cardoso** 🔴 +13 | 706 |
-| 198 | Rushia Brown | 706 |
+| 198 | **Kamilla Cardoso** 🔴 +14 | 707 |
+| 199 | Rushia Brown | 706 |
 | 200 | Allie Quigley | 702 |
 | 200 | Rebecca Allen | 702 |
 
@@ -554,10 +554,10 @@ _Last updated: 2026-06-23 01:07 UTC_
 | 122 | **Caitlin Clark** 🔴 +4 | 521 |
 | 122 | **Myisha Hines-Allen** 🔴 +1 | 521 |
 | 124 | Iziane Castro Marques | 509 |
+| 124 | **Rachel Banham** 🔴 +1 | 509 |
 | 124 | **Rhyne Howard** 🔴 +1 | 509 |
-| 126 | Brittany Boyd-Jones | 508 |
-| 126 | Chasity Melvin | 508 |
-| 126 | **Rachel Banham** 🔴 | 508 |
+| 127 | Brittany Boyd-Jones | 508 |
+| 127 | Chasity Melvin | 508 |
 | 129 | Anna DeForge | 503 |
 | 129 | Coco Miller | 503 |
 | 131 | Crystal Robinson | 488 |
