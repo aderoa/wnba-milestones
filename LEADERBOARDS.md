@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-23 02:10 UTC_
+_Last updated: 2026-06-23 02:11 UTC_
 
 ## Contents
 
@@ -206,7 +206,7 @@ _Last updated: 2026-06-23 02:10 UTC_
 | 185 | Kamila Vodichkova | 1,767 |
 | 186 | Tully Bevilaqua | 1,763 |
 | 187 | Sandy Brondello | 1,759 |
-| 188 | **Sophie Cunningham** 🔴 | 1,752 |
+| 188 | **Sophie Cunningham** 🔴 +2 | 1,754 |
 | 189 | Sugar Rodgers | 1,733 |
 | 190 | Gabby Williams | 1,723 |
 | 191 | Moriah Jefferson | 1,722 |
@@ -335,7 +335,7 @@ _Last updated: 2026-06-23 02:10 UTC_
 | 109 | Andrea Stinson | 1,127 |
 | 109 | Tamika Raymond | 1,127 |
 | 111 | Adrienne Goodson | 1,126 |
-| 112 | **Aliyah Boston** 🔴 +8 | 1,118 |
+| 112 | **Aliyah Boston** 🔴 +9 | 1,119 |
 | 113 | NaLyssa Smith | 1,115 |
 | 114 | Natasha Cloud | 1,113 |
 | 115 | Deanna Nolan | 1,112 |
