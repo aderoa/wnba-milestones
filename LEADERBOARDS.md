@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-23 00:33 UTC_
+_Last updated: 2026-06-23 00:34 UTC_
 
 ## Contents
 
@@ -240,7 +240,7 @@ _Last updated: 2026-06-23 00:33 UTC_
 | 14 | Sancho Lyttle | 2,596 |
 | 15 | A'ja Wilson | 2,574 |
 | 15 | DeLisha Milton-Jones | 2,574 |
-| 17 | **Brittney Griner** 🔴 +6 | 2,562 |
+| 17 | **Brittney Griner** 🔴 +7 | 2,563 |
 | 18 | Breanna Stewart | 2,560 |
 | 19 | Swin Cash | 2,521 |
 | 20 | Michelle Snow | 2,476 |
@@ -294,7 +294,7 @@ _Last updated: 2026-06-23 00:33 UTC_
 | 68 | Tamera Young | 1,433 |
 | 69 | Alana Beard | 1,420 |
 | 70 | Nakia Sanford | 1,419 |
-| 71 | **Monique Billings** 🔴 +7 | 1,392 |
+| 71 | **Monique Billings** 🔴 +8 | 1,393 |
 | 72 | Kara Braxton | 1,387 |
 | 73 | **Allisha Gray** 🔴 | 1,384 |
 | 74 | Courtney Vandersloot | 1,383 |
@@ -313,7 +313,7 @@ _Last updated: 2026-06-23 00:33 UTC_
 | 87 | Betty Lennox | 1,296 |
 | 88 | Tari Phillips | 1,274 |
 | 89 | Janel McCarville | 1,261 |
-| 90 | **Azurá Stevens** 🔴 +4 | 1,260 |
+| 90 | **Azurá Stevens** 🔴 +3 | 1,259 |
 | 91 | Liz Cambage | 1,258 |
 | 92 | Tiffany Hayes | 1,244 |
 | 93 | Ezi Magbegor | 1,243 |
@@ -422,9 +422,9 @@ _Last updated: 2026-06-23 00:33 UTC_
 | 196 | Olympia Scott | 711 |
 | 197 | Katie Mattera | 708 |
 | 198 | Rushia Brown | 706 |
-| 199 | Allie Quigley | 702 |
-| 199 | **Kamilla Cardoso** 🔴 +9 | 702 |
-| 199 | Rebecca Allen | 702 |
+| 199 | **Kamilla Cardoso** 🔴 +11 | 704 |
+| 200 | Allie Quigley | 702 |
+| 200 | Rebecca Allen | 702 |
 
 ## Assists
 
@@ -437,7 +437,7 @@ _Last updated: 2026-06-23 00:33 UTC_
 | 5 | Lindsay Whalen | 2,347 |
 | 6 | Chelsea Gray | 1,935 |
 | 7 | **Alyssa Thomas** 🔴 +2 | 1,905 |
-| 8 | **Skylar Diggins** 🔴 +3 | 1,815 |
+| 8 | **Skylar Diggins** 🔴 +4 | 1,816 |
 | 9 | **Natasha Cloud** 🔴 | 1,772 |
 | 10 | Becky Hammon | 1,705 |
 | 11 | Candace Parker | 1,634 |
@@ -869,8 +869,8 @@ _Last updated: 2026-06-23 00:33 UTC_
 | 27 | Sophia Young-Malcolm | 477 |
 | 28 | Teresa Weatherspoon | 463 |
 | 29 | Rebekkah Brunson | 456 |
-| 30 | **Skylar Diggins** 🔴 +1 | 455 |
-| 30 | Tangela Smith | 455 |
+| 29 | **Skylar Diggins** 🔴 +2 | 456 |
+| 31 | Tangela Smith | 455 |
 | 32 | Tina Thompson | 452 |
 | 33 | Maya Moore | 449 |
 | 34 | Natasha Howard | 447 |
@@ -1426,10 +1426,10 @@ _Last updated: 2026-06-23 00:33 UTC_
 | 173 | Diamond DeShields | 333 |
 | 175 | Charde Houston | 331 |
 | 176 | Satou Sabally | 330 |
+| 177 | **Caitlin Clark** 🔴 +2 | 326 |
 | 177 | Erlana Larkins | 326 |
 | 177 | Rita Williams | 326 |
-| 179 | **Caitlin Clark** 🔴 +1 | 325 |
-| 179 | Le'coe Willingham | 325 |
+| 180 | Le'coe Willingham | 325 |
 | 181 | Olympia Scott | 324 |
 | 182 | Gabby Williams | 320 |
 | 183 | **Kia Nurse** 🔴 | 316 |

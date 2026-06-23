@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-23 00:34 UTC
+
+- **Kamilla Cardoso** passed **Allie Quigley** and **Rebecca Allen** for **#199** all-time in rebounds (career 704) — new to top 200 today — _3:42 - 3rd — CHI @ CON_
+
 ## 2026-06-22 02:02 UTC
 
 - **Satou Sabally** passed **Erin Phillips** for **#138** all-time in assists (career 463) — up from #140 entering today — _2:27 - 4th — NY @ LA_
