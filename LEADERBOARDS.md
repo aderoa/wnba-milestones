@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-23 00:34 UTC_
+_Last updated: 2026-06-23 00:35 UTC_
 
 ## Contents
 
@@ -117,7 +117,7 @@ _Last updated: 2026-06-23 00:34 UTC_
 | 96 | Shameka Christon | 3,039 |
 | 97 | Marie Ferdinand-Harris | 3,001 |
 | 98 | Emma Meesseman | 2,966 |
-| 99 | **Natasha Cloud** 🔴 +2 | 2,954 |
+| 99 | **Natasha Cloud** 🔴 +4 | 2,956 |
 | 100 | **Elizabeth Williams** 🔴 +2 | 2,898 |
 | 101 | Natalie Williams | 2,894 |
 | 102 | Jennifer Gillom | 2,888 |
@@ -187,10 +187,10 @@ _Last updated: 2026-06-23 00:34 UTC_
 | 166 | **Aliyah Boston** 🔴 | 1,928 |
 | 167 | Cathrine Kraayeveld | 1,926 |
 | 168 | Roneeka Hodges | 1,925 |
-| 169 | Latasha Byears | 1,920 |
-| 170 | Karima Christmas-Kelly | 1,919 |
-| 171 | Jessica Breland | 1,918 |
-| 171 | **Myisha Hines-Allen** 🔴 | 1,918 |
+| 169 | **Myisha Hines-Allen** 🔴 +3 | 1,921 |
+| 170 | Latasha Byears | 1,920 |
+| 171 | Karima Christmas-Kelly | 1,919 |
+| 172 | Jessica Breland | 1,918 |
 | 173 | Nakia Sanford | 1,915 |
 | 174 | Ebony Hoffman | 1,909 |
 | 175 | Candice Wiggins | 1,901 |
@@ -552,7 +552,7 @@ _Last updated: 2026-06-23 00:34 UTC_
 | 120 | Marie Ferdinand-Harris | 528 |
 | 121 | Margo Dydek | 524 |
 | 122 | **Myisha Hines-Allen** 🔴 | 520 |
-| 123 | **Caitlin Clark** 🔴 | 517 |
+| 123 | **Caitlin Clark** 🔴 +1 | 518 |
 | 124 | Iziane Castro Marques | 509 |
 | 124 | **Rhyne Howard** 🔴 +1 | 509 |
 | 126 | Brittany Boyd-Jones | 508 |
@@ -1213,8 +1213,8 @@ _Last updated: 2026-06-23 00:34 UTC_
 | 166 | Amanda Zahui B | 130 |
 | 166 | Eva Nemcova | 130 |
 | 168 | Crystal Dangerfield | 129 |
-| 169 | **Myisha Hines-Allen** 🔴 | 128 |
-| 169 | Ticha Penicheiro | 128 |
+| 168 | **Myisha Hines-Allen** 🔴 +1 | 129 |
+| 170 | Ticha Penicheiro | 128 |
 | 171 | Michele Timms | 127 |
 | 172 | Tamecka Dixon | 126 |
 | 173 | Charde Houston | 124 |
@@ -1262,7 +1262,7 @@ _Last updated: 2026-06-23 00:34 UTC_
 | 10 | Candace Parker | 1,062 |
 | 11 | Tamika Catchings | 1,041 |
 | 12 | Tina Charles | 1,040 |
-| 13 | **Alyssa Thomas** 🔴 | 1,003 |
+| 13 | **Alyssa Thomas** 🔴 +1 | 1,004 |
 | 14 | Lindsay Whalen | 1,002 |
 | 15 | Sylvia Fowles | 961 |
 | 16 | Tanisha Wright | 954 |
@@ -1290,7 +1290,7 @@ _Last updated: 2026-06-23 00:34 UTC_
 | 38 | Margo Dydek | 758 |
 | 39 | Tangela Smith | 751 |
 | 40 | Kristi Toliver | 748 |
-| 41 | **Brittney Griner** 🔴 +2 | 745 |
+| 41 | **Brittney Griner** 🔴 +3 | 746 |
 | 42 | Monique Currie | 724 |
 | 43 | Michelle Snow | 723 |
 | 44 | Tamecka Dixon | 716 |
