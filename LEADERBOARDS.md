@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-23 00:37 UTC_
+_Last updated: 2026-06-23 00:38 UTC_
 
 ## Contents
 
@@ -34,7 +34,7 @@ _Last updated: 2026-06-23 00:37 UTC_
 | 13 | Lisa Leslie | 6,251 |
 | 14 | Breanna Stewart | 6,173 |
 | 15 | Jewell Loyd | 6,078 |
-| 16 | **Brittney Griner** 🔴 +12 | 6,043 |
+| 16 | **Brittney Griner** 🔴 +13 | 6,044 |
 | 17 | Lauren Jackson | 6,005 |
 | 17 | Seimone Augustus | 6,005 |
 | 19 | A'ja Wilson | 5,942 |
@@ -1404,7 +1404,7 @@ _Last updated: 2026-06-23 00:37 UTC_
 | 152 | Hamchetou Maiga-Ba | 385 |
 | 153 | **Elizabeth Williams** 🔴 | 384 |
 | 154 | Kamila Vodichkova | 381 |
-| 155 | **Myisha Hines-Allen** 🔴 | 380 |
+| 154 | **Myisha Hines-Allen** 🔴 +1 | 381 |
 | 156 | Jessica Breland | 378 |
 | 157 | Armintie Herrington | 377 |
 | 158 | Anna DeForge | 374 |
@@ -1532,7 +1532,7 @@ _Last updated: 2026-06-23 00:37 UTC_
 | 75 | Latasha Byears | 730 |
 | 76 | **Allisha Gray** 🔴 +1 | 727 |
 | 77 | Kristi Toliver | 722 |
-| 78 | **Elizabeth Williams** 🔴 | 720 |
+| 78 | **Elizabeth Williams** 🔴 +1 | 721 |
 | 79 | Ariel Atkins | 713 |
 | 79 | Cheryl Ford | 713 |
 | 81 | Jia Perkins | 711 |
