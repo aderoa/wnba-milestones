@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-23 03:46 UTC_
+_Last updated: 2026-06-23 03:47 UTC_
 
 ## Contents
 
@@ -194,7 +194,7 @@ _Last updated: 2026-06-23 03:46 UTC_
 | 173 | Nakia Sanford | 1,915 |
 | 174 | Ebony Hoffman | 1,909 |
 | 175 | Candice Wiggins | 1,901 |
-| 176 | **Natisha Hiedeman** 🔴 +19 | 1,877 |
+| 176 | **Natisha Hiedeman** 🔴 +21 | 1,879 |
 | 177 | Isabelle Harrison | 1,853 |
 | 178 | Damiris Dantas | 1,830 |
 | 179 | Rachel Banham | 1,826 |
@@ -596,8 +596,8 @@ _Last updated: 2026-06-23 03:46 UTC_
 | 164 | Allison Feaster | 406 |
 | 164 | Kia Nurse | 406 |
 | 166 | Julie Allemand | 404 |
+| 167 | **Jessica Shepard** 🔴 +8 | 403 |
 | 167 | Rita Williams | 403 |
-| 168 | **Jessica Shepard** 🔴 +7 | 402 |
 | 169 | Marissa Coleman | 399 |
 | 170 | Aliyah Boston | 398 |
 | 171 | Stacey Dales | 395 |
