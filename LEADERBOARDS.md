@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-23 00:32 UTC_
+_Last updated: 2026-06-23 00:33 UTC_
 
 ## Contents
 
@@ -215,8 +215,8 @@ _Last updated: 2026-06-23 00:32 UTC_
 | 194 | Shenise Johnson | 1,688 |
 | 195 | Janell Burse | 1,580 |
 | 196 | Le'coe Willingham | 1,552 |
-| 197 | Shatori Walker-Kimbrough | 1,544 |
-| 198 | **Monique Billings** 🔴 | 1,543 |
+| 197 | **Monique Billings** 🔴 +2 | 1,545 |
+| 198 | Shatori Walker-Kimbrough | 1,544 |
 | 199 | Rebecca Allen | 1,526 |
 | 200 | Jennifer Lacy | 1,504 |
 
@@ -1290,7 +1290,7 @@ _Last updated: 2026-06-23 00:32 UTC_
 | 38 | Margo Dydek | 758 |
 | 39 | Tangela Smith | 751 |
 | 40 | Kristi Toliver | 748 |
-| 41 | **Brittney Griner** 🔴 +1 | 744 |
+| 41 | **Brittney Griner** 🔴 +2 | 745 |
 | 42 | Monique Currie | 724 |
 | 43 | Michelle Snow | 723 |
 | 44 | Tamecka Dixon | 716 |
@@ -1482,8 +1482,8 @@ _Last updated: 2026-06-23 00:32 UTC_
 | 25 | Lindsay Whalen | 998 |
 | 26 | Rebekkah Brunson | 996 |
 | 27 | Yolanda Griffith | 991 |
-| 28 | **Brittney Griner** 🔴 +2 | 982 |
-| 28 | Lauren Jackson | 982 |
+| 28 | **Brittney Griner** 🔴 +3 | 983 |
+| 29 | Lauren Jackson | 982 |
 | 30 | Nakia Sanford | 979 |
 | 31 | Asjha Jones | 971 |
 | 32 | **Alyssa Thomas** 🔴 | 954 |
