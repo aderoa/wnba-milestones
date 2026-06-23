@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-23 02:41 UTC_
+_Last updated: 2026-06-23 02:42 UTC_
 
 ## Contents
 
@@ -56,7 +56,7 @@ _Last updated: 2026-06-23 02:41 UTC_
 | 35 | Chamique Holdsclaw | 4,713 |
 | 36 | Elena Delle Donne | 4,706 |
 | 37 | Alyssa Thomas | 4,672 |
-| 38 | **Arike Ogunbowale** 🔴 +2 | 4,614 |
+| 38 | **Arike Ogunbowale** 🔴 +4 | 4,616 |
 | 39 | Penny Taylor | 4,595 |
 | 40 | Natasha Howard | 4,528 |
 | 41 | Chelsea Gray | 4,506 |
@@ -194,7 +194,7 @@ _Last updated: 2026-06-23 02:41 UTC_
 | 173 | Nakia Sanford | 1,915 |
 | 174 | Ebony Hoffman | 1,909 |
 | 175 | Candice Wiggins | 1,901 |
-| 176 | **Natisha Hiedeman** 🔴 | 1,858 |
+| 176 | **Natisha Hiedeman** 🔴 +3 | 1,861 |
 | 177 | Isabelle Harrison | 1,853 |
 | 178 | Damiris Dantas | 1,830 |
 | 179 | Rachel Banham | 1,826 |
@@ -597,8 +597,8 @@ _Last updated: 2026-06-23 02:41 UTC_
 | 164 | Kia Nurse | 406 |
 | 166 | Julie Allemand | 404 |
 | 167 | Rita Williams | 403 |
-| 168 | **Jessica Shepard** 🔴 +4 | 399 |
-| 168 | Marissa Coleman | 399 |
+| 168 | **Jessica Shepard** 🔴 +5 | 400 |
+| 169 | Marissa Coleman | 399 |
 | 170 | Aliyah Boston | 398 |
 | 171 | Stacey Dales | 395 |
 | 172 | Sugar Rodgers | 393 |
@@ -1115,8 +1115,8 @@ _Last updated: 2026-06-23 02:41 UTC_
 | 68 | Tan White | 311 |
 | 69 | Kedra Holland-Corn | 307 |
 | 70 | Kelly Miller | 305 |
+| 71 | **Natisha Hiedeman** 🔴 +1 | 304 |
 | 71 | Nikki Teasley | 304 |
-| 72 | **Natisha Hiedeman** 🔴 | 303 |
 | 73 | Vickie Johnson | 295 |
 | 74 | Seimone Augustus | 293 |
 | 75 | Candice Wiggins | 290 |
