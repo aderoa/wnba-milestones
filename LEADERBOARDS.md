@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-23 02:09 UTC_
+_Last updated: 2026-06-23 02:10 UTC_
 
 ## Contents
 
@@ -526,7 +526,7 @@ _Last updated: 2026-06-23 02:09 UTC_
 | 93 | Asjha Jones | 637 |
 | 95 | Jennifer Azzi | 636 |
 | 96 | Jonquel Jones | 625 |
-| 97 | **Natisha Hiedeman** 🔴 | 624 |
+| 96 | **Natisha Hiedeman** 🔴 +1 | 625 |
 | 98 | Sami Whitcomb | 623 |
 | 99 | Alysha Clark | 616 |
 | 100 | Debbie Black | 612 |
@@ -599,7 +599,7 @@ _Last updated: 2026-06-23 02:09 UTC_
 | 167 | Rita Williams | 403 |
 | 168 | Marissa Coleman | 399 |
 | 169 | **Aliyah Boston** 🔴 | 398 |
-| 170 | **Jessica Shepard** 🔴 +1 | 396 |
+| 170 | **Jessica Shepard** 🔴 +2 | 397 |
 | 171 | Stacey Dales | 395 |
 | 172 | Sugar Rodgers | 393 |
 | 173 | Shameka Christon | 389 |
@@ -814,11 +814,11 @@ _Last updated: 2026-06-23 02:09 UTC_
 | 177 | Karima Christmas-Kelly | 75 |
 | 177 | Kelsey Griffin | 75 |
 | 177 | Tianna Hawkins | 75 |
+| 180 | **Awak Kuier** 🔴 +2 | 74 |
 | 180 | Epiphanny Prince | 74 |
 | 180 | **Myisha Hines-Allen** 🔴 | 74 |
-| 182 | **Awak Kuier** 🔴 +1 | 73 |
-| 182 | Ayana Walker | 73 |
-| 182 | Lindsay Wisdom-Hylton | 73 |
+| 183 | Ayana Walker | 73 |
+| 183 | Lindsay Wisdom-Hylton | 73 |
 | 185 | Cappie Pondexter | 72 |
 | 185 | Christi Thomas | 72 |
 | 185 | Olympia Scott | 72 |
@@ -1525,7 +1525,7 @@ _Last updated: 2026-06-23 02:09 UTC_
 | 67 | Natasha Cloud | 755 |
 | 69 | Vickie Johnson | 752 |
 | 70 | Kara Braxton | 748 |
-| 71 | **Kahleah Copper** 🔴 +4 | 742 |
+| 71 | **Kahleah Copper** 🔴 +5 | 743 |
 | 72 | Crystal Langhorne | 737 |
 | 73 | Shameka Christon | 734 |
 | 74 | Becky Hammon | 733 |
