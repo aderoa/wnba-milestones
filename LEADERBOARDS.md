@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-23 00:26 UTC_
+_Last updated: 2026-06-23 00:27 UTC_
 
 ## Contents
 
@@ -294,7 +294,7 @@ _Last updated: 2026-06-23 00:26 UTC_
 | 68 | Tamera Young | 1,433 |
 | 69 | Alana Beard | 1,420 |
 | 70 | Nakia Sanford | 1,419 |
-| 71 | **Monique Billings** 🔴 +3 | 1,388 |
+| 71 | **Monique Billings** 🔴 +6 | 1,391 |
 | 72 | Kara Braxton | 1,387 |
 | 73 | **Allisha Gray** 🔴 | 1,384 |
 | 74 | Courtney Vandersloot | 1,383 |
@@ -423,6 +423,7 @@ _Last updated: 2026-06-23 00:26 UTC_
 | 197 | Katie Mattera | 708 |
 | 198 | Rushia Brown | 706 |
 | 199 | Allie Quigley | 702 |
+| 199 | **Kamilla Cardoso** 🔴 +9 | 702 |
 | 199 | Rebecca Allen | 702 |
 
 ## Assists
@@ -436,7 +437,7 @@ _Last updated: 2026-06-23 00:26 UTC_
 | 5 | Lindsay Whalen | 2,347 |
 | 6 | Chelsea Gray | 1,935 |
 | 7 | **Alyssa Thomas** 🔴 +2 | 1,905 |
-| 8 | **Skylar Diggins** 🔴 +2 | 1,814 |
+| 8 | **Skylar Diggins** 🔴 +3 | 1,815 |
 | 9 | **Natasha Cloud** 🔴 | 1,772 |
 | 10 | Becky Hammon | 1,705 |
 | 11 | Candace Parker | 1,634 |
@@ -1436,7 +1437,7 @@ _Last updated: 2026-06-23 00:26 UTC_
 | 185 | Moriah Jefferson | 314 |
 | 186 | Alex Bentley | 313 |
 | 187 | Tamika Raymond | 311 |
-| 188 | **Monique Billings** 🔴 +1 | 308 |
+| 188 | **Monique Billings** 🔴 +2 | 309 |
 | 189 | Erin Perperoglou | 305 |
 | 189 | Jennifer Lacy | 305 |
 | 191 | Tianna Hawkins | 303 |
