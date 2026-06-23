@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-23 01:53 UTC_
+_Last updated: 2026-06-23 01:54 UTC_
 
 ## Contents
 
@@ -55,7 +55,7 @@ _Last updated: 2026-06-23 01:53 UTC_
 | 34 | Alana Beard | 4,740 |
 | 35 | Chamique Holdsclaw | 4,713 |
 | 36 | Elena Delle Donne | 4,706 |
-| 37 | **Alyssa Thomas** 🔴 +17 | 4,670 |
+| 37 | **Alyssa Thomas** 🔴 +19 | 4,672 |
 | 38 | Arike Ogunbowale | 4,612 |
 | 39 | Penny Taylor | 4,595 |
 | 40 | Natasha Howard | 4,528 |
@@ -214,7 +214,7 @@ _Last updated: 2026-06-23 01:53 UTC_
 | 193 | Nikki Teasley | 1,690 |
 | 194 | Shenise Johnson | 1,688 |
 | 195 | Janell Burse | 1,580 |
-| 196 | **Monique Billings** 🔴 +10 | 1,553 |
+| 196 | **Monique Billings** 🔴 +11 | 1,554 |
 | 197 | Le'coe Willingham | 1,552 |
 | 198 | Shatori Walker-Kimbrough | 1,544 |
 | 199 | Rebecca Allen | 1,526 |
@@ -1493,8 +1493,8 @@ _Last updated: 2026-06-23 01:53 UTC_
 | 36 | Tamika Whitmore | 940 |
 | 37 | Courtney Vandersloot | 938 |
 | 38 | Briann January | 921 |
+| 39 | **DeWanna Bonner** 🔴 +1 | 913 |
 | 39 | Ticha Penicheiro | 913 |
-| 40 | **DeWanna Bonner** 🔴 | 912 |
 | 41 | Shavonte Zellous | 907 |
 | 42 | Alysha Clark | 896 |
 | 43 | Jonquel Jones | 890 |
@@ -1607,8 +1607,8 @@ _Last updated: 2026-06-23 01:53 UTC_
 | 150 | Candice Wiggins | 525 |
 | 150 | Epiphanny Prince | 525 |
 | 150 | Jackie Young | 525 |
-| 153 | **Sophie Cunningham** 🔴 +1 | 524 |
-| 154 | Armintie Herrington | 523 |
+| 153 | Armintie Herrington | 523 |
+| 153 | **Sophie Cunningham** 🔴 | 523 |
 | 155 | Kayla McBride | 522 |
 | 156 | **Monique Billings** 🔴 +2 | 519 |
 | 156 | Sheryl Swoopes | 519 |
