@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-23 04:02 UTC_
+_Last updated: 2026-06-23 04:03 UTC_
 
 ## Contents
 
@@ -1015,7 +1015,7 @@ _Last updated: 2026-06-23 04:02 UTC_
 | 173 | Sonja Henning | 194 |
 | 173 | Tierra Ruffin-Pratt | 194 |
 | 175 | Cynthia Cooper | 192 |
-| 176 | **Natisha Hiedeman** 🔴 | 191 |
+| 175 | **Natisha Hiedeman** 🔴 +1 | 192 |
 | 177 | Alanna Smith | 190 |
 | 178 | Myisha Hines-Allen | 189 |
 | 179 | Tamicha Jackson | 188 |
