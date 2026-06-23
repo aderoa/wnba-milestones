@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-23 01:58 UTC_
+_Last updated: 2026-06-23 01:59 UTC_
 
 ## Contents
 
@@ -66,8 +66,8 @@ _Last updated: 2026-06-23 01:58 UTC_
 | 45 | Kelsey Plum | 4,395 |
 | 46 | Allisha Gray | 4,357 |
 | 47 | Courtney Vandersloot | 4,352 |
-| 48 | **Kahleah Copper** 🔴 +18 | 4,301 |
-| 49 | Sophia Young-Malcolm | 4,300 |
+| 48 | Sophia Young-Malcolm | 4,300 |
+| 49 | **Kahleah Copper** 🔴 +16 | 4,299 |
 | 50 | Plenette Pierson | 4,258 |
 | 51 | Monique Currie | 4,253 |
 | 52 | Dearica Hamby | 4,243 |
@@ -1321,8 +1321,8 @@ _Last updated: 2026-06-23 01:58 UTC_
 | 69 | Jonquel Jones | 627 |
 | 70 | Rebekkah Brunson | 615 |
 | 71 | Seimone Augustus | 613 |
+| 72 | **Kahleah Copper** 🔴 +1 | 610 |
 | 72 | Tiffany Hayes | 610 |
-| 73 | **Kahleah Copper** 🔴 | 609 |
 | 74 | Teresa Weatherspoon | 601 |
 | 75 | Lindsey Harding | 600 |
 | 75 | Tamika Whitmore | 600 |
@@ -1525,7 +1525,7 @@ _Last updated: 2026-06-23 01:58 UTC_
 | 67 | Natasha Cloud | 755 |
 | 69 | Vickie Johnson | 752 |
 | 70 | Kara Braxton | 748 |
-| 71 | **Kahleah Copper** 🔴 +2 | 740 |
+| 71 | **Kahleah Copper** 🔴 +3 | 741 |
 | 72 | Crystal Langhorne | 737 |
 | 73 | Shameka Christon | 734 |
 | 74 | Becky Hammon | 733 |
