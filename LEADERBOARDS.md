@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-23 00:46 UTC_
+_Last updated: 2026-06-23 00:47 UTC_
 
 ## Contents
 
@@ -47,7 +47,7 @@ _Last updated: 2026-06-23 00:46 UTC_
 | 26 | Lindsay Whalen | 5,511 |
 | 27 | Swin Cash | 5,119 |
 | 28 | Tangela Smith | 5,035 |
-| 29 | **Kelsey Mitchell** 🔴 +3 | 5,006 |
+| 29 | **Kelsey Mitchell** 🔴 +6 | 5,009 |
 | 30 | Taj McWilliams-Franklin | 4,992 |
 | 31 | Tiffany Hayes | 4,985 |
 | 32 | Maya Moore | 4,984 |
@@ -111,7 +111,7 @@ _Last updated: 2026-06-23 00:46 UTC_
 | 90 | Wendy Palmer | 3,135 |
 | 91 | Shavonte Zellous | 3,103 |
 | 92 | Briann January | 3,082 |
-| 93 | **Marina Mabrey** 🔴 +5 | 3,057 |
+| 93 | **Marina Mabrey** 🔴 +8 | 3,060 |
 | 94 | Erika de Souza | 3,046 |
 | 95 | Sabrina Ionescu | 3,041 |
 | 96 | Shameka Christon | 3,039 |
@@ -294,7 +294,7 @@ _Last updated: 2026-06-23 00:46 UTC_
 | 68 | Tamera Young | 1,433 |
 | 69 | Alana Beard | 1,420 |
 | 70 | Nakia Sanford | 1,419 |
-| 71 | **Monique Billings** 🔴 +8 | 1,393 |
+| 71 | **Monique Billings** 🔴 +9 | 1,394 |
 | 72 | Kara Braxton | 1,387 |
 | 73 | **Allisha Gray** 🔴 | 1,384 |
 | 74 | Courtney Vandersloot | 1,383 |
@@ -336,8 +336,8 @@ _Last updated: 2026-06-23 00:46 UTC_
 | 109 | Tamika Raymond | 1,127 |
 | 111 | Adrienne Goodson | 1,126 |
 | 112 | NaLyssa Smith | 1,115 |
-| 113 | **Aliyah Boston** 🔴 +3 | 1,113 |
-| 113 | **Natasha Cloud** 🔴 +1 | 1,113 |
+| 113 | **Aliyah Boston** 🔴 +4 | 1,114 |
+| 114 | **Natasha Cloud** 🔴 +1 | 1,113 |
 | 115 | Deanna Nolan | 1,112 |
 | 116 | Chiney Ogwumike | 1,110 |
 | 117 | Becky Hammon | 1,108 |
@@ -552,7 +552,7 @@ _Last updated: 2026-06-23 00:46 UTC_
 | 120 | Marie Ferdinand-Harris | 528 |
 | 121 | Margo Dydek | 524 |
 | 122 | **Myisha Hines-Allen** 🔴 +1 | 521 |
-| 123 | **Caitlin Clark** 🔴 +2 | 519 |
+| 123 | **Caitlin Clark** 🔴 +3 | 520 |
 | 124 | Iziane Castro Marques | 509 |
 | 124 | **Rhyne Howard** 🔴 +1 | 509 |
 | 126 | Brittany Boyd-Jones | 508 |
@@ -594,9 +594,9 @@ _Last updated: 2026-06-23 00:46 UTC_
 | 162 | Jamierra Faulkner | 410 |
 | 162 | Murriel Page | 410 |
 | 164 | Allison Feaster | 406 |
+| 165 | **Julie Allemand** 🔴 +2 | 403 |
 | 165 | **Kia Nurse** 🔴 +1 | 403 |
 | 165 | Rita Williams | 403 |
-| 167 | **Julie Allemand** 🔴 +1 | 402 |
 | 168 | Marissa Coleman | 399 |
 | 169 | **Aliyah Boston** 🔴 | 398 |
 | 170 | Jessica Shepard | 395 |
@@ -1052,7 +1052,7 @@ _Last updated: 2026-06-23 00:46 UTC_
 | 5 | Tina Thompson | 745 |
 | 6 | Kayla McBride | 737 |
 | 7 | Katie Douglas | 723 |
-| 8 | **Kelsey Mitchell** 🔴 +1 | 688 |
+| 8 | **Kelsey Mitchell** 🔴 +2 | 689 |
 | 9 | Jewell Loyd | 678 |
 | 10 | **DeWanna Bonner** 🔴 +1 | 673 |
 | 11 | Kristi Toliver | 651 |
@@ -1068,7 +1068,7 @@ _Last updated: 2026-06-23 00:46 UTC_
 | 21 | Allie Quigley | 510 |
 | 22 | Leilani Mitchell | 508 |
 | 23 | Shekinna Stricklen | 468 |
-| 24 | **Marina Mabrey** 🔴 | 465 |
+| 24 | **Marina Mabrey** 🔴 +1 | 466 |
 | 25 | Cappie Pondexter | 464 |
 | 26 | Sabrina Ionescu | 462 |
 | 27 | Breanna Stewart | 460 |
