@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-24 02:47 UTC_
+_Last updated: 2026-06-24 02:48 UTC_
 
 ## Contents
 
@@ -89,8 +89,8 @@ _Last updated: 2026-06-24 02:47 UTC_
 | 68 | Camille Smith | 3,551 |
 | 69 | Napheesa Collier | 3,542 |
 | 69 | Shannon Johnson | 3,542 |
-| 71 | **Jackie Young** 🔴 +11 | 3,533 |
-| 71 | Renee Montgomery | 3,533 |
+| 71 | **Jackie Young** 🔴 +13 | 3,535 |
+| 72 | Renee Montgomery | 3,533 |
 | 73 | Jasmine Thomas | 3,522 |
 | 74 | Tamecka Dixon | 3,507 |
 | 75 | Tammy Sutton-Brown | 3,498 |
@@ -112,8 +112,8 @@ _Last updated: 2026-06-24 02:47 UTC_
 | 91 | Shavonte Zellous | 3,103 |
 | 92 | Briann January | 3,082 |
 | 93 | Marina Mabrey | 3,052 |
-| 94 | Erika de Souza | 3,046 |
-| 94 | **Sabrina Ionescu** 🔴 +5 | 3,046 |
+| 94 | **Sabrina Ionescu** 🔴 +7 | 3,048 |
+| 95 | Erika de Souza | 3,046 |
 | 96 | Shameka Christon | 3,039 |
 | 97 | Marie Ferdinand-Harris | 3,001 |
 | 98 | Emma Meesseman | 2,966 |
@@ -521,7 +521,7 @@ _Last updated: 2026-06-24 02:47 UTC_
 | 89 | Plenette Pierson | 651 |
 | 91 | Brittney Griner | 648 |
 | 92 | Alex Bentley | 645 |
-| 93 | **A'ja Wilson** 🔴 +3 | 640 |
+| 93 | **A'ja Wilson** 🔴 +4 | 641 |
 | 94 | Asjha Jones | 637 |
 | 95 | Jennifer Azzi | 636 |
 | 96 | **Jonquel Jones** 🔴 +3 | 628 |
@@ -1172,7 +1172,7 @@ _Last updated: 2026-06-24 02:47 UTC_
 | 126 | Theresa Plaisance | 172 |
 | 127 | Caitlin Clark | 171 |
 | 128 | Amanda Lassiter | 170 |
-| 129 | **Marine Johannès** 🔴 +1 | 169 |
+| 128 | **Marine Johannès** 🔴 +2 | 170 |
 | 130 | Shavonte Zellous | 167 |
 | 130 | Tianna Hawkins | 167 |
 | 132 | Charlotte Smith | 164 |
@@ -1603,7 +1603,7 @@ _Last updated: 2026-06-24 02:47 UTC_
 | 147 | Kristen Rasmussen | 533 |
 | 148 | Amanda Zahui B | 530 |
 | 149 | Damiris Dantas | 527 |
-| 150 | **Jackie Young** 🔴 +1 | 526 |
+| 149 | **Jackie Young** 🔴 +2 | 527 |
 | 151 | Candice Wiggins | 525 |
 | 151 | Epiphanny Prince | 525 |
 | 153 | Armintie Herrington | 523 |
