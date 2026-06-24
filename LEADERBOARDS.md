@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-24 04:04 UTC_
+_Last updated: 2026-06-24 04:05 UTC_
 
 ## Contents
 
@@ -72,7 +72,7 @@ _Last updated: 2026-06-24 04:04 UTC_
 | 51 | Monique Currie | 4,253 |
 | 52 | Dearica Hamby | 4,243 |
 | 53 | Courtney Williams | 4,238 |
-| 54 | **Jonquel Jones** 🔴 +11 | 4,233 |
+| 54 | **Jonquel Jones** 🔴 +14 | 4,236 |
 | 55 | Vickie Johnson | 4,230 |
 | 56 | Yolanda Griffith | 4,224 |
 | 57 | Rebekkah Brunson | 4,133 |
@@ -89,7 +89,7 @@ _Last updated: 2026-06-24 04:04 UTC_
 | 68 | Camille Smith | 3,551 |
 | 69 | Napheesa Collier | 3,542 |
 | 69 | Shannon Johnson | 3,542 |
-| 71 | **Jackie Young** 🔴 +17 | 3,539 |
+| 71 | **Jackie Young** 🔴 +19 | 3,541 |
 | 72 | Renee Montgomery | 3,533 |
 | 73 | Jasmine Thomas | 3,522 |
 | 74 | Tamecka Dixon | 3,507 |
@@ -238,7 +238,7 @@ _Last updated: 2026-06-24 04:04 UTC_
 | 12 | Alyssa Thomas | 2,817 |
 | 13 | **Jonquel Jones** 🔴 +5 | 2,668 |
 | 14 | Sancho Lyttle | 2,596 |
-| 15 | **A'ja Wilson** 🔴 +8 | 2,582 |
+| 15 | **A'ja Wilson** 🔴 +9 | 2,583 |
 | 16 | DeLisha Milton-Jones | 2,574 |
 | 17 | **Breanna Stewart** 🔴 +6 | 2,566 |
 | 18 | Brittney Griner | 2,556 |
@@ -320,8 +320,8 @@ _Last updated: 2026-06-24 04:04 UTC_
 | 94 | Myisha Hines-Allen | 1,239 |
 | 95 | Brianna Turner | 1,237 |
 | 96 | Seimone Augustus | 1,228 |
+| 97 | **Chelsea Gray** 🔴 +5 | 1,226 |
 | 97 | Kayla McBride | 1,226 |
-| 98 | **Chelsea Gray** 🔴 +4 | 1,225 |
 | 99 | Jia Perkins | 1,220 |
 | 100 | DeMya Walker | 1,199 |
 | 101 | Latasha Byears | 1,190 |
@@ -434,7 +434,7 @@ _Last updated: 2026-06-24 04:04 UTC_
 | 3 | Ticha Penicheiro | 2,588 |
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
-| 6 | **Chelsea Gray** 🔴 +7 | 1,942 |
+| 6 | **Chelsea Gray** 🔴 +8 | 1,943 |
 | 7 | Alyssa Thomas | 1,903 |
 | 8 | Skylar Diggins | 1,812 |
 | 9 | Natasha Cloud | 1,772 |
@@ -465,7 +465,7 @@ _Last updated: 2026-06-24 04:04 UTC_
 | 34 | Swin Cash | 1,131 |
 | 35 | **Jackie Young** 🔴 +7 | 1,094 |
 | 36 | Lindsey Harding | 1,090 |
-| 37 | **Sabrina Ionescu** 🔴 +3 | 1,077 |
+| 37 | **Sabrina Ionescu** 🔴 +4 | 1,078 |
 | 38 | Katie Douglas | 1,069 |
 | 39 | Alana Beard | 1,061 |
 | 40 | Penny Taylor | 1,049 |
@@ -727,11 +727,11 @@ _Last updated: 2026-06-24 04:04 UTC_
 | 91 | Brooke Wyckoff | 129 |
 | 91 | Cathrine Kraayeveld | 129 |
 | 91 | Monique Billings | 129 |
+| 94 | **Chelsea Gray** 🔴 +1 | 127 |
 | 94 | Chiney Ogwumike | 127 |
 | 94 | Kristen Rasmussen | 127 |
-| 96 | **Chelsea Gray** 🔴 | 126 |
-| 96 | Katie Douglas | 126 |
-| 96 | Mistie Bass | 126 |
+| 97 | Katie Douglas | 126 |
+| 97 | Mistie Bass | 126 |
 | 99 | Brionna Jones | 125 |
 | 99 | Olivia Nelson-Ododa | 125 |
 | 101 | Alyssa Thomas | 123 |
@@ -1092,7 +1092,7 @@ _Last updated: 2026-06-24 04:04 UTC_
 | 46 | Jasmine Thomas | 376 |
 | 47 | Allison Feaster | 372 |
 | 47 | Betty Lennox | 372 |
-| 49 | **Jonquel Jones** 🔴 | 371 |
+| 47 | **Jonquel Jones** 🔴 +1 | 372 |
 | 50 | Epiphanny Prince | 368 |
 | 51 | Kia Nurse | 364 |
 | 52 | Kahleah Copper | 355 |
