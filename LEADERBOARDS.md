@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-24 03:58 UTC_
+_Last updated: 2026-06-24 03:59 UTC_
 
 ## Contents
 
@@ -37,7 +37,7 @@ _Last updated: 2026-06-24 03:58 UTC_
 | 16 | Brittney Griner | 6,031 |
 | 17 | Lauren Jackson | 6,005 |
 | 17 | Seimone Augustus | 6,005 |
-| 19 | **A'ja Wilson** 🔴 +14 | 5,956 |
+| 19 | **A'ja Wilson** 🔴 +16 | 5,958 |
 | 20 | Becky Hammon | 5,816 |
 | 21 | Angel McCoughtry | 5,797 |
 | 22 | Skylar Diggins | 5,626 |
@@ -59,7 +59,7 @@ _Last updated: 2026-06-24 03:58 UTC_
 | 38 | Arike Ogunbowale | 4,612 |
 | 39 | Penny Taylor | 4,595 |
 | 40 | Natasha Howard | 4,528 |
-| 41 | **Chelsea Gray** 🔴 +8 | 4,514 |
+| 41 | **Chelsea Gray** 🔴 +11 | 4,517 |
 | 42 | Kristi Toliver | 4,474 |
 | 43 | Crystal Langhorne | 4,433 |
 | 43 | Jia Perkins | 4,433 |
@@ -136,7 +136,7 @@ _Last updated: 2026-06-24 03:58 UTC_
 | 115 | Janeth Arcain | 2,633 |
 | 116 | Temeka Johnson | 2,620 |
 | 117 | Leilani Mitchell | 2,618 |
-| 118 | **Cheyenne Parker-Tyus** 🔴 +9 | 2,608 |
+| 118 | **Cheyenne Parker-Tyus** 🔴 +12 | 2,611 |
 | 119 | Cynthia Cooper | 2,601 |
 | 120 | Tan White | 2,595 |
 | 121 | Kelly Miller | 2,558 |
@@ -236,7 +236,7 @@ _Last updated: 2026-06-24 03:58 UTC_
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | Alyssa Thomas | 2,817 |
-| 13 | **Jonquel Jones** 🔴 +6 | 2,669 |
+| 13 | **Jonquel Jones** 🔴 +5 | 2,668 |
 | 14 | Sancho Lyttle | 2,596 |
 | 15 | **A'ja Wilson** 🔴 +8 | 2,582 |
 | 16 | DeLisha Milton-Jones | 2,574 |
@@ -290,7 +290,7 @@ _Last updated: 2026-06-24 03:58 UTC_
 | 64 | Sue Bird | 1,466 |
 | 65 | Alysha Clark | 1,465 |
 | 66 | Nicole Powell | 1,457 |
-| 67 | **Cheyenne Parker-Tyus** 🔴 +5 | 1,447 |
+| 67 | **Cheyenne Parker-Tyus** 🔴 +6 | 1,448 |
 | 68 | Tamera Young | 1,433 |
 | 69 | Alana Beard | 1,420 |
 | 70 | Nakia Sanford | 1,419 |
@@ -463,7 +463,7 @@ _Last updated: 2026-06-24 03:58 UTC_
 | 32 | **Jewell Loyd** 🔴 | 1,144 |
 | 33 | Renee Montgomery | 1,140 |
 | 34 | Swin Cash | 1,131 |
-| 35 | **Jackie Young** 🔴 +6 | 1,093 |
+| 35 | **Jackie Young** 🔴 +7 | 1,094 |
 | 36 | Lindsey Harding | 1,090 |
 | 37 | **Sabrina Ionescu** 🔴 +2 | 1,076 |
 | 38 | Katie Douglas | 1,069 |
@@ -521,7 +521,7 @@ _Last updated: 2026-06-24 03:58 UTC_
 | 89 | Plenette Pierson | 651 |
 | 91 | Brittney Griner | 648 |
 | 92 | Alex Bentley | 645 |
-| 93 | **A'ja Wilson** 🔴 +4 | 641 |
+| 93 | **A'ja Wilson** 🔴 +5 | 642 |
 | 94 | Asjha Jones | 637 |
 | 95 | Jennifer Azzi | 636 |
 | 96 | **Jonquel Jones** 🔴 +3 | 628 |
@@ -872,9 +872,9 @@ _Last updated: 2026-06-24 03:58 UTC_
 | 31 | Skylar Diggins | 454 |
 | 32 | Tina Thompson | 452 |
 | 33 | Maya Moore | 449 |
+| 34 | **Chelsea Gray** 🔴 +2 | 447 |
 | 34 | Natasha Howard | 447 |
-| 35 | **Chelsea Gray** 🔴 +1 | 446 |
-| 35 | **Jewell Loyd** 🔴 +1 | 446 |
+| 36 | **Jewell Loyd** 🔴 +1 | 446 |
 | 37 | Sheri Sam | 438 |
 | 38 | Camille Smith | 437 |
 | 39 | Kayla McBride | 436 |
@@ -1077,7 +1077,7 @@ _Last updated: 2026-06-24 03:58 UTC_
 | 31 | Lauren Jackson | 436 |
 | 32 | Skylar Diggins | 435 |
 | 33 | Shameka Christon | 434 |
-| 34 | **Chelsea Gray** 🔴 +1 | 426 |
+| 34 | **Chelsea Gray** 🔴 +2 | 427 |
 | 35 | Crystal Robinson | 425 |
 | 36 | Mwadi Mabika | 415 |
 | 37 | Penny Taylor | 407 |
@@ -1350,7 +1350,7 @@ _Last updated: 2026-06-24 03:58 UTC_
 | 99 | Leilani Mitchell | 525 |
 | 99 | Nicole Powell | 525 |
 | 101 | Arike Ogunbowale | 520 |
-| 102 | **Sabrina Ionescu** 🔴 +1 | 519 |
+| 101 | **Sabrina Ionescu** 🔴 +2 | 520 |
 | 103 | Marie Ferdinand-Harris | 518 |
 | 104 | Shavonte Zellous | 517 |
 | 104 | Wendy Palmer | 517 |
@@ -1553,7 +1553,7 @@ _Last updated: 2026-06-24 03:58 UTC_
 | 97 | **Cheyenne Parker-Tyus** 🔴 +2 | 676 |
 | 97 | Kelly Miller | 676 |
 | 99 | Chamique Holdsclaw | 667 |
-| 100 | **Breanna Stewart** 🔴 +1 | 666 |
+| 100 | **Breanna Stewart** 🔴 | 665 |
 | 101 | **Jewell Loyd** 🔴 +3 | 664 |
 | 102 | Tianna Hawkins | 662 |
 | 103 | Kayla Thornton | 661 |
