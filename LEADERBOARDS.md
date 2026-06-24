@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-24 03:08 UTC_
+_Last updated: 2026-06-24 03:09 UTC_
 
 ## Contents
 
@@ -238,7 +238,7 @@ _Last updated: 2026-06-24 03:08 UTC_
 | 12 | Alyssa Thomas | 2,817 |
 | 13 | **Jonquel Jones** 🔴 +5 | 2,668 |
 | 14 | Sancho Lyttle | 2,596 |
-| 15 | **A'ja Wilson** 🔴 +4 | 2,578 |
+| 15 | **A'ja Wilson** 🔴 +5 | 2,579 |
 | 16 | DeLisha Milton-Jones | 2,574 |
 | 17 | **Breanna Stewart** 🔴 +3 | 2,563 |
 | 18 | Brittney Griner | 2,556 |
@@ -353,7 +353,7 @@ _Last updated: 2026-06-24 03:08 UTC_
 | 127 | Cathrine Kraayeveld | 1,013 |
 | 128 | Kelly Miller | 1,011 |
 | 128 | Noelle Quinn | 1,011 |
-| 130 | **Sabrina Ionescu** 🔴 +5 | 1,003 |
+| 130 | **Sabrina Ionescu** 🔴 +6 | 1,004 |
 | 131 | Tiffany Jackson | 1,002 |
 | 132 | Tianna Hawkins | 1,000 |
 | 133 | Damiris Dantas | 999 |
@@ -769,10 +769,10 @@ _Last updated: 2026-06-24 03:08 UTC_
 | 133 | Mwadi Mabika | 98 |
 | 133 | Natalie Achonwa | 98 |
 | 135 | Aneika Morello | 96 |
+| 135 | **NaLyssa Smith** 🔴 +2 | 96 |
 | 135 | Tiffani Johnson | 96 |
-| 137 | Imani McGee-Stafford | 95 |
-| 137 | Isabelle Harrison | 95 |
-| 137 | **NaLyssa Smith** 🔴 +1 | 95 |
+| 138 | Imani McGee-Stafford | 95 |
+| 138 | Isabelle Harrison | 95 |
 | 140 | **Jewell Loyd** 🔴 | 94 |
 | 140 | Sandrine Gruda | 94 |
 | 142 | Jasmine Thomas | 91 |

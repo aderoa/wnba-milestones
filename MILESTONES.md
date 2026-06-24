@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-24 03:09 UTC
+
+- **NaLyssa Smith** passed **Imani McGee-Stafford** and **Isabelle Harrison** for **#137** all-time in blocks (career 96) — up from #140 entering today — _9:14 - 3rd — NY @ LV_
+
 ## 2026-06-24 02:32 UTC
 
 - **Sabrina Ionescu** passed **Tiffany Jackson** for **#130** all-time in rebounds (career 1,003) — up from #133 entering today — _7:45 - 2nd — NY @ LV_

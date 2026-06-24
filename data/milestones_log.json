@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-06-24T03:09:00+00:00",
+    "text": "NaLyssa Smith passed Imani McGee-Stafford and Isabelle Harrison for #137 all-time in blocks (career 96) \u2014 up from #140 entering today \u2014 (9:14 - 3rd \u2014 NY @ LV)",
+    "kind": "rank_pass",
+    "player": "NaLyssa Smith",
+    "stat": "blocks",
+    "rank": 137,
+    "passed_players": [
+      "Imani McGee-Stafford",
+      "Isabelle Harrison"
+    ],
+    "new_total": 96
+  },
+  {
     "ts": "2026-06-24T02:32:00+00:00",
     "text": "Sabrina Ionescu passed Tiffany Jackson for #130 all-time in rebounds (career 1,003) \u2014 up from #133 entering today \u2014 (7:45 - 2nd \u2014 NY @ LV)",
     "kind": "rank_pass",
@@ -2965,18 +2978,5 @@
       "Damiris Dantas"
     ],
     "new_total": 528
-  },
-  {
-    "ts": "2026-06-06T21:04:00+00:00",
-    "text": "Jackie Young passed Napheesa Collier and Shannon Johnson for #69 all-time in points (career 3,544) \u2014 up from #72 entering today \u2014 (1:44 - 4th \u2014 GS @ LV)",
-    "kind": "rank_pass",
-    "player": "Jackie Young",
-    "stat": "points",
-    "rank": 69,
-    "passed_players": [
-      "Napheesa Collier",
-      "Shannon Johnson"
-    ],
-    "new_total": 3544
   }
 ]
