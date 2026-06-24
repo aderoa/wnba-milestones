@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-24 02:14 UTC_
+_Last updated: 2026-06-24 02:15 UTC_
 
 ## Contents
 
@@ -113,7 +113,7 @@ _Last updated: 2026-06-24 02:14 UTC_
 | 92 | Briann January | 3,082 |
 | 93 | Marina Mabrey | 3,052 |
 | 94 | Erika de Souza | 3,046 |
-| 95 | **Sabrina Ionescu** 🔴 +2 | 3,043 |
+| 94 | **Sabrina Ionescu** 🔴 +5 | 3,046 |
 | 96 | Shameka Christon | 3,039 |
 | 97 | Marie Ferdinand-Harris | 3,001 |
 | 98 | Emma Meesseman | 2,966 |
@@ -202,7 +202,7 @@ _Last updated: 2026-06-24 02:14 UTC_
 | 181 | Rachel Banham | 1,823 |
 | 182 | Danielle Adams | 1,820 |
 | 183 | Charde Houston | 1,797 |
-| 184 | **NaLyssa Smith** 🔴 | 1,775 |
+| 184 | **NaLyssa Smith** 🔴 +2 | 1,777 |
 | 185 | Kamila Vodichkova | 1,767 |
 | 186 | Tully Bevilaqua | 1,763 |
 | 187 | Sandy Brondello | 1,759 |
@@ -464,7 +464,7 @@ _Last updated: 2026-06-24 02:14 UTC_
 | 33 | Renee Montgomery | 1,140 |
 | 34 | Swin Cash | 1,131 |
 | 35 | Lindsey Harding | 1,090 |
-| 36 | **Jackie Young** 🔴 +1 | 1,088 |
+| 36 | **Jackie Young** 🔴 +2 | 1,089 |
 | 37 | **Sabrina Ionescu** 🔴 | 1,074 |
 | 38 | Katie Douglas | 1,069 |
 | 39 | Alana Beard | 1,061 |
@@ -524,7 +524,7 @@ _Last updated: 2026-06-24 02:14 UTC_
 | 93 | **A'ja Wilson** 🔴 +1 | 638 |
 | 94 | Asjha Jones | 637 |
 | 95 | Jennifer Azzi | 636 |
-| 96 | **Jonquel Jones** 🔴 +1 | 626 |
+| 96 | **Jonquel Jones** 🔴 +2 | 627 |
 | 97 | Natisha Hiedeman | 624 |
 | 98 | Sami Whitcomb | 623 |
 | 99 | Alysha Clark | 616 |
@@ -1069,7 +1069,7 @@ _Last updated: 2026-06-24 02:14 UTC_
 | 23 | Shekinna Stricklen | 468 |
 | 24 | Marina Mabrey | 465 |
 | 25 | Cappie Pondexter | 464 |
-| 26 | **Sabrina Ionescu** 🔴 | 462 |
+| 26 | **Sabrina Ionescu** 🔴 +1 | 463 |
 | 27 | **Breanna Stewart** 🔴 +1 | 461 |
 | 28 | Ariel Atkins | 451 |
 | 28 | Tiffany Hayes | 451 |
@@ -1367,9 +1367,9 @@ _Last updated: 2026-06-24 02:14 UTC_
 | 116 | Natalie Williams | 480 |
 | 117 | Ebony Hoffman | 470 |
 | 118 | Elaine Powell | 469 |
+| 119 | **A'ja Wilson** 🔴 +1 | 467 |
 | 119 | Allie Quigley | 467 |
-| 120 | **A'ja Wilson** 🔴 | 466 |
-| 120 | Allisha Gray | 466 |
+| 121 | Allisha Gray | 466 |
 | 122 | Ariel Atkins | 454 |
 | 122 | Kia Vaughn | 454 |
 | 124 | Janeth Arcain | 453 |
