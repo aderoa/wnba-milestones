@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-24 02:09 UTC_
+_Last updated: 2026-06-24 02:10 UTC_
 
 ## Contents
 
@@ -74,7 +74,7 @@ _Last updated: 2026-06-24 02:09 UTC_
 | 53 | Courtney Williams | 4,238 |
 | 54 | Vickie Johnson | 4,230 |
 | 55 | Yolanda Griffith | 4,224 |
-| 56 | **Jonquel Jones** 🔴 | 4,222 |
+| 56 | **Jonquel Jones** 🔴 +1 | 4,223 |
 | 57 | Rebekkah Brunson | 4,133 |
 | 58 | Asjha Jones | 3,986 |
 | 59 | Deanna Nolan | 3,971 |
@@ -1651,6 +1651,6 @@ _Last updated: 2026-06-24 02:09 UTC_
 | 195 | Sue Wicks | 462 |
 | 196 | Natalie Achonwa | 459 |
 | 197 | Kara Lawson | 457 |
-| 198 | **NaLyssa Smith** 🔴 | 454 |
+| 198 | **NaLyssa Smith** 🔴 +1 | 455 |
 | 199 | Alexis Hornbuckle | 450 |
 | 199 | **Satou Sabally** 🔴 | 450 |
