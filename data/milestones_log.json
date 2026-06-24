@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-24T04:01:00+00:00",
+    "text": "Cheyenne Parker-Tyus passed Kelly Miller for #97 all-time in fouls (career 677) \u2014 up from #98 entering today \u2014 (1:22 - 4th \u2014 NY @ LV)",
+    "kind": "rank_pass",
+    "player": "Cheyenne Parker-Tyus",
+    "stat": "fouls",
+    "rank": 97,
+    "passed_players": [
+      "Kelly Miller"
+    ],
+    "new_total": 677
+  },
+  {
     "ts": "2026-06-24T03:18:00+00:00",
     "text": "Sabrina Ionescu passed Marina Mabrey for #93 all-time in points (career 3,054) \u2014 up from #95 entering today \u2014 (7:02 - 3rd \u2014 NY @ LV)",
     "kind": "rank_pass",
@@ -2965,17 +2977,5 @@
       "Tiffany Mitchell"
     ],
     "new_total": 2481
-  },
-  {
-    "ts": "2026-06-06T22:18:00+00:00",
-    "text": "Rhyne Howard passed Theresa Plaisance for #128 all-time in blocks (career 103) \u2014 (3:16 - 1st \u2014 WSH @ ATL)",
-    "kind": "rank_pass",
-    "player": "Rhyne Howard",
-    "stat": "blocks",
-    "rank": 128,
-    "passed_players": [
-      "Theresa Plaisance"
-    ],
-    "new_total": 103
   }
 ]
