@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-06-24T03:12:00+00:00",
+    "text": "Chelsea Gray passed Katie Douglas and Mistie Bass for #97 all-time in blocks (career 127) \u2014 (7:13 - 3rd \u2014 NY @ LV)",
+    "kind": "rank_pass",
+    "player": "Chelsea Gray",
+    "stat": "blocks",
+    "rank": 97,
+    "passed_players": [
+      "Katie Douglas",
+      "Mistie Bass"
+    ],
+    "new_total": 127
+  },
+  {
     "ts": "2026-06-24T03:09:00+00:00",
     "text": "NaLyssa Smith passed Imani McGee-Stafford and Isabelle Harrison for #137 all-time in blocks (career 96) \u2014 up from #140 entering today \u2014 (9:14 - 3rd \u2014 NY @ LV)",
     "kind": "rank_pass",
@@ -2966,17 +2979,5 @@
       "Rachel Banham"
     ],
     "new_total": 509
-  },
-  {
-    "ts": "2026-06-06T21:09:00+00:00",
-    "text": "Jackie Young passed Damiris Dantas for #149 all-time in fouls (career 528) \u2014 up from #152 entering today \u2014 (9.9 - 4th \u2014 GS @ LV)",
-    "kind": "rank_pass",
-    "player": "Jackie Young",
-    "stat": "fouls",
-    "rank": 149,
-    "passed_players": [
-      "Damiris Dantas"
-    ],
-    "new_total": 528
   }
 ]

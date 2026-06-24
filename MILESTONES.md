@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-24 03:12 UTC
+
+- **Chelsea Gray** passed **Katie Douglas** and **Mistie Bass** for **#97** all-time in blocks (career 127) — _7:13 - 3rd — NY @ LV_
+
 ## 2026-06-24 03:09 UTC
 
 - **NaLyssa Smith** passed **Imani McGee-Stafford** and **Isabelle Harrison** for **#137** all-time in blocks (career 96) — up from #140 entering today — _9:14 - 3rd — NY @ LV_
