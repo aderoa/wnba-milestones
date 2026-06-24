@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-24T03:18:00+00:00",
+    "text": "Sabrina Ionescu passed Marina Mabrey for #93 all-time in points (career 3,054) \u2014 up from #95 entering today \u2014 (7:02 - 3rd \u2014 NY @ LV)",
+    "kind": "rank_pass",
+    "player": "Sabrina Ionescu",
+    "stat": "points",
+    "rank": 93,
+    "passed_players": [
+      "Marina Mabrey"
+    ],
+    "new_total": 3054
+  },
+  {
     "ts": "2026-06-24T03:12:00+00:00",
     "text": "Chelsea Gray passed Katie Douglas and Mistie Bass for #97 all-time in blocks (career 127) \u2014 (7:13 - 3rd \u2014 NY @ LV)",
     "kind": "rank_pass",
@@ -2965,19 +2977,5 @@
       "Theresa Plaisance"
     ],
     "new_total": 103
-  },
-  {
-    "ts": "2026-06-06T22:08:00+00:00",
-    "text": "Rhyne Howard passed Brittany Boyd-Jones, Chasity Melvin, and Rachel Banham for #125 all-time in assists (career 509) \u2014 up from #128 entering today \u2014 (6:44 - 1st \u2014 WSH @ ATL)",
-    "kind": "rank_pass",
-    "player": "Rhyne Howard",
-    "stat": "assists",
-    "rank": 125,
-    "passed_players": [
-      "Brittany Boyd-Jones",
-      "Chasity Melvin",
-      "Rachel Banham"
-    ],
-    "new_total": 509
   }
 ]

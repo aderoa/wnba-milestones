@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-24 03:18 UTC
+
+- **Sabrina Ionescu** passed **Marina Mabrey** for **#93** all-time in points (career 3,054) — up from #95 entering today — _7:02 - 3rd — NY @ LV_
+
 ## 2026-06-24 03:12 UTC
 
 - **Chelsea Gray** passed **Katie Douglas** and **Mistie Bass** for **#97** all-time in blocks (career 127) — _7:13 - 3rd — NY @ LV_
