@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-24 03:46 UTC_
+_Last updated: 2026-06-24 03:47 UTC_
 
 ## Contents
 
@@ -59,7 +59,7 @@ _Last updated: 2026-06-24 03:46 UTC_
 | 38 | Arike Ogunbowale | 4,612 |
 | 39 | Penny Taylor | 4,595 |
 | 40 | Natasha Howard | 4,528 |
-| 41 | **Chelsea Gray** 🔴 +6 | 4,512 |
+| 41 | **Chelsea Gray** 🔴 +8 | 4,514 |
 | 42 | Kristi Toliver | 4,474 |
 | 43 | Crystal Langhorne | 4,433 |
 | 43 | Jia Perkins | 4,433 |
@@ -290,7 +290,7 @@ _Last updated: 2026-06-24 03:46 UTC_
 | 64 | Sue Bird | 1,466 |
 | 65 | Alysha Clark | 1,465 |
 | 66 | Nicole Powell | 1,457 |
-| 67 | **Cheyenne Parker-Tyus** 🔴 +3 | 1,445 |
+| 67 | **Cheyenne Parker-Tyus** 🔴 +4 | 1,446 |
 | 68 | Tamera Young | 1,433 |
 | 69 | Alana Beard | 1,420 |
 | 70 | Nakia Sanford | 1,419 |
@@ -353,7 +353,7 @@ _Last updated: 2026-06-24 03:46 UTC_
 | 127 | Cathrine Kraayeveld | 1,013 |
 | 128 | Kelly Miller | 1,011 |
 | 128 | Noelle Quinn | 1,011 |
-| 130 | **Sabrina Ionescu** 🔴 +8 | 1,006 |
+| 130 | **Sabrina Ionescu** 🔴 +10 | 1,008 |
 | 131 | Tiffany Jackson | 1,002 |
 | 132 | Tianna Hawkins | 1,000 |
 | 133 | Damiris Dantas | 999 |
