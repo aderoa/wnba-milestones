@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-24T02:32:00+00:00",
+    "text": "Sabrina Ionescu passed Tiffany Jackson for #130 all-time in rebounds (career 1,003) \u2014 up from #133 entering today \u2014 (7:45 - 2nd \u2014 NY @ LV)",
+    "kind": "rank_pass",
+    "player": "Sabrina Ionescu",
+    "stat": "rebounds",
+    "rank": 130,
+    "passed_players": [
+      "Tiffany Jackson"
+    ],
+    "new_total": 1003
+  },
+  {
     "ts": "2026-06-24T02:12:00+00:00",
     "text": "Sabrina Ionescu passed Erin Phillips for #185 all-time in steals (career 183) \u2014 up from #186 entering today \u2014 (6:27 - 1st \u2014 NY @ LV)",
     "kind": "rank_pass",
@@ -2966,17 +2978,5 @@
       "Shannon Johnson"
     ],
     "new_total": 3544
-  },
-  {
-    "ts": "2026-06-06T20:59:00+00:00",
-    "text": "Gabby Williams passed Coco Miller for #157 all-time in three-pointers (career 140) \u2014 up from #160 entering today \u2014 (2:45 - 4th \u2014 GS @ LV)",
-    "kind": "rank_pass",
-    "player": "Gabby Williams",
-    "stat": "three-pointers",
-    "rank": 157,
-    "passed_players": [
-      "Coco Miller"
-    ],
-    "new_total": 140
   }
 ]
