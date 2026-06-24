@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-24 02:08 UTC_
+_Last updated: 2026-06-24 02:09 UTC_
 
 ## Contents
 
@@ -90,8 +90,8 @@ _Last updated: 2026-06-24 02:08 UTC_
 | 69 | Napheesa Collier | 3,542 |
 | 69 | Shannon Johnson | 3,542 |
 | 71 | Renee Montgomery | 3,533 |
-| 72 | **Jackie Young** 🔴 | 3,522 |
-| 72 | Jasmine Thomas | 3,522 |
+| 72 | **Jackie Young** 🔴 +2 | 3,524 |
+| 73 | Jasmine Thomas | 3,522 |
 | 74 | Tamecka Dixon | 3,507 |
 | 75 | Tammy Sutton-Brown | 3,498 |
 | 76 | Sancho Lyttle | 3,478 |
@@ -238,8 +238,8 @@ _Last updated: 2026-06-24 02:08 UTC_
 | 12 | Alyssa Thomas | 2,817 |
 | 13 | **Jonquel Jones** 🔴 | 2,663 |
 | 14 | Sancho Lyttle | 2,596 |
-| 15 | **A'ja Wilson** 🔴 | 2,574 |
-| 15 | DeLisha Milton-Jones | 2,574 |
+| 15 | **A'ja Wilson** 🔴 +1 | 2,575 |
+| 16 | DeLisha Milton-Jones | 2,574 |
 | 17 | **Breanna Stewart** 🔴 | 2,560 |
 | 18 | Brittney Griner | 2,556 |
 | 19 | Swin Cash | 2,521 |
@@ -356,7 +356,7 @@ _Last updated: 2026-06-24 02:08 UTC_
 | 130 | Tiffany Jackson | 1,002 |
 | 131 | Tianna Hawkins | 1,000 |
 | 132 | Damiris Dantas | 999 |
-| 133 | **Sabrina Ionescu** 🔴 | 998 |
+| 132 | **Sabrina Ionescu** 🔴 +1 | 999 |
 | 134 | Marissa Coleman | 995 |
 | 135 | Kristen Rasmussen | 993 |
 | 136 | Skylar Diggins | 991 |
@@ -521,8 +521,8 @@ _Last updated: 2026-06-24 02:08 UTC_
 | 89 | Plenette Pierson | 651 |
 | 91 | Brittney Griner | 648 |
 | 92 | Alex Bentley | 645 |
-| 93 | **A'ja Wilson** 🔴 | 637 |
-| 93 | Asjha Jones | 637 |
+| 93 | **A'ja Wilson** 🔴 +1 | 638 |
+| 94 | Asjha Jones | 637 |
 | 95 | Jennifer Azzi | 636 |
 | 96 | **Jonquel Jones** 🔴 | 625 |
 | 97 | Natisha Hiedeman | 624 |
