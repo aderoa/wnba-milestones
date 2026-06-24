@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-24 23:54 UTC_
+_Last updated: 2026-06-24 23:55 UTC_
 
 ## Contents
 
@@ -188,9 +188,9 @@ _Last updated: 2026-06-24 23:54 UTC_
 | 167 | Cathrine Kraayeveld | 1,926 |
 | 168 | Roneeka Hodges | 1,925 |
 | 169 | Latasha Byears | 1,920 |
-| 170 | Karima Christmas-Kelly | 1,919 |
-| 171 | Jessica Breland | 1,918 |
-| 171 | **Myisha Hines-Allen** 🔴 | 1,918 |
+| 169 | **Myisha Hines-Allen** 🔴 +2 | 1,920 |
+| 171 | Karima Christmas-Kelly | 1,919 |
+| 172 | Jessica Breland | 1,918 |
 | 173 | Nakia Sanford | 1,915 |
 | 174 | Ebony Hoffman | 1,909 |
 | 175 | Candice Wiggins | 1,901 |
@@ -206,7 +206,7 @@ _Last updated: 2026-06-24 23:54 UTC_
 | 185 | Kamila Vodichkova | 1,767 |
 | 186 | Tully Bevilaqua | 1,763 |
 | 187 | Sandy Brondello | 1,759 |
-| 188 | **Sophie Cunningham** 🔴 | 1,752 |
+| 188 | **Sophie Cunningham** 🔴 +3 | 1,755 |
 | 189 | Sugar Rodgers | 1,733 |
 | 190 | Gabby Williams | 1,723 |
 | 191 | Moriah Jefferson | 1,722 |
@@ -317,7 +317,7 @@ _Last updated: 2026-06-24 23:54 UTC_
 | 91 | Azurá Stevens | 1,256 |
 | 92 | Tiffany Hayes | 1,244 |
 | 93 | Ezi Magbegor | 1,243 |
-| 94 | **Myisha Hines-Allen** 🔴 +1 | 1,240 |
+| 94 | **Myisha Hines-Allen** 🔴 +2 | 1,241 |
 | 95 | Brianna Turner | 1,237 |
 | 96 | **Kayla McBride** 🔴 +2 | 1,228 |
 | 96 | Seimone Augustus | 1,228 |
@@ -435,7 +435,7 @@ _Last updated: 2026-06-24 23:54 UTC_
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
 | 6 | Chelsea Gray | 1,935 |
-| 7 | **Alyssa Thomas** 🔴 | 1,903 |
+| 7 | **Alyssa Thomas** 🔴 +1 | 1,904 |
 | 8 | Skylar Diggins | 1,812 |
 | 9 | Natasha Cloud | 1,772 |
 | 10 | Becky Hammon | 1,705 |
@@ -550,8 +550,8 @@ _Last updated: 2026-06-24 23:54 UTC_
 | 119 | Veronica Burton | 537 |
 | 120 | Marie Ferdinand-Harris | 528 |
 | 121 | Margo Dydek | 524 |
+| 122 | **Caitlin Clark** 🔴 +3 | 520 |
 | 122 | **Myisha Hines-Allen** 🔴 | 520 |
-| 123 | **Caitlin Clark** 🔴 +2 | 519 |
 | 124 | Iziane Castro Marques | 509 |
 | 125 | Brittany Boyd-Jones | 508 |
 | 125 | Chasity Melvin | 508 |
@@ -812,9 +812,9 @@ _Last updated: 2026-06-24 23:54 UTC_
 | 171 | Tiffany Jackson | 76 |
 | 177 | Karima Christmas-Kelly | 75 |
 | 177 | Kelsey Griffin | 75 |
+| 177 | **Myisha Hines-Allen** 🔴 +1 | 75 |
 | 177 | Tianna Hawkins | 75 |
-| 180 | Epiphanny Prince | 74 |
-| 180 | **Myisha Hines-Allen** 🔴 | 74 |
+| 181 | Epiphanny Prince | 74 |
 | 182 | Ayana Walker | 73 |
 | 182 | Lindsay Wisdom-Hylton | 73 |
 | 184 | Awak Kuier | 72 |
@@ -1105,8 +1105,8 @@ _Last updated: 2026-06-24 23:54 UTC_
 | 59 | Anna DeForge | 334 |
 | 60 | Erica Wheeler | 329 |
 | 61 | Jackie Young | 323 |
-| 62 | **Sophie Cunningham** 🔴 | 317 |
-| 62 | Sugar Rodgers | 317 |
+| 62 | **Sophie Cunningham** 🔴 +1 | 318 |
+| 63 | Sugar Rodgers | 317 |
 | 64 | Marissa Coleman | 315 |
 | 65 | Shannon Johnson | 313 |
 | 66 | DeLisha Milton-Jones | 312 |
