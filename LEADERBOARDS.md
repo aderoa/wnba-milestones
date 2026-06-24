@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-24 03:31 UTC_
+_Last updated: 2026-06-24 03:32 UTC_
 
 ## Contents
 
@@ -32,7 +32,7 @@ _Last updated: 2026-06-24 03:31 UTC_
 | 11 | Katie Smith | 6,450 |
 | 12 | Sylvia Fowles | 6,413 |
 | 13 | Lisa Leslie | 6,251 |
-| 14 | **Breanna Stewart** 🔴 +6 | 6,179 |
+| 14 | **Breanna Stewart** 🔴 +8 | 6,181 |
 | 15 | **Jewell Loyd** 🔴 +3 | 6,081 |
 | 16 | Brittney Griner | 6,031 |
 | 17 | Lauren Jackson | 6,005 |
@@ -240,7 +240,7 @@ _Last updated: 2026-06-24 03:31 UTC_
 | 14 | Sancho Lyttle | 2,596 |
 | 15 | **A'ja Wilson** 🔴 +8 | 2,582 |
 | 16 | DeLisha Milton-Jones | 2,574 |
-| 17 | **Breanna Stewart** 🔴 +4 | 2,564 |
+| 17 | **Breanna Stewart** 🔴 +5 | 2,565 |
 | 18 | Brittney Griner | 2,556 |
 | 19 | Swin Cash | 2,521 |
 | 20 | Michelle Snow | 2,476 |
@@ -646,7 +646,7 @@ _Last updated: 2026-06-24 03:31 UTC_
 | 10 | Ruth Riley | 505 |
 | 11 | Elizabeth Williams | 493 |
 | 12 | Taj McWilliams-Franklin | 443 |
-| 13 | **Breanna Stewart** 🔴 +1 | 437 |
+| 13 | **Breanna Stewart** 🔴 +2 | 438 |
 | 14 | Tina Charles | 428 |
 | 15 | **Jonquel Jones** 🔴 | 415 |
 | 16 | Michelle Snow | 403 |
@@ -874,7 +874,7 @@ _Last updated: 2026-06-24 03:31 UTC_
 | 33 | Maya Moore | 449 |
 | 34 | Natasha Howard | 447 |
 | 35 | **Chelsea Gray** 🔴 +1 | 446 |
-| 36 | **Jewell Loyd** 🔴 | 445 |
+| 35 | **Jewell Loyd** 🔴 +1 | 446 |
 | 37 | Sheri Sam | 438 |
 | 38 | Camille Smith | 437 |
 | 39 | Kayla McBride | 436 |
@@ -1330,7 +1330,7 @@ _Last updated: 2026-06-24 03:31 UTC_
 | 79 | Brittney Sykes | 579 |
 | 80 | Helen Darling | 575 |
 | 80 | Nykesha Sales | 575 |
-| 82 | **Breanna Stewart** 🔴 +3 | 573 |
+| 82 | **Breanna Stewart** 🔴 +4 | 574 |
 | 83 | Andrea Stinson | 571 |
 | 84 | Kara Braxton | 570 |
 | 85 | Nikki McCray | 565 |
