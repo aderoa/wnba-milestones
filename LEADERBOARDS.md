@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-24 02:12 UTC_
+_Last updated: 2026-06-24 02:13 UTC_
 
 ## Contents
 
@@ -90,7 +90,7 @@ _Last updated: 2026-06-24 02:12 UTC_
 | 69 | Napheesa Collier | 3,542 |
 | 69 | Shannon Johnson | 3,542 |
 | 71 | Renee Montgomery | 3,533 |
-| 72 | **Jackie Young** 🔴 +2 | 3,524 |
+| 72 | **Jackie Young** 🔴 +5 | 3,527 |
 | 73 | Jasmine Thomas | 3,522 |
 | 74 | Tamecka Dixon | 3,507 |
 | 75 | Tammy Sutton-Brown | 3,498 |
@@ -354,9 +354,9 @@ _Last updated: 2026-06-24 02:12 UTC_
 | 128 | Kelly Miller | 1,011 |
 | 128 | Noelle Quinn | 1,011 |
 | 130 | Tiffany Jackson | 1,002 |
+| 131 | **Sabrina Ionescu** 🔴 +2 | 1,000 |
 | 131 | Tianna Hawkins | 1,000 |
-| 132 | Damiris Dantas | 999 |
-| 132 | **Sabrina Ionescu** 🔴 +1 | 999 |
+| 133 | Damiris Dantas | 999 |
 | 134 | Marissa Coleman | 995 |
 | 135 | Kristen Rasmussen | 993 |
 | 136 | Skylar Diggins | 991 |
@@ -434,7 +434,7 @@ _Last updated: 2026-06-24 02:12 UTC_
 | 3 | Ticha Penicheiro | 2,588 |
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
-| 6 | **Chelsea Gray** 🔴 | 1,935 |
+| 6 | **Chelsea Gray** 🔴 +1 | 1,936 |
 | 7 | Alyssa Thomas | 1,903 |
 | 8 | Skylar Diggins | 1,812 |
 | 9 | Natasha Cloud | 1,772 |
@@ -524,7 +524,7 @@ _Last updated: 2026-06-24 02:12 UTC_
 | 93 | **A'ja Wilson** 🔴 +1 | 638 |
 | 94 | Asjha Jones | 637 |
 | 95 | Jennifer Azzi | 636 |
-| 96 | **Jonquel Jones** 🔴 | 625 |
+| 96 | **Jonquel Jones** 🔴 +1 | 626 |
 | 97 | Natisha Hiedeman | 624 |
 | 98 | Sami Whitcomb | 623 |
 | 99 | Alysha Clark | 616 |
@@ -1104,7 +1104,7 @@ _Last updated: 2026-06-24 02:12 UTC_
 | 58 | Natasha Cloud | 339 |
 | 59 | Anna DeForge | 334 |
 | 60 | Erica Wheeler | 329 |
-| 61 | **Jackie Young** 🔴 | 323 |
+| 61 | **Jackie Young** 🔴 +1 | 324 |
 | 62 | Sophie Cunningham | 317 |
 | 62 | Sugar Rodgers | 317 |
 | 64 | Marissa Coleman | 315 |
@@ -1232,8 +1232,8 @@ _Last updated: 2026-06-24 02:12 UTC_
 | 186 | Gordana Grubin | 114 |
 | 186 | Rickea Jackson | 114 |
 | 186 | Sandy Brondello | 114 |
+| 189 | **Leonie Fiebich** 🔴 +1 | 111 |
 | 189 | Shoni Schimmel | 111 |
-| 190 | **Leonie Fiebich** 🔴 | 110 |
 | 191 | Emma Meesseman | 109 |
 | 191 | Scholanda Dorrell | 109 |
 | 193 | Belinda Snell | 108 |
