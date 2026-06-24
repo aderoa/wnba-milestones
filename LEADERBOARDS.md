@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-24 03:42 UTC_
+_Last updated: 2026-06-24 03:43 UTC_
 
 ## Contents
 
@@ -989,12 +989,12 @@ _Last updated: 2026-06-24 03:42 UTC_
 | 148 | Allison Feaster | 219 |
 | 149 | Shenise Johnson | 217 |
 | 150 | Adrian Williams-Strong | 216 |
+| 150 | **Cheyenne Parker-Tyus** 🔴 +1 | 216 |
 | 150 | Kahleah Copper | 216 |
 | 150 | Moriah Jefferson | 216 |
-| 153 | Asjha Jones | 215 |
-| 153 | Candice Wiggins | 215 |
-| 153 | **Cheyenne Parker-Tyus** 🔴 | 215 |
-| 153 | Elena Baranova | 215 |
+| 154 | Asjha Jones | 215 |
+| 154 | Candice Wiggins | 215 |
+| 154 | Elena Baranova | 215 |
 | 157 | Shekinna Stricklen | 213 |
 | 158 | Marina Mabrey | 212 |
 | 159 | Nikki Teasley | 211 |
@@ -1554,7 +1554,7 @@ _Last updated: 2026-06-24 03:42 UTC_
 | 98 | **Cheyenne Parker-Tyus** 🔴 +1 | 675 |
 | 99 | Chamique Holdsclaw | 667 |
 | 100 | **Breanna Stewart** 🔴 | 665 |
-| 101 | **Jewell Loyd** 🔴 +2 | 663 |
+| 101 | **Jewell Loyd** 🔴 +3 | 664 |
 | 102 | Tianna Hawkins | 662 |
 | 103 | Kayla Thornton | 661 |
 | 104 | Tari Phillips | 648 |
