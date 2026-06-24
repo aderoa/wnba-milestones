@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-24 02:48 UTC_
+_Last updated: 2026-06-24 02:49 UTC_
 
 ## Contents
 
@@ -112,7 +112,7 @@ _Last updated: 2026-06-24 02:48 UTC_
 | 91 | Shavonte Zellous | 3,103 |
 | 92 | Briann January | 3,082 |
 | 93 | Marina Mabrey | 3,052 |
-| 94 | **Sabrina Ionescu** 🔴 +7 | 3,048 |
+| 94 | **Sabrina Ionescu** 🔴 +8 | 3,049 |
 | 95 | Erika de Souza | 3,046 |
 | 96 | Shameka Christon | 3,039 |
 | 97 | Marie Ferdinand-Harris | 3,001 |
@@ -236,7 +236,7 @@ _Last updated: 2026-06-24 02:48 UTC_
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | Alyssa Thomas | 2,817 |
-| 13 | **Jonquel Jones** 🔴 +4 | 2,667 |
+| 13 | **Jonquel Jones** 🔴 +5 | 2,668 |
 | 14 | Sancho Lyttle | 2,596 |
 | 15 | **A'ja Wilson** 🔴 +4 | 2,578 |
 | 16 | DeLisha Milton-Jones | 2,574 |
@@ -345,7 +345,7 @@ _Last updated: 2026-06-24 02:48 UTC_
 | 119 | Svetlana Abrosimova | 1,078 |
 | 120 | Le'coe Willingham | 1,054 |
 | 121 | Isabelle Harrison | 1,049 |
-| 122 | **Jackie Young** 🔴 +1 | 1,045 |
+| 122 | **Jackie Young** 🔴 +2 | 1,046 |
 | 123 | Nicole Ohlde | 1,040 |
 | 124 | Tamecka Dixon | 1,035 |
 | 125 | Kamila Vodichkova | 1,031 |
