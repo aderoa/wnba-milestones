@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-24 02:12 UTC
+
+- **Sabrina Ionescu** passed **Erin Phillips** for **#185** all-time in steals (career 183) — up from #186 entering today — _6:27 - 1st — NY @ LV_
+
 ## 2026-06-23 04:07 UTC
 
 - **Zia Cooke** reached **500** career points (now 501) — _39.1 - OT — DAL @ SEA_

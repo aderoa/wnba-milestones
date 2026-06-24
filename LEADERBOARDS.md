@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-24 02:11 UTC_
+_Last updated: 2026-06-24 02:12 UTC_
 
 ## Contents
 
@@ -32,12 +32,12 @@ _Last updated: 2026-06-24 02:11 UTC_
 | 11 | Katie Smith | 6,450 |
 | 12 | Sylvia Fowles | 6,413 |
 | 13 | Lisa Leslie | 6,251 |
-| 14 | **Breanna Stewart** 🔴 | 6,173 |
+| 14 | **Breanna Stewart** 🔴 +3 | 6,176 |
 | 15 | Jewell Loyd | 6,078 |
 | 16 | Brittney Griner | 6,031 |
 | 17 | Lauren Jackson | 6,005 |
 | 17 | Seimone Augustus | 6,005 |
-| 19 | **A'ja Wilson** 🔴 | 5,942 |
+| 19 | **A'ja Wilson** 🔴 +2 | 5,944 |
 | 20 | Becky Hammon | 5,816 |
 | 21 | Angel McCoughtry | 5,797 |
 | 22 | Skylar Diggins | 5,626 |
@@ -113,7 +113,7 @@ _Last updated: 2026-06-24 02:11 UTC_
 | 92 | Briann January | 3,082 |
 | 93 | Marina Mabrey | 3,052 |
 | 94 | Erika de Souza | 3,046 |
-| 95 | **Sabrina Ionescu** 🔴 | 3,041 |
+| 95 | **Sabrina Ionescu** 🔴 +2 | 3,043 |
 | 96 | Shameka Christon | 3,039 |
 | 97 | Marie Ferdinand-Harris | 3,001 |
 | 98 | Emma Meesseman | 2,966 |
@@ -321,7 +321,7 @@ _Last updated: 2026-06-24 02:11 UTC_
 | 95 | Brianna Turner | 1,237 |
 | 96 | Seimone Augustus | 1,228 |
 | 97 | Kayla McBride | 1,226 |
-| 98 | **Chelsea Gray** 🔴 | 1,221 |
+| 98 | **Chelsea Gray** 🔴 +1 | 1,222 |
 | 99 | Jia Perkins | 1,220 |
 | 100 | DeMya Walker | 1,199 |
 | 101 | Latasha Byears | 1,190 |
@@ -369,7 +369,7 @@ _Last updated: 2026-06-24 02:11 UTC_
 | 143 | Janell Burse | 944 |
 | 144 | Jessica Shepard | 927 |
 | 144 | Merlakia Jones | 927 |
-| 146 | **Satou Sabally** 🔴 | 926 |
+| 144 | **Satou Sabally** 🔴 +1 | 927 |
 | 147 | Angel Reese | 923 |
 | 148 | Nicky Anosike | 922 |
 | 149 | Janeth Arcain | 916 |
@@ -464,7 +464,7 @@ _Last updated: 2026-06-24 02:11 UTC_
 | 33 | Renee Montgomery | 1,140 |
 | 34 | Swin Cash | 1,131 |
 | 35 | Lindsey Harding | 1,090 |
-| 36 | **Jackie Young** 🔴 | 1,087 |
+| 36 | **Jackie Young** 🔴 +1 | 1,088 |
 | 37 | **Sabrina Ionescu** 🔴 | 1,074 |
 | 38 | Katie Douglas | 1,069 |
 | 39 | Alana Beard | 1,061 |
@@ -568,7 +568,7 @@ _Last updated: 2026-06-24 02:11 UTC_
 | 137 | Elizabeth Williams | 467 |
 | 138 | Erin Phillips | 462 |
 | 139 | Sylvia Fowles | 461 |
-| 140 | **Satou Sabally** 🔴 | 456 |
+| 140 | **Satou Sabally** 🔴 +1 | 457 |
 | 141 | Sydney Colson | 454 |
 | 141 | Tyasha Harris | 454 |
 | 143 | Yolanda Griffith | 451 |
@@ -1023,8 +1023,8 @@ _Last updated: 2026-06-24 02:11 UTC_
 | 181 | Tiffany Jackson | 185 |
 | 183 | Erin Perperoglou | 184 |
 | 184 | Rebecca Allen | 183 |
-| 185 | Erin Phillips | 182 |
-| 185 | **Sabrina Ionescu** 🔴 | 182 |
+| 184 | **Sabrina Ionescu** 🔴 +1 | 183 |
+| 186 | Erin Phillips | 182 |
 | 187 | Nakia Sanford | 181 |
 | 188 | Diamond DeShields | 180 |
 | 188 | Isabelle Harrison | 180 |
@@ -1070,7 +1070,7 @@ _Last updated: 2026-06-24 02:11 UTC_
 | 24 | Marina Mabrey | 465 |
 | 25 | Cappie Pondexter | 464 |
 | 26 | **Sabrina Ionescu** 🔴 | 462 |
-| 27 | **Breanna Stewart** 🔴 | 460 |
+| 27 | **Breanna Stewart** 🔴 +1 | 461 |
 | 28 | Ariel Atkins | 451 |
 | 28 | Tiffany Hayes | 451 |
 | 30 | Allisha Gray | 445 |
@@ -1376,7 +1376,7 @@ _Last updated: 2026-06-24 02:11 UTC_
 | 125 | Betnijah Laney-Hamilton | 444 |
 | 125 | Elena Baranova | 444 |
 | 125 | Jantel Lavender | 444 |
-| 128 | **Jackie Young** 🔴 | 441 |
+| 128 | **Jackie Young** 🔴 +1 | 442 |
 | 129 | Alysha Clark | 440 |
 | 129 | Ann Wauters | 440 |
 | 129 | Cheyenne Parker-Tyus | 440 |
