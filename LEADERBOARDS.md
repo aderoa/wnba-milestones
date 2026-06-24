@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-24 02:29 UTC_
+_Last updated: 2026-06-24 02:30 UTC_
 
 ## Contents
 
@@ -73,7 +73,7 @@ _Last updated: 2026-06-24 02:29 UTC_
 | 52 | Dearica Hamby | 4,243 |
 | 53 | Courtney Williams | 4,238 |
 | 54 | Vickie Johnson | 4,230 |
-| 55 | **Jonquel Jones** 🔴 +4 | 4,226 |
+| 55 | **Jonquel Jones** 🔴 +6 | 4,228 |
 | 56 | Yolanda Griffith | 4,224 |
 | 57 | Rebekkah Brunson | 4,133 |
 | 58 | Asjha Jones | 3,986 |
@@ -236,7 +236,7 @@ _Last updated: 2026-06-24 02:29 UTC_
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | Alyssa Thomas | 2,817 |
-| 13 | **Jonquel Jones** 🔴 +2 | 2,665 |
+| 13 | **Jonquel Jones** 🔴 +3 | 2,666 |
 | 14 | Sancho Lyttle | 2,596 |
 | 15 | **A'ja Wilson** 🔴 +2 | 2,576 |
 | 16 | DeLisha Milton-Jones | 2,574 |
@@ -367,9 +367,9 @@ _Last updated: 2026-06-24 02:29 UTC_
 | 141 | Dominique Canty | 961 |
 | 142 | Armintie Herrington | 960 |
 | 143 | Janell Burse | 944 |
-| 144 | Jessica Shepard | 927 |
-| 144 | Merlakia Jones | 927 |
-| 144 | **Satou Sabally** 🔴 +1 | 927 |
+| 144 | **Satou Sabally** 🔴 +2 | 928 |
+| 145 | Jessica Shepard | 927 |
+| 145 | Merlakia Jones | 927 |
 | 147 | Angel Reese | 923 |
 | 148 | Nicky Anosike | 922 |
 | 149 | Janeth Arcain | 916 |
@@ -772,9 +772,9 @@ _Last updated: 2026-06-24 02:29 UTC_
 | 135 | Tiffani Johnson | 96 |
 | 137 | Imani McGee-Stafford | 95 |
 | 137 | Isabelle Harrison | 95 |
-| 139 | **Jewell Loyd** 🔴 | 94 |
-| 139 | **NaLyssa Smith** 🔴 | 94 |
-| 139 | Sandrine Gruda | 94 |
+| 137 | **NaLyssa Smith** 🔴 +1 | 95 |
+| 140 | **Jewell Loyd** 🔴 | 94 |
+| 140 | Sandrine Gruda | 94 |
 | 142 | Jasmine Thomas | 91 |
 | 142 | Kayla Alexander | 91 |
 | 144 | Allie Quigley | 90 |
@@ -828,7 +828,7 @@ _Last updated: 2026-06-24 02:29 UTC_
 | 192 | **Jackie Young** 🔴 +1 | 69 |
 | 192 | Mercedes Russell | 69 |
 | 192 | Rhonda Mapp | 69 |
-| 195 | **Satou Sabally** 🔴 | 68 |
+| 192 | **Satou Sabally** 🔴 +1 | 69 |
 | 196 | Shannon Johnson | 67 |
 | 197 | Crystal Robinson | 65 |
 | 197 | Queen Egbo | 65 |
