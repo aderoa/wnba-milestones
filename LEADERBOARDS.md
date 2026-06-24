@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-24 03:18 UTC_
+_Last updated: 2026-06-24 03:19 UTC_
 
 ## Contents
 
@@ -37,7 +37,7 @@ _Last updated: 2026-06-24 03:18 UTC_
 | 16 | Brittney Griner | 6,031 |
 | 17 | Lauren Jackson | 6,005 |
 | 17 | Seimone Augustus | 6,005 |
-| 19 | **A'ja Wilson** 🔴 +8 | 5,950 |
+| 19 | **A'ja Wilson** 🔴 +10 | 5,952 |
 | 20 | Becky Hammon | 5,816 |
 | 21 | Angel McCoughtry | 5,797 |
 | 22 | Skylar Diggins | 5,626 |
@@ -434,7 +434,7 @@ _Last updated: 2026-06-24 03:18 UTC_
 | 3 | Ticha Penicheiro | 2,588 |
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
-| 6 | **Chelsea Gray** 🔴 +5 | 1,940 |
+| 6 | **Chelsea Gray** 🔴 +6 | 1,941 |
 | 7 | Alyssa Thomas | 1,903 |
 | 8 | Skylar Diggins | 1,812 |
 | 9 | Natasha Cloud | 1,772 |
@@ -727,11 +727,11 @@ _Last updated: 2026-06-24 03:18 UTC_
 | 91 | Brooke Wyckoff | 129 |
 | 91 | Cathrine Kraayeveld | 129 |
 | 91 | Monique Billings | 129 |
-| 94 | **Chelsea Gray** 🔴 +1 | 127 |
 | 94 | Chiney Ogwumike | 127 |
 | 94 | Kristen Rasmussen | 127 |
-| 97 | Katie Douglas | 126 |
-| 97 | Mistie Bass | 126 |
+| 96 | **Chelsea Gray** 🔴 | 126 |
+| 96 | Katie Douglas | 126 |
+| 96 | Mistie Bass | 126 |
 | 99 | Brionna Jones | 125 |
 | 99 | Olivia Nelson-Ododa | 125 |
 | 101 | Alyssa Thomas | 123 |
@@ -1496,7 +1496,7 @@ _Last updated: 2026-06-24 03:18 UTC_
 | 40 | DeWanna Bonner | 912 |
 | 41 | Shavonte Zellous | 907 |
 | 42 | Alysha Clark | 896 |
-| 43 | **Jonquel Jones** 🔴 +1 | 891 |
+| 43 | **Jonquel Jones** 🔴 +3 | 893 |
 | 44 | DeMya Walker | 882 |
 | 45 | Candice Dupree | 876 |
 | 46 | Murriel Page | 872 |
