@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-24 23:40 UTC_
+_Last updated: 2026-06-24 23:41 UTC_
 
 ## Contents
 
@@ -47,7 +47,7 @@ _Last updated: 2026-06-24 23:40 UTC_
 | 26 | Lindsay Whalen | 5,511 |
 | 27 | Swin Cash | 5,119 |
 | 28 | Tangela Smith | 5,035 |
-| 29 | **Kelsey Mitchell** 🔴 +3 | 5,006 |
+| 29 | **Kelsey Mitchell** 🔴 +5 | 5,008 |
 | 30 | Taj McWilliams-Franklin | 4,992 |
 | 31 | Tiffany Hayes | 4,985 |
 | 32 | Maya Moore | 4,984 |
@@ -55,7 +55,7 @@ _Last updated: 2026-06-24 23:40 UTC_
 | 34 | Alana Beard | 4,740 |
 | 35 | Chamique Holdsclaw | 4,713 |
 | 36 | Elena Delle Donne | 4,706 |
-| 37 | **Alyssa Thomas** 🔴 | 4,653 |
+| 37 | **Alyssa Thomas** 🔴 +2 | 4,655 |
 | 38 | Arike Ogunbowale | 4,612 |
 | 39 | Penny Taylor | 4,595 |
 | 40 | **Natasha Howard** 🔴 +7 | 4,535 |
@@ -249,7 +249,7 @@ _Last updated: 2026-06-24 23:40 UTC_
 | 23 | Yolanda Griffith | 2,440 |
 | 24 | Dearica Hamby | 2,391 |
 | 25 | Tangela Smith | 2,328 |
-| 26 | **Natasha Howard** 🔴 +1 | 2,254 |
+| 26 | **Natasha Howard** 🔴 +2 | 2,255 |
 | 27 | Erika de Souza | 2,220 |
 | 28 | Diana Taurasi | 2,201 |
 | 29 | Margo Dydek | 2,138 |
@@ -459,7 +459,7 @@ _Last updated: 2026-06-24 23:40 UTC_
 | 28 | Vickie Johnson | 1,202 |
 | 29 | Jordin Canada | 1,201 |
 | 30 | Leilani Mitchell | 1,197 |
-| 31 | **DeWanna Bonner** 🔴 | 1,192 |
+| 31 | **DeWanna Bonner** 🔴 +1 | 1,193 |
 | 32 | Jewell Loyd | 1,144 |
 | 33 | Renee Montgomery | 1,140 |
 | 34 | Swin Cash | 1,131 |
@@ -596,8 +596,8 @@ _Last updated: 2026-06-24 23:40 UTC_
 | 165 | Rita Williams | 403 |
 | 166 | Kia Nurse | 402 |
 | 167 | Julie Allemand | 401 |
-| 168 | **Aliyah Boston** 🔴 +1 | 399 |
-| 168 | Marissa Coleman | 399 |
+| 168 | **Aliyah Boston** 🔴 +2 | 400 |
+| 169 | Marissa Coleman | 399 |
 | 170 | Jessica Shepard | 395 |
 | 170 | Stacey Dales | 395 |
 | 172 | Sugar Rodgers | 393 |
@@ -1276,7 +1276,7 @@ _Last updated: 2026-06-24 23:40 UTC_
 | 25 | Alana Beard | 854 |
 | 26 | **DeWanna Bonner** 🔴 | 837 |
 | 27 | Katie Douglas | 824 |
-| 28 | **Natasha Howard** 🔴 | 821 |
+| 28 | **Natasha Howard** 🔴 +1 | 822 |
 | 29 | Betty Lennox | 800 |
 | 30 | Jasmine Thomas | 796 |
 | 31 | Nneka Ogwumike | 795 |
@@ -1312,9 +1312,9 @@ _Last updated: 2026-06-24 23:40 UTC_
 | 61 | Yolanda Griffith | 653 |
 | 62 | Sheri Sam | 650 |
 | 63 | Dawn Staley | 643 |
+| 64 | **Kayla McBride** 🔴 +1 | 637 |
 | 64 | Ruth Riley | 637 |
-| 65 | **Kayla McBride** 🔴 | 636 |
-| 65 | Kelsey Plum | 636 |
+| 66 | Kelsey Plum | 636 |
 | 67 | Odyssey Sims | 631 |
 | 67 | Svetlana Abrosimova | 631 |
 | 69 | Jonquel Jones | 627 |
