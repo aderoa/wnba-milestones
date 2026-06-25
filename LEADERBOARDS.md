@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-25 01:02 UTC_
+_Last updated: 2026-06-25 01:03 UTC_
 
 ## Contents
 
@@ -47,7 +47,7 @@ _Last updated: 2026-06-25 01:02 UTC_
 | 26 | Lindsay Whalen | 5,511 |
 | 27 | Swin Cash | 5,119 |
 | 28 | Tangela Smith | 5,035 |
-| 29 | **Kelsey Mitchell** 🔴 +22 | 5,025 |
+| 29 | **Kelsey Mitchell** 🔴 +24 | 5,027 |
 | 30 | Taj McWilliams-Franklin | 4,992 |
 | 31 | Tiffany Hayes | 4,985 |
 | 32 | Maya Moore | 4,984 |
@@ -593,9 +593,9 @@ _Last updated: 2026-06-25 01:02 UTC_
 | 162 | Jamierra Faulkner | 410 |
 | 162 | Murriel Page | 410 |
 | 164 | Allison Feaster | 406 |
+| 165 | **Aliyah Boston** 🔴 +5 | 403 |
 | 165 | Rita Williams | 403 |
-| 166 | **Aliyah Boston** 🔴 +4 | 402 |
-| 166 | Kia Nurse | 402 |
+| 167 | Kia Nurse | 402 |
 | 168 | Julie Allemand | 401 |
 | 169 | Marissa Coleman | 399 |
 | 170 | Jessica Shepard | 395 |
@@ -806,14 +806,14 @@ _Last updated: 2026-06-25 01:02 UTC_
 | 168 | Tierra Ruffin-Pratt | 77 |
 | 171 | Cameron Brink | 76 |
 | 171 | Jennifer Lacy | 76 |
-| 171 | **Myisha Hines-Allen** 🔴 +2 | 76 |
 | 171 | Stephanie Talbot | 76 |
 | 171 | Sugar Rodgers | 76 |
 | 171 | Tan White | 76 |
 | 171 | Tiffany Jackson | 76 |
-| 178 | Karima Christmas-Kelly | 75 |
-| 178 | Kelsey Griffin | 75 |
-| 178 | Tianna Hawkins | 75 |
+| 177 | Karima Christmas-Kelly | 75 |
+| 177 | Kelsey Griffin | 75 |
+| 177 | **Myisha Hines-Allen** 🔴 +1 | 75 |
+| 177 | Tianna Hawkins | 75 |
 | 181 | Epiphanny Prince | 74 |
 | 182 | Ayana Walker | 73 |
 | 182 | Lindsay Wisdom-Hylton | 73 |
