@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-25 02:22 UTC_
+_Last updated: 2026-06-25 02:23 UTC_
 
 ## Contents
 
@@ -974,8 +974,8 @@ _Last updated: 2026-06-25 02:22 UTC_
 | 133 | Coco Miller | 237 |
 | 134 | Marissa Coleman | 236 |
 | 135 | Nikki McCray | 235 |
-| 136 | Merlakia Jones | 232 |
-| 136 | **Rhyne Howard** 🔴 | 232 |
+| 136 | **Rhyne Howard** 🔴 +1 | 233 |
+| 137 | Merlakia Jones | 232 |
 | 138 | Ruth Riley | 231 |
 | 139 | Scholanda Dorrell | 230 |
 | 140 | Kara Lawson | 229 |
@@ -1320,7 +1320,7 @@ _Last updated: 2026-06-25 02:22 UTC_
 | 69 | Jonquel Jones | 627 |
 | 70 | Rebekkah Brunson | 615 |
 | 71 | Seimone Augustus | 613 |
-| 72 | **Tiffany Hayes** 🔴 | 610 |
+| 72 | **Tiffany Hayes** 🔴 +1 | 611 |
 | 73 | Kahleah Copper | 609 |
 | 74 | Teresa Weatherspoon | 601 |
 | 75 | Lindsey Harding | 600 |
