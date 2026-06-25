@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-25 03:59 UTC_
+_Last updated: 2026-06-25 04:00 UTC_
 
 ## Contents
 
@@ -150,7 +150,7 @@ _Last updated: 2026-06-25 03:59 UTC_
 | 129 | Anna DeForge | 2,413 |
 | 130 | DeMya Walker | 2,379 |
 | 131 | Alex Bentley | 2,350 |
-| 132 | **Kayla Thornton** 🔴 +11 | 2,344 |
+| 132 | **Kayla Thornton** 🔴 +14 | 2,347 |
 | 133 | Merlakia Jones | 2,308 |
 | 134 | Kia Vaughn | 2,288 |
 | 135 | Betnijah Laney-Hamilton | 2,282 |
@@ -300,7 +300,7 @@ _Last updated: 2026-06-25 03:59 UTC_
 | 74 | Courtney Vandersloot | 1,383 |
 | 74 | Katie Smith | 1,383 |
 | 76 | Ebony Hoffman | 1,376 |
-| 77 | **Kayla Thornton** 🔴 +4 | 1,364 |
+| 77 | **Kayla Thornton** 🔴 +5 | 1,365 |
 | 78 | Sheri Sam | 1,356 |
 | 79 | Tamika Whitmore | 1,355 |
 | 80 | Emma Meesseman | 1,350 |
@@ -537,7 +537,7 @@ _Last updated: 2026-06-25 03:59 UTC_
 | 106 | Betnijah Laney-Hamilton | 585 |
 | 107 | Tan White | 578 |
 | 108 | Matee Ajavon | 577 |
-| 109 | **Gabby Williams** 🔴 +3 | 575 |
+| 109 | **Gabby Williams** 🔴 +4 | 576 |
 | 110 | Napheesa Collier | 570 |
 | 111 | Nicole Powell | 567 |
 | 112 | Loree Moore | 562 |
@@ -1119,7 +1119,7 @@ _Last updated: 2026-06-25 03:59 UTC_
 | 72 | Natisha Hiedeman | 303 |
 | 73 | Vickie Johnson | 295 |
 | 74 | Seimone Augustus | 293 |
-| 75 | **Kayla Thornton** 🔴 +3 | 291 |
+| 75 | **Kayla Thornton** 🔴 +4 | 292 |
 | 76 | Candice Wiggins | 290 |
 | 76 | Tully Bevilaqua | 290 |
 | 78 | Alana Beard | 288 |
@@ -1555,8 +1555,8 @@ _Last updated: 2026-06-25 03:59 UTC_
 | 98 | Cheyenne Parker-Tyus | 674 |
 | 99 | Chamique Holdsclaw | 667 |
 | 100 | Breanna Stewart | 665 |
-| 101 | **Kayla Thornton** 🔴 +1 | 662 |
-| 101 | Tianna Hawkins | 662 |
+| 101 | **Kayla Thornton** 🔴 +2 | 663 |
+| 102 | Tianna Hawkins | 662 |
 | 103 | Jewell Loyd | 661 |
 | 104 | Tari Phillips | 648 |
 | 105 | Marie Ferdinand-Harris | 646 |
