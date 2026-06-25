@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-25 00:51 UTC_
+_Last updated: 2026-06-25 00:52 UTC_
 
 ## Contents
 
@@ -21,7 +21,7 @@ _Last updated: 2026-06-25 00:51 UTC_
 |-----:|--------|------:|
 | 1 | Diana Taurasi | 10,608 |
 | 2 | Tina Charles | 8,396 |
-| 3 | **DeWanna Bonner** 🔴 +11 | 7,921 |
+| 3 | **DeWanna Bonner** 🔴 +13 | 7,923 |
 | 4 | Tina Thompson | 7,470 |
 | 5 | Nneka Ogwumike | 7,440 |
 | 6 | Tamika Catchings | 7,371 |
@@ -117,7 +117,7 @@ _Last updated: 2026-06-25 00:51 UTC_
 | 96 | Shameka Christon | 3,039 |
 | 97 | Marie Ferdinand-Harris | 3,001 |
 | 98 | Emma Meesseman | 2,966 |
-| 99 | **Natasha Cloud** 🔴 +5 | 2,957 |
+| 99 | **Natasha Cloud** 🔴 +7 | 2,959 |
 | 100 | **Elizabeth Williams** 🔴 | 2,896 |
 | 101 | Natalie Williams | 2,894 |
 | 102 | Jennifer Gillom | 2,888 |
@@ -294,7 +294,7 @@ _Last updated: 2026-06-25 00:51 UTC_
 | 68 | Tamera Young | 1,433 |
 | 69 | Alana Beard | 1,420 |
 | 70 | Nakia Sanford | 1,419 |
-| 71 | **Monique Billings** 🔴 +4 | 1,389 |
+| 71 | **Monique Billings** 🔴 +5 | 1,390 |
 | 72 | Kara Braxton | 1,387 |
 | 73 | Allisha Gray | 1,384 |
 | 74 | Courtney Vandersloot | 1,383 |
@@ -337,7 +337,7 @@ _Last updated: 2026-06-25 00:51 UTC_
 | 111 | Adrienne Goodson | 1,126 |
 | 112 | **Aliyah Boston** 🔴 +5 | 1,115 |
 | 112 | NaLyssa Smith | 1,115 |
-| 114 | **Natasha Cloud** 🔴 +2 | 1,114 |
+| 112 | **Natasha Cloud** 🔴 +3 | 1,115 |
 | 115 | Deanna Nolan | 1,112 |
 | 116 | Chiney Ogwumike | 1,110 |
 | 117 | Becky Hammon | 1,108 |
@@ -435,7 +435,7 @@ _Last updated: 2026-06-25 00:51 UTC_
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
 | 6 | Chelsea Gray | 1,935 |
-| 7 | **Alyssa Thomas** 🔴 +4 | 1,907 |
+| 7 | **Alyssa Thomas** 🔴 +5 | 1,908 |
 | 8 | **Skylar Diggins** 🔴 +5 | 1,817 |
 | 9 | **Natasha Cloud** 🔴 +1 | 1,773 |
 | 10 | Becky Hammon | 1,705 |
@@ -459,7 +459,7 @@ _Last updated: 2026-06-25 00:51 UTC_
 | 28 | Vickie Johnson | 1,202 |
 | 29 | Jordin Canada | 1,201 |
 | 30 | Leilani Mitchell | 1,197 |
-| 31 | **DeWanna Bonner** 🔴 +1 | 1,193 |
+| 31 | **DeWanna Bonner** 🔴 +2 | 1,194 |
 | 32 | Jewell Loyd | 1,144 |
 | 33 | Renee Montgomery | 1,140 |
 | 34 | Swin Cash | 1,131 |
@@ -845,7 +845,7 @@ _Last updated: 2026-06-25 00:51 UTC_
 | 4 | Alana Beard | 710 |
 | 5 | Nneka Ogwumike | 678 |
 | 6 | Sheryl Swoopes | 657 |
-| 7 | **DeWanna Bonner** 🔴 +1 | 644 |
+| 7 | **DeWanna Bonner** 🔴 +2 | 645 |
 | 8 | Jia Perkins | 634 |
 | 9 | Sancho Lyttle | 630 |
 | 10 | Angel McCoughtry | 627 |
@@ -1312,8 +1312,8 @@ _Last updated: 2026-06-25 00:51 UTC_
 | 61 | Yolanda Griffith | 653 |
 | 62 | Sheri Sam | 650 |
 | 63 | Dawn Staley | 643 |
-| 64 | **Kayla McBride** 🔴 +1 | 637 |
-| 64 | Ruth Riley | 637 |
+| 64 | **Kayla McBride** 🔴 +2 | 638 |
+| 65 | Ruth Riley | 637 |
 | 66 | Kelsey Plum | 636 |
 | 67 | Odyssey Sims | 631 |
 | 67 | Svetlana Abrosimova | 631 |
@@ -1425,7 +1425,7 @@ _Last updated: 2026-06-25 00:51 UTC_
 | 173 | Diamond DeShields | 333 |
 | 175 | Charde Houston | 331 |
 | 176 | Satou Sabally | 330 |
-| 177 | **Caitlin Clark** 🔴 +3 | 327 |
+| 177 | **Caitlin Clark** 🔴 +4 | 328 |
 | 178 | Erlana Larkins | 326 |
 | 178 | Rita Williams | 326 |
 | 180 | Le'coe Willingham | 325 |
