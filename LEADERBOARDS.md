@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-25 01:26 UTC_
+_Last updated: 2026-06-25 01:27 UTC_
 
 ## Contents
 
@@ -231,7 +231,7 @@ _Last updated: 2026-06-25 01:26 UTC_
 | 5 | Nneka Ogwumike | 3,337 |
 | 6 | Tamika Catchings | 3,313 |
 | 7 | Lisa Leslie | 3,303 |
-| 8 | **DeWanna Bonner** 🔴 +7 | 3,267 |
+| 8 | **DeWanna Bonner** 🔴 +8 | 3,268 |
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
@@ -336,8 +336,8 @@ _Last updated: 2026-06-25 01:26 UTC_
 | 109 | Tamika Raymond | 1,127 |
 | 111 | Adrienne Goodson | 1,126 |
 | 112 | **Aliyah Boston** 🔴 +6 | 1,116 |
-| 113 | NaLyssa Smith | 1,115 |
-| 113 | **Natasha Cloud** 🔴 +3 | 1,115 |
+| 112 | **Natasha Cloud** 🔴 +4 | 1,116 |
+| 114 | NaLyssa Smith | 1,115 |
 | 115 | Deanna Nolan | 1,112 |
 | 116 | Chiney Ogwumike | 1,110 |
 | 117 | Becky Hammon | 1,108 |
@@ -437,7 +437,7 @@ _Last updated: 2026-06-25 01:26 UTC_
 | 6 | Chelsea Gray | 1,935 |
 | 7 | **Alyssa Thomas** 🔴 +7 | 1,910 |
 | 8 | **Skylar Diggins** 🔴 +6 | 1,818 |
-| 9 | **Natasha Cloud** 🔴 +2 | 1,774 |
+| 9 | **Natasha Cloud** 🔴 +3 | 1,775 |
 | 10 | Becky Hammon | 1,705 |
 | 11 | Candace Parker | 1,634 |
 | 12 | Cappie Pondexter | 1,575 |
@@ -734,7 +734,7 @@ _Last updated: 2026-06-25 01:26 UTC_
 | 96 | Mistie Bass | 126 |
 | 99 | Brionna Jones | 125 |
 | 99 | Olivia Nelson-Ododa | 125 |
-| 101 | **Alyssa Thomas** 🔴 | 123 |
+| 101 | **Alyssa Thomas** 🔴 +1 | 124 |
 | 102 | Natalie Williams | 122 |
 | 103 | Ebony Hoffman | 121 |
 | 103 | Essence Carson | 121 |
@@ -1296,7 +1296,7 @@ _Last updated: 2026-06-25 01:26 UTC_
 | 45 | Renee Montgomery | 697 |
 | 46 | Temeka Johnson | 696 |
 | 47 | Penny Taylor | 695 |
-| 48 | **Natasha Cloud** 🔴 | 692 |
+| 48 | **Natasha Cloud** 🔴 +1 | 693 |
 | 49 | Erica Wheeler | 690 |
 | 50 | Dominique Canty | 685 |
 | 51 | DeMya Walker | 684 |
