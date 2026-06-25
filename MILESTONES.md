@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-25 01:48 UTC
+
+- **Nia Coffey** passed **Sami Whitcomb** for **#186** all-time in fouls (career 481) — up from #189 entering today — _0.0 - 4th — MIN @ WSH_
+
 ## 2026-06-25 01:07 UTC
 
 - **Myisha Hines-Allen** passed **Aliyah Boston** for **#166** all-time in points (career 1,929) — up from #172 entering today — _33.4 - 3rd — PHX @ IND_

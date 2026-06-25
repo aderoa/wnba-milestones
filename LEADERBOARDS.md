@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-25 01:47 UTC_
+_Last updated: 2026-06-25 01:48 UTC_
 
 ## Contents
 
@@ -47,7 +47,7 @@ _Last updated: 2026-06-25 01:47 UTC_
 | 26 | Lindsay Whalen | 5,511 |
 | 27 | Swin Cash | 5,119 |
 | 28 | Tangela Smith | 5,035 |
-| 29 | **Kelsey Mitchell** 🔴 +27 | 5,030 |
+| 29 | **Kelsey Mitchell** 🔴 +30 | 5,033 |
 | 30 | Taj McWilliams-Franklin | 4,992 |
 | 31 | Tiffany Hayes | 4,985 |
 | 32 | Maya Moore | 4,984 |
@@ -55,7 +55,7 @@ _Last updated: 2026-06-25 01:47 UTC_
 | 34 | Alana Beard | 4,740 |
 | 35 | Chamique Holdsclaw | 4,713 |
 | 36 | Elena Delle Donne | 4,706 |
-| 37 | **Alyssa Thomas** 🔴 +22 | 4,675 |
+| 37 | **Alyssa Thomas** 🔴 +24 | 4,677 |
 | 38 | Arike Ogunbowale | 4,612 |
 | 39 | Penny Taylor | 4,595 |
 | 40 | **Natasha Howard** 🔴 +21 | 4,549 |
@@ -183,7 +183,7 @@ _Last updated: 2026-06-25 01:47 UTC_
 | 162 | Bria Hartley | 1,967 |
 | 163 | Chiney Ogwumike | 1,964 |
 | 164 | Nicole Ohlde | 1,959 |
-| 165 | **Aliyah Boston** 🔴 +19 | 1,947 |
+| 165 | **Aliyah Boston** 🔴 +21 | 1,949 |
 | 166 | Kedra Holland-Corn | 1,938 |
 | 167 | **Myisha Hines-Allen** 🔴 +13 | 1,931 |
 | 168 | Cathrine Kraayeveld | 1,926 |
@@ -335,7 +335,7 @@ _Last updated: 2026-06-25 01:47 UTC_
 | 109 | Andrea Stinson | 1,127 |
 | 109 | Tamika Raymond | 1,127 |
 | 111 | Adrienne Goodson | 1,126 |
-| 112 | **Aliyah Boston** 🔴 +8 | 1,118 |
+| 112 | **Aliyah Boston** 🔴 +9 | 1,119 |
 | 113 | **Natasha Cloud** 🔴 +4 | 1,116 |
 | 114 | NaLyssa Smith | 1,115 |
 | 115 | Deanna Nolan | 1,112 |
@@ -496,7 +496,7 @@ _Last updated: 2026-06-25 01:47 UTC_
 | 65 | Tully Bevilaqua | 853 |
 | 66 | Brittney Sykes | 852 |
 | 67 | Jia Perkins | 837 |
-| 68 | **Kelsey Mitchell** 🔴 +5 | 826 |
+| 68 | **Kelsey Mitchell** 🔴 +6 | 827 |
 | 69 | Andrea Stinson | 810 |
 | 70 | Tina Thompson | 803 |
 | 71 | Epiphanny Prince | 800 |
@@ -1051,7 +1051,7 @@ _Last updated: 2026-06-25 01:47 UTC_
 | 5 | Tina Thompson | 745 |
 | 6 | **Kayla McBride** 🔴 +5 | 742 |
 | 7 | Katie Douglas | 723 |
-| 8 | **Kelsey Mitchell** 🔴 +6 | 693 |
+| 8 | **Kelsey Mitchell** 🔴 +7 | 694 |
 | 9 | Jewell Loyd | 678 |
 | 10 | **DeWanna Bonner** 🔴 +2 | 674 |
 | 11 | Kristi Toliver | 651 |
@@ -1271,7 +1271,7 @@ _Last updated: 2026-06-25 01:47 UTC_
 | 20 | Shannon Johnson | 934 |
 | 21 | Chelsea Gray | 898 |
 | 21 | Taj McWilliams-Franklin | 898 |
-| 23 | **Skylar Diggins** 🔴 +2 | 895 |
+| 23 | **Skylar Diggins** 🔴 +3 | 896 |
 | 24 | Candice Dupree | 869 |
 | 25 | Alana Beard | 854 |
 | 26 | **DeWanna Bonner** 🔴 +1 | 838 |
@@ -1312,7 +1312,7 @@ _Last updated: 2026-06-25 01:47 UTC_
 | 61 | Yolanda Griffith | 653 |
 | 62 | Sheri Sam | 650 |
 | 63 | Dawn Staley | 643 |
-| 64 | **Kayla McBride** 🔴 +3 | 639 |
+| 64 | **Kayla McBride** 🔴 +4 | 640 |
 | 65 | Ruth Riley | 637 |
 | 66 | Kelsey Plum | 636 |
 | 67 | Odyssey Sims | 631 |
@@ -1639,8 +1639,8 @@ _Last updated: 2026-06-25 01:47 UTC_
 | 182 | Isabelle Harrison | 484 |
 | 184 | Liz Cambage | 483 |
 | 184 | Rhonda Mapp | 483 |
-| 186 | **Nia Coffey** 🔴 +5 | 480 |
-| 186 | Sami Whitcomb | 480 |
+| 186 | **Nia Coffey** 🔴 +6 | 481 |
+| 187 | Sami Whitcomb | 480 |
 | 188 | Seimone Augustus | 477 |
 | 189 | Allie Quigley | 475 |
 | 190 | **Azurá Stevens** 🔴 | 474 |
