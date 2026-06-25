@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-25 01:27 UTC_
+_Last updated: 2026-06-25 01:28 UTC_
 
 ## Contents
 
@@ -55,10 +55,10 @@ _Last updated: 2026-06-25 01:27 UTC_
 | 34 | Alana Beard | 4,740 |
 | 35 | Chamique Holdsclaw | 4,713 |
 | 36 | Elena Delle Donne | 4,706 |
-| 37 | **Alyssa Thomas** 🔴 +16 | 4,669 |
+| 37 | **Alyssa Thomas** 🔴 +20 | 4,673 |
 | 38 | Arike Ogunbowale | 4,612 |
 | 39 | Penny Taylor | 4,595 |
-| 40 | **Natasha Howard** 🔴 +18 | 4,546 |
+| 40 | **Natasha Howard** 🔴 +19 | 4,547 |
 | 41 | Chelsea Gray | 4,506 |
 | 42 | Kristi Toliver | 4,474 |
 | 43 | Crystal Langhorne | 4,433 |
@@ -185,7 +185,7 @@ _Last updated: 2026-06-25 01:27 UTC_
 | 164 | Nicole Ohlde | 1,959 |
 | 165 | **Aliyah Boston** 🔴 +18 | 1,946 |
 | 166 | Kedra Holland-Corn | 1,938 |
-| 167 | **Myisha Hines-Allen** 🔴 +11 | 1,929 |
+| 167 | **Myisha Hines-Allen** 🔴 +13 | 1,931 |
 | 168 | Cathrine Kraayeveld | 1,926 |
 | 169 | Roneeka Hodges | 1,925 |
 | 170 | Latasha Byears | 1,920 |
@@ -249,7 +249,7 @@ _Last updated: 2026-06-25 01:27 UTC_
 | 23 | Yolanda Griffith | 2,440 |
 | 24 | Dearica Hamby | 2,391 |
 | 25 | Tangela Smith | 2,328 |
-| 26 | **Natasha Howard** 🔴 +11 | 2,264 |
+| 26 | **Natasha Howard** 🔴 +12 | 2,265 |
 | 27 | Erika de Souza | 2,220 |
 | 28 | Diana Taurasi | 2,201 |
 | 29 | Margo Dydek | 2,138 |
