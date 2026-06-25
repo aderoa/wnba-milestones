@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-25 01:00 UTC_
+_Last updated: 2026-06-25 01:01 UTC_
 
 ## Contents
 
@@ -55,7 +55,7 @@ _Last updated: 2026-06-25 01:00 UTC_
 | 34 | Alana Beard | 4,740 |
 | 35 | Chamique Holdsclaw | 4,713 |
 | 36 | Elena Delle Donne | 4,706 |
-| 37 | **Alyssa Thomas** 🔴 +14 | 4,667 |
+| 37 | **Alyssa Thomas** 🔴 +16 | 4,669 |
 | 38 | Arike Ogunbowale | 4,612 |
 | 39 | Penny Taylor | 4,595 |
 | 40 | **Natasha Howard** 🔴 +11 | 4,539 |
@@ -186,8 +186,8 @@ _Last updated: 2026-06-25 01:00 UTC_
 | 165 | **Aliyah Boston** 🔴 +16 | 1,944 |
 | 166 | Kedra Holland-Corn | 1,938 |
 | 167 | Cathrine Kraayeveld | 1,926 |
-| 168 | **Myisha Hines-Allen** 🔴 +7 | 1,925 |
-| 168 | Roneeka Hodges | 1,925 |
+| 167 | **Myisha Hines-Allen** 🔴 +8 | 1,926 |
+| 169 | Roneeka Hodges | 1,925 |
 | 170 | Latasha Byears | 1,920 |
 | 171 | Karima Christmas-Kelly | 1,919 |
 | 172 | Jessica Breland | 1,918 |
@@ -1611,8 +1611,8 @@ _Last updated: 2026-06-25 01:00 UTC_
 | 155 | Armintie Herrington | 523 |
 | 156 | **Monique Billings** 🔴 +2 | 519 |
 | 156 | Sheryl Swoopes | 519 |
-| 158 | **Myisha Hines-Allen** 🔴 +1 | 517 |
-| 158 | Nikki McCray | 517 |
+| 158 | **Myisha Hines-Allen** 🔴 +2 | 518 |
+| 159 | Nikki McCray | 517 |
 | 160 | Alex Bentley | 516 |
 | 161 | Jantel Lavender | 513 |
 | 162 | Adrienne Goodson | 512 |
