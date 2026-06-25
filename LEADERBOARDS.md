@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-25 00:45 UTC_
+_Last updated: 2026-06-25 00:46 UTC_
 
 ## Contents
 
@@ -55,7 +55,7 @@ _Last updated: 2026-06-25 00:45 UTC_
 | 34 | Alana Beard | 4,740 |
 | 35 | Chamique Holdsclaw | 4,713 |
 | 36 | Elena Delle Donne | 4,706 |
-| 37 | **Alyssa Thomas** 🔴 +12 | 4,665 |
+| 37 | **Alyssa Thomas** 🔴 +14 | 4,667 |
 | 38 | Arike Ogunbowale | 4,612 |
 | 39 | Penny Taylor | 4,595 |
 | 40 | **Natasha Howard** 🔴 +11 | 4,539 |
@@ -183,8 +183,8 @@ _Last updated: 2026-06-25 00:45 UTC_
 | 162 | Bria Hartley | 1,967 |
 | 163 | Chiney Ogwumike | 1,964 |
 | 164 | Nicole Ohlde | 1,959 |
-| 165 | **Aliyah Boston** 🔴 +10 | 1,938 |
-| 165 | Kedra Holland-Corn | 1,938 |
+| 165 | **Aliyah Boston** 🔴 +12 | 1,940 |
+| 166 | Kedra Holland-Corn | 1,938 |
 | 167 | Cathrine Kraayeveld | 1,926 |
 | 168 | Roneeka Hodges | 1,925 |
 | 169 | **Myisha Hines-Allen** 🔴 +5 | 1,923 |
@@ -327,7 +327,7 @@ _Last updated: 2026-06-25 00:45 UTC_
 | 101 | Latasha Byears | 1,190 |
 | 101 | Tanisha Wright | 1,190 |
 | 103 | Vicky Bullett | 1,189 |
-| 104 | **Kahleah Copper** 🔴 +1 | 1,172 |
+| 104 | **Kahleah Copper** 🔴 +2 | 1,173 |
 | 105 | Nykesha Sales | 1,148 |
 | 106 | Brittney Sykes | 1,145 |
 | 107 | Shannon Johnson | 1,143 |
@@ -404,10 +404,10 @@ _Last updated: 2026-06-25 00:45 UTC_
 | 178 | Lindsey Harding | 779 |
 | 179 | Tiffani Johnson | 778 |
 | 180 | Teresa Weatherspoon | 775 |
-| 181 | Anna DeForge | 769 |
-| 181 | Kelsey Bone | 769 |
-| 181 | Tan White | 769 |
-| 184 | **Shakira Austin** 🔴 +10 | 768 |
+| 181 | **Shakira Austin** 🔴 +12 | 770 |
+| 182 | Anna DeForge | 769 |
+| 182 | Kelsey Bone | 769 |
+| 182 | Tan White | 769 |
 | 185 | Tully Bevilaqua | 767 |
 | 186 | Layshia Clarendon | 756 |
 | 187 | Brooke Wyckoff | 751 |
@@ -562,7 +562,7 @@ _Last updated: 2026-06-25 00:45 UTC_
 | 131 | Crystal Robinson | 488 |
 | 131 | Tiffany Mitchell | 488 |
 | 133 | Rebekkah Brunson | 486 |
-| 134 | **Kahleah Copper** 🔴 | 484 |
+| 134 | **Kahleah Copper** 🔴 +1 | 485 |
 | 135 | Ukari Figgs | 470 |
 | 136 | Janeth Arcain | 469 |
 | 137 | **Elizabeth Williams** 🔴 | 467 |
@@ -1575,7 +1575,7 @@ _Last updated: 2026-06-25 00:45 UTC_
 | 119 | Odyssey Sims | 610 |
 | 120 | Layshia Clarendon | 609 |
 | 121 | Tiffany Mitchell | 604 |
-| 122 | **Kelsey Mitchell** 🔴 +1 | 602 |
+| 122 | **Kelsey Mitchell** 🔴 +2 | 603 |
 | 123 | Janel McCarville | 597 |
 | 124 | Kamila Vodichkova | 596 |
 | 125 | Teresa Weatherspoon | 589 |

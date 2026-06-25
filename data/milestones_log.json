@@ -1,5 +1,19 @@
 [
   {
+    "ts": "2026-06-25T00:46:00+00:00",
+    "text": "Shakira Austin passed Anna DeForge, Kelsey Bone, and Tan White for #181 all-time in rebounds (career 770) \u2014 up from #185 entering today \u2014 (4:36 - 3rd \u2014 MIN @ WSH)",
+    "kind": "rank_pass",
+    "player": "Shakira Austin",
+    "stat": "rebounds",
+    "rank": 181,
+    "passed_players": [
+      "Anna DeForge",
+      "Kelsey Bone",
+      "Tan White"
+    ],
+    "new_total": 770
+  },
+  {
     "ts": "2026-06-24T04:01:00+00:00",
     "text": "Cheyenne Parker-Tyus passed Kelly Miller for #97 all-time in fouls (career 677) \u2014 up from #98 entering today \u2014 (1:22 - 4th \u2014 NY @ LV)",
     "kind": "rank_pass",
@@ -2965,17 +2979,5 @@
       "Merlakia Jones"
     ],
     "new_total": 928
-  },
-  {
-    "ts": "2026-06-06T22:18:00+00:00",
-    "text": "Rhyne Howard passed Tiffany Mitchell for #125 all-time in points (career 2,481) \u2014 up from #126 entering today \u2014 (3:16 - 1st \u2014 WSH @ ATL)",
-    "kind": "rank_pass",
-    "player": "Rhyne Howard",
-    "stat": "points",
-    "rank": 125,
-    "passed_players": [
-      "Tiffany Mitchell"
-    ],
-    "new_total": 2481
   }
 ]
