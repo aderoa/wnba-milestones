@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-25 00:15 UTC_
+_Last updated: 2026-06-25 00:16 UTC_
 
 ## Contents
 
@@ -21,7 +21,7 @@ _Last updated: 2026-06-25 00:15 UTC_
 |-----:|--------|------:|
 | 1 | Diana Taurasi | 10,608 |
 | 2 | Tina Charles | 8,396 |
-| 3 | **DeWanna Bonner** 🔴 +5 | 7,915 |
+| 3 | **DeWanna Bonner** 🔴 +7 | 7,917 |
 | 4 | Tina Thompson | 7,470 |
 | 5 | Nneka Ogwumike | 7,440 |
 | 6 | Tamika Catchings | 7,371 |
@@ -268,7 +268,7 @@ _Last updated: 2026-06-25 00:15 UTC_
 | 42 | Kiah Stokes | 1,790 |
 | 43 | Asjha Jones | 1,751 |
 | 44 | Stefanie Dolson | 1,688 |
-| 45 | **Teaira McCowan** 🔴 | 1,682 |
+| 45 | **Teaira McCowan** 🔴 +1 | 1,683 |
 | 46 | Monique Currie | 1,666 |
 | 47 | Glory Johnson | 1,640 |
 | 48 | Vickie Johnson | 1,634 |
@@ -436,7 +436,7 @@ _Last updated: 2026-06-25 00:15 UTC_
 | 5 | Lindsay Whalen | 2,347 |
 | 6 | Chelsea Gray | 1,935 |
 | 7 | **Alyssa Thomas** 🔴 +3 | 1,906 |
-| 8 | **Skylar Diggins** 🔴 +2 | 1,814 |
+| 8 | **Skylar Diggins** 🔴 +3 | 1,815 |
 | 9 | **Natasha Cloud** 🔴 | 1,772 |
 | 10 | Becky Hammon | 1,705 |
 | 11 | Candace Parker | 1,634 |
@@ -1610,9 +1610,9 @@ _Last updated: 2026-06-25 00:15 UTC_
 | 153 | **Kayla McBride** 🔴 +1 | 523 |
 | 153 | **Sophie Cunningham** 🔴 | 523 |
 | 156 | Sheryl Swoopes | 519 |
-| 157 | **Monique Billings** 🔴 | 517 |
-| 157 | **Myisha Hines-Allen** 🔴 +1 | 517 |
-| 157 | Nikki McCray | 517 |
+| 157 | **Monique Billings** 🔴 +1 | 518 |
+| 158 | **Myisha Hines-Allen** 🔴 +1 | 517 |
+| 158 | Nikki McCray | 517 |
 | 160 | Alex Bentley | 516 |
 | 161 | Jantel Lavender | 513 |
 | 162 | Adrienne Goodson | 512 |
