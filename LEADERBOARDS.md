@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-25 01:18 UTC_
+_Last updated: 2026-06-25 01:19 UTC_
 
 ## Contents
 
@@ -40,7 +40,7 @@ _Last updated: 2026-06-25 01:18 UTC_
 | 19 | A'ja Wilson | 5,942 |
 | 20 | Becky Hammon | 5,816 |
 | 21 | Angel McCoughtry | 5,797 |
-| 22 | **Skylar Diggins** 🔴 +5 | 5,631 |
+| 22 | **Skylar Diggins** 🔴 +6 | 5,632 |
 | 23 | DeLisha Milton-Jones | 5,571 |
 | 24 | Katie Douglas | 5,545 |
 | 25 | **Kayla McBride** 🔴 +17 | 5,539 |
@@ -315,9 +315,9 @@ _Last updated: 2026-06-25 01:18 UTC_
 | 89 | Janel McCarville | 1,261 |
 | 90 | **Azurá Stevens** 🔴 +4 | 1,260 |
 | 91 | Liz Cambage | 1,258 |
+| 92 | **Myisha Hines-Allen** 🔴 +5 | 1,244 |
 | 92 | Tiffany Hayes | 1,244 |
-| 93 | Ezi Magbegor | 1,243 |
-| 93 | **Myisha Hines-Allen** 🔴 +4 | 1,243 |
+| 94 | Ezi Magbegor | 1,243 |
 | 95 | Brianna Turner | 1,237 |
 | 96 | **Kayla McBride** 🔴 +6 | 1,232 |
 | 97 | Seimone Augustus | 1,228 |
@@ -404,7 +404,7 @@ _Last updated: 2026-06-25 01:18 UTC_
 | 178 | Lindsey Harding | 779 |
 | 179 | Tiffani Johnson | 778 |
 | 180 | Teresa Weatherspoon | 775 |
-| 181 | **Shakira Austin** 🔴 +13 | 771 |
+| 181 | **Shakira Austin** 🔴 +14 | 772 |
 | 182 | Anna DeForge | 769 |
 | 182 | Kelsey Bone | 769 |
 | 182 | Tan White | 769 |
