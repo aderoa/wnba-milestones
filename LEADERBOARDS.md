@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-25 23:35 UTC_
+_Last updated: 2026-06-25 23:36 UTC_
 
 ## Contents
 
@@ -23,7 +23,7 @@ _Last updated: 2026-06-25 23:35 UTC_
 | 2 | Tina Charles | 8,396 |
 | 3 | DeWanna Bonner | 7,910 |
 | 4 | Tina Thompson | 7,470 |
-| 5 | **Nneka Ogwumike** 🔴 +6 | 7,446 |
+| 5 | **Nneka Ogwumike** 🔴 +8 | 7,448 |
 | 6 | Tamika Catchings | 7,371 |
 | 7 | Candice Dupree | 6,861 |
 | 8 | Sue Bird | 6,802 |
@@ -111,7 +111,7 @@ _Last updated: 2026-06-25 23:35 UTC_
 | 90 | Wendy Palmer | 3,135 |
 | 91 | Shavonte Zellous | 3,103 |
 | 92 | Briann January | 3,082 |
-| 93 | **Marina Mabrey** 🔴 +19 | 3,071 |
+| 93 | **Marina Mabrey** 🔴 +21 | 3,073 |
 | 94 | Erika de Souza | 3,046 |
 | 95 | Sabrina Ionescu | 3,041 |
 | 96 | Shameka Christon | 3,039 |
@@ -592,8 +592,8 @@ _Last updated: 2026-06-25 23:35 UTC_
 | 161 | Erin Thorn | 414 |
 | 162 | Jamierra Faulkner | 410 |
 | 162 | Murriel Page | 410 |
-| 164 | Allison Feaster | 406 |
-| 164 | **Julie Allemand** 🔴 +5 | 406 |
+| 164 | **Julie Allemand** 🔴 +6 | 407 |
+| 165 | Allison Feaster | 406 |
 | 166 | Rita Williams | 403 |
 | 167 | **Kia Nurse** 🔴 | 402 |
 | 168 | Marissa Coleman | 399 |
