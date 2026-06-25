@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-25 01:28 UTC_
+_Last updated: 2026-06-25 01:29 UTC_
 
 ## Contents
 
@@ -47,7 +47,7 @@ _Last updated: 2026-06-25 01:28 UTC_
 | 26 | Lindsay Whalen | 5,511 |
 | 27 | Swin Cash | 5,119 |
 | 28 | Tangela Smith | 5,035 |
-| 29 | **Kelsey Mitchell** 🔴 +24 | 5,027 |
+| 29 | **Kelsey Mitchell** 🔴 +27 | 5,030 |
 | 30 | Taj McWilliams-Franklin | 4,992 |
 | 31 | Tiffany Hayes | 4,985 |
 | 32 | Maya Moore | 4,984 |
@@ -58,7 +58,7 @@ _Last updated: 2026-06-25 01:28 UTC_
 | 37 | **Alyssa Thomas** 🔴 +20 | 4,673 |
 | 38 | Arike Ogunbowale | 4,612 |
 | 39 | Penny Taylor | 4,595 |
-| 40 | **Natasha Howard** 🔴 +19 | 4,547 |
+| 40 | **Natasha Howard** 🔴 +21 | 4,549 |
 | 41 | Chelsea Gray | 4,506 |
 | 42 | Kristi Toliver | 4,474 |
 | 43 | Crystal Langhorne | 4,433 |
@@ -117,7 +117,7 @@ _Last updated: 2026-06-25 01:28 UTC_
 | 96 | Shameka Christon | 3,039 |
 | 97 | Marie Ferdinand-Harris | 3,001 |
 | 98 | Emma Meesseman | 2,966 |
-| 99 | **Natasha Cloud** 🔴 +7 | 2,959 |
+| 99 | **Natasha Cloud** 🔴 +9 | 2,961 |
 | 100 | **Elizabeth Williams** 🔴 | 2,896 |
 | 101 | Natalie Williams | 2,894 |
 | 102 | Jennifer Gillom | 2,888 |
@@ -249,7 +249,7 @@ _Last updated: 2026-06-25 01:28 UTC_
 | 23 | Yolanda Griffith | 2,440 |
 | 24 | Dearica Hamby | 2,391 |
 | 25 | Tangela Smith | 2,328 |
-| 26 | **Natasha Howard** 🔴 +12 | 2,265 |
+| 26 | **Natasha Howard** 🔴 +13 | 2,266 |
 | 27 | Erika de Souza | 2,220 |
 | 28 | Diana Taurasi | 2,201 |
 | 29 | Margo Dydek | 2,138 |
@@ -435,9 +435,9 @@ _Last updated: 2026-06-25 01:28 UTC_
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
 | 6 | Chelsea Gray | 1,935 |
-| 7 | **Alyssa Thomas** 🔴 +7 | 1,910 |
+| 7 | **Alyssa Thomas** 🔴 +8 | 1,911 |
 | 8 | **Skylar Diggins** 🔴 +6 | 1,818 |
-| 9 | **Natasha Cloud** 🔴 +3 | 1,775 |
+| 9 | **Natasha Cloud** 🔴 +4 | 1,776 |
 | 10 | Becky Hammon | 1,705 |
 | 11 | Candace Parker | 1,634 |
 | 12 | Cappie Pondexter | 1,575 |
@@ -1051,7 +1051,7 @@ _Last updated: 2026-06-25 01:28 UTC_
 | 5 | Tina Thompson | 745 |
 | 6 | **Kayla McBride** 🔴 +5 | 742 |
 | 7 | Katie Douglas | 723 |
-| 8 | **Kelsey Mitchell** 🔴 +5 | 692 |
+| 8 | **Kelsey Mitchell** 🔴 +6 | 693 |
 | 9 | Jewell Loyd | 678 |
 | 10 | **DeWanna Bonner** 🔴 +2 | 674 |
 | 11 | Kristi Toliver | 651 |
