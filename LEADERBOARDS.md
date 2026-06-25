@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-25 03:58 UTC_
+_Last updated: 2026-06-25 03:59 UTC_
 
 ## Contents
 
@@ -552,7 +552,7 @@ _Last updated: 2026-06-25 03:58 UTC_
 | 121 | Caitlin Clark | 525 |
 | 122 | Margo Dydek | 524 |
 | 123 | Myisha Hines-Allen | 522 |
-| 124 | **Rhyne Howard** 🔴 +2 | 510 |
+| 124 | **Rhyne Howard** 🔴 +3 | 511 |
 | 125 | Iziane Castro Marques | 509 |
 | 126 | Brittany Boyd-Jones | 508 |
 | 126 | Chasity Melvin | 508 |
@@ -894,8 +894,8 @@ _Last updated: 2026-06-25 03:58 UTC_
 | 52 | Swin Cash | 384 |
 | 52 | Tina Charles | 384 |
 | 54 | **Tiffany Hayes** 🔴 | 382 |
-| 55 | Ariel Atkins | 380 |
-| 55 | **Jordin Canada** 🔴 | 380 |
+| 55 | **Jordin Canada** 🔴 +1 | 381 |
+| 56 | Ariel Atkins | 380 |
 | 57 | Monique Currie | 378 |
 | 58 | Chamique Holdsclaw | 376 |
 | 59 | Mwadi Mabika | 370 |
