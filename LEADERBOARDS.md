@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-25 00:30 UTC_
+_Last updated: 2026-06-25 00:31 UTC_
 
 ## Contents
 
@@ -40,7 +40,7 @@ _Last updated: 2026-06-25 00:30 UTC_
 | 19 | A'ja Wilson | 5,942 |
 | 20 | Becky Hammon | 5,816 |
 | 21 | Angel McCoughtry | 5,797 |
-| 22 | **Skylar Diggins** 🔴 +2 | 5,628 |
+| 22 | **Skylar Diggins** 🔴 +3 | 5,629 |
 | 23 | DeLisha Milton-Jones | 5,571 |
 | 24 | Katie Douglas | 5,545 |
 | 25 | **Kayla McBride** 🔴 +14 | 5,536 |
@@ -745,11 +745,11 @@ _Last updated: 2026-06-25 00:30 UTC_
 | 107 | Natasha Mack | 117 |
 | 110 | Monique Currie | 114 |
 | 111 | Ariel Atkins | 113 |
-| 112 | Amanda Lassiter | 111 |
-| 112 | Kamila Vodichkova | 111 |
-| 112 | **Kamilla Cardoso** 🔴 | 111 |
-| 112 | Sophia Young-Malcolm | 111 |
-| 112 | Tari Phillips | 111 |
+| 112 | **Kamilla Cardoso** 🔴 +1 | 112 |
+| 113 | Amanda Lassiter | 111 |
+| 113 | Kamila Vodichkova | 111 |
+| 113 | Sophia Young-Malcolm | 111 |
+| 113 | Tari Phillips | 111 |
 | 117 | **Shakira Austin** 🔴 | 110 |
 | 118 | Erin Perperoglou | 108 |
 | 118 | Glory Johnson | 108 |
