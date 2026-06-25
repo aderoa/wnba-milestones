@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-25 01:56 UTC_
+_Last updated: 2026-06-25 01:57 UTC_
 
 ## Contents
 
@@ -206,7 +206,7 @@ _Last updated: 2026-06-25 01:56 UTC_
 | 185 | Kamila Vodichkova | 1,767 |
 | 186 | Tully Bevilaqua | 1,763 |
 | 187 | Sandy Brondello | 1,759 |
-| 188 | **Sophie Cunningham** 🔴 +3 | 1,755 |
+| 188 | **Sophie Cunningham** 🔴 +5 | 1,757 |
 | 189 | Sugar Rodgers | 1,733 |
 | 190 | Gabby Williams | 1,723 |
 | 191 | Moriah Jefferson | 1,722 |
@@ -312,7 +312,7 @@ _Last updated: 2026-06-25 01:56 UTC_
 | 86 | Jayne Appel Marinelli | 1,326 |
 | 87 | Betty Lennox | 1,296 |
 | 88 | Tari Phillips | 1,274 |
-| 89 | **Azurá Stevens** 🔴 +9 | 1,265 |
+| 89 | **Azurá Stevens** 🔴 +10 | 1,266 |
 | 90 | Janel McCarville | 1,261 |
 | 91 | Liz Cambage | 1,258 |
 | 92 | **Myisha Hines-Allen** 🔴 +5 | 1,244 |
@@ -1603,11 +1603,11 @@ _Last updated: 2026-06-25 01:56 UTC_
 | 147 | Kristen Rasmussen | 533 |
 | 148 | Amanda Zahui B | 530 |
 | 149 | Damiris Dantas | 527 |
-| 150 | Candice Wiggins | 525 |
-| 150 | Epiphanny Prince | 525 |
-| 150 | Jackie Young | 525 |
-| 150 | Kayla McBride | 525 |
-| 150 | **Sophie Cunningham** 🔴 +2 | 525 |
+| 150 | **Sophie Cunningham** 🔴 +3 | 526 |
+| 151 | Candice Wiggins | 525 |
+| 151 | Epiphanny Prince | 525 |
+| 151 | Jackie Young | 525 |
+| 151 | Kayla McBride | 525 |
 | 155 | Armintie Herrington | 523 |
 | 156 | **Monique Billings** 🔴 +3 | 520 |
 | 157 | Sheryl Swoopes | 519 |
