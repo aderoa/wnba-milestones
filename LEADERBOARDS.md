@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-25 23:26 UTC_
+_Last updated: 2026-06-25 23:27 UTC_
 
 ## Contents
 
@@ -69,8 +69,8 @@ _Last updated: 2026-06-25 23:26 UTC_
 | 48 | Sophia Young-Malcolm | 4,300 |
 | 49 | Kahleah Copper | 4,283 |
 | 50 | Plenette Pierson | 4,258 |
+| 51 | **Dearica Hamby** 🔴 +10 | 4,253 |
 | 51 | Monique Currie | 4,253 |
-| 52 | **Dearica Hamby** 🔴 +8 | 4,251 |
 | 53 | Courtney Williams | 4,238 |
 | 54 | Vickie Johnson | 4,230 |
 | 55 | Yolanda Griffith | 4,224 |
@@ -247,7 +247,7 @@ _Last updated: 2026-06-25 23:26 UTC_
 | 21 | Crystal Langhorne | 2,454 |
 | 22 | Lauren Jackson | 2,444 |
 | 23 | Yolanda Griffith | 2,440 |
-| 24 | **Dearica Hamby** 🔴 +1 | 2,392 |
+| 24 | **Dearica Hamby** 🔴 +2 | 2,393 |
 | 25 | Tangela Smith | 2,328 |
 | 26 | Natasha Howard | 2,253 |
 | 27 | Erika de Souza | 2,220 |
@@ -755,9 +755,9 @@ _Last updated: 2026-06-25 23:26 UTC_
 | 118 | Glory Johnson | 108 |
 | 120 | Courtney Williams | 106 |
 | 120 | Sylvia Crawley | 106 |
-| 122 | Carolyn Swords | 104 |
-| 122 | **Dearica Hamby** 🔴 | 104 |
-| 122 | Rebecca Lobo | 104 |
+| 122 | **Dearica Hamby** 🔴 +1 | 105 |
+| 123 | Carolyn Swords | 104 |
+| 123 | Rebecca Lobo | 104 |
 | 125 | Jennifer Gillom | 103 |
 | 125 | Jia Perkins | 103 |
 | 127 | Rhyne Howard | 102 |
