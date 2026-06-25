@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-25T01:58:00+00:00",
+    "text": "Kahleah Copper passed Shenise Johnson for #149 all-time in steals (career 218) \u2014 up from #151 entering today \u2014 (Final \u2014 PHX @ IND)",
+    "kind": "rank_pass",
+    "player": "Kahleah Copper",
+    "stat": "steals",
+    "rank": 149,
+    "passed_players": [
+      "Shenise Johnson"
+    ],
+    "new_total": 218
+  },
+  {
     "ts": "2026-06-25T01:48:00+00:00",
     "text": "Nia Coffey passed Sami Whitcomb for #186 all-time in fouls (career 481) \u2014 up from #189 entering today \u2014 (0.0 - 4th \u2014 MIN @ WSH)",
     "kind": "rank_pass",
@@ -2968,17 +2980,5 @@
       "Iziane Castro Marques"
     ],
     "new_total": 510
-  },
-  {
-    "ts": "2026-06-06T22:44:00+00:00",
-    "text": "Rhyne Howard passed Nikki McCray for #135 all-time in steals (career 236) \u2014 up from #137 entering today \u2014 (4:57 - 2nd \u2014 WSH @ ATL)",
-    "kind": "rank_pass",
-    "player": "Rhyne Howard",
-    "stat": "steals",
-    "rank": 135,
-    "passed_players": [
-      "Nikki McCray"
-    ],
-    "new_total": 236
   }
 ]
