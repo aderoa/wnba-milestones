@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-25 02:35 UTC_
+_Last updated: 2026-06-25 02:36 UTC_
 
 ## Contents
 
@@ -65,7 +65,7 @@ _Last updated: 2026-06-25 02:35 UTC_
 | 43 | Jia Perkins | 4,433 |
 | 45 | Kelsey Plum | 4,395 |
 | 46 | Courtney Vandersloot | 4,352 |
-| 47 | **Allisha Gray** 🔴 +5 | 4,344 |
+| 47 | **Allisha Gray** 🔴 +8 | 4,347 |
 | 48 | Kahleah Copper | 4,311 |
 | 49 | Sophia Young-Malcolm | 4,300 |
 | 50 | Plenette Pierson | 4,258 |
@@ -157,7 +157,7 @@ _Last updated: 2026-06-25 02:35 UTC_
 | 136 | Azurá Stevens | 2,270 |
 | 137 | Allison Feaster | 2,258 |
 | 138 | Shekinna Stricklen | 2,245 |
-| 139 | **Jordin Canada** 🔴 +2 | 2,239 |
+| 139 | **Jordin Canada** 🔴 +3 | 2,240 |
 | 140 | Kara Braxton | 2,237 |
 | 140 | Matee Ajavon | 2,237 |
 | 142 | Kia Nurse | 2,231 |
@@ -393,7 +393,7 @@ _Last updated: 2026-06-25 02:35 UTC_
 | 166 | Barbara Farris | 819 |
 | 168 | Carolyn Swords | 814 |
 | 169 | Tierra Ruffin-Pratt | 799 |
-| 170 | **Gabby Williams** 🔴 +2 | 797 |
+| 170 | **Gabby Williams** 🔴 +3 | 798 |
 | 171 | Betnijah Laney-Hamilton | 795 |
 | 172 | Charlotte Smith | 794 |
 | 173 | Rhonda Mapp | 788 |
@@ -1073,7 +1073,7 @@ _Last updated: 2026-06-25 02:35 UTC_
 | 27 | Breanna Stewart | 460 |
 | 28 | Ariel Atkins | 451 |
 | 28 | **Tiffany Hayes** 🔴 | 451 |
-| 30 | **Allisha Gray** 🔴 +1 | 446 |
+| 30 | **Allisha Gray** 🔴 +2 | 447 |
 | 31 | Lauren Jackson | 436 |
 | 32 | Skylar Diggins | 435 |
 | 33 | Shameka Christon | 434 |
