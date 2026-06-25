@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-25 01:52 UTC_
+_Last updated: 2026-06-25 01:53 UTC_
 
 ## Contents
 
@@ -183,7 +183,7 @@ _Last updated: 2026-06-25 01:52 UTC_
 | 162 | Bria Hartley | 1,967 |
 | 163 | Chiney Ogwumike | 1,964 |
 | 164 | Nicole Ohlde | 1,959 |
-| 165 | **Aliyah Boston** 🔴 +22 | 1,950 |
+| 165 | **Aliyah Boston** 🔴 +23 | 1,951 |
 | 166 | Kedra Holland-Corn | 1,938 |
 | 167 | **Myisha Hines-Allen** 🔴 +13 | 1,931 |
 | 168 | Cathrine Kraayeveld | 1,926 |
@@ -1261,7 +1261,7 @@ _Last updated: 2026-06-25 01:52 UTC_
 | 10 | Candace Parker | 1,062 |
 | 11 | Tamika Catchings | 1,041 |
 | 12 | Tina Charles | 1,040 |
-| 13 | **Alyssa Thomas** 🔴 +5 | 1,008 |
+| 13 | **Alyssa Thomas** 🔴 +6 | 1,009 |
 | 14 | Lindsay Whalen | 1,002 |
 | 15 | Sylvia Fowles | 961 |
 | 16 | Tanisha Wright | 954 |
