@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-25 00:27 UTC_
+_Last updated: 2026-06-25 00:28 UTC_
 
 ## Contents
 
@@ -644,7 +644,7 @@ _Last updated: 2026-06-25 00:27 UTC_
 | 8 | Tammy Sutton-Brown | 555 |
 | 9 | Tangela Smith | 554 |
 | 10 | Ruth Riley | 505 |
-| 11 | **Elizabeth Williams** 🔴 +1 | 494 |
+| 11 | **Elizabeth Williams** 🔴 | 493 |
 | 12 | Taj McWilliams-Franklin | 443 |
 | 13 | Breanna Stewart | 436 |
 | 14 | Tina Charles | 428 |
@@ -979,9 +979,9 @@ _Last updated: 2026-06-25 00:27 UTC_
 | 138 | Ruth Riley | 231 |
 | 139 | Scholanda Dorrell | 230 |
 | 140 | Kara Lawson | 229 |
+| 141 | **Kelsey Mitchell** 🔴 +2 | 226 |
 | 141 | Wendy Palmer | 226 |
-| 142 | Alexis Hornbuckle | 225 |
-| 142 | **Kelsey Mitchell** 🔴 +1 | 225 |
+| 143 | Alexis Hornbuckle | 225 |
 | 144 | Cheryl Ford | 224 |
 | 145 | Rushia Brown | 221 |
 | 146 | DeMya Walker | 220 |
