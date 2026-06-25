@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-25 00:25 UTC_
+_Last updated: 2026-06-25 00:26 UTC_
 
 ## Contents
 
@@ -117,7 +117,7 @@ _Last updated: 2026-06-25 00:25 UTC_
 | 96 | Shameka Christon | 3,039 |
 | 97 | Marie Ferdinand-Harris | 3,001 |
 | 98 | Emma Meesseman | 2,966 |
-| 99 | **Natasha Cloud** 🔴 | 2,952 |
+| 99 | **Natasha Cloud** 🔴 +3 | 2,955 |
 | 100 | **Elizabeth Williams** 🔴 | 2,896 |
 | 101 | Natalie Williams | 2,894 |
 | 102 | Jennifer Gillom | 2,888 |
@@ -256,7 +256,7 @@ _Last updated: 2026-06-25 00:25 UTC_
 | 30 | Chamique Holdsclaw | 2,123 |
 | 31 | Chasity Melvin | 2,097 |
 | 32 | Tammy Sutton-Brown | 2,010 |
-| 33 | **Elizabeth Williams** 🔴 | 1,952 |
+| 33 | **Elizabeth Williams** 🔴 +1 | 1,953 |
 | 34 | Cheryl Ford | 1,907 |
 | 35 | Plenette Pierson | 1,834 |
 | 36 | Natalie Williams | 1,832 |
@@ -336,7 +336,7 @@ _Last updated: 2026-06-25 00:25 UTC_
 | 109 | Tamika Raymond | 1,127 |
 | 111 | Adrienne Goodson | 1,126 |
 | 112 | NaLyssa Smith | 1,115 |
-| 113 | **Aliyah Boston** 🔴 +3 | 1,113 |
+| 113 | **Aliyah Boston** 🔴 +4 | 1,114 |
 | 114 | Deanna Nolan | 1,112 |
 | 114 | **Natasha Cloud** 🔴 | 1,112 |
 | 116 | Chiney Ogwumike | 1,110 |
@@ -551,7 +551,7 @@ _Last updated: 2026-06-25 00:25 UTC_
 | 120 | Marie Ferdinand-Harris | 528 |
 | 121 | **Caitlin Clark** 🔴 +7 | 524 |
 | 121 | Margo Dydek | 524 |
-| 123 | **Myisha Hines-Allen** 🔴 | 520 |
+| 123 | **Myisha Hines-Allen** 🔴 +1 | 521 |
 | 124 | Iziane Castro Marques | 509 |
 | 125 | Brittany Boyd-Jones | 508 |
 | 125 | Chasity Melvin | 508 |
@@ -1101,7 +1101,7 @@ _Last updated: 2026-06-25 00:25 UTC_
 | 54 | Elena Delle Donne | 343 |
 | 56 | Candace Parker | 342 |
 | 57 | Deanna Nolan | 340 |
-| 58 | **Natasha Cloud** 🔴 | 339 |
+| 57 | **Natasha Cloud** 🔴 +1 | 340 |
 | 59 | Anna DeForge | 334 |
 | 60 | Erica Wheeler | 329 |
 | 61 | Jackie Young | 323 |
@@ -1400,8 +1400,8 @@ _Last updated: 2026-06-25 00:25 UTC_
 | 149 | Glory Johnson | 397 |
 | 150 | Marissa Coleman | 396 |
 | 151 | Sophia Witherspoon | 386 |
+| 152 | **Elizabeth Williams** 🔴 +1 | 385 |
 | 152 | Hamchetou Maiga-Ba | 385 |
-| 153 | **Elizabeth Williams** 🔴 | 384 |
 | 154 | Kamila Vodichkova | 381 |
 | 154 | **Myisha Hines-Allen** 🔴 +1 | 381 |
 | 156 | Jessica Breland | 378 |
