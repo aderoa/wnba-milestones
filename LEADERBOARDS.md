@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-25 23:12 UTC_
+_Last updated: 2026-06-25 23:13 UTC_
 
 ## Contents
 
@@ -107,7 +107,7 @@ _Last updated: 2026-06-25 23:12 UTC_
 | 86 | Margo Dydek | 3,214 |
 | 87 | Stefanie Dolson | 3,195 |
 | 88 | Danielle Robinson | 3,160 |
-| 89 | **Erica Wheeler** 🔴 +2 | 3,146 |
+| 89 | **Erica Wheeler** 🔴 +4 | 3,148 |
 | 90 | Wendy Palmer | 3,135 |
 | 91 | Shavonte Zellous | 3,103 |
 | 92 | Briann January | 3,082 |
@@ -593,9 +593,9 @@ _Last updated: 2026-06-25 23:12 UTC_
 | 162 | Jamierra Faulkner | 410 |
 | 162 | Murriel Page | 410 |
 | 164 | Allison Feaster | 406 |
+| 165 | **Julie Allemand** 🔴 +2 | 403 |
 | 165 | Rita Williams | 403 |
-| 166 | **Julie Allemand** 🔴 +1 | 402 |
-| 166 | Kia Nurse | 402 |
+| 167 | Kia Nurse | 402 |
 | 168 | Marissa Coleman | 399 |
 | 169 | Aliyah Boston | 398 |
 | 170 | Jessica Shepard | 395 |
@@ -1370,8 +1370,8 @@ _Last updated: 2026-06-25 23:12 UTC_
 | 119 | Allie Quigley | 467 |
 | 120 | A'ja Wilson | 466 |
 | 120 | Allisha Gray | 466 |
-| 122 | **Ariel Atkins** 🔴 | 454 |
-| 122 | Kia Vaughn | 454 |
+| 122 | **Ariel Atkins** 🔴 +1 | 455 |
+| 123 | Kia Vaughn | 454 |
 | 124 | Janeth Arcain | 453 |
 | 125 | Betnijah Laney-Hamilton | 444 |
 | 125 | Elena Baranova | 444 |
@@ -1532,7 +1532,7 @@ _Last updated: 2026-06-25 23:12 UTC_
 | 76 | Allisha Gray | 726 |
 | 77 | Kristi Toliver | 722 |
 | 78 | Elizabeth Williams | 720 |
-| 79 | **Ariel Atkins** 🔴 +1 | 714 |
+| 79 | **Ariel Atkins** 🔴 +2 | 715 |
 | 80 | Cheryl Ford | 713 |
 | 81 | Jia Perkins | 711 |
 | 82 | Helen Darling | 709 |
