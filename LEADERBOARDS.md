@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-25 00:07 UTC_
+_Last updated: 2026-06-25 00:08 UTC_
 
 ## Contents
 
@@ -162,7 +162,7 @@ _Last updated: 2026-06-25 00:07 UTC_
 | 139 | Matee Ajavon | 2,237 |
 | 142 | Kia Nurse | 2,231 |
 | 143 | Dawn Staley | 2,228 |
-| 144 | Teaira McCowan | 2,221 |
+| 144 | **Teaira McCowan** 🔴 | 2,221 |
 | 145 | Janel McCarville | 2,215 |
 | 146 | Sami Whitcomb | 2,211 |
 | 147 | Sophia Witherspoon | 2,210 |
@@ -268,7 +268,7 @@ _Last updated: 2026-06-25 00:07 UTC_
 | 42 | Kiah Stokes | 1,790 |
 | 43 | Asjha Jones | 1,751 |
 | 44 | Stefanie Dolson | 1,688 |
-| 45 | Teaira McCowan | 1,682 |
+| 45 | **Teaira McCowan** 🔴 | 1,682 |
 | 46 | Monique Currie | 1,666 |
 | 47 | Glory Johnson | 1,640 |
 | 48 | Vickie Johnson | 1,634 |
@@ -679,7 +679,7 @@ _Last updated: 2026-06-25 00:07 UTC_
 | 43 | **Skylar Diggins** 🔴 | 229 |
 | 44 | Chasity Melvin | 228 |
 | 45 | Alanna Smith | 224 |
-| 46 | Teaira McCowan | 222 |
+| 46 | **Teaira McCowan** 🔴 +1 | 223 |
 | 47 | Sancho Lyttle | 221 |
 | 48 | Alana Beard | 220 |
 | 49 | Janell Burse | 216 |
@@ -981,8 +981,8 @@ _Last updated: 2026-06-25 00:07 UTC_
 | 140 | Kara Lawson | 229 |
 | 141 | Wendy Palmer | 226 |
 | 142 | Alexis Hornbuckle | 225 |
-| 143 | Cheryl Ford | 224 |
-| 143 | **Kelsey Mitchell** 🔴 | 224 |
+| 142 | **Kelsey Mitchell** 🔴 +1 | 225 |
+| 144 | Cheryl Ford | 224 |
 | 145 | Rushia Brown | 221 |
 | 146 | DeMya Walker | 220 |
 | 146 | Jennifer Gillom | 220 |
@@ -1418,7 +1418,7 @@ _Last updated: 2026-06-25 00:07 UTC_
 | 167 | Janell Burse | 347 |
 | 168 | Brionna Jones | 346 |
 | 169 | Loree Moore | 339 |
-| 170 | Teaira McCowan | 338 |
+| 170 | **Teaira McCowan** 🔴 | 338 |
 | 171 | Charlotte Smith | 337 |
 | 172 | Scholanda Dorrell | 335 |
 | 173 | Aerial Powers | 333 |
@@ -1565,7 +1565,7 @@ _Last updated: 2026-06-25 00:07 UTC_
 | 109 | Nicole Ohlde | 631 |
 | 110 | Jennifer Gillom | 629 |
 | 111 | Deanna Nolan | 628 |
-| 112 | Teaira McCowan | 627 |
+| 112 | **Teaira McCowan** 🔴 | 627 |
 | 113 | Brionna Jones | 625 |
 | 114 | Chelsea Gray | 621 |
 | 115 | Courtney Paris | 617 |
@@ -1640,8 +1640,8 @@ _Last updated: 2026-06-25 00:07 UTC_
 | 184 | Liz Cambage | 483 |
 | 184 | Rhonda Mapp | 483 |
 | 186 | Sami Whitcomb | 480 |
-| 187 | **Nia Coffey** 🔴 +2 | 477 |
-| 187 | Seimone Augustus | 477 |
+| 187 | **Nia Coffey** 🔴 +3 | 478 |
+| 188 | Seimone Augustus | 477 |
 | 189 | Allie Quigley | 475 |
 | 190 | **Azurá Stevens** 🔴 | 474 |
 | 191 | Kia Nurse | 473 |
