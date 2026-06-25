@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-25 00:46 UTC_
+_Last updated: 2026-06-25 00:47 UTC_
 
 ## Contents
 
@@ -47,7 +47,7 @@ _Last updated: 2026-06-25 00:46 UTC_
 | 26 | Lindsay Whalen | 5,511 |
 | 27 | Swin Cash | 5,119 |
 | 28 | Tangela Smith | 5,035 |
-| 29 | **Kelsey Mitchell** 🔴 +13 | 5,016 |
+| 29 | **Kelsey Mitchell** 🔴 +16 | 5,019 |
 | 30 | Taj McWilliams-Franklin | 4,992 |
 | 31 | Tiffany Hayes | 4,985 |
 | 32 | Maya Moore | 4,984 |
@@ -66,8 +66,8 @@ _Last updated: 2026-06-25 00:46 UTC_
 | 45 | Kelsey Plum | 4,395 |
 | 46 | Courtney Vandersloot | 4,352 |
 | 47 | Allisha Gray | 4,339 |
+| 48 | **Kahleah Copper** 🔴 +17 | 4,300 |
 | 48 | Sophia Young-Malcolm | 4,300 |
-| 49 | **Kahleah Copper** 🔴 +15 | 4,298 |
 | 50 | Plenette Pierson | 4,258 |
 | 51 | Monique Currie | 4,253 |
 | 52 | Dearica Hamby | 4,243 |
@@ -183,7 +183,7 @@ _Last updated: 2026-06-25 00:46 UTC_
 | 162 | Bria Hartley | 1,967 |
 | 163 | Chiney Ogwumike | 1,964 |
 | 164 | Nicole Ohlde | 1,959 |
-| 165 | **Aliyah Boston** 🔴 +12 | 1,940 |
+| 165 | **Aliyah Boston** 🔴 +14 | 1,942 |
 | 166 | Kedra Holland-Corn | 1,938 |
 | 167 | Cathrine Kraayeveld | 1,926 |
 | 168 | Roneeka Hodges | 1,925 |
@@ -249,7 +249,7 @@ _Last updated: 2026-06-25 00:46 UTC_
 | 23 | Yolanda Griffith | 2,440 |
 | 24 | Dearica Hamby | 2,391 |
 | 25 | Tangela Smith | 2,328 |
-| 26 | **Natasha Howard** 🔴 +10 | 2,263 |
+| 26 | **Natasha Howard** 🔴 +11 | 2,264 |
 | 27 | Erika de Souza | 2,220 |
 | 28 | Diana Taurasi | 2,201 |
 | 29 | Margo Dydek | 2,138 |
@@ -595,8 +595,8 @@ _Last updated: 2026-06-25 00:46 UTC_
 | 164 | Allison Feaster | 406 |
 | 165 | Rita Williams | 403 |
 | 166 | Kia Nurse | 402 |
+| 167 | **Aliyah Boston** 🔴 +3 | 401 |
 | 167 | Julie Allemand | 401 |
-| 168 | **Aliyah Boston** 🔴 +2 | 400 |
 | 169 | Marissa Coleman | 399 |
 | 170 | Jessica Shepard | 395 |
 | 170 | Stacey Dales | 395 |
@@ -1051,7 +1051,7 @@ _Last updated: 2026-06-25 00:46 UTC_
 | 5 | Tina Thompson | 745 |
 | 6 | **Kayla McBride** 🔴 +4 | 741 |
 | 7 | Katie Douglas | 723 |
-| 8 | **Kelsey Mitchell** 🔴 +3 | 690 |
+| 8 | **Kelsey Mitchell** 🔴 +4 | 691 |
 | 9 | Jewell Loyd | 678 |
 | 10 | **DeWanna Bonner** 🔴 +2 | 674 |
 | 11 | Kristi Toliver | 651 |
