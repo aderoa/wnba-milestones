@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-25 00:01 UTC_
+_Last updated: 2026-06-25 00:02 UTC_
 
 ## Contents
 
@@ -317,7 +317,7 @@ _Last updated: 2026-06-25 00:01 UTC_
 | 91 | Azurá Stevens | 1,256 |
 | 92 | Tiffany Hayes | 1,244 |
 | 93 | Ezi Magbegor | 1,243 |
-| 94 | **Myisha Hines-Allen** 🔴 +2 | 1,241 |
+| 93 | **Myisha Hines-Allen** 🔴 +4 | 1,243 |
 | 95 | Brianna Turner | 1,237 |
 | 96 | **Kayla McBride** 🔴 +2 | 1,228 |
 | 96 | Seimone Augustus | 1,228 |
