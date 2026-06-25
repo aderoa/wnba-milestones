@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-25 03:17 UTC_
+_Last updated: 2026-06-25 03:18 UTC_
 
 ## Contents
 
@@ -265,7 +265,7 @@ _Last updated: 2026-06-25 03:17 UTC_
 | 39 | Lindsay Whalen | 1,805 |
 | 40 | Courtney Williams | 1,803 |
 | 41 | Camille Smith | 1,802 |
-| 42 | **Kiah Stokes** 🔴 +5 | 1,795 |
+| 42 | **Kiah Stokes** 🔴 +4 | 1,794 |
 | 43 | Asjha Jones | 1,751 |
 | 44 | Stefanie Dolson | 1,688 |
 | 45 | Teaira McCowan | 1,683 |
@@ -660,7 +660,7 @@ _Last updated: 2026-06-25 03:17 UTC_
 | 24 | Diana Taurasi | 349 |
 | 24 | Elena Delle Donne | 349 |
 | 26 | DeLisha Milton-Jones | 339 |
-| 27 | **Kiah Stokes** 🔴 +2 | 338 |
+| 26 | **Kiah Stokes** 🔴 +3 | 339 |
 | 28 | Yolanda Griffith | 323 |
 | 29 | Elena Baranova | 320 |
 | 30 | Candice Dupree | 316 |
@@ -760,8 +760,8 @@ _Last updated: 2026-06-25 03:17 UTC_
 | 122 | Rebecca Lobo | 104 |
 | 125 | Jennifer Gillom | 103 |
 | 125 | Jia Perkins | 103 |
-| 127 | **Rhyne Howard** 🔴 | 102 |
-| 127 | Theresa Plaisance | 102 |
+| 125 | **Rhyne Howard** 🔴 +1 | 103 |
+| 128 | Theresa Plaisance | 102 |
 | 129 | Deanna Nolan | 101 |
 | 130 | Chante Black | 100 |
 | 130 | Danielle Adams | 100 |
@@ -1530,7 +1530,7 @@ _Last updated: 2026-06-25 03:17 UTC_
 | 73 | Shameka Christon | 734 |
 | 74 | Becky Hammon | 733 |
 | 75 | Latasha Byears | 730 |
-| 76 | **Allisha Gray** 🔴 +1 | 727 |
+| 76 | **Allisha Gray** 🔴 +2 | 728 |
 | 77 | Kristi Toliver | 722 |
 | 78 | Elizabeth Williams | 720 |
 | 79 | Ariel Atkins | 713 |
