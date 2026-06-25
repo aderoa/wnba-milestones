@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-25 01:16 UTC_
+_Last updated: 2026-06-25 01:17 UTC_
 
 ## Contents
 
@@ -40,7 +40,7 @@ _Last updated: 2026-06-25 01:16 UTC_
 | 19 | A'ja Wilson | 5,942 |
 | 20 | Becky Hammon | 5,816 |
 | 21 | Angel McCoughtry | 5,797 |
-| 22 | **Skylar Diggins** 🔴 +3 | 5,629 |
+| 22 | **Skylar Diggins** 🔴 +5 | 5,631 |
 | 23 | DeLisha Milton-Jones | 5,571 |
 | 24 | Katie Douglas | 5,545 |
 | 25 | **Kayla McBride** 🔴 +17 | 5,539 |
@@ -1444,8 +1444,8 @@ _Last updated: 2026-06-25 01:16 UTC_
 | 193 | Crystal Robinson | 299 |
 | 194 | Michele Timms | 297 |
 | 195 | **Rachel Banham** 🔴 | 295 |
+| 196 | **Azurá Stevens** 🔴 +2 | 294 |
 | 196 | Kayla Thornton | 294 |
-| 197 | **Azurá Stevens** 🔴 +1 | 293 |
 | 198 | Natisha Hiedeman | 289 |
 | 199 | Alexis Hornbuckle | 288 |
 | 199 | Kristen Rasmussen | 288 |
