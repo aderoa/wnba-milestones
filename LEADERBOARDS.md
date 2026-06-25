@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-25 03:56 UTC_
+_Last updated: 2026-06-25 03:57 UTC_
 
 ## Contents
 
@@ -547,7 +547,7 @@ _Last updated: 2026-06-25 03:56 UTC_
 | 116 | Janel McCarville | 551 |
 | 116 | Svetlana Abrosimova | 551 |
 | 118 | Michele Timms | 549 |
-| 119 | **Veronica Burton** 🔴 +5 | 542 |
+| 119 | **Veronica Burton** 🔴 +6 | 543 |
 | 120 | Marie Ferdinand-Harris | 528 |
 | 121 | Caitlin Clark | 525 |
 | 122 | Margo Dydek | 524 |
@@ -1239,8 +1239,8 @@ _Last updated: 2026-06-25 03:56 UTC_
 | 191 | Scholanda Dorrell | 109 |
 | 193 | Belinda Snell | 108 |
 | 194 | Layshia Clarendon | 107 |
-| 195 | **Cecilia Zandalasini** 🔴 +2 | 105 |
-| 195 | Laurie Koehn | 105 |
+| 195 | **Cecilia Zandalasini** 🔴 +3 | 106 |
+| 196 | Laurie Koehn | 105 |
 | 197 | Julie Vanloo | 104 |
 | 198 | Jeanette Pohlen-Mavunga | 103 |
 | 198 | Kiesha Brown | 103 |
