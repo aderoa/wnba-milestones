@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-25 01:07 UTC_
+_Last updated: 2026-06-25 01:08 UTC_
 
 ## Contents
 
@@ -404,7 +404,7 @@ _Last updated: 2026-06-25 01:07 UTC_
 | 178 | Lindsey Harding | 779 |
 | 179 | Tiffani Johnson | 778 |
 | 180 | Teresa Weatherspoon | 775 |
-| 181 | **Shakira Austin** 🔴 +12 | 770 |
+| 181 | **Shakira Austin** 🔴 +13 | 771 |
 | 182 | Anna DeForge | 769 |
 | 182 | Kelsey Bone | 769 |
 | 182 | Tan White | 769 |
@@ -1471,7 +1471,7 @@ _Last updated: 2026-06-25 01:07 UTC_
 | 15 | Swin Cash | 1,146 |
 | 16 | Taj McWilliams-Franklin | 1,145 |
 | 17 | Monique Currie | 1,137 |
-| 18 | **Natasha Howard** 🔴 +3 | 1,127 |
+| 18 | **Natasha Howard** 🔴 +4 | 1,128 |
 | 19 | Stefanie Dolson | 1,117 |
 | 20 | Tanisha Wright | 1,109 |
 | 21 | Michelle Snow | 1,108 |
@@ -1606,8 +1606,8 @@ _Last updated: 2026-06-25 01:07 UTC_
 | 150 | Candice Wiggins | 525 |
 | 150 | Epiphanny Prince | 525 |
 | 150 | Jackie Young | 525 |
-| 153 | **Kayla McBride** 🔴 +2 | 524 |
-| 153 | **Sophie Cunningham** 🔴 +1 | 524 |
+| 150 | **Sophie Cunningham** 🔴 +2 | 525 |
+| 154 | **Kayla McBride** 🔴 +2 | 524 |
 | 155 | Armintie Herrington | 523 |
 | 156 | **Monique Billings** 🔴 +3 | 520 |
 | 157 | Sheryl Swoopes | 519 |
