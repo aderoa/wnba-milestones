@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-25 01:40 UTC_
+_Last updated: 2026-06-25 01:41 UTC_
 
 ## Contents
 
@@ -1296,7 +1296,7 @@ _Last updated: 2026-06-25 01:40 UTC_
 | 45 | Renee Montgomery | 697 |
 | 46 | Temeka Johnson | 696 |
 | 47 | Penny Taylor | 695 |
-| 48 | **Natasha Cloud** 🔴 +1 | 693 |
+| 48 | **Natasha Cloud** 🔴 +2 | 694 |
 | 49 | Erica Wheeler | 690 |
 | 50 | Dominique Canty | 685 |
 | 51 | DeMya Walker | 684 |
