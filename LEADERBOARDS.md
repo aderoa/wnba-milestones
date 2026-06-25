@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-25 00:41 UTC_
+_Last updated: 2026-06-25 00:42 UTC_
 
 ## Contents
 
@@ -154,7 +154,7 @@ _Last updated: 2026-06-25 00:41 UTC_
 | 133 | Merlakia Jones | 2,308 |
 | 134 | Kia Vaughn | 2,288 |
 | 135 | Betnijah Laney-Hamilton | 2,282 |
-| 136 | **Azurá Stevens** 🔴 +2 | 2,261 |
+| 136 | **Azurá Stevens** 🔴 +4 | 2,263 |
 | 137 | Allison Feaster | 2,258 |
 | 138 | Shekinna Stricklen | 2,245 |
 | 139 | Jordin Canada | 2,237 |
@@ -473,7 +473,7 @@ _Last updated: 2026-06-25 00:41 UTC_
 | 42 | Sheryl Swoopes | 1,037 |
 | 43 | Tina Charles | 1,033 |
 | 44 | Nikki Teasley | 982 |
-| 45 | **Kayla McBride** 🔴 | 968 |
+| 45 | **Kayla McBride** 🔴 +1 | 969 |
 | 46 | Tamecka Dixon | 960 |
 | 47 | Breanna Stewart | 953 |
 | 48 | Kara Lawson | 946 |
@@ -1205,7 +1205,7 @@ _Last updated: 2026-06-25 00:41 UTC_
 | 158 | Tanisha Wright | 138 |
 | 160 | Gabby Williams | 137 |
 | 160 | Kaleena Mosqueda-Lewis | 137 |
-| 162 | **Karlie Samuelson** 🔴 +1 | 136 |
+| 160 | **Karlie Samuelson** 🔴 +2 | 137 |
 | 163 | Shay Murphy | 134 |
 | 164 | Brooke Wyckoff | 132 |
 | 164 | Jenna O'Hea | 132 |
@@ -1640,7 +1640,7 @@ _Last updated: 2026-06-25 00:41 UTC_
 | 184 | Liz Cambage | 483 |
 | 184 | Rhonda Mapp | 483 |
 | 186 | Sami Whitcomb | 480 |
-| 187 | **Nia Coffey** 🔴 +3 | 478 |
+| 187 | **Nia Coffey** 🔴 +4 | 479 |
 | 188 | Seimone Augustus | 477 |
 | 189 | Allie Quigley | 475 |
 | 190 | **Azurá Stevens** 🔴 | 474 |
