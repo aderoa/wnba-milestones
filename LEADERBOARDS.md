@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-25 01:54 UTC_
+_Last updated: 2026-06-25 01:55 UTC_
 
 ## Contents
 
@@ -312,7 +312,7 @@ _Last updated: 2026-06-25 01:54 UTC_
 | 86 | Jayne Appel Marinelli | 1,326 |
 | 87 | Betty Lennox | 1,296 |
 | 88 | Tari Phillips | 1,274 |
-| 89 | **Azurá Stevens** 🔴 +7 | 1,263 |
+| 89 | **Azurá Stevens** 🔴 +9 | 1,265 |
 | 90 | Janel McCarville | 1,261 |
 | 91 | Liz Cambage | 1,258 |
 | 92 | **Myisha Hines-Allen** 🔴 +5 | 1,244 |
@@ -1333,8 +1333,8 @@ _Last updated: 2026-06-25 01:54 UTC_
 | 82 | Andrea Stinson | 571 |
 | 83 | Breanna Stewart | 570 |
 | 83 | Kara Braxton | 570 |
-| 85 | **Kelsey Mitchell** 🔴 +2 | 565 |
-| 85 | Nikki McCray | 565 |
+| 85 | **Kelsey Mitchell** 🔴 +3 | 566 |
+| 86 | Nikki McCray | 565 |
 | 87 | Sancho Lyttle | 563 |
 | 88 | Tan White | 557 |
 | 89 | Lauren Jackson | 549 |
@@ -1574,7 +1574,7 @@ _Last updated: 2026-06-25 01:54 UTC_
 | 118 | Svetlana Abrosimova | 613 |
 | 119 | Odyssey Sims | 610 |
 | 120 | Layshia Clarendon | 609 |
-| 121 | **Kelsey Mitchell** 🔴 +5 | 606 |
+| 121 | **Kelsey Mitchell** 🔴 +6 | 607 |
 | 122 | Tiffany Mitchell | 604 |
 | 123 | Janel McCarville | 597 |
 | 124 | Kamila Vodichkova | 596 |
