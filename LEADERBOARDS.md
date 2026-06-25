@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-25 01:39 UTC_
+_Last updated: 2026-06-25 01:40 UTC_
 
 ## Contents
 
@@ -404,7 +404,7 @@ _Last updated: 2026-06-25 01:39 UTC_
 | 178 | Lindsey Harding | 779 |
 | 179 | Tiffani Johnson | 778 |
 | 180 | Teresa Weatherspoon | 775 |
-| 181 | **Shakira Austin** 🔴 +14 | 772 |
+| 181 | **Shakira Austin** 🔴 +15 | 773 |
 | 182 | Anna DeForge | 769 |
 | 182 | Kelsey Bone | 769 |
 | 182 | Tan White | 769 |
