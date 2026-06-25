@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-25 01:06 UTC_
+_Last updated: 2026-06-25 01:07 UTC_
 
 ## Contents
 
@@ -185,7 +185,7 @@ _Last updated: 2026-06-25 01:06 UTC_
 | 164 | Nicole Ohlde | 1,959 |
 | 165 | **Aliyah Boston** 🔴 +16 | 1,944 |
 | 166 | Kedra Holland-Corn | 1,938 |
-| 167 | **Myisha Hines-Allen** 🔴 +10 | 1,928 |
+| 167 | **Myisha Hines-Allen** 🔴 +11 | 1,929 |
 | 168 | Cathrine Kraayeveld | 1,926 |
 | 169 | Roneeka Hodges | 1,925 |
 | 170 | Latasha Byears | 1,920 |
@@ -381,7 +381,7 @@ _Last updated: 2026-06-25 01:06 UTC_
 | 155 | Shameka Christon | 867 |
 | 156 | Alanna Smith | 864 |
 | 157 | Krystal Thomas | 862 |
-| 158 | **Nia Coffey** 🔴 +2 | 856 |
+| 158 | **Nia Coffey** 🔴 +3 | 857 |
 | 159 | Marina Mabrey | 849 |
 | 160 | Leilani Mitchell | 845 |
 | 161 | Essence Carson | 833 |
@@ -570,7 +570,7 @@ _Last updated: 2026-06-25 01:06 UTC_
 | 139 | Sylvia Fowles | 461 |
 | 140 | Satou Sabally | 456 |
 | 141 | Sydney Colson | 454 |
-| 141 | Tyasha Harris | 454 |
+| 141 | **Tyasha Harris** 🔴 | 454 |
 | 143 | Yolanda Griffith | 451 |
 | 144 | Elena Delle Donne | 450 |
 | 144 | Kristi Harrower | 450 |
@@ -1176,7 +1176,7 @@ _Last updated: 2026-06-25 01:06 UTC_
 | 130 | Shavonte Zellous | 167 |
 | 130 | Tianna Hawkins | 167 |
 | 132 | Charlotte Smith | 164 |
-| 133 | Tyasha Harris | 162 |
+| 133 | **Tyasha Harris** 🔴 | 162 |
 | 133 | Ukari Figgs | 162 |
 | 135 | Edna Campbell | 161 |
 | 136 | Dana Evans | 160 |
@@ -1485,7 +1485,7 @@ _Last updated: 2026-06-25 01:06 UTC_
 | 29 | Brittney Griner | 980 |
 | 30 | Nakia Sanford | 979 |
 | 31 | Asjha Jones | 971 |
-| 32 | **Alyssa Thomas** 🔴 +3 | 957 |
+| 32 | **Alyssa Thomas** 🔴 +4 | 958 |
 | 33 | Margo Dydek | 950 |
 | 34 | Sancho Lyttle | 947 |
 | 35 | Mwadi Mabika | 941 |
