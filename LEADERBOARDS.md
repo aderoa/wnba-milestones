@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-25 23:38 UTC_
+_Last updated: 2026-06-25 23:39 UTC_
 
 ## Contents
 
@@ -228,7 +228,7 @@ _Last updated: 2026-06-25 23:38 UTC_
 | 2 | Sylvia Fowles | 4,005 |
 | 3 | Candace Parker | 3,467 |
 | 4 | Rebekkah Brunson | 3,345 |
-| 5 | **Nneka Ogwumike** 🔴 +2 | 3,339 |
+| 5 | **Nneka Ogwumike** 🔴 +3 | 3,340 |
 | 6 | Tamika Catchings | 3,313 |
 | 7 | Lisa Leslie | 3,303 |
 | 8 | DeWanna Bonner | 3,260 |
@@ -1532,7 +1532,7 @@ _Last updated: 2026-06-25 23:38 UTC_
 | 76 | Allisha Gray | 726 |
 | 77 | Kristi Toliver | 722 |
 | 78 | Elizabeth Williams | 720 |
-| 79 | **Ariel Atkins** 🔴 +2 | 715 |
+| 79 | **Ariel Atkins** 🔴 +3 | 716 |
 | 80 | Cheryl Ford | 713 |
 | 81 | Jia Perkins | 711 |
 | 82 | Helen Darling | 709 |
