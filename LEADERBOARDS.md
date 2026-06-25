@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-25 00:23 UTC_
+_Last updated: 2026-06-25 00:24 UTC_
 
 ## Contents
 
@@ -154,7 +154,7 @@ _Last updated: 2026-06-25 00:23 UTC_
 | 133 | Merlakia Jones | 2,308 |
 | 134 | Kia Vaughn | 2,288 |
 | 135 | Betnijah Laney-Hamilton | 2,282 |
-| 136 | **Azurá Stevens** 🔴 | 2,259 |
+| 136 | **Azurá Stevens** 🔴 +2 | 2,261 |
 | 137 | Allison Feaster | 2,258 |
 | 138 | Shekinna Stricklen | 2,245 |
 | 139 | Jordin Canada | 2,237 |
@@ -183,8 +183,8 @@ _Last updated: 2026-06-25 00:23 UTC_
 | 162 | Bria Hartley | 1,967 |
 | 163 | Chiney Ogwumike | 1,964 |
 | 164 | Nicole Ohlde | 1,959 |
+| 165 | **Aliyah Boston** 🔴 +10 | 1,938 |
 | 165 | Kedra Holland-Corn | 1,938 |
-| 166 | **Aliyah Boston** 🔴 +8 | 1,936 |
 | 167 | Cathrine Kraayeveld | 1,926 |
 | 168 | Roneeka Hodges | 1,925 |
 | 169 | **Myisha Hines-Allen** 🔴 +5 | 1,923 |
@@ -336,9 +336,9 @@ _Last updated: 2026-06-25 00:23 UTC_
 | 109 | Tamika Raymond | 1,127 |
 | 111 | Adrienne Goodson | 1,126 |
 | 112 | NaLyssa Smith | 1,115 |
-| 113 | **Aliyah Boston** 🔴 +2 | 1,112 |
-| 113 | Deanna Nolan | 1,112 |
-| 113 | **Natasha Cloud** 🔴 | 1,112 |
+| 113 | **Aliyah Boston** 🔴 +3 | 1,113 |
+| 114 | Deanna Nolan | 1,112 |
+| 114 | **Natasha Cloud** 🔴 | 1,112 |
 | 116 | Chiney Ogwumike | 1,110 |
 | 117 | Becky Hammon | 1,108 |
 | 118 | Ann Wauters | 1,105 |
@@ -549,8 +549,8 @@ _Last updated: 2026-06-25 00:23 UTC_
 | 118 | Michele Timms | 549 |
 | 119 | Veronica Burton | 537 |
 | 120 | Marie Ferdinand-Harris | 528 |
+| 121 | **Caitlin Clark** 🔴 +7 | 524 |
 | 121 | Margo Dydek | 524 |
-| 122 | **Caitlin Clark** 🔴 +5 | 522 |
 | 123 | **Myisha Hines-Allen** 🔴 | 520 |
 | 124 | Iziane Castro Marques | 509 |
 | 125 | Brittany Boyd-Jones | 508 |
@@ -845,7 +845,7 @@ _Last updated: 2026-06-25 00:23 UTC_
 | 4 | Alana Beard | 710 |
 | 5 | Nneka Ogwumike | 678 |
 | 6 | Sheryl Swoopes | 657 |
-| 7 | **DeWanna Bonner** 🔴 | 643 |
+| 7 | **DeWanna Bonner** 🔴 +1 | 644 |
 | 8 | Jia Perkins | 634 |
 | 9 | Sancho Lyttle | 630 |
 | 10 | Angel McCoughtry | 627 |
@@ -1261,7 +1261,7 @@ _Last updated: 2026-06-25 00:23 UTC_
 | 10 | Candace Parker | 1,062 |
 | 11 | Tamika Catchings | 1,041 |
 | 12 | Tina Charles | 1,040 |
-| 13 | **Alyssa Thomas** 🔴 +1 | 1,004 |
+| 13 | **Alyssa Thomas** 🔴 +2 | 1,005 |
 | 14 | Lindsay Whalen | 1,002 |
 | 15 | Sylvia Fowles | 961 |
 | 16 | Tanisha Wright | 954 |
@@ -1425,9 +1425,9 @@ _Last updated: 2026-06-25 00:23 UTC_
 | 173 | Diamond DeShields | 333 |
 | 175 | Charde Houston | 331 |
 | 176 | Satou Sabally | 330 |
-| 177 | **Caitlin Clark** 🔴 +2 | 326 |
-| 177 | Erlana Larkins | 326 |
-| 177 | Rita Williams | 326 |
+| 177 | **Caitlin Clark** 🔴 +3 | 327 |
+| 178 | Erlana Larkins | 326 |
+| 178 | Rita Williams | 326 |
 | 180 | Le'coe Willingham | 325 |
 | 181 | Olympia Scott | 324 |
 | 182 | Gabby Williams | 320 |
