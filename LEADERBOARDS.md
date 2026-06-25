@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-25 01:41 UTC_
+_Last updated: 2026-06-25 01:42 UTC_
 
 ## Contents
 
@@ -154,7 +154,7 @@ _Last updated: 2026-06-25 01:41 UTC_
 | 133 | Merlakia Jones | 2,308 |
 | 134 | Kia Vaughn | 2,288 |
 | 135 | Betnijah Laney-Hamilton | 2,282 |
-| 136 | **Azurá Stevens** 🔴 +4 | 2,263 |
+| 136 | **Azurá Stevens** 🔴 +6 | 2,265 |
 | 137 | Allison Feaster | 2,258 |
 | 138 | Shekinna Stricklen | 2,245 |
 | 139 | Jordin Canada | 2,237 |
@@ -312,8 +312,8 @@ _Last updated: 2026-06-25 01:41 UTC_
 | 86 | Jayne Appel Marinelli | 1,326 |
 | 87 | Betty Lennox | 1,296 |
 | 88 | Tari Phillips | 1,274 |
-| 89 | Janel McCarville | 1,261 |
-| 90 | **Azurá Stevens** 🔴 +4 | 1,260 |
+| 89 | **Azurá Stevens** 🔴 +6 | 1,262 |
+| 90 | Janel McCarville | 1,261 |
 | 91 | Liz Cambage | 1,258 |
 | 92 | **Myisha Hines-Allen** 🔴 +5 | 1,244 |
 | 92 | Tiffany Hayes | 1,244 |
@@ -1524,7 +1524,7 @@ _Last updated: 2026-06-25 01:41 UTC_
 | 68 | Kia Vaughn | 755 |
 | 69 | Vickie Johnson | 752 |
 | 70 | Kara Braxton | 748 |
-| 71 | **Kahleah Copper** 🔴 +2 | 740 |
+| 71 | **Kahleah Copper** 🔴 +3 | 741 |
 | 72 | Crystal Langhorne | 737 |
 | 73 | Shameka Christon | 734 |
 | 74 | Becky Hammon | 733 |
