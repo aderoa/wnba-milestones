@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-25 02:43 UTC_
+_Last updated: 2026-06-25 02:44 UTC_
 
 ## Contents
 
@@ -144,7 +144,7 @@ _Last updated: 2026-06-25 02:43 UTC_
 | 123 | Nikki McCray | 2,521 |
 | 124 | Crystal Robinson | 2,496 |
 | 125 | Tiffany Mitchell | 2,480 |
-| 126 | **Rhyne Howard** 🔴 +5 | 2,477 |
+| 126 | **Rhyne Howard** 🔴 +7 | 2,479 |
 | 127 | Ruth Riley | 2,434 |
 | 128 | Svetlana Abrosimova | 2,414 |
 | 129 | Anna DeForge | 2,413 |
@@ -1240,10 +1240,10 @@ _Last updated: 2026-06-25 02:43 UTC_
 | 193 | Belinda Snell | 108 |
 | 194 | Layshia Clarendon | 107 |
 | 195 | Laurie Koehn | 105 |
+| 196 | **Cecilia Zandalasini** 🔴 +1 | 104 |
 | 196 | Julie Vanloo | 104 |
-| 197 | **Cecilia Zandalasini** 🔴 | 103 |
-| 197 | Jeanette Pohlen-Mavunga | 103 |
-| 197 | Kiesha Brown | 103 |
+| 198 | Jeanette Pohlen-Mavunga | 103 |
+| 198 | Kiesha Brown | 103 |
 | 200 | Adrienne Johnson | 102 |
 
 ## Turnovers
