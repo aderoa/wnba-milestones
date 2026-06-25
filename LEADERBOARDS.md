@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-25 02:04 UTC_
+_Last updated: 2026-06-25 02:05 UTC_
 
 ## Contents
 
@@ -65,7 +65,7 @@ _Last updated: 2026-06-25 02:04 UTC_
 | 43 | Jia Perkins | 4,433 |
 | 45 | Kelsey Plum | 4,395 |
 | 46 | Courtney Vandersloot | 4,352 |
-| 47 | **Allisha Gray** 🔴 | 4,339 |
+| 47 | **Allisha Gray** 🔴 +3 | 4,342 |
 | 48 | Kahleah Copper | 4,311 |
 | 49 | Sophia Young-Malcolm | 4,300 |
 | 50 | Plenette Pierson | 4,258 |
@@ -144,13 +144,13 @@ _Last updated: 2026-06-25 02:04 UTC_
 | 123 | Nikki McCray | 2,521 |
 | 124 | Crystal Robinson | 2,496 |
 | 125 | Tiffany Mitchell | 2,480 |
-| 126 | **Rhyne Howard** 🔴 | 2,472 |
+| 126 | **Rhyne Howard** 🔴 +2 | 2,474 |
 | 127 | Ruth Riley | 2,434 |
 | 128 | Svetlana Abrosimova | 2,414 |
 | 129 | Anna DeForge | 2,413 |
 | 130 | DeMya Walker | 2,379 |
 | 131 | Alex Bentley | 2,350 |
-| 132 | **Kayla Thornton** 🔴 | 2,333 |
+| 132 | **Kayla Thornton** 🔴 +3 | 2,336 |
 | 133 | Merlakia Jones | 2,308 |
 | 134 | Kia Vaughn | 2,288 |
 | 135 | Betnijah Laney-Hamilton | 2,282 |
@@ -369,8 +369,8 @@ _Last updated: 2026-06-25 02:04 UTC_
 | 143 | Janell Burse | 944 |
 | 144 | Jessica Shepard | 927 |
 | 144 | Merlakia Jones | 927 |
+| 146 | **Angel Reese** 🔴 +3 | 926 |
 | 146 | Satou Sabally | 926 |
-| 147 | **Angel Reese** 🔴 | 923 |
 | 148 | Nicky Anosike | 922 |
 | 149 | Janeth Arcain | 916 |
 | 150 | Karima Christmas-Kelly | 908 |
@@ -387,8 +387,8 @@ _Last updated: 2026-06-25 02:04 UTC_
 | 161 | Essence Carson | 833 |
 | 162 | Kristi Toliver | 829 |
 | 163 | Marie Ferdinand-Harris | 828 |
-| 164 | Marlies Askamp | 822 |
-| 164 | **Naz Hillmon** 🔴 | 822 |
+| 164 | **Naz Hillmon** 🔴 +1 | 823 |
+| 165 | Marlies Askamp | 822 |
 | 166 | Amanda Zahui B | 819 |
 | 166 | Barbara Farris | 819 |
 | 168 | Carolyn Swords | 814 |
@@ -1073,7 +1073,7 @@ _Last updated: 2026-06-25 02:04 UTC_
 | 27 | Breanna Stewart | 460 |
 | 28 | Ariel Atkins | 451 |
 | 28 | Tiffany Hayes | 451 |
-| 30 | **Allisha Gray** 🔴 | 445 |
+| 30 | **Allisha Gray** 🔴 +1 | 446 |
 | 31 | Lauren Jackson | 436 |
 | 32 | Skylar Diggins | 435 |
 | 33 | Shameka Christon | 434 |
@@ -1120,8 +1120,8 @@ _Last updated: 2026-06-25 02:04 UTC_
 | 74 | Seimone Augustus | 293 |
 | 75 | Candice Wiggins | 290 |
 | 75 | Tully Bevilaqua | 290 |
-| 77 | Alana Beard | 288 |
-| 77 | **Kayla Thornton** 🔴 | 288 |
+| 77 | **Kayla Thornton** 🔴 +1 | 289 |
+| 78 | Alana Beard | 288 |
 | 79 | Bridget Carleton | 287 |
 | 80 | Monique Currie | 284 |
 | 81 | Iziane Castro Marques | 275 |
