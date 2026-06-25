@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-25 02:51 UTC
+
+- **Kayla Thornton** passed **Candice Wiggins** and **Tully Bevilaqua** for **#75** all-time in three-pointers (career 291) — up from #78 entering today — _1:39 - 2nd — ATL @ GS_
+
 ## 2026-06-25 01:58 UTC
 
 - **Kahleah Copper** passed **Shenise Johnson** for **#149** all-time in steals (career 218) — up from #151 entering today — _Final — PHX @ IND_

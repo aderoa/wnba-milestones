@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-25 02:50 UTC_
+_Last updated: 2026-06-25 02:51 UTC_
 
 ## Contents
 
@@ -150,7 +150,7 @@ _Last updated: 2026-06-25 02:50 UTC_
 | 129 | Anna DeForge | 2,413 |
 | 130 | DeMya Walker | 2,379 |
 | 131 | Alex Bentley | 2,350 |
-| 132 | **Kayla Thornton** 🔴 +8 | 2,341 |
+| 132 | **Kayla Thornton** 🔴 +11 | 2,344 |
 | 133 | Merlakia Jones | 2,308 |
 | 134 | Kia Vaughn | 2,288 |
 | 135 | Betnijah Laney-Hamilton | 2,282 |
@@ -547,7 +547,7 @@ _Last updated: 2026-06-25 02:50 UTC_
 | 116 | Janel McCarville | 551 |
 | 116 | Svetlana Abrosimova | 551 |
 | 118 | Michele Timms | 549 |
-| 119 | **Veronica Burton** 🔴 +2 | 539 |
+| 119 | **Veronica Burton** 🔴 +3 | 540 |
 | 120 | Marie Ferdinand-Harris | 528 |
 | 121 | Caitlin Clark | 525 |
 | 122 | Margo Dydek | 524 |
@@ -1119,9 +1119,9 @@ _Last updated: 2026-06-25 02:50 UTC_
 | 72 | Natisha Hiedeman | 303 |
 | 73 | Vickie Johnson | 295 |
 | 74 | Seimone Augustus | 293 |
-| 75 | Candice Wiggins | 290 |
-| 75 | **Kayla Thornton** 🔴 +2 | 290 |
-| 75 | Tully Bevilaqua | 290 |
+| 75 | **Kayla Thornton** 🔴 +3 | 291 |
+| 76 | Candice Wiggins | 290 |
+| 76 | Tully Bevilaqua | 290 |
 | 78 | Alana Beard | 288 |
 | 79 | Bridget Carleton | 287 |
 | 80 | Monique Currie | 284 |

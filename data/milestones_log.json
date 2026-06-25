@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-06-25T02:51:00+00:00",
+    "text": "Kayla Thornton passed Candice Wiggins and Tully Bevilaqua for #75 all-time in three-pointers (career 291) \u2014 up from #78 entering today \u2014 (1:39 - 2nd \u2014 ATL @ GS)",
+    "kind": "rank_pass",
+    "player": "Kayla Thornton",
+    "stat": "three-pointers",
+    "rank": 75,
+    "passed_players": [
+      "Candice Wiggins",
+      "Tully Bevilaqua"
+    ],
+    "new_total": 291
+  },
+  {
     "ts": "2026-06-25T01:58:00+00:00",
     "text": "Kahleah Copper passed Shenise Johnson for #149 all-time in steals (career 218) \u2014 up from #151 entering today \u2014 (Final \u2014 PHX @ IND)",
     "kind": "rank_pass",
@@ -2968,17 +2981,5 @@
       "Tari Phillips"
     ],
     "new_total": 112
-  },
-  {
-    "ts": "2026-06-06T23:20:00+00:00",
-    "text": "Rhyne Howard passed Iziane Castro Marques for #124 all-time in assists (career 510) \u2014 up from #128 entering today \u2014 (9:09 - 3rd \u2014 WSH @ ATL)",
-    "kind": "rank_pass",
-    "player": "Rhyne Howard",
-    "stat": "assists",
-    "rank": 124,
-    "passed_players": [
-      "Iziane Castro Marques"
-    ],
-    "new_total": 510
   }
 ]
