@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-25 00:58 UTC_
+_Last updated: 2026-06-25 00:59 UTC_
 
 ## Contents
 
@@ -231,7 +231,7 @@ _Last updated: 2026-06-25 00:58 UTC_
 | 5 | Nneka Ogwumike | 3,337 |
 | 6 | Tamika Catchings | 3,313 |
 | 7 | Lisa Leslie | 3,303 |
-| 8 | **DeWanna Bonner** 🔴 +4 | 3,264 |
+| 8 | **DeWanna Bonner** 🔴 +6 | 3,266 |
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
@@ -806,14 +806,14 @@ _Last updated: 2026-06-25 00:58 UTC_
 | 168 | Tierra Ruffin-Pratt | 77 |
 | 171 | Cameron Brink | 76 |
 | 171 | Jennifer Lacy | 76 |
+| 171 | **Myisha Hines-Allen** 🔴 +2 | 76 |
 | 171 | Stephanie Talbot | 76 |
 | 171 | Sugar Rodgers | 76 |
 | 171 | Tan White | 76 |
 | 171 | Tiffany Jackson | 76 |
-| 177 | Karima Christmas-Kelly | 75 |
-| 177 | Kelsey Griffin | 75 |
-| 177 | **Myisha Hines-Allen** 🔴 +1 | 75 |
-| 177 | Tianna Hawkins | 75 |
+| 178 | Karima Christmas-Kelly | 75 |
+| 178 | Kelsey Griffin | 75 |
+| 178 | Tianna Hawkins | 75 |
 | 181 | Epiphanny Prince | 74 |
 | 182 | Ayana Walker | 73 |
 | 182 | Lindsay Wisdom-Hylton | 73 |
@@ -1606,9 +1606,9 @@ _Last updated: 2026-06-25 00:58 UTC_
 | 150 | Candice Wiggins | 525 |
 | 150 | Epiphanny Prince | 525 |
 | 150 | Jackie Young | 525 |
+| 153 | **Kayla McBride** 🔴 +2 | 524 |
 | 153 | **Sophie Cunningham** 🔴 +1 | 524 |
-| 154 | Armintie Herrington | 523 |
-| 154 | **Kayla McBride** 🔴 +1 | 523 |
+| 155 | Armintie Herrington | 523 |
 | 156 | **Monique Billings** 🔴 +2 | 519 |
 | 156 | Sheryl Swoopes | 519 |
 | 158 | **Myisha Hines-Allen** 🔴 +1 | 517 |
