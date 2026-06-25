@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-25 01:20 UTC_
+_Last updated: 2026-06-25 01:21 UTC_
 
 ## Contents
 
@@ -58,7 +58,7 @@ _Last updated: 2026-06-25 01:20 UTC_
 | 37 | **Alyssa Thomas** 🔴 +16 | 4,669 |
 | 38 | Arike Ogunbowale | 4,612 |
 | 39 | Penny Taylor | 4,595 |
-| 40 | **Natasha Howard** 🔴 +14 | 4,542 |
+| 40 | **Natasha Howard** 🔴 +16 | 4,544 |
 | 41 | Chelsea Gray | 4,506 |
 | 42 | Kristi Toliver | 4,474 |
 | 43 | Crystal Langhorne | 4,433 |
@@ -66,7 +66,7 @@ _Last updated: 2026-06-25 01:20 UTC_
 | 45 | Kelsey Plum | 4,395 |
 | 46 | Courtney Vandersloot | 4,352 |
 | 47 | Allisha Gray | 4,339 |
-| 48 | **Kahleah Copper** 🔴 +21 | 4,304 |
+| 48 | **Kahleah Copper** 🔴 +22 | 4,305 |
 | 49 | Sophia Young-Malcolm | 4,300 |
 | 50 | Plenette Pierson | 4,258 |
 | 51 | Monique Currie | 4,253 |
@@ -231,7 +231,7 @@ _Last updated: 2026-06-25 01:20 UTC_
 | 5 | Nneka Ogwumike | 3,337 |
 | 6 | Tamika Catchings | 3,313 |
 | 7 | Lisa Leslie | 3,303 |
-| 8 | **DeWanna Bonner** 🔴 +6 | 3,266 |
+| 8 | **DeWanna Bonner** 🔴 +7 | 3,267 |
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
