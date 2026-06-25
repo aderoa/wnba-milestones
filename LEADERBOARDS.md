@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-25 02:06 UTC_
+_Last updated: 2026-06-25 02:07 UTC_
 
 ## Contents
 
@@ -150,16 +150,16 @@ _Last updated: 2026-06-25 02:06 UTC_
 | 129 | Anna DeForge | 2,413 |
 | 130 | DeMya Walker | 2,379 |
 | 131 | Alex Bentley | 2,350 |
-| 132 | **Kayla Thornton** 🔴 +3 | 2,336 |
+| 132 | **Kayla Thornton** 🔴 +5 | 2,338 |
 | 133 | Merlakia Jones | 2,308 |
 | 134 | Kia Vaughn | 2,288 |
 | 135 | Betnijah Laney-Hamilton | 2,282 |
 | 136 | Azurá Stevens | 2,270 |
 | 137 | Allison Feaster | 2,258 |
 | 138 | Shekinna Stricklen | 2,245 |
-| 139 | **Jordin Canada** 🔴 | 2,237 |
-| 139 | Kara Braxton | 2,237 |
-| 139 | Matee Ajavon | 2,237 |
+| 139 | **Jordin Canada** 🔴 +2 | 2,239 |
+| 140 | Kara Braxton | 2,237 |
+| 140 | Matee Ajavon | 2,237 |
 | 142 | Kia Nurse | 2,231 |
 | 143 | Dawn Staley | 2,228 |
 | 144 | Teaira McCowan | 2,221 |
@@ -265,7 +265,7 @@ _Last updated: 2026-06-25 02:06 UTC_
 | 39 | Lindsay Whalen | 1,805 |
 | 40 | Courtney Williams | 1,803 |
 | 41 | Camille Smith | 1,802 |
-| 42 | **Kiah Stokes** 🔴 | 1,790 |
+| 42 | **Kiah Stokes** 🔴 +1 | 1,791 |
 | 43 | Asjha Jones | 1,751 |
 | 44 | Stefanie Dolson | 1,688 |
 | 45 | Teaira McCowan | 1,683 |
