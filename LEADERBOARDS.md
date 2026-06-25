@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-25 00:04 UTC_
+_Last updated: 2026-06-25 00:05 UTC_
 
 ## Contents
 
@@ -184,7 +184,7 @@ _Last updated: 2026-06-25 00:04 UTC_
 | 163 | Chiney Ogwumike | 1,964 |
 | 164 | Nicole Ohlde | 1,959 |
 | 165 | Kedra Holland-Corn | 1,938 |
-| 166 | **Aliyah Boston** 🔴 +4 | 1,932 |
+| 166 | **Aliyah Boston** 🔴 +6 | 1,934 |
 | 167 | Cathrine Kraayeveld | 1,926 |
 | 168 | Roneeka Hodges | 1,925 |
 | 169 | **Myisha Hines-Allen** 🔴 +3 | 1,921 |
@@ -435,7 +435,7 @@ _Last updated: 2026-06-25 00:04 UTC_
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
 | 6 | Chelsea Gray | 1,935 |
-| 7 | **Alyssa Thomas** 🔴 +1 | 1,904 |
+| 7 | **Alyssa Thomas** 🔴 +2 | 1,905 |
 | 8 | **Skylar Diggins** 🔴 | 1,812 |
 | 9 | Natasha Cloud | 1,772 |
 | 10 | Becky Hammon | 1,705 |
@@ -606,9 +606,9 @@ _Last updated: 2026-06-25 00:04 UTC_
 | 175 | Riquna Williams | 387 |
 | 176 | Stephanie Talbot | 385 |
 | 177 | Dana Evans | 379 |
+| 178 | **Bridget Carleton** 🔴 +2 | 377 |
 | 178 | Jessica Breland | 377 |
-| 179 | **Bridget Carleton** 🔴 +1 | 376 |
-| 179 | Shenise Johnson | 376 |
+| 180 | Shenise Johnson | 376 |
 | 181 | Alanna Smith | 372 |
 | 182 | Suzie McConnell Serio | 370 |
 | 183 | Damiris Dantas | 368 |
@@ -1425,10 +1425,10 @@ _Last updated: 2026-06-25 00:04 UTC_
 | 173 | Diamond DeShields | 333 |
 | 175 | Charde Houston | 331 |
 | 176 | Satou Sabally | 330 |
+| 177 | **Caitlin Clark** 🔴 +2 | 326 |
 | 177 | Erlana Larkins | 326 |
 | 177 | Rita Williams | 326 |
-| 179 | **Caitlin Clark** 🔴 +1 | 325 |
-| 179 | Le'coe Willingham | 325 |
+| 180 | Le'coe Willingham | 325 |
 | 181 | Olympia Scott | 324 |
 | 182 | Gabby Williams | 320 |
 | 183 | Kia Nurse | 316 |
@@ -1492,8 +1492,8 @@ _Last updated: 2026-06-25 00:04 UTC_
 | 36 | Tamika Whitmore | 940 |
 | 37 | Courtney Vandersloot | 938 |
 | 38 | Briann January | 921 |
+| 39 | **DeWanna Bonner** 🔴 +1 | 913 |
 | 39 | Ticha Penicheiro | 913 |
-| 40 | **DeWanna Bonner** 🔴 | 912 |
 | 41 | Shavonte Zellous | 907 |
 | 42 | Alysha Clark | 896 |
 | 43 | Jonquel Jones | 890 |
