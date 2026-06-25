@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-25 01:45 UTC_
+_Last updated: 2026-06-25 01:46 UTC_
 
 ## Contents
 
@@ -66,7 +66,7 @@ _Last updated: 2026-06-25 01:45 UTC_
 | 45 | Kelsey Plum | 4,395 |
 | 46 | Courtney Vandersloot | 4,352 |
 | 47 | Allisha Gray | 4,339 |
-| 48 | **Kahleah Copper** 🔴 +22 | 4,305 |
+| 48 | **Kahleah Copper** 🔴 +23 | 4,306 |
 | 49 | Sophia Young-Malcolm | 4,300 |
 | 50 | Plenette Pierson | 4,258 |
 | 51 | Monique Currie | 4,253 |
@@ -404,7 +404,7 @@ _Last updated: 2026-06-25 01:45 UTC_
 | 178 | Lindsey Harding | 779 |
 | 179 | Tiffani Johnson | 778 |
 | 180 | Teresa Weatherspoon | 775 |
-| 181 | **Shakira Austin** 🔴 +15 | 773 |
+| 181 | **Shakira Austin** 🔴 +16 | 774 |
 | 182 | Anna DeForge | 769 |
 | 182 | Kelsey Bone | 769 |
 | 182 | Tan White | 769 |
@@ -745,7 +745,7 @@ _Last updated: 2026-06-25 01:45 UTC_
 | 107 | Natasha Mack | 117 |
 | 110 | Monique Currie | 114 |
 | 111 | Ariel Atkins | 113 |
-| 112 | **Kamilla Cardoso** 🔴 +1 | 112 |
+| 111 | **Kamilla Cardoso** 🔴 +2 | 113 |
 | 113 | Amanda Lassiter | 111 |
 | 113 | Kamila Vodichkova | 111 |
 | 113 | Sophia Young-Malcolm | 111 |
