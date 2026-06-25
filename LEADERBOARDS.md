@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-25 23:22 UTC_
+_Last updated: 2026-06-25 23:23 UTC_
 
 ## Contents
 
@@ -70,7 +70,7 @@ _Last updated: 2026-06-25 23:22 UTC_
 | 49 | Kahleah Copper | 4,283 |
 | 50 | Plenette Pierson | 4,258 |
 | 51 | Monique Currie | 4,253 |
-| 52 | **Dearica Hamby** 🔴 +5 | 4,248 |
+| 52 | **Dearica Hamby** 🔴 +8 | 4,251 |
 | 53 | Courtney Williams | 4,238 |
 | 54 | Vickie Johnson | 4,230 |
 | 55 | Yolanda Griffith | 4,224 |
@@ -885,7 +885,7 @@ _Last updated: 2026-06-25 23:22 UTC_
 | 44 | Katie Smith | 408 |
 | 45 | Cappie Pondexter | 405 |
 | 46 | Nicole Powell | 401 |
-| 47 | **Dearica Hamby** 🔴 | 398 |
+| 47 | **Dearica Hamby** 🔴 +1 | 399 |
 | 48 | Jasmine Thomas | 394 |
 | 49 | Danielle Robinson | 389 |
 | 50 | Deanna Nolan | 388 |
@@ -1196,8 +1196,8 @@ _Last updated: 2026-06-25 23:22 UTC_
 | 150 | Wendy Palmer | 146 |
 | 151 | Helen Darling | 144 |
 | 151 | Matee Ajavon | 144 |
+| 153 | **Dearica Hamby** 🔴 +1 | 143 |
 | 153 | Shenise Johnson | 143 |
-| 154 | **Dearica Hamby** 🔴 | 142 |
 | 155 | Jordan Hooper | 141 |
 | 155 | Michaela Onyenwere | 141 |
 | 157 | Coco Miller | 139 |
@@ -1357,7 +1357,7 @@ _Last updated: 2026-06-25 23:22 UTC_
 | 106 | Tully Bevilaqua | 514 |
 | 107 | Jia Perkins | 513 |
 | 108 | Jordin Canada | 512 |
-| 109 | **Marina Mabrey** 🔴 | 510 |
+| 109 | **Marina Mabrey** 🔴 +1 | 511 |
 | 110 | Tamera Young | 501 |
 | 111 | Nikki Teasley | 493 |
 | 111 | Tari Phillips | 493 |
