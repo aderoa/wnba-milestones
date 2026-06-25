@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-25 02:57 UTC_
+_Last updated: 2026-06-25 02:58 UTC_
 
 ## Contents
 
@@ -157,7 +157,7 @@ _Last updated: 2026-06-25 02:57 UTC_
 | 136 | Azurá Stevens | 2,270 |
 | 137 | Allison Feaster | 2,258 |
 | 138 | Shekinna Stricklen | 2,245 |
-| 139 | **Jordin Canada** 🔴 +4 | 2,241 |
+| 139 | **Jordin Canada** 🔴 +5 | 2,242 |
 | 140 | Kara Braxton | 2,237 |
 | 140 | Matee Ajavon | 2,237 |
 | 142 | Kia Nurse | 2,231 |
@@ -367,7 +367,7 @@ _Last updated: 2026-06-25 02:57 UTC_
 | 141 | Dominique Canty | 961 |
 | 142 | Armintie Herrington | 960 |
 | 143 | Janell Burse | 944 |
-| 144 | **Angel Reese** 🔴 +8 | 931 |
+| 144 | **Angel Reese** 🔴 +9 | 932 |
 | 145 | Jessica Shepard | 927 |
 | 145 | Merlakia Jones | 927 |
 | 147 | Satou Sabally | 926 |
@@ -456,8 +456,8 @@ _Last updated: 2026-06-25 02:57 UTC_
 | 25 | Katie Smith | 1,258 |
 | 26 | Kelsey Plum | 1,237 |
 | 27 | Odyssey Sims | 1,228 |
+| 28 | **Jordin Canada** 🔴 +1 | 1,202 |
 | 28 | Vickie Johnson | 1,202 |
-| 29 | **Jordin Canada** 🔴 | 1,201 |
 | 30 | Leilani Mitchell | 1,197 |
 | 31 | DeWanna Bonner | 1,193 |
 | 32 | Jewell Loyd | 1,144 |
@@ -1239,9 +1239,9 @@ _Last updated: 2026-06-25 02:57 UTC_
 | 191 | Scholanda Dorrell | 109 |
 | 193 | Belinda Snell | 108 |
 | 194 | Layshia Clarendon | 107 |
-| 195 | **Cecilia Zandalasini** 🔴 +2 | 105 |
 | 195 | Laurie Koehn | 105 |
-| 197 | Julie Vanloo | 104 |
+| 196 | **Cecilia Zandalasini** 🔴 +1 | 104 |
+| 196 | Julie Vanloo | 104 |
 | 198 | Jeanette Pohlen-Mavunga | 103 |
 | 198 | Kiesha Brown | 103 |
 | 200 | Adrienne Johnson | 102 |
