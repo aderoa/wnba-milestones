@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-25 04:07 UTC_
+_Last updated: 2026-06-25 04:08 UTC_
 
 ## Contents
 
@@ -150,7 +150,7 @@ _Last updated: 2026-06-25 04:07 UTC_
 | 129 | Anna DeForge | 2,413 |
 | 130 | DeMya Walker | 2,379 |
 | 131 | Alex Bentley | 2,350 |
-| 132 | **Kayla Thornton** 🔴 +14 | 2,347 |
+| 131 | **Kayla Thornton** 🔴 +17 | 2,350 |
 | 133 | Merlakia Jones | 2,308 |
 | 134 | Kia Vaughn | 2,288 |
 | 135 | Betnijah Laney-Hamilton | 2,282 |
@@ -536,8 +536,8 @@ _Last updated: 2026-06-25 04:07 UTC_
 | 105 | Armintie Herrington | 589 |
 | 106 | Betnijah Laney-Hamilton | 585 |
 | 107 | Tan White | 578 |
+| 108 | **Gabby Williams** 🔴 +5 | 577 |
 | 108 | Matee Ajavon | 577 |
-| 109 | **Gabby Williams** 🔴 +4 | 576 |
 | 110 | Napheesa Collier | 570 |
 | 111 | Nicole Powell | 567 |
 | 112 | Loree Moore | 562 |
@@ -547,7 +547,7 @@ _Last updated: 2026-06-25 04:07 UTC_
 | 116 | Janel McCarville | 551 |
 | 116 | Svetlana Abrosimova | 551 |
 | 118 | Michele Timms | 549 |
-| 119 | **Veronica Burton** 🔴 +6 | 543 |
+| 119 | **Veronica Burton** 🔴 +7 | 544 |
 | 120 | Marie Ferdinand-Harris | 528 |
 | 121 | Caitlin Clark | 525 |
 | 122 | Margo Dydek | 524 |
@@ -1118,8 +1118,8 @@ _Last updated: 2026-06-25 04:07 UTC_
 | 71 | Nikki Teasley | 304 |
 | 72 | Natisha Hiedeman | 303 |
 | 73 | Vickie Johnson | 295 |
+| 74 | **Kayla Thornton** 🔴 +5 | 293 |
 | 74 | Seimone Augustus | 293 |
-| 75 | **Kayla Thornton** 🔴 +4 | 292 |
 | 76 | Candice Wiggins | 290 |
 | 76 | Tully Bevilaqua | 290 |
 | 78 | Alana Beard | 288 |
@@ -1238,8 +1238,8 @@ _Last updated: 2026-06-25 04:07 UTC_
 | 191 | Emma Meesseman | 109 |
 | 191 | Scholanda Dorrell | 109 |
 | 193 | Belinda Snell | 108 |
+| 194 | **Cecilia Zandalasini** 🔴 +4 | 107 |
 | 194 | Layshia Clarendon | 107 |
-| 195 | **Cecilia Zandalasini** 🔴 +3 | 106 |
 | 196 | Laurie Koehn | 105 |
 | 197 | Julie Vanloo | 104 |
 | 198 | Jeanette Pohlen-Mavunga | 103 |
