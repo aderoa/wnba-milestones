@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-25 00:21 UTC_
+_Last updated: 2026-06-25 00:22 UTC_
 
 ## Contents
 
@@ -67,7 +67,7 @@ _Last updated: 2026-06-25 00:21 UTC_
 | 46 | Courtney Vandersloot | 4,352 |
 | 47 | Allisha Gray | 4,339 |
 | 48 | Sophia Young-Malcolm | 4,300 |
-| 49 | **Kahleah Copper** 🔴 +13 | 4,296 |
+| 49 | **Kahleah Copper** 🔴 +15 | 4,298 |
 | 50 | Plenette Pierson | 4,258 |
 | 51 | Monique Currie | 4,253 |
 | 52 | Dearica Hamby | 4,243 |
@@ -1606,9 +1606,9 @@ _Last updated: 2026-06-25 00:21 UTC_
 | 150 | Candice Wiggins | 525 |
 | 150 | Epiphanny Prince | 525 |
 | 150 | Jackie Young | 525 |
-| 153 | Armintie Herrington | 523 |
-| 153 | **Kayla McBride** 🔴 +1 | 523 |
-| 153 | **Sophie Cunningham** 🔴 | 523 |
+| 153 | **Sophie Cunningham** 🔴 +1 | 524 |
+| 154 | Armintie Herrington | 523 |
+| 154 | **Kayla McBride** 🔴 +1 | 523 |
 | 156 | Sheryl Swoopes | 519 |
 | 157 | **Monique Billings** 🔴 +1 | 518 |
 | 158 | **Myisha Hines-Allen** 🔴 +1 | 517 |
