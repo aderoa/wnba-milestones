@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-25 01:25 UTC_
+_Last updated: 2026-06-25 01:26 UTC_
 
 ## Contents
 
@@ -58,7 +58,7 @@ _Last updated: 2026-06-25 01:25 UTC_
 | 37 | **Alyssa Thomas** 🔴 +16 | 4,669 |
 | 38 | Arike Ogunbowale | 4,612 |
 | 39 | Penny Taylor | 4,595 |
-| 40 | **Natasha Howard** 🔴 +16 | 4,544 |
+| 40 | **Natasha Howard** 🔴 +18 | 4,546 |
 | 41 | Chelsea Gray | 4,506 |
 | 42 | Kristi Toliver | 4,474 |
 | 43 | Crystal Langhorne | 4,433 |
@@ -183,7 +183,7 @@ _Last updated: 2026-06-25 01:25 UTC_
 | 162 | Bria Hartley | 1,967 |
 | 163 | Chiney Ogwumike | 1,964 |
 | 164 | Nicole Ohlde | 1,959 |
-| 165 | **Aliyah Boston** 🔴 +16 | 1,944 |
+| 165 | **Aliyah Boston** 🔴 +18 | 1,946 |
 | 166 | Kedra Holland-Corn | 1,938 |
 | 167 | **Myisha Hines-Allen** 🔴 +11 | 1,929 |
 | 168 | Cathrine Kraayeveld | 1,926 |
@@ -381,7 +381,7 @@ _Last updated: 2026-06-25 01:25 UTC_
 | 155 | Shameka Christon | 867 |
 | 156 | Alanna Smith | 864 |
 | 157 | Krystal Thomas | 862 |
-| 158 | **Nia Coffey** 🔴 +4 | 858 |
+| 158 | **Nia Coffey** 🔴 +5 | 859 |
 | 159 | Marina Mabrey | 849 |
 | 160 | Leilani Mitchell | 845 |
 | 161 | Essence Carson | 833 |
@@ -1520,8 +1520,8 @@ _Last updated: 2026-06-25 01:25 UTC_
 | 64 | Erica Wheeler | 787 |
 | 65 | Sue Bird | 775 |
 | 66 | Sheri Sam | 766 |
-| 67 | Kia Vaughn | 755 |
-| 67 | **Natasha Cloud** 🔴 | 755 |
+| 67 | **Natasha Cloud** 🔴 +1 | 756 |
+| 68 | Kia Vaughn | 755 |
 | 69 | Vickie Johnson | 752 |
 | 70 | Kara Braxton | 748 |
 | 71 | **Kahleah Copper** 🔴 +2 | 740 |
@@ -1606,8 +1606,8 @@ _Last updated: 2026-06-25 01:25 UTC_
 | 150 | Candice Wiggins | 525 |
 | 150 | Epiphanny Prince | 525 |
 | 150 | Jackie Young | 525 |
+| 150 | **Kayla McBride** 🔴 +3 | 525 |
 | 150 | **Sophie Cunningham** 🔴 +2 | 525 |
-| 154 | **Kayla McBride** 🔴 +2 | 524 |
 | 155 | Armintie Herrington | 523 |
 | 156 | **Monique Billings** 🔴 +3 | 520 |
 | 157 | Sheryl Swoopes | 519 |
