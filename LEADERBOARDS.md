@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-25 00:08 UTC_
+_Last updated: 2026-06-25 00:09 UTC_
 
 ## Contents
 
@@ -43,7 +43,7 @@ _Last updated: 2026-06-25 00:08 UTC_
 | 22 | **Skylar Diggins** 🔴 | 5,626 |
 | 23 | DeLisha Milton-Jones | 5,571 |
 | 24 | Katie Douglas | 5,545 |
-| 25 | **Kayla McBride** 🔴 +9 | 5,531 |
+| 25 | **Kayla McBride** 🔴 +11 | 5,533 |
 | 26 | Lindsay Whalen | 5,511 |
 | 27 | Swin Cash | 5,119 |
 | 28 | Tangela Smith | 5,035 |
@@ -436,7 +436,7 @@ _Last updated: 2026-06-25 00:08 UTC_
 | 5 | Lindsay Whalen | 2,347 |
 | 6 | Chelsea Gray | 1,935 |
 | 7 | **Alyssa Thomas** 🔴 +2 | 1,905 |
-| 8 | **Skylar Diggins** 🔴 | 1,812 |
+| 8 | **Skylar Diggins** 🔴 +1 | 1,813 |
 | 9 | Natasha Cloud | 1,772 |
 | 10 | Becky Hammon | 1,705 |
 | 11 | Candace Parker | 1,634 |
@@ -530,7 +530,7 @@ _Last updated: 2026-06-25 00:08 UTC_
 | 99 | Alysha Clark | 616 |
 | 100 | Debbie Black | 612 |
 | 101 | Cynthia Cooper | 602 |
-| 102 | **Natasha Howard** 🔴 +2 | 598 |
+| 102 | **Natasha Howard** 🔴 +3 | 599 |
 | 103 | Sancho Lyttle | 592 |
 | 104 | Camille Smith | 590 |
 | 105 | Armintie Herrington | 589 |
@@ -872,7 +872,7 @@ _Last updated: 2026-06-25 00:08 UTC_
 | 31 | **Skylar Diggins** 🔴 | 454 |
 | 32 | Tina Thompson | 452 |
 | 33 | Maya Moore | 449 |
-| 34 | **Natasha Howard** 🔴 | 447 |
+| 34 | **Natasha Howard** 🔴 +1 | 448 |
 | 35 | Chelsea Gray | 445 |
 | 35 | Jewell Loyd | 445 |
 | 37 | Sheri Sam | 438 |
@@ -1513,8 +1513,8 @@ _Last updated: 2026-06-25 00:08 UTC_
 | 56 | Wendy Palmer | 831 |
 | 58 | Dearica Hamby | 829 |
 | 59 | Shannon Johnson | 813 |
+| 59 | **Skylar Diggins** 🔴 +1 | 813 |
 | 59 | Tully Bevilaqua | 813 |
-| 61 | **Skylar Diggins** 🔴 | 812 |
 | 62 | Nykesha Sales | 796 |
 | 63 | Ebony Hoffman | 791 |
 | 64 | Erica Wheeler | 787 |
