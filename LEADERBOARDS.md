@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-25 01:35 UTC_
+_Last updated: 2026-06-25 01:36 UTC_
 
 ## Contents
 
@@ -335,8 +335,8 @@ _Last updated: 2026-06-25 01:35 UTC_
 | 109 | Andrea Stinson | 1,127 |
 | 109 | Tamika Raymond | 1,127 |
 | 111 | Adrienne Goodson | 1,126 |
-| 112 | **Aliyah Boston** 🔴 +6 | 1,116 |
-| 112 | **Natasha Cloud** 🔴 +4 | 1,116 |
+| 112 | **Aliyah Boston** 🔴 +7 | 1,117 |
+| 113 | **Natasha Cloud** 🔴 +4 | 1,116 |
 | 114 | NaLyssa Smith | 1,115 |
 | 115 | Deanna Nolan | 1,112 |
 | 116 | Chiney Ogwumike | 1,110 |
@@ -644,7 +644,7 @@ _Last updated: 2026-06-25 01:35 UTC_
 | 8 | Tammy Sutton-Brown | 555 |
 | 9 | Tangela Smith | 554 |
 | 10 | Ruth Riley | 505 |
-| 11 | **Elizabeth Williams** 🔴 | 493 |
+| 11 | **Elizabeth Williams** 🔴 +1 | 494 |
 | 12 | Taj McWilliams-Franklin | 443 |
 | 13 | Breanna Stewart | 436 |
 | 14 | Tina Charles | 428 |
