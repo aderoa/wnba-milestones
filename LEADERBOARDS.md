@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-25 08:06 UTC_
+_Last updated: 2026-06-25 08:07 UTC_
 
 ## Contents
 
@@ -117,7 +117,7 @@ _Last updated: 2026-06-25 08:06 UTC_
 | 96 | Shameka Christon | 3,039 |
 | 97 | Marie Ferdinand-Harris | 3,001 |
 | 98 | Emma Meesseman | 2,966 |
-| 99 | Natasha Cloud | 2,959 |
+| 99 | Natasha Cloud | 2,961 |
 | 100 | Elizabeth Williams | 2,898 |
 | 101 | Natalie Williams | 2,894 |
 | 102 | Jennifer Gillom | 2,888 |
@@ -336,8 +336,8 @@ _Last updated: 2026-06-25 08:06 UTC_
 | 109 | Tamika Raymond | 1,127 |
 | 111 | Adrienne Goodson | 1,126 |
 | 112 | Aliyah Boston | 1,119 |
-| 113 | NaLyssa Smith | 1,115 |
-| 113 | Natasha Cloud | 1,115 |
+| 113 | Natasha Cloud | 1,116 |
+| 114 | NaLyssa Smith | 1,115 |
 | 115 | Deanna Nolan | 1,112 |
 | 116 | Chiney Ogwumike | 1,110 |
 | 117 | Becky Hammon | 1,108 |
@@ -437,7 +437,7 @@ _Last updated: 2026-06-25 08:06 UTC_
 | 6 | Chelsea Gray | 1,935 |
 | 7 | Alyssa Thomas | 1,911 |
 | 8 | Skylar Diggins | 1,818 |
-| 9 | Natasha Cloud | 1,774 |
+| 9 | Natasha Cloud | 1,776 |
 | 10 | Becky Hammon | 1,705 |
 | 11 | Candace Parker | 1,634 |
 | 12 | Cappie Pondexter | 1,575 |
@@ -1297,7 +1297,7 @@ _Last updated: 2026-06-25 08:06 UTC_
 | 45 | Renee Montgomery | 697 |
 | 46 | Temeka Johnson | 696 |
 | 47 | Penny Taylor | 695 |
-| 48 | Natasha Cloud | 692 |
+| 48 | Natasha Cloud | 694 |
 | 49 | Erica Wheeler | 690 |
 | 50 | Dominique Canty | 685 |
 | 51 | DeMya Walker | 684 |
