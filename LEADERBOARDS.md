@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-25 01:36 UTC_
+_Last updated: 2026-06-25 01:37 UTC_
 
 ## Contents
 
@@ -1574,8 +1574,8 @@ _Last updated: 2026-06-25 01:36 UTC_
 | 118 | Svetlana Abrosimova | 613 |
 | 119 | Odyssey Sims | 610 |
 | 120 | Layshia Clarendon | 609 |
-| 121 | **Kelsey Mitchell** 🔴 +3 | 604 |
-| 121 | Tiffany Mitchell | 604 |
+| 121 | **Kelsey Mitchell** 🔴 +4 | 605 |
+| 122 | Tiffany Mitchell | 604 |
 | 123 | Janel McCarville | 597 |
 | 124 | Kamila Vodichkova | 596 |
 | 125 | Teresa Weatherspoon | 589 |
