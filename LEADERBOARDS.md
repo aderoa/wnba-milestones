@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-25 03:33 UTC_
+_Last updated: 2026-06-25 03:34 UTC_
 
 ## Contents
 
@@ -156,8 +156,8 @@ _Last updated: 2026-06-25 03:33 UTC_
 | 135 | Betnijah Laney-Hamilton | 2,282 |
 | 136 | Azurá Stevens | 2,270 |
 | 137 | Allison Feaster | 2,258 |
+| 138 | **Jordin Canada** 🔴 +8 | 2,245 |
 | 138 | Shekinna Stricklen | 2,245 |
-| 139 | **Jordin Canada** 🔴 +5 | 2,242 |
 | 140 | Kara Braxton | 2,237 |
 | 140 | Matee Ajavon | 2,237 |
 | 142 | Kia Nurse | 2,231 |
@@ -931,8 +931,8 @@ _Last updated: 2026-06-25 03:33 UTC_
 | 89 | Plenette Pierson | 317 |
 | 89 | Temeka Johnson | 317 |
 | 91 | Alysha Clark | 316 |
-| 91 | **Gabby Williams** 🔴 +2 | 316 |
-| 93 | Debbie Black | 315 |
+| 92 | Debbie Black | 315 |
+| 92 | **Gabby Williams** 🔴 +1 | 315 |
 | 94 | Crystal Langhorne | 314 |
 | 95 | Ebony Hoffman | 308 |
 | 96 | Tamera Young | 305 |
@@ -1220,7 +1220,7 @@ _Last updated: 2026-06-25 03:33 UTC_
 | 173 | Charde Houston | 124 |
 | 174 | Lisa Leslie | 123 |
 | 175 | Sidney Spencer | 122 |
-| 176 | **Jordin Canada** 🔴 | 120 |
+| 176 | **Jordin Canada** 🔴 +1 | 121 |
 | 177 | Lexie Hull | 119 |
 | 178 | Tonya Edwards | 118 |
 | 179 | Edwige Lawson-Wade | 116 |
@@ -1445,8 +1445,8 @@ _Last updated: 2026-06-25 03:33 UTC_
 | 193 | Crystal Robinson | 299 |
 | 194 | Michele Timms | 297 |
 | 195 | Azurá Stevens | 295 |
+| 195 | **Kayla Thornton** 🔴 +1 | 295 |
 | 195 | Rachel Banham | 295 |
-| 197 | **Kayla Thornton** 🔴 | 294 |
 | 198 | Natisha Hiedeman | 289 |
 | 199 | Alexis Hornbuckle | 288 |
 | 199 | Kristen Rasmussen | 288 |
