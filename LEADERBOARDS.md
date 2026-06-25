@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-25 01:21 UTC_
+_Last updated: 2026-06-25 01:22 UTC_
 
 ## Contents
 
@@ -40,7 +40,7 @@ _Last updated: 2026-06-25 01:21 UTC_
 | 19 | A'ja Wilson | 5,942 |
 | 20 | Becky Hammon | 5,816 |
 | 21 | Angel McCoughtry | 5,797 |
-| 22 | **Skylar Diggins** 🔴 +9 | 5,635 |
+| 22 | **Skylar Diggins** 🔴 +13 | 5,639 |
 | 23 | DeLisha Milton-Jones | 5,571 |
 | 24 | Katie Douglas | 5,545 |
 | 25 | **Kayla McBride** 🔴 +19 | 5,541 |
@@ -358,8 +358,8 @@ _Last updated: 2026-06-25 01:21 UTC_
 | 132 | Damiris Dantas | 999 |
 | 133 | Sabrina Ionescu | 998 |
 | 134 | Marissa Coleman | 995 |
-| 135 | Kristen Rasmussen | 993 |
-| 135 | **Skylar Diggins** 🔴 +2 | 993 |
+| 135 | **Skylar Diggins** 🔴 +3 | 994 |
+| 136 | Kristen Rasmussen | 993 |
 | 137 | Danielle Robinson | 988 |
 | 138 | Shavonte Zellous | 978 |
 | 139 | Kara Lawson | 976 |
@@ -435,7 +435,7 @@ _Last updated: 2026-06-25 01:21 UTC_
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
 | 6 | Chelsea Gray | 1,935 |
-| 7 | **Alyssa Thomas** 🔴 +6 | 1,909 |
+| 7 | **Alyssa Thomas** 🔴 +7 | 1,910 |
 | 8 | **Skylar Diggins** 🔴 +5 | 1,817 |
 | 9 | **Natasha Cloud** 🔴 +1 | 1,773 |
 | 10 | Becky Hammon | 1,705 |
