@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-26 03:56 UTC_
+_Last updated: 2026-06-26 03:57 UTC_
 
 ## Contents
 
@@ -37,7 +37,7 @@ _Last updated: 2026-06-26 03:56 UTC_
 | 16 | Brittney Griner | 6,031 |
 | 17 | Lauren Jackson | 6,005 |
 | 17 | Seimone Augustus | 6,005 |
-| 19 | **A'ja Wilson** 🔴 +28 | 5,970 |
+| 19 | **A'ja Wilson** 🔴 +30 | 5,972 |
 | 20 | Becky Hammon | 5,816 |
 | 21 | Angel McCoughtry | 5,797 |
 | 22 | Skylar Diggins | 5,626 |
@@ -335,7 +335,7 @@ _Last updated: 2026-06-26 03:56 UTC_
 | 109 | Andrea Stinson | 1,127 |
 | 109 | Tamika Raymond | 1,127 |
 | 111 | Adrienne Goodson | 1,126 |
-| 112 | **NaLyssa Smith** 🔴 +9 | 1,124 |
+| 112 | **NaLyssa Smith** 🔴 +10 | 1,125 |
 | 113 | Deanna Nolan | 1,112 |
 | 113 | Natasha Cloud | 1,112 |
 | 115 | Aliyah Boston | 1,110 |
@@ -463,7 +463,7 @@ _Last updated: 2026-06-26 03:56 UTC_
 | 32 | **Jewell Loyd** 🔴 +2 | 1,146 |
 | 33 | Renee Montgomery | 1,140 |
 | 34 | Swin Cash | 1,131 |
-| 35 | **Jackie Young** 🔴 +4 | 1,091 |
+| 35 | **Jackie Young** 🔴 +5 | 1,092 |
 | 36 | Lindsey Harding | 1,090 |
 | 37 | Sabrina Ionescu | 1,079 |
 | 38 | Katie Douglas | 1,069 |
@@ -1374,9 +1374,9 @@ _Last updated: 2026-06-26 03:56 UTC_
 | 123 | Kia Vaughn | 454 |
 | 124 | Janeth Arcain | 453 |
 | 125 | Betnijah Laney-Hamilton | 447 |
-| 126 | Elena Baranova | 444 |
-| 126 | **Jackie Young** 🔴 +3 | 444 |
-| 126 | Jantel Lavender | 444 |
+| 126 | **Jackie Young** 🔴 +4 | 445 |
+| 127 | Elena Baranova | 444 |
+| 127 | Jantel Lavender | 444 |
 | 129 | **Alysha Clark** 🔴 +1 | 441 |
 | 130 | Ann Wauters | 440 |
 | 130 | **Cheyenne Parker-Tyus** 🔴 | 440 |
