@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-26 00:41 UTC_
+_Last updated: 2026-06-26 00:42 UTC_
 
 ## Contents
 
@@ -23,7 +23,7 @@ _Last updated: 2026-06-26 00:41 UTC_
 | 2 | Tina Charles | 8,396 |
 | 3 | DeWanna Bonner | 7,910 |
 | 4 | Tina Thompson | 7,470 |
-| 5 | **Nneka Ogwumike** 🔴 +18 | 7,458 |
+| 5 | **Nneka Ogwumike** 🔴 +21 | 7,461 |
 | 6 | Tamika Catchings | 7,371 |
 | 7 | Candice Dupree | 6,861 |
 | 8 | Sue Bird | 6,802 |
@@ -157,10 +157,10 @@ _Last updated: 2026-06-26 00:41 UTC_
 | 136 | Azurá Stevens | 2,259 |
 | 137 | Allison Feaster | 2,258 |
 | 138 | Shekinna Stricklen | 2,245 |
-| 139 | Jordin Canada | 2,237 |
-| 139 | Kara Braxton | 2,237 |
-| 139 | **Kia Nurse** 🔴 +6 | 2,237 |
-| 139 | Matee Ajavon | 2,237 |
+| 139 | **Kia Nurse** 🔴 +8 | 2,239 |
+| 140 | Jordin Canada | 2,237 |
+| 140 | Kara Braxton | 2,237 |
+| 140 | Matee Ajavon | 2,237 |
 | 143 | Dawn Staley | 2,228 |
 | 144 | Teaira McCowan | 2,221 |
 | 145 | Janel McCarville | 2,215 |
@@ -590,7 +590,7 @@ _Last updated: 2026-06-26 00:41 UTC_
 | 159 | Candice Wiggins | 417 |
 | 160 | Aari McDonald | 415 |
 | 161 | Erin Thorn | 414 |
-| 162 | **Julie Allemand** 🔴 +11 | 412 |
+| 162 | **Julie Allemand** 🔴 +12 | 413 |
 | 163 | Jamierra Faulkner | 410 |
 | 163 | Murriel Page | 410 |
 | 165 | Allison Feaster | 406 |
