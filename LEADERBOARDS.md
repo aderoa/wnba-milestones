@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-26 02:34 UTC_
+_Last updated: 2026-06-26 02:35 UTC_
 
 ## Contents
 
@@ -113,7 +113,7 @@ _Last updated: 2026-06-26 02:34 UTC_
 | 92 | Shavonte Zellous | 3,103 |
 | 93 | Briann January | 3,082 |
 | 94 | Erika de Souza | 3,046 |
-| 95 | **Sabrina Ionescu** 🔴 | 3,041 |
+| 95 | **Sabrina Ionescu** 🔴 +3 | 3,044 |
 | 96 | Shameka Christon | 3,039 |
 | 97 | Marie Ferdinand-Harris | 3,001 |
 | 98 | Emma Meesseman | 2,966 |
@@ -345,7 +345,7 @@ _Last updated: 2026-06-26 02:34 UTC_
 | 119 | Svetlana Abrosimova | 1,078 |
 | 120 | Isabelle Harrison | 1,055 |
 | 121 | Le'coe Willingham | 1,054 |
-| 122 | **Jackie Young** 🔴 +3 | 1,047 |
+| 122 | **Jackie Young** 🔴 +4 | 1,048 |
 | 123 | Nicole Ohlde | 1,040 |
 | 124 | Tamecka Dixon | 1,035 |
 | 125 | Kamila Vodichkova | 1,031 |
@@ -367,7 +367,7 @@ _Last updated: 2026-06-26 02:34 UTC_
 | 141 | Dominique Canty | 961 |
 | 142 | Armintie Herrington | 960 |
 | 143 | Janell Burse | 944 |
-| 144 | **Jessica Shepard** 🔴 +3 | 930 |
+| 144 | **Jessica Shepard** 🔴 +4 | 931 |
 | 145 | Merlakia Jones | 927 |
 | 146 | Satou Sabally | 926 |
 | 147 | Angel Reese | 923 |
@@ -1069,7 +1069,7 @@ _Last updated: 2026-06-26 02:34 UTC_
 | 23 | Marina Mabrey | 474 |
 | 24 | Shekinna Stricklen | 468 |
 | 25 | Cappie Pondexter | 464 |
-| 26 | **Sabrina Ionescu** 🔴 | 462 |
+| 26 | **Sabrina Ionescu** 🔴 +1 | 463 |
 | 27 | Breanna Stewart | 460 |
 | 28 | Ariel Atkins | 451 |
 | 28 | Tiffany Hayes | 451 |
