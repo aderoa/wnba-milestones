@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-26 01:04 UTC_
+_Last updated: 2026-06-26 01:05 UTC_
 
 ## Contents
 
@@ -343,8 +343,8 @@ _Last updated: 2026-06-26 01:04 UTC_
 | 117 | Becky Hammon | 1,108 |
 | 118 | Ann Wauters | 1,105 |
 | 119 | Svetlana Abrosimova | 1,078 |
-| 120 | **Isabelle Harrison** 🔴 +5 | 1,054 |
-| 120 | Le'coe Willingham | 1,054 |
+| 120 | **Isabelle Harrison** 🔴 +6 | 1,055 |
+| 121 | Le'coe Willingham | 1,054 |
 | 122 | Jackie Young | 1,044 |
 | 123 | Nicole Ohlde | 1,040 |
 | 124 | Tamecka Dixon | 1,035 |
@@ -1641,9 +1641,9 @@ _Last updated: 2026-06-26 01:04 UTC_
 | 184 | Rhonda Mapp | 483 |
 | 186 | Sami Whitcomb | 480 |
 | 187 | Seimone Augustus | 477 |
-| 188 | Allie Quigley | 475 |
-| 188 | **Kia Nurse** 🔴 +2 | 475 |
-| 188 | Nia Coffey | 475 |
+| 188 | **Kia Nurse** 🔴 +3 | 476 |
+| 189 | Allie Quigley | 475 |
+| 189 | Nia Coffey | 475 |
 | 191 | Azurá Stevens | 474 |
 | 192 | Alanna Smith | 470 |
 | 193 | Christi Thomas | 463 |
