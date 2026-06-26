@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-26 02:26 UTC_
+_Last updated: 2026-06-26 02:27 UTC_
 
 ## Contents
 
@@ -1013,8 +1013,8 @@ _Last updated: 2026-06-26 02:26 UTC_
 | 172 | Layshia Clarendon | 195 |
 | 173 | Sonja Henning | 194 |
 | 173 | Tierra Ruffin-Pratt | 194 |
-| 175 | Cynthia Cooper | 192 |
-| 175 | **Natisha Hiedeman** 🔴 +1 | 192 |
+| 175 | **Natisha Hiedeman** 🔴 +2 | 193 |
+| 176 | Cynthia Cooper | 192 |
 | 177 | Alanna Smith | 190 |
 | 178 | Myisha Hines-Allen | 189 |
 | 179 | Tamicha Jackson | 188 |
@@ -1446,7 +1446,7 @@ _Last updated: 2026-06-26 02:26 UTC_
 | 195 | Rachel Banham | 295 |
 | 196 | Kayla Thornton | 294 |
 | 197 | Azurá Stevens | 292 |
-| 198 | **Natisha Hiedeman** 🔴 +1 | 290 |
+| 198 | **Natisha Hiedeman** 🔴 +2 | 291 |
 | 199 | Alexis Hornbuckle | 288 |
 | 199 | Kristen Rasmussen | 288 |
 
@@ -1551,7 +1551,7 @@ _Last updated: 2026-06-26 02:26 UTC_
 | 94 | Kelsey Plum | 680 |
 | 94 | Temeka Johnson | 680 |
 | 97 | Kelly Miller | 676 |
-| 98 | **Cheyenne Parker-Tyus** 🔴 | 674 |
+| 98 | **Cheyenne Parker-Tyus** 🔴 +1 | 675 |
 | 99 | Chamique Holdsclaw | 667 |
 | 100 | Breanna Stewart | 665 |
 | 101 | Tianna Hawkins | 662 |
