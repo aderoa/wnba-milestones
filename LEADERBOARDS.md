@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-26 00:22 UTC_
+_Last updated: 2026-06-26 00:23 UTC_
 
 ## Contents
 
@@ -110,8 +110,8 @@ _Last updated: 2026-06-26 00:22 UTC_
 | 89 | **Erica Wheeler** 🔴 +8 | 3,152 |
 | 90 | Wendy Palmer | 3,135 |
 | 91 | Shavonte Zellous | 3,103 |
-| 92 | Briann January | 3,082 |
-| 92 | **Marina Mabrey** 🔴 +30 | 3,082 |
+| 92 | **Marina Mabrey** 🔴 +33 | 3,085 |
+| 93 | Briann January | 3,082 |
 | 94 | Erika de Souza | 3,046 |
 | 95 | Sabrina Ionescu | 3,041 |
 | 96 | Shameka Christon | 3,039 |
@@ -590,7 +590,7 @@ _Last updated: 2026-06-26 00:22 UTC_
 | 159 | Candice Wiggins | 417 |
 | 160 | Aari McDonald | 415 |
 | 161 | Erin Thorn | 414 |
-| 162 | **Julie Allemand** 🔴 +10 | 411 |
+| 162 | **Julie Allemand** 🔴 +11 | 412 |
 | 163 | Jamierra Faulkner | 410 |
 | 163 | Murriel Page | 410 |
 | 165 | Allison Feaster | 406 |
@@ -893,8 +893,8 @@ _Last updated: 2026-06-26 00:22 UTC_
 | 52 | Swin Cash | 384 |
 | 52 | Tina Charles | 384 |
 | 54 | Tiffany Hayes | 382 |
-| 55 | **Ariel Atkins** 🔴 | 380 |
-| 55 | Jordin Canada | 380 |
+| 55 | **Ariel Atkins** 🔴 +1 | 381 |
+| 56 | Jordin Canada | 380 |
 | 57 | Monique Currie | 378 |
 | 58 | Chamique Holdsclaw | 376 |
 | 59 | Mwadi Mabika | 370 |
@@ -1066,7 +1066,7 @@ _Last updated: 2026-06-26 00:22 UTC_
 | 20 | Sami Whitcomb | 511 |
 | 21 | Allie Quigley | 510 |
 | 22 | Leilani Mitchell | 508 |
-| 23 | **Marina Mabrey** 🔴 +4 | 469 |
+| 23 | **Marina Mabrey** 🔴 +5 | 470 |
 | 24 | Shekinna Stricklen | 468 |
 | 25 | Cappie Pondexter | 464 |
 | 26 | Sabrina Ionescu | 462 |
@@ -1303,7 +1303,7 @@ _Last updated: 2026-06-26 00:22 UTC_
 | 52 | Asjha Jones | 682 |
 | 53 | Danielle Robinson | 680 |
 | 54 | Sheryl Swoopes | 677 |
-| 55 | **Dearica Hamby** 🔴 | 673 |
+| 55 | **Dearica Hamby** 🔴 +1 | 674 |
 | 56 | Tammy Sutton-Brown | 672 |
 | 57 | Deanna Nolan | 669 |
 | 58 | Chasity Melvin | 666 |
