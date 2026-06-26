@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-26 04:05 UTC_
+_Last updated: 2026-06-26 04:06 UTC_
 
 ## Contents
 
@@ -1349,7 +1349,7 @@ _Last updated: 2026-06-26 04:05 UTC_
 | 98 | Kara Lawson | 526 |
 | 99 | Leilani Mitchell | 525 |
 | 99 | Nicole Powell | 525 |
-| 101 | **Arike Ogunbowale** 🔴 +2 | 522 |
+| 101 | **Arike Ogunbowale** 🔴 +1 | 521 |
 | 102 | Sabrina Ionescu | 520 |
 | 103 | Marie Ferdinand-Harris | 518 |
 | 104 | Shavonte Zellous | 517 |
@@ -1550,7 +1550,7 @@ _Last updated: 2026-06-26 04:05 UTC_
 | 94 | Jennifer Lacy | 680 |
 | 94 | Kelsey Plum | 680 |
 | 94 | Temeka Johnson | 680 |
-| 97 | **Cheyenne Parker-Tyus** 🔴 +3 | 677 |
+| 97 | **Cheyenne Parker-Tyus** 🔴 +4 | 678 |
 | 98 | Kelly Miller | 676 |
 | 99 | Chamique Holdsclaw | 667 |
 | 100 | Breanna Stewart | 665 |
