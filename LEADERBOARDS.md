@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-26 02:40 UTC_
+_Last updated: 2026-06-26 02:41 UTC_
 
 ## Contents
 
@@ -136,7 +136,7 @@ _Last updated: 2026-06-26 02:40 UTC_
 | 115 | Janeth Arcain | 2,633 |
 | 116 | Temeka Johnson | 2,620 |
 | 117 | Leilani Mitchell | 2,618 |
-| 118 | **Cheyenne Parker-Tyus** 🔴 +5 | 2,604 |
+| 118 | **Cheyenne Parker-Tyus** 🔴 +6 | 2,605 |
 | 119 | Cynthia Cooper | 2,601 |
 | 120 | Tan White | 2,595 |
 | 121 | Kelly Miller | 2,558 |
@@ -525,7 +525,7 @@ _Last updated: 2026-06-26 02:40 UTC_
 | 93 | Asjha Jones | 637 |
 | 95 | Jennifer Azzi | 636 |
 | 96 | **Jonquel Jones** 🔴 +1 | 626 |
-| 97 | **Natisha Hiedeman** 🔴 +1 | 625 |
+| 96 | **Natisha Hiedeman** 🔴 +2 | 626 |
 | 98 | Sami Whitcomb | 623 |
 | 99 | Alysha Clark | 616 |
 | 100 | Debbie Black | 612 |
@@ -1579,7 +1579,7 @@ _Last updated: 2026-06-26 02:40 UTC_
 | 123 | Janel McCarville | 597 |
 | 124 | Kamila Vodichkova | 596 |
 | 125 | Teresa Weatherspoon | 589 |
-| 126 | **Arike Ogunbowale** 🔴 | 586 |
+| 126 | **Arike Ogunbowale** 🔴 +1 | 587 |
 | 127 | Emma Meesseman | 585 |
 | 128 | Chiney Ogwumike | 580 |
 | 128 | Hamchetou Maiga-Ba | 580 |
