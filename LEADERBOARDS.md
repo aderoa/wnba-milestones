@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-26 02:13 UTC_
+_Last updated: 2026-06-26 02:14 UTC_
 
 ## Contents
 
@@ -33,11 +33,11 @@ _Last updated: 2026-06-26 02:13 UTC_
 | 12 | Sylvia Fowles | 6,413 |
 | 13 | Lisa Leslie | 6,251 |
 | 14 | Breanna Stewart | 6,173 |
-| 15 | **Jewell Loyd** 🔴 | 6,078 |
+| 15 | **Jewell Loyd** 🔴 +3 | 6,081 |
 | 16 | Brittney Griner | 6,031 |
 | 17 | Lauren Jackson | 6,005 |
 | 17 | Seimone Augustus | 6,005 |
-| 19 | **A'ja Wilson** 🔴 +4 | 5,946 |
+| 19 | **A'ja Wilson** 🔴 +6 | 5,948 |
 | 20 | Becky Hammon | 5,816 |
 | 21 | Angel McCoughtry | 5,797 |
 | 22 | Skylar Diggins | 5,626 |
@@ -194,7 +194,7 @@ _Last updated: 2026-06-26 02:13 UTC_
 | 173 | Nakia Sanford | 1,915 |
 | 174 | Ebony Hoffman | 1,909 |
 | 175 | Candice Wiggins | 1,901 |
-| 176 | **Natisha Hiedeman** 🔴 +4 | 1,862 |
+| 176 | **Natisha Hiedeman** 🔴 +6 | 1,864 |
 | 177 | Isabelle Harrison | 1,841 |
 | 178 | Damiris Dantas | 1,830 |
 | 179 | Tianna Hawkins | 1,825 |
@@ -238,8 +238,8 @@ _Last updated: 2026-06-26 02:13 UTC_
 | 12 | Alyssa Thomas | 2,817 |
 | 13 | **Jonquel Jones** 🔴 | 2,663 |
 | 14 | Sancho Lyttle | 2,596 |
-| 15 | **A'ja Wilson** 🔴 | 2,574 |
-| 15 | DeLisha Milton-Jones | 2,574 |
+| 15 | **A'ja Wilson** 🔴 +1 | 2,575 |
+| 16 | DeLisha Milton-Jones | 2,574 |
 | 17 | Breanna Stewart | 2,560 |
 | 18 | Brittney Griner | 2,556 |
 | 19 | Swin Cash | 2,521 |
@@ -335,7 +335,7 @@ _Last updated: 2026-06-26 02:13 UTC_
 | 109 | Andrea Stinson | 1,127 |
 | 109 | Tamika Raymond | 1,127 |
 | 111 | Adrienne Goodson | 1,126 |
-| 112 | **NaLyssa Smith** 🔴 +1 | 1,116 |
+| 112 | **NaLyssa Smith** 🔴 +3 | 1,118 |
 | 113 | Deanna Nolan | 1,112 |
 | 113 | Natasha Cloud | 1,112 |
 | 115 | Aliyah Boston | 1,110 |
@@ -434,7 +434,7 @@ _Last updated: 2026-06-26 02:13 UTC_
 | 3 | Ticha Penicheiro | 2,588 |
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
-| 6 | **Chelsea Gray** 🔴 +1 | 1,936 |
+| 6 | **Chelsea Gray** 🔴 +2 | 1,937 |
 | 7 | Alyssa Thomas | 1,903 |
 | 8 | Skylar Diggins | 1,812 |
 | 9 | Natasha Cloud | 1,772 |
@@ -1014,7 +1014,7 @@ _Last updated: 2026-06-26 02:13 UTC_
 | 173 | Sonja Henning | 194 |
 | 173 | Tierra Ruffin-Pratt | 194 |
 | 175 | Cynthia Cooper | 192 |
-| 176 | **Natisha Hiedeman** 🔴 | 191 |
+| 175 | **Natisha Hiedeman** 🔴 +1 | 192 |
 | 177 | Alanna Smith | 190 |
 | 178 | Myisha Hines-Allen | 189 |
 | 179 | Tamicha Jackson | 188 |
@@ -1052,7 +1052,7 @@ _Last updated: 2026-06-26 02:13 UTC_
 | 6 | Kayla McBride | 737 |
 | 7 | Katie Douglas | 723 |
 | 8 | Kelsey Mitchell | 687 |
-| 9 | **Jewell Loyd** 🔴 | 678 |
+| 9 | **Jewell Loyd** 🔴 +1 | 679 |
 | 10 | DeWanna Bonner | 672 |
 | 11 | Kristi Toliver | 651 |
 | 12 | Kelsey Plum | 609 |
@@ -1350,8 +1350,8 @@ _Last updated: 2026-06-26 02:13 UTC_
 | 99 | Leilani Mitchell | 525 |
 | 99 | Nicole Powell | 525 |
 | 101 | **Arike Ogunbowale** 🔴 +1 | 521 |
-| 102 | Marie Ferdinand-Harris | 518 |
-| 102 | **Sabrina Ionescu** 🔴 | 518 |
+| 102 | **Sabrina Ionescu** 🔴 +1 | 519 |
+| 103 | Marie Ferdinand-Harris | 518 |
 | 104 | Shavonte Zellous | 517 |
 | 104 | Wendy Palmer | 517 |
 | 106 | Tully Bevilaqua | 514 |
