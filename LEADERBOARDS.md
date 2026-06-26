@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-26 00:48 UTC_
+_Last updated: 2026-06-26 00:49 UTC_
 
 ## Contents
 
@@ -110,7 +110,7 @@ _Last updated: 2026-06-26 00:48 UTC_
 | 89 | **Erica Wheeler** 🔴 +8 | 3,152 |
 | 90 | Wendy Palmer | 3,135 |
 | 91 | Shavonte Zellous | 3,103 |
-| 92 | **Marina Mabrey** 🔴 +43 | 3,095 |
+| 92 | **Marina Mabrey** 🔴 +45 | 3,097 |
 | 93 | Briann January | 3,082 |
 | 94 | Erika de Souza | 3,046 |
 | 95 | Sabrina Ionescu | 3,041 |
@@ -381,8 +381,8 @@ _Last updated: 2026-06-26 00:48 UTC_
 | 155 | Shameka Christon | 867 |
 | 156 | Alanna Smith | 864 |
 | 157 | Krystal Thomas | 862 |
-| 158 | **Marina Mabrey** 🔴 +5 | 854 |
-| 158 | Nia Coffey | 854 |
+| 158 | **Marina Mabrey** 🔴 +6 | 855 |
+| 159 | Nia Coffey | 854 |
 | 160 | Leilani Mitchell | 845 |
 | 161 | Essence Carson | 833 |
 | 162 | Kristi Toliver | 829 |
@@ -1303,7 +1303,7 @@ _Last updated: 2026-06-26 00:48 UTC_
 | 52 | Asjha Jones | 682 |
 | 53 | Danielle Robinson | 680 |
 | 54 | Sheryl Swoopes | 677 |
-| 55 | **Dearica Hamby** 🔴 +1 | 674 |
+| 55 | **Dearica Hamby** 🔴 +2 | 675 |
 | 56 | Tammy Sutton-Brown | 672 |
 | 57 | Deanna Nolan | 669 |
 | 58 | Chasity Melvin | 666 |
