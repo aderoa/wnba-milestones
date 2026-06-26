@@ -2,6 +2,11 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-26 00:57 UTC
+
+- **Marina Mabrey** passed **Shavonte Zellous** for **#91** all-time in points (career 3,105) — up from #93 entering today — _2:42 - 4th — LA @ TOR_
+- **Julie Allemand** passed **Erin Thorn** for **#161** all-time in assists (career 415) — up from #167 entering today — _2:42 - 4th — LA @ TOR_
+
 ## 2026-06-26 00:55 UTC
 
 - **Marina Mabrey** reached **3,100** career points (now 3,102) — _3:42 - 4th — LA @ TOR_
