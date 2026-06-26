@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-26 23:41 UTC_
+_Last updated: 2026-06-26 23:42 UTC_
 
 ## Contents
 
@@ -40,7 +40,7 @@ _Last updated: 2026-06-26 23:41 UTC_
 | 19 | A'ja Wilson | 5,942 |
 | 20 | Becky Hammon | 5,816 |
 | 21 | Angel McCoughtry | 5,797 |
-| 22 | **Skylar Diggins** 🔴 | 5,626 |
+| 22 | **Skylar Diggins** 🔴 +2 | 5,628 |
 | 23 | DeLisha Milton-Jones | 5,571 |
 | 24 | Katie Douglas | 5,545 |
 | 25 | Kayla McBride | 5,522 |
@@ -359,7 +359,7 @@ _Last updated: 2026-06-26 23:41 UTC_
 | 133 | Sabrina Ionescu | 998 |
 | 134 | Marissa Coleman | 995 |
 | 135 | Kristen Rasmussen | 993 |
-| 136 | **Skylar Diggins** 🔴 +1 | 992 |
+| 135 | **Skylar Diggins** 🔴 +2 | 993 |
 | 137 | Danielle Robinson | 988 |
 | 138 | Shavonte Zellous | 978 |
 | 139 | Kara Lawson | 976 |
@@ -1482,7 +1482,7 @@ _Last updated: 2026-06-26 23:41 UTC_
 | 26 | Rebekkah Brunson | 996 |
 | 27 | Yolanda Griffith | 991 |
 | 28 | Lauren Jackson | 982 |
-| 29 | **Brittney Griner** 🔴 | 980 |
+| 29 | **Brittney Griner** 🔴 +1 | 981 |
 | 30 | Nakia Sanford | 979 |
 | 31 | Asjha Jones | 971 |
 | 32 | Alyssa Thomas | 954 |
