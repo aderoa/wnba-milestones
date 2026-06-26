@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-26 23:38 UTC_
+_Last updated: 2026-06-26 23:39 UTC_
 
 ## Contents
 
@@ -154,7 +154,7 @@ _Last updated: 2026-06-26 23:38 UTC_
 | 133 | Merlakia Jones | 2,308 |
 | 134 | Kia Vaughn | 2,288 |
 | 135 | Betnijah Laney-Hamilton | 2,282 |
-| 136 | **Azurá Stevens** 🔴 | 2,259 |
+| 136 | **Azurá Stevens** 🔴 +6 | 2,265 |
 | 137 | Allison Feaster | 2,258 |
 | 138 | Shekinna Stricklen | 2,245 |
 | 139 | Jordin Canada | 2,237 |
@@ -314,7 +314,7 @@ _Last updated: 2026-06-26 23:38 UTC_
 | 88 | Tari Phillips | 1,274 |
 | 89 | Janel McCarville | 1,261 |
 | 90 | Liz Cambage | 1,258 |
-| 91 | **Azurá Stevens** 🔴 | 1,256 |
+| 91 | **Azurá Stevens** 🔴 +1 | 1,257 |
 | 92 | Tiffany Hayes | 1,244 |
 | 93 | Ezi Magbegor | 1,243 |
 | 94 | Myisha Hines-Allen | 1,239 |
@@ -408,7 +408,7 @@ _Last updated: 2026-06-26 23:38 UTC_
 | 181 | Kelsey Bone | 769 |
 | 181 | Tan White | 769 |
 | 184 | Tully Bevilaqua | 767 |
-| 185 | **Shakira Austin** 🔴 +1 | 759 |
+| 185 | **Shakira Austin** 🔴 +2 | 760 |
 | 186 | Layshia Clarendon | 756 |
 | 187 | Brooke Wyckoff | 751 |
 | 188 | Coco Miller | 750 |
@@ -436,7 +436,7 @@ _Last updated: 2026-06-26 23:38 UTC_
 | 5 | Lindsay Whalen | 2,347 |
 | 6 | Chelsea Gray | 1,935 |
 | 7 | Alyssa Thomas | 1,903 |
-| 8 | **Skylar Diggins** 🔴 +1 | 1,813 |
+| 8 | **Skylar Diggins** 🔴 +3 | 1,815 |
 | 9 | Natasha Cloud | 1,772 |
 | 10 | Becky Hammon | 1,705 |
 | 11 | Candace Parker | 1,634 |
@@ -1133,10 +1133,10 @@ _Last updated: 2026-06-26 23:38 UTC_
 | 86 | Rebecca Allen | 254 |
 | 88 | Bria Hartley | 253 |
 | 89 | Angel McCoughtry | 249 |
+| 90 | **Azurá Stevens** 🔴 +2 | 243 |
 | 90 | Erin Thorn | 243 |
 | 90 | Nneka Ogwumike | 243 |
-| 92 | Brittney Sykes | 242 |
-| 93 | **Azurá Stevens** 🔴 | 241 |
+| 93 | Brittney Sykes | 242 |
 | 94 | Alex Bentley | 239 |
 | 94 | Cynthia Cooper | 239 |
 | 96 | Svetlana Abrosimova | 235 |
