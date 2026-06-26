@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-26 23:55 UTC_
+_Last updated: 2026-06-26 23:56 UTC_
 
 ## Contents
 
@@ -199,7 +199,7 @@ _Last updated: 2026-06-26 23:55 UTC_
 | 178 | Damiris Dantas | 1,830 |
 | 179 | Tianna Hawkins | 1,825 |
 | 180 | Noelle Quinn | 1,824 |
-| 181 | Rachel Banham | 1,823 |
+| 181 | **Rachel Banham** 🔴 | 1,823 |
 | 182 | Danielle Adams | 1,820 |
 | 183 | Charde Houston | 1,797 |
 | 184 | NaLyssa Smith | 1,775 |
@@ -555,7 +555,7 @@ _Last updated: 2026-06-26 23:55 UTC_
 | 124 | Iziane Castro Marques | 509 |
 | 125 | Brittany Boyd-Jones | 508 |
 | 125 | Chasity Melvin | 508 |
-| 125 | Rachel Banham | 508 |
+| 125 | **Rachel Banham** 🔴 | 508 |
 | 125 | Rhyne Howard | 508 |
 | 129 | Anna DeForge | 503 |
 | 129 | Coco Miller | 503 |
@@ -1087,7 +1087,7 @@ _Last updated: 2026-06-26 23:55 UTC_
 | 40 | Rhyne Howard | 394 |
 | 42 | Roneeka Hodges | 389 |
 | 43 | **Courtney Vandersloot** 🔴 | 385 |
-| 44 | Rachel Banham | 384 |
+| 44 | **Rachel Banham** 🔴 | 384 |
 | 45 | Briann January | 381 |
 | 46 | Jasmine Thomas | 376 |
 | 47 | Allison Feaster | 372 |
@@ -1443,7 +1443,7 @@ _Last updated: 2026-06-26 23:55 UTC_
 | 192 | Isabelle Harrison | 300 |
 | 193 | Crystal Robinson | 299 |
 | 194 | Michele Timms | 297 |
-| 195 | Rachel Banham | 295 |
+| 195 | **Rachel Banham** 🔴 | 295 |
 | 196 | Kayla Thornton | 294 |
 | 197 | **Azurá Stevens** 🔴 | 292 |
 | 198 | Natisha Hiedeman | 289 |
@@ -1481,8 +1481,8 @@ _Last updated: 2026-06-26 23:55 UTC_
 | 25 | Lindsay Whalen | 998 |
 | 26 | Rebekkah Brunson | 996 |
 | 27 | Yolanda Griffith | 991 |
+| 28 | **Brittney Griner** 🔴 +2 | 982 |
 | 28 | Lauren Jackson | 982 |
-| 29 | **Brittney Griner** 🔴 +1 | 981 |
 | 30 | Nakia Sanford | 979 |
 | 31 | Asjha Jones | 971 |
 | 32 | Alyssa Thomas | 954 |
@@ -1632,7 +1632,7 @@ _Last updated: 2026-06-26 23:55 UTC_
 | 176 | Karima Christmas-Kelly | 494 |
 | 177 | Ann Wauters | 493 |
 | 177 | Riquna Williams | 493 |
-| 179 | Rachel Banham | 490 |
+| 179 | **Rachel Banham** 🔴 | 490 |
 | 180 | Charde Houston | 487 |
 | 181 | Lindsey Harding | 486 |
 | 182 | Cathrine Kraayeveld | 484 |
