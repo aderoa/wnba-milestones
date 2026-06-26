@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-26 03:34 UTC_
+_Last updated: 2026-06-26 03:35 UTC_
 
 ## Contents
 
@@ -236,7 +236,7 @@ _Last updated: 2026-06-26 03:34 UTC_
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | Alyssa Thomas | 2,817 |
-| 13 | **Jonquel Jones** 🔴 +4 | 2,667 |
+| 13 | **Jonquel Jones** 🔴 +5 | 2,668 |
 | 14 | Sancho Lyttle | 2,596 |
 | 15 | **A'ja Wilson** 🔴 +7 | 2,581 |
 | 16 | DeLisha Milton-Jones | 2,574 |
@@ -465,7 +465,7 @@ _Last updated: 2026-06-26 03:34 UTC_
 | 34 | Swin Cash | 1,131 |
 | 35 | **Jackie Young** 🔴 +5 | 1,092 |
 | 36 | Lindsey Harding | 1,090 |
-| 37 | **Sabrina Ionescu** 🔴 +3 | 1,077 |
+| 37 | **Sabrina Ionescu** 🔴 +4 | 1,078 |
 | 38 | Katie Douglas | 1,069 |
 | 39 | Alana Beard | 1,061 |
 | 40 | Penny Taylor | 1,049 |
@@ -1317,7 +1317,7 @@ _Last updated: 2026-06-26 03:34 UTC_
 | 65 | Kelsey Plum | 636 |
 | 67 | Odyssey Sims | 631 |
 | 67 | Svetlana Abrosimova | 631 |
-| 69 | **Jonquel Jones** 🔴 | 627 |
+| 69 | **Jonquel Jones** 🔴 +1 | 628 |
 | 70 | Rebekkah Brunson | 615 |
 | 71 | Seimone Augustus | 613 |
 | 72 | Tiffany Hayes | 610 |
@@ -1550,8 +1550,8 @@ _Last updated: 2026-06-26 03:34 UTC_
 | 94 | Jennifer Lacy | 680 |
 | 94 | Kelsey Plum | 680 |
 | 94 | Temeka Johnson | 680 |
-| 97 | **Cheyenne Parker-Tyus** 🔴 +2 | 676 |
-| 97 | Kelly Miller | 676 |
+| 97 | **Cheyenne Parker-Tyus** 🔴 +3 | 677 |
+| 98 | Kelly Miller | 676 |
 | 99 | Chamique Holdsclaw | 667 |
 | 100 | Breanna Stewart | 665 |
 | 101 | **Jewell Loyd** 🔴 +1 | 662 |
