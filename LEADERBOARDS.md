@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-26 02:10 UTC_
+_Last updated: 2026-06-26 02:11 UTC_
 
 ## Contents
 
@@ -73,7 +73,7 @@ _Last updated: 2026-06-26 02:10 UTC_
 | 52 | Monique Currie | 4,253 |
 | 53 | Courtney Williams | 4,238 |
 | 54 | Vickie Johnson | 4,230 |
-| 55 | **Jonquel Jones** 🔴 +5 | 4,227 |
+| 55 | **Jonquel Jones** 🔴 +7 | 4,229 |
 | 56 | Yolanda Griffith | 4,224 |
 | 57 | Rebekkah Brunson | 4,133 |
 | 58 | Asjha Jones | 3,986 |
@@ -525,7 +525,7 @@ _Last updated: 2026-06-26 02:10 UTC_
 | 93 | Asjha Jones | 637 |
 | 95 | Jennifer Azzi | 636 |
 | 96 | **Jonquel Jones** 🔴 | 625 |
-| 97 | **Natisha Hiedeman** 🔴 | 624 |
+| 96 | **Natisha Hiedeman** 🔴 +1 | 625 |
 | 98 | Sami Whitcomb | 623 |
 | 99 | Alysha Clark | 616 |
 | 100 | Debbie Black | 612 |
@@ -1192,7 +1192,7 @@ _Last updated: 2026-06-26 02:10 UTC_
 | 146 | Moriah Jefferson | 149 |
 | 146 | Tiffany Mitchell | 149 |
 | 148 | Diamond DeShields | 147 |
-| 148 | Katie Lou Samuelson | 147 |
+| 148 | **Katie Lou Samuelson** 🔴 | 147 |
 | 150 | Wendy Palmer | 146 |
 | 151 | Helen Darling | 144 |
 | 151 | Matee Ajavon | 144 |
