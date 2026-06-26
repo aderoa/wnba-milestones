@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-26 02:32 UTC_
+_Last updated: 2026-06-26 02:33 UTC_
 
 ## Contents
 
@@ -356,7 +356,7 @@ _Last updated: 2026-06-26 02:32 UTC_
 | 130 | Tiffany Jackson | 1,002 |
 | 131 | Tianna Hawkins | 1,000 |
 | 132 | Damiris Dantas | 999 |
-| 133 | **Sabrina Ionescu** 🔴 | 998 |
+| 132 | **Sabrina Ionescu** 🔴 +1 | 999 |
 | 134 | Marissa Coleman | 995 |
 | 135 | Kristen Rasmussen | 993 |
 | 136 | Skylar Diggins | 991 |
