@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-26 03:17 UTC_
+_Last updated: 2026-06-26 03:18 UTC_
 
 ## Contents
 
@@ -367,7 +367,7 @@ _Last updated: 2026-06-26 03:17 UTC_
 | 141 | Dominique Canty | 961 |
 | 142 | Armintie Herrington | 960 |
 | 143 | Janell Burse | 944 |
-| 144 | **Jessica Shepard** 🔴 +8 | 935 |
+| 144 | **Jessica Shepard** 🔴 +9 | 936 |
 | 145 | Merlakia Jones | 927 |
 | 146 | Satou Sabally | 926 |
 | 147 | Angel Reese | 923 |
@@ -1495,7 +1495,7 @@ _Last updated: 2026-06-26 03:17 UTC_
 | 39 | Ticha Penicheiro | 913 |
 | 40 | DeWanna Bonner | 912 |
 | 41 | Shavonte Zellous | 907 |
-| 42 | **Alysha Clark** 🔴 +1 | 897 |
+| 42 | **Alysha Clark** 🔴 +2 | 898 |
 | 43 | **Jonquel Jones** 🔴 | 890 |
 | 44 | DeMya Walker | 882 |
 | 45 | Candice Dupree | 876 |
