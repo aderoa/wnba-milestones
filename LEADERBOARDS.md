@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-26 00:45 UTC_
+_Last updated: 2026-06-26 00:46 UTC_
 
 ## Contents
 
@@ -110,7 +110,7 @@ _Last updated: 2026-06-26 00:45 UTC_
 | 89 | **Erica Wheeler** 🔴 +8 | 3,152 |
 | 90 | Wendy Palmer | 3,135 |
 | 91 | Shavonte Zellous | 3,103 |
-| 92 | **Marina Mabrey** 🔴 +39 | 3,091 |
+| 92 | **Marina Mabrey** 🔴 +41 | 3,093 |
 | 93 | Briann January | 3,082 |
 | 94 | Erika de Souza | 3,046 |
 | 95 | Sabrina Ionescu | 3,041 |
@@ -1517,7 +1517,7 @@ _Last updated: 2026-06-26 00:45 UTC_
 | 61 | Skylar Diggins | 812 |
 | 62 | Nykesha Sales | 796 |
 | 63 | Ebony Hoffman | 791 |
-| 64 | **Erica Wheeler** 🔴 +3 | 790 |
+| 63 | **Erica Wheeler** 🔴 +4 | 791 |
 | 65 | Sue Bird | 775 |
 | 66 | Sheri Sam | 766 |
 | 67 | Kia Vaughn | 755 |
