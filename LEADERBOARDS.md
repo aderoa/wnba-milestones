@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-26 01:09 UTC_
+_Last updated: 2026-06-26 01:10 UTC_
 
 ## Contents
 
@@ -1439,8 +1439,8 @@ _Last updated: 2026-06-26 01:09 UTC_
 | 188 | Monique Billings | 307 |
 | 189 | Erin Perperoglou | 305 |
 | 189 | Jennifer Lacy | 305 |
+| 191 | Isabelle Harrison | 303 |
 | 191 | Tianna Hawkins | 303 |
-| 192 | Isabelle Harrison | 302 |
 | 193 | Crystal Robinson | 299 |
 | 194 | Michele Timms | 297 |
 | 195 | Rachel Banham | 295 |
