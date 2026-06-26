@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-26 04:03 UTC_
+_Last updated: 2026-06-26 04:04 UTC_
 
 ## Contents
 
@@ -87,9 +87,9 @@ _Last updated: 2026-06-26 04:03 UTC_
 | 66 | Mwadi Mabika | 3,576 |
 | 67 | Odyssey Sims | 3,574 |
 | 68 | Camille Smith | 3,551 |
+| 69 | **Jackie Young** 🔴 +20 | 3,542 |
 | 69 | Napheesa Collier | 3,542 |
 | 69 | Shannon Johnson | 3,542 |
-| 71 | **Jackie Young** 🔴 +17 | 3,539 |
 | 72 | Renee Montgomery | 3,533 |
 | 73 | Jasmine Thomas | 3,522 |
 | 74 | Tamecka Dixon | 3,507 |
@@ -303,8 +303,8 @@ _Last updated: 2026-06-26 04:03 UTC_
 | 77 | Kayla Thornton | 1,360 |
 | 78 | Sheri Sam | 1,356 |
 | 79 | Tamika Whitmore | 1,355 |
-| 80 | Emma Meesseman | 1,350 |
-| 80 | **Jewell Loyd** 🔴 +1 | 1,350 |
+| 80 | **Jewell Loyd** 🔴 +2 | 1,351 |
+| 81 | Emma Meesseman | 1,350 |
 | 82 | Elena Baranova | 1,335 |
 | 83 | Brionna Jones | 1,333 |
 | 84 | Erlana Larkins | 1,329 |
@@ -318,7 +318,7 @@ _Last updated: 2026-06-26 04:03 UTC_
 | 92 | Tiffany Hayes | 1,244 |
 | 93 | Ezi Magbegor | 1,243 |
 | 94 | Myisha Hines-Allen | 1,239 |
-| 95 | Brianna Turner | 1,237 |
+| 95 | **Brianna Turner** 🔴 | 1,237 |
 | 96 | Seimone Augustus | 1,228 |
 | 97 | Kayla McBride | 1,226 |
 | 98 | **Chelsea Gray** 🔴 +1 | 1,222 |
@@ -335,7 +335,7 @@ _Last updated: 2026-06-26 04:03 UTC_
 | 109 | Andrea Stinson | 1,127 |
 | 109 | Tamika Raymond | 1,127 |
 | 111 | Adrienne Goodson | 1,126 |
-| 112 | **NaLyssa Smith** 🔴 +10 | 1,125 |
+| 111 | **NaLyssa Smith** 🔴 +11 | 1,126 |
 | 113 | Deanna Nolan | 1,112 |
 | 113 | Natasha Cloud | 1,112 |
 | 115 | Aliyah Boston | 1,110 |
@@ -345,7 +345,7 @@ _Last updated: 2026-06-26 04:03 UTC_
 | 119 | Svetlana Abrosimova | 1,078 |
 | 120 | Isabelle Harrison | 1,055 |
 | 121 | Le'coe Willingham | 1,054 |
-| 122 | **Jackie Young** 🔴 +8 | 1,052 |
+| 122 | **Jackie Young** 🔴 +9 | 1,053 |
 | 123 | Nicole Ohlde | 1,040 |
 | 124 | Tamecka Dixon | 1,035 |
 | 125 | Kamila Vodichkova | 1,031 |
@@ -434,7 +434,7 @@ _Last updated: 2026-06-26 04:03 UTC_
 | 3 | Ticha Penicheiro | 2,588 |
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
-| 6 | **Chelsea Gray** 🔴 +8 | 1,943 |
+| 6 | **Chelsea Gray** 🔴 +9 | 1,944 |
 | 7 | Alyssa Thomas | 1,903 |
 | 8 | Skylar Diggins | 1,812 |
 | 9 | Natasha Cloud | 1,772 |
@@ -675,7 +675,7 @@ _Last updated: 2026-06-26 04:03 UTC_
 | 39 | Napheesa Collier | 239 |
 | 40 | Emma Meesseman | 238 |
 | 41 | Azurá Stevens | 233 |
-| 41 | Brianna Turner | 233 |
+| 41 | **Brianna Turner** 🔴 | 233 |
 | 43 | Skylar Diggins | 229 |
 | 44 | Chasity Melvin | 228 |
 | 45 | Alanna Smith | 224 |
@@ -1104,7 +1104,7 @@ _Last updated: 2026-06-26 04:03 UTC_
 | 58 | Natasha Cloud | 339 |
 | 59 | Anna DeForge | 334 |
 | 60 | Erica Wheeler | 329 |
-| 61 | **Jackie Young** 🔴 +1 | 324 |
+| 61 | **Jackie Young** 🔴 +2 | 325 |
 | 62 | Sophie Cunningham | 317 |
 | 62 | Sugar Rodgers | 317 |
 | 64 | Marissa Coleman | 315 |
@@ -1651,6 +1651,6 @@ _Last updated: 2026-06-26 04:03 UTC_
 | 195 | Sue Wicks | 462 |
 | 196 | Natalie Achonwa | 459 |
 | 197 | Kara Lawson | 457 |
-| 198 | **NaLyssa Smith** 🔴 +1 | 455 |
+| 198 | **NaLyssa Smith** 🔴 +2 | 456 |
 | 199 | Alexis Hornbuckle | 450 |
 | 199 | Satou Sabally | 450 |
