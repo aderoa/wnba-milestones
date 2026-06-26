@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-26 00:40 UTC_
+_Last updated: 2026-06-26 00:41 UTC_
 
 ## Contents
 
@@ -23,7 +23,7 @@ _Last updated: 2026-06-26 00:40 UTC_
 | 2 | Tina Charles | 8,396 |
 | 3 | DeWanna Bonner | 7,910 |
 | 4 | Tina Thompson | 7,470 |
-| 5 | **Nneka Ogwumike** 🔴 +16 | 7,456 |
+| 5 | **Nneka Ogwumike** 🔴 +18 | 7,458 |
 | 6 | Tamika Catchings | 7,371 |
 | 7 | Candice Dupree | 6,861 |
 | 8 | Sue Bird | 6,802 |
@@ -792,10 +792,10 @@ _Last updated: 2026-06-26 00:40 UTC_
 | 154 | Shatori Walker-Kimbrough | 84 |
 | 157 | Tamera Young | 83 |
 | 158 | Damiris Dantas | 82 |
-| 158 | **Marina Mabrey** 🔴 +1 | 82 |
-| 160 | Charlotte Smith | 81 |
-| 160 | Cintia dos Santos | 81 |
-| 160 | Jessie Hicks | 81 |
+| 159 | Charlotte Smith | 81 |
+| 159 | Cintia dos Santos | 81 |
+| 159 | Jessie Hicks | 81 |
+| 159 | **Marina Mabrey** 🔴 | 81 |
 | 163 | Nykesha Sales | 80 |
 | 163 | Rushia Brown | 80 |
 | 165 | Astou Ndour-Fall | 78 |
