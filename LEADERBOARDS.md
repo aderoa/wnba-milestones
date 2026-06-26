@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-26 03:29 UTC_
+_Last updated: 2026-06-26 03:30 UTC_
 
 ## Contents
 
@@ -238,7 +238,7 @@ _Last updated: 2026-06-26 03:29 UTC_
 | 12 | Alyssa Thomas | 2,817 |
 | 13 | **Jonquel Jones** 🔴 +4 | 2,667 |
 | 14 | Sancho Lyttle | 2,596 |
-| 15 | **A'ja Wilson** 🔴 +6 | 2,580 |
+| 15 | **A'ja Wilson** 🔴 +7 | 2,581 |
 | 16 | DeLisha Milton-Jones | 2,574 |
 | 17 | Breanna Stewart | 2,560 |
 | 18 | Brittney Griner | 2,556 |
@@ -287,8 +287,8 @@ _Last updated: 2026-06-26 03:29 UTC_
 | 61 | Cappie Pondexter | 1,513 |
 | 62 | Napheesa Collier | 1,510 |
 | 63 | Ticha Penicheiro | 1,485 |
+| 64 | **Alysha Clark** 🔴 +1 | 1,466 |
 | 64 | Sue Bird | 1,466 |
-| 65 | **Alysha Clark** 🔴 | 1,465 |
 | 66 | Nicole Powell | 1,457 |
 | 67 | **Cheyenne Parker-Tyus** 🔴 | 1,442 |
 | 68 | Tamera Young | 1,433 |
@@ -335,7 +335,7 @@ _Last updated: 2026-06-26 03:29 UTC_
 | 109 | Andrea Stinson | 1,127 |
 | 109 | Tamika Raymond | 1,127 |
 | 111 | Adrienne Goodson | 1,126 |
-| 112 | **NaLyssa Smith** 🔴 +5 | 1,120 |
+| 112 | **NaLyssa Smith** 🔴 +6 | 1,121 |
 | 113 | Deanna Nolan | 1,112 |
 | 113 | Natasha Cloud | 1,112 |
 | 115 | Aliyah Boston | 1,110 |
@@ -367,7 +367,7 @@ _Last updated: 2026-06-26 03:29 UTC_
 | 141 | Dominique Canty | 961 |
 | 142 | Armintie Herrington | 960 |
 | 143 | Janell Burse | 944 |
-| 144 | **Jessica Shepard** 🔴 +11 | 938 |
+| 144 | **Jessica Shepard** 🔴 +12 | 939 |
 | 145 | Merlakia Jones | 927 |
 | 146 | Satou Sabally | 926 |
 | 147 | Angel Reese | 923 |
@@ -524,8 +524,8 @@ _Last updated: 2026-06-26 03:29 UTC_
 | 93 | **A'ja Wilson** 🔴 | 637 |
 | 93 | Asjha Jones | 637 |
 | 95 | Jennifer Azzi | 636 |
-| 96 | **Jonquel Jones** 🔴 +1 | 626 |
-| 96 | **Natisha Hiedeman** 🔴 +2 | 626 |
+| 96 | **Natisha Hiedeman** 🔴 +3 | 627 |
+| 97 | **Jonquel Jones** 🔴 +1 | 626 |
 | 98 | Sami Whitcomb | 623 |
 | 99 | **Alysha Clark** 🔴 | 616 |
 | 100 | Debbie Black | 612 |
