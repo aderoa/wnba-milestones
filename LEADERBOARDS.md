@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-26 00:18 UTC_
+_Last updated: 2026-06-26 00:19 UTC_
 
 ## Contents
 
@@ -195,7 +195,7 @@ _Last updated: 2026-06-26 00:18 UTC_
 | 174 | Ebony Hoffman | 1,909 |
 | 175 | Candice Wiggins | 1,901 |
 | 176 | Natisha Hiedeman | 1,858 |
-| 177 | **Isabelle Harrison** 🔴 +4 | 1,836 |
+| 177 | **Isabelle Harrison** 🔴 +7 | 1,839 |
 | 178 | Damiris Dantas | 1,830 |
 | 179 | Tianna Hawkins | 1,825 |
 | 180 | Noelle Quinn | 1,824 |
@@ -343,8 +343,8 @@ _Last updated: 2026-06-26 00:18 UTC_
 | 117 | Becky Hammon | 1,108 |
 | 118 | Ann Wauters | 1,105 |
 | 119 | Svetlana Abrosimova | 1,078 |
+| 120 | **Isabelle Harrison** 🔴 +5 | 1,054 |
 | 120 | Le'coe Willingham | 1,054 |
-| 121 | **Isabelle Harrison** 🔴 +3 | 1,052 |
 | 122 | Jackie Young | 1,044 |
 | 123 | Nicole Ohlde | 1,040 |
 | 124 | Tamecka Dixon | 1,035 |
@@ -590,9 +590,9 @@ _Last updated: 2026-06-26 00:18 UTC_
 | 159 | Candice Wiggins | 417 |
 | 160 | Aari McDonald | 415 |
 | 161 | Erin Thorn | 414 |
-| 162 | Jamierra Faulkner | 410 |
-| 162 | **Julie Allemand** 🔴 +9 | 410 |
-| 162 | Murriel Page | 410 |
+| 162 | **Julie Allemand** 🔴 +10 | 411 |
+| 163 | Jamierra Faulkner | 410 |
+| 163 | Murriel Page | 410 |
 | 165 | Allison Feaster | 406 |
 | 166 | Rita Williams | 403 |
 | 167 | **Kia Nurse** 🔴 | 402 |
@@ -768,9 +768,9 @@ _Last updated: 2026-06-26 00:18 UTC_
 | 130 | Nicole Powell | 100 |
 | 133 | Mwadi Mabika | 98 |
 | 133 | Natalie Achonwa | 98 |
-| 135 | Aneika Morello | 96 |
-| 135 | **Isabelle Harrison** 🔴 +1 | 96 |
-| 135 | Tiffani Johnson | 96 |
+| 135 | **Isabelle Harrison** 🔴 +2 | 97 |
+| 136 | Aneika Morello | 96 |
+| 136 | Tiffani Johnson | 96 |
 | 138 | Imani McGee-Stafford | 95 |
 | 139 | Jewell Loyd | 94 |
 | 139 | NaLyssa Smith | 94 |
@@ -1357,7 +1357,7 @@ _Last updated: 2026-06-26 00:18 UTC_
 | 106 | Tully Bevilaqua | 514 |
 | 107 | Jia Perkins | 513 |
 | 108 | Jordin Canada | 512 |
-| 109 | **Marina Mabrey** 🔴 +1 | 511 |
+| 108 | **Marina Mabrey** 🔴 +2 | 512 |
 | 110 | Tamera Young | 501 |
 | 111 | Nikki Teasley | 493 |
 | 111 | Tari Phillips | 493 |

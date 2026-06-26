@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-06-26T00:19:00+00:00",
+    "text": "Julie Allemand passed Jamierra Faulkner and Murriel Page for #162 all-time in assists (career 411) \u2014 up from #167 entering today \u2014 (6:55 - 3rd \u2014 LA @ TOR)",
+    "kind": "rank_pass",
+    "player": "Julie Allemand",
+    "stat": "assists",
+    "rank": 162,
+    "passed_players": [
+      "Jamierra Faulkner",
+      "Murriel Page"
+    ],
+    "new_total": 411
+  },
+  {
     "ts": "2026-06-25T02:51:00+00:00",
     "text": "Kayla Thornton passed Candice Wiggins and Tully Bevilaqua for #75 all-time in three-pointers (career 291) \u2014 up from #78 entering today \u2014 (1:39 - 2nd \u2014 ATL @ GS)",
     "kind": "rank_pass",
@@ -2965,21 +2978,5 @@
     "stat": "steals",
     "value": 100,
     "new_total": 100
-  },
-  {
-    "ts": "2026-06-06T23:20:00+00:00",
-    "text": "Shakira Austin passed Amanda Lassiter, Kamila Vodichkova, Kamilla Cardoso, Sophia Young-Malcolm, and Tari Phillips for #112 all-time in blocks (career 112) \u2014 up from #117 entering today \u2014 (9:09 - 3rd \u2014 WSH @ ATL)",
-    "kind": "rank_pass",
-    "player": "Shakira Austin",
-    "stat": "blocks",
-    "rank": 112,
-    "passed_players": [
-      "Amanda Lassiter",
-      "Kamila Vodichkova",
-      "Kamilla Cardoso",
-      "Sophia Young-Malcolm",
-      "Tari Phillips"
-    ],
-    "new_total": 112
   }
 ]
