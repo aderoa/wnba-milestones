@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-26 03:49 UTC_
+_Last updated: 2026-06-26 03:50 UTC_
 
 ## Contents
 
@@ -71,7 +71,7 @@ _Last updated: 2026-06-26 03:49 UTC_
 | 50 | Dearica Hamby | 4,264 |
 | 51 | Plenette Pierson | 4,258 |
 | 52 | Monique Currie | 4,253 |
-| 53 | **Jonquel Jones** 🔴 +25 | 4,247 |
+| 53 | **Jonquel Jones** 🔴 +26 | 4,248 |
 | 54 | Courtney Williams | 4,238 |
 | 55 | Vickie Johnson | 4,230 |
 | 56 | Yolanda Griffith | 4,224 |
@@ -1578,8 +1578,8 @@ _Last updated: 2026-06-26 03:49 UTC_
 | 122 | Kelsey Mitchell | 601 |
 | 123 | Janel McCarville | 597 |
 | 124 | Kamila Vodichkova | 596 |
+| 125 | **Arike Ogunbowale** 🔴 +3 | 589 |
 | 125 | Teresa Weatherspoon | 589 |
-| 126 | **Arike Ogunbowale** 🔴 +2 | 588 |
 | 127 | Emma Meesseman | 585 |
 | 128 | Chiney Ogwumike | 580 |
 | 128 | Hamchetou Maiga-Ba | 580 |
