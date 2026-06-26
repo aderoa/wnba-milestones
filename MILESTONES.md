@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-26 23:47 UTC
+
+- **Courtney Vandersloot** passed **Katie Smith** for **#75** all-time in rebounds (career 1,384) — _3:43 - 1st — POR @ CHI_
+
 ## 2026-06-26 23:39 UTC
 
 - **Azurá Stevens** passed **Brittney Sykes** for **#92** all-time in three-pointers (career 243) — up from #93 entering today — _6:46 - 1st — POR @ CHI_

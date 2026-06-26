@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-26 23:46 UTC_
+_Last updated: 2026-06-26 23:47 UTC_
 
 ## Contents
 
@@ -64,7 +64,7 @@ _Last updated: 2026-06-26 23:46 UTC_
 | 43 | Crystal Langhorne | 4,433 |
 | 43 | Jia Perkins | 4,433 |
 | 45 | Kelsey Plum | 4,395 |
-| 46 | **Courtney Vandersloot** 🔴 | 4,352 |
+| 46 | **Courtney Vandersloot** 🔴 +2 | 4,354 |
 | 47 | Allisha Gray | 4,339 |
 | 48 | Sophia Young-Malcolm | 4,300 |
 | 49 | Kahleah Copper | 4,283 |
@@ -297,8 +297,8 @@ _Last updated: 2026-06-26 23:46 UTC_
 | 71 | Kara Braxton | 1,387 |
 | 72 | Monique Billings | 1,385 |
 | 73 | Allisha Gray | 1,384 |
-| 74 | **Courtney Vandersloot** 🔴 | 1,383 |
-| 74 | Katie Smith | 1,383 |
+| 73 | **Courtney Vandersloot** 🔴 +1 | 1,384 |
+| 75 | Katie Smith | 1,383 |
 | 76 | Ebony Hoffman | 1,376 |
 | 77 | Kayla Thornton | 1,360 |
 | 78 | Sheri Sam | 1,356 |
@@ -430,13 +430,13 @@ _Last updated: 2026-06-26 23:46 UTC_
 | Rank | Player | Total |
 |-----:|--------|------:|
 | 1 | Sue Bird | 3,234 |
-| 2 | **Courtney Vandersloot** 🔴 | 2,887 |
+| 2 | **Courtney Vandersloot** 🔴 +1 | 2,888 |
 | 3 | Ticha Penicheiro | 2,588 |
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
 | 6 | Chelsea Gray | 1,935 |
 | 7 | Alyssa Thomas | 1,903 |
-| 8 | **Skylar Diggins** 🔴 +3 | 1,815 |
+| 8 | **Skylar Diggins** 🔴 +4 | 1,816 |
 | 9 | **Natasha Cloud** 🔴 | 1,772 |
 | 10 | Becky Hammon | 1,705 |
 | 11 | Candace Parker | 1,634 |
@@ -729,10 +729,10 @@ _Last updated: 2026-06-26 23:46 UTC_
 | 91 | Monique Billings | 129 |
 | 94 | Chiney Ogwumike | 127 |
 | 94 | Kristen Rasmussen | 127 |
-| 96 | Chelsea Gray | 126 |
-| 96 | Katie Douglas | 126 |
-| 96 | Mistie Bass | 126 |
-| 96 | **Olivia Nelson-Ododa** 🔴 +1 | 126 |
+| 94 | **Olivia Nelson-Ododa** 🔴 +2 | 127 |
+| 97 | Chelsea Gray | 126 |
+| 97 | Katie Douglas | 126 |
+| 97 | Mistie Bass | 126 |
 | 100 | Brionna Jones | 125 |
 | 101 | Alyssa Thomas | 123 |
 | 102 | Natalie Williams | 122 |
