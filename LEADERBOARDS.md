@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-26 03:35 UTC_
+_Last updated: 2026-06-26 03:36 UTC_
 
 ## Contents
 
@@ -71,7 +71,7 @@ _Last updated: 2026-06-26 03:35 UTC_
 | 50 | Dearica Hamby | 4,264 |
 | 51 | Plenette Pierson | 4,258 |
 | 52 | Monique Currie | 4,253 |
-| 53 | **Jonquel Jones** 🔴 +18 | 4,240 |
+| 53 | **Jonquel Jones** 🔴 +21 | 4,243 |
 | 54 | Courtney Williams | 4,238 |
 | 55 | Vickie Johnson | 4,230 |
 | 56 | Yolanda Griffith | 4,224 |
@@ -89,8 +89,8 @@ _Last updated: 2026-06-26 03:35 UTC_
 | 68 | Camille Smith | 3,551 |
 | 69 | Napheesa Collier | 3,542 |
 | 69 | Shannon Johnson | 3,542 |
-| 71 | Renee Montgomery | 3,533 |
-| 72 | **Jackie Young** 🔴 +9 | 3,531 |
+| 71 | **Jackie Young** 🔴 +12 | 3,534 |
+| 72 | Renee Montgomery | 3,533 |
 | 73 | Jasmine Thomas | 3,522 |
 | 74 | Tamecka Dixon | 3,507 |
 | 75 | Tammy Sutton-Brown | 3,498 |
@@ -136,7 +136,7 @@ _Last updated: 2026-06-26 03:35 UTC_
 | 115 | Janeth Arcain | 2,633 |
 | 116 | Temeka Johnson | 2,620 |
 | 117 | Leilani Mitchell | 2,618 |
-| 118 | **Cheyenne Parker-Tyus** 🔴 +7 | 2,606 |
+| 118 | **Cheyenne Parker-Tyus** 🔴 +9 | 2,608 |
 | 119 | Cynthia Cooper | 2,601 |
 | 120 | Tan White | 2,595 |
 | 121 | Kelly Miller | 2,558 |
@@ -290,7 +290,7 @@ _Last updated: 2026-06-26 03:35 UTC_
 | 64 | **Alysha Clark** 🔴 +1 | 1,466 |
 | 64 | Sue Bird | 1,466 |
 | 66 | Nicole Powell | 1,457 |
-| 67 | **Cheyenne Parker-Tyus** 🔴 | 1,442 |
+| 67 | **Cheyenne Parker-Tyus** 🔴 +1 | 1,443 |
 | 68 | Tamera Young | 1,433 |
 | 69 | Alana Beard | 1,420 |
 | 70 | Nakia Sanford | 1,419 |
@@ -465,7 +465,7 @@ _Last updated: 2026-06-26 03:35 UTC_
 | 34 | Swin Cash | 1,131 |
 | 35 | **Jackie Young** 🔴 +5 | 1,092 |
 | 36 | Lindsey Harding | 1,090 |
-| 37 | **Sabrina Ionescu** 🔴 +4 | 1,078 |
+| 37 | **Sabrina Ionescu** 🔴 +5 | 1,079 |
 | 38 | Katie Douglas | 1,069 |
 | 39 | Alana Beard | 1,061 |
 | 40 | Penny Taylor | 1,049 |
@@ -1090,9 +1090,9 @@ _Last updated: 2026-06-26 03:35 UTC_
 | 44 | Rachel Banham | 384 |
 | 45 | Briann January | 381 |
 | 46 | Jasmine Thomas | 376 |
-| 47 | Allison Feaster | 372 |
-| 47 | Betty Lennox | 372 |
-| 47 | **Jonquel Jones** 🔴 +1 | 372 |
+| 47 | **Jonquel Jones** 🔴 +2 | 373 |
+| 48 | Allison Feaster | 372 |
+| 48 | Betty Lennox | 372 |
 | 50 | Epiphanny Prince | 368 |
 | 51 | Kia Nurse | 366 |
 | 52 | Kahleah Copper | 355 |
@@ -1104,7 +1104,7 @@ _Last updated: 2026-06-26 03:35 UTC_
 | 58 | Natasha Cloud | 339 |
 | 59 | Anna DeForge | 334 |
 | 60 | Erica Wheeler | 329 |
-| 61 | **Jackie Young** 🔴 | 323 |
+| 61 | **Jackie Young** 🔴 +1 | 324 |
 | 62 | Sophie Cunningham | 317 |
 | 62 | Sugar Rodgers | 317 |
 | 64 | Marissa Coleman | 315 |
