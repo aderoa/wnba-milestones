@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-26 00:55 UTC
+
+- **Marina Mabrey** reached **3,100** career points (now 3,102) — _3:42 - 4th — LA @ TOR_
+
 ## 2026-06-26 00:19 UTC
 
 - **Julie Allemand** passed **Jamierra Faulkner** and **Murriel Page** for **#162** all-time in assists (career 411) — up from #167 entering today — _6:55 - 3rd — LA @ TOR_
