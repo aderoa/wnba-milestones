@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-26 03:52 UTC_
+_Last updated: 2026-06-26 03:53 UTC_
 
 ## Contents
 
@@ -335,7 +335,7 @@ _Last updated: 2026-06-26 03:52 UTC_
 | 109 | Andrea Stinson | 1,127 |
 | 109 | Tamika Raymond | 1,127 |
 | 111 | Adrienne Goodson | 1,126 |
-| 112 | **NaLyssa Smith** 🔴 +8 | 1,123 |
+| 112 | **NaLyssa Smith** 🔴 +9 | 1,124 |
 | 113 | Deanna Nolan | 1,112 |
 | 113 | Natasha Cloud | 1,112 |
 | 115 | Aliyah Boston | 1,110 |
@@ -367,7 +367,7 @@ _Last updated: 2026-06-26 03:52 UTC_
 | 141 | Dominique Canty | 961 |
 | 142 | Armintie Herrington | 960 |
 | 143 | Janell Burse | 944 |
-| 144 | **Jessica Shepard** 🔴 +13 | 940 |
+| 144 | **Jessica Shepard** 🔴 +14 | 941 |
 | 145 | Merlakia Jones | 927 |
 | 146 | Satou Sabally | 926 |
 | 147 | Angel Reese | 923 |
@@ -1599,7 +1599,7 @@ _Last updated: 2026-06-26 03:52 UTC_
 | 143 | Jayne Appel Marinelli | 543 |
 | 143 | Renee Montgomery | 543 |
 | 145 | Marissa Coleman | 541 |
-| 146 | **A'ja Wilson** 🔴 +2 | 539 |
+| 146 | **A'ja Wilson** 🔴 +3 | 540 |
 | 147 | Kristen Rasmussen | 533 |
 | 148 | Amanda Zahui B | 530 |
 | 149 | **Jackie Young** 🔴 +3 | 528 |
