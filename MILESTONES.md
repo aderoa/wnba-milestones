@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-26 03:37 UTC
+
+- **Jonquel Jones** passed **Dearica Hamby** for **#52** all-time in points (career 4,246) — up from #56 entering today — _4:27 - 4th — NY @ SEA_
+
 ## 2026-06-26 00:57 UTC
 
 - **Marina Mabrey** passed **Shavonte Zellous** for **#91** all-time in points (career 3,105) — up from #93 entering today — _2:42 - 4th — LA @ TOR_

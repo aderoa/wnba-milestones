@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-26 03:36 UTC_
+_Last updated: 2026-06-26 03:37 UTC_
 
 ## Contents
 
@@ -56,7 +56,7 @@ _Last updated: 2026-06-26 03:36 UTC_
 | 35 | Chamique Holdsclaw | 4,713 |
 | 36 | Elena Delle Donne | 4,706 |
 | 37 | Alyssa Thomas | 4,653 |
-| 38 | **Arike Ogunbowale** 🔴 | 4,612 |
+| 38 | **Arike Ogunbowale** 🔴 +2 | 4,614 |
 | 39 | Penny Taylor | 4,595 |
 | 40 | Natasha Howard | 4,528 |
 | 41 | **Chelsea Gray** 🔴 +8 | 4,514 |
@@ -71,7 +71,7 @@ _Last updated: 2026-06-26 03:36 UTC_
 | 50 | Dearica Hamby | 4,264 |
 | 51 | Plenette Pierson | 4,258 |
 | 52 | Monique Currie | 4,253 |
-| 53 | **Jonquel Jones** 🔴 +21 | 4,243 |
+| 53 | **Jonquel Jones** 🔴 +24 | 4,246 |
 | 54 | Courtney Williams | 4,238 |
 | 55 | Vickie Johnson | 4,230 |
 | 56 | Yolanda Griffith | 4,224 |
@@ -89,7 +89,7 @@ _Last updated: 2026-06-26 03:36 UTC_
 | 68 | Camille Smith | 3,551 |
 | 69 | Napheesa Collier | 3,542 |
 | 69 | Shannon Johnson | 3,542 |
-| 71 | **Jackie Young** 🔴 +12 | 3,534 |
+| 71 | **Jackie Young** 🔴 +13 | 3,535 |
 | 72 | Renee Montgomery | 3,533 |
 | 73 | Jasmine Thomas | 3,522 |
 | 74 | Tamecka Dixon | 3,507 |
@@ -238,7 +238,7 @@ _Last updated: 2026-06-26 03:36 UTC_
 | 12 | Alyssa Thomas | 2,817 |
 | 13 | **Jonquel Jones** 🔴 +5 | 2,668 |
 | 14 | Sancho Lyttle | 2,596 |
-| 15 | **A'ja Wilson** 🔴 +7 | 2,581 |
+| 15 | **A'ja Wilson** 🔴 +8 | 2,582 |
 | 16 | DeLisha Milton-Jones | 2,574 |
 | 17 | Breanna Stewart | 2,560 |
 | 18 | Brittney Griner | 2,556 |
@@ -367,7 +367,7 @@ _Last updated: 2026-06-26 03:36 UTC_
 | 141 | Dominique Canty | 961 |
 | 142 | Armintie Herrington | 960 |
 | 143 | Janell Burse | 944 |
-| 144 | **Jessica Shepard** 🔴 +12 | 939 |
+| 144 | **Jessica Shepard** 🔴 +13 | 940 |
 | 145 | Merlakia Jones | 927 |
 | 146 | Satou Sabally | 926 |
 | 147 | Angel Reese | 923 |
@@ -596,9 +596,9 @@ _Last updated: 2026-06-26 03:36 UTC_
 | 165 | Allison Feaster | 406 |
 | 166 | Rita Williams | 403 |
 | 167 | Kia Nurse | 402 |
+| 168 | **Jessica Shepard** 🔴 +4 | 399 |
 | 168 | Marissa Coleman | 399 |
-| 169 | Aliyah Boston | 398 |
-| 169 | **Jessica Shepard** 🔴 +3 | 398 |
+| 170 | Aliyah Boston | 398 |
 | 171 | Stacey Dales | 395 |
 | 172 | Sugar Rodgers | 393 |
 | 173 | Shameka Christon | 389 |
@@ -1090,7 +1090,7 @@ _Last updated: 2026-06-26 03:36 UTC_
 | 44 | Rachel Banham | 384 |
 | 45 | Briann January | 381 |
 | 46 | Jasmine Thomas | 376 |
-| 47 | **Jonquel Jones** 🔴 +2 | 373 |
+| 47 | **Jonquel Jones** 🔴 +3 | 374 |
 | 48 | Allison Feaster | 372 |
 | 48 | Betty Lennox | 372 |
 | 50 | Epiphanny Prince | 368 |
@@ -1496,7 +1496,7 @@ _Last updated: 2026-06-26 03:36 UTC_
 | 40 | DeWanna Bonner | 912 |
 | 41 | Shavonte Zellous | 907 |
 | 42 | **Alysha Clark** 🔴 +2 | 898 |
-| 43 | **Jonquel Jones** 🔴 | 890 |
+| 43 | **Jonquel Jones** 🔴 +1 | 891 |
 | 44 | DeMya Walker | 882 |
 | 45 | Candice Dupree | 876 |
 | 46 | Murriel Page | 872 |
