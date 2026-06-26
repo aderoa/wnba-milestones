@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-26 03:03 UTC_
+_Last updated: 2026-06-26 03:04 UTC_
 
 ## Contents
 
@@ -72,7 +72,7 @@ _Last updated: 2026-06-26 03:03 UTC_
 | 51 | Plenette Pierson | 4,258 |
 | 52 | Monique Currie | 4,253 |
 | 53 | Courtney Williams | 4,238 |
-| 54 | **Jonquel Jones** 🔴 +11 | 4,233 |
+| 54 | **Jonquel Jones** 🔴 +13 | 4,235 |
 | 55 | Vickie Johnson | 4,230 |
 | 56 | Yolanda Griffith | 4,224 |
 | 57 | Rebekkah Brunson | 4,133 |
@@ -354,9 +354,9 @@ _Last updated: 2026-06-26 03:03 UTC_
 | 128 | Kelly Miller | 1,011 |
 | 128 | Noelle Quinn | 1,011 |
 | 130 | Tiffany Jackson | 1,002 |
+| 131 | **Sabrina Ionescu** 🔴 +2 | 1,000 |
 | 131 | Tianna Hawkins | 1,000 |
-| 132 | Damiris Dantas | 999 |
-| 132 | **Sabrina Ionescu** 🔴 +1 | 999 |
+| 133 | Damiris Dantas | 999 |
 | 134 | Marissa Coleman | 995 |
 | 135 | Kristen Rasmussen | 993 |
 | 136 | Skylar Diggins | 991 |
@@ -1373,7 +1373,7 @@ _Last updated: 2026-06-26 03:03 UTC_
 | 122 | Ariel Atkins | 456 |
 | 123 | Kia Vaughn | 454 |
 | 124 | Janeth Arcain | 453 |
-| 125 | **Betnijah Laney-Hamilton** 🔴 +1 | 445 |
+| 125 | **Betnijah Laney-Hamilton** 🔴 +2 | 446 |
 | 126 | Elena Baranova | 444 |
 | 126 | Jantel Lavender | 444 |
 | 128 | **Jackie Young** 🔴 +1 | 442 |
