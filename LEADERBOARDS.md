@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-26 02:53 UTC_
+_Last updated: 2026-06-26 02:54 UTC_
 
 ## Contents
 
@@ -1579,7 +1579,7 @@ _Last updated: 2026-06-26 02:53 UTC_
 | 123 | Janel McCarville | 597 |
 | 124 | Kamila Vodichkova | 596 |
 | 125 | Teresa Weatherspoon | 589 |
-| 126 | **Arike Ogunbowale** 🔴 +1 | 587 |
+| 126 | **Arike Ogunbowale** 🔴 +2 | 588 |
 | 127 | Emma Meesseman | 585 |
 | 128 | Chiney Ogwumike | 580 |
 | 128 | Hamchetou Maiga-Ba | 580 |
