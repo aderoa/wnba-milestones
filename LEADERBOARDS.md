@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-26 03:24 UTC_
+_Last updated: 2026-06-26 03:25 UTC_
 
 ## Contents
 
@@ -238,7 +238,7 @@ _Last updated: 2026-06-26 03:24 UTC_
 | 12 | Alyssa Thomas | 2,817 |
 | 13 | **Jonquel Jones** 🔴 +4 | 2,667 |
 | 14 | Sancho Lyttle | 2,596 |
-| 15 | **A'ja Wilson** 🔴 +5 | 2,579 |
+| 15 | **A'ja Wilson** 🔴 +6 | 2,580 |
 | 16 | DeLisha Milton-Jones | 2,574 |
 | 17 | Breanna Stewart | 2,560 |
 | 18 | Brittney Griner | 2,556 |
@@ -1269,7 +1269,7 @@ _Last updated: 2026-06-26 03:24 UTC_
 | 18 | Cappie Pondexter | 945 |
 | 19 | Katie Smith | 935 |
 | 20 | Shannon Johnson | 934 |
-| 21 | **Chelsea Gray** 🔴 +2 | 900 |
+| 21 | **Chelsea Gray** 🔴 +3 | 901 |
 | 22 | Taj McWilliams-Franklin | 898 |
 | 23 | Skylar Diggins | 893 |
 | 24 | Candice Dupree | 869 |
@@ -1567,7 +1567,7 @@ _Last updated: 2026-06-26 03:24 UTC_
 | 111 | Deanna Nolan | 628 |
 | 112 | Teaira McCowan | 627 |
 | 113 | Brionna Jones | 625 |
-| 114 | **Chelsea Gray** 🔴 +2 | 623 |
+| 114 | **Chelsea Gray** 🔴 +3 | 624 |
 | 115 | Courtney Paris | 617 |
 | 116 | Coco Miller | 615 |
 | 117 | Brooke Wyckoff | 614 |
