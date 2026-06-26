@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-26 00:27 UTC_
+_Last updated: 2026-06-26 00:28 UTC_
 
 ## Contents
 
@@ -481,7 +481,7 @@ _Last updated: 2026-06-26 00:27 UTC_
 | 50 | Deanna Nolan | 930 |
 | 51 | Kelly Miller | 927 |
 | 52 | DeLisha Milton-Jones | 921 |
-| 53 | **Nneka Ogwumike** 🔴 +2 | 919 |
+| 53 | **Nneka Ogwumike** 🔴 +3 | 920 |
 | 54 | Arike Ogunbowale | 918 |
 | 55 | Angel McCoughtry | 915 |
 | 56 | Layshia Clarendon | 911 |
@@ -884,8 +884,8 @@ _Last updated: 2026-06-26 00:27 UTC_
 | 43 | Breanna Stewart | 421 |
 | 44 | Katie Smith | 408 |
 | 45 | Cappie Pondexter | 405 |
+| 46 | **Dearica Hamby** 🔴 +3 | 401 |
 | 46 | Nicole Powell | 401 |
-| 47 | **Dearica Hamby** 🔴 +2 | 400 |
 | 48 | Jasmine Thomas | 394 |
 | 49 | Danielle Robinson | 389 |
 | 50 | Deanna Nolan | 388 |
@@ -1356,8 +1356,8 @@ _Last updated: 2026-06-26 00:27 UTC_
 | 104 | Wendy Palmer | 517 |
 | 106 | Tully Bevilaqua | 514 |
 | 107 | Jia Perkins | 513 |
-| 108 | Jordin Canada | 512 |
-| 108 | **Marina Mabrey** 🔴 +2 | 512 |
+| 107 | **Marina Mabrey** 🔴 +3 | 513 |
+| 109 | Jordin Canada | 512 |
 | 110 | Tamera Young | 501 |
 | 111 | Nikki Teasley | 493 |
 | 111 | Tari Phillips | 493 |
@@ -1593,8 +1593,8 @@ _Last updated: 2026-06-26 00:27 UTC_
 | 137 | Jessica Breland | 562 |
 | 138 | Dawn Staley | 551 |
 | 139 | Glory Johnson | 550 |
+| 139 | **Marina Mabrey** 🔴 +2 | 550 |
 | 139 | Tierra Ruffin-Pratt | 550 |
-| 141 | **Marina Mabrey** 🔴 +1 | 549 |
 | 142 | Erlana Larkins | 546 |
 | 143 | Jayne Appel Marinelli | 543 |
 | 143 | Renee Montgomery | 543 |
