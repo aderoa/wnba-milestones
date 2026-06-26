@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-26 03:20 UTC_
+_Last updated: 2026-06-26 03:21 UTC_
 
 ## Contents
 
@@ -598,7 +598,7 @@ _Last updated: 2026-06-26 03:20 UTC_
 | 167 | Kia Nurse | 402 |
 | 168 | Marissa Coleman | 399 |
 | 169 | Aliyah Boston | 398 |
-| 170 | **Jessica Shepard** 🔴 +2 | 397 |
+| 169 | **Jessica Shepard** 🔴 +3 | 398 |
 | 171 | Stacey Dales | 395 |
 | 172 | Sugar Rodgers | 393 |
 | 173 | Shameka Christon | 389 |
@@ -873,8 +873,8 @@ _Last updated: 2026-06-26 03:20 UTC_
 | 32 | Tina Thompson | 452 |
 | 33 | Maya Moore | 449 |
 | 34 | Natasha Howard | 447 |
-| 35 | **Chelsea Gray** 🔴 | 445 |
-| 35 | **Jewell Loyd** 🔴 | 445 |
+| 35 | **Chelsea Gray** 🔴 +1 | 446 |
+| 36 | **Jewell Loyd** 🔴 | 445 |
 | 37 | Sheri Sam | 438 |
 | 38 | Camille Smith | 437 |
 | 39 | Kayla McBride | 436 |
@@ -1232,7 +1232,7 @@ _Last updated: 2026-06-26 03:20 UTC_
 | 186 | Gordana Grubin | 114 |
 | 186 | Rickea Jackson | 114 |
 | 186 | Sandy Brondello | 114 |
-| 189 | **Leonie Fiebich** 🔴 +2 | 112 |
+| 189 | **Leonie Fiebich** 🔴 +3 | 113 |
 | 190 | Shoni Schimmel | 111 |
 | 191 | Emma Meesseman | 109 |
 | 191 | Scholanda Dorrell | 109 |
@@ -1269,7 +1269,7 @@ _Last updated: 2026-06-26 03:20 UTC_
 | 18 | Cappie Pondexter | 945 |
 | 19 | Katie Smith | 935 |
 | 20 | Shannon Johnson | 934 |
-| 21 | **Chelsea Gray** 🔴 +1 | 899 |
+| 21 | **Chelsea Gray** 🔴 +2 | 900 |
 | 22 | Taj McWilliams-Franklin | 898 |
 | 23 | Skylar Diggins | 893 |
 | 24 | Candice Dupree | 869 |
@@ -1375,8 +1375,8 @@ _Last updated: 2026-06-26 03:20 UTC_
 | 124 | Janeth Arcain | 453 |
 | 125 | **Betnijah Laney-Hamilton** 🔴 +2 | 446 |
 | 126 | Elena Baranova | 444 |
+| 126 | **Jackie Young** 🔴 +3 | 444 |
 | 126 | Jantel Lavender | 444 |
-| 128 | **Jackie Young** 🔴 +2 | 443 |
 | 129 | **Alysha Clark** 🔴 | 440 |
 | 129 | Ann Wauters | 440 |
 | 129 | **Cheyenne Parker-Tyus** 🔴 | 440 |
