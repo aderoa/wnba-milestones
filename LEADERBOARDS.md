@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-26 04:01 UTC_
+_Last updated: 2026-06-26 04:02 UTC_
 
 ## Contents
 
@@ -37,7 +37,7 @@ _Last updated: 2026-06-26 04:01 UTC_
 | 16 | Brittney Griner | 6,031 |
 | 17 | Lauren Jackson | 6,005 |
 | 17 | Seimone Augustus | 6,005 |
-| 19 | **A'ja Wilson** 🔴 +30 | 5,972 |
+| 19 | **A'ja Wilson** 🔴 +32 | 5,974 |
 | 20 | Becky Hammon | 5,816 |
 | 21 | Angel McCoughtry | 5,797 |
 | 22 | Skylar Diggins | 5,626 |
@@ -345,7 +345,7 @@ _Last updated: 2026-06-26 04:01 UTC_
 | 119 | Svetlana Abrosimova | 1,078 |
 | 120 | Isabelle Harrison | 1,055 |
 | 121 | Le'coe Willingham | 1,054 |
-| 122 | **Jackie Young** 🔴 +6 | 1,050 |
+| 122 | **Jackie Young** 🔴 +8 | 1,052 |
 | 123 | Nicole Ohlde | 1,040 |
 | 124 | Tamecka Dixon | 1,035 |
 | 125 | Kamila Vodichkova | 1,031 |
@@ -463,7 +463,7 @@ _Last updated: 2026-06-26 04:01 UTC_
 | 32 | **Jewell Loyd** 🔴 +2 | 1,146 |
 | 33 | Renee Montgomery | 1,140 |
 | 34 | Swin Cash | 1,131 |
-| 35 | **Jackie Young** 🔴 +5 | 1,092 |
+| 35 | **Jackie Young** 🔴 +6 | 1,093 |
 | 36 | Lindsey Harding | 1,090 |
 | 37 | Sabrina Ionescu | 1,079 |
 | 38 | Katie Douglas | 1,069 |
@@ -1269,7 +1269,7 @@ _Last updated: 2026-06-26 04:01 UTC_
 | 18 | Cappie Pondexter | 945 |
 | 19 | Katie Smith | 935 |
 | 20 | Shannon Johnson | 934 |
-| 21 | **Chelsea Gray** 🔴 +4 | 902 |
+| 21 | **Chelsea Gray** 🔴 +5 | 903 |
 | 22 | Taj McWilliams-Franklin | 898 |
 | 23 | Skylar Diggins | 893 |
 | 24 | Candice Dupree | 869 |
