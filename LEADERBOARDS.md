@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-26 00:43 UTC_
+_Last updated: 2026-06-26 00:44 UTC_
 
 ## Contents
 
@@ -68,8 +68,8 @@ _Last updated: 2026-06-26 00:43 UTC_
 | 47 | Allisha Gray | 4,339 |
 | 48 | Sophia Young-Malcolm | 4,300 |
 | 49 | Kahleah Copper | 4,283 |
-| 50 | **Dearica Hamby** 🔴 +15 | 4,258 |
-| 50 | Plenette Pierson | 4,258 |
+| 50 | **Dearica Hamby** 🔴 +17 | 4,260 |
+| 51 | Plenette Pierson | 4,258 |
 | 52 | Monique Currie | 4,253 |
 | 53 | Courtney Williams | 4,238 |
 | 54 | Vickie Johnson | 4,230 |
@@ -157,7 +157,7 @@ _Last updated: 2026-06-26 00:43 UTC_
 | 136 | Azurá Stevens | 2,259 |
 | 137 | Allison Feaster | 2,258 |
 | 138 | Shekinna Stricklen | 2,245 |
-| 139 | **Kia Nurse** 🔴 +8 | 2,239 |
+| 139 | **Kia Nurse** 🔴 +9 | 2,240 |
 | 140 | Jordin Canada | 2,237 |
 | 140 | Kara Braxton | 2,237 |
 | 140 | Matee Ajavon | 2,237 |
@@ -195,7 +195,7 @@ _Last updated: 2026-06-26 00:43 UTC_
 | 174 | Ebony Hoffman | 1,909 |
 | 175 | Candice Wiggins | 1,901 |
 | 176 | Natisha Hiedeman | 1,858 |
-| 177 | **Isabelle Harrison** 🔴 +7 | 1,839 |
+| 177 | **Isabelle Harrison** 🔴 +9 | 1,841 |
 | 178 | Damiris Dantas | 1,830 |
 | 179 | Tianna Hawkins | 1,825 |
 | 180 | Noelle Quinn | 1,824 |
@@ -590,7 +590,7 @@ _Last updated: 2026-06-26 00:43 UTC_
 | 159 | Candice Wiggins | 417 |
 | 160 | Aari McDonald | 415 |
 | 161 | Erin Thorn | 414 |
-| 162 | **Julie Allemand** 🔴 +12 | 413 |
+| 161 | **Julie Allemand** 🔴 +13 | 414 |
 | 163 | Jamierra Faulkner | 410 |
 | 163 | Murriel Page | 410 |
 | 165 | Allison Feaster | 406 |
@@ -1517,7 +1517,7 @@ _Last updated: 2026-06-26 00:43 UTC_
 | 61 | Skylar Diggins | 812 |
 | 62 | Nykesha Sales | 796 |
 | 63 | Ebony Hoffman | 791 |
-| 64 | **Erica Wheeler** 🔴 +2 | 789 |
+| 64 | **Erica Wheeler** 🔴 +3 | 790 |
 | 65 | Sue Bird | 775 |
 | 66 | Sheri Sam | 766 |
 | 67 | Kia Vaughn | 755 |
