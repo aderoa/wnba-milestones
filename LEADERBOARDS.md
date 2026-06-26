@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-26 00:19 UTC_
+_Last updated: 2026-06-26 00:20 UTC_
 
 ## Contents
 
@@ -111,7 +111,7 @@ _Last updated: 2026-06-26 00:19 UTC_
 | 90 | Wendy Palmer | 3,135 |
 | 91 | Shavonte Zellous | 3,103 |
 | 92 | Briann January | 3,082 |
-| 93 | **Marina Mabrey** 🔴 +27 | 3,079 |
+| 92 | **Marina Mabrey** 🔴 +30 | 3,082 |
 | 94 | Erika de Souza | 3,046 |
 | 95 | Sabrina Ionescu | 3,041 |
 | 96 | Shameka Christon | 3,039 |
@@ -381,8 +381,8 @@ _Last updated: 2026-06-26 00:19 UTC_
 | 155 | Shameka Christon | 867 |
 | 156 | Alanna Smith | 864 |
 | 157 | Krystal Thomas | 862 |
+| 158 | **Marina Mabrey** 🔴 +5 | 854 |
 | 158 | Nia Coffey | 854 |
-| 159 | **Marina Mabrey** 🔴 +4 | 853 |
 | 160 | Leilani Mitchell | 845 |
 | 161 | Essence Carson | 833 |
 | 162 | Kristi Toliver | 829 |
@@ -1508,10 +1508,10 @@ _Last updated: 2026-06-26 00:19 UTC_
 | 52 | Natalie Williams | 847 |
 | 52 | Tamera Young | 847 |
 | 54 | Candace Parker | 834 |
+| 55 | **Dearica Hamby** 🔴 +3 | 832 |
 | 55 | Penny Taylor | 832 |
-| 56 | **Dearica Hamby** 🔴 +2 | 831 |
-| 56 | Dominique Canty | 831 |
-| 56 | Wendy Palmer | 831 |
+| 57 | Dominique Canty | 831 |
+| 57 | Wendy Palmer | 831 |
 | 59 | Shannon Johnson | 813 |
 | 59 | Tully Bevilaqua | 813 |
 | 61 | Skylar Diggins | 812 |
