@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-26 03:07 UTC_
+_Last updated: 2026-06-26 03:08 UTC_
 
 ## Contents
 
@@ -1023,8 +1023,8 @@ _Last updated: 2026-06-26 03:07 UTC_
 | 181 | Tiffany Jackson | 185 |
 | 183 | Erin Perperoglou | 184 |
 | 184 | Rebecca Allen | 183 |
-| 185 | Erin Phillips | 182 |
-| 185 | **Sabrina Ionescu** 🔴 | 182 |
+| 184 | **Sabrina Ionescu** 🔴 +1 | 183 |
+| 186 | Erin Phillips | 182 |
 | 187 | Nakia Sanford | 181 |
 | 188 | Diamond DeShields | 180 |
 | 188 | Isabelle Harrison | 180 |
@@ -1326,7 +1326,7 @@ _Last updated: 2026-06-26 03:07 UTC_
 | 75 | Lindsey Harding | 600 |
 | 75 | Tamika Whitmore | 600 |
 | 77 | Kelly Miller | 596 |
-| 78 | **Stefanie Dolson** 🔴 +1 | 590 |
+| 78 | **Stefanie Dolson** 🔴 +2 | 591 |
 | 79 | Brittney Sykes | 579 |
 | 80 | Helen Darling | 575 |
 | 80 | Nykesha Sales | 575 |
