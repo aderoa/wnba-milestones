@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-26 02:05 UTC_
+_Last updated: 2026-06-26 02:06 UTC_
 
 ## Contents
 
@@ -59,7 +59,7 @@ _Last updated: 2026-06-26 02:05 UTC_
 | 38 | **Arike Ogunbowale** 🔴 | 4,612 |
 | 39 | Penny Taylor | 4,595 |
 | 40 | Natasha Howard | 4,528 |
-| 41 | **Chelsea Gray** 🔴 | 4,506 |
+| 41 | **Chelsea Gray** 🔴 +3 | 4,509 |
 | 42 | Kristi Toliver | 4,474 |
 | 43 | Crystal Langhorne | 4,433 |
 | 43 | Jia Perkins | 4,433 |
@@ -73,8 +73,8 @@ _Last updated: 2026-06-26 02:05 UTC_
 | 52 | Monique Currie | 4,253 |
 | 53 | Courtney Williams | 4,238 |
 | 54 | Vickie Johnson | 4,230 |
-| 55 | Yolanda Griffith | 4,224 |
-| 56 | **Jonquel Jones** 🔴 | 4,222 |
+| 55 | **Jonquel Jones** 🔴 +5 | 4,227 |
+| 56 | Yolanda Griffith | 4,224 |
 | 57 | Rebekkah Brunson | 4,133 |
 | 58 | Asjha Jones | 3,986 |
 | 59 | Deanna Nolan | 3,971 |
@@ -335,7 +335,7 @@ _Last updated: 2026-06-26 02:05 UTC_
 | 109 | Andrea Stinson | 1,127 |
 | 109 | Tamika Raymond | 1,127 |
 | 111 | Adrienne Goodson | 1,126 |
-| 112 | **NaLyssa Smith** 🔴 | 1,115 |
+| 112 | **NaLyssa Smith** 🔴 +1 | 1,116 |
 | 113 | Deanna Nolan | 1,112 |
 | 113 | Natasha Cloud | 1,112 |
 | 115 | Aliyah Boston | 1,110 |
@@ -464,7 +464,7 @@ _Last updated: 2026-06-26 02:05 UTC_
 | 33 | Renee Montgomery | 1,140 |
 | 34 | Swin Cash | 1,131 |
 | 35 | Lindsey Harding | 1,090 |
-| 36 | **Jackie Young** 🔴 | 1,087 |
+| 36 | **Jackie Young** 🔴 +1 | 1,088 |
 | 37 | **Sabrina Ionescu** 🔴 +1 | 1,075 |
 | 38 | Katie Douglas | 1,069 |
 | 39 | Alana Beard | 1,061 |
@@ -1077,8 +1077,8 @@ _Last updated: 2026-06-26 02:05 UTC_
 | 31 | Lauren Jackson | 436 |
 | 32 | Skylar Diggins | 435 |
 | 33 | Shameka Christon | 434 |
-| 34 | **Chelsea Gray** 🔴 | 425 |
-| 34 | Crystal Robinson | 425 |
+| 34 | **Chelsea Gray** 🔴 +1 | 426 |
+| 35 | Crystal Robinson | 425 |
 | 36 | Mwadi Mabika | 415 |
 | 37 | Penny Taylor | 407 |
 | 37 | Riquna Williams | 407 |
@@ -1092,7 +1092,7 @@ _Last updated: 2026-06-26 02:05 UTC_
 | 46 | Jasmine Thomas | 376 |
 | 47 | Allison Feaster | 372 |
 | 47 | Betty Lennox | 372 |
-| 49 | **Jonquel Jones** 🔴 | 371 |
+| 47 | **Jonquel Jones** 🔴 +1 | 372 |
 | 50 | Epiphanny Prince | 368 |
 | 51 | Kia Nurse | 366 |
 | 52 | Kahleah Copper | 355 |
