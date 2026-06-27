@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-27T02:23:00+00:00",
+    "text": "Kiah Stokes passed DeLisha Milton-Jones for #26 all-time in blocks (career 340) \u2014 up from #27 entering today \u2014 (2:20 - 1st \u2014 ATL @ GS)",
+    "kind": "rank_pass",
+    "player": "Kiah Stokes",
+    "stat": "blocks",
+    "rank": 26,
+    "passed_players": [
+      "DeLisha Milton-Jones"
+    ],
+    "new_total": 340
+  },
+  {
     "ts": "2026-06-27T01:30:00+00:00",
     "text": "Kennedy Burke passed Lexie Hull and Tonya Edwards for #177 all-time in three-pointers (career 119) \u2014 up from #180 entering today \u2014 (3:23 - 4th \u2014 WSH @ CON)",
     "kind": "rank_pass",
@@ -2977,18 +2989,5 @@
       "Charde Houston"
     ],
     "new_total": 332
-  },
-  {
-    "ts": "2026-06-07T01:25:00+00:00",
-    "text": "Satou Sabally passed Sami Whitcomb and Sophia Witherspoon for #146 all-time in points (career 2,212) \u2014 up from #148 entering today \u2014 (4:39 - 3rd \u2014 IND @ NY)",
-    "kind": "rank_pass",
-    "player": "Satou Sabally",
-    "stat": "points",
-    "rank": 146,
-    "passed_players": [
-      "Sami Whitcomb",
-      "Sophia Witherspoon"
-    ],
-    "new_total": 2212
   }
 ]

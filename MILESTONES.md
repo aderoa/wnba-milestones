@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-27 02:23 UTC
+
+- **Kiah Stokes** passed **DeLisha Milton-Jones** for **#26** all-time in blocks (career 340) — up from #27 entering today — _2:20 - 1st — ATL @ GS_
+
 ## 2026-06-27 01:30 UTC
 
 - **Kennedy Burke** passed **Lexie Hull** and **Tonya Edwards** for **#177** all-time in three-pointers (career 119) — up from #180 entering today — _3:23 - 4th — WSH @ CON_

@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-27 02:22 UTC_
+_Last updated: 2026-06-27 02:23 UTC_
 
 ## Contents
 
@@ -503,7 +503,7 @@ _Last updated: 2026-06-27 02:22 UTC_
 | 72 | Mwadi Mabika | 774 |
 | 73 | Marina Mabrey | 772 |
 | 74 | Sheri Sam | 745 |
-| 75 | **Allisha Gray** 🔴 | 743 |
+| 75 | **Allisha Gray** 🔴 +1 | 744 |
 | 76 | Monique Currie | 740 |
 | 77 | Elaine Powell | 728 |
 | 78 | Dearica Hamby | 718 |
@@ -547,7 +547,7 @@ _Last updated: 2026-06-27 02:22 UTC_
 | 116 | Janel McCarville | 551 |
 | 116 | Svetlana Abrosimova | 551 |
 | 118 | Michele Timms | 549 |
-| 119 | **Veronica Burton** 🔴 +1 | 538 |
+| 119 | **Veronica Burton** 🔴 +2 | 539 |
 | 120 | Marie Ferdinand-Harris | 528 |
 | 121 | Margo Dydek | 524 |
 | 122 | Myisha Hines-Allen | 520 |
@@ -659,8 +659,8 @@ _Last updated: 2026-06-27 02:22 UTC_
 | 23 | DeWanna Bonner | 353 |
 | 24 | Diana Taurasi | 349 |
 | 24 | Elena Delle Donne | 349 |
-| 26 | DeLisha Milton-Jones | 339 |
-| 26 | **Kiah Stokes** 🔴 +3 | 339 |
+| 26 | **Kiah Stokes** 🔴 +4 | 340 |
+| 27 | DeLisha Milton-Jones | 339 |
 | 28 | Yolanda Griffith | 323 |
 | 29 | Elena Baranova | 320 |
 | 30 | Candice Dupree | 316 |
