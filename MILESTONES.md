@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-27 20:19 UTC
+
+- **Kia Nurse** passed **Lindsey Harding** for **#184** all-time in fouls (career 487) — up from #186 entering today — _17.1 - 4th — PHX @ TOR_
+
 ## 2026-06-27 19:53 UTC
 
 - **DeWanna Bonner** reached **3,300** career rebounds (now 3,300) — _4:28 - 4th — PHX @ TOR_

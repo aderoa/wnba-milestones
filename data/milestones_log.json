@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-27T20:19:00+00:00",
+    "text": "Kia Nurse passed Lindsey Harding for #184 all-time in fouls (career 487) \u2014 up from #186 entering today \u2014 (17.1 - 4th \u2014 PHX @ TOR)",
+    "kind": "rank_pass",
+    "player": "Kia Nurse",
+    "stat": "fouls",
+    "rank": 184,
+    "passed_players": [
+      "Lindsey Harding"
+    ],
+    "new_total": 487
+  },
+  {
     "ts": "2026-06-27T19:53:00+00:00",
     "text": "DeWanna Bonner reached 3,300 career rebounds (now 3,300) \u2014 (4:28 - 4th \u2014 PHX @ TOR)",
     "kind": "round",
@@ -2996,18 +3008,5 @@
       "Kristin Folkl"
     ],
     "new_total": 86
-  },
-  {
-    "ts": "2026-06-10T00:36:00+00:00",
-    "text": "Arike Ogunbowale passed A'ja Wilson and Janeth Arcain for #72 all-time in steals (career 347) \u2014 up from #74 entering today \u2014 (4:43 - 2nd \u2014 DAL @ MIN)",
-    "kind": "rank_pass",
-    "player": "Arike Ogunbowale",
-    "stat": "steals",
-    "rank": 72,
-    "passed_players": [
-      "A'ja Wilson",
-      "Janeth Arcain"
-    ],
-    "new_total": 347
   }
 ]
