@@ -1,5 +1,14 @@
 [
   {
+    "ts": "2026-06-27T18:07:00+00:00",
+    "text": "Julie Allemand reached 300 career rebounds (now 300) \u2014 (7:30 - 1st \u2014 PHX @ TOR)",
+    "kind": "round",
+    "player": "Julie Allemand",
+    "stat": "rebounds",
+    "value": 300,
+    "new_total": 300
+  },
+  {
     "ts": "2026-06-27T12:06:00+00:00",
     "text": "Michaela Onyenwere reached 1,400 career points (now 1,400) \u2014 (Final \u2014 WSH @ CON)",
     "kind": "round",
@@ -3001,14 +3010,5 @@
       "Shenise Johnson"
     ],
     "new_total": 144
-  },
-  {
-    "ts": "2026-06-09T01:08:00+00:00",
-    "text": "Lexie Hull reached 800 career points (now 800) \u2014 (5:35 - 4th \u2014 IND @ WSH)",
-    "kind": "round",
-    "player": "Lexie Hull",
-    "stat": "points",
-    "value": 800,
-    "new_total": 800
   }
 ]

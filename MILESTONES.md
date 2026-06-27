@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-27 18:07 UTC
+
+- **Julie Allemand** reached **300** career rebounds (now 300) — _7:30 - 1st — PHX @ TOR_
+
 ## 2026-06-27 12:06 UTC
 
 - **Michaela Onyenwere** reached **1,400** career points (now 1,400) — _Final — WSH @ CON_
