@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-27 19:16 UTC
+
+- **Julie Allemand** passed **Elena Delle Donne**, **Kristi Harrower**, **Nikki McCray**, and **Ruth Riley** for **#145** all-time in assists (career 451) — up from #151 entering today — _8:33 - 3rd — PHX @ TOR_
+
 ## 2026-06-27 18:56 UTC
 
 - **Julie Allemand** passed **DeMya Walker** for **#149** all-time in assists (career 447) — up from #151 entering today — _1:59 - 2nd — PHX @ TOR_

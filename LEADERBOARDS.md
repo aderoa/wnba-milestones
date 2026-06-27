@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-27 19:15 UTC_
+_Last updated: 2026-06-27 19:16 UTC_
 
 ## Contents
 
@@ -560,7 +560,7 @@ _Last updated: 2026-06-27 19:15 UTC_
 | 127 | Chasity Melvin | 508 |
 | 129 | Anna DeForge | 503 |
 | 129 | Coco Miller | 503 |
-| 131 | **Kahleah Copper** 🔴 | 495 |
+| 131 | **Kahleah Copper** 🔴 +1 | 496 |
 | 132 | Crystal Robinson | 488 |
 | 132 | Tiffany Mitchell | 488 |
 | 134 | Rebekkah Brunson | 486 |
@@ -573,12 +573,12 @@ _Last updated: 2026-06-27 19:15 UTC_
 | 141 | Tyasha Harris | 460 |
 | 142 | Sug Sutton | 456 |
 | 143 | Sydney Colson | 454 |
+| 144 | **Julie Allemand** 🔴 +7 | 451 |
 | 144 | Yolanda Griffith | 451 |
-| 145 | Elena Delle Donne | 450 |
-| 145 | Kristi Harrower | 450 |
-| 145 | Nikki McCray | 450 |
-| 148 | **Julie Allemand** 🔴 +5 | 449 |
-| 148 | Ruth Riley | 449 |
+| 146 | Elena Delle Donne | 450 |
+| 146 | Kristi Harrower | 450 |
+| 146 | Nikki McCray | 450 |
+| 149 | Ruth Riley | 449 |
 | 150 | DeMya Walker | 446 |
 | 151 | Essence Carson | 445 |
 | 152 | Michelle Snow | 437 |
