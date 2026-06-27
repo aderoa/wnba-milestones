@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-27T19:19:00+00:00",
+    "text": "Julie Allemand passed Yolanda Griffith for #144 all-time in assists (career 453) \u2014 up from #151 entering today \u2014 (6:28 - 3rd \u2014 PHX @ TOR)",
+    "kind": "rank_pass",
+    "player": "Julie Allemand",
+    "stat": "assists",
+    "rank": 144,
+    "passed_players": [
+      "Yolanda Griffith"
+    ],
+    "new_total": 453
+  },
+  {
     "ts": "2026-06-27T19:16:00+00:00",
     "text": "Julie Allemand passed Elena Delle Donne, Kristi Harrower, Nikki McCray, and Ruth Riley for #145 all-time in assists (career 451) \u2014 up from #151 entering today \u2014 (8:33 - 3rd \u2014 PHX @ TOR)",
     "kind": "rank_pass",
@@ -2999,17 +3011,5 @@
     "stat": "fouls",
     "value": 100,
     "new_total": 100
-  },
-  {
-    "ts": "2026-06-09T03:33:00+00:00",
-    "text": "Jackie Young passed Satou Sabally for #195 all-time in blocks (career 69) \u2014 (2:05 - 3rd \u2014 SEA @ LV)",
-    "kind": "rank_pass",
-    "player": "Jackie Young",
-    "stat": "blocks",
-    "rank": 195,
-    "passed_players": [
-      "Satou Sabally"
-    ],
-    "new_total": 69
   }
 ]
