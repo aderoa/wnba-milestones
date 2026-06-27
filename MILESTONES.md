@@ -2,6 +2,61 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-27 12:06 UTC
+
+- **Michaela Onyenwere** reached **1,400** career points (now 1,400) — _Final — WSH @ CON_
+- **Kiki Iriafen** reached **800** career points (now 802) — _Final — WSH @ CON_
+- **Shakira Austin** passed **Essence Carson** for **#162** all-time in rebounds (career 844) — up from #163 entering today — _Final — WSH @ CON_
+- **Brittney Griner** passed **Bria Hartley** for **#89** all-time in assists (career 662) — up from #90 entering today — _Final — WSH @ CON_
+- **Brittney Griner** passed **Tangela Smith** for **#40** all-time in turnovers (career 752) — _Final — WSH @ CON_
+- **Brittney Griner** reached **1,000** career fouls (now 1,000) — _Final — WSH @ CON_
+- **Brittney Griner** passed **Lindsay Whalen** and **Rebekkah Brunson** for **#25** all-time in fouls (career 1,000) — up from #27 entering today — _Final — WSH @ CON_
+- **Olivia Nelson-Ododa** passed **Monique Billings**, **Devereaux Peters**, **Nicky Anosike**, and **Seimone Augustus** for **#86** all-time in blocks (career 136) — up from #89 entering today — _Final — WSH @ CON_
+- **Kennedy Burke** passed **Shannon Johnson** and **Veronica Burton** for **#196** all-time in blocks (career 68) — up from #198 entering today — _Final — WSH @ CON_
+- **Kennedy Burke** passed **Michele Timms**, **Tamecka Dixon**, and **Lexie Hull** for **#173** all-time in three-pointers (career 128) — up from #175 entering today — _Final — WSH @ CON_
+- **Bridget Carleton** reached **1,500** career points (now 1,505) — _Final — POR @ CHI_
+- **Bridget Carleton** passed **Jennifer Lacy** for **#200** all-time in points (career 1,505) — new to top 200 today — _Final — POR @ CHI_
+- **Bridget Carleton** passed **Kamila Vodichkova** for **#200** all-time in steals (career 174) — _Final — POR @ CHI_
+- **Bridget Carleton** passed **Kedra Holland-Corn** for **#70** all-time in three-pointers (career 308) — up from #71 entering today — _Final — POR @ CHI_
+- **Bridget Carleton** reached **400** career fouls (now 400) — _Final — POR @ CHI_
+- **Emily Engstler** passed **Brooke Wyckoff** and **Cathrine Kraayeveld** for **#93** all-time in blocks (career 130) — up from #95 entering today — _Final — POR @ CHI_
+- **Azurá Stevens** passed **Alex Bentley** for **#132** all-time in points (career 2,355) — up from #133 entering today — _Final — POR @ CHI_
+- **Azurá Stevens** passed **Angel McCoughtry** for **#90** all-time in three-pointers (career 250) — up from #91 entering today — _Final — POR @ CHI_
+- **Azurá Stevens** passed **Nia Coffey** for **#179** all-time in fouls (career 497) — _Final — POR @ CHI_
+- **Kamilla Cardoso** passed **Layshia Clarendon**, **Brooke Wyckoff**, and **Coco Miller** for **#187** all-time in rebounds (career 758) — up from #190 entering today — _Final — POR @ CHI_
+- **Sydney Taylor** reached **200** career points (now 228) — _Final — POR @ CHI_
+- **Elizabeth Williams** passed **Becky Hammon** for **#75** all-time in fouls (career 734) — up from #76 entering today — _Final — POR @ CHI_
+- **Courtney Vandersloot** passed **Kara Braxton** for **#74** all-time in rebounds (career 1,389) — up from #75 entering today — _Final — POR @ CHI_
+- **Courtney Vandersloot** reached **2,900** career assists (now 2,901) — _Final — POR @ CHI_
+- **Courtney Vandersloot** passed **Mwadi Mabika** and **Tamika Whitmore** for **#35** all-time in fouls (career 942) — up from #36 entering today — _Final — POR @ CHI_
+- **Natasha Cloud** passed **Allie Quigley**, **Alysha Clark**, and **Tiffany Hayes** for **#145** all-time in blocks (career 91) — up from #147 entering today — _Final — POR @ CHI_
+- **Natasha Cloud** passed **Tamecka Dixon** for **#70** all-time in steals (career 356) — _Final — POR @ CHI_
+- **Natasha Cloud** passed **Sue Bird** for **#65** all-time in fouls (career 776) — up from #66 entering today — _Final — POR @ CHI_
+- **Rachel Banham** passed **Adrian Williams-Strong** and **Essence Carson** for **#175** all-time in fouls (career 498) — up from #177 entering today — _Final — POR @ CHI_
+- **Angel Reese** passed **Nicole Ohlde** and **Tamecka Dixon** for **#123** all-time in rebounds (career 1,047) — up from #124 entering today — _Final — ATL @ GS_
+- **Allisha Gray** reached **4,500** career points (now 4,505) — _Final — ATL @ GS_
+- **Allisha Gray** passed **Kelsey Plum** for **#42** all-time in points (career 4,505) — up from #43 entering today — _Final — ATL @ GS_
+- **Allisha Gray** passed **Kia Vaughn** and **Vickie Johnson** for **#69** all-time in fouls (career 756) — up from #70 entering today — _Final — ATL @ GS_
+- **Jordin Canada** passed **Alex Bentley** and **Azurá Stevens** for **#132** all-time in points (career 2,365) — up from #134 entering today — _Final — ATL @ GS_
+- **Jordin Canada** passed **Amanda Zahui B**, **Eva Nemcova**, **Crystal Dangerfield**, **Leonie Fiebich**, and **Ticha Penicheiro** for **#167** all-time in three-pointers (career 131) — up from #171 entering today — _Final — ATL @ GS_
+- **Jordin Canada** passed **Arike Ogunbowale** and **Maya Moore** for **#99** all-time in turnovers (career 531) — up from #100 entering today — _Final — ATL @ GS_
+- **Rhyne Howard** passed **Cheyenne Parker-Tyus** and **Tamera Young** for **#113** all-time in points (career 2,646) — up from #115 entering today — _Final — ATL @ GS_
+- **Rhyne Howard** reached **700** career rebounds (now 700) — _Final — ATL @ GS_
+- **Rhyne Howard** passed **Amanda Lassiter**, **Kamila Vodichkova**, **Sophia Young-Malcolm**, and **Tari Phillips** for **#114** all-time in blocks (career 112) — up from #116 entering today — _Final — ATL @ GS_
+- **Rhyne Howard** passed **Noelle Quinn**, **Elaine Powell**, **Loree Moore**, and **Ruthie Bolton** for **#121** all-time in steals (career 257) — up from #124 entering today — _Final — ATL @ GS_
+- **Madina Okot** reached **100** career points (now 105) — _Final — ATL @ GS_
+- **Gabby Williams** reached **1,900** career points (now 1,915) — _Final — ATL @ GS_
+- **Gabby Williams** passed **Ebony Hoffman** and **Candice Wiggins** for **#176** all-time in points (career 1,915) — up from #178 entering today — _Final — ATL @ GS_
+- **Gabby Williams** passed **Essence Carson** and **Shakira Austin** for **#162** all-time in rebounds (career 835) — up from #164 entering today — _Final — ATL @ GS_
+- **Gabby Williams** passed **Sancho Lyttle** and **Caitlin Clark** for **#103** all-time in assists (career 593) — up from #105 entering today — _Final — ATL @ GS_
+- **Gabby Williams** passed **Charlotte Smith** for **#173** all-time in turnovers (career 338) — up from #174 entering today — _Final — ATL @ GS_
+- **Kiah Stokes** passed **DeWanna Bonner** and **Ezi Magbegor** for **#22** all-time in blocks (career 359) — up from #24 entering today — _Final — ATL @ GS_
+- **Janelle Salaun** passed **Cecilia Zandalasini** and **Shoni Schimmel** for **#190** all-time in three-pointers (career 113) — up from #191 entering today — _Final — ATL @ GS_
+- **Tiffany Hayes** passed **Liz Cambage** and **Chelsea Gray** for **#92** all-time in rebounds (career 1,259) — up from #94 entering today — _Final — ATL @ GS_
+- **Tiffany Hayes** passed **Tamecka Dixon** for **#47** all-time in assists (career 962) — up from #48 entering today — _Final — ATL @ GS_
+- **Tiffany Hayes** passed **Natasha Cloud** for **#147** all-time in blocks (career 90) — up from #148 entering today — _Final — ATL @ GS_
+- **Tiffany Hayes** passed **Kahleah Copper** for **#70** all-time in turnovers (career 629) — up from #71 entering today — _Final — ATL @ GS_
+
 ## 2026-06-27 03:57 UTC
 
 - **Jordin Canada** passed **Azurá Stevens** and **Allison Feaster** for **#136** all-time in points (career 2,260) — up from #139 entering today — _4:52 - 4th — ATL @ GS_
