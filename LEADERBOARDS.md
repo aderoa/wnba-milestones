@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-27 01:10 UTC_
+_Last updated: 2026-06-27 01:11 UTC_
 
 ## Contents
 
@@ -312,8 +312,8 @@ _Last updated: 2026-06-27 01:10 UTC_
 | 86 | Jayne Appel Marinelli | 1,326 |
 | 87 | Betty Lennox | 1,296 |
 | 88 | Tari Phillips | 1,274 |
+| 89 | **Azurá Stevens** 🔴 +5 | 1,261 |
 | 89 | Janel McCarville | 1,261 |
-| 90 | **Azurá Stevens** 🔴 +4 | 1,260 |
 | 91 | Liz Cambage | 1,258 |
 | 92 | Tiffany Hayes | 1,244 |
 | 93 | Ezi Magbegor | 1,243 |
