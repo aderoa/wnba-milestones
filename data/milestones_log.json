@@ -1,5 +1,14 @@
 [
   {
+    "ts": "2026-06-27T18:45:00+00:00",
+    "text": "Isabelle Harrison reached 1,100 career rebounds (now 1,100) \u2014 (6:04 - 2nd \u2014 PHX @ TOR)",
+    "kind": "round",
+    "player": "Isabelle Harrison",
+    "stat": "rebounds",
+    "value": 1100,
+    "new_total": 1100
+  },
+  {
     "ts": "2026-06-27T18:34:00+00:00",
     "text": "Isabelle Harrison passed Rushia Brown and Shekinna Stricklen for #168 all-time in fouls (career 506) \u2014 (8:46 - 2nd \u2014 PHX @ TOR)",
     "kind": "rank_pass",
@@ -3001,17 +3010,5 @@
       "Diamond DeShields"
     ],
     "new_total": 148
-  },
-  {
-    "ts": "2026-06-09T02:34:00+00:00",
-    "text": "Stefanie Dolson passed Candice Dupree for #30 all-time in blocks (career 317) \u2014 up from #31 entering today \u2014 (8:54 - 2nd \u2014 SEA @ LV)",
-    "kind": "rank_pass",
-    "player": "Stefanie Dolson",
-    "stat": "blocks",
-    "rank": 30,
-    "passed_players": [
-      "Candice Dupree"
-    ],
-    "new_total": 317
   }
 ]
