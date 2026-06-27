@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-27T18:55:00+00:00",
+    "text": "DeWanna Bonner passed Leilani Mitchell for #30 all-time in assists (career 1,198) \u2014 up from #31 entering today \u2014 (2:45 - 2nd \u2014 PHX @ TOR)",
+    "kind": "rank_pass",
+    "player": "DeWanna Bonner",
+    "stat": "assists",
+    "rank": 30,
+    "passed_players": [
+      "Leilani Mitchell"
+    ],
+    "new_total": 1198
+  },
+  {
     "ts": "2026-06-27T18:45:00+00:00",
     "text": "Isabelle Harrison reached 1,100 career rebounds (now 1,100) \u2014 (6:04 - 2nd \u2014 PHX @ TOR)",
     "kind": "round",
@@ -2998,17 +3010,5 @@
       "Janeth Arcain"
     ],
     "new_total": 347
-  },
-  {
-    "ts": "2026-06-09T02:47:00+00:00",
-    "text": "Katie Lou Samuelson passed Diamond DeShields for #148 all-time in three-pointers (career 148) \u2014 up from #149 entering today \u2014 (4:17 - 2nd \u2014 SEA @ LV)",
-    "kind": "rank_pass",
-    "player": "Katie Lou Samuelson",
-    "stat": "three-pointers",
-    "rank": 148,
-    "passed_players": [
-      "Diamond DeShields"
-    ],
-    "new_total": 148
   }
 ]
