@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-27T18:10:00+00:00",
+    "text": "Kia Nurse passed Cathrine Kraayeveld for #185 all-time in fouls (career 485) \u2014 up from #186 entering today \u2014 (5:18 - 1st \u2014 PHX @ TOR)",
+    "kind": "rank_pass",
+    "player": "Kia Nurse",
+    "stat": "fouls",
+    "rank": 185,
+    "passed_players": [
+      "Cathrine Kraayeveld"
+    ],
+    "new_total": 485
+  },
+  {
     "ts": "2026-06-27T18:09:00+00:00",
     "text": "Kia Nurse passed Epiphanny Prince for #51 all-time in three-pointers (career 369) \u2014 up from #52 entering today \u2014 (5:54 - 1st \u2014 PHX @ TOR)",
     "kind": "rank_pass",
@@ -2998,17 +3010,5 @@
       "Tayler Hill"
     ],
     "new_total": 175
-  },
-  {
-    "ts": "2026-06-09T01:21:00+00:00",
-    "text": "Kelsey Mitchell passed Tiffany Mitchell for #121 all-time in fouls (career 605) \u2014 up from #122 entering today \u2014 (1:31 - 4th \u2014 IND @ WSH)",
-    "kind": "rank_pass",
-    "player": "Kelsey Mitchell",
-    "stat": "fouls",
-    "rank": 121,
-    "passed_players": [
-      "Tiffany Mitchell"
-    ],
-    "new_total": 605
   }
 ]
