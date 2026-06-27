@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-27 04:09 UTC_
+_Last updated: 2026-06-27 04:10 UTC_
 
 ## Contents
 
@@ -207,8 +207,8 @@ _Last updated: 2026-06-27 04:09 UTC_
 | 186 | Tully Bevilaqua | 1,763 |
 | 187 | Sandy Brondello | 1,759 |
 | 188 | Sophie Cunningham | 1,752 |
-| 189 | Sugar Rodgers | 1,733 |
-| 190 | **Gabby Williams** 🔴 +9 | 1,732 |
+| 189 | **Gabby Williams** 🔴 +13 | 1,736 |
+| 190 | Sugar Rodgers | 1,733 |
 | 191 | Moriah Jefferson | 1,722 |
 | 192 | Armintie Herrington | 1,696 |
 | 193 | Nikki Teasley | 1,690 |
@@ -547,7 +547,7 @@ _Last updated: 2026-06-27 04:09 UTC_
 | 116 | Janel McCarville | 551 |
 | 116 | Svetlana Abrosimova | 551 |
 | 118 | Michele Timms | 549 |
-| 119 | **Veronica Burton** 🔴 +2 | 539 |
+| 119 | **Veronica Burton** 🔴 +3 | 540 |
 | 120 | Marie Ferdinand-Harris | 528 |
 | 121 | Margo Dydek | 524 |
 | 122 | Myisha Hines-Allen | 520 |
@@ -931,8 +931,8 @@ _Last updated: 2026-06-27 04:09 UTC_
 | 89 | Plenette Pierson | 317 |
 | 89 | Temeka Johnson | 317 |
 | 91 | Alysha Clark | 316 |
-| 92 | Debbie Black | 315 |
-| 92 | **Gabby Williams** 🔴 +1 | 315 |
+| 91 | **Gabby Williams** 🔴 +2 | 316 |
+| 93 | Debbie Black | 315 |
 | 94 | Crystal Langhorne | 314 |
 | 95 | Ebony Hoffman | 308 |
 | 96 | Tamera Young | 305 |
@@ -1355,7 +1355,7 @@ _Last updated: 2026-06-27 04:09 UTC_
 | 102 | Sabrina Ionescu | 518 |
 | 104 | Shavonte Zellous | 517 |
 | 104 | Wendy Palmer | 517 |
-| 106 | **Jordin Canada** 🔴 +3 | 515 |
+| 106 | **Jordin Canada** 🔴 +4 | 516 |
 | 107 | Tully Bevilaqua | 514 |
 | 108 | Jia Perkins | 513 |
 | 109 | Marina Mabrey | 510 |
