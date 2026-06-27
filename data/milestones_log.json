@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-27T19:43:00+00:00",
+    "text": "Isabelle Harrison passed Theresa Plaisance for #129 all-time in blocks (career 103) \u2014 (8:33 - 4th \u2014 PHX @ TOR)",
+    "kind": "rank_pass",
+    "player": "Isabelle Harrison",
+    "stat": "blocks",
+    "rank": 129,
+    "passed_players": [
+      "Theresa Plaisance"
+    ],
+    "new_total": 103
+  },
+  {
     "ts": "2026-06-27T19:20:00+00:00",
     "text": "Isabelle Harrison passed Kedra Holland-Corn for #168 all-time in points (career 1,940) \u2014 up from #169 entering today \u2014 (5:42 - 3rd \u2014 PHX @ TOR)",
     "kind": "rank_pass",
@@ -3002,17 +3014,5 @@
       "Monique Billings"
     ],
     "new_total": 1386
-  },
-  {
-    "ts": "2026-06-09T04:03:00+00:00",
-    "text": "A'ja Wilson passed Alex Bentley for #92 all-time in assists (career 646) \u2014 up from #93 entering today \u2014 (15.0 - 4th \u2014 SEA @ LV)",
-    "kind": "rank_pass",
-    "player": "A'ja Wilson",
-    "stat": "assists",
-    "rank": 92,
-    "passed_players": [
-      "Alex Bentley"
-    ],
-    "new_total": 646
   }
 ]
