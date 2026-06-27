@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-27 01:02 UTC_
+_Last updated: 2026-06-27 01:03 UTC_
 
 ## Contents
 
@@ -553,10 +553,10 @@ _Last updated: 2026-06-27 01:02 UTC_
 | 122 | Myisha Hines-Allen | 520 |
 | 123 | Caitlin Clark | 517 |
 | 124 | Iziane Castro Marques | 509 |
-| 124 | **Rachel Banham** 🔴 +1 | 509 |
-| 126 | Brittany Boyd-Jones | 508 |
-| 126 | Chasity Melvin | 508 |
-| 126 | Rhyne Howard | 508 |
+| 125 | Brittany Boyd-Jones | 508 |
+| 125 | Chasity Melvin | 508 |
+| 125 | **Rachel Banham** 🔴 | 508 |
+| 125 | Rhyne Howard | 508 |
 | 129 | Anna DeForge | 503 |
 | 129 | Coco Miller | 503 |
 | 131 | Crystal Robinson | 488 |
@@ -1221,9 +1221,9 @@ _Last updated: 2026-06-27 01:02 UTC_
 | 174 | Lisa Leslie | 123 |
 | 175 | Sidney Spencer | 122 |
 | 176 | Jordin Canada | 120 |
+| 177 | **Kennedy Burke** 🔴 +2 | 118 |
 | 177 | Lexie Hull | 118 |
 | 177 | Tonya Edwards | 118 |
-| 179 | **Kennedy Burke** 🔴 +1 | 117 |
 | 180 | Edwige Lawson-Wade | 116 |
 | 180 | Marie Ferdinand-Harris | 116 |
 | 182 | Ebony Hoffman | 115 |
