@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-27 19:20 UTC
+
+- **Isabelle Harrison** passed **Kedra Holland-Corn** for **#168** all-time in points (career 1,940) — up from #169 entering today — _5:42 - 3rd — PHX @ TOR_
+
 ## 2026-06-27 19:19 UTC
 
 - **Julie Allemand** passed **Yolanda Griffith** for **#144** all-time in assists (career 453) — up from #151 entering today — _6:28 - 3rd — PHX @ TOR_

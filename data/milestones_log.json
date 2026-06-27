@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-27T19:20:00+00:00",
+    "text": "Isabelle Harrison passed Kedra Holland-Corn for #168 all-time in points (career 1,940) \u2014 up from #169 entering today \u2014 (5:42 - 3rd \u2014 PHX @ TOR)",
+    "kind": "rank_pass",
+    "player": "Isabelle Harrison",
+    "stat": "points",
+    "rank": 168,
+    "passed_players": [
+      "Kedra Holland-Corn"
+    ],
+    "new_total": 1940
+  },
+  {
     "ts": "2026-06-27T19:19:00+00:00",
     "text": "Julie Allemand passed Yolanda Griffith for #144 all-time in assists (career 453) \u2014 up from #151 entering today \u2014 (6:28 - 3rd \u2014 PHX @ TOR)",
     "kind": "rank_pass",
@@ -3002,14 +3014,5 @@
       "Alex Bentley"
     ],
     "new_total": 646
-  },
-  {
-    "ts": "2026-06-09T03:50:00+00:00",
-    "text": "Dominique Malonga reached 100 career fouls (now 100) \u2014 (6:05 - 4th \u2014 SEA @ LV)",
-    "kind": "round",
-    "player": "Dominique Malonga",
-    "stat": "fouls",
-    "value": 100,
-    "new_total": 100
   }
 ]
