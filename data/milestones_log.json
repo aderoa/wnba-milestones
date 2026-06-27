@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-06-27T03:57:00+00:00",
+    "text": "Jordin Canada passed Azur\u00e1 Stevens and Allison Feaster for #136 all-time in points (career 2,260) \u2014 up from #139 entering today \u2014 (4:52 - 4th \u2014 ATL @ GS)",
+    "kind": "rank_pass",
+    "player": "Jordin Canada",
+    "stat": "points",
+    "rank": 136,
+    "passed_players": [
+      "Azur\u00e1 Stevens",
+      "Allison Feaster"
+    ],
+    "new_total": 2260
+  },
+  {
     "ts": "2026-06-27T03:37:00+00:00",
     "text": "Jordin Canada passed Sidney Spencer for #175 all-time in three-pointers (career 123) \u2014 up from #176 entering today \u2014 (18.2 - 3rd \u2014 ATL @ GS)",
     "kind": "rank_pass",
@@ -2976,18 +2989,5 @@
       "Merlakia Jones"
     ],
     "new_total": 928
-  },
-  {
-    "ts": "2026-06-07T01:32:00+00:00",
-    "text": "Betnijah Laney-Hamilton passed Elena Baranova and Jantel Lavender for #126 all-time in turnovers (career 445) \u2014 (2:59 - 3rd \u2014 IND @ NY)",
-    "kind": "rank_pass",
-    "player": "Betnijah Laney-Hamilton",
-    "stat": "turnovers",
-    "rank": 126,
-    "passed_players": [
-      "Elena Baranova",
-      "Jantel Lavender"
-    ],
-    "new_total": 445
   }
 ]

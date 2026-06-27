@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-27 03:57 UTC
+
+- **Jordin Canada** passed **Azurá Stevens** and **Allison Feaster** for **#136** all-time in points (career 2,260) — up from #139 entering today — _4:52 - 4th — ATL @ GS_
+
 ## 2026-06-27 03:37 UTC
 
 - **Jordin Canada** passed **Sidney Spencer** for **#175** all-time in three-pointers (career 123) — up from #176 entering today — _18.2 - 3rd — ATL @ GS_
