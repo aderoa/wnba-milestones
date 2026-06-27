@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-27 04:21 UTC_
+_Last updated: 2026-06-27 04:22 UTC_
 
 ## Contents
 
@@ -143,8 +143,8 @@ _Last updated: 2026-06-27 04:21 UTC_
 | 122 | Glory Johnson | 2,531 |
 | 123 | Nikki McCray | 2,521 |
 | 124 | Crystal Robinson | 2,496 |
-| 125 | Tiffany Mitchell | 2,480 |
-| 126 | **Rhyne Howard** 🔴 +6 | 2,478 |
+| 125 | **Rhyne Howard** 🔴 +9 | 2,481 |
+| 126 | Tiffany Mitchell | 2,480 |
 | 127 | Ruth Riley | 2,434 |
 | 128 | Svetlana Abrosimova | 2,414 |
 | 129 | Anna DeForge | 2,413 |
@@ -1084,8 +1084,8 @@ _Last updated: 2026-06-27 04:21 UTC_
 | 37 | Penny Taylor | 407 |
 | 37 | Riquna Williams | 407 |
 | 39 | Jia Perkins | 396 |
-| 40 | Alysha Clark | 394 |
-| 40 | **Rhyne Howard** 🔴 | 394 |
+| 40 | **Rhyne Howard** 🔴 +1 | 395 |
+| 41 | Alysha Clark | 394 |
 | 42 | Roneeka Hodges | 389 |
 | 43 | Courtney Vandersloot | 386 |
 | 43 | Rachel Banham | 386 |
