@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-27 03:16 UTC_
+_Last updated: 2026-06-27 03:17 UTC_
 
 ## Contents
 
@@ -49,7 +49,7 @@ _Last updated: 2026-06-27 03:16 UTC_
 | 28 | Tangela Smith | 5,035 |
 | 29 | Kelsey Mitchell | 5,003 |
 | 30 | Taj McWilliams-Franklin | 4,992 |
-| 31 | **Tiffany Hayes** 🔴 | 4,985 |
+| 31 | **Tiffany Hayes** 🔴 +2 | 4,987 |
 | 32 | Maya Moore | 4,984 |
 | 33 | Sheryl Swoopes | 4,875 |
 | 34 | Alana Beard | 4,740 |
@@ -1431,7 +1431,7 @@ _Last updated: 2026-06-27 03:16 UTC_
 | 179 | Le'coe Willingham | 325 |
 | 180 | Caitlin Clark | 324 |
 | 180 | Olympia Scott | 324 |
-| 182 | **Gabby Williams** 🔴 +1 | 321 |
+| 182 | **Gabby Williams** 🔴 +2 | 322 |
 | 183 | Kia Nurse | 316 |
 | 184 | Barbara Farris | 315 |
 | 185 | Moriah Jefferson | 314 |
@@ -1530,7 +1530,7 @@ _Last updated: 2026-06-27 03:16 UTC_
 | 73 | Shameka Christon | 734 |
 | 74 | Becky Hammon | 733 |
 | 75 | Latasha Byears | 730 |
-| 76 | **Allisha Gray** 🔴 | 726 |
+| 76 | **Allisha Gray** 🔴 +1 | 727 |
 | 77 | Elizabeth Williams | 722 |
 | 77 | Kristi Toliver | 722 |
 | 79 | Ariel Atkins | 713 |
