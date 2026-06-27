@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-27 02:20 UTC_
+_Last updated: 2026-06-27 02:21 UTC_
 
 ## Contents
 
@@ -660,7 +660,7 @@ _Last updated: 2026-06-27 02:20 UTC_
 | 24 | Diana Taurasi | 349 |
 | 24 | Elena Delle Donne | 349 |
 | 26 | DeLisha Milton-Jones | 339 |
-| 27 | **Kiah Stokes** 🔴 +2 | 338 |
+| 26 | **Kiah Stokes** 🔴 +3 | 339 |
 | 28 | Yolanda Griffith | 323 |
 | 29 | Elena Baranova | 320 |
 | 30 | Candice Dupree | 316 |
@@ -894,8 +894,8 @@ _Last updated: 2026-06-27 02:20 UTC_
 | 52 | Swin Cash | 384 |
 | 52 | Tina Charles | 384 |
 | 54 | Tiffany Hayes | 382 |
-| 55 | **Jordin Canada** 🔴 +1 | 381 |
-| 56 | Ariel Atkins | 380 |
+| 55 | Ariel Atkins | 380 |
+| 55 | **Jordin Canada** 🔴 | 380 |
 | 57 | Monique Currie | 378 |
 | 58 | Chamique Holdsclaw | 376 |
 | 59 | Mwadi Mabika | 370 |
