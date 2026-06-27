@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-27 02:44 UTC_
+_Last updated: 2026-06-27 02:45 UTC_
 
 ## Contents
 
@@ -156,7 +156,7 @@ _Last updated: 2026-06-27 02:44 UTC_
 | 135 | Betnijah Laney-Hamilton | 2,282 |
 | 136 | Azurá Stevens | 2,271 |
 | 137 | Allison Feaster | 2,258 |
-| 138 | **Jordin Canada** 🔴 +10 | 2,247 |
+| 138 | **Jordin Canada** 🔴 +11 | 2,248 |
 | 139 | Shekinna Stricklen | 2,245 |
 | 140 | Kara Braxton | 2,237 |
 | 140 | Matee Ajavon | 2,237 |
@@ -208,7 +208,7 @@ _Last updated: 2026-06-27 02:44 UTC_
 | 187 | Sandy Brondello | 1,759 |
 | 188 | Sophie Cunningham | 1,752 |
 | 189 | Sugar Rodgers | 1,733 |
-| 190 | **Gabby Williams** 🔴 +2 | 1,725 |
+| 190 | **Gabby Williams** 🔴 +3 | 1,726 |
 | 191 | Moriah Jefferson | 1,722 |
 | 192 | Armintie Herrington | 1,696 |
 | 193 | Nikki Teasley | 1,690 |
@@ -932,8 +932,8 @@ _Last updated: 2026-06-27 02:44 UTC_
 | 89 | Temeka Johnson | 317 |
 | 91 | Alysha Clark | 316 |
 | 92 | Debbie Black | 315 |
-| 93 | Crystal Langhorne | 314 |
-| 93 | **Gabby Williams** 🔴 | 314 |
+| 92 | **Gabby Williams** 🔴 +1 | 315 |
+| 94 | Crystal Langhorne | 314 |
 | 95 | Ebony Hoffman | 308 |
 | 96 | Tamera Young | 305 |
 | 97 | Kedra Holland-Corn | 301 |
@@ -1355,9 +1355,9 @@ _Last updated: 2026-06-27 02:44 UTC_
 | 102 | Sabrina Ionescu | 518 |
 | 104 | Shavonte Zellous | 517 |
 | 104 | Wendy Palmer | 517 |
+| 106 | **Jordin Canada** 🔴 +2 | 514 |
 | 106 | Tully Bevilaqua | 514 |
-| 107 | Jia Perkins | 513 |
-| 107 | **Jordin Canada** 🔴 +1 | 513 |
+| 108 | Jia Perkins | 513 |
 | 109 | Marina Mabrey | 510 |
 | 110 | Tamera Young | 501 |
 | 111 | Nikki Teasley | 493 |
