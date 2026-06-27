@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-27 00:20 UTC_
+_Last updated: 2026-06-27 00:21 UTC_
 
 ## Contents
 
@@ -295,9 +295,9 @@ _Last updated: 2026-06-27 00:20 UTC_
 | 69 | Alana Beard | 1,420 |
 | 70 | Nakia Sanford | 1,419 |
 | 71 | Kara Braxton | 1,387 |
+| 72 | **Courtney Vandersloot** 🔴 +2 | 1,385 |
 | 72 | Monique Billings | 1,385 |
-| 73 | Allisha Gray | 1,384 |
-| 73 | **Courtney Vandersloot** 🔴 +1 | 1,384 |
+| 74 | Allisha Gray | 1,384 |
 | 75 | Katie Smith | 1,383 |
 | 76 | Ebony Hoffman | 1,376 |
 | 77 | Kayla Thornton | 1,360 |
@@ -430,7 +430,7 @@ _Last updated: 2026-06-27 00:20 UTC_
 | Rank | Player | Total |
 |-----:|--------|------:|
 | 1 | Sue Bird | 3,234 |
-| 2 | **Courtney Vandersloot** 🔴 +2 | 2,889 |
+| 2 | **Courtney Vandersloot** 🔴 +3 | 2,890 |
 | 3 | Ticha Penicheiro | 2,588 |
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
@@ -1446,7 +1446,7 @@ _Last updated: 2026-06-27 00:20 UTC_
 | 194 | Michele Timms | 297 |
 | 195 | **Rachel Banham** 🔴 | 295 |
 | 196 | Kayla Thornton | 294 |
-| 197 | **Azurá Stevens** 🔴 | 292 |
+| 197 | **Azurá Stevens** 🔴 +1 | 293 |
 | 198 | Natisha Hiedeman | 289 |
 | 199 | Alexis Hornbuckle | 288 |
 | 199 | Kristen Rasmussen | 288 |

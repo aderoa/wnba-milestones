@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-27 00:21 UTC
+
+- **Courtney Vandersloot** passed **Allisha Gray** for **#73** all-time in rebounds (career 1,385) — up from #74 entering today — _2:15 - 2nd — POR @ CHI_
+
 ## 2026-06-27 00:09 UTC
 
 - **Olivia Nelson-Ododa** passed **Chiney Ogwumike** and **Kristen Rasmussen** for **#94** all-time in blocks (career 128) — up from #100 entering today — _8:51 - 2nd — WSH @ CON_
