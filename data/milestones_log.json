@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-06-27T18:34:00+00:00",
+    "text": "Isabelle Harrison passed Rushia Brown and Shekinna Stricklen for #168 all-time in fouls (career 506) \u2014 (8:46 - 2nd \u2014 PHX @ TOR)",
+    "kind": "rank_pass",
+    "player": "Isabelle Harrison",
+    "stat": "fouls",
+    "rank": 168,
+    "passed_players": [
+      "Rushia Brown",
+      "Shekinna Stricklen"
+    ],
+    "new_total": 506
+  },
+  {
     "ts": "2026-06-27T18:14:00+00:00",
     "text": "Julie Allemand passed Essence Carson for #150 all-time in assists (career 446) \u2014 up from #151 entering today \u2014 (4:27 - 1st \u2014 PHX @ TOR)",
     "kind": "rank_pass",
@@ -3000,14 +3013,5 @@
       "Candice Dupree"
     ],
     "new_total": 317
-  },
-  {
-    "ts": "2026-06-09T02:23:00+00:00",
-    "text": "Zia Cooke reached 100 career fouls (now 100) \u2014 (3:30 - 1st \u2014 SEA @ LV)",
-    "kind": "round",
-    "player": "Zia Cooke",
-    "stat": "fouls",
-    "value": 100,
-    "new_total": 100
   }
 ]

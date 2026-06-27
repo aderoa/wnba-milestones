@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-27 18:34 UTC
+
+- **Isabelle Harrison** passed **Rushia Brown** and **Shekinna Stricklen** for **#168** all-time in fouls (career 506) — _8:46 - 2nd — PHX @ TOR_
+
 ## 2026-06-27 18:14 UTC
 
 - **Julie Allemand** passed **Essence Carson** for **#150** all-time in assists (career 446) — up from #151 entering today — _4:27 - 1st — PHX @ TOR_
