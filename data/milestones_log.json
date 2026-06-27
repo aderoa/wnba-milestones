@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-27T18:14:00+00:00",
+    "text": "Julie Allemand passed Essence Carson for #150 all-time in assists (career 446) \u2014 up from #151 entering today \u2014 (4:27 - 1st \u2014 PHX @ TOR)",
+    "kind": "rank_pass",
+    "player": "Julie Allemand",
+    "stat": "assists",
+    "rank": 150,
+    "passed_players": [
+      "Essence Carson"
+    ],
+    "new_total": 446
+  },
+  {
     "ts": "2026-06-27T18:10:00+00:00",
     "text": "Kia Nurse passed Cathrine Kraayeveld for #185 all-time in fouls (career 485) \u2014 up from #186 entering today \u2014 (5:18 - 1st \u2014 PHX @ TOR)",
     "kind": "rank_pass",
@@ -2997,18 +3009,5 @@
     "stat": "fouls",
     "value": 100,
     "new_total": 100
-  },
-  {
-    "ts": "2026-06-09T01:35:00+00:00",
-    "text": "Caitlin Clark passed Shatori Walker-Kimbrough and Tayler Hill for #124 all-time in three-pointers (career 175) \u2014 up from #127 entering today \u2014 (1.2 - 4th \u2014 IND @ WSH)",
-    "kind": "rank_pass",
-    "player": "Caitlin Clark",
-    "stat": "three-pointers",
-    "rank": 124,
-    "passed_players": [
-      "Shatori Walker-Kimbrough",
-      "Tayler Hill"
-    ],
-    "new_total": 175
   }
 ]
