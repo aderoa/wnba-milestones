@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-27 01:16 UTC
+
+- **Azurá Stevens** passed **Erin Thorn** and **Nneka Ogwumike** for **#90** all-time in three-pointers (career 244) — up from #93 entering today — _5:57 - 4th — POR @ CHI_
+
 ## 2026-06-27 01:07 UTC
 
 - **Rachel Banham** passed **Courtney Vandersloot** for **#43** all-time in three-pointers (career 386) — up from #44 entering today — _8:48 - 4th — POR @ CHI_

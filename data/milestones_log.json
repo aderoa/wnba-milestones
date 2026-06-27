@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-06-27T01:16:00+00:00",
+    "text": "Azur\u00e1 Stevens passed Erin Thorn and Nneka Ogwumike for #90 all-time in three-pointers (career 244) \u2014 up from #93 entering today \u2014 (5:57 - 4th \u2014 POR @ CHI)",
+    "kind": "rank_pass",
+    "player": "Azur\u00e1 Stevens",
+    "stat": "three-pointers",
+    "rank": 90,
+    "passed_players": [
+      "Erin Thorn",
+      "Nneka Ogwumike"
+    ],
+    "new_total": 244
+  },
+  {
     "ts": "2026-06-27T01:07:00+00:00",
     "text": "Rachel Banham passed Courtney Vandersloot for #43 all-time in three-pointers (career 386) \u2014 up from #44 entering today \u2014 (8:48 - 4th \u2014 POR @ CHI)",
     "kind": "rank_pass",
@@ -2976,17 +2989,5 @@
       "Andrea Stinson"
     ],
     "new_total": 572
-  },
-  {
-    "ts": "2026-06-07T00:24:00+00:00",
-    "text": "Myisha Hines-Allen passed Ticha Penicheiro for #170 all-time in three-pointers (career 129) \u2014 (36.4 - 1st \u2014 IND @ NY)",
-    "kind": "rank_pass",
-    "player": "Myisha Hines-Allen",
-    "stat": "three-pointers",
-    "rank": 170,
-    "passed_players": [
-      "Ticha Penicheiro"
-    ],
-    "new_total": 129
   }
 ]

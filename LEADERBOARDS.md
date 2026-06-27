@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-27 01:15 UTC_
+_Last updated: 2026-06-27 01:16 UTC_
 
 ## Contents
 
@@ -154,7 +154,7 @@ _Last updated: 2026-06-27 01:15 UTC_
 | 133 | Merlakia Jones | 2,308 |
 | 134 | Kia Vaughn | 2,288 |
 | 135 | Betnijah Laney-Hamilton | 2,282 |
-| 136 | **Azurá Stevens** 🔴 +9 | 2,268 |
+| 136 | **Azurá Stevens** 🔴 +12 | 2,271 |
 | 137 | Allison Feaster | 2,258 |
 | 138 | Shekinna Stricklen | 2,245 |
 | 139 | Jordin Canada | 2,237 |
@@ -312,8 +312,8 @@ _Last updated: 2026-06-27 01:15 UTC_
 | 86 | Jayne Appel Marinelli | 1,326 |
 | 87 | Betty Lennox | 1,296 |
 | 88 | Tari Phillips | 1,274 |
-| 89 | **Azurá Stevens** 🔴 +5 | 1,261 |
-| 89 | Janel McCarville | 1,261 |
+| 89 | **Azurá Stevens** 🔴 +6 | 1,262 |
+| 90 | Janel McCarville | 1,261 |
 | 91 | Liz Cambage | 1,258 |
 | 92 | Tiffany Hayes | 1,244 |
 | 93 | Ezi Magbegor | 1,243 |
@@ -436,7 +436,7 @@ _Last updated: 2026-06-27 01:15 UTC_
 | 5 | Lindsay Whalen | 2,347 |
 | 6 | Chelsea Gray | 1,935 |
 | 7 | Alyssa Thomas | 1,903 |
-| 8 | **Skylar Diggins** 🔴 +8 | 1,820 |
+| 8 | **Skylar Diggins** 🔴 +9 | 1,821 |
 | 9 | **Natasha Cloud** 🔴 +3 | 1,775 |
 | 10 | Becky Hammon | 1,705 |
 | 11 | Candace Parker | 1,634 |
@@ -563,9 +563,9 @@ _Last updated: 2026-06-27 01:15 UTC_
 | 131 | Tiffany Mitchell | 488 |
 | 133 | Rebekkah Brunson | 486 |
 | 134 | Kahleah Copper | 484 |
+| 135 | **Elizabeth Williams** 🔴 +3 | 470 |
 | 135 | Ukari Figgs | 470 |
-| 136 | **Elizabeth Williams** 🔴 +2 | 469 |
-| 136 | Janeth Arcain | 469 |
+| 137 | Janeth Arcain | 469 |
 | 138 | Erin Phillips | 462 |
 | 139 | Sylvia Fowles | 461 |
 | 140 | Satou Sabally | 456 |
@@ -1134,9 +1134,9 @@ _Last updated: 2026-06-27 01:15 UTC_
 | 86 | Rebecca Allen | 254 |
 | 88 | Bria Hartley | 253 |
 | 89 | Angel McCoughtry | 249 |
-| 90 | **Azurá Stevens** 🔴 +2 | 243 |
-| 90 | Erin Thorn | 243 |
-| 90 | Nneka Ogwumike | 243 |
+| 90 | **Azurá Stevens** 🔴 +3 | 244 |
+| 91 | Erin Thorn | 243 |
+| 91 | Nneka Ogwumike | 243 |
 | 93 | Brittney Sykes | 242 |
 | 94 | Alex Bentley | 239 |
 | 94 | Cynthia Cooper | 239 |
