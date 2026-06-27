@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-27 00:55 UTC_
+_Last updated: 2026-06-27 00:56 UTC_
 
 ## Contents
 
@@ -745,11 +745,11 @@ _Last updated: 2026-06-27 00:55 UTC_
 | 107 | Natasha Mack | 117 |
 | 110 | Monique Currie | 114 |
 | 111 | Ariel Atkins | 113 |
-| 112 | Amanda Lassiter | 111 |
-| 112 | Kamila Vodichkova | 111 |
-| 112 | **Kamilla Cardoso** 🔴 | 111 |
-| 112 | Sophia Young-Malcolm | 111 |
-| 112 | Tari Phillips | 111 |
+| 112 | **Kamilla Cardoso** 🔴 +1 | 112 |
+| 113 | Amanda Lassiter | 111 |
+| 113 | Kamila Vodichkova | 111 |
+| 113 | Sophia Young-Malcolm | 111 |
+| 113 | Tari Phillips | 111 |
 | 117 | **Shakira Austin** 🔴 | 110 |
 | 118 | Erin Perperoglou | 108 |
 | 118 | Glory Johnson | 108 |
@@ -1531,8 +1531,8 @@ _Last updated: 2026-06-27 00:55 UTC_
 | 74 | Becky Hammon | 733 |
 | 75 | Latasha Byears | 730 |
 | 76 | Allisha Gray | 726 |
+| 77 | **Elizabeth Williams** 🔴 +2 | 722 |
 | 77 | Kristi Toliver | 722 |
-| 78 | **Elizabeth Williams** 🔴 +1 | 721 |
 | 79 | Ariel Atkins | 713 |
 | 79 | Cheryl Ford | 713 |
 | 81 | Jia Perkins | 711 |
