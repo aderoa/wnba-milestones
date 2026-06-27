@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-27 00:52 UTC_
+_Last updated: 2026-06-27 00:53 UTC_
 
 ## Contents
 
@@ -34,7 +34,7 @@ _Last updated: 2026-06-27 00:52 UTC_
 | 13 | Lisa Leslie | 6,251 |
 | 14 | Breanna Stewart | 6,173 |
 | 15 | Jewell Loyd | 6,078 |
-| 16 | **Brittney Griner** 🔴 +6 | 6,037 |
+| 16 | **Brittney Griner** 🔴 +8 | 6,039 |
 | 17 | Lauren Jackson | 6,005 |
 | 17 | Seimone Augustus | 6,005 |
 | 19 | A'ja Wilson | 5,942 |
@@ -430,7 +430,7 @@ _Last updated: 2026-06-27 00:52 UTC_
 | Rank | Player | Total |
 |-----:|--------|------:|
 | 1 | Sue Bird | 3,234 |
-| 2 | **Courtney Vandersloot** 🔴 +4 | 2,891 |
+| 2 | **Courtney Vandersloot** 🔴 +5 | 2,892 |
 | 3 | Ticha Penicheiro | 2,588 |
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
@@ -564,8 +564,8 @@ _Last updated: 2026-06-27 00:52 UTC_
 | 133 | Rebekkah Brunson | 486 |
 | 134 | Kahleah Copper | 484 |
 | 135 | Ukari Figgs | 470 |
+| 136 | **Elizabeth Williams** 🔴 +2 | 469 |
 | 136 | Janeth Arcain | 469 |
-| 137 | **Elizabeth Williams** 🔴 +1 | 468 |
 | 138 | Erin Phillips | 462 |
 | 139 | Sylvia Fowles | 461 |
 | 140 | Satou Sabally | 456 |
@@ -1482,8 +1482,8 @@ _Last updated: 2026-06-27 00:52 UTC_
 | 25 | Lindsay Whalen | 998 |
 | 26 | Rebekkah Brunson | 996 |
 | 27 | Yolanda Griffith | 991 |
-| 28 | **Brittney Griner** 🔴 +2 | 982 |
-| 28 | Lauren Jackson | 982 |
+| 28 | **Brittney Griner** 🔴 +3 | 983 |
+| 29 | Lauren Jackson | 982 |
 | 30 | Nakia Sanford | 979 |
 | 31 | Asjha Jones | 971 |
 | 32 | Alyssa Thomas | 954 |
