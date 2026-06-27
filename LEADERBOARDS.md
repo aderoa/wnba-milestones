@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-27 01:25 UTC_
+_Last updated: 2026-06-27 01:26 UTC_
 
 ## Contents
 
@@ -407,8 +407,8 @@ _Last updated: 2026-06-27 01:25 UTC_
 | 181 | Anna DeForge | 769 |
 | 181 | Kelsey Bone | 769 |
 | 181 | Tan White | 769 |
-| 184 | **Shakira Austin** 🔴 +9 | 767 |
-| 184 | Tully Bevilaqua | 767 |
+| 184 | **Shakira Austin** 🔴 +10 | 768 |
+| 185 | Tully Bevilaqua | 767 |
 | 186 | Layshia Clarendon | 756 |
 | 187 | Brooke Wyckoff | 751 |
 | 188 | Coco Miller | 750 |
@@ -430,7 +430,7 @@ _Last updated: 2026-06-27 01:25 UTC_
 | Rank | Player | Total |
 |-----:|--------|------:|
 | 1 | Sue Bird | 3,234 |
-| 2 | **Courtney Vandersloot** 🔴 +5 | 2,892 |
+| 2 | **Courtney Vandersloot** 🔴 +6 | 2,893 |
 | 3 | Ticha Penicheiro | 2,588 |
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
