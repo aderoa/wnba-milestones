@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-27 19:51 UTC
+
+- **Isabelle Harrison** passed **Merlakia Jones** for **#166** all-time in fouls (career 507) — up from #167 entering today — _5:25 - 4th — PHX @ TOR_
+
 ## 2026-06-27 19:46 UTC
 
 - **Kia Nurse** passed **Kahleah Copper** for **#50** all-time in three-pointers (career 371) — up from #52 entering today — _7:02 - 4th — PHX @ TOR_
