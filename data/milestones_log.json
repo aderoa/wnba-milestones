@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-27T18:56:00+00:00",
+    "text": "Julie Allemand passed DeMya Walker for #149 all-time in assists (career 447) \u2014 up from #151 entering today \u2014 (1:59 - 2nd \u2014 PHX @ TOR)",
+    "kind": "rank_pass",
+    "player": "Julie Allemand",
+    "stat": "assists",
+    "rank": 149,
+    "passed_players": [
+      "DeMya Walker"
+    ],
+    "new_total": 447
+  },
+  {
     "ts": "2026-06-27T18:55:00+00:00",
     "text": "DeWanna Bonner passed Leilani Mitchell for #30 all-time in assists (career 1,198) \u2014 up from #31 entering today \u2014 (2:45 - 2nd \u2014 PHX @ TOR)",
     "kind": "rank_pass",
@@ -2998,17 +3010,5 @@
       "Jantel Lavender"
     ],
     "new_total": 445
-  },
-  {
-    "ts": "2026-06-09T02:48:00+00:00",
-    "text": "A'ja Wilson passed Janeth Arcain for #73 all-time in steals (career 347) \u2014 (3:36 - 2nd \u2014 SEA @ LV)",
-    "kind": "rank_pass",
-    "player": "A'ja Wilson",
-    "stat": "steals",
-    "rank": 73,
-    "passed_players": [
-      "Janeth Arcain"
-    ],
-    "new_total": 347
   }
 ]
