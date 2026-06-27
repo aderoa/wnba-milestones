@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-27 02:50 UTC_
+_Last updated: 2026-06-27 02:51 UTC_
 
 ## Contents
 
@@ -156,7 +156,7 @@ _Last updated: 2026-06-27 02:50 UTC_
 | 135 | Betnijah Laney-Hamilton | 2,282 |
 | 136 | Azurá Stevens | 2,271 |
 | 137 | Allison Feaster | 2,258 |
-| 138 | **Jordin Canada** 🔴 +11 | 2,248 |
+| 138 | **Jordin Canada** 🔴 +13 | 2,250 |
 | 139 | Shekinna Stricklen | 2,245 |
 | 140 | Kara Braxton | 2,237 |
 | 140 | Matee Ajavon | 2,237 |
@@ -296,8 +296,8 @@ _Last updated: 2026-06-27 02:50 UTC_
 | 70 | Nakia Sanford | 1,419 |
 | 71 | Kara Braxton | 1,387 |
 | 72 | Courtney Vandersloot | 1,386 |
+| 73 | **Allisha Gray** 🔴 +1 | 1,385 |
 | 73 | Monique Billings | 1,385 |
-| 74 | **Allisha Gray** 🔴 | 1,384 |
 | 75 | Katie Smith | 1,383 |
 | 76 | Ebony Hoffman | 1,376 |
 | 77 | **Kayla Thornton** 🔴 +2 | 1,362 |
@@ -367,9 +367,9 @@ _Last updated: 2026-06-27 02:50 UTC_
 | 141 | Dominique Canty | 961 |
 | 142 | Armintie Herrington | 960 |
 | 143 | Janell Burse | 944 |
-| 144 | **Angel Reese** 🔴 +4 | 927 |
-| 144 | Jessica Shepard | 927 |
-| 144 | Merlakia Jones | 927 |
+| 144 | **Angel Reese** 🔴 +5 | 928 |
+| 145 | Jessica Shepard | 927 |
+| 145 | Merlakia Jones | 927 |
 | 147 | Satou Sabally | 926 |
 | 148 | Nicky Anosike | 922 |
 | 149 | Janeth Arcain | 916 |
