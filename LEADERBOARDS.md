@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-27 04:19 UTC_
+_Last updated: 2026-06-27 04:20 UTC_
 
 ## Contents
 
@@ -196,10 +196,10 @@ _Last updated: 2026-06-27 04:19 UTC_
 | 175 | Candice Wiggins | 1,901 |
 | 176 | Natisha Hiedeman | 1,858 |
 | 177 | Isabelle Harrison | 1,832 |
-| 178 | Rachel Banham | 1,831 |
-| 179 | Damiris Dantas | 1,830 |
-| 180 | Tianna Hawkins | 1,825 |
-| 181 | Noelle Quinn | 1,824 |
+| 178 | Damiris Dantas | 1,830 |
+| 179 | Tianna Hawkins | 1,825 |
+| 180 | Noelle Quinn | 1,824 |
+| 181 | Rachel Banham | 1,823 |
 | 182 | Danielle Adams | 1,820 |
 | 183 | Charde Houston | 1,797 |
 | 184 | NaLyssa Smith | 1,775 |
@@ -554,9 +554,9 @@ _Last updated: 2026-06-27 04:19 UTC_
 | 123 | Caitlin Clark | 517 |
 | 124 | **Rhyne Howard** 🔴 +2 | 510 |
 | 125 | Iziane Castro Marques | 509 |
-| 125 | Rachel Banham | 509 |
-| 127 | Brittany Boyd-Jones | 508 |
-| 127 | Chasity Melvin | 508 |
+| 126 | Brittany Boyd-Jones | 508 |
+| 126 | Chasity Melvin | 508 |
+| 126 | Rachel Banham | 508 |
 | 129 | Anna DeForge | 503 |
 | 129 | Coco Miller | 503 |
 | 131 | Crystal Robinson | 488 |
@@ -1088,7 +1088,7 @@ _Last updated: 2026-06-27 04:19 UTC_
 | 40 | **Rhyne Howard** 🔴 | 394 |
 | 42 | Roneeka Hodges | 389 |
 | 43 | Courtney Vandersloot | 386 |
-| 43 | Rachel Banham | 386 |
+| 44 | Rachel Banham | 384 |
 | 45 | Briann January | 381 |
 | 46 | Jasmine Thomas | 376 |
 | 47 | Allison Feaster | 372 |
@@ -1633,7 +1633,7 @@ _Last updated: 2026-06-27 04:19 UTC_
 | 176 | Karima Christmas-Kelly | 494 |
 | 177 | Ann Wauters | 493 |
 | 177 | Riquna Williams | 493 |
-| 179 | Rachel Banham | 491 |
+| 179 | Rachel Banham | 490 |
 | 180 | Charde Houston | 487 |
 | 181 | Lindsey Harding | 486 |
 | 182 | Cathrine Kraayeveld | 484 |
