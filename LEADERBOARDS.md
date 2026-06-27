@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-27 03:50 UTC_
+_Last updated: 2026-06-27 03:51 UTC_
 
 ## Contents
 
@@ -387,7 +387,7 @@ _Last updated: 2026-06-27 03:50 UTC_
 | 161 | Essence Carson | 833 |
 | 162 | Kristi Toliver | 829 |
 | 163 | Marie Ferdinand-Harris | 828 |
-| 164 | **Naz Hillmon** 🔴 +3 | 825 |
+| 164 | **Naz Hillmon** 🔴 +4 | 826 |
 | 165 | Marlies Askamp | 822 |
 | 166 | Amanda Zahui B | 819 |
 | 166 | Barbara Farris | 819 |
@@ -781,7 +781,7 @@ _Last updated: 2026-06-27 03:50 UTC_
 | 144 | Alysha Clark | 90 |
 | 144 | **Kayla Thornton** 🔴 | 90 |
 | 147 | Marissa Coleman | 88 |
-| 148 | **Tiffany Hayes** 🔴 | 87 |
+| 147 | **Tiffany Hayes** 🔴 +1 | 88 |
 | 149 | Astou Ndiaye-Diatta | 86 |
 | 149 | Natasha Cloud | 86 |
 | 151 | Adrian Williams-Strong | 85 |
