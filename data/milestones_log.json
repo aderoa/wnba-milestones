@@ -1,5 +1,26 @@
 [
   {
+    "ts": "2026-06-27T19:53:00+00:00",
+    "text": "DeWanna Bonner reached 3,300 career rebounds (now 3,300) \u2014 (4:28 - 4th \u2014 PHX @ TOR)",
+    "kind": "round",
+    "player": "DeWanna Bonner",
+    "stat": "rebounds",
+    "value": 3300,
+    "new_total": 3300
+  },
+  {
+    "ts": "2026-06-27T19:53:00+00:00",
+    "text": "Isabelle Harrison passed Vicky Bullett for #165 all-time in fouls (career 508) \u2014 up from #167 entering today \u2014 (4:28 - 4th \u2014 PHX @ TOR)",
+    "kind": "rank_pass",
+    "player": "Isabelle Harrison",
+    "stat": "fouls",
+    "rank": 165,
+    "passed_players": [
+      "Vicky Bullett"
+    ],
+    "new_total": 508
+  },
+  {
     "ts": "2026-06-27T19:51:00+00:00",
     "text": "Isabelle Harrison passed Merlakia Jones for #166 all-time in fouls (career 507) \u2014 up from #167 entering today \u2014 (5:25 - 4th \u2014 PHX @ TOR)",
     "kind": "rank_pass",
@@ -2988,30 +3009,5 @@
       "Janeth Arcain"
     ],
     "new_total": 347
-  },
-  {
-    "ts": "2026-06-10T00:31:00+00:00",
-    "text": "Allisha Gray passed Kara Braxton for #71 all-time in rebounds (career 1,388) \u2014 up from #73 entering today \u2014 (3:06 - 3rd \u2014 ATL @ CHI)",
-    "kind": "rank_pass",
-    "player": "Allisha Gray",
-    "stat": "rebounds",
-    "rank": 71,
-    "passed_players": [
-      "Kara Braxton"
-    ],
-    "new_total": 1388
-  },
-  {
-    "ts": "2026-06-10T00:26:00+00:00",
-    "text": "Alysha Clark passed Plenette Pierson and Temeka Johnson for #89 all-time in steals (career 318) \u2014 up from #91 entering today \u2014 (8:13 - 2nd \u2014 DAL @ MIN)",
-    "kind": "rank_pass",
-    "player": "Alysha Clark",
-    "stat": "steals",
-    "rank": 89,
-    "passed_players": [
-      "Plenette Pierson",
-      "Temeka Johnson"
-    ],
-    "new_total": 318
   }
 ]

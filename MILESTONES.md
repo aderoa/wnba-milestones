@@ -2,6 +2,11 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-27 19:53 UTC
+
+- **DeWanna Bonner** reached **3,300** career rebounds (now 3,300) — _4:28 - 4th — PHX @ TOR_
+- **Isabelle Harrison** passed **Vicky Bullett** for **#165** all-time in fouls (career 508) — up from #167 entering today — _4:28 - 4th — PHX @ TOR_
+
 ## 2026-06-27 19:51 UTC
 
 - **Isabelle Harrison** passed **Merlakia Jones** for **#166** all-time in fouls (career 507) — up from #167 entering today — _5:25 - 4th — PHX @ TOR_
