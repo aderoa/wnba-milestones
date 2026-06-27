@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-27 04:03 UTC_
+_Last updated: 2026-06-27 04:04 UTC_
 
 ## Contents
 
@@ -208,7 +208,7 @@ _Last updated: 2026-06-27 04:03 UTC_
 | 187 | Sandy Brondello | 1,759 |
 | 188 | Sophie Cunningham | 1,752 |
 | 189 | Sugar Rodgers | 1,733 |
-| 190 | **Gabby Williams** 🔴 +5 | 1,728 |
+| 190 | **Gabby Williams** 🔴 +7 | 1,730 |
 | 191 | Moriah Jefferson | 1,722 |
 | 192 | Armintie Herrington | 1,696 |
 | 193 | Nikki Teasley | 1,690 |
@@ -1368,8 +1368,8 @@ _Last updated: 2026-06-27 04:03 UTC_
 | 116 | Natalie Williams | 480 |
 | 117 | Ebony Hoffman | 470 |
 | 118 | Elaine Powell | 469 |
-| 119 | Allie Quigley | 467 |
-| 119 | **Allisha Gray** 🔴 +1 | 467 |
+| 119 | **Allisha Gray** 🔴 +2 | 468 |
+| 120 | Allie Quigley | 467 |
 | 121 | A'ja Wilson | 466 |
 | 122 | Ariel Atkins | 454 |
 | 122 | Kia Vaughn | 454 |
@@ -1529,8 +1529,8 @@ _Last updated: 2026-06-27 04:03 UTC_
 | 72 | Crystal Langhorne | 737 |
 | 73 | Shameka Christon | 734 |
 | 74 | Becky Hammon | 733 |
+| 75 | **Allisha Gray** 🔴 +4 | 730 |
 | 75 | Latasha Byears | 730 |
-| 76 | **Allisha Gray** 🔴 +3 | 729 |
 | 77 | Elizabeth Williams | 722 |
 | 77 | Kristi Toliver | 722 |
 | 79 | Ariel Atkins | 713 |
