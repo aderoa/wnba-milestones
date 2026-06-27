@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-27 02:32 UTC_
+_Last updated: 2026-06-27 02:33 UTC_
 
 ## Contents
 
@@ -760,8 +760,8 @@ _Last updated: 2026-06-27 02:32 UTC_
 | 122 | Rebecca Lobo | 104 |
 | 125 | Jennifer Gillom | 103 |
 | 125 | Jia Perkins | 103 |
-| 127 | **Rhyne Howard** 🔴 | 102 |
-| 127 | Theresa Plaisance | 102 |
+| 125 | **Rhyne Howard** 🔴 +1 | 103 |
+| 128 | Theresa Plaisance | 102 |
 | 129 | Deanna Nolan | 101 |
 | 130 | Chante Black | 100 |
 | 130 | Danielle Adams | 100 |
@@ -900,7 +900,7 @@ _Last updated: 2026-06-27 02:32 UTC_
 | 58 | Chamique Holdsclaw | 376 |
 | 59 | Mwadi Mabika | 370 |
 | 60 | Brittney Sykes | 367 |
-| 61 | **Allisha Gray** 🔴 +1 | 361 |
+| 61 | **Allisha Gray** 🔴 +2 | 362 |
 | 62 | Lauren Jackson | 360 |
 | 62 | Tan White | 360 |
 | 64 | Vickie Johnson | 357 |
@@ -1321,7 +1321,7 @@ _Last updated: 2026-06-27 02:32 UTC_
 | 69 | Jonquel Jones | 627 |
 | 70 | Rebekkah Brunson | 615 |
 | 71 | Seimone Augustus | 613 |
-| 72 | **Tiffany Hayes** 🔴 +1 | 611 |
+| 71 | **Tiffany Hayes** 🔴 +3 | 613 |
 | 73 | Kahleah Copper | 609 |
 | 74 | Teresa Weatherspoon | 601 |
 | 75 | Lindsey Harding | 600 |
