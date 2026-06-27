@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-27T18:09:00+00:00",
+    "text": "Kia Nurse passed Epiphanny Prince for #51 all-time in three-pointers (career 369) \u2014 up from #52 entering today \u2014 (5:54 - 1st \u2014 PHX @ TOR)",
+    "kind": "rank_pass",
+    "player": "Kia Nurse",
+    "stat": "three-pointers",
+    "rank": 51,
+    "passed_players": [
+      "Epiphanny Prince"
+    ],
+    "new_total": 369
+  },
+  {
     "ts": "2026-06-27T18:07:00+00:00",
     "text": "Julie Allemand reached 300 career rebounds (now 300) \u2014 (7:30 - 1st \u2014 PHX @ TOR)",
     "kind": "round",
@@ -2998,17 +3010,5 @@
       "Tiffany Mitchell"
     ],
     "new_total": 605
-  },
-  {
-    "ts": "2026-06-09T01:21:00+00:00",
-    "text": "Michaela Onyenwere passed Shenise Johnson for #153 all-time in three-pointers (career 144) \u2014 up from #156 entering today \u2014 (1:31 - 4th \u2014 IND @ WSH)",
-    "kind": "rank_pass",
-    "player": "Michaela Onyenwere",
-    "stat": "three-pointers",
-    "rank": 153,
-    "passed_players": [
-      "Shenise Johnson"
-    ],
-    "new_total": 144
   }
 ]
