@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-27 01:26 UTC_
+_Last updated: 2026-06-27 01:27 UTC_
 
 ## Contents
 
@@ -64,7 +64,7 @@ _Last updated: 2026-06-27 01:26 UTC_
 | 43 | Crystal Langhorne | 4,433 |
 | 43 | Jia Perkins | 4,433 |
 | 45 | Kelsey Plum | 4,395 |
-| 46 | **Courtney Vandersloot** 🔴 +8 | 4,360 |
+| 46 | **Courtney Vandersloot** 🔴 +10 | 4,362 |
 | 47 | Allisha Gray | 4,339 |
 | 48 | Sophia Young-Malcolm | 4,300 |
 | 49 | Kahleah Copper | 4,283 |
@@ -196,8 +196,8 @@ _Last updated: 2026-06-27 01:26 UTC_
 | 175 | Candice Wiggins | 1,901 |
 | 176 | Natisha Hiedeman | 1,858 |
 | 177 | Isabelle Harrison | 1,832 |
-| 178 | Damiris Dantas | 1,830 |
-| 179 | **Rachel Banham** 🔴 +6 | 1,829 |
+| 178 | **Rachel Banham** 🔴 +8 | 1,831 |
+| 179 | Damiris Dantas | 1,830 |
 | 180 | Tianna Hawkins | 1,825 |
 | 181 | Noelle Quinn | 1,824 |
 | 182 | Danielle Adams | 1,820 |
@@ -295,8 +295,8 @@ _Last updated: 2026-06-27 01:26 UTC_
 | 69 | Alana Beard | 1,420 |
 | 70 | Nakia Sanford | 1,419 |
 | 71 | Kara Braxton | 1,387 |
-| 72 | **Courtney Vandersloot** 🔴 +2 | 1,385 |
-| 72 | Monique Billings | 1,385 |
+| 72 | **Courtney Vandersloot** 🔴 +3 | 1,386 |
+| 73 | Monique Billings | 1,385 |
 | 74 | Allisha Gray | 1,384 |
 | 75 | Katie Smith | 1,383 |
 | 76 | Ebony Hoffman | 1,376 |
@@ -430,7 +430,7 @@ _Last updated: 2026-06-27 01:26 UTC_
 | Rank | Player | Total |
 |-----:|--------|------:|
 | 1 | Sue Bird | 3,234 |
-| 2 | **Courtney Vandersloot** 🔴 +6 | 2,893 |
+| 2 | **Courtney Vandersloot** 🔴 +7 | 2,894 |
 | 3 | Ticha Penicheiro | 2,588 |
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
@@ -563,8 +563,8 @@ _Last updated: 2026-06-27 01:26 UTC_
 | 131 | Tiffany Mitchell | 488 |
 | 133 | Rebekkah Brunson | 486 |
 | 134 | Kahleah Copper | 484 |
-| 135 | **Elizabeth Williams** 🔴 +3 | 470 |
-| 135 | Ukari Figgs | 470 |
+| 135 | **Elizabeth Williams** 🔴 +4 | 471 |
+| 136 | Ukari Figgs | 470 |
 | 137 | Janeth Arcain | 469 |
 | 138 | Erin Phillips | 462 |
 | 139 | Sylvia Fowles | 461 |

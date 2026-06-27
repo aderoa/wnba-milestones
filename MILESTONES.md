@@ -2,6 +2,12 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-27 01:27 UTC
+
+- **Elizabeth Williams** passed **Ukari Figgs** for **#135** all-time in assists (career 471) — up from #137 entering today — _1:10 - 4th — POR @ CHI_
+- **Courtney Vandersloot** passed **Monique Billings** for **#72** all-time in rebounds (career 1,386) — up from #74 entering today — _1:10 - 4th — POR @ CHI_
+- **Rachel Banham** passed **Damiris Dantas** for **#178** all-time in points (career 1,831) — up from #181 entering today — _1:10 - 4th — POR @ CHI_
+
 ## 2026-06-27 01:16 UTC
 
 - **Azurá Stevens** passed **Erin Thorn** and **Nneka Ogwumike** for **#90** all-time in three-pointers (career 244) — up from #93 entering today — _5:57 - 4th — POR @ CHI_

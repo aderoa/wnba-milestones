@@ -1,5 +1,41 @@
 [
   {
+    "ts": "2026-06-27T01:27:00+00:00",
+    "text": "Elizabeth Williams passed Ukari Figgs for #135 all-time in assists (career 471) \u2014 up from #137 entering today \u2014 (1:10 - 4th \u2014 POR @ CHI)",
+    "kind": "rank_pass",
+    "player": "Elizabeth Williams",
+    "stat": "assists",
+    "rank": 135,
+    "passed_players": [
+      "Ukari Figgs"
+    ],
+    "new_total": 471
+  },
+  {
+    "ts": "2026-06-27T01:27:00+00:00",
+    "text": "Courtney Vandersloot passed Monique Billings for #72 all-time in rebounds (career 1,386) \u2014 up from #74 entering today \u2014 (1:10 - 4th \u2014 POR @ CHI)",
+    "kind": "rank_pass",
+    "player": "Courtney Vandersloot",
+    "stat": "rebounds",
+    "rank": 72,
+    "passed_players": [
+      "Monique Billings"
+    ],
+    "new_total": 1386
+  },
+  {
+    "ts": "2026-06-27T01:27:00+00:00",
+    "text": "Rachel Banham passed Damiris Dantas for #178 all-time in points (career 1,831) \u2014 up from #181 entering today \u2014 (1:10 - 4th \u2014 POR @ CHI)",
+    "kind": "rank_pass",
+    "player": "Rachel Banham",
+    "stat": "points",
+    "rank": 178,
+    "passed_players": [
+      "Damiris Dantas"
+    ],
+    "new_total": 1831
+  },
+  {
     "ts": "2026-06-27T01:16:00+00:00",
     "text": "Azur\u00e1 Stevens passed Erin Thorn and Nneka Ogwumike for #90 all-time in three-pointers (career 244) \u2014 up from #93 entering today \u2014 (5:57 - 4th \u2014 POR @ CHI)",
     "kind": "rank_pass",
@@ -2953,41 +2989,5 @@
       "Le'coe Willingham"
     ],
     "new_total": 1553
-  },
-  {
-    "ts": "2026-06-07T00:46:00+00:00",
-    "text": "Satou Sabally passed Alexis Hornbuckle for #199 all-time in fouls (career 451) \u2014 up from #200 entering today \u2014 (3:04 - 2nd \u2014 IND @ NY)",
-    "kind": "rank_pass",
-    "player": "Satou Sabally",
-    "stat": "fouls",
-    "rank": 199,
-    "passed_players": [
-      "Alexis Hornbuckle"
-    ],
-    "new_total": 451
-  },
-  {
-    "ts": "2026-06-07T00:33:00+00:00",
-    "text": "Jonquel Jones passed Yolanda Griffith for #55 all-time in points (career 4,225) \u2014 up from #56 entering today \u2014 (8:10 - 2nd \u2014 IND @ NY)",
-    "kind": "rank_pass",
-    "player": "Jonquel Jones",
-    "stat": "points",
-    "rank": 55,
-    "passed_players": [
-      "Yolanda Griffith"
-    ],
-    "new_total": 4225
-  },
-  {
-    "ts": "2026-06-07T00:31:00+00:00",
-    "text": "Breanna Stewart passed Andrea Stinson for #82 all-time in turnovers (career 572) \u2014 up from #83 entering today \u2014 (8:30 - 2nd \u2014 IND @ NY)",
-    "kind": "rank_pass",
-    "player": "Breanna Stewart",
-    "stat": "turnovers",
-    "rank": 82,
-    "passed_players": [
-      "Andrea Stinson"
-    ],
-    "new_total": 572
   }
 ]
