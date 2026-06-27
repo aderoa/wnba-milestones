@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-27 00:27 UTC_
+_Last updated: 2026-06-27 00:28 UTC_
 
 ## Contents
 
@@ -34,7 +34,7 @@ _Last updated: 2026-06-27 00:27 UTC_
 | 13 | Lisa Leslie | 6,251 |
 | 14 | Breanna Stewart | 6,173 |
 | 15 | Jewell Loyd | 6,078 |
-| 16 | **Brittney Griner** 🔴 +2 | 6,033 |
+| 16 | Brittney Griner | 6,031 |
 | 17 | Lauren Jackson | 6,005 |
 | 17 | Seimone Augustus | 6,005 |
 | 19 | A'ja Wilson | 5,942 |
@@ -241,7 +241,7 @@ _Last updated: 2026-06-27 00:27 UTC_
 | 15 | A'ja Wilson | 2,574 |
 | 15 | DeLisha Milton-Jones | 2,574 |
 | 17 | Breanna Stewart | 2,560 |
-| 18 | **Brittney Griner** 🔴 | 2,556 |
+| 18 | Brittney Griner | 2,556 |
 | 19 | Swin Cash | 2,521 |
 | 20 | Michelle Snow | 2,476 |
 | 21 | Crystal Langhorne | 2,454 |
@@ -519,7 +519,7 @@ _Last updated: 2026-06-27 00:27 UTC_
 | 88 | Lindsay Allen | 657 |
 | 89 | Betty Lennox | 651 |
 | 89 | Plenette Pierson | 651 |
-| 91 | **Brittney Griner** 🔴 +1 | 649 |
+| 91 | Brittney Griner | 648 |
 | 92 | Alex Bentley | 645 |
 | 93 | A'ja Wilson | 637 |
 | 93 | Asjha Jones | 637 |
@@ -635,7 +635,7 @@ _Last updated: 2026-06-27 00:27 UTC_
 | Rank | Player | Total |
 |-----:|--------|------:|
 | 1 | Margo Dydek | 873 |
-| 2 | **Brittney Griner** 🔴 | 868 |
+| 2 | Brittney Griner | 868 |
 | 3 | Lisa Leslie | 818 |
 | 4 | Sylvia Fowles | 721 |
 | 5 | Candace Parker | 619 |
@@ -729,11 +729,11 @@ _Last updated: 2026-06-27 00:27 UTC_
 | 91 | Monique Billings | 129 |
 | 94 | Chiney Ogwumike | 127 |
 | 94 | Kristen Rasmussen | 127 |
-| 94 | **Olivia Nelson-Ododa** 🔴 +2 | 127 |
-| 97 | Chelsea Gray | 126 |
-| 97 | Katie Douglas | 126 |
-| 97 | Mistie Bass | 126 |
-| 100 | Brionna Jones | 125 |
+| 96 | Chelsea Gray | 126 |
+| 96 | Katie Douglas | 126 |
+| 96 | Mistie Bass | 126 |
+| 99 | Brionna Jones | 125 |
+| 99 | Olivia Nelson-Ododa | 125 |
 | 101 | Alyssa Thomas | 123 |
 | 102 | Natalie Williams | 122 |
 | 103 | Ebony Hoffman | 121 |
@@ -831,7 +831,6 @@ _Last updated: 2026-06-27 00:27 UTC_
 | 194 | Satou Sabally | 68 |
 | 196 | Shannon Johnson | 67 |
 | 197 | Crystal Robinson | 65 |
-| 197 | **Kennedy Burke** 🔴 +2 | 65 |
 | 197 | Queen Egbo | 65 |
 | 197 | Riquna Williams | 65 |
 | 197 | Sabrina Ionescu | 65 |
@@ -1039,7 +1038,7 @@ _Last updated: 2026-06-27 00:27 UTC_
 | 195 | Margo Dydek | 174 |
 | 198 | Kamila Vodichkova | 173 |
 | 199 | Kiah Stokes | 172 |
-| 200 | **Brittney Griner** 🔴 | 170 |
+| 200 | Brittney Griner | 170 |
 
 ## Three-pointers
 
@@ -1223,9 +1222,9 @@ _Last updated: 2026-06-27 00:27 UTC_
 | 176 | Jordin Canada | 120 |
 | 177 | Lexie Hull | 118 |
 | 177 | Tonya Edwards | 118 |
-| 179 | **Kennedy Burke** 🔴 +1 | 117 |
-| 180 | Edwige Lawson-Wade | 116 |
-| 180 | Marie Ferdinand-Harris | 116 |
+| 179 | Edwige Lawson-Wade | 116 |
+| 179 | Kennedy Burke | 116 |
+| 179 | Marie Ferdinand-Harris | 116 |
 | 182 | Ebony Hoffman | 115 |
 | 182 | Shey Peddy | 115 |
 | 182 | Stephanie White | 115 |
@@ -1290,7 +1289,7 @@ _Last updated: 2026-06-27 00:27 UTC_
 | 38 | Margo Dydek | 758 |
 | 39 | Tangela Smith | 751 |
 | 40 | Kristi Toliver | 748 |
-| 41 | **Brittney Griner** 🔴 | 743 |
+| 41 | Brittney Griner | 743 |
 | 42 | Monique Currie | 724 |
 | 43 | Michelle Snow | 723 |
 | 44 | Tamecka Dixon | 716 |
@@ -1482,8 +1481,8 @@ _Last updated: 2026-06-27 00:27 UTC_
 | 25 | Lindsay Whalen | 998 |
 | 26 | Rebekkah Brunson | 996 |
 | 27 | Yolanda Griffith | 991 |
-| 28 | **Brittney Griner** 🔴 +2 | 982 |
 | 28 | Lauren Jackson | 982 |
+| 29 | Brittney Griner | 980 |
 | 30 | Nakia Sanford | 979 |
 | 31 | Asjha Jones | 971 |
 | 32 | Alyssa Thomas | 954 |
