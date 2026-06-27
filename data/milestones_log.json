@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-06-27T00:09:00+00:00",
+    "text": "Olivia Nelson-Ododa passed Chiney Ogwumike and Kristen Rasmussen for #94 all-time in blocks (career 128) \u2014 up from #100 entering today \u2014 (8:51 - 2nd \u2014 WSH @ CON)",
+    "kind": "rank_pass",
+    "player": "Olivia Nelson-Ododa",
+    "stat": "blocks",
+    "rank": 94,
+    "passed_players": [
+      "Chiney Ogwumike",
+      "Kristen Rasmussen"
+    ],
+    "new_total": 128
+  },
+  {
     "ts": "2026-06-26T23:47:00+00:00",
     "text": "Courtney Vandersloot passed Katie Smith for #75 all-time in rebounds (career 1,384) \u2014 (3:43 - 1st \u2014 POR @ CHI)",
     "kind": "rank_pass",
@@ -2975,17 +2988,5 @@
       "Kara Braxton"
     ],
     "new_total": 571
-  },
-  {
-    "ts": "2026-06-07T00:20:00+00:00",
-    "text": "Betnijah Laney-Hamilton passed Gabby Williams for #171 all-time in rebounds (career 796) \u2014 (2:53 - 1st \u2014 IND @ NY)",
-    "kind": "rank_pass",
-    "player": "Betnijah Laney-Hamilton",
-    "stat": "rebounds",
-    "rank": 171,
-    "passed_players": [
-      "Gabby Williams"
-    ],
-    "new_total": 796
   }
 ]
