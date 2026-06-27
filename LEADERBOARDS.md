@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-27 03:36 UTC_
+_Last updated: 2026-06-27 03:37 UTC_
 
 ## Contents
 
@@ -48,8 +48,8 @@ _Last updated: 2026-06-27 03:36 UTC_
 | 27 | Swin Cash | 5,119 |
 | 28 | Tangela Smith | 5,035 |
 | 29 | Kelsey Mitchell | 5,003 |
-| 30 | Taj McWilliams-Franklin | 4,992 |
-| 30 | **Tiffany Hayes** 🔴 +7 | 4,992 |
+| 30 | **Tiffany Hayes** 🔴 +8 | 4,993 |
+| 31 | Taj McWilliams-Franklin | 4,992 |
 | 32 | Maya Moore | 4,984 |
 | 33 | Sheryl Swoopes | 4,875 |
 | 34 | Alana Beard | 4,740 |
@@ -156,7 +156,7 @@ _Last updated: 2026-06-27 03:36 UTC_
 | 135 | Betnijah Laney-Hamilton | 2,282 |
 | 136 | Azurá Stevens | 2,271 |
 | 137 | Allison Feaster | 2,258 |
-| 138 | **Jordin Canada** 🔴 +13 | 2,250 |
+| 138 | **Jordin Canada** 🔴 +16 | 2,253 |
 | 139 | Shekinna Stricklen | 2,245 |
 | 140 | Kara Braxton | 2,237 |
 | 140 | Matee Ajavon | 2,237 |
@@ -367,7 +367,7 @@ _Last updated: 2026-06-27 03:36 UTC_
 | 141 | Dominique Canty | 961 |
 | 142 | Armintie Herrington | 960 |
 | 143 | Janell Burse | 944 |
-| 144 | **Angel Reese** 🔴 +10 | 933 |
+| 144 | **Angel Reese** 🔴 +11 | 934 |
 | 145 | Jessica Shepard | 927 |
 | 145 | Merlakia Jones | 927 |
 | 147 | Satou Sabally | 926 |
@@ -502,8 +502,8 @@ _Last updated: 2026-06-27 03:36 UTC_
 | 71 | Epiphanny Prince | 800 |
 | 72 | Mwadi Mabika | 774 |
 | 73 | Marina Mabrey | 772 |
+| 74 | **Allisha Gray** 🔴 +2 | 745 |
 | 74 | Sheri Sam | 745 |
-| 75 | **Allisha Gray** 🔴 +1 | 744 |
 | 76 | Monique Currie | 740 |
 | 77 | Elaine Powell | 728 |
 | 78 | Dearica Hamby | 718 |
@@ -1218,9 +1218,9 @@ _Last updated: 2026-06-27 03:36 UTC_
 | 171 | Michele Timms | 127 |
 | 172 | Tamecka Dixon | 126 |
 | 173 | Charde Houston | 124 |
+| 174 | **Jordin Canada** 🔴 +3 | 123 |
 | 174 | Lisa Leslie | 123 |
-| 175 | **Jordin Canada** 🔴 +2 | 122 |
-| 175 | Sidney Spencer | 122 |
+| 176 | Sidney Spencer | 122 |
 | 177 | Kennedy Burke | 119 |
 | 178 | Lexie Hull | 118 |
 | 178 | Tonya Edwards | 118 |
@@ -1530,7 +1530,7 @@ _Last updated: 2026-06-27 03:36 UTC_
 | 73 | Shameka Christon | 734 |
 | 74 | Becky Hammon | 733 |
 | 75 | Latasha Byears | 730 |
-| 76 | **Allisha Gray** 🔴 +2 | 728 |
+| 76 | **Allisha Gray** 🔴 +3 | 729 |
 | 77 | Elizabeth Williams | 722 |
 | 77 | Kristi Toliver | 722 |
 | 79 | Ariel Atkins | 713 |
