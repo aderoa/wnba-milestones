@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-27 00:12 UTC_
+_Last updated: 2026-06-27 00:13 UTC_
 
 ## Contents
 
@@ -727,9 +727,9 @@ _Last updated: 2026-06-27 00:12 UTC_
 | 91 | Brooke Wyckoff | 129 |
 | 91 | Cathrine Kraayeveld | 129 |
 | 91 | Monique Billings | 129 |
-| 94 | **Olivia Nelson-Ododa** 🔴 +3 | 128 |
-| 95 | Chiney Ogwumike | 127 |
-| 95 | Kristen Rasmussen | 127 |
+| 94 | Chiney Ogwumike | 127 |
+| 94 | Kristen Rasmussen | 127 |
+| 94 | **Olivia Nelson-Ododa** 🔴 +2 | 127 |
 | 97 | Chelsea Gray | 126 |
 | 97 | Katie Douglas | 126 |
 | 97 | Mistie Bass | 126 |
@@ -831,6 +831,7 @@ _Last updated: 2026-06-27 00:12 UTC_
 | 194 | Satou Sabally | 68 |
 | 196 | Shannon Johnson | 67 |
 | 197 | Crystal Robinson | 65 |
+| 197 | **Kennedy Burke** 🔴 +2 | 65 |
 | 197 | Queen Egbo | 65 |
 | 197 | Riquna Williams | 65 |
 | 197 | Sabrina Ionescu | 65 |
@@ -1222,9 +1223,9 @@ _Last updated: 2026-06-27 00:12 UTC_
 | 176 | Jordin Canada | 120 |
 | 177 | Lexie Hull | 118 |
 | 177 | Tonya Edwards | 118 |
-| 179 | Edwige Lawson-Wade | 116 |
-| 179 | **Kennedy Burke** 🔴 | 116 |
-| 179 | Marie Ferdinand-Harris | 116 |
+| 179 | **Kennedy Burke** 🔴 +1 | 117 |
+| 180 | Edwige Lawson-Wade | 116 |
+| 180 | Marie Ferdinand-Harris | 116 |
 | 182 | Ebony Hoffman | 115 |
 | 182 | Shey Peddy | 115 |
 | 182 | Stephanie White | 115 |
@@ -1255,7 +1256,7 @@ _Last updated: 2026-06-27 00:12 UTC_
 | 4 | Tina Thompson | 1,213 |
 | 5 | Lisa Leslie | 1,186 |
 | 6 | DeLisha Milton-Jones | 1,173 |
-| 7 | **Courtney Vandersloot** 🔴 | 1,145 |
+| 7 | **Courtney Vandersloot** 🔴 +1 | 1,146 |
 | 8 | Swin Cash | 1,127 |
 | 9 | Ticha Penicheiro | 1,125 |
 | 10 | Candace Parker | 1,062 |
