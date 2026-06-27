@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-27 01:01 UTC_
+_Last updated: 2026-06-27 01:02 UTC_
 
 ## Contents
 
@@ -118,7 +118,7 @@ _Last updated: 2026-06-27 01:01 UTC_
 | 97 | Marie Ferdinand-Harris | 3,001 |
 | 98 | Emma Meesseman | 2,966 |
 | 99 | **Natasha Cloud** 🔴 +2 | 2,954 |
-| 100 | **Elizabeth Williams** 🔴 | 2,896 |
+| 100 | **Elizabeth Williams** 🔴 +2 | 2,898 |
 | 101 | Natalie Williams | 2,894 |
 | 102 | Jennifer Gillom | 2,888 |
 | 103 | Iziane Castro Marques | 2,862 |
@@ -197,9 +197,9 @@ _Last updated: 2026-06-27 01:01 UTC_
 | 176 | Natisha Hiedeman | 1,858 |
 | 177 | Isabelle Harrison | 1,832 |
 | 178 | Damiris Dantas | 1,830 |
-| 179 | Tianna Hawkins | 1,825 |
-| 180 | Noelle Quinn | 1,824 |
-| 181 | **Rachel Banham** 🔴 | 1,823 |
+| 179 | **Rachel Banham** 🔴 +3 | 1,826 |
+| 180 | Tianna Hawkins | 1,825 |
+| 181 | Noelle Quinn | 1,824 |
 | 182 | Danielle Adams | 1,820 |
 | 183 | Charde Houston | 1,797 |
 | 184 | NaLyssa Smith | 1,775 |
@@ -313,7 +313,7 @@ _Last updated: 2026-06-27 01:01 UTC_
 | 87 | Betty Lennox | 1,296 |
 | 88 | Tari Phillips | 1,274 |
 | 89 | Janel McCarville | 1,261 |
-| 90 | **Azurá Stevens** 🔴 +3 | 1,259 |
+| 90 | **Azurá Stevens** 🔴 +4 | 1,260 |
 | 91 | Liz Cambage | 1,258 |
 | 92 | Tiffany Hayes | 1,244 |
 | 93 | Ezi Magbegor | 1,243 |
@@ -553,10 +553,10 @@ _Last updated: 2026-06-27 01:01 UTC_
 | 122 | Myisha Hines-Allen | 520 |
 | 123 | Caitlin Clark | 517 |
 | 124 | Iziane Castro Marques | 509 |
-| 125 | Brittany Boyd-Jones | 508 |
-| 125 | Chasity Melvin | 508 |
-| 125 | **Rachel Banham** 🔴 | 508 |
-| 125 | Rhyne Howard | 508 |
+| 124 | **Rachel Banham** 🔴 +1 | 509 |
+| 126 | Brittany Boyd-Jones | 508 |
+| 126 | Chasity Melvin | 508 |
+| 126 | Rhyne Howard | 508 |
 | 129 | Anna DeForge | 503 |
 | 129 | Coco Miller | 503 |
 | 131 | Crystal Robinson | 488 |
@@ -1088,7 +1088,7 @@ _Last updated: 2026-06-27 01:01 UTC_
 | 40 | Rhyne Howard | 394 |
 | 42 | Roneeka Hodges | 389 |
 | 43 | **Courtney Vandersloot** 🔴 +1 | 386 |
-| 44 | **Rachel Banham** 🔴 | 384 |
+| 44 | **Rachel Banham** 🔴 +1 | 385 |
 | 45 | Briann January | 381 |
 | 46 | Jasmine Thomas | 376 |
 | 47 | Allison Feaster | 372 |
