@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-27 19:46 UTC
+
+- **Kia Nurse** passed **Kahleah Copper** for **#50** all-time in three-pointers (career 371) — up from #52 entering today — _7:02 - 4th — PHX @ TOR_
+
 ## 2026-06-27 19:43 UTC
 
 - **Isabelle Harrison** passed **Theresa Plaisance** for **#129** all-time in blocks (career 103) — _8:33 - 4th — PHX @ TOR_

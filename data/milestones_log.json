@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-27T19:46:00+00:00",
+    "text": "Kia Nurse passed Kahleah Copper for #50 all-time in three-pointers (career 371) \u2014 up from #52 entering today \u2014 (7:02 - 4th \u2014 PHX @ TOR)",
+    "kind": "rank_pass",
+    "player": "Kia Nurse",
+    "stat": "three-pointers",
+    "rank": 50,
+    "passed_players": [
+      "Kahleah Copper"
+    ],
+    "new_total": 371
+  },
+  {
     "ts": "2026-06-27T19:43:00+00:00",
     "text": "Isabelle Harrison passed Theresa Plaisance for #129 all-time in blocks (career 103) \u2014 (8:33 - 4th \u2014 PHX @ TOR)",
     "kind": "rank_pass",
@@ -3002,17 +3014,5 @@
       "Kayla Thornton"
     ],
     "new_total": 91
-  },
-  {
-    "ts": "2026-06-09T23:31:00+00:00",
-    "text": "Allisha Gray passed Monique Billings for #72 all-time in rebounds (career 1,386) \u2014 up from #73 entering today \u2014 (8:41 - 2nd \u2014 ATL @ CHI)",
-    "kind": "rank_pass",
-    "player": "Allisha Gray",
-    "stat": "rebounds",
-    "rank": 72,
-    "passed_players": [
-      "Monique Billings"
-    ],
-    "new_total": 1386
   }
 ]
