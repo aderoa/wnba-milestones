@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-27 04:01 UTC_
+_Last updated: 2026-06-27 04:02 UTC_
 
 ## Contents
 
@@ -65,7 +65,7 @@ _Last updated: 2026-06-27 04:01 UTC_
 | 43 | Jia Perkins | 4,433 |
 | 45 | Kelsey Plum | 4,395 |
 | 46 | Courtney Vandersloot | 4,362 |
-| 47 | **Allisha Gray** 🔴 +10 | 4,349 |
+| 47 | **Allisha Gray** 🔴 +12 | 4,351 |
 | 48 | Sophia Young-Malcolm | 4,300 |
 | 49 | Kahleah Copper | 4,283 |
 | 50 | Plenette Pierson | 4,258 |
@@ -208,7 +208,7 @@ _Last updated: 2026-06-27 04:01 UTC_
 | 187 | Sandy Brondello | 1,759 |
 | 188 | Sophie Cunningham | 1,752 |
 | 189 | Sugar Rodgers | 1,733 |
-| 190 | **Gabby Williams** 🔴 +3 | 1,726 |
+| 190 | **Gabby Williams** 🔴 +5 | 1,728 |
 | 191 | Moriah Jefferson | 1,722 |
 | 192 | Armintie Herrington | 1,696 |
 | 193 | Nikki Teasley | 1,690 |
@@ -477,7 +477,7 @@ _Last updated: 2026-06-27 04:01 UTC_
 | 46 | Tamecka Dixon | 960 |
 | 47 | Breanna Stewart | 953 |
 | 48 | Kara Lawson | 946 |
-| 49 | **Tiffany Hayes** 🔴 +4 | 940 |
+| 49 | **Tiffany Hayes** 🔴 +5 | 941 |
 | 50 | Deanna Nolan | 930 |
 | 51 | Kelly Miller | 927 |
 | 52 | DeLisha Milton-Jones | 921 |
@@ -893,8 +893,8 @@ _Last updated: 2026-06-27 04:01 UTC_
 | 51 | Briann January | 386 |
 | 52 | Swin Cash | 384 |
 | 52 | Tina Charles | 384 |
+| 54 | **Jordin Canada** 🔴 +2 | 382 |
 | 54 | **Tiffany Hayes** 🔴 | 382 |
-| 55 | **Jordin Canada** 🔴 +1 | 381 |
 | 56 | Ariel Atkins | 380 |
 | 57 | Monique Currie | 378 |
 | 58 | Chamique Holdsclaw | 376 |
@@ -1561,7 +1561,7 @@ _Last updated: 2026-06-27 04:01 UTC_
 | 104 | Tari Phillips | 648 |
 | 105 | Marie Ferdinand-Harris | 646 |
 | 106 | Charlotte Smith | 638 |
-| 107 | **Kiah Stokes** 🔴 +3 | 635 |
+| 107 | **Kiah Stokes** 🔴 +4 | 636 |
 | 108 | Janell Burse | 632 |
 | 109 | Nicole Ohlde | 631 |
 | 110 | Jennifer Gillom | 629 |
