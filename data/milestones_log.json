@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-28T19:12:00+00:00",
+    "text": "Natasha Howard passed Erika de Souza for #19 all-time in blocks (career 371) \u2014 up from #20 entering today \u2014 (8:24 - 3rd \u2014 MIN @ DAL)",
+    "kind": "rank_pass",
+    "player": "Natasha Howard",
+    "stat": "blocks",
+    "rank": 19,
+    "passed_players": [
+      "Erika de Souza"
+    ],
+    "new_total": 371
+  },
+  {
     "ts": "2026-06-28T19:11:00+00:00",
     "text": "Jessica Shepard passed Jasmine Thomas for #127 all-time in rebounds (career 1,028) \u2014 up from #129 entering today \u2014 (9:24 - 3rd \u2014 MIN @ DAL)",
     "kind": "rank_pass",
@@ -2975,18 +2987,5 @@
       "Kedra Holland-Corn"
     ],
     "new_total": 308
-  },
-  {
-    "ts": "2026-06-13T02:21:00+00:00",
-    "text": "Kayla Thornton passed Allie Quigley and Alysha Clark for #144 all-time in blocks (career 91) \u2014 up from #146 entering today \u2014 (2:48 - 1st \u2014 GS @ SEA)",
-    "kind": "rank_pass",
-    "player": "Kayla Thornton",
-    "stat": "blocks",
-    "rank": 144,
-    "passed_players": [
-      "Allie Quigley",
-      "Alysha Clark"
-    ],
-    "new_total": 91
   }
 ]
