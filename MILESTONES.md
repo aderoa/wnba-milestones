@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-28 19:42 UTC
+
+- **Jessica Shepard** passed **Michelle Snow** for **#152** all-time in assists (career 438) — up from #153 entering today — _7:30 - 4th — MIN @ DAL_
+
 ## 2026-06-28 19:25 UTC
 
 - **Courtney Williams** passed **Kristi Toliver** for **#84** all-time in steals (career 330) — _2:18 - 3rd — MIN @ DAL_

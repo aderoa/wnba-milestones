@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-28T19:42:00+00:00",
+    "text": "Jessica Shepard passed Michelle Snow for #152 all-time in assists (career 438) \u2014 up from #153 entering today \u2014 (7:30 - 4th \u2014 MIN @ DAL)",
+    "kind": "rank_pass",
+    "player": "Jessica Shepard",
+    "stat": "assists",
+    "rank": 152,
+    "passed_players": [
+      "Michelle Snow"
+    ],
+    "new_total": 438
+  },
+  {
     "ts": "2026-06-28T19:25:00+00:00",
     "text": "Courtney Williams passed Kristi Toliver for #84 all-time in steals (career 330) \u2014 (2:18 - 3rd \u2014 MIN @ DAL)",
     "kind": "rank_pass",
@@ -2976,17 +2988,5 @@
       "Sophie Cunningham"
     ],
     "new_total": 524
-  },
-  {
-    "ts": "2026-06-14T00:23:00+00:00",
-    "text": "Aliyah Boston passed Kia Nurse for #166 all-time in assists (career 403) \u2014 up from #169 entering today \u2014 (Final \u2014 IND @ CON)",
-    "kind": "rank_pass",
-    "player": "Aliyah Boston",
-    "stat": "assists",
-    "rank": 166,
-    "passed_players": [
-      "Kia Nurse"
-    ],
-    "new_total": 403
   }
 ]
