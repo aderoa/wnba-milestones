@@ -2,6 +2,11 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-28 22:22 UTC
+
+- **A'ja Wilson** passed **Janel McCarville** for **#113** all-time in turnovers (career 492) — up from #114 entering today — _59.3 - 4th — LV @ CHI_
+- **Azurá Stevens** passed **Nikki Teasley** for **#159** all-time in steals (career 212) — up from #160 entering today — _59.3 - 4th — LV @ CHI_
+
 ## 2026-06-28 22:19 UTC
 
 - **A'ja Wilson** passed **Natisha Hiedeman** for **#87** all-time in assists (career 669) — up from #88 entering today — _1:27 - 4th — LV @ CHI_

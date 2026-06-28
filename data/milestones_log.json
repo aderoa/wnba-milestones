@@ -1,5 +1,29 @@
 [
   {
+    "ts": "2026-06-28T22:22:00+00:00",
+    "text": "A'ja Wilson passed Janel McCarville for #113 all-time in turnovers (career 492) \u2014 up from #114 entering today \u2014 (59.3 - 4th \u2014 LV @ CHI)",
+    "kind": "rank_pass",
+    "player": "A'ja Wilson",
+    "stat": "turnovers",
+    "rank": 113,
+    "passed_players": [
+      "Janel McCarville"
+    ],
+    "new_total": 492
+  },
+  {
+    "ts": "2026-06-28T22:22:00+00:00",
+    "text": "Azur\u00e1 Stevens passed Nikki Teasley for #159 all-time in steals (career 212) \u2014 up from #160 entering today \u2014 (59.3 - 4th \u2014 LV @ CHI)",
+    "kind": "rank_pass",
+    "player": "Azur\u00e1 Stevens",
+    "stat": "steals",
+    "rank": 159,
+    "passed_players": [
+      "Nikki Teasley"
+    ],
+    "new_total": 212
+  },
+  {
     "ts": "2026-06-28T22:19:00+00:00",
     "text": "A'ja Wilson passed Natisha Hiedeman for #87 all-time in assists (career 669) \u2014 up from #88 entering today \u2014 (1:27 - 4th \u2014 LV @ CHI)",
     "kind": "rank_pass",
@@ -2965,31 +2989,5 @@
       "Sheryl Swoopes"
     ],
     "new_total": 271
-  },
-  {
-    "ts": "2026-06-16T01:47:00+00:00",
-    "text": "Cheyenne Parker-Tyus passed Adrian Williams-Strong, Kahleah Copper, and Moriah Jefferson for #150 all-time in steals (career 217) \u2014 up from #155 entering today \u2014 (5:08 - 4th \u2014 LV @ DAL)",
-    "kind": "rank_pass",
-    "player": "Cheyenne Parker-Tyus",
-    "stat": "steals",
-    "rank": 150,
-    "passed_players": [
-      "Adrian Williams-Strong",
-      "Kahleah Copper",
-      "Moriah Jefferson"
-    ],
-    "new_total": 217
-  },
-  {
-    "ts": "2026-06-16T01:46:00+00:00",
-    "text": "Jessica Shepard passed Rita Williams for #165 all-time in assists (career 404) \u2014 up from #170 entering today \u2014 (6:01 - 4th \u2014 LV @ DAL)",
-    "kind": "rank_pass",
-    "player": "Jessica Shepard",
-    "stat": "assists",
-    "rank": 165,
-    "passed_players": [
-      "Rita Williams"
-    ],
-    "new_total": 404
   }
 ]
