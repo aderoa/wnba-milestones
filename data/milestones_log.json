@@ -1,5 +1,19 @@
 [
   {
+    "ts": "2026-06-28T00:40:00+00:00",
+    "text": "Myisha Hines-Allen passed Kara Wolters, Noelle Quinn, and Tierra Ruffin-Pratt for #171 all-time in blocks (career 78) \u2014 up from #172 entering today \u2014 (6:39 - 2nd \u2014 LA @ IND)",
+    "kind": "rank_pass",
+    "player": "Myisha Hines-Allen",
+    "stat": "blocks",
+    "rank": 171,
+    "passed_players": [
+      "Kara Wolters",
+      "Noelle Quinn",
+      "Tierra Ruffin-Pratt"
+    ],
+    "new_total": 78
+  },
+  {
     "ts": "2026-06-28T00:36:00+00:00",
     "text": "Monique Billings passed Erin Phillips for #187 all-time in steals (career 183) \u2014 up from #188 entering today \u2014 (7:34 - 2nd \u2014 LA @ IND)",
     "kind": "rank_pass",
@@ -2986,18 +3000,5 @@
       "Marie Ferdinand-Harris"
     ],
     "new_total": 117
-  },
-  {
-    "ts": "2026-06-10T04:12:00+00:00",
-    "text": "Kahleah Copper passed Adrian Williams-Strong and Moriah Jefferson for #150 all-time in steals (career 217) \u2014 up from #151 entering today \u2014 (Final \u2014 PHX @ GS)",
-    "kind": "rank_pass",
-    "player": "Kahleah Copper",
-    "stat": "steals",
-    "rank": 150,
-    "passed_players": [
-      "Adrian Williams-Strong",
-      "Moriah Jefferson"
-    ],
-    "new_total": 217
   }
 ]

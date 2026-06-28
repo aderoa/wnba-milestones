@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-28 00:40 UTC
+
+- **Myisha Hines-Allen** passed **Kara Wolters**, **Noelle Quinn**, and **Tierra Ruffin-Pratt** for **#171** all-time in blocks (career 78) — up from #172 entering today — _6:39 - 2nd — LA @ IND_
+
 ## 2026-06-28 00:36 UTC
 
 - **Monique Billings** passed **Erin Phillips** for **#187** all-time in steals (career 183) — up from #188 entering today — _7:34 - 2nd — LA @ IND_
