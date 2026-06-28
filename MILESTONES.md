@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-28 01:59 UTC
+
+- **Erica Wheeler** passed **Briann January** for **#20** all-time in assists (career 1,340) — up from #22 entering today — _6:21 - 4th — LA @ IND_
+
 ## 2026-06-28 01:51 UTC
 
 - **Sophie Cunningham** passed **Anna DeForge** for **#61** all-time in three-pointers (career 335) — up from #62 entering today — _8:29 - 4th — LA @ IND_

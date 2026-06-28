@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-28T01:59:00+00:00",
+    "text": "Erica Wheeler passed Briann January for #20 all-time in assists (career 1,340) \u2014 up from #22 entering today \u2014 (6:21 - 4th \u2014 LA @ IND)",
+    "kind": "rank_pass",
+    "player": "Erica Wheeler",
+    "stat": "assists",
+    "rank": 20,
+    "passed_players": [
+      "Briann January"
+    ],
+    "new_total": 1340
+  },
+  {
     "ts": "2026-06-28T01:51:00+00:00",
     "text": "Sophie Cunningham passed Anna DeForge for #61 all-time in three-pointers (career 335) \u2014 up from #62 entering today \u2014 (8:29 - 4th \u2014 LA @ IND)",
     "kind": "rank_pass",
@@ -2972,17 +2984,5 @@
     "stat": "points",
     "value": 900,
     "new_total": 901
-  },
-  {
-    "ts": "2026-06-12T01:36:00+00:00",
-    "text": "Satou Sabally passed Teaira McCowan for #144 all-time in points (career 2,223) \u2014 up from #148 entering today \u2014 (4:27 - 4th \u2014 NY @ ATL)",
-    "kind": "rank_pass",
-    "player": "Satou Sabally",
-    "stat": "points",
-    "rank": 144,
-    "passed_players": [
-      "Teaira McCowan"
-    ],
-    "new_total": 2223
   }
 ]
