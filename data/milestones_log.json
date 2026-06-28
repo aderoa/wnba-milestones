@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-28T18:38:00+00:00",
+    "text": "Nia Coffey passed Azur\u00e1 Stevens for #178 all-time in fouls (career 496) \u2014 up from #179 entering today \u2014 (6:55 - 2nd \u2014 MIN @ DAL)",
+    "kind": "rank_pass",
+    "player": "Nia Coffey",
+    "stat": "fouls",
+    "rank": 178,
+    "passed_players": [
+      "Azur\u00e1 Stevens"
+    ],
+    "new_total": 496
+  },
+  {
     "ts": "2026-06-28T18:33:00+00:00",
     "text": "Kayla McBride passed Jayne Appel Marinelli and Renee Montgomery for #146 all-time in fouls (career 544) \u2014 up from #147 entering today \u2014 (8:15 - 2nd \u2014 MIN @ DAL)",
     "kind": "rank_pass",
@@ -2980,17 +2992,5 @@
       "Jia Perkins"
     ],
     "new_total": 514
-  },
-  {
-    "ts": "2026-06-13T00:02:00+00:00",
-    "text": "Isabelle Harrison passed Nakia Sanford for #187 all-time in steals (career 182) \u2014 up from #189 entering today \u2014 (6:40 - 2nd \u2014 TOR @ WSH)",
-    "kind": "rank_pass",
-    "player": "Isabelle Harrison",
-    "stat": "steals",
-    "rank": 187,
-    "passed_players": [
-      "Nakia Sanford"
-    ],
-    "new_total": 182
   }
 ]

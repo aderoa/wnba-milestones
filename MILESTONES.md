@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-28 18:38 UTC
+
+- **Nia Coffey** passed **Azurá Stevens** for **#178** all-time in fouls (career 496) — up from #179 entering today — _6:55 - 2nd — MIN @ DAL_
+
 ## 2026-06-28 18:33 UTC
 
 - **Kayla McBride** passed **Jayne Appel Marinelli** and **Renee Montgomery** for **#146** all-time in fouls (career 544) — up from #147 entering today — _8:15 - 2nd — MIN @ DAL_
