@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-28 01:27 UTC_
+_Last updated: 2026-06-28 01:28 UTC_
 
 ## Contents
 
@@ -184,8 +184,8 @@ _Last updated: 2026-06-28 01:27 UTC_
 | 163 | Ezi Magbegor | 1,995 |
 | 164 | Bria Hartley | 1,967 |
 | 165 | Chiney Ogwumike | 1,964 |
-| 166 | Nicole Ohlde | 1,959 |
-| 167 | **Myisha Hines-Allen** 🔴 +2 | 1,958 |
+| 166 | **Myisha Hines-Allen** 🔴 +4 | 1,960 |
+| 167 | Nicole Ohlde | 1,959 |
 | 168 | Isabelle Harrison | 1,944 |
 | 169 | Kedra Holland-Corn | 1,938 |
 | 170 | Cathrine Kraayeveld | 1,926 |

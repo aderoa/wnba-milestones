@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-28T01:28:00+00:00",
+    "text": "Myisha Hines-Allen passed Nicole Ohlde for #166 all-time in points (career 1,960) \u2014 up from #167 entering today \u2014 (4:45 - 3rd \u2014 LA @ IND)",
+    "kind": "rank_pass",
+    "player": "Myisha Hines-Allen",
+    "stat": "points",
+    "rank": 166,
+    "passed_players": [
+      "Nicole Ohlde"
+    ],
+    "new_total": 1960
+  },
+  {
     "ts": "2026-06-28T01:26:00+00:00",
     "text": "Tyasha Harris passed Erin Phillips for #139 all-time in assists (career 463) \u2014 up from #141 entering today \u2014 (5:35 - 3rd \u2014 LA @ IND)",
     "kind": "rank_pass",
@@ -2971,20 +2983,5 @@
       "Temeka Johnson"
     ],
     "new_total": 697
-  },
-  {
-    "ts": "2026-06-12T01:25:00+00:00",
-    "text": "Awak Kuier passed Cappie Pondexter, Christi Thomas, Olympia Scott, and Sue Bird for #185 all-time in blocks (career 73) \u2014 (End of 1st \u2014 PHX @ DAL)",
-    "kind": "rank_pass",
-    "player": "Awak Kuier",
-    "stat": "blocks",
-    "rank": 185,
-    "passed_players": [
-      "Cappie Pondexter",
-      "Christi Thomas",
-      "Olympia Scott",
-      "Sue Bird"
-    ],
-    "new_total": 73
   }
 ]
