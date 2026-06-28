@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-28T18:30:00+00:00",
+    "text": "Courtney Williams passed Jonquel Jones for #49 all-time in points (career 4,354) \u2014 up from #50 entering today \u2014 (9:26 - 2nd \u2014 MIN @ DAL)",
+    "kind": "rank_pass",
+    "player": "Courtney Williams",
+    "stat": "points",
+    "rank": 49,
+    "passed_players": [
+      "Jonquel Jones"
+    ],
+    "new_total": 4354
+  },
+  {
     "ts": "2026-06-28T18:18:00+00:00",
     "text": "Nia Coffey passed Temeka Johnson and Tina Charles for #111 all-time in three-pointers (career 198) \u2014 up from #113 entering today \u2014 (2:24 - 1st \u2014 MIN @ DAL)",
     "kind": "rank_pass",
@@ -2979,17 +2991,5 @@
       "Imani McGee-Stafford"
     ],
     "new_total": 96
-  },
-  {
-    "ts": "2026-06-12T03:51:00+00:00",
-    "text": "Chelsea Gray passed Natasha Howard for #40 all-time in points (career 4,529) \u2014 up from #41 entering today \u2014 (5:18 - 4th \u2014 LV @ POR)",
-    "kind": "rank_pass",
-    "player": "Chelsea Gray",
-    "stat": "points",
-    "rank": 40,
-    "passed_players": [
-      "Natasha Howard"
-    ],
-    "new_total": 4529
   }
 ]

@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-28 18:30 UTC
+
+- **Courtney Williams** passed **Jonquel Jones** for **#49** all-time in points (career 4,354) — up from #50 entering today — _9:26 - 2nd — MIN @ DAL_
+
 ## 2026-06-28 18:18 UTC
 
 - **Nia Coffey** passed **Temeka Johnson** and **Tina Charles** for **#111** all-time in three-pointers (career 198) — up from #113 entering today — _2:24 - 1st — MIN @ DAL_
