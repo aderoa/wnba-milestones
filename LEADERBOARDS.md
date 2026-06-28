@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-28 02:36 UTC_
+_Last updated: 2026-06-28 02:37 UTC_
 
 ## Contents
 
@@ -60,7 +60,7 @@ _Last updated: 2026-06-28 02:36 UTC_
 | 39 | Natasha Howard | 4,682 |
 | 40 | Chelsea Gray | 4,625 |
 | 41 | Penny Taylor | 4,595 |
-| 42 | **Allisha Gray** 🔴 +11 | 4,502 |
+| 42 | **Allisha Gray** 🔴 +13 | 4,504 |
 | 43 | Kelsey Plum | 4,494 |
 | 44 | Kristi Toliver | 4,474 |
 | 45 | Kahleah Copper | 4,464 |
@@ -346,7 +346,7 @@ _Last updated: 2026-06-28 02:36 UTC_
 | 120 | Jackie Young | 1,085 |
 | 121 | Svetlana Abrosimova | 1,078 |
 | 122 | Le'coe Willingham | 1,054 |
-| 123 | **Angel Reese** 🔴 +7 | 1,042 |
+| 123 | **Angel Reese** 🔴 +9 | 1,044 |
 | 124 | Nicole Ohlde | 1,040 |
 | 125 | Tamecka Dixon | 1,035 |
 | 126 | Kamila Vodichkova | 1,031 |
@@ -357,7 +357,7 @@ _Last updated: 2026-06-28 02:36 UTC_
 | 131 | Kelly Miller | 1,011 |
 | 131 | Noelle Quinn | 1,011 |
 | 133 | Skylar Diggins | 1,008 |
-| 134 | Damiris Dantas | 1,005 |
+| 134 | Damiris Dantas | 1,006 |
 | 135 | Tiffany Jackson | 1,002 |
 | 136 | Tianna Hawkins | 1,000 |
 | 137 | Marissa Coleman | 995 |
@@ -612,8 +612,8 @@ _Last updated: 2026-06-28 02:36 UTC_
 | 180 | Shenise Johnson | 376 |
 | 181 | Alanna Smith | 374 |
 | 182 | Suzie McConnell Serio | 370 |
-| 183 | Damiris Dantas | 368 |
-| 183 | Kayla Thornton | 368 |
+| 183 | Damiris Dantas | 369 |
+| 184 | Kayla Thornton | 368 |
 | 185 | Roneeka Hodges | 362 |
 | 186 | Andrea Nagy | 361 |
 | 186 | Diamond DeShields | 361 |
@@ -1451,8 +1451,8 @@ _Last updated: 2026-06-28 02:36 UTC_
 | 196 | Crystal Robinson | 299 |
 | 197 | Kayla Thornton | 298 |
 | 198 | Michele Timms | 297 |
-| 199 | Damiris Dantas | 289 |
-| 199 | Nia Coffey | 289 |
+| 199 | Damiris Dantas | 290 |
+| 200 | Nia Coffey | 289 |
 
 ## Personal fouls
 
@@ -1609,8 +1609,8 @@ _Last updated: 2026-06-28 02:36 UTC_
 | 149 | Marissa Coleman | 541 |
 | 149 | Sophie Cunningham | 541 |
 | 151 | Myisha Hines-Allen | 537 |
-| 152 | Damiris Dantas | 533 |
-| 152 | Kristen Rasmussen | 533 |
+| 152 | Damiris Dantas | 535 |
+| 153 | Kristen Rasmussen | 533 |
 | 154 | Amanda Zahui B | 530 |
 | 155 | Candice Wiggins | 525 |
 | 155 | Epiphanny Prince | 525 |
