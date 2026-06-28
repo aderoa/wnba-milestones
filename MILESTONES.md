@@ -2,6 +2,11 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-28 18:43 UTC
+
+- **Nia Coffey** passed **Vanessa Hayden** for **#64** all-time in blocks (career 178) — _3:29 - 2nd — MIN @ DAL_
+- **Jessica Shepard** passed **Sabrina Ionescu** for **#128** all-time in rebounds (career 1,022) — up from #129 entering today — _3:29 - 2nd — MIN @ DAL_
+
 ## 2026-06-28 18:38 UTC
 
 - **Nia Coffey** passed **Azurá Stevens** for **#178** all-time in fouls (career 496) — up from #179 entering today — _6:55 - 2nd — MIN @ DAL_

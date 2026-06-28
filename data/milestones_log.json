@@ -1,5 +1,29 @@
 [
   {
+    "ts": "2026-06-28T18:43:00+00:00",
+    "text": "Nia Coffey passed Vanessa Hayden for #64 all-time in blocks (career 178) \u2014 (3:29 - 2nd \u2014 MIN @ DAL)",
+    "kind": "rank_pass",
+    "player": "Nia Coffey",
+    "stat": "blocks",
+    "rank": 64,
+    "passed_players": [
+      "Vanessa Hayden"
+    ],
+    "new_total": 178
+  },
+  {
+    "ts": "2026-06-28T18:43:00+00:00",
+    "text": "Jessica Shepard passed Sabrina Ionescu for #128 all-time in rebounds (career 1,022) \u2014 up from #129 entering today \u2014 (3:29 - 2nd \u2014 MIN @ DAL)",
+    "kind": "rank_pass",
+    "player": "Jessica Shepard",
+    "stat": "rebounds",
+    "rank": 128,
+    "passed_players": [
+      "Sabrina Ionescu"
+    ],
+    "new_total": 1022
+  },
+  {
     "ts": "2026-06-28T18:38:00+00:00",
     "text": "Nia Coffey passed Azur\u00e1 Stevens for #178 all-time in fouls (career 496) \u2014 up from #179 entering today \u2014 (6:55 - 2nd \u2014 MIN @ DAL)",
     "kind": "rank_pass",
@@ -2967,30 +2991,5 @@
       "Tully Bevilaqua"
     ],
     "new_total": 768
-  },
-  {
-    "ts": "2026-06-13T01:03:00+00:00",
-    "text": "Isabelle Harrison passed Erin Phillips and Sabrina Ionescu for #185 all-time in steals (career 183) \u2014 up from #189 entering today \u2014 (2:03 - 3rd \u2014 TOR @ WSH)",
-    "kind": "rank_pass",
-    "player": "Isabelle Harrison",
-    "stat": "steals",
-    "rank": 185,
-    "passed_players": [
-      "Erin Phillips",
-      "Sabrina Ionescu"
-    ],
-    "new_total": 183
-  },
-  {
-    "ts": "2026-06-13T00:54:00+00:00",
-    "text": "Marina Mabrey passed Jia Perkins for #107 all-time in turnovers (career 514) \u2014 up from #109 entering today \u2014 (4:21 - 3rd \u2014 TOR @ WSH)",
-    "kind": "rank_pass",
-    "player": "Marina Mabrey",
-    "stat": "turnovers",
-    "rank": 107,
-    "passed_players": [
-      "Jia Perkins"
-    ],
-    "new_total": 514
   }
 ]
