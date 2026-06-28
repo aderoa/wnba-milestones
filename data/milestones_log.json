@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-06-28T20:17:00+00:00",
+    "text": "Shakira Austin passed Ebony Hoffman and Essence Carson for #106 all-time in blocks (career 122) \u2014 up from #108 entering today \u2014 (8:12 - 3rd \u2014 POR @ WSH)",
+    "kind": "rank_pass",
+    "player": "Shakira Austin",
+    "stat": "blocks",
+    "rank": 106,
+    "passed_players": [
+      "Ebony Hoffman",
+      "Essence Carson"
+    ],
+    "new_total": 122
+  },
+  {
     "ts": "2026-06-28T20:03:00+00:00",
     "text": "Arike Ogunbowale passed Tiffani Johnson for #180 all-time in rebounds (career 779) \u2014 up from #181 entering today \u2014 (13.1 - 4th \u2014 MIN @ DAL)",
     "kind": "rank_pass",
@@ -2977,17 +2990,5 @@
       "Liz Cambage"
     ],
     "new_total": 265
-  },
-  {
-    "ts": "2026-06-14T03:38:00+00:00",
-    "text": "Natasha Mack passed Krystal Thomas for #106 all-time in blocks (career 119) \u2014 up from #109 entering today \u2014 (7:48 - 4th \u2014 LA @ PHX)",
-    "kind": "rank_pass",
-    "player": "Natasha Mack",
-    "stat": "blocks",
-    "rank": 106,
-    "passed_players": [
-      "Krystal Thomas"
-    ],
-    "new_total": 119
   }
 ]

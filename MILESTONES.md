@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-28 20:17 UTC
+
+- **Shakira Austin** passed **Ebony Hoffman** and **Essence Carson** for **#106** all-time in blocks (career 122) — up from #108 entering today — _8:12 - 3rd — POR @ WSH_
+
 ## 2026-06-28 20:03 UTC
 
 - **Arike Ogunbowale** passed **Tiffani Johnson** for **#180** all-time in rebounds (career 779) — up from #181 entering today — _13.1 - 4th — MIN @ DAL_
