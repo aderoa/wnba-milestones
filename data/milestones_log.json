@@ -1,5 +1,29 @@
 [
   {
+    "ts": "2026-06-28T00:09:00+00:00",
+    "text": "Aliyah Boston passed Cheryl Ford for #73 all-time in blocks (career 161) \u2014 (9:02 - 1st \u2014 LA @ IND)",
+    "kind": "rank_pass",
+    "player": "Aliyah Boston",
+    "stat": "blocks",
+    "rank": 73,
+    "passed_players": [
+      "Cheryl Ford"
+    ],
+    "new_total": 161
+  },
+  {
+    "ts": "2026-06-28T00:09:00+00:00",
+    "text": "Tyasha Harris passed Ukari Figgs for #134 all-time in three-pointers (career 163) \u2014 (9:02 - 1st \u2014 LA @ IND)",
+    "kind": "rank_pass",
+    "player": "Tyasha Harris",
+    "stat": "three-pointers",
+    "rank": 134,
+    "passed_players": [
+      "Ukari Figgs"
+    ],
+    "new_total": 163
+  },
+  {
     "ts": "2026-06-27T20:19:00+00:00",
     "text": "Kia Nurse passed Lindsey Harding for #184 all-time in fouls (career 487) \u2014 up from #186 entering today \u2014 (17.1 - 4th \u2014 PHX @ TOR)",
     "kind": "rank_pass",
@@ -2981,32 +3005,5 @@
       "Natisha Hiedeman"
     ],
     "new_total": 192
-  },
-  {
-    "ts": "2026-06-10T00:46:00+00:00",
-    "text": "Kamilla Cardoso passed Ariel Atkins for #111 all-time in blocks (career 114) \u2014 up from #114 entering today \u2014 (9:42 - 4th \u2014 ATL @ CHI)",
-    "kind": "rank_pass",
-    "player": "Kamilla Cardoso",
-    "stat": "blocks",
-    "rank": 111,
-    "passed_players": [
-      "Ariel Atkins"
-    ],
-    "new_total": 114
-  },
-  {
-    "ts": "2026-06-10T00:42:00+00:00",
-    "text": "Natasha Cloud passed Adrian Williams-Strong, Erlana Larkins, Kalani Brown, and Kristin Folkl for #150 all-time in blocks (career 86) \u2014 up from #155 entering today \u2014 (End of 3rd \u2014 ATL @ CHI)",
-    "kind": "rank_pass",
-    "player": "Natasha Cloud",
-    "stat": "blocks",
-    "rank": 150,
-    "passed_players": [
-      "Adrian Williams-Strong",
-      "Erlana Larkins",
-      "Kalani Brown",
-      "Kristin Folkl"
-    ],
-    "new_total": 86
   }
 ]
