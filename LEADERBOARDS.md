@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-28 01:43 UTC_
+_Last updated: 2026-06-28 01:44 UTC_
 
 ## Contents
 
@@ -45,7 +45,7 @@ _Last updated: 2026-06-28 01:43 UTC_
 | 24 | DeLisha Milton-Jones | 5,571 |
 | 25 | Katie Douglas | 5,545 |
 | 26 | Lindsay Whalen | 5,511 |
-| 27 | **Kelsey Mitchell** 🔴 +21 | 5,219 |
+| 27 | **Kelsey Mitchell** 🔴 +24 | 5,222 |
 | 28 | Swin Cash | 5,119 |
 | 29 | Tiffany Hayes | 5,049 |
 | 30 | Tangela Smith | 5,035 |
@@ -69,7 +69,7 @@ _Last updated: 2026-06-28 01:43 UTC_
 | 48 | Courtney Vandersloot | 4,362 |
 | 49 | Jonquel Jones | 4,353 |
 | 50 | Courtney Williams | 4,350 |
-| 51 | **Dearica Hamby** 🔴 +10 | 4,340 |
+| 51 | **Dearica Hamby** 🔴 +11 | 4,341 |
 | 52 | Sophia Young-Malcolm | 4,300 |
 | 53 | Plenette Pierson | 4,258 |
 | 54 | Monique Currie | 4,253 |
@@ -1507,7 +1507,7 @@ _Last updated: 2026-06-28 01:43 UTC_
 | 47 | Cappie Pondexter | 869 |
 | 48 | Erika de Souza | 858 |
 | 49 | Angel McCoughtry | 857 |
-| 50 | **Dearica Hamby** 🔴 +3 | 853 |
+| 50 | **Dearica Hamby** 🔴 +4 | 854 |
 | 51 | Betty Lennox | 851 |
 | 52 | Tamecka Dixon | 849 |
 | 53 | Natalie Williams | 847 |
@@ -1601,7 +1601,7 @@ _Last updated: 2026-06-28 01:43 UTC_
 | 141 | Glory Johnson | 550 |
 | 141 | Tierra Ruffin-Pratt | 550 |
 | 143 | Jackie Young | 548 |
-| 144 | **Monique Billings** 🔴 +1 | 547 |
+| 143 | **Monique Billings** 🔴 +2 | 548 |
 | 145 | Erlana Larkins | 546 |
 | 146 | Jayne Appel Marinelli | 543 |
 | 146 | Kayla McBride | 543 |
