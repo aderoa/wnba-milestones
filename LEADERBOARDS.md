@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-28 20:59 UTC_
+_Last updated: 2026-06-28 21:00 UTC_
 
 ## Contents
 
@@ -237,7 +237,7 @@ _Last updated: 2026-06-28 20:59 UTC_
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | Alyssa Thomas | 2,858 |
 | 13 | Jonquel Jones | 2,728 |
-| 14 | **A'ja Wilson** 🔴 +7 | 2,664 |
+| 14 | **A'ja Wilson** 🔴 +8 | 2,665 |
 | 15 | Breanna Stewart | 2,632 |
 | 16 | Sancho Lyttle | 2,596 |
 | 17 | Brittney Griner | 2,579 |
@@ -297,8 +297,8 @@ _Last updated: 2026-06-28 20:59 UTC_
 | 71 | Nakia Sanford | 1,419 |
 | 72 | Kayla Thornton | 1,408 |
 | 73 | Allisha Gray | 1,404 |
+| 74 | **Courtney Vandersloot** 🔴 +1 | 1,387 |
 | 74 | Kara Braxton | 1,387 |
-| 75 | **Courtney Vandersloot** 🔴 | 1,386 |
 | 76 | Katie Smith | 1,383 |
 | 77 | Ebony Hoffman | 1,376 |
 | 78 | **Jewell Loyd** 🔴 | 1,371 |
@@ -1635,9 +1635,9 @@ _Last updated: 2026-06-28 20:59 UTC_
 | 174 | Elena Baranova | 501 |
 | 175 | Nia Coffey | 498 |
 | 176 | Adrian Williams-Strong | 497 |
+| 176 | **Azurá Stevens** 🔴 +2 | 497 |
 | 176 | Essence Carson | 497 |
 | 176 | Rachel Banham | 497 |
-| 179 | **Azurá Stevens** 🔴 +1 | 496 |
 | 180 | Karima Christmas-Kelly | 494 |
 | 181 | Ann Wauters | 493 |
 | 181 | Riquna Williams | 493 |
