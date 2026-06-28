@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-28T00:33:00+00:00",
+    "text": "Monique Billings passed Tamera Young for #68 all-time in rebounds (career 1,434) \u2014 up from #69 entering today \u2014 (8:25 - 2nd \u2014 LA @ IND)",
+    "kind": "rank_pass",
+    "player": "Monique Billings",
+    "stat": "rebounds",
+    "rank": 68,
+    "passed_players": [
+      "Tamera Young"
+    ],
+    "new_total": 1434
+  },
+  {
     "ts": "2026-06-28T00:32:00+00:00",
     "text": "Kelsey Mitchell passed Breanna Stewart for #80 all-time in turnovers (career 587) \u2014 up from #81 entering today \u2014 (9:05 - 2nd \u2014 LA @ IND)",
     "kind": "rank_pass",
@@ -2989,14 +3001,5 @@
       "Marie Ferdinand-Harris"
     ],
     "new_total": 117
-  },
-  {
-    "ts": "2026-06-10T01:16:00+00:00",
-    "text": "Natasha Howard reached 600 career assists (now 600) \u2014 (4:38 - 3rd \u2014 DAL @ MIN)",
-    "kind": "round",
-    "player": "Natasha Howard",
-    "stat": "assists",
-    "value": 600,
-    "new_total": 600
   }
 ]
