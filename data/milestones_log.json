@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-28T20:45:00+00:00",
+    "text": "Chelsea Gray passed Tiffany Hayes for #94 all-time in rebounds (career 1,258) \u2014 (8:09 - 2nd \u2014 LV @ CHI)",
+    "kind": "rank_pass",
+    "player": "Chelsea Gray",
+    "stat": "rebounds",
+    "rank": 94,
+    "passed_players": [
+      "Tiffany Hayes"
+    ],
+    "new_total": 1258
+  },
+  {
     "ts": "2026-06-28T20:36:00+00:00",
     "text": "Jewell Loyd passed Leilani Mitchell for #96 all-time in fouls (career 685) \u2014 (1:13 - 1st \u2014 LV @ CHI)",
     "kind": "rank_pass",
@@ -2976,18 +2988,5 @@
       "Damiris Dantas"
     ],
     "new_total": 1000
-  },
-  {
-    "ts": "2026-06-14T19:21:00+00:00",
-    "text": "Rhyne Howard passed Jennifer Gillom and Jia Perkins for #125 all-time in blocks (career 104) \u2014 up from #127 entering today \u2014 (41.4 - 1st \u2014 ATL @ TOR)",
-    "kind": "rank_pass",
-    "player": "Rhyne Howard",
-    "stat": "blocks",
-    "rank": 125,
-    "passed_players": [
-      "Jennifer Gillom",
-      "Jia Perkins"
-    ],
-    "new_total": 104
   }
 ]
