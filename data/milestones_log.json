@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-28T01:20:00+00:00",
+    "text": "Tyasha Harris passed Sylvia Fowles for #140 all-time in assists (career 462) \u2014 up from #141 entering today \u2014 (8:39 - 3rd \u2014 LA @ IND)",
+    "kind": "rank_pass",
+    "player": "Tyasha Harris",
+    "stat": "assists",
+    "rank": 140,
+    "passed_players": [
+      "Sylvia Fowles"
+    ],
+    "new_total": 462
+  },
+  {
     "ts": "2026-06-28T01:09:00+00:00",
     "text": "Flau'jae Johnson reached 100 career rebounds (now 100) \u2014 (7:44 - 1st \u2014 ATL @ SEA)",
     "kind": "round",
@@ -2980,17 +2992,5 @@
       "Tiffany Hayes"
     ],
     "new_total": 383
-  },
-  {
-    "ts": "2026-06-11T03:22:00+00:00",
-    "text": "Kelsey Plum passed Kayla Thornton for #115 all-time in steals (career 264) \u2014 up from #118 entering today \u2014 (4:13 - 3rd \u2014 LA @ SEA)",
-    "kind": "rank_pass",
-    "player": "Kelsey Plum",
-    "stat": "steals",
-    "rank": 115,
-    "passed_players": [
-      "Kayla Thornton"
-    ],
-    "new_total": 264
   }
 ]
