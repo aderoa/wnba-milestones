@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-28 01:51 UTC
+
+- **Sophie Cunningham** passed **Anna DeForge** for **#61** all-time in three-pointers (career 335) — up from #62 entering today — _8:29 - 4th — LA @ IND_
+
 ## 2026-06-28 01:50 UTC
 
 - **Erica Wheeler** reached **700** career turnovers (now 700) — _9:14 - 4th — LA @ IND_

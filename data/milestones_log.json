@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-28T01:51:00+00:00",
+    "text": "Sophie Cunningham passed Anna DeForge for #61 all-time in three-pointers (career 335) \u2014 up from #62 entering today \u2014 (8:29 - 4th \u2014 LA @ IND)",
+    "kind": "rank_pass",
+    "player": "Sophie Cunningham",
+    "stat": "three-pointers",
+    "rank": 61,
+    "passed_players": [
+      "Anna DeForge"
+    ],
+    "new_total": 335
+  },
+  {
     "ts": "2026-06-28T01:50:00+00:00",
     "text": "Erica Wheeler reached 700 career turnovers (now 700) \u2014 (9:14 - 4th \u2014 LA @ IND)",
     "kind": "round",
@@ -2972,17 +2984,5 @@
       "Teaira McCowan"
     ],
     "new_total": 2223
-  },
-  {
-    "ts": "2026-06-12T01:35:00+00:00",
-    "text": "Aliyah Boston passed Nicole Ohlde for #164 all-time in points (career 1,960) \u2014 up from #166 entering today \u2014 (1:10 - OT \u2014 CHI @ IND)",
-    "kind": "rank_pass",
-    "player": "Aliyah Boston",
-    "stat": "points",
-    "rank": 164,
-    "passed_players": [
-      "Nicole Ohlde"
-    ],
-    "new_total": 1960
   }
 ]
