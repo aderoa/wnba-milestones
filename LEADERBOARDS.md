@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-28 02:14 UTC_
+_Last updated: 2026-06-28 02:15 UTC_
 
 ## Contents
 
@@ -1526,8 +1526,8 @@ _Last updated: 2026-06-28 02:14 UTC_
 | 66 | Natasha Cloud | 773 |
 | 67 | Sheri Sam | 766 |
 | 68 | Kahleah Copper | 761 |
+| 69 | **Allisha Gray** 🔴 +3 | 755 |
 | 69 | Kia Vaughn | 755 |
-| 70 | **Allisha Gray** 🔴 +2 | 754 |
 | 71 | Vickie Johnson | 752 |
 | 72 | Kara Braxton | 748 |
 | 73 | Crystal Langhorne | 737 |
@@ -1609,7 +1609,7 @@ _Last updated: 2026-06-28 02:14 UTC_
 | 149 | Marissa Coleman | 541 |
 | 149 | **Sophie Cunningham** 🔴 +3 | 541 |
 | 151 | **Myisha Hines-Allen** 🔴 +2 | 537 |
-| 152 | **Damiris Dantas** 🔴 +1 | 534 |
+| 152 | **Damiris Dantas** 🔴 +2 | 535 |
 | 153 | Kristen Rasmussen | 533 |
 | 154 | Amanda Zahui B | 530 |
 | 155 | Candice Wiggins | 525 |
