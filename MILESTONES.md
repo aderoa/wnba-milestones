@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-28 21:43 UTC
+
+- **NaLyssa Smith** passed **Seimone Augustus** for **#191** all-time in fouls (career 478) — up from #193 entering today — _49.5 - 3rd — LV @ CHI_
+
 ## 2026-06-28 21:38 UTC
 
 - **Jewell Loyd** passed **Breanna Stewart**, **Cheyenne Parker-Tyus**, and **Jasmine Thomas** for **#92** all-time in fouls (career 686) — up from #95 entering today — _3:30 - 3rd — LV @ CHI_

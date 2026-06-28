@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-28T21:43:00+00:00",
+    "text": "NaLyssa Smith passed Seimone Augustus for #191 all-time in fouls (career 478) \u2014 up from #193 entering today \u2014 (49.5 - 3rd \u2014 LV @ CHI)",
+    "kind": "rank_pass",
+    "player": "NaLyssa Smith",
+    "stat": "fouls",
+    "rank": 191,
+    "passed_players": [
+      "Seimone Augustus"
+    ],
+    "new_total": 478
+  },
+  {
     "ts": "2026-06-28T21:38:00+00:00",
     "text": "Jewell Loyd passed Breanna Stewart, Cheyenne Parker-Tyus, and Jasmine Thomas for #92 all-time in fouls (career 686) \u2014 up from #95 entering today \u2014 (3:30 - 3rd \u2014 LV @ CHI)",
     "kind": "rank_pass",
@@ -2981,17 +2993,5 @@
       "Loree Moore"
     ],
     "new_total": 256
-  },
-  {
-    "ts": "2026-06-14T20:58:00+00:00",
-    "text": "Satou Sabally passed Sylvia Fowles for #139 all-time in assists (career 462) \u2014 up from #140 entering today \u2014 (3:55 - 4th \u2014 WSH @ NY)",
-    "kind": "rank_pass",
-    "player": "Satou Sabally",
-    "stat": "assists",
-    "rank": 139,
-    "passed_players": [
-      "Sylvia Fowles"
-    ],
-    "new_total": 462
   }
 ]
