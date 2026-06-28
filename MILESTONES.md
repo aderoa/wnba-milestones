@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-28 00:59 UTC
+
+- **Dearica Hamby** passed **Betty Lennox** for **#50** all-time in fouls (career 852) — up from #51 entering today — _1:12 - 2nd — LA @ IND_
+
 ## 2026-06-28 00:48 UTC
 
 - **Aliyah Boston** passed **Kahleah Copper** for **#100** all-time in rebounds (career 1,205) — up from #102 entering today — _3:22 - 2nd — LA @ IND_

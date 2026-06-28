@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-28T00:59:00+00:00",
+    "text": "Dearica Hamby passed Betty Lennox for #50 all-time in fouls (career 852) \u2014 up from #51 entering today \u2014 (1:12 - 2nd \u2014 LA @ IND)",
+    "kind": "rank_pass",
+    "player": "Dearica Hamby",
+    "stat": "fouls",
+    "rank": 50,
+    "passed_players": [
+      "Betty Lennox"
+    ],
+    "new_total": 852
+  },
+  {
     "ts": "2026-06-28T00:48:00+00:00",
     "text": "Aliyah Boston passed Kahleah Copper for #100 all-time in rebounds (career 1,205) \u2014 up from #102 entering today \u2014 (3:22 - 2nd \u2014 LA @ IND)",
     "kind": "rank_pass",
@@ -2983,17 +2995,5 @@
       "Shekinna Stricklen"
     ],
     "new_total": 469
-  },
-  {
-    "ts": "2026-06-11T01:16:00+00:00",
-    "text": "Marina Mabrey passed Dawn Staley for #138 all-time in fouls (career 552) \u2014 up from #141 entering today \u2014 (2:09 - 4th \u2014 CON @ TOR)",
-    "kind": "rank_pass",
-    "player": "Marina Mabrey",
-    "stat": "fouls",
-    "rank": 138,
-    "passed_players": [
-      "Dawn Staley"
-    ],
-    "new_total": 552
   }
 ]
