@@ -1,5 +1,14 @@
 [
   {
+    "ts": "2026-06-28T00:46:00+00:00",
+    "text": "Aliyah Boston reached 2,100 career points (now 2,100) \u2014 (4:19 - 2nd \u2014 LA @ IND)",
+    "kind": "round",
+    "player": "Aliyah Boston",
+    "stat": "points",
+    "value": 2100,
+    "new_total": 2100
+  },
+  {
     "ts": "2026-06-28T00:45:00+00:00",
     "text": "Ariel Atkins passed Elizabeth Williams for #76 all-time in fouls (career 733) \u2014 up from #77 entering today \u2014 (4:52 - 2nd \u2014 LA @ IND)",
     "kind": "rank_pass",
@@ -2987,18 +2996,5 @@
       "Tierra Ruffin-Pratt"
     ],
     "new_total": 551
-  },
-  {
-    "ts": "2026-06-11T00:41:00+00:00",
-    "text": "Brittney Sykes passed Erin Thorn and Nneka Ogwumike for #90 all-time in three-pointers (career 244) \u2014 up from #92 entering today \u2014 (1:22 - 3rd \u2014 CON @ TOR)",
-    "kind": "rank_pass",
-    "player": "Brittney Sykes",
-    "stat": "three-pointers",
-    "rank": 90,
-    "passed_players": [
-      "Erin Thorn",
-      "Nneka Ogwumike"
-    ],
-    "new_total": 244
   }
 ]
