@@ -2,6 +2,11 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-28 18:18 UTC
+
+- **Nia Coffey** passed **Temeka Johnson** and **Tina Charles** for **#111** all-time in three-pointers (career 198) — up from #113 entering today — _2:24 - 1st — MIN @ DAL_
+- **Arike Ogunbowale** passed **Teresa Weatherspoon** for **#182** all-time in rebounds (career 776) — _2:24 - 1st — MIN @ DAL_
+
 ## 2026-06-28 18:17 UTC
 
 - **Awak Kuier** passed **Nykesha Sales** and **Rushia Brown** for **#165** all-time in blocks (career 81) — _3:18 - 1st — MIN @ DAL_

@@ -1,5 +1,30 @@
 [
   {
+    "ts": "2026-06-28T18:18:00+00:00",
+    "text": "Nia Coffey passed Temeka Johnson and Tina Charles for #111 all-time in three-pointers (career 198) \u2014 up from #113 entering today \u2014 (2:24 - 1st \u2014 MIN @ DAL)",
+    "kind": "rank_pass",
+    "player": "Nia Coffey",
+    "stat": "three-pointers",
+    "rank": 111,
+    "passed_players": [
+      "Temeka Johnson",
+      "Tina Charles"
+    ],
+    "new_total": 198
+  },
+  {
+    "ts": "2026-06-28T18:18:00+00:00",
+    "text": "Arike Ogunbowale passed Teresa Weatherspoon for #182 all-time in rebounds (career 776) \u2014 (2:24 - 1st \u2014 MIN @ DAL)",
+    "kind": "rank_pass",
+    "player": "Arike Ogunbowale",
+    "stat": "rebounds",
+    "rank": 182,
+    "passed_players": [
+      "Teresa Weatherspoon"
+    ],
+    "new_total": 776
+  },
+  {
     "ts": "2026-06-28T18:17:00+00:00",
     "text": "Awak Kuier passed Nykesha Sales and Rushia Brown for #165 all-time in blocks (career 81) \u2014 (3:18 - 1st \u2014 MIN @ DAL)",
     "kind": "rank_pass",
@@ -2966,27 +2991,5 @@
       "Natasha Howard"
     ],
     "new_total": 4529
-  },
-  {
-    "ts": "2026-06-12T03:37:00+00:00",
-    "text": "Bridget Carleton reached 1,400 career points (now 1,401) \u2014 (58.1 - 3rd \u2014 LV @ POR)",
-    "kind": "round",
-    "player": "Bridget Carleton",
-    "stat": "points",
-    "value": 1400,
-    "new_total": 1401
-  },
-  {
-    "ts": "2026-06-12T03:37:00+00:00",
-    "text": "Bridget Carleton passed Alana Beard and Kayla Thornton for #77 all-time in three-pointers (career 289) \u2014 up from #79 entering today \u2014 (58.1 - 3rd \u2014 LV @ POR)",
-    "kind": "rank_pass",
-    "player": "Bridget Carleton",
-    "stat": "three-pointers",
-    "rank": 77,
-    "passed_players": [
-      "Alana Beard",
-      "Kayla Thornton"
-    ],
-    "new_total": 289
   }
 ]
