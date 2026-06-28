@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-28 23:58 UTC
+
+- **Gabby Williams** passed **Bridget Pettis**, **Jennifer Gillom**, and **Katie Lou Samuelson** for **#143** all-time in three-pointers (career 154) — up from #144 entering today — _35.7 - 2nd — NY @ GS_
+
 ## 2026-06-28 23:57 UTC
 
 - **Kayla Thornton** reached **2,400** career points (now 2,400) — _45.4 - 2nd — NY @ GS_

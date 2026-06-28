@@ -1,5 +1,19 @@
 [
   {
+    "ts": "2026-06-28T23:58:00+00:00",
+    "text": "Gabby Williams passed Bridget Pettis, Jennifer Gillom, and Katie Lou Samuelson for #143 all-time in three-pointers (career 154) \u2014 up from #144 entering today \u2014 (35.7 - 2nd \u2014 NY @ GS)",
+    "kind": "rank_pass",
+    "player": "Gabby Williams",
+    "stat": "three-pointers",
+    "rank": 143,
+    "passed_players": [
+      "Bridget Pettis",
+      "Jennifer Gillom",
+      "Katie Lou Samuelson"
+    ],
+    "new_total": 154
+  },
+  {
     "ts": "2026-06-28T23:57:00+00:00",
     "text": "Kayla Thornton reached 2,400 career points (now 2,400) \u2014 (45.4 - 2nd \u2014 NY @ GS)",
     "kind": "round",
@@ -2968,19 +2982,5 @@
       "Kayla Thornton"
     ],
     "new_total": 295
-  },
-  {
-    "ts": "2026-06-17T01:09:00+00:00",
-    "text": "Kia Nurse passed Jordin Canada, Kara Braxton, and Matee Ajavon for #139 all-time in points (career 2,239) \u2014 up from #142 entering today \u2014 (57.9 - 4th \u2014 TOR @ IND)",
-    "kind": "rank_pass",
-    "player": "Kia Nurse",
-    "stat": "points",
-    "rank": 139,
-    "passed_players": [
-      "Jordin Canada",
-      "Kara Braxton",
-      "Matee Ajavon"
-    ],
-    "new_total": 2239
   }
 ]
