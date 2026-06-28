@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-28 00:42 UTC
+
+- **Dearica Hamby** passed **DeMya Walker** for **#51** all-time in turnovers (career 685) — up from #52 entering today — _6:05 - 2nd — LA @ IND_
+
 ## 2026-06-28 00:40 UTC
 
 - **Myisha Hines-Allen** passed **Kara Wolters**, **Noelle Quinn**, and **Tierra Ruffin-Pratt** for **#171** all-time in blocks (career 78) — up from #172 entering today — _6:39 - 2nd — LA @ IND_
