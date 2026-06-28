@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-28 21:27 UTC
+
+- **Azurá Stevens** passed **Adrian Williams-Strong**, **Essence Carson**, and **Rachel Banham** for **#175** all-time in fouls (career 498) — up from #178 entering today — _7:31 - 3rd — LV @ CHI_
+
 ## 2026-06-28 21:26 UTC
 
 - **Bridget Carleton** passed **Tamika Raymond** for **#195** all-time in steals (career 176) — up from #199 entering today — _4:22 - OT — POR @ WSH_

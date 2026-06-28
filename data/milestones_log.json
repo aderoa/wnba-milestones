@@ -1,5 +1,19 @@
 [
   {
+    "ts": "2026-06-28T21:27:00+00:00",
+    "text": "Azur\u00e1 Stevens passed Adrian Williams-Strong, Essence Carson, and Rachel Banham for #175 all-time in fouls (career 498) \u2014 up from #178 entering today \u2014 (7:31 - 3rd \u2014 LV @ CHI)",
+    "kind": "rank_pass",
+    "player": "Azur\u00e1 Stevens",
+    "stat": "fouls",
+    "rank": 175,
+    "passed_players": [
+      "Adrian Williams-Strong",
+      "Essence Carson",
+      "Rachel Banham"
+    ],
+    "new_total": 498
+  },
+  {
     "ts": "2026-06-28T21:26:00+00:00",
     "text": "Bridget Carleton passed Tamika Raymond for #195 all-time in steals (career 176) \u2014 up from #199 entering today \u2014 (4:22 - OT \u2014 POR @ WSH)",
     "kind": "rank_pass",
@@ -2979,17 +2993,5 @@
       "Damiris Dantas"
     ],
     "new_total": 83
-  },
-  {
-    "ts": "2026-06-14T19:44:00+00:00",
-    "text": "Marine Johann\u00e8s passed Amanda Lassiter for #128 all-time in three-pointers (career 171) \u2014 up from #129 entering today \u2014 (4:23 - 2nd \u2014 WSH @ NY)",
-    "kind": "rank_pass",
-    "player": "Marine Johann\u00e8s",
-    "stat": "three-pointers",
-    "rank": 128,
-    "passed_players": [
-      "Amanda Lassiter"
-    ],
-    "new_total": 171
   }
 ]
