@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-28 21:30 UTC_
+_Last updated: 2026-06-28 21:31 UTC_
 
 ## Contents
 
@@ -727,9 +727,9 @@ _Last updated: 2026-06-28 21:30 UTC_
 | 87 | Seimone Augustus | 133 |
 | 91 | Katie Mattera | 131 |
 | 91 | Nakia Sanford | 131 |
-| 93 | Brooke Wyckoff | 129 |
-| 93 | Cathrine Kraayeveld | 129 |
-| 93 | **Emily Engstler** 🔴 +1 | 129 |
+| 93 | **Emily Engstler** 🔴 +2 | 130 |
+| 94 | Brooke Wyckoff | 129 |
+| 94 | Cathrine Kraayeveld | 129 |
 | 96 | Alyssa Thomas | 127 |
 | 96 | **Chelsea Gray** 🔴 | 127 |
 | 96 | Chiney Ogwumike | 127 |
@@ -740,9 +740,9 @@ _Last updated: 2026-06-28 21:30 UTC_
 | 103 | **Kamilla Cardoso** 🔴 | 124 |
 | 104 | Natasha Mack | 123 |
 | 105 | Natalie Williams | 122 |
-| 106 | Ebony Hoffman | 121 |
-| 106 | Essence Carson | 121 |
-| 106 | **Shakira Austin** 🔴 +2 | 121 |
+| 105 | **Shakira Austin** 🔴 +3 | 122 |
+| 107 | Ebony Hoffman | 121 |
+| 107 | Essence Carson | 121 |
 | 109 | Krystal Thomas | 118 |
 | 110 | Andrea Stinson | 117 |
 | 110 | Crystal Langhorne | 117 |
@@ -1189,8 +1189,8 @@ _Last updated: 2026-06-28 21:30 UTC_
 | 139 | Aari McDonald | 158 |
 | 139 | Jennifer Azzi | 158 |
 | 139 | Natasha Howard | 158 |
-| 142 | Alanna Smith | 156 |
-| 142 | **Michaela Onyenwere** 🔴 +5 | 156 |
+| 142 | **Michaela Onyenwere** 🔴 +6 | 157 |
+| 143 | Alanna Smith | 156 |
 | 144 | Bridget Pettis | 153 |
 | 144 | Gabby Williams | 153 |
 | 144 | Jennifer Gillom | 153 |

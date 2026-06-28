@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-28T21:31:00+00:00",
+    "text": "Michaela Onyenwere passed Alanna Smith for #142 all-time in three-pointers (career 157) \u2014 up from #147 entering today \u2014 (24.3 - OT \u2014 POR @ WSH)",
+    "kind": "rank_pass",
+    "player": "Michaela Onyenwere",
+    "stat": "three-pointers",
+    "rank": 142,
+    "passed_players": [
+      "Alanna Smith"
+    ],
+    "new_total": 157
+  },
+  {
     "ts": "2026-06-28T21:28:00+00:00",
     "text": "Skylar Diggins passed Kelly Miller and Noelle Quinn for #131 all-time in rebounds (career 1,012) \u2014 up from #133 entering today \u2014 (6:40 - 3rd \u2014 LV @ CHI)",
     "kind": "rank_pass",
@@ -2981,18 +2993,5 @@
       "Ruthie Bolton"
     ],
     "new_total": 255
-  },
-  {
-    "ts": "2026-06-14T20:03:00+00:00",
-    "text": "Isabelle Harrison passed Aneika Morello and Tiffani Johnson for #135 all-time in blocks (career 97) \u2014 up from #138 entering today \u2014 (Halftime \u2014 ATL @ TOR)",
-    "kind": "rank_pass",
-    "player": "Isabelle Harrison",
-    "stat": "blocks",
-    "rank": 135,
-    "passed_players": [
-      "Aneika Morello",
-      "Tiffani Johnson"
-    ],
-    "new_total": 97
   }
 ]
