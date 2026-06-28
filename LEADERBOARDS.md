@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-28 19:55 UTC_
+_Last updated: 2026-06-28 19:56 UTC_
 
 ## Contents
 
@@ -57,7 +57,7 @@ _Last updated: 2026-06-28 19:55 UTC_
 | 36 | **Arike Ogunbowale** 🔴 +5 | 4,720 |
 | 37 | Chamique Holdsclaw | 4,713 |
 | 38 | Elena Delle Donne | 4,706 |
-| 39 | **Natasha Howard** 🔴 +15 | 4,697 |
+| 39 | **Natasha Howard** 🔴 +17 | 4,699 |
 | 40 | Chelsea Gray | 4,625 |
 | 41 | Penny Taylor | 4,595 |
 | 42 | Kelsey Plum | 4,494 |
@@ -753,7 +753,7 @@ _Last updated: 2026-06-28 19:55 UTC_
 | 114 | Rhyne Howard | 111 |
 | 114 | Sophia Young-Malcolm | 111 |
 | 114 | Tari Phillips | 111 |
-| 119 | **Courtney Williams** 🔴 | 109 |
+| 119 | **Courtney Williams** 🔴 +1 | 110 |
 | 120 | Erin Perperoglou | 108 |
 | 120 | Glory Johnson | 108 |
 | 122 | Dearica Hamby | 106 |
@@ -1633,10 +1633,10 @@ _Last updated: 2026-06-28 19:55 UTC_
 | 170 | Napheesa Collier | 504 |
 | 173 | Iziane Castro Marques | 502 |
 | 174 | Elena Baranova | 501 |
-| 175 | Adrian Williams-Strong | 497 |
-| 175 | Essence Carson | 497 |
-| 175 | **Nia Coffey** 🔴 +2 | 497 |
-| 175 | Rachel Banham | 497 |
+| 175 | **Nia Coffey** 🔴 +3 | 498 |
+| 176 | Adrian Williams-Strong | 497 |
+| 176 | Essence Carson | 497 |
+| 176 | Rachel Banham | 497 |
 | 179 | Azurá Stevens | 495 |
 | 180 | Karima Christmas-Kelly | 494 |
 | 181 | Ann Wauters | 493 |

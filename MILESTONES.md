@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-28 19:56 UTC
+
+- **Nia Coffey** passed **Adrian Williams-Strong**, **Essence Carson**, and **Rachel Banham** for **#175** all-time in fouls (career 498) — up from #179 entering today — _3:37 - 4th — MIN @ DAL_
+
 ## 2026-06-28 19:42 UTC
 
 - **Jessica Shepard** passed **Michelle Snow** for **#152** all-time in assists (career 438) — up from #153 entering today — _7:30 - 4th — MIN @ DAL_
