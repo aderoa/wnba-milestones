@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-06-28T18:17:00+00:00",
+    "text": "Awak Kuier passed Nykesha Sales and Rushia Brown for #165 all-time in blocks (career 81) \u2014 (3:18 - 1st \u2014 MIN @ DAL)",
+    "kind": "rank_pass",
+    "player": "Awak Kuier",
+    "stat": "blocks",
+    "rank": 165,
+    "passed_players": [
+      "Nykesha Sales",
+      "Rushia Brown"
+    ],
+    "new_total": 81
+  },
+  {
     "ts": "2026-06-28T18:14:00+00:00",
     "text": "Kayla McBride passed Kelsey Plum for #64 all-time in turnovers (career 649) \u2014 (6:16 - 1st \u2014 MIN @ DAL)",
     "kind": "rank_pass",
@@ -2975,17 +2988,5 @@
       "Kayla Thornton"
     ],
     "new_total": 289
-  },
-  {
-    "ts": "2026-06-12T03:35:00+00:00",
-    "text": "Jewell Loyd passed Natasha Howard for #34 all-time in steals (career 448) \u2014 up from #36 entering today \u2014 (2:03 - 3rd \u2014 LV @ POR)",
-    "kind": "rank_pass",
-    "player": "Jewell Loyd",
-    "stat": "steals",
-    "rank": 34,
-    "passed_players": [
-      "Natasha Howard"
-    ],
-    "new_total": 448
   }
 ]
