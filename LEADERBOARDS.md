@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-28 20:50 UTC_
+_Last updated: 2026-06-28 20:51 UTC_
 
 ## Contents
 
@@ -58,7 +58,7 @@ _Last updated: 2026-06-28 20:50 UTC_
 | 37 | Chamique Holdsclaw | 4,713 |
 | 38 | Elena Delle Donne | 4,706 |
 | 39 | Natasha Howard | 4,703 |
-| 40 | **Chelsea Gray** 🔴 +6 | 4,631 |
+| 40 | **Chelsea Gray** 🔴 +8 | 4,633 |
 | 41 | Penny Taylor | 4,595 |
 | 42 | Kelsey Plum | 4,494 |
 | 43 | Allisha Gray | 4,491 |
@@ -1298,7 +1298,7 @@ _Last updated: 2026-06-28 20:50 UTC_
 | 42 | Monique Currie | 724 |
 | 43 | Michelle Snow | 723 |
 | 44 | Tamecka Dixon | 716 |
-| 45 | **Natasha Cloud** 🔴 | 707 |
+| 45 | **Natasha Cloud** 🔴 +1 | 708 |
 | 46 | Erica Wheeler | 699 |
 | 47 | Renee Montgomery | 697 |
 | 48 | Temeka Johnson | 696 |
@@ -1517,7 +1517,7 @@ _Last updated: 2026-06-28 20:50 UTC_
 | 56 | Penny Taylor | 832 |
 | 57 | Dominique Canty | 831 |
 | 57 | Wendy Palmer | 831 |
-| 59 | **Skylar Diggins** 🔴 | 825 |
+| 59 | **Skylar Diggins** 🔴 +1 | 826 |
 | 60 | Shannon Johnson | 813 |
 | 60 | Tully Bevilaqua | 813 |
 | 62 | Erica Wheeler | 808 |
