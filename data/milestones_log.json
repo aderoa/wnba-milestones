@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-28T23:09:00+00:00",
+    "text": "Kayla Thornton passed Crystal Robinson for #97 all-time in fouls (career 683) \u2014 up from #98 entering today \u2014 (6:58 - 1st \u2014 NY @ GS)",
+    "kind": "rank_pass",
+    "player": "Kayla Thornton",
+    "stat": "fouls",
+    "rank": 97,
+    "passed_players": [
+      "Crystal Robinson"
+    ],
+    "new_total": 683
+  },
+  {
     "ts": "2026-06-28T23:08:00+00:00",
     "text": "Jonquel Jones passed Ticha Penicheiro for #41 all-time in fouls (career 914) \u2014 (7:25 - 1st \u2014 NY @ GS)",
     "kind": "rank_pass",
@@ -2976,19 +2988,5 @@
       "Kamila Vodichkova"
     ],
     "new_total": 174
-  },
-  {
-    "ts": "2026-06-16T02:12:00+00:00",
-    "text": "Sug Sutton passed Elena Delle Donne, Kristi Harrower, and Nikki McCray for #144 all-time in assists (career 451) \u2014 up from #148 entering today \u2014 (Final \u2014 LV @ DAL)",
-    "kind": "rank_pass",
-    "player": "Sug Sutton",
-    "stat": "assists",
-    "rank": 144,
-    "passed_players": [
-      "Elena Delle Donne",
-      "Kristi Harrower",
-      "Nikki McCray"
-    ],
-    "new_total": 451
   }
 ]
