@@ -2,6 +2,11 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-28 20:52 UTC
+
+- **Chelsea Gray** passed **Liz Cambage** for **#92** all-time in rebounds (career 1,259) — up from #93 entering today — _6:24 - 2nd — LV @ CHI_
+- **Brianna Turner** passed **Ezi Magbegor** for **#97** all-time in rebounds (career 1,244) — _6:24 - 2nd — LV @ CHI_
+
 ## 2026-06-28 20:45 UTC
 
 - **Chelsea Gray** passed **Tiffany Hayes** for **#94** all-time in rebounds (career 1,258) — _8:09 - 2nd — LV @ CHI_

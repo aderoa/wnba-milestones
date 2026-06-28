@@ -1,5 +1,29 @@
 [
   {
+    "ts": "2026-06-28T20:52:00+00:00",
+    "text": "Chelsea Gray passed Liz Cambage for #92 all-time in rebounds (career 1,259) \u2014 up from #93 entering today \u2014 (6:24 - 2nd \u2014 LV @ CHI)",
+    "kind": "rank_pass",
+    "player": "Chelsea Gray",
+    "stat": "rebounds",
+    "rank": 92,
+    "passed_players": [
+      "Liz Cambage"
+    ],
+    "new_total": 1259
+  },
+  {
+    "ts": "2026-06-28T20:52:00+00:00",
+    "text": "Brianna Turner passed Ezi Magbegor for #97 all-time in rebounds (career 1,244) \u2014 (6:24 - 2nd \u2014 LV @ CHI)",
+    "kind": "rank_pass",
+    "player": "Brianna Turner",
+    "stat": "rebounds",
+    "rank": 97,
+    "passed_players": [
+      "Ezi Magbegor"
+    ],
+    "new_total": 1244
+  },
+  {
     "ts": "2026-06-28T20:45:00+00:00",
     "text": "Chelsea Gray passed Tiffany Hayes for #94 all-time in rebounds (career 1,258) \u2014 (8:09 - 2nd \u2014 LV @ CHI)",
     "kind": "rank_pass",
@@ -2967,26 +2991,5 @@
       "Marie Ferdinand-Harris"
     ],
     "new_total": 519
-  },
-  {
-    "ts": "2026-06-14T19:26:00+00:00",
-    "text": "Sabrina Ionescu reached 1,000 career rebounds (now 1,000) \u2014 (20.3 - 1st \u2014 WSH @ NY)",
-    "kind": "round",
-    "player": "Sabrina Ionescu",
-    "stat": "rebounds",
-    "value": 1000,
-    "new_total": 1000
-  },
-  {
-    "ts": "2026-06-14T19:26:00+00:00",
-    "text": "Sabrina Ionescu passed Damiris Dantas for #132 all-time in rebounds (career 1,000) \u2014 up from #133 entering today \u2014 (20.3 - 1st \u2014 WSH @ NY)",
-    "kind": "rank_pass",
-    "player": "Sabrina Ionescu",
-    "stat": "rebounds",
-    "rank": 132,
-    "passed_players": [
-      "Damiris Dantas"
-    ],
-    "new_total": 1000
   }
 ]
