@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-28T22:08:00+00:00",
+    "text": "Jewell Loyd passed Maya Moore for #91 all-time in fouls (career 687) \u2014 up from #95 entering today \u2014 (4:34 - 4th \u2014 LV @ CHI)",
+    "kind": "rank_pass",
+    "player": "Jewell Loyd",
+    "stat": "fouls",
+    "rank": 91,
+    "passed_players": [
+      "Maya Moore"
+    ],
+    "new_total": 687
+  },
+  {
     "ts": "2026-06-28T22:07:00+00:00",
     "text": "A'ja Wilson reached 6,200 career points (now 6,200) \u2014 (5:25 - 4th \u2014 LV @ CHI)",
     "kind": "round",
@@ -2978,18 +2990,5 @@
       "Elena Baranova"
     ],
     "new_total": 216
-  },
-  {
-    "ts": "2026-06-16T00:28:00+00:00",
-    "text": "Cheyenne Parker-Tyus passed Alysha Clark and Ann Wauters for #129 all-time in turnovers (career 441) \u2014 up from #131 entering today \u2014 (27.7 - 1st \u2014 LV @ DAL)",
-    "kind": "rank_pass",
-    "player": "Cheyenne Parker-Tyus",
-    "stat": "turnovers",
-    "rank": 129,
-    "passed_players": [
-      "Alysha Clark",
-      "Ann Wauters"
-    ],
-    "new_total": 441
   }
 ]

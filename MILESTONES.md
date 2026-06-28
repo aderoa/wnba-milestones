@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-28 22:08 UTC
+
+- **Jewell Loyd** passed **Maya Moore** for **#91** all-time in fouls (career 687) — up from #95 entering today — _4:34 - 4th — LV @ CHI_
+
 ## 2026-06-28 22:07 UTC
 
 - **A'ja Wilson** reached **6,200** career points (now 6,200) — _5:25 - 4th — LV @ CHI_
