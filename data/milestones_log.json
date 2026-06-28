@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-28T00:32:00+00:00",
+    "text": "Kelsey Mitchell passed Breanna Stewart for #80 all-time in turnovers (career 587) \u2014 up from #81 entering today \u2014 (9:05 - 2nd \u2014 LA @ IND)",
+    "kind": "rank_pass",
+    "player": "Kelsey Mitchell",
+    "stat": "turnovers",
+    "rank": 80,
+    "passed_players": [
+      "Breanna Stewart"
+    ],
+    "new_total": 587
+  },
+  {
     "ts": "2026-06-28T00:22:00+00:00",
     "text": "Kelsey Mitchell passed Jennifer Gillom for #112 all-time in fouls (career 630) \u2014 up from #113 entering today \u2014 (2:21 - 1st \u2014 LA @ IND)",
     "kind": "rank_pass",
@@ -2986,17 +2998,5 @@
     "stat": "assists",
     "value": 600,
     "new_total": 600
-  },
-  {
-    "ts": "2026-06-10T01:08:00+00:00",
-    "text": "Courtney Williams passed Betty Lennox for #86 all-time in steals (career 324) \u2014 up from #87 entering today \u2014 (8:03 - 3rd \u2014 DAL @ MIN)",
-    "kind": "rank_pass",
-    "player": "Courtney Williams",
-    "stat": "steals",
-    "rank": 86,
-    "passed_players": [
-      "Betty Lennox"
-    ],
-    "new_total": 324
   }
 ]

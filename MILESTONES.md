@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-28 00:32 UTC
+
+- **Kelsey Mitchell** passed **Breanna Stewart** for **#80** all-time in turnovers (career 587) — up from #81 entering today — _9:05 - 2nd — LA @ IND_
+
 ## 2026-06-28 00:22 UTC
 
 - **Kelsey Mitchell** passed **Jennifer Gillom** for **#112** all-time in fouls (career 630) — up from #113 entering today — _2:21 - 1st — LA @ IND_
