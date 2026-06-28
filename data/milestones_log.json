@@ -1,5 +1,29 @@
 [
   {
+    "ts": "2026-06-28T01:21:00+00:00",
+    "text": "Ariel Atkins passed Becky Hammon for #75 all-time in fouls (career 734) \u2014 up from #77 entering today \u2014 (8:21 - 3rd \u2014 LA @ IND)",
+    "kind": "rank_pass",
+    "player": "Ariel Atkins",
+    "stat": "fouls",
+    "rank": 75,
+    "passed_players": [
+      "Becky Hammon"
+    ],
+    "new_total": 734
+  },
+  {
+    "ts": "2026-06-28T01:21:00+00:00",
+    "text": "Aliyah Boston passed Elena Baranova for #157 all-time in assists (career 431) \u2014 up from #158 entering today \u2014 (8:21 - 3rd \u2014 LA @ IND)",
+    "kind": "rank_pass",
+    "player": "Aliyah Boston",
+    "stat": "assists",
+    "rank": 157,
+    "passed_players": [
+      "Elena Baranova"
+    ],
+    "new_total": 431
+  },
+  {
     "ts": "2026-06-28T01:20:00+00:00",
     "text": "Tyasha Harris passed Sylvia Fowles for #140 all-time in assists (career 462) \u2014 up from #141 entering today \u2014 (8:39 - 3rd \u2014 LA @ IND)",
     "kind": "rank_pass",
@@ -2966,31 +2990,5 @@
       "Betty Lennox"
     ],
     "new_total": 373
-  },
-  {
-    "ts": "2026-06-11T03:49:00+00:00",
-    "text": "Cameron Brink passed Kara Wolters, Noelle Quinn, and Tierra Ruffin-Pratt for #168 all-time in blocks (career 78) \u2014 up from #171 entering today \u2014 (5:55 - 4th \u2014 LA @ SEA)",
-    "kind": "rank_pass",
-    "player": "Cameron Brink",
-    "stat": "blocks",
-    "rank": 168,
-    "passed_players": [
-      "Kara Wolters",
-      "Noelle Quinn",
-      "Tierra Ruffin-Pratt"
-    ],
-    "new_total": 78
-  },
-  {
-    "ts": "2026-06-11T03:45:00+00:00",
-    "text": "Ariel Atkins passed Tiffany Hayes for #54 all-time in steals (career 383) \u2014 up from #55 entering today \u2014 (7:51 - 4th \u2014 LA @ SEA)",
-    "kind": "rank_pass",
-    "player": "Ariel Atkins",
-    "stat": "steals",
-    "rank": 54,
-    "passed_players": [
-      "Tiffany Hayes"
-    ],
-    "new_total": 383
   }
 ]
