@@ -1,5 +1,14 @@
 [
   {
+    "ts": "2026-06-28T20:18:00+00:00",
+    "text": "Jackie Young reached 3,700 career points (now 3,700) \u2014 (8:21 - 1st \u2014 LV @ CHI)",
+    "kind": "round",
+    "player": "Jackie Young",
+    "stat": "points",
+    "value": 3700,
+    "new_total": 3700
+  },
+  {
     "ts": "2026-06-28T20:17:00+00:00",
     "text": "Shakira Austin passed Ebony Hoffman and Essence Carson for #106 all-time in blocks (career 122) \u2014 up from #108 entering today \u2014 (8:12 - 3rd \u2014 POR @ WSH)",
     "kind": "rank_pass",
@@ -2978,17 +2987,5 @@
       "Emily Engstler"
     ],
     "new_total": 120
-  },
-  {
-    "ts": "2026-06-14T03:41:00+00:00",
-    "text": "Nneka Ogwumike passed Liz Cambage for #34 all-time in blocks (career 265) \u2014 up from #35 entering today \u2014 (6:18 - 4th \u2014 LA @ PHX)",
-    "kind": "rank_pass",
-    "player": "Nneka Ogwumike",
-    "stat": "blocks",
-    "rank": 34,
-    "passed_players": [
-      "Liz Cambage"
-    ],
-    "new_total": 265
   }
 ]
