@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-28 23:54 UTC_
+_Last updated: 2026-06-28 23:55 UTC_
 
 ## Contents
 
@@ -196,7 +196,7 @@ _Last updated: 2026-06-28 23:54 UTC_
 | 175 | Nakia Sanford | 1,915 |
 | 176 | Ebony Hoffman | 1,909 |
 | 177 | Candice Wiggins | 1,901 |
-| 178 | **Gabby Williams** 🔴 | 1,899 |
+| 177 | **Gabby Williams** 🔴 +2 | 1,901 |
 | 179 | NaLyssa Smith | 1,885 |
 | 180 | Rachel Banham | 1,843 |
 | 181 | Damiris Dantas | 1,842 |
@@ -465,7 +465,7 @@ _Last updated: 2026-06-28 23:54 UTC_
 | 33 | Jewell Loyd | 1,156 |
 | 34 | Renee Montgomery | 1,140 |
 | 35 | Swin Cash | 1,131 |
-| 36 | **Sabrina Ionescu** 🔴 +1 | 1,093 |
+| 36 | **Sabrina Ionescu** 🔴 +2 | 1,094 |
 | 37 | Lindsey Harding | 1,090 |
 | 38 | Katie Douglas | 1,069 |
 | 39 | Alana Beard | 1,061 |
