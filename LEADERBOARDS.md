@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-28 19:35 UTC_
+_Last updated: 2026-06-28 19:36 UTC_
 
 ## Contents
 
@@ -249,7 +249,7 @@ _Last updated: 2026-06-28 19:35 UTC_
 | 23 | Lauren Jackson | 2,444 |
 | 24 | Yolanda Griffith | 2,440 |
 | 25 | Tangela Smith | 2,328 |
-| 26 | **Natasha Howard** 🔴 +9 | 2,324 |
+| 26 | **Natasha Howard** 🔴 +11 | 2,326 |
 | 27 | Erika de Souza | 2,220 |
 | 28 | Diana Taurasi | 2,201 |
 | 29 | Margo Dydek | 2,138 |
@@ -373,7 +373,7 @@ _Last updated: 2026-06-28 19:35 UTC_
 | 147 | Merlakia Jones | 927 |
 | 148 | Nicky Anosike | 922 |
 | 149 | Janeth Arcain | 916 |
-| 150 | **Nia Coffey** 🔴 +6 | 909 |
+| 150 | **Nia Coffey** 🔴 +7 | 910 |
 | 151 | Karima Christmas-Kelly | 908 |
 | 152 | Natalie Achonwa | 895 |
 | 153 | Temeka Johnson | 889 |
@@ -729,7 +729,7 @@ _Last updated: 2026-06-28 19:35 UTC_
 | 91 | Nakia Sanford | 131 |
 | 93 | Brooke Wyckoff | 129 |
 | 93 | Cathrine Kraayeveld | 129 |
-| 95 | **Emily Engstler** 🔴 | 128 |
+| 93 | **Emily Engstler** 🔴 +1 | 129 |
 | 96 | Alyssa Thomas | 127 |
 | 96 | Chelsea Gray | 127 |
 | 96 | Chiney Ogwumike | 127 |
