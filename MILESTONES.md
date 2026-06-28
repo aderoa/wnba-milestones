@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-28 19:13 UTC
+
+- **Arike Ogunbowale** passed **Tiffany Mitchell** for **#123** all-time in fouls (career 605) — _7:40 - 3rd — MIN @ DAL_
+
 ## 2026-06-28 19:12 UTC
 
 - **Natasha Howard** passed **Erika de Souza** for **#19** all-time in blocks (career 371) — up from #20 entering today — _8:24 - 3rd — MIN @ DAL_

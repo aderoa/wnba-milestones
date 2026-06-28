@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-28T19:13:00+00:00",
+    "text": "Arike Ogunbowale passed Tiffany Mitchell for #123 all-time in fouls (career 605) \u2014 (7:40 - 3rd \u2014 MIN @ DAL)",
+    "kind": "rank_pass",
+    "player": "Arike Ogunbowale",
+    "stat": "fouls",
+    "rank": 123,
+    "passed_players": [
+      "Tiffany Mitchell"
+    ],
+    "new_total": 605
+  },
+  {
     "ts": "2026-06-28T19:12:00+00:00",
     "text": "Natasha Howard passed Erika de Souza for #19 all-time in blocks (career 371) \u2014 up from #20 entering today \u2014 (8:24 - 3rd \u2014 MIN @ DAL)",
     "kind": "rank_pass",
@@ -2975,17 +2987,5 @@
       "Kayla Alexander"
     ],
     "new_total": 92
-  },
-  {
-    "ts": "2026-06-13T03:34:00+00:00",
-    "text": "Natisha Hiedeman passed Kedra Holland-Corn for #69 all-time in three-pointers (career 308) \u2014 up from #72 entering today \u2014 (1:43 - 3rd \u2014 GS @ SEA)",
-    "kind": "rank_pass",
-    "player": "Natisha Hiedeman",
-    "stat": "three-pointers",
-    "rank": 69,
-    "passed_players": [
-      "Kedra Holland-Corn"
-    ],
-    "new_total": 308
   }
 ]
