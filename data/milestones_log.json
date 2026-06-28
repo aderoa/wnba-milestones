@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-28T01:26:00+00:00",
+    "text": "Tyasha Harris passed Erin Phillips for #139 all-time in assists (career 463) \u2014 up from #141 entering today \u2014 (5:35 - 3rd \u2014 LA @ IND)",
+    "kind": "rank_pass",
+    "player": "Tyasha Harris",
+    "stat": "assists",
+    "rank": 139,
+    "passed_players": [
+      "Erin Phillips"
+    ],
+    "new_total": 463
+  },
+  {
     "ts": "2026-06-28T01:24:00+00:00",
     "text": "Ariel Atkins reached 800 career rebounds (now 800) \u2014 (7:06 - 3rd \u2014 LA @ IND)",
     "kind": "round",
@@ -2974,17 +2986,5 @@
       "Sue Bird"
     ],
     "new_total": 73
-  },
-  {
-    "ts": "2026-06-12T01:12:00+00:00",
-    "text": "Kahleah Copper passed Tiffany Hayes for #72 all-time in turnovers (career 611) \u2014 up from #73 entering today \u2014 (6:09 - 1st \u2014 PHX @ DAL)",
-    "kind": "rank_pass",
-    "player": "Kahleah Copper",
-    "stat": "turnovers",
-    "rank": 72,
-    "passed_players": [
-      "Tiffany Hayes"
-    ],
-    "new_total": 611
   }
 ]

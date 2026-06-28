@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-28 01:26 UTC
+
+- **Tyasha Harris** passed **Erin Phillips** for **#139** all-time in assists (career 463) — up from #141 entering today — _5:35 - 3rd — LA @ IND_
+
 ## 2026-06-28 01:24 UTC
 
 - **Ariel Atkins** reached **800** career rebounds (now 800) — _7:06 - 3rd — LA @ IND_
