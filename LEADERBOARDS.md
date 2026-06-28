@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-28 21:27 UTC_
+_Last updated: 2026-06-28 21:28 UTC_
 
 ## Contents
 
@@ -329,7 +329,7 @@ _Last updated: 2026-06-28 21:27 UTC_
 | 103 | Latasha Byears | 1,190 |
 | 103 | Tanisha Wright | 1,190 |
 | 105 | Vicky Bullett | 1,189 |
-| 106 | **NaLyssa Smith** 🔴 | 1,172 |
+| 106 | **NaLyssa Smith** 🔴 +1 | 1,173 |
 | 107 | Brittney Sykes | 1,162 |
 | 108 | Nykesha Sales | 1,148 |
 | 109 | Shannon Johnson | 1,143 |
@@ -354,9 +354,9 @@ _Last updated: 2026-06-28 21:27 UTC_
 | 128 | Jasmine Thomas | 1,027 |
 | 129 | Sabrina Ionescu | 1,020 |
 | 130 | Cathrine Kraayeveld | 1,013 |
-| 131 | Kelly Miller | 1,011 |
-| 131 | Noelle Quinn | 1,011 |
-| 131 | **Skylar Diggins** 🔴 +3 | 1,011 |
+| 131 | **Skylar Diggins** 🔴 +4 | 1,012 |
+| 132 | Kelly Miller | 1,011 |
+| 132 | Noelle Quinn | 1,011 |
 | 134 | Damiris Dantas | 1,005 |
 | 135 | Tiffany Jackson | 1,002 |
 | 136 | Tianna Hawkins | 1,000 |
@@ -411,7 +411,7 @@ _Last updated: 2026-06-28 21:27 UTC_
 | 183 | Tan White | 769 |
 | 186 | Tully Bevilaqua | 767 |
 | 187 | Layshia Clarendon | 756 |
-| 188 | **Kamilla Cardoso** 🔴 +2 | 752 |
+| 188 | **Kamilla Cardoso** 🔴 +3 | 753 |
 | 189 | Brooke Wyckoff | 751 |
 | 190 | Coco Miller | 750 |
 | 191 | Kelsey Plum | 741 |
@@ -945,7 +945,7 @@ _Last updated: 2026-06-28 21:27 UTC_
 | 100 | Janel McCarville | 294 |
 | 101 | Kelly Miller | 290 |
 | 102 | Glory Johnson | 289 |
-| 103 | **Jackie Young** 🔴 | 287 |
+| 103 | **Jackie Young** 🔴 +1 | 288 |
 | 104 | Essence Carson | 285 |
 | 105 | Seimone Augustus | 280 |
 | 106 | Tari Phillips | 277 |

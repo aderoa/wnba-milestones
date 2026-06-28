@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-06-28T21:28:00+00:00",
+    "text": "Skylar Diggins passed Kelly Miller and Noelle Quinn for #131 all-time in rebounds (career 1,012) \u2014 up from #133 entering today \u2014 (6:40 - 3rd \u2014 LV @ CHI)",
+    "kind": "rank_pass",
+    "player": "Skylar Diggins",
+    "stat": "rebounds",
+    "rank": 131,
+    "passed_players": [
+      "Kelly Miller",
+      "Noelle Quinn"
+    ],
+    "new_total": 1012
+  },
+  {
     "ts": "2026-06-28T21:27:00+00:00",
     "text": "Azur\u00e1 Stevens passed Adrian Williams-Strong, Essence Carson, and Rachel Banham for #175 all-time in fouls (career 498) \u2014 up from #178 entering today \u2014 (7:31 - 3rd \u2014 LV @ CHI)",
     "kind": "rank_pass",
@@ -2981,17 +2994,5 @@
       "Tiffani Johnson"
     ],
     "new_total": 97
-  },
-  {
-    "ts": "2026-06-14T19:59:00+00:00",
-    "text": "Marina Mabrey passed Damiris Dantas for #158 all-time in blocks (career 83) \u2014 up from #162 entering today \u2014 (3.7 - 2nd \u2014 ATL @ TOR)",
-    "kind": "rank_pass",
-    "player": "Marina Mabrey",
-    "stat": "blocks",
-    "rank": 158,
-    "passed_players": [
-      "Damiris Dantas"
-    ],
-    "new_total": 83
   }
 ]
