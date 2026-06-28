@@ -1,5 +1,19 @@
 [
   {
+    "ts": "2026-06-28T19:17:00+00:00",
+    "text": "Bridget Carleton passed Elena Delle Donne, Ezi Magbegor, and Margo Dydek for #196 all-time in steals (career 175) \u2014 up from #199 entering today \u2014 (2:36 - 1st \u2014 POR @ WSH)",
+    "kind": "rank_pass",
+    "player": "Bridget Carleton",
+    "stat": "steals",
+    "rank": 196,
+    "passed_players": [
+      "Elena Delle Donne",
+      "Ezi Magbegor",
+      "Margo Dydek"
+    ],
+    "new_total": 175
+  },
+  {
     "ts": "2026-06-28T19:14:00+00:00",
     "text": "Natasha Howard passed Camille Smith for #12 all-time in fouls (career 1,160) \u2014 up from #13 entering today \u2014 (7:28 - 3rd \u2014 MIN @ DAL)",
     "kind": "rank_pass",
@@ -2977,14 +2991,5 @@
       "Seimone Augustus"
     ],
     "new_total": 614
-  },
-  {
-    "ts": "2026-06-13T04:20:00+00:00",
-    "text": "Janelle Salaun reached 100 career fouls (now 100) \u2014 (50.3 - 4th \u2014 GS @ SEA)",
-    "kind": "round",
-    "player": "Janelle Salaun",
-    "stat": "fouls",
-    "value": 100,
-    "new_total": 100
   }
 ]

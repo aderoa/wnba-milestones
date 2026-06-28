@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-28 19:17 UTC
+
+- **Bridget Carleton** passed **Elena Delle Donne**, **Ezi Magbegor**, and **Margo Dydek** for **#196** all-time in steals (career 175) — up from #199 entering today — _2:36 - 1st — POR @ WSH_
+
 ## 2026-06-28 19:14 UTC
 
 - **Natasha Howard** passed **Camille Smith** for **#12** all-time in fouls (career 1,160) — up from #13 entering today — _7:28 - 3rd — MIN @ DAL_
