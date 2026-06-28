@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-28 02:38 UTC_
+_Last updated: 2026-06-28 02:39 UTC_
 
 ## Contents
 
@@ -151,7 +151,7 @@ _Last updated: 2026-06-28 02:38 UTC_
 | 130 | Kayla Thornton | 2,393 |
 | 131 | DeMya Walker | 2,379 |
 | 132 | Alex Bentley | 2,350 |
-| 133 | **Jordin Canada** 🔴 +6 | 2,348 |
+| 132 | **Jordin Canada** 🔴 +8 | 2,350 |
 | 134 | Azurá Stevens | 2,343 |
 | 135 | Merlakia Jones | 2,308 |
 | 136 | Betnijah Laney-Hamilton | 2,302 |
@@ -296,7 +296,7 @@ _Last updated: 2026-06-28 02:38 UTC_
 | 70 | Alana Beard | 1,420 |
 | 71 | Nakia Sanford | 1,419 |
 | 72 | Kayla Thornton | 1,408 |
-| 73 | **Allisha Gray** 🔴 +1 | 1,405 |
+| 73 | **Allisha Gray** 🔴 +2 | 1,406 |
 | 74 | Kara Braxton | 1,387 |
 | 75 | Courtney Vandersloot | 1,386 |
 | 76 | Katie Smith | 1,383 |
@@ -454,8 +454,8 @@ _Last updated: 2026-06-28 02:38 UTC_
 | 22 | Dawn Staley | 1,337 |
 | 23 | Teresa Weatherspoon | 1,333 |
 | 24 | Kristi Toliver | 1,301 |
+| 25 | **Jordin Canada** 🔴 +8 | 1,270 |
 | 25 | Kelsey Plum | 1,270 |
-| 26 | **Jordin Canada** 🔴 +7 | 1,269 |
 | 27 | Katie Smith | 1,258 |
 | 28 | Odyssey Sims | 1,228 |
 | 29 | Vickie Johnson | 1,202 |
