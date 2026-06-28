@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-28 01:24 UTC_
+_Last updated: 2026-06-28 01:25 UTC_
 
 ## Contents
 
@@ -22,7 +22,7 @@ _Last updated: 2026-06-28 01:24 UTC_
 | 1 | Diana Taurasi | 10,608 |
 | 2 | Tina Charles | 8,396 |
 | 3 | DeWanna Bonner | 7,985 |
-| 4 | **Nneka Ogwumike** 🔴 +9 | 7,572 |
+| 4 | **Nneka Ogwumike** 🔴 +11 | 7,574 |
 | 5 | Tina Thompson | 7,470 |
 | 6 | Tamika Catchings | 7,371 |
 | 7 | Candice Dupree | 6,861 |
@@ -378,7 +378,7 @@ _Last updated: 2026-06-28 01:24 UTC_
 | 152 | Natalie Achonwa | 895 |
 | 153 | Temeka Johnson | 889 |
 | 154 | Mistie Bass | 888 |
-| 155 | **Erica Wheeler** 🔴 | 882 |
+| 155 | **Erica Wheeler** 🔴 +1 | 883 |
 | 156 | Alanna Smith | 878 |
 | 157 | Marina Mabrey | 874 |
 | 158 | Shameka Christon | 867 |
@@ -1476,7 +1476,7 @@ _Last updated: 2026-06-28 01:24 UTC_
 | 16 | Swin Cash | 1,146 |
 | 17 | Taj McWilliams-Franklin | 1,145 |
 | 18 | Monique Currie | 1,137 |
-| 19 | **Stefanie Dolson** 🔴 +1 | 1,134 |
+| 19 | **Stefanie Dolson** 🔴 +2 | 1,135 |
 | 20 | Tanisha Wright | 1,109 |
 | 21 | Michelle Snow | 1,108 |
 | 22 | Sylvia Fowles | 1,049 |
