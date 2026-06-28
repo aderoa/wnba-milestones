@@ -2,6 +2,13 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-28 19:58 UTC
+
+- **Natasha Howard** reached **4,700** career points (now 4,701) — _2:30 - 4th — MIN @ DAL_
+- **Kayla McBride** passed **Chelsea Gray** and **Tiffany Hayes** for **#93** all-time in rebounds (career 1,258) — up from #95 entering today — _2:30 - 4th — MIN @ DAL_
+- **Courtney Williams** passed **Chasity Melvin** and **Leilani Mitchell** for **#81** all-time in steals (career 331) — up from #83 entering today — _2:30 - 4th — MIN @ DAL_
+- **Jessica Shepard** passed **Kamila Vodichkova** for **#126** all-time in rebounds (career 1,032) — up from #129 entering today — _2:30 - 4th — MIN @ DAL_
+
 ## 2026-06-28 19:56 UTC
 
 - **Nia Coffey** passed **Adrian Williams-Strong**, **Essence Carson**, and **Rachel Banham** for **#175** all-time in fouls (career 498) — up from #179 entering today — _3:37 - 4th — MIN @ DAL_
