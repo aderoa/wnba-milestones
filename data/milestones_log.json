@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-28T21:26:00+00:00",
+    "text": "Bridget Carleton passed Tamika Raymond for #195 all-time in steals (career 176) \u2014 up from #199 entering today \u2014 (4:22 - OT \u2014 POR @ WSH)",
+    "kind": "rank_pass",
+    "player": "Bridget Carleton",
+    "stat": "steals",
+    "rank": 195,
+    "passed_players": [
+      "Tamika Raymond"
+    ],
+    "new_total": 176
+  },
+  {
     "ts": "2026-06-28T20:52:00+00:00",
     "text": "Chelsea Gray passed Liz Cambage for #92 all-time in rebounds (career 1,259) \u2014 up from #93 entering today \u2014 (6:24 - 2nd \u2014 LV @ CHI)",
     "kind": "rank_pass",
@@ -2979,17 +2991,5 @@
       "Amanda Lassiter"
     ],
     "new_total": 171
-  },
-  {
-    "ts": "2026-06-14T19:31:00+00:00",
-    "text": "Sabrina Ionescu passed Marie Ferdinand-Harris for #102 all-time in turnovers (career 519) \u2014 up from #103 entering today \u2014 (9:13 - 2nd \u2014 WSH @ NY)",
-    "kind": "rank_pass",
-    "player": "Sabrina Ionescu",
-    "stat": "turnovers",
-    "rank": 102,
-    "passed_players": [
-      "Marie Ferdinand-Harris"
-    ],
-    "new_total": 519
   }
 ]

@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-28 21:26 UTC
+
+- **Bridget Carleton** passed **Tamika Raymond** for **#195** all-time in steals (career 176) — up from #199 entering today — _4:22 - OT — POR @ WSH_
+
 ## 2026-06-28 20:52 UTC
 
 - **Chelsea Gray** passed **Liz Cambage** for **#92** all-time in rebounds (career 1,259) — up from #93 entering today — _6:24 - 2nd — LV @ CHI_
