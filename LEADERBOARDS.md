@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-28 23:12 UTC_
+_Last updated: 2026-06-28 23:13 UTC_
 
 ## Contents
 
@@ -31,7 +31,7 @@ _Last updated: 2026-06-28 23:12 UTC_
 | 10 | Candace Parker | 6,574 |
 | 11 | Katie Smith | 6,450 |
 | 12 | Sylvia Fowles | 6,413 |
-| 13 | **Breanna Stewart** 🔴 | 6,335 |
+| 13 | **Breanna Stewart** 🔴 +2 | 6,337 |
 | 14 | Lisa Leslie | 6,251 |
 | 15 | A'ja Wilson | 6,208 |
 | 16 | Jewell Loyd | 6,154 |
@@ -148,7 +148,7 @@ _Last updated: 2026-06-28 23:12 UTC_
 | 127 | Ruth Riley | 2,434 |
 | 128 | Svetlana Abrosimova | 2,414 |
 | 129 | Anna DeForge | 2,413 |
-| 130 | **Kayla Thornton** 🔴 | 2,393 |
+| 130 | **Kayla Thornton** 🔴 +4 | 2,397 |
 | 131 | DeMya Walker | 2,379 |
 | 132 | Azurá Stevens | 2,367 |
 | 133 | Alex Bentley | 2,350 |
@@ -352,7 +352,7 @@ _Last updated: 2026-06-28 23:12 UTC_
 | 126 | Jessica Shepard | 1,032 |
 | 127 | Kamila Vodichkova | 1,031 |
 | 128 | Jasmine Thomas | 1,027 |
-| 129 | **Sabrina Ionescu** 🔴 +1 | 1,021 |
+| 129 | **Sabrina Ionescu** 🔴 +2 | 1,022 |
 | 130 | Skylar Diggins | 1,014 |
 | 131 | Cathrine Kraayeveld | 1,013 |
 | 132 | Kelly Miller | 1,011 |
@@ -465,7 +465,7 @@ _Last updated: 2026-06-28 23:12 UTC_
 | 33 | Jewell Loyd | 1,156 |
 | 34 | Renee Montgomery | 1,140 |
 | 35 | Swin Cash | 1,131 |
-| 36 | **Sabrina Ionescu** 🔴 | 1,092 |
+| 36 | **Sabrina Ionescu** 🔴 +1 | 1,093 |
 | 37 | Lindsey Harding | 1,090 |
 | 38 | Katie Douglas | 1,069 |
 | 39 | Alana Beard | 1,061 |
@@ -1033,7 +1033,7 @@ _Last updated: 2026-06-28 23:12 UTC_
 | 187 | Monique Billings | 182 |
 | 189 | Nakia Sanford | 181 |
 | 190 | Diamond DeShields | 180 |
-| 191 | **Kiah Stokes** 🔴 | 178 |
+| 191 | **Kiah Stokes** 🔴 +1 | 179 |
 | 192 | Bridget Pettis | 177 |
 | 193 | Bridget Carleton | 176 |
 | 193 | Brittany Boyd-Jones | 176 |
@@ -1350,7 +1350,7 @@ _Last updated: 2026-06-28 23:12 UTC_
 | 93 | Layshia Clarendon | 536 |
 | 94 | Ivory Latta | 534 |
 | 94 | Iziane Castro Marques | 534 |
-| 96 | **Sabrina Ionescu** 🔴 | 533 |
+| 94 | **Sabrina Ionescu** 🔴 +1 | 534 |
 | 97 | Mwadi Mabika | 532 |
 | 98 | Arike Ogunbowale | 531 |
 | 98 | Nakia Sanford | 531 |
