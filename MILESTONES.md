@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-28 23:52 UTC
+
+- **Breanna Stewart** passed **Maya Moore** for **#91** all-time in fouls (career 687) — up from #92 entering today — _3:23 - 2nd — NY @ GS_
+
 ## 2026-06-28 23:31 UTC
 
 - **Pauline Astier** reached **200** career points (now 201) — _8:51 - 2nd — NY @ GS_

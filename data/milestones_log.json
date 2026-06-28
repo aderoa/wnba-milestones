@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-28T23:52:00+00:00",
+    "text": "Breanna Stewart passed Maya Moore for #91 all-time in fouls (career 687) \u2014 up from #92 entering today \u2014 (3:23 - 2nd \u2014 NY @ GS)",
+    "kind": "rank_pass",
+    "player": "Breanna Stewart",
+    "stat": "fouls",
+    "rank": 91,
+    "passed_players": [
+      "Maya Moore"
+    ],
+    "new_total": 687
+  },
+  {
     "ts": "2026-06-28T23:31:00+00:00",
     "text": "Pauline Astier reached 200 career points (now 201) \u2014 (8:51 - 2nd \u2014 NY @ GS)",
     "kind": "round",
@@ -2972,17 +2984,5 @@
       "Jasmine Thomas"
     ],
     "new_total": 686
-  },
-  {
-    "ts": "2026-06-16T03:55:00+00:00",
-    "text": "Erica Wheeler passed Ebony Hoffman for #63 all-time in fouls (career 792) \u2014 up from #64 entering today \u2014 (5:53 - 4th \u2014 LA @ GS)",
-    "kind": "rank_pass",
-    "player": "Erica Wheeler",
-    "stat": "fouls",
-    "rank": 63,
-    "passed_players": [
-      "Ebony Hoffman"
-    ],
-    "new_total": 792
   }
 ]
