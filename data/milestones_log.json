@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-28T20:31:00+00:00",
+    "text": "NaLyssa Smith passed Allie Quigley for #192 all-time in fouls (career 476) \u2014 up from #193 entering today \u2014 (3:11 - 1st \u2014 LV @ CHI)",
+    "kind": "rank_pass",
+    "player": "NaLyssa Smith",
+    "stat": "fouls",
+    "rank": 192,
+    "passed_players": [
+      "Allie Quigley"
+    ],
+    "new_total": 476
+  },
+  {
     "ts": "2026-06-28T20:19:00+00:00",
     "text": "Michaela Onyenwere passed Bridget Pettis, Gabby Williams, Jennifer Gillom, and Katie Lou Samuelson for #143 all-time in three-pointers (career 154) \u2014 up from #147 entering today \u2014 (6:58 - 3rd \u2014 POR @ WSH)",
     "kind": "rank_pass",
@@ -2977,18 +2989,5 @@
       "Seimone Augustus"
     ],
     "new_total": 614
-  },
-  {
-    "ts": "2026-06-14T03:55:00+00:00",
-    "text": "Kelsey Plum passed Crystal Langhorne and Jia Perkins for #43 all-time in points (career 4,434) \u2014 up from #45 entering today \u2014 (32.6 - 4th \u2014 LA @ PHX)",
-    "kind": "rank_pass",
-    "player": "Kelsey Plum",
-    "stat": "points",
-    "rank": 43,
-    "passed_players": [
-      "Crystal Langhorne",
-      "Jia Perkins"
-    ],
-    "new_total": 4434
   }
 ]

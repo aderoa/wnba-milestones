@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-28 20:30 UTC_
+_Last updated: 2026-06-28 20:31 UTC_
 
 ## Contents
 
@@ -118,7 +118,7 @@ _Last updated: 2026-06-28 20:30 UTC_
 | 97 | **Natasha Cloud** 🔴 | 3,018 |
 | 98 | Marie Ferdinand-Harris | 3,001 |
 | 99 | Emma Meesseman | 2,966 |
-| 100 | **Elizabeth Williams** 🔴 | 2,933 |
+| 100 | **Elizabeth Williams** 🔴 +2 | 2,935 |
 | 101 | Natalie Williams | 2,894 |
 | 102 | Jennifer Gillom | 2,888 |
 | 103 | Iziane Castro Marques | 2,862 |
@@ -131,7 +131,7 @@ _Last updated: 2026-06-28 20:30 UTC_
 | 110 | Riquna Williams | 2,659 |
 | 111 | Essence Carson | 2,647 |
 | 111 | Lindsey Harding | 2,647 |
-| 113 | Cheyenne Parker-Tyus | 2,645 |
+| 113 | **Cheyenne Parker-Tyus** 🔴 | 2,645 |
 | 114 | Tamera Young | 2,641 |
 | 115 | Rhyne Howard | 2,637 |
 | 116 | Liz Cambage | 2,634 |
@@ -197,7 +197,7 @@ _Last updated: 2026-06-28 20:30 UTC_
 | 176 | Ebony Hoffman | 1,909 |
 | 177 | Candice Wiggins | 1,901 |
 | 178 | Gabby Williams | 1,899 |
-| 179 | **NaLyssa Smith** 🔴 +3 | 1,882 |
+| 179 | **NaLyssa Smith** 🔴 +4 | 1,883 |
 | 180 | Rachel Banham | 1,843 |
 | 181 | Damiris Dantas | 1,842 |
 | 182 | Sophie Cunningham | 1,829 |
@@ -256,7 +256,7 @@ _Last updated: 2026-06-28 20:30 UTC_
 | 30 | Chamique Holdsclaw | 2,123 |
 | 31 | Chasity Melvin | 2,097 |
 | 32 | Tammy Sutton-Brown | 2,010 |
-| 33 | **Elizabeth Williams** 🔴 | 1,978 |
+| 33 | **Elizabeth Williams** 🔴 +1 | 1,979 |
 | 34 | Cheryl Ford | 1,907 |
 | 35 | Courtney Williams | 1,848 |
 | 36 | Kiah Stokes | 1,835 |
@@ -289,7 +289,7 @@ _Last updated: 2026-06-28 20:30 UTC_
 | 63 | Ticha Penicheiro | 1,485 |
 | 64 | Alysha Clark | 1,469 |
 | 65 | Sue Bird | 1,466 |
-| 66 | Cheyenne Parker-Tyus | 1,463 |
+| 66 | **Cheyenne Parker-Tyus** 🔴 | 1,463 |
 | 67 | Nicole Powell | 1,457 |
 | 68 | Tamera Young | 1,433 |
 | 69 | Monique Billings | 1,431 |
@@ -310,7 +310,7 @@ _Last updated: 2026-06-28 20:30 UTC_
 | 84 | Erlana Larkins | 1,329 |
 | 85 | Mwadi Mabika | 1,327 |
 | 86 | Jayne Appel Marinelli | 1,326 |
-| 87 | **Azurá Stevens** 🔴 +2 | 1,321 |
+| 87 | **Azurá Stevens** 🔴 +3 | 1,322 |
 | 88 | Betty Lennox | 1,296 |
 | 89 | Tari Phillips | 1,274 |
 | 90 | Myisha Hines-Allen | 1,265 |
@@ -333,7 +333,7 @@ _Last updated: 2026-06-28 20:30 UTC_
 | 107 | Brittney Sykes | 1,162 |
 | 108 | Nykesha Sales | 1,148 |
 | 109 | Shannon Johnson | 1,143 |
-| 110 | **Natasha Cloud** 🔴 | 1,141 |
+| 110 | **Natasha Cloud** 🔴 +1 | 1,142 |
 | 111 | Adrian Williams-Strong | 1,131 |
 | 112 | Andrea Stinson | 1,127 |
 | 112 | Tamika Raymond | 1,127 |
@@ -670,7 +670,7 @@ _Last updated: 2026-06-28 20:30 UTC_
 | 33 | Rebekkah Brunson | 281 |
 | 34 | Nneka Ogwumike | 266 |
 | 35 | Liz Cambage | 264 |
-| 36 | Cheyenne Parker-Tyus | 261 |
+| 36 | **Cheyenne Parker-Tyus** 🔴 | 261 |
 | 37 | Swin Cash | 258 |
 | 38 | Plenette Pierson | 242 |
 | 39 | Napheesa Collier | 239 |
@@ -993,7 +993,7 @@ _Last updated: 2026-06-28 20:30 UTC_
 | 147 | Jennifer Gillom | 220 |
 | 149 | Allison Feaster | 219 |
 | 149 | Kahleah Copper | 219 |
-| 151 | Cheyenne Parker-Tyus | 217 |
+| 151 | **Cheyenne Parker-Tyus** 🔴 | 217 |
 | 151 | Shenise Johnson | 217 |
 | 153 | Adrian Williams-Strong | 216 |
 | 153 | Moriah Jefferson | 216 |
@@ -1383,7 +1383,7 @@ _Last updated: 2026-06-28 20:30 UTC_
 | 127 | Elena Baranova | 444 |
 | 127 | Jantel Lavender | 444 |
 | 129 | Alysha Clark | 443 |
-| 130 | Cheyenne Parker-Tyus | 441 |
+| 130 | **Cheyenne Parker-Tyus** 🔴 | 441 |
 | 131 | Ann Wauters | 440 |
 | 132 | Tiffany Mitchell | 439 |
 | 133 | Kedra Holland-Corn | 438 |
@@ -1551,7 +1551,7 @@ _Last updated: 2026-06-28 20:30 UTC_
 | 90 | Sophia Young-Malcolm | 687 |
 | 91 | Maya Moore | 686 |
 | 92 | Breanna Stewart | 685 |
-| 92 | Cheyenne Parker-Tyus | 685 |
+| 92 | **Cheyenne Parker-Tyus** 🔴 | 685 |
 | 92 | Jasmine Thomas | 685 |
 | 95 | **Jewell Loyd** 🔴 | 684 |
 | 95 | Leilani Mitchell | 684 |
@@ -1650,8 +1650,8 @@ _Last updated: 2026-06-28 20:30 UTC_
 | 189 | Sami Whitcomb | 480 |
 | 190 | Alanna Smith | 479 |
 | 191 | Seimone Augustus | 477 |
-| 192 | Allie Quigley | 475 |
-| 192 | **NaLyssa Smith** 🔴 +1 | 475 |
+| 192 | **NaLyssa Smith** 🔴 +2 | 476 |
+| 193 | Allie Quigley | 475 |
 | 194 | Satou Sabally | 471 |
 | 195 | Christi Thomas | 463 |
 | 195 | Nikki Teasley | 463 |
