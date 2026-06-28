@@ -1,5 +1,26 @@
 [
   {
+    "ts": "2026-06-28T00:14:00+00:00",
+    "text": "Aliyah Boston reached 1,200 career rebounds (now 1,200) \u2014 (5:21 - 1st \u2014 LA @ IND)",
+    "kind": "round",
+    "player": "Aliyah Boston",
+    "stat": "rebounds",
+    "value": 1200,
+    "new_total": 1200
+  },
+  {
+    "ts": "2026-06-28T00:14:00+00:00",
+    "text": "Aliyah Boston passed DeMya Walker for #101 all-time in rebounds (career 1,200) \u2014 up from #102 entering today \u2014 (5:21 - 1st \u2014 LA @ IND)",
+    "kind": "rank_pass",
+    "player": "Aliyah Boston",
+    "stat": "rebounds",
+    "rank": 101,
+    "passed_players": [
+      "DeMya Walker"
+    ],
+    "new_total": 1200
+  },
+  {
     "ts": "2026-06-28T00:12:00+00:00",
     "text": "Kelsey Mitchell reached 5,200 career points (now 5,201) \u2014 (6:55 - 1st \u2014 LA @ IND)",
     "kind": "round",
@@ -2977,30 +2998,5 @@
       "Monique Currie"
     ],
     "new_total": 115
-  },
-  {
-    "ts": "2026-06-10T00:50:00+00:00",
-    "text": "Natasha Howard passed Katie Douglas for #27 all-time in turnovers (career 825) \u2014 up from #28 entering today \u2014 (Halftime \u2014 DAL @ MIN)",
-    "kind": "rank_pass",
-    "player": "Natasha Howard",
-    "stat": "turnovers",
-    "rank": 27,
-    "passed_players": [
-      "Katie Douglas"
-    ],
-    "new_total": 825
-  },
-  {
-    "ts": "2026-06-10T00:48:00+00:00",
-    "text": "Alysha Clark passed Ann Wauters and Cheyenne Parker-Tyus for #130 all-time in turnovers (career 441) \u2014 (43.2 - 2nd \u2014 DAL @ MIN)",
-    "kind": "rank_pass",
-    "player": "Alysha Clark",
-    "stat": "turnovers",
-    "rank": 130,
-    "passed_players": [
-      "Ann Wauters",
-      "Cheyenne Parker-Tyus"
-    ],
-    "new_total": 441
   }
 ]

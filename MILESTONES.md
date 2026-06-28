@@ -2,6 +2,11 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-28 00:14 UTC
+
+- **Aliyah Boston** reached **1,200** career rebounds (now 1,200) — _5:21 - 1st — LA @ IND_
+- **Aliyah Boston** passed **DeMya Walker** for **#101** all-time in rebounds (career 1,200) — up from #102 entering today — _5:21 - 1st — LA @ IND_
+
 ## 2026-06-28 00:12 UTC
 
 - **Kelsey Mitchell** reached **5,200** career points (now 5,201) — _6:55 - 1st — LA @ IND_
