@@ -2,6 +2,11 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-28 23:54 UTC
+
+- **Jonquel Jones** passed **Courtney Vandersloot** for **#48** all-time in points (career 4,365) — up from #49 entering today — _2:24 - 2nd — NY @ GS_
+- **Jonquel Jones** passed **Rachel Banham** for **#42** all-time in three-pointers (career 391) — up from #43 entering today — _2:24 - 2nd — NY @ GS_
+
 ## 2026-06-28 23:53 UTC
 
 - **Breanna Stewart** passed **Sophia Young-Malcolm** for **#90** all-time in fouls (career 688) — up from #92 entering today — _3:05 - 2nd — NY @ GS_
