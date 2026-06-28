@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-28 22:18 UTC
+
+- **Shakira Austin** passed **Natalie Williams** for **#105** all-time in blocks (career 123) — up from #108 entering today — _7.9 - 3OT — POR @ WSH_
+
 ## 2026-06-28 22:08 UTC
 
 - **Jewell Loyd** passed **Maya Moore** for **#91** all-time in fouls (career 687) — up from #95 entering today — _4:34 - 4th — LV @ CHI_

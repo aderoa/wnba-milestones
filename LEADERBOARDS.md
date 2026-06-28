@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-28 22:17 UTC_
+_Last updated: 2026-06-28 22:18 UTC_
 
 ## Contents
 
@@ -33,14 +33,14 @@ _Last updated: 2026-06-28 22:17 UTC_
 | 12 | Sylvia Fowles | 6,413 |
 | 13 | Breanna Stewart | 6,335 |
 | 14 | Lisa Leslie | 6,251 |
-| 15 | **A'ja Wilson** 🔴 +27 | 6,205 |
+| 15 | **A'ja Wilson** 🔴 +28 | 6,206 |
 | 16 | **Jewell Loyd** 🔴 +6 | 6,154 |
 | 17 | Brittney Griner | 6,087 |
 | 18 | Lauren Jackson | 6,005 |
 | 18 | Seimone Augustus | 6,005 |
 | 20 | Becky Hammon | 5,816 |
 | 21 | Angel McCoughtry | 5,797 |
-| 22 | **Skylar Diggins** 🔴 +6 | 5,738 |
+| 22 | **Skylar Diggins** 🔴 +7 | 5,739 |
 | 23 | Kayla McBride | 5,667 |
 | 24 | DeLisha Milton-Jones | 5,571 |
 | 25 | Katie Douglas | 5,545 |
@@ -739,8 +739,8 @@ _Last updated: 2026-06-28 22:17 UTC_
 | 102 | Brionna Jones | 125 |
 | 103 | **Kamilla Cardoso** 🔴 | 124 |
 | 104 | Natasha Mack | 123 |
-| 105 | Natalie Williams | 122 |
-| 105 | **Shakira Austin** 🔴 +3 | 122 |
+| 104 | **Shakira Austin** 🔴 +4 | 123 |
+| 106 | Natalie Williams | 122 |
 | 107 | Ebony Hoffman | 121 |
 | 107 | Essence Carson | 121 |
 | 109 | Krystal Thomas | 118 |
