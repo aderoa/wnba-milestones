@@ -1,5 +1,29 @@
 [
   {
+    "ts": "2026-06-28T02:13:00+00:00",
+    "text": "Damiris Dantas passed Kayla Thornton for #184 all-time in assists (career 369) \u2014 (2:12 - 4th \u2014 LA @ IND)",
+    "kind": "rank_pass",
+    "player": "Damiris Dantas",
+    "stat": "assists",
+    "rank": 184,
+    "passed_players": [
+      "Kayla Thornton"
+    ],
+    "new_total": 369
+  },
+  {
+    "ts": "2026-06-28T02:13:00+00:00",
+    "text": "Damiris Dantas passed Kristen Rasmussen for #153 all-time in fouls (career 534) \u2014 (2:12 - 4th \u2014 LA @ IND)",
+    "kind": "rank_pass",
+    "player": "Damiris Dantas",
+    "stat": "fouls",
+    "rank": 153,
+    "passed_players": [
+      "Kristen Rasmussen"
+    ],
+    "new_total": 534
+  },
+  {
     "ts": "2026-06-28T02:11:00+00:00",
     "text": "Lexie Hull passed Kennedy Burke for #175 all-time in three-pointers (career 126) \u2014 up from #176 entering today \u2014 (2:45 - 4th \u2014 LA @ IND)",
     "kind": "rank_pass",
@@ -2966,26 +2990,5 @@
       "Shameka Christon"
     ],
     "new_total": 868
-  },
-  {
-    "ts": "2026-06-12T02:27:00+00:00",
-    "text": "Jessica Shepard passed Julie Allemand for #167 all-time in assists (career 402) \u2014 up from #170 entering today \u2014 (2.1 - 3rd \u2014 PHX @ DAL)",
-    "kind": "rank_pass",
-    "player": "Jessica Shepard",
-    "stat": "assists",
-    "rank": 167,
-    "passed_players": [
-      "Julie Allemand"
-    ],
-    "new_total": 402
-  },
-  {
-    "ts": "2026-06-12T02:24:00+00:00",
-    "text": "Cheyenne Parker-Tyus reached 2,600 career points (now 2,601) \u2014 (38.2 - 1st \u2014 LV @ POR)",
-    "kind": "round",
-    "player": "Cheyenne Parker-Tyus",
-    "stat": "points",
-    "value": 2600,
-    "new_total": 2601
   }
 ]

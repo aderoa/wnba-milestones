@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-28 02:12 UTC_
+_Last updated: 2026-06-28 02:13 UTC_
 
 ## Contents
 
@@ -550,7 +550,7 @@ _Last updated: 2026-06-28 02:12 UTC_
 | 118 | Janel McCarville | 551 |
 | 118 | Svetlana Abrosimova | 551 |
 | 120 | Michele Timms | 549 |
-| 121 | **Rhyne Howard** 🔴 +1 | 537 |
+| 121 | **Rhyne Howard** 🔴 +2 | 538 |
 | 122 | **Myisha Hines-Allen** 🔴 +3 | 532 |
 | 123 | Marie Ferdinand-Harris | 528 |
 | 124 | Margo Dydek | 524 |
@@ -612,8 +612,8 @@ _Last updated: 2026-06-28 02:12 UTC_
 | 180 | Shenise Johnson | 376 |
 | 181 | Alanna Smith | 374 |
 | 182 | Suzie McConnell Serio | 370 |
-| 183 | **Damiris Dantas** 🔴 | 368 |
-| 183 | Kayla Thornton | 368 |
+| 183 | **Damiris Dantas** 🔴 +1 | 369 |
+| 184 | Kayla Thornton | 368 |
 | 185 | Roneeka Hodges | 362 |
 | 186 | Andrea Nagy | 361 |
 | 186 | Diamond DeShields | 361 |
@@ -1351,8 +1351,8 @@ _Last updated: 2026-06-28 02:12 UTC_
 | 96 | Sabrina Ionescu | 533 |
 | 97 | Mwadi Mabika | 532 |
 | 98 | Nakia Sanford | 531 |
-| 99 | Arike Ogunbowale | 529 |
-| 99 | **Jordin Canada** 🔴 +2 | 529 |
+| 99 | **Jordin Canada** 🔴 +3 | 530 |
+| 100 | Arike Ogunbowale | 529 |
 | 101 | Maya Moore | 527 |
 | 102 | Kara Lawson | 526 |
 | 103 | Leilani Mitchell | 525 |
@@ -1609,8 +1609,8 @@ _Last updated: 2026-06-28 02:12 UTC_
 | 149 | Marissa Coleman | 541 |
 | 149 | **Sophie Cunningham** 🔴 +3 | 541 |
 | 151 | **Myisha Hines-Allen** 🔴 +2 | 537 |
-| 152 | **Damiris Dantas** 🔴 | 533 |
-| 152 | Kristen Rasmussen | 533 |
+| 152 | **Damiris Dantas** 🔴 +1 | 534 |
+| 153 | Kristen Rasmussen | 533 |
 | 154 | Amanda Zahui B | 530 |
 | 155 | Candice Wiggins | 525 |
 | 155 | Epiphanny Prince | 525 |

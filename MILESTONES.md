@@ -2,6 +2,11 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-28 02:13 UTC
+
+- **Damiris Dantas** passed **Kayla Thornton** for **#184** all-time in assists (career 369) — _2:12 - 4th — LA @ IND_
+- **Damiris Dantas** passed **Kristen Rasmussen** for **#153** all-time in fouls (career 534) — _2:12 - 4th — LA @ IND_
+
 ## 2026-06-28 02:11 UTC
 
 - **Lexie Hull** passed **Kennedy Burke** for **#175** all-time in three-pointers (career 126) — up from #176 entering today — _2:45 - 4th — LA @ IND_
