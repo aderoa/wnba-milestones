@@ -1,5 +1,30 @@
 [
   {
+    "ts": "2026-06-28T20:00:00+00:00",
+    "text": "Natasha Howard passed Tangela Smith for #25 all-time in rebounds (career 2,329) \u2014 up from #26 entering today \u2014 (1:25 - 4th \u2014 MIN @ DAL)",
+    "kind": "rank_pass",
+    "player": "Natasha Howard",
+    "stat": "rebounds",
+    "rank": 25,
+    "passed_players": [
+      "Tangela Smith"
+    ],
+    "new_total": 2329
+  },
+  {
+    "ts": "2026-06-28T20:00:00+00:00",
+    "text": "Arike Ogunbowale passed Natasha Cloud and Tamecka Dixon for #69 all-time in steals (career 356) \u2014 up from #71 entering today \u2014 (1:25 - 4th \u2014 MIN @ DAL)",
+    "kind": "rank_pass",
+    "player": "Arike Ogunbowale",
+    "stat": "steals",
+    "rank": 69,
+    "passed_players": [
+      "Natasha Cloud",
+      "Tamecka Dixon"
+    ],
+    "new_total": 356
+  },
+  {
     "ts": "2026-06-28T19:58:00+00:00",
     "text": "Natasha Howard reached 4,700 career points (now 4,701) \u2014 (2:30 - 4th \u2014 MIN @ DAL)",
     "kind": "round",
@@ -2965,29 +2990,5 @@
       "Renee Montgomery"
     ],
     "new_total": 357
-  },
-  {
-    "ts": "2026-06-14T02:48:00+00:00",
-    "text": "Erica Wheeler passed Tamecka Dixon for #67 all-time in steals (career 356) \u2014 up from #68 entering today \u2014 (24.1 - 2nd \u2014 LA @ PHX)",
-    "kind": "rank_pass",
-    "player": "Erica Wheeler",
-    "stat": "steals",
-    "rank": 67,
-    "passed_players": [
-      "Tamecka Dixon"
-    ],
-    "new_total": 356
-  },
-  {
-    "ts": "2026-06-14T02:44:00+00:00",
-    "text": "Kahleah Copper passed Sophia Young-Malcolm for #48 all-time in points (career 4,303) \u2014 up from #49 entering today \u2014 (1:47 - 2nd \u2014 LA @ PHX)",
-    "kind": "rank_pass",
-    "player": "Kahleah Copper",
-    "stat": "points",
-    "rank": 48,
-    "passed_players": [
-      "Sophia Young-Malcolm"
-    ],
-    "new_total": 4303
   }
 ]

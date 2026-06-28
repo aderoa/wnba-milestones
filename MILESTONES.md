@@ -2,6 +2,11 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-28 20:00 UTC
+
+- **Natasha Howard** passed **Tangela Smith** for **#25** all-time in rebounds (career 2,329) — up from #26 entering today — _1:25 - 4th — MIN @ DAL_
+- **Arike Ogunbowale** passed **Natasha Cloud** and **Tamecka Dixon** for **#69** all-time in steals (career 356) — up from #71 entering today — _1:25 - 4th — MIN @ DAL_
+
 ## 2026-06-28 19:58 UTC
 
 - **Natasha Howard** reached **4,700** career points (now 4,701) — _2:30 - 4th — MIN @ DAL_
