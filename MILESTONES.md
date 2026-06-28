@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-28 20:36 UTC
+
+- **Jewell Loyd** passed **Leilani Mitchell** for **#96** all-time in fouls (career 685) — _1:13 - 1st — LV @ CHI_
+
 ## 2026-06-28 20:31 UTC
 
 - **NaLyssa Smith** passed **Allie Quigley** for **#192** all-time in fouls (career 476) — up from #193 entering today — _3:11 - 1st — LV @ CHI_

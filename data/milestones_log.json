@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-28T20:36:00+00:00",
+    "text": "Jewell Loyd passed Leilani Mitchell for #96 all-time in fouls (career 685) \u2014 (1:13 - 1st \u2014 LV @ CHI)",
+    "kind": "rank_pass",
+    "player": "Jewell Loyd",
+    "stat": "fouls",
+    "rank": 96,
+    "passed_players": [
+      "Leilani Mitchell"
+    ],
+    "new_total": 685
+  },
+  {
     "ts": "2026-06-28T20:31:00+00:00",
     "text": "NaLyssa Smith passed Allie Quigley for #192 all-time in fouls (career 476) \u2014 up from #193 entering today \u2014 (3:11 - 1st \u2014 LV @ CHI)",
     "kind": "rank_pass",
@@ -2977,17 +2989,5 @@
       "Jia Perkins"
     ],
     "new_total": 104
-  },
-  {
-    "ts": "2026-06-14T04:14:00+00:00",
-    "text": "Kahleah Copper passed Seimone Augustus for #71 all-time in turnovers (career 614) \u2014 up from #73 entering today \u2014 (53.8 - OT \u2014 LA @ PHX)",
-    "kind": "rank_pass",
-    "player": "Kahleah Copper",
-    "stat": "turnovers",
-    "rank": 71,
-    "passed_players": [
-      "Seimone Augustus"
-    ],
-    "new_total": 614
   }
 ]
