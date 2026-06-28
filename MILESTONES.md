@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-28 00:20 UTC
+
+- **Dearica Hamby** passed **Elaine Powell** for **#77** all-time in assists (career 729) — up from #78 entering today — _3:15 - 1st — LA @ IND_
+
 ## 2026-06-28 00:16 UTC
 
 - **Ariel Atkins** passed **Latasha Byears** for **#78** all-time in fouls (career 731) — _4:10 - 1st — LA @ IND_
