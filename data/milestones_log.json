@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-28T00:45:00+00:00",
+    "text": "Ariel Atkins passed Elizabeth Williams for #76 all-time in fouls (career 733) \u2014 up from #77 entering today \u2014 (4:52 - 2nd \u2014 LA @ IND)",
+    "kind": "rank_pass",
+    "player": "Ariel Atkins",
+    "stat": "fouls",
+    "rank": 76,
+    "passed_players": [
+      "Elizabeth Williams"
+    ],
+    "new_total": 733
+  },
+  {
     "ts": "2026-06-28T00:43:00+00:00",
     "text": "Erica Wheeler passed Dawn Staley for #21 all-time in assists (career 1,338) \u2014 up from #22 entering today \u2014 (5:22 - 2nd \u2014 LA @ IND)",
     "kind": "rank_pass",
@@ -2988,14 +3000,5 @@
       "Nneka Ogwumike"
     ],
     "new_total": 244
-  },
-  {
-    "ts": "2026-06-11T00:00:00+00:00",
-    "text": "Leila Lacan reached 300 career points (now 300) \u2014 (3.3 - 2nd \u2014 CON @ TOR)",
-    "kind": "round",
-    "player": "Leila Lacan",
-    "stat": "points",
-    "value": 300,
-    "new_total": 300
   }
 ]

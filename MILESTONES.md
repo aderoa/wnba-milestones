@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-28 00:45 UTC
+
+- **Ariel Atkins** passed **Elizabeth Williams** for **#76** all-time in fouls (career 733) — up from #77 entering today — _4:52 - 2nd — LA @ IND_
+
 ## 2026-06-28 00:43 UTC
 
 - **Erica Wheeler** passed **Dawn Staley** for **#21** all-time in assists (career 1,338) — up from #22 entering today — _5:22 - 2nd — LA @ IND_
