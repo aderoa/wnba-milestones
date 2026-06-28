@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-28T02:14:00+00:00",
+    "text": "Damiris Dantas passed Nia Coffey for #200 all-time in turnovers (career 290) \u2014 (1:52 - 4th \u2014 LA @ IND)",
+    "kind": "rank_pass",
+    "player": "Damiris Dantas",
+    "stat": "turnovers",
+    "rank": 200,
+    "passed_players": [
+      "Nia Coffey"
+    ],
+    "new_total": 290
+  },
+  {
     "ts": "2026-06-28T02:13:00+00:00",
     "text": "Damiris Dantas passed Kayla Thornton for #184 all-time in assists (career 369) \u2014 (2:12 - 4th \u2014 LA @ IND)",
     "kind": "rank_pass",
@@ -2978,17 +2990,5 @@
       "Rebekkah Brunson"
     ],
     "new_total": 487
-  },
-  {
-    "ts": "2026-06-12T02:40:00+00:00",
-    "text": "Alanna Smith passed Shameka Christon for #155 all-time in rebounds (career 868) \u2014 up from #156 entering today \u2014 (6:32 - 4th \u2014 PHX @ DAL)",
-    "kind": "rank_pass",
-    "player": "Alanna Smith",
-    "stat": "rebounds",
-    "rank": 155,
-    "passed_players": [
-      "Shameka Christon"
-    ],
-    "new_total": 868
   }
 ]

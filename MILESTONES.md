@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-28 02:14 UTC
+
+- **Damiris Dantas** passed **Nia Coffey** for **#200** all-time in turnovers (career 290) — _1:52 - 4th — LA @ IND_
+
 ## 2026-06-28 02:13 UTC
 
 - **Damiris Dantas** passed **Kayla Thornton** for **#184** all-time in assists (career 369) — _2:12 - 4th — LA @ IND_
