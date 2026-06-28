@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-28 23:23 UTC
+
+- **Jonquel Jones** passed **Roneeka Hodges** for **#44** all-time in three-pointers (career 390) — _1:13 - 1st — NY @ GS_
+
 ## 2026-06-28 23:18 UTC
 
 - **Betnijah Laney-Hamilton** passed **Camille Smith** for **#107** all-time in assists (career 591) — _3:56 - 1st — NY @ GS_
