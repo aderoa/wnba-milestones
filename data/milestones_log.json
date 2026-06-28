@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-28T20:03:00+00:00",
+    "text": "Arike Ogunbowale passed Tiffani Johnson for #180 all-time in rebounds (career 779) \u2014 up from #181 entering today \u2014 (13.1 - 4th \u2014 MIN @ DAL)",
+    "kind": "rank_pass",
+    "player": "Arike Ogunbowale",
+    "stat": "rebounds",
+    "rank": 180,
+    "passed_players": [
+      "Tiffani Johnson"
+    ],
+    "new_total": 779
+  },
+  {
     "ts": "2026-06-28T20:00:00+00:00",
     "text": "Natasha Howard passed Tangela Smith for #25 all-time in rebounds (career 2,329) \u2014 up from #26 entering today \u2014 (1:25 - 4th \u2014 MIN @ DAL)",
     "kind": "rank_pass",
@@ -2977,18 +2989,5 @@
       "Krystal Thomas"
     ],
     "new_total": 119
-  },
-  {
-    "ts": "2026-06-14T03:27:00+00:00",
-    "text": "Erica Wheeler passed Dominique Canty and Renee Montgomery for #65 all-time in steals (career 357) \u2014 up from #68 entering today \u2014 (35.8 - 3rd \u2014 LA @ PHX)",
-    "kind": "rank_pass",
-    "player": "Erica Wheeler",
-    "stat": "steals",
-    "rank": 65,
-    "passed_players": [
-      "Dominique Canty",
-      "Renee Montgomery"
-    ],
-    "new_total": 357
   }
 ]

@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-28 20:03 UTC
+
+- **Arike Ogunbowale** passed **Tiffani Johnson** for **#180** all-time in rebounds (career 779) — up from #181 entering today — _13.1 - 4th — MIN @ DAL_
+
 ## 2026-06-28 20:00 UTC
 
 - **Natasha Howard** passed **Tangela Smith** for **#25** all-time in rebounds (career 2,329) — up from #26 entering today — _1:25 - 4th — MIN @ DAL_
