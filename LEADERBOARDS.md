@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-28 00:33 UTC_
+_Last updated: 2026-06-28 00:34 UTC_
 
 ## Contents
 
@@ -22,7 +22,7 @@ _Last updated: 2026-06-28 00:33 UTC_
 | 1 | Diana Taurasi | 10,608 |
 | 2 | Tina Charles | 8,396 |
 | 3 | DeWanna Bonner | 7,985 |
-| 4 | **Nneka Ogwumike** 🔴 +5 | 7,568 |
+| 4 | **Nneka Ogwumike** 🔴 +7 | 7,570 |
 | 5 | Tina Thompson | 7,470 |
 | 6 | Tamika Catchings | 7,371 |
 | 7 | Candice Dupree | 6,861 |
@@ -45,7 +45,7 @@ _Last updated: 2026-06-28 00:33 UTC_
 | 24 | DeLisha Milton-Jones | 5,571 |
 | 25 | Katie Douglas | 5,545 |
 | 26 | Lindsay Whalen | 5,511 |
-| 27 | **Kelsey Mitchell** 🔴 +7 | 5,205 |
+| 27 | **Kelsey Mitchell** 🔴 +8 | 5,206 |
 | 28 | Swin Cash | 5,119 |
 | 29 | Tiffany Hayes | 5,049 |
 | 30 | Tangela Smith | 5,035 |
@@ -506,7 +506,7 @@ _Last updated: 2026-06-28 00:33 UTC_
 | 74 | Allisha Gray | 767 |
 | 75 | Sheri Sam | 745 |
 | 76 | Monique Currie | 740 |
-| 77 | **Dearica Hamby** 🔴 +3 | 729 |
+| 77 | **Dearica Hamby** 🔴 +4 | 730 |
 | 78 | Elaine Powell | 728 |
 | 79 | Stefanie Dolson | 707 |
 | 80 | Chamique Holdsclaw | 698 |
@@ -551,7 +551,7 @@ _Last updated: 2026-06-28 00:33 UTC_
 | 118 | Svetlana Abrosimova | 551 |
 | 120 | Michele Timms | 549 |
 | 121 | Rhyne Howard | 536 |
-| 122 | **Myisha Hines-Allen** 🔴 +1 | 530 |
+| 122 | **Myisha Hines-Allen** 🔴 +2 | 531 |
 | 123 | Marie Ferdinand-Harris | 528 |
 | 124 | Margo Dydek | 524 |
 | 125 | Rachel Banham | 511 |
