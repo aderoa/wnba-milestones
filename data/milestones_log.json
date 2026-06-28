@@ -1,5 +1,26 @@
 [
   {
+    "ts": "2026-06-28T19:25:00+00:00",
+    "text": "Courtney Williams passed Kristi Toliver for #84 all-time in steals (career 330) \u2014 (2:18 - 3rd \u2014 MIN @ DAL)",
+    "kind": "rank_pass",
+    "player": "Courtney Williams",
+    "stat": "steals",
+    "rank": 84,
+    "passed_players": [
+      "Kristi Toliver"
+    ],
+    "new_total": 330
+  },
+  {
+    "ts": "2026-06-28T19:25:00+00:00",
+    "text": "Paige Bueckers reached 300 career assists (now 300) \u2014 (2:18 - 3rd \u2014 MIN @ DAL)",
+    "kind": "round",
+    "player": "Paige Bueckers",
+    "stat": "assists",
+    "value": 300,
+    "new_total": 300
+  },
+  {
     "ts": "2026-06-28T19:21:00+00:00",
     "text": "Nia Coffey passed Karima Christmas-Kelly for #150 all-time in rebounds (career 909) \u2014 up from #151 entering today \u2014 (5:15 - 3rd \u2014 MIN @ DAL)",
     "kind": "rank_pass",
@@ -2967,29 +2988,5 @@
       "Kia Nurse"
     ],
     "new_total": 403
-  },
-  {
-    "ts": "2026-06-14T00:19:00+00:00",
-    "text": "Aliyah Boston passed Julie Allemand for #167 all-time in assists (career 402) \u2014 up from #169 entering today \u2014 (22.2 - 4th \u2014 IND @ CON)",
-    "kind": "rank_pass",
-    "player": "Aliyah Boston",
-    "stat": "assists",
-    "rank": 167,
-    "passed_players": [
-      "Julie Allemand"
-    ],
-    "new_total": 402
-  },
-  {
-    "ts": "2026-06-14T00:05:00+00:00",
-    "text": "Caitlin Clark passed Nikki McCray for #123 all-time in three-pointers (career 176) \u2014 up from #127 entering today \u2014 (5:20 - 4th \u2014 IND @ CON)",
-    "kind": "rank_pass",
-    "player": "Caitlin Clark",
-    "stat": "three-pointers",
-    "rank": 123,
-    "passed_players": [
-      "Nikki McCray"
-    ],
-    "new_total": 176
   }
 ]

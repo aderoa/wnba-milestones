@@ -2,6 +2,11 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-28 19:25 UTC
+
+- **Courtney Williams** passed **Kristi Toliver** for **#84** all-time in steals (career 330) — _2:18 - 3rd — MIN @ DAL_
+- **Paige Bueckers** reached **300** career assists (now 300) — _2:18 - 3rd — MIN @ DAL_
+
 ## 2026-06-28 19:21 UTC
 
 - **Nia Coffey** passed **Karima Christmas-Kelly** for **#150** all-time in rebounds (career 909) — up from #151 entering today — _5:15 - 3rd — MIN @ DAL_
