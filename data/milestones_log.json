@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-28T00:43:00+00:00",
+    "text": "Erica Wheeler passed Dawn Staley for #21 all-time in assists (career 1,338) \u2014 up from #22 entering today \u2014 (5:22 - 2nd \u2014 LA @ IND)",
+    "kind": "rank_pass",
+    "player": "Erica Wheeler",
+    "stat": "assists",
+    "rank": 21,
+    "passed_players": [
+      "Dawn Staley"
+    ],
+    "new_total": 1338
+  },
+  {
     "ts": "2026-06-28T00:42:00+00:00",
     "text": "Dearica Hamby passed DeMya Walker for #51 all-time in turnovers (career 685) \u2014 up from #52 entering today \u2014 (6:05 - 2nd \u2014 LA @ IND)",
     "kind": "rank_pass",
@@ -2985,19 +2997,5 @@
     "stat": "points",
     "value": 300,
     "new_total": 300
-  },
-  {
-    "ts": "2026-06-10T23:39:00+00:00",
-    "text": "Brittney Sykes passed Devereaux Peters, Nicky Anosike, and Seimone Augustus for #86 all-time in blocks (career 134) \u2014 (7:30 - 2nd \u2014 CON @ TOR)",
-    "kind": "rank_pass",
-    "player": "Brittney Sykes",
-    "stat": "blocks",
-    "rank": 86,
-    "passed_players": [
-      "Devereaux Peters",
-      "Nicky Anosike",
-      "Seimone Augustus"
-    ],
-    "new_total": 134
   }
 ]
