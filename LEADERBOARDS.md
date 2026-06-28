@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-28 23:05 UTC_
+_Last updated: 2026-06-28 23:06 UTC_
 
 ## Contents
 
@@ -538,7 +538,7 @@ _Last updated: 2026-06-28 23:05 UTC_
 | 106 | Betnijah Laney-Hamilton | 590 |
 | 106 | Camille Smith | 590 |
 | 108 | Armintie Herrington | 589 |
-| 109 | **Veronica Burton** 🔴 | 579 |
+| 109 | **Veronica Burton** 🔴 +1 | 580 |
 | 110 | Tan White | 578 |
 | 111 | Matee Ajavon | 577 |
 | 112 | Napheesa Collier | 570 |
@@ -658,7 +658,7 @@ _Last updated: 2026-06-28 23:05 UTC_
 | 21 | Jessica Breland | 367 |
 | 22 | DeWanna Bonner | 358 |
 | 23 | Ezi Magbegor | 354 |
-| 24 | **Kiah Stokes** 🔴 | 352 |
+| 24 | **Kiah Stokes** 🔴 +1 | 353 |
 | 25 | Diana Taurasi | 349 |
 | 25 | Elena Delle Donne | 349 |
 | 27 | DeLisha Milton-Jones | 339 |
@@ -1551,10 +1551,10 @@ _Last updated: 2026-06-28 23:05 UTC_
 | 89 | Danielle Robinson | 692 |
 | 90 | Jewell Loyd | 687 |
 | 90 | Sophia Young-Malcolm | 687 |
+| 92 | **Breanna Stewart** 🔴 +1 | 686 |
 | 92 | Maya Moore | 686 |
-| 93 | **Breanna Stewart** 🔴 | 685 |
-| 93 | Cheyenne Parker-Tyus | 685 |
-| 93 | Jasmine Thomas | 685 |
+| 94 | Cheyenne Parker-Tyus | 685 |
+| 94 | Jasmine Thomas | 685 |
 | 96 | Leilani Mitchell | 684 |
 | 97 | Crystal Robinson | 682 |
 | 97 | **Kayla Thornton** 🔴 | 682 |

@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-06-28T23:06:00+00:00",
+    "text": "Breanna Stewart passed Cheyenne Parker-Tyus and Jasmine Thomas for #93 all-time in fouls (career 686) \u2014 (8:44 - 1st \u2014 NY @ GS)",
+    "kind": "rank_pass",
+    "player": "Breanna Stewart",
+    "stat": "fouls",
+    "rank": 93,
+    "passed_players": [
+      "Cheyenne Parker-Tyus",
+      "Jasmine Thomas"
+    ],
+    "new_total": 686
+  },
+  {
     "ts": "2026-06-28T22:22:00+00:00",
     "text": "A'ja Wilson passed Janel McCarville for #113 all-time in turnovers (career 492) \u2014 up from #114 entering today \u2014 (59.3 - 4th \u2014 LV @ CHI)",
     "kind": "rank_pass",
@@ -2977,17 +2990,5 @@
       "Ruth Riley"
     ],
     "new_total": 450
-  },
-  {
-    "ts": "2026-06-16T01:51:00+00:00",
-    "text": "Courtney Williams passed Sheryl Swoopes for #83 all-time in three-pointers (career 271) \u2014 up from #84 entering today \u2014 (6:36 - 4th \u2014 POR @ MIN)",
-    "kind": "rank_pass",
-    "player": "Courtney Williams",
-    "stat": "three-pointers",
-    "rank": 83,
-    "passed_players": [
-      "Sheryl Swoopes"
-    ],
-    "new_total": 271
   }
 ]

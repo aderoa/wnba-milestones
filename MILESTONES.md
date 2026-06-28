@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-28 23:06 UTC
+
+- **Breanna Stewart** passed **Cheyenne Parker-Tyus** and **Jasmine Thomas** for **#93** all-time in fouls (career 686) — _8:44 - 1st — NY @ GS_
+
 ## 2026-06-28 22:22 UTC
 
 - **A'ja Wilson** passed **Janel McCarville** for **#113** all-time in turnovers (career 492) — up from #114 entering today — _59.3 - 4th — LV @ CHI_
