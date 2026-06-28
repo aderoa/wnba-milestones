@@ -1,5 +1,14 @@
 [
   {
+    "ts": "2026-06-28T00:12:00+00:00",
+    "text": "Kelsey Mitchell reached 5,200 career points (now 5,201) \u2014 (6:55 - 1st \u2014 LA @ IND)",
+    "kind": "round",
+    "player": "Kelsey Mitchell",
+    "stat": "points",
+    "value": 5200,
+    "new_total": 5201
+  },
+  {
     "ts": "2026-06-28T00:09:00+00:00",
     "text": "Aliyah Boston passed Cheryl Ford for #73 all-time in blocks (career 161) \u2014 (9:02 - 1st \u2014 LA @ IND)",
     "kind": "rank_pass",
@@ -2993,17 +3002,5 @@
       "Cheyenne Parker-Tyus"
     ],
     "new_total": 441
-  },
-  {
-    "ts": "2026-06-10T00:48:00+00:00",
-    "text": "Alanna Smith passed Natisha Hiedeman for #176 all-time in steals (career 192) \u2014 up from #177 entering today \u2014 (43.2 - 2nd \u2014 DAL @ MIN)",
-    "kind": "rank_pass",
-    "player": "Alanna Smith",
-    "stat": "steals",
-    "rank": 176,
-    "passed_players": [
-      "Natisha Hiedeman"
-    ],
-    "new_total": 192
   }
 ]

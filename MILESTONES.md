@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-28 00:12 UTC
+
+- **Kelsey Mitchell** reached **5,200** career points (now 5,201) — _6:55 - 1st — LA @ IND_
+
 ## 2026-06-28 00:09 UTC
 
 - **Aliyah Boston** passed **Cheryl Ford** for **#73** all-time in blocks (career 161) — _9:02 - 1st — LA @ IND_
