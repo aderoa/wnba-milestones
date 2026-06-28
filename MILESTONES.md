@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-28 00:16 UTC
+
+- **Ariel Atkins** passed **Latasha Byears** for **#78** all-time in fouls (career 731) — _4:10 - 1st — LA @ IND_
+
 ## 2026-06-28 00:14 UTC
 
 - **Aliyah Boston** reached **1,200** career rebounds (now 1,200) — _5:21 - 1st — LA @ IND_

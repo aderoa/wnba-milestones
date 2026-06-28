@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-28T00:16:00+00:00",
+    "text": "Ariel Atkins passed Latasha Byears for #78 all-time in fouls (career 731) \u2014 (4:10 - 1st \u2014 LA @ IND)",
+    "kind": "rank_pass",
+    "player": "Ariel Atkins",
+    "stat": "fouls",
+    "rank": 78,
+    "passed_players": [
+      "Latasha Byears"
+    ],
+    "new_total": 731
+  },
+  {
     "ts": "2026-06-28T00:14:00+00:00",
     "text": "Aliyah Boston reached 1,200 career rebounds (now 1,200) \u2014 (5:21 - 1st \u2014 LA @ IND)",
     "kind": "round",
@@ -2986,17 +2998,5 @@
       "Emma Meesseman"
     ],
     "new_total": 2968
-  },
-  {
-    "ts": "2026-06-10T00:50:00+00:00",
-    "text": "Kamilla Cardoso passed Monique Currie for #110 all-time in blocks (career 115) \u2014 up from #114 entering today \u2014 (6:30 - 4th \u2014 ATL @ CHI)",
-    "kind": "rank_pass",
-    "player": "Kamilla Cardoso",
-    "stat": "blocks",
-    "rank": 110,
-    "passed_players": [
-      "Monique Currie"
-    ],
-    "new_total": 115
   }
 ]
