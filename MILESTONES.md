@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-28 21:38 UTC
+
+- **Jewell Loyd** passed **Breanna Stewart**, **Cheyenne Parker-Tyus**, and **Jasmine Thomas** for **#92** all-time in fouls (career 686) — up from #95 entering today — _3:30 - 3rd — LV @ CHI_
+
 ## 2026-06-28 21:36 UTC
 
 - **Jackie Young** passed **Jewell Loyd** for **#32** all-time in assists (career 1,158) — up from #33 entering today — _3:37 - 3rd — LV @ CHI_
