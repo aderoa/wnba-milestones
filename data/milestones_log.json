@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-28T01:23:00+00:00",
+    "text": "Dearica Hamby passed Dominique Canty for #50 all-time in turnovers (career 686) \u2014 up from #52 entering today \u2014 (7:29 - 3rd \u2014 LA @ IND)",
+    "kind": "rank_pass",
+    "player": "Dearica Hamby",
+    "stat": "turnovers",
+    "rank": 50,
+    "passed_players": [
+      "Dominique Canty"
+    ],
+    "new_total": 686
+  },
+  {
     "ts": "2026-06-28T01:21:00+00:00",
     "text": "Ariel Atkins passed Becky Hammon for #75 all-time in fouls (career 734) \u2014 up from #77 entering today \u2014 (8:21 - 3rd \u2014 LA @ IND)",
     "kind": "rank_pass",
@@ -2977,18 +2989,5 @@
       "Vickie Johnson"
     ],
     "new_total": 4233
-  },
-  {
-    "ts": "2026-06-12T00:10:00+00:00",
-    "text": "Jonquel Jones passed Allison Feaster and Betty Lennox for #47 all-time in three-pointers (career 373) \u2014 up from #49 entering today \u2014 (4:58 - 2nd \u2014 NY @ ATL)",
-    "kind": "rank_pass",
-    "player": "Jonquel Jones",
-    "stat": "three-pointers",
-    "rank": 47,
-    "passed_players": [
-      "Allison Feaster",
-      "Betty Lennox"
-    ],
-    "new_total": 373
   }
 ]

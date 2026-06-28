@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-28 01:23 UTC
+
+- **Dearica Hamby** passed **Dominique Canty** for **#50** all-time in turnovers (career 686) — up from #52 entering today — _7:29 - 3rd — LA @ IND_
+
 ## 2026-06-28 01:21 UTC
 
 - **Ariel Atkins** passed **Becky Hammon** for **#75** all-time in fouls (career 734) — up from #77 entering today — _8:21 - 3rd — LA @ IND_
