@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-06-28T21:47:00+00:00",
+    "text": "Bridget Carleton passed Brittany Boyd-Jones and Chiney Ogwumike for #193 all-time in steals (career 177) \u2014 up from #199 entering today \u2014 (1:43 - 2OT \u2014 POR @ WSH)",
+    "kind": "rank_pass",
+    "player": "Bridget Carleton",
+    "stat": "steals",
+    "rank": 193,
+    "passed_players": [
+      "Brittany Boyd-Jones",
+      "Chiney Ogwumike"
+    ],
+    "new_total": 177
+  },
+  {
     "ts": "2026-06-28T21:43:00+00:00",
     "text": "NaLyssa Smith passed Seimone Augustus for #191 all-time in fouls (career 478) \u2014 up from #193 entering today \u2014 (49.5 - 3rd \u2014 LV @ CHI)",
     "kind": "rank_pass",
@@ -2980,18 +2993,5 @@
       "Tianna Hawkins"
     ],
     "new_total": 1001
-  },
-  {
-    "ts": "2026-06-14T20:59:00+00:00",
-    "text": "Jonquel Jones passed Elaine Powell and Loree Moore for #121 all-time in steals (career 256) \u2014 up from #124 entering today \u2014 (3:43 - 4th \u2014 WSH @ NY)",
-    "kind": "rank_pass",
-    "player": "Jonquel Jones",
-    "stat": "steals",
-    "rank": 121,
-    "passed_players": [
-      "Elaine Powell",
-      "Loree Moore"
-    ],
-    "new_total": 256
   }
 ]
