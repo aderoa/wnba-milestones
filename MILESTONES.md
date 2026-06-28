@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-28 21:50 UTC
+
+- **Emily Engstler** passed **Katie Mattera** and **Nakia Sanford** for **#91** all-time in blocks (career 132) — up from #95 entering today — _1:00 - 2OT — POR @ WSH_
+
 ## 2026-06-28 21:47 UTC
 
 - **Bridget Carleton** passed **Brittany Boyd-Jones** and **Chiney Ogwumike** for **#193** all-time in steals (career 177) — up from #199 entering today — _1:43 - 2OT — POR @ WSH_
