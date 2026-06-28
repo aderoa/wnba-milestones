@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-28 03:05 UTC_
+_Last updated: 2026-06-28 03:06 UTC_
 
 ## Contents
 
@@ -60,7 +60,7 @@ _Last updated: 2026-06-28 03:05 UTC_
 | 39 | Natasha Howard | 4,682 |
 | 40 | Chelsea Gray | 4,625 |
 | 41 | Penny Taylor | 4,595 |
-| 42 | **Allisha Gray** 🔴 +13 | 4,504 |
+| 42 | **Allisha Gray** 🔴 +15 | 4,506 |
 | 43 | Kelsey Plum | 4,494 |
 | 44 | Kristi Toliver | 4,474 |
 | 45 | Kahleah Copper | 4,464 |
@@ -179,7 +179,7 @@ _Last updated: 2026-06-28 03:05 UTC_
 | 158 | Aerial Powers | 2,068 |
 | 159 | Coco Miller | 2,030 |
 | 160 | Diamond DeShields | 2,026 |
-| 161 | **Natisha Hiedeman** 🔴 +17 | 2,019 |
+| 161 | **Natisha Hiedeman** 🔴 +19 | 2,021 |
 | 162 | Vicky Bullett | 2,018 |
 | 163 | Ezi Magbegor | 1,995 |
 | 164 | Bria Hartley | 1,967 |
@@ -454,7 +454,7 @@ _Last updated: 2026-06-28 03:05 UTC_
 | 22 | Dawn Staley | 1,337 |
 | 23 | Teresa Weatherspoon | 1,333 |
 | 24 | Kristi Toliver | 1,301 |
-| 25 | **Jordin Canada** 🔴 +9 | 1,271 |
+| 25 | **Jordin Canada** 🔴 +10 | 1,272 |
 | 26 | Kelsey Plum | 1,270 |
 | 27 | Katie Smith | 1,258 |
 | 28 | Odyssey Sims | 1,228 |
