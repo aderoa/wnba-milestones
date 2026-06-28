@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-28 02:11 UTC
+
+- **Lexie Hull** passed **Kennedy Burke** for **#175** all-time in three-pointers (career 126) — up from #176 entering today — _2:45 - 4th — LA @ IND_
+
 ## 2026-06-28 01:59 UTC
 
 - **Erica Wheeler** passed **Briann January** for **#20** all-time in assists (career 1,340) — up from #22 entering today — _6:21 - 4th — LA @ IND_

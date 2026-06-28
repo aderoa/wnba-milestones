@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-28 02:10 UTC_
+_Last updated: 2026-06-28 02:11 UTC_
 
 ## Contents
 
@@ -357,7 +357,7 @@ _Last updated: 2026-06-28 02:10 UTC_
 | 131 | Kelly Miller | 1,011 |
 | 131 | Noelle Quinn | 1,011 |
 | 133 | Skylar Diggins | 1,008 |
-| 134 | **Damiris Dantas** 🔴 | 1,005 |
+| 134 | **Damiris Dantas** 🔴 +1 | 1,006 |
 | 135 | Tiffany Jackson | 1,002 |
 | 136 | Tianna Hawkins | 1,000 |
 | 137 | Marissa Coleman | 995 |
@@ -1221,9 +1221,9 @@ _Last updated: 2026-06-28 02:10 UTC_
 | 171 | **Jordin Canada** 🔴 | 128 |
 | 171 | Ticha Penicheiro | 128 |
 | 173 | Michele Timms | 127 |
+| 174 | **Lexie Hull** 🔴 +1 | 126 |
 | 174 | Tamecka Dixon | 126 |
-| 175 | Kennedy Burke | 125 |
-| 175 | **Lexie Hull** 🔴 | 125 |
+| 176 | Kennedy Burke | 125 |
 | 177 | Charde Houston | 124 |
 | 177 | Veronica Burton | 124 |
 | 179 | Lisa Leslie | 123 |
@@ -1527,7 +1527,7 @@ _Last updated: 2026-06-28 02:10 UTC_
 | 67 | Sheri Sam | 766 |
 | 68 | Kahleah Copper | 761 |
 | 69 | Kia Vaughn | 755 |
-| 70 | **Allisha Gray** 🔴 +1 | 753 |
+| 70 | **Allisha Gray** 🔴 +2 | 754 |
 | 71 | Vickie Johnson | 752 |
 | 72 | Kara Braxton | 748 |
 | 73 | Crystal Langhorne | 737 |

@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-28T02:11:00+00:00",
+    "text": "Lexie Hull passed Kennedy Burke for #175 all-time in three-pointers (career 126) \u2014 up from #176 entering today \u2014 (2:45 - 4th \u2014 LA @ IND)",
+    "kind": "rank_pass",
+    "player": "Lexie Hull",
+    "stat": "three-pointers",
+    "rank": 175,
+    "passed_players": [
+      "Kennedy Burke"
+    ],
+    "new_total": 126
+  },
+  {
     "ts": "2026-06-28T01:59:00+00:00",
     "text": "Erica Wheeler passed Briann January for #20 all-time in assists (career 1,340) \u2014 up from #22 entering today \u2014 (6:21 - 4th \u2014 LA @ IND)",
     "kind": "rank_pass",
@@ -2975,14 +2987,5 @@
     "stat": "points",
     "value": 2600,
     "new_total": 2601
-  },
-  {
-    "ts": "2026-06-12T02:09:00+00:00",
-    "text": "Paige Bueckers reached 900 career points (now 901) \u2014 (9:22 - 3rd \u2014 PHX @ DAL)",
-    "kind": "round",
-    "player": "Paige Bueckers",
-    "stat": "points",
-    "value": 900,
-    "new_total": 901
   }
 ]
