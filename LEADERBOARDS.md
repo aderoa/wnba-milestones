@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-28 22:12 UTC_
+_Last updated: 2026-06-28 22:13 UTC_
 
 ## Contents
 
@@ -33,14 +33,14 @@ _Last updated: 2026-06-28 22:12 UTC_
 | 12 | Sylvia Fowles | 6,413 |
 | 13 | Breanna Stewart | 6,335 |
 | 14 | Lisa Leslie | 6,251 |
-| 15 | **A'ja Wilson** 🔴 +24 | 6,202 |
+| 15 | **A'ja Wilson** 🔴 +26 | 6,204 |
 | 16 | **Jewell Loyd** 🔴 +6 | 6,154 |
 | 17 | Brittney Griner | 6,087 |
 | 18 | Lauren Jackson | 6,005 |
 | 18 | Seimone Augustus | 6,005 |
 | 20 | Becky Hammon | 5,816 |
 | 21 | Angel McCoughtry | 5,797 |
-| 22 | **Skylar Diggins** 🔴 +3 | 5,735 |
+| 22 | **Skylar Diggins** 🔴 +6 | 5,738 |
 | 23 | Kayla McBride | 5,667 |
 | 24 | DeLisha Milton-Jones | 5,571 |
 | 25 | Katie Douglas | 5,545 |
@@ -1079,7 +1079,7 @@ _Last updated: 2026-06-28 22:12 UTC_
 | 29 | Ariel Atkins | 455 |
 | 30 | Tiffany Hayes | 454 |
 | 31 | **Chelsea Gray** 🔴 +1 | 451 |
-| 32 | **Skylar Diggins** 🔴 +1 | 448 |
+| 32 | **Skylar Diggins** 🔴 +2 | 449 |
 | 33 | Lauren Jackson | 436 |
 | 34 | Shameka Christon | 434 |
 | 35 | Crystal Robinson | 425 |
@@ -1634,8 +1634,8 @@ _Last updated: 2026-06-28 22:12 UTC_
 | 170 | Napheesa Collier | 504 |
 | 173 | Iziane Castro Marques | 502 |
 | 174 | Elena Baranova | 501 |
-| 175 | **Azurá Stevens** 🔴 +3 | 498 |
-| 175 | Nia Coffey | 498 |
+| 175 | **Azurá Stevens** 🔴 +4 | 499 |
+| 176 | Nia Coffey | 498 |
 | 177 | Adrian Williams-Strong | 497 |
 | 177 | Essence Carson | 497 |
 | 177 | Rachel Banham | 497 |
