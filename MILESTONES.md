@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-28 22:07 UTC
+
+- **A'ja Wilson** reached **6,200** career points (now 6,200) — _5:25 - 4th — LV @ CHI_
+
 ## 2026-06-28 21:50 UTC
 
 - **Emily Engstler** passed **Katie Mattera** and **Nakia Sanford** for **#91** all-time in blocks (career 132) — up from #95 entering today — _1:00 - 2OT — POR @ WSH_

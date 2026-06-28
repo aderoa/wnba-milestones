@@ -1,5 +1,14 @@
 [
   {
+    "ts": "2026-06-28T22:07:00+00:00",
+    "text": "A'ja Wilson reached 6,200 career points (now 6,200) \u2014 (5:25 - 4th \u2014 LV @ CHI)",
+    "kind": "round",
+    "player": "A'ja Wilson",
+    "stat": "points",
+    "value": 6200,
+    "new_total": 6200
+  },
+  {
     "ts": "2026-06-28T21:50:00+00:00",
     "text": "Emily Engstler passed Katie Mattera and Nakia Sanford for #91 all-time in blocks (career 132) \u2014 up from #95 entering today \u2014 (1:00 - 2OT \u2014 POR @ WSH)",
     "kind": "rank_pass",
@@ -2982,17 +2991,5 @@
       "Ann Wauters"
     ],
     "new_total": 441
-  },
-  {
-    "ts": "2026-06-14T21:09:00+00:00",
-    "text": "Jordin Canada passed Tiffany Hayes for #54 all-time in steals (career 383) \u2014 up from #56 entering today \u2014 (2:10 - 4th \u2014 ATL @ TOR)",
-    "kind": "rank_pass",
-    "player": "Jordin Canada",
-    "stat": "steals",
-    "rank": 54,
-    "passed_players": [
-      "Tiffany Hayes"
-    ],
-    "new_total": 383
   }
 ]

@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-28 22:06 UTC_
+_Last updated: 2026-06-28 22:07 UTC_
 
 ## Contents
 
@@ -33,7 +33,7 @@ _Last updated: 2026-06-28 22:06 UTC_
 | 12 | Sylvia Fowles | 6,413 |
 | 13 | Breanna Stewart | 6,335 |
 | 14 | Lisa Leslie | 6,251 |
-| 15 | **A'ja Wilson** 🔴 +21 | 6,199 |
+| 15 | **A'ja Wilson** 🔴 +22 | 6,200 |
 | 16 | **Jewell Loyd** 🔴 +6 | 6,154 |
 | 17 | Brittney Griner | 6,087 |
 | 18 | Lauren Jackson | 6,005 |
@@ -354,7 +354,7 @@ _Last updated: 2026-06-28 22:06 UTC_
 | 128 | Jasmine Thomas | 1,027 |
 | 129 | Sabrina Ionescu | 1,020 |
 | 130 | Cathrine Kraayeveld | 1,013 |
-| 131 | **Skylar Diggins** 🔴 +4 | 1,012 |
+| 130 | **Skylar Diggins** 🔴 +5 | 1,013 |
 | 132 | Kelly Miller | 1,011 |
 | 132 | Noelle Quinn | 1,011 |
 | 134 | Damiris Dantas | 1,005 |
@@ -410,8 +410,8 @@ _Last updated: 2026-06-28 22:06 UTC_
 | 183 | Kelsey Bone | 769 |
 | 183 | Tan White | 769 |
 | 186 | Tully Bevilaqua | 767 |
-| 187 | **Kamilla Cardoso** 🔴 +6 | 756 |
-| 187 | Layshia Clarendon | 756 |
+| 187 | **Kamilla Cardoso** 🔴 +7 | 757 |
+| 188 | Layshia Clarendon | 756 |
 | 189 | Brooke Wyckoff | 751 |
 | 190 | Coco Miller | 750 |
 | 191 | Kelsey Plum | 741 |
