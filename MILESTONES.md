@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-28 19:11 UTC
+
+- **Jessica Shepard** passed **Jasmine Thomas** for **#127** all-time in rebounds (career 1,028) — up from #129 entering today — _9:24 - 3rd — MIN @ DAL_
+
 ## 2026-06-28 19:06 UTC
 
 - **Michaela Onyenwere** reached **100** career steals (now 100) — _8:39 - 1st — POR @ WSH_

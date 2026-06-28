@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-28T19:11:00+00:00",
+    "text": "Jessica Shepard passed Jasmine Thomas for #127 all-time in rebounds (career 1,028) \u2014 up from #129 entering today \u2014 (9:24 - 3rd \u2014 MIN @ DAL)",
+    "kind": "rank_pass",
+    "player": "Jessica Shepard",
+    "stat": "rebounds",
+    "rank": 127,
+    "passed_players": [
+      "Jasmine Thomas"
+    ],
+    "new_total": 1028
+  },
+  {
     "ts": "2026-06-28T19:06:00+00:00",
     "text": "Michaela Onyenwere reached 100 career steals (now 100) \u2014 (8:39 - 1st \u2014 POR @ WSH)",
     "kind": "round",
@@ -2976,17 +2988,5 @@
       "Alysha Clark"
     ],
     "new_total": 91
-  },
-  {
-    "ts": "2026-06-13T01:26:00+00:00",
-    "text": "Isabelle Harrison passed Rebecca Allen for #184 all-time in steals (career 184) \u2014 up from #189 entering today \u2014 (3:28 - 4th \u2014 TOR @ WSH)",
-    "kind": "rank_pass",
-    "player": "Isabelle Harrison",
-    "stat": "steals",
-    "rank": 184,
-    "passed_players": [
-      "Rebecca Allen"
-    ],
-    "new_total": 184
   }
 ]
