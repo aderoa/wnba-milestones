@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-28 23:31 UTC
+
+- **Pauline Astier** reached **200** career points (now 201) — _8:51 - 2nd — NY @ GS_
+
 ## 2026-06-28 23:23 UTC
 
 - **Jonquel Jones** passed **Roneeka Hodges** for **#44** all-time in three-pointers (career 390) — _1:13 - 1st — NY @ GS_

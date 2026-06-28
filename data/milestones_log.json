@@ -1,5 +1,14 @@
 [
   {
+    "ts": "2026-06-28T23:31:00+00:00",
+    "text": "Pauline Astier reached 200 career points (now 201) \u2014 (8:51 - 2nd \u2014 NY @ GS)",
+    "kind": "round",
+    "player": "Pauline Astier",
+    "stat": "points",
+    "value": 200,
+    "new_total": 201
+  },
+  {
     "ts": "2026-06-28T23:23:00+00:00",
     "text": "Jonquel Jones passed Roneeka Hodges for #44 all-time in three-pointers (career 390) \u2014 (1:13 - 1st \u2014 NY @ GS)",
     "kind": "rank_pass",
@@ -2975,17 +2984,5 @@
       "Ebony Hoffman"
     ],
     "new_total": 792
-  },
-  {
-    "ts": "2026-06-16T03:49:00+00:00",
-    "text": "Kelsey Plum passed Leilani Mitchell for #92 all-time in fouls (career 685) \u2014 up from #95 entering today \u2014 (9:02 - 4th \u2014 LA @ GS)",
-    "kind": "rank_pass",
-    "player": "Kelsey Plum",
-    "stat": "fouls",
-    "rank": 92,
-    "passed_players": [
-      "Leilani Mitchell"
-    ],
-    "new_total": 685
   }
 ]
