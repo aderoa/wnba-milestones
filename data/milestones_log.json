@@ -1,5 +1,27 @@
 [
   {
+    "ts": "2026-06-28T23:57:00+00:00",
+    "text": "Kayla Thornton reached 2,400 career points (now 2,400) \u2014 (45.4 - 2nd \u2014 NY @ GS)",
+    "kind": "round",
+    "player": "Kayla Thornton",
+    "stat": "points",
+    "value": 2400,
+    "new_total": 2400
+  },
+  {
+    "ts": "2026-06-28T23:57:00+00:00",
+    "text": "Cecilia Zandalasini passed Janelle Salaun and Shoni Schimmel for #191 all-time in three-pointers (career 112) \u2014 (45.4 - 2nd \u2014 NY @ GS)",
+    "kind": "rank_pass",
+    "player": "Cecilia Zandalasini",
+    "stat": "three-pointers",
+    "rank": 191,
+    "passed_players": [
+      "Janelle Salaun",
+      "Shoni Schimmel"
+    ],
+    "new_total": 112
+  },
+  {
     "ts": "2026-06-28T23:54:00+00:00",
     "text": "Jonquel Jones passed Courtney Vandersloot for #48 all-time in points (career 4,365) \u2014 up from #49 entering today \u2014 (2:24 - 2nd \u2014 NY @ GS)",
     "kind": "rank_pass",
@@ -2960,29 +2982,5 @@
       "Matee Ajavon"
     ],
     "new_total": 2239
-  },
-  {
-    "ts": "2026-06-17T01:05:00+00:00",
-    "text": "Sophie Cunningham passed NaLyssa Smith for #184 all-time in points (career 1,776) \u2014 up from #188 entering today \u2014 (2:14 - 4th \u2014 TOR @ IND)",
-    "kind": "rank_pass",
-    "player": "Sophie Cunningham",
-    "stat": "points",
-    "rank": 184,
-    "passed_players": [
-      "NaLyssa Smith"
-    ],
-    "new_total": 1776
-  },
-  {
-    "ts": "2026-06-17T00:37:00+00:00",
-    "text": "Sophie Cunningham passed Kamila Vodichkova for #185 all-time in points (career 1,769) \u2014 up from #188 entering today \u2014 (7.4 - 3rd \u2014 TOR @ IND)",
-    "kind": "rank_pass",
-    "player": "Sophie Cunningham",
-    "stat": "points",
-    "rank": 185,
-    "passed_players": [
-      "Kamila Vodichkova"
-    ],
-    "new_total": 1769
   }
 ]

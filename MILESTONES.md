@@ -2,6 +2,11 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-28 23:57 UTC
+
+- **Kayla Thornton** reached **2,400** career points (now 2,400) — _45.4 - 2nd — NY @ GS_
+- **Cecilia Zandalasini** passed **Janelle Salaun** and **Shoni Schimmel** for **#191** all-time in three-pointers (career 112) — _45.4 - 2nd — NY @ GS_
+
 ## 2026-06-28 23:54 UTC
 
 - **Jonquel Jones** passed **Courtney Vandersloot** for **#48** all-time in points (career 4,365) — up from #49 entering today — _2:24 - 2nd — NY @ GS_
