@@ -2,6 +2,12 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-28 21:35 UTC
+
+- **NaLyssa Smith** passed **Mwadi Mabika** and **Natalie Achonwa** for **#134** all-time in blocks (career 99) — up from #135 entering today — _3:55 - 3rd — LV @ CHI_
+- **A'ja Wilson** passed **Erica Wheeler** for **#63** all-time in steals (career 362) — _3:55 - 3rd — LV @ CHI_
+- **Chelsea Gray** passed **Janel McCarville** for **#91** all-time in rebounds (career 1,262) — up from #93 entering today — _3:55 - 3rd — LV @ CHI_
+
 ## 2026-06-28 21:31 UTC
 
 - **Michaela Onyenwere** passed **Alanna Smith** for **#142** all-time in three-pointers (career 157) — up from #147 entering today — _24.3 - OT — POR @ WSH_
