@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-28 21:36 UTC
+
+- **Jackie Young** passed **Jewell Loyd** for **#32** all-time in assists (career 1,158) — up from #33 entering today — _3:37 - 3rd — LV @ CHI_
+
 ## 2026-06-28 21:35 UTC
 
 - **NaLyssa Smith** passed **Mwadi Mabika** and **Natalie Achonwa** for **#134** all-time in blocks (career 99) — up from #135 entering today — _3:55 - 3rd — LV @ CHI_

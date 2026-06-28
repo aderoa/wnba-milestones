@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-28T21:36:00+00:00",
+    "text": "Jackie Young passed Jewell Loyd for #32 all-time in assists (career 1,158) \u2014 up from #33 entering today \u2014 (3:37 - 3rd \u2014 LV @ CHI)",
+    "kind": "rank_pass",
+    "player": "Jackie Young",
+    "stat": "assists",
+    "rank": 32,
+    "passed_players": [
+      "Jewell Loyd"
+    ],
+    "new_total": 1158
+  },
+  {
     "ts": "2026-06-28T21:35:00+00:00",
     "text": "NaLyssa Smith passed Mwadi Mabika and Natalie Achonwa for #134 all-time in blocks (career 99) \u2014 up from #135 entering today \u2014 (3:55 - 3rd \u2014 LV @ CHI)",
     "kind": "rank_pass",
@@ -2980,17 +2992,5 @@
       "Diamond DeShields"
     ],
     "new_total": 334
-  },
-  {
-    "ts": "2026-06-14T20:50:00+00:00",
-    "text": "Jonquel Jones passed Courtney Williams for #53 all-time in points (career 4,240) \u2014 up from #56 entering today \u2014 (7:08 - 4th \u2014 WSH @ NY)",
-    "kind": "rank_pass",
-    "player": "Jonquel Jones",
-    "stat": "points",
-    "rank": 53,
-    "passed_players": [
-      "Courtney Williams"
-    ],
-    "new_total": 4240
   }
 ]
