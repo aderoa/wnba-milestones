@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-28T00:48:00+00:00",
+    "text": "Aliyah Boston passed Kahleah Copper for #100 all-time in rebounds (career 1,205) \u2014 up from #102 entering today \u2014 (3:22 - 2nd \u2014 LA @ IND)",
+    "kind": "rank_pass",
+    "player": "Aliyah Boston",
+    "stat": "rebounds",
+    "rank": 100,
+    "passed_players": [
+      "Kahleah Copper"
+    ],
+    "new_total": 1205
+  },
+  {
     "ts": "2026-06-28T00:46:00+00:00",
     "text": "Aliyah Boston reached 2,100 career points (now 2,100) \u2014 (4:19 - 2nd \u2014 LA @ IND)",
     "kind": "round",
@@ -2983,18 +2995,5 @@
       "Dawn Staley"
     ],
     "new_total": 552
-  },
-  {
-    "ts": "2026-06-11T01:15:00+00:00",
-    "text": "Marina Mabrey passed Glory Johnson and Tierra Ruffin-Pratt for #139 all-time in fouls (career 551) \u2014 up from #141 entering today \u2014 (2:22 - 4th \u2014 CON @ TOR)",
-    "kind": "rank_pass",
-    "player": "Marina Mabrey",
-    "stat": "fouls",
-    "rank": 139,
-    "passed_players": [
-      "Glory Johnson",
-      "Tierra Ruffin-Pratt"
-    ],
-    "new_total": 551
   }
 ]
