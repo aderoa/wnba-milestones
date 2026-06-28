@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-28 03:05 UTC
+
+- **Natisha Hiedeman** passed **Vicky Bullett** for **#161** all-time in points (career 2,019) — up from #162 entering today — _2:13 - 4th — ATL @ SEA_
+
 ## 2026-06-28 02:59 UTC
 
 - **Jordin Canada** passed **Kelsey Plum** for **#25** all-time in assists (career 1,271) — up from #26 entering today — _4:13 - 4th — ATL @ SEA_

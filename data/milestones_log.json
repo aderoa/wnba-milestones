@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-28T03:05:00+00:00",
+    "text": "Natisha Hiedeman passed Vicky Bullett for #161 all-time in points (career 2,019) \u2014 up from #162 entering today \u2014 (2:13 - 4th \u2014 ATL @ SEA)",
+    "kind": "rank_pass",
+    "player": "Natisha Hiedeman",
+    "stat": "points",
+    "rank": 161,
+    "passed_players": [
+      "Vicky Bullett"
+    ],
+    "new_total": 2019
+  },
+  {
     "ts": "2026-06-28T02:59:00+00:00",
     "text": "Jordin Canada passed Kelsey Plum for #25 all-time in assists (career 1,271) \u2014 up from #26 entering today \u2014 (4:13 - 4th \u2014 ATL @ SEA)",
     "kind": "rank_pass",
@@ -2975,17 +2987,5 @@
       "Cynthia Cooper"
     ],
     "new_total": 2603
-  },
-  {
-    "ts": "2026-06-12T03:28:00+00:00",
-    "text": "Jackie Young passed Isabelle Harrison for #121 all-time in rebounds (career 1,050) \u2014 up from #122 entering today \u2014 (4:18 - 3rd \u2014 LV @ POR)",
-    "kind": "rank_pass",
-    "player": "Jackie Young",
-    "stat": "rebounds",
-    "rank": 121,
-    "passed_players": [
-      "Isabelle Harrison"
-    ],
-    "new_total": 1050
   }
 ]
