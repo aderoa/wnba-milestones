@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-28T19:14:00+00:00",
+    "text": "Natasha Howard passed Camille Smith for #12 all-time in fouls (career 1,160) \u2014 up from #13 entering today \u2014 (7:28 - 3rd \u2014 MIN @ DAL)",
+    "kind": "rank_pass",
+    "player": "Natasha Howard",
+    "stat": "fouls",
+    "rank": 12,
+    "passed_players": [
+      "Camille Smith"
+    ],
+    "new_total": 1160
+  },
+  {
     "ts": "2026-06-28T19:13:00+00:00",
     "text": "Arike Ogunbowale passed Tiffany Mitchell for #123 all-time in fouls (career 605) \u2014 (7:40 - 3rd \u2014 MIN @ DAL)",
     "kind": "rank_pass",
@@ -2974,18 +2986,5 @@
     "stat": "fouls",
     "value": 100,
     "new_total": 100
-  },
-  {
-    "ts": "2026-06-13T03:55:00+00:00",
-    "text": "Kayla Thornton passed Jasmine Thomas and Kayla Alexander for #142 all-time in blocks (career 92) \u2014 up from #146 entering today \u2014 (5:47 - 4th \u2014 GS @ SEA)",
-    "kind": "rank_pass",
-    "player": "Kayla Thornton",
-    "stat": "blocks",
-    "rank": 142,
-    "passed_players": [
-      "Jasmine Thomas",
-      "Kayla Alexander"
-    ],
-    "new_total": 92
   }
 ]
