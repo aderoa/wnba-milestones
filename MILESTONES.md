@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-28 02:43 UTC
+
+- **Rhyne Howard** passed **Riquna Williams** for **#110** all-time in points (career 2,660) — up from #115 entering today — _6:17 - 4th — ATL @ SEA_
+
 ## 2026-06-28 02:26 UTC
 
 - **Jade Melbourne** reached **700** career points (now 700) — _1:56 - 3rd — ATL @ SEA_

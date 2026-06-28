@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-28T02:43:00+00:00",
+    "text": "Rhyne Howard passed Riquna Williams for #110 all-time in points (career 2,660) \u2014 up from #115 entering today \u2014 (6:17 - 4th \u2014 ATL @ SEA)",
+    "kind": "rank_pass",
+    "player": "Rhyne Howard",
+    "stat": "points",
+    "rank": 110,
+    "passed_players": [
+      "Riquna Williams"
+    ],
+    "new_total": 2660
+  },
+  {
     "ts": "2026-06-28T02:26:00+00:00",
     "text": "Jade Melbourne reached 700 career points (now 700) \u2014 (1:56 - 3rd \u2014 ATL @ SEA)",
     "kind": "round",
@@ -2975,17 +2987,5 @@
       "Kara Lawson"
     ],
     "new_total": 458
-  },
-  {
-    "ts": "2026-06-12T02:55:00+00:00",
-    "text": "DeWanna Bonner passed Ticha Penicheiro for #39 all-time in fouls (career 914) \u2014 up from #40 entering today \u2014 (11.7 - 4th \u2014 PHX @ DAL)",
-    "kind": "rank_pass",
-    "player": "DeWanna Bonner",
-    "stat": "fouls",
-    "rank": 39,
-    "passed_players": [
-      "Ticha Penicheiro"
-    ],
-    "new_total": 914
   }
 ]
