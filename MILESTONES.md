@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-28 19:06 UTC
+
+- **Michaela Onyenwere** reached **100** career steals (now 100) — _8:39 - 1st — POR @ WSH_
+
 ## 2026-06-28 18:43 UTC
 
 - **Nia Coffey** passed **Vanessa Hayden** for **#64** all-time in blocks (career 178) — _3:29 - 2nd — MIN @ DAL_
