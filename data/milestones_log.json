@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-28T19:21:00+00:00",
+    "text": "Nia Coffey passed Karima Christmas-Kelly for #150 all-time in rebounds (career 909) \u2014 up from #151 entering today \u2014 (5:15 - 3rd \u2014 MIN @ DAL)",
+    "kind": "rank_pass",
+    "player": "Nia Coffey",
+    "stat": "rebounds",
+    "rank": 150,
+    "passed_players": [
+      "Karima Christmas-Kelly"
+    ],
+    "new_total": 909
+  },
+  {
     "ts": "2026-06-28T19:17:00+00:00",
     "text": "Bridget Carleton passed Elena Delle Donne, Ezi Magbegor, and Margo Dydek for #196 all-time in steals (career 175) \u2014 up from #199 entering today \u2014 (2:36 - 1st \u2014 POR @ WSH)",
     "kind": "rank_pass",
@@ -2979,17 +2991,5 @@
       "Nikki McCray"
     ],
     "new_total": 176
-  },
-  {
-    "ts": "2026-06-13T04:22:00+00:00",
-    "text": "Tiffany Hayes passed Seimone Augustus for #71 all-time in turnovers (career 614) \u2014 up from #72 entering today \u2014 (21.3 - 4th \u2014 GS @ SEA)",
-    "kind": "rank_pass",
-    "player": "Tiffany Hayes",
-    "stat": "turnovers",
-    "rank": 71,
-    "passed_players": [
-      "Seimone Augustus"
-    ],
-    "new_total": 614
   }
 ]
