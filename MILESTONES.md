@@ -2,6 +2,11 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-28 01:50 UTC
+
+- **Erica Wheeler** reached **700** career turnovers (now 700) — _9:14 - 4th — LA @ IND_
+- **Monique Billings** passed **Rebecca Allen** for **#186** all-time in steals (career 184) — up from #188 entering today — _9:14 - 4th — LA @ IND_
+
 ## 2026-06-28 01:40 UTC
 
 - **Ariel Atkins** passed **Shameka Christon** for **#74** all-time in fouls (career 735) — up from #77 entering today — _2:23 - 3rd — LA @ IND_

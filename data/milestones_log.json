@@ -1,5 +1,26 @@
 [
   {
+    "ts": "2026-06-28T01:50:00+00:00",
+    "text": "Erica Wheeler reached 700 career turnovers (now 700) \u2014 (9:14 - 4th \u2014 LA @ IND)",
+    "kind": "round",
+    "player": "Erica Wheeler",
+    "stat": "turnovers",
+    "value": 700,
+    "new_total": 700
+  },
+  {
+    "ts": "2026-06-28T01:50:00+00:00",
+    "text": "Monique Billings passed Rebecca Allen for #186 all-time in steals (career 184) \u2014 up from #188 entering today \u2014 (9:14 - 4th \u2014 LA @ IND)",
+    "kind": "rank_pass",
+    "player": "Monique Billings",
+    "stat": "steals",
+    "rank": 186,
+    "passed_players": [
+      "Rebecca Allen"
+    ],
+    "new_total": 184
+  },
+  {
     "ts": "2026-06-28T01:40:00+00:00",
     "text": "Ariel Atkins passed Shameka Christon for #74 all-time in fouls (career 735) \u2014 up from #77 entering today \u2014 (2:23 - 3rd \u2014 LA @ IND)",
     "kind": "rank_pass",
@@ -2963,29 +2984,5 @@
       "Nicole Ohlde"
     ],
     "new_total": 1960
-  },
-  {
-    "ts": "2026-06-12T01:35:00+00:00",
-    "text": "Kelsey Mitchell passed Wendy Palmer for #141 all-time in steals (career 227) \u2014 up from #144 entering today \u2014 (1:10 - OT \u2014 CHI @ IND)",
-    "kind": "rank_pass",
-    "player": "Kelsey Mitchell",
-    "stat": "steals",
-    "rank": 141,
-    "passed_players": [
-      "Wendy Palmer"
-    ],
-    "new_total": 227
-  },
-  {
-    "ts": "2026-06-12T01:31:00+00:00",
-    "text": "Leonie Fiebich passed Shoni Schimmel for #189 all-time in three-pointers (career 112) \u2014 up from #190 entering today \u2014 (6:51 - 4th \u2014 NY @ ATL)",
-    "kind": "rank_pass",
-    "player": "Leonie Fiebich",
-    "stat": "three-pointers",
-    "rank": 189,
-    "passed_players": [
-      "Shoni Schimmel"
-    ],
-    "new_total": 112
   }
 ]
