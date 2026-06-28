@@ -1,5 +1,29 @@
 [
   {
+    "ts": "2026-06-28T22:19:00+00:00",
+    "text": "A'ja Wilson passed Natisha Hiedeman for #87 all-time in assists (career 669) \u2014 up from #88 entering today \u2014 (1:27 - 4th \u2014 LV @ CHI)",
+    "kind": "rank_pass",
+    "player": "A'ja Wilson",
+    "stat": "assists",
+    "rank": 87,
+    "passed_players": [
+      "Natisha Hiedeman"
+    ],
+    "new_total": 669
+  },
+  {
+    "ts": "2026-06-28T22:19:00+00:00",
+    "text": "Skylar Diggins passed Cathrine Kraayeveld for #130 all-time in rebounds (career 1,014) \u2014 up from #133 entering today \u2014 (1:27 - 4th \u2014 LV @ CHI)",
+    "kind": "rank_pass",
+    "player": "Skylar Diggins",
+    "stat": "rebounds",
+    "rank": 130,
+    "passed_players": [
+      "Cathrine Kraayeveld"
+    ],
+    "new_total": 1014
+  },
+  {
     "ts": "2026-06-28T22:18:00+00:00",
     "text": "Shakira Austin passed Natalie Williams for #105 all-time in blocks (career 123) \u2014 up from #108 entering today \u2014 (7.9 - 3OT \u2014 POR @ WSH)",
     "kind": "rank_pass",
@@ -2967,26 +2991,5 @@
       "Rita Williams"
     ],
     "new_total": 404
-  },
-  {
-    "ts": "2026-06-16T01:41:00+00:00",
-    "text": "Jessica Shepard passed Kia Nurse for #166 all-time in assists (career 403) \u2014 up from #170 entering today \u2014 (7:18 - 4th \u2014 LV @ DAL)",
-    "kind": "rank_pass",
-    "player": "Jessica Shepard",
-    "stat": "assists",
-    "rank": 166,
-    "passed_players": [
-      "Kia Nurse"
-    ],
-    "new_total": 403
-  },
-  {
-    "ts": "2026-06-16T01:40:00+00:00",
-    "text": "Kierstan Bell reached 100 career fouls (now 100) \u2014 (7:55 - 4th \u2014 LV @ DAL)",
-    "kind": "round",
-    "player": "Kierstan Bell",
-    "stat": "fouls",
-    "value": 100,
-    "new_total": 100
   }
 ]

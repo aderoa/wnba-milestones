@@ -2,6 +2,11 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-28 22:19 UTC
+
+- **A'ja Wilson** passed **Natisha Hiedeman** for **#87** all-time in assists (career 669) — up from #88 entering today — _1:27 - 4th — LV @ CHI_
+- **Skylar Diggins** passed **Cathrine Kraayeveld** for **#130** all-time in rebounds (career 1,014) — up from #133 entering today — _1:27 - 4th — LV @ CHI_
+
 ## 2026-06-28 22:18 UTC
 
 - **Shakira Austin** passed **Natalie Williams** for **#105** all-time in blocks (career 123) — up from #108 entering today — _7.9 - 3OT — POR @ WSH_
