@@ -2,6 +2,11 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-28 01:24 UTC
+
+- **Ariel Atkins** reached **800** career rebounds (now 800) — _7:06 - 3rd — LA @ IND_
+- **Ariel Atkins** passed **Tierra Ruffin-Pratt** for **#172** all-time in rebounds (career 800) — up from #173 entering today — _7:06 - 3rd — LA @ IND_
+
 ## 2026-06-28 01:23 UTC
 
 - **Dearica Hamby** passed **Dominique Canty** for **#50** all-time in turnovers (career 686) — up from #52 entering today — _7:29 - 3rd — LA @ IND_

@@ -1,5 +1,26 @@
 [
   {
+    "ts": "2026-06-28T01:24:00+00:00",
+    "text": "Ariel Atkins reached 800 career rebounds (now 800) \u2014 (7:06 - 3rd \u2014 LA @ IND)",
+    "kind": "round",
+    "player": "Ariel Atkins",
+    "stat": "rebounds",
+    "value": 800,
+    "new_total": 800
+  },
+  {
+    "ts": "2026-06-28T01:24:00+00:00",
+    "text": "Ariel Atkins passed Tierra Ruffin-Pratt for #172 all-time in rebounds (career 800) \u2014 up from #173 entering today \u2014 (7:06 - 3rd \u2014 LA @ IND)",
+    "kind": "rank_pass",
+    "player": "Ariel Atkins",
+    "stat": "rebounds",
+    "rank": 172,
+    "passed_players": [
+      "Tierra Ruffin-Pratt"
+    ],
+    "new_total": 800
+  },
+  {
     "ts": "2026-06-28T01:23:00+00:00",
     "text": "Dearica Hamby passed Dominique Canty for #50 all-time in turnovers (career 686) \u2014 up from #52 entering today \u2014 (7:29 - 3rd \u2014 LA @ IND)",
     "kind": "rank_pass",
@@ -2965,29 +2986,5 @@
       "Tiffany Hayes"
     ],
     "new_total": 611
-  },
-  {
-    "ts": "2026-06-12T01:00:00+00:00",
-    "text": "Natasha Cloud passed Penny Taylor for #47 all-time in turnovers (career 696) \u2014 up from #48 entering today \u2014 (5:16 - 4th \u2014 CHI @ IND)",
-    "kind": "rank_pass",
-    "player": "Natasha Cloud",
-    "stat": "turnovers",
-    "rank": 47,
-    "passed_players": [
-      "Penny Taylor"
-    ],
-    "new_total": 696
-  },
-  {
-    "ts": "2026-06-12T00:58:00+00:00",
-    "text": "Jonquel Jones passed Vickie Johnson for #54 all-time in points (career 4,233) \u2014 up from #56 entering today \u2014 (5:06 - 3rd \u2014 NY @ ATL)",
-    "kind": "rank_pass",
-    "player": "Jonquel Jones",
-    "stat": "points",
-    "rank": 54,
-    "passed_players": [
-      "Vickie Johnson"
-    ],
-    "new_total": 4233
   }
 ]
