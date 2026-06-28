@@ -1,5 +1,29 @@
 [
   {
+    "ts": "2026-06-28T00:36:00+00:00",
+    "text": "Monique Billings passed Erin Phillips for #187 all-time in steals (career 183) \u2014 up from #188 entering today \u2014 (7:34 - 2nd \u2014 LA @ IND)",
+    "kind": "rank_pass",
+    "player": "Monique Billings",
+    "stat": "steals",
+    "rank": 187,
+    "passed_players": [
+      "Erin Phillips"
+    ],
+    "new_total": 183
+  },
+  {
+    "ts": "2026-06-28T00:36:00+00:00",
+    "text": "Monique Billings passed Erlana Larkins for #144 all-time in fouls (career 547) \u2014 up from #145 entering today \u2014 (7:34 - 2nd \u2014 LA @ IND)",
+    "kind": "rank_pass",
+    "player": "Monique Billings",
+    "stat": "fouls",
+    "rank": 144,
+    "passed_players": [
+      "Erlana Larkins"
+    ],
+    "new_total": 547
+  },
+  {
     "ts": "2026-06-28T00:33:00+00:00",
     "text": "Monique Billings passed Tamera Young for #68 all-time in rebounds (career 1,434) \u2014 up from #69 entering today \u2014 (8:25 - 2nd \u2014 LA @ IND)",
     "kind": "rank_pass",
@@ -2975,31 +2999,5 @@
       "Moriah Jefferson"
     ],
     "new_total": 217
-  },
-  {
-    "ts": "2026-06-10T03:50:00+00:00",
-    "text": "Alyssa Thomas passed Taj McWilliams-Franklin for #13 all-time in steals (career 578) \u2014 up from #14 entering today \u2014 (5:43 - 4th \u2014 PHX @ GS)",
-    "kind": "rank_pass",
-    "player": "Alyssa Thomas",
-    "stat": "steals",
-    "rank": 13,
-    "passed_players": [
-      "Taj McWilliams-Franklin"
-    ],
-    "new_total": 578
-  },
-  {
-    "ts": "2026-06-10T02:40:00+00:00",
-    "text": "Veronica Burton passed Edwige Lawson-Wade, Kennedy Burke, and Marie Ferdinand-Harris for #179 all-time in three-pointers (career 117) \u2014 up from #185 entering today \u2014 (5:38 - 2nd \u2014 PHX @ GS)",
-    "kind": "rank_pass",
-    "player": "Veronica Burton",
-    "stat": "three-pointers",
-    "rank": 179,
-    "passed_players": [
-      "Edwige Lawson-Wade",
-      "Kennedy Burke",
-      "Marie Ferdinand-Harris"
-    ],
-    "new_total": 117
   }
 ]
