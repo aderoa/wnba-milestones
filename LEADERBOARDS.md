@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-28 20:24 UTC_
+_Last updated: 2026-06-28 20:25 UTC_
 
 ## Contents
 
@@ -33,7 +33,7 @@ _Last updated: 2026-06-28 20:24 UTC_
 | 12 | Sylvia Fowles | 6,413 |
 | 13 | Breanna Stewart | 6,335 |
 | 14 | Lisa Leslie | 6,251 |
-| 15 | **A'ja Wilson** 🔴 +2 | 6,180 |
+| 15 | **A'ja Wilson** 🔴 +6 | 6,184 |
 | 16 | **Jewell Loyd** 🔴 | 6,148 |
 | 17 | Brittney Griner | 6,087 |
 | 18 | Lauren Jackson | 6,005 |
@@ -151,7 +151,7 @@ _Last updated: 2026-06-28 20:24 UTC_
 | 130 | Kayla Thornton | 2,393 |
 | 131 | DeMya Walker | 2,379 |
 | 132 | Alex Bentley | 2,350 |
-| 133 | **Azurá Stevens** 🔴 +3 | 2,346 |
+| 133 | **Azurá Stevens** 🔴 +6 | 2,349 |
 | 134 | Jordin Canada | 2,342 |
 | 135 | Merlakia Jones | 2,308 |
 | 136 | Betnijah Laney-Hamilton | 2,302 |
@@ -431,7 +431,7 @@ _Last updated: 2026-06-28 20:24 UTC_
 | Rank | Player | Total |
 |-----:|--------|------:|
 | 1 | Sue Bird | 3,234 |
-| 2 | **Courtney Vandersloot** 🔴 | 2,894 |
+| 2 | **Courtney Vandersloot** 🔴 +1 | 2,895 |
 | 3 | Ticha Penicheiro | 2,588 |
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
@@ -462,7 +462,7 @@ _Last updated: 2026-06-28 20:24 UTC_
 | 30 | Leilani Mitchell | 1,197 |
 | 31 | DeWanna Bonner | 1,196 |
 | 32 | **Jewell Loyd** 🔴 | 1,156 |
-| 33 | **Jackie Young** 🔴 | 1,150 |
+| 33 | **Jackie Young** 🔴 +1 | 1,151 |
 | 34 | Renee Montgomery | 1,140 |
 | 35 | Swin Cash | 1,131 |
 | 36 | Sabrina Ionescu | 1,092 |
@@ -1138,8 +1138,8 @@ _Last updated: 2026-06-28 20:24 UTC_
 | 88 | Bria Hartley | 253 |
 | 88 | Nneka Ogwumike | 253 |
 | 90 | Angel McCoughtry | 249 |
-| 91 | **Azurá Stevens** 🔴 | 247 |
-| 91 | Brittney Sykes | 247 |
+| 91 | **Azurá Stevens** 🔴 +1 | 248 |
+| 92 | Brittney Sykes | 247 |
 | 93 | Erin Thorn | 243 |
 | 94 | Alex Bentley | 239 |
 | 94 | Cynthia Cooper | 239 |
