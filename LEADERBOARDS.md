@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-28 02:58 UTC_
+_Last updated: 2026-06-28 02:59 UTC_
 
 ## Contents
 
@@ -128,7 +128,7 @@ _Last updated: 2026-06-28 02:58 UTC_
 | 107 | Dominique Canty | 2,763 |
 | 108 | Ticha Penicheiro | 2,729 |
 | 109 | Adrienne Goodson | 2,705 |
-| 110 | **Rhyne Howard** 🔴 +25 | 2,662 |
+| 110 | **Rhyne Howard** 🔴 +27 | 2,664 |
 | 111 | Riquna Williams | 2,659 |
 | 112 | Essence Carson | 2,647 |
 | 112 | Lindsey Harding | 2,647 |
@@ -454,8 +454,8 @@ _Last updated: 2026-06-28 02:58 UTC_
 | 22 | Dawn Staley | 1,337 |
 | 23 | Teresa Weatherspoon | 1,333 |
 | 24 | Kristi Toliver | 1,301 |
-| 25 | **Jordin Canada** 🔴 +8 | 1,270 |
-| 25 | Kelsey Plum | 1,270 |
+| 25 | **Jordin Canada** 🔴 +9 | 1,271 |
+| 26 | Kelsey Plum | 1,270 |
 | 27 | Katie Smith | 1,258 |
 | 28 | Odyssey Sims | 1,228 |
 | 29 | Vickie Johnson | 1,202 |

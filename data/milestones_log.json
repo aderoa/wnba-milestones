@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-28T02:59:00+00:00",
+    "text": "Jordin Canada passed Kelsey Plum for #25 all-time in assists (career 1,271) \u2014 up from #26 entering today \u2014 (4:13 - 4th \u2014 ATL @ SEA)",
+    "kind": "rank_pass",
+    "player": "Jordin Canada",
+    "stat": "assists",
+    "rank": 25,
+    "passed_players": [
+      "Kelsey Plum"
+    ],
+    "new_total": 1271
+  },
+  {
     "ts": "2026-06-28T02:43:00+00:00",
     "text": "Rhyne Howard passed Riquna Williams for #110 all-time in points (career 2,660) \u2014 up from #115 entering today \u2014 (6:17 - 4th \u2014 ATL @ SEA)",
     "kind": "rank_pass",
@@ -2975,17 +2987,5 @@
       "Isabelle Harrison"
     ],
     "new_total": 1050
-  },
-  {
-    "ts": "2026-06-12T03:26:00+00:00",
-    "text": "NaLyssa Smith passed Kara Lawson for #197 all-time in fouls (career 458) \u2014 up from #198 entering today \u2014 (4:53 - 3rd \u2014 LV @ POR)",
-    "kind": "rank_pass",
-    "player": "NaLyssa Smith",
-    "stat": "fouls",
-    "rank": 197,
-    "passed_players": [
-      "Kara Lawson"
-    ],
-    "new_total": 458
   }
 ]
