@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-28 18:14 UTC
+
+- **Kayla McBride** passed **Kelsey Plum** for **#64** all-time in turnovers (career 649) — _6:16 - 1st — MIN @ DAL_
+
 ## 2026-06-28 03:05 UTC
 
 - **Natisha Hiedeman** passed **Vicky Bullett** for **#161** all-time in points (career 2,019) — up from #162 entering today — _2:13 - 4th — ATL @ SEA_
