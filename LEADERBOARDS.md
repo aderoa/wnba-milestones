@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-28 22:39 UTC_
+_Last updated: 2026-06-28 22:40 UTC_
 
 ## Contents
 
@@ -385,7 +385,7 @@ _Last updated: 2026-06-28 22:39 UTC_
 | 159 | Krystal Thomas | 862 |
 | 160 | Naz Hillmon | 859 |
 | 161 | Leilani Mitchell | 845 |
-| 161 | **Shakira Austin** 🔴 +13 | 845 |
+| 161 | Shakira Austin | 845 |
 | 163 | Essence Carson | 833 |
 | 164 | Gabby Williams | 831 |
 | 165 | Kristi Toliver | 829 |
@@ -606,7 +606,7 @@ _Last updated: 2026-06-28 22:39 UTC_
 | 174 | Shameka Christon | 389 |
 | 174 | Tamicha Jackson | 389 |
 | 176 | Riquna Williams | 387 |
-| 177 | **Bridget Carleton** 🔴 +2 | 386 |
+| 177 | Bridget Carleton | 386 |
 | 178 | Dana Evans | 379 |
 | 179 | Jessica Breland | 377 |
 | 180 | Shenise Johnson | 376 |
@@ -725,7 +725,7 @@ _Last updated: 2026-06-28 22:39 UTC_
 | 87 | Nicky Anosike | 133 |
 | 87 | Olivia Nelson-Ododa | 133 |
 | 87 | Seimone Augustus | 133 |
-| 91 | **Emily Engstler** 🔴 +3 | 131 |
+| 91 | Emily Engstler | 131 |
 | 91 | Katie Mattera | 131 |
 | 91 | Nakia Sanford | 131 |
 | 94 | Brooke Wyckoff | 129 |
@@ -739,7 +739,7 @@ _Last updated: 2026-06-28 22:39 UTC_
 | 102 | Brionna Jones | 125 |
 | 103 | Kamilla Cardoso | 124 |
 | 104 | Natasha Mack | 123 |
-| 104 | **Shakira Austin** 🔴 +4 | 123 |
+| 104 | Shakira Austin | 123 |
 | 106 | Natalie Williams | 122 |
 | 107 | Ebony Hoffman | 121 |
 | 107 | Essence Carson | 121 |
@@ -1035,7 +1035,7 @@ _Last updated: 2026-06-28 22:39 UTC_
 | 190 | Diamond DeShields | 180 |
 | 191 | Kiah Stokes | 178 |
 | 192 | Bridget Pettis | 177 |
-| 193 | **Bridget Carleton** 🔴 +3 | 176 |
+| 193 | Bridget Carleton | 176 |
 | 193 | Brittany Boyd-Jones | 176 |
 | 193 | Chiney Ogwumike | 176 |
 | 196 | Tamika Raymond | 175 |
@@ -1117,7 +1117,7 @@ _Last updated: 2026-06-28 22:39 UTC_
 | 67 | DeLisha Milton-Jones | 312 |
 | 67 | Ruthie Bolton | 312 |
 | 69 | Tan White | 311 |
-| 70 | **Bridget Carleton** 🔴 +3 | 309 |
+| 70 | Bridget Carleton | 309 |
 | 71 | Kedra Holland-Corn | 307 |
 | 72 | Kelly Miller | 305 |
 | 73 | Nikki Teasley | 304 |
@@ -1189,7 +1189,7 @@ _Last updated: 2026-06-28 22:39 UTC_
 | 139 | Aari McDonald | 158 |
 | 139 | Jennifer Azzi | 158 |
 | 139 | Natasha Howard | 158 |
-| 142 | **Michaela Onyenwere** 🔴 +6 | 157 |
+| 142 | Michaela Onyenwere | 157 |
 | 143 | Alanna Smith | 156 |
 | 144 | Bridget Pettis | 153 |
 | 144 | Gabby Williams | 153 |
@@ -1249,7 +1249,7 @@ _Last updated: 2026-06-28 22:39 UTC_
 | 199 | A'ja Wilson | 103 |
 | 199 | Jeanette Pohlen-Mavunga | 103 |
 | 199 | Kiesha Brown | 103 |
-| 199 | **Sonia Citron** 🔴 +1 | 103 |
+| 199 | Sonia Citron | 103 |
 
 ## Turnovers
 
