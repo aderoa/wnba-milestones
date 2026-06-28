@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-28 03:06 UTC_
+_Last updated: 2026-06-28 03:07 UTC_
 
 ## Contents
 
@@ -179,7 +179,7 @@ _Last updated: 2026-06-28 03:06 UTC_
 | 158 | Aerial Powers | 2,068 |
 | 159 | Coco Miller | 2,030 |
 | 160 | Diamond DeShields | 2,026 |
-| 161 | **Natisha Hiedeman** 🔴 +19 | 2,021 |
+| 161 | **Natisha Hiedeman** 🔴 +20 | 2,022 |
 | 162 | Vicky Bullett | 2,018 |
 | 163 | Ezi Magbegor | 1,995 |
 | 164 | Bria Hartley | 1,967 |
