@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-28 01:36 UTC_
+_Last updated: 2026-06-28 01:37 UTC_
 
 ## Contents
 
@@ -180,11 +180,11 @@ _Last updated: 2026-06-28 01:36 UTC_
 | 159 | Coco Miller | 2,030 |
 | 160 | Diamond DeShields | 2,026 |
 | 161 | Vicky Bullett | 2,018 |
-| 162 | **Natisha Hiedeman** 🔴 | 2,002 |
+| 162 | **Natisha Hiedeman** 🔴 +2 | 2,004 |
 | 163 | Ezi Magbegor | 1,995 |
 | 164 | Bria Hartley | 1,967 |
 | 165 | Chiney Ogwumike | 1,964 |
-| 166 | **Myisha Hines-Allen** 🔴 +4 | 1,960 |
+| 166 | **Myisha Hines-Allen** 🔴 +5 | 1,961 |
 | 167 | Nicole Ohlde | 1,959 |
 | 168 | Isabelle Harrison | 1,944 |
 | 169 | Kedra Holland-Corn | 1,938 |
@@ -1476,7 +1476,7 @@ _Last updated: 2026-06-28 01:36 UTC_
 | 16 | Swin Cash | 1,146 |
 | 17 | Taj McWilliams-Franklin | 1,145 |
 | 18 | Monique Currie | 1,137 |
-| 19 | **Stefanie Dolson** 🔴 +2 | 1,135 |
+| 19 | **Stefanie Dolson** 🔴 +3 | 1,136 |
 | 20 | Tanisha Wright | 1,109 |
 | 21 | Michelle Snow | 1,108 |
 | 22 | Sylvia Fowles | 1,049 |
@@ -1507,7 +1507,7 @@ _Last updated: 2026-06-28 01:36 UTC_
 | 47 | Cappie Pondexter | 869 |
 | 48 | Erika de Souza | 858 |
 | 49 | Angel McCoughtry | 857 |
-| 50 | **Dearica Hamby** 🔴 +2 | 852 |
+| 50 | **Dearica Hamby** 🔴 +3 | 853 |
 | 51 | Betty Lennox | 851 |
 | 52 | Tamecka Dixon | 849 |
 | 53 | Natalie Williams | 847 |
