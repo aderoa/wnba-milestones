@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-28 23:08 UTC
+
+- **Jonquel Jones** passed **Ticha Penicheiro** for **#41** all-time in fouls (career 914) — _7:25 - 1st — NY @ GS_
+
 ## 2026-06-28 23:06 UTC
 
 - **Breanna Stewart** passed **Cheyenne Parker-Tyus** and **Jasmine Thomas** for **#93** all-time in fouls (career 686) — _8:44 - 1st — NY @ GS_
