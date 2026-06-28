@@ -1,5 +1,14 @@
 [
   {
+    "ts": "2026-06-28T02:26:00+00:00",
+    "text": "Jade Melbourne reached 700 career points (now 700) \u2014 (1:56 - 3rd \u2014 ATL @ SEA)",
+    "kind": "round",
+    "player": "Jade Melbourne",
+    "stat": "points",
+    "value": 700,
+    "new_total": 700
+  },
+  {
     "ts": "2026-06-28T02:14:00+00:00",
     "text": "Damiris Dantas passed Nia Coffey for #200 all-time in turnovers (career 290) \u2014 (1:52 - 4th \u2014 LA @ IND)",
     "kind": "rank_pass",
@@ -2978,17 +2987,5 @@
       "Ticha Penicheiro"
     ],
     "new_total": 914
-  },
-  {
-    "ts": "2026-06-12T02:51:00+00:00",
-    "text": "Kahleah Copper passed Rebekkah Brunson for #133 all-time in assists (career 487) \u2014 up from #134 entering today \u2014 (1:28 - 4th \u2014 PHX @ DAL)",
-    "kind": "rank_pass",
-    "player": "Kahleah Copper",
-    "stat": "assists",
-    "rank": 133,
-    "passed_players": [
-      "Rebekkah Brunson"
-    ],
-    "new_total": 487
   }
 ]
