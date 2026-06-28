@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-28T23:18:00+00:00",
+    "text": "Betnijah Laney-Hamilton passed Camille Smith for #107 all-time in assists (career 591) \u2014 (3:56 - 1st \u2014 NY @ GS)",
+    "kind": "rank_pass",
+    "player": "Betnijah Laney-Hamilton",
+    "stat": "assists",
+    "rank": 107,
+    "passed_players": [
+      "Camille Smith"
+    ],
+    "new_total": 591
+  },
+  {
     "ts": "2026-06-28T23:09:00+00:00",
     "text": "Kayla Thornton passed Crystal Robinson for #97 all-time in fouls (career 683) \u2014 up from #98 entering today \u2014 (6:58 - 1st \u2014 NY @ GS)",
     "kind": "rank_pass",
@@ -2976,17 +2988,5 @@
       "Brionna Jones"
     ],
     "new_total": 267
-  },
-  {
-    "ts": "2026-06-16T02:58:00+00:00",
-    "text": "Kiah Stokes passed Kamila Vodichkova for #198 all-time in steals (career 174) \u2014 up from #199 entering today \u2014 (1:25 - 2nd \u2014 LA @ GS)",
-    "kind": "rank_pass",
-    "player": "Kiah Stokes",
-    "stat": "steals",
-    "rank": 198,
-    "passed_players": [
-      "Kamila Vodichkova"
-    ],
-    "new_total": 174
   }
 ]

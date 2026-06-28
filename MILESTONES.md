@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-28 23:18 UTC
+
+- **Betnijah Laney-Hamilton** passed **Camille Smith** for **#107** all-time in assists (career 591) — _3:56 - 1st — NY @ GS_
+
 ## 2026-06-28 23:09 UTC
 
 - **Kayla Thornton** passed **Crystal Robinson** for **#97** all-time in fouls (career 683) — up from #98 entering today — _6:58 - 1st — NY @ GS_
