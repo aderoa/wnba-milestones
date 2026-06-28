@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-28 22:04 UTC_
+_Last updated: 2026-06-28 22:05 UTC_
 
 ## Contents
 
@@ -237,7 +237,7 @@ _Last updated: 2026-06-28 22:04 UTC_
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | Alyssa Thomas | 2,858 |
 | 13 | Jonquel Jones | 2,728 |
-| 14 | **A'ja Wilson** 🔴 +10 | 2,667 |
+| 14 | **A'ja Wilson** 🔴 +11 | 2,668 |
 | 15 | Breanna Stewart | 2,632 |
 | 16 | Sancho Lyttle | 2,596 |
 | 17 | Brittney Griner | 2,579 |
@@ -1377,7 +1377,7 @@ _Last updated: 2026-06-28 22:04 UTC_
 | 120 | Elaine Powell | 469 |
 | 121 | Allie Quigley | 467 |
 | 122 | Ariel Atkins | 465 |
-| 122 | **Jackie Young** 🔴 +2 | 465 |
+| 123 | **Jackie Young** 🔴 +1 | 464 |
 | 124 | Betnijah Laney-Hamilton | 456 |
 | 125 | Kia Vaughn | 454 |
 | 126 | Janeth Arcain | 453 |
@@ -1524,7 +1524,7 @@ _Last updated: 2026-06-28 22:04 UTC_
 | 62 | Erica Wheeler | 808 |
 | 63 | Nykesha Sales | 796 |
 | 64 | Ebony Hoffman | 791 |
-| 65 | **Natasha Cloud** 🔴 +4 | 777 |
+| 65 | **Natasha Cloud** 🔴 +5 | 778 |
 | 66 | Sue Bird | 775 |
 | 67 | Sheri Sam | 766 |
 | 68 | Kahleah Copper | 758 |
