@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-28 20:18 UTC_
+_Last updated: 2026-06-28 20:19 UTC_
 
 ## Contents
 
@@ -83,7 +83,7 @@ _Last updated: 2026-06-28 20:18 UTC_
 | 62 | Allie Quigley | 3,786 |
 | 63 | Chasity Melvin | 3,781 |
 | 64 | Brittney Sykes | 3,726 |
-| 65 | **Jackie Young** 🔴 +2 | 3,700 |
+| 65 | **Jackie Young** 🔴 +3 | 3,701 |
 | 66 | Kara Lawson | 3,670 |
 | 67 | Mwadi Mabika | 3,576 |
 | 68 | Odyssey Sims | 3,574 |
@@ -385,7 +385,7 @@ _Last updated: 2026-06-28 20:18 UTC_
 | 159 | Krystal Thomas | 862 |
 | 160 | Naz Hillmon | 859 |
 | 161 | Leilani Mitchell | 845 |
-| 162 | **Shakira Austin** 🔴 +5 | 837 |
+| 162 | **Shakira Austin** 🔴 +6 | 838 |
 | 163 | Essence Carson | 833 |
 | 164 | Gabby Williams | 831 |
 | 165 | Kristi Toliver | 829 |
@@ -1190,11 +1190,11 @@ _Last updated: 2026-06-28 20:18 UTC_
 | 139 | Jennifer Azzi | 158 |
 | 139 | Natasha Howard | 158 |
 | 142 | Alanna Smith | 156 |
-| 143 | Bridget Pettis | 153 |
-| 143 | Gabby Williams | 153 |
-| 143 | Jennifer Gillom | 153 |
-| 143 | Katie Lou Samuelson | 153 |
-| 143 | **Michaela Onyenwere** 🔴 +2 | 153 |
+| 143 | **Michaela Onyenwere** 🔴 +3 | 154 |
+| 144 | Bridget Pettis | 153 |
+| 144 | Gabby Williams | 153 |
+| 144 | Jennifer Gillom | 153 |
+| 144 | Katie Lou Samuelson | 153 |
 | 148 | Rita Williams | 150 |
 | 149 | Moriah Jefferson | 149 |
 | 149 | Tiffany Mitchell | 149 |

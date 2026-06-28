@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-28 20:19 UTC
+
+- **Michaela Onyenwere** passed **Bridget Pettis**, **Gabby Williams**, **Jennifer Gillom**, and **Katie Lou Samuelson** for **#143** all-time in three-pointers (career 154) — up from #147 entering today — _6:58 - 3rd — POR @ WSH_
+
 ## 2026-06-28 20:18 UTC
 
 - **Jackie Young** reached **3,700** career points (now 3,700) — _8:21 - 1st — LV @ CHI_
