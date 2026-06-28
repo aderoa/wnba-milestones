@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-28T00:22:00+00:00",
+    "text": "Kelsey Mitchell passed Jennifer Gillom for #112 all-time in fouls (career 630) \u2014 up from #113 entering today \u2014 (2:21 - 1st \u2014 LA @ IND)",
+    "kind": "rank_pass",
+    "player": "Kelsey Mitchell",
+    "stat": "fouls",
+    "rank": 112,
+    "passed_players": [
+      "Jennifer Gillom"
+    ],
+    "new_total": 630
+  },
+  {
     "ts": "2026-06-28T00:20:00+00:00",
     "text": "Dearica Hamby passed Elaine Powell for #77 all-time in assists (career 729) \u2014 up from #78 entering today \u2014 (3:15 - 1st \u2014 LA @ IND)",
     "kind": "rank_pass",
@@ -2986,17 +2998,5 @@
       "Betty Lennox"
     ],
     "new_total": 324
-  },
-  {
-    "ts": "2026-06-10T01:02:00+00:00",
-    "text": "Elizabeth Williams passed Hamchetou Maiga-Ba for #152 all-time in turnovers (career 386) \u2014 up from #153 entering today \u2014 (2:15 - 4th \u2014 ATL @ CHI)",
-    "kind": "rank_pass",
-    "player": "Elizabeth Williams",
-    "stat": "turnovers",
-    "rank": 152,
-    "passed_players": [
-      "Hamchetou Maiga-Ba"
-    ],
-    "new_total": 386
   }
 ]
