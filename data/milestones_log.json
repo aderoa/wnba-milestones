@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-28T01:40:00+00:00",
+    "text": "Ariel Atkins passed Shameka Christon for #74 all-time in fouls (career 735) \u2014 up from #77 entering today \u2014 (2:23 - 3rd \u2014 LA @ IND)",
+    "kind": "rank_pass",
+    "player": "Ariel Atkins",
+    "stat": "fouls",
+    "rank": 74,
+    "passed_players": [
+      "Shameka Christon"
+    ],
+    "new_total": 735
+  },
+  {
     "ts": "2026-06-28T01:36:00+00:00",
     "text": "Rhyne Howard passed Essence Carson and Lindsey Harding for #111 all-time in points (career 2,652) \u2014 up from #115 entering today \u2014 (5:27 - 2nd \u2014 ATL @ SEA)",
     "kind": "rank_pass",
@@ -2975,14 +2987,5 @@
       "Shoni Schimmel"
     ],
     "new_total": 112
-  },
-  {
-    "ts": "2026-06-12T01:29:00+00:00",
-    "text": "Sydney Taylor reached 100 career points (now 102) \u2014 (2:50 - OT \u2014 CHI @ IND)",
-    "kind": "round",
-    "player": "Sydney Taylor",
-    "stat": "points",
-    "value": 100,
-    "new_total": 102
   }
 ]

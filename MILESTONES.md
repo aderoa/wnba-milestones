@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-28 01:40 UTC
+
+- **Ariel Atkins** passed **Shameka Christon** for **#74** all-time in fouls (career 735) — up from #77 entering today — _2:23 - 3rd — LA @ IND_
+
 ## 2026-06-28 01:36 UTC
 
 - **Rhyne Howard** passed **Essence Carson** and **Lindsey Harding** for **#111** all-time in points (career 2,652) — up from #115 entering today — _5:27 - 2nd — ATL @ SEA_
