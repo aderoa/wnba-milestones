@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-28 01:09 UTC
+
+- **Flau'jae Johnson** reached **100** career rebounds (now 100) — _7:44 - 1st — ATL @ SEA_
+
 ## 2026-06-28 00:59 UTC
 
 - **Dearica Hamby** passed **Betty Lennox** for **#50** all-time in fouls (career 852) — up from #51 entering today — _1:12 - 2nd — LA @ IND_

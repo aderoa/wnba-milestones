@@ -1,5 +1,14 @@
 [
   {
+    "ts": "2026-06-28T01:09:00+00:00",
+    "text": "Flau'jae Johnson reached 100 career rebounds (now 100) \u2014 (7:44 - 1st \u2014 ATL @ SEA)",
+    "kind": "round",
+    "player": "Flau'jae Johnson",
+    "stat": "rebounds",
+    "value": 100,
+    "new_total": 100
+  },
+  {
     "ts": "2026-06-28T00:59:00+00:00",
     "text": "Dearica Hamby passed Betty Lennox for #50 all-time in fouls (career 852) \u2014 up from #51 entering today \u2014 (1:12 - 2nd \u2014 LA @ IND)",
     "kind": "rank_pass",
@@ -2983,17 +2992,5 @@
       "Kayla Thornton"
     ],
     "new_total": 264
-  },
-  {
-    "ts": "2026-06-11T01:43:00+00:00",
-    "text": "Marina Mabrey passed Shekinna Stricklen for #23 all-time in three-pointers (career 469) \u2014 up from #24 entering today \u2014 (3:11 - OT \u2014 CON @ TOR)",
-    "kind": "rank_pass",
-    "player": "Marina Mabrey",
-    "stat": "three-pointers",
-    "rank": 23,
-    "passed_players": [
-      "Shekinna Stricklen"
-    ],
-    "new_total": 469
   }
 ]
