@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-28 01:32 UTC_
+_Last updated: 2026-06-28 01:33 UTC_
 
 ## Contents
 
@@ -1330,7 +1330,7 @@ _Last updated: 2026-06-28 01:32 UTC_
 | 75 | Lindsey Harding | 600 |
 | 75 | Tamika Whitmore | 600 |
 | 77 | Kelly Miller | 596 |
-| 78 | **Stefanie Dolson** 🔴 | 594 |
+| 78 | **Stefanie Dolson** 🔴 +1 | 595 |
 | 79 | Brittney Sykes | 591 |
 | 80 | **Kelsey Mitchell** 🔴 +2 | 587 |
 | 81 | Breanna Stewart | 586 |
