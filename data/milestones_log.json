@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-29T00:49:00+00:00",
+    "text": "Veronica Burton passed Charde Houston for #177 all-time in three-pointers (career 125) \u2014 up from #178 entering today \u2014 (8:01 - 4th \u2014 NY @ GS)",
+    "kind": "rank_pass",
+    "player": "Veronica Burton",
+    "stat": "three-pointers",
+    "rank": 177,
+    "passed_players": [
+      "Charde Houston"
+    ],
+    "new_total": 125
+  },
+  {
     "ts": "2026-06-29T00:47:00+00:00",
     "text": "Tiffany Hayes passed Ariel Atkins for #29 all-time in three-pointers (career 456) \u2014 up from #30 entering today \u2014 (8:38 - 4th \u2014 NY @ GS)",
     "kind": "rank_pass",
@@ -2967,17 +2979,5 @@
       "Sandrine Gruda"
     ],
     "new_total": 95
-  },
-  {
-    "ts": "2026-06-18T02:27:00+00:00",
-    "text": "Jackie Young passed Seimone Augustus for #104 all-time in steals (career 281) \u2014 up from #105 entering today \u2014 (2:50 - 1st \u2014 LV @ PHX)",
-    "kind": "rank_pass",
-    "player": "Jackie Young",
-    "stat": "steals",
-    "rank": 104,
-    "passed_players": [
-      "Seimone Augustus"
-    ],
-    "new_total": 281
   }
 ]
