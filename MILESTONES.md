@@ -2,6 +2,13 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-29 00:21 UTC
+
+- **Sabrina Ionescu** reached **3,100** career points (now 3,102) — _6:39 - 3rd — NY @ GS_
+- **Sabrina Ionescu** passed **Shekinna Stricklen** for **#25** all-time in three-pointers (career 469) — _6:39 - 3rd — NY @ GS_
+- **Kayla Thornton** reached **300** career turnovers (now 300) — _6:39 - 3rd — NY @ GS_
+- **Kayla Thornton** passed **Crystal Robinson** for **#196** all-time in turnovers (career 300) — up from #197 entering today — _6:39 - 3rd — NY @ GS_
+
 ## 2026-06-29 00:19 UTC
 
 - **Jonquel Jones** passed **Dawn Staley** for **#65** all-time in turnovers (career 644) — up from #66 entering today — _8:06 - 3rd — NY @ GS_

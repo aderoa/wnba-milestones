@@ -1,5 +1,47 @@
 [
   {
+    "ts": "2026-06-29T00:21:00+00:00",
+    "text": "Sabrina Ionescu reached 3,100 career points (now 3,102) \u2014 (6:39 - 3rd \u2014 NY @ GS)",
+    "kind": "round",
+    "player": "Sabrina Ionescu",
+    "stat": "points",
+    "value": 3100,
+    "new_total": 3102
+  },
+  {
+    "ts": "2026-06-29T00:21:00+00:00",
+    "text": "Sabrina Ionescu passed Shekinna Stricklen for #25 all-time in three-pointers (career 469) \u2014 (6:39 - 3rd \u2014 NY @ GS)",
+    "kind": "rank_pass",
+    "player": "Sabrina Ionescu",
+    "stat": "three-pointers",
+    "rank": 25,
+    "passed_players": [
+      "Shekinna Stricklen"
+    ],
+    "new_total": 469
+  },
+  {
+    "ts": "2026-06-29T00:21:00+00:00",
+    "text": "Kayla Thornton reached 300 career turnovers (now 300) \u2014 (6:39 - 3rd \u2014 NY @ GS)",
+    "kind": "round",
+    "player": "Kayla Thornton",
+    "stat": "turnovers",
+    "value": 300,
+    "new_total": 300
+  },
+  {
+    "ts": "2026-06-29T00:21:00+00:00",
+    "text": "Kayla Thornton passed Crystal Robinson for #196 all-time in turnovers (career 300) \u2014 up from #197 entering today \u2014 (6:39 - 3rd \u2014 NY @ GS)",
+    "kind": "rank_pass",
+    "player": "Kayla Thornton",
+    "stat": "turnovers",
+    "rank": 196,
+    "passed_players": [
+      "Crystal Robinson"
+    ],
+    "new_total": 300
+  },
+  {
     "ts": "2026-06-29T00:19:00+00:00",
     "text": "Jonquel Jones passed Dawn Staley for #65 all-time in turnovers (career 644) \u2014 up from #66 entering today \u2014 (8:06 - 3rd \u2014 NY @ GS)",
     "kind": "rank_pass",
@@ -2936,51 +2978,5 @@
       "Chamique Holdsclaw"
     ],
     "new_total": 668
-  },
-  {
-    "ts": "2026-06-18T00:58:00+00:00",
-    "text": "Sonia Citron reached 800 career points (now 802) \u2014 (1:52 - 4th \u2014 WSH @ CON)",
-    "kind": "round",
-    "player": "Sonia Citron",
-    "stat": "points",
-    "value": 800,
-    "new_total": 802
-  },
-  {
-    "ts": "2026-06-18T00:56:00+00:00",
-    "text": "Michaela Onyenwere passed Helen Darling and Matee Ajavon for #151 all-time in three-pointers (career 145) \u2014 up from #156 entering today \u2014 (2:40 - 4th \u2014 WSH @ CON)",
-    "kind": "rank_pass",
-    "player": "Michaela Onyenwere",
-    "stat": "three-pointers",
-    "rank": 151,
-    "passed_players": [
-      "Helen Darling",
-      "Matee Ajavon"
-    ],
-    "new_total": 145
-  },
-  {
-    "ts": "2026-06-18T00:45:00+00:00",
-    "text": "Sabrina Ionescu passed Arike Ogunbowale for #101 all-time in turnovers (career 521) \u2014 up from #103 entering today \u2014 (2:10 - 2nd \u2014 NY @ CHI)",
-    "kind": "rank_pass",
-    "player": "Sabrina Ionescu",
-    "stat": "turnovers",
-    "rank": 101,
-    "passed_players": [
-      "Arike Ogunbowale"
-    ],
-    "new_total": 521
-  },
-  {
-    "ts": "2026-06-18T00:42:00+00:00",
-    "text": "Azur\u00e1 Stevens passed Rachel Banham for #195 all-time in turnovers (career 296) \u2014 up from #197 entering today \u2014 (4:16 - 2nd \u2014 NY @ CHI)",
-    "kind": "rank_pass",
-    "player": "Azur\u00e1 Stevens",
-    "stat": "turnovers",
-    "rank": 195,
-    "passed_players": [
-      "Rachel Banham"
-    ],
-    "new_total": 296
   }
 ]
