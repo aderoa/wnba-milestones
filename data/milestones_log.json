@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-29T00:51:00+00:00",
+    "text": "Sabrina Ionescu passed Shavonte Zellous for #92 all-time in points (career 3,105) \u2014 up from #93 entering today \u2014 (6:48 - 4th \u2014 NY @ GS)",
+    "kind": "rank_pass",
+    "player": "Sabrina Ionescu",
+    "stat": "points",
+    "rank": 92,
+    "passed_players": [
+      "Shavonte Zellous"
+    ],
+    "new_total": 3105
+  },
+  {
     "ts": "2026-06-29T00:49:00+00:00",
     "text": "Veronica Burton passed Charde Houston for #177 all-time in three-pointers (career 125) \u2014 up from #178 entering today \u2014 (8:01 - 4th \u2014 NY @ GS)",
     "kind": "rank_pass",
@@ -2966,18 +2978,5 @@
       "Myisha Hines-Allen"
     ],
     "new_total": 1240
-  },
-  {
-    "ts": "2026-06-18T02:34:00+00:00",
-    "text": "NaLyssa Smith passed Jewell Loyd and Sandrine Gruda for #139 all-time in blocks (career 95) \u2014 up from #140 entering today \u2014 (24.6 - 1st \u2014 LV @ PHX)",
-    "kind": "rank_pass",
-    "player": "NaLyssa Smith",
-    "stat": "blocks",
-    "rank": 139,
-    "passed_players": [
-      "Jewell Loyd",
-      "Sandrine Gruda"
-    ],
-    "new_total": 95
   }
 ]

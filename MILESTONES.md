@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-29 00:51 UTC
+
+- **Sabrina Ionescu** passed **Shavonte Zellous** for **#92** all-time in points (career 3,105) — up from #93 entering today — _6:48 - 4th — NY @ GS_
+
 ## 2026-06-29 00:49 UTC
 
 - **Veronica Burton** passed **Charde Houston** for **#177** all-time in three-pointers (career 125) — up from #178 entering today — _8:01 - 4th — NY @ GS_
