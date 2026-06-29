@@ -1,5 +1,19 @@
 [
   {
+    "ts": "2026-06-29T01:10:00+00:00",
+    "text": "Kayla Thornton passed Breanna Stewart, Cheyenne Parker-Tyus, and Jasmine Thomas for #92 all-time in fouls (career 686) \u2014 up from #98 entering today \u2014 (1:53 - 4th \u2014 NY @ GS)",
+    "kind": "rank_pass",
+    "player": "Kayla Thornton",
+    "stat": "fouls",
+    "rank": 92,
+    "passed_players": [
+      "Breanna Stewart",
+      "Cheyenne Parker-Tyus",
+      "Jasmine Thomas"
+    ],
+    "new_total": 686
+  },
+  {
     "ts": "2026-06-29T00:57:00+00:00",
     "text": "Kayla Thornton passed Jewell Loyd and Leilani Mitchell for #95 all-time in fouls (career 685) \u2014 up from #98 entering today \u2014 (5:45 - 4th \u2014 NY @ GS)",
     "kind": "rank_pass",
@@ -2967,17 +2981,5 @@
       "Natasha Cloud"
     ],
     "new_total": 350
-  },
-  {
-    "ts": "2026-06-18T03:16:00+00:00",
-    "text": "Courtney Williams passed Ezi Magbegor for #131 all-time in fouls (career 577) \u2014 up from #132 entering today \u2014 (4:49 - 3rd \u2014 MIN @ LA)",
-    "kind": "rank_pass",
-    "player": "Courtney Williams",
-    "stat": "fouls",
-    "rank": 131,
-    "passed_players": [
-      "Ezi Magbegor"
-    ],
-    "new_total": 577
   }
 ]
