@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-29 00:17 UTC_
+_Last updated: 2026-06-29 00:18 UTC_
 
 ## Contents
 
@@ -31,7 +31,7 @@ _Last updated: 2026-06-29 00:17 UTC_
 | 10 | Candace Parker | 6,574 |
 | 11 | Katie Smith | 6,450 |
 | 12 | Sylvia Fowles | 6,413 |
-| 13 | **Breanna Stewart** 🔴 +4 | 6,339 |
+| 13 | **Breanna Stewart** 🔴 +6 | 6,341 |
 | 14 | Lisa Leslie | 6,251 |
 | 15 | A'ja Wilson | 6,208 |
 | 16 | Jewell Loyd | 6,154 |
@@ -352,7 +352,7 @@ _Last updated: 2026-06-29 00:17 UTC_
 | 126 | Jessica Shepard | 1,032 |
 | 127 | Kamila Vodichkova | 1,031 |
 | 128 | Jasmine Thomas | 1,027 |
-| 129 | **Sabrina Ionescu** 🔴 +2 | 1,022 |
+| 129 | **Sabrina Ionescu** 🔴 +3 | 1,023 |
 | 130 | Skylar Diggins | 1,014 |
 | 131 | Cathrine Kraayeveld | 1,013 |
 | 132 | Kelly Miller | 1,011 |
@@ -1428,7 +1428,7 @@ _Last updated: 2026-06-29 00:17 UTC_
 | 171 | Teaira McCowan | 340 |
 | 172 | Loree Moore | 339 |
 | 173 | Charlotte Smith | 337 |
-| 174 | **Gabby Williams** 🔴 | 336 |
+| 173 | **Gabby Williams** 🔴 +1 | 337 |
 | 175 | Scholanda Dorrell | 335 |
 | 176 | Aerial Powers | 333 |
 | 176 | Diamond DeShields | 333 |
