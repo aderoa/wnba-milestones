@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-29T00:47:00+00:00",
+    "text": "Tiffany Hayes passed Ariel Atkins for #29 all-time in three-pointers (career 456) \u2014 up from #30 entering today \u2014 (8:38 - 4th \u2014 NY @ GS)",
+    "kind": "rank_pass",
+    "player": "Tiffany Hayes",
+    "stat": "three-pointers",
+    "rank": 29,
+    "passed_players": [
+      "Ariel Atkins"
+    ],
+    "new_total": 456
+  },
+  {
     "ts": "2026-06-29T00:39:00+00:00",
     "text": "Tiffany Hayes passed Swin Cash and Tina Charles for #54 all-time in steals (career 386) \u2014 up from #55 entering today \u2014 (33.5 - 3rd \u2014 NY @ GS)",
     "kind": "rank_pass",
@@ -2967,17 +2979,5 @@
       "Seimone Augustus"
     ],
     "new_total": 281
-  },
-  {
-    "ts": "2026-06-18T02:00:00+00:00",
-    "text": "Sabrina Ionescu passed Erika de Souza for #94 all-time in points (career 3,049) \u2014 up from #95 entering today \u2014 (1:45 - 4th \u2014 NY @ CHI)",
-    "kind": "rank_pass",
-    "player": "Sabrina Ionescu",
-    "stat": "points",
-    "rank": 94,
-    "passed_players": [
-      "Erika de Souza"
-    ],
-    "new_total": 3049
   }
 ]
