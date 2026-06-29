@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-29 00:59 UTC_
+_Last updated: 2026-06-29 01:00 UTC_
 
 ## Contents
 
@@ -66,7 +66,7 @@ _Last updated: 2026-06-29 00:59 UTC_
 | 45 | Kahleah Copper | 4,437 |
 | 46 | Crystal Langhorne | 4,433 |
 | 46 | Jia Perkins | 4,433 |
-| 48 | **Jonquel Jones** 🔴 +16 | 4,369 |
+| 48 | **Jonquel Jones** 🔴 +19 | 4,372 |
 | 49 | Courtney Vandersloot | 4,367 |
 | 50 | Courtney Williams | 4,362 |
 | 51 | Dearica Hamby | 4,330 |
@@ -352,7 +352,7 @@ _Last updated: 2026-06-29 00:59 UTC_
 | 126 | Jessica Shepard | 1,032 |
 | 127 | Kamila Vodichkova | 1,031 |
 | 128 | Jasmine Thomas | 1,027 |
-| 129 | **Sabrina Ionescu** 🔴 +3 | 1,023 |
+| 129 | **Sabrina Ionescu** 🔴 +4 | 1,024 |
 | 130 | Skylar Diggins | 1,014 |
 | 131 | Cathrine Kraayeveld | 1,013 |
 | 132 | Kelly Miller | 1,011 |
@@ -1089,7 +1089,7 @@ _Last updated: 2026-06-29 00:59 UTC_
 | 38 | Riquna Williams | 407 |
 | 40 | Jia Perkins | 396 |
 | 41 | Alysha Clark | 394 |
-| 42 | **Jonquel Jones** 🔴 +2 | 391 |
+| 42 | **Jonquel Jones** 🔴 +3 | 392 |
 | 43 | Rachel Banham | 390 |
 | 44 | Roneeka Hodges | 389 |
 | 45 | Courtney Vandersloot | 386 |
