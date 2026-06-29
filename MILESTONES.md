@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-29 00:39 UTC
+
+- **Tiffany Hayes** passed **Swin Cash** and **Tina Charles** for **#54** all-time in steals (career 386) — up from #55 entering today — _33.5 - 3rd — NY @ GS_
+
 ## 2026-06-29 00:21 UTC
 
 - **Sabrina Ionescu** reached **3,100** career points (now 3,102) — _6:39 - 3rd — NY @ GS_
