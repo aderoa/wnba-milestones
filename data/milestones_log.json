@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-29T00:19:00+00:00",
+    "text": "Jonquel Jones passed Dawn Staley for #65 all-time in turnovers (career 644) \u2014 up from #66 entering today \u2014 (8:06 - 3rd \u2014 NY @ GS)",
+    "kind": "rank_pass",
+    "player": "Jonquel Jones",
+    "stat": "turnovers",
+    "rank": 65,
+    "passed_players": [
+      "Dawn Staley"
+    ],
+    "new_total": 644
+  },
+  {
     "ts": "2026-06-28T23:58:00+00:00",
     "text": "Gabby Williams passed Bridget Pettis, Jennifer Gillom, and Katie Lou Samuelson for #143 all-time in three-pointers (career 154) \u2014 up from #144 entering today \u2014 (35.7 - 2nd \u2014 NY @ GS)",
     "kind": "rank_pass",
@@ -2970,17 +2982,5 @@
       "Rachel Banham"
     ],
     "new_total": 296
-  },
-  {
-    "ts": "2026-06-18T00:35:00+00:00",
-    "text": "Azur\u00e1 Stevens passed Kayla Thornton for #196 all-time in turnovers (career 295) \u2014 up from #197 entering today \u2014 (6:29 - 2nd \u2014 NY @ CHI)",
-    "kind": "rank_pass",
-    "player": "Azur\u00e1 Stevens",
-    "stat": "turnovers",
-    "rank": 196,
-    "passed_players": [
-      "Kayla Thornton"
-    ],
-    "new_total": 295
   }
 ]

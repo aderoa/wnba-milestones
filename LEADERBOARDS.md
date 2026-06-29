@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-29 00:18 UTC_
+_Last updated: 2026-06-29 00:19 UTC_
 
 ## Contents
 
@@ -148,7 +148,7 @@ _Last updated: 2026-06-29 00:18 UTC_
 | 127 | Ruth Riley | 2,434 |
 | 128 | Svetlana Abrosimova | 2,414 |
 | 129 | Anna DeForge | 2,413 |
-| 130 | **Kayla Thornton** 🔴 +7 | 2,400 |
+| 130 | **Kayla Thornton** 🔴 +11 | 2,404 |
 | 131 | DeMya Walker | 2,379 |
 | 132 | Azurá Stevens | 2,367 |
 | 133 | Alex Bentley | 2,350 |
@@ -538,7 +538,7 @@ _Last updated: 2026-06-29 00:18 UTC_
 | 104 | **Gabby Williams** 🔴 | 591 |
 | 107 | Camille Smith | 590 |
 | 108 | Armintie Herrington | 589 |
-| 109 | **Veronica Burton** 🔴 +5 | 584 |
+| 109 | **Veronica Burton** 🔴 +6 | 585 |
 | 110 | Tan White | 578 |
 | 111 | Matee Ajavon | 577 |
 | 112 | Napheesa Collier | 570 |
@@ -882,7 +882,7 @@ _Last updated: 2026-06-29 00:18 UTC_
 | 37 | Kayla McBride | 446 |
 | 38 | Sheri Sam | 438 |
 | 39 | Camille Smith | 437 |
-| 40 | **Breanna Stewart** 🔴 | 435 |
+| 40 | **Breanna Stewart** 🔴 +1 | 436 |
 | 41 | Candice Dupree | 431 |
 | 42 | Epiphanny Prince | 429 |
 | 43 | Tanisha Wright | 427 |
@@ -1033,7 +1033,7 @@ _Last updated: 2026-06-29 00:18 UTC_
 | 187 | Monique Billings | 182 |
 | 189 | Nakia Sanford | 181 |
 | 190 | Diamond DeShields | 180 |
-| 191 | **Kiah Stokes** 🔴 +1 | 179 |
+| 190 | **Kiah Stokes** 🔴 +2 | 180 |
 | 192 | Bridget Pettis | 177 |
 | 193 | Bridget Carleton | 176 |
 | 193 | Brittany Boyd-Jones | 176 |
@@ -1121,7 +1121,7 @@ _Last updated: 2026-06-29 00:18 UTC_
 | 71 | Kedra Holland-Corn | 307 |
 | 72 | Kelly Miller | 305 |
 | 73 | Nikki Teasley | 304 |
-| 74 | **Kayla Thornton** 🔴 +1 | 301 |
+| 74 | **Kayla Thornton** 🔴 +2 | 302 |
 | 75 | Vickie Johnson | 295 |
 | 76 | Seimone Augustus | 293 |
 | 77 | Candice Wiggins | 290 |
@@ -1319,8 +1319,8 @@ _Last updated: 2026-06-29 00:18 UTC_
 | 62 | Sheri Sam | 650 |
 | 63 | Kayla McBride | 649 |
 | 64 | Kelsey Plum | 648 |
-| 65 | Dawn Staley | 643 |
-| 65 | **Jonquel Jones** 🔴 +2 | 643 |
+| 65 | **Jonquel Jones** 🔴 +3 | 644 |
+| 66 | Dawn Staley | 643 |
 | 67 | Ruth Riley | 637 |
 | 68 | Odyssey Sims | 631 |
 | 68 | Svetlana Abrosimova | 631 |
@@ -1499,7 +1499,7 @@ _Last updated: 2026-06-29 00:18 UTC_
 | 37 | Tamika Whitmore | 940 |
 | 38 | DeWanna Bonner | 922 |
 | 39 | Briann January | 921 |
-| 40 | **Jonquel Jones** 🔴 +2 | 915 |
+| 40 | **Jonquel Jones** 🔴 +3 | 916 |
 | 41 | Ticha Penicheiro | 913 |
 | 42 | Shavonte Zellous | 907 |
 | 43 | Alysha Clark | 905 |

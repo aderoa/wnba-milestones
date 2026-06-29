@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-29 00:19 UTC
+
+- **Jonquel Jones** passed **Dawn Staley** for **#65** all-time in turnovers (career 644) — up from #66 entering today — _8:06 - 3rd — NY @ GS_
+
 ## 2026-06-28 23:58 UTC
 
 - **Gabby Williams** passed **Bridget Pettis**, **Jennifer Gillom**, and **Katie Lou Samuelson** for **#143** all-time in three-pointers (career 154) — up from #144 entering today — _35.7 - 2nd — NY @ GS_
