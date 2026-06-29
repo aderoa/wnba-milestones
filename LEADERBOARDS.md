@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-29 01:00 UTC_
+_Last updated: 2026-06-29 01:01 UTC_
 
 ## Contents
 
@@ -31,7 +31,7 @@ _Last updated: 2026-06-29 01:00 UTC_
 | 10 | Candace Parker | 6,574 |
 | 11 | Katie Smith | 6,450 |
 | 12 | Sylvia Fowles | 6,413 |
-| 13 | **Breanna Stewart** 🔴 +13 | 6,348 |
+| 13 | **Breanna Stewart** 🔴 +15 | 6,350 |
 | 14 | Lisa Leslie | 6,251 |
 | 15 | A'ja Wilson | 6,208 |
 | 16 | Jewell Loyd | 6,154 |
@@ -66,7 +66,7 @@ _Last updated: 2026-06-29 01:00 UTC_
 | 45 | Kahleah Copper | 4,437 |
 | 46 | Crystal Langhorne | 4,433 |
 | 46 | Jia Perkins | 4,433 |
-| 48 | **Jonquel Jones** 🔴 +19 | 4,372 |
+| 48 | **Jonquel Jones** 🔴 +21 | 4,374 |
 | 49 | Courtney Vandersloot | 4,367 |
 | 50 | Courtney Williams | 4,362 |
 | 51 | Dearica Hamby | 4,330 |
@@ -352,7 +352,7 @@ _Last updated: 2026-06-29 01:00 UTC_
 | 126 | Jessica Shepard | 1,032 |
 | 127 | Kamila Vodichkova | 1,031 |
 | 128 | Jasmine Thomas | 1,027 |
-| 129 | **Sabrina Ionescu** 🔴 +4 | 1,024 |
+| 129 | **Sabrina Ionescu** 🔴 +3 | 1,023 |
 | 130 | Skylar Diggins | 1,014 |
 | 131 | Cathrine Kraayeveld | 1,013 |
 | 132 | Kelly Miller | 1,011 |
@@ -1563,7 +1563,7 @@ _Last updated: 2026-06-29 01:00 UTC_
 | 101 | Kelly Miller | 676 |
 | 102 | Chamique Holdsclaw | 667 |
 | 103 | Tianna Hawkins | 662 |
-| 104 | **Kiah Stokes** 🔴 +1 | 652 |
+| 104 | **Kiah Stokes** 🔴 +3 | 654 |
 | 105 | Tari Phillips | 648 |
 | 106 | Marie Ferdinand-Harris | 646 |
 | 107 | Chelsea Gray | 643 |
