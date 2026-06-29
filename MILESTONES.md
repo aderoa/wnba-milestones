@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-29 00:57 UTC
+
+- **Kayla Thornton** passed **Jewell Loyd** and **Leilani Mitchell** for **#95** all-time in fouls (career 685) — up from #98 entering today — _5:45 - 4th — NY @ GS_
+
 ## 2026-06-29 00:51 UTC
 
 - **Sabrina Ionescu** passed **Shavonte Zellous** for **#92** all-time in points (career 3,105) — up from #93 entering today — _6:48 - 4th — NY @ GS_

@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-06-29T00:57:00+00:00",
+    "text": "Kayla Thornton passed Jewell Loyd and Leilani Mitchell for #95 all-time in fouls (career 685) \u2014 up from #98 entering today \u2014 (5:45 - 4th \u2014 NY @ GS)",
+    "kind": "rank_pass",
+    "player": "Kayla Thornton",
+    "stat": "fouls",
+    "rank": 95,
+    "passed_players": [
+      "Jewell Loyd",
+      "Leilani Mitchell"
+    ],
+    "new_total": 685
+  },
+  {
     "ts": "2026-06-29T00:51:00+00:00",
     "text": "Sabrina Ionescu passed Shavonte Zellous for #92 all-time in points (career 3,105) \u2014 up from #93 entering today \u2014 (6:48 - 4th \u2014 NY @ GS)",
     "kind": "rank_pass",
@@ -2966,17 +2979,5 @@
       "Ezi Magbegor"
     ],
     "new_total": 577
-  },
-  {
-    "ts": "2026-06-18T03:00:00+00:00",
-    "text": "Brianna Turner passed Myisha Hines-Allen for #94 all-time in rebounds (career 1,240) \u2014 up from #95 entering today \u2014 (1:05 - 2nd \u2014 LV @ PHX)",
-    "kind": "rank_pass",
-    "player": "Brianna Turner",
-    "stat": "rebounds",
-    "rank": 94,
-    "passed_players": [
-      "Myisha Hines-Allen"
-    ],
-    "new_total": 1240
   }
 ]

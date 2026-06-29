@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-29 00:56 UTC_
+_Last updated: 2026-06-29 00:57 UTC_
 
 ## Contents
 
@@ -1555,8 +1555,8 @@ _Last updated: 2026-06-29 00:56 UTC_
 | 93 | Maya Moore | 686 |
 | 94 | Cheyenne Parker-Tyus | 685 |
 | 94 | Jasmine Thomas | 685 |
-| 96 | **Kayla Thornton** 🔴 +2 | 684 |
-| 96 | Leilani Mitchell | 684 |
+| 94 | **Kayla Thornton** 🔴 +3 | 685 |
+| 97 | Leilani Mitchell | 684 |
 | 98 | Crystal Robinson | 682 |
 | 99 | Jennifer Lacy | 680 |
 | 99 | Temeka Johnson | 680 |
