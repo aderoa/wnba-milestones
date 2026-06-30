@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-30T23:49:00+00:00",
+    "text": "Cheyenne Parker-Tyus passed Sue Bird for #65 all-time in rebounds (career 1,467) \u2014 up from #66 entering today \u2014 (7:40 - 2nd \u2014 LV @ NY)",
+    "kind": "rank_pass",
+    "player": "Cheyenne Parker-Tyus",
+    "stat": "rebounds",
+    "rank": 65,
+    "passed_players": [
+      "Sue Bird"
+    ],
+    "new_total": 1467
+  },
+  {
     "ts": "2026-06-30T23:41:00+00:00",
     "text": "Cheyenne Parker-Tyus passed Essence Carson and Lindsey Harding for #111 all-time in points (career 2,650) \u2014 up from #113 entering today \u2014 (25.0 - 1st \u2014 LV @ NY)",
     "kind": "rank_pass",
@@ -2975,17 +2987,5 @@
     "stat": "points",
     "value": 700,
     "new_total": 701
-  },
-  {
-    "ts": "2026-06-18T03:47:00+00:00",
-    "text": "Brianna Turner passed Azur\u00e1 Stevens for #41 all-time in blocks (career 234) \u2014 up from #42 entering today \u2014 (8:40 - 4th \u2014 LV @ PHX)",
-    "kind": "rank_pass",
-    "player": "Brianna Turner",
-    "stat": "blocks",
-    "rank": 41,
-    "passed_players": [
-      "Azur\u00e1 Stevens"
-    ],
-    "new_total": 234
   }
 ]
