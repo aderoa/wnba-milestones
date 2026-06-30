@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-30 23:53 UTC
+
+- **Cheyenne Parker-Tyus** passed **Maya Moore** for **#91** all-time in fouls (career 687) — up from #93 entering today — _5:53 - 2nd — LV @ NY_
+
 ## 2026-06-30 23:49 UTC
 
 - **Cheyenne Parker-Tyus** passed **Sue Bird** for **#65** all-time in rebounds (career 1,467) — up from #66 entering today — _7:40 - 2nd — LV @ NY_
