@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-06-30T23:41:00+00:00",
+    "text": "Cheyenne Parker-Tyus passed Essence Carson and Lindsey Harding for #111 all-time in points (career 2,650) \u2014 up from #113 entering today \u2014 (25.0 - 1st \u2014 LV @ NY)",
+    "kind": "rank_pass",
+    "player": "Cheyenne Parker-Tyus",
+    "stat": "points",
+    "rank": 111,
+    "passed_players": [
+      "Essence Carson",
+      "Lindsey Harding"
+    ],
+    "new_total": 2650
+  },
+  {
     "ts": "2026-06-30T23:36:00+00:00",
     "text": "Cheyenne Parker-Tyus passed Breanna Stewart and Jasmine Thomas for #92 all-time in fouls (career 686) \u2014 up from #93 entering today \u2014 (1:49 - 1st \u2014 LV @ NY)",
     "kind": "rank_pass",
@@ -2974,14 +2987,5 @@
       "Azur\u00e1 Stevens"
     ],
     "new_total": 234
-  },
-  {
-    "ts": "2026-06-18T03:46:00+00:00",
-    "text": "Olivia Miles reached 200 career points (now 201) \u2014 (5:03 - 4th \u2014 MIN @ LA)",
-    "kind": "round",
-    "player": "Olivia Miles",
-    "stat": "points",
-    "value": 200,
-    "new_total": 201
   }
 ]

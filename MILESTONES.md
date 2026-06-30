@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-30 23:41 UTC
+
+- **Cheyenne Parker-Tyus** passed **Essence Carson** and **Lindsey Harding** for **#111** all-time in points (career 2,650) — up from #113 entering today — _25.0 - 1st — LV @ NY_
+
 ## 2026-06-30 23:36 UTC
 
 - **Cheyenne Parker-Tyus** passed **Breanna Stewart** and **Jasmine Thomas** for **#92** all-time in fouls (career 686) — up from #93 entering today — _1:49 - 1st — LV @ NY_
