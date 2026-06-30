@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-06-30 23:27 UTC_
+_Last updated: 2026-06-30 23:28 UTC_
 
 ## Contents
 
@@ -31,10 +31,10 @@ _Last updated: 2026-06-30 23:27 UTC_
 | 10 | Candace Parker | 6,574 |
 | 11 | Katie Smith | 6,450 |
 | 12 | Sylvia Fowles | 6,413 |
-| 13 | **Breanna Stewart** 🔴 | 6,335 |
+| 13 | **Breanna Stewart** 🔴 +2 | 6,337 |
 | 14 | Lisa Leslie | 6,251 |
 | 15 | A'ja Wilson | 6,178 |
-| 16 | **Jewell Loyd** 🔴 | 6,148 |
+| 16 | **Jewell Loyd** 🔴 +2 | 6,150 |
 | 17 | Brittney Griner | 6,087 |
 | 18 | Lauren Jackson | 6,005 |
 | 18 | Seimone Augustus | 6,005 |
@@ -236,7 +236,7 @@ _Last updated: 2026-06-30 23:27 UTC_
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | Alyssa Thomas | 2,858 |
-| 13 | **Jonquel Jones** 🔴 +1 | 2,729 |
+| 13 | **Jonquel Jones** 🔴 +3 | 2,731 |
 | 14 | A'ja Wilson | 2,657 |
 | 15 | **Breanna Stewart** 🔴 +2 | 2,634 |
 | 16 | Sancho Lyttle | 2,596 |
@@ -873,7 +873,7 @@ _Last updated: 2026-06-30 23:27 UTC_
 | 28 | Natasha Howard | 467 |
 | 29 | Skylar Diggins | 463 |
 | 29 | Teresa Weatherspoon | 463 |
-| 31 | **Jewell Loyd** 🔴 +1 | 459 |
+| 31 | **Jewell Loyd** 🔴 +2 | 460 |
 | 32 | **Chelsea Gray** 🔴 | 457 |
 | 33 | Rebekkah Brunson | 456 |
 | 34 | Tangela Smith | 455 |
@@ -1348,7 +1348,7 @@ _Last updated: 2026-06-30 23:27 UTC_
 | 93 | Layshia Clarendon | 536 |
 | 94 | Ivory Latta | 534 |
 | 94 | Iziane Castro Marques | 534 |
-| 96 | **Sabrina Ionescu** 🔴 | 533 |
+| 94 | **Sabrina Ionescu** 🔴 +1 | 534 |
 | 97 | Mwadi Mabika | 532 |
 | 98 | Nakia Sanford | 531 |
 | 99 | Arike Ogunbowale | 529 |
@@ -1548,10 +1548,10 @@ _Last updated: 2026-06-30 23:27 UTC_
 | 88 | Katie Douglas | 697 |
 | 89 | Danielle Robinson | 692 |
 | 90 | Sophia Young-Malcolm | 687 |
+| 91 | **Breanna Stewart** 🔴 +1 | 686 |
 | 91 | Maya Moore | 686 |
-| 92 | **Breanna Stewart** 🔴 | 685 |
-| 92 | **Cheyenne Parker-Tyus** 🔴 | 685 |
-| 92 | Jasmine Thomas | 685 |
+| 93 | **Cheyenne Parker-Tyus** 🔴 | 685 |
+| 93 | Jasmine Thomas | 685 |
 | 95 | **Jewell Loyd** 🔴 | 684 |
 | 95 | Leilani Mitchell | 684 |
 | 97 | Crystal Robinson | 682 |
