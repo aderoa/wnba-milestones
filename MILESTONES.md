@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-30 23:33 UTC
+
+- **Sabrina Ionescu** passed **Ivory Latta** and **Iziane Castro Marques** for **#94** all-time in turnovers (career 535) — up from #96 entering today — _3:27 - 1st — LV @ NY_
+
 ## 2026-06-29 01:10 UTC
 
 - **Kayla Thornton** passed **Breanna Stewart**, **Cheyenne Parker-Tyus**, and **Jasmine Thomas** for **#92** all-time in fouls (career 686) — up from #98 entering today — _1:53 - 4th — NY @ GS_

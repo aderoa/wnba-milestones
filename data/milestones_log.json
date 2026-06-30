@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-06-30T23:33:00+00:00",
+    "text": "Sabrina Ionescu passed Ivory Latta and Iziane Castro Marques for #94 all-time in turnovers (career 535) \u2014 up from #96 entering today \u2014 (3:27 - 1st \u2014 LV @ NY)",
+    "kind": "rank_pass",
+    "player": "Sabrina Ionescu",
+    "stat": "turnovers",
+    "rank": 94,
+    "passed_players": [
+      "Ivory Latta",
+      "Iziane Castro Marques"
+    ],
+    "new_total": 535
+  },
+  {
     "ts": "2026-06-29T01:10:00+00:00",
     "text": "Kayla Thornton passed Breanna Stewart, Cheyenne Parker-Tyus, and Jasmine Thomas for #92 all-time in fouls (career 686) \u2014 up from #98 entering today \u2014 (1:53 - 4th \u2014 NY @ GS)",
     "kind": "rank_pass",
@@ -2969,17 +2982,5 @@
       "Sheri Sam"
     ],
     "new_total": 439
-  },
-  {
-    "ts": "2026-06-18T03:21:00+00:00",
-    "text": "A'ja Wilson passed Natasha Cloud for #71 all-time in steals (career 350) \u2014 up from #72 entering today \u2014 (8:39 - 3rd \u2014 LV @ PHX)",
-    "kind": "rank_pass",
-    "player": "A'ja Wilson",
-    "stat": "steals",
-    "rank": 71,
-    "passed_players": [
-      "Natasha Cloud"
-    ],
-    "new_total": 350
   }
 ]
