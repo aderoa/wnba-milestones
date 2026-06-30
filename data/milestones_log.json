@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-06-30T23:57:00+00:00",
+    "text": "Breanna Stewart passed Nikki Teasley for #45 all-time in assists (career 983) \u2014 up from #46 entering today \u2014 (5:05 - 2nd \u2014 LV @ NY)",
+    "kind": "rank_pass",
+    "player": "Breanna Stewart",
+    "stat": "assists",
+    "rank": 45,
+    "passed_players": [
+      "Nikki Teasley"
+    ],
+    "new_total": 983
+  },
+  {
     "ts": "2026-06-30T23:53:00+00:00",
     "text": "Cheyenne Parker-Tyus passed Maya Moore for #91 all-time in fouls (career 687) \u2014 up from #93 entering today \u2014 (5:53 - 2nd \u2014 LV @ NY)",
     "kind": "rank_pass",
@@ -2978,17 +2990,5 @@
       "Allie Quigley"
     ],
     "new_total": 468
-  },
-  {
-    "ts": "2026-06-18T04:08:00+00:00",
-    "text": "Bridget Carleton passed Seimone Augustus for #74 all-time in three-pointers (career 294) \u2014 up from #79 entering today \u2014 (40.5 - 4th \u2014 SEA @ POR)",
-    "kind": "rank_pass",
-    "player": "Bridget Carleton",
-    "stat": "three-pointers",
-    "rank": 74,
-    "passed_players": [
-      "Seimone Augustus"
-    ],
-    "new_total": 294
   }
 ]

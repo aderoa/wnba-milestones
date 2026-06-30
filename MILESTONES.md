@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-06-30 23:57 UTC
+
+- **Breanna Stewart** passed **Nikki Teasley** for **#45** all-time in assists (career 983) — up from #46 entering today — _5:05 - 2nd — LV @ NY_
+
 ## 2026-06-30 23:53 UTC
 
 - **Cheyenne Parker-Tyus** passed **Maya Moore** for **#91** all-time in fouls (career 687) — up from #93 entering today — _5:53 - 2nd — LV @ NY_
