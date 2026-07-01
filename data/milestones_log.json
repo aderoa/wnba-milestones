@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-07-01T00:01:00+00:00",
+    "text": "Cheyenne Parker-Tyus passed Sophia Young-Malcolm for #90 all-time in fouls (career 688) \u2014 up from #93 entering today \u2014 (4:26 - 2nd \u2014 LV @ NY)",
+    "kind": "rank_pass",
+    "player": "Cheyenne Parker-Tyus",
+    "stat": "fouls",
+    "rank": 90,
+    "passed_players": [
+      "Sophia Young-Malcolm"
+    ],
+    "new_total": 688
+  },
+  {
     "ts": "2026-06-30T23:57:00+00:00",
     "text": "Breanna Stewart passed Nikki Teasley for #45 all-time in assists (career 983) \u2014 up from #46 entering today \u2014 (5:05 - 2nd \u2014 LV @ NY)",
     "kind": "rank_pass",
@@ -2978,17 +2990,5 @@
       "Tully Bevilaqua"
     ],
     "new_total": 515
-  },
-  {
-    "ts": "2026-06-19T00:56:00+00:00",
-    "text": "Allisha Gray passed Allie Quigley for #119 all-time in turnovers (career 468) \u2014 up from #121 entering today \u2014 (7:18 - 3rd \u2014 ATL @ IND)",
-    "kind": "rank_pass",
-    "player": "Allisha Gray",
-    "stat": "turnovers",
-    "rank": 119,
-    "passed_players": [
-      "Allie Quigley"
-    ],
-    "new_total": 468
   }
 ]
