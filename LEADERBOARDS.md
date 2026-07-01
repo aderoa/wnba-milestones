@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-01 00:18 UTC_
+_Last updated: 2026-07-01 00:19 UTC_
 
 ## Contents
 
@@ -646,7 +646,7 @@ _Last updated: 2026-07-01 00:18 UTC_
 | 9 | Tangela Smith | 554 |
 | 10 | Ruth Riley | 505 |
 | 11 | Elizabeth Williams | 503 |
-| 12 | **Breanna Stewart** 🔴 +1 | 451 |
+| 12 | **Breanna Stewart** 🔴 | 450 |
 | 13 | Taj McWilliams-Franklin | 443 |
 | 14 | Tina Charles | 428 |
 | 15 | **Jonquel Jones** 🔴 +2 | 427 |
