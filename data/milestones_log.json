@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-07-01T00:45:00+00:00",
+    "text": "Cheyenne Parker-Tyus passed Shenise Johnson for #152 all-time in steals (career 218) \u2014 (3:23 - 3rd \u2014 LV @ NY)",
+    "kind": "rank_pass",
+    "player": "Cheyenne Parker-Tyus",
+    "stat": "steals",
+    "rank": 152,
+    "passed_players": [
+      "Shenise Johnson"
+    ],
+    "new_total": 218
+  },
+  {
     "ts": "2026-07-01T00:35:00+00:00",
     "text": "Jackie Young passed Glory Johnson and Tierra Ruffin-Pratt for #141 all-time in fouls (career 551) \u2014 up from #143 entering today \u2014 (7:05 - 3rd \u2014 LV @ NY)",
     "kind": "rank_pass",
@@ -2979,17 +2991,5 @@
       "Sylvia Crawley"
     ],
     "new_total": 107
-  },
-  {
-    "ts": "2026-06-20T01:19:00+00:00",
-    "text": "Marina Mabrey passed Briann January for #92 all-time in points (career 3,086) \u2014 up from #93 entering today \u2014 (3:16 - 4th \u2014 TOR @ CON)",
-    "kind": "rank_pass",
-    "player": "Marina Mabrey",
-    "stat": "points",
-    "rank": 92,
-    "passed_players": [
-      "Briann January"
-    ],
-    "new_total": 3086
   }
 ]
