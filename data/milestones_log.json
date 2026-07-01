@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-07-01T00:35:00+00:00",
+    "text": "Jackie Young passed Glory Johnson and Tierra Ruffin-Pratt for #141 all-time in fouls (career 551) \u2014 up from #143 entering today \u2014 (7:05 - 3rd \u2014 LV @ NY)",
+    "kind": "rank_pass",
+    "player": "Jackie Young",
+    "stat": "fouls",
+    "rank": 141,
+    "passed_players": [
+      "Glory Johnson",
+      "Tierra Ruffin-Pratt"
+    ],
+    "new_total": 551
+  },
+  {
     "ts": "2026-07-01T00:01:00+00:00",
     "text": "Cheyenne Parker-Tyus passed Sophia Young-Malcolm for #90 all-time in fouls (career 688) \u2014 up from #93 entering today \u2014 (4:26 - 2nd \u2014 LV @ NY)",
     "kind": "rank_pass",
@@ -2978,17 +2991,5 @@
       "Briann January"
     ],
     "new_total": 3086
-  },
-  {
-    "ts": "2026-06-20T00:17:00+00:00",
-    "text": "Marina Mabrey passed Tully Bevilaqua for #106 all-time in turnovers (career 515) \u2014 up from #109 entering today \u2014 (2:31 - 2nd \u2014 TOR @ CON)",
-    "kind": "rank_pass",
-    "player": "Marina Mabrey",
-    "stat": "turnovers",
-    "rank": 106,
-    "passed_players": [
-      "Tully Bevilaqua"
-    ],
-    "new_total": 515
   }
 ]
