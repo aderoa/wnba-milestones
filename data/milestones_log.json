@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-07-01T01:06:00+00:00",
+    "text": "Jackie Young passed Dawn Staley for #140 all-time in fouls (career 552) \u2014 up from #143 entering today \u2014 (5:49 - 4th \u2014 LV @ NY)",
+    "kind": "rank_pass",
+    "player": "Jackie Young",
+    "stat": "fouls",
+    "rank": 140,
+    "passed_players": [
+      "Dawn Staley"
+    ],
+    "new_total": 552
+  },
+  {
     "ts": "2026-07-01T00:49:00+00:00",
     "text": "Cheyenne Parker-Tyus passed Alysha Clark for #64 all-time in rebounds (career 1,470) \u2014 up from #66 entering today \u2014 (59.1 - 3rd \u2014 LV @ NY)",
     "kind": "rank_pass",
@@ -2979,17 +2991,5 @@
       "Roneeka Hodges"
     ],
     "new_total": 1927
-  },
-  {
-    "ts": "2026-06-20T04:06:00+00:00",
-    "text": "Courtney Williams passed Plenette Pierson for #50 all-time in points (career 4,259) \u2014 up from #53 entering today \u2014 (24.2 - 4th \u2014 MIN @ GS)",
-    "kind": "rank_pass",
-    "player": "Courtney Williams",
-    "stat": "points",
-    "rank": 50,
-    "passed_players": [
-      "Plenette Pierson"
-    ],
-    "new_total": 4259
   }
 ]
