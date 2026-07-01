@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-01 01:12 UTC_
+_Last updated: 2026-07-01 01:13 UTC_
 
 ## Contents
 
@@ -236,7 +236,7 @@ _Last updated: 2026-07-01 01:12 UTC_
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | Alyssa Thomas | 2,858 |
-| 13 | **Jonquel Jones** 🔴 +8 | 2,736 |
+| 13 | **Jonquel Jones** 🔴 +9 | 2,737 |
 | 14 | A'ja Wilson | 2,657 |
 | 15 | **Breanna Stewart** 🔴 +8 | 2,640 |
 | 16 | Sancho Lyttle | 2,596 |
@@ -1548,10 +1548,10 @@ _Last updated: 2026-07-01 01:12 UTC_
 | 88 | Katie Douglas | 697 |
 | 89 | Danielle Robinson | 692 |
 | 90 | **Cheyenne Parker-Tyus** 🔴 +3 | 688 |
+| 91 | **Jewell Loyd** 🔴 +3 | 687 |
 | 91 | Sophia Young-Malcolm | 687 |
-| 92 | **Breanna Stewart** 🔴 +1 | 686 |
-| 92 | **Jewell Loyd** 🔴 +2 | 686 |
-| 92 | Maya Moore | 686 |
+| 93 | **Breanna Stewart** 🔴 +1 | 686 |
+| 93 | Maya Moore | 686 |
 | 95 | Jasmine Thomas | 685 |
 | 96 | Leilani Mitchell | 684 |
 | 97 | Crystal Robinson | 682 |
