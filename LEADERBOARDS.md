@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-01 01:16 UTC_
+_Last updated: 2026-07-01 01:17 UTC_
 
 ## Contents
 
@@ -1547,7 +1547,7 @@ _Last updated: 2026-07-01 01:16 UTC_
 | 87 | Tan White | 698 |
 | 88 | Katie Douglas | 697 |
 | 89 | Danielle Robinson | 692 |
-| 90 | **Cheyenne Parker-Tyus** 🔴 +3 | 688 |
+| 90 | **Cheyenne Parker-Tyus** 🔴 +4 | 689 |
 | 91 | **Breanna Stewart** 🔴 +2 | 687 |
 | 91 | **Jewell Loyd** 🔴 +3 | 687 |
 | 91 | Sophia Young-Malcolm | 687 |
