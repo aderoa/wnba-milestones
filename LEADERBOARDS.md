@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-01 00:59 UTC_
+_Last updated: 2026-07-01 01:00 UTC_
 
 ## Contents
 
@@ -83,7 +83,7 @@ _Last updated: 2026-07-01 00:59 UTC_
 | 62 | Allie Quigley | 3,786 |
 | 63 | Chasity Melvin | 3,781 |
 | 64 | Brittney Sykes | 3,726 |
-| 65 | **Jackie Young** 🔴 +18 | 3,716 |
+| 65 | **Jackie Young** 🔴 +22 | 3,720 |
 | 66 | Kara Lawson | 3,670 |
 | 67 | Mwadi Mabika | 3,576 |
 | 68 | Odyssey Sims | 3,574 |
@@ -319,8 +319,8 @@ _Last updated: 2026-07-01 00:59 UTC_
 | 93 | Liz Cambage | 1,258 |
 | 94 | Tiffany Hayes | 1,257 |
 | 95 | Kayla McBride | 1,256 |
-| 96 | **Brianna Turner** 🔴 | 1,243 |
-| 96 | Ezi Magbegor | 1,243 |
+| 96 | **Brianna Turner** 🔴 +1 | 1,244 |
+| 97 | Ezi Magbegor | 1,243 |
 | 98 | Seimone Augustus | 1,228 |
 | 99 | Jia Perkins | 1,220 |
 | 100 | Kahleah Copper | 1,204 |
