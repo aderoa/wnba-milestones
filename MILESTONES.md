@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-01 01:19 UTC
+
+- **Jackie Young** passed **Brittney Sykes** for **#64** all-time in points (career 3,727) — up from #65 entering today — _1:21 - 4th — LV @ NY_
+
 ## 2026-07-01 01:06 UTC
 
 - **Jackie Young** passed **Dawn Staley** for **#140** all-time in fouls (career 552) — up from #143 entering today — _5:49 - 4th — LV @ NY_

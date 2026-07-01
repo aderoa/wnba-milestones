@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-07-01T01:19:00+00:00",
+    "text": "Jackie Young passed Brittney Sykes for #64 all-time in points (career 3,727) \u2014 up from #65 entering today \u2014 (1:21 - 4th \u2014 LV @ NY)",
+    "kind": "rank_pass",
+    "player": "Jackie Young",
+    "stat": "points",
+    "rank": 64,
+    "passed_players": [
+      "Brittney Sykes"
+    ],
+    "new_total": 3727
+  },
+  {
     "ts": "2026-07-01T01:06:00+00:00",
     "text": "Jackie Young passed Dawn Staley for #140 all-time in fouls (career 552) \u2014 up from #143 entering today \u2014 (5:49 - 4th \u2014 LV @ NY)",
     "kind": "rank_pass",
@@ -2978,18 +2990,5 @@
       "Satou Sabally"
     ],
     "new_total": 331
-  },
-  {
-    "ts": "2026-06-20T18:28:00+00:00",
-    "text": "Myisha Hines-Allen passed Cathrine Kraayeveld and Roneeka Hodges for #167 all-time in points (career 1,927) \u2014 up from #172 entering today \u2014 (7:15 - 3rd \u2014 IND @ ATL)",
-    "kind": "rank_pass",
-    "player": "Myisha Hines-Allen",
-    "stat": "points",
-    "rank": 167,
-    "passed_players": [
-      "Cathrine Kraayeveld",
-      "Roneeka Hodges"
-    ],
-    "new_total": 1927
   }
 ]
