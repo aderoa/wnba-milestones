@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-02 23:41 UTC_
+_Last updated: 2026-07-02 23:42 UTC_
 
 ## Contents
 
@@ -132,8 +132,8 @@ _Last updated: 2026-07-02 23:41 UTC_
 | 111 | Essence Carson | 2,647 |
 | 111 | Lindsey Harding | 2,647 |
 | 113 | Cheyenne Parker-Tyus | 2,645 |
-| 114 | Tamera Young | 2,641 |
-| 115 | **Rhyne Howard** 🔴 +3 | 2,640 |
+| 114 | **Rhyne Howard** 🔴 +5 | 2,642 |
+| 115 | Tamera Young | 2,641 |
 | 116 | Liz Cambage | 2,634 |
 | 117 | Janeth Arcain | 2,633 |
 | 118 | Temeka Johnson | 2,620 |
