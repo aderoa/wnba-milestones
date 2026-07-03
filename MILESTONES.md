@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-03 00:59 UTC
+
+- **Allisha Gray** passed **Kara Braxton** for **#75** all-time in blocks (career 158) — _3:02 - 3rd — ATL @ WSH_
+
 ## 2026-07-03 00:23 UTC
 
 - **Odyssey Sims** passed **Svetlana Abrosimova** for **#69** all-time in turnovers (career 632) — _2:18 - 1st — DAL @ CON_
