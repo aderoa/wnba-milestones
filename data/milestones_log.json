@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-07-03T23:40:00+00:00",
+    "text": "Jonquel Jones passed Riquna Williams for #120 all-time in steals (career 261) \u2014 (4:38 - 1st \u2014 MIN @ NY)",
+    "kind": "rank_pass",
+    "player": "Jonquel Jones",
+    "stat": "steals",
+    "rank": 120,
+    "passed_players": [
+      "Riquna Williams"
+    ],
+    "new_total": 261
+  },
+  {
     "ts": "2026-07-03T23:37:00+00:00",
     "text": "Sabrina Ionescu passed Erin Perperoglou for #184 all-time in steals (career 185) \u2014 up from #185 entering today \u2014 (6:20 - 1st \u2014 MIN @ NY)",
     "kind": "rank_pass",
@@ -2980,17 +2992,5 @@
       "Isabelle Harrison"
     ],
     "new_total": 96
-  },
-  {
-    "ts": "2026-06-24T02:32:00+00:00",
-    "text": "Sabrina Ionescu passed Tiffany Jackson for #130 all-time in rebounds (career 1,003) \u2014 up from #133 entering today \u2014 (7:45 - 2nd \u2014 NY @ LV)",
-    "kind": "rank_pass",
-    "player": "Sabrina Ionescu",
-    "stat": "rebounds",
-    "rank": 130,
-    "passed_players": [
-      "Tiffany Jackson"
-    ],
-    "new_total": 1003
   }
 ]

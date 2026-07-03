@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-03 23:40 UTC
+
+- **Jonquel Jones** passed **Riquna Williams** for **#120** all-time in steals (career 261) — _4:38 - 1st — MIN @ NY_
+
 ## 2026-07-03 23:37 UTC
 
 - **Sabrina Ionescu** passed **Erin Perperoglou** for **#184** all-time in steals (career 185) — up from #185 entering today — _6:20 - 1st — MIN @ NY_
