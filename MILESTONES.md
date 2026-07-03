@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-03 01:11 UTC
+
+- **Naz Hillmon** passed **Krystal Thomas** for **#159** all-time in rebounds (career 863) — up from #160 entering today — _9:09 - 4th — ATL @ WSH_
+
 ## 2026-07-03 00:59 UTC
 
 - **Allisha Gray** passed **Kara Braxton** for **#75** all-time in blocks (career 158) — _3:02 - 3rd — ATL @ WSH_

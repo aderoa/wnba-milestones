@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-07-03T01:11:00+00:00",
+    "text": "Naz Hillmon passed Krystal Thomas for #159 all-time in rebounds (career 863) \u2014 up from #160 entering today \u2014 (9:09 - 4th \u2014 ATL @ WSH)",
+    "kind": "rank_pass",
+    "player": "Naz Hillmon",
+    "stat": "rebounds",
+    "rank": 159,
+    "passed_players": [
+      "Krystal Thomas"
+    ],
+    "new_total": 863
+  },
+  {
     "ts": "2026-07-03T00:59:00+00:00",
     "text": "Allisha Gray passed Kara Braxton for #75 all-time in blocks (career 158) \u2014 (3:02 - 3rd \u2014 ATL @ WSH)",
     "kind": "rank_pass",
@@ -2978,17 +2990,5 @@
       "Tully Bevilaqua"
     ],
     "new_total": 814
-  },
-  {
-    "ts": "2026-06-21T00:18:00+00:00",
-    "text": "Skylar Diggins passed Tangela Smith for #30 all-time in steals (career 456) \u2014 up from #31 entering today \u2014 (4:46 - 1st \u2014 CHI @ DAL)",
-    "kind": "rank_pass",
-    "player": "Skylar Diggins",
-    "stat": "steals",
-    "rank": 30,
-    "passed_players": [
-      "Tangela Smith"
-    ],
-    "new_total": 456
   }
 ]
