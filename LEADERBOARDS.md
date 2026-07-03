@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-03 01:19 UTC_
+_Last updated: 2026-07-03 01:20 UTC_
 
 ## Contents
 
@@ -35,7 +35,7 @@ _Last updated: 2026-07-03 01:19 UTC_
 | 14 | Lisa Leslie | 6,251 |
 | 15 | A'ja Wilson | 6,178 |
 | 16 | Jewell Loyd | 6,148 |
-| 17 | **Brittney Griner** 🔴 +5 | 6,092 |
+| 17 | **Brittney Griner** 🔴 +7 | 6,094 |
 | 18 | Lauren Jackson | 6,005 |
 | 18 | Seimone Augustus | 6,005 |
 | 20 | Becky Hammon | 5,816 |
@@ -385,7 +385,7 @@ _Last updated: 2026-07-03 01:19 UTC_
 | 159 | **Naz Hillmon** 🔴 +4 | 863 |
 | 160 | Krystal Thomas | 862 |
 | 161 | Leilani Mitchell | 845 |
-| 162 | **Shakira Austin** 🔴 +5 | 837 |
+| 162 | **Shakira Austin** 🔴 +6 | 838 |
 | 163 | Essence Carson | 833 |
 | 164 | Gabby Williams | 831 |
 | 165 | Kristi Toliver | 829 |
@@ -1291,7 +1291,7 @@ _Last updated: 2026-07-03 01:19 UTC_
 | 36 | Plenette Pierson | 773 |
 | 37 | Briann January | 771 |
 | 38 | Margo Dydek | 758 |
-| 39 | **Brittney Griner** 🔴 +1 | 752 |
+| 39 | **Brittney Griner** 🔴 +2 | 753 |
 | 40 | Tangela Smith | 751 |
 | 41 | Kristi Toliver | 748 |
 | 42 | Monique Currie | 724 |
@@ -1352,7 +1352,7 @@ _Last updated: 2026-07-03 01:19 UTC_
 | 97 | Mwadi Mabika | 532 |
 | 98 | Nakia Sanford | 531 |
 | 99 | **Arike Ogunbowale** 🔴 | 529 |
-| 99 | **Jordin Canada** 🔴 +2 | 529 |
+| 100 | **Jordin Canada** 🔴 +1 | 528 |
 | 101 | Maya Moore | 527 |
 | 102 | Kara Lawson | 526 |
 | 103 | Leilani Mitchell | 525 |
@@ -1483,8 +1483,8 @@ _Last updated: 2026-07-03 01:19 UTC_
 | 23 | Tina Charles | 1,037 |
 | 24 | Tiffany Hayes | 1,021 |
 | 25 | Lindsay Whalen | 998 |
-| 26 | **Brittney Griner** 🔴 +1 | 996 |
-| 26 | Rebekkah Brunson | 996 |
+| 26 | **Brittney Griner** 🔴 +2 | 997 |
+| 27 | Rebekkah Brunson | 996 |
 | 28 | Yolanda Griffith | 991 |
 | 29 | Lauren Jackson | 982 |
 | 30 | Nakia Sanford | 979 |
