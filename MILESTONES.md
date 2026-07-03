@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-03 00:23 UTC
+
+- **Odyssey Sims** passed **Svetlana Abrosimova** for **#69** all-time in turnovers (career 632) — _2:18 - 1st — DAL @ CON_
+
 ## 2026-07-03 00:20 UTC
 
 - **Alanna Smith** passed **Sami Whitcomb** for **#189** all-time in fouls (career 481) — up from #190 entering today — _2:49 - 1st — DAL @ CON_

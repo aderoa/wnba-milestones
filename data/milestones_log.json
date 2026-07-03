@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-07-03T00:23:00+00:00",
+    "text": "Odyssey Sims passed Svetlana Abrosimova for #69 all-time in turnovers (career 632) \u2014 (2:18 - 1st \u2014 DAL @ CON)",
+    "kind": "rank_pass",
+    "player": "Odyssey Sims",
+    "stat": "turnovers",
+    "rank": 69,
+    "passed_players": [
+      "Svetlana Abrosimova"
+    ],
+    "new_total": 632
+  },
+  {
     "ts": "2026-07-03T00:20:00+00:00",
     "text": "Alanna Smith passed Sami Whitcomb for #189 all-time in fouls (career 481) \u2014 up from #190 entering today \u2014 (2:49 - 1st \u2014 DAL @ CON)",
     "kind": "rank_pass",
@@ -2978,17 +2990,5 @@
       "Tianna Hawkins"
     ],
     "new_total": 1001
-  },
-  {
-    "ts": "2026-06-20T18:47:00+00:00",
-    "text": "Aliyah Boston passed Rita Williams for #165 all-time in assists (career 404) \u2014 up from #169 entering today \u2014 (52.9 - 3rd \u2014 IND @ ATL)",
-    "kind": "rank_pass",
-    "player": "Aliyah Boston",
-    "stat": "assists",
-    "rank": 165,
-    "passed_players": [
-      "Rita Williams"
-    ],
-    "new_total": 404
   }
 ]
