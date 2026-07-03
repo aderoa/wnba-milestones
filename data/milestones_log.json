@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-07-03T03:12:00+00:00",
+    "text": "Natisha Hiedeman passed Jessica Breland, Murriel Page, and Shatori Walker-Kimbrough for #167 all-time in steals (career 205) \u2014 up from #169 entering today \u2014 (6:49 - 3rd \u2014 SEA @ PHX)",
+    "kind": "rank_pass",
+    "player": "Natisha Hiedeman",
+    "stat": "steals",
+    "rank": 167,
+    "passed_players": [
+      "Jessica Breland",
+      "Murriel Page",
+      "Shatori Walker-Kimbrough"
+    ],
+    "new_total": 205
+  },
+  {
+    "ts": "2026-07-03T03:12:00+00:00",
+    "text": "Natisha Hiedeman passed Barbara Farris for #184 all-time in turnovers (career 316) \u2014 up from #188 entering today \u2014 (6:49 - 3rd \u2014 SEA @ PHX)",
+    "kind": "rank_pass",
+    "player": "Natisha Hiedeman",
+    "stat": "turnovers",
+    "rank": 184,
+    "passed_players": [
+      "Barbara Farris"
+    ],
+    "new_total": 316
+  },
+  {
     "ts": "2026-07-03T03:03:00+00:00",
     "text": "Kahleah Copper passed Allison Feaster for #149 all-time in steals (career 220) \u2014 up from #150 entering today \u2014 (Halftime \u2014 SEA @ PHX)",
     "kind": "rank_pass",
@@ -2957,30 +2983,5 @@
       "Mistie Bass"
     ],
     "new_total": 127
-  },
-  {
-    "ts": "2026-06-23T01:00:00+00:00",
-    "text": "Kia Nurse passed Rita Williams for #165 all-time in assists (career 404) \u2014 up from #166 entering today \u2014 (2:37 - 3rd \u2014 TOR @ ATL)",
-    "kind": "rank_pass",
-    "player": "Kia Nurse",
-    "stat": "assists",
-    "rank": 165,
-    "passed_players": [
-      "Rita Williams"
-    ],
-    "new_total": 404
-  },
-  {
-    "ts": "2026-06-23T00:34:00+00:00",
-    "text": "Kamilla Cardoso passed Allie Quigley and Rebecca Allen for #199 all-time in rebounds (career 704) \u2014 new to top 200 today \u2014 (3:42 - 3rd \u2014 CHI @ CON)",
-    "kind": "rank_pass",
-    "player": "Kamilla Cardoso",
-    "stat": "rebounds",
-    "rank": 199,
-    "passed_players": [
-      "Allie Quigley",
-      "Rebecca Allen"
-    ],
-    "new_total": 704
   }
 ]

@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-03 03:11 UTC_
+_Last updated: 2026-07-03 03:12 UTC_
 
 ## Contents
 
@@ -323,7 +323,7 @@ _Last updated: 2026-07-03 03:11 UTC_
 | 96 | **Ezi Magbegor** 🔴 | 1,243 |
 | 98 | Seimone Augustus | 1,228 |
 | 99 | Jia Perkins | 1,220 |
-| 100 | **Kahleah Copper** 🔴 +4 | 1,208 |
+| 100 | **Kahleah Copper** 🔴 +5 | 1,209 |
 | 101 | DeMya Walker | 1,199 |
 | 102 | Aliyah Boston | 1,198 |
 | 103 | Latasha Byears | 1,190 |
@@ -436,7 +436,7 @@ _Last updated: 2026-07-03 03:11 UTC_
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
 | 6 | Chelsea Gray | 2,003 |
-| 7 | **Alyssa Thomas** 🔴 +6 | 1,977 |
+| 7 | **Alyssa Thomas** 🔴 +7 | 1,978 |
 | 8 | Skylar Diggins | 1,852 |
 | 9 | Natasha Cloud | 1,802 |
 | 10 | Becky Hammon | 1,705 |
@@ -1008,11 +1008,11 @@ _Last updated: 2026-07-03 03:11 UTC_
 | 163 | Kia Vaughn | 208 |
 | 163 | Sophia Witherspoon | 208 |
 | 165 | Betnijah Laney-Hamilton | 207 |
+| 166 | **Natisha Hiedeman** 🔴 +1 | 205 |
 | 166 | Shameka Christon | 205 |
-| 167 | Jessica Breland | 204 |
-| 167 | Murriel Page | 204 |
-| 167 | **Natisha Hiedeman** 🔴 | 204 |
-| 167 | Shatori Walker-Kimbrough | 204 |
+| 168 | Jessica Breland | 204 |
+| 168 | Murriel Page | 204 |
+| 168 | Shatori Walker-Kimbrough | 204 |
 | 171 | Adrienne Goodson | 203 |
 | 172 | Allie Quigley | 198 |
 | 173 | Layshia Clarendon | 195 |
@@ -1436,8 +1436,8 @@ _Last updated: 2026-07-03 03:11 UTC_
 | 181 | Le'coe Willingham | 325 |
 | 182 | Olympia Scott | 324 |
 | 183 | Kia Nurse | 320 |
-| 184 | Barbara Farris | 315 |
-| 184 | **Natisha Hiedeman** 🔴 +3 | 315 |
+| 184 | **Natisha Hiedeman** 🔴 +4 | 316 |
+| 185 | Barbara Farris | 315 |
 | 186 | Monique Billings | 314 |
 | 186 | Moriah Jefferson | 314 |
 | 188 | Alex Bentley | 313 |
