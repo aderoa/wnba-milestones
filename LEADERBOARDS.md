@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-03 01:21 UTC_
+_Last updated: 2026-07-03 01:22 UTC_
 
 ## Contents
 
@@ -352,7 +352,7 @@ _Last updated: 2026-07-03 01:21 UTC_
 | 126 | Kamila Vodichkova | 1,031 |
 | 127 | Jasmine Thomas | 1,027 |
 | 128 | Sabrina Ionescu | 1,020 |
-| 129 | **Jessica Shepard** 🔴 +1 | 1,017 |
+| 129 | **Jessica Shepard** 🔴 +3 | 1,019 |
 | 130 | Cathrine Kraayeveld | 1,013 |
 | 131 | Kelly Miller | 1,011 |
 | 131 | Noelle Quinn | 1,011 |
@@ -1352,7 +1352,7 @@ _Last updated: 2026-07-03 01:21 UTC_
 | 97 | Mwadi Mabika | 532 |
 | 98 | Nakia Sanford | 531 |
 | 99 | **Arike Ogunbowale** 🔴 | 529 |
-| 100 | **Jordin Canada** 🔴 +1 | 528 |
+| 99 | **Jordin Canada** 🔴 +2 | 529 |
 | 101 | Maya Moore | 527 |
 | 102 | Kara Lawson | 526 |
 | 103 | Leilani Mitchell | 525 |
@@ -1579,8 +1579,8 @@ _Last updated: 2026-07-03 01:21 UTC_
 | 119 | Svetlana Abrosimova | 613 |
 | 120 | **Odyssey Sims** 🔴 | 610 |
 | 121 | Layshia Clarendon | 609 |
-| 122 | **Arike Ogunbowale** 🔴 | 604 |
-| 122 | Tiffany Mitchell | 604 |
+| 122 | **Arike Ogunbowale** 🔴 +1 | 605 |
+| 123 | Tiffany Mitchell | 604 |
 | 124 | Janel McCarville | 597 |
 | 125 | Kamila Vodichkova | 596 |
 | 126 | Teresa Weatherspoon | 589 |
