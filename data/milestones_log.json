@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-07-03T00:20:00+00:00",
+    "text": "Alanna Smith passed Sami Whitcomb for #189 all-time in fouls (career 481) \u2014 up from #190 entering today \u2014 (2:49 - 1st \u2014 DAL @ CON)",
+    "kind": "rank_pass",
+    "player": "Alanna Smith",
+    "stat": "fouls",
+    "rank": 189,
+    "passed_players": [
+      "Sami Whitcomb"
+    ],
+    "new_total": 481
+  },
+  {
     "ts": "2026-07-01T01:19:00+00:00",
     "text": "Jackie Young passed Brittney Sykes for #64 all-time in points (career 3,727) \u2014 up from #65 entering today \u2014 (1:21 - 4th \u2014 LV @ NY)",
     "kind": "rank_pass",
@@ -2978,17 +2990,5 @@
       "Rita Williams"
     ],
     "new_total": 404
-  },
-  {
-    "ts": "2026-06-20T18:41:00+00:00",
-    "text": "Caitlin Clark passed Satou Sabally for #176 all-time in turnovers (career 331) \u2014 up from #180 entering today \u2014 (1:53 - 3rd \u2014 IND @ ATL)",
-    "kind": "rank_pass",
-    "player": "Caitlin Clark",
-    "stat": "turnovers",
-    "rank": 176,
-    "passed_players": [
-      "Satou Sabally"
-    ],
-    "new_total": 331
   }
 ]
