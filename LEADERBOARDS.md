@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-03 03:07 UTC_
+_Last updated: 2026-07-03 03:08 UTC_
 
 ## Contents
 
@@ -855,7 +855,7 @@ _Last updated: 2026-07-03 03:07 UTC_
 | 10 | Angel McCoughtry | 627 |
 | 11 | Katie Douglas | 623 |
 | 12 | DeLisha Milton-Jones | 619 |
-| 13 | **Alyssa Thomas** 🔴 +2 | 584 |
+| 13 | **Alyssa Thomas** 🔴 +1 | 583 |
 | 14 | Taj McWilliams-Franklin | 577 |
 | 15 | Tully Bevilaqua | 571 |
 | 16 | Courtney Vandersloot | 544 |
