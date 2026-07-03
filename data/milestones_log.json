@@ -1,5 +1,19 @@
 [
   {
+    "ts": "2026-07-03T03:41:00+00:00",
+    "text": "Alyssa Thomas passed Chelsea Gray, Chiney Ogwumike, and Kristen Rasmussen for #97 all-time in blocks (career 128) \u2014 (4:44 - 4th \u2014 SEA @ PHX)",
+    "kind": "rank_pass",
+    "player": "Alyssa Thomas",
+    "stat": "blocks",
+    "rank": 97,
+    "passed_players": [
+      "Chelsea Gray",
+      "Chiney Ogwumike",
+      "Kristen Rasmussen"
+    ],
+    "new_total": 128
+  },
+  {
     "ts": "2026-07-03T03:25:00+00:00",
     "text": "Ezi Magbegor passed Kristen Rasmussen and Penny Toler for #196 all-time in assists (career 346) \u2014 up from #198 entering today \u2014 (56.3 - 3rd \u2014 SEA @ PHX)",
     "kind": "rank_pass",
@@ -2978,14 +2992,5 @@
       "Erin Phillips"
     ],
     "new_total": 183
-  },
-  {
-    "ts": "2026-06-23T04:07:00+00:00",
-    "text": "Zia Cooke reached 500 career points (now 501) \u2014 (39.1 - OT \u2014 DAL @ SEA)",
-    "kind": "round",
-    "player": "Zia Cooke",
-    "stat": "points",
-    "value": 500,
-    "new_total": 501
   }
 ]

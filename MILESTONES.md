@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-03 03:41 UTC
+
+- **Alyssa Thomas** passed **Chelsea Gray**, **Chiney Ogwumike**, and **Kristen Rasmussen** for **#97** all-time in blocks (career 128) — _4:44 - 4th — SEA @ PHX_
+
 ## 2026-07-03 03:25 UTC
 
 - **Ezi Magbegor** passed **Kristen Rasmussen** and **Penny Toler** for **#196** all-time in assists (career 346) — up from #198 entering today — _56.3 - 3rd — SEA @ PHX_
