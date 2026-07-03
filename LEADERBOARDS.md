@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-03 01:48 UTC_
+_Last updated: 2026-07-03 01:49 UTC_
 
 ## Contents
 
@@ -379,7 +379,7 @@ _Last updated: 2026-07-03 01:48 UTC_
 | 153 | Temeka Johnson | 889 |
 | 154 | Mistie Bass | 888 |
 | 155 | Erica Wheeler | 882 |
-| 156 | **Alanna Smith** 🔴 +2 | 880 |
+| 156 | **Alanna Smith** 🔴 +3 | 881 |
 | 157 | Marina Mabrey | 874 |
 | 158 | Shameka Christon | 867 |
 | 159 | **Naz Hillmon** 🔴 +5 | 864 |
@@ -635,7 +635,7 @@ _Last updated: 2026-07-03 01:48 UTC_
 
 | Rank | Player | Total |
 |-----:|--------|------:|
-| 1 | **Brittney Griner** 🔴 | 879 |
+| 1 | **Brittney Griner** 🔴 +1 | 880 |
 | 2 | Margo Dydek | 873 |
 | 3 | Lisa Leslie | 818 |
 | 4 | Sylvia Fowles | 721 |
