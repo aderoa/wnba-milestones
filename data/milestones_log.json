@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-07-03T03:21:00+00:00",
+    "text": "Ezi Magbegor passed Elena Delle Donne and Margo Dydek for #196 all-time in steals (career 175) \u2014 up from #197 entering today \u2014 (2:48 - 3rd \u2014 SEA @ PHX)",
+    "kind": "rank_pass",
+    "player": "Ezi Magbegor",
+    "stat": "steals",
+    "rank": 196,
+    "passed_players": [
+      "Elena Delle Donne",
+      "Margo Dydek"
+    ],
+    "new_total": 175
+  },
+  {
     "ts": "2026-07-03T03:16:00+00:00",
     "text": "Kahleah Copper passed DeMya Walker and Jennifer Gillom for #147 all-time in steals (career 221) \u2014 up from #150 entering today \u2014 (4:11 - 3rd \u2014 SEA @ PHX)",
     "kind": "rank_pass",
@@ -2970,17 +2983,5 @@
     "stat": "points",
     "value": 400,
     "new_total": 401
-  },
-  {
-    "ts": "2026-06-23T01:08:00+00:00",
-    "text": "Kamilla Cardoso passed Rushia Brown for #198 all-time in rebounds (career 707) \u2014 new to top 200 today \u2014 (3:11 - 4th \u2014 CHI @ CON)",
-    "kind": "rank_pass",
-    "player": "Kamilla Cardoso",
-    "stat": "rebounds",
-    "rank": 198,
-    "passed_players": [
-      "Rushia Brown"
-    ],
-    "new_total": 707
   }
 ]
