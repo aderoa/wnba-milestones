@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-07-03T03:16:00+00:00",
+    "text": "Kahleah Copper passed DeMya Walker and Jennifer Gillom for #147 all-time in steals (career 221) \u2014 up from #150 entering today \u2014 (4:11 - 3rd \u2014 SEA @ PHX)",
+    "kind": "rank_pass",
+    "player": "Kahleah Copper",
+    "stat": "steals",
+    "rank": 147,
+    "passed_players": [
+      "DeMya Walker",
+      "Jennifer Gillom"
+    ],
+    "new_total": 221
+  },
+  {
     "ts": "2026-07-03T03:12:00+00:00",
     "text": "Natisha Hiedeman passed Jessica Breland, Murriel Page, and Shatori Walker-Kimbrough for #167 all-time in steals (career 205) \u2014 up from #169 entering today \u2014 (6:49 - 3rd \u2014 SEA @ PHX)",
     "kind": "rank_pass",
@@ -2969,19 +2982,5 @@
       "Rushia Brown"
     ],
     "new_total": 707
-  },
-  {
-    "ts": "2026-06-23T01:03:00+00:00",
-    "text": "Olivia Nelson-Ododa passed Chelsea Gray, Katie Douglas, and Mistie Bass for #96 all-time in blocks (career 127) \u2014 up from #100 entering today \u2014 (5:46 - 4th \u2014 CHI @ CON)",
-    "kind": "rank_pass",
-    "player": "Olivia Nelson-Ododa",
-    "stat": "blocks",
-    "rank": 96,
-    "passed_players": [
-      "Chelsea Gray",
-      "Katie Douglas",
-      "Mistie Bass"
-    ],
-    "new_total": 127
   }
 ]

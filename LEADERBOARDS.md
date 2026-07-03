@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-03 03:15 UTC_
+_Last updated: 2026-07-03 03:16 UTC_
 
 ## Contents
 
@@ -235,7 +235,7 @@ _Last updated: 2026-07-03 03:15 UTC_
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
-| 12 | **Alyssa Thomas** 🔴 +10 | 2,868 |
+| 12 | **Alyssa Thomas** 🔴 +11 | 2,869 |
 | 13 | Jonquel Jones | 2,728 |
 | 14 | A'ja Wilson | 2,657 |
 | 15 | Breanna Stewart | 2,632 |
@@ -987,11 +987,11 @@ _Last updated: 2026-07-03 03:15 UTC_
 | 142 | Wendy Palmer | 226 |
 | 143 | Alexis Hornbuckle | 225 |
 | 144 | Cheryl Ford | 224 |
+| 145 | **Kahleah Copper** 🔴 +2 | 221 |
 | 145 | Marina Mabrey | 221 |
 | 145 | Rushia Brown | 221 |
-| 147 | DeMya Walker | 220 |
-| 147 | Jennifer Gillom | 220 |
-| 147 | **Kahleah Copper** 🔴 +1 | 220 |
+| 148 | DeMya Walker | 220 |
+| 148 | Jennifer Gillom | 220 |
 | 150 | Allison Feaster | 219 |
 | 151 | Cheyenne Parker-Tyus | 217 |
 | 151 | Shenise Johnson | 217 |
@@ -1495,7 +1495,7 @@ _Last updated: 2026-07-03 03:15 UTC_
 | 35 | Mwadi Mabika | 941 |
 | 36 | Courtney Vandersloot | 940 |
 | 36 | Tamika Whitmore | 940 |
-| 38 | **DeWanna Bonner** 🔴 +1 | 923 |
+| 38 | **DeWanna Bonner** 🔴 +2 | 924 |
 | 39 | Briann January | 921 |
 | 40 | Jonquel Jones | 913 |
 | 40 | Ticha Penicheiro | 913 |

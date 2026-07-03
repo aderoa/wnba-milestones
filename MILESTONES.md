@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-03 03:16 UTC
+
+- **Kahleah Copper** passed **DeMya Walker** and **Jennifer Gillom** for **#147** all-time in steals (career 221) — up from #150 entering today — _4:11 - 3rd — SEA @ PHX_
+
 ## 2026-07-03 03:12 UTC
 
 - **Natisha Hiedeman** passed **Jessica Breland**, **Murriel Page**, and **Shatori Walker-Kimbrough** for **#167** all-time in steals (career 205) — up from #169 entering today — _6:49 - 3rd — SEA @ PHX_
