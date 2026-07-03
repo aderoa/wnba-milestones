@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-03 00:39 UTC_
+_Last updated: 2026-07-03 00:40 UTC_
 
 ## Contents
 
@@ -240,7 +240,7 @@ _Last updated: 2026-07-03 00:39 UTC_
 | 14 | A'ja Wilson | 2,657 |
 | 15 | Breanna Stewart | 2,632 |
 | 16 | Sancho Lyttle | 2,596 |
-| 17 | **Brittney Griner** 🔴 +7 | 2,586 |
+| 17 | **Brittney Griner** 🔴 +8 | 2,587 |
 | 18 | DeLisha Milton-Jones | 2,574 |
 | 19 | Swin Cash | 2,521 |
 | 20 | Michelle Snow | 2,476 |
@@ -346,8 +346,8 @@ _Last updated: 2026-07-03 00:39 UTC_
 | 120 | Jackie Young | 1,085 |
 | 121 | Svetlana Abrosimova | 1,078 |
 | 122 | Le'coe Willingham | 1,054 |
+| 123 | **Angel Reese** 🔴 +5 | 1,040 |
 | 123 | Nicole Ohlde | 1,040 |
-| 124 | **Angel Reese** 🔴 +4 | 1,039 |
 | 125 | Tamecka Dixon | 1,035 |
 | 126 | Kamila Vodichkova | 1,031 |
 | 127 | Jasmine Thomas | 1,027 |
@@ -1291,8 +1291,8 @@ _Last updated: 2026-07-03 00:39 UTC_
 | 36 | Plenette Pierson | 773 |
 | 37 | Briann January | 771 |
 | 38 | Margo Dydek | 758 |
-| 39 | **Brittney Griner** 🔴 | 751 |
-| 39 | Tangela Smith | 751 |
+| 39 | **Brittney Griner** 🔴 +1 | 752 |
+| 40 | Tangela Smith | 751 |
 | 41 | Kristi Toliver | 748 |
 | 42 | Monique Currie | 724 |
 | 43 | Michelle Snow | 723 |
