@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-03 00:13 UTC_
+_Last updated: 2026-07-03 00:14 UTC_
 
 ## Contents
 
@@ -352,7 +352,7 @@ _Last updated: 2026-07-03 00:13 UTC_
 | 126 | Kamila Vodichkova | 1,031 |
 | 127 | Jasmine Thomas | 1,027 |
 | 128 | Sabrina Ionescu | 1,020 |
-| 129 | **Jessica Shepard** 🔴 | 1,016 |
+| 129 | **Jessica Shepard** 🔴 +1 | 1,017 |
 | 130 | Cathrine Kraayeveld | 1,013 |
 | 131 | Kelly Miller | 1,011 |
 | 131 | Noelle Quinn | 1,011 |
@@ -400,7 +400,7 @@ _Last updated: 2026-07-03 00:13 UTC_
 | 174 | Charlotte Smith | 794 |
 | 175 | Rhonda Mapp | 788 |
 | 176 | Mercedes Russell | 786 |
-| 177 | **Odyssey Sims** 🔴 | 785 |
+| 176 | **Odyssey Sims** 🔴 +1 | 786 |
 | 178 | Sue Wicks | 780 |
 | 179 | Lindsey Harding | 779 |
 | 180 | Tiffani Johnson | 778 |
@@ -635,7 +635,7 @@ _Last updated: 2026-07-03 00:13 UTC_
 
 | Rank | Player | Total |
 |-----:|--------|------:|
-| 1 | **Brittney Griner** 🔴 | 879 |
+| 1 | **Brittney Griner** 🔴 +1 | 880 |
 | 2 | Margo Dydek | 873 |
 | 3 | Lisa Leslie | 818 |
 | 4 | Sylvia Fowles | 721 |
@@ -963,8 +963,8 @@ _Last updated: 2026-07-03 00:13 UTC_
 | 118 | Karima Christmas-Kelly | 261 |
 | 119 | Jonquel Jones | 260 |
 | 119 | Riquna Williams | 260 |
-| 121 | Noelle Quinn | 256 |
-| 121 | **Rhyne Howard** 🔴 +2 | 256 |
+| 121 | **Rhyne Howard** 🔴 +3 | 257 |
+| 122 | Noelle Quinn | 256 |
 | 123 | Elaine Powell | 255 |
 | 123 | Loree Moore | 255 |
 | 125 | Ruthie Bolton | 254 |
