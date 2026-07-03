@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-07-03T02:38:00+00:00",
+    "text": "Natisha Hiedeman passed Monique Billings and Moriah Jefferson for #185 all-time in turnovers (career 315) \u2014 up from #188 entering today \u2014 (5:31 - 2nd \u2014 SEA @ PHX)",
+    "kind": "rank_pass",
+    "player": "Natisha Hiedeman",
+    "stat": "turnovers",
+    "rank": 185,
+    "passed_players": [
+      "Monique Billings",
+      "Moriah Jefferson"
+    ],
+    "new_total": 315
+  },
+  {
     "ts": "2026-07-03T02:11:00+00:00",
     "text": "Natisha Hiedeman passed Alex Bentley for #187 all-time in turnovers (career 314) \u2014 up from #188 entering today \u2014 (4:39 - 1st \u2014 SEA @ PHX)",
     "kind": "rank_pass",
@@ -2972,17 +2985,5 @@
       "Penny Taylor"
     ],
     "new_total": 833
-  },
-  {
-    "ts": "2026-06-22T01:36:00+00:00",
-    "text": "Rebecca Allen passed Dawn Staley for #86 all-time in three-pointers (career 255) \u2014 up from #87 entering today \u2014 (58.2 - 3rd \u2014 NY @ LA)",
-    "kind": "rank_pass",
-    "player": "Rebecca Allen",
-    "stat": "three-pointers",
-    "rank": 86,
-    "passed_players": [
-      "Dawn Staley"
-    ],
-    "new_total": 255
   }
 ]
