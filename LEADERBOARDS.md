@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-03 00:09 UTC_
+_Last updated: 2026-07-03 00:10 UTC_
 
 ## Contents
 
@@ -519,7 +519,7 @@ _Last updated: 2026-07-03 00:09 UTC_
 | 87 | Natisha Hiedeman | 668 |
 | 88 | A'ja Wilson | 667 |
 | 89 | Bria Hartley | 661 |
-| 90 | **Brittney Griner** 🔴 | 660 |
+| 89 | **Brittney Griner** 🔴 +1 | 661 |
 | 91 | Lindsay Allen | 657 |
 | 92 | Betty Lennox | 651 |
 | 92 | Plenette Pierson | 651 |
@@ -1483,8 +1483,8 @@ _Last updated: 2026-07-03 00:09 UTC_
 | 23 | Tina Charles | 1,037 |
 | 24 | Tiffany Hayes | 1,021 |
 | 25 | Lindsay Whalen | 998 |
+| 26 | **Brittney Griner** 🔴 +1 | 996 |
 | 26 | Rebekkah Brunson | 996 |
-| 27 | **Brittney Griner** 🔴 | 995 |
 | 28 | Yolanda Griffith | 991 |
 | 29 | Lauren Jackson | 982 |
 | 30 | Nakia Sanford | 979 |
