@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-03 02:07 UTC_
+_Last updated: 2026-07-03 02:08 UTC_
 
 ## Contents
 
@@ -54,7 +54,7 @@ _Last updated: 2026-07-03 02:07 UTC_
 | 33 | Sheryl Swoopes | 4,875 |
 | 34 | **Alyssa Thomas** 🔴 +2 | 4,754 |
 | 35 | Alana Beard | 4,740 |
-| 36 | **Arike Ogunbowale** 🔴 +6 | 4,721 |
+| 36 | **Arike Ogunbowale** 🔴 +9 | 4,724 |
 | 37 | Chamique Holdsclaw | 4,713 |
 | 38 | Elena Delle Donne | 4,706 |
 | 39 | Natasha Howard | 4,682 |
@@ -1061,8 +1061,8 @@ _Last updated: 2026-07-03 02:07 UTC_
 | 11 | Kristi Toliver | 651 |
 | 12 | Kelsey Plum | 619 |
 | 13 | Tamika Catchings | 605 |
-| 14 | **Arike Ogunbowale** 🔴 +2 | 583 |
-| 14 | Kara Lawson | 583 |
+| 14 | **Arike Ogunbowale** 🔴 +3 | 584 |
+| 15 | Kara Lawson | 583 |
 | 16 | Nicole Powell | 579 |
 | 17 | Ivory Latta | 536 |
 | 18 | Renee Montgomery | 532 |
@@ -1482,8 +1482,8 @@ _Last updated: 2026-07-03 02:07 UTC_
 | 22 | Sylvia Fowles | 1,049 |
 | 23 | Tina Charles | 1,037 |
 | 24 | Tiffany Hayes | 1,021 |
-| 25 | **Brittney Griner** 🔴 +3 | 998 |
-| 25 | Lindsay Whalen | 998 |
+| 25 | **Brittney Griner** 🔴 +4 | 999 |
+| 26 | Lindsay Whalen | 998 |
 | 27 | Rebekkah Brunson | 996 |
 | 28 | Yolanda Griffith | 991 |
 | 29 | Lauren Jackson | 982 |

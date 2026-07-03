@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-07-03T02:08:00+00:00",
+    "text": "Arike Ogunbowale passed Kara Lawson for #14 all-time in three-pointers (career 584) \u2014 up from #15 entering today \u2014 (6:23 - 4th \u2014 DAL @ CON)",
+    "kind": "rank_pass",
+    "player": "Arike Ogunbowale",
+    "stat": "three-pointers",
+    "rank": 14,
+    "passed_players": [
+      "Kara Lawson"
+    ],
+    "new_total": 584
+  },
+  {
     "ts": "2026-07-03T02:07:00+00:00",
     "text": "Brittney Griner reached 6,100 career points (now 6,100) \u2014 (7:11 - 4th \u2014 DAL @ CON)",
     "kind": "round",
@@ -2974,17 +2986,5 @@
       "Jackie Young"
     ],
     "new_total": 526
-  },
-  {
-    "ts": "2026-06-21T02:09:00+00:00",
-    "text": "Skylar Diggins passed Rebekkah Brunson for #29 all-time in steals (career 457) \u2014 up from #31 entering today \u2014 (35.7 - 4th \u2014 CHI @ DAL)",
-    "kind": "rank_pass",
-    "player": "Skylar Diggins",
-    "stat": "steals",
-    "rank": 29,
-    "passed_players": [
-      "Rebekkah Brunson"
-    ],
-    "new_total": 457
   }
 ]
