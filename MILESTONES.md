@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-03 03:03 UTC
+
+- **Kahleah Copper** passed **Allison Feaster** for **#149** all-time in steals (career 220) — up from #150 entering today — _Halftime — SEA @ PHX_
+
 ## 2026-07-03 02:42 UTC
 
 - **Ezi Magbegor** passed **Natisha Hiedeman** for **#162** all-time in points (career 2,003) — up from #163 entering today — _3:14 - 2nd — SEA @ PHX_
