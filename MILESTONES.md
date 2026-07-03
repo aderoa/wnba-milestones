@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-03 02:11 UTC
+
+- **Natisha Hiedeman** passed **Alex Bentley** for **#187** all-time in turnovers (career 314) — up from #188 entering today — _4:39 - 1st — SEA @ PHX_
+
 ## 2026-07-03 02:08 UTC
 
 - **Arike Ogunbowale** passed **Kara Lawson** for **#14** all-time in three-pointers (career 584) — up from #15 entering today — _6:23 - 4th — DAL @ CON_

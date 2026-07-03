@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-07-03T02:11:00+00:00",
+    "text": "Natisha Hiedeman passed Alex Bentley for #187 all-time in turnovers (career 314) \u2014 up from #188 entering today \u2014 (4:39 - 1st \u2014 SEA @ PHX)",
+    "kind": "rank_pass",
+    "player": "Natisha Hiedeman",
+    "stat": "turnovers",
+    "rank": 187,
+    "passed_players": [
+      "Alex Bentley"
+    ],
+    "new_total": 314
+  },
+  {
     "ts": "2026-07-03T02:08:00+00:00",
     "text": "Arike Ogunbowale passed Kara Lawson for #14 all-time in three-pointers (career 584) \u2014 up from #15 entering today \u2014 (6:23 - 4th \u2014 DAL @ CON)",
     "kind": "rank_pass",
@@ -2972,19 +2984,5 @@
       "Dawn Staley"
     ],
     "new_total": 255
-  },
-  {
-    "ts": "2026-06-22T00:15:00+00:00",
-    "text": "Kayla McBride passed Candice Wiggins, Epiphanny Prince, and Jackie Young for #150 all-time in fouls (career 526) \u2014 up from #155 entering today \u2014 (5.9 - 4th \u2014 WSH @ MIN)",
-    "kind": "rank_pass",
-    "player": "Kayla McBride",
-    "stat": "fouls",
-    "rank": 150,
-    "passed_players": [
-      "Candice Wiggins",
-      "Epiphanny Prince",
-      "Jackie Young"
-    ],
-    "new_total": 526
   }
 ]
