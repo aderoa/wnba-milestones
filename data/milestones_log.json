@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-07-03T03:25:00+00:00",
+    "text": "Ezi Magbegor passed Kristen Rasmussen and Penny Toler for #196 all-time in assists (career 346) \u2014 up from #198 entering today \u2014 (56.3 - 3rd \u2014 SEA @ PHX)",
+    "kind": "rank_pass",
+    "player": "Ezi Magbegor",
+    "stat": "assists",
+    "rank": 196,
+    "passed_players": [
+      "Kristen Rasmussen",
+      "Penny Toler"
+    ],
+    "new_total": 346
+  },
+  {
     "ts": "2026-07-03T03:21:00+00:00",
     "text": "Ezi Magbegor passed Elena Delle Donne and Margo Dydek for #196 all-time in steals (career 175) \u2014 up from #197 entering today \u2014 (2:48 - 3rd \u2014 SEA @ PHX)",
     "kind": "rank_pass",
@@ -2974,14 +2987,5 @@
     "stat": "points",
     "value": 500,
     "new_total": 501
-  },
-  {
-    "ts": "2026-06-23T03:49:00+00:00",
-    "text": "Dominique Malonga reached 400 career points (now 401) \u2014 (14.7 - 4th \u2014 DAL @ SEA)",
-    "kind": "round",
-    "player": "Dominique Malonga",
-    "stat": "points",
-    "value": 400,
-    "new_total": 401
   }
 ]

@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-03 03:25 UTC
+
+- **Ezi Magbegor** passed **Kristen Rasmussen** and **Penny Toler** for **#196** all-time in assists (career 346) — up from #198 entering today — _56.3 - 3rd — SEA @ PHX_
+
 ## 2026-07-03 03:21 UTC
 
 - **Ezi Magbegor** passed **Elena Delle Donne** and **Margo Dydek** for **#196** all-time in steals (career 175) — up from #197 entering today — _2:48 - 3rd — SEA @ PHX_
