@@ -1,5 +1,14 @@
 [
   {
+    "ts": "2026-07-03T01:24:00+00:00",
+    "text": "Alanna Smith reached 1,400 career points (now 1,401) \u2014 (6:41 - 3rd \u2014 DAL @ CON)",
+    "kind": "round",
+    "player": "Alanna Smith",
+    "stat": "points",
+    "value": 1400,
+    "new_total": 1401
+  },
+  {
     "ts": "2026-07-03T01:11:00+00:00",
     "text": "Naz Hillmon passed Krystal Thomas for #159 all-time in rebounds (career 863) \u2014 up from #160 entering today \u2014 (9:09 - 4th \u2014 ATL @ WSH)",
     "kind": "rank_pass",
@@ -2977,18 +2986,5 @@
     "stat": "points",
     "value": 1000,
     "new_total": 1000
-  },
-  {
-    "ts": "2026-06-21T01:24:00+00:00",
-    "text": "Skylar Diggins passed Shannon Johnson and Tully Bevilaqua for #59 all-time in fouls (career 814) \u2014 up from #61 entering today \u2014 (4:40 - 3rd \u2014 CHI @ DAL)",
-    "kind": "rank_pass",
-    "player": "Skylar Diggins",
-    "stat": "fouls",
-    "rank": 59,
-    "passed_players": [
-      "Shannon Johnson",
-      "Tully Bevilaqua"
-    ],
-    "new_total": 814
   }
 ]
