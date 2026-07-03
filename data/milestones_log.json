@@ -1,5 +1,14 @@
 [
   {
+    "ts": "2026-07-03T02:07:00+00:00",
+    "text": "Brittney Griner reached 6,100 career points (now 6,100) \u2014 (7:11 - 4th \u2014 DAL @ CON)",
+    "kind": "round",
+    "player": "Brittney Griner",
+    "stat": "points",
+    "value": 6100,
+    "new_total": 6100
+  },
+  {
     "ts": "2026-07-03T01:24:00+00:00",
     "text": "Alanna Smith reached 1,400 career points (now 1,401) \u2014 (6:41 - 3rd \u2014 DAL @ CON)",
     "kind": "round",
@@ -2977,14 +2986,5 @@
       "Rebekkah Brunson"
     ],
     "new_total": 457
-  },
-  {
-    "ts": "2026-06-21T01:27:00+00:00",
-    "text": "Kamilla Cardoso reached 1,000 career points (now 1,000) \u2014 (2:47 - 3rd \u2014 CHI @ DAL)",
-    "kind": "round",
-    "player": "Kamilla Cardoso",
-    "stat": "points",
-    "value": 1000,
-    "new_total": 1000
   }
 ]
