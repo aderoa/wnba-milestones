@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-03 03:09 UTC_
+_Last updated: 2026-07-03 03:10 UTC_
 
 ## Contents
 
@@ -52,7 +52,7 @@ _Last updated: 2026-07-03 03:09 UTC_
 | 31 | Taj McWilliams-Franklin | 4,992 |
 | 32 | Maya Moore | 4,984 |
 | 33 | Sheryl Swoopes | 4,875 |
-| 34 | **Alyssa Thomas** 🔴 +5 | 4,757 |
+| 34 | **Alyssa Thomas** 🔴 +7 | 4,759 |
 | 35 | Alana Beard | 4,740 |
 | 36 | Arike Ogunbowale | 4,724 |
 | 37 | Chamique Holdsclaw | 4,713 |
@@ -235,7 +235,7 @@ _Last updated: 2026-07-03 03:09 UTC_
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
-| 12 | **Alyssa Thomas** 🔴 +9 | 2,867 |
+| 12 | **Alyssa Thomas** 🔴 +10 | 2,868 |
 | 13 | Jonquel Jones | 2,728 |
 | 14 | A'ja Wilson | 2,657 |
 | 15 | Breanna Stewart | 2,632 |
@@ -656,7 +656,7 @@ _Last updated: 2026-07-03 03:09 UTC_
 | 19 | Erika de Souza | 370 |
 | 19 | Natasha Howard | 370 |
 | 21 | Jessica Breland | 367 |
-| 22 | **DeWanna Bonner** 🔴 +1 | 359 |
+| 22 | **DeWanna Bonner** 🔴 +2 | 360 |
 | 23 | **Ezi Magbegor** 🔴 | 354 |
 | 24 | Kiah Stokes | 352 |
 | 25 | Diana Taurasi | 349 |
