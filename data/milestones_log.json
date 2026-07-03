@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-07-03T23:37:00+00:00",
+    "text": "Sabrina Ionescu passed Erin Perperoglou for #184 all-time in steals (career 185) \u2014 up from #185 entering today \u2014 (6:20 - 1st \u2014 MIN @ NY)",
+    "kind": "rank_pass",
+    "player": "Sabrina Ionescu",
+    "stat": "steals",
+    "rank": 184,
+    "passed_players": [
+      "Erin Perperoglou"
+    ],
+    "new_total": 185
+  },
+  {
     "ts": "2026-07-03T03:41:00+00:00",
     "text": "Alyssa Thomas passed Chelsea Gray, Chiney Ogwumike, and Kristen Rasmussen for #97 all-time in blocks (career 128) \u2014 (4:44 - 4th \u2014 SEA @ PHX)",
     "kind": "rank_pass",
@@ -2980,17 +2992,5 @@
       "Tiffany Jackson"
     ],
     "new_total": 1003
-  },
-  {
-    "ts": "2026-06-24T02:12:00+00:00",
-    "text": "Sabrina Ionescu passed Erin Phillips for #185 all-time in steals (career 183) \u2014 up from #186 entering today \u2014 (6:27 - 1st \u2014 NY @ LV)",
-    "kind": "rank_pass",
-    "player": "Sabrina Ionescu",
-    "stat": "steals",
-    "rank": 185,
-    "passed_players": [
-      "Erin Phillips"
-    ],
-    "new_total": 183
   }
 ]
