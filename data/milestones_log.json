@@ -1,5 +1,14 @@
 [
   {
+    "ts": "2026-07-03T02:41:00+00:00",
+    "text": "Ezi Magbegor reached 2,000 career points (now 2,001) \u2014 (3:40 - 2nd \u2014 SEA @ PHX)",
+    "kind": "round",
+    "player": "Ezi Magbegor",
+    "stat": "points",
+    "value": 2000,
+    "new_total": 2001
+  },
+  {
     "ts": "2026-07-03T02:38:00+00:00",
     "text": "Natisha Hiedeman passed Monique Billings and Moriah Jefferson for #185 all-time in turnovers (career 315) \u2014 up from #188 entering today \u2014 (5:31 - 2nd \u2014 SEA @ PHX)",
     "kind": "rank_pass",
@@ -2973,17 +2982,5 @@
       "Monique Currie"
     ],
     "new_total": 115
-  },
-  {
-    "ts": "2026-06-22T01:45:00+00:00",
-    "text": "Dearica Hamby passed Penny Taylor for #55 all-time in fouls (career 833) \u2014 up from #58 entering today \u2014 (9:09 - 4th \u2014 NY @ LA)",
-    "kind": "rank_pass",
-    "player": "Dearica Hamby",
-    "stat": "fouls",
-    "rank": 55,
-    "passed_players": [
-      "Penny Taylor"
-    ],
-    "new_total": 833
   }
 ]

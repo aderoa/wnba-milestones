@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-03 02:41 UTC
+
+- **Ezi Magbegor** reached **2,000** career points (now 2,001) — _3:40 - 2nd — SEA @ PHX_
+
 ## 2026-07-03 02:38 UTC
 
 - **Natisha Hiedeman** passed **Monique Billings** and **Moriah Jefferson** for **#185** all-time in turnovers (career 315) — up from #188 entering today — _5:31 - 2nd — SEA @ PHX_
