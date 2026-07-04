@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-07-04T03:30:00+00:00",
+    "text": "Cheyenne Parker-Tyus passed Allison Feaster and Kahleah Copper for #149 all-time in steals (career 220) \u2014 up from #151 entering today \u2014 (3:45 - 3rd \u2014 CHI @ LV)",
+    "kind": "rank_pass",
+    "player": "Cheyenne Parker-Tyus",
+    "stat": "steals",
+    "rank": 149,
+    "passed_players": [
+      "Allison Feaster",
+      "Kahleah Copper"
+    ],
+    "new_total": 220
+  },
+  {
     "ts": "2026-07-04T03:27:00+00:00",
     "text": "NaLyssa Smith reached 1,900 career points (now 1,901) \u2014 (4:07 - 3rd \u2014 CHI @ LV)",
     "kind": "round",
@@ -2979,17 +2992,5 @@
       "Nneka Ogwumike"
     ],
     "new_total": 244
-  },
-  {
-    "ts": "2026-06-27T01:07:00+00:00",
-    "text": "Rachel Banham passed Courtney Vandersloot for #43 all-time in three-pointers (career 386) \u2014 up from #44 entering today \u2014 (8:48 - 4th \u2014 POR @ CHI)",
-    "kind": "rank_pass",
-    "player": "Rachel Banham",
-    "stat": "three-pointers",
-    "rank": 43,
-    "passed_players": [
-      "Courtney Vandersloot"
-    ],
-    "new_total": 386
   }
 ]
