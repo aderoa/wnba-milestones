@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-07-04T17:06:00+00:00",
+    "text": "Kayla Thornton passed Damiris Dantas for #183 all-time in assists (career 369) \u2014 up from #184 entering today \u2014 (7:54 - 1st \u2014 GS @ ATL)",
+    "kind": "rank_pass",
+    "player": "Kayla Thornton",
+    "stat": "assists",
+    "rank": 183,
+    "passed_players": [
+      "Damiris Dantas"
+    ],
+    "new_total": 369
+  },
+  {
     "ts": "2026-07-04T04:18:00+00:00",
     "text": "Kamilla Cardoso reached 200 career assists (now 200) \u2014 (1:08 - OT \u2014 CHI @ LV)",
     "kind": "round",
@@ -2975,18 +2987,5 @@
       "Kahleah Copper"
     ],
     "new_total": 629
-  },
-  {
-    "ts": "2026-06-27T03:57:00+00:00",
-    "text": "Jordin Canada passed Azur\u00e1 Stevens and Allison Feaster for #136 all-time in points (career 2,260) \u2014 up from #139 entering today \u2014 (4:52 - 4th \u2014 ATL @ GS)",
-    "kind": "rank_pass",
-    "player": "Jordin Canada",
-    "stat": "points",
-    "rank": 136,
-    "passed_players": [
-      "Azur\u00e1 Stevens",
-      "Allison Feaster"
-    ],
-    "new_total": 2260
   }
 ]

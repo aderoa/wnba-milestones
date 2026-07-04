@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-04 17:06 UTC
+
+- **Kayla Thornton** passed **Damiris Dantas** for **#183** all-time in assists (career 369) — up from #184 entering today — _7:54 - 1st — GS @ ATL_
+
 ## 2026-07-04 04:18 UTC
 
 - **Kamilla Cardoso** reached **200** career assists (now 200) — _1:08 - OT — CHI @ LV_
