@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-04 02:43 UTC_
+_Last updated: 2026-07-04 02:44 UTC_
 
 ## Contents
 
@@ -83,7 +83,7 @@ _Last updated: 2026-07-04 02:43 UTC_
 | 62 | Allie Quigley | 3,786 |
 | 63 | Chasity Melvin | 3,781 |
 | 64 | Brittney Sykes | 3,726 |
-| 65 | **Jackie Young** 🔴 +2 | 3,700 |
+| 65 | **Jackie Young** 🔴 +4 | 3,702 |
 | 66 | Kara Lawson | 3,670 |
 | 67 | Mwadi Mabika | 3,576 |
 | 68 | Odyssey Sims | 3,574 |
@@ -301,7 +301,7 @@ _Last updated: 2026-07-04 02:43 UTC_
 | 75 | Kara Braxton | 1,387 |
 | 76 | Katie Smith | 1,383 |
 | 77 | Ebony Hoffman | 1,376 |
-| 78 | **Jewell Loyd** 🔴 +1 | 1,372 |
+| 78 | **Jewell Loyd** 🔴 +2 | 1,373 |
 | 79 | Sheri Sam | 1,356 |
 | 80 | Tamika Whitmore | 1,355 |
 | 81 | Emma Meesseman | 1,350 |
@@ -873,8 +873,8 @@ _Last updated: 2026-07-04 02:43 UTC_
 | 28 | Natasha Howard | 467 |
 | 29 | **Skylar Diggins** 🔴 | 463 |
 | 29 | Teresa Weatherspoon | 463 |
+| 31 | **Chelsea Gray** 🔴 +2 | 459 |
 | 31 | **Jewell Loyd** 🔴 +1 | 459 |
-| 32 | **Chelsea Gray** 🔴 +1 | 458 |
 | 33 | Rebekkah Brunson | 456 |
 | 34 | Tangela Smith | 455 |
 | 35 | Tina Thompson | 452 |
@@ -910,9 +910,9 @@ _Last updated: 2026-07-04 02:43 UTC_
 | 64 | Tan White | 360 |
 | 66 | Vickie Johnson | 357 |
 | 67 | Dominique Canty | 356 |
+| 67 | **Natasha Cloud** 🔴 +1 | 356 |
 | 67 | Renee Montgomery | 356 |
-| 69 | **Natasha Cloud** 🔴 | 355 |
-| 69 | Tamecka Dixon | 355 |
+| 70 | Tamecka Dixon | 355 |
 | 71 | Arike Ogunbowale | 354 |
 | 72 | Vicky Bullett | 353 |
 | 73 | Svetlana Abrosimova | 352 |

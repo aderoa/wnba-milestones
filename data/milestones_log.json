@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-07-04T02:44:00+00:00",
+    "text": "Chelsea Gray passed Jewell Loyd for #31 all-time in steals (career 459) \u2014 up from #32 entering today \u2014 (5:27 - 2nd \u2014 CHI @ LV)",
+    "kind": "rank_pass",
+    "player": "Chelsea Gray",
+    "stat": "steals",
+    "rank": 31,
+    "passed_players": [
+      "Jewell Loyd"
+    ],
+    "new_total": 459
+  },
+  {
     "ts": "2026-07-04T02:43:00+00:00",
     "text": "Jewell Loyd passed Sandrine Gruda for #141 all-time in blocks (career 95) \u2014 (6:23 - 2nd \u2014 CHI @ LV)",
     "kind": "rank_pass",
@@ -2983,17 +2995,5 @@
       "Katie Smith"
     ],
     "new_total": 1384
-  },
-  {
-    "ts": "2026-06-26T23:39:00+00:00",
-    "text": "Azur\u00e1 Stevens passed Brittney Sykes for #92 all-time in three-pointers (career 243) \u2014 up from #93 entering today \u2014 (6:46 - 1st \u2014 POR @ CHI)",
-    "kind": "rank_pass",
-    "player": "Azur\u00e1 Stevens",
-    "stat": "three-pointers",
-    "rank": 92,
-    "passed_players": [
-      "Brittney Sykes"
-    ],
-    "new_total": 243
   }
 ]
