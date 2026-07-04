@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-07-04T00:18:00+00:00",
+    "text": "Leonie Fiebich passed Amanda Zahui B and Eva Nemcova for #167 all-time in three-pointers (career 131) \u2014 up from #170 entering today \u2014 (1:16 - 2nd \u2014 MIN @ NY)",
+    "kind": "rank_pass",
+    "player": "Leonie Fiebich",
+    "stat": "three-pointers",
+    "rank": 167,
+    "passed_players": [
+      "Amanda Zahui B",
+      "Eva Nemcova"
+    ],
+    "new_total": 131
+  },
+  {
     "ts": "2026-07-04T00:00:00+00:00",
     "text": "Leonie Fiebich passed Crystal Dangerfield for #169 all-time in three-pointers (career 130) \u2014 up from #170 entering today \u2014 (7:51 - 2nd \u2014 MIN @ NY)",
     "kind": "rank_pass",
@@ -2978,18 +2991,5 @@
       "Marina Mabrey"
     ],
     "new_total": 3054
-  },
-  {
-    "ts": "2026-06-24T03:12:00+00:00",
-    "text": "Chelsea Gray passed Katie Douglas and Mistie Bass for #97 all-time in blocks (career 127) \u2014 (7:13 - 3rd \u2014 NY @ LV)",
-    "kind": "rank_pass",
-    "player": "Chelsea Gray",
-    "stat": "blocks",
-    "rank": 97,
-    "passed_players": [
-      "Katie Douglas",
-      "Mistie Bass"
-    ],
-    "new_total": 127
   }
 ]
