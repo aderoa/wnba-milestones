@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-04 02:43 UTC
+
+- **Jewell Loyd** passed **Sandrine Gruda** for **#141** all-time in blocks (career 95) — _6:23 - 2nd — CHI @ LV_
+
 ## 2026-07-04 02:15 UTC
 
 - **Azurá Stevens** passed **Erin Perperoglou** and **Jennifer Lacy** for **#191** all-time in turnovers (career 306) — up from #193 entering today — _5:18 - 1st — CHI @ LV_

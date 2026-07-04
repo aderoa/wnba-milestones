@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-07-04T02:43:00+00:00",
+    "text": "Jewell Loyd passed Sandrine Gruda for #141 all-time in blocks (career 95) \u2014 (6:23 - 2nd \u2014 CHI @ LV)",
+    "kind": "rank_pass",
+    "player": "Jewell Loyd",
+    "stat": "blocks",
+    "rank": 141,
+    "passed_players": [
+      "Sandrine Gruda"
+    ],
+    "new_total": 95
+  },
+  {
     "ts": "2026-07-04T02:15:00+00:00",
     "text": "Azur\u00e1 Stevens passed Erin Perperoglou and Jennifer Lacy for #191 all-time in turnovers (career 306) \u2014 up from #193 entering today \u2014 (5:18 - 1st \u2014 CHI @ LV)",
     "kind": "rank_pass",
@@ -2983,17 +2995,5 @@
       "Brittney Sykes"
     ],
     "new_total": 243
-  },
-  {
-    "ts": "2026-06-26T03:56:00+00:00",
-    "text": "Arike Ogunbowale passed Teresa Weatherspoon for #125 all-time in fouls (career 590) \u2014 up from #126 entering today \u2014 (4:25 - 4th \u2014 DAL @ LV)",
-    "kind": "rank_pass",
-    "player": "Arike Ogunbowale",
-    "stat": "fouls",
-    "rank": 125,
-    "passed_players": [
-      "Teresa Weatherspoon"
-    ],
-    "new_total": 590
   }
 ]
