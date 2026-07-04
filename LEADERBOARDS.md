@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-04 02:16 UTC_
+_Last updated: 2026-07-04 02:17 UTC_
 
 ## Contents
 
@@ -57,7 +57,7 @@ _Last updated: 2026-07-04 02:16 UTC_
 | 36 | Arike Ogunbowale | 4,715 |
 | 37 | Chamique Holdsclaw | 4,713 |
 | 38 | Elena Delle Donne | 4,706 |
-| 39 | Natasha Howard | 4,689 |
+| 39 | Natasha Howard | 4,687 |
 | 40 | **Chelsea Gray** 🔴 +2 | 4,627 |
 | 41 | Penny Taylor | 4,595 |
 | 42 | Kelsey Plum | 4,494 |
@@ -249,7 +249,7 @@ _Last updated: 2026-07-04 02:16 UTC_
 | 23 | Lauren Jackson | 2,444 |
 | 24 | Yolanda Griffith | 2,440 |
 | 25 | Tangela Smith | 2,328 |
-| 26 | Natasha Howard | 2,321 |
+| 26 | Natasha Howard | 2,318 |
 | 27 | Erika de Souza | 2,220 |
 | 28 | Diana Taurasi | 2,201 |
 | 29 | Margo Dydek | 2,138 |
@@ -329,7 +329,7 @@ _Last updated: 2026-07-04 02:16 UTC_
 | 103 | Latasha Byears | 1,190 |
 | 103 | Tanisha Wright | 1,190 |
 | 105 | Vicky Bullett | 1,189 |
-| 106 | **NaLyssa Smith** 🔴 +2 | 1,174 |
+| 106 | **NaLyssa Smith** 🔴 +3 | 1,175 |
 | 107 | Brittney Sykes | 1,162 |
 | 108 | Nykesha Sales | 1,148 |
 | 109 | Shannon Johnson | 1,143 |
@@ -529,7 +529,7 @@ _Last updated: 2026-07-04 02:16 UTC_
 | 97 | Jennifer Azzi | 636 |
 | 98 | Sami Whitcomb | 623 |
 | 99 | Alysha Clark | 619 |
-| 100 | Natasha Howard | 617 |
+| 100 | Natasha Howard | 616 |
 | 101 | Debbie Black | 612 |
 | 102 | Cynthia Cooper | 602 |
 | 103 | Sancho Lyttle | 592 |
@@ -697,8 +697,8 @@ _Last updated: 2026-07-04 02:16 UTC_
 | 60 | Kelly Schumacher | 183 |
 | 61 | Maria Stepanova | 182 |
 | 62 | Courtney Paris | 178 |
-| 62 | Nia Coffey | 178 |
-| 64 | Vanessa Hayden | 177 |
+| 63 | Nia Coffey | 177 |
+| 63 | Vanessa Hayden | 177 |
 | 65 | Maya Moore | 176 |
 | 66 | Kia Vaughn | 175 |
 | 67 | Amanda Zahui B | 171 |
@@ -1451,8 +1451,8 @@ _Last updated: 2026-07-04 02:16 UTC_
 | 196 | Crystal Robinson | 299 |
 | 197 | Kayla Thornton | 298 |
 | 198 | Michele Timms | 297 |
-| 199 | Nia Coffey | 290 |
-| 200 | Damiris Dantas | 289 |
+| 199 | Damiris Dantas | 289 |
+| 199 | Nia Coffey | 289 |
 
 ## Personal fouls
 
@@ -1469,8 +1469,8 @@ _Last updated: 2026-07-04 02:16 UTC_
 | 9 | Tammy Sutton-Brown | 1,193 |
 | 10 | Plenette Pierson | 1,175 |
 | 11 | Chasity Melvin | 1,165 |
-| 12 | Natasha Howard | 1,162 |
-| 13 | Camille Smith | 1,159 |
+| 12 | Camille Smith | 1,159 |
+| 13 | Natasha Howard | 1,158 |
 | 14 | Nneka Ogwumike | 1,156 |
 | 15 | Alana Beard | 1,153 |
 | 16 | Swin Cash | 1,146 |
