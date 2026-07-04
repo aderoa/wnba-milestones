@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-04 01:04 UTC
+
+- **Jonquel Jones** passed **Betty Lennox** and **Plenette Pierson** for **#92** all-time in assists (career 652) — up from #94 entering today — _7:41 - 4th — MIN @ NY_
+
 ## 2026-07-04 01:03 UTC
 
 - **Sabrina Ionescu** passed **Kennedy Burke** for **#198** all-time in blocks (career 67) — new to top 200 today — _8:08 - 4th — MIN @ NY_

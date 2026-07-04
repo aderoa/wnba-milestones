@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-07-04T01:04:00+00:00",
+    "text": "Jonquel Jones passed Betty Lennox and Plenette Pierson for #92 all-time in assists (career 652) \u2014 up from #94 entering today \u2014 (7:41 - 4th \u2014 MIN @ NY)",
+    "kind": "rank_pass",
+    "player": "Jonquel Jones",
+    "stat": "assists",
+    "rank": 92,
+    "passed_players": [
+      "Betty Lennox",
+      "Plenette Pierson"
+    ],
+    "new_total": 652
+  },
+  {
     "ts": "2026-07-04T01:03:00+00:00",
     "text": "Sabrina Ionescu passed Kennedy Burke for #198 all-time in blocks (career 67) \u2014 new to top 200 today \u2014 (8:08 - 4th \u2014 MIN @ NY)",
     "kind": "rank_pass",
@@ -2977,17 +2990,5 @@
       "Tully Bevilaqua"
     ],
     "new_total": 291
-  },
-  {
-    "ts": "2026-06-25T01:58:00+00:00",
-    "text": "Kahleah Copper passed Shenise Johnson for #149 all-time in steals (career 218) \u2014 up from #151 entering today \u2014 (Final \u2014 PHX @ IND)",
-    "kind": "rank_pass",
-    "player": "Kahleah Copper",
-    "stat": "steals",
-    "rank": 149,
-    "passed_players": [
-      "Shenise Johnson"
-    ],
-    "new_total": 218
   }
 ]
