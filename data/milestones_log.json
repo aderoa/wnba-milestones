@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-07-04T19:26:00+00:00",
+    "text": "Veronica Burton passed Shannon Johnson for #196 all-time in blocks (career 68) \u2014 up from #197 entering today \u2014 (Final \u2014 GS @ ATL)",
+    "kind": "rank_pass",
+    "player": "Veronica Burton",
+    "stat": "blocks",
+    "rank": 196,
+    "passed_players": [
+      "Shannon Johnson"
+    ],
+    "new_total": 68
+  },
+  {
     "ts": "2026-07-04T19:16:00+00:00",
     "text": "Gabby Williams passed Nakia Sanford for #175 all-time in points (career 1,916) \u2014 up from #178 entering today \u2014 (1:37 - 4th \u2014 GS @ ATL)",
     "kind": "rank_pass",
@@ -2973,18 +2985,5 @@
       "Shakira Austin"
     ],
     "new_total": 835
-  },
-  {
-    "ts": "2026-06-27T12:06:00+00:00",
-    "text": "Gabby Williams passed Sancho Lyttle and Caitlin Clark for #103 all-time in assists (career 593) \u2014 up from #105 entering today \u2014 (Final \u2014 ATL @ GS)",
-    "kind": "rank_pass",
-    "player": "Gabby Williams",
-    "stat": "assists",
-    "rank": 103,
-    "passed_players": [
-      "Sancho Lyttle",
-      "Caitlin Clark"
-    ],
-    "new_total": 593
   }
 ]

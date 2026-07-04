@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-04 19:26 UTC
+
+- **Veronica Burton** passed **Shannon Johnson** for **#196** all-time in blocks (career 68) — up from #197 entering today — _Final — GS @ ATL_
+
 ## 2026-07-04 19:16 UTC
 
 - **Gabby Williams** passed **Nakia Sanford** for **#175** all-time in points (career 1,916) — up from #178 entering today — _1:37 - 4th — GS @ ATL_
