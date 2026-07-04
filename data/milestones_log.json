@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-07-04T00:00:00+00:00",
+    "text": "Leonie Fiebich passed Crystal Dangerfield for #169 all-time in three-pointers (career 130) \u2014 up from #170 entering today \u2014 (7:51 - 2nd \u2014 MIN @ NY)",
+    "kind": "rank_pass",
+    "player": "Leonie Fiebich",
+    "stat": "three-pointers",
+    "rank": 169,
+    "passed_players": [
+      "Crystal Dangerfield"
+    ],
+    "new_total": 130
+  },
+  {
     "ts": "2026-07-03T23:40:00+00:00",
     "text": "Jonquel Jones passed Riquna Williams for #120 all-time in steals (career 261) \u2014 (4:38 - 1st \u2014 MIN @ NY)",
     "kind": "rank_pass",
@@ -2979,18 +2991,5 @@
       "Mistie Bass"
     ],
     "new_total": 127
-  },
-  {
-    "ts": "2026-06-24T03:09:00+00:00",
-    "text": "NaLyssa Smith passed Imani McGee-Stafford and Isabelle Harrison for #137 all-time in blocks (career 96) \u2014 up from #140 entering today \u2014 (9:14 - 3rd \u2014 NY @ LV)",
-    "kind": "rank_pass",
-    "player": "NaLyssa Smith",
-    "stat": "blocks",
-    "rank": 137,
-    "passed_players": [
-      "Imani McGee-Stafford",
-      "Isabelle Harrison"
-    ],
-    "new_total": 96
   }
 ]

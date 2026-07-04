@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-03 23:59 UTC_
+_Last updated: 2026-07-04 00:00 UTC_
 
 ## Contents
 
@@ -1216,8 +1216,8 @@ _Last updated: 2026-07-03 23:59 UTC_
 | 166 | Myisha Hines-Allen | 131 |
 | 167 | Amanda Zahui B | 130 |
 | 167 | Eva Nemcova | 130 |
-| 169 | Crystal Dangerfield | 129 |
-| 169 | **Leonie Fiebich** 🔴 | 129 |
+| 167 | **Leonie Fiebich** 🔴 +1 | 130 |
+| 170 | Crystal Dangerfield | 129 |
 | 171 | Jordin Canada | 128 |
 | 171 | Ticha Penicheiro | 128 |
 | 173 | Michele Timms | 127 |
