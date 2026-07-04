@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-07-04T19:16:00+00:00",
+    "text": "Gabby Williams passed Nakia Sanford for #175 all-time in points (career 1,916) \u2014 up from #178 entering today \u2014 (1:37 - 4th \u2014 GS @ ATL)",
+    "kind": "rank_pass",
+    "player": "Gabby Williams",
+    "stat": "points",
+    "rank": 175,
+    "passed_players": [
+      "Nakia Sanford"
+    ],
+    "new_total": 1916
+  },
+  {
     "ts": "2026-07-04T19:10:00+00:00",
     "text": "Veronica Burton passed Kennedy Burke and Lexie Hull for #175 all-time in three-pointers (career 126) \u2014 up from #178 entering today \u2014 (4:20 - 4th \u2014 GS @ ATL)",
     "kind": "rank_pass",
@@ -2974,17 +2986,5 @@
       "Caitlin Clark"
     ],
     "new_total": 593
-  },
-  {
-    "ts": "2026-06-27T12:06:00+00:00",
-    "text": "Gabby Williams passed Charlotte Smith for #173 all-time in turnovers (career 338) \u2014 up from #174 entering today \u2014 (Final \u2014 ATL @ GS)",
-    "kind": "rank_pass",
-    "player": "Gabby Williams",
-    "stat": "turnovers",
-    "rank": 173,
-    "passed_players": [
-      "Charlotte Smith"
-    ],
-    "new_total": 338
   }
 ]
