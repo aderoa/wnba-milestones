@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-07-04T02:15:00+00:00",
+    "text": "Azur\u00e1 Stevens passed Erin Perperoglou and Jennifer Lacy for #191 all-time in turnovers (career 306) \u2014 up from #193 entering today \u2014 (5:18 - 1st \u2014 CHI @ LV)",
+    "kind": "rank_pass",
+    "player": "Azur\u00e1 Stevens",
+    "stat": "turnovers",
+    "rank": 191,
+    "passed_players": [
+      "Erin Perperoglou",
+      "Jennifer Lacy"
+    ],
+    "new_total": 306
+  },
+  {
     "ts": "2026-07-04T02:06:00+00:00",
     "text": "Jackie Young passed Cappie Pondexter, Christi Thomas, Olympia Scott, and Sue Bird for #185 all-time in blocks (career 73) \u2014 up from #187 entering today \u2014 (9:21 - 1st \u2014 CHI @ LV)",
     "kind": "rank_pass",
@@ -2982,17 +2995,5 @@
       "Teresa Weatherspoon"
     ],
     "new_total": 590
-  },
-  {
-    "ts": "2026-06-26T03:37:00+00:00",
-    "text": "Jonquel Jones passed Dearica Hamby for #52 all-time in points (career 4,246) \u2014 up from #56 entering today \u2014 (4:27 - 4th \u2014 NY @ SEA)",
-    "kind": "rank_pass",
-    "player": "Jonquel Jones",
-    "stat": "points",
-    "rank": 52,
-    "passed_players": [
-      "Dearica Hamby"
-    ],
-    "new_total": 4246
   }
 ]

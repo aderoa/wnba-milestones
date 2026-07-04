@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-04 02:14 UTC_
+_Last updated: 2026-07-04 02:15 UTC_
 
 ## Contents
 
@@ -118,7 +118,7 @@ _Last updated: 2026-07-04 02:14 UTC_
 | 97 | **Natasha Cloud** 🔴 | 3,018 |
 | 98 | Marie Ferdinand-Harris | 3,001 |
 | 99 | Emma Meesseman | 2,966 |
-| 100 | **Elizabeth Williams** 🔴 | 2,933 |
+| 100 | **Elizabeth Williams** 🔴 +2 | 2,935 |
 | 101 | Natalie Williams | 2,894 |
 | 102 | Jennifer Gillom | 2,888 |
 | 103 | Iziane Castro Marques | 2,862 |
@@ -197,7 +197,7 @@ _Last updated: 2026-07-04 02:14 UTC_
 | 176 | Ebony Hoffman | 1,909 |
 | 177 | Candice Wiggins | 1,901 |
 | 178 | Gabby Williams | 1,899 |
-| 179 | **NaLyssa Smith** 🔴 +4 | 1,883 |
+| 179 | **NaLyssa Smith** 🔴 +6 | 1,885 |
 | 180 | Rachel Banham | 1,843 |
 | 181 | Damiris Dantas | 1,842 |
 | 182 | Sophie Cunningham | 1,829 |
@@ -256,7 +256,7 @@ _Last updated: 2026-07-04 02:14 UTC_
 | 30 | Chamique Holdsclaw | 2,123 |
 | 31 | Chasity Melvin | 2,097 |
 | 32 | Tammy Sutton-Brown | 2,010 |
-| 33 | **Elizabeth Williams** 🔴 | 1,978 |
+| 33 | **Elizabeth Williams** 🔴 +1 | 1,979 |
 | 34 | Cheryl Ford | 1,907 |
 | 35 | Courtney Williams | 1,848 |
 | 36 | Kiah Stokes | 1,835 |
@@ -431,7 +431,7 @@ _Last updated: 2026-07-04 02:14 UTC_
 | Rank | Player | Total |
 |-----:|--------|------:|
 | 1 | Sue Bird | 3,234 |
-| 2 | **Courtney Vandersloot** 🔴 | 2,894 |
+| 2 | **Courtney Vandersloot** 🔴 +1 | 2,895 |
 | 3 | Ticha Penicheiro | 2,588 |
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
@@ -461,7 +461,7 @@ _Last updated: 2026-07-04 02:14 UTC_
 | 29 | Vickie Johnson | 1,202 |
 | 30 | Leilani Mitchell | 1,197 |
 | 31 | DeWanna Bonner | 1,196 |
-| 32 | **Jewell Loyd** 🔴 +1 | 1,157 |
+| 32 | **Jewell Loyd** 🔴 +2 | 1,158 |
 | 33 | **Jackie Young** 🔴 +2 | 1,152 |
 | 34 | Renee Montgomery | 1,140 |
 | 35 | Swin Cash | 1,131 |
@@ -1443,9 +1443,9 @@ _Last updated: 2026-07-04 02:14 UTC_
 | 188 | Natisha Hiedeman | 312 |
 | 189 | Tamika Raymond | 311 |
 | 190 | Isabelle Harrison | 307 |
-| 191 | **Azurá Stevens** 🔴 +1 | 305 |
-| 191 | Erin Perperoglou | 305 |
-| 191 | Jennifer Lacy | 305 |
+| 191 | **Azurá Stevens** 🔴 +2 | 306 |
+| 192 | Erin Perperoglou | 305 |
+| 192 | Jennifer Lacy | 305 |
 | 194 | Tianna Hawkins | 303 |
 | 195 | Rachel Banham | 301 |
 | 196 | Crystal Robinson | 299 |
