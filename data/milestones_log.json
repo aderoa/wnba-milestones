@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-07-04T01:19:00+00:00",
+    "text": "Courtney Williams passed Emma Meesseman for #127 all-time in fouls (career 586) \u2014 up from #128 entering today \u2014 (1:52 - 4th \u2014 MIN @ NY)",
+    "kind": "rank_pass",
+    "player": "Courtney Williams",
+    "stat": "fouls",
+    "rank": 127,
+    "passed_players": [
+      "Emma Meesseman"
+    ],
+    "new_total": 586
+  },
+  {
     "ts": "2026-07-04T01:11:00+00:00",
     "text": "Courtney Williams passed Stefanie Dolson for #81 all-time in three-pointers (career 279) \u2014 up from #82 entering today \u2014 (5:10 - 4th \u2014 MIN @ NY)",
     "kind": "rank_pass",
@@ -2979,14 +2991,5 @@
       "Erin Thorn"
     ],
     "new_total": 415
-  },
-  {
-    "ts": "2026-06-26T00:55:00+00:00",
-    "text": "Marina Mabrey reached 3,100 career points (now 3,102) \u2014 (3:42 - 4th \u2014 LA @ TOR)",
-    "kind": "round",
-    "player": "Marina Mabrey",
-    "stat": "points",
-    "value": 3100,
-    "new_total": 3102
   }
 ]

@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-04 01:19 UTC
+
+- **Courtney Williams** passed **Emma Meesseman** for **#127** all-time in fouls (career 586) — up from #128 entering today — _1:52 - 4th — MIN @ NY_
+
 ## 2026-07-04 01:11 UTC
 
 - **Courtney Williams** passed **Stefanie Dolson** for **#81** all-time in three-pointers (career 279) — up from #82 entering today — _5:10 - 4th — MIN @ NY_
