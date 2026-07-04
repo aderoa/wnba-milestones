@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-04 18:56 UTC_
+_Last updated: 2026-07-04 18:57 UTC_
 
 ## Contents
 
@@ -383,7 +383,7 @@ _Last updated: 2026-07-04 18:56 UTC_
 | 157 | Marina Mabrey | 874 |
 | 158 | Shameka Christon | 867 |
 | 159 | Krystal Thomas | 862 |
-| 160 | **Naz Hillmon** 🔴 +2 | 861 |
+| 159 | **Naz Hillmon** 🔴 +3 | 862 |
 | 161 | Leilani Mitchell | 845 |
 | 162 | Essence Carson | 833 |
 | 163 | **Gabby Williams** 🔴 +1 | 832 |
@@ -1031,9 +1031,9 @@ _Last updated: 2026-07-04 18:56 UTC_
 | 186 | Rebecca Allen | 183 |
 | 187 | Erin Phillips | 182 |
 | 187 | Monique Billings | 182 |
+| 189 | **Kiah Stokes** 🔴 +3 | 181 |
 | 189 | Nakia Sanford | 181 |
-| 190 | Diamond DeShields | 180 |
-| 190 | **Kiah Stokes** 🔴 +2 | 180 |
+| 191 | Diamond DeShields | 180 |
 | 192 | Bridget Pettis | 177 |
 | 193 | Brittany Boyd-Jones | 176 |
 | 193 | Chiney Ogwumike | 176 |

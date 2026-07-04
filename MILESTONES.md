@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-04 18:57 UTC
+
+- **Kiah Stokes** passed **Diamond DeShields** for **#190** all-time in steals (career 181) — up from #191 entering today — _8:10 - 4th — GS @ ATL_
+
 ## 2026-07-04 18:36 UTC
 
 - **Gabby Williams** passed **Alanna Smith** for **#142** all-time in three-pointers (career 157) — up from #144 entering today — _2:44 - 3rd — GS @ ATL_

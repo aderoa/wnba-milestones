@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-07-04T18:57:00+00:00",
+    "text": "Kiah Stokes passed Diamond DeShields for #190 all-time in steals (career 181) \u2014 up from #191 entering today \u2014 (8:10 - 4th \u2014 GS @ ATL)",
+    "kind": "rank_pass",
+    "player": "Kiah Stokes",
+    "stat": "steals",
+    "rank": 190,
+    "passed_players": [
+      "Diamond DeShields"
+    ],
+    "new_total": 181
+  },
+  {
     "ts": "2026-07-04T18:36:00+00:00",
     "text": "Gabby Williams passed Alanna Smith for #142 all-time in three-pointers (career 157) \u2014 up from #144 entering today \u2014 (2:44 - 3rd \u2014 GS @ ATL)",
     "kind": "rank_pass",
@@ -2975,18 +2987,5 @@
       "Shoni Schimmel"
     ],
     "new_total": 113
-  },
-  {
-    "ts": "2026-06-27T12:06:00+00:00",
-    "text": "Tiffany Hayes passed Liz Cambage and Chelsea Gray for #92 all-time in rebounds (career 1,259) \u2014 up from #94 entering today \u2014 (Final \u2014 ATL @ GS)",
-    "kind": "rank_pass",
-    "player": "Tiffany Hayes",
-    "stat": "rebounds",
-    "rank": 92,
-    "passed_players": [
-      "Liz Cambage",
-      "Chelsea Gray"
-    ],
-    "new_total": 1259
   }
 ]
