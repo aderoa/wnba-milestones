@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-04 19:21 UTC_
+_Last updated: 2026-07-04 19:22 UTC_
 
 ## Contents
 
@@ -192,8 +192,8 @@ _Last updated: 2026-07-04 19:21 UTC_
 | 171 | Roneeka Hodges | 1,925 |
 | 172 | Latasha Byears | 1,920 |
 | 173 | Karima Christmas-Kelly | 1,919 |
+| 174 | **Gabby Williams** 🔴 +19 | 1,918 |
 | 174 | Jessica Breland | 1,918 |
-| 175 | **Gabby Williams** 🔴 +17 | 1,916 |
 | 176 | Nakia Sanford | 1,915 |
 | 177 | Ebony Hoffman | 1,909 |
 | 178 | Candice Wiggins | 1,901 |
@@ -1350,8 +1350,8 @@ _Last updated: 2026-07-04 19:21 UTC_
 | 94 | Iziane Castro Marques | 534 |
 | 96 | Sabrina Ionescu | 533 |
 | 97 | Mwadi Mabika | 532 |
+| 98 | **Jordin Canada** 🔴 +4 | 531 |
 | 98 | Nakia Sanford | 531 |
-| 99 | **Jordin Canada** 🔴 +3 | 530 |
 | 100 | Arike Ogunbowale | 529 |
 | 101 | Maya Moore | 527 |
 | 102 | Kara Lawson | 526 |
