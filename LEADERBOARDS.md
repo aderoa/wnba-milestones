@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-04 02:41 UTC_
+_Last updated: 2026-07-04 02:42 UTC_
 
 ## Contents
 
@@ -197,7 +197,7 @@ _Last updated: 2026-07-04 02:41 UTC_
 | 176 | Ebony Hoffman | 1,909 |
 | 177 | Candice Wiggins | 1,901 |
 | 178 | Gabby Williams | 1,899 |
-| 179 | **NaLyssa Smith** 🔴 +8 | 1,887 |
+| 179 | **NaLyssa Smith** 🔴 +9 | 1,888 |
 | 180 | Rachel Banham | 1,843 |
 | 181 | Damiris Dantas | 1,842 |
 | 182 | Sophie Cunningham | 1,829 |
@@ -412,8 +412,8 @@ _Last updated: 2026-07-04 02:41 UTC_
 | 186 | Tully Bevilaqua | 767 |
 | 187 | Layshia Clarendon | 756 |
 | 188 | Brooke Wyckoff | 751 |
-| 189 | Coco Miller | 750 |
-| 189 | **Kamilla Cardoso** 🔴 | 750 |
+| 188 | **Kamilla Cardoso** 🔴 +1 | 751 |
+| 190 | Coco Miller | 750 |
 | 191 | Kelsey Plum | 741 |
 | 192 | Alex Montgomery | 735 |
 | 193 | Ashley Robinson | 734 |
@@ -1650,7 +1650,7 @@ _Last updated: 2026-07-04 02:41 UTC_
 | 190 | Alanna Smith | 479 |
 | 191 | Seimone Augustus | 477 |
 | 192 | Allie Quigley | 475 |
-| 193 | **NaLyssa Smith** 🔴 | 474 |
+| 192 | **NaLyssa Smith** 🔴 +1 | 475 |
 | 194 | Satou Sabally | 471 |
 | 195 | Christi Thomas | 463 |
 | 195 | Nikki Teasley | 463 |
