@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-07-04T03:58:00+00:00",
+    "text": "Natasha Cloud passed Jackie Young for #54 all-time in three-pointers (career 347) \u2014 up from #55 entering today \u2014 (3:03 - 4th \u2014 CHI @ LV)",
+    "kind": "rank_pass",
+    "player": "Natasha Cloud",
+    "stat": "three-pointers",
+    "rank": 54,
+    "passed_players": [
+      "Jackie Young"
+    ],
+    "new_total": 347
+  },
+  {
     "ts": "2026-07-04T03:53:00+00:00",
     "text": "Kamilla Cardoso passed Brionna Jones for #102 all-time in blocks (career 126) \u2014 up from #103 entering today \u2014 (4:51 - 4th \u2014 CHI @ LV)",
     "kind": "rank_pass",
@@ -2979,17 +2991,5 @@
       "Ukari Figgs"
     ],
     "new_total": 471
-  },
-  {
-    "ts": "2026-06-27T01:27:00+00:00",
-    "text": "Courtney Vandersloot passed Monique Billings for #72 all-time in rebounds (career 1,386) \u2014 up from #74 entering today \u2014 (1:10 - 4th \u2014 POR @ CHI)",
-    "kind": "rank_pass",
-    "player": "Courtney Vandersloot",
-    "stat": "rebounds",
-    "rank": 72,
-    "passed_players": [
-      "Monique Billings"
-    ],
-    "new_total": 1386
   }
 ]
