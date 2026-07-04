@@ -2,6 +2,11 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-04 00:54 UTC
+
+- **Kayla McBride** passed **Sheri Sam** for **#62** all-time in turnovers (career 651) — up from #63 entering today — _1:25 - 3rd — MIN @ NY_
+- **Sabrina Ionescu** passed **Charde Houston** and **Tiffany Jackson** for **#182** all-time in steals (career 186) — up from #185 entering today — _1:25 - 3rd — MIN @ NY_
+
 ## 2026-07-04 00:49 UTC
 
 - **Nia Coffey** passed **Damiris Dantas** for **#199** all-time in turnovers (career 290) — up from #200 entering today — _3:44 - 3rd — MIN @ NY_
