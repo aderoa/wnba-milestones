@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-04 03:45 UTC_
+_Last updated: 2026-07-04 03:46 UTC_
 
 ## Contents
 
@@ -195,8 +195,8 @@ _Last updated: 2026-07-04 03:45 UTC_
 | 174 | Jessica Breland | 1,918 |
 | 175 | Nakia Sanford | 1,915 |
 | 176 | Ebony Hoffman | 1,909 |
-| 177 | Candice Wiggins | 1,901 |
-| 177 | **NaLyssa Smith** 🔴 +22 | 1,901 |
+| 177 | **NaLyssa Smith** 🔴 +24 | 1,903 |
+| 178 | Candice Wiggins | 1,901 |
 | 179 | Gabby Williams | 1,899 |
 | 180 | Rachel Banham | 1,843 |
 | 181 | Damiris Dantas | 1,842 |
@@ -314,8 +314,8 @@ _Last updated: 2026-07-04 03:45 UTC_
 | 88 | Betty Lennox | 1,296 |
 | 89 | Tari Phillips | 1,274 |
 | 90 | Myisha Hines-Allen | 1,265 |
+| 91 | **Chelsea Gray** 🔴 +4 | 1,261 |
 | 91 | Janel McCarville | 1,261 |
-| 92 | **Chelsea Gray** 🔴 +3 | 1,260 |
 | 93 | Liz Cambage | 1,258 |
 | 94 | Kayla McBride | 1,257 |
 | 94 | Tiffany Hayes | 1,257 |
@@ -356,7 +356,7 @@ _Last updated: 2026-07-04 03:45 UTC_
 | 130 | Cathrine Kraayeveld | 1,013 |
 | 131 | Kelly Miller | 1,011 |
 | 131 | Noelle Quinn | 1,011 |
-| 133 | **Skylar Diggins** 🔴 | 1,008 |
+| 133 | **Skylar Diggins** 🔴 +1 | 1,009 |
 | 134 | Damiris Dantas | 1,005 |
 | 135 | Tiffany Jackson | 1,002 |
 | 136 | Tianna Hawkins | 1,000 |
@@ -462,7 +462,7 @@ _Last updated: 2026-07-04 03:45 UTC_
 | 30 | Leilani Mitchell | 1,197 |
 | 31 | DeWanna Bonner | 1,196 |
 | 32 | **Jewell Loyd** 🔴 +3 | 1,159 |
-| 33 | **Jackie Young** 🔴 +4 | 1,154 |
+| 33 | **Jackie Young** 🔴 +5 | 1,155 |
 | 34 | Renee Montgomery | 1,140 |
 | 35 | Swin Cash | 1,131 |
 | 36 | Sabrina Ionescu | 1,098 |
@@ -737,7 +737,7 @@ _Last updated: 2026-07-04 03:45 UTC_
 | 100 | Katie Douglas | 126 |
 | 100 | Mistie Bass | 126 |
 | 102 | Brionna Jones | 125 |
-| 103 | **Kamilla Cardoso** 🔴 | 124 |
+| 102 | **Kamilla Cardoso** 🔴 +1 | 125 |
 | 104 | Natasha Mack | 123 |
 | 105 | Natalie Williams | 122 |
 | 106 | Ebony Hoffman | 121 |

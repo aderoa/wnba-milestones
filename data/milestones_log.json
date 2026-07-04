@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-07-04T03:46:00+00:00",
+    "text": "NaLyssa Smith passed Candice Wiggins for #177 all-time in points (career 1,903) \u2014 up from #179 entering today \u2014 (6:15 - 4th \u2014 CHI @ LV)",
+    "kind": "rank_pass",
+    "player": "NaLyssa Smith",
+    "stat": "points",
+    "rank": 177,
+    "passed_players": [
+      "Candice Wiggins"
+    ],
+    "new_total": 1903
+  },
+  {
     "ts": "2026-07-04T03:30:00+00:00",
     "text": "Cheyenne Parker-Tyus passed Allison Feaster and Kahleah Copper for #149 all-time in steals (career 220) \u2014 up from #151 entering today \u2014 (3:45 - 3rd \u2014 CHI @ LV)",
     "kind": "rank_pass",
@@ -2979,18 +2991,5 @@
       "Damiris Dantas"
     ],
     "new_total": 1831
-  },
-  {
-    "ts": "2026-06-27T01:16:00+00:00",
-    "text": "Azur\u00e1 Stevens passed Erin Thorn and Nneka Ogwumike for #90 all-time in three-pointers (career 244) \u2014 up from #93 entering today \u2014 (5:57 - 4th \u2014 POR @ CHI)",
-    "kind": "rank_pass",
-    "player": "Azur\u00e1 Stevens",
-    "stat": "three-pointers",
-    "rank": 90,
-    "passed_players": [
-      "Erin Thorn",
-      "Nneka Ogwumike"
-    ],
-    "new_total": 244
   }
 ]
