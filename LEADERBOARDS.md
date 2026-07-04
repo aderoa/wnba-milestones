@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-04 03:31 UTC_
+_Last updated: 2026-07-04 03:32 UTC_
 
 ## Contents
 
@@ -83,7 +83,7 @@ _Last updated: 2026-07-04 03:31 UTC_
 | 62 | Allie Quigley | 3,786 |
 | 63 | Chasity Melvin | 3,781 |
 | 64 | Brittney Sykes | 3,726 |
-| 65 | **Jackie Young** 🔴 +8 | 3,706 |
+| 65 | **Jackie Young** 🔴 +10 | 3,708 |
 | 66 | Kara Lawson | 3,670 |
 | 67 | Mwadi Mabika | 3,576 |
 | 68 | Odyssey Sims | 3,574 |
@@ -150,8 +150,8 @@ _Last updated: 2026-07-04 03:31 UTC_
 | 129 | Anna DeForge | 2,413 |
 | 130 | Kayla Thornton | 2,393 |
 | 131 | DeMya Walker | 2,379 |
-| 132 | Alex Bentley | 2,350 |
-| 132 | **Azurá Stevens** 🔴 +7 | 2,350 |
+| 132 | **Azurá Stevens** 🔴 +9 | 2,352 |
+| 133 | Alex Bentley | 2,350 |
 | 134 | Jordin Canada | 2,342 |
 | 135 | Merlakia Jones | 2,308 |
 | 136 | Betnijah Laney-Hamilton | 2,302 |
@@ -310,7 +310,7 @@ _Last updated: 2026-07-04 03:31 UTC_
 | 84 | Erlana Larkins | 1,329 |
 | 85 | Mwadi Mabika | 1,327 |
 | 86 | Jayne Appel Marinelli | 1,326 |
-| 87 | **Azurá Stevens** 🔴 | 1,319 |
+| 87 | **Azurá Stevens** 🔴 +1 | 1,320 |
 | 88 | Betty Lennox | 1,296 |
 | 89 | Tari Phillips | 1,274 |
 | 90 | Myisha Hines-Allen | 1,265 |
@@ -435,10 +435,10 @@ _Last updated: 2026-07-04 03:31 UTC_
 | 3 | Ticha Penicheiro | 2,588 |
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
-| 6 | **Chelsea Gray** 🔴 +2 | 2,005 |
+| 6 | **Chelsea Gray** 🔴 +3 | 2,006 |
 | 7 | Alyssa Thomas | 1,971 |
 | 8 | **Skylar Diggins** 🔴 +3 | 1,855 |
-| 9 | **Natasha Cloud** 🔴 +2 | 1,804 |
+| 9 | **Natasha Cloud** 🔴 +3 | 1,805 |
 | 10 | Becky Hammon | 1,705 |
 | 11 | Candace Parker | 1,634 |
 | 12 | Cappie Pondexter | 1,575 |
@@ -1564,7 +1564,7 @@ _Last updated: 2026-07-04 03:31 UTC_
 | 104 | Kiah Stokes | 651 |
 | 105 | Tari Phillips | 648 |
 | 106 | Marie Ferdinand-Harris | 646 |
-| 107 | **Chelsea Gray** 🔴 +1 | 641 |
+| 107 | **Chelsea Gray** 🔴 +2 | 642 |
 | 108 | Charlotte Smith | 638 |
 | 109 | Teaira McCowan | 637 |
 | 110 | Janell Burse | 632 |
