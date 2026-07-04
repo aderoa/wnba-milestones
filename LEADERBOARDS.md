@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-04 17:04 UTC_
+_Last updated: 2026-07-04 17:05 UTC_
 
 ## Contents
 
@@ -295,7 +295,7 @@ _Last updated: 2026-07-04 17:04 UTC_
 | 69 | Monique Billings | 1,431 |
 | 70 | Alana Beard | 1,420 |
 | 71 | Nakia Sanford | 1,419 |
-| 72 | **Kayla Thornton** 🔴 | 1,408 |
+| 72 | **Kayla Thornton** 🔴 +1 | 1,409 |
 | 73 | **Allisha Gray** 🔴 | 1,404 |
 | 74 | Kara Braxton | 1,387 |
 | 75 | Courtney Vandersloot | 1,386 |
@@ -538,7 +538,7 @@ _Last updated: 2026-07-04 17:04 UTC_
 | 106 | Betnijah Laney-Hamilton | 590 |
 | 106 | Camille Smith | 590 |
 | 108 | Armintie Herrington | 589 |
-| 109 | **Veronica Burton** 🔴 | 579 |
+| 109 | **Veronica Burton** 🔴 +1 | 580 |
 | 110 | Tan White | 578 |
 | 111 | Matee Ajavon | 577 |
 | 112 | Napheesa Collier | 570 |
@@ -1033,7 +1033,7 @@ _Last updated: 2026-07-04 17:04 UTC_
 | 187 | Monique Billings | 182 |
 | 189 | Nakia Sanford | 181 |
 | 190 | Diamond DeShields | 180 |
-| 191 | **Kiah Stokes** 🔴 | 178 |
+| 191 | **Kiah Stokes** 🔴 +1 | 179 |
 | 192 | Bridget Pettis | 177 |
 | 193 | Brittany Boyd-Jones | 176 |
 | 193 | Chiney Ogwumike | 176 |
@@ -1237,9 +1237,9 @@ _Last updated: 2026-07-04 17:04 UTC_
 | 187 | Gordana Grubin | 114 |
 | 187 | Rickea Jackson | 114 |
 | 187 | Sandy Brondello | 114 |
-| 190 | **Cecilia Zandalasini** 🔴 | 111 |
-| 190 | Janelle Salaun | 111 |
-| 190 | Shoni Schimmel | 111 |
+| 190 | **Cecilia Zandalasini** 🔴 +1 | 112 |
+| 191 | Janelle Salaun | 111 |
+| 191 | Shoni Schimmel | 111 |
 | 193 | Emma Meesseman | 109 |
 | 193 | Scholanda Dorrell | 109 |
 | 195 | Belinda Snell | 108 |
@@ -1370,7 +1370,7 @@ _Last updated: 2026-07-04 17:04 UTC_
 | 115 | Erika de Souza | 483 |
 | 116 | Sophia Young-Malcolm | 482 |
 | 117 | Natalie Williams | 480 |
-| 118 | **Allisha Gray** 🔴 | 476 |
+| 118 | **Allisha Gray** 🔴 +1 | 477 |
 | 119 | Ebony Hoffman | 470 |
 | 120 | Elaine Powell | 469 |
 | 121 | Allie Quigley | 467 |
