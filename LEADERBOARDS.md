@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-04 03:18 UTC_
+_Last updated: 2026-07-04 03:19 UTC_
 
 ## Contents
 
@@ -40,7 +40,7 @@ _Last updated: 2026-07-04 03:18 UTC_
 | 18 | Seimone Augustus | 6,005 |
 | 20 | Becky Hammon | 5,816 |
 | 21 | Angel McCoughtry | 5,797 |
-| 22 | **Skylar Diggins** 🔴 +8 | 5,740 |
+| 22 | **Skylar Diggins** 🔴 +10 | 5,742 |
 | 23 | Kayla McBride | 5,668 |
 | 24 | DeLisha Milton-Jones | 5,571 |
 | 25 | Katie Douglas | 5,545 |
@@ -197,7 +197,7 @@ _Last updated: 2026-07-04 03:18 UTC_
 | 176 | Ebony Hoffman | 1,909 |
 | 177 | Candice Wiggins | 1,901 |
 | 178 | Gabby Williams | 1,899 |
-| 179 | **NaLyssa Smith** 🔴 +15 | 1,894 |
+| 179 | **NaLyssa Smith** 🔴 +17 | 1,896 |
 | 180 | Rachel Banham | 1,843 |
 | 181 | Damiris Dantas | 1,842 |
 | 182 | Sophie Cunningham | 1,829 |
@@ -411,7 +411,7 @@ _Last updated: 2026-07-04 03:18 UTC_
 | 183 | Tan White | 769 |
 | 186 | Tully Bevilaqua | 767 |
 | 187 | Layshia Clarendon | 756 |
-| 188 | **Kamilla Cardoso** 🔴 +2 | 752 |
+| 188 | **Kamilla Cardoso** 🔴 +3 | 753 |
 | 189 | Brooke Wyckoff | 751 |
 | 190 | Coco Miller | 750 |
 | 191 | Kelsey Plum | 741 |
@@ -462,7 +462,7 @@ _Last updated: 2026-07-04 03:18 UTC_
 | 30 | Leilani Mitchell | 1,197 |
 | 31 | DeWanna Bonner | 1,196 |
 | 32 | **Jewell Loyd** 🔴 +3 | 1,159 |
-| 33 | **Jackie Young** 🔴 +2 | 1,152 |
+| 33 | **Jackie Young** 🔴 +3 | 1,153 |
 | 34 | Renee Montgomery | 1,140 |
 | 35 | Swin Cash | 1,131 |
 | 36 | Sabrina Ionescu | 1,098 |
