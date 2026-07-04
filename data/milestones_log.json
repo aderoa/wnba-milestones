@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-07-04T01:11:00+00:00",
+    "text": "Courtney Williams passed Stefanie Dolson for #81 all-time in three-pointers (career 279) \u2014 up from #82 entering today \u2014 (5:10 - 4th \u2014 MIN @ NY)",
+    "kind": "rank_pass",
+    "player": "Courtney Williams",
+    "stat": "three-pointers",
+    "rank": 81,
+    "passed_players": [
+      "Stefanie Dolson"
+    ],
+    "new_total": 279
+  },
+  {
     "ts": "2026-07-04T01:10:00+00:00",
     "text": "Courtney Williams passed Courtney Vandersloot for #48 all-time in points (career 4,363) \u2014 up from #50 entering today \u2014 (5:42 - 4th \u2014 MIN @ NY)",
     "kind": "rank_pass",
@@ -2976,18 +2988,5 @@
     "stat": "points",
     "value": 3100,
     "new_total": 3102
-  },
-  {
-    "ts": "2026-06-26T00:19:00+00:00",
-    "text": "Julie Allemand passed Jamierra Faulkner and Murriel Page for #162 all-time in assists (career 411) \u2014 up from #167 entering today \u2014 (6:55 - 3rd \u2014 LA @ TOR)",
-    "kind": "rank_pass",
-    "player": "Julie Allemand",
-    "stat": "assists",
-    "rank": 162,
-    "passed_players": [
-      "Jamierra Faulkner",
-      "Murriel Page"
-    ],
-    "new_total": 411
   }
 ]

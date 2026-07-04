@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-04 01:10 UTC_
+_Last updated: 2026-07-04 01:11 UTC_
 
 ## Contents
 
@@ -31,7 +31,7 @@ _Last updated: 2026-07-04 01:10 UTC_
 | 10 | Candace Parker | 6,574 |
 | 11 | Katie Smith | 6,450 |
 | 12 | Sylvia Fowles | 6,413 |
-| 13 | **Breanna Stewart** 🔴 +31 | 6,366 |
+| 13 | **Breanna Stewart** 🔴 +32 | 6,367 |
 | 14 | Lisa Leslie | 6,251 |
 | 15 | A'ja Wilson | 6,178 |
 | 16 | Jewell Loyd | 6,148 |
@@ -67,7 +67,7 @@ _Last updated: 2026-07-04 01:10 UTC_
 | 46 | Crystal Langhorne | 4,433 |
 | 46 | Jia Perkins | 4,433 |
 | 48 | **Jonquel Jones** 🔴 +14 | 4,367 |
-| 49 | **Courtney Williams** 🔴 +13 | 4,363 |
+| 49 | **Courtney Williams** 🔴 +16 | 4,366 |
 | 50 | Courtney Vandersloot | 4,362 |
 | 51 | Dearica Hamby | 4,330 |
 | 52 | Sophia Young-Malcolm | 4,300 |
@@ -1128,8 +1128,8 @@ _Last updated: 2026-07-04 01:10 UTC_
 | 77 | Tully Bevilaqua | 290 |
 | 79 | Alana Beard | 288 |
 | 80 | Monique Currie | 284 |
-| 81 | **Courtney Williams** 🔴 +1 | 278 |
-| 81 | Stefanie Dolson | 278 |
+| 81 | **Courtney Williams** 🔴 +2 | 279 |
+| 82 | Stefanie Dolson | 278 |
 | 83 | Iziane Castro Marques | 275 |
 | 84 | Sheryl Swoopes | 270 |
 | 85 | Sophia Witherspoon | 260 |
