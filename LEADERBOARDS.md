@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-04 00:44 UTC_
+_Last updated: 2026-07-04 00:45 UTC_
 
 ## Contents
 
@@ -31,7 +31,7 @@ _Last updated: 2026-07-04 00:44 UTC_
 | 10 | Candace Parker | 6,574 |
 | 11 | Katie Smith | 6,450 |
 | 12 | Sylvia Fowles | 6,413 |
-| 13 | **Breanna Stewart** 🔴 +23 | 6,358 |
+| 13 | **Breanna Stewart** 🔴 +25 | 6,360 |
 | 14 | Lisa Leslie | 6,251 |
 | 15 | A'ja Wilson | 6,178 |
 | 16 | Jewell Loyd | 6,148 |
@@ -110,7 +110,7 @@ _Last updated: 2026-07-04 00:44 UTC_
 | 89 | Erica Wheeler | 3,195 |
 | 90 | Danielle Robinson | 3,160 |
 | 91 | Wendy Palmer | 3,135 |
-| 92 | **Sabrina Ionescu** 🔴 +11 | 3,108 |
+| 92 | **Sabrina Ionescu** 🔴 +13 | 3,110 |
 | 93 | Shavonte Zellous | 3,103 |
 | 94 | Briann January | 3,082 |
 | 95 | Erika de Souza | 3,046 |
@@ -236,9 +236,9 @@ _Last updated: 2026-07-04 00:44 UTC_
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | Alyssa Thomas | 2,858 |
-| 13 | **Jonquel Jones** 🔴 +10 | 2,738 |
+| 13 | **Jonquel Jones** 🔴 +12 | 2,740 |
 | 14 | A'ja Wilson | 2,657 |
-| 15 | **Breanna Stewart** 🔴 +5 | 2,637 |
+| 15 | **Breanna Stewart** 🔴 +4 | 2,636 |
 | 16 | Sancho Lyttle | 2,596 |
 | 17 | Brittney Griner | 2,579 |
 | 18 | DeLisha Milton-Jones | 2,574 |
@@ -1314,11 +1314,11 @@ _Last updated: 2026-07-04 00:44 UTC_
 | 59 | Chasity Melvin | 666 |
 | 60 | Vickie Johnson | 660 |
 | 61 | Yolanda Griffith | 653 |
+| 62 | **Kayla McBride** 🔴 +2 | 650 |
 | 62 | Sheri Sam | 650 |
-| 63 | **Kayla McBride** 🔴 +1 | 649 |
 | 64 | Kelsey Plum | 648 |
 | 65 | Dawn Staley | 643 |
-| 66 | **Jonquel Jones** 🔴 +1 | 642 |
+| 65 | **Jonquel Jones** 🔴 +2 | 643 |
 | 67 | Ruth Riley | 637 |
 | 68 | Odyssey Sims | 631 |
 | 68 | Svetlana Abrosimova | 631 |
