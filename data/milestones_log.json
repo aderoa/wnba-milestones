@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-07-04T19:10:00+00:00",
+    "text": "Veronica Burton passed Kennedy Burke and Lexie Hull for #175 all-time in three-pointers (career 126) \u2014 up from #178 entering today \u2014 (4:20 - 4th \u2014 GS @ ATL)",
+    "kind": "rank_pass",
+    "player": "Veronica Burton",
+    "stat": "three-pointers",
+    "rank": 175,
+    "passed_players": [
+      "Kennedy Burke",
+      "Lexie Hull"
+    ],
+    "new_total": 126
+  },
+  {
     "ts": "2026-07-04T19:00:00+00:00",
     "text": "Allisha Gray passed Kayla Thornton for #72 all-time in rebounds (career 1,409) \u2014 up from #73 entering today \u2014 (6:44 - 4th \u2014 GS @ ATL)",
     "kind": "rank_pass",
@@ -2973,18 +2986,5 @@
       "Charlotte Smith"
     ],
     "new_total": 338
-  },
-  {
-    "ts": "2026-06-27T12:06:00+00:00",
-    "text": "Kiah Stokes passed DeWanna Bonner and Ezi Magbegor for #22 all-time in blocks (career 359) \u2014 up from #24 entering today \u2014 (Final \u2014 ATL @ GS)",
-    "kind": "rank_pass",
-    "player": "Kiah Stokes",
-    "stat": "blocks",
-    "rank": 22,
-    "passed_players": [
-      "DeWanna Bonner",
-      "Ezi Magbegor"
-    ],
-    "new_total": 359
   }
 ]

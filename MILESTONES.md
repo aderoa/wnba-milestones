@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-04 19:10 UTC
+
+- **Veronica Burton** passed **Kennedy Burke** and **Lexie Hull** for **#175** all-time in three-pointers (career 126) — up from #178 entering today — _4:20 - 4th — GS @ ATL_
+
 ## 2026-07-04 19:00 UTC
 
 - **Allisha Gray** passed **Kayla Thornton** for **#72** all-time in rebounds (career 1,409) — up from #73 entering today — _6:44 - 4th — GS @ ATL_
