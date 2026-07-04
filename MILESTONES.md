@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-04 01:10 UTC
+
+- **Courtney Williams** passed **Courtney Vandersloot** for **#48** all-time in points (career 4,363) — up from #50 entering today — _5:42 - 4th — MIN @ NY_
+
 ## 2026-07-04 01:04 UTC
 
 - **Jonquel Jones** passed **Betty Lennox** and **Plenette Pierson** for **#92** all-time in assists (career 652) — up from #94 entering today — _7:41 - 4th — MIN @ NY_

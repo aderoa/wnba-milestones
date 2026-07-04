@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-07-04T01:10:00+00:00",
+    "text": "Courtney Williams passed Courtney Vandersloot for #48 all-time in points (career 4,363) \u2014 up from #50 entering today \u2014 (5:42 - 4th \u2014 MIN @ NY)",
+    "kind": "rank_pass",
+    "player": "Courtney Williams",
+    "stat": "points",
+    "rank": 48,
+    "passed_players": [
+      "Courtney Vandersloot"
+    ],
+    "new_total": 4363
+  },
+  {
     "ts": "2026-07-04T01:04:00+00:00",
     "text": "Jonquel Jones passed Betty Lennox and Plenette Pierson for #92 all-time in assists (career 652) \u2014 up from #94 entering today \u2014 (7:41 - 4th \u2014 MIN @ NY)",
     "kind": "rank_pass",
@@ -2977,18 +2989,5 @@
       "Murriel Page"
     ],
     "new_total": 411
-  },
-  {
-    "ts": "2026-06-25T02:51:00+00:00",
-    "text": "Kayla Thornton passed Candice Wiggins and Tully Bevilaqua for #75 all-time in three-pointers (career 291) \u2014 up from #78 entering today \u2014 (1:39 - 2nd \u2014 ATL @ GS)",
-    "kind": "rank_pass",
-    "player": "Kayla Thornton",
-    "stat": "three-pointers",
-    "rank": 75,
-    "passed_players": [
-      "Candice Wiggins",
-      "Tully Bevilaqua"
-    ],
-    "new_total": 291
   }
 ]

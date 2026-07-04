@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-04 01:09 UTC_
+_Last updated: 2026-07-04 01:10 UTC_
 
 ## Contents
 
@@ -31,7 +31,7 @@ _Last updated: 2026-07-04 01:09 UTC_
 | 10 | Candace Parker | 6,574 |
 | 11 | Katie Smith | 6,450 |
 | 12 | Sylvia Fowles | 6,413 |
-| 13 | **Breanna Stewart** 🔴 +29 | 6,364 |
+| 13 | **Breanna Stewart** 🔴 +31 | 6,366 |
 | 14 | Lisa Leslie | 6,251 |
 | 15 | A'ja Wilson | 6,178 |
 | 16 | Jewell Loyd | 6,148 |
@@ -41,7 +41,7 @@ _Last updated: 2026-07-04 01:09 UTC_
 | 20 | Becky Hammon | 5,816 |
 | 21 | Angel McCoughtry | 5,797 |
 | 22 | Skylar Diggins | 5,732 |
-| 23 | **Kayla McBride** 🔴 +13 | 5,663 |
+| 23 | **Kayla McBride** 🔴 +16 | 5,666 |
 | 24 | DeLisha Milton-Jones | 5,571 |
 | 25 | Katie Douglas | 5,545 |
 | 26 | Lindsay Whalen | 5,511 |
@@ -67,8 +67,8 @@ _Last updated: 2026-07-04 01:09 UTC_
 | 46 | Crystal Langhorne | 4,433 |
 | 46 | Jia Perkins | 4,433 |
 | 48 | **Jonquel Jones** 🔴 +14 | 4,367 |
-| 49 | Courtney Vandersloot | 4,362 |
-| 50 | **Courtney Williams** 🔴 +11 | 4,361 |
+| 49 | **Courtney Williams** 🔴 +13 | 4,363 |
+| 50 | Courtney Vandersloot | 4,362 |
 | 51 | Dearica Hamby | 4,330 |
 | 52 | Sophia Young-Malcolm | 4,300 |
 | 53 | Plenette Pierson | 4,258 |
@@ -1052,7 +1052,7 @@ _Last updated: 2026-07-04 01:09 UTC_
 | 2 | Sue Bird | 1,001 |
 | 3 | Katie Smith | 906 |
 | 4 | Becky Hammon | 825 |
-| 5 | **Kayla McBride** 🔴 +3 | 759 |
+| 5 | **Kayla McBride** 🔴 +4 | 760 |
 | 6 | Tina Thompson | 745 |
 | 7 | Katie Douglas | 723 |
 | 8 | Kelsey Mitchell | 712 |
