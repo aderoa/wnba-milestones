@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-04 03:18 UTC
+
+- **Jackie Young** passed **Ariel Atkins** for **#122** all-time in turnovers (career 466) — up from #123 entering today — _8:14 - 3rd — CHI @ LV_
+
 ## 2026-07-04 02:44 UTC
 
 - **Chelsea Gray** passed **Jewell Loyd** for **#31** all-time in steals (career 459) — up from #32 entering today — _5:27 - 2nd — CHI @ LV_

@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-07-04T03:18:00+00:00",
+    "text": "Jackie Young passed Ariel Atkins for #122 all-time in turnovers (career 466) \u2014 up from #123 entering today \u2014 (8:14 - 3rd \u2014 CHI @ LV)",
+    "kind": "rank_pass",
+    "player": "Jackie Young",
+    "stat": "turnovers",
+    "rank": 122,
+    "passed_players": [
+      "Ariel Atkins"
+    ],
+    "new_total": 466
+  },
+  {
     "ts": "2026-07-04T02:44:00+00:00",
     "text": "Chelsea Gray passed Jewell Loyd for #31 all-time in steals (career 459) \u2014 up from #32 entering today \u2014 (5:27 - 2nd \u2014 CHI @ LV)",
     "kind": "rank_pass",
@@ -2983,17 +2995,5 @@
       "Kristen Rasmussen"
     ],
     "new_total": 128
-  },
-  {
-    "ts": "2026-06-26T23:47:00+00:00",
-    "text": "Courtney Vandersloot passed Katie Smith for #75 all-time in rebounds (career 1,384) \u2014 (3:43 - 1st \u2014 POR @ CHI)",
-    "kind": "rank_pass",
-    "player": "Courtney Vandersloot",
-    "stat": "rebounds",
-    "rank": 75,
-    "passed_players": [
-      "Katie Smith"
-    ],
-    "new_total": 1384
   }
 ]
