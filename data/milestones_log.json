@@ -1,5 +1,14 @@
 [
   {
+    "ts": "2026-07-04T04:18:00+00:00",
+    "text": "Kamilla Cardoso reached 200 career assists (now 200) \u2014 (1:08 - OT \u2014 CHI @ LV)",
+    "kind": "round",
+    "player": "Kamilla Cardoso",
+    "stat": "assists",
+    "value": 200,
+    "new_total": 200
+  },
+  {
     "ts": "2026-07-04T04:13:00+00:00",
     "text": "Natasha Cloud passed Shannon Johnson for #109 all-time in rebounds (career 1,144) \u2014 up from #110 entering today \u2014 (3:19 - OT \u2014 CHI @ LV)",
     "kind": "rank_pass",
@@ -2979,17 +2988,5 @@
       "Allison Feaster"
     ],
     "new_total": 2260
-  },
-  {
-    "ts": "2026-06-27T03:37:00+00:00",
-    "text": "Jordin Canada passed Sidney Spencer for #175 all-time in three-pointers (career 123) \u2014 up from #176 entering today \u2014 (18.2 - 3rd \u2014 ATL @ GS)",
-    "kind": "rank_pass",
-    "player": "Jordin Canada",
-    "stat": "three-pointers",
-    "rank": 175,
-    "passed_players": [
-      "Sidney Spencer"
-    ],
-    "new_total": 123
   }
 ]

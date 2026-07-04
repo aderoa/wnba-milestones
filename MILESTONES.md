@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-04 04:18 UTC
+
+- **Kamilla Cardoso** reached **200** career assists (now 200) — _1:08 - OT — CHI @ LV_
+
 ## 2026-07-04 04:13 UTC
 
 - **Natasha Cloud** passed **Shannon Johnson** for **#109** all-time in rebounds (career 1,144) — up from #110 entering today — _3:19 - OT — CHI @ LV_
