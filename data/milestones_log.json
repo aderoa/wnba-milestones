@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-07-04T01:21:00+00:00",
+    "text": "Leonie Fiebich passed Myisha Hines-Allen for #166 all-time in three-pointers (career 132) \u2014 up from #170 entering today \u2014 (25.7 - 4th \u2014 MIN @ NY)",
+    "kind": "rank_pass",
+    "player": "Leonie Fiebich",
+    "stat": "three-pointers",
+    "rank": 166,
+    "passed_players": [
+      "Myisha Hines-Allen"
+    ],
+    "new_total": 132
+  },
+  {
     "ts": "2026-07-04T01:19:00+00:00",
     "text": "Courtney Williams passed Emma Meesseman for #127 all-time in fouls (career 586) \u2014 up from #128 entering today \u2014 (1:52 - 4th \u2014 MIN @ NY)",
     "kind": "rank_pass",
@@ -2979,17 +2991,5 @@
       "Shavonte Zellous"
     ],
     "new_total": 3105
-  },
-  {
-    "ts": "2026-06-26T00:57:00+00:00",
-    "text": "Julie Allemand passed Erin Thorn for #161 all-time in assists (career 415) \u2014 up from #167 entering today \u2014 (2:42 - 4th \u2014 LA @ TOR)",
-    "kind": "rank_pass",
-    "player": "Julie Allemand",
-    "stat": "assists",
-    "rank": 161,
-    "passed_players": [
-      "Erin Thorn"
-    ],
-    "new_total": 415
   }
 ]

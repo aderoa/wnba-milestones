@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-04 01:20 UTC_
+_Last updated: 2026-07-04 01:21 UTC_
 
 ## Contents
 
@@ -1213,8 +1213,8 @@ _Last updated: 2026-07-04 01:20 UTC_
 | 163 | Shay Murphy | 134 |
 | 164 | Brooke Wyckoff | 132 |
 | 164 | Jenna O'Hea | 132 |
-| 166 | **Leonie Fiebich** 🔴 +2 | 131 |
-| 166 | Myisha Hines-Allen | 131 |
+| 164 | **Leonie Fiebich** 🔴 +3 | 132 |
+| 167 | Myisha Hines-Allen | 131 |
 | 168 | Amanda Zahui B | 130 |
 | 168 | Eva Nemcova | 130 |
 | 170 | Crystal Dangerfield | 129 |
