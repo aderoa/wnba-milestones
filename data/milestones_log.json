@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-07-04T17:37:00+00:00",
+    "text": "Gabby Williams passed Matee Ajavon for #85 all-time in steals (career 329) \u2014 up from #86 entering today \u2014 (6:28 - 2nd \u2014 GS @ ATL)",
+    "kind": "rank_pass",
+    "player": "Gabby Williams",
+    "stat": "steals",
+    "rank": 85,
+    "passed_players": [
+      "Matee Ajavon"
+    ],
+    "new_total": 329
+  },
+  {
     "ts": "2026-07-04T17:06:00+00:00",
     "text": "Kayla Thornton passed Damiris Dantas for #183 all-time in assists (career 369) \u2014 up from #184 entering today \u2014 (7:54 - 1st \u2014 GS @ ATL)",
     "kind": "rank_pass",
@@ -2975,17 +2987,5 @@
       "Natasha Cloud"
     ],
     "new_total": 90
-  },
-  {
-    "ts": "2026-06-27T12:06:00+00:00",
-    "text": "Tiffany Hayes passed Kahleah Copper for #70 all-time in turnovers (career 629) \u2014 up from #71 entering today \u2014 (Final \u2014 ATL @ GS)",
-    "kind": "rank_pass",
-    "player": "Tiffany Hayes",
-    "stat": "turnovers",
-    "rank": 70,
-    "passed_players": [
-      "Kahleah Copper"
-    ],
-    "new_total": 629
   }
 ]
