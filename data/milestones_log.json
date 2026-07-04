@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-07-04T03:53:00+00:00",
+    "text": "Kamilla Cardoso passed Brionna Jones for #102 all-time in blocks (career 126) \u2014 up from #103 entering today \u2014 (4:51 - 4th \u2014 CHI @ LV)",
+    "kind": "rank_pass",
+    "player": "Kamilla Cardoso",
+    "stat": "blocks",
+    "rank": 102,
+    "passed_players": [
+      "Brionna Jones"
+    ],
+    "new_total": 126
+  },
+  {
     "ts": "2026-07-04T03:46:00+00:00",
     "text": "NaLyssa Smith passed Candice Wiggins for #177 all-time in points (career 1,903) \u2014 up from #179 entering today \u2014 (6:15 - 4th \u2014 CHI @ LV)",
     "kind": "rank_pass",
@@ -2979,17 +2991,5 @@
       "Monique Billings"
     ],
     "new_total": 1386
-  },
-  {
-    "ts": "2026-06-27T01:27:00+00:00",
-    "text": "Rachel Banham passed Damiris Dantas for #178 all-time in points (career 1,831) \u2014 up from #181 entering today \u2014 (1:10 - 4th \u2014 POR @ CHI)",
-    "kind": "rank_pass",
-    "player": "Rachel Banham",
-    "stat": "points",
-    "rank": 178,
-    "passed_players": [
-      "Damiris Dantas"
-    ],
-    "new_total": 1831
   }
 ]

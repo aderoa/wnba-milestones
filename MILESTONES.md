@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-04 03:53 UTC
+
+- **Kamilla Cardoso** passed **Brionna Jones** for **#102** all-time in blocks (career 126) — up from #103 entering today — _4:51 - 4th — CHI @ LV_
+
 ## 2026-07-04 03:46 UTC
 
 - **NaLyssa Smith** passed **Candice Wiggins** for **#177** all-time in points (career 1,903) — up from #179 entering today — _6:15 - 4th — CHI @ LV_
