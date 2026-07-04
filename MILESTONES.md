@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-04 02:06 UTC
+
+- **Jackie Young** passed **Cappie Pondexter**, **Christi Thomas**, **Olympia Scott**, and **Sue Bird** for **#185** all-time in blocks (career 73) — up from #187 entering today — _9:21 - 1st — CHI @ LV_
+
 ## 2026-07-04 01:21 UTC
 
 - **Leonie Fiebich** passed **Myisha Hines-Allen** for **#166** all-time in three-pointers (career 132) — up from #170 entering today — _25.7 - 4th — MIN @ NY_

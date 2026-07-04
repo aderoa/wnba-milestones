@@ -1,5 +1,20 @@
 [
   {
+    "ts": "2026-07-04T02:06:00+00:00",
+    "text": "Jackie Young passed Cappie Pondexter, Christi Thomas, Olympia Scott, and Sue Bird for #185 all-time in blocks (career 73) \u2014 up from #187 entering today \u2014 (9:21 - 1st \u2014 CHI @ LV)",
+    "kind": "rank_pass",
+    "player": "Jackie Young",
+    "stat": "blocks",
+    "rank": 185,
+    "passed_players": [
+      "Cappie Pondexter",
+      "Christi Thomas",
+      "Olympia Scott",
+      "Sue Bird"
+    ],
+    "new_total": 73
+  },
+  {
     "ts": "2026-07-04T01:21:00+00:00",
     "text": "Leonie Fiebich passed Myisha Hines-Allen for #166 all-time in three-pointers (career 132) \u2014 up from #170 entering today \u2014 (25.7 - 4th \u2014 MIN @ NY)",
     "kind": "rank_pass",
@@ -2979,17 +2994,5 @@
       "Dearica Hamby"
     ],
     "new_total": 4246
-  },
-  {
-    "ts": "2026-06-26T00:57:00+00:00",
-    "text": "Marina Mabrey passed Shavonte Zellous for #91 all-time in points (career 3,105) \u2014 up from #93 entering today \u2014 (2:42 - 4th \u2014 LA @ TOR)",
-    "kind": "rank_pass",
-    "player": "Marina Mabrey",
-    "stat": "points",
-    "rank": 91,
-    "passed_players": [
-      "Shavonte Zellous"
-    ],
-    "new_total": 3105
   }
 ]
