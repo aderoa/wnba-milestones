@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-04 02:17 UTC_
+_Last updated: 2026-07-04 02:18 UTC_
 
 ## Contents
 
@@ -57,7 +57,7 @@ _Last updated: 2026-07-04 02:17 UTC_
 | 36 | Arike Ogunbowale | 4,715 |
 | 37 | Chamique Holdsclaw | 4,713 |
 | 38 | Elena Delle Donne | 4,706 |
-| 39 | Natasha Howard | 4,687 |
+| 39 | Natasha Howard | 4,689 |
 | 40 | **Chelsea Gray** 🔴 +2 | 4,627 |
 | 41 | Penny Taylor | 4,595 |
 | 42 | Kelsey Plum | 4,494 |
@@ -131,7 +131,7 @@ _Last updated: 2026-07-04 02:17 UTC_
 | 110 | Riquna Williams | 2,659 |
 | 111 | Essence Carson | 2,647 |
 | 111 | Lindsey Harding | 2,647 |
-| 113 | Cheyenne Parker-Tyus | 2,645 |
+| 113 | **Cheyenne Parker-Tyus** 🔴 | 2,645 |
 | 114 | Tamera Young | 2,641 |
 | 115 | Rhyne Howard | 2,637 |
 | 116 | Liz Cambage | 2,634 |
@@ -197,7 +197,7 @@ _Last updated: 2026-07-04 02:17 UTC_
 | 176 | Ebony Hoffman | 1,909 |
 | 177 | Candice Wiggins | 1,901 |
 | 178 | Gabby Williams | 1,899 |
-| 179 | **NaLyssa Smith** 🔴 +6 | 1,885 |
+| 179 | **NaLyssa Smith** 🔴 +7 | 1,886 |
 | 180 | Rachel Banham | 1,843 |
 | 181 | Damiris Dantas | 1,842 |
 | 182 | Sophie Cunningham | 1,829 |
@@ -249,7 +249,7 @@ _Last updated: 2026-07-04 02:17 UTC_
 | 23 | Lauren Jackson | 2,444 |
 | 24 | Yolanda Griffith | 2,440 |
 | 25 | Tangela Smith | 2,328 |
-| 26 | Natasha Howard | 2,318 |
+| 26 | Natasha Howard | 2,321 |
 | 27 | Erika de Souza | 2,220 |
 | 28 | Diana Taurasi | 2,201 |
 | 29 | Margo Dydek | 2,138 |
@@ -289,7 +289,7 @@ _Last updated: 2026-07-04 02:17 UTC_
 | 63 | Ticha Penicheiro | 1,485 |
 | 64 | Alysha Clark | 1,469 |
 | 65 | Sue Bird | 1,466 |
-| 66 | Cheyenne Parker-Tyus | 1,463 |
+| 66 | **Cheyenne Parker-Tyus** 🔴 | 1,463 |
 | 67 | Nicole Powell | 1,457 |
 | 68 | Tamera Young | 1,433 |
 | 69 | Monique Billings | 1,431 |
@@ -529,7 +529,7 @@ _Last updated: 2026-07-04 02:17 UTC_
 | 97 | Jennifer Azzi | 636 |
 | 98 | Sami Whitcomb | 623 |
 | 99 | Alysha Clark | 619 |
-| 100 | Natasha Howard | 616 |
+| 100 | Natasha Howard | 617 |
 | 101 | Debbie Black | 612 |
 | 102 | Cynthia Cooper | 602 |
 | 103 | Sancho Lyttle | 592 |
@@ -670,7 +670,7 @@ _Last updated: 2026-07-04 02:17 UTC_
 | 33 | Rebekkah Brunson | 281 |
 | 34 | Nneka Ogwumike | 266 |
 | 35 | Liz Cambage | 264 |
-| 36 | Cheyenne Parker-Tyus | 261 |
+| 36 | **Cheyenne Parker-Tyus** 🔴 | 261 |
 | 37 | Swin Cash | 258 |
 | 38 | Plenette Pierson | 242 |
 | 39 | Napheesa Collier | 239 |
@@ -697,8 +697,8 @@ _Last updated: 2026-07-04 02:17 UTC_
 | 60 | Kelly Schumacher | 183 |
 | 61 | Maria Stepanova | 182 |
 | 62 | Courtney Paris | 178 |
-| 63 | Nia Coffey | 177 |
-| 63 | Vanessa Hayden | 177 |
+| 62 | Nia Coffey | 178 |
+| 64 | Vanessa Hayden | 177 |
 | 65 | Maya Moore | 176 |
 | 66 | Kia Vaughn | 175 |
 | 67 | Amanda Zahui B | 171 |
@@ -993,7 +993,7 @@ _Last updated: 2026-07-04 02:17 UTC_
 | 147 | Jennifer Gillom | 220 |
 | 149 | Allison Feaster | 219 |
 | 149 | Kahleah Copper | 219 |
-| 151 | Cheyenne Parker-Tyus | 217 |
+| 151 | **Cheyenne Parker-Tyus** 🔴 | 217 |
 | 151 | Shenise Johnson | 217 |
 | 153 | Adrian Williams-Strong | 216 |
 | 153 | Moriah Jefferson | 216 |
@@ -1382,7 +1382,7 @@ _Last updated: 2026-07-04 02:17 UTC_
 | 127 | Elena Baranova | 444 |
 | 127 | Jantel Lavender | 444 |
 | 129 | Alysha Clark | 443 |
-| 130 | Cheyenne Parker-Tyus | 441 |
+| 130 | **Cheyenne Parker-Tyus** 🔴 | 441 |
 | 131 | Ann Wauters | 440 |
 | 132 | Tiffany Mitchell | 439 |
 | 133 | Kedra Holland-Corn | 438 |
@@ -1451,8 +1451,8 @@ _Last updated: 2026-07-04 02:17 UTC_
 | 196 | Crystal Robinson | 299 |
 | 197 | Kayla Thornton | 298 |
 | 198 | Michele Timms | 297 |
-| 199 | Damiris Dantas | 289 |
-| 199 | Nia Coffey | 289 |
+| 199 | Nia Coffey | 290 |
+| 200 | Damiris Dantas | 289 |
 
 ## Personal fouls
 
@@ -1469,8 +1469,8 @@ _Last updated: 2026-07-04 02:17 UTC_
 | 9 | Tammy Sutton-Brown | 1,193 |
 | 10 | Plenette Pierson | 1,175 |
 | 11 | Chasity Melvin | 1,165 |
-| 12 | Camille Smith | 1,159 |
-| 13 | Natasha Howard | 1,158 |
+| 12 | Natasha Howard | 1,162 |
+| 13 | Camille Smith | 1,159 |
 | 14 | Nneka Ogwumike | 1,156 |
 | 15 | Alana Beard | 1,153 |
 | 16 | Swin Cash | 1,146 |
@@ -1550,7 +1550,7 @@ _Last updated: 2026-07-04 02:17 UTC_
 | 90 | Sophia Young-Malcolm | 687 |
 | 91 | Breanna Stewart | 686 |
 | 91 | Maya Moore | 686 |
-| 93 | Cheyenne Parker-Tyus | 685 |
+| 93 | **Cheyenne Parker-Tyus** 🔴 | 685 |
 | 93 | Jasmine Thomas | 685 |
 | 95 | **Jewell Loyd** 🔴 | 684 |
 | 95 | Leilani Mitchell | 684 |
