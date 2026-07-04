@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-07-04T18:36:00+00:00",
+    "text": "Gabby Williams passed Alanna Smith for #142 all-time in three-pointers (career 157) \u2014 up from #144 entering today \u2014 (2:44 - 3rd \u2014 GS @ ATL)",
+    "kind": "rank_pass",
+    "player": "Gabby Williams",
+    "stat": "three-pointers",
+    "rank": 142,
+    "passed_players": [
+      "Alanna Smith"
+    ],
+    "new_total": 157
+  },
+  {
     "ts": "2026-07-04T17:42:00+00:00",
     "text": "Kayla Thornton passed Natalie Williams and Nicky Anosike for #111 all-time in steals (career 271) \u2014 (4:04 - 2nd \u2014 GS @ ATL)",
     "kind": "rank_pass",
@@ -2976,17 +2988,5 @@
       "Chelsea Gray"
     ],
     "new_total": 1259
-  },
-  {
-    "ts": "2026-06-27T12:06:00+00:00",
-    "text": "Tiffany Hayes passed Tamecka Dixon for #47 all-time in assists (career 962) \u2014 up from #48 entering today \u2014 (Final \u2014 ATL @ GS)",
-    "kind": "rank_pass",
-    "player": "Tiffany Hayes",
-    "stat": "assists",
-    "rank": 47,
-    "passed_players": [
-      "Tamecka Dixon"
-    ],
-    "new_total": 962
   }
 ]

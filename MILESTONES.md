@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-04 18:36 UTC
+
+- **Gabby Williams** passed **Alanna Smith** for **#142** all-time in three-pointers (career 157) — up from #144 entering today — _2:44 - 3rd — GS @ ATL_
+
 ## 2026-07-04 17:42 UTC
 
 - **Kayla Thornton** passed **Natalie Williams** and **Nicky Anosike** for **#111** all-time in steals (career 271) — _4:04 - 2nd — GS @ ATL_
