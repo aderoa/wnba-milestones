@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-07-04T17:42:00+00:00",
+    "text": "Kayla Thornton passed Natalie Williams and Nicky Anosike for #111 all-time in steals (career 271) \u2014 (4:04 - 2nd \u2014 GS @ ATL)",
+    "kind": "rank_pass",
+    "player": "Kayla Thornton",
+    "stat": "steals",
+    "rank": 111,
+    "passed_players": [
+      "Natalie Williams",
+      "Nicky Anosike"
+    ],
+    "new_total": 271
+  },
+  {
     "ts": "2026-07-04T17:37:00+00:00",
     "text": "Gabby Williams passed Matee Ajavon for #85 all-time in steals (career 329) \u2014 up from #86 entering today \u2014 (6:28 - 2nd \u2014 GS @ ATL)",
     "kind": "rank_pass",
@@ -2975,17 +2988,5 @@
       "Tamecka Dixon"
     ],
     "new_total": 962
-  },
-  {
-    "ts": "2026-06-27T12:06:00+00:00",
-    "text": "Tiffany Hayes passed Natasha Cloud for #147 all-time in blocks (career 90) \u2014 up from #148 entering today \u2014 (Final \u2014 ATL @ GS)",
-    "kind": "rank_pass",
-    "player": "Tiffany Hayes",
-    "stat": "blocks",
-    "rank": 147,
-    "passed_players": [
-      "Natasha Cloud"
-    ],
-    "new_total": 90
   }
 ]

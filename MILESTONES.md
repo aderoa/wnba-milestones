@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-04 17:42 UTC
+
+- **Kayla Thornton** passed **Natalie Williams** and **Nicky Anosike** for **#111** all-time in steals (career 271) — _4:04 - 2nd — GS @ ATL_
+
 ## 2026-07-04 17:37 UTC
 
 - **Gabby Williams** passed **Matee Ajavon** for **#85** all-time in steals (career 329) — up from #86 entering today — _6:28 - 2nd — GS @ ATL_
