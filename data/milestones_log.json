@@ -1,5 +1,29 @@
 [
   {
+    "ts": "2026-07-04T00:49:00+00:00",
+    "text": "Nia Coffey passed Damiris Dantas for #199 all-time in turnovers (career 290) \u2014 up from #200 entering today \u2014 (3:44 - 3rd \u2014 MIN @ NY)",
+    "kind": "rank_pass",
+    "player": "Nia Coffey",
+    "stat": "turnovers",
+    "rank": 199,
+    "passed_players": [
+      "Damiris Dantas"
+    ],
+    "new_total": 290
+  },
+  {
+    "ts": "2026-07-04T00:49:00+00:00",
+    "text": "Jonquel Jones passed Karima Christmas-Kelly for #118 all-time in steals (career 262) \u2014 up from #119 entering today \u2014 (3:44 - 3rd \u2014 MIN @ NY)",
+    "kind": "rank_pass",
+    "player": "Jonquel Jones",
+    "stat": "steals",
+    "rank": 118,
+    "passed_players": [
+      "Karima Christmas-Kelly"
+    ],
+    "new_total": 262
+  },
+  {
     "ts": "2026-07-04T00:20:00+00:00",
     "text": "Sabrina Ionescu passed Crystal Robinson and Gabby Williams for #199 all-time in blocks (career 66) \u2014 new to top 200 today \u2014 (0.0 - 2nd \u2014 MIN @ NY)",
     "kind": "rank_pass",
@@ -2966,31 +2990,5 @@
       "Tianna Hawkins"
     ],
     "new_total": 76
-  },
-  {
-    "ts": "2026-06-25T00:46:00+00:00",
-    "text": "Shakira Austin passed Anna DeForge, Kelsey Bone, and Tan White for #181 all-time in rebounds (career 770) \u2014 up from #185 entering today \u2014 (4:36 - 3rd \u2014 MIN @ WSH)",
-    "kind": "rank_pass",
-    "player": "Shakira Austin",
-    "stat": "rebounds",
-    "rank": 181,
-    "passed_players": [
-      "Anna DeForge",
-      "Kelsey Bone",
-      "Tan White"
-    ],
-    "new_total": 770
-  },
-  {
-    "ts": "2026-06-24T04:01:00+00:00",
-    "text": "Cheyenne Parker-Tyus passed Kelly Miller for #97 all-time in fouls (career 677) \u2014 up from #98 entering today \u2014 (1:22 - 4th \u2014 NY @ LV)",
-    "kind": "rank_pass",
-    "player": "Cheyenne Parker-Tyus",
-    "stat": "fouls",
-    "rank": 97,
-    "passed_players": [
-      "Kelly Miller"
-    ],
-    "new_total": 677
   }
 ]

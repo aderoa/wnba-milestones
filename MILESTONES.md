@@ -2,6 +2,11 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-04 00:49 UTC
+
+- **Nia Coffey** passed **Damiris Dantas** for **#199** all-time in turnovers (career 290) — up from #200 entering today — _3:44 - 3rd — MIN @ NY_
+- **Jonquel Jones** passed **Karima Christmas-Kelly** for **#118** all-time in steals (career 262) — up from #119 entering today — _3:44 - 3rd — MIN @ NY_
+
 ## 2026-07-04 00:20 UTC
 
 - **Sabrina Ionescu** passed **Crystal Robinson** and **Gabby Williams** for **#199** all-time in blocks (career 66) — new to top 200 today — _0.0 - 2nd — MIN @ NY_

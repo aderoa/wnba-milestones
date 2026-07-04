@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-04 00:48 UTC_
+_Last updated: 2026-07-04 00:49 UTC_
 
 ## Contents
 
@@ -236,7 +236,7 @@ _Last updated: 2026-07-04 00:48 UTC_
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | Alyssa Thomas | 2,858 |
-| 13 | **Jonquel Jones** 🔴 +12 | 2,740 |
+| 13 | **Jonquel Jones** 🔴 +13 | 2,741 |
 | 14 | A'ja Wilson | 2,657 |
 | 15 | **Breanna Stewart** 🔴 +4 | 2,636 |
 | 16 | Sancho Lyttle | 2,596 |
@@ -959,9 +959,9 @@ _Last updated: 2026-07-04 00:48 UTC_
 | 113 | Kelsey Plum | 267 |
 | 115 | Anna DeForge | 266 |
 | 116 | Brionna Jones | 265 |
+| 117 | **Jonquel Jones** 🔴 +2 | 262 |
 | 117 | Michelle Snow | 262 |
-| 118 | **Jonquel Jones** 🔴 +1 | 261 |
-| 118 | Karima Christmas-Kelly | 261 |
+| 119 | Karima Christmas-Kelly | 261 |
 | 120 | Riquna Williams | 260 |
 | 121 | Noelle Quinn | 256 |
 | 122 | Elaine Powell | 255 |
@@ -1332,7 +1332,7 @@ _Last updated: 2026-07-04 00:48 UTC_
 | 77 | Kelly Miller | 596 |
 | 78 | Stefanie Dolson | 594 |
 | 79 | Brittney Sykes | 591 |
-| 80 | **Breanna Stewart** 🔴 +3 | 589 |
+| 80 | **Breanna Stewart** 🔴 +4 | 590 |
 | 81 | Kelsey Mitchell | 585 |
 | 82 | Helen Darling | 575 |
 | 82 | Nykesha Sales | 575 |
@@ -1451,8 +1451,8 @@ _Last updated: 2026-07-04 00:48 UTC_
 | 196 | Crystal Robinson | 299 |
 | 197 | Kayla Thornton | 298 |
 | 198 | Michele Timms | 297 |
-| 199 | Damiris Dantas | 289 |
-| 199 | **Nia Coffey** 🔴 | 289 |
+| 199 | **Nia Coffey** 🔴 +1 | 290 |
+| 200 | Damiris Dantas | 289 |
 
 ## Personal fouls
 
