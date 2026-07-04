@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-04 02:28 UTC_
+_Last updated: 2026-07-04 02:29 UTC_
 
 ## Contents
 
@@ -34,13 +34,13 @@ _Last updated: 2026-07-04 02:28 UTC_
 | 13 | Breanna Stewart | 6,371 |
 | 14 | Lisa Leslie | 6,251 |
 | 15 | A'ja Wilson | 6,178 |
-| 16 | **Jewell Loyd** 🔴 +6 | 6,154 |
+| 16 | **Jewell Loyd** 🔴 +9 | 6,157 |
 | 17 | Brittney Griner | 6,087 |
 | 18 | Lauren Jackson | 6,005 |
 | 18 | Seimone Augustus | 6,005 |
 | 20 | Becky Hammon | 5,816 |
 | 21 | Angel McCoughtry | 5,797 |
-| 22 | **Skylar Diggins** 🔴 | 5,732 |
+| 22 | **Skylar Diggins** 🔴 +2 | 5,734 |
 | 23 | Kayla McBride | 5,668 |
 | 24 | DeLisha Milton-Jones | 5,571 |
 | 25 | Katie Douglas | 5,545 |
@@ -1056,7 +1056,7 @@ _Last updated: 2026-07-04 02:28 UTC_
 | 6 | Tina Thompson | 745 |
 | 7 | Katie Douglas | 723 |
 | 8 | Kelsey Mitchell | 712 |
-| 9 | **Jewell Loyd** 🔴 +1 | 696 |
+| 9 | **Jewell Loyd** 🔴 +2 | 697 |
 | 10 | DeWanna Bonner | 682 |
 | 11 | Kristi Toliver | 651 |
 | 12 | Kelsey Plum | 619 |
