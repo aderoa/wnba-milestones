@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-04 00:19 UTC_
+_Last updated: 2026-07-04 00:20 UTC_
 
 ## Contents
 
@@ -31,7 +31,7 @@ _Last updated: 2026-07-04 00:19 UTC_
 | 10 | Candace Parker | 6,574 |
 | 11 | Katie Smith | 6,450 |
 | 12 | Sylvia Fowles | 6,413 |
-| 13 | **Breanna Stewart** 🔴 +17 | 6,352 |
+| 13 | **Breanna Stewart** 🔴 +18 | 6,353 |
 | 14 | Lisa Leslie | 6,251 |
 | 15 | A'ja Wilson | 6,178 |
 | 16 | Jewell Loyd | 6,148 |
@@ -351,7 +351,7 @@ _Last updated: 2026-07-04 00:19 UTC_
 | 124 | Tamecka Dixon | 1,035 |
 | 126 | Kamila Vodichkova | 1,031 |
 | 127 | Jasmine Thomas | 1,027 |
-| 128 | **Sabrina Ionescu** 🔴 +1 | 1,021 |
+| 128 | **Sabrina Ionescu** 🔴 +2 | 1,022 |
 | 129 | Jessica Shepard | 1,016 |
 | 130 | Cathrine Kraayeveld | 1,013 |
 | 131 | Kelly Miller | 1,011 |
@@ -474,8 +474,8 @@ _Last updated: 2026-07-04 00:19 UTC_
 | 42 | Sheryl Swoopes | 1,037 |
 | 43 | Tina Charles | 1,033 |
 | 44 | **Kayla McBride** 🔴 | 992 |
+| 45 | **Breanna Stewart** 🔴 +1 | 982 |
 | 45 | Nikki Teasley | 982 |
-| 46 | **Breanna Stewart** 🔴 | 981 |
 | 47 | Tamecka Dixon | 960 |
 | 48 | Tiffany Hayes | 957 |
 | 49 | Kara Lawson | 946 |
@@ -833,11 +833,11 @@ _Last updated: 2026-07-04 00:19 UTC_
 | 196 | Shannon Johnson | 67 |
 | 196 | Veronica Burton | 67 |
 | 198 | Kennedy Burke | 66 |
-| 199 | Crystal Robinson | 65 |
-| 199 | Gabby Williams | 65 |
-| 199 | Queen Egbo | 65 |
-| 199 | Riquna Williams | 65 |
-| 199 | **Sabrina Ionescu** 🔴 | 65 |
+| 198 | **Sabrina Ionescu** 🔴 +1 | 66 |
+| 200 | Crystal Robinson | 65 |
+| 200 | Gabby Williams | 65 |
+| 200 | Queen Egbo | 65 |
+| 200 | Riquna Williams | 65 |
 
 ## Steals
 

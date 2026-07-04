@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-07-04T00:20:00+00:00",
+    "text": "Sabrina Ionescu passed Crystal Robinson and Gabby Williams for #199 all-time in blocks (career 66) \u2014 new to top 200 today \u2014 (0.0 - 2nd \u2014 MIN @ NY)",
+    "kind": "rank_pass",
+    "player": "Sabrina Ionescu",
+    "stat": "blocks",
+    "rank": 199,
+    "passed_players": [
+      "Crystal Robinson",
+      "Gabby Williams"
+    ],
+    "new_total": 66
+  },
+  {
     "ts": "2026-07-04T00:18:00+00:00",
     "text": "Leonie Fiebich passed Amanda Zahui B and Eva Nemcova for #167 all-time in three-pointers (career 131) \u2014 up from #170 entering today \u2014 (1:16 - 2nd \u2014 MIN @ NY)",
     "kind": "rank_pass",
@@ -2979,17 +2992,5 @@
       "Kelly Miller"
     ],
     "new_total": 677
-  },
-  {
-    "ts": "2026-06-24T03:18:00+00:00",
-    "text": "Sabrina Ionescu passed Marina Mabrey for #93 all-time in points (career 3,054) \u2014 up from #95 entering today \u2014 (7:02 - 3rd \u2014 NY @ LV)",
-    "kind": "rank_pass",
-    "player": "Sabrina Ionescu",
-    "stat": "points",
-    "rank": 93,
-    "passed_players": [
-      "Marina Mabrey"
-    ],
-    "new_total": 3054
   }
 ]

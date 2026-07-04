@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-04 00:20 UTC
+
+- **Sabrina Ionescu** passed **Crystal Robinson** and **Gabby Williams** for **#199** all-time in blocks (career 66) — new to top 200 today — _0.0 - 2nd — MIN @ NY_
+
 ## 2026-07-04 00:18 UTC
 
 - **Leonie Fiebich** passed **Amanda Zahui B** and **Eva Nemcova** for **#167** all-time in three-pointers (career 131) — up from #170 entering today — _1:16 - 2nd — MIN @ NY_
