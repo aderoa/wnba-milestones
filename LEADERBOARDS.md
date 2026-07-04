@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-04 03:27 UTC_
+_Last updated: 2026-07-04 03:28 UTC_
 
 ## Contents
 
@@ -66,7 +66,7 @@ _Last updated: 2026-07-04 03:27 UTC_
 | 45 | Kahleah Copper | 4,437 |
 | 46 | Crystal Langhorne | 4,433 |
 | 46 | Jia Perkins | 4,433 |
-| 48 | **Courtney Vandersloot** 🔴 +6 | 4,368 |
+| 48 | **Courtney Vandersloot** 🔴 +8 | 4,370 |
 | 49 | Jonquel Jones | 4,367 |
 | 50 | Courtney Williams | 4,366 |
 | 51 | Dearica Hamby | 4,330 |
@@ -332,8 +332,8 @@ _Last updated: 2026-07-04 03:27 UTC_
 | 106 | **NaLyssa Smith** 🔴 +5 | 1,177 |
 | 107 | Brittney Sykes | 1,162 |
 | 108 | Nykesha Sales | 1,148 |
+| 109 | **Natasha Cloud** 🔴 +2 | 1,143 |
 | 109 | Shannon Johnson | 1,143 |
-| 110 | **Natasha Cloud** 🔴 +1 | 1,142 |
 | 111 | Adrian Williams-Strong | 1,131 |
 | 112 | Andrea Stinson | 1,127 |
 | 112 | Tamika Raymond | 1,127 |
@@ -677,7 +677,7 @@ _Last updated: 2026-07-04 03:27 UTC_
 | 40 | Emma Meesseman | 238 |
 | 41 | **Azurá Stevens** 🔴 | 236 |
 | 42 | Brianna Turner | 234 |
-| 43 | **Skylar Diggins** 🔴 | 231 |
+| 43 | **Skylar Diggins** 🔴 +1 | 232 |
 | 44 | Chasity Melvin | 228 |
 | 45 | Alanna Smith | 225 |
 | 45 | Teaira McCowan | 225 |
@@ -858,7 +858,7 @@ _Last updated: 2026-07-04 03:27 UTC_
 | 13 | Alyssa Thomas | 582 |
 | 14 | Taj McWilliams-Franklin | 577 |
 | 15 | Tully Bevilaqua | 571 |
-| 16 | **Courtney Vandersloot** 🔴 | 544 |
+| 16 | **Courtney Vandersloot** 🔴 +1 | 545 |
 | 17 | Yolanda Griffith | 527 |
 | 18 | Candace Parker | 521 |
 | 19 | Diana Taurasi | 515 |
@@ -1274,7 +1274,7 @@ _Last updated: 2026-07-04 03:27 UTC_
 | 19 | Katie Smith | 935 |
 | 20 | Shannon Johnson | 934 |
 | 21 | **Chelsea Gray** 🔴 +2 | 929 |
-| 22 | **Skylar Diggins** 🔴 +2 | 909 |
+| 22 | **Skylar Diggins** 🔴 +3 | 910 |
 | 23 | Taj McWilliams-Franklin | 898 |
 | 24 | Candice Dupree | 869 |
 | 25 | Alana Beard | 854 |
