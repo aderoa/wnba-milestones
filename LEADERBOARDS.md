@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-04 03:16 UTC_
+_Last updated: 2026-07-04 03:17 UTC_
 
 ## Contents
 
@@ -151,7 +151,7 @@ _Last updated: 2026-07-04 03:16 UTC_
 | 130 | Kayla Thornton | 2,393 |
 | 131 | DeMya Walker | 2,379 |
 | 132 | Alex Bentley | 2,350 |
-| 133 | **Azurá Stevens** 🔴 +4 | 2,347 |
+| 133 | **Azurá Stevens** 🔴 +6 | 2,349 |
 | 134 | Jordin Canada | 2,342 |
 | 135 | Merlakia Jones | 2,308 |
 | 136 | Betnijah Laney-Hamilton | 2,302 |
@@ -437,7 +437,7 @@ _Last updated: 2026-07-04 03:16 UTC_
 | 5 | Lindsay Whalen | 2,347 |
 | 6 | **Chelsea Gray** 🔴 +2 | 2,005 |
 | 7 | Alyssa Thomas | 1,971 |
-| 8 | **Skylar Diggins** 🔴 | 1,852 |
+| 8 | **Skylar Diggins** 🔴 +1 | 1,853 |
 | 9 | **Natasha Cloud** 🔴 +2 | 1,804 |
 | 10 | Becky Hammon | 1,705 |
 | 11 | Candace Parker | 1,634 |
@@ -1552,8 +1552,8 @@ _Last updated: 2026-07-04 03:16 UTC_
 | 91 | **Cheyenne Parker-Tyus** 🔴 +1 | 686 |
 | 91 | Maya Moore | 686 |
 | 94 | Jasmine Thomas | 685 |
-| 95 | **Jewell Loyd** 🔴 | 684 |
-| 95 | Leilani Mitchell | 684 |
+| 94 | **Jewell Loyd** 🔴 +1 | 685 |
+| 96 | Leilani Mitchell | 684 |
 | 97 | Crystal Robinson | 682 |
 | 97 | Kayla Thornton | 682 |
 | 99 | Jennifer Lacy | 680 |
