@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-07-04T19:00:00+00:00",
+    "text": "Allisha Gray passed Kayla Thornton for #72 all-time in rebounds (career 1,409) \u2014 up from #73 entering today \u2014 (6:44 - 4th \u2014 GS @ ATL)",
+    "kind": "rank_pass",
+    "player": "Allisha Gray",
+    "stat": "rebounds",
+    "rank": 72,
+    "passed_players": [
+      "Kayla Thornton"
+    ],
+    "new_total": 1409
+  },
+  {
     "ts": "2026-07-04T18:57:00+00:00",
     "text": "Kiah Stokes passed Diamond DeShields for #190 all-time in steals (career 181) \u2014 up from #191 entering today \u2014 (8:10 - 4th \u2014 GS @ ATL)",
     "kind": "rank_pass",
@@ -2974,18 +2986,5 @@
       "Ezi Magbegor"
     ],
     "new_total": 359
-  },
-  {
-    "ts": "2026-06-27T12:06:00+00:00",
-    "text": "Janelle Salaun passed Cecilia Zandalasini and Shoni Schimmel for #190 all-time in three-pointers (career 113) \u2014 up from #191 entering today \u2014 (Final \u2014 ATL @ GS)",
-    "kind": "rank_pass",
-    "player": "Janelle Salaun",
-    "stat": "three-pointers",
-    "rank": 190,
-    "passed_players": [
-      "Cecilia Zandalasini",
-      "Shoni Schimmel"
-    ],
-    "new_total": 113
   }
 ]
