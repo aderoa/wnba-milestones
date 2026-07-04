@@ -2,6 +2,11 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-04 03:27 UTC
+
+- **NaLyssa Smith** reached **1,900** career points (now 1,901) — _4:07 - 3rd — CHI @ LV_
+- **NaLyssa Smith** passed **Gabby Williams** for **#178** all-time in points (career 1,901) — up from #179 entering today — _4:07 - 3rd — CHI @ LV_
+
 ## 2026-07-04 03:18 UTC
 
 - **Jackie Young** passed **Ariel Atkins** for **#122** all-time in turnovers (career 466) — up from #123 entering today — _8:14 - 3rd — CHI @ LV_

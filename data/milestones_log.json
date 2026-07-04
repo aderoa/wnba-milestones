@@ -1,5 +1,26 @@
 [
   {
+    "ts": "2026-07-04T03:27:00+00:00",
+    "text": "NaLyssa Smith reached 1,900 career points (now 1,901) \u2014 (4:07 - 3rd \u2014 CHI @ LV)",
+    "kind": "round",
+    "player": "NaLyssa Smith",
+    "stat": "points",
+    "value": 1900,
+    "new_total": 1901
+  },
+  {
+    "ts": "2026-07-04T03:27:00+00:00",
+    "text": "NaLyssa Smith passed Gabby Williams for #178 all-time in points (career 1,901) \u2014 up from #179 entering today \u2014 (4:07 - 3rd \u2014 CHI @ LV)",
+    "kind": "rank_pass",
+    "player": "NaLyssa Smith",
+    "stat": "points",
+    "rank": 178,
+    "passed_players": [
+      "Gabby Williams"
+    ],
+    "new_total": 1901
+  },
+  {
     "ts": "2026-07-04T03:18:00+00:00",
     "text": "Jackie Young passed Ariel Atkins for #122 all-time in turnovers (career 466) \u2014 up from #123 entering today \u2014 (8:14 - 3rd \u2014 CHI @ LV)",
     "kind": "rank_pass",
@@ -2970,30 +2991,5 @@
       "Courtney Vandersloot"
     ],
     "new_total": 386
-  },
-  {
-    "ts": "2026-06-27T00:21:00+00:00",
-    "text": "Courtney Vandersloot passed Allisha Gray for #73 all-time in rebounds (career 1,385) \u2014 up from #74 entering today \u2014 (2:15 - 2nd \u2014 POR @ CHI)",
-    "kind": "rank_pass",
-    "player": "Courtney Vandersloot",
-    "stat": "rebounds",
-    "rank": 73,
-    "passed_players": [
-      "Allisha Gray"
-    ],
-    "new_total": 1385
-  },
-  {
-    "ts": "2026-06-27T00:09:00+00:00",
-    "text": "Olivia Nelson-Ododa passed Chiney Ogwumike and Kristen Rasmussen for #94 all-time in blocks (career 128) \u2014 up from #100 entering today \u2014 (8:51 - 2nd \u2014 WSH @ CON)",
-    "kind": "rank_pass",
-    "player": "Olivia Nelson-Ododa",
-    "stat": "blocks",
-    "rank": 94,
-    "passed_players": [
-      "Chiney Ogwumike",
-      "Kristen Rasmussen"
-    ],
-    "new_total": 128
   }
 ]
