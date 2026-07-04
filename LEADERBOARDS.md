@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-04 04:12 UTC_
+_Last updated: 2026-07-04 04:13 UTC_
 
 ## Contents
 
@@ -40,7 +40,7 @@ _Last updated: 2026-07-04 04:12 UTC_
 | 18 | Seimone Augustus | 6,005 |
 | 20 | Becky Hammon | 5,816 |
 | 21 | Angel McCoughtry | 5,797 |
-| 22 | **Skylar Diggins** 🔴 +17 | 5,749 |
+| 22 | **Skylar Diggins** 🔴 +19 | 5,751 |
 | 23 | Kayla McBride | 5,668 |
 | 24 | DeLisha Milton-Jones | 5,571 |
 | 25 | Katie Douglas | 5,545 |
@@ -332,8 +332,8 @@ _Last updated: 2026-07-04 04:12 UTC_
 | 106 | **NaLyssa Smith** 🔴 +7 | 1,179 |
 | 107 | Brittney Sykes | 1,162 |
 | 108 | Nykesha Sales | 1,148 |
-| 109 | **Natasha Cloud** 🔴 +2 | 1,143 |
-| 109 | Shannon Johnson | 1,143 |
+| 109 | **Natasha Cloud** 🔴 +3 | 1,144 |
+| 110 | Shannon Johnson | 1,143 |
 | 111 | Adrian Williams-Strong | 1,131 |
 | 112 | Andrea Stinson | 1,127 |
 | 112 | Tamika Raymond | 1,127 |
