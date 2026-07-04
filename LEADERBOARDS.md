@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-04 02:07 UTC_
+_Last updated: 2026-07-04 02:08 UTC_
 
 ## Contents
 
@@ -83,7 +83,7 @@ _Last updated: 2026-07-04 02:07 UTC_
 | 62 | Allie Quigley | 3,786 |
 | 63 | Chasity Melvin | 3,781 |
 | 64 | Brittney Sykes | 3,726 |
-| 65 | **Jackie Young** 🔴 | 3,698 |
+| 65 | **Jackie Young** 🔴 +2 | 3,700 |
 | 66 | Kara Lawson | 3,670 |
 | 67 | Mwadi Mabika | 3,576 |
 | 68 | Odyssey Sims | 3,574 |
@@ -329,7 +329,7 @@ _Last updated: 2026-07-04 02:07 UTC_
 | 103 | Latasha Byears | 1,190 |
 | 103 | Tanisha Wright | 1,190 |
 | 105 | Vicky Bullett | 1,189 |
-| 106 | **NaLyssa Smith** 🔴 | 1,172 |
+| 106 | **NaLyssa Smith** 🔴 +1 | 1,173 |
 | 107 | Brittney Sykes | 1,162 |
 | 108 | Nykesha Sales | 1,148 |
 | 109 | Shannon Johnson | 1,143 |
@@ -818,12 +818,12 @@ _Last updated: 2026-07-04 02:07 UTC_
 | 179 | Tianna Hawkins | 75 |
 | 182 | Epiphanny Prince | 74 |
 | 183 | Ayana Walker | 73 |
-| 183 | **Jackie Young** 🔴 +1 | 73 |
 | 183 | Lindsay Wisdom-Hylton | 73 |
-| 186 | Cappie Pondexter | 72 |
-| 186 | Christi Thomas | 72 |
-| 186 | Olympia Scott | 72 |
-| 186 | Sue Bird | 72 |
+| 185 | Cappie Pondexter | 72 |
+| 185 | Christi Thomas | 72 |
+| 185 | **Jackie Young** 🔴 | 72 |
+| 185 | Olympia Scott | 72 |
+| 185 | Sue Bird | 72 |
 | 190 | Marlies Askamp | 71 |
 | 190 | Tanisha Wright | 71 |
 | 192 | Wendy Palmer | 70 |
@@ -1001,8 +1001,8 @@ _Last updated: 2026-07-04 02:07 UTC_
 | 155 | Candice Wiggins | 215 |
 | 155 | Elena Baranova | 215 |
 | 158 | Shekinna Stricklen | 213 |
+| 159 | **Azurá Stevens** 🔴 +1 | 211 |
 | 159 | Nikki Teasley | 211 |
-| 160 | **Azurá Stevens** 🔴 | 210 |
 | 161 | Iziane Castro Marques | 209 |
 | 161 | Tiffany Mitchell | 209 |
 | 163 | Kia Vaughn | 208 |
@@ -1375,7 +1375,7 @@ _Last updated: 2026-07-04 02:07 UTC_
 | 120 | Elaine Powell | 469 |
 | 121 | Allie Quigley | 467 |
 | 122 | Ariel Atkins | 465 |
-| 123 | **Jackie Young** 🔴 | 463 |
+| 123 | **Jackie Young** 🔴 +1 | 464 |
 | 124 | Betnijah Laney-Hamilton | 456 |
 | 125 | Kia Vaughn | 454 |
 | 126 | Janeth Arcain | 453 |
@@ -1635,8 +1635,8 @@ _Last updated: 2026-07-04 02:07 UTC_
 | 175 | Adrian Williams-Strong | 497 |
 | 175 | Essence Carson | 497 |
 | 175 | Rachel Banham | 497 |
-| 178 | **Azurá Stevens** 🔴 | 495 |
-| 178 | Nia Coffey | 495 |
+| 178 | **Azurá Stevens** 🔴 +1 | 496 |
+| 179 | Nia Coffey | 495 |
 | 180 | Karima Christmas-Kelly | 494 |
 | 181 | Ann Wauters | 493 |
 | 181 | Riquna Williams | 493 |
