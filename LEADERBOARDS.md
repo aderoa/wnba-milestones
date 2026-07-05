@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-05 23:46 UTC_
+_Last updated: 2026-07-05 23:47 UTC_
 
 ## Contents
 
@@ -301,7 +301,7 @@ _Last updated: 2026-07-05 23:46 UTC_
 | 75 | Courtney Vandersloot | 1,386 |
 | 76 | Katie Smith | 1,383 |
 | 77 | Ebony Hoffman | 1,376 |
-| 78 | **Jewell Loyd** 🔴 +2 | 1,373 |
+| 78 | **Jewell Loyd** 🔴 +3 | 1,374 |
 | 79 | Sheri Sam | 1,356 |
 | 80 | Tamika Whitmore | 1,355 |
 | 81 | Emma Meesseman | 1,350 |
@@ -324,7 +324,7 @@ _Last updated: 2026-07-05 23:46 UTC_
 | 98 | Seimone Augustus | 1,228 |
 | 99 | Jia Perkins | 1,220 |
 | 100 | Kahleah Copper | 1,204 |
-| 101 | **Aliyah Boston** 🔴 +4 | 1,202 |
+| 101 | **Aliyah Boston** 🔴 +5 | 1,203 |
 | 102 | DeMya Walker | 1,199 |
 | 103 | Latasha Byears | 1,190 |
 | 103 | Tanisha Wright | 1,190 |
@@ -1333,7 +1333,7 @@ _Last updated: 2026-07-05 23:46 UTC_
 | 78 | Stefanie Dolson | 594 |
 | 79 | Brittney Sykes | 591 |
 | 80 | Breanna Stewart | 586 |
-| 81 | **Kelsey Mitchell** 🔴 | 585 |
+| 80 | **Kelsey Mitchell** 🔴 +1 | 586 |
 | 82 | Helen Darling | 575 |
 | 82 | Nykesha Sales | 575 |
 | 84 | Andrea Stinson | 571 |
