@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-05 20:15 UTC_
+_Last updated: 2026-07-05 20:16 UTC_
 
 ## Contents
 
@@ -351,7 +351,7 @@ _Last updated: 2026-07-05 20:15 UTC_
 | 124 | Tamecka Dixon | 1,035 |
 | 126 | Kamila Vodichkova | 1,031 |
 | 127 | Jasmine Thomas | 1,027 |
-| 128 | **Jessica Shepard** 🔴 +9 | 1,025 |
+| 128 | **Jessica Shepard** 🔴 +10 | 1,026 |
 | 129 | Sabrina Ionescu | 1,020 |
 | 130 | Cathrine Kraayeveld | 1,013 |
 | 131 | Kelly Miller | 1,011 |
@@ -401,8 +401,8 @@ _Last updated: 2026-07-05 20:15 UTC_
 | 175 | Rhonda Mapp | 788 |
 | 176 | Mercedes Russell | 786 |
 | 177 | **Odyssey Sims** 🔴 | 785 |
-| 178 | **Arike Ogunbowale** 🔴 +5 | 780 |
-| 178 | Sue Wicks | 780 |
+| 178 | **Arike Ogunbowale** 🔴 +6 | 781 |
+| 179 | Sue Wicks | 780 |
 | 180 | Lindsey Harding | 779 |
 | 181 | Tiffani Johnson | 778 |
 | 182 | Teresa Weatherspoon | 775 |
@@ -1622,9 +1622,9 @@ _Last updated: 2026-07-05 20:15 UTC_
 | 162 | Adrienne Goodson | 512 |
 | 162 | Janeth Arcain | 512 |
 | 164 | Andrea Stinson | 511 |
+| 165 | **Isabelle Harrison** 🔴 +2 | 507 |
 | 165 | Vicky Bullett | 507 |
-| 166 | **Isabelle Harrison** 🔴 +1 | 506 |
-| 166 | Merlakia Jones | 506 |
+| 167 | Merlakia Jones | 506 |
 | 168 | Rushia Brown | 505 |
 | 168 | Shekinna Stricklen | 505 |
 | 170 | Allison Feaster | 504 |

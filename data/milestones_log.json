@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-07-05T20:16:00+00:00",
+    "text": "Arike Ogunbowale passed Sue Wicks for #178 all-time in rebounds (career 781) \u2014 up from #181 entering today \u2014 (8:35 - 3rd \u2014 DAL @ TOR)",
+    "kind": "rank_pass",
+    "player": "Arike Ogunbowale",
+    "stat": "rebounds",
+    "rank": 178,
+    "passed_players": [
+      "Sue Wicks"
+    ],
+    "new_total": 781
+  },
+  {
     "ts": "2026-07-05T20:01:00+00:00",
     "text": "Marina Mabrey passed Charde Houston and Shatori Walker-Kimbrough for #155 all-time in blocks (career 85) \u2014 up from #156 entering today \u2014 (Halftime \u2014 DAL @ TOR)",
     "kind": "rank_pass",
@@ -2972,18 +2984,5 @@
       "Essence Carson"
     ],
     "new_total": 498
-  },
-  {
-    "ts": "2026-06-27T12:06:00+00:00",
-    "text": "Angel Reese passed Nicole Ohlde and Tamecka Dixon for #123 all-time in rebounds (career 1,047) \u2014 up from #124 entering today \u2014 (Final \u2014 ATL @ GS)",
-    "kind": "rank_pass",
-    "player": "Angel Reese",
-    "stat": "rebounds",
-    "rank": 123,
-    "passed_players": [
-      "Nicole Ohlde",
-      "Tamecka Dixon"
-    ],
-    "new_total": 1047
   }
 ]
