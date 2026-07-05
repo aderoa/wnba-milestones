@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-05 19:05 UTC_
+_Last updated: 2026-07-05 19:06 UTC_
 
 ## Contents
 
@@ -104,7 +104,7 @@ _Last updated: 2026-07-05 19:05 UTC_
 | 83 | Sheri Sam | 3,353 |
 | 84 | Andrea Stinson | 3,351 |
 | 85 | Tanisha Wright | 3,324 |
-| 86 | **Marina Mabrey** 🔴 | 3,249 |
+| 86 | **Marina Mabrey** 🔴 +3 | 3,252 |
 | 87 | Stefanie Dolson | 3,217 |
 | 88 | Margo Dydek | 3,214 |
 | 89 | Erica Wheeler | 3,195 |
@@ -352,7 +352,7 @@ _Last updated: 2026-07-05 19:05 UTC_
 | 126 | Kamila Vodichkova | 1,031 |
 | 127 | Jasmine Thomas | 1,027 |
 | 128 | Sabrina Ionescu | 1,020 |
-| 129 | **Jessica Shepard** 🔴 +1 | 1,017 |
+| 129 | **Jessica Shepard** 🔴 +2 | 1,018 |
 | 130 | Cathrine Kraayeveld | 1,013 |
 | 131 | Kelly Miller | 1,011 |
 | 131 | Noelle Quinn | 1,011 |
@@ -404,8 +404,8 @@ _Last updated: 2026-07-05 19:05 UTC_
 | 178 | Sue Wicks | 780 |
 | 179 | Lindsey Harding | 779 |
 | 180 | Tiffani Johnson | 778 |
-| 181 | **Arike Ogunbowale** 🔴 | 775 |
-| 181 | Teresa Weatherspoon | 775 |
+| 181 | **Arike Ogunbowale** 🔴 +2 | 777 |
+| 182 | Teresa Weatherspoon | 775 |
 | 183 | Anna DeForge | 769 |
 | 183 | Kelsey Bone | 769 |
 | 183 | Tan White | 769 |
@@ -795,12 +795,12 @@ _Last updated: 2026-07-05 19:05 UTC_
 | 158 | Tamera Young | 83 |
 | 159 | Cameron Brink | 82 |
 | 159 | Damiris Dantas | 82 |
+| 161 | **Awak Kuier** 🔴 +1 | 81 |
 | 161 | Charlotte Smith | 81 |
 | 161 | Cintia dos Santos | 81 |
 | 161 | Jessie Hicks | 81 |
-| 164 | **Awak Kuier** 🔴 | 80 |
-| 164 | Nykesha Sales | 80 |
-| 164 | Rushia Brown | 80 |
+| 165 | Nykesha Sales | 80 |
+| 165 | Rushia Brown | 80 |
 | 167 | Stephanie Talbot | 79 |
 | 168 | Astou Ndour-Fall | 78 |
 | 168 | Katie Smith | 78 |
@@ -1070,7 +1070,7 @@ _Last updated: 2026-07-05 19:05 UTC_
 | 20 | Sami Whitcomb | 511 |
 | 21 | Allie Quigley | 510 |
 | 22 | Leilani Mitchell | 508 |
-| 23 | **Marina Mabrey** 🔴 | 500 |
+| 23 | **Marina Mabrey** 🔴 +1 | 501 |
 | 24 | Sabrina Ionescu | 468 |
 | 24 | Shekinna Stricklen | 468 |
 | 26 | Breanna Stewart | 465 |
