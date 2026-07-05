@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-07-05T21:07:00+00:00",
+    "text": "Alysha Clark passed Allie Quigley for #145 all-time in blocks (career 91) \u2014 up from #146 entering today \u2014 (End of 4th \u2014 DAL @ TOR)",
+    "kind": "rank_pass",
+    "player": "Alysha Clark",
+    "stat": "blocks",
+    "rank": 145,
+    "passed_players": [
+      "Allie Quigley"
+    ],
+    "new_total": 91
+  },
+  {
     "ts": "2026-07-05T20:50:00+00:00",
     "text": "Awak Kuier passed Cameron Brink and Damiris Dantas for #159 all-time in blocks (career 83) \u2014 up from #164 entering today \u2014 (5:13 - 4th \u2014 DAL @ TOR)",
     "kind": "rank_pass",
@@ -2974,14 +2986,5 @@
       "Kara Braxton"
     ],
     "new_total": 1389
-  },
-  {
-    "ts": "2026-06-27T12:06:00+00:00",
-    "text": "Courtney Vandersloot reached 2,900 career assists (now 2,901) \u2014 (Final \u2014 POR @ CHI)",
-    "kind": "round",
-    "player": "Courtney Vandersloot",
-    "stat": "assists",
-    "value": 2900,
-    "new_total": 2901
   }
 ]
