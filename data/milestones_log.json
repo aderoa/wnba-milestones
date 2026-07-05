@@ -1,5 +1,30 @@
 [
   {
+    "ts": "2026-07-05T20:50:00+00:00",
+    "text": "Awak Kuier passed Cameron Brink and Damiris Dantas for #159 all-time in blocks (career 83) \u2014 up from #164 entering today \u2014 (5:13 - 4th \u2014 DAL @ TOR)",
+    "kind": "rank_pass",
+    "player": "Awak Kuier",
+    "stat": "blocks",
+    "rank": 159,
+    "passed_players": [
+      "Cameron Brink",
+      "Damiris Dantas"
+    ],
+    "new_total": 83
+  },
+  {
+    "ts": "2026-07-05T20:50:00+00:00",
+    "text": "Marina Mabrey passed Alanna Smith for #156 all-time in rebounds (career 879) \u2014 up from #157 entering today \u2014 (5:13 - 4th \u2014 DAL @ TOR)",
+    "kind": "rank_pass",
+    "player": "Marina Mabrey",
+    "stat": "rebounds",
+    "rank": 156,
+    "passed_players": [
+      "Alanna Smith"
+    ],
+    "new_total": 879
+  },
+  {
     "ts": "2026-07-05T20:49:00+00:00",
     "text": "Marina Mabrey passed Ashley Robinson for #134 all-time in fouls (career 568) \u2014 up from #135 entering today \u2014 (5:38 - 4th \u2014 DAL @ TOR)",
     "kind": "rank_pass",
@@ -2958,32 +2983,5 @@
     "stat": "assists",
     "value": 2900,
     "new_total": 2901
-  },
-  {
-    "ts": "2026-06-27T12:06:00+00:00",
-    "text": "Courtney Vandersloot passed Mwadi Mabika and Tamika Whitmore for #35 all-time in fouls (career 942) \u2014 up from #36 entering today \u2014 (Final \u2014 POR @ CHI)",
-    "kind": "rank_pass",
-    "player": "Courtney Vandersloot",
-    "stat": "fouls",
-    "rank": 35,
-    "passed_players": [
-      "Mwadi Mabika",
-      "Tamika Whitmore"
-    ],
-    "new_total": 942
-  },
-  {
-    "ts": "2026-06-27T12:06:00+00:00",
-    "text": "Natasha Cloud passed Allie Quigley, Alysha Clark, and Tiffany Hayes for #145 all-time in blocks (career 91) \u2014 up from #147 entering today \u2014 (Final \u2014 POR @ CHI)",
-    "kind": "rank_pass",
-    "player": "Natasha Cloud",
-    "stat": "blocks",
-    "rank": 145,
-    "passed_players": [
-      "Allie Quigley",
-      "Alysha Clark",
-      "Tiffany Hayes"
-    ],
-    "new_total": 91
   }
 ]

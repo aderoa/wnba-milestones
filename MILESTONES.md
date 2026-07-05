@@ -2,6 +2,11 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-05 20:50 UTC
+
+- **Awak Kuier** passed **Cameron Brink** and **Damiris Dantas** for **#159** all-time in blocks (career 83) — up from #164 entering today — _5:13 - 4th — DAL @ TOR_
+- **Marina Mabrey** passed **Alanna Smith** for **#156** all-time in rebounds (career 879) — up from #157 entering today — _5:13 - 4th — DAL @ TOR_
+
 ## 2026-07-05 20:49 UTC
 
 - **Marina Mabrey** passed **Ashley Robinson** for **#134** all-time in fouls (career 568) — up from #135 entering today — _5:38 - 4th — DAL @ TOR_
