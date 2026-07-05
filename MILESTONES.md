@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-05 20:23 UTC
+
+- **Awak Kuier** passed **Charlotte Smith**, **Cintia dos Santos**, and **Jessie Hicks** for **#161** all-time in blocks (career 82) — up from #164 entering today — _5:32 - 3rd — DAL @ TOR_
+
 ## 2026-07-05 20:16 UTC
 
 - **Arike Ogunbowale** passed **Sue Wicks** for **#178** all-time in rebounds (career 781) — up from #181 entering today — _8:35 - 3rd — DAL @ TOR_

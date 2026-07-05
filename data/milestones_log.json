@@ -1,5 +1,19 @@
 [
   {
+    "ts": "2026-07-05T20:23:00+00:00",
+    "text": "Awak Kuier passed Charlotte Smith, Cintia dos Santos, and Jessie Hicks for #161 all-time in blocks (career 82) \u2014 up from #164 entering today \u2014 (5:32 - 3rd \u2014 DAL @ TOR)",
+    "kind": "rank_pass",
+    "player": "Awak Kuier",
+    "stat": "blocks",
+    "rank": 161,
+    "passed_players": [
+      "Charlotte Smith",
+      "Cintia dos Santos",
+      "Jessie Hicks"
+    ],
+    "new_total": 82
+  },
+  {
     "ts": "2026-07-05T20:16:00+00:00",
     "text": "Arike Ogunbowale passed Sue Wicks for #178 all-time in rebounds (career 781) \u2014 up from #181 entering today \u2014 (8:35 - 3rd \u2014 DAL @ TOR)",
     "kind": "rank_pass",
@@ -2971,18 +2985,5 @@
       "Sue Bird"
     ],
     "new_total": 776
-  },
-  {
-    "ts": "2026-06-27T12:06:00+00:00",
-    "text": "Rachel Banham passed Adrian Williams-Strong and Essence Carson for #175 all-time in fouls (career 498) \u2014 up from #177 entering today \u2014 (Final \u2014 POR @ CHI)",
-    "kind": "rank_pass",
-    "player": "Rachel Banham",
-    "stat": "fouls",
-    "rank": 175,
-    "passed_players": [
-      "Adrian Williams-Strong",
-      "Essence Carson"
-    ],
-    "new_total": 498
   }
 ]
