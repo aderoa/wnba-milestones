@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-07-05T19:36:00+00:00",
+    "text": "Alanna Smith passed Teaira McCowan for #46 all-time in blocks (career 226) \u2014 (5:31 - 2nd \u2014 DAL @ TOR)",
+    "kind": "rank_pass",
+    "player": "Alanna Smith",
+    "stat": "blocks",
+    "rank": 46,
+    "passed_players": [
+      "Teaira McCowan"
+    ],
+    "new_total": 226
+  },
+  {
     "ts": "2026-07-05T19:34:00+00:00",
     "text": "Marina Mabrey passed Tina Thompson for #70 all-time in assists (career 804) \u2014 up from #71 entering today \u2014 (6:32 - 2nd \u2014 DAL @ TOR)",
     "kind": "rank_pass",
@@ -2969,18 +2981,5 @@
       "Vickie Johnson"
     ],
     "new_total": 756
-  },
-  {
-    "ts": "2026-06-27T12:06:00+00:00",
-    "text": "Jordin Canada passed Alex Bentley and Azur\u00e1 Stevens for #132 all-time in points (career 2,365) \u2014 up from #134 entering today \u2014 (Final \u2014 ATL @ GS)",
-    "kind": "rank_pass",
-    "player": "Jordin Canada",
-    "stat": "points",
-    "rank": 132,
-    "passed_players": [
-      "Alex Bentley",
-      "Azur\u00e1 Stevens"
-    ],
-    "new_total": 2365
   }
 ]

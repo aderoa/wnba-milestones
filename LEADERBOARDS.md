@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-05 19:35 UTC_
+_Last updated: 2026-07-05 19:36 UTC_
 
 ## Contents
 
@@ -351,7 +351,7 @@ _Last updated: 2026-07-05 19:35 UTC_
 | 124 | Tamecka Dixon | 1,035 |
 | 126 | Kamila Vodichkova | 1,031 |
 | 127 | Jasmine Thomas | 1,027 |
-| 128 | **Jessica Shepard** 🔴 +6 | 1,022 |
+| 128 | **Jessica Shepard** 🔴 +8 | 1,024 |
 | 129 | Sabrina Ionescu | 1,020 |
 | 130 | Cathrine Kraayeveld | 1,013 |
 | 131 | Kelly Miller | 1,011 |
@@ -380,7 +380,7 @@ _Last updated: 2026-07-05 19:35 UTC_
 | 154 | Mistie Bass | 888 |
 | 155 | Erica Wheeler | 882 |
 | 156 | **Alanna Smith** 🔴 +2 | 880 |
-| 157 | **Marina Mabrey** 🔴 +1 | 875 |
+| 157 | **Marina Mabrey** 🔴 +2 | 876 |
 | 158 | Shameka Christon | 867 |
 | 159 | Krystal Thomas | 862 |
 | 160 | Naz Hillmon | 859 |
@@ -679,8 +679,8 @@ _Last updated: 2026-07-05 19:35 UTC_
 | 42 | Brianna Turner | 234 |
 | 43 | Skylar Diggins | 231 |
 | 44 | Chasity Melvin | 228 |
-| 45 | **Alanna Smith** 🔴 | 225 |
-| 45 | Teaira McCowan | 225 |
+| 45 | **Alanna Smith** 🔴 +1 | 226 |
+| 46 | Teaira McCowan | 225 |
 | 47 | Sancho Lyttle | 221 |
 | 48 | Alana Beard | 220 |
 | 49 | Janell Burse | 216 |
