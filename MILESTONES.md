@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-05 20:01 UTC
+
+- **Marina Mabrey** passed **Charde Houston** and **Shatori Walker-Kimbrough** for **#155** all-time in blocks (career 85) — up from #156 entering today — _Halftime — DAL @ TOR_
+
 ## 2026-07-05 19:54 UTC
 
 - **Isabelle Harrison** passed **Jennifer Gillom** and **Jia Perkins** for **#126** all-time in blocks (career 104) — up from #128 entering today — _2:04 - 2nd — DAL @ TOR_

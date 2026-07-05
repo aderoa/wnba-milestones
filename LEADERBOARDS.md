@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-05 20:00 UTC_
+_Last updated: 2026-07-05 20:01 UTC_
 
 ## Contents
 
@@ -789,9 +789,9 @@ _Last updated: 2026-07-05 20:00 UTC_
 | 151 | Erlana Larkins | 85 |
 | 151 | Kalani Brown | 85 |
 | 151 | Kristin Folkl | 85 |
-| 155 | Charde Houston | 84 |
-| 155 | **Marina Mabrey** 🔴 | 84 |
-| 155 | Shatori Walker-Kimbrough | 84 |
+| 151 | **Marina Mabrey** 🔴 +1 | 85 |
+| 156 | Charde Houston | 84 |
+| 156 | Shatori Walker-Kimbrough | 84 |
 | 158 | Tamera Young | 83 |
 | 159 | Cameron Brink | 82 |
 | 159 | Damiris Dantas | 82 |
@@ -1320,8 +1320,8 @@ _Last updated: 2026-07-05 20:00 UTC_
 | 65 | Dawn Staley | 643 |
 | 66 | Jonquel Jones | 641 |
 | 67 | Ruth Riley | 637 |
-| 68 | **Odyssey Sims** 🔴 | 631 |
-| 68 | Svetlana Abrosimova | 631 |
+| 68 | **Odyssey Sims** 🔴 +1 | 632 |
+| 69 | Svetlana Abrosimova | 631 |
 | 70 | Kahleah Copper | 625 |
 | 71 | Tiffany Hayes | 624 |
 | 72 | Rebekkah Brunson | 615 |
