@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-05 01:15 UTC_
+_Last updated: 2026-07-05 01:16 UTC_
 
 ## Contents
 
@@ -1439,8 +1439,8 @@ _Last updated: 2026-07-05 01:15 UTC_
 | 184 | Barbara Farris | 315 |
 | 185 | Monique Billings | 314 |
 | 185 | Moriah Jefferson | 314 |
-| 187 | Alex Bentley | 313 |
-| 187 | **Natisha Hiedeman** 🔴 +1 | 313 |
+| 185 | **Natisha Hiedeman** 🔴 +2 | 314 |
+| 188 | Alex Bentley | 313 |
 | 189 | Tamika Raymond | 311 |
 | 190 | Isabelle Harrison | 307 |
 | 191 | Erin Perperoglou | 305 |
