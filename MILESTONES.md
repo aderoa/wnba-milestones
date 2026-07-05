@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-05 01:19 UTC
+
+- **Ezi Magbegor** passed **Brianna Turner** for **#96** all-time in rebounds (career 1,244) — up from #97 entering today — _2:02 - 1st — POR @ SEA_
+
 ## 2026-07-04 19:26 UTC
 
 - **Veronica Burton** passed **Shannon Johnson** for **#196** all-time in blocks (career 68) — up from #197 entering today — _Final — GS @ ATL_

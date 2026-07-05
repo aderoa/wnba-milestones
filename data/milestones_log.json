@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-07-05T01:19:00+00:00",
+    "text": "Ezi Magbegor passed Brianna Turner for #96 all-time in rebounds (career 1,244) \u2014 up from #97 entering today \u2014 (2:02 - 1st \u2014 POR @ SEA)",
+    "kind": "rank_pass",
+    "player": "Ezi Magbegor",
+    "stat": "rebounds",
+    "rank": 96,
+    "passed_players": [
+      "Brianna Turner"
+    ],
+    "new_total": 1244
+  },
+  {
     "ts": "2026-07-04T19:26:00+00:00",
     "text": "Veronica Burton passed Shannon Johnson for #196 all-time in blocks (career 68) \u2014 up from #197 entering today \u2014 (Final \u2014 GS @ ATL)",
     "kind": "rank_pass",
@@ -2972,18 +2984,5 @@
       "Candice Wiggins"
     ],
     "new_total": 1915
-  },
-  {
-    "ts": "2026-06-27T12:06:00+00:00",
-    "text": "Gabby Williams passed Essence Carson and Shakira Austin for #162 all-time in rebounds (career 835) \u2014 up from #164 entering today \u2014 (Final \u2014 ATL @ GS)",
-    "kind": "rank_pass",
-    "player": "Gabby Williams",
-    "stat": "rebounds",
-    "rank": 162,
-    "passed_players": [
-      "Essence Carson",
-      "Shakira Austin"
-    ],
-    "new_total": 835
   }
 ]
