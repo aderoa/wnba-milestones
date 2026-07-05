@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-05 21:03 UTC_
+_Last updated: 2026-07-05 21:04 UTC_
 
 ## Contents
 
@@ -122,7 +122,7 @@ _Last updated: 2026-07-05 21:03 UTC_
 | 101 | Natalie Williams | 2,894 |
 | 102 | Jennifer Gillom | 2,888 |
 | 103 | Iziane Castro Marques | 2,862 |
-| 104 | **Alysha Clark** 🔴 | 2,808 |
+| 104 | **Alysha Clark** 🔴 +3 | 2,811 |
 | 105 | Jantel Lavender | 2,775 |
 | 106 | Brionna Jones | 2,765 |
 | 107 | Dominique Canty | 2,763 |
@@ -157,7 +157,7 @@ _Last updated: 2026-07-05 21:03 UTC_
 | 136 | Betnijah Laney-Hamilton | 2,302 |
 | 137 | Satou Sabally | 2,296 |
 | 138 | Kia Vaughn | 2,288 |
-| 139 | **Kia Nurse** 🔴 +6 | 2,268 |
+| 139 | **Kia Nurse** 🔴 +11 | 2,273 |
 | 140 | Allison Feaster | 2,258 |
 | 141 | Shekinna Stricklen | 2,245 |
 | 142 | Kara Braxton | 2,237 |
@@ -571,7 +571,7 @@ _Last updated: 2026-07-05 21:03 UTC_
 | 139 | Erin Phillips | 462 |
 | 140 | Sylvia Fowles | 461 |
 | 141 | Tyasha Harris | 460 |
-| 142 | **Sug Sutton** 🔴 | 456 |
+| 142 | **Sug Sutton** 🔴 +1 | 457 |
 | 143 | Sydney Colson | 454 |
 | 144 | Yolanda Griffith | 451 |
 | 145 | Elena Delle Donne | 450 |
@@ -1088,7 +1088,7 @@ _Last updated: 2026-07-05 21:03 UTC_
 | 38 | Penny Taylor | 407 |
 | 38 | Riquna Williams | 407 |
 | 40 | Jia Perkins | 396 |
-| 41 | **Alysha Clark** 🔴 | 394 |
+| 41 | **Alysha Clark** 🔴 +1 | 395 |
 | 42 | Rachel Banham | 390 |
 | 43 | Jonquel Jones | 389 |
 | 43 | Roneeka Hodges | 389 |
@@ -1097,8 +1097,8 @@ _Last updated: 2026-07-05 21:03 UTC_
 | 47 | Jasmine Thomas | 376 |
 | 48 | Allison Feaster | 372 |
 | 48 | Betty Lennox | 372 |
-| 50 | Kahleah Copper | 370 |
-| 50 | **Kia Nurse** 🔴 +2 | 370 |
+| 50 | **Kia Nurse** 🔴 +3 | 371 |
+| 51 | Kahleah Copper | 370 |
 | 52 | Epiphanny Prince | 368 |
 | 53 | Nykesha Sales | 352 |
 | 54 | Jackie Young | 346 |
