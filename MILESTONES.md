@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-05 02:18 UTC
+
+- **Katie Lou Samuelson** passed **Bridget Pettis**, **Gabby Williams**, and **Jennifer Gillom** for **#143** all-time in three-pointers (career 154) — up from #146 entering today — _2:47 - 3rd — POR @ SEA_
+
 ## 2026-07-05 01:20 UTC
 
 - **Natisha Hiedeman** passed **Shameka Christon** for **#166** all-time in steals (career 206) — up from #169 entering today — _1:29 - 1st — POR @ SEA_

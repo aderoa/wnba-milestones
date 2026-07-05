@@ -1,5 +1,19 @@
 [
   {
+    "ts": "2026-07-05T02:18:00+00:00",
+    "text": "Katie Lou Samuelson passed Bridget Pettis, Gabby Williams, and Jennifer Gillom for #143 all-time in three-pointers (career 154) \u2014 up from #146 entering today \u2014 (2:47 - 3rd \u2014 POR @ SEA)",
+    "kind": "rank_pass",
+    "player": "Katie Lou Samuelson",
+    "stat": "three-pointers",
+    "rank": 143,
+    "passed_players": [
+      "Bridget Pettis",
+      "Gabby Williams",
+      "Jennifer Gillom"
+    ],
+    "new_total": 154
+  },
+  {
     "ts": "2026-07-05T01:20:00+00:00",
     "text": "Natisha Hiedeman passed Shameka Christon for #166 all-time in steals (career 206) \u2014 up from #169 entering today \u2014 (1:29 - 1st \u2014 POR @ SEA)",
     "kind": "rank_pass",
@@ -2974,14 +2988,5 @@
     "stat": "points",
     "value": 100,
     "new_total": 105
-  },
-  {
-    "ts": "2026-06-27T12:06:00+00:00",
-    "text": "Gabby Williams reached 1,900 career points (now 1,915) \u2014 (Final \u2014 ATL @ GS)",
-    "kind": "round",
-    "player": "Gabby Williams",
-    "stat": "points",
-    "value": 1900,
-    "new_total": 1915
   }
 ]
