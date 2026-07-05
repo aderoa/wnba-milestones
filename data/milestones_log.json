@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-07-05T19:34:00+00:00",
+    "text": "Marina Mabrey passed Tina Thompson for #70 all-time in assists (career 804) \u2014 up from #71 entering today \u2014 (6:32 - 2nd \u2014 DAL @ TOR)",
+    "kind": "rank_pass",
+    "player": "Marina Mabrey",
+    "stat": "assists",
+    "rank": 70,
+    "passed_players": [
+      "Tina Thompson"
+    ],
+    "new_total": 804
+  },
+  {
     "ts": "2026-07-05T19:25:00+00:00",
     "text": "Alysha Clark passed Plenette Pierson and Temeka Johnson for #91 all-time in steals (career 318) \u2014 (41.3 - 1st \u2014 DAL @ TOR)",
     "kind": "rank_pass",
@@ -2970,21 +2982,5 @@
       "Azur\u00e1 Stevens"
     ],
     "new_total": 2365
-  },
-  {
-    "ts": "2026-06-27T12:06:00+00:00",
-    "text": "Jordin Canada passed Amanda Zahui B, Eva Nemcova, Crystal Dangerfield, Leonie Fiebich, and Ticha Penicheiro for #167 all-time in three-pointers (career 131) \u2014 up from #171 entering today \u2014 (Final \u2014 ATL @ GS)",
-    "kind": "rank_pass",
-    "player": "Jordin Canada",
-    "stat": "three-pointers",
-    "rank": 167,
-    "passed_players": [
-      "Amanda Zahui B",
-      "Eva Nemcova",
-      "Crystal Dangerfield",
-      "Leonie Fiebich",
-      "Ticha Penicheiro"
-    ],
-    "new_total": 131
   }
 ]

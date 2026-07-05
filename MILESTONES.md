@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-05 19:34 UTC
+
+- **Marina Mabrey** passed **Tina Thompson** for **#70** all-time in assists (career 804) — up from #71 entering today — _6:32 - 2nd — DAL @ TOR_
+
 ## 2026-07-05 19:25 UTC
 
 - **Alysha Clark** passed **Plenette Pierson** and **Temeka Johnson** for **#91** all-time in steals (career 318) — _41.3 - 1st — DAL @ TOR_
