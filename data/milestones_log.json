@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-07-05T19:23:00+00:00",
+    "text": "Alanna Smith passed Sonja Henning and Tierra Ruffin-Pratt for #175 all-time in steals (career 195) \u2014 (1:25 - 1st \u2014 DAL @ TOR)",
+    "kind": "rank_pass",
+    "player": "Alanna Smith",
+    "stat": "steals",
+    "rank": 175,
+    "passed_players": [
+      "Sonja Henning",
+      "Tierra Ruffin-Pratt"
+    ],
+    "new_total": 195
+  },
+  {
     "ts": "2026-07-05T19:07:00+00:00",
     "text": "Marina Mabrey passed Rushia Brown for #146 all-time in steals (career 222) \u2014 (6:15 - 1st \u2014 DAL @ TOR)",
     "kind": "rank_pass",
@@ -2973,18 +2986,5 @@
       "Maya Moore"
     ],
     "new_total": 531
-  },
-  {
-    "ts": "2026-06-27T12:06:00+00:00",
-    "text": "Rhyne Howard passed Cheyenne Parker-Tyus and Tamera Young for #113 all-time in points (career 2,646) \u2014 up from #115 entering today \u2014 (Final \u2014 ATL @ GS)",
-    "kind": "rank_pass",
-    "player": "Rhyne Howard",
-    "stat": "points",
-    "rank": 113,
-    "passed_players": [
-      "Cheyenne Parker-Tyus",
-      "Tamera Young"
-    ],
-    "new_total": 2646
   }
 ]

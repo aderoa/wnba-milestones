@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-05 19:22 UTC_
+_Last updated: 2026-07-05 19:23 UTC_
 
 ## Contents
 
@@ -86,7 +86,7 @@ _Last updated: 2026-07-05 19:22 UTC_
 | 65 | Jackie Young | 3,698 |
 | 66 | Kara Lawson | 3,670 |
 | 67 | Mwadi Mabika | 3,576 |
-| 68 | **Odyssey Sims** 🔴 | 3,574 |
+| 67 | **Odyssey Sims** 🔴 +2 | 3,576 |
 | 69 | Camille Smith | 3,551 |
 | 70 | Napheesa Collier | 3,542 |
 | 70 | Shannon Johnson | 3,542 |
@@ -351,8 +351,8 @@ _Last updated: 2026-07-05 19:22 UTC_
 | 124 | Tamecka Dixon | 1,035 |
 | 126 | Kamila Vodichkova | 1,031 |
 | 127 | Jasmine Thomas | 1,027 |
-| 128 | **Jessica Shepard** 🔴 +5 | 1,021 |
-| 129 | Sabrina Ionescu | 1,020 |
+| 128 | **Jessica Shepard** 🔴 +4 | 1,020 |
+| 128 | Sabrina Ionescu | 1,020 |
 | 130 | Cathrine Kraayeveld | 1,013 |
 | 131 | Kelly Miller | 1,011 |
 | 131 | Noelle Quinn | 1,011 |
@@ -1015,10 +1015,10 @@ _Last updated: 2026-07-05 19:22 UTC_
 | 167 | Shatori Walker-Kimbrough | 204 |
 | 171 | Adrienne Goodson | 203 |
 | 172 | Allie Quigley | 198 |
+| 173 | **Alanna Smith** 🔴 +1 | 195 |
 | 173 | Layshia Clarendon | 195 |
-| 174 | **Alanna Smith** 🔴 | 194 |
-| 174 | Sonja Henning | 194 |
-| 174 | Tierra Ruffin-Pratt | 194 |
+| 175 | Sonja Henning | 194 |
+| 175 | Tierra Ruffin-Pratt | 194 |
 | 177 | Cynthia Cooper | 192 |
 | 178 | Myisha Hines-Allen | 191 |
 | 179 | **Isabelle Harrison** 🔴 | 190 |
@@ -1442,7 +1442,7 @@ _Last updated: 2026-07-05 19:22 UTC_
 | 187 | Alex Bentley | 313 |
 | 188 | Natisha Hiedeman | 312 |
 | 189 | Tamika Raymond | 311 |
-| 190 | **Isabelle Harrison** 🔴 +1 | 308 |
+| 190 | **Isabelle Harrison** 🔴 +2 | 309 |
 | 191 | Erin Perperoglou | 305 |
 | 191 | Jennifer Lacy | 305 |
 | 193 | Azurá Stevens | 304 |
@@ -1646,8 +1646,8 @@ _Last updated: 2026-07-05 19:22 UTC_
 | 185 | **Kia Nurse** 🔴 | 484 |
 | 187 | Liz Cambage | 483 |
 | 187 | Rhonda Mapp | 483 |
+| 189 | **Alanna Smith** 🔴 +1 | 480 |
 | 189 | Sami Whitcomb | 480 |
-| 190 | **Alanna Smith** 🔴 | 479 |
 | 191 | Seimone Augustus | 477 |
 | 192 | Allie Quigley | 475 |
 | 193 | NaLyssa Smith | 474 |

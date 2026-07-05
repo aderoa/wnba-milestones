@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-05 19:23 UTC
+
+- **Alanna Smith** passed **Sonja Henning** and **Tierra Ruffin-Pratt** for **#175** all-time in steals (career 195) — _1:25 - 1st — DAL @ TOR_
+
 ## 2026-07-05 19:07 UTC
 
 - **Marina Mabrey** passed **Rushia Brown** for **#146** all-time in steals (career 222) — _6:15 - 1st — DAL @ TOR_
