@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-05 20:49 UTC
+
+- **Marina Mabrey** passed **Ashley Robinson** for **#134** all-time in fouls (career 568) — up from #135 entering today — _5:38 - 4th — DAL @ TOR_
+
 ## 2026-07-05 20:43 UTC
 
 - **Odyssey Sims** passed **Svetlana Abrosimova** for **#119** all-time in fouls (career 614) — up from #120 entering today — _6:36 - 4th — DAL @ TOR_
