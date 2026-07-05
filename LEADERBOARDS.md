@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-05 23:08 UTC_
+_Last updated: 2026-07-05 23:09 UTC_
 
 ## Contents
 
@@ -45,7 +45,7 @@ _Last updated: 2026-07-05 23:08 UTC_
 | 24 | DeLisha Milton-Jones | 5,571 |
 | 25 | Katie Douglas | 5,545 |
 | 26 | Lindsay Whalen | 5,511 |
-| 27 | **Kelsey Mitchell** 🔴 | 5,198 |
+| 27 | **Kelsey Mitchell** 🔴 +2 | 5,200 |
 | 28 | Swin Cash | 5,119 |
 | 29 | Tiffany Hayes | 5,049 |
 | 30 | Tangela Smith | 5,035 |
@@ -569,8 +569,8 @@ _Last updated: 2026-07-05 23:08 UTC_
 | 137 | Ukari Figgs | 470 |
 | 138 | Janeth Arcain | 469 |
 | 139 | Erin Phillips | 462 |
-| 140 | Sylvia Fowles | 461 |
-| 140 | **Tyasha Harris** 🔴 +1 | 461 |
+| 139 | **Tyasha Harris** 🔴 +2 | 462 |
+| 141 | Sylvia Fowles | 461 |
 | 142 | Sug Sutton | 457 |
 | 143 | Sydney Colson | 454 |
 | 144 | Yolanda Griffith | 451 |
@@ -1284,7 +1284,7 @@ _Last updated: 2026-07-05 23:08 UTC_
 | 29 | Nneka Ogwumike | 803 |
 | 30 | Betty Lennox | 800 |
 | 31 | Jasmine Thomas | 796 |
-| 32 | **Jewell Loyd** 🔴 | 795 |
+| 31 | **Jewell Loyd** 🔴 +1 | 796 |
 | 33 | Chamique Holdsclaw | 789 |
 | 34 | Crystal Langhorne | 782 |
 | 35 | Camille Smith | 779 |
@@ -1382,7 +1382,7 @@ _Last updated: 2026-07-05 23:08 UTC_
 | 127 | Alysha Clark | 444 |
 | 127 | Elena Baranova | 444 |
 | 127 | Jantel Lavender | 444 |
-| 130 | **Cheyenne Parker-Tyus** 🔴 | 441 |
+| 130 | **Cheyenne Parker-Tyus** 🔴 +1 | 442 |
 | 131 | Ann Wauters | 440 |
 | 132 | Tiffany Mitchell | 439 |
 | 133 | Kedra Holland-Corn | 438 |
@@ -1548,10 +1548,10 @@ _Last updated: 2026-07-05 23:08 UTC_
 | 88 | Katie Douglas | 697 |
 | 89 | Danielle Robinson | 692 |
 | 90 | Sophia Young-Malcolm | 687 |
+| 91 | **Cheyenne Parker-Tyus** 🔴 +1 | 686 |
 | 91 | Maya Moore | 686 |
-| 92 | Breanna Stewart | 685 |
-| 92 | **Cheyenne Parker-Tyus** 🔴 | 685 |
-| 92 | Jasmine Thomas | 685 |
+| 93 | Breanna Stewart | 685 |
+| 93 | Jasmine Thomas | 685 |
 | 95 | **Jewell Loyd** 🔴 | 684 |
 | 95 | Leilani Mitchell | 684 |
 | 97 | Crystal Robinson | 682 |
