@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-05 02:11 UTC_
+_Last updated: 2026-07-05 02:12 UTC_
 
 ## Contents
 
@@ -181,7 +181,7 @@ _Last updated: 2026-07-05 02:11 UTC_
 | 160 | Diamond DeShields | 2,026 |
 | 161 | Vicky Bullett | 2,018 |
 | 162 | **Natisha Hiedeman** 🔴 +12 | 2,014 |
-| 163 | **Ezi Magbegor** 🔴 +2 | 1,997 |
+| 163 | **Ezi Magbegor** 🔴 +4 | 1,999 |
 | 164 | Bria Hartley | 1,967 |
 | 165 | Chiney Ogwumike | 1,964 |
 | 166 | Nicole Ohlde | 1,959 |
@@ -319,7 +319,7 @@ _Last updated: 2026-07-05 02:11 UTC_
 | 93 | Chelsea Gray | 1,257 |
 | 93 | Tiffany Hayes | 1,257 |
 | 95 | Kayla McBride | 1,256 |
-| 96 | **Ezi Magbegor** 🔴 +3 | 1,246 |
+| 96 | **Ezi Magbegor** 🔴 +5 | 1,248 |
 | 97 | Brianna Turner | 1,243 |
 | 98 | Seimone Augustus | 1,228 |
 | 99 | Jia Perkins | 1,220 |
@@ -657,7 +657,7 @@ _Last updated: 2026-07-05 02:11 UTC_
 | 19 | Natasha Howard | 370 |
 | 21 | Jessica Breland | 367 |
 | 22 | DeWanna Bonner | 358 |
-| 23 | **Ezi Magbegor** 🔴 +1 | 355 |
+| 23 | **Ezi Magbegor** 🔴 +2 | 356 |
 | 24 | Kiah Stokes | 354 |
 | 25 | Diana Taurasi | 349 |
 | 25 | Elena Delle Donne | 349 |
@@ -1436,8 +1436,8 @@ _Last updated: 2026-07-05 02:11 UTC_
 | 181 | Le'coe Willingham | 325 |
 | 182 | Olympia Scott | 324 |
 | 183 | Kia Nurse | 320 |
-| 184 | Barbara Farris | 315 |
-| 184 | **Natisha Hiedeman** 🔴 +3 | 315 |
+| 184 | **Natisha Hiedeman** 🔴 +4 | 316 |
+| 185 | Barbara Farris | 315 |
 | 186 | Monique Billings | 314 |
 | 186 | Moriah Jefferson | 314 |
 | 188 | Alex Bentley | 313 |
