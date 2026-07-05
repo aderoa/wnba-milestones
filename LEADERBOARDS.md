@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-05 03:03 UTC_
+_Last updated: 2026-07-05 03:04 UTC_
 
 ## Contents
 
@@ -516,7 +516,7 @@ _Last updated: 2026-07-05 03:03 UTC_
 | 84 | Ariel Atkins | 682 |
 | 85 | Emma Meesseman | 681 |
 | 86 | Nykesha Sales | 677 |
-| 87 | **Natisha Hiedeman** 🔴 +3 | 671 |
+| 87 | **Natisha Hiedeman** 🔴 +4 | 672 |
 | 88 | A'ja Wilson | 667 |
 | 89 | Bria Hartley | 661 |
 | 90 | Brittney Griner | 660 |
@@ -1004,10 +1004,10 @@ _Last updated: 2026-07-05 03:03 UTC_
 | 159 | Nikki Teasley | 211 |
 | 160 | Azurá Stevens | 210 |
 | 161 | Iziane Castro Marques | 209 |
-| 161 | **Natisha Hiedeman** 🔴 +5 | 209 |
 | 161 | Tiffany Mitchell | 209 |
-| 164 | Kia Vaughn | 208 |
-| 164 | Sophia Witherspoon | 208 |
+| 163 | Kia Vaughn | 208 |
+| 163 | **Natisha Hiedeman** 🔴 +4 | 208 |
+| 163 | Sophia Witherspoon | 208 |
 | 166 | Betnijah Laney-Hamilton | 207 |
 | 167 | Shameka Christon | 205 |
 | 168 | Jessica Breland | 204 |
