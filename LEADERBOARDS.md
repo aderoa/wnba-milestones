@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-05 19:24 UTC_
+_Last updated: 2026-07-05 19:25 UTC_
 
 ## Contents
 
@@ -932,9 +932,9 @@ _Last updated: 2026-07-05 19:24 UTC_
 | 87 | Napheesa Collier | 325 |
 | 88 | Betty Lennox | 323 |
 | 89 | Tammy Sutton-Brown | 319 |
-| 90 | **Alysha Clark** 🔴 | 317 |
-| 90 | Plenette Pierson | 317 |
-| 90 | Temeka Johnson | 317 |
+| 90 | **Alysha Clark** 🔴 +1 | 318 |
+| 91 | Plenette Pierson | 317 |
+| 91 | Temeka Johnson | 317 |
 | 93 | Debbie Black | 315 |
 | 94 | Crystal Langhorne | 314 |
 | 95 | Ebony Hoffman | 308 |
@@ -1623,10 +1623,10 @@ _Last updated: 2026-07-05 19:24 UTC_
 | 162 | Janeth Arcain | 512 |
 | 164 | Andrea Stinson | 511 |
 | 165 | Vicky Bullett | 507 |
+| 166 | **Isabelle Harrison** 🔴 +1 | 506 |
 | 166 | Merlakia Jones | 506 |
-| 167 | **Isabelle Harrison** 🔴 | 505 |
-| 167 | Rushia Brown | 505 |
-| 167 | Shekinna Stricklen | 505 |
+| 168 | Rushia Brown | 505 |
+| 168 | Shekinna Stricklen | 505 |
 | 170 | Allison Feaster | 504 |
 | 170 | Erin Perperoglou | 504 |
 | 170 | Napheesa Collier | 504 |

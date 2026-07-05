@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-07-05T19:25:00+00:00",
+    "text": "Alysha Clark passed Plenette Pierson and Temeka Johnson for #91 all-time in steals (career 318) \u2014 (41.3 - 1st \u2014 DAL @ TOR)",
+    "kind": "rank_pass",
+    "player": "Alysha Clark",
+    "stat": "steals",
+    "rank": 91,
+    "passed_players": [
+      "Plenette Pierson",
+      "Temeka Johnson"
+    ],
+    "new_total": 318
+  },
+  {
     "ts": "2026-07-05T19:23:00+00:00",
     "text": "Alanna Smith passed Sonja Henning and Tierra Ruffin-Pratt for #175 all-time in steals (career 195) \u2014 (1:25 - 1st \u2014 DAL @ TOR)",
     "kind": "rank_pass",
@@ -2973,18 +2986,5 @@
       "Ticha Penicheiro"
     ],
     "new_total": 131
-  },
-  {
-    "ts": "2026-06-27T12:06:00+00:00",
-    "text": "Jordin Canada passed Arike Ogunbowale and Maya Moore for #99 all-time in turnovers (career 531) \u2014 up from #100 entering today \u2014 (Final \u2014 ATL @ GS)",
-    "kind": "rank_pass",
-    "player": "Jordin Canada",
-    "stat": "turnovers",
-    "rank": 99,
-    "passed_players": [
-      "Arike Ogunbowale",
-      "Maya Moore"
-    ],
-    "new_total": 531
   }
 ]
