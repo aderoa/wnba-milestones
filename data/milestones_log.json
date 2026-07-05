@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-07-05T20:43:00+00:00",
+    "text": "Odyssey Sims passed Svetlana Abrosimova for #119 all-time in fouls (career 614) \u2014 up from #120 entering today \u2014 (6:36 - 4th \u2014 DAL @ TOR)",
+    "kind": "rank_pass",
+    "player": "Odyssey Sims",
+    "stat": "fouls",
+    "rank": 119,
+    "passed_players": [
+      "Svetlana Abrosimova"
+    ],
+    "new_total": 614
+  },
+  {
     "ts": "2026-07-05T20:23:00+00:00",
     "text": "Awak Kuier passed Charlotte Smith, Cintia dos Santos, and Jessie Hicks for #161 all-time in blocks (career 82) \u2014 up from #164 entering today \u2014 (5:32 - 3rd \u2014 DAL @ TOR)",
     "kind": "rank_pass",
@@ -2973,17 +2985,5 @@
       "Tamecka Dixon"
     ],
     "new_total": 356
-  },
-  {
-    "ts": "2026-06-27T12:06:00+00:00",
-    "text": "Natasha Cloud passed Sue Bird for #65 all-time in fouls (career 776) \u2014 up from #66 entering today \u2014 (Final \u2014 POR @ CHI)",
-    "kind": "rank_pass",
-    "player": "Natasha Cloud",
-    "stat": "fouls",
-    "rank": 65,
-    "passed_players": [
-      "Sue Bird"
-    ],
-    "new_total": 776
   }
 ]
