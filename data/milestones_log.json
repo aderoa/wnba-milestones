@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-07-05T19:07:00+00:00",
+    "text": "Marina Mabrey passed Rushia Brown for #146 all-time in steals (career 222) \u2014 (6:15 - 1st \u2014 DAL @ TOR)",
+    "kind": "rank_pass",
+    "player": "Marina Mabrey",
+    "stat": "steals",
+    "rank": 146,
+    "passed_players": [
+      "Rushia Brown"
+    ],
+    "new_total": 222
+  },
+  {
     "ts": "2026-07-05T02:42:00+00:00",
     "text": "Natisha Hiedeman passed Kia Vaughn and Sophia Witherspoon for #163 all-time in steals (career 209) \u2014 up from #169 entering today \u2014 (3:17 - 4th \u2014 POR @ SEA)",
     "kind": "rank_pass",
@@ -2974,14 +2986,5 @@
       "Tamera Young"
     ],
     "new_total": 2646
-  },
-  {
-    "ts": "2026-06-27T12:06:00+00:00",
-    "text": "Rhyne Howard reached 700 career rebounds (now 700) \u2014 (Final \u2014 ATL @ GS)",
-    "kind": "round",
-    "player": "Rhyne Howard",
-    "stat": "rebounds",
-    "value": 700,
-    "new_total": 700
   }
 ]
