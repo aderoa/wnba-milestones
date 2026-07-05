@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-05 02:42 UTC
+
+- **Natisha Hiedeman** passed **Kia Vaughn** and **Sophia Witherspoon** for **#163** all-time in steals (career 209) — up from #169 entering today — _3:17 - 4th — POR @ SEA_
+
 ## 2026-07-05 02:40 UTC
 
 - **Natisha Hiedeman** passed **Betnijah Laney-Hamilton** for **#165** all-time in steals (career 208) — up from #169 entering today — _4:32 - 4th — POR @ SEA_

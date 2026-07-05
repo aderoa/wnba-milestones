@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-05 02:41 UTC_
+_Last updated: 2026-07-05 02:42 UTC_
 
 ## Contents
 
@@ -180,7 +180,7 @@ _Last updated: 2026-07-05 02:41 UTC_
 | 159 | Coco Miller | 2,030 |
 | 160 | Diamond DeShields | 2,026 |
 | 161 | Vicky Bullett | 2,018 |
-| 162 | **Natisha Hiedeman** 🔴 +12 | 2,014 |
+| 162 | **Natisha Hiedeman** 🔴 +15 | 2,017 |
 | 163 | **Ezi Magbegor** 🔴 +4 | 1,999 |
 | 164 | Bria Hartley | 1,967 |
 | 165 | Chiney Ogwumike | 1,964 |
@@ -1004,10 +1004,10 @@ _Last updated: 2026-07-05 02:41 UTC_
 | 159 | Nikki Teasley | 211 |
 | 160 | Azurá Stevens | 210 |
 | 161 | Iziane Castro Marques | 209 |
+| 161 | **Natisha Hiedeman** 🔴 +5 | 209 |
 | 161 | Tiffany Mitchell | 209 |
-| 163 | Kia Vaughn | 208 |
-| 163 | **Natisha Hiedeman** 🔴 +4 | 208 |
-| 163 | Sophia Witherspoon | 208 |
+| 164 | Kia Vaughn | 208 |
+| 164 | Sophia Witherspoon | 208 |
 | 166 | Betnijah Laney-Hamilton | 207 |
 | 167 | Shameka Christon | 205 |
 | 168 | Jessica Breland | 204 |
@@ -1110,7 +1110,7 @@ _Last updated: 2026-07-05 02:41 UTC_
 | 60 | Erica Wheeler | 337 |
 | 61 | Anna DeForge | 334 |
 | 61 | Sophie Cunningham | 334 |
-| 63 | **Natisha Hiedeman** 🔴 +1 | 329 |
+| 63 | **Natisha Hiedeman** 🔴 +2 | 330 |
 | 64 | Sugar Rodgers | 317 |
 | 65 | Marissa Coleman | 315 |
 | 66 | Shannon Johnson | 313 |
