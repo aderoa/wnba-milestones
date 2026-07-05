@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-07-05T23:24:00+00:00",
+    "text": "Stephanie Talbot passed Dana Evans and Jennifer Lacy for #136 all-time in three-pointers (career 161) \u2014 up from #138 entering today \u2014 (31.3 - 1st \u2014 IND @ LV)",
+    "kind": "rank_pass",
+    "player": "Stephanie Talbot",
+    "stat": "three-pointers",
+    "rank": 136,
+    "passed_players": [
+      "Dana Evans",
+      "Jennifer Lacy"
+    ],
+    "new_total": 161
+  },
+  {
     "ts": "2026-07-05T21:07:00+00:00",
     "text": "Alysha Clark passed Allie Quigley for #145 all-time in blocks (career 91) \u2014 up from #146 entering today \u2014 (End of 4th \u2014 DAL @ TOR)",
     "kind": "rank_pass",
@@ -2974,17 +2987,5 @@
       "Becky Hammon"
     ],
     "new_total": 734
-  },
-  {
-    "ts": "2026-06-27T12:06:00+00:00",
-    "text": "Courtney Vandersloot passed Kara Braxton for #74 all-time in rebounds (career 1,389) \u2014 up from #75 entering today \u2014 (Final \u2014 POR @ CHI)",
-    "kind": "rank_pass",
-    "player": "Courtney Vandersloot",
-    "stat": "rebounds",
-    "rank": 74,
-    "passed_players": [
-      "Kara Braxton"
-    ],
-    "new_total": 1389
   }
 ]

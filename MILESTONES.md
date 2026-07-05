@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-05 23:24 UTC
+
+- **Stephanie Talbot** passed **Dana Evans** and **Jennifer Lacy** for **#136** all-time in three-pointers (career 161) — up from #138 entering today — _31.3 - 1st — IND @ LV_
+
 ## 2026-07-05 21:07 UTC
 
 - **Alysha Clark** passed **Allie Quigley** for **#145** all-time in blocks (career 91) — up from #146 entering today — _End of 4th — DAL @ TOR_
