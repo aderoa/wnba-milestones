@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-05 20:50 UTC_
+_Last updated: 2026-07-05 20:51 UTC_
 
 ## Contents
 
@@ -54,7 +54,7 @@ _Last updated: 2026-07-05 20:50 UTC_
 | 33 | Sheryl Swoopes | 4,875 |
 | 34 | Alyssa Thomas | 4,752 |
 | 35 | Alana Beard | 4,740 |
-| 36 | **Arike Ogunbowale** 🔴 +7 | 4,722 |
+| 36 | **Arike Ogunbowale** 🔴 +9 | 4,724 |
 | 37 | Chamique Holdsclaw | 4,713 |
 | 38 | Elena Delle Donne | 4,706 |
 | 39 | Natasha Howard | 4,682 |
@@ -1641,8 +1641,8 @@ _Last updated: 2026-07-05 20:50 UTC_
 | 181 | Ann Wauters | 493 |
 | 181 | Riquna Williams | 493 |
 | 183 | Charde Houston | 487 |
+| 184 | **Kia Nurse** 🔴 +2 | 486 |
 | 184 | Lindsey Harding | 486 |
-| 185 | **Kia Nurse** 🔴 +1 | 485 |
 | 186 | Cathrine Kraayeveld | 484 |
 | 187 | Liz Cambage | 483 |
 | 187 | Rhonda Mapp | 483 |
