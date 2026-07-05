@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-07-05T02:40:00+00:00",
+    "text": "Natisha Hiedeman passed Betnijah Laney-Hamilton for #165 all-time in steals (career 208) \u2014 up from #169 entering today \u2014 (4:32 - 4th \u2014 POR @ SEA)",
+    "kind": "rank_pass",
+    "player": "Natisha Hiedeman",
+    "stat": "steals",
+    "rank": 165,
+    "passed_players": [
+      "Betnijah Laney-Hamilton"
+    ],
+    "new_total": 208
+  },
+  {
     "ts": "2026-07-05T02:24:00+00:00",
     "text": "Katie Lou Samuelson reached 100 career steals (now 100) \u2014 (End of 3rd \u2014 POR @ SEA)",
     "kind": "round",
@@ -2973,20 +2985,5 @@
       "Tari Phillips"
     ],
     "new_total": 112
-  },
-  {
-    "ts": "2026-06-27T12:06:00+00:00",
-    "text": "Rhyne Howard passed Noelle Quinn, Elaine Powell, Loree Moore, and Ruthie Bolton for #121 all-time in steals (career 257) \u2014 up from #124 entering today \u2014 (Final \u2014 ATL @ GS)",
-    "kind": "rank_pass",
-    "player": "Rhyne Howard",
-    "stat": "steals",
-    "rank": 121,
-    "passed_players": [
-      "Noelle Quinn",
-      "Elaine Powell",
-      "Loree Moore",
-      "Ruthie Bolton"
-    ],
-    "new_total": 257
   }
 ]
