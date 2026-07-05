@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-05 19:45 UTC_
+_Last updated: 2026-07-05 19:46 UTC_
 
 ## Contents
 
@@ -54,7 +54,7 @@ _Last updated: 2026-07-05 19:45 UTC_
 | 33 | Sheryl Swoopes | 4,875 |
 | 34 | Alyssa Thomas | 4,752 |
 | 35 | Alana Beard | 4,740 |
-| 36 | **Arike Ogunbowale** 🔴 +3 | 4,718 |
+| 36 | **Arike Ogunbowale** 🔴 +5 | 4,720 |
 | 37 | Chamique Holdsclaw | 4,713 |
 | 38 | Elena Delle Donne | 4,706 |
 | 39 | Natasha Howard | 4,682 |
@@ -104,7 +104,7 @@ _Last updated: 2026-07-05 19:45 UTC_
 | 83 | Sheri Sam | 3,353 |
 | 84 | Andrea Stinson | 3,351 |
 | 85 | Tanisha Wright | 3,324 |
-| 86 | **Marina Mabrey** 🔴 +10 | 3,259 |
+| 86 | **Marina Mabrey** 🔴 +12 | 3,261 |
 | 87 | Stefanie Dolson | 3,217 |
 | 88 | Margo Dydek | 3,214 |
 | 89 | Erica Wheeler | 3,195 |
@@ -401,9 +401,9 @@ _Last updated: 2026-07-05 19:45 UTC_
 | 175 | Rhonda Mapp | 788 |
 | 176 | Mercedes Russell | 786 |
 | 177 | **Odyssey Sims** 🔴 | 785 |
+| 178 | **Arike Ogunbowale** 🔴 +5 | 780 |
 | 178 | Sue Wicks | 780 |
-| 179 | **Arike Ogunbowale** 🔴 +4 | 779 |
-| 179 | Lindsey Harding | 779 |
+| 180 | Lindsey Harding | 779 |
 | 181 | Tiffani Johnson | 778 |
 | 182 | Teresa Weatherspoon | 775 |
 | 183 | Anna DeForge | 769 |
