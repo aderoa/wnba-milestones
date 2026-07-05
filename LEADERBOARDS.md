@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-05 23:12 UTC_
+_Last updated: 2026-07-05 23:13 UTC_
 
 ## Contents
 
@@ -58,7 +58,7 @@ _Last updated: 2026-07-05 23:12 UTC_
 | 37 | Chamique Holdsclaw | 4,713 |
 | 38 | Elena Delle Donne | 4,706 |
 | 39 | Natasha Howard | 4,682 |
-| 40 | **Chelsea Gray** 🔴 | 4,625 |
+| 40 | **Chelsea Gray** 🔴 +2 | 4,627 |
 | 41 | Penny Taylor | 4,595 |
 | 42 | Kelsey Plum | 4,494 |
 | 43 | Allisha Gray | 4,491 |
@@ -329,7 +329,7 @@ _Last updated: 2026-07-05 23:12 UTC_
 | 103 | Latasha Byears | 1,190 |
 | 103 | Tanisha Wright | 1,190 |
 | 105 | Vicky Bullett | 1,189 |
-| 106 | **NaLyssa Smith** 🔴 +2 | 1,174 |
+| 106 | **NaLyssa Smith** 🔴 +3 | 1,175 |
 | 107 | Brittney Sykes | 1,162 |
 | 108 | Nykesha Sales | 1,148 |
 | 109 | Shannon Johnson | 1,143 |
@@ -676,7 +676,7 @@ _Last updated: 2026-07-05 23:12 UTC_
 | 39 | Napheesa Collier | 239 |
 | 40 | Emma Meesseman | 238 |
 | 41 | Azurá Stevens | 236 |
-| 42 | **Brianna Turner** 🔴 | 234 |
+| 42 | **Brianna Turner** 🔴 +1 | 235 |
 | 43 | Skylar Diggins | 231 |
 | 44 | Chasity Melvin | 228 |
 | 45 | Alanna Smith | 226 |
@@ -1375,7 +1375,7 @@ _Last updated: 2026-07-05 23:12 UTC_
 | 120 | Elaine Powell | 469 |
 | 121 | Allie Quigley | 467 |
 | 122 | Ariel Atkins | 465 |
-| 123 | **Jackie Young** 🔴 +1 | 464 |
+| 122 | **Jackie Young** 🔴 +2 | 465 |
 | 124 | Betnijah Laney-Hamilton | 456 |
 | 125 | Kia Vaughn | 454 |
 | 126 | Janeth Arcain | 453 |
@@ -1600,7 +1600,7 @@ _Last updated: 2026-07-05 23:12 UTC_
 | 140 | Dawn Staley | 551 |
 | 141 | Glory Johnson | 550 |
 | 141 | Tierra Ruffin-Pratt | 550 |
-| 143 | **Jackie Young** 🔴 | 548 |
+| 143 | **Jackie Young** 🔴 +1 | 549 |
 | 144 | **Monique Billings** 🔴 +1 | 547 |
 | 145 | Erlana Larkins | 546 |
 | 146 | Jayne Appel Marinelli | 543 |
