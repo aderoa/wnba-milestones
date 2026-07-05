@@ -1,5 +1,14 @@
 [
   {
+    "ts": "2026-07-05T02:24:00+00:00",
+    "text": "Katie Lou Samuelson reached 100 career steals (now 100) \u2014 (End of 3rd \u2014 POR @ SEA)",
+    "kind": "round",
+    "player": "Katie Lou Samuelson",
+    "stat": "steals",
+    "value": 100,
+    "new_total": 100
+  },
+  {
     "ts": "2026-07-05T02:18:00+00:00",
     "text": "Katie Lou Samuelson passed Bridget Pettis, Gabby Williams, and Jennifer Gillom for #143 all-time in three-pointers (career 154) \u2014 up from #146 entering today \u2014 (2:47 - 3rd \u2014 POR @ SEA)",
     "kind": "rank_pass",
@@ -2979,14 +2988,5 @@
       "Ruthie Bolton"
     ],
     "new_total": 257
-  },
-  {
-    "ts": "2026-06-27T12:06:00+00:00",
-    "text": "Madina Okot reached 100 career points (now 105) \u2014 (Final \u2014 ATL @ GS)",
-    "kind": "round",
-    "player": "Madina Okot",
-    "stat": "points",
-    "value": 100,
-    "new_total": 105
   }
 ]
