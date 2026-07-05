@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-07-05T19:54:00+00:00",
+    "text": "Isabelle Harrison passed Jennifer Gillom and Jia Perkins for #126 all-time in blocks (career 104) \u2014 up from #128 entering today \u2014 (2:04 - 2nd \u2014 DAL @ TOR)",
+    "kind": "rank_pass",
+    "player": "Isabelle Harrison",
+    "stat": "blocks",
+    "rank": 126,
+    "passed_players": [
+      "Jennifer Gillom",
+      "Jia Perkins"
+    ],
+    "new_total": 104
+  },
+  {
     "ts": "2026-07-05T19:46:00+00:00",
     "text": "Arike Ogunbowale passed Lindsey Harding for #179 all-time in rebounds (career 780) \u2014 up from #181 entering today \u2014 (4:45 - 2nd \u2014 DAL @ TOR)",
     "kind": "rank_pass",
@@ -2967,18 +2980,6 @@
     "player": "Allisha Gray",
     "stat": "points",
     "value": 4500,
-    "new_total": 4505
-  },
-  {
-    "ts": "2026-06-27T12:06:00+00:00",
-    "text": "Allisha Gray passed Kelsey Plum for #42 all-time in points (career 4,505) \u2014 up from #43 entering today \u2014 (Final \u2014 ATL @ GS)",
-    "kind": "rank_pass",
-    "player": "Allisha Gray",
-    "stat": "points",
-    "rank": 42,
-    "passed_players": [
-      "Kelsey Plum"
-    ],
     "new_total": 4505
   }
 ]

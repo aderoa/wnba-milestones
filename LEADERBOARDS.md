@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-05 19:53 UTC_
+_Last updated: 2026-07-05 19:54 UTC_
 
 ## Contents
 
@@ -759,10 +759,10 @@ _Last updated: 2026-07-05 19:53 UTC_
 | 122 | Dearica Hamby | 106 |
 | 122 | Sylvia Crawley | 106 |
 | 124 | Carolyn Swords | 104 |
+| 124 | **Isabelle Harrison** 🔴 +2 | 104 |
 | 124 | Rebecca Lobo | 104 |
-| 126 | **Isabelle Harrison** 🔴 +1 | 103 |
-| 126 | Jennifer Gillom | 103 |
-| 126 | Jia Perkins | 103 |
+| 127 | Jennifer Gillom | 103 |
+| 127 | Jia Perkins | 103 |
 | 129 | Theresa Plaisance | 102 |
 | 130 | Deanna Nolan | 101 |
 | 131 | Chante Black | 100 |
@@ -1577,7 +1577,7 @@ _Last updated: 2026-07-05 19:53 UTC_
 | 117 | Coco Miller | 615 |
 | 118 | Brooke Wyckoff | 614 |
 | 119 | Svetlana Abrosimova | 613 |
-| 120 | **Odyssey Sims** 🔴 +1 | 611 |
+| 120 | **Odyssey Sims** 🔴 +2 | 612 |
 | 121 | Layshia Clarendon | 609 |
 | 122 | **Arike Ogunbowale** 🔴 +1 | 605 |
 | 123 | Tiffany Mitchell | 604 |
