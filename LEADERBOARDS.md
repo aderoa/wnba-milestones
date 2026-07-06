@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-06 00:14 UTC_
+_Last updated: 2026-07-06 00:15 UTC_
 
 ## Contents
 
@@ -315,7 +315,7 @@ _Last updated: 2026-07-06 00:14 UTC_
 | 89 | Tari Phillips | 1,274 |
 | 90 | **Myisha Hines-Allen** 🔴 | 1,265 |
 | 91 | Janel McCarville | 1,261 |
-| 92 | **Chelsea Gray** 🔴 +2 | 1,259 |
+| 92 | **Chelsea Gray** 🔴 +3 | 1,260 |
 | 93 | Liz Cambage | 1,258 |
 | 94 | Tiffany Hayes | 1,257 |
 | 95 | Kayla McBride | 1,256 |
@@ -323,13 +323,13 @@ _Last updated: 2026-07-06 00:14 UTC_
 | 97 | Ezi Magbegor | 1,243 |
 | 98 | Seimone Augustus | 1,228 |
 | 99 | Jia Perkins | 1,220 |
-| 100 | **Aliyah Boston** 🔴 +7 | 1,205 |
+| 100 | **Aliyah Boston** 🔴 +8 | 1,206 |
 | 101 | Kahleah Copper | 1,204 |
 | 102 | DeMya Walker | 1,199 |
 | 103 | Latasha Byears | 1,190 |
 | 103 | Tanisha Wright | 1,190 |
 | 105 | Vicky Bullett | 1,189 |
-| 106 | **NaLyssa Smith** 🔴 +4 | 1,176 |
+| 106 | **NaLyssa Smith** 🔴 +5 | 1,177 |
 | 107 | Brittney Sykes | 1,162 |
 | 108 | Nykesha Sales | 1,148 |
 | 109 | Shannon Johnson | 1,143 |
@@ -1374,7 +1374,7 @@ _Last updated: 2026-07-06 00:14 UTC_
 | 119 | Ebony Hoffman | 470 |
 | 120 | Elaine Powell | 469 |
 | 121 | Allie Quigley | 467 |
-| 122 | **Jackie Young** 🔴 +3 | 466 |
+| 121 | **Jackie Young** 🔴 +4 | 467 |
 | 123 | Ariel Atkins | 465 |
 | 124 | Betnijah Laney-Hamilton | 456 |
 | 125 | Kia Vaughn | 454 |
