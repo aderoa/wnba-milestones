@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-06 23:33 UTC_
+_Last updated: 2026-07-06 23:34 UTC_
 
 ## Contents
 
@@ -386,7 +386,7 @@ _Last updated: 2026-07-06 23:33 UTC_
 | 160 | Naz Hillmon | 859 |
 | 161 | Leilani Mitchell | 845 |
 | 162 | Essence Carson | 833 |
-| 163 | **Shakira Austin** 🔴 | 832 |
+| 162 | **Shakira Austin** 🔴 +1 | 833 |
 | 164 | **Gabby Williams** 🔴 | 831 |
 | 165 | Kristi Toliver | 829 |
 | 166 | Marie Ferdinand-Harris | 828 |
@@ -538,7 +538,7 @@ _Last updated: 2026-07-06 23:33 UTC_
 | 106 | Betnijah Laney-Hamilton | 590 |
 | 106 | Camille Smith | 590 |
 | 108 | Armintie Herrington | 589 |
-| 109 | **Veronica Burton** 🔴 | 579 |
+| 109 | **Veronica Burton** 🔴 +1 | 580 |
 | 110 | Tan White | 578 |
 | 111 | Matee Ajavon | 577 |
 | 112 | Napheesa Collier | 570 |
@@ -928,7 +928,7 @@ _Last updated: 2026-07-06 23:33 UTC_
 | 83 | Courtney Williams | 329 |
 | 83 | Kristi Toliver | 329 |
 | 85 | Matee Ajavon | 328 |
-| 86 | **Gabby Williams** 🔴 | 326 |
+| 86 | **Gabby Williams** 🔴 +1 | 327 |
 | 87 | Napheesa Collier | 325 |
 | 88 | Betty Lennox | 323 |
 | 89 | Tammy Sutton-Brown | 319 |
