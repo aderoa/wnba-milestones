@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-06 00:47 UTC_
+_Last updated: 2026-07-06 00:48 UTC_
 
 ## Contents
 
@@ -197,7 +197,7 @@ _Last updated: 2026-07-06 00:47 UTC_
 | 176 | Ebony Hoffman | 1,909 |
 | 177 | Candice Wiggins | 1,901 |
 | 178 | Gabby Williams | 1,899 |
-| 179 | **NaLyssa Smith** 🔴 +6 | 1,885 |
+| 179 | **NaLyssa Smith** 🔴 +7 | 1,886 |
 | 180 | Rachel Banham | 1,843 |
 | 181 | Damiris Dantas | 1,842 |
 | 182 | **Sophie Cunningham** 🔴 +6 | 1,835 |
@@ -313,7 +313,7 @@ _Last updated: 2026-07-06 00:47 UTC_
 | 87 | Azurá Stevens | 1,319 |
 | 88 | Betty Lennox | 1,296 |
 | 89 | Tari Phillips | 1,274 |
-| 90 | **Myisha Hines-Allen** 🔴 +1 | 1,266 |
+| 90 | **Myisha Hines-Allen** 🔴 +2 | 1,267 |
 | 91 | **Chelsea Gray** 🔴 +4 | 1,261 |
 | 91 | Janel McCarville | 1,261 |
 | 93 | Liz Cambage | 1,258 |
@@ -1608,7 +1608,7 @@ _Last updated: 2026-07-06 00:47 UTC_
 | 146 | Renee Montgomery | 543 |
 | 149 | Marissa Coleman | 541 |
 | 150 | **Sophie Cunningham** 🔴 +2 | 540 |
-| 151 | **Myisha Hines-Allen** 🔴 +1 | 536 |
+| 151 | **Myisha Hines-Allen** 🔴 +2 | 537 |
 | 152 | Damiris Dantas | 533 |
 | 152 | Kristen Rasmussen | 533 |
 | 154 | Amanda Zahui B | 530 |
