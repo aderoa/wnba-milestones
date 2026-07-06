@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-07-06T00:39:00+00:00",
+    "text": "Jewell Loyd passed Jasmine Thomas for #31 all-time in turnovers (career 797) \u2014 up from #32 entering today \u2014 (End of 3rd \u2014 IND @ LV)",
+    "kind": "rank_pass",
+    "player": "Jewell Loyd",
+    "stat": "turnovers",
+    "rank": 31,
+    "passed_players": [
+      "Jasmine Thomas"
+    ],
+    "new_total": 797
+  },
+  {
     "ts": "2026-07-06T00:16:00+00:00",
     "text": "Monique Billings passed Moriah Jefferson for #186 all-time in turnovers (career 315) \u2014 (7:52 - 3rd \u2014 IND @ LV)",
     "kind": "rank_pass",
@@ -2978,14 +2990,5 @@
       "Coco Miller"
     ],
     "new_total": 758
-  },
-  {
-    "ts": "2026-06-27T12:06:00+00:00",
-    "text": "Sydney Taylor reached 200 career points (now 228) \u2014 (Final \u2014 POR @ CHI)",
-    "kind": "round",
-    "player": "Sydney Taylor",
-    "stat": "points",
-    "value": 200,
-    "new_total": 228
   }
 ]
