@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-06 00:46 UTC_
+_Last updated: 2026-07-06 00:47 UTC_
 
 ## Contents
 
@@ -329,7 +329,7 @@ _Last updated: 2026-07-06 00:46 UTC_
 | 103 | Latasha Byears | 1,190 |
 | 103 | Tanisha Wright | 1,190 |
 | 105 | Vicky Bullett | 1,189 |
-| 106 | **NaLyssa Smith** 🔴 +5 | 1,177 |
+| 106 | **NaLyssa Smith** 🔴 +6 | 1,178 |
 | 107 | Brittney Sykes | 1,162 |
 | 108 | Nykesha Sales | 1,148 |
 | 109 | Shannon Johnson | 1,143 |
@@ -1599,8 +1599,8 @@ _Last updated: 2026-07-06 00:46 UTC_
 | 139 | A'ja Wilson | 554 |
 | 140 | Dawn Staley | 551 |
 | 141 | Glory Johnson | 550 |
+| 141 | **Jackie Young** 🔴 +2 | 550 |
 | 141 | Tierra Ruffin-Pratt | 550 |
-| 143 | **Jackie Young** 🔴 +1 | 549 |
 | 144 | **Monique Billings** 🔴 +2 | 548 |
 | 145 | Erlana Larkins | 546 |
 | 146 | Jayne Appel Marinelli | 543 |
