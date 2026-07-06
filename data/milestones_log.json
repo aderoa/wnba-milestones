@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-07-06T00:16:00+00:00",
+    "text": "Monique Billings passed Moriah Jefferson for #186 all-time in turnovers (career 315) \u2014 (7:52 - 3rd \u2014 IND @ LV)",
+    "kind": "rank_pass",
+    "player": "Monique Billings",
+    "stat": "turnovers",
+    "rank": 186,
+    "passed_players": [
+      "Moriah Jefferson"
+    ],
+    "new_total": 315
+  },
+  {
     "ts": "2026-07-05T23:24:00+00:00",
     "text": "Stephanie Talbot passed Dana Evans and Jennifer Lacy for #136 all-time in three-pointers (career 161) \u2014 up from #138 entering today \u2014 (31.3 - 1st \u2014 IND @ LV)",
     "kind": "rank_pass",
@@ -2975,17 +2987,5 @@
     "stat": "points",
     "value": 200,
     "new_total": 228
-  },
-  {
-    "ts": "2026-06-27T12:06:00+00:00",
-    "text": "Elizabeth Williams passed Becky Hammon for #75 all-time in fouls (career 734) \u2014 up from #76 entering today \u2014 (Final \u2014 POR @ CHI)",
-    "kind": "rank_pass",
-    "player": "Elizabeth Williams",
-    "stat": "fouls",
-    "rank": 75,
-    "passed_players": [
-      "Becky Hammon"
-    ],
-    "new_total": 734
   }
 ]

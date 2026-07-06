@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-06 00:15 UTC_
+_Last updated: 2026-07-06 00:16 UTC_
 
 ## Contents
 
@@ -58,7 +58,7 @@ _Last updated: 2026-07-06 00:15 UTC_
 | 37 | Chamique Holdsclaw | 4,713 |
 | 38 | Elena Delle Donne | 4,706 |
 | 39 | Natasha Howard | 4,682 |
-| 40 | **Chelsea Gray** 🔴 +4 | 4,629 |
+| 40 | **Chelsea Gray** 🔴 +6 | 4,631 |
 | 41 | Penny Taylor | 4,595 |
 | 42 | Kelsey Plum | 4,494 |
 | 43 | Allisha Gray | 4,491 |
@@ -291,7 +291,7 @@ _Last updated: 2026-07-06 00:15 UTC_
 | 65 | Sue Bird | 1,466 |
 | 66 | **Cheyenne Parker-Tyus** 🔴 | 1,463 |
 | 67 | Nicole Powell | 1,457 |
-| 68 | **Monique Billings** 🔴 +3 | 1,434 |
+| 68 | **Monique Billings** 🔴 +4 | 1,435 |
 | 69 | Tamera Young | 1,433 |
 | 70 | Alana Beard | 1,420 |
 | 71 | Nakia Sanford | 1,419 |
@@ -314,8 +314,8 @@ _Last updated: 2026-07-06 00:15 UTC_
 | 88 | Betty Lennox | 1,296 |
 | 89 | Tari Phillips | 1,274 |
 | 90 | **Myisha Hines-Allen** 🔴 | 1,265 |
+| 91 | **Chelsea Gray** 🔴 +4 | 1,261 |
 | 91 | Janel McCarville | 1,261 |
-| 92 | **Chelsea Gray** 🔴 +3 | 1,260 |
 | 93 | Liz Cambage | 1,258 |
 | 94 | Tiffany Hayes | 1,257 |
 | 95 | Kayla McBride | 1,256 |
@@ -720,7 +720,7 @@ _Last updated: 2026-07-06 00:15 UTC_
 | 83 | Shavonte Zellous | 139 |
 | 84 | Brittney Sykes | 136 |
 | 84 | Penny Taylor | 136 |
-| 86 | **Monique Billings** 🔴 | 134 |
+| 86 | **Monique Billings** 🔴 +1 | 135 |
 | 87 | Devereaux Peters | 133 |
 | 87 | Nicky Anosike | 133 |
 | 87 | Olivia Nelson-Ododa | 133 |
@@ -874,7 +874,7 @@ _Last updated: 2026-07-06 00:15 UTC_
 | 29 | Skylar Diggins | 463 |
 | 29 | Teresa Weatherspoon | 463 |
 | 31 | **Jewell Loyd** 🔴 +1 | 459 |
-| 32 | **Chelsea Gray** 🔴 | 457 |
+| 32 | **Chelsea Gray** 🔴 +1 | 458 |
 | 33 | Rebekkah Brunson | 456 |
 | 34 | Tangela Smith | 455 |
 | 35 | Tina Thompson | 452 |
@@ -1437,8 +1437,8 @@ _Last updated: 2026-07-06 00:15 UTC_
 | 182 | Olympia Scott | 324 |
 | 183 | Kia Nurse | 321 |
 | 184 | Barbara Farris | 315 |
-| 185 | **Monique Billings** 🔴 | 314 |
-| 185 | Moriah Jefferson | 314 |
+| 184 | **Monique Billings** 🔴 +1 | 315 |
+| 186 | Moriah Jefferson | 314 |
 | 187 | Alex Bentley | 313 |
 | 188 | Natisha Hiedeman | 312 |
 | 189 | Tamika Raymond | 311 |

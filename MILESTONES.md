@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-06 00:16 UTC
+
+- **Monique Billings** passed **Moriah Jefferson** for **#186** all-time in turnovers (career 315) — _7:52 - 3rd — IND @ LV_
+
 ## 2026-07-05 23:24 UTC
 
 - **Stephanie Talbot** passed **Dana Evans** and **Jennifer Lacy** for **#136** all-time in three-pointers (career 161) — up from #138 entering today — _31.3 - 1st — IND @ LV_
