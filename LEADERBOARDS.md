@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-06 00:13 UTC_
+_Last updated: 2026-07-06 00:14 UTC_
 
 ## Contents
 
@@ -175,7 +175,7 @@ _Last updated: 2026-07-06 00:13 UTC_
 | 154 | Tari Phillips | 2,134 |
 | 155 | Cheryl Ford | 2,116 |
 | 156 | Elena Baranova | 2,110 |
-| 157 | **Aliyah Boston** 🔴 +7 | 2,094 |
+| 157 | **Aliyah Boston** 🔴 +10 | 2,097 |
 | 158 | Aerial Powers | 2,068 |
 | 159 | Coco Miller | 2,030 |
 | 160 | Diamond DeShields | 2,026 |
@@ -291,8 +291,8 @@ _Last updated: 2026-07-06 00:13 UTC_
 | 65 | Sue Bird | 1,466 |
 | 66 | **Cheyenne Parker-Tyus** 🔴 | 1,463 |
 | 67 | Nicole Powell | 1,457 |
-| 68 | **Monique Billings** 🔴 +2 | 1,433 |
-| 68 | Tamera Young | 1,433 |
+| 68 | **Monique Billings** 🔴 +3 | 1,434 |
+| 69 | Tamera Young | 1,433 |
 | 70 | Alana Beard | 1,420 |
 | 71 | Nakia Sanford | 1,419 |
 | 72 | Kayla Thornton | 1,408 |
@@ -568,7 +568,7 @@ _Last updated: 2026-07-06 00:13 UTC_
 | 136 | Satou Sabally | 476 |
 | 137 | Ukari Figgs | 470 |
 | 138 | Janeth Arcain | 469 |
-| 139 | **Tyasha Harris** 🔴 +3 | 463 |
+| 139 | **Tyasha Harris** 🔴 +4 | 464 |
 | 140 | Erin Phillips | 462 |
 | 141 | Sylvia Fowles | 461 |
 | 142 | Sug Sutton | 457 |
