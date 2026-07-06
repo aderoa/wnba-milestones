@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-07-06T01:01:00+00:00",
+    "text": "Kelsey Mitchell passed Nicole Ohlde for #111 all-time in fouls (career 632) \u2014 up from #113 entering today \u2014 (3:06 - 4th \u2014 IND @ LV)",
+    "kind": "rank_pass",
+    "player": "Kelsey Mitchell",
+    "stat": "fouls",
+    "rank": 111,
+    "passed_players": [
+      "Nicole Ohlde"
+    ],
+    "new_total": 632
+  },
+  {
     "ts": "2026-07-06T00:49:00+00:00",
     "text": "Monique Billings passed Barbara Farris for #184 all-time in turnovers (career 316) \u2014 up from #185 entering today \u2014 (6:26 - 4th \u2014 IND @ LV)",
     "kind": "rank_pass",
@@ -2976,17 +2988,5 @@
       "Angel McCoughtry"
     ],
     "new_total": 250
-  },
-  {
-    "ts": "2026-06-27T12:06:00+00:00",
-    "text": "Azur\u00e1 Stevens passed Nia Coffey for #179 all-time in fouls (career 497) \u2014 (Final \u2014 POR @ CHI)",
-    "kind": "rank_pass",
-    "player": "Azur\u00e1 Stevens",
-    "stat": "fouls",
-    "rank": 179,
-    "passed_players": [
-      "Nia Coffey"
-    ],
-    "new_total": 497
   }
 ]

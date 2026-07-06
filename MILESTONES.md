@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-06 01:01 UTC
+
+- **Kelsey Mitchell** passed **Nicole Ohlde** for **#111** all-time in fouls (career 632) — up from #113 entering today — _3:06 - 4th — IND @ LV_
+
 ## 2026-07-06 00:49 UTC
 
 - **Monique Billings** passed **Barbara Farris** for **#184** all-time in turnovers (career 316) — up from #185 entering today — _6:26 - 4th — IND @ LV_
