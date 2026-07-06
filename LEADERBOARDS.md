@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-06 00:48 UTC_
+_Last updated: 2026-07-06 00:49 UTC_
 
 ## Contents
 
@@ -197,7 +197,7 @@ _Last updated: 2026-07-06 00:48 UTC_
 | 176 | Ebony Hoffman | 1,909 |
 | 177 | Candice Wiggins | 1,901 |
 | 178 | Gabby Williams | 1,899 |
-| 179 | **NaLyssa Smith** 🔴 +7 | 1,886 |
+| 179 | **NaLyssa Smith** 🔴 +9 | 1,888 |
 | 180 | Rachel Banham | 1,843 |
 | 181 | Damiris Dantas | 1,842 |
 | 182 | **Sophie Cunningham** 🔴 +6 | 1,835 |
@@ -319,7 +319,7 @@ _Last updated: 2026-07-06 00:48 UTC_
 | 93 | Liz Cambage | 1,258 |
 | 94 | Tiffany Hayes | 1,257 |
 | 95 | Kayla McBride | 1,256 |
-| 96 | **Brianna Turner** 🔴 +3 | 1,246 |
+| 96 | **Brianna Turner** 🔴 +4 | 1,247 |
 | 97 | Ezi Magbegor | 1,243 |
 | 98 | Seimone Augustus | 1,228 |
 | 99 | Jia Perkins | 1,220 |
@@ -329,7 +329,7 @@ _Last updated: 2026-07-06 00:48 UTC_
 | 103 | Latasha Byears | 1,190 |
 | 103 | Tanisha Wright | 1,190 |
 | 105 | Vicky Bullett | 1,189 |
-| 106 | **NaLyssa Smith** 🔴 +6 | 1,178 |
+| 106 | **NaLyssa Smith** 🔴 +7 | 1,179 |
 | 107 | Brittney Sykes | 1,162 |
 | 108 | Nykesha Sales | 1,148 |
 | 109 | Shannon Johnson | 1,143 |
@@ -462,7 +462,7 @@ _Last updated: 2026-07-06 00:48 UTC_
 | 30 | Leilani Mitchell | 1,197 |
 | 31 | DeWanna Bonner | 1,196 |
 | 32 | **Jewell Loyd** 🔴 +1 | 1,157 |
-| 33 | **Jackie Young** 🔴 +3 | 1,153 |
+| 33 | **Jackie Young** 🔴 +4 | 1,154 |
 | 34 | Renee Montgomery | 1,140 |
 | 35 | Swin Cash | 1,131 |
 | 36 | Sabrina Ionescu | 1,092 |
@@ -945,7 +945,7 @@ _Last updated: 2026-07-06 00:48 UTC_
 | 100 | Janel McCarville | 294 |
 | 101 | Kelly Miller | 290 |
 | 102 | Glory Johnson | 289 |
-| 103 | **Jackie Young** 🔴 | 287 |
+| 103 | **Jackie Young** 🔴 +1 | 288 |
 | 104 | Essence Carson | 285 |
 | 105 | Seimone Augustus | 280 |
 | 106 | Tari Phillips | 277 |
@@ -1027,9 +1027,9 @@ _Last updated: 2026-07-06 00:48 UTC_
 | 182 | Charde Houston | 185 |
 | 182 | Tiffany Jackson | 185 |
 | 184 | Erin Perperoglou | 184 |
+| 184 | **Monique Billings** 🔴 +2 | 184 |
 | 184 | Sabrina Ionescu | 184 |
-| 186 | **Monique Billings** 🔴 +1 | 183 |
-| 186 | Rebecca Allen | 183 |
+| 187 | Rebecca Allen | 183 |
 | 188 | Erin Phillips | 182 |
 | 189 | Nakia Sanford | 181 |
 | 190 | Diamond DeShields | 180 |
@@ -1273,7 +1273,7 @@ _Last updated: 2026-07-06 00:48 UTC_
 | 18 | Cappie Pondexter | 945 |
 | 19 | Katie Smith | 935 |
 | 20 | Shannon Johnson | 934 |
-| 21 | **Chelsea Gray** 🔴 +1 | 928 |
+| 21 | **Chelsea Gray** 🔴 +2 | 929 |
 | 22 | Skylar Diggins | 907 |
 | 23 | Taj McWilliams-Franklin | 898 |
 | 24 | Candice Dupree | 869 |
@@ -1436,8 +1436,8 @@ _Last updated: 2026-07-06 00:48 UTC_
 | 181 | Le'coe Willingham | 325 |
 | 182 | Olympia Scott | 324 |
 | 183 | Kia Nurse | 321 |
-| 184 | Barbara Farris | 315 |
-| 184 | **Monique Billings** 🔴 +1 | 315 |
+| 184 | **Monique Billings** 🔴 +2 | 316 |
+| 185 | Barbara Farris | 315 |
 | 186 | Moriah Jefferson | 314 |
 | 187 | Alex Bentley | 313 |
 | 188 | Natisha Hiedeman | 312 |

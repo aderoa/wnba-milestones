@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-07-06T00:49:00+00:00",
+    "text": "Monique Billings passed Barbara Farris for #184 all-time in turnovers (career 316) \u2014 up from #185 entering today \u2014 (6:26 - 4th \u2014 IND @ LV)",
+    "kind": "rank_pass",
+    "player": "Monique Billings",
+    "stat": "turnovers",
+    "rank": 184,
+    "passed_players": [
+      "Barbara Farris"
+    ],
+    "new_total": 316
+  },
+  {
     "ts": "2026-07-06T00:39:00+00:00",
     "text": "Jewell Loyd passed Jasmine Thomas for #31 all-time in turnovers (career 797) \u2014 up from #32 entering today \u2014 (End of 3rd \u2014 IND @ LV)",
     "kind": "rank_pass",
@@ -2976,19 +2988,5 @@
       "Nia Coffey"
     ],
     "new_total": 497
-  },
-  {
-    "ts": "2026-06-27T12:06:00+00:00",
-    "text": "Kamilla Cardoso passed Layshia Clarendon, Brooke Wyckoff, and Coco Miller for #187 all-time in rebounds (career 758) \u2014 up from #190 entering today \u2014 (Final \u2014 POR @ CHI)",
-    "kind": "rank_pass",
-    "player": "Kamilla Cardoso",
-    "stat": "rebounds",
-    "rank": 187,
-    "passed_players": [
-      "Layshia Clarendon",
-      "Brooke Wyckoff",
-      "Coco Miller"
-    ],
-    "new_total": 758
   }
 ]

@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-06 00:49 UTC
+
+- **Monique Billings** passed **Barbara Farris** for **#184** all-time in turnovers (career 316) — up from #185 entering today — _6:26 - 4th — IND @ LV_
+
 ## 2026-07-06 00:39 UTC
 
 - **Jewell Loyd** passed **Jasmine Thomas** for **#31** all-time in turnovers (career 797) — up from #32 entering today — _End of 3rd — IND @ LV_
