@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-07 01:15 UTC_
+_Last updated: 2026-07-07 01:16 UTC_
 
 ## Contents
 
@@ -66,7 +66,7 @@ _Last updated: 2026-07-07 01:15 UTC_
 | 45 | Kahleah Copper | 4,437 |
 | 46 | Crystal Langhorne | 4,433 |
 | 46 | Jia Perkins | 4,433 |
-| 48 | **Courtney Williams** 🔴 +16 | 4,366 |
+| 48 | **Courtney Williams** 🔴 +18 | 4,368 |
 | 49 | Courtney Vandersloot | 4,362 |
 | 50 | Jonquel Jones | 4,353 |
 | 51 | Dearica Hamby | 4,330 |
@@ -258,7 +258,7 @@ _Last updated: 2026-07-07 01:15 UTC_
 | 32 | Tammy Sutton-Brown | 2,010 |
 | 33 | Elizabeth Williams | 1,978 |
 | 34 | Cheryl Ford | 1,907 |
-| 35 | **Courtney Williams** 🔴 +5 | 1,848 |
+| 35 | **Courtney Williams** 🔴 +6 | 1,849 |
 | 36 | **Kiah Stokes** 🔴 +9 | 1,844 |
 | 37 | Plenette Pierson | 1,834 |
 | 38 | Natalie Williams | 1,832 |
@@ -652,8 +652,8 @@ _Last updated: 2026-07-07 01:15 UTC_
 | 15 | Jonquel Jones | 425 |
 | 16 | Michelle Snow | 403 |
 | 17 | Tamika Catchings | 383 |
+| 18 | **Natasha Howard** 🔴 +2 | 372 |
 | 18 | Tina Thompson | 372 |
-| 19 | **Natasha Howard** 🔴 +1 | 371 |
 | 20 | Erika de Souza | 370 |
 | 21 | Jessica Breland | 367 |
 | 22 | DeWanna Bonner | 358 |
