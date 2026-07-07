@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-07 07:39 UTC_
+_Last updated: 2026-07-07 07:40 UTC_
 
 ## Contents
 
@@ -41,7 +41,7 @@ _Last updated: 2026-07-07 07:39 UTC_
 | 20 | Becky Hammon | 5,816 |
 | 21 | Angel McCoughtry | 5,797 |
 | 22 | Skylar Diggins | 5,732 |
-| 23 | Kayla McBride | 5,678 |
+| 23 | Kayla McBride | 5,664 |
 | 24 | DeLisha Milton-Jones | 5,571 |
 | 25 | Katie Douglas | 5,545 |
 | 26 | Lindsay Whalen | 5,511 |
@@ -315,10 +315,10 @@ _Last updated: 2026-07-07 07:39 UTC_
 | 89 | Tari Phillips | 1,274 |
 | 90 | Myisha Hines-Allen | 1,265 |
 | 91 | Janel McCarville | 1,261 |
-| 92 | Kayla McBride | 1,259 |
 | 92 | Tiffany Hayes | 1,259 |
-| 94 | Liz Cambage | 1,258 |
-| 95 | Chelsea Gray | 1,257 |
+| 93 | Liz Cambage | 1,258 |
+| 94 | Chelsea Gray | 1,257 |
+| 94 | Kayla McBride | 1,257 |
 | 96 | Ezi Magbegor | 1,247 |
 | 97 | Brianna Turner | 1,243 |
 | 98 | Seimone Augustus | 1,228 |
@@ -1053,7 +1053,7 @@ _Last updated: 2026-07-07 07:39 UTC_
 | 2 | Sue Bird | 1,001 |
 | 3 | Katie Smith | 906 |
 | 4 | Becky Hammon | 825 |
-| 5 | Kayla McBride | 760 |
+| 5 | Kayla McBride | 759 |
 | 6 | Tina Thompson | 745 |
 | 7 | Katie Douglas | 723 |
 | 8 | Kelsey Mitchell | 712 |
@@ -1314,8 +1314,8 @@ _Last updated: 2026-07-07 07:39 UTC_
 | 58 | Deanna Nolan | 669 |
 | 59 | Chasity Melvin | 666 |
 | 60 | Vickie Johnson | 660 |
-| 61 | Kayla McBride | 654 |
-| 62 | Yolanda Griffith | 653 |
+| 61 | Yolanda Griffith | 653 |
+| 62 | Kayla McBride | 651 |
 | 63 | Sheri Sam | 650 |
 | 64 | Kelsey Plum | 648 |
 | 65 | Dawn Staley | 643 |
@@ -1604,7 +1604,7 @@ _Last updated: 2026-07-07 07:39 UTC_
 | 143 | Jackie Young | 548 |
 | 144 | Erlana Larkins | 546 |
 | 144 | Monique Billings | 546 |
-| 146 | Kayla McBride | 545 |
+| 146 | Kayla McBride | 544 |
 | 147 | Jayne Appel Marinelli | 543 |
 | 147 | Renee Montgomery | 543 |
 | 149 | Marissa Coleman | 541 |
