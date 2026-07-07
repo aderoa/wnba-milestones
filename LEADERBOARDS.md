@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-07 02:17 UTC_
+_Last updated: 2026-07-07 02:18 UTC_
 
 ## Contents
 
@@ -847,7 +847,7 @@ _Last updated: 2026-07-07 02:17 UTC_
 | 2 | Ticha Penicheiro | 761 |
 | 3 | Sue Bird | 724 |
 | 4 | Alana Beard | 710 |
-| 5 | **Nneka Ogwumike** 🔴 +1 | 688 |
+| 5 | **Nneka Ogwumike** 🔴 | 687 |
 | 6 | Sheryl Swoopes | 657 |
 | 7 | DeWanna Bonner | 650 |
 | 8 | Jia Perkins | 634 |
@@ -1037,10 +1037,10 @@ _Last updated: 2026-07-07 02:17 UTC_
 | 192 | Bridget Pettis | 177 |
 | 193 | Brittany Boyd-Jones | 176 |
 | 193 | Chiney Ogwumike | 176 |
+| 195 | **Ezi Magbegor** 🔴 +1 | 175 |
 | 195 | Tamika Raymond | 175 |
-| 196 | Elena Delle Donne | 174 |
-| 196 | **Ezi Magbegor** 🔴 | 174 |
-| 196 | Margo Dydek | 174 |
+| 197 | Elena Delle Donne | 174 |
+| 197 | Margo Dydek | 174 |
 | 199 | Bridget Carleton | 173 |
 | 199 | Brittney Griner | 173 |
 | 199 | Kamila Vodichkova | 173 |
