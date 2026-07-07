@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-07-07T01:13:00+00:00",
+    "text": "Kiah Stokes passed Courtney Williams for #35 all-time in rebounds (career 1,844) \u2014 up from #36 entering today \u2014 (4:23 - 4th \u2014 GS @ WSH)",
+    "kind": "rank_pass",
+    "player": "Kiah Stokes",
+    "stat": "rebounds",
+    "rank": 35,
+    "passed_players": [
+      "Courtney Williams"
+    ],
+    "new_total": 1844
+  },
+  {
     "ts": "2026-07-07T00:36:00+00:00",
     "text": "Nia Coffey passed Courtney Paris for #62 all-time in blocks (career 179) \u2014 up from #63 entering today \u2014 (7:11 - 2nd \u2014 CON @ MIN)",
     "kind": "rank_pass",
@@ -2976,17 +2988,5 @@
       "Cathrine Kraayeveld"
     ],
     "new_total": 130
-  },
-  {
-    "ts": "2026-06-27T12:06:00+00:00",
-    "text": "Azur\u00e1 Stevens passed Alex Bentley for #132 all-time in points (career 2,355) \u2014 up from #133 entering today \u2014 (Final \u2014 POR @ CHI)",
-    "kind": "rank_pass",
-    "player": "Azur\u00e1 Stevens",
-    "stat": "points",
-    "rank": 132,
-    "passed_players": [
-      "Alex Bentley"
-    ],
-    "new_total": 2355
   }
 ]
