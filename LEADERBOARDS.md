@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-07 01:53 UTC_
+_Last updated: 2026-07-07 01:54 UTC_
 
 ## Contents
 
@@ -249,7 +249,7 @@ _Last updated: 2026-07-07 01:53 UTC_
 | 23 | Lauren Jackson | 2,444 |
 | 24 | Yolanda Griffith | 2,440 |
 | 25 | Tangela Smith | 2,328 |
-| 26 | **Natasha Howard** 🔴 +4 | 2,319 |
+| 26 | **Natasha Howard** 🔴 +5 | 2,320 |
 | 27 | Erika de Souza | 2,220 |
 | 28 | Diana Taurasi | 2,201 |
 | 29 | Margo Dydek | 2,138 |
@@ -258,7 +258,7 @@ _Last updated: 2026-07-07 01:53 UTC_
 | 32 | Tammy Sutton-Brown | 2,010 |
 | 33 | Elizabeth Williams | 1,978 |
 | 34 | Cheryl Ford | 1,907 |
-| 35 | **Courtney Williams** 🔴 +7 | 1,850 |
+| 35 | **Courtney Williams** 🔴 +8 | 1,851 |
 | 36 | Kiah Stokes | 1,844 |
 | 37 | Plenette Pierson | 1,834 |
 | 38 | Natalie Williams | 1,832 |
@@ -830,9 +830,9 @@ _Last updated: 2026-07-07 01:53 UTC_
 | 193 | Mercedes Russell | 69 |
 | 193 | Rhonda Mapp | 69 |
 | 193 | Satou Sabally | 69 |
+| 196 | **Kennedy Burke** 🔴 +1 | 67 |
 | 196 | Shannon Johnson | 67 |
 | 196 | Veronica Burton | 67 |
-| 198 | **Kennedy Burke** 🔴 | 66 |
 | 199 | Crystal Robinson | 65 |
 | 199 | Gabby Williams | 65 |
 | 199 | Queen Egbo | 65 |
