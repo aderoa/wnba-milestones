@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-07 00:13 UTC_
+_Last updated: 2026-07-07 00:14 UTC_
 
 ## Contents
 
@@ -41,7 +41,7 @@ _Last updated: 2026-07-07 00:13 UTC_
 | 20 | Becky Hammon | 5,816 |
 | 21 | Angel McCoughtry | 5,797 |
 | 22 | Skylar Diggins | 5,732 |
-| 23 | **Kayla McBride** 🔴 | 5,650 |
+| 23 | **Kayla McBride** 🔴 +2 | 5,652 |
 | 24 | DeLisha Milton-Jones | 5,571 |
 | 25 | Katie Douglas | 5,545 |
 | 26 | Lindsay Whalen | 5,511 |
@@ -832,7 +832,7 @@ _Last updated: 2026-07-07 00:13 UTC_
 | 193 | Satou Sabally | 69 |
 | 196 | Shannon Johnson | 67 |
 | 196 | **Veronica Burton** 🔴 | 67 |
-| 198 | Kennedy Burke | 66 |
+| 198 | **Kennedy Burke** 🔴 | 66 |
 | 199 | Crystal Robinson | 65 |
 | 199 | **Gabby Williams** 🔴 | 65 |
 | 199 | Queen Egbo | 65 |
@@ -1222,7 +1222,7 @@ _Last updated: 2026-07-07 00:13 UTC_
 | 171 | Ticha Penicheiro | 128 |
 | 173 | Michele Timms | 127 |
 | 174 | Tamecka Dixon | 126 |
-| 175 | Kennedy Burke | 125 |
+| 175 | **Kennedy Burke** 🔴 | 125 |
 | 175 | Lexie Hull | 125 |
 | 177 | Charde Houston | 124 |
 | 177 | **Veronica Burton** 🔴 | 124 |
@@ -1469,8 +1469,8 @@ _Last updated: 2026-07-07 00:13 UTC_
 | 9 | Tammy Sutton-Brown | 1,193 |
 | 10 | Plenette Pierson | 1,175 |
 | 11 | Chasity Melvin | 1,165 |
-| 12 | Camille Smith | 1,159 |
-| 12 | **Natasha Howard** 🔴 +1 | 1,159 |
+| 12 | **Natasha Howard** 🔴 +2 | 1,160 |
+| 13 | Camille Smith | 1,159 |
 | 14 | Nneka Ogwumike | 1,156 |
 | 15 | Alana Beard | 1,153 |
 | 16 | Swin Cash | 1,146 |
