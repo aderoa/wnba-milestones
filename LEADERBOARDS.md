@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-07 07:14 UTC_
+_Last updated: 2026-07-07 07:15 UTC_
 
 ## Contents
 
@@ -1220,10 +1220,10 @@ _Last updated: 2026-07-07 07:14 UTC_
 | 169 | Crystal Dangerfield | 129 |
 | 169 | Leonie Fiebich | 129 |
 | 171 | Jordin Canada | 128 |
+| 171 | Kennedy Burke | 128 |
 | 171 | Ticha Penicheiro | 128 |
-| 173 | Michele Timms | 127 |
-| 174 | Kennedy Burke | 126 |
-| 174 | Tamecka Dixon | 126 |
+| 174 | Michele Timms | 127 |
+| 175 | Tamecka Dixon | 126 |
 | 176 | Lexie Hull | 125 |
 | 177 | Charde Houston | 124 |
 | 177 | Veronica Burton | 124 |
