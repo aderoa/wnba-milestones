@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-07 01:41 UTC_
+_Last updated: 2026-07-07 01:42 UTC_
 
 ## Contents
 
@@ -922,8 +922,8 @@ _Last updated: 2026-07-07 01:41 UTC_
 | 77 | Armintie Herrington | 340 |
 | 78 | Dawn Staley | 338 |
 | 79 | Odyssey Sims | 334 |
-| 80 | **Courtney Williams** 🔴 +2 | 331 |
-| 80 | Marie Ferdinand-Harris | 331 |
+| 80 | **Courtney Williams** 🔴 +3 | 332 |
+| 81 | Marie Ferdinand-Harris | 331 |
 | 82 | Chasity Melvin | 330 |
 | 82 | Leilani Mitchell | 330 |
 | 84 | Kristi Toliver | 329 |

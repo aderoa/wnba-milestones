@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-07 01:42 UTC
+
+- **Courtney Williams** passed **Marie Ferdinand-Harris** for **#80** all-time in steals (career 332) — up from #83 entering today — _8:53 - 4th — CON @ MIN_
+
 ## 2026-07-07 01:29 UTC
 
 - **Kayla McBride** passed **Liz Cambage** for **#92** all-time in rebounds (career 1,259) — up from #95 entering today — _2:46 - 3rd — CON @ MIN_
