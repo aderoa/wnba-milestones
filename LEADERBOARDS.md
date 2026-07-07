@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-07 03:36 UTC_
+_Last updated: 2026-07-07 03:37 UTC_
 
 ## Contents
 
@@ -1303,7 +1303,7 @@ _Last updated: 2026-07-07 03:36 UTC_
 | 47 | Renee Montgomery | 697 |
 | 48 | Temeka Johnson | 696 |
 | 49 | Penny Taylor | 695 |
-| 50 | **Dearica Hamby** 🔴 +2 | 686 |
+| 50 | **Dearica Hamby** 🔴 +3 | 687 |
 | 51 | Dominique Canty | 685 |
 | 52 | DeMya Walker | 684 |
 | 53 | Asjha Jones | 682 |
@@ -1509,7 +1509,7 @@ _Last updated: 2026-07-07 03:36 UTC_
 | 48 | Erika de Souza | 858 |
 | 49 | Angel McCoughtry | 857 |
 | 50 | Betty Lennox | 851 |
-| 51 | **Dearica Hamby** 🔴 | 850 |
+| 50 | **Dearica Hamby** 🔴 +1 | 851 |
 | 52 | Tamecka Dixon | 849 |
 | 53 | Natalie Williams | 847 |
 | 53 | Tamera Young | 847 |
