@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-07 01:13 UTC_
+_Last updated: 2026-07-07 01:14 UTC_
 
 ## Contents
 
@@ -1314,7 +1314,7 @@ _Last updated: 2026-07-07 01:13 UTC_
 | 59 | Chasity Melvin | 666 |
 | 60 | Vickie Johnson | 660 |
 | 61 | Yolanda Griffith | 653 |
-| 62 | **Kayla McBride** 🔴 +3 | 651 |
+| 62 | **Kayla McBride** 🔴 +4 | 652 |
 | 63 | Sheri Sam | 650 |
 | 64 | Kelsey Plum | 648 |
 | 65 | Dawn Staley | 643 |
@@ -1323,7 +1323,7 @@ _Last updated: 2026-07-07 01:13 UTC_
 | 68 | Odyssey Sims | 631 |
 | 68 | Svetlana Abrosimova | 631 |
 | 70 | Kahleah Copper | 625 |
-| 71 | **Tiffany Hayes** 🔴 | 624 |
+| 70 | **Tiffany Hayes** 🔴 +1 | 625 |
 | 72 | Rebekkah Brunson | 615 |
 | 73 | Seimone Augustus | 613 |
 | 74 | Teresa Weatherspoon | 601 |
@@ -1585,7 +1585,7 @@ _Last updated: 2026-07-07 01:13 UTC_
 | 125 | Kamila Vodichkova | 596 |
 | 126 | Teresa Weatherspoon | 589 |
 | 127 | Emma Meesseman | 585 |
-| 128 | **Courtney Williams** 🔴 | 583 |
+| 128 | **Courtney Williams** 🔴 +1 | 584 |
 | 129 | Chiney Ogwumike | 580 |
 | 129 | Hamchetou Maiga-Ba | 580 |
 | 129 | Olympia Scott | 580 |
