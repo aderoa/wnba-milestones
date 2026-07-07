@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-07 00:53 UTC_
+_Last updated: 2026-07-07 00:54 UTC_
 
 ## Contents
 
@@ -35,19 +35,19 @@ _Last updated: 2026-07-07 00:53 UTC_
 | 14 | Lisa Leslie | 6,251 |
 | 15 | A'ja Wilson | 6,178 |
 | 16 | Jewell Loyd | 6,148 |
-| 17 | **Brittney Griner** 🔴 +9 | 6,096 |
+| 17 | **Brittney Griner** 🔴 +11 | 6,098 |
 | 18 | Lauren Jackson | 6,005 |
 | 18 | Seimone Augustus | 6,005 |
 | 20 | Becky Hammon | 5,816 |
 | 21 | Angel McCoughtry | 5,797 |
 | 22 | Skylar Diggins | 5,732 |
-| 23 | **Kayla McBride** 🔴 +14 | 5,664 |
+| 23 | **Kayla McBride** 🔴 +16 | 5,666 |
 | 24 | DeLisha Milton-Jones | 5,571 |
 | 25 | Katie Douglas | 5,545 |
 | 26 | Lindsay Whalen | 5,511 |
 | 27 | Kelsey Mitchell | 5,198 |
 | 28 | Swin Cash | 5,119 |
-| 29 | **Tiffany Hayes** 🔴 +7 | 5,056 |
+| 29 | **Tiffany Hayes** 🔴 +9 | 5,058 |
 | 30 | Tangela Smith | 5,035 |
 | 31 | Taj McWilliams-Franklin | 4,992 |
 | 32 | Maya Moore | 4,984 |
@@ -259,7 +259,7 @@ _Last updated: 2026-07-07 00:53 UTC_
 | 33 | Elizabeth Williams | 1,978 |
 | 34 | Cheryl Ford | 1,907 |
 | 35 | **Courtney Williams** 🔴 +5 | 1,848 |
-| 36 | **Kiah Stokes** 🔴 +7 | 1,842 |
+| 36 | **Kiah Stokes** 🔴 +8 | 1,843 |
 | 37 | Plenette Pierson | 1,834 |
 | 38 | Natalie Williams | 1,832 |
 | 39 | Wendy Palmer | 1,824 |
@@ -385,7 +385,7 @@ _Last updated: 2026-07-07 00:53 UTC_
 | 159 | Krystal Thomas | 862 |
 | 160 | Naz Hillmon | 859 |
 | 161 | Leilani Mitchell | 845 |
-| 162 | **Shakira Austin** 🔴 +6 | 838 |
+| 162 | **Shakira Austin** 🔴 +7 | 839 |
 | 163 | **Gabby Williams** 🔴 +3 | 834 |
 | 164 | Essence Carson | 833 |
 | 165 | Kristi Toliver | 829 |
