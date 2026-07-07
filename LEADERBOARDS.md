@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-07 01:57 UTC_
+_Last updated: 2026-07-07 01:58 UTC_
 
 ## Contents
 
@@ -1038,12 +1038,12 @@ _Last updated: 2026-07-07 01:57 UTC_
 | 193 | Brittany Boyd-Jones | 176 |
 | 193 | Chiney Ogwumike | 176 |
 | 195 | Tamika Raymond | 175 |
+| 196 | **Brittney Griner** 🔴 +3 | 174 |
 | 196 | Elena Delle Donne | 174 |
 | 196 | Ezi Magbegor | 174 |
 | 196 | Margo Dydek | 174 |
-| 199 | Bridget Carleton | 173 |
-| 199 | **Brittney Griner** 🔴 +2 | 173 |
-| 199 | Kamila Vodichkova | 173 |
+| 200 | Bridget Carleton | 173 |
+| 200 | Kamila Vodichkova | 173 |
 
 ## Three-pointers
 

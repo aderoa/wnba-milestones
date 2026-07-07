@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-07 01:58 UTC
+
+- **Brittney Griner** passed **Bridget Carleton** and **Kamila Vodichkova** for **#199** all-time in steals (career 174) — new to top 200 today — _3:49 - 4th — CON @ MIN_
+
 ## 2026-07-07 01:57 UTC
 
 - **Kayla McBride** passed **Yolanda Griffith** for **#61** all-time in turnovers (career 654) — up from #63 entering today — _3:49 - 4th — CON @ MIN_
