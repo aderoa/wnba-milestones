@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-07 03:10 UTC_
+_Last updated: 2026-07-07 03:11 UTC_
 
 ## Contents
 
@@ -180,7 +180,7 @@ _Last updated: 2026-07-07 03:10 UTC_
 | 159 | Coco Miller | 2,030 |
 | 160 | Diamond DeShields | 2,026 |
 | 161 | Vicky Bullett | 2,018 |
-| 162 | **Natisha Hiedeman** 🔴 +6 | 2,008 |
+| 162 | **Natisha Hiedeman** 🔴 +9 | 2,011 |
 | 163 | **Ezi Magbegor** 🔴 | 1,995 |
 | 164 | Bria Hartley | 1,967 |
 | 165 | Chiney Ogwumike | 1,964 |
@@ -227,7 +227,7 @@ _Last updated: 2026-07-07 03:10 UTC_
 | 1 | Tina Charles | 4,262 |
 | 2 | Sylvia Fowles | 4,005 |
 | 3 | Candace Parker | 3,467 |
-| 4 | **Nneka Ogwumike** 🔴 +7 | 3,413 |
+| 4 | **Nneka Ogwumike** 🔴 +8 | 3,414 |
 | 5 | Rebekkah Brunson | 3,345 |
 | 6 | Tamika Catchings | 3,313 |
 | 7 | Lisa Leslie | 3,303 |
@@ -1008,8 +1008,8 @@ _Last updated: 2026-07-07 03:10 UTC_
 | 163 | Kia Vaughn | 208 |
 | 163 | Sophia Witherspoon | 208 |
 | 165 | Betnijah Laney-Hamilton | 207 |
-| 166 | **Natisha Hiedeman** 🔴 +1 | 205 |
-| 166 | Shameka Christon | 205 |
+| 166 | **Natisha Hiedeman** 🔴 +2 | 206 |
+| 167 | Shameka Christon | 205 |
 | 168 | Jessica Breland | 204 |
 | 168 | Murriel Page | 204 |
 | 168 | Shatori Walker-Kimbrough | 204 |
@@ -1111,7 +1111,7 @@ _Last updated: 2026-07-07 03:10 UTC_
 | 60 | **Erica Wheeler** 🔴 +1 | 338 |
 | 61 | Anna DeForge | 334 |
 | 61 | Sophie Cunningham | 334 |
-| 63 | **Natisha Hiedeman** 🔴 | 328 |
+| 63 | **Natisha Hiedeman** 🔴 +1 | 329 |
 | 64 | Sugar Rodgers | 317 |
 | 65 | Marissa Coleman | 315 |
 | 66 | Shannon Johnson | 313 |
@@ -1282,7 +1282,7 @@ _Last updated: 2026-07-07 03:10 UTC_
 | 26 | Natasha Howard | 845 |
 | 27 | DeWanna Bonner | 840 |
 | 28 | Katie Douglas | 824 |
-| 29 | **Nneka Ogwumike** 🔴 +1 | 804 |
+| 29 | **Nneka Ogwumike** 🔴 +2 | 805 |
 | 30 | Betty Lennox | 800 |
 | 31 | Jasmine Thomas | 796 |
 | 32 | Jewell Loyd | 795 |
