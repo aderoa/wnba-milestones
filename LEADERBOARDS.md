@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-07 02:43 UTC_
+_Last updated: 2026-07-07 02:44 UTC_
 
 ## Contents
 
@@ -69,7 +69,7 @@ _Last updated: 2026-07-07 02:43 UTC_
 | 48 | Courtney Williams | 4,373 |
 | 49 | Courtney Vandersloot | 4,362 |
 | 50 | Jonquel Jones | 4,353 |
-| 51 | **Dearica Hamby** 🔴 +7 | 4,337 |
+| 51 | **Dearica Hamby** 🔴 +10 | 4,340 |
 | 52 | Sophia Young-Malcolm | 4,300 |
 | 53 | Plenette Pierson | 4,258 |
 | 54 | Monique Currie | 4,253 |
@@ -180,7 +180,7 @@ _Last updated: 2026-07-07 02:43 UTC_
 | 159 | Coco Miller | 2,030 |
 | 160 | Diamond DeShields | 2,026 |
 | 161 | Vicky Bullett | 2,018 |
-| 162 | **Natisha Hiedeman** 🔴 | 2,002 |
+| 162 | **Natisha Hiedeman** 🔴 +2 | 2,004 |
 | 163 | **Ezi Magbegor** 🔴 | 1,995 |
 | 164 | Bria Hartley | 1,967 |
 | 165 | Chiney Ogwumike | 1,964 |
@@ -244,7 +244,7 @@ _Last updated: 2026-07-07 02:43 UTC_
 | 18 | DeLisha Milton-Jones | 2,574 |
 | 19 | Swin Cash | 2,521 |
 | 20 | Michelle Snow | 2,476 |
-| 21 | **Dearica Hamby** 🔴 +3 | 2,458 |
+| 21 | **Dearica Hamby** 🔴 +4 | 2,459 |
 | 22 | Crystal Langhorne | 2,454 |
 | 23 | Lauren Jackson | 2,444 |
 | 24 | Yolanda Griffith | 2,440 |
@@ -450,7 +450,7 @@ _Last updated: 2026-07-07 02:43 UTC_
 | 18 | Temeka Johnson | 1,382 |
 | 19 | Jasmine Thomas | 1,355 |
 | 20 | Briann January | 1,339 |
-| 21 | **Erica Wheeler** 🔴 +3 | 1,338 |
+| 20 | **Erica Wheeler** 🔴 +4 | 1,339 |
 | 22 | Dawn Staley | 1,337 |
 | 23 | Teresa Weatherspoon | 1,333 |
 | 24 | Kristi Toliver | 1,301 |
