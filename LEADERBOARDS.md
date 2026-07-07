@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-07 01:42 UTC_
+_Last updated: 2026-07-07 01:43 UTC_
 
 ## Contents
 
@@ -35,7 +35,7 @@ _Last updated: 2026-07-07 01:42 UTC_
 | 14 | Lisa Leslie | 6,251 |
 | 15 | A'ja Wilson | 6,178 |
 | 16 | Jewell Loyd | 6,148 |
-| 17 | **Brittney Griner** 🔴 +23 | 6,110 |
+| 17 | **Brittney Griner** 🔴 +25 | 6,112 |
 | 18 | Lauren Jackson | 6,005 |
 | 18 | Seimone Augustus | 6,005 |
 | 20 | Becky Hammon | 5,816 |
@@ -635,7 +635,7 @@ _Last updated: 2026-07-07 01:42 UTC_
 
 | Rank | Player | Total |
 |-----:|--------|------:|
-| 1 | **Brittney Griner** 🔴 +1 | 880 |
+| 1 | **Brittney Griner** 🔴 +2 | 881 |
 | 2 | Margo Dydek | 873 |
 | 3 | Lisa Leslie | 818 |
 | 4 | Sylvia Fowles | 721 |
