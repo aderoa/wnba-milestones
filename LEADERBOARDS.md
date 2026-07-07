@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-07 00:36 UTC_
+_Last updated: 2026-07-07 00:37 UTC_
 
 ## Contents
 
@@ -240,7 +240,7 @@ _Last updated: 2026-07-07 00:36 UTC_
 | 14 | A'ja Wilson | 2,657 |
 | 15 | Breanna Stewart | 2,632 |
 | 16 | Sancho Lyttle | 2,596 |
-| 17 | **Brittney Griner** 🔴 +1 | 2,580 |
+| 17 | **Brittney Griner** 🔴 +2 | 2,581 |
 | 18 | DeLisha Milton-Jones | 2,574 |
 | 19 | Swin Cash | 2,521 |
 | 20 | Michelle Snow | 2,476 |
@@ -259,7 +259,7 @@ _Last updated: 2026-07-07 00:36 UTC_
 | 33 | Elizabeth Williams | 1,978 |
 | 34 | Cheryl Ford | 1,907 |
 | 35 | **Courtney Williams** 🔴 +3 | 1,846 |
-| 36 | **Kiah Stokes** 🔴 +3 | 1,838 |
+| 36 | **Kiah Stokes** 🔴 +4 | 1,839 |
 | 37 | Plenette Pierson | 1,834 |
 | 38 | Natalie Williams | 1,832 |
 | 39 | Wendy Palmer | 1,824 |
@@ -386,8 +386,8 @@ _Last updated: 2026-07-07 00:36 UTC_
 | 160 | Naz Hillmon | 859 |
 | 161 | Leilani Mitchell | 845 |
 | 162 | **Shakira Austin** 🔴 +5 | 837 |
-| 163 | Essence Carson | 833 |
-| 163 | **Gabby Williams** 🔴 +2 | 833 |
+| 163 | **Gabby Williams** 🔴 +3 | 834 |
+| 164 | Essence Carson | 833 |
 | 165 | Kristi Toliver | 829 |
 | 166 | Marie Ferdinand-Harris | 828 |
 | 167 | Marlies Askamp | 822 |
@@ -721,10 +721,10 @@ _Last updated: 2026-07-07 00:36 UTC_
 | 84 | Brittney Sykes | 136 |
 | 84 | Penny Taylor | 136 |
 | 86 | Monique Billings | 134 |
-| 87 | Devereaux Peters | 133 |
-| 87 | Nicky Anosike | 133 |
-| 87 | **Olivia Nelson-Ododa** 🔴 | 133 |
-| 87 | Seimone Augustus | 133 |
+| 86 | **Olivia Nelson-Ododa** 🔴 +1 | 134 |
+| 88 | Devereaux Peters | 133 |
+| 88 | Nicky Anosike | 133 |
+| 88 | Seimone Augustus | 133 |
 | 91 | Katie Mattera | 131 |
 | 91 | Nakia Sanford | 131 |
 | 93 | Brooke Wyckoff | 129 |
@@ -1634,8 +1634,8 @@ _Last updated: 2026-07-07 00:36 UTC_
 | 174 | Elena Baranova | 501 |
 | 175 | Adrian Williams-Strong | 497 |
 | 175 | Essence Carson | 497 |
+| 175 | **Nia Coffey** 🔴 +2 | 497 |
 | 175 | Rachel Banham | 497 |
-| 178 | **Nia Coffey** 🔴 +1 | 496 |
 | 179 | Azurá Stevens | 495 |
 | 180 | Karima Christmas-Kelly | 494 |
 | 181 | Ann Wauters | 493 |
