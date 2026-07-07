@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-07 02:00 UTC_
+_Last updated: 2026-07-07 02:01 UTC_
 
 ## Contents
 
@@ -66,7 +66,7 @@ _Last updated: 2026-07-07 02:00 UTC_
 | 45 | Kahleah Copper | 4,437 |
 | 46 | Crystal Langhorne | 4,433 |
 | 46 | Jia Perkins | 4,433 |
-| 48 | **Courtney Williams** 🔴 +18 | 4,368 |
+| 48 | **Courtney Williams** 🔴 +20 | 4,370 |
 | 49 | Courtney Vandersloot | 4,362 |
 | 50 | Jonquel Jones | 4,353 |
 | 51 | Dearica Hamby | 4,330 |
@@ -518,7 +518,7 @@ _Last updated: 2026-07-07 02:00 UTC_
 | 86 | Nykesha Sales | 677 |
 | 87 | Natisha Hiedeman | 668 |
 | 88 | A'ja Wilson | 667 |
-| 89 | **Brittney Griner** 🔴 +2 | 662 |
+| 89 | **Brittney Griner** 🔴 +3 | 663 |
 | 90 | Bria Hartley | 661 |
 | 91 | Lindsay Allen | 657 |
 | 92 | Betty Lennox | 651 |
@@ -529,7 +529,7 @@ _Last updated: 2026-07-07 02:00 UTC_
 | 97 | Jennifer Azzi | 636 |
 | 98 | Sami Whitcomb | 623 |
 | 99 | Alysha Clark | 619 |
-| 100 | **Natasha Howard** 🔴 +2 | 617 |
+| 100 | **Natasha Howard** 🔴 +3 | 618 |
 | 101 | Debbie Black | 612 |
 | 102 | Cynthia Cooper | 602 |
 | 103 | Sancho Lyttle | 592 |
@@ -1221,9 +1221,9 @@ _Last updated: 2026-07-07 02:00 UTC_
 | 169 | Leonie Fiebich | 129 |
 | 171 | Jordin Canada | 128 |
 | 171 | Ticha Penicheiro | 128 |
+| 173 | **Kennedy Burke** 🔴 +2 | 127 |
 | 173 | Michele Timms | 127 |
-| 174 | **Kennedy Burke** 🔴 +1 | 126 |
-| 174 | Tamecka Dixon | 126 |
+| 175 | Tamecka Dixon | 126 |
 | 176 | Lexie Hull | 125 |
 | 177 | Charde Houston | 124 |
 | 177 | Veronica Burton | 124 |
