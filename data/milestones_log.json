@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-07-07T02:26:00+00:00",
+    "text": "Nneka Ogwumike passed Bria Hartley for #88 all-time in three-pointers (career 254) \u2014 up from #89 entering today \u2014 (End of 1st \u2014 SEA @ LA)",
+    "kind": "rank_pass",
+    "player": "Nneka Ogwumike",
+    "stat": "three-pointers",
+    "rank": 88,
+    "passed_players": [
+      "Bria Hartley"
+    ],
+    "new_total": 254
+  },
+  {
     "ts": "2026-07-07T01:58:00+00:00",
     "text": "Brittney Griner passed Bridget Carleton and Kamila Vodichkova for #199 all-time in steals (career 174) \u2014 new to top 200 today \u2014 (3:49 - 4th \u2014 CON @ MIN)",
     "kind": "rank_pass",
@@ -2978,18 +2990,6 @@
     "player": "Bridget Carleton",
     "stat": "points",
     "value": 1500,
-    "new_total": 1505
-  },
-  {
-    "ts": "2026-06-27T12:06:00+00:00",
-    "text": "Bridget Carleton passed Jennifer Lacy for #200 all-time in points (career 1,505) \u2014 new to top 200 today \u2014 (Final \u2014 POR @ CHI)",
-    "kind": "rank_pass",
-    "player": "Bridget Carleton",
-    "stat": "points",
-    "rank": 200,
-    "passed_players": [
-      "Jennifer Lacy"
-    ],
     "new_total": 1505
   }
 ]
