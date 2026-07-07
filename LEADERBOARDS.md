@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-07 02:01 UTC_
+_Last updated: 2026-07-07 02:05 UTC_
 
 ## Contents
 
@@ -35,13 +35,13 @@ _Last updated: 2026-07-07 02:01 UTC_
 | 14 | Lisa Leslie | 6,251 |
 | 15 | A'ja Wilson | 6,178 |
 | 16 | Jewell Loyd | 6,148 |
-| 17 | **Brittney Griner** 🔴 +25 | 6,112 |
+| 17 | **Brittney Griner** 🔴 +27 | 6,114 |
 | 18 | Lauren Jackson | 6,005 |
 | 18 | Seimone Augustus | 6,005 |
 | 20 | Becky Hammon | 5,816 |
 | 21 | Angel McCoughtry | 5,797 |
 | 22 | Skylar Diggins | 5,732 |
-| 23 | **Kayla McBride** 🔴 +23 | 5,673 |
+| 23 | **Kayla McBride** 🔴 +27 | 5,677 |
 | 24 | DeLisha Milton-Jones | 5,571 |
 | 25 | Katie Douglas | 5,545 |
 | 26 | Lindsay Whalen | 5,511 |
@@ -249,7 +249,7 @@ _Last updated: 2026-07-07 02:01 UTC_
 | 23 | Lauren Jackson | 2,444 |
 | 24 | Yolanda Griffith | 2,440 |
 | 25 | Tangela Smith | 2,328 |
-| 26 | **Natasha Howard** 🔴 +5 | 2,320 |
+| 26 | **Natasha Howard** 🔴 +4 | 2,319 |
 | 27 | Erika de Souza | 2,220 |
 | 28 | Diana Taurasi | 2,201 |
 | 29 | Margo Dydek | 2,138 |
@@ -258,7 +258,7 @@ _Last updated: 2026-07-07 02:01 UTC_
 | 32 | Tammy Sutton-Brown | 2,010 |
 | 33 | Elizabeth Williams | 1,978 |
 | 34 | Cheryl Ford | 1,907 |
-| 35 | **Courtney Williams** 🔴 +8 | 1,851 |
+| 35 | **Courtney Williams** 🔴 +9 | 1,852 |
 | 36 | Kiah Stokes | 1,844 |
 | 37 | Plenette Pierson | 1,834 |
 | 38 | Natalie Williams | 1,832 |
@@ -529,7 +529,7 @@ _Last updated: 2026-07-07 02:01 UTC_
 | 97 | Jennifer Azzi | 636 |
 | 98 | Sami Whitcomb | 623 |
 | 99 | Alysha Clark | 619 |
-| 100 | **Natasha Howard** 🔴 +3 | 618 |
+| 99 | **Natasha Howard** 🔴 +4 | 619 |
 | 101 | Debbie Black | 612 |
 | 102 | Cynthia Cooper | 602 |
 | 103 | Sancho Lyttle | 592 |
@@ -830,9 +830,9 @@ _Last updated: 2026-07-07 02:01 UTC_
 | 193 | Mercedes Russell | 69 |
 | 193 | Rhonda Mapp | 69 |
 | 193 | Satou Sabally | 69 |
-| 196 | **Kennedy Burke** 🔴 +1 | 67 |
 | 196 | Shannon Johnson | 67 |
 | 196 | Veronica Burton | 67 |
+| 198 | **Kennedy Burke** 🔴 | 66 |
 | 199 | Crystal Robinson | 65 |
 | 199 | Gabby Williams | 65 |
 | 199 | Queen Egbo | 65 |
