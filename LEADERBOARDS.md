@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-07 02:41 UTC_
+_Last updated: 2026-07-07 02:42 UTC_
 
 ## Contents
 
@@ -69,7 +69,7 @@ _Last updated: 2026-07-07 02:41 UTC_
 | 48 | Courtney Williams | 4,373 |
 | 49 | Courtney Vandersloot | 4,362 |
 | 50 | Jonquel Jones | 4,353 |
-| 51 | **Dearica Hamby** 🔴 +5 | 4,335 |
+| 51 | **Dearica Hamby** 🔴 +7 | 4,337 |
 | 52 | Sophia Young-Malcolm | 4,300 |
 | 53 | Plenette Pierson | 4,258 |
 | 54 | Monique Currie | 4,253 |
@@ -450,8 +450,8 @@ _Last updated: 2026-07-07 02:41 UTC_
 | 18 | Temeka Johnson | 1,382 |
 | 19 | Jasmine Thomas | 1,355 |
 | 20 | Briann January | 1,339 |
-| 21 | Dawn Staley | 1,337 |
-| 21 | **Erica Wheeler** 🔴 +2 | 1,337 |
+| 21 | **Erica Wheeler** 🔴 +3 | 1,338 |
+| 22 | Dawn Staley | 1,337 |
 | 23 | Teresa Weatherspoon | 1,333 |
 | 24 | Kristi Toliver | 1,301 |
 | 25 | Kelsey Plum | 1,270 |
@@ -516,7 +516,7 @@ _Last updated: 2026-07-07 02:41 UTC_
 | 84 | **Ariel Atkins** 🔴 | 682 |
 | 85 | Emma Meesseman | 681 |
 | 86 | Nykesha Sales | 677 |
-| 87 | **Natisha Hiedeman** 🔴 +1 | 669 |
+| 87 | **Natisha Hiedeman** 🔴 +2 | 670 |
 | 88 | A'ja Wilson | 667 |
 | 89 | Brittney Griner | 663 |
 | 90 | Bria Hartley | 661 |
@@ -1008,8 +1008,8 @@ _Last updated: 2026-07-07 02:41 UTC_
 | 163 | Kia Vaughn | 208 |
 | 163 | Sophia Witherspoon | 208 |
 | 165 | Betnijah Laney-Hamilton | 207 |
-| 166 | **Natisha Hiedeman** 🔴 +1 | 205 |
-| 166 | Shameka Christon | 205 |
+| 166 | **Natisha Hiedeman** 🔴 +2 | 206 |
+| 167 | Shameka Christon | 205 |
 | 168 | Jessica Breland | 204 |
 | 168 | Murriel Page | 204 |
 | 168 | Shatori Walker-Kimbrough | 204 |
