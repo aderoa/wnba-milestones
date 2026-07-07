@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-07 02:52 UTC_
+_Last updated: 2026-07-07 02:53 UTC_
 
 ## Contents
 
@@ -22,7 +22,7 @@ _Last updated: 2026-07-07 02:52 UTC_
 | 1 | Diana Taurasi | 10,608 |
 | 2 | Tina Charles | 8,396 |
 | 3 | DeWanna Bonner | 7,972 |
-| 4 | **Nneka Ogwumike** 🔴 +6 | 7,569 |
+| 4 | **Nneka Ogwumike** 🔴 +8 | 7,571 |
 | 5 | Tina Thompson | 7,470 |
 | 6 | Tamika Catchings | 7,371 |
 | 7 | Candice Dupree | 6,861 |
@@ -180,7 +180,7 @@ _Last updated: 2026-07-07 02:52 UTC_
 | 159 | Coco Miller | 2,030 |
 | 160 | Diamond DeShields | 2,026 |
 | 161 | Vicky Bullett | 2,018 |
-| 162 | **Natisha Hiedeman** 🔴 +4 | 2,006 |
+| 162 | **Natisha Hiedeman** 🔴 +6 | 2,008 |
 | 163 | **Ezi Magbegor** 🔴 | 1,995 |
 | 164 | Bria Hartley | 1,967 |
 | 165 | Chiney Ogwumike | 1,964 |
@@ -480,7 +480,7 @@ _Last updated: 2026-07-07 02:52 UTC_
 | 48 | Tiffany Hayes | 959 |
 | 49 | Kara Lawson | 946 |
 | 50 | Arike Ogunbowale | 944 |
-| 51 | **Nneka Ogwumike** 🔴 +2 | 935 |
+| 51 | **Nneka Ogwumike** 🔴 +3 | 936 |
 | 52 | Deanna Nolan | 930 |
 | 53 | Kelly Miller | 927 |
 | 54 | DeLisha Milton-Jones | 921 |
@@ -508,7 +508,7 @@ _Last updated: 2026-07-07 02:52 UTC_
 | 76 | Monique Currie | 740 |
 | 77 | Elaine Powell | 728 |
 | 78 | **Dearica Hamby** 🔴 +1 | 727 |
-| 79 | **Stefanie Dolson** 🔴 | 707 |
+| 79 | **Stefanie Dolson** 🔴 +1 | 708 |
 | 80 | Chamique Holdsclaw | 698 |
 | 81 | Shavonte Zellous | 693 |
 | 82 | Allie Quigley | 690 |
