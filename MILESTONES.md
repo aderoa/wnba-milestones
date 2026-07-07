@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-07 03:43 UTC
+
+- **Ariel Atkins** passed **Allie Quigley** for **#121** all-time in turnovers (career 468) — up from #122 entering today — _5:21 - 4th — SEA @ LA_
+
 ## 2026-07-07 03:33 UTC
 
 - **Erica Wheeler** passed **A'ja Wilson** for **#62** all-time in steals (career 362) — up from #63 entering today — _9:04 - 4th — SEA @ LA_

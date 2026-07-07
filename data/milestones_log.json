@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-07-07T03:43:00+00:00",
+    "text": "Ariel Atkins passed Allie Quigley for #121 all-time in turnovers (career 468) \u2014 up from #122 entering today \u2014 (5:21 - 4th \u2014 SEA @ LA)",
+    "kind": "rank_pass",
+    "player": "Ariel Atkins",
+    "stat": "turnovers",
+    "rank": 121,
+    "passed_players": [
+      "Allie Quigley"
+    ],
+    "new_total": 468
+  },
+  {
     "ts": "2026-07-07T03:33:00+00:00",
     "text": "Erica Wheeler passed A'ja Wilson for #62 all-time in steals (career 362) \u2014 up from #63 entering today \u2014 (9:04 - 4th \u2014 SEA @ LA)",
     "kind": "rank_pass",
@@ -2980,19 +2992,5 @@
       "Veronica Burton"
     ],
     "new_total": 68
-  },
-  {
-    "ts": "2026-06-27T12:06:00+00:00",
-    "text": "Kennedy Burke passed Michele Timms, Tamecka Dixon, and Lexie Hull for #173 all-time in three-pointers (career 128) \u2014 up from #175 entering today \u2014 (Final \u2014 WSH @ CON)",
-    "kind": "rank_pass",
-    "player": "Kennedy Burke",
-    "stat": "three-pointers",
-    "rank": 173,
-    "passed_players": [
-      "Michele Timms",
-      "Tamecka Dixon",
-      "Lexie Hull"
-    ],
-    "new_total": 128
   }
 ]
