@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-07 00:47 UTC_
+_Last updated: 2026-07-07 00:48 UTC_
 
 ## Contents
 
@@ -951,10 +951,10 @@ _Last updated: 2026-07-07 00:47 UTC_
 | 106 | Tari Phillips | 277 |
 | 107 | Emma Meesseman | 276 |
 | 107 | Erika de Souza | 276 |
-| 109 | **Kayla Thornton** 🔴 +1 | 271 |
 | 109 | Rita Williams | 271 |
-| 111 | Natalie Williams | 270 |
-| 111 | Nicky Anosike | 270 |
+| 110 | **Kayla Thornton** 🔴 | 270 |
+| 110 | Natalie Williams | 270 |
+| 110 | Nicky Anosike | 270 |
 | 113 | Crystal Robinson | 267 |
 | 113 | Kelsey Plum | 267 |
 | 115 | Anna DeForge | 266 |
@@ -1307,8 +1307,8 @@ _Last updated: 2026-07-07 00:47 UTC_
 | 51 | Dearica Hamby | 684 |
 | 53 | Asjha Jones | 682 |
 | 54 | Danielle Robinson | 680 |
+| 55 | **Courtney Williams** 🔴 +2 | 677 |
 | 55 | Sheryl Swoopes | 677 |
-| 56 | **Courtney Williams** 🔴 +1 | 676 |
 | 57 | Tammy Sutton-Brown | 672 |
 | 58 | Deanna Nolan | 669 |
 | 59 | Chasity Melvin | 666 |
