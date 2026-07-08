@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-07-08T01:45:00+00:00",
+    "text": "Rebecca Allen passed Allie Quigley for #200 all-time in rebounds (career 703) \u2014 new to top 200 today \u2014 (7:33 - 4th \u2014 DAL @ NY)",
+    "kind": "rank_pass",
+    "player": "Rebecca Allen",
+    "stat": "rebounds",
+    "rank": 200,
+    "passed_players": [
+      "Allie Quigley"
+    ],
+    "new_total": 703
+  },
+  {
     "ts": "2026-07-08T01:38:00+00:00",
     "text": "Alanna Smith passed Erica Wheeler for #155 all-time in rebounds (career 883) \u2014 up from #156 entering today \u2014 (End of 3rd \u2014 DAL @ NY)",
     "kind": "rank_pass",
@@ -2978,14 +2990,5 @@
       "Tangela Smith"
     ],
     "new_total": 752
-  },
-  {
-    "ts": "2026-06-27T12:06:00+00:00",
-    "text": "Brittney Griner reached 1,000 career fouls (now 1,000) \u2014 (Final \u2014 WSH @ CON)",
-    "kind": "round",
-    "player": "Brittney Griner",
-    "stat": "fouls",
-    "value": 1000,
-    "new_total": 1000
   }
 ]
