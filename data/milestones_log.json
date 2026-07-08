@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-07-08T00:18:00+00:00",
+    "text": "Odyssey Sims passed Mwadi Mabika for #67 all-time in points (career 3,578) \u2014 up from #68 entering today \u2014 (1:18 - 1st \u2014 DAL @ NY)",
+    "kind": "rank_pass",
+    "player": "Odyssey Sims",
+    "stat": "points",
+    "rank": 67,
+    "passed_players": [
+      "Mwadi Mabika"
+    ],
+    "new_total": 3578
+  },
+  {
     "ts": "2026-07-07T03:43:00+00:00",
     "text": "Ariel Atkins passed Allie Quigley for #121 all-time in turnovers (career 468) \u2014 up from #122 entering today \u2014 (5:21 - 4th \u2014 SEA @ LA)",
     "kind": "rank_pass",
@@ -2979,18 +2991,5 @@
       "Seimone Augustus"
     ],
     "new_total": 136
-  },
-  {
-    "ts": "2026-06-27T12:06:00+00:00",
-    "text": "Kennedy Burke passed Shannon Johnson and Veronica Burton for #196 all-time in blocks (career 68) \u2014 up from #198 entering today \u2014 (Final \u2014 WSH @ CON)",
-    "kind": "rank_pass",
-    "player": "Kennedy Burke",
-    "stat": "blocks",
-    "rank": 196,
-    "passed_players": [
-      "Shannon Johnson",
-      "Veronica Burton"
-    ],
-    "new_total": 68
   }
 ]

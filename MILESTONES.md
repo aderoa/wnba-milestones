@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-08 00:18 UTC
+
+- **Odyssey Sims** passed **Mwadi Mabika** for **#67** all-time in points (career 3,578) — up from #68 entering today — _1:18 - 1st — DAL @ NY_
+
 ## 2026-07-07 03:43 UTC
 
 - **Ariel Atkins** passed **Allie Quigley** for **#121** all-time in turnovers (career 468) — up from #122 entering today — _5:21 - 4th — SEA @ LA_
