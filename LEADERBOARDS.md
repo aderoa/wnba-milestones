@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-08 02:43 UTC_
+_Last updated: 2026-07-08 02:44 UTC_
 
 ## Contents
 
@@ -332,8 +332,8 @@ _Last updated: 2026-07-08 02:43 UTC_
 | 106 | NaLyssa Smith | 1,172 |
 | 107 | Brittney Sykes | 1,162 |
 | 108 | Nykesha Sales | 1,148 |
+| 109 | **Natasha Cloud** 🔴 +2 | 1,143 |
 | 109 | Shannon Johnson | 1,143 |
-| 110 | **Natasha Cloud** 🔴 +1 | 1,142 |
 | 111 | Adrian Williams-Strong | 1,131 |
 | 112 | Andrea Stinson | 1,127 |
 | 112 | Tamika Raymond | 1,127 |
@@ -855,7 +855,7 @@ _Last updated: 2026-07-08 02:43 UTC_
 | 10 | Angel McCoughtry | 627 |
 | 11 | Katie Douglas | 623 |
 | 12 | DeLisha Milton-Jones | 619 |
-| 13 | **Alyssa Thomas** 🔴 +3 | 585 |
+| 13 | **Alyssa Thomas** 🔴 +4 | 586 |
 | 14 | Taj McWilliams-Franklin | 577 |
 | 15 | Tully Bevilaqua | 571 |
 | 16 | **Courtney Vandersloot** 🔴 | 544 |
@@ -1488,7 +1488,7 @@ _Last updated: 2026-07-08 02:43 UTC_
 | 28 | Yolanda Griffith | 991 |
 | 29 | Lauren Jackson | 982 |
 | 30 | Nakia Sanford | 979 |
-| 31 | **Alyssa Thomas** 🔴 +1 | 973 |
+| 31 | **Alyssa Thomas** 🔴 +2 | 974 |
 | 32 | Asjha Jones | 971 |
 | 33 | Margo Dydek | 950 |
 | 34 | Sancho Lyttle | 947 |
