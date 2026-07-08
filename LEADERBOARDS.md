@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-08 23:23 UTC_
+_Last updated: 2026-07-08 23:24 UTC_
 
 ## Contents
 
@@ -157,7 +157,7 @@ _Last updated: 2026-07-08 23:23 UTC_
 | 136 | Betnijah Laney-Hamilton | 2,302 |
 | 137 | Satou Sabally | 2,296 |
 | 138 | Kia Vaughn | 2,288 |
-| 139 | **Kia Nurse** 🔴 | 2,262 |
+| 139 | **Kia Nurse** 🔴 +3 | 2,265 |
 | 140 | Allison Feaster | 2,258 |
 | 141 | Shekinna Stricklen | 2,245 |
 | 142 | Kara Braxton | 2,237 |
@@ -579,8 +579,8 @@ _Last updated: 2026-07-08 23:23 UTC_
 | 145 | Nikki McCray | 450 |
 | 148 | Ruth Riley | 449 |
 | 149 | DeMya Walker | 446 |
-| 150 | Essence Carson | 445 |
-| 150 | **Julie Allemand** 🔴 +1 | 445 |
+| 149 | **Julie Allemand** 🔴 +2 | 446 |
+| 151 | Essence Carson | 445 |
 | 152 | Michelle Snow | 437 |
 | 153 | Jessica Shepard | 436 |
 | 154 | Lauren Jackson | 435 |
@@ -987,7 +987,7 @@ _Last updated: 2026-07-08 23:23 UTC_
 | 142 | Wendy Palmer | 226 |
 | 143 | Alexis Hornbuckle | 225 |
 | 144 | Cheryl Ford | 224 |
-| 145 | **Marina Mabrey** 🔴 +2 | 223 |
+| 145 | **Marina Mabrey** 🔴 +1 | 222 |
 | 146 | Rushia Brown | 221 |
 | 147 | DeMya Walker | 220 |
 | 147 | Jennifer Gillom | 220 |
@@ -1098,8 +1098,8 @@ _Last updated: 2026-07-08 23:23 UTC_
 | 48 | Allison Feaster | 372 |
 | 48 | Betty Lennox | 372 |
 | 50 | Kahleah Copper | 370 |
-| 51 | Epiphanny Prince | 368 |
-| 51 | **Kia Nurse** 🔴 | 368 |
+| 51 | **Kia Nurse** 🔴 +1 | 369 |
+| 52 | Epiphanny Prince | 368 |
 | 53 | Nykesha Sales | 352 |
 | 54 | Jackie Young | 346 |
 | 55 | Natasha Cloud | 345 |
