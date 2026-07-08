@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-08 23:09 UTC_
+_Last updated: 2026-07-08 23:10 UTC_
 
 ## Contents
 
@@ -104,7 +104,7 @@ _Last updated: 2026-07-08 23:09 UTC_
 | 83 | Sheri Sam | 3,353 |
 | 84 | Andrea Stinson | 3,351 |
 | 85 | Tanisha Wright | 3,324 |
-| 86 | **Marina Mabrey** 🔴 +2 | 3,251 |
+| 86 | **Marina Mabrey** 🔴 +4 | 3,253 |
 | 87 | Stefanie Dolson | 3,217 |
 | 88 | Margo Dydek | 3,214 |
 | 89 | Erica Wheeler | 3,195 |
@@ -1449,7 +1449,7 @@ _Last updated: 2026-07-08 23:09 UTC_
 | 194 | Tianna Hawkins | 303 |
 | 195 | Rachel Banham | 301 |
 | 196 | Crystal Robinson | 299 |
-| 197 | **Kayla Thornton** 🔴 | 298 |
+| 196 | **Kayla Thornton** 🔴 +1 | 299 |
 | 198 | Michele Timms | 297 |
 | 199 | Damiris Dantas | 289 |
 | 199 | Nia Coffey | 289 |
@@ -1554,8 +1554,8 @@ _Last updated: 2026-07-08 23:09 UTC_
 | 92 | Jasmine Thomas | 685 |
 | 95 | Jewell Loyd | 684 |
 | 95 | Leilani Mitchell | 684 |
-| 97 | Crystal Robinson | 682 |
-| 97 | **Kayla Thornton** 🔴 | 682 |
+| 97 | **Kayla Thornton** 🔴 +1 | 683 |
+| 98 | Crystal Robinson | 682 |
 | 99 | Jennifer Lacy | 680 |
 | 99 | Temeka Johnson | 680 |
 | 101 | Kelly Miller | 676 |
