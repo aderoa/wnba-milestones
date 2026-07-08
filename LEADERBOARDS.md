@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-08 02:00 UTC_
+_Last updated: 2026-07-08 02:01 UTC_
 
 ## Contents
 
@@ -579,8 +579,8 @@ _Last updated: 2026-07-08 02:00 UTC_
 | 145 | Nikki McCray | 450 |
 | 148 | Ruth Riley | 449 |
 | 149 | DeMya Walker | 446 |
-| 150 | Essence Carson | 445 |
-| 150 | **Jessica Shepard** 🔴 +9 | 445 |
+| 149 | **Jessica Shepard** 🔴 +10 | 446 |
+| 151 | Essence Carson | 445 |
 | 152 | Julie Allemand | 444 |
 | 153 | Michelle Snow | 437 |
 | 154 | Lauren Jackson | 435 |
@@ -1345,8 +1345,8 @@ _Last updated: 2026-07-08 02:00 UTC_
 | 90 | Matee Ajavon | 544 |
 | 91 | Adrienne Goodson | 542 |
 | 92 | Marina Mabrey | 537 |
-| 93 | Layshia Clarendon | 536 |
-| 93 | **Sabrina Ionescu** 🔴 +3 | 536 |
+| 92 | **Sabrina Ionescu** 🔴 +4 | 537 |
+| 94 | Layshia Clarendon | 536 |
 | 95 | Ivory Latta | 534 |
 | 95 | Iziane Castro Marques | 534 |
 | 97 | Mwadi Mabika | 532 |

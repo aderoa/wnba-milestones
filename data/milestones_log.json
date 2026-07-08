@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-07-08T02:01:00+00:00",
+    "text": "Jessica Shepard passed Essence Carson for #150 all-time in assists (career 446) \u2014 up from #153 entering today \u2014 (2:53 - 4th \u2014 DAL @ NY)",
+    "kind": "rank_pass",
+    "player": "Jessica Shepard",
+    "stat": "assists",
+    "rank": 150,
+    "passed_players": [
+      "Essence Carson"
+    ],
+    "new_total": 446
+  },
+  {
     "ts": "2026-07-08T01:57:00+00:00",
     "text": "Jessica Shepard passed Julie Allemand for #151 all-time in assists (career 445) \u2014 up from #153 entering today \u2014 (4:23 - 4th \u2014 DAL @ NY)",
     "kind": "rank_pass",
@@ -2978,17 +2990,5 @@
       "Essence Carson"
     ],
     "new_total": 844
-  },
-  {
-    "ts": "2026-06-27T12:06:00+00:00",
-    "text": "Brittney Griner passed Bria Hartley for #89 all-time in assists (career 662) \u2014 up from #90 entering today \u2014 (Final \u2014 WSH @ CON)",
-    "kind": "rank_pass",
-    "player": "Brittney Griner",
-    "stat": "assists",
-    "rank": 89,
-    "passed_players": [
-      "Bria Hartley"
-    ],
-    "new_total": 662
   }
 ]
