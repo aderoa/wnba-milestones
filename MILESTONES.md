@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-08 23:45 UTC
+
+- **Isabelle Harrison** passed **Tamika Raymond** for **#189** all-time in turnovers (career 312) — up from #190 entering today — _3:29 - 2nd — GS @ TOR_
+
 ## 2026-07-08 04:05 UTC
 
 - **Kamilla Cardoso** passed **Alyssa Thomas**, **Chelsea Gray**, **Chiney Ogwumike**, and **Kristen Rasmussen** for **#96** all-time in blocks (career 128) — up from #103 entering today — _End of 4th — CHI @ PHX_

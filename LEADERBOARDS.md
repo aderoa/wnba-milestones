@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-08 23:44 UTC_
+_Last updated: 2026-07-08 23:45 UTC_
 
 ## Contents
 
@@ -41,7 +41,7 @@ _Last updated: 2026-07-08 23:44 UTC_
 | 20 | Becky Hammon | 5,816 |
 | 21 | Angel McCoughtry | 5,797 |
 | 22 | Skylar Diggins | 5,732 |
-| 23 | **Kayla McBride** 🔴 +2 | 5,652 |
+| 23 | **Kayla McBride** 🔴 +5 | 5,655 |
 | 24 | DeLisha Milton-Jones | 5,571 |
 | 25 | Katie Douglas | 5,545 |
 | 26 | Lindsay Whalen | 5,511 |
@@ -67,8 +67,8 @@ _Last updated: 2026-07-08 23:44 UTC_
 | 46 | Crystal Langhorne | 4,433 |
 | 46 | Jia Perkins | 4,433 |
 | 48 | Courtney Vandersloot | 4,362 |
-| 49 | Jonquel Jones | 4,353 |
-| 50 | **Courtney Williams** 🔴 | 4,350 |
+| 49 | **Courtney Williams** 🔴 +4 | 4,354 |
+| 50 | Jonquel Jones | 4,353 |
 | 51 | Dearica Hamby | 4,330 |
 | 52 | Sophia Young-Malcolm | 4,300 |
 | 53 | Plenette Pierson | 4,258 |
@@ -317,8 +317,8 @@ _Last updated: 2026-07-08 23:44 UTC_
 | 91 | Janel McCarville | 1,261 |
 | 92 | Liz Cambage | 1,258 |
 | 93 | Chelsea Gray | 1,257 |
+| 93 | **Kayla McBride** 🔴 +1 | 1,257 |
 | 93 | **Tiffany Hayes** 🔴 | 1,257 |
-| 95 | **Kayla McBride** 🔴 | 1,256 |
 | 96 | Brianna Turner | 1,243 |
 | 96 | Ezi Magbegor | 1,243 |
 | 98 | Seimone Augustus | 1,228 |
@@ -444,7 +444,7 @@ _Last updated: 2026-07-08 23:44 UTC_
 | 12 | Cappie Pondexter | 1,575 |
 | 13 | Tamika Catchings | 1,484 |
 | 14 | Danielle Robinson | 1,480 |
-| 15 | **Courtney Williams** 🔴 +2 | 1,440 |
+| 15 | **Courtney Williams** 🔴 +3 | 1,441 |
 | 16 | Shannon Johnson | 1,423 |
 | 16 | Tanisha Wright | 1,423 |
 | 18 | Temeka Johnson | 1,382 |
@@ -1052,7 +1052,7 @@ _Last updated: 2026-07-08 23:44 UTC_
 | 2 | Sue Bird | 1,001 |
 | 3 | Katie Smith | 906 |
 | 4 | Becky Hammon | 825 |
-| 5 | **Kayla McBride** 🔴 | 756 |
+| 5 | **Kayla McBride** 🔴 +1 | 757 |
 | 6 | Tina Thompson | 745 |
 | 7 | Katie Douglas | 723 |
 | 8 | Kelsey Mitchell | 712 |
@@ -1440,9 +1440,9 @@ _Last updated: 2026-07-08 23:44 UTC_
 | 185 | Monique Billings | 314 |
 | 185 | Moriah Jefferson | 314 |
 | 187 | Alex Bentley | 313 |
+| 188 | **Isabelle Harrison** 🔴 +5 | 312 |
 | 188 | Natisha Hiedeman | 312 |
-| 189 | **Isabelle Harrison** 🔴 +4 | 311 |
-| 189 | Tamika Raymond | 311 |
+| 190 | Tamika Raymond | 311 |
 | 191 | Erin Perperoglou | 305 |
 | 191 | Jennifer Lacy | 305 |
 | 193 | Azurá Stevens | 304 |
