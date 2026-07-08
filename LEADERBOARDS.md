@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-08 03:56 UTC_
+_Last updated: 2026-07-08 03:57 UTC_
 
 ## Contents
 
@@ -52,7 +52,7 @@ _Last updated: 2026-07-08 03:56 UTC_
 | 31 | Taj McWilliams-Franklin | 4,992 |
 | 32 | Maya Moore | 4,984 |
 | 33 | Sheryl Swoopes | 4,875 |
-| 34 | **Alyssa Thomas** 🔴 +9 | 4,761 |
+| 34 | **Alyssa Thomas** 🔴 +11 | 4,763 |
 | 35 | Alana Beard | 4,740 |
 | 36 | Arike Ogunbowale | 4,723 |
 | 37 | Chamique Holdsclaw | 4,713 |
@@ -150,8 +150,8 @@ _Last updated: 2026-07-08 03:56 UTC_
 | 129 | Anna DeForge | 2,413 |
 | 130 | Kayla Thornton | 2,393 |
 | 131 | DeMya Walker | 2,379 |
-| 132 | Alex Bentley | 2,350 |
-| 132 | **Azurá Stevens** 🔴 +7 | 2,350 |
+| 132 | **Azurá Stevens** 🔴 +9 | 2,352 |
+| 133 | Alex Bentley | 2,350 |
 | 134 | Jordin Canada | 2,342 |
 | 135 | Merlakia Jones | 2,308 |
 | 136 | Betnijah Laney-Hamilton | 2,302 |
@@ -307,8 +307,8 @@ _Last updated: 2026-07-08 03:56 UTC_
 | 81 | Emma Meesseman | 1,350 |
 | 82 | Elena Baranova | 1,335 |
 | 83 | Brionna Jones | 1,333 |
+| 84 | **Azurá Stevens** 🔴 +10 | 1,329 |
 | 84 | Erlana Larkins | 1,329 |
-| 85 | **Azurá Stevens** 🔴 +9 | 1,328 |
 | 86 | Mwadi Mabika | 1,327 |
 | 87 | Jayne Appel Marinelli | 1,326 |
 | 88 | Betty Lennox | 1,296 |
@@ -323,7 +323,7 @@ _Last updated: 2026-07-08 03:56 UTC_
 | 96 | Ezi Magbegor | 1,243 |
 | 98 | Seimone Augustus | 1,228 |
 | 99 | Jia Perkins | 1,220 |
-| 100 | **Kahleah Copper** 🔴 +3 | 1,207 |
+| 100 | **Kahleah Copper** 🔴 +4 | 1,208 |
 | 101 | DeMya Walker | 1,199 |
 | 102 | Aliyah Boston | 1,198 |
 | 103 | Latasha Byears | 1,190 |
@@ -733,10 +733,10 @@ _Last updated: 2026-07-08 03:56 UTC_
 | 95 | Emily Engstler | 128 |
 | 97 | Chelsea Gray | 127 |
 | 97 | Chiney Ogwumike | 127 |
+| 97 | **Kamilla Cardoso** 🔴 +3 | 127 |
 | 97 | Kristen Rasmussen | 127 |
-| 100 | **Kamilla Cardoso** 🔴 +2 | 126 |
-| 100 | Katie Douglas | 126 |
-| 100 | Mistie Bass | 126 |
+| 101 | Katie Douglas | 126 |
+| 101 | Mistie Bass | 126 |
 | 103 | Brionna Jones | 125 |
 | 104 | Natasha Mack | 123 |
 | 105 | Natalie Williams | 122 |
@@ -1442,8 +1442,8 @@ _Last updated: 2026-07-08 03:56 UTC_
 | 187 | Alex Bentley | 313 |
 | 188 | Natisha Hiedeman | 312 |
 | 189 | Tamika Raymond | 311 |
+| 190 | **Azurá Stevens** 🔴 +3 | 307 |
 | 190 | Isabelle Harrison | 307 |
-| 191 | **Azurá Stevens** 🔴 +2 | 306 |
 | 192 | Erin Perperoglou | 305 |
 | 192 | Jennifer Lacy | 305 |
 | 194 | **Rachel Banham** 🔴 +2 | 303 |
@@ -1632,8 +1632,8 @@ _Last updated: 2026-07-08 03:56 UTC_
 | 170 | Napheesa Collier | 504 |
 | 173 | Iziane Castro Marques | 502 |
 | 174 | Elena Baranova | 501 |
+| 175 | **Azurá Stevens** 🔴 +4 | 499 |
 | 175 | **Rachel Banham** 🔴 +2 | 499 |
-| 176 | **Azurá Stevens** 🔴 +3 | 498 |
 | 177 | Adrian Williams-Strong | 497 |
 | 177 | Essence Carson | 497 |
 | 179 | Nia Coffey | 495 |
