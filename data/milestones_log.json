@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-07-08T03:47:00+00:00",
+    "text": "Azur\u00e1 Stevens passed Mwadi Mabika for #85 all-time in rebounds (career 1,328) \u2014 up from #87 entering today \u2014 (5:39 - 4th \u2014 CHI @ PHX)",
+    "kind": "rank_pass",
+    "player": "Azur\u00e1 Stevens",
+    "stat": "rebounds",
+    "rank": 85,
+    "passed_players": [
+      "Mwadi Mabika"
+    ],
+    "new_total": 1328
+  },
+  {
     "ts": "2026-07-08T03:44:00+00:00",
     "text": "Azur\u00e1 Stevens passed Jayne Appel Marinelli for #86 all-time in rebounds (career 1,327) \u2014 up from #87 entering today \u2014 (7:29 - 4th \u2014 CHI @ PHX)",
     "kind": "rank_pass",
@@ -2988,14 +3000,5 @@
       "Epiphanny Prince"
     ],
     "new_total": 369
-  },
-  {
-    "ts": "2026-06-27T18:07:00+00:00",
-    "text": "Julie Allemand reached 300 career rebounds (now 300) \u2014 (7:30 - 1st \u2014 PHX @ TOR)",
-    "kind": "round",
-    "player": "Julie Allemand",
-    "stat": "rebounds",
-    "value": 300,
-    "new_total": 300
   }
 ]

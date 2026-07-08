@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-08 03:47 UTC
+
+- **Azurá Stevens** passed **Mwadi Mabika** for **#85** all-time in rebounds (career 1,328) — up from #87 entering today — _5:39 - 4th — CHI @ PHX_
+
 ## 2026-07-08 03:44 UTC
 
 - **Azurá Stevens** passed **Jayne Appel Marinelli** for **#86** all-time in rebounds (career 1,327) — up from #87 entering today — _7:29 - 4th — CHI @ PHX_
