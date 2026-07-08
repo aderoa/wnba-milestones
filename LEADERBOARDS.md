@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-08 03:10 UTC_
+_Last updated: 2026-07-08 03:11 UTC_
 
 ## Contents
 
@@ -52,7 +52,7 @@ _Last updated: 2026-07-08 03:10 UTC_
 | 31 | Taj McWilliams-Franklin | 4,992 |
 | 32 | Maya Moore | 4,984 |
 | 33 | Sheryl Swoopes | 4,875 |
-| 34 | **Alyssa Thomas** 🔴 +3 | 4,755 |
+| 34 | **Alyssa Thomas** 🔴 +5 | 4,757 |
 | 35 | Alana Beard | 4,740 |
 | 36 | Arike Ogunbowale | 4,723 |
 | 37 | Chamique Holdsclaw | 4,713 |
@@ -855,7 +855,7 @@ _Last updated: 2026-07-08 03:10 UTC_
 | 10 | Angel McCoughtry | 627 |
 | 11 | Katie Douglas | 623 |
 | 12 | DeLisha Milton-Jones | 619 |
-| 13 | **Alyssa Thomas** 🔴 +2 | 584 |
+| 13 | **Alyssa Thomas** 🔴 +3 | 585 |
 | 14 | Taj McWilliams-Franklin | 577 |
 | 15 | Tully Bevilaqua | 571 |
 | 16 | **Courtney Vandersloot** 🔴 | 544 |
@@ -910,10 +910,10 @@ _Last updated: 2026-07-08 03:10 UTC_
 | 64 | Tan White | 360 |
 | 66 | Vickie Johnson | 357 |
 | 67 | Dominique Canty | 356 |
+| 67 | **Natasha Cloud** 🔴 +1 | 356 |
 | 67 | Renee Montgomery | 356 |
-| 69 | Arike Ogunbowale | 355 |
-| 69 | **Natasha Cloud** 🔴 | 355 |
-| 69 | Tamecka Dixon | 355 |
+| 70 | Arike Ogunbowale | 355 |
+| 70 | Tamecka Dixon | 355 |
 | 72 | Vicky Bullett | 353 |
 | 73 | Svetlana Abrosimova | 352 |
 | 74 | Janeth Arcain | 346 |
@@ -1297,7 +1297,7 @@ _Last updated: 2026-07-08 03:10 UTC_
 | 42 | Monique Currie | 724 |
 | 43 | Michelle Snow | 723 |
 | 44 | Tamecka Dixon | 716 |
-| 45 | **Natasha Cloud** 🔴 | 707 |
+| 45 | **Natasha Cloud** 🔴 +1 | 708 |
 | 46 | Erica Wheeler | 699 |
 | 47 | Renee Montgomery | 697 |
 | 48 | Temeka Johnson | 696 |
