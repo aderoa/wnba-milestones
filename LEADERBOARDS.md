@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-08 02:18 UTC_
+_Last updated: 2026-07-08 02:19 UTC_
 
 ## Contents
 
@@ -198,7 +198,7 @@ _Last updated: 2026-07-08 02:18 UTC_
 | 177 | Candice Wiggins | 1,901 |
 | 178 | Gabby Williams | 1,899 |
 | 179 | NaLyssa Smith | 1,879 |
-| 180 | Rachel Banham | 1,843 |
+| 180 | **Rachel Banham** 🔴 | 1,843 |
 | 181 | Damiris Dantas | 1,842 |
 | 182 | Sophie Cunningham | 1,829 |
 | 183 | Tianna Hawkins | 1,825 |
@@ -554,13 +554,13 @@ _Last updated: 2026-07-08 02:18 UTC_
 | 122 | Myisha Hines-Allen | 529 |
 | 123 | Marie Ferdinand-Harris | 528 |
 | 124 | Margo Dydek | 524 |
-| 125 | Rachel Banham | 511 |
+| 125 | **Rachel Banham** 🔴 | 511 |
 | 126 | Iziane Castro Marques | 509 |
 | 127 | Brittany Boyd-Jones | 508 |
 | 127 | Chasity Melvin | 508 |
 | 129 | Anna DeForge | 503 |
 | 129 | Coco Miller | 503 |
-| 131 | **Kahleah Copper** 🔴 | 495 |
+| 131 | **Kahleah Copper** 🔴 +1 | 496 |
 | 132 | Crystal Robinson | 488 |
 | 132 | Tiffany Mitchell | 488 |
 | 134 | Rebekkah Brunson | 486 |
@@ -991,8 +991,8 @@ _Last updated: 2026-07-08 02:18 UTC_
 | 145 | Rushia Brown | 221 |
 | 147 | DeMya Walker | 220 |
 | 147 | Jennifer Gillom | 220 |
-| 149 | Allison Feaster | 219 |
-| 149 | **Kahleah Copper** 🔴 | 219 |
+| 147 | **Kahleah Copper** 🔴 +1 | 220 |
+| 150 | Allison Feaster | 219 |
 | 151 | Cheyenne Parker-Tyus | 217 |
 | 151 | Shenise Johnson | 217 |
 | 153 | Adrian Williams-Strong | 216 |
@@ -1001,8 +1001,8 @@ _Last updated: 2026-07-08 02:18 UTC_
 | 155 | Candice Wiggins | 215 |
 | 155 | Elena Baranova | 215 |
 | 158 | Shekinna Stricklen | 213 |
-| 159 | **Azurá Stevens** 🔴 +2 | 212 |
-| 160 | Nikki Teasley | 211 |
+| 159 | **Azurá Stevens** 🔴 +1 | 211 |
+| 159 | Nikki Teasley | 211 |
 | 161 | Iziane Castro Marques | 209 |
 | 161 | Tiffany Mitchell | 209 |
 | 163 | Kia Vaughn | 208 |
@@ -1090,7 +1090,7 @@ _Last updated: 2026-07-08 02:18 UTC_
 | 40 | Jia Perkins | 396 |
 | 41 | Alysha Clark | 394 |
 | 42 | Jonquel Jones | 392 |
-| 43 | Rachel Banham | 390 |
+| 43 | **Rachel Banham** 🔴 | 390 |
 | 44 | Roneeka Hodges | 389 |
 | 45 | **Courtney Vandersloot** 🔴 | 386 |
 | 46 | Briann January | 381 |
@@ -1404,7 +1404,7 @@ _Last updated: 2026-07-08 02:18 UTC_
 | 149 | Glory Johnson | 397 |
 | 150 | Marissa Coleman | 396 |
 | 151 | Myisha Hines-Allen | 390 |
-| 152 | **Elizabeth Williams** 🔴 | 388 |
+| 152 | **Elizabeth Williams** 🔴 +1 | 389 |
 | 153 | Sophia Witherspoon | 386 |
 | 154 | Hamchetou Maiga-Ba | 385 |
 | 155 | Kamila Vodichkova | 381 |
@@ -1447,7 +1447,7 @@ _Last updated: 2026-07-08 02:18 UTC_
 | 191 | Jennifer Lacy | 305 |
 | 193 | **Azurá Stevens** 🔴 | 304 |
 | 194 | Tianna Hawkins | 303 |
-| 195 | Rachel Banham | 301 |
+| 195 | **Rachel Banham** 🔴 | 301 |
 | 196 | Crystal Robinson | 299 |
 | 197 | Kayla Thornton | 298 |
 | 198 | Michele Timms | 297 |
@@ -1634,7 +1634,7 @@ _Last updated: 2026-07-08 02:18 UTC_
 | 174 | Elena Baranova | 501 |
 | 175 | Adrian Williams-Strong | 497 |
 | 175 | Essence Carson | 497 |
-| 175 | Rachel Banham | 497 |
+| 175 | **Rachel Banham** 🔴 | 497 |
 | 178 | **Azurá Stevens** 🔴 | 495 |
 | 178 | Nia Coffey | 495 |
 | 180 | Karima Christmas-Kelly | 494 |
