@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-08 02:07 UTC
+
+- **Jessica Shepard** passed **DeMya Walker** for **#149** all-time in assists (career 447) — up from #153 entering today — _55.7 - 4th — DAL @ NY_
+
 ## 2026-07-08 02:01 UTC
 
 - **Jessica Shepard** passed **Essence Carson** for **#150** all-time in assists (career 446) — up from #153 entering today — _2:53 - 4th — DAL @ NY_

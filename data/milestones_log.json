@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-07-08T02:07:00+00:00",
+    "text": "Jessica Shepard passed DeMya Walker for #149 all-time in assists (career 447) \u2014 up from #153 entering today \u2014 (55.7 - 4th \u2014 DAL @ NY)",
+    "kind": "rank_pass",
+    "player": "Jessica Shepard",
+    "stat": "assists",
+    "rank": 149,
+    "passed_players": [
+      "DeMya Walker"
+    ],
+    "new_total": 447
+  },
+  {
     "ts": "2026-07-08T02:01:00+00:00",
     "text": "Jessica Shepard passed Essence Carson for #150 all-time in assists (career 446) \u2014 up from #153 entering today \u2014 (2:53 - 4th \u2014 DAL @ NY)",
     "kind": "rank_pass",
@@ -2978,17 +2990,5 @@
     "stat": "points",
     "value": 800,
     "new_total": 802
-  },
-  {
-    "ts": "2026-06-27T12:06:00+00:00",
-    "text": "Shakira Austin passed Essence Carson for #162 all-time in rebounds (career 844) \u2014 up from #163 entering today \u2014 (Final \u2014 WSH @ CON)",
-    "kind": "rank_pass",
-    "player": "Shakira Austin",
-    "stat": "rebounds",
-    "rank": 162,
-    "passed_players": [
-      "Essence Carson"
-    ],
-    "new_total": 844
   }
 ]

@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-08 02:06 UTC_
+_Last updated: 2026-07-08 02:07 UTC_
 
 ## Contents
 
@@ -31,7 +31,7 @@ _Last updated: 2026-07-08 02:06 UTC_
 | 10 | Candace Parker | 6,574 |
 | 11 | Katie Smith | 6,450 |
 | 12 | Sylvia Fowles | 6,413 |
-| 13 | **Breanna Stewart** 🔴 +27 | 6,362 |
+| 13 | **Breanna Stewart** 🔴 +29 | 6,364 |
 | 14 | Lisa Leslie | 6,251 |
 | 15 | A'ja Wilson | 6,178 |
 | 16 | Jewell Loyd | 6,148 |
@@ -236,9 +236,9 @@ _Last updated: 2026-07-08 02:06 UTC_
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | **Alyssa Thomas** 🔴 +1 | 2,859 |
-| 13 | **Jonquel Jones** 🔴 +11 | 2,739 |
+| 13 | **Jonquel Jones** 🔴 +12 | 2,740 |
 | 14 | A'ja Wilson | 2,657 |
-| 15 | **Breanna Stewart** 🔴 +8 | 2,640 |
+| 15 | **Breanna Stewart** 🔴 +9 | 2,641 |
 | 16 | Sancho Lyttle | 2,596 |
 | 17 | Brittney Griner | 2,579 |
 | 18 | DeLisha Milton-Jones | 2,574 |
@@ -352,7 +352,7 @@ _Last updated: 2026-07-08 02:06 UTC_
 | 126 | Kamila Vodichkova | 1,031 |
 | 127 | **Jessica Shepard** 🔴 +12 | 1,028 |
 | 128 | Jasmine Thomas | 1,027 |
-| 129 | **Sabrina Ionescu** 🔴 +4 | 1,024 |
+| 129 | **Sabrina Ionescu** 🔴 +3 | 1,023 |
 | 130 | Cathrine Kraayeveld | 1,013 |
 | 131 | Kelly Miller | 1,011 |
 | 131 | Noelle Quinn | 1,011 |
@@ -578,8 +578,8 @@ _Last updated: 2026-07-08 02:06 UTC_
 | 145 | Kristi Harrower | 450 |
 | 145 | Nikki McCray | 450 |
 | 148 | Ruth Riley | 449 |
-| 149 | DeMya Walker | 446 |
-| 149 | **Jessica Shepard** 🔴 +10 | 446 |
+| 149 | **Jessica Shepard** 🔴 +11 | 447 |
+| 150 | DeMya Walker | 446 |
 | 151 | Essence Carson | 445 |
 | 152 | Julie Allemand | 444 |
 | 153 | Michelle Snow | 437 |
@@ -1001,8 +1001,8 @@ _Last updated: 2026-07-08 02:06 UTC_
 | 155 | Candice Wiggins | 215 |
 | 155 | Elena Baranova | 215 |
 | 158 | Shekinna Stricklen | 213 |
+| 159 | **Azurá Stevens** 🔴 +1 | 211 |
 | 159 | Nikki Teasley | 211 |
-| 160 | **Azurá Stevens** 🔴 | 210 |
 | 161 | Iziane Castro Marques | 209 |
 | 161 | Tiffany Mitchell | 209 |
 | 163 | Kia Vaughn | 208 |
@@ -1492,9 +1492,9 @@ _Last updated: 2026-07-08 02:06 UTC_
 | 32 | Asjha Jones | 971 |
 | 33 | Margo Dydek | 950 |
 | 34 | Sancho Lyttle | 947 |
+| 35 | **Courtney Vandersloot** 🔴 +1 | 941 |
 | 35 | Mwadi Mabika | 941 |
-| 36 | **Courtney Vandersloot** 🔴 | 940 |
-| 36 | Tamika Whitmore | 940 |
+| 37 | Tamika Whitmore | 940 |
 | 38 | **DeWanna Bonner** 🔴 | 922 |
 | 39 | Briann January | 921 |
 | 40 | **Jonquel Jones** 🔴 +4 | 917 |
