@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-08 04:03 UTC_
+_Last updated: 2026-07-08 04:04 UTC_
 
 ## Contents
 
@@ -63,11 +63,11 @@ _Last updated: 2026-07-08 04:03 UTC_
 | 42 | Kelsey Plum | 4,494 |
 | 43 | Allisha Gray | 4,491 |
 | 44 | Kristi Toliver | 4,474 |
-| 45 | **Kahleah Copper** 🔴 +22 | 4,459 |
+| 45 | **Kahleah Copper** 🔴 +25 | 4,462 |
 | 46 | Crystal Langhorne | 4,433 |
 | 46 | Jia Perkins | 4,433 |
 | 48 | Jonquel Jones | 4,370 |
-| 49 | **Courtney Vandersloot** 🔴 +6 | 4,368 |
+| 49 | **Courtney Vandersloot** 🔴 +7 | 4,369 |
 | 50 | Courtney Williams | 4,350 |
 | 51 | Dearica Hamby | 4,330 |
 | 52 | Sophia Young-Malcolm | 4,300 |
@@ -436,7 +436,7 @@ _Last updated: 2026-07-08 04:03 UTC_
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
 | 6 | Chelsea Gray | 2,003 |
-| 7 | **Alyssa Thomas** 🔴 +4 | 1,975 |
+| 7 | **Alyssa Thomas** 🔴 +5 | 1,976 |
 | 8 | Skylar Diggins | 1,852 |
 | 9 | **Natasha Cloud** 🔴 +6 | 1,808 |
 | 10 | Becky Hammon | 1,705 |
@@ -1095,7 +1095,7 @@ _Last updated: 2026-07-08 04:03 UTC_
 | 45 | **Courtney Vandersloot** 🔴 +1 | 387 |
 | 46 | Briann January | 381 |
 | 47 | Jasmine Thomas | 376 |
-| 48 | **Kahleah Copper** 🔴 +3 | 373 |
+| 48 | **Kahleah Copper** 🔴 +4 | 374 |
 | 49 | Allison Feaster | 372 |
 | 49 | Betty Lennox | 372 |
 | 51 | Epiphanny Prince | 368 |
