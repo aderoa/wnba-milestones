@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-08 03:13 UTC_
+_Last updated: 2026-07-08 03:14 UTC_
 
 ## Contents
 
@@ -21,7 +21,7 @@ _Last updated: 2026-07-08 03:13 UTC_
 |-----:|--------|------:|
 | 1 | Diana Taurasi | 10,608 |
 | 2 | Tina Charles | 8,396 |
-| 3 | **DeWanna Bonner** 🔴 +5 | 7,977 |
+| 3 | **DeWanna Bonner** 🔴 +7 | 7,979 |
 | 4 | Nneka Ogwumike | 7,563 |
 | 5 | Tina Thompson | 7,470 |
 | 6 | Tamika Catchings | 7,371 |
@@ -52,7 +52,7 @@ _Last updated: 2026-07-08 03:13 UTC_
 | 31 | Taj McWilliams-Franklin | 4,992 |
 | 32 | Maya Moore | 4,984 |
 | 33 | Sheryl Swoopes | 4,875 |
-| 34 | **Alyssa Thomas** 🔴 +5 | 4,757 |
+| 34 | **Alyssa Thomas** 🔴 +7 | 4,759 |
 | 35 | Alana Beard | 4,740 |
 | 36 | Arike Ogunbowale | 4,723 |
 | 37 | Chamique Holdsclaw | 4,713 |
@@ -309,8 +309,8 @@ _Last updated: 2026-07-08 03:13 UTC_
 | 83 | Brionna Jones | 1,333 |
 | 84 | Erlana Larkins | 1,329 |
 | 85 | Mwadi Mabika | 1,327 |
+| 86 | **Azurá Stevens** 🔴 +7 | 1,326 |
 | 86 | Jayne Appel Marinelli | 1,326 |
-| 87 | **Azurá Stevens** 🔴 +6 | 1,325 |
 | 88 | Betty Lennox | 1,296 |
 | 89 | Tari Phillips | 1,274 |
 | 90 | Myisha Hines-Allen | 1,265 |
@@ -438,7 +438,7 @@ _Last updated: 2026-07-08 03:13 UTC_
 | 6 | Chelsea Gray | 2,003 |
 | 7 | **Alyssa Thomas** 🔴 +3 | 1,974 |
 | 8 | Skylar Diggins | 1,852 |
-| 9 | **Natasha Cloud** 🔴 +3 | 1,805 |
+| 9 | **Natasha Cloud** 🔴 +4 | 1,806 |
 | 10 | Becky Hammon | 1,705 |
 | 11 | Candace Parker | 1,634 |
 | 12 | Cappie Pondexter | 1,575 |
@@ -849,7 +849,7 @@ _Last updated: 2026-07-08 03:13 UTC_
 | 4 | Alana Beard | 710 |
 | 5 | Nneka Ogwumike | 687 |
 | 6 | Sheryl Swoopes | 657 |
-| 7 | **DeWanna Bonner** 🔴 | 650 |
+| 7 | **DeWanna Bonner** 🔴 +1 | 651 |
 | 8 | Jia Perkins | 634 |
 | 9 | Sancho Lyttle | 630 |
 | 10 | Angel McCoughtry | 627 |
@@ -1443,9 +1443,9 @@ _Last updated: 2026-07-08 03:13 UTC_
 | 188 | Natisha Hiedeman | 312 |
 | 189 | Tamika Raymond | 311 |
 | 190 | Isabelle Harrison | 307 |
-| 191 | **Azurá Stevens** 🔴 +1 | 305 |
-| 191 | Erin Perperoglou | 305 |
-| 191 | Jennifer Lacy | 305 |
+| 191 | **Azurá Stevens** 🔴 +2 | 306 |
+| 192 | Erin Perperoglou | 305 |
+| 192 | Jennifer Lacy | 305 |
 | 194 | **Rachel Banham** 🔴 +2 | 303 |
 | 194 | Tianna Hawkins | 303 |
 | 196 | Crystal Robinson | 299 |
