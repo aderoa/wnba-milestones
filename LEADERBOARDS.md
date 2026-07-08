@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-08 02:44 UTC_
+_Last updated: 2026-07-08 02:45 UTC_
 
 ## Contents
 
@@ -235,7 +235,7 @@ _Last updated: 2026-07-08 02:44 UTC_
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
-| 12 | **Alyssa Thomas** 🔴 +2 | 2,860 |
+| 12 | **Alyssa Thomas** 🔴 +3 | 2,861 |
 | 13 | Jonquel Jones | 2,740 |
 | 14 | A'ja Wilson | 2,657 |
 | 15 | Breanna Stewart | 2,641 |
@@ -855,7 +855,7 @@ _Last updated: 2026-07-08 02:44 UTC_
 | 10 | Angel McCoughtry | 627 |
 | 11 | Katie Douglas | 623 |
 | 12 | DeLisha Milton-Jones | 619 |
-| 13 | **Alyssa Thomas** 🔴 +4 | 586 |
+| 13 | **Alyssa Thomas** 🔴 +3 | 585 |
 | 14 | Taj McWilliams-Franklin | 577 |
 | 15 | Tully Bevilaqua | 571 |
 | 16 | **Courtney Vandersloot** 🔴 | 544 |
@@ -1446,8 +1446,8 @@ _Last updated: 2026-07-08 02:44 UTC_
 | 191 | Erin Perperoglou | 305 |
 | 191 | Jennifer Lacy | 305 |
 | 193 | **Azurá Stevens** 🔴 | 304 |
+| 194 | **Rachel Banham** 🔴 +2 | 303 |
 | 194 | Tianna Hawkins | 303 |
-| 195 | **Rachel Banham** 🔴 +1 | 302 |
 | 196 | Crystal Robinson | 299 |
 | 197 | Kayla Thornton | 298 |
 | 198 | Michele Timms | 297 |
