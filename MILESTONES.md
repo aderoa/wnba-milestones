@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-08 04:05 UTC
+
+- **Kamilla Cardoso** passed **Alyssa Thomas**, **Chelsea Gray**, **Chiney Ogwumike**, and **Kristen Rasmussen** for **#96** all-time in blocks (career 128) — up from #103 entering today — _End of 4th — CHI @ PHX_
+
 ## 2026-07-08 03:57 UTC
 
 - **Kamilla Cardoso** passed **Katie Douglas** and **Mistie Bass** for **#100** all-time in blocks (career 127) — up from #103 entering today — _3:06 - 4th — CHI @ PHX_
