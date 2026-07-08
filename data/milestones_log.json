@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-07-08T01:23:00+00:00",
+    "text": "Sabrina Ionescu passed Layshia Clarendon for #93 all-time in turnovers (career 537) \u2014 up from #96 entering today \u2014 (5:49 - 3rd \u2014 DAL @ NY)",
+    "kind": "rank_pass",
+    "player": "Sabrina Ionescu",
+    "stat": "turnovers",
+    "rank": 93,
+    "passed_players": [
+      "Layshia Clarendon"
+    ],
+    "new_total": 537
+  },
+  {
     "ts": "2026-07-08T00:18:00+00:00",
     "text": "Odyssey Sims passed Mwadi Mabika for #67 all-time in points (career 3,578) \u2014 up from #68 entering today \u2014 (1:18 - 1st \u2014 DAL @ NY)",
     "kind": "rank_pass",
@@ -2976,20 +2988,5 @@
       "Rebekkah Brunson"
     ],
     "new_total": 1000
-  },
-  {
-    "ts": "2026-06-27T12:06:00+00:00",
-    "text": "Olivia Nelson-Ododa passed Monique Billings, Devereaux Peters, Nicky Anosike, and Seimone Augustus for #86 all-time in blocks (career 136) \u2014 up from #89 entering today \u2014 (Final \u2014 WSH @ CON)",
-    "kind": "rank_pass",
-    "player": "Olivia Nelson-Ododa",
-    "stat": "blocks",
-    "rank": 86,
-    "passed_players": [
-      "Monique Billings",
-      "Devereaux Peters",
-      "Nicky Anosike",
-      "Seimone Augustus"
-    ],
-    "new_total": 136
   }
 ]
