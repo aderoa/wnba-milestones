@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-08 09:22 UTC_
+_Last updated: 2026-07-08 09:23 UTC_
 
 ## Contents
 
@@ -150,8 +150,8 @@ _Last updated: 2026-07-08 09:22 UTC_
 | 129 | Anna DeForge | 2,413 |
 | 130 | Kayla Thornton | 2,393 |
 | 131 | DeMya Walker | 2,379 |
-| 132 | Azurá Stevens | 2,352 |
-| 133 | Alex Bentley | 2,350 |
+| 132 | Alex Bentley | 2,350 |
+| 132 | Azurá Stevens | 2,350 |
 | 134 | Jordin Canada | 2,342 |
 | 135 | Merlakia Jones | 2,308 |
 | 136 | Betnijah Laney-Hamilton | 2,302 |
@@ -307,10 +307,10 @@ _Last updated: 2026-07-08 09:22 UTC_
 | 81 | Emma Meesseman | 1,350 |
 | 82 | Elena Baranova | 1,335 |
 | 83 | Brionna Jones | 1,333 |
-| 84 | Azurá Stevens | 1,329 |
 | 84 | Erlana Larkins | 1,329 |
-| 86 | Mwadi Mabika | 1,327 |
-| 87 | Jayne Appel Marinelli | 1,326 |
+| 85 | Mwadi Mabika | 1,327 |
+| 86 | Azurá Stevens | 1,326 |
+| 86 | Jayne Appel Marinelli | 1,326 |
 | 88 | Betty Lennox | 1,296 |
 | 89 | Tari Phillips | 1,274 |
 | 90 | Myisha Hines-Allen | 1,265 |
@@ -1442,8 +1442,8 @@ _Last updated: 2026-07-08 09:22 UTC_
 | 187 | Alex Bentley | 313 |
 | 188 | Natisha Hiedeman | 312 |
 | 189 | Tamika Raymond | 311 |
-| 190 | Azurá Stevens | 307 |
 | 190 | Isabelle Harrison | 307 |
+| 191 | Azurá Stevens | 306 |
 | 192 | Erin Perperoglou | 305 |
 | 192 | Jennifer Lacy | 305 |
 | 194 | Rachel Banham | 303 |
@@ -1632,10 +1632,10 @@ _Last updated: 2026-07-08 09:22 UTC_
 | 170 | Napheesa Collier | 504 |
 | 173 | Iziane Castro Marques | 502 |
 | 174 | Elena Baranova | 501 |
-| 175 | Azurá Stevens | 499 |
 | 175 | Rachel Banham | 499 |
-| 177 | Adrian Williams-Strong | 497 |
-| 177 | Essence Carson | 497 |
+| 176 | Adrian Williams-Strong | 497 |
+| 176 | Azurá Stevens | 497 |
+| 176 | Essence Carson | 497 |
 | 179 | Nia Coffey | 495 |
 | 180 | Karima Christmas-Kelly | 494 |
 | 181 | Ann Wauters | 493 |
