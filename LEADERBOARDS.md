@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-08 23:45 UTC_
+_Last updated: 2026-07-08 23:46 UTC_
 
 ## Contents
 
@@ -148,7 +148,7 @@ _Last updated: 2026-07-08 23:45 UTC_
 | 127 | Ruth Riley | 2,434 |
 | 128 | Svetlana Abrosimova | 2,414 |
 | 129 | Anna DeForge | 2,413 |
-| 130 | **Kayla Thornton** 🔴 | 2,393 |
+| 130 | **Kayla Thornton** 🔴 +3 | 2,396 |
 | 131 | DeMya Walker | 2,379 |
 | 132 | Alex Bentley | 2,350 |
 | 133 | Azurá Stevens | 2,343 |
@@ -295,7 +295,7 @@ _Last updated: 2026-07-08 23:45 UTC_
 | 69 | Monique Billings | 1,431 |
 | 70 | Alana Beard | 1,420 |
 | 71 | Nakia Sanford | 1,419 |
-| 72 | **Kayla Thornton** 🔴 +4 | 1,412 |
+| 72 | **Kayla Thornton** 🔴 +5 | 1,413 |
 | 73 | Allisha Gray | 1,404 |
 | 74 | Kara Braxton | 1,387 |
 | 75 | Courtney Vandersloot | 1,386 |
@@ -538,7 +538,7 @@ _Last updated: 2026-07-08 23:45 UTC_
 | 106 | Betnijah Laney-Hamilton | 590 |
 | 106 | Camille Smith | 590 |
 | 108 | Armintie Herrington | 589 |
-| 109 | **Veronica Burton** 🔴 +1 | 580 |
+| 109 | **Veronica Burton** 🔴 +2 | 581 |
 | 110 | Tan White | 578 |
 | 111 | Matee Ajavon | 577 |
 | 112 | Napheesa Collier | 570 |
@@ -1121,7 +1121,7 @@ _Last updated: 2026-07-08 23:45 UTC_
 | 71 | Bridget Carleton | 306 |
 | 72 | Kelly Miller | 305 |
 | 73 | Nikki Teasley | 304 |
-| 74 | **Kayla Thornton** 🔴 | 300 |
+| 74 | **Kayla Thornton** 🔴 +1 | 301 |
 | 75 | Vickie Johnson | 295 |
 | 76 | Seimone Augustus | 293 |
 | 77 | Candice Wiggins | 290 |
@@ -1237,9 +1237,9 @@ _Last updated: 2026-07-08 23:45 UTC_
 | 187 | Gordana Grubin | 114 |
 | 187 | Rickea Jackson | 114 |
 | 187 | Sandy Brondello | 114 |
+| 190 | **Cecilia Zandalasini** 🔴 +1 | 112 |
 | 190 | **Janelle Salaun** 🔴 +1 | 112 |
-| 191 | **Cecilia Zandalasini** 🔴 | 111 |
-| 191 | Shoni Schimmel | 111 |
+| 192 | Shoni Schimmel | 111 |
 | 193 | Emma Meesseman | 109 |
 | 193 | Scholanda Dorrell | 109 |
 | 195 | Belinda Snell | 108 |
