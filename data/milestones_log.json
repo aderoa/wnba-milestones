@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-07-08T02:41:00+00:00",
+    "text": "Kahleah Copper passed Allison Feaster and Betty Lennox for #48 all-time in three-pointers (career 373) \u2014 up from #50 entering today \u2014 (4:22 - 2nd \u2014 CHI @ PHX)",
+    "kind": "rank_pass",
+    "player": "Kahleah Copper",
+    "stat": "three-pointers",
+    "rank": 48,
+    "passed_players": [
+      "Allison Feaster",
+      "Betty Lennox"
+    ],
+    "new_total": 373
+  },
+  {
     "ts": "2026-07-08T02:07:00+00:00",
     "text": "Jessica Shepard passed DeMya Walker for #149 all-time in assists (career 447) \u2014 up from #153 entering today \u2014 (55.7 - 4th \u2014 DAL @ NY)",
     "kind": "rank_pass",
@@ -2981,14 +2994,5 @@
     "stat": "points",
     "value": 1400,
     "new_total": 1400
-  },
-  {
-    "ts": "2026-06-27T12:06:00+00:00",
-    "text": "Kiki Iriafen reached 800 career points (now 802) \u2014 (Final \u2014 WSH @ CON)",
-    "kind": "round",
-    "player": "Kiki Iriafen",
-    "stat": "points",
-    "value": 800,
-    "new_total": 802
   }
 ]

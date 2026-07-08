@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-08 02:41 UTC
+
+- **Kahleah Copper** passed **Allison Feaster** and **Betty Lennox** for **#48** all-time in three-pointers (career 373) — up from #50 entering today — _4:22 - 2nd — CHI @ PHX_
+
 ## 2026-07-08 02:07 UTC
 
 - **Jessica Shepard** passed **DeMya Walker** for **#149** all-time in assists (career 447) — up from #153 entering today — _55.7 - 4th — DAL @ NY_
