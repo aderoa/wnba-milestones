@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-08 01:33 UTC_
+_Last updated: 2026-07-08 01:34 UTC_
 
 ## Contents
 
@@ -1577,7 +1577,7 @@ _Last updated: 2026-07-08 01:33 UTC_
 | 117 | Coco Miller | 615 |
 | 118 | Brooke Wyckoff | 614 |
 | 119 | Svetlana Abrosimova | 613 |
-| 120 | **Odyssey Sims** 🔴 | 610 |
+| 120 | **Odyssey Sims** 🔴 +1 | 611 |
 | 121 | Layshia Clarendon | 609 |
 | 122 | **Arike Ogunbowale** 🔴 +2 | 606 |
 | 123 | Tiffany Mitchell | 604 |
@@ -1646,8 +1646,8 @@ _Last updated: 2026-07-08 01:33 UTC_
 | 185 | Kia Nurse | 484 |
 | 187 | Liz Cambage | 483 |
 | 187 | Rhonda Mapp | 483 |
-| 189 | **Alanna Smith** 🔴 +1 | 480 |
-| 189 | Sami Whitcomb | 480 |
+| 189 | **Alanna Smith** 🔴 +2 | 481 |
+| 190 | Sami Whitcomb | 480 |
 | 191 | Seimone Augustus | 477 |
 | 192 | Allie Quigley | 475 |
 | 193 | NaLyssa Smith | 474 |
