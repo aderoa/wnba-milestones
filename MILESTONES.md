@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-08 01:38 UTC
+
+- **Alanna Smith** passed **Erica Wheeler** for **#155** all-time in rebounds (career 883) — up from #156 entering today — _End of 3rd — DAL @ NY_
+
 ## 2026-07-08 01:23 UTC
 
 - **Sabrina Ionescu** passed **Layshia Clarendon** for **#93** all-time in turnovers (career 537) — up from #96 entering today — _5:49 - 3rd — DAL @ NY_
