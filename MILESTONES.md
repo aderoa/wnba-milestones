@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-08 03:44 UTC
+
+- **Azurá Stevens** passed **Jayne Appel Marinelli** for **#86** all-time in rebounds (career 1,327) — up from #87 entering today — _7:29 - 4th — CHI @ PHX_
+
 ## 2026-07-08 02:41 UTC
 
 - **Kahleah Copper** passed **Allison Feaster** and **Betty Lennox** for **#48** all-time in three-pointers (career 373) — up from #50 entering today — _4:22 - 2nd — CHI @ PHX_

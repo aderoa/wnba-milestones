@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-07-08T03:44:00+00:00",
+    "text": "Azur\u00e1 Stevens passed Jayne Appel Marinelli for #86 all-time in rebounds (career 1,327) \u2014 up from #87 entering today \u2014 (7:29 - 4th \u2014 CHI @ PHX)",
+    "kind": "rank_pass",
+    "player": "Azur\u00e1 Stevens",
+    "stat": "rebounds",
+    "rank": 86,
+    "passed_players": [
+      "Jayne Appel Marinelli"
+    ],
+    "new_total": 1327
+  },
+  {
     "ts": "2026-07-08T02:41:00+00:00",
     "text": "Kahleah Copper passed Allison Feaster and Betty Lennox for #48 all-time in three-pointers (career 373) \u2014 up from #50 entering today \u2014 (4:22 - 2nd \u2014 CHI @ PHX)",
     "kind": "rank_pass",
@@ -2985,14 +2997,5 @@
     "stat": "rebounds",
     "value": 300,
     "new_total": 300
-  },
-  {
-    "ts": "2026-06-27T12:06:00+00:00",
-    "text": "Michaela Onyenwere reached 1,400 career points (now 1,400) \u2014 (Final \u2014 WSH @ CON)",
-    "kind": "round",
-    "player": "Michaela Onyenwere",
-    "stat": "points",
-    "value": 1400,
-    "new_total": 1400
   }
 ]
