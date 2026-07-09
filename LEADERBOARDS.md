@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-09 00:12 UTC_
+_Last updated: 2026-07-09 00:13 UTC_
 
 ## Contents
 
@@ -41,7 +41,7 @@ _Last updated: 2026-07-09 00:12 UTC_
 | 20 | Becky Hammon | 5,816 |
 | 21 | Angel McCoughtry | 5,797 |
 | 22 | Skylar Diggins | 5,732 |
-| 23 | **Kayla McBride** 🔴 +8 | 5,658 |
+| 23 | **Kayla McBride** 🔴 +10 | 5,660 |
 | 24 | DeLisha Milton-Jones | 5,571 |
 | 25 | Katie Douglas | 5,545 |
 | 26 | Lindsay Whalen | 5,511 |
@@ -148,7 +148,7 @@ _Last updated: 2026-07-09 00:12 UTC_
 | 127 | Ruth Riley | 2,434 |
 | 128 | Svetlana Abrosimova | 2,414 |
 | 129 | Anna DeForge | 2,413 |
-| 130 | **Kayla Thornton** 🔴 +9 | 2,402 |
+| 130 | **Kayla Thornton** 🔴 +12 | 2,405 |
 | 131 | DeMya Walker | 2,379 |
 | 132 | Alex Bentley | 2,350 |
 | 133 | Azurá Stevens | 2,343 |
@@ -295,7 +295,7 @@ _Last updated: 2026-07-09 00:12 UTC_
 | 69 | Monique Billings | 1,431 |
 | 70 | Alana Beard | 1,420 |
 | 71 | Nakia Sanford | 1,419 |
-| 72 | **Kayla Thornton** 🔴 +6 | 1,414 |
+| 72 | **Kayla Thornton** 🔴 +7 | 1,415 |
 | 73 | Allisha Gray | 1,404 |
 | 74 | Kara Braxton | 1,387 |
 | 75 | Courtney Vandersloot | 1,386 |
@@ -315,10 +315,10 @@ _Last updated: 2026-07-09 00:12 UTC_
 | 89 | Tari Phillips | 1,274 |
 | 90 | Myisha Hines-Allen | 1,265 |
 | 91 | Janel McCarville | 1,261 |
+| 92 | **Kayla McBride** 🔴 +2 | 1,258 |
 | 92 | Liz Cambage | 1,258 |
-| 93 | Chelsea Gray | 1,257 |
-| 93 | **Kayla McBride** 🔴 +1 | 1,257 |
-| 93 | **Tiffany Hayes** 🔴 | 1,257 |
+| 94 | Chelsea Gray | 1,257 |
+| 94 | **Tiffany Hayes** 🔴 | 1,257 |
 | 96 | Brianna Turner | 1,243 |
 | 96 | Ezi Magbegor | 1,243 |
 | 98 | Seimone Augustus | 1,228 |
@@ -342,7 +342,7 @@ _Last updated: 2026-07-09 00:12 UTC_
 | 116 | Chiney Ogwumike | 1,110 |
 | 117 | Becky Hammon | 1,108 |
 | 118 | Ann Wauters | 1,105 |
-| 119 | **Isabelle Harrison** 🔴 +4 | 1,101 |
+| 119 | **Isabelle Harrison** 🔴 +5 | 1,102 |
 | 120 | Jackie Young | 1,085 |
 | 121 | Svetlana Abrosimova | 1,078 |
 | 122 | Le'coe Willingham | 1,054 |
@@ -532,8 +532,8 @@ _Last updated: 2026-07-09 00:12 UTC_
 | 100 | **Natasha Howard** 🔴 | 615 |
 | 101 | Debbie Black | 612 |
 | 102 | Cynthia Cooper | 602 |
-| 103 | **Gabby Williams** 🔴 +1 | 592 |
-| 103 | Sancho Lyttle | 592 |
+| 103 | **Gabby Williams** 🔴 +2 | 593 |
+| 104 | Sancho Lyttle | 592 |
 | 105 | Caitlin Clark | 591 |
 | 106 | Betnijah Laney-Hamilton | 590 |
 | 106 | Camille Smith | 590 |
@@ -1121,7 +1121,7 @@ _Last updated: 2026-07-09 00:12 UTC_
 | 71 | Bridget Carleton | 306 |
 | 72 | Kelly Miller | 305 |
 | 73 | Nikki Teasley | 304 |
-| 74 | **Kayla Thornton** 🔴 +1 | 301 |
+| 74 | **Kayla Thornton** 🔴 +2 | 302 |
 | 75 | Vickie Johnson | 295 |
 | 76 | Seimone Augustus | 293 |
 | 77 | Candice Wiggins | 290 |
