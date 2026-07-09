@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-09 01:08 UTC_
+_Last updated: 2026-07-09 01:09 UTC_
 
 ## Contents
 
@@ -249,7 +249,7 @@ _Last updated: 2026-07-09 01:08 UTC_
 | 23 | Lauren Jackson | 2,444 |
 | 24 | Yolanda Griffith | 2,440 |
 | 25 | Tangela Smith | 2,328 |
-| 26 | **Natasha Howard** 🔴 +7 | 2,322 |
+| 26 | **Natasha Howard** 🔴 +8 | 2,323 |
 | 27 | Erika de Souza | 2,220 |
 | 28 | Diana Taurasi | 2,201 |
 | 29 | Margo Dydek | 2,138 |
@@ -379,7 +379,7 @@ _Last updated: 2026-07-09 01:08 UTC_
 | 153 | Temeka Johnson | 889 |
 | 154 | Mistie Bass | 888 |
 | 155 | Erica Wheeler | 882 |
-| 156 | **Marina Mabrey** 🔴 +5 | 879 |
+| 156 | **Marina Mabrey** 🔴 +6 | 880 |
 | 157 | Alanna Smith | 878 |
 | 158 | Shameka Christon | 867 |
 | 159 | Krystal Thomas | 862 |
