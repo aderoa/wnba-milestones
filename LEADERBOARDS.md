@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-09 00:11 UTC_
+_Last updated: 2026-07-09 00:12 UTC_
 
 ## Contents
 
@@ -249,7 +249,7 @@ _Last updated: 2026-07-09 00:11 UTC_
 | 23 | Lauren Jackson | 2,444 |
 | 24 | Yolanda Griffith | 2,440 |
 | 25 | Tangela Smith | 2,328 |
-| 26 | **Natasha Howard** 🔴 +2 | 2,317 |
+| 26 | **Natasha Howard** 🔴 +3 | 2,318 |
 | 27 | Erika de Souza | 2,220 |
 | 28 | Diana Taurasi | 2,201 |
 | 29 | Margo Dydek | 2,138 |
@@ -444,7 +444,7 @@ _Last updated: 2026-07-09 00:11 UTC_
 | 12 | Cappie Pondexter | 1,575 |
 | 13 | Tamika Catchings | 1,484 |
 | 14 | Danielle Robinson | 1,480 |
-| 15 | **Courtney Williams** 🔴 +4 | 1,442 |
+| 15 | **Courtney Williams** 🔴 +5 | 1,443 |
 | 16 | Shannon Johnson | 1,423 |
 | 16 | Tanisha Wright | 1,423 |
 | 18 | Temeka Johnson | 1,382 |
@@ -1448,8 +1448,8 @@ _Last updated: 2026-07-09 00:11 UTC_
 | 193 | Azurá Stevens | 304 |
 | 194 | Tianna Hawkins | 303 |
 | 195 | Rachel Banham | 301 |
-| 196 | Crystal Robinson | 299 |
-| 196 | **Kayla Thornton** 🔴 +1 | 299 |
+| 196 | **Kayla Thornton** 🔴 +2 | 300 |
+| 197 | Crystal Robinson | 299 |
 | 198 | Michele Timms | 297 |
 | 199 | **Nia Coffey** 🔴 +1 | 290 |
 | 200 | Damiris Dantas | 289 |
@@ -1552,9 +1552,9 @@ _Last updated: 2026-07-09 00:11 UTC_
 | 92 | Breanna Stewart | 685 |
 | 92 | Cheyenne Parker-Tyus | 685 |
 | 92 | Jasmine Thomas | 685 |
-| 95 | Jewell Loyd | 684 |
-| 95 | **Kayla Thornton** 🔴 +2 | 684 |
-| 95 | Leilani Mitchell | 684 |
+| 92 | **Kayla Thornton** 🔴 +3 | 685 |
+| 96 | Jewell Loyd | 684 |
+| 96 | Leilani Mitchell | 684 |
 | 98 | Crystal Robinson | 682 |
 | 99 | Jennifer Lacy | 680 |
 | 99 | Temeka Johnson | 680 |
