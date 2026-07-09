@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-07-09T03:20:00+00:00",
+    "text": "Nneka Ogwumike passed Dawn Staley for #87 all-time in three-pointers (career 255) \u2014 up from #89 entering today \u2014 (5:36 - 3rd \u2014 IND @ LA)",
+    "kind": "rank_pass",
+    "player": "Nneka Ogwumike",
+    "stat": "three-pointers",
+    "rank": 87,
+    "passed_players": [
+      "Dawn Staley"
+    ],
+    "new_total": 255
+  },
+  {
     "ts": "2026-07-09T03:17:00+00:00",
     "text": "Myisha Hines-Allen passed Sophie Cunningham for #150 all-time in fouls (career 539) \u2014 up from #151 entering today \u2014 (7:23 - 3rd \u2014 IND @ LA)",
     "kind": "rank_pass",
@@ -2995,14 +3007,5 @@
       "Lindsey Harding"
     ],
     "new_total": 487
-  },
-  {
-    "ts": "2026-06-27T19:53:00+00:00",
-    "text": "DeWanna Bonner reached 3,300 career rebounds (now 3,300) \u2014 (4:28 - 4th \u2014 PHX @ TOR)",
-    "kind": "round",
-    "player": "DeWanna Bonner",
-    "stat": "rebounds",
-    "value": 3300,
-    "new_total": 3300
   }
 ]
