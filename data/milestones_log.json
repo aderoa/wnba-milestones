@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-07-09T01:23:00+00:00",
+    "text": "Natasha Howard passed Tina Thompson for #18 all-time in blocks (career 373) \u2014 up from #20 entering today \u2014 (6:55 - 4th \u2014 MIN @ CON)",
+    "kind": "rank_pass",
+    "player": "Natasha Howard",
+    "stat": "blocks",
+    "rank": 18,
+    "passed_players": [
+      "Tina Thompson"
+    ],
+    "new_total": 373
+  },
+  {
     "ts": "2026-07-09T01:05:00+00:00",
     "text": "Janelle Salaun passed Ebony Hoffman, Shey Peddy, and Stephanie White for #184 all-time in three-pointers (career 116) \u2014 up from #191 entering today \u2014 (1:16 - 4th \u2014 GS @ TOR)",
     "kind": "rank_pass",
@@ -2995,20 +3007,5 @@
       "Yolanda Griffith"
     ],
     "new_total": 453
-  },
-  {
-    "ts": "2026-06-27T19:16:00+00:00",
-    "text": "Julie Allemand passed Elena Delle Donne, Kristi Harrower, Nikki McCray, and Ruth Riley for #145 all-time in assists (career 451) \u2014 up from #151 entering today \u2014 (8:33 - 3rd \u2014 PHX @ TOR)",
-    "kind": "rank_pass",
-    "player": "Julie Allemand",
-    "stat": "assists",
-    "rank": 145,
-    "passed_players": [
-      "Elena Delle Donne",
-      "Kristi Harrower",
-      "Nikki McCray",
-      "Ruth Riley"
-    ],
-    "new_total": 451
   }
 ]

@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-09 01:23 UTC
+
+- **Natasha Howard** passed **Tina Thompson** for **#18** all-time in blocks (career 373) — up from #20 entering today — _6:55 - 4th — MIN @ CON_
+
 ## 2026-07-09 01:05 UTC
 
 - **Janelle Salaun** passed **Ebony Hoffman**, **Shey Peddy**, and **Stephanie White** for **#184** all-time in three-pointers (career 116) — up from #191 entering today — _1:16 - 4th — GS @ TOR_
