@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-09 03:44 UTC_
+_Last updated: 2026-07-09 03:45 UTC_
 
 ## Contents
 
@@ -227,7 +227,7 @@ _Last updated: 2026-07-09 03:44 UTC_
 | 1 | Tina Charles | 4,262 |
 | 2 | Sylvia Fowles | 4,005 |
 | 3 | Candace Parker | 3,467 |
-| 4 | **Nneka Ogwumike** 🔴 +7 | 3,413 |
+| 4 | **Nneka Ogwumike** 🔴 +8 | 3,414 |
 | 5 | Rebekkah Brunson | 3,345 |
 | 6 | Tamika Catchings | 3,313 |
 | 7 | Lisa Leslie | 3,303 |
@@ -291,7 +291,7 @@ _Last updated: 2026-07-09 03:44 UTC_
 | 65 | Sue Bird | 1,466 |
 | 66 | Cheyenne Parker-Tyus | 1,463 |
 | 67 | Nicole Powell | 1,457 |
-| 68 | **Monique Billings** 🔴 +10 | 1,441 |
+| 68 | **Monique Billings** 🔴 +12 | 1,443 |
 | 69 | Tamera Young | 1,433 |
 | 70 | Alana Beard | 1,420 |
 | 71 | Nakia Sanford | 1,419 |
@@ -1374,7 +1374,7 @@ _Last updated: 2026-07-09 03:44 UTC_
 | 119 | Ebony Hoffman | 470 |
 | 120 | Elaine Powell | 469 |
 | 121 | Allie Quigley | 467 |
-| 122 | **Ariel Atkins** 🔴 | 465 |
+| 122 | **Ariel Atkins** 🔴 +1 | 466 |
 | 123 | Jackie Young | 463 |
 | 124 | Betnijah Laney-Hamilton | 456 |
 | 125 | Kia Vaughn | 454 |
@@ -1508,7 +1508,7 @@ _Last updated: 2026-07-09 03:44 UTC_
 | 48 | Erika de Souza | 858 |
 | 49 | Angel McCoughtry | 857 |
 | 50 | Betty Lennox | 851 |
-| 51 | **Dearica Hamby** 🔴 | 850 |
+| 50 | **Dearica Hamby** 🔴 +1 | 851 |
 | 52 | Tamecka Dixon | 849 |
 | 53 | Natalie Williams | 847 |
 | 53 | Tamera Young | 847 |
