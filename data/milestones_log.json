@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-07-09T03:59:00+00:00",
+    "text": "Damiris Dantas passed Skylar Diggins for #133 all-time in rebounds (career 1,009) \u2014 up from #134 entering today \u2014 (1:55 - 4th \u2014 IND @ LA)",
+    "kind": "rank_pass",
+    "player": "Damiris Dantas",
+    "stat": "rebounds",
+    "rank": 133,
+    "passed_players": [
+      "Skylar Diggins"
+    ],
+    "new_total": 1009
+  },
+  {
     "ts": "2026-07-09T03:56:00+00:00",
     "text": "Nneka Ogwumike passed Natasha Howard for #13 all-time in fouls (career 1,159) \u2014 up from #14 entering today \u2014 (3:04 - 4th \u2014 IND @ LA)",
     "kind": "rank_pass",
@@ -2995,14 +3007,5 @@
       "DeMya Walker"
     ],
     "new_total": 1200
-  },
-  {
-    "ts": "2026-06-28T00:12:00+00:00",
-    "text": "Kelsey Mitchell reached 5,200 career points (now 5,201) \u2014 (6:55 - 1st \u2014 LA @ IND)",
-    "kind": "round",
-    "player": "Kelsey Mitchell",
-    "stat": "points",
-    "value": 5200,
-    "new_total": 5201
   }
 ]
