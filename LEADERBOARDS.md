@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-09 02:50 UTC_
+_Last updated: 2026-07-09 02:51 UTC_
 
 ## Contents
 
@@ -200,7 +200,7 @@ _Last updated: 2026-07-09 02:50 UTC_
 | 179 | NaLyssa Smith | 1,879 |
 | 180 | Rachel Banham | 1,843 |
 | 181 | **Damiris Dantas** 🔴 | 1,842 |
-| 182 | **Sophie Cunningham** 🔴 | 1,829 |
+| 182 | **Sophie Cunningham** 🔴 +2 | 1,831 |
 | 183 | Tianna Hawkins | 1,825 |
 | 184 | Noelle Quinn | 1,824 |
 | 185 | Danielle Adams | 1,820 |
@@ -847,7 +847,7 @@ _Last updated: 2026-07-09 02:50 UTC_
 | 2 | Ticha Penicheiro | 761 |
 | 3 | Sue Bird | 724 |
 | 4 | Alana Beard | 710 |
-| 5 | **Nneka Ogwumike** 🔴 | 687 |
+| 5 | **Nneka Ogwumike** 🔴 +1 | 688 |
 | 6 | Sheryl Swoopes | 657 |
 | 7 | DeWanna Bonner | 650 |
 | 8 | Jia Perkins | 634 |
@@ -1281,7 +1281,7 @@ _Last updated: 2026-07-09 02:50 UTC_
 | 26 | Natasha Howard | 846 |
 | 27 | DeWanna Bonner | 840 |
 | 28 | Katie Douglas | 824 |
-| 29 | **Nneka Ogwumike** 🔴 | 803 |
+| 29 | **Nneka Ogwumike** 🔴 +1 | 804 |
 | 30 | Betty Lennox | 800 |
 | 31 | Jasmine Thomas | 796 |
 | 32 | Jewell Loyd | 795 |
@@ -1451,8 +1451,8 @@ _Last updated: 2026-07-09 02:50 UTC_
 | 196 | Kayla Thornton | 300 |
 | 197 | Crystal Robinson | 299 |
 | 198 | Michele Timms | 297 |
+| 199 | **Damiris Dantas** 🔴 +1 | 290 |
 | 199 | Nia Coffey | 290 |
-| 200 | **Damiris Dantas** 🔴 | 289 |
 
 ## Personal fouls
 
