@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-09 00:50 UTC_
+_Last updated: 2026-07-09 00:51 UTC_
 
 ## Contents
 
@@ -57,7 +57,7 @@ _Last updated: 2026-07-09 00:50 UTC_
 | 36 | Arike Ogunbowale | 4,715 |
 | 37 | Chamique Holdsclaw | 4,713 |
 | 38 | Elena Delle Donne | 4,706 |
-| 39 | **Natasha Howard** 🔴 +9 | 4,691 |
+| 39 | **Natasha Howard** 🔴 +11 | 4,693 |
 | 40 | Chelsea Gray | 4,625 |
 | 41 | Penny Taylor | 4,595 |
 | 42 | Kelsey Plum | 4,494 |
@@ -473,7 +473,7 @@ _Last updated: 2026-07-09 00:50 UTC_
 | 41 | Dominique Canty | 1,042 |
 | 42 | Sheryl Swoopes | 1,037 |
 | 43 | Tina Charles | 1,033 |
-| 44 | **Kayla McBride** 🔴 | 992 |
+| 44 | **Kayla McBride** 🔴 +1 | 993 |
 | 45 | Nikki Teasley | 982 |
 | 46 | Breanna Stewart | 981 |
 | 47 | Tamecka Dixon | 960 |
@@ -1278,7 +1278,7 @@ _Last updated: 2026-07-09 00:50 UTC_
 | 23 | Taj McWilliams-Franklin | 898 |
 | 24 | Candice Dupree | 869 |
 | 25 | Alana Beard | 854 |
-| 26 | **Natasha Howard** 🔴 +1 | 844 |
+| 26 | **Natasha Howard** 🔴 +2 | 845 |
 | 27 | DeWanna Bonner | 840 |
 | 28 | Katie Douglas | 824 |
 | 29 | Nneka Ogwumike | 803 |
