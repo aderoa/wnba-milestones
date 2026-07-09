@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-07-09T03:56:00+00:00",
+    "text": "Nneka Ogwumike passed Natasha Howard for #13 all-time in fouls (career 1,159) \u2014 up from #14 entering today \u2014 (3:04 - 4th \u2014 IND @ LA)",
+    "kind": "rank_pass",
+    "player": "Nneka Ogwumike",
+    "stat": "fouls",
+    "rank": 13,
+    "passed_players": [
+      "Natasha Howard"
+    ],
+    "new_total": 1159
+  },
+  {
     "ts": "2026-07-09T03:33:00+00:00",
     "text": "Alissa Pili reached 100 career points (now 100) \u2014 (58.2 - 3rd \u2014 IND @ LA)",
     "kind": "round",
@@ -2992,17 +3004,5 @@
     "stat": "points",
     "value": 5200,
     "new_total": 5201
-  },
-  {
-    "ts": "2026-06-28T00:09:00+00:00",
-    "text": "Aliyah Boston passed Cheryl Ford for #73 all-time in blocks (career 161) \u2014 (9:02 - 1st \u2014 LA @ IND)",
-    "kind": "rank_pass",
-    "player": "Aliyah Boston",
-    "stat": "blocks",
-    "rank": 73,
-    "passed_players": [
-      "Cheryl Ford"
-    ],
-    "new_total": 161
   }
 ]

@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-09 03:56 UTC
+
+- **Nneka Ogwumike** passed **Natasha Howard** for **#13** all-time in fouls (career 1,159) — up from #14 entering today — _3:04 - 4th — IND @ LA_
+
 ## 2026-07-09 03:33 UTC
 
 - **Alissa Pili** reached **100** career points (now 100) — _58.2 - 3rd — IND @ LA_
