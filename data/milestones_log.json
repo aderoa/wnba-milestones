@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-07-09T00:29:00+00:00",
+    "text": "Isabelle Harrison passed Myisha Hines-Allen for #178 all-time in steals (career 192) \u2014 up from #179 entering today \u2014 (2:24 - 3rd \u2014 GS @ TOR)",
+    "kind": "rank_pass",
+    "player": "Isabelle Harrison",
+    "stat": "steals",
+    "rank": 178,
+    "passed_players": [
+      "Myisha Hines-Allen"
+    ],
+    "new_total": 192
+  },
+  {
     "ts": "2026-07-09T00:03:00+00:00",
     "text": "Courtney Williams passed Sheryl Swoopes for #55 all-time in turnovers (career 678) \u2014 up from #56 entering today \u2014 (8:54 - 2nd \u2014 MIN @ CON)",
     "kind": "rank_pass",
@@ -2994,14 +3006,5 @@
       "Leilani Mitchell"
     ],
     "new_total": 1198
-  },
-  {
-    "ts": "2026-06-27T18:45:00+00:00",
-    "text": "Isabelle Harrison reached 1,100 career rebounds (now 1,100) \u2014 (6:04 - 2nd \u2014 PHX @ TOR)",
-    "kind": "round",
-    "player": "Isabelle Harrison",
-    "stat": "rebounds",
-    "value": 1100,
-    "new_total": 1100
   }
 ]
