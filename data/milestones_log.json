@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-07-09T04:02:00+00:00",
+    "text": "Damiris Dantas passed Myisha Hines-Allen for #151 all-time in fouls (career 536) \u2014 up from #152 entering today \u2014 (1:00 - 4th \u2014 IND @ LA)",
+    "kind": "rank_pass",
+    "player": "Damiris Dantas",
+    "stat": "fouls",
+    "rank": 151,
+    "passed_players": [
+      "Myisha Hines-Allen"
+    ],
+    "new_total": 536
+  },
+  {
     "ts": "2026-07-09T03:59:00+00:00",
     "text": "Damiris Dantas passed Skylar Diggins for #133 all-time in rebounds (career 1,009) \u2014 up from #134 entering today \u2014 (1:55 - 4th \u2014 IND @ LA)",
     "kind": "rank_pass",
@@ -2994,18 +3006,6 @@
     "player": "Aliyah Boston",
     "stat": "rebounds",
     "value": 1200,
-    "new_total": 1200
-  },
-  {
-    "ts": "2026-06-28T00:14:00+00:00",
-    "text": "Aliyah Boston passed DeMya Walker for #101 all-time in rebounds (career 1,200) \u2014 up from #102 entering today \u2014 (5:21 - 1st \u2014 LA @ IND)",
-    "kind": "rank_pass",
-    "player": "Aliyah Boston",
-    "stat": "rebounds",
-    "rank": 101,
-    "passed_players": [
-      "DeMya Walker"
-    ],
     "new_total": 1200
   }
 ]
