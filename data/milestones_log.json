@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-07-09T02:04:00+00:00",
+    "text": "Caitlin Clark passed Gabby Williams for #105 all-time in assists (career 592) \u2014 (8:40 - 1st \u2014 IND @ LA)",
+    "kind": "rank_pass",
+    "player": "Caitlin Clark",
+    "stat": "assists",
+    "rank": 105,
+    "passed_players": [
+      "Gabby Williams"
+    ],
+    "new_total": 592
+  },
+  {
     "ts": "2026-07-09T01:23:00+00:00",
     "text": "Natasha Howard passed Tina Thompson for #18 all-time in blocks (career 373) \u2014 up from #20 entering today \u2014 (6:55 - 4th \u2014 MIN @ CON)",
     "kind": "rank_pass",
@@ -2995,17 +3007,5 @@
       "Kedra Holland-Corn"
     ],
     "new_total": 1940
-  },
-  {
-    "ts": "2026-06-27T19:19:00+00:00",
-    "text": "Julie Allemand passed Yolanda Griffith for #144 all-time in assists (career 453) \u2014 up from #151 entering today \u2014 (6:28 - 3rd \u2014 PHX @ TOR)",
-    "kind": "rank_pass",
-    "player": "Julie Allemand",
-    "stat": "assists",
-    "rank": 144,
-    "passed_players": [
-      "Yolanda Griffith"
-    ],
-    "new_total": 453
   }
 ]
