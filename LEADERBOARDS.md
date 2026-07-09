@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-09 01:10 UTC_
+_Last updated: 2026-07-09 01:11 UTC_
 
 ## Contents
 
@@ -987,8 +987,8 @@ _Last updated: 2026-07-09 01:10 UTC_
 | 142 | Wendy Palmer | 226 |
 | 143 | Alexis Hornbuckle | 225 |
 | 144 | Cheryl Ford | 224 |
-| 145 | Marina Mabrey | 221 |
-| 145 | Rushia Brown | 221 |
+| 145 | Marina Mabrey | 222 |
+| 146 | Rushia Brown | 221 |
 | 147 | DeMya Walker | 220 |
 | 147 | Jennifer Gillom | 220 |
 | 149 | Allison Feaster | 219 |
