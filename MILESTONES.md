@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-09 01:03 UTC
+
+- **Janelle Salaun** passed **Gordana Grubin**, **Rickea Jackson**, and **Sandy Brondello** for **#187** all-time in three-pointers (career 115) — up from #191 entering today — _1:47 - 4th — GS @ TOR_
+
 ## 2026-07-09 00:29 UTC
 
 - **Isabelle Harrison** passed **Myisha Hines-Allen** for **#178** all-time in steals (career 192) — up from #179 entering today — _2:24 - 3rd — GS @ TOR_

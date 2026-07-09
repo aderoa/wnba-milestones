@@ -1,5 +1,19 @@
 [
   {
+    "ts": "2026-07-09T01:03:00+00:00",
+    "text": "Janelle Salaun passed Gordana Grubin, Rickea Jackson, and Sandy Brondello for #187 all-time in three-pointers (career 115) \u2014 up from #191 entering today \u2014 (1:47 - 4th \u2014 GS @ TOR)",
+    "kind": "rank_pass",
+    "player": "Janelle Salaun",
+    "stat": "three-pointers",
+    "rank": 187,
+    "passed_players": [
+      "Gordana Grubin",
+      "Rickea Jackson",
+      "Sandy Brondello"
+    ],
+    "new_total": 115
+  },
+  {
     "ts": "2026-07-09T00:29:00+00:00",
     "text": "Isabelle Harrison passed Myisha Hines-Allen for #178 all-time in steals (career 192) \u2014 up from #179 entering today \u2014 (2:24 - 3rd \u2014 GS @ TOR)",
     "kind": "rank_pass",
@@ -2994,17 +3008,5 @@
       "DeMya Walker"
     ],
     "new_total": 447
-  },
-  {
-    "ts": "2026-06-27T18:55:00+00:00",
-    "text": "DeWanna Bonner passed Leilani Mitchell for #30 all-time in assists (career 1,198) \u2014 up from #31 entering today \u2014 (2:45 - 2nd \u2014 PHX @ TOR)",
-    "kind": "rank_pass",
-    "player": "DeWanna Bonner",
-    "stat": "assists",
-    "rank": 30,
-    "passed_players": [
-      "Leilani Mitchell"
-    ],
-    "new_total": 1198
   }
 ]
