@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-09 00:59 UTC_
+_Last updated: 2026-07-09 01:00 UTC_
 
 ## Contents
 
@@ -186,7 +186,7 @@ _Last updated: 2026-07-09 00:59 UTC_
 | 165 | Chiney Ogwumike | 1,964 |
 | 166 | Nicole Ohlde | 1,959 |
 | 167 | Myisha Hines-Allen | 1,956 |
-| 168 | **Isabelle Harrison** 🔴 +20 | 1,952 |
+| 168 | **Isabelle Harrison** 🔴 +22 | 1,954 |
 | 169 | Kedra Holland-Corn | 1,938 |
 | 170 | Cathrine Kraayeveld | 1,926 |
 | 171 | Roneeka Hodges | 1,925 |
@@ -317,8 +317,8 @@ _Last updated: 2026-07-09 00:59 UTC_
 | 91 | Janel McCarville | 1,261 |
 | 92 | **Kayla McBride** 🔴 +3 | 1,259 |
 | 93 | Liz Cambage | 1,258 |
-| 93 | **Tiffany Hayes** 🔴 +1 | 1,258 |
-| 95 | Chelsea Gray | 1,257 |
+| 94 | Chelsea Gray | 1,257 |
+| 94 | **Tiffany Hayes** 🔴 | 1,257 |
 | 96 | Brianna Turner | 1,243 |
 | 96 | Ezi Magbegor | 1,243 |
 | 98 | Seimone Augustus | 1,228 |
@@ -499,7 +499,7 @@ _Last updated: 2026-07-09 00:59 UTC_
 | 67 | Kelsey Mitchell | 847 |
 | 68 | Jia Perkins | 837 |
 | 69 | Andrea Stinson | 810 |
-| 70 | **Marina Mabrey** 🔴 +3 | 804 |
+| 70 | **Marina Mabrey** 🔴 +4 | 805 |
 | 71 | Tina Thompson | 803 |
 | 72 | Epiphanny Prince | 800 |
 | 73 | Mwadi Mabika | 774 |
