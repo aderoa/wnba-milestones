@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-09 02:34 UTC
+
+- **Monique Billings** passed **Jackie Young** for **#143** all-time in fouls (career 549) — up from #145 entering today — _7:50 - 2nd — IND @ LA_
+
 ## 2026-07-09 02:05 UTC
 
 - **Caitlin Clark** passed **Sancho Lyttle** for **#103** all-time in assists (career 593) — up from #104 entering today — _7:49 - 1st — IND @ LA_

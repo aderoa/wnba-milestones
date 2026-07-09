@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-07-09T02:34:00+00:00",
+    "text": "Monique Billings passed Jackie Young for #143 all-time in fouls (career 549) \u2014 up from #145 entering today \u2014 (7:50 - 2nd \u2014 IND @ LA)",
+    "kind": "rank_pass",
+    "player": "Monique Billings",
+    "stat": "fouls",
+    "rank": 143,
+    "passed_players": [
+      "Jackie Young"
+    ],
+    "new_total": 549
+  },
+  {
     "ts": "2026-07-09T02:05:00+00:00",
     "text": "Caitlin Clark passed Sancho Lyttle for #103 all-time in assists (career 593) \u2014 up from #104 entering today \u2014 (7:49 - 1st \u2014 IND @ LA)",
     "kind": "rank_pass",
@@ -2995,17 +3007,5 @@
       "Kahleah Copper"
     ],
     "new_total": 371
-  },
-  {
-    "ts": "2026-06-27T19:43:00+00:00",
-    "text": "Isabelle Harrison passed Theresa Plaisance for #129 all-time in blocks (career 103) \u2014 (8:33 - 4th \u2014 PHX @ TOR)",
-    "kind": "rank_pass",
-    "player": "Isabelle Harrison",
-    "stat": "blocks",
-    "rank": 129,
-    "passed_players": [
-      "Theresa Plaisance"
-    ],
-    "new_total": 103
   }
 ]
