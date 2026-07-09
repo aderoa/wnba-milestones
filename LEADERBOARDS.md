@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-09 02:14 UTC_
+_Last updated: 2026-07-09 02:15 UTC_
 
 ## Contents
 
@@ -107,7 +107,7 @@ _Last updated: 2026-07-09 02:14 UTC_
 | 86 | Marina Mabrey | 3,260 |
 | 87 | Stefanie Dolson | 3,217 |
 | 88 | Margo Dydek | 3,214 |
-| 89 | **Erica Wheeler** 🔴 | 3,195 |
+| 89 | **Erica Wheeler** 🔴 +2 | 3,197 |
 | 90 | Danielle Robinson | 3,160 |
 | 91 | Wendy Palmer | 3,135 |
 | 92 | Shavonte Zellous | 3,103 |
@@ -227,7 +227,7 @@ _Last updated: 2026-07-09 02:14 UTC_
 | 1 | Tina Charles | 4,262 |
 | 2 | Sylvia Fowles | 4,005 |
 | 3 | Candace Parker | 3,467 |
-| 4 | **Nneka Ogwumike** 🔴 +2 | 3,408 |
+| 4 | **Nneka Ogwumike** 🔴 +3 | 3,409 |
 | 5 | Rebekkah Brunson | 3,345 |
 | 6 | Tamika Catchings | 3,313 |
 | 7 | Lisa Leslie | 3,303 |
@@ -480,7 +480,7 @@ _Last updated: 2026-07-09 02:14 UTC_
 | 47 | Tiffany Hayes | 960 |
 | 49 | Kara Lawson | 946 |
 | 50 | Arike Ogunbowale | 944 |
-| 51 | **Nneka Ogwumike** 🔴 | 933 |
+| 51 | **Nneka Ogwumike** 🔴 +1 | 934 |
 | 52 | Deanna Nolan | 930 |
 | 53 | Kelly Miller | 927 |
 | 54 | DeLisha Milton-Jones | 921 |
@@ -496,7 +496,7 @@ _Last updated: 2026-07-09 02:14 UTC_
 | 64 | Lisa Leslie | 873 |
 | 65 | Brittney Sykes | 866 |
 | 66 | Tully Bevilaqua | 853 |
-| 67 | **Kelsey Mitchell** 🔴 | 847 |
+| 67 | **Kelsey Mitchell** 🔴 +1 | 848 |
 | 68 | Jia Perkins | 837 |
 | 69 | Andrea Stinson | 810 |
 | 70 | Marina Mabrey | 805 |
@@ -1180,8 +1180,8 @@ _Last updated: 2026-07-09 02:14 UTC_
 | 130 | Shavonte Zellous | 167 |
 | 130 | Tianna Hawkins | 167 |
 | 132 | Charlotte Smith | 164 |
-| 133 | **Tyasha Harris** 🔴 | 162 |
-| 133 | Ukari Figgs | 162 |
+| 133 | **Tyasha Harris** 🔴 +1 | 163 |
+| 134 | Ukari Figgs | 162 |
 | 135 | Edna Campbell | 161 |
 | 136 | Dana Evans | 160 |
 | 136 | Jennifer Lacy | 160 |
