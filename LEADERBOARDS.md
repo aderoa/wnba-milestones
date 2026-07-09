@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-09 01:41 UTC_
+_Last updated: 2026-07-09 01:42 UTC_
 
 ## Contents
 
@@ -1306,8 +1306,8 @@ _Last updated: 2026-07-09 01:41 UTC_
 | 51 | DeMya Walker | 684 |
 | 51 | Dearica Hamby | 684 |
 | 53 | Asjha Jones | 682 |
+| 54 | **Courtney Williams** 🔴 +5 | 680 |
 | 54 | Danielle Robinson | 680 |
-| 55 | **Courtney Williams** 🔴 +4 | 679 |
 | 56 | Sheryl Swoopes | 677 |
 | 57 | Tammy Sutton-Brown | 672 |
 | 58 | Deanna Nolan | 669 |
