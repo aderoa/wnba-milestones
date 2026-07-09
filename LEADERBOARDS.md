@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-09 02:32 UTC_
+_Last updated: 2026-07-09 02:33 UTC_
 
 ## Contents
 
@@ -213,7 +213,7 @@ _Last updated: 2026-07-09 02:32 UTC_
 | 192 | Armintie Herrington | 1,696 |
 | 193 | Nikki Teasley | 1,690 |
 | 194 | Shenise Johnson | 1,688 |
-| 195 | **Monique Billings** 🔴 +2 | 1,614 |
+| 195 | **Monique Billings** 🔴 +4 | 1,616 |
 | 196 | Janell Burse | 1,580 |
 | 197 | Le'coe Willingham | 1,552 |
 | 198 | Shatori Walker-Kimbrough | 1,544 |
@@ -1028,9 +1028,9 @@ _Last updated: 2026-07-09 02:32 UTC_
 | 182 | Tiffany Jackson | 185 |
 | 184 | Erin Perperoglou | 184 |
 | 184 | Sabrina Ionescu | 184 |
+| 186 | **Monique Billings** 🔴 +1 | 183 |
 | 186 | Rebecca Allen | 183 |
-| 187 | Erin Phillips | 182 |
-| 187 | **Monique Billings** 🔴 | 182 |
+| 188 | Erin Phillips | 182 |
 | 189 | Nakia Sanford | 181 |
 | 190 | Diamond DeShields | 180 |
 | 191 | Kiah Stokes | 178 |
@@ -1302,7 +1302,7 @@ _Last updated: 2026-07-09 02:32 UTC_
 | 47 | Renee Montgomery | 697 |
 | 48 | Temeka Johnson | 696 |
 | 49 | Penny Taylor | 695 |
-| 50 | **Dearica Hamby** 🔴 +2 | 686 |
+| 50 | **Dearica Hamby** 🔴 +3 | 687 |
 | 51 | Dominique Canty | 685 |
 | 52 | DeMya Walker | 684 |
 | 53 | Asjha Jones | 682 |
@@ -1437,8 +1437,8 @@ _Last updated: 2026-07-09 02:32 UTC_
 | 182 | Olympia Scott | 324 |
 | 183 | Kia Nurse | 321 |
 | 184 | Barbara Farris | 315 |
-| 185 | **Monique Billings** 🔴 | 314 |
-| 185 | Moriah Jefferson | 314 |
+| 184 | **Monique Billings** 🔴 +1 | 315 |
+| 186 | Moriah Jefferson | 314 |
 | 187 | Alex Bentley | 313 |
 | 188 | Natisha Hiedeman | 312 |
 | 189 | Isabelle Harrison | 311 |
@@ -1601,7 +1601,7 @@ _Last updated: 2026-07-09 02:32 UTC_
 | 141 | Glory Johnson | 550 |
 | 141 | Tierra Ruffin-Pratt | 550 |
 | 143 | Jackie Young | 548 |
-| 144 | **Monique Billings** 🔴 +1 | 547 |
+| 143 | **Monique Billings** 🔴 +2 | 548 |
 | 145 | Erlana Larkins | 546 |
 | 146 | Kayla McBride | 545 |
 | 147 | Jayne Appel Marinelli | 543 |
