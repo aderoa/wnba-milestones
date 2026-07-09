@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-07-09T02:05:00+00:00",
+    "text": "Caitlin Clark passed Sancho Lyttle for #103 all-time in assists (career 593) \u2014 up from #104 entering today \u2014 (7:49 - 1st \u2014 IND @ LA)",
+    "kind": "rank_pass",
+    "player": "Caitlin Clark",
+    "stat": "assists",
+    "rank": 103,
+    "passed_players": [
+      "Sancho Lyttle"
+    ],
+    "new_total": 593
+  },
+  {
     "ts": "2026-07-09T02:04:00+00:00",
     "text": "Caitlin Clark passed Gabby Williams for #105 all-time in assists (career 592) \u2014 (8:40 - 1st \u2014 IND @ LA)",
     "kind": "rank_pass",
@@ -2995,17 +3007,5 @@
       "Theresa Plaisance"
     ],
     "new_total": 103
-  },
-  {
-    "ts": "2026-06-27T19:20:00+00:00",
-    "text": "Isabelle Harrison passed Kedra Holland-Corn for #168 all-time in points (career 1,940) \u2014 up from #169 entering today \u2014 (5:42 - 3rd \u2014 PHX @ TOR)",
-    "kind": "rank_pass",
-    "player": "Isabelle Harrison",
-    "stat": "points",
-    "rank": 168,
-    "passed_players": [
-      "Kedra Holland-Corn"
-    ],
-    "new_total": 1940
   }
 ]

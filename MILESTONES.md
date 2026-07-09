@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-09 02:05 UTC
+
+- **Caitlin Clark** passed **Sancho Lyttle** for **#103** all-time in assists (career 593) — up from #104 entering today — _7:49 - 1st — IND @ LA_
+
 ## 2026-07-09 02:04 UTC
 
 - **Caitlin Clark** passed **Gabby Williams** for **#105** all-time in assists (career 592) — _8:40 - 1st — IND @ LA_
