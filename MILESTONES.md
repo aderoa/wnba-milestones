@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-09 03:17 UTC
+
+- **Myisha Hines-Allen** passed **Sophie Cunningham** for **#150** all-time in fouls (career 539) — up from #151 entering today — _7:23 - 3rd — IND @ LA_
+
 ## 2026-07-09 03:15 UTC
 
 - **Erica Wheeler** reached **3,200** career points (now 3,200) — _8:17 - 3rd — IND @ LA_

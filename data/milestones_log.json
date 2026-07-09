@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-07-09T03:17:00+00:00",
+    "text": "Myisha Hines-Allen passed Sophie Cunningham for #150 all-time in fouls (career 539) \u2014 up from #151 entering today \u2014 (7:23 - 3rd \u2014 IND @ LA)",
+    "kind": "rank_pass",
+    "player": "Myisha Hines-Allen",
+    "stat": "fouls",
+    "rank": 150,
+    "passed_players": [
+      "Sophie Cunningham"
+    ],
+    "new_total": 539
+  },
+  {
     "ts": "2026-07-09T03:15:00+00:00",
     "text": "Erica Wheeler reached 3,200 career points (now 3,200) \u2014 (8:17 - 3rd \u2014 IND @ LA)",
     "kind": "round",
@@ -2992,17 +3004,5 @@
     "stat": "rebounds",
     "value": 3300,
     "new_total": 3300
-  },
-  {
-    "ts": "2026-06-27T19:53:00+00:00",
-    "text": "Isabelle Harrison passed Vicky Bullett for #165 all-time in fouls (career 508) \u2014 up from #167 entering today \u2014 (4:28 - 4th \u2014 PHX @ TOR)",
-    "kind": "rank_pass",
-    "player": "Isabelle Harrison",
-    "stat": "fouls",
-    "rank": 165,
-    "passed_players": [
-      "Vicky Bullett"
-    ],
-    "new_total": 508
   }
 ]
