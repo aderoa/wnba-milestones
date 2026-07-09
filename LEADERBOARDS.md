@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-09 03:35 UTC_
+_Last updated: 2026-07-09 03:41 UTC_
 
 ## Contents
 
@@ -107,7 +107,7 @@ _Last updated: 2026-07-09 03:35 UTC_
 | 86 | Marina Mabrey | 3,260 |
 | 87 | Stefanie Dolson | 3,217 |
 | 88 | Margo Dydek | 3,214 |
-| 89 | **Erica Wheeler** 🔴 +5 | 3,200 |
+| 89 | **Erica Wheeler** 🔴 +7 | 3,202 |
 | 90 | Danielle Robinson | 3,160 |
 | 91 | Wendy Palmer | 3,135 |
 | 92 | Shavonte Zellous | 3,103 |
@@ -198,7 +198,7 @@ _Last updated: 2026-07-09 03:35 UTC_
 | 177 | Gabby Williams | 1,906 |
 | 178 | Candice Wiggins | 1,901 |
 | 179 | NaLyssa Smith | 1,879 |
-| 180 | **Damiris Dantas** 🔴 +5 | 1,847 |
+| 180 | **Damiris Dantas** 🔴 +8 | 1,850 |
 | 181 | Rachel Banham | 1,843 |
 | 182 | **Sophie Cunningham** 🔴 +2 | 1,831 |
 | 183 | Tianna Hawkins | 1,825 |
@@ -291,7 +291,7 @@ _Last updated: 2026-07-09 03:35 UTC_
 | 65 | Sue Bird | 1,466 |
 | 66 | Cheyenne Parker-Tyus | 1,463 |
 | 67 | Nicole Powell | 1,457 |
-| 68 | **Monique Billings** 🔴 +7 | 1,438 |
+| 68 | **Monique Billings** 🔴 +8 | 1,439 |
 | 69 | Tamera Young | 1,433 |
 | 70 | Alana Beard | 1,420 |
 | 71 | Nakia Sanford | 1,419 |
@@ -532,8 +532,8 @@ _Last updated: 2026-07-09 03:35 UTC_
 | 100 | Natasha Howard | 617 |
 | 101 | Debbie Black | 612 |
 | 102 | Cynthia Cooper | 602 |
-| 103 | **Caitlin Clark** 🔴 +2 | 593 |
-| 103 | Gabby Williams | 593 |
+| 103 | **Caitlin Clark** 🔴 +3 | 594 |
+| 104 | Gabby Williams | 593 |
 | 105 | Sancho Lyttle | 592 |
 | 106 | Betnijah Laney-Hamilton | 590 |
 | 106 | Camille Smith | 590 |
@@ -886,7 +886,7 @@ _Last updated: 2026-07-09 03:35 UTC_
 | 41 | Candice Dupree | 431 |
 | 42 | Epiphanny Prince | 429 |
 | 43 | Tanisha Wright | 427 |
-| 44 | **Dearica Hamby** 🔴 +2 | 413 |
+| 44 | **Dearica Hamby** 🔴 +3 | 414 |
 | 45 | Katie Smith | 408 |
 | 46 | Cappie Pondexter | 405 |
 | 47 | Nicole Powell | 401 |
@@ -1152,7 +1152,7 @@ _Last updated: 2026-07-09 03:35 UTC_
 | 102 | Essence Carson | 223 |
 | 103 | Kelly Mazzante | 218 |
 | 103 | Sheri Sam | 218 |
-| 105 | **Damiris Dantas** 🔴 +1 | 213 |
+| 105 | **Damiris Dantas** 🔴 +2 | 214 |
 | 106 | Erin Phillips | 211 |
 | 107 | Andrea Stinson | 207 |
 | 108 | Betnijah Laney-Hamilton | 206 |
@@ -1160,8 +1160,8 @@ _Last updated: 2026-07-09 03:35 UTC_
 | 110 | Shanna Zolman | 199 |
 | 111 | Temeka Johnson | 197 |
 | 111 | Tina Charles | 197 |
+| 113 | **Caitlin Clark** 🔴 +1 | 196 |
 | 113 | Nia Coffey | 196 |
-| 114 | **Caitlin Clark** 🔴 | 195 |
 | 115 | Lindsay Whalen | 193 |
 | 116 | Victoria Vivians | 192 |
 | 117 | Danielle Adams | 188 |
