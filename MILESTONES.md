@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-09 03:32 UTC
+
+- **Damiris Dantas** passed **Rachel Banham** for **#180** all-time in points (career 1,845) — up from #181 entering today — _1:03 - 3rd — IND @ LA_
+
 ## 2026-07-09 03:20 UTC
 
 - **Nneka Ogwumike** passed **Dawn Staley** for **#87** all-time in three-pointers (career 255) — up from #89 entering today — _5:36 - 3rd — IND @ LA_
