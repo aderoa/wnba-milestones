@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-09 04:03 UTC
+
+- **Dearica Hamby** passed **Courtney Williams** for **#50** all-time in points (career 4,351) — up from #51 entering today — _8.4 - 4th — IND @ LA_
+
 ## 2026-07-09 04:02 UTC
 
 - **Damiris Dantas** passed **Myisha Hines-Allen** for **#151** all-time in fouls (career 536) — up from #152 entering today — _1:00 - 4th — IND @ LA_

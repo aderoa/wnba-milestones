@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-07-09T04:03:00+00:00",
+    "text": "Dearica Hamby passed Courtney Williams for #50 all-time in points (career 4,351) \u2014 up from #51 entering today \u2014 (8.4 - 4th \u2014 IND @ LA)",
+    "kind": "rank_pass",
+    "player": "Dearica Hamby",
+    "stat": "points",
+    "rank": 50,
+    "passed_players": [
+      "Courtney Williams"
+    ],
+    "new_total": 4351
+  },
+  {
     "ts": "2026-07-09T04:02:00+00:00",
     "text": "Damiris Dantas passed Myisha Hines-Allen for #151 all-time in fouls (career 536) \u2014 up from #152 entering today \u2014 (1:00 - 4th \u2014 IND @ LA)",
     "kind": "rank_pass",
@@ -2998,14 +3010,5 @@
       "Latasha Byears"
     ],
     "new_total": 731
-  },
-  {
-    "ts": "2026-06-28T00:14:00+00:00",
-    "text": "Aliyah Boston reached 1,200 career rebounds (now 1,200) \u2014 (5:21 - 1st \u2014 LA @ IND)",
-    "kind": "round",
-    "player": "Aliyah Boston",
-    "stat": "rebounds",
-    "value": 1200,
-    "new_total": 1200
   }
 ]
