@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-09 04:27 UTC_
+_Last updated: 2026-07-09 04:28 UTC_
 
 ## Contents
 
@@ -45,7 +45,7 @@ _Last updated: 2026-07-09 04:27 UTC_
 | 24 | DeLisha Milton-Jones | 5,571 |
 | 25 | Katie Douglas | 5,545 |
 | 26 | Lindsay Whalen | 5,511 |
-| 27 | Kelsey Mitchell | 5,227 |
+| 27 | Kelsey Mitchell | 5,211 |
 | 28 | Swin Cash | 5,119 |
 | 29 | Tiffany Hayes | 5,051 |
 | 30 | Tangela Smith | 5,035 |
@@ -496,7 +496,7 @@ _Last updated: 2026-07-09 04:27 UTC_
 | 64 | Lisa Leslie | 873 |
 | 65 | Brittney Sykes | 866 |
 | 66 | Tully Bevilaqua | 853 |
-| 67 | Kelsey Mitchell | 850 |
+| 67 | Kelsey Mitchell | 848 |
 | 68 | Jia Perkins | 837 |
 | 69 | Andrea Stinson | 810 |
 | 70 | Marina Mabrey | 805 |
@@ -1055,7 +1055,7 @@ _Last updated: 2026-07-09 04:27 UTC_
 | 5 | Kayla McBride | 758 |
 | 6 | Tina Thompson | 745 |
 | 7 | Katie Douglas | 723 |
-| 8 | Kelsey Mitchell | 717 |
+| 8 | Kelsey Mitchell | 713 |
 | 9 | Jewell Loyd | 695 |
 | 10 | DeWanna Bonner | 682 |
 | 11 | Kristi Toliver | 651 |
@@ -1332,8 +1332,8 @@ _Last updated: 2026-07-09 04:27 UTC_
 | 77 | Kelly Miller | 596 |
 | 78 | Stefanie Dolson | 594 |
 | 79 | Brittney Sykes | 591 |
-| 80 | Kelsey Mitchell | 587 |
-| 81 | Breanna Stewart | 586 |
+| 80 | Breanna Stewart | 586 |
+| 81 | Kelsey Mitchell | 585 |
 | 82 | Helen Darling | 575 |
 | 82 | Nykesha Sales | 575 |
 | 84 | Andrea Stinson | 571 |
