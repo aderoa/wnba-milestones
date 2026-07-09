@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-09 02:35 UTC_
+_Last updated: 2026-07-09 02:36 UTC_
 
 ## Contents
 
@@ -378,7 +378,7 @@ _Last updated: 2026-07-09 02:35 UTC_
 | 152 | Natalie Achonwa | 895 |
 | 153 | Temeka Johnson | 889 |
 | 154 | Mistie Bass | 888 |
-| 155 | **Erica Wheeler** 🔴 +1 | 883 |
+| 155 | **Erica Wheeler** 🔴 +2 | 884 |
 | 156 | Marina Mabrey | 880 |
 | 157 | Alanna Smith | 878 |
 | 158 | Shameka Christon | 867 |
@@ -570,7 +570,7 @@ _Last updated: 2026-07-09 02:35 UTC_
 | 138 | Janeth Arcain | 469 |
 | 139 | Erin Phillips | 462 |
 | 140 | Sylvia Fowles | 461 |
-| 141 | **Tyasha Harris** 🔴 | 460 |
+| 140 | **Tyasha Harris** 🔴 +1 | 461 |
 | 142 | Sug Sutton | 456 |
 | 143 | Sydney Colson | 454 |
 | 144 | Julie Allemand | 451 |
@@ -1222,9 +1222,9 @@ _Last updated: 2026-07-09 02:35 UTC_
 | 171 | Ticha Penicheiro | 128 |
 | 173 | Michele Timms | 127 |
 | 174 | Kennedy Burke | 126 |
+| 174 | **Lexie Hull** 🔴 +1 | 126 |
 | 174 | Tamecka Dixon | 126 |
-| 176 | **Lexie Hull** 🔴 | 125 |
-| 176 | Veronica Burton | 125 |
+| 177 | Veronica Burton | 125 |
 | 178 | Charde Houston | 124 |
 | 179 | Lisa Leslie | 123 |
 | 180 | Sidney Spencer | 122 |
