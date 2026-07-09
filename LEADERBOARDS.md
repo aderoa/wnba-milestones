@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-09 02:06 UTC_
+_Last updated: 2026-07-09 02:07 UTC_
 
 ## Contents
 
@@ -45,7 +45,7 @@ _Last updated: 2026-07-09 02:06 UTC_
 | 24 | DeLisha Milton-Jones | 5,571 |
 | 25 | Katie Douglas | 5,545 |
 | 26 | Lindsay Whalen | 5,511 |
-| 27 | **Kelsey Mitchell** 🔴 +2 | 5,200 |
+| 27 | **Kelsey Mitchell** 🔴 +7 | 5,205 |
 | 28 | Swin Cash | 5,119 |
 | 29 | Tiffany Hayes | 5,051 |
 | 30 | Tangela Smith | 5,035 |
@@ -244,7 +244,7 @@ _Last updated: 2026-07-09 02:06 UTC_
 | 18 | DeLisha Milton-Jones | 2,574 |
 | 19 | Swin Cash | 2,521 |
 | 20 | Michelle Snow | 2,476 |
-| 21 | **Dearica Hamby** 🔴 | 2,455 |
+| 21 | **Dearica Hamby** 🔴 +1 | 2,456 |
 | 22 | Crystal Langhorne | 2,454 |
 | 23 | Lauren Jackson | 2,444 |
 | 24 | Yolanda Griffith | 2,440 |
@@ -570,7 +570,7 @@ _Last updated: 2026-07-09 02:06 UTC_
 | 138 | Janeth Arcain | 469 |
 | 139 | Erin Phillips | 462 |
 | 140 | Sylvia Fowles | 461 |
-| 141 | Tyasha Harris | 460 |
+| 141 | **Tyasha Harris** 🔴 | 460 |
 | 142 | Sug Sutton | 456 |
 | 143 | Sydney Colson | 454 |
 | 144 | Julie Allemand | 451 |
@@ -979,7 +979,7 @@ _Last updated: 2026-07-09 02:06 UTC_
 | 134 | Coco Miller | 237 |
 | 135 | Marissa Coleman | 236 |
 | 136 | Nikki McCray | 235 |
-| 137 | **Kelsey Mitchell** 🔴 | 233 |
+| 137 | **Kelsey Mitchell** 🔴 +1 | 234 |
 | 138 | Merlakia Jones | 232 |
 | 139 | Ruth Riley | 231 |
 | 140 | Scholanda Dorrell | 230 |
@@ -1055,7 +1055,7 @@ _Last updated: 2026-07-09 02:06 UTC_
 | 5 | Kayla McBride | 758 |
 | 6 | Tina Thompson | 745 |
 | 7 | Katie Douglas | 723 |
-| 8 | **Kelsey Mitchell** 🔴 | 712 |
+| 8 | **Kelsey Mitchell** 🔴 +1 | 713 |
 | 9 | Jewell Loyd | 695 |
 | 10 | DeWanna Bonner | 682 |
 | 11 | Kristi Toliver | 651 |
@@ -1180,7 +1180,7 @@ _Last updated: 2026-07-09 02:06 UTC_
 | 130 | Shavonte Zellous | 167 |
 | 130 | Tianna Hawkins | 167 |
 | 132 | Charlotte Smith | 164 |
-| 133 | Tyasha Harris | 162 |
+| 133 | **Tyasha Harris** 🔴 | 162 |
 | 133 | Ukari Figgs | 162 |
 | 135 | Edna Campbell | 161 |
 | 136 | Dana Evans | 160 |
@@ -1298,13 +1298,13 @@ _Last updated: 2026-07-09 02:06 UTC_
 | 43 | Michelle Snow | 723 |
 | 44 | Tamecka Dixon | 716 |
 | 45 | Natasha Cloud | 707 |
-| 46 | **Erica Wheeler** 🔴 | 699 |
+| 46 | **Erica Wheeler** 🔴 +1 | 700 |
 | 47 | Renee Montgomery | 697 |
 | 48 | Temeka Johnson | 696 |
 | 49 | Penny Taylor | 695 |
+| 50 | **Dearica Hamby** 🔴 +1 | 685 |
 | 50 | Dominique Canty | 685 |
-| 51 | DeMya Walker | 684 |
-| 51 | **Dearica Hamby** 🔴 | 684 |
+| 52 | DeMya Walker | 684 |
 | 53 | Asjha Jones | 682 |
 | 54 | Courtney Williams | 680 |
 | 54 | Danielle Robinson | 680 |
