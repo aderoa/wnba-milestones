@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-09 02:21 UTC_
+_Last updated: 2026-07-09 02:22 UTC_
 
 ## Contents
 
@@ -244,7 +244,7 @@ _Last updated: 2026-07-09 02:21 UTC_
 | 18 | DeLisha Milton-Jones | 2,574 |
 | 19 | Swin Cash | 2,521 |
 | 20 | Michelle Snow | 2,476 |
-| 21 | **Dearica Hamby** 🔴 +2 | 2,457 |
+| 21 | **Dearica Hamby** 🔴 +3 | 2,458 |
 | 22 | Crystal Langhorne | 2,454 |
 | 23 | Lauren Jackson | 2,444 |
 | 24 | Yolanda Griffith | 2,440 |
@@ -612,8 +612,8 @@ _Last updated: 2026-07-09 02:21 UTC_
 | 180 | Shenise Johnson | 376 |
 | 181 | Alanna Smith | 374 |
 | 182 | Suzie McConnell Serio | 370 |
-| 183 | **Damiris Dantas** 🔴 | 368 |
-| 183 | Kayla Thornton | 368 |
+| 183 | **Damiris Dantas** 🔴 +1 | 369 |
+| 184 | Kayla Thornton | 368 |
 | 185 | Roneeka Hodges | 362 |
 | 186 | Andrea Nagy | 361 |
 | 186 | Diamond DeShields | 361 |
@@ -1609,8 +1609,8 @@ _Last updated: 2026-07-09 02:21 UTC_
 | 149 | Marissa Coleman | 541 |
 | 150 | **Sophie Cunningham** 🔴 | 538 |
 | 151 | **Myisha Hines-Allen** 🔴 | 535 |
-| 152 | **Damiris Dantas** 🔴 | 533 |
-| 152 | Kristen Rasmussen | 533 |
+| 152 | **Damiris Dantas** 🔴 +1 | 534 |
+| 153 | Kristen Rasmussen | 533 |
 | 154 | Amanda Zahui B | 530 |
 | 155 | Candice Wiggins | 525 |
 | 155 | Epiphanny Prince | 525 |
