@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-09 03:59 UTC_
+_Last updated: 2026-07-09 04:00 UTC_
 
 ## Contents
 
@@ -22,7 +22,7 @@ _Last updated: 2026-07-09 03:59 UTC_
 | 1 | Diana Taurasi | 10,608 |
 | 2 | Tina Charles | 8,396 |
 | 3 | DeWanna Bonner | 7,972 |
-| 4 | **Nneka Ogwumike** 🔴 +22 | 7,585 |
+| 4 | **Nneka Ogwumike** 🔴 +24 | 7,587 |
 | 5 | Tina Thompson | 7,470 |
 | 6 | Tamika Catchings | 7,371 |
 | 7 | Candice Dupree | 6,861 |
@@ -198,7 +198,7 @@ _Last updated: 2026-07-09 03:59 UTC_
 | 177 | Gabby Williams | 1,906 |
 | 178 | Candice Wiggins | 1,901 |
 | 179 | NaLyssa Smith | 1,879 |
-| 180 | **Damiris Dantas** 🔴 +10 | 1,852 |
+| 180 | **Damiris Dantas** 🔴 +12 | 1,854 |
 | 181 | Rachel Banham | 1,843 |
 | 182 | **Sophie Cunningham** 🔴 +2 | 1,831 |
 | 183 | Tianna Hawkins | 1,825 |
@@ -356,7 +356,7 @@ _Last updated: 2026-07-09 03:59 UTC_
 | 130 | Cathrine Kraayeveld | 1,013 |
 | 131 | Kelly Miller | 1,011 |
 | 131 | Noelle Quinn | 1,011 |
-| 133 | **Damiris Dantas** 🔴 +4 | 1,009 |
+| 133 | **Damiris Dantas** 🔴 +5 | 1,010 |
 | 134 | Skylar Diggins | 1,008 |
 | 135 | Tiffany Jackson | 1,002 |
 | 136 | Tianna Hawkins | 1,000 |
@@ -568,7 +568,7 @@ _Last updated: 2026-07-09 03:59 UTC_
 | 136 | Satou Sabally | 476 |
 | 137 | Ukari Figgs | 470 |
 | 138 | Janeth Arcain | 469 |
-| 139 | **Tyasha Harris** 🔴 +3 | 463 |
+| 139 | **Tyasha Harris** 🔴 +4 | 464 |
 | 140 | Erin Phillips | 462 |
 | 141 | Sylvia Fowles | 461 |
 | 142 | Sug Sutton | 456 |
