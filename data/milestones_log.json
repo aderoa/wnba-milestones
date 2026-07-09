@@ -1,5 +1,14 @@
 [
   {
+    "ts": "2026-07-09T03:15:00+00:00",
+    "text": "Erica Wheeler reached 3,200 career points (now 3,200) \u2014 (8:17 - 3rd \u2014 IND @ LA)",
+    "kind": "round",
+    "player": "Erica Wheeler",
+    "stat": "points",
+    "value": 3200,
+    "new_total": 3200
+  },
+  {
     "ts": "2026-07-09T02:56:00+00:00",
     "text": "Lexie Hull passed Tamecka Dixon for #174 all-time in three-pointers (career 127) \u2014 up from #176 entering today \u2014 (26.8 - 2nd \u2014 IND @ LA)",
     "kind": "rank_pass",
@@ -2995,17 +3004,5 @@
       "Vicky Bullett"
     ],
     "new_total": 508
-  },
-  {
-    "ts": "2026-06-27T19:51:00+00:00",
-    "text": "Isabelle Harrison passed Merlakia Jones for #166 all-time in fouls (career 507) \u2014 up from #167 entering today \u2014 (5:25 - 4th \u2014 PHX @ TOR)",
-    "kind": "rank_pass",
-    "player": "Isabelle Harrison",
-    "stat": "fouls",
-    "rank": 166,
-    "passed_players": [
-      "Merlakia Jones"
-    ],
-    "new_total": 507
   }
 ]

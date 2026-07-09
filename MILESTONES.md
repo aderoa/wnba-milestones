@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-09 03:15 UTC
+
+- **Erica Wheeler** reached **3,200** career points (now 3,200) — _8:17 - 3rd — IND @ LA_
+
 ## 2026-07-09 02:56 UTC
 
 - **Lexie Hull** passed **Tamecka Dixon** for **#174** all-time in three-pointers (career 127) — up from #176 entering today — _26.8 - 2nd — IND @ LA_
