@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-09 01:04 UTC_
+_Last updated: 2026-07-09 01:05 UTC_
 
 ## Contents
 
@@ -57,7 +57,7 @@ _Last updated: 2026-07-09 01:04 UTC_
 | 36 | Arike Ogunbowale | 4,715 |
 | 37 | Chamique Holdsclaw | 4,713 |
 | 38 | Elena Delle Donne | 4,706 |
-| 39 | **Natasha Howard** 🔴 +11 | 4,693 |
+| 39 | **Natasha Howard** 🔴 +12 | 4,694 |
 | 40 | Chelsea Gray | 4,625 |
 | 41 | Penny Taylor | 4,595 |
 | 42 | Kelsey Plum | 4,494 |
@@ -185,8 +185,8 @@ _Last updated: 2026-07-09 01:04 UTC_
 | 164 | Bria Hartley | 1,967 |
 | 165 | Chiney Ogwumike | 1,964 |
 | 166 | Nicole Ohlde | 1,959 |
+| 167 | **Isabelle Harrison** 🔴 +24 | 1,956 |
 | 167 | Myisha Hines-Allen | 1,956 |
-| 168 | **Isabelle Harrison** 🔴 +22 | 1,954 |
 | 169 | Kedra Holland-Corn | 1,938 |
 | 170 | Cathrine Kraayeveld | 1,926 |
 | 171 | Roneeka Hodges | 1,925 |
@@ -538,7 +538,7 @@ _Last updated: 2026-07-09 01:04 UTC_
 | 106 | Betnijah Laney-Hamilton | 590 |
 | 106 | Camille Smith | 590 |
 | 108 | Armintie Herrington | 589 |
-| 109 | **Veronica Burton** 🔴 +5 | 584 |
+| 109 | **Veronica Burton** 🔴 +6 | 585 |
 | 110 | Tan White | 578 |
 | 111 | Matee Ajavon | 577 |
 | 112 | Napheesa Collier | 570 |
@@ -573,11 +573,11 @@ _Last updated: 2026-07-09 01:04 UTC_
 | 141 | Tyasha Harris | 460 |
 | 142 | Sug Sutton | 456 |
 | 143 | Sydney Colson | 454 |
+| 144 | **Julie Allemand** 🔴 +7 | 451 |
 | 144 | Yolanda Griffith | 451 |
-| 145 | Elena Delle Donne | 450 |
-| 145 | **Julie Allemand** 🔴 +6 | 450 |
-| 145 | Kristi Harrower | 450 |
-| 145 | Nikki McCray | 450 |
+| 146 | Elena Delle Donne | 450 |
+| 146 | Kristi Harrower | 450 |
+| 146 | Nikki McCray | 450 |
 | 149 | Ruth Riley | 449 |
 | 150 | DeMya Walker | 446 |
 | 151 | Essence Carson | 445 |
@@ -1230,11 +1230,11 @@ _Last updated: 2026-07-09 01:04 UTC_
 | 180 | Sidney Spencer | 122 |
 | 181 | Tonya Edwards | 118 |
 | 182 | Edwige Lawson-Wade | 116 |
+| 182 | **Janelle Salaun** 🔴 +5 | 116 |
 | 182 | Marie Ferdinand-Harris | 116 |
-| 184 | Ebony Hoffman | 115 |
-| 184 | **Janelle Salaun** 🔴 +4 | 115 |
-| 184 | Shey Peddy | 115 |
-| 184 | Stephanie White | 115 |
+| 185 | Ebony Hoffman | 115 |
+| 185 | Shey Peddy | 115 |
+| 185 | Stephanie White | 115 |
 | 188 | Gordana Grubin | 114 |
 | 188 | Rickea Jackson | 114 |
 | 188 | Sandy Brondello | 114 |

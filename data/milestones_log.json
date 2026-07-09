@@ -1,5 +1,19 @@
 [
   {
+    "ts": "2026-07-09T01:05:00+00:00",
+    "text": "Janelle Salaun passed Ebony Hoffman, Shey Peddy, and Stephanie White for #184 all-time in three-pointers (career 116) \u2014 up from #191 entering today \u2014 (1:16 - 4th \u2014 GS @ TOR)",
+    "kind": "rank_pass",
+    "player": "Janelle Salaun",
+    "stat": "three-pointers",
+    "rank": 184,
+    "passed_players": [
+      "Ebony Hoffman",
+      "Shey Peddy",
+      "Stephanie White"
+    ],
+    "new_total": 116
+  },
+  {
     "ts": "2026-07-09T01:03:00+00:00",
     "text": "Janelle Salaun passed Gordana Grubin, Rickea Jackson, and Sandy Brondello for #187 all-time in three-pointers (career 115) \u2014 up from #191 entering today \u2014 (1:47 - 4th \u2014 GS @ TOR)",
     "kind": "rank_pass",
@@ -2996,17 +3010,5 @@
       "Ruth Riley"
     ],
     "new_total": 451
-  },
-  {
-    "ts": "2026-06-27T18:56:00+00:00",
-    "text": "Julie Allemand passed DeMya Walker for #149 all-time in assists (career 447) \u2014 up from #151 entering today \u2014 (1:59 - 2nd \u2014 PHX @ TOR)",
-    "kind": "rank_pass",
-    "player": "Julie Allemand",
-    "stat": "assists",
-    "rank": 149,
-    "passed_players": [
-      "DeMya Walker"
-    ],
-    "new_total": 447
   }
 ]
