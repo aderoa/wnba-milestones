@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-09 00:39 UTC_
+_Last updated: 2026-07-09 00:40 UTC_
 
 ## Contents
 
@@ -316,8 +316,8 @@ _Last updated: 2026-07-09 00:39 UTC_
 | 90 | Myisha Hines-Allen | 1,265 |
 | 91 | Janel McCarville | 1,261 |
 | 92 | **Kayla McBride** 🔴 +3 | 1,259 |
-| 93 | Liz Cambage | 1,258 |
-| 93 | **Tiffany Hayes** 🔴 +1 | 1,258 |
+| 92 | **Tiffany Hayes** 🔴 +2 | 1,259 |
+| 94 | Liz Cambage | 1,258 |
 | 95 | Chelsea Gray | 1,257 |
 | 96 | Brianna Turner | 1,243 |
 | 96 | Ezi Magbegor | 1,243 |
@@ -1020,8 +1020,8 @@ _Last updated: 2026-07-09 00:39 UTC_
 | 174 | Sonja Henning | 194 |
 | 174 | Tierra Ruffin-Pratt | 194 |
 | 177 | Cynthia Cooper | 192 |
-| 178 | **Isabelle Harrison** 🔴 +1 | 191 |
 | 178 | Myisha Hines-Allen | 191 |
+| 179 | **Isabelle Harrison** 🔴 | 190 |
 | 180 | Tamicha Jackson | 188 |
 | 181 | Michele Timms | 187 |
 | 182 | Charde Houston | 185 |
@@ -1424,8 +1424,8 @@ _Last updated: 2026-07-09 00:39 UTC_
 | 169 | Brionna Jones | 346 |
 | 170 | Satou Sabally | 345 |
 | 171 | Teaira McCowan | 340 |
-| 172 | **Gabby Williams** 🔴 +3 | 339 |
 | 172 | Loree Moore | 339 |
+| 173 | **Gabby Williams** 🔴 +2 | 338 |
 | 174 | Charlotte Smith | 337 |
 | 175 | Scholanda Dorrell | 335 |
 | 176 | Aerial Powers | 333 |
