@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-09 02:56 UTC
+
+- **Lexie Hull** passed **Tamecka Dixon** for **#174** all-time in three-pointers (career 127) — up from #176 entering today — _26.8 - 2nd — IND @ LA_
+
 ## 2026-07-09 02:34 UTC
 
 - **Monique Billings** passed **Jackie Young** for **#143** all-time in fouls (career 549) — up from #145 entering today — _7:50 - 2nd — IND @ LA_

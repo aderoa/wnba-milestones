@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-07-09T02:56:00+00:00",
+    "text": "Lexie Hull passed Tamecka Dixon for #174 all-time in three-pointers (career 127) \u2014 up from #176 entering today \u2014 (26.8 - 2nd \u2014 IND @ LA)",
+    "kind": "rank_pass",
+    "player": "Lexie Hull",
+    "stat": "three-pointers",
+    "rank": 174,
+    "passed_players": [
+      "Tamecka Dixon"
+    ],
+    "new_total": 127
+  },
+  {
     "ts": "2026-07-09T02:34:00+00:00",
     "text": "Monique Billings passed Jackie Young for #143 all-time in fouls (career 549) \u2014 up from #145 entering today \u2014 (7:50 - 2nd \u2014 IND @ LA)",
     "kind": "rank_pass",
@@ -2995,17 +3007,5 @@
       "Merlakia Jones"
     ],
     "new_total": 507
-  },
-  {
-    "ts": "2026-06-27T19:46:00+00:00",
-    "text": "Kia Nurse passed Kahleah Copper for #50 all-time in three-pointers (career 371) \u2014 up from #52 entering today \u2014 (7:02 - 4th \u2014 PHX @ TOR)",
-    "kind": "rank_pass",
-    "player": "Kia Nurse",
-    "stat": "three-pointers",
-    "rank": 50,
-    "passed_players": [
-      "Kahleah Copper"
-    ],
-    "new_total": 371
   }
 ]

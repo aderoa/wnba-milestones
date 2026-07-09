@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-09 02:55 UTC_
+_Last updated: 2026-07-09 02:56 UTC_
 
 ## Contents
 
@@ -357,7 +357,7 @@ _Last updated: 2026-07-09 02:55 UTC_
 | 131 | Kelly Miller | 1,011 |
 | 131 | Noelle Quinn | 1,011 |
 | 133 | Skylar Diggins | 1,008 |
-| 134 | **Damiris Dantas** 🔴 +1 | 1,006 |
+| 134 | **Damiris Dantas** 🔴 +2 | 1,007 |
 | 135 | Tiffany Jackson | 1,002 |
 | 136 | Tianna Hawkins | 1,000 |
 | 137 | Marissa Coleman | 995 |
@@ -1220,10 +1220,10 @@ _Last updated: 2026-07-09 02:55 UTC_
 | 169 | Leonie Fiebich | 129 |
 | 171 | Jordin Canada | 128 |
 | 171 | Ticha Penicheiro | 128 |
+| 173 | **Lexie Hull** 🔴 +2 | 127 |
 | 173 | Michele Timms | 127 |
-| 174 | Kennedy Burke | 126 |
-| 174 | **Lexie Hull** 🔴 +1 | 126 |
-| 174 | Tamecka Dixon | 126 |
+| 175 | Kennedy Burke | 126 |
+| 175 | Tamecka Dixon | 126 |
 | 177 | Veronica Burton | 125 |
 | 178 | Charde Houston | 124 |
 | 179 | Lisa Leslie | 123 |
