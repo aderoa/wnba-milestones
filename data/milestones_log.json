@@ -1,5 +1,14 @@
 [
   {
+    "ts": "2026-07-09T03:33:00+00:00",
+    "text": "Alissa Pili reached 100 career points (now 100) \u2014 (58.2 - 3rd \u2014 IND @ LA)",
+    "kind": "round",
+    "player": "Alissa Pili",
+    "stat": "points",
+    "value": 100,
+    "new_total": 100
+  },
+  {
     "ts": "2026-07-09T03:32:00+00:00",
     "text": "Damiris Dantas passed Rachel Banham for #180 all-time in points (career 1,845) \u2014 up from #181 entering today \u2014 (1:03 - 3rd \u2014 IND @ LA)",
     "kind": "rank_pass",
@@ -2995,17 +3004,5 @@
       "Cheryl Ford"
     ],
     "new_total": 161
-  },
-  {
-    "ts": "2026-06-28T00:09:00+00:00",
-    "text": "Tyasha Harris passed Ukari Figgs for #134 all-time in three-pointers (career 163) \u2014 (9:02 - 1st \u2014 LA @ IND)",
-    "kind": "rank_pass",
-    "player": "Tyasha Harris",
-    "stat": "three-pointers",
-    "rank": 134,
-    "passed_players": [
-      "Ukari Figgs"
-    ],
-    "new_total": 163
   }
 ]
