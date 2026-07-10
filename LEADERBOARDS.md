@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-10 02:10 UTC_
+_Last updated: 2026-07-10 02:11 UTC_
 
 ## Contents
 
@@ -60,7 +60,7 @@ _Last updated: 2026-07-10 02:10 UTC_
 | 39 | Natasha Howard | 4,682 |
 | 40 | Chelsea Gray | 4,625 |
 | 41 | Penny Taylor | 4,595 |
-| 42 | **Allisha Gray** 🔴 +20 | 4,511 |
+| 42 | **Allisha Gray** 🔴 +22 | 4,513 |
 | 43 | Kelsey Plum | 4,494 |
 | 44 | Kristi Toliver | 4,474 |
 | 45 | **Kahleah Copper** 🔴 | 4,437 |
@@ -324,8 +324,8 @@ _Last updated: 2026-07-10 02:10 UTC_
 | 98 | Seimone Augustus | 1,228 |
 | 99 | Jia Perkins | 1,220 |
 | 100 | **Kahleah Copper** 🔴 +3 | 1,207 |
-| 101 | **Aliyah Boston** 🔴 +1 | 1,199 |
-| 101 | DeMya Walker | 1,199 |
+| 101 | **Aliyah Boston** 🔴 +2 | 1,200 |
+| 102 | DeMya Walker | 1,199 |
 | 103 | Latasha Byears | 1,190 |
 | 103 | Tanisha Wright | 1,190 |
 | 105 | Vicky Bullett | 1,189 |
@@ -454,8 +454,8 @@ _Last updated: 2026-07-10 02:10 UTC_
 | 22 | Erica Wheeler | 1,335 |
 | 23 | Teresa Weatherspoon | 1,333 |
 | 24 | Kristi Toliver | 1,301 |
+| 25 | **Jordin Canada** 🔴 +8 | 1,270 |
 | 25 | Kelsey Plum | 1,270 |
-| 26 | **Jordin Canada** 🔴 +7 | 1,269 |
 | 27 | Katie Smith | 1,258 |
 | 28 | Odyssey Sims | 1,228 |
 | 29 | Vickie Johnson | 1,202 |
@@ -496,7 +496,7 @@ _Last updated: 2026-07-10 02:10 UTC_
 | 64 | Lisa Leslie | 873 |
 | 65 | Brittney Sykes | 866 |
 | 66 | Tully Bevilaqua | 853 |
-| 67 | **Kelsey Mitchell** 🔴 +1 | 848 |
+| 67 | **Kelsey Mitchell** 🔴 +2 | 849 |
 | 68 | Jia Perkins | 837 |
 | 69 | Andrea Stinson | 810 |
 | 70 | Tina Thompson | 803 |
@@ -855,7 +855,7 @@ _Last updated: 2026-07-10 02:10 UTC_
 | 10 | Angel McCoughtry | 627 |
 | 11 | Katie Douglas | 623 |
 | 12 | DeLisha Milton-Jones | 619 |
-| 13 | **Alyssa Thomas** 🔴 | 582 |
+| 13 | **Alyssa Thomas** 🔴 +1 | 583 |
 | 14 | Taj McWilliams-Franklin | 577 |
 | 15 | Tully Bevilaqua | 571 |
 | 16 | Courtney Vandersloot | 544 |
@@ -1180,7 +1180,7 @@ _Last updated: 2026-07-10 02:10 UTC_
 | 130 | Shavonte Zellous | 167 |
 | 130 | Tianna Hawkins | 167 |
 | 132 | Charlotte Smith | 164 |
-| 133 | **Tyasha Harris** 🔴 +1 | 163 |
+| 132 | **Tyasha Harris** 🔴 +2 | 164 |
 | 134 | Ukari Figgs | 162 |
 | 135 | Edna Campbell | 161 |
 | 136 | Dana Evans | 160 |
@@ -1279,7 +1279,7 @@ _Last updated: 2026-07-10 02:10 UTC_
 | 24 | Candice Dupree | 869 |
 | 25 | Alana Beard | 854 |
 | 26 | Natasha Howard | 843 |
-| 27 | **DeWanna Bonner** 🔴 | 840 |
+| 27 | **DeWanna Bonner** 🔴 +1 | 841 |
 | 28 | Katie Douglas | 824 |
 | 29 | Nneka Ogwumike | 803 |
 | 30 | Betty Lennox | 800 |
@@ -1438,8 +1438,8 @@ _Last updated: 2026-07-10 02:10 UTC_
 | 183 | Kia Nurse | 320 |
 | 184 | **Natisha Hiedeman** 🔴 +4 | 316 |
 | 185 | Barbara Farris | 315 |
-| 186 | **Monique Billings** 🔴 | 314 |
-| 186 | Moriah Jefferson | 314 |
+| 185 | **Monique Billings** 🔴 +1 | 315 |
+| 187 | Moriah Jefferson | 314 |
 | 188 | Alex Bentley | 313 |
 | 189 | Tamika Raymond | 311 |
 | 190 | Isabelle Harrison | 307 |
