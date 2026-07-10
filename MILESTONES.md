@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-10 02:39 UTC
+
+- **Sami Whitcomb** passed **Shekinna Stricklen** for **#196** all-time in rebounds (career 727) — _5:57 - 2nd — IND @ PHX_
+
 ## 2026-07-10 02:00 UTC
 
 - **Jordin Canada** reached **400** career steals (now 400) — _3:09 - 4th — SEA @ ATL_
