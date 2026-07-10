@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-10 04:06 UTC_
+_Last updated: 2026-07-10 04:07 UTC_
 
 ## Contents
 
@@ -63,7 +63,7 @@ _Last updated: 2026-07-10 04:06 UTC_
 | 42 | Allisha Gray | 4,513 |
 | 43 | Kelsey Plum | 4,494 |
 | 44 | Kristi Toliver | 4,474 |
-| 45 | **Kahleah Copper** 🔴 +19 | 4,456 |
+| 45 | **Kahleah Copper** 🔴 +22 | 4,459 |
 | 46 | Crystal Langhorne | 4,433 |
 | 46 | Jia Perkins | 4,433 |
 | 48 | Courtney Vandersloot | 4,362 |
@@ -320,7 +320,7 @@ _Last updated: 2026-07-10 04:06 UTC_
 | 94 | Tiffany Hayes | 1,257 |
 | 95 | Kayla McBride | 1,256 |
 | 96 | Ezi Magbegor | 1,248 |
-| 97 | **Brianna Turner** 🔴 +2 | 1,245 |
+| 97 | **Brianna Turner** 🔴 +3 | 1,246 |
 | 98 | Seimone Augustus | 1,228 |
 | 99 | Jia Perkins | 1,220 |
 | 100 | **Kahleah Copper** 🔴 +5 | 1,209 |
@@ -436,7 +436,7 @@ _Last updated: 2026-07-10 04:06 UTC_
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
 | 6 | **Chelsea Gray** 🔴 +7 | 2,010 |
-| 7 | **Alyssa Thomas** 🔴 +6 | 1,977 |
+| 7 | **Alyssa Thomas** 🔴 +7 | 1,978 |
 | 8 | Skylar Diggins | 1,852 |
 | 9 | Natasha Cloud | 1,802 |
 | 10 | Becky Hammon | 1,705 |
@@ -461,7 +461,7 @@ _Last updated: 2026-07-10 04:06 UTC_
 | 29 | Vickie Johnson | 1,202 |
 | 30 | **DeWanna Bonner** 🔴 +2 | 1,198 |
 | 31 | Leilani Mitchell | 1,197 |
-| 32 | **Jackie Young** 🔴 +10 | 1,160 |
+| 32 | **Jackie Young** 🔴 +11 | 1,161 |
 | 33 | **Jewell Loyd** 🔴 | 1,156 |
 | 34 | Renee Montgomery | 1,140 |
 | 35 | Swin Cash | 1,131 |
@@ -1569,8 +1569,8 @@ _Last updated: 2026-07-10 04:06 UTC_
 | 108 | Charlotte Smith | 638 |
 | 109 | Teaira McCowan | 637 |
 | 110 | Janell Burse | 632 |
-| 111 | **Kelsey Mitchell** 🔴 +2 | 631 |
-| 111 | Nicole Ohlde | 631 |
+| 110 | **Kelsey Mitchell** 🔴 +3 | 632 |
+| 112 | Nicole Ohlde | 631 |
 | 113 | Jennifer Gillom | 629 |
 | 114 | Deanna Nolan | 628 |
 | 115 | Brionna Jones | 625 |
