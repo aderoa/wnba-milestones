@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-10 03:52 UTC
+
+- **Jackie Young** passed **Glory Johnson** for **#102** all-time in steals (career 290) — up from #103 entering today — _6:22 - 4th — LV @ POR_
+
 ## 2026-07-10 03:42 UTC
 
 - **Sami Whitcomb** passed **Shenise Johnson** for **#194** all-time in rebounds (career 730) — up from #195 entering today — _8:00 - 4th — IND @ PHX_
