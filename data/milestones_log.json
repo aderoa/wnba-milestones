@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-07-10T04:01:00+00:00",
+    "text": "Kelsey Mitchell passed Tully Bevilaqua for #66 all-time in assists (career 854) \u2014 up from #67 entering today \u2014 (2:46 - 4th \u2014 IND @ PHX)",
+    "kind": "rank_pass",
+    "player": "Kelsey Mitchell",
+    "stat": "assists",
+    "rank": 66,
+    "passed_players": [
+      "Tully Bevilaqua"
+    ],
+    "new_total": 854
+  },
+  {
     "ts": "2026-07-10T04:00:00+00:00",
     "text": "Tyasha Harris passed Charlotte Smith for #132 all-time in three-pointers (career 165) \u2014 up from #133 entering today \u2014 (3:12 - 4th \u2014 IND @ PHX)",
     "kind": "rank_pass",
@@ -2995,17 +3007,5 @@
       "Tierra Ruffin-Pratt"
     ],
     "new_total": 78
-  },
-  {
-    "ts": "2026-06-28T00:36:00+00:00",
-    "text": "Monique Billings passed Erin Phillips for #187 all-time in steals (career 183) \u2014 up from #188 entering today \u2014 (7:34 - 2nd \u2014 LA @ IND)",
-    "kind": "rank_pass",
-    "player": "Monique Billings",
-    "stat": "steals",
-    "rank": 187,
-    "passed_players": [
-      "Erin Phillips"
-    ],
-    "new_total": 183
   }
 ]
