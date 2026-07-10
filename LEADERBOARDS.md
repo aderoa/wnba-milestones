@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-10 03:45 UTC_
+_Last updated: 2026-07-10 03:46 UTC_
 
 ## Contents
 
@@ -320,7 +320,7 @@ _Last updated: 2026-07-10 03:45 UTC_
 | 94 | Tiffany Hayes | 1,257 |
 | 95 | Kayla McBride | 1,256 |
 | 96 | Ezi Magbegor | 1,248 |
-| 97 | **Brianna Turner** 🔴 +1 | 1,244 |
+| 97 | **Brianna Turner** 🔴 +2 | 1,245 |
 | 98 | Seimone Augustus | 1,228 |
 | 99 | Jia Perkins | 1,220 |
 | 100 | **Kahleah Copper** 🔴 +4 | 1,208 |
