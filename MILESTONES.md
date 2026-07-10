@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-10 03:42 UTC
+
+- **Sami Whitcomb** passed **Shenise Johnson** for **#194** all-time in rebounds (career 730) — up from #195 entering today — _8:00 - 4th — IND @ PHX_
+
 ## 2026-07-10 02:39 UTC
 
 - **Sami Whitcomb** passed **Shekinna Stricklen** for **#196** all-time in rebounds (career 727) — _5:57 - 2nd — IND @ PHX_

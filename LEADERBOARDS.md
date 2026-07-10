@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-10 03:41 UTC_
+_Last updated: 2026-07-10 03:42 UTC_
 
 ## Contents
 
@@ -417,8 +417,8 @@ _Last updated: 2026-07-10 03:41 UTC_
 | 191 | Kelsey Plum | 741 |
 | 192 | Alex Montgomery | 735 |
 | 193 | Ashley Robinson | 734 |
-| 194 | **Sami Whitcomb** 🔴 +3 | 729 |
-| 194 | Shenise Johnson | 729 |
+| 194 | **Sami Whitcomb** 🔴 +4 | 730 |
+| 195 | Shenise Johnson | 729 |
 | 196 | Shekinna Stricklen | 726 |
 | 197 | Olympia Scott | 711 |
 | 198 | Katie Mattera | 708 |
