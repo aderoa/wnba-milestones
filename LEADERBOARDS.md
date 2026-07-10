@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-10 02:47 UTC_
+_Last updated: 2026-07-10 02:48 UTC_
 
 ## Contents
 
@@ -33,7 +33,7 @@ _Last updated: 2026-07-10 02:47 UTC_
 | 12 | Sylvia Fowles | 6,413 |
 | 13 | Breanna Stewart | 6,335 |
 | 14 | Lisa Leslie | 6,251 |
-| 15 | **A'ja Wilson** 🔴 +15 | 6,193 |
+| 15 | **A'ja Wilson** 🔴 +16 | 6,194 |
 | 16 | **Jewell Loyd** 🔴 +6 | 6,154 |
 | 17 | Brittney Griner | 6,087 |
 | 18 | Lauren Jackson | 6,005 |
@@ -45,7 +45,7 @@ _Last updated: 2026-07-10 02:47 UTC_
 | 24 | DeLisha Milton-Jones | 5,571 |
 | 25 | Katie Douglas | 5,545 |
 | 26 | Lindsay Whalen | 5,511 |
-| 27 | **Kelsey Mitchell** 🔴 +13 | 5,211 |
+| 27 | **Kelsey Mitchell** 🔴 +15 | 5,213 |
 | 28 | Swin Cash | 5,119 |
 | 29 | Tiffany Hayes | 5,049 |
 | 30 | Tangela Smith | 5,035 |
@@ -63,7 +63,7 @@ _Last updated: 2026-07-10 02:47 UTC_
 | 42 | Allisha Gray | 4,513 |
 | 43 | Kelsey Plum | 4,494 |
 | 44 | Kristi Toliver | 4,474 |
-| 45 | **Kahleah Copper** 🔴 +8 | 4,445 |
+| 45 | **Kahleah Copper** 🔴 +12 | 4,449 |
 | 46 | Crystal Langhorne | 4,433 |
 | 46 | Jia Perkins | 4,433 |
 | 48 | Courtney Vandersloot | 4,362 |
@@ -231,13 +231,13 @@ _Last updated: 2026-07-10 02:47 UTC_
 | 5 | Rebekkah Brunson | 3,345 |
 | 6 | Tamika Catchings | 3,313 |
 | 7 | Lisa Leslie | 3,303 |
-| 8 | **DeWanna Bonner** 🔴 +4 | 3,294 |
+| 8 | **DeWanna Bonner** 🔴 +5 | 3,295 |
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | **Alyssa Thomas** 🔴 +3 | 2,861 |
 | 13 | Jonquel Jones | 2,728 |
-| 14 | **A'ja Wilson** 🔴 +2 | 2,659 |
+| 14 | **A'ja Wilson** 🔴 +3 | 2,660 |
 | 15 | Breanna Stewart | 2,632 |
 | 16 | Sancho Lyttle | 2,596 |
 | 17 | Brittney Griner | 2,579 |
@@ -459,8 +459,8 @@ _Last updated: 2026-07-10 02:47 UTC_
 | 27 | Katie Smith | 1,258 |
 | 28 | Odyssey Sims | 1,228 |
 | 29 | Vickie Johnson | 1,202 |
-| 30 | **DeWanna Bonner** 🔴 +1 | 1,197 |
-| 30 | Leilani Mitchell | 1,197 |
+| 30 | **DeWanna Bonner** 🔴 +2 | 1,198 |
+| 31 | Leilani Mitchell | 1,197 |
 | 32 | **Jewell Loyd** 🔴 | 1,156 |
 | 33 | **Jackie Young** 🔴 +4 | 1,154 |
 | 34 | Renee Montgomery | 1,140 |
