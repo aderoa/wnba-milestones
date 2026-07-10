@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-10 04:00 UTC
+
+- **Tyasha Harris** passed **Charlotte Smith** for **#132** all-time in three-pointers (career 165) — up from #133 entering today — _3:12 - 4th — IND @ PHX_
+
 ## 2026-07-10 03:56 UTC
 
 - **Kelsey Mitchell** passed **Nikki McCray** for **#136** all-time in steals (career 236) — up from #137 entering today — _3:24 - 4th — IND @ PHX_

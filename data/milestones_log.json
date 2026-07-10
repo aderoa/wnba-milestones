@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-07-10T04:00:00+00:00",
+    "text": "Tyasha Harris passed Charlotte Smith for #132 all-time in three-pointers (career 165) \u2014 up from #133 entering today \u2014 (3:12 - 4th \u2014 IND @ PHX)",
+    "kind": "rank_pass",
+    "player": "Tyasha Harris",
+    "stat": "three-pointers",
+    "rank": 132,
+    "passed_players": [
+      "Charlotte Smith"
+    ],
+    "new_total": 165
+  },
+  {
     "ts": "2026-07-10T03:56:00+00:00",
     "text": "Kelsey Mitchell passed Nikki McCray for #136 all-time in steals (career 236) \u2014 up from #137 entering today \u2014 (3:24 - 4th \u2014 IND @ PHX)",
     "kind": "rank_pass",
@@ -2995,17 +3007,5 @@
       "Erin Phillips"
     ],
     "new_total": 183
-  },
-  {
-    "ts": "2026-06-28T00:36:00+00:00",
-    "text": "Monique Billings passed Erlana Larkins for #144 all-time in fouls (career 547) \u2014 up from #145 entering today \u2014 (7:34 - 2nd \u2014 LA @ IND)",
-    "kind": "rank_pass",
-    "player": "Monique Billings",
-    "stat": "fouls",
-    "rank": 144,
-    "passed_players": [
-      "Erlana Larkins"
-    ],
-    "new_total": 547
   }
 ]
