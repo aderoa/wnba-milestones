@@ -104,7 +104,7 @@ _Last updated: 2026-07-10 23:36 UTC_
 | 83 | Sheri Sam | 3,353 |
 | 84 | Andrea Stinson | 3,351 |
 | 85 | Tanisha Wright | 3,324 |
-| 86 | **Marina Mabrey** 🔴 | 3,249 |
+| 86 | **Marina Mabrey** 🔴 +3 | 3,252 |
 | 87 | Stefanie Dolson | 3,217 |
 | 88 | Margo Dydek | 3,214 |
 | 89 | Erica Wheeler | 3,195 |
@@ -479,7 +479,7 @@ _Last updated: 2026-07-10 23:36 UTC_
 | 47 | Tamecka Dixon | 960 |
 | 48 | Tiffany Hayes | 957 |
 | 49 | Kara Lawson | 946 |
-| 50 | **Arike Ogunbowale** 🔴 | 944 |
+| 50 | **Arike Ogunbowale** 🔴 +1 | 945 |
 | 51 | Nneka Ogwumike | 933 |
 | 52 | Deanna Nolan | 930 |
 | 53 | Kelly Miller | 927 |
@@ -830,8 +830,8 @@ _Last updated: 2026-07-10 23:36 UTC_
 | 193 | Mercedes Russell | 69 |
 | 193 | Rhonda Mapp | 69 |
 | 193 | Satou Sabally | 69 |
-| 196 | Shannon Johnson | 67 |
-| 196 | **Veronica Burton** 🔴 | 67 |
+| 196 | **Veronica Burton** 🔴 +1 | 68 |
+| 197 | Shannon Johnson | 67 |
 | 198 | Kennedy Burke | 66 |
 | 199 | Crystal Robinson | 65 |
 | 199 | Gabby Williams | 65 |
@@ -1070,7 +1070,7 @@ _Last updated: 2026-07-10 23:36 UTC_
 | 20 | Sami Whitcomb | 511 |
 | 21 | Allie Quigley | 510 |
 | 22 | Leilani Mitchell | 508 |
-| 23 | **Marina Mabrey** 🔴 | 500 |
+| 23 | **Marina Mabrey** 🔴 +1 | 501 |
 | 24 | Sabrina Ionescu | 468 |
 | 24 | Shekinna Stricklen | 468 |
 | 26 | Breanna Stewart | 465 |
@@ -1579,8 +1579,8 @@ _Last updated: 2026-07-10 23:36 UTC_
 | 119 | Svetlana Abrosimova | 613 |
 | 120 | Odyssey Sims | 610 |
 | 121 | Layshia Clarendon | 609 |
-| 122 | **Arike Ogunbowale** 🔴 | 604 |
-| 122 | Tiffany Mitchell | 604 |
+| 122 | **Arike Ogunbowale** 🔴 +1 | 605 |
+| 123 | Tiffany Mitchell | 604 |
 | 124 | Janel McCarville | 597 |
 | 125 | Kamila Vodichkova | 596 |
 | 126 | Teresa Weatherspoon | 589 |
