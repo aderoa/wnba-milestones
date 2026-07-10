@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-10 02:00 UTC
+
+- **Jordin Canada** reached **400** career steals (now 400) — _3:09 - 4th — SEA @ ATL_
+
 ## 2026-07-09 04:03 UTC
 
 - **Dearica Hamby** passed **Courtney Williams** for **#50** all-time in points (career 4,351) — up from #51 entering today — _8.4 - 4th — IND @ LA_

@@ -1,5 +1,14 @@
 [
   {
+    "ts": "2026-07-10T02:00:00+00:00",
+    "text": "Jordin Canada reached 400 career steals (now 400) \u2014 (3:09 - 4th \u2014 SEA @ ATL)",
+    "kind": "round",
+    "player": "Jordin Canada",
+    "stat": "steals",
+    "value": 400,
+    "new_total": 400
+  },
+  {
     "ts": "2026-07-09T04:03:00+00:00",
     "text": "Dearica Hamby passed Courtney Williams for #50 all-time in points (career 4,351) \u2014 up from #51 entering today \u2014 (8.4 - 4th \u2014 IND @ LA)",
     "kind": "rank_pass",
@@ -2998,17 +3007,5 @@
       "Elaine Powell"
     ],
     "new_total": 729
-  },
-  {
-    "ts": "2026-06-28T00:16:00+00:00",
-    "text": "Ariel Atkins passed Latasha Byears for #78 all-time in fouls (career 731) \u2014 (4:10 - 1st \u2014 LA @ IND)",
-    "kind": "rank_pass",
-    "player": "Ariel Atkins",
-    "stat": "fouls",
-    "rank": 78,
-    "passed_players": [
-      "Latasha Byears"
-    ],
-    "new_total": 731
   }
 ]

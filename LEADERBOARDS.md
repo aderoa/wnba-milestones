@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-10 01:59 UTC_
+_Last updated: 2026-07-10 02:00 UTC_
 
 ## Contents
 
@@ -179,7 +179,7 @@ _Last updated: 2026-07-10 01:59 UTC_
 | 158 | Aerial Powers | 2,068 |
 | 159 | Coco Miller | 2,030 |
 | 160 | Diamond DeShields | 2,026 |
-| 161 | **Natisha Hiedeman** 🔴 +17 | 2,019 |
+| 161 | **Natisha Hiedeman** 🔴 +20 | 2,022 |
 | 162 | Vicky Bullett | 2,018 |
 | 163 | **Ezi Magbegor** 🔴 +2 | 1,997 |
 | 164 | Bria Hartley | 1,967 |
@@ -550,7 +550,7 @@ _Last updated: 2026-07-10 01:59 UTC_
 | 118 | Janel McCarville | 551 |
 | 118 | Svetlana Abrosimova | 551 |
 | 120 | Michele Timms | 549 |
-| 121 | **Rhyne Howard** 🔴 +1 | 537 |
+| 121 | **Rhyne Howard** 🔴 +2 | 538 |
 | 122 | Myisha Hines-Allen | 529 |
 | 123 | Marie Ferdinand-Harris | 528 |
 | 124 | Margo Dydek | 524 |
@@ -890,7 +890,7 @@ _Last updated: 2026-07-10 01:59 UTC_
 | 45 | Katie Smith | 408 |
 | 46 | Cappie Pondexter | 405 |
 | 47 | Nicole Powell | 401 |
-| 48 | **Jordin Canada** 🔴 +2 | 399 |
+| 48 | **Jordin Canada** 🔴 +3 | 400 |
 | 49 | Jasmine Thomas | 394 |
 | 50 | Ariel Atkins | 390 |
 | 51 | Danielle Robinson | 389 |
@@ -1110,7 +1110,7 @@ _Last updated: 2026-07-10 01:59 UTC_
 | 60 | Erica Wheeler | 337 |
 | 61 | Anna DeForge | 334 |
 | 61 | Sophie Cunningham | 334 |
-| 63 | **Natisha Hiedeman** 🔴 +2 | 330 |
+| 63 | **Natisha Hiedeman** 🔴 +3 | 331 |
 | 64 | Sugar Rodgers | 317 |
 | 65 | Marissa Coleman | 315 |
 | 66 | Shannon Johnson | 313 |
