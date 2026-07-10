@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-10 03:55 UTC_
+_Last updated: 2026-07-10 03:56 UTC_
 
 ## Contents
 
@@ -977,9 +977,9 @@ _Last updated: 2026-07-10 03:55 UTC_
 | 132 | Erlana Larkins | 242 |
 | 133 | Shavonte Zellous | 241 |
 | 134 | Coco Miller | 237 |
+| 135 | **Kelsey Mitchell** 🔴 +3 | 236 |
 | 135 | Marissa Coleman | 236 |
-| 136 | **Kelsey Mitchell** 🔴 +2 | 235 |
-| 136 | Nikki McCray | 235 |
+| 137 | Nikki McCray | 235 |
 | 138 | Merlakia Jones | 232 |
 | 139 | Ruth Riley | 231 |
 | 140 | Scholanda Dorrell | 230 |
