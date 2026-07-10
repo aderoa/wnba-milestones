@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-10 03:25 UTC_
+_Last updated: 2026-07-10 03:26 UTC_
 
 ## Contents
 
@@ -33,7 +33,7 @@ _Last updated: 2026-07-10 03:25 UTC_
 | 12 | Sylvia Fowles | 6,413 |
 | 13 | Breanna Stewart | 6,335 |
 | 14 | Lisa Leslie | 6,251 |
-| 15 | **A'ja Wilson** 🔴 +20 | 6,198 |
+| 15 | **A'ja Wilson** 🔴 +22 | 6,200 |
 | 16 | **Jewell Loyd** 🔴 +6 | 6,154 |
 | 17 | Brittney Griner | 6,087 |
 | 18 | Lauren Jackson | 6,005 |
@@ -175,7 +175,7 @@ _Last updated: 2026-07-10 03:25 UTC_
 | 154 | Tari Phillips | 2,134 |
 | 155 | Cheryl Ford | 2,116 |
 | 156 | Elena Baranova | 2,110 |
-| 157 | **Aliyah Boston** 🔴 +10 | 2,097 |
+| 157 | **Aliyah Boston** 🔴 +12 | 2,099 |
 | 158 | Aerial Powers | 2,068 |
 | 159 | Coco Miller | 2,030 |
 | 160 | Diamond DeShields | 2,026 |
@@ -200,7 +200,7 @@ _Last updated: 2026-07-10 03:25 UTC_
 | 179 | **NaLyssa Smith** 🔴 +8 | 1,887 |
 | 180 | Rachel Banham | 1,843 |
 | 181 | Damiris Dantas | 1,842 |
-| 182 | **Sophie Cunningham** 🔴 +2 | 1,831 |
+| 182 | **Sophie Cunningham** 🔴 +4 | 1,833 |
 | 183 | Tianna Hawkins | 1,825 |
 | 184 | Noelle Quinn | 1,824 |
 | 185 | Danielle Adams | 1,820 |
@@ -237,7 +237,7 @@ _Last updated: 2026-07-10 03:25 UTC_
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | **Alyssa Thomas** 🔴 +4 | 2,862 |
 | 13 | Jonquel Jones | 2,728 |
-| 14 | **A'ja Wilson** 🔴 +6 | 2,663 |
+| 14 | **A'ja Wilson** 🔴 +7 | 2,664 |
 | 15 | Breanna Stewart | 2,632 |
 | 16 | Sancho Lyttle | 2,596 |
 | 17 | Brittney Griner | 2,579 |
@@ -329,7 +329,7 @@ _Last updated: 2026-07-10 03:25 UTC_
 | 103 | Latasha Byears | 1,190 |
 | 103 | Tanisha Wright | 1,190 |
 | 105 | Vicky Bullett | 1,189 |
-| 106 | **NaLyssa Smith** 🔴 | 1,172 |
+| 106 | **NaLyssa Smith** 🔴 +1 | 1,173 |
 | 107 | Brittney Sykes | 1,162 |
 | 108 | Nykesha Sales | 1,148 |
 | 109 | Shannon Johnson | 1,143 |
@@ -496,7 +496,7 @@ _Last updated: 2026-07-10 03:25 UTC_
 | 64 | Lisa Leslie | 873 |
 | 65 | Brittney Sykes | 866 |
 | 66 | Tully Bevilaqua | 853 |
-| 67 | **Kelsey Mitchell** 🔴 +4 | 851 |
+| 67 | **Kelsey Mitchell** 🔴 +5 | 852 |
 | 68 | Jia Perkins | 837 |
 | 69 | Andrea Stinson | 810 |
 | 70 | Tina Thompson | 803 |
@@ -727,9 +727,9 @@ _Last updated: 2026-07-10 03:25 UTC_
 | 87 | Seimone Augustus | 133 |
 | 91 | Katie Mattera | 131 |
 | 91 | Nakia Sanford | 131 |
-| 93 | Brooke Wyckoff | 129 |
-| 93 | Cathrine Kraayeveld | 129 |
-| 93 | **Emily Engstler** 🔴 +1 | 129 |
+| 93 | **Emily Engstler** 🔴 +2 | 130 |
+| 94 | Brooke Wyckoff | 129 |
+| 94 | Cathrine Kraayeveld | 129 |
 | 96 | **Alyssa Thomas** 🔴 | 127 |
 | 96 | **Chelsea Gray** 🔴 | 127 |
 | 96 | Chiney Ogwumike | 127 |
@@ -979,7 +979,7 @@ _Last updated: 2026-07-10 03:25 UTC_
 | 134 | Coco Miller | 237 |
 | 135 | Marissa Coleman | 236 |
 | 136 | Nikki McCray | 235 |
-| 137 | **Kelsey Mitchell** 🔴 | 233 |
+| 137 | **Kelsey Mitchell** 🔴 +1 | 234 |
 | 138 | Merlakia Jones | 232 |
 | 139 | Ruth Riley | 231 |
 | 140 | Scholanda Dorrell | 230 |
@@ -1280,7 +1280,7 @@ _Last updated: 2026-07-10 03:25 UTC_
 | 24 | Candice Dupree | 869 |
 | 25 | Alana Beard | 854 |
 | 26 | Natasha Howard | 843 |
-| 27 | **DeWanna Bonner** 🔴 +1 | 841 |
+| 27 | **DeWanna Bonner** 🔴 +2 | 842 |
 | 28 | Katie Douglas | 824 |
 | 29 | Nneka Ogwumike | 803 |
 | 30 | Betty Lennox | 800 |
