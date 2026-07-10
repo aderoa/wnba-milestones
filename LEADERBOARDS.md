@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-10 03:42 UTC_
+_Last updated: 2026-07-10 03:43 UTC_
 
 ## Contents
 
@@ -706,8 +706,8 @@ _Last updated: 2026-07-10 03:42 UTC_
 | 69 | Jantel Lavender | 170 |
 | 70 | Camille Smith | 169 |
 | 71 | Shameka Christon | 165 |
-| 72 | **Aliyah Boston** 🔴 | 160 |
-| 72 | Cheryl Ford | 160 |
+| 72 | **Aliyah Boston** 🔴 +1 | 161 |
+| 73 | Cheryl Ford | 160 |
 | 74 | Allisha Gray | 158 |
 | 75 | Kara Braxton | 157 |
 | 76 | DeMya Walker | 155 |
@@ -1602,7 +1602,7 @@ _Last updated: 2026-07-10 03:42 UTC_
 | 141 | Glory Johnson | 550 |
 | 141 | Tierra Ruffin-Pratt | 550 |
 | 143 | **Jackie Young** 🔴 +1 | 549 |
-| 144 | **Monique Billings** 🔴 +1 | 547 |
+| 144 | **Monique Billings** 🔴 +2 | 548 |
 | 145 | Erlana Larkins | 546 |
 | 146 | Jayne Appel Marinelli | 543 |
 | 146 | Kayla McBride | 543 |
