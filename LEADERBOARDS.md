@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-10 02:32 UTC_
+_Last updated: 2026-07-10 02:33 UTC_
 
 ## Contents
 
@@ -132,7 +132,7 @@ _Last updated: 2026-07-10 02:32 UTC_
 | 111 | Rhyne Howard | 2,656 |
 | 112 | Essence Carson | 2,647 |
 | 112 | Lindsey Harding | 2,647 |
-| 114 | Cheyenne Parker-Tyus | 2,645 |
+| 114 | **Cheyenne Parker-Tyus** 🔴 | 2,645 |
 | 115 | Tamera Young | 2,641 |
 | 116 | Liz Cambage | 2,634 |
 | 117 | Janeth Arcain | 2,633 |
@@ -289,7 +289,7 @@ _Last updated: 2026-07-10 02:32 UTC_
 | 63 | Ticha Penicheiro | 1,485 |
 | 64 | Alysha Clark | 1,469 |
 | 65 | Sue Bird | 1,466 |
-| 66 | Cheyenne Parker-Tyus | 1,463 |
+| 66 | **Cheyenne Parker-Tyus** 🔴 | 1,463 |
 | 67 | Nicole Powell | 1,457 |
 | 68 | **Monique Billings** 🔴 +2 | 1,433 |
 | 68 | Tamera Young | 1,433 |
@@ -670,7 +670,7 @@ _Last updated: 2026-07-10 02:32 UTC_
 | 33 | Rebekkah Brunson | 281 |
 | 34 | Nneka Ogwumike | 266 |
 | 35 | Liz Cambage | 264 |
-| 36 | Cheyenne Parker-Tyus | 261 |
+| 36 | **Cheyenne Parker-Tyus** 🔴 | 261 |
 | 37 | Swin Cash | 258 |
 | 38 | Plenette Pierson | 242 |
 | 39 | Napheesa Collier | 239 |
@@ -873,7 +873,7 @@ _Last updated: 2026-07-10 02:32 UTC_
 | 28 | Natasha Howard | 467 |
 | 29 | Skylar Diggins | 463 |
 | 29 | Teresa Weatherspoon | 463 |
-| 31 | **Jewell Loyd** 🔴 | 458 |
+| 31 | **Jewell Loyd** 🔴 +1 | 459 |
 | 32 | **Chelsea Gray** 🔴 | 457 |
 | 33 | Rebekkah Brunson | 456 |
 | 34 | Tangela Smith | 455 |
@@ -993,7 +993,7 @@ _Last updated: 2026-07-10 02:32 UTC_
 | 147 | Jennifer Gillom | 220 |
 | 149 | Allison Feaster | 219 |
 | 149 | **Kahleah Copper** 🔴 | 219 |
-| 151 | Cheyenne Parker-Tyus | 217 |
+| 151 | **Cheyenne Parker-Tyus** 🔴 | 217 |
 | 151 | Shenise Johnson | 217 |
 | 153 | Adrian Williams-Strong | 216 |
 | 153 | Moriah Jefferson | 216 |
@@ -1382,7 +1382,7 @@ _Last updated: 2026-07-10 02:32 UTC_
 | 127 | Elena Baranova | 444 |
 | 127 | Jantel Lavender | 444 |
 | 129 | Alysha Clark | 443 |
-| 130 | Cheyenne Parker-Tyus | 441 |
+| 130 | **Cheyenne Parker-Tyus** 🔴 | 441 |
 | 131 | Ann Wauters | 440 |
 | 132 | Tiffany Mitchell | 439 |
 | 133 | Kedra Holland-Corn | 438 |
@@ -1550,7 +1550,7 @@ _Last updated: 2026-07-10 02:32 UTC_
 | 90 | Sophia Young-Malcolm | 687 |
 | 91 | Maya Moore | 686 |
 | 92 | Breanna Stewart | 685 |
-| 92 | Cheyenne Parker-Tyus | 685 |
+| 92 | **Cheyenne Parker-Tyus** 🔴 | 685 |
 | 92 | Jasmine Thomas | 685 |
 | 92 | **Jewell Loyd** 🔴 +1 | 685 |
 | 96 | Leilani Mitchell | 684 |
