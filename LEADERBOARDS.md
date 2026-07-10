@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-10 03:57 UTC_
+_Last updated: 2026-07-10 03:58 UTC_
 
 ## Contents
 
@@ -33,7 +33,7 @@ _Last updated: 2026-07-10 03:57 UTC_
 | 12 | Sylvia Fowles | 6,413 |
 | 13 | Breanna Stewart | 6,335 |
 | 14 | Lisa Leslie | 6,251 |
-| 15 | **A'ja Wilson** 🔴 +26 | 6,204 |
+| 15 | **A'ja Wilson** 🔴 +28 | 6,206 |
 | 16 | **Jewell Loyd** 🔴 +6 | 6,154 |
 | 17 | Brittney Griner | 6,087 |
 | 18 | Lauren Jackson | 6,005 |
@@ -237,7 +237,7 @@ _Last updated: 2026-07-10 03:57 UTC_
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | **Alyssa Thomas** 🔴 +6 | 2,864 |
 | 13 | Jonquel Jones | 2,728 |
-| 14 | **A'ja Wilson** 🔴 +8 | 2,665 |
+| 14 | **A'ja Wilson** 🔴 +9 | 2,666 |
 | 15 | Breanna Stewart | 2,632 |
 | 16 | Sancho Lyttle | 2,596 |
 | 17 | Brittney Griner | 2,579 |
@@ -301,7 +301,7 @@ _Last updated: 2026-07-10 03:57 UTC_
 | 75 | Courtney Vandersloot | 1,386 |
 | 76 | Katie Smith | 1,383 |
 | 77 | Ebony Hoffman | 1,376 |
-| 78 | **Jewell Loyd** 🔴 | 1,371 |
+| 78 | **Jewell Loyd** 🔴 +1 | 1,372 |
 | 79 | Sheri Sam | 1,356 |
 | 80 | Tamika Whitmore | 1,355 |
 | 81 | Emma Meesseman | 1,350 |
@@ -461,7 +461,7 @@ _Last updated: 2026-07-10 03:57 UTC_
 | 29 | Vickie Johnson | 1,202 |
 | 30 | **DeWanna Bonner** 🔴 +2 | 1,198 |
 | 31 | Leilani Mitchell | 1,197 |
-| 32 | **Jackie Young** 🔴 +9 | 1,159 |
+| 32 | **Jackie Young** 🔴 +10 | 1,160 |
 | 33 | **Jewell Loyd** 🔴 | 1,156 |
 | 34 | Renee Montgomery | 1,140 |
 | 35 | Swin Cash | 1,131 |
