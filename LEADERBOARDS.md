@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-10 01:29 UTC_
+_Last updated: 2026-07-10 01:30 UTC_
 
 ## Contents
 
@@ -296,7 +296,7 @@ _Last updated: 2026-07-10 01:29 UTC_
 | 70 | Alana Beard | 1,420 |
 | 71 | Nakia Sanford | 1,419 |
 | 72 | Kayla Thornton | 1,408 |
-| 73 | **Allisha Gray** 🔴 +2 | 1,406 |
+| 73 | **Allisha Gray** 🔴 +3 | 1,407 |
 | 74 | Kara Braxton | 1,387 |
 | 75 | Courtney Vandersloot | 1,386 |
 | 76 | Katie Smith | 1,383 |
@@ -748,7 +748,7 @@ _Last updated: 2026-07-10 01:29 UTC_
 | 110 | Crystal Langhorne | 117 |
 | 112 | Ariel Atkins | 115 |
 | 113 | Monique Currie | 114 |
-| 113 | **Rhyne Howard** 🔴 +3 | 114 |
+| 114 | **Rhyne Howard** 🔴 +2 | 113 |
 | 115 | Amanda Lassiter | 111 |
 | 115 | Kamila Vodichkova | 111 |
 | 115 | Sophia Young-Malcolm | 111 |
@@ -1437,9 +1437,9 @@ _Last updated: 2026-07-10 01:29 UTC_
 | 182 | Olympia Scott | 324 |
 | 183 | Kia Nurse | 320 |
 | 184 | Barbara Farris | 315 |
-| 185 | Monique Billings | 314 |
-| 185 | Moriah Jefferson | 314 |
-| 185 | **Natisha Hiedeman** 🔴 +2 | 314 |
+| 184 | **Natisha Hiedeman** 🔴 +3 | 315 |
+| 186 | Monique Billings | 314 |
+| 186 | Moriah Jefferson | 314 |
 | 188 | Alex Bentley | 313 |
 | 189 | Tamika Raymond | 311 |
 | 190 | Isabelle Harrison | 307 |
