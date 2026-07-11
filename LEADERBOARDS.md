@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-11 20:38 UTC_
+_Last updated: 2026-07-11 20:39 UTC_
 
 ## Contents
 
@@ -60,7 +60,7 @@ _Last updated: 2026-07-11 20:38 UTC_
 | 39 | Natasha Howard | 4,698 |
 | 40 | Chelsea Gray | 4,625 |
 | 41 | Penny Taylor | 4,595 |
-| 42 | **Allisha Gray** 🔴 +4 | 4,495 |
+| 42 | **Allisha Gray** 🔴 +9 | 4,500 |
 | 43 | Kelsey Plum | 4,494 |
 | 44 | Kristi Toliver | 4,474 |
 | 45 | Kahleah Copper | 4,437 |
@@ -549,7 +549,7 @@ _Last updated: 2026-07-11 20:38 UTC_
 | 118 | Janel McCarville | 551 |
 | 118 | Svetlana Abrosimova | 551 |
 | 120 | Michele Timms | 549 |
-| 121 | **Rhyne Howard** 🔴 | 536 |
+| 121 | **Rhyne Howard** 🔴 +1 | 537 |
 | 122 | Myisha Hines-Allen | 529 |
 | 123 | Marie Ferdinand-Harris | 528 |
 | 124 | Margo Dydek | 524 |
@@ -1074,7 +1074,7 @@ _Last updated: 2026-07-11 20:38 UTC_
 | 25 | Shekinna Stricklen | 468 |
 | 26 | Breanna Stewart | 467 |
 | 27 | Cappie Pondexter | 464 |
-| 28 | **Allisha Gray** 🔴 | 458 |
+| 28 | **Allisha Gray** 🔴 +1 | 459 |
 | 29 | Ariel Atkins | 455 |
 | 30 | Tiffany Hayes | 454 |
 | 31 | Chelsea Gray | 450 |
