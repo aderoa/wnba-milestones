@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-11 18:25 UTC_
+_Last updated: 2026-07-11 18:26 UTC_
 
 ## Contents
 
@@ -110,7 +110,7 @@ _Last updated: 2026-07-11 18:25 UTC_
 | 89 | Erica Wheeler | 3,195 |
 | 90 | Danielle Robinson | 3,160 |
 | 91 | Wendy Palmer | 3,135 |
-| 92 | **Sabrina Ionescu** 🔴 +13 | 3,110 |
+| 92 | **Sabrina Ionescu** 🔴 +15 | 3,112 |
 | 93 | Shavonte Zellous | 3,103 |
 | 94 | Briann January | 3,082 |
 | 95 | Erika de Souza | 3,046 |
@@ -1023,9 +1023,9 @@ _Last updated: 2026-07-11 18:25 UTC_
 | 179 | Isabelle Harrison | 190 |
 | 180 | Tamicha Jackson | 188 |
 | 181 | Michele Timms | 187 |
-| 182 | Charde Houston | 185 |
-| 182 | **Sabrina Ionescu** 🔴 +1 | 185 |
-| 182 | Tiffany Jackson | 185 |
+| 182 | **Sabrina Ionescu** 🔴 +2 | 186 |
+| 183 | Charde Houston | 185 |
+| 183 | Tiffany Jackson | 185 |
 | 185 | Erin Perperoglou | 184 |
 | 186 | **Rebecca Allen** 🔴 | 183 |
 | 187 | Erin Phillips | 182 |
@@ -1165,8 +1165,8 @@ _Last updated: 2026-07-11 18:25 UTC_
 | 116 | Victoria Vivians | 192 |
 | 117 | Danielle Adams | 188 |
 | 117 | Napheesa Collier | 188 |
+| 119 | **Marine Johannès** 🔴 +1 | 184 |
 | 119 | Noelle Quinn | 184 |
-| 120 | **Marine Johannès** 🔴 | 183 |
 | 121 | Karima Christmas-Kelly | 181 |
 | 122 | Aerial Powers | 179 |
 | 122 | Camille Smith | 179 |
