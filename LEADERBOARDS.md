@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-11 23:40 UTC_
+_Last updated: 2026-07-11 23:41 UTC_
 
 ## Contents
 
@@ -58,7 +58,7 @@ _Last updated: 2026-07-11 23:40 UTC_
 | 37 | Chamique Holdsclaw | 4,713 |
 | 38 | Elena Delle Donne | 4,706 |
 | 39 | Natasha Howard | 4,698 |
-| 40 | **Chelsea Gray** 🔴 +13 | 4,638 |
+| 40 | **Chelsea Gray** 🔴 +15 | 4,640 |
 | 41 | Penny Taylor | 4,595 |
 | 42 | Allisha Gray | 4,511 |
 | 43 | Kelsey Plum | 4,494 |
@@ -319,7 +319,7 @@ _Last updated: 2026-07-11 23:40 UTC_
 | 93 | **Chelsea Gray** 🔴 +1 | 1,258 |
 | 93 | Liz Cambage | 1,258 |
 | 95 | Tiffany Hayes | 1,257 |
-| 96 | **Brianna Turner** 🔴 +3 | 1,246 |
+| 96 | **Brianna Turner** 🔴 +4 | 1,247 |
 | 97 | Ezi Magbegor | 1,243 |
 | 98 | Seimone Augustus | 1,228 |
 | 99 | Jia Perkins | 1,220 |
@@ -417,8 +417,8 @@ _Last updated: 2026-07-11 23:40 UTC_
 | 191 | Kelsey Plum | 741 |
 | 192 | Alex Montgomery | 735 |
 | 193 | Ashley Robinson | 734 |
+| 194 | **Sami Whitcomb** 🔴 +3 | 729 |
 | 194 | Shenise Johnson | 729 |
-| 195 | **Sami Whitcomb** 🔴 +2 | 728 |
 | 196 | Shekinna Stricklen | 726 |
 | 197 | Olympia Scott | 711 |
 | 198 | Katie Mattera | 708 |
