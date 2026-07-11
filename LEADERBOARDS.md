@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-11 00:39 UTC_
+_Last updated: 2026-07-11 00:40 UTC_
 
 ## Contents
 
@@ -54,7 +54,7 @@ _Last updated: 2026-07-11 00:39 UTC_
 | 33 | Sheryl Swoopes | 4,875 |
 | 34 | Alyssa Thomas | 4,752 |
 | 35 | Alana Beard | 4,740 |
-| 36 | **Arike Ogunbowale** 🔴 +10 | 4,725 |
+| 36 | **Arike Ogunbowale** 🔴 +12 | 4,727 |
 | 37 | Chamique Holdsclaw | 4,713 |
 | 38 | Elena Delle Donne | 4,706 |
 | 39 | Natasha Howard | 4,682 |
@@ -259,7 +259,7 @@ _Last updated: 2026-07-11 00:39 UTC_
 | 33 | Elizabeth Williams | 1,978 |
 | 34 | Cheryl Ford | 1,907 |
 | 35 | Courtney Williams | 1,843 |
-| 36 | **Kiah Stokes** 🔴 +1 | 1,836 |
+| 36 | **Kiah Stokes** 🔴 +2 | 1,837 |
 | 37 | Plenette Pierson | 1,834 |
 | 38 | Natalie Williams | 1,832 |
 | 39 | Wendy Palmer | 1,824 |
@@ -581,8 +581,8 @@ _Last updated: 2026-07-11 00:39 UTC_
 | 149 | Ruth Riley | 449 |
 | 150 | DeMya Walker | 446 |
 | 151 | Essence Carson | 445 |
+| 152 | **Jessica Shepard** 🔴 +1 | 437 |
 | 152 | Michelle Snow | 437 |
-| 153 | **Jessica Shepard** 🔴 | 436 |
 | 154 | Lauren Jackson | 435 |
 | 155 | Adrienne Goodson | 433 |
 | 155 | Crystal Langhorne | 433 |
@@ -1344,7 +1344,7 @@ _Last updated: 2026-07-11 00:39 UTC_
 | 89 | Lauren Jackson | 549 |
 | 90 | Matee Ajavon | 544 |
 | 91 | Adrienne Goodson | 542 |
-| 92 | **Marina Mabrey** 🔴 +1 | 538 |
+| 92 | **Marina Mabrey** 🔴 +2 | 539 |
 | 93 | Layshia Clarendon | 536 |
 | 94 | Ivory Latta | 534 |
 | 94 | Iziane Castro Marques | 534 |
@@ -1591,7 +1591,7 @@ _Last updated: 2026-07-11 00:39 UTC_
 | 129 | Olympia Scott | 580 |
 | 132 | Ezi Magbegor | 576 |
 | 133 | Le'coe Willingham | 571 |
-| 134 | **Marina Mabrey** 🔴 +3 | 569 |
+| 134 | **Marina Mabrey** 🔴 +4 | 570 |
 | 135 | Ashley Robinson | 567 |
 | 136 | Ivory Latta | 565 |
 | 137 | Barbara Farris | 563 |
