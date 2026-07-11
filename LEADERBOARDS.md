@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-11 22:33 UTC_
+_Last updated: 2026-07-11 22:34 UTC_
 
 ## Contents
 
@@ -58,7 +58,7 @@ _Last updated: 2026-07-11 22:33 UTC_
 | 37 | Chamique Holdsclaw | 4,713 |
 | 38 | Elena Delle Donne | 4,706 |
 | 39 | Natasha Howard | 4,698 |
-| 40 | **Chelsea Gray** 🔴 +6 | 4,631 |
+| 40 | **Chelsea Gray** 🔴 +9 | 4,634 |
 | 41 | Penny Taylor | 4,595 |
 | 42 | Allisha Gray | 4,511 |
 | 43 | Kelsey Plum | 4,494 |
@@ -872,7 +872,7 @@ _Last updated: 2026-07-11 22:33 UTC_
 | 28 | Natasha Howard | 469 |
 | 29 | Skylar Diggins | 463 |
 | 29 | Teresa Weatherspoon | 463 |
-| 31 | **Jewell Loyd** 🔴 | 458 |
+| 31 | **Jewell Loyd** 🔴 +1 | 459 |
 | 32 | **Chelsea Gray** 🔴 | 457 |
 | 33 | Rebekkah Brunson | 456 |
 | 34 | Tangela Smith | 455 |
@@ -1077,7 +1077,7 @@ _Last updated: 2026-07-11 22:33 UTC_
 | 28 | Allisha Gray | 459 |
 | 29 | Ariel Atkins | 455 |
 | 30 | Tiffany Hayes | 454 |
-| 31 | **Chelsea Gray** 🔴 +2 | 452 |
+| 31 | **Chelsea Gray** 🔴 +3 | 453 |
 | 32 | Skylar Diggins | 447 |
 | 33 | Lauren Jackson | 436 |
 | 34 | Shameka Christon | 434 |
