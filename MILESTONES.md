@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-11 17:35 UTC
+
+- **Betnijah Laney-Hamilton** passed **Caitlin Clark** and **Gabby Williams** for **#104** all-time in assists (career 592) — up from #106 entering today — _7:06 - 2nd — NY @ MIN_
+
 ## 2026-07-11 03:55 UTC
 
 - **Nneka Ogwumike** passed **Rebecca Allen** for **#86** all-time in three-pointers (career 256) — up from #89 entering today — _2:19 - 4th — CHI @ LA_

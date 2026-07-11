@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-07-11T17:35:00+00:00",
+    "text": "Betnijah Laney-Hamilton passed Caitlin Clark and Gabby Williams for #104 all-time in assists (career 592) \u2014 up from #106 entering today \u2014 (7:06 - 2nd \u2014 NY @ MIN)",
+    "kind": "rank_pass",
+    "player": "Betnijah Laney-Hamilton",
+    "stat": "assists",
+    "rank": 104,
+    "passed_players": [
+      "Caitlin Clark",
+      "Gabby Williams"
+    ],
+    "new_total": 592
+  },
+  {
     "ts": "2026-07-11T03:55:00+00:00",
     "text": "Nneka Ogwumike passed Rebecca Allen for #86 all-time in three-pointers (career 256) \u2014 up from #89 entering today \u2014 (2:19 - 4th \u2014 CHI @ LA)",
     "kind": "rank_pass",
@@ -3001,17 +3014,5 @@
       "Elena Baranova"
     ],
     "new_total": 431
-  },
-  {
-    "ts": "2026-06-28T01:20:00+00:00",
-    "text": "Tyasha Harris passed Sylvia Fowles for #140 all-time in assists (career 462) \u2014 up from #141 entering today \u2014 (8:39 - 3rd \u2014 LA @ IND)",
-    "kind": "rank_pass",
-    "player": "Tyasha Harris",
-    "stat": "assists",
-    "rank": 140,
-    "passed_players": [
-      "Sylvia Fowles"
-    ],
-    "new_total": 462
   }
 ]
