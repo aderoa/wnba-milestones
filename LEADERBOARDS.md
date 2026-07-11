@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-11 22:51 UTC_
+_Last updated: 2026-07-11 22:52 UTC_
 
 ## Contents
 
@@ -21,7 +21,7 @@ _Last updated: 2026-07-11 22:51 UTC_
 |-----:|--------|------:|
 | 1 | Diana Taurasi | 10,608 |
 | 2 | Tina Charles | 8,396 |
-| 3 | **DeWanna Bonner** 🔴 | 7,972 |
+| 3 | **DeWanna Bonner** 🔴 +2 | 7,974 |
 | 4 | Nneka Ogwumike | 7,563 |
 | 5 | Tina Thompson | 7,470 |
 | 6 | Tamika Catchings | 7,371 |
@@ -34,7 +34,7 @@ _Last updated: 2026-07-11 22:51 UTC_
 | 13 | Breanna Stewart | 6,352 |
 | 14 | Lisa Leslie | 6,251 |
 | 15 | **A'ja Wilson** 🔴 +16 | 6,194 |
-| 16 | **Jewell Loyd** 🔴 | 6,148 |
+| 16 | **Jewell Loyd** 🔴 +3 | 6,151 |
 | 17 | Brittney Griner | 6,087 |
 | 18 | Lauren Jackson | 6,005 |
 | 18 | Seimone Augustus | 6,005 |
@@ -129,7 +129,7 @@ _Last updated: 2026-07-11 22:51 UTC_
 | 108 | Ticha Penicheiro | 2,729 |
 | 109 | Adrienne Goodson | 2,705 |
 | 110 | Riquna Williams | 2,659 |
-| 111 | **Cheyenne Parker-Tyus** 🔴 +5 | 2,650 |
+| 111 | **Cheyenne Parker-Tyus** 🔴 +6 | 2,651 |
 | 112 | Essence Carson | 2,647 |
 | 112 | Lindsey Harding | 2,647 |
 | 112 | Rhyne Howard | 2,647 |
@@ -237,7 +237,7 @@ _Last updated: 2026-07-11 22:51 UTC_
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | **Alyssa Thomas** 🔴 | 2,858 |
 | 13 | Jonquel Jones | 2,740 |
-| 14 | **A'ja Wilson** 🔴 +8 | 2,665 |
+| 14 | **A'ja Wilson** 🔴 +9 | 2,666 |
 | 15 | Breanna Stewart | 2,639 |
 | 16 | Sancho Lyttle | 2,596 |
 | 17 | Brittney Griner | 2,579 |
@@ -461,7 +461,7 @@ _Last updated: 2026-07-11 22:51 UTC_
 | 30 | Leilani Mitchell | 1,197 |
 | 31 | **DeWanna Bonner** 🔴 | 1,196 |
 | 32 | **Jewell Loyd** 🔴 +1 | 1,157 |
-| 33 | **Jackie Young** 🔴 +4 | 1,154 |
+| 33 | **Jackie Young** 🔴 +5 | 1,155 |
 | 34 | Renee Montgomery | 1,140 |
 | 35 | Swin Cash | 1,131 |
 | 36 | Sabrina Ionescu | 1,097 |
@@ -1055,7 +1055,7 @@ _Last updated: 2026-07-11 22:51 UTC_
 | 6 | Tina Thompson | 745 |
 | 7 | Katie Douglas | 723 |
 | 8 | Kelsey Mitchell | 712 |
-| 9 | **Jewell Loyd** 🔴 | 695 |
+| 9 | **Jewell Loyd** 🔴 +1 | 696 |
 | 10 | **DeWanna Bonner** 🔴 | 682 |
 | 11 | Kristi Toliver | 651 |
 | 12 | Kelsey Plum | 619 |
