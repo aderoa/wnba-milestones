@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-07-11T23:58:00+00:00",
+    "text": "Cheyenne Parker-Tyus passed Riquna Williams for #110 all-time in points (career 2,660) \u2014 up from #113 entering today \u2014 (4:42 - 4th \u2014 PHX @ LV)",
+    "kind": "rank_pass",
+    "player": "Cheyenne Parker-Tyus",
+    "stat": "points",
+    "rank": 110,
+    "passed_players": [
+      "Riquna Williams"
+    ],
+    "new_total": 2660
+  },
+  {
     "ts": "2026-07-11T23:40:00+00:00",
     "text": "Jewell Loyd passed Sophia Young-Malcolm for #90 all-time in fouls (career 688) \u2014 up from #95 entering today \u2014 (1:58 - 3rd \u2014 PHX @ LV)",
     "kind": "rank_pass",
@@ -3003,17 +3015,5 @@
       "Rebecca Allen"
     ],
     "new_total": 184
-  },
-  {
-    "ts": "2026-06-28T01:40:00+00:00",
-    "text": "Ariel Atkins passed Shameka Christon for #74 all-time in fouls (career 735) \u2014 up from #77 entering today \u2014 (2:23 - 3rd \u2014 LA @ IND)",
-    "kind": "rank_pass",
-    "player": "Ariel Atkins",
-    "stat": "fouls",
-    "rank": 74,
-    "passed_players": [
-      "Shameka Christon"
-    ],
-    "new_total": 735
   }
 ]

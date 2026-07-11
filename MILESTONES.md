@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-11 23:58 UTC
+
+- **Cheyenne Parker-Tyus** passed **Riquna Williams** for **#110** all-time in points (career 2,660) — up from #113 entering today — _4:42 - 4th — PHX @ LV_
+
 ## 2026-07-11 23:40 UTC
 
 - **Jewell Loyd** passed **Sophia Young-Malcolm** for **#90** all-time in fouls (career 688) — up from #95 entering today — _1:58 - 3rd — PHX @ LV_
