@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-11 02:18 UTC_
+_Last updated: 2026-07-11 02:19 UTC_
 
 ## Contents
 
@@ -244,7 +244,7 @@ _Last updated: 2026-07-11 02:18 UTC_
 | 18 | DeLisha Milton-Jones | 2,574 |
 | 19 | Swin Cash | 2,521 |
 | 20 | Michelle Snow | 2,476 |
-| 21 | **Dearica Hamby** 🔴 | 2,455 |
+| 21 | **Dearica Hamby** 🔴 +1 | 2,456 |
 | 22 | Crystal Langhorne | 2,454 |
 | 23 | Lauren Jackson | 2,444 |
 | 24 | Yolanda Griffith | 2,440 |
@@ -310,7 +310,7 @@ _Last updated: 2026-07-11 02:18 UTC_
 | 84 | Erlana Larkins | 1,329 |
 | 85 | Mwadi Mabika | 1,327 |
 | 86 | Jayne Appel Marinelli | 1,326 |
-| 87 | **Azurá Stevens** 🔴 | 1,319 |
+| 87 | **Azurá Stevens** 🔴 +1 | 1,320 |
 | 88 | Betty Lennox | 1,296 |
 | 89 | Tari Phillips | 1,274 |
 | 90 | Myisha Hines-Allen | 1,265 |
@@ -378,7 +378,7 @@ _Last updated: 2026-07-11 02:18 UTC_
 | 152 | Natalie Achonwa | 895 |
 | 153 | Temeka Johnson | 889 |
 | 154 | Mistie Bass | 888 |
-| 155 | **Erica Wheeler** 🔴 +1 | 883 |
+| 155 | **Erica Wheeler** 🔴 | 882 |
 | 156 | Alanna Smith | 878 |
 | 157 | Marina Mabrey | 875 |
 | 158 | Shameka Christon | 867 |
@@ -1281,7 +1281,7 @@ _Last updated: 2026-07-11 02:18 UTC_
 | 26 | Natasha Howard | 843 |
 | 27 | DeWanna Bonner | 840 |
 | 28 | Katie Douglas | 824 |
-| 29 | **Nneka Ogwumike** 🔴 | 803 |
+| 29 | **Nneka Ogwumike** 🔴 +1 | 804 |
 | 30 | Betty Lennox | 800 |
 | 31 | Jasmine Thomas | 796 |
 | 32 | Jewell Loyd | 795 |
@@ -1471,7 +1471,7 @@ _Last updated: 2026-07-11 02:18 UTC_
 | 11 | Chasity Melvin | 1,165 |
 | 12 | Camille Smith | 1,159 |
 | 13 | Natasha Howard | 1,158 |
-| 14 | **Nneka Ogwumike** 🔴 | 1,156 |
+| 14 | **Nneka Ogwumike** 🔴 +1 | 1,157 |
 | 15 | Alana Beard | 1,153 |
 | 16 | Swin Cash | 1,146 |
 | 17 | Taj McWilliams-Franklin | 1,145 |
