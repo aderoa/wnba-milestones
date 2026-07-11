@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-11 01:18 UTC_
+_Last updated: 2026-07-11 01:19 UTC_
 
 ## Contents
 
@@ -122,7 +122,7 @@ _Last updated: 2026-07-11 01:18 UTC_
 | 101 | Natalie Williams | 2,894 |
 | 102 | Jennifer Gillom | 2,888 |
 | 103 | Iziane Castro Marques | 2,862 |
-| 104 | **Alysha Clark** 🔴 +8 | 2,816 |
+| 104 | **Alysha Clark** 🔴 +10 | 2,818 |
 | 105 | Jantel Lavender | 2,775 |
 | 106 | Brionna Jones | 2,765 |
 | 107 | Dominique Canty | 2,763 |
@@ -349,8 +349,8 @@ _Last updated: 2026-07-11 01:18 UTC_
 | 123 | Nicole Ohlde | 1,040 |
 | 124 | Angel Reese | 1,035 |
 | 124 | Tamecka Dixon | 1,035 |
+| 126 | **Jessica Shepard** 🔴 +15 | 1,031 |
 | 126 | Kamila Vodichkova | 1,031 |
-| 127 | **Jessica Shepard** 🔴 +14 | 1,030 |
 | 128 | Jasmine Thomas | 1,027 |
 | 129 | Sabrina Ionescu | 1,020 |
 | 130 | Cathrine Kraayeveld | 1,013 |
