@@ -1,5 +1,29 @@
 [
   {
+    "ts": "2026-07-11T03:23:00+00:00",
+    "text": "Elizabeth Williams passed Myisha Hines-Allen for #151 all-time in turnovers (career 391) \u2014 up from #152 entering today \u2014 (3:33 - 3rd \u2014 CHI @ LA)",
+    "kind": "rank_pass",
+    "player": "Elizabeth Williams",
+    "stat": "turnovers",
+    "rank": 151,
+    "passed_players": [
+      "Myisha Hines-Allen"
+    ],
+    "new_total": 391
+  },
+  {
+    "ts": "2026-07-11T03:23:00+00:00",
+    "text": "Ariel Atkins passed Moriah Jefferson for #83 all-time in assists (career 686) \u2014 up from #84 entering today \u2014 (3:33 - 3rd \u2014 CHI @ LA)",
+    "kind": "rank_pass",
+    "player": "Ariel Atkins",
+    "stat": "assists",
+    "rank": 83,
+    "passed_players": [
+      "Moriah Jefferson"
+    ],
+    "new_total": 686
+  },
+  {
     "ts": "2026-07-11T02:35:00+00:00",
     "text": "Dearica Hamby passed Helen Darling and Matee Ajavon for #154 all-time in three-pointers (career 145) \u2014 (7:10 - 2nd \u2014 CHI @ LA)",
     "kind": "rank_pass",
@@ -2986,26 +3010,5 @@
       "Betty Lennox"
     ],
     "new_total": 852
-  },
-  {
-    "ts": "2026-06-28T00:48:00+00:00",
-    "text": "Aliyah Boston passed Kahleah Copper for #100 all-time in rebounds (career 1,205) \u2014 up from #102 entering today \u2014 (3:22 - 2nd \u2014 LA @ IND)",
-    "kind": "rank_pass",
-    "player": "Aliyah Boston",
-    "stat": "rebounds",
-    "rank": 100,
-    "passed_players": [
-      "Kahleah Copper"
-    ],
-    "new_total": 1205
-  },
-  {
-    "ts": "2026-06-28T00:46:00+00:00",
-    "text": "Aliyah Boston reached 2,100 career points (now 2,100) \u2014 (4:19 - 2nd \u2014 LA @ IND)",
-    "kind": "round",
-    "player": "Aliyah Boston",
-    "stat": "points",
-    "value": 2100,
-    "new_total": 2100
   }
 ]

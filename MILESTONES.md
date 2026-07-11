@@ -2,6 +2,11 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-11 03:23 UTC
+
+- **Elizabeth Williams** passed **Myisha Hines-Allen** for **#151** all-time in turnovers (career 391) — up from #152 entering today — _3:33 - 3rd — CHI @ LA_
+- **Ariel Atkins** passed **Moriah Jefferson** for **#83** all-time in assists (career 686) — up from #84 entering today — _3:33 - 3rd — CHI @ LA_
+
 ## 2026-07-11 02:35 UTC
 
 - **Dearica Hamby** passed **Helen Darling** and **Matee Ajavon** for **#154** all-time in three-pointers (career 145) — _7:10 - 2nd — CHI @ LA_
