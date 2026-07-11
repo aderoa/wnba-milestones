@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-11 22:38 UTC_
+_Last updated: 2026-07-11 22:39 UTC_
 
 ## Contents
 
@@ -63,7 +63,7 @@ _Last updated: 2026-07-11 22:38 UTC_
 | 42 | Allisha Gray | 4,511 |
 | 43 | Kelsey Plum | 4,494 |
 | 44 | Kristi Toliver | 4,474 |
-| 45 | **Kahleah Copper** 🔴 | 4,437 |
+| 45 | **Kahleah Copper** 🔴 +2 | 4,439 |
 | 46 | Crystal Langhorne | 4,433 |
 | 46 | Jia Perkins | 4,433 |
 | 48 | Jonquel Jones | 4,368 |
@@ -197,7 +197,7 @@ _Last updated: 2026-07-11 22:38 UTC_
 | 176 | Ebony Hoffman | 1,909 |
 | 177 | Candice Wiggins | 1,901 |
 | 178 | Gabby Williams | 1,899 |
-| 179 | **NaLyssa Smith** 🔴 +4 | 1,883 |
+| 179 | **NaLyssa Smith** 🔴 +6 | 1,885 |
 | 180 | Rachel Banham | 1,843 |
 | 181 | Damiris Dantas | 1,842 |
 | 182 | Sophie Cunningham | 1,829 |
@@ -434,7 +434,7 @@ _Last updated: 2026-07-11 22:38 UTC_
 | 3 | Ticha Penicheiro | 2,588 |
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
-| 6 | **Chelsea Gray** 🔴 +3 | 2,006 |
+| 6 | **Chelsea Gray** 🔴 +4 | 2,007 |
 | 7 | **Alyssa Thomas** 🔴 | 1,971 |
 | 8 | Skylar Diggins | 1,852 |
 | 9 | Natasha Cloud | 1,802 |
@@ -526,7 +526,7 @@ _Last updated: 2026-07-11 22:38 UTC_
 | 95 | Alex Bentley | 645 |
 | 96 | Asjha Jones | 637 |
 | 97 | Jennifer Azzi | 636 |
-| 98 | **Sami Whitcomb** 🔴 +1 | 624 |
+| 98 | **Sami Whitcomb** 🔴 +2 | 625 |
 | 99 | Alysha Clark | 619 |
 | 100 | Natasha Howard | 617 |
 | 101 | Debbie Black | 612 |
@@ -1321,7 +1321,7 @@ _Last updated: 2026-07-11 22:38 UTC_
 | 67 | Ruth Riley | 637 |
 | 68 | Odyssey Sims | 631 |
 | 68 | Svetlana Abrosimova | 631 |
-| 70 | **Kahleah Copper** 🔴 | 625 |
+| 70 | **Kahleah Copper** 🔴 +1 | 626 |
 | 71 | Tiffany Hayes | 624 |
 | 72 | Rebekkah Brunson | 615 |
 | 73 | Seimone Augustus | 613 |
@@ -1524,7 +1524,7 @@ _Last updated: 2026-07-11 22:38 UTC_
 | 65 | Sue Bird | 775 |
 | 66 | Natasha Cloud | 773 |
 | 67 | Sheri Sam | 766 |
-| 68 | **Kahleah Copper** 🔴 | 758 |
+| 68 | **Kahleah Copper** 🔴 +1 | 759 |
 | 69 | Allisha Gray | 756 |
 | 70 | Kia Vaughn | 755 |
 | 71 | Vickie Johnson | 752 |
