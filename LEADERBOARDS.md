@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-11 04:23 UTC_
+_Last updated: 2026-07-11 04:24 UTC_
 
 ## Contents
 
@@ -186,7 +186,7 @@ _Last updated: 2026-07-11 04:23 UTC_
 | 165 | Chiney Ogwumike | 1,964 |
 | 166 | Nicole Ohlde | 1,959 |
 | 167 | Myisha Hines-Allen | 1,956 |
-| 168 | Isabelle Harrison | 1,943 |
+| 168 | Isabelle Harrison | 1,950 |
 | 169 | Kedra Holland-Corn | 1,938 |
 | 170 | Cathrine Kraayeveld | 1,926 |
 | 171 | Roneeka Hodges | 1,925 |
@@ -342,7 +342,7 @@ _Last updated: 2026-07-11 04:23 UTC_
 | 116 | Chiney Ogwumike | 1,110 |
 | 117 | Becky Hammon | 1,108 |
 | 118 | Ann Wauters | 1,105 |
-| 119 | Isabelle Harrison | 1,100 |
+| 118 | Isabelle Harrison | 1,105 |
 | 120 | Jackie Young | 1,085 |
 | 121 | Svetlana Abrosimova | 1,078 |
 | 122 | Le'coe Willingham | 1,054 |
@@ -573,8 +573,8 @@ _Last updated: 2026-07-11 04:23 UTC_
 | 141 | Tyasha Harris | 460 |
 | 142 | Sug Sutton | 456 |
 | 143 | Sydney Colson | 454 |
-| 144 | Julie Allemand | 451 |
-| 144 | Yolanda Griffith | 451 |
+| 144 | Julie Allemand | 452 |
+| 145 | Yolanda Griffith | 451 |
 | 146 | Elena Delle Donne | 450 |
 | 146 | Kristi Harrower | 450 |
 | 146 | Nikki McCray | 450 |
@@ -760,10 +760,10 @@ _Last updated: 2026-07-11 04:23 UTC_
 | 123 | Sylvia Crawley | 106 |
 | 124 | Carolyn Swords | 104 |
 | 124 | Rebecca Lobo | 104 |
+| 126 | Isabelle Harrison | 103 |
 | 126 | Jennifer Gillom | 103 |
 | 126 | Jia Perkins | 103 |
-| 128 | Isabelle Harrison | 102 |
-| 128 | Theresa Plaisance | 102 |
+| 129 | Theresa Plaisance | 102 |
 | 130 | Deanna Nolan | 101 |
 | 131 | Chante Black | 100 |
 | 131 | Danielle Adams | 100 |
@@ -1622,9 +1622,9 @@ _Last updated: 2026-07-11 04:23 UTC_
 | 162 | Adrienne Goodson | 512 |
 | 162 | Janeth Arcain | 512 |
 | 164 | Andrea Stinson | 511 |
+| 165 | Isabelle Harrison | 507 |
 | 165 | Vicky Bullett | 507 |
-| 166 | Isabelle Harrison | 506 |
-| 166 | Merlakia Jones | 506 |
+| 167 | Merlakia Jones | 506 |
 | 168 | Rushia Brown | 505 |
 | 168 | Shekinna Stricklen | 505 |
 | 170 | Allison Feaster | 504 |
