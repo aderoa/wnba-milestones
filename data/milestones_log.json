@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-07-11T02:35:00+00:00",
+    "text": "Dearica Hamby passed Helen Darling and Matee Ajavon for #154 all-time in three-pointers (career 145) \u2014 (7:10 - 2nd \u2014 CHI @ LA)",
+    "kind": "rank_pass",
+    "player": "Dearica Hamby",
+    "stat": "three-pointers",
+    "rank": 154,
+    "passed_players": [
+      "Helen Darling",
+      "Matee Ajavon"
+    ],
+    "new_total": 145
+  },
+  {
     "ts": "2026-07-11T01:10:00+00:00",
     "text": "Alysha Clark passed Shavonte Zellous for #42 all-time in fouls (career 908) \u2014 up from #43 entering today \u2014 (6:57 - 4th \u2014 DAL @ TOR)",
     "kind": "rank_pass",
@@ -2994,17 +3007,5 @@
     "stat": "points",
     "value": 2100,
     "new_total": 2100
-  },
-  {
-    "ts": "2026-06-28T00:45:00+00:00",
-    "text": "Ariel Atkins passed Elizabeth Williams for #76 all-time in fouls (career 733) \u2014 up from #77 entering today \u2014 (4:52 - 2nd \u2014 LA @ IND)",
-    "kind": "rank_pass",
-    "player": "Ariel Atkins",
-    "stat": "fouls",
-    "rank": 76,
-    "passed_players": [
-      "Elizabeth Williams"
-    ],
-    "new_total": 733
   }
 ]

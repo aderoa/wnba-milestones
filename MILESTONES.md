@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-11 02:35 UTC
+
+- **Dearica Hamby** passed **Helen Darling** and **Matee Ajavon** for **#154** all-time in three-pointers (career 145) — _7:10 - 2nd — CHI @ LA_
+
 ## 2026-07-11 01:10 UTC
 
 - **Alysha Clark** passed **Shavonte Zellous** for **#42** all-time in fouls (career 908) — up from #43 entering today — _6:57 - 4th — DAL @ TOR_
