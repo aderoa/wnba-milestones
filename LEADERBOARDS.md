@@ -69,7 +69,7 @@ _Last updated: 2026-07-11 04:01 UTC_
 | 48 | **Courtney Vandersloot** 🔴 +6 | 4,368 |
 | 49 | Jonquel Jones | 4,353 |
 | 50 | Courtney Williams | 4,350 |
-| 51 | **Dearica Hamby** 🔴 +13 | 4,343 |
+| 51 | **Dearica Hamby** 🔴 +15 | 4,345 |
 | 52 | Sophia Young-Malcolm | 4,300 |
 | 53 | Plenette Pierson | 4,258 |
 | 54 | Monique Currie | 4,253 |
@@ -886,7 +886,7 @@ _Last updated: 2026-07-11 04:01 UTC_
 | 41 | Candice Dupree | 431 |
 | 42 | Epiphanny Prince | 429 |
 | 43 | Tanisha Wright | 427 |
-| 44 | **Dearica Hamby** 🔴 +2 | 413 |
+| 44 | **Dearica Hamby** 🔴 +3 | 414 |
 | 45 | Katie Smith | 408 |
 | 46 | Cappie Pondexter | 405 |
 | 47 | Nicole Powell | 401 |
@@ -1259,7 +1259,7 @@ _Last updated: 2026-07-11 04:01 UTC_
 | 4 | Tina Thompson | 1,213 |
 | 5 | Lisa Leslie | 1,186 |
 | 6 | DeLisha Milton-Jones | 1,173 |
-| 7 | **Courtney Vandersloot** 🔴 +3 | 1,150 |
+| 7 | **Courtney Vandersloot** 🔴 +4 | 1,151 |
 | 8 | Swin Cash | 1,127 |
 | 9 | Ticha Penicheiro | 1,125 |
 | 10 | Candace Parker | 1,062 |
@@ -1522,7 +1522,7 @@ _Last updated: 2026-07-11 04:01 UTC_
 | 62 | **Erica Wheeler** 🔴 +3 | 811 |
 | 63 | Nykesha Sales | 796 |
 | 64 | Ebony Hoffman | 791 |
-| 65 | **Natasha Cloud** 🔴 +4 | 777 |
+| 65 | **Natasha Cloud** 🔴 +5 | 778 |
 | 66 | Sue Bird | 775 |
 | 67 | Sheri Sam | 766 |
 | 68 | Kahleah Copper | 758 |
