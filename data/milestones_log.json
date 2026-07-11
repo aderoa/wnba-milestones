@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-07-11T03:55:00+00:00",
+    "text": "Nneka Ogwumike passed Rebecca Allen for #86 all-time in three-pointers (career 256) \u2014 up from #89 entering today \u2014 (2:19 - 4th \u2014 CHI @ LA)",
+    "kind": "rank_pass",
+    "player": "Nneka Ogwumike",
+    "stat": "three-pointers",
+    "rank": 86,
+    "passed_players": [
+      "Rebecca Allen"
+    ],
+    "new_total": 256
+  },
+  {
     "ts": "2026-07-11T03:34:00+00:00",
     "text": "Dearica Hamby passed Sylvia Crawley for #123 all-time in blocks (career 107) \u2014 (9:00 - 4th \u2014 CHI @ LA)",
     "kind": "rank_pass",
@@ -3001,14 +3013,5 @@
       "Sylvia Fowles"
     ],
     "new_total": 462
-  },
-  {
-    "ts": "2026-06-28T01:09:00+00:00",
-    "text": "Flau'jae Johnson reached 100 career rebounds (now 100) \u2014 (7:44 - 1st \u2014 ATL @ SEA)",
-    "kind": "round",
-    "player": "Flau'jae Johnson",
-    "stat": "rebounds",
-    "value": 100,
-    "new_total": 100
   }
 ]
