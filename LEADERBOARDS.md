@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-11 23:56 UTC_
+_Last updated: 2026-07-11 23:57 UTC_
 
 ## Contents
 
@@ -1550,9 +1550,9 @@ _Last updated: 2026-07-11 23:56 UTC_
 | 90 | **Jewell Loyd** 🔴 +4 | 688 |
 | 91 | Sophia Young-Malcolm | 687 |
 | 92 | Breanna Stewart | 686 |
+| 92 | **Cheyenne Parker-Tyus** 🔴 +1 | 686 |
 | 92 | Maya Moore | 686 |
-| 94 | **Cheyenne Parker-Tyus** 🔴 | 685 |
-| 94 | Jasmine Thomas | 685 |
+| 95 | Jasmine Thomas | 685 |
 | 96 | Leilani Mitchell | 684 |
 | 97 | Crystal Robinson | 682 |
 | 97 | Kayla Thornton | 682 |
