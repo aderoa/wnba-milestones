@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-11 00:54 UTC_
+_Last updated: 2026-07-11 00:55 UTC_
 
 ## Contents
 
@@ -47,7 +47,7 @@ _Last updated: 2026-07-11 00:54 UTC_
 | 26 | Lindsay Whalen | 5,511 |
 | 27 | Kelsey Mitchell | 5,198 |
 | 28 | Swin Cash | 5,119 |
-| 29 | **Tiffany Hayes** 🔴 +5 | 5,054 |
+| 29 | **Tiffany Hayes** 🔴 +7 | 5,056 |
 | 30 | Tangela Smith | 5,035 |
 | 31 | Taj McWilliams-Franklin | 4,992 |
 | 32 | Maya Moore | 4,984 |
@@ -85,7 +85,7 @@ _Last updated: 2026-07-11 00:54 UTC_
 | 64 | Brittney Sykes | 3,726 |
 | 65 | Jackie Young | 3,698 |
 | 66 | Kara Lawson | 3,670 |
-| 67 | **Odyssey Sims** 🔴 +3 | 3,577 |
+| 67 | **Odyssey Sims** 🔴 +5 | 3,579 |
 | 68 | Mwadi Mabika | 3,576 |
 | 69 | Camille Smith | 3,551 |
 | 70 | Napheesa Collier | 3,542 |
@@ -104,7 +104,7 @@ _Last updated: 2026-07-11 00:54 UTC_
 | 83 | Sheri Sam | 3,353 |
 | 84 | Andrea Stinson | 3,351 |
 | 85 | Tanisha Wright | 3,324 |
-| 86 | **Marina Mabrey** 🔴 +29 | 3,278 |
+| 86 | **Marina Mabrey** 🔴 +32 | 3,281 |
 | 87 | Stefanie Dolson | 3,217 |
 | 88 | Margo Dydek | 3,214 |
 | 89 | Erica Wheeler | 3,195 |
@@ -351,7 +351,7 @@ _Last updated: 2026-07-11 00:54 UTC_
 | 124 | Tamecka Dixon | 1,035 |
 | 126 | Kamila Vodichkova | 1,031 |
 | 127 | Jasmine Thomas | 1,027 |
-| 128 | **Jessica Shepard** 🔴 +9 | 1,025 |
+| 128 | **Jessica Shepard** 🔴 +10 | 1,026 |
 | 129 | Sabrina Ionescu | 1,020 |
 | 130 | Cathrine Kraayeveld | 1,013 |
 | 131 | Kelly Miller | 1,011 |
@@ -1070,7 +1070,7 @@ _Last updated: 2026-07-11 00:54 UTC_
 | 20 | Sami Whitcomb | 511 |
 | 21 | Allie Quigley | 510 |
 | 22 | Leilani Mitchell | 508 |
-| 23 | **Marina Mabrey** 🔴 +5 | 505 |
+| 23 | **Marina Mabrey** 🔴 +6 | 506 |
 | 24 | Sabrina Ionescu | 468 |
 | 24 | Shekinna Stricklen | 468 |
 | 26 | Breanna Stewart | 465 |
