@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-11 03:51 UTC_
+_Last updated: 2026-07-11 03:52 UTC_
 
 ## Contents
 
@@ -1259,7 +1259,7 @@ _Last updated: 2026-07-11 03:51 UTC_
 | 4 | Tina Thompson | 1,213 |
 | 5 | Lisa Leslie | 1,186 |
 | 6 | DeLisha Milton-Jones | 1,173 |
-| 7 | **Courtney Vandersloot** 🔴 +1 | 1,148 |
+| 7 | **Courtney Vandersloot** 🔴 +2 | 1,149 |
 | 8 | Swin Cash | 1,127 |
 | 9 | Ticha Penicheiro | 1,125 |
 | 10 | Candace Parker | 1,062 |
@@ -1531,9 +1531,9 @@ _Last updated: 2026-07-11 03:51 UTC_
 | 70 | Vickie Johnson | 752 |
 | 72 | Kara Braxton | 748 |
 | 73 | Crystal Langhorne | 737 |
+| 74 | **Ariel Atkins** 🔴 +4 | 734 |
 | 74 | Shameka Christon | 734 |
-| 75 | **Ariel Atkins** 🔴 +3 | 733 |
-| 75 | Becky Hammon | 733 |
+| 76 | Becky Hammon | 733 |
 | 77 | **Elizabeth Williams** 🔴 | 732 |
 | 78 | Latasha Byears | 730 |
 | 79 | Kristi Toliver | 722 |
