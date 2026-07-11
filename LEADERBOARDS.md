@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-11 02:11 UTC_
+_Last updated: 2026-07-11 02:12 UTC_
 
 ## Contents
 
@@ -107,7 +107,7 @@ _Last updated: 2026-07-11 02:11 UTC_
 | 86 | Marina Mabrey | 3,283 |
 | 87 | Stefanie Dolson | 3,217 |
 | 88 | Margo Dydek | 3,214 |
-| 89 | **Erica Wheeler** 🔴 +2 | 3,197 |
+| 89 | **Erica Wheeler** 🔴 +5 | 3,200 |
 | 90 | Danielle Robinson | 3,160 |
 | 91 | Wendy Palmer | 3,135 |
 | 92 | Shavonte Zellous | 3,103 |
@@ -480,7 +480,7 @@ _Last updated: 2026-07-11 02:11 UTC_
 | 48 | Tamecka Dixon | 960 |
 | 49 | Arike Ogunbowale | 951 |
 | 50 | Kara Lawson | 946 |
-| 51 | **Nneka Ogwumike** 🔴 | 933 |
+| 51 | **Nneka Ogwumike** 🔴 +1 | 934 |
 | 52 | Deanna Nolan | 930 |
 | 53 | Kelly Miller | 927 |
 | 54 | DeLisha Milton-Jones | 921 |
@@ -1107,7 +1107,7 @@ _Last updated: 2026-07-11 02:11 UTC_
 | 56 | Elena Delle Donne | 343 |
 | 58 | Candace Parker | 342 |
 | 59 | Deanna Nolan | 340 |
-| 60 | **Erica Wheeler** 🔴 | 337 |
+| 60 | **Erica Wheeler** 🔴 +1 | 338 |
 | 61 | Anna DeForge | 334 |
 | 61 | Sophie Cunningham | 334 |
 | 63 | Natisha Hiedeman | 328 |
