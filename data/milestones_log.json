@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-07-11T01:10:00+00:00",
+    "text": "Alysha Clark passed Shavonte Zellous for #42 all-time in fouls (career 908) \u2014 up from #43 entering today \u2014 (6:57 - 4th \u2014 DAL @ TOR)",
+    "kind": "rank_pass",
+    "player": "Alysha Clark",
+    "stat": "fouls",
+    "rank": 42,
+    "passed_players": [
+      "Shavonte Zellous"
+    ],
+    "new_total": 908
+  },
+  {
     "ts": "2026-07-11T01:00:00+00:00",
     "text": "Odyssey Sims passed Svetlana Abrosimova and Tangela Smith for #96 all-time in three-pointers (career 236) \u2014 up from #98 entering today \u2014 (0.0 - 3rd \u2014 DAL @ TOR)",
     "kind": "rank_pass",
@@ -2994,17 +3006,5 @@
       "Elizabeth Williams"
     ],
     "new_total": 733
-  },
-  {
-    "ts": "2026-06-28T00:43:00+00:00",
-    "text": "Erica Wheeler passed Dawn Staley for #21 all-time in assists (career 1,338) \u2014 up from #22 entering today \u2014 (5:22 - 2nd \u2014 LA @ IND)",
-    "kind": "rank_pass",
-    "player": "Erica Wheeler",
-    "stat": "assists",
-    "rank": 21,
-    "passed_players": [
-      "Dawn Staley"
-    ],
-    "new_total": 1338
   }
 ]
