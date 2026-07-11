@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-11 00:40 UTC_
+_Last updated: 2026-07-11 00:41 UTC_
 
 ## Contents
 
@@ -54,7 +54,7 @@ _Last updated: 2026-07-11 00:40 UTC_
 | 33 | Sheryl Swoopes | 4,875 |
 | 34 | Alyssa Thomas | 4,752 |
 | 35 | Alana Beard | 4,740 |
-| 36 | **Arike Ogunbowale** 🔴 +12 | 4,727 |
+| 36 | **Arike Ogunbowale** 🔴 +13 | 4,728 |
 | 37 | Chamique Holdsclaw | 4,713 |
 | 38 | Elena Delle Donne | 4,706 |
 | 39 | Natasha Howard | 4,682 |
@@ -186,7 +186,7 @@ _Last updated: 2026-07-11 00:40 UTC_
 | 165 | Chiney Ogwumike | 1,964 |
 | 166 | Nicole Ohlde | 1,959 |
 | 167 | Myisha Hines-Allen | 1,956 |
-| 168 | **Isabelle Harrison** 🔴 +11 | 1,943 |
+| 168 | **Isabelle Harrison** 🔴 +14 | 1,946 |
 | 169 | Kedra Holland-Corn | 1,938 |
 | 170 | Cathrine Kraayeveld | 1,926 |
 | 171 | Roneeka Hodges | 1,925 |
@@ -342,7 +342,7 @@ _Last updated: 2026-07-11 00:40 UTC_
 | 116 | Chiney Ogwumike | 1,110 |
 | 117 | Becky Hammon | 1,108 |
 | 118 | Ann Wauters | 1,105 |
-| 119 | **Isabelle Harrison** 🔴 +3 | 1,100 |
+| 119 | **Isabelle Harrison** 🔴 +4 | 1,101 |
 | 120 | Jackie Young | 1,085 |
 | 121 | Svetlana Abrosimova | 1,078 |
 | 122 | Le'coe Willingham | 1,054 |
@@ -478,7 +478,7 @@ _Last updated: 2026-07-11 00:40 UTC_
 | 46 | Breanna Stewart | 981 |
 | 47 | Tamecka Dixon | 960 |
 | 47 | **Tiffany Hayes** 🔴 +3 | 960 |
-| 49 | **Arike Ogunbowale** 🔴 +3 | 947 |
+| 49 | **Arike Ogunbowale** 🔴 +4 | 948 |
 | 50 | Kara Lawson | 946 |
 | 51 | Nneka Ogwumike | 933 |
 | 52 | Deanna Nolan | 930 |
@@ -795,12 +795,12 @@ _Last updated: 2026-07-11 00:40 UTC_
 | 158 | Tamera Young | 83 |
 | 159 | Cameron Brink | 82 |
 | 159 | Damiris Dantas | 82 |
+| 161 | **Awak Kuier** 🔴 +1 | 81 |
 | 161 | Charlotte Smith | 81 |
 | 161 | Cintia dos Santos | 81 |
 | 161 | Jessie Hicks | 81 |
-| 164 | **Awak Kuier** 🔴 | 80 |
-| 164 | Nykesha Sales | 80 |
-| 164 | Rushia Brown | 80 |
+| 165 | Nykesha Sales | 80 |
+| 165 | Rushia Brown | 80 |
 | 167 | Stephanie Talbot | 79 |
 | 168 | Astou Ndour-Fall | 78 |
 | 168 | Katie Smith | 78 |
