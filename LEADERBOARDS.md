@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-11 02:42 UTC_
+_Last updated: 2026-07-11 02:43 UTC_
 
 ## Contents
 
@@ -66,7 +66,7 @@ _Last updated: 2026-07-11 02:42 UTC_
 | 45 | Kahleah Copper | 4,437 |
 | 46 | Crystal Langhorne | 4,433 |
 | 46 | Jia Perkins | 4,433 |
-| 48 | **Courtney Vandersloot** 🔴 +4 | 4,366 |
+| 48 | **Courtney Vandersloot** 🔴 +6 | 4,368 |
 | 49 | Jonquel Jones | 4,353 |
 | 50 | Courtney Williams | 4,350 |
 | 51 | **Dearica Hamby** 🔴 +8 | 4,338 |
@@ -94,7 +94,7 @@ _Last updated: 2026-07-11 02:42 UTC_
 | 73 | Jasmine Thomas | 3,522 |
 | 74 | Tamecka Dixon | 3,507 |
 | 75 | Tammy Sutton-Brown | 3,498 |
-| 76 | **Ariel Atkins** 🔴 +9 | 3,490 |
+| 76 | **Ariel Atkins** 🔴 +11 | 3,492 |
 | 77 | Sancho Lyttle | 3,478 |
 | 78 | Ivory Latta | 3,447 |
 | 79 | Nicole Powell | 3,407 |
@@ -107,7 +107,7 @@ _Last updated: 2026-07-11 02:42 UTC_
 | 86 | Marina Mabrey | 3,283 |
 | 87 | Stefanie Dolson | 3,217 |
 | 88 | Margo Dydek | 3,214 |
-| 89 | **Erica Wheeler** 🔴 +12 | 3,207 |
+| 89 | **Erica Wheeler** 🔴 +15 | 3,210 |
 | 90 | Danielle Robinson | 3,160 |
 | 91 | Wendy Palmer | 3,135 |
 | 92 | Shavonte Zellous | 3,103 |
@@ -115,7 +115,7 @@ _Last updated: 2026-07-11 02:42 UTC_
 | 94 | Briann January | 3,082 |
 | 95 | Erika de Souza | 3,046 |
 | 96 | Shameka Christon | 3,039 |
-| 97 | **Natasha Cloud** 🔴 | 3,018 |
+| 97 | **Natasha Cloud** 🔴 +2 | 3,020 |
 | 98 | Marie Ferdinand-Harris | 3,001 |
 | 99 | Emma Meesseman | 2,966 |
 | 100 | **Elizabeth Williams** 🔴 | 2,933 |
@@ -431,7 +431,7 @@ _Last updated: 2026-07-11 02:42 UTC_
 | Rank | Player | Total |
 |-----:|--------|------:|
 | 1 | Sue Bird | 3,234 |
-| 2 | **Courtney Vandersloot** 🔴 | 2,894 |
+| 2 | **Courtney Vandersloot** 🔴 +1 | 2,895 |
 | 3 | Ticha Penicheiro | 2,588 |
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
@@ -858,7 +858,7 @@ _Last updated: 2026-07-11 02:42 UTC_
 | 13 | Alyssa Thomas | 582 |
 | 14 | Taj McWilliams-Franklin | 577 |
 | 15 | Tully Bevilaqua | 571 |
-| 16 | **Courtney Vandersloot** 🔴 | 544 |
+| 16 | **Courtney Vandersloot** 🔴 +1 | 545 |
 | 17 | Yolanda Griffith | 527 |
 | 18 | Candace Parker | 521 |
 | 19 | Diana Taurasi | 515 |
@@ -1107,7 +1107,7 @@ _Last updated: 2026-07-11 02:42 UTC_
 | 56 | Elena Delle Donne | 343 |
 | 58 | Candace Parker | 342 |
 | 59 | Deanna Nolan | 340 |
-| 60 | **Erica Wheeler** 🔴 +2 | 339 |
+| 59 | **Erica Wheeler** 🔴 +3 | 340 |
 | 61 | Anna DeForge | 334 |
 | 61 | Sophie Cunningham | 334 |
 | 63 | Natisha Hiedeman | 328 |
@@ -1374,7 +1374,7 @@ _Last updated: 2026-07-11 02:42 UTC_
 | 119 | Ebony Hoffman | 470 |
 | 120 | Elaine Powell | 469 |
 | 121 | Allie Quigley | 467 |
-| 122 | **Ariel Atkins** 🔴 | 465 |
+| 122 | **Ariel Atkins** 🔴 +1 | 466 |
 | 123 | Jackie Young | 463 |
 | 124 | Betnijah Laney-Hamilton | 456 |
 | 125 | Kia Vaughn | 454 |
