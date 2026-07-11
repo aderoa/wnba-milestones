@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-07-11T22:06:00+00:00",
+    "text": "Bridget Carleton passed Riquna Williams for #176 all-time in assists (career 388) \u2014 up from #177 entering today \u2014 (3:44 - 4th \u2014 POR @ ATL)",
+    "kind": "rank_pass",
+    "player": "Bridget Carleton",
+    "stat": "assists",
+    "rank": 176,
+    "passed_players": [
+      "Riquna Williams"
+    ],
+    "new_total": 388
+  },
+  {
     "ts": "2026-07-11T18:48:00+00:00",
     "text": "Sabrina Ionescu passed Jasmine Thomas for #127 all-time in rebounds (career 1,028) \u2014 up from #128 entering today \u2014 (5:53 - 4th \u2014 NY @ MIN)",
     "kind": "rank_pass",
@@ -3007,17 +3019,5 @@
       "Nicole Ohlde"
     ],
     "new_total": 1960
-  },
-  {
-    "ts": "2026-06-28T01:26:00+00:00",
-    "text": "Tyasha Harris passed Erin Phillips for #139 all-time in assists (career 463) \u2014 up from #141 entering today \u2014 (5:35 - 3rd \u2014 LA @ IND)",
-    "kind": "rank_pass",
-    "player": "Tyasha Harris",
-    "stat": "assists",
-    "rank": 139,
-    "passed_players": [
-      "Erin Phillips"
-    ],
-    "new_total": 463
   }
 ]

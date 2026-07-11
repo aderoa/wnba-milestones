@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-11 22:06 UTC
+
+- **Bridget Carleton** passed **Riquna Williams** for **#176** all-time in assists (career 388) — up from #177 entering today — _3:44 - 4th — POR @ ATL_
+
 ## 2026-07-11 18:48 UTC
 
 - **Sabrina Ionescu** passed **Jasmine Thomas** for **#127** all-time in rebounds (career 1,028) — up from #128 entering today — _5:53 - 4th — NY @ MIN_
