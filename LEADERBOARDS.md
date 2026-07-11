@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-11 23:24 UTC_
+_Last updated: 2026-07-11 23:25 UTC_
 
 ## Contents
 
@@ -34,7 +34,7 @@ _Last updated: 2026-07-11 23:24 UTC_
 | 13 | Breanna Stewart | 6,352 |
 | 14 | Lisa Leslie | 6,251 |
 | 15 | **A'ja Wilson** 🔴 +16 | 6,194 |
-| 16 | **Jewell Loyd** 🔴 +9 | 6,157 |
+| 16 | **Jewell Loyd** 🔴 +7 | 6,155 |
 | 17 | Brittney Griner | 6,087 |
 | 18 | Lauren Jackson | 6,005 |
 | 18 | Seimone Augustus | 6,005 |
@@ -129,7 +129,7 @@ _Last updated: 2026-07-11 23:24 UTC_
 | 108 | Ticha Penicheiro | 2,729 |
 | 109 | Adrienne Goodson | 2,705 |
 | 110 | Riquna Williams | 2,659 |
-| 111 | **Cheyenne Parker-Tyus** 🔴 +10 | 2,655 |
+| 111 | **Cheyenne Parker-Tyus** 🔴 +11 | 2,656 |
 | 112 | Essence Carson | 2,647 |
 | 112 | Lindsey Harding | 2,647 |
 | 112 | Rhyne Howard | 2,647 |
