@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-07-11T18:43:00+00:00",
+    "text": "Kayla McBride passed Erlana Larkins and Monique Billings for #144 all-time in fouls (career 547) \u2014 up from #147 entering today \u2014 (6:33 - 4th \u2014 NY @ MIN)",
+    "kind": "rank_pass",
+    "player": "Kayla McBride",
+    "stat": "fouls",
+    "rank": 144,
+    "passed_players": [
+      "Erlana Larkins",
+      "Monique Billings"
+    ],
+    "new_total": 547
+  },
+  {
     "ts": "2026-07-11T18:41:00+00:00",
     "text": "Kayla McBride passed Maya Moore for #36 all-time in steals (career 450) \u2014 up from #37 entering today \u2014 (7:12 - 4th \u2014 NY @ MIN)",
     "kind": "rank_pass",
@@ -3002,18 +3015,6 @@
     "player": "Ariel Atkins",
     "stat": "rebounds",
     "value": 800,
-    "new_total": 800
-  },
-  {
-    "ts": "2026-06-28T01:24:00+00:00",
-    "text": "Ariel Atkins passed Tierra Ruffin-Pratt for #172 all-time in rebounds (career 800) \u2014 up from #173 entering today \u2014 (7:06 - 3rd \u2014 LA @ IND)",
-    "kind": "rank_pass",
-    "player": "Ariel Atkins",
-    "stat": "rebounds",
-    "rank": 172,
-    "passed_players": [
-      "Tierra Ruffin-Pratt"
-    ],
     "new_total": 800
   }
 ]
