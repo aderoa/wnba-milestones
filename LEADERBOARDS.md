@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-11 17:36 UTC_
+_Last updated: 2026-07-11 17:37 UTC_
 
 ## Contents
 
@@ -68,7 +68,7 @@ _Last updated: 2026-07-11 17:36 UTC_
 | 46 | Jia Perkins | 4,433 |
 | 48 | Courtney Vandersloot | 4,362 |
 | 49 | **Jonquel Jones** 🔴 +5 | 4,358 |
-| 50 | **Courtney Williams** 🔴 +5 | 4,355 |
+| 50 | **Courtney Williams** 🔴 +7 | 4,357 |
 | 51 | Dearica Hamby | 4,330 |
 | 52 | Sophia Young-Malcolm | 4,300 |
 | 53 | Plenette Pierson | 4,258 |
@@ -423,7 +423,7 @@ _Last updated: 2026-07-11 17:36 UTC_
 | 197 | Olympia Scott | 711 |
 | 198 | Katie Mattera | 708 |
 | 199 | Rushia Brown | 706 |
-| 200 | **Rebecca Allen** 🔴 +1 | 703 |
+| 200 | **Rebecca Allen** 🔴 +2 | 704 |
 
 ## Assists
 
