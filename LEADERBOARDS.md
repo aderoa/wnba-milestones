@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-11 17:39 UTC_
+_Last updated: 2026-07-11 17:40 UTC_
 
 ## Contents
 
@@ -249,7 +249,7 @@ _Last updated: 2026-07-11 17:39 UTC_
 | 23 | Lauren Jackson | 2,444 |
 | 24 | Yolanda Griffith | 2,440 |
 | 25 | Tangela Smith | 2,328 |
-| 26 | **Natasha Howard** 🔴 +2 | 2,317 |
+| 26 | **Natasha Howard** 🔴 +3 | 2,318 |
 | 27 | Erika de Souza | 2,220 |
 | 28 | Diana Taurasi | 2,201 |
 | 29 | Margo Dydek | 2,138 |
@@ -258,7 +258,7 @@ _Last updated: 2026-07-11 17:39 UTC_
 | 32 | Tammy Sutton-Brown | 2,010 |
 | 33 | Elizabeth Williams | 1,978 |
 | 34 | Cheryl Ford | 1,907 |
-| 35 | **Courtney Williams** 🔴 +4 | 1,847 |
+| 35 | **Courtney Williams** 🔴 +5 | 1,848 |
 | 36 | Kiah Stokes | 1,835 |
 | 37 | Plenette Pierson | 1,834 |
 | 38 | Natalie Williams | 1,832 |
@@ -472,7 +472,7 @@ _Last updated: 2026-07-11 17:39 UTC_
 | 41 | Dominique Canty | 1,042 |
 | 42 | Sheryl Swoopes | 1,037 |
 | 43 | Tina Charles | 1,033 |
-| 44 | **Kayla McBride** 🔴 | 992 |
+| 44 | **Kayla McBride** 🔴 +1 | 993 |
 | 45 | Nikki Teasley | 982 |
 | 46 | **Breanna Stewart** 🔴 | 981 |
 | 47 | Tamecka Dixon | 960 |
@@ -1157,9 +1157,9 @@ _Last updated: 2026-07-11 17:39 UTC_
 | 108 | **Betnijah Laney-Hamilton** 🔴 | 206 |
 | 109 | Lexie Brown | 203 |
 | 110 | Shanna Zolman | 199 |
+| 111 | **Nia Coffey** 🔴 +1 | 197 |
 | 111 | Temeka Johnson | 197 |
 | 111 | Tina Charles | 197 |
-| 113 | **Nia Coffey** 🔴 | 196 |
 | 114 | Caitlin Clark | 195 |
 | 115 | Lindsay Whalen | 193 |
 | 116 | Victoria Vivians | 192 |
@@ -1450,8 +1450,8 @@ _Last updated: 2026-07-11 17:39 UTC_
 | 196 | Crystal Robinson | 299 |
 | 197 | Kayla Thornton | 298 |
 | 198 | Michele Timms | 297 |
-| 199 | Damiris Dantas | 289 |
-| 199 | **Nia Coffey** 🔴 | 289 |
+| 199 | **Nia Coffey** 🔴 +1 | 290 |
+| 200 | Damiris Dantas | 289 |
 
 ## Personal fouls
 
