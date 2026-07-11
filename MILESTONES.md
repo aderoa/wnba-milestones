@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-11 23:40 UTC
+
+- **Jewell Loyd** passed **Sophia Young-Malcolm** for **#90** all-time in fouls (career 688) — up from #95 entering today — _1:58 - 3rd — PHX @ LV_
+
 ## 2026-07-11 22:16 UTC
 
 - **Naz Hillmon** reached **1,100** career points (now 1,100) — _32.4 - 4th — POR @ ATL_
