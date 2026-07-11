@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-11 23:30 UTC_
+_Last updated: 2026-07-11 23:31 UTC_
 
 ## Contents
 
@@ -231,7 +231,7 @@ _Last updated: 2026-07-11 23:30 UTC_
 | 5 | Rebekkah Brunson | 3,345 |
 | 6 | Tamika Catchings | 3,313 |
 | 7 | Lisa Leslie | 3,303 |
-| 8 | **DeWanna Bonner** 🔴 +2 | 3,292 |
+| 8 | **DeWanna Bonner** 🔴 +3 | 3,293 |
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
@@ -458,8 +458,8 @@ _Last updated: 2026-07-11 23:30 UTC_
 | 27 | Katie Smith | 1,258 |
 | 28 | Odyssey Sims | 1,228 |
 | 29 | Vickie Johnson | 1,202 |
-| 30 | **DeWanna Bonner** 🔴 +1 | 1,197 |
-| 30 | Leilani Mitchell | 1,197 |
+| 30 | **DeWanna Bonner** 🔴 +2 | 1,198 |
+| 31 | Leilani Mitchell | 1,197 |
 | 32 | **Jewell Loyd** 🔴 +1 | 1,157 |
 | 33 | **Jackie Young** 🔴 +6 | 1,156 |
 | 34 | Renee Montgomery | 1,140 |
