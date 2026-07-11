@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-11 18:39 UTC_
+_Last updated: 2026-07-11 18:40 UTC_
 
 ## Contents
 
@@ -1165,7 +1165,7 @@ _Last updated: 2026-07-11 18:39 UTC_
 | 116 | Victoria Vivians | 192 |
 | 117 | Danielle Adams | 188 |
 | 117 | Napheesa Collier | 188 |
-| 119 | **Marine Johannès** 🔴 +2 | 185 |
+| 119 | **Marine Johannès** 🔴 +3 | 186 |
 | 120 | Noelle Quinn | 184 |
 | 121 | Karima Christmas-Kelly | 181 |
 | 122 | Aerial Powers | 179 |
