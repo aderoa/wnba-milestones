@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-11 01:00 UTC
+
+- **Odyssey Sims** passed **Svetlana Abrosimova** and **Tangela Smith** for **#96** all-time in three-pointers (career 236) — up from #98 entering today — _0.0 - 3rd — DAL @ TOR_
+
 ## 2026-07-11 00:18 UTC
 
 - **Arike Ogunbowale** passed **Kara Lawson** for **#49** all-time in assists (career 947) — up from #50 entering today — _1:30 - 2nd — DAL @ TOR_

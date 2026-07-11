@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-07-11T01:00:00+00:00",
+    "text": "Odyssey Sims passed Svetlana Abrosimova and Tangela Smith for #96 all-time in three-pointers (career 236) \u2014 up from #98 entering today \u2014 (0.0 - 3rd \u2014 DAL @ TOR)",
+    "kind": "rank_pass",
+    "player": "Odyssey Sims",
+    "stat": "three-pointers",
+    "rank": 96,
+    "passed_players": [
+      "Svetlana Abrosimova",
+      "Tangela Smith"
+    ],
+    "new_total": 236
+  },
+  {
     "ts": "2026-07-11T00:18:00+00:00",
     "text": "Arike Ogunbowale passed Kara Lawson for #49 all-time in assists (career 947) \u2014 up from #50 entering today \u2014 (1:30 - 2nd \u2014 DAL @ TOR)",
     "kind": "rank_pass",
@@ -2993,17 +3006,5 @@
       "Dawn Staley"
     ],
     "new_total": 1338
-  },
-  {
-    "ts": "2026-06-28T00:42:00+00:00",
-    "text": "Dearica Hamby passed DeMya Walker for #51 all-time in turnovers (career 685) \u2014 up from #52 entering today \u2014 (6:05 - 2nd \u2014 LA @ IND)",
-    "kind": "rank_pass",
-    "player": "Dearica Hamby",
-    "stat": "turnovers",
-    "rank": 51,
-    "passed_players": [
-      "DeMya Walker"
-    ],
-    "new_total": 685
   }
 ]

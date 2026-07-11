@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-11 00:59 UTC_
+_Last updated: 2026-07-11 01:00 UTC_
 
 ## Contents
 
@@ -85,7 +85,7 @@ _Last updated: 2026-07-11 00:59 UTC_
 | 64 | Brittney Sykes | 3,726 |
 | 65 | Jackie Young | 3,698 |
 | 66 | Kara Lawson | 3,670 |
-| 67 | **Odyssey Sims** 🔴 +5 | 3,579 |
+| 67 | **Odyssey Sims** 🔴 +8 | 3,582 |
 | 68 | Mwadi Mabika | 3,576 |
 | 69 | Camille Smith | 3,551 |
 | 70 | Napheesa Collier | 3,542 |
@@ -1143,9 +1143,9 @@ _Last updated: 2026-07-11 00:59 UTC_
 | 93 | Erin Thorn | 243 |
 | 94 | Alex Bentley | 239 |
 | 94 | Cynthia Cooper | 239 |
-| 96 | **Odyssey Sims** 🔴 +1 | 235 |
-| 96 | Svetlana Abrosimova | 235 |
-| 96 | Tangela Smith | 235 |
+| 96 | **Odyssey Sims** 🔴 +2 | 236 |
+| 97 | Svetlana Abrosimova | 235 |
+| 97 | Tangela Smith | 235 |
 | 99 | Satou Sabally | 232 |
 | 99 | Stacey Dales | 232 |
 | 101 | Elena Baranova | 224 |
