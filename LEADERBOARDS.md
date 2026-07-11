@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-11 03:58 UTC_
+_Last updated: 2026-07-11 03:59 UTC_
 
 ## Contents
 
@@ -1522,7 +1522,7 @@ _Last updated: 2026-07-11 03:58 UTC_
 | 62 | **Erica Wheeler** 🔴 +3 | 811 |
 | 63 | Nykesha Sales | 796 |
 | 64 | Ebony Hoffman | 791 |
-| 65 | **Natasha Cloud** 🔴 +4 | 777 |
+| 65 | **Natasha Cloud** 🔴 +5 | 778 |
 | 66 | Sue Bird | 775 |
 | 67 | Sheri Sam | 766 |
 | 68 | Kahleah Copper | 758 |
