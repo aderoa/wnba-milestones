@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-11 18:29 UTC
+
+- **Marine Johannès** passed **Noelle Quinn** for **#119** all-time in three-pointers (career 185) — up from #120 entering today — _1:36 - 3rd — NY @ MIN_
+
 ## 2026-07-11 18:15 UTC
 
 - **Natasha Howard** passed **Aari McDonald** and **Jennifer Azzi** for **#139** all-time in three-pointers (career 159) — up from #141 entering today — _4:57 - 3rd — NY @ MIN_
