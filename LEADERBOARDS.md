@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-11 22:48 UTC_
+_Last updated: 2026-07-11 22:49 UTC_
 
 ## Contents
 
@@ -129,10 +129,10 @@ _Last updated: 2026-07-11 22:48 UTC_
 | 108 | Ticha Penicheiro | 2,729 |
 | 109 | Adrienne Goodson | 2,705 |
 | 110 | Riquna Williams | 2,659 |
+| 111 | **Cheyenne Parker-Tyus** 🔴 +2 | 2,647 |
 | 111 | Essence Carson | 2,647 |
 | 111 | Lindsey Harding | 2,647 |
 | 111 | Rhyne Howard | 2,647 |
-| 114 | **Cheyenne Parker-Tyus** 🔴 | 2,645 |
 | 115 | Tamera Young | 2,641 |
 | 116 | Liz Cambage | 2,634 |
 | 117 | Janeth Arcain | 2,633 |
@@ -231,13 +231,13 @@ _Last updated: 2026-07-11 22:48 UTC_
 | 5 | Rebekkah Brunson | 3,345 |
 | 6 | Tamika Catchings | 3,313 |
 | 7 | Lisa Leslie | 3,303 |
-| 8 | **DeWanna Bonner** 🔴 +1 | 3,291 |
+| 8 | **DeWanna Bonner** 🔴 +2 | 3,292 |
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | **Alyssa Thomas** 🔴 | 2,858 |
 | 13 | Jonquel Jones | 2,740 |
-| 14 | **A'ja Wilson** 🔴 +7 | 2,664 |
+| 14 | **A'ja Wilson** 🔴 +8 | 2,665 |
 | 15 | Breanna Stewart | 2,639 |
 | 16 | Sancho Lyttle | 2,596 |
 | 17 | Brittney Griner | 2,579 |
@@ -460,7 +460,7 @@ _Last updated: 2026-07-11 22:48 UTC_
 | 29 | Vickie Johnson | 1,202 |
 | 30 | Leilani Mitchell | 1,197 |
 | 31 | **DeWanna Bonner** 🔴 | 1,196 |
-| 32 | **Jewell Loyd** 🔴 | 1,156 |
+| 32 | **Jewell Loyd** 🔴 +1 | 1,157 |
 | 33 | **Jackie Young** 🔴 +4 | 1,154 |
 | 34 | Renee Montgomery | 1,140 |
 | 35 | Swin Cash | 1,131 |
@@ -515,8 +515,8 @@ _Last updated: 2026-07-11 22:48 UTC_
 | 84 | Ariel Atkins | 682 |
 | 85 | Emma Meesseman | 681 |
 | 86 | Nykesha Sales | 677 |
-| 87 | **A'ja Wilson** 🔴 +1 | 668 |
-| 87 | Natisha Hiedeman | 668 |
+| 87 | **A'ja Wilson** 🔴 +2 | 669 |
+| 88 | Natisha Hiedeman | 668 |
 | 89 | Bria Hartley | 661 |
 | 90 | Brittney Griner | 660 |
 | 91 | Lindsay Allen | 657 |
