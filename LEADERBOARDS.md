@@ -69,7 +69,7 @@ _Last updated: 2026-07-11 02:23 UTC_
 | 48 | **Courtney Vandersloot** 🔴 +2 | 4,364 |
 | 49 | Jonquel Jones | 4,353 |
 | 50 | Courtney Williams | 4,350 |
-| 51 | **Dearica Hamby** 🔴 +3 | 4,333 |
+| 51 | **Dearica Hamby** 🔴 +5 | 4,335 |
 | 52 | Sophia Young-Malcolm | 4,300 |
 | 53 | Plenette Pierson | 4,258 |
 | 54 | Monique Currie | 4,253 |
