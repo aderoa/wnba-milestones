@@ -22,7 +22,7 @@ _Last updated: 2026-07-11 03:47 UTC_
 | 1 | Diana Taurasi | 10,608 |
 | 2 | Tina Charles | 8,396 |
 | 3 | DeWanna Bonner | 7,972 |
-| 4 | **Nneka Ogwumike** 🔴 +19 | 7,582 |
+| 4 | **Nneka Ogwumike** 🔴 +22 | 7,585 |
 | 5 | Tina Thompson | 7,470 |
 | 6 | Tamika Catchings | 7,371 |
 | 7 | Candice Dupree | 6,861 |
@@ -904,7 +904,7 @@ _Last updated: 2026-07-11 03:47 UTC_
 | 59 | Chamique Holdsclaw | 376 |
 | 60 | Brittney Sykes | 371 |
 | 61 | Mwadi Mabika | 370 |
-| 62 | **Erica Wheeler** 🔴 +2 | 363 |
+| 62 | **Erica Wheeler** 🔴 +3 | 364 |
 | 63 | A'ja Wilson | 361 |
 | 64 | Lauren Jackson | 360 |
 | 64 | Tan White | 360 |
@@ -1133,9 +1133,9 @@ _Last updated: 2026-07-11 03:47 UTC_
 | 83 | Iziane Castro Marques | 275 |
 | 84 | Sheryl Swoopes | 270 |
 | 85 | Sophia Witherspoon | 260 |
+| 86 | **Nneka Ogwumike** 🔴 +2 | 255 |
 | 86 | Rebecca Allen | 255 |
-| 87 | Dawn Staley | 254 |
-| 87 | **Nneka Ogwumike** 🔴 +1 | 254 |
+| 88 | Dawn Staley | 254 |
 | 89 | Bria Hartley | 253 |
 | 90 | Angel McCoughtry | 249 |
 | 91 | **Azurá Stevens** 🔴 +1 | 248 |
@@ -1298,7 +1298,7 @@ _Last updated: 2026-07-11 03:47 UTC_
 | 43 | Michelle Snow | 723 |
 | 44 | Tamecka Dixon | 716 |
 | 45 | **Natasha Cloud** 🔴 | 707 |
-| 46 | **Erica Wheeler** 🔴 +2 | 701 |
+| 46 | **Erica Wheeler** 🔴 +1 | 700 |
 | 47 | Renee Montgomery | 697 |
 | 48 | Temeka Johnson | 696 |
 | 49 | Penny Taylor | 695 |
