@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-11 03:13 UTC_
+_Last updated: 2026-07-11 03:14 UTC_
 
 ## Contents
 
@@ -244,7 +244,7 @@ _Last updated: 2026-07-11 03:13 UTC_
 | 18 | DeLisha Milton-Jones | 2,574 |
 | 19 | Swin Cash | 2,521 |
 | 20 | Michelle Snow | 2,476 |
-| 21 | **Dearica Hamby** 🔴 +5 | 2,460 |
+| 21 | **Dearica Hamby** 🔴 +6 | 2,461 |
 | 22 | Crystal Langhorne | 2,454 |
 | 23 | Lauren Jackson | 2,444 |
 | 24 | Yolanda Griffith | 2,440 |
@@ -1522,8 +1522,8 @@ _Last updated: 2026-07-11 03:13 UTC_
 | 62 | **Erica Wheeler** 🔴 +1 | 809 |
 | 63 | Nykesha Sales | 796 |
 | 64 | Ebony Hoffman | 791 |
-| 65 | **Natasha Cloud** 🔴 +2 | 775 |
-| 65 | Sue Bird | 775 |
+| 65 | **Natasha Cloud** 🔴 +3 | 776 |
+| 66 | Sue Bird | 775 |
 | 67 | Sheri Sam | 766 |
 | 68 | Kahleah Copper | 758 |
 | 69 | Kia Vaughn | 755 |
