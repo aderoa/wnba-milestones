@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-07-11T03:34:00+00:00",
+    "text": "Dearica Hamby passed Sylvia Crawley for #123 all-time in blocks (career 107) \u2014 (9:00 - 4th \u2014 CHI @ LA)",
+    "kind": "rank_pass",
+    "player": "Dearica Hamby",
+    "stat": "blocks",
+    "rank": 123,
+    "passed_players": [
+      "Sylvia Crawley"
+    ],
+    "new_total": 107
+  },
+  {
     "ts": "2026-07-11T03:23:00+00:00",
     "text": "Elizabeth Williams passed Myisha Hines-Allen for #151 all-time in turnovers (career 391) \u2014 up from #152 entering today \u2014 (3:33 - 3rd \u2014 CHI @ LA)",
     "kind": "rank_pass",
@@ -2998,17 +3010,5 @@
     "stat": "rebounds",
     "value": 100,
     "new_total": 100
-  },
-  {
-    "ts": "2026-06-28T00:59:00+00:00",
-    "text": "Dearica Hamby passed Betty Lennox for #50 all-time in fouls (career 852) \u2014 up from #51 entering today \u2014 (1:12 - 2nd \u2014 LA @ IND)",
-    "kind": "rank_pass",
-    "player": "Dearica Hamby",
-    "stat": "fouls",
-    "rank": 50,
-    "passed_players": [
-      "Betty Lennox"
-    ],
-    "new_total": 852
   }
 ]

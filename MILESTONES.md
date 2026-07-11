@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-11 03:34 UTC
+
+- **Dearica Hamby** passed **Sylvia Crawley** for **#123** all-time in blocks (career 107) — _9:00 - 4th — CHI @ LA_
+
 ## 2026-07-11 03:23 UTC
 
 - **Elizabeth Williams** passed **Myisha Hines-Allen** for **#151** all-time in turnovers (career 391) — up from #152 entering today — _3:33 - 3rd — CHI @ LA_
