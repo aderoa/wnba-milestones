@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-11 00:46 UTC_
+_Last updated: 2026-07-11 00:47 UTC_
 
 ## Contents
 
@@ -104,7 +104,7 @@ _Last updated: 2026-07-11 00:46 UTC_
 | 83 | Sheri Sam | 3,353 |
 | 84 | Andrea Stinson | 3,351 |
 | 85 | Tanisha Wright | 3,324 |
-| 86 | **Marina Mabrey** 🔴 +22 | 3,271 |
+| 86 | **Marina Mabrey** 🔴 +25 | 3,274 |
 | 87 | Stefanie Dolson | 3,217 |
 | 88 | Margo Dydek | 3,214 |
 | 89 | Erica Wheeler | 3,195 |
@@ -478,7 +478,7 @@ _Last updated: 2026-07-11 00:46 UTC_
 | 46 | Breanna Stewart | 981 |
 | 47 | Tamecka Dixon | 960 |
 | 47 | **Tiffany Hayes** 🔴 +3 | 960 |
-| 49 | **Arike Ogunbowale** 🔴 +6 | 950 |
+| 49 | **Arike Ogunbowale** 🔴 +7 | 951 |
 | 50 | Kara Lawson | 946 |
 | 51 | Nneka Ogwumike | 933 |
 | 52 | Deanna Nolan | 930 |
@@ -573,8 +573,8 @@ _Last updated: 2026-07-11 00:46 UTC_
 | 141 | Tyasha Harris | 460 |
 | 142 | Sug Sutton | 456 |
 | 143 | Sydney Colson | 454 |
-| 144 | **Julie Allemand** 🔴 +7 | 451 |
-| 144 | Yolanda Griffith | 451 |
+| 144 | **Julie Allemand** 🔴 +8 | 452 |
+| 145 | Yolanda Griffith | 451 |
 | 146 | Elena Delle Donne | 450 |
 | 146 | Kristi Harrower | 450 |
 | 146 | Nikki McCray | 450 |
@@ -1070,7 +1070,7 @@ _Last updated: 2026-07-11 00:46 UTC_
 | 20 | Sami Whitcomb | 511 |
 | 21 | Allie Quigley | 510 |
 | 22 | Leilani Mitchell | 508 |
-| 23 | **Marina Mabrey** 🔴 +4 | 504 |
+| 23 | **Marina Mabrey** 🔴 +5 | 505 |
 | 24 | Sabrina Ionescu | 468 |
 | 24 | Shekinna Stricklen | 468 |
 | 26 | Breanna Stewart | 465 |
