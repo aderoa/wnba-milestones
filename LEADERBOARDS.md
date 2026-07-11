@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-11 18:36 UTC_
+_Last updated: 2026-07-11 18:37 UTC_
 
 ## Contents
 
@@ -66,8 +66,8 @@ _Last updated: 2026-07-11 18:36 UTC_
 | 45 | Kahleah Copper | 4,437 |
 | 46 | Crystal Langhorne | 4,433 |
 | 46 | Jia Perkins | 4,433 |
-| 48 | Courtney Vandersloot | 4,362 |
-| 48 | **Jonquel Jones** 🔴 +9 | 4,362 |
+| 48 | **Jonquel Jones** 🔴 +12 | 4,365 |
+| 49 | Courtney Vandersloot | 4,362 |
 | 50 | **Courtney Williams** 🔴 +9 | 4,359 |
 | 51 | Dearica Hamby | 4,330 |
 | 52 | Sophia Young-Malcolm | 4,300 |
@@ -374,7 +374,7 @@ _Last updated: 2026-07-11 18:36 UTC_
 | 148 | Nicky Anosike | 922 |
 | 149 | Janeth Arcain | 916 |
 | 150 | Karima Christmas-Kelly | 908 |
-| 151 | **Nia Coffey** 🔴 +2 | 905 |
+| 151 | **Nia Coffey** 🔴 +3 | 906 |
 | 152 | Natalie Achonwa | 895 |
 | 153 | Temeka Johnson | 889 |
 | 154 | Mistie Bass | 888 |
@@ -473,7 +473,7 @@ _Last updated: 2026-07-11 18:36 UTC_
 | 42 | Sheryl Swoopes | 1,037 |
 | 43 | Tina Charles | 1,033 |
 | 44 | **Kayla McBride** 🔴 +2 | 994 |
-| 45 | **Breanna Stewart** 🔴 +2 | 983 |
+| 45 | **Breanna Stewart** 🔴 +3 | 984 |
 | 46 | Nikki Teasley | 982 |
 | 47 | Tamecka Dixon | 960 |
 | 48 | Tiffany Hayes | 957 |
@@ -1088,8 +1088,8 @@ _Last updated: 2026-07-11 18:36 UTC_
 | 38 | Riquna Williams | 407 |
 | 40 | Jia Perkins | 396 |
 | 41 | Alysha Clark | 394 |
-| 42 | **Jonquel Jones** 🔴 +1 | 390 |
-| 42 | Rachel Banham | 390 |
+| 42 | **Jonquel Jones** 🔴 +2 | 391 |
+| 43 | Rachel Banham | 390 |
 | 44 | Roneeka Hodges | 389 |
 | 45 | Courtney Vandersloot | 386 |
 | 46 | Briann January | 381 |
