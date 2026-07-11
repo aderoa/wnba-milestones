@@ -295,7 +295,7 @@ _Last updated: 2026-07-11 00:08 UTC_
 | 69 | Monique Billings | 1,431 |
 | 70 | Alana Beard | 1,420 |
 | 71 | Nakia Sanford | 1,419 |
-| 72 | **Kayla Thornton** 🔴 +2 | 1,410 |
+| 72 | **Kayla Thornton** 🔴 +3 | 1,411 |
 | 73 | Allisha Gray | 1,404 |
 | 74 | Kara Braxton | 1,387 |
 | 75 | Courtney Vandersloot | 1,386 |
@@ -1448,8 +1448,8 @@ _Last updated: 2026-07-11 00:08 UTC_
 | 193 | Azurá Stevens | 304 |
 | 194 | Tianna Hawkins | 303 |
 | 195 | Rachel Banham | 301 |
-| 196 | Crystal Robinson | 299 |
-| 196 | **Kayla Thornton** 🔴 +1 | 299 |
+| 196 | **Kayla Thornton** 🔴 +2 | 300 |
+| 197 | Crystal Robinson | 299 |
 | 198 | Michele Timms | 297 |
 | 199 | Damiris Dantas | 289 |
 | 199 | Nia Coffey | 289 |
@@ -1552,9 +1552,9 @@ _Last updated: 2026-07-11 00:08 UTC_
 | 92 | Breanna Stewart | 685 |
 | 92 | Cheyenne Parker-Tyus | 685 |
 | 92 | Jasmine Thomas | 685 |
-| 95 | Jewell Loyd | 684 |
-| 95 | **Kayla Thornton** 🔴 +2 | 684 |
-| 95 | Leilani Mitchell | 684 |
+| 92 | **Kayla Thornton** 🔴 +3 | 685 |
+| 96 | Jewell Loyd | 684 |
+| 96 | Leilani Mitchell | 684 |
 | 98 | Crystal Robinson | 682 |
 | 99 | Jennifer Lacy | 680 |
 | 99 | Temeka Johnson | 680 |
