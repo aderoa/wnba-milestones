@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-11 22:56 UTC_
+_Last updated: 2026-07-11 22:57 UTC_
 
 ## Contents
 
@@ -34,7 +34,7 @@ _Last updated: 2026-07-11 22:56 UTC_
 | 13 | Breanna Stewart | 6,352 |
 | 14 | Lisa Leslie | 6,251 |
 | 15 | **A'ja Wilson** 🔴 +16 | 6,194 |
-| 16 | **Jewell Loyd** 🔴 +3 | 6,151 |
+| 16 | **Jewell Loyd** 🔴 +6 | 6,154 |
 | 17 | Brittney Griner | 6,087 |
 | 18 | Lauren Jackson | 6,005 |
 | 18 | Seimone Augustus | 6,005 |
@@ -515,7 +515,7 @@ _Last updated: 2026-07-11 22:56 UTC_
 | 84 | Ariel Atkins | 682 |
 | 85 | Emma Meesseman | 681 |
 | 86 | Nykesha Sales | 677 |
-| 87 | **A'ja Wilson** 🔴 +2 | 669 |
+| 87 | **A'ja Wilson** 🔴 +3 | 670 |
 | 88 | Natisha Hiedeman | 668 |
 | 89 | Bria Hartley | 661 |
 | 90 | Brittney Griner | 660 |
@@ -669,7 +669,7 @@ _Last updated: 2026-07-11 22:56 UTC_
 | 33 | Rebekkah Brunson | 281 |
 | 34 | Nneka Ogwumike | 266 |
 | 35 | Liz Cambage | 264 |
-| 36 | **Cheyenne Parker-Tyus** 🔴 | 261 |
+| 36 | **Cheyenne Parker-Tyus** 🔴 +1 | 262 |
 | 37 | Swin Cash | 258 |
 | 38 | Plenette Pierson | 242 |
 | 39 | Napheesa Collier | 239 |
@@ -1055,7 +1055,7 @@ _Last updated: 2026-07-11 22:56 UTC_
 | 6 | Tina Thompson | 745 |
 | 7 | Katie Douglas | 723 |
 | 8 | Kelsey Mitchell | 712 |
-| 9 | **Jewell Loyd** 🔴 +1 | 696 |
+| 9 | **Jewell Loyd** 🔴 +2 | 697 |
 | 10 | **DeWanna Bonner** 🔴 | 682 |
 | 11 | Kristi Toliver | 651 |
 | 12 | Kelsey Plum | 619 |
