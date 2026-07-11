@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-07-11T00:18:00+00:00",
+    "text": "Arike Ogunbowale passed Kara Lawson for #49 all-time in assists (career 947) \u2014 up from #50 entering today \u2014 (1:30 - 2nd \u2014 DAL @ TOR)",
+    "kind": "rank_pass",
+    "player": "Arike Ogunbowale",
+    "stat": "assists",
+    "rank": 49,
+    "passed_players": [
+      "Kara Lawson"
+    ],
+    "new_total": 947
+  },
+  {
     "ts": "2026-07-10T04:01:00+00:00",
     "text": "Kelsey Mitchell passed Tully Bevilaqua for #66 all-time in assists (career 854) \u2014 up from #67 entering today \u2014 (2:46 - 4th \u2014 IND @ PHX)",
     "kind": "rank_pass",
@@ -2993,19 +3005,5 @@
       "DeMya Walker"
     ],
     "new_total": 685
-  },
-  {
-    "ts": "2026-06-28T00:40:00+00:00",
-    "text": "Myisha Hines-Allen passed Kara Wolters, Noelle Quinn, and Tierra Ruffin-Pratt for #171 all-time in blocks (career 78) \u2014 up from #172 entering today \u2014 (6:39 - 2nd \u2014 LA @ IND)",
-    "kind": "rank_pass",
-    "player": "Myisha Hines-Allen",
-    "stat": "blocks",
-    "rank": 171,
-    "passed_players": [
-      "Kara Wolters",
-      "Noelle Quinn",
-      "Tierra Ruffin-Pratt"
-    ],
-    "new_total": 78
   }
 ]

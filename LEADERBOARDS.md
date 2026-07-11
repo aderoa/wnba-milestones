@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-11 00:17 UTC_
+_Last updated: 2026-07-11 00:18 UTC_
 
 ## Contents
 
@@ -54,7 +54,7 @@ _Last updated: 2026-07-11 00:17 UTC_
 | 33 | Sheryl Swoopes | 4,875 |
 | 34 | Alyssa Thomas | 4,752 |
 | 35 | Alana Beard | 4,740 |
-| 36 | **Arike Ogunbowale** 🔴 +6 | 4,721 |
+| 36 | **Arike Ogunbowale** 🔴 +8 | 4,723 |
 | 37 | Chamique Holdsclaw | 4,713 |
 | 38 | Elena Delle Donne | 4,706 |
 | 39 | Natasha Howard | 4,682 |
@@ -478,8 +478,8 @@ _Last updated: 2026-07-11 00:17 UTC_
 | 46 | Breanna Stewart | 981 |
 | 47 | Tamecka Dixon | 960 |
 | 47 | **Tiffany Hayes** 🔴 +3 | 960 |
-| 49 | **Arike Ogunbowale** 🔴 +2 | 946 |
-| 49 | Kara Lawson | 946 |
+| 49 | **Arike Ogunbowale** 🔴 +3 | 947 |
+| 50 | Kara Lawson | 946 |
 | 51 | Nneka Ogwumike | 933 |
 | 52 | Deanna Nolan | 930 |
 | 53 | Kelly Miller | 927 |
@@ -538,7 +538,7 @@ _Last updated: 2026-07-11 00:17 UTC_
 | 106 | Betnijah Laney-Hamilton | 590 |
 | 106 | Camille Smith | 590 |
 | 108 | Armintie Herrington | 589 |
-| 109 | **Veronica Burton** 🔴 +3 | 582 |
+| 109 | **Veronica Burton** 🔴 +4 | 583 |
 | 110 | Tan White | 578 |
 | 111 | Matee Ajavon | 577 |
 | 112 | Napheesa Collier | 570 |
