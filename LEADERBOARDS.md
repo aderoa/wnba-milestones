@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-11 03:37 UTC_
+_Last updated: 2026-07-11 03:38 UTC_
 
 ## Contents
 
@@ -22,7 +22,7 @@ _Last updated: 2026-07-11 03:37 UTC_
 | 1 | Diana Taurasi | 10,608 |
 | 2 | Tina Charles | 8,396 |
 | 3 | DeWanna Bonner | 7,972 |
-| 4 | **Nneka Ogwumike** 🔴 +16 | 7,579 |
+| 4 | **Nneka Ogwumike** 🔴 +19 | 7,582 |
 | 5 | Tina Thompson | 7,470 |
 | 6 | Tamika Catchings | 7,371 |
 | 7 | Candice Dupree | 6,861 |
@@ -308,9 +308,9 @@ _Last updated: 2026-07-11 03:37 UTC_
 | 82 | Elena Baranova | 1,335 |
 | 83 | Brionna Jones | 1,333 |
 | 84 | Erlana Larkins | 1,329 |
+| 85 | **Azurá Stevens** 🔴 +8 | 1,327 |
 | 85 | Mwadi Mabika | 1,327 |
-| 86 | **Azurá Stevens** 🔴 +7 | 1,326 |
-| 86 | Jayne Appel Marinelli | 1,326 |
+| 87 | Jayne Appel Marinelli | 1,326 |
 | 88 | Betty Lennox | 1,296 |
 | 89 | Tari Phillips | 1,274 |
 | 90 | Myisha Hines-Allen | 1,265 |
@@ -378,7 +378,7 @@ _Last updated: 2026-07-11 03:37 UTC_
 | 152 | Natalie Achonwa | 895 |
 | 153 | Temeka Johnson | 889 |
 | 154 | Mistie Bass | 888 |
-| 155 | **Erica Wheeler** 🔴 +1 | 883 |
+| 155 | **Erica Wheeler** 🔴 +2 | 884 |
 | 156 | Alanna Smith | 878 |
 | 157 | Marina Mabrey | 875 |
 | 158 | Shameka Christon | 867 |
@@ -449,7 +449,7 @@ _Last updated: 2026-07-11 03:37 UTC_
 | 16 | Tanisha Wright | 1,423 |
 | 18 | Temeka Johnson | 1,382 |
 | 19 | Jasmine Thomas | 1,355 |
-| 20 | **Erica Wheeler** 🔴 +5 | 1,340 |
+| 20 | **Erica Wheeler** 🔴 +7 | 1,342 |
 | 21 | Briann January | 1,339 |
 | 22 | Dawn Staley | 1,337 |
 | 23 | Teresa Weatherspoon | 1,333 |
@@ -1135,8 +1135,8 @@ _Last updated: 2026-07-11 03:37 UTC_
 | 85 | Sophia Witherspoon | 260 |
 | 86 | Rebecca Allen | 255 |
 | 87 | Dawn Staley | 254 |
-| 88 | Bria Hartley | 253 |
-| 88 | **Nneka Ogwumike** 🔴 | 253 |
+| 87 | **Nneka Ogwumike** 🔴 +1 | 254 |
+| 89 | Bria Hartley | 253 |
 | 90 | Angel McCoughtry | 249 |
 | 91 | **Azurá Stevens** 🔴 | 247 |
 | 91 | Brittney Sykes | 247 |
