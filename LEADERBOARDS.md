@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-11 18:47 UTC_
+_Last updated: 2026-07-11 18:48 UTC_
 
 ## Contents
 
@@ -57,7 +57,7 @@ _Last updated: 2026-07-11 18:47 UTC_
 | 36 | Arike Ogunbowale | 4,715 |
 | 37 | Chamique Holdsclaw | 4,713 |
 | 38 | Elena Delle Donne | 4,706 |
-| 39 | **Natasha Howard** 🔴 +13 | 4,695 |
+| 39 | **Natasha Howard** 🔴 +14 | 4,696 |
 | 40 | Chelsea Gray | 4,625 |
 | 41 | Penny Taylor | 4,595 |
 | 42 | Kelsey Plum | 4,494 |
@@ -350,8 +350,8 @@ _Last updated: 2026-07-11 18:47 UTC_
 | 124 | Angel Reese | 1,035 |
 | 124 | Tamecka Dixon | 1,035 |
 | 126 | Kamila Vodichkova | 1,031 |
-| 127 | Jasmine Thomas | 1,027 |
-| 127 | **Sabrina Ionescu** 🔴 +7 | 1,027 |
+| 127 | **Sabrina Ionescu** 🔴 +8 | 1,028 |
+| 128 | Jasmine Thomas | 1,027 |
 | 129 | Jessica Shepard | 1,016 |
 | 130 | Cathrine Kraayeveld | 1,013 |
 | 131 | Kelly Miller | 1,011 |
@@ -1496,7 +1496,7 @@ _Last updated: 2026-07-11 18:47 UTC_
 | 36 | Tamika Whitmore | 940 |
 | 38 | DeWanna Bonner | 922 |
 | 39 | Briann January | 921 |
-| 40 | **Jonquel Jones** 🔴 +3 | 916 |
+| 40 | **Jonquel Jones** 🔴 +4 | 917 |
 | 41 | Ticha Penicheiro | 913 |
 | 42 | Shavonte Zellous | 907 |
 | 43 | Alysha Clark | 905 |

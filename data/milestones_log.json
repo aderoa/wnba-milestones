@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-07-11T18:48:00+00:00",
+    "text": "Sabrina Ionescu passed Jasmine Thomas for #127 all-time in rebounds (career 1,028) \u2014 up from #128 entering today \u2014 (5:53 - 4th \u2014 NY @ MIN)",
+    "kind": "rank_pass",
+    "player": "Sabrina Ionescu",
+    "stat": "rebounds",
+    "rank": 127,
+    "passed_players": [
+      "Jasmine Thomas"
+    ],
+    "new_total": 1028
+  },
+  {
     "ts": "2026-07-11T18:43:00+00:00",
     "text": "Kayla McBride passed Erlana Larkins and Monique Billings for #144 all-time in fouls (career 547) \u2014 up from #147 entering today \u2014 (6:33 - 4th \u2014 NY @ MIN)",
     "kind": "rank_pass",
@@ -3007,14 +3019,5 @@
       "Erin Phillips"
     ],
     "new_total": 463
-  },
-  {
-    "ts": "2026-06-28T01:24:00+00:00",
-    "text": "Ariel Atkins reached 800 career rebounds (now 800) \u2014 (7:06 - 3rd \u2014 LA @ IND)",
-    "kind": "round",
-    "player": "Ariel Atkins",
-    "stat": "rebounds",
-    "value": 800,
-    "new_total": 800
   }
 ]
