@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-11 23:47 UTC_
+_Last updated: 2026-07-11 23:48 UTC_
 
 ## Contents
 
@@ -319,7 +319,7 @@ _Last updated: 2026-07-11 23:47 UTC_
 | 93 | **Chelsea Gray** 🔴 +1 | 1,258 |
 | 93 | Liz Cambage | 1,258 |
 | 95 | Tiffany Hayes | 1,257 |
-| 96 | **Brianna Turner** 🔴 +5 | 1,248 |
+| 96 | **Brianna Turner** 🔴 +6 | 1,249 |
 | 97 | Ezi Magbegor | 1,243 |
 | 98 | Seimone Augustus | 1,228 |
 | 99 | Jia Perkins | 1,220 |
