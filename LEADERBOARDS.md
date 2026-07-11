@@ -94,7 +94,7 @@ _Last updated: 2026-07-11 03:11 UTC_
 | 73 | Jasmine Thomas | 3,522 |
 | 74 | Tamecka Dixon | 3,507 |
 | 75 | Tammy Sutton-Brown | 3,498 |
-| 76 | **Ariel Atkins** 🔴 +11 | 3,492 |
+| 76 | **Ariel Atkins** 🔴 +13 | 3,494 |
 | 77 | Sancho Lyttle | 3,478 |
 | 78 | Ivory Latta | 3,447 |
 | 79 | Nicole Powell | 3,407 |
@@ -115,7 +115,7 @@ _Last updated: 2026-07-11 03:11 UTC_
 | 94 | Briann January | 3,082 |
 | 95 | Erika de Souza | 3,046 |
 | 96 | Shameka Christon | 3,039 |
-| 97 | **Natasha Cloud** 🔴 +4 | 3,022 |
+| 97 | **Natasha Cloud** 🔴 +7 | 3,025 |
 | 98 | Marie Ferdinand-Harris | 3,001 |
 | 99 | Emma Meesseman | 2,966 |
 | 100 | **Elizabeth Williams** 🔴 | 2,933 |
@@ -151,7 +151,7 @@ _Last updated: 2026-07-11 03:11 UTC_
 | 130 | Kayla Thornton | 2,395 |
 | 131 | DeMya Walker | 2,379 |
 | 132 | Alex Bentley | 2,350 |
-| 133 | **Azurá Stevens** 🔴 | 2,343 |
+| 133 | **Azurá Stevens** 🔴 +2 | 2,345 |
 | 134 | Jordin Canada | 2,342 |
 | 135 | Merlakia Jones | 2,308 |
 | 136 | Betnijah Laney-Hamilton | 2,302 |
@@ -310,7 +310,7 @@ _Last updated: 2026-07-11 03:11 UTC_
 | 84 | Erlana Larkins | 1,329 |
 | 85 | Mwadi Mabika | 1,327 |
 | 86 | Jayne Appel Marinelli | 1,326 |
-| 87 | **Azurá Stevens** 🔴 +4 | 1,323 |
+| 87 | **Azurá Stevens** 🔴 +5 | 1,324 |
 | 88 | Betty Lennox | 1,296 |
 | 89 | Tari Phillips | 1,274 |
 | 90 | Myisha Hines-Allen | 1,265 |
@@ -438,7 +438,7 @@ _Last updated: 2026-07-11 03:11 UTC_
 | 6 | Chelsea Gray | 2,003 |
 | 7 | Alyssa Thomas | 1,971 |
 | 8 | Skylar Diggins | 1,852 |
-| 9 | **Natasha Cloud** 🔴 +4 | 1,806 |
+| 9 | **Natasha Cloud** 🔴 +5 | 1,807 |
 | 10 | Becky Hammon | 1,705 |
 | 11 | Candace Parker | 1,634 |
 | 12 | Cappie Pondexter | 1,575 |
@@ -480,7 +480,7 @@ _Last updated: 2026-07-11 03:11 UTC_
 | 48 | Tamecka Dixon | 960 |
 | 49 | Arike Ogunbowale | 951 |
 | 50 | Kara Lawson | 946 |
-| 51 | **Nneka Ogwumike** 🔴 +3 | 936 |
+| 51 | **Nneka Ogwumike** 🔴 +4 | 937 |
 | 52 | Deanna Nolan | 930 |
 | 53 | Kelly Miller | 927 |
 | 54 | DeLisha Milton-Jones | 921 |
@@ -1102,7 +1102,7 @@ _Last updated: 2026-07-11 03:11 UTC_
 | 51 | Kia Nurse | 368 |
 | 53 | Nykesha Sales | 352 |
 | 54 | Jackie Young | 346 |
-| 55 | **Natasha Cloud** 🔴 | 345 |
+| 54 | **Natasha Cloud** 🔴 +1 | 346 |
 | 56 | Cathrine Kraayeveld | 343 |
 | 56 | Elena Delle Donne | 343 |
 | 58 | Candace Parker | 342 |
