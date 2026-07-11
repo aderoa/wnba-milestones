@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-11 18:41 UTC
+
+- **Kayla McBride** passed **Maya Moore** for **#36** all-time in steals (career 450) — up from #37 entering today — _7:12 - 4th — NY @ MIN_
+
 ## 2026-07-11 18:29 UTC
 
 - **Marine Johannès** passed **Noelle Quinn** for **#119** all-time in three-pointers (career 185) — up from #120 entering today — _1:36 - 3rd — NY @ MIN_

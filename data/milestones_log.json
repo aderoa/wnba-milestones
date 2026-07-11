@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-07-11T18:41:00+00:00",
+    "text": "Kayla McBride passed Maya Moore for #36 all-time in steals (career 450) \u2014 up from #37 entering today \u2014 (7:12 - 4th \u2014 NY @ MIN)",
+    "kind": "rank_pass",
+    "player": "Kayla McBride",
+    "stat": "steals",
+    "rank": 36,
+    "passed_players": [
+      "Maya Moore"
+    ],
+    "new_total": 450
+  },
+  {
     "ts": "2026-07-11T18:29:00+00:00",
     "text": "Marine Johann\u00e8s passed Noelle Quinn for #119 all-time in three-pointers (career 185) \u2014 up from #120 entering today \u2014 (1:36 - 3rd \u2014 NY @ MIN)",
     "kind": "rank_pass",
@@ -3003,17 +3015,5 @@
       "Tierra Ruffin-Pratt"
     ],
     "new_total": 800
-  },
-  {
-    "ts": "2026-06-28T01:23:00+00:00",
-    "text": "Dearica Hamby passed Dominique Canty for #50 all-time in turnovers (career 686) \u2014 up from #52 entering today \u2014 (7:29 - 3rd \u2014 LA @ IND)",
-    "kind": "rank_pass",
-    "player": "Dearica Hamby",
-    "stat": "turnovers",
-    "rank": 50,
-    "passed_players": [
-      "Dominique Canty"
-    ],
-    "new_total": 686
   }
 ]
