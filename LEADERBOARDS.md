@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-11 03:42 UTC_
+_Last updated: 2026-07-11 03:43 UTC_
 
 ## Contents
 
@@ -93,8 +93,8 @@ _Last updated: 2026-07-11 03:42 UTC_
 | 72 | Renee Montgomery | 3,533 |
 | 73 | Jasmine Thomas | 3,522 |
 | 74 | Tamecka Dixon | 3,507 |
+| 75 | **Ariel Atkins** 🔴 +17 | 3,498 |
 | 75 | Tammy Sutton-Brown | 3,498 |
-| 76 | **Ariel Atkins** 🔴 +15 | 3,496 |
 | 77 | Sancho Lyttle | 3,478 |
 | 78 | Ivory Latta | 3,447 |
 | 79 | Nicole Powell | 3,407 |
@@ -506,8 +506,8 @@ _Last updated: 2026-07-11 03:42 UTC_
 | 74 | Allisha Gray | 767 |
 | 75 | Sheri Sam | 745 |
 | 76 | Monique Currie | 740 |
+| 77 | **Dearica Hamby** 🔴 +2 | 728 |
 | 77 | Elaine Powell | 728 |
-| 78 | **Dearica Hamby** 🔴 +1 | 727 |
 | 79 | Stefanie Dolson | 707 |
 | 80 | Chamique Holdsclaw | 698 |
 | 81 | Shavonte Zellous | 693 |
