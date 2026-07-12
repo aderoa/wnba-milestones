@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-12 20:27 UTC_
+_Last updated: 2026-07-12 20:28 UTC_
 
 ## Contents
 
@@ -178,8 +178,8 @@ _Last updated: 2026-07-12 20:27 UTC_
 | 157 | Aliyah Boston | 2,087 |
 | 158 | Aerial Powers | 2,068 |
 | 159 | Coco Miller | 2,030 |
-| 160 | Diamond DeShields | 2,026 |
-| 161 | **Natisha Hiedeman** 🔴 +23 | 2,025 |
+| 160 | **Natisha Hiedeman** 🔴 +25 | 2,027 |
+| 161 | Diamond DeShields | 2,026 |
 | 162 | Vicky Bullett | 2,018 |
 | 163 | Ezi Magbegor | 1,995 |
 | 164 | Bria Hartley | 1,967 |
@@ -499,8 +499,8 @@ _Last updated: 2026-07-12 20:27 UTC_
 | 67 | Kelsey Mitchell | 847 |
 | 68 | Jia Perkins | 837 |
 | 69 | Andrea Stinson | 810 |
-| 70 | **Marina Mabrey** 🔴 +2 | 803 |
-| 70 | Tina Thompson | 803 |
+| 70 | **Marina Mabrey** 🔴 +3 | 804 |
+| 71 | Tina Thompson | 803 |
 | 72 | Epiphanny Prince | 800 |
 | 73 | Mwadi Mabika | 774 |
 | 74 | Allisha Gray | 767 |

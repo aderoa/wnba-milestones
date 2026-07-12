@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-07-12T20:28:00+00:00",
+    "text": "Natisha Hiedeman passed Diamond DeShields for #160 all-time in points (career 2,027) \u2014 up from #162 entering today \u2014 (2:55 - 3rd \u2014 SEA @ WSH)",
+    "kind": "rank_pass",
+    "player": "Natisha Hiedeman",
+    "stat": "points",
+    "rank": 160,
+    "passed_players": [
+      "Diamond DeShields"
+    ],
+    "new_total": 2027
+  },
+  {
     "ts": "2026-07-12T19:57:00+00:00",
     "text": "Betnijah Laney-Hamilton passed Carolyn Swords for #170 all-time in rebounds (career 816) \u2014 up from #171 entering today \u2014 (1:06 - 2nd \u2014 NY @ TOR)",
     "kind": "rank_pass",
@@ -3006,14 +3018,5 @@
       "Anna DeForge"
     ],
     "new_total": 335
-  },
-  {
-    "ts": "2026-06-28T01:50:00+00:00",
-    "text": "Erica Wheeler reached 700 career turnovers (now 700) \u2014 (9:14 - 4th \u2014 LA @ IND)",
-    "kind": "round",
-    "player": "Erica Wheeler",
-    "stat": "turnovers",
-    "value": 700,
-    "new_total": 700
   }
 ]

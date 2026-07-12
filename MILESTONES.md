@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-12 20:28 UTC
+
+- **Natisha Hiedeman** passed **Diamond DeShields** for **#160** all-time in points (career 2,027) — up from #162 entering today — _2:55 - 3rd — SEA @ WSH_
+
 ## 2026-07-12 19:57 UTC
 
 - **Betnijah Laney-Hamilton** passed **Carolyn Swords** for **#170** all-time in rebounds (career 816) — up from #171 entering today — _1:06 - 2nd — NY @ TOR_
