@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-12 00:04 UTC_
+_Last updated: 2026-07-12 00:05 UTC_
 
 ## Contents
 
@@ -34,7 +34,7 @@ _Last updated: 2026-07-12 00:04 UTC_
 | 13 | Breanna Stewart | 6,352 |
 | 14 | Lisa Leslie | 6,251 |
 | 15 | **A'ja Wilson** 🔴 +21 | 6,199 |
-| 16 | **Jewell Loyd** 🔴 +7 | 6,155 |
+| 16 | **Jewell Loyd** 🔴 +9 | 6,157 |
 | 17 | Brittney Griner | 6,087 |
 | 18 | Lauren Jackson | 6,005 |
 | 18 | Seimone Augustus | 6,005 |
@@ -1382,7 +1382,7 @@ _Last updated: 2026-07-12 00:04 UTC_
 | 127 | Elena Baranova | 444 |
 | 127 | Jantel Lavender | 444 |
 | 129 | Alysha Clark | 443 |
-| 130 | **Cheyenne Parker-Tyus** 🔴 | 441 |
+| 130 | **Cheyenne Parker-Tyus** 🔴 +1 | 442 |
 | 131 | Ann Wauters | 440 |
 | 132 | Tiffany Mitchell | 439 |
 | 133 | Kedra Holland-Corn | 438 |
@@ -1548,10 +1548,10 @@ _Last updated: 2026-07-12 00:04 UTC_
 | 88 | Katie Douglas | 697 |
 | 89 | Danielle Robinson | 692 |
 | 90 | **Jewell Loyd** 🔴 +4 | 688 |
+| 91 | **Cheyenne Parker-Tyus** 🔴 +2 | 687 |
 | 91 | Sophia Young-Malcolm | 687 |
-| 92 | Breanna Stewart | 686 |
-| 92 | **Cheyenne Parker-Tyus** 🔴 +1 | 686 |
-| 92 | Maya Moore | 686 |
+| 93 | Breanna Stewart | 686 |
+| 93 | Maya Moore | 686 |
 | 95 | Jasmine Thomas | 685 |
 | 96 | Leilani Mitchell | 684 |
 | 97 | Crystal Robinson | 682 |
