@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-12 20:20 UTC_
+_Last updated: 2026-07-12 20:21 UTC_
 
 ## Contents
 
@@ -104,13 +104,13 @@ _Last updated: 2026-07-12 20:20 UTC_
 | 83 | Sheri Sam | 3,353 |
 | 84 | Andrea Stinson | 3,351 |
 | 85 | Tanisha Wright | 3,324 |
-| 86 | **Marina Mabrey** 🔴 +18 | 3,267 |
+| 86 | **Marina Mabrey** 🔴 +20 | 3,269 |
 | 87 | **Stefanie Dolson** 🔴 +3 | 3,220 |
 | 88 | Margo Dydek | 3,214 |
 | 89 | Erica Wheeler | 3,195 |
 | 90 | Danielle Robinson | 3,160 |
 | 91 | Wendy Palmer | 3,135 |
-| 92 | **Sabrina Ionescu** 🔴 +13 | 3,110 |
+| 92 | **Sabrina Ionescu** 🔴 +16 | 3,113 |
 | 93 | Shavonte Zellous | 3,103 |
 | 94 | Briann January | 3,082 |
 | 95 | Erika de Souza | 3,046 |
@@ -474,8 +474,8 @@ _Last updated: 2026-07-12 20:20 UTC_
 | 42 | Sheryl Swoopes | 1,037 |
 | 43 | Tina Charles | 1,033 |
 | 44 | Kayla McBride | 992 |
-| 45 | **Breanna Stewart** 🔴 +1 | 982 |
-| 45 | Nikki Teasley | 982 |
+| 45 | **Breanna Stewart** 🔴 +2 | 983 |
+| 46 | Nikki Teasley | 982 |
 | 47 | Tamecka Dixon | 960 |
 | 48 | Tiffany Hayes | 957 |
 | 49 | Kara Lawson | 946 |
@@ -573,8 +573,8 @@ _Last updated: 2026-07-12 20:20 UTC_
 | 141 | Tyasha Harris | 460 |
 | 142 | Sug Sutton | 456 |
 | 143 | Sydney Colson | 454 |
-| 144 | **Julie Allemand** 🔴 +7 | 451 |
-| 144 | Yolanda Griffith | 451 |
+| 144 | **Julie Allemand** 🔴 +8 | 452 |
+| 145 | Yolanda Griffith | 451 |
 | 146 | Elena Delle Donne | 450 |
 | 146 | Kristi Harrower | 450 |
 | 146 | Nikki McCray | 450 |
@@ -1020,8 +1020,8 @@ _Last updated: 2026-07-12 20:20 UTC_
 | 174 | Sonja Henning | 194 |
 | 174 | Tierra Ruffin-Pratt | 194 |
 | 177 | Cynthia Cooper | 192 |
+| 178 | **Isabelle Harrison** 🔴 +1 | 191 |
 | 178 | Myisha Hines-Allen | 191 |
-| 179 | **Isabelle Harrison** 🔴 | 190 |
 | 180 | Tamicha Jackson | 188 |
 | 181 | Michele Timms | 187 |
 | 182 | Charde Houston | 185 |
@@ -1071,7 +1071,7 @@ _Last updated: 2026-07-12 20:20 UTC_
 | 21 | Allie Quigley | 510 |
 | 22 | Leilani Mitchell | 508 |
 | 23 | **Marina Mabrey** 🔴 +2 | 502 |
-| 24 | **Sabrina Ionescu** 🔴 +2 | 470 |
+| 24 | **Sabrina Ionescu** 🔴 +3 | 471 |
 | 25 | Shekinna Stricklen | 468 |
 | 26 | **Breanna Stewart** 🔴 | 465 |
 | 27 | Cappie Pondexter | 464 |
@@ -1319,7 +1319,7 @@ _Last updated: 2026-07-12 20:20 UTC_
 | 63 | Kayla McBride | 648 |
 | 63 | Kelsey Plum | 648 |
 | 65 | Dawn Staley | 643 |
-| 66 | **Jonquel Jones** 🔴 +1 | 642 |
+| 65 | **Jonquel Jones** 🔴 +2 | 643 |
 | 67 | Ruth Riley | 637 |
 | 68 | Odyssey Sims | 631 |
 | 68 | Svetlana Abrosimova | 631 |
