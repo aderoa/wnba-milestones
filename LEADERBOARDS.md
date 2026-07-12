@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-12 20:16 UTC_
+_Last updated: 2026-07-12 20:17 UTC_
 
 ## Contents
 
@@ -179,7 +179,7 @@ _Last updated: 2026-07-12 20:16 UTC_
 | 158 | Aerial Powers | 2,068 |
 | 159 | Coco Miller | 2,030 |
 | 160 | Diamond DeShields | 2,026 |
-| 161 | **Natisha Hiedeman** 🔴 +18 | 2,020 |
+| 161 | **Natisha Hiedeman** 🔴 +20 | 2,022 |
 | 162 | Vicky Bullett | 2,018 |
 | 163 | Ezi Magbegor | 1,995 |
 | 164 | Bria Hartley | 1,967 |
@@ -465,7 +465,7 @@ _Last updated: 2026-07-12 20:16 UTC_
 | 33 | Jackie Young | 1,150 |
 | 34 | Renee Montgomery | 1,140 |
 | 35 | Swin Cash | 1,131 |
-| 36 | **Sabrina Ionescu** 🔴 +4 | 1,096 |
+| 36 | **Sabrina Ionescu** 🔴 +5 | 1,097 |
 | 37 | Lindsey Harding | 1,090 |
 | 38 | Katie Douglas | 1,069 |
 | 39 | Alana Beard | 1,061 |
@@ -573,11 +573,11 @@ _Last updated: 2026-07-12 20:16 UTC_
 | 141 | Tyasha Harris | 460 |
 | 142 | Sug Sutton | 456 |
 | 143 | Sydney Colson | 454 |
+| 144 | **Julie Allemand** 🔴 +7 | 451 |
 | 144 | Yolanda Griffith | 451 |
-| 145 | Elena Delle Donne | 450 |
-| 145 | **Julie Allemand** 🔴 +6 | 450 |
-| 145 | Kristi Harrower | 450 |
-| 145 | Nikki McCray | 450 |
+| 146 | Elena Delle Donne | 450 |
+| 146 | Kristi Harrower | 450 |
+| 146 | Nikki McCray | 450 |
 | 149 | Ruth Riley | 449 |
 | 150 | DeMya Walker | 446 |
 | 151 | Essence Carson | 445 |
