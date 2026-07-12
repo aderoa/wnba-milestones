@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-07-12T21:16:00+00:00",
+    "text": "Sabrina Ionescu passed Michele Timms for #181 all-time in steals (career 188) \u2014 up from #185 entering today \u2014 (36.2 - 4th \u2014 NY @ TOR)",
+    "kind": "rank_pass",
+    "player": "Sabrina Ionescu",
+    "stat": "steals",
+    "rank": 181,
+    "passed_players": [
+      "Michele Timms"
+    ],
+    "new_total": 188
+  },
+  {
     "ts": "2026-07-12T21:15:00+00:00",
     "text": "Sabrina Ionescu reached 1,100 career assists (now 1,100) \u2014 (1:01 - 4th \u2014 NY @ TOR)",
     "kind": "round",
@@ -3003,17 +3015,5 @@
       "Nia Coffey"
     ],
     "new_total": 290
-  },
-  {
-    "ts": "2026-06-28T02:13:00+00:00",
-    "text": "Damiris Dantas passed Kayla Thornton for #184 all-time in assists (career 369) \u2014 (2:12 - 4th \u2014 LA @ IND)",
-    "kind": "rank_pass",
-    "player": "Damiris Dantas",
-    "stat": "assists",
-    "rank": 184,
-    "passed_players": [
-      "Kayla Thornton"
-    ],
-    "new_total": 369
   }
 ]

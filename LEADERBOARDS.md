@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-12 21:15 UTC_
+_Last updated: 2026-07-12 21:16 UTC_
 
 ## Contents
 
@@ -31,7 +31,7 @@ _Last updated: 2026-07-12 21:15 UTC_
 | 10 | Candace Parker | 6,574 |
 | 11 | Katie Smith | 6,450 |
 | 12 | Sylvia Fowles | 6,413 |
-| 13 | **Breanna Stewart** 🔴 +24 | 6,359 |
+| 13 | **Breanna Stewart** 🔴 +22 | 6,357 |
 | 14 | Lisa Leslie | 6,251 |
 | 15 | A'ja Wilson | 6,178 |
 | 16 | Jewell Loyd | 6,148 |
@@ -110,7 +110,7 @@ _Last updated: 2026-07-12 21:15 UTC_
 | 89 | Erica Wheeler | 3,195 |
 | 90 | Danielle Robinson | 3,160 |
 | 91 | Wendy Palmer | 3,135 |
-| 92 | **Sabrina Ionescu** 🔴 +26 | 3,123 |
+| 92 | **Sabrina Ionescu** 🔴 +28 | 3,125 |
 | 93 | Shavonte Zellous | 3,103 |
 | 94 | Briann January | 3,082 |
 | 95 | Erika de Souza | 3,046 |
@@ -572,8 +572,8 @@ _Last updated: 2026-07-12 21:15 UTC_
 | 140 | Sylvia Fowles | 461 |
 | 141 | Tyasha Harris | 460 |
 | 142 | Sug Sutton | 456 |
+| 143 | **Julie Allemand** 🔴 +10 | 454 |
 | 143 | Sydney Colson | 454 |
-| 144 | **Julie Allemand** 🔴 +9 | 453 |
 | 145 | Yolanda Griffith | 451 |
 | 146 | Elena Delle Donne | 450 |
 | 146 | Kristi Harrower | 450 |
@@ -881,8 +881,8 @@ _Last updated: 2026-07-12 21:15 UTC_
 | 36 | Maya Moore | 449 |
 | 37 | Kayla McBride | 446 |
 | 38 | Sheri Sam | 438 |
-| 39 | **Breanna Stewart** 🔴 +2 | 437 |
 | 39 | Camille Smith | 437 |
+| 40 | **Breanna Stewart** 🔴 +1 | 436 |
 | 41 | Candice Dupree | 431 |
 | 42 | Epiphanny Prince | 429 |
 | 43 | Tanisha Wright | 427 |
@@ -1022,9 +1022,9 @@ _Last updated: 2026-07-12 21:15 UTC_
 | 177 | Cynthia Cooper | 192 |
 | 178 | **Isabelle Harrison** 🔴 +1 | 191 |
 | 178 | Myisha Hines-Allen | 191 |
+| 180 | **Sabrina Ionescu** 🔴 +4 | 188 |
 | 180 | Tamicha Jackson | 188 |
-| 181 | Michele Timms | 187 |
-| 181 | **Sabrina Ionescu** 🔴 +3 | 187 |
+| 182 | Michele Timms | 187 |
 | 183 | Charde Houston | 185 |
 | 183 | Tiffany Jackson | 185 |
 | 185 | Erin Perperoglou | 184 |
@@ -1442,8 +1442,8 @@ _Last updated: 2026-07-12 21:15 UTC_
 | 186 | Monique Billings | 314 |
 | 186 | Moriah Jefferson | 314 |
 | 188 | Alex Bentley | 313 |
-| 189 | **Isabelle Harrison** 🔴 +4 | 311 |
-| 189 | Tamika Raymond | 311 |
+| 189 | **Isabelle Harrison** 🔴 +5 | 312 |
+| 190 | Tamika Raymond | 311 |
 | 191 | Erin Perperoglou | 305 |
 | 191 | Jennifer Lacy | 305 |
 | 193 | Azurá Stevens | 304 |
