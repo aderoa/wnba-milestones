@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-12 23:29 UTC_
+_Last updated: 2026-07-12 23:30 UTC_
 
 ## Contents
 
@@ -115,7 +115,7 @@ _Last updated: 2026-07-12 23:29 UTC_
 | 94 | Briann January | 3,082 |
 | 95 | Erika de Souza | 3,046 |
 | 96 | Shameka Christon | 3,039 |
-| 97 | **Natasha Cloud** 🔴 +2 | 3,020 |
+| 97 | **Natasha Cloud** 🔴 +4 | 3,022 |
 | 98 | Marie Ferdinand-Harris | 3,001 |
 | 99 | Emma Meesseman | 2,966 |
 | 100 | **Elizabeth Williams** 🔴 +2 | 2,935 |
@@ -198,7 +198,7 @@ _Last updated: 2026-07-12 23:29 UTC_
 | 177 | Candice Wiggins | 1,901 |
 | 178 | Gabby Williams | 1,899 |
 | 179 | NaLyssa Smith | 1,879 |
-| 180 | Rachel Banham | 1,843 |
+| 180 | **Rachel Banham** 🔴 | 1,843 |
 | 181 | Damiris Dantas | 1,842 |
 | 182 | Sophie Cunningham | 1,829 |
 | 183 | Tianna Hawkins | 1,825 |
@@ -554,7 +554,7 @@ _Last updated: 2026-07-12 23:29 UTC_
 | 122 | Myisha Hines-Allen | 529 |
 | 123 | Marie Ferdinand-Harris | 528 |
 | 124 | Margo Dydek | 524 |
-| 125 | Rachel Banham | 511 |
+| 125 | **Rachel Banham** 🔴 | 511 |
 | 126 | Iziane Castro Marques | 509 |
 | 127 | Brittany Boyd-Jones | 508 |
 | 127 | Chasity Melvin | 508 |
@@ -1090,7 +1090,7 @@ _Last updated: 2026-07-12 23:29 UTC_
 | 40 | Jia Perkins | 396 |
 | 41 | Alysha Clark | 394 |
 | 42 | Jonquel Jones | 390 |
-| 42 | Rachel Banham | 390 |
+| 42 | **Rachel Banham** 🔴 | 390 |
 | 44 | Roneeka Hodges | 389 |
 | 45 | **Courtney Vandersloot** 🔴 | 386 |
 | 46 | Briann January | 381 |
@@ -1352,7 +1352,7 @@ _Last updated: 2026-07-12 23:29 UTC_
 | 94 | Sabrina Ionescu | 534 |
 | 97 | Mwadi Mabika | 532 |
 | 98 | Nakia Sanford | 531 |
-| 99 | **Arike Ogunbowale** 🔴 | 529 |
+| 99 | **Arike Ogunbowale** 🔴 +1 | 530 |
 | 100 | Jordin Canada | 527 |
 | 100 | Maya Moore | 527 |
 | 102 | Kara Lawson | 526 |
@@ -1448,7 +1448,7 @@ _Last updated: 2026-07-12 23:29 UTC_
 | 191 | Erin Perperoglou | 305 |
 | 191 | Jennifer Lacy | 305 |
 | 194 | Tianna Hawkins | 303 |
-| 195 | Rachel Banham | 301 |
+| 195 | **Rachel Banham** 🔴 | 301 |
 | 196 | Crystal Robinson | 299 |
 | 197 | Kayla Thornton | 298 |
 | 198 | Michele Timms | 297 |
@@ -1578,7 +1578,7 @@ _Last updated: 2026-07-12 23:29 UTC_
 | 117 | Coco Miller | 615 |
 | 118 | Brooke Wyckoff | 614 |
 | 119 | Svetlana Abrosimova | 613 |
-| 120 | **Odyssey Sims** 🔴 | 610 |
+| 120 | **Odyssey Sims** 🔴 +1 | 611 |
 | 121 | Layshia Clarendon | 609 |
 | 122 | **Arike Ogunbowale** 🔴 | 604 |
 | 122 | Tiffany Mitchell | 604 |
@@ -1635,7 +1635,7 @@ _Last updated: 2026-07-12 23:29 UTC_
 | 174 | Elena Baranova | 501 |
 | 175 | Adrian Williams-Strong | 497 |
 | 175 | Essence Carson | 497 |
-| 175 | Rachel Banham | 497 |
+| 175 | **Rachel Banham** 🔴 | 497 |
 | 178 | **Azurá Stevens** 🔴 | 495 |
 | 178 | Nia Coffey | 495 |
 | 180 | Karima Christmas-Kelly | 494 |
