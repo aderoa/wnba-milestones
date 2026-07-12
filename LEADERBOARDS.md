@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-12 20:30 UTC_
+_Last updated: 2026-07-12 20:31 UTC_
 
 ## Contents
 
@@ -31,7 +31,7 @@ _Last updated: 2026-07-12 20:30 UTC_
 | 10 | Candace Parker | 6,574 |
 | 11 | Katie Smith | 6,450 |
 | 12 | Sylvia Fowles | 6,413 |
-| 13 | **Breanna Stewart** 🔴 +10 | 6,345 |
+| 13 | **Breanna Stewart** 🔴 +11 | 6,346 |
 | 14 | Lisa Leslie | 6,251 |
 | 15 | A'ja Wilson | 6,178 |
 | 16 | Jewell Loyd | 6,148 |
@@ -187,7 +187,7 @@ _Last updated: 2026-07-12 20:30 UTC_
 | 166 | Nicole Ohlde | 1,959 |
 | 167 | Myisha Hines-Allen | 1,956 |
 | 168 | Kedra Holland-Corn | 1,938 |
-| 169 | **Isabelle Harrison** 🔴 +3 | 1,935 |
+| 169 | **Isabelle Harrison** 🔴 +5 | 1,937 |
 | 170 | Cathrine Kraayeveld | 1,926 |
 | 171 | Roneeka Hodges | 1,925 |
 | 172 | Latasha Byears | 1,920 |
@@ -499,7 +499,7 @@ _Last updated: 2026-07-12 20:30 UTC_
 | 67 | Kelsey Mitchell | 847 |
 | 68 | Jia Perkins | 837 |
 | 69 | Andrea Stinson | 810 |
-| 70 | **Marina Mabrey** 🔴 +3 | 804 |
+| 70 | **Marina Mabrey** 🔴 +4 | 805 |
 | 71 | Tina Thompson | 803 |
 | 72 | Epiphanny Prince | 800 |
 | 73 | Mwadi Mabika | 774 |
@@ -987,8 +987,8 @@ _Last updated: 2026-07-12 20:30 UTC_
 | 142 | Wendy Palmer | 226 |
 | 143 | Alexis Hornbuckle | 225 |
 | 144 | Cheryl Ford | 224 |
-| 145 | **Marina Mabrey** 🔴 | 221 |
-| 145 | Rushia Brown | 221 |
+| 145 | **Marina Mabrey** 🔴 +1 | 222 |
+| 146 | Rushia Brown | 221 |
 | 147 | DeMya Walker | 220 |
 | 147 | Jennifer Gillom | 220 |
 | 149 | Allison Feaster | 219 |
