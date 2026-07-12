@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-12 19:57 UTC
+
+- **Betnijah Laney-Hamilton** passed **Carolyn Swords** for **#170** all-time in rebounds (career 816) — up from #171 entering today — _1:06 - 2nd — NY @ TOR_
+
 ## 2026-07-11 23:58 UTC
 
 - **Cheyenne Parker-Tyus** passed **Riquna Williams** for **#110** all-time in points (career 2,660) — up from #113 entering today — _4:42 - 4th — PHX @ LV_

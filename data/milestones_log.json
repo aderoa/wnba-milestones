@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-07-12T19:57:00+00:00",
+    "text": "Betnijah Laney-Hamilton passed Carolyn Swords for #170 all-time in rebounds (career 816) \u2014 up from #171 entering today \u2014 (1:06 - 2nd \u2014 NY @ TOR)",
+    "kind": "rank_pass",
+    "player": "Betnijah Laney-Hamilton",
+    "stat": "rebounds",
+    "rank": 170,
+    "passed_players": [
+      "Carolyn Swords"
+    ],
+    "new_total": 816
+  },
+  {
     "ts": "2026-07-11T23:58:00+00:00",
     "text": "Cheyenne Parker-Tyus passed Riquna Williams for #110 all-time in points (career 2,660) \u2014 up from #113 entering today \u2014 (4:42 - 4th \u2014 PHX @ LV)",
     "kind": "rank_pass",
@@ -3003,17 +3015,5 @@
     "stat": "turnovers",
     "value": 700,
     "new_total": 700
-  },
-  {
-    "ts": "2026-06-28T01:50:00+00:00",
-    "text": "Monique Billings passed Rebecca Allen for #186 all-time in steals (career 184) \u2014 up from #188 entering today \u2014 (9:14 - 4th \u2014 LA @ IND)",
-    "kind": "rank_pass",
-    "player": "Monique Billings",
-    "stat": "steals",
-    "rank": 186,
-    "passed_players": [
-      "Rebecca Allen"
-    ],
-    "new_total": 184
   }
 ]
