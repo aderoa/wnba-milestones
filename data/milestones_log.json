@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-07-12T20:47:00+00:00",
+    "text": "Natisha Hiedeman passed Coco Miller for #159 all-time in points (career 2,031) \u2014 up from #162 entering today \u2014 (6:56 - 4th \u2014 SEA @ WSH)",
+    "kind": "rank_pass",
+    "player": "Natisha Hiedeman",
+    "stat": "points",
+    "rank": 159,
+    "passed_players": [
+      "Coco Miller"
+    ],
+    "new_total": 2031
+  },
+  {
     "ts": "2026-07-12T20:28:00+00:00",
     "text": "Natisha Hiedeman passed Diamond DeShields for #160 all-time in points (career 2,027) \u2014 up from #162 entering today \u2014 (2:55 - 3rd \u2014 SEA @ WSH)",
     "kind": "rank_pass",
@@ -3006,17 +3018,5 @@
       "Briann January"
     ],
     "new_total": 1340
-  },
-  {
-    "ts": "2026-06-28T01:51:00+00:00",
-    "text": "Sophie Cunningham passed Anna DeForge for #61 all-time in three-pointers (career 335) \u2014 up from #62 entering today \u2014 (8:29 - 4th \u2014 LA @ IND)",
-    "kind": "rank_pass",
-    "player": "Sophie Cunningham",
-    "stat": "three-pointers",
-    "rank": 61,
-    "passed_players": [
-      "Anna DeForge"
-    ],
-    "new_total": 335
   }
 ]
