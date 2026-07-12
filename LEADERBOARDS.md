@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-12 20:49 UTC_
+_Last updated: 2026-07-12 20:50 UTC_
 
 ## Contents
 
@@ -110,7 +110,7 @@ _Last updated: 2026-07-12 20:49 UTC_
 | 89 | Erica Wheeler | 3,195 |
 | 90 | Danielle Robinson | 3,160 |
 | 91 | Wendy Palmer | 3,135 |
-| 92 | **Sabrina Ionescu** 🔴 +18 | 3,115 |
+| 92 | **Sabrina Ionescu** 🔴 +19 | 3,116 |
 | 93 | Shavonte Zellous | 3,103 |
 | 94 | Briann January | 3,082 |
 | 95 | Erika de Souza | 3,046 |
@@ -177,7 +177,7 @@ _Last updated: 2026-07-12 20:49 UTC_
 | 156 | Elena Baranova | 2,110 |
 | 157 | Aliyah Boston | 2,087 |
 | 158 | Aerial Powers | 2,068 |
-| 159 | **Natisha Hiedeman** 🔴 +29 | 2,031 |
+| 159 | **Natisha Hiedeman** 🔴 +31 | 2,033 |
 | 160 | Coco Miller | 2,030 |
 | 161 | Diamond DeShields | 2,026 |
 | 162 | Vicky Bullett | 2,018 |
@@ -1345,7 +1345,7 @@ _Last updated: 2026-07-12 20:49 UTC_
 | 89 | Lauren Jackson | 549 |
 | 90 | Matee Ajavon | 544 |
 | 91 | Adrienne Goodson | 542 |
-| 92 | **Marina Mabrey** 🔴 +1 | 538 |
+| 92 | **Marina Mabrey** 🔴 +2 | 539 |
 | 93 | Layshia Clarendon | 536 |
 | 94 | Ivory Latta | 534 |
 | 94 | Iziane Castro Marques | 534 |
