@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-12 19:10 UTC_
+_Last updated: 2026-07-12 19:11 UTC_
 
 ## Contents
 
@@ -238,7 +238,7 @@ _Last updated: 2026-07-12 19:10 UTC_
 | 12 | Alyssa Thomas | 2,858 |
 | 13 | **Jonquel Jones** 🔴 +2 | 2,730 |
 | 14 | A'ja Wilson | 2,657 |
-| 15 | **Breanna Stewart** 🔴 +1 | 2,633 |
+| 15 | **Breanna Stewart** 🔴 +2 | 2,634 |
 | 16 | Sancho Lyttle | 2,596 |
 | 17 | Brittney Griner | 2,579 |
 | 18 | DeLisha Milton-Jones | 2,574 |
@@ -1623,10 +1623,10 @@ _Last updated: 2026-07-12 19:10 UTC_
 | 162 | Janeth Arcain | 512 |
 | 164 | Andrea Stinson | 511 |
 | 165 | Vicky Bullett | 507 |
+| 166 | **Isabelle Harrison** 🔴 +1 | 506 |
 | 166 | Merlakia Jones | 506 |
-| 167 | **Isabelle Harrison** 🔴 | 505 |
-| 167 | Rushia Brown | 505 |
-| 167 | Shekinna Stricklen | 505 |
+| 168 | Rushia Brown | 505 |
+| 168 | Shekinna Stricklen | 505 |
 | 170 | Allison Feaster | 504 |
 | 170 | Erin Perperoglou | 504 |
 | 170 | Napheesa Collier | 504 |
