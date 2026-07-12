@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-12 21:09 UTC_
+_Last updated: 2026-07-12 21:10 UTC_
 
 ## Contents
 
@@ -789,9 +789,9 @@ _Last updated: 2026-07-12 21:09 UTC_
 | 151 | Erlana Larkins | 85 |
 | 151 | Kalani Brown | 85 |
 | 151 | Kristin Folkl | 85 |
-| 155 | Charde Houston | 84 |
-| 155 | **Marina Mabrey** 🔴 | 84 |
-| 155 | Shatori Walker-Kimbrough | 84 |
+| 151 | **Marina Mabrey** 🔴 +1 | 85 |
+| 156 | Charde Houston | 84 |
+| 156 | Shatori Walker-Kimbrough | 84 |
 | 158 | Tamera Young | 83 |
 | 159 | Cameron Brink | 82 |
 | 159 | Damiris Dantas | 82 |
@@ -1024,7 +1024,7 @@ _Last updated: 2026-07-12 21:09 UTC_
 | 178 | Myisha Hines-Allen | 191 |
 | 180 | Tamicha Jackson | 188 |
 | 181 | Michele Timms | 187 |
-| 182 | **Sabrina Ionescu** 🔴 +2 | 186 |
+| 181 | **Sabrina Ionescu** 🔴 +3 | 187 |
 | 183 | Charde Houston | 185 |
 | 183 | Tiffany Jackson | 185 |
 | 185 | Erin Perperoglou | 184 |
@@ -1344,8 +1344,8 @@ _Last updated: 2026-07-12 21:09 UTC_
 | 88 | Tan White | 557 |
 | 89 | Lauren Jackson | 549 |
 | 90 | Matee Ajavon | 544 |
-| 91 | Adrienne Goodson | 542 |
-| 91 | **Marina Mabrey** 🔴 +5 | 542 |
+| 91 | **Marina Mabrey** 🔴 +6 | 543 |
+| 92 | Adrienne Goodson | 542 |
 | 93 | Layshia Clarendon | 536 |
 | 94 | Ivory Latta | 534 |
 | 94 | Iziane Castro Marques | 534 |

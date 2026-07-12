@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-07-12T21:10:00+00:00",
+    "text": "Marina Mabrey passed Adrienne Goodson for #91 all-time in turnovers (career 543) \u2014 up from #92 entering today \u2014 (1:48 - 4th \u2014 NY @ TOR)",
+    "kind": "rank_pass",
+    "player": "Marina Mabrey",
+    "stat": "turnovers",
+    "rank": 91,
+    "passed_players": [
+      "Adrienne Goodson"
+    ],
+    "new_total": 543
+  },
+  {
     "ts": "2026-07-12T20:48:00+00:00",
     "text": "Stefanie Dolson passed Monique Currie for #18 all-time in fouls (career 1,138) \u2014 up from #19 entering today \u2014 (6:43 - 4th \u2014 SEA @ WSH)",
     "kind": "rank_pass",
@@ -3006,17 +3018,5 @@
       "Kristen Rasmussen"
     ],
     "new_total": 534
-  },
-  {
-    "ts": "2026-06-28T02:11:00+00:00",
-    "text": "Lexie Hull passed Kennedy Burke for #175 all-time in three-pointers (career 126) \u2014 up from #176 entering today \u2014 (2:45 - 4th \u2014 LA @ IND)",
-    "kind": "rank_pass",
-    "player": "Lexie Hull",
-    "stat": "three-pointers",
-    "rank": 175,
-    "passed_players": [
-      "Kennedy Burke"
-    ],
-    "new_total": 126
   }
 ]
