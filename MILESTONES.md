@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-12 20:48 UTC
+
+- **Stefanie Dolson** passed **Monique Currie** for **#18** all-time in fouls (career 1,138) — up from #19 entering today — _6:43 - 4th — SEA @ WSH_
+
 ## 2026-07-12 20:47 UTC
 
 - **Natisha Hiedeman** passed **Coco Miller** for **#159** all-time in points (career 2,031) — up from #162 entering today — _6:56 - 4th — SEA @ WSH_

@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-07-12T20:48:00+00:00",
+    "text": "Stefanie Dolson passed Monique Currie for #18 all-time in fouls (career 1,138) \u2014 up from #19 entering today \u2014 (6:43 - 4th \u2014 SEA @ WSH)",
+    "kind": "rank_pass",
+    "player": "Stefanie Dolson",
+    "stat": "fouls",
+    "rank": 18,
+    "passed_players": [
+      "Monique Currie"
+    ],
+    "new_total": 1138
+  },
+  {
     "ts": "2026-07-12T20:47:00+00:00",
     "text": "Natisha Hiedeman passed Coco Miller for #159 all-time in points (career 2,031) \u2014 up from #162 entering today \u2014 (6:56 - 4th \u2014 SEA @ WSH)",
     "kind": "rank_pass",
@@ -3006,17 +3018,5 @@
       "Kennedy Burke"
     ],
     "new_total": 126
-  },
-  {
-    "ts": "2026-06-28T01:59:00+00:00",
-    "text": "Erica Wheeler passed Briann January for #20 all-time in assists (career 1,340) \u2014 up from #22 entering today \u2014 (6:21 - 4th \u2014 LA @ IND)",
-    "kind": "rank_pass",
-    "player": "Erica Wheeler",
-    "stat": "assists",
-    "rank": 20,
-    "passed_players": [
-      "Briann January"
-    ],
-    "new_total": 1340
   }
 ]
