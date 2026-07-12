@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-12 21:25 UTC_
+_Last updated: 2026-07-12 21:26 UTC_
 
 ## Contents
 
@@ -881,8 +881,8 @@ _Last updated: 2026-07-12 21:25 UTC_
 | 36 | Maya Moore | 449 |
 | 37 | Kayla McBride | 446 |
 | 38 | Sheri Sam | 438 |
+| 39 | Breanna Stewart | 437 |
 | 39 | Camille Smith | 437 |
-| 40 | Breanna Stewart | 436 |
 | 41 | Candice Dupree | 431 |
 | 42 | Epiphanny Prince | 429 |
 | 43 | Tanisha Wright | 427 |
