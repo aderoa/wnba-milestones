@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-12 19:08 UTC_
+_Last updated: 2026-07-12 19:09 UTC_
 
 ## Contents
 
@@ -236,7 +236,7 @@ _Last updated: 2026-07-12 19:08 UTC_
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | Alyssa Thomas | 2,858 |
-| 13 | **Jonquel Jones** 🔴 +1 | 2,729 |
+| 13 | **Jonquel Jones** 🔴 +2 | 2,730 |
 | 14 | A'ja Wilson | 2,657 |
 | 15 | **Breanna Stewart** 🔴 +1 | 2,633 |
 | 16 | Sancho Lyttle | 2,596 |
@@ -380,7 +380,7 @@ _Last updated: 2026-07-12 19:08 UTC_
 | 154 | Mistie Bass | 888 |
 | 155 | Erica Wheeler | 882 |
 | 156 | Alanna Smith | 878 |
-| 157 | **Marina Mabrey** 🔴 | 874 |
+| 157 | **Marina Mabrey** 🔴 +1 | 875 |
 | 158 | Shameka Christon | 867 |
 | 159 | Krystal Thomas | 862 |
 | 160 | Naz Hillmon | 859 |
@@ -1167,7 +1167,7 @@ _Last updated: 2026-07-12 19:08 UTC_
 | 117 | Danielle Adams | 188 |
 | 117 | Napheesa Collier | 188 |
 | 119 | Noelle Quinn | 184 |
-| 120 | Marine Johannès | 183 |
+| 120 | **Marine Johannès** 🔴 | 183 |
 | 121 | Karima Christmas-Kelly | 181 |
 | 122 | Aerial Powers | 179 |
 | 122 | Camille Smith | 179 |
