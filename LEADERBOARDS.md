@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-12 21:04 UTC_
+_Last updated: 2026-07-12 21:05 UTC_
 
 ## Contents
 
@@ -104,13 +104,13 @@ _Last updated: 2026-07-12 21:04 UTC_
 | 83 | Sheri Sam | 3,353 |
 | 84 | Andrea Stinson | 3,351 |
 | 85 | Tanisha Wright | 3,324 |
-| 86 | **Marina Mabrey** 🔴 +27 | 3,276 |
+| 86 | **Marina Mabrey** 🔴 +29 | 3,278 |
 | 87 | **Stefanie Dolson** 🔴 +3 | 3,220 |
 | 88 | Margo Dydek | 3,214 |
 | 89 | Erica Wheeler | 3,195 |
 | 90 | Danielle Robinson | 3,160 |
 | 91 | Wendy Palmer | 3,135 |
-| 92 | **Sabrina Ionescu** 🔴 +24 | 3,121 |
+| 92 | **Sabrina Ionescu** 🔴 +26 | 3,123 |
 | 93 | Shavonte Zellous | 3,103 |
 | 94 | Briann January | 3,082 |
 | 95 | Erika de Souza | 3,046 |
@@ -1020,8 +1020,8 @@ _Last updated: 2026-07-12 21:04 UTC_
 | 174 | Sonja Henning | 194 |
 | 174 | Tierra Ruffin-Pratt | 194 |
 | 177 | Cynthia Cooper | 192 |
-| 177 | **Isabelle Harrison** 🔴 +2 | 192 |
-| 179 | Myisha Hines-Allen | 191 |
+| 178 | **Isabelle Harrison** 🔴 +1 | 191 |
+| 178 | Myisha Hines-Allen | 191 |
 | 180 | Tamicha Jackson | 188 |
 | 181 | Michele Timms | 187 |
 | 182 | **Sabrina Ionescu** 🔴 +2 | 186 |
@@ -1623,7 +1623,7 @@ _Last updated: 2026-07-12 21:04 UTC_
 | 162 | Adrienne Goodson | 512 |
 | 162 | Janeth Arcain | 512 |
 | 164 | Andrea Stinson | 511 |
-| 165 | **Isabelle Harrison** 🔴 +4 | 509 |
+| 165 | **Isabelle Harrison** 🔴 +5 | 510 |
 | 166 | Vicky Bullett | 507 |
 | 167 | Merlakia Jones | 506 |
 | 168 | Rushia Brown | 505 |
