@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-12 23:37 UTC_
+_Last updated: 2026-07-12 23:38 UTC_
 
 ## Contents
 
@@ -310,7 +310,7 @@ _Last updated: 2026-07-12 23:37 UTC_
 | 84 | Erlana Larkins | 1,329 |
 | 85 | Mwadi Mabika | 1,327 |
 | 86 | Jayne Appel Marinelli | 1,326 |
-| 87 | **Azurá Stevens** 🔴 +3 | 1,322 |
+| 87 | **Azurá Stevens** 🔴 +4 | 1,323 |
 | 88 | Betty Lennox | 1,296 |
 | 89 | Tari Phillips | 1,274 |
 | 90 | Myisha Hines-Allen | 1,265 |
@@ -410,7 +410,7 @@ _Last updated: 2026-07-12 23:37 UTC_
 | 183 | Kelsey Bone | 769 |
 | 183 | Tan White | 769 |
 | 186 | Tully Bevilaqua | 767 |
-| 187 | **Kamilla Cardoso** 🔴 +7 | 757 |
+| 187 | **Kamilla Cardoso** 🔴 +8 | 758 |
 | 188 | Layshia Clarendon | 756 |
 | 189 | Brooke Wyckoff | 751 |
 | 190 | Coco Miller | 750 |
@@ -1444,9 +1444,9 @@ _Last updated: 2026-07-12 23:37 UTC_
 | 188 | Alex Bentley | 313 |
 | 189 | Isabelle Harrison | 311 |
 | 189 | Tamika Raymond | 311 |
-| 191 | **Azurá Stevens** 🔴 +1 | 305 |
-| 191 | Erin Perperoglou | 305 |
-| 191 | Jennifer Lacy | 305 |
+| 191 | **Azurá Stevens** 🔴 +2 | 306 |
+| 192 | Erin Perperoglou | 305 |
+| 192 | Jennifer Lacy | 305 |
 | 194 | Tianna Hawkins | 303 |
 | 195 | **Rachel Banham** 🔴 | 301 |
 | 196 | Crystal Robinson | 299 |
@@ -1636,8 +1636,8 @@ _Last updated: 2026-07-12 23:37 UTC_
 | 175 | Adrian Williams-Strong | 497 |
 | 175 | Essence Carson | 497 |
 | 175 | **Rachel Banham** 🔴 | 497 |
-| 178 | **Azurá Stevens** 🔴 | 495 |
-| 178 | Nia Coffey | 495 |
+| 178 | **Azurá Stevens** 🔴 +1 | 496 |
+| 179 | Nia Coffey | 495 |
 | 180 | Karima Christmas-Kelly | 494 |
 | 181 | Ann Wauters | 493 |
 | 181 | Riquna Williams | 493 |
