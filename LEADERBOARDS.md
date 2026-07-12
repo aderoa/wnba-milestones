@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-12 21:03 UTC_
+_Last updated: 2026-07-12 21:04 UTC_
 
 ## Contents
 
@@ -104,7 +104,7 @@ _Last updated: 2026-07-12 21:03 UTC_
 | 83 | Sheri Sam | 3,353 |
 | 84 | Andrea Stinson | 3,351 |
 | 85 | Tanisha Wright | 3,324 |
-| 86 | **Marina Mabrey** 🔴 +24 | 3,273 |
+| 86 | **Marina Mabrey** 🔴 +27 | 3,276 |
 | 87 | **Stefanie Dolson** 🔴 +3 | 3,220 |
 | 88 | Margo Dydek | 3,214 |
 | 89 | Erica Wheeler | 3,195 |
@@ -1020,8 +1020,8 @@ _Last updated: 2026-07-12 21:03 UTC_
 | 174 | Sonja Henning | 194 |
 | 174 | Tierra Ruffin-Pratt | 194 |
 | 177 | Cynthia Cooper | 192 |
-| 178 | **Isabelle Harrison** 🔴 +1 | 191 |
-| 178 | Myisha Hines-Allen | 191 |
+| 177 | **Isabelle Harrison** 🔴 +2 | 192 |
+| 179 | Myisha Hines-Allen | 191 |
 | 180 | Tamicha Jackson | 188 |
 | 181 | Michele Timms | 187 |
 | 182 | **Sabrina Ionescu** 🔴 +2 | 186 |
@@ -1070,7 +1070,7 @@ _Last updated: 2026-07-12 21:03 UTC_
 | 20 | Sami Whitcomb | 511 |
 | 21 | Allie Quigley | 510 |
 | 22 | Leilani Mitchell | 508 |
-| 23 | **Marina Mabrey** 🔴 +2 | 502 |
+| 23 | **Marina Mabrey** 🔴 +3 | 503 |
 | 24 | **Sabrina Ionescu** 🔴 +3 | 471 |
 | 25 | Shekinna Stricklen | 468 |
 | 26 | **Breanna Stewart** 🔴 | 465 |
