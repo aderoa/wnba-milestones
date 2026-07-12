@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-12 19:03 UTC_
+_Last updated: 2026-07-12 19:04 UTC_
 
 ## Contents
 
@@ -180,7 +180,7 @@ _Last updated: 2026-07-12 19:03 UTC_
 | 159 | Coco Miller | 2,030 |
 | 160 | Diamond DeShields | 2,026 |
 | 161 | Vicky Bullett | 2,018 |
-| 162 | Natisha Hiedeman | 2,002 |
+| 162 | **Natisha Hiedeman** 🔴 +3 | 2,005 |
 | 163 | Ezi Magbegor | 1,995 |
 | 164 | Bria Hartley | 1,967 |
 | 165 | Chiney Ogwumike | 1,964 |
@@ -386,7 +386,7 @@ _Last updated: 2026-07-12 19:03 UTC_
 | 160 | Naz Hillmon | 859 |
 | 161 | Leilani Mitchell | 845 |
 | 162 | Essence Carson | 833 |
-| 163 | Shakira Austin | 832 |
+| 163 | **Shakira Austin** 🔴 | 832 |
 | 164 | Gabby Williams | 831 |
 | 165 | Kristi Toliver | 829 |
 | 166 | Marie Ferdinand-Harris | 828 |
@@ -516,7 +516,7 @@ _Last updated: 2026-07-12 19:03 UTC_
 | 84 | Ariel Atkins | 682 |
 | 85 | Emma Meesseman | 681 |
 | 86 | Nykesha Sales | 677 |
-| 87 | Natisha Hiedeman | 668 |
+| 87 | **Natisha Hiedeman** 🔴 | 668 |
 | 88 | A'ja Wilson | 667 |
 | 89 | Bria Hartley | 661 |
 | 90 | Brittney Griner | 660 |
@@ -742,7 +742,7 @@ _Last updated: 2026-07-12 19:03 UTC_
 | 105 | Natalie Williams | 122 |
 | 106 | Ebony Hoffman | 121 |
 | 106 | Essence Carson | 121 |
-| 108 | Shakira Austin | 119 |
+| 108 | **Shakira Austin** 🔴 | 119 |
 | 109 | Krystal Thomas | 118 |
 | 110 | Andrea Stinson | 117 |
 | 110 | Crystal Langhorne | 117 |
@@ -1011,7 +1011,7 @@ _Last updated: 2026-07-12 19:03 UTC_
 | 166 | Shameka Christon | 205 |
 | 167 | Jessica Breland | 204 |
 | 167 | Murriel Page | 204 |
-| 167 | Natisha Hiedeman | 204 |
+| 167 | **Natisha Hiedeman** 🔴 | 204 |
 | 167 | Shatori Walker-Kimbrough | 204 |
 | 171 | Adrienne Goodson | 203 |
 | 172 | Allie Quigley | 198 |
@@ -1110,7 +1110,7 @@ _Last updated: 2026-07-12 19:03 UTC_
 | 60 | Erica Wheeler | 337 |
 | 61 | Anna DeForge | 334 |
 | 61 | Sophie Cunningham | 334 |
-| 63 | Natisha Hiedeman | 328 |
+| 63 | **Natisha Hiedeman** 🔴 +1 | 329 |
 | 64 | Sugar Rodgers | 317 |
 | 65 | Marissa Coleman | 315 |
 | 66 | Shannon Johnson | 313 |
@@ -1194,7 +1194,7 @@ _Last updated: 2026-07-12 19:03 UTC_
 | 143 | Gabby Williams | 153 |
 | 143 | Jennifer Gillom | 153 |
 | 143 | Katie Lou Samuelson | 153 |
-| 147 | Michaela Onyenwere | 151 |
+| 147 | **Michaela Onyenwere** 🔴 | 151 |
 | 148 | Rita Williams | 150 |
 | 149 | Moriah Jefferson | 149 |
 | 149 | Tiffany Mitchell | 149 |
@@ -1440,7 +1440,7 @@ _Last updated: 2026-07-12 19:03 UTC_
 | 185 | Monique Billings | 314 |
 | 185 | Moriah Jefferson | 314 |
 | 187 | Alex Bentley | 313 |
-| 188 | Natisha Hiedeman | 312 |
+| 188 | **Natisha Hiedeman** 🔴 | 312 |
 | 189 | Tamika Raymond | 311 |
 | 190 | **Isabelle Harrison** 🔴 | 307 |
 | 191 | Erin Perperoglou | 305 |
