@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-12 21:07 UTC_
+_Last updated: 2026-07-12 21:08 UTC_
 
 ## Contents
 
@@ -881,8 +881,8 @@ _Last updated: 2026-07-12 21:07 UTC_
 | 36 | Maya Moore | 449 |
 | 37 | Kayla McBride | 446 |
 | 38 | Sheri Sam | 438 |
+| 39 | **Breanna Stewart** 🔴 +2 | 437 |
 | 39 | Camille Smith | 437 |
-| 40 | **Breanna Stewart** 🔴 +1 | 436 |
 | 41 | Candice Dupree | 431 |
 | 42 | Epiphanny Prince | 429 |
 | 43 | Tanisha Wright | 427 |
@@ -1345,7 +1345,7 @@ _Last updated: 2026-07-12 21:07 UTC_
 | 89 | Lauren Jackson | 549 |
 | 90 | Matee Ajavon | 544 |
 | 91 | Adrienne Goodson | 542 |
-| 92 | **Marina Mabrey** 🔴 +4 | 541 |
+| 91 | **Marina Mabrey** 🔴 +5 | 542 |
 | 93 | Layshia Clarendon | 536 |
 | 94 | Ivory Latta | 534 |
 | 94 | Iziane Castro Marques | 534 |
@@ -1623,7 +1623,7 @@ _Last updated: 2026-07-12 21:07 UTC_
 | 162 | Adrienne Goodson | 512 |
 | 162 | Janeth Arcain | 512 |
 | 164 | Andrea Stinson | 511 |
-| 165 | **Isabelle Harrison** 🔴 +5 | 510 |
+| 164 | **Isabelle Harrison** 🔴 +6 | 511 |
 | 166 | Vicky Bullett | 507 |
 | 167 | Merlakia Jones | 506 |
 | 168 | Rushia Brown | 505 |
