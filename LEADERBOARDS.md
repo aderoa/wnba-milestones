@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-12 20:50 UTC_
+_Last updated: 2026-07-12 20:51 UTC_
 
 ## Contents
 
@@ -1024,9 +1024,9 @@ _Last updated: 2026-07-12 20:50 UTC_
 | 179 | **Isabelle Harrison** 🔴 | 190 |
 | 180 | Tamicha Jackson | 188 |
 | 181 | Michele Timms | 187 |
-| 182 | Charde Houston | 185 |
-| 182 | **Sabrina Ionescu** 🔴 +1 | 185 |
-| 182 | Tiffany Jackson | 185 |
+| 182 | **Sabrina Ionescu** 🔴 +2 | 186 |
+| 183 | Charde Houston | 185 |
+| 183 | Tiffany Jackson | 185 |
 | 185 | Erin Perperoglou | 184 |
 | 186 | Rebecca Allen | 183 |
 | 187 | Erin Phillips | 182 |
