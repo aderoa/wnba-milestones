@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-12 21:15 UTC
+
+- **Sabrina Ionescu** reached **1,100** career assists (now 1,100) — _1:01 - 4th — NY @ TOR_
+
 ## 2026-07-12 21:10 UTC
 
 - **Marina Mabrey** passed **Adrienne Goodson** for **#91** all-time in turnovers (career 543) — up from #92 entering today — _1:48 - 4th — NY @ TOR_

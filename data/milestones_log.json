@@ -1,5 +1,14 @@
 [
   {
+    "ts": "2026-07-12T21:15:00+00:00",
+    "text": "Sabrina Ionescu reached 1,100 career assists (now 1,100) \u2014 (1:01 - 4th \u2014 NY @ TOR)",
+    "kind": "round",
+    "player": "Sabrina Ionescu",
+    "stat": "assists",
+    "value": 1100,
+    "new_total": 1100
+  },
+  {
     "ts": "2026-07-12T21:10:00+00:00",
     "text": "Marina Mabrey passed Adrienne Goodson for #91 all-time in turnovers (career 543) \u2014 up from #92 entering today \u2014 (1:48 - 4th \u2014 NY @ TOR)",
     "kind": "rank_pass",
@@ -3006,17 +3015,5 @@
       "Kayla Thornton"
     ],
     "new_total": 369
-  },
-  {
-    "ts": "2026-06-28T02:13:00+00:00",
-    "text": "Damiris Dantas passed Kristen Rasmussen for #153 all-time in fouls (career 534) \u2014 (2:12 - 4th \u2014 LA @ IND)",
-    "kind": "rank_pass",
-    "player": "Damiris Dantas",
-    "stat": "fouls",
-    "rank": 153,
-    "passed_players": [
-      "Kristen Rasmussen"
-    ],
-    "new_total": 534
   }
 ]
