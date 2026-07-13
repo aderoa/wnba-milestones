@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-13 01:27 UTC_
+_Last updated: 2026-07-13 01:28 UTC_
 
 ## Contents
 
@@ -291,8 +291,8 @@ _Last updated: 2026-07-13 01:27 UTC_
 | 65 | Sue Bird | 1,466 |
 | 66 | Cheyenne Parker-Tyus | 1,463 |
 | 67 | Nicole Powell | 1,457 |
-| 68 | **Monique Billings** 🔴 +2 | 1,433 |
-| 68 | Tamera Young | 1,433 |
+| 68 | **Monique Billings** 🔴 +3 | 1,434 |
+| 69 | Tamera Young | 1,433 |
 | 70 | Alana Beard | 1,420 |
 | 71 | Nakia Sanford | 1,419 |
 | 72 | Kayla Thornton | 1,408 |
@@ -532,10 +532,10 @@ _Last updated: 2026-07-13 01:27 UTC_
 | 100 | Natasha Howard | 615 |
 | 101 | Debbie Black | 612 |
 | 102 | Cynthia Cooper | 602 |
+| 103 | **Caitlin Clark** 🔴 +1 | 592 |
 | 103 | Sancho Lyttle | 592 |
-| 104 | Betnijah Laney-Hamilton | 591 |
-| 104 | **Caitlin Clark** 🔴 | 591 |
-| 104 | Gabby Williams | 591 |
+| 105 | Betnijah Laney-Hamilton | 591 |
+| 105 | Gabby Williams | 591 |
 | 107 | Camille Smith | 590 |
 | 108 | Armintie Herrington | 589 |
 | 109 | Veronica Burton | 579 |
@@ -1608,7 +1608,7 @@ _Last updated: 2026-07-13 01:27 UTC_
 | 146 | Kayla McBride | 543 |
 | 146 | Renee Montgomery | 543 |
 | 149 | Marissa Coleman | 541 |
-| 150 | **Sophie Cunningham** 🔴 | 538 |
+| 150 | **Sophie Cunningham** 🔴 +1 | 539 |
 | 151 | Myisha Hines-Allen | 535 |
 | 152 | Damiris Dantas | 533 |
 | 152 | Kristen Rasmussen | 533 |
