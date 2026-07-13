@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-13 02:43 UTC_
+_Last updated: 2026-07-13 02:44 UTC_
 
 ## Contents
 
@@ -1274,7 +1274,7 @@ _Last updated: 2026-07-13 02:43 UTC_
 | 18 | Cappie Pondexter | 945 |
 | 19 | Katie Smith | 935 |
 | 20 | Shannon Johnson | 934 |
-| 21 | **Chelsea Gray** 🔴 +4 | 931 |
+| 21 | **Chelsea Gray** 🔴 +5 | 932 |
 | 22 | Skylar Diggins | 907 |
 | 23 | Taj McWilliams-Franklin | 898 |
 | 24 | Candice Dupree | 869 |
@@ -1599,9 +1599,9 @@ _Last updated: 2026-07-13 02:43 UTC_
 | 138 | Jessica Breland | 562 |
 | 139 | **A'ja Wilson** 🔴 +1 | 555 |
 | 140 | Dawn Staley | 551 |
-| 141 | Glory Johnson | 550 |
-| 141 | **Jackie Young** 🔴 +2 | 550 |
-| 141 | Tierra Ruffin-Pratt | 550 |
+| 140 | **Jackie Young** 🔴 +3 | 551 |
+| 142 | Glory Johnson | 550 |
+| 142 | Tierra Ruffin-Pratt | 550 |
 | 144 | **Monique Billings** 🔴 +1 | 547 |
 | 145 | Erlana Larkins | 546 |
 | 146 | Jayne Appel Marinelli | 543 |
