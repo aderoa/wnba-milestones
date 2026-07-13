@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-13 01:17 UTC_
+_Last updated: 2026-07-13 01:18 UTC_
 
 ## Contents
 
@@ -33,7 +33,7 @@ _Last updated: 2026-07-13 01:17 UTC_
 | 12 | Sylvia Fowles | 6,413 |
 | 13 | Breanna Stewart | 6,357 |
 | 14 | Lisa Leslie | 6,251 |
-| 15 | **A'ja Wilson** 🔴 +2 | 6,180 |
+| 15 | **A'ja Wilson** 🔴 +4 | 6,182 |
 | 16 | **Jewell Loyd** 🔴 +2 | 6,150 |
 | 17 | Brittney Griner | 6,087 |
 | 18 | Lauren Jackson | 6,005 |
@@ -200,7 +200,7 @@ _Last updated: 2026-07-13 01:17 UTC_
 | 179 | **NaLyssa Smith** 🔴 +3 | 1,882 |
 | 180 | Rachel Banham | 1,846 |
 | 181 | Damiris Dantas | 1,842 |
-| 182 | **Sophie Cunningham** 🔴 +3 | 1,832 |
+| 182 | **Sophie Cunningham** 🔴 +5 | 1,834 |
 | 183 | Tianna Hawkins | 1,825 |
 | 184 | Noelle Quinn | 1,824 |
 | 185 | Danielle Adams | 1,820 |
@@ -462,7 +462,7 @@ _Last updated: 2026-07-13 01:17 UTC_
 | 30 | Leilani Mitchell | 1,197 |
 | 31 | DeWanna Bonner | 1,196 |
 | 32 | **Jewell Loyd** 🔴 | 1,156 |
-| 33 | **Jackie Young** 🔴 +1 | 1,151 |
+| 33 | **Jackie Young** 🔴 +2 | 1,152 |
 | 34 | Renee Montgomery | 1,140 |
 | 35 | Swin Cash | 1,131 |
 | 36 | Sabrina Ionescu | 1,100 |
@@ -496,7 +496,7 @@ _Last updated: 2026-07-13 01:17 UTC_
 | 64 | Lisa Leslie | 873 |
 | 65 | Brittney Sykes | 866 |
 | 66 | Tully Bevilaqua | 853 |
-| 67 | **Kelsey Mitchell** 🔴 +1 | 848 |
+| 67 | **Kelsey Mitchell** 🔴 +2 | 849 |
 | 68 | Jia Perkins | 837 |
 | 69 | Andrea Stinson | 810 |
 | 70 | Marina Mabrey | 806 |
@@ -607,7 +607,7 @@ _Last updated: 2026-07-13 01:17 UTC_
 | 174 | Tamicha Jackson | 389 |
 | 176 | Riquna Williams | 387 |
 | 177 | Bridget Carleton | 384 |
-| 178 | Dana Evans | 379 |
+| 178 | **Dana Evans** 🔴 | 379 |
 | 179 | Jessica Breland | 377 |
 | 180 | Shenise Johnson | 376 |
 | 181 | Alanna Smith | 374 |
@@ -1183,7 +1183,7 @@ _Last updated: 2026-07-13 01:17 UTC_
 | 133 | **Tyasha Harris** 🔴 +1 | 163 |
 | 134 | Ukari Figgs | 162 |
 | 135 | Edna Campbell | 161 |
-| 136 | Dana Evans | 160 |
+| 136 | **Dana Evans** 🔴 | 160 |
 | 136 | Jennifer Lacy | 160 |
 | 136 | **Stephanie Talbot** 🔴 | 160 |
 | 139 | Aari McDonald | 158 |
