@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-13 03:01 UTC_
+_Last updated: 2026-07-13 03:02 UTC_
 
 ## Contents
 
@@ -200,7 +200,7 @@ _Last updated: 2026-07-13 03:01 UTC_
 | 179 | **NaLyssa Smith** 🔴 +9 | 1,888 |
 | 180 | **Sophie Cunningham** 🔴 +20 | 1,849 |
 | 181 | Rachel Banham | 1,846 |
-| 182 | Damiris Dantas | 1,842 |
+| 182 | **Damiris Dantas** 🔴 | 1,842 |
 | 183 | Tianna Hawkins | 1,825 |
 | 184 | Noelle Quinn | 1,824 |
 | 185 | Danielle Adams | 1,820 |
@@ -357,7 +357,7 @@ _Last updated: 2026-07-13 03:01 UTC_
 | 131 | Kelly Miller | 1,011 |
 | 131 | Noelle Quinn | 1,011 |
 | 133 | Skylar Diggins | 1,008 |
-| 134 | Damiris Dantas | 1,005 |
+| 134 | **Damiris Dantas** 🔴 | 1,005 |
 | 135 | Tiffany Jackson | 1,002 |
 | 136 | Tianna Hawkins | 1,000 |
 | 137 | Marissa Coleman | 995 |
@@ -612,7 +612,7 @@ _Last updated: 2026-07-13 03:01 UTC_
 | 180 | Shenise Johnson | 376 |
 | 181 | Alanna Smith | 374 |
 | 182 | Suzie McConnell Serio | 370 |
-| 183 | Damiris Dantas | 368 |
+| 183 | **Damiris Dantas** 🔴 | 368 |
 | 183 | Kayla Thornton | 368 |
 | 185 | Roneeka Hodges | 362 |
 | 186 | Andrea Nagy | 361 |
@@ -794,7 +794,7 @@ _Last updated: 2026-07-13 03:01 UTC_
 | 156 | Shatori Walker-Kimbrough | 84 |
 | 158 | Tamera Young | 83 |
 | 159 | Cameron Brink | 82 |
-| 159 | Damiris Dantas | 82 |
+| 159 | **Damiris Dantas** 🔴 | 82 |
 | 161 | Charlotte Smith | 81 |
 | 161 | Cintia dos Santos | 81 |
 | 161 | Jessie Hicks | 81 |
@@ -1152,7 +1152,7 @@ _Last updated: 2026-07-13 03:01 UTC_
 | 102 | Essence Carson | 223 |
 | 103 | Kelly Mazzante | 218 |
 | 103 | Sheri Sam | 218 |
-| 105 | Damiris Dantas | 212 |
+| 105 | **Damiris Dantas** 🔴 | 212 |
 | 106 | Erin Phillips | 211 |
 | 107 | Andrea Stinson | 207 |
 | 108 | Betnijah Laney-Hamilton | 206 |
@@ -1452,7 +1452,7 @@ _Last updated: 2026-07-13 03:01 UTC_
 | 196 | Crystal Robinson | 299 |
 | 197 | Kayla Thornton | 298 |
 | 198 | Michele Timms | 297 |
-| 199 | Damiris Dantas | 289 |
+| 199 | **Damiris Dantas** 🔴 | 289 |
 | 199 | Nia Coffey | 289 |
 
 ## Personal fouls
@@ -1610,7 +1610,7 @@ _Last updated: 2026-07-13 03:01 UTC_
 | 149 | Marissa Coleman | 541 |
 | 150 | **Sophie Cunningham** 🔴 +2 | 540 |
 | 151 | Myisha Hines-Allen | 535 |
-| 152 | Damiris Dantas | 533 |
+| 152 | **Damiris Dantas** 🔴 | 533 |
 | 152 | Kristen Rasmussen | 533 |
 | 154 | Amanda Zahui B | 530 |
 | 155 | Candice Wiggins | 525 |
