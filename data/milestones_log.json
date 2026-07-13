@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-07-13T02:30:00+00:00",
+    "text": "Dana Evans passed Jennifer Lacy and Stephanie Talbot for #137 all-time in three-pointers (career 161) \u2014 (2:44 - 3rd \u2014 IND @ LV)",
+    "kind": "rank_pass",
+    "player": "Dana Evans",
+    "stat": "three-pointers",
+    "rank": 137,
+    "passed_players": [
+      "Jennifer Lacy",
+      "Stephanie Talbot"
+    ],
+    "new_total": 161
+  },
+  {
     "ts": "2026-07-13T00:20:00+00:00",
     "text": "Azur\u00e1 Stevens passed Erlana Larkins for #84 all-time in rebounds (career 1,330) \u2014 up from #87 entering today \u2014 (3:03 - 3rd \u2014 CHI @ DAL)",
     "kind": "rank_pass",
@@ -3006,14 +3019,5 @@
       "Riquna Williams"
     ],
     "new_total": 2660
-  },
-  {
-    "ts": "2026-06-28T02:26:00+00:00",
-    "text": "Jade Melbourne reached 700 career points (now 700) \u2014 (1:56 - 3rd \u2014 ATL @ SEA)",
-    "kind": "round",
-    "player": "Jade Melbourne",
-    "stat": "points",
-    "value": 700,
-    "new_total": 700
   }
 ]

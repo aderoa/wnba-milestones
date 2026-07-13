@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-13 02:30 UTC
+
+- **Dana Evans** passed **Jennifer Lacy** and **Stephanie Talbot** for **#137** all-time in three-pointers (career 161) — _2:44 - 3rd — IND @ LV_
+
 ## 2026-07-13 00:20 UTC
 
 - **Azurá Stevens** passed **Erlana Larkins** for **#84** all-time in rebounds (career 1,330) — up from #87 entering today — _3:03 - 3rd — CHI @ DAL_
