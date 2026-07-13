@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-13 00:34 UTC_
+_Last updated: 2026-07-13 00:35 UTC_
 
 ## Contents
 
@@ -150,7 +150,7 @@ _Last updated: 2026-07-13 00:34 UTC_
 | 129 | Anna DeForge | 2,413 |
 | 130 | Kayla Thornton | 2,393 |
 | 131 | DeMya Walker | 2,379 |
-| 132 | **Azurá Stevens** 🔴 +11 | 2,354 |
+| 132 | **Azurá Stevens** 🔴 +13 | 2,356 |
 | 133 | Alex Bentley | 2,350 |
 | 134 | Jordin Canada | 2,342 |
 | 135 | Betnijah Laney-Hamilton | 2,308 |
@@ -431,7 +431,7 @@ _Last updated: 2026-07-13 00:34 UTC_
 | Rank | Player | Total |
 |-----:|--------|------:|
 | 1 | Sue Bird | 3,234 |
-| 2 | **Courtney Vandersloot** 🔴 +2 | 2,896 |
+| 2 | **Courtney Vandersloot** 🔴 +3 | 2,897 |
 | 3 | Ticha Penicheiro | 2,588 |
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
@@ -1633,10 +1633,10 @@ _Last updated: 2026-07-13 00:34 UTC_
 | 170 | Napheesa Collier | 504 |
 | 173 | Iziane Castro Marques | 502 |
 | 174 | Elena Baranova | 501 |
+| 175 | **Azurá Stevens** 🔴 +3 | 498 |
 | 175 | **Rachel Banham** 🔴 +1 | 498 |
-| 176 | Adrian Williams-Strong | 497 |
-| 176 | **Azurá Stevens** 🔴 +2 | 497 |
-| 176 | Essence Carson | 497 |
+| 177 | Adrian Williams-Strong | 497 |
+| 177 | Essence Carson | 497 |
 | 179 | Nia Coffey | 495 |
 | 180 | Karima Christmas-Kelly | 494 |
 | 181 | Ann Wauters | 493 |
