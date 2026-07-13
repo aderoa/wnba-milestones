@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-13 02:15 UTC_
+_Last updated: 2026-07-13 02:16 UTC_
 
 ## Contents
 
@@ -33,7 +33,7 @@ _Last updated: 2026-07-13 02:15 UTC_
 | 12 | Sylvia Fowles | 6,413 |
 | 13 | Breanna Stewart | 6,357 |
 | 14 | Lisa Leslie | 6,251 |
-| 15 | **A'ja Wilson** 🔴 +12 | 6,190 |
+| 15 | **A'ja Wilson** 🔴 +14 | 6,192 |
 | 16 | **Jewell Loyd** 🔴 +8 | 6,156 |
 | 17 | Brittney Griner | 6,087 |
 | 18 | Lauren Jackson | 6,005 |
@@ -83,7 +83,7 @@ _Last updated: 2026-07-13 02:15 UTC_
 | 62 | Allie Quigley | 3,786 |
 | 63 | Chasity Melvin | 3,781 |
 | 64 | Brittney Sykes | 3,726 |
-| 65 | **Jackie Young** 🔴 +10 | 3,708 |
+| 65 | **Jackie Young** 🔴 +13 | 3,711 |
 | 66 | Kara Lawson | 3,670 |
 | 67 | Odyssey Sims | 3,577 |
 | 68 | Mwadi Mabika | 3,576 |
@@ -329,7 +329,7 @@ _Last updated: 2026-07-13 02:15 UTC_
 | 103 | Latasha Byears | 1,190 |
 | 103 | Tanisha Wright | 1,190 |
 | 105 | Vicky Bullett | 1,189 |
-| 106 | **NaLyssa Smith** 🔴 +3 | 1,175 |
+| 106 | **NaLyssa Smith** 🔴 +4 | 1,176 |
 | 107 | Brittney Sykes | 1,162 |
 | 108 | Nykesha Sales | 1,148 |
 | 109 | Natasha Cloud | 1,143 |
@@ -435,7 +435,7 @@ _Last updated: 2026-07-13 02:15 UTC_
 | 3 | Ticha Penicheiro | 2,588 |
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
-| 6 | **Chelsea Gray** 🔴 +5 | 2,008 |
+| 6 | **Chelsea Gray** 🔴 +6 | 2,009 |
 | 7 | Alyssa Thomas | 1,971 |
 | 8 | Skylar Diggins | 1,852 |
 | 9 | Natasha Cloud | 1,805 |
@@ -1101,7 +1101,7 @@ _Last updated: 2026-07-13 02:15 UTC_
 | 51 | Epiphanny Prince | 368 |
 | 51 | Kia Nurse | 368 |
 | 53 | Nykesha Sales | 352 |
-| 54 | **Jackie Young** 🔴 | 346 |
+| 54 | **Jackie Young** 🔴 +1 | 347 |
 | 55 | Natasha Cloud | 345 |
 | 56 | Cathrine Kraayeveld | 343 |
 | 56 | Elena Delle Donne | 343 |
