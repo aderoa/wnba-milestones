@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-13 00:11 UTC_
+_Last updated: 2026-07-13 00:12 UTC_
 
 ## Contents
 
@@ -150,8 +150,8 @@ _Last updated: 2026-07-13 00:11 UTC_
 | 129 | Anna DeForge | 2,413 |
 | 130 | Kayla Thornton | 2,393 |
 | 131 | DeMya Walker | 2,379 |
-| 132 | Alex Bentley | 2,350 |
-| 133 | **Azurá Stevens** 🔴 +5 | 2,348 |
+| 132 | **Azurá Stevens** 🔴 +8 | 2,351 |
+| 133 | Alex Bentley | 2,350 |
 | 134 | Jordin Canada | 2,342 |
 | 135 | Betnijah Laney-Hamilton | 2,308 |
 | 135 | Merlakia Jones | 2,308 |
@@ -308,9 +308,9 @@ _Last updated: 2026-07-13 00:11 UTC_
 | 82 | Elena Baranova | 1,335 |
 | 83 | Brionna Jones | 1,333 |
 | 84 | Erlana Larkins | 1,329 |
+| 85 | **Azurá Stevens** 🔴 +8 | 1,327 |
 | 85 | Mwadi Mabika | 1,327 |
-| 86 | **Azurá Stevens** 🔴 +7 | 1,326 |
-| 86 | Jayne Appel Marinelli | 1,326 |
+| 87 | Jayne Appel Marinelli | 1,326 |
 | 88 | Betty Lennox | 1,296 |
 | 89 | Tari Phillips | 1,274 |
 | 90 | Myisha Hines-Allen | 1,265 |
@@ -1138,7 +1138,7 @@ _Last updated: 2026-07-13 00:11 UTC_
 | 88 | Bria Hartley | 253 |
 | 88 | Nneka Ogwumike | 253 |
 | 90 | Angel McCoughtry | 249 |
-| 91 | **Azurá Stevens** 🔴 +1 | 248 |
+| 90 | **Azurá Stevens** 🔴 +2 | 249 |
 | 92 | Brittney Sykes | 247 |
 | 93 | Erin Thorn | 243 |
 | 94 | Alex Bentley | 239 |
