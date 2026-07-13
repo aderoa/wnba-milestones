@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-13 02:57 UTC
+
+- **Dana Evans** passed **Edna Campbell** for **#135** all-time in three-pointers (career 162) — up from #136 entering today — _2:35 - 4th — IND @ LV_
+
 ## 2026-07-13 02:54 UTC
 
 - **Sophie Cunningham** passed **Rachel Banham** for **#180** all-time in points (career 1,846) — up from #182 entering today — _3:47 - 4th — IND @ LV_
