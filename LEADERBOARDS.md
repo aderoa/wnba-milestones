@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-13 00:19 UTC_
+_Last updated: 2026-07-13 00:20 UTC_
 
 ## Contents
 
@@ -256,7 +256,7 @@ _Last updated: 2026-07-13 00:19 UTC_
 | 30 | Chamique Holdsclaw | 2,123 |
 | 31 | Chasity Melvin | 2,097 |
 | 32 | Tammy Sutton-Brown | 2,010 |
-| 33 | **Elizabeth Williams** 🔴 +1 | 1,979 |
+| 33 | **Elizabeth Williams** 🔴 +2 | 1,980 |
 | 34 | Cheryl Ford | 1,907 |
 | 35 | Courtney Williams | 1,843 |
 | 36 | Kiah Stokes | 1,835 |
@@ -307,8 +307,8 @@ _Last updated: 2026-07-13 00:19 UTC_
 | 81 | Emma Meesseman | 1,350 |
 | 82 | Elena Baranova | 1,335 |
 | 83 | Brionna Jones | 1,333 |
-| 84 | **Azurá Stevens** 🔴 +10 | 1,329 |
-| 84 | Erlana Larkins | 1,329 |
+| 84 | **Azurá Stevens** 🔴 +11 | 1,330 |
+| 85 | Erlana Larkins | 1,329 |
 | 86 | Mwadi Mabika | 1,327 |
 | 87 | Jayne Appel Marinelli | 1,326 |
 | 88 | Betty Lennox | 1,296 |
@@ -352,7 +352,7 @@ _Last updated: 2026-07-13 00:19 UTC_
 | 126 | Kamila Vodichkova | 1,031 |
 | 127 | Jasmine Thomas | 1,027 |
 | 128 | Sabrina Ionescu | 1,024 |
-| 129 | **Jessica Shepard** 🔴 +6 | 1,022 |
+| 129 | **Jessica Shepard** 🔴 +7 | 1,023 |
 | 130 | Cathrine Kraayeveld | 1,013 |
 | 131 | Kelly Miller | 1,011 |
 | 131 | Noelle Quinn | 1,011 |
@@ -1444,7 +1444,7 @@ _Last updated: 2026-07-13 00:19 UTC_
 | 188 | Alex Bentley | 313 |
 | 189 | Isabelle Harrison | 311 |
 | 189 | Tamika Raymond | 311 |
-| 191 | **Azurá Stevens** 🔴 +2 | 306 |
+| 191 | **Azurá Stevens** 🔴 +3 | 307 |
 | 192 | Erin Perperoglou | 305 |
 | 192 | Jennifer Lacy | 305 |
 | 194 | Tianna Hawkins | 303 |

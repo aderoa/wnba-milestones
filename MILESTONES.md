@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-13 00:20 UTC
+
+- **Azurá Stevens** passed **Erlana Larkins** for **#84** all-time in rebounds (career 1,330) — up from #87 entering today — _3:03 - 3rd — CHI @ DAL_
+
 ## 2026-07-12 21:16 UTC
 
 - **Sabrina Ionescu** passed **Michele Timms** for **#181** all-time in steals (career 188) — up from #185 entering today — _36.2 - 4th — NY @ TOR_
