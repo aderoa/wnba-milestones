@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-13 02:14 UTC_
+_Last updated: 2026-07-13 02:15 UTC_
 
 ## Contents
 
@@ -83,7 +83,7 @@ _Last updated: 2026-07-13 02:14 UTC_
 | 62 | Allie Quigley | 3,786 |
 | 63 | Chasity Melvin | 3,781 |
 | 64 | Brittney Sykes | 3,726 |
-| 65 | **Jackie Young** 🔴 +8 | 3,706 |
+| 65 | **Jackie Young** 🔴 +10 | 3,708 |
 | 66 | Kara Lawson | 3,670 |
 | 67 | Odyssey Sims | 3,577 |
 | 68 | Mwadi Mabika | 3,576 |
@@ -237,7 +237,7 @@ _Last updated: 2026-07-13 02:14 UTC_
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | Alyssa Thomas | 2,858 |
 | 13 | Jonquel Jones | 2,738 |
-| 14 | **A'ja Wilson** 🔴 +6 | 2,663 |
+| 14 | **A'ja Wilson** 🔴 +9 | 2,666 |
 | 15 | Breanna Stewart | 2,640 |
 | 16 | Sancho Lyttle | 2,596 |
 | 17 | Brittney Griner | 2,579 |
@@ -706,8 +706,8 @@ _Last updated: 2026-07-13 02:14 UTC_
 | 69 | Jantel Lavender | 170 |
 | 70 | Camille Smith | 169 |
 | 71 | Shameka Christon | 165 |
-| 72 | **Aliyah Boston** 🔴 | 160 |
-| 72 | Cheryl Ford | 160 |
+| 72 | **Aliyah Boston** 🔴 +1 | 161 |
+| 73 | Cheryl Ford | 160 |
 | 74 | Allisha Gray | 157 |
 | 74 | Kara Braxton | 157 |
 | 76 | DeMya Walker | 155 |
