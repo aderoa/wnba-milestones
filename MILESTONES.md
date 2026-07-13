@@ -2,6 +2,11 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-13 02:49 UTC
+
+- **Sophie Cunningham** passed **Damiris Dantas** for **#181** all-time in points (career 1,843) — up from #182 entering today — _4:56 - 4th — IND @ LV_
+- **Sophie Cunningham** passed **Erica Wheeler** for **#60** all-time in three-pointers (career 338) — up from #62 entering today — _4:56 - 4th — IND @ LV_
+
 ## 2026-07-13 02:30 UTC
 
 - **Dana Evans** passed **Jennifer Lacy** and **Stephanie Talbot** for **#137** all-time in three-pointers (career 161) — _2:44 - 3rd — IND @ LV_

@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-13 02:48 UTC_
+_Last updated: 2026-07-13 02:49 UTC_
 
 ## Contents
 
@@ -33,7 +33,7 @@ _Last updated: 2026-07-13 02:48 UTC_
 | 12 | Sylvia Fowles | 6,413 |
 | 13 | Breanna Stewart | 6,357 |
 | 14 | Lisa Leslie | 6,251 |
-| 15 | **A'ja Wilson** 🔴 +18 | 6,196 |
+| 15 | **A'ja Wilson** 🔴 +20 | 6,198 |
 | 16 | **Jewell Loyd** 🔴 +8 | 6,156 |
 | 17 | Brittney Griner | 6,087 |
 | 18 | Lauren Jackson | 6,005 |
@@ -199,8 +199,8 @@ _Last updated: 2026-07-13 02:48 UTC_
 | 178 | Gabby Williams | 1,899 |
 | 179 | **NaLyssa Smith** 🔴 +9 | 1,888 |
 | 180 | Rachel Banham | 1,846 |
-| 181 | Damiris Dantas | 1,842 |
-| 182 | **Sophie Cunningham** 🔴 +11 | 1,840 |
+| 181 | **Sophie Cunningham** 🔴 +14 | 1,843 |
+| 182 | Damiris Dantas | 1,842 |
 | 183 | Tianna Hawkins | 1,825 |
 | 184 | Noelle Quinn | 1,824 |
 | 185 | Danielle Adams | 1,820 |
@@ -291,7 +291,7 @@ _Last updated: 2026-07-13 02:48 UTC_
 | 65 | Sue Bird | 1,466 |
 | 66 | **Cheyenne Parker-Tyus** 🔴 | 1,463 |
 | 67 | Nicole Powell | 1,457 |
-| 68 | **Monique Billings** 🔴 +4 | 1,435 |
+| 68 | **Monique Billings** 🔴 +5 | 1,436 |
 | 69 | Tamera Young | 1,433 |
 | 70 | Alana Beard | 1,420 |
 | 71 | Nakia Sanford | 1,419 |
@@ -641,7 +641,7 @@ _Last updated: 2026-07-13 02:48 UTC_
 | 4 | Sylvia Fowles | 721 |
 | 5 | Candace Parker | 619 |
 | 6 | Lauren Jackson | 586 |
-| 7 | **A'ja Wilson** 🔴 +1 | 569 |
+| 7 | **A'ja Wilson** 🔴 +2 | 570 |
 | 8 | Tammy Sutton-Brown | 555 |
 | 9 | Tangela Smith | 554 |
 | 10 | Ruth Riley | 505 |
@@ -1107,8 +1107,8 @@ _Last updated: 2026-07-13 02:48 UTC_
 | 56 | Elena Delle Donne | 343 |
 | 58 | Candace Parker | 342 |
 | 59 | Deanna Nolan | 340 |
-| 60 | Erica Wheeler | 337 |
-| 60 | **Sophie Cunningham** 🔴 +3 | 337 |
+| 60 | **Sophie Cunningham** 🔴 +4 | 338 |
+| 61 | Erica Wheeler | 337 |
 | 62 | Anna DeForge | 334 |
 | 63 | Natisha Hiedeman | 330 |
 | 64 | Sugar Rodgers | 317 |

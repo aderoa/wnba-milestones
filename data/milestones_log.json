@@ -1,5 +1,29 @@
 [
   {
+    "ts": "2026-07-13T02:49:00+00:00",
+    "text": "Sophie Cunningham passed Damiris Dantas for #181 all-time in points (career 1,843) \u2014 up from #182 entering today \u2014 (4:56 - 4th \u2014 IND @ LV)",
+    "kind": "rank_pass",
+    "player": "Sophie Cunningham",
+    "stat": "points",
+    "rank": 181,
+    "passed_players": [
+      "Damiris Dantas"
+    ],
+    "new_total": 1843
+  },
+  {
+    "ts": "2026-07-13T02:49:00+00:00",
+    "text": "Sophie Cunningham passed Erica Wheeler for #60 all-time in three-pointers (career 338) \u2014 up from #62 entering today \u2014 (4:56 - 4th \u2014 IND @ LV)",
+    "kind": "rank_pass",
+    "player": "Sophie Cunningham",
+    "stat": "three-pointers",
+    "rank": 60,
+    "passed_players": [
+      "Erica Wheeler"
+    ],
+    "new_total": 338
+  },
+  {
     "ts": "2026-07-13T02:30:00+00:00",
     "text": "Dana Evans passed Jennifer Lacy and Stephanie Talbot for #137 all-time in three-pointers (career 161) \u2014 (2:44 - 3rd \u2014 IND @ LV)",
     "kind": "rank_pass",
@@ -2995,29 +3019,5 @@
       "Vicky Bullett"
     ],
     "new_total": 2019
-  },
-  {
-    "ts": "2026-06-28T02:59:00+00:00",
-    "text": "Jordin Canada passed Kelsey Plum for #25 all-time in assists (career 1,271) \u2014 up from #26 entering today \u2014 (4:13 - 4th \u2014 ATL @ SEA)",
-    "kind": "rank_pass",
-    "player": "Jordin Canada",
-    "stat": "assists",
-    "rank": 25,
-    "passed_players": [
-      "Kelsey Plum"
-    ],
-    "new_total": 1271
-  },
-  {
-    "ts": "2026-06-28T02:43:00+00:00",
-    "text": "Rhyne Howard passed Riquna Williams for #110 all-time in points (career 2,660) \u2014 up from #115 entering today \u2014 (6:17 - 4th \u2014 ATL @ SEA)",
-    "kind": "rank_pass",
-    "player": "Rhyne Howard",
-    "stat": "points",
-    "rank": 110,
-    "passed_players": [
-      "Riquna Williams"
-    ],
-    "new_total": 2660
   }
 ]
