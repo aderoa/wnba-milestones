@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-13 23:30 UTC_
+_Last updated: 2026-07-13 23:31 UTC_
 
 ## Contents
 
@@ -296,7 +296,7 @@ _Last updated: 2026-07-13 23:30 UTC_
 | 70 | Alana Beard | 1,420 |
 | 71 | Nakia Sanford | 1,419 |
 | 72 | Kayla Thornton | 1,408 |
-| 73 | **Allisha Gray** 🔴 | 1,404 |
+| 73 | **Allisha Gray** 🔴 +1 | 1,405 |
 | 74 | Kara Braxton | 1,387 |
 | 75 | Courtney Vandersloot | 1,386 |
 | 76 | Katie Smith | 1,383 |
@@ -507,7 +507,7 @@ _Last updated: 2026-07-13 23:30 UTC_
 | 75 | Sheri Sam | 745 |
 | 76 | Monique Currie | 740 |
 | 77 | Elaine Powell | 728 |
-| 78 | **Dearica Hamby** 🔴 | 726 |
+| 78 | **Dearica Hamby** 🔴 +1 | 727 |
 | 79 | Stefanie Dolson | 707 |
 | 80 | Chamique Holdsclaw | 698 |
 | 81 | Shavonte Zellous | 693 |
@@ -756,8 +756,8 @@ _Last updated: 2026-07-13 23:30 UTC_
 | 119 | Courtney Williams | 109 |
 | 120 | Erin Perperoglou | 108 |
 | 120 | Glory Johnson | 108 |
-| 122 | **Dearica Hamby** 🔴 | 106 |
-| 122 | Sylvia Crawley | 106 |
+| 122 | **Dearica Hamby** 🔴 +1 | 107 |
+| 123 | Sylvia Crawley | 106 |
 | 124 | Carolyn Swords | 104 |
 | 124 | Rebecca Lobo | 104 |
 | 126 | Jennifer Gillom | 103 |
