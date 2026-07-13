@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-13 03:00 UTC_
+_Last updated: 2026-07-13 03:01 UTC_
 
 ## Contents
 
@@ -198,8 +198,8 @@ _Last updated: 2026-07-13 03:00 UTC_
 | 177 | Candice Wiggins | 1,901 |
 | 178 | Gabby Williams | 1,899 |
 | 179 | **NaLyssa Smith** 🔴 +9 | 1,888 |
-| 180 | Rachel Banham | 1,846 |
-| 180 | **Sophie Cunningham** 🔴 +17 | 1,846 |
+| 180 | **Sophie Cunningham** 🔴 +20 | 1,849 |
+| 181 | Rachel Banham | 1,846 |
 | 182 | Damiris Dantas | 1,842 |
 | 183 | Tianna Hawkins | 1,825 |
 | 184 | Noelle Quinn | 1,824 |
@@ -570,7 +570,7 @@ _Last updated: 2026-07-13 03:00 UTC_
 | 138 | Janeth Arcain | 469 |
 | 139 | Erin Phillips | 462 |
 | 140 | Sylvia Fowles | 461 |
-| 141 | **Tyasha Harris** 🔴 | 460 |
+| 140 | **Tyasha Harris** 🔴 +1 | 461 |
 | 142 | Sug Sutton | 457 |
 | 143 | Julie Allemand | 454 |
 | 143 | Sydney Colson | 454 |
@@ -1107,7 +1107,7 @@ _Last updated: 2026-07-13 03:00 UTC_
 | 56 | Elena Delle Donne | 343 |
 | 58 | Candace Parker | 342 |
 | 59 | Deanna Nolan | 340 |
-| 60 | **Sophie Cunningham** 🔴 +5 | 339 |
+| 59 | **Sophie Cunningham** 🔴 +6 | 340 |
 | 61 | Erica Wheeler | 337 |
 | 62 | Anna DeForge | 334 |
 | 63 | Natisha Hiedeman | 330 |
