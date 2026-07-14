@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-14 01:33 UTC_
+_Last updated: 2026-07-14 01:34 UTC_
 
 ## Contents
 
@@ -88,7 +88,7 @@ _Last updated: 2026-07-14 01:33 UTC_
 | 67 | Mwadi Mabika | 3,576 |
 | 68 | Odyssey Sims | 3,574 |
 | 69 | Camille Smith | 3,551 |
-| 70 | **Napheesa Collier** 🔴 | 3,542 |
+| 70 | Napheesa Collier | 3,542 |
 | 70 | Shannon Johnson | 3,542 |
 | 72 | Renee Montgomery | 3,533 |
 | 73 | Jasmine Thomas | 3,522 |
@@ -285,7 +285,7 @@ _Last updated: 2026-07-14 01:33 UTC_
 | 59 | Angel McCoughtry | 1,561 |
 | 60 | Penny Taylor | 1,552 |
 | 61 | Cappie Pondexter | 1,513 |
-| 62 | **Napheesa Collier** 🔴 | 1,510 |
+| 62 | Napheesa Collier | 1,510 |
 | 63 | Ticha Penicheiro | 1,485 |
 | 64 | Alysha Clark | 1,469 |
 | 65 | Sue Bird | 1,466 |
@@ -541,7 +541,7 @@ _Last updated: 2026-07-14 01:33 UTC_
 | 109 | Veronica Burton | 579 |
 | 110 | Tan White | 578 |
 | 111 | Matee Ajavon | 577 |
-| 112 | **Napheesa Collier** 🔴 | 570 |
+| 112 | Napheesa Collier | 570 |
 | 113 | Nicole Powell | 567 |
 | 114 | Loree Moore | 562 |
 | 115 | Sophia Young-Malcolm | 554 |
@@ -673,7 +673,7 @@ _Last updated: 2026-07-14 01:33 UTC_
 | 36 | Cheyenne Parker-Tyus | 261 |
 | 37 | Swin Cash | 258 |
 | 38 | Plenette Pierson | 242 |
-| 39 | **Napheesa Collier** 🔴 | 239 |
+| 39 | Napheesa Collier | 239 |
 | 40 | Emma Meesseman | 238 |
 | 41 | Azurá Stevens | 236 |
 | 42 | Brianna Turner | 234 |
@@ -929,7 +929,7 @@ _Last updated: 2026-07-14 01:33 UTC_
 | 83 | Kristi Toliver | 329 |
 | 85 | Matee Ajavon | 328 |
 | 86 | Gabby Williams | 326 |
-| 87 | **Napheesa Collier** 🔴 | 325 |
+| 87 | Napheesa Collier | 325 |
 | 88 | Betty Lennox | 323 |
 | 89 | Tammy Sutton-Brown | 319 |
 | 90 | Alysha Clark | 317 |
@@ -1165,7 +1165,7 @@ _Last updated: 2026-07-14 01:33 UTC_
 | 115 | Lindsay Whalen | 193 |
 | 116 | Victoria Vivians | 192 |
 | 117 | Danielle Adams | 188 |
-| 117 | **Napheesa Collier** 🔴 | 188 |
+| 117 | Napheesa Collier | 188 |
 | 119 | Noelle Quinn | 184 |
 | 120 | Marine Johannès | 183 |
 | 121 | Karima Christmas-Kelly | 181 |
@@ -1391,7 +1391,7 @@ _Last updated: 2026-07-14 01:33 UTC_
 | 136 | Murriel Page | 432 |
 | 137 | Shameka Christon | 424 |
 | 138 | Cynthia Cooper | 422 |
-| 138 | **Napheesa Collier** 🔴 | 422 |
+| 138 | Napheesa Collier | 422 |
 | 138 | Noelle Quinn | 422 |
 | 141 | Bria Hartley | 419 |
 | 142 | **Sami Whitcomb** 🔴 +1 | 417 |
@@ -1629,7 +1629,7 @@ _Last updated: 2026-07-14 01:33 UTC_
 | 167 | Shekinna Stricklen | 505 |
 | 170 | Allison Feaster | 504 |
 | 170 | Erin Perperoglou | 504 |
-| 170 | **Napheesa Collier** 🔴 | 504 |
+| 170 | Napheesa Collier | 504 |
 | 173 | Iziane Castro Marques | 502 |
 | 174 | Elena Baranova | 501 |
 | 175 | Adrian Williams-Strong | 497 |
