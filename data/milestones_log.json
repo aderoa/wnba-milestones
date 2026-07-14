@@ -1,5 +1,14 @@
 [
   {
+    "ts": "2026-07-14T17:06:00+00:00",
+    "text": "Emily Engstler reached 200 career assists (now 200) \u2014 (7.4 - 4th \u2014 POR @ CON)",
+    "kind": "round",
+    "player": "Emily Engstler",
+    "stat": "assists",
+    "value": 200,
+    "new_total": 200
+  },
+  {
     "ts": "2026-07-14T16:26:00+00:00",
     "text": "Karlie Samuelson passed Coco Miller for #158 all-time in three-pointers (career 140) \u2014 up from #159 entering today \u2014 (2:54 - 3rd \u2014 POR @ CON)",
     "kind": "rank_pass",
@@ -3004,17 +3013,5 @@
       "Sabrina Ionescu"
     ],
     "new_total": 1022
-  },
-  {
-    "ts": "2026-06-28T18:38:00+00:00",
-    "text": "Nia Coffey passed Azur\u00e1 Stevens for #178 all-time in fouls (career 496) \u2014 up from #179 entering today \u2014 (6:55 - 2nd \u2014 MIN @ DAL)",
-    "kind": "rank_pass",
-    "player": "Nia Coffey",
-    "stat": "fouls",
-    "rank": 178,
-    "passed_players": [
-      "Azur\u00e1 Stevens"
-    ],
-    "new_total": 496
   }
 ]
