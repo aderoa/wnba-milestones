@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-14 23:19 UTC_
+_Last updated: 2026-07-14 23:20 UTC_
 
 ## Contents
 
@@ -580,7 +580,7 @@ _Last updated: 2026-07-14 23:19 UTC_
 | 148 | Ruth Riley | 449 |
 | 149 | DeMya Walker | 446 |
 | 150 | Essence Carson | 445 |
-| 150 | **Julie Allemand** 🔴 +1 | 445 |
+| 151 | **Julie Allemand** 🔴 | 444 |
 | 152 | Michelle Snow | 437 |
 | 153 | Jessica Shepard | 436 |
 | 154 | Lauren Jackson | 435 |
@@ -742,7 +742,7 @@ _Last updated: 2026-07-14 23:19 UTC_
 | 105 | Natalie Williams | 122 |
 | 106 | Ebony Hoffman | 121 |
 | 106 | Essence Carson | 121 |
-| 108 | **Shakira Austin** 🔴 | 119 |
+| 108 | **Shakira Austin** 🔴 +1 | 120 |
 | 109 | Krystal Thomas | 118 |
 | 110 | Andrea Stinson | 117 |
 | 110 | Crystal Langhorne | 117 |
