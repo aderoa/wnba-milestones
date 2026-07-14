@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-14 01:24 UTC_
+_Last updated: 2026-07-14 01:25 UTC_
 
 ## Contents
 
@@ -52,7 +52,7 @@ _Last updated: 2026-07-14 01:24 UTC_
 | 31 | Taj McWilliams-Franklin | 4,992 |
 | 32 | Maya Moore | 4,984 |
 | 33 | Sheryl Swoopes | 4,875 |
-| 34 | **Alyssa Thomas** 🔴 +4 | 4,756 |
+| 34 | **Alyssa Thomas** 🔴 +6 | 4,758 |
 | 35 | Alana Beard | 4,740 |
 | 36 | Arike Ogunbowale | 4,715 |
 | 37 | Chamique Holdsclaw | 4,713 |
@@ -68,7 +68,7 @@ _Last updated: 2026-07-14 01:24 UTC_
 | 46 | Jia Perkins | 4,433 |
 | 48 | Courtney Vandersloot | 4,362 |
 | 49 | Jonquel Jones | 4,353 |
-| 50 | **Courtney Williams** 🔴 | 4,350 |
+| 50 | **Courtney Williams** 🔴 +2 | 4,352 |
 | 51 | Dearica Hamby | 4,342 |
 | 52 | Sophia Young-Malcolm | 4,300 |
 | 53 | Plenette Pierson | 4,258 |
@@ -231,7 +231,7 @@ _Last updated: 2026-07-14 01:24 UTC_
 | 5 | Rebekkah Brunson | 3,345 |
 | 6 | Tamika Catchings | 3,313 |
 | 7 | Lisa Leslie | 3,303 |
-| 8 | **DeWanna Bonner** 🔴 +2 | 3,292 |
+| 8 | **DeWanna Bonner** 🔴 +3 | 3,293 |
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
@@ -315,10 +315,10 @@ _Last updated: 2026-07-14 01:24 UTC_
 | 89 | Tari Phillips | 1,274 |
 | 90 | Myisha Hines-Allen | 1,265 |
 | 91 | Janel McCarville | 1,261 |
+| 92 | **Kayla McBride** 🔴 +2 | 1,258 |
 | 92 | Liz Cambage | 1,258 |
-| 93 | Chelsea Gray | 1,257 |
-| 93 | **Kayla McBride** 🔴 +1 | 1,257 |
-| 93 | Tiffany Hayes | 1,257 |
+| 94 | Chelsea Gray | 1,257 |
+| 94 | Tiffany Hayes | 1,257 |
 | 96 | Brianna Turner | 1,243 |
 | 96 | Ezi Magbegor | 1,243 |
 | 98 | Seimone Augustus | 1,228 |
@@ -527,7 +527,7 @@ _Last updated: 2026-07-14 01:24 UTC_
 | 95 | Alex Bentley | 645 |
 | 96 | Asjha Jones | 637 |
 | 97 | Jennifer Azzi | 636 |
-| 98 | **Sami Whitcomb** 🔴 | 623 |
+| 98 | **Sami Whitcomb** 🔴 +1 | 624 |
 | 99 | Alysha Clark | 619 |
 | 100 | **Natasha Howard** 🔴 +3 | 618 |
 | 101 | Debbie Black | 612 |
