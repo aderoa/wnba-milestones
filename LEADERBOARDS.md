@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-14 02:51 UTC_
+_Last updated: 2026-07-14 02:52 UTC_
 
 ## Contents
 
@@ -231,7 +231,7 @@ _Last updated: 2026-07-14 02:51 UTC_
 | 5 | Rebekkah Brunson | 3,345 |
 | 6 | Tamika Catchings | 3,313 |
 | 7 | Lisa Leslie | 3,303 |
-| 8 | **DeWanna Bonner** 🔴 +7 | 3,297 |
+| 8 | **DeWanna Bonner** 🔴 +9 | 3,299 |
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
@@ -249,7 +249,7 @@ _Last updated: 2026-07-14 02:51 UTC_
 | 23 | Lauren Jackson | 2,444 |
 | 24 | Yolanda Griffith | 2,440 |
 | 25 | Tangela Smith | 2,328 |
-| 26 | **Natasha Howard** 🔴 +2 | 2,317 |
+| 26 | **Natasha Howard** 🔴 +3 | 2,318 |
 | 27 | Erika de Souza | 2,220 |
 | 28 | Diana Taurasi | 2,201 |
 | 29 | Margo Dydek | 2,138 |
@@ -459,8 +459,8 @@ _Last updated: 2026-07-14 02:51 UTC_
 | 27 | Katie Smith | 1,258 |
 | 28 | Odyssey Sims | 1,228 |
 | 29 | Vickie Johnson | 1,202 |
-| 30 | **DeWanna Bonner** 🔴 +1 | 1,197 |
-| 30 | Leilani Mitchell | 1,197 |
+| 30 | **DeWanna Bonner** 🔴 +2 | 1,198 |
+| 31 | Leilani Mitchell | 1,197 |
 | 32 | Jewell Loyd | 1,156 |
 | 33 | Jackie Young | 1,150 |
 | 34 | Renee Montgomery | 1,140 |
@@ -1469,7 +1469,7 @@ _Last updated: 2026-07-14 02:51 UTC_
 | 9 | Tammy Sutton-Brown | 1,193 |
 | 10 | Plenette Pierson | 1,175 |
 | 11 | Chasity Melvin | 1,165 |
-| 12 | **Natasha Howard** 🔴 +2 | 1,160 |
+| 12 | **Natasha Howard** 🔴 +3 | 1,161 |
 | 13 | Camille Smith | 1,159 |
 | 13 | Nneka Ogwumike | 1,159 |
 | 15 | Alana Beard | 1,153 |
