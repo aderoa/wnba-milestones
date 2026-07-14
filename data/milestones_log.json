@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-07-14T16:26:00+00:00",
+    "text": "Karlie Samuelson passed Coco Miller for #158 all-time in three-pointers (career 140) \u2014 up from #159 entering today \u2014 (2:54 - 3rd \u2014 POR @ CON)",
+    "kind": "rank_pass",
+    "player": "Karlie Samuelson",
+    "stat": "three-pointers",
+    "rank": 158,
+    "passed_players": [
+      "Coco Miller"
+    ],
+    "new_total": 140
+  },
+  {
     "ts": "2026-07-14T03:20:00+00:00",
     "text": "Kayla McBride passed Janel McCarville for #91 all-time in rebounds (career 1,262) \u2014 up from #95 entering today \u2014 (6.8 - 4th \u2014 PHX @ MIN)",
     "kind": "rank_pass",
@@ -3004,18 +3016,5 @@
       "Azur\u00e1 Stevens"
     ],
     "new_total": 496
-  },
-  {
-    "ts": "2026-06-28T18:33:00+00:00",
-    "text": "Kayla McBride passed Jayne Appel Marinelli and Renee Montgomery for #146 all-time in fouls (career 544) \u2014 up from #147 entering today \u2014 (8:15 - 2nd \u2014 MIN @ DAL)",
-    "kind": "rank_pass",
-    "player": "Kayla McBride",
-    "stat": "fouls",
-    "rank": 146,
-    "passed_players": [
-      "Jayne Appel Marinelli",
-      "Renee Montgomery"
-    ],
-    "new_total": 544
   }
 ]

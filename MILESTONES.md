@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-14 16:26 UTC
+
+- **Karlie Samuelson** passed **Coco Miller** for **#158** all-time in three-pointers (career 140) — up from #159 entering today — _2:54 - 3rd — POR @ CON_
+
 ## 2026-07-14 03:20 UTC
 
 - **Kayla McBride** passed **Janel McCarville** for **#91** all-time in rebounds (career 1,262) — up from #95 entering today — _6.8 - 4th — PHX @ MIN_
