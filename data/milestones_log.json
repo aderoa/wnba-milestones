@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-07-14T01:15:00+00:00",
+    "text": "Erica Wheeler passed Margo Dydek for #88 all-time in points (career 3,215) \u2014 up from #89 entering today \u2014 (52.8 - 4th \u2014 LA @ ATL)",
+    "kind": "rank_pass",
+    "player": "Erica Wheeler",
+    "stat": "points",
+    "rank": 88,
+    "passed_players": [
+      "Margo Dydek"
+    ],
+    "new_total": 3215
+  },
+  {
     "ts": "2026-07-13T02:57:00+00:00",
     "text": "Dana Evans passed Edna Campbell for #135 all-time in three-pointers (career 162) \u2014 up from #136 entering today \u2014 (2:35 - 4th \u2014 IND @ LV)",
     "kind": "rank_pass",
@@ -3006,18 +3018,5 @@
       "Teresa Weatherspoon"
     ],
     "new_total": 776
-  },
-  {
-    "ts": "2026-06-28T18:17:00+00:00",
-    "text": "Awak Kuier passed Nykesha Sales and Rushia Brown for #165 all-time in blocks (career 81) \u2014 (3:18 - 1st \u2014 MIN @ DAL)",
-    "kind": "rank_pass",
-    "player": "Awak Kuier",
-    "stat": "blocks",
-    "rank": 165,
-    "passed_players": [
-      "Nykesha Sales",
-      "Rushia Brown"
-    ],
-    "new_total": 81
   }
 ]
