@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-14 02:39 UTC_
+_Last updated: 2026-07-14 02:40 UTC_
 
 ## Contents
 
@@ -21,7 +21,7 @@ _Last updated: 2026-07-14 02:39 UTC_
 |-----:|--------|------:|
 | 1 | Diana Taurasi | 10,608 |
 | 2 | Tina Charles | 8,396 |
-| 3 | **DeWanna Bonner** 🔴 +12 | 7,984 |
+| 3 | **DeWanna Bonner** 🔴 +13 | 7,985 |
 | 4 | Nneka Ogwumike | 7,582 |
 | 5 | Tina Thompson | 7,470 |
 | 6 | Tamika Catchings | 7,371 |
@@ -41,7 +41,7 @@ _Last updated: 2026-07-14 02:39 UTC_
 | 20 | Becky Hammon | 5,816 |
 | 21 | Angel McCoughtry | 5,797 |
 | 22 | Skylar Diggins | 5,732 |
-| 23 | **Kayla McBride** 🔴 +24 | 5,674 |
+| 23 | **Kayla McBride** 🔴 +25 | 5,675 |
 | 24 | DeLisha Milton-Jones | 5,571 |
 | 25 | Katie Douglas | 5,545 |
 | 26 | Lindsay Whalen | 5,511 |
@@ -418,8 +418,8 @@ _Last updated: 2026-07-14 02:39 UTC_
 | 192 | Alex Montgomery | 735 |
 | 193 | Ashley Robinson | 734 |
 | 194 | Shenise Johnson | 729 |
-| 195 | **Sami Whitcomb** 🔴 +1 | 727 |
-| 196 | Shekinna Stricklen | 726 |
+| 195 | **Sami Whitcomb** 🔴 | 726 |
+| 195 | Shekinna Stricklen | 726 |
 | 197 | Olympia Scott | 711 |
 | 198 | Katie Mattera | 708 |
 | 199 | Rushia Brown | 706 |
@@ -436,7 +436,7 @@ _Last updated: 2026-07-14 02:39 UTC_
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
 | 6 | Chelsea Gray | 2,003 |
-| 7 | **Alyssa Thomas** 🔴 +7 | 1,978 |
+| 7 | **Alyssa Thomas** 🔴 +8 | 1,979 |
 | 8 | Skylar Diggins | 1,852 |
 | 9 | Natasha Cloud | 1,802 |
 | 10 | Becky Hammon | 1,705 |
@@ -1495,7 +1495,7 @@ _Last updated: 2026-07-14 02:39 UTC_
 | 35 | Mwadi Mabika | 941 |
 | 36 | Courtney Vandersloot | 940 |
 | 36 | Tamika Whitmore | 940 |
-| 38 | **DeWanna Bonner** 🔴 | 922 |
+| 38 | **DeWanna Bonner** 🔴 +1 | 923 |
 | 39 | Briann January | 921 |
 | 40 | Jonquel Jones | 913 |
 | 40 | Ticha Penicheiro | 913 |
