@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-14 01:05 UTC_
+_Last updated: 2026-07-14 01:06 UTC_
 
 ## Contents
 
@@ -227,7 +227,7 @@ _Last updated: 2026-07-14 01:05 UTC_
 | 1 | Tina Charles | 4,262 |
 | 2 | Sylvia Fowles | 4,005 |
 | 3 | Candace Parker | 3,467 |
-| 4 | **Nneka Ogwumike** 🔴 +4 | 3,410 |
+| 4 | **Nneka Ogwumike** 🔴 +5 | 3,411 |
 | 5 | Rebekkah Brunson | 3,345 |
 | 6 | Tamika Catchings | 3,313 |
 | 7 | Lisa Leslie | 3,303 |
@@ -346,7 +346,7 @@ _Last updated: 2026-07-14 01:05 UTC_
 | 120 | Jackie Young | 1,085 |
 | 121 | Svetlana Abrosimova | 1,078 |
 | 122 | Le'coe Willingham | 1,054 |
-| 123 | **Angel Reese** 🔴 +9 | 1,044 |
+| 123 | **Angel Reese** 🔴 +10 | 1,045 |
 | 124 | Nicole Ohlde | 1,040 |
 | 125 | Tamecka Dixon | 1,035 |
 | 126 | Kamila Vodichkova | 1,031 |
@@ -395,7 +395,7 @@ _Last updated: 2026-07-14 01:05 UTC_
 | 168 | Barbara Farris | 819 |
 | 170 | Carolyn Swords | 814 |
 | 171 | Betnijah Laney-Hamilton | 812 |
-| 172 | **Ariel Atkins** 🔴 +2 | 800 |
+| 172 | **Ariel Atkins** 🔴 +3 | 801 |
 | 173 | Tierra Ruffin-Pratt | 799 |
 | 174 | Charlotte Smith | 794 |
 | 175 | Rhonda Mapp | 788 |
@@ -1470,8 +1470,8 @@ _Last updated: 2026-07-14 01:05 UTC_
 | 10 | Plenette Pierson | 1,175 |
 | 11 | Chasity Melvin | 1,165 |
 | 12 | Camille Smith | 1,159 |
-| 13 | Natasha Howard | 1,158 |
-| 13 | **Nneka Ogwumike** 🔴 +2 | 1,158 |
+| 12 | **Nneka Ogwumike** 🔴 +3 | 1,159 |
+| 14 | Natasha Howard | 1,158 |
 | 15 | Alana Beard | 1,153 |
 | 16 | Swin Cash | 1,146 |
 | 17 | Taj McWilliams-Franklin | 1,145 |
