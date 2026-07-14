@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-14 02:41 UTC
+
+- **Sami Whitcomb** passed **Janel McCarville** for **#146** all-time in points (career 2,217) — up from #147 entering today — _27.1 - 3rd — PHX @ MIN_
+
 ## 2026-07-14 01:31 UTC
 
 - **Natasha Howard** passed **Alysha Clark** for **#99** all-time in assists (career 620) — up from #100 entering today — _End of 1st — PHX @ MIN_

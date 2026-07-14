@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-07-14T02:41:00+00:00",
+    "text": "Sami Whitcomb passed Janel McCarville for #146 all-time in points (career 2,217) \u2014 up from #147 entering today \u2014 (27.1 - 3rd \u2014 PHX @ MIN)",
+    "kind": "rank_pass",
+    "player": "Sami Whitcomb",
+    "stat": "points",
+    "rank": 146,
+    "passed_players": [
+      "Janel McCarville"
+    ],
+    "new_total": 2217
+  },
+  {
     "ts": "2026-07-14T01:31:00+00:00",
     "text": "Natasha Howard passed Alysha Clark for #99 all-time in assists (career 620) \u2014 up from #100 entering today \u2014 (End of 1st \u2014 PHX @ MIN)",
     "kind": "rank_pass",
@@ -3005,18 +3017,5 @@
       "Jonquel Jones"
     ],
     "new_total": 4354
-  },
-  {
-    "ts": "2026-06-28T18:18:00+00:00",
-    "text": "Nia Coffey passed Temeka Johnson and Tina Charles for #111 all-time in three-pointers (career 198) \u2014 up from #113 entering today \u2014 (2:24 - 1st \u2014 MIN @ DAL)",
-    "kind": "rank_pass",
-    "player": "Nia Coffey",
-    "stat": "three-pointers",
-    "rank": 111,
-    "passed_players": [
-      "Temeka Johnson",
-      "Tina Charles"
-    ],
-    "new_total": 198
   }
 ]
