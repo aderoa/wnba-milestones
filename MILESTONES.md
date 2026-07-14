@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-14 01:31 UTC
+
+- **Natasha Howard** passed **Alysha Clark** for **#99** all-time in assists (career 620) — up from #100 entering today — _End of 1st — PHX @ MIN_
+
 ## 2026-07-14 01:15 UTC
 
 - **Erica Wheeler** passed **Margo Dydek** for **#88** all-time in points (career 3,215) — up from #89 entering today — _52.8 - 4th — LA @ ATL_

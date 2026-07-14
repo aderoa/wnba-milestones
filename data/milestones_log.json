@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-07-14T01:31:00+00:00",
+    "text": "Natasha Howard passed Alysha Clark for #99 all-time in assists (career 620) \u2014 up from #100 entering today \u2014 (End of 1st \u2014 PHX @ MIN)",
+    "kind": "rank_pass",
+    "player": "Natasha Howard",
+    "stat": "assists",
+    "rank": 99,
+    "passed_players": [
+      "Alysha Clark"
+    ],
+    "new_total": 620
+  },
+  {
     "ts": "2026-07-14T01:15:00+00:00",
     "text": "Erica Wheeler passed Margo Dydek for #88 all-time in points (career 3,215) \u2014 up from #89 entering today \u2014 (52.8 - 4th \u2014 LA @ ATL)",
     "kind": "rank_pass",
@@ -3006,17 +3018,5 @@
       "Tina Charles"
     ],
     "new_total": 198
-  },
-  {
-    "ts": "2026-06-28T18:18:00+00:00",
-    "text": "Arike Ogunbowale passed Teresa Weatherspoon for #182 all-time in rebounds (career 776) \u2014 (2:24 - 1st \u2014 MIN @ DAL)",
-    "kind": "rank_pass",
-    "player": "Arike Ogunbowale",
-    "stat": "rebounds",
-    "rank": 182,
-    "passed_players": [
-      "Teresa Weatherspoon"
-    ],
-    "new_total": 776
   }
 ]
