@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-14 02:35 UTC_
+_Last updated: 2026-07-14 02:36 UTC_
 
 ## Contents
 
@@ -52,7 +52,7 @@ _Last updated: 2026-07-14 02:35 UTC_
 | 31 | Taj McWilliams-Franklin | 4,992 |
 | 32 | Maya Moore | 4,984 |
 | 33 | Sheryl Swoopes | 4,875 |
-| 34 | **Alyssa Thomas** 🔴 +11 | 4,763 |
+| 34 | **Alyssa Thomas** 🔴 +13 | 4,765 |
 | 35 | Alana Beard | 4,740 |
 | 36 | Arike Ogunbowale | 4,715 |
 | 37 | Chamique Holdsclaw | 4,713 |
@@ -67,7 +67,7 @@ _Last updated: 2026-07-14 02:35 UTC_
 | 46 | Crystal Langhorne | 4,433 |
 | 46 | Jia Perkins | 4,433 |
 | 48 | Courtney Vandersloot | 4,362 |
-| 49 | **Courtney Williams** 🔴 +6 | 4,356 |
+| 49 | **Courtney Williams** 🔴 +8 | 4,358 |
 | 50 | Jonquel Jones | 4,353 |
 | 51 | Dearica Hamby | 4,342 |
 | 52 | Sophia Young-Malcolm | 4,300 |
