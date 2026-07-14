@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-14 01:47 UTC_
+_Last updated: 2026-07-14 01:48 UTC_
 
 ## Contents
 
@@ -21,7 +21,7 @@ _Last updated: 2026-07-14 01:47 UTC_
 |-----:|--------|------:|
 | 1 | Diana Taurasi | 10,608 |
 | 2 | Tina Charles | 8,396 |
-| 3 | **DeWanna Bonner** 🔴 +5 | 7,977 |
+| 3 | **DeWanna Bonner** 🔴 +8 | 7,980 |
 | 4 | Nneka Ogwumike | 7,582 |
 | 5 | Tina Thompson | 7,470 |
 | 6 | Tamika Catchings | 7,371 |
@@ -57,7 +57,7 @@ _Last updated: 2026-07-14 01:47 UTC_
 | 36 | Arike Ogunbowale | 4,715 |
 | 37 | Chamique Holdsclaw | 4,713 |
 | 38 | Elena Delle Donne | 4,706 |
-| 39 | **Natasha Howard** 🔴 +6 | 4,688 |
+| 39 | **Natasha Howard** 🔴 +8 | 4,690 |
 | 40 | Chelsea Gray | 4,625 |
 | 41 | Penny Taylor | 4,595 |
 | 42 | Allisha Gray | 4,511 |
@@ -436,7 +436,7 @@ _Last updated: 2026-07-14 01:47 UTC_
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
 | 6 | Chelsea Gray | 2,003 |
-| 7 | **Alyssa Thomas** 🔴 +2 | 1,973 |
+| 7 | **Alyssa Thomas** 🔴 +3 | 1,974 |
 | 8 | Skylar Diggins | 1,852 |
 | 9 | Natasha Cloud | 1,802 |
 | 10 | Becky Hammon | 1,705 |
@@ -1057,7 +1057,7 @@ _Last updated: 2026-07-14 01:47 UTC_
 | 7 | Katie Douglas | 723 |
 | 8 | Kelsey Mitchell | 712 |
 | 9 | Jewell Loyd | 695 |
-| 10 | **DeWanna Bonner** 🔴 +1 | 683 |
+| 10 | **DeWanna Bonner** 🔴 +2 | 684 |
 | 11 | Kristi Toliver | 651 |
 | 12 | Kelsey Plum | 619 |
 | 13 | Tamika Catchings | 605 |
@@ -1603,9 +1603,9 @@ _Last updated: 2026-07-14 01:47 UTC_
 | 143 | Jackie Young | 548 |
 | 144 | Erlana Larkins | 546 |
 | 144 | Monique Billings | 546 |
-| 146 | **Kayla McBride** 🔴 +1 | 544 |
-| 147 | Jayne Appel Marinelli | 543 |
-| 147 | Renee Montgomery | 543 |
+| 146 | Jayne Appel Marinelli | 543 |
+| 146 | **Kayla McBride** 🔴 | 543 |
+| 146 | Renee Montgomery | 543 |
 | 149 | Marissa Coleman | 541 |
 | 150 | Sophie Cunningham | 538 |
 | 151 | Myisha Hines-Allen | 535 |
