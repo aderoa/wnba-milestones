@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-14 01:11 UTC_
+_Last updated: 2026-07-14 01:12 UTC_
 
 ## Contents
 
@@ -150,7 +150,7 @@ _Last updated: 2026-07-14 01:11 UTC_
 | 129 | Anna DeForge | 2,413 |
 | 130 | Kayla Thornton | 2,393 |
 | 131 | DeMya Walker | 2,379 |
-| 132 | **Jordin Canada** 🔴 +12 | 2,354 |
+| 132 | **Jordin Canada** 🔴 +14 | 2,356 |
 | 133 | Alex Bentley | 2,350 |
 | 134 | Azurá Stevens | 2,343 |
 | 135 | Merlakia Jones | 2,308 |
@@ -346,7 +346,7 @@ _Last updated: 2026-07-14 01:11 UTC_
 | 120 | Jackie Young | 1,085 |
 | 121 | Svetlana Abrosimova | 1,078 |
 | 122 | Le'coe Willingham | 1,054 |
-| 123 | **Angel Reese** 🔴 +10 | 1,045 |
+| 123 | **Angel Reese** 🔴 +11 | 1,046 |
 | 124 | Nicole Ohlde | 1,040 |
 | 125 | Tamecka Dixon | 1,035 |
 | 126 | Kamila Vodichkova | 1,031 |
@@ -378,7 +378,7 @@ _Last updated: 2026-07-14 01:11 UTC_
 | 152 | Natalie Achonwa | 895 |
 | 153 | Temeka Johnson | 889 |
 | 154 | Mistie Bass | 888 |
-| 155 | **Erica Wheeler** 🔴 +2 | 884 |
+| 155 | **Erica Wheeler** 🔴 +3 | 885 |
 | 156 | Alanna Smith | 878 |
 | 157 | Marina Mabrey | 874 |
 | 158 | Shameka Christon | 867 |
@@ -1281,7 +1281,7 @@ _Last updated: 2026-07-14 01:11 UTC_
 | 26 | Natasha Howard | 843 |
 | 27 | DeWanna Bonner | 840 |
 | 28 | Katie Douglas | 824 |
-| 29 | **Nneka Ogwumike** 🔴 +2 | 805 |
+| 29 | **Nneka Ogwumike** 🔴 +3 | 806 |
 | 30 | Betty Lennox | 800 |
 | 31 | Jasmine Thomas | 796 |
 | 32 | Jewell Loyd | 795 |
@@ -1298,7 +1298,7 @@ _Last updated: 2026-07-14 01:11 UTC_
 | 43 | Michelle Snow | 723 |
 | 44 | Tamecka Dixon | 716 |
 | 45 | Natasha Cloud | 707 |
-| 46 | **Erica Wheeler** 🔴 +4 | 703 |
+| 46 | **Erica Wheeler** 🔴 +3 | 702 |
 | 47 | Renee Montgomery | 697 |
 | 48 | Temeka Johnson | 696 |
 | 49 | Penny Taylor | 695 |
@@ -1517,9 +1517,9 @@ _Last updated: 2026-07-14 01:11 UTC_
 | 57 | Dominique Canty | 831 |
 | 57 | Wendy Palmer | 831 |
 | 59 | Skylar Diggins | 825 |
-| 60 | **Erica Wheeler** 🔴 +5 | 813 |
 | 60 | Shannon Johnson | 813 |
 | 60 | Tully Bevilaqua | 813 |
+| 62 | **Erica Wheeler** 🔴 +4 | 812 |
 | 63 | Nykesha Sales | 796 |
 | 64 | Ebony Hoffman | 791 |
 | 65 | Sue Bird | 775 |
