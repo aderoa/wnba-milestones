@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-14 01:09 UTC_
+_Last updated: 2026-07-14 01:10 UTC_
 
 ## Contents
 
@@ -454,8 +454,8 @@ _Last updated: 2026-07-14 01:09 UTC_
 | 22 | Dawn Staley | 1,337 |
 | 23 | Teresa Weatherspoon | 1,333 |
 | 24 | Kristi Toliver | 1,301 |
+| 25 | **Jordin Canada** 🔴 +8 | 1,270 |
 | 25 | Kelsey Plum | 1,270 |
-| 26 | **Jordin Canada** 🔴 +7 | 1,269 |
 | 27 | Katie Smith | 1,258 |
 | 28 | Odyssey Sims | 1,228 |
 | 29 | Vickie Johnson | 1,202 |
@@ -1298,7 +1298,7 @@ _Last updated: 2026-07-14 01:09 UTC_
 | 43 | Michelle Snow | 723 |
 | 44 | Tamecka Dixon | 716 |
 | 45 | Natasha Cloud | 707 |
-| 46 | **Erica Wheeler** 🔴 +3 | 702 |
+| 46 | **Erica Wheeler** 🔴 +4 | 703 |
 | 47 | Renee Montgomery | 697 |
 | 48 | Temeka Johnson | 696 |
 | 49 | Penny Taylor | 695 |
@@ -1517,9 +1517,9 @@ _Last updated: 2026-07-14 01:09 UTC_
 | 57 | Dominique Canty | 831 |
 | 57 | Wendy Palmer | 831 |
 | 59 | Skylar Diggins | 825 |
+| 60 | **Erica Wheeler** 🔴 +5 | 813 |
 | 60 | Shannon Johnson | 813 |
 | 60 | Tully Bevilaqua | 813 |
-| 62 | **Erica Wheeler** 🔴 +4 | 812 |
 | 63 | Nykesha Sales | 796 |
 | 64 | Ebony Hoffman | 791 |
 | 65 | Sue Bird | 775 |
@@ -1532,9 +1532,9 @@ _Last updated: 2026-07-14 01:09 UTC_
 | 72 | Kara Braxton | 748 |
 | 73 | Crystal Langhorne | 737 |
 | 74 | Shameka Christon | 734 |
+| 75 | **Ariel Atkins** 🔴 +3 | 733 |
 | 75 | Becky Hammon | 733 |
-| 76 | **Ariel Atkins** 🔴 +2 | 732 |
-| 76 | Elizabeth Williams | 732 |
+| 77 | Elizabeth Williams | 732 |
 | 78 | Latasha Byears | 730 |
 | 79 | Kristi Toliver | 722 |
 | 80 | Cheryl Ford | 713 |
