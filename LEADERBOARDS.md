@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-14 17:28 UTC_
+_Last updated: 2026-07-14 17:29 UTC_
 
 ## Contents
 
@@ -1034,10 +1034,10 @@ _Last updated: 2026-07-14 17:28 UTC_
 | 189 | Nakia Sanford | 181 |
 | 190 | Diamond DeShields | 180 |
 | 191 | Kiah Stokes | 178 |
-| 192 | Bridget Carleton | 177 |
 | 192 | Bridget Pettis | 177 |
-| 194 | Brittany Boyd-Jones | 176 |
-| 194 | Chiney Ogwumike | 176 |
+| 193 | Bridget Carleton | 176 |
+| 193 | Brittany Boyd-Jones | 176 |
+| 193 | Chiney Ogwumike | 176 |
 | 196 | Tamika Raymond | 175 |
 | 197 | Elena Delle Donne | 174 |
 | 197 | Ezi Magbegor | 174 |
