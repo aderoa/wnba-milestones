@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-07-14T03:20:00+00:00",
+    "text": "Kayla McBride passed Janel McCarville for #91 all-time in rebounds (career 1,262) \u2014 up from #95 entering today \u2014 (6.8 - 4th \u2014 PHX @ MIN)",
+    "kind": "rank_pass",
+    "player": "Kayla McBride",
+    "stat": "rebounds",
+    "rank": 91,
+    "passed_players": [
+      "Janel McCarville"
+    ],
+    "new_total": 1262
+  },
+  {
     "ts": "2026-07-14T02:41:00+00:00",
     "text": "Sami Whitcomb passed Janel McCarville for #146 all-time in points (career 2,217) \u2014 up from #147 entering today \u2014 (27.1 - 3rd \u2014 PHX @ MIN)",
     "kind": "rank_pass",
@@ -3005,17 +3017,5 @@
       "Renee Montgomery"
     ],
     "new_total": 544
-  },
-  {
-    "ts": "2026-06-28T18:30:00+00:00",
-    "text": "Courtney Williams passed Jonquel Jones for #49 all-time in points (career 4,354) \u2014 up from #50 entering today \u2014 (9:26 - 2nd \u2014 MIN @ DAL)",
-    "kind": "rank_pass",
-    "player": "Courtney Williams",
-    "stat": "points",
-    "rank": 49,
-    "passed_players": [
-      "Jonquel Jones"
-    ],
-    "new_total": 4354
   }
 ]
