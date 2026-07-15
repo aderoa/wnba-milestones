@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-15 17:46 UTC_
+_Last updated: 2026-07-15 17:47 UTC_
 
 ## Contents
 
@@ -1297,7 +1297,7 @@ _Last updated: 2026-07-15 17:46 UTC_
 | 42 | Monique Currie | 724 |
 | 43 | Michelle Snow | 723 |
 | 44 | Tamecka Dixon | 716 |
-| 45 | **Natasha Cloud** 🔴 +2 | 709 |
+| 45 | **Natasha Cloud** 🔴 +3 | 710 |
 | 46 | **Erica Wheeler** 🔴 +1 | 700 |
 | 47 | Renee Montgomery | 697 |
 | 48 | Temeka Johnson | 696 |
