@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-15 16:43 UTC_
+_Last updated: 2026-07-15 16:44 UTC_
 
 ## Contents
 
@@ -150,7 +150,7 @@ _Last updated: 2026-07-15 16:43 UTC_
 | 129 | Anna DeForge | 2,413 |
 | 130 | Kayla Thornton | 2,393 |
 | 131 | DeMya Walker | 2,379 |
-| 132 | **Azurá Stevens** 🔴 +14 | 2,357 |
+| 132 | **Azurá Stevens** 🔴 +16 | 2,359 |
 | 133 | Alex Bentley | 2,350 |
 | 134 | Jordin Canada | 2,342 |
 | 135 | Merlakia Jones | 2,308 |
@@ -297,8 +297,8 @@ _Last updated: 2026-07-15 16:43 UTC_
 | 71 | Nakia Sanford | 1,419 |
 | 72 | Kayla Thornton | 1,408 |
 | 73 | Allisha Gray | 1,404 |
+| 74 | **Courtney Vandersloot** 🔴 +1 | 1,387 |
 | 74 | Kara Braxton | 1,387 |
-| 75 | **Courtney Vandersloot** 🔴 | 1,386 |
 | 76 | Katie Smith | 1,383 |
 | 77 | Ebony Hoffman | 1,376 |
 | 78 | Jewell Loyd | 1,371 |
