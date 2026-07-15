@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-15 16:23 UTC_
+_Last updated: 2026-07-15 16:24 UTC_
 
 ## Contents
 
@@ -431,7 +431,7 @@ _Last updated: 2026-07-15 16:23 UTC_
 | Rank | Player | Total |
 |-----:|--------|------:|
 | 1 | Sue Bird | 3,234 |
-| 2 | **Courtney Vandersloot** 🔴 | 2,894 |
+| 2 | **Courtney Vandersloot** 🔴 +1 | 2,895 |
 | 3 | Ticha Penicheiro | 2,588 |
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
@@ -940,8 +940,8 @@ _Last updated: 2026-07-15 16:23 UTC_
 | 95 | Ebony Hoffman | 308 |
 | 96 | Tamera Young | 305 |
 | 97 | Kedra Holland-Corn | 301 |
-| 98 | **Elizabeth Williams** 🔴 | 295 |
-| 98 | Lindsey Harding | 295 |
+| 98 | **Elizabeth Williams** 🔴 +1 | 296 |
+| 99 | Lindsey Harding | 295 |
 | 100 | Janel McCarville | 294 |
 | 101 | Kelly Miller | 290 |
 | 102 | Glory Johnson | 289 |
