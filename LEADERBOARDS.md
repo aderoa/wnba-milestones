@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-15 18:28 UTC_
+_Last updated: 2026-07-15 18:29 UTC_
 
 ## Contents
 
@@ -870,7 +870,7 @@ _Last updated: 2026-07-15 18:28 UTC_
 | 25 | Becky Hammon | 485 |
 | 26 | Penny Taylor | 479 |
 | 27 | Sophia Young-Malcolm | 477 |
-| 28 | **Natasha Howard** 🔴 +1 | 468 |
+| 28 | **Natasha Howard** 🔴 +2 | 469 |
 | 29 | Skylar Diggins | 463 |
 | 29 | Teresa Weatherspoon | 463 |
 | 31 | Jewell Loyd | 458 |
@@ -924,9 +924,9 @@ _Last updated: 2026-07-15 18:28 UTC_
 | 79 | Odyssey Sims | 334 |
 | 80 | Marie Ferdinand-Harris | 331 |
 | 81 | Chasity Melvin | 330 |
+| 81 | **Courtney Williams** 🔴 +1 | 330 |
 | 81 | Leilani Mitchell | 330 |
-| 83 | **Courtney Williams** 🔴 | 329 |
-| 83 | Kristi Toliver | 329 |
+| 84 | Kristi Toliver | 329 |
 | 85 | Matee Ajavon | 328 |
 | 86 | Gabby Williams | 326 |
 | 87 | Napheesa Collier | 325 |
