@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-15 17:23 UTC_
+_Last updated: 2026-07-15 17:24 UTC_
 
 ## Contents
 
@@ -1636,7 +1636,7 @@ _Last updated: 2026-07-15 17:23 UTC_
 | 176 | Adrian Williams-Strong | 497 |
 | 176 | Essence Carson | 497 |
 | 176 | **Rachel Banham** 🔴 | 497 |
-| 179 | **Nia Coffey** 🔴 +1 | 496 |
+| 179 | **Nia Coffey** 🔴 | 495 |
 | 180 | Karima Christmas-Kelly | 494 |
 | 181 | Ann Wauters | 493 |
 | 181 | Riquna Williams | 493 |
