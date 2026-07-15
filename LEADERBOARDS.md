@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-15 18:44 UTC_
+_Last updated: 2026-07-15 18:45 UTC_
 
 ## Contents
 
@@ -512,7 +512,7 @@ _Last updated: 2026-07-15 18:44 UTC_
 | 80 | Chamique Holdsclaw | 698 |
 | 81 | Shavonte Zellous | 693 |
 | 82 | Allie Quigley | 690 |
-| 83 | **Ariel Atkins** 🔴 +5 | 687 |
+| 83 | **Ariel Atkins** 🔴 +6 | 688 |
 | 84 | Moriah Jefferson | 685 |
 | 85 | Emma Meesseman | 681 |
 | 86 | Nykesha Sales | 677 |
@@ -1158,9 +1158,9 @@ _Last updated: 2026-07-15 18:44 UTC_
 | 108 | Betnijah Laney-Hamilton | 206 |
 | 109 | Lexie Brown | 203 |
 | 110 | Shanna Zolman | 199 |
+| 111 | **Nia Coffey** 🔴 +1 | 197 |
 | 111 | Temeka Johnson | 197 |
 | 111 | Tina Charles | 197 |
-| 113 | **Nia Coffey** 🔴 | 196 |
 | 114 | Caitlin Clark | 195 |
 | 115 | Lindsay Whalen | 193 |
 | 116 | Victoria Vivians | 192 |
@@ -1533,8 +1533,8 @@ _Last updated: 2026-07-15 18:44 UTC_
 | 73 | Crystal Langhorne | 737 |
 | 74 | Elizabeth Williams | 735 |
 | 75 | Shameka Christon | 734 |
+| 76 | **Ariel Atkins** 🔴 +3 | 733 |
 | 76 | Becky Hammon | 733 |
-| 77 | **Ariel Atkins** 🔴 +2 | 732 |
 | 78 | Latasha Byears | 730 |
 | 79 | Kristi Toliver | 722 |
 | 80 | Cheryl Ford | 713 |
