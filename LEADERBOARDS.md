@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-15 16:32 UTC_
+_Last updated: 2026-07-15 16:33 UTC_
 
 ## Contents
 
@@ -198,7 +198,7 @@ _Last updated: 2026-07-15 16:32 UTC_
 | 177 | Candice Wiggins | 1,901 |
 | 178 | Gabby Williams | 1,899 |
 | 179 | NaLyssa Smith | 1,879 |
-| 180 | Rachel Banham | 1,843 |
+| 180 | **Rachel Banham** 🔴 +3 | 1,846 |
 | 181 | Damiris Dantas | 1,842 |
 | 182 | Sophie Cunningham | 1,829 |
 | 183 | Tianna Hawkins | 1,825 |
@@ -554,7 +554,7 @@ _Last updated: 2026-07-15 16:32 UTC_
 | 122 | Myisha Hines-Allen | 529 |
 | 123 | Marie Ferdinand-Harris | 528 |
 | 124 | Margo Dydek | 524 |
-| 125 | Rachel Banham | 511 |
+| 125 | **Rachel Banham** 🔴 +1 | 512 |
 | 126 | Iziane Castro Marques | 509 |
 | 127 | Brittany Boyd-Jones | 508 |
 | 127 | Chasity Melvin | 508 |
@@ -908,10 +908,10 @@ _Last updated: 2026-07-15 16:32 UTC_
 | 62 | Erica Wheeler | 361 |
 | 64 | Lauren Jackson | 360 |
 | 64 | Tan White | 360 |
+| 66 | **Natasha Cloud** 🔴 +2 | 357 |
 | 66 | Vickie Johnson | 357 |
-| 67 | Dominique Canty | 356 |
-| 67 | **Natasha Cloud** 🔴 +1 | 356 |
-| 67 | Renee Montgomery | 356 |
+| 68 | Dominique Canty | 356 |
+| 68 | Renee Montgomery | 356 |
 | 70 | Tamecka Dixon | 355 |
 | 71 | Arike Ogunbowale | 354 |
 | 72 | Vicky Bullett | 353 |
@@ -1089,7 +1089,7 @@ _Last updated: 2026-07-15 16:32 UTC_
 | 38 | Riquna Williams | 407 |
 | 40 | Jia Perkins | 396 |
 | 41 | Alysha Clark | 394 |
-| 42 | Rachel Banham | 390 |
+| 42 | **Rachel Banham** 🔴 +1 | 391 |
 | 43 | Jonquel Jones | 389 |
 | 43 | Roneeka Hodges | 389 |
 | 45 | **Courtney Vandersloot** 🔴 | 386 |
@@ -1297,7 +1297,7 @@ _Last updated: 2026-07-15 16:32 UTC_
 | 42 | Monique Currie | 724 |
 | 43 | Michelle Snow | 723 |
 | 44 | Tamecka Dixon | 716 |
-| 45 | **Natasha Cloud** 🔴 +1 | 708 |
+| 45 | **Natasha Cloud** 🔴 +2 | 709 |
 | 46 | Erica Wheeler | 699 |
 | 47 | Renee Montgomery | 697 |
 | 48 | Temeka Johnson | 696 |
@@ -1447,7 +1447,7 @@ _Last updated: 2026-07-15 16:32 UTC_
 | 192 | Erin Perperoglou | 305 |
 | 192 | Jennifer Lacy | 305 |
 | 194 | Tianna Hawkins | 303 |
-| 195 | Rachel Banham | 301 |
+| 195 | **Rachel Banham** 🔴 +1 | 302 |
 | 196 | Crystal Robinson | 299 |
 | 197 | Kayla Thornton | 298 |
 | 198 | Michele Timms | 297 |
@@ -1634,7 +1634,7 @@ _Last updated: 2026-07-15 16:32 UTC_
 | 174 | Elena Baranova | 501 |
 | 175 | Adrian Williams-Strong | 497 |
 | 175 | Essence Carson | 497 |
-| 175 | Rachel Banham | 497 |
+| 175 | **Rachel Banham** 🔴 | 497 |
 | 178 | **Azurá Stevens** 🔴 +1 | 496 |
 | 179 | Nia Coffey | 495 |
 | 180 | Karima Christmas-Kelly | 494 |
