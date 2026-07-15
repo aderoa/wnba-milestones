@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-07-15T17:52:00+00:00",
+    "text": "Elizabeth Williams passed Ruth Riley for #10 all-time in blocks (career 506) \u2014 up from #11 entering today \u2014 (1:13 - 4th \u2014 SEA @ CHI)",
+    "kind": "rank_pass",
+    "player": "Elizabeth Williams",
+    "stat": "blocks",
+    "rank": 10,
+    "passed_players": [
+      "Ruth Riley"
+    ],
+    "new_total": 506
+  },
+  {
     "ts": "2026-07-15T17:25:00+00:00",
     "text": "Elizabeth Williams passed Shameka Christon for #74 all-time in fouls (career 735) \u2014 up from #76 entering today \u2014 (1:52 - 3rd \u2014 SEA @ CHI)",
     "kind": "rank_pass",
@@ -3004,17 +3016,5 @@
       "Erika de Souza"
     ],
     "new_total": 371
-  },
-  {
-    "ts": "2026-06-28T19:11:00+00:00",
-    "text": "Jessica Shepard passed Jasmine Thomas for #127 all-time in rebounds (career 1,028) \u2014 up from #129 entering today \u2014 (9:24 - 3rd \u2014 MIN @ DAL)",
-    "kind": "rank_pass",
-    "player": "Jessica Shepard",
-    "stat": "rebounds",
-    "rank": 127,
-    "passed_players": [
-      "Jasmine Thomas"
-    ],
-    "new_total": 1028
   }
 ]
