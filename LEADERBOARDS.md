@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-15 17:24 UTC_
+_Last updated: 2026-07-15 17:25 UTC_
 
 ## Contents
 
@@ -256,7 +256,7 @@ _Last updated: 2026-07-15 17:24 UTC_
 | 30 | Chamique Holdsclaw | 2,123 |
 | 31 | Chasity Melvin | 2,097 |
 | 32 | Tammy Sutton-Brown | 2,010 |
-| 33 | **Elizabeth Williams** 🔴 +2 | 1,980 |
+| 33 | **Elizabeth Williams** 🔴 +3 | 1,981 |
 | 34 | Cheryl Ford | 1,907 |
 | 35 | **Courtney Williams** 🔴 +2 | 1,845 |
 | 36 | Kiah Stokes | 1,835 |
@@ -508,7 +508,7 @@ _Last updated: 2026-07-15 17:24 UTC_
 | 76 | Monique Currie | 740 |
 | 77 | Elaine Powell | 728 |
 | 78 | **Dearica Hamby** 🔴 | 726 |
-| 79 | **Stefanie Dolson** 🔴 | 707 |
+| 79 | **Stefanie Dolson** 🔴 +1 | 708 |
 | 80 | Chamique Holdsclaw | 698 |
 | 81 | Shavonte Zellous | 693 |
 | 82 | Allie Quigley | 690 |
@@ -1531,8 +1531,8 @@ _Last updated: 2026-07-15 17:24 UTC_
 | 70 | Vickie Johnson | 752 |
 | 72 | Kara Braxton | 748 |
 | 73 | Crystal Langhorne | 737 |
-| 74 | **Elizabeth Williams** 🔴 +2 | 734 |
-| 74 | Shameka Christon | 734 |
+| 74 | **Elizabeth Williams** 🔴 +3 | 735 |
+| 75 | Shameka Christon | 734 |
 | 76 | Becky Hammon | 733 |
 | 77 | **Ariel Atkins** 🔴 | 730 |
 | 77 | Latasha Byears | 730 |

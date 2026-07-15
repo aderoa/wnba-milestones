@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-15 17:25 UTC
+
+- **Elizabeth Williams** passed **Shameka Christon** for **#74** all-time in fouls (career 735) — up from #76 entering today — _1:52 - 3rd — SEA @ CHI_
+
 ## 2026-07-15 16:39 UTC
 
 - **Natasha Cloud** passed **Vickie Johnson** for **#66** all-time in steals (career 358) — up from #69 entering today — _4:44 - 2nd — SEA @ CHI_

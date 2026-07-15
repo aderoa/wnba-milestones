@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-07-15T17:25:00+00:00",
+    "text": "Elizabeth Williams passed Shameka Christon for #74 all-time in fouls (career 735) \u2014 up from #76 entering today \u2014 (1:52 - 3rd \u2014 SEA @ CHI)",
+    "kind": "rank_pass",
+    "player": "Elizabeth Williams",
+    "stat": "fouls",
+    "rank": 74,
+    "passed_players": [
+      "Shameka Christon"
+    ],
+    "new_total": 735
+  },
+  {
     "ts": "2026-07-15T16:39:00+00:00",
     "text": "Natasha Cloud passed Vickie Johnson for #66 all-time in steals (career 358) \u2014 up from #69 entering today \u2014 (4:44 - 2nd \u2014 SEA @ CHI)",
     "kind": "rank_pass",
@@ -3004,14 +3016,5 @@
       "Jasmine Thomas"
     ],
     "new_total": 1028
-  },
-  {
-    "ts": "2026-06-28T19:06:00+00:00",
-    "text": "Michaela Onyenwere reached 100 career steals (now 100) \u2014 (8:39 - 1st \u2014 POR @ WSH)",
-    "kind": "round",
-    "player": "Michaela Onyenwere",
-    "stat": "steals",
-    "value": 100,
-    "new_total": 100
   }
 ]
