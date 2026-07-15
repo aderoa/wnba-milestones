@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-15 17:05 UTC_
+_Last updated: 2026-07-15 17:06 UTC_
 
 ## Contents
 
@@ -94,7 +94,7 @@ _Last updated: 2026-07-15 17:05 UTC_
 | 73 | Jasmine Thomas | 3,522 |
 | 74 | Tamecka Dixon | 3,507 |
 | 75 | Tammy Sutton-Brown | 3,498 |
-| 76 | **Ariel Atkins** 🔴 | 3,481 |
+| 76 | **Ariel Atkins** 🔴 +3 | 3,484 |
 | 77 | Sancho Lyttle | 3,478 |
 | 78 | Ivory Latta | 3,447 |
 | 79 | Nicole Powell | 3,407 |
@@ -697,8 +697,8 @@ _Last updated: 2026-07-15 17:05 UTC_
 | 60 | Kelly Schumacher | 183 |
 | 61 | Maria Stepanova | 182 |
 | 62 | Courtney Paris | 178 |
-| 63 | **Nia Coffey** 🔴 | 177 |
-| 63 | Vanessa Hayden | 177 |
+| 62 | **Nia Coffey** 🔴 +1 | 178 |
+| 64 | Vanessa Hayden | 177 |
 | 65 | Maya Moore | 176 |
 | 66 | Kia Vaughn | 175 |
 | 67 | Amanda Zahui B | 171 |
@@ -870,7 +870,7 @@ _Last updated: 2026-07-15 17:05 UTC_
 | 25 | Becky Hammon | 485 |
 | 26 | Penny Taylor | 479 |
 | 27 | Sophia Young-Malcolm | 477 |
-| 28 | **Natasha Howard** 🔴 +1 | 468 |
+| 28 | **Natasha Howard** 🔴 +2 | 469 |
 | 29 | Skylar Diggins | 463 |
 | 29 | Teresa Weatherspoon | 463 |
 | 31 | Jewell Loyd | 458 |
@@ -924,9 +924,9 @@ _Last updated: 2026-07-15 17:05 UTC_
 | 79 | Odyssey Sims | 334 |
 | 80 | Marie Ferdinand-Harris | 331 |
 | 81 | Chasity Melvin | 330 |
-| 81 | **Courtney Williams** 🔴 +1 | 330 |
 | 81 | Leilani Mitchell | 330 |
-| 84 | Kristi Toliver | 329 |
+| 83 | **Courtney Williams** 🔴 | 329 |
+| 83 | Kristi Toliver | 329 |
 | 85 | Matee Ajavon | 328 |
 | 86 | Gabby Williams | 326 |
 | 87 | Napheesa Collier | 325 |
@@ -1076,7 +1076,7 @@ _Last updated: 2026-07-15 17:05 UTC_
 | 26 | Breanna Stewart | 465 |
 | 27 | Cappie Pondexter | 464 |
 | 28 | Allisha Gray | 458 |
-| 29 | **Ariel Atkins** 🔴 | 455 |
+| 29 | **Ariel Atkins** 🔴 +1 | 456 |
 | 30 | Tiffany Hayes | 454 |
 | 31 | Chelsea Gray | 450 |
 | 32 | Skylar Diggins | 447 |
