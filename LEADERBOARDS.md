@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-15 17:43 UTC_
+_Last updated: 2026-07-15 17:44 UTC_
 
 ## Contents
 
@@ -66,8 +66,8 @@ _Last updated: 2026-07-15 17:43 UTC_
 | 45 | Kahleah Copper | 4,437 |
 | 46 | Crystal Langhorne | 4,433 |
 | 46 | Jia Perkins | 4,433 |
-| 48 | **Courtney Vandersloot** 🔴 +6 | 4,368 |
-| 49 | **Courtney Williams** 🔴 +7 | 4,357 |
+| 48 | **Courtney Vandersloot** 🔴 +8 | 4,370 |
+| 49 | **Courtney Williams** 🔴 +9 | 4,359 |
 | 50 | Jonquel Jones | 4,353 |
 | 51 | **Dearica Hamby** 🔴 +2 | 4,332 |
 | 52 | Sophia Young-Malcolm | 4,300 |
@@ -438,7 +438,7 @@ _Last updated: 2026-07-15 17:43 UTC_
 | 6 | Chelsea Gray | 2,003 |
 | 7 | Alyssa Thomas | 1,971 |
 | 8 | Skylar Diggins | 1,852 |
-| 9 | **Natasha Cloud** 🔴 +5 | 1,807 |
+| 9 | **Natasha Cloud** 🔴 +6 | 1,808 |
 | 10 | Becky Hammon | 1,705 |
 | 11 | Candace Parker | 1,634 |
 | 12 | Cappie Pondexter | 1,575 |
@@ -473,7 +473,7 @@ _Last updated: 2026-07-15 17:43 UTC_
 | 41 | Dominique Canty | 1,042 |
 | 42 | Sheryl Swoopes | 1,037 |
 | 43 | Tina Charles | 1,033 |
-| 44 | **Kayla McBride** 🔴 | 992 |
+| 44 | **Kayla McBride** 🔴 +1 | 993 |
 | 45 | Nikki Teasley | 982 |
 | 46 | Breanna Stewart | 981 |
 | 47 | Tamecka Dixon | 960 |
@@ -879,7 +879,7 @@ _Last updated: 2026-07-15 17:43 UTC_
 | 34 | Tangela Smith | 455 |
 | 35 | Tina Thompson | 452 |
 | 36 | Maya Moore | 449 |
-| 37 | **Kayla McBride** 🔴 | 446 |
+| 37 | **Kayla McBride** 🔴 +1 | 447 |
 | 38 | Sheri Sam | 438 |
 | 39 | Camille Smith | 437 |
 | 40 | Breanna Stewart | 435 |
@@ -1278,7 +1278,7 @@ _Last updated: 2026-07-15 17:43 UTC_
 | 23 | Taj McWilliams-Franklin | 898 |
 | 24 | Candice Dupree | 869 |
 | 25 | Alana Beard | 854 |
-| 26 | **Natasha Howard** 🔴 +1 | 844 |
+| 26 | **Natasha Howard** 🔴 +2 | 845 |
 | 27 | DeWanna Bonner | 840 |
 | 28 | Katie Douglas | 824 |
 | 29 | **Nneka Ogwumike** 🔴 | 803 |
@@ -1302,7 +1302,7 @@ _Last updated: 2026-07-15 17:43 UTC_
 | 47 | Renee Montgomery | 697 |
 | 48 | Temeka Johnson | 696 |
 | 49 | Penny Taylor | 695 |
-| 50 | **Dearica Hamby** 🔴 +2 | 686 |
+| 50 | **Dearica Hamby** 🔴 +3 | 687 |
 | 51 | Dominique Canty | 685 |
 | 52 | DeMya Walker | 684 |
 | 53 | Asjha Jones | 682 |
@@ -1446,8 +1446,8 @@ _Last updated: 2026-07-15 17:43 UTC_
 | 190 | Isabelle Harrison | 307 |
 | 192 | Erin Perperoglou | 305 |
 | 192 | Jennifer Lacy | 305 |
-| 194 | **Rachel Banham** 🔴 +2 | 303 |
 | 194 | Tianna Hawkins | 303 |
+| 195 | **Rachel Banham** 🔴 +1 | 302 |
 | 196 | Crystal Robinson | 299 |
 | 197 | Kayla Thornton | 298 |
 | 198 | Michele Timms | 297 |
@@ -1470,7 +1470,7 @@ _Last updated: 2026-07-15 17:43 UTC_
 | 10 | Plenette Pierson | 1,175 |
 | 11 | Chasity Melvin | 1,165 |
 | 12 | Camille Smith | 1,159 |
-| 13 | **Natasha Howard** 🔴 | 1,158 |
+| 12 | **Natasha Howard** 🔴 +1 | 1,159 |
 | 14 | **Nneka Ogwumike** 🔴 +1 | 1,157 |
 | 15 | Alana Beard | 1,153 |
 | 16 | Swin Cash | 1,146 |
