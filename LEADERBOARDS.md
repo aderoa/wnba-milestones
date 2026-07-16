@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-16 00:16 UTC_
+_Last updated: 2026-07-16 00:17 UTC_
 
 ## Contents
 
@@ -200,7 +200,7 @@ _Last updated: 2026-07-16 00:16 UTC_
 | 179 | NaLyssa Smith | 1,879 |
 | 180 | Rachel Banham | 1,849 |
 | 181 | Damiris Dantas | 1,842 |
-| 182 | Sophie Cunningham | 1,829 |
+| 182 | **Sophie Cunningham** 🔴 | 1,829 |
 | 183 | Tianna Hawkins | 1,825 |
 | 184 | Noelle Quinn | 1,824 |
 | 185 | Danielle Adams | 1,820 |
@@ -324,8 +324,8 @@ _Last updated: 2026-07-16 00:16 UTC_
 | 98 | Seimone Augustus | 1,228 |
 | 99 | Jia Perkins | 1,220 |
 | 100 | Kahleah Copper | 1,204 |
-| 101 | **Aliyah Boston** 🔴 +1 | 1,199 |
-| 101 | DeMya Walker | 1,199 |
+| 101 | **Aliyah Boston** 🔴 +2 | 1,200 |
+| 102 | DeMya Walker | 1,199 |
 | 103 | Latasha Byears | 1,190 |
 | 103 | Tanisha Wright | 1,190 |
 | 105 | Vicky Bullett | 1,189 |
@@ -570,7 +570,7 @@ _Last updated: 2026-07-16 00:16 UTC_
 | 138 | Janeth Arcain | 469 |
 | 139 | Erin Phillips | 462 |
 | 140 | Sylvia Fowles | 461 |
-| 141 | Tyasha Harris | 460 |
+| 141 | **Tyasha Harris** 🔴 | 460 |
 | 142 | Sug Sutton | 456 |
 | 143 | Sydney Colson | 454 |
 | 144 | Yolanda Griffith | 451 |
@@ -1109,7 +1109,7 @@ _Last updated: 2026-07-16 00:16 UTC_
 | 59 | Deanna Nolan | 340 |
 | 60 | Erica Wheeler | 339 |
 | 61 | Anna DeForge | 334 |
-| 61 | Sophie Cunningham | 334 |
+| 61 | **Sophie Cunningham** 🔴 | 334 |
 | 63 | Natisha Hiedeman | 328 |
 | 64 | Sugar Rodgers | 317 |
 | 65 | Marissa Coleman | 315 |
@@ -1180,7 +1180,7 @@ _Last updated: 2026-07-16 00:16 UTC_
 | 130 | Shavonte Zellous | 167 |
 | 130 | Tianna Hawkins | 167 |
 | 132 | Charlotte Smith | 164 |
-| 133 | Tyasha Harris | 162 |
+| 133 | **Tyasha Harris** 🔴 | 162 |
 | 133 | Ukari Figgs | 162 |
 | 135 | Edna Campbell | 161 |
 | 136 | Dana Evans | 160 |
@@ -1607,7 +1607,7 @@ _Last updated: 2026-07-16 00:16 UTC_
 | 147 | Jayne Appel Marinelli | 543 |
 | 147 | Renee Montgomery | 543 |
 | 149 | Marissa Coleman | 541 |
-| 150 | Sophie Cunningham | 538 |
+| 150 | **Sophie Cunningham** 🔴 | 538 |
 | 151 | Myisha Hines-Allen | 535 |
 | 152 | Damiris Dantas | 533 |
 | 152 | Kristen Rasmussen | 533 |
