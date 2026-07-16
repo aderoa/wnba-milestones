@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-07-16T01:59:00+00:00",
+    "text": "Kelsey Mitchell passed Janell Burse for #110 all-time in fouls (career 633) \u2014 up from #113 entering today \u2014 (3:30 - 4th \u2014 GS @ IND)",
+    "kind": "rank_pass",
+    "player": "Kelsey Mitchell",
+    "stat": "fouls",
+    "rank": 110,
+    "passed_players": [
+      "Janell Burse"
+    ],
+    "new_total": 633
+  },
+  {
     "ts": "2026-07-16T01:40:00+00:00",
     "text": "Aliyah Boston passed Kara Lawson for #199 all-time in fouls (career 458) \u2014 up from #200 entering today \u2014 (9:12 - 4th \u2014 GS @ IND)",
     "kind": "rank_pass",
@@ -3004,17 +3016,5 @@
       "Margo Dydek"
     ],
     "new_total": 175
-  },
-  {
-    "ts": "2026-06-28T19:14:00+00:00",
-    "text": "Natasha Howard passed Camille Smith for #12 all-time in fouls (career 1,160) \u2014 up from #13 entering today \u2014 (7:28 - 3rd \u2014 MIN @ DAL)",
-    "kind": "rank_pass",
-    "player": "Natasha Howard",
-    "stat": "fouls",
-    "rank": 12,
-    "passed_players": [
-      "Camille Smith"
-    ],
-    "new_total": 1160
   }
 ]
