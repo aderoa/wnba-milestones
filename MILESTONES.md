@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-16 01:40 UTC
+
+- **Aliyah Boston** passed **Kara Lawson** for **#199** all-time in fouls (career 458) — up from #200 entering today — _9:12 - 4th — GS @ IND_
+
 ## 2026-07-16 00:12 UTC
 
 - **Gabby Williams** passed **Crystal Robinson** for **#199** all-time in blocks (career 66) — up from #200 entering today — _7:01 - 1st — GS @ IND_

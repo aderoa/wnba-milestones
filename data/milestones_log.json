@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-07-16T01:40:00+00:00",
+    "text": "Aliyah Boston passed Kara Lawson for #199 all-time in fouls (career 458) \u2014 up from #200 entering today \u2014 (9:12 - 4th \u2014 GS @ IND)",
+    "kind": "rank_pass",
+    "player": "Aliyah Boston",
+    "stat": "fouls",
+    "rank": 199,
+    "passed_players": [
+      "Kara Lawson"
+    ],
+    "new_total": 458
+  },
+  {
     "ts": "2026-07-16T00:12:00+00:00",
     "text": "Gabby Williams passed Crystal Robinson for #199 all-time in blocks (career 66) \u2014 up from #200 entering today \u2014 (7:01 - 1st \u2014 GS @ IND)",
     "kind": "rank_pass",
@@ -3004,17 +3016,5 @@
       "Camille Smith"
     ],
     "new_total": 1160
-  },
-  {
-    "ts": "2026-06-28T19:13:00+00:00",
-    "text": "Arike Ogunbowale passed Tiffany Mitchell for #123 all-time in fouls (career 605) \u2014 (7:40 - 3rd \u2014 MIN @ DAL)",
-    "kind": "rank_pass",
-    "player": "Arike Ogunbowale",
-    "stat": "fouls",
-    "rank": 123,
-    "passed_players": [
-      "Tiffany Mitchell"
-    ],
-    "new_total": 605
   }
 ]
