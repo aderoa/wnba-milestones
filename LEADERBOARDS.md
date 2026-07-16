@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-16 00:50 UTC_
+_Last updated: 2026-07-16 00:51 UTC_
 
 ## Contents
 
@@ -213,7 +213,7 @@ _Last updated: 2026-07-16 00:50 UTC_
 | 192 | Armintie Herrington | 1,696 |
 | 193 | Nikki Teasley | 1,690 |
 | 194 | Shenise Johnson | 1,688 |
-| 195 | **Monique Billings** 🔴 +1 | 1,613 |
+| 195 | **Monique Billings** 🔴 +2 | 1,614 |
 | 196 | Janell Burse | 1,580 |
 | 197 | Le'coe Willingham | 1,552 |
 | 198 | Shatori Walker-Kimbrough | 1,544 |
@@ -295,7 +295,7 @@ _Last updated: 2026-07-16 00:50 UTC_
 | 69 | Tamera Young | 1,433 |
 | 70 | Alana Beard | 1,420 |
 | 71 | Nakia Sanford | 1,419 |
-| 72 | **Kayla Thornton** 🔴 +3 | 1,411 |
+| 72 | **Kayla Thornton** 🔴 +5 | 1,413 |
 | 73 | Allisha Gray | 1,404 |
 | 74 | Courtney Vandersloot | 1,387 |
 | 74 | Kara Braxton | 1,387 |
