@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-07-16T02:03:00+00:00",
+    "text": "Gabby Williams passed Teaira McCowan for #171 all-time in turnovers (career 341) \u2014 up from #174 entering today \u2014 (1:44 - 4th \u2014 GS @ IND)",
+    "kind": "rank_pass",
+    "player": "Gabby Williams",
+    "stat": "turnovers",
+    "rank": 171,
+    "passed_players": [
+      "Teaira McCowan"
+    ],
+    "new_total": 341
+  },
+  {
     "ts": "2026-07-16T02:01:00+00:00",
     "text": "Gabby Williams passed Loree Moore for #172 all-time in turnovers (career 340) \u2014 up from #174 entering today \u2014 (2:47 - 4th \u2014 GS @ IND)",
     "kind": "rank_pass",
@@ -3002,17 +3014,5 @@
     "stat": "assists",
     "value": 300,
     "new_total": 300
-  },
-  {
-    "ts": "2026-06-28T19:21:00+00:00",
-    "text": "Nia Coffey passed Karima Christmas-Kelly for #150 all-time in rebounds (career 909) \u2014 up from #151 entering today \u2014 (5:15 - 3rd \u2014 MIN @ DAL)",
-    "kind": "rank_pass",
-    "player": "Nia Coffey",
-    "stat": "rebounds",
-    "rank": 150,
-    "passed_players": [
-      "Karima Christmas-Kelly"
-    ],
-    "new_total": 909
   }
 ]
