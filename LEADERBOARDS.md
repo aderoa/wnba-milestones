@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-16 01:46 UTC_
+_Last updated: 2026-07-16 01:47 UTC_
 
 ## Contents
 
@@ -148,7 +148,7 @@ _Last updated: 2026-07-16 01:46 UTC_
 | 127 | Ruth Riley | 2,434 |
 | 128 | Svetlana Abrosimova | 2,414 |
 | 129 | Anna DeForge | 2,413 |
-| 130 | **Kayla Thornton** 🔴 +5 | 2,398 |
+| 130 | **Kayla Thornton** 🔴 +9 | 2,402 |
 | 131 | DeMya Walker | 2,379 |
 | 132 | Azurá Stevens | 2,363 |
 | 133 | Alex Bentley | 2,350 |
@@ -175,7 +175,7 @@ _Last updated: 2026-07-16 01:46 UTC_
 | 154 | Tari Phillips | 2,134 |
 | 155 | Cheryl Ford | 2,116 |
 | 156 | Elena Baranova | 2,110 |
-| 157 | **Aliyah Boston** 🔴 +11 | 2,098 |
+| 157 | **Aliyah Boston** 🔴 +13 | 2,100 |
 | 158 | Aerial Powers | 2,068 |
 | 159 | Coco Miller | 2,030 |
 | 160 | Diamond DeShields | 2,026 |
@@ -496,7 +496,7 @@ _Last updated: 2026-07-16 01:46 UTC_
 | 64 | Lisa Leslie | 873 |
 | 65 | Brittney Sykes | 866 |
 | 66 | Tully Bevilaqua | 853 |
-| 67 | **Kelsey Mitchell** 🔴 +3 | 850 |
+| 67 | **Kelsey Mitchell** 🔴 +4 | 851 |
 | 68 | Jia Perkins | 837 |
 | 69 | Andrea Stinson | 810 |
 | 70 | Tina Thompson | 803 |
@@ -1121,7 +1121,7 @@ _Last updated: 2026-07-16 01:46 UTC_
 | 71 | Bridget Carleton | 306 |
 | 72 | Kelly Miller | 305 |
 | 73 | Nikki Teasley | 304 |
-| 74 | **Kayla Thornton** 🔴 +1 | 301 |
+| 74 | **Kayla Thornton** 🔴 +2 | 302 |
 | 75 | Vickie Johnson | 295 |
 | 76 | Seimone Augustus | 293 |
 | 77 | Candice Wiggins | 290 |
