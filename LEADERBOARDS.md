@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-16 02:00 UTC_
+_Last updated: 2026-07-16 02:01 UTC_
 
 ## Contents
 
@@ -45,7 +45,7 @@ _Last updated: 2026-07-16 02:00 UTC_
 | 24 | DeLisha Milton-Jones | 5,571 |
 | 25 | Katie Douglas | 5,545 |
 | 26 | Lindsay Whalen | 5,511 |
-| 27 | **Kelsey Mitchell** 🔴 +12 | 5,210 |
+| 27 | **Kelsey Mitchell** 🔴 +15 | 5,213 |
 | 28 | Swin Cash | 5,119 |
 | 29 | **Tiffany Hayes** 🔴 +11 | 5,060 |
 | 30 | Tangela Smith | 5,035 |
@@ -386,8 +386,8 @@ _Last updated: 2026-07-16 02:00 UTC_
 | 160 | Naz Hillmon | 859 |
 | 161 | Leilani Mitchell | 845 |
 | 162 | Essence Carson | 833 |
-| 163 | **Gabby Williams** 🔴 +1 | 832 |
-| 163 | Shakira Austin | 832 |
+| 162 | **Gabby Williams** 🔴 +2 | 833 |
+| 164 | Shakira Austin | 832 |
 | 165 | Kristi Toliver | 829 |
 | 166 | Marie Ferdinand-Harris | 828 |
 | 167 | Marlies Askamp | 822 |
@@ -1055,7 +1055,7 @@ _Last updated: 2026-07-16 02:00 UTC_
 | 5 | Kayla McBride | 758 |
 | 6 | Tina Thompson | 745 |
 | 7 | Katie Douglas | 723 |
-| 8 | **Kelsey Mitchell** 🔴 +1 | 713 |
+| 8 | **Kelsey Mitchell** 🔴 +2 | 714 |
 | 9 | Jewell Loyd | 695 |
 | 10 | DeWanna Bonner | 682 |
 | 11 | Kristi Toliver | 651 |
@@ -1423,9 +1423,9 @@ _Last updated: 2026-07-16 02:00 UTC_
 | 168 | Janell Burse | 347 |
 | 169 | Brionna Jones | 346 |
 | 170 | Satou Sabally | 345 |
+| 171 | **Gabby Williams** 🔴 +4 | 340 |
 | 171 | Teaira McCowan | 340 |
-| 172 | **Gabby Williams** 🔴 +3 | 339 |
-| 172 | Loree Moore | 339 |
+| 173 | Loree Moore | 339 |
 | 174 | Charlotte Smith | 337 |
 | 175 | Scholanda Dorrell | 335 |
 | 176 | Aerial Powers | 333 |

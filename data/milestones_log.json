@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-07-16T02:01:00+00:00",
+    "text": "Gabby Williams passed Loree Moore for #172 all-time in turnovers (career 340) \u2014 up from #174 entering today \u2014 (2:47 - 4th \u2014 GS @ IND)",
+    "kind": "rank_pass",
+    "player": "Gabby Williams",
+    "stat": "turnovers",
+    "rank": 172,
+    "passed_players": [
+      "Loree Moore"
+    ],
+    "new_total": 340
+  },
+  {
     "ts": "2026-07-16T01:59:00+00:00",
     "text": "Kelsey Mitchell passed Janell Burse for #110 all-time in fouls (career 633) \u2014 up from #113 entering today \u2014 (3:30 - 4th \u2014 GS @ IND)",
     "kind": "rank_pass",
@@ -3002,19 +3014,5 @@
       "Karima Christmas-Kelly"
     ],
     "new_total": 909
-  },
-  {
-    "ts": "2026-06-28T19:17:00+00:00",
-    "text": "Bridget Carleton passed Elena Delle Donne, Ezi Magbegor, and Margo Dydek for #196 all-time in steals (career 175) \u2014 up from #199 entering today \u2014 (2:36 - 1st \u2014 POR @ WSH)",
-    "kind": "rank_pass",
-    "player": "Bridget Carleton",
-    "stat": "steals",
-    "rank": 196,
-    "passed_players": [
-      "Elena Delle Donne",
-      "Ezi Magbegor",
-      "Margo Dydek"
-    ],
-    "new_total": 175
   }
 ]
