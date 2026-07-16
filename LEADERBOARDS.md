@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-16 00:40 UTC_
+_Last updated: 2026-07-16 00:41 UTC_
 
 ## Contents
 
@@ -1656,5 +1656,5 @@ _Last updated: 2026-07-16 00:40 UTC_
 | 195 | Nikki Teasley | 463 |
 | 197 | Sue Wicks | 462 |
 | 198 | Natalie Achonwa | 459 |
+| 199 | **Aliyah Boston** 🔴 +3 | 457 |
 | 199 | Kara Lawson | 457 |
-| 200 | **Aliyah Boston** 🔴 +2 | 456 |
