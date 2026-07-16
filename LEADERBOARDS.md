@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-16 00:11 UTC_
+_Last updated: 2026-07-16 00:12 UTC_
 
 ## Contents
 
@@ -324,8 +324,8 @@ _Last updated: 2026-07-16 00:11 UTC_
 | 98 | Seimone Augustus | 1,228 |
 | 99 | Jia Perkins | 1,220 |
 | 100 | Kahleah Copper | 1,204 |
+| 101 | **Aliyah Boston** 🔴 +1 | 1,199 |
 | 101 | DeMya Walker | 1,199 |
-| 102 | **Aliyah Boston** 🔴 | 1,198 |
 | 103 | Latasha Byears | 1,190 |
 | 103 | Tanisha Wright | 1,190 |
 | 105 | Vicky Bullett | 1,189 |
@@ -612,8 +612,8 @@ _Last updated: 2026-07-16 00:11 UTC_
 | 180 | Shenise Johnson | 376 |
 | 181 | Alanna Smith | 374 |
 | 182 | Suzie McConnell Serio | 370 |
-| 183 | Damiris Dantas | 368 |
-| 183 | **Kayla Thornton** 🔴 | 368 |
+| 183 | **Kayla Thornton** 🔴 +1 | 369 |
+| 184 | Damiris Dantas | 368 |
 | 185 | Roneeka Hodges | 362 |
 | 186 | Andrea Nagy | 361 |
 | 186 | Diamond DeShields | 361 |
@@ -832,12 +832,12 @@ _Last updated: 2026-07-16 00:11 UTC_
 | 193 | Satou Sabally | 69 |
 | 196 | Shannon Johnson | 67 |
 | 196 | **Veronica Burton** 🔴 | 67 |
+| 198 | **Gabby Williams** 🔴 +1 | 66 |
 | 198 | Kennedy Burke | 66 |
-| 199 | Crystal Robinson | 65 |
-| 199 | **Gabby Williams** 🔴 | 65 |
-| 199 | Queen Egbo | 65 |
-| 199 | Riquna Williams | 65 |
-| 199 | Sabrina Ionescu | 65 |
+| 200 | Crystal Robinson | 65 |
+| 200 | Queen Egbo | 65 |
+| 200 | Riquna Williams | 65 |
+| 200 | Sabrina Ionescu | 65 |
 
 ## Steals
 
@@ -1237,7 +1237,7 @@ _Last updated: 2026-07-16 00:11 UTC_
 | 187 | Gordana Grubin | 114 |
 | 187 | Rickea Jackson | 114 |
 | 187 | Sandy Brondello | 114 |
-| 190 | **Cecilia Zandalasini** 🔴 +1 | 112 |
+| 190 | **Cecilia Zandalasini** 🔴 +2 | 113 |
 | 191 | Janelle Salaun | 111 |
 | 191 | Shoni Schimmel | 111 |
 | 193 | Emma Meesseman | 109 |

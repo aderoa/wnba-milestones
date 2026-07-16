@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-07-16T00:12:00+00:00",
+    "text": "Gabby Williams passed Crystal Robinson for #199 all-time in blocks (career 66) \u2014 up from #200 entering today \u2014 (7:01 - 1st \u2014 GS @ IND)",
+    "kind": "rank_pass",
+    "player": "Gabby Williams",
+    "stat": "blocks",
+    "rank": 199,
+    "passed_players": [
+      "Crystal Robinson"
+    ],
+    "new_total": 66
+  },
+  {
     "ts": "2026-07-15T17:52:00+00:00",
     "text": "Elizabeth Williams passed Ruth Riley for #10 all-time in blocks (career 506) \u2014 up from #11 entering today \u2014 (1:13 - 4th \u2014 SEA @ CHI)",
     "kind": "rank_pass",
@@ -3004,17 +3016,5 @@
       "Tiffany Mitchell"
     ],
     "new_total": 605
-  },
-  {
-    "ts": "2026-06-28T19:12:00+00:00",
-    "text": "Natasha Howard passed Erika de Souza for #19 all-time in blocks (career 371) \u2014 up from #20 entering today \u2014 (8:24 - 3rd \u2014 MIN @ DAL)",
-    "kind": "rank_pass",
-    "player": "Natasha Howard",
-    "stat": "blocks",
-    "rank": 19,
-    "passed_players": [
-      "Erika de Souza"
-    ],
-    "new_total": 371
   }
 ]

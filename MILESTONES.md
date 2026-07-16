@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-16 00:12 UTC
+
+- **Gabby Williams** passed **Crystal Robinson** for **#199** all-time in blocks (career 66) — up from #200 entering today — _7:01 - 1st — GS @ IND_
+
 ## 2026-07-15 17:52 UTC
 
 - **Elizabeth Williams** passed **Ruth Riley** for **#10** all-time in blocks (career 506) — up from #11 entering today — _1:13 - 4th — SEA @ CHI_
