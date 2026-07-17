@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-17 01:01 UTC_
+_Last updated: 2026-07-17 01:02 UTC_
 
 ## Contents
 
@@ -385,7 +385,7 @@ _Last updated: 2026-07-17 01:01 UTC_
 | 159 | Krystal Thomas | 862 |
 | 160 | Naz Hillmon | 859 |
 | 161 | Leilani Mitchell | 845 |
-| 162 | **Shakira Austin** 🔴 +9 | 841 |
+| 162 | Shakira Austin | 841 |
 | 163 | Essence Carson | 833 |
 | 164 | Gabby Williams | 831 |
 | 165 | Kristi Toliver | 829 |
@@ -605,7 +605,7 @@ _Last updated: 2026-07-17 01:01 UTC_
 | 173 | Sugar Rodgers | 393 |
 | 174 | Shameka Christon | 389 |
 | 174 | Tamicha Jackson | 389 |
-| 176 | **Bridget Carleton** 🔴 +3 | 387 |
+| 176 | Bridget Carleton | 387 |
 | 176 | Riquna Williams | 387 |
 | 178 | Dana Evans | 379 |
 | 179 | Jessica Breland | 377 |
@@ -729,7 +729,7 @@ _Last updated: 2026-07-17 01:01 UTC_
 | 91 | Nakia Sanford | 131 |
 | 93 | Brooke Wyckoff | 129 |
 | 93 | Cathrine Kraayeveld | 129 |
-| 95 | **Emily Engstler** 🔴 | 128 |
+| 95 | Emily Engstler | 128 |
 | 96 | Alyssa Thomas | 127 |
 | 96 | Chelsea Gray | 127 |
 | 96 | Chiney Ogwumike | 127 |
@@ -742,7 +742,7 @@ _Last updated: 2026-07-17 01:01 UTC_
 | 105 | Natalie Williams | 122 |
 | 106 | Ebony Hoffman | 121 |
 | 106 | Essence Carson | 121 |
-| 106 | **Shakira Austin** 🔴 +2 | 121 |
+| 106 | Shakira Austin | 121 |
 | 109 | Krystal Thomas | 118 |
 | 110 | Andrea Stinson | 117 |
 | 110 | Crystal Langhorne | 117 |
@@ -1038,7 +1038,7 @@ _Last updated: 2026-07-17 01:01 UTC_
 | 193 | Brittany Boyd-Jones | 176 |
 | 193 | Chiney Ogwumike | 176 |
 | 195 | Tamika Raymond | 175 |
-| 196 | **Bridget Carleton** 🔴 +1 | 174 |
+| 196 | Bridget Carleton | 174 |
 | 196 | Elena Delle Donne | 174 |
 | 196 | Ezi Magbegor | 174 |
 | 196 | Margo Dydek | 174 |
@@ -1117,7 +1117,7 @@ _Last updated: 2026-07-17 01:01 UTC_
 | 67 | DeLisha Milton-Jones | 312 |
 | 67 | Ruthie Bolton | 312 |
 | 69 | Tan White | 311 |
-| 70 | **Bridget Carleton** 🔴 +2 | 308 |
+| 70 | Bridget Carleton | 308 |
 | 71 | Kedra Holland-Corn | 307 |
 | 72 | Kelly Miller | 305 |
 | 73 | Nikki Teasley | 304 |
@@ -1194,7 +1194,7 @@ _Last updated: 2026-07-17 01:01 UTC_
 | 143 | Gabby Williams | 153 |
 | 143 | Jennifer Gillom | 153 |
 | 143 | Katie Lou Samuelson | 153 |
-| 147 | **Michaela Onyenwere** 🔴 +1 | 152 |
+| 147 | Michaela Onyenwere | 152 |
 | 148 | Rita Williams | 150 |
 | 149 | Moriah Jefferson | 149 |
 | 149 | Tiffany Mitchell | 149 |
@@ -1205,7 +1205,7 @@ _Last updated: 2026-07-17 01:01 UTC_
 | 153 | Matee Ajavon | 144 |
 | 156 | Shenise Johnson | 143 |
 | 157 | Jordan Hooper | 141 |
-| 158 | **Karlie Samuelson** 🔴 +1 | 140 |
+| 158 | Karlie Samuelson | 140 |
 | 159 | Coco Miller | 139 |
 | 160 | Loree Moore | 138 |
 | 160 | Tanisha Wright | 138 |
