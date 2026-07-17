@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-17 23:53 UTC_
+_Last updated: 2026-07-17 23:54 UTC_
 
 ## Contents
 
@@ -45,7 +45,7 @@ _Last updated: 2026-07-17 23:53 UTC_
 | 24 | DeLisha Milton-Jones | 5,571 |
 | 25 | Katie Douglas | 5,545 |
 | 26 | Lindsay Whalen | 5,511 |
-| 27 | **Kelsey Mitchell** 🔴 +14 | 5,212 |
+| 27 | **Kelsey Mitchell** 🔴 +17 | 5,215 |
 | 28 | Swin Cash | 5,119 |
 | 29 | Tiffany Hayes | 5,049 |
 | 30 | Tangela Smith | 5,035 |
@@ -347,7 +347,7 @@ _Last updated: 2026-07-17 23:53 UTC_
 | 121 | Svetlana Abrosimova | 1,078 |
 | 122 | Le'coe Willingham | 1,054 |
 | 123 | Nicole Ohlde | 1,040 |
-| 124 | **Angel Reese** 🔴 +1 | 1,036 |
+| 124 | **Angel Reese** 🔴 +2 | 1,037 |
 | 125 | Tamecka Dixon | 1,035 |
 | 126 | Kamila Vodichkova | 1,031 |
 | 127 | Jasmine Thomas | 1,027 |
@@ -551,7 +551,7 @@ _Last updated: 2026-07-17 23:53 UTC_
 | 118 | Svetlana Abrosimova | 551 |
 | 120 | Michele Timms | 549 |
 | 121 | **Rhyne Howard** 🔴 +1 | 537 |
-| 122 | **Myisha Hines-Allen** 🔴 +1 | 530 |
+| 122 | **Myisha Hines-Allen** 🔴 +2 | 531 |
 | 123 | Marie Ferdinand-Harris | 528 |
 | 124 | Margo Dydek | 524 |
 | 125 | **Rachel Banham** 🔴 +1 | 512 |
@@ -1055,7 +1055,7 @@ _Last updated: 2026-07-17 23:53 UTC_
 | 5 | Kayla McBride | 756 |
 | 6 | Tina Thompson | 745 |
 | 7 | Katie Douglas | 723 |
-| 8 | **Kelsey Mitchell** 🔴 +1 | 713 |
+| 8 | **Kelsey Mitchell** 🔴 +2 | 714 |
 | 9 | Jewell Loyd | 695 |
 | 10 | DeWanna Bonner | 682 |
 | 11 | Kristi Toliver | 651 |
@@ -1190,10 +1190,10 @@ _Last updated: 2026-07-17 23:53 UTC_
 | 139 | Jennifer Azzi | 158 |
 | 139 | Natasha Howard | 158 |
 | 142 | Alanna Smith | 156 |
-| 143 | Bridget Pettis | 153 |
-| 143 | Gabby Williams | 153 |
-| 143 | Jennifer Gillom | 153 |
-| 143 | **Katie Lou Samuelson** 🔴 | 153 |
+| 143 | **Katie Lou Samuelson** 🔴 +1 | 154 |
+| 144 | Bridget Pettis | 153 |
+| 144 | Gabby Williams | 153 |
+| 144 | Jennifer Gillom | 153 |
 | 147 | Michaela Onyenwere | 151 |
 | 148 | Rita Williams | 150 |
 | 149 | Moriah Jefferson | 149 |
