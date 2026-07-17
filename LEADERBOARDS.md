@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-17 15:00 UTC_
+_Last updated: 2026-07-17 15:01 UTC_
 
 ## Contents
 
@@ -385,8 +385,8 @@ _Last updated: 2026-07-17 15:00 UTC_
 | 159 | Krystal Thomas | 862 |
 | 160 | Naz Hillmon | 859 |
 | 161 | Leilani Mitchell | 845 |
-| 162 | Shakira Austin | 841 |
-| 163 | Essence Carson | 833 |
+| 162 | Essence Carson | 833 |
+| 163 | Shakira Austin | 832 |
 | 164 | Gabby Williams | 831 |
 | 165 | Kristi Toliver | 829 |
 | 166 | Marie Ferdinand-Harris | 828 |
@@ -605,8 +605,8 @@ _Last updated: 2026-07-17 15:00 UTC_
 | 173 | Sugar Rodgers | 393 |
 | 174 | Shameka Christon | 389 |
 | 174 | Tamicha Jackson | 389 |
-| 176 | Bridget Carleton | 387 |
 | 176 | Riquna Williams | 387 |
+| 177 | Bridget Carleton | 384 |
 | 178 | Dana Evans | 379 |
 | 179 | Jessica Breland | 377 |
 | 180 | Shenise Johnson | 376 |
@@ -742,7 +742,7 @@ _Last updated: 2026-07-17 15:00 UTC_
 | 105 | Natalie Williams | 122 |
 | 106 | Ebony Hoffman | 121 |
 | 106 | Essence Carson | 121 |
-| 106 | Shakira Austin | 121 |
+| 108 | Shakira Austin | 119 |
 | 109 | Krystal Thomas | 118 |
 | 110 | Andrea Stinson | 117 |
 | 110 | Crystal Langhorne | 117 |
@@ -1038,11 +1038,11 @@ _Last updated: 2026-07-17 15:00 UTC_
 | 193 | Brittany Boyd-Jones | 176 |
 | 193 | Chiney Ogwumike | 176 |
 | 195 | Tamika Raymond | 175 |
-| 196 | Bridget Carleton | 174 |
 | 196 | Elena Delle Donne | 174 |
 | 196 | Ezi Magbegor | 174 |
 | 196 | Margo Dydek | 174 |
-| 200 | Kamila Vodichkova | 173 |
+| 199 | Bridget Carleton | 173 |
+| 199 | Kamila Vodichkova | 173 |
 
 ## Three-pointers
 
@@ -1117,8 +1117,8 @@ _Last updated: 2026-07-17 15:00 UTC_
 | 67 | DeLisha Milton-Jones | 312 |
 | 67 | Ruthie Bolton | 312 |
 | 69 | Tan White | 311 |
-| 70 | Bridget Carleton | 308 |
-| 71 | Kedra Holland-Corn | 307 |
+| 70 | Kedra Holland-Corn | 307 |
+| 71 | Bridget Carleton | 306 |
 | 72 | Kelly Miller | 305 |
 | 73 | Nikki Teasley | 304 |
 | 74 | Kayla Thornton | 300 |
@@ -1194,7 +1194,7 @@ _Last updated: 2026-07-17 15:00 UTC_
 | 143 | Gabby Williams | 153 |
 | 143 | Jennifer Gillom | 153 |
 | 143 | Katie Lou Samuelson | 153 |
-| 147 | Michaela Onyenwere | 152 |
+| 147 | Michaela Onyenwere | 151 |
 | 148 | Rita Williams | 150 |
 | 149 | Moriah Jefferson | 149 |
 | 149 | Tiffany Mitchell | 149 |
@@ -1205,8 +1205,8 @@ _Last updated: 2026-07-17 15:00 UTC_
 | 153 | Matee Ajavon | 144 |
 | 156 | Shenise Johnson | 143 |
 | 157 | Jordan Hooper | 141 |
-| 158 | Karlie Samuelson | 140 |
-| 159 | Coco Miller | 139 |
+| 158 | Coco Miller | 139 |
+| 158 | Karlie Samuelson | 139 |
 | 160 | Loree Moore | 138 |
 | 160 | Tanisha Wright | 138 |
 | 162 | Kaleena Mosqueda-Lewis | 137 |
