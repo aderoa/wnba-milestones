@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-17 23:40 UTC_
+_Last updated: 2026-07-17 23:41 UTC_
 
 ## Contents
 
@@ -104,7 +104,7 @@ _Last updated: 2026-07-17 23:40 UTC_
 | 83 | Sheri Sam | 3,353 |
 | 84 | Andrea Stinson | 3,351 |
 | 85 | Tanisha Wright | 3,324 |
-| 86 | **Marina Mabrey** 🔴 +2 | 3,251 |
+| 86 | **Marina Mabrey** 🔴 +5 | 3,254 |
 | 87 | Stefanie Dolson | 3,217 |
 | 88 | Margo Dydek | 3,214 |
 | 89 | **Erica Wheeler** 🔴 +2 | 3,197 |
@@ -124,7 +124,7 @@ _Last updated: 2026-07-17 23:40 UTC_
 | 103 | Iziane Castro Marques | 2,862 |
 | 104 | Alysha Clark | 2,808 |
 | 105 | Jantel Lavender | 2,775 |
-| 106 | **Brionna Jones** 🔴 | 2,765 |
+| 106 | **Brionna Jones** 🔴 +2 | 2,767 |
 | 107 | Dominique Canty | 2,763 |
 | 108 | Ticha Penicheiro | 2,729 |
 | 109 | Adrienne Goodson | 2,705 |
@@ -152,7 +152,7 @@ _Last updated: 2026-07-17 23:40 UTC_
 | 131 | DeMya Walker | 2,379 |
 | 132 | Alex Bentley | 2,350 |
 | 133 | **Azurá Stevens** 🔴 +2 | 2,345 |
-| 134 | **Jordin Canada** 🔴 | 2,342 |
+| 133 | **Jordin Canada** 🔴 +3 | 2,345 |
 | 135 | Merlakia Jones | 2,308 |
 | 136 | Betnijah Laney-Hamilton | 2,302 |
 | 137 | Satou Sabally | 2,296 |
@@ -213,7 +213,7 @@ _Last updated: 2026-07-17 23:40 UTC_
 | 192 | Armintie Herrington | 1,696 |
 | 193 | Nikki Teasley | 1,690 |
 | 194 | Shenise Johnson | 1,688 |
-| 195 | **Monique Billings** 🔴 +4 | 1,616 |
+| 195 | **Monique Billings** 🔴 +6 | 1,618 |
 | 196 | Janell Burse | 1,580 |
 | 197 | Le'coe Willingham | 1,552 |
 | 198 | Shatori Walker-Kimbrough | 1,544 |
@@ -227,7 +227,7 @@ _Last updated: 2026-07-17 23:40 UTC_
 | 1 | Tina Charles | 4,262 |
 | 2 | Sylvia Fowles | 4,005 |
 | 3 | Candace Parker | 3,467 |
-| 4 | **Nneka Ogwumike** 🔴 +2 | 3,408 |
+| 4 | **Nneka Ogwumike** 🔴 +3 | 3,409 |
 | 5 | Rebekkah Brunson | 3,345 |
 | 6 | Tamika Catchings | 3,313 |
 | 7 | Lisa Leslie | 3,303 |
@@ -411,8 +411,8 @@ _Last updated: 2026-07-17 23:40 UTC_
 | 183 | Tan White | 769 |
 | 186 | Tully Bevilaqua | 767 |
 | 187 | Layshia Clarendon | 756 |
-| 188 | Brooke Wyckoff | 751 |
-| 188 | **Kamilla Cardoso** 🔴 +1 | 751 |
+| 188 | **Kamilla Cardoso** 🔴 +2 | 752 |
+| 189 | Brooke Wyckoff | 751 |
 | 190 | Coco Miller | 750 |
 | 191 | Kelsey Plum | 741 |
 | 192 | Alex Montgomery | 735 |
@@ -438,7 +438,7 @@ _Last updated: 2026-07-17 23:40 UTC_
 | 6 | Chelsea Gray | 2,003 |
 | 7 | Alyssa Thomas | 1,971 |
 | 8 | Skylar Diggins | 1,852 |
-| 9 | **Natasha Cloud** 🔴 +1 | 1,803 |
+| 9 | **Natasha Cloud** 🔴 +2 | 1,804 |
 | 10 | Becky Hammon | 1,705 |
 | 11 | Candace Parker | 1,634 |
 | 12 | Cappie Pondexter | 1,575 |
@@ -516,7 +516,7 @@ _Last updated: 2026-07-17 23:40 UTC_
 | 84 | **Ariel Atkins** 🔴 | 682 |
 | 85 | Emma Meesseman | 681 |
 | 86 | Nykesha Sales | 677 |
-| 87 | **Natisha Hiedeman** 🔴 | 668 |
+| 87 | **Natisha Hiedeman** 🔴 +1 | 669 |
 | 88 | A'ja Wilson | 667 |
 | 89 | Bria Hartley | 661 |
 | 90 | Brittney Griner | 660 |
@@ -958,7 +958,7 @@ _Last updated: 2026-07-17 23:40 UTC_
 | 113 | Crystal Robinson | 267 |
 | 113 | Kelsey Plum | 267 |
 | 115 | Anna DeForge | 266 |
-| 116 | **Brionna Jones** 🔴 | 265 |
+| 115 | **Brionna Jones** 🔴 +1 | 266 |
 | 117 | Michelle Snow | 262 |
 | 118 | Karima Christmas-Kelly | 261 |
 | 119 | Jonquel Jones | 260 |
@@ -1070,7 +1070,7 @@ _Last updated: 2026-07-17 23:40 UTC_
 | 20 | Sami Whitcomb | 511 |
 | 21 | Allie Quigley | 510 |
 | 22 | Leilani Mitchell | 508 |
-| 23 | **Marina Mabrey** 🔴 | 500 |
+| 23 | **Marina Mabrey** 🔴 +1 | 501 |
 | 24 | Sabrina Ionescu | 468 |
 | 24 | Shekinna Stricklen | 468 |
 | 26 | Breanna Stewart | 465 |
@@ -1217,9 +1217,9 @@ _Last updated: 2026-07-17 23:40 UTC_
 | 167 | Amanda Zahui B | 130 |
 | 167 | Eva Nemcova | 130 |
 | 169 | Crystal Dangerfield | 129 |
+| 169 | **Jordin Canada** 🔴 +1 | 129 |
 | 169 | Leonie Fiebich | 129 |
-| 171 | **Jordin Canada** 🔴 | 128 |
-| 171 | Ticha Penicheiro | 128 |
+| 172 | Ticha Penicheiro | 128 |
 | 173 | Michele Timms | 127 |
 | 174 | Tamecka Dixon | 126 |
 | 175 | Kennedy Burke | 125 |
