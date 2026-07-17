@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-17 23:46 UTC_
+_Last updated: 2026-07-17 23:47 UTC_
 
 ## Contents
 
@@ -61,7 +61,7 @@ _Last updated: 2026-07-17 23:46 UTC_
 | 40 | Chelsea Gray | 4,625 |
 | 41 | Penny Taylor | 4,595 |
 | 42 | Kelsey Plum | 4,494 |
-| 43 | **Allisha Gray** 🔴 | 4,491 |
+| 43 | **Allisha Gray** 🔴 +2 | 4,493 |
 | 44 | Kristi Toliver | 4,474 |
 | 45 | Kahleah Copper | 4,437 |
 | 46 | Crystal Langhorne | 4,433 |
@@ -124,7 +124,7 @@ _Last updated: 2026-07-17 23:46 UTC_
 | 103 | Iziane Castro Marques | 2,862 |
 | 104 | Alysha Clark | 2,808 |
 | 105 | Jantel Lavender | 2,775 |
-| 106 | **Brionna Jones** 🔴 +2 | 2,767 |
+| 106 | **Brionna Jones** 🔴 | 2,765 |
 | 107 | Dominique Canty | 2,763 |
 | 108 | Ticha Penicheiro | 2,729 |
 | 109 | Adrienne Goodson | 2,705 |
@@ -151,7 +151,7 @@ _Last updated: 2026-07-17 23:46 UTC_
 | 130 | Kayla Thornton | 2,393 |
 | 131 | DeMya Walker | 2,379 |
 | 132 | Alex Bentley | 2,350 |
-| 133 | **Azurá Stevens** 🔴 +4 | 2,347 |
+| 133 | **Azurá Stevens** 🔴 +6 | 2,349 |
 | 134 | **Jordin Canada** 🔴 +3 | 2,345 |
 | 135 | Merlakia Jones | 2,308 |
 | 136 | Betnijah Laney-Hamilton | 2,302 |
@@ -180,7 +180,7 @@ _Last updated: 2026-07-17 23:46 UTC_
 | 159 | Coco Miller | 2,030 |
 | 160 | Diamond DeShields | 2,026 |
 | 161 | Vicky Bullett | 2,018 |
-| 162 | **Natisha Hiedeman** 🔴 | 2,002 |
+| 162 | **Natisha Hiedeman** 🔴 +2 | 2,004 |
 | 163 | Ezi Magbegor | 1,995 |
 | 164 | Bria Hartley | 1,967 |
 | 165 | Chiney Ogwumike | 1,964 |
@@ -227,7 +227,7 @@ _Last updated: 2026-07-17 23:46 UTC_
 | 1 | Tina Charles | 4,262 |
 | 2 | Sylvia Fowles | 4,005 |
 | 3 | Candace Parker | 3,467 |
-| 4 | **Nneka Ogwumike** 🔴 +3 | 3,409 |
+| 4 | **Nneka Ogwumike** 🔴 +4 | 3,410 |
 | 5 | Rebekkah Brunson | 3,345 |
 | 6 | Tamika Catchings | 3,313 |
 | 7 | Lisa Leslie | 3,303 |
@@ -310,7 +310,7 @@ _Last updated: 2026-07-17 23:46 UTC_
 | 84 | Erlana Larkins | 1,329 |
 | 85 | Mwadi Mabika | 1,327 |
 | 86 | Jayne Appel Marinelli | 1,326 |
-| 87 | **Azurá Stevens** 🔴 +2 | 1,321 |
+| 87 | **Azurá Stevens** 🔴 +1 | 1,320 |
 | 88 | Betty Lennox | 1,296 |
 | 89 | Tari Phillips | 1,274 |
 | 90 | **Myisha Hines-Allen** 🔴 | 1,265 |
@@ -332,8 +332,8 @@ _Last updated: 2026-07-17 23:46 UTC_
 | 106 | NaLyssa Smith | 1,172 |
 | 107 | Brittney Sykes | 1,162 |
 | 108 | Nykesha Sales | 1,148 |
-| 109 | **Natasha Cloud** 🔴 +2 | 1,143 |
-| 109 | Shannon Johnson | 1,143 |
+| 109 | **Natasha Cloud** 🔴 +3 | 1,144 |
+| 110 | Shannon Johnson | 1,143 |
 | 111 | Adrian Williams-Strong | 1,131 |
 | 112 | Andrea Stinson | 1,127 |
 | 112 | Tamika Raymond | 1,127 |
@@ -438,7 +438,7 @@ _Last updated: 2026-07-17 23:46 UTC_
 | 6 | Chelsea Gray | 2,003 |
 | 7 | Alyssa Thomas | 1,971 |
 | 8 | Skylar Diggins | 1,852 |
-| 9 | **Natasha Cloud** 🔴 +3 | 1,805 |
+| 9 | **Natasha Cloud** 🔴 +4 | 1,806 |
 | 10 | Becky Hammon | 1,705 |
 | 11 | Candace Parker | 1,634 |
 | 12 | Cappie Pondexter | 1,575 |
@@ -899,7 +899,7 @@ _Last updated: 2026-07-17 23:46 UTC_
 | 54 | Swin Cash | 384 |
 | 54 | Tiffany Hayes | 384 |
 | 54 | Tina Charles | 384 |
-| 57 | **Allisha Gray** 🔴 | 379 |
+| 57 | **Allisha Gray** 🔴 +1 | 380 |
 | 58 | Monique Currie | 378 |
 | 59 | Chamique Holdsclaw | 376 |
 | 60 | Brittney Sykes | 371 |
@@ -1001,8 +1001,8 @@ _Last updated: 2026-07-17 23:46 UTC_
 | 155 | Candice Wiggins | 215 |
 | 155 | Elena Baranova | 215 |
 | 158 | Shekinna Stricklen | 213 |
+| 159 | **Azurá Stevens** 🔴 +1 | 211 |
 | 159 | Nikki Teasley | 211 |
-| 160 | **Azurá Stevens** 🔴 | 210 |
 | 161 | Iziane Castro Marques | 209 |
 | 161 | Tiffany Mitchell | 209 |
 | 163 | Kia Vaughn | 208 |
@@ -1344,7 +1344,7 @@ _Last updated: 2026-07-17 23:46 UTC_
 | 89 | Lauren Jackson | 549 |
 | 90 | Matee Ajavon | 544 |
 | 91 | Adrienne Goodson | 542 |
-| 92 | **Marina Mabrey** 🔴 +1 | 538 |
+| 92 | **Marina Mabrey** 🔴 | 537 |
 | 93 | Layshia Clarendon | 536 |
 | 94 | Ivory Latta | 534 |
 | 94 | Iziane Castro Marques | 534 |
@@ -1633,9 +1633,9 @@ _Last updated: 2026-07-17 23:46 UTC_
 | 173 | Iziane Castro Marques | 502 |
 | 174 | Elena Baranova | 501 |
 | 175 | Adrian Williams-Strong | 497 |
+| 175 | **Azurá Stevens** 🔴 +2 | 497 |
 | 175 | Essence Carson | 497 |
 | 175 | Rachel Banham | 497 |
-| 178 | **Azurá Stevens** 🔴 +1 | 496 |
 | 179 | Nia Coffey | 495 |
 | 180 | Karima Christmas-Kelly | 494 |
 | 181 | Ann Wauters | 493 |
