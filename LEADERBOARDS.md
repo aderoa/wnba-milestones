@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-17 23:52 UTC_
+_Last updated: 2026-07-17 23:53 UTC_
 
 ## Contents
 
@@ -45,7 +45,7 @@ _Last updated: 2026-07-17 23:52 UTC_
 | 24 | DeLisha Milton-Jones | 5,571 |
 | 25 | Katie Douglas | 5,545 |
 | 26 | Lindsay Whalen | 5,511 |
-| 27 | **Kelsey Mitchell** 🔴 +11 | 5,209 |
+| 27 | **Kelsey Mitchell** 🔴 +14 | 5,212 |
 | 28 | Swin Cash | 5,119 |
 | 29 | Tiffany Hayes | 5,049 |
 | 30 | Tangela Smith | 5,035 |
@@ -104,8 +104,8 @@ _Last updated: 2026-07-17 23:52 UTC_
 | 83 | Sheri Sam | 3,353 |
 | 84 | Andrea Stinson | 3,351 |
 | 85 | Tanisha Wright | 3,324 |
-| 86 | **Marina Mabrey** 🔴 +9 | 3,258 |
-| 87 | **Stefanie Dolson** 🔴 +1 | 3,218 |
+| 86 | **Marina Mabrey** 🔴 +11 | 3,260 |
+| 87 | **Stefanie Dolson** 🔴 +2 | 3,219 |
 | 88 | Margo Dydek | 3,214 |
 | 89 | **Erica Wheeler** 🔴 +4 | 3,199 |
 | 90 | Danielle Robinson | 3,160 |
@@ -313,7 +313,7 @@ _Last updated: 2026-07-17 23:52 UTC_
 | 87 | **Azurá Stevens** 🔴 +1 | 1,320 |
 | 88 | Betty Lennox | 1,296 |
 | 89 | Tari Phillips | 1,274 |
-| 90 | **Myisha Hines-Allen** 🔴 +1 | 1,266 |
+| 90 | **Myisha Hines-Allen** 🔴 +2 | 1,267 |
 | 91 | Janel McCarville | 1,261 |
 | 92 | Liz Cambage | 1,258 |
 | 93 | Chelsea Gray | 1,257 |
@@ -380,7 +380,7 @@ _Last updated: 2026-07-17 23:52 UTC_
 | 154 | Mistie Bass | 888 |
 | 155 | **Erica Wheeler** 🔴 +3 | 885 |
 | 156 | Alanna Smith | 878 |
-| 157 | **Marina Mabrey** 🔴 +2 | 876 |
+| 157 | **Marina Mabrey** 🔴 +3 | 877 |
 | 158 | Shameka Christon | 867 |
 | 159 | Krystal Thomas | 862 |
 | 160 | **Naz Hillmon** 🔴 +1 | 860 |
@@ -551,7 +551,7 @@ _Last updated: 2026-07-17 23:52 UTC_
 | 118 | Svetlana Abrosimova | 551 |
 | 120 | Michele Timms | 549 |
 | 121 | **Rhyne Howard** 🔴 +1 | 537 |
-| 122 | **Myisha Hines-Allen** 🔴 | 529 |
+| 122 | **Myisha Hines-Allen** 🔴 +1 | 530 |
 | 123 | Marie Ferdinand-Harris | 528 |
 | 124 | Margo Dydek | 524 |
 | 125 | **Rachel Banham** 🔴 +1 | 512 |
@@ -1020,8 +1020,8 @@ _Last updated: 2026-07-17 23:52 UTC_
 | 174 | Sonja Henning | 194 |
 | 174 | Tierra Ruffin-Pratt | 194 |
 | 177 | Cynthia Cooper | 192 |
-| 178 | **Isabelle Harrison** 🔴 +1 | 191 |
 | 178 | **Myisha Hines-Allen** 🔴 | 191 |
+| 179 | **Isabelle Harrison** 🔴 | 190 |
 | 180 | Tamicha Jackson | 188 |
 | 181 | Michele Timms | 187 |
 | 182 | Charde Houston | 185 |
@@ -1055,7 +1055,7 @@ _Last updated: 2026-07-17 23:52 UTC_
 | 5 | Kayla McBride | 756 |
 | 6 | Tina Thompson | 745 |
 | 7 | Katie Douglas | 723 |
-| 8 | **Kelsey Mitchell** 🔴 | 712 |
+| 8 | **Kelsey Mitchell** 🔴 +1 | 713 |
 | 9 | Jewell Loyd | 695 |
 | 10 | DeWanna Bonner | 682 |
 | 11 | Kristi Toliver | 651 |
@@ -1180,8 +1180,8 @@ _Last updated: 2026-07-17 23:52 UTC_
 | 130 | Shavonte Zellous | 167 |
 | 130 | Tianna Hawkins | 167 |
 | 132 | Charlotte Smith | 164 |
-| 133 | **Tyasha Harris** 🔴 | 162 |
-| 133 | Ukari Figgs | 162 |
+| 133 | **Tyasha Harris** 🔴 +1 | 163 |
+| 134 | Ukari Figgs | 162 |
 | 135 | Edna Campbell | 161 |
 | 136 | Dana Evans | 160 |
 | 136 | Jennifer Lacy | 160 |
@@ -1442,7 +1442,7 @@ _Last updated: 2026-07-17 23:52 UTC_
 | 185 | **Natisha Hiedeman** 🔴 +2 | 314 |
 | 188 | Alex Bentley | 313 |
 | 189 | Tamika Raymond | 311 |
-| 190 | **Isabelle Harrison** 🔴 | 307 |
+| 190 | **Isabelle Harrison** 🔴 +1 | 308 |
 | 191 | Erin Perperoglou | 305 |
 | 191 | Jennifer Lacy | 305 |
 | 193 | **Azurá Stevens** 🔴 | 304 |
