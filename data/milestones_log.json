@@ -1,5 +1,26 @@
 [
   {
+    "ts": "2026-07-18T01:22:00+00:00",
+    "text": "Caitlin Clark reached 200 career three-pointers (now 200) \u2014 (1:24 - 4th \u2014 SEA @ IND)",
+    "kind": "round",
+    "player": "Caitlin Clark",
+    "stat": "three-pointers",
+    "value": 200,
+    "new_total": 200
+  },
+  {
+    "ts": "2026-07-18T01:22:00+00:00",
+    "text": "Caitlin Clark passed Shanna Zolman for #110 all-time in three-pointers (career 200) \u2014 up from #114 entering today \u2014 (1:24 - 4th \u2014 SEA @ IND)",
+    "kind": "rank_pass",
+    "player": "Caitlin Clark",
+    "stat": "three-pointers",
+    "rank": 110,
+    "passed_players": [
+      "Shanna Zolman"
+    ],
+    "new_total": 200
+  },
+  {
     "ts": "2026-07-18T01:15:00+00:00",
     "text": "Caitlin Clark reached 600 career assists (now 600) \u2014 (4:10 - 4th \u2014 SEA @ IND)",
     "kind": "round",
@@ -2990,27 +3011,5 @@
       "Tamecka Dixon"
     ],
     "new_total": 356
-  },
-  {
-    "ts": "2026-06-28T19:58:00+00:00",
-    "text": "Natasha Howard reached 4,700 career points (now 4,701) \u2014 (2:30 - 4th \u2014 MIN @ DAL)",
-    "kind": "round",
-    "player": "Natasha Howard",
-    "stat": "points",
-    "value": 4700,
-    "new_total": 4701
-  },
-  {
-    "ts": "2026-06-28T19:58:00+00:00",
-    "text": "Kayla McBride passed Chelsea Gray and Tiffany Hayes for #93 all-time in rebounds (career 1,258) \u2014 up from #95 entering today \u2014 (2:30 - 4th \u2014 MIN @ DAL)",
-    "kind": "rank_pass",
-    "player": "Kayla McBride",
-    "stat": "rebounds",
-    "rank": 93,
-    "passed_players": [
-      "Chelsea Gray",
-      "Tiffany Hayes"
-    ],
-    "new_total": 1258
   }
 ]

@@ -2,6 +2,11 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-18 01:22 UTC
+
+- **Caitlin Clark** reached **200** career three-pointers (now 200) — _1:24 - 4th — SEA @ IND_
+- **Caitlin Clark** passed **Shanna Zolman** for **#110** all-time in three-pointers (career 200) — up from #114 entering today — _1:24 - 4th — SEA @ IND_
+
 ## 2026-07-18 01:15 UTC
 
 - **Caitlin Clark** reached **600** career assists (now 600) — _4:10 - 4th — SEA @ IND_
