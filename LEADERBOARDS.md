@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-18 02:53 UTC_
+_Last updated: 2026-07-18 02:54 UTC_
 
 ## Contents
 
@@ -849,7 +849,7 @@ _Last updated: 2026-07-18 02:53 UTC_
 | 4 | Alana Beard | 710 |
 | 5 | Nneka Ogwumike | 688 |
 | 6 | Sheryl Swoopes | 657 |
-| 7 | **DeWanna Bonner** 🔴 | 650 |
+| 7 | **DeWanna Bonner** 🔴 +1 | 651 |
 | 8 | Jia Perkins | 634 |
 | 9 | Sancho Lyttle | 630 |
 | 10 | Angel McCoughtry | 627 |
