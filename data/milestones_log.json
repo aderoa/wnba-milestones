@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-07-18T00:08:00+00:00",
+    "text": "Caitlin Clark passed Temeka Johnson and Tina Charles for #111 all-time in three-pointers (career 198) \u2014 up from #114 entering today \u2014 (5:51 - 2nd \u2014 SEA @ IND)",
+    "kind": "rank_pass",
+    "player": "Caitlin Clark",
+    "stat": "three-pointers",
+    "rank": 111,
+    "passed_players": [
+      "Temeka Johnson",
+      "Tina Charles"
+    ],
+    "new_total": 198
+  },
+  {
     "ts": "2026-07-18T00:03:00+00:00",
     "text": "Caitlin Clark passed Nia Coffey for #113 all-time in three-pointers (career 197) \u2014 up from #114 entering today \u2014 (7:28 - 2nd \u2014 SEA @ IND)",
     "kind": "rank_pass",
@@ -3005,17 +3018,5 @@
       "Michelle Snow"
     ],
     "new_total": 438
-  },
-  {
-    "ts": "2026-06-28T19:25:00+00:00",
-    "text": "Courtney Williams passed Kristi Toliver for #84 all-time in steals (career 330) \u2014 (2:18 - 3rd \u2014 MIN @ DAL)",
-    "kind": "rank_pass",
-    "player": "Courtney Williams",
-    "stat": "steals",
-    "rank": 84,
-    "passed_players": [
-      "Kristi Toliver"
-    ],
-    "new_total": 330
   }
 ]

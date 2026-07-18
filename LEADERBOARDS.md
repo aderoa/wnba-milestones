@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-18 00:07 UTC_
+_Last updated: 2026-07-18 00:08 UTC_
 
 ## Contents
 
@@ -22,7 +22,7 @@ _Last updated: 2026-07-18 00:07 UTC_
 | 1 | Diana Taurasi | 10,608 |
 | 2 | Tina Charles | 8,396 |
 | 3 | DeWanna Bonner | 7,972 |
-| 4 | **Nneka Ogwumike** 🔴 +7 | 7,570 |
+| 4 | **Nneka Ogwumike** 🔴 +10 | 7,573 |
 | 5 | Tina Thompson | 7,470 |
 | 6 | Tamika Catchings | 7,371 |
 | 7 | Candice Dupree | 6,861 |
@@ -60,7 +60,7 @@ _Last updated: 2026-07-18 00:07 UTC_
 | 39 | Natasha Howard | 4,682 |
 | 40 | Chelsea Gray | 4,625 |
 | 41 | Penny Taylor | 4,595 |
-| 42 | **Allisha Gray** 🔴 +4 | 4,495 |
+| 42 | **Allisha Gray** 🔴 +6 | 4,497 |
 | 43 | Kelsey Plum | 4,494 |
 | 44 | Kristi Toliver | 4,474 |
 | 45 | Kahleah Copper | 4,437 |
@@ -180,7 +180,7 @@ _Last updated: 2026-07-18 00:07 UTC_
 | 159 | Coco Miller | 2,030 |
 | 160 | Diamond DeShields | 2,026 |
 | 161 | Vicky Bullett | 2,018 |
-| 162 | **Natisha Hiedeman** 🔴 +2 | 2,004 |
+| 162 | **Natisha Hiedeman** 🔴 +4 | 2,006 |
 | 163 | Ezi Magbegor | 1,995 |
 | 164 | Bria Hartley | 1,967 |
 | 165 | Chiney Ogwumike | 1,964 |
@@ -357,7 +357,7 @@ _Last updated: 2026-07-18 00:07 UTC_
 | 131 | Kelly Miller | 1,011 |
 | 131 | Noelle Quinn | 1,011 |
 | 133 | Skylar Diggins | 1,008 |
-| 134 | **Damiris Dantas** 🔴 +1 | 1,006 |
+| 134 | **Damiris Dantas** 🔴 +2 | 1,007 |
 | 135 | Tiffany Jackson | 1,002 |
 | 136 | Tianna Hawkins | 1,000 |
 | 137 | Marissa Coleman | 995 |
@@ -438,7 +438,7 @@ _Last updated: 2026-07-18 00:07 UTC_
 | 6 | Chelsea Gray | 2,003 |
 | 7 | Alyssa Thomas | 1,971 |
 | 8 | Skylar Diggins | 1,852 |
-| 9 | **Natasha Cloud** 🔴 +5 | 1,807 |
+| 9 | **Natasha Cloud** 🔴 +6 | 1,808 |
 | 10 | Becky Hammon | 1,705 |
 | 11 | Candace Parker | 1,634 |
 | 12 | Cappie Pondexter | 1,575 |
@@ -451,11 +451,11 @@ _Last updated: 2026-07-18 00:07 UTC_
 | 19 | Jasmine Thomas | 1,355 |
 | 20 | Briann January | 1,339 |
 | 21 | Dawn Staley | 1,337 |
-| 22 | **Erica Wheeler** 🔴 | 1,335 |
+| 22 | **Erica Wheeler** 🔴 +1 | 1,336 |
 | 23 | Teresa Weatherspoon | 1,333 |
 | 24 | Kristi Toliver | 1,301 |
 | 25 | Kelsey Plum | 1,270 |
-| 26 | **Jordin Canada** 🔴 +1 | 1,263 |
+| 26 | **Jordin Canada** 🔴 +2 | 1,264 |
 | 27 | Katie Smith | 1,258 |
 | 28 | Odyssey Sims | 1,228 |
 | 29 | Vickie Johnson | 1,202 |
@@ -1133,9 +1133,9 @@ _Last updated: 2026-07-18 00:07 UTC_
 | 83 | Iziane Castro Marques | 275 |
 | 84 | Sheryl Swoopes | 270 |
 | 85 | Sophia Witherspoon | 260 |
+| 86 | **Nneka Ogwumike** 🔴 +2 | 255 |
 | 86 | Rebecca Allen | 255 |
-| 87 | Dawn Staley | 254 |
-| 87 | **Nneka Ogwumike** 🔴 +1 | 254 |
+| 88 | Dawn Staley | 254 |
 | 89 | Bria Hartley | 253 |
 | 90 | Angel McCoughtry | 249 |
 | 91 | **Azurá Stevens** 🔴 | 247 |
@@ -1158,9 +1158,9 @@ _Last updated: 2026-07-18 00:07 UTC_
 | 108 | Betnijah Laney-Hamilton | 206 |
 | 109 | Lexie Brown | 203 |
 | 110 | Shanna Zolman | 199 |
-| 111 | **Caitlin Clark** 🔴 +2 | 197 |
-| 111 | Temeka Johnson | 197 |
-| 111 | Tina Charles | 197 |
+| 111 | **Caitlin Clark** 🔴 +3 | 198 |
+| 112 | Temeka Johnson | 197 |
+| 112 | Tina Charles | 197 |
 | 114 | Nia Coffey | 196 |
 | 115 | Lindsay Whalen | 193 |
 | 116 | Victoria Vivians | 192 |
@@ -1413,7 +1413,7 @@ _Last updated: 2026-07-18 00:07 UTC_
 | 158 | Anna DeForge | 374 |
 | 158 | Cheryl Ford | 374 |
 | 160 | Allison Feaster | 372 |
-| 161 | **Caitlin Clark** 🔴 +3 | 371 |
+| 160 | **Caitlin Clark** 🔴 +4 | 372 |
 | 162 | Emma Meesseman | 367 |
 | 163 | Latasha Byears | 360 |
 | 164 | Vicky Bullett | 359 |
@@ -1527,7 +1527,7 @@ _Last updated: 2026-07-18 00:07 UTC_
 | 67 | Sheri Sam | 766 |
 | 68 | Kahleah Copper | 758 |
 | 69 | Kia Vaughn | 755 |
-| 70 | **Allisha Gray** 🔴 +1 | 753 |
+| 70 | **Allisha Gray** 🔴 +2 | 754 |
 | 71 | Vickie Johnson | 752 |
 | 72 | Kara Braxton | 748 |
 | 73 | Crystal Langhorne | 737 |
