@@ -1,5 +1,14 @@
 [
   {
+    "ts": "2026-07-18T01:15:00+00:00",
+    "text": "Caitlin Clark reached 600 career assists (now 600) \u2014 (4:10 - 4th \u2014 SEA @ IND)",
+    "kind": "round",
+    "player": "Caitlin Clark",
+    "stat": "assists",
+    "value": 600,
+    "new_total": 600
+  },
+  {
     "ts": "2026-07-18T00:58:00+00:00",
     "text": "Cameron Brink passed Tamera Young for #158 all-time in blocks (career 84) \u2014 up from #159 entering today \u2014 (1:24 - 3rd \u2014 LA @ CHI)",
     "kind": "rank_pass",
@@ -3003,18 +3012,5 @@
       "Tiffany Hayes"
     ],
     "new_total": 1258
-  },
-  {
-    "ts": "2026-06-28T19:58:00+00:00",
-    "text": "Courtney Williams passed Chasity Melvin and Leilani Mitchell for #81 all-time in steals (career 331) \u2014 up from #83 entering today \u2014 (2:30 - 4th \u2014 MIN @ DAL)",
-    "kind": "rank_pass",
-    "player": "Courtney Williams",
-    "stat": "steals",
-    "rank": 81,
-    "passed_players": [
-      "Chasity Melvin",
-      "Leilani Mitchell"
-    ],
-    "new_total": 331
   }
 ]

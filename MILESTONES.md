@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-18 01:15 UTC
+
+- **Caitlin Clark** reached **600** career assists (now 600) — _4:10 - 4th — SEA @ IND_
+
 ## 2026-07-18 00:58 UTC
 
 - **Cameron Brink** passed **Tamera Young** for **#158** all-time in blocks (career 84) — up from #159 entering today — _1:24 - 3rd — LA @ CHI_
