@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-18 02:52 UTC_
+_Last updated: 2026-07-18 02:53 UTC_
 
 ## Contents
 
@@ -635,7 +635,7 @@ _Last updated: 2026-07-18 02:52 UTC_
 
 | Rank | Player | Total |
 |-----:|--------|------:|
-| 1 | **Brittney Griner** 🔴 | 879 |
+| 1 | **Brittney Griner** 🔴 +1 | 880 |
 | 2 | Margo Dydek | 873 |
 | 3 | Lisa Leslie | 818 |
 | 4 | Sylvia Fowles | 721 |
