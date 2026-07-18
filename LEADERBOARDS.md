@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-18 02:25 UTC_
+_Last updated: 2026-07-18 02:26 UTC_
 
 ## Contents
 
@@ -63,7 +63,7 @@ _Last updated: 2026-07-18 02:25 UTC_
 | 42 | Allisha Gray | 4,509 |
 | 43 | Kelsey Plum | 4,494 |
 | 44 | Kristi Toliver | 4,474 |
-| 45 | **Kahleah Copper** 🔴 +5 | 4,442 |
+| 45 | **Kahleah Copper** 🔴 +6 | 4,443 |
 | 46 | Crystal Langhorne | 4,433 |
 | 46 | Jia Perkins | 4,433 |
 | 48 | Courtney Vandersloot | 4,371 |
