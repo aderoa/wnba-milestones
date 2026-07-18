@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-18 01:33 UTC
+
+- **Temi Fágbénlé** reached **100** career turnovers (now 100) — _3:16 - 4th — ATL @ TOR_
+
 ## 2026-07-18 01:22 UTC
 
 - **Caitlin Clark** reached **200** career three-pointers (now 200) — _1:24 - 4th — SEA @ IND_
