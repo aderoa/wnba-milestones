@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-18 01:24 UTC_
+_Last updated: 2026-07-18 01:25 UTC_
 
 ## Contents
 
@@ -131,8 +131,8 @@ _Last updated: 2026-07-18 01:24 UTC_
 | 110 | Riquna Williams | 2,659 |
 | 111 | Essence Carson | 2,647 |
 | 111 | Lindsey Harding | 2,647 |
-| 113 | Cheyenne Parker-Tyus | 2,645 |
-| 113 | **Rhyne Howard** 🔴 +8 | 2,645 |
+| 111 | **Rhyne Howard** 🔴 +10 | 2,647 |
+| 114 | Cheyenne Parker-Tyus | 2,645 |
 | 115 | Tamera Young | 2,641 |
 | 116 | Liz Cambage | 2,634 |
 | 117 | Janeth Arcain | 2,633 |
@@ -244,7 +244,7 @@ _Last updated: 2026-07-18 01:24 UTC_
 | 18 | DeLisha Milton-Jones | 2,574 |
 | 19 | Swin Cash | 2,521 |
 | 20 | Michelle Snow | 2,476 |
-| 21 | **Dearica Hamby** 🔴 +5 | 2,460 |
+| 21 | **Dearica Hamby** 🔴 +6 | 2,461 |
 | 22 | Crystal Langhorne | 2,454 |
 | 23 | Lauren Jackson | 2,444 |
 | 24 | Yolanda Griffith | 2,440 |
@@ -310,7 +310,7 @@ _Last updated: 2026-07-18 01:24 UTC_
 | 84 | Erlana Larkins | 1,329 |
 | 85 | Mwadi Mabika | 1,327 |
 | 86 | Jayne Appel Marinelli | 1,326 |
-| 87 | **Azurá Stevens** 🔴 +4 | 1,323 |
+| 87 | **Azurá Stevens** 🔴 +5 | 1,324 |
 | 88 | Betty Lennox | 1,296 |
 | 89 | Tari Phillips | 1,274 |
 | 90 | **Myisha Hines-Allen** 🔴 +3 | 1,268 |
@@ -346,7 +346,7 @@ _Last updated: 2026-07-18 01:24 UTC_
 | 120 | Jackie Young | 1,085 |
 | 121 | Svetlana Abrosimova | 1,078 |
 | 122 | Le'coe Willingham | 1,054 |
-| 123 | **Angel Reese** 🔴 +7 | 1,042 |
+| 123 | **Angel Reese** 🔴 +8 | 1,043 |
 | 124 | Nicole Ohlde | 1,040 |
 | 125 | Tamecka Dixon | 1,035 |
 | 126 | Kamila Vodichkova | 1,031 |
@@ -506,8 +506,8 @@ _Last updated: 2026-07-18 01:24 UTC_
 | 74 | **Allisha Gray** 🔴 +1 | 768 |
 | 75 | Sheri Sam | 745 |
 | 76 | Monique Currie | 740 |
+| 77 | **Dearica Hamby** 🔴 +2 | 728 |
 | 77 | Elaine Powell | 728 |
-| 78 | **Dearica Hamby** 🔴 +1 | 727 |
 | 79 | **Stefanie Dolson** 🔴 | 707 |
 | 80 | Chamique Holdsclaw | 698 |
 | 81 | Shavonte Zellous | 693 |
@@ -1492,7 +1492,7 @@ _Last updated: 2026-07-18 01:24 UTC_
 | 32 | Asjha Jones | 971 |
 | 33 | Margo Dydek | 950 |
 | 34 | Sancho Lyttle | 947 |
-| 35 | **Courtney Vandersloot** 🔴 +3 | 943 |
+| 35 | **Courtney Vandersloot** 🔴 +4 | 944 |
 | 36 | Mwadi Mabika | 941 |
 | 37 | Tamika Whitmore | 940 |
 | 38 | DeWanna Bonner | 922 |
