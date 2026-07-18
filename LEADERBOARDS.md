@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-18 01:30 UTC_
+_Last updated: 2026-07-18 01:31 UTC_
 
 ## Contents
 
@@ -454,7 +454,7 @@ _Last updated: 2026-07-18 01:30 UTC_
 | 22 | Dawn Staley | 1,337 |
 | 23 | Teresa Weatherspoon | 1,333 |
 | 24 | Kristi Toliver | 1,301 |
-| 25 | **Jordin Canada** 🔴 +11 | 1,273 |
+| 25 | **Jordin Canada** 🔴 +12 | 1,274 |
 | 26 | Kelsey Plum | 1,270 |
 | 27 | Katie Smith | 1,258 |
 | 28 | Odyssey Sims | 1,228 |
@@ -1601,7 +1601,7 @@ _Last updated: 2026-07-18 01:30 UTC_
 | 141 | Glory Johnson | 550 |
 | 141 | Tierra Ruffin-Pratt | 550 |
 | 143 | Jackie Young | 548 |
-| 144 | **Monique Billings** 🔴 +1 | 547 |
+| 143 | **Monique Billings** 🔴 +2 | 548 |
 | 145 | Erlana Larkins | 546 |
 | 146 | Jayne Appel Marinelli | 543 |
 | 146 | Kayla McBride | 543 |
