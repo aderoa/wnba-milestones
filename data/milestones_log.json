@@ -1,5 +1,14 @@
 [
   {
+    "ts": "2026-07-18T03:37:00+00:00",
+    "text": "Leila Lacan reached 400 career points (now 400) \u2014 (7:47 - 4th \u2014 CON @ PHX)",
+    "kind": "round",
+    "player": "Leila Lacan",
+    "stat": "points",
+    "value": 400,
+    "new_total": 400
+  },
+  {
     "ts": "2026-07-18T01:33:00+00:00",
     "text": "Temi F\u00e1gb\u00e9nl\u00e9 reached 100 career turnovers (now 100) \u2014 (3:16 - 4th \u2014 ATL @ TOR)",
     "kind": "round",
@@ -2995,17 +3004,5 @@
       "Tiffani Johnson"
     ],
     "new_total": 779
-  },
-  {
-    "ts": "2026-06-28T20:00:00+00:00",
-    "text": "Natasha Howard passed Tangela Smith for #25 all-time in rebounds (career 2,329) \u2014 up from #26 entering today \u2014 (1:25 - 4th \u2014 MIN @ DAL)",
-    "kind": "rank_pass",
-    "player": "Natasha Howard",
-    "stat": "rebounds",
-    "rank": 25,
-    "passed_players": [
-      "Tangela Smith"
-    ],
-    "new_total": 2329
   }
 ]

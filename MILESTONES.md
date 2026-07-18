@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-18 03:37 UTC
+
+- **Leila Lacan** reached **400** career points (now 400) — _7:47 - 4th — CON @ PHX_
+
 ## 2026-07-18 01:33 UTC
 
 - **Temi Fágbénlé** reached **100** career turnovers (now 100) — _3:16 - 4th — ATL @ TOR_
