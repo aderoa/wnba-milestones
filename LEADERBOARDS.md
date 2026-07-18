@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-18 03:18 UTC_
+_Last updated: 2026-07-18 03:19 UTC_
 
 ## Contents
 
@@ -63,7 +63,7 @@ _Last updated: 2026-07-18 03:18 UTC_
 | 42 | Allisha Gray | 4,509 |
 | 43 | Kelsey Plum | 4,494 |
 | 44 | Kristi Toliver | 4,474 |
-| 45 | **Kahleah Copper** 🔴 +14 | 4,451 |
+| 45 | **Kahleah Copper** 🔴 +16 | 4,453 |
 | 46 | Crystal Langhorne | 4,433 |
 | 46 | Jia Perkins | 4,433 |
 | 48 | Courtney Vandersloot | 4,371 |
@@ -323,7 +323,7 @@ _Last updated: 2026-07-18 03:18 UTC_
 | 96 | Ezi Magbegor | 1,243 |
 | 98 | Seimone Augustus | 1,228 |
 | 99 | Jia Perkins | 1,220 |
-| 100 | **Kahleah Copper** 🔴 +1 | 1,205 |
+| 100 | **Kahleah Copper** 🔴 +2 | 1,206 |
 | 101 | DeMya Walker | 1,199 |
 | 102 | Aliyah Boston | 1,198 |
 | 103 | Latasha Byears | 1,190 |
@@ -1495,7 +1495,7 @@ _Last updated: 2026-07-18 03:18 UTC_
 | 35 | Courtney Vandersloot | 945 |
 | 36 | Mwadi Mabika | 941 |
 | 37 | Tamika Whitmore | 940 |
-| 38 | **DeWanna Bonner** 🔴 | 922 |
+| 38 | **DeWanna Bonner** 🔴 +1 | 923 |
 | 39 | Briann January | 921 |
 | 40 | Jonquel Jones | 913 |
 | 40 | Ticha Penicheiro | 913 |
