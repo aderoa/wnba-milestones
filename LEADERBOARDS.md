@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-18 01:28 UTC_
+_Last updated: 2026-07-18 01:29 UTC_
 
 ## Contents
 
@@ -66,7 +66,7 @@ _Last updated: 2026-07-18 01:28 UTC_
 | 45 | Kahleah Copper | 4,437 |
 | 46 | Crystal Langhorne | 4,433 |
 | 46 | Jia Perkins | 4,433 |
-| 48 | **Courtney Vandersloot** 🔴 +7 | 4,369 |
+| 48 | **Courtney Vandersloot** 🔴 +9 | 4,371 |
 | 49 | Jonquel Jones | 4,353 |
 | 50 | Courtney Williams | 4,350 |
 | 51 | **Dearica Hamby** 🔴 +18 | 4,348 |
@@ -104,7 +104,7 @@ _Last updated: 2026-07-18 01:28 UTC_
 | 83 | Sheri Sam | 3,353 |
 | 84 | Andrea Stinson | 3,351 |
 | 85 | Tanisha Wright | 3,324 |
-| 86 | **Marina Mabrey** 🔴 +24 | 3,273 |
+| 86 | **Marina Mabrey** 🔴 +25 | 3,274 |
 | 87 | **Stefanie Dolson** 🔴 +2 | 3,219 |
 | 88 | Margo Dydek | 3,214 |
 | 89 | **Erica Wheeler** 🔴 +14 | 3,209 |
@@ -305,7 +305,7 @@ _Last updated: 2026-07-18 01:28 UTC_
 | 79 | Sheri Sam | 1,356 |
 | 80 | Tamika Whitmore | 1,355 |
 | 81 | Emma Meesseman | 1,350 |
-| 82 | **Brionna Jones** 🔴 +7 | 1,340 |
+| 82 | **Brionna Jones** 🔴 +6 | 1,339 |
 | 83 | Elena Baranova | 1,335 |
 | 84 | Erlana Larkins | 1,329 |
 | 85 | Mwadi Mabika | 1,327 |
@@ -564,7 +564,7 @@ _Last updated: 2026-07-18 01:28 UTC_
 | 132 | Crystal Robinson | 488 |
 | 132 | Tiffany Mitchell | 488 |
 | 134 | Rebekkah Brunson | 486 |
-| 135 | **Elizabeth Williams** 🔴 +1 | 480 |
+| 135 | **Elizabeth Williams** 🔴 | 479 |
 | 136 | Satou Sabally | 476 |
 | 137 | Ukari Figgs | 470 |
 | 138 | Janeth Arcain | 469 |
@@ -1157,7 +1157,7 @@ _Last updated: 2026-07-18 01:28 UTC_
 | 107 | Andrea Stinson | 207 |
 | 108 | Betnijah Laney-Hamilton | 206 |
 | 109 | Lexie Brown | 203 |
-| 110 | **Caitlin Clark** 🔴 +5 | 200 |
+| 110 | **Caitlin Clark** 🔴 +6 | 201 |
 | 111 | Shanna Zolman | 199 |
 | 112 | Temeka Johnson | 197 |
 | 112 | Tina Charles | 197 |
@@ -1519,7 +1519,7 @@ _Last updated: 2026-07-18 01:28 UTC_
 | 59 | Skylar Diggins | 825 |
 | 60 | Shannon Johnson | 813 |
 | 60 | Tully Bevilaqua | 813 |
-| 62 | **Erica Wheeler** 🔴 +2 | 810 |
+| 62 | **Erica Wheeler** 🔴 +3 | 811 |
 | 63 | Nykesha Sales | 796 |
 | 64 | Ebony Hoffman | 791 |
 | 65 | Sue Bird | 775 |
