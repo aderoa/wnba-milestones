@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-07-18T00:58:00+00:00",
+    "text": "Cameron Brink passed Tamera Young for #158 all-time in blocks (career 84) \u2014 up from #159 entering today \u2014 (1:24 - 3rd \u2014 LA @ CHI)",
+    "kind": "rank_pass",
+    "player": "Cameron Brink",
+    "stat": "blocks",
+    "rank": 158,
+    "passed_players": [
+      "Tamera Young"
+    ],
+    "new_total": 84
+  },
+  {
     "ts": "2026-07-18T00:51:00+00:00",
     "text": "Cameron Brink passed Damiris Dantas for #160 all-time in blocks (career 83) \u2014 (3:03 - 3rd \u2014 LA @ CHI)",
     "kind": "rank_pass",
@@ -3004,17 +3016,5 @@
       "Leilani Mitchell"
     ],
     "new_total": 331
-  },
-  {
-    "ts": "2026-06-28T19:58:00+00:00",
-    "text": "Jessica Shepard passed Kamila Vodichkova for #126 all-time in rebounds (career 1,032) \u2014 up from #129 entering today \u2014 (2:30 - 4th \u2014 MIN @ DAL)",
-    "kind": "rank_pass",
-    "player": "Jessica Shepard",
-    "stat": "rebounds",
-    "rank": 126,
-    "passed_players": [
-      "Kamila Vodichkova"
-    ],
-    "new_total": 1032
   }
 ]
