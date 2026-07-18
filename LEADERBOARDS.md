@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-18 00:48 UTC_
+_Last updated: 2026-07-18 00:49 UTC_
 
 ## Contents
 
@@ -513,7 +513,7 @@ _Last updated: 2026-07-18 00:48 UTC_
 | 81 | Shavonte Zellous | 693 |
 | 82 | Allie Quigley | 690 |
 | 83 | Moriah Jefferson | 685 |
-| 84 | **Ariel Atkins** 🔴 +1 | 683 |
+| 84 | **Ariel Atkins** 🔴 +2 | 684 |
 | 85 | Emma Meesseman | 681 |
 | 86 | Nykesha Sales | 677 |
 | 87 | **Natisha Hiedeman** 🔴 +7 | 675 |
@@ -1157,8 +1157,8 @@ _Last updated: 2026-07-18 00:48 UTC_
 | 107 | Andrea Stinson | 207 |
 | 108 | Betnijah Laney-Hamilton | 206 |
 | 109 | Lexie Brown | 203 |
+| 110 | **Caitlin Clark** 🔴 +4 | 199 |
 | 110 | Shanna Zolman | 199 |
-| 111 | **Caitlin Clark** 🔴 +3 | 198 |
 | 112 | Temeka Johnson | 197 |
 | 112 | Tina Charles | 197 |
 | 114 | Nia Coffey | 196 |
@@ -1404,7 +1404,7 @@ _Last updated: 2026-07-18 00:48 UTC_
 | 149 | Glory Johnson | 397 |
 | 150 | Marissa Coleman | 396 |
 | 151 | **Myisha Hines-Allen** 🔴 | 390 |
-| 152 | **Elizabeth Williams** 🔴 | 388 |
+| 152 | **Elizabeth Williams** 🔴 +1 | 389 |
 | 153 | Sophia Witherspoon | 386 |
 | 154 | Hamchetou Maiga-Ba | 385 |
 | 155 | Kamila Vodichkova | 381 |
