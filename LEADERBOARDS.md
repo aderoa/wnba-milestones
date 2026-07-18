@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-18 00:46 UTC_
+_Last updated: 2026-07-18 00:47 UTC_
 
 ## Contents
 
@@ -69,7 +69,7 @@ _Last updated: 2026-07-18 00:46 UTC_
 | 48 | **Courtney Vandersloot** 🔴 | 4,362 |
 | 49 | Jonquel Jones | 4,353 |
 | 50 | Courtney Williams | 4,350 |
-| 51 | **Dearica Hamby** 🔴 +13 | 4,343 |
+| 51 | **Dearica Hamby** 🔴 +15 | 4,345 |
 | 52 | Sophia Young-Malcolm | 4,300 |
 | 53 | Plenette Pierson | 4,258 |
 | 54 | Monique Currie | 4,253 |
@@ -550,7 +550,7 @@ _Last updated: 2026-07-18 00:46 UTC_
 | 118 | Janel McCarville | 551 |
 | 118 | Svetlana Abrosimova | 551 |
 | 120 | Michele Timms | 549 |
-| 121 | **Rhyne Howard** 🔴 +2 | 538 |
+| 121 | **Rhyne Howard** 🔴 +3 | 539 |
 | 122 | **Myisha Hines-Allen** 🔴 +2 | 531 |
 | 123 | Marie Ferdinand-Harris | 528 |
 | 124 | Margo Dydek | 524 |
@@ -1344,7 +1344,7 @@ _Last updated: 2026-07-18 00:46 UTC_
 | 89 | Lauren Jackson | 549 |
 | 90 | Matee Ajavon | 544 |
 | 91 | Adrienne Goodson | 542 |
-| 92 | **Marina Mabrey** 🔴 +2 | 539 |
+| 92 | **Marina Mabrey** 🔴 +3 | 540 |
 | 93 | Layshia Clarendon | 536 |
 | 94 | Ivory Latta | 534 |
 | 94 | Iziane Castro Marques | 534 |
@@ -1591,7 +1591,7 @@ _Last updated: 2026-07-18 00:46 UTC_
 | 129 | Olympia Scott | 580 |
 | 132 | Ezi Magbegor | 576 |
 | 133 | Le'coe Willingham | 571 |
-| 134 | **Marina Mabrey** 🔴 +2 | 568 |
+| 134 | **Marina Mabrey** 🔴 +3 | 569 |
 | 135 | Ashley Robinson | 567 |
 | 136 | Ivory Latta | 565 |
 | 137 | Barbara Farris | 563 |
