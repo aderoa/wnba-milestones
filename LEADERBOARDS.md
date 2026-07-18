@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-18 03:53 UTC_
+_Last updated: 2026-07-18 03:54 UTC_
 
 ## Contents
 
@@ -1488,7 +1488,7 @@ _Last updated: 2026-07-18 03:53 UTC_
 | 28 | Yolanda Griffith | 991 |
 | 29 | Lauren Jackson | 982 |
 | 30 | Nakia Sanford | 979 |
-| 31 | **Alyssa Thomas** 🔴 +4 | 976 |
+| 31 | **Alyssa Thomas** 🔴 +5 | 977 |
 | 32 | Asjha Jones | 971 |
 | 33 | Margo Dydek | 950 |
 | 34 | Sancho Lyttle | 947 |
