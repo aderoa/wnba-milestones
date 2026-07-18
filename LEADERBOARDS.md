@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-18 01:25 UTC_
+_Last updated: 2026-07-18 01:26 UTC_
 
 ## Contents
 
@@ -115,7 +115,7 @@ _Last updated: 2026-07-18 01:25 UTC_
 | 94 | Briann January | 3,082 |
 | 95 | Erika de Souza | 3,046 |
 | 96 | Shameka Christon | 3,039 |
-| 97 | **Natasha Cloud** 🔴 +10 | 3,028 |
+| 97 | **Natasha Cloud** 🔴 +13 | 3,031 |
 | 98 | Marie Ferdinand-Harris | 3,001 |
 | 99 | Emma Meesseman | 2,966 |
 | 100 | **Elizabeth Williams** 🔴 +4 | 2,937 |
@@ -291,7 +291,7 @@ _Last updated: 2026-07-18 01:25 UTC_
 | 65 | Sue Bird | 1,466 |
 | 66 | Cheyenne Parker-Tyus | 1,463 |
 | 67 | Nicole Powell | 1,457 |
-| 68 | **Monique Billings** 🔴 +4 | 1,435 |
+| 68 | **Monique Billings** 🔴 +5 | 1,436 |
 | 69 | Tamera Young | 1,433 |
 | 70 | Alana Beard | 1,420 |
 | 71 | Nakia Sanford | 1,419 |
@@ -550,7 +550,7 @@ _Last updated: 2026-07-18 01:25 UTC_
 | 118 | Janel McCarville | 551 |
 | 118 | Svetlana Abrosimova | 551 |
 | 120 | Michele Timms | 549 |
-| 121 | **Rhyne Howard** 🔴 +5 | 541 |
+| 121 | **Rhyne Howard** 🔴 +6 | 542 |
 | 122 | **Myisha Hines-Allen** 🔴 +2 | 531 |
 | 123 | Marie Ferdinand-Harris | 528 |
 | 124 | Margo Dydek | 524 |
@@ -1101,7 +1101,7 @@ _Last updated: 2026-07-18 01:25 UTC_
 | 51 | **Kia Nurse** 🔴 +1 | 369 |
 | 52 | Epiphanny Prince | 368 |
 | 53 | Nykesha Sales | 352 |
-| 54 | **Natasha Cloud** 🔴 +2 | 347 |
+| 54 | **Natasha Cloud** 🔴 +3 | 348 |
 | 55 | Jackie Young | 346 |
 | 56 | Cathrine Kraayeveld | 343 |
 | 56 | Elena Delle Donne | 343 |
