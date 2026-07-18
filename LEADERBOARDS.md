@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-18 00:02 UTC_
+_Last updated: 2026-07-18 00:03 UTC_
 
 ## Contents
 
@@ -152,7 +152,7 @@ _Last updated: 2026-07-18 00:02 UTC_
 | 131 | DeMya Walker | 2,379 |
 | 132 | Alex Bentley | 2,350 |
 | 133 | **Azurá Stevens** 🔴 +6 | 2,349 |
-| 134 | **Jordin Canada** 🔴 +5 | 2,347 |
+| 134 | **Jordin Canada** 🔴 +6 | 2,348 |
 | 135 | Merlakia Jones | 2,308 |
 | 136 | Betnijah Laney-Hamilton | 2,302 |
 | 137 | Satou Sabally | 2,296 |
@@ -200,7 +200,7 @@ _Last updated: 2026-07-18 00:02 UTC_
 | 179 | NaLyssa Smith | 1,879 |
 | 180 | **Rachel Banham** 🔴 | 1,843 |
 | 181 | **Damiris Dantas** 🔴 | 1,842 |
-| 182 | **Sophie Cunningham** 🔴 | 1,829 |
+| 182 | **Sophie Cunningham** 🔴 +2 | 1,831 |
 | 183 | Tianna Hawkins | 1,825 |
 | 184 | Noelle Quinn | 1,824 |
 | 185 | Danielle Adams | 1,820 |
@@ -357,7 +357,7 @@ _Last updated: 2026-07-18 00:02 UTC_
 | 131 | Kelly Miller | 1,011 |
 | 131 | Noelle Quinn | 1,011 |
 | 133 | Skylar Diggins | 1,008 |
-| 134 | **Damiris Dantas** 🔴 | 1,005 |
+| 134 | **Damiris Dantas** 🔴 +1 | 1,006 |
 | 135 | Tiffany Jackson | 1,002 |
 | 136 | Tianna Hawkins | 1,000 |
 | 137 | Marissa Coleman | 995 |
@@ -569,8 +569,8 @@ _Last updated: 2026-07-18 00:02 UTC_
 | 137 | Ukari Figgs | 470 |
 | 138 | Janeth Arcain | 469 |
 | 139 | Erin Phillips | 462 |
-| 140 | Sylvia Fowles | 461 |
-| 141 | **Tyasha Harris** 🔴 | 460 |
+| 139 | **Tyasha Harris** 🔴 +2 | 462 |
+| 141 | Sylvia Fowles | 461 |
 | 142 | Sug Sutton | 456 |
 | 143 | Sydney Colson | 454 |
 | 144 | Yolanda Griffith | 451 |
@@ -596,7 +596,7 @@ _Last updated: 2026-07-18 00:02 UTC_
 | 164 | Erin Thorn | 414 |
 | 165 | Jamierra Faulkner | 410 |
 | 165 | Murriel Page | 410 |
-| 167 | **Kia Nurse** 🔴 | 407 |
+| 167 | **Kia Nurse** 🔴 +1 | 408 |
 | 168 | Allison Feaster | 406 |
 | 169 | Rita Williams | 403 |
 | 170 | Stephanie Talbot | 400 |
@@ -1158,10 +1158,10 @@ _Last updated: 2026-07-18 00:02 UTC_
 | 108 | Betnijah Laney-Hamilton | 206 |
 | 109 | Lexie Brown | 203 |
 | 110 | Shanna Zolman | 199 |
+| 111 | **Caitlin Clark** 🔴 +2 | 197 |
 | 111 | Temeka Johnson | 197 |
 | 111 | Tina Charles | 197 |
-| 113 | **Caitlin Clark** 🔴 +1 | 196 |
-| 113 | Nia Coffey | 196 |
+| 114 | Nia Coffey | 196 |
 | 115 | Lindsay Whalen | 193 |
 | 116 | Victoria Vivians | 192 |
 | 117 | Danielle Adams | 188 |
@@ -1298,7 +1298,7 @@ _Last updated: 2026-07-18 00:02 UTC_
 | 43 | Michelle Snow | 723 |
 | 44 | Tamecka Dixon | 716 |
 | 45 | **Natasha Cloud** 🔴 | 707 |
-| 46 | **Erica Wheeler** 🔴 | 699 |
+| 46 | **Erica Wheeler** 🔴 +1 | 700 |
 | 47 | Renee Montgomery | 697 |
 | 48 | Temeka Johnson | 696 |
 | 49 | Penny Taylor | 695 |
@@ -1374,7 +1374,7 @@ _Last updated: 2026-07-18 00:02 UTC_
 | 119 | Ebony Hoffman | 470 |
 | 120 | Elaine Powell | 469 |
 | 121 | Allie Quigley | 467 |
-| 122 | **Ariel Atkins** 🔴 | 465 |
+| 122 | **Ariel Atkins** 🔴 +1 | 466 |
 | 123 | Jackie Young | 463 |
 | 124 | Betnijah Laney-Hamilton | 456 |
 | 125 | Kia Vaughn | 454 |
@@ -1413,7 +1413,7 @@ _Last updated: 2026-07-18 00:02 UTC_
 | 158 | Anna DeForge | 374 |
 | 158 | Cheryl Ford | 374 |
 | 160 | Allison Feaster | 372 |
-| 161 | **Caitlin Clark** 🔴 +2 | 370 |
+| 161 | **Caitlin Clark** 🔴 +3 | 371 |
 | 162 | Emma Meesseman | 367 |
 | 163 | Latasha Byears | 360 |
 | 164 | Vicky Bullett | 359 |
@@ -1534,8 +1534,8 @@ _Last updated: 2026-07-18 00:02 UTC_
 | 74 | Shameka Christon | 734 |
 | 75 | Becky Hammon | 733 |
 | 76 | **Elizabeth Williams** 🔴 | 732 |
-| 77 | **Ariel Atkins** 🔴 | 730 |
-| 77 | Latasha Byears | 730 |
+| 77 | **Ariel Atkins** 🔴 +1 | 731 |
+| 78 | Latasha Byears | 730 |
 | 79 | Kristi Toliver | 722 |
 | 80 | Cheryl Ford | 713 |
 | 81 | Jia Perkins | 711 |

@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-18 00:03 UTC
+
+- **Caitlin Clark** passed **Nia Coffey** for **#113** all-time in three-pointers (career 197) — up from #114 entering today — _7:28 - 2nd — SEA @ IND_
+
 ## 2026-07-16 02:03 UTC
 
 - **Gabby Williams** passed **Teaira McCowan** for **#171** all-time in turnovers (career 341) — up from #174 entering today — _1:44 - 4th — GS @ IND_
