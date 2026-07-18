@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-18 01:23 UTC_
+_Last updated: 2026-07-18 01:24 UTC_
 
 ## Contents
 
@@ -213,7 +213,7 @@ _Last updated: 2026-07-18 01:23 UTC_
 | 192 | Armintie Herrington | 1,696 |
 | 193 | Nikki Teasley | 1,690 |
 | 194 | Shenise Johnson | 1,688 |
-| 195 | **Monique Billings** 🔴 +14 | 1,626 |
+| 195 | **Monique Billings** 🔴 +15 | 1,627 |
 | 196 | Janell Burse | 1,580 |
 | 197 | Le'coe Willingham | 1,552 |
 | 198 | Shatori Walker-Kimbrough | 1,544 |
@@ -668,7 +668,7 @@ _Last updated: 2026-07-18 01:23 UTC_
 | 31 | Candice Dupree | 316 |
 | 32 | Vicky Bullett | 288 |
 | 33 | Rebekkah Brunson | 281 |
-| 34 | **Nneka Ogwumike** 🔴 | 266 |
+| 34 | **Nneka Ogwumike** 🔴 +1 | 267 |
 | 35 | Liz Cambage | 264 |
 | 36 | Cheyenne Parker-Tyus | 261 |
 | 37 | Swin Cash | 258 |
@@ -745,8 +745,8 @@ _Last updated: 2026-07-18 01:23 UTC_
 | 108 | Shakira Austin | 119 |
 | 109 | Krystal Thomas | 118 |
 | 110 | Andrea Stinson | 117 |
-| 110 | **Ariel Atkins** 🔴 +2 | 117 |
 | 110 | Crystal Langhorne | 117 |
+| 112 | **Ariel Atkins** 🔴 +1 | 116 |
 | 113 | Monique Currie | 114 |
 | 114 | Amanda Lassiter | 111 |
 | 114 | Kamila Vodichkova | 111 |
