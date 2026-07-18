@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-18 01:13 UTC_
+_Last updated: 2026-07-18 01:14 UTC_
 
 ## Contents
 
@@ -45,7 +45,7 @@ _Last updated: 2026-07-18 01:13 UTC_
 | 24 | DeLisha Milton-Jones | 5,571 |
 | 25 | Katie Douglas | 5,545 |
 | 26 | Lindsay Whalen | 5,511 |
-| 27 | **Kelsey Mitchell** 🔴 +26 | 5,224 |
+| 27 | **Kelsey Mitchell** 🔴 +28 | 5,226 |
 | 28 | Swin Cash | 5,119 |
 | 29 | Tiffany Hayes | 5,049 |
 | 30 | Tangela Smith | 5,035 |
@@ -104,7 +104,7 @@ _Last updated: 2026-07-18 01:13 UTC_
 | 83 | Sheri Sam | 3,353 |
 | 84 | Andrea Stinson | 3,351 |
 | 85 | Tanisha Wright | 3,324 |
-| 86 | **Marina Mabrey** 🔴 +19 | 3,268 |
+| 86 | **Marina Mabrey** 🔴 +21 | 3,270 |
 | 87 | **Stefanie Dolson** 🔴 +2 | 3,219 |
 | 88 | Margo Dydek | 3,214 |
 | 89 | **Erica Wheeler** 🔴 +10 | 3,205 |
@@ -305,7 +305,7 @@ _Last updated: 2026-07-18 01:13 UTC_
 | 79 | Sheri Sam | 1,356 |
 | 80 | Tamika Whitmore | 1,355 |
 | 81 | Emma Meesseman | 1,350 |
-| 82 | **Brionna Jones** 🔴 +6 | 1,339 |
+| 82 | **Brionna Jones** 🔴 +7 | 1,340 |
 | 83 | Elena Baranova | 1,335 |
 | 84 | Erlana Larkins | 1,329 |
 | 85 | Mwadi Mabika | 1,327 |
@@ -342,7 +342,7 @@ _Last updated: 2026-07-18 01:13 UTC_
 | 116 | Chiney Ogwumike | 1,110 |
 | 117 | Becky Hammon | 1,108 |
 | 118 | Ann Wauters | 1,105 |
-| 119 | **Isabelle Harrison** 🔴 +2 | 1,099 |
+| 119 | **Isabelle Harrison** 🔴 +3 | 1,100 |
 | 120 | Jackie Young | 1,085 |
 | 121 | Svetlana Abrosimova | 1,078 |
 | 122 | Le'coe Willingham | 1,054 |
@@ -1302,7 +1302,7 @@ _Last updated: 2026-07-18 01:13 UTC_
 | 47 | Renee Montgomery | 697 |
 | 48 | Temeka Johnson | 696 |
 | 49 | Penny Taylor | 695 |
-| 50 | **Dearica Hamby** 🔴 +2 | 686 |
+| 50 | **Dearica Hamby** 🔴 +3 | 687 |
 | 51 | Dominique Canty | 685 |
 | 52 | DeMya Walker | 684 |
 | 53 | Asjha Jones | 682 |
@@ -1507,7 +1507,7 @@ _Last updated: 2026-07-18 01:13 UTC_
 | 47 | Cappie Pondexter | 869 |
 | 48 | Erika de Souza | 858 |
 | 49 | Angel McCoughtry | 857 |
-| 50 | **Dearica Hamby** 🔴 +2 | 852 |
+| 50 | **Dearica Hamby** 🔴 +3 | 853 |
 | 51 | Betty Lennox | 851 |
 | 52 | Tamecka Dixon | 849 |
 | 53 | Natalie Williams | 847 |
@@ -1571,8 +1571,8 @@ _Last updated: 2026-07-18 01:13 UTC_
 | 111 | Nicole Ohlde | 631 |
 | 112 | **Kelsey Mitchell** 🔴 +1 | 630 |
 | 113 | Jennifer Gillom | 629 |
+| 114 | **Brionna Jones** 🔴 +3 | 628 |
 | 114 | Deanna Nolan | 628 |
-| 115 | **Brionna Jones** 🔴 +1 | 626 |
 | 116 | Courtney Paris | 617 |
 | 117 | Coco Miller | 615 |
 | 118 | Brooke Wyckoff | 614 |
