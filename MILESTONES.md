@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-18 00:22 UTC
+
+- **Brionna Jones** passed **Elena Baranova** for **#82** all-time in rebounds (career 1,337) — up from #83 entering today — _1:15 - 2nd — ATL @ TOR_
+
 ## 2026-07-18 00:08 UTC
 
 - **Caitlin Clark** passed **Temeka Johnson** and **Tina Charles** for **#111** all-time in three-pointers (career 198) — up from #114 entering today — _5:51 - 2nd — SEA @ IND_

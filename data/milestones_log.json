@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-07-18T00:22:00+00:00",
+    "text": "Brionna Jones passed Elena Baranova for #82 all-time in rebounds (career 1,337) \u2014 up from #83 entering today \u2014 (1:15 - 2nd \u2014 ATL @ TOR)",
+    "kind": "rank_pass",
+    "player": "Brionna Jones",
+    "stat": "rebounds",
+    "rank": 82,
+    "passed_players": [
+      "Elena Baranova"
+    ],
+    "new_total": 1337
+  },
+  {
     "ts": "2026-07-18T00:08:00+00:00",
     "text": "Caitlin Clark passed Temeka Johnson and Tina Charles for #111 all-time in three-pointers (career 198) \u2014 up from #114 entering today \u2014 (5:51 - 2nd \u2014 SEA @ IND)",
     "kind": "rank_pass",
@@ -3006,17 +3018,5 @@
       "Rachel Banham"
     ],
     "new_total": 498
-  },
-  {
-    "ts": "2026-06-28T19:42:00+00:00",
-    "text": "Jessica Shepard passed Michelle Snow for #152 all-time in assists (career 438) \u2014 up from #153 entering today \u2014 (7:30 - 4th \u2014 MIN @ DAL)",
-    "kind": "rank_pass",
-    "player": "Jessica Shepard",
-    "stat": "assists",
-    "rank": 152,
-    "passed_players": [
-      "Michelle Snow"
-    ],
-    "new_total": 438
   }
 ]
