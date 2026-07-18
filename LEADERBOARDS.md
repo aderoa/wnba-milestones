@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-18 00:41 UTC_
+_Last updated: 2026-07-18 00:42 UTC_
 
 ## Contents
 
@@ -69,7 +69,7 @@ _Last updated: 2026-07-18 00:41 UTC_
 | 48 | **Courtney Vandersloot** 🔴 | 4,362 |
 | 49 | Jonquel Jones | 4,353 |
 | 50 | Courtney Williams | 4,350 |
-| 51 | **Dearica Hamby** 🔴 +11 | 4,341 |
+| 51 | **Dearica Hamby** 🔴 +13 | 4,343 |
 | 52 | Sophia Young-Malcolm | 4,300 |
 | 53 | Plenette Pierson | 4,258 |
 | 54 | Monique Currie | 4,253 |
@@ -132,8 +132,8 @@ _Last updated: 2026-07-18 00:41 UTC_
 | 111 | Essence Carson | 2,647 |
 | 111 | Lindsey Harding | 2,647 |
 | 113 | Cheyenne Parker-Tyus | 2,645 |
+| 114 | **Rhyne Howard** 🔴 +4 | 2,641 |
 | 114 | Tamera Young | 2,641 |
-| 115 | **Rhyne Howard** 🔴 | 2,637 |
 | 116 | Liz Cambage | 2,634 |
 | 117 | Janeth Arcain | 2,633 |
 | 118 | Temeka Johnson | 2,620 |
@@ -150,8 +150,8 @@ _Last updated: 2026-07-18 00:41 UTC_
 | 129 | Anna DeForge | 2,413 |
 | 130 | Kayla Thornton | 2,393 |
 | 131 | DeMya Walker | 2,379 |
-| 132 | **Azurá Stevens** 🔴 +8 | 2,351 |
-| 132 | **Jordin Canada** 🔴 +9 | 2,351 |
+| 132 | **Azurá Stevens** 🔴 +10 | 2,353 |
+| 133 | **Jordin Canada** 🔴 +9 | 2,351 |
 | 134 | Alex Bentley | 2,350 |
 | 135 | Merlakia Jones | 2,308 |
 | 136 | Betnijah Laney-Hamilton | 2,302 |
@@ -180,7 +180,7 @@ _Last updated: 2026-07-18 00:41 UTC_
 | 159 | Coco Miller | 2,030 |
 | 160 | Diamond DeShields | 2,026 |
 | 161 | Vicky Bullett | 2,018 |
-| 162 | **Natisha Hiedeman** 🔴 +11 | 2,013 |
+| 162 | **Natisha Hiedeman** 🔴 +12 | 2,014 |
 | 163 | Ezi Magbegor | 1,995 |
 | 164 | Bria Hartley | 1,967 |
 | 165 | Chiney Ogwumike | 1,964 |
@@ -480,7 +480,7 @@ _Last updated: 2026-07-18 00:41 UTC_
 | 48 | Tiffany Hayes | 957 |
 | 49 | Kara Lawson | 946 |
 | 50 | Arike Ogunbowale | 944 |
-| 51 | **Nneka Ogwumike** 🔴 +2 | 935 |
+| 51 | **Nneka Ogwumike** 🔴 +3 | 936 |
 | 52 | Deanna Nolan | 930 |
 | 53 | Kelly Miller | 927 |
 | 54 | DeLisha Milton-Jones | 921 |
@@ -668,7 +668,7 @@ _Last updated: 2026-07-18 00:41 UTC_
 | 31 | Candice Dupree | 316 |
 | 32 | Vicky Bullett | 288 |
 | 33 | Rebekkah Brunson | 281 |
-| 34 | **Nneka Ogwumike** 🔴 +1 | 267 |
+| 34 | **Nneka Ogwumike** 🔴 | 266 |
 | 35 | Liz Cambage | 264 |
 | 36 | Cheyenne Parker-Tyus | 261 |
 | 37 | Swin Cash | 258 |
@@ -1533,8 +1533,8 @@ _Last updated: 2026-07-18 00:41 UTC_
 | 73 | Crystal Langhorne | 737 |
 | 74 | Shameka Christon | 734 |
 | 75 | Becky Hammon | 733 |
+| 76 | **Ariel Atkins** 🔴 +2 | 732 |
 | 76 | **Elizabeth Williams** 🔴 | 732 |
-| 77 | **Ariel Atkins** 🔴 +1 | 731 |
 | 78 | Latasha Byears | 730 |
 | 79 | Kristi Toliver | 722 |
 | 80 | Cheryl Ford | 713 |
