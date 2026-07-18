@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-18 03:41 UTC_
+_Last updated: 2026-07-18 03:42 UTC_
 
 ## Contents
 
@@ -1291,7 +1291,7 @@ _Last updated: 2026-07-18 03:41 UTC_
 | 36 | Plenette Pierson | 773 |
 | 37 | Briann January | 771 |
 | 38 | Margo Dydek | 758 |
-| 39 | **Brittney Griner** 🔴 +1 | 752 |
+| 39 | **Brittney Griner** 🔴 +2 | 753 |
 | 40 | Tangela Smith | 751 |
 | 41 | Kristi Toliver | 748 |
 | 42 | Monique Currie | 724 |
