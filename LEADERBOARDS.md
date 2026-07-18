@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-18 02:32 UTC_
+_Last updated: 2026-07-18 02:33 UTC_
 
 ## Contents
 
@@ -1291,8 +1291,8 @@ _Last updated: 2026-07-18 02:32 UTC_
 | 36 | Plenette Pierson | 773 |
 | 37 | Briann January | 771 |
 | 38 | Margo Dydek | 758 |
-| 39 | **Brittney Griner** 🔴 +1 | 752 |
-| 40 | Tangela Smith | 751 |
+| 39 | **Brittney Griner** 🔴 | 751 |
+| 39 | Tangela Smith | 751 |
 | 41 | Kristi Toliver | 748 |
 | 42 | Monique Currie | 724 |
 | 43 | Michelle Snow | 723 |
@@ -1483,8 +1483,8 @@ _Last updated: 2026-07-18 02:32 UTC_
 | 23 | Tina Charles | 1,037 |
 | 24 | Tiffany Hayes | 1,021 |
 | 25 | Lindsay Whalen | 998 |
-| 26 | **Brittney Griner** 🔴 +1 | 996 |
 | 26 | Rebekkah Brunson | 996 |
+| 27 | **Brittney Griner** 🔴 | 995 |
 | 28 | Yolanda Griffith | 991 |
 | 29 | Lauren Jackson | 982 |
 | 30 | Nakia Sanford | 979 |
