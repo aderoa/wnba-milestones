@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-18 02:33 UTC_
+_Last updated: 2026-07-18 02:34 UTC_
 
 ## Contents
 
@@ -1221,9 +1221,9 @@ _Last updated: 2026-07-18 02:33 UTC_
 | 169 | Leonie Fiebich | 129 |
 | 172 | Ticha Penicheiro | 128 |
 | 173 | Michele Timms | 127 |
+| 174 | **Kennedy Burke** 🔴 +1 | 126 |
 | 174 | Tamecka Dixon | 126 |
-| 175 | **Kennedy Burke** 🔴 | 125 |
-| 175 | Lexie Hull | 125 |
+| 176 | Lexie Hull | 125 |
 | 177 | Charde Houston | 124 |
 | 177 | Veronica Burton | 124 |
 | 179 | Lisa Leslie | 123 |
@@ -1483,8 +1483,8 @@ _Last updated: 2026-07-18 02:33 UTC_
 | 23 | Tina Charles | 1,037 |
 | 24 | Tiffany Hayes | 1,021 |
 | 25 | Lindsay Whalen | 998 |
+| 26 | **Brittney Griner** 🔴 +1 | 996 |
 | 26 | Rebekkah Brunson | 996 |
-| 27 | **Brittney Griner** 🔴 | 995 |
 | 28 | Yolanda Griffith | 991 |
 | 29 | Lauren Jackson | 982 |
 | 30 | Nakia Sanford | 979 |
