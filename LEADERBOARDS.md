@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-19 01:12 UTC_
+_Last updated: 2026-07-19 01:13 UTC_
 
 ## Contents
 
@@ -387,7 +387,7 @@ _Last updated: 2026-07-19 01:12 UTC_
 | 161 | Leilani Mitchell | 845 |
 | 162 | **Shakira Austin** 🔴 +7 | 839 |
 | 163 | Essence Carson | 833 |
-| 164 | **Gabby Williams** 🔴 | 831 |
+| 163 | **Gabby Williams** 🔴 +2 | 833 |
 | 165 | Kristi Toliver | 829 |
 | 166 | Marie Ferdinand-Harris | 828 |
 | 167 | Marlies Askamp | 822 |
@@ -927,7 +927,7 @@ _Last updated: 2026-07-19 01:12 UTC_
 | 81 | Leilani Mitchell | 330 |
 | 84 | Kristi Toliver | 329 |
 | 85 | Matee Ajavon | 328 |
-| 86 | **Gabby Williams** 🔴 | 326 |
+| 86 | **Gabby Williams** 🔴 +1 | 327 |
 | 87 | Napheesa Collier | 325 |
 | 88 | Betty Lennox | 323 |
 | 89 | Tammy Sutton-Brown | 319 |
@@ -1236,7 +1236,7 @@ _Last updated: 2026-07-19 01:12 UTC_
 | 187 | Gordana Grubin | 114 |
 | 187 | Rickea Jackson | 114 |
 | 187 | Sandy Brondello | 114 |
-| 190 | **Janelle Salaun** 🔴 +1 | 112 |
+| 190 | **Janelle Salaun** 🔴 +2 | 113 |
 | 191 | **Cecilia Zandalasini** 🔴 | 111 |
 | 191 | Shoni Schimmel | 111 |
 | 193 | Emma Meesseman | 109 |
