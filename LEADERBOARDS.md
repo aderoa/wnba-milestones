@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-19 20:49 UTC_
+_Last updated: 2026-07-19 20:50 UTC_
 
 ## Contents
 
@@ -438,7 +438,7 @@ _Last updated: 2026-07-19 20:49 UTC_
 | 6 | Chelsea Gray | 2,003 |
 | 7 | Alyssa Thomas | 1,971 |
 | 8 | Skylar Diggins | 1,852 |
-| 9 | **Natasha Cloud** 🔴 +1 | 1,803 |
+| 9 | **Natasha Cloud** 🔴 +2 | 1,804 |
 | 10 | Becky Hammon | 1,705 |
 | 11 | Candace Parker | 1,634 |
 | 12 | Cappie Pondexter | 1,575 |
@@ -455,7 +455,7 @@ _Last updated: 2026-07-19 20:49 UTC_
 | 23 | Teresa Weatherspoon | 1,333 |
 | 24 | Kristi Toliver | 1,301 |
 | 25 | Kelsey Plum | 1,270 |
-| 26 | **Jordin Canada** 🔴 +5 | 1,267 |
+| 26 | **Jordin Canada** 🔴 +6 | 1,268 |
 | 27 | Katie Smith | 1,258 |
 | 28 | Odyssey Sims | 1,234 |
 | 29 | Vickie Johnson | 1,202 |
@@ -858,7 +858,7 @@ _Last updated: 2026-07-19 20:49 UTC_
 | 13 | Alyssa Thomas | 582 |
 | 14 | Taj McWilliams-Franklin | 577 |
 | 15 | Tully Bevilaqua | 571 |
-| 16 | **Courtney Vandersloot** 🔴 +1 | 545 |
+| 16 | **Courtney Vandersloot** 🔴 | 544 |
 | 17 | Yolanda Griffith | 527 |
 | 18 | Candace Parker | 521 |
 | 19 | Diana Taurasi | 515 |
