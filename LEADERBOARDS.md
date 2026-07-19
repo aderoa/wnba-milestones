@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-19 01:55 UTC_
+_Last updated: 2026-07-19 01:56 UTC_
 
 ## Contents
 
@@ -67,8 +67,8 @@ _Last updated: 2026-07-19 01:55 UTC_
 | 46 | Crystal Langhorne | 4,433 |
 | 46 | Jia Perkins | 4,433 |
 | 48 | Courtney Williams | 4,365 |
-| 49 | Courtney Vandersloot | 4,362 |
-| 50 | **Jonquel Jones** 🔴 +8 | 4,361 |
+| 49 | **Jonquel Jones** 🔴 +10 | 4,363 |
+| 50 | Courtney Vandersloot | 4,362 |
 | 51 | Dearica Hamby | 4,330 |
 | 52 | Sophia Young-Malcolm | 4,300 |
 | 53 | Plenette Pierson | 4,258 |
@@ -236,7 +236,7 @@ _Last updated: 2026-07-19 01:55 UTC_
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | Alyssa Thomas | 2,858 |
-| 13 | **Jonquel Jones** 🔴 +5 | 2,733 |
+| 13 | **Jonquel Jones** 🔴 +6 | 2,734 |
 | 14 | A'ja Wilson | 2,657 |
 | 15 | **Breanna Stewart** 🔴 +6 | 2,638 |
 | 16 | Sancho Lyttle | 2,596 |
@@ -550,7 +550,7 @@ _Last updated: 2026-07-19 01:55 UTC_
 | 118 | Svetlana Abrosimova | 551 |
 | 120 | Michele Timms | 549 |
 | 121 | Rhyne Howard | 536 |
-| 122 | **Myisha Hines-Allen** 🔴 | 529 |
+| 122 | **Myisha Hines-Allen** 🔴 +1 | 530 |
 | 123 | Marie Ferdinand-Harris | 528 |
 | 124 | Margo Dydek | 524 |
 | 125 | Rachel Banham | 511 |
@@ -1160,7 +1160,7 @@ _Last updated: 2026-07-19 01:55 UTC_
 | 111 | Nia Coffey | 197 |
 | 111 | Temeka Johnson | 197 |
 | 111 | Tina Charles | 197 |
-| 114 | **Caitlin Clark** 🔴 | 195 |
+| 114 | **Caitlin Clark** 🔴 +1 | 196 |
 | 115 | Lindsay Whalen | 193 |
 | 116 | Victoria Vivians | 192 |
 | 117 | Danielle Adams | 188 |
