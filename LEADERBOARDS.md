@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-19 00:12 UTC_
+_Last updated: 2026-07-19 00:13 UTC_
 
 ## Contents
 
@@ -31,7 +31,7 @@ _Last updated: 2026-07-19 00:12 UTC_
 | 10 | Candace Parker | 6,574 |
 | 11 | Katie Smith | 6,450 |
 | 12 | Sylvia Fowles | 6,413 |
-| 13 | **Breanna Stewart** 🔴 +1 | 6,336 |
+| 13 | **Breanna Stewart** 🔴 +4 | 6,339 |
 | 14 | Lisa Leslie | 6,251 |
 | 15 | A'ja Wilson | 6,178 |
 | 16 | Jewell Loyd | 6,148 |
@@ -959,9 +959,9 @@ _Last updated: 2026-07-19 00:12 UTC_
 | 113 | Kelsey Plum | 267 |
 | 115 | Anna DeForge | 266 |
 | 116 | Brionna Jones | 265 |
+| 117 | **Jonquel Jones** 🔴 +2 | 262 |
 | 117 | Michelle Snow | 262 |
-| 118 | **Jonquel Jones** 🔴 +1 | 261 |
-| 118 | Karima Christmas-Kelly | 261 |
+| 119 | Karima Christmas-Kelly | 261 |
 | 120 | Riquna Williams | 260 |
 | 121 | Noelle Quinn | 256 |
 | 122 | Elaine Powell | 255 |
@@ -1073,7 +1073,7 @@ _Last updated: 2026-07-19 00:12 UTC_
 | 23 | Marina Mabrey | 500 |
 | 24 | **Sabrina Ionescu** 🔴 +1 | 469 |
 | 25 | Shekinna Stricklen | 468 |
-| 26 | **Breanna Stewart** 🔴 | 465 |
+| 26 | **Breanna Stewart** 🔴 +1 | 466 |
 | 27 | Cappie Pondexter | 464 |
 | 28 | Allisha Gray | 458 |
 | 29 | Ariel Atkins | 455 |
