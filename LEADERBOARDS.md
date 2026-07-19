@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-19 00:20 UTC_
+_Last updated: 2026-07-19 00:21 UTC_
 
 ## Contents
 
@@ -67,7 +67,7 @@ _Last updated: 2026-07-19 00:20 UTC_
 | 46 | Crystal Langhorne | 4,433 |
 | 46 | Jia Perkins | 4,433 |
 | 48 | Courtney Vandersloot | 4,362 |
-| 49 | **Jonquel Jones** 🔴 | 4,353 |
+| 49 | **Jonquel Jones** 🔴 +3 | 4,356 |
 | 50 | **Courtney Williams** 🔴 +2 | 4,352 |
 | 51 | Dearica Hamby | 4,330 |
 | 52 | Sophia Young-Malcolm | 4,300 |
@@ -200,7 +200,7 @@ _Last updated: 2026-07-19 00:20 UTC_
 | 179 | NaLyssa Smith | 1,879 |
 | 180 | Rachel Banham | 1,843 |
 | 181 | Damiris Dantas | 1,842 |
-| 182 | **Sophie Cunningham** 🔴 | 1,829 |
+| 182 | **Sophie Cunningham** 🔴 +3 | 1,832 |
 | 183 | Tianna Hawkins | 1,825 |
 | 184 | Noelle Quinn | 1,824 |
 | 185 | Danielle Adams | 1,820 |
@@ -1089,9 +1089,9 @@ _Last updated: 2026-07-19 00:20 UTC_
 | 38 | Riquna Williams | 407 |
 | 40 | Jia Perkins | 396 |
 | 41 | Alysha Clark | 394 |
+| 42 | **Jonquel Jones** 🔴 +1 | 390 |
 | 42 | Rachel Banham | 390 |
-| 43 | **Jonquel Jones** 🔴 | 389 |
-| 43 | Roneeka Hodges | 389 |
+| 44 | Roneeka Hodges | 389 |
 | 45 | Courtney Vandersloot | 386 |
 | 46 | Briann January | 381 |
 | 47 | Jasmine Thomas | 376 |
@@ -1108,8 +1108,8 @@ _Last updated: 2026-07-19 00:20 UTC_
 | 58 | Candace Parker | 342 |
 | 59 | Deanna Nolan | 340 |
 | 60 | Erica Wheeler | 337 |
-| 61 | Anna DeForge | 334 |
-| 61 | **Sophie Cunningham** 🔴 | 334 |
+| 61 | **Sophie Cunningham** 🔴 +1 | 335 |
+| 62 | Anna DeForge | 334 |
 | 63 | Natisha Hiedeman | 328 |
 | 64 | Sugar Rodgers | 317 |
 | 65 | Marissa Coleman | 315 |
@@ -1497,8 +1497,8 @@ _Last updated: 2026-07-19 00:20 UTC_
 | 36 | Tamika Whitmore | 940 |
 | 38 | DeWanna Bonner | 922 |
 | 39 | Briann January | 921 |
-| 40 | **Jonquel Jones** 🔴 | 913 |
-| 40 | Ticha Penicheiro | 913 |
+| 40 | **Jonquel Jones** 🔴 +1 | 914 |
+| 41 | Ticha Penicheiro | 913 |
 | 42 | Shavonte Zellous | 907 |
 | 43 | Alysha Clark | 905 |
 | 44 | DeMya Walker | 882 |
