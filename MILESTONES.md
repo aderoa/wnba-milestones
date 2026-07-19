@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-19 01:39 UTC
+
+- **Myisha Hines-Allen** passed **Cynthia Cooper** for **#177** all-time in steals (career 193) — up from #178 entering today — _3:35 - 3rd — NY @ IND_
+
 ## 2026-07-19 01:28 UTC
 
 - **Bridget Carleton** passed **Tan White** for **#69** all-time in three-pointers (career 312) — up from #71 entering today — _6:33 - 4th — POR @ MIN_

@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-19 01:38 UTC_
+_Last updated: 2026-07-19 01:39 UTC_
 
 ## Contents
 
@@ -67,8 +67,8 @@ _Last updated: 2026-07-19 01:38 UTC_
 | 46 | Crystal Langhorne | 4,433 |
 | 46 | Jia Perkins | 4,433 |
 | 48 | Courtney Vandersloot | 4,362 |
+| 49 | **Courtney Williams** 🔴 +11 | 4,361 |
 | 49 | **Jonquel Jones** 🔴 +8 | 4,361 |
-| 50 | **Courtney Williams** 🔴 +9 | 4,359 |
 | 51 | Dearica Hamby | 4,330 |
 | 52 | Sophia Young-Malcolm | 4,300 |
 | 53 | Plenette Pierson | 4,258 |
@@ -1018,8 +1018,8 @@ _Last updated: 2026-07-19 01:38 UTC_
 | 174 | Alanna Smith | 194 |
 | 174 | Sonja Henning | 194 |
 | 174 | Tierra Ruffin-Pratt | 194 |
-| 177 | Cynthia Cooper | 192 |
-| 177 | **Myisha Hines-Allen** 🔴 +1 | 192 |
+| 177 | **Myisha Hines-Allen** 🔴 +2 | 193 |
+| 178 | Cynthia Cooper | 192 |
 | 179 | Isabelle Harrison | 190 |
 | 180 | Tamicha Jackson | 188 |
 | 181 | Michele Timms | 187 |
@@ -1331,7 +1331,7 @@ _Last updated: 2026-07-19 01:38 UTC_
 | 77 | Kelly Miller | 596 |
 | 78 | Stefanie Dolson | 594 |
 | 79 | Brittney Sykes | 591 |
-| 80 | **Breanna Stewart** 🔴 +2 | 588 |
+| 80 | **Breanna Stewart** 🔴 +3 | 589 |
 | 81 | **Kelsey Mitchell** 🔴 +2 | 587 |
 | 82 | Helen Darling | 575 |
 | 82 | Nykesha Sales | 575 |
@@ -1547,14 +1547,14 @@ _Last updated: 2026-07-19 01:38 UTC_
 | 87 | Tan White | 698 |
 | 88 | Katie Douglas | 697 |
 | 89 | Danielle Robinson | 692 |
+| 90 | **Breanna Stewart** 🔴 +2 | 687 |
 | 90 | Sophia Young-Malcolm | 687 |
-| 91 | **Breanna Stewart** 🔴 +1 | 686 |
-| 91 | Maya Moore | 686 |
+| 92 | Maya Moore | 686 |
 | 93 | Cheyenne Parker-Tyus | 685 |
 | 93 | Jasmine Thomas | 685 |
 | 95 | Jewell Loyd | 684 |
+| 95 | **Kayla Thornton** 🔴 +2 | 684 |
 | 95 | Leilani Mitchell | 684 |
-| 97 | **Kayla Thornton** 🔴 +1 | 683 |
 | 98 | Crystal Robinson | 682 |
 | 99 | Jennifer Lacy | 680 |
 | 99 | Temeka Johnson | 680 |
