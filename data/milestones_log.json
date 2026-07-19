@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-07-19T22:14:00+00:00",
+    "text": "Courtney Vandersloot passed Angel McCoughtry and Murriel Page for #57 all-time in blocks (career 194) \u2014 up from #58 entering today \u2014 (1:03 - 4th \u2014 CHI @ ATL)",
+    "kind": "rank_pass",
+    "player": "Courtney Vandersloot",
+    "stat": "blocks",
+    "rank": 57,
+    "passed_players": [
+      "Angel McCoughtry",
+      "Murriel Page"
+    ],
+    "new_total": 194
+  },
+  {
     "ts": "2026-07-19T18:33:00+00:00",
     "text": "Cameron Brink passed Charde Houston, Marina Mabrey, and Shatori Walker-Kimbrough for #155 all-time in blocks (career 85) \u2014 up from #159 entering today \u2014 (45.6 - 3rd \u2014 LA @ DAL)",
     "kind": "rank_pass",
@@ -2994,19 +3007,5 @@
       "Noelle Quinn"
     ],
     "new_total": 1012
-  },
-  {
-    "ts": "2026-06-28T21:27:00+00:00",
-    "text": "Azur\u00e1 Stevens passed Adrian Williams-Strong, Essence Carson, and Rachel Banham for #175 all-time in fouls (career 498) \u2014 up from #178 entering today \u2014 (7:31 - 3rd \u2014 LV @ CHI)",
-    "kind": "rank_pass",
-    "player": "Azur\u00e1 Stevens",
-    "stat": "fouls",
-    "rank": 175,
-    "passed_players": [
-      "Adrian Williams-Strong",
-      "Essence Carson",
-      "Rachel Banham"
-    ],
-    "new_total": 498
   }
 ]

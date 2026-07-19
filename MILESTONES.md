@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-19 22:14 UTC
+
+- **Courtney Vandersloot** passed **Angel McCoughtry** and **Murriel Page** for **#57** all-time in blocks (career 194) — up from #58 entering today — _1:03 - 4th — CHI @ ATL_
+
 ## 2026-07-19 18:33 UTC
 
 - **Cameron Brink** passed **Charde Houston**, **Marina Mabrey**, and **Shatori Walker-Kimbrough** for **#155** all-time in blocks (career 85) — up from #159 entering today — _45.6 - 3rd — LA @ DAL_
