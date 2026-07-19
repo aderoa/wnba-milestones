@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-19 22:06 UTC_
+_Last updated: 2026-07-19 22:07 UTC_
 
 ## Contents
 
@@ -152,7 +152,7 @@ _Last updated: 2026-07-19 22:06 UTC_
 | 131 | DeMya Walker | 2,379 |
 | 132 | **Azurá Stevens** 🔴 +18 | 2,361 |
 | 133 | Alex Bentley | 2,350 |
-| 134 | **Jordin Canada** 🔴 +3 | 2,345 |
+| 134 | **Jordin Canada** 🔴 +5 | 2,347 |
 | 135 | Merlakia Jones | 2,308 |
 | 136 | Betnijah Laney-Hamilton | 2,302 |
 | 137 | Satou Sabally | 2,296 |
