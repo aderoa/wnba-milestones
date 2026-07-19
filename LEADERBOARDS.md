@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-19 02:08 UTC_
+_Last updated: 2026-07-19 02:09 UTC_
 
 ## Contents
 
@@ -175,7 +175,7 @@ _Last updated: 2026-07-19 02:08 UTC_
 | 154 | Tari Phillips | 2,134 |
 | 155 | Cheryl Ford | 2,116 |
 | 156 | Elena Baranova | 2,110 |
-| 157 | **Aliyah Boston** 🔴 +11 | 2,098 |
+| 157 | **Aliyah Boston** 🔴 +13 | 2,100 |
 | 158 | Aerial Powers | 2,068 |
 | 159 | Coco Miller | 2,030 |
 | 160 | Diamond DeShields | 2,026 |
@@ -194,7 +194,7 @@ _Last updated: 2026-07-19 02:08 UTC_
 | 173 | Karima Christmas-Kelly | 1,919 |
 | 174 | Jessica Breland | 1,918 |
 | 175 | Nakia Sanford | 1,915 |
-| 176 | **Gabby Williams** 🔴 +12 | 1,911 |
+| 176 | **Gabby Williams** 🔴 +15 | 1,914 |
 | 177 | Ebony Hoffman | 1,909 |
 | 178 | Candice Wiggins | 1,901 |
 | 179 | NaLyssa Smith | 1,879 |
@@ -385,7 +385,7 @@ _Last updated: 2026-07-19 02:08 UTC_
 | 159 | Krystal Thomas | 862 |
 | 160 | Naz Hillmon | 859 |
 | 161 | Leilani Mitchell | 845 |
-| 162 | **Shakira Austin** 🔴 +12 | 844 |
+| 161 | **Shakira Austin** 🔴 +13 | 845 |
 | 163 | Essence Carson | 833 |
 | 163 | **Gabby Williams** 🔴 +2 | 833 |
 | 165 | Kristi Toliver | 829 |
@@ -531,13 +531,13 @@ _Last updated: 2026-07-19 02:08 UTC_
 | 100 | Natasha Howard | 618 |
 | 101 | Debbie Black | 612 |
 | 102 | Cynthia Cooper | 602 |
-| 103 | **Caitlin Clark** 🔴 +5 | 596 |
+| 103 | **Caitlin Clark** 🔴 +6 | 597 |
 | 104 | **Gabby Williams** 🔴 +3 | 594 |
 | 105 | Sancho Lyttle | 592 |
 | 106 | Betnijah Laney-Hamilton | 590 |
 | 106 | Camille Smith | 590 |
 | 108 | Armintie Herrington | 589 |
-| 109 | **Veronica Burton** 🔴 +9 | 588 |
+| 108 | **Veronica Burton** 🔴 +10 | 589 |
 | 110 | Tan White | 578 |
 | 111 | Matee Ajavon | 577 |
 | 112 | Napheesa Collier | 570 |
@@ -881,7 +881,7 @@ _Last updated: 2026-07-19 02:08 UTC_
 | 37 | Kayla McBride | 446 |
 | 38 | Sheri Sam | 438 |
 | 39 | Camille Smith | 437 |
-| 40 | **Breanna Stewart** 🔴 | 435 |
+| 40 | **Breanna Stewart** 🔴 +1 | 436 |
 | 41 | Candice Dupree | 431 |
 | 42 | Epiphanny Prince | 429 |
 | 43 | Tanisha Wright | 427 |
@@ -1189,11 +1189,11 @@ _Last updated: 2026-07-19 02:08 UTC_
 | 139 | Jennifer Azzi | 158 |
 | 139 | Natasha Howard | 158 |
 | 142 | Alanna Smith | 156 |
+| 143 | **Gabby Williams** 🔴 +1 | 154 |
 | 143 | **Michaela Onyenwere** 🔴 +3 | 154 |
-| 144 | Bridget Pettis | 153 |
-| 144 | **Gabby Williams** 🔴 | 153 |
-| 144 | Jennifer Gillom | 153 |
-| 144 | Katie Lou Samuelson | 153 |
+| 145 | Bridget Pettis | 153 |
+| 145 | Jennifer Gillom | 153 |
+| 145 | Katie Lou Samuelson | 153 |
 | 148 | Rita Williams | 150 |
 | 149 | Moriah Jefferson | 149 |
 | 149 | Tiffany Mitchell | 149 |
@@ -1333,7 +1333,7 @@ _Last updated: 2026-07-19 02:08 UTC_
 | 78 | Stefanie Dolson | 594 |
 | 79 | Brittney Sykes | 591 |
 | 80 | **Breanna Stewart** 🔴 +4 | 590 |
-| 81 | **Kelsey Mitchell** 🔴 +2 | 587 |
+| 81 | **Kelsey Mitchell** 🔴 +3 | 588 |
 | 82 | Helen Darling | 575 |
 | 82 | Nykesha Sales | 575 |
 | 84 | Andrea Stinson | 571 |
