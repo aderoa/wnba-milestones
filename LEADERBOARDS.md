@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-19 22:08 UTC_
+_Last updated: 2026-07-19 22:09 UTC_
 
 ## Contents
 
@@ -66,7 +66,7 @@ _Last updated: 2026-07-19 22:08 UTC_
 | 45 | Kahleah Copper | 4,437 |
 | 46 | Crystal Langhorne | 4,433 |
 | 46 | Jia Perkins | 4,433 |
-| 48 | **Courtney Vandersloot** 🔴 +7 | 4,369 |
+| 48 | **Courtney Vandersloot** 🔴 +9 | 4,371 |
 | 49 | Jonquel Jones | 4,353 |
 | 50 | Courtney Williams | 4,350 |
 | 51 | Dearica Hamby | 4,346 |
@@ -152,7 +152,7 @@ _Last updated: 2026-07-19 22:08 UTC_
 | 131 | DeMya Walker | 2,379 |
 | 132 | **Azurá Stevens** 🔴 +18 | 2,361 |
 | 133 | Alex Bentley | 2,350 |
-| 134 | **Jordin Canada** 🔴 +5 | 2,347 |
+| 134 | **Jordin Canada** 🔴 +7 | 2,349 |
 | 135 | Merlakia Jones | 2,308 |
 | 136 | Betnijah Laney-Hamilton | 2,302 |
 | 137 | Satou Sabally | 2,296 |
@@ -295,7 +295,7 @@ _Last updated: 2026-07-19 22:08 UTC_
 | 69 | Monique Billings | 1,431 |
 | 70 | Alana Beard | 1,420 |
 | 71 | Nakia Sanford | 1,419 |
-| 72 | **Allisha Gray** 🔴 +5 | 1,409 |
+| 72 | **Allisha Gray** 🔴 +6 | 1,410 |
 | 73 | Kayla Thornton | 1,408 |
 | 74 | **Courtney Vandersloot** 🔴 +1 | 1,387 |
 | 74 | Kara Braxton | 1,387 |
