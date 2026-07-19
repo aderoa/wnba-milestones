@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-19 01:28 UTC
+
+- **Bridget Carleton** passed **Tan White** for **#69** all-time in three-pointers (career 312) — up from #71 entering today — _6:33 - 4th — POR @ MIN_
+
 ## 2026-07-19 01:25 UTC
 
 - **Caitlin Clark** passed **Allison Feaster** for **#160** all-time in turnovers (career 373) — up from #161 entering today — _7:52 - 3rd — NY @ IND_

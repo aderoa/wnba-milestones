@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-07-19T01:28:00+00:00",
+    "text": "Bridget Carleton passed Tan White for #69 all-time in three-pointers (career 312) \u2014 up from #71 entering today \u2014 (6:33 - 4th \u2014 POR @ MIN)",
+    "kind": "rank_pass",
+    "player": "Bridget Carleton",
+    "stat": "three-pointers",
+    "rank": 69,
+    "passed_players": [
+      "Tan White"
+    ],
+    "new_total": 312
+  },
+  {
     "ts": "2026-07-19T01:25:00+00:00",
     "text": "Caitlin Clark passed Allison Feaster for #160 all-time in turnovers (career 373) \u2014 up from #161 entering today \u2014 (7:52 - 3rd \u2014 NY @ IND)",
     "kind": "rank_pass",
@@ -2991,18 +3003,5 @@
     "stat": "points",
     "value": 3700,
     "new_total": 3700
-  },
-  {
-    "ts": "2026-06-28T20:17:00+00:00",
-    "text": "Shakira Austin passed Ebony Hoffman and Essence Carson for #106 all-time in blocks (career 122) \u2014 up from #108 entering today \u2014 (8:12 - 3rd \u2014 POR @ WSH)",
-    "kind": "rank_pass",
-    "player": "Shakira Austin",
-    "stat": "blocks",
-    "rank": 106,
-    "passed_players": [
-      "Ebony Hoffman",
-      "Essence Carson"
-    ],
-    "new_total": 122
   }
 ]
