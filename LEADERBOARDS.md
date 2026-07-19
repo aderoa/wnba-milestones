@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-19 02:07 UTC_
+_Last updated: 2026-07-19 02:08 UTC_
 
 ## Contents
 
@@ -31,7 +31,7 @@ _Last updated: 2026-07-19 02:07 UTC_
 | 10 | Candace Parker | 6,574 |
 | 11 | Katie Smith | 6,450 |
 | 12 | Sylvia Fowles | 6,413 |
-| 13 | **Breanna Stewart** 🔴 +24 | 6,359 |
+| 13 | **Breanna Stewart** 🔴 +26 | 6,361 |
 | 14 | Lisa Leslie | 6,251 |
 | 15 | A'ja Wilson | 6,178 |
 | 16 | Jewell Loyd | 6,148 |
@@ -45,7 +45,7 @@ _Last updated: 2026-07-19 02:07 UTC_
 | 24 | DeLisha Milton-Jones | 5,571 |
 | 25 | Katie Douglas | 5,545 |
 | 26 | Lindsay Whalen | 5,511 |
-| 27 | **Kelsey Mitchell** 🔴 +27 | 5,225 |
+| 27 | **Kelsey Mitchell** 🔴 +29 | 5,227 |
 | 28 | Swin Cash | 5,119 |
 | 29 | **Tiffany Hayes** 🔴 +7 | 5,056 |
 | 30 | Tangela Smith | 5,035 |
@@ -194,7 +194,7 @@ _Last updated: 2026-07-19 02:07 UTC_
 | 173 | Karima Christmas-Kelly | 1,919 |
 | 174 | Jessica Breland | 1,918 |
 | 175 | Nakia Sanford | 1,915 |
-| 176 | **Gabby Williams** 🔴 +11 | 1,910 |
+| 176 | **Gabby Williams** 🔴 +12 | 1,911 |
 | 177 | Ebony Hoffman | 1,909 |
 | 178 | Candice Wiggins | 1,901 |
 | 179 | NaLyssa Smith | 1,879 |
@@ -1410,9 +1410,9 @@ _Last updated: 2026-07-19 02:07 UTC_
 | 155 | Kamila Vodichkova | 381 |
 | 156 | Jessica Breland | 378 |
 | 157 | Armintie Herrington | 377 |
-| 158 | Anna DeForge | 374 |
-| 158 | **Caitlin Clark** 🔴 +6 | 374 |
-| 158 | Cheryl Ford | 374 |
+| 158 | **Caitlin Clark** 🔴 +7 | 375 |
+| 159 | Anna DeForge | 374 |
+| 159 | Cheryl Ford | 374 |
 | 161 | Allison Feaster | 372 |
 | 162 | Emma Meesseman | 367 |
 | 163 | Latasha Byears | 360 |

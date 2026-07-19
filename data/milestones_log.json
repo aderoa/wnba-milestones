@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-07-19T02:08:00+00:00",
+    "text": "Caitlin Clark passed Anna DeForge and Cheryl Ford for #158 all-time in turnovers (career 375) \u2014 up from #161 entering today \u2014 (5:33 - 4th \u2014 NY @ IND)",
+    "kind": "rank_pass",
+    "player": "Caitlin Clark",
+    "stat": "turnovers",
+    "rank": 158,
+    "passed_players": [
+      "Anna DeForge",
+      "Cheryl Ford"
+    ],
+    "new_total": 375
+  },
+  {
     "ts": "2026-07-19T01:47:00+00:00",
     "text": "Aliyah Boston passed Damiris Dantas and Nia Coffey for #199 all-time in turnovers (career 290) \u2014 new to top 200 today \u2014 (1:19 - 3rd \u2014 NY @ IND)",
     "kind": "rank_pass",
@@ -2992,17 +3005,5 @@
       "Leilani Mitchell"
     ],
     "new_total": 685
-  },
-  {
-    "ts": "2026-06-28T20:31:00+00:00",
-    "text": "NaLyssa Smith passed Allie Quigley for #192 all-time in fouls (career 476) \u2014 up from #193 entering today \u2014 (3:11 - 1st \u2014 LV @ CHI)",
-    "kind": "rank_pass",
-    "player": "NaLyssa Smith",
-    "stat": "fouls",
-    "rank": 192,
-    "passed_players": [
-      "Allie Quigley"
-    ],
-    "new_total": 476
   }
 ]
