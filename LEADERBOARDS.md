@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-19 00:51 UTC_
+_Last updated: 2026-07-19 00:52 UTC_
 
 ## Contents
 
@@ -67,7 +67,7 @@ _Last updated: 2026-07-19 00:51 UTC_
 | 46 | Crystal Langhorne | 4,433 |
 | 46 | Jia Perkins | 4,433 |
 | 48 | Courtney Vandersloot | 4,362 |
-| 49 | **Jonquel Jones** 🔴 +5 | 4,358 |
+| 49 | **Jonquel Jones** 🔴 +8 | 4,361 |
 | 50 | **Courtney Williams** 🔴 +2 | 4,352 |
 | 51 | Dearica Hamby | 4,330 |
 | 52 | Sophia Young-Malcolm | 4,300 |
@@ -476,7 +476,7 @@ _Last updated: 2026-07-19 00:51 UTC_
 | 45 | **Breanna Stewart** 🔴 +1 | 982 |
 | 45 | Nikki Teasley | 982 |
 | 47 | Tamecka Dixon | 960 |
-| 48 | **Tiffany Hayes** 🔴 | 957 |
+| 48 | **Tiffany Hayes** 🔴 +1 | 958 |
 | 49 | Kara Lawson | 946 |
 | 50 | Arike Ogunbowale | 944 |
 | 51 | Nneka Ogwumike | 933 |
@@ -1236,9 +1236,9 @@ _Last updated: 2026-07-19 00:51 UTC_
 | 187 | Gordana Grubin | 114 |
 | 187 | Rickea Jackson | 114 |
 | 187 | Sandy Brondello | 114 |
-| 190 | **Cecilia Zandalasini** 🔴 | 111 |
-| 190 | **Janelle Salaun** 🔴 | 111 |
-| 190 | Shoni Schimmel | 111 |
+| 190 | **Janelle Salaun** 🔴 +1 | 112 |
+| 191 | **Cecilia Zandalasini** 🔴 | 111 |
+| 191 | Shoni Schimmel | 111 |
 | 193 | Emma Meesseman | 109 |
 | 193 | Scholanda Dorrell | 109 |
 | 195 | Belinda Snell | 108 |
