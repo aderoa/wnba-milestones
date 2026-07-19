@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-19 22:17 UTC_
+_Last updated: 2026-07-19 22:18 UTC_
 
 ## Contents
 
@@ -305,7 +305,7 @@ _Last updated: 2026-07-19 22:17 UTC_
 | 79 | Sheri Sam | 1,356 |
 | 80 | Tamika Whitmore | 1,355 |
 | 81 | Emma Meesseman | 1,350 |
-| 82 | **Brionna Jones** 🔴 +9 | 1,342 |
+| 82 | **Brionna Jones** 🔴 +10 | 1,343 |
 | 83 | Elena Baranova | 1,335 |
 | 84 | Erlana Larkins | 1,329 |
 | 85 | **Azurá Stevens** 🔴 +9 | 1,328 |
@@ -1492,7 +1492,7 @@ _Last updated: 2026-07-19 22:17 UTC_
 | 32 | Asjha Jones | 971 |
 | 33 | Margo Dydek | 950 |
 | 34 | Sancho Lyttle | 947 |
-| 35 | **Courtney Vandersloot** 🔴 +2 | 942 |
+| 35 | **Courtney Vandersloot** 🔴 +3 | 943 |
 | 36 | Mwadi Mabika | 941 |
 | 37 | Tamika Whitmore | 940 |
 | 38 | DeWanna Bonner | 922 |
