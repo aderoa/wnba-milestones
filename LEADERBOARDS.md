@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-19 18:32 UTC_
+_Last updated: 2026-07-19 18:33 UTC_
 
 ## Contents
 
@@ -449,7 +449,7 @@ _Last updated: 2026-07-19 18:32 UTC_
 | 16 | Tanisha Wright | 1,423 |
 | 18 | Temeka Johnson | 1,382 |
 | 19 | Jasmine Thomas | 1,355 |
-| 20 | **Erica Wheeler** 🔴 +5 | 1,340 |
+| 20 | **Erica Wheeler** 🔴 +6 | 1,341 |
 | 21 | Briann January | 1,339 |
 | 22 | Dawn Staley | 1,337 |
 | 23 | Teresa Weatherspoon | 1,333 |
@@ -786,14 +786,14 @@ _Last updated: 2026-07-19 18:32 UTC_
 | 149 | Marissa Coleman | 88 |
 | 150 | Astou Ndiaye-Diatta | 86 |
 | 151 | Adrian Williams-Strong | 85 |
+| 151 | **Cameron Brink** 🔴 +3 | 85 |
 | 151 | Erlana Larkins | 85 |
 | 151 | Kalani Brown | 85 |
 | 151 | Kristin Folkl | 85 |
-| 155 | Charde Houston | 84 |
-| 155 | Marina Mabrey | 84 |
-| 155 | Shatori Walker-Kimbrough | 84 |
-| 158 | **Cameron Brink** 🔴 +1 | 83 |
-| 158 | Tamera Young | 83 |
+| 156 | Charde Houston | 84 |
+| 156 | Marina Mabrey | 84 |
+| 156 | Shatori Walker-Kimbrough | 84 |
+| 159 | Tamera Young | 83 |
 | 160 | Damiris Dantas | 82 |
 | 161 | Charlotte Smith | 81 |
 | 161 | Cintia dos Santos | 81 |
