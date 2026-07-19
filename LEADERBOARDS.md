@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-19 17:46 UTC_
+_Last updated: 2026-07-19 17:47 UTC_
 
 ## Contents
 
@@ -287,7 +287,7 @@ _Last updated: 2026-07-19 17:46 UTC_
 | 61 | Cappie Pondexter | 1,513 |
 | 62 | Napheesa Collier | 1,510 |
 | 63 | Ticha Penicheiro | 1,485 |
-| 64 | **Alysha Clark** 🔴 +1 | 1,470 |
+| 64 | **Alysha Clark** 🔴 +2 | 1,471 |
 | 65 | Sue Bird | 1,466 |
 | 66 | Cheyenne Parker-Tyus | 1,463 |
 | 67 | Nicole Powell | 1,457 |
@@ -1379,9 +1379,9 @@ _Last updated: 2026-07-19 17:46 UTC_
 | 124 | Betnijah Laney-Hamilton | 456 |
 | 125 | Kia Vaughn | 454 |
 | 126 | Janeth Arcain | 453 |
+| 127 | **Alysha Clark** 🔴 +1 | 444 |
 | 127 | Elena Baranova | 444 |
 | 127 | Jantel Lavender | 444 |
-| 129 | **Alysha Clark** 🔴 | 443 |
 | 130 | Cheyenne Parker-Tyus | 441 |
 | 131 | Ann Wauters | 440 |
 | 132 | Tiffany Mitchell | 439 |
@@ -1499,8 +1499,8 @@ _Last updated: 2026-07-19 17:46 UTC_
 | 39 | Briann January | 921 |
 | 40 | Jonquel Jones | 913 |
 | 40 | Ticha Penicheiro | 913 |
-| 42 | **Alysha Clark** 🔴 +2 | 907 |
-| 42 | Shavonte Zellous | 907 |
+| 42 | **Alysha Clark** 🔴 +3 | 908 |
+| 43 | Shavonte Zellous | 907 |
 | 44 | DeMya Walker | 882 |
 | 45 | Candice Dupree | 876 |
 | 46 | Murriel Page | 872 |
