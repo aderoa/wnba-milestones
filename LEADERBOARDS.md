@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-19 17:21 UTC_
+_Last updated: 2026-07-19 17:22 UTC_
 
 ## Contents
 
@@ -69,7 +69,7 @@ _Last updated: 2026-07-19 17:21 UTC_
 | 48 | Courtney Vandersloot | 4,362 |
 | 49 | Jonquel Jones | 4,353 |
 | 50 | Courtney Williams | 4,350 |
-| 51 | **Dearica Hamby** 🔴 +2 | 4,332 |
+| 51 | **Dearica Hamby** 🔴 +4 | 4,334 |
 | 52 | Sophia Young-Malcolm | 4,300 |
 | 53 | Plenette Pierson | 4,258 |
 | 54 | Monique Currie | 4,253 |
@@ -86,7 +86,7 @@ _Last updated: 2026-07-19 17:21 UTC_
 | 65 | Jackie Young | 3,698 |
 | 66 | Kara Lawson | 3,670 |
 | 67 | Mwadi Mabika | 3,576 |
-| 68 | **Odyssey Sims** 🔴 | 3,574 |
+| 67 | **Odyssey Sims** 🔴 +2 | 3,576 |
 | 69 | Camille Smith | 3,551 |
 | 70 | Napheesa Collier | 3,542 |
 | 70 | Shannon Johnson | 3,542 |
@@ -94,7 +94,7 @@ _Last updated: 2026-07-19 17:21 UTC_
 | 73 | Jasmine Thomas | 3,522 |
 | 74 | Tamecka Dixon | 3,507 |
 | 75 | Tammy Sutton-Brown | 3,498 |
-| 76 | **Ariel Atkins** 🔴 | 3,481 |
+| 76 | **Ariel Atkins** 🔴 +2 | 3,483 |
 | 77 | Sancho Lyttle | 3,478 |
 | 78 | Ivory Latta | 3,447 |
 | 79 | Nicole Powell | 3,407 |
