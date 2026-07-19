@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-19 01:21 UTC_
+_Last updated: 2026-07-19 01:22 UTC_
 
 ## Contents
 
@@ -31,7 +31,7 @@ _Last updated: 2026-07-19 01:21 UTC_
 | 10 | Candace Parker | 6,574 |
 | 11 | Katie Smith | 6,450 |
 | 12 | Sylvia Fowles | 6,413 |
-| 13 | **Breanna Stewart** 🔴 +13 | 6,348 |
+| 13 | **Breanna Stewart** 🔴 +18 | 6,353 |
 | 14 | Lisa Leslie | 6,251 |
 | 15 | A'ja Wilson | 6,178 |
 | 16 | Jewell Loyd | 6,148 |
@@ -464,7 +464,7 @@ _Last updated: 2026-07-19 01:21 UTC_
 | 33 | Jackie Young | 1,150 |
 | 34 | Renee Montgomery | 1,140 |
 | 35 | Swin Cash | 1,131 |
-| 36 | **Sabrina Ionescu** 🔴 +2 | 1,094 |
+| 36 | **Sabrina Ionescu** 🔴 +3 | 1,095 |
 | 37 | Lindsey Harding | 1,090 |
 | 38 | Katie Douglas | 1,069 |
 | 39 | Alana Beard | 1,061 |
@@ -522,7 +522,7 @@ _Last updated: 2026-07-19 01:21 UTC_
 | 91 | Lindsay Allen | 657 |
 | 92 | Betty Lennox | 651 |
 | 92 | Plenette Pierson | 651 |
-| 94 | **Jonquel Jones** 🔴 +1 | 648 |
+| 94 | **Jonquel Jones** 🔴 +2 | 649 |
 | 95 | Alex Bentley | 645 |
 | 96 | Asjha Jones | 637 |
 | 97 | Jennifer Azzi | 636 |
@@ -1072,7 +1072,7 @@ _Last updated: 2026-07-19 01:21 UTC_
 | 23 | Marina Mabrey | 500 |
 | 24 | **Sabrina Ionescu** 🔴 +2 | 470 |
 | 25 | Shekinna Stricklen | 468 |
-| 26 | **Breanna Stewart** 🔴 +1 | 466 |
+| 26 | **Breanna Stewart** 🔴 +2 | 467 |
 | 27 | Cappie Pondexter | 464 |
 | 28 | Allisha Gray | 458 |
 | 29 | Ariel Atkins | 455 |
@@ -1450,6 +1450,7 @@ _Last updated: 2026-07-19 01:21 UTC_
 | 196 | Crystal Robinson | 299 |
 | 197 | **Kayla Thornton** 🔴 | 298 |
 | 198 | Michele Timms | 297 |
+| 199 | **Aliyah Boston** 🔴 +4 | 289 |
 | 199 | Damiris Dantas | 289 |
 | 199 | **Nia Coffey** 🔴 | 289 |
 
