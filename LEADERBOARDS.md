@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-19 00:46 UTC_
+_Last updated: 2026-07-19 00:47 UTC_
 
 ## Contents
 
@@ -236,7 +236,7 @@ _Last updated: 2026-07-19 00:46 UTC_
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | Alyssa Thomas | 2,858 |
-| 13 | **Jonquel Jones** 🔴 +3 | 2,731 |
+| 13 | **Jonquel Jones** 🔴 +4 | 2,732 |
 | 14 | A'ja Wilson | 2,657 |
 | 15 | **Breanna Stewart** 🔴 +4 | 2,636 |
 | 16 | Sancho Lyttle | 2,596 |
@@ -317,8 +317,8 @@ _Last updated: 2026-07-19 00:46 UTC_
 | 91 | Janel McCarville | 1,261 |
 | 92 | **Kayla McBride** 🔴 +2 | 1,258 |
 | 92 | Liz Cambage | 1,258 |
-| 94 | Chelsea Gray | 1,257 |
-| 94 | **Tiffany Hayes** 🔴 | 1,257 |
+| 92 | **Tiffany Hayes** 🔴 +1 | 1,258 |
+| 95 | Chelsea Gray | 1,257 |
 | 96 | Brianna Turner | 1,243 |
 | 96 | Ezi Magbegor | 1,243 |
 | 98 | Seimone Augustus | 1,228 |
@@ -1037,11 +1037,11 @@ _Last updated: 2026-07-19 00:46 UTC_
 | 192 | Bridget Pettis | 177 |
 | 193 | Brittany Boyd-Jones | 176 |
 | 193 | Chiney Ogwumike | 176 |
+| 195 | **Bridget Carleton** 🔴 +2 | 175 |
 | 195 | Tamika Raymond | 175 |
-| 196 | **Bridget Carleton** 🔴 +1 | 174 |
-| 196 | Elena Delle Donne | 174 |
-| 196 | Ezi Magbegor | 174 |
-| 196 | Margo Dydek | 174 |
+| 197 | Elena Delle Donne | 174 |
+| 197 | Ezi Magbegor | 174 |
+| 197 | Margo Dydek | 174 |
 | 200 | Kamila Vodichkova | 173 |
 
 ## Three-pointers
@@ -1323,7 +1323,7 @@ _Last updated: 2026-07-19 00:46 UTC_
 | 68 | Odyssey Sims | 631 |
 | 68 | Svetlana Abrosimova | 631 |
 | 70 | Kahleah Copper | 625 |
-| 71 | **Tiffany Hayes** 🔴 | 624 |
+| 70 | **Tiffany Hayes** 🔴 +1 | 625 |
 | 72 | Rebekkah Brunson | 615 |
 | 73 | Seimone Augustus | 613 |
 | 74 | Teresa Weatherspoon | 601 |
