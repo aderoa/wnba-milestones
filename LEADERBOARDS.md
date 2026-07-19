@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-19 00:52 UTC_
+_Last updated: 2026-07-19 00:53 UTC_
 
 ## Contents
 
@@ -110,8 +110,8 @@ _Last updated: 2026-07-19 00:52 UTC_
 | 89 | Erica Wheeler | 3,195 |
 | 90 | Danielle Robinson | 3,160 |
 | 91 | Wendy Palmer | 3,135 |
-| 92 | **Sabrina Ionescu** 🔴 +6 | 3,103 |
-| 92 | Shavonte Zellous | 3,103 |
+| 92 | **Sabrina Ionescu** 🔴 +7 | 3,104 |
+| 93 | Shavonte Zellous | 3,103 |
 | 94 | Briann January | 3,082 |
 | 95 | Erika de Souza | 3,046 |
 | 96 | Shameka Christon | 3,039 |
@@ -238,7 +238,7 @@ _Last updated: 2026-07-19 00:52 UTC_
 | 12 | Alyssa Thomas | 2,858 |
 | 13 | **Jonquel Jones** 🔴 +5 | 2,733 |
 | 14 | A'ja Wilson | 2,657 |
-| 15 | **Breanna Stewart** 🔴 +4 | 2,636 |
+| 15 | **Breanna Stewart** 🔴 +3 | 2,635 |
 | 16 | Sancho Lyttle | 2,596 |
 | 17 | Brittney Griner | 2,579 |
 | 18 | DeLisha Milton-Jones | 2,574 |
@@ -569,7 +569,7 @@ _Last updated: 2026-07-19 00:52 UTC_
 | 138 | Janeth Arcain | 469 |
 | 139 | Erin Phillips | 462 |
 | 140 | Sylvia Fowles | 461 |
-| 141 | **Tyasha Harris** 🔴 | 460 |
+| 140 | **Tyasha Harris** 🔴 +1 | 461 |
 | 142 | Sug Sutton | 456 |
 | 143 | Sydney Colson | 454 |
 | 144 | Yolanda Griffith | 451 |
@@ -1220,9 +1220,9 @@ _Last updated: 2026-07-19 00:52 UTC_
 | 171 | Jordin Canada | 128 |
 | 171 | Ticha Penicheiro | 128 |
 | 173 | Michele Timms | 127 |
+| 174 | **Lexie Hull** 🔴 +1 | 126 |
 | 174 | Tamecka Dixon | 126 |
-| 175 | Kennedy Burke | 125 |
-| 175 | **Lexie Hull** 🔴 | 125 |
+| 176 | Kennedy Burke | 125 |
 | 177 | Charde Houston | 124 |
 | 177 | **Veronica Burton** 🔴 | 124 |
 | 179 | Lisa Leslie | 123 |
