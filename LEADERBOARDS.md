@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-19 01:03 UTC_
+_Last updated: 2026-07-19 01:04 UTC_
 
 ## Contents
 
@@ -68,7 +68,7 @@ _Last updated: 2026-07-19 01:03 UTC_
 | 46 | Jia Perkins | 4,433 |
 | 48 | Courtney Vandersloot | 4,362 |
 | 49 | **Jonquel Jones** 🔴 +8 | 4,361 |
-| 50 | **Courtney Williams** 🔴 +2 | 4,352 |
+| 50 | **Courtney Williams** 🔴 +4 | 4,354 |
 | 51 | Dearica Hamby | 4,330 |
 | 52 | Sophia Young-Malcolm | 4,300 |
 | 53 | Plenette Pierson | 4,258 |
@@ -464,7 +464,7 @@ _Last updated: 2026-07-19 01:03 UTC_
 | 33 | Jackie Young | 1,150 |
 | 34 | Renee Montgomery | 1,140 |
 | 35 | Swin Cash | 1,131 |
-| 36 | **Sabrina Ionescu** 🔴 | 1,092 |
+| 36 | **Sabrina Ionescu** 🔴 +1 | 1,093 |
 | 37 | Lindsey Harding | 1,090 |
 | 38 | Katie Douglas | 1,069 |
 | 39 | Alana Beard | 1,061 |
