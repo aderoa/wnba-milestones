@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-19 21:58 UTC_
+_Last updated: 2026-07-19 21:59 UTC_
 
 ## Contents
 
@@ -295,7 +295,7 @@ _Last updated: 2026-07-19 21:58 UTC_
 | 69 | Monique Billings | 1,431 |
 | 70 | Alana Beard | 1,420 |
 | 71 | Nakia Sanford | 1,419 |
-| 72 | **Allisha Gray** 🔴 +5 | 1,409 |
+| 72 | **Allisha Gray** 🔴 +6 | 1,410 |
 | 73 | Kayla Thornton | 1,408 |
 | 74 | **Courtney Vandersloot** 🔴 +1 | 1,387 |
 | 74 | Kara Braxton | 1,387 |
@@ -308,8 +308,8 @@ _Last updated: 2026-07-19 21:58 UTC_
 | 82 | **Brionna Jones** 🔴 +9 | 1,342 |
 | 83 | Elena Baranova | 1,335 |
 | 84 | Erlana Larkins | 1,329 |
-| 85 | **Azurá Stevens** 🔴 +8 | 1,327 |
-| 85 | Mwadi Mabika | 1,327 |
+| 85 | **Azurá Stevens** 🔴 +9 | 1,328 |
+| 86 | Mwadi Mabika | 1,327 |
 | 87 | Jayne Appel Marinelli | 1,326 |
 | 88 | Betty Lennox | 1,296 |
 | 89 | Tari Phillips | 1,274 |
@@ -503,7 +503,7 @@ _Last updated: 2026-07-19 21:58 UTC_
 | 71 | Marina Mabrey | 801 |
 | 72 | Epiphanny Prince | 800 |
 | 73 | Mwadi Mabika | 774 |
-| 74 | **Allisha Gray** 🔴 +2 | 769 |
+| 74 | **Allisha Gray** 🔴 +3 | 770 |
 | 75 | Sheri Sam | 745 |
 | 76 | Monique Currie | 740 |
 | 77 | Dearica Hamby | 729 |
@@ -1297,7 +1297,7 @@ _Last updated: 2026-07-19 21:58 UTC_
 | 42 | Monique Currie | 724 |
 | 43 | Michelle Snow | 723 |
 | 44 | Tamecka Dixon | 716 |
-| 45 | **Natasha Cloud** 🔴 +1 | 708 |
+| 45 | **Natasha Cloud** 🔴 +2 | 709 |
 | 46 | Erica Wheeler | 700 |
 | 47 | Renee Montgomery | 697 |
 | 48 | Temeka Johnson | 696 |
