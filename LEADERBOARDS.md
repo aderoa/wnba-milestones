@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-19 01:25 UTC_
+_Last updated: 2026-07-19 01:26 UTC_
 
 ## Contents
 
@@ -238,7 +238,7 @@ _Last updated: 2026-07-19 01:25 UTC_
 | 12 | Alyssa Thomas | 2,858 |
 | 13 | **Jonquel Jones** 🔴 +5 | 2,733 |
 | 14 | A'ja Wilson | 2,657 |
-| 15 | **Breanna Stewart** 🔴 +3 | 2,635 |
+| 15 | **Breanna Stewart** 🔴 +4 | 2,636 |
 | 16 | Sancho Lyttle | 2,596 |
 | 17 | Brittney Griner | 2,579 |
 | 18 | DeLisha Milton-Jones | 2,574 |
@@ -645,7 +645,7 @@ _Last updated: 2026-07-19 01:25 UTC_
 | 9 | Tangela Smith | 554 |
 | 10 | Ruth Riley | 505 |
 | 11 | Elizabeth Williams | 503 |
-| 12 | **Breanna Stewart** 🔴 +2 | 452 |
+| 12 | **Breanna Stewart** 🔴 +3 | 453 |
 | 13 | Taj McWilliams-Franklin | 443 |
 | 14 | Tina Charles | 428 |
 | 15 | **Jonquel Jones** 🔴 +1 | 426 |
@@ -1115,8 +1115,8 @@ _Last updated: 2026-07-19 01:25 UTC_
 | 66 | Shannon Johnson | 313 |
 | 67 | DeLisha Milton-Jones | 312 |
 | 67 | Ruthie Bolton | 312 |
+| 69 | **Bridget Carleton** 🔴 +5 | 311 |
 | 69 | Tan White | 311 |
-| 70 | **Bridget Carleton** 🔴 +4 | 310 |
 | 71 | Kedra Holland-Corn | 307 |
 | 72 | Kelly Miller | 305 |
 | 73 | Nikki Teasley | 304 |
@@ -1331,8 +1331,8 @@ _Last updated: 2026-07-19 01:25 UTC_
 | 77 | Kelly Miller | 596 |
 | 78 | Stefanie Dolson | 594 |
 | 79 | Brittney Sykes | 591 |
-| 80 | **Breanna Stewart** 🔴 +1 | 587 |
-| 80 | **Kelsey Mitchell** 🔴 +2 | 587 |
+| 80 | **Breanna Stewart** 🔴 +2 | 588 |
+| 81 | **Kelsey Mitchell** 🔴 +2 | 587 |
 | 82 | Helen Darling | 575 |
 | 82 | Nykesha Sales | 575 |
 | 84 | Andrea Stinson | 571 |
@@ -1600,8 +1600,8 @@ _Last updated: 2026-07-19 01:25 UTC_
 | 140 | Dawn Staley | 551 |
 | 141 | Glory Johnson | 550 |
 | 141 | Tierra Ruffin-Pratt | 550 |
-| 143 | Jackie Young | 548 |
-| 143 | **Monique Billings** 🔴 +2 | 548 |
+| 143 | **Monique Billings** 🔴 +3 | 549 |
+| 144 | Jackie Young | 548 |
 | 145 | Erlana Larkins | 546 |
 | 146 | **Kayla McBride** 🔴 +2 | 545 |
 | 147 | Jayne Appel Marinelli | 543 |
