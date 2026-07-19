@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-19 22:11 UTC_
+_Last updated: 2026-07-19 22:12 UTC_
 
 ## Contents
 
@@ -66,7 +66,7 @@ _Last updated: 2026-07-19 22:11 UTC_
 | 45 | Kahleah Copper | 4,437 |
 | 46 | Crystal Langhorne | 4,433 |
 | 46 | Jia Perkins | 4,433 |
-| 48 | **Courtney Vandersloot** 🔴 +9 | 4,371 |
+| 48 | **Courtney Vandersloot** 🔴 +10 | 4,372 |
 | 49 | Jonquel Jones | 4,353 |
 | 50 | Courtney Williams | 4,350 |
 | 51 | Dearica Hamby | 4,346 |
@@ -150,7 +150,7 @@ _Last updated: 2026-07-19 22:11 UTC_
 | 129 | Anna DeForge | 2,413 |
 | 130 | Kayla Thornton | 2,393 |
 | 131 | DeMya Walker | 2,379 |
-| 132 | **Azurá Stevens** 🔴 +18 | 2,361 |
+| 132 | **Azurá Stevens** 🔴 +20 | 2,363 |
 | 133 | Alex Bentley | 2,350 |
 | 134 | **Jordin Canada** 🔴 +7 | 2,349 |
 | 135 | Merlakia Jones | 2,308 |
@@ -858,7 +858,7 @@ _Last updated: 2026-07-19 22:11 UTC_
 | 13 | Alyssa Thomas | 582 |
 | 14 | Taj McWilliams-Franklin | 577 |
 | 15 | Tully Bevilaqua | 571 |
-| 16 | **Courtney Vandersloot** 🔴 +1 | 545 |
+| 16 | **Courtney Vandersloot** 🔴 +2 | 546 |
 | 17 | Yolanda Griffith | 527 |
 | 18 | Candace Parker | 521 |
 | 19 | Diana Taurasi | 515 |
@@ -1352,7 +1352,7 @@ _Last updated: 2026-07-19 22:11 UTC_
 | 97 | Mwadi Mabika | 532 |
 | 98 | Arike Ogunbowale | 531 |
 | 98 | Nakia Sanford | 531 |
-| 100 | **Jordin Canada** 🔴 +2 | 529 |
+| 100 | **Jordin Canada** 🔴 +3 | 530 |
 | 101 | Maya Moore | 527 |
 | 102 | Kara Lawson | 526 |
 | 103 | Leilani Mitchell | 525 |
@@ -1526,8 +1526,8 @@ _Last updated: 2026-07-19 22:11 UTC_
 | 66 | Sue Bird | 775 |
 | 67 | Sheri Sam | 766 |
 | 68 | Kahleah Copper | 758 |
-| 69 | **Allisha Gray** 🔴 +3 | 755 |
-| 69 | Kia Vaughn | 755 |
+| 69 | **Allisha Gray** 🔴 +4 | 756 |
+| 70 | Kia Vaughn | 755 |
 | 71 | Vickie Johnson | 752 |
 | 72 | Kara Braxton | 748 |
 | 73 | Crystal Langhorne | 737 |
