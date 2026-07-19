@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-07-19T02:14:00+00:00",
+    "text": "Shakira Austin passed Leilani Mitchell for #161 all-time in rebounds (career 846) \u2014 up from #163 entering today \u2014 (4:09 - 4th \u2014 WSH @ GS)",
+    "kind": "rank_pass",
+    "player": "Shakira Austin",
+    "stat": "rebounds",
+    "rank": 161,
+    "passed_players": [
+      "Leilani Mitchell"
+    ],
+    "new_total": 846
+  },
+  {
     "ts": "2026-07-19T02:10:00+00:00",
     "text": "Veronica Burton passed Armintie Herrington for #108 all-time in assists (career 590) \u2014 up from #109 entering today \u2014 (5:19 - 4th \u2014 WSH @ GS)",
     "kind": "rank_pass",
@@ -2993,17 +3005,5 @@
       "Ezi Magbegor"
     ],
     "new_total": 1244
-  },
-  {
-    "ts": "2026-06-28T20:45:00+00:00",
-    "text": "Chelsea Gray passed Tiffany Hayes for #94 all-time in rebounds (career 1,258) \u2014 (8:09 - 2nd \u2014 LV @ CHI)",
-    "kind": "rank_pass",
-    "player": "Chelsea Gray",
-    "stat": "rebounds",
-    "rank": 94,
-    "passed_players": [
-      "Tiffany Hayes"
-    ],
-    "new_total": 1258
   }
 ]
