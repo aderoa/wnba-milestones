@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-19 21:53 UTC_
+_Last updated: 2026-07-19 21:54 UTC_
 
 ## Contents
 
@@ -66,7 +66,7 @@ _Last updated: 2026-07-19 21:53 UTC_
 | 45 | Kahleah Copper | 4,437 |
 | 46 | Crystal Langhorne | 4,433 |
 | 46 | Jia Perkins | 4,433 |
-| 48 | **Courtney Vandersloot** 🔴 +3 | 4,365 |
+| 48 | **Courtney Vandersloot** 🔴 +7 | 4,369 |
 | 49 | Jonquel Jones | 4,353 |
 | 50 | Courtney Williams | 4,350 |
 | 51 | Dearica Hamby | 4,346 |
@@ -152,7 +152,7 @@ _Last updated: 2026-07-19 21:53 UTC_
 | 131 | DeMya Walker | 2,379 |
 | 132 | **Azurá Stevens** 🔴 +16 | 2,359 |
 | 133 | Alex Bentley | 2,350 |
-| 134 | **Jordin Canada** 🔴 | 2,342 |
+| 134 | **Jordin Canada** 🔴 +2 | 2,344 |
 | 135 | Merlakia Jones | 2,308 |
 | 136 | Betnijah Laney-Hamilton | 2,302 |
 | 137 | Satou Sabally | 2,296 |
@@ -297,8 +297,8 @@ _Last updated: 2026-07-19 21:53 UTC_
 | 71 | Nakia Sanford | 1,419 |
 | 72 | **Allisha Gray** 🔴 +5 | 1,409 |
 | 73 | Kayla Thornton | 1,408 |
+| 74 | **Courtney Vandersloot** 🔴 +1 | 1,387 |
 | 74 | Kara Braxton | 1,387 |
-| 75 | **Courtney Vandersloot** 🔴 | 1,386 |
 | 76 | Katie Smith | 1,383 |
 | 77 | Ebony Hoffman | 1,376 |
 | 78 | Jewell Loyd | 1,371 |
@@ -431,7 +431,7 @@ _Last updated: 2026-07-19 21:53 UTC_
 | Rank | Player | Total |
 |-----:|--------|------:|
 | 1 | Sue Bird | 3,234 |
-| 2 | **Courtney Vandersloot** 🔴 +2 | 2,896 |
+| 2 | **Courtney Vandersloot** 🔴 +3 | 2,897 |
 | 3 | Ticha Penicheiro | 2,588 |
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
@@ -1492,8 +1492,8 @@ _Last updated: 2026-07-19 21:53 UTC_
 | 32 | Asjha Jones | 971 |
 | 33 | Margo Dydek | 950 |
 | 34 | Sancho Lyttle | 947 |
-| 35 | **Courtney Vandersloot** 🔴 +2 | 942 |
-| 36 | Mwadi Mabika | 941 |
+| 35 | **Courtney Vandersloot** 🔴 +1 | 941 |
+| 35 | Mwadi Mabika | 941 |
 | 37 | Tamika Whitmore | 940 |
 | 38 | DeWanna Bonner | 922 |
 | 39 | Briann January | 921 |
