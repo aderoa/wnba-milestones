@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-19 18:50 UTC_
+_Last updated: 2026-07-19 18:51 UTC_
 
 ## Contents
 
@@ -22,7 +22,7 @@ _Last updated: 2026-07-19 18:50 UTC_
 | 1 | Diana Taurasi | 10,608 |
 | 2 | Tina Charles | 8,396 |
 | 3 | DeWanna Bonner | 7,972 |
-| 4 | **Nneka Ogwumike** 🔴 +15 | 7,578 |
+| 4 | **Nneka Ogwumike** 🔴 +17 | 7,580 |
 | 5 | Tina Thompson | 7,470 |
 | 6 | Tamika Catchings | 7,371 |
 | 7 | Candice Dupree | 6,861 |
@@ -227,7 +227,7 @@ _Last updated: 2026-07-19 18:50 UTC_
 | 1 | Tina Charles | 4,262 |
 | 2 | Sylvia Fowles | 4,005 |
 | 3 | Candace Parker | 3,467 |
-| 4 | **Nneka Ogwumike** 🔴 +11 | 3,417 |
+| 4 | **Nneka Ogwumike** 🔴 +10 | 3,416 |
 | 5 | Rebekkah Brunson | 3,345 |
 | 6 | Tamika Catchings | 3,313 |
 | 7 | Lisa Leslie | 3,303 |
@@ -378,7 +378,7 @@ _Last updated: 2026-07-19 18:50 UTC_
 | 152 | Natalie Achonwa | 895 |
 | 153 | Temeka Johnson | 889 |
 | 154 | Mistie Bass | 888 |
-| 155 | **Erica Wheeler** 🔴 +2 | 884 |
+| 155 | **Erica Wheeler** 🔴 +3 | 885 |
 | 156 | Alanna Smith | 878 |
 | 157 | Marina Mabrey | 874 |
 | 158 | Shameka Christon | 867 |
@@ -581,7 +581,7 @@ _Last updated: 2026-07-19 18:50 UTC_
 | 149 | DeMya Walker | 446 |
 | 150 | Essence Carson | 445 |
 | 151 | Julie Allemand | 444 |
-| 152 | **Jessica Shepard** 🔴 +7 | 443 |
+| 152 | **Jessica Shepard** 🔴 +6 | 442 |
 | 153 | Michelle Snow | 437 |
 | 154 | Lauren Jackson | 435 |
 | 155 | Adrienne Goodson | 433 |
