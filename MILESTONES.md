@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-19 02:10 UTC
+
+- **Veronica Burton** passed **Armintie Herrington** for **#108** all-time in assists (career 590) — up from #109 entering today — _5:19 - 4th — WSH @ GS_
+
 ## 2026-07-19 02:08 UTC
 
 - **Caitlin Clark** passed **Anna DeForge** and **Cheryl Ford** for **#158** all-time in turnovers (career 375) — up from #161 entering today — _5:33 - 4th — NY @ IND_

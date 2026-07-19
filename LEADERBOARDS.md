@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-19 02:09 UTC_
+_Last updated: 2026-07-19 02:10 UTC_
 
 ## Contents
 
@@ -259,7 +259,7 @@ _Last updated: 2026-07-19 02:09 UTC_
 | 33 | Elizabeth Williams | 1,978 |
 | 34 | Cheryl Ford | 1,907 |
 | 35 | Courtney Williams | 1,845 |
-| 36 | **Kiah Stokes** 🔴 +2 | 1,837 |
+| 36 | **Kiah Stokes** 🔴 +3 | 1,838 |
 | 37 | Plenette Pierson | 1,834 |
 | 38 | Natalie Williams | 1,832 |
 | 39 | Wendy Palmer | 1,824 |
@@ -464,7 +464,7 @@ _Last updated: 2026-07-19 02:09 UTC_
 | 33 | Jackie Young | 1,150 |
 | 34 | Renee Montgomery | 1,140 |
 | 35 | Swin Cash | 1,131 |
-| 36 | **Sabrina Ionescu** 🔴 +3 | 1,095 |
+| 36 | **Sabrina Ionescu** 🔴 +4 | 1,096 |
 | 37 | Lindsey Harding | 1,090 |
 | 38 | Katie Douglas | 1,069 |
 | 39 | Alana Beard | 1,061 |
@@ -495,7 +495,7 @@ _Last updated: 2026-07-19 02:09 UTC_
 | 64 | Lisa Leslie | 873 |
 | 65 | Brittney Sykes | 866 |
 | 66 | Tully Bevilaqua | 853 |
-| 67 | **Kelsey Mitchell** 🔴 | 847 |
+| 67 | **Kelsey Mitchell** 🔴 +1 | 848 |
 | 68 | Jia Perkins | 837 |
 | 69 | Andrea Stinson | 810 |
 | 70 | Tina Thompson | 803 |
@@ -536,8 +536,8 @@ _Last updated: 2026-07-19 02:09 UTC_
 | 105 | Sancho Lyttle | 592 |
 | 106 | Betnijah Laney-Hamilton | 590 |
 | 106 | Camille Smith | 590 |
-| 108 | Armintie Herrington | 589 |
-| 108 | **Veronica Burton** 🔴 +10 | 589 |
+| 106 | **Veronica Burton** 🔴 +11 | 590 |
+| 109 | Armintie Herrington | 589 |
 | 110 | Tan White | 578 |
 | 111 | Matee Ajavon | 577 |
 | 112 | Napheesa Collier | 570 |
@@ -1157,10 +1157,10 @@ _Last updated: 2026-07-19 02:09 UTC_
 | 108 | Betnijah Laney-Hamilton | 206 |
 | 109 | Lexie Brown | 203 |
 | 110 | Shanna Zolman | 199 |
+| 111 | **Caitlin Clark** 🔴 +2 | 197 |
 | 111 | Nia Coffey | 197 |
 | 111 | Temeka Johnson | 197 |
 | 111 | Tina Charles | 197 |
-| 114 | **Caitlin Clark** 🔴 +1 | 196 |
 | 115 | Lindsay Whalen | 193 |
 | 116 | Victoria Vivians | 192 |
 | 117 | Danielle Adams | 188 |

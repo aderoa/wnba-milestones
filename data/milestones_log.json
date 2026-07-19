@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-07-19T02:10:00+00:00",
+    "text": "Veronica Burton passed Armintie Herrington for #108 all-time in assists (career 590) \u2014 up from #109 entering today \u2014 (5:19 - 4th \u2014 WSH @ GS)",
+    "kind": "rank_pass",
+    "player": "Veronica Burton",
+    "stat": "assists",
+    "rank": 108,
+    "passed_players": [
+      "Armintie Herrington"
+    ],
+    "new_total": 590
+  },
+  {
     "ts": "2026-07-19T02:08:00+00:00",
     "text": "Caitlin Clark passed Anna DeForge and Cheryl Ford for #158 all-time in turnovers (career 375) \u2014 up from #161 entering today \u2014 (5:33 - 4th \u2014 NY @ IND)",
     "kind": "rank_pass",
@@ -2993,17 +3005,5 @@
       "Tiffany Hayes"
     ],
     "new_total": 1258
-  },
-  {
-    "ts": "2026-06-28T20:36:00+00:00",
-    "text": "Jewell Loyd passed Leilani Mitchell for #96 all-time in fouls (career 685) \u2014 (1:13 - 1st \u2014 LV @ CHI)",
-    "kind": "rank_pass",
-    "player": "Jewell Loyd",
-    "stat": "fouls",
-    "rank": 96,
-    "passed_players": [
-      "Leilani Mitchell"
-    ],
-    "new_total": 685
   }
 ]
