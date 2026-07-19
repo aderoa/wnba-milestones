@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-19 00:41 UTC_
+_Last updated: 2026-07-19 00:42 UTC_
 
 ## Contents
 
@@ -41,13 +41,13 @@ _Last updated: 2026-07-19 00:41 UTC_
 | 20 | Becky Hammon | 5,816 |
 | 21 | Angel McCoughtry | 5,797 |
 | 22 | Skylar Diggins | 5,732 |
-| 23 | **Kayla McBride** 🔴 +12 | 5,662 |
+| 23 | **Kayla McBride** 🔴 +14 | 5,664 |
 | 24 | DeLisha Milton-Jones | 5,571 |
 | 25 | Katie Douglas | 5,545 |
 | 26 | Lindsay Whalen | 5,511 |
 | 27 | **Kelsey Mitchell** 🔴 +8 | 5,206 |
 | 28 | Swin Cash | 5,119 |
-| 29 | Tiffany Hayes | 5,049 |
+| 29 | **Tiffany Hayes** 🔴 | 5,049 |
 | 30 | Tangela Smith | 5,035 |
 | 31 | Taj McWilliams-Franklin | 4,992 |
 | 32 | Maya Moore | 4,984 |
@@ -318,7 +318,7 @@ _Last updated: 2026-07-19 00:41 UTC_
 | 92 | **Kayla McBride** 🔴 +2 | 1,258 |
 | 92 | Liz Cambage | 1,258 |
 | 94 | Chelsea Gray | 1,257 |
-| 94 | Tiffany Hayes | 1,257 |
+| 94 | **Tiffany Hayes** 🔴 | 1,257 |
 | 96 | Brianna Turner | 1,243 |
 | 96 | Ezi Magbegor | 1,243 |
 | 98 | Seimone Augustus | 1,228 |
@@ -477,7 +477,7 @@ _Last updated: 2026-07-19 00:41 UTC_
 | 45 | **Breanna Stewart** 🔴 +1 | 982 |
 | 45 | Nikki Teasley | 982 |
 | 47 | Tamecka Dixon | 960 |
-| 48 | Tiffany Hayes | 957 |
+| 48 | **Tiffany Hayes** 🔴 | 957 |
 | 49 | Kara Lawson | 946 |
 | 50 | Arike Ogunbowale | 944 |
 | 51 | Nneka Ogwumike | 933 |
@@ -606,7 +606,7 @@ _Last updated: 2026-07-19 00:41 UTC_
 | 174 | Shameka Christon | 389 |
 | 174 | Tamicha Jackson | 389 |
 | 176 | Riquna Williams | 387 |
-| 177 | **Bridget Carleton** 🔴 | 384 |
+| 177 | **Bridget Carleton** 🔴 +1 | 385 |
 | 178 | Dana Evans | 379 |
 | 179 | Jessica Breland | 377 |
 | 180 | Shenise Johnson | 376 |
@@ -782,7 +782,7 @@ _Last updated: 2026-07-19 00:41 UTC_
 | 145 | Allie Quigley | 90 |
 | 145 | Alysha Clark | 90 |
 | 147 | Natasha Cloud | 89 |
-| 147 | Tiffany Hayes | 89 |
+| 147 | **Tiffany Hayes** 🔴 | 89 |
 | 149 | Marissa Coleman | 88 |
 | 150 | Astou Ndiaye-Diatta | 86 |
 | 151 | Adrian Williams-Strong | 85 |
@@ -897,7 +897,7 @@ _Last updated: 2026-07-19 00:41 UTC_
 | 52 | Deanna Nolan | 388 |
 | 53 | Briann January | 386 |
 | 54 | Swin Cash | 384 |
-| 54 | Tiffany Hayes | 384 |
+| 54 | **Tiffany Hayes** 🔴 | 384 |
 | 54 | Tina Charles | 384 |
 | 57 | Allisha Gray | 379 |
 | 58 | Monique Currie | 378 |
@@ -1038,11 +1038,11 @@ _Last updated: 2026-07-19 00:41 UTC_
 | 193 | Brittany Boyd-Jones | 176 |
 | 193 | Chiney Ogwumike | 176 |
 | 195 | Tamika Raymond | 175 |
+| 196 | **Bridget Carleton** 🔴 +1 | 174 |
 | 196 | Elena Delle Donne | 174 |
 | 196 | Ezi Magbegor | 174 |
 | 196 | Margo Dydek | 174 |
-| 199 | **Bridget Carleton** 🔴 | 173 |
-| 199 | Kamila Vodichkova | 173 |
+| 200 | Kamila Vodichkova | 173 |
 
 ## Three-pointers
 
@@ -1077,7 +1077,7 @@ _Last updated: 2026-07-19 00:41 UTC_
 | 27 | Cappie Pondexter | 464 |
 | 28 | Allisha Gray | 458 |
 | 29 | Ariel Atkins | 455 |
-| 30 | Tiffany Hayes | 454 |
+| 30 | **Tiffany Hayes** 🔴 | 454 |
 | 31 | Chelsea Gray | 450 |
 | 32 | Skylar Diggins | 447 |
 | 33 | Lauren Jackson | 436 |
@@ -1238,7 +1238,7 @@ _Last updated: 2026-07-19 00:41 UTC_
 | 187 | Rickea Jackson | 114 |
 | 187 | Sandy Brondello | 114 |
 | 190 | **Cecilia Zandalasini** 🔴 | 111 |
-| 190 | Janelle Salaun | 111 |
+| 190 | **Janelle Salaun** 🔴 | 111 |
 | 190 | Shoni Schimmel | 111 |
 | 193 | Emma Meesseman | 109 |
 | 193 | Scholanda Dorrell | 109 |
@@ -1323,7 +1323,7 @@ _Last updated: 2026-07-19 00:41 UTC_
 | 68 | Odyssey Sims | 631 |
 | 68 | Svetlana Abrosimova | 631 |
 | 70 | Kahleah Copper | 625 |
-| 71 | Tiffany Hayes | 624 |
+| 71 | **Tiffany Hayes** 🔴 | 624 |
 | 72 | Rebekkah Brunson | 615 |
 | 73 | Seimone Augustus | 613 |
 | 74 | Teresa Weatherspoon | 601 |
@@ -1481,7 +1481,7 @@ _Last updated: 2026-07-19 00:41 UTC_
 | 21 | Michelle Snow | 1,108 |
 | 22 | Sylvia Fowles | 1,049 |
 | 23 | Tina Charles | 1,037 |
-| 24 | Tiffany Hayes | 1,021 |
+| 24 | **Tiffany Hayes** 🔴 | 1,021 |
 | 25 | Lindsay Whalen | 998 |
 | 26 | Rebekkah Brunson | 996 |
 | 27 | Brittney Griner | 995 |
