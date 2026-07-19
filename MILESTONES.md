@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-19 01:47 UTC
+
+- **Aliyah Boston** passed **Damiris Dantas** and **Nia Coffey** for **#199** all-time in turnovers (career 290) — new to top 200 today — _1:19 - 3rd — NY @ IND_
+
 ## 2026-07-19 01:39 UTC
 
 - **Myisha Hines-Allen** passed **Cynthia Cooper** for **#177** all-time in steals (career 193) — up from #178 entering today — _3:35 - 3rd — NY @ IND_

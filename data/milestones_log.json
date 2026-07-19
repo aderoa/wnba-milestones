@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-07-19T01:47:00+00:00",
+    "text": "Aliyah Boston passed Damiris Dantas and Nia Coffey for #199 all-time in turnovers (career 290) \u2014 new to top 200 today \u2014 (1:19 - 3rd \u2014 NY @ IND)",
+    "kind": "rank_pass",
+    "player": "Aliyah Boston",
+    "stat": "turnovers",
+    "rank": 199,
+    "passed_players": [
+      "Damiris Dantas",
+      "Nia Coffey"
+    ],
+    "new_total": 290
+  },
+  {
     "ts": "2026-07-19T01:39:00+00:00",
     "text": "Myisha Hines-Allen passed Cynthia Cooper for #177 all-time in steals (career 193) \u2014 up from #178 entering today \u2014 (3:35 - 3rd \u2014 NY @ IND)",
     "kind": "rank_pass",
@@ -2991,20 +3004,5 @@
       "Allie Quigley"
     ],
     "new_total": 476
-  },
-  {
-    "ts": "2026-06-28T20:19:00+00:00",
-    "text": "Michaela Onyenwere passed Bridget Pettis, Gabby Williams, Jennifer Gillom, and Katie Lou Samuelson for #143 all-time in three-pointers (career 154) \u2014 up from #147 entering today \u2014 (6:58 - 3rd \u2014 POR @ WSH)",
-    "kind": "rank_pass",
-    "player": "Michaela Onyenwere",
-    "stat": "three-pointers",
-    "rank": 143,
-    "passed_players": [
-      "Bridget Pettis",
-      "Gabby Williams",
-      "Jennifer Gillom",
-      "Katie Lou Samuelson"
-    ],
-    "new_total": 154
   }
 ]

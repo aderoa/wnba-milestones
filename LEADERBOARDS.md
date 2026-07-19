@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-19 01:46 UTC_
+_Last updated: 2026-07-19 01:47 UTC_
 
 ## Contents
 
@@ -66,7 +66,7 @@ _Last updated: 2026-07-19 01:46 UTC_
 | 45 | Kahleah Copper | 4,437 |
 | 46 | Crystal Langhorne | 4,433 |
 | 46 | Jia Perkins | 4,433 |
-| 48 | **Courtney Williams** 🔴 +13 | 4,363 |
+| 48 | **Courtney Williams** 🔴 +15 | 4,365 |
 | 49 | Courtney Vandersloot | 4,362 |
 | 50 | **Jonquel Jones** 🔴 +8 | 4,361 |
 | 51 | Dearica Hamby | 4,330 |
@@ -1331,7 +1331,7 @@ _Last updated: 2026-07-19 01:46 UTC_
 | 77 | Kelly Miller | 596 |
 | 78 | Stefanie Dolson | 594 |
 | 79 | Brittney Sykes | 591 |
-| 80 | **Breanna Stewart** 🔴 +3 | 589 |
+| 80 | **Breanna Stewart** 🔴 +4 | 590 |
 | 81 | **Kelsey Mitchell** 🔴 +2 | 587 |
 | 82 | Helen Darling | 575 |
 | 82 | Nykesha Sales | 575 |
@@ -1450,9 +1450,9 @@ _Last updated: 2026-07-19 01:46 UTC_
 | 196 | Crystal Robinson | 299 |
 | 197 | **Kayla Thornton** 🔴 | 298 |
 | 198 | Michele Timms | 297 |
-| 199 | **Aliyah Boston** 🔴 +4 | 289 |
-| 199 | Damiris Dantas | 289 |
-| 199 | **Nia Coffey** 🔴 | 289 |
+| 199 | **Aliyah Boston** 🔴 +5 | 290 |
+| 200 | Damiris Dantas | 289 |
+| 200 | **Nia Coffey** 🔴 | 289 |
 
 ## Personal fouls
 
@@ -1547,8 +1547,8 @@ _Last updated: 2026-07-19 01:46 UTC_
 | 87 | Tan White | 698 |
 | 88 | Katie Douglas | 697 |
 | 89 | Danielle Robinson | 692 |
-| 90 | **Breanna Stewart** 🔴 +2 | 687 |
-| 90 | Sophia Young-Malcolm | 687 |
+| 90 | **Breanna Stewart** 🔴 +3 | 688 |
+| 91 | Sophia Young-Malcolm | 687 |
 | 92 | Maya Moore | 686 |
 | 93 | Cheyenne Parker-Tyus | 685 |
 | 93 | Jasmine Thomas | 685 |
@@ -1656,5 +1656,5 @@ _Last updated: 2026-07-19 01:46 UTC_
 | 195 | Nikki Teasley | 463 |
 | 197 | Sue Wicks | 462 |
 | 198 | Natalie Achonwa | 459 |
-| 199 | **Aliyah Boston** 🔴 +3 | 457 |
-| 199 | Kara Lawson | 457 |
+| 199 | **Aliyah Boston** 🔴 +4 | 458 |
+| 200 | Kara Lawson | 457 |
