@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-19 00:24 UTC_
+_Last updated: 2026-07-19 00:25 UTC_
 
 ## Contents
 
@@ -200,7 +200,7 @@ _Last updated: 2026-07-19 00:24 UTC_
 | 179 | NaLyssa Smith | 1,879 |
 | 180 | Rachel Banham | 1,843 |
 | 181 | Damiris Dantas | 1,842 |
-| 182 | **Sophie Cunningham** 🔴 +6 | 1,835 |
+| 182 | **Sophie Cunningham** 🔴 +8 | 1,837 |
 | 183 | Tianna Hawkins | 1,825 |
 | 184 | Noelle Quinn | 1,824 |
 | 185 | Danielle Adams | 1,820 |
@@ -291,8 +291,8 @@ _Last updated: 2026-07-19 00:24 UTC_
 | 65 | Sue Bird | 1,466 |
 | 66 | Cheyenne Parker-Tyus | 1,463 |
 | 67 | Nicole Powell | 1,457 |
+| 68 | **Monique Billings** 🔴 +2 | 1,433 |
 | 68 | Tamera Young | 1,433 |
-| 69 | **Monique Billings** 🔴 +1 | 1,432 |
 | 70 | Alana Beard | 1,420 |
 | 71 | Nakia Sanford | 1,419 |
 | 72 | Kayla Thornton | 1,408 |
@@ -729,7 +729,7 @@ _Last updated: 2026-07-19 00:24 UTC_
 | 91 | Nakia Sanford | 131 |
 | 93 | Brooke Wyckoff | 129 |
 | 93 | Cathrine Kraayeveld | 129 |
-| 95 | **Emily Engstler** 🔴 | 128 |
+| 93 | **Emily Engstler** 🔴 +1 | 129 |
 | 96 | Alyssa Thomas | 127 |
 | 96 | Chelsea Gray | 127 |
 | 96 | Chiney Ogwumike | 127 |
