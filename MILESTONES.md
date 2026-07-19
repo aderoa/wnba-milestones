@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-19 18:29 UTC
+
+- **Nneka Ogwumike** passed **Camille Smith** for **#12** all-time in fouls (career 1,160) — up from #14 entering today — _2:38 - 3rd — LA @ DAL_
+
 ## 2026-07-19 17:48 UTC
 
 - **Alysha Clark** passed **Elena Baranova** and **Jantel Lavender** for **#127** all-time in turnovers (career 445) — up from #129 entering today — _3:06 - 2nd — LA @ DAL_
