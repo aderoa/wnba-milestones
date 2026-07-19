@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-19 21:26 UTC_
+_Last updated: 2026-07-19 21:27 UTC_
 
 ## Contents
 
@@ -411,7 +411,7 @@ _Last updated: 2026-07-19 21:26 UTC_
 | 183 | Tan White | 769 |
 | 186 | Tully Bevilaqua | 767 |
 | 187 | Layshia Clarendon | 756 |
-| 188 | **Kamilla Cardoso** 🔴 +2 | 752 |
+| 188 | **Kamilla Cardoso** 🔴 +3 | 753 |
 | 189 | Brooke Wyckoff | 751 |
 | 190 | Coco Miller | 750 |
 | 191 | Kelsey Plum | 741 |
@@ -454,8 +454,8 @@ _Last updated: 2026-07-19 21:26 UTC_
 | 22 | Dawn Staley | 1,337 |
 | 23 | Teresa Weatherspoon | 1,333 |
 | 24 | Kristi Toliver | 1,301 |
+| 25 | **Jordin Canada** 🔴 +8 | 1,270 |
 | 25 | Kelsey Plum | 1,270 |
-| 26 | **Jordin Canada** 🔴 +7 | 1,269 |
 | 27 | Katie Smith | 1,258 |
 | 28 | Odyssey Sims | 1,234 |
 | 29 | Vickie Johnson | 1,202 |
@@ -890,7 +890,7 @@ _Last updated: 2026-07-19 21:26 UTC_
 | 45 | Katie Smith | 408 |
 | 46 | Cappie Pondexter | 405 |
 | 47 | Nicole Powell | 401 |
-| 48 | **Jordin Canada** 🔴 +1 | 398 |
+| 48 | **Jordin Canada** 🔴 +2 | 399 |
 | 49 | Jasmine Thomas | 394 |
 | 50 | Ariel Atkins | 392 |
 | 51 | Danielle Robinson | 389 |
