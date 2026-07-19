@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-19 20:45 UTC_
+_Last updated: 2026-07-19 20:46 UTC_
 
 ## Contents
 
@@ -151,7 +151,7 @@ _Last updated: 2026-07-19 20:45 UTC_
 | 130 | Kayla Thornton | 2,393 |
 | 131 | DeMya Walker | 2,379 |
 | 132 | Alex Bentley | 2,350 |
-| 133 | **Azurá Stevens** 🔴 +3 | 2,346 |
+| 133 | **Azurá Stevens** 🔴 +5 | 2,348 |
 | 134 | **Jordin Canada** 🔴 | 2,342 |
 | 135 | Merlakia Jones | 2,308 |
 | 136 | Betnijah Laney-Hamilton | 2,302 |
@@ -305,7 +305,7 @@ _Last updated: 2026-07-19 20:45 UTC_
 | 79 | Sheri Sam | 1,356 |
 | 80 | Tamika Whitmore | 1,355 |
 | 81 | Emma Meesseman | 1,350 |
-| 82 | **Brionna Jones** 🔴 +5 | 1,338 |
+| 82 | **Brionna Jones** 🔴 +6 | 1,339 |
 | 83 | Elena Baranova | 1,335 |
 | 84 | Erlana Larkins | 1,329 |
 | 85 | Mwadi Mabika | 1,327 |
@@ -347,7 +347,7 @@ _Last updated: 2026-07-19 20:45 UTC_
 | 121 | Svetlana Abrosimova | 1,078 |
 | 122 | Le'coe Willingham | 1,054 |
 | 123 | Nicole Ohlde | 1,040 |
-| 124 | **Angel Reese** 🔴 +3 | 1,038 |
+| 124 | **Angel Reese** 🔴 +2 | 1,037 |
 | 125 | Tamecka Dixon | 1,035 |
 | 126 | Kamila Vodichkova | 1,031 |
 | 127 | Jessica Shepard | 1,030 |
@@ -455,7 +455,7 @@ _Last updated: 2026-07-19 20:45 UTC_
 | 23 | Teresa Weatherspoon | 1,333 |
 | 24 | Kristi Toliver | 1,301 |
 | 25 | Kelsey Plum | 1,270 |
-| 26 | **Jordin Canada** 🔴 +4 | 1,266 |
+| 26 | **Jordin Canada** 🔴 +5 | 1,267 |
 | 27 | Katie Smith | 1,258 |
 | 28 | Odyssey Sims | 1,234 |
 | 29 | Vickie Johnson | 1,202 |
@@ -550,11 +550,11 @@ _Last updated: 2026-07-19 20:45 UTC_
 | 118 | Janel McCarville | 551 |
 | 118 | Svetlana Abrosimova | 551 |
 | 120 | Michele Timms | 549 |
-| 121 | **Rhyne Howard** 🔴 +4 | 540 |
+| 121 | **Rhyne Howard** 🔴 +3 | 539 |
 | 122 | Myisha Hines-Allen | 529 |
 | 123 | Marie Ferdinand-Harris | 528 |
 | 124 | Margo Dydek | 524 |
-| 125 | **Rachel Banham** 🔴 | 511 |
+| 125 | **Rachel Banham** 🔴 +1 | 512 |
 | 126 | Iziane Castro Marques | 509 |
 | 127 | Brittany Boyd-Jones | 508 |
 | 127 | Chasity Melvin | 508 |
