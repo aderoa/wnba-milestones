@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-19 17:36 UTC_
+_Last updated: 2026-07-19 17:37 UTC_
 
 ## Contents
 
@@ -54,7 +54,7 @@ _Last updated: 2026-07-19 17:36 UTC_
 | 33 | Sheryl Swoopes | 4,875 |
 | 34 | Alyssa Thomas | 4,752 |
 | 35 | Alana Beard | 4,740 |
-| 36 | **Arike Ogunbowale** 🔴 +2 | 4,717 |
+| 36 | **Arike Ogunbowale** 🔴 +5 | 4,720 |
 | 37 | Chamique Holdsclaw | 4,713 |
 | 38 | Elena Delle Donne | 4,706 |
 | 39 | Natasha Howard | 4,682 |
@@ -94,7 +94,7 @@ _Last updated: 2026-07-19 17:36 UTC_
 | 73 | Jasmine Thomas | 3,522 |
 | 74 | Tamecka Dixon | 3,507 |
 | 75 | Tammy Sutton-Brown | 3,498 |
-| 76 | **Ariel Atkins** 🔴 +2 | 3,483 |
+| 76 | **Ariel Atkins** 🔴 +4 | 3,485 |
 | 77 | Sancho Lyttle | 3,478 |
 | 78 | Ivory Latta | 3,447 |
 | 79 | Nicole Powell | 3,407 |
@@ -227,7 +227,7 @@ _Last updated: 2026-07-19 17:36 UTC_
 | 1 | Tina Charles | 4,262 |
 | 2 | Sylvia Fowles | 4,005 |
 | 3 | Candace Parker | 3,467 |
-| 4 | **Nneka Ogwumike** 🔴 +6 | 3,412 |
+| 4 | **Nneka Ogwumike** 🔴 +7 | 3,413 |
 | 5 | Rebekkah Brunson | 3,345 |
 | 6 | Tamika Catchings | 3,313 |
 | 7 | Lisa Leslie | 3,303 |
@@ -451,7 +451,7 @@ _Last updated: 2026-07-19 17:36 UTC_
 | 19 | Jasmine Thomas | 1,355 |
 | 20 | Briann January | 1,339 |
 | 21 | Dawn Staley | 1,337 |
-| 22 | **Erica Wheeler** 🔴 +1 | 1,336 |
+| 21 | **Erica Wheeler** 🔴 +2 | 1,337 |
 | 23 | Teresa Weatherspoon | 1,333 |
 | 24 | Kristi Toliver | 1,301 |
 | 25 | Kelsey Plum | 1,270 |
@@ -581,8 +581,8 @@ _Last updated: 2026-07-19 17:36 UTC_
 | 149 | DeMya Walker | 446 |
 | 150 | Essence Carson | 445 |
 | 151 | Julie Allemand | 444 |
-| 152 | **Jessica Shepard** 🔴 +1 | 437 |
-| 152 | Michelle Snow | 437 |
+| 152 | **Jessica Shepard** 🔴 +2 | 438 |
+| 153 | Michelle Snow | 437 |
 | 154 | Lauren Jackson | 435 |
 | 155 | Adrienne Goodson | 433 |
 | 155 | Crystal Langhorne | 433 |
@@ -1062,7 +1062,7 @@ _Last updated: 2026-07-19 17:36 UTC_
 | 12 | Kelsey Plum | 619 |
 | 13 | Tamika Catchings | 605 |
 | 14 | Kara Lawson | 583 |
-| 15 | **Arike Ogunbowale** 🔴 | 581 |
+| 15 | **Arike Ogunbowale** 🔴 +1 | 582 |
 | 16 | Nicole Powell | 579 |
 | 17 | Ivory Latta | 536 |
 | 18 | Renee Montgomery | 532 |
@@ -1281,7 +1281,7 @@ _Last updated: 2026-07-19 17:36 UTC_
 | 26 | Natasha Howard | 843 |
 | 27 | DeWanna Bonner | 840 |
 | 28 | Katie Douglas | 824 |
-| 29 | **Nneka Ogwumike** 🔴 +1 | 804 |
+| 29 | **Nneka Ogwumike** 🔴 +2 | 805 |
 | 30 | Betty Lennox | 800 |
 | 31 | Jasmine Thomas | 796 |
 | 32 | Jewell Loyd | 795 |
@@ -1471,7 +1471,7 @@ _Last updated: 2026-07-19 17:36 UTC_
 | 11 | Chasity Melvin | 1,165 |
 | 12 | Camille Smith | 1,159 |
 | 13 | Natasha Howard | 1,158 |
-| 14 | **Nneka Ogwumike** 🔴 +1 | 1,157 |
+| 13 | **Nneka Ogwumike** 🔴 +2 | 1,158 |
 | 15 | Alana Beard | 1,153 |
 | 16 | Swin Cash | 1,146 |
 | 17 | Taj McWilliams-Franklin | 1,145 |
