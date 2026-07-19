@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-19 23:05 UTC_
+_Last updated: 2026-07-19 23:06 UTC_
 
 ## Contents
 
@@ -21,7 +21,7 @@ _Last updated: 2026-07-19 23:05 UTC_
 |-----:|--------|------:|
 | 1 | Diana Taurasi | 10,608 |
 | 2 | Tina Charles | 8,396 |
-| 3 | **DeWanna Bonner** 🔴 | 7,972 |
+| 3 | **DeWanna Bonner** 🔴 +2 | 7,974 |
 | 4 | Nneka Ogwumike | 7,580 |
 | 5 | Tina Thompson | 7,470 |
 | 6 | Tamika Catchings | 7,371 |
@@ -560,7 +560,7 @@ _Last updated: 2026-07-19 23:05 UTC_
 | 127 | Chasity Melvin | 508 |
 | 129 | Anna DeForge | 503 |
 | 129 | Coco Miller | 503 |
-| 131 | **Kahleah Copper** 🔴 | 495 |
+| 131 | **Kahleah Copper** 🔴 +1 | 496 |
 | 132 | Crystal Robinson | 488 |
 | 132 | Tiffany Mitchell | 488 |
 | 134 | Rebekkah Brunson | 486 |
@@ -1483,8 +1483,8 @@ _Last updated: 2026-07-19 23:05 UTC_
 | 23 | Tina Charles | 1,037 |
 | 24 | Tiffany Hayes | 1,021 |
 | 25 | Lindsay Whalen | 998 |
+| 26 | **Brittney Griner** 🔴 +1 | 996 |
 | 26 | Rebekkah Brunson | 996 |
-| 27 | **Brittney Griner** 🔴 | 995 |
 | 28 | Yolanda Griffith | 991 |
 | 29 | Lauren Jackson | 982 |
 | 30 | Nakia Sanford | 979 |
