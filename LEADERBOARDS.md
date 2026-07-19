@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-19 00:36 UTC_
+_Last updated: 2026-07-19 00:37 UTC_
 
 ## Contents
 
@@ -57,7 +57,7 @@ _Last updated: 2026-07-19 00:36 UTC_
 | 36 | Arike Ogunbowale | 4,715 |
 | 37 | Chamique Holdsclaw | 4,713 |
 | 38 | Elena Delle Donne | 4,706 |
-| 39 | **Natasha Howard** 🔴 +10 | 4,692 |
+| 39 | **Natasha Howard** 🔴 +12 | 4,694 |
 | 40 | Chelsea Gray | 4,625 |
 | 41 | Penny Taylor | 4,595 |
 | 42 | Kelsey Plum | 4,494 |
@@ -110,8 +110,8 @@ _Last updated: 2026-07-19 00:36 UTC_
 | 89 | Erica Wheeler | 3,195 |
 | 90 | Danielle Robinson | 3,160 |
 | 91 | Wendy Palmer | 3,135 |
+| 92 | **Sabrina Ionescu** 🔴 +6 | 3,103 |
 | 92 | Shavonte Zellous | 3,103 |
-| 93 | **Sabrina Ionescu** 🔴 +3 | 3,100 |
 | 94 | Briann January | 3,082 |
 | 95 | Erika de Souza | 3,046 |
 | 96 | Shameka Christon | 3,039 |
@@ -529,7 +529,7 @@ _Last updated: 2026-07-19 00:36 UTC_
 | 97 | Jennifer Azzi | 636 |
 | 98 | Sami Whitcomb | 623 |
 | 99 | Alysha Clark | 619 |
-| 100 | **Natasha Howard** 🔴 | 615 |
+| 100 | **Natasha Howard** 🔴 +1 | 616 |
 | 101 | Debbie Black | 612 |
 | 102 | Cynthia Cooper | 602 |
 | 103 | **Caitlin Clark** 🔴 +2 | 593 |
@@ -924,9 +924,9 @@ _Last updated: 2026-07-19 00:36 UTC_
 | 79 | Odyssey Sims | 334 |
 | 80 | Marie Ferdinand-Harris | 331 |
 | 81 | Chasity Melvin | 330 |
+| 81 | **Courtney Williams** 🔴 +1 | 330 |
 | 81 | Leilani Mitchell | 330 |
-| 83 | **Courtney Williams** 🔴 | 329 |
-| 83 | Kristi Toliver | 329 |
+| 84 | Kristi Toliver | 329 |
 | 85 | Matee Ajavon | 328 |
 | 86 | **Gabby Williams** 🔴 | 326 |
 | 87 | Napheesa Collier | 325 |
@@ -1071,7 +1071,7 @@ _Last updated: 2026-07-19 00:36 UTC_
 | 21 | Allie Quigley | 510 |
 | 22 | Leilani Mitchell | 508 |
 | 23 | Marina Mabrey | 500 |
-| 24 | **Sabrina Ionescu** 🔴 +1 | 469 |
+| 24 | **Sabrina Ionescu** 🔴 +2 | 470 |
 | 25 | Shekinna Stricklen | 468 |
 | 26 | **Breanna Stewart** 🔴 +1 | 466 |
 | 27 | Cappie Pondexter | 464 |
@@ -1413,7 +1413,7 @@ _Last updated: 2026-07-19 00:36 UTC_
 | 158 | Anna DeForge | 374 |
 | 158 | Cheryl Ford | 374 |
 | 160 | Allison Feaster | 372 |
-| 161 | **Caitlin Clark** 🔴 +3 | 371 |
+| 160 | **Caitlin Clark** 🔴 +4 | 372 |
 | 162 | Emma Meesseman | 367 |
 | 163 | Latasha Byears | 360 |
 | 164 | Vicky Bullett | 359 |
@@ -1497,7 +1497,7 @@ _Last updated: 2026-07-19 00:36 UTC_
 | 36 | Tamika Whitmore | 940 |
 | 38 | DeWanna Bonner | 922 |
 | 39 | Briann January | 921 |
-| 40 | **Jonquel Jones** 🔴 +1 | 914 |
+| 40 | **Jonquel Jones** 🔴 +2 | 915 |
 | 41 | Ticha Penicheiro | 913 |
 | 42 | Shavonte Zellous | 907 |
 | 43 | Alysha Clark | 905 |
@@ -1561,7 +1561,7 @@ _Last updated: 2026-07-19 00:36 UTC_
 | 101 | Kelly Miller | 676 |
 | 102 | Chamique Holdsclaw | 667 |
 | 103 | Tianna Hawkins | 662 |
-| 104 | **Kiah Stokes** 🔴 | 651 |
+| 104 | **Kiah Stokes** 🔴 +1 | 652 |
 | 105 | Tari Phillips | 648 |
 | 106 | Marie Ferdinand-Harris | 646 |
 | 107 | Chelsea Gray | 640 |
