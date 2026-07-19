@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-19 02:19 UTC_
+_Last updated: 2026-07-19 02:20 UTC_
 
 ## Contents
 
@@ -532,7 +532,7 @@ _Last updated: 2026-07-19 02:19 UTC_
 | 101 | Debbie Black | 612 |
 | 102 | Cynthia Cooper | 602 |
 | 103 | **Caitlin Clark** 🔴 +7 | 598 |
-| 104 | **Gabby Williams** 🔴 +4 | 595 |
+| 104 | **Gabby Williams** 🔴 +5 | 596 |
 | 105 | Sancho Lyttle | 592 |
 | 106 | Betnijah Laney-Hamilton | 590 |
 | 106 | Camille Smith | 590 |
@@ -1222,8 +1222,8 @@ _Last updated: 2026-07-19 02:19 UTC_
 | 173 | **Lexie Hull** 🔴 +2 | 127 |
 | 173 | Michele Timms | 127 |
 | 175 | Tamecka Dixon | 126 |
-| 176 | Kennedy Burke | 125 |
-| 176 | **Veronica Burton** 🔴 +1 | 125 |
+| 175 | **Veronica Burton** 🔴 +2 | 126 |
+| 177 | Kennedy Burke | 125 |
 | 178 | Charde Houston | 124 |
 | 179 | Lisa Leslie | 123 |
 | 180 | Sidney Spencer | 122 |
