@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-07-19T01:25:00+00:00",
+    "text": "Caitlin Clark passed Allison Feaster for #160 all-time in turnovers (career 373) \u2014 up from #161 entering today \u2014 (7:52 - 3rd \u2014 NY @ IND)",
+    "kind": "rank_pass",
+    "player": "Caitlin Clark",
+    "stat": "turnovers",
+    "rank": 160,
+    "passed_players": [
+      "Allison Feaster"
+    ],
+    "new_total": 373
+  },
+  {
     "ts": "2026-07-18T03:37:00+00:00",
     "text": "Leila Lacan reached 400 career points (now 400) \u2014 (7:47 - 4th \u2014 CON @ PHX)",
     "kind": "round",
@@ -2992,17 +3004,5 @@
       "Essence Carson"
     ],
     "new_total": 122
-  },
-  {
-    "ts": "2026-06-28T20:03:00+00:00",
-    "text": "Arike Ogunbowale passed Tiffani Johnson for #180 all-time in rebounds (career 779) \u2014 up from #181 entering today \u2014 (13.1 - 4th \u2014 MIN @ DAL)",
-    "kind": "rank_pass",
-    "player": "Arike Ogunbowale",
-    "stat": "rebounds",
-    "rank": 180,
-    "passed_players": [
-      "Tiffani Johnson"
-    ],
-    "new_total": 779
   }
 ]
