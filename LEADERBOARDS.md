@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-19 00:17 UTC_
+_Last updated: 2026-07-19 00:18 UTC_
 
 ## Contents
 
@@ -41,7 +41,7 @@ _Last updated: 2026-07-19 00:17 UTC_
 | 20 | Becky Hammon | 5,816 |
 | 21 | Angel McCoughtry | 5,797 |
 | 22 | Skylar Diggins | 5,732 |
-| 23 | **Kayla McBride** 🔴 +3 | 5,653 |
+| 23 | **Kayla McBride** 🔴 +5 | 5,655 |
 | 24 | DeLisha Milton-Jones | 5,571 |
 | 25 | Katie Douglas | 5,545 |
 | 26 | Lindsay Whalen | 5,511 |
@@ -57,7 +57,7 @@ _Last updated: 2026-07-19 00:17 UTC_
 | 36 | Arike Ogunbowale | 4,715 |
 | 37 | Chamique Holdsclaw | 4,713 |
 | 38 | Elena Delle Donne | 4,706 |
-| 39 | **Natasha Howard** 🔴 +8 | 4,690 |
+| 39 | **Natasha Howard** 🔴 +10 | 4,692 |
 | 40 | Chelsea Gray | 4,625 |
 | 41 | Penny Taylor | 4,595 |
 | 42 | Kelsey Plum | 4,494 |
@@ -351,7 +351,7 @@ _Last updated: 2026-07-19 00:17 UTC_
 | 124 | Tamecka Dixon | 1,035 |
 | 126 | Kamila Vodichkova | 1,031 |
 | 127 | Jasmine Thomas | 1,027 |
-| 128 | **Sabrina Ionescu** 🔴 | 1,020 |
+| 128 | **Sabrina Ionescu** 🔴 +1 | 1,021 |
 | 129 | Jessica Shepard | 1,016 |
 | 130 | Cathrine Kraayeveld | 1,013 |
 | 131 | Kelly Miller | 1,011 |
@@ -444,7 +444,7 @@ _Last updated: 2026-07-19 00:17 UTC_
 | 12 | Cappie Pondexter | 1,575 |
 | 13 | Tamika Catchings | 1,484 |
 | 14 | Danielle Robinson | 1,480 |
-| 15 | **Courtney Williams** 🔴 +1 | 1,439 |
+| 15 | **Courtney Williams** 🔴 +3 | 1,441 |
 | 16 | Shannon Johnson | 1,423 |
 | 16 | Tanisha Wright | 1,423 |
 | 18 | Temeka Johnson | 1,382 |
@@ -652,8 +652,8 @@ _Last updated: 2026-07-19 00:17 UTC_
 | 15 | **Jonquel Jones** 🔴 +1 | 426 |
 | 16 | Michelle Snow | 403 |
 | 17 | Tamika Catchings | 383 |
-| 18 | **Natasha Howard** 🔴 +2 | 372 |
 | 18 | Tina Thompson | 372 |
+| 19 | **Natasha Howard** 🔴 +1 | 371 |
 | 20 | Erika de Souza | 370 |
 | 21 | Jessica Breland | 367 |
 | 22 | DeWanna Bonner | 358 |
@@ -870,7 +870,7 @@ _Last updated: 2026-07-19 00:17 UTC_
 | 25 | Becky Hammon | 485 |
 | 26 | Penny Taylor | 479 |
 | 27 | Sophia Young-Malcolm | 477 |
-| 28 | **Natasha Howard** 🔴 | 467 |
+| 28 | **Natasha Howard** 🔴 +1 | 468 |
 | 29 | Skylar Diggins | 463 |
 | 29 | Teresa Weatherspoon | 463 |
 | 31 | Jewell Loyd | 458 |
@@ -1318,7 +1318,7 @@ _Last updated: 2026-07-19 00:17 UTC_
 | 63 | **Kayla McBride** 🔴 | 648 |
 | 63 | Kelsey Plum | 648 |
 | 65 | Dawn Staley | 643 |
-| 66 | **Jonquel Jones** 🔴 | 641 |
+| 66 | **Jonquel Jones** 🔴 +1 | 642 |
 | 67 | Ruth Riley | 637 |
 | 68 | Odyssey Sims | 631 |
 | 68 | Svetlana Abrosimova | 631 |
