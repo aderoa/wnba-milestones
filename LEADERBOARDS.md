@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-19 20:32 UTC_
+_Last updated: 2026-07-19 20:33 UTC_
 
 ## Contents
 
@@ -60,7 +60,7 @@ _Last updated: 2026-07-19 20:32 UTC_
 | 39 | Natasha Howard | 4,682 |
 | 40 | Chelsea Gray | 4,625 |
 | 41 | Penny Taylor | 4,595 |
-| 42 | **Allisha Gray** 🔴 +6 | 4,497 |
+| 42 | **Allisha Gray** 🔴 +9 | 4,500 |
 | 43 | Kelsey Plum | 4,494 |
 | 44 | Kristi Toliver | 4,474 |
 | 45 | Kahleah Copper | 4,437 |
@@ -118,7 +118,7 @@ _Last updated: 2026-07-19 20:32 UTC_
 | 97 | **Natasha Cloud** 🔴 +2 | 3,020 |
 | 98 | Marie Ferdinand-Harris | 3,001 |
 | 99 | Emma Meesseman | 2,966 |
-| 100 | **Elizabeth Williams** 🔴 +2 | 2,935 |
+| 100 | **Elizabeth Williams** 🔴 +4 | 2,937 |
 | 101 | Natalie Williams | 2,894 |
 | 102 | Jennifer Gillom | 2,888 |
 | 103 | Iziane Castro Marques | 2,862 |
@@ -347,7 +347,7 @@ _Last updated: 2026-07-19 20:32 UTC_
 | 121 | Svetlana Abrosimova | 1,078 |
 | 122 | Le'coe Willingham | 1,054 |
 | 123 | Nicole Ohlde | 1,040 |
-| 124 | **Angel Reese** 🔴 +2 | 1,037 |
+| 124 | **Angel Reese** 🔴 +1 | 1,036 |
 | 125 | Tamecka Dixon | 1,035 |
 | 126 | Kamila Vodichkova | 1,031 |
 | 127 | Jessica Shepard | 1,030 |
@@ -431,7 +431,7 @@ _Last updated: 2026-07-19 20:32 UTC_
 | Rank | Player | Total |
 |-----:|--------|------:|
 | 1 | Sue Bird | 3,234 |
-| 2 | **Courtney Vandersloot** 🔴 | 2,894 |
+| 2 | **Courtney Vandersloot** 🔴 +1 | 2,895 |
 | 3 | Ticha Penicheiro | 2,588 |
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
@@ -550,7 +550,7 @@ _Last updated: 2026-07-19 20:32 UTC_
 | 118 | Janel McCarville | 551 |
 | 118 | Svetlana Abrosimova | 551 |
 | 120 | Michele Timms | 549 |
-| 121 | **Rhyne Howard** 🔴 +2 | 538 |
+| 121 | **Rhyne Howard** 🔴 +3 | 539 |
 | 122 | Myisha Hines-Allen | 529 |
 | 123 | Marie Ferdinand-Harris | 528 |
 | 124 | Margo Dydek | 524 |
@@ -1075,7 +1075,7 @@ _Last updated: 2026-07-19 20:32 UTC_
 | 24 | Shekinna Stricklen | 468 |
 | 26 | Breanna Stewart | 465 |
 | 27 | Cappie Pondexter | 464 |
-| 28 | **Allisha Gray** 🔴 | 458 |
+| 28 | **Allisha Gray** 🔴 +1 | 459 |
 | 29 | Ariel Atkins | 456 |
 | 30 | Tiffany Hayes | 454 |
 | 31 | Chelsea Gray | 450 |
