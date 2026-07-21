@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-21 02:00 UTC_
+_Last updated: 2026-07-21 02:01 UTC_
 
 ## Contents
 
@@ -31,7 +31,7 @@ _Last updated: 2026-07-21 02:00 UTC_
 | 10 | Candace Parker | 6,574 |
 | 11 | Katie Smith | 6,450 |
 | 12 | Sylvia Fowles | 6,413 |
-| 13 | **Breanna Stewart** 🔴 +27 | 6,362 |
+| 13 | **Breanna Stewart** 🔴 +29 | 6,364 |
 | 14 | Lisa Leslie | 6,251 |
 | 15 | **A'ja Wilson** 🔴 +26 | 6,204 |
 | 16 | **Jewell Loyd** 🔴 +5 | 6,153 |
@@ -1547,11 +1547,11 @@ _Last updated: 2026-07-21 02:00 UTC_
 | 87 | Tan White | 698 |
 | 88 | Katie Douglas | 697 |
 | 89 | Danielle Robinson | 692 |
+| 90 | **Breanna Stewart** 🔴 +2 | 687 |
 | 90 | **Cheyenne Parker-Tyus** 🔴 +2 | 687 |
 | 90 | Sophia Young-Malcolm | 687 |
-| 92 | **Breanna Stewart** 🔴 +1 | 686 |
-| 92 | **Jewell Loyd** 🔴 +2 | 686 |
-| 92 | Maya Moore | 686 |
+| 93 | **Jewell Loyd** 🔴 +2 | 686 |
+| 93 | Maya Moore | 686 |
 | 95 | Jasmine Thomas | 685 |
 | 96 | Leilani Mitchell | 684 |
 | 97 | Crystal Robinson | 682 |
