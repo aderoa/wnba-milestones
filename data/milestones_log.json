@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-07-21T00:54:00+00:00",
+    "text": "A'ja Wilson passed Jeanette Pohlen-Mavunga and Kiesha Brown for #199 all-time in three-pointers (career 104) \u2014 new to top 200 today \u2014 (1:12 - 2nd \u2014 LV @ TOR)",
+    "kind": "rank_pass",
+    "player": "A'ja Wilson",
+    "stat": "three-pointers",
+    "rank": 199,
+    "passed_players": [
+      "Jeanette Pohlen-Mavunga",
+      "Kiesha Brown"
+    ],
+    "new_total": 104
+  },
+  {
     "ts": "2026-07-19T22:14:00+00:00",
     "text": "Courtney Vandersloot passed Angel McCoughtry and Murriel Page for #57 all-time in blocks (career 194) \u2014 up from #58 entering today \u2014 (1:03 - 4th \u2014 CHI @ ATL)",
     "kind": "rank_pass",
@@ -2994,18 +3007,5 @@
       "Alanna Smith"
     ],
     "new_total": 157
-  },
-  {
-    "ts": "2026-06-28T21:28:00+00:00",
-    "text": "Skylar Diggins passed Kelly Miller and Noelle Quinn for #131 all-time in rebounds (career 1,012) \u2014 up from #133 entering today \u2014 (6:40 - 3rd \u2014 LV @ CHI)",
-    "kind": "rank_pass",
-    "player": "Skylar Diggins",
-    "stat": "rebounds",
-    "rank": 131,
-    "passed_players": [
-      "Kelly Miller",
-      "Noelle Quinn"
-    ],
-    "new_total": 1012
   }
 ]

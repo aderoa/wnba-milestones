@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-21 00:54 UTC
+
+- **A'ja Wilson** passed **Jeanette Pohlen-Mavunga** and **Kiesha Brown** for **#199** all-time in three-pointers (career 104) — new to top 200 today — _1:12 - 2nd — LV @ TOR_
+
 ## 2026-07-19 22:14 UTC
 
 - **Courtney Vandersloot** passed **Angel McCoughtry** and **Murriel Page** for **#57** all-time in blocks (career 194) — up from #58 entering today — _1:03 - 4th — CHI @ ATL_
