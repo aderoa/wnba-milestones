@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-21 02:14 UTC_
+_Last updated: 2026-07-21 02:15 UTC_
 
 ## Contents
 
@@ -31,7 +31,7 @@ _Last updated: 2026-07-21 02:14 UTC_
 | 10 | Candace Parker | 6,574 |
 | 11 | Katie Smith | 6,450 |
 | 12 | Sylvia Fowles | 6,413 |
-| 13 | **Breanna Stewart** 🔴 +29 | 6,364 |
+| 13 | **Breanna Stewart** 🔴 +31 | 6,366 |
 | 14 | Lisa Leslie | 6,251 |
 | 15 | A'ja Wilson | 6,204 |
 | 16 | Jewell Loyd | 6,159 |
@@ -68,7 +68,7 @@ _Last updated: 2026-07-21 02:14 UTC_
 | 46 | Jia Perkins | 4,433 |
 | 48 | **Jonquel Jones** 🔴 +14 | 4,367 |
 | 49 | Courtney Vandersloot | 4,362 |
-| 50 | **Courtney Williams** 🔴 +3 | 4,353 |
+| 50 | **Courtney Williams** 🔴 +4 | 4,354 |
 | 51 | Dearica Hamby | 4,330 |
 | 52 | Sophia Young-Malcolm | 4,300 |
 | 53 | Plenette Pierson | 4,258 |
@@ -110,7 +110,7 @@ _Last updated: 2026-07-21 02:14 UTC_
 | 89 | Erica Wheeler | 3,195 |
 | 90 | Danielle Robinson | 3,160 |
 | 91 | Wendy Palmer | 3,135 |
-| 92 | **Sabrina Ionescu** 🔴 +12 | 3,109 |
+| 92 | **Sabrina Ionescu** 🔴 +14 | 3,111 |
 | 93 | Shavonte Zellous | 3,103 |
 | 94 | Briann January | 3,082 |
 | 95 | Erika de Souza | 3,046 |
@@ -238,7 +238,7 @@ _Last updated: 2026-07-21 02:14 UTC_
 | 12 | Alyssa Thomas | 2,858 |
 | 13 | **Jonquel Jones** 🔴 +10 | 2,738 |
 | 14 | A'ja Wilson | 2,663 |
-| 15 | **Breanna Stewart** 🔴 +11 | 2,643 |
+| 15 | **Breanna Stewart** 🔴 +12 | 2,644 |
 | 16 | Sancho Lyttle | 2,596 |
 | 17 | Brittney Griner | 2,579 |
 | 18 | DeLisha Milton-Jones | 2,574 |
@@ -473,7 +473,7 @@ _Last updated: 2026-07-21 02:14 UTC_
 | 42 | Sheryl Swoopes | 1,037 |
 | 43 | Tina Charles | 1,033 |
 | 44 | **Kayla McBride** 🔴 | 992 |
-| 45 | **Breanna Stewart** 🔴 +6 | 987 |
+| 45 | **Breanna Stewart** 🔴 +7 | 988 |
 | 46 | Nikki Teasley | 982 |
 | 47 | Tamecka Dixon | 960 |
 | 48 | Tiffany Hayes | 957 |
@@ -568,8 +568,8 @@ _Last updated: 2026-07-21 02:14 UTC_
 | 137 | Ukari Figgs | 470 |
 | 138 | Janeth Arcain | 469 |
 | 139 | Erin Phillips | 462 |
-| 140 | **Sug Sutton** 🔴 +5 | 461 |
-| 140 | Sylvia Fowles | 461 |
+| 139 | **Sug Sutton** 🔴 +6 | 462 |
+| 141 | Sylvia Fowles | 461 |
 | 142 | Tyasha Harris | 460 |
 | 143 | Sydney Colson | 454 |
 | 144 | Yolanda Griffith | 451 |

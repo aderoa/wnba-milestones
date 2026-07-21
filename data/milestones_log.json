@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-07-21T02:15:00+00:00",
+    "text": "Sug Sutton passed Sylvia Fowles for #140 all-time in assists (career 462) \u2014 up from #142 entering today \u2014 (2:37 - OT \u2014 NY @ DAL)",
+    "kind": "rank_pass",
+    "player": "Sug Sutton",
+    "stat": "assists",
+    "rank": 140,
+    "passed_players": [
+      "Sylvia Fowles"
+    ],
+    "new_total": 462
+  },
+  {
     "ts": "2026-07-21T02:04:00+00:00",
     "text": "Isabelle Harrison passed Myisha Hines-Allen for #167 all-time in points (career 1,958) \u2014 up from #169 entering today \u2014 (2:10 - 4th \u2014 LV @ TOR)",
     "kind": "rank_pass",
@@ -2992,17 +3004,5 @@
       "Chiney Ogwumike"
     ],
     "new_total": 177
-  },
-  {
-    "ts": "2026-06-28T21:43:00+00:00",
-    "text": "NaLyssa Smith passed Seimone Augustus for #191 all-time in fouls (career 478) \u2014 up from #193 entering today \u2014 (49.5 - 3rd \u2014 LV @ CHI)",
-    "kind": "rank_pass",
-    "player": "NaLyssa Smith",
-    "stat": "fouls",
-    "rank": 191,
-    "passed_players": [
-      "Seimone Augustus"
-    ],
-    "new_total": 478
   }
 ]
