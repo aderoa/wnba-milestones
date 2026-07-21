@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-21 02:50 UTC_
+_Last updated: 2026-07-21 02:51 UTC_
 
 ## Contents
 
@@ -180,7 +180,7 @@ _Last updated: 2026-07-21 02:50 UTC_
 | 159 | Coco Miller | 2,030 |
 | 160 | Diamond DeShields | 2,026 |
 | 161 | Vicky Bullett | 2,018 |
-| 162 | **Natisha Hiedeman** 🔴 +4 | 2,006 |
+| 162 | **Natisha Hiedeman** 🔴 +7 | 2,009 |
 | 163 | Ezi Magbegor | 1,995 |
 | 164 | Bria Hartley | 1,967 |
 | 165 | Chiney Ogwumike | 1,964 |
@@ -1109,7 +1109,7 @@ _Last updated: 2026-07-21 02:50 UTC_
 | 60 | Erica Wheeler | 337 |
 | 61 | Anna DeForge | 334 |
 | 61 | Sophie Cunningham | 334 |
-| 63 | **Natisha Hiedeman** 🔴 | 328 |
+| 63 | **Natisha Hiedeman** 🔴 +1 | 329 |
 | 64 | Sugar Rodgers | 317 |
 | 65 | Marissa Coleman | 315 |
 | 66 | Shannon Johnson | 313 |
@@ -1157,9 +1157,9 @@ _Last updated: 2026-07-21 02:50 UTC_
 | 108 | Betnijah Laney-Hamilton | 206 |
 | 109 | Lexie Brown | 203 |
 | 110 | Shanna Zolman | 199 |
-| 111 | **Nia Coffey** 🔴 +1 | 197 |
-| 111 | Temeka Johnson | 197 |
-| 111 | Tina Charles | 197 |
+| 111 | **Nia Coffey** 🔴 +2 | 198 |
+| 112 | Temeka Johnson | 197 |
+| 112 | Tina Charles | 197 |
 | 114 | Caitlin Clark | 195 |
 | 115 | Lindsay Whalen | 193 |
 | 116 | Victoria Vivians | 192 |
