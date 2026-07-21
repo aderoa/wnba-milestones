@@ -67,7 +67,7 @@ _Last updated: 2026-07-21 03:44 UTC_
 | 46 | Crystal Langhorne | 4,433 |
 | 46 | Jia Perkins | 4,433 |
 | 48 | Jonquel Jones | 4,367 |
-| 49 | **Courtney Williams** 🔴 +13 | 4,363 |
+| 49 | **Courtney Williams** 🔴 +15 | 4,365 |
 | 50 | Courtney Vandersloot | 4,362 |
 | 51 | Dearica Hamby | 4,330 |
 | 52 | Sophia Young-Malcolm | 4,300 |
@@ -385,7 +385,7 @@ _Last updated: 2026-07-21 03:44 UTC_
 | 159 | Krystal Thomas | 862 |
 | 160 | Naz Hillmon | 859 |
 | 161 | Leilani Mitchell | 845 |
-| 162 | **Shakira Austin** 🔴 +10 | 842 |
+| 162 | **Shakira Austin** 🔴 +11 | 843 |
 | 163 | Essence Carson | 833 |
 | 164 | **Gabby Williams** 🔴 | 831 |
 | 165 | Kristi Toliver | 829 |
