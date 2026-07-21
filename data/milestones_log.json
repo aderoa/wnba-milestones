@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-07-21T01:53:00+00:00",
+    "text": "Sug Sutton passed Tyasha Harris for #141 all-time in assists (career 461) \u2014 up from #142 entering today \u2014 (2:00 - 4th \u2014 NY @ DAL)",
+    "kind": "rank_pass",
+    "player": "Sug Sutton",
+    "stat": "assists",
+    "rank": 141,
+    "passed_players": [
+      "Tyasha Harris"
+    ],
+    "new_total": 461
+  },
+  {
     "ts": "2026-07-21T01:32:00+00:00",
     "text": "Odyssey Sims passed Mercedes Russell for #176 all-time in rebounds (career 787) \u2014 up from #177 entering today \u2014 (8:43 - 4th \u2014 NY @ DAL)",
     "kind": "rank_pass",
@@ -2994,17 +3006,5 @@
       "Jasmine Thomas"
     ],
     "new_total": 686
-  },
-  {
-    "ts": "2026-06-28T21:36:00+00:00",
-    "text": "Jackie Young passed Jewell Loyd for #32 all-time in assists (career 1,158) \u2014 up from #33 entering today \u2014 (3:37 - 3rd \u2014 LV @ CHI)",
-    "kind": "rank_pass",
-    "player": "Jackie Young",
-    "stat": "assists",
-    "rank": 32,
-    "passed_players": [
-      "Jewell Loyd"
-    ],
-    "new_total": 1158
   }
 ]

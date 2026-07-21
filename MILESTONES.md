@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-21 01:53 UTC
+
+- **Sug Sutton** passed **Tyasha Harris** for **#141** all-time in assists (career 461) — up from #142 entering today — _2:00 - 4th — NY @ DAL_
+
 ## 2026-07-21 01:32 UTC
 
 - **Odyssey Sims** passed **Mercedes Russell** for **#176** all-time in rebounds (career 787) — up from #177 entering today — _8:43 - 4th — NY @ DAL_
