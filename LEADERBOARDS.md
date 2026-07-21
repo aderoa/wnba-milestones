@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-21 03:48 UTC_
+_Last updated: 2026-07-21 03:50 UTC_
 
 ## Contents
 
@@ -148,7 +148,7 @@ _Last updated: 2026-07-21 03:48 UTC_
 | 127 | Ruth Riley | 2,434 |
 | 128 | Svetlana Abrosimova | 2,414 |
 | 129 | Anna DeForge | 2,413 |
-| 130 | **Kayla Thornton** 🔴 +14 | 2,407 |
+| 130 | **Kayla Thornton** 🔴 +15 | 2,408 |
 | 131 | DeMya Walker | 2,379 |
 | 132 | Alex Bentley | 2,350 |
 | 133 | Azurá Stevens | 2,343 |
@@ -1469,7 +1469,7 @@ _Last updated: 2026-07-21 03:48 UTC_
 | 9 | Tammy Sutton-Brown | 1,193 |
 | 10 | Plenette Pierson | 1,175 |
 | 11 | Chasity Melvin | 1,165 |
-| 12 | **Natasha Howard** 🔴 +4 | 1,162 |
+| 12 | **Natasha Howard** 🔴 +5 | 1,163 |
 | 13 | Camille Smith | 1,159 |
 | 14 | Nneka Ogwumike | 1,156 |
 | 15 | Alana Beard | 1,153 |
