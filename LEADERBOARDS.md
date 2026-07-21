@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-21 01:37 UTC_
+_Last updated: 2026-07-21 01:38 UTC_
 
 ## Contents
 
@@ -434,7 +434,7 @@ _Last updated: 2026-07-21 01:37 UTC_
 | 3 | Ticha Penicheiro | 2,588 |
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
-| 6 | **Chelsea Gray** 🔴 +5 | 2,008 |
+| 6 | **Chelsea Gray** 🔴 +6 | 2,009 |
 | 7 | Alyssa Thomas | 1,971 |
 | 8 | Skylar Diggins | 1,852 |
 | 9 | Natasha Cloud | 1,802 |
@@ -477,7 +477,7 @@ _Last updated: 2026-07-21 01:37 UTC_
 | 46 | Nikki Teasley | 982 |
 | 47 | Tamecka Dixon | 960 |
 | 48 | Tiffany Hayes | 957 |
-| 49 | **Arike Ogunbowale** 🔴 +5 | 949 |
+| 49 | **Arike Ogunbowale** 🔴 +6 | 950 |
 | 50 | Kara Lawson | 946 |
 | 51 | Nneka Ogwumike | 933 |
 | 52 | Deanna Nolan | 930 |
@@ -1497,7 +1497,7 @@ _Last updated: 2026-07-21 01:37 UTC_
 | 36 | Tamika Whitmore | 940 |
 | 38 | DeWanna Bonner | 922 |
 | 39 | Briann January | 921 |
-| 40 | **Jonquel Jones** 🔴 +3 | 916 |
+| 40 | **Jonquel Jones** 🔴 +4 | 917 |
 | 41 | Ticha Penicheiro | 913 |
 | 42 | Shavonte Zellous | 907 |
 | 43 | **Alysha Clark** 🔴 +1 | 906 |
