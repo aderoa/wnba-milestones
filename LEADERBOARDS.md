@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-21 04:12 UTC_
+_Last updated: 2026-07-21 04:13 UTC_
 
 ## Contents
 
@@ -41,7 +41,7 @@ _Last updated: 2026-07-21 04:12 UTC_
 | 20 | Becky Hammon | 5,816 |
 | 21 | Angel McCoughtry | 5,797 |
 | 22 | Skylar Diggins | 5,732 |
-| 23 | **Kayla McBride** 🔴 +31 | 5,681 |
+| 23 | **Kayla McBride** 🔴 +33 | 5,683 |
 | 24 | DeLisha Milton-Jones | 5,571 |
 | 25 | Katie Douglas | 5,545 |
 | 26 | Lindsay Whalen | 5,511 |
@@ -921,10 +921,10 @@ _Last updated: 2026-07-21 04:12 UTC_
 | 77 | Armintie Herrington | 340 |
 | 78 | Dawn Staley | 338 |
 | 79 | Odyssey Sims | 334 |
+| 80 | **Courtney Williams** 🔴 +2 | 331 |
 | 80 | Marie Ferdinand-Harris | 331 |
-| 81 | Chasity Melvin | 330 |
-| 81 | **Courtney Williams** 🔴 +1 | 330 |
-| 81 | Leilani Mitchell | 330 |
+| 82 | Chasity Melvin | 330 |
+| 82 | Leilani Mitchell | 330 |
 | 84 | Kristi Toliver | 329 |
 | 85 | Matee Ajavon | 328 |
 | 86 | Gabby Williams | 327 |
