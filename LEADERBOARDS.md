@@ -374,7 +374,7 @@ _Last updated: 2026-07-21 02:22 UTC_
 | 148 | Nicky Anosike | 922 |
 | 149 | Janeth Arcain | 916 |
 | 150 | Karima Christmas-Kelly | 908 |
-| 151 | **Nia Coffey** 🔴 | 903 |
+| 151 | **Nia Coffey** 🔴 +1 | 904 |
 | 152 | Natalie Achonwa | 895 |
 | 153 | Temeka Johnson | 889 |
 | 154 | Mistie Bass | 888 |
@@ -443,7 +443,7 @@ _Last updated: 2026-07-21 02:22 UTC_
 | 12 | Cappie Pondexter | 1,575 |
 | 13 | Tamika Catchings | 1,484 |
 | 14 | Danielle Robinson | 1,480 |
-| 15 | **Courtney Williams** 🔴 | 1,438 |
+| 15 | **Courtney Williams** 🔴 +1 | 1,439 |
 | 16 | Shannon Johnson | 1,423 |
 | 16 | Tanisha Wright | 1,423 |
 | 18 | Temeka Johnson | 1,382 |
@@ -869,7 +869,7 @@ _Last updated: 2026-07-21 02:22 UTC_
 | 25 | Becky Hammon | 485 |
 | 26 | Penny Taylor | 479 |
 | 27 | Sophia Young-Malcolm | 477 |
-| 28 | **Natasha Howard** 🔴 +1 | 468 |
+| 28 | **Natasha Howard** 🔴 +2 | 469 |
 | 29 | Skylar Diggins | 463 |
 | 29 | Teresa Weatherspoon | 463 |
 | 31 | Chelsea Gray | 460 |
