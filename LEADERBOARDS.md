@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-21 01:29 UTC_
+_Last updated: 2026-07-21 01:30 UTC_
 
 ## Contents
 
@@ -157,7 +157,7 @@ _Last updated: 2026-07-21 01:29 UTC_
 | 136 | Betnijah Laney-Hamilton | 2,302 |
 | 137 | Satou Sabally | 2,296 |
 | 138 | Kia Vaughn | 2,288 |
-| 139 | **Kia Nurse** 🔴 +5 | 2,267 |
+| 139 | **Kia Nurse** 🔴 +6 | 2,268 |
 | 140 | Allison Feaster | 2,258 |
 | 141 | Shekinna Stricklen | 2,245 |
 | 142 | Kara Braxton | 2,237 |
@@ -1549,10 +1549,10 @@ _Last updated: 2026-07-21 01:29 UTC_
 | 89 | Danielle Robinson | 692 |
 | 90 | Sophia Young-Malcolm | 687 |
 | 91 | **Breanna Stewart** 🔴 +1 | 686 |
+| 91 | **Jewell Loyd** 🔴 +2 | 686 |
 | 91 | Maya Moore | 686 |
-| 93 | **Cheyenne Parker-Tyus** 🔴 | 685 |
-| 93 | Jasmine Thomas | 685 |
-| 93 | **Jewell Loyd** 🔴 +1 | 685 |
+| 94 | **Cheyenne Parker-Tyus** 🔴 | 685 |
+| 94 | Jasmine Thomas | 685 |
 | 96 | Leilani Mitchell | 684 |
 | 97 | Crystal Robinson | 682 |
 | 97 | Kayla Thornton | 682 |
