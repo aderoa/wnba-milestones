@@ -31,7 +31,7 @@ _Last updated: 2026-07-21 00:21 UTC_
 | 10 | Candace Parker | 6,574 |
 | 11 | Katie Smith | 6,450 |
 | 12 | Sylvia Fowles | 6,413 |
-| 13 | **Breanna Stewart** 🔴 +4 | 6,339 |
+| 13 | **Breanna Stewart** 🔴 +6 | 6,341 |
 | 14 | Lisa Leslie | 6,251 |
 | 15 | **A'ja Wilson** 🔴 +3 | 6,181 |
 | 16 | Jewell Loyd | 6,148 |
@@ -83,7 +83,7 @@ _Last updated: 2026-07-21 00:21 UTC_
 | 62 | Allie Quigley | 3,786 |
 | 63 | Chasity Melvin | 3,781 |
 | 64 | Brittney Sykes | 3,726 |
-| 65 | **Jackie Young** 🔴 | 3,698 |
+| 65 | **Jackie Young** 🔴 +3 | 3,701 |
 | 66 | Kara Lawson | 3,670 |
 | 67 | Mwadi Mabika | 3,576 |
 | 68 | **Odyssey Sims** 🔴 | 3,574 |
@@ -104,7 +104,7 @@ _Last updated: 2026-07-21 00:21 UTC_
 | 83 | Sheri Sam | 3,353 |
 | 84 | Andrea Stinson | 3,351 |
 | 85 | Tanisha Wright | 3,324 |
-| 86 | **Marina Mabrey** 🔴 +2 | 3,251 |
+| 86 | **Marina Mabrey** 🔴 +4 | 3,253 |
 | 87 | Stefanie Dolson | 3,217 |
 | 88 | Margo Dydek | 3,214 |
 | 89 | Erica Wheeler | 3,195 |
@@ -352,7 +352,7 @@ _Last updated: 2026-07-21 00:21 UTC_
 | 126 | Kamila Vodichkova | 1,031 |
 | 127 | Jasmine Thomas | 1,027 |
 | 128 | **Jessica Shepard** 🔴 +6 | 1,022 |
-| 129 | **Sabrina Ionescu** 🔴 +1 | 1,021 |
+| 128 | **Sabrina Ionescu** 🔴 +2 | 1,022 |
 | 130 | Cathrine Kraayeveld | 1,013 |
 | 131 | Kelly Miller | 1,011 |
 | 131 | Noelle Quinn | 1,011 |
@@ -465,7 +465,7 @@ _Last updated: 2026-07-21 00:21 UTC_
 | 33 | **Jackie Young** 🔴 | 1,150 |
 | 34 | Renee Montgomery | 1,140 |
 | 35 | Swin Cash | 1,131 |
-| 36 | **Sabrina Ionescu** 🔴 | 1,092 |
+| 36 | **Sabrina Ionescu** 🔴 +1 | 1,093 |
 | 37 | Lindsey Harding | 1,090 |
 | 38 | Katie Douglas | 1,069 |
 | 39 | Alana Beard | 1,061 |
@@ -478,8 +478,8 @@ _Last updated: 2026-07-21 00:21 UTC_
 | 46 | Nikki Teasley | 982 |
 | 47 | Tamecka Dixon | 960 |
 | 48 | Tiffany Hayes | 957 |
-| 49 | **Arike Ogunbowale** 🔴 +2 | 946 |
-| 49 | Kara Lawson | 946 |
+| 49 | **Arike Ogunbowale** 🔴 +3 | 947 |
+| 50 | Kara Lawson | 946 |
 | 51 | Nneka Ogwumike | 933 |
 | 52 | Deanna Nolan | 930 |
 | 53 | Kelly Miller | 927 |
@@ -1101,7 +1101,7 @@ _Last updated: 2026-07-21 00:21 UTC_
 | 51 | Epiphanny Prince | 368 |
 | 51 | Kia Nurse | 368 |
 | 53 | Nykesha Sales | 352 |
-| 54 | **Jackie Young** 🔴 | 346 |
+| 54 | **Jackie Young** 🔴 +1 | 347 |
 | 55 | Natasha Cloud | 345 |
 | 56 | Cathrine Kraayeveld | 343 |
 | 56 | Elena Delle Donne | 343 |
@@ -1651,7 +1651,7 @@ _Last updated: 2026-07-21 00:21 UTC_
 | 190 | Alanna Smith | 479 |
 | 191 | Seimone Augustus | 477 |
 | 192 | Allie Quigley | 475 |
-| 193 | **NaLyssa Smith** 🔴 | 474 |
+| 192 | **NaLyssa Smith** 🔴 +1 | 475 |
 | 194 | Satou Sabally | 471 |
 | 195 | Christi Thomas | 463 |
 | 195 | Nikki Teasley | 463 |
