@@ -33,7 +33,7 @@ _Last updated: 2026-07-21 01:53 UTC_
 | 12 | Sylvia Fowles | 6,413 |
 | 13 | **Breanna Stewart** 🔴 +27 | 6,362 |
 | 14 | Lisa Leslie | 6,251 |
-| 15 | **A'ja Wilson** 🔴 +24 | 6,202 |
+| 15 | **A'ja Wilson** 🔴 +26 | 6,204 |
 | 16 | **Jewell Loyd** 🔴 +5 | 6,153 |
 | 17 | Brittney Griner | 6,087 |
 | 18 | Lauren Jackson | 6,005 |
@@ -54,11 +54,11 @@ _Last updated: 2026-07-21 01:53 UTC_
 | 33 | Sheryl Swoopes | 4,875 |
 | 34 | Alyssa Thomas | 4,752 |
 | 35 | Alana Beard | 4,740 |
-| 36 | **Arike Ogunbowale** 🔴 +18 | 4,733 |
+| 36 | **Arike Ogunbowale** 🔴 +21 | 4,736 |
 | 37 | Chamique Holdsclaw | 4,713 |
 | 38 | Elena Delle Donne | 4,706 |
 | 39 | Natasha Howard | 4,682 |
-| 40 | **Chelsea Gray** 🔴 +12 | 4,637 |
+| 40 | **Chelsea Gray** 🔴 +14 | 4,639 |
 | 41 | Penny Taylor | 4,595 |
 | 42 | Kelsey Plum | 4,494 |
 | 43 | Allisha Gray | 4,491 |
@@ -237,7 +237,7 @@ _Last updated: 2026-07-21 01:53 UTC_
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | Alyssa Thomas | 2,858 |
 | 13 | **Jonquel Jones** 🔴 +9 | 2,737 |
-| 14 | **A'ja Wilson** 🔴 +4 | 2,661 |
+| 14 | **A'ja Wilson** 🔴 +5 | 2,662 |
 | 15 | **Breanna Stewart** 🔴 +11 | 2,643 |
 | 16 | Sancho Lyttle | 2,596 |
 | 17 | Brittney Griner | 2,579 |
@@ -288,8 +288,8 @@ _Last updated: 2026-07-21 01:53 UTC_
 | 62 | Napheesa Collier | 1,510 |
 | 63 | Ticha Penicheiro | 1,485 |
 | 64 | **Alysha Clark** 🔴 | 1,469 |
-| 65 | **Cheyenne Parker-Tyus** 🔴 +3 | 1,466 |
-| 65 | Sue Bird | 1,466 |
+| 65 | **Cheyenne Parker-Tyus** 🔴 +4 | 1,467 |
+| 66 | Sue Bird | 1,466 |
 | 67 | Nicole Powell | 1,457 |
 | 68 | Tamera Young | 1,433 |
 | 69 | Monique Billings | 1,431 |
@@ -349,8 +349,8 @@ _Last updated: 2026-07-21 01:53 UTC_
 | 123 | Nicole Ohlde | 1,040 |
 | 124 | Angel Reese | 1,035 |
 | 124 | Tamecka Dixon | 1,035 |
-| 126 | **Jessica Shepard** 🔴 +15 | 1,031 |
-| 126 | Kamila Vodichkova | 1,031 |
+| 126 | **Jessica Shepard** 🔴 +16 | 1,032 |
+| 127 | Kamila Vodichkova | 1,031 |
 | 128 | Jasmine Thomas | 1,027 |
 | 129 | **Sabrina Ionescu** 🔴 +4 | 1,024 |
 | 130 | Cathrine Kraayeveld | 1,013 |
@@ -460,7 +460,7 @@ _Last updated: 2026-07-21 01:53 UTC_
 | 29 | Vickie Johnson | 1,202 |
 | 30 | Leilani Mitchell | 1,197 |
 | 31 | DeWanna Bonner | 1,196 |
-| 32 | **Jackie Young** 🔴 +10 | 1,160 |
+| 32 | **Jackie Young** 🔴 +11 | 1,161 |
 | 33 | **Jewell Loyd** 🔴 | 1,156 |
 | 34 | Renee Montgomery | 1,140 |
 | 35 | Swin Cash | 1,131 |
@@ -1061,7 +1061,7 @@ _Last updated: 2026-07-21 01:53 UTC_
 | 12 | Kelsey Plum | 619 |
 | 13 | Tamika Catchings | 605 |
 | 14 | Kara Lawson | 583 |
-| 15 | **Arike Ogunbowale** 🔴 | 581 |
+| 15 | **Arike Ogunbowale** 🔴 +1 | 582 |
 | 16 | Nicole Powell | 579 |
 | 17 | Ivory Latta | 536 |
 | 18 | Renee Montgomery | 532 |
