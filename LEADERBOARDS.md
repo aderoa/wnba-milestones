@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-21 02:38 UTC_
+_Last updated: 2026-07-21 02:40 UTC_
 
 ## Contents
 
@@ -68,7 +68,7 @@ _Last updated: 2026-07-21 02:38 UTC_
 | 46 | Jia Perkins | 4,433 |
 | 48 | Jonquel Jones | 4,367 |
 | 49 | Courtney Vandersloot | 4,362 |
-| 50 | **Courtney Williams** 🔴 +7 | 4,357 |
+| 50 | **Courtney Williams** 🔴 +9 | 4,359 |
 | 51 | Dearica Hamby | 4,330 |
 | 52 | Sophia Young-Malcolm | 4,300 |
 | 53 | Plenette Pierson | 4,258 |
@@ -249,7 +249,7 @@ _Last updated: 2026-07-21 02:38 UTC_
 | 23 | Lauren Jackson | 2,444 |
 | 24 | Yolanda Griffith | 2,440 |
 | 25 | Tangela Smith | 2,328 |
-| 26 | **Natasha Howard** 🔴 +1 | 2,316 |
+| 26 | **Natasha Howard** 🔴 +5 | 2,320 |
 | 27 | Erika de Souza | 2,220 |
 | 28 | Diana Taurasi | 2,201 |
 | 29 | Margo Dydek | 2,138 |
@@ -258,7 +258,7 @@ _Last updated: 2026-07-21 02:38 UTC_
 | 32 | Tammy Sutton-Brown | 2,010 |
 | 33 | Elizabeth Williams | 1,978 |
 | 34 | Cheryl Ford | 1,907 |
-| 35 | **Courtney Williams** 🔴 +2 | 1,845 |
+| 35 | **Courtney Williams** 🔴 +3 | 1,846 |
 | 36 | **Kiah Stokes** 🔴 +3 | 1,838 |
 | 37 | Plenette Pierson | 1,834 |
 | 38 | Natalie Williams | 1,832 |
@@ -528,7 +528,7 @@ _Last updated: 2026-07-21 02:38 UTC_
 | 97 | Jennifer Azzi | 636 |
 | 98 | Sami Whitcomb | 623 |
 | 99 | Alysha Clark | 620 |
-| 100 | **Natasha Howard** 🔴 | 615 |
+| 100 | **Natasha Howard** 🔴 +1 | 616 |
 | 101 | Debbie Black | 612 |
 | 102 | Cynthia Cooper | 602 |
 | 103 | **Gabby Williams** 🔴 +1 | 592 |
@@ -1157,9 +1157,9 @@ _Last updated: 2026-07-21 02:38 UTC_
 | 108 | Betnijah Laney-Hamilton | 206 |
 | 109 | Lexie Brown | 203 |
 | 110 | Shanna Zolman | 199 |
+| 111 | **Nia Coffey** 🔴 +1 | 197 |
 | 111 | Temeka Johnson | 197 |
 | 111 | Tina Charles | 197 |
-| 113 | **Nia Coffey** 🔴 | 196 |
 | 114 | Caitlin Clark | 195 |
 | 115 | Lindsay Whalen | 193 |
 | 116 | Victoria Vivians | 192 |
