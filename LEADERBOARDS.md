@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-21 03:13 UTC_
+_Last updated: 2026-07-21 03:14 UTC_
 
 ## Contents
 
@@ -1221,9 +1221,9 @@ _Last updated: 2026-07-21 03:13 UTC_
 | 171 | Ticha Penicheiro | 128 |
 | 173 | Michele Timms | 127 |
 | 174 | Tamecka Dixon | 126 |
-| 175 | Kennedy Burke | 125 |
-| 175 | Lexie Hull | 125 |
-| 175 | **Veronica Burton** 🔴 +1 | 125 |
+| 174 | **Veronica Burton** 🔴 +2 | 126 |
+| 176 | Kennedy Burke | 125 |
+| 176 | Lexie Hull | 125 |
 | 178 | Charde Houston | 124 |
 | 179 | Lisa Leslie | 123 |
 | 180 | Sidney Spencer | 122 |
