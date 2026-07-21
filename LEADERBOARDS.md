@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-21 00:25 UTC_
+_Last updated: 2026-07-21 00:26 UTC_
 
 ## Contents
 
@@ -34,7 +34,7 @@ _Last updated: 2026-07-21 00:25 UTC_
 | 13 | **Breanna Stewart** 🔴 +6 | 6,341 |
 | 14 | Lisa Leslie | 6,251 |
 | 15 | **A'ja Wilson** 🔴 +7 | 6,185 |
-| 16 | **Jewell Loyd** 🔴 | 6,148 |
+| 16 | **Jewell Loyd** 🔴 +3 | 6,151 |
 | 17 | Brittney Griner | 6,087 |
 | 18 | Lauren Jackson | 6,005 |
 | 18 | Seimone Augustus | 6,005 |
@@ -237,7 +237,7 @@ _Last updated: 2026-07-21 00:25 UTC_
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | Alyssa Thomas | 2,858 |
 | 13 | **Jonquel Jones** 🔴 +4 | 2,732 |
-| 14 | **A'ja Wilson** 🔴 | 2,657 |
+| 14 | **A'ja Wilson** 🔴 +1 | 2,658 |
 | 15 | **Breanna Stewart** 🔴 +3 | 2,635 |
 | 16 | Sancho Lyttle | 2,596 |
 | 17 | Brittney Griner | 2,579 |
@@ -319,8 +319,8 @@ _Last updated: 2026-07-21 00:25 UTC_
 | 92 | Liz Cambage | 1,258 |
 | 94 | Tiffany Hayes | 1,257 |
 | 95 | Kayla McBride | 1,256 |
-| 96 | **Brianna Turner** 🔴 | 1,243 |
-| 96 | Ezi Magbegor | 1,243 |
+| 96 | **Brianna Turner** 🔴 +1 | 1,244 |
+| 97 | Ezi Magbegor | 1,243 |
 | 98 | Seimone Augustus | 1,228 |
 | 99 | Jia Perkins | 1,220 |
 | 100 | Kahleah Copper | 1,204 |
@@ -380,7 +380,7 @@ _Last updated: 2026-07-21 00:25 UTC_
 | 154 | Mistie Bass | 888 |
 | 155 | Erica Wheeler | 882 |
 | 156 | Alanna Smith | 878 |
-| 157 | **Marina Mabrey** 🔴 | 874 |
+| 157 | **Marina Mabrey** 🔴 +1 | 875 |
 | 158 | Shameka Christon | 867 |
 | 159 | Krystal Thomas | 862 |
 | 160 | Naz Hillmon | 859 |
@@ -435,7 +435,7 @@ _Last updated: 2026-07-21 00:25 UTC_
 | 3 | Ticha Penicheiro | 2,588 |
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
-| 6 | **Chelsea Gray** 🔴 | 2,003 |
+| 6 | **Chelsea Gray** 🔴 +1 | 2,004 |
 | 7 | Alyssa Thomas | 1,971 |
 | 8 | Skylar Diggins | 1,852 |
 | 9 | Natasha Cloud | 1,802 |
@@ -1056,7 +1056,7 @@ _Last updated: 2026-07-21 00:25 UTC_
 | 6 | Tina Thompson | 745 |
 | 7 | Katie Douglas | 723 |
 | 8 | Kelsey Mitchell | 712 |
-| 9 | **Jewell Loyd** 🔴 | 695 |
+| 9 | **Jewell Loyd** 🔴 +1 | 696 |
 | 10 | DeWanna Bonner | 682 |
 | 11 | Kristi Toliver | 651 |
 | 12 | Kelsey Plum | 619 |
