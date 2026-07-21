@@ -317,8 +317,8 @@ _Last updated: 2026-07-21 03:19 UTC_
 | 91 | Chelsea Gray | 1,261 |
 | 91 | Janel McCarville | 1,261 |
 | 93 | Liz Cambage | 1,258 |
+| 94 | **Kayla McBride** 🔴 +1 | 1,257 |
 | 94 | **Tiffany Hayes** 🔴 | 1,257 |
-| 95 | **Kayla McBride** 🔴 | 1,256 |
 | 96 | Brianna Turner | 1,245 |
 | 97 | Ezi Magbegor | 1,243 |
 | 98 | Seimone Augustus | 1,228 |
