@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-21 01:18 UTC_
+_Last updated: 2026-07-21 01:19 UTC_
 
 ## Contents
 
@@ -186,7 +186,7 @@ _Last updated: 2026-07-21 01:18 UTC_
 | 165 | Chiney Ogwumike | 1,964 |
 | 166 | Nicole Ohlde | 1,959 |
 | 167 | Myisha Hines-Allen | 1,956 |
-| 168 | **Isabelle Harrison** 🔴 +15 | 1,947 |
+| 168 | **Isabelle Harrison** 🔴 +17 | 1,949 |
 | 169 | Kedra Holland-Corn | 1,938 |
 | 170 | Cathrine Kraayeveld | 1,926 |
 | 171 | Roneeka Hodges | 1,925 |
@@ -197,7 +197,7 @@ _Last updated: 2026-07-21 01:18 UTC_
 | 176 | Ebony Hoffman | 1,909 |
 | 177 | Candice Wiggins | 1,901 |
 | 178 | Gabby Williams | 1,899 |
-| 179 | **NaLyssa Smith** 🔴 +12 | 1,891 |
+| 179 | **NaLyssa Smith** 🔴 +14 | 1,893 |
 | 180 | Rachel Banham | 1,843 |
 | 181 | Damiris Dantas | 1,842 |
 | 182 | Sophie Cunningham | 1,829 |
@@ -238,7 +238,7 @@ _Last updated: 2026-07-21 01:18 UTC_
 | 12 | Alyssa Thomas | 2,858 |
 | 13 | **Jonquel Jones** 🔴 +6 | 2,734 |
 | 14 | **A'ja Wilson** 🔴 +4 | 2,661 |
-| 15 | **Breanna Stewart** 🔴 +7 | 2,639 |
+| 15 | **Breanna Stewart** 🔴 +8 | 2,640 |
 | 16 | Sancho Lyttle | 2,596 |
 | 17 | Brittney Griner | 2,579 |
 | 18 | DeLisha Milton-Jones | 2,574 |
@@ -342,7 +342,7 @@ _Last updated: 2026-07-21 01:18 UTC_
 | 116 | Chiney Ogwumike | 1,110 |
 | 117 | Becky Hammon | 1,108 |
 | 118 | Ann Wauters | 1,105 |
-| 119 | **Isabelle Harrison** 🔴 +4 | 1,101 |
+| 119 | **Isabelle Harrison** 🔴 +6 | 1,103 |
 | 120 | **Jackie Young** 🔴 +3 | 1,088 |
 | 121 | Svetlana Abrosimova | 1,078 |
 | 122 | Le'coe Willingham | 1,054 |
@@ -515,7 +515,7 @@ _Last updated: 2026-07-21 01:18 UTC_
 | 84 | Ariel Atkins | 682 |
 | 85 | Emma Meesseman | 681 |
 | 86 | Nykesha Sales | 677 |
-| 87 | **A'ja Wilson** 🔴 +2 | 669 |
+| 87 | **A'ja Wilson** 🔴 +3 | 670 |
 | 88 | Natisha Hiedeman | 668 |
 | 89 | Bria Hartley | 661 |
 | 90 | Brittney Griner | 660 |
@@ -800,7 +800,7 @@ _Last updated: 2026-07-21 01:18 UTC_
 | 162 | Jessie Hicks | 81 |
 | 165 | Nykesha Sales | 80 |
 | 165 | Rushia Brown | 80 |
-| 167 | **Stephanie Talbot** 🔴 | 79 |
+| 165 | **Stephanie Talbot** 🔴 +1 | 80 |
 | 168 | Astou Ndour-Fall | 78 |
 | 168 | Katie Smith | 78 |
 | 168 | Slobodanka Tuvic | 78 |
