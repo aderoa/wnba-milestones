@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-21 01:31 UTC
+
+- **Isabelle Harrison** passed **Ann Wauters** for **#118** all-time in rebounds (career 1,106) — up from #119 entering today — _1:53 - 3rd — LV @ TOR_
+
 ## 2026-07-21 01:20 UTC
 
 - **A'ja Wilson** passed **Julie Vanloo** for **#198** all-time in three-pointers (career 105) — new to top 200 today — _6:04 - 3rd — LV @ TOR_

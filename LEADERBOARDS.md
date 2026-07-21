@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-21 01:30 UTC_
+_Last updated: 2026-07-21 01:31 UTC_
 
 ## Contents
 
@@ -157,7 +157,7 @@ _Last updated: 2026-07-21 01:30 UTC_
 | 136 | Betnijah Laney-Hamilton | 2,302 |
 | 137 | Satou Sabally | 2,296 |
 | 138 | Kia Vaughn | 2,288 |
-| 139 | **Kia Nurse** 🔴 +6 | 2,268 |
+| 139 | **Kia Nurse** 🔴 +7 | 2,269 |
 | 140 | Allison Feaster | 2,258 |
 | 141 | Shekinna Stricklen | 2,245 |
 | 142 | Kara Braxton | 2,237 |
@@ -341,8 +341,8 @@ _Last updated: 2026-07-21 01:30 UTC_
 | 115 | Deanna Nolan | 1,112 |
 | 116 | Chiney Ogwumike | 1,110 |
 | 117 | Becky Hammon | 1,108 |
-| 118 | Ann Wauters | 1,105 |
-| 119 | **Isabelle Harrison** 🔴 +7 | 1,104 |
+| 118 | **Isabelle Harrison** 🔴 +9 | 1,106 |
+| 119 | Ann Wauters | 1,105 |
 | 120 | **Jackie Young** 🔴 +4 | 1,089 |
 | 121 | Svetlana Abrosimova | 1,078 |
 | 122 | Le'coe Willingham | 1,054 |
@@ -944,7 +944,7 @@ _Last updated: 2026-07-21 01:30 UTC_
 | 100 | Janel McCarville | 294 |
 | 101 | Kelly Miller | 290 |
 | 102 | Glory Johnson | 289 |
-| 103 | **Jackie Young** 🔴 +1 | 288 |
+| 102 | **Jackie Young** 🔴 +2 | 289 |
 | 104 | Essence Carson | 285 |
 | 105 | Seimone Augustus | 280 |
 | 106 | Tari Phillips | 277 |

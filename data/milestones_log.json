@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-07-21T01:31:00+00:00",
+    "text": "Isabelle Harrison passed Ann Wauters for #118 all-time in rebounds (career 1,106) \u2014 up from #119 entering today \u2014 (1:53 - 3rd \u2014 LV @ TOR)",
+    "kind": "rank_pass",
+    "player": "Isabelle Harrison",
+    "stat": "rebounds",
+    "rank": 118,
+    "passed_players": [
+      "Ann Wauters"
+    ],
+    "new_total": 1106
+  },
+  {
     "ts": "2026-07-21T01:20:00+00:00",
     "text": "A'ja Wilson passed Julie Vanloo for #198 all-time in three-pointers (career 105) \u2014 new to top 200 today \u2014 (6:04 - 3rd \u2014 LV @ TOR)",
     "kind": "rank_pass",
@@ -2995,17 +3007,5 @@
       "Natalie Achonwa"
     ],
     "new_total": 99
-  },
-  {
-    "ts": "2026-06-28T21:35:00+00:00",
-    "text": "A'ja Wilson passed Erica Wheeler for #63 all-time in steals (career 362) \u2014 (3:55 - 3rd \u2014 LV @ CHI)",
-    "kind": "rank_pass",
-    "player": "A'ja Wilson",
-    "stat": "steals",
-    "rank": 63,
-    "passed_players": [
-      "Erica Wheeler"
-    ],
-    "new_total": 362
   }
 ]
