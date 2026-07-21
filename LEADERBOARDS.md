@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-21 02:13 UTC_
+_Last updated: 2026-07-21 02:14 UTC_
 
 ## Contents
 
@@ -68,7 +68,7 @@ _Last updated: 2026-07-21 02:13 UTC_
 | 46 | Jia Perkins | 4,433 |
 | 48 | **Jonquel Jones** 🔴 +14 | 4,367 |
 | 49 | Courtney Vandersloot | 4,362 |
-| 50 | **Courtney Williams** 🔴 | 4,350 |
+| 50 | **Courtney Williams** 🔴 +3 | 4,353 |
 | 51 | Dearica Hamby | 4,330 |
 | 52 | Sophia Young-Malcolm | 4,300 |
 | 53 | Plenette Pierson | 4,258 |
@@ -1127,8 +1127,8 @@ _Last updated: 2026-07-21 02:13 UTC_
 | 77 | Tully Bevilaqua | 290 |
 | 79 | Alana Beard | 288 |
 | 80 | Monique Currie | 284 |
+| 81 | **Courtney Williams** 🔴 +1 | 278 |
 | 81 | Stefanie Dolson | 278 |
-| 82 | **Courtney Williams** 🔴 | 277 |
 | 83 | Iziane Castro Marques | 275 |
 | 84 | Sheryl Swoopes | 270 |
 | 85 | Sophia Witherspoon | 260 |
@@ -1635,8 +1635,8 @@ _Last updated: 2026-07-21 02:13 UTC_
 | 175 | Adrian Williams-Strong | 497 |
 | 175 | Essence Carson | 497 |
 | 175 | Rachel Banham | 497 |
-| 178 | Azurá Stevens | 495 |
-| 178 | **Nia Coffey** 🔴 | 495 |
+| 178 | **Nia Coffey** 🔴 +1 | 496 |
+| 179 | Azurá Stevens | 495 |
 | 180 | Karima Christmas-Kelly | 494 |
 | 181 | Ann Wauters | 493 |
 | 181 | Riquna Williams | 493 |
