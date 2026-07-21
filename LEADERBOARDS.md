@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-21 02:05 UTC_
+_Last updated: 2026-07-21 02:06 UTC_
 
 ## Contents
 
@@ -217,7 +217,7 @@ _Last updated: 2026-07-21 02:05 UTC_
 | 196 | Janell Burse | 1,580 |
 | 197 | Le'coe Willingham | 1,552 |
 | 198 | Shatori Walker-Kimbrough | 1,544 |
-| 199 | **Rebecca Allen** 🔴 +5 | 1,534 |
+| 199 | **Rebecca Allen** 🔴 +6 | 1,535 |
 | 200 | Jennifer Lacy | 1,504 |
 
 ## Rebounds
@@ -343,7 +343,7 @@ _Last updated: 2026-07-21 02:05 UTC_
 | 117 | Becky Hammon | 1,108 |
 | 117 | **Isabelle Harrison** 🔴 +11 | 1,108 |
 | 119 | Ann Wauters | 1,105 |
-| 120 | **Jackie Young** 🔴 +4 | 1,089 |
+| 120 | **Jackie Young** 🔴 +5 | 1,090 |
 | 121 | Svetlana Abrosimova | 1,078 |
 | 122 | Le'coe Willingham | 1,054 |
 | 123 | Nicole Ohlde | 1,040 |
@@ -386,7 +386,7 @@ _Last updated: 2026-07-21 02:05 UTC_
 | 160 | Naz Hillmon | 859 |
 | 161 | Leilani Mitchell | 845 |
 | 162 | Essence Carson | 833 |
-| 163 | **Shakira Austin** 🔴 | 832 |
+| 162 | **Shakira Austin** 🔴 +1 | 833 |
 | 164 | **Gabby Williams** 🔴 | 831 |
 | 165 | Kristi Toliver | 829 |
 | 166 | Marie Ferdinand-Harris | 828 |
@@ -401,9 +401,9 @@ _Last updated: 2026-07-21 02:05 UTC_
 | 175 | Rhonda Mapp | 788 |
 | 176 | **Odyssey Sims** 🔴 +2 | 787 |
 | 177 | Mercedes Russell | 786 |
+| 178 | **Arike Ogunbowale** 🔴 +5 | 780 |
 | 178 | Sue Wicks | 780 |
-| 179 | **Arike Ogunbowale** 🔴 +4 | 779 |
-| 179 | Lindsey Harding | 779 |
+| 180 | Lindsey Harding | 779 |
 | 181 | Tiffani Johnson | 778 |
 | 182 | Teresa Weatherspoon | 775 |
 | 183 | Anna DeForge | 769 |
@@ -645,7 +645,7 @@ _Last updated: 2026-07-21 02:05 UTC_
 | 9 | Tangela Smith | 554 |
 | 10 | Ruth Riley | 505 |
 | 11 | Elizabeth Williams | 503 |
-| 12 | **Breanna Stewart** 🔴 +1 | 451 |
+| 12 | **Breanna Stewart** 🔴 +2 | 452 |
 | 13 | Taj McWilliams-Franklin | 443 |
 | 14 | Tina Charles | 428 |
 | 15 | **Jonquel Jones** 🔴 +1 | 426 |
@@ -1547,11 +1547,11 @@ _Last updated: 2026-07-21 02:05 UTC_
 | 87 | Tan White | 698 |
 | 88 | Katie Douglas | 697 |
 | 89 | Danielle Robinson | 692 |
-| 90 | **Breanna Stewart** 🔴 +2 | 687 |
 | 90 | **Cheyenne Parker-Tyus** 🔴 +2 | 687 |
 | 90 | Sophia Young-Malcolm | 687 |
-| 93 | **Jewell Loyd** 🔴 +2 | 686 |
-| 93 | Maya Moore | 686 |
+| 92 | **Breanna Stewart** 🔴 +1 | 686 |
+| 92 | **Jewell Loyd** 🔴 +2 | 686 |
+| 92 | Maya Moore | 686 |
 | 95 | Jasmine Thomas | 685 |
 | 96 | Leilani Mitchell | 684 |
 | 97 | Crystal Robinson | 682 |
