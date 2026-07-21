@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-07-21T03:57:00+00:00",
+    "text": "Kayla Thornton passed Rita Williams for #109 all-time in steals (career 272) \u2014 up from #110 entering today \u2014 (18.8 - 4th \u2014 WSH @ GS)",
+    "kind": "rank_pass",
+    "player": "Kayla Thornton",
+    "stat": "steals",
+    "rank": 109,
+    "passed_players": [
+      "Rita Williams"
+    ],
+    "new_total": 272
+  },
+  {
     "ts": "2026-07-21T02:20:00+00:00",
     "text": "Sug Sutton passed Erin Phillips for #139 all-time in assists (career 463) \u2014 up from #142 entering today \u2014 (46.7 - OT \u2014 NY @ DAL)",
     "kind": "rank_pass",
@@ -2993,14 +3005,5 @@
       "Maya Moore"
     ],
     "new_total": 687
-  },
-  {
-    "ts": "2026-06-28T22:07:00+00:00",
-    "text": "A'ja Wilson reached 6,200 career points (now 6,200) \u2014 (5:25 - 4th \u2014 LV @ CHI)",
-    "kind": "round",
-    "player": "A'ja Wilson",
-    "stat": "points",
-    "value": 6200,
-    "new_total": 6200
   }
 ]

@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-21 03:57 UTC
+
+- **Kayla Thornton** passed **Rita Williams** for **#109** all-time in steals (career 272) — up from #110 entering today — _18.8 - 4th — WSH @ GS_
+
 ## 2026-07-21 02:20 UTC
 
 - **Sug Sutton** passed **Erin Phillips** for **#139** all-time in assists (career 463) — up from #142 entering today — _46.7 - OT — NY @ DAL_

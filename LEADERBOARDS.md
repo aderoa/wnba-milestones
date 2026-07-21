@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-21 03:55 UTC_
+_Last updated: 2026-07-21 03:57 UTC_
 
 ## Contents
 
@@ -66,8 +66,8 @@ _Last updated: 2026-07-21 03:55 UTC_
 | 45 | Kahleah Copper | 4,437 |
 | 46 | Crystal Langhorne | 4,433 |
 | 46 | Jia Perkins | 4,433 |
+| 48 | **Courtney Williams** 🔴 +17 | 4,367 |
 | 48 | Jonquel Jones | 4,367 |
-| 49 | **Courtney Williams** 🔴 +15 | 4,365 |
 | 50 | Courtney Vandersloot | 4,362 |
 | 51 | Dearica Hamby | 4,330 |
 | 52 | Sophia Young-Malcolm | 4,300 |
@@ -384,7 +384,7 @@ _Last updated: 2026-07-21 03:55 UTC_
 | 158 | Shameka Christon | 867 |
 | 159 | Krystal Thomas | 862 |
 | 160 | Naz Hillmon | 859 |
-| 161 | **Shakira Austin** 🔴 +14 | 846 |
+| 161 | **Shakira Austin** 🔴 +15 | 847 |
 | 162 | Leilani Mitchell | 845 |
 | 163 | Essence Carson | 833 |
 | 164 | **Gabby Williams** 🔴 | 831 |
@@ -515,7 +515,7 @@ _Last updated: 2026-07-21 03:55 UTC_
 | 84 | Ariel Atkins | 682 |
 | 85 | Emma Meesseman | 681 |
 | 86 | Nykesha Sales | 677 |
-| 87 | **Natisha Hiedeman** 🔴 +7 | 675 |
+| 87 | **Natisha Hiedeman** 🔴 +8 | 676 |
 | 88 | A'ja Wilson | 671 |
 | 89 | Bria Hartley | 661 |
 | 90 | Brittney Griner | 660 |
@@ -950,8 +950,8 @@ _Last updated: 2026-07-21 03:55 UTC_
 | 106 | Tari Phillips | 277 |
 | 107 | Emma Meesseman | 276 |
 | 107 | Erika de Souza | 276 |
-| 109 | **Kayla Thornton** 🔴 +1 | 271 |
-| 109 | Rita Williams | 271 |
+| 109 | **Kayla Thornton** 🔴 +2 | 272 |
+| 110 | Rita Williams | 271 |
 | 111 | Natalie Williams | 270 |
 | 111 | Nicky Anosike | 270 |
 | 113 | Crystal Robinson | 267 |
