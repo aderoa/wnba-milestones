@@ -85,8 +85,8 @@ _Last updated: 2026-07-21 01:08 UTC_
 | 64 | Brittney Sykes | 3,726 |
 | 65 | **Jackie Young** 🔴 +12 | 3,710 |
 | 66 | Kara Lawson | 3,670 |
-| 67 | Mwadi Mabika | 3,576 |
-| 68 | **Odyssey Sims** 🔴 | 3,574 |
+| 67 | **Odyssey Sims** 🔴 +3 | 3,577 |
+| 68 | Mwadi Mabika | 3,576 |
 | 69 | Camille Smith | 3,551 |
 | 70 | Napheesa Collier | 3,542 |
 | 70 | Shannon Johnson | 3,542 |
@@ -477,7 +477,7 @@ _Last updated: 2026-07-21 01:08 UTC_
 | 46 | Nikki Teasley | 982 |
 | 47 | Tamecka Dixon | 960 |
 | 48 | Tiffany Hayes | 957 |
-| 49 | **Arike Ogunbowale** 🔴 +4 | 948 |
+| 49 | **Arike Ogunbowale** 🔴 +5 | 949 |
 | 50 | Kara Lawson | 946 |
 | 51 | Nneka Ogwumike | 933 |
 | 52 | Deanna Nolan | 930 |
@@ -1142,9 +1142,9 @@ _Last updated: 2026-07-21 01:08 UTC_
 | 93 | Erin Thorn | 243 |
 | 94 | Alex Bentley | 239 |
 | 94 | Cynthia Cooper | 239 |
+| 96 | **Odyssey Sims** 🔴 +1 | 235 |
 | 96 | Svetlana Abrosimova | 235 |
 | 96 | Tangela Smith | 235 |
-| 98 | **Odyssey Sims** 🔴 | 234 |
 | 99 | Satou Sabally | 232 |
 | 99 | Stacey Dales | 232 |
 | 101 | Elena Baranova | 224 |
@@ -1375,7 +1375,7 @@ _Last updated: 2026-07-21 01:08 UTC_
 | 120 | Elaine Powell | 469 |
 | 121 | Allie Quigley | 467 |
 | 122 | Ariel Atkins | 465 |
-| 122 | **Jackie Young** 🔴 +2 | 465 |
+| 123 | **Jackie Young** 🔴 +1 | 464 |
 | 124 | Betnijah Laney-Hamilton | 456 |
 | 125 | Kia Vaughn | 454 |
 | 126 | Janeth Arcain | 453 |
