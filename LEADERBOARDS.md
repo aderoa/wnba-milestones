@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-21 00:45 UTC_
+_Last updated: 2026-07-21 00:46 UTC_
 
 ## Contents
 
@@ -31,7 +31,7 @@ _Last updated: 2026-07-21 00:45 UTC_
 | 10 | Candace Parker | 6,574 |
 | 11 | Katie Smith | 6,450 |
 | 12 | Sylvia Fowles | 6,413 |
-| 13 | **Breanna Stewart** 🔴 +13 | 6,348 |
+| 13 | **Breanna Stewart** 🔴 +15 | 6,350 |
 | 14 | Lisa Leslie | 6,251 |
 | 15 | **A'ja Wilson** 🔴 +9 | 6,187 |
 | 16 | **Jewell Loyd** 🔴 +3 | 6,151 |
@@ -186,7 +186,7 @@ _Last updated: 2026-07-21 00:45 UTC_
 | 165 | Chiney Ogwumike | 1,964 |
 | 166 | Nicole Ohlde | 1,959 |
 | 167 | Myisha Hines-Allen | 1,956 |
-| 168 | **Isabelle Harrison** 🔴 +11 | 1,943 |
+| 168 | **Isabelle Harrison** 🔴 +13 | 1,945 |
 | 169 | Kedra Holland-Corn | 1,938 |
 | 170 | Cathrine Kraayeveld | 1,926 |
 | 171 | Roneeka Hodges | 1,925 |
@@ -342,7 +342,7 @@ _Last updated: 2026-07-21 00:45 UTC_
 | 116 | Chiney Ogwumike | 1,110 |
 | 117 | Becky Hammon | 1,108 |
 | 118 | Ann Wauters | 1,105 |
-| 119 | **Isabelle Harrison** 🔴 +2 | 1,099 |
+| 119 | **Isabelle Harrison** 🔴 +3 | 1,100 |
 | 120 | **Jackie Young** 🔴 +2 | 1,087 |
 | 121 | Svetlana Abrosimova | 1,078 |
 | 122 | Le'coe Willingham | 1,054 |
@@ -498,8 +498,8 @@ _Last updated: 2026-07-21 00:45 UTC_
 | 67 | Kelsey Mitchell | 847 |
 | 68 | Jia Perkins | 837 |
 | 69 | Andrea Stinson | 810 |
-| 70 | **Marina Mabrey** 🔴 +2 | 803 |
-| 70 | Tina Thompson | 803 |
+| 70 | **Marina Mabrey** 🔴 +3 | 804 |
+| 71 | Tina Thompson | 803 |
 | 72 | Epiphanny Prince | 800 |
 | 73 | Mwadi Mabika | 774 |
 | 74 | Allisha Gray | 767 |
