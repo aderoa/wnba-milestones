@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-21 01:36 UTC_
+_Last updated: 2026-07-21 01:37 UTC_
 
 ## Contents
 
@@ -54,7 +54,7 @@ _Last updated: 2026-07-21 01:36 UTC_
 | 33 | Sheryl Swoopes | 4,875 |
 | 34 | Alyssa Thomas | 4,752 |
 | 35 | Alana Beard | 4,740 |
-| 36 | **Arike Ogunbowale** 🔴 +15 | 4,730 |
+| 36 | **Arike Ogunbowale** 🔴 +16 | 4,731 |
 | 37 | Chamique Holdsclaw | 4,713 |
 | 38 | Elena Delle Donne | 4,706 |
 | 39 | Natasha Howard | 4,682 |
@@ -104,7 +104,7 @@ _Last updated: 2026-07-21 01:36 UTC_
 | 83 | Sheri Sam | 3,353 |
 | 84 | Andrea Stinson | 3,351 |
 | 85 | Tanisha Wright | 3,324 |
-| 86 | **Marina Mabrey** 🔴 +13 | 3,262 |
+| 86 | **Marina Mabrey** 🔴 +14 | 3,263 |
 | 87 | Stefanie Dolson | 3,217 |
 | 88 | Margo Dydek | 3,214 |
 | 89 | Erica Wheeler | 3,195 |
@@ -350,7 +350,7 @@ _Last updated: 2026-07-21 01:36 UTC_
 | 124 | Angel Reese | 1,035 |
 | 124 | Tamecka Dixon | 1,035 |
 | 126 | Kamila Vodichkova | 1,031 |
-| 127 | **Jessica Shepard** 🔴 +13 | 1,029 |
+| 127 | **Jessica Shepard** 🔴 +14 | 1,030 |
 | 128 | Jasmine Thomas | 1,027 |
 | 129 | **Sabrina Ionescu** 🔴 +4 | 1,024 |
 | 130 | Cathrine Kraayeveld | 1,013 |
