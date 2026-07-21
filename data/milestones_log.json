@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-07-21T04:04:00+00:00",
+    "text": "Natisha Hiedeman passed Nykesha Sales for #86 all-time in assists (career 678) \u2014 up from #87 entering today \u2014 (2:13 - 4th \u2014 MIN @ SEA)",
+    "kind": "rank_pass",
+    "player": "Natisha Hiedeman",
+    "stat": "assists",
+    "rank": 86,
+    "passed_players": [
+      "Nykesha Sales"
+    ],
+    "new_total": 678
+  },
+  {
     "ts": "2026-07-21T03:57:00+00:00",
     "text": "Kayla Thornton passed Rita Williams for #109 all-time in steals (career 272) \u2014 up from #110 entering today \u2014 (18.8 - 4th \u2014 WSH @ GS)",
     "kind": "rank_pass",
@@ -2993,17 +3005,5 @@
       "Natalie Williams"
     ],
     "new_total": 123
-  },
-  {
-    "ts": "2026-06-28T22:08:00+00:00",
-    "text": "Jewell Loyd passed Maya Moore for #91 all-time in fouls (career 687) \u2014 up from #95 entering today \u2014 (4:34 - 4th \u2014 LV @ CHI)",
-    "kind": "rank_pass",
-    "player": "Jewell Loyd",
-    "stat": "fouls",
-    "rank": 91,
-    "passed_players": [
-      "Maya Moore"
-    ],
-    "new_total": 687
   }
 ]

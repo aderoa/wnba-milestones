@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-21 04:04 UTC
+
+- **Natisha Hiedeman** passed **Nykesha Sales** for **#86** all-time in assists (career 678) — up from #87 entering today — _2:13 - 4th — MIN @ SEA_
+
 ## 2026-07-21 03:57 UTC
 
 - **Kayla Thornton** passed **Rita Williams** for **#109** all-time in steals (career 272) — up from #110 entering today — _18.8 - 4th — WSH @ GS_
