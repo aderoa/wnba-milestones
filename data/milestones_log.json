@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-07-21T02:20:00+00:00",
+    "text": "Sug Sutton passed Erin Phillips for #139 all-time in assists (career 463) \u2014 up from #142 entering today \u2014 (46.7 - OT \u2014 NY @ DAL)",
+    "kind": "rank_pass",
+    "player": "Sug Sutton",
+    "stat": "assists",
+    "rank": 139,
+    "passed_players": [
+      "Erin Phillips"
+    ],
+    "new_total": 463
+  },
+  {
     "ts": "2026-07-21T02:16:00+00:00",
     "text": "Arike Ogunbowale passed Alana Beard for #35 all-time in points (career 4,741) \u2014 up from #36 entering today \u2014 (1:49 - OT \u2014 NY @ DAL)",
     "kind": "rank_pass",
@@ -2990,18 +3002,5 @@
     "stat": "points",
     "value": 6200,
     "new_total": 6200
-  },
-  {
-    "ts": "2026-06-28T21:50:00+00:00",
-    "text": "Emily Engstler passed Katie Mattera and Nakia Sanford for #91 all-time in blocks (career 132) \u2014 up from #95 entering today \u2014 (1:00 - 2OT \u2014 POR @ WSH)",
-    "kind": "rank_pass",
-    "player": "Emily Engstler",
-    "stat": "blocks",
-    "rank": 91,
-    "passed_players": [
-      "Katie Mattera",
-      "Nakia Sanford"
-    ],
-    "new_total": 132
   }
 ]
