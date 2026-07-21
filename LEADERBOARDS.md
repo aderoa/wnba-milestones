@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-21 02:20 UTC_
+_Last updated: 2026-07-21 02:21 UTC_
 
 ## Contents
 
@@ -31,7 +31,7 @@ _Last updated: 2026-07-21 02:20 UTC_
 | 10 | Candace Parker | 6,574 |
 | 11 | Katie Smith | 6,450 |
 | 12 | Sylvia Fowles | 6,413 |
-| 13 | **Breanna Stewart** 🔴 +32 | 6,367 |
+| 13 | **Breanna Stewart** 🔴 +33 | 6,368 |
 | 14 | Lisa Leslie | 6,251 |
 | 15 | A'ja Wilson | 6,204 |
 | 16 | Jewell Loyd | 6,159 |
@@ -41,7 +41,7 @@ _Last updated: 2026-07-21 02:20 UTC_
 | 20 | Becky Hammon | 5,816 |
 | 21 | Angel McCoughtry | 5,797 |
 | 22 | Skylar Diggins | 5,732 |
-| 23 | **Kayla McBride** 🔴 | 5,650 |
+| 23 | **Kayla McBride** 🔴 +3 | 5,653 |
 | 24 | DeLisha Milton-Jones | 5,571 |
 | 25 | Katie Douglas | 5,545 |
 | 26 | Lindsay Whalen | 5,511 |
@@ -53,7 +53,7 @@ _Last updated: 2026-07-21 02:20 UTC_
 | 32 | Maya Moore | 4,984 |
 | 33 | Sheryl Swoopes | 4,875 |
 | 34 | Alyssa Thomas | 4,752 |
-| 35 | **Arike Ogunbowale** 🔴 +26 | 4,741 |
+| 35 | **Arike Ogunbowale** 🔴 +29 | 4,744 |
 | 36 | Alana Beard | 4,740 |
 | 37 | Chamique Holdsclaw | 4,713 |
 | 38 | Elena Delle Donne | 4,706 |
@@ -258,7 +258,7 @@ _Last updated: 2026-07-21 02:20 UTC_
 | 32 | Tammy Sutton-Brown | 2,010 |
 | 33 | Elizabeth Williams | 1,978 |
 | 34 | Cheryl Ford | 1,907 |
-| 35 | **Courtney Williams** 🔴 | 1,843 |
+| 35 | **Courtney Williams** 🔴 +1 | 1,844 |
 | 36 | **Kiah Stokes** 🔴 +3 | 1,838 |
 | 37 | Plenette Pierson | 1,834 |
 | 38 | Natalie Williams | 1,832 |
@@ -580,7 +580,7 @@ _Last updated: 2026-07-21 02:20 UTC_
 | 149 | Julie Allemand | 448 |
 | 150 | DeMya Walker | 446 |
 | 151 | Essence Carson | 445 |
-| 152 | **Jessica Shepard** 🔴 +5 | 441 |
+| 152 | **Jessica Shepard** 🔴 +6 | 442 |
 | 153 | Michelle Snow | 437 |
 | 154 | Lauren Jackson | 435 |
 | 155 | Adrienne Goodson | 433 |
@@ -1051,7 +1051,7 @@ _Last updated: 2026-07-21 02:20 UTC_
 | 2 | Sue Bird | 1,001 |
 | 3 | Katie Smith | 906 |
 | 4 | Becky Hammon | 825 |
-| 5 | **Kayla McBride** 🔴 | 756 |
+| 5 | **Kayla McBride** 🔴 +1 | 757 |
 | 6 | Tina Thompson | 745 |
 | 7 | Katie Douglas | 723 |
 | 8 | Kelsey Mitchell | 712 |
@@ -1060,8 +1060,8 @@ _Last updated: 2026-07-21 02:20 UTC_
 | 11 | Kristi Toliver | 651 |
 | 12 | Kelsey Plum | 619 |
 | 13 | Tamika Catchings | 605 |
-| 14 | **Arike Ogunbowale** 🔴 +2 | 583 |
-| 14 | Kara Lawson | 583 |
+| 14 | **Arike Ogunbowale** 🔴 +3 | 584 |
+| 15 | Kara Lawson | 583 |
 | 16 | Nicole Powell | 579 |
 | 17 | Ivory Latta | 536 |
 | 18 | Renee Montgomery | 532 |
