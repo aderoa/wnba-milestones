@@ -514,8 +514,8 @@ _Last updated: 2026-07-21 04:03 UTC_
 | 83 | Moriah Jefferson | 685 |
 | 84 | Ariel Atkins | 682 |
 | 85 | Emma Meesseman | 681 |
+| 86 | **Natisha Hiedeman** 🔴 +9 | 677 |
 | 86 | Nykesha Sales | 677 |
-| 87 | **Natisha Hiedeman** 🔴 +8 | 676 |
 | 88 | A'ja Wilson | 671 |
 | 89 | Bria Hartley | 661 |
 | 90 | Brittney Griner | 660 |
