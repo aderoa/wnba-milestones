@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-07-21T01:10:00+00:00",
+    "text": "Awak Kuier passed Tamera Young for #158 all-time in blocks (career 84) \u2014 up from #164 entering today \u2014 (7:41 - 3rd \u2014 NY @ DAL)",
+    "kind": "rank_pass",
+    "player": "Awak Kuier",
+    "stat": "blocks",
+    "rank": 158,
+    "passed_players": [
+      "Tamera Young"
+    ],
+    "new_total": 84
+  },
+  {
     "ts": "2026-07-21T00:54:00+00:00",
     "text": "A'ja Wilson passed Jeanette Pohlen-Mavunga and Kiesha Brown for #199 all-time in three-pointers (career 104) \u2014 new to top 200 today \u2014 (1:12 - 2nd \u2014 LV @ TOR)",
     "kind": "rank_pass",
@@ -2995,17 +3007,5 @@
       "Janel McCarville"
     ],
     "new_total": 1262
-  },
-  {
-    "ts": "2026-06-28T21:31:00+00:00",
-    "text": "Michaela Onyenwere passed Alanna Smith for #142 all-time in three-pointers (career 157) \u2014 up from #147 entering today \u2014 (24.3 - OT \u2014 POR @ WSH)",
-    "kind": "rank_pass",
-    "player": "Michaela Onyenwere",
-    "stat": "three-pointers",
-    "rank": 142,
-    "passed_players": [
-      "Alanna Smith"
-    ],
-    "new_total": 157
   }
 ]

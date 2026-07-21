@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-21 01:10 UTC
+
+- **Awak Kuier** passed **Tamera Young** for **#158** all-time in blocks (career 84) — up from #164 entering today — _7:41 - 3rd — NY @ DAL_
+
 ## 2026-07-21 00:54 UTC
 
 - **A'ja Wilson** passed **Jeanette Pohlen-Mavunga** and **Kiesha Brown** for **#199** all-time in three-pointers (career 104) — new to top 200 today — _1:12 - 2nd — LV @ TOR_

@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-21 01:08 UTC_
+_Last updated: 2026-07-21 01:10 UTC_
 
 ## Contents
 
@@ -788,11 +788,11 @@ _Last updated: 2026-07-21 01:08 UTC_
 | 151 | Erlana Larkins | 85 |
 | 151 | Kalani Brown | 85 |
 | 151 | Kristin Folkl | 85 |
+| 155 | **Awak Kuier** 🔴 +4 | 84 |
 | 155 | Charde Houston | 84 |
 | 155 | **Marina Mabrey** 🔴 | 84 |
 | 155 | Shatori Walker-Kimbrough | 84 |
-| 158 | **Awak Kuier** 🔴 +3 | 83 |
-| 158 | Tamera Young | 83 |
+| 159 | Tamera Young | 83 |
 | 160 | Cameron Brink | 82 |
 | 160 | Damiris Dantas | 82 |
 | 162 | Charlotte Smith | 81 |
