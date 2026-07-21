@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-21 03:44 UTC_
+_Last updated: 2026-07-21 03:46 UTC_
 
 ## Contents
 
@@ -148,7 +148,7 @@ _Last updated: 2026-07-21 03:44 UTC_
 | 127 | Ruth Riley | 2,434 |
 | 128 | Svetlana Abrosimova | 2,414 |
 | 129 | Anna DeForge | 2,413 |
-| 130 | **Kayla Thornton** 🔴 +12 | 2,405 |
+| 130 | **Kayla Thornton** 🔴 +14 | 2,407 |
 | 131 | DeMya Walker | 2,379 |
 | 132 | Alex Bentley | 2,350 |
 | 133 | Azurá Stevens | 2,343 |
@@ -385,7 +385,7 @@ _Last updated: 2026-07-21 03:44 UTC_
 | 159 | Krystal Thomas | 862 |
 | 160 | Naz Hillmon | 859 |
 | 161 | Leilani Mitchell | 845 |
-| 162 | **Shakira Austin** 🔴 +11 | 843 |
+| 162 | **Shakira Austin** 🔴 +12 | 844 |
 | 163 | Essence Carson | 833 |
 | 164 | **Gabby Williams** 🔴 | 831 |
 | 165 | Kristi Toliver | 829 |
@@ -950,10 +950,10 @@ _Last updated: 2026-07-21 03:44 UTC_
 | 106 | Tari Phillips | 277 |
 | 107 | Emma Meesseman | 276 |
 | 107 | Erika de Souza | 276 |
+| 109 | **Kayla Thornton** 🔴 +1 | 271 |
 | 109 | Rita Williams | 271 |
-| 110 | **Kayla Thornton** 🔴 | 270 |
-| 110 | Natalie Williams | 270 |
-| 110 | Nicky Anosike | 270 |
+| 111 | Natalie Williams | 270 |
+| 111 | Nicky Anosike | 270 |
 | 113 | Crystal Robinson | 267 |
 | 113 | Kelsey Plum | 267 |
 | 115 | Anna DeForge | 266 |
@@ -1190,10 +1190,10 @@ _Last updated: 2026-07-21 03:44 UTC_
 | 139 | **Natasha Howard** 🔴 | 158 |
 | 142 | Alanna Smith | 156 |
 | 143 | **Katie Lou Samuelson** 🔴 +2 | 155 |
-| 144 | Bridget Pettis | 153 |
-| 144 | **Gabby Williams** 🔴 | 153 |
-| 144 | Jennifer Gillom | 153 |
-| 144 | **Michaela Onyenwere** 🔴 +2 | 153 |
+| 144 | **Michaela Onyenwere** 🔴 +3 | 154 |
+| 145 | Bridget Pettis | 153 |
+| 145 | **Gabby Williams** 🔴 | 153 |
+| 145 | Jennifer Gillom | 153 |
 | 148 | Rita Williams | 150 |
 | 149 | Moriah Jefferson | 149 |
 | 149 | Tiffany Mitchell | 149 |
