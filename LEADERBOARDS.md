@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-21 01:45 UTC_
+_Last updated: 2026-07-21 01:46 UTC_
 
 ## Contents
 
@@ -289,7 +289,7 @@ _Last updated: 2026-07-21 01:45 UTC_
 | 63 | Ticha Penicheiro | 1,485 |
 | 64 | **Alysha Clark** 🔴 | 1,469 |
 | 65 | Sue Bird | 1,466 |
-| 66 | **Cheyenne Parker-Tyus** 🔴 +1 | 1,464 |
+| 66 | **Cheyenne Parker-Tyus** 🔴 +2 | 1,465 |
 | 67 | Nicole Powell | 1,457 |
 | 68 | Tamera Young | 1,433 |
 | 69 | Monique Billings | 1,431 |
@@ -341,7 +341,7 @@ _Last updated: 2026-07-21 01:45 UTC_
 | 115 | Deanna Nolan | 1,112 |
 | 116 | Chiney Ogwumike | 1,110 |
 | 117 | Becky Hammon | 1,108 |
-| 118 | **Isabelle Harrison** 🔴 +10 | 1,107 |
+| 117 | **Isabelle Harrison** 🔴 +11 | 1,108 |
 | 119 | Ann Wauters | 1,105 |
 | 120 | **Jackie Young** 🔴 +4 | 1,089 |
 | 121 | Svetlana Abrosimova | 1,078 |
