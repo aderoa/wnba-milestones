@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-21 02:57 UTC_
+_Last updated: 2026-07-21 02:59 UTC_
 
 ## Contents
 
@@ -185,8 +185,8 @@ _Last updated: 2026-07-21 02:57 UTC_
 | 164 | Bria Hartley | 1,967 |
 | 165 | Chiney Ogwumike | 1,964 |
 | 166 | Nicole Ohlde | 1,959 |
-| 167 | Myisha Hines-Allen | 1,956 |
-| 168 | Isabelle Harrison | 1,953 |
+| 167 | Isabelle Harrison | 1,958 |
+| 168 | Myisha Hines-Allen | 1,956 |
 | 169 | Kedra Holland-Corn | 1,938 |
 | 170 | Cathrine Kraayeveld | 1,926 |
 | 171 | Roneeka Hodges | 1,925 |
@@ -341,7 +341,7 @@ _Last updated: 2026-07-21 02:57 UTC_
 | 115 | Deanna Nolan | 1,112 |
 | 116 | Chiney Ogwumike | 1,110 |
 | 117 | Becky Hammon | 1,108 |
-| 118 | Isabelle Harrison | 1,107 |
+| 117 | Isabelle Harrison | 1,108 |
 | 119 | Ann Wauters | 1,105 |
 | 120 | Jackie Young | 1,089 |
 | 121 | Svetlana Abrosimova | 1,078 |
