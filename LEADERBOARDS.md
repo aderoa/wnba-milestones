@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-21 02:17 UTC_
+_Last updated: 2026-07-21 02:18 UTC_
 
 ## Contents
 
@@ -110,7 +110,7 @@ _Last updated: 2026-07-21 02:17 UTC_
 | 89 | Erica Wheeler | 3,195 |
 | 90 | Danielle Robinson | 3,160 |
 | 91 | Wendy Palmer | 3,135 |
-| 92 | **Sabrina Ionescu** 🔴 +19 | 3,116 |
+| 92 | **Sabrina Ionescu** 🔴 +21 | 3,118 |
 | 93 | Shavonte Zellous | 3,103 |
 | 94 | Briann January | 3,082 |
 | 95 | Erika de Souza | 3,046 |
@@ -238,7 +238,7 @@ _Last updated: 2026-07-21 02:17 UTC_
 | 12 | Alyssa Thomas | 2,858 |
 | 13 | **Jonquel Jones** 🔴 +10 | 2,738 |
 | 14 | A'ja Wilson | 2,663 |
-| 15 | **Breanna Stewart** 🔴 +12 | 2,644 |
+| 15 | **Breanna Stewart** 🔴 +13 | 2,645 |
 | 16 | Sancho Lyttle | 2,596 |
 | 17 | Brittney Griner | 2,579 |
 | 18 | DeLisha Milton-Jones | 2,574 |
@@ -473,7 +473,7 @@ _Last updated: 2026-07-21 02:17 UTC_
 | 42 | Sheryl Swoopes | 1,037 |
 | 43 | Tina Charles | 1,033 |
 | 44 | **Kayla McBride** 🔴 | 992 |
-| 45 | **Breanna Stewart** 🔴 +7 | 988 |
+| 45 | **Breanna Stewart** 🔴 +8 | 989 |
 | 46 | Nikki Teasley | 982 |
 | 47 | Tamecka Dixon | 960 |
 | 48 | **Tiffany Hayes** 🔴 | 957 |
