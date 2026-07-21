@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-21 01:20 UTC
+
+- **A'ja Wilson** passed **Julie Vanloo** for **#198** all-time in three-pointers (career 105) — new to top 200 today — _6:04 - 3rd — LV @ TOR_
+
 ## 2026-07-21 01:10 UTC
 
 - **Awak Kuier** passed **Tamera Young** for **#158** all-time in blocks (career 84) — up from #164 entering today — _7:41 - 3rd — NY @ DAL_

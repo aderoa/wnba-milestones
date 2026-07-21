@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-07-21T01:20:00+00:00",
+    "text": "A'ja Wilson passed Julie Vanloo for #198 all-time in three-pointers (career 105) \u2014 new to top 200 today \u2014 (6:04 - 3rd \u2014 LV @ TOR)",
+    "kind": "rank_pass",
+    "player": "A'ja Wilson",
+    "stat": "three-pointers",
+    "rank": 198,
+    "passed_players": [
+      "Julie Vanloo"
+    ],
+    "new_total": 105
+  },
+  {
     "ts": "2026-07-21T01:10:00+00:00",
     "text": "Awak Kuier passed Tamera Young for #158 all-time in blocks (career 84) \u2014 up from #164 entering today \u2014 (7:41 - 3rd \u2014 NY @ DAL)",
     "kind": "rank_pass",
@@ -2995,17 +3007,5 @@
       "Erica Wheeler"
     ],
     "new_total": 362
-  },
-  {
-    "ts": "2026-06-28T21:35:00+00:00",
-    "text": "Chelsea Gray passed Janel McCarville for #91 all-time in rebounds (career 1,262) \u2014 up from #93 entering today \u2014 (3:55 - 3rd \u2014 LV @ CHI)",
-    "kind": "rank_pass",
-    "player": "Chelsea Gray",
-    "stat": "rebounds",
-    "rank": 91,
-    "passed_players": [
-      "Janel McCarville"
-    ],
-    "new_total": 1262
   }
 ]
