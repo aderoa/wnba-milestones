@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-21 01:23 UTC_
+_Last updated: 2026-07-21 01:24 UTC_
 
 ## Contents
 
@@ -350,8 +350,8 @@ _Last updated: 2026-07-21 01:23 UTC_
 | 124 | Angel Reese | 1,035 |
 | 124 | Tamecka Dixon | 1,035 |
 | 126 | Kamila Vodichkova | 1,031 |
-| 127 | Jasmine Thomas | 1,027 |
-| 127 | **Jessica Shepard** 🔴 +11 | 1,027 |
+| 127 | **Jessica Shepard** 🔴 +12 | 1,028 |
+| 128 | Jasmine Thomas | 1,027 |
 | 129 | **Sabrina Ionescu** 🔴 +3 | 1,023 |
 | 130 | Cathrine Kraayeveld | 1,013 |
 | 131 | Kelly Miller | 1,011 |
@@ -645,7 +645,7 @@ _Last updated: 2026-07-21 01:23 UTC_
 | 9 | Tangela Smith | 554 |
 | 10 | Ruth Riley | 505 |
 | 11 | Elizabeth Williams | 503 |
-| 12 | **Breanna Stewart** 🔴 | 450 |
+| 12 | **Breanna Stewart** 🔴 +1 | 451 |
 | 13 | Taj McWilliams-Franklin | 443 |
 | 14 | Tina Charles | 428 |
 | 15 | **Jonquel Jones** 🔴 +1 | 426 |
