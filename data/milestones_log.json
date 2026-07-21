@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-07-21T02:16:00+00:00",
+    "text": "Arike Ogunbowale passed Alana Beard for #35 all-time in points (career 4,741) \u2014 up from #36 entering today \u2014 (1:49 - OT \u2014 NY @ DAL)",
+    "kind": "rank_pass",
+    "player": "Arike Ogunbowale",
+    "stat": "points",
+    "rank": 35,
+    "passed_players": [
+      "Alana Beard"
+    ],
+    "new_total": 4741
+  },
+  {
     "ts": "2026-07-21T02:15:00+00:00",
     "text": "Sug Sutton passed Sylvia Fowles for #140 all-time in assists (career 462) \u2014 up from #142 entering today \u2014 (2:37 - OT \u2014 NY @ DAL)",
     "kind": "rank_pass",
@@ -2991,18 +3003,5 @@
       "Nakia Sanford"
     ],
     "new_total": 132
-  },
-  {
-    "ts": "2026-06-28T21:47:00+00:00",
-    "text": "Bridget Carleton passed Brittany Boyd-Jones and Chiney Ogwumike for #193 all-time in steals (career 177) \u2014 up from #199 entering today \u2014 (1:43 - 2OT \u2014 POR @ WSH)",
-    "kind": "rank_pass",
-    "player": "Bridget Carleton",
-    "stat": "steals",
-    "rank": 193,
-    "passed_players": [
-      "Brittany Boyd-Jones",
-      "Chiney Ogwumike"
-    ],
-    "new_total": 177
   }
 ]

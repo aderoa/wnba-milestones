@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-21 02:16 UTC
+
+- **Arike Ogunbowale** passed **Alana Beard** for **#35** all-time in points (career 4,741) — up from #36 entering today — _1:49 - OT — NY @ DAL_
+
 ## 2026-07-21 02:15 UTC
 
 - **Sug Sutton** passed **Sylvia Fowles** for **#140** all-time in assists (career 462) — up from #142 entering today — _2:37 - OT — NY @ DAL_
