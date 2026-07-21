@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-21 01:42 UTC_
+_Last updated: 2026-07-21 01:43 UTC_
 
 ## Contents
 
@@ -54,7 +54,7 @@ _Last updated: 2026-07-21 01:42 UTC_
 | 33 | Sheryl Swoopes | 4,875 |
 | 34 | Alyssa Thomas | 4,752 |
 | 35 | Alana Beard | 4,740 |
-| 36 | **Arike Ogunbowale** 🔴 +16 | 4,731 |
+| 36 | **Arike Ogunbowale** 🔴 +18 | 4,733 |
 | 37 | Chamique Holdsclaw | 4,713 |
 | 38 | Elena Delle Donne | 4,706 |
 | 39 | Natasha Howard | 4,682 |
@@ -217,7 +217,7 @@ _Last updated: 2026-07-21 01:42 UTC_
 | 196 | Janell Burse | 1,580 |
 | 197 | Le'coe Willingham | 1,552 |
 | 198 | Shatori Walker-Kimbrough | 1,544 |
-| 199 | **Rebecca Allen** 🔴 +3 | 1,532 |
+| 199 | **Rebecca Allen** 🔴 +5 | 1,534 |
 | 200 | Jennifer Lacy | 1,504 |
 
 ## Rebounds
@@ -349,8 +349,8 @@ _Last updated: 2026-07-21 01:42 UTC_
 | 123 | Nicole Ohlde | 1,040 |
 | 124 | Angel Reese | 1,035 |
 | 124 | Tamecka Dixon | 1,035 |
+| 126 | **Jessica Shepard** 🔴 +15 | 1,031 |
 | 126 | Kamila Vodichkova | 1,031 |
-| 127 | **Jessica Shepard** 🔴 +14 | 1,030 |
 | 128 | Jasmine Thomas | 1,027 |
 | 129 | **Sabrina Ionescu** 🔴 +4 | 1,024 |
 | 130 | Cathrine Kraayeveld | 1,013 |
