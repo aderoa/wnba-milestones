@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-21 00:44 UTC_
+_Last updated: 2026-07-21 00:45 UTC_
 
 ## Contents
 
@@ -54,7 +54,7 @@ _Last updated: 2026-07-21 00:44 UTC_
 | 33 | Sheryl Swoopes | 4,875 |
 | 34 | Alyssa Thomas | 4,752 |
 | 35 | Alana Beard | 4,740 |
-| 36 | **Arike Ogunbowale** 🔴 +9 | 4,724 |
+| 36 | **Arike Ogunbowale** 🔴 +11 | 4,726 |
 | 37 | Chamique Holdsclaw | 4,713 |
 | 38 | Elena Delle Donne | 4,706 |
 | 39 | Natasha Howard | 4,682 |
@@ -580,7 +580,7 @@ _Last updated: 2026-07-21 00:44 UTC_
 | 149 | **Julie Allemand** 🔴 +3 | 447 |
 | 150 | DeMya Walker | 446 |
 | 151 | Essence Carson | 445 |
-| 152 | **Jessica Shepard** 🔴 +2 | 438 |
+| 152 | **Jessica Shepard** 🔴 +3 | 439 |
 | 153 | Michelle Snow | 437 |
 | 154 | Lauren Jackson | 435 |
 | 155 | Adrienne Goodson | 433 |
@@ -640,7 +640,7 @@ _Last updated: 2026-07-21 00:44 UTC_
 | 4 | Sylvia Fowles | 721 |
 | 5 | Candace Parker | 619 |
 | 6 | Lauren Jackson | 586 |
-| 7 | **A'ja Wilson** 🔴 +2 | 570 |
+| 7 | **A'ja Wilson** 🔴 +3 | 571 |
 | 8 | Tammy Sutton-Brown | 555 |
 | 9 | Tangela Smith | 554 |
 | 10 | Ruth Riley | 505 |
@@ -1500,7 +1500,7 @@ _Last updated: 2026-07-21 00:44 UTC_
 | 40 | **Jonquel Jones** 🔴 +2 | 915 |
 | 41 | Ticha Penicheiro | 913 |
 | 42 | Shavonte Zellous | 907 |
-| 43 | **Alysha Clark** 🔴 | 905 |
+| 43 | **Alysha Clark** 🔴 +1 | 906 |
 | 44 | DeMya Walker | 882 |
 | 45 | Candice Dupree | 876 |
 | 46 | Murriel Page | 872 |
