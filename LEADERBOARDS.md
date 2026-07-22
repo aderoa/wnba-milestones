@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-22 20:40 UTC_
+_Last updated: 2026-07-22 20:41 UTC_
 
 ## Contents
 
@@ -745,8 +745,8 @@ _Last updated: 2026-07-22 20:40 UTC_
 | 108 | Shakira Austin | 119 |
 | 109 | Krystal Thomas | 118 |
 | 110 | Andrea Stinson | 117 |
+| 110 | **Ariel Atkins** 🔴 +2 | 117 |
 | 110 | Crystal Langhorne | 117 |
-| 112 | **Ariel Atkins** 🔴 +1 | 116 |
 | 113 | Monique Currie | 114 |
 | 114 | Amanda Lassiter | 111 |
 | 114 | Kamila Vodichkova | 111 |
@@ -792,9 +792,9 @@ _Last updated: 2026-07-22 20:40 UTC_
 | 155 | Charde Houston | 84 |
 | 155 | Marina Mabrey | 84 |
 | 155 | Shatori Walker-Kimbrough | 84 |
+| 158 | **Cameron Brink** 🔴 +1 | 83 |
 | 158 | Tamera Young | 83 |
-| 159 | **Cameron Brink** 🔴 | 82 |
-| 159 | Damiris Dantas | 82 |
+| 160 | Damiris Dantas | 82 |
 | 161 | Charlotte Smith | 81 |
 | 161 | Cintia dos Santos | 81 |
 | 161 | Jessie Hicks | 81 |
