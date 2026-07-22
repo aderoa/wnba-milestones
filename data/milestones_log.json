@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-07-22T21:01:00+00:00",
+    "text": "Sami Whitcomb passed Liz Cambage and Rhonda Mapp for #187 all-time in fouls (career 484) \u2014 up from #189 entering today \u2014 (3:12 - 4th \u2014 PHX @ LA)",
+    "kind": "rank_pass",
+    "player": "Sami Whitcomb",
+    "stat": "fouls",
+    "rank": 187,
+    "passed_players": [
+      "Liz Cambage",
+      "Rhonda Mapp"
+    ],
+    "new_total": 484
+  },
+  {
     "ts": "2026-07-22T20:55:00+00:00",
     "text": "DeWanna Bonner reached 1,200 career assists (now 1,200) \u2014 (4:28 - 4th \u2014 PHX @ LA)",
     "kind": "round",
@@ -2990,17 +3003,5 @@
       "Camille Smith"
     ],
     "new_total": 591
-  },
-  {
-    "ts": "2026-06-28T23:09:00+00:00",
-    "text": "Kayla Thornton passed Crystal Robinson for #97 all-time in fouls (career 683) \u2014 up from #98 entering today \u2014 (6:58 - 1st \u2014 NY @ GS)",
-    "kind": "rank_pass",
-    "player": "Kayla Thornton",
-    "stat": "fouls",
-    "rank": 97,
-    "passed_players": [
-      "Crystal Robinson"
-    ],
-    "new_total": 683
   }
 ]

@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-22 21:01 UTC
+
+- **Sami Whitcomb** passed **Liz Cambage** and **Rhonda Mapp** for **#187** all-time in fouls (career 484) — up from #189 entering today — _3:12 - 4th — PHX @ LA_
+
 ## 2026-07-22 20:55 UTC
 
 - **DeWanna Bonner** reached **1,200** career assists (now 1,200) — _4:28 - 4th — PHX @ LA_
