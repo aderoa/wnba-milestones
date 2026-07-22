@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-22 23:26 UTC_
+_Last updated: 2026-07-22 23:27 UTC_
 
 ## Contents
 
@@ -690,10 +690,10 @@ _Last updated: 2026-07-22 23:26 UTC_
 | 52 | Asjha Jones | 204 |
 | 54 | Janel McCarville | 201 |
 | 55 | **Rebecca Allen** 🔴 | 196 |
+| 56 | **Courtney Vandersloot** 🔴 +1 | 194 |
 | 56 | Jayne Appel Marinelli | 194 |
-| 57 | Angel McCoughtry | 193 |
-| 57 | **Courtney Vandersloot** 🔴 | 193 |
-| 57 | Murriel Page | 193 |
+| 58 | Angel McCoughtry | 193 |
+| 58 | Murriel Page | 193 |
 | 60 | Kelly Schumacher | 183 |
 | 61 | Maria Stepanova | 182 |
 | 62 | Courtney Paris | 178 |
