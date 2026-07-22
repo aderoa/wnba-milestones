@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-22 19:37 UTC
+
+- **Napheesa Collier** passed **Cappie Pondexter** for **#61** all-time in rebounds (career 1,514) — up from #62 entering today — _4:03 - 2nd — MIN @ SEA_
+
 ## 2026-07-22 19:19 UTC
 
 - **Napheesa Collier** passed **Shannon Johnson** for **#71** all-time in points (career 3,544) — _2:11 - 1st — MIN @ SEA_

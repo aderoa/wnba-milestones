@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-07-22T19:37:00+00:00",
+    "text": "Napheesa Collier passed Cappie Pondexter for #61 all-time in rebounds (career 1,514) \u2014 up from #62 entering today \u2014 (4:03 - 2nd \u2014 MIN @ SEA)",
+    "kind": "rank_pass",
+    "player": "Napheesa Collier",
+    "stat": "rebounds",
+    "rank": 61,
+    "passed_players": [
+      "Cappie Pondexter"
+    ],
+    "new_total": 1514
+  },
+  {
     "ts": "2026-07-22T19:19:00+00:00",
     "text": "Napheesa Collier passed Shannon Johnson for #71 all-time in points (career 3,544) \u2014 (2:11 - 1st \u2014 MIN @ SEA)",
     "kind": "rank_pass",
@@ -2993,17 +3005,5 @@
       "Natisha Hiedeman"
     ],
     "new_total": 669
-  },
-  {
-    "ts": "2026-06-28T22:19:00+00:00",
-    "text": "Skylar Diggins passed Cathrine Kraayeveld for #130 all-time in rebounds (career 1,014) \u2014 up from #133 entering today \u2014 (1:27 - 4th \u2014 LV @ CHI)",
-    "kind": "rank_pass",
-    "player": "Skylar Diggins",
-    "stat": "rebounds",
-    "rank": 130,
-    "passed_players": [
-      "Cathrine Kraayeveld"
-    ],
-    "new_total": 1014
   }
 ]
