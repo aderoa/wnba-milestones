@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-22 23:13 UTC_
+_Last updated: 2026-07-22 23:14 UTC_
 
 ## Contents
 
@@ -217,7 +217,7 @@ _Last updated: 2026-07-22 23:13 UTC_
 | 196 | Janell Burse | 1,580 |
 | 197 | Le'coe Willingham | 1,552 |
 | 198 | Shatori Walker-Kimbrough | 1,544 |
-| 199 | **Rebecca Allen** 🔴 | 1,529 |
+| 199 | **Rebecca Allen** 🔴 +3 | 1,532 |
 | 200 | Jennifer Lacy | 1,504 |
 
 ## Rebounds
@@ -333,7 +333,7 @@ _Last updated: 2026-07-22 23:13 UTC_
 | 107 | Brittney Sykes | 1,162 |
 | 108 | Nykesha Sales | 1,148 |
 | 109 | Shannon Johnson | 1,143 |
-| 110 | **Natasha Cloud** 🔴 | 1,141 |
+| 110 | **Natasha Cloud** 🔴 +1 | 1,142 |
 | 111 | Adrian Williams-Strong | 1,131 |
 | 112 | Andrea Stinson | 1,127 |
 | 112 | Tamika Raymond | 1,127 |
@@ -523,7 +523,7 @@ _Last updated: 2026-07-22 23:13 UTC_
 | 91 | Lindsay Allen | 657 |
 | 92 | Betty Lennox | 651 |
 | 92 | Plenette Pierson | 651 |
-| 94 | **Jonquel Jones** 🔴 | 647 |
+| 94 | **Jonquel Jones** 🔴 +1 | 648 |
 | 95 | Alex Bentley | 645 |
 | 96 | Asjha Jones | 637 |
 | 97 | Jennifer Azzi | 636 |
@@ -675,7 +675,7 @@ _Last updated: 2026-07-22 23:13 UTC_
 | 38 | Plenette Pierson | 242 |
 | 39 | Napheesa Collier | 239 |
 | 40 | Emma Meesseman | 238 |
-| 41 | **Azurá Stevens** 🔴 | 236 |
+| 41 | **Azurá Stevens** 🔴 +1 | 237 |
 | 42 | Brianna Turner | 234 |
 | 43 | Skylar Diggins | 231 |
 | 44 | Chasity Melvin | 228 |
@@ -1133,7 +1133,7 @@ _Last updated: 2026-07-22 23:13 UTC_
 | 83 | Iziane Castro Marques | 275 |
 | 84 | Sheryl Swoopes | 270 |
 | 85 | Sophia Witherspoon | 260 |
-| 86 | **Rebecca Allen** 🔴 | 255 |
+| 86 | **Rebecca Allen** 🔴 +1 | 256 |
 | 87 | Dawn Staley | 254 |
 | 87 | Nneka Ogwumike | 254 |
 | 89 | Bria Hartley | 253 |
