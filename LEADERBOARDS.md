@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-22 19:17 UTC_
+_Last updated: 2026-07-22 19:18 UTC_
 
 ## Contents
 
@@ -235,7 +235,7 @@ _Last updated: 2026-07-22 19:17 UTC_
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
-| 12 | **Alyssa Thomas** 🔴 +3 | 2,861 |
+| 12 | **Alyssa Thomas** 🔴 +4 | 2,862 |
 | 13 | Jonquel Jones | 2,728 |
 | 14 | A'ja Wilson | 2,657 |
 | 15 | Breanna Stewart | 2,632 |
@@ -738,7 +738,7 @@ _Last updated: 2026-07-22 19:17 UTC_
 | 100 | Mistie Bass | 126 |
 | 102 | Brionna Jones | 125 |
 | 103 | Kamilla Cardoso | 124 |
-| 104 | Natasha Mack | 123 |
+| 104 | **Natasha Mack** 🔴 | 123 |
 | 105 | Natalie Williams | 122 |
 | 106 | Ebony Hoffman | 121 |
 | 106 | Essence Carson | 121 |
@@ -1265,7 +1265,7 @@ _Last updated: 2026-07-22 19:17 UTC_
 | 10 | Candace Parker | 1,062 |
 | 11 | Tamika Catchings | 1,041 |
 | 12 | Tina Charles | 1,040 |
-| 13 | **Alyssa Thomas** 🔴 +1 | 1,036 |
+| 13 | **Alyssa Thomas** 🔴 +2 | 1,037 |
 | 14 | Lindsay Whalen | 1,002 |
 | 15 | Sylvia Fowles | 961 |
 | 16 | Tanisha Wright | 954 |
@@ -1307,8 +1307,8 @@ _Last updated: 2026-07-22 19:17 UTC_
 | 51 | **Dearica Hamby** 🔴 | 684 |
 | 53 | Asjha Jones | 682 |
 | 54 | Danielle Robinson | 680 |
+| 55 | **Courtney Williams** 🔴 +2 | 677 |
 | 55 | Sheryl Swoopes | 677 |
-| 56 | **Courtney Williams** 🔴 +1 | 676 |
 | 57 | Tammy Sutton-Brown | 672 |
 | 58 | Deanna Nolan | 669 |
 | 59 | Chasity Melvin | 666 |
