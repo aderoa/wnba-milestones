@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-22 23:10 UTC_
+_Last updated: 2026-07-22 23:11 UTC_
 
 ## Contents
 
@@ -111,7 +111,7 @@ _Last updated: 2026-07-22 23:10 UTC_
 | 90 | Danielle Robinson | 3,160 |
 | 91 | Wendy Palmer | 3,135 |
 | 92 | Shavonte Zellous | 3,103 |
-| 93 | **Sabrina Ionescu** 🔴 +2 | 3,099 |
+| 93 | **Sabrina Ionescu** 🔴 +5 | 3,102 |
 | 94 | Briann January | 3,082 |
 | 95 | Erika de Souza | 3,046 |
 | 96 | Shameka Christon | 3,039 |
@@ -238,7 +238,7 @@ _Last updated: 2026-07-22 23:10 UTC_
 | 12 | Alyssa Thomas | 2,869 |
 | 13 | **Jonquel Jones** 🔴 +1 | 2,729 |
 | 14 | A'ja Wilson | 2,657 |
-| 15 | **Breanna Stewart** 🔴 | 2,632 |
+| 15 | **Breanna Stewart** 🔴 +1 | 2,633 |
 | 16 | Sancho Lyttle | 2,596 |
 | 17 | Brittney Griner | 2,579 |
 | 18 | DeLisha Milton-Jones | 2,574 |
@@ -412,8 +412,8 @@ _Last updated: 2026-07-22 23:10 UTC_
 | 186 | Tully Bevilaqua | 767 |
 | 187 | Layshia Clarendon | 756 |
 | 188 | Brooke Wyckoff | 751 |
-| 189 | Coco Miller | 750 |
-| 189 | **Kamilla Cardoso** 🔴 | 750 |
+| 188 | **Kamilla Cardoso** 🔴 +1 | 751 |
+| 190 | Coco Miller | 750 |
 | 191 | Kelsey Plum | 741 |
 | 192 | Alex Montgomery | 735 |
 | 193 | Ashley Robinson | 734 |
@@ -431,7 +431,7 @@ _Last updated: 2026-07-22 23:10 UTC_
 | Rank | Player | Total |
 |-----:|--------|------:|
 | 1 | Sue Bird | 3,234 |
-| 2 | **Courtney Vandersloot** 🔴 | 2,894 |
+| 2 | **Courtney Vandersloot** 🔴 +1 | 2,895 |
 | 3 | Ticha Penicheiro | 2,588 |
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
@@ -474,8 +474,8 @@ _Last updated: 2026-07-22 23:10 UTC_
 | 42 | Sheryl Swoopes | 1,037 |
 | 43 | Tina Charles | 1,033 |
 | 44 | Kayla McBride | 994 |
-| 45 | **Breanna Stewart** 🔴 +1 | 982 |
-| 45 | Nikki Teasley | 982 |
+| 45 | **Breanna Stewart** 🔴 +2 | 983 |
+| 46 | Nikki Teasley | 982 |
 | 47 | Tamecka Dixon | 960 |
 | 48 | Tiffany Hayes | 957 |
 | 49 | Kara Lawson | 946 |
@@ -649,7 +649,7 @@ _Last updated: 2026-07-22 23:10 UTC_
 | 12 | **Breanna Stewart** 🔴 | 450 |
 | 13 | Taj McWilliams-Franklin | 443 |
 | 14 | Tina Charles | 428 |
-| 15 | **Jonquel Jones** 🔴 | 425 |
+| 15 | **Jonquel Jones** 🔴 +1 | 426 |
 | 16 | Michelle Snow | 403 |
 | 17 | Tamika Catchings | 383 |
 | 18 | Tina Thompson | 372 |
@@ -1071,8 +1071,8 @@ _Last updated: 2026-07-22 23:10 UTC_
 | 21 | Allie Quigley | 510 |
 | 22 | Leilani Mitchell | 508 |
 | 23 | Marina Mabrey | 500 |
-| 24 | **Sabrina Ionescu** 🔴 | 468 |
-| 24 | Shekinna Stricklen | 468 |
+| 24 | **Sabrina Ionescu** 🔴 +1 | 469 |
+| 25 | Shekinna Stricklen | 468 |
 | 26 | **Breanna Stewart** 🔴 +1 | 466 |
 | 27 | Cappie Pondexter | 464 |
 | 28 | Allisha Gray | 458 |
@@ -1348,7 +1348,7 @@ _Last updated: 2026-07-22 23:10 UTC_
 | 93 | Layshia Clarendon | 536 |
 | 94 | Ivory Latta | 534 |
 | 94 | Iziane Castro Marques | 534 |
-| 96 | **Sabrina Ionescu** 🔴 | 533 |
+| 94 | **Sabrina Ionescu** 🔴 +1 | 534 |
 | 97 | Mwadi Mabika | 532 |
 | 98 | Nakia Sanford | 531 |
 | 99 | Arike Ogunbowale | 529 |
@@ -1443,9 +1443,9 @@ _Last updated: 2026-07-22 23:10 UTC_
 | 188 | Alex Bentley | 313 |
 | 189 | Tamika Raymond | 311 |
 | 190 | Isabelle Harrison | 307 |
+| 191 | **Azurá Stevens** 🔴 +1 | 305 |
 | 191 | Erin Perperoglou | 305 |
 | 191 | Jennifer Lacy | 305 |
-| 193 | **Azurá Stevens** 🔴 | 304 |
 | 194 | Tianna Hawkins | 303 |
 | 195 | Rachel Banham | 301 |
 | 196 | Crystal Robinson | 299 |
