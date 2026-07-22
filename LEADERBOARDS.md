@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-22 23:11 UTC_
+_Last updated: 2026-07-22 23:12 UTC_
 
 ## Contents
 
@@ -31,7 +31,7 @@ _Last updated: 2026-07-22 23:11 UTC_
 | 10 | Candace Parker | 6,574 |
 | 11 | Katie Smith | 6,450 |
 | 12 | Sylvia Fowles | 6,413 |
-| 13 | **Breanna Stewart** 🔴 +3 | 6,338 |
+| 13 | **Breanna Stewart** 🔴 +5 | 6,340 |
 | 14 | Lisa Leslie | 6,251 |
 | 15 | A'ja Wilson | 6,178 |
 | 16 | Jewell Loyd | 6,148 |
@@ -351,7 +351,7 @@ _Last updated: 2026-07-22 23:11 UTC_
 | 124 | Tamecka Dixon | 1,035 |
 | 126 | Kamila Vodichkova | 1,031 |
 | 127 | Jasmine Thomas | 1,027 |
-| 128 | **Sabrina Ionescu** 🔴 +1 | 1,021 |
+| 128 | **Sabrina Ionescu** 🔴 +2 | 1,022 |
 | 129 | Jessica Shepard | 1,016 |
 | 130 | Cathrine Kraayeveld | 1,013 |
 | 131 | Kelly Miller | 1,011 |
@@ -833,11 +833,11 @@ _Last updated: 2026-07-22 23:11 UTC_
 | 196 | Shannon Johnson | 67 |
 | 196 | Veronica Burton | 67 |
 | 198 | Kennedy Burke | 66 |
-| 199 | Crystal Robinson | 65 |
-| 199 | Gabby Williams | 65 |
-| 199 | Queen Egbo | 65 |
-| 199 | Riquna Williams | 65 |
-| 199 | **Sabrina Ionescu** 🔴 | 65 |
+| 198 | **Sabrina Ionescu** 🔴 +1 | 66 |
+| 200 | Crystal Robinson | 65 |
+| 200 | Gabby Williams | 65 |
+| 200 | Queen Egbo | 65 |
+| 200 | Riquna Williams | 65 |
 
 ## Steals
 
@@ -1523,7 +1523,7 @@ _Last updated: 2026-07-22 23:11 UTC_
 | 63 | Nykesha Sales | 796 |
 | 64 | Ebony Hoffman | 791 |
 | 65 | Sue Bird | 775 |
-| 66 | **Natasha Cloud** 🔴 | 773 |
+| 66 | **Natasha Cloud** 🔴 +1 | 774 |
 | 67 | Sheri Sam | 766 |
 | 68 | Kahleah Copper | 763 |
 | 69 | Kia Vaughn | 755 |
