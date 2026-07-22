@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-22 23:32 UTC_
+_Last updated: 2026-07-22 23:33 UTC_
 
 ## Contents
 
@@ -66,7 +66,7 @@ _Last updated: 2026-07-22 23:32 UTC_
 | 45 | Kahleah Copper | 4,458 |
 | 46 | Crystal Langhorne | 4,433 |
 | 46 | Jia Perkins | 4,433 |
-| 48 | **Courtney Vandersloot** 🔴 +5 | 4,367 |
+| 48 | **Courtney Vandersloot** 🔴 +7 | 4,369 |
 | 49 | **Jonquel Jones** 🔴 +4 | 4,357 |
 | 50 | Courtney Williams | 4,350 |
 | 51 | Dearica Hamby | 4,348 |
@@ -297,8 +297,8 @@ _Last updated: 2026-07-22 23:32 UTC_
 | 71 | Nakia Sanford | 1,419 |
 | 72 | Kayla Thornton | 1,408 |
 | 73 | Allisha Gray | 1,404 |
+| 74 | **Courtney Vandersloot** 🔴 +1 | 1,387 |
 | 74 | Kara Braxton | 1,387 |
-| 75 | **Courtney Vandersloot** 🔴 | 1,386 |
 | 76 | Katie Smith | 1,383 |
 | 77 | Ebony Hoffman | 1,376 |
 | 78 | Jewell Loyd | 1,371 |
@@ -1492,9 +1492,9 @@ _Last updated: 2026-07-22 23:32 UTC_
 | 32 | Asjha Jones | 971 |
 | 33 | Margo Dydek | 950 |
 | 34 | Sancho Lyttle | 947 |
+| 35 | **Courtney Vandersloot** 🔴 +1 | 941 |
 | 35 | Mwadi Mabika | 941 |
-| 36 | **Courtney Vandersloot** 🔴 | 940 |
-| 36 | Tamika Whitmore | 940 |
+| 37 | Tamika Whitmore | 940 |
 | 38 | DeWanna Bonner | 925 |
 | 39 | Briann January | 921 |
 | 40 | **Jonquel Jones** 🔴 +2 | 915 |
