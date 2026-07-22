@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-22 23:04 UTC_
+_Last updated: 2026-07-22 23:05 UTC_
 
 ## Contents
 
@@ -66,8 +66,8 @@ _Last updated: 2026-07-22 23:04 UTC_
 | 45 | Kahleah Copper | 4,458 |
 | 46 | Crystal Langhorne | 4,433 |
 | 46 | Jia Perkins | 4,433 |
-| 48 | **Courtney Vandersloot** 🔴 | 4,362 |
-| 49 | **Jonquel Jones** 🔴 | 4,353 |
+| 48 | **Courtney Vandersloot** 🔴 +2 | 4,364 |
+| 49 | **Jonquel Jones** 🔴 +2 | 4,355 |
 | 50 | Courtney Williams | 4,350 |
 | 51 | Dearica Hamby | 4,348 |
 | 52 | Sophia Young-Malcolm | 4,300 |
@@ -236,7 +236,7 @@ _Last updated: 2026-07-22 23:04 UTC_
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | Alyssa Thomas | 2,869 |
-| 13 | **Jonquel Jones** 🔴 | 2,728 |
+| 13 | **Jonquel Jones** 🔴 +1 | 2,729 |
 | 14 | A'ja Wilson | 2,657 |
 | 15 | **Breanna Stewart** 🔴 | 2,632 |
 | 16 | Sancho Lyttle | 2,596 |
@@ -310,7 +310,7 @@ _Last updated: 2026-07-22 23:04 UTC_
 | 84 | Erlana Larkins | 1,329 |
 | 85 | Mwadi Mabika | 1,327 |
 | 86 | Jayne Appel Marinelli | 1,326 |
-| 87 | **Azurá Stevens** 🔴 | 1,319 |
+| 87 | **Azurá Stevens** 🔴 +2 | 1,321 |
 | 88 | Betty Lennox | 1,296 |
 | 89 | Tari Phillips | 1,274 |
 | 90 | Myisha Hines-Allen | 1,265 |
@@ -351,7 +351,7 @@ _Last updated: 2026-07-22 23:04 UTC_
 | 124 | Tamecka Dixon | 1,035 |
 | 126 | Kamila Vodichkova | 1,031 |
 | 127 | Jasmine Thomas | 1,027 |
-| 128 | **Sabrina Ionescu** 🔴 | 1,020 |
+| 128 | **Sabrina Ionescu** 🔴 +1 | 1,021 |
 | 129 | Jessica Shepard | 1,016 |
 | 130 | Cathrine Kraayeveld | 1,013 |
 | 131 | Kelly Miller | 1,011 |
@@ -438,7 +438,7 @@ _Last updated: 2026-07-22 23:04 UTC_
 | 6 | Chelsea Gray | 2,003 |
 | 7 | Alyssa Thomas | 1,986 |
 | 8 | Skylar Diggins | 1,852 |
-| 9 | **Natasha Cloud** 🔴 | 1,802 |
+| 9 | **Natasha Cloud** 🔴 +1 | 1,803 |
 | 10 | Becky Hammon | 1,705 |
 | 11 | Candace Parker | 1,634 |
 | 12 | Cappie Pondexter | 1,575 |
