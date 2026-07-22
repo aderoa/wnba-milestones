@@ -1,5 +1,29 @@
 [
   {
+    "ts": "2026-07-22T19:44:00+00:00",
+    "text": "Napheesa Collier passed Camille Smith for #69 all-time in points (career 3,553) \u2014 up from #70 entering today \u2014 (35.2 - 2nd \u2014 MIN @ SEA)",
+    "kind": "rank_pass",
+    "player": "Napheesa Collier",
+    "stat": "points",
+    "rank": 69,
+    "passed_players": [
+      "Camille Smith"
+    ],
+    "new_total": 3553
+  },
+  {
+    "ts": "2026-07-22T19:44:00+00:00",
+    "text": "Napheesa Collier passed Danielle Adams for #117 all-time in three-pointers (career 189) \u2014 up from #118 entering today \u2014 (35.2 - 2nd \u2014 MIN @ SEA)",
+    "kind": "rank_pass",
+    "player": "Napheesa Collier",
+    "stat": "three-pointers",
+    "rank": 117,
+    "passed_players": [
+      "Danielle Adams"
+    ],
+    "new_total": 189
+  },
+  {
     "ts": "2026-07-22T19:37:00+00:00",
     "text": "Napheesa Collier passed Cappie Pondexter for #61 all-time in rebounds (career 1,514) \u2014 up from #62 entering today \u2014 (4:03 - 2nd \u2014 MIN @ SEA)",
     "kind": "rank_pass",
@@ -2981,29 +3005,5 @@
       "Janel McCarville"
     ],
     "new_total": 492
-  },
-  {
-    "ts": "2026-06-28T22:22:00+00:00",
-    "text": "Azur\u00e1 Stevens passed Nikki Teasley for #159 all-time in steals (career 212) \u2014 up from #160 entering today \u2014 (59.3 - 4th \u2014 LV @ CHI)",
-    "kind": "rank_pass",
-    "player": "Azur\u00e1 Stevens",
-    "stat": "steals",
-    "rank": 159,
-    "passed_players": [
-      "Nikki Teasley"
-    ],
-    "new_total": 212
-  },
-  {
-    "ts": "2026-06-28T22:19:00+00:00",
-    "text": "A'ja Wilson passed Natisha Hiedeman for #87 all-time in assists (career 669) \u2014 up from #88 entering today \u2014 (1:27 - 4th \u2014 LV @ CHI)",
-    "kind": "rank_pass",
-    "player": "A'ja Wilson",
-    "stat": "assists",
-    "rank": 87,
-    "passed_players": [
-      "Natisha Hiedeman"
-    ],
-    "new_total": 669
   }
 ]

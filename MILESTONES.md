@@ -2,6 +2,11 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-22 19:44 UTC
+
+- **Napheesa Collier** passed **Camille Smith** for **#69** all-time in points (career 3,553) — up from #70 entering today — _35.2 - 2nd — MIN @ SEA_
+- **Napheesa Collier** passed **Danielle Adams** for **#117** all-time in three-pointers (career 189) — up from #118 entering today — _35.2 - 2nd — MIN @ SEA_
+
 ## 2026-07-22 19:37 UTC
 
 - **Napheesa Collier** passed **Cappie Pondexter** for **#61** all-time in rebounds (career 1,514) — up from #62 entering today — _4:03 - 2nd — MIN @ SEA_
