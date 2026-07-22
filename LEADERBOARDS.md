@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-22 23:16 UTC_
+_Last updated: 2026-07-22 23:17 UTC_
 
 ## Contents
 
@@ -110,8 +110,8 @@ _Last updated: 2026-07-22 23:16 UTC_
 | 89 | Erica Wheeler | 3,200 |
 | 90 | Danielle Robinson | 3,160 |
 | 91 | Wendy Palmer | 3,135 |
-| 92 | Shavonte Zellous | 3,103 |
-| 93 | **Sabrina Ionescu** 🔴 +5 | 3,102 |
+| 92 | **Sabrina Ionescu** 🔴 +7 | 3,104 |
+| 93 | Shavonte Zellous | 3,103 |
 | 94 | Briann January | 3,082 |
 | 95 | Erika de Souza | 3,046 |
 | 96 | Shameka Christon | 3,039 |
@@ -198,7 +198,7 @@ _Last updated: 2026-07-22 23:16 UTC_
 | 177 | Candice Wiggins | 1,901 |
 | 178 | Gabby Williams | 1,899 |
 | 179 | NaLyssa Smith | 1,879 |
-| 180 | Rachel Banham | 1,843 |
+| 180 | **Rachel Banham** 🔴 | 1,843 |
 | 181 | Damiris Dantas | 1,842 |
 | 182 | Sophie Cunningham | 1,829 |
 | 183 | Tianna Hawkins | 1,825 |
@@ -554,7 +554,7 @@ _Last updated: 2026-07-22 23:16 UTC_
 | 122 | Myisha Hines-Allen | 529 |
 | 123 | Marie Ferdinand-Harris | 528 |
 | 124 | Margo Dydek | 524 |
-| 125 | Rachel Banham | 511 |
+| 125 | **Rachel Banham** 🔴 | 511 |
 | 126 | Iziane Castro Marques | 509 |
 | 127 | Brittany Boyd-Jones | 508 |
 | 127 | Chasity Melvin | 508 |
@@ -1089,7 +1089,7 @@ _Last updated: 2026-07-22 23:16 UTC_
 | 38 | Riquna Williams | 407 |
 | 40 | Jia Perkins | 396 |
 | 41 | Alysha Clark | 394 |
-| 42 | Rachel Banham | 390 |
+| 42 | **Rachel Banham** 🔴 | 390 |
 | 43 | **Jonquel Jones** 🔴 | 389 |
 | 43 | Roneeka Hodges | 389 |
 | 45 | **Courtney Vandersloot** 🔴 +1 | 387 |
@@ -1447,7 +1447,7 @@ _Last updated: 2026-07-22 23:16 UTC_
 | 191 | Erin Perperoglou | 305 |
 | 191 | Jennifer Lacy | 305 |
 | 194 | Tianna Hawkins | 303 |
-| 195 | Rachel Banham | 301 |
+| 195 | **Rachel Banham** 🔴 | 301 |
 | 196 | Crystal Robinson | 299 |
 | 197 | Kayla Thornton | 298 |
 | 198 | Michele Timms | 297 |
@@ -1634,7 +1634,7 @@ _Last updated: 2026-07-22 23:16 UTC_
 | 174 | Elena Baranova | 501 |
 | 175 | Adrian Williams-Strong | 497 |
 | 175 | Essence Carson | 497 |
-| 175 | Rachel Banham | 497 |
+| 175 | **Rachel Banham** 🔴 | 497 |
 | 178 | Nia Coffey | 496 |
 | 179 | **Azurá Stevens** 🔴 | 495 |
 | 180 | Karima Christmas-Kelly | 494 |
