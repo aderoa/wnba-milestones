@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-22 21:01 UTC_
+_Last updated: 2026-07-22 21:02 UTC_
 
 ## Contents
 
@@ -506,7 +506,7 @@ _Last updated: 2026-07-22 21:01 UTC_
 | 74 | Allisha Gray | 767 |
 | 75 | Sheri Sam | 745 |
 | 76 | Monique Currie | 740 |
-| 77 | **Dearica Hamby** 🔴 +3 | 729 |
+| 77 | **Dearica Hamby** 🔴 +4 | 730 |
 | 78 | Elaine Powell | 728 |
 | 79 | **Stefanie Dolson** 🔴 +1 | 708 |
 | 80 | Chamique Holdsclaw | 698 |
@@ -1525,7 +1525,7 @@ _Last updated: 2026-07-22 21:01 UTC_
 | 65 | Sue Bird | 775 |
 | 66 | Natasha Cloud | 773 |
 | 67 | Sheri Sam | 766 |
-| 68 | **Kahleah Copper** 🔴 +4 | 762 |
+| 68 | **Kahleah Copper** 🔴 +5 | 763 |
 | 69 | Kia Vaughn | 755 |
 | 70 | Allisha Gray | 752 |
 | 70 | Vickie Johnson | 752 |
