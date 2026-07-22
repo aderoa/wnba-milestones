@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-22 20:37 UTC
+
+- **Napheesa Collier** passed **Cynthia Cooper** and **Noelle Quinn** for **#138** all-time in turnovers (career 423) — up from #139 entering today — _5:15 - 4th — MIN @ SEA_
+
 ## 2026-07-22 19:44 UTC
 
 - **Napheesa Collier** passed **Camille Smith** for **#69** all-time in points (career 3,553) — up from #70 entering today — _35.2 - 2nd — MIN @ SEA_

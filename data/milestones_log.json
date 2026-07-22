@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-07-22T20:37:00+00:00",
+    "text": "Napheesa Collier passed Cynthia Cooper and Noelle Quinn for #138 all-time in turnovers (career 423) \u2014 up from #139 entering today \u2014 (5:15 - 4th \u2014 MIN @ SEA)",
+    "kind": "rank_pass",
+    "player": "Napheesa Collier",
+    "stat": "turnovers",
+    "rank": 138,
+    "passed_players": [
+      "Cynthia Cooper",
+      "Noelle Quinn"
+    ],
+    "new_total": 423
+  },
+  {
     "ts": "2026-07-22T19:44:00+00:00",
     "text": "Napheesa Collier passed Camille Smith for #69 all-time in points (career 3,553) \u2014 up from #70 entering today \u2014 (35.2 - 2nd \u2014 MIN @ SEA)",
     "kind": "rank_pass",
@@ -2993,17 +3006,5 @@
       "Jasmine Thomas"
     ],
     "new_total": 686
-  },
-  {
-    "ts": "2026-06-28T22:22:00+00:00",
-    "text": "A'ja Wilson passed Janel McCarville for #113 all-time in turnovers (career 492) \u2014 up from #114 entering today \u2014 (59.3 - 4th \u2014 LV @ CHI)",
-    "kind": "rank_pass",
-    "player": "A'ja Wilson",
-    "stat": "turnovers",
-    "rank": 113,
-    "passed_players": [
-      "Janel McCarville"
-    ],
-    "new_total": 492
   }
 ]
