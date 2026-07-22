@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-22 23:44 UTC_
+_Last updated: 2026-07-22 23:45 UTC_
 
 ## Contents
 
@@ -33,7 +33,7 @@ _Last updated: 2026-07-22 23:44 UTC_
 | 12 | Sylvia Fowles | 6,413 |
 | 13 | **Breanna Stewart** 🔴 +10 | 6,345 |
 | 14 | Lisa Leslie | 6,251 |
-| 15 | **A'ja Wilson** 🔴 +5 | 6,183 |
+| 15 | **A'ja Wilson** 🔴 +7 | 6,185 |
 | 16 | **Jewell Loyd** 🔴 | 6,148 |
 | 17 | Brittney Griner | 6,087 |
 | 18 | Lauren Jackson | 6,005 |
@@ -83,7 +83,7 @@ _Last updated: 2026-07-22 23:44 UTC_
 | 62 | Allie Quigley | 3,786 |
 | 63 | Chasity Melvin | 3,781 |
 | 64 | Brittney Sykes | 3,726 |
-| 65 | **Jackie Young** 🔴 +6 | 3,704 |
+| 65 | **Jackie Young** 🔴 +8 | 3,706 |
 | 66 | Kara Lawson | 3,670 |
 | 67 | Mwadi Mabika | 3,576 |
 | 68 | Odyssey Sims | 3,574 |
@@ -150,8 +150,8 @@ _Last updated: 2026-07-22 23:44 UTC_
 | 129 | Anna DeForge | 2,413 |
 | 130 | Kayla Thornton | 2,393 |
 | 131 | DeMya Walker | 2,379 |
-| 132 | Alex Bentley | 2,350 |
-| 132 | **Azurá Stevens** 🔴 +7 | 2,350 |
+| 132 | **Azurá Stevens** 🔴 +8 | 2,351 |
+| 133 | Alex Bentley | 2,350 |
 | 134 | Jordin Canada | 2,342 |
 | 135 | Merlakia Jones | 2,308 |
 | 136 | Betnijah Laney-Hamilton | 2,302 |
@@ -237,7 +237,7 @@ _Last updated: 2026-07-22 23:44 UTC_
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | Alyssa Thomas | 2,869 |
 | 13 | **Jonquel Jones** 🔴 +5 | 2,733 |
-| 14 | **A'ja Wilson** 🔴 +2 | 2,659 |
+| 14 | **A'ja Wilson** 🔴 +3 | 2,660 |
 | 15 | **Breanna Stewart** 🔴 +5 | 2,637 |
 | 16 | Sancho Lyttle | 2,596 |
 | 17 | Brittney Griner | 2,579 |
@@ -289,7 +289,7 @@ _Last updated: 2026-07-22 23:44 UTC_
 | 63 | Ticha Penicheiro | 1,485 |
 | 64 | Alysha Clark | 1,469 |
 | 65 | Sue Bird | 1,466 |
-| 66 | **Cheyenne Parker-Tyus** 🔴 | 1,463 |
+| 66 | **Cheyenne Parker-Tyus** 🔴 +1 | 1,464 |
 | 67 | Nicole Powell | 1,457 |
 | 68 | Tamera Young | 1,433 |
 | 69 | Monique Billings | 1,431 |
@@ -465,7 +465,7 @@ _Last updated: 2026-07-22 23:44 UTC_
 | 33 | **Jackie Young** 🔴 +2 | 1,152 |
 | 34 | Renee Montgomery | 1,140 |
 | 35 | Swin Cash | 1,131 |
-| 36 | **Sabrina Ionescu** 🔴 | 1,092 |
+| 36 | **Sabrina Ionescu** 🔴 +1 | 1,093 |
 | 37 | Lindsey Harding | 1,090 |
 | 38 | Katie Douglas | 1,069 |
 | 39 | Alana Beard | 1,061 |
@@ -904,8 +904,8 @@ _Last updated: 2026-07-22 23:44 UTC_
 | 59 | Chamique Holdsclaw | 376 |
 | 60 | Brittney Sykes | 371 |
 | 61 | Mwadi Mabika | 370 |
+| 62 | **A'ja Wilson** 🔴 +1 | 362 |
 | 62 | Erica Wheeler | 362 |
-| 63 | **A'ja Wilson** 🔴 | 361 |
 | 64 | Lauren Jackson | 360 |
 | 64 | Tan White | 360 |
 | 66 | Vickie Johnson | 357 |
