@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-22 19:19 UTC
+
+- **Napheesa Collier** passed **Shannon Johnson** for **#71** all-time in points (career 3,544) — _2:11 - 1st — MIN @ SEA_
+
 ## 2026-07-21 04:04 UTC
 
 - **Natisha Hiedeman** passed **Nykesha Sales** for **#86** all-time in assists (career 678) — up from #87 entering today — _2:13 - 4th — MIN @ SEA_

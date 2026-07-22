@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-22 19:18 UTC_
+_Last updated: 2026-07-22 19:19 UTC_
 
 ## Contents
 
@@ -88,8 +88,8 @@ _Last updated: 2026-07-22 19:18 UTC_
 | 67 | Mwadi Mabika | 3,576 |
 | 68 | Odyssey Sims | 3,574 |
 | 69 | Camille Smith | 3,551 |
-| 70 | **Napheesa Collier** 🔴 | 3,542 |
-| 70 | Shannon Johnson | 3,542 |
+| 70 | **Napheesa Collier** 🔴 +2 | 3,544 |
+| 71 | Shannon Johnson | 3,542 |
 | 72 | Renee Montgomery | 3,533 |
 | 73 | Jasmine Thomas | 3,522 |
 | 74 | Tamecka Dixon | 3,507 |
@@ -235,7 +235,7 @@ _Last updated: 2026-07-22 19:18 UTC_
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
-| 12 | **Alyssa Thomas** 🔴 +4 | 2,862 |
+| 12 | **Alyssa Thomas** 🔴 +5 | 2,863 |
 | 13 | Jonquel Jones | 2,728 |
 | 14 | A'ja Wilson | 2,657 |
 | 15 | Breanna Stewart | 2,632 |
@@ -444,7 +444,7 @@ _Last updated: 2026-07-22 19:18 UTC_
 | 12 | Cappie Pondexter | 1,575 |
 | 13 | Tamika Catchings | 1,484 |
 | 14 | Danielle Robinson | 1,480 |
-| 15 | **Courtney Williams** 🔴 | 1,438 |
+| 15 | **Courtney Williams** 🔴 +1 | 1,439 |
 | 16 | Shannon Johnson | 1,423 |
 | 16 | Tanisha Wright | 1,423 |
 | 18 | Temeka Johnson | 1,382 |
@@ -1302,9 +1302,9 @@ _Last updated: 2026-07-22 19:18 UTC_
 | 47 | Renee Montgomery | 697 |
 | 48 | Temeka Johnson | 696 |
 | 49 | Penny Taylor | 695 |
+| 50 | **Dearica Hamby** 🔴 +1 | 685 |
 | 50 | Dominique Canty | 685 |
-| 51 | DeMya Walker | 684 |
-| 51 | **Dearica Hamby** 🔴 | 684 |
+| 52 | DeMya Walker | 684 |
 | 53 | Asjha Jones | 682 |
 | 54 | Danielle Robinson | 680 |
 | 55 | **Courtney Williams** 🔴 +2 | 677 |
@@ -1508,7 +1508,7 @@ _Last updated: 2026-07-22 19:18 UTC_
 | 48 | Erika de Souza | 858 |
 | 49 | Angel McCoughtry | 857 |
 | 50 | Betty Lennox | 851 |
-| 51 | **Dearica Hamby** 🔴 | 850 |
+| 50 | **Dearica Hamby** 🔴 +1 | 851 |
 | 52 | Tamecka Dixon | 849 |
 | 53 | Natalie Williams | 847 |
 | 53 | Tamera Young | 847 |
@@ -1585,7 +1585,7 @@ _Last updated: 2026-07-22 19:18 UTC_
 | 125 | Kamila Vodichkova | 596 |
 | 126 | Teresa Weatherspoon | 589 |
 | 127 | Emma Meesseman | 585 |
-| 128 | **Courtney Williams** 🔴 | 583 |
+| 128 | **Courtney Williams** 🔴 +1 | 584 |
 | 129 | Chiney Ogwumike | 580 |
 | 129 | Hamchetou Maiga-Ba | 580 |
 | 129 | Olympia Scott | 580 |

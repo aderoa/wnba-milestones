@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-07-22T19:19:00+00:00",
+    "text": "Napheesa Collier passed Shannon Johnson for #71 all-time in points (career 3,544) \u2014 (2:11 - 1st \u2014 MIN @ SEA)",
+    "kind": "rank_pass",
+    "player": "Napheesa Collier",
+    "stat": "points",
+    "rank": 71,
+    "passed_players": [
+      "Shannon Johnson"
+    ],
+    "new_total": 3544
+  },
+  {
     "ts": "2026-07-21T04:04:00+00:00",
     "text": "Natisha Hiedeman passed Nykesha Sales for #86 all-time in assists (career 678) \u2014 up from #87 entering today \u2014 (2:13 - 4th \u2014 MIN @ SEA)",
     "kind": "rank_pass",
@@ -2993,17 +3005,5 @@
       "Cathrine Kraayeveld"
     ],
     "new_total": 1014
-  },
-  {
-    "ts": "2026-06-28T22:18:00+00:00",
-    "text": "Shakira Austin passed Natalie Williams for #105 all-time in blocks (career 123) \u2014 up from #108 entering today \u2014 (7.9 - 3OT \u2014 POR @ WSH)",
-    "kind": "rank_pass",
-    "player": "Shakira Austin",
-    "stat": "blocks",
-    "rank": 105,
-    "passed_players": [
-      "Natalie Williams"
-    ],
-    "new_total": 123
   }
 ]
