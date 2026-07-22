@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-22 20:17 UTC_
+_Last updated: 2026-07-22 20:18 UTC_
 
 ## Contents
 
@@ -22,7 +22,7 @@ _Last updated: 2026-07-22 20:17 UTC_
 | 1 | Diana Taurasi | 10,608 |
 | 2 | Tina Charles | 8,396 |
 | 3 | **DeWanna Bonner** 🔴 +3 | 7,975 |
-| 4 | **Nneka Ogwumike** 🔴 +7 | 7,570 |
+| 4 | **Nneka Ogwumike** 🔴 +8 | 7,571 |
 | 5 | Tina Thompson | 7,470 |
 | 6 | Tamika Catchings | 7,371 |
 | 7 | Candice Dupree | 6,861 |
@@ -258,7 +258,7 @@ _Last updated: 2026-07-22 20:17 UTC_
 | 32 | Tammy Sutton-Brown | 2,010 |
 | 33 | Elizabeth Williams | 1,978 |
 | 34 | Cheryl Ford | 1,907 |
-| 35 | **Courtney Williams** 🔴 +4 | 1,847 |
+| 35 | **Courtney Williams** 🔴 +5 | 1,848 |
 | 36 | Kiah Stokes | 1,835 |
 | 37 | Plenette Pierson | 1,834 |
 | 38 | Natalie Williams | 1,832 |
@@ -729,11 +729,11 @@ _Last updated: 2026-07-22 20:17 UTC_
 | 91 | Nakia Sanford | 131 |
 | 93 | Brooke Wyckoff | 129 |
 | 93 | Cathrine Kraayeveld | 129 |
+| 95 | **Alyssa Thomas** 🔴 +1 | 128 |
 | 95 | Emily Engstler | 128 |
-| 96 | **Alyssa Thomas** 🔴 | 127 |
-| 96 | Chelsea Gray | 127 |
-| 96 | Chiney Ogwumike | 127 |
-| 96 | Kristen Rasmussen | 127 |
+| 97 | Chelsea Gray | 127 |
+| 97 | Chiney Ogwumike | 127 |
+| 97 | Kristen Rasmussen | 127 |
 | 100 | Katie Douglas | 126 |
 | 100 | Mistie Bass | 126 |
 | 102 | Brionna Jones | 125 |
@@ -1495,7 +1495,7 @@ _Last updated: 2026-07-22 20:17 UTC_
 | 35 | Mwadi Mabika | 941 |
 | 36 | Courtney Vandersloot | 940 |
 | 36 | Tamika Whitmore | 940 |
-| 38 | **DeWanna Bonner** 🔴 +1 | 923 |
+| 38 | **DeWanna Bonner** 🔴 +2 | 924 |
 | 39 | Briann January | 921 |
 | 40 | Jonquel Jones | 913 |
 | 40 | Ticha Penicheiro | 913 |
@@ -1584,7 +1584,7 @@ _Last updated: 2026-07-22 20:17 UTC_
 | 124 | Janel McCarville | 597 |
 | 125 | Kamila Vodichkova | 596 |
 | 126 | Teresa Weatherspoon | 589 |
-| 127 | **Courtney Williams** 🔴 +3 | 586 |
+| 127 | **Courtney Williams** 🔴 +4 | 587 |
 | 128 | Emma Meesseman | 585 |
 | 129 | Chiney Ogwumike | 580 |
 | 129 | Hamchetou Maiga-Ba | 580 |
