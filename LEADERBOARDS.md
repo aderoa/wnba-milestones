@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-22 19:38 UTC_
+_Last updated: 2026-07-22 19:39 UTC_
 
 ## Contents
 
@@ -88,7 +88,7 @@ _Last updated: 2026-07-22 19:38 UTC_
 | 67 | Mwadi Mabika | 3,576 |
 | 68 | Odyssey Sims | 3,574 |
 | 69 | Camille Smith | 3,551 |
-| 70 | **Napheesa Collier** 🔴 +6 | 3,548 |
+| 70 | **Napheesa Collier** 🔴 +8 | 3,550 |
 | 71 | Shannon Johnson | 3,542 |
 | 72 | Renee Montgomery | 3,533 |
 | 73 | Jasmine Thomas | 3,522 |
@@ -516,7 +516,7 @@ _Last updated: 2026-07-22 19:38 UTC_
 | 84 | **Ariel Atkins** 🔴 +1 | 683 |
 | 85 | Emma Meesseman | 681 |
 | 86 | Nykesha Sales | 677 |
-| 87 | **Natisha Hiedeman** 🔴 +1 | 669 |
+| 87 | **Natisha Hiedeman** 🔴 +2 | 670 |
 | 88 | A'ja Wilson | 667 |
 | 89 | Bria Hartley | 661 |
 | 90 | Brittney Griner | 660 |
@@ -541,7 +541,7 @@ _Last updated: 2026-07-22 19:38 UTC_
 | 109 | Veronica Burton | 579 |
 | 110 | Tan White | 578 |
 | 111 | Matee Ajavon | 577 |
-| 112 | **Napheesa Collier** 🔴 | 570 |
+| 112 | **Napheesa Collier** 🔴 +1 | 571 |
 | 113 | Nicole Powell | 567 |
 | 114 | Loree Moore | 562 |
 | 115 | Sophia Young-Malcolm | 554 |
@@ -1451,8 +1451,8 @@ _Last updated: 2026-07-22 19:38 UTC_
 | 196 | Crystal Robinson | 299 |
 | 197 | Kayla Thornton | 298 |
 | 198 | Michele Timms | 297 |
-| 199 | Damiris Dantas | 289 |
-| 199 | **Nia Coffey** 🔴 | 289 |
+| 199 | **Nia Coffey** 🔴 +1 | 290 |
+| 200 | Damiris Dantas | 289 |
 
 ## Personal fouls
 
