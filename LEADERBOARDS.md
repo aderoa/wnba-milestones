@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-22 21:02 UTC_
+_Last updated: 2026-07-22 21:03 UTC_
 
 ## Contents
 
@@ -41,7 +41,7 @@ _Last updated: 2026-07-22 21:02 UTC_
 | 20 | Becky Hammon | 5,816 |
 | 21 | Angel McCoughtry | 5,797 |
 | 22 | Skylar Diggins | 5,732 |
-| 23 | **Kayla McBride** 🔴 +20 | 5,670 |
+| 23 | Kayla McBride | 5,670 |
 | 24 | DeLisha Milton-Jones | 5,571 |
 | 25 | Katie Douglas | 5,545 |
 | 26 | Lindsay Whalen | 5,511 |
@@ -57,7 +57,7 @@ _Last updated: 2026-07-22 21:02 UTC_
 | 36 | Arike Ogunbowale | 4,715 |
 | 37 | Chamique Holdsclaw | 4,713 |
 | 38 | Elena Delle Donne | 4,706 |
-| 39 | **Natasha Howard** 🔴 +11 | 4,693 |
+| 39 | Natasha Howard | 4,693 |
 | 40 | Chelsea Gray | 4,625 |
 | 41 | Penny Taylor | 4,595 |
 | 42 | Kelsey Plum | 4,494 |
@@ -68,7 +68,7 @@ _Last updated: 2026-07-22 21:02 UTC_
 | 46 | Jia Perkins | 4,433 |
 | 48 | Courtney Vandersloot | 4,362 |
 | 49 | Jonquel Jones | 4,353 |
-| 50 | **Courtney Williams** 🔴 | 4,350 |
+| 50 | Courtney Williams | 4,350 |
 | 51 | **Dearica Hamby** 🔴 +17 | 4,347 |
 | 52 | Sophia Young-Malcolm | 4,300 |
 | 53 | Plenette Pierson | 4,258 |
@@ -87,7 +87,7 @@ _Last updated: 2026-07-22 21:02 UTC_
 | 66 | Kara Lawson | 3,670 |
 | 67 | Mwadi Mabika | 3,576 |
 | 68 | Odyssey Sims | 3,574 |
-| 69 | **Napheesa Collier** 🔴 +24 | 3,566 |
+| 69 | Napheesa Collier | 3,566 |
 | 70 | Camille Smith | 3,551 |
 | 71 | Shannon Johnson | 3,542 |
 | 72 | Renee Montgomery | 3,533 |
@@ -105,7 +105,7 @@ _Last updated: 2026-07-22 21:02 UTC_
 | 84 | Andrea Stinson | 3,351 |
 | 85 | Tanisha Wright | 3,324 |
 | 86 | Marina Mabrey | 3,249 |
-| 87 | **Stefanie Dolson** 🔴 | 3,217 |
+| 87 | Stefanie Dolson | 3,217 |
 | 88 | Margo Dydek | 3,214 |
 | 89 | **Erica Wheeler** 🔴 +5 | 3,200 |
 | 90 | Danielle Robinson | 3,160 |
@@ -180,7 +180,7 @@ _Last updated: 2026-07-22 21:02 UTC_
 | 159 | Coco Miller | 2,030 |
 | 160 | Diamond DeShields | 2,026 |
 | 161 | Vicky Bullett | 2,018 |
-| 162 | **Natisha Hiedeman** 🔴 +12 | 2,014 |
+| 162 | Natisha Hiedeman | 2,014 |
 | 163 | Ezi Magbegor | 1,995 |
 | 164 | Bria Hartley | 1,967 |
 | 165 | Chiney Ogwumike | 1,964 |
@@ -235,7 +235,7 @@ _Last updated: 2026-07-22 21:02 UTC_
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
-| 12 | **Alyssa Thomas** 🔴 +9 | 2,867 |
+| 12 | **Alyssa Thomas** 🔴 +10 | 2,868 |
 | 13 | Jonquel Jones | 2,728 |
 | 14 | A'ja Wilson | 2,657 |
 | 15 | Breanna Stewart | 2,632 |
@@ -249,7 +249,7 @@ _Last updated: 2026-07-22 21:02 UTC_
 | 23 | Lauren Jackson | 2,444 |
 | 24 | Yolanda Griffith | 2,440 |
 | 25 | Tangela Smith | 2,328 |
-| 26 | **Natasha Howard** 🔴 +5 | 2,320 |
+| 26 | Natasha Howard | 2,320 |
 | 27 | Erika de Souza | 2,220 |
 | 28 | Diana Taurasi | 2,201 |
 | 29 | Margo Dydek | 2,138 |
@@ -258,7 +258,7 @@ _Last updated: 2026-07-22 21:02 UTC_
 | 32 | Tammy Sutton-Brown | 2,010 |
 | 33 | Elizabeth Williams | 1,978 |
 | 34 | Cheryl Ford | 1,907 |
-| 35 | **Courtney Williams** 🔴 +5 | 1,848 |
+| 35 | Courtney Williams | 1,848 |
 | 36 | Kiah Stokes | 1,835 |
 | 37 | Plenette Pierson | 1,834 |
 | 38 | Natalie Williams | 1,832 |
@@ -267,7 +267,7 @@ _Last updated: 2026-07-22 21:02 UTC_
 | 41 | Lindsay Whalen | 1,805 |
 | 42 | Camille Smith | 1,802 |
 | 43 | Asjha Jones | 1,751 |
-| 44 | **Stefanie Dolson** 🔴 +2 | 1,705 |
+| 44 | Stefanie Dolson | 1,705 |
 | 45 | Teaira McCowan | 1,694 |
 | 46 | Monique Currie | 1,666 |
 | 47 | Glory Johnson | 1,640 |
@@ -284,7 +284,7 @@ _Last updated: 2026-07-22 21:02 UTC_
 | 58 | Katie Douglas | 1,562 |
 | 59 | Angel McCoughtry | 1,561 |
 | 60 | Penny Taylor | 1,552 |
-| 61 | **Napheesa Collier** 🔴 +10 | 1,520 |
+| 61 | Napheesa Collier | 1,520 |
 | 62 | Cappie Pondexter | 1,513 |
 | 63 | Ticha Penicheiro | 1,485 |
 | 64 | Alysha Clark | 1,469 |
@@ -315,7 +315,7 @@ _Last updated: 2026-07-22 21:02 UTC_
 | 89 | Tari Phillips | 1,274 |
 | 90 | Myisha Hines-Allen | 1,265 |
 | 91 | Janel McCarville | 1,261 |
-| 92 | **Kayla McBride** 🔴 +3 | 1,259 |
+| 92 | Kayla McBride | 1,259 |
 | 93 | Liz Cambage | 1,258 |
 | 94 | Chelsea Gray | 1,257 |
 | 94 | Tiffany Hayes | 1,257 |
@@ -374,7 +374,7 @@ _Last updated: 2026-07-22 21:02 UTC_
 | 148 | Nicky Anosike | 922 |
 | 149 | Janeth Arcain | 916 |
 | 150 | Karima Christmas-Kelly | 908 |
-| 151 | **Nia Coffey** 🔴 +2 | 905 |
+| 151 | Nia Coffey | 905 |
 | 152 | Natalie Achonwa | 895 |
 | 153 | Temeka Johnson | 889 |
 | 154 | Mistie Bass | 888 |
@@ -444,7 +444,7 @@ _Last updated: 2026-07-22 21:02 UTC_
 | 12 | Cappie Pondexter | 1,575 |
 | 13 | Tamika Catchings | 1,484 |
 | 14 | Danielle Robinson | 1,480 |
-| 15 | **Courtney Williams** 🔴 +6 | 1,444 |
+| 15 | Courtney Williams | 1,444 |
 | 16 | Shannon Johnson | 1,423 |
 | 16 | Tanisha Wright | 1,423 |
 | 18 | Temeka Johnson | 1,382 |
@@ -473,7 +473,7 @@ _Last updated: 2026-07-22 21:02 UTC_
 | 41 | Dominique Canty | 1,042 |
 | 42 | Sheryl Swoopes | 1,037 |
 | 43 | Tina Charles | 1,033 |
-| 44 | **Kayla McBride** 🔴 +2 | 994 |
+| 44 | Kayla McBride | 994 |
 | 45 | Nikki Teasley | 982 |
 | 46 | Breanna Stewart | 981 |
 | 47 | Tamecka Dixon | 960 |
@@ -508,7 +508,7 @@ _Last updated: 2026-07-22 21:02 UTC_
 | 76 | Monique Currie | 740 |
 | 77 | **Dearica Hamby** 🔴 +4 | 730 |
 | 78 | Elaine Powell | 728 |
-| 79 | **Stefanie Dolson** 🔴 +1 | 708 |
+| 79 | Stefanie Dolson | 708 |
 | 80 | Chamique Holdsclaw | 698 |
 | 81 | Shavonte Zellous | 693 |
 | 82 | Allie Quigley | 690 |
@@ -516,7 +516,7 @@ _Last updated: 2026-07-22 21:02 UTC_
 | 84 | **Ariel Atkins** 🔴 +2 | 684 |
 | 85 | Emma Meesseman | 681 |
 | 86 | Nykesha Sales | 677 |
-| 87 | **Natisha Hiedeman** 🔴 +3 | 671 |
+| 87 | Natisha Hiedeman | 671 |
 | 88 | A'ja Wilson | 667 |
 | 89 | Bria Hartley | 661 |
 | 90 | Brittney Griner | 660 |
@@ -529,7 +529,7 @@ _Last updated: 2026-07-22 21:02 UTC_
 | 97 | Jennifer Azzi | 636 |
 | 98 | **Sami Whitcomb** 🔴 +1 | 624 |
 | 99 | Alysha Clark | 619 |
-| 100 | **Natasha Howard** 🔴 +3 | 618 |
+| 100 | Natasha Howard | 618 |
 | 101 | Debbie Black | 612 |
 | 102 | Cynthia Cooper | 602 |
 | 103 | Sancho Lyttle | 592 |
@@ -541,7 +541,7 @@ _Last updated: 2026-07-22 21:02 UTC_
 | 109 | Veronica Burton | 579 |
 | 110 | Tan White | 578 |
 | 111 | Matee Ajavon | 577 |
-| 112 | **Napheesa Collier** 🔴 +1 | 571 |
+| 112 | Napheesa Collier | 571 |
 | 113 | Nicole Powell | 567 |
 | 114 | Loree Moore | 562 |
 | 115 | Sophia Young-Malcolm | 554 |
@@ -653,7 +653,7 @@ _Last updated: 2026-07-22 21:02 UTC_
 | 16 | Michelle Snow | 403 |
 | 17 | Tamika Catchings | 383 |
 | 18 | Tina Thompson | 372 |
-| 19 | **Natasha Howard** 🔴 +1 | 371 |
+| 19 | Natasha Howard | 371 |
 | 20 | Erika de Souza | 370 |
 | 21 | Jessica Breland | 367 |
 | 22 | **DeWanna Bonner** 🔴 | 358 |
@@ -664,7 +664,7 @@ _Last updated: 2026-07-22 21:02 UTC_
 | 27 | DeLisha Milton-Jones | 339 |
 | 28 | Yolanda Griffith | 323 |
 | 29 | Elena Baranova | 320 |
-| 30 | **Stefanie Dolson** 🔴 | 317 |
+| 30 | Stefanie Dolson | 317 |
 | 31 | Candice Dupree | 316 |
 | 32 | Vicky Bullett | 288 |
 | 33 | Rebekkah Brunson | 281 |
@@ -673,7 +673,7 @@ _Last updated: 2026-07-22 21:02 UTC_
 | 36 | Cheyenne Parker-Tyus | 261 |
 | 37 | Swin Cash | 258 |
 | 38 | Plenette Pierson | 242 |
-| 39 | **Napheesa Collier** 🔴 | 239 |
+| 39 | Napheesa Collier | 239 |
 | 40 | Emma Meesseman | 238 |
 | 41 | Azurá Stevens | 236 |
 | 42 | Brianna Turner | 234 |
@@ -697,7 +697,7 @@ _Last updated: 2026-07-22 21:02 UTC_
 | 60 | Kelly Schumacher | 183 |
 | 61 | Maria Stepanova | 182 |
 | 62 | Courtney Paris | 178 |
-| 63 | **Nia Coffey** 🔴 | 177 |
+| 63 | Nia Coffey | 177 |
 | 63 | Vanessa Hayden | 177 |
 | 65 | Maya Moore | 176 |
 | 66 | Kia Vaughn | 175 |
@@ -753,7 +753,7 @@ _Last updated: 2026-07-22 21:02 UTC_
 | 114 | Rhyne Howard | 111 |
 | 114 | Sophia Young-Malcolm | 111 |
 | 114 | Tari Phillips | 111 |
-| 119 | **Courtney Williams** 🔴 | 109 |
+| 119 | Courtney Williams | 109 |
 | 120 | **Dearica Hamby** 🔴 +2 | 108 |
 | 120 | Erin Perperoglou | 108 |
 | 120 | Glory Johnson | 108 |
@@ -870,7 +870,7 @@ _Last updated: 2026-07-22 21:02 UTC_
 | 25 | Becky Hammon | 485 |
 | 26 | Penny Taylor | 479 |
 | 27 | Sophia Young-Malcolm | 477 |
-| 28 | **Natasha Howard** 🔴 +3 | 470 |
+| 28 | Natasha Howard | 470 |
 | 29 | Skylar Diggins | 463 |
 | 29 | Teresa Weatherspoon | 463 |
 | 31 | Jewell Loyd | 458 |
@@ -878,7 +878,7 @@ _Last updated: 2026-07-22 21:02 UTC_
 | 33 | Rebekkah Brunson | 456 |
 | 34 | Tangela Smith | 455 |
 | 35 | Tina Thompson | 452 |
-| 36 | **Kayla McBride** 🔴 +3 | 449 |
+| 36 | Kayla McBride | 449 |
 | 36 | Maya Moore | 449 |
 | 38 | Sheri Sam | 438 |
 | 39 | Camille Smith | 437 |
@@ -924,12 +924,12 @@ _Last updated: 2026-07-22 21:02 UTC_
 | 79 | Odyssey Sims | 334 |
 | 80 | Marie Ferdinand-Harris | 331 |
 | 81 | Chasity Melvin | 330 |
-| 81 | **Courtney Williams** 🔴 +1 | 330 |
+| 81 | Courtney Williams | 330 |
 | 81 | Leilani Mitchell | 330 |
 | 84 | Kristi Toliver | 329 |
 | 85 | Matee Ajavon | 328 |
 | 86 | Gabby Williams | 326 |
-| 86 | **Napheesa Collier** 🔴 +1 | 326 |
+| 86 | Napheesa Collier | 326 |
 | 88 | Betty Lennox | 323 |
 | 89 | Tammy Sutton-Brown | 319 |
 | 90 | Alysha Clark | 317 |
@@ -1008,7 +1008,7 @@ _Last updated: 2026-07-22 21:02 UTC_
 | 163 | Kia Vaughn | 208 |
 | 163 | Sophia Witherspoon | 208 |
 | 165 | Betnijah Laney-Hamilton | 207 |
-| 166 | **Natisha Hiedeman** 🔴 +2 | 206 |
+| 166 | Natisha Hiedeman | 206 |
 | 167 | Shameka Christon | 205 |
 | 168 | Jessica Breland | 204 |
 | 168 | Murriel Page | 204 |
@@ -1052,7 +1052,7 @@ _Last updated: 2026-07-22 21:02 UTC_
 | 2 | Sue Bird | 1,001 |
 | 3 | Katie Smith | 906 |
 | 4 | Becky Hammon | 825 |
-| 5 | **Kayla McBride** 🔴 +3 | 759 |
+| 5 | Kayla McBride | 759 |
 | 6 | Tina Thompson | 745 |
 | 7 | Katie Douglas | 723 |
 | 8 | Kelsey Mitchell | 712 |
@@ -1110,7 +1110,7 @@ _Last updated: 2026-07-22 21:02 UTC_
 | 60 | **Erica Wheeler** 🔴 | 337 |
 | 61 | Anna DeForge | 334 |
 | 61 | Sophie Cunningham | 334 |
-| 63 | **Natisha Hiedeman** 🔴 +1 | 329 |
+| 63 | Natisha Hiedeman | 329 |
 | 64 | Sugar Rodgers | 317 |
 | 65 | Marissa Coleman | 315 |
 | 66 | Shannon Johnson | 313 |
@@ -1128,8 +1128,8 @@ _Last updated: 2026-07-22 21:02 UTC_
 | 77 | Tully Bevilaqua | 290 |
 | 79 | Alana Beard | 288 |
 | 80 | Monique Currie | 284 |
-| 81 | **Stefanie Dolson** 🔴 | 278 |
-| 82 | **Courtney Williams** 🔴 | 277 |
+| 81 | Stefanie Dolson | 278 |
+| 82 | Courtney Williams | 277 |
 | 83 | Iziane Castro Marques | 275 |
 | 84 | Sheryl Swoopes | 270 |
 | 85 | Sophia Witherspoon | 260 |
@@ -1158,13 +1158,13 @@ _Last updated: 2026-07-22 21:02 UTC_
 | 108 | Betnijah Laney-Hamilton | 206 |
 | 109 | Lexie Brown | 203 |
 | 110 | Shanna Zolman | 199 |
-| 111 | **Nia Coffey** 🔴 +1 | 197 |
+| 111 | Nia Coffey | 197 |
 | 111 | Temeka Johnson | 197 |
 | 111 | Tina Charles | 197 |
 | 114 | Caitlin Clark | 195 |
 | 115 | Lindsay Whalen | 193 |
 | 116 | Victoria Vivians | 192 |
-| 117 | **Napheesa Collier** 🔴 +2 | 190 |
+| 117 | Napheesa Collier | 190 |
 | 118 | Danielle Adams | 188 |
 | 119 | Noelle Quinn | 184 |
 | 120 | Marine Johannès | 183 |
@@ -1188,12 +1188,12 @@ _Last updated: 2026-07-22 21:02 UTC_
 | 136 | Stephanie Talbot | 160 |
 | 139 | Aari McDonald | 158 |
 | 139 | Jennifer Azzi | 158 |
-| 139 | **Natasha Howard** 🔴 | 158 |
+| 139 | Natasha Howard | 158 |
 | 142 | Alanna Smith | 156 |
 | 143 | Bridget Pettis | 153 |
 | 143 | Gabby Williams | 153 |
 | 143 | Jennifer Gillom | 153 |
-| 143 | **Katie Lou Samuelson** 🔴 | 153 |
+| 143 | Katie Lou Samuelson | 153 |
 | 147 | Michaela Onyenwere | 151 |
 | 148 | Rita Williams | 150 |
 | 149 | Moriah Jefferson | 149 |
@@ -1278,7 +1278,7 @@ _Last updated: 2026-07-22 21:02 UTC_
 | 23 | Taj McWilliams-Franklin | 898 |
 | 24 | Candice Dupree | 869 |
 | 25 | Alana Beard | 854 |
-| 26 | **Natasha Howard** 🔴 +2 | 845 |
+| 26 | Natasha Howard | 845 |
 | 27 | **DeWanna Bonner** 🔴 | 840 |
 | 28 | Katie Douglas | 824 |
 | 29 | **Nneka Ogwumike** 🔴 +3 | 806 |
@@ -1307,7 +1307,7 @@ _Last updated: 2026-07-22 21:02 UTC_
 | 52 | DeMya Walker | 684 |
 | 53 | Asjha Jones | 682 |
 | 54 | Danielle Robinson | 680 |
-| 55 | **Courtney Williams** 🔴 +2 | 677 |
+| 55 | Courtney Williams | 677 |
 | 55 | Sheryl Swoopes | 677 |
 | 57 | Tammy Sutton-Brown | 672 |
 | 58 | Deanna Nolan | 669 |
@@ -1315,7 +1315,7 @@ _Last updated: 2026-07-22 21:02 UTC_
 | 60 | Vickie Johnson | 660 |
 | 61 | Yolanda Griffith | 653 |
 | 62 | Sheri Sam | 650 |
-| 63 | **Kayla McBride** 🔴 | 648 |
+| 63 | Kayla McBride | 648 |
 | 63 | Kelsey Plum | 648 |
 | 65 | Dawn Staley | 643 |
 | 66 | Jonquel Jones | 641 |
@@ -1330,7 +1330,7 @@ _Last updated: 2026-07-22 21:02 UTC_
 | 75 | Lindsey Harding | 600 |
 | 75 | Tamika Whitmore | 600 |
 | 77 | Kelly Miller | 596 |
-| 78 | **Stefanie Dolson** 🔴 | 594 |
+| 78 | Stefanie Dolson | 594 |
 | 79 | Brittney Sykes | 591 |
 | 80 | Breanna Stewart | 586 |
 | 81 | Kelsey Mitchell | 585 |
@@ -1389,7 +1389,7 @@ _Last updated: 2026-07-22 21:02 UTC_
 | 134 | Jennifer Gillom | 434 |
 | 134 | Nicole Ohlde | 434 |
 | 136 | Murriel Page | 432 |
-| 137 | **Napheesa Collier** 🔴 +2 | 424 |
+| 137 | Napheesa Collier | 424 |
 | 137 | Shameka Christon | 424 |
 | 139 | Cynthia Cooper | 422 |
 | 139 | Noelle Quinn | 422 |
@@ -1436,7 +1436,7 @@ _Last updated: 2026-07-22 21:02 UTC_
 | 181 | Le'coe Willingham | 325 |
 | 182 | Olympia Scott | 324 |
 | 183 | Kia Nurse | 320 |
-| 184 | **Natisha Hiedeman** 🔴 +4 | 316 |
+| 184 | Natisha Hiedeman | 316 |
 | 185 | Barbara Farris | 315 |
 | 186 | Monique Billings | 314 |
 | 186 | Moriah Jefferson | 314 |
@@ -1451,7 +1451,7 @@ _Last updated: 2026-07-22 21:02 UTC_
 | 196 | Crystal Robinson | 299 |
 | 197 | Kayla Thornton | 298 |
 | 198 | Michele Timms | 297 |
-| 199 | **Nia Coffey** 🔴 +1 | 290 |
+| 199 | Nia Coffey | 290 |
 | 200 | Damiris Dantas | 289 |
 
 ## Personal fouls
@@ -1470,13 +1470,13 @@ _Last updated: 2026-07-22 21:02 UTC_
 | 10 | Plenette Pierson | 1,175 |
 | 11 | Chasity Melvin | 1,165 |
 | 12 | Camille Smith | 1,159 |
-| 12 | **Natasha Howard** 🔴 +1 | 1,159 |
+| 12 | Natasha Howard | 1,159 |
 | 12 | **Nneka Ogwumike** 🔴 +3 | 1,159 |
 | 15 | Alana Beard | 1,153 |
 | 16 | Swin Cash | 1,146 |
 | 17 | Taj McWilliams-Franklin | 1,145 |
 | 18 | Monique Currie | 1,137 |
-| 19 | **Stefanie Dolson** 🔴 | 1,133 |
+| 19 | Stefanie Dolson | 1,133 |
 | 20 | Tanisha Wright | 1,109 |
 | 21 | Michelle Snow | 1,108 |
 | 22 | Sylvia Fowles | 1,049 |
@@ -1584,7 +1584,7 @@ _Last updated: 2026-07-22 21:02 UTC_
 | 124 | Janel McCarville | 597 |
 | 125 | Kamila Vodichkova | 596 |
 | 126 | Teresa Weatherspoon | 589 |
-| 127 | **Courtney Williams** 🔴 +5 | 588 |
+| 127 | Courtney Williams | 588 |
 | 128 | Emma Meesseman | 585 |
 | 129 | Chiney Ogwumike | 580 |
 | 129 | Hamchetou Maiga-Ba | 580 |
@@ -1603,7 +1603,7 @@ _Last updated: 2026-07-22 21:02 UTC_
 | 143 | Jackie Young | 548 |
 | 144 | Erlana Larkins | 546 |
 | 144 | Monique Billings | 546 |
-| 146 | **Kayla McBride** 🔴 +1 | 544 |
+| 146 | Kayla McBride | 544 |
 | 147 | Jayne Appel Marinelli | 543 |
 | 147 | Renee Montgomery | 543 |
 | 149 | Marissa Coleman | 541 |
@@ -1629,13 +1629,13 @@ _Last updated: 2026-07-22 21:02 UTC_
 | 167 | Shekinna Stricklen | 505 |
 | 170 | Allison Feaster | 504 |
 | 170 | Erin Perperoglou | 504 |
-| 170 | **Napheesa Collier** 🔴 | 504 |
+| 170 | Napheesa Collier | 504 |
 | 173 | Iziane Castro Marques | 502 |
 | 174 | Elena Baranova | 501 |
 | 175 | Adrian Williams-Strong | 497 |
 | 175 | Essence Carson | 497 |
 | 175 | Rachel Banham | 497 |
-| 178 | **Nia Coffey** 🔴 +1 | 496 |
+| 178 | Nia Coffey | 496 |
 | 179 | Azurá Stevens | 495 |
 | 180 | Karima Christmas-Kelly | 494 |
 | 181 | Ann Wauters | 493 |
