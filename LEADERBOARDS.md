@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-22 23:36 UTC_
+_Last updated: 2026-07-22 23:37 UTC_
 
 ## Contents
 
@@ -237,7 +237,7 @@ _Last updated: 2026-07-22 23:36 UTC_
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | Alyssa Thomas | 2,869 |
 | 13 | **Jonquel Jones** 🔴 +5 | 2,733 |
-| 14 | **A'ja Wilson** 🔴 | 2,657 |
+| 14 | **A'ja Wilson** 🔴 +1 | 2,658 |
 | 15 | **Breanna Stewart** 🔴 +5 | 2,637 |
 | 16 | Sancho Lyttle | 2,596 |
 | 17 | Brittney Griner | 2,579 |
@@ -385,8 +385,8 @@ _Last updated: 2026-07-22 23:36 UTC_
 | 159 | Krystal Thomas | 862 |
 | 160 | Naz Hillmon | 859 |
 | 161 | Leilani Mitchell | 845 |
-| 162 | Essence Carson | 833 |
-| 163 | **Shakira Austin** 🔴 | 832 |
+| 162 | **Shakira Austin** 🔴 +3 | 835 |
+| 163 | Essence Carson | 833 |
 | 164 | Gabby Williams | 831 |
 | 165 | Kristi Toliver | 829 |
 | 166 | Marie Ferdinand-Harris | 828 |
@@ -768,9 +768,9 @@ _Last updated: 2026-07-22 23:36 UTC_
 | 131 | Chante Black | 100 |
 | 131 | Danielle Adams | 100 |
 | 131 | Nicole Powell | 100 |
-| 134 | **NaLyssa Smith** 🔴 +1 | 99 |
-| 135 | Mwadi Mabika | 98 |
-| 135 | Natalie Achonwa | 98 |
+| 134 | Mwadi Mabika | 98 |
+| 134 | **NaLyssa Smith** 🔴 | 98 |
+| 134 | Natalie Achonwa | 98 |
 | 137 | Aneika Morello | 96 |
 | 137 | Tiffani Johnson | 96 |
 | 139 | Imani McGee-Stafford | 95 |
