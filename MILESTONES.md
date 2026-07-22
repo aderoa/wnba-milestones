@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-22 20:55 UTC
+
+- **DeWanna Bonner** reached **1,200** career assists (now 1,200) — _4:28 - 4th — PHX @ LA_
+
 ## 2026-07-22 20:49 UTC
 
 - **Natasha Mack** passed **Kamilla Cardoso** for **#103** all-time in blocks (career 125) — up from #104 entering today — _6:57 - 4th — PHX @ LA_

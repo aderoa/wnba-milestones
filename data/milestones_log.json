@@ -1,5 +1,14 @@
 [
   {
+    "ts": "2026-07-22T20:55:00+00:00",
+    "text": "DeWanna Bonner reached 1,200 career assists (now 1,200) \u2014 (4:28 - 4th \u2014 PHX @ LA)",
+    "kind": "round",
+    "player": "DeWanna Bonner",
+    "stat": "assists",
+    "value": 1200,
+    "new_total": 1200
+  },
+  {
     "ts": "2026-07-22T20:49:00+00:00",
     "text": "Natasha Mack passed Kamilla Cardoso for #103 all-time in blocks (career 125) \u2014 up from #104 entering today \u2014 (6:57 - 4th \u2014 PHX @ LA)",
     "kind": "rank_pass",
@@ -2993,17 +3002,5 @@
       "Crystal Robinson"
     ],
     "new_total": 683
-  },
-  {
-    "ts": "2026-06-28T23:08:00+00:00",
-    "text": "Jonquel Jones passed Ticha Penicheiro for #41 all-time in fouls (career 914) \u2014 (7:25 - 1st \u2014 NY @ GS)",
-    "kind": "rank_pass",
-    "player": "Jonquel Jones",
-    "stat": "fouls",
-    "rank": 41,
-    "passed_players": [
-      "Ticha Penicheiro"
-    ],
-    "new_total": 914
   }
 ]

@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-22 20:54 UTC_
+_Last updated: 2026-07-22 20:55 UTC_
 
 ## Contents
 
@@ -87,7 +87,7 @@ _Last updated: 2026-07-22 20:54 UTC_
 | 66 | Kara Lawson | 3,670 |
 | 67 | Mwadi Mabika | 3,576 |
 | 68 | Odyssey Sims | 3,574 |
-| 69 | **Napheesa Collier** 🔴 +20 | 3,562 |
+| 69 | **Napheesa Collier** 🔴 +22 | 3,564 |
 | 70 | Camille Smith | 3,551 |
 | 71 | Shannon Johnson | 3,542 |
 | 72 | Renee Montgomery | 3,533 |
@@ -227,7 +227,7 @@ _Last updated: 2026-07-22 20:54 UTC_
 | 1 | Tina Charles | 4,262 |
 | 2 | Sylvia Fowles | 4,005 |
 | 3 | Candace Parker | 3,467 |
-| 4 | **Nneka Ogwumike** 🔴 +11 | 3,417 |
+| 4 | **Nneka Ogwumike** 🔴 +12 | 3,418 |
 | 5 | Rebekkah Brunson | 3,345 |
 | 6 | Tamika Catchings | 3,313 |
 | 7 | Lisa Leslie | 3,303 |
@@ -284,7 +284,7 @@ _Last updated: 2026-07-22 20:54 UTC_
 | 58 | Katie Douglas | 1,562 |
 | 59 | Angel McCoughtry | 1,561 |
 | 60 | Penny Taylor | 1,552 |
-| 61 | **Napheesa Collier** 🔴 +8 | 1,518 |
+| 61 | **Napheesa Collier** 🔴 +9 | 1,519 |
 | 62 | Cappie Pondexter | 1,513 |
 | 63 | Ticha Penicheiro | 1,485 |
 | 64 | Alysha Clark | 1,469 |
@@ -459,7 +459,7 @@ _Last updated: 2026-07-22 20:54 UTC_
 | 27 | Katie Smith | 1,258 |
 | 28 | Odyssey Sims | 1,228 |
 | 29 | Vickie Johnson | 1,202 |
-| 30 | **DeWanna Bonner** 🔴 +3 | 1,199 |
+| 30 | **DeWanna Bonner** 🔴 +4 | 1,200 |
 | 31 | Leilani Mitchell | 1,197 |
 | 32 | Jewell Loyd | 1,156 |
 | 33 | Jackie Young | 1,150 |
@@ -1008,8 +1008,8 @@ _Last updated: 2026-07-22 20:54 UTC_
 | 163 | Kia Vaughn | 208 |
 | 163 | Sophia Witherspoon | 208 |
 | 165 | Betnijah Laney-Hamilton | 207 |
-| 166 | **Natisha Hiedeman** 🔴 +1 | 205 |
-| 166 | Shameka Christon | 205 |
+| 166 | **Natisha Hiedeman** 🔴 +2 | 206 |
+| 167 | Shameka Christon | 205 |
 | 168 | Jessica Breland | 204 |
 | 168 | Murriel Page | 204 |
 | 168 | Shatori Walker-Kimbrough | 204 |
@@ -1389,8 +1389,8 @@ _Last updated: 2026-07-22 20:54 UTC_
 | 134 | Jennifer Gillom | 434 |
 | 134 | Nicole Ohlde | 434 |
 | 136 | Murriel Page | 432 |
+| 137 | **Napheesa Collier** 🔴 +2 | 424 |
 | 137 | Shameka Christon | 424 |
-| 138 | **Napheesa Collier** 🔴 +1 | 423 |
 | 139 | Cynthia Cooper | 422 |
 | 139 | Noelle Quinn | 422 |
 | 141 | Bria Hartley | 419 |
@@ -1646,7 +1646,7 @@ _Last updated: 2026-07-22 20:54 UTC_
 | 185 | Kia Nurse | 484 |
 | 187 | Liz Cambage | 483 |
 | 187 | Rhonda Mapp | 483 |
-| 189 | **Sami Whitcomb** 🔴 +2 | 482 |
+| 187 | **Sami Whitcomb** 🔴 +3 | 483 |
 | 190 | Alanna Smith | 479 |
 | 191 | Seimone Augustus | 477 |
 | 192 | Allie Quigley | 475 |
