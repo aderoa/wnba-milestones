@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-22 23:47 UTC_
+_Last updated: 2026-07-22 23:48 UTC_
 
 ## Contents
 
@@ -110,7 +110,7 @@ _Last updated: 2026-07-22 23:47 UTC_
 | 89 | Erica Wheeler | 3,200 |
 | 90 | Danielle Robinson | 3,160 |
 | 91 | Wendy Palmer | 3,135 |
-| 92 | **Sabrina Ionescu** 🔴 +9 | 3,106 |
+| 92 | **Sabrina Ionescu** 🔴 +12 | 3,109 |
 | 93 | Shavonte Zellous | 3,103 |
 | 94 | Briann January | 3,082 |
 | 95 | Erika de Souza | 3,046 |
@@ -319,7 +319,7 @@ _Last updated: 2026-07-22 23:47 UTC_
 | 93 | Liz Cambage | 1,258 |
 | 94 | **Chelsea Gray** 🔴 | 1,257 |
 | 94 | Tiffany Hayes | 1,257 |
-| 96 | Brianna Turner | 1,243 |
+| 96 | **Brianna Turner** 🔴 | 1,243 |
 | 96 | Ezi Magbegor | 1,243 |
 | 98 | Seimone Augustus | 1,228 |
 | 99 | Jia Perkins | 1,220 |
@@ -606,7 +606,7 @@ _Last updated: 2026-07-22 23:47 UTC_
 | 174 | Tamicha Jackson | 389 |
 | 176 | Riquna Williams | 387 |
 | 177 | Bridget Carleton | 384 |
-| 178 | Dana Evans | 379 |
+| 178 | **Dana Evans** 🔴 | 379 |
 | 179 | Jessica Breland | 377 |
 | 180 | Shenise Johnson | 376 |
 | 181 | Alanna Smith | 374 |
@@ -675,7 +675,7 @@ _Last updated: 2026-07-22 23:47 UTC_
 | 39 | Napheesa Collier | 239 |
 | 40 | **Azurá Stevens** 🔴 +2 | 238 |
 | 40 | Emma Meesseman | 238 |
-| 42 | Brianna Turner | 234 |
+| 42 | **Brianna Turner** 🔴 | 234 |
 | 43 | Skylar Diggins | 231 |
 | 44 | Chasity Melvin | 228 |
 | 45 | Alanna Smith | 225 |
@@ -1070,7 +1070,7 @@ _Last updated: 2026-07-22 23:47 UTC_
 | 21 | Allie Quigley | 510 |
 | 22 | Leilani Mitchell | 508 |
 | 23 | Marina Mabrey | 500 |
-| 24 | **Sabrina Ionescu** 🔴 +1 | 469 |
+| 24 | **Sabrina Ionescu** 🔴 +2 | 470 |
 | 25 | Shekinna Stricklen | 468 |
 | 26 | **Breanna Stewart** 🔴 +2 | 467 |
 | 27 | Cappie Pondexter | 464 |
@@ -1182,7 +1182,7 @@ _Last updated: 2026-07-22 23:47 UTC_
 | 133 | Tyasha Harris | 162 |
 | 133 | Ukari Figgs | 162 |
 | 135 | Edna Campbell | 161 |
-| 136 | Dana Evans | 160 |
+| 136 | **Dana Evans** 🔴 | 160 |
 | 136 | Jennifer Lacy | 160 |
 | 136 | **Stephanie Talbot** 🔴 | 160 |
 | 139 | Aari McDonald | 158 |
@@ -1596,7 +1596,7 @@ _Last updated: 2026-07-22 23:47 UTC_
 | 136 | Ivory Latta | 565 |
 | 137 | Barbara Farris | 563 |
 | 138 | Jessica Breland | 562 |
-| 139 | **A'ja Wilson** 🔴 | 554 |
+| 139 | **A'ja Wilson** 🔴 +1 | 555 |
 | 140 | Dawn Staley | 551 |
 | 141 | Glory Johnson | 550 |
 | 141 | Tierra Ruffin-Pratt | 550 |
