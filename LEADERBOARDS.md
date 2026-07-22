@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-22 19:45 UTC_
+_Last updated: 2026-07-22 19:46 UTC_
 
 ## Contents
 
@@ -52,7 +52,7 @@ _Last updated: 2026-07-22 19:45 UTC_
 | 31 | Taj McWilliams-Franklin | 4,992 |
 | 32 | Maya Moore | 4,984 |
 | 33 | Sheryl Swoopes | 4,875 |
-| 34 | **Alyssa Thomas** 🔴 +6 | 4,758 |
+| 34 | **Alyssa Thomas** 🔴 +8 | 4,760 |
 | 35 | Alana Beard | 4,740 |
 | 36 | Arike Ogunbowale | 4,715 |
 | 37 | Chamique Holdsclaw | 4,713 |
@@ -1281,7 +1281,7 @@ _Last updated: 2026-07-22 19:45 UTC_
 | 26 | **Natasha Howard** 🔴 | 843 |
 | 27 | **DeWanna Bonner** 🔴 | 840 |
 | 28 | Katie Douglas | 824 |
-| 29 | **Nneka Ogwumike** 🔴 +1 | 804 |
+| 29 | **Nneka Ogwumike** 🔴 +2 | 805 |
 | 30 | Betty Lennox | 800 |
 | 31 | Jasmine Thomas | 796 |
 | 32 | Jewell Loyd | 795 |
@@ -1470,8 +1470,8 @@ _Last updated: 2026-07-22 19:45 UTC_
 | 10 | Plenette Pierson | 1,175 |
 | 11 | Chasity Melvin | 1,165 |
 | 12 | Camille Smith | 1,159 |
-| 13 | **Natasha Howard** 🔴 | 1,158 |
-| 13 | **Nneka Ogwumike** 🔴 +2 | 1,158 |
+| 12 | **Nneka Ogwumike** 🔴 +3 | 1,159 |
+| 14 | **Natasha Howard** 🔴 | 1,158 |
 | 15 | Alana Beard | 1,153 |
 | 16 | Swin Cash | 1,146 |
 | 17 | Taj McWilliams-Franklin | 1,145 |
