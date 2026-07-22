@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-22 19:29 UTC_
+_Last updated: 2026-07-22 19:30 UTC_
 
 ## Contents
 
@@ -63,7 +63,7 @@ _Last updated: 2026-07-22 19:29 UTC_
 | 42 | Kelsey Plum | 4,494 |
 | 43 | Allisha Gray | 4,491 |
 | 44 | Kristi Toliver | 4,474 |
-| 45 | **Kahleah Copper** 🔴 +6 | 4,443 |
+| 45 | **Kahleah Copper** 🔴 +8 | 4,445 |
 | 46 | Crystal Langhorne | 4,433 |
 | 46 | Jia Perkins | 4,433 |
 | 48 | Courtney Vandersloot | 4,362 |
@@ -267,7 +267,7 @@ _Last updated: 2026-07-22 19:29 UTC_
 | 41 | Lindsay Whalen | 1,805 |
 | 42 | Camille Smith | 1,802 |
 | 43 | Asjha Jones | 1,751 |
-| 44 | **Stefanie Dolson** 🔴 | 1,703 |
+| 44 | **Stefanie Dolson** 🔴 +1 | 1,704 |
 | 45 | Teaira McCowan | 1,694 |
 | 46 | Monique Currie | 1,666 |
 | 47 | Glory Johnson | 1,640 |
@@ -754,9 +754,9 @@ _Last updated: 2026-07-22 19:29 UTC_
 | 114 | Sophia Young-Malcolm | 111 |
 | 114 | Tari Phillips | 111 |
 | 119 | **Courtney Williams** 🔴 | 109 |
+| 120 | **Dearica Hamby** 🔴 +2 | 108 |
 | 120 | Erin Perperoglou | 108 |
 | 120 | Glory Johnson | 108 |
-| 122 | **Dearica Hamby** 🔴 +1 | 107 |
 | 123 | Sylvia Crawley | 106 |
 | 124 | Carolyn Swords | 104 |
 | 124 | Rebecca Lobo | 104 |
@@ -1302,8 +1302,8 @@ _Last updated: 2026-07-22 19:29 UTC_
 | 47 | Renee Montgomery | 697 |
 | 48 | Temeka Johnson | 696 |
 | 49 | Penny Taylor | 695 |
-| 50 | **Dearica Hamby** 🔴 +1 | 685 |
-| 50 | Dominique Canty | 685 |
+| 50 | **Dearica Hamby** 🔴 +2 | 686 |
+| 51 | Dominique Canty | 685 |
 | 52 | DeMya Walker | 684 |
 | 53 | Asjha Jones | 682 |
 | 54 | Danielle Robinson | 680 |
