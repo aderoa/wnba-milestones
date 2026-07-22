@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-22 19:19 UTC_
+_Last updated: 2026-07-22 19:20 UTC_
 
 ## Contents
 
@@ -105,7 +105,7 @@ _Last updated: 2026-07-22 19:19 UTC_
 | 84 | Andrea Stinson | 3,351 |
 | 85 | Tanisha Wright | 3,324 |
 | 86 | Marina Mabrey | 3,249 |
-| 87 | Stefanie Dolson | 3,217 |
+| 87 | **Stefanie Dolson** 🔴 | 3,217 |
 | 88 | Margo Dydek | 3,214 |
 | 89 | **Erica Wheeler** 🔴 | 3,195 |
 | 90 | Danielle Robinson | 3,160 |
@@ -180,7 +180,7 @@ _Last updated: 2026-07-22 19:19 UTC_
 | 159 | Coco Miller | 2,030 |
 | 160 | Diamond DeShields | 2,026 |
 | 161 | Vicky Bullett | 2,018 |
-| 162 | **Natisha Hiedeman** 🔴 +8 | 2,010 |
+| 162 | **Natisha Hiedeman** 🔴 +9 | 2,011 |
 | 163 | Ezi Magbegor | 1,995 |
 | 164 | Bria Hartley | 1,967 |
 | 165 | Chiney Ogwumike | 1,964 |
@@ -235,7 +235,7 @@ _Last updated: 2026-07-22 19:19 UTC_
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
-| 12 | **Alyssa Thomas** 🔴 +5 | 2,863 |
+| 12 | **Alyssa Thomas** 🔴 +6 | 2,864 |
 | 13 | Jonquel Jones | 2,728 |
 | 14 | A'ja Wilson | 2,657 |
 | 15 | Breanna Stewart | 2,632 |
@@ -267,7 +267,7 @@ _Last updated: 2026-07-22 19:19 UTC_
 | 41 | Lindsay Whalen | 1,805 |
 | 42 | Camille Smith | 1,802 |
 | 43 | Asjha Jones | 1,751 |
-| 44 | Stefanie Dolson | 1,703 |
+| 44 | **Stefanie Dolson** 🔴 | 1,703 |
 | 45 | Teaira McCowan | 1,694 |
 | 46 | Monique Currie | 1,666 |
 | 47 | Glory Johnson | 1,640 |
@@ -285,7 +285,7 @@ _Last updated: 2026-07-22 19:19 UTC_
 | 59 | Angel McCoughtry | 1,561 |
 | 60 | Penny Taylor | 1,552 |
 | 61 | Cappie Pondexter | 1,513 |
-| 62 | **Napheesa Collier** 🔴 +1 | 1,511 |
+| 62 | **Napheesa Collier** 🔴 +2 | 1,512 |
 | 63 | Ticha Penicheiro | 1,485 |
 | 64 | Alysha Clark | 1,469 |
 | 65 | Sue Bird | 1,466 |
@@ -508,7 +508,7 @@ _Last updated: 2026-07-22 19:19 UTC_
 | 76 | Monique Currie | 740 |
 | 77 | Elaine Powell | 728 |
 | 78 | **Dearica Hamby** 🔴 +1 | 727 |
-| 79 | Stefanie Dolson | 707 |
+| 79 | **Stefanie Dolson** 🔴 | 707 |
 | 80 | Chamique Holdsclaw | 698 |
 | 81 | Shavonte Zellous | 693 |
 | 82 | Allie Quigley | 690 |
@@ -664,7 +664,7 @@ _Last updated: 2026-07-22 19:19 UTC_
 | 27 | DeLisha Milton-Jones | 339 |
 | 28 | Yolanda Griffith | 323 |
 | 29 | Elena Baranova | 320 |
-| 30 | Stefanie Dolson | 317 |
+| 30 | **Stefanie Dolson** 🔴 | 317 |
 | 31 | Candice Dupree | 316 |
 | 32 | Vicky Bullett | 288 |
 | 33 | Rebekkah Brunson | 281 |
@@ -1128,7 +1128,7 @@ _Last updated: 2026-07-22 19:19 UTC_
 | 77 | Tully Bevilaqua | 290 |
 | 79 | Alana Beard | 288 |
 | 80 | Monique Currie | 284 |
-| 81 | Stefanie Dolson | 278 |
+| 81 | **Stefanie Dolson** 🔴 | 278 |
 | 82 | **Courtney Williams** 🔴 | 277 |
 | 83 | Iziane Castro Marques | 275 |
 | 84 | Sheryl Swoopes | 270 |
@@ -1330,7 +1330,7 @@ _Last updated: 2026-07-22 19:19 UTC_
 | 75 | Lindsey Harding | 600 |
 | 75 | Tamika Whitmore | 600 |
 | 77 | Kelly Miller | 596 |
-| 78 | Stefanie Dolson | 594 |
+| 78 | **Stefanie Dolson** 🔴 | 594 |
 | 79 | Brittney Sykes | 591 |
 | 80 | Breanna Stewart | 586 |
 | 81 | Kelsey Mitchell | 585 |
@@ -1476,7 +1476,7 @@ _Last updated: 2026-07-22 19:19 UTC_
 | 16 | Swin Cash | 1,146 |
 | 17 | Taj McWilliams-Franklin | 1,145 |
 | 18 | Monique Currie | 1,137 |
-| 19 | Stefanie Dolson | 1,133 |
+| 19 | **Stefanie Dolson** 🔴 | 1,133 |
 | 20 | Tanisha Wright | 1,109 |
 | 21 | Michelle Snow | 1,108 |
 | 22 | Sylvia Fowles | 1,049 |
@@ -1584,8 +1584,8 @@ _Last updated: 2026-07-22 19:19 UTC_
 | 124 | Janel McCarville | 597 |
 | 125 | Kamila Vodichkova | 596 |
 | 126 | Teresa Weatherspoon | 589 |
+| 127 | **Courtney Williams** 🔴 +2 | 585 |
 | 127 | Emma Meesseman | 585 |
-| 128 | **Courtney Williams** 🔴 +1 | 584 |
 | 129 | Chiney Ogwumike | 580 |
 | 129 | Hamchetou Maiga-Ba | 580 |
 | 129 | Olympia Scott | 580 |
