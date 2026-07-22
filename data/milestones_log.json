@@ -1,5 +1,14 @@
 [
   {
+    "ts": "2026-07-22T23:39:00+00:00",
+    "text": "NaLyssa Smith reached 100 career blocks (now 100) \u2014 (4:33 - 1st \u2014 LV @ WSH)",
+    "kind": "round",
+    "player": "NaLyssa Smith",
+    "stat": "blocks",
+    "value": 100,
+    "new_total": 100
+  },
+  {
     "ts": "2026-07-22T21:01:00+00:00",
     "text": "Sami Whitcomb passed Liz Cambage and Rhonda Mapp for #187 all-time in fouls (career 484) \u2014 up from #189 entering today \u2014 (3:12 - 4th \u2014 PHX @ LA)",
     "kind": "rank_pass",
@@ -2991,17 +3000,5 @@
       "Roneeka Hodges"
     ],
     "new_total": 390
-  },
-  {
-    "ts": "2026-06-28T23:18:00+00:00",
-    "text": "Betnijah Laney-Hamilton passed Camille Smith for #107 all-time in assists (career 591) \u2014 (3:56 - 1st \u2014 NY @ GS)",
-    "kind": "rank_pass",
-    "player": "Betnijah Laney-Hamilton",
-    "stat": "assists",
-    "rank": 107,
-    "passed_players": [
-      "Camille Smith"
-    ],
-    "new_total": 591
   }
 ]

@@ -237,7 +237,7 @@ _Last updated: 2026-07-22 23:39 UTC_
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | Alyssa Thomas | 2,869 |
 | 13 | **Jonquel Jones** 🔴 +5 | 2,733 |
-| 14 | **A'ja Wilson** 🔴 +1 | 2,658 |
+| 14 | **A'ja Wilson** 🔴 +2 | 2,659 |
 | 15 | **Breanna Stewart** 🔴 +5 | 2,637 |
 | 16 | Sancho Lyttle | 2,596 |
 | 17 | Brittney Griner | 2,579 |
@@ -767,8 +767,8 @@ _Last updated: 2026-07-22 23:39 UTC_
 | 130 | Deanna Nolan | 101 |
 | 131 | Chante Black | 100 |
 | 131 | Danielle Adams | 100 |
+| 131 | **NaLyssa Smith** 🔴 +2 | 100 |
 | 131 | Nicole Powell | 100 |
-| 134 | **NaLyssa Smith** 🔴 +1 | 99 |
 | 135 | Mwadi Mabika | 98 |
 | 135 | Natalie Achonwa | 98 |
 | 137 | Aneika Morello | 96 |
@@ -1318,8 +1318,8 @@ _Last updated: 2026-07-22 23:39 UTC_
 | 62 | Sheri Sam | 650 |
 | 63 | Kayla McBride | 648 |
 | 63 | Kelsey Plum | 648 |
-| 65 | Dawn Staley | 643 |
-| 65 | **Jonquel Jones** 🔴 +2 | 643 |
+| 65 | **Jonquel Jones** 🔴 +3 | 644 |
+| 66 | Dawn Staley | 643 |
 | 67 | Ruth Riley | 637 |
 | 68 | Odyssey Sims | 631 |
 | 68 | Svetlana Abrosimova | 631 |
@@ -1347,9 +1347,9 @@ _Last updated: 2026-07-22 23:39 UTC_
 | 91 | Adrienne Goodson | 542 |
 | 92 | Marina Mabrey | 537 |
 | 93 | Layshia Clarendon | 536 |
-| 94 | Ivory Latta | 534 |
-| 94 | Iziane Castro Marques | 534 |
-| 94 | **Sabrina Ionescu** 🔴 +1 | 534 |
+| 94 | **Sabrina Ionescu** 🔴 +2 | 535 |
+| 95 | Ivory Latta | 534 |
+| 95 | Iziane Castro Marques | 534 |
 | 97 | Mwadi Mabika | 532 |
 | 98 | Nakia Sanford | 531 |
 | 99 | Arike Ogunbowale | 529 |
@@ -1498,7 +1498,7 @@ _Last updated: 2026-07-22 23:39 UTC_
 | 37 | Tamika Whitmore | 940 |
 | 38 | DeWanna Bonner | 925 |
 | 39 | Briann January | 921 |
-| 40 | **Jonquel Jones** 🔴 +2 | 915 |
+| 40 | **Jonquel Jones** 🔴 +3 | 916 |
 | 41 | Ticha Penicheiro | 913 |
 | 42 | Shavonte Zellous | 907 |
 | 43 | Alysha Clark | 905 |
