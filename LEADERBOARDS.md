@@ -63,7 +63,7 @@ _Last updated: 2026-07-22 19:27 UTC_
 | 42 | Kelsey Plum | 4,494 |
 | 43 | Allisha Gray | 4,491 |
 | 44 | Kristi Toliver | 4,474 |
-| 45 | **Kahleah Copper** 🔴 +4 | 4,441 |
+| 45 | **Kahleah Copper** 🔴 +6 | 4,443 |
 | 46 | Crystal Langhorne | 4,433 |
 | 46 | Jia Perkins | 4,433 |
 | 48 | Courtney Vandersloot | 4,362 |
