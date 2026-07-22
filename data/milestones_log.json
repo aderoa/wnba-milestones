@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-07-22T20:49:00+00:00",
+    "text": "Natasha Mack passed Kamilla Cardoso for #103 all-time in blocks (career 125) \u2014 up from #104 entering today \u2014 (6:57 - 4th \u2014 PHX @ LA)",
+    "kind": "rank_pass",
+    "player": "Natasha Mack",
+    "stat": "blocks",
+    "rank": 103,
+    "passed_players": [
+      "Kamilla Cardoso"
+    ],
+    "new_total": 125
+  },
+  {
     "ts": "2026-07-22T20:37:00+00:00",
     "text": "Napheesa Collier passed Cynthia Cooper and Noelle Quinn for #138 all-time in turnovers (career 423) \u2014 up from #139 entering today \u2014 (5:15 - 4th \u2014 MIN @ SEA)",
     "kind": "rank_pass",
@@ -2993,18 +3005,5 @@
       "Ticha Penicheiro"
     ],
     "new_total": 914
-  },
-  {
-    "ts": "2026-06-28T23:06:00+00:00",
-    "text": "Breanna Stewart passed Cheyenne Parker-Tyus and Jasmine Thomas for #93 all-time in fouls (career 686) \u2014 (8:44 - 1st \u2014 NY @ GS)",
-    "kind": "rank_pass",
-    "player": "Breanna Stewart",
-    "stat": "fouls",
-    "rank": 93,
-    "passed_players": [
-      "Cheyenne Parker-Tyus",
-      "Jasmine Thomas"
-    ],
-    "new_total": 686
   }
 ]
