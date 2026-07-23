@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-23 00:27 UTC_
+_Last updated: 2026-07-23 00:29 UTC_
 
 ## Contents
 
@@ -118,7 +118,7 @@ _Last updated: 2026-07-23 00:27 UTC_
 | 97 | **Natasha Cloud** 🔴 +7 | 3,025 |
 | 98 | Marie Ferdinand-Harris | 3,001 |
 | 99 | Emma Meesseman | 2,966 |
-| 100 | **Elizabeth Williams** 🔴 +6 | 2,939 |
+| 100 | **Elizabeth Williams** 🔴 +8 | 2,941 |
 | 101 | Natalie Williams | 2,894 |
 | 102 | Jennifer Gillom | 2,888 |
 | 103 | Iziane Castro Marques | 2,862 |
@@ -256,7 +256,7 @@ _Last updated: 2026-07-23 00:27 UTC_
 | 30 | Chamique Holdsclaw | 2,123 |
 | 31 | Chasity Melvin | 2,097 |
 | 32 | Tammy Sutton-Brown | 2,010 |
-| 33 | **Elizabeth Williams** 🔴 +2 | 1,980 |
+| 33 | **Elizabeth Williams** 🔴 +3 | 1,981 |
 | 34 | Cheryl Ford | 1,907 |
 | 35 | Courtney Williams | 1,848 |
 | 36 | Kiah Stokes | 1,835 |
@@ -430,7 +430,7 @@ _Last updated: 2026-07-23 00:27 UTC_
 | Rank | Player | Total |
 |-----:|--------|------:|
 | 1 | Sue Bird | 3,234 |
-| 2 | **Courtney Vandersloot** 🔴 +2 | 2,896 |
+| 2 | **Courtney Vandersloot** 🔴 +3 | 2,897 |
 | 3 | Ticha Penicheiro | 2,588 |
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
