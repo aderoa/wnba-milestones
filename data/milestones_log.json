@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-07-23T01:54:00+00:00",
+    "text": "Sophie Cunningham passed Marissa Coleman for #149 all-time in fouls (career 542) \u2014 up from #150 entering today \u2014 (5:40 - 4th \u2014 CON @ IND)",
+    "kind": "rank_pass",
+    "player": "Sophie Cunningham",
+    "stat": "fouls",
+    "rank": 149,
+    "passed_players": [
+      "Marissa Coleman"
+    ],
+    "new_total": 542
+  },
+  {
     "ts": "2026-07-23T00:48:00+00:00",
     "text": "Azur\u00e1 Stevens reached 500 career fouls (now 500) \u2014 (4:19 - 4th \u2014 CHI @ NY)",
     "kind": "round",
@@ -2992,17 +3004,5 @@
       "Shoni Schimmel"
     ],
     "new_total": 112
-  },
-  {
-    "ts": "2026-06-28T23:54:00+00:00",
-    "text": "Jonquel Jones passed Courtney Vandersloot for #48 all-time in points (career 4,365) \u2014 up from #49 entering today \u2014 (2:24 - 2nd \u2014 NY @ GS)",
-    "kind": "rank_pass",
-    "player": "Jonquel Jones",
-    "stat": "points",
-    "rank": 48,
-    "passed_players": [
-      "Courtney Vandersloot"
-    ],
-    "new_total": 4365
   }
 ]

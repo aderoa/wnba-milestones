@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-23 01:53 UTC_
+_Last updated: 2026-07-23 01:54 UTC_
 
 ## Contents
 
@@ -567,7 +567,7 @@ _Last updated: 2026-07-23 01:53 UTC_
 | 136 | Satou Sabally | 476 |
 | 137 | Ukari Figgs | 470 |
 | 138 | Janeth Arcain | 469 |
-| 139 | **Tyasha Harris** 🔴 +5 | 465 |
+| 139 | **Tyasha Harris** 🔴 +4 | 464 |
 | 140 | Erin Phillips | 462 |
 | 141 | Sylvia Fowles | 461 |
 | 142 | Sug Sutton | 456 |
@@ -1607,8 +1607,8 @@ _Last updated: 2026-07-23 01:53 UTC_
 | 146 | Kayla McBride | 544 |
 | 147 | Jayne Appel Marinelli | 543 |
 | 147 | Renee Montgomery | 543 |
-| 149 | Marissa Coleman | 541 |
-| 149 | **Sophie Cunningham** 🔴 +3 | 541 |
+| 149 | **Sophie Cunningham** 🔴 +4 | 542 |
+| 150 | Marissa Coleman | 541 |
 | 151 | **Myisha Hines-Allen** 🔴 +2 | 537 |
 | 152 | Damiris Dantas | 533 |
 | 152 | Kristen Rasmussen | 533 |

@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-23 01:54 UTC
+
+- **Sophie Cunningham** passed **Marissa Coleman** for **#149** all-time in fouls (career 542) — up from #150 entering today — _5:40 - 4th — CON @ IND_
+
 ## 2026-07-23 00:48 UTC
 
 - **Azurá Stevens** reached **500** career fouls (now 500) — _4:19 - 4th — CHI @ NY_
