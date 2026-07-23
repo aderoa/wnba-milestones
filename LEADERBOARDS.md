@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-23 02:59 UTC_
+_Last updated: 2026-07-23 03:00 UTC_
 
 ## Contents
 
@@ -404,7 +404,7 @@ _Last updated: 2026-07-23 02:59 UTC_
 | 178 | Sue Wicks | 780 |
 | 179 | Lindsey Harding | 779 |
 | 180 | Tiffani Johnson | 778 |
-| 181 | **Arike Ogunbowale** 🔴 +1 | 776 |
+| 181 | **Arike Ogunbowale** 🔴 +2 | 777 |
 | 182 | Teresa Weatherspoon | 775 |
 | 183 | Anna DeForge | 769 |
 | 183 | Kelsey Bone | 769 |
@@ -580,8 +580,8 @@ _Last updated: 2026-07-23 02:59 UTC_
 | 149 | DeMya Walker | 446 |
 | 150 | Essence Carson | 445 |
 | 151 | Julie Allemand | 444 |
-| 152 | **Jessica Shepard** 🔴 +1 | 437 |
-| 152 | Michelle Snow | 437 |
+| 152 | **Jessica Shepard** 🔴 +2 | 438 |
+| 153 | Michelle Snow | 437 |
 | 154 | Lauren Jackson | 435 |
 | 155 | Adrienne Goodson | 433 |
 | 155 | Aliyah Boston | 433 |
