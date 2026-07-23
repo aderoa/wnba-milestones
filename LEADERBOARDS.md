@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-23 01:35 UTC_
+_Last updated: 2026-07-23 01:36 UTC_
 
 ## Contents
 
@@ -872,7 +872,7 @@ _Last updated: 2026-07-23 01:35 UTC_
 | 28 | Natasha Howard | 470 |
 | 29 | Skylar Diggins | 463 |
 | 29 | Teresa Weatherspoon | 463 |
-| 31 | **Jewell Loyd** 🔴 +2 | 460 |
+| 31 | **Jewell Loyd** 🔴 +3 | 461 |
 | 32 | **Chelsea Gray** 🔴 +1 | 458 |
 | 33 | Rebekkah Brunson | 456 |
 | 34 | Tangela Smith | 455 |
@@ -1565,7 +1565,7 @@ _Last updated: 2026-07-23 01:35 UTC_
 | 104 | Kiah Stokes | 651 |
 | 105 | Tari Phillips | 648 |
 | 106 | Marie Ferdinand-Harris | 646 |
-| 107 | **Chelsea Gray** 🔴 +3 | 643 |
+| 107 | **Chelsea Gray** 🔴 +4 | 644 |
 | 108 | Charlotte Smith | 638 |
 | 109 | Teaira McCowan | 637 |
 | 110 | Janell Burse | 632 |
