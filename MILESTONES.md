@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-23 00:13 UTC
+
+- **Chelsea Gray** passed **Alyssa Thomas**, **Chiney Ogwumike**, and **Kristen Rasmussen** for **#96** all-time in blocks (career 128) — up from #97 entering today — _3:28 - 2nd — LV @ WSH_
+
 ## 2026-07-22 23:39 UTC
 
 - **NaLyssa Smith** reached **100** career blocks (now 100) — _4:33 - 1st — LV @ WSH_

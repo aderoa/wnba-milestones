@@ -1,5 +1,19 @@
 [
   {
+    "ts": "2026-07-23T00:13:00+00:00",
+    "text": "Chelsea Gray passed Alyssa Thomas, Chiney Ogwumike, and Kristen Rasmussen for #96 all-time in blocks (career 128) \u2014 up from #97 entering today \u2014 (3:28 - 2nd \u2014 LV @ WSH)",
+    "kind": "rank_pass",
+    "player": "Chelsea Gray",
+    "stat": "blocks",
+    "rank": 96,
+    "passed_players": [
+      "Alyssa Thomas",
+      "Chiney Ogwumike",
+      "Kristen Rasmussen"
+    ],
+    "new_total": 128
+  },
+  {
     "ts": "2026-07-22T23:39:00+00:00",
     "text": "NaLyssa Smith reached 100 career blocks (now 100) \u2014 (4:33 - 1st \u2014 LV @ WSH)",
     "kind": "round",
@@ -2988,17 +3002,5 @@
     "stat": "points",
     "value": 200,
     "new_total": 201
-  },
-  {
-    "ts": "2026-06-28T23:23:00+00:00",
-    "text": "Jonquel Jones passed Roneeka Hodges for #44 all-time in three-pointers (career 390) \u2014 (1:13 - 1st \u2014 NY @ GS)",
-    "kind": "rank_pass",
-    "player": "Jonquel Jones",
-    "stat": "three-pointers",
-    "rank": 44,
-    "passed_players": [
-      "Roneeka Hodges"
-    ],
-    "new_total": 390
   }
 ]

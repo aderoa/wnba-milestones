@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-23 00:12 UTC_
+_Last updated: 2026-07-23 00:13 UTC_
 
 ## Contents
 
@@ -33,7 +33,7 @@ _Last updated: 2026-07-23 00:12 UTC_
 | 12 | Sylvia Fowles | 6,413 |
 | 13 | **Breanna Stewart** 🔴 +12 | 6,347 |
 | 14 | Lisa Leslie | 6,251 |
-| 15 | **A'ja Wilson** 🔴 +9 | 6,187 |
+| 15 | **A'ja Wilson** 🔴 +11 | 6,189 |
 | 16 | **Jewell Loyd** 🔴 +3 | 6,151 |
 | 17 | Brittney Griner | 6,087 |
 | 18 | Lauren Jackson | 6,005 |
@@ -213,7 +213,7 @@ _Last updated: 2026-07-23 00:12 UTC_
 | 192 | Armintie Herrington | 1,696 |
 | 193 | Nikki Teasley | 1,690 |
 | 194 | Shenise Johnson | 1,688 |
-| 195 | **Monique Billings** 🔴 | 1,612 |
+| 195 | **Monique Billings** 🔴 +2 | 1,614 |
 | 196 | Janell Burse | 1,580 |
 | 197 | Le'coe Willingham | 1,552 |
 | 198 | Shatori Walker-Kimbrough | 1,544 |
@@ -343,7 +343,7 @@ _Last updated: 2026-07-23 00:12 UTC_
 | 117 | Becky Hammon | 1,108 |
 | 118 | Ann Wauters | 1,105 |
 | 119 | Isabelle Harrison | 1,097 |
-| 120 | **Jackie Young** 🔴 +3 | 1,088 |
+| 120 | **Jackie Young** 🔴 +4 | 1,089 |
 | 121 | Svetlana Abrosimova | 1,078 |
 | 122 | Le'coe Willingham | 1,054 |
 | 123 | Nicole Ohlde | 1,040 |
@@ -461,7 +461,7 @@ _Last updated: 2026-07-23 00:12 UTC_
 | 30 | DeWanna Bonner | 1,200 |
 | 31 | Leilani Mitchell | 1,197 |
 | 32 | **Jewell Loyd** 🔴 | 1,156 |
-| 33 | **Jackie Young** 🔴 +4 | 1,154 |
+| 33 | **Jackie Young** 🔴 +5 | 1,155 |
 | 34 | Renee Montgomery | 1,140 |
 | 35 | Swin Cash | 1,131 |
 | 36 | **Sabrina Ionescu** 🔴 +2 | 1,094 |
@@ -531,9 +531,9 @@ _Last updated: 2026-07-23 00:12 UTC_
 | 100 | Natasha Howard | 618 |
 | 101 | Debbie Black | 612 |
 | 102 | Cynthia Cooper | 602 |
+| 103 | **Caitlin Clark** 🔴 +1 | 592 |
 | 103 | Sancho Lyttle | 592 |
-| 104 | **Caitlin Clark** 🔴 | 591 |
-| 104 | Gabby Williams | 591 |
+| 105 | Gabby Williams | 591 |
 | 106 | Betnijah Laney-Hamilton | 590 |
 | 106 | Camille Smith | 590 |
 | 108 | Armintie Herrington | 589 |
@@ -729,10 +729,10 @@ _Last updated: 2026-07-23 00:12 UTC_
 | 93 | Brooke Wyckoff | 129 |
 | 93 | Cathrine Kraayeveld | 129 |
 | 95 | Alyssa Thomas | 128 |
+| 95 | **Chelsea Gray** 🔴 +1 | 128 |
 | 95 | Emily Engstler | 128 |
-| 97 | **Chelsea Gray** 🔴 | 127 |
-| 97 | Chiney Ogwumike | 127 |
-| 97 | Kristen Rasmussen | 127 |
+| 98 | Chiney Ogwumike | 127 |
+| 98 | Kristen Rasmussen | 127 |
 | 100 | Katie Douglas | 126 |
 | 100 | Mistie Bass | 126 |
 | 102 | Brionna Jones | 125 |
@@ -817,12 +817,12 @@ _Last updated: 2026-07-23 00:12 UTC_
 | 179 | Tianna Hawkins | 75 |
 | 182 | Epiphanny Prince | 74 |
 | 183 | Ayana Walker | 73 |
+| 183 | **Jackie Young** 🔴 +1 | 73 |
 | 183 | Lindsay Wisdom-Hylton | 73 |
-| 185 | Cappie Pondexter | 72 |
-| 185 | Christi Thomas | 72 |
-| 185 | **Jackie Young** 🔴 | 72 |
-| 185 | Olympia Scott | 72 |
-| 185 | Sue Bird | 72 |
+| 186 | Cappie Pondexter | 72 |
+| 186 | Christi Thomas | 72 |
+| 186 | Olympia Scott | 72 |
+| 186 | Sue Bird | 72 |
 | 190 | Marlies Askamp | 71 |
 | 190 | Tanisha Wright | 71 |
 | 192 | Wendy Palmer | 70 |
@@ -903,8 +903,8 @@ _Last updated: 2026-07-23 00:12 UTC_
 | 59 | Chamique Holdsclaw | 376 |
 | 60 | Brittney Sykes | 371 |
 | 61 | Mwadi Mabika | 370 |
+| 62 | **A'ja Wilson** 🔴 +1 | 362 |
 | 62 | Erica Wheeler | 362 |
-| 63 | **A'ja Wilson** 🔴 | 361 |
 | 64 | Lauren Jackson | 360 |
 | 64 | Tan White | 360 |
 | 66 | Vickie Johnson | 357 |
