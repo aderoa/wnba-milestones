@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-23 01:29 UTC_
+_Last updated: 2026-07-23 01:30 UTC_
 
 ## Contents
 
@@ -1649,7 +1649,7 @@ _Last updated: 2026-07-23 01:29 UTC_
 | 188 | Liz Cambage | 483 |
 | 188 | Rhonda Mapp | 483 |
 | 190 | Alanna Smith | 479 |
-| 191 | **NaLyssa Smith** 🔴 +4 | 478 |
+| 190 | **NaLyssa Smith** 🔴 +5 | 479 |
 | 192 | Seimone Augustus | 477 |
 | 193 | Allie Quigley | 475 |
 | 194 | Satou Sabally | 471 |
