@@ -33,7 +33,7 @@ _Last updated: 2026-07-23 01:33 UTC_
 | 12 | Sylvia Fowles | 6,413 |
 | 13 | Breanna Stewart | 6,355 |
 | 14 | Lisa Leslie | 6,251 |
-| 15 | **A'ja Wilson** 🔴 +33 | 6,211 |
+| 15 | **A'ja Wilson** 🔴 +34 | 6,212 |
 | 16 | **Jewell Loyd** 🔴 +8 | 6,156 |
 | 17 | Brittney Griner | 6,087 |
 | 18 | Lauren Jackson | 6,005 |
@@ -58,7 +58,7 @@ _Last updated: 2026-07-23 01:33 UTC_
 | 37 | Chamique Holdsclaw | 4,713 |
 | 38 | Elena Delle Donne | 4,706 |
 | 39 | Natasha Howard | 4,693 |
-| 40 | **Chelsea Gray** 🔴 +18 | 4,643 |
+| 40 | **Chelsea Gray** 🔴 +19 | 4,644 |
 | 41 | Penny Taylor | 4,595 |
 | 42 | Kelsey Plum | 4,494 |
 | 43 | Allisha Gray | 4,491 |
@@ -200,7 +200,7 @@ _Last updated: 2026-07-23 01:33 UTC_
 | 179 | **NaLyssa Smith** 🔴 +4 | 1,883 |
 | 180 | Rachel Banham | 1,846 |
 | 181 | Damiris Dantas | 1,842 |
-| 182 | **Sophie Cunningham** 🔴 | 1,829 |
+| 182 | **Sophie Cunningham** 🔴 +2 | 1,831 |
 | 183 | Tianna Hawkins | 1,825 |
 | 184 | Noelle Quinn | 1,824 |
 | 185 | Danielle Adams | 1,820 |
@@ -1193,7 +1193,7 @@ _Last updated: 2026-07-23 01:33 UTC_
 | 143 | Gabby Williams | 153 |
 | 143 | Jennifer Gillom | 153 |
 | 143 | Katie Lou Samuelson | 153 |
-| 147 | **Michaela Onyenwere** 🔴 +1 | 152 |
+| 143 | **Michaela Onyenwere** 🔴 +2 | 153 |
 | 148 | Rita Williams | 150 |
 | 149 | Moriah Jefferson | 149 |
 | 149 | Tiffany Mitchell | 149 |
