@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-23 00:17 UTC_
+_Last updated: 2026-07-23 00:18 UTC_
 
 ## Contents
 
@@ -115,7 +115,7 @@ _Last updated: 2026-07-23 00:17 UTC_
 | 94 | Briann January | 3,082 |
 | 95 | Erika de Souza | 3,046 |
 | 96 | Shameka Christon | 3,039 |
-| 97 | **Natasha Cloud** 🔴 +2 | 3,020 |
+| 97 | **Natasha Cloud** 🔴 +4 | 3,022 |
 | 98 | Marie Ferdinand-Harris | 3,001 |
 | 99 | Emma Meesseman | 2,966 |
 | 100 | **Elizabeth Williams** 🔴 +4 | 2,937 |
@@ -200,7 +200,7 @@ _Last updated: 2026-07-23 00:17 UTC_
 | 179 | **NaLyssa Smith** 🔴 +2 | 1,881 |
 | 180 | **Rachel Banham** 🔴 +3 | 1,846 |
 | 181 | Damiris Dantas | 1,842 |
-| 182 | Sophie Cunningham | 1,829 |
+| 182 | **Sophie Cunningham** 🔴 | 1,829 |
 | 183 | Tianna Hawkins | 1,825 |
 | 184 | Noelle Quinn | 1,824 |
 | 185 | Danielle Adams | 1,820 |
@@ -831,7 +831,7 @@ _Last updated: 2026-07-23 00:17 UTC_
 | 193 | Satou Sabally | 69 |
 | 196 | Shannon Johnson | 67 |
 | 196 | Veronica Burton | 67 |
-| 198 | Kennedy Burke | 66 |
+| 198 | **Kennedy Burke** 🔴 | 66 |
 | 198 | **Sabrina Ionescu** 🔴 +1 | 66 |
 | 200 | Crystal Robinson | 65 |
 | 200 | Gabby Williams | 65 |
@@ -1108,7 +1108,7 @@ _Last updated: 2026-07-23 00:17 UTC_
 | 59 | Deanna Nolan | 340 |
 | 60 | Erica Wheeler | 337 |
 | 61 | Anna DeForge | 334 |
-| 61 | Sophie Cunningham | 334 |
+| 61 | **Sophie Cunningham** 🔴 | 334 |
 | 63 | Natisha Hiedeman | 329 |
 | 64 | Sugar Rodgers | 317 |
 | 65 | Marissa Coleman | 315 |
@@ -1221,7 +1221,7 @@ _Last updated: 2026-07-23 00:17 UTC_
 | 171 | Ticha Penicheiro | 128 |
 | 173 | Michele Timms | 127 |
 | 174 | Tamecka Dixon | 126 |
-| 175 | Kennedy Burke | 125 |
+| 175 | **Kennedy Burke** 🔴 | 125 |
 | 175 | **Lexie Hull** 🔴 | 125 |
 | 177 | Charde Houston | 124 |
 | 177 | Veronica Burton | 124 |
@@ -1607,7 +1607,7 @@ _Last updated: 2026-07-23 00:17 UTC_
 | 147 | Jayne Appel Marinelli | 543 |
 | 147 | Renee Montgomery | 543 |
 | 149 | Marissa Coleman | 541 |
-| 150 | Sophie Cunningham | 538 |
+| 150 | **Sophie Cunningham** 🔴 | 538 |
 | 151 | Myisha Hines-Allen | 535 |
 | 152 | Damiris Dantas | 533 |
 | 152 | Kristen Rasmussen | 533 |
