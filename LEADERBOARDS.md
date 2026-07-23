@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-23 00:46 UTC_
+_Last updated: 2026-07-23 00:47 UTC_
 
 ## Contents
 
@@ -33,7 +33,7 @@ _Last updated: 2026-07-23 00:46 UTC_
 | 12 | Sylvia Fowles | 6,413 |
 | 13 | **Breanna Stewart** 🔴 +16 | 6,351 |
 | 14 | Lisa Leslie | 6,251 |
-| 15 | **A'ja Wilson** 🔴 +15 | 6,193 |
+| 15 | **A'ja Wilson** 🔴 +17 | 6,195 |
 | 16 | **Jewell Loyd** 🔴 +3 | 6,151 |
 | 17 | Brittney Griner | 6,087 |
 | 18 | Lauren Jackson | 6,005 |
@@ -83,7 +83,7 @@ _Last updated: 2026-07-23 00:46 UTC_
 | 62 | Allie Quigley | 3,786 |
 | 63 | Chasity Melvin | 3,781 |
 | 64 | Brittney Sykes | 3,726 |
-| 65 | **Jackie Young** 🔴 +13 | 3,711 |
+| 65 | **Jackie Young** 🔴 +15 | 3,713 |
 | 66 | Kara Lawson | 3,670 |
 | 67 | Mwadi Mabika | 3,576 |
 | 68 | Odyssey Sims | 3,574 |
@@ -213,7 +213,7 @@ _Last updated: 2026-07-23 00:46 UTC_
 | 192 | Armintie Herrington | 1,696 |
 | 193 | Nikki Teasley | 1,690 |
 | 194 | Shenise Johnson | 1,688 |
-| 195 | **Monique Billings** 🔴 +2 | 1,614 |
+| 195 | **Monique Billings** 🔴 +3 | 1,615 |
 | 196 | Janell Burse | 1,580 |
 | 197 | Le'coe Willingham | 1,552 |
 | 198 | Shatori Walker-Kimbrough | 1,544 |
@@ -236,7 +236,7 @@ _Last updated: 2026-07-23 00:46 UTC_
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | Alyssa Thomas | 2,869 |
-| 13 | **Jonquel Jones** 🔴 +7 | 2,735 |
+| 13 | **Jonquel Jones** 🔴 +8 | 2,736 |
 | 14 | **A'ja Wilson** 🔴 +6 | 2,663 |
 | 15 | **Breanna Stewart** 🔴 +8 | 2,640 |
 | 16 | Sancho Lyttle | 2,596 |
@@ -460,8 +460,8 @@ _Last updated: 2026-07-23 00:46 UTC_
 | 29 | Vickie Johnson | 1,202 |
 | 30 | DeWanna Bonner | 1,200 |
 | 31 | Leilani Mitchell | 1,197 |
-| 32 | **Jackie Young** 🔴 +6 | 1,156 |
-| 32 | **Jewell Loyd** 🔴 | 1,156 |
+| 32 | **Jackie Young** 🔴 +7 | 1,157 |
+| 33 | **Jewell Loyd** 🔴 | 1,156 |
 | 34 | Renee Montgomery | 1,140 |
 | 35 | Swin Cash | 1,131 |
 | 36 | **Sabrina Ionescu** 🔴 +4 | 1,096 |
@@ -531,7 +531,7 @@ _Last updated: 2026-07-23 00:46 UTC_
 | 100 | Natasha Howard | 618 |
 | 101 | Debbie Black | 612 |
 | 102 | Cynthia Cooper | 602 |
-| 103 | **Caitlin Clark** 🔴 +6 | 597 |
+| 103 | **Caitlin Clark** 🔴 +7 | 598 |
 | 104 | Sancho Lyttle | 592 |
 | 105 | Gabby Williams | 591 |
 | 106 | Betnijah Laney-Hamilton | 590 |
@@ -672,8 +672,8 @@ _Last updated: 2026-07-23 00:46 UTC_
 | 36 | **Cheyenne Parker-Tyus** 🔴 | 261 |
 | 37 | Swin Cash | 258 |
 | 38 | Plenette Pierson | 242 |
-| 39 | **Azurá Stevens** 🔴 +3 | 239 |
-| 39 | Napheesa Collier | 239 |
+| 39 | **Azurá Stevens** 🔴 +4 | 240 |
+| 40 | Napheesa Collier | 239 |
 | 41 | Emma Meesseman | 238 |
 | 42 | **Brianna Turner** 🔴 | 234 |
 | 43 | Skylar Diggins | 231 |
@@ -944,7 +944,7 @@ _Last updated: 2026-07-23 00:46 UTC_
 | 100 | Janel McCarville | 294 |
 | 101 | Kelly Miller | 290 |
 | 102 | Glory Johnson | 289 |
-| 103 | **Jackie Young** 🔴 | 287 |
+| 103 | **Jackie Young** 🔴 +1 | 288 |
 | 104 | Essence Carson | 285 |
 | 105 | Seimone Augustus | 280 |
 | 106 | Tari Phillips | 277 |
@@ -1547,10 +1547,10 @@ _Last updated: 2026-07-23 00:46 UTC_
 | 87 | Tan White | 698 |
 | 88 | Katie Douglas | 697 |
 | 89 | Danielle Robinson | 692 |
+| 90 | **Breanna Stewart** 🔴 +2 | 687 |
 | 90 | Sophia Young-Malcolm | 687 |
-| 91 | **Breanna Stewart** 🔴 +1 | 686 |
-| 91 | **Cheyenne Parker-Tyus** 🔴 +1 | 686 |
-| 91 | Maya Moore | 686 |
+| 92 | **Cheyenne Parker-Tyus** 🔴 +1 | 686 |
+| 92 | Maya Moore | 686 |
 | 94 | Jasmine Thomas | 685 |
 | 94 | **Jewell Loyd** 🔴 +1 | 685 |
 | 96 | Leilani Mitchell | 684 |
