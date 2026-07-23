@@ -351,8 +351,8 @@ _Last updated: 2026-07-23 03:07 UTC_
 | 124 | Tamecka Dixon | 1,035 |
 | 126 | Kamila Vodichkova | 1,031 |
 | 127 | Jasmine Thomas | 1,027 |
-| 128 | **Jessica Shepard** 🔴 +8 | 1,024 |
-| 128 | Sabrina Ionescu | 1,024 |
+| 128 | **Jessica Shepard** 🔴 +9 | 1,025 |
+| 129 | Sabrina Ionescu | 1,024 |
 | 130 | Cathrine Kraayeveld | 1,013 |
 | 131 | Kelly Miller | 1,011 |
 | 131 | Noelle Quinn | 1,011 |
