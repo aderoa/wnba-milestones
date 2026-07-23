@@ -1,5 +1,14 @@
 [
   {
+    "ts": "2026-07-23T01:59:00+00:00",
+    "text": "Aneesah Morrow reached 500 career points (now 500) \u2014 (3:38 - 4th \u2014 CON @ IND)",
+    "kind": "round",
+    "player": "Aneesah Morrow",
+    "stat": "points",
+    "value": 500,
+    "new_total": 500
+  },
+  {
     "ts": "2026-07-23T01:54:00+00:00",
     "text": "Sophie Cunningham passed Marissa Coleman for #149 all-time in fouls (career 542) \u2014 up from #150 entering today \u2014 (5:40 - 4th \u2014 CON @ IND)",
     "kind": "rank_pass",
@@ -2991,18 +3000,5 @@
     "stat": "points",
     "value": 2400,
     "new_total": 2400
-  },
-  {
-    "ts": "2026-06-28T23:57:00+00:00",
-    "text": "Cecilia Zandalasini passed Janelle Salaun and Shoni Schimmel for #191 all-time in three-pointers (career 112) \u2014 (45.4 - 2nd \u2014 NY @ GS)",
-    "kind": "rank_pass",
-    "player": "Cecilia Zandalasini",
-    "stat": "three-pointers",
-    "rank": 191,
-    "passed_players": [
-      "Janelle Salaun",
-      "Shoni Schimmel"
-    ],
-    "new_total": 112
   }
 ]
