@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-23 00:42 UTC_
+_Last updated: 2026-07-23 00:44 UTC_
 
 ## Contents
 
@@ -175,7 +175,7 @@ _Last updated: 2026-07-23 00:42 UTC_
 | 154 | Tari Phillips | 2,134 |
 | 155 | Cheryl Ford | 2,116 |
 | 156 | Elena Baranova | 2,110 |
-| 157 | **Aliyah Boston** 🔴 +10 | 2,097 |
+| 157 | **Aliyah Boston** 🔴 +11 | 2,098 |
 | 158 | Aerial Powers | 2,068 |
 | 159 | Coco Miller | 2,030 |
 | 160 | Diamond DeShields | 2,026 |
@@ -238,7 +238,7 @@ _Last updated: 2026-07-23 00:42 UTC_
 | 12 | Alyssa Thomas | 2,869 |
 | 13 | **Jonquel Jones** 🔴 +7 | 2,735 |
 | 14 | **A'ja Wilson** 🔴 +5 | 2,662 |
-| 15 | **Breanna Stewart** 🔴 +7 | 2,639 |
+| 15 | **Breanna Stewart** 🔴 +8 | 2,640 |
 | 16 | Sancho Lyttle | 2,596 |
 | 17 | Brittney Griner | 2,579 |
 | 18 | DeLisha Milton-Jones | 2,574 |
@@ -423,7 +423,7 @@ _Last updated: 2026-07-23 00:42 UTC_
 | 197 | Olympia Scott | 711 |
 | 198 | Katie Mattera | 708 |
 | 199 | Rushia Brown | 706 |
-| 200 | **Rebecca Allen** 🔴 +2 | 704 |
+| 200 | **Rebecca Allen** 🔴 +3 | 705 |
 
 ## Assists
 
@@ -672,9 +672,9 @@ _Last updated: 2026-07-23 00:42 UTC_
 | 36 | **Cheyenne Parker-Tyus** 🔴 | 261 |
 | 37 | Swin Cash | 258 |
 | 38 | Plenette Pierson | 242 |
+| 39 | **Azurá Stevens** 🔴 +3 | 239 |
 | 39 | Napheesa Collier | 239 |
-| 40 | **Azurá Stevens** 🔴 +2 | 238 |
-| 40 | Emma Meesseman | 238 |
+| 41 | Emma Meesseman | 238 |
 | 42 | **Brianna Turner** 🔴 | 234 |
 | 43 | Skylar Diggins | 231 |
 | 44 | Chasity Melvin | 228 |
@@ -903,7 +903,7 @@ _Last updated: 2026-07-23 00:42 UTC_
 | 59 | Chamique Holdsclaw | 376 |
 | 60 | Brittney Sykes | 371 |
 | 61 | Mwadi Mabika | 370 |
-| 62 | **A'ja Wilson** 🔴 +2 | 363 |
+| 62 | **A'ja Wilson** 🔴 +3 | 364 |
 | 63 | Erica Wheeler | 362 |
 | 64 | Lauren Jackson | 360 |
 | 64 | Tan White | 360 |
@@ -1650,7 +1650,7 @@ _Last updated: 2026-07-23 00:42 UTC_
 | 190 | Alanna Smith | 479 |
 | 191 | Seimone Augustus | 477 |
 | 192 | Allie Quigley | 475 |
-| 193 | **NaLyssa Smith** 🔴 | 474 |
+| 192 | **NaLyssa Smith** 🔴 +1 | 475 |
 | 194 | Satou Sabally | 471 |
 | 195 | Christi Thomas | 463 |
 | 195 | Nikki Teasley | 463 |

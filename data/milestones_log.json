@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-07-23T00:44:00+00:00",
+    "text": "Azur\u00e1 Stevens passed Emma Meesseman for #40 all-time in blocks (career 239) \u2014 up from #41 entering today \u2014 (6:20 - 4th \u2014 CHI @ NY)",
+    "kind": "rank_pass",
+    "player": "Azur\u00e1 Stevens",
+    "stat": "blocks",
+    "rank": 40,
+    "passed_players": [
+      "Emma Meesseman"
+    ],
+    "new_total": 239
+  },
+  {
     "ts": "2026-07-23T00:13:00+00:00",
     "text": "Chelsea Gray passed Alyssa Thomas, Chiney Ogwumike, and Kristen Rasmussen for #96 all-time in blocks (career 128) \u2014 up from #97 entering today \u2014 (3:28 - 2nd \u2014 LV @ WSH)",
     "kind": "rank_pass",
@@ -2993,14 +3005,5 @@
       "Maya Moore"
     ],
     "new_total": 687
-  },
-  {
-    "ts": "2026-06-28T23:31:00+00:00",
-    "text": "Pauline Astier reached 200 career points (now 201) \u2014 (8:51 - 2nd \u2014 NY @ GS)",
-    "kind": "round",
-    "player": "Pauline Astier",
-    "stat": "points",
-    "value": 200,
-    "new_total": 201
   }
 ]
