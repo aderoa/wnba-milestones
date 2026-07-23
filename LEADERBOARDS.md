@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-23 00:09 UTC_
+_Last updated: 2026-07-23 00:10 UTC_
 
 ## Contents
 
@@ -720,10 +720,10 @@ _Last updated: 2026-07-23 00:09 UTC_
 | 84 | Brittney Sykes | 136 |
 | 84 | Penny Taylor | 136 |
 | 86 | **Monique Billings** 🔴 | 134 |
-| 87 | Devereaux Peters | 133 |
-| 87 | Nicky Anosike | 133 |
-| 87 | **Olivia Nelson-Ododa** 🔴 | 133 |
-| 87 | Seimone Augustus | 133 |
+| 86 | **Olivia Nelson-Ododa** 🔴 +1 | 134 |
+| 88 | Devereaux Peters | 133 |
+| 88 | Nicky Anosike | 133 |
+| 88 | Seimone Augustus | 133 |
 | 91 | Katie Mattera | 131 |
 | 91 | Nakia Sanford | 131 |
 | 93 | Brooke Wyckoff | 129 |
@@ -1157,10 +1157,10 @@ _Last updated: 2026-07-23 00:09 UTC_
 | 108 | Betnijah Laney-Hamilton | 206 |
 | 109 | Lexie Brown | 203 |
 | 110 | Shanna Zolman | 199 |
+| 111 | **Caitlin Clark** 🔴 +2 | 197 |
 | 111 | Nia Coffey | 197 |
 | 111 | Temeka Johnson | 197 |
 | 111 | Tina Charles | 197 |
-| 114 | **Caitlin Clark** 🔴 +1 | 196 |
 | 115 | Lindsay Whalen | 193 |
 | 116 | Victoria Vivians | 192 |
 | 117 | Napheesa Collier | 190 |
