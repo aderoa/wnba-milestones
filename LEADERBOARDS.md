@@ -45,7 +45,7 @@ _Last updated: 2026-07-23 00:27 UTC_
 | 24 | DeLisha Milton-Jones | 5,571 |
 | 25 | Katie Douglas | 5,545 |
 | 26 | Lindsay Whalen | 5,511 |
-| 27 | **Kelsey Mitchell** 🔴 +8 | 5,206 |
+| 27 | **Kelsey Mitchell** 🔴 +11 | 5,209 |
 | 28 | Swin Cash | 5,119 |
 | 29 | Tiffany Hayes | 5,049 |
 | 30 | Tangela Smith | 5,035 |
@@ -66,7 +66,7 @@ _Last updated: 2026-07-23 00:27 UTC_
 | 45 | Kahleah Copper | 4,458 |
 | 46 | Crystal Langhorne | 4,433 |
 | 46 | Jia Perkins | 4,433 |
-| 48 | **Courtney Vandersloot** 🔴 +9 | 4,371 |
+| 48 | **Courtney Vandersloot** 🔴 +11 | 4,373 |
 | 49 | **Jonquel Jones** 🔴 +10 | 4,363 |
 | 50 | Courtney Williams | 4,350 |
 | 51 | Dearica Hamby | 4,348 |
@@ -185,7 +185,7 @@ _Last updated: 2026-07-23 00:27 UTC_
 | 164 | Bria Hartley | 1,967 |
 | 165 | Chiney Ogwumike | 1,964 |
 | 166 | Nicole Ohlde | 1,959 |
-| 167 | **Myisha Hines-Allen** 🔴 | 1,956 |
+| 167 | **Myisha Hines-Allen** 🔴 +2 | 1,958 |
 | 168 | Kedra Holland-Corn | 1,938 |
 | 169 | Isabelle Harrison | 1,932 |
 | 170 | Cathrine Kraayeveld | 1,926 |
@@ -464,7 +464,7 @@ _Last updated: 2026-07-23 00:27 UTC_
 | 32 | **Jewell Loyd** 🔴 | 1,156 |
 | 34 | Renee Montgomery | 1,140 |
 | 35 | Swin Cash | 1,131 |
-| 36 | **Sabrina Ionescu** 🔴 +3 | 1,095 |
+| 36 | **Sabrina Ionescu** 🔴 +4 | 1,096 |
 | 37 | Lindsey Harding | 1,090 |
 | 38 | Katie Douglas | 1,069 |
 | 39 | Alana Beard | 1,061 |
@@ -569,7 +569,7 @@ _Last updated: 2026-07-23 00:27 UTC_
 | 138 | Janeth Arcain | 469 |
 | 139 | Erin Phillips | 462 |
 | 140 | Sylvia Fowles | 461 |
-| 141 | **Tyasha Harris** 🔴 | 460 |
+| 140 | **Tyasha Harris** 🔴 +1 | 461 |
 | 142 | Sug Sutton | 456 |
 | 143 | Sydney Colson | 454 |
 | 144 | Yolanda Griffith | 451 |
@@ -1054,7 +1054,7 @@ _Last updated: 2026-07-23 00:27 UTC_
 | 5 | Kayla McBride | 759 |
 | 6 | Tina Thompson | 745 |
 | 7 | Katie Douglas | 723 |
-| 8 | **Kelsey Mitchell** 🔴 +1 | 713 |
+| 8 | **Kelsey Mitchell** 🔴 +2 | 714 |
 | 9 | **Jewell Loyd** 🔴 +1 | 696 |
 | 10 | DeWanna Bonner | 683 |
 | 11 | Kristi Toliver | 651 |
@@ -1533,7 +1533,7 @@ _Last updated: 2026-07-23 00:27 UTC_
 | 73 | Crystal Langhorne | 737 |
 | 74 | Shameka Christon | 734 |
 | 75 | Becky Hammon | 733 |
-| 76 | **Elizabeth Williams** 🔴 | 732 |
+| 75 | **Elizabeth Williams** 🔴 +1 | 733 |
 | 77 | Ariel Atkins | 731 |
 | 78 | Latasha Byears | 730 |
 | 79 | Kristi Toliver | 722 |
