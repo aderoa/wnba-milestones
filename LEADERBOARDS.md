@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-23 01:22 UTC_
+_Last updated: 2026-07-23 01:24 UTC_
 
 ## Contents
 
@@ -34,7 +34,7 @@ _Last updated: 2026-07-23 01:22 UTC_
 | 13 | Breanna Stewart | 6,355 |
 | 14 | Lisa Leslie | 6,251 |
 | 15 | **A'ja Wilson** 🔴 +31 | 6,209 |
-| 16 | **Jewell Loyd** 🔴 +6 | 6,154 |
+| 16 | **Jewell Loyd** 🔴 +7 | 6,155 |
 | 17 | Brittney Griner | 6,087 |
 | 18 | Lauren Jackson | 6,005 |
 | 18 | Seimone Augustus | 6,005 |
@@ -175,7 +175,7 @@ _Last updated: 2026-07-23 01:22 UTC_
 | 154 | Tari Phillips | 2,134 |
 | 155 | Cheryl Ford | 2,116 |
 | 156 | Elena Baranova | 2,110 |
-| 157 | **Aliyah Boston** 🔴 +19 | 2,106 |
+| 157 | **Aliyah Boston** 🔴 +20 | 2,107 |
 | 158 | Aerial Powers | 2,068 |
 | 159 | Coco Miller | 2,030 |
 | 160 | Diamond DeShields | 2,026 |
