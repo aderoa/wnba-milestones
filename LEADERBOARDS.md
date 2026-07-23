@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-23 00:53 UTC_
+_Last updated: 2026-07-23 00:54 UTC_
 
 ## Contents
 
@@ -31,7 +31,7 @@ _Last updated: 2026-07-23 00:53 UTC_
 | 10 | Candace Parker | 6,574 |
 | 11 | Katie Smith | 6,450 |
 | 12 | Sylvia Fowles | 6,413 |
-| 13 | **Breanna Stewart** 🔴 +18 | 6,353 |
+| 13 | **Breanna Stewart** 🔴 +20 | 6,355 |
 | 14 | Lisa Leslie | 6,251 |
 | 15 | **A'ja Wilson** 🔴 +20 | 6,198 |
 | 16 | **Jewell Loyd** 🔴 +3 | 6,151 |
@@ -110,12 +110,12 @@ _Last updated: 2026-07-23 00:53 UTC_
 | 89 | Erica Wheeler | 3,200 |
 | 90 | Danielle Robinson | 3,160 |
 | 91 | Wendy Palmer | 3,135 |
-| 92 | **Sabrina Ionescu** 🔴 +19 | 3,116 |
+| 92 | **Sabrina Ionescu** 🔴 +20 | 3,117 |
 | 93 | Shavonte Zellous | 3,103 |
 | 94 | Briann January | 3,082 |
 | 95 | Erika de Souza | 3,046 |
 | 96 | Shameka Christon | 3,039 |
-| 97 | **Natasha Cloud** 🔴 +7 | 3,025 |
+| 97 | **Natasha Cloud** 🔴 +9 | 3,027 |
 | 98 | Marie Ferdinand-Harris | 3,001 |
 | 99 | Emma Meesseman | 2,966 |
 | 100 | **Elizabeth Williams** 🔴 +8 | 2,941 |
@@ -238,7 +238,7 @@ _Last updated: 2026-07-23 00:53 UTC_
 | 12 | Alyssa Thomas | 2,869 |
 | 13 | **Jonquel Jones** 🔴 +10 | 2,738 |
 | 14 | **A'ja Wilson** 🔴 +6 | 2,663 |
-| 15 | **Breanna Stewart** 🔴 +8 | 2,640 |
+| 15 | **Breanna Stewart** 🔴 +9 | 2,641 |
 | 16 | Sancho Lyttle | 2,596 |
 | 17 | Brittney Griner | 2,579 |
 | 18 | DeLisha Milton-Jones | 2,574 |
@@ -550,7 +550,7 @@ _Last updated: 2026-07-23 00:53 UTC_
 | 118 | Svetlana Abrosimova | 551 |
 | 120 | Michele Timms | 549 |
 | 121 | Rhyne Howard | 536 |
-| 122 | **Myisha Hines-Allen** 🔴 | 529 |
+| 122 | **Myisha Hines-Allen** 🔴 +1 | 530 |
 | 123 | Marie Ferdinand-Harris | 528 |
 | 124 | Margo Dydek | 524 |
 | 125 | **Rachel Banham** 🔴 +1 | 512 |
@@ -645,7 +645,7 @@ _Last updated: 2026-07-23 00:53 UTC_
 | 9 | Tangela Smith | 554 |
 | 10 | Ruth Riley | 505 |
 | 11 | **Elizabeth Williams** 🔴 | 503 |
-| 12 | **Breanna Stewart** 🔴 +2 | 452 |
+| 12 | **Breanna Stewart** 🔴 +3 | 453 |
 | 13 | Taj McWilliams-Franklin | 443 |
 | 14 | Tina Charles | 428 |
 | 15 | **Jonquel Jones** 🔴 +2 | 427 |
@@ -872,7 +872,7 @@ _Last updated: 2026-07-23 00:53 UTC_
 | 28 | Natasha Howard | 470 |
 | 29 | Skylar Diggins | 463 |
 | 29 | Teresa Weatherspoon | 463 |
-| 31 | **Jewell Loyd** 🔴 +1 | 459 |
+| 31 | **Jewell Loyd** 🔴 +2 | 460 |
 | 32 | **Chelsea Gray** 🔴 | 457 |
 | 33 | Rebekkah Brunson | 456 |
 | 34 | Tangela Smith | 455 |
@@ -1221,8 +1221,8 @@ _Last updated: 2026-07-23 00:53 UTC_
 | 171 | Ticha Penicheiro | 128 |
 | 173 | Michele Timms | 127 |
 | 174 | **Kennedy Burke** 🔴 +1 | 126 |
+| 174 | **Lexie Hull** 🔴 +1 | 126 |
 | 174 | Tamecka Dixon | 126 |
-| 176 | **Lexie Hull** 🔴 | 125 |
 | 177 | Charde Houston | 124 |
 | 177 | Veronica Burton | 124 |
 | 179 | Lisa Leslie | 123 |
