@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-23 00:48 UTC
+
+- **Azurá Stevens** reached **500** career fouls (now 500) — _4:19 - 4th — CHI @ NY_
+
 ## 2026-07-23 00:47 UTC
 
 - **Azurá Stevens** passed **Napheesa Collier** for **#39** all-time in blocks (career 240) — up from #41 entering today — _4:48 - 4th — CHI @ NY_

@@ -1,5 +1,14 @@
 [
   {
+    "ts": "2026-07-23T00:48:00+00:00",
+    "text": "Azur\u00e1 Stevens reached 500 career fouls (now 500) \u2014 (4:19 - 4th \u2014 CHI @ NY)",
+    "kind": "round",
+    "player": "Azur\u00e1 Stevens",
+    "stat": "fouls",
+    "value": 500,
+    "new_total": 500
+  },
+  {
     "ts": "2026-07-23T00:47:00+00:00",
     "text": "Azur\u00e1 Stevens passed Napheesa Collier for #39 all-time in blocks (career 240) \u2014 up from #41 entering today \u2014 (4:48 - 4th \u2014 CHI @ NY)",
     "kind": "rank_pass",
@@ -2995,17 +3004,5 @@
       "Courtney Vandersloot"
     ],
     "new_total": 4365
-  },
-  {
-    "ts": "2026-06-28T23:54:00+00:00",
-    "text": "Jonquel Jones passed Rachel Banham for #42 all-time in three-pointers (career 391) \u2014 up from #43 entering today \u2014 (2:24 - 2nd \u2014 NY @ GS)",
-    "kind": "rank_pass",
-    "player": "Jonquel Jones",
-    "stat": "three-pointers",
-    "rank": 42,
-    "passed_players": [
-      "Rachel Banham"
-    ],
-    "new_total": 391
   }
 ]
