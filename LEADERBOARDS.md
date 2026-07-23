@@ -58,7 +58,7 @@ _Last updated: 2026-07-23 01:02 UTC_
 | 37 | Chamique Holdsclaw | 4,713 |
 | 38 | Elena Delle Donne | 4,706 |
 | 39 | Natasha Howard | 4,693 |
-| 40 | **Chelsea Gray** 🔴 +11 | 4,636 |
+| 40 | **Chelsea Gray** 🔴 +14 | 4,639 |
 | 41 | Penny Taylor | 4,595 |
 | 42 | Kelsey Plum | 4,494 |
 | 43 | Allisha Gray | 4,491 |
@@ -110,7 +110,7 @@ _Last updated: 2026-07-23 01:02 UTC_
 | 89 | Erica Wheeler | 3,200 |
 | 90 | Danielle Robinson | 3,160 |
 | 91 | Wendy Palmer | 3,135 |
-| 92 | **Sabrina Ionescu** 🔴 +23 | 3,120 |
+| 92 | **Sabrina Ionescu** 🔴 +26 | 3,123 |
 | 93 | Shavonte Zellous | 3,103 |
 | 94 | Briann January | 3,082 |
 | 95 | Erika de Souza | 3,046 |
@@ -473,7 +473,7 @@ _Last updated: 2026-07-23 01:02 UTC_
 | 42 | Sheryl Swoopes | 1,037 |
 | 43 | Tina Charles | 1,033 |
 | 44 | Kayla McBride | 994 |
-| 45 | **Breanna Stewart** 🔴 +3 | 984 |
+| 45 | **Breanna Stewart** 🔴 +4 | 985 |
 | 46 | Nikki Teasley | 982 |
 | 47 | Tamecka Dixon | 960 |
 | 48 | Tiffany Hayes | 957 |
@@ -1070,7 +1070,7 @@ _Last updated: 2026-07-23 01:02 UTC_
 | 21 | Allie Quigley | 510 |
 | 22 | Leilani Mitchell | 508 |
 | 23 | Marina Mabrey | 500 |
-| 24 | **Sabrina Ionescu** 🔴 +4 | 472 |
+| 24 | **Sabrina Ionescu** 🔴 +5 | 473 |
 | 25 | Shekinna Stricklen | 468 |
 | 26 | **Breanna Stewart** 🔴 +2 | 467 |
 | 27 | Cappie Pondexter | 464 |
