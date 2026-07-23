@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-23 00:45 UTC
+
+- **NaLyssa Smith** passed **Chante Black**, **Danielle Adams**, and **Nicole Powell** for **#131** all-time in blocks (career 101) — up from #135 entering today — _7:57 - 3rd — LV @ WSH_
+
 ## 2026-07-23 00:44 UTC
 
 - **Azurá Stevens** passed **Emma Meesseman** for **#40** all-time in blocks (career 239) — up from #41 entering today — _6:20 - 4th — CHI @ NY_

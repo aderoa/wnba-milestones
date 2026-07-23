@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-23 00:44 UTC_
+_Last updated: 2026-07-23 00:45 UTC_
 
 ## Contents
 
@@ -237,7 +237,7 @@ _Last updated: 2026-07-23 00:44 UTC_
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | Alyssa Thomas | 2,869 |
 | 13 | **Jonquel Jones** 🔴 +7 | 2,735 |
-| 14 | **A'ja Wilson** 🔴 +5 | 2,662 |
+| 14 | **A'ja Wilson** 🔴 +6 | 2,663 |
 | 15 | **Breanna Stewart** 🔴 +8 | 2,640 |
 | 16 | Sancho Lyttle | 2,596 |
 | 17 | Brittney Griner | 2,579 |
@@ -351,7 +351,7 @@ _Last updated: 2026-07-23 00:44 UTC_
 | 124 | Tamecka Dixon | 1,035 |
 | 126 | Kamila Vodichkova | 1,031 |
 | 127 | Jasmine Thomas | 1,027 |
-| 128 | **Sabrina Ionescu** 🔴 +3 | 1,023 |
+| 128 | **Sabrina Ionescu** 🔴 +4 | 1,024 |
 | 129 | Jessica Shepard | 1,016 |
 | 130 | Cathrine Kraayeveld | 1,013 |
 | 131 | Kelly Miller | 1,011 |
@@ -645,10 +645,10 @@ _Last updated: 2026-07-23 00:44 UTC_
 | 9 | Tangela Smith | 554 |
 | 10 | Ruth Riley | 505 |
 | 11 | **Elizabeth Williams** 🔴 | 503 |
-| 12 | **Breanna Stewart** 🔴 +1 | 451 |
+| 12 | **Breanna Stewart** 🔴 +2 | 452 |
 | 13 | Taj McWilliams-Franklin | 443 |
 | 14 | Tina Charles | 428 |
-| 15 | **Jonquel Jones** 🔴 +1 | 426 |
+| 15 | **Jonquel Jones** 🔴 +2 | 427 |
 | 16 | Michelle Snow | 403 |
 | 17 | Tamika Catchings | 383 |
 | 18 | Tina Thompson | 372 |
@@ -764,10 +764,10 @@ _Last updated: 2026-07-23 00:44 UTC_
 | 128 | Isabelle Harrison | 102 |
 | 128 | Theresa Plaisance | 102 |
 | 130 | Deanna Nolan | 101 |
-| 131 | Chante Black | 100 |
-| 131 | Danielle Adams | 100 |
-| 131 | **NaLyssa Smith** 🔴 +2 | 100 |
-| 131 | Nicole Powell | 100 |
+| 130 | **NaLyssa Smith** 🔴 +3 | 101 |
+| 132 | Chante Black | 100 |
+| 132 | Danielle Adams | 100 |
+| 132 | Nicole Powell | 100 |
 | 135 | Mwadi Mabika | 98 |
 | 135 | Natalie Achonwa | 98 |
 | 137 | Aneika Morello | 96 |
@@ -817,12 +817,12 @@ _Last updated: 2026-07-23 00:44 UTC_
 | 179 | Tianna Hawkins | 75 |
 | 182 | Epiphanny Prince | 74 |
 | 183 | Ayana Walker | 73 |
-| 183 | **Jackie Young** 🔴 +1 | 73 |
 | 183 | Lindsay Wisdom-Hylton | 73 |
-| 186 | Cappie Pondexter | 72 |
-| 186 | Christi Thomas | 72 |
-| 186 | Olympia Scott | 72 |
-| 186 | Sue Bird | 72 |
+| 185 | Cappie Pondexter | 72 |
+| 185 | Christi Thomas | 72 |
+| 185 | **Jackie Young** 🔴 | 72 |
+| 185 | Olympia Scott | 72 |
+| 185 | Sue Bird | 72 |
 | 190 | Marlies Askamp | 71 |
 | 190 | Tanisha Wright | 71 |
 | 192 | Wendy Palmer | 70 |

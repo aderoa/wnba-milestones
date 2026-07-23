@@ -1,5 +1,19 @@
 [
   {
+    "ts": "2026-07-23T00:45:00+00:00",
+    "text": "NaLyssa Smith passed Chante Black, Danielle Adams, and Nicole Powell for #131 all-time in blocks (career 101) \u2014 up from #135 entering today \u2014 (7:57 - 3rd \u2014 LV @ WSH)",
+    "kind": "rank_pass",
+    "player": "NaLyssa Smith",
+    "stat": "blocks",
+    "rank": 131,
+    "passed_players": [
+      "Chante Black",
+      "Danielle Adams",
+      "Nicole Powell"
+    ],
+    "new_total": 101
+  },
+  {
     "ts": "2026-07-23T00:44:00+00:00",
     "text": "Azur\u00e1 Stevens passed Emma Meesseman for #40 all-time in blocks (career 239) \u2014 up from #41 entering today \u2014 (6:20 - 4th \u2014 CHI @ NY)",
     "kind": "rank_pass",
@@ -2993,17 +3007,5 @@
       "Sophia Young-Malcolm"
     ],
     "new_total": 688
-  },
-  {
-    "ts": "2026-06-28T23:52:00+00:00",
-    "text": "Breanna Stewart passed Maya Moore for #91 all-time in fouls (career 687) \u2014 up from #92 entering today \u2014 (3:23 - 2nd \u2014 NY @ GS)",
-    "kind": "rank_pass",
-    "player": "Breanna Stewart",
-    "stat": "fouls",
-    "rank": 91,
-    "passed_players": [
-      "Maya Moore"
-    ],
-    "new_total": 687
   }
 ]
