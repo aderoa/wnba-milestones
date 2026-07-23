@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-23 00:23 UTC_
+_Last updated: 2026-07-23 00:24 UTC_
 
 ## Contents
 
@@ -45,7 +45,7 @@ _Last updated: 2026-07-23 00:23 UTC_
 | 24 | DeLisha Milton-Jones | 5,571 |
 | 25 | Katie Douglas | 5,545 |
 | 26 | Lindsay Whalen | 5,511 |
-| 27 | **Kelsey Mitchell** 🔴 +5 | 5,203 |
+| 27 | **Kelsey Mitchell** 🔴 +6 | 5,204 |
 | 28 | Swin Cash | 5,119 |
 | 29 | Tiffany Hayes | 5,049 |
 | 30 | Tangela Smith | 5,035 |
@@ -118,7 +118,7 @@ _Last updated: 2026-07-23 00:23 UTC_
 | 97 | **Natasha Cloud** 🔴 +7 | 3,025 |
 | 98 | Marie Ferdinand-Harris | 3,001 |
 | 99 | Emma Meesseman | 2,966 |
-| 100 | **Elizabeth Williams** 🔴 +4 | 2,937 |
+| 100 | **Elizabeth Williams** 🔴 +6 | 2,939 |
 | 101 | Natalie Williams | 2,894 |
 | 102 | Jennifer Gillom | 2,888 |
 | 103 | Iziane Castro Marques | 2,862 |
@@ -236,7 +236,7 @@ _Last updated: 2026-07-23 00:23 UTC_
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | Alyssa Thomas | 2,869 |
-| 13 | **Jonquel Jones** 🔴 +6 | 2,734 |
+| 13 | **Jonquel Jones** 🔴 +7 | 2,735 |
 | 14 | **A'ja Wilson** 🔴 +5 | 2,662 |
 | 15 | **Breanna Stewart** 🔴 +7 | 2,639 |
 | 16 | Sancho Lyttle | 2,596 |
@@ -256,7 +256,7 @@ _Last updated: 2026-07-23 00:23 UTC_
 | 30 | Chamique Holdsclaw | 2,123 |
 | 31 | Chasity Melvin | 2,097 |
 | 32 | Tammy Sutton-Brown | 2,010 |
-| 33 | **Elizabeth Williams** 🔴 +1 | 1,979 |
+| 33 | **Elizabeth Williams** 🔴 +2 | 1,980 |
 | 34 | Cheryl Ford | 1,907 |
 | 35 | Courtney Williams | 1,848 |
 | 36 | Kiah Stokes | 1,835 |
@@ -1608,7 +1608,7 @@ _Last updated: 2026-07-23 00:23 UTC_
 | 147 | Renee Montgomery | 543 |
 | 149 | Marissa Coleman | 541 |
 | 150 | **Sophie Cunningham** 🔴 +1 | 539 |
-| 151 | **Myisha Hines-Allen** 🔴 | 535 |
+| 151 | **Myisha Hines-Allen** 🔴 +1 | 536 |
 | 152 | Damiris Dantas | 533 |
 | 152 | Kristen Rasmussen | 533 |
 | 154 | Amanda Zahui B | 530 |
