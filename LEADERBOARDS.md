@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-23 00:49 UTC_
+_Last updated: 2026-07-23 00:50 UTC_
 
 ## Contents
 
@@ -33,7 +33,7 @@ _Last updated: 2026-07-23 00:49 UTC_
 | 12 | Sylvia Fowles | 6,413 |
 | 13 | **Breanna Stewart** 🔴 +18 | 6,353 |
 | 14 | Lisa Leslie | 6,251 |
-| 15 | **A'ja Wilson** 🔴 +17 | 6,195 |
+| 15 | **A'ja Wilson** 🔴 +19 | 6,197 |
 | 16 | **Jewell Loyd** 🔴 +3 | 6,151 |
 | 17 | Brittney Griner | 6,087 |
 | 18 | Lauren Jackson | 6,005 |
@@ -1598,9 +1598,9 @@ _Last updated: 2026-07-23 00:49 UTC_
 | 138 | Jessica Breland | 562 |
 | 139 | **A'ja Wilson** 🔴 +3 | 557 |
 | 140 | Dawn Staley | 551 |
-| 141 | Glory Johnson | 550 |
-| 141 | **Jackie Young** 🔴 +2 | 550 |
-| 141 | Tierra Ruffin-Pratt | 550 |
+| 140 | **Jackie Young** 🔴 +3 | 551 |
+| 142 | Glory Johnson | 550 |
+| 142 | Tierra Ruffin-Pratt | 550 |
 | 144 | **Monique Billings** 🔴 +1 | 547 |
 | 145 | Erlana Larkins | 546 |
 | 146 | Kayla McBride | 544 |
