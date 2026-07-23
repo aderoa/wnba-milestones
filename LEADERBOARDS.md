@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-23 00:40 UTC_
+_Last updated: 2026-07-23 00:42 UTC_
 
 ## Contents
 
@@ -83,7 +83,7 @@ _Last updated: 2026-07-23 00:40 UTC_
 | 62 | Allie Quigley | 3,786 |
 | 63 | Chasity Melvin | 3,781 |
 | 64 | Brittney Sykes | 3,726 |
-| 65 | **Jackie Young** 🔴 +11 | 3,709 |
+| 65 | **Jackie Young** 🔴 +12 | 3,710 |
 | 66 | Kara Lawson | 3,670 |
 | 67 | Mwadi Mabika | 3,576 |
 | 68 | Odyssey Sims | 3,574 |
@@ -324,7 +324,7 @@ _Last updated: 2026-07-23 00:40 UTC_
 | 98 | Seimone Augustus | 1,228 |
 | 99 | Jia Perkins | 1,220 |
 | 100 | Kahleah Copper | 1,206 |
-| 101 | **Aliyah Boston** 🔴 +3 | 1,201 |
+| 101 | **Aliyah Boston** 🔴 +5 | 1,203 |
 | 102 | DeMya Walker | 1,199 |
 | 103 | Latasha Byears | 1,190 |
 | 103 | Tanisha Wright | 1,190 |
@@ -495,7 +495,7 @@ _Last updated: 2026-07-23 00:40 UTC_
 | 64 | Lisa Leslie | 873 |
 | 65 | Brittney Sykes | 866 |
 | 66 | Tully Bevilaqua | 853 |
-| 67 | **Kelsey Mitchell** 🔴 +1 | 848 |
+| 67 | **Kelsey Mitchell** 🔴 +2 | 849 |
 | 68 | Jia Perkins | 837 |
 | 69 | Andrea Stinson | 810 |
 | 70 | Tina Thompson | 803 |
@@ -719,8 +719,8 @@ _Last updated: 2026-07-23 00:40 UTC_
 | 83 | Shavonte Zellous | 139 |
 | 84 | Brittney Sykes | 136 |
 | 84 | Penny Taylor | 136 |
-| 86 | **Monique Billings** 🔴 | 134 |
-| 86 | **Olivia Nelson-Ododa** 🔴 +1 | 134 |
+| 86 | **Olivia Nelson-Ododa** 🔴 +2 | 135 |
+| 87 | **Monique Billings** 🔴 | 134 |
 | 88 | Devereaux Peters | 133 |
 | 88 | Nicky Anosike | 133 |
 | 88 | Seimone Augustus | 133 |
@@ -903,8 +903,8 @@ _Last updated: 2026-07-23 00:40 UTC_
 | 59 | Chamique Holdsclaw | 376 |
 | 60 | Brittney Sykes | 371 |
 | 61 | Mwadi Mabika | 370 |
-| 62 | **A'ja Wilson** 🔴 +1 | 362 |
-| 62 | Erica Wheeler | 362 |
+| 62 | **A'ja Wilson** 🔴 +2 | 363 |
+| 63 | Erica Wheeler | 362 |
 | 64 | Lauren Jackson | 360 |
 | 64 | Tan White | 360 |
 | 66 | Vickie Johnson | 357 |
