@@ -34,7 +34,7 @@ _Last updated: 2026-07-23 01:24 UTC_
 | 13 | Breanna Stewart | 6,355 |
 | 14 | Lisa Leslie | 6,251 |
 | 15 | **A'ja Wilson** 🔴 +31 | 6,209 |
-| 16 | **Jewell Loyd** 🔴 +7 | 6,155 |
+| 16 | **Jewell Loyd** 🔴 +8 | 6,156 |
 | 17 | Brittney Griner | 6,087 |
 | 18 | Lauren Jackson | 6,005 |
 | 18 | Seimone Augustus | 6,005 |
@@ -873,7 +873,7 @@ _Last updated: 2026-07-23 01:24 UTC_
 | 29 | Skylar Diggins | 463 |
 | 29 | Teresa Weatherspoon | 463 |
 | 31 | **Jewell Loyd** 🔴 +2 | 460 |
-| 32 | **Chelsea Gray** 🔴 | 457 |
+| 32 | **Chelsea Gray** 🔴 +1 | 458 |
 | 33 | Rebekkah Brunson | 456 |
 | 34 | Tangela Smith | 455 |
 | 35 | Tina Thompson | 452 |
@@ -1598,7 +1598,7 @@ _Last updated: 2026-07-23 01:24 UTC_
 | 137 | Barbara Farris | 563 |
 | 138 | Jessica Breland | 562 |
 | 139 | **A'ja Wilson** 🔴 +3 | 557 |
-| 140 | **Jackie Young** 🔴 +4 | 552 |
+| 140 | **Jackie Young** 🔴 +5 | 553 |
 | 141 | Dawn Staley | 551 |
 | 142 | Glory Johnson | 550 |
 | 142 | Tierra Ruffin-Pratt | 550 |
