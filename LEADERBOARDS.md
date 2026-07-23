@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-23 02:19 UTC_
+_Last updated: 2026-07-23 02:21 UTC_
 
 ## Contents
 
@@ -352,7 +352,7 @@ _Last updated: 2026-07-23 02:19 UTC_
 | 126 | Kamila Vodichkova | 1,031 |
 | 127 | Jasmine Thomas | 1,027 |
 | 128 | Sabrina Ionescu | 1,024 |
-| 129 | **Jessica Shepard** 🔴 | 1,016 |
+| 129 | **Jessica Shepard** 🔴 +1 | 1,017 |
 | 130 | Cathrine Kraayeveld | 1,013 |
 | 131 | Kelly Miller | 1,011 |
 | 131 | Noelle Quinn | 1,011 |
@@ -794,12 +794,12 @@ _Last updated: 2026-07-23 02:19 UTC_
 | 158 | Cameron Brink | 83 |
 | 158 | Tamera Young | 83 |
 | 160 | Damiris Dantas | 82 |
-| 161 | **Awak Kuier** 🔴 +1 | 81 |
 | 161 | Charlotte Smith | 81 |
 | 161 | Cintia dos Santos | 81 |
 | 161 | Jessie Hicks | 81 |
-| 165 | Nykesha Sales | 80 |
-| 165 | Rushia Brown | 80 |
+| 164 | **Awak Kuier** 🔴 | 80 |
+| 164 | Nykesha Sales | 80 |
+| 164 | Rushia Brown | 80 |
 | 167 | Stephanie Talbot | 79 |
 | 168 | Astou Ndour-Fall | 78 |
 | 168 | Katie Smith | 78 |
