@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-26 01:59 UTC_
+_Last updated: 2026-07-26 02:00 UTC_
 
 ## Contents
 
@@ -236,9 +236,9 @@ _Last updated: 2026-07-26 01:59 UTC_
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | Alyssa Thomas | 2,858 |
-| 13 | **Jonquel Jones** 🔴 +9 | 2,737 |
+| 13 | **Jonquel Jones** 🔴 +10 | 2,738 |
 | 14 | **A'ja Wilson** 🔴 +3 | 2,660 |
-| 15 | **Breanna Stewart** 🔴 +8 | 2,640 |
+| 15 | **Breanna Stewart** 🔴 +10 | 2,642 |
 | 16 | Sancho Lyttle | 2,596 |
 | 17 | Brittney Griner | 2,579 |
 | 18 | DeLisha Milton-Jones | 2,574 |
@@ -474,7 +474,7 @@ _Last updated: 2026-07-26 01:59 UTC_
 | 42 | Sheryl Swoopes | 1,037 |
 | 43 | Tina Charles | 1,033 |
 | 44 | Kayla McBride | 992 |
-| 45 | **Breanna Stewart** 🔴 +4 | 985 |
+| 45 | **Breanna Stewart** 🔴 +5 | 986 |
 | 46 | Nikki Teasley | 982 |
 | 47 | Tamecka Dixon | 960 |
 | 48 | Tiffany Hayes | 957 |
@@ -1246,9 +1246,9 @@ _Last updated: 2026-07-26 01:59 UTC_
 | 196 | Layshia Clarendon | 107 |
 | 197 | Laurie Koehn | 105 |
 | 198 | Julie Vanloo | 104 |
-| 199 | Jeanette Pohlen-Mavunga | 103 |
-| 199 | Kiesha Brown | 103 |
-| 199 | **Sonia Citron** 🔴 +1 | 103 |
+| 198 | **Sonia Citron** 🔴 +2 | 104 |
+| 200 | Jeanette Pohlen-Mavunga | 103 |
+| 200 | Kiesha Brown | 103 |
 
 ## Turnovers
 

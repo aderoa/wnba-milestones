@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-07-26T02:00:00+00:00",
+    "text": "Sonia Citron passed Jeanette Pohlen-Mavunga and Kiesha Brown for #199 all-time in three-pointers (career 104) \u2014 new to top 200 today \u2014 (2:32 - 3rd \u2014 SPO @ COOP)",
+    "kind": "rank_pass",
+    "player": "Sonia Citron",
+    "stat": "three-pointers",
+    "rank": 199,
+    "passed_players": [
+      "Jeanette Pohlen-Mavunga",
+      "Kiesha Brown"
+    ],
+    "new_total": 104
+  },
+  {
     "ts": "2026-07-23T01:59:00+00:00",
     "text": "Aneesah Morrow reached 500 career points (now 500) \u2014 (3:38 - 4th \u2014 CON @ IND)",
     "kind": "round",
@@ -2991,14 +3004,5 @@
       "Katie Lou Samuelson"
     ],
     "new_total": 154
-  },
-  {
-    "ts": "2026-06-28T23:57:00+00:00",
-    "text": "Kayla Thornton reached 2,400 career points (now 2,400) \u2014 (45.4 - 2nd \u2014 NY @ GS)",
-    "kind": "round",
-    "player": "Kayla Thornton",
-    "stat": "points",
-    "value": 2400,
-    "new_total": 2400
   }
 ]

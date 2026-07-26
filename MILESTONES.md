@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-26 02:00 UTC
+
+- **Sonia Citron** passed **Jeanette Pohlen-Mavunga** and **Kiesha Brown** for **#199** all-time in three-pointers (career 104) — new to top 200 today — _2:32 - 3rd — SPO @ COOP_
+
 ## 2026-07-23 01:59 UTC
 
 - **Aneesah Morrow** reached **500** career points (now 500) — _3:38 - 4th — CON @ IND_
