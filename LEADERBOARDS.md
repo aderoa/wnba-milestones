@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-26 00:48 UTC_
+_Last updated: 2026-07-26 00:49 UTC_
 
 ## Contents
 
@@ -31,7 +31,7 @@ _Last updated: 2026-07-26 00:48 UTC_
 | 10 | Candace Parker | 6,574 |
 | 11 | Katie Smith | 6,450 |
 | 12 | Sylvia Fowles | 6,413 |
-| 13 | **Breanna Stewart** 🔴 | 6,335 |
+| 13 | **Breanna Stewart** 🔴 +2 | 6,337 |
 | 14 | Lisa Leslie | 6,251 |
 | 15 | **A'ja Wilson** 🔴 | 6,178 |
 | 16 | Jewell Loyd | 6,148 |
@@ -195,8 +195,8 @@ _Last updated: 2026-07-26 00:48 UTC_
 | 174 | Jessica Breland | 1,918 |
 | 175 | Nakia Sanford | 1,915 |
 | 176 | Ebony Hoffman | 1,909 |
-| 177 | Candice Wiggins | 1,901 |
-| 178 | **Gabby Williams** 🔴 | 1,899 |
+| 177 | **Gabby Williams** 🔴 +3 | 1,902 |
+| 178 | Candice Wiggins | 1,901 |
 | 179 | NaLyssa Smith | 1,879 |
 | 180 | Rachel Banham | 1,843 |
 | 181 | Damiris Dantas | 1,842 |
@@ -237,7 +237,7 @@ _Last updated: 2026-07-26 00:48 UTC_
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | Alyssa Thomas | 2,858 |
 | 13 | Jonquel Jones | 2,728 |
-| 14 | **A'ja Wilson** 🔴 | 2,657 |
+| 14 | **A'ja Wilson** 🔴 +1 | 2,658 |
 | 15 | **Breanna Stewart** 🔴 +2 | 2,634 |
 | 16 | Sancho Lyttle | 2,596 |
 | 17 | Brittney Griner | 2,579 |
@@ -324,8 +324,8 @@ _Last updated: 2026-07-26 00:48 UTC_
 | 98 | Seimone Augustus | 1,228 |
 | 99 | Jia Perkins | 1,220 |
 | 100 | Kahleah Copper | 1,204 |
+| 101 | **Aliyah Boston** 🔴 +1 | 1,199 |
 | 101 | DeMya Walker | 1,199 |
-| 102 | **Aliyah Boston** 🔴 | 1,198 |
 | 103 | Latasha Byears | 1,190 |
 | 103 | Tanisha Wright | 1,190 |
 | 105 | Vicky Bullett | 1,189 |
@@ -352,7 +352,7 @@ _Last updated: 2026-07-26 00:48 UTC_
 | 126 | Kamila Vodichkova | 1,031 |
 | 127 | Jasmine Thomas | 1,027 |
 | 128 | Sabrina Ionescu | 1,020 |
-| 129 | **Jessica Shepard** 🔴 | 1,016 |
+| 129 | **Jessica Shepard** 🔴 +1 | 1,017 |
 | 130 | Cathrine Kraayeveld | 1,013 |
 | 131 | Kelly Miller | 1,011 |
 | 131 | Noelle Quinn | 1,011 |
@@ -496,7 +496,7 @@ _Last updated: 2026-07-26 00:48 UTC_
 | 64 | Lisa Leslie | 873 |
 | 65 | Brittney Sykes | 866 |
 | 66 | Tully Bevilaqua | 853 |
-| 67 | **Kelsey Mitchell** 🔴 | 847 |
+| 67 | **Kelsey Mitchell** 🔴 +1 | 848 |
 | 68 | Jia Perkins | 837 |
 | 69 | Andrea Stinson | 810 |
 | 70 | Tina Thompson | 803 |
@@ -532,9 +532,9 @@ _Last updated: 2026-07-26 00:48 UTC_
 | 100 | **Natasha Howard** 🔴 | 615 |
 | 101 | Debbie Black | 612 |
 | 102 | Cynthia Cooper | 602 |
+| 103 | **Gabby Williams** 🔴 +1 | 592 |
 | 103 | Sancho Lyttle | 592 |
-| 104 | **Caitlin Clark** 🔴 | 591 |
-| 104 | **Gabby Williams** 🔴 | 591 |
+| 105 | **Caitlin Clark** 🔴 | 591 |
 | 106 | Betnijah Laney-Hamilton | 590 |
 | 106 | Camille Smith | 590 |
 | 108 | Armintie Herrington | 589 |
@@ -581,8 +581,8 @@ _Last updated: 2026-07-26 00:48 UTC_
 | 149 | DeMya Walker | 446 |
 | 150 | Essence Carson | 445 |
 | 151 | Julie Allemand | 444 |
+| 152 | **Jessica Shepard** 🔴 +1 | 437 |
 | 152 | Michelle Snow | 437 |
-| 153 | **Jessica Shepard** 🔴 | 436 |
 | 154 | Lauren Jackson | 435 |
 | 155 | Adrienne Goodson | 433 |
 | 155 | Crystal Langhorne | 433 |
@@ -1158,9 +1158,9 @@ _Last updated: 2026-07-26 00:48 UTC_
 | 108 | Betnijah Laney-Hamilton | 206 |
 | 109 | Lexie Brown | 203 |
 | 110 | Shanna Zolman | 199 |
-| 111 | **Caitlin Clark** 🔴 +2 | 197 |
-| 111 | Temeka Johnson | 197 |
-| 111 | Tina Charles | 197 |
+| 111 | **Caitlin Clark** 🔴 +3 | 198 |
+| 112 | Temeka Johnson | 197 |
+| 112 | Tina Charles | 197 |
 | 114 | Nia Coffey | 196 |
 | 115 | Lindsay Whalen | 193 |
 | 116 | Victoria Vivians | 192 |
@@ -1190,10 +1190,10 @@ _Last updated: 2026-07-26 00:48 UTC_
 | 140 | Aari McDonald | 158 |
 | 140 | Jennifer Azzi | 158 |
 | 142 | Alanna Smith | 156 |
-| 143 | Bridget Pettis | 153 |
-| 143 | **Gabby Williams** 🔴 | 153 |
-| 143 | Jennifer Gillom | 153 |
-| 143 | Katie Lou Samuelson | 153 |
+| 143 | **Gabby Williams** 🔴 +1 | 154 |
+| 144 | Bridget Pettis | 153 |
+| 144 | Jennifer Gillom | 153 |
+| 144 | Katie Lou Samuelson | 153 |
 | 147 | Michaela Onyenwere | 151 |
 | 148 | Rita Williams | 150 |
 | 149 | Moriah Jefferson | 149 |
