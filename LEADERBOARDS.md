@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-26 01:07 UTC_
+_Last updated: 2026-07-26 01:08 UTC_
 
 ## Contents
 
@@ -33,7 +33,7 @@ _Last updated: 2026-07-26 01:07 UTC_
 | 12 | Sylvia Fowles | 6,413 |
 | 13 | **Breanna Stewart** 🔴 +2 | 6,337 |
 | 14 | Lisa Leslie | 6,251 |
-| 15 | **A'ja Wilson** 🔴 +10 | 6,188 |
+| 15 | **A'ja Wilson** 🔴 +8 | 6,186 |
 | 16 | Jewell Loyd | 6,148 |
 | 17 | Brittney Griner | 6,087 |
 | 18 | Lauren Jackson | 6,005 |
@@ -237,7 +237,7 @@ _Last updated: 2026-07-26 01:07 UTC_
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | Alyssa Thomas | 2,858 |
 | 13 | **Jonquel Jones** 🔴 +2 | 2,730 |
-| 14 | **A'ja Wilson** 🔴 +3 | 2,660 |
+| 14 | **A'ja Wilson** 🔴 +4 | 2,661 |
 | 15 | **Breanna Stewart** 🔴 +3 | 2,635 |
 | 16 | Sancho Lyttle | 2,596 |
 | 17 | Brittney Griner | 2,579 |
@@ -346,13 +346,13 @@ _Last updated: 2026-07-26 01:07 UTC_
 | 120 | **Jackie Young** 🔴 | 1,085 |
 | 121 | Svetlana Abrosimova | 1,078 |
 | 122 | Le'coe Willingham | 1,054 |
-| 123 | **Angel Reese** 🔴 +5 | 1,040 |
-| 123 | Nicole Ohlde | 1,040 |
+| 123 | **Angel Reese** 🔴 +6 | 1,041 |
+| 124 | Nicole Ohlde | 1,040 |
 | 125 | Tamecka Dixon | 1,035 |
 | 126 | Kamila Vodichkova | 1,031 |
 | 127 | Jasmine Thomas | 1,027 |
+| 128 | **Jessica Shepard** 🔴 +4 | 1,020 |
 | 128 | Sabrina Ionescu | 1,020 |
-| 129 | **Jessica Shepard** 🔴 +3 | 1,019 |
 | 130 | Cathrine Kraayeveld | 1,013 |
 | 131 | Kelly Miller | 1,011 |
 | 131 | Noelle Quinn | 1,011 |
@@ -581,7 +581,7 @@ _Last updated: 2026-07-26 01:07 UTC_
 | 149 | DeMya Walker | 446 |
 | 150 | Essence Carson | 445 |
 | 151 | Julie Allemand | 444 |
-| 152 | **Jessica Shepard** 🔴 +4 | 440 |
+| 152 | **Jessica Shepard** 🔴 +5 | 441 |
 | 153 | Michelle Snow | 437 |
 | 154 | Lauren Jackson | 435 |
 | 155 | Adrienne Goodson | 433 |
@@ -641,7 +641,7 @@ _Last updated: 2026-07-26 01:07 UTC_
 | 4 | Sylvia Fowles | 721 |
 | 5 | Candace Parker | 619 |
 | 6 | Lauren Jackson | 586 |
-| 7 | **A'ja Wilson** 🔴 | 568 |
+| 7 | **A'ja Wilson** 🔴 +1 | 569 |
 | 8 | Tammy Sutton-Brown | 555 |
 | 9 | Tangela Smith | 554 |
 | 10 | Ruth Riley | 505 |
@@ -1248,6 +1248,7 @@ _Last updated: 2026-07-26 01:07 UTC_
 | 198 | Julie Vanloo | 104 |
 | 199 | Jeanette Pohlen-Mavunga | 103 |
 | 199 | Kiesha Brown | 103 |
+| 199 | **Sonia Citron** 🔴 +1 | 103 |
 
 ## Turnovers
 
