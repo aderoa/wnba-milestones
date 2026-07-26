@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-26 01:23 UTC_
+_Last updated: 2026-07-26 01:24 UTC_
 
 ## Contents
 
@@ -68,7 +68,7 @@ _Last updated: 2026-07-26 01:23 UTC_
 | 46 | Jia Perkins | 4,433 |
 | 48 | **Jonquel Jones** 🔴 +12 | 4,365 |
 | 49 | Courtney Vandersloot | 4,362 |
-| 50 | **Courtney Williams** 🔴 +7 | 4,357 |
+| 50 | **Courtney Williams** 🔴 +10 | 4,360 |
 | 51 | Dearica Hamby | 4,330 |
 | 52 | Sophia Young-Malcolm | 4,300 |
 | 53 | Plenette Pierson | 4,258 |
@@ -444,7 +444,7 @@ _Last updated: 2026-07-26 01:23 UTC_
 | 12 | Cappie Pondexter | 1,575 |
 | 13 | Tamika Catchings | 1,484 |
 | 14 | Danielle Robinson | 1,480 |
-| 15 | **Courtney Williams** 🔴 +6 | 1,444 |
+| 15 | **Courtney Williams** 🔴 +5 | 1,443 |
 | 16 | Shannon Johnson | 1,423 |
 | 16 | Tanisha Wright | 1,423 |
 | 18 | Temeka Johnson | 1,382 |
@@ -521,9 +521,9 @@ _Last updated: 2026-07-26 01:23 UTC_
 | 89 | Bria Hartley | 661 |
 | 90 | Brittney Griner | 660 |
 | 91 | Lindsay Allen | 657 |
-| 92 | Betty Lennox | 651 |
-| 92 | **Jonquel Jones** 🔴 +4 | 651 |
-| 92 | Plenette Pierson | 651 |
+| 92 | **Jonquel Jones** 🔴 +6 | 653 |
+| 93 | Betty Lennox | 651 |
+| 93 | Plenette Pierson | 651 |
 | 95 | Alex Bentley | 645 |
 | 96 | Asjha Jones | 637 |
 | 97 | Jennifer Azzi | 636 |
@@ -550,7 +550,7 @@ _Last updated: 2026-07-26 01:23 UTC_
 | 118 | Janel McCarville | 551 |
 | 118 | Svetlana Abrosimova | 551 |
 | 120 | Michele Timms | 549 |
-| 121 | **Rhyne Howard** 🔴 | 536 |
+| 121 | **Rhyne Howard** 🔴 +1 | 537 |
 | 122 | Myisha Hines-Allen | 529 |
 | 123 | Marie Ferdinand-Harris | 528 |
 | 124 | Margo Dydek | 524 |
@@ -1128,8 +1128,8 @@ _Last updated: 2026-07-26 01:23 UTC_
 | 77 | Tully Bevilaqua | 290 |
 | 79 | Alana Beard | 288 |
 | 80 | Monique Currie | 284 |
-| 81 | **Courtney Williams** 🔴 +1 | 278 |
-| 81 | Stefanie Dolson | 278 |
+| 81 | **Courtney Williams** 🔴 +2 | 279 |
+| 82 | Stefanie Dolson | 278 |
 | 83 | Iziane Castro Marques | 275 |
 | 84 | Sheryl Swoopes | 270 |
 | 85 | Sophia Witherspoon | 260 |
@@ -1345,7 +1345,7 @@ _Last updated: 2026-07-26 01:23 UTC_
 | 89 | Lauren Jackson | 549 |
 | 90 | Matee Ajavon | 544 |
 | 91 | Adrienne Goodson | 542 |
-| 92 | **Marina Mabrey** 🔴 | 537 |
+| 92 | **Marina Mabrey** 🔴 +1 | 538 |
 | 93 | Layshia Clarendon | 536 |
 | 94 | Ivory Latta | 534 |
 | 94 | Iziane Castro Marques | 534 |
