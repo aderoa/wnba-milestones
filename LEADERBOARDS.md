@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-26 01:16 UTC_
+_Last updated: 2026-07-26 01:17 UTC_
 
 ## Contents
 
@@ -45,7 +45,7 @@ _Last updated: 2026-07-26 01:16 UTC_
 | 24 | DeLisha Milton-Jones | 5,571 |
 | 25 | Katie Douglas | 5,545 |
 | 26 | Lindsay Whalen | 5,511 |
-| 27 | **Kelsey Mitchell** 🔴 +9 | 5,207 |
+| 27 | **Kelsey Mitchell** 🔴 +14 | 5,212 |
 | 28 | Swin Cash | 5,119 |
 | 29 | Tiffany Hayes | 5,049 |
 | 30 | Tangela Smith | 5,035 |
@@ -66,9 +66,9 @@ _Last updated: 2026-07-26 01:16 UTC_
 | 45 | **Kahleah Copper** 🔴 +2 | 4,439 |
 | 46 | Crystal Langhorne | 4,433 |
 | 46 | Jia Perkins | 4,433 |
-| 48 | Courtney Vandersloot | 4,362 |
-| 49 | **Jonquel Jones** 🔴 +8 | 4,361 |
-| 50 | **Courtney Williams** 🔴 | 4,350 |
+| 48 | **Jonquel Jones** 🔴 +10 | 4,363 |
+| 49 | Courtney Vandersloot | 4,362 |
+| 50 | **Courtney Williams** 🔴 +2 | 4,352 |
 | 51 | Dearica Hamby | 4,330 |
 | 52 | Sophia Young-Malcolm | 4,300 |
 | 53 | Plenette Pierson | 4,258 |
@@ -227,7 +227,7 @@ _Last updated: 2026-07-26 01:16 UTC_
 | 1 | Tina Charles | 4,262 |
 | 2 | Sylvia Fowles | 4,005 |
 | 3 | Candace Parker | 3,467 |
-| 4 | **Nneka Ogwumike** 🔴 +4 | 3,410 |
+| 4 | **Nneka Ogwumike** 🔴 +6 | 3,412 |
 | 5 | Rebekkah Brunson | 3,345 |
 | 6 | Tamika Catchings | 3,313 |
 | 7 | Lisa Leslie | 3,303 |
@@ -237,8 +237,8 @@ _Last updated: 2026-07-26 01:16 UTC_
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | Alyssa Thomas | 2,858 |
 | 13 | **Jonquel Jones** 🔴 +4 | 2,732 |
-| 14 | **A'ja Wilson** 🔴 +4 | 2,661 |
-| 15 | **Breanna Stewart** 🔴 +3 | 2,635 |
+| 14 | **A'ja Wilson** 🔴 +3 | 2,660 |
+| 15 | **Breanna Stewart** 🔴 +5 | 2,637 |
 | 16 | Sancho Lyttle | 2,596 |
 | 17 | Brittney Griner | 2,579 |
 | 18 | DeLisha Milton-Jones | 2,574 |
@@ -249,7 +249,7 @@ _Last updated: 2026-07-26 01:16 UTC_
 | 23 | Lauren Jackson | 2,444 |
 | 24 | Yolanda Griffith | 2,440 |
 | 25 | Tangela Smith | 2,328 |
-| 26 | **Natasha Howard** 🔴 +1 | 2,316 |
+| 26 | **Natasha Howard** 🔴 +2 | 2,317 |
 | 27 | Erika de Souza | 2,220 |
 | 28 | Diana Taurasi | 2,201 |
 | 29 | Margo Dydek | 2,138 |
@@ -444,7 +444,7 @@ _Last updated: 2026-07-26 01:16 UTC_
 | 12 | Cappie Pondexter | 1,575 |
 | 13 | Tamika Catchings | 1,484 |
 | 14 | Danielle Robinson | 1,480 |
-| 15 | **Courtney Williams** 🔴 +2 | 1,440 |
+| 15 | **Courtney Williams** 🔴 +3 | 1,441 |
 | 16 | Shannon Johnson | 1,423 |
 | 16 | Tanisha Wright | 1,423 |
 | 18 | Temeka Johnson | 1,382 |
@@ -474,8 +474,8 @@ _Last updated: 2026-07-26 01:16 UTC_
 | 42 | Sheryl Swoopes | 1,037 |
 | 43 | Tina Charles | 1,033 |
 | 44 | Kayla McBride | 992 |
-| 45 | **Breanna Stewart** 🔴 +1 | 982 |
-| 45 | Nikki Teasley | 982 |
+| 45 | **Breanna Stewart** 🔴 +2 | 983 |
+| 46 | Nikki Teasley | 982 |
 | 47 | Tamecka Dixon | 960 |
 | 48 | Tiffany Hayes | 957 |
 | 49 | Kara Lawson | 946 |
@@ -1055,7 +1055,7 @@ _Last updated: 2026-07-26 01:16 UTC_
 | 5 | Kayla McBride | 756 |
 | 6 | Tina Thompson | 745 |
 | 7 | Katie Douglas | 723 |
-| 8 | **Kelsey Mitchell** 🔴 +2 | 714 |
+| 8 | **Kelsey Mitchell** 🔴 +3 | 715 |
 | 9 | Jewell Loyd | 695 |
 | 10 | DeWanna Bonner | 682 |
 | 11 | Kristi Toliver | 651 |
