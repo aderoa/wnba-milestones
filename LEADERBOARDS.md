@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-26 02:21 UTC_
+_Last updated: 2026-07-26 02:22 UTC_
 
 ## Contents
 
@@ -132,7 +132,7 @@ _Last updated: 2026-07-26 02:21 UTC_
 | 111 | Essence Carson | 2,647 |
 | 111 | Lindsey Harding | 2,647 |
 | 113 | Cheyenne Parker-Tyus | 2,645 |
-| 114 | **Rhyne Howard** 🔴 +6 | 2,643 |
+| 113 | **Rhyne Howard** 🔴 +8 | 2,645 |
 | 115 | Tamera Young | 2,641 |
 | 116 | Liz Cambage | 2,634 |
 | 117 | Janeth Arcain | 2,633 |
@@ -193,8 +193,8 @@ _Last updated: 2026-07-26 02:21 UTC_
 | 172 | Latasha Byears | 1,920 |
 | 173 | Karima Christmas-Kelly | 1,919 |
 | 174 | Jessica Breland | 1,918 |
+| 175 | **Gabby Williams** 🔴 +16 | 1,915 |
 | 175 | Nakia Sanford | 1,915 |
-| 176 | **Gabby Williams** 🔴 +11 | 1,910 |
 | 177 | Ebony Hoffman | 1,909 |
 | 178 | Candice Wiggins | 1,901 |
 | 179 | NaLyssa Smith | 1,879 |
@@ -236,9 +236,9 @@ _Last updated: 2026-07-26 02:21 UTC_
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | Alyssa Thomas | 2,858 |
-| 13 | **Jonquel Jones** 🔴 +12 | 2,740 |
+| 13 | **Jonquel Jones** 🔴 +13 | 2,741 |
 | 14 | **A'ja Wilson** 🔴 +3 | 2,660 |
-| 15 | **Breanna Stewart** 🔴 +11 | 2,643 |
+| 15 | **Breanna Stewart** 🔴 +12 | 2,644 |
 | 16 | Sancho Lyttle | 2,596 |
 | 17 | Brittney Griner | 2,579 |
 | 18 | DeLisha Milton-Jones | 2,574 |
@@ -385,7 +385,7 @@ _Last updated: 2026-07-26 02:21 UTC_
 | 159 | Krystal Thomas | 862 |
 | 160 | Naz Hillmon | 859 |
 | 161 | Leilani Mitchell | 845 |
-| 162 | **Gabby Williams** 🔴 +4 | 835 |
+| 162 | **Gabby Williams** 🔴 +5 | 836 |
 | 163 | Essence Carson | 833 |
 | 164 | Shakira Austin | 832 |
 | 165 | Kristi Toliver | 829 |
@@ -474,7 +474,7 @@ _Last updated: 2026-07-26 02:21 UTC_
 | 42 | Sheryl Swoopes | 1,037 |
 | 43 | Tina Charles | 1,033 |
 | 44 | Kayla McBride | 992 |
-| 45 | **Breanna Stewart** 🔴 +5 | 986 |
+| 45 | **Breanna Stewart** 🔴 +6 | 987 |
 | 46 | Nikki Teasley | 982 |
 | 47 | Tamecka Dixon | 960 |
 | 48 | Tiffany Hayes | 957 |
@@ -521,7 +521,7 @@ _Last updated: 2026-07-26 02:21 UTC_
 | 89 | Bria Hartley | 661 |
 | 90 | Brittney Griner | 660 |
 | 91 | Lindsay Allen | 657 |
-| 92 | **Jonquel Jones** 🔴 +7 | 654 |
+| 92 | **Jonquel Jones** 🔴 +8 | 655 |
 | 93 | Betty Lennox | 651 |
 | 93 | Plenette Pierson | 651 |
 | 95 | Alex Bentley | 645 |
@@ -1189,8 +1189,8 @@ _Last updated: 2026-07-26 02:21 UTC_
 | 136 | Stephanie Talbot | 160 |
 | 140 | Aari McDonald | 158 |
 | 140 | Jennifer Azzi | 158 |
-| 142 | Alanna Smith | 156 |
-| 142 | **Gabby Williams** 🔴 +3 | 156 |
+| 142 | **Gabby Williams** 🔴 +4 | 157 |
+| 143 | Alanna Smith | 156 |
 | 144 | Bridget Pettis | 153 |
 | 144 | Jennifer Gillom | 153 |
 | 144 | Katie Lou Samuelson | 153 |
