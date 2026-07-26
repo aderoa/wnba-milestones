@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-26 01:58 UTC_
+_Last updated: 2026-07-26 01:59 UTC_
 
 ## Contents
 
@@ -63,10 +63,10 @@ _Last updated: 2026-07-26 01:58 UTC_
 | 42 | **Allisha Gray** 🔴 +13 | 4,504 |
 | 43 | Kelsey Plum | 4,494 |
 | 44 | Kristi Toliver | 4,474 |
-| 45 | **Kahleah Copper** 🔴 +2 | 4,439 |
+| 45 | **Kahleah Copper** 🔴 +4 | 4,441 |
 | 46 | Crystal Langhorne | 4,433 |
 | 46 | Jia Perkins | 4,433 |
-| 48 | **Jonquel Jones** 🔴 +15 | 4,368 |
+| 48 | **Jonquel Jones** 🔴 +17 | 4,370 |
 | 49 | Courtney Vandersloot | 4,362 |
 | 50 | **Courtney Williams** 🔴 +10 | 4,360 |
 | 51 | Dearica Hamby | 4,330 |
@@ -236,7 +236,7 @@ _Last updated: 2026-07-26 01:58 UTC_
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | Alyssa Thomas | 2,858 |
-| 13 | **Jonquel Jones** 🔴 +8 | 2,736 |
+| 13 | **Jonquel Jones** 🔴 +9 | 2,737 |
 | 14 | **A'ja Wilson** 🔴 +3 | 2,660 |
 | 15 | **Breanna Stewart** 🔴 +8 | 2,640 |
 | 16 | Sancho Lyttle | 2,596 |
@@ -444,7 +444,7 @@ _Last updated: 2026-07-26 01:58 UTC_
 | 12 | Cappie Pondexter | 1,575 |
 | 13 | Tamika Catchings | 1,484 |
 | 14 | Danielle Robinson | 1,480 |
-| 15 | **Courtney Williams** 🔴 +5 | 1,443 |
+| 15 | **Courtney Williams** 🔴 +6 | 1,444 |
 | 16 | Shannon Johnson | 1,423 |
 | 16 | Tanisha Wright | 1,423 |
 | 18 | Temeka Johnson | 1,382 |
@@ -500,7 +500,7 @@ _Last updated: 2026-07-26 01:58 UTC_
 | 68 | Jia Perkins | 837 |
 | 69 | Andrea Stinson | 810 |
 | 70 | Tina Thompson | 803 |
-| 71 | **Marina Mabrey** 🔴 | 801 |
+| 71 | **Marina Mabrey** 🔴 +1 | 802 |
 | 72 | Epiphanny Prince | 800 |
 | 73 | Mwadi Mabika | 774 |
 | 74 | **Allisha Gray** 🔴 +2 | 769 |
@@ -1526,7 +1526,7 @@ _Last updated: 2026-07-26 01:58 UTC_
 | 65 | Sue Bird | 775 |
 | 66 | Natasha Cloud | 773 |
 | 67 | Sheri Sam | 766 |
-| 68 | **Kahleah Copper** 🔴 | 758 |
+| 68 | **Kahleah Copper** 🔴 +1 | 759 |
 | 69 | Kia Vaughn | 755 |
 | 70 | **Allisha Gray** 🔴 | 752 |
 | 70 | Vickie Johnson | 752 |
