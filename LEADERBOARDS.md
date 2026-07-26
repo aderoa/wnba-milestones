@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-26 02:02 UTC_
+_Last updated: 2026-07-26 02:03 UTC_
 
 ## Contents
 
@@ -236,7 +236,7 @@ _Last updated: 2026-07-26 02:02 UTC_
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | Alyssa Thomas | 2,858 |
-| 13 | **Jonquel Jones** 🔴 +11 | 2,739 |
+| 13 | **Jonquel Jones** 🔴 +12 | 2,740 |
 | 14 | **A'ja Wilson** 🔴 +3 | 2,660 |
 | 15 | **Breanna Stewart** 🔴 +10 | 2,642 |
 | 16 | Sancho Lyttle | 2,596 |
@@ -323,7 +323,7 @@ _Last updated: 2026-07-26 02:02 UTC_
 | 96 | Ezi Magbegor | 1,243 |
 | 98 | Seimone Augustus | 1,228 |
 | 99 | Jia Perkins | 1,220 |
-| 100 | **Kahleah Copper** 🔴 +3 | 1,207 |
+| 100 | **Kahleah Copper** 🔴 +4 | 1,208 |
 | 101 | **Aliyah Boston** 🔴 +1 | 1,199 |
 | 101 | DeMya Walker | 1,199 |
 | 103 | Latasha Byears | 1,190 |
@@ -380,7 +380,7 @@ _Last updated: 2026-07-26 02:02 UTC_
 | 154 | Mistie Bass | 888 |
 | 155 | Erica Wheeler | 882 |
 | 156 | Alanna Smith | 878 |
-| 157 | **Marina Mabrey** 🔴 +2 | 876 |
+| 157 | **Marina Mabrey** 🔴 +3 | 877 |
 | 158 | Shameka Christon | 867 |
 | 159 | Krystal Thomas | 862 |
 | 160 | Naz Hillmon | 859 |
@@ -964,9 +964,9 @@ _Last updated: 2026-07-26 02:02 UTC_
 | 119 | **Jonquel Jones** 🔴 | 260 |
 | 119 | Riquna Williams | 260 |
 | 121 | Noelle Quinn | 256 |
-| 122 | Elaine Powell | 255 |
-| 122 | Loree Moore | 255 |
-| 122 | **Rhyne Howard** 🔴 +1 | 255 |
+| 121 | **Rhyne Howard** 🔴 +2 | 256 |
+| 123 | Elaine Powell | 255 |
+| 123 | Loree Moore | 255 |
 | 125 | Ruthie Bolton | 254 |
 | 126 | Hamchetou Maiga-Ba | 251 |
 | 126 | Tamika Whitmore | 251 |
@@ -1345,7 +1345,7 @@ _Last updated: 2026-07-26 02:02 UTC_
 | 89 | Lauren Jackson | 549 |
 | 90 | Matee Ajavon | 544 |
 | 91 | Adrienne Goodson | 542 |
-| 92 | **Marina Mabrey** 🔴 +1 | 538 |
+| 92 | **Marina Mabrey** 🔴 +2 | 539 |
 | 93 | Layshia Clarendon | 536 |
 | 94 | Ivory Latta | 534 |
 | 94 | Iziane Castro Marques | 534 |
