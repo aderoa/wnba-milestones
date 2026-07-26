@@ -1,5 +1,26 @@
 [
   {
+    "ts": "2026-07-26T02:27:00+00:00",
+    "text": "Olivia Miles reached 100 career rebounds (now 100) \u2014 (Final \u2014 SPO @ COOP)",
+    "kind": "round",
+    "player": "Olivia Miles",
+    "stat": "rebounds",
+    "value": 100,
+    "new_total": 100
+  },
+  {
+    "ts": "2026-07-26T02:27:00+00:00",
+    "text": "Kelsey Mitchell passed Coco Miller for #134 all-time in steals (career 238) \u2014 up from #137 entering today \u2014 (Final \u2014 SPO @ COOP)",
+    "kind": "rank_pass",
+    "player": "Kelsey Mitchell",
+    "stat": "steals",
+    "rank": 134,
+    "passed_players": [
+      "Coco Miller"
+    ],
+    "new_total": 238
+  },
+  {
     "ts": "2026-07-26T02:24:00+00:00",
     "text": "Kelsey Mitchell passed Marissa Coleman for #135 all-time in steals (career 237) \u2014 up from #137 entering today \u2014 (1:41 - 4th \u2014 SPO @ COOP)",
     "kind": "rank_pass",
@@ -2978,29 +2999,5 @@
     "stat": "turnovers",
     "value": 300,
     "new_total": 300
-  },
-  {
-    "ts": "2026-06-29T00:21:00+00:00",
-    "text": "Kayla Thornton passed Crystal Robinson for #196 all-time in turnovers (career 300) \u2014 up from #197 entering today \u2014 (6:39 - 3rd \u2014 NY @ GS)",
-    "kind": "rank_pass",
-    "player": "Kayla Thornton",
-    "stat": "turnovers",
-    "rank": 196,
-    "passed_players": [
-      "Crystal Robinson"
-    ],
-    "new_total": 300
-  },
-  {
-    "ts": "2026-06-29T00:19:00+00:00",
-    "text": "Jonquel Jones passed Dawn Staley for #65 all-time in turnovers (career 644) \u2014 up from #66 entering today \u2014 (8:06 - 3rd \u2014 NY @ GS)",
-    "kind": "rank_pass",
-    "player": "Jonquel Jones",
-    "stat": "turnovers",
-    "rank": 65,
-    "passed_players": [
-      "Dawn Staley"
-    ],
-    "new_total": 644
   }
 ]
