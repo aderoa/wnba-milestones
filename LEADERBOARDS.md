@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-26 01:03 UTC_
+_Last updated: 2026-07-26 01:04 UTC_
 
 ## Contents
 
@@ -462,7 +462,7 @@ _Last updated: 2026-07-26 01:03 UTC_
 | 30 | Leilani Mitchell | 1,197 |
 | 31 | DeWanna Bonner | 1,196 |
 | 32 | Jewell Loyd | 1,156 |
-| 33 | **Jackie Young** 🔴 +1 | 1,151 |
+| 33 | **Jackie Young** 🔴 +2 | 1,152 |
 | 34 | Renee Montgomery | 1,140 |
 | 35 | Swin Cash | 1,131 |
 | 36 | Sabrina Ionescu | 1,092 |
@@ -987,11 +987,11 @@ _Last updated: 2026-07-26 01:03 UTC_
 | 142 | Wendy Palmer | 226 |
 | 143 | Alexis Hornbuckle | 225 |
 | 144 | Cheryl Ford | 224 |
-| 145 | **Marina Mabrey** 🔴 +1 | 222 |
-| 146 | Rushia Brown | 221 |
-| 147 | DeMya Walker | 220 |
-| 147 | Jennifer Gillom | 220 |
-| 147 | **Kahleah Copper** 🔴 +1 | 220 |
+| 145 | **Kahleah Copper** 🔴 +2 | 221 |
+| 145 | **Marina Mabrey** 🔴 | 221 |
+| 145 | Rushia Brown | 221 |
+| 148 | DeMya Walker | 220 |
+| 148 | Jennifer Gillom | 220 |
 | 150 | Allison Feaster | 219 |
 | 151 | Cheyenne Parker-Tyus | 217 |
 | 151 | Shenise Johnson | 217 |
@@ -1318,7 +1318,7 @@ _Last updated: 2026-07-26 01:03 UTC_
 | 63 | Kayla McBride | 648 |
 | 63 | Kelsey Plum | 648 |
 | 65 | Dawn Staley | 643 |
-| 66 | **Jonquel Jones** 🔴 | 641 |
+| 66 | **Jonquel Jones** 🔴 +1 | 642 |
 | 67 | Ruth Riley | 637 |
 | 68 | Odyssey Sims | 631 |
 | 68 | Svetlana Abrosimova | 631 |
@@ -1370,7 +1370,7 @@ _Last updated: 2026-07-26 01:03 UTC_
 | 115 | Erika de Souza | 483 |
 | 116 | Sophia Young-Malcolm | 482 |
 | 117 | Natalie Williams | 480 |
-| 118 | **Allisha Gray** 🔴 +1 | 477 |
+| 118 | **Allisha Gray** 🔴 | 476 |
 | 119 | Ebony Hoffman | 470 |
 | 120 | Elaine Powell | 469 |
 | 121 | Allie Quigley | 467 |
