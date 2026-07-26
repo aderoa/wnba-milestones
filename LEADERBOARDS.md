@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-26 02:15 UTC_
+_Last updated: 2026-07-26 02:16 UTC_
 
 ## Contents
 
@@ -45,7 +45,7 @@ _Last updated: 2026-07-26 02:15 UTC_
 | 24 | DeLisha Milton-Jones | 5,571 |
 | 25 | Katie Douglas | 5,545 |
 | 26 | Lindsay Whalen | 5,511 |
-| 27 | **Kelsey Mitchell** 🔴 +20 | 5,218 |
+| 27 | **Kelsey Mitchell** 🔴 +23 | 5,221 |
 | 28 | Swin Cash | 5,119 |
 | 29 | Tiffany Hayes | 5,049 |
 | 30 | Tangela Smith | 5,035 |
@@ -351,8 +351,8 @@ _Last updated: 2026-07-26 02:15 UTC_
 | 125 | Tamecka Dixon | 1,035 |
 | 126 | Kamila Vodichkova | 1,031 |
 | 127 | Jasmine Thomas | 1,027 |
-| 128 | **Jessica Shepard** 🔴 +4 | 1,020 |
-| 128 | Sabrina Ionescu | 1,020 |
+| 128 | **Jessica Shepard** 🔴 +5 | 1,021 |
+| 129 | Sabrina Ionescu | 1,020 |
 | 130 | Cathrine Kraayeveld | 1,013 |
 | 131 | Kelly Miller | 1,011 |
 | 131 | Noelle Quinn | 1,011 |
@@ -532,7 +532,7 @@ _Last updated: 2026-07-26 02:15 UTC_
 | 100 | **Natasha Howard** 🔴 | 615 |
 | 101 | Debbie Black | 612 |
 | 102 | Cynthia Cooper | 602 |
-| 103 | **Gabby Williams** 🔴 +5 | 596 |
+| 103 | **Gabby Williams** 🔴 +6 | 597 |
 | 104 | **Caitlin Clark** 🔴 +2 | 593 |
 | 105 | Sancho Lyttle | 592 |
 | 106 | Betnijah Laney-Hamilton | 590 |
@@ -977,9 +977,9 @@ _Last updated: 2026-07-26 02:15 UTC_
 | 132 | Erlana Larkins | 242 |
 | 133 | Shavonte Zellous | 241 |
 | 134 | Coco Miller | 237 |
+| 135 | **Kelsey Mitchell** 🔴 +3 | 236 |
 | 135 | Marissa Coleman | 236 |
-| 136 | **Kelsey Mitchell** 🔴 +2 | 235 |
-| 136 | Nikki McCray | 235 |
+| 137 | Nikki McCray | 235 |
 | 138 | Merlakia Jones | 232 |
 | 139 | Ruth Riley | 231 |
 | 140 | Scholanda Dorrell | 230 |
@@ -1055,7 +1055,7 @@ _Last updated: 2026-07-26 02:15 UTC_
 | 5 | Kayla McBride | 756 |
 | 6 | Tina Thompson | 745 |
 | 7 | Katie Douglas | 723 |
-| 8 | **Kelsey Mitchell** 🔴 +3 | 715 |
+| 8 | **Kelsey Mitchell** 🔴 +4 | 716 |
 | 9 | Jewell Loyd | 695 |
 | 10 | DeWanna Bonner | 682 |
 | 11 | Kristi Toliver | 651 |
