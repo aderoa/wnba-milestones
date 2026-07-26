@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-26 01:17 UTC_
+_Last updated: 2026-07-26 01:18 UTC_
 
 ## Contents
 
@@ -60,7 +60,7 @@ _Last updated: 2026-07-26 01:17 UTC_
 | 39 | **Natasha Howard** 🔴 +5 | 4,687 |
 | 40 | Chelsea Gray | 4,625 |
 | 41 | Penny Taylor | 4,595 |
-| 42 | **Allisha Gray** 🔴 +11 | 4,502 |
+| 42 | **Allisha Gray** 🔴 +8 | 4,499 |
 | 43 | Kelsey Plum | 4,494 |
 | 44 | Kristi Toliver | 4,474 |
 | 45 | **Kahleah Copper** 🔴 +2 | 4,439 |
@@ -68,7 +68,7 @@ _Last updated: 2026-07-26 01:17 UTC_
 | 46 | Jia Perkins | 4,433 |
 | 48 | **Jonquel Jones** 🔴 +10 | 4,363 |
 | 49 | Courtney Vandersloot | 4,362 |
-| 50 | **Courtney Williams** 🔴 +2 | 4,352 |
+| 50 | **Courtney Williams** 🔴 +5 | 4,355 |
 | 51 | Dearica Hamby | 4,330 |
 | 52 | Sophia Young-Malcolm | 4,300 |
 | 53 | Plenette Pierson | 4,258 |
@@ -236,7 +236,7 @@ _Last updated: 2026-07-26 01:17 UTC_
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | Alyssa Thomas | 2,858 |
-| 13 | **Jonquel Jones** 🔴 +4 | 2,732 |
+| 13 | **Jonquel Jones** 🔴 +5 | 2,733 |
 | 14 | **A'ja Wilson** 🔴 +3 | 2,660 |
 | 15 | **Breanna Stewart** 🔴 +5 | 2,637 |
 | 16 | Sancho Lyttle | 2,596 |
@@ -522,8 +522,8 @@ _Last updated: 2026-07-26 01:17 UTC_
 | 90 | Brittney Griner | 660 |
 | 91 | Lindsay Allen | 657 |
 | 92 | Betty Lennox | 651 |
+| 92 | **Jonquel Jones** 🔴 +4 | 651 |
 | 92 | Plenette Pierson | 651 |
-| 94 | **Jonquel Jones** 🔴 +3 | 650 |
 | 95 | Alex Bentley | 645 |
 | 96 | Asjha Jones | 637 |
 | 97 | Jennifer Azzi | 636 |
@@ -550,7 +550,7 @@ _Last updated: 2026-07-26 01:17 UTC_
 | 118 | Janel McCarville | 551 |
 | 118 | Svetlana Abrosimova | 551 |
 | 120 | Michele Timms | 549 |
-| 121 | **Rhyne Howard** 🔴 +1 | 537 |
+| 121 | **Rhyne Howard** 🔴 | 536 |
 | 122 | Myisha Hines-Allen | 529 |
 | 123 | Marie Ferdinand-Harris | 528 |
 | 124 | Margo Dydek | 524 |
@@ -1075,7 +1075,7 @@ _Last updated: 2026-07-26 01:17 UTC_
 | 24 | Shekinna Stricklen | 468 |
 | 26 | **Breanna Stewart** 🔴 | 465 |
 | 27 | Cappie Pondexter | 464 |
-| 28 | **Allisha Gray** 🔴 +3 | 461 |
+| 28 | **Allisha Gray** 🔴 +2 | 460 |
 | 29 | Ariel Atkins | 455 |
 | 30 | Tiffany Hayes | 454 |
 | 31 | Chelsea Gray | 450 |
@@ -1128,8 +1128,8 @@ _Last updated: 2026-07-26 01:17 UTC_
 | 77 | Tully Bevilaqua | 290 |
 | 79 | Alana Beard | 288 |
 | 80 | Monique Currie | 284 |
+| 81 | **Courtney Williams** 🔴 +1 | 278 |
 | 81 | Stefanie Dolson | 278 |
-| 82 | **Courtney Williams** 🔴 | 277 |
 | 83 | Iziane Castro Marques | 275 |
 | 84 | Sheryl Swoopes | 270 |
 | 85 | Sophia Witherspoon | 260 |
@@ -1570,8 +1570,8 @@ _Last updated: 2026-07-26 01:17 UTC_
 | 109 | Teaira McCowan | 637 |
 | 110 | Janell Burse | 632 |
 | 111 | Nicole Ohlde | 631 |
-| 112 | Jennifer Gillom | 629 |
-| 112 | **Kelsey Mitchell** 🔴 | 629 |
+| 112 | **Kelsey Mitchell** 🔴 +1 | 630 |
+| 113 | Jennifer Gillom | 629 |
 | 114 | Deanna Nolan | 628 |
 | 115 | Brionna Jones | 625 |
 | 116 | Courtney Paris | 617 |
