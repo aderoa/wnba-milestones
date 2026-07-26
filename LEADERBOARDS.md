@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-26 00:49 UTC_
+_Last updated: 2026-07-26 00:50 UTC_
 
 ## Contents
 
@@ -33,7 +33,7 @@ _Last updated: 2026-07-26 00:49 UTC_
 | 12 | Sylvia Fowles | 6,413 |
 | 13 | **Breanna Stewart** 🔴 +2 | 6,337 |
 | 14 | Lisa Leslie | 6,251 |
-| 15 | **A'ja Wilson** 🔴 | 6,178 |
+| 15 | **A'ja Wilson** 🔴 +4 | 6,182 |
 | 16 | Jewell Loyd | 6,148 |
 | 17 | Brittney Griner | 6,087 |
 | 18 | Lauren Jackson | 6,005 |
@@ -249,7 +249,7 @@ _Last updated: 2026-07-26 00:49 UTC_
 | 23 | Lauren Jackson | 2,444 |
 | 24 | Yolanda Griffith | 2,440 |
 | 25 | Tangela Smith | 2,328 |
-| 26 | **Natasha Howard** 🔴 | 2,315 |
+| 26 | **Natasha Howard** 🔴 +1 | 2,316 |
 | 27 | Erika de Souza | 2,220 |
 | 28 | Diana Taurasi | 2,201 |
 | 29 | Margo Dydek | 2,138 |
@@ -352,7 +352,7 @@ _Last updated: 2026-07-26 00:49 UTC_
 | 126 | Kamila Vodichkova | 1,031 |
 | 127 | Jasmine Thomas | 1,027 |
 | 128 | Sabrina Ionescu | 1,020 |
-| 129 | **Jessica Shepard** 🔴 +1 | 1,017 |
+| 129 | **Jessica Shepard** 🔴 +3 | 1,019 |
 | 130 | Cathrine Kraayeveld | 1,013 |
 | 131 | Kelly Miller | 1,011 |
 | 131 | Noelle Quinn | 1,011 |
@@ -581,8 +581,8 @@ _Last updated: 2026-07-26 00:49 UTC_
 | 149 | DeMya Walker | 446 |
 | 150 | Essence Carson | 445 |
 | 151 | Julie Allemand | 444 |
-| 152 | **Jessica Shepard** 🔴 +1 | 437 |
-| 152 | Michelle Snow | 437 |
+| 152 | **Jessica Shepard** 🔴 +2 | 438 |
+| 153 | Michelle Snow | 437 |
 | 154 | Lauren Jackson | 435 |
 | 155 | Adrienne Goodson | 433 |
 | 155 | Crystal Langhorne | 433 |
@@ -979,7 +979,7 @@ _Last updated: 2026-07-26 00:49 UTC_
 | 134 | Coco Miller | 237 |
 | 135 | Marissa Coleman | 236 |
 | 136 | Nikki McCray | 235 |
-| 137 | **Kelsey Mitchell** 🔴 | 233 |
+| 137 | **Kelsey Mitchell** 🔴 +1 | 234 |
 | 138 | Merlakia Jones | 232 |
 | 139 | Ruth Riley | 231 |
 | 140 | Scholanda Dorrell | 230 |
@@ -1413,7 +1413,7 @@ _Last updated: 2026-07-26 00:49 UTC_
 | 158 | Anna DeForge | 374 |
 | 158 | Cheryl Ford | 374 |
 | 160 | Allison Feaster | 372 |
-| 161 | **Caitlin Clark** 🔴 | 368 |
+| 161 | **Caitlin Clark** 🔴 +1 | 369 |
 | 162 | Emma Meesseman | 367 |
 | 163 | Latasha Byears | 360 |
 | 164 | Vicky Bullett | 359 |
