@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-26 01:22 UTC_
+_Last updated: 2026-07-26 01:23 UTC_
 
 ## Contents
 
@@ -22,7 +22,7 @@ _Last updated: 2026-07-26 01:22 UTC_
 | 1 | Diana Taurasi | 10,608 |
 | 2 | Tina Charles | 8,396 |
 | 3 | DeWanna Bonner | 7,972 |
-| 4 | **Nneka Ogwumike** 🔴 +6 | 7,569 |
+| 4 | **Nneka Ogwumike** 🔴 +8 | 7,571 |
 | 5 | Tina Thompson | 7,470 |
 | 6 | Tamika Catchings | 7,371 |
 | 7 | Candice Dupree | 6,861 |
@@ -60,7 +60,7 @@ _Last updated: 2026-07-26 01:22 UTC_
 | 39 | **Natasha Howard** 🔴 +5 | 4,687 |
 | 40 | Chelsea Gray | 4,625 |
 | 41 | Penny Taylor | 4,595 |
-| 42 | **Allisha Gray** 🔴 +8 | 4,499 |
+| 42 | **Allisha Gray** 🔴 +11 | 4,502 |
 | 43 | Kelsey Plum | 4,494 |
 | 44 | Kristi Toliver | 4,474 |
 | 45 | **Kahleah Copper** 🔴 +2 | 4,439 |
@@ -68,7 +68,7 @@ _Last updated: 2026-07-26 01:22 UTC_
 | 46 | Jia Perkins | 4,433 |
 | 48 | **Jonquel Jones** 🔴 +12 | 4,365 |
 | 49 | Courtney Vandersloot | 4,362 |
-| 50 | **Courtney Williams** 🔴 +5 | 4,355 |
+| 50 | **Courtney Williams** 🔴 +7 | 4,357 |
 | 51 | Dearica Hamby | 4,330 |
 | 52 | Sophia Young-Malcolm | 4,300 |
 | 53 | Plenette Pierson | 4,258 |
@@ -227,7 +227,7 @@ _Last updated: 2026-07-26 01:22 UTC_
 | 1 | Tina Charles | 4,262 |
 | 2 | Sylvia Fowles | 4,005 |
 | 3 | Candace Parker | 3,467 |
-| 4 | **Nneka Ogwumike** 🔴 +6 | 3,412 |
+| 4 | **Nneka Ogwumike** 🔴 +7 | 3,413 |
 | 5 | Rebekkah Brunson | 3,345 |
 | 6 | Tamika Catchings | 3,313 |
 | 7 | Lisa Leslie | 3,303 |
@@ -236,9 +236,9 @@ _Last updated: 2026-07-26 01:22 UTC_
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | Alyssa Thomas | 2,858 |
-| 13 | **Jonquel Jones** 🔴 +5 | 2,733 |
+| 13 | **Jonquel Jones** 🔴 +7 | 2,735 |
 | 14 | **A'ja Wilson** 🔴 +2 | 2,659 |
-| 15 | **Breanna Stewart** 🔴 +5 | 2,637 |
+| 15 | **Breanna Stewart** 🔴 +6 | 2,638 |
 | 16 | Sancho Lyttle | 2,596 |
 | 17 | Brittney Griner | 2,579 |
 | 18 | DeLisha Milton-Jones | 2,574 |
@@ -444,7 +444,7 @@ _Last updated: 2026-07-26 01:22 UTC_
 | 12 | Cappie Pondexter | 1,575 |
 | 13 | Tamika Catchings | 1,484 |
 | 14 | Danielle Robinson | 1,480 |
-| 15 | **Courtney Williams** 🔴 +4 | 1,442 |
+| 15 | **Courtney Williams** 🔴 +6 | 1,444 |
 | 16 | Shannon Johnson | 1,423 |
 | 16 | Tanisha Wright | 1,423 |
 | 18 | Temeka Johnson | 1,382 |
@@ -1075,7 +1075,7 @@ _Last updated: 2026-07-26 01:22 UTC_
 | 24 | Shekinna Stricklen | 468 |
 | 26 | **Breanna Stewart** 🔴 | 465 |
 | 27 | Cappie Pondexter | 464 |
-| 28 | **Allisha Gray** 🔴 +2 | 460 |
+| 28 | **Allisha Gray** 🔴 +3 | 461 |
 | 29 | Ariel Atkins | 455 |
 | 30 | Tiffany Hayes | 454 |
 | 31 | Chelsea Gray | 450 |
