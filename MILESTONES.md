@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-26 02:24 UTC
+
+- **Kelsey Mitchell** passed **Marissa Coleman** for **#135** all-time in steals (career 237) — up from #137 entering today — _1:41 - 4th — SPO @ COOP_
+
 ## 2026-07-26 02:00 UTC
 
 - **Sonia Citron** passed **Jeanette Pohlen-Mavunga** and **Kiesha Brown** for **#199** all-time in three-pointers (career 104) — new to top 200 today — _2:32 - 3rd — SPO @ COOP_

@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-26 02:23 UTC_
+_Last updated: 2026-07-26 02:24 UTC_
 
 ## Contents
 
@@ -45,7 +45,7 @@ _Last updated: 2026-07-26 02:23 UTC_
 | 24 | DeLisha Milton-Jones | 5,571 |
 | 25 | Katie Douglas | 5,545 |
 | 26 | Lindsay Whalen | 5,511 |
-| 27 | **Kelsey Mitchell** 🔴 +23 | 5,221 |
+| 27 | **Kelsey Mitchell** 🔴 +26 | 5,224 |
 | 28 | Swin Cash | 5,119 |
 | 29 | Tiffany Hayes | 5,049 |
 | 30 | Tangela Smith | 5,035 |
@@ -238,7 +238,7 @@ _Last updated: 2026-07-26 02:23 UTC_
 | 12 | Alyssa Thomas | 2,858 |
 | 13 | **Jonquel Jones** 🔴 +13 | 2,741 |
 | 14 | **A'ja Wilson** 🔴 +3 | 2,660 |
-| 15 | **Breanna Stewart** 🔴 +12 | 2,644 |
+| 15 | **Breanna Stewart** 🔴 +13 | 2,645 |
 | 16 | Sancho Lyttle | 2,596 |
 | 17 | Brittney Griner | 2,579 |
 | 18 | DeLisha Milton-Jones | 2,574 |
@@ -474,7 +474,7 @@ _Last updated: 2026-07-26 02:23 UTC_
 | 42 | Sheryl Swoopes | 1,037 |
 | 43 | Tina Charles | 1,033 |
 | 44 | Kayla McBride | 992 |
-| 45 | **Breanna Stewart** 🔴 +6 | 987 |
+| 45 | **Breanna Stewart** 🔴 +7 | 988 |
 | 46 | Nikki Teasley | 982 |
 | 47 | Tamecka Dixon | 960 |
 | 48 | Tiffany Hayes | 957 |
@@ -977,8 +977,8 @@ _Last updated: 2026-07-26 02:23 UTC_
 | 132 | Erlana Larkins | 242 |
 | 133 | Shavonte Zellous | 241 |
 | 134 | Coco Miller | 237 |
-| 135 | **Kelsey Mitchell** 🔴 +3 | 236 |
-| 135 | Marissa Coleman | 236 |
+| 134 | **Kelsey Mitchell** 🔴 +4 | 237 |
+| 136 | Marissa Coleman | 236 |
 | 137 | Nikki McCray | 235 |
 | 138 | Merlakia Jones | 232 |
 | 139 | Ruth Riley | 231 |
@@ -1055,7 +1055,7 @@ _Last updated: 2026-07-26 02:23 UTC_
 | 5 | Kayla McBride | 756 |
 | 6 | Tina Thompson | 745 |
 | 7 | Katie Douglas | 723 |
-| 8 | **Kelsey Mitchell** 🔴 +4 | 716 |
+| 8 | **Kelsey Mitchell** 🔴 +5 | 717 |
 | 9 | Jewell Loyd | 695 |
 | 10 | DeWanna Bonner | 682 |
 | 11 | Kristi Toliver | 651 |
@@ -1319,7 +1319,7 @@ _Last updated: 2026-07-26 02:23 UTC_
 | 63 | Kayla McBride | 648 |
 | 63 | Kelsey Plum | 648 |
 | 65 | Dawn Staley | 643 |
-| 66 | **Jonquel Jones** 🔴 +1 | 642 |
+| 65 | **Jonquel Jones** 🔴 +2 | 643 |
 | 67 | Ruth Riley | 637 |
 | 68 | Odyssey Sims | 631 |
 | 68 | Svetlana Abrosimova | 631 |
@@ -1414,7 +1414,7 @@ _Last updated: 2026-07-26 02:23 UTC_
 | 158 | Anna DeForge | 374 |
 | 158 | Cheryl Ford | 374 |
 | 160 | Allison Feaster | 372 |
-| 161 | **Caitlin Clark** 🔴 +3 | 371 |
+| 160 | **Caitlin Clark** 🔴 +4 | 372 |
 | 162 | Emma Meesseman | 367 |
 | 163 | Latasha Byears | 360 |
 | 164 | Vicky Bullett | 359 |
