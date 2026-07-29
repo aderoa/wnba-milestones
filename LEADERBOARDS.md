@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-29 03:17 UTC_
+_Last updated: 2026-07-29 03:18 UTC_
 
 ## Contents
 
@@ -351,7 +351,7 @@ _Last updated: 2026-07-29 03:17 UTC_
 | 124 | Tamecka Dixon | 1,035 |
 | 126 | Kamila Vodichkova | 1,031 |
 | 127 | Jasmine Thomas | 1,027 |
-| 128 | **Sabrina Ionescu** 🔴 +4 | 1,024 |
+| 128 | **Sabrina Ionescu** 🔴 +5 | 1,025 |
 | 129 | Jessica Shepard | 1,016 |
 | 130 | Cathrine Kraayeveld | 1,013 |
 | 131 | Kelly Miller | 1,011 |
@@ -1331,7 +1331,7 @@ _Last updated: 2026-07-29 03:17 UTC_
 | 75 | Lindsey Harding | 600 |
 | 75 | Tamika Whitmore | 600 |
 | 77 | Kelly Miller | 596 |
-| 78 | **Stefanie Dolson** 🔴 | 594 |
+| 78 | **Stefanie Dolson** 🔴 +1 | 595 |
 | 79 | Brittney Sykes | 591 |
 | 80 | **Breanna Stewart** 🔴 | 586 |
 | 80 | **Kelsey Mitchell** 🔴 +1 | 586 |
@@ -1347,7 +1347,7 @@ _Last updated: 2026-07-29 03:17 UTC_
 | 91 | Adrienne Goodson | 542 |
 | 92 | Marina Mabrey | 540 |
 | 93 | Layshia Clarendon | 536 |
-| 94 | **Sabrina Ionescu** 🔴 +2 | 535 |
+| 93 | **Sabrina Ionescu** 🔴 +3 | 536 |
 | 95 | Ivory Latta | 534 |
 | 95 | Iziane Castro Marques | 534 |
 | 97 | Mwadi Mabika | 532 |
@@ -1477,7 +1477,7 @@ _Last updated: 2026-07-29 03:17 UTC_
 | 16 | Swin Cash | 1,146 |
 | 17 | Taj McWilliams-Franklin | 1,145 |
 | 18 | Monique Currie | 1,137 |
-| 19 | **Stefanie Dolson** 🔴 +1 | 1,134 |
+| 19 | **Stefanie Dolson** 🔴 +2 | 1,135 |
 | 20 | Tanisha Wright | 1,109 |
 | 21 | Michelle Snow | 1,108 |
 | 22 | Sylvia Fowles | 1,049 |
