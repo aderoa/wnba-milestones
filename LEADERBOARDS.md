@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-29 03:11 UTC_
+_Last updated: 2026-07-29 03:12 UTC_
 
 ## Contents
 
@@ -1600,9 +1600,9 @@ _Last updated: 2026-07-29 03:11 UTC_
 | 139 | **A'ja Wilson** 🔴 +1 | 555 |
 | 140 | Dawn Staley | 551 |
 | 141 | Glory Johnson | 550 |
+| 141 | **Monique Billings** 🔴 +4 | 550 |
 | 141 | Tierra Ruffin-Pratt | 550 |
-| 143 | **Jackie Young** 🔴 +1 | 549 |
-| 143 | **Monique Billings** 🔴 +3 | 549 |
+| 144 | **Jackie Young** 🔴 +1 | 549 |
 | 145 | Erlana Larkins | 546 |
 | 145 | Kayla McBride | 546 |
 | 147 | Jayne Appel Marinelli | 543 |
