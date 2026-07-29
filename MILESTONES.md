@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-29 03:37 UTC
+
+- **Sabrina Ionescu** passed **Marina Mabrey** for **#92** all-time in turnovers (career 538) — up from #96 entering today — _9:35 - 4th — NY @ LA_
+
 ## 2026-07-29 03:20 UTC
 
 - **Rebecca Allen** passed **Erin Perperoglou** and **Sabrina Ionescu** for **#184** all-time in steals (career 185) — up from #186 entering today — _5:41 - 3rd — NY @ LA_

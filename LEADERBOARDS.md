@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-29 03:36 UTC_
+_Last updated: 2026-07-29 03:37 UTC_
 
 ## Contents
 
@@ -105,7 +105,7 @@ _Last updated: 2026-07-29 03:36 UTC_
 | 84 | Andrea Stinson | 3,351 |
 | 85 | Tanisha Wright | 3,324 |
 | 86 | Marina Mabrey | 3,274 |
-| 87 | **Stefanie Dolson** 🔴 +2 | 3,219 |
+| 87 | **Stefanie Dolson** 🔴 +5 | 3,222 |
 | 88 | Margo Dydek | 3,214 |
 | 89 | **Erica Wheeler** 🔴 +13 | 3,208 |
 | 90 | Danielle Robinson | 3,160 |
@@ -531,7 +531,7 @@ _Last updated: 2026-07-29 03:36 UTC_
 | 99 | Natasha Howard | 619 |
 | 101 | Debbie Black | 612 |
 | 102 | Cynthia Cooper | 602 |
-| 103 | **Caitlin Clark** 🔴 +4 | 595 |
+| 103 | **Caitlin Clark** 🔴 +5 | 596 |
 | 104 | Sancho Lyttle | 592 |
 | 105 | Gabby Williams | 591 |
 | 106 | Betnijah Laney-Hamilton | 590 |
@@ -791,9 +791,9 @@ _Last updated: 2026-07-29 03:36 UTC_
 | 155 | Charde Houston | 84 |
 | 155 | Marina Mabrey | 84 |
 | 155 | Shatori Walker-Kimbrough | 84 |
+| 158 | **Cameron Brink** 🔴 +1 | 83 |
 | 158 | Tamera Young | 83 |
-| 159 | **Cameron Brink** 🔴 | 82 |
-| 159 | Damiris Dantas | 82 |
+| 160 | Damiris Dantas | 82 |
 | 161 | Charlotte Smith | 81 |
 | 161 | Cintia dos Santos | 81 |
 | 161 | Jessie Hicks | 81 |
@@ -1127,8 +1127,8 @@ _Last updated: 2026-07-29 03:36 UTC_
 | 77 | Tully Bevilaqua | 290 |
 | 79 | Alana Beard | 288 |
 | 80 | Monique Currie | 284 |
-| 81 | Courtney Williams | 278 |
-| 81 | **Stefanie Dolson** 🔴 | 278 |
+| 81 | **Stefanie Dolson** 🔴 +1 | 279 |
+| 82 | Courtney Williams | 278 |
 | 83 | Iziane Castro Marques | 275 |
 | 84 | Sheryl Swoopes | 270 |
 | 85 | Sophia Witherspoon | 260 |
@@ -1318,7 +1318,7 @@ _Last updated: 2026-07-29 03:36 UTC_
 | 62 | Sheri Sam | 650 |
 | 63 | Kayla McBride | 648 |
 | 63 | Kelsey Plum | 648 |
-| 65 | **Jonquel Jones** 🔴 +4 | 645 |
+| 65 | **Jonquel Jones** 🔴 +3 | 644 |
 | 66 | Dawn Staley | 643 |
 | 67 | Ruth Riley | 637 |
 | 68 | Odyssey Sims | 631 |
@@ -1346,7 +1346,7 @@ _Last updated: 2026-07-29 03:36 UTC_
 | 90 | Matee Ajavon | 544 |
 | 91 | Adrienne Goodson | 542 |
 | 92 | Marina Mabrey | 540 |
-| 93 | **Sabrina Ionescu** 🔴 +4 | 537 |
+| 93 | **Sabrina Ionescu** 🔴 +5 | 538 |
 | 94 | Layshia Clarendon | 536 |
 | 95 | Ivory Latta | 534 |
 | 95 | Iziane Castro Marques | 534 |

@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-07-29T03:37:00+00:00",
+    "text": "Sabrina Ionescu passed Marina Mabrey for #92 all-time in turnovers (career 538) \u2014 up from #96 entering today \u2014 (9:35 - 4th \u2014 NY @ LA)",
+    "kind": "rank_pass",
+    "player": "Sabrina Ionescu",
+    "stat": "turnovers",
+    "rank": 92,
+    "passed_players": [
+      "Marina Mabrey"
+    ],
+    "new_total": 538
+  },
+  {
     "ts": "2026-07-29T03:20:00+00:00",
     "text": "Rebecca Allen passed Erin Perperoglou and Sabrina Ionescu for #184 all-time in steals (career 185) \u2014 up from #186 entering today \u2014 (5:41 - 3rd \u2014 NY @ LA)",
     "kind": "rank_pass",
@@ -2990,19 +3002,5 @@
       "Iziane Castro Marques"
     ],
     "new_total": 535
-  },
-  {
-    "ts": "2026-06-29T01:10:00+00:00",
-    "text": "Kayla Thornton passed Breanna Stewart, Cheyenne Parker-Tyus, and Jasmine Thomas for #92 all-time in fouls (career 686) \u2014 up from #98 entering today \u2014 (1:53 - 4th \u2014 NY @ GS)",
-    "kind": "rank_pass",
-    "player": "Kayla Thornton",
-    "stat": "fouls",
-    "rank": 92,
-    "passed_players": [
-      "Breanna Stewart",
-      "Cheyenne Parker-Tyus",
-      "Jasmine Thomas"
-    ],
-    "new_total": 686
   }
 ]
