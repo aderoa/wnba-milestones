@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-29 02:05 UTC_
+_Last updated: 2026-07-29 02:06 UTC_
 
 ## Contents
 
@@ -33,7 +33,7 @@ _Last updated: 2026-07-29 02:05 UTC_
 | 12 | Sylvia Fowles | 6,413 |
 | 13 | **Breanna Stewart** 🔴 | 6,335 |
 | 14 | Lisa Leslie | 6,251 |
-| 15 | **A'ja Wilson** 🔴 +3 | 6,181 |
+| 15 | **A'ja Wilson** 🔴 +5 | 6,183 |
 | 16 | Jewell Loyd | 6,148 |
 | 17 | Brittney Griner | 6,087 |
 | 18 | Lauren Jackson | 6,005 |
@@ -69,7 +69,7 @@ _Last updated: 2026-07-29 02:05 UTC_
 | 48 | Courtney Vandersloot | 4,362 |
 | 49 | Courtney Williams | 4,355 |
 | 50 | **Jonquel Jones** 🔴 | 4,353 |
-| 51 | **Dearica Hamby** 🔴 +3 | 4,333 |
+| 51 | **Dearica Hamby** 🔴 +5 | 4,335 |
 | 52 | Sophia Young-Malcolm | 4,300 |
 | 53 | Plenette Pierson | 4,258 |
 | 54 | Monique Currie | 4,253 |
@@ -94,7 +94,7 @@ _Last updated: 2026-07-29 02:05 UTC_
 | 73 | Jasmine Thomas | 3,522 |
 | 74 | Tamecka Dixon | 3,507 |
 | 75 | Tammy Sutton-Brown | 3,498 |
-| 76 | **Ariel Atkins** 🔴 +2 | 3,483 |
+| 76 | **Ariel Atkins** 🔴 +4 | 3,485 |
 | 77 | Sancho Lyttle | 3,478 |
 | 78 | Ivory Latta | 3,447 |
 | 79 | Nicole Powell | 3,407 |
@@ -882,7 +882,7 @@ _Last updated: 2026-07-29 02:05 UTC_
 | 36 | Maya Moore | 449 |
 | 38 | Sheri Sam | 438 |
 | 39 | Camille Smith | 437 |
-| 40 | **Breanna Stewart** 🔴 | 435 |
+| 40 | **Breanna Stewart** 🔴 +1 | 436 |
 | 41 | Candice Dupree | 431 |
 | 42 | Epiphanny Prince | 429 |
 | 43 | Tanisha Wright | 427 |
@@ -1320,7 +1320,7 @@ _Last updated: 2026-07-29 02:05 UTC_
 | 63 | Kayla McBride | 648 |
 | 63 | Kelsey Plum | 648 |
 | 65 | Dawn Staley | 643 |
-| 66 | **Jonquel Jones** 🔴 | 641 |
+| 66 | **Jonquel Jones** 🔴 +1 | 642 |
 | 67 | Ruth Riley | 637 |
 | 68 | Odyssey Sims | 631 |
 | 68 | Svetlana Abrosimova | 631 |
