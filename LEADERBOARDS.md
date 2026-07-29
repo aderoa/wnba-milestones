@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-29 02:18 UTC_
+_Last updated: 2026-07-29 02:19 UTC_
 
 ## Contents
 
@@ -34,7 +34,7 @@ _Last updated: 2026-07-29 02:18 UTC_
 | 13 | **Breanna Stewart** 🔴 +6 | 6,341 |
 | 14 | Lisa Leslie | 6,251 |
 | 15 | **A'ja Wilson** 🔴 +10 | 6,188 |
-| 16 | **Jewell Loyd** 🔴 | 6,148 |
+| 16 | **Jewell Loyd** 🔴 +3 | 6,151 |
 | 17 | Brittney Griner | 6,087 |
 | 18 | Lauren Jackson | 6,005 |
 | 18 | Seimone Augustus | 6,005 |
@@ -180,7 +180,7 @@ _Last updated: 2026-07-29 02:18 UTC_
 | 159 | Coco Miller | 2,030 |
 | 160 | Diamond DeShields | 2,026 |
 | 161 | Vicky Bullett | 2,018 |
-| 162 | **Natisha Hiedeman** 🔴 +7 | 2,009 |
+| 162 | **Natisha Hiedeman** 🔴 +12 | 2,014 |
 | 163 | Ezi Magbegor | 1,995 |
 | 164 | Bria Hartley | 1,967 |
 | 165 | Chiney Ogwumike | 1,964 |
@@ -238,7 +238,7 @@ _Last updated: 2026-07-29 02:18 UTC_
 | 12 | Alyssa Thomas | 2,858 |
 | 13 | **Jonquel Jones** 🔴 | 2,728 |
 | 14 | **A'ja Wilson** 🔴 +5 | 2,662 |
-| 15 | **Breanna Stewart** 🔴 | 2,632 |
+| 15 | **Breanna Stewart** 🔴 +1 | 2,633 |
 | 16 | Sancho Lyttle | 2,596 |
 | 17 | Brittney Griner | 2,579 |
 | 18 | DeLisha Milton-Jones | 2,574 |
@@ -464,7 +464,7 @@ _Last updated: 2026-07-29 02:18 UTC_
 | 33 | **Jackie Young** 🔴 +2 | 1,152 |
 | 34 | Renee Montgomery | 1,140 |
 | 35 | Swin Cash | 1,131 |
-| 36 | **Sabrina Ionescu** 🔴 +1 | 1,093 |
+| 36 | **Sabrina Ionescu** 🔴 +2 | 1,094 |
 | 37 | Lindsey Harding | 1,090 |
 | 38 | Katie Douglas | 1,069 |
 | 39 | Alana Beard | 1,061 |
@@ -516,7 +516,7 @@ _Last updated: 2026-07-29 02:18 UTC_
 | 85 | Emma Meesseman | 681 |
 | 86 | Nykesha Sales | 677 |
 | 87 | **Natisha Hiedeman** 🔴 +3 | 671 |
-| 88 | **A'ja Wilson** 🔴 +1 | 668 |
+| 88 | **A'ja Wilson** 🔴 +2 | 669 |
 | 89 | Bria Hartley | 661 |
 | 90 | Brittney Griner | 660 |
 | 91 | Lindsay Allen | 657 |
@@ -606,7 +606,7 @@ _Last updated: 2026-07-29 02:18 UTC_
 | 174 | Tamicha Jackson | 389 |
 | 176 | Riquna Williams | 387 |
 | 177 | **Bridget Carleton** 🔴 +2 | 386 |
-| 178 | **Dana Evans** 🔴 | 379 |
+| 178 | **Dana Evans** 🔴 +1 | 380 |
 | 179 | Jessica Breland | 377 |
 | 180 | Shenise Johnson | 376 |
 | 181 | Alanna Smith | 374 |
@@ -1055,7 +1055,7 @@ _Last updated: 2026-07-29 02:18 UTC_
 | 6 | Tina Thompson | 745 |
 | 7 | Katie Douglas | 723 |
 | 8 | **Kelsey Mitchell** 🔴 | 712 |
-| 9 | **Jewell Loyd** 🔴 | 695 |
+| 9 | **Jewell Loyd** 🔴 +1 | 696 |
 | 10 | DeWanna Bonner | 682 |
 | 11 | Kristi Toliver | 651 |
 | 12 | Kelsey Plum | 619 |
@@ -1109,7 +1109,7 @@ _Last updated: 2026-07-29 02:18 UTC_
 | 60 | **Erica Wheeler** 🔴 +1 | 338 |
 | 61 | **Sophie Cunningham** 🔴 +3 | 337 |
 | 62 | Anna DeForge | 334 |
-| 63 | **Natisha Hiedeman** 🔴 +1 | 329 |
+| 63 | **Natisha Hiedeman** 🔴 +2 | 330 |
 | 64 | Sugar Rodgers | 317 |
 | 65 | Marissa Coleman | 315 |
 | 66 | Shannon Johnson | 313 |
@@ -1157,10 +1157,10 @@ _Last updated: 2026-07-29 02:18 UTC_
 | 108 | Betnijah Laney-Hamilton | 206 |
 | 109 | Lexie Brown | 203 |
 | 110 | Shanna Zolman | 199 |
+| 111 | **Caitlin Clark** 🔴 +2 | 197 |
 | 111 | Temeka Johnson | 197 |
 | 111 | Tina Charles | 197 |
-| 113 | **Caitlin Clark** 🔴 +1 | 196 |
-| 113 | Nia Coffey | 196 |
+| 114 | Nia Coffey | 196 |
 | 115 | Lindsay Whalen | 193 |
 | 116 | Victoria Vivians | 192 |
 | 117 | Danielle Adams | 188 |
@@ -1204,8 +1204,8 @@ _Last updated: 2026-07-29 02:18 UTC_
 | 153 | Matee Ajavon | 144 |
 | 156 | Shenise Johnson | 143 |
 | 157 | Jordan Hooper | 141 |
-| 158 | Coco Miller | 139 |
-| 158 | **Karlie Samuelson** 🔴 | 139 |
+| 158 | **Karlie Samuelson** 🔴 +1 | 140 |
+| 159 | Coco Miller | 139 |
 | 160 | Loree Moore | 138 |
 | 160 | Tanisha Wright | 138 |
 | 162 | Kaleena Mosqueda-Lewis | 137 |
@@ -1414,7 +1414,7 @@ _Last updated: 2026-07-29 02:18 UTC_
 | 158 | Anna DeForge | 374 |
 | 158 | Cheryl Ford | 374 |
 | 160 | Allison Feaster | 372 |
-| 161 | **Caitlin Clark** 🔴 +2 | 370 |
+| 160 | **Caitlin Clark** 🔴 +4 | 372 |
 | 162 | Emma Meesseman | 367 |
 | 163 | Latasha Byears | 360 |
 | 164 | Vicky Bullett | 359 |
@@ -1509,7 +1509,7 @@ _Last updated: 2026-07-29 02:18 UTC_
 | 48 | Erika de Souza | 858 |
 | 49 | Angel McCoughtry | 857 |
 | 50 | Betty Lennox | 851 |
-| 51 | **Dearica Hamby** 🔴 | 850 |
+| 50 | **Dearica Hamby** 🔴 +1 | 851 |
 | 52 | Tamecka Dixon | 849 |
 | 53 | Natalie Williams | 847 |
 | 53 | Tamera Young | 847 |
