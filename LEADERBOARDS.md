@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-29 01:52 UTC_
+_Last updated: 2026-07-29 01:53 UTC_
 
 ## Contents
 
@@ -104,7 +104,7 @@ _Last updated: 2026-07-29 01:52 UTC_
 | 83 | Sheri Sam | 3,353 |
 | 84 | Andrea Stinson | 3,351 |
 | 85 | Tanisha Wright | 3,324 |
-| 86 | **Marina Mabrey** 🔴 +22 | 3,271 |
+| 86 | **Marina Mabrey** 🔴 +23 | 3,272 |
 | 87 | **Stefanie Dolson** 🔴 | 3,217 |
 | 88 | Margo Dydek | 3,214 |
 | 89 | Erica Wheeler | 3,195 |
@@ -213,7 +213,7 @@ _Last updated: 2026-07-29 01:52 UTC_
 | 192 | Armintie Herrington | 1,696 |
 | 193 | Nikki Teasley | 1,690 |
 | 194 | Shenise Johnson | 1,688 |
-| 195 | **Monique Billings** 🔴 +6 | 1,618 |
+| 195 | **Monique Billings** 🔴 +8 | 1,620 |
 | 196 | Janell Burse | 1,580 |
 | 197 | Le'coe Willingham | 1,552 |
 | 198 | Shatori Walker-Kimbrough | 1,544 |
@@ -570,7 +570,7 @@ _Last updated: 2026-07-29 01:52 UTC_
 | 138 | Janeth Arcain | 469 |
 | 139 | Erin Phillips | 462 |
 | 140 | Sylvia Fowles | 461 |
-| 141 | Tyasha Harris | 460 |
+| 141 | **Tyasha Harris** 🔴 | 460 |
 | 142 | Sug Sutton | 456 |
 | 143 | Sydney Colson | 454 |
 | 144 | **Julie Allemand** 🔴 +7 | 451 |
@@ -1180,7 +1180,7 @@ _Last updated: 2026-07-29 01:52 UTC_
 | 130 | Shavonte Zellous | 167 |
 | 130 | Tianna Hawkins | 167 |
 | 132 | Charlotte Smith | 164 |
-| 133 | Tyasha Harris | 162 |
+| 133 | **Tyasha Harris** 🔴 | 162 |
 | 133 | Ukari Figgs | 162 |
 | 135 | Edna Campbell | 161 |
 | 136 | Dana Evans | 160 |
@@ -1477,7 +1477,7 @@ _Last updated: 2026-07-29 01:52 UTC_
 | 16 | Swin Cash | 1,146 |
 | 17 | Taj McWilliams-Franklin | 1,145 |
 | 18 | Monique Currie | 1,137 |
-| 19 | **Stefanie Dolson** 🔴 | 1,133 |
+| 19 | **Stefanie Dolson** 🔴 +1 | 1,134 |
 | 20 | Tanisha Wright | 1,109 |
 | 21 | Michelle Snow | 1,108 |
 | 22 | Sylvia Fowles | 1,049 |
@@ -1604,7 +1604,7 @@ _Last updated: 2026-07-29 01:52 UTC_
 | 143 | Jackie Young | 548 |
 | 144 | **Monique Billings** 🔴 +1 | 547 |
 | 145 | Erlana Larkins | 546 |
-| 146 | **Kayla McBride** 🔴 +2 | 545 |
+| 145 | **Kayla McBride** 🔴 +3 | 546 |
 | 147 | Jayne Appel Marinelli | 543 |
 | 147 | Renee Montgomery | 543 |
 | 149 | Marissa Coleman | 541 |
