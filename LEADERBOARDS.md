@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-29 03:43 UTC_
+_Last updated: 2026-07-29 03:44 UTC_
 
 ## Contents
 
@@ -31,9 +31,9 @@ _Last updated: 2026-07-29 03:43 UTC_
 | 10 | Candace Parker | 6,574 |
 | 11 | Katie Smith | 6,450 |
 | 12 | Sylvia Fowles | 6,413 |
-| 13 | **Breanna Stewart** 🔴 +21 | 6,356 |
+| 13 | **Breanna Stewart** 🔴 +25 | 6,360 |
 | 14 | Lisa Leslie | 6,251 |
-| 15 | **A'ja Wilson** 🔴 +24 | 6,202 |
+| 15 | **A'ja Wilson** 🔴 +25 | 6,203 |
 | 16 | **Jewell Loyd** 🔴 +11 | 6,159 |
 | 17 | Brittney Griner | 6,087 |
 | 18 | Lauren Jackson | 6,005 |
@@ -291,7 +291,7 @@ _Last updated: 2026-07-29 03:43 UTC_
 | 65 | Sue Bird | 1,466 |
 | 66 | Cheyenne Parker-Tyus | 1,463 |
 | 67 | Nicole Powell | 1,457 |
-| 68 | **Monique Billings** 🔴 +10 | 1,441 |
+| 68 | **Monique Billings** 🔴 +11 | 1,442 |
 | 69 | Tamera Young | 1,433 |
 | 70 | Alana Beard | 1,420 |
 | 71 | Nakia Sanford | 1,419 |
@@ -520,9 +520,9 @@ _Last updated: 2026-07-29 03:43 UTC_
 | 89 | Bria Hartley | 661 |
 | 90 | Brittney Griner | 660 |
 | 91 | Lindsay Allen | 657 |
-| 92 | Betty Lennox | 651 |
-| 92 | **Jonquel Jones** 🔴 +4 | 651 |
-| 92 | Plenette Pierson | 651 |
+| 92 | **Jonquel Jones** 🔴 +5 | 652 |
+| 93 | Betty Lennox | 651 |
+| 93 | Plenette Pierson | 651 |
 | 95 | Alex Bentley | 645 |
 | 96 | Asjha Jones | 637 |
 | 97 | Jennifer Azzi | 636 |
@@ -879,9 +879,9 @@ _Last updated: 2026-07-29 03:43 UTC_
 | 35 | Tina Thompson | 452 |
 | 36 | Kayla McBride | 449 |
 | 36 | Maya Moore | 449 |
+| 38 | **Breanna Stewart** 🔴 +3 | 438 |
 | 38 | Sheri Sam | 438 |
-| 39 | **Breanna Stewart** 🔴 +2 | 437 |
-| 39 | Camille Smith | 437 |
+| 40 | Camille Smith | 437 |
 | 41 | Candice Dupree | 431 |
 | 42 | Epiphanny Prince | 429 |
 | 43 | Tanisha Wright | 427 |
@@ -1374,8 +1374,8 @@ _Last updated: 2026-07-29 03:43 UTC_
 | 118 | Allisha Gray | 476 |
 | 119 | Ebony Hoffman | 470 |
 | 120 | Elaine Powell | 469 |
-| 121 | Allie Quigley | 467 |
-| 121 | **Ariel Atkins** 🔴 +2 | 467 |
+| 121 | **Ariel Atkins** 🔴 +3 | 468 |
+| 122 | Allie Quigley | 467 |
 | 123 | **Jackie Young** 🔴 +2 | 465 |
 | 124 | Betnijah Laney-Hamilton | 456 |
 | 125 | Kia Vaughn | 454 |
@@ -1471,8 +1471,8 @@ _Last updated: 2026-07-29 03:43 UTC_
 | 10 | Plenette Pierson | 1,175 |
 | 11 | Chasity Melvin | 1,165 |
 | 12 | Natasha Howard | 1,161 |
-| 13 | Camille Smith | 1,159 |
-| 13 | **Nneka Ogwumike** 🔴 +3 | 1,159 |
+| 13 | **Nneka Ogwumike** 🔴 +4 | 1,160 |
+| 14 | Camille Smith | 1,159 |
 | 15 | Alana Beard | 1,153 |
 | 16 | Swin Cash | 1,146 |
 | 17 | Taj McWilliams-Franklin | 1,145 |
