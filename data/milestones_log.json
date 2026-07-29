@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-07-29T00:37:00+00:00",
+    "text": "Napheesa Collier passed Gabby Williams for #86 all-time in steals (career 327) \u2014 up from #87 entering today \u2014 (5:33 - 2nd \u2014 TOR @ MIN)",
+    "kind": "rank_pass",
+    "player": "Napheesa Collier",
+    "stat": "steals",
+    "rank": 86,
+    "passed_players": [
+      "Gabby Williams"
+    ],
+    "new_total": 327
+  },
+  {
     "ts": "2026-07-29T00:10:00+00:00",
     "text": "Napheesa Collier passed Allison Feaster and Erin Perperoglou for #170 all-time in fouls (career 505) \u2014 up from #172 entering today \u2014 (6:10 - 1st \u2014 TOR @ MIN)",
     "kind": "rank_pass",
@@ -2991,17 +3003,5 @@
     "stat": "points",
     "value": 3100,
     "new_total": 3102
-  },
-  {
-    "ts": "2026-06-29T00:21:00+00:00",
-    "text": "Sabrina Ionescu passed Shekinna Stricklen for #25 all-time in three-pointers (career 469) \u2014 (6:39 - 3rd \u2014 NY @ GS)",
-    "kind": "rank_pass",
-    "player": "Sabrina Ionescu",
-    "stat": "three-pointers",
-    "rank": 25,
-    "passed_players": [
-      "Shekinna Stricklen"
-    ],
-    "new_total": 469
   }
 ]
