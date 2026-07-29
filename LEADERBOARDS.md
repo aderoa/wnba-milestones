@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-29 03:50 UTC_
+_Last updated: 2026-07-29 03:51 UTC_
 
 ## Contents
 
@@ -94,7 +94,7 @@ _Last updated: 2026-07-29 03:50 UTC_
 | 73 | Jasmine Thomas | 3,522 |
 | 74 | Tamecka Dixon | 3,507 |
 | 75 | Tammy Sutton-Brown | 3,498 |
-| 76 | **Ariel Atkins** 🔴 +12 | 3,493 |
+| 76 | **Ariel Atkins** 🔴 +13 | 3,494 |
 | 77 | Sancho Lyttle | 3,478 |
 | 78 | Ivory Latta | 3,447 |
 | 79 | Nicole Powell | 3,407 |
@@ -238,7 +238,7 @@ _Last updated: 2026-07-29 03:50 UTC_
 | 12 | Alyssa Thomas | 2,858 |
 | 13 | **Jonquel Jones** 🔴 +5 | 2,733 |
 | 14 | **A'ja Wilson** 🔴 +12 | 2,669 |
-| 15 | **Breanna Stewart** 🔴 +3 | 2,635 |
+| 15 | **Breanna Stewart** 🔴 +4 | 2,636 |
 | 16 | Sancho Lyttle | 2,596 |
 | 17 | Brittney Griner | 2,579 |
 | 18 | DeLisha Milton-Jones | 2,574 |
@@ -319,7 +319,7 @@ _Last updated: 2026-07-29 03:50 UTC_
 | 92 | Liz Cambage | 1,258 |
 | 94 | Kayla McBride | 1,257 |
 | 94 | Tiffany Hayes | 1,257 |
-| 96 | **Brianna Turner** 🔴 +3 | 1,246 |
+| 96 | **Brianna Turner** 🔴 +4 | 1,247 |
 | 97 | Ezi Magbegor | 1,243 |
 | 98 | Seimone Augustus | 1,228 |
 | 99 | Jia Perkins | 1,220 |
@@ -1116,7 +1116,7 @@ _Last updated: 2026-07-29 03:50 UTC_
 | 67 | DeLisha Milton-Jones | 312 |
 | 67 | Ruthie Bolton | 312 |
 | 69 | Tan White | 311 |
-| 70 | **Bridget Carleton** 🔴 +2 | 308 |
+| 70 | **Bridget Carleton** 🔴 +3 | 309 |
 | 71 | Kedra Holland-Corn | 307 |
 | 72 | Kelly Miller | 305 |
 | 73 | Nikki Teasley | 304 |
