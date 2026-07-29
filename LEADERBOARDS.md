@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-29 03:16 UTC_
+_Last updated: 2026-07-29 03:17 UTC_
 
 ## Contents
 
@@ -31,7 +31,7 @@ _Last updated: 2026-07-29 03:16 UTC_
 | 10 | Candace Parker | 6,574 |
 | 11 | Katie Smith | 6,450 |
 | 12 | Sylvia Fowles | 6,413 |
-| 13 | **Breanna Stewart** 🔴 +10 | 6,345 |
+| 13 | **Breanna Stewart** 🔴 +13 | 6,348 |
 | 14 | Lisa Leslie | 6,251 |
 | 15 | **A'ja Wilson** 🔴 +14 | 6,192 |
 | 16 | **Jewell Loyd** 🔴 +6 | 6,154 |
@@ -267,7 +267,7 @@ _Last updated: 2026-07-29 03:16 UTC_
 | 41 | Lindsay Whalen | 1,805 |
 | 42 | Camille Smith | 1,802 |
 | 43 | Asjha Jones | 1,751 |
-| 44 | **Stefanie Dolson** 🔴 +1 | 1,704 |
+| 44 | **Stefanie Dolson** 🔴 +2 | 1,705 |
 | 45 | Teaira McCowan | 1,694 |
 | 46 | Monique Currie | 1,666 |
 | 47 | Glory Johnson | 1,640 |
@@ -351,7 +351,7 @@ _Last updated: 2026-07-29 03:16 UTC_
 | 124 | Tamecka Dixon | 1,035 |
 | 126 | Kamila Vodichkova | 1,031 |
 | 127 | Jasmine Thomas | 1,027 |
-| 128 | **Sabrina Ionescu** 🔴 +3 | 1,023 |
+| 128 | **Sabrina Ionescu** 🔴 +4 | 1,024 |
 | 129 | Jessica Shepard | 1,016 |
 | 130 | Cathrine Kraayeveld | 1,013 |
 | 131 | Kelly Miller | 1,011 |
@@ -521,8 +521,8 @@ _Last updated: 2026-07-29 03:16 UTC_
 | 90 | Brittney Griner | 660 |
 | 91 | Lindsay Allen | 657 |
 | 92 | Betty Lennox | 651 |
+| 92 | **Jonquel Jones** 🔴 +4 | 651 |
 | 92 | Plenette Pierson | 651 |
-| 94 | **Jonquel Jones** 🔴 +3 | 650 |
 | 95 | Alex Bentley | 645 |
 | 96 | Asjha Jones | 637 |
 | 97 | Jennifer Azzi | 636 |
@@ -604,8 +604,8 @@ _Last updated: 2026-07-29 03:16 UTC_
 | 173 | Sugar Rodgers | 393 |
 | 174 | Shameka Christon | 389 |
 | 174 | Tamicha Jackson | 389 |
+| 176 | **Bridget Carleton** 🔴 +3 | 387 |
 | 176 | Riquna Williams | 387 |
-| 177 | **Bridget Carleton** 🔴 +2 | 386 |
 | 178 | **Dana Evans** 🔴 +3 | 382 |
 | 179 | Jessica Breland | 377 |
 | 180 | Shenise Johnson | 376 |
@@ -1072,7 +1072,7 @@ _Last updated: 2026-07-29 03:16 UTC_
 | 23 | Marina Mabrey | 503 |
 | 24 | **Sabrina Ionescu** 🔴 +4 | 472 |
 | 25 | Shekinna Stricklen | 468 |
-| 26 | **Breanna Stewart** 🔴 | 465 |
+| 26 | **Breanna Stewart** 🔴 +1 | 466 |
 | 27 | Cappie Pondexter | 464 |
 | 28 | Allisha Gray | 458 |
 | 29 | **Ariel Atkins** 🔴 +1 | 456 |
