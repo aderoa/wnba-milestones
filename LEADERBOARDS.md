@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-29 03:41 UTC_
+_Last updated: 2026-07-29 03:42 UTC_
 
 ## Contents
 
@@ -58,7 +58,7 @@ _Last updated: 2026-07-29 03:41 UTC_
 | 37 | Chamique Holdsclaw | 4,713 |
 | 38 | Elena Delle Donne | 4,706 |
 | 39 | Natasha Howard | 4,695 |
-| 40 | **Chelsea Gray** 🔴 +16 | 4,641 |
+| 40 | **Chelsea Gray** 🔴 +17 | 4,642 |
 | 41 | Penny Taylor | 4,595 |
 | 42 | Kelsey Plum | 4,494 |
 | 43 | Allisha Gray | 4,491 |
@@ -177,8 +177,8 @@ _Last updated: 2026-07-29 03:41 UTC_
 | 156 | Elena Baranova | 2,110 |
 | 157 | **Aliyah Boston** 🔴 +11 | 2,098 |
 | 158 | Aerial Powers | 2,068 |
-| 159 | Coco Miller | 2,030 |
-| 160 | **Natisha Hiedeman** 🔴 +27 | 2,029 |
+| 159 | **Natisha Hiedeman** 🔴 +30 | 2,032 |
+| 160 | Coco Miller | 2,030 |
 | 161 | Diamond DeShields | 2,026 |
 | 162 | Vicky Bullett | 2,018 |
 | 163 | Ezi Magbegor | 1,995 |
@@ -267,7 +267,7 @@ _Last updated: 2026-07-29 03:41 UTC_
 | 41 | Lindsay Whalen | 1,805 |
 | 42 | Camille Smith | 1,802 |
 | 43 | Asjha Jones | 1,751 |
-| 44 | **Stefanie Dolson** 🔴 +5 | 1,708 |
+| 44 | **Stefanie Dolson** 🔴 +6 | 1,709 |
 | 45 | Teaira McCowan | 1,694 |
 | 46 | Monique Currie | 1,666 |
 | 47 | Glory Johnson | 1,640 |
@@ -479,7 +479,7 @@ _Last updated: 2026-07-29 03:41 UTC_
 | 48 | Tiffany Hayes | 957 |
 | 49 | Kara Lawson | 946 |
 | 50 | Arike Ogunbowale | 944 |
-| 51 | **Nneka Ogwumike** 🔴 +7 | 940 |
+| 51 | **Nneka Ogwumike** 🔴 +8 | 941 |
 | 52 | Deanna Nolan | 930 |
 | 53 | Kelly Miller | 927 |
 | 54 | DeLisha Milton-Jones | 921 |
@@ -959,9 +959,9 @@ _Last updated: 2026-07-29 03:41 UTC_
 | 115 | Anna DeForge | 266 |
 | 116 | Brionna Jones | 265 |
 | 117 | Michelle Snow | 262 |
+| 118 | **Jonquel Jones** 🔴 +1 | 261 |
 | 118 | Karima Christmas-Kelly | 261 |
-| 119 | **Jonquel Jones** 🔴 | 260 |
-| 119 | Riquna Williams | 260 |
+| 120 | Riquna Williams | 260 |
 | 121 | Noelle Quinn | 256 |
 | 122 | Elaine Powell | 255 |
 | 122 | Loree Moore | 255 |
@@ -1109,7 +1109,7 @@ _Last updated: 2026-07-29 03:41 UTC_
 | 60 | Deanna Nolan | 340 |
 | 61 | **Sophie Cunningham** 🔴 +3 | 337 |
 | 62 | Anna DeForge | 334 |
-| 63 | **Natisha Hiedeman** 🔴 +4 | 332 |
+| 63 | **Natisha Hiedeman** 🔴 +5 | 333 |
 | 64 | Sugar Rodgers | 317 |
 | 65 | Marissa Coleman | 315 |
 | 66 | Shannon Johnson | 313 |
@@ -1346,7 +1346,7 @@ _Last updated: 2026-07-29 03:41 UTC_
 | 90 | Matee Ajavon | 544 |
 | 91 | Adrienne Goodson | 542 |
 | 92 | Marina Mabrey | 540 |
-| 93 | **Sabrina Ionescu** 🔴 +5 | 538 |
+| 93 | **Sabrina Ionescu** 🔴 +6 | 539 |
 | 94 | Layshia Clarendon | 536 |
 | 95 | Ivory Latta | 534 |
 | 95 | Iziane Castro Marques | 534 |
@@ -1520,7 +1520,7 @@ _Last updated: 2026-07-29 03:41 UTC_
 | 59 | Skylar Diggins | 825 |
 | 60 | Shannon Johnson | 813 |
 | 60 | Tully Bevilaqua | 813 |
-| 62 | **Erica Wheeler** 🔴 +2 | 810 |
+| 62 | **Erica Wheeler** 🔴 +3 | 811 |
 | 63 | Nykesha Sales | 796 |
 | 64 | Ebony Hoffman | 791 |
 | 65 | Sue Bird | 775 |
@@ -1568,7 +1568,7 @@ _Last updated: 2026-07-29 03:41 UTC_
 | 107 | **Chelsea Gray** 🔴 | 640 |
 | 108 | Charlotte Smith | 638 |
 | 109 | Teaira McCowan | 637 |
-| 110 | **Kelsey Mitchell** 🔴 +4 | 633 |
+| 110 | **Kelsey Mitchell** 🔴 +5 | 634 |
 | 111 | Janell Burse | 632 |
 | 112 | Nicole Ohlde | 631 |
 | 113 | Jennifer Gillom | 629 |
