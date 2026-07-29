@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-29 03:18 UTC_
+_Last updated: 2026-07-29 03:19 UTC_
 
 ## Contents
 
@@ -31,7 +31,7 @@ _Last updated: 2026-07-29 03:18 UTC_
 | 10 | Candace Parker | 6,574 |
 | 11 | Katie Smith | 6,450 |
 | 12 | Sylvia Fowles | 6,413 |
-| 13 | **Breanna Stewart** 🔴 +13 | 6,348 |
+| 13 | **Breanna Stewart** 🔴 +15 | 6,350 |
 | 14 | Lisa Leslie | 6,251 |
 | 15 | **A'ja Wilson** 🔴 +14 | 6,192 |
 | 16 | **Jewell Loyd** 🔴 +6 | 6,154 |
@@ -83,7 +83,7 @@ _Last updated: 2026-07-29 03:18 UTC_
 | 62 | Allie Quigley | 3,786 |
 | 63 | Chasity Melvin | 3,781 |
 | 64 | Brittney Sykes | 3,726 |
-| 65 | **Jackie Young** 🔴 +13 | 3,711 |
+| 65 | **Jackie Young** 🔴 +15 | 3,713 |
 | 66 | Kara Lawson | 3,670 |
 | 67 | Mwadi Mabika | 3,576 |
 | 68 | Odyssey Sims | 3,574 |
@@ -107,7 +107,7 @@ _Last updated: 2026-07-29 03:18 UTC_
 | 86 | Marina Mabrey | 3,274 |
 | 87 | **Stefanie Dolson** 🔴 +2 | 3,219 |
 | 88 | Margo Dydek | 3,214 |
-| 89 | **Erica Wheeler** 🔴 +7 | 3,202 |
+| 89 | **Erica Wheeler** 🔴 +13 | 3,208 |
 | 90 | Danielle Robinson | 3,160 |
 | 91 | Wendy Palmer | 3,135 |
 | 92 | **Sabrina Ionescu** 🔴 +16 | 3,113 |
@@ -516,7 +516,7 @@ _Last updated: 2026-07-29 03:18 UTC_
 | 85 | Emma Meesseman | 681 |
 | 86 | Nykesha Sales | 677 |
 | 87 | **Natisha Hiedeman** 🔴 +4 | 672 |
-| 88 | **A'ja Wilson** 🔴 +2 | 669 |
+| 88 | **A'ja Wilson** 🔴 +3 | 670 |
 | 89 | Bria Hartley | 661 |
 | 90 | Brittney Griner | 660 |
 | 91 | Lindsay Allen | 657 |
@@ -598,7 +598,7 @@ _Last updated: 2026-07-29 03:18 UTC_
 | 165 | Murriel Page | 410 |
 | 168 | Allison Feaster | 406 |
 | 169 | Rita Williams | 403 |
-| 170 | **Stephanie Talbot** 🔴 | 400 |
+| 170 | **Stephanie Talbot** 🔴 +1 | 401 |
 | 171 | Marissa Coleman | 399 |
 | 172 | Stacey Dales | 395 |
 | 173 | Sugar Rodgers | 393 |
@@ -885,13 +885,13 @@ _Last updated: 2026-07-29 03:18 UTC_
 | 41 | Candice Dupree | 431 |
 | 42 | Epiphanny Prince | 429 |
 | 43 | Tanisha Wright | 427 |
-| 44 | **Dearica Hamby** 🔴 +3 | 414 |
+| 44 | **Dearica Hamby** 🔴 +2 | 413 |
 | 45 | Katie Smith | 408 |
 | 46 | Cappie Pondexter | 405 |
 | 47 | Nicole Powell | 401 |
 | 48 | Jordin Canada | 397 |
 | 49 | Jasmine Thomas | 394 |
-| 50 | **Ariel Atkins** 🔴 | 390 |
+| 50 | **Ariel Atkins** 🔴 +1 | 391 |
 | 51 | Danielle Robinson | 389 |
 | 52 | Deanna Nolan | 388 |
 | 53 | Briann January | 386 |
@@ -1105,8 +1105,8 @@ _Last updated: 2026-07-29 03:18 UTC_
 | 56 | Cathrine Kraayeveld | 343 |
 | 56 | Elena Delle Donne | 343 |
 | 58 | Candace Parker | 342 |
-| 59 | Deanna Nolan | 340 |
-| 60 | **Erica Wheeler** 🔴 +2 | 339 |
+| 59 | **Erica Wheeler** 🔴 +4 | 341 |
+| 60 | Deanna Nolan | 340 |
 | 61 | **Sophie Cunningham** 🔴 +3 | 337 |
 | 62 | Anna DeForge | 334 |
 | 63 | **Natisha Hiedeman** 🔴 +3 | 331 |
@@ -1346,8 +1346,8 @@ _Last updated: 2026-07-29 03:18 UTC_
 | 90 | Matee Ajavon | 544 |
 | 91 | Adrienne Goodson | 542 |
 | 92 | Marina Mabrey | 540 |
-| 93 | Layshia Clarendon | 536 |
-| 93 | **Sabrina Ionescu** 🔴 +3 | 536 |
+| 93 | **Sabrina Ionescu** 🔴 +4 | 537 |
+| 94 | Layshia Clarendon | 536 |
 | 95 | Ivory Latta | 534 |
 | 95 | Iziane Castro Marques | 534 |
 | 97 | Mwadi Mabika | 532 |

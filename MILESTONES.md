@@ -2,6 +2,11 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-29 03:19 UTC
+
+- **Brianna Turner** reached **900** career points (now 901) — _6:26 - 3rd — POR @ LV_
+- **Erica Wheeler** passed **Deanna Nolan** for **#59** all-time in three-pointers (career 341) — up from #60 entering today — _6:23 - 3rd — NY @ LA_
+
 ## 2026-07-29 01:59 UTC
 
 - **Napheesa Collier** passed **Vicky Bullett** for **#165** all-time in fouls (career 508) — up from #172 entering today — _19.8 - 4th — TOR @ MIN_

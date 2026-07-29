@@ -1,5 +1,26 @@
 [
   {
+    "ts": "2026-07-29T03:19:00+00:00",
+    "text": "Brianna Turner reached 900 career points (now 901) \u2014 (6:26 - 3rd \u2014 POR @ LV)",
+    "kind": "round",
+    "player": "Brianna Turner",
+    "stat": "points",
+    "value": 900,
+    "new_total": 901
+  },
+  {
+    "ts": "2026-07-29T03:19:00+00:00",
+    "text": "Erica Wheeler passed Deanna Nolan for #59 all-time in three-pointers (career 341) \u2014 up from #60 entering today \u2014 (6:23 - 3rd \u2014 NY @ LA)",
+    "kind": "rank_pass",
+    "player": "Erica Wheeler",
+    "stat": "three-pointers",
+    "rank": 59,
+    "passed_players": [
+      "Deanna Nolan"
+    ],
+    "new_total": 341
+  },
+  {
     "ts": "2026-07-29T01:59:00+00:00",
     "text": "Napheesa Collier passed Vicky Bullett for #165 all-time in fouls (career 508) \u2014 up from #172 entering today \u2014 (19.8 - 4th \u2014 TOR @ MIN)",
     "kind": "rank_pass",
@@ -2983,29 +3004,5 @@
       "Leilani Mitchell"
     ],
     "new_total": 685
-  },
-  {
-    "ts": "2026-06-29T00:51:00+00:00",
-    "text": "Sabrina Ionescu passed Shavonte Zellous for #92 all-time in points (career 3,105) \u2014 up from #93 entering today \u2014 (6:48 - 4th \u2014 NY @ GS)",
-    "kind": "rank_pass",
-    "player": "Sabrina Ionescu",
-    "stat": "points",
-    "rank": 92,
-    "passed_players": [
-      "Shavonte Zellous"
-    ],
-    "new_total": 3105
-  },
-  {
-    "ts": "2026-06-29T00:49:00+00:00",
-    "text": "Veronica Burton passed Charde Houston for #177 all-time in three-pointers (career 125) \u2014 up from #178 entering today \u2014 (8:01 - 4th \u2014 NY @ GS)",
-    "kind": "rank_pass",
-    "player": "Veronica Burton",
-    "stat": "three-pointers",
-    "rank": 177,
-    "passed_players": [
-      "Charde Houston"
-    ],
-    "new_total": 125
   }
 ]
