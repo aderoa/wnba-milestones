@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-07-29T01:35:00+00:00",
+    "text": "Napheesa Collier passed Merlakia Jones for #166 all-time in fouls (career 507) \u2014 up from #172 entering today \u2014 (8:04 - 4th \u2014 TOR @ MIN)",
+    "kind": "rank_pass",
+    "player": "Napheesa Collier",
+    "stat": "fouls",
+    "rank": 166,
+    "passed_players": [
+      "Merlakia Jones"
+    ],
+    "new_total": 507
+  },
+  {
     "ts": "2026-07-29T01:14:00+00:00",
     "text": "Napheesa Collier passed Isabelle Harrison, Rushia Brown, and Shekinna Stricklen for #167 all-time in fouls (career 506) \u2014 up from #172 entering today \u2014 (6:51 - 3rd \u2014 TOR @ MIN)",
     "kind": "rank_pass",
@@ -2995,18 +3007,5 @@
       "Ariel Atkins"
     ],
     "new_total": 456
-  },
-  {
-    "ts": "2026-06-29T00:39:00+00:00",
-    "text": "Tiffany Hayes passed Swin Cash and Tina Charles for #54 all-time in steals (career 386) \u2014 up from #55 entering today \u2014 (33.5 - 3rd \u2014 NY @ GS)",
-    "kind": "rank_pass",
-    "player": "Tiffany Hayes",
-    "stat": "steals",
-    "rank": 54,
-    "passed_players": [
-      "Swin Cash",
-      "Tina Charles"
-    ],
-    "new_total": 386
   }
 ]
