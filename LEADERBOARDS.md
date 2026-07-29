@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-29 03:45 UTC_
+_Last updated: 2026-07-29 03:46 UTC_
 
 ## Contents
 
@@ -83,7 +83,7 @@ _Last updated: 2026-07-29 03:45 UTC_
 | 62 | Allie Quigley | 3,786 |
 | 63 | Chasity Melvin | 3,781 |
 | 64 | Brittney Sykes | 3,726 |
-| 65 | **Jackie Young** 🔴 +21 | 3,719 |
+| 65 | **Jackie Young** 🔴 +22 | 3,720 |
 | 66 | Kara Lawson | 3,670 |
 | 67 | Mwadi Mabika | 3,576 |
 | 68 | Odyssey Sims | 3,574 |
@@ -177,7 +177,7 @@ _Last updated: 2026-07-29 03:45 UTC_
 | 156 | Elena Baranova | 2,110 |
 | 157 | **Aliyah Boston** 🔴 +11 | 2,098 |
 | 158 | Aerial Powers | 2,068 |
-| 159 | **Natisha Hiedeman** 🔴 +30 | 2,032 |
+| 159 | **Natisha Hiedeman** 🔴 +33 | 2,035 |
 | 160 | Coco Miller | 2,030 |
 | 161 | Diamond DeShields | 2,026 |
 | 162 | Vicky Bullett | 2,018 |
@@ -1109,7 +1109,7 @@ _Last updated: 2026-07-29 03:45 UTC_
 | 60 | Deanna Nolan | 340 |
 | 61 | **Sophie Cunningham** 🔴 +3 | 337 |
 | 62 | Anna DeForge | 334 |
-| 63 | **Natisha Hiedeman** 🔴 +5 | 333 |
+| 62 | **Natisha Hiedeman** 🔴 +6 | 334 |
 | 64 | Sugar Rodgers | 317 |
 | 65 | Marissa Coleman | 315 |
 | 66 | Shannon Johnson | 313 |
@@ -1373,8 +1373,8 @@ _Last updated: 2026-07-29 03:45 UTC_
 | 117 | Natalie Williams | 480 |
 | 118 | Allisha Gray | 476 |
 | 119 | Ebony Hoffman | 470 |
+| 120 | **Ariel Atkins** 🔴 +4 | 469 |
 | 120 | Elaine Powell | 469 |
-| 121 | **Ariel Atkins** 🔴 +3 | 468 |
 | 122 | Allie Quigley | 467 |
 | 123 | **Jackie Young** 🔴 +2 | 465 |
 | 124 | Betnijah Laney-Hamilton | 456 |
