@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-29 02:33 UTC_
+_Last updated: 2026-07-29 02:34 UTC_
 
 ## Contents
 
@@ -22,7 +22,7 @@ _Last updated: 2026-07-29 02:33 UTC_
 | 1 | Diana Taurasi | 10,608 |
 | 2 | Tina Charles | 8,396 |
 | 3 | DeWanna Bonner | 7,972 |
-| 4 | **Nneka Ogwumike** 🔴 +4 | 7,567 |
+| 4 | **Nneka Ogwumike** 🔴 +6 | 7,569 |
 | 5 | Tina Thompson | 7,470 |
 | 6 | Tamika Catchings | 7,371 |
 | 7 | Candice Dupree | 6,861 |
@@ -45,7 +45,7 @@ _Last updated: 2026-07-29 02:33 UTC_
 | 24 | DeLisha Milton-Jones | 5,571 |
 | 25 | Katie Douglas | 5,545 |
 | 26 | Lindsay Whalen | 5,511 |
-| 27 | **Kelsey Mitchell** 🔴 +5 | 5,203 |
+| 27 | **Kelsey Mitchell** 🔴 +8 | 5,206 |
 | 28 | Swin Cash | 5,119 |
 | 29 | Tiffany Hayes | 5,049 |
 | 30 | Tangela Smith | 5,035 |
@@ -58,7 +58,7 @@ _Last updated: 2026-07-29 02:33 UTC_
 | 37 | Chamique Holdsclaw | 4,713 |
 | 38 | Elena Delle Donne | 4,706 |
 | 39 | Natasha Howard | 4,695 |
-| 40 | **Chelsea Gray** 🔴 +8 | 4,633 |
+| 40 | **Chelsea Gray** 🔴 +9 | 4,634 |
 | 41 | Penny Taylor | 4,595 |
 | 42 | Kelsey Plum | 4,494 |
 | 43 | Allisha Gray | 4,491 |
@@ -236,7 +236,7 @@ _Last updated: 2026-07-29 02:33 UTC_
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | Alyssa Thomas | 2,858 |
-| 13 | **Jonquel Jones** 🔴 | 2,728 |
+| 13 | **Jonquel Jones** 🔴 +1 | 2,729 |
 | 14 | **A'ja Wilson** 🔴 +6 | 2,663 |
 | 15 | **Breanna Stewart** 🔴 +2 | 2,634 |
 | 16 | Sancho Lyttle | 2,596 |
@@ -506,7 +506,7 @@ _Last updated: 2026-07-29 02:33 UTC_
 | 75 | Sheri Sam | 745 |
 | 76 | Monique Currie | 740 |
 | 77 | Elaine Powell | 728 |
-| 78 | **Dearica Hamby** 🔴 | 726 |
+| 78 | **Dearica Hamby** 🔴 +1 | 727 |
 | 79 | **Stefanie Dolson** 🔴 | 707 |
 | 80 | Chamique Holdsclaw | 698 |
 | 81 | Shavonte Zellous | 693 |
@@ -1054,7 +1054,7 @@ _Last updated: 2026-07-29 02:33 UTC_
 | 5 | Kayla McBride | 760 |
 | 6 | Tina Thompson | 745 |
 | 7 | Katie Douglas | 723 |
-| 8 | **Kelsey Mitchell** 🔴 | 712 |
+| 8 | **Kelsey Mitchell** 🔴 +1 | 713 |
 | 9 | **Jewell Loyd** 🔴 +2 | 697 |
 | 10 | DeWanna Bonner | 682 |
 | 11 | Kristi Toliver | 651 |
@@ -1319,7 +1319,7 @@ _Last updated: 2026-07-29 02:33 UTC_
 | 63 | Kayla McBride | 648 |
 | 63 | Kelsey Plum | 648 |
 | 65 | Dawn Staley | 643 |
-| 66 | **Jonquel Jones** 🔴 +1 | 642 |
+| 65 | **Jonquel Jones** 🔴 +2 | 643 |
 | 67 | Ruth Riley | 637 |
 | 68 | Odyssey Sims | 631 |
 | 68 | Svetlana Abrosimova | 631 |
@@ -1608,7 +1608,7 @@ _Last updated: 2026-07-29 02:33 UTC_
 | 147 | Jayne Appel Marinelli | 543 |
 | 147 | Renee Montgomery | 543 |
 | 149 | Marissa Coleman | 541 |
-| 150 | **Sophie Cunningham** 🔴 +2 | 540 |
+| 150 | **Sophie Cunningham** 🔴 +1 | 539 |
 | 151 | **Myisha Hines-Allen** 🔴 | 535 |
 | 152 | Damiris Dantas | 533 |
 | 152 | Kristen Rasmussen | 533 |
