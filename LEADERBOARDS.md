@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-29 03:53 UTC_
+_Last updated: 2026-07-29 03:54 UTC_
 
 ## Contents
 
@@ -83,7 +83,7 @@ _Last updated: 2026-07-29 03:53 UTC_
 | 62 | Allie Quigley | 3,786 |
 | 63 | Chasity Melvin | 3,781 |
 | 64 | Brittney Sykes | 3,726 |
-| 65 | **Jackie Young** 🔴 +24 | 3,722 |
+| 65 | **Jackie Young** 🔴 +25 | 3,723 |
 | 66 | Kara Lawson | 3,670 |
 | 67 | Mwadi Mabika | 3,576 |
 | 68 | Odyssey Sims | 3,574 |
@@ -1549,11 +1549,11 @@ _Last updated: 2026-07-29 03:53 UTC_
 | 88 | Katie Douglas | 697 |
 | 89 | Danielle Robinson | 692 |
 | 90 | Sophia Young-Malcolm | 687 |
+| 91 | **Jewell Loyd** 🔴 +2 | 686 |
 | 91 | Maya Moore | 686 |
-| 92 | **Breanna Stewart** 🔴 | 685 |
-| 92 | Cheyenne Parker-Tyus | 685 |
-| 92 | Jasmine Thomas | 685 |
-| 92 | **Jewell Loyd** 🔴 +1 | 685 |
+| 93 | **Breanna Stewart** 🔴 | 685 |
+| 93 | Cheyenne Parker-Tyus | 685 |
+| 93 | Jasmine Thomas | 685 |
 | 96 | Leilani Mitchell | 684 |
 | 97 | Crystal Robinson | 682 |
 | 97 | Kayla Thornton | 682 |
