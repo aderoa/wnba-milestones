@@ -1,5 +1,19 @@
 [
   {
+    "ts": "2026-07-29T01:14:00+00:00",
+    "text": "Napheesa Collier passed Isabelle Harrison, Rushia Brown, and Shekinna Stricklen for #167 all-time in fouls (career 506) \u2014 up from #172 entering today \u2014 (6:51 - 3rd \u2014 TOR @ MIN)",
+    "kind": "rank_pass",
+    "player": "Napheesa Collier",
+    "stat": "fouls",
+    "rank": 167,
+    "passed_players": [
+      "Isabelle Harrison",
+      "Rushia Brown",
+      "Shekinna Stricklen"
+    ],
+    "new_total": 506
+  },
+  {
     "ts": "2026-07-29T00:37:00+00:00",
     "text": "Napheesa Collier passed Gabby Williams for #86 all-time in steals (career 327) \u2014 up from #87 entering today \u2014 (5:33 - 2nd \u2014 TOR @ MIN)",
     "kind": "rank_pass",
@@ -2994,14 +3008,5 @@
       "Tina Charles"
     ],
     "new_total": 386
-  },
-  {
-    "ts": "2026-06-29T00:21:00+00:00",
-    "text": "Sabrina Ionescu reached 3,100 career points (now 3,102) \u2014 (6:39 - 3rd \u2014 NY @ GS)",
-    "kind": "round",
-    "player": "Sabrina Ionescu",
-    "stat": "points",
-    "value": 3100,
-    "new_total": 3102
   }
 ]

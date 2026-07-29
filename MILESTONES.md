@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-29 01:14 UTC
+
+- **Napheesa Collier** passed **Isabelle Harrison**, **Rushia Brown**, and **Shekinna Stricklen** for **#167** all-time in fouls (career 506) — up from #172 entering today — _6:51 - 3rd — TOR @ MIN_
+
 ## 2026-07-29 00:37 UTC
 
 - **Napheesa Collier** passed **Gabby Williams** for **#86** all-time in steals (career 327) — up from #87 entering today — _5:33 - 2nd — TOR @ MIN_
