@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-29 01:36 UTC_
+_Last updated: 2026-07-29 01:37 UTC_
 
 ## Contents
 
@@ -104,7 +104,7 @@ _Last updated: 2026-07-29 01:36 UTC_
 | 83 | Sheri Sam | 3,353 |
 | 84 | Andrea Stinson | 3,351 |
 | 85 | Tanisha Wright | 3,324 |
-| 86 | **Marina Mabrey** 🔴 +13 | 3,262 |
+| 86 | **Marina Mabrey** 🔴 +15 | 3,264 |
 | 87 | Stefanie Dolson | 3,217 |
 | 88 | Margo Dydek | 3,214 |
 | 89 | Erica Wheeler | 3,195 |
@@ -175,7 +175,7 @@ _Last updated: 2026-07-29 01:36 UTC_
 | 154 | Tari Phillips | 2,134 |
 | 155 | Cheryl Ford | 2,116 |
 | 156 | Elena Baranova | 2,110 |
-| 157 | **Aliyah Boston** 🔴 | 2,087 |
+| 157 | **Aliyah Boston** 🔴 +2 | 2,089 |
 | 158 | Aerial Powers | 2,068 |
 | 159 | Coco Miller | 2,030 |
 | 160 | Diamond DeShields | 2,026 |
@@ -213,7 +213,7 @@ _Last updated: 2026-07-29 01:36 UTC_
 | 192 | Armintie Herrington | 1,696 |
 | 193 | Nikki Teasley | 1,690 |
 | 194 | Shenise Johnson | 1,688 |
-| 195 | **Monique Billings** 🔴 +1 | 1,613 |
+| 195 | **Monique Billings** 🔴 +2 | 1,614 |
 | 196 | Janell Burse | 1,580 |
 | 197 | Le'coe Willingham | 1,552 |
 | 198 | Shatori Walker-Kimbrough | 1,544 |
@@ -291,8 +291,8 @@ _Last updated: 2026-07-29 01:36 UTC_
 | 65 | Sue Bird | 1,466 |
 | 66 | Cheyenne Parker-Tyus | 1,463 |
 | 67 | Nicole Powell | 1,457 |
+| 68 | **Monique Billings** 🔴 +2 | 1,433 |
 | 68 | Tamera Young | 1,433 |
-| 69 | **Monique Billings** 🔴 +1 | 1,432 |
 | 70 | Alana Beard | 1,420 |
 | 71 | Nakia Sanford | 1,419 |
 | 72 | Kayla Thornton | 1,408 |
@@ -379,7 +379,7 @@ _Last updated: 2026-07-29 01:36 UTC_
 | 153 | Temeka Johnson | 889 |
 | 154 | Mistie Bass | 888 |
 | 155 | Erica Wheeler | 882 |
-| 156 | **Marina Mabrey** 🔴 +6 | 880 |
+| 156 | **Marina Mabrey** 🔴 +7 | 881 |
 | 157 | Alanna Smith | 878 |
 | 158 | Shameka Christon | 867 |
 | 159 | Krystal Thomas | 862 |
@@ -532,9 +532,9 @@ _Last updated: 2026-07-29 01:36 UTC_
 | 99 | **Natasha Howard** 🔴 +4 | 619 |
 | 101 | Debbie Black | 612 |
 | 102 | Cynthia Cooper | 602 |
+| 103 | **Caitlin Clark** 🔴 +1 | 592 |
 | 103 | Sancho Lyttle | 592 |
-| 104 | **Caitlin Clark** 🔴 | 591 |
-| 104 | Gabby Williams | 591 |
+| 105 | Gabby Williams | 591 |
 | 106 | Betnijah Laney-Hamilton | 590 |
 | 106 | Camille Smith | 590 |
 | 108 | Armintie Herrington | 589 |
