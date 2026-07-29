@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-29 02:50 UTC_
+_Last updated: 2026-07-29 02:51 UTC_
 
 ## Contents
 
@@ -319,7 +319,7 @@ _Last updated: 2026-07-29 02:50 UTC_
 | 93 | **Chelsea Gray** 🔴 | 1,257 |
 | 93 | Kayla McBride | 1,257 |
 | 93 | Tiffany Hayes | 1,257 |
-| 96 | **Brianna Turner** 🔴 +1 | 1,244 |
+| 96 | **Brianna Turner** 🔴 +2 | 1,245 |
 | 97 | Ezi Magbegor | 1,243 |
 | 98 | Seimone Augustus | 1,228 |
 | 99 | Jia Perkins | 1,220 |
@@ -395,8 +395,8 @@ _Last updated: 2026-07-29 02:50 UTC_
 | 168 | Barbara Farris | 819 |
 | 170 | Carolyn Swords | 814 |
 | 171 | Betnijah Laney-Hamilton | 812 |
-| 172 | **Ariel Atkins** 🔴 +1 | 799 |
-| 172 | Tierra Ruffin-Pratt | 799 |
+| 172 | **Ariel Atkins** 🔴 +2 | 800 |
+| 173 | Tierra Ruffin-Pratt | 799 |
 | 174 | Charlotte Smith | 794 |
 | 175 | Rhonda Mapp | 788 |
 | 176 | Mercedes Russell | 786 |
@@ -505,8 +505,8 @@ _Last updated: 2026-07-29 02:50 UTC_
 | 74 | Allisha Gray | 767 |
 | 75 | Sheri Sam | 745 |
 | 76 | Monique Currie | 740 |
+| 77 | **Dearica Hamby** 🔴 +2 | 728 |
 | 77 | Elaine Powell | 728 |
-| 78 | **Dearica Hamby** 🔴 +1 | 727 |
 | 79 | **Stefanie Dolson** 🔴 | 707 |
 | 80 | Chamique Holdsclaw | 698 |
 | 81 | Shavonte Zellous | 693 |
@@ -978,7 +978,7 @@ _Last updated: 2026-07-29 02:50 UTC_
 | 134 | Coco Miller | 237 |
 | 135 | Marissa Coleman | 236 |
 | 136 | Nikki McCray | 235 |
-| 137 | **Kelsey Mitchell** 🔴 | 233 |
+| 137 | **Kelsey Mitchell** 🔴 +1 | 234 |
 | 138 | Merlakia Jones | 232 |
 | 139 | Ruth Riley | 231 |
 | 140 | Scholanda Dorrell | 230 |
@@ -1413,8 +1413,8 @@ _Last updated: 2026-07-29 02:50 UTC_
 | 157 | Armintie Herrington | 377 |
 | 158 | Anna DeForge | 374 |
 | 158 | Cheryl Ford | 374 |
-| 160 | **Caitlin Clark** 🔴 +5 | 373 |
-| 161 | Allison Feaster | 372 |
+| 160 | Allison Feaster | 372 |
+| 160 | **Caitlin Clark** 🔴 +4 | 372 |
 | 162 | Emma Meesseman | 367 |
 | 163 | Latasha Byears | 360 |
 | 164 | Vicky Bullett | 359 |
