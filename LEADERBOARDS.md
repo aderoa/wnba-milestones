@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-29 02:04 UTC_
+_Last updated: 2026-07-29 02:05 UTC_
 
 ## Contents
 
@@ -69,7 +69,7 @@ _Last updated: 2026-07-29 02:04 UTC_
 | 48 | Courtney Vandersloot | 4,362 |
 | 49 | Courtney Williams | 4,355 |
 | 50 | **Jonquel Jones** 🔴 | 4,353 |
-| 51 | **Dearica Hamby** 🔴 | 4,330 |
+| 51 | **Dearica Hamby** 🔴 +3 | 4,333 |
 | 52 | Sophia Young-Malcolm | 4,300 |
 | 53 | Plenette Pierson | 4,258 |
 | 54 | Monique Currie | 4,253 |
@@ -227,7 +227,7 @@ _Last updated: 2026-07-29 02:04 UTC_
 | 1 | Tina Charles | 4,262 |
 | 2 | Sylvia Fowles | 4,005 |
 | 3 | Candace Parker | 3,467 |
-| 4 | **Nneka Ogwumike** 🔴 | 3,406 |
+| 4 | **Nneka Ogwumike** 🔴 +1 | 3,407 |
 | 5 | Rebekkah Brunson | 3,345 |
 | 6 | Tamika Catchings | 3,313 |
 | 7 | Lisa Leslie | 3,303 |
@@ -237,7 +237,7 @@ _Last updated: 2026-07-29 02:04 UTC_
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | Alyssa Thomas | 2,858 |
 | 13 | **Jonquel Jones** 🔴 | 2,728 |
-| 14 | **A'ja Wilson** 🔴 +1 | 2,658 |
+| 14 | **A'ja Wilson** 🔴 +2 | 2,659 |
 | 15 | **Breanna Stewart** 🔴 | 2,632 |
 | 16 | Sancho Lyttle | 2,596 |
 | 17 | Brittney Griner | 2,579 |
@@ -451,7 +451,7 @@ _Last updated: 2026-07-29 02:04 UTC_
 | 19 | Jasmine Thomas | 1,355 |
 | 20 | Briann January | 1,339 |
 | 21 | Dawn Staley | 1,337 |
-| 22 | **Erica Wheeler** 🔴 +1 | 1,336 |
+| 21 | **Erica Wheeler** 🔴 +2 | 1,337 |
 | 23 | Teresa Weatherspoon | 1,333 |
 | 24 | Kristi Toliver | 1,301 |
 | 25 | Kelsey Plum | 1,270 |
@@ -516,7 +516,7 @@ _Last updated: 2026-07-29 02:04 UTC_
 | 84 | **Ariel Atkins** 🔴 | 682 |
 | 85 | Emma Meesseman | 681 |
 | 86 | Nykesha Sales | 677 |
-| 87 | **Natisha Hiedeman** 🔴 +2 | 670 |
+| 87 | **Natisha Hiedeman** 🔴 +3 | 671 |
 | 88 | **A'ja Wilson** 🔴 | 667 |
 | 89 | Bria Hartley | 661 |
 | 90 | Brittney Griner | 660 |
@@ -569,8 +569,8 @@ _Last updated: 2026-07-29 02:04 UTC_
 | 137 | Ukari Figgs | 470 |
 | 138 | Janeth Arcain | 469 |
 | 139 | Erin Phillips | 462 |
-| 140 | Sylvia Fowles | 461 |
-| 140 | **Tyasha Harris** 🔴 +1 | 461 |
+| 139 | **Tyasha Harris** 🔴 +2 | 462 |
+| 141 | Sylvia Fowles | 461 |
 | 142 | Sug Sutton | 456 |
 | 143 | Sydney Colson | 454 |
 | 144 | Julie Allemand | 451 |
@@ -1499,8 +1499,8 @@ _Last updated: 2026-07-29 02:04 UTC_
 | 36 | Tamika Whitmore | 940 |
 | 38 | DeWanna Bonner | 922 |
 | 39 | Briann January | 921 |
-| 40 | **Jonquel Jones** 🔴 | 913 |
-| 40 | Ticha Penicheiro | 913 |
+| 40 | **Jonquel Jones** 🔴 +2 | 915 |
+| 41 | Ticha Penicheiro | 913 |
 | 42 | Shavonte Zellous | 907 |
 | 43 | Alysha Clark | 905 |
 | 44 | DeMya Walker | 882 |
