@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-29 00:48 UTC_
+_Last updated: 2026-07-29 00:49 UTC_
 
 ## Contents
 
@@ -67,8 +67,8 @@ _Last updated: 2026-07-29 00:48 UTC_
 | 46 | Crystal Langhorne | 4,433 |
 | 46 | Jia Perkins | 4,433 |
 | 48 | Courtney Vandersloot | 4,362 |
-| 49 | **Courtney Williams** 🔴 +3 | 4,353 |
-| 49 | Jonquel Jones | 4,353 |
+| 49 | **Courtney Williams** 🔴 +5 | 4,355 |
+| 50 | Jonquel Jones | 4,353 |
 | 51 | Dearica Hamby | 4,330 |
 | 52 | Sophia Young-Malcolm | 4,300 |
 | 53 | Plenette Pierson | 4,258 |
@@ -719,8 +719,8 @@ _Last updated: 2026-07-29 00:48 UTC_
 | 82 | Chamique Holdsclaw | 143 |
 | 83 | Shavonte Zellous | 139 |
 | 84 | Brittney Sykes | 136 |
+| 84 | **Olivia Nelson-Ododa** 🔴 +3 | 136 |
 | 84 | Penny Taylor | 136 |
-| 86 | **Olivia Nelson-Ododa** 🔴 +2 | 135 |
 | 87 | Monique Billings | 134 |
 | 88 | Devereaux Peters | 133 |
 | 88 | Nicky Anosike | 133 |
