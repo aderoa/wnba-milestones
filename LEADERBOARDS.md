@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-29 03:51 UTC_
+_Last updated: 2026-07-29 03:52 UTC_
 
 ## Contents
 
@@ -31,9 +31,9 @@ _Last updated: 2026-07-29 03:51 UTC_
 | 10 | Candace Parker | 6,574 |
 | 11 | Katie Smith | 6,450 |
 | 12 | Sylvia Fowles | 6,413 |
-| 13 | **Breanna Stewart** 🔴 +25 | 6,360 |
+| 13 | **Breanna Stewart** 🔴 +28 | 6,363 |
 | 14 | Lisa Leslie | 6,251 |
-| 15 | **A'ja Wilson** 🔴 +26 | 6,204 |
+| 15 | **A'ja Wilson** 🔴 +28 | 6,206 |
 | 16 | **Jewell Loyd** 🔴 +11 | 6,159 |
 | 17 | Brittney Griner | 6,087 |
 | 18 | Lauren Jackson | 6,005 |
@@ -213,7 +213,7 @@ _Last updated: 2026-07-29 03:51 UTC_
 | 192 | Armintie Herrington | 1,696 |
 | 193 | Nikki Teasley | 1,690 |
 | 194 | Shenise Johnson | 1,688 |
-| 195 | **Monique Billings** 🔴 +12 | 1,624 |
+| 195 | **Monique Billings** 🔴 +14 | 1,626 |
 | 196 | Janell Burse | 1,580 |
 | 197 | Le'coe Willingham | 1,552 |
 | 198 | Shatori Walker-Kimbrough | 1,544 |
@@ -237,7 +237,7 @@ _Last updated: 2026-07-29 03:51 UTC_
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | Alyssa Thomas | 2,858 |
 | 13 | **Jonquel Jones** 🔴 +5 | 2,733 |
-| 14 | **A'ja Wilson** 🔴 +12 | 2,669 |
+| 14 | **A'ja Wilson** 🔴 +13 | 2,670 |
 | 15 | **Breanna Stewart** 🔴 +4 | 2,636 |
 | 16 | Sancho Lyttle | 2,596 |
 | 17 | Brittney Griner | 2,579 |
@@ -464,7 +464,7 @@ _Last updated: 2026-07-29 03:51 UTC_
 | 33 | **Jackie Young** 🔴 +2 | 1,152 |
 | 34 | Renee Montgomery | 1,140 |
 | 35 | Swin Cash | 1,131 |
-| 36 | **Sabrina Ionescu** 🔴 +5 | 1,097 |
+| 36 | **Sabrina Ionescu** 🔴 +6 | 1,098 |
 | 37 | Lindsey Harding | 1,090 |
 | 38 | Katie Douglas | 1,069 |
 | 39 | Alana Beard | 1,061 |
@@ -1072,7 +1072,7 @@ _Last updated: 2026-07-29 03:51 UTC_
 | 23 | Marina Mabrey | 503 |
 | 24 | **Sabrina Ionescu** 🔴 +5 | 473 |
 | 25 | Shekinna Stricklen | 468 |
-| 26 | **Breanna Stewart** 🔴 +1 | 466 |
+| 26 | **Breanna Stewart** 🔴 +2 | 467 |
 | 27 | Cappie Pondexter | 464 |
 | 28 | Allisha Gray | 458 |
 | 29 | **Ariel Atkins** 🔴 +1 | 456 |
