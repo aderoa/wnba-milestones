@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-29 04:00 UTC_
+_Last updated: 2026-07-29 04:01 UTC_
 
 ## Contents
 
@@ -460,7 +460,7 @@ _Last updated: 2026-07-29 04:00 UTC_
 | 29 | Vickie Johnson | 1,202 |
 | 30 | Leilani Mitchell | 1,197 |
 | 31 | DeWanna Bonner | 1,196 |
-| 32 | **Jewell Loyd** 🔴 +1 | 1,157 |
+| 32 | **Jewell Loyd** 🔴 +2 | 1,158 |
 | 33 | **Jackie Young** 🔴 +2 | 1,152 |
 | 34 | Renee Montgomery | 1,140 |
 | 35 | Swin Cash | 1,131 |
