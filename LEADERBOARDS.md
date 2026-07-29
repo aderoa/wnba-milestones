@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-29 03:27 UTC_
+_Last updated: 2026-07-29 03:28 UTC_
 
 ## Contents
 
@@ -291,7 +291,7 @@ _Last updated: 2026-07-29 03:27 UTC_
 | 65 | Sue Bird | 1,466 |
 | 66 | Cheyenne Parker-Tyus | 1,463 |
 | 67 | Nicole Powell | 1,457 |
-| 68 | **Monique Billings** 🔴 +8 | 1,439 |
+| 68 | **Monique Billings** 🔴 +9 | 1,440 |
 | 69 | Tamera Young | 1,433 |
 | 70 | Alana Beard | 1,420 |
 | 71 | Nakia Sanford | 1,419 |
@@ -479,7 +479,7 @@ _Last updated: 2026-07-29 03:27 UTC_
 | 48 | Tiffany Hayes | 957 |
 | 49 | Kara Lawson | 946 |
 | 50 | Arike Ogunbowale | 944 |
-| 51 | **Nneka Ogwumike** 🔴 +6 | 939 |
+| 51 | **Nneka Ogwumike** 🔴 +7 | 940 |
 | 52 | Deanna Nolan | 930 |
 | 53 | Kelly Miller | 927 |
 | 54 | DeLisha Milton-Jones | 921 |
@@ -1333,8 +1333,8 @@ _Last updated: 2026-07-29 03:27 UTC_
 | 77 | Kelly Miller | 596 |
 | 78 | **Stefanie Dolson** 🔴 +1 | 595 |
 | 79 | Brittney Sykes | 591 |
-| 80 | **Breanna Stewart** 🔴 | 586 |
-| 80 | **Kelsey Mitchell** 🔴 +1 | 586 |
+| 80 | **Kelsey Mitchell** 🔴 +2 | 587 |
+| 81 | **Breanna Stewart** 🔴 | 586 |
 | 82 | Helen Darling | 575 |
 | 82 | Nykesha Sales | 575 |
 | 84 | Andrea Stinson | 571 |
@@ -1472,7 +1472,7 @@ _Last updated: 2026-07-29 03:27 UTC_
 | 11 | Chasity Melvin | 1,165 |
 | 12 | Natasha Howard | 1,161 |
 | 13 | Camille Smith | 1,159 |
-| 14 | **Nneka Ogwumike** 🔴 +1 | 1,157 |
+| 14 | **Nneka Ogwumike** 🔴 +2 | 1,158 |
 | 15 | Alana Beard | 1,153 |
 | 16 | Swin Cash | 1,146 |
 | 17 | Taj McWilliams-Franklin | 1,145 |
@@ -1568,8 +1568,8 @@ _Last updated: 2026-07-29 03:27 UTC_
 | 107 | **Chelsea Gray** 🔴 | 640 |
 | 108 | Charlotte Smith | 638 |
 | 109 | Teaira McCowan | 637 |
-| 110 | Janell Burse | 632 |
-| 110 | **Kelsey Mitchell** 🔴 +3 | 632 |
+| 110 | **Kelsey Mitchell** 🔴 +4 | 633 |
+| 111 | Janell Burse | 632 |
 | 112 | Nicole Ohlde | 631 |
 | 113 | Jennifer Gillom | 629 |
 | 114 | Deanna Nolan | 628 |
