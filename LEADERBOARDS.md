@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-29 03:52 UTC_
+_Last updated: 2026-07-29 03:53 UTC_
 
 ## Contents
 
@@ -83,7 +83,7 @@ _Last updated: 2026-07-29 03:52 UTC_
 | 62 | Allie Quigley | 3,786 |
 | 63 | Chasity Melvin | 3,781 |
 | 64 | Brittney Sykes | 3,726 |
-| 65 | **Jackie Young** 🔴 +22 | 3,720 |
+| 65 | **Jackie Young** 🔴 +24 | 3,722 |
 | 66 | Kara Lawson | 3,670 |
 | 67 | Mwadi Mabika | 3,576 |
 | 68 | Odyssey Sims | 3,574 |
@@ -237,7 +237,7 @@ _Last updated: 2026-07-29 03:52 UTC_
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | Alyssa Thomas | 2,858 |
 | 13 | **Jonquel Jones** 🔴 +5 | 2,733 |
-| 14 | **A'ja Wilson** 🔴 +13 | 2,670 |
+| 14 | **A'ja Wilson** 🔴 +14 | 2,671 |
 | 15 | **Breanna Stewart** 🔴 +4 | 2,636 |
 | 16 | Sancho Lyttle | 2,596 |
 | 17 | Brittney Griner | 2,579 |
@@ -1274,7 +1274,7 @@ _Last updated: 2026-07-29 03:52 UTC_
 | 18 | Cappie Pondexter | 945 |
 | 19 | Katie Smith | 935 |
 | 20 | Shannon Johnson | 934 |
-| 21 | **Chelsea Gray** 🔴 +2 | 929 |
+| 21 | **Chelsea Gray** 🔴 +3 | 930 |
 | 22 | Skylar Diggins | 907 |
 | 23 | Taj McWilliams-Franklin | 898 |
 | 24 | Candice Dupree | 869 |
