@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-29 04:24 UTC_
+_Last updated: 2026-07-29 04:25 UTC_
 
 ## Contents
 
@@ -520,7 +520,7 @@ _Last updated: 2026-07-29 04:24 UTC_
 | 89 | Bria Hartley | 661 |
 | 90 | Brittney Griner | 660 |
 | 91 | Lindsay Allen | 657 |
-| 92 | Jonquel Jones | 652 |
+| 92 | Jonquel Jones | 653 |
 | 93 | Betty Lennox | 651 |
 | 93 | Plenette Pierson | 651 |
 | 95 | Alex Bentley | 645 |
