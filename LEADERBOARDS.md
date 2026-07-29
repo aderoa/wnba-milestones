@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-29 02:27 UTC_
+_Last updated: 2026-07-29 02:28 UTC_
 
 ## Contents
 
@@ -1027,7 +1027,7 @@ _Last updated: 2026-07-29 02:27 UTC_
 | 182 | **Sabrina Ionescu** 🔴 +1 | 185 |
 | 182 | Tiffany Jackson | 185 |
 | 185 | Erin Perperoglou | 184 |
-| 186 | **Rebecca Allen** 🔴 | 183 |
+| 185 | **Rebecca Allen** 🔴 +1 | 184 |
 | 187 | Erin Phillips | 182 |
 | 187 | **Monique Billings** 🔴 | 182 |
 | 189 | Nakia Sanford | 181 |
