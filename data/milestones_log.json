@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-07-29T03:20:00+00:00",
+    "text": "Rebecca Allen passed Erin Perperoglou and Sabrina Ionescu for #184 all-time in steals (career 185) \u2014 up from #186 entering today \u2014 (5:41 - 3rd \u2014 NY @ LA)",
+    "kind": "rank_pass",
+    "player": "Rebecca Allen",
+    "stat": "steals",
+    "rank": 184,
+    "passed_players": [
+      "Erin Perperoglou",
+      "Sabrina Ionescu"
+    ],
+    "new_total": 185
+  },
+  {
     "ts": "2026-07-29T03:19:00+00:00",
     "text": "Brianna Turner reached 900 career points (now 901) \u2014 (6:26 - 3rd \u2014 POR @ LV)",
     "kind": "round",
@@ -2991,18 +3004,5 @@
       "Jasmine Thomas"
     ],
     "new_total": 686
-  },
-  {
-    "ts": "2026-06-29T00:57:00+00:00",
-    "text": "Kayla Thornton passed Jewell Loyd and Leilani Mitchell for #95 all-time in fouls (career 685) \u2014 up from #98 entering today \u2014 (5:45 - 4th \u2014 NY @ GS)",
-    "kind": "rank_pass",
-    "player": "Kayla Thornton",
-    "stat": "fouls",
-    "rank": 95,
-    "passed_players": [
-      "Jewell Loyd",
-      "Leilani Mitchell"
-    ],
-    "new_total": 685
   }
 ]

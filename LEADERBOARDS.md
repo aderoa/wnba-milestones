@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-29 03:19 UTC_
+_Last updated: 2026-07-29 03:20 UTC_
 
 ## Contents
 
@@ -22,7 +22,7 @@ _Last updated: 2026-07-29 03:19 UTC_
 | 1 | Diana Taurasi | 10,608 |
 | 2 | Tina Charles | 8,396 |
 | 3 | DeWanna Bonner | 7,972 |
-| 4 | **Nneka Ogwumike** 🔴 +8 | 7,571 |
+| 4 | **Nneka Ogwumike** 🔴 +11 | 7,574 |
 | 5 | Tina Thompson | 7,470 |
 | 6 | Tamika Catchings | 7,371 |
 | 7 | Candice Dupree | 6,861 |
@@ -83,7 +83,7 @@ _Last updated: 2026-07-29 03:19 UTC_
 | 62 | Allie Quigley | 3,786 |
 | 63 | Chasity Melvin | 3,781 |
 | 64 | Brittney Sykes | 3,726 |
-| 65 | **Jackie Young** 🔴 +15 | 3,713 |
+| 65 | **Jackie Young** 🔴 +17 | 3,715 |
 | 66 | Kara Lawson | 3,670 |
 | 67 | Mwadi Mabika | 3,576 |
 | 68 | Odyssey Sims | 3,574 |
@@ -395,7 +395,7 @@ _Last updated: 2026-07-29 03:19 UTC_
 | 168 | Barbara Farris | 819 |
 | 170 | Carolyn Swords | 814 |
 | 171 | Betnijah Laney-Hamilton | 812 |
-| 172 | **Ariel Atkins** 🔴 +2 | 800 |
+| 172 | **Ariel Atkins** 🔴 +3 | 801 |
 | 173 | Tierra Ruffin-Pratt | 799 |
 | 174 | Charlotte Smith | 794 |
 | 175 | Rhonda Mapp | 788 |
@@ -448,8 +448,8 @@ _Last updated: 2026-07-29 03:19 UTC_
 | 16 | Tanisha Wright | 1,423 |
 | 18 | Temeka Johnson | 1,382 |
 | 19 | Jasmine Thomas | 1,355 |
-| 20 | Briann January | 1,339 |
-| 20 | **Erica Wheeler** 🔴 +4 | 1,339 |
+| 20 | **Erica Wheeler** 🔴 +5 | 1,340 |
+| 21 | Briann January | 1,339 |
 | 22 | Dawn Staley | 1,337 |
 | 23 | Teresa Weatherspoon | 1,333 |
 | 24 | Kristi Toliver | 1,301 |
@@ -516,7 +516,7 @@ _Last updated: 2026-07-29 03:19 UTC_
 | 85 | Emma Meesseman | 681 |
 | 86 | Nykesha Sales | 677 |
 | 87 | **Natisha Hiedeman** 🔴 +4 | 672 |
-| 88 | **A'ja Wilson** 🔴 +3 | 670 |
+| 88 | **A'ja Wilson** 🔴 +4 | 671 |
 | 89 | Bria Hartley | 661 |
 | 90 | Brittney Griner | 660 |
 | 91 | Lindsay Allen | 657 |
@@ -1024,10 +1024,10 @@ _Last updated: 2026-07-29 03:19 UTC_
 | 180 | Tamicha Jackson | 188 |
 | 181 | Michele Timms | 187 |
 | 182 | Charde Houston | 185 |
+| 182 | **Rebecca Allen** 🔴 +2 | 185 |
 | 182 | Tiffany Jackson | 185 |
-| 184 | Erin Perperoglou | 184 |
-| 184 | **Rebecca Allen** 🔴 +1 | 184 |
-| 184 | **Sabrina Ionescu** 🔴 | 184 |
+| 185 | Erin Perperoglou | 184 |
+| 185 | **Sabrina Ionescu** 🔴 | 184 |
 | 187 | Erin Phillips | 182 |
 | 187 | **Monique Billings** 🔴 | 182 |
 | 189 | Nakia Sanford | 181 |
@@ -1134,8 +1134,8 @@ _Last updated: 2026-07-29 03:19 UTC_
 | 85 | Sophia Witherspoon | 260 |
 | 86 | **Rebecca Allen** 🔴 | 255 |
 | 87 | Dawn Staley | 254 |
-| 88 | Bria Hartley | 253 |
-| 88 | **Nneka Ogwumike** 🔴 | 253 |
+| 87 | **Nneka Ogwumike** 🔴 +1 | 254 |
+| 89 | Bria Hartley | 253 |
 | 90 | Angel McCoughtry | 249 |
 | 91 | Azurá Stevens | 247 |
 | 91 | Brittney Sykes | 247 |
@@ -1303,9 +1303,9 @@ _Last updated: 2026-07-29 03:19 UTC_
 | 47 | Renee Montgomery | 697 |
 | 48 | Temeka Johnson | 696 |
 | 49 | Penny Taylor | 695 |
+| 50 | **Dearica Hamby** 🔴 +1 | 685 |
 | 50 | Dominique Canty | 685 |
-| 51 | DeMya Walker | 684 |
-| 51 | **Dearica Hamby** 🔴 | 684 |
+| 52 | DeMya Walker | 684 |
 | 53 | Asjha Jones | 682 |
 | 54 | Danielle Robinson | 680 |
 | 55 | Sheryl Swoopes | 677 |
@@ -1318,7 +1318,7 @@ _Last updated: 2026-07-29 03:19 UTC_
 | 62 | Sheri Sam | 650 |
 | 63 | Kayla McBride | 648 |
 | 63 | Kelsey Plum | 648 |
-| 65 | **Jonquel Jones** 🔴 +3 | 644 |
+| 65 | **Jonquel Jones** 🔴 +4 | 645 |
 | 66 | Dawn Staley | 643 |
 | 67 | Ruth Riley | 637 |
 | 68 | Odyssey Sims | 631 |
