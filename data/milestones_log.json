@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-07-29T00:10:00+00:00",
+    "text": "Napheesa Collier passed Allison Feaster and Erin Perperoglou for #170 all-time in fouls (career 505) \u2014 up from #172 entering today \u2014 (6:10 - 1st \u2014 TOR @ MIN)",
+    "kind": "rank_pass",
+    "player": "Napheesa Collier",
+    "stat": "fouls",
+    "rank": 170,
+    "passed_players": [
+      "Allison Feaster",
+      "Erin Perperoglou"
+    ],
+    "new_total": 505
+  },
+  {
     "ts": "2026-07-26T02:27:00+00:00",
     "text": "Olivia Miles reached 100 career rebounds (now 100) \u2014 (Final \u2014 SPO @ COOP)",
     "kind": "round",
@@ -2990,14 +3003,5 @@
       "Shekinna Stricklen"
     ],
     "new_total": 469
-  },
-  {
-    "ts": "2026-06-29T00:21:00+00:00",
-    "text": "Kayla Thornton reached 300 career turnovers (now 300) \u2014 (6:39 - 3rd \u2014 NY @ GS)",
-    "kind": "round",
-    "player": "Kayla Thornton",
-    "stat": "turnovers",
-    "value": 300,
-    "new_total": 300
   }
 ]

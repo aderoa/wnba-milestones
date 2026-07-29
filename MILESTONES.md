@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-29 00:10 UTC
+
+- **Napheesa Collier** passed **Allison Feaster** and **Erin Perperoglou** for **#170** all-time in fouls (career 505) — up from #172 entering today — _6:10 - 1st — TOR @ MIN_
+
 ## 2026-07-26 02:27 UTC
 
 - **Olivia Miles** reached **100** career rebounds (now 100) — _Final — SPO @ COOP_
