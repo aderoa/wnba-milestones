@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-29 03:58 UTC_
+_Last updated: 2026-07-29 03:59 UTC_
 
 ## Contents
 
@@ -301,7 +301,7 @@ _Last updated: 2026-07-29 03:58 UTC_
 | 75 | Courtney Vandersloot | 1,386 |
 | 76 | Katie Smith | 1,383 |
 | 77 | Ebony Hoffman | 1,376 |
-| 78 | **Jewell Loyd** 🔴 +3 | 1,374 |
+| 78 | **Jewell Loyd** 🔴 +4 | 1,375 |
 | 79 | Sheri Sam | 1,356 |
 | 80 | Tamika Whitmore | 1,355 |
 | 81 | Emma Meesseman | 1,350 |
@@ -675,7 +675,7 @@ _Last updated: 2026-07-29 03:58 UTC_
 | 39 | Napheesa Collier | 240 |
 | 40 | Emma Meesseman | 238 |
 | 41 | Azurá Stevens | 236 |
-| 42 | **Brianna Turner** 🔴 +1 | 235 |
+| 41 | **Brianna Turner** 🔴 +2 | 236 |
 | 43 | Skylar Diggins | 231 |
 | 44 | Chasity Melvin | 228 |
 | 45 | Alanna Smith | 225 |
@@ -879,8 +879,8 @@ _Last updated: 2026-07-29 03:58 UTC_
 | 35 | Tina Thompson | 452 |
 | 36 | Kayla McBride | 449 |
 | 36 | Maya Moore | 449 |
-| 38 | **Breanna Stewart** 🔴 +3 | 438 |
-| 38 | Sheri Sam | 438 |
+| 38 | **Breanna Stewart** 🔴 +4 | 439 |
+| 39 | Sheri Sam | 438 |
 | 40 | Camille Smith | 437 |
 | 41 | Candice Dupree | 431 |
 | 42 | Epiphanny Prince | 429 |
@@ -1299,7 +1299,7 @@ _Last updated: 2026-07-29 03:58 UTC_
 | 43 | Michelle Snow | 723 |
 | 44 | Tamecka Dixon | 716 |
 | 45 | Natasha Cloud | 707 |
-| 46 | **Erica Wheeler** 🔴 | 699 |
+| 46 | **Erica Wheeler** 🔴 +1 | 700 |
 | 47 | Renee Montgomery | 697 |
 | 48 | Temeka Johnson | 696 |
 | 49 | Penny Taylor | 695 |
@@ -1498,7 +1498,7 @@ _Last updated: 2026-07-29 03:58 UTC_
 | 36 | Tamika Whitmore | 940 |
 | 38 | DeWanna Bonner | 922 |
 | 39 | Briann January | 921 |
-| 40 | **Jonquel Jones** 🔴 +2 | 915 |
+| 40 | **Jonquel Jones** 🔴 +3 | 916 |
 | 41 | Ticha Penicheiro | 913 |
 | 42 | Shavonte Zellous | 907 |
 | 43 | Alysha Clark | 905 |
@@ -1509,7 +1509,7 @@ _Last updated: 2026-07-29 03:58 UTC_
 | 48 | Erika de Souza | 858 |
 | 49 | Angel McCoughtry | 857 |
 | 50 | Betty Lennox | 851 |
-| 51 | **Dearica Hamby** 🔴 | 850 |
+| 50 | **Dearica Hamby** 🔴 +1 | 851 |
 | 52 | Tamecka Dixon | 849 |
 | 53 | Natalie Williams | 847 |
 | 53 | Tamera Young | 847 |
@@ -1533,9 +1533,9 @@ _Last updated: 2026-07-29 03:58 UTC_
 | 72 | Kara Braxton | 748 |
 | 73 | Crystal Langhorne | 737 |
 | 74 | Shameka Christon | 734 |
+| 75 | **Ariel Atkins** 🔴 +3 | 733 |
 | 75 | Becky Hammon | 733 |
-| 76 | **Ariel Atkins** 🔴 +2 | 732 |
-| 76 | Elizabeth Williams | 732 |
+| 77 | Elizabeth Williams | 732 |
 | 78 | Latasha Byears | 730 |
 | 79 | Kristi Toliver | 722 |
 | 80 | Cheryl Ford | 713 |

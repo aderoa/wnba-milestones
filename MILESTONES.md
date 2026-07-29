@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-29 03:59 UTC
+
+- **Breanna Stewart** passed **Sheri Sam** for **#38** all-time in steals (career 439) — up from #40 entering today — _1:15 - 4th — NY @ LA_
+
 ## 2026-07-29 03:44 UTC
 
 - **Breanna Stewart** passed **Camille Smith** for **#39** all-time in steals (career 438) — up from #40 entering today — _6:13 - 4th — NY @ LA_
