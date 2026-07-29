@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-29 01:53 UTC_
+_Last updated: 2026-07-29 01:54 UTC_
 
 ## Contents
 
@@ -104,8 +104,8 @@ _Last updated: 2026-07-29 01:53 UTC_
 | 83 | Sheri Sam | 3,353 |
 | 84 | Andrea Stinson | 3,351 |
 | 85 | Tanisha Wright | 3,324 |
-| 86 | **Marina Mabrey** 🔴 +23 | 3,272 |
-| 87 | **Stefanie Dolson** 🔴 | 3,217 |
+| 86 | **Marina Mabrey** 🔴 +24 | 3,273 |
+| 87 | **Stefanie Dolson** 🔴 +2 | 3,219 |
 | 88 | Margo Dydek | 3,214 |
 | 89 | Erica Wheeler | 3,195 |
 | 90 | Danielle Robinson | 3,160 |
@@ -200,7 +200,7 @@ _Last updated: 2026-07-29 01:53 UTC_
 | 179 | NaLyssa Smith | 1,879 |
 | 180 | Rachel Banham | 1,843 |
 | 181 | Damiris Dantas | 1,842 |
-| 182 | **Sophie Cunningham** 🔴 +5 | 1,834 |
+| 182 | **Sophie Cunningham** 🔴 +11 | 1,840 |
 | 183 | Tianna Hawkins | 1,825 |
 | 184 | Noelle Quinn | 1,824 |
 | 185 | Danielle Adams | 1,820 |
@@ -473,7 +473,7 @@ _Last updated: 2026-07-29 01:53 UTC_
 | 41 | Dominique Canty | 1,042 |
 | 42 | Sheryl Swoopes | 1,037 |
 | 43 | Tina Charles | 1,033 |
-| 44 | **Kayla McBride** 🔴 +3 | 995 |
+| 44 | **Kayla McBride** 🔴 +4 | 996 |
 | 45 | Nikki Teasley | 982 |
 | 46 | Breanna Stewart | 981 |
 | 47 | Tamecka Dixon | 960 |
@@ -532,7 +532,7 @@ _Last updated: 2026-07-29 01:53 UTC_
 | 99 | **Natasha Howard** 🔴 +4 | 619 |
 | 101 | Debbie Black | 612 |
 | 102 | Cynthia Cooper | 602 |
-| 103 | **Caitlin Clark** 🔴 +3 | 594 |
+| 103 | **Caitlin Clark** 🔴 +4 | 595 |
 | 104 | Sancho Lyttle | 592 |
 | 105 | Gabby Williams | 591 |
 | 106 | Betnijah Laney-Hamilton | 590 |
@@ -570,7 +570,7 @@ _Last updated: 2026-07-29 01:53 UTC_
 | 138 | Janeth Arcain | 469 |
 | 139 | Erin Phillips | 462 |
 | 140 | Sylvia Fowles | 461 |
-| 141 | **Tyasha Harris** 🔴 | 460 |
+| 140 | **Tyasha Harris** 🔴 +1 | 461 |
 | 142 | Sug Sutton | 456 |
 | 143 | Sydney Colson | 454 |
 | 144 | **Julie Allemand** 🔴 +7 | 451 |
@@ -1108,7 +1108,7 @@ _Last updated: 2026-07-29 01:53 UTC_
 | 58 | Candace Parker | 342 |
 | 59 | Deanna Nolan | 340 |
 | 60 | Erica Wheeler | 337 |
-| 61 | **Sophie Cunningham** 🔴 +1 | 335 |
+| 60 | **Sophie Cunningham** 🔴 +3 | 337 |
 | 62 | Anna DeForge | 334 |
 | 63 | **Natisha Hiedeman** 🔴 +1 | 329 |
 | 64 | Sugar Rodgers | 317 |
@@ -1414,7 +1414,7 @@ _Last updated: 2026-07-29 01:53 UTC_
 | 158 | Anna DeForge | 374 |
 | 158 | Cheryl Ford | 374 |
 | 160 | Allison Feaster | 372 |
-| 161 | **Caitlin Clark** 🔴 | 368 |
+| 161 | **Caitlin Clark** 🔴 +1 | 369 |
 | 162 | Emma Meesseman | 367 |
 | 163 | Latasha Byears | 360 |
 | 164 | Vicky Bullett | 359 |
