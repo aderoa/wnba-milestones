@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-07-29T01:59:00+00:00",
+    "text": "Napheesa Collier passed Vicky Bullett for #165 all-time in fouls (career 508) \u2014 up from #172 entering today \u2014 (19.8 - 4th \u2014 TOR @ MIN)",
+    "kind": "rank_pass",
+    "player": "Napheesa Collier",
+    "stat": "fouls",
+    "rank": 165,
+    "passed_players": [
+      "Vicky Bullett"
+    ],
+    "new_total": 508
+  },
+  {
     "ts": "2026-07-29T01:35:00+00:00",
     "text": "Napheesa Collier passed Merlakia Jones for #166 all-time in fouls (career 507) \u2014 up from #172 entering today \u2014 (8:04 - 4th \u2014 TOR @ MIN)",
     "kind": "rank_pass",
@@ -2995,17 +3007,5 @@
       "Charde Houston"
     ],
     "new_total": 125
-  },
-  {
-    "ts": "2026-06-29T00:47:00+00:00",
-    "text": "Tiffany Hayes passed Ariel Atkins for #29 all-time in three-pointers (career 456) \u2014 up from #30 entering today \u2014 (8:38 - 4th \u2014 NY @ GS)",
-    "kind": "rank_pass",
-    "player": "Tiffany Hayes",
-    "stat": "three-pointers",
-    "rank": 29,
-    "passed_players": [
-      "Ariel Atkins"
-    ],
-    "new_total": 456
   }
 ]
