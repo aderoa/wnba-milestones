@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-29 02:34 UTC_
+_Last updated: 2026-07-29 02:35 UTC_
 
 ## Contents
 
@@ -479,7 +479,7 @@ _Last updated: 2026-07-29 02:34 UTC_
 | 48 | Tiffany Hayes | 957 |
 | 49 | Kara Lawson | 946 |
 | 50 | Arike Ogunbowale | 944 |
-| 51 | **Nneka Ogwumike** 🔴 +3 | 936 |
+| 51 | **Nneka Ogwumike** 🔴 +4 | 937 |
 | 52 | Deanna Nolan | 930 |
 | 53 | Kelly Miller | 927 |
 | 54 | DeLisha Milton-Jones | 921 |
@@ -903,8 +903,8 @@ _Last updated: 2026-07-29 02:34 UTC_
 | 59 | Chamique Holdsclaw | 376 |
 | 60 | Brittney Sykes | 371 |
 | 61 | Mwadi Mabika | 370 |
-| 62 | **A'ja Wilson** 🔴 | 361 |
-| 62 | **Erica Wheeler** 🔴 | 361 |
+| 62 | **Erica Wheeler** 🔴 +1 | 362 |
+| 63 | **A'ja Wilson** 🔴 | 361 |
 | 64 | Lauren Jackson | 360 |
 | 64 | Tan White | 360 |
 | 66 | Vickie Johnson | 357 |
