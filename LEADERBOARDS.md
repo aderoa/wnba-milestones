@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-29 03:39 UTC_
+_Last updated: 2026-07-29 03:40 UTC_
 
 ## Contents
 
@@ -33,7 +33,7 @@ _Last updated: 2026-07-29 03:39 UTC_
 | 12 | Sylvia Fowles | 6,413 |
 | 13 | **Breanna Stewart** 🔴 +21 | 6,356 |
 | 14 | Lisa Leslie | 6,251 |
-| 15 | **A'ja Wilson** 🔴 +20 | 6,198 |
+| 15 | **A'ja Wilson** 🔴 +22 | 6,200 |
 | 16 | **Jewell Loyd** 🔴 +11 | 6,159 |
 | 17 | Brittney Griner | 6,087 |
 | 18 | Lauren Jackson | 6,005 |
@@ -69,7 +69,7 @@ _Last updated: 2026-07-29 03:39 UTC_
 | 48 | Courtney Vandersloot | 4,362 |
 | 48 | **Jonquel Jones** 🔴 +9 | 4,362 |
 | 50 | Courtney Williams | 4,355 |
-| 51 | **Dearica Hamby** 🔴 +10 | 4,340 |
+| 51 | **Dearica Hamby** 🔴 +12 | 4,342 |
 | 52 | Sophia Young-Malcolm | 4,300 |
 | 53 | Plenette Pierson | 4,258 |
 | 54 | Monique Currie | 4,253 |
@@ -473,7 +473,7 @@ _Last updated: 2026-07-29 03:39 UTC_
 | 42 | Sheryl Swoopes | 1,037 |
 | 43 | Tina Charles | 1,033 |
 | 44 | Kayla McBride | 996 |
-| 45 | **Breanna Stewart** 🔴 +5 | 986 |
+| 45 | **Breanna Stewart** 🔴 +6 | 987 |
 | 46 | Nikki Teasley | 982 |
 | 47 | Tamecka Dixon | 960 |
 | 48 | Tiffany Hayes | 957 |
@@ -505,7 +505,7 @@ _Last updated: 2026-07-29 03:39 UTC_
 | 74 | Allisha Gray | 767 |
 | 75 | Sheri Sam | 745 |
 | 76 | Monique Currie | 740 |
-| 77 | **Dearica Hamby** 🔴 +3 | 729 |
+| 77 | **Dearica Hamby** 🔴 +4 | 730 |
 | 78 | Elaine Powell | 728 |
 | 79 | **Stefanie Dolson** 🔴 +1 | 708 |
 | 80 | Chamique Holdsclaw | 698 |
@@ -1438,8 +1438,8 @@ _Last updated: 2026-07-29 03:39 UTC_
 | 182 | Olympia Scott | 324 |
 | 183 | Kia Nurse | 320 |
 | 184 | Barbara Farris | 315 |
-| 185 | **Monique Billings** 🔴 | 314 |
-| 185 | Moriah Jefferson | 314 |
+| 184 | **Monique Billings** 🔴 +1 | 315 |
+| 186 | Moriah Jefferson | 314 |
 | 187 | Alex Bentley | 313 |
 | 188 | **Natisha Hiedeman** 🔴 | 312 |
 | 189 | Tamika Raymond | 311 |
@@ -1472,7 +1472,7 @@ _Last updated: 2026-07-29 03:39 UTC_
 | 11 | Chasity Melvin | 1,165 |
 | 12 | Natasha Howard | 1,161 |
 | 13 | Camille Smith | 1,159 |
-| 14 | **Nneka Ogwumike** 🔴 +2 | 1,158 |
+| 13 | **Nneka Ogwumike** 🔴 +3 | 1,159 |
 | 15 | Alana Beard | 1,153 |
 | 16 | Swin Cash | 1,146 |
 | 17 | Taj McWilliams-Franklin | 1,145 |
