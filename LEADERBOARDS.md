@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-30 01:13 UTC_
+_Last updated: 2026-07-30 01:14 UTC_
 
 ## Contents
 
@@ -133,7 +133,7 @@ _Last updated: 2026-07-30 01:13 UTC_
 | 111 | Lindsey Harding | 2,647 |
 | 113 | Cheyenne Parker-Tyus | 2,645 |
 | 114 | Tamera Young | 2,641 |
-| 115 | **Rhyne Howard** 🔴 | 2,637 |
+| 115 | **Rhyne Howard** 🔴 +1 | 2,638 |
 | 116 | Liz Cambage | 2,634 |
 | 117 | Janeth Arcain | 2,633 |
 | 118 | Temeka Johnson | 2,620 |
@@ -352,7 +352,7 @@ _Last updated: 2026-07-30 01:13 UTC_
 | 126 | Kamila Vodichkova | 1,031 |
 | 127 | Jasmine Thomas | 1,027 |
 | 128 | Sabrina Ionescu | 1,020 |
-| 129 | **Jessica Shepard** 🔴 +2 | 1,018 |
+| 129 | **Jessica Shepard** 🔴 +3 | 1,019 |
 | 130 | Cathrine Kraayeveld | 1,013 |
 | 131 | Kelly Miller | 1,011 |
 | 131 | Noelle Quinn | 1,011 |
@@ -455,7 +455,7 @@ _Last updated: 2026-07-30 01:13 UTC_
 | 23 | Teresa Weatherspoon | 1,333 |
 | 24 | Kristi Toliver | 1,301 |
 | 25 | Kelsey Plum | 1,270 |
-| 26 | **Jordin Canada** 🔴 +4 | 1,266 |
+| 26 | **Jordin Canada** 🔴 +3 | 1,265 |
 | 27 | Katie Smith | 1,258 |
 | 28 | **Odyssey Sims** 🔴 | 1,228 |
 | 29 | Vickie Johnson | 1,202 |
