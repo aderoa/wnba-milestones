@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-30 04:22 UTC
+
+- **Kayla Thornton** passed **Maya Moore** for **#91** all-time in fouls (career 687) — up from #98 entering today — _1:27 - 4th — GS @ PHX_
+
 ## 2026-07-30 03:54 UTC
 
 - **Laeticia Amihere** reached **300** career points (now 300) — _8:09 - 4th — GS @ PHX_

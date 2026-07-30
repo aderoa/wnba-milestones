@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-07-30T04:22:00+00:00",
+    "text": "Kayla Thornton passed Maya Moore for #91 all-time in fouls (career 687) \u2014 up from #98 entering today \u2014 (1:27 - 4th \u2014 GS @ PHX)",
+    "kind": "rank_pass",
+    "player": "Kayla Thornton",
+    "stat": "fouls",
+    "rank": 91,
+    "passed_players": [
+      "Maya Moore"
+    ],
+    "new_total": 687
+  },
+  {
     "ts": "2026-07-30T03:54:00+00:00",
     "text": "Laeticia Amihere reached 300 career points (now 300) \u2014 (8:09 - 4th \u2014 GS @ PHX)",
     "kind": "round",
@@ -2988,17 +3000,5 @@
       "Kara Braxton"
     ],
     "new_total": 158
-  },
-  {
-    "ts": "2026-07-03T00:23:00+00:00",
-    "text": "Odyssey Sims passed Svetlana Abrosimova for #69 all-time in turnovers (career 632) \u2014 (2:18 - 1st \u2014 DAL @ CON)",
-    "kind": "rank_pass",
-    "player": "Odyssey Sims",
-    "stat": "turnovers",
-    "rank": 69,
-    "passed_players": [
-      "Svetlana Abrosimova"
-    ],
-    "new_total": 632
   }
 ]

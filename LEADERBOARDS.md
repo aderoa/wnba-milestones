@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-30 04:21 UTC_
+_Last updated: 2026-07-30 04:22 UTC_
 
 ## Contents
 
@@ -1449,7 +1449,7 @@ _Last updated: 2026-07-30 04:21 UTC_
 | 194 | Tianna Hawkins | 303 |
 | 195 | Rachel Banham | 301 |
 | 196 | Crystal Robinson | 299 |
-| 197 | **Kayla Thornton** 🔴 | 298 |
+| 196 | **Kayla Thornton** 🔴 +1 | 299 |
 | 198 | Michele Timms | 297 |
 | 199 | Damiris Dantas | 289 |
 | 199 | Nia Coffey | 289 |
@@ -1547,9 +1547,9 @@ _Last updated: 2026-07-30 04:21 UTC_
 | 87 | Tan White | 698 |
 | 88 | Katie Douglas | 697 |
 | 89 | Danielle Robinson | 692 |
+| 90 | **Kayla Thornton** 🔴 +5 | 687 |
 | 90 | Sophia Young-Malcolm | 687 |
-| 91 | **Kayla Thornton** 🔴 +4 | 686 |
-| 91 | Maya Moore | 686 |
+| 92 | Maya Moore | 686 |
 | 93 | Breanna Stewart | 685 |
 | 93 | Cheyenne Parker-Tyus | 685 |
 | 93 | Jasmine Thomas | 685 |
