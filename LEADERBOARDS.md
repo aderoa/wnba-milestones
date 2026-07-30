@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-30 01:14 UTC_
+_Last updated: 2026-07-30 01:15 UTC_
 
 ## Contents
 
@@ -890,7 +890,7 @@ _Last updated: 2026-07-30 01:14 UTC_
 | 45 | Katie Smith | 408 |
 | 46 | Cappie Pondexter | 405 |
 | 47 | Nicole Powell | 401 |
-| 48 | **Jordin Canada** 🔴 | 397 |
+| 48 | **Jordin Canada** 🔴 +1 | 398 |
 | 49 | Jasmine Thomas | 394 |
 | 50 | Ariel Atkins | 390 |
 | 51 | Danielle Robinson | 389 |
@@ -1349,10 +1349,10 @@ _Last updated: 2026-07-30 01:14 UTC_
 | 94 | Ivory Latta | 534 |
 | 94 | Iziane Castro Marques | 534 |
 | 96 | Sabrina Ionescu | 533 |
+| 97 | **Jordin Canada** 🔴 +5 | 532 |
 | 97 | Mwadi Mabika | 532 |
-| 98 | **Arike Ogunbowale** 🔴 +2 | 531 |
-| 98 | **Jordin Canada** 🔴 +4 | 531 |
-| 98 | Nakia Sanford | 531 |
+| 99 | **Arike Ogunbowale** 🔴 +2 | 531 |
+| 99 | Nakia Sanford | 531 |
 | 101 | Maya Moore | 527 |
 | 102 | Kara Lawson | 526 |
 | 103 | Leilani Mitchell | 525 |

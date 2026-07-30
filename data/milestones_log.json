@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-07-30T01:15:00+00:00",
+    "text": "Jordin Canada passed Nakia Sanford for #98 all-time in turnovers (career 532) \u2014 up from #100 entering today \u2014 (6:16 - 3rd \u2014 ATL @ DAL)",
+    "kind": "rank_pass",
+    "player": "Jordin Canada",
+    "stat": "turnovers",
+    "rank": 98,
+    "passed_players": [
+      "Nakia Sanford"
+    ],
+    "new_total": 532
+  },
+  {
     "ts": "2026-07-29T03:59:00+00:00",
     "text": "Breanna Stewart passed Sheri Sam for #38 all-time in steals (career 439) \u2014 up from #40 entering today \u2014 (1:15 - 4th \u2014 NY @ LA)",
     "kind": "rank_pass",
@@ -2987,18 +2999,5 @@
       "Sue Bird"
     ],
     "new_total": 1467
-  },
-  {
-    "ts": "2026-06-30T23:41:00+00:00",
-    "text": "Cheyenne Parker-Tyus passed Essence Carson and Lindsey Harding for #111 all-time in points (career 2,650) \u2014 up from #113 entering today \u2014 (25.0 - 1st \u2014 LV @ NY)",
-    "kind": "rank_pass",
-    "player": "Cheyenne Parker-Tyus",
-    "stat": "points",
-    "rank": 111,
-    "passed_players": [
-      "Essence Carson",
-      "Lindsey Harding"
-    ],
-    "new_total": 2650
   }
 ]
