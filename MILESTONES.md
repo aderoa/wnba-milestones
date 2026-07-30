@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-30 01:52 UTC
+
+- **Arike Ogunbowale** passed **Vickie Johnson** for **#66** all-time in steals (career 358) — up from #71 entering today — _4:02 - 4th — ATL @ DAL_
+
 ## 2026-07-30 01:42 UTC
 
 - **Brionna Jones** passed **Jantel Lavender** for **#105** all-time in points (career 2,776) — up from #106 entering today — _7:13 - 4th — ATL @ DAL_

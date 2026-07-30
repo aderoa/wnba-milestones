@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-07-30T01:52:00+00:00",
+    "text": "Arike Ogunbowale passed Vickie Johnson for #66 all-time in steals (career 358) \u2014 up from #71 entering today \u2014 (4:02 - 4th \u2014 ATL @ DAL)",
+    "kind": "rank_pass",
+    "player": "Arike Ogunbowale",
+    "stat": "steals",
+    "rank": 66,
+    "passed_players": [
+      "Vickie Johnson"
+    ],
+    "new_total": 358
+  },
+  {
     "ts": "2026-07-30T01:42:00+00:00",
     "text": "Brionna Jones passed Jantel Lavender for #105 all-time in points (career 2,776) \u2014 up from #106 entering today \u2014 (7:13 - 4th \u2014 ATL @ DAL)",
     "kind": "rank_pass",
@@ -2988,17 +3000,5 @@
       "Brittney Sykes"
     ],
     "new_total": 3727
-  },
-  {
-    "ts": "2026-07-01T01:06:00+00:00",
-    "text": "Jackie Young passed Dawn Staley for #140 all-time in fouls (career 552) \u2014 up from #143 entering today \u2014 (5:49 - 4th \u2014 LV @ NY)",
-    "kind": "rank_pass",
-    "player": "Jackie Young",
-    "stat": "fouls",
-    "rank": 140,
-    "passed_players": [
-      "Dawn Staley"
-    ],
-    "new_total": 552
   }
 ]

@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-30 01:51 UTC_
+_Last updated: 2026-07-30 01:52 UTC_
 
 ## Contents
 
@@ -908,8 +908,8 @@ _Last updated: 2026-07-30 01:51 UTC_
 | 62 | Erica Wheeler | 361 |
 | 64 | Lauren Jackson | 360 |
 | 64 | Tan White | 360 |
-| 66 | **Arike Ogunbowale** 🔴 +3 | 357 |
-| 66 | Vickie Johnson | 357 |
+| 66 | **Arike Ogunbowale** 🔴 +4 | 358 |
+| 67 | Vickie Johnson | 357 |
 | 68 | Dominique Canty | 356 |
 | 68 | Renee Montgomery | 356 |
 | 70 | Natasha Cloud | 355 |
@@ -1579,7 +1579,7 @@ _Last updated: 2026-07-30 01:51 UTC_
 | 119 | Svetlana Abrosimova | 613 |
 | 120 | **Odyssey Sims** 🔴 +1 | 611 |
 | 121 | Layshia Clarendon | 609 |
-| 122 | **Arike Ogunbowale** 🔴 +3 | 607 |
+| 122 | **Arike Ogunbowale** 🔴 +4 | 608 |
 | 123 | Tiffany Mitchell | 604 |
 | 124 | Janel McCarville | 597 |
 | 125 | Kamila Vodichkova | 596 |
