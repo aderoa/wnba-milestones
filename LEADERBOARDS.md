@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-30 00:34 UTC_
+_Last updated: 2026-07-30 00:35 UTC_
 
 ## Contents
 
@@ -455,7 +455,7 @@ _Last updated: 2026-07-30 00:34 UTC_
 | 23 | Teresa Weatherspoon | 1,333 |
 | 24 | Kristi Toliver | 1,301 |
 | 25 | Kelsey Plum | 1,270 |
-| 26 | **Jordin Canada** 🔴 | 1,262 |
+| 26 | **Jordin Canada** 🔴 +1 | 1,263 |
 | 27 | Katie Smith | 1,258 |
 | 28 | **Odyssey Sims** 🔴 | 1,228 |
 | 29 | Vickie Johnson | 1,202 |
@@ -478,8 +478,8 @@ _Last updated: 2026-07-30 00:34 UTC_
 | 46 | Breanna Stewart | 981 |
 | 47 | Tamecka Dixon | 960 |
 | 48 | Tiffany Hayes | 957 |
+| 49 | **Arike Ogunbowale** 🔴 +2 | 946 |
 | 49 | Kara Lawson | 946 |
-| 50 | **Arike Ogunbowale** 🔴 +1 | 945 |
 | 51 | Nneka Ogwumike | 933 |
 | 52 | Deanna Nolan | 930 |
 | 53 | Kelly Miller | 927 |
