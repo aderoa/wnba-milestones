@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-30 01:38 UTC_
+_Last updated: 2026-07-30 01:39 UTC_
 
 ## Contents
 
@@ -351,7 +351,7 @@ _Last updated: 2026-07-30 01:38 UTC_
 | 125 | Tamecka Dixon | 1,035 |
 | 126 | Kamila Vodichkova | 1,031 |
 | 127 | Jasmine Thomas | 1,027 |
-| 128 | **Jessica Shepard** 🔴 +7 | 1,023 |
+| 128 | **Jessica Shepard** 🔴 +8 | 1,024 |
 | 129 | Sabrina Ionescu | 1,020 |
 | 130 | Cathrine Kraayeveld | 1,013 |
 | 131 | Kelly Miller | 1,011 |
@@ -890,7 +890,7 @@ _Last updated: 2026-07-30 01:38 UTC_
 | 45 | Katie Smith | 408 |
 | 46 | Cappie Pondexter | 405 |
 | 47 | Nicole Powell | 401 |
-| 48 | **Jordin Canada** 🔴 +1 | 398 |
+| 48 | **Jordin Canada** 🔴 +2 | 399 |
 | 49 | Jasmine Thomas | 394 |
 | 50 | Ariel Atkins | 390 |
 | 51 | Danielle Robinson | 389 |
@@ -1348,8 +1348,8 @@ _Last updated: 2026-07-30 01:38 UTC_
 | 93 | Layshia Clarendon | 536 |
 | 94 | Ivory Latta | 534 |
 | 94 | Iziane Castro Marques | 534 |
-| 96 | **Jordin Canada** 🔴 +6 | 533 |
-| 96 | Sabrina Ionescu | 533 |
+| 94 | **Jordin Canada** 🔴 +7 | 534 |
+| 97 | Sabrina Ionescu | 533 |
 | 98 | Mwadi Mabika | 532 |
 | 99 | **Arike Ogunbowale** 🔴 +2 | 531 |
 | 99 | Nakia Sanford | 531 |
@@ -1526,8 +1526,8 @@ _Last updated: 2026-07-30 01:38 UTC_
 | 66 | Natasha Cloud | 773 |
 | 67 | Sheri Sam | 766 |
 | 68 | Kahleah Copper | 758 |
-| 69 | **Allisha Gray** 🔴 +3 | 755 |
-| 69 | Kia Vaughn | 755 |
+| 69 | **Allisha Gray** 🔴 +4 | 756 |
+| 70 | Kia Vaughn | 755 |
 | 71 | Vickie Johnson | 752 |
 | 72 | Kara Braxton | 748 |
 | 73 | Crystal Langhorne | 737 |
@@ -1572,7 +1572,7 @@ _Last updated: 2026-07-30 01:38 UTC_
 | 112 | Jennifer Gillom | 629 |
 | 112 | Kelsey Mitchell | 629 |
 | 114 | Deanna Nolan | 628 |
-| 115 | **Brionna Jones** 🔴 | 625 |
+| 115 | **Brionna Jones** 🔴 +1 | 626 |
 | 116 | Courtney Paris | 617 |
 | 117 | Coco Miller | 615 |
 | 118 | Brooke Wyckoff | 614 |

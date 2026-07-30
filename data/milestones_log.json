@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-07-30T01:39:00+00:00",
+    "text": "Jordin Canada passed Sabrina Ionescu for #96 all-time in turnovers (career 534) \u2014 up from #100 entering today \u2014 (8:28 - 4th \u2014 ATL @ DAL)",
+    "kind": "rank_pass",
+    "player": "Jordin Canada",
+    "stat": "turnovers",
+    "rank": 96,
+    "passed_players": [
+      "Sabrina Ionescu"
+    ],
+    "new_total": 534
+  },
+  {
     "ts": "2026-07-30T01:30:00+00:00",
     "text": "Arike Ogunbowale passed Dominique Canty and Renee Montgomery for #67 all-time in steals (career 357) \u2014 up from #71 entering today \u2014 (1:22 - 3rd \u2014 ATL @ DAL)",
     "kind": "rank_pass",
@@ -2988,17 +3000,5 @@
       "Tierra Ruffin-Pratt"
     ],
     "new_total": 551
-  },
-  {
-    "ts": "2026-07-01T00:01:00+00:00",
-    "text": "Cheyenne Parker-Tyus passed Sophia Young-Malcolm for #90 all-time in fouls (career 688) \u2014 up from #93 entering today \u2014 (4:26 - 2nd \u2014 LV @ NY)",
-    "kind": "rank_pass",
-    "player": "Cheyenne Parker-Tyus",
-    "stat": "fouls",
-    "rank": 90,
-    "passed_players": [
-      "Sophia Young-Malcolm"
-    ],
-    "new_total": 688
   }
 ]

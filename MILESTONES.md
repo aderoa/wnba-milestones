@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-30 01:39 UTC
+
+- **Jordin Canada** passed **Sabrina Ionescu** for **#96** all-time in turnovers (career 534) — up from #100 entering today — _8:28 - 4th — ATL @ DAL_
+
 ## 2026-07-30 01:30 UTC
 
 - **Arike Ogunbowale** passed **Dominique Canty** and **Renee Montgomery** for **#67** all-time in steals (career 357) — up from #71 entering today — _1:22 - 3rd — ATL @ DAL_
