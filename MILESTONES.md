@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-30 03:54 UTC
+
+- **Laeticia Amihere** reached **300** career points (now 300) — _8:09 - 4th — GS @ PHX_
+
 ## 2026-07-30 01:53 UTC
 
 - **Brionna Jones** passed **Alyssa Thomas**, **Chelsea Gray**, **Chiney Ogwumike**, and **Kristen Rasmussen** for **#96** all-time in blocks (career 128) — up from #102 entering today — _3:38 - 4th — ATL @ DAL_

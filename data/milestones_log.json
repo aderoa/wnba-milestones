@@ -1,5 +1,14 @@
 [
   {
+    "ts": "2026-07-30T03:54:00+00:00",
+    "text": "Laeticia Amihere reached 300 career points (now 300) \u2014 (8:09 - 4th \u2014 GS @ PHX)",
+    "kind": "round",
+    "player": "Laeticia Amihere",
+    "stat": "points",
+    "value": 300,
+    "new_total": 300
+  },
+  {
     "ts": "2026-07-30T01:53:00+00:00",
     "text": "Brionna Jones passed Alyssa Thomas, Chelsea Gray, Chiney Ogwumike, and Kristen Rasmussen for #96 all-time in blocks (career 128) \u2014 up from #102 entering today \u2014 (3:38 - 4th \u2014 ATL @ DAL)",
     "kind": "rank_pass",
@@ -2991,17 +3000,5 @@
       "Svetlana Abrosimova"
     ],
     "new_total": 632
-  },
-  {
-    "ts": "2026-07-03T00:20:00+00:00",
-    "text": "Alanna Smith passed Sami Whitcomb for #189 all-time in fouls (career 481) \u2014 up from #190 entering today \u2014 (2:49 - 1st \u2014 DAL @ CON)",
-    "kind": "rank_pass",
-    "player": "Alanna Smith",
-    "stat": "fouls",
-    "rank": 189,
-    "passed_players": [
-      "Sami Whitcomb"
-    ],
-    "new_total": 481
   }
 ]
