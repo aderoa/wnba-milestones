@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-30 00:50 UTC_
+_Last updated: 2026-07-30 00:51 UTC_
 
 ## Contents
 
@@ -899,7 +899,7 @@ _Last updated: 2026-07-30 00:50 UTC_
 | 54 | Swin Cash | 384 |
 | 54 | Tiffany Hayes | 384 |
 | 54 | Tina Charles | 384 |
-| 57 | **Allisha Gray** 🔴 | 379 |
+| 57 | **Allisha Gray** 🔴 +1 | 380 |
 | 58 | Monique Currie | 378 |
 | 59 | Chamique Holdsclaw | 376 |
 | 60 | Brittney Sykes | 371 |
