@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-30 01:26 UTC_
+_Last updated: 2026-07-30 01:27 UTC_
 
 ## Contents
 
@@ -346,12 +346,12 @@ _Last updated: 2026-07-30 01:26 UTC_
 | 120 | Jackie Young | 1,085 |
 | 121 | Svetlana Abrosimova | 1,078 |
 | 122 | Le'coe Willingham | 1,054 |
-| 123 | **Angel Reese** 🔴 +8 | 1,043 |
+| 123 | **Angel Reese** 🔴 +9 | 1,044 |
 | 124 | Nicole Ohlde | 1,040 |
 | 125 | Tamecka Dixon | 1,035 |
 | 126 | Kamila Vodichkova | 1,031 |
 | 127 | Jasmine Thomas | 1,027 |
-| 128 | **Jessica Shepard** 🔴 +5 | 1,021 |
+| 128 | **Jessica Shepard** 🔴 +6 | 1,022 |
 | 129 | Sabrina Ionescu | 1,020 |
 | 130 | Cathrine Kraayeveld | 1,013 |
 | 131 | Kelly Miller | 1,011 |
@@ -793,12 +793,12 @@ _Last updated: 2026-07-30 01:26 UTC_
 | 155 | Marina Mabrey | 84 |
 | 155 | Shatori Walker-Kimbrough | 84 |
 | 158 | Tamera Young | 83 |
+| 159 | **Awak Kuier** 🔴 +2 | 82 |
 | 159 | Cameron Brink | 82 |
 | 159 | Damiris Dantas | 82 |
-| 161 | **Awak Kuier** 🔴 +1 | 81 |
-| 161 | Charlotte Smith | 81 |
-| 161 | Cintia dos Santos | 81 |
-| 161 | Jessie Hicks | 81 |
+| 162 | Charlotte Smith | 81 |
+| 162 | Cintia dos Santos | 81 |
+| 162 | Jessie Hicks | 81 |
 | 165 | Nykesha Sales | 80 |
 | 165 | Rushia Brown | 80 |
 | 167 | Stephanie Talbot | 79 |
