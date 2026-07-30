@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-30 04:03 UTC_
+_Last updated: 2026-07-30 04:04 UTC_
 
 ## Contents
 
@@ -52,7 +52,7 @@ _Last updated: 2026-07-30 04:03 UTC_
 | 31 | Taj McWilliams-Franklin | 4,992 |
 | 32 | Maya Moore | 4,984 |
 | 33 | Sheryl Swoopes | 4,875 |
-| 34 | **Alyssa Thomas** 🔴 +12 | 4,764 |
+| 34 | **Alyssa Thomas** 🔴 +15 | 4,767 |
 | 35 | Alana Beard | 4,740 |
 | 36 | Arike Ogunbowale | 4,739 |
 | 37 | Chamique Holdsclaw | 4,713 |
@@ -459,8 +459,8 @@ _Last updated: 2026-07-30 04:03 UTC_
 | 27 | Katie Smith | 1,258 |
 | 28 | Odyssey Sims | 1,228 |
 | 29 | Vickie Johnson | 1,202 |
-| 30 | **DeWanna Bonner** 🔴 +1 | 1,197 |
-| 30 | Leilani Mitchell | 1,197 |
+| 30 | **DeWanna Bonner** 🔴 +2 | 1,198 |
+| 31 | Leilani Mitchell | 1,197 |
 | 32 | Jewell Loyd | 1,156 |
 | 33 | Jackie Young | 1,150 |
 | 34 | Renee Montgomery | 1,140 |
@@ -1548,11 +1548,11 @@ _Last updated: 2026-07-30 04:03 UTC_
 | 88 | Katie Douglas | 697 |
 | 89 | Danielle Robinson | 692 |
 | 90 | Sophia Young-Malcolm | 687 |
+| 91 | **Kayla Thornton** 🔴 +4 | 686 |
 | 91 | Maya Moore | 686 |
-| 92 | Breanna Stewart | 685 |
-| 92 | Cheyenne Parker-Tyus | 685 |
-| 92 | Jasmine Thomas | 685 |
-| 92 | **Kayla Thornton** 🔴 +3 | 685 |
+| 93 | Breanna Stewart | 685 |
+| 93 | Cheyenne Parker-Tyus | 685 |
+| 93 | Jasmine Thomas | 685 |
 | 96 | Jewell Loyd | 684 |
 | 96 | Leilani Mitchell | 684 |
 | 98 | Crystal Robinson | 682 |
