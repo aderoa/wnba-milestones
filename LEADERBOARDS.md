@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-30 00:12 UTC_
+_Last updated: 2026-07-30 00:13 UTC_
 
 ## Contents
 
@@ -54,7 +54,7 @@ _Last updated: 2026-07-30 00:12 UTC_
 | 33 | Sheryl Swoopes | 4,875 |
 | 34 | Alyssa Thomas | 4,752 |
 | 35 | Alana Beard | 4,740 |
-| 36 | **Arike Ogunbowale** 🔴 +2 | 4,717 |
+| 36 | **Arike Ogunbowale** 🔴 +4 | 4,719 |
 | 37 | Chamique Holdsclaw | 4,713 |
 | 38 | Elena Delle Donne | 4,706 |
 | 39 | Natasha Howard | 4,682 |
@@ -124,7 +124,7 @@ _Last updated: 2026-07-30 00:12 UTC_
 | 103 | Iziane Castro Marques | 2,862 |
 | 104 | Alysha Clark | 2,808 |
 | 105 | Jantel Lavender | 2,775 |
-| 106 | Brionna Jones | 2,765 |
+| 106 | **Brionna Jones** 🔴 | 2,765 |
 | 107 | Dominique Canty | 2,763 |
 | 108 | Ticha Penicheiro | 2,729 |
 | 109 | Adrienne Goodson | 2,705 |
@@ -306,7 +306,7 @@ _Last updated: 2026-07-30 00:12 UTC_
 | 80 | Tamika Whitmore | 1,355 |
 | 81 | Emma Meesseman | 1,350 |
 | 82 | Elena Baranova | 1,335 |
-| 83 | Brionna Jones | 1,333 |
+| 83 | **Brionna Jones** 🔴 | 1,333 |
 | 84 | Erlana Larkins | 1,329 |
 | 85 | Mwadi Mabika | 1,327 |
 | 86 | Jayne Appel Marinelli | 1,326 |
@@ -736,7 +736,7 @@ _Last updated: 2026-07-30 00:12 UTC_
 | 96 | Kristen Rasmussen | 127 |
 | 100 | Katie Douglas | 126 |
 | 100 | Mistie Bass | 126 |
-| 102 | Brionna Jones | 125 |
+| 102 | **Brionna Jones** 🔴 | 125 |
 | 103 | Kamilla Cardoso | 124 |
 | 104 | Natasha Mack | 123 |
 | 105 | Natalie Williams | 122 |
@@ -958,7 +958,7 @@ _Last updated: 2026-07-30 00:12 UTC_
 | 113 | Crystal Robinson | 267 |
 | 113 | Kelsey Plum | 267 |
 | 115 | Anna DeForge | 266 |
-| 116 | Brionna Jones | 265 |
+| 116 | **Brionna Jones** 🔴 | 265 |
 | 117 | Michelle Snow | 262 |
 | 118 | Karima Christmas-Kelly | 261 |
 | 119 | Jonquel Jones | 260 |
@@ -1420,8 +1420,8 @@ _Last updated: 2026-07-30 00:12 UTC_
 | 165 | Tiffany Jackson | 354 |
 | 166 | Adrian Williams-Strong | 353 |
 | 167 | Candice Wiggins | 349 |
+| 168 | **Brionna Jones** 🔴 +1 | 347 |
 | 168 | Janell Burse | 347 |
-| 169 | Brionna Jones | 346 |
 | 170 | Satou Sabally | 345 |
 | 171 | Teaira McCowan | 340 |
 | 172 | Loree Moore | 339 |
@@ -1572,7 +1572,7 @@ _Last updated: 2026-07-30 00:12 UTC_
 | 112 | Jennifer Gillom | 629 |
 | 112 | Kelsey Mitchell | 629 |
 | 114 | Deanna Nolan | 628 |
-| 115 | Brionna Jones | 625 |
+| 115 | **Brionna Jones** 🔴 | 625 |
 | 116 | Courtney Paris | 617 |
 | 117 | Coco Miller | 615 |
 | 118 | Brooke Wyckoff | 614 |
