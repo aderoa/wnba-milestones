@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-30 07:48 UTC_
+_Last updated: 2026-07-30 07:49 UTC_
 
 ## Contents
 
@@ -148,7 +148,7 @@ _Last updated: 2026-07-30 07:48 UTC_
 | 127 | Ruth Riley | 2,434 |
 | 128 | Svetlana Abrosimova | 2,414 |
 | 129 | Anna DeForge | 2,413 |
-| 130 | Kayla Thornton | 2,393 |
+| 130 | Kayla Thornton | 2,399 |
 | 131 | DeMya Walker | 2,379 |
 | 132 | Alex Bentley | 2,350 |
 | 133 | Jordin Canada | 2,345 |
@@ -295,7 +295,7 @@ _Last updated: 2026-07-30 07:48 UTC_
 | 69 | Monique Billings | 1,431 |
 | 70 | Alana Beard | 1,420 |
 | 71 | Nakia Sanford | 1,419 |
-| 72 | Kayla Thornton | 1,411 |
+| 72 | Kayla Thornton | 1,416 |
 | 73 | Allisha Gray | 1,404 |
 | 74 | Kara Braxton | 1,387 |
 | 75 | Courtney Vandersloot | 1,386 |
@@ -611,9 +611,9 @@ _Last updated: 2026-07-30 07:48 UTC_
 | 179 | Jessica Breland | 377 |
 | 180 | Shenise Johnson | 376 |
 | 181 | Alanna Smith | 374 |
+| 182 | Kayla Thornton | 370 |
 | 182 | Suzie McConnell Serio | 370 |
-| 183 | Damiris Dantas | 368 |
-| 183 | Kayla Thornton | 368 |
+| 184 | Damiris Dantas | 368 |
 | 185 | Roneeka Hodges | 362 |
 | 186 | Andrea Nagy | 361 |
 | 186 | Diamond DeShields | 361 |
@@ -1121,7 +1121,7 @@ _Last updated: 2026-07-30 07:48 UTC_
 | 71 | Bridget Carleton | 306 |
 | 72 | Kelly Miller | 305 |
 | 73 | Nikki Teasley | 304 |
-| 74 | Kayla Thornton | 300 |
+| 74 | Kayla Thornton | 302 |
 | 75 | Vickie Johnson | 295 |
 | 76 | Seimone Augustus | 293 |
 | 77 | Candice Wiggins | 290 |
@@ -1547,14 +1547,14 @@ _Last updated: 2026-07-30 07:48 UTC_
 | 87 | Tan White | 698 |
 | 88 | Katie Douglas | 697 |
 | 89 | Danielle Robinson | 692 |
+| 90 | Kayla Thornton | 687 |
 | 90 | Sophia Young-Malcolm | 687 |
-| 91 | Maya Moore | 686 |
-| 92 | Breanna Stewart | 685 |
-| 92 | Cheyenne Parker-Tyus | 685 |
-| 92 | Jasmine Thomas | 685 |
-| 95 | Jewell Loyd | 684 |
-| 95 | Kayla Thornton | 684 |
-| 95 | Leilani Mitchell | 684 |
+| 92 | Maya Moore | 686 |
+| 93 | Breanna Stewart | 685 |
+| 93 | Cheyenne Parker-Tyus | 685 |
+| 93 | Jasmine Thomas | 685 |
+| 96 | Jewell Loyd | 684 |
+| 96 | Leilani Mitchell | 684 |
 | 98 | Crystal Robinson | 682 |
 | 99 | Jennifer Lacy | 680 |
 | 99 | Temeka Johnson | 680 |
