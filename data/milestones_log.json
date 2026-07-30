@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-07-30T01:30:00+00:00",
+    "text": "Arike Ogunbowale passed Dominique Canty and Renee Montgomery for #67 all-time in steals (career 357) \u2014 up from #71 entering today \u2014 (1:22 - 3rd \u2014 ATL @ DAL)",
+    "kind": "rank_pass",
+    "player": "Arike Ogunbowale",
+    "stat": "steals",
+    "rank": 67,
+    "passed_players": [
+      "Dominique Canty",
+      "Renee Montgomery"
+    ],
+    "new_total": 357
+  },
+  {
     "ts": "2026-07-30T01:23:00+00:00",
     "text": "Brionna Jones passed Janell Burse for #168 all-time in turnovers (career 348) \u2014 up from #169 entering today \u2014 (4:03 - 3rd \u2014 ATL @ DAL)",
     "kind": "rank_pass",
@@ -2987,17 +3000,5 @@
       "Sophia Young-Malcolm"
     ],
     "new_total": 688
-  },
-  {
-    "ts": "2026-06-30T23:57:00+00:00",
-    "text": "Breanna Stewart passed Nikki Teasley for #45 all-time in assists (career 983) \u2014 up from #46 entering today \u2014 (5:05 - 2nd \u2014 LV @ NY)",
-    "kind": "rank_pass",
-    "player": "Breanna Stewart",
-    "stat": "assists",
-    "rank": 45,
-    "passed_players": [
-      "Nikki Teasley"
-    ],
-    "new_total": 983
   }
 ]
