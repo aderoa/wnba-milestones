@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-07-30T01:17:00+00:00",
+    "text": "Jordin Canada passed Mwadi Mabika for #97 all-time in turnovers (career 533) \u2014 up from #100 entering today \u2014 (5:45 - 3rd \u2014 ATL @ DAL)",
+    "kind": "rank_pass",
+    "player": "Jordin Canada",
+    "stat": "turnovers",
+    "rank": 97,
+    "passed_players": [
+      "Mwadi Mabika"
+    ],
+    "new_total": 533
+  },
+  {
     "ts": "2026-07-30T01:15:00+00:00",
     "text": "Jordin Canada passed Nakia Sanford for #98 all-time in turnovers (career 532) \u2014 up from #100 entering today \u2014 (6:16 - 3rd \u2014 ATL @ DAL)",
     "kind": "rank_pass",
@@ -2987,17 +2999,5 @@
       "Maya Moore"
     ],
     "new_total": 687
-  },
-  {
-    "ts": "2026-06-30T23:49:00+00:00",
-    "text": "Cheyenne Parker-Tyus passed Sue Bird for #65 all-time in rebounds (career 1,467) \u2014 up from #66 entering today \u2014 (7:40 - 2nd \u2014 LV @ NY)",
-    "kind": "rank_pass",
-    "player": "Cheyenne Parker-Tyus",
-    "stat": "rebounds",
-    "rank": 65,
-    "passed_players": [
-      "Sue Bird"
-    ],
-    "new_total": 1467
   }
 ]

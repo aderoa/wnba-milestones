@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-30 01:17 UTC
+
+- **Jordin Canada** passed **Mwadi Mabika** for **#97** all-time in turnovers (career 533) — up from #100 entering today — _5:45 - 3rd — ATL @ DAL_
+
 ## 2026-07-30 01:15 UTC
 
 - **Jordin Canada** passed **Nakia Sanford** for **#98** all-time in turnovers (career 532) — up from #100 entering today — _6:16 - 3rd — ATL @ DAL_
