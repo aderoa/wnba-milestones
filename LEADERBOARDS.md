@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-30 03:25 UTC_
+_Last updated: 2026-07-30 03:26 UTC_
 
 ## Contents
 
@@ -538,7 +538,7 @@ _Last updated: 2026-07-30 03:25 UTC_
 | 106 | Betnijah Laney-Hamilton | 590 |
 | 106 | Camille Smith | 590 |
 | 108 | Armintie Herrington | 589 |
-| 109 | **Veronica Burton** 🔴 +3 | 582 |
+| 109 | **Veronica Burton** 🔴 +4 | 583 |
 | 110 | Tan White | 578 |
 | 111 | Matee Ajavon | 577 |
 | 112 | Napheesa Collier | 570 |
@@ -1234,10 +1234,10 @@ _Last updated: 2026-07-30 03:25 UTC_
 | 184 | Ebony Hoffman | 115 |
 | 184 | Shey Peddy | 115 |
 | 184 | Stephanie White | 115 |
+| 187 | **Cecilia Zandalasini** 🔴 +3 | 114 |
 | 187 | Gordana Grubin | 114 |
 | 187 | Rickea Jackson | 114 |
 | 187 | Sandy Brondello | 114 |
-| 190 | **Cecilia Zandalasini** 🔴 +2 | 113 |
 | 191 | **Janelle Salaun** 🔴 +1 | 112 |
 | 192 | Shoni Schimmel | 111 |
 | 193 | Emma Meesseman | 109 |
