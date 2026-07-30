@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-30 04:12 UTC_
+_Last updated: 2026-07-30 04:13 UTC_
 
 ## Contents
 
@@ -47,12 +47,12 @@ _Last updated: 2026-07-30 04:12 UTC_
 | 26 | Lindsay Whalen | 5,511 |
 | 27 | Kelsey Mitchell | 5,198 |
 | 28 | Swin Cash | 5,119 |
-| 29 | **Tiffany Hayes** 🔴 +10 | 5,059 |
+| 29 | **Tiffany Hayes** 🔴 +11 | 5,060 |
 | 30 | Tangela Smith | 5,035 |
 | 31 | Taj McWilliams-Franklin | 4,992 |
 | 32 | Maya Moore | 4,984 |
 | 33 | Sheryl Swoopes | 4,875 |
-| 34 | **Alyssa Thomas** 🔴 +19 | 4,771 |
+| 34 | **Alyssa Thomas** 🔴 +21 | 4,773 |
 | 35 | Alana Beard | 4,740 |
 | 36 | Arike Ogunbowale | 4,739 |
 | 37 | Chamique Holdsclaw | 4,713 |
@@ -560,7 +560,7 @@ _Last updated: 2026-07-30 04:12 UTC_
 | 127 | Chasity Melvin | 508 |
 | 129 | Anna DeForge | 503 |
 | 129 | Coco Miller | 503 |
-| 131 | **Kahleah Copper** 🔴 +3 | 498 |
+| 131 | **Kahleah Copper** 🔴 +4 | 499 |
 | 132 | Crystal Robinson | 488 |
 | 132 | Tiffany Mitchell | 488 |
 | 134 | Rebekkah Brunson | 486 |
