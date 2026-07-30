@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-07-30T01:23:00+00:00",
+    "text": "Brionna Jones passed Janell Burse for #168 all-time in turnovers (career 348) \u2014 up from #169 entering today \u2014 (4:03 - 3rd \u2014 ATL @ DAL)",
+    "kind": "rank_pass",
+    "player": "Brionna Jones",
+    "stat": "turnovers",
+    "rank": 168,
+    "passed_players": [
+      "Janell Burse"
+    ],
+    "new_total": 348
+  },
+  {
     "ts": "2026-07-30T01:17:00+00:00",
     "text": "Jordin Canada passed Mwadi Mabika for #97 all-time in turnovers (career 533) \u2014 up from #100 entering today \u2014 (5:45 - 3rd \u2014 ATL @ DAL)",
     "kind": "rank_pass",
@@ -2987,17 +2999,5 @@
       "Nikki Teasley"
     ],
     "new_total": 983
-  },
-  {
-    "ts": "2026-06-30T23:53:00+00:00",
-    "text": "Cheyenne Parker-Tyus passed Maya Moore for #91 all-time in fouls (career 687) \u2014 up from #93 entering today \u2014 (5:53 - 2nd \u2014 LV @ NY)",
-    "kind": "rank_pass",
-    "player": "Cheyenne Parker-Tyus",
-    "stat": "fouls",
-    "rank": 91,
-    "passed_players": [
-      "Maya Moore"
-    ],
-    "new_total": 687
   }
 ]

@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-30 01:23 UTC
+
+- **Brionna Jones** passed **Janell Burse** for **#168** all-time in turnovers (career 348) — up from #169 entering today — _4:03 - 3rd — ATL @ DAL_
+
 ## 2026-07-30 01:17 UTC
 
 - **Jordin Canada** passed **Mwadi Mabika** for **#97** all-time in turnovers (career 533) — up from #100 entering today — _5:45 - 3rd — ATL @ DAL_
