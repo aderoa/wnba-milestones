@@ -1,5 +1,20 @@
 [
   {
+    "ts": "2026-07-30T01:53:00+00:00",
+    "text": "Brionna Jones passed Alyssa Thomas, Chelsea Gray, Chiney Ogwumike, and Kristen Rasmussen for #96 all-time in blocks (career 128) \u2014 up from #102 entering today \u2014 (3:38 - 4th \u2014 ATL @ DAL)",
+    "kind": "rank_pass",
+    "player": "Brionna Jones",
+    "stat": "blocks",
+    "rank": 96,
+    "passed_players": [
+      "Alyssa Thomas",
+      "Chelsea Gray",
+      "Chiney Ogwumike",
+      "Kristen Rasmussen"
+    ],
+    "new_total": 128
+  },
+  {
     "ts": "2026-07-30T01:52:00+00:00",
     "text": "Arike Ogunbowale passed Vickie Johnson for #66 all-time in steals (career 358) \u2014 up from #71 entering today \u2014 (4:02 - 4th \u2014 ATL @ DAL)",
     "kind": "rank_pass",
@@ -2988,17 +3003,5 @@
       "Sami Whitcomb"
     ],
     "new_total": 481
-  },
-  {
-    "ts": "2026-07-01T01:19:00+00:00",
-    "text": "Jackie Young passed Brittney Sykes for #64 all-time in points (career 3,727) \u2014 up from #65 entering today \u2014 (1:21 - 4th \u2014 LV @ NY)",
-    "kind": "rank_pass",
-    "player": "Jackie Young",
-    "stat": "points",
-    "rank": 64,
-    "passed_players": [
-      "Brittney Sykes"
-    ],
-    "new_total": 3727
   }
 ]
