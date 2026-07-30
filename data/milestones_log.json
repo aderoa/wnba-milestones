@@ -1,5 +1,30 @@
 [
   {
+    "ts": "2026-07-30T01:42:00+00:00",
+    "text": "Brionna Jones passed Jantel Lavender for #105 all-time in points (career 2,776) \u2014 up from #106 entering today \u2014 (7:13 - 4th \u2014 ATL @ DAL)",
+    "kind": "rank_pass",
+    "player": "Brionna Jones",
+    "stat": "points",
+    "rank": 105,
+    "passed_players": [
+      "Jantel Lavender"
+    ],
+    "new_total": 2776
+  },
+  {
+    "ts": "2026-07-30T01:42:00+00:00",
+    "text": "Brionna Jones passed Katie Douglas and Mistie Bass for #100 all-time in blocks (career 127) \u2014 up from #102 entering today \u2014 (7:13 - 4th \u2014 ATL @ DAL)",
+    "kind": "rank_pass",
+    "player": "Brionna Jones",
+    "stat": "blocks",
+    "rank": 100,
+    "passed_players": [
+      "Katie Douglas",
+      "Mistie Bass"
+    ],
+    "new_total": 127
+  },
+  {
     "ts": "2026-07-30T01:40:00+00:00",
     "text": "Arike Ogunbowale passed Nakia Sanford for #98 all-time in turnovers (career 532) \u2014 up from #99 entering today \u2014 (7:59 - 4th \u2014 ATL @ DAL)",
     "kind": "rank_pass",
@@ -2975,29 +3000,5 @@
       "Dawn Staley"
     ],
     "new_total": 552
-  },
-  {
-    "ts": "2026-07-01T00:49:00+00:00",
-    "text": "Cheyenne Parker-Tyus passed Alysha Clark for #64 all-time in rebounds (career 1,470) \u2014 up from #66 entering today \u2014 (59.1 - 3rd \u2014 LV @ NY)",
-    "kind": "rank_pass",
-    "player": "Cheyenne Parker-Tyus",
-    "stat": "rebounds",
-    "rank": 64,
-    "passed_players": [
-      "Alysha Clark"
-    ],
-    "new_total": 1470
-  },
-  {
-    "ts": "2026-07-01T00:45:00+00:00",
-    "text": "Cheyenne Parker-Tyus passed Shenise Johnson for #152 all-time in steals (career 218) \u2014 (3:23 - 3rd \u2014 LV @ NY)",
-    "kind": "rank_pass",
-    "player": "Cheyenne Parker-Tyus",
-    "stat": "steals",
-    "rank": 152,
-    "passed_players": [
-      "Shenise Johnson"
-    ],
-    "new_total": 218
   }
 ]

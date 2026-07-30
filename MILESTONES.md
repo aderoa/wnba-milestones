@@ -2,6 +2,11 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-07-30 01:42 UTC
+
+- **Brionna Jones** passed **Jantel Lavender** for **#105** all-time in points (career 2,776) — up from #106 entering today — _7:13 - 4th — ATL @ DAL_
+- **Brionna Jones** passed **Katie Douglas** and **Mistie Bass** for **#100** all-time in blocks (career 127) — up from #102 entering today — _7:13 - 4th — ATL @ DAL_
+
 ## 2026-07-30 01:40 UTC
 
 - **Arike Ogunbowale** passed **Nakia Sanford** for **#98** all-time in turnovers (career 532) — up from #99 entering today — _7:59 - 4th — ATL @ DAL_
