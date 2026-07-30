@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-30 00:14 UTC_
+_Last updated: 2026-07-30 00:15 UTC_
 
 ## Contents
 
@@ -124,7 +124,7 @@ _Last updated: 2026-07-30 00:14 UTC_
 | 103 | Iziane Castro Marques | 2,862 |
 | 104 | Alysha Clark | 2,808 |
 | 105 | Jantel Lavender | 2,775 |
-| 106 | **Brionna Jones** 🔴 | 2,765 |
+| 106 | **Brionna Jones** 🔴 +2 | 2,767 |
 | 107 | Dominique Canty | 2,763 |
 | 108 | Ticha Penicheiro | 2,729 |
 | 109 | Adrienne Goodson | 2,705 |
@@ -404,8 +404,8 @@ _Last updated: 2026-07-30 00:14 UTC_
 | 178 | Sue Wicks | 780 |
 | 179 | Lindsey Harding | 779 |
 | 180 | Tiffani Johnson | 778 |
-| 181 | **Arike Ogunbowale** 🔴 | 775 |
-| 181 | Teresa Weatherspoon | 775 |
+| 181 | **Arike Ogunbowale** 🔴 +1 | 776 |
+| 182 | Teresa Weatherspoon | 775 |
 | 183 | Anna DeForge | 769 |
 | 183 | Kelsey Bone | 769 |
 | 183 | Tan White | 769 |
@@ -550,7 +550,7 @@ _Last updated: 2026-07-30 00:14 UTC_
 | 118 | Janel McCarville | 551 |
 | 118 | Svetlana Abrosimova | 551 |
 | 120 | Michele Timms | 549 |
-| 121 | **Rhyne Howard** 🔴 | 536 |
+| 121 | **Rhyne Howard** 🔴 +1 | 537 |
 | 122 | Myisha Hines-Allen | 529 |
 | 123 | Marie Ferdinand-Harris | 528 |
 | 124 | Margo Dydek | 524 |
