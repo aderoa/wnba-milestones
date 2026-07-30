@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-30 02:00 UTC_
+_Last updated: 2026-07-30 02:01 UTC_
 
 ## Contents
 
@@ -350,8 +350,8 @@ _Last updated: 2026-07-30 02:00 UTC_
 | 124 | Nicole Ohlde | 1,040 |
 | 125 | Tamecka Dixon | 1,035 |
 | 126 | Kamila Vodichkova | 1,031 |
-| 127 | Jasmine Thomas | 1,027 |
-| 127 | **Jessica Shepard** 🔴 +11 | 1,027 |
+| 127 | **Jessica Shepard** 🔴 +12 | 1,028 |
+| 128 | Jasmine Thomas | 1,027 |
 | 129 | Sabrina Ionescu | 1,020 |
 | 130 | Cathrine Kraayeveld | 1,013 |
 | 131 | Kelly Miller | 1,011 |
@@ -401,8 +401,8 @@ _Last updated: 2026-07-30 02:00 UTC_
 | 175 | Rhonda Mapp | 788 |
 | 176 | Mercedes Russell | 786 |
 | 177 | **Odyssey Sims** 🔴 | 785 |
-| 178 | **Arike Ogunbowale** 🔴 +5 | 780 |
-| 178 | Sue Wicks | 780 |
+| 178 | **Arike Ogunbowale** 🔴 +6 | 781 |
+| 179 | Sue Wicks | 780 |
 | 180 | Lindsey Harding | 779 |
 | 181 | Tiffani Johnson | 778 |
 | 182 | Teresa Weatherspoon | 775 |
