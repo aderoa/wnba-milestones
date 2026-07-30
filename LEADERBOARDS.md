@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-30 01:48 UTC_
+_Last updated: 2026-07-30 01:49 UTC_
 
 ## Contents
 
@@ -132,7 +132,7 @@ _Last updated: 2026-07-30 01:48 UTC_
 | 111 | Essence Carson | 2,647 |
 | 111 | Lindsey Harding | 2,647 |
 | 113 | Cheyenne Parker-Tyus | 2,645 |
-| 114 | **Rhyne Howard** 🔴 +5 | 2,642 |
+| 114 | **Rhyne Howard** 🔴 +6 | 2,643 |
 | 115 | Tamera Young | 2,641 |
 | 116 | Liz Cambage | 2,634 |
 | 117 | Janeth Arcain | 2,633 |
@@ -401,9 +401,9 @@ _Last updated: 2026-07-30 01:48 UTC_
 | 175 | Rhonda Mapp | 788 |
 | 176 | Mercedes Russell | 786 |
 | 177 | **Odyssey Sims** 🔴 | 785 |
+| 178 | **Arike Ogunbowale** 🔴 +5 | 780 |
 | 178 | Sue Wicks | 780 |
-| 179 | **Arike Ogunbowale** 🔴 +4 | 779 |
-| 179 | Lindsey Harding | 779 |
+| 180 | Lindsey Harding | 779 |
 | 181 | Tiffani Johnson | 778 |
 | 182 | Teresa Weatherspoon | 775 |
 | 183 | Anna DeForge | 769 |
@@ -455,7 +455,7 @@ _Last updated: 2026-07-30 01:48 UTC_
 | 23 | Teresa Weatherspoon | 1,333 |
 | 24 | Kristi Toliver | 1,301 |
 | 25 | Kelsey Plum | 1,270 |
-| 26 | **Jordin Canada** 🔴 +6 | 1,268 |
+| 26 | **Jordin Canada** 🔴 +7 | 1,269 |
 | 27 | Katie Smith | 1,258 |
 | 28 | **Odyssey Sims** 🔴 | 1,228 |
 | 29 | Vickie Johnson | 1,202 |
@@ -478,7 +478,7 @@ _Last updated: 2026-07-30 01:48 UTC_
 | 46 | Breanna Stewart | 981 |
 | 47 | Tamecka Dixon | 960 |
 | 48 | Tiffany Hayes | 957 |
-| 49 | **Arike Ogunbowale** 🔴 +4 | 948 |
+| 49 | **Arike Ogunbowale** 🔴 +5 | 949 |
 | 50 | Kara Lawson | 946 |
 | 51 | Nneka Ogwumike | 933 |
 | 52 | Deanna Nolan | 930 |
@@ -963,8 +963,8 @@ _Last updated: 2026-07-30 01:48 UTC_
 | 118 | Karima Christmas-Kelly | 261 |
 | 119 | Jonquel Jones | 260 |
 | 119 | Riquna Williams | 260 |
-| 121 | Noelle Quinn | 256 |
-| 121 | **Rhyne Howard** 🔴 +2 | 256 |
+| 121 | **Rhyne Howard** 🔴 +3 | 257 |
+| 122 | Noelle Quinn | 256 |
 | 123 | Elaine Powell | 255 |
 | 123 | Loree Moore | 255 |
 | 125 | Ruthie Bolton | 254 |
