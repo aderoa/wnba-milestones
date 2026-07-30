@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-07-30T01:40:00+00:00",
+    "text": "Arike Ogunbowale passed Nakia Sanford for #98 all-time in turnovers (career 532) \u2014 up from #99 entering today \u2014 (7:59 - 4th \u2014 ATL @ DAL)",
+    "kind": "rank_pass",
+    "player": "Arike Ogunbowale",
+    "stat": "turnovers",
+    "rank": 98,
+    "passed_players": [
+      "Nakia Sanford"
+    ],
+    "new_total": 532
+  },
+  {
     "ts": "2026-07-30T01:39:00+00:00",
     "text": "Jordin Canada passed Sabrina Ionescu for #96 all-time in turnovers (career 534) \u2014 up from #100 entering today \u2014 (8:28 - 4th \u2014 ATL @ DAL)",
     "kind": "rank_pass",
@@ -2987,18 +2999,5 @@
       "Shenise Johnson"
     ],
     "new_total": 218
-  },
-  {
-    "ts": "2026-07-01T00:35:00+00:00",
-    "text": "Jackie Young passed Glory Johnson and Tierra Ruffin-Pratt for #141 all-time in fouls (career 551) \u2014 up from #143 entering today \u2014 (7:05 - 3rd \u2014 LV @ NY)",
-    "kind": "rank_pass",
-    "player": "Jackie Young",
-    "stat": "fouls",
-    "rank": 141,
-    "passed_players": [
-      "Glory Johnson",
-      "Tierra Ruffin-Pratt"
-    ],
-    "new_total": 551
   }
 ]
