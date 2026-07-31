@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-31 23:39 UTC_
+_Last updated: 2026-07-31 23:40 UTC_
 
 ## Contents
 
@@ -133,7 +133,7 @@ _Last updated: 2026-07-31 23:39 UTC_
 | 111 | Lindsey Harding | 2,647 |
 | 113 | Cheyenne Parker-Tyus | 2,645 |
 | 114 | Tamera Young | 2,641 |
-| 115 | **Rhyne Howard** 🔴 | 2,637 |
+| 115 | **Rhyne Howard** 🔴 +3 | 2,640 |
 | 116 | Liz Cambage | 2,634 |
 | 117 | Janeth Arcain | 2,633 |
 | 118 | Temeka Johnson | 2,620 |
@@ -181,7 +181,7 @@ _Last updated: 2026-07-31 23:39 UTC_
 | 160 | Diamond DeShields | 2,026 |
 | 161 | Vicky Bullett | 2,018 |
 | 162 | **Natisha Hiedeman** 🔴 | 2,002 |
-| 163 | Ezi Magbegor | 1,995 |
+| 163 | **Ezi Magbegor** 🔴 | 1,995 |
 | 164 | Bria Hartley | 1,967 |
 | 165 | Chiney Ogwumike | 1,964 |
 | 166 | Nicole Ohlde | 1,959 |
@@ -320,7 +320,7 @@ _Last updated: 2026-07-31 23:39 UTC_
 | 93 | Tiffany Hayes | 1,257 |
 | 95 | Kayla McBride | 1,256 |
 | 96 | Brianna Turner | 1,243 |
-| 96 | Ezi Magbegor | 1,243 |
+| 96 | **Ezi Magbegor** 🔴 | 1,243 |
 | 98 | Seimone Augustus | 1,228 |
 | 99 | Jia Perkins | 1,220 |
 | 100 | Kahleah Copper | 1,204 |
@@ -455,7 +455,7 @@ _Last updated: 2026-07-31 23:39 UTC_
 | 23 | Teresa Weatherspoon | 1,333 |
 | 24 | Kristi Toliver | 1,301 |
 | 25 | Kelsey Plum | 1,270 |
-| 26 | **Jordin Canada** 🔴 | 1,262 |
+| 26 | **Jordin Canada** 🔴 +1 | 1,263 |
 | 27 | Katie Smith | 1,258 |
 | 28 | **Odyssey Sims** 🔴 | 1,228 |
 | 29 | Vickie Johnson | 1,202 |
@@ -627,7 +627,7 @@ _Last updated: 2026-07-31 23:39 UTC_
 | 194 | Tamika Whitmore | 347 |
 | 196 | Kristen Rasmussen | 345 |
 | 196 | Penny Toler | 345 |
-| 198 | Ezi Magbegor | 344 |
+| 198 | **Ezi Magbegor** 🔴 | 344 |
 | 199 | Sonja Henning | 341 |
 | 200 | Alexis Hornbuckle | 336 |
 
@@ -657,7 +657,7 @@ _Last updated: 2026-07-31 23:39 UTC_
 | 19 | Natasha Howard | 370 |
 | 21 | Jessica Breland | 367 |
 | 22 | DeWanna Bonner | 358 |
-| 23 | Ezi Magbegor | 354 |
+| 23 | **Ezi Magbegor** 🔴 | 354 |
 | 24 | Kiah Stokes | 352 |
 | 25 | Diana Taurasi | 349 |
 | 25 | Elena Delle Donne | 349 |
@@ -748,11 +748,11 @@ _Last updated: 2026-07-31 23:39 UTC_
 | 110 | Crystal Langhorne | 117 |
 | 112 | Ariel Atkins | 115 |
 | 113 | Monique Currie | 114 |
-| 114 | Amanda Lassiter | 111 |
-| 114 | Kamila Vodichkova | 111 |
-| 114 | **Rhyne Howard** 🔴 | 111 |
-| 114 | Sophia Young-Malcolm | 111 |
-| 114 | Tari Phillips | 111 |
+| 114 | **Rhyne Howard** 🔴 +1 | 112 |
+| 115 | Amanda Lassiter | 111 |
+| 115 | Kamila Vodichkova | 111 |
+| 115 | Sophia Young-Malcolm | 111 |
+| 115 | Tari Phillips | 111 |
 | 119 | Courtney Williams | 109 |
 | 120 | Erin Perperoglou | 108 |
 | 120 | Glory Johnson | 108 |
@@ -1039,7 +1039,7 @@ _Last updated: 2026-07-31 23:39 UTC_
 | 193 | Chiney Ogwumike | 176 |
 | 195 | Tamika Raymond | 175 |
 | 196 | Elena Delle Donne | 174 |
-| 196 | Ezi Magbegor | 174 |
+| 196 | **Ezi Magbegor** 🔴 | 174 |
 | 196 | Margo Dydek | 174 |
 | 199 | Bridget Carleton | 173 |
 | 199 | Kamila Vodichkova | 173 |
@@ -1083,7 +1083,7 @@ _Last updated: 2026-07-31 23:39 UTC_
 | 33 | Lauren Jackson | 436 |
 | 34 | Shameka Christon | 434 |
 | 35 | Crystal Robinson | 425 |
-| 36 | **Rhyne Howard** 🔴 | 420 |
+| 36 | **Rhyne Howard** 🔴 +1 | 421 |
 | 37 | Mwadi Mabika | 415 |
 | 38 | Penny Taylor | 407 |
 | 38 | Riquna Williams | 407 |
@@ -1589,7 +1589,7 @@ _Last updated: 2026-07-31 23:39 UTC_
 | 129 | Chiney Ogwumike | 580 |
 | 129 | Hamchetou Maiga-Ba | 580 |
 | 129 | Olympia Scott | 580 |
-| 132 | Ezi Magbegor | 576 |
+| 132 | **Ezi Magbegor** 🔴 | 576 |
 | 133 | Le'coe Willingham | 571 |
 | 134 | Ashley Robinson | 567 |
 | 135 | Marina Mabrey | 566 |
