@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-31 00:42 UTC_
+_Last updated: 2026-07-31 00:43 UTC_
 
 ## Contents
 
@@ -88,8 +88,8 @@ _Last updated: 2026-07-31 00:42 UTC_
 | 67 | Mwadi Mabika | 3,576 |
 | 68 | Odyssey Sims | 3,574 |
 | 69 | Camille Smith | 3,551 |
-| 70 | **Napheesa Collier** 🔴 | 3,542 |
-| 70 | Shannon Johnson | 3,542 |
+| 70 | **Napheesa Collier** 🔴 +2 | 3,544 |
+| 71 | Shannon Johnson | 3,542 |
 | 72 | Renee Montgomery | 3,533 |
 | 73 | Jasmine Thomas | 3,522 |
 | 74 | Tamecka Dixon | 3,507 |
@@ -104,7 +104,7 @@ _Last updated: 2026-07-31 00:42 UTC_
 | 83 | Sheri Sam | 3,353 |
 | 84 | Andrea Stinson | 3,351 |
 | 85 | Tanisha Wright | 3,324 |
-| 86 | **Marina Mabrey** 🔴 +6 | 3,255 |
+| 86 | **Marina Mabrey** 🔴 +8 | 3,257 |
 | 87 | Stefanie Dolson | 3,217 |
 | 88 | Margo Dydek | 3,214 |
 | 89 | Erica Wheeler | 3,195 |
@@ -529,7 +529,7 @@ _Last updated: 2026-07-31 00:42 UTC_
 | 97 | Jennifer Azzi | 636 |
 | 98 | Sami Whitcomb | 623 |
 | 99 | Alysha Clark | 619 |
-| 100 | **Natasha Howard** 🔴 +2 | 617 |
+| 100 | **Natasha Howard** 🔴 +3 | 618 |
 | 101 | Debbie Black | 612 |
 | 102 | Cynthia Cooper | 602 |
 | 103 | Sancho Lyttle | 592 |
@@ -1603,9 +1603,9 @@ _Last updated: 2026-07-31 00:42 UTC_
 | 143 | Jackie Young | 548 |
 | 144 | Erlana Larkins | 546 |
 | 144 | Monique Billings | 546 |
-| 146 | Jayne Appel Marinelli | 543 |
-| 146 | **Kayla McBride** 🔴 | 543 |
-| 146 | Renee Montgomery | 543 |
+| 146 | **Kayla McBride** 🔴 +1 | 544 |
+| 147 | Jayne Appel Marinelli | 543 |
+| 147 | Renee Montgomery | 543 |
 | 149 | Marissa Coleman | 541 |
 | 150 | Sophie Cunningham | 538 |
 | 151 | Myisha Hines-Allen | 535 |
