@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-31 03:47 UTC_
+_Last updated: 2026-07-31 03:48 UTC_
 
 ## Contents
 
@@ -237,7 +237,7 @@ _Last updated: 2026-07-31 03:47 UTC_
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | Alyssa Thomas | 2,858 |
 | 13 | **Jonquel Jones** 🔴 +4 | 2,732 |
-| 14 | **A'ja Wilson** 🔴 +6 | 2,663 |
+| 14 | **A'ja Wilson** 🔴 +7 | 2,664 |
 | 15 | **Breanna Stewart** 🔴 +11 | 2,643 |
 | 16 | Sancho Lyttle | 2,596 |
 | 17 | Brittney Griner | 2,579 |
@@ -1182,9 +1182,9 @@ _Last updated: 2026-07-31 03:47 UTC_
 | 133 | **Stephanie Talbot** 🔴 +2 | 162 |
 | 133 | Tyasha Harris | 162 |
 | 133 | Ukari Figgs | 162 |
+| 136 | **Dana Evans** 🔴 +1 | 161 |
 | 136 | Edna Campbell | 161 |
-| 137 | **Dana Evans** 🔴 | 160 |
-| 137 | Jennifer Lacy | 160 |
+| 138 | Jennifer Lacy | 160 |
 | 139 | Aari McDonald | 158 |
 | 139 | Jennifer Azzi | 158 |
 | 139 | Natasha Howard | 158 |
@@ -1648,7 +1648,7 @@ _Last updated: 2026-07-31 03:47 UTC_
 | 187 | Rhonda Mapp | 483 |
 | 189 | Sami Whitcomb | 480 |
 | 190 | Alanna Smith | 479 |
-| 191 | **NaLyssa Smith** 🔴 +4 | 478 |
+| 190 | **NaLyssa Smith** 🔴 +5 | 479 |
 | 192 | Seimone Augustus | 477 |
 | 193 | Allie Quigley | 475 |
 | 194 | Satou Sabally | 471 |
