@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-31 03:28 UTC_
+_Last updated: 2026-07-31 03:29 UTC_
 
 ## Contents
 
@@ -110,7 +110,7 @@ _Last updated: 2026-07-31 03:28 UTC_
 | 89 | Erica Wheeler | 3,195 |
 | 90 | Danielle Robinson | 3,160 |
 | 91 | Wendy Palmer | 3,135 |
-| 92 | **Sabrina Ionescu** 🔴 +12 | 3,109 |
+| 92 | **Sabrina Ionescu** 🔴 +13 | 3,110 |
 | 93 | Shavonte Zellous | 3,103 |
 | 94 | Briann January | 3,082 |
 | 95 | Erika de Souza | 3,046 |
@@ -319,7 +319,7 @@ _Last updated: 2026-07-31 03:28 UTC_
 | 92 | Liz Cambage | 1,258 |
 | 94 | Tiffany Hayes | 1,257 |
 | 95 | Kayla McBride | 1,256 |
-| 96 | **Brianna Turner** 🔴 +2 | 1,245 |
+| 96 | **Brianna Turner** 🔴 +3 | 1,246 |
 | 97 | Ezi Magbegor | 1,243 |
 | 98 | Seimone Augustus | 1,228 |
 | 99 | Jia Perkins | 1,220 |
@@ -1563,7 +1563,7 @@ _Last updated: 2026-07-31 03:28 UTC_
 | 104 | Kiah Stokes | 651 |
 | 105 | Tari Phillips | 648 |
 | 106 | Marie Ferdinand-Harris | 646 |
-| 107 | **Chelsea Gray** 🔴 +3 | 643 |
+| 107 | **Chelsea Gray** 🔴 +4 | 644 |
 | 108 | Charlotte Smith | 638 |
 | 109 | Teaira McCowan | 637 |
 | 110 | Janell Burse | 632 |
