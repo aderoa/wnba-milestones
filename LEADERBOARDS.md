@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-31 00:47 UTC_
+_Last updated: 2026-07-31 00:48 UTC_
 
 ## Contents
 
@@ -88,7 +88,7 @@ _Last updated: 2026-07-31 00:47 UTC_
 | 67 | Mwadi Mabika | 3,576 |
 | 68 | Odyssey Sims | 3,574 |
 | 69 | Camille Smith | 3,551 |
-| 70 | **Napheesa Collier** 🔴 +2 | 3,544 |
+| 70 | **Napheesa Collier** 🔴 +5 | 3,547 |
 | 71 | Shannon Johnson | 3,542 |
 | 72 | Renee Montgomery | 3,533 |
 | 73 | Jasmine Thomas | 3,522 |
@@ -115,7 +115,7 @@ _Last updated: 2026-07-31 00:47 UTC_
 | 94 | Briann January | 3,082 |
 | 95 | Erika de Souza | 3,046 |
 | 96 | Shameka Christon | 3,039 |
-| 97 | **Natasha Cloud** 🔴 +2 | 3,020 |
+| 97 | **Natasha Cloud** 🔴 +6 | 3,024 |
 | 98 | Marie Ferdinand-Harris | 3,001 |
 | 99 | Emma Meesseman | 2,966 |
 | 100 | **Elizabeth Williams** 🔴 +2 | 2,935 |
@@ -256,7 +256,7 @@ _Last updated: 2026-07-31 00:47 UTC_
 | 30 | Chamique Holdsclaw | 2,123 |
 | 31 | Chasity Melvin | 2,097 |
 | 32 | Tammy Sutton-Brown | 2,010 |
-| 33 | **Elizabeth Williams** 🔴 | 1,978 |
+| 33 | **Elizabeth Williams** 🔴 +1 | 1,979 |
 | 34 | Cheryl Ford | 1,907 |
 | 35 | **Courtney Williams** 🔴 +2 | 1,845 |
 | 36 | Kiah Stokes | 1,835 |
@@ -529,7 +529,7 @@ _Last updated: 2026-07-31 00:47 UTC_
 | 97 | Jennifer Azzi | 636 |
 | 98 | Sami Whitcomb | 623 |
 | 99 | Alysha Clark | 619 |
-| 100 | **Natasha Howard** 🔴 +3 | 618 |
+| 99 | **Natasha Howard** 🔴 +4 | 619 |
 | 101 | Debbie Black | 612 |
 | 102 | Cynthia Cooper | 602 |
 | 103 | Sancho Lyttle | 592 |
@@ -1164,8 +1164,8 @@ _Last updated: 2026-07-31 00:47 UTC_
 | 114 | Caitlin Clark | 195 |
 | 115 | Lindsay Whalen | 193 |
 | 116 | Victoria Vivians | 192 |
-| 117 | Danielle Adams | 188 |
-| 117 | **Napheesa Collier** 🔴 | 188 |
+| 117 | **Napheesa Collier** 🔴 +1 | 189 |
+| 118 | Danielle Adams | 188 |
 | 119 | Noelle Quinn | 184 |
 | 120 | Marine Johannès | 183 |
 | 121 | Karima Christmas-Kelly | 181 |
