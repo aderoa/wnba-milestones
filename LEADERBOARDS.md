@@ -60,8 +60,8 @@ _Last updated: 2026-07-31 23:51 UTC_
 | 39 | Natasha Howard | 4,682 |
 | 40 | Chelsea Gray | 4,625 |
 | 41 | Penny Taylor | 4,595 |
-| 42 | Kelsey Plum | 4,494 |
-| 43 | **Allisha Gray** 🔴 +2 | 4,493 |
+| 42 | **Allisha Gray** 🔴 +5 | 4,496 |
+| 43 | Kelsey Plum | 4,494 |
 | 44 | Kristi Toliver | 4,474 |
 | 45 | Kahleah Copper | 4,437 |
 | 46 | Crystal Langhorne | 4,433 |
@@ -296,7 +296,7 @@ _Last updated: 2026-07-31 23:51 UTC_
 | 70 | Alana Beard | 1,420 |
 | 71 | Nakia Sanford | 1,419 |
 | 72 | Kayla Thornton | 1,408 |
-| 73 | **Allisha Gray** 🔴 | 1,404 |
+| 73 | **Allisha Gray** 🔴 +1 | 1,405 |
 | 74 | Kara Braxton | 1,387 |
 | 75 | Courtney Vandersloot | 1,386 |
 | 76 | Katie Smith | 1,383 |
@@ -1075,7 +1075,7 @@ _Last updated: 2026-07-31 23:51 UTC_
 | 24 | Shekinna Stricklen | 468 |
 | 26 | Breanna Stewart | 465 |
 | 27 | Cappie Pondexter | 464 |
-| 28 | **Allisha Gray** 🔴 | 458 |
+| 28 | **Allisha Gray** 🔴 +1 | 459 |
 | 29 | Ariel Atkins | 455 |
 | 30 | Tiffany Hayes | 454 |
 | 31 | Chelsea Gray | 450 |
