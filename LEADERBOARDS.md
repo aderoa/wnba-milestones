@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-31 02:52 UTC_
+_Last updated: 2026-07-31 02:53 UTC_
 
 ## Contents
 
@@ -33,7 +33,7 @@ _Last updated: 2026-07-31 02:52 UTC_
 | 12 | Sylvia Fowles | 6,413 |
 | 13 | **Breanna Stewart** 🔴 +11 | 6,346 |
 | 14 | Lisa Leslie | 6,251 |
-| 15 | **A'ja Wilson** 🔴 +6 | 6,184 |
+| 15 | **A'ja Wilson** 🔴 +8 | 6,186 |
 | 16 | **Jewell Loyd** 🔴 +3 | 6,151 |
 | 17 | Brittney Griner | 6,087 |
 | 18 | Lauren Jackson | 6,005 |
@@ -237,7 +237,7 @@ _Last updated: 2026-07-31 02:52 UTC_
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | Alyssa Thomas | 2,858 |
 | 13 | **Jonquel Jones** 🔴 +2 | 2,730 |
-| 14 | **A'ja Wilson** 🔴 +5 | 2,662 |
+| 14 | **A'ja Wilson** 🔴 +6 | 2,663 |
 | 15 | **Breanna Stewart** 🔴 +6 | 2,638 |
 | 16 | Sancho Lyttle | 2,596 |
 | 17 | Brittney Griner | 2,579 |
@@ -329,7 +329,7 @@ _Last updated: 2026-07-31 02:52 UTC_
 | 103 | Latasha Byears | 1,190 |
 | 103 | Tanisha Wright | 1,190 |
 | 105 | Vicky Bullett | 1,189 |
-| 106 | **NaLyssa Smith** 🔴 +2 | 1,174 |
+| 106 | **NaLyssa Smith** 🔴 +3 | 1,175 |
 | 107 | Brittney Sykes | 1,162 |
 | 108 | Nykesha Sales | 1,148 |
 | 109 | Shannon Johnson | 1,143 |
@@ -959,9 +959,9 @@ _Last updated: 2026-07-31 02:52 UTC_
 | 115 | Anna DeForge | 266 |
 | 116 | Brionna Jones | 265 |
 | 117 | Michelle Snow | 262 |
+| 118 | **Jonquel Jones** 🔴 +1 | 261 |
 | 118 | Karima Christmas-Kelly | 261 |
-| 119 | **Jonquel Jones** 🔴 | 260 |
-| 119 | Riquna Williams | 260 |
+| 120 | Riquna Williams | 260 |
 | 121 | Noelle Quinn | 256 |
 | 122 | Elaine Powell | 255 |
 | 122 | Loree Moore | 255 |
@@ -1272,7 +1272,7 @@ _Last updated: 2026-07-31 02:52 UTC_
 | 18 | Cappie Pondexter | 945 |
 | 19 | Katie Smith | 935 |
 | 20 | Shannon Johnson | 934 |
-| 21 | **Chelsea Gray** 🔴 +1 | 928 |
+| 21 | **Chelsea Gray** 🔴 +2 | 929 |
 | 22 | Skylar Diggins | 907 |
 | 23 | Taj McWilliams-Franklin | 898 |
 | 24 | Candice Dupree | 869 |
