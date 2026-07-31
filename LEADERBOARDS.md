@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-31 04:09 UTC_
+_Last updated: 2026-07-31 04:10 UTC_
 
 ## Contents
 
@@ -1345,8 +1345,8 @@ _Last updated: 2026-07-31 04:09 UTC_
 | 90 | Matee Ajavon | 544 |
 | 91 | Adrienne Goodson | 542 |
 | 92 | Marina Mabrey | 540 |
-| 93 | **Sabrina Ionescu** 🔴 +4 | 537 |
-| 94 | Layshia Clarendon | 536 |
+| 93 | Layshia Clarendon | 536 |
+| 93 | **Sabrina Ionescu** 🔴 +3 | 536 |
 | 95 | Ivory Latta | 534 |
 | 95 | Iziane Castro Marques | 534 |
 | 97 | Mwadi Mabika | 532 |
