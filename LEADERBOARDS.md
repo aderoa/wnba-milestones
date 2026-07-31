@@ -33,7 +33,7 @@ _Last updated: 2026-07-31 02:22 UTC_
 | 12 | Sylvia Fowles | 6,413 |
 | 13 | **Breanna Stewart** 🔴 +2 | 6,337 |
 | 14 | Lisa Leslie | 6,251 |
-| 15 | **A'ja Wilson** 🔴 +3 | 6,181 |
+| 15 | **A'ja Wilson** 🔴 +4 | 6,182 |
 | 16 | **Jewell Loyd** 🔴 | 6,148 |
 | 17 | Brittney Griner | 6,087 |
 | 18 | Lauren Jackson | 6,005 |
@@ -237,8 +237,8 @@ _Last updated: 2026-07-31 02:22 UTC_
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | Alyssa Thomas | 2,858 |
 | 13 | **Jonquel Jones** 🔴 | 2,728 |
-| 14 | **A'ja Wilson** 🔴 +2 | 2,659 |
-| 15 | **Breanna Stewart** 🔴 +1 | 2,633 |
+| 14 | **A'ja Wilson** 🔴 +3 | 2,660 |
+| 15 | **Breanna Stewart** 🔴 +2 | 2,634 |
 | 16 | Sancho Lyttle | 2,596 |
 | 17 | Brittney Griner | 2,579 |
 | 18 | DeLisha Milton-Jones | 2,574 |
@@ -319,7 +319,7 @@ _Last updated: 2026-07-31 02:22 UTC_
 | 93 | **Chelsea Gray** 🔴 | 1,257 |
 | 93 | Tiffany Hayes | 1,257 |
 | 95 | Kayla McBride | 1,256 |
-| 96 | **Brianna Turner** 🔴 +1 | 1,244 |
+| 96 | **Brianna Turner** 🔴 +2 | 1,245 |
 | 97 | Ezi Magbegor | 1,243 |
 | 98 | Seimone Augustus | 1,228 |
 | 99 | Jia Perkins | 1,220 |
