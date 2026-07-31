@@ -31,7 +31,7 @@ _Last updated: 2026-07-31 03:47 UTC_
 | 10 | Candace Parker | 6,574 |
 | 11 | Katie Smith | 6,450 |
 | 12 | Sylvia Fowles | 6,413 |
-| 13 | **Breanna Stewart** 🔴 +20 | 6,355 |
+| 13 | **Breanna Stewart** 🔴 +24 | 6,359 |
 | 14 | Lisa Leslie | 6,251 |
 | 15 | **A'ja Wilson** 🔴 +30 | 6,208 |
 | 16 | **Jewell Loyd** 🔴 +6 | 6,154 |
@@ -58,7 +58,7 @@ _Last updated: 2026-07-31 03:47 UTC_
 | 37 | Chamique Holdsclaw | 4,713 |
 | 38 | Elena Delle Donne | 4,706 |
 | 39 | Natasha Howard | 4,691 |
-| 40 | **Chelsea Gray** 🔴 +9 | 4,634 |
+| 40 | **Chelsea Gray** 🔴 +11 | 4,636 |
 | 41 | Penny Taylor | 4,595 |
 | 42 | Kelsey Plum | 4,494 |
 | 43 | Allisha Gray | 4,491 |
