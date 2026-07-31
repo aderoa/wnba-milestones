@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-31 01:13 UTC_
+_Last updated: 2026-07-31 01:14 UTC_
 
 ## Contents
 
@@ -928,8 +928,8 @@ _Last updated: 2026-07-31 01:13 UTC_
 | 83 | **Courtney Williams** 🔴 | 329 |
 | 83 | Kristi Toliver | 329 |
 | 85 | Matee Ajavon | 328 |
-| 86 | Gabby Williams | 326 |
-| 86 | **Napheesa Collier** 🔴 +1 | 326 |
+| 86 | **Napheesa Collier** 🔴 +2 | 327 |
+| 87 | Gabby Williams | 326 |
 | 88 | Betty Lennox | 323 |
 | 89 | Tammy Sutton-Brown | 319 |
 | 90 | Alysha Clark | 317 |
@@ -1390,9 +1390,9 @@ _Last updated: 2026-07-31 01:13 UTC_
 | 134 | Nicole Ohlde | 434 |
 | 136 | Murriel Page | 432 |
 | 137 | Shameka Christon | 424 |
-| 138 | Cynthia Cooper | 422 |
-| 138 | **Napheesa Collier** 🔴 | 422 |
-| 138 | Noelle Quinn | 422 |
+| 138 | **Napheesa Collier** 🔴 +1 | 423 |
+| 139 | Cynthia Cooper | 422 |
+| 139 | Noelle Quinn | 422 |
 | 141 | Bria Hartley | 419 |
 | 142 | Sami Whitcomb | 416 |
 | 143 | Coco Miller | 410 |
