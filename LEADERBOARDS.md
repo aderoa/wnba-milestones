@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-31 02:19 UTC_
+_Last updated: 2026-07-31 02:20 UTC_
 
 ## Contents
 
@@ -435,7 +435,7 @@ _Last updated: 2026-07-31 02:19 UTC_
 | 3 | Ticha Penicheiro | 2,588 |
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
-| 6 | **Chelsea Gray** 🔴 +1 | 2,004 |
+| 6 | **Chelsea Gray** 🔴 +2 | 2,005 |
 | 7 | Alyssa Thomas | 1,971 |
 | 8 | Skylar Diggins | 1,852 |
 | 9 | Natasha Cloud | 1,807 |
@@ -607,7 +607,7 @@ _Last updated: 2026-07-31 02:19 UTC_
 | 174 | Tamicha Jackson | 389 |
 | 176 | Riquna Williams | 387 |
 | 177 | Bridget Carleton | 384 |
-| 178 | Dana Evans | 379 |
+| 178 | **Dana Evans** 🔴 | 379 |
 | 179 | Jessica Breland | 377 |
 | 180 | Shenise Johnson | 376 |
 | 181 | Alanna Smith | 374 |
@@ -1184,7 +1184,7 @@ _Last updated: 2026-07-31 02:19 UTC_
 | 133 | Ukari Figgs | 162 |
 | 135 | Edna Campbell | 161 |
 | 135 | **Stephanie Talbot** 🔴 +1 | 161 |
-| 137 | Dana Evans | 160 |
+| 137 | **Dana Evans** 🔴 | 160 |
 | 137 | Jennifer Lacy | 160 |
 | 139 | Aari McDonald | 158 |
 | 139 | Jennifer Azzi | 158 |
