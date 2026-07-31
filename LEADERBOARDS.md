@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-31 00:32 UTC_
+_Last updated: 2026-07-31 00:33 UTC_
 
 ## Contents
 
@@ -1451,8 +1451,8 @@ _Last updated: 2026-07-31 00:32 UTC_
 | 196 | Crystal Robinson | 299 |
 | 197 | Kayla Thornton | 298 |
 | 198 | Michele Timms | 297 |
-| 199 | Damiris Dantas | 289 |
-| 199 | **Nia Coffey** 🔴 | 289 |
+| 199 | **Nia Coffey** 🔴 +1 | 290 |
+| 200 | Damiris Dantas | 289 |
 
 ## Personal fouls
 
@@ -1635,8 +1635,8 @@ _Last updated: 2026-07-31 00:32 UTC_
 | 175 | Adrian Williams-Strong | 497 |
 | 175 | Essence Carson | 497 |
 | 175 | Rachel Banham | 497 |
-| 178 | Azurá Stevens | 495 |
-| 178 | **Nia Coffey** 🔴 | 495 |
+| 178 | **Nia Coffey** 🔴 +1 | 496 |
+| 179 | Azurá Stevens | 495 |
 | 180 | Karima Christmas-Kelly | 494 |
 | 181 | Ann Wauters | 493 |
 | 181 | Riquna Williams | 493 |
