@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-31 01:18 UTC_
+_Last updated: 2026-07-31 01:19 UTC_
 
 ## Contents
 
@@ -67,7 +67,7 @@ _Last updated: 2026-07-31 01:18 UTC_
 | 46 | Crystal Langhorne | 4,433 |
 | 46 | Jia Perkins | 4,433 |
 | 48 | **Courtney Vandersloot** 🔴 +4 | 4,366 |
-| 49 | **Courtney Williams** 🔴 +11 | 4,361 |
+| 49 | **Courtney Williams** 🔴 +13 | 4,363 |
 | 50 | Jonquel Jones | 4,353 |
 | 51 | Dearica Hamby | 4,330 |
 | 52 | Sophia Young-Malcolm | 4,300 |
@@ -104,7 +104,7 @@ _Last updated: 2026-07-31 01:18 UTC_
 | 83 | Sheri Sam | 3,353 |
 | 84 | Andrea Stinson | 3,351 |
 | 85 | Tanisha Wright | 3,324 |
-| 86 | **Marina Mabrey** 🔴 +13 | 3,262 |
+| 86 | **Marina Mabrey** 🔴 +16 | 3,265 |
 | 87 | Stefanie Dolson | 3,217 |
 | 88 | Margo Dydek | 3,214 |
 | 89 | Erica Wheeler | 3,195 |
@@ -719,8 +719,8 @@ _Last updated: 2026-07-31 01:18 UTC_
 | 82 | Chamique Holdsclaw | 143 |
 | 83 | Shavonte Zellous | 139 |
 | 84 | Brittney Sykes | 136 |
+| 84 | **Olivia Nelson-Ododa** 🔴 +3 | 136 |
 | 84 | Penny Taylor | 136 |
-| 86 | **Olivia Nelson-Ododa** 🔴 +2 | 135 |
 | 87 | Monique Billings | 134 |
 | 88 | Devereaux Peters | 133 |
 | 88 | Nicky Anosike | 133 |
@@ -1070,7 +1070,7 @@ _Last updated: 2026-07-31 01:18 UTC_
 | 20 | Sami Whitcomb | 511 |
 | 21 | Allie Quigley | 510 |
 | 22 | Leilani Mitchell | 508 |
-| 23 | **Marina Mabrey** 🔴 +1 | 501 |
+| 23 | **Marina Mabrey** 🔴 +2 | 502 |
 | 24 | Sabrina Ionescu | 468 |
 | 24 | Shekinna Stricklen | 468 |
 | 26 | Breanna Stewart | 465 |
@@ -1531,9 +1531,9 @@ _Last updated: 2026-07-31 01:18 UTC_
 | 70 | Vickie Johnson | 752 |
 | 72 | Kara Braxton | 748 |
 | 73 | Crystal Langhorne | 737 |
+| 74 | **Elizabeth Williams** 🔴 +2 | 734 |
 | 74 | Shameka Christon | 734 |
-| 75 | Becky Hammon | 733 |
-| 75 | **Elizabeth Williams** 🔴 +1 | 733 |
+| 76 | Becky Hammon | 733 |
 | 77 | Ariel Atkins | 730 |
 | 77 | Latasha Byears | 730 |
 | 79 | Kristi Toliver | 722 |
