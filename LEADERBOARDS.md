@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-31 00:46 UTC_
+_Last updated: 2026-07-31 00:47 UTC_
 
 ## Contents
 
@@ -57,7 +57,7 @@ _Last updated: 2026-07-31 00:46 UTC_
 | 36 | Arike Ogunbowale | 4,715 |
 | 37 | Chamique Holdsclaw | 4,713 |
 | 38 | Elena Delle Donne | 4,706 |
-| 39 | **Natasha Howard** 🔴 +2 | 4,684 |
+| 39 | **Natasha Howard** 🔴 +4 | 4,686 |
 | 40 | Chelsea Gray | 4,625 |
 | 41 | Penny Taylor | 4,595 |
 | 42 | Kelsey Plum | 4,494 |
@@ -104,7 +104,7 @@ _Last updated: 2026-07-31 00:46 UTC_
 | 83 | Sheri Sam | 3,353 |
 | 84 | Andrea Stinson | 3,351 |
 | 85 | Tanisha Wright | 3,324 |
-| 86 | **Marina Mabrey** 🔴 +8 | 3,257 |
+| 86 | **Marina Mabrey** 🔴 +11 | 3,260 |
 | 87 | Stefanie Dolson | 3,217 |
 | 88 | Margo Dydek | 3,214 |
 | 89 | Erica Wheeler | 3,195 |
@@ -1070,7 +1070,7 @@ _Last updated: 2026-07-31 00:46 UTC_
 | 20 | Sami Whitcomb | 511 |
 | 21 | Allie Quigley | 510 |
 | 22 | Leilani Mitchell | 508 |
-| 23 | **Marina Mabrey** 🔴 | 500 |
+| 23 | **Marina Mabrey** 🔴 +1 | 501 |
 | 24 | Sabrina Ionescu | 468 |
 | 24 | Shekinna Stricklen | 468 |
 | 26 | Breanna Stewart | 465 |
