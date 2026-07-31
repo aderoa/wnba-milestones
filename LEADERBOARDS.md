@@ -83,7 +83,7 @@ _Last updated: 2026-07-31 04:09 UTC_
 | 62 | Allie Quigley | 3,786 |
 | 63 | Chasity Melvin | 3,781 |
 | 64 | Brittney Sykes | 3,726 |
-| 65 | **Jackie Young** 🔴 +26 | 3,724 |
+| 65 | **Jackie Young** 🔴 +27 | 3,725 |
 | 66 | Kara Lawson | 3,670 |
 | 67 | Mwadi Mabika | 3,576 |
 | 68 | Odyssey Sims | 3,574 |
