@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-31 02:12 UTC_
+_Last updated: 2026-07-31 02:14 UTC_
 
 ## Contents
 
@@ -115,7 +115,7 @@ _Last updated: 2026-07-31 02:12 UTC_
 | 94 | Briann January | 3,082 |
 | 95 | Erika de Souza | 3,046 |
 | 96 | Shameka Christon | 3,039 |
-| 97 | **Natasha Cloud** 🔴 +9 | 3,027 |
+| 97 | **Natasha Cloud** 🔴 +11 | 3,029 |
 | 98 | Marie Ferdinand-Harris | 3,001 |
 | 99 | Emma Meesseman | 2,966 |
 | 100 | **Elizabeth Williams** 🔴 +4 | 2,937 |
@@ -870,7 +870,7 @@ _Last updated: 2026-07-31 02:12 UTC_
 | 25 | Becky Hammon | 485 |
 | 26 | Penny Taylor | 479 |
 | 27 | Sophia Young-Malcolm | 477 |
-| 28 | Natasha Howard | 470 |
+| 28 | Natasha Howard | 469 |
 | 29 | Skylar Diggins | 463 |
 | 29 | Teresa Weatherspoon | 463 |
 | 31 | Jewell Loyd | 458 |
