@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-31 01:35 UTC_
+_Last updated: 2026-07-31 01:36 UTC_
 
 ## Contents
 
@@ -284,8 +284,8 @@ _Last updated: 2026-07-31 01:35 UTC_
 | 58 | Katie Douglas | 1,562 |
 | 59 | Angel McCoughtry | 1,561 |
 | 60 | Penny Taylor | 1,552 |
-| 61 | Cappie Pondexter | 1,513 |
-| 61 | **Napheesa Collier** 🔴 +3 | 1,513 |
+| 61 | **Napheesa Collier** 🔴 +5 | 1,515 |
+| 62 | Cappie Pondexter | 1,513 |
 | 63 | Ticha Penicheiro | 1,485 |
 | 64 | Alysha Clark | 1,469 |
 | 65 | Sue Bird | 1,466 |
@@ -297,7 +297,7 @@ _Last updated: 2026-07-31 01:35 UTC_
 | 71 | Nakia Sanford | 1,419 |
 | 72 | Kayla Thornton | 1,408 |
 | 73 | Allisha Gray | 1,404 |
-| 74 | **Courtney Vandersloot** 🔴 +3 | 1,389 |
+| 74 | **Courtney Vandersloot** 🔴 +4 | 1,390 |
 | 75 | Kara Braxton | 1,387 |
 | 76 | Katie Smith | 1,383 |
 | 77 | Ebony Hoffman | 1,376 |
@@ -575,10 +575,10 @@ _Last updated: 2026-07-31 01:35 UTC_
 | 143 | Sydney Colson | 454 |
 | 144 | Yolanda Griffith | 451 |
 | 145 | Elena Delle Donne | 450 |
+| 145 | **Julie Allemand** 🔴 +6 | 450 |
 | 145 | Kristi Harrower | 450 |
 | 145 | Nikki McCray | 450 |
-| 148 | **Julie Allemand** 🔴 +5 | 449 |
-| 148 | Ruth Riley | 449 |
+| 149 | Ruth Riley | 449 |
 | 150 | DeMya Walker | 446 |
 | 151 | Essence Carson | 445 |
 | 152 | Michelle Snow | 437 |
@@ -673,7 +673,7 @@ _Last updated: 2026-07-31 01:35 UTC_
 | 36 | Cheyenne Parker-Tyus | 261 |
 | 37 | Swin Cash | 258 |
 | 38 | Plenette Pierson | 242 |
-| 39 | **Napheesa Collier** 🔴 +1 | 240 |
+| 39 | **Napheesa Collier** 🔴 +2 | 241 |
 | 40 | Emma Meesseman | 238 |
 | 41 | Azurá Stevens | 236 |
 | 42 | Brianna Turner | 234 |
