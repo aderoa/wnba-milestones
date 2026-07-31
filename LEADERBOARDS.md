@@ -423,8 +423,7 @@ _Last updated: 2026-07-31 02:30 UTC_
 | 197 | Olympia Scott | 711 |
 | 198 | Katie Mattera | 708 |
 | 199 | Rushia Brown | 706 |
-| 200 | Allie Quigley | 702 |
-| 200 | **Rebecca Allen** 🔴 | 702 |
+| 200 | **Rebecca Allen** 🔴 +1 | 703 |
 
 ## Assists
 
@@ -1497,8 +1496,8 @@ _Last updated: 2026-07-31 02:30 UTC_
 | 37 | Tamika Whitmore | 940 |
 | 38 | DeWanna Bonner | 922 |
 | 39 | Briann January | 921 |
-| 40 | **Jonquel Jones** 🔴 | 913 |
-| 40 | Ticha Penicheiro | 913 |
+| 40 | **Jonquel Jones** 🔴 +1 | 914 |
+| 41 | Ticha Penicheiro | 913 |
 | 42 | Shavonte Zellous | 907 |
 | 43 | Alysha Clark | 905 |
 | 44 | DeMya Walker | 882 |
