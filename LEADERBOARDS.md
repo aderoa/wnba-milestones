@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-31 03:55 UTC_
+_Last updated: 2026-07-31 03:56 UTC_
 
 ## Contents
 
@@ -236,8 +236,8 @@ _Last updated: 2026-07-31 03:55 UTC_
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | Alyssa Thomas | 2,858 |
-| 13 | **Jonquel Jones** 🔴 +4 | 2,732 |
-| 14 | **A'ja Wilson** 🔴 +9 | 2,666 |
+| 13 | **Jonquel Jones** 🔴 +5 | 2,733 |
+| 14 | **A'ja Wilson** 🔴 +10 | 2,667 |
 | 15 | **Breanna Stewart** 🔴 +11 | 2,643 |
 | 16 | Sancho Lyttle | 2,596 |
 | 17 | Brittney Griner | 2,579 |
@@ -879,9 +879,9 @@ _Last updated: 2026-07-31 03:55 UTC_
 | 35 | Tina Thompson | 452 |
 | 36 | Maya Moore | 449 |
 | 37 | Kayla McBride | 448 |
+| 38 | **Breanna Stewart** 🔴 +3 | 438 |
 | 38 | Sheri Sam | 438 |
-| 39 | **Breanna Stewart** 🔴 +2 | 437 |
-| 39 | Camille Smith | 437 |
+| 40 | Camille Smith | 437 |
 | 41 | Candice Dupree | 431 |
 | 42 | Epiphanny Prince | 429 |
 | 43 | Tanisha Wright | 427 |
@@ -1366,7 +1366,7 @@ _Last updated: 2026-07-31 03:55 UTC_
 | 111 | Nikki Teasley | 493 |
 | 111 | Tari Phillips | 493 |
 | 113 | Janel McCarville | 491 |
-| 114 | **A'ja Wilson** 🔴 +1 | 489 |
+| 114 | **A'ja Wilson** 🔴 +2 | 490 |
 | 115 | Erika de Souza | 483 |
 | 116 | Sophia Young-Malcolm | 482 |
 | 117 | Natalie Williams | 480 |
@@ -1596,7 +1596,7 @@ _Last updated: 2026-07-31 03:55 UTC_
 | 136 | Ivory Latta | 565 |
 | 137 | Barbara Farris | 563 |
 | 138 | Jessica Breland | 562 |
-| 139 | **A'ja Wilson** 🔴 | 554 |
+| 139 | **A'ja Wilson** 🔴 +1 | 555 |
 | 140 | Dawn Staley | 551 |
 | 141 | Glory Johnson | 550 |
 | 141 | Tierra Ruffin-Pratt | 550 |
