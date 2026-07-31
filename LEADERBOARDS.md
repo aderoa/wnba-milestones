@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-31 23:54 UTC_
+_Last updated: 2026-07-31 23:55 UTC_
 
 ## Contents
 
@@ -1351,7 +1351,7 @@ _Last updated: 2026-07-31 23:54 UTC_
 | 96 | Sabrina Ionescu | 533 |
 | 97 | Mwadi Mabika | 532 |
 | 98 | Nakia Sanford | 531 |
-| 99 | **Arike Ogunbowale** 🔴 | 529 |
+| 99 | **Arike Ogunbowale** 🔴 +1 | 530 |
 | 100 | **Jordin Canada** 🔴 +1 | 528 |
 | 101 | Maya Moore | 527 |
 | 102 | Kara Lawson | 526 |
