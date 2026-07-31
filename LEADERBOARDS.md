@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-31 00:17 UTC_
+_Last updated: 2026-07-31 00:18 UTC_
 
 ## Contents
 
@@ -57,7 +57,7 @@ _Last updated: 2026-07-31 00:17 UTC_
 | 36 | Arike Ogunbowale | 4,715 |
 | 37 | Chamique Holdsclaw | 4,713 |
 | 38 | Elena Delle Donne | 4,706 |
-| 39 | **Natasha Howard** 🔴 | 4,682 |
+| 39 | **Natasha Howard** 🔴 +2 | 4,684 |
 | 40 | Chelsea Gray | 4,625 |
 | 41 | Penny Taylor | 4,595 |
 | 42 | Kelsey Plum | 4,494 |
@@ -444,7 +444,7 @@ _Last updated: 2026-07-31 00:17 UTC_
 | 12 | Cappie Pondexter | 1,575 |
 | 13 | Tamika Catchings | 1,484 |
 | 14 | Danielle Robinson | 1,480 |
-| 15 | **Courtney Williams** 🔴 | 1,438 |
+| 15 | **Courtney Williams** 🔴 +1 | 1,439 |
 | 16 | Shannon Johnson | 1,423 |
 | 16 | Tanisha Wright | 1,423 |
 | 18 | Temeka Johnson | 1,382 |
@@ -580,7 +580,7 @@ _Last updated: 2026-07-31 00:17 UTC_
 | 148 | Ruth Riley | 449 |
 | 149 | DeMya Walker | 446 |
 | 150 | Essence Carson | 445 |
-| 151 | **Julie Allemand** 🔴 | 444 |
+| 150 | **Julie Allemand** 🔴 +1 | 445 |
 | 152 | Michelle Snow | 437 |
 | 153 | Jessica Shepard | 436 |
 | 154 | Lauren Jackson | 435 |
