@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-31 01:17 UTC_
+_Last updated: 2026-07-31 01:18 UTC_
 
 ## Contents
 
@@ -41,7 +41,7 @@ _Last updated: 2026-07-31 01:17 UTC_
 | 20 | Becky Hammon | 5,816 |
 | 21 | Angel McCoughtry | 5,797 |
 | 22 | Skylar Diggins | 5,732 |
-| 23 | **Kayla McBride** 🔴 +11 | 5,661 |
+| 23 | **Kayla McBride** 🔴 +13 | 5,663 |
 | 24 | DeLisha Milton-Jones | 5,571 |
 | 25 | Katie Douglas | 5,545 |
 | 26 | Lindsay Whalen | 5,511 |
@@ -879,7 +879,7 @@ _Last updated: 2026-07-31 01:17 UTC_
 | 34 | Tangela Smith | 455 |
 | 35 | Tina Thompson | 452 |
 | 36 | Maya Moore | 449 |
-| 37 | **Kayla McBride** 🔴 +1 | 447 |
+| 37 | **Kayla McBride** 🔴 +2 | 448 |
 | 38 | Sheri Sam | 438 |
 | 39 | Camille Smith | 437 |
 | 40 | Breanna Stewart | 435 |
@@ -928,8 +928,8 @@ _Last updated: 2026-07-31 01:17 UTC_
 | 83 | **Courtney Williams** 🔴 | 329 |
 | 83 | Kristi Toliver | 329 |
 | 85 | Matee Ajavon | 328 |
-| 86 | **Napheesa Collier** 🔴 +2 | 327 |
-| 87 | Gabby Williams | 326 |
+| 86 | Gabby Williams | 326 |
+| 86 | **Napheesa Collier** 🔴 +1 | 326 |
 | 88 | Betty Lennox | 323 |
 | 89 | Tammy Sutton-Brown | 319 |
 | 90 | Alysha Clark | 317 |
