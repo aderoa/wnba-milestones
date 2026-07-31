@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-31 02:39 UTC_
+_Last updated: 2026-07-31 02:40 UTC_
 
 ## Contents
 
@@ -31,9 +31,9 @@ _Last updated: 2026-07-31 02:39 UTC_
 | 10 | Candace Parker | 6,574 |
 | 11 | Katie Smith | 6,450 |
 | 12 | Sylvia Fowles | 6,413 |
-| 13 | **Breanna Stewart** 🔴 +6 | 6,341 |
+| 13 | **Breanna Stewart** 🔴 +8 | 6,343 |
 | 14 | Lisa Leslie | 6,251 |
-| 15 | **A'ja Wilson** 🔴 +4 | 6,182 |
+| 15 | **A'ja Wilson** 🔴 +6 | 6,184 |
 | 16 | **Jewell Loyd** 🔴 | 6,148 |
 | 17 | Brittney Griner | 6,087 |
 | 18 | Lauren Jackson | 6,005 |
@@ -217,7 +217,7 @@ _Last updated: 2026-07-31 02:39 UTC_
 | 196 | Janell Burse | 1,580 |
 | 197 | Le'coe Willingham | 1,552 |
 | 198 | Shatori Walker-Kimbrough | 1,544 |
-| 199 | **Rebecca Allen** 🔴 +8 | 1,537 |
+| 199 | **Rebecca Allen** 🔴 +10 | 1,539 |
 | 200 | Jennifer Lacy | 1,504 |
 
 ## Rebounds
@@ -238,7 +238,7 @@ _Last updated: 2026-07-31 02:39 UTC_
 | 12 | Alyssa Thomas | 2,858 |
 | 13 | **Jonquel Jones** 🔴 +2 | 2,730 |
 | 14 | **A'ja Wilson** 🔴 +3 | 2,660 |
-| 15 | **Breanna Stewart** 🔴 +2 | 2,634 |
+| 15 | **Breanna Stewart** 🔴 +3 | 2,635 |
 | 16 | Sancho Lyttle | 2,596 |
 | 17 | Brittney Griner | 2,579 |
 | 18 | DeLisha Milton-Jones | 2,574 |
@@ -522,7 +522,7 @@ _Last updated: 2026-07-31 02:39 UTC_
 | 91 | Lindsay Allen | 657 |
 | 92 | Betty Lennox | 651 |
 | 92 | Plenette Pierson | 651 |
-| 94 | **Jonquel Jones** 🔴 +2 | 649 |
+| 94 | **Jonquel Jones** 🔴 +3 | 650 |
 | 95 | Alex Bentley | 645 |
 | 96 | Asjha Jones | 637 |
 | 97 | Jennifer Azzi | 636 |
