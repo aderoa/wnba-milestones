@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-07-31 00:06 UTC_
+_Last updated: 2026-07-31 00:07 UTC_
 
 ## Contents
 
@@ -41,7 +41,7 @@ _Last updated: 2026-07-31 00:06 UTC_
 | 20 | Becky Hammon | 5,816 |
 | 21 | Angel McCoughtry | 5,797 |
 | 22 | Skylar Diggins | 5,732 |
-| 23 | **Kayla McBride** 🔴 | 5,650 |
+| 23 | **Kayla McBride** 🔴 +2 | 5,652 |
 | 24 | DeLisha Milton-Jones | 5,571 |
 | 25 | Katie Douglas | 5,545 |
 | 26 | Lindsay Whalen | 5,511 |
@@ -66,7 +66,7 @@ _Last updated: 2026-07-31 00:06 UTC_
 | 45 | Kahleah Copper | 4,437 |
 | 46 | Crystal Langhorne | 4,433 |
 | 46 | Jia Perkins | 4,433 |
-| 48 | **Courtney Vandersloot** 🔴 | 4,362 |
+| 48 | **Courtney Vandersloot** 🔴 +2 | 4,364 |
 | 49 | Jonquel Jones | 4,353 |
 | 50 | **Courtney Williams** 🔴 | 4,350 |
 | 51 | Dearica Hamby | 4,330 |
@@ -411,8 +411,8 @@ _Last updated: 2026-07-31 00:06 UTC_
 | 183 | Tan White | 769 |
 | 186 | Tully Bevilaqua | 767 |
 | 187 | Layshia Clarendon | 756 |
-| 188 | Brooke Wyckoff | 751 |
-| 188 | **Kamilla Cardoso** 🔴 +1 | 751 |
+| 188 | **Kamilla Cardoso** 🔴 +2 | 752 |
+| 189 | Brooke Wyckoff | 751 |
 | 190 | Coco Miller | 750 |
 | 191 | Kelsey Plum | 741 |
 | 192 | Alex Montgomery | 735 |
@@ -529,7 +529,7 @@ _Last updated: 2026-07-31 00:06 UTC_
 | 97 | Jennifer Azzi | 636 |
 | 98 | Sami Whitcomb | 623 |
 | 99 | Alysha Clark | 619 |
-| 100 | **Natasha Howard** 🔴 | 615 |
+| 100 | **Natasha Howard** 🔴 +1 | 616 |
 | 101 | Debbie Black | 612 |
 | 102 | Cynthia Cooper | 602 |
 | 103 | Sancho Lyttle | 592 |
@@ -870,7 +870,7 @@ _Last updated: 2026-07-31 00:06 UTC_
 | 25 | Becky Hammon | 485 |
 | 26 | Penny Taylor | 479 |
 | 27 | Sophia Young-Malcolm | 477 |
-| 28 | **Natasha Howard** 🔴 | 467 |
+| 28 | **Natasha Howard** 🔴 +1 | 468 |
 | 29 | Skylar Diggins | 463 |
 | 29 | Teresa Weatherspoon | 463 |
 | 31 | Jewell Loyd | 458 |
