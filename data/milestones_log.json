@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-07-31T02:46:00+00:00",
+    "text": "Stephanie Talbot passed Edna Campbell for #135 all-time in three-pointers (career 162) \u2014 up from #138 entering today \u2014 (3:13 - 2nd \u2014 NY @ LV)",
+    "kind": "rank_pass",
+    "player": "Stephanie Talbot",
+    "stat": "three-pointers",
+    "rank": 135,
+    "passed_players": [
+      "Edna Campbell"
+    ],
+    "new_total": 162
+  },
+  {
     "ts": "2026-07-30T04:22:00+00:00",
     "text": "Kayla Thornton passed Maya Moore for #91 all-time in fouls (career 687) \u2014 up from #98 entering today \u2014 (1:27 - 4th \u2014 GS @ PHX)",
     "kind": "rank_pass",
@@ -2988,17 +3000,5 @@
       "Krystal Thomas"
     ],
     "new_total": 863
-  },
-  {
-    "ts": "2026-07-03T00:59:00+00:00",
-    "text": "Allisha Gray passed Kara Braxton for #75 all-time in blocks (career 158) \u2014 (3:02 - 3rd \u2014 ATL @ WSH)",
-    "kind": "rank_pass",
-    "player": "Allisha Gray",
-    "stat": "blocks",
-    "rank": 75,
-    "passed_players": [
-      "Kara Braxton"
-    ],
-    "new_total": 158
   }
 ]
