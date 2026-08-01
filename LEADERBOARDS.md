@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-01 02:12 UTC_
+_Last updated: 2026-08-01 02:13 UTC_
 
 ## Contents
 
@@ -200,7 +200,7 @@ _Last updated: 2026-08-01 02:12 UTC_
 | 179 | NaLyssa Smith | 1,879 |
 | 180 | Rachel Banham | 1,843 |
 | 181 | Damiris Dantas | 1,842 |
-| 182 | Sophie Cunningham | 1,829 |
+| 182 | **Sophie Cunningham** 🔴 | 1,829 |
 | 183 | Tianna Hawkins | 1,825 |
 | 184 | Noelle Quinn | 1,824 |
 | 185 | Danielle Adams | 1,820 |
@@ -1109,7 +1109,7 @@ _Last updated: 2026-08-01 02:12 UTC_
 | 59 | Deanna Nolan | 340 |
 | 60 | Erica Wheeler | 337 |
 | 61 | Anna DeForge | 334 |
-| 61 | Sophie Cunningham | 334 |
+| 61 | **Sophie Cunningham** 🔴 | 334 |
 | 63 | Natisha Hiedeman | 328 |
 | 64 | Sugar Rodgers | 317 |
 | 65 | Marissa Coleman | 315 |
@@ -1607,7 +1607,7 @@ _Last updated: 2026-08-01 02:12 UTC_
 | 146 | Kayla McBride | 543 |
 | 146 | Renee Montgomery | 543 |
 | 149 | Marissa Coleman | 541 |
-| 150 | Sophie Cunningham | 538 |
+| 150 | **Sophie Cunningham** 🔴 | 538 |
 | 151 | Myisha Hines-Allen | 535 |
 | 152 | Damiris Dantas | 533 |
 | 152 | Kristen Rasmussen | 533 |
