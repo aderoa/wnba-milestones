@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-01 17:39 UTC_
+_Last updated: 2026-08-01 17:40 UTC_
 
 ## Contents
 
@@ -237,7 +237,7 @@ _Last updated: 2026-08-01 17:39 UTC_
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | Alyssa Thomas | 2,858 |
 | 13 | Jonquel Jones | 2,728 |
-| 14 | **A'ja Wilson** 🔴 +2 | 2,659 |
+| 14 | **A'ja Wilson** 🔴 +3 | 2,660 |
 | 15 | Breanna Stewart | 2,632 |
 | 16 | Sancho Lyttle | 2,596 |
 | 17 | Brittney Griner | 2,579 |
@@ -910,9 +910,9 @@ _Last updated: 2026-08-01 17:39 UTC_
 | 64 | Tan White | 360 |
 | 66 | Vickie Johnson | 357 |
 | 67 | Dominique Canty | 356 |
+| 67 | **Natasha Cloud** 🔴 +1 | 356 |
 | 67 | Renee Montgomery | 356 |
-| 69 | **Natasha Cloud** 🔴 | 355 |
-| 69 | Tamecka Dixon | 355 |
+| 70 | Tamecka Dixon | 355 |
 | 71 | Arike Ogunbowale | 354 |
 | 72 | Vicky Bullett | 353 |
 | 73 | Svetlana Abrosimova | 352 |
@@ -1366,7 +1366,7 @@ _Last updated: 2026-08-01 17:39 UTC_
 | 111 | Nikki Teasley | 493 |
 | 111 | Tari Phillips | 493 |
 | 113 | Janel McCarville | 491 |
-| 114 | **A'ja Wilson** 🔴 +1 | 489 |
+| 114 | **A'ja Wilson** 🔴 +2 | 490 |
 | 115 | Erika de Souza | 483 |
 | 116 | Sophia Young-Malcolm | 482 |
 | 117 | Natalie Williams | 480 |
