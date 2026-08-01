@@ -238,7 +238,7 @@ _Last updated: 2026-08-01 20:34 UTC_
 | 12 | **Alyssa Thomas** 🔴 +4 | 2,862 |
 | 13 | **Jonquel Jones** 🔴 +6 | 2,734 |
 | 14 | A'ja Wilson | 2,669 |
-| 15 | **Breanna Stewart** 🔴 +9 | 2,641 |
+| 15 | **Breanna Stewart** 🔴 +10 | 2,642 |
 | 16 | Sancho Lyttle | 2,596 |
 | 17 | Brittney Griner | 2,579 |
 | 18 | DeLisha Milton-Jones | 2,574 |
