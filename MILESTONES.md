@@ -2,6 +2,11 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-08-01 01:38 UTC
+
+- **Ezi Magbegor** passed **Tamika Raymond** for **#195** all-time in steals (career 176) — up from #197 entering today — _57.5 - 4th — SEA @ ATL_
+- **Ezi Magbegor** passed **Chiney Ogwumike**, **Hamchetou Maiga-Ba**, and **Olympia Scott** for **#129** all-time in fouls (career 581) — up from #132 entering today — _57.5 - 4th — SEA @ ATL_
+
 ## 2026-08-01 01:31 UTC
 
 - **Alanna Smith** passed **Cathrine Kraayeveld** and **Kia Nurse** for **#185** all-time in fouls (career 485) — up from #190 entering today — _1:21 - 4th — DAL @ WSH_

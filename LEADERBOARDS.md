@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-01 01:36 UTC_
+_Last updated: 2026-08-01 01:38 UTC_
 
 ## Contents
 
@@ -179,7 +179,7 @@ _Last updated: 2026-08-01 01:36 UTC_
 | 158 | Aerial Powers | 2,068 |
 | 159 | Coco Miller | 2,030 |
 | 160 | Diamond DeShields | 2,026 |
-| 161 | **Natisha Hiedeman** 🔴 +20 | 2,022 |
+| 161 | **Natisha Hiedeman** 🔴 +22 | 2,024 |
 | 162 | Vicky Bullett | 2,018 |
 | 163 | **Ezi Magbegor** 🔴 +12 | 2,007 |
 | 164 | Bria Hartley | 1,967 |
@@ -625,9 +625,9 @@ _Last updated: 2026-08-01 01:36 UTC_
 | 193 | Sandy Brondello | 349 |
 | 194 | Ebony Hoffman | 347 |
 | 194 | Tamika Whitmore | 347 |
+| 196 | **Ezi Magbegor** 🔴 +1 | 345 |
 | 196 | Kristen Rasmussen | 345 |
 | 196 | Penny Toler | 345 |
-| 198 | **Ezi Magbegor** 🔴 | 344 |
 | 199 | Sonja Henning | 341 |
 | 200 | Alexis Hornbuckle | 336 |
 
@@ -1037,8 +1037,8 @@ _Last updated: 2026-08-01 01:36 UTC_
 | 192 | Bridget Pettis | 177 |
 | 193 | Brittany Boyd-Jones | 176 |
 | 193 | Chiney Ogwumike | 176 |
-| 195 | **Ezi Magbegor** 🔴 +1 | 175 |
-| 195 | Tamika Raymond | 175 |
+| 193 | **Ezi Magbegor** 🔴 +2 | 176 |
+| 196 | Tamika Raymond | 175 |
 | 197 | Elena Delle Donne | 174 |
 | 197 | Margo Dydek | 174 |
 | 199 | Bridget Carleton | 173 |
@@ -1586,10 +1586,10 @@ _Last updated: 2026-08-01 01:36 UTC_
 | 126 | Teresa Weatherspoon | 589 |
 | 127 | Emma Meesseman | 585 |
 | 128 | Courtney Williams | 583 |
-| 129 | Chiney Ogwumike | 580 |
-| 129 | **Ezi Magbegor** 🔴 +4 | 580 |
-| 129 | Hamchetou Maiga-Ba | 580 |
-| 129 | Olympia Scott | 580 |
+| 129 | **Ezi Magbegor** 🔴 +5 | 581 |
+| 130 | Chiney Ogwumike | 580 |
+| 130 | Hamchetou Maiga-Ba | 580 |
+| 130 | Olympia Scott | 580 |
 | 133 | Le'coe Willingham | 571 |
 | 134 | Ashley Robinson | 567 |
 | 135 | Marina Mabrey | 566 |
