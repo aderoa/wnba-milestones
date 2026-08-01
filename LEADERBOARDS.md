@@ -218,7 +218,7 @@ _Last updated: 2026-08-01 04:06 UTC_
 | 197 | Le'coe Willingham | 1,552 |
 | 198 | Shatori Walker-Kimbrough | 1,544 |
 | 199 | Rebecca Allen | 1,529 |
-| 200 | **Bridget Carleton** 🔴 +21 | 1,506 |
+| 200 | **Bridget Carleton** 🔴 +23 | 1,508 |
 
 ## Rebounds
 
@@ -1332,7 +1332,7 @@ _Last updated: 2026-08-01 04:06 UTC_
 | 77 | Kelly Miller | 596 |
 | 78 | Stefanie Dolson | 594 |
 | 79 | Brittney Sykes | 591 |
-| 80 | **Kelsey Mitchell** 🔴 +2 | 587 |
+| 80 | **Kelsey Mitchell** 🔴 +3 | 588 |
 | 81 | Breanna Stewart | 586 |
 | 82 | Helen Darling | 575 |
 | 82 | Nykesha Sales | 575 |
@@ -1568,8 +1568,8 @@ _Last updated: 2026-08-01 04:06 UTC_
 | 108 | Charlotte Smith | 638 |
 | 109 | Teaira McCowan | 637 |
 | 110 | Janell Burse | 632 |
+| 111 | **Kelsey Mitchell** 🔴 +2 | 631 |
 | 111 | Nicole Ohlde | 631 |
-| 112 | **Kelsey Mitchell** 🔴 +1 | 630 |
 | 113 | Jennifer Gillom | 629 |
 | 114 | Brionna Jones | 628 |
 | 114 | Deanna Nolan | 628 |
