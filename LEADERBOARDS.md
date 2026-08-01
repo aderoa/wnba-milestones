@@ -217,7 +217,7 @@ _Last updated: 2026-08-01 21:02 UTC_
 | 196 | Janell Burse | 1,580 |
 | 197 | Le'coe Willingham | 1,552 |
 | 198 | Shatori Walker-Kimbrough | 1,544 |
-| 199 | **Rebecca Allen** 🔴 +2 | 1,531 |
+| 199 | **Rebecca Allen** 🔴 +5 | 1,534 |
 | 200 | Jennifer Lacy | 1,504 |
 
 ## Rebounds
@@ -236,7 +236,7 @@ _Last updated: 2026-08-01 21:02 UTC_
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | **Alyssa Thomas** 🔴 +6 | 2,864 |
-| 13 | **Jonquel Jones** 🔴 +8 | 2,736 |
+| 13 | **Jonquel Jones** 🔴 +9 | 2,737 |
 | 14 | A'ja Wilson | 2,669 |
 | 15 | **Breanna Stewart** 🔴 +10 | 2,642 |
 | 16 | Sancho Lyttle | 2,596 |
@@ -464,7 +464,7 @@ _Last updated: 2026-08-01 21:02 UTC_
 | 33 | Jackie Young | 1,155 |
 | 34 | Renee Montgomery | 1,140 |
 | 35 | Swin Cash | 1,131 |
-| 36 | **Sabrina Ionescu** 🔴 +9 | 1,101 |
+| 36 | **Sabrina Ionescu** 🔴 +10 | 1,102 |
 | 37 | Lindsey Harding | 1,090 |
 | 38 | Katie Douglas | 1,069 |
 | 39 | Alana Beard | 1,061 |
@@ -1132,7 +1132,7 @@ _Last updated: 2026-08-01 21:02 UTC_
 | 83 | Iziane Castro Marques | 275 |
 | 84 | Sheryl Swoopes | 270 |
 | 85 | Sophia Witherspoon | 260 |
-| 86 | **Rebecca Allen** 🔴 | 255 |
+| 86 | **Rebecca Allen** 🔴 +1 | 256 |
 | 87 | Dawn Staley | 254 |
 | 88 | Bria Hartley | 253 |
 | 88 | Nneka Ogwumike | 253 |
@@ -1346,7 +1346,7 @@ _Last updated: 2026-08-01 21:02 UTC_
 | 91 | Adrienne Goodson | 542 |
 | 92 | Marina Mabrey | 537 |
 | 93 | Layshia Clarendon | 536 |
-| 94 | **Sabrina Ionescu** 🔴 +2 | 535 |
+| 93 | **Sabrina Ionescu** 🔴 +3 | 536 |
 | 95 | Ivory Latta | 534 |
 | 95 | Iziane Castro Marques | 534 |
 | 97 | Mwadi Mabika | 532 |
