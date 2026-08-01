@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-01 01:06 UTC_
+_Last updated: 2026-08-01 01:07 UTC_
 
 ## Contents
 
@@ -305,8 +305,8 @@ _Last updated: 2026-08-01 01:06 UTC_
 | 79 | Sheri Sam | 1,356 |
 | 80 | Tamika Whitmore | 1,355 |
 | 81 | Emma Meesseman | 1,350 |
-| 82 | **Brionna Jones** 🔴 +2 | 1,335 |
-| 82 | Elena Baranova | 1,335 |
+| 82 | **Brionna Jones** 🔴 +3 | 1,336 |
+| 83 | Elena Baranova | 1,335 |
 | 84 | Erlana Larkins | 1,329 |
 | 85 | Mwadi Mabika | 1,327 |
 | 86 | Jayne Appel Marinelli | 1,326 |
@@ -378,8 +378,8 @@ _Last updated: 2026-08-01 01:06 UTC_
 | 152 | Natalie Achonwa | 895 |
 | 153 | Temeka Johnson | 889 |
 | 154 | Mistie Bass | 888 |
+| 155 | **Alanna Smith** 🔴 +4 | 882 |
 | 155 | Erica Wheeler | 882 |
-| 156 | **Alanna Smith** 🔴 +3 | 881 |
 | 157 | Marina Mabrey | 874 |
 | 158 | Shameka Christon | 867 |
 | 159 | Krystal Thomas | 862 |
@@ -516,7 +516,7 @@ _Last updated: 2026-08-01 01:06 UTC_
 | 84 | Ariel Atkins | 682 |
 | 85 | Emma Meesseman | 681 |
 | 86 | Nykesha Sales | 677 |
-| 87 | **Natisha Hiedeman** 🔴 +3 | 671 |
+| 87 | **Natisha Hiedeman** 🔴 +4 | 672 |
 | 88 | A'ja Wilson | 667 |
 | 89 | Bria Hartley | 661 |
 | 90 | Brittney Griner | 660 |
@@ -679,8 +679,8 @@ _Last updated: 2026-08-01 01:06 UTC_
 | 42 | Brianna Turner | 234 |
 | 43 | Skylar Diggins | 231 |
 | 44 | Chasity Melvin | 228 |
-| 45 | **Alanna Smith** 🔴 | 225 |
-| 45 | Teaira McCowan | 225 |
+| 45 | **Alanna Smith** 🔴 +1 | 226 |
+| 46 | Teaira McCowan | 225 |
 | 47 | Sancho Lyttle | 221 |
 | 48 | Alana Beard | 220 |
 | 49 | Janell Burse | 216 |
@@ -748,7 +748,7 @@ _Last updated: 2026-08-01 01:06 UTC_
 | 110 | Crystal Langhorne | 117 |
 | 112 | Ariel Atkins | 115 |
 | 113 | Monique Currie | 114 |
-| 114 | **Rhyne Howard** 🔴 +1 | 112 |
+| 114 | **Rhyne Howard** 🔴 +2 | 113 |
 | 115 | Amanda Lassiter | 111 |
 | 115 | Kamila Vodichkova | 111 |
 | 115 | Sophia Young-Malcolm | 111 |
@@ -1190,10 +1190,10 @@ _Last updated: 2026-08-01 01:06 UTC_
 | 139 | Jennifer Azzi | 158 |
 | 139 | Natasha Howard | 158 |
 | 142 | **Alanna Smith** 🔴 +1 | 157 |
-| 143 | Bridget Pettis | 153 |
-| 143 | Gabby Williams | 153 |
-| 143 | Jennifer Gillom | 153 |
-| 143 | **Katie Lou Samuelson** 🔴 | 153 |
+| 143 | **Katie Lou Samuelson** 🔴 +1 | 154 |
+| 144 | Bridget Pettis | 153 |
+| 144 | Gabby Williams | 153 |
+| 144 | Jennifer Gillom | 153 |
 | 147 | **Michaela Onyenwere** 🔴 +1 | 152 |
 | 148 | Rita Williams | 150 |
 | 149 | Moriah Jefferson | 149 |
