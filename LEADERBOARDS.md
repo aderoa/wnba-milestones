@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-01 17:08 UTC_
+_Last updated: 2026-08-01 17:09 UTC_
 
 ## Contents
 
@@ -115,7 +115,7 @@ _Last updated: 2026-08-01 17:08 UTC_
 | 94 | Briann January | 3,082 |
 | 95 | Erika de Souza | 3,046 |
 | 96 | Shameka Christon | 3,039 |
-| 97 | **Natasha Cloud** 🔴 | 3,018 |
+| 97 | **Natasha Cloud** 🔴 +2 | 3,020 |
 | 98 | Marie Ferdinand-Harris | 3,001 |
 | 99 | Emma Meesseman | 2,966 |
 | 100 | Elizabeth Williams | 2,933 |
@@ -431,7 +431,7 @@ _Last updated: 2026-08-01 17:08 UTC_
 | Rank | Player | Total |
 |-----:|--------|------:|
 | 1 | Sue Bird | 3,234 |
-| 2 | **Courtney Vandersloot** 🔴 +1 | 2,895 |
+| 2 | **Courtney Vandersloot** 🔴 +2 | 2,896 |
 | 3 | Ticha Penicheiro | 2,588 |
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
@@ -768,9 +768,9 @@ _Last updated: 2026-08-01 17:08 UTC_
 | 131 | Chante Black | 100 |
 | 131 | Danielle Adams | 100 |
 | 131 | Nicole Powell | 100 |
-| 134 | Mwadi Mabika | 98 |
-| 134 | **NaLyssa Smith** 🔴 | 98 |
-| 134 | Natalie Achonwa | 98 |
+| 134 | **NaLyssa Smith** 🔴 +1 | 99 |
+| 135 | Mwadi Mabika | 98 |
+| 135 | Natalie Achonwa | 98 |
 | 137 | Aneika Morello | 96 |
 | 137 | Tiffani Johnson | 96 |
 | 139 | Imani McGee-Stafford | 95 |
@@ -1492,9 +1492,9 @@ _Last updated: 2026-08-01 17:08 UTC_
 | 32 | Asjha Jones | 971 |
 | 33 | Margo Dydek | 950 |
 | 34 | Sancho Lyttle | 947 |
+| 35 | **Courtney Vandersloot** 🔴 +1 | 941 |
 | 35 | Mwadi Mabika | 941 |
-| 36 | **Courtney Vandersloot** 🔴 | 940 |
-| 36 | Tamika Whitmore | 940 |
+| 37 | Tamika Whitmore | 940 |
 | 38 | DeWanna Bonner | 922 |
 | 39 | Briann January | 921 |
 | 40 | Jonquel Jones | 913 |
