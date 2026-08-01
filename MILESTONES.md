@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-08-01 03:45 UTC
+
+- **Aliyah Boston** passed **Adrienne Goodson** and **Crystal Langhorne** for **#155** all-time in assists (career 434) — up from #158 entering today — _8:41 - 4th — IND @ POR_
+
 ## 2026-08-01 03:38 UTC
 
 - **Karlie Samuelson** passed **Jordan Hooper** for **#157** all-time in three-pointers (career 142) — up from #159 entering today — _48.5 - 3rd — IND @ POR_
