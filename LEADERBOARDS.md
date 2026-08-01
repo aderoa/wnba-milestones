@@ -1436,7 +1436,7 @@ _Last updated: 2026-08-01 03:30 UTC_
 | 181 | Le'coe Willingham | 325 |
 | 182 | Olympia Scott | 324 |
 | 183 | Kia Nurse | 320 |
-| 184 | **Monique Billings** 🔴 +2 | 316 |
+| 184 | **Monique Billings** 🔴 +3 | 317 |
 | 185 | Barbara Farris | 315 |
 | 186 | Moriah Jefferson | 314 |
 | 187 | Alex Bentley | 313 |
