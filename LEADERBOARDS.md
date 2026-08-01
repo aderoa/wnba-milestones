@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-01 00:23 UTC_
+_Last updated: 2026-08-01 00:24 UTC_
 
 ## Contents
 
@@ -180,7 +180,7 @@ _Last updated: 2026-08-01 00:23 UTC_
 | 159 | Coco Miller | 2,030 |
 | 160 | Diamond DeShields | 2,026 |
 | 161 | Vicky Bullett | 2,018 |
-| 162 | **Natisha Hiedeman** 🔴 +6 | 2,008 |
+| 162 | **Natisha Hiedeman** 🔴 +8 | 2,010 |
 | 163 | **Ezi Magbegor** 🔴 +2 | 1,997 |
 | 164 | Bria Hartley | 1,967 |
 | 165 | Chiney Ogwumike | 1,964 |
