@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-01 20:48 UTC_
+_Last updated: 2026-08-01 20:49 UTC_
 
 ## Contents
 
@@ -31,7 +31,7 @@ _Last updated: 2026-08-01 20:48 UTC_
 | 10 | Candace Parker | 6,574 |
 | 11 | Katie Smith | 6,450 |
 | 12 | Sylvia Fowles | 6,413 |
-| 13 | **Breanna Stewart** 🔴 +10 | 6,345 |
+| 13 | **Breanna Stewart** 🔴 +12 | 6,347 |
 | 14 | Lisa Leslie | 6,251 |
 | 15 | A'ja Wilson | 6,214 |
 | 16 | Jewell Loyd | 6,151 |
@@ -520,9 +520,9 @@ _Last updated: 2026-08-01 20:48 UTC_
 | 89 | Bria Hartley | 661 |
 | 90 | Brittney Griner | 660 |
 | 91 | Lindsay Allen | 657 |
-| 92 | Betty Lennox | 651 |
-| 92 | **Jonquel Jones** 🔴 +4 | 651 |
-| 92 | Plenette Pierson | 651 |
+| 92 | **Jonquel Jones** 🔴 +5 | 652 |
+| 93 | Betty Lennox | 651 |
+| 93 | Plenette Pierson | 651 |
 | 95 | Alex Bentley | 645 |
 | 96 | Asjha Jones | 637 |
 | 97 | Jennifer Azzi | 636 |
@@ -1265,7 +1265,7 @@ _Last updated: 2026-08-01 20:48 UTC_
 | 10 | Candace Parker | 1,062 |
 | 11 | Tamika Catchings | 1,041 |
 | 12 | Tina Charles | 1,040 |
-| 13 | **Alyssa Thomas** 🔴 +3 | 1,038 |
+| 13 | **Alyssa Thomas** 🔴 +4 | 1,039 |
 | 14 | Lindsay Whalen | 1,002 |
 | 15 | Sylvia Fowles | 961 |
 | 16 | Tanisha Wright | 954 |
