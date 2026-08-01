@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-01 00:24 UTC_
+_Last updated: 2026-08-01 00:25 UTC_
 
 ## Contents
 
@@ -346,7 +346,7 @@ _Last updated: 2026-08-01 00:24 UTC_
 | 120 | Jackie Young | 1,085 |
 | 121 | Svetlana Abrosimova | 1,078 |
 | 122 | Le'coe Willingham | 1,054 |
-| 123 | **Angel Reese** 🔴 +6 | 1,041 |
+| 123 | **Angel Reese** 🔴 +7 | 1,042 |
 | 124 | Nicole Ohlde | 1,040 |
 | 125 | Tamecka Dixon | 1,035 |
 | 126 | Kamila Vodichkova | 1,031 |
@@ -383,7 +383,7 @@ _Last updated: 2026-08-01 00:24 UTC_
 | 157 | Marina Mabrey | 874 |
 | 158 | Shameka Christon | 867 |
 | 159 | Krystal Thomas | 862 |
-| 160 | **Naz Hillmon** 🔴 | 859 |
+| 160 | **Naz Hillmon** 🔴 +1 | 860 |
 | 161 | Leilani Mitchell | 845 |
 | 162 | **Shakira Austin** 🔴 +6 | 838 |
 | 163 | Essence Carson | 833 |
@@ -503,7 +503,7 @@ _Last updated: 2026-08-01 00:24 UTC_
 | 71 | Marina Mabrey | 801 |
 | 72 | Epiphanny Prince | 800 |
 | 73 | Mwadi Mabika | 774 |
-| 74 | **Allisha Gray** 🔴 | 767 |
+| 74 | **Allisha Gray** 🔴 +1 | 768 |
 | 75 | Sheri Sam | 745 |
 | 76 | Monique Currie | 740 |
 | 77 | Elaine Powell | 728 |
@@ -1037,10 +1037,10 @@ _Last updated: 2026-08-01 00:24 UTC_
 | 192 | Bridget Pettis | 177 |
 | 193 | Brittany Boyd-Jones | 176 |
 | 193 | Chiney Ogwumike | 176 |
+| 195 | **Ezi Magbegor** 🔴 +1 | 175 |
 | 195 | Tamika Raymond | 175 |
-| 196 | Elena Delle Donne | 174 |
-| 196 | **Ezi Magbegor** 🔴 | 174 |
-| 196 | Margo Dydek | 174 |
+| 197 | Elena Delle Donne | 174 |
+| 197 | Margo Dydek | 174 |
 | 199 | Bridget Carleton | 173 |
 | 199 | Kamila Vodichkova | 173 |
 
