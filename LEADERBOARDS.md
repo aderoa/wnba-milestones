@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-01 00:57 UTC_
+_Last updated: 2026-08-01 00:58 UTC_
 
 ## Contents
 
@@ -132,8 +132,8 @@ _Last updated: 2026-08-01 00:57 UTC_
 | 111 | Essence Carson | 2,647 |
 | 111 | Lindsey Harding | 2,647 |
 | 113 | Cheyenne Parker-Tyus | 2,645 |
-| 114 | Tamera Young | 2,641 |
-| 115 | **Rhyne Howard** 🔴 +3 | 2,640 |
+| 114 | **Rhyne Howard** 🔴 +6 | 2,643 |
+| 115 | Tamera Young | 2,641 |
 | 116 | Liz Cambage | 2,634 |
 | 117 | Janeth Arcain | 2,633 |
 | 118 | Temeka Johnson | 2,620 |
@@ -305,8 +305,8 @@ _Last updated: 2026-08-01 00:57 UTC_
 | 79 | Sheri Sam | 1,356 |
 | 80 | Tamika Whitmore | 1,355 |
 | 81 | Emma Meesseman | 1,350 |
+| 82 | **Brionna Jones** 🔴 +2 | 1,335 |
 | 82 | Elena Baranova | 1,335 |
-| 83 | **Brionna Jones** 🔴 +1 | 1,334 |
 | 84 | Erlana Larkins | 1,329 |
 | 85 | Mwadi Mabika | 1,327 |
 | 86 | Jayne Appel Marinelli | 1,326 |
@@ -455,7 +455,7 @@ _Last updated: 2026-08-01 00:57 UTC_
 | 23 | Teresa Weatherspoon | 1,333 |
 | 24 | Kristi Toliver | 1,301 |
 | 25 | Kelsey Plum | 1,270 |
-| 26 | **Jordin Canada** 🔴 +4 | 1,266 |
+| 26 | **Jordin Canada** 🔴 +5 | 1,267 |
 | 27 | Katie Smith | 1,258 |
 | 28 | **Odyssey Sims** 🔴 | 1,228 |
 | 29 | Vickie Johnson | 1,202 |
@@ -734,9 +734,9 @@ _Last updated: 2026-08-01 00:57 UTC_
 | 96 | Chelsea Gray | 127 |
 | 96 | Chiney Ogwumike | 127 |
 | 96 | Kristen Rasmussen | 127 |
+| 100 | **Brionna Jones** 🔴 +1 | 126 |
 | 100 | Katie Douglas | 126 |
 | 100 | Mistie Bass | 126 |
-| 102 | **Brionna Jones** 🔴 | 125 |
 | 103 | Kamilla Cardoso | 124 |
 | 104 | Natasha Mack | 123 |
 | 105 | Natalie Williams | 122 |
@@ -1083,7 +1083,7 @@ _Last updated: 2026-08-01 00:57 UTC_
 | 33 | Lauren Jackson | 436 |
 | 34 | Shameka Christon | 434 |
 | 35 | Crystal Robinson | 425 |
-| 36 | **Rhyne Howard** 🔴 +1 | 421 |
+| 36 | **Rhyne Howard** 🔴 +2 | 422 |
 | 37 | Mwadi Mabika | 415 |
 | 38 | Penny Taylor | 407 |
 | 38 | Riquna Williams | 407 |
