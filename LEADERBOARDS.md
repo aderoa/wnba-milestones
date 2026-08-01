@@ -197,7 +197,7 @@ _Last updated: 2026-08-01 18:59 UTC_
 | 176 | Ebony Hoffman | 1,909 |
 | 177 | Candice Wiggins | 1,901 |
 | 178 | Gabby Williams | 1,899 |
-| 179 | **NaLyssa Smith** 🔴 +15 | 1,894 |
+| 179 | **NaLyssa Smith** 🔴 +17 | 1,896 |
 | 180 | **Rachel Banham** 🔴 | 1,843 |
 | 181 | Damiris Dantas | 1,842 |
 | 182 | Sophie Cunningham | 1,829 |
@@ -435,10 +435,10 @@ _Last updated: 2026-08-01 18:59 UTC_
 | 3 | Ticha Penicheiro | 2,588 |
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
-| 6 | **Chelsea Gray** 🔴 +6 | 2,009 |
+| 6 | **Chelsea Gray** 🔴 +7 | 2,010 |
 | 7 | Alyssa Thomas | 1,971 |
 | 8 | Skylar Diggins | 1,852 |
-| 9 | **Natasha Cloud** 🔴 +1 | 1,803 |
+| 9 | **Natasha Cloud** 🔴 +2 | 1,804 |
 | 10 | Becky Hammon | 1,705 |
 | 11 | Candace Parker | 1,634 |
 | 12 | Cappie Pondexter | 1,575 |
