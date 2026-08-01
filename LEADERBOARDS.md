@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-01 00:07 UTC_
+_Last updated: 2026-08-01 00:08 UTC_
 
 ## Contents
 
@@ -1352,7 +1352,7 @@ _Last updated: 2026-08-01 00:07 UTC_
 | 97 | Mwadi Mabika | 532 |
 | 98 | Nakia Sanford | 531 |
 | 99 | **Arike Ogunbowale** 🔴 +1 | 530 |
-| 100 | **Jordin Canada** 🔴 +1 | 528 |
+| 100 | **Jordin Canada** 🔴 +2 | 529 |
 | 101 | Maya Moore | 527 |
 | 102 | Kara Lawson | 526 |
 | 103 | Leilani Mitchell | 525 |
@@ -1646,8 +1646,8 @@ _Last updated: 2026-08-01 00:07 UTC_
 | 185 | Kia Nurse | 484 |
 | 187 | Liz Cambage | 483 |
 | 187 | Rhonda Mapp | 483 |
-| 189 | **Alanna Smith** 🔴 +1 | 480 |
-| 189 | Sami Whitcomb | 480 |
+| 189 | **Alanna Smith** 🔴 +2 | 481 |
+| 190 | Sami Whitcomb | 480 |
 | 191 | Seimone Augustus | 477 |
 | 192 | Allie Quigley | 475 |
 | 193 | NaLyssa Smith | 474 |
