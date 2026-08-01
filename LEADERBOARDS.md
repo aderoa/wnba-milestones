@@ -181,7 +181,7 @@ _Last updated: 2026-08-01 01:02 UTC_
 | 160 | Diamond DeShields | 2,026 |
 | 161 | Vicky Bullett | 2,018 |
 | 162 | **Natisha Hiedeman** 🔴 +14 | 2,016 |
-| 163 | **Ezi Magbegor** 🔴 +2 | 1,997 |
+| 163 | **Ezi Magbegor** 🔴 +3 | 1,998 |
 | 164 | Bria Hartley | 1,967 |
 | 165 | Chiney Ogwumike | 1,964 |
 | 166 | Nicole Ohlde | 1,959 |
@@ -1642,11 +1642,11 @@ _Last updated: 2026-08-01 01:02 UTC_
 | 181 | Riquna Williams | 493 |
 | 183 | Charde Houston | 487 |
 | 184 | Lindsey Harding | 486 |
+| 185 | **Alanna Smith** 🔴 +5 | 484 |
 | 185 | Cathrine Kraayeveld | 484 |
 | 185 | Kia Nurse | 484 |
-| 187 | **Alanna Smith** 🔴 +4 | 483 |
-| 187 | Liz Cambage | 483 |
-| 187 | Rhonda Mapp | 483 |
+| 188 | Liz Cambage | 483 |
+| 188 | Rhonda Mapp | 483 |
 | 190 | Sami Whitcomb | 480 |
 | 191 | Seimone Augustus | 477 |
 | 192 | Allie Quigley | 475 |

@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-08-01T01:02:00+00:00",
+    "text": "Alanna Smith passed Liz Cambage and Rhonda Mapp for #187 all-time in fouls (career 484) \u2014 up from #190 entering today \u2014 (7:51 - 4th \u2014 DAL @ WSH)",
+    "kind": "rank_pass",
+    "player": "Alanna Smith",
+    "stat": "fouls",
+    "rank": 187,
+    "passed_players": [
+      "Liz Cambage",
+      "Rhonda Mapp"
+    ],
+    "new_total": 484
+  },
+  {
     "ts": "2026-07-31T02:46:00+00:00",
     "text": "Stephanie Talbot passed Edna Campbell for #135 all-time in three-pointers (career 162) \u2014 up from #138 entering today \u2014 (3:13 - 2nd \u2014 NY @ LV)",
     "kind": "rank_pass",
@@ -2988,17 +3001,5 @@
     "stat": "points",
     "value": 1400,
     "new_total": 1401
-  },
-  {
-    "ts": "2026-07-03T01:11:00+00:00",
-    "text": "Naz Hillmon passed Krystal Thomas for #159 all-time in rebounds (career 863) \u2014 up from #160 entering today \u2014 (9:09 - 4th \u2014 ATL @ WSH)",
-    "kind": "rank_pass",
-    "player": "Naz Hillmon",
-    "stat": "rebounds",
-    "rank": 159,
-    "passed_players": [
-      "Krystal Thomas"
-    ],
-    "new_total": 863
   }
 ]
