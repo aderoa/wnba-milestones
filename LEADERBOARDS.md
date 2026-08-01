@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-01 01:25 UTC_
+_Last updated: 2026-08-01 01:26 UTC_
 
 ## Contents
 
@@ -179,8 +179,8 @@ _Last updated: 2026-08-01 01:25 UTC_
 | 158 | Aerial Powers | 2,068 |
 | 159 | Coco Miller | 2,030 |
 | 160 | Diamond DeShields | 2,026 |
-| 161 | Vicky Bullett | 2,018 |
-| 162 | **Natisha Hiedeman** 🔴 +14 | 2,016 |
+| 161 | **Natisha Hiedeman** 🔴 +18 | 2,020 |
+| 162 | Vicky Bullett | 2,018 |
 | 163 | **Ezi Magbegor** 🔴 +4 | 1,999 |
 | 164 | Bria Hartley | 1,967 |
 | 165 | Chiney Ogwumike | 1,964 |
@@ -708,7 +708,7 @@ _Last updated: 2026-08-01 01:25 UTC_
 | 71 | Shameka Christon | 165 |
 | 72 | Aliyah Boston | 160 |
 | 72 | Cheryl Ford | 160 |
-| 74 | **Allisha Gray** 🔴 +1 | 158 |
+| 74 | **Allisha Gray** 🔴 +2 | 159 |
 | 75 | Kara Braxton | 157 |
 | 76 | DeMya Walker | 155 |
 | 76 | Tamika Whitmore | 155 |
@@ -1008,8 +1008,8 @@ _Last updated: 2026-08-01 01:25 UTC_
 | 163 | Kia Vaughn | 208 |
 | 163 | Sophia Witherspoon | 208 |
 | 165 | Betnijah Laney-Hamilton | 207 |
-| 166 | **Natisha Hiedeman** 🔴 +1 | 205 |
-| 166 | Shameka Christon | 205 |
+| 166 | **Natisha Hiedeman** 🔴 +2 | 206 |
+| 167 | Shameka Christon | 205 |
 | 168 | Jessica Breland | 204 |
 | 168 | Murriel Page | 204 |
 | 168 | Shatori Walker-Kimbrough | 204 |
@@ -1642,11 +1642,11 @@ _Last updated: 2026-08-01 01:25 UTC_
 | 181 | Riquna Williams | 493 |
 | 183 | Charde Houston | 487 |
 | 184 | Lindsey Harding | 486 |
+| 185 | **Alanna Smith** 🔴 +5 | 484 |
 | 185 | Cathrine Kraayeveld | 484 |
 | 185 | Kia Nurse | 484 |
-| 187 | **Alanna Smith** 🔴 +4 | 483 |
-| 187 | Liz Cambage | 483 |
-| 187 | Rhonda Mapp | 483 |
+| 188 | Liz Cambage | 483 |
+| 188 | Rhonda Mapp | 483 |
 | 190 | Sami Whitcomb | 480 |
 | 191 | Seimone Augustus | 477 |
 | 192 | Allie Quigley | 475 |
