@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-01 19:15 UTC_
+_Last updated: 2026-08-01 19:17 UTC_
 
 ## Contents
 
@@ -21,7 +21,7 @@ _Last updated: 2026-08-01 19:15 UTC_
 |-----:|--------|------:|
 | 1 | Diana Taurasi | 10,608 |
 | 2 | Tina Charles | 8,396 |
-| 3 | **DeWanna Bonner** 🔴 +2 | 7,974 |
+| 3 | **DeWanna Bonner** 🔴 +4 | 7,976 |
 | 4 | Nneka Ogwumike | 7,563 |
 | 5 | Tina Thompson | 7,470 |
 | 6 | Tamika Catchings | 7,371 |
@@ -410,7 +410,7 @@ _Last updated: 2026-08-01 19:15 UTC_
 | 183 | Kelsey Bone | 769 |
 | 183 | Tan White | 769 |
 | 186 | Tully Bevilaqua | 767 |
-| 187 | **Kamilla Cardoso** 🔴 +11 | 761 |
+| 187 | **Kamilla Cardoso** 🔴 +12 | 762 |
 | 188 | Layshia Clarendon | 756 |
 | 189 | Brooke Wyckoff | 751 |
 | 190 | Coco Miller | 750 |
@@ -435,7 +435,7 @@ _Last updated: 2026-08-01 19:15 UTC_
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
 | 6 | **Chelsea Gray** 🔴 +8 | 2,011 |
-| 7 | **Alyssa Thomas** 🔴 | 1,971 |
+| 7 | **Alyssa Thomas** 🔴 +1 | 1,972 |
 | 8 | Skylar Diggins | 1,852 |
 | 9 | **Natasha Cloud** 🔴 +3 | 1,805 |
 | 10 | Becky Hammon | 1,705 |
@@ -1646,7 +1646,7 @@ _Last updated: 2026-08-01 19:15 UTC_
 | 185 | Kia Nurse | 484 |
 | 187 | Liz Cambage | 483 |
 | 187 | Rhonda Mapp | 483 |
-| 189 | **Sami Whitcomb** 🔴 | 480 |
+| 189 | **Sami Whitcomb** 🔴 +1 | 481 |
 | 190 | Alanna Smith | 479 |
 | 191 | **NaLyssa Smith** 🔴 +4 | 478 |
 | 192 | Seimone Augustus | 477 |
