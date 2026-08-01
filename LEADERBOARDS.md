@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-01 17:10 UTC_
+_Last updated: 2026-08-01 17:12 UTC_
 
 ## Contents
 
@@ -33,7 +33,7 @@ _Last updated: 2026-08-01 17:10 UTC_
 | 12 | Sylvia Fowles | 6,413 |
 | 13 | Breanna Stewart | 6,335 |
 | 14 | Lisa Leslie | 6,251 |
-| 15 | **A'ja Wilson** 🔴 | 6,178 |
+| 15 | **A'ja Wilson** 🔴 +1 | 6,179 |
 | 16 | **Jewell Loyd** 🔴 | 6,148 |
 | 17 | Brittney Griner | 6,087 |
 | 18 | Lauren Jackson | 6,005 |
@@ -197,7 +197,7 @@ _Last updated: 2026-08-01 17:10 UTC_
 | 176 | Ebony Hoffman | 1,909 |
 | 177 | Candice Wiggins | 1,901 |
 | 178 | Gabby Williams | 1,899 |
-| 179 | **NaLyssa Smith** 🔴 | 1,879 |
+| 179 | **NaLyssa Smith** 🔴 +2 | 1,881 |
 | 180 | **Rachel Banham** 🔴 | 1,843 |
 | 181 | Damiris Dantas | 1,842 |
 | 182 | Sophie Cunningham | 1,829 |
@@ -329,7 +329,7 @@ _Last updated: 2026-08-01 17:10 UTC_
 | 103 | Latasha Byears | 1,190 |
 | 103 | Tanisha Wright | 1,190 |
 | 105 | Vicky Bullett | 1,189 |
-| 106 | **NaLyssa Smith** 🔴 | 1,172 |
+| 106 | **NaLyssa Smith** 🔴 +1 | 1,173 |
 | 107 | Brittney Sykes | 1,162 |
 | 108 | Nykesha Sales | 1,148 |
 | 109 | Shannon Johnson | 1,143 |
@@ -343,7 +343,7 @@ _Last updated: 2026-08-01 17:10 UTC_
 | 117 | Becky Hammon | 1,108 |
 | 118 | Ann Wauters | 1,105 |
 | 119 | Isabelle Harrison | 1,097 |
-| 120 | **Jackie Young** 🔴 +1 | 1,086 |
+| 120 | **Jackie Young** 🔴 +2 | 1,087 |
 | 121 | Svetlana Abrosimova | 1,078 |
 | 122 | Le'coe Willingham | 1,054 |
 | 123 | Nicole Ohlde | 1,040 |
@@ -818,12 +818,12 @@ _Last updated: 2026-08-01 17:10 UTC_
 | 179 | Tianna Hawkins | 75 |
 | 182 | Epiphanny Prince | 74 |
 | 183 | Ayana Walker | 73 |
+| 183 | **Jackie Young** 🔴 +1 | 73 |
 | 183 | Lindsay Wisdom-Hylton | 73 |
-| 185 | Cappie Pondexter | 72 |
-| 185 | Christi Thomas | 72 |
-| 185 | **Jackie Young** 🔴 | 72 |
-| 185 | Olympia Scott | 72 |
-| 185 | Sue Bird | 72 |
+| 186 | Cappie Pondexter | 72 |
+| 186 | Christi Thomas | 72 |
+| 186 | Olympia Scott | 72 |
+| 186 | Sue Bird | 72 |
 | 190 | Marlies Askamp | 71 |
 | 190 | Tanisha Wright | 71 |
 | 192 | Wendy Palmer | 70 |
@@ -1366,7 +1366,7 @@ _Last updated: 2026-08-01 17:10 UTC_
 | 111 | Nikki Teasley | 493 |
 | 111 | Tari Phillips | 493 |
 | 113 | Janel McCarville | 491 |
-| 114 | **A'ja Wilson** 🔴 | 488 |
+| 114 | **A'ja Wilson** 🔴 +1 | 489 |
 | 115 | Erika de Souza | 483 |
 | 116 | Sophia Young-Malcolm | 482 |
 | 117 | Natalie Williams | 480 |
@@ -1375,7 +1375,7 @@ _Last updated: 2026-08-01 17:10 UTC_
 | 120 | Elaine Powell | 469 |
 | 121 | Allie Quigley | 467 |
 | 122 | Ariel Atkins | 465 |
-| 123 | **Jackie Young** 🔴 | 463 |
+| 123 | **Jackie Young** 🔴 +1 | 464 |
 | 124 | Betnijah Laney-Hamilton | 456 |
 | 125 | Kia Vaughn | 454 |
 | 126 | Janeth Arcain | 453 |
