@@ -1564,7 +1564,7 @@ _Last updated: 2026-08-01 17:29 UTC_
 | 104 | Kiah Stokes | 651 |
 | 105 | Tari Phillips | 648 |
 | 106 | Marie Ferdinand-Harris | 646 |
-| 107 | **Chelsea Gray** 🔴 | 640 |
+| 107 | **Chelsea Gray** 🔴 +1 | 641 |
 | 108 | Charlotte Smith | 638 |
 | 109 | Teaira McCowan | 637 |
 | 110 | Janell Burse | 632 |
