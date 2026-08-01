@@ -123,8 +123,8 @@ _Last updated: 2026-08-01 01:34 UTC_
 | 102 | Jennifer Gillom | 2,888 |
 | 103 | Iziane Castro Marques | 2,862 |
 | 104 | **Alysha Clark** 🔴 | 2,808 |
-| 105 | **Brionna Jones** 🔴 +10 | 2,775 |
-| 105 | Jantel Lavender | 2,775 |
+| 105 | **Brionna Jones** 🔴 +12 | 2,777 |
+| 106 | Jantel Lavender | 2,775 |
 | 107 | Dominique Canty | 2,763 |
 | 108 | Ticha Penicheiro | 2,729 |
 | 109 | Adrienne Goodson | 2,705 |
@@ -179,7 +179,7 @@ _Last updated: 2026-08-01 01:34 UTC_
 | 158 | Aerial Powers | 2,068 |
 | 159 | Coco Miller | 2,030 |
 | 160 | Diamond DeShields | 2,026 |
-| 161 | **Natisha Hiedeman** 🔴 +18 | 2,020 |
+| 161 | **Natisha Hiedeman** 🔴 +20 | 2,022 |
 | 162 | Vicky Bullett | 2,018 |
 | 163 | **Ezi Magbegor** 🔴 +7 | 2,002 |
 | 164 | Bria Hartley | 1,967 |
@@ -454,8 +454,8 @@ _Last updated: 2026-08-01 01:34 UTC_
 | 22 | Erica Wheeler | 1,335 |
 | 23 | Teresa Weatherspoon | 1,333 |
 | 24 | Kristi Toliver | 1,301 |
-| 25 | **Jordin Canada** 🔴 +8 | 1,270 |
-| 25 | Kelsey Plum | 1,270 |
+| 25 | **Jordin Canada** 🔴 +9 | 1,271 |
+| 26 | Kelsey Plum | 1,270 |
 | 27 | Katie Smith | 1,258 |
 | 28 | **Odyssey Sims** 🔴 | 1,228 |
 | 29 | Vickie Johnson | 1,202 |
