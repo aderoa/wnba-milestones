@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-01 17:28 UTC_
+_Last updated: 2026-08-01 17:29 UTC_
 
 ## Contents
 
@@ -197,7 +197,7 @@ _Last updated: 2026-08-01 17:28 UTC_
 | 176 | Ebony Hoffman | 1,909 |
 | 177 | Candice Wiggins | 1,901 |
 | 178 | Gabby Williams | 1,899 |
-| 179 | **NaLyssa Smith** 🔴 +4 | 1,883 |
+| 179 | **NaLyssa Smith** 🔴 +6 | 1,885 |
 | 180 | **Rachel Banham** 🔴 | 1,843 |
 | 181 | Damiris Dantas | 1,842 |
 | 182 | Sophie Cunningham | 1,829 |
@@ -297,7 +297,7 @@ _Last updated: 2026-08-01 17:28 UTC_
 | 71 | Nakia Sanford | 1,419 |
 | 72 | Kayla Thornton | 1,408 |
 | 73 | Allisha Gray | 1,404 |
-| 74 | **Courtney Vandersloot** 🔴 +2 | 1,388 |
+| 74 | **Courtney Vandersloot** 🔴 +3 | 1,389 |
 | 75 | Kara Braxton | 1,387 |
 | 76 | Katie Smith | 1,383 |
 | 77 | Ebony Hoffman | 1,376 |
@@ -319,8 +319,8 @@ _Last updated: 2026-08-01 17:28 UTC_
 | 93 | **Chelsea Gray** 🔴 | 1,257 |
 | 93 | Tiffany Hayes | 1,257 |
 | 95 | Kayla McBride | 1,256 |
-| 96 | **Brianna Turner** 🔴 | 1,243 |
-| 96 | Ezi Magbegor | 1,243 |
+| 96 | **Brianna Turner** 🔴 +1 | 1,244 |
+| 97 | Ezi Magbegor | 1,243 |
 | 98 | Seimone Augustus | 1,228 |
 | 99 | Jia Perkins | 1,220 |
 | 100 | Kahleah Copper | 1,204 |
@@ -676,7 +676,7 @@ _Last updated: 2026-08-01 17:28 UTC_
 | 39 | Napheesa Collier | 239 |
 | 40 | Emma Meesseman | 238 |
 | 41 | Azurá Stevens | 236 |
-| 42 | **Brianna Turner** 🔴 | 234 |
+| 42 | **Brianna Turner** 🔴 +1 | 235 |
 | 43 | Skylar Diggins | 231 |
 | 44 | Chasity Melvin | 228 |
 | 45 | Alanna Smith | 225 |
@@ -858,7 +858,7 @@ _Last updated: 2026-08-01 17:28 UTC_
 | 13 | Alyssa Thomas | 582 |
 | 14 | Taj McWilliams-Franklin | 577 |
 | 15 | Tully Bevilaqua | 571 |
-| 16 | **Courtney Vandersloot** 🔴 | 544 |
+| 16 | **Courtney Vandersloot** 🔴 +1 | 545 |
 | 17 | Yolanda Griffith | 527 |
 | 18 | Candace Parker | 521 |
 | 19 | Diana Taurasi | 515 |
@@ -1273,7 +1273,7 @@ _Last updated: 2026-08-01 17:28 UTC_
 | 18 | Cappie Pondexter | 945 |
 | 19 | Katie Smith | 935 |
 | 20 | Shannon Johnson | 934 |
-| 21 | **Chelsea Gray** 🔴 | 927 |
+| 21 | **Chelsea Gray** 🔴 +1 | 928 |
 | 22 | Skylar Diggins | 907 |
 | 23 | Taj McWilliams-Franklin | 898 |
 | 24 | Candice Dupree | 869 |
