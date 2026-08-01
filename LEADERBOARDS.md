@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-01 02:44 UTC_
+_Last updated: 2026-08-01 02:45 UTC_
 
 ## Contents
 
@@ -1569,8 +1569,8 @@ _Last updated: 2026-08-01 02:44 UTC_
 | 109 | Teaira McCowan | 637 |
 | 110 | Janell Burse | 632 |
 | 111 | Nicole Ohlde | 631 |
-| 112 | Jennifer Gillom | 629 |
-| 112 | **Kelsey Mitchell** 🔴 | 629 |
+| 112 | **Kelsey Mitchell** 🔴 +1 | 630 |
+| 113 | Jennifer Gillom | 629 |
 | 114 | Brionna Jones | 628 |
 | 114 | Deanna Nolan | 628 |
 | 116 | Courtney Paris | 617 |
