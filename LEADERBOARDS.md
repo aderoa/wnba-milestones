@@ -235,7 +235,7 @@ _Last updated: 2026-08-01 19:23 UTC_
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
-| 12 | **Alyssa Thomas** 🔴 | 2,858 |
+| 12 | **Alyssa Thomas** 🔴 +2 | 2,860 |
 | 13 | **Jonquel Jones** 🔴 +3 | 2,731 |
 | 14 | **A'ja Wilson** 🔴 +12 | 2,669 |
 | 15 | **Breanna Stewart** 🔴 +4 | 2,636 |
