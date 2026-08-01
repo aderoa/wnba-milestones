@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-01 20:34 UTC_
+_Last updated: 2026-08-01 20:35 UTC_
 
 ## Contents
 
@@ -67,7 +67,7 @@ _Last updated: 2026-08-01 20:34 UTC_
 | 46 | Crystal Langhorne | 4,433 |
 | 46 | Jia Perkins | 4,433 |
 | 48 | Courtney Vandersloot | 4,369 |
-| 49 | **Jonquel Jones** 🔴 +6 | 4,359 |
+| 49 | **Jonquel Jones** 🔴 +8 | 4,361 |
 | 50 | Courtney Williams | 4,350 |
 | 51 | Dearica Hamby | 4,330 |
 | 52 | Sophia Young-Malcolm | 4,300 |
@@ -236,7 +236,7 @@ _Last updated: 2026-08-01 20:34 UTC_
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | **Alyssa Thomas** 🔴 +4 | 2,862 |
-| 13 | **Jonquel Jones** 🔴 +6 | 2,734 |
+| 13 | **Jonquel Jones** 🔴 +7 | 2,735 |
 | 14 | A'ja Wilson | 2,669 |
 | 15 | **Breanna Stewart** 🔴 +10 | 2,642 |
 | 16 | Sancho Lyttle | 2,596 |
@@ -521,8 +521,8 @@ _Last updated: 2026-08-01 20:34 UTC_
 | 90 | Brittney Griner | 660 |
 | 91 | Lindsay Allen | 657 |
 | 92 | Betty Lennox | 651 |
+| 92 | **Jonquel Jones** 🔴 +4 | 651 |
 | 92 | Plenette Pierson | 651 |
-| 94 | **Jonquel Jones** 🔴 +3 | 650 |
 | 95 | Alex Bentley | 645 |
 | 96 | Asjha Jones | 637 |
 | 97 | Jennifer Azzi | 636 |
@@ -1265,7 +1265,7 @@ _Last updated: 2026-08-01 20:34 UTC_
 | 10 | Candace Parker | 1,062 |
 | 11 | Tamika Catchings | 1,041 |
 | 12 | Tina Charles | 1,040 |
-| 13 | **Alyssa Thomas** 🔴 +1 | 1,036 |
+| 13 | **Alyssa Thomas** 🔴 +2 | 1,037 |
 | 14 | Lindsay Whalen | 1,002 |
 | 15 | Sylvia Fowles | 961 |
 | 16 | Tanisha Wright | 954 |
