@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-01 00:43 UTC_
+_Last updated: 2026-08-01 00:45 UTC_
 
 ## Contents
 
@@ -122,7 +122,7 @@ _Last updated: 2026-08-01 00:43 UTC_
 | 101 | Natalie Williams | 2,894 |
 | 102 | Jennifer Gillom | 2,888 |
 | 103 | Iziane Castro Marques | 2,862 |
-| 104 | Alysha Clark | 2,808 |
+| 104 | **Alysha Clark** 🔴 | 2,808 |
 | 105 | Jantel Lavender | 2,775 |
 | 106 | **Brionna Jones** 🔴 +4 | 2,769 |
 | 107 | Dominique Canty | 2,763 |
@@ -287,7 +287,7 @@ _Last updated: 2026-08-01 00:43 UTC_
 | 61 | Cappie Pondexter | 1,513 |
 | 62 | Napheesa Collier | 1,510 |
 | 63 | Ticha Penicheiro | 1,485 |
-| 64 | Alysha Clark | 1,469 |
+| 64 | **Alysha Clark** 🔴 | 1,469 |
 | 65 | Sue Bird | 1,466 |
 | 66 | Cheyenne Parker-Tyus | 1,463 |
 | 67 | Nicole Powell | 1,457 |
@@ -528,7 +528,7 @@ _Last updated: 2026-08-01 00:43 UTC_
 | 96 | Asjha Jones | 637 |
 | 97 | Jennifer Azzi | 636 |
 | 98 | Sami Whitcomb | 623 |
-| 99 | Alysha Clark | 619 |
+| 99 | **Alysha Clark** 🔴 | 619 |
 | 100 | Natasha Howard | 615 |
 | 101 | Debbie Black | 612 |
 | 102 | Cynthia Cooper | 602 |
@@ -780,7 +780,7 @@ _Last updated: 2026-08-01 00:43 UTC_
 | 143 | Jasmine Thomas | 91 |
 | 143 | Kayla Alexander | 91 |
 | 145 | Allie Quigley | 90 |
-| 145 | Alysha Clark | 90 |
+| 145 | **Alysha Clark** 🔴 | 90 |
 | 147 | Natasha Cloud | 89 |
 | 147 | Tiffany Hayes | 89 |
 | 149 | Marissa Coleman | 88 |
@@ -932,7 +932,7 @@ _Last updated: 2026-08-01 00:43 UTC_
 | 87 | Napheesa Collier | 325 |
 | 88 | Betty Lennox | 323 |
 | 89 | Tammy Sutton-Brown | 319 |
-| 90 | Alysha Clark | 317 |
+| 90 | **Alysha Clark** 🔴 | 317 |
 | 90 | Plenette Pierson | 317 |
 | 90 | Temeka Johnson | 317 |
 | 93 | Debbie Black | 315 |
@@ -1088,7 +1088,7 @@ _Last updated: 2026-08-01 00:43 UTC_
 | 38 | Penny Taylor | 407 |
 | 38 | Riquna Williams | 407 |
 | 40 | Jia Perkins | 396 |
-| 41 | Alysha Clark | 394 |
+| 41 | **Alysha Clark** 🔴 | 394 |
 | 42 | Rachel Banham | 390 |
 | 43 | Jonquel Jones | 389 |
 | 43 | Roneeka Hodges | 389 |
@@ -1381,7 +1381,7 @@ _Last updated: 2026-08-01 00:43 UTC_
 | 126 | Janeth Arcain | 453 |
 | 127 | Elena Baranova | 444 |
 | 127 | Jantel Lavender | 444 |
-| 129 | Alysha Clark | 443 |
+| 129 | **Alysha Clark** 🔴 | 443 |
 | 130 | Cheyenne Parker-Tyus | 441 |
 | 131 | Ann Wauters | 440 |
 | 132 | Tiffany Mitchell | 439 |
@@ -1500,7 +1500,7 @@ _Last updated: 2026-08-01 00:43 UTC_
 | 40 | Jonquel Jones | 913 |
 | 40 | Ticha Penicheiro | 913 |
 | 42 | Shavonte Zellous | 907 |
-| 43 | Alysha Clark | 905 |
+| 43 | **Alysha Clark** 🔴 | 905 |
 | 44 | DeMya Walker | 882 |
 | 45 | Candice Dupree | 876 |
 | 46 | Murriel Page | 872 |
@@ -1579,8 +1579,8 @@ _Last updated: 2026-08-01 00:43 UTC_
 | 119 | Svetlana Abrosimova | 613 |
 | 120 | **Odyssey Sims** 🔴 +1 | 611 |
 | 121 | Layshia Clarendon | 609 |
-| 122 | **Arike Ogunbowale** 🔴 | 604 |
-| 122 | Tiffany Mitchell | 604 |
+| 122 | **Arike Ogunbowale** 🔴 +1 | 605 |
+| 123 | Tiffany Mitchell | 604 |
 | 124 | Janel McCarville | 597 |
 | 125 | Kamila Vodichkova | 596 |
 | 126 | Teresa Weatherspoon | 589 |
