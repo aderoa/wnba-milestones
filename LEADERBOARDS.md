@@ -296,7 +296,7 @@ _Last updated: 2026-08-01 00:12 UTC_
 | 70 | Alana Beard | 1,420 |
 | 71 | Nakia Sanford | 1,419 |
 | 72 | Kayla Thornton | 1,408 |
-| 73 | **Allisha Gray** 🔴 +1 | 1,405 |
+| 73 | **Allisha Gray** 🔴 +2 | 1,406 |
 | 74 | Kara Braxton | 1,387 |
 | 75 | Courtney Vandersloot | 1,386 |
 | 76 | Katie Smith | 1,383 |
