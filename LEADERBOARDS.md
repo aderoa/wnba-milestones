@@ -1265,7 +1265,7 @@ _Last updated: 2026-08-01 20:44 UTC_
 | 10 | Candace Parker | 1,062 |
 | 11 | Tamika Catchings | 1,041 |
 | 12 | Tina Charles | 1,040 |
-| 13 | **Alyssa Thomas** 🔴 +2 | 1,037 |
+| 13 | **Alyssa Thomas** 🔴 +3 | 1,038 |
 | 14 | Lindsay Whalen | 1,002 |
 | 15 | Sylvia Fowles | 961 |
 | 16 | Tanisha Wright | 954 |
