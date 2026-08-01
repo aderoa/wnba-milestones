@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-01 04:00 UTC_
+_Last updated: 2026-08-01 04:01 UTC_
 
 ## Contents
 
@@ -218,7 +218,7 @@ _Last updated: 2026-08-01 04:00 UTC_
 | 197 | Le'coe Willingham | 1,552 |
 | 198 | Shatori Walker-Kimbrough | 1,544 |
 | 199 | Rebecca Allen | 1,529 |
-| 200 | Jennifer Lacy | 1,504 |
+| 200 | **Bridget Carleton** 🔴 +21 | 1,506 |
 
 ## Rebounds
 
@@ -323,7 +323,7 @@ _Last updated: 2026-08-01 04:00 UTC_
 | 97 | Brianna Turner | 1,243 |
 | 98 | Seimone Augustus | 1,228 |
 | 99 | Jia Perkins | 1,220 |
-| 100 | **Aliyah Boston** 🔴 +8 | 1,206 |
+| 100 | **Aliyah Boston** 🔴 +9 | 1,207 |
 | 101 | Kahleah Copper | 1,204 |
 | 102 | DeMya Walker | 1,199 |
 | 103 | Latasha Byears | 1,190 |
@@ -1114,10 +1114,10 @@ _Last updated: 2026-08-01 04:00 UTC_
 | 64 | Sugar Rodgers | 317 |
 | 65 | Marissa Coleman | 315 |
 | 66 | Shannon Johnson | 313 |
+| 67 | **Bridget Carleton** 🔴 +6 | 312 |
 | 67 | DeLisha Milton-Jones | 312 |
 | 67 | Ruthie Bolton | 312 |
-| 69 | **Bridget Carleton** 🔴 +5 | 311 |
-| 69 | Tan White | 311 |
+| 70 | Tan White | 311 |
 | 71 | Kedra Holland-Corn | 307 |
 | 72 | Kelly Miller | 305 |
 | 73 | Nikki Teasley | 304 |
