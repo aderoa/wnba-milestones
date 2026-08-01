@@ -123,8 +123,8 @@ _Last updated: 2026-08-01 01:11 UTC_
 | 102 | Jennifer Gillom | 2,888 |
 | 103 | Iziane Castro Marques | 2,862 |
 | 104 | **Alysha Clark** 🔴 | 2,808 |
+| 105 | **Brionna Jones** 🔴 +10 | 2,775 |
 | 105 | Jantel Lavender | 2,775 |
-| 106 | **Brionna Jones** 🔴 +8 | 2,773 |
 | 107 | Dominique Canty | 2,763 |
 | 108 | Ticha Penicheiro | 2,729 |
 | 109 | Adrienne Goodson | 2,705 |
@@ -679,8 +679,8 @@ _Last updated: 2026-08-01 01:11 UTC_
 | 42 | Brianna Turner | 234 |
 | 43 | Skylar Diggins | 231 |
 | 44 | Chasity Melvin | 228 |
-| 45 | **Alanna Smith** 🔴 +1 | 226 |
-| 46 | Teaira McCowan | 225 |
+| 45 | **Alanna Smith** 🔴 | 225 |
+| 45 | Teaira McCowan | 225 |
 | 47 | Sancho Lyttle | 221 |
 | 48 | Alana Beard | 220 |
 | 49 | Janell Burse | 216 |
@@ -1190,7 +1190,7 @@ _Last updated: 2026-08-01 01:11 UTC_
 | 139 | Jennifer Azzi | 158 |
 | 139 | Natasha Howard | 158 |
 | 142 | **Alanna Smith** 🔴 +1 | 157 |
-| 143 | **Katie Lou Samuelson** 🔴 +1 | 154 |
+| 143 | **Katie Lou Samuelson** 🔴 +2 | 155 |
 | 144 | Bridget Pettis | 153 |
 | 144 | Gabby Williams | 153 |
 | 144 | Jennifer Gillom | 153 |
