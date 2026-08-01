@@ -45,7 +45,7 @@ _Last updated: 2026-08-01 03:38 UTC_
 | 24 | DeLisha Milton-Jones | 5,571 |
 | 25 | Katie Douglas | 5,545 |
 | 26 | Lindsay Whalen | 5,511 |
-| 27 | **Kelsey Mitchell** 🔴 +15 | 5,213 |
+| 27 | **Kelsey Mitchell** 🔴 +18 | 5,216 |
 | 28 | Swin Cash | 5,119 |
 | 29 | Tiffany Hayes | 5,049 |
 | 30 | Tangela Smith | 5,035 |
@@ -200,7 +200,7 @@ _Last updated: 2026-08-01 03:38 UTC_
 | 179 | NaLyssa Smith | 1,879 |
 | 180 | Rachel Banham | 1,843 |
 | 181 | Damiris Dantas | 1,842 |
-| 182 | **Sophie Cunningham** 🔴 +9 | 1,838 |
+| 182 | **Sophie Cunningham** 🔴 +10 | 1,839 |
 | 183 | Tianna Hawkins | 1,825 |
 | 184 | Noelle Quinn | 1,824 |
 | 185 | Danielle Adams | 1,820 |
@@ -585,8 +585,8 @@ _Last updated: 2026-08-01 03:38 UTC_
 | 153 | Michelle Snow | 437 |
 | 154 | Lauren Jackson | 435 |
 | 155 | Adrienne Goodson | 433 |
+| 155 | **Aliyah Boston** 🔴 +5 | 433 |
 | 155 | Crystal Langhorne | 433 |
-| 157 | **Aliyah Boston** 🔴 +4 | 432 |
 | 158 | Elena Baranova | 430 |
 | 159 | Tierra Ruffin-Pratt | 424 |
 | 160 | Kedra Holland-Corn | 423 |
@@ -606,7 +606,7 @@ _Last updated: 2026-08-01 03:38 UTC_
 | 174 | Shameka Christon | 389 |
 | 174 | Tamicha Jackson | 389 |
 | 176 | Riquna Williams | 387 |
-| 177 | **Bridget Carleton** 🔴 | 384 |
+| 177 | **Bridget Carleton** 🔴 +1 | 385 |
 | 178 | Dana Evans | 379 |
 | 179 | Jessica Breland | 377 |
 | 180 | Shenise Johnson | 376 |
@@ -1055,7 +1055,7 @@ _Last updated: 2026-08-01 03:38 UTC_
 | 5 | Kayla McBride | 756 |
 | 6 | Tina Thompson | 745 |
 | 7 | Katie Douglas | 723 |
-| 8 | **Kelsey Mitchell** 🔴 +3 | 715 |
+| 8 | **Kelsey Mitchell** 🔴 +4 | 716 |
 | 9 | Jewell Loyd | 695 |
 | 10 | DeWanna Bonner | 682 |
 | 11 | Kristi Toliver | 651 |
@@ -1204,8 +1204,8 @@ _Last updated: 2026-08-01 03:38 UTC_
 | 153 | Helen Darling | 144 |
 | 153 | Matee Ajavon | 144 |
 | 156 | Shenise Johnson | 143 |
-| 157 | Jordan Hooper | 141 |
-| 157 | **Karlie Samuelson** 🔴 +2 | 141 |
+| 157 | **Karlie Samuelson** 🔴 +3 | 142 |
+| 158 | Jordan Hooper | 141 |
 | 159 | Coco Miller | 139 |
 | 160 | Loree Moore | 138 |
 | 160 | Tanisha Wright | 138 |

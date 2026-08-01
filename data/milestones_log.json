@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-08-01T03:38:00+00:00",
+    "text": "Karlie Samuelson passed Jordan Hooper for #157 all-time in three-pointers (career 142) \u2014 up from #159 entering today \u2014 (48.5 - 3rd \u2014 IND @ POR)",
+    "kind": "rank_pass",
+    "player": "Karlie Samuelson",
+    "stat": "three-pointers",
+    "rank": 157,
+    "passed_players": [
+      "Jordan Hooper"
+    ],
+    "new_total": 142
+  },
+  {
     "ts": "2026-08-01T01:38:00+00:00",
     "text": "Ezi Magbegor passed Tamika Raymond for #195 all-time in steals (career 176) \u2014 up from #197 entering today \u2014 (57.5 - 4th \u2014 SEA @ ATL)",
     "kind": "rank_pass",
@@ -2998,17 +3010,5 @@
       "Moriah Jefferson"
     ],
     "new_total": 315
-  },
-  {
-    "ts": "2026-07-03T02:11:00+00:00",
-    "text": "Natisha Hiedeman passed Alex Bentley for #187 all-time in turnovers (career 314) \u2014 up from #188 entering today \u2014 (4:39 - 1st \u2014 SEA @ PHX)",
-    "kind": "rank_pass",
-    "player": "Natisha Hiedeman",
-    "stat": "turnovers",
-    "rank": 187,
-    "passed_players": [
-      "Alex Bentley"
-    ],
-    "new_total": 314
   }
 ]

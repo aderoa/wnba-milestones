@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-08-01 03:38 UTC
+
+- **Karlie Samuelson** passed **Jordan Hooper** for **#157** all-time in three-pointers (career 142) — up from #159 entering today — _48.5 - 3rd — IND @ POR_
+
 ## 2026-08-01 01:38 UTC
 
 - **Ezi Magbegor** passed **Tamika Raymond** for **#195** all-time in steals (career 176) — up from #197 entering today — _57.5 - 4th — SEA @ ATL_
