@@ -423,7 +423,7 @@ _Last updated: 2026-08-01 20:50 UTC_
 | 197 | Olympia Scott | 711 |
 | 198 | Katie Mattera | 708 |
 | 199 | Rushia Brown | 706 |
-| 200 | **Rebecca Allen** 🔴 +1 | 703 |
+| 200 | **Rebecca Allen** 🔴 +2 | 704 |
 
 ## Assists
 
