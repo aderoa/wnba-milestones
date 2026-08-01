@@ -1008,11 +1008,11 @@ _Last updated: 2026-08-01 00:27 UTC_
 | 163 | Kia Vaughn | 208 |
 | 163 | Sophia Witherspoon | 208 |
 | 165 | Betnijah Laney-Hamilton | 207 |
-| 166 | **Natisha Hiedeman** 🔴 +1 | 205 |
 | 166 | Shameka Christon | 205 |
-| 168 | Jessica Breland | 204 |
-| 168 | Murriel Page | 204 |
-| 168 | Shatori Walker-Kimbrough | 204 |
+| 167 | Jessica Breland | 204 |
+| 167 | Murriel Page | 204 |
+| 167 | **Natisha Hiedeman** 🔴 | 204 |
+| 167 | Shatori Walker-Kimbrough | 204 |
 | 171 | Adrienne Goodson | 203 |
 | 172 | Allie Quigley | 198 |
 | 173 | Layshia Clarendon | 195 |
