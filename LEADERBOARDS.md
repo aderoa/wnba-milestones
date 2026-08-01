@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-01 00:11 UTC_
+_Last updated: 2026-08-01 00:12 UTC_
 
 ## Contents
 
@@ -347,7 +347,7 @@ _Last updated: 2026-08-01 00:11 UTC_
 | 121 | Svetlana Abrosimova | 1,078 |
 | 122 | Le'coe Willingham | 1,054 |
 | 123 | Nicole Ohlde | 1,040 |
-| 124 | **Angel Reese** 🔴 +2 | 1,037 |
+| 124 | **Angel Reese** 🔴 +3 | 1,038 |
 | 125 | Tamecka Dixon | 1,035 |
 | 126 | Kamila Vodichkova | 1,031 |
 | 127 | Jasmine Thomas | 1,027 |
@@ -385,7 +385,7 @@ _Last updated: 2026-08-01 00:11 UTC_
 | 159 | Krystal Thomas | 862 |
 | 160 | **Naz Hillmon** 🔴 | 859 |
 | 161 | Leilani Mitchell | 845 |
-| 162 | **Shakira Austin** 🔴 +4 | 836 |
+| 162 | **Shakira Austin** 🔴 +5 | 837 |
 | 163 | Essence Carson | 833 |
 | 164 | Gabby Williams | 831 |
 | 165 | Kristi Toliver | 829 |
@@ -581,8 +581,8 @@ _Last updated: 2026-08-01 00:11 UTC_
 | 149 | DeMya Walker | 446 |
 | 150 | Essence Carson | 445 |
 | 151 | Julie Allemand | 444 |
-| 152 | **Jessica Shepard** 🔴 +1 | 437 |
-| 152 | Michelle Snow | 437 |
+| 152 | **Jessica Shepard** 🔴 +2 | 438 |
+| 153 | Michelle Snow | 437 |
 | 154 | Lauren Jackson | 435 |
 | 155 | Adrienne Goodson | 433 |
 | 155 | Crystal Langhorne | 433 |
@@ -899,7 +899,7 @@ _Last updated: 2026-08-01 00:11 UTC_
 | 54 | Swin Cash | 384 |
 | 54 | Tiffany Hayes | 384 |
 | 54 | Tina Charles | 384 |
-| 57 | **Allisha Gray** 🔴 | 379 |
+| 57 | **Allisha Gray** 🔴 +1 | 380 |
 | 58 | Monique Currie | 378 |
 | 59 | Chamique Holdsclaw | 376 |
 | 60 | Brittney Sykes | 371 |
@@ -1440,7 +1440,7 @@ _Last updated: 2026-08-01 00:11 UTC_
 | 185 | Monique Billings | 314 |
 | 185 | Moriah Jefferson | 314 |
 | 187 | Alex Bentley | 313 |
-| 188 | **Natisha Hiedeman** 🔴 | 312 |
+| 187 | **Natisha Hiedeman** 🔴 +1 | 313 |
 | 189 | Tamika Raymond | 311 |
 | 190 | Isabelle Harrison | 307 |
 | 191 | Erin Perperoglou | 305 |
