@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-08-01 01:31 UTC
+
+- **Alanna Smith** passed **Cathrine Kraayeveld** and **Kia Nurse** for **#185** all-time in fouls (career 485) — up from #190 entering today — _1:21 - 4th — DAL @ WSH_
+
 ## 2026-08-01 01:02 UTC
 
 - **Alanna Smith** passed **Liz Cambage** and **Rhonda Mapp** for **#187** all-time in fouls (career 484) — up from #190 entering today — _7:51 - 4th — DAL @ WSH_
