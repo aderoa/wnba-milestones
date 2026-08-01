@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-01 19:18 UTC_
+_Last updated: 2026-08-01 19:19 UTC_
 
 ## Contents
 
@@ -67,7 +67,7 @@ _Last updated: 2026-08-01 19:18 UTC_
 | 46 | Crystal Langhorne | 4,433 |
 | 46 | Jia Perkins | 4,433 |
 | 48 | **Courtney Vandersloot** 🔴 +7 | 4,369 |
-| 49 | **Jonquel Jones** 🔴 +2 | 4,355 |
+| 49 | **Jonquel Jones** 🔴 +4 | 4,357 |
 | 50 | Courtney Williams | 4,350 |
 | 51 | Dearica Hamby | 4,330 |
 | 52 | Sophia Young-Malcolm | 4,300 |
@@ -343,7 +343,7 @@ _Last updated: 2026-08-01 19:18 UTC_
 | 117 | Becky Hammon | 1,108 |
 | 118 | Ann Wauters | 1,105 |
 | 119 | Isabelle Harrison | 1,097 |
-| 120 | **Jackie Young** 🔴 +10 | 1,095 |
+| 120 | **Jackie Young** 🔴 +11 | 1,096 |
 | 121 | Svetlana Abrosimova | 1,078 |
 | 122 | Le'coe Willingham | 1,054 |
 | 123 | Nicole Ohlde | 1,040 |
@@ -737,7 +737,7 @@ _Last updated: 2026-08-01 19:18 UTC_
 | 100 | Mistie Bass | 126 |
 | 102 | Brionna Jones | 125 |
 | 102 | **Kamilla Cardoso** 🔴 +1 | 125 |
-| 104 | Natasha Mack | 123 |
+| 104 | **Natasha Mack** 🔴 | 123 |
 | 105 | Natalie Williams | 122 |
 | 106 | Ebony Hoffman | 121 |
 | 106 | Essence Carson | 121 |
@@ -1495,7 +1495,7 @@ _Last updated: 2026-08-01 19:18 UTC_
 | 35 | **Courtney Vandersloot** 🔴 +1 | 941 |
 | 35 | Mwadi Mabika | 941 |
 | 37 | Tamika Whitmore | 940 |
-| 38 | **DeWanna Bonner** 🔴 | 922 |
+| 38 | **DeWanna Bonner** 🔴 +1 | 923 |
 | 39 | Briann January | 921 |
 | 40 | **Jonquel Jones** 🔴 +1 | 914 |
 | 41 | Ticha Penicheiro | 913 |
