@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-01 19:05 UTC_
+_Last updated: 2026-08-01 19:06 UTC_
 
 ## Contents
 
@@ -115,10 +115,10 @@ _Last updated: 2026-08-01 19:05 UTC_
 | 94 | Briann January | 3,082 |
 | 95 | Erika de Souza | 3,046 |
 | 96 | Shameka Christon | 3,039 |
-| 97 | **Natasha Cloud** 🔴 +10 | 3,028 |
+| 97 | **Natasha Cloud** 🔴 +11 | 3,029 |
 | 98 | Marie Ferdinand-Harris | 3,001 |
 | 99 | Emma Meesseman | 2,966 |
-| 100 | **Elizabeth Williams** 🔴 +5 | 2,938 |
+| 100 | **Elizabeth Williams** 🔴 +7 | 2,940 |
 | 101 | Natalie Williams | 2,894 |
 | 102 | Jennifer Gillom | 2,888 |
 | 103 | Iziane Castro Marques | 2,862 |
@@ -231,12 +231,12 @@ _Last updated: 2026-08-01 19:05 UTC_
 | 5 | Rebekkah Brunson | 3,345 |
 | 6 | Tamika Catchings | 3,313 |
 | 7 | Lisa Leslie | 3,303 |
-| 8 | **DeWanna Bonner** 🔴 | 3,290 |
+| 8 | **DeWanna Bonner** 🔴 +1 | 3,291 |
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | **Alyssa Thomas** 🔴 | 2,858 |
-| 13 | **Jonquel Jones** 🔴 +1 | 2,729 |
+| 13 | **Jonquel Jones** 🔴 +2 | 2,730 |
 | 14 | **A'ja Wilson** 🔴 +12 | 2,669 |
 | 15 | **Breanna Stewart** 🔴 | 2,632 |
 | 16 | Sancho Lyttle | 2,596 |
@@ -438,7 +438,7 @@ _Last updated: 2026-08-01 19:05 UTC_
 | 6 | **Chelsea Gray** 🔴 +8 | 2,011 |
 | 7 | **Alyssa Thomas** 🔴 | 1,971 |
 | 8 | Skylar Diggins | 1,852 |
-| 9 | **Natasha Cloud** 🔴 +2 | 1,804 |
+| 9 | **Natasha Cloud** 🔴 +3 | 1,805 |
 | 10 | Becky Hammon | 1,705 |
 | 11 | Candace Parker | 1,634 |
 | 12 | Cappie Pondexter | 1,575 |
@@ -465,7 +465,7 @@ _Last updated: 2026-08-01 19:05 UTC_
 | 33 | **Jackie Young** 🔴 +4 | 1,154 |
 | 34 | Renee Montgomery | 1,140 |
 | 35 | Swin Cash | 1,131 |
-| 36 | **Sabrina Ionescu** 🔴 | 1,092 |
+| 36 | **Sabrina Ionescu** 🔴 +1 | 1,093 |
 | 37 | Lindsey Harding | 1,090 |
 | 38 | Katie Douglas | 1,069 |
 | 39 | Alana Beard | 1,061 |
@@ -1025,9 +1025,9 @@ _Last updated: 2026-08-01 19:05 UTC_
 | 180 | Tamicha Jackson | 188 |
 | 181 | Michele Timms | 187 |
 | 182 | Charde Houston | 185 |
+| 182 | **Sabrina Ionescu** 🔴 +1 | 185 |
 | 182 | Tiffany Jackson | 185 |
-| 184 | Erin Perperoglou | 184 |
-| 184 | **Sabrina Ionescu** 🔴 | 184 |
+| 185 | Erin Perperoglou | 184 |
 | 186 | **Rebecca Allen** 🔴 | 183 |
 | 187 | Erin Phillips | 182 |
 | 187 | Monique Billings | 182 |
