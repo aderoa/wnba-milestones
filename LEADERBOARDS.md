@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-02 18:34 UTC_
+_Last updated: 2026-08-02 18:35 UTC_
 
 ## Contents
 
@@ -87,7 +87,7 @@ _Last updated: 2026-08-02 18:34 UTC_
 | 66 | Kara Lawson | 3,670 |
 | 67 | Mwadi Mabika | 3,576 |
 | 68 | Odyssey Sims | 3,574 |
-| 69 | **Napheesa Collier** 🔴 +12 | 3,554 |
+| 69 | **Napheesa Collier** 🔴 +15 | 3,557 |
 | 70 | Camille Smith | 3,551 |
 | 71 | Shannon Johnson | 3,542 |
 | 72 | Renee Montgomery | 3,533 |
@@ -444,7 +444,7 @@ _Last updated: 2026-08-02 18:34 UTC_
 | 12 | Cappie Pondexter | 1,575 |
 | 13 | Tamika Catchings | 1,484 |
 | 14 | Danielle Robinson | 1,480 |
-| 15 | **Courtney Williams** 🔴 +4 | 1,442 |
+| 15 | **Courtney Williams** 🔴 +5 | 1,443 |
 | 16 | Shannon Johnson | 1,423 |
 | 16 | Tanisha Wright | 1,423 |
 | 18 | Temeka Johnson | 1,382 |
@@ -929,7 +929,7 @@ _Last updated: 2026-08-02 18:34 UTC_
 | 83 | Kristi Toliver | 329 |
 | 85 | Matee Ajavon | 328 |
 | 86 | Gabby Williams | 326 |
-| 87 | **Napheesa Collier** 🔴 | 325 |
+| 86 | **Napheesa Collier** 🔴 +1 | 326 |
 | 88 | Betty Lennox | 323 |
 | 89 | Tammy Sutton-Brown | 319 |
 | 90 | Alysha Clark | 317 |
@@ -1164,7 +1164,7 @@ _Last updated: 2026-08-02 18:34 UTC_
 | 114 | **Nia Coffey** 🔴 | 196 |
 | 115 | Lindsay Whalen | 193 |
 | 116 | Victoria Vivians | 192 |
-| 117 | **Napheesa Collier** 🔴 +1 | 189 |
+| 117 | **Napheesa Collier** 🔴 +2 | 190 |
 | 118 | Danielle Adams | 188 |
 | 119 | Noelle Quinn | 184 |
 | 120 | Marine Johannès | 183 |
@@ -1332,8 +1332,8 @@ _Last updated: 2026-08-02 18:34 UTC_
 | 77 | Kelly Miller | 596 |
 | 78 | Stefanie Dolson | 594 |
 | 79 | Brittney Sykes | 591 |
-| 80 | Breanna Stewart | 586 |
-| 80 | **Kelsey Mitchell** 🔴 +1 | 586 |
+| 80 | **Kelsey Mitchell** 🔴 +2 | 587 |
+| 81 | Breanna Stewart | 586 |
 | 82 | Helen Darling | 575 |
 | 82 | Nykesha Sales | 575 |
 | 84 | Andrea Stinson | 571 |
