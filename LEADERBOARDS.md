@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-02 18:55 UTC_
+_Last updated: 2026-08-02 18:56 UTC_
 
 ## Contents
 
@@ -45,7 +45,7 @@ _Last updated: 2026-08-02 18:55 UTC_
 | 24 | DeLisha Milton-Jones | 5,571 |
 | 25 | Katie Douglas | 5,545 |
 | 26 | Lindsay Whalen | 5,511 |
-| 27 | **Kelsey Mitchell** 🔴 +32 | 5,230 |
+| 27 | **Kelsey Mitchell** 🔴 +35 | 5,233 |
 | 28 | Swin Cash | 5,119 |
 | 29 | Tiffany Hayes | 5,049 |
 | 30 | Tangela Smith | 5,035 |
@@ -66,7 +66,7 @@ _Last updated: 2026-08-02 18:55 UTC_
 | 45 | Kahleah Copper | 4,437 |
 | 46 | Crystal Langhorne | 4,433 |
 | 46 | Jia Perkins | 4,433 |
-| 48 | **Courtney Williams** 🔴 +22 | 4,372 |
+| 48 | **Courtney Williams** 🔴 +24 | 4,374 |
 | 49 | Courtney Vandersloot | 4,362 |
 | 50 | Jonquel Jones | 4,353 |
 | 51 | Dearica Hamby | 4,330 |
@@ -532,7 +532,7 @@ _Last updated: 2026-08-02 18:55 UTC_
 | 100 | Alysha Clark | 619 |
 | 101 | Debbie Black | 612 |
 | 102 | Cynthia Cooper | 602 |
-| 103 | **Caitlin Clark** 🔴 +8 | 599 |
+| 103 | **Caitlin Clark** 🔴 +9 | 600 |
 | 104 | Sancho Lyttle | 592 |
 | 105 | Gabby Williams | 591 |
 | 106 | Betnijah Laney-Hamilton | 590 |
@@ -541,7 +541,7 @@ _Last updated: 2026-08-02 18:55 UTC_
 | 109 | Veronica Burton | 579 |
 | 110 | Tan White | 578 |
 | 111 | Matee Ajavon | 577 |
-| 112 | **Napheesa Collier** 🔴 +6 | 576 |
+| 111 | **Napheesa Collier** 🔴 +7 | 577 |
 | 113 | Nicole Powell | 567 |
 | 114 | Loree Moore | 562 |
 | 115 | Sophia Young-Malcolm | 554 |
@@ -1055,7 +1055,7 @@ _Last updated: 2026-08-02 18:55 UTC_
 | 5 | **Kayla McBride** 🔴 +2 | 758 |
 | 6 | Tina Thompson | 745 |
 | 7 | Katie Douglas | 723 |
-| 8 | **Kelsey Mitchell** 🔴 +5 | 717 |
+| 8 | **Kelsey Mitchell** 🔴 +6 | 718 |
 | 9 | Jewell Loyd | 695 |
 | 10 | DeWanna Bonner | 682 |
 | 11 | Kristi Toliver | 651 |
