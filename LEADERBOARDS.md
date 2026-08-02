@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-02 17:50 UTC_
+_Last updated: 2026-08-02 17:51 UTC_
 
 ## Contents
 
@@ -1469,7 +1469,7 @@ _Last updated: 2026-08-02 17:50 UTC_
 | 9 | Tammy Sutton-Brown | 1,193 |
 | 10 | Plenette Pierson | 1,175 |
 | 11 | Chasity Melvin | 1,165 |
-| 12 | **Natasha Howard** 🔴 +2 | 1,160 |
+| 12 | **Natasha Howard** 🔴 +3 | 1,161 |
 | 13 | Camille Smith | 1,159 |
 | 14 | Nneka Ogwumike | 1,156 |
 | 15 | Alana Beard | 1,153 |
