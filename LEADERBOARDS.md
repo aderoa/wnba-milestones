@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-02 18:52 UTC_
+_Last updated: 2026-08-02 18:53 UTC_
 
 ## Contents
 
@@ -175,7 +175,7 @@ _Last updated: 2026-08-02 18:52 UTC_
 | 154 | Tari Phillips | 2,134 |
 | 155 | Cheryl Ford | 2,116 |
 | 156 | Elena Baranova | 2,110 |
-| 157 | **Aliyah Boston** 🔴 +12 | 2,099 |
+| 157 | **Aliyah Boston** 🔴 +15 | 2,102 |
 | 158 | Aerial Powers | 2,068 |
 | 159 | Coco Miller | 2,030 |
 | 160 | Diamond DeShields | 2,026 |
@@ -532,7 +532,7 @@ _Last updated: 2026-08-02 18:52 UTC_
 | 100 | Alysha Clark | 619 |
 | 101 | Debbie Black | 612 |
 | 102 | Cynthia Cooper | 602 |
-| 103 | **Caitlin Clark** 🔴 +6 | 597 |
+| 103 | **Caitlin Clark** 🔴 +7 | 598 |
 | 104 | Sancho Lyttle | 592 |
 | 105 | Gabby Williams | 591 |
 | 106 | Betnijah Laney-Hamilton | 590 |
@@ -924,9 +924,9 @@ _Last updated: 2026-08-02 18:52 UTC_
 | 79 | Odyssey Sims | 334 |
 | 80 | Marie Ferdinand-Harris | 331 |
 | 81 | Chasity Melvin | 330 |
-| 81 | **Courtney Williams** 🔴 +1 | 330 |
 | 81 | Leilani Mitchell | 330 |
-| 84 | Kristi Toliver | 329 |
+| 83 | **Courtney Williams** 🔴 | 329 |
+| 83 | Kristi Toliver | 329 |
 | 85 | Matee Ajavon | 328 |
 | 86 | Gabby Williams | 326 |
 | 86 | **Napheesa Collier** 🔴 +1 | 326 |
