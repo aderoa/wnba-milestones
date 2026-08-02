@@ -1,5 +1,14 @@
 [
   {
+    "ts": "2026-08-02T21:40:00+00:00",
+    "text": "Bridget Carleton reached 700 career rebounds (now 700) \u2014 (1:32 - 4th \u2014 LA @ POR)",
+    "kind": "round",
+    "player": "Bridget Carleton",
+    "stat": "rebounds",
+    "value": 700,
+    "new_total": 700
+  },
+  {
     "ts": "2026-08-02T21:30:00+00:00",
     "text": "Ariel Atkins passed Allisha Gray for #28 all-time in three-pointers (career 459) \u2014 up from #29 entering today \u2014 (5:18 - 4th \u2014 LA @ POR)",
     "kind": "rank_pass",
@@ -3002,17 +3011,5 @@
       "Barbara Farris"
     ],
     "new_total": 316
-  },
-  {
-    "ts": "2026-07-03T03:03:00+00:00",
-    "text": "Kahleah Copper passed Allison Feaster for #149 all-time in steals (career 220) \u2014 up from #150 entering today \u2014 (Halftime \u2014 SEA @ PHX)",
-    "kind": "rank_pass",
-    "player": "Kahleah Copper",
-    "stat": "steals",
-    "rank": 149,
-    "passed_players": [
-      "Allison Feaster"
-    ],
-    "new_total": 220
   }
 ]
