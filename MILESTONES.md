@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-08-02 21:30 UTC
+
+- **Ariel Atkins** passed **Allisha Gray** for **#28** all-time in three-pointers (career 459) — up from #29 entering today — _5:18 - 4th — LA @ POR_
+
 ## 2026-08-01 04:16 UTC
 
 - **Bridget Carleton** passed **DeLisha Milton-Jones** and **Ruthie Bolton** for **#67** all-time in three-pointers (career 313) — up from #71 entering today — _59.9 - 4th — IND @ POR_
