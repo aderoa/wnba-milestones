@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-02 20:34 UTC_
+_Last updated: 2026-08-02 20:35 UTC_
 
 ## Contents
 
@@ -1117,7 +1117,7 @@ _Last updated: 2026-08-02 20:34 UTC_
 | 67 | DeLisha Milton-Jones | 312 |
 | 67 | Ruthie Bolton | 312 |
 | 69 | Tan White | 311 |
-| 70 | **Bridget Carleton** 🔴 +2 | 308 |
+| 70 | **Bridget Carleton** 🔴 +3 | 309 |
 | 71 | Kedra Holland-Corn | 307 |
 | 72 | Kelly Miller | 305 |
 | 73 | Nikki Teasley | 304 |
