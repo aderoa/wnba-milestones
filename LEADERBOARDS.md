@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-02 18:45 UTC_
+_Last updated: 2026-08-02 18:46 UTC_
 
 ## Contents
 
@@ -87,7 +87,7 @@ _Last updated: 2026-08-02 18:45 UTC_
 | 66 | Kara Lawson | 3,670 |
 | 67 | Mwadi Mabika | 3,576 |
 | 68 | Odyssey Sims | 3,574 |
-| 69 | **Napheesa Collier** 🔴 +15 | 3,557 |
+| 69 | **Napheesa Collier** 🔴 +18 | 3,560 |
 | 70 | Camille Smith | 3,551 |
 | 71 | Shannon Johnson | 3,542 |
 | 72 | Renee Montgomery | 3,533 |
@@ -258,7 +258,7 @@ _Last updated: 2026-08-02 18:45 UTC_
 | 32 | Tammy Sutton-Brown | 2,010 |
 | 33 | Elizabeth Williams | 1,978 |
 | 34 | Cheryl Ford | 1,907 |
-| 35 | **Courtney Williams** 🔴 +3 | 1,846 |
+| 35 | **Courtney Williams** 🔴 +4 | 1,847 |
 | 36 | Kiah Stokes | 1,835 |
 | 37 | Plenette Pierson | 1,834 |
 | 38 | Natalie Williams | 1,832 |
@@ -324,7 +324,7 @@ _Last updated: 2026-08-02 18:45 UTC_
 | 98 | Seimone Augustus | 1,228 |
 | 99 | Jia Perkins | 1,220 |
 | 100 | Kahleah Copper | 1,204 |
-| 101 | **Aliyah Boston** 🔴 +2 | 1,200 |
+| 101 | **Aliyah Boston** 🔴 +4 | 1,202 |
 | 102 | DeMya Walker | 1,199 |
 | 103 | Latasha Byears | 1,190 |
 | 103 | Tanisha Wright | 1,190 |
@@ -584,9 +584,9 @@ _Last updated: 2026-08-02 18:45 UTC_
 | 152 | Michelle Snow | 437 |
 | 153 | Jessica Shepard | 436 |
 | 154 | Lauren Jackson | 435 |
-| 155 | Adrienne Goodson | 433 |
-| 155 | **Aliyah Boston** 🔴 +5 | 433 |
-| 155 | Crystal Langhorne | 433 |
+| 155 | **Aliyah Boston** 🔴 +6 | 434 |
+| 156 | Adrienne Goodson | 433 |
+| 156 | Crystal Langhorne | 433 |
 | 158 | Elena Baranova | 430 |
 | 159 | Tierra Ruffin-Pratt | 424 |
 | 160 | Kedra Holland-Corn | 423 |
@@ -1164,7 +1164,7 @@ _Last updated: 2026-08-02 18:45 UTC_
 | 114 | **Nia Coffey** 🔴 | 196 |
 | 115 | Lindsay Whalen | 193 |
 | 116 | Victoria Vivians | 192 |
-| 117 | **Napheesa Collier** 🔴 +2 | 190 |
+| 117 | **Napheesa Collier** 🔴 +3 | 191 |
 | 118 | Danielle Adams | 188 |
 | 119 | Noelle Quinn | 184 |
 | 120 | Marine Johannès | 183 |
