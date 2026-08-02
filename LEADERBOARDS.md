@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-02 19:44 UTC_
+_Last updated: 2026-08-02 19:45 UTC_
 
 ## Contents
 
@@ -227,7 +227,7 @@ _Last updated: 2026-08-02 19:44 UTC_
 | 1 | Tina Charles | 4,262 |
 | 2 | Sylvia Fowles | 4,005 |
 | 3 | Candace Parker | 3,467 |
-| 4 | **Nneka Ogwumike** 🔴 +1 | 3,407 |
+| 4 | **Nneka Ogwumike** 🔴 +2 | 3,408 |
 | 5 | Rebekkah Brunson | 3,345 |
 | 6 | Tamika Catchings | 3,313 |
 | 7 | Lisa Leslie | 3,303 |
@@ -451,7 +451,7 @@ _Last updated: 2026-08-02 19:44 UTC_
 | 19 | Jasmine Thomas | 1,355 |
 | 20 | Briann January | 1,339 |
 | 21 | Dawn Staley | 1,337 |
-| 22 | **Erica Wheeler** 🔴 | 1,335 |
+| 22 | **Erica Wheeler** 🔴 +1 | 1,336 |
 | 23 | Teresa Weatherspoon | 1,333 |
 | 24 | Kristi Toliver | 1,301 |
 | 25 | Kelsey Plum | 1,270 |
@@ -1117,8 +1117,8 @@ _Last updated: 2026-08-02 19:44 UTC_
 | 67 | DeLisha Milton-Jones | 312 |
 | 67 | Ruthie Bolton | 312 |
 | 69 | Tan White | 311 |
+| 70 | **Bridget Carleton** 🔴 +1 | 307 |
 | 70 | Kedra Holland-Corn | 307 |
-| 71 | **Bridget Carleton** 🔴 | 306 |
 | 72 | Kelly Miller | 305 |
 | 73 | Nikki Teasley | 304 |
 | 74 | Kayla Thornton | 300 |
