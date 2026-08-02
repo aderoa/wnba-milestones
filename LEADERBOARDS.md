@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-02 23:33 UTC_
+_Last updated: 2026-08-02 23:34 UTC_
 
 ## Contents
 
@@ -54,7 +54,7 @@ _Last updated: 2026-08-02 23:33 UTC_
 | 33 | Sheryl Swoopes | 4,875 |
 | 34 | Alyssa Thomas | 4,752 |
 | 35 | Alana Beard | 4,740 |
-| 36 | **Arike Ogunbowale** 🔴 +4 | 4,719 |
+| 36 | **Arike Ogunbowale** 🔴 +7 | 4,722 |
 | 37 | Chamique Holdsclaw | 4,713 |
 | 38 | Elena Delle Donne | 4,706 |
 | 39 | Natasha Howard | 4,695 |
@@ -379,7 +379,7 @@ _Last updated: 2026-08-02 23:33 UTC_
 | 153 | Temeka Johnson | 889 |
 | 154 | Mistie Bass | 888 |
 | 155 | Erica Wheeler | 882 |
-| 156 | **Alanna Smith** 🔴 +2 | 880 |
+| 156 | **Alanna Smith** 🔴 +3 | 881 |
 | 157 | Marina Mabrey | 874 |
 | 158 | Shameka Christon | 867 |
 | 159 | Krystal Thomas | 862 |
@@ -610,7 +610,7 @@ _Last updated: 2026-08-02 23:33 UTC_
 | 178 | Dana Evans | 379 |
 | 179 | Jessica Breland | 377 |
 | 180 | Shenise Johnson | 376 |
-| 181 | **Alanna Smith** 🔴 | 374 |
+| 181 | **Alanna Smith** 🔴 +1 | 375 |
 | 182 | Suzie McConnell Serio | 370 |
 | 183 | Damiris Dantas | 368 |
 | 183 | Kayla Thornton | 368 |
@@ -1062,7 +1062,7 @@ _Last updated: 2026-08-02 23:33 UTC_
 | 12 | Kelsey Plum | 619 |
 | 13 | Tamika Catchings | 605 |
 | 14 | Kara Lawson | 583 |
-| 15 | **Arike Ogunbowale** 🔴 | 581 |
+| 15 | **Arike Ogunbowale** 🔴 +1 | 582 |
 | 16 | Nicole Powell | 579 |
 | 17 | Ivory Latta | 536 |
 | 18 | Renee Montgomery | 532 |
