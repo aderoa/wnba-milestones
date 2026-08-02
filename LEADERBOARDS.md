@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-02 18:33 UTC_
+_Last updated: 2026-08-02 18:34 UTC_
 
 ## Contents
 
@@ -87,7 +87,7 @@ _Last updated: 2026-08-02 18:33 UTC_
 | 66 | Kara Lawson | 3,670 |
 | 67 | Mwadi Mabika | 3,576 |
 | 68 | Odyssey Sims | 3,574 |
-| 69 | **Napheesa Collier** 🔴 +11 | 3,553 |
+| 69 | **Napheesa Collier** 🔴 +12 | 3,554 |
 | 70 | Camille Smith | 3,551 |
 | 71 | Shannon Johnson | 3,542 |
 | 72 | Renee Montgomery | 3,533 |
@@ -200,7 +200,7 @@ _Last updated: 2026-08-02 18:33 UTC_
 | 179 | NaLyssa Smith | 1,879 |
 | 180 | Rachel Banham | 1,843 |
 | 181 | Damiris Dantas | 1,842 |
-| 182 | **Sophie Cunningham** 🔴 | 1,829 |
+| 182 | **Sophie Cunningham** 🔴 +3 | 1,832 |
 | 183 | Tianna Hawkins | 1,825 |
 | 184 | Noelle Quinn | 1,824 |
 | 185 | Danielle Adams | 1,820 |
@@ -313,7 +313,7 @@ _Last updated: 2026-08-02 18:33 UTC_
 | 87 | Azurá Stevens | 1,319 |
 | 88 | Betty Lennox | 1,296 |
 | 89 | Tari Phillips | 1,274 |
-| 90 | **Myisha Hines-Allen** 🔴 | 1,265 |
+| 90 | **Myisha Hines-Allen** 🔴 +2 | 1,267 |
 | 91 | Janel McCarville | 1,261 |
 | 92 | **Kayla McBride** 🔴 +2 | 1,258 |
 | 92 | Liz Cambage | 1,258 |
@@ -551,7 +551,7 @@ _Last updated: 2026-08-02 18:33 UTC_
 | 118 | Svetlana Abrosimova | 551 |
 | 120 | Michele Timms | 549 |
 | 121 | Rhyne Howard | 536 |
-| 122 | **Myisha Hines-Allen** 🔴 | 529 |
+| 122 | **Myisha Hines-Allen** 🔴 +1 | 530 |
 | 123 | Marie Ferdinand-Harris | 528 |
 | 124 | Margo Dydek | 524 |
 | 125 | Rachel Banham | 511 |
@@ -1108,8 +1108,8 @@ _Last updated: 2026-08-02 18:33 UTC_
 | 58 | Candace Parker | 342 |
 | 59 | Deanna Nolan | 340 |
 | 60 | Erica Wheeler | 337 |
-| 61 | Anna DeForge | 334 |
-| 61 | **Sophie Cunningham** 🔴 | 334 |
+| 61 | **Sophie Cunningham** 🔴 +1 | 335 |
+| 62 | Anna DeForge | 334 |
 | 63 | Natisha Hiedeman | 328 |
 | 64 | Sugar Rodgers | 317 |
 | 65 | Marissa Coleman | 315 |
