@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-02 18:48 UTC_
+_Last updated: 2026-08-02 18:49 UTC_
 
 ## Contents
 
@@ -583,8 +583,8 @@ _Last updated: 2026-08-02 18:48 UTC_
 | 151 | Julie Allemand | 444 |
 | 152 | Michelle Snow | 437 |
 | 153 | Jessica Shepard | 436 |
+| 154 | **Aliyah Boston** 🔴 +7 | 435 |
 | 154 | Lauren Jackson | 435 |
-| 155 | **Aliyah Boston** 🔴 +6 | 434 |
 | 156 | Adrienne Goodson | 433 |
 | 156 | Crystal Langhorne | 433 |
 | 158 | Elena Baranova | 430 |
