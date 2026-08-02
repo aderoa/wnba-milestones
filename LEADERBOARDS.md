@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-02 21:42 UTC_
+_Last updated: 2026-08-02 21:43 UTC_
 
 ## Contents
 
@@ -22,7 +22,7 @@ _Last updated: 2026-08-02 21:42 UTC_
 | 1 | Diana Taurasi | 10,608 |
 | 2 | Tina Charles | 8,396 |
 | 3 | DeWanna Bonner | 7,972 |
-| 4 | **Nneka Ogwumike** 🔴 +17 | 7,580 |
+| 4 | **Nneka Ogwumike** 🔴 +20 | 7,583 |
 | 5 | Tina Thompson | 7,470 |
 | 6 | Tamika Catchings | 7,371 |
 | 7 | Candice Dupree | 6,861 |
@@ -395,7 +395,7 @@ _Last updated: 2026-08-02 21:42 UTC_
 | 168 | Barbara Farris | 819 |
 | 170 | Carolyn Swords | 814 |
 | 171 | Betnijah Laney-Hamilton | 812 |
-| 172 | **Ariel Atkins** 🔴 +2 | 800 |
+| 172 | **Ariel Atkins** 🔴 +3 | 801 |
 | 173 | Tierra Ruffin-Pratt | 799 |
 | 174 | Charlotte Smith | 794 |
 | 175 | Rhonda Mapp | 788 |
@@ -449,7 +449,7 @@ _Last updated: 2026-08-02 21:42 UTC_
 | 16 | Tanisha Wright | 1,423 |
 | 18 | Temeka Johnson | 1,382 |
 | 19 | Jasmine Thomas | 1,355 |
-| 20 | **Erica Wheeler** 🔴 +7 | 1,342 |
+| 20 | **Erica Wheeler** 🔴 +8 | 1,343 |
 | 21 | Briann January | 1,339 |
 | 22 | Dawn Staley | 1,337 |
 | 23 | Teresa Weatherspoon | 1,333 |
@@ -1133,8 +1133,8 @@ _Last updated: 2026-08-02 21:42 UTC_
 | 83 | Iziane Castro Marques | 275 |
 | 84 | Sheryl Swoopes | 270 |
 | 85 | Sophia Witherspoon | 260 |
-| 86 | **Nneka Ogwumike** 🔴 +2 | 255 |
-| 86 | Rebecca Allen | 255 |
+| 86 | **Nneka Ogwumike** 🔴 +3 | 256 |
+| 87 | Rebecca Allen | 255 |
 | 88 | Dawn Staley | 254 |
 | 89 | Bria Hartley | 253 |
 | 90 | Angel McCoughtry | 249 |
@@ -1519,7 +1519,7 @@ _Last updated: 2026-08-02 21:42 UTC_
 | 59 | Skylar Diggins | 825 |
 | 60 | Shannon Johnson | 813 |
 | 60 | Tully Bevilaqua | 813 |
-| 62 | **Erica Wheeler** 🔴 +2 | 810 |
+| 62 | **Erica Wheeler** 🔴 +3 | 811 |
 | 63 | Nykesha Sales | 796 |
 | 64 | Ebony Hoffman | 791 |
 | 65 | Sue Bird | 775 |
