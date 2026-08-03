@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-03 00:39 UTC_
+_Last updated: 2026-08-03 00:40 UTC_
 
 ## Contents
 
@@ -187,7 +187,7 @@ _Last updated: 2026-08-03 00:39 UTC_
 | 166 | Nicole Ohlde | 1,959 |
 | 167 | Myisha Hines-Allen | 1,956 |
 | 168 | Kedra Holland-Corn | 1,938 |
-| 169 | **Isabelle Harrison** 🔴 | 1,932 |
+| 169 | **Isabelle Harrison** 🔴 +2 | 1,934 |
 | 170 | Cathrine Kraayeveld | 1,926 |
 | 171 | Roneeka Hodges | 1,925 |
 | 172 | Latasha Byears | 1,920 |
@@ -533,8 +533,8 @@ _Last updated: 2026-08-03 00:39 UTC_
 | 101 | Debbie Black | 612 |
 | 102 | Cynthia Cooper | 602 |
 | 103 | Caitlin Clark | 601 |
+| 104 | **Gabby Williams** 🔴 +1 | 592 |
 | 104 | Sancho Lyttle | 592 |
-| 105 | **Gabby Williams** 🔴 | 591 |
 | 106 | Betnijah Laney-Hamilton | 590 |
 | 106 | Camille Smith | 590 |
 | 108 | Armintie Herrington | 589 |
@@ -1224,8 +1224,8 @@ _Last updated: 2026-08-03 00:39 UTC_
 | 173 | Michele Timms | 127 |
 | 175 | Lexie Hull | 126 |
 | 175 | Tamecka Dixon | 126 |
-| 177 | Charde Houston | 124 |
-| 177 | **Veronica Burton** 🔴 | 124 |
+| 177 | **Veronica Burton** 🔴 +1 | 125 |
+| 178 | Charde Houston | 124 |
 | 179 | Lisa Leslie | 123 |
 | 180 | Sidney Spencer | 122 |
 | 181 | Tonya Edwards | 118 |
