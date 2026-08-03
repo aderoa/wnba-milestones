@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-03 00:53 UTC_
+_Last updated: 2026-08-03 00:54 UTC_
 
 ## Contents
 
@@ -1499,8 +1499,8 @@ _Last updated: 2026-08-03 00:53 UTC_
 | 39 | Briann January | 921 |
 | 40 | Jonquel Jones | 913 |
 | 40 | Ticha Penicheiro | 913 |
-| 42 | **Alysha Clark** 🔴 +2 | 907 |
-| 42 | Shavonte Zellous | 907 |
+| 42 | **Alysha Clark** 🔴 +3 | 908 |
+| 43 | Shavonte Zellous | 907 |
 | 44 | DeMya Walker | 882 |
 | 45 | Candice Dupree | 876 |
 | 46 | Murriel Page | 872 |
