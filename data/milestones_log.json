@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-08-03T02:10:00+00:00",
+    "text": "Tiffany Hayes passed Briann January for #53 all-time in steals (career 387) \u2014 up from #55 entering today \u2014 (5:55 - 4th \u2014 TOR @ GS)",
+    "kind": "rank_pass",
+    "player": "Tiffany Hayes",
+    "stat": "steals",
+    "rank": 53,
+    "passed_players": [
+      "Briann January"
+    ],
+    "new_total": 387
+  },
+  {
     "ts": "2026-08-02T21:40:00+00:00",
     "text": "Bridget Carleton reached 700 career rebounds (now 700) \u2014 (1:32 - 4th \u2014 LA @ POR)",
     "kind": "round",
@@ -2999,17 +3011,5 @@
       "Shatori Walker-Kimbrough"
     ],
     "new_total": 205
-  },
-  {
-    "ts": "2026-07-03T03:12:00+00:00",
-    "text": "Natisha Hiedeman passed Barbara Farris for #184 all-time in turnovers (career 316) \u2014 up from #188 entering today \u2014 (6:49 - 3rd \u2014 SEA @ PHX)",
-    "kind": "rank_pass",
-    "player": "Natisha Hiedeman",
-    "stat": "turnovers",
-    "rank": 184,
-    "passed_players": [
-      "Barbara Farris"
-    ],
-    "new_total": 316
   }
 ]
