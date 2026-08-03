@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-03 02:00 UTC_
+_Last updated: 2026-08-03 02:01 UTC_
 
 ## Contents
 
@@ -657,8 +657,8 @@ _Last updated: 2026-08-03 02:00 UTC_
 | 19 | Natasha Howard | 370 |
 | 21 | Jessica Breland | 367 |
 | 22 | DeWanna Bonner | 358 |
-| 23 | Ezi Magbegor | 354 |
-| 23 | **Kiah Stokes** 🔴 +2 | 354 |
+| 23 | **Kiah Stokes** 🔴 +3 | 355 |
+| 24 | Ezi Magbegor | 354 |
 | 25 | Diana Taurasi | 349 |
 | 25 | Elena Delle Donne | 349 |
 | 27 | DeLisha Milton-Jones | 339 |
@@ -896,7 +896,7 @@ _Last updated: 2026-08-03 02:00 UTC_
 | 51 | Danielle Robinson | 389 |
 | 52 | Deanna Nolan | 388 |
 | 53 | Briann January | 386 |
-| 54 | **Tiffany Hayes** 🔴 +1 | 385 |
+| 53 | **Tiffany Hayes** 🔴 +2 | 386 |
 | 55 | Swin Cash | 384 |
 | 55 | Tina Charles | 384 |
 | 57 | Allisha Gray | 379 |
