@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-03 23:04 UTC_
+_Last updated: 2026-08-03 23:05 UTC_
 
 ## Contents
 
@@ -110,8 +110,8 @@ _Last updated: 2026-08-03 23:04 UTC_
 | 89 | Erica Wheeler | 3,195 |
 | 90 | Danielle Robinson | 3,160 |
 | 91 | Wendy Palmer | 3,135 |
+| 92 | **Sabrina Ionescu** 🔴 +6 | 3,103 |
 | 92 | Shavonte Zellous | 3,103 |
-| 93 | **Sabrina Ionescu** 🔴 | 3,097 |
 | 94 | Briann January | 3,082 |
 | 95 | Erika de Souza | 3,046 |
 | 96 | Shameka Christon | 3,039 |
@@ -236,7 +236,7 @@ _Last updated: 2026-08-03 23:04 UTC_
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | Alyssa Thomas | 2,858 |
-| 13 | **Jonquel Jones** 🔴 | 2,728 |
+| 13 | **Jonquel Jones** 🔴 +1 | 2,729 |
 | 14 | A'ja Wilson | 2,657 |
 | 15 | **Breanna Stewart** 🔴 | 2,632 |
 | 16 | Sancho Lyttle | 2,596 |
@@ -523,7 +523,7 @@ _Last updated: 2026-08-03 23:04 UTC_
 | 91 | Lindsay Allen | 657 |
 | 92 | Betty Lennox | 651 |
 | 92 | Plenette Pierson | 651 |
-| 94 | **Jonquel Jones** 🔴 | 647 |
+| 94 | **Jonquel Jones** 🔴 +1 | 648 |
 | 95 | Alex Bentley | 645 |
 | 96 | Asjha Jones | 637 |
 | 97 | Jennifer Azzi | 636 |
@@ -646,7 +646,7 @@ _Last updated: 2026-08-03 23:04 UTC_
 | 9 | Tangela Smith | 554 |
 | 10 | Ruth Riley | 505 |
 | 11 | Elizabeth Williams | 503 |
-| 12 | **Breanna Stewart** 🔴 | 450 |
+| 12 | **Breanna Stewart** 🔴 +1 | 451 |
 | 13 | Taj McWilliams-Franklin | 443 |
 | 14 | Tina Charles | 428 |
 | 15 | **Jonquel Jones** 🔴 | 425 |
@@ -1071,8 +1071,8 @@ _Last updated: 2026-08-03 23:04 UTC_
 | 21 | Allie Quigley | 510 |
 | 22 | Leilani Mitchell | 508 |
 | 23 | Marina Mabrey | 500 |
-| 24 | **Sabrina Ionescu** 🔴 | 468 |
-| 24 | Shekinna Stricklen | 468 |
+| 24 | **Sabrina Ionescu** 🔴 +2 | 470 |
+| 25 | Shekinna Stricklen | 468 |
 | 26 | **Breanna Stewart** 🔴 | 465 |
 | 27 | Cappie Pondexter | 464 |
 | 28 | Allisha Gray | 458 |
