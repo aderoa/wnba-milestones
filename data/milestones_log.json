@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-08-03T02:23:00+00:00",
+    "text": "Veronica Burton passed Tamecka Dixon for #174 all-time in three-pointers (career 127) \u2014 up from #178 entering today \u2014 (2:11 - 4th \u2014 TOR @ GS)",
+    "kind": "rank_pass",
+    "player": "Veronica Burton",
+    "stat": "three-pointers",
+    "rank": 174,
+    "passed_players": [
+      "Tamecka Dixon"
+    ],
+    "new_total": 127
+  },
+  {
     "ts": "2026-08-03T02:10:00+00:00",
     "text": "Tiffany Hayes passed Briann January for #53 all-time in steals (career 387) \u2014 up from #55 entering today \u2014 (5:55 - 4th \u2014 TOR @ GS)",
     "kind": "rank_pass",
@@ -2997,19 +3009,5 @@
       "Jennifer Gillom"
     ],
     "new_total": 221
-  },
-  {
-    "ts": "2026-07-03T03:12:00+00:00",
-    "text": "Natisha Hiedeman passed Jessica Breland, Murriel Page, and Shatori Walker-Kimbrough for #167 all-time in steals (career 205) \u2014 up from #169 entering today \u2014 (6:49 - 3rd \u2014 SEA @ PHX)",
-    "kind": "rank_pass",
-    "player": "Natisha Hiedeman",
-    "stat": "steals",
-    "rank": 167,
-    "passed_players": [
-      "Jessica Breland",
-      "Murriel Page",
-      "Shatori Walker-Kimbrough"
-    ],
-    "new_total": 205
   }
 ]
