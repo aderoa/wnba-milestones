@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-03 01:46 UTC_
+_Last updated: 2026-08-03 01:47 UTC_
 
 ## Contents
 
@@ -1235,9 +1235,9 @@ _Last updated: 2026-08-03 01:46 UTC_
 | 184 | Shey Peddy | 115 |
 | 184 | Stephanie White | 115 |
 | 187 | Gordana Grubin | 114 |
+| 187 | **Janelle Salaun** 🔴 +3 | 114 |
 | 187 | Rickea Jackson | 114 |
 | 187 | Sandy Brondello | 114 |
-| 190 | **Janelle Salaun** 🔴 +2 | 113 |
 | 191 | **Cecilia Zandalasini** 🔴 +1 | 112 |
 | 192 | Shoni Schimmel | 111 |
 | 193 | Emma Meesseman | 109 |
@@ -1481,7 +1481,7 @@ _Last updated: 2026-08-03 01:46 UTC_
 | 21 | Michelle Snow | 1,108 |
 | 22 | Sylvia Fowles | 1,049 |
 | 23 | Tina Charles | 1,037 |
-| 24 | **Tiffany Hayes** 🔴 | 1,021 |
+| 24 | **Tiffany Hayes** 🔴 +1 | 1,022 |
 | 25 | Lindsay Whalen | 998 |
 | 26 | Rebekkah Brunson | 996 |
 | 27 | Brittney Griner | 995 |
