@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-03 02:16 UTC_
+_Last updated: 2026-08-03 02:17 UTC_
 
 ## Contents
 
@@ -47,7 +47,7 @@ _Last updated: 2026-08-03 02:16 UTC_
 | 26 | Lindsay Whalen | 5,511 |
 | 27 | Kelsey Mitchell | 5,235 |
 | 28 | Swin Cash | 5,119 |
-| 29 | **Tiffany Hayes** 🔴 +13 | 5,062 |
+| 29 | **Tiffany Hayes** 🔴 +15 | 5,064 |
 | 30 | Tangela Smith | 5,035 |
 | 31 | Taj McWilliams-Franklin | 4,992 |
 | 32 | Maya Moore | 4,984 |
@@ -315,8 +315,8 @@ _Last updated: 2026-08-03 02:16 UTC_
 | 89 | Tari Phillips | 1,274 |
 | 90 | Myisha Hines-Allen | 1,267 |
 | 91 | Janel McCarville | 1,261 |
-| 92 | Kayla McBride | 1,259 |
-| 92 | **Tiffany Hayes** 🔴 +2 | 1,259 |
+| 92 | **Tiffany Hayes** 🔴 +3 | 1,260 |
+| 93 | Kayla McBride | 1,259 |
 | 94 | Liz Cambage | 1,258 |
 | 95 | Chelsea Gray | 1,257 |
 | 96 | Brianna Turner | 1,243 |
@@ -538,7 +538,7 @@ _Last updated: 2026-08-03 02:16 UTC_
 | 106 | Betnijah Laney-Hamilton | 590 |
 | 106 | Camille Smith | 590 |
 | 108 | Armintie Herrington | 589 |
-| 109 | **Veronica Burton** 🔴 +5 | 584 |
+| 109 | **Veronica Burton** 🔴 +6 | 585 |
 | 110 | Tan White | 578 |
 | 111 | Matee Ajavon | 577 |
 | 111 | Napheesa Collier | 577 |
@@ -575,10 +575,10 @@ _Last updated: 2026-08-03 02:16 UTC_
 | 143 | Sydney Colson | 454 |
 | 144 | Yolanda Griffith | 451 |
 | 145 | Elena Delle Donne | 450 |
+| 145 | **Julie Allemand** 🔴 +6 | 450 |
 | 145 | Kristi Harrower | 450 |
 | 145 | Nikki McCray | 450 |
-| 148 | **Julie Allemand** 🔴 +5 | 449 |
-| 148 | Ruth Riley | 449 |
+| 149 | Ruth Riley | 449 |
 | 150 | DeMya Walker | 446 |
 | 151 | Essence Carson | 445 |
 | 152 | Jessica Shepard | 438 |
