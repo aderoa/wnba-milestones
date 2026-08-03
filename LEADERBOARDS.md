@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-03 23:54 UTC_
+_Last updated: 2026-08-03 23:55 UTC_
 
 ## Contents
 
@@ -33,7 +33,7 @@ _Last updated: 2026-08-03 23:54 UTC_
 | 12 | Sylvia Fowles | 6,413 |
 | 13 | **Breanna Stewart** 🔴 +13 | 6,348 |
 | 14 | Lisa Leslie | 6,251 |
-| 15 | **A'ja Wilson** 🔴 +7 | 6,185 |
+| 15 | **A'ja Wilson** 🔴 +9 | 6,187 |
 | 16 | **Jewell Loyd** 🔴 +3 | 6,151 |
 | 17 | Brittney Griner | 6,087 |
 | 18 | Lauren Jackson | 6,005 |
@@ -1007,11 +1007,11 @@ _Last updated: 2026-08-03 23:54 UTC_
 | 163 | Kia Vaughn | 208 |
 | 163 | Sophia Witherspoon | 208 |
 | 165 | Betnijah Laney-Hamilton | 207 |
+| 166 | **Natisha Hiedeman** 🔴 +1 | 205 |
 | 166 | Shameka Christon | 205 |
-| 167 | Jessica Breland | 204 |
-| 167 | Murriel Page | 204 |
-| 167 | **Natisha Hiedeman** 🔴 | 204 |
-| 167 | Shatori Walker-Kimbrough | 204 |
+| 168 | Jessica Breland | 204 |
+| 168 | Murriel Page | 204 |
+| 168 | Shatori Walker-Kimbrough | 204 |
 | 171 | Adrienne Goodson | 203 |
 | 172 | Allie Quigley | 198 |
 | 173 | Layshia Clarendon | 195 |
@@ -1347,7 +1347,7 @@ _Last updated: 2026-08-03 23:54 UTC_
 | 93 | Layshia Clarendon | 536 |
 | 94 | Ivory Latta | 534 |
 | 94 | Iziane Castro Marques | 534 |
-| 96 | **Sabrina Ionescu** 🔴 | 533 |
+| 94 | **Sabrina Ionescu** 🔴 +1 | 534 |
 | 97 | Mwadi Mabika | 532 |
 | 98 | Nakia Sanford | 531 |
 | 99 | Arike Ogunbowale | 529 |
