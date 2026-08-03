@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-03 23:18 UTC_
+_Last updated: 2026-08-03 23:19 UTC_
 
 ## Contents
 
@@ -180,7 +180,7 @@ _Last updated: 2026-08-03 23:18 UTC_
 | 159 | Coco Miller | 2,030 |
 | 160 | Diamond DeShields | 2,026 |
 | 161 | Vicky Bullett | 2,018 |
-| 162 | **Natisha Hiedeman** 🔴 +6 | 2,008 |
+| 162 | **Natisha Hiedeman** 🔴 +8 | 2,010 |
 | 163 | **Ezi Magbegor** 🔴 | 1,995 |
 | 164 | Bria Hartley | 1,967 |
 | 165 | Chiney Ogwumike | 1,964 |
@@ -347,7 +347,7 @@ _Last updated: 2026-08-03 23:18 UTC_
 | 121 | Svetlana Abrosimova | 1,078 |
 | 122 | Le'coe Willingham | 1,054 |
 | 123 | Nicole Ohlde | 1,040 |
-| 124 | **Angel Reese** 🔴 +1 | 1,036 |
+| 124 | **Angel Reese** 🔴 +2 | 1,037 |
 | 125 | Tamecka Dixon | 1,035 |
 | 126 | Kamila Vodichkova | 1,031 |
 | 127 | Jasmine Thomas | 1,027 |
@@ -1351,8 +1351,8 @@ _Last updated: 2026-08-03 23:18 UTC_
 | 97 | Mwadi Mabika | 532 |
 | 98 | Nakia Sanford | 531 |
 | 99 | Arike Ogunbowale | 529 |
-| 100 | **Jordin Canada** 🔴 | 527 |
-| 100 | Maya Moore | 527 |
+| 100 | **Jordin Canada** 🔴 +1 | 528 |
+| 101 | Maya Moore | 527 |
 | 102 | Kara Lawson | 526 |
 | 103 | Leilani Mitchell | 525 |
 | 103 | Nicole Powell | 525 |
