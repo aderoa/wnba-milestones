@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-03 00:38 UTC_
+_Last updated: 2026-08-03 00:39 UTC_
 
 ## Contents
 
@@ -157,7 +157,7 @@ _Last updated: 2026-08-03 00:38 UTC_
 | 136 | Betnijah Laney-Hamilton | 2,302 |
 | 137 | Satou Sabally | 2,296 |
 | 138 | Kia Vaughn | 2,288 |
-| 139 | Kia Nurse | 2,262 |
+| 139 | **Kia Nurse** 🔴 | 2,262 |
 | 140 | Allison Feaster | 2,258 |
 | 141 | Shekinna Stricklen | 2,245 |
 | 142 | Kara Braxton | 2,237 |
@@ -187,7 +187,7 @@ _Last updated: 2026-08-03 00:38 UTC_
 | 166 | Nicole Ohlde | 1,959 |
 | 167 | Myisha Hines-Allen | 1,956 |
 | 168 | Kedra Holland-Corn | 1,938 |
-| 169 | Isabelle Harrison | 1,932 |
+| 169 | **Isabelle Harrison** 🔴 | 1,932 |
 | 170 | Cathrine Kraayeveld | 1,926 |
 | 171 | Roneeka Hodges | 1,925 |
 | 172 | Latasha Byears | 1,920 |
@@ -196,7 +196,7 @@ _Last updated: 2026-08-03 00:38 UTC_
 | 175 | Nakia Sanford | 1,915 |
 | 176 | Ebony Hoffman | 1,909 |
 | 177 | Candice Wiggins | 1,901 |
-| 178 | **Gabby Williams** 🔴 | 1,899 |
+| 177 | **Gabby Williams** 🔴 +2 | 1,901 |
 | 179 | NaLyssa Smith | 1,879 |
 | 180 | Rachel Banham | 1,843 |
 | 181 | Damiris Dantas | 1,842 |
@@ -287,7 +287,7 @@ _Last updated: 2026-08-03 00:38 UTC_
 | 61 | Napheesa Collier | 1,518 |
 | 62 | Cappie Pondexter | 1,513 |
 | 63 | Ticha Penicheiro | 1,485 |
-| 64 | **Alysha Clark** 🔴 +1 | 1,470 |
+| 64 | **Alysha Clark** 🔴 +2 | 1,471 |
 | 65 | Sue Bird | 1,466 |
 | 66 | Cheyenne Parker-Tyus | 1,463 |
 | 67 | Nicole Powell | 1,457 |
@@ -342,7 +342,7 @@ _Last updated: 2026-08-03 00:38 UTC_
 | 116 | Chiney Ogwumike | 1,110 |
 | 117 | Becky Hammon | 1,108 |
 | 118 | Ann Wauters | 1,105 |
-| 119 | Isabelle Harrison | 1,097 |
+| 119 | **Isabelle Harrison** 🔴 | 1,097 |
 | 120 | Jackie Young | 1,085 |
 | 121 | Svetlana Abrosimova | 1,078 |
 | 122 | Le'coe Willingham | 1,054 |
@@ -596,7 +596,7 @@ _Last updated: 2026-08-03 00:38 UTC_
 | 164 | Erin Thorn | 414 |
 | 165 | Jamierra Faulkner | 410 |
 | 165 | Murriel Page | 410 |
-| 167 | Kia Nurse | 407 |
+| 167 | **Kia Nurse** 🔴 | 407 |
 | 168 | Allison Feaster | 406 |
 | 169 | Rita Williams | 403 |
 | 170 | Stephanie Talbot | 400 |
@@ -762,7 +762,7 @@ _Last updated: 2026-08-03 00:38 UTC_
 | 124 | Rebecca Lobo | 104 |
 | 126 | Jennifer Gillom | 103 |
 | 126 | Jia Perkins | 103 |
-| 128 | Isabelle Harrison | 102 |
+| 128 | **Isabelle Harrison** 🔴 | 102 |
 | 128 | Theresa Plaisance | 102 |
 | 130 | Deanna Nolan | 101 |
 | 131 | Chante Black | 100 |
@@ -1021,7 +1021,7 @@ _Last updated: 2026-08-03 00:38 UTC_
 | 174 | Tierra Ruffin-Pratt | 194 |
 | 177 | Cynthia Cooper | 192 |
 | 178 | Myisha Hines-Allen | 191 |
-| 179 | Isabelle Harrison | 190 |
+| 179 | **Isabelle Harrison** 🔴 | 190 |
 | 180 | Tamicha Jackson | 188 |
 | 181 | Michele Timms | 187 |
 | 182 | Charde Houston | 185 |
@@ -1099,7 +1099,7 @@ _Last updated: 2026-08-03 00:38 UTC_
 | 48 | Betty Lennox | 372 |
 | 50 | Kahleah Copper | 370 |
 | 51 | Epiphanny Prince | 368 |
-| 51 | Kia Nurse | 368 |
+| 51 | **Kia Nurse** 🔴 | 368 |
 | 53 | Nykesha Sales | 352 |
 | 54 | Jackie Young | 346 |
 | 55 | Natasha Cloud | 345 |
@@ -1435,14 +1435,14 @@ _Last updated: 2026-08-03 00:38 UTC_
 | 179 | Rita Williams | 326 |
 | 181 | Le'coe Willingham | 325 |
 | 182 | Olympia Scott | 324 |
-| 183 | Kia Nurse | 320 |
+| 183 | **Kia Nurse** 🔴 | 320 |
 | 184 | Barbara Farris | 315 |
 | 185 | Monique Billings | 314 |
 | 185 | Moriah Jefferson | 314 |
 | 187 | Alex Bentley | 313 |
 | 188 | Natisha Hiedeman | 312 |
 | 189 | Tamika Raymond | 311 |
-| 190 | Isabelle Harrison | 307 |
+| 190 | **Isabelle Harrison** 🔴 | 307 |
 | 191 | Erin Perperoglou | 305 |
 | 191 | Jennifer Lacy | 305 |
 | 193 | Azurá Stevens | 304 |
@@ -1624,7 +1624,7 @@ _Last updated: 2026-08-03 00:38 UTC_
 | 164 | Andrea Stinson | 511 |
 | 165 | Vicky Bullett | 507 |
 | 166 | Merlakia Jones | 506 |
-| 167 | Isabelle Harrison | 505 |
+| 167 | **Isabelle Harrison** 🔴 | 505 |
 | 167 | Napheesa Collier | 505 |
 | 167 | Rushia Brown | 505 |
 | 167 | Shekinna Stricklen | 505 |
@@ -1643,7 +1643,7 @@ _Last updated: 2026-08-03 00:38 UTC_
 | 183 | Charde Houston | 487 |
 | 184 | Lindsey Harding | 486 |
 | 185 | Cathrine Kraayeveld | 484 |
-| 185 | Kia Nurse | 484 |
+| 185 | **Kia Nurse** 🔴 | 484 |
 | 187 | Liz Cambage | 483 |
 | 187 | Rhonda Mapp | 483 |
 | 189 | **Alanna Smith** 🔴 +3 | 482 |
