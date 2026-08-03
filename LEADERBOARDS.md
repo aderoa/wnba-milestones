@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-03 00:49 UTC_
+_Last updated: 2026-08-03 00:50 UTC_
 
 ## Contents
 
@@ -317,8 +317,8 @@ _Last updated: 2026-08-03 00:49 UTC_
 | 91 | Janel McCarville | 1,261 |
 | 92 | Kayla McBride | 1,259 |
 | 93 | Liz Cambage | 1,258 |
-| 94 | Chelsea Gray | 1,257 |
-| 94 | **Tiffany Hayes** 🔴 | 1,257 |
+| 93 | **Tiffany Hayes** 🔴 +1 | 1,258 |
+| 95 | Chelsea Gray | 1,257 |
 | 96 | Brianna Turner | 1,243 |
 | 96 | Ezi Magbegor | 1,243 |
 | 98 | Seimone Augustus | 1,228 |
@@ -477,7 +477,7 @@ _Last updated: 2026-08-03 00:49 UTC_
 | 45 | Nikki Teasley | 982 |
 | 46 | Breanna Stewart | 981 |
 | 47 | Tamecka Dixon | 960 |
-| 48 | **Tiffany Hayes** 🔴 | 957 |
+| 48 | **Tiffany Hayes** 🔴 +1 | 958 |
 | 49 | **Arike Ogunbowale** 🔴 +5 | 949 |
 | 50 | Kara Lawson | 946 |
 | 51 | Nneka Ogwumike | 935 |
@@ -896,9 +896,9 @@ _Last updated: 2026-08-03 00:49 UTC_
 | 51 | Danielle Robinson | 389 |
 | 52 | Deanna Nolan | 388 |
 | 53 | Briann January | 386 |
-| 54 | Swin Cash | 384 |
-| 54 | **Tiffany Hayes** 🔴 | 384 |
-| 54 | Tina Charles | 384 |
+| 54 | **Tiffany Hayes** 🔴 +1 | 385 |
+| 55 | Swin Cash | 384 |
+| 55 | Tina Charles | 384 |
 | 57 | Allisha Gray | 379 |
 | 58 | Monique Currie | 378 |
 | 59 | Chamique Holdsclaw | 376 |
