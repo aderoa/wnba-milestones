@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-03 23:58 UTC_
+_Last updated: 2026-08-03 23:59 UTC_
 
 ## Contents
 
@@ -58,7 +58,7 @@ _Last updated: 2026-08-03 23:58 UTC_
 | 37 | Chamique Holdsclaw | 4,713 |
 | 38 | Elena Delle Donne | 4,706 |
 | 39 | Natasha Howard | 4,682 |
-| 40 | **Chelsea Gray** 🔴 +6 | 4,631 |
+| 40 | **Chelsea Gray** 🔴 +8 | 4,633 |
 | 41 | Penny Taylor | 4,595 |
 | 42 | **Allisha Gray** 🔴 +5 | 4,496 |
 | 43 | Kelsey Plum | 4,494 |
@@ -83,7 +83,7 @@ _Last updated: 2026-08-03 23:58 UTC_
 | 62 | Allie Quigley | 3,786 |
 | 63 | Chasity Melvin | 3,781 |
 | 64 | Brittney Sykes | 3,726 |
-| 65 | **Jackie Young** 🔴 +13 | 3,711 |
+| 65 | **Jackie Young** 🔴 +15 | 3,713 |
 | 66 | Kara Lawson | 3,670 |
 | 67 | Mwadi Mabika | 3,576 |
 | 68 | Odyssey Sims | 3,574 |
@@ -516,7 +516,7 @@ _Last updated: 2026-08-03 23:58 UTC_
 | 85 | Emma Meesseman | 681 |
 | 86 | Nykesha Sales | 677 |
 | 87 | **Natisha Hiedeman** 🔴 +3 | 671 |
-| 88 | **A'ja Wilson** 🔴 +1 | 668 |
+| 88 | **A'ja Wilson** 🔴 +2 | 669 |
 | 89 | Bria Hartley | 661 |
 | 90 | Brittney Griner | 660 |
 | 91 | Lindsay Allen | 657 |
@@ -747,11 +747,11 @@ _Last updated: 2026-08-03 23:58 UTC_
 | 110 | Crystal Langhorne | 117 |
 | 112 | Ariel Atkins | 115 |
 | 113 | Monique Currie | 114 |
-| 114 | Amanda Lassiter | 111 |
-| 114 | Kamila Vodichkova | 111 |
-| 114 | **Rhyne Howard** 🔴 | 111 |
-| 114 | Sophia Young-Malcolm | 111 |
-| 114 | Tari Phillips | 111 |
+| 114 | **Rhyne Howard** 🔴 +1 | 112 |
+| 115 | Amanda Lassiter | 111 |
+| 115 | Kamila Vodichkova | 111 |
+| 115 | Sophia Young-Malcolm | 111 |
+| 115 | Tari Phillips | 111 |
 | 119 | Courtney Williams | 109 |
 | 120 | Erin Perperoglou | 108 |
 | 120 | Glory Johnson | 108 |
@@ -872,8 +872,8 @@ _Last updated: 2026-08-03 23:58 UTC_
 | 28 | Natasha Howard | 467 |
 | 29 | Skylar Diggins | 463 |
 | 29 | Teresa Weatherspoon | 463 |
+| 31 | **Chelsea Gray** 🔴 +1 | 458 |
 | 31 | **Jewell Loyd** 🔴 | 458 |
-| 32 | **Chelsea Gray** 🔴 | 457 |
 | 33 | Rebekkah Brunson | 456 |
 | 34 | Tangela Smith | 455 |
 | 35 | Tina Thompson | 452 |
