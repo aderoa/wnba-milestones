@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-03 00:35 UTC_
+_Last updated: 2026-08-03 00:36 UTC_
 
 ## Contents
 
@@ -658,7 +658,7 @@ _Last updated: 2026-08-03 00:35 UTC_
 | 21 | Jessica Breland | 367 |
 | 22 | DeWanna Bonner | 358 |
 | 23 | Ezi Magbegor | 354 |
-| 24 | **Kiah Stokes** 🔴 +1 | 353 |
+| 23 | **Kiah Stokes** 🔴 +2 | 354 |
 | 25 | Diana Taurasi | 349 |
 | 25 | Elena Delle Donne | 349 |
 | 27 | DeLisha Milton-Jones | 339 |
@@ -827,10 +827,10 @@ _Last updated: 2026-08-03 00:35 UTC_
 | 190 | Marlies Askamp | 71 |
 | 190 | Tanisha Wright | 71 |
 | 192 | Wendy Palmer | 70 |
+| 193 | **Kennedy Burke** 🔴 +3 | 69 |
 | 193 | Mercedes Russell | 69 |
 | 193 | Rhonda Mapp | 69 |
 | 193 | Satou Sabally | 69 |
-| 196 | **Kennedy Burke** 🔴 +2 | 68 |
 | 197 | Shannon Johnson | 67 |
 | 197 | **Veronica Burton** 🔴 | 67 |
 | 199 | Crystal Robinson | 65 |
@@ -1500,7 +1500,7 @@ _Last updated: 2026-08-03 00:35 UTC_
 | 40 | Jonquel Jones | 913 |
 | 40 | Ticha Penicheiro | 913 |
 | 42 | Shavonte Zellous | 907 |
-| 43 | **Alysha Clark** 🔴 | 905 |
+| 43 | **Alysha Clark** 🔴 +1 | 906 |
 | 44 | DeMya Walker | 882 |
 | 45 | Candice Dupree | 876 |
 | 46 | Murriel Page | 872 |
