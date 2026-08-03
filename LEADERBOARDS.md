@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-03 00:11 UTC_
+_Last updated: 2026-08-03 00:12 UTC_
 
 ## Contents
 
@@ -351,7 +351,7 @@ _Last updated: 2026-08-03 00:11 UTC_
 | 124 | Tamecka Dixon | 1,035 |
 | 126 | Kamila Vodichkova | 1,031 |
 | 127 | Jasmine Thomas | 1,027 |
-| 128 | **Jessica Shepard** 🔴 +7 | 1,023 |
+| 128 | **Jessica Shepard** 🔴 +8 | 1,024 |
 | 129 | Sabrina Ionescu | 1,020 |
 | 130 | Cathrine Kraayeveld | 1,013 |
 | 131 | Kelly Miller | 1,011 |
@@ -830,9 +830,9 @@ _Last updated: 2026-08-03 00:11 UTC_
 | 193 | Mercedes Russell | 69 |
 | 193 | Rhonda Mapp | 69 |
 | 193 | Satou Sabally | 69 |
+| 196 | **Kennedy Burke** 🔴 +1 | 67 |
 | 196 | Shannon Johnson | 67 |
 | 196 | Veronica Burton | 67 |
-| 198 | **Kennedy Burke** 🔴 | 66 |
 | 199 | Crystal Robinson | 65 |
 | 199 | Gabby Williams | 65 |
 | 199 | Queen Egbo | 65 |
@@ -1220,10 +1220,10 @@ _Last updated: 2026-08-03 00:11 UTC_
 | 169 | Leonie Fiebich | 129 |
 | 171 | Jordin Canada | 128 |
 | 171 | Ticha Penicheiro | 128 |
+| 173 | **Kennedy Burke** 🔴 +2 | 127 |
 | 173 | Michele Timms | 127 |
-| 174 | **Kennedy Burke** 🔴 +1 | 126 |
-| 174 | Lexie Hull | 126 |
-| 174 | Tamecka Dixon | 126 |
+| 175 | Lexie Hull | 126 |
+| 175 | Tamecka Dixon | 126 |
 | 177 | Charde Houston | 124 |
 | 177 | Veronica Burton | 124 |
 | 179 | Lisa Leslie | 123 |
