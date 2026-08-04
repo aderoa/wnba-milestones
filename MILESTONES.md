@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-08-04 01:47 UTC
+
+- **Kelsey Plum** reached **4,500** career points (now 4,501) — _4:08 - 2nd — PHX @ CHI_
+
 ## 2026-08-04 01:30 UTC
 
 - **Kelsey Plum** passed **Kayla McBride** for **#63** all-time in turnovers (career 650) — up from #64 entering today — _End of 1st — PHX @ CHI_

@@ -1,5 +1,14 @@
 [
   {
+    "ts": "2026-08-04T01:47:00+00:00",
+    "text": "Kelsey Plum reached 4,500 career points (now 4,501) \u2014 (4:08 - 2nd \u2014 PHX @ CHI)",
+    "kind": "round",
+    "player": "Kelsey Plum",
+    "stat": "points",
+    "value": 4500,
+    "new_total": 4501
+  },
+  {
     "ts": "2026-08-04T01:30:00+00:00",
     "text": "Kelsey Plum passed Kayla McBride for #63 all-time in turnovers (career 650) \u2014 up from #64 entering today \u2014 (End of 1st \u2014 PHX @ CHI)",
     "kind": "rank_pass",
@@ -2991,17 +3000,5 @@
       "Riquna Williams"
     ],
     "new_total": 261
-  },
-  {
-    "ts": "2026-07-03T23:37:00+00:00",
-    "text": "Sabrina Ionescu passed Erin Perperoglou for #184 all-time in steals (career 185) \u2014 up from #185 entering today \u2014 (6:20 - 1st \u2014 MIN @ NY)",
-    "kind": "rank_pass",
-    "player": "Sabrina Ionescu",
-    "stat": "steals",
-    "rank": 184,
-    "passed_players": [
-      "Erin Perperoglou"
-    ],
-    "new_total": 185
   }
 ]
