@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-04 02:40 UTC_
+_Last updated: 2026-08-04 02:41 UTC_
 
 ## Contents
 
@@ -63,11 +63,11 @@ _Last updated: 2026-08-04 02:40 UTC_
 | 42 | **Kelsey Plum** 🔴 +17 | 4,511 |
 | 43 | Allisha Gray | 4,498 |
 | 44 | Kristi Toliver | 4,474 |
-| 45 | **Kahleah Copper** 🔴 +19 | 4,456 |
+| 45 | **Kahleah Copper** 🔴 +22 | 4,459 |
 | 46 | Crystal Langhorne | 4,433 |
 | 46 | Jia Perkins | 4,433 |
 | 48 | Jonquel Jones | 4,373 |
-| 49 | **Courtney Vandersloot** 🔴 +6 | 4,368 |
+| 49 | **Courtney Vandersloot** 🔴 +9 | 4,371 |
 | 50 | Courtney Williams | 4,350 |
 | 51 | Dearica Hamby | 4,330 |
 | 52 | Sophia Young-Malcolm | 4,300 |
@@ -118,7 +118,7 @@ _Last updated: 2026-08-04 02:40 UTC_
 | 97 | **Natasha Cloud** 🔴 +8 | 3,026 |
 | 98 | Marie Ferdinand-Harris | 3,001 |
 | 99 | Emma Meesseman | 2,966 |
-| 100 | **Elizabeth Williams** 🔴 +3 | 2,936 |
+| 100 | **Elizabeth Williams** 🔴 +5 | 2,938 |
 | 101 | Natalie Williams | 2,894 |
 | 102 | Jennifer Gillom | 2,888 |
 | 103 | Iziane Castro Marques | 2,862 |
@@ -430,7 +430,7 @@ _Last updated: 2026-08-04 02:40 UTC_
 | Rank | Player | Total |
 |-----:|--------|------:|
 | 1 | Sue Bird | 3,234 |
-| 2 | **Courtney Vandersloot** 🔴 +8 | 2,902 |
+| 2 | **Courtney Vandersloot** 🔴 +9 | 2,903 |
 | 3 | Ticha Penicheiro | 2,588 |
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
@@ -453,13 +453,13 @@ _Last updated: 2026-08-04 02:40 UTC_
 | 22 | Erica Wheeler | 1,335 |
 | 23 | Teresa Weatherspoon | 1,333 |
 | 24 | Kristi Toliver | 1,301 |
-| 25 | **Kelsey Plum** 🔴 +1 | 1,271 |
+| 25 | **Kelsey Plum** 🔴 +2 | 1,272 |
 | 26 | Jordin Canada | 1,269 |
 | 27 | Katie Smith | 1,258 |
 | 28 | Odyssey Sims | 1,228 |
 | 29 | Vickie Johnson | 1,202 |
-| 30 | **DeWanna Bonner** 🔴 +1 | 1,197 |
-| 30 | Leilani Mitchell | 1,197 |
+| 30 | **DeWanna Bonner** 🔴 +2 | 1,198 |
+| 31 | Leilani Mitchell | 1,197 |
 | 32 | Jackie Young | 1,160 |
 | 33 | Jewell Loyd | 1,157 |
 | 34 | Renee Montgomery | 1,140 |
@@ -1090,11 +1090,11 @@ _Last updated: 2026-08-04 02:40 UTC_
 | 41 | Alysha Clark | 394 |
 | 42 | Jonquel Jones | 393 |
 | 43 | **Rachel Banham** 🔴 | 390 |
+| 44 | **Courtney Vandersloot** 🔴 +3 | 389 |
 | 44 | Roneeka Hodges | 389 |
-| 45 | **Courtney Vandersloot** 🔴 +2 | 388 |
 | 46 | Briann January | 381 |
 | 47 | Jasmine Thomas | 376 |
-| 48 | **Kahleah Copper** 🔴 +3 | 373 |
+| 48 | **Kahleah Copper** 🔴 +4 | 374 |
 | 49 | Allison Feaster | 372 |
 | 49 | Betty Lennox | 372 |
 | 51 | Epiphanny Prince | 368 |
