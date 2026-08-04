@@ -1,5 +1,14 @@
 [
   {
+    "ts": "2026-08-04T01:26:00+00:00",
+    "text": "Kelsey Plum reached 700 career fouls (now 700) \u2014 (1:40 - 1st \u2014 PHX @ CHI)",
+    "kind": "round",
+    "player": "Kelsey Plum",
+    "stat": "fouls",
+    "value": 700,
+    "new_total": 700
+  },
+  {
     "ts": "2026-08-04T01:12:00+00:00",
     "text": "Shatori Walker-Kimbrough passed Jessica Breland, Murriel Page, and Natisha Hiedeman for #167 all-time in steals (career 205) \u2014 up from #170 entering today \u2014 (2:20 - 4th \u2014 LV @ ATL)",
     "kind": "rank_pass",
@@ -2996,18 +3005,5 @@
       "Kristen Rasmussen"
     ],
     "new_total": 128
-  },
-  {
-    "ts": "2026-07-03T03:25:00+00:00",
-    "text": "Ezi Magbegor passed Kristen Rasmussen and Penny Toler for #196 all-time in assists (career 346) \u2014 up from #198 entering today \u2014 (56.3 - 3rd \u2014 SEA @ PHX)",
-    "kind": "rank_pass",
-    "player": "Ezi Magbegor",
-    "stat": "assists",
-    "rank": 196,
-    "passed_players": [
-      "Kristen Rasmussen",
-      "Penny Toler"
-    ],
-    "new_total": 346
   }
 ]

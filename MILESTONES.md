@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-08-04 01:26 UTC
+
+- **Kelsey Plum** reached **700** career fouls (now 700) — _1:40 - 1st — PHX @ CHI_
+
 ## 2026-08-04 01:12 UTC
 
 - **Shatori Walker-Kimbrough** passed **Jessica Breland**, **Murriel Page**, and **Natisha Hiedeman** for **#167** all-time in steals (career 205) — up from #170 entering today — _2:20 - 4th — LV @ ATL_
