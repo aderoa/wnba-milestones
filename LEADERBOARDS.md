@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-04 01:43 UTC_
+_Last updated: 2026-08-04 01:44 UTC_
 
 ## Contents
 
@@ -63,7 +63,7 @@ _Last updated: 2026-08-04 01:43 UTC_
 | 42 | **Kelsey Plum** 🔴 +5 | 4,499 |
 | 43 | Allisha Gray | 4,498 |
 | 44 | Kristi Toliver | 4,474 |
-| 45 | **Kahleah Copper** 🔴 +9 | 4,446 |
+| 45 | **Kahleah Copper** 🔴 +10 | 4,447 |
 | 46 | Crystal Langhorne | 4,433 |
 | 46 | Jia Perkins | 4,433 |
 | 48 | Jonquel Jones | 4,373 |
@@ -198,7 +198,7 @@ _Last updated: 2026-08-04 01:43 UTC_
 | 177 | Candice Wiggins | 1,901 |
 | 178 | Gabby Williams | 1,899 |
 | 179 | NaLyssa Smith | 1,897 |
-| 180 | Rachel Banham | 1,843 |
+| 180 | **Rachel Banham** 🔴 | 1,843 |
 | 181 | Damiris Dantas | 1,842 |
 | 182 | Sophie Cunningham | 1,829 |
 | 183 | Tianna Hawkins | 1,825 |
@@ -231,7 +231,7 @@ _Last updated: 2026-08-04 01:43 UTC_
 | 5 | Rebekkah Brunson | 3,345 |
 | 6 | Tamika Catchings | 3,313 |
 | 7 | Lisa Leslie | 3,303 |
-| 8 | **DeWanna Bonner** 🔴 +2 | 3,292 |
+| 8 | **DeWanna Bonner** 🔴 +3 | 3,293 |
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
@@ -553,7 +553,7 @@ _Last updated: 2026-08-04 01:43 UTC_
 | 122 | Myisha Hines-Allen | 529 |
 | 123 | Marie Ferdinand-Harris | 528 |
 | 124 | Margo Dydek | 524 |
-| 125 | Rachel Banham | 511 |
+| 125 | **Rachel Banham** 🔴 | 511 |
 | 126 | Iziane Castro Marques | 509 |
 | 127 | Brittany Boyd-Jones | 508 |
 | 127 | Chasity Melvin | 508 |
@@ -1089,7 +1089,7 @@ _Last updated: 2026-08-04 01:43 UTC_
 | 40 | Jia Perkins | 396 |
 | 41 | Alysha Clark | 394 |
 | 42 | Jonquel Jones | 393 |
-| 43 | Rachel Banham | 390 |
+| 43 | **Rachel Banham** 🔴 | 390 |
 | 44 | Roneeka Hodges | 389 |
 | 45 | **Courtney Vandersloot** 🔴 +1 | 387 |
 | 46 | Briann January | 381 |
@@ -1447,7 +1447,7 @@ _Last updated: 2026-08-04 01:43 UTC_
 | 191 | Jennifer Lacy | 305 |
 | 193 | Azurá Stevens | 304 |
 | 194 | Tianna Hawkins | 303 |
-| 195 | Rachel Banham | 301 |
+| 195 | **Rachel Banham** 🔴 | 301 |
 | 196 | Crystal Robinson | 299 |
 | 197 | Kayla Thornton | 298 |
 | 198 | Michele Timms | 297 |
@@ -1634,7 +1634,7 @@ _Last updated: 2026-08-04 01:43 UTC_
 | 174 | Elena Baranova | 501 |
 | 175 | Adrian Williams-Strong | 497 |
 | 175 | Essence Carson | 497 |
-| 175 | Rachel Banham | 497 |
+| 175 | **Rachel Banham** 🔴 | 497 |
 | 178 | Azurá Stevens | 495 |
 | 178 | Nia Coffey | 495 |
 | 180 | Karima Christmas-Kelly | 494 |
