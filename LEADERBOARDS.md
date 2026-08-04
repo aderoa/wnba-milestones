@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-04 02:41 UTC_
+_Last updated: 2026-08-04 02:42 UTC_
 
 ## Contents
 
@@ -235,7 +235,7 @@ _Last updated: 2026-08-04 02:41 UTC_
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
-| 12 | **Alyssa Thomas** 🔴 +12 | 2,870 |
+| 12 | **Alyssa Thomas** 🔴 +13 | 2,871 |
 | 13 | Jonquel Jones | 2,735 |
 | 14 | A'ja Wilson | 2,663 |
 | 15 | Breanna Stewart | 2,640 |
@@ -430,7 +430,7 @@ _Last updated: 2026-08-04 02:41 UTC_
 | Rank | Player | Total |
 |-----:|--------|------:|
 | 1 | Sue Bird | 3,234 |
-| 2 | **Courtney Vandersloot** 🔴 +9 | 2,903 |
+| 2 | **Courtney Vandersloot** 🔴 +10 | 2,904 |
 | 3 | Ticha Penicheiro | 2,588 |
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
@@ -1322,7 +1322,7 @@ _Last updated: 2026-08-04 02:41 UTC_
 | 67 | Ruth Riley | 637 |
 | 68 | Odyssey Sims | 631 |
 | 68 | Svetlana Abrosimova | 631 |
-| 70 | **Kahleah Copper** 🔴 | 625 |
+| 70 | **Kahleah Copper** 🔴 +1 | 626 |
 | 71 | Tiffany Hayes | 624 |
 | 72 | Rebekkah Brunson | 615 |
 | 73 | Seimone Augustus | 613 |
@@ -1488,7 +1488,7 @@ _Last updated: 2026-08-04 02:41 UTC_
 | 28 | Yolanda Griffith | 991 |
 | 29 | Lauren Jackson | 982 |
 | 30 | Nakia Sanford | 979 |
-| 31 | **Alyssa Thomas** 🔴 +2 | 974 |
+| 31 | **Alyssa Thomas** 🔴 +3 | 975 |
 | 32 | Asjha Jones | 971 |
 | 33 | Margo Dydek | 950 |
 | 34 | Sancho Lyttle | 947 |
