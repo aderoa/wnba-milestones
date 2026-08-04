@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-04 00:06 UTC_
+_Last updated: 2026-08-04 00:07 UTC_
 
 ## Contents
 
@@ -31,7 +31,7 @@ _Last updated: 2026-08-04 00:06 UTC_
 | 10 | Candace Parker | 6,574 |
 | 11 | Katie Smith | 6,450 |
 | 12 | Sylvia Fowles | 6,413 |
-| 13 | **Breanna Stewart** 🔴 +13 | 6,348 |
+| 13 | **Breanna Stewart** 🔴 +15 | 6,350 |
 | 14 | Lisa Leslie | 6,251 |
 | 15 | **A'ja Wilson** 🔴 +9 | 6,187 |
 | 16 | **Jewell Loyd** 🔴 +3 | 6,151 |
@@ -83,7 +83,7 @@ _Last updated: 2026-08-04 00:06 UTC_
 | 62 | Allie Quigley | 3,786 |
 | 63 | Chasity Melvin | 3,781 |
 | 64 | Brittney Sykes | 3,726 |
-| 65 | **Jackie Young** 🔴 +18 | 3,716 |
+| 65 | **Jackie Young** 🔴 +19 | 3,717 |
 | 66 | Kara Lawson | 3,670 |
 | 67 | Mwadi Mabika | 3,576 |
 | 68 | Odyssey Sims | 3,574 |
@@ -319,8 +319,8 @@ _Last updated: 2026-08-04 00:06 UTC_
 | 93 | **Chelsea Gray** 🔴 | 1,257 |
 | 93 | Tiffany Hayes | 1,257 |
 | 95 | Kayla McBride | 1,256 |
-| 96 | **Brianna Turner** 🔴 +1 | 1,244 |
-| 96 | **Ezi Magbegor** 🔴 +1 | 1,244 |
+| 96 | **Ezi Magbegor** 🔴 +2 | 1,245 |
+| 97 | **Brianna Turner** 🔴 +1 | 1,244 |
 | 98 | Seimone Augustus | 1,228 |
 | 99 | Jia Perkins | 1,220 |
 | 100 | Kahleah Copper | 1,204 |
@@ -515,7 +515,7 @@ _Last updated: 2026-08-04 00:06 UTC_
 | 84 | Ariel Atkins | 682 |
 | 85 | Emma Meesseman | 681 |
 | 86 | Nykesha Sales | 677 |
-| 87 | **Natisha Hiedeman** 🔴 +3 | 671 |
+| 87 | **Natisha Hiedeman** 🔴 +4 | 672 |
 | 88 | **A'ja Wilson** 🔴 +2 | 669 |
 | 89 | Bria Hartley | 661 |
 | 90 | Brittney Griner | 660 |
