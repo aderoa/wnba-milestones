@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-08-04T03:06:00+00:00",
+    "text": "Alyssa Thomas passed Tina Charles for #12 all-time in turnovers (career 1,041) \u2014 up from #13 entering today \u2014 (2:33 - 4th \u2014 PHX @ CHI)",
+    "kind": "rank_pass",
+    "player": "Alyssa Thomas",
+    "stat": "turnovers",
+    "rank": 12,
+    "passed_players": [
+      "Tina Charles"
+    ],
+    "new_total": 1041
+  },
+  {
     "ts": "2026-08-04T02:47:00+00:00",
     "text": "Courtney Vandersloot passed Jonquel Jones and Roneeka Hodges for #43 all-time in three-pointers (career 390) \u2014 up from #45 entering today \u2014 (8:50 - 4th \u2014 PHX @ CHI)",
     "kind": "rank_pass",
@@ -2988,18 +3000,5 @@
       "Gabby Williams"
     ],
     "new_total": 66
-  },
-  {
-    "ts": "2026-07-04T00:18:00+00:00",
-    "text": "Leonie Fiebich passed Amanda Zahui B and Eva Nemcova for #167 all-time in three-pointers (career 131) \u2014 up from #170 entering today \u2014 (1:16 - 2nd \u2014 MIN @ NY)",
-    "kind": "rank_pass",
-    "player": "Leonie Fiebich",
-    "stat": "three-pointers",
-    "rank": 167,
-    "passed_players": [
-      "Amanda Zahui B",
-      "Eva Nemcova"
-    ],
-    "new_total": 131
   }
 ]

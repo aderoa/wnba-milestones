@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-08-04 03:06 UTC
+
+- **Alyssa Thomas** passed **Tina Charles** for **#12** all-time in turnovers (career 1,041) — up from #13 entering today — _2:33 - 4th — PHX @ CHI_
+
 ## 2026-08-04 02:47 UTC
 
 - **Courtney Vandersloot** passed **Jonquel Jones** and **Roneeka Hodges** for **#43** all-time in three-pointers (career 390) — up from #45 entering today — _8:50 - 4th — PHX @ CHI_

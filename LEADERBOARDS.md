@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-04 03:05 UTC_
+_Last updated: 2026-08-04 03:06 UTC_
 
 ## Contents
 
@@ -733,10 +733,10 @@ _Last updated: 2026-08-04 03:05 UTC_
 | 97 | Chelsea Gray | 127 |
 | 97 | Chiney Ogwumike | 127 |
 | 97 | Kristen Rasmussen | 127 |
-| 100 | **Kamilla Cardoso** 🔴 +2 | 126 |
 | 100 | Katie Douglas | 126 |
 | 100 | Mistie Bass | 126 |
-| 103 | Brionna Jones | 125 |
+| 102 | Brionna Jones | 125 |
+| 102 | **Kamilla Cardoso** 🔴 +1 | 125 |
 | 104 | **Natasha Mack** 🔴 +1 | 124 |
 | 105 | Natalie Williams | 122 |
 | 106 | Ebony Hoffman | 121 |
@@ -1263,9 +1263,9 @@ _Last updated: 2026-08-04 03:05 UTC_
 | 8 | Swin Cash | 1,127 |
 | 9 | Ticha Penicheiro | 1,125 |
 | 10 | Candace Parker | 1,062 |
+| 11 | **Alyssa Thomas** 🔴 +6 | 1,041 |
 | 11 | Tamika Catchings | 1,041 |
-| 12 | **Alyssa Thomas** 🔴 +5 | 1,040 |
-| 12 | Tina Charles | 1,040 |
+| 13 | Tina Charles | 1,040 |
 | 14 | Lindsay Whalen | 1,002 |
 | 15 | Sylvia Fowles | 961 |
 | 16 | Tanisha Wright | 954 |
@@ -1488,7 +1488,7 @@ _Last updated: 2026-08-04 03:05 UTC_
 | 28 | Yolanda Griffith | 991 |
 | 29 | Lauren Jackson | 982 |
 | 30 | Nakia Sanford | 979 |
-| 31 | **Alyssa Thomas** 🔴 +4 | 976 |
+| 31 | **Alyssa Thomas** 🔴 +5 | 977 |
 | 32 | Asjha Jones | 971 |
 | 33 | Margo Dydek | 950 |
 | 34 | Sancho Lyttle | 947 |
