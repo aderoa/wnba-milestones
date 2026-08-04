@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-04 02:46 UTC_
+_Last updated: 2026-08-04 02:47 UTC_
 
 ## Contents
 
@@ -52,7 +52,7 @@ _Last updated: 2026-08-04 02:46 UTC_
 | 31 | Taj McWilliams-Franklin | 4,992 |
 | 32 | Maya Moore | 4,984 |
 | 33 | Sheryl Swoopes | 4,875 |
-| 34 | **Alyssa Thomas** 🔴 +8 | 4,760 |
+| 34 | **Alyssa Thomas** 🔴 +10 | 4,762 |
 | 35 | Alana Beard | 4,740 |
 | 36 | Arike Ogunbowale | 4,715 |
 | 37 | Chamique Holdsclaw | 4,713 |
@@ -66,8 +66,8 @@ _Last updated: 2026-08-04 02:46 UTC_
 | 45 | **Kahleah Copper** 🔴 +22 | 4,459 |
 | 46 | Crystal Langhorne | 4,433 |
 | 46 | Jia Perkins | 4,433 |
-| 48 | Jonquel Jones | 4,373 |
-| 49 | **Courtney Vandersloot** 🔴 +9 | 4,371 |
+| 48 | **Courtney Vandersloot** 🔴 +12 | 4,374 |
+| 49 | Jonquel Jones | 4,373 |
 | 50 | Courtney Williams | 4,350 |
 | 51 | Dearica Hamby | 4,330 |
 | 52 | Sophia Young-Malcolm | 4,300 |
@@ -297,7 +297,7 @@ _Last updated: 2026-08-04 02:46 UTC_
 | 71 | Nakia Sanford | 1,419 |
 | 72 | Kayla Thornton | 1,408 |
 | 73 | Allisha Gray | 1,405 |
-| 74 | **Courtney Vandersloot** 🔴 +4 | 1,390 |
+| 74 | **Courtney Vandersloot** 🔴 +5 | 1,391 |
 | 75 | Kara Braxton | 1,387 |
 | 76 | Katie Smith | 1,383 |
 | 77 | Ebony Hoffman | 1,376 |
@@ -526,7 +526,7 @@ _Last updated: 2026-08-04 02:46 UTC_
 | 95 | Alex Bentley | 645 |
 | 96 | Asjha Jones | 637 |
 | 97 | Jennifer Azzi | 636 |
-| 98 | **Sami Whitcomb** 🔴 | 623 |
+| 98 | **Sami Whitcomb** 🔴 +1 | 624 |
 | 99 | Alysha Clark | 619 |
 | 100 | Natasha Howard | 615 |
 | 101 | Debbie Black | 612 |
@@ -563,7 +563,7 @@ _Last updated: 2026-08-04 02:46 UTC_
 | 132 | Crystal Robinson | 488 |
 | 132 | Tiffany Mitchell | 488 |
 | 134 | Rebekkah Brunson | 486 |
-| 135 | **Elizabeth Williams** 🔴 | 479 |
+| 135 | **Elizabeth Williams** 🔴 +2 | 481 |
 | 136 | Satou Sabally | 476 |
 | 137 | Ukari Figgs | 470 |
 | 138 | Janeth Arcain | 469 |
@@ -1089,9 +1089,9 @@ _Last updated: 2026-08-04 02:46 UTC_
 | 40 | Jia Perkins | 396 |
 | 41 | Alysha Clark | 394 |
 | 42 | Jonquel Jones | 393 |
+| 43 | **Courtney Vandersloot** 🔴 +4 | 390 |
 | 43 | **Rachel Banham** 🔴 | 390 |
-| 44 | **Courtney Vandersloot** 🔴 +3 | 389 |
-| 44 | Roneeka Hodges | 389 |
+| 45 | Roneeka Hodges | 389 |
 | 46 | Briann January | 381 |
 | 47 | Jasmine Thomas | 376 |
 | 48 | **Kahleah Copper** 🔴 +4 | 374 |

@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-08-04T02:47:00+00:00",
+    "text": "Courtney Vandersloot passed Jonquel Jones and Roneeka Hodges for #43 all-time in three-pointers (career 390) \u2014 up from #45 entering today \u2014 (8:50 - 4th \u2014 PHX @ CHI)",
+    "kind": "rank_pass",
+    "player": "Courtney Vandersloot",
+    "stat": "three-pointers",
+    "rank": 43,
+    "passed_players": [
+      "Jonquel Jones",
+      "Roneeka Hodges"
+    ],
+    "new_total": 390
+  },
+  {
     "ts": "2026-08-04T02:02:00+00:00",
     "text": "Kelsey Plum passed Sheri Sam for #62 all-time in turnovers (career 651) \u2014 up from #64 entering today \u2014 (Halftime \u2014 PHX @ CHI)",
     "kind": "rank_pass",
@@ -2988,17 +3001,5 @@
       "Eva Nemcova"
     ],
     "new_total": 131
-  },
-  {
-    "ts": "2026-07-04T00:00:00+00:00",
-    "text": "Leonie Fiebich passed Crystal Dangerfield for #169 all-time in three-pointers (career 130) \u2014 up from #170 entering today \u2014 (7:51 - 2nd \u2014 MIN @ NY)",
-    "kind": "rank_pass",
-    "player": "Leonie Fiebich",
-    "stat": "three-pointers",
-    "rank": 169,
-    "passed_players": [
-      "Crystal Dangerfield"
-    ],
-    "new_total": 130
   }
 ]
