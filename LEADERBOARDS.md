@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-04 01:36 UTC_
+_Last updated: 2026-08-04 01:37 UTC_
 
 ## Contents
 
@@ -63,7 +63,7 @@ _Last updated: 2026-08-04 01:36 UTC_
 | 42 | **Kelsey Plum** 🔴 +5 | 4,499 |
 | 43 | Allisha Gray | 4,498 |
 | 44 | Kristi Toliver | 4,474 |
-| 45 | **Kahleah Copper** 🔴 +5 | 4,442 |
+| 45 | **Kahleah Copper** 🔴 +7 | 4,444 |
 | 46 | Crystal Langhorne | 4,433 |
 | 46 | Jia Perkins | 4,433 |
 | 48 | Jonquel Jones | 4,373 |
@@ -256,7 +256,7 @@ _Last updated: 2026-08-04 01:36 UTC_
 | 30 | Chamique Holdsclaw | 2,123 |
 | 31 | Chasity Melvin | 2,097 |
 | 32 | Tammy Sutton-Brown | 2,010 |
-| 33 | **Elizabeth Williams** 🔴 +2 | 1,980 |
+| 33 | **Elizabeth Williams** 🔴 +3 | 1,981 |
 | 34 | Cheryl Ford | 1,907 |
 | 35 | Courtney Williams | 1,843 |
 | 36 | Kiah Stokes | 1,835 |
@@ -297,8 +297,8 @@ _Last updated: 2026-08-04 01:36 UTC_
 | 71 | Nakia Sanford | 1,419 |
 | 72 | Kayla Thornton | 1,408 |
 | 73 | Allisha Gray | 1,405 |
-| 74 | **Courtney Vandersloot** 🔴 +1 | 1,387 |
-| 74 | Kara Braxton | 1,387 |
+| 74 | **Courtney Vandersloot** 🔴 +2 | 1,388 |
+| 75 | Kara Braxton | 1,387 |
 | 76 | Katie Smith | 1,383 |
 | 77 | Ebony Hoffman | 1,376 |
 | 78 | Jewell Loyd | 1,372 |
@@ -1259,7 +1259,7 @@ _Last updated: 2026-08-04 01:36 UTC_
 | 4 | Tina Thompson | 1,213 |
 | 5 | Lisa Leslie | 1,186 |
 | 6 | DeLisha Milton-Jones | 1,173 |
-| 7 | **Courtney Vandersloot** 🔴 | 1,147 |
+| 7 | **Courtney Vandersloot** 🔴 +1 | 1,148 |
 | 8 | Swin Cash | 1,127 |
 | 9 | Ticha Penicheiro | 1,125 |
 | 10 | Candace Parker | 1,062 |
