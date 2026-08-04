@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-04 02:49 UTC_
+_Last updated: 2026-08-04 02:50 UTC_
 
 ## Contents
 
@@ -66,7 +66,7 @@ _Last updated: 2026-08-04 02:49 UTC_
 | 45 | **Kahleah Copper** 🔴 +24 | 4,461 |
 | 46 | Crystal Langhorne | 4,433 |
 | 46 | Jia Perkins | 4,433 |
-| 48 | **Courtney Vandersloot** 🔴 +12 | 4,374 |
+| 48 | **Courtney Vandersloot** 🔴 +14 | 4,376 |
 | 49 | Jonquel Jones | 4,373 |
 | 50 | Courtney Williams | 4,350 |
 | 51 | Dearica Hamby | 4,330 |
@@ -857,7 +857,7 @@ _Last updated: 2026-08-04 02:49 UTC_
 | 13 | **Alyssa Thomas** 🔴 | 582 |
 | 14 | Taj McWilliams-Franklin | 577 |
 | 15 | Tully Bevilaqua | 571 |
-| 16 | **Courtney Vandersloot** 🔴 +1 | 545 |
+| 16 | **Courtney Vandersloot** 🔴 +2 | 546 |
 | 17 | Yolanda Griffith | 527 |
 | 18 | Candace Parker | 521 |
 | 19 | Diana Taurasi | 515 |
@@ -1264,8 +1264,8 @@ _Last updated: 2026-08-04 02:49 UTC_
 | 9 | Ticha Penicheiro | 1,125 |
 | 10 | Candace Parker | 1,062 |
 | 11 | Tamika Catchings | 1,041 |
+| 12 | **Alyssa Thomas** 🔴 +5 | 1,040 |
 | 12 | Tina Charles | 1,040 |
-| 13 | **Alyssa Thomas** 🔴 +4 | 1,039 |
 | 14 | Lindsay Whalen | 1,002 |
 | 15 | Sylvia Fowles | 961 |
 | 16 | Tanisha Wright | 954 |
@@ -1531,9 +1531,9 @@ _Last updated: 2026-08-04 02:49 UTC_
 | 71 | Vickie Johnson | 752 |
 | 72 | Kara Braxton | 748 |
 | 73 | Crystal Langhorne | 737 |
+| 74 | **Elizabeth Williams** 🔴 +2 | 734 |
 | 74 | Shameka Christon | 734 |
-| 75 | Becky Hammon | 733 |
-| 75 | **Elizabeth Williams** 🔴 +1 | 733 |
+| 76 | Becky Hammon | 733 |
 | 77 | Ariel Atkins | 730 |
 | 77 | Latasha Byears | 730 |
 | 79 | Kristi Toliver | 722 |
