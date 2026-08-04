@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-04 01:09 UTC_
+_Last updated: 2026-08-04 01:10 UTC_
 
 ## Contents
 
@@ -52,7 +52,7 @@ _Last updated: 2026-08-04 01:09 UTC_
 | 31 | Taj McWilliams-Franklin | 4,992 |
 | 32 | Maya Moore | 4,984 |
 | 33 | Sheryl Swoopes | 4,875 |
-| 34 | **Alyssa Thomas** 🔴 | 4,752 |
+| 34 | **Alyssa Thomas** 🔴 +2 | 4,754 |
 | 35 | Alana Beard | 4,740 |
 | 36 | Arike Ogunbowale | 4,715 |
 | 37 | Chamique Holdsclaw | 4,713 |
@@ -63,7 +63,7 @@ _Last updated: 2026-08-04 01:09 UTC_
 | 42 | **Allisha Gray** 🔴 +7 | 4,498 |
 | 43 | Kelsey Plum | 4,494 |
 | 44 | Kristi Toliver | 4,474 |
-| 45 | **Kahleah Copper** 🔴 | 4,437 |
+| 45 | **Kahleah Copper** 🔴 +2 | 4,439 |
 | 46 | Crystal Langhorne | 4,433 |
 | 46 | Jia Perkins | 4,433 |
 | 48 | Jonquel Jones | 4,373 |
@@ -235,7 +235,7 @@ _Last updated: 2026-08-04 01:09 UTC_
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
-| 12 | **Alyssa Thomas** 🔴 | 2,858 |
+| 12 | **Alyssa Thomas** 🔴 +1 | 2,859 |
 | 13 | Jonquel Jones | 2,735 |
 | 14 | **A'ja Wilson** 🔴 +6 | 2,663 |
 | 15 | Breanna Stewart | 2,640 |
@@ -332,8 +332,8 @@ _Last updated: 2026-08-04 01:09 UTC_
 | 106 | **NaLyssa Smith** 🔴 +4 | 1,176 |
 | 107 | Brittney Sykes | 1,162 |
 | 108 | Nykesha Sales | 1,148 |
+| 109 | **Natasha Cloud** 🔴 +2 | 1,143 |
 | 109 | Shannon Johnson | 1,143 |
-| 110 | **Natasha Cloud** 🔴 | 1,141 |
 | 111 | Adrian Williams-Strong | 1,131 |
 | 112 | Andrea Stinson | 1,127 |
 | 112 | Tamika Raymond | 1,127 |
@@ -435,7 +435,7 @@ _Last updated: 2026-08-04 01:09 UTC_
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
 | 6 | **Chelsea Gray** 🔴 +6 | 2,009 |
-| 7 | **Alyssa Thomas** 🔴 | 1,971 |
+| 7 | **Alyssa Thomas** 🔴 +1 | 1,972 |
 | 8 | Skylar Diggins | 1,852 |
 | 9 | **Natasha Cloud** 🔴 +1 | 1,803 |
 | 10 | Becky Hammon | 1,705 |
@@ -728,16 +728,16 @@ _Last updated: 2026-08-04 01:09 UTC_
 | 91 | Nakia Sanford | 131 |
 | 93 | Brooke Wyckoff | 129 |
 | 93 | Cathrine Kraayeveld | 129 |
+| 95 | **Alyssa Thomas** 🔴 +1 | 128 |
 | 95 | Emily Engstler | 128 |
-| 96 | **Alyssa Thomas** 🔴 | 127 |
-| 96 | **Chelsea Gray** 🔴 | 127 |
-| 96 | Chiney Ogwumike | 127 |
-| 96 | Kristen Rasmussen | 127 |
+| 97 | **Chelsea Gray** 🔴 | 127 |
+| 97 | Chiney Ogwumike | 127 |
+| 97 | Kristen Rasmussen | 127 |
 | 100 | Katie Douglas | 126 |
 | 100 | Mistie Bass | 126 |
 | 102 | **Brionna Jones** 🔴 | 125 |
 | 103 | **Kamilla Cardoso** 🔴 | 124 |
-| 104 | **Natasha Mack** 🔴 | 123 |
+| 103 | **Natasha Mack** 🔴 +1 | 124 |
 | 105 | Natalie Williams | 122 |
 | 106 | Ebony Hoffman | 121 |
 | 106 | Essence Carson | 121 |
