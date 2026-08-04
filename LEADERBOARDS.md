@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-04 05:50 UTC_
+_Last updated: 2026-08-04 05:51 UTC_
 
 ## Contents
 
@@ -410,9 +410,9 @@ _Last updated: 2026-08-04 05:50 UTC_
 | 183 | Kelsey Bone | 769 |
 | 183 | Tan White | 769 |
 | 186 | Tully Bevilaqua | 767 |
-| 187 | Kamilla Cardoso | 763 |
-| 188 | Layshia Clarendon | 756 |
-| 189 | Brooke Wyckoff | 751 |
+| 187 | Layshia Clarendon | 756 |
+| 188 | Brooke Wyckoff | 751 |
+| 188 | Kamilla Cardoso | 751 |
 | 190 | Coco Miller | 750 |
 | 191 | Kelsey Plum | 742 |
 | 192 | Alex Montgomery | 735 |
@@ -736,8 +736,8 @@ _Last updated: 2026-08-04 05:50 UTC_
 | 100 | Katie Douglas | 126 |
 | 100 | Mistie Bass | 126 |
 | 102 | Brionna Jones | 125 |
-| 102 | Kamilla Cardoso | 125 |
-| 104 | Natasha Mack | 124 |
+| 103 | Kamilla Cardoso | 124 |
+| 103 | Natasha Mack | 124 |
 | 105 | Natalie Williams | 122 |
 | 106 | Ebony Hoffman | 121 |
 | 106 | Essence Carson | 121 |
