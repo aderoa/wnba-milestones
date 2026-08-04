@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-04 02:57 UTC_
+_Last updated: 2026-08-04 02:58 UTC_
 
 ## Contents
 
@@ -63,7 +63,7 @@ _Last updated: 2026-08-04 02:57 UTC_
 | 42 | **Kelsey Plum** 🔴 +17 | 4,511 |
 | 43 | Allisha Gray | 4,498 |
 | 44 | Kristi Toliver | 4,474 |
-| 45 | **Kahleah Copper** 🔴 +27 | 4,464 |
+| 45 | **Kahleah Copper** 🔴 +29 | 4,466 |
 | 46 | Crystal Langhorne | 4,433 |
 | 46 | Jia Perkins | 4,433 |
 | 48 | **Courtney Vandersloot** 🔴 +14 | 4,376 |
@@ -453,7 +453,7 @@ _Last updated: 2026-08-04 02:57 UTC_
 | 22 | Erica Wheeler | 1,335 |
 | 23 | Teresa Weatherspoon | 1,333 |
 | 24 | Kristi Toliver | 1,301 |
-| 25 | **Kelsey Plum** 🔴 +2 | 1,272 |
+| 25 | **Kelsey Plum** 🔴 +3 | 1,273 |
 | 26 | Jordin Canada | 1,269 |
 | 27 | Katie Smith | 1,258 |
 | 28 | Odyssey Sims | 1,228 |
