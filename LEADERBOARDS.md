@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-04 02:26 UTC_
+_Last updated: 2026-08-04 02:27 UTC_
 
 ## Contents
 
@@ -115,7 +115,7 @@ _Last updated: 2026-08-04 02:26 UTC_
 | 94 | Briann January | 3,082 |
 | 95 | Erika de Souza | 3,046 |
 | 96 | Shameka Christon | 3,039 |
-| 97 | **Natasha Cloud** 🔴 +6 | 3,024 |
+| 97 | **Natasha Cloud** 🔴 +8 | 3,026 |
 | 98 | Marie Ferdinand-Harris | 3,001 |
 | 99 | Emma Meesseman | 2,966 |
 | 100 | **Elizabeth Williams** 🔴 +3 | 2,936 |
@@ -231,7 +231,7 @@ _Last updated: 2026-08-04 02:26 UTC_
 | 5 | Rebekkah Brunson | 3,345 |
 | 6 | Tamika Catchings | 3,313 |
 | 7 | Lisa Leslie | 3,303 |
-| 8 | **DeWanna Bonner** 🔴 +3 | 3,293 |
+| 8 | **DeWanna Bonner** 🔴 +4 | 3,294 |
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
@@ -430,14 +430,14 @@ _Last updated: 2026-08-04 02:26 UTC_
 | Rank | Player | Total |
 |-----:|--------|------:|
 | 1 | Sue Bird | 3,234 |
-| 2 | **Courtney Vandersloot** 🔴 +5 | 2,899 |
+| 2 | **Courtney Vandersloot** 🔴 +6 | 2,900 |
 | 3 | Ticha Penicheiro | 2,588 |
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
 | 6 | Chelsea Gray | 2,009 |
 | 7 | **Alyssa Thomas** 🔴 +10 | 1,981 |
 | 8 | Skylar Diggins | 1,852 |
-| 9 | **Natasha Cloud** 🔴 +4 | 1,806 |
+| 9 | **Natasha Cloud** 🔴 +5 | 1,807 |
 | 10 | Becky Hammon | 1,705 |
 | 11 | Candace Parker | 1,634 |
 | 12 | Cappie Pondexter | 1,575 |
@@ -736,8 +736,8 @@ _Last updated: 2026-08-04 02:26 UTC_
 | 100 | Katie Douglas | 126 |
 | 100 | Mistie Bass | 126 |
 | 102 | Brionna Jones | 125 |
-| 103 | **Kamilla Cardoso** 🔴 | 124 |
-| 103 | **Natasha Mack** 🔴 +1 | 124 |
+| 102 | **Kamilla Cardoso** 🔴 +1 | 125 |
+| 104 | **Natasha Mack** 🔴 +1 | 124 |
 | 105 | Natalie Williams | 122 |
 | 106 | Ebony Hoffman | 121 |
 | 106 | Essence Carson | 121 |
@@ -909,9 +909,9 @@ _Last updated: 2026-08-04 02:26 UTC_
 | 64 | Tan White | 360 |
 | 66 | Vickie Johnson | 357 |
 | 67 | Dominique Canty | 356 |
+| 67 | **Natasha Cloud** 🔴 +1 | 356 |
 | 67 | Renee Montgomery | 356 |
-| 69 | **Natasha Cloud** 🔴 | 355 |
-| 69 | Tamecka Dixon | 355 |
+| 70 | Tamecka Dixon | 355 |
 | 71 | Arike Ogunbowale | 354 |
 | 72 | Vicky Bullett | 353 |
 | 73 | Svetlana Abrosimova | 352 |
@@ -1265,7 +1265,7 @@ _Last updated: 2026-08-04 02:26 UTC_
 | 10 | Candace Parker | 1,062 |
 | 11 | Tamika Catchings | 1,041 |
 | 12 | Tina Charles | 1,040 |
-| 13 | **Alyssa Thomas** 🔴 +3 | 1,038 |
+| 13 | **Alyssa Thomas** 🔴 +4 | 1,039 |
 | 14 | Lindsay Whalen | 1,002 |
 | 15 | Sylvia Fowles | 961 |
 | 16 | Tanisha Wright | 954 |
