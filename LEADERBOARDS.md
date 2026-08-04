@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-04 02:00 UTC_
+_Last updated: 2026-08-04 02:01 UTC_
 
 ## Contents
 
@@ -60,7 +60,7 @@ _Last updated: 2026-08-04 02:00 UTC_
 | 39 | Natasha Howard | 4,682 |
 | 40 | Chelsea Gray | 4,642 |
 | 41 | Penny Taylor | 4,595 |
-| 42 | **Kelsey Plum** 🔴 +7 | 4,501 |
+| 42 | **Kelsey Plum** 🔴 +10 | 4,504 |
 | 43 | Allisha Gray | 4,498 |
 | 44 | Kristi Toliver | 4,474 |
 | 45 | **Kahleah Copper** 🔴 +10 | 4,447 |
@@ -235,7 +235,7 @@ _Last updated: 2026-08-04 02:00 UTC_
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
-| 12 | **Alyssa Thomas** 🔴 +8 | 2,866 |
+| 12 | **Alyssa Thomas** 🔴 +9 | 2,867 |
 | 13 | Jonquel Jones | 2,735 |
 | 14 | A'ja Wilson | 2,663 |
 | 15 | Breanna Stewart | 2,640 |
@@ -414,7 +414,7 @@ _Last updated: 2026-08-04 02:00 UTC_
 | 188 | **Kamilla Cardoso** 🔴 +3 | 753 |
 | 189 | Brooke Wyckoff | 751 |
 | 190 | Coco Miller | 750 |
-| 191 | **Kelsey Plum** 🔴 | 741 |
+| 191 | **Kelsey Plum** 🔴 +1 | 742 |
 | 192 | Alex Montgomery | 735 |
 | 193 | Ashley Robinson | 734 |
 | 194 | Shenise Johnson | 729 |
@@ -1058,7 +1058,7 @@ _Last updated: 2026-08-04 02:00 UTC_
 | 9 | Jewell Loyd | 697 |
 | 10 | **DeWanna Bonner** 🔴 +2 | 684 |
 | 11 | Kristi Toliver | 651 |
-| 12 | **Kelsey Plum** 🔴 +1 | 620 |
+| 12 | **Kelsey Plum** 🔴 +2 | 621 |
 | 13 | Tamika Catchings | 605 |
 | 14 | Kara Lawson | 583 |
 | 15 | Arike Ogunbowale | 581 |
@@ -1541,9 +1541,9 @@ _Last updated: 2026-08-04 02:00 UTC_
 | 81 | Jia Perkins | 711 |
 | 82 | Helen Darling | 709 |
 | 83 | Brittney Sykes | 701 |
+| 83 | **Kelsey Plum** 🔴 +2 | 701 |
 | 83 | Matee Ajavon | 701 |
 | 83 | Nicole Powell | 701 |
-| 86 | **Kelsey Plum** 🔴 +1 | 700 |
 | 87 | Tan White | 698 |
 | 88 | Katie Douglas | 697 |
 | 89 | Danielle Robinson | 692 |
