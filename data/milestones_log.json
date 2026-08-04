@@ -1,5 +1,19 @@
 [
   {
+    "ts": "2026-08-04T01:12:00+00:00",
+    "text": "Shatori Walker-Kimbrough passed Jessica Breland, Murriel Page, and Natisha Hiedeman for #167 all-time in steals (career 205) \u2014 up from #170 entering today \u2014 (2:20 - 4th \u2014 LV @ ATL)",
+    "kind": "rank_pass",
+    "player": "Shatori Walker-Kimbrough",
+    "stat": "steals",
+    "rank": 167,
+    "passed_players": [
+      "Jessica Breland",
+      "Murriel Page",
+      "Natisha Hiedeman"
+    ],
+    "new_total": 205
+  },
+  {
     "ts": "2026-08-04T00:56:00+00:00",
     "text": "Rebecca Allen passed Rushia Brown for #199 all-time in rebounds (career 707) \u2014 new to top 200 today \u2014 (3:35 - 4th \u2014 SEA @ NY)",
     "kind": "rank_pass",
@@ -2995,18 +3009,5 @@
       "Penny Toler"
     ],
     "new_total": 346
-  },
-  {
-    "ts": "2026-07-03T03:21:00+00:00",
-    "text": "Ezi Magbegor passed Elena Delle Donne and Margo Dydek for #196 all-time in steals (career 175) \u2014 up from #197 entering today \u2014 (2:48 - 3rd \u2014 SEA @ PHX)",
-    "kind": "rank_pass",
-    "player": "Ezi Magbegor",
-    "stat": "steals",
-    "rank": 196,
-    "passed_players": [
-      "Elena Delle Donne",
-      "Margo Dydek"
-    ],
-    "new_total": 175
   }
 ]

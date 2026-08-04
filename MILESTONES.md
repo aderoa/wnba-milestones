@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-08-04 01:12 UTC
+
+- **Shatori Walker-Kimbrough** passed **Jessica Breland**, **Murriel Page**, and **Natisha Hiedeman** for **#167** all-time in steals (career 205) — up from #170 entering today — _2:20 - 4th — LV @ ATL_
+
 ## 2026-08-04 00:56 UTC
 
 - **Rebecca Allen** passed **Rushia Brown** for **#199** all-time in rebounds (career 707) — new to top 200 today — _3:35 - 4th — SEA @ NY_
