@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-04 02:28 UTC_
+_Last updated: 2026-08-04 02:29 UTC_
 
 ## Contents
 
@@ -60,7 +60,7 @@ _Last updated: 2026-08-04 02:28 UTC_
 | 39 | Natasha Howard | 4,682 |
 | 40 | Chelsea Gray | 4,642 |
 | 41 | Penny Taylor | 4,595 |
-| 42 | **Kelsey Plum** 🔴 +10 | 4,504 |
+| 42 | **Kelsey Plum** 🔴 +12 | 4,506 |
 | 43 | Allisha Gray | 4,498 |
 | 44 | Kristi Toliver | 4,474 |
 | 45 | **Kahleah Copper** 🔴 +16 | 4,453 |
@@ -235,7 +235,7 @@ _Last updated: 2026-08-04 02:28 UTC_
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
-| 12 | **Alyssa Thomas** 🔴 +11 | 2,869 |
+| 12 | **Alyssa Thomas** 🔴 +12 | 2,870 |
 | 13 | Jonquel Jones | 2,735 |
 | 14 | A'ja Wilson | 2,663 |
 | 15 | Breanna Stewart | 2,640 |
@@ -332,7 +332,7 @@ _Last updated: 2026-08-04 02:28 UTC_
 | 106 | NaLyssa Smith | 1,176 |
 | 107 | Brittney Sykes | 1,162 |
 | 108 | Nykesha Sales | 1,148 |
-| 109 | **Natasha Cloud** 🔴 +4 | 1,145 |
+| 109 | **Natasha Cloud** 🔴 +5 | 1,146 |
 | 110 | Shannon Johnson | 1,143 |
 | 111 | Adrian Williams-Strong | 1,131 |
 | 112 | Andrea Stinson | 1,127 |
