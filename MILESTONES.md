@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-08-04 01:30 UTC
+
+- **Kelsey Plum** passed **Kayla McBride** for **#63** all-time in turnovers (career 650) — up from #64 entering today — _End of 1st — PHX @ CHI_
+
 ## 2026-08-04 01:26 UTC
 
 - **Kelsey Plum** reached **700** career fouls (now 700) — _1:40 - 1st — PHX @ CHI_
