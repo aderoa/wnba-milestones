@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-04 03:09 UTC_
+_Last updated: 2026-08-04 03:10 UTC_
 
 ## Contents
 
@@ -60,7 +60,7 @@ _Last updated: 2026-08-04 03:09 UTC_
 | 39 | Natasha Howard | 4,682 |
 | 40 | Chelsea Gray | 4,642 |
 | 41 | Penny Taylor | 4,595 |
-| 42 | **Kelsey Plum** 🔴 +17 | 4,511 |
+| 42 | **Kelsey Plum** 🔴 +20 | 4,514 |
 | 43 | Allisha Gray | 4,498 |
 | 44 | Kristi Toliver | 4,474 |
 | 45 | **Kahleah Copper** 🔴 +30 | 4,467 |
@@ -1058,7 +1058,7 @@ _Last updated: 2026-08-04 03:09 UTC_
 | 9 | Jewell Loyd | 697 |
 | 10 | **DeWanna Bonner** 🔴 +2 | 684 |
 | 11 | Kristi Toliver | 651 |
-| 12 | **Kelsey Plum** 🔴 +2 | 621 |
+| 12 | **Kelsey Plum** 🔴 +3 | 622 |
 | 13 | Tamika Catchings | 605 |
 | 14 | Kara Lawson | 583 |
 | 15 | Arike Ogunbowale | 581 |
@@ -1525,7 +1525,7 @@ _Last updated: 2026-08-04 03:09 UTC_
 | 65 | **Natasha Cloud** 🔴 +2 | 775 |
 | 65 | Sue Bird | 775 |
 | 67 | Sheri Sam | 766 |
-| 68 | **Kahleah Copper** 🔴 +3 | 761 |
+| 68 | **Kahleah Copper** 🔴 +4 | 762 |
 | 69 | Kia Vaughn | 755 |
 | 70 | Allisha Gray | 753 |
 | 71 | Vickie Johnson | 752 |
