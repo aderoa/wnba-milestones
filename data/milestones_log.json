@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-08-04T00:56:00+00:00",
+    "text": "Rebecca Allen passed Rushia Brown for #199 all-time in rebounds (career 707) \u2014 new to top 200 today \u2014 (3:35 - 4th \u2014 SEA @ NY)",
+    "kind": "rank_pass",
+    "player": "Rebecca Allen",
+    "stat": "rebounds",
+    "rank": 199,
+    "passed_players": [
+      "Rushia Brown"
+    ],
+    "new_total": 707
+  },
+  {
     "ts": "2026-08-03T02:23:00+00:00",
     "text": "Veronica Burton passed Tamecka Dixon for #174 all-time in three-pointers (career 127) \u2014 up from #178 entering today \u2014 (2:11 - 4th \u2014 TOR @ GS)",
     "kind": "rank_pass",
@@ -2996,18 +3008,5 @@
       "Margo Dydek"
     ],
     "new_total": 175
-  },
-  {
-    "ts": "2026-07-03T03:16:00+00:00",
-    "text": "Kahleah Copper passed DeMya Walker and Jennifer Gillom for #147 all-time in steals (career 221) \u2014 up from #150 entering today \u2014 (4:11 - 3rd \u2014 SEA @ PHX)",
-    "kind": "rank_pass",
-    "player": "Kahleah Copper",
-    "stat": "steals",
-    "rank": 147,
-    "passed_players": [
-      "DeMya Walker",
-      "Jennifer Gillom"
-    ],
-    "new_total": 221
   }
 ]

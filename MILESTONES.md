@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-08-04 00:56 UTC
+
+- **Rebecca Allen** passed **Rushia Brown** for **#199** all-time in rebounds (career 707) — new to top 200 today — _3:35 - 4th — SEA @ NY_
+
 ## 2026-08-03 02:23 UTC
 
 - **Veronica Burton** passed **Tamecka Dixon** for **#174** all-time in three-pointers (career 127) — up from #178 entering today — _2:11 - 4th — TOR @ GS_

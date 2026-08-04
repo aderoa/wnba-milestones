@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-04 00:55 UTC_
+_Last updated: 2026-08-04 00:56 UTC_
 
 ## Contents
 
@@ -58,7 +58,7 @@ _Last updated: 2026-08-04 00:55 UTC_
 | 37 | Chamique Holdsclaw | 4,713 |
 | 38 | Elena Delle Donne | 4,706 |
 | 39 | Natasha Howard | 4,682 |
-| 40 | **Chelsea Gray** 🔴 +10 | 4,635 |
+| 40 | **Chelsea Gray** 🔴 +12 | 4,637 |
 | 41 | Penny Taylor | 4,595 |
 | 42 | **Allisha Gray** 🔴 +7 | 4,498 |
 | 43 | Kelsey Plum | 4,494 |
@@ -346,7 +346,7 @@ _Last updated: 2026-08-04 00:55 UTC_
 | 120 | **Jackie Young** 🔴 +9 | 1,094 |
 | 121 | Svetlana Abrosimova | 1,078 |
 | 122 | Le'coe Willingham | 1,054 |
-| 123 | **Angel Reese** 🔴 +12 | 1,047 |
+| 123 | **Angel Reese** 🔴 +14 | 1,049 |
 | 124 | Nicole Ohlde | 1,040 |
 | 125 | Tamecka Dixon | 1,035 |
 | 126 | Kamila Vodichkova | 1,031 |
@@ -422,8 +422,8 @@ _Last updated: 2026-08-04 00:55 UTC_
 | 195 | Shekinna Stricklen | 726 |
 | 197 | Olympia Scott | 711 |
 | 198 | Katie Mattera | 708 |
-| 199 | **Rebecca Allen** 🔴 +4 | 706 |
-| 199 | Rushia Brown | 706 |
+| 199 | **Rebecca Allen** 🔴 +5 | 707 |
+| 200 | Rushia Brown | 706 |
 
 ## Assists
 
