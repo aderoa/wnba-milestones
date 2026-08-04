@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-04 00:19 UTC_
+_Last updated: 2026-08-04 00:20 UTC_
 
 ## Contents
 
@@ -1007,8 +1007,8 @@ _Last updated: 2026-08-04 00:19 UTC_
 | 163 | Kia Vaughn | 208 |
 | 163 | Sophia Witherspoon | 208 |
 | 165 | Betnijah Laney-Hamilton | 207 |
-| 166 | **Natisha Hiedeman** 🔴 +1 | 205 |
-| 166 | Shameka Christon | 205 |
+| 166 | **Natisha Hiedeman** 🔴 +2 | 206 |
+| 167 | Shameka Christon | 205 |
 | 168 | Jessica Breland | 204 |
 | 168 | Murriel Page | 204 |
 | 168 | Shatori Walker-Kimbrough | 204 |
@@ -1346,9 +1346,9 @@ _Last updated: 2026-08-04 00:19 UTC_
 | 91 | Adrienne Goodson | 542 |
 | 92 | Marina Mabrey | 537 |
 | 93 | Layshia Clarendon | 536 |
-| 94 | Ivory Latta | 534 |
-| 94 | Iziane Castro Marques | 534 |
-| 94 | **Sabrina Ionescu** 🔴 +1 | 534 |
+| 94 | **Sabrina Ionescu** 🔴 +2 | 535 |
+| 95 | Ivory Latta | 534 |
+| 95 | Iziane Castro Marques | 534 |
 | 97 | Mwadi Mabika | 532 |
 | 98 | Nakia Sanford | 531 |
 | 99 | Arike Ogunbowale | 529 |
