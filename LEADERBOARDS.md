@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-04 03:01 UTC_
+_Last updated: 2026-08-04 03:02 UTC_
 
 ## Contents
 
@@ -115,7 +115,7 @@ _Last updated: 2026-08-04 03:01 UTC_
 | 94 | Briann January | 3,082 |
 | 95 | Erika de Souza | 3,046 |
 | 96 | Shameka Christon | 3,039 |
-| 97 | **Natasha Cloud** 🔴 +10 | 3,028 |
+| 97 | **Natasha Cloud** 🔴 +13 | 3,031 |
 | 98 | Marie Ferdinand-Harris | 3,001 |
 | 99 | Emma Meesseman | 2,966 |
 | 100 | **Elizabeth Williams** 🔴 +5 | 2,938 |
@@ -410,7 +410,7 @@ _Last updated: 2026-08-04 03:01 UTC_
 | 183 | Kelsey Bone | 769 |
 | 183 | Tan White | 769 |
 | 186 | Tully Bevilaqua | 767 |
-| 187 | **Kamilla Cardoso** 🔴 +10 | 760 |
+| 187 | **Kamilla Cardoso** 🔴 +11 | 761 |
 | 188 | Layshia Clarendon | 756 |
 | 189 | Brooke Wyckoff | 751 |
 | 190 | Coco Miller | 750 |
@@ -458,7 +458,7 @@ _Last updated: 2026-08-04 03:01 UTC_
 | 27 | Katie Smith | 1,258 |
 | 28 | Odyssey Sims | 1,228 |
 | 29 | Vickie Johnson | 1,202 |
-| 30 | **DeWanna Bonner** 🔴 +2 | 1,198 |
+| 30 | **DeWanna Bonner** 🔴 +3 | 1,199 |
 | 31 | Leilani Mitchell | 1,197 |
 | 32 | Jackie Young | 1,160 |
 | 33 | Jewell Loyd | 1,157 |
@@ -733,10 +733,10 @@ _Last updated: 2026-08-04 03:01 UTC_
 | 97 | Chelsea Gray | 127 |
 | 97 | Chiney Ogwumike | 127 |
 | 97 | Kristen Rasmussen | 127 |
+| 100 | **Kamilla Cardoso** 🔴 +2 | 126 |
 | 100 | Katie Douglas | 126 |
 | 100 | Mistie Bass | 126 |
-| 102 | Brionna Jones | 125 |
-| 102 | **Kamilla Cardoso** 🔴 +1 | 125 |
+| 103 | Brionna Jones | 125 |
 | 104 | **Natasha Mack** 🔴 +1 | 124 |
 | 105 | Natalie Williams | 122 |
 | 106 | Ebony Hoffman | 121 |
@@ -1101,7 +1101,7 @@ _Last updated: 2026-08-04 03:01 UTC_
 | 51 | Kia Nurse | 368 |
 | 53 | Nykesha Sales | 352 |
 | 54 | Jackie Young | 350 |
-| 55 | **Natasha Cloud** 🔴 | 345 |
+| 55 | **Natasha Cloud** 🔴 +1 | 346 |
 | 56 | Cathrine Kraayeveld | 343 |
 | 56 | Elena Delle Donne | 343 |
 | 58 | Candace Parker | 342 |
