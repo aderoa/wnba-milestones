@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-04 02:32 UTC_
+_Last updated: 2026-08-04 02:33 UTC_
 
 ## Contents
 
@@ -63,7 +63,7 @@ _Last updated: 2026-08-04 02:32 UTC_
 | 42 | **Kelsey Plum** 🔴 +12 | 4,506 |
 | 43 | Allisha Gray | 4,498 |
 | 44 | Kristi Toliver | 4,474 |
-| 45 | **Kahleah Copper** 🔴 +16 | 4,453 |
+| 45 | **Kahleah Copper** 🔴 +19 | 4,456 |
 | 46 | Crystal Langhorne | 4,433 |
 | 46 | Jia Perkins | 4,433 |
 | 48 | Jonquel Jones | 4,373 |
@@ -453,7 +453,7 @@ _Last updated: 2026-08-04 02:32 UTC_
 | 22 | Erica Wheeler | 1,335 |
 | 23 | Teresa Weatherspoon | 1,333 |
 | 24 | Kristi Toliver | 1,301 |
-| 25 | **Kelsey Plum** 🔴 | 1,270 |
+| 25 | **Kelsey Plum** 🔴 +1 | 1,271 |
 | 26 | Jordin Canada | 1,269 |
 | 27 | Katie Smith | 1,258 |
 | 28 | Odyssey Sims | 1,228 |
@@ -1094,9 +1094,9 @@ _Last updated: 2026-08-04 02:32 UTC_
 | 45 | **Courtney Vandersloot** 🔴 +2 | 388 |
 | 46 | Briann January | 381 |
 | 47 | Jasmine Thomas | 376 |
-| 48 | Allison Feaster | 372 |
-| 48 | Betty Lennox | 372 |
-| 48 | **Kahleah Copper** 🔴 +2 | 372 |
+| 48 | **Kahleah Copper** 🔴 +3 | 373 |
+| 49 | Allison Feaster | 372 |
+| 49 | Betty Lennox | 372 |
 | 51 | Epiphanny Prince | 368 |
 | 51 | Kia Nurse | 368 |
 | 53 | Nykesha Sales | 352 |
