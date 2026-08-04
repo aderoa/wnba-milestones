@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-04 01:53 UTC_
+_Last updated: 2026-08-04 01:54 UTC_
 
 ## Contents
 
@@ -1525,7 +1525,7 @@ _Last updated: 2026-08-04 01:53 UTC_
 | 65 | Sue Bird | 775 |
 | 66 | **Natasha Cloud** 🔴 | 773 |
 | 67 | Sheri Sam | 766 |
-| 68 | **Kahleah Copper** 🔴 +2 | 760 |
+| 68 | **Kahleah Copper** 🔴 +3 | 761 |
 | 69 | Kia Vaughn | 755 |
 | 70 | Allisha Gray | 753 |
 | 71 | Vickie Johnson | 752 |
