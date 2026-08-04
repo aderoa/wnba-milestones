@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-04 00:07 UTC_
+_Last updated: 2026-08-04 00:08 UTC_
 
 ## Contents
 
@@ -110,7 +110,7 @@ _Last updated: 2026-08-04 00:07 UTC_
 | 89 | Erica Wheeler | 3,195 |
 | 90 | Danielle Robinson | 3,160 |
 | 91 | Wendy Palmer | 3,135 |
-| 92 | **Sabrina Ionescu** 🔴 +15 | 3,112 |
+| 92 | **Sabrina Ionescu** 🔴 +18 | 3,115 |
 | 93 | Shavonte Zellous | 3,103 |
 | 94 | Briann January | 3,082 |
 | 95 | Erika de Souza | 3,046 |
@@ -238,7 +238,7 @@ _Last updated: 2026-08-04 00:07 UTC_
 | 12 | Alyssa Thomas | 2,858 |
 | 13 | **Jonquel Jones** 🔴 +6 | 2,734 |
 | 14 | **A'ja Wilson** 🔴 +6 | 2,663 |
-| 15 | **Breanna Stewart** 🔴 +2 | 2,634 |
+| 15 | **Breanna Stewart** 🔴 +3 | 2,635 |
 | 16 | Sancho Lyttle | 2,596 |
 | 17 | Brittney Griner | 2,579 |
 | 18 | DeLisha Milton-Jones | 2,574 |
@@ -301,7 +301,7 @@ _Last updated: 2026-08-04 00:07 UTC_
 | 75 | Courtney Vandersloot | 1,386 |
 | 76 | Katie Smith | 1,383 |
 | 77 | Ebony Hoffman | 1,376 |
-| 78 | **Jewell Loyd** 🔴 | 1,371 |
+| 78 | **Jewell Loyd** 🔴 +1 | 1,372 |
 | 79 | Sheri Sam | 1,356 |
 | 80 | Tamika Whitmore | 1,355 |
 | 81 | Emma Meesseman | 1,350 |
@@ -329,7 +329,7 @@ _Last updated: 2026-08-04 00:07 UTC_
 | 103 | Latasha Byears | 1,190 |
 | 103 | Tanisha Wright | 1,190 |
 | 105 | Vicky Bullett | 1,189 |
-| 106 | **NaLyssa Smith** 🔴 +2 | 1,174 |
+| 106 | **NaLyssa Smith** 🔴 +3 | 1,175 |
 | 107 | Brittney Sykes | 1,162 |
 | 108 | Nykesha Sales | 1,148 |
 | 109 | Shannon Johnson | 1,143 |
@@ -346,7 +346,7 @@ _Last updated: 2026-08-04 00:07 UTC_
 | 120 | **Jackie Young** 🔴 +6 | 1,091 |
 | 121 | Svetlana Abrosimova | 1,078 |
 | 122 | Le'coe Willingham | 1,054 |
-| 123 | **Angel Reese** 🔴 +6 | 1,041 |
+| 123 | **Angel Reese** 🔴 +7 | 1,042 |
 | 124 | Nicole Ohlde | 1,040 |
 | 125 | Tamecka Dixon | 1,035 |
 | 126 | Kamila Vodichkova | 1,031 |
@@ -624,9 +624,9 @@ _Last updated: 2026-08-04 00:07 UTC_
 | 193 | Sandy Brondello | 349 |
 | 194 | Ebony Hoffman | 347 |
 | 194 | Tamika Whitmore | 347 |
-| 196 | **Ezi Magbegor** 🔴 +1 | 345 |
-| 196 | Kristen Rasmussen | 345 |
-| 196 | Penny Toler | 345 |
+| 196 | **Ezi Magbegor** 🔴 +2 | 346 |
+| 197 | Kristen Rasmussen | 345 |
+| 197 | Penny Toler | 345 |
 | 199 | Sonja Henning | 341 |
 | 200 | Alexis Hornbuckle | 336 |
 
@@ -872,8 +872,8 @@ _Last updated: 2026-08-04 00:07 UTC_
 | 28 | Natasha Howard | 467 |
 | 29 | Skylar Diggins | 463 |
 | 29 | Teresa Weatherspoon | 463 |
-| 31 | **Chelsea Gray** 🔴 +1 | 458 |
-| 31 | **Jewell Loyd** 🔴 | 458 |
+| 31 | **Chelsea Gray** 🔴 +2 | 459 |
+| 32 | **Jewell Loyd** 🔴 | 458 |
 | 33 | Rebekkah Brunson | 456 |
 | 34 | Tangela Smith | 455 |
 | 35 | Tina Thompson | 452 |
@@ -1070,7 +1070,7 @@ _Last updated: 2026-08-04 00:07 UTC_
 | 21 | Allie Quigley | 510 |
 | 22 | Leilani Mitchell | 508 |
 | 23 | Marina Mabrey | 500 |
-| 24 | **Sabrina Ionescu** 🔴 +3 | 471 |
+| 24 | **Sabrina Ionescu** 🔴 +4 | 472 |
 | 25 | Shekinna Stricklen | 468 |
 | 26 | **Breanna Stewart** 🔴 | 465 |
 | 27 | Cappie Pondexter | 464 |
