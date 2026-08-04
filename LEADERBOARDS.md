@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-04 00:40 UTC_
+_Last updated: 2026-08-04 00:41 UTC_
 
 ## Contents
 
@@ -129,7 +129,7 @@ _Last updated: 2026-08-04 00:40 UTC_
 | 108 | Ticha Penicheiro | 2,729 |
 | 109 | Adrienne Goodson | 2,705 |
 | 110 | Riquna Williams | 2,659 |
-| 111 | **Rhyne Howard** 🔴 +13 | 2,650 |
+| 111 | **Rhyne Howard** 🔴 +15 | 2,652 |
 | 112 | Essence Carson | 2,647 |
 | 112 | Lindsey Harding | 2,647 |
 | 114 | Cheyenne Parker-Tyus | 2,645 |
@@ -197,7 +197,7 @@ _Last updated: 2026-08-04 00:40 UTC_
 | 176 | Ebony Hoffman | 1,909 |
 | 177 | Candice Wiggins | 1,901 |
 | 178 | Gabby Williams | 1,899 |
-| 179 | **NaLyssa Smith** 🔴 +12 | 1,891 |
+| 179 | **NaLyssa Smith** 🔴 +14 | 1,893 |
 | 180 | Rachel Banham | 1,843 |
 | 181 | Damiris Dantas | 1,842 |
 | 182 | Sophie Cunningham | 1,829 |
@@ -238,7 +238,7 @@ _Last updated: 2026-08-04 00:40 UTC_
 | 12 | Alyssa Thomas | 2,858 |
 | 13 | **Jonquel Jones** 🔴 +6 | 2,734 |
 | 14 | **A'ja Wilson** 🔴 +6 | 2,663 |
-| 15 | **Breanna Stewart** 🔴 +4 | 2,636 |
+| 15 | **Breanna Stewart** 🔴 +5 | 2,637 |
 | 16 | Sancho Lyttle | 2,596 |
 | 17 | Brittney Griner | 2,579 |
 | 18 | DeLisha Milton-Jones | 2,574 |
@@ -319,7 +319,7 @@ _Last updated: 2026-08-04 00:40 UTC_
 | 92 | Liz Cambage | 1,258 |
 | 94 | Tiffany Hayes | 1,257 |
 | 95 | Kayla McBride | 1,256 |
-| 96 | **Ezi Magbegor** 🔴 +3 | 1,246 |
+| 96 | **Ezi Magbegor** 🔴 +4 | 1,247 |
 | 97 | **Brianna Turner** 🔴 +1 | 1,244 |
 | 98 | Seimone Augustus | 1,228 |
 | 99 | Jia Perkins | 1,220 |
@@ -516,7 +516,7 @@ _Last updated: 2026-08-04 00:40 UTC_
 | 85 | Emma Meesseman | 681 |
 | 86 | Nykesha Sales | 677 |
 | 87 | **Natisha Hiedeman** 🔴 +5 | 673 |
-| 88 | **A'ja Wilson** 🔴 +2 | 669 |
+| 88 | **A'ja Wilson** 🔴 +3 | 670 |
 | 89 | Bria Hartley | 661 |
 | 90 | Brittney Griner | 660 |
 | 91 | Lindsay Allen | 657 |
@@ -549,7 +549,7 @@ _Last updated: 2026-08-04 00:40 UTC_
 | 118 | Janel McCarville | 551 |
 | 118 | Svetlana Abrosimova | 551 |
 | 120 | Michele Timms | 549 |
-| 121 | **Rhyne Howard** 🔴 +1 | 537 |
+| 121 | **Rhyne Howard** 🔴 +2 | 538 |
 | 122 | Myisha Hines-Allen | 529 |
 | 123 | Marie Ferdinand-Harris | 528 |
 | 124 | Margo Dydek | 524 |
