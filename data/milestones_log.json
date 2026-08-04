@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-08-04T02:02:00+00:00",
+    "text": "Kelsey Plum passed Sheri Sam for #62 all-time in turnovers (career 651) \u2014 up from #64 entering today \u2014 (Halftime \u2014 PHX @ CHI)",
+    "kind": "rank_pass",
+    "player": "Kelsey Plum",
+    "stat": "turnovers",
+    "rank": 62,
+    "passed_players": [
+      "Sheri Sam"
+    ],
+    "new_total": 651
+  },
+  {
     "ts": "2026-08-04T01:47:00+00:00",
     "text": "Kelsey Plum reached 4,500 career points (now 4,501) \u2014 (4:08 - 2nd \u2014 PHX @ CHI)",
     "kind": "round",
@@ -2988,17 +3000,5 @@
       "Crystal Dangerfield"
     ],
     "new_total": 130
-  },
-  {
-    "ts": "2026-07-03T23:40:00+00:00",
-    "text": "Jonquel Jones passed Riquna Williams for #120 all-time in steals (career 261) \u2014 (4:38 - 1st \u2014 MIN @ NY)",
-    "kind": "rank_pass",
-    "player": "Jonquel Jones",
-    "stat": "steals",
-    "rank": 120,
-    "passed_players": [
-      "Riquna Williams"
-    ],
-    "new_total": 261
   }
 ]
