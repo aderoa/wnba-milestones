@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-05 23:13 UTC_
+_Last updated: 2026-08-05 23:15 UTC_
 
 ## Contents
 
@@ -306,7 +306,7 @@ _Last updated: 2026-08-05 23:13 UTC_
 | 80 | Tamika Whitmore | 1,355 |
 | 81 | Emma Meesseman | 1,350 |
 | 82 | Elena Baranova | 1,335 |
-| 83 | **Brionna Jones** 🔴 | 1,333 |
+| 83 | **Brionna Jones** 🔴 +1 | 1,334 |
 | 84 | Erlana Larkins | 1,329 |
 | 85 | Mwadi Mabika | 1,327 |
 | 86 | Jayne Appel Marinelli | 1,326 |
