@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-05 23:46 UTC_
+_Last updated: 2026-08-05 23:47 UTC_
 
 ## Contents
 
@@ -54,7 +54,7 @@ _Last updated: 2026-08-05 23:46 UTC_
 | 33 | Sheryl Swoopes | 4,875 |
 | 34 | **Alyssa Thomas** 🔴 +13 | 4,765 |
 | 35 | Alana Beard | 4,740 |
-| 36 | **Arike Ogunbowale** 🔴 | 4,715 |
+| 36 | **Arike Ogunbowale** 🔴 +4 | 4,719 |
 | 37 | Chamique Holdsclaw | 4,713 |
 | 38 | Elena Delle Donne | 4,706 |
 | 39 | Natasha Howard | 4,682 |
@@ -231,14 +231,14 @@ _Last updated: 2026-08-05 23:46 UTC_
 | 5 | Rebekkah Brunson | 3,345 |
 | 6 | Tamika Catchings | 3,313 |
 | 7 | Lisa Leslie | 3,303 |
-| 8 | **DeWanna Bonner** 🔴 +4 | 3,294 |
+| 8 | **DeWanna Bonner** 🔴 +5 | 3,295 |
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | **Alyssa Thomas** 🔴 +1 | 2,859 |
-| 13 | **Jonquel Jones** 🔴 +10 | 2,738 |
+| 13 | **Jonquel Jones** 🔴 +11 | 2,739 |
 | 14 | A'ja Wilson | 2,657 |
-| 15 | **Breanna Stewart** 🔴 +2 | 2,634 |
+| 15 | **Breanna Stewart** 🔴 +3 | 2,635 |
 | 16 | Sancho Lyttle | 2,596 |
 | 17 | Brittney Griner | 2,579 |
 | 18 | DeLisha Milton-Jones | 2,574 |
@@ -414,7 +414,7 @@ _Last updated: 2026-08-05 23:46 UTC_
 | 188 | Brooke Wyckoff | 751 |
 | 189 | Coco Miller | 750 |
 | 189 | Kamilla Cardoso | 750 |
-| 191 | **Kelsey Plum** 🔴 +1 | 742 |
+| 191 | **Kelsey Plum** 🔴 +2 | 743 |
 | 192 | Alex Montgomery | 735 |
 | 193 | Ashley Robinson | 734 |
 | 194 | Shenise Johnson | 729 |
@@ -656,7 +656,7 @@ _Last updated: 2026-08-05 23:46 UTC_
 | 19 | Erika de Souza | 370 |
 | 19 | Natasha Howard | 370 |
 | 21 | Jessica Breland | 367 |
-| 22 | **DeWanna Bonner** 🔴 | 358 |
+| 22 | **DeWanna Bonner** 🔴 +1 | 359 |
 | 23 | **Ezi Magbegor** 🔴 +1 | 355 |
 | 24 | Kiah Stokes | 352 |
 | 25 | Diana Taurasi | 349 |
@@ -748,11 +748,11 @@ _Last updated: 2026-08-05 23:46 UTC_
 | 110 | Crystal Langhorne | 117 |
 | 112 | Ariel Atkins | 115 |
 | 113 | Monique Currie | 114 |
-| 114 | Amanda Lassiter | 111 |
-| 114 | Kamila Vodichkova | 111 |
-| 114 | **Rhyne Howard** 🔴 | 111 |
-| 114 | Sophia Young-Malcolm | 111 |
-| 114 | Tari Phillips | 111 |
+| 114 | **Rhyne Howard** 🔴 +1 | 112 |
+| 115 | Amanda Lassiter | 111 |
+| 115 | Kamila Vodichkova | 111 |
+| 115 | Sophia Young-Malcolm | 111 |
+| 115 | Tari Phillips | 111 |
 | 119 | Courtney Williams | 109 |
 | 120 | Erin Perperoglou | 108 |
 | 120 | Glory Johnson | 108 |
@@ -1062,7 +1062,7 @@ _Last updated: 2026-08-05 23:46 UTC_
 | 12 | **Kelsey Plum** 🔴 +1 | 620 |
 | 13 | Tamika Catchings | 605 |
 | 14 | Kara Lawson | 583 |
-| 15 | **Arike Ogunbowale** 🔴 | 581 |
+| 15 | **Arike Ogunbowale** 🔴 +1 | 582 |
 | 16 | Nicole Powell | 579 |
 | 17 | Ivory Latta | 536 |
 | 18 | Renee Montgomery | 532 |
@@ -1548,10 +1548,10 @@ _Last updated: 2026-08-05 23:46 UTC_
 | 88 | Katie Douglas | 697 |
 | 89 | Danielle Robinson | 692 |
 | 90 | Sophia Young-Malcolm | 687 |
+| 91 | **Breanna Stewart** 🔴 +1 | 686 |
 | 91 | Maya Moore | 686 |
-| 92 | **Breanna Stewart** 🔴 | 685 |
-| 92 | Cheyenne Parker-Tyus | 685 |
-| 92 | Jasmine Thomas | 685 |
+| 93 | Cheyenne Parker-Tyus | 685 |
+| 93 | Jasmine Thomas | 685 |
 | 95 | Jewell Loyd | 684 |
 | 95 | Leilani Mitchell | 684 |
 | 97 | Crystal Robinson | 682 |
