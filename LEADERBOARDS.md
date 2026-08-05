@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-05 23:36 UTC_
+_Last updated: 2026-08-05 23:37 UTC_
 
 ## Contents
 
@@ -21,7 +21,7 @@ _Last updated: 2026-08-05 23:36 UTC_
 |-----:|--------|------:|
 | 1 | Diana Taurasi | 10,608 |
 | 2 | Tina Charles | 8,396 |
-| 3 | **DeWanna Bonner** 🔴 +2 | 7,974 |
+| 3 | **DeWanna Bonner** 🔴 +5 | 7,977 |
 | 4 | Nneka Ogwumike | 7,563 |
 | 5 | Tina Thompson | 7,470 |
 | 6 | Tamika Catchings | 7,371 |
@@ -63,7 +63,7 @@ _Last updated: 2026-08-05 23:36 UTC_
 | 42 | **Allisha Gray** 🔴 +12 | 4,503 |
 | 43 | **Kelsey Plum** 🔴 +5 | 4,499 |
 | 44 | Kristi Toliver | 4,474 |
-| 45 | **Kahleah Copper** 🔴 +2 | 4,439 |
+| 45 | **Kahleah Copper** 🔴 +5 | 4,442 |
 | 46 | Crystal Langhorne | 4,433 |
 | 46 | Jia Perkins | 4,433 |
 | 48 | Courtney Vandersloot | 4,362 |
@@ -217,7 +217,7 @@ _Last updated: 2026-08-05 23:36 UTC_
 | 196 | Janell Burse | 1,580 |
 | 197 | Le'coe Willingham | 1,552 |
 | 198 | Shatori Walker-Kimbrough | 1,544 |
-| 199 | **Rebecca Allen** 🔴 +11 | 1,540 |
+| 199 | **Rebecca Allen** 🔴 +12 | 1,541 |
 | 200 | Jennifer Lacy | 1,504 |
 
 ## Rebounds
@@ -236,7 +236,7 @@ _Last updated: 2026-08-05 23:36 UTC_
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | **Alyssa Thomas** 🔴 | 2,858 |
-| 13 | **Jonquel Jones** 🔴 +8 | 2,736 |
+| 13 | **Jonquel Jones** 🔴 +9 | 2,737 |
 | 14 | A'ja Wilson | 2,657 |
 | 15 | **Breanna Stewart** 🔴 +2 | 2,634 |
 | 16 | Sancho Lyttle | 2,596 |
@@ -436,7 +436,7 @@ _Last updated: 2026-08-05 23:36 UTC_
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
 | 6 | Chelsea Gray | 2,003 |
-| 7 | **Alyssa Thomas** 🔴 +2 | 1,973 |
+| 7 | **Alyssa Thomas** 🔴 +3 | 1,974 |
 | 8 | Skylar Diggins | 1,852 |
 | 9 | Natasha Cloud | 1,802 |
 | 10 | Becky Hammon | 1,705 |
@@ -454,7 +454,7 @@ _Last updated: 2026-08-05 23:36 UTC_
 | 22 | Erica Wheeler | 1,335 |
 | 23 | Teresa Weatherspoon | 1,333 |
 | 24 | Kristi Toliver | 1,301 |
-| 25 | **Kelsey Plum** 🔴 +2 | 1,272 |
+| 25 | **Kelsey Plum** 🔴 +3 | 1,273 |
 | 26 | **Jordin Canada** 🔴 +3 | 1,265 |
 | 27 | Katie Smith | 1,258 |
 | 28 | Odyssey Sims | 1,228 |
@@ -1057,7 +1057,7 @@ _Last updated: 2026-08-05 23:36 UTC_
 | 7 | Katie Douglas | 723 |
 | 8 | Kelsey Mitchell | 712 |
 | 9 | Jewell Loyd | 695 |
-| 10 | **DeWanna Bonner** 🔴 | 682 |
+| 10 | **DeWanna Bonner** 🔴 +1 | 683 |
 | 11 | Kristi Toliver | 651 |
 | 12 | **Kelsey Plum** 🔴 +1 | 620 |
 | 13 | Tamika Catchings | 605 |
@@ -1097,7 +1097,7 @@ _Last updated: 2026-08-05 23:36 UTC_
 | 47 | Jasmine Thomas | 376 |
 | 48 | Allison Feaster | 372 |
 | 48 | Betty Lennox | 372 |
-| 50 | **Kahleah Copper** 🔴 | 370 |
+| 50 | **Kahleah Copper** 🔴 +1 | 371 |
 | 51 | Epiphanny Prince | 368 |
 | 51 | Kia Nurse | 368 |
 | 53 | Nykesha Sales | 352 |
@@ -1194,7 +1194,7 @@ _Last updated: 2026-08-05 23:36 UTC_
 | 143 | Gabby Williams | 153 |
 | 143 | Jennifer Gillom | 153 |
 | 143 | **Katie Lou Samuelson** 🔴 | 153 |
-| 147 | **Michaela Onyenwere** 🔴 | 151 |
+| 147 | **Michaela Onyenwere** 🔴 +1 | 152 |
 | 148 | Rita Williams | 150 |
 | 149 | Moriah Jefferson | 149 |
 | 149 | Tiffany Mitchell | 149 |
@@ -1351,8 +1351,8 @@ _Last updated: 2026-08-05 23:36 UTC_
 | 96 | **Sabrina Ionescu** 🔴 | 533 |
 | 97 | Mwadi Mabika | 532 |
 | 98 | Nakia Sanford | 531 |
-| 99 | **Arike Ogunbowale** 🔴 | 529 |
-| 99 | **Jordin Canada** 🔴 +2 | 529 |
+| 99 | **Arike Ogunbowale** 🔴 +1 | 530 |
+| 100 | **Jordin Canada** 🔴 +2 | 529 |
 | 101 | Maya Moore | 527 |
 | 102 | Kara Lawson | 526 |
 | 103 | Leilani Mitchell | 525 |
@@ -1525,7 +1525,7 @@ _Last updated: 2026-08-05 23:36 UTC_
 | 65 | Sue Bird | 775 |
 | 66 | Natasha Cloud | 773 |
 | 67 | Sheri Sam | 766 |
-| 68 | **Kahleah Copper** 🔴 +1 | 759 |
+| 68 | **Kahleah Copper** 🔴 +2 | 760 |
 | 69 | Kia Vaughn | 755 |
 | 70 | **Allisha Gray** 🔴 +2 | 754 |
 | 71 | Vickie Johnson | 752 |
