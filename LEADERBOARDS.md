@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-05 23:27 UTC_
+_Last updated: 2026-08-05 23:28 UTC_
 
 ## Contents
 
@@ -31,7 +31,7 @@ _Last updated: 2026-08-05 23:27 UTC_
 | 10 | Candace Parker | 6,574 |
 | 11 | Katie Smith | 6,450 |
 | 12 | Sylvia Fowles | 6,413 |
-| 13 | **Breanna Stewart** 🔴 +6 | 6,341 |
+| 13 | **Breanna Stewart** 🔴 +7 | 6,342 |
 | 14 | Lisa Leslie | 6,251 |
 | 15 | A'ja Wilson | 6,178 |
 | 16 | Jewell Loyd | 6,148 |
@@ -1476,7 +1476,7 @@ _Last updated: 2026-08-05 23:27 UTC_
 | 16 | Swin Cash | 1,146 |
 | 17 | Taj McWilliams-Franklin | 1,145 |
 | 18 | Monique Currie | 1,137 |
-| 19 | **Stefanie Dolson** 🔴 | 1,133 |
+| 19 | **Stefanie Dolson** 🔴 +1 | 1,134 |
 | 20 | Tanisha Wright | 1,109 |
 | 21 | Michelle Snow | 1,108 |
 | 22 | Sylvia Fowles | 1,049 |
@@ -1527,7 +1527,7 @@ _Last updated: 2026-08-05 23:27 UTC_
 | 67 | Sheri Sam | 766 |
 | 68 | **Kahleah Copper** 🔴 +1 | 759 |
 | 69 | Kia Vaughn | 755 |
-| 70 | **Allisha Gray** 🔴 +1 | 753 |
+| 70 | **Allisha Gray** 🔴 +2 | 754 |
 | 71 | Vickie Johnson | 752 |
 | 72 | Kara Braxton | 748 |
 | 73 | Crystal Langhorne | 737 |
