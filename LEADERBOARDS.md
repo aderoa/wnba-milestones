@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-05 03:14 UTC_
+_Last updated: 2026-08-05 03:15 UTC_
 
 ## Contents
 
@@ -148,7 +148,7 @@ _Last updated: 2026-08-05 03:14 UTC_
 | 127 | Ruth Riley | 2,434 |
 | 128 | Svetlana Abrosimova | 2,414 |
 | 129 | Anna DeForge | 2,413 |
-| 130 | **Kayla Thornton** 🔴 +14 | 2,407 |
+| 130 | **Kayla Thornton** 🔴 +16 | 2,409 |
 | 131 | DeMya Walker | 2,379 |
 | 132 | Alex Bentley | 2,350 |
 | 133 | Azurá Stevens | 2,343 |
@@ -538,7 +538,7 @@ _Last updated: 2026-08-05 03:14 UTC_
 | 106 | Betnijah Laney-Hamilton | 590 |
 | 106 | Camille Smith | 590 |
 | 108 | Armintie Herrington | 589 |
-| 109 | **Veronica Burton** 🔴 +5 | 584 |
+| 109 | **Veronica Burton** 🔴 +6 | 585 |
 | 110 | Tan White | 578 |
 | 111 | Matee Ajavon | 577 |
 | 112 | Napheesa Collier | 570 |
@@ -577,8 +577,8 @@ _Last updated: 2026-08-05 03:14 UTC_
 | 145 | Elena Delle Donne | 450 |
 | 145 | Kristi Harrower | 450 |
 | 145 | Nikki McCray | 450 |
+| 148 | **Julie Allemand** 🔴 +5 | 449 |
 | 148 | Ruth Riley | 449 |
-| 149 | **Julie Allemand** 🔴 +4 | 448 |
 | 150 | DeMya Walker | 446 |
 | 151 | Essence Carson | 445 |
 | 152 | Michelle Snow | 437 |
