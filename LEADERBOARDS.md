@@ -148,7 +148,7 @@ _Last updated: 2026-08-05 02:06 UTC_
 | 127 | Ruth Riley | 2,434 |
 | 128 | Svetlana Abrosimova | 2,414 |
 | 129 | Anna DeForge | 2,413 |
-| 130 | **Kayla Thornton** 🔴 | 2,393 |
+| 130 | **Kayla Thornton** 🔴 +6 | 2,399 |
 | 131 | DeMya Walker | 2,379 |
 | 132 | Alex Bentley | 2,350 |
 | 133 | Azurá Stevens | 2,343 |
@@ -295,7 +295,7 @@ _Last updated: 2026-08-05 02:06 UTC_
 | 69 | Monique Billings | 1,431 |
 | 70 | Alana Beard | 1,420 |
 | 71 | Nakia Sanford | 1,419 |
-| 72 | **Kayla Thornton** 🔴 | 1,408 |
+| 72 | **Kayla Thornton** 🔴 +2 | 1,410 |
 | 73 | Allisha Gray | 1,404 |
 | 74 | Kara Braxton | 1,387 |
 | 75 | Courtney Vandersloot | 1,386 |
@@ -380,7 +380,7 @@ _Last updated: 2026-08-05 02:06 UTC_
 | 154 | Mistie Bass | 888 |
 | 155 | Erica Wheeler | 882 |
 | 156 | Alanna Smith | 878 |
-| 157 | **Marina Mabrey** 🔴 | 874 |
+| 157 | **Marina Mabrey** 🔴 +1 | 875 |
 | 158 | Shameka Christon | 867 |
 | 159 | Krystal Thomas | 862 |
 | 160 | Naz Hillmon | 859 |
@@ -1121,7 +1121,7 @@ _Last updated: 2026-08-05 02:06 UTC_
 | 71 | Bridget Carleton | 306 |
 | 72 | Kelly Miller | 305 |
 | 73 | Nikki Teasley | 304 |
-| 74 | **Kayla Thornton** 🔴 | 300 |
+| 74 | **Kayla Thornton** 🔴 +2 | 302 |
 | 75 | Vickie Johnson | 295 |
 | 76 | Seimone Augustus | 293 |
 | 77 | Candice Wiggins | 290 |
