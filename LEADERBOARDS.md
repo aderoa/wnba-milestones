@@ -47,7 +47,7 @@ _Last updated: 2026-08-05 03:46 UTC_
 | 26 | Lindsay Whalen | 5,511 |
 | 27 | Kelsey Mitchell | 5,198 |
 | 28 | Swin Cash | 5,119 |
-| 29 | **Tiffany Hayes** 🔴 +10 | 5,059 |
+| 29 | **Tiffany Hayes** 🔴 +12 | 5,061 |
 | 30 | Tangela Smith | 5,035 |
 | 31 | Taj McWilliams-Franklin | 4,992 |
 | 32 | Maya Moore | 4,984 |
@@ -380,7 +380,7 @@ _Last updated: 2026-08-05 03:46 UTC_
 | 154 | Mistie Bass | 888 |
 | 155 | Erica Wheeler | 882 |
 | 156 | Alanna Smith | 878 |
-| 157 | **Marina Mabrey** 🔴 +3 | 877 |
+| 156 | **Marina Mabrey** 🔴 +4 | 878 |
 | 158 | Shameka Christon | 867 |
 | 159 | Krystal Thomas | 862 |
 | 160 | Naz Hillmon | 859 |
@@ -538,7 +538,7 @@ _Last updated: 2026-08-05 03:46 UTC_
 | 106 | Betnijah Laney-Hamilton | 590 |
 | 106 | Camille Smith | 590 |
 | 108 | Armintie Herrington | 589 |
-| 109 | **Veronica Burton** 🔴 +6 | 585 |
+| 109 | **Veronica Burton** 🔴 +7 | 586 |
 | 110 | Tan White | 578 |
 | 111 | Matee Ajavon | 577 |
 | 112 | Napheesa Collier | 570 |
@@ -573,11 +573,11 @@ _Last updated: 2026-08-05 03:46 UTC_
 | 141 | Tyasha Harris | 460 |
 | 142 | Sug Sutton | 456 |
 | 143 | Sydney Colson | 454 |
+| 144 | **Julie Allemand** 🔴 +7 | 451 |
 | 144 | Yolanda Griffith | 451 |
-| 145 | Elena Delle Donne | 450 |
-| 145 | **Julie Allemand** 🔴 +6 | 450 |
-| 145 | Kristi Harrower | 450 |
-| 145 | Nikki McCray | 450 |
+| 146 | Elena Delle Donne | 450 |
+| 146 | Kristi Harrower | 450 |
+| 146 | Nikki McCray | 450 |
 | 149 | Ruth Riley | 449 |
 | 150 | DeMya Walker | 446 |
 | 151 | Essence Carson | 445 |
