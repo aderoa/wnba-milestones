@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-05 02:11 UTC_
+_Last updated: 2026-08-05 02:12 UTC_
 
 ## Contents
 
@@ -187,7 +187,7 @@ _Last updated: 2026-08-05 02:11 UTC_
 | 166 | Nicole Ohlde | 1,959 |
 | 167 | Myisha Hines-Allen | 1,956 |
 | 168 | Kedra Holland-Corn | 1,938 |
-| 169 | Isabelle Harrison | 1,932 |
+| 169 | **Isabelle Harrison** 🔴 | 1,932 |
 | 170 | Cathrine Kraayeveld | 1,926 |
 | 171 | Roneeka Hodges | 1,925 |
 | 172 | Latasha Byears | 1,920 |
@@ -342,7 +342,7 @@ _Last updated: 2026-08-05 02:11 UTC_
 | 116 | Chiney Ogwumike | 1,110 |
 | 117 | Becky Hammon | 1,108 |
 | 118 | Ann Wauters | 1,105 |
-| 119 | Isabelle Harrison | 1,097 |
+| 119 | **Isabelle Harrison** 🔴 | 1,097 |
 | 120 | Jackie Young | 1,085 |
 | 121 | Svetlana Abrosimova | 1,078 |
 | 122 | Le'coe Willingham | 1,054 |
@@ -762,7 +762,7 @@ _Last updated: 2026-08-05 02:11 UTC_
 | 124 | Rebecca Lobo | 104 |
 | 126 | Jennifer Gillom | 103 |
 | 126 | Jia Perkins | 103 |
-| 128 | Isabelle Harrison | 102 |
+| 128 | **Isabelle Harrison** 🔴 | 102 |
 | 128 | Theresa Plaisance | 102 |
 | 130 | Deanna Nolan | 101 |
 | 131 | Chante Black | 100 |
@@ -1021,7 +1021,7 @@ _Last updated: 2026-08-05 02:11 UTC_
 | 174 | Tierra Ruffin-Pratt | 194 |
 | 177 | Cynthia Cooper | 192 |
 | 178 | Myisha Hines-Allen | 191 |
-| 179 | Isabelle Harrison | 190 |
+| 179 | **Isabelle Harrison** 🔴 | 190 |
 | 180 | Tamicha Jackson | 188 |
 | 181 | Michele Timms | 187 |
 | 182 | Charde Houston | 185 |
@@ -1238,7 +1238,7 @@ _Last updated: 2026-08-05 02:11 UTC_
 | 187 | Rickea Jackson | 114 |
 | 187 | Sandy Brondello | 114 |
 | 190 | **Cecilia Zandalasini** 🔴 +1 | 112 |
-| 191 | Janelle Salaun | 111 |
+| 191 | **Janelle Salaun** 🔴 | 111 |
 | 191 | Shoni Schimmel | 111 |
 | 193 | Emma Meesseman | 109 |
 | 193 | Scholanda Dorrell | 109 |
@@ -1442,7 +1442,7 @@ _Last updated: 2026-08-05 02:11 UTC_
 | 187 | Alex Bentley | 313 |
 | 188 | Natisha Hiedeman | 312 |
 | 189 | Tamika Raymond | 311 |
-| 190 | Isabelle Harrison | 307 |
+| 190 | **Isabelle Harrison** 🔴 | 307 |
 | 191 | Erin Perperoglou | 305 |
 | 191 | Jennifer Lacy | 305 |
 | 193 | Azurá Stevens | 304 |
@@ -1624,7 +1624,7 @@ _Last updated: 2026-08-05 02:11 UTC_
 | 164 | Andrea Stinson | 511 |
 | 165 | Vicky Bullett | 507 |
 | 166 | Merlakia Jones | 506 |
-| 167 | Isabelle Harrison | 505 |
+| 167 | **Isabelle Harrison** 🔴 | 505 |
 | 167 | Rushia Brown | 505 |
 | 167 | Shekinna Stricklen | 505 |
 | 170 | Allison Feaster | 504 |
