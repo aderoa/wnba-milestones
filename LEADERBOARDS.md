@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-05 02:30 UTC_
+_Last updated: 2026-08-05 02:31 UTC_
 
 ## Contents
 
@@ -499,8 +499,8 @@ _Last updated: 2026-08-05 02:30 UTC_
 | 67 | Kelsey Mitchell | 847 |
 | 68 | Jia Perkins | 837 |
 | 69 | Andrea Stinson | 810 |
-| 70 | **Marina Mabrey** 🔴 +2 | 803 |
-| 70 | Tina Thompson | 803 |
+| 70 | **Marina Mabrey** 🔴 +3 | 804 |
+| 71 | Tina Thompson | 803 |
 | 72 | Epiphanny Prince | 800 |
 | 73 | Mwadi Mabika | 774 |
 | 74 | Allisha Gray | 767 |
@@ -1561,7 +1561,7 @@ _Last updated: 2026-08-05 02:30 UTC_
 | 101 | Kelly Miller | 676 |
 | 102 | Chamique Holdsclaw | 667 |
 | 103 | Tianna Hawkins | 662 |
-| 104 | **Kiah Stokes** 🔴 | 651 |
+| 104 | **Kiah Stokes** 🔴 +1 | 652 |
 | 105 | Tari Phillips | 648 |
 | 106 | Marie Ferdinand-Harris | 646 |
 | 107 | Chelsea Gray | 640 |
