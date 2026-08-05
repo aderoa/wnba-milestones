@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-05 23:48 UTC_
+_Last updated: 2026-08-05 23:49 UTC_
 
 ## Contents
 
@@ -31,7 +31,7 @@ _Last updated: 2026-08-05 23:48 UTC_
 | 10 | Candace Parker | 6,574 |
 | 11 | Katie Smith | 6,450 |
 | 12 | Sylvia Fowles | 6,413 |
-| 13 | **Breanna Stewart** 🔴 +7 | 6,342 |
+| 13 | **Breanna Stewart** 🔴 +9 | 6,344 |
 | 14 | Lisa Leslie | 6,251 |
 | 15 | A'ja Wilson | 6,178 |
 | 16 | Jewell Loyd | 6,148 |
@@ -60,10 +60,10 @@ _Last updated: 2026-08-05 23:48 UTC_
 | 39 | Natasha Howard | 4,682 |
 | 40 | Chelsea Gray | 4,625 |
 | 41 | Penny Taylor | 4,595 |
-| 42 | **Kelsey Plum** 🔴 +10 | 4,504 |
-| 43 | **Allisha Gray** 🔴 +12 | 4,503 |
+| 42 | **Allisha Gray** 🔴 +14 | 4,505 |
+| 42 | **Kelsey Plum** 🔴 +11 | 4,505 |
 | 44 | Kristi Toliver | 4,474 |
-| 45 | **Kahleah Copper** 🔴 +6 | 4,443 |
+| 45 | **Kahleah Copper** 🔴 +8 | 4,445 |
 | 46 | Crystal Langhorne | 4,433 |
 | 46 | Jia Perkins | 4,433 |
 | 48 | Courtney Vandersloot | 4,362 |
@@ -86,7 +86,7 @@ _Last updated: 2026-08-05 23:48 UTC_
 | 65 | Jackie Young | 3,698 |
 | 66 | Kara Lawson | 3,670 |
 | 67 | Mwadi Mabika | 3,576 |
-| 68 | Odyssey Sims | 3,574 |
+| 68 | **Odyssey Sims** 🔴 | 3,574 |
 | 69 | Camille Smith | 3,551 |
 | 70 | Napheesa Collier | 3,542 |
 | 70 | Shannon Johnson | 3,542 |
@@ -111,7 +111,7 @@ _Last updated: 2026-08-05 23:48 UTC_
 | 90 | Danielle Robinson | 3,160 |
 | 91 | Wendy Palmer | 3,135 |
 | 92 | Shavonte Zellous | 3,103 |
-| 93 | **Sabrina Ionescu** 🔴 +1 | 3,098 |
+| 93 | **Sabrina Ionescu** 🔴 +2 | 3,099 |
 | 94 | Briann January | 3,082 |
 | 95 | Erika de Souza | 3,046 |
 | 96 | Shameka Christon | 3,039 |
@@ -235,10 +235,10 @@ _Last updated: 2026-08-05 23:48 UTC_
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
-| 12 | **Alyssa Thomas** 🔴 +1 | 2,859 |
+| 12 | **Alyssa Thomas** 🔴 +2 | 2,860 |
 | 13 | **Jonquel Jones** 🔴 +11 | 2,739 |
 | 14 | A'ja Wilson | 2,657 |
-| 15 | **Breanna Stewart** 🔴 +3 | 2,635 |
+| 15 | **Breanna Stewart** 🔴 +4 | 2,636 |
 | 16 | Sancho Lyttle | 2,596 |
 | 17 | Brittney Griner | 2,579 |
 | 18 | DeLisha Milton-Jones | 2,574 |
@@ -400,7 +400,7 @@ _Last updated: 2026-08-05 23:48 UTC_
 | 174 | Charlotte Smith | 794 |
 | 175 | Rhonda Mapp | 788 |
 | 176 | Mercedes Russell | 786 |
-| 177 | Odyssey Sims | 785 |
+| 177 | **Odyssey Sims** 🔴 | 785 |
 | 178 | Sue Wicks | 780 |
 | 179 | Lindsey Harding | 779 |
 | 180 | Tiffani Johnson | 778 |
@@ -436,7 +436,7 @@ _Last updated: 2026-08-05 23:48 UTC_
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
 | 6 | Chelsea Gray | 2,003 |
-| 7 | **Alyssa Thomas** 🔴 +3 | 1,974 |
+| 7 | **Alyssa Thomas** 🔴 +4 | 1,975 |
 | 8 | Skylar Diggins | 1,852 |
 | 9 | Natasha Cloud | 1,802 |
 | 10 | Becky Hammon | 1,705 |
@@ -457,7 +457,7 @@ _Last updated: 2026-08-05 23:48 UTC_
 | 25 | **Kelsey Plum** 🔴 +3 | 1,273 |
 | 26 | **Jordin Canada** 🔴 +3 | 1,265 |
 | 27 | Katie Smith | 1,258 |
-| 28 | Odyssey Sims | 1,228 |
+| 28 | **Odyssey Sims** 🔴 | 1,228 |
 | 29 | Vickie Johnson | 1,202 |
 | 30 | **DeWanna Bonner** 🔴 +1 | 1,197 |
 | 30 | Leilani Mitchell | 1,197 |
@@ -550,7 +550,7 @@ _Last updated: 2026-08-05 23:48 UTC_
 | 118 | Janel McCarville | 551 |
 | 118 | Svetlana Abrosimova | 551 |
 | 120 | Michele Timms | 549 |
-| 121 | **Rhyne Howard** 🔴 +3 | 539 |
+| 121 | **Rhyne Howard** 🔴 +4 | 540 |
 | 122 | Myisha Hines-Allen | 529 |
 | 123 | Marie Ferdinand-Harris | 528 |
 | 124 | Margo Dydek | 524 |
@@ -921,7 +921,7 @@ _Last updated: 2026-08-05 23:48 UTC_
 | 76 | Andrea Stinson | 342 |
 | 77 | Armintie Herrington | 340 |
 | 78 | Dawn Staley | 338 |
-| 79 | Odyssey Sims | 334 |
+| 79 | **Odyssey Sims** 🔴 | 334 |
 | 80 | Marie Ferdinand-Harris | 331 |
 | 81 | Chasity Melvin | 330 |
 | 81 | Leilani Mitchell | 330 |
@@ -1145,7 +1145,7 @@ _Last updated: 2026-08-05 23:48 UTC_
 | 94 | Cynthia Cooper | 239 |
 | 96 | Svetlana Abrosimova | 235 |
 | 96 | Tangela Smith | 235 |
-| 98 | Odyssey Sims | 234 |
+| 98 | **Odyssey Sims** 🔴 | 234 |
 | 99 | Satou Sabally | 232 |
 | 99 | Stacey Dales | 232 |
 | 101 | Elena Baranova | 224 |
@@ -1320,7 +1320,7 @@ _Last updated: 2026-08-05 23:48 UTC_
 | 65 | Dawn Staley | 643 |
 | 66 | **Jonquel Jones** 🔴 | 641 |
 | 67 | Ruth Riley | 637 |
-| 68 | Odyssey Sims | 631 |
+| 68 | **Odyssey Sims** 🔴 | 631 |
 | 68 | Svetlana Abrosimova | 631 |
 | 70 | **Kahleah Copper** 🔴 +2 | 627 |
 | 71 | Tiffany Hayes | 624 |
@@ -1577,7 +1577,7 @@ _Last updated: 2026-08-05 23:48 UTC_
 | 117 | Coco Miller | 615 |
 | 118 | Brooke Wyckoff | 614 |
 | 119 | Svetlana Abrosimova | 613 |
-| 120 | Odyssey Sims | 610 |
+| 120 | **Odyssey Sims** 🔴 | 610 |
 | 121 | Layshia Clarendon | 609 |
 | 122 | **Arike Ogunbowale** 🔴 +1 | 605 |
 | 123 | Tiffany Mitchell | 604 |
