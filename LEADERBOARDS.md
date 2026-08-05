@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-05 23:03 UTC_
+_Last updated: 2026-08-05 23:04 UTC_
 
 ## Contents
 
@@ -61,7 +61,7 @@ _Last updated: 2026-08-05 23:03 UTC_
 | 40 | Chelsea Gray | 4,625 |
 | 41 | Penny Taylor | 4,595 |
 | 42 | **Kelsey Plum** 🔴 | 4,494 |
-| 43 | **Allisha Gray** 🔴 | 4,491 |
+| 43 | **Allisha Gray** 🔴 +2 | 4,493 |
 | 44 | Kristi Toliver | 4,474 |
 | 45 | **Kahleah Copper** 🔴 | 4,437 |
 | 46 | Crystal Langhorne | 4,433 |
@@ -133,7 +133,7 @@ _Last updated: 2026-08-05 23:03 UTC_
 | 111 | Lindsey Harding | 2,647 |
 | 113 | Cheyenne Parker-Tyus | 2,645 |
 | 114 | Tamera Young | 2,641 |
-| 115 | **Rhyne Howard** 🔴 | 2,637 |
+| 115 | **Rhyne Howard** 🔴 +2 | 2,639 |
 | 116 | Liz Cambage | 2,634 |
 | 117 | Janeth Arcain | 2,633 |
 | 118 | Temeka Johnson | 2,620 |
@@ -383,7 +383,7 @@ _Last updated: 2026-08-05 23:03 UTC_
 | 157 | Marina Mabrey | 874 |
 | 158 | Shameka Christon | 867 |
 | 159 | Krystal Thomas | 862 |
-| 160 | **Naz Hillmon** 🔴 | 859 |
+| 160 | **Naz Hillmon** 🔴 +2 | 861 |
 | 161 | Leilani Mitchell | 845 |
 | 162 | Essence Carson | 833 |
 | 163 | Shakira Austin | 832 |
@@ -414,7 +414,7 @@ _Last updated: 2026-08-05 23:03 UTC_
 | 188 | Brooke Wyckoff | 751 |
 | 189 | Coco Miller | 750 |
 | 189 | Kamilla Cardoso | 750 |
-| 191 | **Kelsey Plum** 🔴 | 741 |
+| 191 | **Kelsey Plum** 🔴 +1 | 742 |
 | 192 | Alex Montgomery | 735 |
 | 193 | Ashley Robinson | 734 |
 | 194 | Shenise Johnson | 729 |
@@ -455,7 +455,7 @@ _Last updated: 2026-08-05 23:03 UTC_
 | 23 | Teresa Weatherspoon | 1,333 |
 | 24 | Kristi Toliver | 1,301 |
 | 25 | **Kelsey Plum** 🔴 | 1,270 |
-| 26 | **Jordin Canada** 🔴 | 1,262 |
+| 26 | **Jordin Canada** 🔴 +2 | 1,264 |
 | 27 | Katie Smith | 1,258 |
 | 28 | Odyssey Sims | 1,228 |
 | 29 | Vickie Johnson | 1,202 |
@@ -550,7 +550,7 @@ _Last updated: 2026-08-05 23:03 UTC_
 | 118 | Janel McCarville | 551 |
 | 118 | Svetlana Abrosimova | 551 |
 | 120 | Michele Timms | 549 |
-| 121 | **Rhyne Howard** 🔴 | 536 |
+| 121 | **Rhyne Howard** 🔴 +1 | 537 |
 | 122 | Myisha Hines-Allen | 529 |
 | 123 | Marie Ferdinand-Harris | 528 |
 | 124 | Margo Dydek | 524 |
@@ -560,7 +560,7 @@ _Last updated: 2026-08-05 23:03 UTC_
 | 127 | Chasity Melvin | 508 |
 | 129 | Anna DeForge | 503 |
 | 129 | Coco Miller | 503 |
-| 131 | **Kahleah Copper** 🔴 | 495 |
+| 131 | **Kahleah Copper** 🔴 +1 | 496 |
 | 132 | Crystal Robinson | 488 |
 | 132 | Tiffany Mitchell | 488 |
 | 134 | Rebekkah Brunson | 486 |
