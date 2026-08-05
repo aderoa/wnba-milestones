@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-05 23:34 UTC_
+_Last updated: 2026-08-05 23:35 UTC_
 
 ## Contents
 
@@ -21,7 +21,7 @@ _Last updated: 2026-08-05 23:34 UTC_
 |-----:|--------|------:|
 | 1 | Diana Taurasi | 10,608 |
 | 2 | Tina Charles | 8,396 |
-| 3 | **DeWanna Bonner** 🔴 | 7,972 |
+| 3 | **DeWanna Bonner** 🔴 +2 | 7,974 |
 | 4 | Nneka Ogwumike | 7,563 |
 | 5 | Tina Thompson | 7,470 |
 | 6 | Tamika Catchings | 7,371 |
@@ -67,7 +67,7 @@ _Last updated: 2026-08-05 23:34 UTC_
 | 46 | Crystal Langhorne | 4,433 |
 | 46 | Jia Perkins | 4,433 |
 | 48 | Courtney Vandersloot | 4,362 |
-| 49 | **Jonquel Jones** 🔴 +4 | 4,357 |
+| 49 | **Jonquel Jones** 🔴 +6 | 4,359 |
 | 50 | Courtney Williams | 4,350 |
 | 51 | Dearica Hamby | 4,330 |
 | 52 | Sophia Young-Malcolm | 4,300 |
@@ -180,8 +180,8 @@ _Last updated: 2026-08-05 23:34 UTC_
 | 159 | Coco Miller | 2,030 |
 | 160 | Diamond DeShields | 2,026 |
 | 161 | Vicky Bullett | 2,018 |
+| 162 | **Ezi Magbegor** 🔴 +7 | 2,002 |
 | 162 | **Natisha Hiedeman** 🔴 | 2,002 |
-| 163 | **Ezi Magbegor** 🔴 +4 | 1,999 |
 | 164 | Bria Hartley | 1,967 |
 | 165 | Chiney Ogwumike | 1,964 |
 | 166 | Nicole Ohlde | 1,959 |
@@ -379,7 +379,7 @@ _Last updated: 2026-08-05 23:34 UTC_
 | 153 | Temeka Johnson | 889 |
 | 154 | Mistie Bass | 888 |
 | 155 | Erica Wheeler | 882 |
-| 156 | **Alanna Smith** 🔴 +1 | 879 |
+| 156 | **Alanna Smith** 🔴 +2 | 880 |
 | 157 | Marina Mabrey | 874 |
 | 158 | Shameka Christon | 867 |
 | 159 | Krystal Thomas | 862 |
@@ -649,7 +649,7 @@ _Last updated: 2026-08-05 23:34 UTC_
 | 12 | **Breanna Stewart** 🔴 | 450 |
 | 13 | Taj McWilliams-Franklin | 443 |
 | 14 | Tina Charles | 428 |
-| 15 | **Jonquel Jones** 🔴 +1 | 426 |
+| 15 | **Jonquel Jones** 🔴 +2 | 427 |
 | 16 | Michelle Snow | 403 |
 | 17 | Tamika Catchings | 383 |
 | 18 | Tina Thompson | 372 |
@@ -1579,8 +1579,8 @@ _Last updated: 2026-08-05 23:34 UTC_
 | 119 | Svetlana Abrosimova | 613 |
 | 120 | Odyssey Sims | 610 |
 | 121 | Layshia Clarendon | 609 |
-| 122 | **Arike Ogunbowale** 🔴 | 604 |
-| 122 | Tiffany Mitchell | 604 |
+| 122 | **Arike Ogunbowale** 🔴 +1 | 605 |
+| 123 | Tiffany Mitchell | 604 |
 | 124 | Janel McCarville | 597 |
 | 125 | Kamila Vodichkova | 596 |
 | 126 | Teresa Weatherspoon | 589 |
