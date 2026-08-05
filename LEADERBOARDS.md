@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-05 03:10 UTC_
+_Last updated: 2026-08-05 03:11 UTC_
 
 ## Contents
 
@@ -104,7 +104,7 @@ _Last updated: 2026-08-05 03:10 UTC_
 | 83 | Sheri Sam | 3,353 |
 | 84 | Andrea Stinson | 3,351 |
 | 85 | Tanisha Wright | 3,324 |
-| 86 | **Marina Mabrey** 🔴 +9 | 3,258 |
+| 86 | **Marina Mabrey** 🔴 +12 | 3,261 |
 | 87 | Stefanie Dolson | 3,217 |
 | 88 | Margo Dydek | 3,214 |
 | 89 | Erica Wheeler | 3,195 |
@@ -148,7 +148,7 @@ _Last updated: 2026-08-05 03:10 UTC_
 | 127 | Ruth Riley | 2,434 |
 | 128 | Svetlana Abrosimova | 2,414 |
 | 129 | Anna DeForge | 2,413 |
-| 130 | **Kayla Thornton** 🔴 +9 | 2,402 |
+| 130 | **Kayla Thornton** 🔴 +12 | 2,405 |
 | 131 | DeMya Walker | 2,379 |
 | 132 | Alex Bentley | 2,350 |
 | 133 | Azurá Stevens | 2,343 |
@@ -538,7 +538,7 @@ _Last updated: 2026-08-05 03:10 UTC_
 | 106 | Betnijah Laney-Hamilton | 590 |
 | 106 | Camille Smith | 590 |
 | 108 | Armintie Herrington | 589 |
-| 109 | **Veronica Burton** 🔴 +4 | 583 |
+| 109 | **Veronica Burton** 🔴 +5 | 584 |
 | 110 | Tan White | 578 |
 | 111 | Matee Ajavon | 577 |
 | 112 | Napheesa Collier | 570 |
@@ -1120,8 +1120,8 @@ _Last updated: 2026-08-05 03:10 UTC_
 | 70 | Kedra Holland-Corn | 307 |
 | 71 | Bridget Carleton | 306 |
 | 72 | Kelly Miller | 305 |
+| 73 | **Kayla Thornton** 🔴 +4 | 304 |
 | 73 | Nikki Teasley | 304 |
-| 74 | **Kayla Thornton** 🔴 +3 | 303 |
 | 75 | Vickie Johnson | 295 |
 | 76 | Seimone Augustus | 293 |
 | 77 | Candice Wiggins | 290 |
