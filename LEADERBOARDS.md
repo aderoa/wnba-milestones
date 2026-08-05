@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-05 23:35 UTC_
+_Last updated: 2026-08-05 23:36 UTC_
 
 ## Contents
 
@@ -217,7 +217,7 @@ _Last updated: 2026-08-05 23:35 UTC_
 | 196 | Janell Burse | 1,580 |
 | 197 | Le'coe Willingham | 1,552 |
 | 198 | Shatori Walker-Kimbrough | 1,544 |
-| 199 | **Rebecca Allen** 🔴 +10 | 1,539 |
+| 199 | **Rebecca Allen** 🔴 +11 | 1,540 |
 | 200 | Jennifer Lacy | 1,504 |
 
 ## Rebounds
@@ -231,7 +231,7 @@ _Last updated: 2026-08-05 23:35 UTC_
 | 5 | Rebekkah Brunson | 3,345 |
 | 6 | Tamika Catchings | 3,313 |
 | 7 | Lisa Leslie | 3,303 |
-| 8 | **DeWanna Bonner** 🔴 +1 | 3,291 |
+| 8 | **DeWanna Bonner** 🔴 +2 | 3,292 |
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
@@ -404,8 +404,8 @@ _Last updated: 2026-08-05 23:35 UTC_
 | 178 | Sue Wicks | 780 |
 | 179 | Lindsey Harding | 779 |
 | 180 | Tiffani Johnson | 778 |
-| 181 | **Arike Ogunbowale** 🔴 | 775 |
-| 181 | Teresa Weatherspoon | 775 |
+| 181 | **Arike Ogunbowale** 🔴 +1 | 776 |
+| 182 | Teresa Weatherspoon | 775 |
 | 183 | Anna DeForge | 769 |
 | 183 | Kelsey Bone | 769 |
 | 183 | Tan White | 769 |
@@ -1589,7 +1589,7 @@ _Last updated: 2026-08-05 23:35 UTC_
 | 129 | Chiney Ogwumike | 580 |
 | 129 | Hamchetou Maiga-Ba | 580 |
 | 129 | Olympia Scott | 580 |
-| 132 | **Ezi Magbegor** 🔴 | 576 |
+| 132 | **Ezi Magbegor** 🔴 +1 | 577 |
 | 133 | Le'coe Willingham | 571 |
 | 134 | Ashley Robinson | 567 |
 | 135 | Marina Mabrey | 566 |
