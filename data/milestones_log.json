@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-08-06T01:12:00+00:00",
+    "text": "Alanna Smith passed Mistie Bass for #154 all-time in rebounds (career 889) \u2014 up from #156 entering today \u2014 (5:17 - 4th \u2014 DAL @ WSH)",
+    "kind": "rank_pass",
+    "player": "Alanna Smith",
+    "stat": "rebounds",
+    "rank": 154,
+    "passed_players": [
+      "Mistie Bass"
+    ],
+    "new_total": 889
+  },
+  {
     "ts": "2026-08-06T01:10:00+00:00",
     "text": "Alanna Smith passed Layshia Clarendon for #173 all-time in steals (career 196) \u2014 up from #174 entering today \u2014 (6:18 - 4th \u2014 DAL @ WSH)",
     "kind": "rank_pass",
@@ -2983,18 +2995,5 @@
       "Sheri Sam"
     ],
     "new_total": 651
-  },
-  {
-    "ts": "2026-07-04T00:54:00+00:00",
-    "text": "Sabrina Ionescu passed Charde Houston and Tiffany Jackson for #182 all-time in steals (career 186) \u2014 up from #185 entering today \u2014 (1:25 - 3rd \u2014 MIN @ NY)",
-    "kind": "rank_pass",
-    "player": "Sabrina Ionescu",
-    "stat": "steals",
-    "rank": 182,
-    "passed_players": [
-      "Charde Houston",
-      "Tiffany Jackson"
-    ],
-    "new_total": 186
   }
 ]
