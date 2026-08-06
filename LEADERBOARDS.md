@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-06 00:21 UTC_
+_Last updated: 2026-08-06 00:23 UTC_
 
 ## Contents
 
@@ -63,7 +63,7 @@ _Last updated: 2026-08-06 00:21 UTC_
 | 42 | **Allisha Gray** 🔴 +17 | 4,508 |
 | 43 | **Kelsey Plum** 🔴 +13 | 4,507 |
 | 44 | Kristi Toliver | 4,474 |
-| 45 | **Kahleah Copper** 🔴 +10 | 4,447 |
+| 45 | **Kahleah Copper** 🔴 +11 | 4,448 |
 | 46 | Crystal Langhorne | 4,433 |
 | 46 | Jia Perkins | 4,433 |
 | 48 | Courtney Vandersloot | 4,362 |
@@ -164,8 +164,8 @@ _Last updated: 2026-08-06 00:21 UTC_
 | 142 | Matee Ajavon | 2,237 |
 | 144 | Teaira McCowan | 2,229 |
 | 145 | Dawn Staley | 2,228 |
-| 146 | Janel McCarville | 2,215 |
-| 147 | **Sami Whitcomb** 🔴 +3 | 2,214 |
+| 146 | **Sami Whitcomb** 🔴 +6 | 2,217 |
+| 147 | Janel McCarville | 2,215 |
 | 148 | Sophia Witherspoon | 2,210 |
 | 149 | Ruthie Bolton | 2,175 |
 | 150 | Ann Wauters | 2,170 |
@@ -418,8 +418,8 @@ _Last updated: 2026-08-06 00:21 UTC_
 | 192 | Alex Montgomery | 735 |
 | 193 | Ashley Robinson | 734 |
 | 194 | Shenise Johnson | 729 |
-| 195 | **Sami Whitcomb** 🔴 | 726 |
-| 195 | Shekinna Stricklen | 726 |
+| 195 | **Sami Whitcomb** 🔴 +1 | 727 |
+| 196 | Shekinna Stricklen | 726 |
 | 197 | Olympia Scott | 711 |
 | 198 | Katie Mattera | 708 |
 | 199 | Rushia Brown | 706 |
@@ -549,7 +549,7 @@ _Last updated: 2026-08-06 00:21 UTC_
 | 118 | Janel McCarville | 551 |
 | 118 | Svetlana Abrosimova | 551 |
 | 120 | Michele Timms | 549 |
-| 121 | **Rhyne Howard** 🔴 +5 | 541 |
+| 121 | **Rhyne Howard** 🔴 +6 | 542 |
 | 122 | Myisha Hines-Allen | 529 |
 | 123 | Marie Ferdinand-Harris | 528 |
 | 124 | Margo Dydek | 524 |
@@ -559,7 +559,7 @@ _Last updated: 2026-08-06 00:21 UTC_
 | 127 | Chasity Melvin | 508 |
 | 129 | Anna DeForge | 503 |
 | 129 | Coco Miller | 503 |
-| 131 | **Kahleah Copper** 🔴 +3 | 498 |
+| 131 | **Kahleah Copper** 🔴 +4 | 499 |
 | 132 | Crystal Robinson | 488 |
 | 132 | Tiffany Mitchell | 488 |
 | 134 | Rebekkah Brunson | 486 |
@@ -1066,7 +1066,7 @@ _Last updated: 2026-08-06 00:21 UTC_
 | 17 | Ivory Latta | 536 |
 | 18 | Renee Montgomery | 532 |
 | 19 | Maya Moore | 530 |
-| 20 | **Sami Whitcomb** 🔴 +1 | 512 |
+| 20 | **Sami Whitcomb** 🔴 +2 | 513 |
 | 21 | Allie Quigley | 510 |
 | 22 | Leilani Mitchell | 508 |
 | 23 | Marina Mabrey | 500 |
