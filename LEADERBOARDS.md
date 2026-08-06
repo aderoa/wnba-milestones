@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-06 00:02 UTC_
+_Last updated: 2026-08-06 00:03 UTC_
 
 ## Contents
 
@@ -352,7 +352,7 @@ _Last updated: 2026-08-06 00:02 UTC_
 | 126 | Kamila Vodichkova | 1,031 |
 | 127 | Jasmine Thomas | 1,027 |
 | 128 | **Sabrina Ionescu** 🔴 +3 | 1,023 |
-| 129 | **Jessica Shepard** 🔴 +2 | 1,018 |
+| 129 | **Jessica Shepard** 🔴 +3 | 1,019 |
 | 130 | Cathrine Kraayeveld | 1,013 |
 | 131 | Kelly Miller | 1,011 |
 | 131 | Noelle Quinn | 1,011 |
@@ -378,15 +378,15 @@ _Last updated: 2026-08-06 00:02 UTC_
 | 152 | Natalie Achonwa | 895 |
 | 153 | Temeka Johnson | 889 |
 | 154 | Mistie Bass | 888 |
+| 155 | **Alanna Smith** 🔴 +4 | 882 |
 | 155 | Erica Wheeler | 882 |
-| 156 | **Alanna Smith** 🔴 +3 | 881 |
 | 157 | Marina Mabrey | 874 |
 | 158 | Shameka Christon | 867 |
 | 159 | Krystal Thomas | 862 |
 | 160 | **Naz Hillmon** 🔴 +2 | 861 |
 | 161 | Leilani Mitchell | 845 |
-| 162 | Essence Carson | 833 |
-| 162 | **Shakira Austin** 🔴 +1 | 833 |
+| 162 | **Shakira Austin** 🔴 +2 | 834 |
+| 163 | Essence Carson | 833 |
 | 164 | Gabby Williams | 831 |
 | 165 | Kristi Toliver | 829 |
 | 166 | Marie Ferdinand-Harris | 828 |
