@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-06 00:55 UTC_
+_Last updated: 2026-08-06 00:56 UTC_
 
 ## Contents
 
@@ -235,10 +235,10 @@ _Last updated: 2026-08-06 00:55 UTC_
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
-| 12 | **Alyssa Thomas** 🔴 +4 | 2,862 |
+| 12 | **Alyssa Thomas** 🔴 +5 | 2,863 |
 | 13 | **Jonquel Jones** 🔴 +15 | 2,743 |
 | 14 | A'ja Wilson | 2,657 |
-| 15 | **Breanna Stewart** 🔴 +7 | 2,639 |
+| 15 | **Breanna Stewart** 🔴 +8 | 2,640 |
 | 16 | Sancho Lyttle | 2,596 |
 | 17 | Brittney Griner | 2,579 |
 | 18 | DeLisha Milton-Jones | 2,574 |
@@ -520,7 +520,7 @@ _Last updated: 2026-08-06 00:55 UTC_
 | 89 | Bria Hartley | 661 |
 | 90 | Brittney Griner | 660 |
 | 91 | Lindsay Allen | 657 |
-| 92 | **Jonquel Jones** 🔴 +6 | 653 |
+| 92 | **Jonquel Jones** 🔴 +7 | 654 |
 | 93 | Betty Lennox | 651 |
 | 93 | Plenette Pierson | 651 |
 | 95 | Alex Bentley | 645 |
@@ -741,7 +741,7 @@ _Last updated: 2026-08-06 00:55 UTC_
 | 105 | Natalie Williams | 122 |
 | 106 | Ebony Hoffman | 121 |
 | 106 | Essence Carson | 121 |
-| 108 | **Shakira Austin** 🔴 | 119 |
+| 108 | **Shakira Austin** 🔴 +1 | 120 |
 | 109 | Krystal Thomas | 118 |
 | 110 | Andrea Stinson | 117 |
 | 110 | Crystal Langhorne | 117 |
@@ -1487,7 +1487,7 @@ _Last updated: 2026-08-06 00:55 UTC_
 | 28 | Yolanda Griffith | 991 |
 | 29 | Lauren Jackson | 982 |
 | 30 | Nakia Sanford | 979 |
-| 31 | **Alyssa Thomas** 🔴 +2 | 974 |
+| 31 | **Alyssa Thomas** 🔴 +1 | 973 |
 | 32 | Asjha Jones | 971 |
 | 33 | Margo Dydek | 950 |
 | 34 | Sancho Lyttle | 947 |
