@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-08-06T01:10:00+00:00",
+    "text": "Alanna Smith passed Layshia Clarendon for #173 all-time in steals (career 196) \u2014 up from #174 entering today \u2014 (6:18 - 4th \u2014 DAL @ WSH)",
+    "kind": "rank_pass",
+    "player": "Alanna Smith",
+    "stat": "steals",
+    "rank": 173,
+    "passed_players": [
+      "Layshia Clarendon"
+    ],
+    "new_total": 196
+  },
+  {
     "ts": "2026-08-06T00:57:00+00:00",
     "text": "Kahleah Copper reached 500 career assists (now 500) \u2014 (1:27 - 4th \u2014 PHX @ ATL)",
     "kind": "round",
@@ -2984,17 +2996,5 @@
       "Tiffany Jackson"
     ],
     "new_total": 186
-  },
-  {
-    "ts": "2026-07-04T00:49:00+00:00",
-    "text": "Nia Coffey passed Damiris Dantas for #199 all-time in turnovers (career 290) \u2014 up from #200 entering today \u2014 (3:44 - 3rd \u2014 MIN @ NY)",
-    "kind": "rank_pass",
-    "player": "Nia Coffey",
-    "stat": "turnovers",
-    "rank": 199,
-    "passed_players": [
-      "Damiris Dantas"
-    ],
-    "new_total": 290
   }
 ]
