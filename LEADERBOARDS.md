@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-06 03:09 UTC_
+_Last updated: 2026-08-06 03:10 UTC_
 
 ## Contents
 
@@ -69,7 +69,7 @@ _Last updated: 2026-08-06 03:09 UTC_
 | 48 | **Courtney Vandersloot** 🔴 +6 | 4,368 |
 | 49 | Jonquel Jones | 4,367 |
 | 50 | Courtney Williams | 4,350 |
-| 51 | **Dearica Hamby** 🔴 +18 | 4,348 |
+| 50 | **Dearica Hamby** 🔴 +20 | 4,350 |
 | 52 | Sophia Young-Malcolm | 4,300 |
 | 53 | Plenette Pierson | 4,258 |
 | 54 | Monique Currie | 4,253 |
@@ -107,7 +107,7 @@ _Last updated: 2026-08-06 03:09 UTC_
 | 86 | Marina Mabrey | 3,249 |
 | 87 | Stefanie Dolson | 3,217 |
 | 88 | Margo Dydek | 3,214 |
-| 89 | **Erica Wheeler** 🔴 +9 | 3,204 |
+| 89 | **Erica Wheeler** 🔴 +11 | 3,206 |
 | 90 | Danielle Robinson | 3,160 |
 | 91 | Wendy Palmer | 3,135 |
 | 92 | Sabrina Ionescu | 3,112 |
@@ -118,7 +118,7 @@ _Last updated: 2026-08-06 03:09 UTC_
 | 97 | **Natasha Cloud** 🔴 +15 | 3,033 |
 | 98 | Marie Ferdinand-Harris | 3,001 |
 | 99 | Emma Meesseman | 2,966 |
-| 100 | **Elizabeth Williams** 🔴 +10 | 2,943 |
+| 100 | **Elizabeth Williams** 🔴 +12 | 2,945 |
 | 101 | Natalie Williams | 2,894 |
 | 102 | Jennifer Gillom | 2,888 |
 | 103 | Iziane Castro Marques | 2,862 |
@@ -430,7 +430,7 @@ _Last updated: 2026-08-06 03:09 UTC_
 | Rank | Player | Total |
 |-----:|--------|------:|
 | 1 | Sue Bird | 3,234 |
-| 2 | **Courtney Vandersloot** 🔴 +4 | 2,898 |
+| 2 | **Courtney Vandersloot** 🔴 +5 | 2,899 |
 | 3 | Ticha Penicheiro | 2,588 |
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
@@ -479,7 +479,7 @@ _Last updated: 2026-08-06 03:09 UTC_
 | 48 | Tiffany Hayes | 957 |
 | 49 | Arike Ogunbowale | 949 |
 | 50 | Kara Lawson | 946 |
-| 51 | **Nneka Ogwumike** 🔴 +2 | 935 |
+| 51 | **Nneka Ogwumike** 🔴 +3 | 936 |
 | 52 | Deanna Nolan | 930 |
 | 53 | Kelly Miller | 927 |
 | 54 | DeLisha Milton-Jones | 921 |
@@ -885,7 +885,7 @@ _Last updated: 2026-08-06 03:09 UTC_
 | 41 | Candice Dupree | 431 |
 | 42 | Epiphanny Prince | 429 |
 | 43 | Tanisha Wright | 427 |
-| 44 | **Dearica Hamby** 🔴 | 411 |
+| 44 | **Dearica Hamby** 🔴 +1 | 412 |
 | 45 | Katie Smith | 408 |
 | 46 | Cappie Pondexter | 405 |
 | 47 | Nicole Powell | 401 |
@@ -1404,7 +1404,7 @@ _Last updated: 2026-08-06 03:09 UTC_
 | 149 | Glory Johnson | 397 |
 | 150 | Marissa Coleman | 396 |
 | 151 | Myisha Hines-Allen | 390 |
-| 152 | **Elizabeth Williams** 🔴 | 388 |
+| 152 | **Elizabeth Williams** 🔴 +1 | 389 |
 | 153 | Sophia Witherspoon | 386 |
 | 154 | Hamchetou Maiga-Ba | 385 |
 | 155 | Kamila Vodichkova | 381 |
@@ -1508,7 +1508,7 @@ _Last updated: 2026-08-06 03:09 UTC_
 | 48 | Erika de Souza | 858 |
 | 49 | Angel McCoughtry | 857 |
 | 50 | Betty Lennox | 851 |
-| 50 | **Dearica Hamby** 🔴 +1 | 851 |
+| 51 | **Dearica Hamby** 🔴 | 850 |
 | 52 | Tamecka Dixon | 849 |
 | 53 | Natalie Williams | 847 |
 | 53 | Tamera Young | 847 |
