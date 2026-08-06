@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-06 02:41 UTC_
+_Last updated: 2026-08-06 02:42 UTC_
 
 ## Contents
 
@@ -1492,7 +1492,7 @@ _Last updated: 2026-08-06 02:41 UTC_
 | 32 | Asjha Jones | 971 |
 | 33 | Margo Dydek | 950 |
 | 34 | Sancho Lyttle | 947 |
-| 35 | **Courtney Vandersloot** 🔴 +3 | 943 |
+| 35 | **Courtney Vandersloot** 🔴 +4 | 944 |
 | 36 | Mwadi Mabika | 941 |
 | 37 | Tamika Whitmore | 940 |
 | 38 | DeWanna Bonner | 924 |
