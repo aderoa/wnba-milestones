@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-06 03:03 UTC_
+_Last updated: 2026-08-06 03:04 UTC_
 
 ## Contents
 
@@ -69,7 +69,7 @@ _Last updated: 2026-08-06 03:03 UTC_
 | 48 | **Courtney Vandersloot** 🔴 +5 | 4,367 |
 | 48 | Jonquel Jones | 4,367 |
 | 50 | Courtney Williams | 4,350 |
-| 51 | **Dearica Hamby** 🔴 +16 | 4,346 |
+| 51 | **Dearica Hamby** 🔴 +18 | 4,348 |
 | 52 | Sophia Young-Malcolm | 4,300 |
 | 53 | Plenette Pierson | 4,258 |
 | 54 | Monique Currie | 4,253 |
