@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-06 01:16 UTC_
+_Last updated: 2026-08-06 01:17 UTC_
 
 ## Contents
 
@@ -94,7 +94,7 @@ _Last updated: 2026-08-06 01:16 UTC_
 | 73 | Jasmine Thomas | 3,522 |
 | 74 | Tamecka Dixon | 3,507 |
 | 75 | Tammy Sutton-Brown | 3,498 |
-| 76 | **Ariel Atkins** 🔴 | 3,481 |
+| 76 | **Ariel Atkins** 🔴 +2 | 3,483 |
 | 77 | Sancho Lyttle | 3,478 |
 | 78 | Ivory Latta | 3,447 |
 | 79 | Nicole Powell | 3,407 |
@@ -107,7 +107,7 @@ _Last updated: 2026-08-06 01:16 UTC_
 | 86 | Marina Mabrey | 3,249 |
 | 87 | Stefanie Dolson | 3,217 |
 | 88 | Margo Dydek | 3,214 |
-| 89 | **Erica Wheeler** 🔴 | 3,195 |
+| 89 | **Erica Wheeler** 🔴 +2 | 3,197 |
 | 90 | Danielle Robinson | 3,160 |
 | 91 | Wendy Palmer | 3,135 |
 | 92 | Sabrina Ionescu | 3,112 |
@@ -379,7 +379,7 @@ _Last updated: 2026-08-06 01:16 UTC_
 | 153 | **Alanna Smith** 🔴 +11 | 889 |
 | 153 | Temeka Johnson | 889 |
 | 155 | Mistie Bass | 888 |
-| 156 | **Erica Wheeler** 🔴 | 882 |
+| 156 | **Erica Wheeler** 🔴 +1 | 883 |
 | 157 | Marina Mabrey | 874 |
 | 158 | Shameka Christon | 867 |
 | 159 | Naz Hillmon | 864 |
@@ -437,7 +437,7 @@ _Last updated: 2026-08-06 01:16 UTC_
 | 6 | Chelsea Gray | 2,003 |
 | 7 | Alyssa Thomas | 1,978 |
 | 8 | Skylar Diggins | 1,852 |
-| 9 | **Natasha Cloud** 🔴 +2 | 1,804 |
+| 9 | **Natasha Cloud** 🔴 +3 | 1,805 |
 | 10 | Becky Hammon | 1,705 |
 | 11 | Candace Parker | 1,634 |
 | 12 | Cappie Pondexter | 1,575 |
@@ -505,8 +505,8 @@ _Last updated: 2026-08-06 01:16 UTC_
 | 74 | Allisha Gray | 770 |
 | 75 | Sheri Sam | 745 |
 | 76 | Monique Currie | 740 |
+| 77 | **Dearica Hamby** 🔴 +2 | 728 |
 | 77 | Elaine Powell | 728 |
-| 78 | **Dearica Hamby** 🔴 | 726 |
 | 79 | Stefanie Dolson | 707 |
 | 80 | Chamique Holdsclaw | 698 |
 | 81 | Shavonte Zellous | 693 |
@@ -1642,11 +1642,11 @@ _Last updated: 2026-08-06 01:16 UTC_
 | 181 | Riquna Williams | 493 |
 | 183 | Charde Houston | 487 |
 | 184 | Lindsey Harding | 486 |
+| 185 | **Alanna Smith** 🔴 +5 | 484 |
 | 185 | Cathrine Kraayeveld | 484 |
 | 185 | Kia Nurse | 484 |
-| 187 | **Alanna Smith** 🔴 +4 | 483 |
-| 187 | Liz Cambage | 483 |
-| 187 | Rhonda Mapp | 483 |
+| 188 | Liz Cambage | 483 |
+| 188 | Rhonda Mapp | 483 |
 | 190 | Sami Whitcomb | 480 |
 | 191 | Seimone Augustus | 477 |
 | 192 | Allie Quigley | 475 |
