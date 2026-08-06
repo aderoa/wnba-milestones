@@ -297,7 +297,7 @@ _Last updated: 2026-08-06 01:26 UTC_
 | 71 | Nakia Sanford | 1,419 |
 | 72 | Kayla Thornton | 1,408 |
 | 73 | Allisha Gray | 1,407 |
-| 74 | **Courtney Vandersloot** 🔴 +3 | 1,389 |
+| 74 | **Courtney Vandersloot** 🔴 +2 | 1,388 |
 | 75 | Kara Braxton | 1,387 |
 | 76 | Katie Smith | 1,383 |
 | 77 | Ebony Hoffman | 1,376 |
@@ -376,8 +376,8 @@ _Last updated: 2026-08-06 01:26 UTC_
 | 150 | Karima Christmas-Kelly | 908 |
 | 151 | Nia Coffey | 903 |
 | 152 | Natalie Achonwa | 895 |
-| 153 | **Alanna Smith** 🔴 +12 | 890 |
-| 154 | Temeka Johnson | 889 |
+| 153 | **Alanna Smith** 🔴 +11 | 889 |
+| 153 | Temeka Johnson | 889 |
 | 155 | Mistie Bass | 888 |
 | 156 | **Erica Wheeler** 🔴 +1 | 883 |
 | 157 | Marina Mabrey | 874 |
@@ -385,7 +385,7 @@ _Last updated: 2026-08-06 01:26 UTC_
 | 159 | Naz Hillmon | 864 |
 | 160 | Krystal Thomas | 862 |
 | 161 | Leilani Mitchell | 845 |
-| 162 | **Shakira Austin** 🔴 +10 | 842 |
+| 162 | **Shakira Austin** 🔴 +12 | 844 |
 | 163 | Essence Carson | 833 |
 | 164 | Gabby Williams | 831 |
 | 165 | Kristi Toliver | 829 |
