@@ -1579,7 +1579,7 @@ _Last updated: 2026-08-06 01:42 UTC_
 | 119 | Svetlana Abrosimova | 613 |
 | 120 | **Odyssey Sims** 🔴 +2 | 612 |
 | 121 | Layshia Clarendon | 609 |
-| 122 | **Arike Ogunbowale** 🔴 +3 | 607 |
+| 122 | **Arike Ogunbowale** 🔴 +4 | 608 |
 | 123 | Tiffany Mitchell | 604 |
 | 124 | Janel McCarville | 597 |
 | 125 | Kamila Vodichkova | 596 |
