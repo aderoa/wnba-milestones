@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-06 01:44 UTC_
+_Last updated: 2026-08-06 01:45 UTC_
 
 ## Contents
 
@@ -69,7 +69,7 @@ _Last updated: 2026-08-06 01:44 UTC_
 | 48 | Jonquel Jones | 4,367 |
 | 49 | **Courtney Vandersloot** 🔴 +3 | 4,365 |
 | 50 | Courtney Williams | 4,350 |
-| 51 | **Dearica Hamby** 🔴 +5 | 4,335 |
+| 51 | **Dearica Hamby** 🔴 +8 | 4,338 |
 | 52 | Sophia Young-Malcolm | 4,300 |
 | 53 | Plenette Pierson | 4,258 |
 | 54 | Monique Currie | 4,253 |
@@ -449,7 +449,7 @@ _Last updated: 2026-08-06 01:44 UTC_
 | 18 | Temeka Johnson | 1,382 |
 | 19 | Jasmine Thomas | 1,355 |
 | 20 | Briann January | 1,339 |
-| 21 | **Erica Wheeler** 🔴 +3 | 1,338 |
+| 20 | **Erica Wheeler** 🔴 +4 | 1,339 |
 | 22 | Dawn Staley | 1,337 |
 | 23 | Teresa Weatherspoon | 1,333 |
 | 24 | Kristi Toliver | 1,301 |
@@ -1199,9 +1199,9 @@ _Last updated: 2026-08-06 01:44 UTC_
 | 149 | Tiffany Mitchell | 149 |
 | 151 | Diamond DeShields | 147 |
 | 152 | Wendy Palmer | 146 |
-| 153 | **Dearica Hamby** 🔴 | 144 |
-| 153 | Helen Darling | 144 |
-| 153 | Matee Ajavon | 144 |
+| 153 | **Dearica Hamby** 🔴 +1 | 145 |
+| 154 | Helen Darling | 144 |
+| 154 | Matee Ajavon | 144 |
 | 156 | Shenise Johnson | 143 |
 | 157 | Jordan Hooper | 141 |
 | 158 | Coco Miller | 139 |
