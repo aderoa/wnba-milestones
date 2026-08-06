@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-08-06 03:09 UTC
+
+- **Courtney Vandersloot** passed **Jayne Appel Marinelli** for **#56** all-time in blocks (career 195) — up from #58 entering today — _3:54 - 4th — LA @ CHI_
+
 ## 2026-08-06 01:24 UTC
 
 - **Alanna Smith** passed **Temeka Johnson** for **#153** all-time in rebounds (career 890) — up from #156 entering today — _2:46 - 4th — DAL @ WSH_

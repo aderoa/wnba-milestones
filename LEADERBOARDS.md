@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-06 03:08 UTC_
+_Last updated: 2026-08-06 03:09 UTC_
 
 ## Contents
 
@@ -66,8 +66,8 @@ _Last updated: 2026-08-06 03:08 UTC_
 | 45 | Kahleah Copper | 4,451 |
 | 46 | Crystal Langhorne | 4,433 |
 | 46 | Jia Perkins | 4,433 |
-| 48 | **Courtney Vandersloot** 🔴 +5 | 4,367 |
-| 48 | Jonquel Jones | 4,367 |
+| 48 | **Courtney Vandersloot** 🔴 +6 | 4,368 |
+| 49 | Jonquel Jones | 4,367 |
 | 50 | Courtney Williams | 4,350 |
 | 51 | **Dearica Hamby** 🔴 +18 | 4,348 |
 | 52 | Sophia Young-Malcolm | 4,300 |
@@ -227,7 +227,7 @@ _Last updated: 2026-08-06 03:08 UTC_
 | 1 | Tina Charles | 4,262 |
 | 2 | Sylvia Fowles | 4,005 |
 | 3 | Candace Parker | 3,467 |
-| 4 | **Nneka Ogwumike** 🔴 +6 | 3,412 |
+| 4 | **Nneka Ogwumike** 🔴 +7 | 3,413 |
 | 5 | Rebekkah Brunson | 3,345 |
 | 6 | Tamika Catchings | 3,313 |
 | 7 | Lisa Leslie | 3,303 |
@@ -689,8 +689,8 @@ _Last updated: 2026-08-06 03:08 UTC_
 | 52 | Asjha Jones | 204 |
 | 54 | Janel McCarville | 201 |
 | 55 | Rebecca Allen | 196 |
-| 56 | **Courtney Vandersloot** 🔴 +1 | 194 |
-| 56 | Jayne Appel Marinelli | 194 |
+| 56 | **Courtney Vandersloot** 🔴 +2 | 195 |
+| 57 | Jayne Appel Marinelli | 194 |
 | 58 | Angel McCoughtry | 193 |
 | 58 | Murriel Page | 193 |
 | 60 | Kelly Schumacher | 183 |
