@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-06 00:58 UTC_
+_Last updated: 2026-08-06 00:59 UTC_
 
 ## Contents
 
@@ -110,7 +110,7 @@ _Last updated: 2026-08-06 00:58 UTC_
 | 89 | Erica Wheeler | 3,195 |
 | 90 | Danielle Robinson | 3,160 |
 | 91 | Wendy Palmer | 3,135 |
-| 92 | **Sabrina Ionescu** 🔴 +13 | 3,110 |
+| 92 | **Sabrina Ionescu** 🔴 +14 | 3,111 |
 | 93 | Shavonte Zellous | 3,103 |
 | 94 | Briann January | 3,082 |
 | 95 | Erika de Souza | 3,046 |
@@ -150,7 +150,7 @@ _Last updated: 2026-08-06 00:58 UTC_
 | 129 | Anna DeForge | 2,413 |
 | 130 | Kayla Thornton | 2,393 |
 | 131 | DeMya Walker | 2,379 |
-| 132 | **Jordin Canada** 🔴 +15 | 2,357 |
+| 132 | **Jordin Canada** 🔴 +16 | 2,358 |
 | 133 | Alex Bentley | 2,350 |
 | 134 | Azurá Stevens | 2,343 |
 | 135 | Merlakia Jones | 2,308 |
@@ -1525,7 +1525,7 @@ _Last updated: 2026-08-06 00:58 UTC_
 | 65 | Sue Bird | 775 |
 | 66 | Natasha Cloud | 773 |
 | 67 | Sheri Sam | 766 |
-| 68 | **Kahleah Copper** 🔴 +3 | 761 |
+| 68 | **Kahleah Copper** 🔴 +4 | 762 |
 | 69 | **Allisha Gray** 🔴 +3 | 755 |
 | 69 | Kia Vaughn | 755 |
 | 71 | Vickie Johnson | 752 |
