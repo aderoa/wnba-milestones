@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-06 00:38 UTC_
+_Last updated: 2026-08-06 00:39 UTC_
 
 ## Contents
 
@@ -66,8 +66,8 @@ _Last updated: 2026-08-06 00:38 UTC_
 | 45 | **Kahleah Copper** 🔴 +12 | 4,449 |
 | 46 | Crystal Langhorne | 4,433 |
 | 46 | Jia Perkins | 4,433 |
-| 48 | Courtney Vandersloot | 4,362 |
-| 49 | **Jonquel Jones** 🔴 +8 | 4,361 |
+| 48 | **Jonquel Jones** 🔴 +11 | 4,364 |
+| 49 | Courtney Vandersloot | 4,362 |
 | 50 | Courtney Williams | 4,350 |
 | 51 | Dearica Hamby | 4,330 |
 | 52 | Sophia Young-Malcolm | 4,300 |
@@ -236,7 +236,7 @@ _Last updated: 2026-08-06 00:38 UTC_
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | **Alyssa Thomas** 🔴 +3 | 2,861 |
-| 13 | **Jonquel Jones** 🔴 +12 | 2,740 |
+| 13 | **Jonquel Jones** 🔴 +13 | 2,741 |
 | 14 | A'ja Wilson | 2,657 |
 | 15 | **Breanna Stewart** 🔴 +6 | 2,638 |
 | 16 | Sancho Lyttle | 2,596 |
@@ -403,8 +403,8 @@ _Last updated: 2026-08-06 00:38 UTC_
 | 176 | **Odyssey Sims** 🔴 +1 | 786 |
 | 178 | Sue Wicks | 780 |
 | 179 | Lindsey Harding | 779 |
+| 180 | **Arike Ogunbowale** 🔴 +3 | 778 |
 | 180 | Tiffani Johnson | 778 |
-| 181 | **Arike Ogunbowale** 🔴 +2 | 777 |
 | 182 | Teresa Weatherspoon | 775 |
 | 183 | Anna DeForge | 769 |
 | 183 | Kelsey Bone | 769 |
@@ -1435,8 +1435,8 @@ _Last updated: 2026-08-06 00:38 UTC_
 | 181 | Le'coe Willingham | 325 |
 | 182 | Olympia Scott | 324 |
 | 183 | Kia Nurse | 320 |
-| 184 | Barbara Farris | 315 |
-| 184 | **Natisha Hiedeman** 🔴 +3 | 315 |
+| 184 | **Natisha Hiedeman** 🔴 +4 | 316 |
+| 185 | Barbara Farris | 315 |
 | 186 | Monique Billings | 314 |
 | 186 | Moriah Jefferson | 314 |
 | 188 | Alex Bentley | 313 |
