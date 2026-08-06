@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-06 01:51 UTC_
+_Last updated: 2026-08-06 01:53 UTC_
 
 ## Contents
 
@@ -379,7 +379,7 @@ _Last updated: 2026-08-06 01:51 UTC_
 | 153 | Alanna Smith | 889 |
 | 153 | Temeka Johnson | 889 |
 | 155 | Mistie Bass | 888 |
-| 156 | **Erica Wheeler** 🔴 +1 | 883 |
+| 156 | **Erica Wheeler** 🔴 +2 | 884 |
 | 157 | Marina Mabrey | 874 |
 | 158 | Shameka Christon | 867 |
 | 159 | Naz Hillmon | 864 |
