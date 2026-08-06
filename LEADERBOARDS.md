@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-06 02:56 UTC_
+_Last updated: 2026-08-06 02:58 UTC_
 
 ## Contents
 
@@ -107,7 +107,7 @@ _Last updated: 2026-08-06 02:56 UTC_
 | 86 | Marina Mabrey | 3,249 |
 | 87 | Stefanie Dolson | 3,217 |
 | 88 | Margo Dydek | 3,214 |
-| 89 | **Erica Wheeler** 🔴 +6 | 3,201 |
+| 89 | **Erica Wheeler** 🔴 +9 | 3,204 |
 | 90 | Danielle Robinson | 3,160 |
 | 91 | Wendy Palmer | 3,135 |
 | 92 | Sabrina Ionescu | 3,112 |
@@ -115,10 +115,10 @@ _Last updated: 2026-08-06 02:56 UTC_
 | 94 | Briann January | 3,082 |
 | 95 | Erika de Souza | 3,046 |
 | 96 | Shameka Christon | 3,039 |
-| 97 | **Natasha Cloud** 🔴 +12 | 3,030 |
+| 97 | **Natasha Cloud** 🔴 +15 | 3,033 |
 | 98 | Marie Ferdinand-Harris | 3,001 |
 | 99 | Emma Meesseman | 2,966 |
-| 100 | **Elizabeth Williams** 🔴 +8 | 2,941 |
+| 100 | **Elizabeth Williams** 🔴 +10 | 2,943 |
 | 101 | Natalie Williams | 2,894 |
 | 102 | Jennifer Gillom | 2,888 |
 | 103 | Iziane Castro Marques | 2,862 |
@@ -479,7 +479,7 @@ _Last updated: 2026-08-06 02:56 UTC_
 | 48 | Tiffany Hayes | 957 |
 | 49 | Arike Ogunbowale | 949 |
 | 50 | Kara Lawson | 946 |
-| 51 | **Nneka Ogwumike** 🔴 +1 | 934 |
+| 51 | **Nneka Ogwumike** 🔴 +2 | 935 |
 | 52 | Deanna Nolan | 930 |
 | 53 | Kelly Miller | 927 |
 | 54 | DeLisha Milton-Jones | 921 |
@@ -1100,13 +1100,13 @@ _Last updated: 2026-08-06 02:56 UTC_
 | 51 | Epiphanny Prince | 368 |
 | 51 | Kia Nurse | 368 |
 | 53 | Nykesha Sales | 352 |
-| 54 | Jackie Young | 346 |
-| 54 | **Natasha Cloud** 🔴 +1 | 346 |
+| 54 | **Natasha Cloud** 🔴 +2 | 347 |
+| 55 | Jackie Young | 346 |
 | 56 | Cathrine Kraayeveld | 343 |
 | 56 | Elena Delle Donne | 343 |
 | 58 | Candace Parker | 342 |
 | 59 | Deanna Nolan | 340 |
-| 60 | **Erica Wheeler** 🔴 | 337 |
+| 60 | **Erica Wheeler** 🔴 +1 | 338 |
 | 61 | Anna DeForge | 334 |
 | 61 | Sophie Cunningham | 334 |
 | 63 | Natisha Hiedeman | 328 |
