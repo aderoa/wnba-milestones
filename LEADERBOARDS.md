@@ -532,8 +532,8 @@ _Last updated: 2026-08-06 23:20 UTC_
 | 100 | Natasha Howard | 615 |
 | 101 | Debbie Black | 612 |
 | 102 | Cynthia Cooper | 602 |
-| 103 | **Caitlin Clark** 🔴 +1 | 592 |
-| 103 | Sancho Lyttle | 592 |
+| 103 | **Caitlin Clark** 🔴 +2 | 593 |
+| 104 | Sancho Lyttle | 592 |
 | 105 | Gabby Williams | 591 |
 | 106 | Betnijah Laney-Hamilton | 590 |
 | 106 | Camille Smith | 590 |
