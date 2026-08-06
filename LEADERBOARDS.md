@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-06 00:33 UTC_
+_Last updated: 2026-08-06 00:34 UTC_
 
 ## Contents
 
@@ -346,8 +346,8 @@ _Last updated: 2026-08-06 00:33 UTC_
 | 120 | Jackie Young | 1,085 |
 | 121 | Svetlana Abrosimova | 1,078 |
 | 122 | Le'coe Willingham | 1,054 |
+| 123 | **Angel Reese** 🔴 +5 | 1,040 |
 | 123 | Nicole Ohlde | 1,040 |
-| 124 | **Angel Reese** 🔴 +4 | 1,039 |
 | 125 | Tamecka Dixon | 1,035 |
 | 126 | Kamila Vodichkova | 1,031 |
 | 127 | Jasmine Thomas | 1,027 |
@@ -1546,9 +1546,9 @@ _Last updated: 2026-08-06 00:33 UTC_
 | 87 | Tan White | 698 |
 | 88 | Katie Douglas | 697 |
 | 89 | Danielle Robinson | 692 |
+| 90 | **Breanna Stewart** 🔴 +2 | 687 |
 | 90 | Sophia Young-Malcolm | 687 |
-| 91 | **Breanna Stewart** 🔴 +1 | 686 |
-| 91 | Maya Moore | 686 |
+| 92 | Maya Moore | 686 |
 | 93 | Cheyenne Parker-Tyus | 685 |
 | 93 | Jasmine Thomas | 685 |
 | 95 | Jewell Loyd | 684 |
