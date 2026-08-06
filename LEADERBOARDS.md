@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-06 02:33 UTC_
+_Last updated: 2026-08-06 02:34 UTC_
 
 ## Contents
 
@@ -256,7 +256,7 @@ _Last updated: 2026-08-06 02:33 UTC_
 | 30 | Chamique Holdsclaw | 2,123 |
 | 31 | Chasity Melvin | 2,097 |
 | 32 | Tammy Sutton-Brown | 2,010 |
-| 33 | **Elizabeth Williams** 🔴 +1 | 1,979 |
+| 33 | **Elizabeth Williams** 🔴 +2 | 1,980 |
 | 34 | Cheryl Ford | 1,907 |
 | 35 | Courtney Williams | 1,843 |
 | 36 | Kiah Stokes | 1,835 |
@@ -410,7 +410,7 @@ _Last updated: 2026-08-06 02:33 UTC_
 | 183 | Kelsey Bone | 769 |
 | 183 | Tan White | 769 |
 | 186 | Tully Bevilaqua | 767 |
-| 187 | **Kamilla Cardoso** 🔴 +7 | 757 |
+| 187 | **Kamilla Cardoso** 🔴 +8 | 758 |
 | 188 | Layshia Clarendon | 756 |
 | 189 | Brooke Wyckoff | 751 |
 | 190 | Coco Miller | 750 |
@@ -1471,7 +1471,7 @@ _Last updated: 2026-08-06 02:33 UTC_
 | 11 | Chasity Melvin | 1,165 |
 | 12 | Camille Smith | 1,159 |
 | 13 | Natasha Howard | 1,158 |
-| 14 | **Nneka Ogwumike** 🔴 | 1,156 |
+| 14 | **Nneka Ogwumike** 🔴 +1 | 1,157 |
 | 15 | Alana Beard | 1,153 |
 | 16 | Swin Cash | 1,146 |
 | 17 | Taj McWilliams-Franklin | 1,145 |
