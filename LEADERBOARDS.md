@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-06 00:17 UTC_
+_Last updated: 2026-08-06 00:18 UTC_
 
 ## Contents
 
@@ -52,7 +52,7 @@ _Last updated: 2026-08-06 00:17 UTC_
 | 31 | Taj McWilliams-Franklin | 4,992 |
 | 32 | Maya Moore | 4,984 |
 | 33 | Sheryl Swoopes | 4,875 |
-| 34 | **Alyssa Thomas** 🔴 +13 | 4,765 |
+| 34 | **Alyssa Thomas** 🔴 +15 | 4,767 |
 | 35 | Alana Beard | 4,740 |
 | 36 | **Arike Ogunbowale** 🔴 +10 | 4,725 |
 | 37 | Chamique Holdsclaw | 4,713 |
@@ -111,7 +111,7 @@ _Last updated: 2026-08-06 00:17 UTC_
 | 90 | Danielle Robinson | 3,160 |
 | 91 | Wendy Palmer | 3,135 |
 | 92 | Shavonte Zellous | 3,103 |
-| 93 | **Sabrina Ionescu** 🔴 +4 | 3,101 |
+| 93 | **Sabrina Ionescu** 🔴 +5 | 3,102 |
 | 94 | Briann January | 3,082 |
 | 95 | Erika de Souza | 3,046 |
 | 96 | Shameka Christon | 3,039 |
@@ -404,7 +404,7 @@ _Last updated: 2026-08-06 00:17 UTC_
 | 178 | Sue Wicks | 780 |
 | 179 | Lindsey Harding | 779 |
 | 180 | Tiffani Johnson | 778 |
-| 181 | **Arike Ogunbowale** 🔴 +1 | 776 |
+| 181 | **Arike Ogunbowale** 🔴 +2 | 777 |
 | 182 | Teresa Weatherspoon | 775 |
 | 183 | Anna DeForge | 769 |
 | 183 | Kelsey Bone | 769 |
@@ -478,7 +478,7 @@ _Last updated: 2026-08-06 00:17 UTC_
 | 46 | Nikki Teasley | 982 |
 | 47 | Tamecka Dixon | 960 |
 | 48 | Tiffany Hayes | 957 |
-| 49 | **Arike Ogunbowale** 🔴 +3 | 947 |
+| 49 | **Arike Ogunbowale** 🔴 +4 | 948 |
 | 50 | Kara Lawson | 946 |
 | 51 | Nneka Ogwumike | 933 |
 | 52 | Deanna Nolan | 930 |
@@ -1187,9 +1187,9 @@ _Last updated: 2026-08-06 00:17 UTC_
 | 136 | Jennifer Lacy | 160 |
 | 136 | Stephanie Talbot | 160 |
 | 139 | Aari McDonald | 158 |
+| 139 | **Alanna Smith** 🔴 +2 | 158 |
 | 139 | Jennifer Azzi | 158 |
 | 139 | Natasha Howard | 158 |
-| 142 | **Alanna Smith** 🔴 +1 | 157 |
 | 143 | Bridget Pettis | 153 |
 | 143 | Gabby Williams | 153 |
 | 143 | Jennifer Gillom | 153 |
