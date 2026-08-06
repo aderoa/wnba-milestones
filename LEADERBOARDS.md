@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-06 00:30 UTC_
+_Last updated: 2026-08-06 00:31 UTC_
 
 ## Contents
 
@@ -414,7 +414,7 @@ _Last updated: 2026-08-06 00:30 UTC_
 | 188 | Brooke Wyckoff | 751 |
 | 189 | Coco Miller | 750 |
 | 189 | Kamilla Cardoso | 750 |
-| 191 | **Kelsey Plum** 🔴 +4 | 745 |
+| 191 | **Kelsey Plum** 🔴 +5 | 746 |
 | 192 | Alex Montgomery | 735 |
 | 193 | Ashley Robinson | 734 |
 | 194 | Shenise Johnson | 729 |
@@ -1023,10 +1023,10 @@ _Last updated: 2026-08-06 00:30 UTC_
 | 179 | Isabelle Harrison | 190 |
 | 180 | Tamicha Jackson | 188 |
 | 181 | Michele Timms | 187 |
-| 182 | Charde Houston | 185 |
-| 182 | **Rebecca Allen** 🔴 +2 | 185 |
-| 182 | **Sabrina Ionescu** 🔴 +1 | 185 |
-| 182 | Tiffany Jackson | 185 |
+| 182 | **Sabrina Ionescu** 🔴 +2 | 186 |
+| 183 | Charde Houston | 185 |
+| 183 | **Rebecca Allen** 🔴 +2 | 185 |
+| 183 | Tiffany Jackson | 185 |
 | 186 | Erin Perperoglou | 184 |
 | 187 | Erin Phillips | 182 |
 | 187 | Monique Billings | 182 |
