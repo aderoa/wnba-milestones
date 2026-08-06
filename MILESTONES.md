@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-08-06 00:57 UTC
+
+- **Kahleah Copper** reached **500** career assists (now 500) — _1:27 - 4th — PHX @ ATL_
+
 ## 2026-08-06 00:52 UTC
 
 - **Kelsey Plum** passed **Crystal Robinson** for **#113** all-time in steals (career 268) — up from #114 entering today — _2:51 - 4th — PHX @ ATL_

@@ -1,5 +1,14 @@
 [
   {
+    "ts": "2026-08-06T00:57:00+00:00",
+    "text": "Kahleah Copper reached 500 career assists (now 500) \u2014 (1:27 - 4th \u2014 PHX @ ATL)",
+    "kind": "round",
+    "player": "Kahleah Copper",
+    "stat": "assists",
+    "value": 500,
+    "new_total": 500
+  },
+  {
     "ts": "2026-08-06T00:52:00+00:00",
     "text": "Kelsey Plum passed Crystal Robinson for #113 all-time in steals (career 268) \u2014 up from #114 entering today \u2014 (2:51 - 4th \u2014 PHX @ ATL)",
     "kind": "rank_pass",
@@ -2987,17 +2996,5 @@
       "Damiris Dantas"
     ],
     "new_total": 290
-  },
-  {
-    "ts": "2026-07-04T00:49:00+00:00",
-    "text": "Jonquel Jones passed Karima Christmas-Kelly for #118 all-time in steals (career 262) \u2014 up from #119 entering today \u2014 (3:44 - 3rd \u2014 MIN @ NY)",
-    "kind": "rank_pass",
-    "player": "Jonquel Jones",
-    "stat": "steals",
-    "rank": 118,
-    "passed_players": [
-      "Karima Christmas-Kelly"
-    ],
-    "new_total": 262
   }
 ]
