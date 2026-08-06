@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-06 23:16 UTC_
+_Last updated: 2026-08-06 23:19 UTC_
 
 ## Contents
 
@@ -45,7 +45,7 @@ _Last updated: 2026-08-06 23:16 UTC_
 | 24 | DeLisha Milton-Jones | 5,571 |
 | 25 | Katie Douglas | 5,545 |
 | 26 | Lindsay Whalen | 5,511 |
-| 27 | **Kelsey Mitchell** 🔴 +2 | 5,200 |
+| 27 | **Kelsey Mitchell** 🔴 +4 | 5,202 |
 | 28 | Swin Cash | 5,119 |
 | 29 | Tiffany Hayes | 5,049 |
 | 30 | Tangela Smith | 5,035 |
@@ -200,7 +200,7 @@ _Last updated: 2026-08-06 23:16 UTC_
 | 179 | **NaLyssa Smith** 🔴 +2 | 1,881 |
 | 180 | Rachel Banham | 1,843 |
 | 181 | Damiris Dantas | 1,842 |
-| 182 | Sophie Cunningham | 1,829 |
+| 182 | **Sophie Cunningham** 🔴 | 1,829 |
 | 183 | Tianna Hawkins | 1,825 |
 | 184 | Noelle Quinn | 1,824 |
 | 185 | Danielle Adams | 1,820 |
@@ -607,7 +607,7 @@ _Last updated: 2026-08-06 23:16 UTC_
 | 174 | Tamicha Jackson | 389 |
 | 176 | Riquna Williams | 387 |
 | 177 | Bridget Carleton | 384 |
-| 178 | Dana Evans | 379 |
+| 178 | **Dana Evans** 🔴 | 379 |
 | 179 | Jessica Breland | 377 |
 | 180 | Shenise Johnson | 376 |
 | 181 | Alanna Smith | 374 |
@@ -1109,7 +1109,7 @@ _Last updated: 2026-08-06 23:16 UTC_
 | 59 | Deanna Nolan | 340 |
 | 60 | Erica Wheeler | 337 |
 | 61 | Anna DeForge | 334 |
-| 61 | Sophie Cunningham | 334 |
+| 61 | **Sophie Cunningham** 🔴 | 334 |
 | 63 | Natisha Hiedeman | 328 |
 | 64 | Sugar Rodgers | 317 |
 | 65 | Marissa Coleman | 315 |
@@ -1183,7 +1183,7 @@ _Last updated: 2026-08-06 23:16 UTC_
 | 133 | Tyasha Harris | 162 |
 | 133 | Ukari Figgs | 162 |
 | 135 | Edna Campbell | 161 |
-| 136 | Dana Evans | 160 |
+| 136 | **Dana Evans** 🔴 | 160 |
 | 136 | Jennifer Lacy | 160 |
 | 136 | **Stephanie Talbot** 🔴 | 160 |
 | 139 | Aari McDonald | 158 |
@@ -1607,7 +1607,7 @@ _Last updated: 2026-08-06 23:16 UTC_
 | 146 | Kayla McBride | 543 |
 | 146 | Renee Montgomery | 543 |
 | 149 | Marissa Coleman | 541 |
-| 150 | Sophie Cunningham | 538 |
+| 150 | **Sophie Cunningham** 🔴 | 538 |
 | 151 | Myisha Hines-Allen | 535 |
 | 152 | Damiris Dantas | 533 |
 | 152 | Kristen Rasmussen | 533 |
