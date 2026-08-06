@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-08-06T00:52:00+00:00",
+    "text": "Kelsey Plum passed Crystal Robinson for #113 all-time in steals (career 268) \u2014 up from #114 entering today \u2014 (2:51 - 4th \u2014 PHX @ ATL)",
+    "kind": "rank_pass",
+    "player": "Kelsey Plum",
+    "stat": "steals",
+    "rank": 113,
+    "passed_players": [
+      "Crystal Robinson"
+    ],
+    "new_total": 268
+  },
+  {
     "ts": "2026-08-04T03:06:00+00:00",
     "text": "Alyssa Thomas passed Tina Charles for #12 all-time in turnovers (career 1,041) \u2014 up from #13 entering today \u2014 (2:33 - 4th \u2014 PHX @ CHI)",
     "kind": "rank_pass",
@@ -2987,18 +2999,5 @@
       "Karima Christmas-Kelly"
     ],
     "new_total": 262
-  },
-  {
-    "ts": "2026-07-04T00:20:00+00:00",
-    "text": "Sabrina Ionescu passed Crystal Robinson and Gabby Williams for #199 all-time in blocks (career 66) \u2014 new to top 200 today \u2014 (0.0 - 2nd \u2014 MIN @ NY)",
-    "kind": "rank_pass",
-    "player": "Sabrina Ionescu",
-    "stat": "blocks",
-    "rank": 199,
-    "passed_players": [
-      "Crystal Robinson",
-      "Gabby Williams"
-    ],
-    "new_total": 66
   }
 ]
