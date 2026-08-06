@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-06 02:39 UTC_
+_Last updated: 2026-08-06 02:40 UTC_
 
 ## Contents
 
@@ -753,9 +753,9 @@ _Last updated: 2026-08-06 02:39 UTC_
 | 115 | Sophia Young-Malcolm | 111 |
 | 115 | Tari Phillips | 111 |
 | 119 | Courtney Williams | 109 |
-| 120 | **Dearica Hamby** 🔴 +2 | 108 |
 | 120 | Erin Perperoglou | 108 |
 | 120 | Glory Johnson | 108 |
+| 122 | **Dearica Hamby** 🔴 +1 | 107 |
 | 123 | Sylvia Crawley | 106 |
 | 124 | Carolyn Swords | 104 |
 | 124 | Rebecca Lobo | 104 |
@@ -1492,7 +1492,7 @@ _Last updated: 2026-08-06 02:39 UTC_
 | 32 | Asjha Jones | 971 |
 | 33 | Margo Dydek | 950 |
 | 34 | Sancho Lyttle | 947 |
-| 35 | **Courtney Vandersloot** 🔴 +2 | 942 |
+| 35 | **Courtney Vandersloot** 🔴 +3 | 943 |
 | 36 | Mwadi Mabika | 941 |
 | 37 | Tamika Whitmore | 940 |
 | 38 | DeWanna Bonner | 924 |
