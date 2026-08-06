@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-06 01:07 UTC_
+_Last updated: 2026-08-06 01:08 UTC_
 
 ## Contents
 
@@ -351,8 +351,8 @@ _Last updated: 2026-08-06 01:07 UTC_
 | 125 | Tamecka Dixon | 1,035 |
 | 126 | Kamila Vodichkova | 1,031 |
 | 127 | Jasmine Thomas | 1,027 |
+| 128 | **Jessica Shepard** 🔴 +9 | 1,025 |
 | 128 | Sabrina Ionescu | 1,025 |
-| 129 | **Jessica Shepard** 🔴 +8 | 1,024 |
 | 130 | Cathrine Kraayeveld | 1,013 |
 | 131 | Kelly Miller | 1,011 |
 | 131 | Noelle Quinn | 1,011 |
@@ -377,8 +377,8 @@ _Last updated: 2026-08-06 01:07 UTC_
 | 151 | Nia Coffey | 903 |
 | 152 | Natalie Achonwa | 895 |
 | 153 | Temeka Johnson | 889 |
+| 154 | **Alanna Smith** 🔴 +10 | 888 |
 | 154 | Mistie Bass | 888 |
-| 155 | **Alanna Smith** 🔴 +9 | 887 |
 | 156 | Erica Wheeler | 882 |
 | 157 | Marina Mabrey | 874 |
 | 158 | Shameka Christon | 867 |
