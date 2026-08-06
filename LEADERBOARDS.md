@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-06 05:57 UTC_
+_Last updated: 2026-08-06 05:58 UTC_
 
 ## Contents
 
@@ -385,8 +385,8 @@ _Last updated: 2026-08-06 05:57 UTC_
 | 159 | Naz Hillmon | 864 |
 | 160 | Krystal Thomas | 862 |
 | 161 | Leilani Mitchell | 845 |
-| 161 | Shakira Austin | 845 |
-| 163 | Essence Carson | 833 |
+| 162 | Essence Carson | 833 |
+| 163 | Shakira Austin | 832 |
 | 164 | Gabby Williams | 831 |
 | 165 | Kristi Toliver | 829 |
 | 166 | Marie Ferdinand-Harris | 828 |
@@ -741,7 +741,7 @@ _Last updated: 2026-08-06 05:57 UTC_
 | 105 | Natalie Williams | 122 |
 | 106 | Ebony Hoffman | 121 |
 | 106 | Essence Carson | 121 |
-| 108 | Shakira Austin | 120 |
+| 108 | Shakira Austin | 119 |
 | 109 | Krystal Thomas | 118 |
 | 110 | Andrea Stinson | 117 |
 | 110 | Crystal Langhorne | 117 |
@@ -1193,7 +1193,7 @@ _Last updated: 2026-08-06 05:57 UTC_
 | 143 | Gabby Williams | 153 |
 | 143 | Jennifer Gillom | 153 |
 | 143 | Katie Lou Samuelson | 153 |
-| 143 | Michaela Onyenwere | 153 |
+| 147 | Michaela Onyenwere | 151 |
 | 148 | Rita Williams | 150 |
 | 149 | Moriah Jefferson | 149 |
 | 149 | Tiffany Mitchell | 149 |
@@ -1247,7 +1247,6 @@ _Last updated: 2026-08-06 05:57 UTC_
 | 198 | Julie Vanloo | 104 |
 | 199 | Jeanette Pohlen-Mavunga | 103 |
 | 199 | Kiesha Brown | 103 |
-| 199 | Sonia Citron | 103 |
 
 ## Turnovers
 
