@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-06 00:41 UTC_
+_Last updated: 2026-08-06 00:42 UTC_
 
 ## Contents
 
@@ -124,7 +124,7 @@ _Last updated: 2026-08-06 00:41 UTC_
 | 103 | Iziane Castro Marques | 2,862 |
 | 104 | Alysha Clark | 2,808 |
 | 105 | Jantel Lavender | 2,775 |
-| 106 | **Brionna Jones** 🔴 +7 | 2,772 |
+| 106 | **Brionna Jones** 🔴 +9 | 2,774 |
 | 107 | Dominique Canty | 2,763 |
 | 108 | Ticha Penicheiro | 2,729 |
 | 109 | Adrienne Goodson | 2,705 |
@@ -235,7 +235,7 @@ _Last updated: 2026-08-06 00:41 UTC_
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
-| 12 | **Alyssa Thomas** 🔴 +3 | 2,861 |
+| 12 | **Alyssa Thomas** 🔴 +4 | 2,862 |
 | 13 | **Jonquel Jones** 🔴 +13 | 2,741 |
 | 14 | A'ja Wilson | 2,657 |
 | 15 | **Breanna Stewart** 🔴 +6 | 2,638 |
@@ -346,8 +346,8 @@ _Last updated: 2026-08-06 00:41 UTC_
 | 120 | Jackie Young | 1,085 |
 | 121 | Svetlana Abrosimova | 1,078 |
 | 122 | Le'coe Willingham | 1,054 |
-| 123 | **Angel Reese** 🔴 +5 | 1,040 |
-| 123 | Nicole Ohlde | 1,040 |
+| 123 | **Angel Reese** 🔴 +6 | 1,041 |
+| 124 | Nicole Ohlde | 1,040 |
 | 125 | Tamecka Dixon | 1,035 |
 | 126 | Kamila Vodichkova | 1,031 |
 | 127 | Jasmine Thomas | 1,027 |
@@ -454,7 +454,7 @@ _Last updated: 2026-08-06 00:41 UTC_
 | 23 | Teresa Weatherspoon | 1,333 |
 | 24 | Kristi Toliver | 1,301 |
 | 25 | **Kelsey Plum** 🔴 +4 | 1,274 |
-| 26 | **Jordin Canada** 🔴 +3 | 1,265 |
+| 26 | **Jordin Canada** 🔴 +4 | 1,266 |
 | 27 | Katie Smith | 1,258 |
 | 28 | **Odyssey Sims** 🔴 +2 | 1,230 |
 | 29 | Vickie Johnson | 1,202 |
@@ -520,9 +520,9 @@ _Last updated: 2026-08-06 00:41 UTC_
 | 89 | Bria Hartley | 661 |
 | 90 | Brittney Griner | 660 |
 | 91 | Lindsay Allen | 657 |
-| 92 | Betty Lennox | 651 |
-| 92 | **Jonquel Jones** 🔴 +4 | 651 |
-| 92 | Plenette Pierson | 651 |
+| 92 | **Jonquel Jones** 🔴 +5 | 652 |
+| 93 | Betty Lennox | 651 |
+| 93 | Plenette Pierson | 651 |
 | 95 | Alex Bentley | 645 |
 | 96 | Asjha Jones | 637 |
 | 97 | Jennifer Azzi | 636 |
@@ -580,7 +580,7 @@ _Last updated: 2026-08-06 00:41 UTC_
 | 149 | DeMya Walker | 446 |
 | 150 | Essence Carson | 445 |
 | 151 | Julie Allemand | 444 |
-| 152 | **Jessica Shepard** 🔴 +4 | 440 |
+| 152 | **Jessica Shepard** 🔴 +5 | 441 |
 | 153 | Michelle Snow | 437 |
 | 154 | Lauren Jackson | 435 |
 | 155 | Adrienne Goodson | 433 |
@@ -1645,7 +1645,7 @@ _Last updated: 2026-08-06 00:41 UTC_
 | 185 | Kia Nurse | 484 |
 | 187 | Liz Cambage | 483 |
 | 187 | Rhonda Mapp | 483 |
-| 189 | **Alanna Smith** 🔴 +2 | 481 |
+| 189 | **Alanna Smith** 🔴 +3 | 482 |
 | 190 | **Sami Whitcomb** 🔴 | 480 |
 | 191 | Seimone Augustus | 477 |
 | 192 | Allie Quigley | 475 |
