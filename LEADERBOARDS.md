@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-06 00:53 UTC_
+_Last updated: 2026-08-06 00:54 UTC_
 
 ## Contents
 
@@ -31,7 +31,7 @@ _Last updated: 2026-08-06 00:53 UTC_
 | 10 | Candace Parker | 6,574 |
 | 11 | Katie Smith | 6,450 |
 | 12 | Sylvia Fowles | 6,413 |
-| 13 | **Breanna Stewart** 🔴 +24 | 6,359 |
+| 13 | **Breanna Stewart** 🔴 +26 | 6,361 |
 | 14 | Lisa Leslie | 6,251 |
 | 15 | A'ja Wilson | 6,178 |
 | 16 | Jewell Loyd | 6,148 |
@@ -61,7 +61,7 @@ _Last updated: 2026-08-06 00:53 UTC_
 | 40 | Chelsea Gray | 4,625 |
 | 41 | Penny Taylor | 4,595 |
 | 42 | **Allisha Gray** 🔴 +20 | 4,511 |
-| 43 | **Kelsey Plum** 🔴 +15 | 4,509 |
+| 42 | **Kelsey Plum** 🔴 +17 | 4,511 |
 | 44 | Kristi Toliver | 4,474 |
 | 45 | **Kahleah Copper** 🔴 +14 | 4,451 |
 | 46 | Crystal Langhorne | 4,433 |
@@ -351,8 +351,8 @@ _Last updated: 2026-08-06 00:53 UTC_
 | 125 | Tamecka Dixon | 1,035 |
 | 126 | Kamila Vodichkova | 1,031 |
 | 127 | Jasmine Thomas | 1,027 |
-| 128 | **Jessica Shepard** 🔴 +8 | 1,024 |
-| 128 | **Sabrina Ionescu** 🔴 +4 | 1,024 |
+| 128 | **Sabrina Ionescu** 🔴 +5 | 1,025 |
+| 129 | **Jessica Shepard** 🔴 +8 | 1,024 |
 | 130 | Cathrine Kraayeveld | 1,013 |
 | 131 | Kelly Miller | 1,011 |
 | 131 | Noelle Quinn | 1,011 |
@@ -464,7 +464,7 @@ _Last updated: 2026-08-06 00:53 UTC_
 | 33 | Jackie Young | 1,150 |
 | 34 | Renee Montgomery | 1,140 |
 | 35 | Swin Cash | 1,131 |
-| 36 | **Sabrina Ionescu** 🔴 +5 | 1,097 |
+| 36 | **Sabrina Ionescu** 🔴 +6 | 1,098 |
 | 37 | Lindsey Harding | 1,090 |
 | 38 | Katie Douglas | 1,069 |
 | 39 | Alana Beard | 1,061 |
@@ -1007,11 +1007,11 @@ _Last updated: 2026-08-06 00:53 UTC_
 | 163 | Kia Vaughn | 208 |
 | 163 | Sophia Witherspoon | 208 |
 | 165 | Betnijah Laney-Hamilton | 207 |
-| 166 | **Natisha Hiedeman** 🔴 +1 | 205 |
 | 166 | Shameka Christon | 205 |
-| 168 | Jessica Breland | 204 |
-| 168 | Murriel Page | 204 |
-| 168 | Shatori Walker-Kimbrough | 204 |
+| 167 | Jessica Breland | 204 |
+| 167 | Murriel Page | 204 |
+| 167 | **Natisha Hiedeman** 🔴 | 204 |
+| 167 | Shatori Walker-Kimbrough | 204 |
 | 171 | Adrienne Goodson | 203 |
 | 172 | Allie Quigley | 198 |
 | 173 | **Alanna Smith** 🔴 +1 | 195 |
@@ -1487,7 +1487,7 @@ _Last updated: 2026-08-06 00:53 UTC_
 | 28 | Yolanda Griffith | 991 |
 | 29 | Lauren Jackson | 982 |
 | 30 | Nakia Sanford | 979 |
-| 31 | **Alyssa Thomas** 🔴 +1 | 973 |
+| 31 | **Alyssa Thomas** 🔴 +2 | 974 |
 | 32 | Asjha Jones | 971 |
 | 33 | Margo Dydek | 950 |
 | 34 | Sancho Lyttle | 947 |
