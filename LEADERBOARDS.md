@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-06 00:18 UTC_
+_Last updated: 2026-08-06 00:19 UTC_
 
 ## Contents
 
@@ -423,8 +423,7 @@ _Last updated: 2026-08-06 00:18 UTC_
 | 197 | Olympia Scott | 711 |
 | 198 | Katie Mattera | 708 |
 | 199 | Rushia Brown | 706 |
-| 200 | Allie Quigley | 702 |
-| 200 | **Rebecca Allen** 🔴 | 702 |
+| 200 | **Rebecca Allen** 🔴 +1 | 703 |
 
 ## Assists
 
@@ -1579,7 +1578,7 @@ _Last updated: 2026-08-06 00:18 UTC_
 | 119 | Svetlana Abrosimova | 613 |
 | 120 | **Odyssey Sims** 🔴 +1 | 611 |
 | 121 | Layshia Clarendon | 609 |
-| 122 | **Arike Ogunbowale** 🔴 +1 | 605 |
+| 122 | **Arike Ogunbowale** 🔴 +2 | 606 |
 | 123 | Tiffany Mitchell | 604 |
 | 124 | Janel McCarville | 597 |
 | 125 | Kamila Vodichkova | 596 |
@@ -1646,8 +1645,8 @@ _Last updated: 2026-08-06 00:18 UTC_
 | 185 | Kia Nurse | 484 |
 | 187 | Liz Cambage | 483 |
 | 187 | Rhonda Mapp | 483 |
-| 189 | **Alanna Smith** 🔴 +1 | 480 |
-| 189 | **Sami Whitcomb** 🔴 | 480 |
+| 189 | **Alanna Smith** 🔴 +2 | 481 |
+| 190 | **Sami Whitcomb** 🔴 | 480 |
 | 191 | Seimone Augustus | 477 |
 | 192 | Allie Quigley | 475 |
 | 193 | NaLyssa Smith | 474 |
