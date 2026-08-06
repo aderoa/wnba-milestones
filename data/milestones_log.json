@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-08-06T01:24:00+00:00",
+    "text": "Alanna Smith passed Temeka Johnson for #153 all-time in rebounds (career 890) \u2014 up from #156 entering today \u2014 (2:46 - 4th \u2014 DAL @ WSH)",
+    "kind": "rank_pass",
+    "player": "Alanna Smith",
+    "stat": "rebounds",
+    "rank": 153,
+    "passed_players": [
+      "Temeka Johnson"
+    ],
+    "new_total": 890
+  },
+  {
     "ts": "2026-08-06T01:12:00+00:00",
     "text": "Alanna Smith passed Mistie Bass for #154 all-time in rebounds (career 889) \u2014 up from #156 entering today \u2014 (5:17 - 4th \u2014 DAL @ WSH)",
     "kind": "rank_pass",
@@ -2983,17 +2995,5 @@
       "Kennedy Burke"
     ],
     "new_total": 67
-  },
-  {
-    "ts": "2026-07-04T00:54:00+00:00",
-    "text": "Kayla McBride passed Sheri Sam for #62 all-time in turnovers (career 651) \u2014 up from #63 entering today \u2014 (1:25 - 3rd \u2014 MIN @ NY)",
-    "kind": "rank_pass",
-    "player": "Kayla McBride",
-    "stat": "turnovers",
-    "rank": 62,
-    "passed_players": [
-      "Sheri Sam"
-    ],
-    "new_total": 651
   }
 ]
