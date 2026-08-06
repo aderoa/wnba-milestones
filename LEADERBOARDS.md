@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-06 23:21 UTC_
+_Last updated: 2026-08-06 23:22 UTC_
 
 ## Contents
 
@@ -58,7 +58,7 @@ _Last updated: 2026-08-06 23:21 UTC_
 | 37 | Chamique Holdsclaw | 4,713 |
 | 38 | Elena Delle Donne | 4,706 |
 | 39 | Natasha Howard | 4,682 |
-| 40 | **Chelsea Gray** 🔴 +2 | 4,627 |
+| 40 | **Chelsea Gray** 🔴 +5 | 4,630 |
 | 41 | Penny Taylor | 4,595 |
 | 42 | Kelsey Plum | 4,494 |
 | 43 | Allisha Gray | 4,491 |
@@ -213,7 +213,7 @@ _Last updated: 2026-08-06 23:21 UTC_
 | 192 | Armintie Herrington | 1,696 |
 | 193 | Nikki Teasley | 1,690 |
 | 194 | Shenise Johnson | 1,688 |
-| 195 | **Monique Billings** 🔴 +2 | 1,614 |
+| 195 | **Monique Billings** 🔴 +6 | 1,618 |
 | 196 | Janell Burse | 1,580 |
 | 197 | Le'coe Willingham | 1,552 |
 | 198 | Shatori Walker-Kimbrough | 1,544 |
@@ -516,8 +516,8 @@ _Last updated: 2026-08-06 23:21 UTC_
 | 84 | Ariel Atkins | 682 |
 | 85 | Emma Meesseman | 681 |
 | 86 | Nykesha Sales | 677 |
+| 87 | **A'ja Wilson** 🔴 +1 | 668 |
 | 87 | Natisha Hiedeman | 668 |
-| 88 | **A'ja Wilson** 🔴 | 667 |
 | 89 | Bria Hartley | 661 |
 | 90 | Brittney Griner | 660 |
 | 91 | Lindsay Allen | 657 |
@@ -873,8 +873,8 @@ _Last updated: 2026-08-06 23:21 UTC_
 | 28 | Natasha Howard | 467 |
 | 29 | Skylar Diggins | 463 |
 | 29 | Teresa Weatherspoon | 463 |
-| 31 | **Chelsea Gray** 🔴 +1 | 458 |
-| 31 | **Jewell Loyd** 🔴 | 458 |
+| 31 | **Chelsea Gray** 🔴 +2 | 459 |
+| 31 | **Jewell Loyd** 🔴 +1 | 459 |
 | 33 | Rebekkah Brunson | 456 |
 | 34 | Tangela Smith | 455 |
 | 35 | Tina Thompson | 452 |
@@ -1078,7 +1078,7 @@ _Last updated: 2026-08-06 23:21 UTC_
 | 28 | Allisha Gray | 458 |
 | 29 | Ariel Atkins | 455 |
 | 30 | Tiffany Hayes | 454 |
-| 31 | **Chelsea Gray** 🔴 | 450 |
+| 31 | **Chelsea Gray** 🔴 +1 | 451 |
 | 32 | Skylar Diggins | 447 |
 | 33 | Lauren Jackson | 436 |
 | 34 | Shameka Christon | 434 |
