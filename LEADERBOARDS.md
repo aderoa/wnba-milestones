@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-07 02:57 UTC_
+_Last updated: 2026-08-07 02:58 UTC_
 
 ## Contents
 
@@ -786,13 +786,13 @@ _Last updated: 2026-08-07 02:57 UTC_
 | 149 | Marissa Coleman | 88 |
 | 150 | Astou Ndiaye-Diatta | 86 |
 | 151 | Adrian Williams-Strong | 85 |
+| 151 | **Cameron Brink** 🔴 +3 | 85 |
 | 151 | Erlana Larkins | 85 |
 | 151 | Kalani Brown | 85 |
 | 151 | Kristin Folkl | 85 |
-| 155 | **Cameron Brink** 🔴 +2 | 84 |
-| 155 | Charde Houston | 84 |
-| 155 | **Marina Mabrey** 🔴 | 84 |
-| 155 | Shatori Walker-Kimbrough | 84 |
+| 156 | Charde Houston | 84 |
+| 156 | **Marina Mabrey** 🔴 | 84 |
+| 156 | Shatori Walker-Kimbrough | 84 |
 | 159 | Tamera Young | 83 |
 | 160 | Damiris Dantas | 82 |
 | 161 | Charlotte Smith | 81 |
@@ -1623,8 +1623,8 @@ _Last updated: 2026-08-07 02:57 UTC_
 | 162 | Adrienne Goodson | 512 |
 | 162 | Janeth Arcain | 512 |
 | 164 | Andrea Stinson | 511 |
-| 165 | **Napheesa Collier** 🔴 +3 | 507 |
-| 165 | Vicky Bullett | 507 |
+| 165 | **Napheesa Collier** 🔴 +4 | 508 |
+| 166 | Vicky Bullett | 507 |
 | 167 | Merlakia Jones | 506 |
 | 168 | **Isabelle Harrison** 🔴 | 505 |
 | 168 | Rushia Brown | 505 |
