@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-07 00:26 UTC_
+_Last updated: 2026-08-07 00:27 UTC_
 
 ## Contents
 
@@ -33,7 +33,7 @@ _Last updated: 2026-08-07 00:26 UTC_
 | 12 | Sylvia Fowles | 6,413 |
 | 13 | Breanna Stewart | 6,335 |
 | 14 | Lisa Leslie | 6,251 |
-| 15 | **A'ja Wilson** 🔴 +4 | 6,182 |
+| 15 | **A'ja Wilson** 🔴 +6 | 6,184 |
 | 16 | **Jewell Loyd** 🔴 +5 | 6,153 |
 | 17 | Brittney Griner | 6,087 |
 | 18 | Lauren Jackson | 6,005 |
@@ -45,7 +45,7 @@ _Last updated: 2026-08-07 00:26 UTC_
 | 24 | DeLisha Milton-Jones | 5,571 |
 | 25 | Katie Douglas | 5,545 |
 | 26 | Lindsay Whalen | 5,511 |
-| 27 | **Kelsey Mitchell** 🔴 +12 | 5,210 |
+| 27 | **Kelsey Mitchell** 🔴 +15 | 5,213 |
 | 28 | Swin Cash | 5,119 |
 | 29 | Tiffany Hayes | 5,049 |
 | 30 | Tangela Smith | 5,035 |
@@ -319,7 +319,7 @@ _Last updated: 2026-08-07 00:26 UTC_
 | 92 | Liz Cambage | 1,258 |
 | 94 | Tiffany Hayes | 1,257 |
 | 95 | Kayla McBride | 1,256 |
-| 96 | **Brianna Turner** 🔴 +1 | 1,244 |
+| 96 | **Brianna Turner** 🔴 +2 | 1,245 |
 | 97 | Ezi Magbegor | 1,243 |
 | 98 | Seimone Augustus | 1,228 |
 | 99 | Jia Perkins | 1,220 |
@@ -435,7 +435,7 @@ _Last updated: 2026-08-07 00:26 UTC_
 | 3 | Ticha Penicheiro | 2,588 |
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
-| 6 | **Chelsea Gray** 🔴 +3 | 2,006 |
+| 6 | **Chelsea Gray** 🔴 +4 | 2,007 |
 | 7 | Alyssa Thomas | 1,971 |
 | 8 | Skylar Diggins | 1,852 |
 | 9 | Natasha Cloud | 1,802 |
@@ -641,7 +641,7 @@ _Last updated: 2026-08-07 00:26 UTC_
 | 4 | Sylvia Fowles | 721 |
 | 5 | Candace Parker | 619 |
 | 6 | Lauren Jackson | 586 |
-| 7 | **A'ja Wilson** 🔴 +1 | 569 |
+| 7 | **A'ja Wilson** 🔴 +2 | 570 |
 | 8 | Tammy Sutton-Brown | 555 |
 | 9 | Tangela Smith | 554 |
 | 10 | Ruth Riley | 505 |
@@ -945,7 +945,7 @@ _Last updated: 2026-08-07 00:26 UTC_
 | 100 | Janel McCarville | 294 |
 | 101 | Kelly Miller | 290 |
 | 102 | Glory Johnson | 289 |
-| 103 | **Jackie Young** 🔴 | 287 |
+| 103 | **Jackie Young** 🔴 +1 | 288 |
 | 104 | Essence Carson | 285 |
 | 105 | Seimone Augustus | 280 |
 | 106 | Tari Phillips | 277 |
@@ -979,7 +979,7 @@ _Last updated: 2026-08-07 00:26 UTC_
 | 134 | Coco Miller | 237 |
 | 135 | Marissa Coleman | 236 |
 | 136 | Nikki McCray | 235 |
-| 137 | **Kelsey Mitchell** 🔴 | 233 |
+| 137 | **Kelsey Mitchell** 🔴 +1 | 234 |
 | 138 | Merlakia Jones | 232 |
 | 139 | Ruth Riley | 231 |
 | 140 | Scholanda Dorrell | 230 |
@@ -1055,7 +1055,7 @@ _Last updated: 2026-08-07 00:26 UTC_
 | 5 | Kayla McBride | 756 |
 | 6 | Tina Thompson | 745 |
 | 7 | Katie Douglas | 723 |
-| 8 | **Kelsey Mitchell** 🔴 | 712 |
+| 8 | **Kelsey Mitchell** 🔴 +1 | 713 |
 | 9 | **Jewell Loyd** 🔴 | 695 |
 | 10 | DeWanna Bonner | 682 |
 | 11 | Kristi Toliver | 651 |
@@ -1332,8 +1332,8 @@ _Last updated: 2026-08-07 00:26 UTC_
 | 77 | Kelly Miller | 596 |
 | 78 | Stefanie Dolson | 594 |
 | 79 | Brittney Sykes | 591 |
-| 80 | Breanna Stewart | 586 |
-| 80 | **Kelsey Mitchell** 🔴 +1 | 586 |
+| 80 | **Kelsey Mitchell** 🔴 +2 | 587 |
+| 81 | Breanna Stewart | 586 |
 | 82 | Helen Darling | 575 |
 | 82 | Nykesha Sales | 575 |
 | 84 | Andrea Stinson | 571 |
@@ -1375,7 +1375,7 @@ _Last updated: 2026-08-07 00:26 UTC_
 | 120 | Elaine Powell | 469 |
 | 121 | Allie Quigley | 467 |
 | 122 | Ariel Atkins | 465 |
-| 123 | **Jackie Young** 🔴 +1 | 464 |
+| 122 | **Jackie Young** 🔴 +2 | 465 |
 | 124 | Betnijah Laney-Hamilton | 456 |
 | 125 | Kia Vaughn | 454 |
 | 126 | Janeth Arcain | 453 |
@@ -1656,5 +1656,5 @@ _Last updated: 2026-08-07 00:26 UTC_
 | 195 | Nikki Teasley | 463 |
 | 197 | Sue Wicks | 462 |
 | 198 | Natalie Achonwa | 459 |
+| 199 | **Aliyah Boston** 🔴 +3 | 457 |
 | 199 | Kara Lawson | 457 |
-| 200 | **Aliyah Boston** 🔴 +2 | 456 |
