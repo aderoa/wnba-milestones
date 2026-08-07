@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-07 02:39 UTC_
+_Last updated: 2026-08-07 02:40 UTC_
 
 ## Contents
 
@@ -186,8 +186,8 @@ _Last updated: 2026-08-07 02:39 UTC_
 | 165 | Chiney Ogwumike | 1,964 |
 | 166 | Nicole Ohlde | 1,959 |
 | 167 | Myisha Hines-Allen | 1,956 |
-| 168 | Kedra Holland-Corn | 1,938 |
-| 169 | **Isabelle Harrison** 🔴 +5 | 1,937 |
+| 168 | **Isabelle Harrison** 🔴 +7 | 1,939 |
+| 169 | Kedra Holland-Corn | 1,938 |
 | 170 | Cathrine Kraayeveld | 1,926 |
 | 171 | Roneeka Hodges | 1,925 |
 | 172 | Latasha Byears | 1,920 |
@@ -249,7 +249,7 @@ _Last updated: 2026-08-07 02:39 UTC_
 | 23 | Lauren Jackson | 2,444 |
 | 24 | Yolanda Griffith | 2,440 |
 | 25 | Tangela Smith | 2,328 |
-| 26 | **Natasha Howard** 🔴 +4 | 2,319 |
+| 26 | **Natasha Howard** 🔴 +5 | 2,320 |
 | 27 | Erika de Souza | 2,220 |
 | 28 | Diana Taurasi | 2,201 |
 | 29 | Margo Dydek | 2,138 |
@@ -575,10 +575,10 @@ _Last updated: 2026-08-07 02:39 UTC_
 | 143 | Sydney Colson | 454 |
 | 144 | Yolanda Griffith | 451 |
 | 145 | Elena Delle Donne | 450 |
+| 145 | **Julie Allemand** 🔴 +6 | 450 |
 | 145 | Kristi Harrower | 450 |
 | 145 | Nikki McCray | 450 |
-| 148 | **Julie Allemand** 🔴 +5 | 449 |
-| 148 | Ruth Riley | 449 |
+| 149 | Ruth Riley | 449 |
 | 150 | DeMya Walker | 446 |
 | 151 | Essence Carson | 445 |
 | 152 | Michelle Snow | 437 |
@@ -1344,7 +1344,7 @@ _Last updated: 2026-08-07 02:39 UTC_
 | 89 | Lauren Jackson | 549 |
 | 90 | Matee Ajavon | 544 |
 | 91 | Adrienne Goodson | 542 |
-| 92 | **Marina Mabrey** 🔴 +2 | 539 |
+| 92 | **Marina Mabrey** 🔴 +3 | 540 |
 | 93 | Layshia Clarendon | 536 |
 | 94 | Ivory Latta | 534 |
 | 94 | Iziane Castro Marques | 534 |
@@ -1623,9 +1623,9 @@ _Last updated: 2026-08-07 02:39 UTC_
 | 162 | Adrienne Goodson | 512 |
 | 162 | Janeth Arcain | 512 |
 | 164 | Andrea Stinson | 511 |
+| 165 | **Napheesa Collier** 🔴 +3 | 507 |
 | 165 | Vicky Bullett | 507 |
-| 166 | Merlakia Jones | 506 |
-| 166 | **Napheesa Collier** 🔴 +2 | 506 |
+| 167 | Merlakia Jones | 506 |
 | 168 | **Isabelle Harrison** 🔴 | 505 |
 | 168 | Rushia Brown | 505 |
 | 168 | Shekinna Stricklen | 505 |
