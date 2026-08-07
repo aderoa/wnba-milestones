@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-07 01:08 UTC_
+_Last updated: 2026-08-07 01:09 UTC_
 
 ## Contents
 
@@ -67,8 +67,8 @@ _Last updated: 2026-08-07 01:08 UTC_
 | 46 | Crystal Langhorne | 4,433 |
 | 46 | Jia Perkins | 4,433 |
 | 48 | Courtney Vandersloot | 4,362 |
-| 49 | **Courtney Williams** 🔴 +3 | 4,353 |
-| 49 | Jonquel Jones | 4,353 |
+| 49 | **Courtney Williams** 🔴 +6 | 4,356 |
+| 50 | Jonquel Jones | 4,353 |
 | 51 | **Dearica Hamby** 🔴 +4 | 4,334 |
 | 52 | Sophia Young-Malcolm | 4,300 |
 | 53 | Plenette Pierson | 4,258 |
@@ -107,7 +107,7 @@ _Last updated: 2026-08-07 01:08 UTC_
 | 86 | Marina Mabrey | 3,249 |
 | 87 | Stefanie Dolson | 3,217 |
 | 88 | Margo Dydek | 3,214 |
-| 89 | **Erica Wheeler** 🔴 | 3,195 |
+| 89 | **Erica Wheeler** 🔴 +3 | 3,198 |
 | 90 | Danielle Robinson | 3,160 |
 | 91 | Wendy Palmer | 3,135 |
 | 92 | Shavonte Zellous | 3,103 |
@@ -285,7 +285,7 @@ _Last updated: 2026-08-07 01:08 UTC_
 | 59 | Angel McCoughtry | 1,561 |
 | 60 | Penny Taylor | 1,552 |
 | 61 | Cappie Pondexter | 1,513 |
-| 62 | **Napheesa Collier** 🔴 | 1,510 |
+| 62 | **Napheesa Collier** 🔴 +1 | 1,511 |
 | 63 | Ticha Penicheiro | 1,485 |
 | 64 | Alysha Clark | 1,469 |
 | 65 | Sue Bird | 1,466 |
@@ -323,7 +323,7 @@ _Last updated: 2026-08-07 01:08 UTC_
 | 97 | Ezi Magbegor | 1,243 |
 | 98 | Seimone Augustus | 1,228 |
 | 99 | Jia Perkins | 1,220 |
-| 100 | **Aliyah Boston** 🔴 +11 | 1,209 |
+| 100 | **Aliyah Boston** 🔴 +12 | 1,210 |
 | 101 | Kahleah Copper | 1,204 |
 | 102 | DeMya Walker | 1,199 |
 | 103 | Latasha Byears | 1,190 |
@@ -541,7 +541,7 @@ _Last updated: 2026-08-07 01:08 UTC_
 | 109 | Veronica Burton | 579 |
 | 110 | Tan White | 578 |
 | 111 | Matee Ajavon | 577 |
-| 112 | **Napheesa Collier** 🔴 | 570 |
+| 112 | **Napheesa Collier** 🔴 +1 | 571 |
 | 113 | Nicole Powell | 567 |
 | 114 | Loree Moore | 562 |
 | 115 | Sophia Young-Malcolm | 554 |
@@ -1107,7 +1107,7 @@ _Last updated: 2026-08-07 01:08 UTC_
 | 56 | Elena Delle Donne | 343 |
 | 58 | Candace Parker | 342 |
 | 59 | Deanna Nolan | 340 |
-| 60 | **Erica Wheeler** 🔴 | 337 |
+| 60 | **Erica Wheeler** 🔴 +1 | 338 |
 | 61 | Anna DeForge | 334 |
 | 61 | **Sophie Cunningham** 🔴 | 334 |
 | 63 | Natisha Hiedeman | 328 |
@@ -1535,8 +1535,8 @@ _Last updated: 2026-08-07 01:08 UTC_
 | 74 | Shameka Christon | 734 |
 | 75 | Becky Hammon | 733 |
 | 76 | Elizabeth Williams | 732 |
-| 77 | **Ariel Atkins** 🔴 | 730 |
-| 77 | Latasha Byears | 730 |
+| 77 | **Ariel Atkins** 🔴 +1 | 731 |
+| 78 | Latasha Byears | 730 |
 | 79 | Kristi Toliver | 722 |
 | 80 | Cheryl Ford | 713 |
 | 81 | Jia Perkins | 711 |
