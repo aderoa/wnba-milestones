@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-07 00:48 UTC_
+_Last updated: 2026-08-07 00:49 UTC_
 
 ## Contents
 
@@ -343,7 +343,7 @@ _Last updated: 2026-08-07 00:48 UTC_
 | 117 | Becky Hammon | 1,108 |
 | 118 | Ann Wauters | 1,105 |
 | 119 | Isabelle Harrison | 1,097 |
-| 120 | **Jackie Young** 🔴 +1 | 1,086 |
+| 120 | **Jackie Young** 🔴 +2 | 1,087 |
 | 121 | Svetlana Abrosimova | 1,078 |
 | 122 | Le'coe Willingham | 1,054 |
 | 123 | Nicole Ohlde | 1,040 |
@@ -1160,8 +1160,8 @@ _Last updated: 2026-08-07 00:48 UTC_
 | 110 | Shanna Zolman | 199 |
 | 111 | Temeka Johnson | 197 |
 | 111 | Tina Charles | 197 |
+| 113 | **Caitlin Clark** 🔴 +1 | 196 |
 | 113 | Nia Coffey | 196 |
-| 114 | **Caitlin Clark** 🔴 | 195 |
 | 115 | Lindsay Whalen | 193 |
 | 116 | Victoria Vivians | 192 |
 | 117 | Danielle Adams | 188 |
