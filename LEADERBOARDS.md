@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-07 03:45 UTC_
+_Last updated: 2026-08-07 03:46 UTC_
 
 ## Contents
 
@@ -573,8 +573,8 @@ _Last updated: 2026-08-07 03:45 UTC_
 | 141 | Tyasha Harris | 460 |
 | 142 | Sug Sutton | 456 |
 | 143 | Sydney Colson | 454 |
-| 144 | **Julie Allemand** 🔴 +7 | 451 |
-| 144 | Yolanda Griffith | 451 |
+| 144 | **Julie Allemand** 🔴 +8 | 452 |
+| 145 | Yolanda Griffith | 451 |
 | 146 | Elena Delle Donne | 450 |
 | 146 | Kristi Harrower | 450 |
 | 146 | Nikki McCray | 450 |
@@ -760,10 +760,10 @@ _Last updated: 2026-08-07 03:45 UTC_
 | 122 | Sylvia Crawley | 106 |
 | 124 | Carolyn Swords | 104 |
 | 124 | Rebecca Lobo | 104 |
-| 126 | **Isabelle Harrison** 🔴 +1 | 103 |
 | 126 | Jennifer Gillom | 103 |
 | 126 | Jia Perkins | 103 |
-| 129 | Theresa Plaisance | 102 |
+| 128 | **Isabelle Harrison** 🔴 | 102 |
+| 128 | Theresa Plaisance | 102 |
 | 130 | Deanna Nolan | 101 |
 | 131 | Chante Black | 100 |
 | 131 | Danielle Adams | 100 |
