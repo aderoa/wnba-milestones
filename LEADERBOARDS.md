@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-07 01:09 UTC_
+_Last updated: 2026-08-07 01:10 UTC_
 
 ## Contents
 
@@ -88,8 +88,8 @@ _Last updated: 2026-08-07 01:09 UTC_
 | 67 | Mwadi Mabika | 3,576 |
 | 68 | Odyssey Sims | 3,574 |
 | 69 | Camille Smith | 3,551 |
-| 70 | **Napheesa Collier** 🔴 | 3,542 |
-| 70 | Shannon Johnson | 3,542 |
+| 70 | **Napheesa Collier** 🔴 +2 | 3,544 |
+| 71 | Shannon Johnson | 3,542 |
 | 72 | Renee Montgomery | 3,533 |
 | 73 | Jasmine Thomas | 3,522 |
 | 74 | Tamecka Dixon | 3,507 |
@@ -668,7 +668,7 @@ _Last updated: 2026-08-07 01:09 UTC_
 | 31 | Candice Dupree | 316 |
 | 32 | Vicky Bullett | 288 |
 | 33 | Rebekkah Brunson | 281 |
-| 34 | **Nneka Ogwumike** 🔴 | 266 |
+| 34 | **Nneka Ogwumike** 🔴 +1 | 267 |
 | 35 | Liz Cambage | 264 |
 | 36 | Cheyenne Parker-Tyus | 261 |
 | 37 | Swin Cash | 258 |
@@ -1374,8 +1374,8 @@ _Last updated: 2026-08-07 01:09 UTC_
 | 119 | Ebony Hoffman | 470 |
 | 120 | Elaine Powell | 469 |
 | 121 | Allie Quigley | 467 |
-| 122 | **Ariel Atkins** 🔴 | 465 |
-| 122 | **Jackie Young** 🔴 +2 | 465 |
+| 122 | **Ariel Atkins** 🔴 +1 | 466 |
+| 123 | **Jackie Young** 🔴 +2 | 465 |
 | 124 | Betnijah Laney-Hamilton | 456 |
 | 125 | Kia Vaughn | 454 |
 | 126 | Janeth Arcain | 453 |
@@ -1565,7 +1565,7 @@ _Last updated: 2026-08-07 01:09 UTC_
 | 104 | Kiah Stokes | 651 |
 | 105 | Tari Phillips | 648 |
 | 106 | Marie Ferdinand-Harris | 646 |
-| 107 | **Chelsea Gray** 🔴 +2 | 642 |
+| 107 | **Chelsea Gray** 🔴 +3 | 643 |
 | 108 | Charlotte Smith | 638 |
 | 109 | Teaira McCowan | 637 |
 | 110 | Janell Burse | 632 |
@@ -1598,8 +1598,8 @@ _Last updated: 2026-08-07 01:09 UTC_
 | 137 | Barbara Farris | 563 |
 | 138 | Jessica Breland | 562 |
 | 139 | **A'ja Wilson** 🔴 +2 | 556 |
-| 140 | Dawn Staley | 551 |
-| 140 | **Jackie Young** 🔴 +3 | 551 |
+| 140 | **Jackie Young** 🔴 +4 | 552 |
+| 141 | Dawn Staley | 551 |
 | 142 | Glory Johnson | 550 |
 | 142 | Tierra Ruffin-Pratt | 550 |
 | 144 | **Monique Billings** 🔴 +2 | 548 |
