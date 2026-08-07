@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-07 03:53 UTC_
+_Last updated: 2026-08-07 03:54 UTC_
 
 ## Contents
 
@@ -572,8 +572,8 @@ _Last updated: 2026-08-07 03:53 UTC_
 | 140 | Sylvia Fowles | 461 |
 | 141 | Tyasha Harris | 460 |
 | 142 | Sug Sutton | 456 |
-| 143 | **Julie Allemand** 🔴 +10 | 454 |
-| 143 | Sydney Colson | 454 |
+| 143 | **Julie Allemand** 🔴 +11 | 455 |
+| 144 | Sydney Colson | 454 |
 | 145 | Yolanda Griffith | 451 |
 | 146 | Elena Delle Donne | 450 |
 | 146 | Kristi Harrower | 450 |

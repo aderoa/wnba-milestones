@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-08-07T03:54:00+00:00",
+    "text": "Julie Allemand passed Sydney Colson for #143 all-time in assists (career 455) \u2014 up from #151 entering today \u2014 (4:47 - 4th \u2014 TOR @ POR)",
+    "kind": "rank_pass",
+    "player": "Julie Allemand",
+    "stat": "assists",
+    "rank": 143,
+    "passed_players": [
+      "Sydney Colson"
+    ],
+    "new_total": 455
+  },
+  {
     "ts": "2026-08-07T02:49:00+00:00",
     "text": "Napheesa Collier passed Shameka Christon for #137 all-time in turnovers (career 425) \u2014 up from #139 entering today \u2014 (2:28 - 4th \u2014 LA @ MIN)",
     "kind": "rank_pass",
@@ -2982,17 +2994,5 @@
       "Stefanie Dolson"
     ],
     "new_total": 279
-  },
-  {
-    "ts": "2026-07-04T01:10:00+00:00",
-    "text": "Courtney Williams passed Courtney Vandersloot for #48 all-time in points (career 4,363) \u2014 up from #50 entering today \u2014 (5:42 - 4th \u2014 MIN @ NY)",
-    "kind": "rank_pass",
-    "player": "Courtney Williams",
-    "stat": "points",
-    "rank": 48,
-    "passed_players": [
-      "Courtney Vandersloot"
-    ],
-    "new_total": 4363
   }
 ]
