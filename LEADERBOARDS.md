@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-07 02:11 UTC_
+_Last updated: 2026-08-07 02:12 UTC_
 
 ## Contents
 
@@ -87,14 +87,14 @@ _Last updated: 2026-08-07 02:11 UTC_
 | 66 | Kara Lawson | 3,670 |
 | 67 | Mwadi Mabika | 3,576 |
 | 68 | Odyssey Sims | 3,574 |
-| 69 | **Napheesa Collier** 🔴 +13 | 3,555 |
+| 69 | **Napheesa Collier** 🔴 +15 | 3,557 |
 | 70 | Camille Smith | 3,551 |
 | 71 | Shannon Johnson | 3,542 |
 | 72 | Renee Montgomery | 3,533 |
 | 73 | Jasmine Thomas | 3,522 |
 | 74 | Tamecka Dixon | 3,507 |
 | 75 | Tammy Sutton-Brown | 3,498 |
-| 76 | **Ariel Atkins** 🔴 +4 | 3,485 |
+| 76 | **Ariel Atkins** 🔴 +7 | 3,488 |
 | 77 | Sancho Lyttle | 3,478 |
 | 78 | Ivory Latta | 3,447 |
 | 79 | Nicole Powell | 3,407 |
@@ -107,7 +107,7 @@ _Last updated: 2026-08-07 02:11 UTC_
 | 86 | **Marina Mabrey** 🔴 +6 | 3,255 |
 | 87 | Stefanie Dolson | 3,217 |
 | 88 | Margo Dydek | 3,214 |
-| 89 | **Erica Wheeler** 🔴 +3 | 3,198 |
+| 89 | **Erica Wheeler** 🔴 +5 | 3,200 |
 | 90 | Danielle Robinson | 3,160 |
 | 91 | Wendy Palmer | 3,135 |
 | 92 | Shavonte Zellous | 3,103 |
@@ -285,7 +285,7 @@ _Last updated: 2026-08-07 02:11 UTC_
 | 59 | Angel McCoughtry | 1,561 |
 | 60 | Penny Taylor | 1,552 |
 | 61 | Cappie Pondexter | 1,513 |
-| 62 | **Napheesa Collier** 🔴 +2 | 1,512 |
+| 61 | **Napheesa Collier** 🔴 +3 | 1,513 |
 | 63 | Ticha Penicheiro | 1,485 |
 | 64 | Alysha Clark | 1,469 |
 | 65 | Sue Bird | 1,466 |
@@ -378,7 +378,7 @@ _Last updated: 2026-08-07 02:11 UTC_
 | 152 | Natalie Achonwa | 895 |
 | 153 | Temeka Johnson | 889 |
 | 154 | Mistie Bass | 888 |
-| 155 | **Erica Wheeler** 🔴 | 882 |
+| 155 | **Erica Wheeler** 🔴 +1 | 883 |
 | 156 | Alanna Smith | 878 |
 | 157 | **Marina Mabrey** 🔴 +1 | 875 |
 | 158 | Shameka Christon | 867 |
@@ -450,7 +450,7 @@ _Last updated: 2026-08-07 02:11 UTC_
 | 18 | Temeka Johnson | 1,382 |
 | 19 | Jasmine Thomas | 1,355 |
 | 20 | Briann January | 1,339 |
-| 21 | **Erica Wheeler** 🔴 +3 | 1,338 |
+| 20 | **Erica Wheeler** 🔴 +4 | 1,339 |
 | 22 | Dawn Staley | 1,337 |
 | 23 | Teresa Weatherspoon | 1,333 |
 | 24 | Kristi Toliver | 1,301 |
@@ -512,8 +512,8 @@ _Last updated: 2026-08-07 02:11 UTC_
 | 80 | Chamique Holdsclaw | 698 |
 | 81 | Shavonte Zellous | 693 |
 | 82 | Allie Quigley | 690 |
+| 83 | **Ariel Atkins** 🔴 +3 | 685 |
 | 83 | Moriah Jefferson | 685 |
-| 84 | **Ariel Atkins** 🔴 +2 | 684 |
 | 85 | Emma Meesseman | 681 |
 | 86 | Nykesha Sales | 677 |
 | 87 | A'ja Wilson | 670 |
@@ -892,7 +892,7 @@ _Last updated: 2026-08-07 02:11 UTC_
 | 47 | Nicole Powell | 401 |
 | 48 | Jordin Canada | 397 |
 | 49 | Jasmine Thomas | 394 |
-| 50 | **Ariel Atkins** 🔴 | 390 |
+| 50 | **Ariel Atkins** 🔴 +1 | 391 |
 | 51 | Danielle Robinson | 389 |
 | 52 | Deanna Nolan | 388 |
 | 53 | Briann January | 386 |
@@ -1076,7 +1076,7 @@ _Last updated: 2026-08-07 02:11 UTC_
 | 26 | Breanna Stewart | 465 |
 | 27 | Cappie Pondexter | 464 |
 | 28 | Allisha Gray | 458 |
-| 29 | **Ariel Atkins** 🔴 | 455 |
+| 29 | **Ariel Atkins** 🔴 +1 | 456 |
 | 30 | Tiffany Hayes | 454 |
 | 31 | Chelsea Gray | 453 |
 | 32 | Skylar Diggins | 447 |
@@ -1585,8 +1585,8 @@ _Last updated: 2026-08-07 02:11 UTC_
 | 124 | Janel McCarville | 597 |
 | 125 | Kamila Vodichkova | 596 |
 | 126 | Teresa Weatherspoon | 589 |
+| 127 | **Courtney Williams** 🔴 +2 | 585 |
 | 127 | Emma Meesseman | 585 |
-| 128 | **Courtney Williams** 🔴 +1 | 584 |
 | 129 | Chiney Ogwumike | 580 |
 | 129 | Hamchetou Maiga-Ba | 580 |
 | 129 | Olympia Scott | 580 |
