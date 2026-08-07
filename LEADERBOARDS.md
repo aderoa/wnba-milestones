@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-07 01:46 UTC_
+_Last updated: 2026-08-07 01:47 UTC_
 
 ## Contents
 
@@ -87,8 +87,8 @@ _Last updated: 2026-08-07 01:46 UTC_
 | 66 | Kara Lawson | 3,670 |
 | 67 | Mwadi Mabika | 3,576 |
 | 68 | Odyssey Sims | 3,574 |
-| 69 | Camille Smith | 3,551 |
-| 69 | **Napheesa Collier** 🔴 +9 | 3,551 |
+| 69 | **Napheesa Collier** 🔴 +11 | 3,553 |
+| 70 | Camille Smith | 3,551 |
 | 71 | Shannon Johnson | 3,542 |
 | 72 | Renee Montgomery | 3,533 |
 | 73 | Jasmine Thomas | 3,522 |
@@ -227,7 +227,7 @@ _Last updated: 2026-08-07 01:46 UTC_
 | 1 | Tina Charles | 4,262 |
 | 2 | Sylvia Fowles | 4,005 |
 | 3 | Candace Parker | 3,467 |
-| 4 | **Nneka Ogwumike** 🔴 +2 | 3,408 |
+| 4 | **Nneka Ogwumike** 🔴 +3 | 3,409 |
 | 5 | Rebekkah Brunson | 3,345 |
 | 6 | Tamika Catchings | 3,313 |
 | 7 | Lisa Leslie | 3,303 |
@@ -258,7 +258,7 @@ _Last updated: 2026-08-07 01:46 UTC_
 | 32 | Tammy Sutton-Brown | 2,010 |
 | 33 | Elizabeth Williams | 1,978 |
 | 34 | Cheryl Ford | 1,907 |
-| 35 | **Courtney Williams** 🔴 +2 | 1,845 |
+| 35 | **Courtney Williams** 🔴 +3 | 1,846 |
 | 36 | Kiah Stokes | 1,835 |
 | 37 | Plenette Pierson | 1,834 |
 | 38 | Natalie Williams | 1,832 |
@@ -374,7 +374,7 @@ _Last updated: 2026-08-07 01:46 UTC_
 | 148 | Nicky Anosike | 922 |
 | 149 | Janeth Arcain | 916 |
 | 150 | Karima Christmas-Kelly | 908 |
-| 151 | **Nia Coffey** 🔴 | 903 |
+| 151 | **Nia Coffey** 🔴 +1 | 904 |
 | 152 | Natalie Achonwa | 895 |
 | 153 | Temeka Johnson | 889 |
 | 154 | Mistie Bass | 888 |
