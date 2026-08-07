@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-07 03:38 UTC_
+_Last updated: 2026-08-07 03:39 UTC_
 
 ## Contents
 
@@ -380,7 +380,7 @@ _Last updated: 2026-08-07 03:38 UTC_
 | 154 | Mistie Bass | 888 |
 | 155 | Erica Wheeler | 886 |
 | 156 | Alanna Smith | 878 |
-| 157 | **Marina Mabrey** 🔴 +1 | 875 |
+| 157 | **Marina Mabrey** 🔴 +2 | 876 |
 | 158 | Shameka Christon | 867 |
 | 159 | Krystal Thomas | 862 |
 | 160 | Naz Hillmon | 859 |
@@ -500,7 +500,7 @@ _Last updated: 2026-08-07 03:38 UTC_
 | 68 | Jia Perkins | 837 |
 | 69 | Andrea Stinson | 810 |
 | 70 | Tina Thompson | 803 |
-| 71 | **Marina Mabrey** 🔴 | 801 |
+| 71 | **Marina Mabrey** 🔴 +1 | 802 |
 | 72 | Epiphanny Prince | 800 |
 | 73 | Mwadi Mabika | 774 |
 | 74 | Allisha Gray | 767 |
@@ -760,10 +760,10 @@ _Last updated: 2026-08-07 03:38 UTC_
 | 122 | Sylvia Crawley | 106 |
 | 124 | Carolyn Swords | 104 |
 | 124 | Rebecca Lobo | 104 |
+| 126 | **Isabelle Harrison** 🔴 +1 | 103 |
 | 126 | Jennifer Gillom | 103 |
 | 126 | Jia Perkins | 103 |
-| 128 | **Isabelle Harrison** 🔴 | 102 |
-| 128 | Theresa Plaisance | 102 |
+| 129 | Theresa Plaisance | 102 |
 | 130 | Deanna Nolan | 101 |
 | 131 | Chante Black | 100 |
 | 131 | Danielle Adams | 100 |
