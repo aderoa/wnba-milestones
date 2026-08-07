@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-07 01:32 UTC_
+_Last updated: 2026-08-07 01:33 UTC_
 
 ## Contents
 
@@ -1586,7 +1586,7 @@ _Last updated: 2026-08-07 01:32 UTC_
 | 125 | Kamila Vodichkova | 596 |
 | 126 | Teresa Weatherspoon | 589 |
 | 127 | Emma Meesseman | 585 |
-| 128 | **Courtney Williams** 🔴 | 583 |
+| 128 | **Courtney Williams** 🔴 +1 | 584 |
 | 129 | Chiney Ogwumike | 580 |
 | 129 | Hamchetou Maiga-Ba | 580 |
 | 129 | Olympia Scott | 580 |
@@ -1626,11 +1626,11 @@ _Last updated: 2026-08-07 01:32 UTC_
 | 165 | Vicky Bullett | 507 |
 | 166 | Merlakia Jones | 506 |
 | 167 | Isabelle Harrison | 505 |
+| 167 | **Napheesa Collier** 🔴 +1 | 505 |
 | 167 | Rushia Brown | 505 |
 | 167 | Shekinna Stricklen | 505 |
-| 170 | Allison Feaster | 504 |
-| 170 | Erin Perperoglou | 504 |
-| 170 | **Napheesa Collier** 🔴 | 504 |
+| 171 | Allison Feaster | 504 |
+| 171 | Erin Perperoglou | 504 |
 | 173 | Iziane Castro Marques | 502 |
 | 174 | Elena Baranova | 501 |
 | 175 | Adrian Williams-Strong | 497 |
