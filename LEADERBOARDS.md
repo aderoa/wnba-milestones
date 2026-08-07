@@ -1648,8 +1648,8 @@ _Last updated: 2026-08-07 00:30 UTC_
 | 187 | Rhonda Mapp | 483 |
 | 189 | Sami Whitcomb | 480 |
 | 190 | Alanna Smith | 479 |
-| 191 | **NaLyssa Smith** 🔴 +3 | 477 |
-| 191 | Seimone Augustus | 477 |
+| 191 | **NaLyssa Smith** 🔴 +4 | 478 |
+| 192 | Seimone Augustus | 477 |
 | 193 | Allie Quigley | 475 |
 | 194 | Satou Sabally | 471 |
 | 195 | Christi Thomas | 463 |
