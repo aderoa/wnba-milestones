@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-07 02:41 UTC_
+_Last updated: 2026-08-07 02:42 UTC_
 
 ## Contents
 
@@ -67,7 +67,7 @@ _Last updated: 2026-08-07 02:41 UTC_
 | 46 | Crystal Langhorne | 4,433 |
 | 46 | Jia Perkins | 4,433 |
 | 48 | Courtney Vandersloot | 4,362 |
-| 49 | **Courtney Williams** 🔴 +10 | 4,360 |
+| 48 | **Courtney Williams** 🔴 +12 | 4,362 |
 | 50 | Jonquel Jones | 4,353 |
 | 51 | **Dearica Hamby** 🔴 +16 | 4,346 |
 | 52 | Sophia Young-Malcolm | 4,300 |
@@ -227,7 +227,7 @@ _Last updated: 2026-08-07 02:41 UTC_
 | 1 | Tina Charles | 4,262 |
 | 2 | Sylvia Fowles | 4,005 |
 | 3 | Candace Parker | 3,467 |
-| 4 | **Nneka Ogwumike** 🔴 +4 | 3,410 |
+| 4 | **Nneka Ogwumike** 🔴 +5 | 3,411 |
 | 5 | Rebekkah Brunson | 3,345 |
 | 6 | Tamika Catchings | 3,313 |
 | 7 | Lisa Leslie | 3,303 |
@@ -258,7 +258,7 @@ _Last updated: 2026-08-07 02:41 UTC_
 | 32 | Tammy Sutton-Brown | 2,010 |
 | 33 | Elizabeth Williams | 1,978 |
 | 34 | Cheryl Ford | 1,907 |
-| 35 | **Courtney Williams** 🔴 +6 | 1,849 |
+| 35 | **Courtney Williams** 🔴 +7 | 1,850 |
 | 36 | Kiah Stokes | 1,835 |
 | 37 | Plenette Pierson | 1,834 |
 | 38 | Natalie Williams | 1,832 |
@@ -395,8 +395,8 @@ _Last updated: 2026-08-07 02:41 UTC_
 | 168 | Barbara Farris | 819 |
 | 170 | Carolyn Swords | 814 |
 | 171 | Betnijah Laney-Hamilton | 812 |
-| 172 | **Ariel Atkins** 🔴 +1 | 799 |
-| 172 | Tierra Ruffin-Pratt | 799 |
+| 172 | **Ariel Atkins** 🔴 +2 | 800 |
+| 173 | Tierra Ruffin-Pratt | 799 |
 | 174 | Charlotte Smith | 794 |
 | 175 | Rhonda Mapp | 788 |
 | 176 | Mercedes Russell | 786 |
@@ -512,8 +512,8 @@ _Last updated: 2026-08-07 02:41 UTC_
 | 80 | Chamique Holdsclaw | 698 |
 | 81 | Shavonte Zellous | 693 |
 | 82 | Allie Quigley | 690 |
-| 83 | **Ariel Atkins** 🔴 +3 | 685 |
-| 83 | Moriah Jefferson | 685 |
+| 83 | **Ariel Atkins** 🔴 +4 | 686 |
+| 84 | Moriah Jefferson | 685 |
 | 85 | Emma Meesseman | 681 |
 | 86 | Nykesha Sales | 677 |
 | 87 | A'ja Wilson | 670 |
@@ -541,7 +541,7 @@ _Last updated: 2026-08-07 02:41 UTC_
 | 109 | Veronica Burton | 579 |
 | 110 | Tan White | 578 |
 | 111 | Matee Ajavon | 577 |
-| 112 | **Napheesa Collier** 🔴 +4 | 574 |
+| 112 | **Napheesa Collier** 🔴 +5 | 575 |
 | 113 | Nicole Powell | 567 |
 | 114 | Loree Moore | 562 |
 | 115 | Sophia Young-Malcolm | 554 |
@@ -924,9 +924,9 @@ _Last updated: 2026-08-07 02:41 UTC_
 | 79 | Odyssey Sims | 334 |
 | 80 | Marie Ferdinand-Harris | 331 |
 | 81 | Chasity Melvin | 330 |
+| 81 | **Courtney Williams** 🔴 +1 | 330 |
 | 81 | Leilani Mitchell | 330 |
-| 83 | **Courtney Williams** 🔴 | 329 |
-| 83 | Kristi Toliver | 329 |
+| 84 | Kristi Toliver | 329 |
 | 85 | Matee Ajavon | 328 |
 | 86 | Gabby Williams | 326 |
 | 86 | **Napheesa Collier** 🔴 +1 | 326 |
