@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-07 23:50 UTC_
+_Last updated: 2026-08-07 23:51 UTC_
 
 ## Contents
 
@@ -52,7 +52,7 @@ _Last updated: 2026-08-07 23:50 UTC_
 | 31 | Taj McWilliams-Franklin | 4,992 |
 | 32 | Maya Moore | 4,984 |
 | 33 | Sheryl Swoopes | 4,875 |
-| 34 | **Alyssa Thomas** 🔴 +4 | 4,756 |
+| 34 | **Alyssa Thomas** 🔴 +5 | 4,757 |
 | 35 | Alana Beard | 4,740 |
 | 36 | Arike Ogunbowale | 4,715 |
 | 37 | Chamique Holdsclaw | 4,713 |
@@ -235,7 +235,7 @@ _Last updated: 2026-08-07 23:50 UTC_
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
-| 12 | **Alyssa Thomas** 🔴 +1 | 2,859 |
+| 12 | **Alyssa Thomas** 🔴 +3 | 2,861 |
 | 13 | Jonquel Jones | 2,728 |
 | 14 | A'ja Wilson | 2,657 |
 | 15 | Breanna Stewart | 2,632 |
@@ -296,7 +296,7 @@ _Last updated: 2026-08-07 23:50 UTC_
 | 70 | Alana Beard | 1,420 |
 | 71 | Nakia Sanford | 1,419 |
 | 72 | Kayla Thornton | 1,408 |
-| 73 | **Allisha Gray** 🔴 | 1,404 |
+| 73 | **Allisha Gray** 🔴 +1 | 1,405 |
 | 74 | Kara Braxton | 1,387 |
 | 75 | Courtney Vandersloot | 1,386 |
 | 76 | Katie Smith | 1,383 |
@@ -385,7 +385,7 @@ _Last updated: 2026-08-07 23:50 UTC_
 | 159 | Krystal Thomas | 862 |
 | 160 | **Naz Hillmon** 🔴 +1 | 860 |
 | 161 | Leilani Mitchell | 845 |
-| 162 | **Shakira Austin** 🔴 +4 | 836 |
+| 162 | **Shakira Austin** 🔴 +5 | 837 |
 | 163 | Essence Carson | 833 |
 | 164 | Gabby Williams | 831 |
 | 165 | Kristi Toliver | 829 |
@@ -830,9 +830,9 @@ _Last updated: 2026-08-07 23:50 UTC_
 | 193 | Mercedes Russell | 69 |
 | 193 | Rhonda Mapp | 69 |
 | 193 | Satou Sabally | 69 |
+| 196 | **Kennedy Burke** 🔴 +1 | 67 |
 | 196 | Shannon Johnson | 67 |
 | 196 | Veronica Burton | 67 |
-| 198 | **Kennedy Burke** 🔴 | 66 |
 | 199 | Crystal Robinson | 65 |
 | 199 | Gabby Williams | 65 |
 | 199 | Queen Egbo | 65 |
