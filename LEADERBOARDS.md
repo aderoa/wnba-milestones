@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-07 01:48 UTC_
+_Last updated: 2026-08-07 01:49 UTC_
 
 ## Contents
 
@@ -69,7 +69,7 @@ _Last updated: 2026-08-07 01:48 UTC_
 | 48 | Courtney Vandersloot | 4,362 |
 | 49 | **Courtney Williams** 🔴 +8 | 4,358 |
 | 50 | Jonquel Jones | 4,353 |
-| 51 | **Dearica Hamby** 🔴 +8 | 4,338 |
+| 51 | **Dearica Hamby** 🔴 +9 | 4,339 |
 | 52 | Sophia Young-Malcolm | 4,300 |
 | 53 | Plenette Pierson | 4,258 |
 | 54 | Monique Currie | 4,253 |
@@ -87,7 +87,7 @@ _Last updated: 2026-08-07 01:48 UTC_
 | 66 | Kara Lawson | 3,670 |
 | 67 | Mwadi Mabika | 3,576 |
 | 68 | Odyssey Sims | 3,574 |
-| 69 | **Napheesa Collier** 🔴 +11 | 3,553 |
+| 69 | **Napheesa Collier** 🔴 +13 | 3,555 |
 | 70 | Camille Smith | 3,551 |
 | 71 | Shannon Johnson | 3,542 |
 | 72 | Renee Montgomery | 3,533 |
@@ -473,7 +473,7 @@ _Last updated: 2026-08-07 01:48 UTC_
 | 41 | Dominique Canty | 1,042 |
 | 42 | Sheryl Swoopes | 1,037 |
 | 43 | Tina Charles | 1,033 |
-| 44 | **Kayla McBride** 🔴 | 992 |
+| 44 | **Kayla McBride** 🔴 +1 | 993 |
 | 45 | Nikki Teasley | 982 |
 | 46 | Breanna Stewart | 981 |
 | 47 | Tamecka Dixon | 960 |
