@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-08-07 02:49 UTC
+
+- **Napheesa Collier** passed **Shameka Christon** for **#137** all-time in turnovers (career 425) — up from #139 entering today — _2:28 - 4th — LA @ MIN_
+
 ## 2026-08-06 03:09 UTC
 
 - **Courtney Vandersloot** passed **Jayne Appel Marinelli** for **#56** all-time in blocks (career 195) — up from #58 entering today — _3:54 - 4th — LA @ CHI_

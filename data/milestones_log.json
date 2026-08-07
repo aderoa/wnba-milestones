@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-08-07T02:49:00+00:00",
+    "text": "Napheesa Collier passed Shameka Christon for #137 all-time in turnovers (career 425) \u2014 up from #139 entering today \u2014 (2:28 - 4th \u2014 LA @ MIN)",
+    "kind": "rank_pass",
+    "player": "Napheesa Collier",
+    "stat": "turnovers",
+    "rank": 137,
+    "passed_players": [
+      "Shameka Christon"
+    ],
+    "new_total": 425
+  },
+  {
     "ts": "2026-08-06T03:09:00+00:00",
     "text": "Courtney Vandersloot passed Jayne Appel Marinelli for #56 all-time in blocks (career 195) \u2014 up from #58 entering today \u2014 (3:54 - 4th \u2014 LA @ CHI)",
     "kind": "rank_pass",
@@ -2982,18 +2994,5 @@
       "Courtney Vandersloot"
     ],
     "new_total": 4363
-  },
-  {
-    "ts": "2026-07-04T01:04:00+00:00",
-    "text": "Jonquel Jones passed Betty Lennox and Plenette Pierson for #92 all-time in assists (career 652) \u2014 up from #94 entering today \u2014 (7:41 - 4th \u2014 MIN @ NY)",
-    "kind": "rank_pass",
-    "player": "Jonquel Jones",
-    "stat": "assists",
-    "rank": 92,
-    "passed_players": [
-      "Betty Lennox",
-      "Plenette Pierson"
-    ],
-    "new_total": 652
   }
 ]
