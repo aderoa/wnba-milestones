@@ -793,7 +793,7 @@ _Last updated: 2026-08-07 01:18 UTC_
 | 155 | Marina Mabrey | 84 |
 | 155 | Shatori Walker-Kimbrough | 84 |
 | 158 | Tamera Young | 83 |
-| 159 | Cameron Brink | 82 |
+| 159 | **Cameron Brink** 🔴 | 82 |
 | 159 | Damiris Dantas | 82 |
 | 161 | Charlotte Smith | 81 |
 | 161 | Cintia dos Santos | 81 |
@@ -886,7 +886,7 @@ _Last updated: 2026-08-07 01:18 UTC_
 | 41 | Candice Dupree | 431 |
 | 42 | Epiphanny Prince | 429 |
 | 43 | Tanisha Wright | 427 |
-| 44 | **Dearica Hamby** 🔴 | 411 |
+| 44 | **Dearica Hamby** 🔴 +1 | 412 |
 | 45 | Katie Smith | 408 |
 | 46 | Cappie Pondexter | 405 |
 | 47 | Nicole Powell | 401 |
