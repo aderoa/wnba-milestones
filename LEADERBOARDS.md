@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-07 01:14 UTC_
+_Last updated: 2026-08-07 01:15 UTC_
 
 ## Contents
 
@@ -22,7 +22,7 @@ _Last updated: 2026-08-07 01:14 UTC_
 | 1 | Diana Taurasi | 10,608 |
 | 2 | Tina Charles | 8,396 |
 | 3 | DeWanna Bonner | 7,972 |
-| 4 | **Nneka Ogwumike** 🔴 | 7,563 |
+| 4 | **Nneka Ogwumike** 🔴 +2 | 7,565 |
 | 5 | Tina Thompson | 7,470 |
 | 6 | Tamika Catchings | 7,371 |
 | 7 | Candice Dupree | 6,861 |
@@ -41,7 +41,7 @@ _Last updated: 2026-08-07 01:14 UTC_
 | 20 | Becky Hammon | 5,816 |
 | 21 | Angel McCoughtry | 5,797 |
 | 22 | Skylar Diggins | 5,732 |
-| 23 | **Kayla McBride** 🔴 +2 | 5,652 |
+| 23 | **Kayla McBride** 🔴 +4 | 5,654 |
 | 24 | DeLisha Milton-Jones | 5,571 |
 | 25 | Katie Douglas | 5,545 |
 | 26 | Lindsay Whalen | 5,511 |
@@ -58,7 +58,7 @@ _Last updated: 2026-08-07 01:14 UTC_
 | 37 | Chamique Holdsclaw | 4,713 |
 | 38 | Elena Delle Donne | 4,706 |
 | 39 | **Natasha Howard** 🔴 +2 | 4,684 |
-| 40 | **Chelsea Gray** 🔴 +5 | 4,630 |
+| 40 | **Chelsea Gray** 🔴 +8 | 4,633 |
 | 41 | Penny Taylor | 4,595 |
 | 42 | Kelsey Plum | 4,494 |
 | 43 | Allisha Gray | 4,491 |
@@ -227,7 +227,7 @@ _Last updated: 2026-08-07 01:14 UTC_
 | 1 | Tina Charles | 4,262 |
 | 2 | Sylvia Fowles | 4,005 |
 | 3 | Candace Parker | 3,467 |
-| 4 | **Nneka Ogwumike** 🔴 | 3,406 |
+| 4 | **Nneka Ogwumike** 🔴 +1 | 3,407 |
 | 5 | Rebekkah Brunson | 3,345 |
 | 6 | Tamika Catchings | 3,313 |
 | 7 | Lisa Leslie | 3,303 |
@@ -374,7 +374,7 @@ _Last updated: 2026-08-07 01:14 UTC_
 | 148 | Nicky Anosike | 922 |
 | 149 | Janeth Arcain | 916 |
 | 150 | Karima Christmas-Kelly | 908 |
-| 151 | Nia Coffey | 903 |
+| 151 | **Nia Coffey** 🔴 | 903 |
 | 152 | Natalie Achonwa | 895 |
 | 153 | Temeka Johnson | 889 |
 | 154 | Mistie Bass | 888 |
@@ -461,8 +461,8 @@ _Last updated: 2026-08-07 01:14 UTC_
 | 29 | Vickie Johnson | 1,202 |
 | 30 | Leilani Mitchell | 1,197 |
 | 31 | DeWanna Bonner | 1,196 |
+| 32 | **Jackie Young** 🔴 +8 | 1,158 |
 | 32 | **Jewell Loyd** 🔴 +2 | 1,158 |
-| 33 | **Jackie Young** 🔴 +7 | 1,157 |
 | 34 | Renee Montgomery | 1,140 |
 | 35 | Swin Cash | 1,131 |
 | 36 | Sabrina Ionescu | 1,092 |
@@ -697,7 +697,7 @@ _Last updated: 2026-08-07 01:14 UTC_
 | 60 | Kelly Schumacher | 183 |
 | 61 | Maria Stepanova | 182 |
 | 62 | Courtney Paris | 178 |
-| 63 | Nia Coffey | 177 |
+| 63 | **Nia Coffey** 🔴 | 177 |
 | 63 | Vanessa Hayden | 177 |
 | 65 | Maya Moore | 176 |
 | 66 | Kia Vaughn | 175 |
@@ -1078,7 +1078,7 @@ _Last updated: 2026-08-07 01:14 UTC_
 | 28 | Allisha Gray | 458 |
 | 29 | **Ariel Atkins** 🔴 | 455 |
 | 30 | Tiffany Hayes | 454 |
-| 31 | **Chelsea Gray** 🔴 +1 | 451 |
+| 31 | **Chelsea Gray** 🔴 +2 | 452 |
 | 32 | Skylar Diggins | 447 |
 | 33 | Lauren Jackson | 436 |
 | 34 | Shameka Christon | 434 |
@@ -1161,7 +1161,7 @@ _Last updated: 2026-08-07 01:14 UTC_
 | 111 | **Caitlin Clark** 🔴 +2 | 197 |
 | 111 | Temeka Johnson | 197 |
 | 111 | Tina Charles | 197 |
-| 114 | Nia Coffey | 196 |
+| 114 | **Nia Coffey** 🔴 | 196 |
 | 115 | Lindsay Whalen | 193 |
 | 116 | Victoria Vivians | 192 |
 | 117 | Danielle Adams | 188 |
@@ -1315,8 +1315,8 @@ _Last updated: 2026-08-07 01:14 UTC_
 | 60 | Vickie Johnson | 660 |
 | 61 | Yolanda Griffith | 653 |
 | 62 | Sheri Sam | 650 |
-| 63 | **Kayla McBride** 🔴 | 648 |
-| 63 | Kelsey Plum | 648 |
+| 63 | **Kayla McBride** 🔴 +1 | 649 |
+| 64 | Kelsey Plum | 648 |
 | 65 | Dawn Staley | 643 |
 | 66 | Jonquel Jones | 641 |
 | 67 | Ruth Riley | 637 |
@@ -1453,7 +1453,7 @@ _Last updated: 2026-08-07 01:14 UTC_
 | 198 | Michele Timms | 297 |
 | 199 | **Aliyah Boston** 🔴 +4 | 289 |
 | 199 | Damiris Dantas | 289 |
-| 199 | Nia Coffey | 289 |
+| 199 | **Nia Coffey** 🔴 | 289 |
 
 ## Personal fouls
 
@@ -1604,9 +1604,9 @@ _Last updated: 2026-08-07 01:14 UTC_
 | 142 | Tierra Ruffin-Pratt | 550 |
 | 144 | **Monique Billings** 🔴 +2 | 548 |
 | 145 | Erlana Larkins | 546 |
-| 146 | Jayne Appel Marinelli | 543 |
-| 146 | **Kayla McBride** 🔴 | 543 |
-| 146 | Renee Montgomery | 543 |
+| 146 | **Kayla McBride** 🔴 +1 | 544 |
+| 147 | Jayne Appel Marinelli | 543 |
+| 147 | Renee Montgomery | 543 |
 | 149 | Marissa Coleman | 541 |
 | 150 | **Sophie Cunningham** 🔴 | 538 |
 | 151 | Myisha Hines-Allen | 535 |
@@ -1637,7 +1637,7 @@ _Last updated: 2026-08-07 01:14 UTC_
 | 175 | Essence Carson | 497 |
 | 175 | Rachel Banham | 497 |
 | 178 | Azurá Stevens | 495 |
-| 178 | Nia Coffey | 495 |
+| 178 | **Nia Coffey** 🔴 | 495 |
 | 180 | Karima Christmas-Kelly | 494 |
 | 181 | Ann Wauters | 493 |
 | 181 | Riquna Williams | 493 |
