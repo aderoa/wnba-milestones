@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-07 00:40 UTC_
+_Last updated: 2026-08-07 00:41 UTC_
 
 ## Contents
 
@@ -33,7 +33,7 @@ _Last updated: 2026-08-07 00:40 UTC_
 | 12 | Sylvia Fowles | 6,413 |
 | 13 | Breanna Stewart | 6,335 |
 | 14 | Lisa Leslie | 6,251 |
-| 15 | **A'ja Wilson** 🔴 +8 | 6,186 |
+| 15 | **A'ja Wilson** 🔴 +10 | 6,188 |
 | 16 | **Jewell Loyd** 🔴 +9 | 6,157 |
 | 17 | Brittney Griner | 6,087 |
 | 18 | Lauren Jackson | 6,005 |
@@ -175,7 +175,7 @@ _Last updated: 2026-08-07 00:40 UTC_
 | 154 | Tari Phillips | 2,134 |
 | 155 | Cheryl Ford | 2,116 |
 | 156 | Elena Baranova | 2,110 |
-| 157 | **Aliyah Boston** 🔴 +15 | 2,102 |
+| 157 | **Aliyah Boston** 🔴 +17 | 2,104 |
 | 158 | Aerial Powers | 2,068 |
 | 159 | Coco Miller | 2,030 |
 | 160 | Diamond DeShields | 2,026 |
@@ -197,7 +197,7 @@ _Last updated: 2026-08-07 00:40 UTC_
 | 176 | Ebony Hoffman | 1,909 |
 | 177 | Candice Wiggins | 1,901 |
 | 178 | Gabby Williams | 1,899 |
-| 179 | **NaLyssa Smith** 🔴 +12 | 1,891 |
+| 179 | **NaLyssa Smith** 🔴 +14 | 1,893 |
 | 180 | Rachel Banham | 1,843 |
 | 181 | Damiris Dantas | 1,842 |
 | 182 | **Sophie Cunningham** 🔴 +2 | 1,831 |
@@ -323,7 +323,7 @@ _Last updated: 2026-08-07 00:40 UTC_
 | 97 | Ezi Magbegor | 1,243 |
 | 98 | Seimone Augustus | 1,228 |
 | 99 | Jia Perkins | 1,220 |
-| 100 | **Aliyah Boston** 🔴 +8 | 1,206 |
+| 100 | **Aliyah Boston** 🔴 +9 | 1,207 |
 | 101 | Kahleah Copper | 1,204 |
 | 102 | DeMya Walker | 1,199 |
 | 103 | Latasha Byears | 1,190 |
@@ -435,7 +435,7 @@ _Last updated: 2026-08-07 00:40 UTC_
 | 3 | Ticha Penicheiro | 2,588 |
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
-| 6 | **Chelsea Gray** 🔴 +4 | 2,007 |
+| 6 | **Chelsea Gray** 🔴 +5 | 2,008 |
 | 7 | Alyssa Thomas | 1,971 |
 | 8 | Skylar Diggins | 1,852 |
 | 9 | Natasha Cloud | 1,802 |
@@ -496,7 +496,7 @@ _Last updated: 2026-08-07 00:40 UTC_
 | 64 | Lisa Leslie | 873 |
 | 65 | Brittney Sykes | 866 |
 | 66 | Tully Bevilaqua | 853 |
-| 67 | **Kelsey Mitchell** 🔴 +2 | 849 |
+| 67 | **Kelsey Mitchell** 🔴 +3 | 850 |
 | 68 | Jia Perkins | 837 |
 | 69 | Andrea Stinson | 810 |
 | 70 | Tina Thompson | 803 |
@@ -873,8 +873,8 @@ _Last updated: 2026-08-07 00:40 UTC_
 | 28 | Natasha Howard | 467 |
 | 29 | Skylar Diggins | 463 |
 | 29 | Teresa Weatherspoon | 463 |
-| 31 | **Chelsea Gray** 🔴 +3 | 460 |
-| 31 | **Jewell Loyd** 🔴 +2 | 460 |
+| 31 | **Chelsea Gray** 🔴 +4 | 461 |
+| 32 | **Jewell Loyd** 🔴 +2 | 460 |
 | 33 | Rebekkah Brunson | 456 |
 | 34 | Tangela Smith | 455 |
 | 35 | Tina Thompson | 452 |
@@ -1451,6 +1451,7 @@ _Last updated: 2026-08-07 00:40 UTC_
 | 196 | Crystal Robinson | 299 |
 | 197 | Kayla Thornton | 298 |
 | 198 | Michele Timms | 297 |
+| 199 | **Aliyah Boston** 🔴 +4 | 289 |
 | 199 | Damiris Dantas | 289 |
 | 199 | Nia Coffey | 289 |
 
@@ -1656,5 +1657,5 @@ _Last updated: 2026-08-07 00:40 UTC_
 | 195 | Nikki Teasley | 463 |
 | 197 | Sue Wicks | 462 |
 | 198 | Natalie Achonwa | 459 |
-| 199 | **Aliyah Boston** 🔴 +3 | 457 |
-| 199 | Kara Lawson | 457 |
+| 199 | **Aliyah Boston** 🔴 +4 | 458 |
+| 200 | Kara Lawson | 457 |
