@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-07 02:02 UTC_
+_Last updated: 2026-08-07 02:03 UTC_
 
 ## Contents
 
@@ -104,7 +104,7 @@ _Last updated: 2026-08-07 02:02 UTC_
 | 83 | Sheri Sam | 3,353 |
 | 84 | Andrea Stinson | 3,351 |
 | 85 | Tanisha Wright | 3,324 |
-| 86 | Marina Mabrey | 3,249 |
+| 86 | **Marina Mabrey** 🔴 | 3,249 |
 | 87 | Stefanie Dolson | 3,217 |
 | 88 | Margo Dydek | 3,214 |
 | 89 | **Erica Wheeler** 🔴 +3 | 3,198 |
@@ -380,7 +380,7 @@ _Last updated: 2026-08-07 02:02 UTC_
 | 154 | Mistie Bass | 888 |
 | 155 | **Erica Wheeler** 🔴 | 882 |
 | 156 | Alanna Smith | 878 |
-| 157 | Marina Mabrey | 874 |
+| 157 | **Marina Mabrey** 🔴 | 874 |
 | 158 | Shameka Christon | 867 |
 | 159 | Krystal Thomas | 862 |
 | 160 | Naz Hillmon | 859 |
@@ -500,7 +500,7 @@ _Last updated: 2026-08-07 02:02 UTC_
 | 68 | Jia Perkins | 837 |
 | 69 | Andrea Stinson | 810 |
 | 70 | Tina Thompson | 803 |
-| 71 | Marina Mabrey | 801 |
+| 71 | **Marina Mabrey** 🔴 | 801 |
 | 72 | Epiphanny Prince | 800 |
 | 73 | Mwadi Mabika | 774 |
 | 74 | Allisha Gray | 767 |
@@ -580,7 +580,7 @@ _Last updated: 2026-08-07 02:02 UTC_
 | 148 | Ruth Riley | 449 |
 | 149 | DeMya Walker | 446 |
 | 150 | Essence Carson | 445 |
-| 151 | Julie Allemand | 444 |
+| 151 | **Julie Allemand** 🔴 | 444 |
 | 152 | Michelle Snow | 437 |
 | 153 | Jessica Shepard | 436 |
 | 154 | Lauren Jackson | 435 |
@@ -606,7 +606,7 @@ _Last updated: 2026-08-07 02:02 UTC_
 | 174 | Shameka Christon | 389 |
 | 174 | Tamicha Jackson | 389 |
 | 176 | Riquna Williams | 387 |
-| 177 | Bridget Carleton | 384 |
+| 177 | **Bridget Carleton** 🔴 | 384 |
 | 178 | Dana Evans | 381 |
 | 179 | Jessica Breland | 377 |
 | 180 | Shenise Johnson | 376 |
@@ -729,7 +729,7 @@ _Last updated: 2026-08-07 02:02 UTC_
 | 91 | Nakia Sanford | 131 |
 | 93 | Brooke Wyckoff | 129 |
 | 93 | Cathrine Kraayeveld | 129 |
-| 95 | Emily Engstler | 128 |
+| 95 | **Emily Engstler** 🔴 | 128 |
 | 96 | Alyssa Thomas | 127 |
 | 96 | Chelsea Gray | 127 |
 | 96 | Chiney Ogwumike | 127 |
@@ -790,7 +790,7 @@ _Last updated: 2026-08-07 02:02 UTC_
 | 151 | Kalani Brown | 85 |
 | 151 | Kristin Folkl | 85 |
 | 155 | Charde Houston | 84 |
-| 155 | Marina Mabrey | 84 |
+| 155 | **Marina Mabrey** 🔴 | 84 |
 | 155 | Shatori Walker-Kimbrough | 84 |
 | 158 | Tamera Young | 83 |
 | 159 | **Cameron Brink** 🔴 | 82 |
@@ -987,7 +987,7 @@ _Last updated: 2026-08-07 02:02 UTC_
 | 142 | Wendy Palmer | 226 |
 | 143 | Alexis Hornbuckle | 225 |
 | 144 | Cheryl Ford | 224 |
-| 145 | Marina Mabrey | 221 |
+| 145 | **Marina Mabrey** 🔴 | 221 |
 | 145 | Rushia Brown | 221 |
 | 147 | DeMya Walker | 220 |
 | 147 | Jennifer Gillom | 220 |
@@ -1041,7 +1041,7 @@ _Last updated: 2026-08-07 02:02 UTC_
 | 196 | Elena Delle Donne | 174 |
 | 196 | Ezi Magbegor | 174 |
 | 196 | Margo Dydek | 174 |
-| 199 | Bridget Carleton | 173 |
+| 199 | **Bridget Carleton** 🔴 | 173 |
 | 199 | Kamila Vodichkova | 173 |
 
 ## Three-pointers
@@ -1070,7 +1070,7 @@ _Last updated: 2026-08-07 02:02 UTC_
 | 20 | Sami Whitcomb | 511 |
 | 21 | Allie Quigley | 510 |
 | 22 | Leilani Mitchell | 508 |
-| 23 | Marina Mabrey | 500 |
+| 23 | **Marina Mabrey** 🔴 | 500 |
 | 24 | Sabrina Ionescu | 468 |
 | 24 | Shekinna Stricklen | 468 |
 | 26 | Breanna Stewart | 465 |
@@ -1118,7 +1118,7 @@ _Last updated: 2026-08-07 02:02 UTC_
 | 67 | Ruthie Bolton | 312 |
 | 69 | Tan White | 311 |
 | 70 | Kedra Holland-Corn | 307 |
-| 71 | Bridget Carleton | 306 |
+| 71 | **Bridget Carleton** 🔴 | 306 |
 | 72 | Kelly Miller | 305 |
 | 73 | Nikki Teasley | 304 |
 | 74 | Kayla Thornton | 300 |
@@ -1344,7 +1344,7 @@ _Last updated: 2026-08-07 02:02 UTC_
 | 89 | Lauren Jackson | 549 |
 | 90 | Matee Ajavon | 544 |
 | 91 | Adrienne Goodson | 542 |
-| 92 | Marina Mabrey | 537 |
+| 92 | **Marina Mabrey** 🔴 | 537 |
 | 93 | Layshia Clarendon | 536 |
 | 94 | Ivory Latta | 534 |
 | 94 | Iziane Castro Marques | 534 |
@@ -1593,7 +1593,7 @@ _Last updated: 2026-08-07 02:02 UTC_
 | 132 | Ezi Magbegor | 576 |
 | 133 | Le'coe Willingham | 571 |
 | 134 | Ashley Robinson | 567 |
-| 135 | Marina Mabrey | 566 |
+| 135 | **Marina Mabrey** 🔴 | 566 |
 | 136 | Ivory Latta | 565 |
 | 137 | Barbara Farris | 563 |
 | 138 | Jessica Breland | 562 |
