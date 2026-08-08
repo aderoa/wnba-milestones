@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-08 19:38 UTC_
+_Last updated: 2026-08-08 19:39 UTC_
 
 ## Contents
 
@@ -66,7 +66,7 @@ _Last updated: 2026-08-08 19:38 UTC_
 | 45 | Kahleah Copper | 4,437 |
 | 46 | Crystal Langhorne | 4,433 |
 | 46 | Jia Perkins | 4,433 |
-| 48 | **Courtney Vandersloot** 🔴 +2 | 4,364 |
+| 48 | **Courtney Vandersloot** 🔴 +3 | 4,365 |
 | 49 | Courtney Williams | 4,363 |
 | 50 | Jonquel Jones | 4,353 |
 | 51 | Dearica Hamby | 4,330 |
@@ -1160,8 +1160,8 @@ _Last updated: 2026-08-08 19:38 UTC_
 | 110 | Shanna Zolman | 199 |
 | 111 | Temeka Johnson | 197 |
 | 111 | Tina Charles | 197 |
+| 113 | **Caitlin Clark** 🔴 +1 | 196 |
 | 113 | Nia Coffey | 196 |
-| 114 | **Caitlin Clark** 🔴 | 195 |
 | 115 | Lindsay Whalen | 193 |
 | 115 | Napheesa Collier | 193 |
 | 117 | Victoria Vivians | 192 |
@@ -1260,7 +1260,7 @@ _Last updated: 2026-08-08 19:38 UTC_
 | 4 | Tina Thompson | 1,213 |
 | 5 | Lisa Leslie | 1,186 |
 | 6 | DeLisha Milton-Jones | 1,173 |
-| 7 | **Courtney Vandersloot** 🔴 | 1,147 |
+| 7 | **Courtney Vandersloot** 🔴 +1 | 1,148 |
 | 8 | Swin Cash | 1,127 |
 | 9 | Ticha Penicheiro | 1,125 |
 | 10 | Candace Parker | 1,062 |
