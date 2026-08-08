@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-08 18:33 UTC_
+_Last updated: 2026-08-08 18:34 UTC_
 
 ## Contents
 
@@ -461,7 +461,7 @@ _Last updated: 2026-08-08 18:33 UTC_
 | 29 | Vickie Johnson | 1,202 |
 | 30 | Leilani Mitchell | 1,197 |
 | 31 | DeWanna Bonner | 1,196 |
-| 32 | **Jewell Loyd** 🔴 +1 | 1,157 |
+| 32 | **Jewell Loyd** 🔴 +2 | 1,158 |
 | 33 | **Jackie Young** 🔴 | 1,150 |
 | 34 | Renee Montgomery | 1,140 |
 | 35 | Swin Cash | 1,131 |
@@ -1180,10 +1180,10 @@ _Last updated: 2026-08-08 18:33 UTC_
 | 130 | Shavonte Zellous | 167 |
 | 130 | Tianna Hawkins | 167 |
 | 132 | Charlotte Smith | 164 |
+| 133 | **Dana Evans** 🔴 +2 | 162 |
 | 133 | Tyasha Harris | 162 |
 | 133 | Ukari Figgs | 162 |
-| 135 | **Dana Evans** 🔴 +1 | 161 |
-| 135 | Edna Campbell | 161 |
+| 136 | Edna Campbell | 161 |
 | 137 | Jennifer Lacy | 160 |
 | 137 | **Stephanie Talbot** 🔴 | 160 |
 | 139 | **Natasha Howard** 🔴 +1 | 159 |
@@ -1585,8 +1585,8 @@ _Last updated: 2026-08-08 18:33 UTC_
 | 124 | Janel McCarville | 597 |
 | 125 | Kamila Vodichkova | 596 |
 | 126 | Teresa Weatherspoon | 589 |
-| 127 | **Courtney Williams** 🔴 +2 | 585 |
-| 127 | Emma Meesseman | 585 |
+| 127 | **Courtney Williams** 🔴 +3 | 586 |
+| 128 | Emma Meesseman | 585 |
 | 129 | Chiney Ogwumike | 580 |
 | 129 | Hamchetou Maiga-Ba | 580 |
 | 129 | Olympia Scott | 580 |
