@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-08 20:04 UTC_
+_Last updated: 2026-08-08 20:05 UTC_
 
 ## Contents
 
@@ -313,7 +313,7 @@ _Last updated: 2026-08-08 20:04 UTC_
 | 87 | **Azurá Stevens** 🔴 +1 | 1,320 |
 | 88 | Betty Lennox | 1,296 |
 | 89 | Tari Phillips | 1,274 |
-| 90 | **Myisha Hines-Allen** 🔴 | 1,265 |
+| 90 | **Myisha Hines-Allen** 🔴 +1 | 1,266 |
 | 91 | Janel McCarville | 1,261 |
 | 92 | Kayla McBride | 1,260 |
 | 93 | Chelsea Gray | 1,259 |
@@ -1637,7 +1637,7 @@ _Last updated: 2026-08-08 20:04 UTC_
 | 176 | Adrian Williams-Strong | 497 |
 | 176 | Essence Carson | 497 |
 | 176 | **Rachel Banham** 🔴 | 497 |
-| 179 | **Azurá Stevens** 🔴 | 495 |
+| 179 | **Azurá Stevens** 🔴 +1 | 496 |
 | 180 | Karima Christmas-Kelly | 494 |
 | 181 | Ann Wauters | 493 |
 | 181 | Riquna Williams | 493 |
