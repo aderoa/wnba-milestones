@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-08 19:49 UTC_
+_Last updated: 2026-08-08 19:50 UTC_
 
 ## Contents
 
@@ -1333,8 +1333,8 @@ _Last updated: 2026-08-08 19:49 UTC_
 | 77 | Kelly Miller | 596 |
 | 78 | Stefanie Dolson | 594 |
 | 79 | Brittney Sykes | 591 |
-| 80 | Breanna Stewart | 586 |
-| 80 | **Kelsey Mitchell** 🔴 +1 | 586 |
+| 80 | **Kelsey Mitchell** 🔴 +2 | 587 |
+| 81 | Breanna Stewart | 586 |
 | 82 | Helen Darling | 575 |
 | 82 | Nykesha Sales | 575 |
 | 84 | Andrea Stinson | 571 |
@@ -1405,7 +1405,7 @@ _Last updated: 2026-08-08 19:49 UTC_
 | 149 | Glory Johnson | 397 |
 | 150 | Marissa Coleman | 396 |
 | 151 | Myisha Hines-Allen | 390 |
-| 152 | **Elizabeth Williams** 🔴 | 388 |
+| 152 | **Elizabeth Williams** 🔴 +1 | 389 |
 | 153 | Sophia Witherspoon | 386 |
 | 154 | Hamchetou Maiga-Ba | 385 |
 | 155 | Kamila Vodichkova | 381 |
