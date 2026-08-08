@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-08 00:50 UTC_
+_Last updated: 2026-08-08 00:51 UTC_
 
 ## Contents
 
@@ -35,7 +35,7 @@ _Last updated: 2026-08-08 00:50 UTC_
 | 14 | Lisa Leslie | 6,251 |
 | 15 | A'ja Wilson | 6,178 |
 | 16 | Jewell Loyd | 6,148 |
-| 17 | **Brittney Griner** 🔴 | 6,087 |
+| 17 | **Brittney Griner** 🔴 +2 | 6,089 |
 | 18 | Lauren Jackson | 6,005 |
 | 18 | Seimone Augustus | 6,005 |
 | 20 | Becky Hammon | 5,816 |
@@ -60,7 +60,7 @@ _Last updated: 2026-08-08 00:50 UTC_
 | 39 | Natasha Howard | 4,682 |
 | 40 | Chelsea Gray | 4,625 |
 | 41 | Penny Taylor | 4,595 |
-| 42 | **Allisha Gray** 🔴 +18 | 4,509 |
+| 42 | **Allisha Gray** 🔴 +20 | 4,511 |
 | 43 | **Kelsey Plum** 🔴 +14 | 4,508 |
 | 44 | Kristi Toliver | 4,474 |
 | 45 | **Kahleah Copper** 🔴 +9 | 4,446 |
@@ -455,7 +455,7 @@ _Last updated: 2026-08-08 00:50 UTC_
 | 23 | Teresa Weatherspoon | 1,333 |
 | 24 | Kristi Toliver | 1,301 |
 | 25 | **Kelsey Plum** 🔴 +3 | 1,273 |
-| 26 | **Jordin Canada** 🔴 +3 | 1,265 |
+| 26 | **Jordin Canada** 🔴 +4 | 1,266 |
 | 27 | Katie Smith | 1,258 |
 | 28 | Odyssey Sims | 1,228 |
 | 29 | Vickie Johnson | 1,202 |
@@ -731,12 +731,12 @@ _Last updated: 2026-08-08 00:50 UTC_
 | 93 | Cathrine Kraayeveld | 129 |
 | 95 | Emily Engstler | 128 |
 | 96 | **Alyssa Thomas** 🔴 | 127 |
+| 96 | **Brionna Jones** 🔴 +2 | 127 |
 | 96 | Chelsea Gray | 127 |
 | 96 | Chiney Ogwumike | 127 |
 | 96 | Kristen Rasmussen | 127 |
-| 100 | **Brionna Jones** 🔴 +1 | 126 |
-| 100 | Katie Douglas | 126 |
-| 100 | Mistie Bass | 126 |
+| 101 | Katie Douglas | 126 |
+| 101 | Mistie Bass | 126 |
 | 103 | Kamilla Cardoso | 124 |
 | 104 | **Natasha Mack** 🔴 | 123 |
 | 104 | **Shakira Austin** 🔴 +4 | 123 |
