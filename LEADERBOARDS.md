@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-08 00:19 UTC_
+_Last updated: 2026-08-08 00:20 UTC_
 
 ## Contents
 
@@ -63,7 +63,7 @@ _Last updated: 2026-08-08 00:19 UTC_
 | 42 | **Kelsey Plum** 🔴 +12 | 4,506 |
 | 43 | **Allisha Gray** 🔴 +13 | 4,504 |
 | 44 | Kristi Toliver | 4,474 |
-| 45 | **Kahleah Copper** 🔴 +5 | 4,442 |
+| 45 | **Kahleah Copper** 🔴 +7 | 4,444 |
 | 46 | Crystal Langhorne | 4,433 |
 | 46 | Jia Perkins | 4,433 |
 | 48 | Courtney Vandersloot | 4,362 |
@@ -459,8 +459,8 @@ _Last updated: 2026-08-08 00:19 UTC_
 | 27 | Katie Smith | 1,258 |
 | 28 | Odyssey Sims | 1,228 |
 | 29 | Vickie Johnson | 1,202 |
-| 30 | **DeWanna Bonner** 🔴 +1 | 1,197 |
-| 30 | Leilani Mitchell | 1,197 |
+| 30 | **DeWanna Bonner** 🔴 +2 | 1,198 |
+| 31 | Leilani Mitchell | 1,197 |
 | 32 | Jewell Loyd | 1,156 |
 | 33 | Jackie Young | 1,150 |
 | 34 | Renee Montgomery | 1,140 |
@@ -1351,8 +1351,8 @@ _Last updated: 2026-08-08 00:19 UTC_
 | 94 | Iziane Castro Marques | 534 |
 | 96 | Sabrina Ionescu | 533 |
 | 97 | Mwadi Mabika | 532 |
+| 98 | **Jordin Canada** 🔴 +4 | 531 |
 | 98 | Nakia Sanford | 531 |
-| 99 | **Jordin Canada** 🔴 +3 | 530 |
 | 100 | Arike Ogunbowale | 529 |
 | 101 | Maya Moore | 527 |
 | 102 | Kara Lawson | 526 |
@@ -1544,7 +1544,7 @@ _Last updated: 2026-08-08 00:19 UTC_
 | 83 | Brittney Sykes | 701 |
 | 83 | Matee Ajavon | 701 |
 | 83 | Nicole Powell | 701 |
-| 86 | **Kelsey Plum** 🔴 | 699 |
+| 86 | **Kelsey Plum** 🔴 +1 | 700 |
 | 87 | Tan White | 698 |
 | 88 | Katie Douglas | 697 |
 | 89 | Danielle Robinson | 692 |
