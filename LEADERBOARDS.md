@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-08 17:05 UTC_
+_Last updated: 2026-08-08 17:06 UTC_
 
 ## Contents
 
@@ -57,8 +57,8 @@ _Last updated: 2026-08-08 17:05 UTC_
 | 36 | Arike Ogunbowale | 4,715 |
 | 37 | Chamique Holdsclaw | 4,713 |
 | 38 | Elena Delle Donne | 4,706 |
-| 39 | **Natasha Howard** 🔴 | 4,682 |
-| 40 | **Chelsea Gray** 🔴 | 4,625 |
+| 39 | **Natasha Howard** 🔴 +2 | 4,684 |
+| 40 | **Chelsea Gray** 🔴 +3 | 4,628 |
 | 41 | Penny Taylor | 4,595 |
 | 42 | Kelsey Plum | 4,494 |
 | 43 | Allisha Gray | 4,491 |
@@ -83,7 +83,7 @@ _Last updated: 2026-08-08 17:05 UTC_
 | 62 | Allie Quigley | 3,786 |
 | 63 | Chasity Melvin | 3,781 |
 | 64 | Brittney Sykes | 3,726 |
-| 65 | **Jackie Young** 🔴 | 3,698 |
+| 65 | **Jackie Young** 🔴 +3 | 3,701 |
 | 66 | Kara Lawson | 3,670 |
 | 67 | Mwadi Mabika | 3,576 |
 | 68 | Odyssey Sims | 3,574 |
@@ -541,7 +541,7 @@ _Last updated: 2026-08-08 17:05 UTC_
 | 109 | Veronica Burton | 579 |
 | 110 | Tan White | 578 |
 | 111 | Matee Ajavon | 577 |
-| 112 | **Napheesa Collier** 🔴 | 570 |
+| 112 | **Napheesa Collier** 🔴 +1 | 571 |
 | 113 | Nicole Powell | 567 |
 | 114 | Loree Moore | 562 |
 | 115 | Sophia Young-Malcolm | 554 |
@@ -1078,7 +1078,7 @@ _Last updated: 2026-08-08 17:05 UTC_
 | 28 | Allisha Gray | 458 |
 | 29 | Ariel Atkins | 455 |
 | 30 | Tiffany Hayes | 454 |
-| 31 | **Chelsea Gray** 🔴 | 450 |
+| 31 | **Chelsea Gray** 🔴 +1 | 451 |
 | 32 | Skylar Diggins | 447 |
 | 33 | Lauren Jackson | 436 |
 | 34 | Shameka Christon | 434 |
@@ -1101,7 +1101,7 @@ _Last updated: 2026-08-08 17:05 UTC_
 | 51 | Epiphanny Prince | 368 |
 | 51 | Kia Nurse | 368 |
 | 53 | Nykesha Sales | 352 |
-| 54 | **Jackie Young** 🔴 | 346 |
+| 54 | **Jackie Young** 🔴 +1 | 347 |
 | 55 | Natasha Cloud | 345 |
 | 56 | Cathrine Kraayeveld | 343 |
 | 56 | Elena Delle Donne | 343 |
