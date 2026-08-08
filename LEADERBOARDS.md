@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-08 00:45 UTC_
+_Last updated: 2026-08-08 00:46 UTC_
 
 ## Contents
 
@@ -21,7 +21,7 @@ _Last updated: 2026-08-08 00:45 UTC_
 |-----:|--------|------:|
 | 1 | Diana Taurasi | 10,608 |
 | 2 | Tina Charles | 8,396 |
-| 3 | **DeWanna Bonner** 🔴 +4 | 7,976 |
+| 3 | **DeWanna Bonner** 🔴 +6 | 7,978 |
 | 4 | Nneka Ogwumike | 7,563 |
 | 5 | Tina Thompson | 7,470 |
 | 6 | Tamika Catchings | 7,371 |
@@ -52,7 +52,7 @@ _Last updated: 2026-08-08 00:45 UTC_
 | 31 | Taj McWilliams-Franklin | 4,992 |
 | 32 | Maya Moore | 4,984 |
 | 33 | Sheryl Swoopes | 4,875 |
-| 34 | **Alyssa Thomas** 🔴 +7 | 4,759 |
+| 34 | **Alyssa Thomas** 🔴 +9 | 4,761 |
 | 35 | Alana Beard | 4,740 |
 | 36 | Arike Ogunbowale | 4,715 |
 | 37 | Chamique Holdsclaw | 4,713 |
@@ -231,7 +231,7 @@ _Last updated: 2026-08-08 00:45 UTC_
 | 5 | Rebekkah Brunson | 3,345 |
 | 6 | Tamika Catchings | 3,313 |
 | 7 | Lisa Leslie | 3,303 |
-| 8 | **DeWanna Bonner** 🔴 +5 | 3,295 |
+| 8 | **DeWanna Bonner** 🔴 +6 | 3,296 |
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
@@ -454,7 +454,7 @@ _Last updated: 2026-08-08 00:45 UTC_
 | 22 | Erica Wheeler | 1,335 |
 | 23 | Teresa Weatherspoon | 1,333 |
 | 24 | Kristi Toliver | 1,301 |
-| 25 | **Kelsey Plum** 🔴 +1 | 1,271 |
+| 25 | **Kelsey Plum** 🔴 +3 | 1,273 |
 | 26 | **Jordin Canada** 🔴 +3 | 1,265 |
 | 27 | Katie Smith | 1,258 |
 | 28 | Odyssey Sims | 1,228 |
@@ -991,8 +991,8 @@ _Last updated: 2026-08-08 00:45 UTC_
 | 145 | Rushia Brown | 221 |
 | 147 | DeMya Walker | 220 |
 | 147 | Jennifer Gillom | 220 |
-| 149 | Allison Feaster | 219 |
-| 149 | **Kahleah Copper** 🔴 | 219 |
+| 147 | **Kahleah Copper** 🔴 +1 | 220 |
+| 150 | Allison Feaster | 219 |
 | 151 | Cheyenne Parker-Tyus | 217 |
 | 151 | Shenise Johnson | 217 |
 | 153 | Adrian Williams-Strong | 216 |
@@ -1292,7 +1292,7 @@ _Last updated: 2026-08-08 00:45 UTC_
 | 36 | Plenette Pierson | 773 |
 | 37 | Briann January | 771 |
 | 38 | Margo Dydek | 758 |
-| 39 | **Brittney Griner** 🔴 +2 | 753 |
+| 39 | **Brittney Griner** 🔴 +3 | 754 |
 | 40 | Tangela Smith | 751 |
 | 41 | Kristi Toliver | 748 |
 | 42 | Monique Currie | 724 |
