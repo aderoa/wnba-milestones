@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-08 01:59 UTC_
+_Last updated: 2026-08-08 02:00 UTC_
 
 ## Contents
 
@@ -457,7 +457,7 @@ _Last updated: 2026-08-08 01:59 UTC_
 | 25 | Kelsey Plum | 1,273 |
 | 26 | Jordin Canada | 1,269 |
 | 27 | Katie Smith | 1,258 |
-| 28 | **Odyssey Sims** 🔴 +1 | 1,229 |
+| 28 | **Odyssey Sims** 🔴 +2 | 1,230 |
 | 29 | Vickie Johnson | 1,202 |
 | 30 | DeWanna Bonner | 1,198 |
 | 31 | Leilani Mitchell | 1,197 |
@@ -1189,7 +1189,7 @@ _Last updated: 2026-08-08 01:59 UTC_
 | 139 | Aari McDonald | 158 |
 | 139 | Jennifer Azzi | 158 |
 | 139 | Natasha Howard | 158 |
-| 142 | **Alanna Smith** 🔴 | 156 |
+| 142 | **Alanna Smith** 🔴 +1 | 157 |
 | 143 | Bridget Pettis | 153 |
 | 143 | **Gabby Williams** 🔴 | 153 |
 | 143 | Jennifer Gillom | 153 |
@@ -1482,7 +1482,7 @@ _Last updated: 2026-08-08 01:59 UTC_
 | 21 | Michelle Snow | 1,108 |
 | 22 | Sylvia Fowles | 1,049 |
 | 23 | Tina Charles | 1,037 |
-| 24 | **Tiffany Hayes** 🔴 +1 | 1,022 |
+| 24 | **Tiffany Hayes** 🔴 +2 | 1,023 |
 | 25 | Lindsay Whalen | 998 |
 | 26 | Brittney Griner | 996 |
 | 26 | Rebekkah Brunson | 996 |
