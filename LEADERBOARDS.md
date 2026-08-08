@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-08 17:30 UTC_
+_Last updated: 2026-08-08 17:31 UTC_
 
 ## Contents
 
@@ -34,7 +34,7 @@ _Last updated: 2026-08-08 17:30 UTC_
 | 13 | Breanna Stewart | 6,335 |
 | 14 | Lisa Leslie | 6,251 |
 | 15 | **A'ja Wilson** 🔴 +2 | 6,180 |
-| 16 | **Jewell Loyd** 🔴 +5 | 6,153 |
+| 16 | **Jewell Loyd** 🔴 +8 | 6,156 |
 | 17 | Brittney Griner | 6,087 |
 | 18 | Lauren Jackson | 6,005 |
 | 18 | Seimone Augustus | 6,005 |
@@ -67,7 +67,7 @@ _Last updated: 2026-08-08 17:30 UTC_
 | 46 | Crystal Langhorne | 4,433 |
 | 46 | Jia Perkins | 4,433 |
 | 48 | Courtney Vandersloot | 4,362 |
-| 49 | **Courtney Williams** 🔴 +4 | 4,354 |
+| 49 | **Courtney Williams** 🔴 +6 | 4,356 |
 | 50 | Jonquel Jones | 4,353 |
 | 51 | Dearica Hamby | 4,330 |
 | 52 | Sophia Young-Malcolm | 4,300 |
@@ -88,8 +88,8 @@ _Last updated: 2026-08-08 17:30 UTC_
 | 67 | Mwadi Mabika | 3,576 |
 | 68 | Odyssey Sims | 3,574 |
 | 69 | Camille Smith | 3,551 |
-| 70 | **Napheesa Collier** 🔴 | 3,542 |
-| 70 | Shannon Johnson | 3,542 |
+| 70 | **Napheesa Collier** 🔴 +3 | 3,545 |
+| 71 | Shannon Johnson | 3,542 |
 | 72 | Renee Montgomery | 3,533 |
 | 73 | Jasmine Thomas | 3,522 |
 | 74 | Tamecka Dixon | 3,507 |
@@ -444,7 +444,7 @@ _Last updated: 2026-08-08 17:30 UTC_
 | 12 | Cappie Pondexter | 1,575 |
 | 13 | Tamika Catchings | 1,484 |
 | 14 | Danielle Robinson | 1,480 |
-| 15 | **Courtney Williams** 🔴 +1 | 1,439 |
+| 15 | **Courtney Williams** 🔴 +2 | 1,440 |
 | 16 | Shannon Johnson | 1,423 |
 | 16 | Tanisha Wright | 1,423 |
 | 18 | Temeka Johnson | 1,382 |
@@ -607,7 +607,7 @@ _Last updated: 2026-08-08 17:30 UTC_
 | 174 | Tamicha Jackson | 389 |
 | 176 | Riquna Williams | 387 |
 | 177 | Bridget Carleton | 384 |
-| 178 | **Dana Evans** 🔴 | 379 |
+| 178 | **Dana Evans** 🔴 +1 | 380 |
 | 179 | Jessica Breland | 377 |
 | 180 | Shenise Johnson | 376 |
 | 181 | Alanna Smith | 374 |
@@ -1056,7 +1056,7 @@ _Last updated: 2026-08-08 17:30 UTC_
 | 6 | Tina Thompson | 745 |
 | 7 | Katie Douglas | 723 |
 | 8 | Kelsey Mitchell | 712 |
-| 9 | **Jewell Loyd** 🔴 +1 | 696 |
+| 9 | **Jewell Loyd** 🔴 +2 | 697 |
 | 10 | DeWanna Bonner | 682 |
 | 11 | Kristi Toliver | 651 |
 | 12 | Kelsey Plum | 619 |
@@ -1164,8 +1164,8 @@ _Last updated: 2026-08-08 17:30 UTC_
 | 114 | Caitlin Clark | 195 |
 | 115 | Lindsay Whalen | 193 |
 | 116 | Victoria Vivians | 192 |
-| 117 | Danielle Adams | 188 |
-| 117 | **Napheesa Collier** 🔴 | 188 |
+| 117 | **Napheesa Collier** 🔴 +1 | 189 |
+| 118 | Danielle Adams | 188 |
 | 119 | Noelle Quinn | 184 |
 | 120 | Marine Johannès | 183 |
 | 121 | Karima Christmas-Kelly | 181 |
@@ -1273,7 +1273,7 @@ _Last updated: 2026-08-08 17:30 UTC_
 | 18 | Cappie Pondexter | 945 |
 | 19 | Katie Smith | 935 |
 | 20 | Shannon Johnson | 934 |
-| 21 | **Chelsea Gray** 🔴 | 927 |
+| 21 | **Chelsea Gray** 🔴 +1 | 928 |
 | 22 | Skylar Diggins | 907 |
 | 23 | Taj McWilliams-Franklin | 898 |
 | 24 | Candice Dupree | 869 |
