@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-08 18:15 UTC_
+_Last updated: 2026-08-08 18:16 UTC_
 
 ## Contents
 
@@ -1274,7 +1274,7 @@ _Last updated: 2026-08-08 18:15 UTC_
 | 18 | Cappie Pondexter | 945 |
 | 19 | Katie Smith | 935 |
 | 20 | Shannon Johnson | 934 |
-| 21 | **Chelsea Gray** 🔴 +1 | 928 |
+| 21 | **Chelsea Gray** 🔴 +2 | 929 |
 | 22 | Skylar Diggins | 907 |
 | 23 | Taj McWilliams-Franklin | 898 |
 | 24 | Candice Dupree | 869 |
@@ -1452,8 +1452,8 @@ _Last updated: 2026-08-08 18:15 UTC_
 | 196 | Crystal Robinson | 299 |
 | 197 | Kayla Thornton | 298 |
 | 198 | Michele Timms | 297 |
-| 199 | Damiris Dantas | 289 |
-| 199 | **Nia Coffey** 🔴 | 289 |
+| 199 | **Nia Coffey** 🔴 +1 | 290 |
+| 200 | Damiris Dantas | 289 |
 
 ## Personal fouls
 
@@ -1635,8 +1635,8 @@ _Last updated: 2026-08-08 18:15 UTC_
 | 174 | Elena Baranova | 501 |
 | 175 | Adrian Williams-Strong | 497 |
 | 175 | Essence Carson | 497 |
+| 175 | **Nia Coffey** 🔴 +2 | 497 |
 | 175 | Rachel Banham | 497 |
-| 178 | **Nia Coffey** 🔴 +1 | 496 |
 | 179 | Azurá Stevens | 495 |
 | 180 | Karima Christmas-Kelly | 494 |
 | 181 | Ann Wauters | 493 |
