@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-08 18:22 UTC_
+_Last updated: 2026-08-08 18:23 UTC_
 
 ## Contents
 
@@ -66,8 +66,8 @@ _Last updated: 2026-08-08 18:22 UTC_
 | 45 | Kahleah Copper | 4,437 |
 | 46 | Crystal Langhorne | 4,433 |
 | 46 | Jia Perkins | 4,433 |
-| 48 | Courtney Vandersloot | 4,362 |
-| 49 | **Courtney Williams** 🔴 +10 | 4,360 |
+| 48 | **Courtney Williams** 🔴 +13 | 4,363 |
+| 49 | Courtney Vandersloot | 4,362 |
 | 50 | Jonquel Jones | 4,353 |
 | 51 | Dearica Hamby | 4,330 |
 | 52 | Sophia Young-Malcolm | 4,300 |
@@ -374,7 +374,7 @@ _Last updated: 2026-08-08 18:22 UTC_
 | 148 | Nicky Anosike | 922 |
 | 149 | Janeth Arcain | 916 |
 | 150 | Karima Christmas-Kelly | 908 |
-| 151 | **Nia Coffey** 🔴 +1 | 904 |
+| 151 | **Nia Coffey** 🔴 +2 | 905 |
 | 152 | Natalie Achonwa | 895 |
 | 153 | Temeka Johnson | 889 |
 | 154 | Mistie Bass | 888 |
@@ -1128,8 +1128,8 @@ _Last updated: 2026-08-08 18:22 UTC_
 | 77 | Tully Bevilaqua | 290 |
 | 79 | Alana Beard | 288 |
 | 80 | Monique Currie | 284 |
+| 81 | **Courtney Williams** 🔴 +1 | 278 |
 | 81 | Stefanie Dolson | 278 |
-| 82 | **Courtney Williams** 🔴 | 277 |
 | 83 | Iziane Castro Marques | 275 |
 | 84 | Sheryl Swoopes | 270 |
 | 85 | Sophia Witherspoon | 260 |
@@ -1366,8 +1366,8 @@ _Last updated: 2026-08-08 18:22 UTC_
 | 110 | Tamera Young | 501 |
 | 111 | Nikki Teasley | 493 |
 | 111 | Tari Phillips | 493 |
+| 113 | **A'ja Wilson** 🔴 +3 | 491 |
 | 113 | Janel McCarville | 491 |
-| 114 | **A'ja Wilson** 🔴 +2 | 490 |
 | 115 | Erika de Souza | 483 |
 | 116 | Sophia Young-Malcolm | 482 |
 | 117 | Natalie Williams | 480 |
@@ -1597,7 +1597,7 @@ _Last updated: 2026-08-08 18:22 UTC_
 | 136 | Ivory Latta | 565 |
 | 137 | Barbara Farris | 563 |
 | 138 | Jessica Breland | 562 |
-| 139 | **A'ja Wilson** 🔴 +1 | 555 |
+| 139 | **A'ja Wilson** 🔴 +2 | 556 |
 | 140 | Dawn Staley | 551 |
 | 141 | Glory Johnson | 550 |
 | 141 | Tierra Ruffin-Pratt | 550 |
