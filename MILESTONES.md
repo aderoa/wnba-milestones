@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-08-08 21:08 UTC
+
+- **Rachel Banham** passed **Tianna Hawkins** for **#194** all-time in turnovers (career 304) — up from #195 entering today — _23.1 - 3rd — IND @ CHI_
+
 ## 2026-08-08 18:40 UTC
 
 - **Dana Evans** passed **Tyasha Harris** and **Ukari Figgs** for **#133** all-time in three-pointers (career 163) — up from #136 entering today — _7:49 - 4th — LV @ MIN_

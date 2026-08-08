@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-08-08T21:08:00+00:00",
+    "text": "Rachel Banham passed Tianna Hawkins for #194 all-time in turnovers (career 304) \u2014 up from #195 entering today \u2014 (23.1 - 3rd \u2014 IND @ CHI)",
+    "kind": "rank_pass",
+    "player": "Rachel Banham",
+    "stat": "turnovers",
+    "rank": 194,
+    "passed_players": [
+      "Tianna Hawkins"
+    ],
+    "new_total": 304
+  },
+  {
     "ts": "2026-08-08T18:40:00+00:00",
     "text": "Dana Evans passed Tyasha Harris and Ukari Figgs for #133 all-time in three-pointers (career 163) \u2014 up from #136 entering today \u2014 (7:49 - 4th \u2014 LV @ MIN)",
     "kind": "rank_pass",
@@ -2981,17 +2993,5 @@
       "Ariel Atkins"
     ],
     "new_total": 466
-  },
-  {
-    "ts": "2026-07-04T02:44:00+00:00",
-    "text": "Chelsea Gray passed Jewell Loyd for #31 all-time in steals (career 459) \u2014 up from #32 entering today \u2014 (5:27 - 2nd \u2014 CHI @ LV)",
-    "kind": "rank_pass",
-    "player": "Chelsea Gray",
-    "stat": "steals",
-    "rank": 31,
-    "passed_players": [
-      "Jewell Loyd"
-    ],
-    "new_total": 459
   }
 ]
