@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-08 00:56 UTC_
+_Last updated: 2026-08-08 00:57 UTC_
 
 ## Contents
 
@@ -731,12 +731,12 @@ _Last updated: 2026-08-08 00:56 UTC_
 | 93 | Cathrine Kraayeveld | 129 |
 | 95 | Emily Engstler | 128 |
 | 96 | **Alyssa Thomas** 🔴 | 127 |
-| 96 | **Brionna Jones** 🔴 +2 | 127 |
 | 96 | Chelsea Gray | 127 |
 | 96 | Chiney Ogwumike | 127 |
 | 96 | Kristen Rasmussen | 127 |
-| 101 | Katie Douglas | 126 |
-| 101 | Mistie Bass | 126 |
+| 100 | **Brionna Jones** 🔴 +1 | 126 |
+| 100 | Katie Douglas | 126 |
+| 100 | Mistie Bass | 126 |
 | 103 | Kamilla Cardoso | 124 |
 | 104 | **Natasha Mack** 🔴 | 123 |
 | 104 | **Shakira Austin** 🔴 +4 | 123 |
@@ -1527,8 +1527,8 @@ _Last updated: 2026-08-08 00:56 UTC_
 | 66 | Natasha Cloud | 773 |
 | 67 | Sheri Sam | 766 |
 | 68 | **Kahleah Copper** 🔴 +1 | 759 |
+| 69 | **Allisha Gray** 🔴 +3 | 755 |
 | 69 | Kia Vaughn | 755 |
-| 70 | **Allisha Gray** 🔴 +2 | 754 |
 | 71 | Vickie Johnson | 752 |
 | 72 | Kara Braxton | 748 |
 | 73 | Crystal Langhorne | 737 |
