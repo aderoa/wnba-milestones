@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-08 02:56 UTC_
+_Last updated: 2026-08-08 02:57 UTC_
 
 ## Contents
 
@@ -148,7 +148,7 @@ _Last updated: 2026-08-08 02:56 UTC_
 | 127 | Ruth Riley | 2,434 |
 | 128 | Svetlana Abrosimova | 2,414 |
 | 129 | Anna DeForge | 2,413 |
-| 130 | **Kayla Thornton** 🔴 +5 | 2,398 |
+| 130 | **Kayla Thornton** 🔴 +8 | 2,401 |
 | 131 | DeMya Walker | 2,379 |
 | 132 | Jordin Canada | 2,351 |
 | 133 | Alex Bentley | 2,350 |
@@ -538,7 +538,7 @@ _Last updated: 2026-08-08 02:56 UTC_
 | 106 | Betnijah Laney-Hamilton | 590 |
 | 106 | Camille Smith | 590 |
 | 108 | Armintie Herrington | 589 |
-| 109 | **Veronica Burton** 🔴 +4 | 583 |
+| 109 | **Veronica Burton** 🔴 +5 | 584 |
 | 110 | Tan White | 578 |
 | 111 | Matee Ajavon | 577 |
 | 112 | Napheesa Collier | 570 |
@@ -1121,7 +1121,7 @@ _Last updated: 2026-08-08 02:56 UTC_
 | 71 | Bridget Carleton | 306 |
 | 72 | Kelly Miller | 305 |
 | 73 | Nikki Teasley | 304 |
-| 74 | **Kayla Thornton** 🔴 +1 | 301 |
+| 74 | **Kayla Thornton** 🔴 +2 | 302 |
 | 75 | Vickie Johnson | 295 |
 | 76 | Seimone Augustus | 293 |
 | 77 | Candice Wiggins | 290 |
@@ -1187,9 +1187,9 @@ _Last updated: 2026-08-08 02:56 UTC_
 | 136 | Jennifer Lacy | 160 |
 | 136 | Stephanie Talbot | 160 |
 | 139 | Aari McDonald | 158 |
+| 139 | **Alanna Smith** 🔴 +2 | 158 |
 | 139 | Jennifer Azzi | 158 |
 | 139 | Natasha Howard | 158 |
-| 142 | **Alanna Smith** 🔴 +1 | 157 |
 | 143 | **Gabby Williams** 🔴 +1 | 154 |
 | 144 | Bridget Pettis | 153 |
 | 144 | Jennifer Gillom | 153 |
@@ -1237,9 +1237,9 @@ _Last updated: 2026-08-08 02:56 UTC_
 | 187 | Gordana Grubin | 114 |
 | 187 | Rickea Jackson | 114 |
 | 187 | Sandy Brondello | 114 |
+| 190 | **Cecilia Zandalasini** 🔴 +1 | 112 |
 | 190 | **Janelle Salaun** 🔴 +1 | 112 |
-| 191 | **Cecilia Zandalasini** 🔴 | 111 |
-| 191 | Shoni Schimmel | 111 |
+| 192 | Shoni Schimmel | 111 |
 | 193 | Emma Meesseman | 109 |
 | 193 | Scholanda Dorrell | 109 |
 | 195 | Belinda Snell | 108 |
