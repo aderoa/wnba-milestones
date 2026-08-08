@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-08 00:05 UTC_
+_Last updated: 2026-08-08 00:06 UTC_
 
 ## Contents
 
@@ -231,7 +231,7 @@ _Last updated: 2026-08-08 00:05 UTC_
 | 5 | Rebekkah Brunson | 3,345 |
 | 6 | Tamika Catchings | 3,313 |
 | 7 | Lisa Leslie | 3,303 |
-| 8 | **DeWanna Bonner** 🔴 +4 | 3,294 |
+| 8 | **DeWanna Bonner** 🔴 +5 | 3,295 |
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
@@ -240,7 +240,7 @@ _Last updated: 2026-08-08 00:05 UTC_
 | 14 | A'ja Wilson | 2,657 |
 | 15 | Breanna Stewart | 2,632 |
 | 16 | Sancho Lyttle | 2,596 |
-| 17 | **Brittney Griner** 🔴 +4 | 2,583 |
+| 17 | **Brittney Griner** 🔴 +6 | 2,585 |
 | 18 | DeLisha Milton-Jones | 2,574 |
 | 19 | Swin Cash | 2,521 |
 | 20 | Michelle Snow | 2,476 |
@@ -955,8 +955,8 @@ _Last updated: 2026-08-08 00:05 UTC_
 | 110 | Kayla Thornton | 270 |
 | 110 | Natalie Williams | 270 |
 | 110 | Nicky Anosike | 270 |
-| 113 | Crystal Robinson | 267 |
-| 113 | **Kelsey Plum** 🔴 | 267 |
+| 113 | **Kelsey Plum** 🔴 +1 | 268 |
+| 114 | Crystal Robinson | 267 |
 | 115 | Anna DeForge | 266 |
 | 116 | **Brionna Jones** 🔴 | 265 |
 | 117 | Michelle Snow | 262 |
@@ -1292,8 +1292,8 @@ _Last updated: 2026-08-08 00:05 UTC_
 | 36 | Plenette Pierson | 773 |
 | 37 | Briann January | 771 |
 | 38 | Margo Dydek | 758 |
-| 39 | **Brittney Griner** 🔴 | 751 |
-| 39 | Tangela Smith | 751 |
+| 39 | **Brittney Griner** 🔴 +1 | 752 |
+| 40 | Tangela Smith | 751 |
 | 41 | Kristi Toliver | 748 |
 | 42 | Monique Currie | 724 |
 | 43 | Michelle Snow | 723 |
