@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-08 18:10 UTC_
+_Last updated: 2026-08-08 18:11 UTC_
 
 ## Contents
 
@@ -237,7 +237,7 @@ _Last updated: 2026-08-08 18:10 UTC_
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | Alyssa Thomas | 2,858 |
 | 13 | Jonquel Jones | 2,728 |
-| 14 | **A'ja Wilson** 🔴 +1 | 2,658 |
+| 14 | **A'ja Wilson** 🔴 +2 | 2,659 |
 | 15 | Breanna Stewart | 2,632 |
 | 16 | Sancho Lyttle | 2,596 |
 | 17 | Brittney Griner | 2,579 |
@@ -249,7 +249,7 @@ _Last updated: 2026-08-08 18:10 UTC_
 | 23 | Lauren Jackson | 2,444 |
 | 24 | Yolanda Griffith | 2,440 |
 | 25 | Tangela Smith | 2,328 |
-| 26 | **Natasha Howard** 🔴 +4 | 2,319 |
+| 26 | **Natasha Howard** 🔴 +5 | 2,320 |
 | 27 | Erika de Souza | 2,220 |
 | 28 | Diana Taurasi | 2,201 |
 | 29 | Margo Dydek | 2,138 |
@@ -653,8 +653,8 @@ _Last updated: 2026-08-08 18:10 UTC_
 | 16 | Michelle Snow | 403 |
 | 17 | Tamika Catchings | 383 |
 | 18 | Tina Thompson | 372 |
-| 19 | Erika de Souza | 370 |
-| 19 | **Natasha Howard** 🔴 | 370 |
+| 19 | **Natasha Howard** 🔴 +1 | 371 |
+| 20 | Erika de Souza | 370 |
 | 21 | Jessica Breland | 367 |
 | 22 | DeWanna Bonner | 358 |
 | 23 | Ezi Magbegor | 354 |
@@ -1622,9 +1622,9 @@ _Last updated: 2026-08-08 18:10 UTC_
 | 162 | Adrienne Goodson | 512 |
 | 162 | Janeth Arcain | 512 |
 | 164 | Andrea Stinson | 511 |
+| 165 | **Napheesa Collier** 🔴 +3 | 507 |
 | 165 | Vicky Bullett | 507 |
-| 166 | Merlakia Jones | 506 |
-| 166 | **Napheesa Collier** 🔴 +2 | 506 |
+| 167 | Merlakia Jones | 506 |
 | 168 | Isabelle Harrison | 505 |
 | 168 | Rushia Brown | 505 |
 | 168 | Shekinna Stricklen | 505 |
