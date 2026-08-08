@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-08 01:17 UTC_
+_Last updated: 2026-08-08 01:18 UTC_
 
 ## Contents
 
@@ -60,8 +60,8 @@ _Last updated: 2026-08-08 01:17 UTC_
 | 39 | Natasha Howard | 4,682 |
 | 40 | Chelsea Gray | 4,625 |
 | 41 | Penny Taylor | 4,595 |
-| 42 | **Allisha Gray** 🔴 +18 | 4,509 |
-| 43 | **Kelsey Plum** 🔴 +14 | 4,508 |
+| 42 | **Allisha Gray** 🔴 +22 | 4,513 |
+| 43 | **Kelsey Plum** 🔴 +16 | 4,510 |
 | 44 | Kristi Toliver | 4,474 |
 | 45 | **Kahleah Copper** 🔴 +13 | 4,450 |
 | 46 | Crystal Langhorne | 4,433 |
@@ -231,7 +231,7 @@ _Last updated: 2026-08-08 01:17 UTC_
 | 5 | Rebekkah Brunson | 3,345 |
 | 6 | Tamika Catchings | 3,313 |
 | 7 | Lisa Leslie | 3,303 |
-| 8 | **DeWanna Bonner** 🔴 +9 | 3,299 |
+| 8 | **DeWanna Bonner** 🔴 +10 | 3,300 |
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
@@ -240,7 +240,7 @@ _Last updated: 2026-08-08 01:17 UTC_
 | 14 | A'ja Wilson | 2,657 |
 | 15 | Breanna Stewart | 2,632 |
 | 16 | Sancho Lyttle | 2,596 |
-| 17 | **Brittney Griner** 🔴 +6 | 2,585 |
+| 17 | **Brittney Griner** 🔴 +7 | 2,586 |
 | 18 | DeLisha Milton-Jones | 2,574 |
 | 19 | Swin Cash | 2,521 |
 | 20 | Michelle Snow | 2,476 |
@@ -708,8 +708,8 @@ _Last updated: 2026-08-08 01:17 UTC_
 | 71 | Shameka Christon | 165 |
 | 72 | Aliyah Boston | 160 |
 | 72 | Cheryl Ford | 160 |
-| 74 | **Allisha Gray** 🔴 | 157 |
-| 74 | Kara Braxton | 157 |
+| 74 | **Allisha Gray** 🔴 +1 | 158 |
+| 75 | Kara Braxton | 157 |
 | 76 | DeMya Walker | 155 |
 | 76 | Tamika Whitmore | 155 |
 | 78 | Ann Wauters | 153 |
@@ -1527,8 +1527,8 @@ _Last updated: 2026-08-08 01:17 UTC_
 | 66 | Natasha Cloud | 773 |
 | 67 | Sheri Sam | 766 |
 | 68 | **Kahleah Copper** 🔴 +1 | 759 |
+| 69 | **Allisha Gray** 🔴 +3 | 755 |
 | 69 | Kia Vaughn | 755 |
-| 70 | **Allisha Gray** 🔴 +2 | 754 |
 | 71 | Vickie Johnson | 752 |
 | 72 | Kara Braxton | 748 |
 | 73 | Crystal Langhorne | 737 |
