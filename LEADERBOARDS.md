@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-08 18:32 UTC_
+_Last updated: 2026-08-08 18:33 UTC_
 
 ## Contents
 
@@ -87,7 +87,7 @@ _Last updated: 2026-08-08 18:32 UTC_
 | 66 | Kara Lawson | 3,670 |
 | 67 | Mwadi Mabika | 3,576 |
 | 68 | Odyssey Sims | 3,574 |
-| 69 | **Napheesa Collier** 🔴 +15 | 3,557 |
+| 69 | **Napheesa Collier** 🔴 +16 | 3,558 |
 | 70 | Camille Smith | 3,551 |
 | 71 | Shannon Johnson | 3,542 |
 | 72 | Renee Montgomery | 3,533 |
@@ -1553,8 +1553,8 @@ _Last updated: 2026-08-08 18:32 UTC_
 | 92 | Breanna Stewart | 685 |
 | 92 | Cheyenne Parker-Tyus | 685 |
 | 92 | Jasmine Thomas | 685 |
-| 95 | **Jewell Loyd** 🔴 | 684 |
-| 95 | Leilani Mitchell | 684 |
+| 92 | **Jewell Loyd** 🔴 +1 | 685 |
+| 96 | Leilani Mitchell | 684 |
 | 97 | Crystal Robinson | 682 |
 | 97 | Kayla Thornton | 682 |
 | 99 | Jennifer Lacy | 680 |
