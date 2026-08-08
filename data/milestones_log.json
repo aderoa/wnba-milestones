@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-08-08T01:30:00+00:00",
+    "text": "Shakira Austin passed Natasha Mack for #104 all-time in blocks (career 124) \u2014 up from #108 entering today \u2014 (3:50 - 4th \u2014 ATL @ WSH)",
+    "kind": "rank_pass",
+    "player": "Shakira Austin",
+    "stat": "blocks",
+    "rank": 104,
+    "passed_players": [
+      "Natasha Mack"
+    ],
+    "new_total": 124
+  },
+  {
     "ts": "2026-08-08T00:24:00+00:00",
     "text": "Kelsey Plum passed Brittney Sykes, Matee Ajavon, and Nicole Powell for #83 all-time in fouls (career 702) \u2014 up from #86 entering today \u2014 (1:41 - 2nd \u2014 PHX @ CON)",
     "kind": "rank_pass",
@@ -2984,17 +2996,5 @@
       "Myisha Hines-Allen"
     ],
     "new_total": 132
-  },
-  {
-    "ts": "2026-07-04T01:19:00+00:00",
-    "text": "Courtney Williams passed Emma Meesseman for #127 all-time in fouls (career 586) \u2014 up from #128 entering today \u2014 (1:52 - 4th \u2014 MIN @ NY)",
-    "kind": "rank_pass",
-    "player": "Courtney Williams",
-    "stat": "fouls",
-    "rank": 127,
-    "passed_players": [
-      "Emma Meesseman"
-    ],
-    "new_total": 586
   }
 ]

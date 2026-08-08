@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-08-08 01:30 UTC
+
+- **Shakira Austin** passed **Natasha Mack** for **#104** all-time in blocks (career 124) — up from #108 entering today — _3:50 - 4th — ATL @ WSH_
+
 ## 2026-08-08 00:24 UTC
 
 - **Kelsey Plum** passed **Brittney Sykes**, **Matee Ajavon**, and **Nicole Powell** for **#83** all-time in fouls (career 702) — up from #86 entering today — _1:41 - 2nd — PHX @ CON_
