@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-08 03:28 UTC_
+_Last updated: 2026-08-08 03:29 UTC_
 
 ## Contents
 
@@ -351,7 +351,7 @@ _Last updated: 2026-08-08 03:28 UTC_
 | 125 | Tamecka Dixon | 1,035 |
 | 126 | Kamila Vodichkova | 1,031 |
 | 127 | Jasmine Thomas | 1,027 |
-| 128 | **Jessica Shepard** 🔴 +10 | 1,026 |
+| 127 | **Jessica Shepard** 🔴 +11 | 1,027 |
 | 129 | Sabrina Ionescu | 1,020 |
 | 130 | Cathrine Kraayeveld | 1,013 |
 | 131 | Kelly Miller | 1,011 |
@@ -378,7 +378,7 @@ _Last updated: 2026-08-08 03:28 UTC_
 | 152 | Natalie Achonwa | 895 |
 | 153 | Temeka Johnson | 889 |
 | 154 | Mistie Bass | 888 |
-| 155 | **Alanna Smith** 🔴 +5 | 883 |
+| 155 | **Alanna Smith** 🔴 +6 | 884 |
 | 156 | Erica Wheeler | 882 |
 | 157 | Marina Mabrey | 874 |
 | 158 | Shameka Christon | 867 |
@@ -477,7 +477,7 @@ _Last updated: 2026-08-08 03:28 UTC_
 | 45 | Nikki Teasley | 982 |
 | 46 | Breanna Stewart | 981 |
 | 47 | Tamecka Dixon | 960 |
-| 48 | **Tiffany Hayes** 🔴 +1 | 958 |
+| 48 | **Tiffany Hayes** 🔴 +2 | 959 |
 | 49 | Kara Lawson | 946 |
 | 50 | **Arike Ogunbowale** 🔴 +1 | 945 |
 | 51 | Nneka Ogwumike | 933 |
@@ -658,7 +658,7 @@ _Last updated: 2026-08-08 03:28 UTC_
 | 21 | Jessica Breland | 367 |
 | 22 | DeWanna Bonner | 359 |
 | 23 | Ezi Magbegor | 354 |
-| 24 | **Kiah Stokes** 🔴 +1 | 353 |
+| 23 | **Kiah Stokes** 🔴 +2 | 354 |
 | 25 | Diana Taurasi | 349 |
 | 25 | Elena Delle Donne | 349 |
 | 27 | DeLisha Milton-Jones | 339 |
@@ -951,10 +951,10 @@ _Last updated: 2026-08-08 03:28 UTC_
 | 106 | Tari Phillips | 277 |
 | 107 | Emma Meesseman | 276 |
 | 107 | Erika de Souza | 276 |
+| 109 | **Kayla Thornton** 🔴 +1 | 271 |
 | 109 | Rita Williams | 271 |
-| 110 | **Kayla Thornton** 🔴 | 270 |
-| 110 | Natalie Williams | 270 |
-| 110 | Nicky Anosike | 270 |
+| 111 | Natalie Williams | 270 |
+| 111 | Nicky Anosike | 270 |
 | 113 | Kelsey Plum | 268 |
 | 114 | Crystal Robinson | 267 |
 | 115 | Anna DeForge | 266 |
@@ -1222,8 +1222,8 @@ _Last updated: 2026-08-08 03:28 UTC_
 | 171 | Ticha Penicheiro | 128 |
 | 173 | Kennedy Burke | 127 |
 | 173 | Michele Timms | 127 |
-| 175 | Tamecka Dixon | 126 |
-| 175 | **Veronica Burton** 🔴 +2 | 126 |
+| 173 | **Veronica Burton** 🔴 +3 | 127 |
+| 176 | Tamecka Dixon | 126 |
 | 177 | Lexie Hull | 125 |
 | 178 | Charde Houston | 124 |
 | 179 | Lisa Leslie | 123 |
