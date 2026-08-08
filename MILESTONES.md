@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-08-08 18:32 UTC
+
+- **Napheesa Collier** passed **Victoria Vivians** for **#116** all-time in three-pointers (career 193) — up from #118 entering today — _25.5 - 3rd — LV @ MIN_
+
 ## 2026-08-08 02:27 UTC
 
 - **Kayla Thornton** passed **Suzie McConnell Serio** for **#182** all-time in assists (career 371) — up from #184 entering today — _57.6 - 2nd — GS @ DAL_

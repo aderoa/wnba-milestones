@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-08-08T18:32:00+00:00",
+    "text": "Napheesa Collier passed Victoria Vivians for #116 all-time in three-pointers (career 193) \u2014 up from #118 entering today \u2014 (25.5 - 3rd \u2014 LV @ MIN)",
+    "kind": "rank_pass",
+    "player": "Napheesa Collier",
+    "stat": "three-pointers",
+    "rank": 116,
+    "passed_players": [
+      "Victoria Vivians"
+    ],
+    "new_total": 193
+  },
+  {
     "ts": "2026-08-08T02:27:00+00:00",
     "text": "Kayla Thornton passed Suzie McConnell Serio for #182 all-time in assists (career 371) \u2014 up from #184 entering today \u2014 (57.6 - 2nd \u2014 GS @ DAL)",
     "kind": "rank_pass",
@@ -2980,18 +2992,5 @@
       "Sandrine Gruda"
     ],
     "new_total": 95
-  },
-  {
-    "ts": "2026-07-04T02:15:00+00:00",
-    "text": "Azur\u00e1 Stevens passed Erin Perperoglou and Jennifer Lacy for #191 all-time in turnovers (career 306) \u2014 up from #193 entering today \u2014 (5:18 - 1st \u2014 CHI @ LV)",
-    "kind": "rank_pass",
-    "player": "Azur\u00e1 Stevens",
-    "stat": "turnovers",
-    "rank": 191,
-    "passed_players": [
-      "Erin Perperoglou",
-      "Jennifer Lacy"
-    ],
-    "new_total": 306
   }
 ]
