@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-08 03:19 UTC_
+_Last updated: 2026-08-08 03:20 UTC_
 
 ## Contents
 
@@ -193,8 +193,8 @@ _Last updated: 2026-08-08 03:19 UTC_
 | 172 | Latasha Byears | 1,920 |
 | 173 | Karima Christmas-Kelly | 1,919 |
 | 174 | Jessica Breland | 1,918 |
-| 175 | Nakia Sanford | 1,915 |
-| 176 | **Gabby Williams** 🔴 +12 | 1,911 |
+| 175 | **Gabby Williams** 🔴 +17 | 1,916 |
+| 176 | Nakia Sanford | 1,915 |
 | 177 | Ebony Hoffman | 1,909 |
 | 178 | Candice Wiggins | 1,901 |
 | 179 | NaLyssa Smith | 1,879 |
@@ -538,7 +538,7 @@ _Last updated: 2026-08-08 03:19 UTC_
 | 106 | Betnijah Laney-Hamilton | 590 |
 | 106 | Camille Smith | 590 |
 | 108 | Armintie Herrington | 589 |
-| 109 | **Veronica Burton** 🔴 +5 | 584 |
+| 109 | **Veronica Burton** 🔴 +6 | 585 |
 | 110 | Tan White | 578 |
 | 111 | Matee Ajavon | 577 |
 | 112 | Napheesa Collier | 570 |
@@ -1190,7 +1190,7 @@ _Last updated: 2026-08-08 03:19 UTC_
 | 139 | **Alanna Smith** 🔴 +2 | 158 |
 | 139 | Jennifer Azzi | 158 |
 | 139 | Natasha Howard | 158 |
-| 143 | **Gabby Williams** 🔴 +1 | 154 |
+| 143 | **Gabby Williams** 🔴 +2 | 155 |
 | 144 | Bridget Pettis | 153 |
 | 144 | Jennifer Gillom | 153 |
 | 144 | Katie Lou Samuelson | 153 |
@@ -1353,7 +1353,7 @@ _Last updated: 2026-08-08 03:19 UTC_
 | 97 | Jordin Canada | 532 |
 | 97 | Mwadi Mabika | 532 |
 | 99 | Nakia Sanford | 531 |
-| 100 | **Arike Ogunbowale** 🔴 | 529 |
+| 100 | **Arike Ogunbowale** 🔴 +1 | 530 |
 | 101 | Maya Moore | 527 |
 | 102 | Kara Lawson | 526 |
 | 103 | Leilani Mitchell | 525 |
