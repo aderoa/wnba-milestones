@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-08 21:14 UTC_
+_Last updated: 2026-08-08 21:15 UTC_
 
 ## Contents
 
@@ -410,8 +410,8 @@ _Last updated: 2026-08-08 21:14 UTC_
 | 183 | Kelsey Bone | 769 |
 | 183 | Tan White | 769 |
 | 186 | Tully Bevilaqua | 767 |
-| 187 | **Kamilla Cardoso** 🔴 +6 | 756 |
-| 187 | Layshia Clarendon | 756 |
+| 187 | **Kamilla Cardoso** 🔴 +7 | 757 |
+| 188 | Layshia Clarendon | 756 |
 | 189 | Brooke Wyckoff | 751 |
 | 190 | Coco Miller | 750 |
 | 191 | Kelsey Plum | 741 |
@@ -737,7 +737,7 @@ _Last updated: 2026-08-08 21:14 UTC_
 | 100 | Katie Douglas | 126 |
 | 100 | Mistie Bass | 126 |
 | 102 | Brionna Jones | 125 |
-| 103 | **Kamilla Cardoso** 🔴 | 124 |
+| 102 | **Kamilla Cardoso** 🔴 +1 | 125 |
 | 104 | Natasha Mack | 123 |
 | 105 | Natalie Williams | 122 |
 | 106 | Ebony Hoffman | 121 |
@@ -1001,8 +1001,8 @@ _Last updated: 2026-08-08 21:14 UTC_
 | 155 | Candice Wiggins | 215 |
 | 155 | Elena Baranova | 215 |
 | 158 | Shekinna Stricklen | 213 |
+| 159 | **Azurá Stevens** 🔴 +1 | 211 |
 | 159 | Nikki Teasley | 211 |
-| 160 | **Azurá Stevens** 🔴 | 210 |
 | 161 | Iziane Castro Marques | 209 |
 | 161 | Tiffany Mitchell | 209 |
 | 163 | Kia Vaughn | 208 |
@@ -1413,8 +1413,8 @@ _Last updated: 2026-08-08 21:14 UTC_
 | 157 | Armintie Herrington | 377 |
 | 158 | Anna DeForge | 374 |
 | 158 | Cheryl Ford | 374 |
-| 160 | Allison Feaster | 372 |
-| 160 | **Caitlin Clark** 🔴 +4 | 372 |
+| 160 | **Caitlin Clark** 🔴 +5 | 373 |
+| 161 | Allison Feaster | 372 |
 | 162 | Emma Meesseman | 367 |
 | 163 | Latasha Byears | 360 |
 | 164 | Vicky Bullett | 359 |
