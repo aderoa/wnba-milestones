@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-08 21:19 UTC_
+_Last updated: 2026-08-08 21:20 UTC_
 
 ## Contents
 
@@ -586,8 +586,8 @@ _Last updated: 2026-08-08 21:19 UTC_
 | 154 | Lauren Jackson | 435 |
 | 155 | Adrienne Goodson | 433 |
 | 155 | Crystal Langhorne | 433 |
-| 157 | **Aliyah Boston** 🔴 +2 | 430 |
-| 157 | Elena Baranova | 430 |
+| 157 | **Aliyah Boston** 🔴 +3 | 431 |
+| 158 | Elena Baranova | 430 |
 | 159 | Tierra Ruffin-Pratt | 424 |
 | 160 | Kedra Holland-Corn | 423 |
 | 161 | Crystal Dangerfield | 418 |
@@ -1157,8 +1157,8 @@ _Last updated: 2026-08-08 21:19 UTC_
 | 107 | Andrea Stinson | 207 |
 | 108 | Betnijah Laney-Hamilton | 206 |
 | 109 | Lexie Brown | 203 |
-| 110 | **Caitlin Clark** 🔴 +4 | 199 |
-| 110 | Shanna Zolman | 199 |
+| 110 | **Caitlin Clark** 🔴 +5 | 200 |
+| 111 | Shanna Zolman | 199 |
 | 112 | Temeka Johnson | 197 |
 | 112 | Tina Charles | 197 |
 | 114 | Nia Coffey | 196 |
@@ -1444,10 +1444,10 @@ _Last updated: 2026-08-08 21:19 UTC_
 | 188 | Natisha Hiedeman | 312 |
 | 189 | Tamika Raymond | 311 |
 | 190 | Isabelle Harrison | 307 |
+| 191 | **Azurá Stevens** 🔴 +1 | 305 |
 | 191 | Erin Perperoglou | 305 |
 | 191 | Jennifer Lacy | 305 |
-| 193 | **Azurá Stevens** 🔴 | 304 |
-| 193 | **Rachel Banham** 🔴 +3 | 304 |
+| 194 | **Rachel Banham** 🔴 +3 | 304 |
 | 195 | Tianna Hawkins | 303 |
 | 196 | Crystal Robinson | 299 |
 | 197 | Kayla Thornton | 298 |
@@ -1633,9 +1633,9 @@ _Last updated: 2026-08-08 21:19 UTC_
 | 171 | Erin Perperoglou | 504 |
 | 173 | Iziane Castro Marques | 502 |
 | 174 | Elena Baranova | 501 |
-| 175 | **Rachel Banham** 🔴 +2 | 499 |
-| 176 | **Azurá Stevens** 🔴 +3 | 498 |
-| 176 | Nia Coffey | 498 |
+| 175 | **Azurá Stevens** 🔴 +5 | 500 |
+| 176 | **Rachel Banham** 🔴 +2 | 499 |
+| 177 | Nia Coffey | 498 |
 | 178 | Adrian Williams-Strong | 497 |
 | 178 | Essence Carson | 497 |
 | 180 | Karima Christmas-Kelly | 494 |
