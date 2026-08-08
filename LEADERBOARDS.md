@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-08 04:36 UTC_
+_Last updated: 2026-08-08 04:37 UTC_
 
 ## Contents
 
@@ -21,7 +21,7 @@ _Last updated: 2026-08-08 04:36 UTC_
 |-----:|--------|------:|
 | 1 | Diana Taurasi | 10,608 |
 | 2 | Tina Charles | 8,396 |
-| 3 | DeWanna Bonner | 7,978 |
+| 3 | DeWanna Bonner | 7,976 |
 | 4 | Nneka Ogwumike | 7,563 |
 | 5 | Tina Thompson | 7,470 |
 | 6 | Tamika Catchings | 7,371 |
@@ -231,7 +231,7 @@ _Last updated: 2026-08-08 04:36 UTC_
 | 5 | Rebekkah Brunson | 3,345 |
 | 6 | Tamika Catchings | 3,313 |
 | 7 | Lisa Leslie | 3,303 |
-| 8 | DeWanna Bonner | 3,301 |
+| 8 | DeWanna Bonner | 3,295 |
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
@@ -459,8 +459,8 @@ _Last updated: 2026-08-08 04:36 UTC_
 | 27 | Katie Smith | 1,258 |
 | 28 | Odyssey Sims | 1,232 |
 | 29 | Vickie Johnson | 1,202 |
-| 30 | DeWanna Bonner | 1,198 |
-| 31 | Leilani Mitchell | 1,197 |
+| 30 | DeWanna Bonner | 1,197 |
+| 30 | Leilani Mitchell | 1,197 |
 | 32 | Jewell Loyd | 1,156 |
 | 33 | Jackie Young | 1,150 |
 | 34 | Renee Montgomery | 1,140 |
@@ -656,7 +656,7 @@ _Last updated: 2026-08-08 04:36 UTC_
 | 19 | Erika de Souza | 370 |
 | 19 | Natasha Howard | 370 |
 | 21 | Jessica Breland | 367 |
-| 22 | DeWanna Bonner | 359 |
+| 22 | DeWanna Bonner | 358 |
 | 23 | Ezi Magbegor | 354 |
 | 23 | Kiah Stokes | 354 |
 | 25 | Diana Taurasi | 349 |
@@ -1280,7 +1280,7 @@ _Last updated: 2026-08-08 04:36 UTC_
 | 24 | Candice Dupree | 869 |
 | 25 | Alana Beard | 854 |
 | 26 | Natasha Howard | 843 |
-| 27 | DeWanna Bonner | 840 |
+| 27 | DeWanna Bonner | 841 |
 | 28 | Katie Douglas | 824 |
 | 29 | Nneka Ogwumike | 803 |
 | 30 | Betty Lennox | 800 |
@@ -1496,7 +1496,7 @@ _Last updated: 2026-08-08 04:36 UTC_
 | 35 | Mwadi Mabika | 941 |
 | 36 | Courtney Vandersloot | 940 |
 | 36 | Tamika Whitmore | 940 |
-| 38 | DeWanna Bonner | 924 |
+| 38 | DeWanna Bonner | 923 |
 | 39 | Briann January | 921 |
 | 40 | Jonquel Jones | 913 |
 | 40 | Ticha Penicheiro | 913 |
