@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-08 21:21 UTC_
+_Last updated: 2026-08-08 21:22 UTC_
 
 ## Contents
 
@@ -45,7 +45,7 @@ _Last updated: 2026-08-08 21:21 UTC_
 | 24 | DeLisha Milton-Jones | 5,571 |
 | 25 | Katie Douglas | 5,545 |
 | 26 | Lindsay Whalen | 5,511 |
-| 27 | **Kelsey Mitchell** 🔴 +17 | 5,215 |
+| 27 | **Kelsey Mitchell** 🔴 +19 | 5,217 |
 | 28 | Swin Cash | 5,119 |
 | 29 | Tiffany Hayes | 5,049 |
 | 30 | Tangela Smith | 5,035 |
@@ -431,7 +431,7 @@ _Last updated: 2026-08-08 21:21 UTC_
 | Rank | Player | Total |
 |-----:|--------|------:|
 | 1 | Sue Bird | 3,234 |
-| 2 | **Courtney Vandersloot** 🔴 +5 | 2,899 |
+| 2 | **Courtney Vandersloot** 🔴 +6 | 2,900 |
 | 3 | Ticha Penicheiro | 2,588 |
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
