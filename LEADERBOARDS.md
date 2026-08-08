@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-08 02:18 UTC_
+_Last updated: 2026-08-08 02:19 UTC_
 
 ## Contents
 
@@ -295,7 +295,7 @@ _Last updated: 2026-08-08 02:18 UTC_
 | 69 | Monique Billings | 1,431 |
 | 70 | Alana Beard | 1,420 |
 | 71 | Nakia Sanford | 1,419 |
-| 72 | **Kayla Thornton** 🔴 +5 | 1,413 |
+| 72 | **Kayla Thornton** 🔴 +6 | 1,414 |
 | 73 | Allisha Gray | 1,410 |
 | 74 | Kara Braxton | 1,387 |
 | 75 | Courtney Vandersloot | 1,386 |
@@ -351,8 +351,8 @@ _Last updated: 2026-08-08 02:18 UTC_
 | 125 | Tamecka Dixon | 1,035 |
 | 126 | Kamila Vodichkova | 1,031 |
 | 127 | Jasmine Thomas | 1,027 |
+| 128 | **Jessica Shepard** 🔴 +4 | 1,020 |
 | 128 | Sabrina Ionescu | 1,020 |
-| 129 | **Jessica Shepard** 🔴 +3 | 1,019 |
 | 130 | Cathrine Kraayeveld | 1,013 |
 | 131 | Kelly Miller | 1,011 |
 | 131 | Noelle Quinn | 1,011 |
@@ -928,7 +928,7 @@ _Last updated: 2026-08-08 02:18 UTC_
 | 83 | Courtney Williams | 329 |
 | 83 | Kristi Toliver | 329 |
 | 85 | Matee Ajavon | 328 |
-| 86 | **Gabby Williams** 🔴 | 326 |
+| 86 | **Gabby Williams** 🔴 +1 | 327 |
 | 87 | Napheesa Collier | 325 |
 | 88 | Betty Lennox | 323 |
 | 89 | Tammy Sutton-Brown | 319 |
