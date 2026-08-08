@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-08 17:15 UTC_
+_Last updated: 2026-08-08 17:16 UTC_
 
 ## Contents
 
@@ -57,7 +57,7 @@ _Last updated: 2026-08-08 17:15 UTC_
 | 36 | Arike Ogunbowale | 4,715 |
 | 37 | Chamique Holdsclaw | 4,713 |
 | 38 | Elena Delle Donne | 4,706 |
-| 39 | **Natasha Howard** 🔴 +5 | 4,687 |
+| 39 | **Natasha Howard** 🔴 +6 | 4,688 |
 | 40 | **Chelsea Gray** 🔴 +3 | 4,628 |
 | 41 | Penny Taylor | 4,595 |
 | 42 | Kelsey Plum | 4,494 |
@@ -83,7 +83,7 @@ _Last updated: 2026-08-08 17:15 UTC_
 | 62 | Allie Quigley | 3,786 |
 | 63 | Chasity Melvin | 3,781 |
 | 64 | Brittney Sykes | 3,726 |
-| 65 | **Jackie Young** 🔴 +3 | 3,701 |
+| 65 | **Jackie Young** 🔴 +5 | 3,703 |
 | 66 | Kara Lawson | 3,670 |
 | 67 | Mwadi Mabika | 3,576 |
 | 68 | Odyssey Sims | 3,574 |
@@ -516,8 +516,8 @@ _Last updated: 2026-08-08 17:15 UTC_
 | 84 | Ariel Atkins | 682 |
 | 85 | Emma Meesseman | 681 |
 | 86 | Nykesha Sales | 677 |
+| 87 | **A'ja Wilson** 🔴 +1 | 668 |
 | 87 | Natisha Hiedeman | 668 |
-| 88 | **A'ja Wilson** 🔴 | 667 |
 | 89 | Bria Hartley | 661 |
 | 90 | Brittney Griner | 660 |
 | 91 | Lindsay Allen | 657 |
@@ -607,7 +607,7 @@ _Last updated: 2026-08-08 17:15 UTC_
 | 174 | Tamicha Jackson | 389 |
 | 176 | Riquna Williams | 387 |
 | 177 | Bridget Carleton | 384 |
-| 178 | Dana Evans | 379 |
+| 178 | **Dana Evans** 🔴 | 379 |
 | 179 | Jessica Breland | 377 |
 | 180 | Shenise Johnson | 376 |
 | 181 | Alanna Smith | 374 |
@@ -1183,7 +1183,7 @@ _Last updated: 2026-08-08 17:15 UTC_
 | 133 | Tyasha Harris | 162 |
 | 133 | Ukari Figgs | 162 |
 | 135 | Edna Campbell | 161 |
-| 136 | Dana Evans | 160 |
+| 136 | **Dana Evans** 🔴 | 160 |
 | 136 | Jennifer Lacy | 160 |
 | 136 | **Stephanie Talbot** 🔴 | 160 |
 | 139 | **Natasha Howard** 🔴 +1 | 159 |
@@ -1649,8 +1649,8 @@ _Last updated: 2026-08-08 17:15 UTC_
 | 189 | Sami Whitcomb | 480 |
 | 190 | Alanna Smith | 479 |
 | 191 | Seimone Augustus | 477 |
-| 192 | Allie Quigley | 475 |
-| 192 | **NaLyssa Smith** 🔴 +1 | 475 |
+| 192 | **NaLyssa Smith** 🔴 +2 | 476 |
+| 193 | Allie Quigley | 475 |
 | 194 | Satou Sabally | 471 |
 | 195 | Christi Thomas | 463 |
 | 195 | Nikki Teasley | 463 |
