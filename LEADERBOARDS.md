@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-08 20:53 UTC_
+_Last updated: 2026-08-08 20:54 UTC_
 
 ## Contents
 
@@ -1438,8 +1438,8 @@ _Last updated: 2026-08-08 20:53 UTC_
 | 182 | Olympia Scott | 324 |
 | 183 | Kia Nurse | 320 |
 | 184 | Barbara Farris | 315 |
-| 185 | **Monique Billings** 🔴 | 314 |
-| 185 | Moriah Jefferson | 314 |
+| 184 | **Monique Billings** 🔴 +1 | 315 |
+| 186 | Moriah Jefferson | 314 |
 | 187 | Alex Bentley | 313 |
 | 188 | Natisha Hiedeman | 312 |
 | 189 | Tamika Raymond | 311 |
