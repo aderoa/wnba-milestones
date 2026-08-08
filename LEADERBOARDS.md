@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-08 03:24 UTC_
+_Last updated: 2026-08-08 03:25 UTC_
 
 ## Contents
 
@@ -192,8 +192,8 @@ _Last updated: 2026-08-08 03:24 UTC_
 | 171 | Roneeka Hodges | 1,925 |
 | 172 | Latasha Byears | 1,920 |
 | 173 | Karima Christmas-Kelly | 1,919 |
+| 174 | **Gabby Williams** 🔴 +19 | 1,918 |
 | 174 | Jessica Breland | 1,918 |
-| 175 | **Gabby Williams** 🔴 +17 | 1,916 |
 | 176 | Nakia Sanford | 1,915 |
 | 177 | Ebony Hoffman | 1,909 |
 | 178 | Candice Wiggins | 1,901 |
@@ -403,8 +403,8 @@ _Last updated: 2026-08-08 03:24 UTC_
 | 176 | **Odyssey Sims** 🔴 +1 | 786 |
 | 178 | Sue Wicks | 780 |
 | 179 | Lindsey Harding | 779 |
+| 180 | **Arike Ogunbowale** 🔴 +3 | 778 |
 | 180 | Tiffani Johnson | 778 |
-| 181 | **Arike Ogunbowale** 🔴 +2 | 777 |
 | 182 | Teresa Weatherspoon | 775 |
 | 183 | Anna DeForge | 769 |
 | 183 | Kelsey Bone | 769 |
@@ -538,7 +538,7 @@ _Last updated: 2026-08-08 03:24 UTC_
 | 106 | Betnijah Laney-Hamilton | 590 |
 | 106 | Camille Smith | 590 |
 | 108 | Armintie Herrington | 589 |
-| 109 | **Veronica Burton** 🔴 +6 | 585 |
+| 109 | **Veronica Burton** 🔴 +7 | 586 |
 | 110 | Tan White | 578 |
 | 111 | Matee Ajavon | 577 |
 | 112 | Napheesa Collier | 570 |
@@ -1352,8 +1352,8 @@ _Last updated: 2026-08-08 03:24 UTC_
 | 96 | Sabrina Ionescu | 533 |
 | 97 | Jordin Canada | 532 |
 | 97 | Mwadi Mabika | 532 |
+| 99 | **Arike Ogunbowale** 🔴 +2 | 531 |
 | 99 | Nakia Sanford | 531 |
-| 100 | **Arike Ogunbowale** 🔴 +1 | 530 |
 | 101 | Maya Moore | 527 |
 | 102 | Kara Lawson | 526 |
 | 103 | Leilani Mitchell | 525 |
@@ -1580,7 +1580,7 @@ _Last updated: 2026-08-08 03:24 UTC_
 | 119 | Svetlana Abrosimova | 613 |
 | 120 | **Odyssey Sims** 🔴 +2 | 612 |
 | 121 | Layshia Clarendon | 609 |
-| 122 | **Arike Ogunbowale** 🔴 +1 | 605 |
+| 122 | **Arike Ogunbowale** 🔴 +2 | 606 |
 | 123 | Tiffany Mitchell | 604 |
 | 124 | Janel McCarville | 597 |
 | 125 | Kamila Vodichkova | 596 |
