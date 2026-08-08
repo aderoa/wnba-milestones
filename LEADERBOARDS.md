@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-08 00:02 UTC_
+_Last updated: 2026-08-08 00:03 UTC_
 
 ## Contents
 
@@ -21,7 +21,7 @@ _Last updated: 2026-08-08 00:02 UTC_
 |-----:|--------|------:|
 | 1 | Diana Taurasi | 10,608 |
 | 2 | Tina Charles | 8,396 |
-| 3 | **DeWanna Bonner** 🔴 +2 | 7,974 |
+| 3 | **DeWanna Bonner** 🔴 +4 | 7,976 |
 | 4 | Nneka Ogwumike | 7,563 |
 | 5 | Tina Thompson | 7,470 |
 | 6 | Tamika Catchings | 7,371 |
@@ -216,7 +216,7 @@ _Last updated: 2026-08-08 00:02 UTC_
 | 195 | Monique Billings | 1,612 |
 | 196 | Janell Burse | 1,580 |
 | 197 | Le'coe Willingham | 1,552 |
-| 198 | Shatori Walker-Kimbrough | 1,544 |
+| 198 | **Shatori Walker-Kimbrough** 🔴 | 1,544 |
 | 199 | Rebecca Allen | 1,529 |
 | 200 | Jennifer Lacy | 1,504 |
 
@@ -231,7 +231,7 @@ _Last updated: 2026-08-08 00:02 UTC_
 | 5 | Rebekkah Brunson | 3,345 |
 | 6 | Tamika Catchings | 3,313 |
 | 7 | Lisa Leslie | 3,303 |
-| 8 | **DeWanna Bonner** 🔴 +2 | 3,292 |
+| 8 | **DeWanna Bonner** 🔴 +4 | 3,294 |
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
@@ -305,7 +305,7 @@ _Last updated: 2026-08-08 00:02 UTC_
 | 79 | Sheri Sam | 1,356 |
 | 80 | Tamika Whitmore | 1,355 |
 | 81 | Emma Meesseman | 1,350 |
-| 82 | **Brionna Jones** 🔴 +3 | 1,336 |
+| 82 | **Brionna Jones** 🔴 +4 | 1,337 |
 | 83 | Elena Baranova | 1,335 |
 | 84 | Erlana Larkins | 1,329 |
 | 85 | Mwadi Mabika | 1,327 |
@@ -383,7 +383,7 @@ _Last updated: 2026-08-08 00:02 UTC_
 | 157 | Marina Mabrey | 874 |
 | 158 | Shameka Christon | 867 |
 | 159 | Krystal Thomas | 862 |
-| 160 | **Naz Hillmon** 🔴 +1 | 860 |
+| 160 | **Naz Hillmon** 🔴 +2 | 861 |
 | 161 | Leilani Mitchell | 845 |
 | 162 | **Shakira Austin** 🔴 +7 | 839 |
 | 163 | Essence Carson | 833 |
@@ -519,7 +519,7 @@ _Last updated: 2026-08-08 00:02 UTC_
 | 87 | Natisha Hiedeman | 668 |
 | 88 | A'ja Wilson | 667 |
 | 89 | Bria Hartley | 661 |
-| 90 | **Brittney Griner** 🔴 | 660 |
+| 89 | **Brittney Griner** 🔴 +1 | 661 |
 | 91 | Lindsay Allen | 657 |
 | 92 | Betty Lennox | 651 |
 | 92 | Plenette Pierson | 651 |
@@ -791,7 +791,7 @@ _Last updated: 2026-08-08 00:02 UTC_
 | 151 | Kristin Folkl | 85 |
 | 155 | Charde Houston | 84 |
 | 155 | Marina Mabrey | 84 |
-| 155 | Shatori Walker-Kimbrough | 84 |
+| 155 | **Shatori Walker-Kimbrough** 🔴 | 84 |
 | 158 | Tamera Young | 83 |
 | 159 | Cameron Brink | 82 |
 | 159 | Damiris Dantas | 82 |
@@ -1012,7 +1012,7 @@ _Last updated: 2026-08-08 00:02 UTC_
 | 167 | Jessica Breland | 204 |
 | 167 | Murriel Page | 204 |
 | 167 | Natisha Hiedeman | 204 |
-| 167 | Shatori Walker-Kimbrough | 204 |
+| 167 | **Shatori Walker-Kimbrough** 🔴 | 204 |
 | 171 | Adrienne Goodson | 203 |
 | 172 | Allie Quigley | 198 |
 | 173 | Layshia Clarendon | 195 |
@@ -1173,7 +1173,7 @@ _Last updated: 2026-08-08 00:02 UTC_
 | 122 | Camille Smith | 179 |
 | 124 | Swin Cash | 176 |
 | 125 | Nikki McCray | 175 |
-| 126 | Shatori Walker-Kimbrough | 174 |
+| 126 | **Shatori Walker-Kimbrough** 🔴 | 174 |
 | 126 | Tayler Hill | 174 |
 | 128 | Theresa Plaisance | 172 |
 | 129 | Amanda Lassiter | 170 |
@@ -1573,7 +1573,7 @@ _Last updated: 2026-08-08 00:02 UTC_
 | 112 | Jennifer Gillom | 629 |
 | 112 | Kelsey Mitchell | 629 |
 | 114 | Deanna Nolan | 628 |
-| 115 | **Brionna Jones** 🔴 | 625 |
+| 115 | **Brionna Jones** 🔴 +1 | 626 |
 | 116 | Courtney Paris | 617 |
 | 117 | Coco Miller | 615 |
 | 118 | Brooke Wyckoff | 614 |
