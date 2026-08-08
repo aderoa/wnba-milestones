@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-08 17:18 UTC_
+_Last updated: 2026-08-08 17:19 UTC_
 
 ## Contents
 
@@ -33,7 +33,7 @@ _Last updated: 2026-08-08 17:18 UTC_
 | 12 | Sylvia Fowles | 6,413 |
 | 13 | Breanna Stewart | 6,335 |
 | 14 | Lisa Leslie | 6,251 |
-| 15 | **A'ja Wilson** 🔴 | 6,178 |
+| 15 | **A'ja Wilson** 🔴 +2 | 6,180 |
 | 16 | **Jewell Loyd** 🔴 +2 | 6,150 |
 | 17 | Brittney Griner | 6,087 |
 | 18 | Lauren Jackson | 6,005 |
@@ -41,7 +41,7 @@ _Last updated: 2026-08-08 17:18 UTC_
 | 20 | Becky Hammon | 5,816 |
 | 21 | Angel McCoughtry | 5,797 |
 | 22 | Skylar Diggins | 5,732 |
-| 23 | **Kayla McBride** 🔴 +6 | 5,656 |
+| 23 | **Kayla McBride** 🔴 +9 | 5,659 |
 | 24 | DeLisha Milton-Jones | 5,571 |
 | 25 | Katie Douglas | 5,545 |
 | 26 | Lindsay Whalen | 5,511 |
@@ -461,7 +461,7 @@ _Last updated: 2026-08-08 17:18 UTC_
 | 29 | Vickie Johnson | 1,202 |
 | 30 | Leilani Mitchell | 1,197 |
 | 31 | DeWanna Bonner | 1,196 |
-| 32 | **Jewell Loyd** 🔴 | 1,156 |
+| 32 | **Jewell Loyd** 🔴 +1 | 1,157 |
 | 33 | **Jackie Young** 🔴 | 1,150 |
 | 34 | Renee Montgomery | 1,140 |
 | 35 | Swin Cash | 1,131 |
@@ -529,7 +529,7 @@ _Last updated: 2026-08-08 17:18 UTC_
 | 97 | Jennifer Azzi | 636 |
 | 98 | Sami Whitcomb | 623 |
 | 99 | Alysha Clark | 619 |
-| 100 | **Natasha Howard** 🔴 +2 | 617 |
+| 100 | **Natasha Howard** 🔴 +3 | 618 |
 | 101 | Debbie Black | 612 |
 | 102 | Cynthia Cooper | 602 |
 | 103 | Sancho Lyttle | 592 |
@@ -870,7 +870,7 @@ _Last updated: 2026-08-08 17:18 UTC_
 | 25 | Becky Hammon | 485 |
 | 26 | Penny Taylor | 479 |
 | 27 | Sophia Young-Malcolm | 477 |
-| 28 | **Natasha Howard** 🔴 | 467 |
+| 28 | **Natasha Howard** 🔴 +1 | 468 |
 | 29 | Skylar Diggins | 463 |
 | 29 | Teresa Weatherspoon | 463 |
 | 31 | **Chelsea Gray** 🔴 +1 | 458 |
@@ -1052,7 +1052,7 @@ _Last updated: 2026-08-08 17:18 UTC_
 | 2 | Sue Bird | 1,001 |
 | 3 | Katie Smith | 906 |
 | 4 | Becky Hammon | 825 |
-| 5 | **Kayla McBride** 🔴 +2 | 758 |
+| 5 | **Kayla McBride** 🔴 +3 | 759 |
 | 6 | Tina Thompson | 745 |
 | 7 | Katie Douglas | 723 |
 | 8 | Kelsey Mitchell | 712 |
@@ -1278,7 +1278,7 @@ _Last updated: 2026-08-08 17:18 UTC_
 | 23 | Taj McWilliams-Franklin | 898 |
 | 24 | Candice Dupree | 869 |
 | 25 | Alana Beard | 854 |
-| 26 | **Natasha Howard** 🔴 | 843 |
+| 26 | **Natasha Howard** 🔴 +1 | 844 |
 | 27 | DeWanna Bonner | 840 |
 | 28 | Katie Douglas | 824 |
 | 29 | Nneka Ogwumike | 803 |
@@ -1375,7 +1375,7 @@ _Last updated: 2026-08-08 17:18 UTC_
 | 120 | Elaine Powell | 469 |
 | 121 | Allie Quigley | 467 |
 | 122 | Ariel Atkins | 465 |
-| 123 | **Jackie Young** 🔴 | 463 |
+| 123 | **Jackie Young** 🔴 +1 | 464 |
 | 124 | Betnijah Laney-Hamilton | 456 |
 | 125 | Kia Vaughn | 454 |
 | 126 | Janeth Arcain | 453 |
@@ -1635,8 +1635,8 @@ _Last updated: 2026-08-08 17:18 UTC_
 | 175 | Adrian Williams-Strong | 497 |
 | 175 | Essence Carson | 497 |
 | 175 | Rachel Banham | 497 |
-| 178 | Azurá Stevens | 495 |
-| 178 | **Nia Coffey** 🔴 | 495 |
+| 178 | **Nia Coffey** 🔴 +1 | 496 |
+| 179 | Azurá Stevens | 495 |
 | 180 | Karima Christmas-Kelly | 494 |
 | 181 | Ann Wauters | 493 |
 | 181 | Riquna Williams | 493 |
