@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-08 00:21 UTC_
+_Last updated: 2026-08-08 00:22 UTC_
 
 ## Contents
 
@@ -295,8 +295,8 @@ _Last updated: 2026-08-08 00:21 UTC_
 | 69 | Monique Billings | 1,431 |
 | 70 | Alana Beard | 1,420 |
 | 71 | Nakia Sanford | 1,419 |
+| 72 | **Allisha Gray** 🔴 +4 | 1,408 |
 | 72 | Kayla Thornton | 1,408 |
-| 73 | **Allisha Gray** 🔴 +3 | 1,407 |
 | 74 | Kara Braxton | 1,387 |
 | 75 | Courtney Vandersloot | 1,386 |
 | 76 | Katie Smith | 1,383 |
@@ -385,7 +385,7 @@ _Last updated: 2026-08-08 00:21 UTC_
 | 159 | Krystal Thomas | 862 |
 | 159 | **Naz Hillmon** 🔴 +3 | 862 |
 | 161 | Leilani Mitchell | 845 |
-| 162 | **Shakira Austin** 🔴 +7 | 839 |
+| 162 | **Shakira Austin** 🔴 +8 | 840 |
 | 163 | Essence Carson | 833 |
 | 164 | Gabby Williams | 831 |
 | 165 | Kristi Toliver | 829 |
@@ -1542,9 +1542,9 @@ _Last updated: 2026-08-08 00:21 UTC_
 | 81 | Jia Perkins | 711 |
 | 82 | Helen Darling | 709 |
 | 83 | Brittney Sykes | 701 |
+| 83 | **Kelsey Plum** 🔴 +2 | 701 |
 | 83 | Matee Ajavon | 701 |
 | 83 | Nicole Powell | 701 |
-| 86 | **Kelsey Plum** 🔴 +1 | 700 |
 | 87 | Tan White | 698 |
 | 88 | Katie Douglas | 697 |
 | 89 | Danielle Robinson | 692 |
