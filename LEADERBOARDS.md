@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-08 02:23 UTC_
+_Last updated: 2026-08-08 02:24 UTC_
 
 ## Contents
 
@@ -195,7 +195,7 @@ _Last updated: 2026-08-08 02:23 UTC_
 | 174 | Jessica Breland | 1,918 |
 | 175 | Nakia Sanford | 1,915 |
 | 176 | Ebony Hoffman | 1,909 |
-| 177 | **Gabby Williams** 🔴 +4 | 1,903 |
+| 177 | **Gabby Williams** 🔴 +5 | 1,904 |
 | 178 | Candice Wiggins | 1,901 |
 | 179 | NaLyssa Smith | 1,879 |
 | 180 | Rachel Banham | 1,843 |
@@ -387,7 +387,7 @@ _Last updated: 2026-08-08 02:23 UTC_
 | 161 | Leilani Mitchell | 845 |
 | 162 | Shakira Austin | 843 |
 | 163 | Essence Carson | 833 |
-| 164 | **Gabby Williams** 🔴 | 831 |
+| 164 | **Gabby Williams** 🔴 +1 | 832 |
 | 165 | Kristi Toliver | 829 |
 | 166 | Marie Ferdinand-Harris | 828 |
 | 167 | Marlies Askamp | 822 |
@@ -457,7 +457,7 @@ _Last updated: 2026-08-08 02:23 UTC_
 | 25 | Kelsey Plum | 1,273 |
 | 26 | Jordin Canada | 1,269 |
 | 27 | Katie Smith | 1,258 |
-| 28 | **Odyssey Sims** 🔴 +2 | 1,230 |
+| 28 | **Odyssey Sims** 🔴 +3 | 1,231 |
 | 29 | Vickie Johnson | 1,202 |
 | 30 | DeWanna Bonner | 1,198 |
 | 31 | Leilani Mitchell | 1,197 |
