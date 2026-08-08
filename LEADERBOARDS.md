@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-08 00:58 UTC_
+_Last updated: 2026-08-08 00:59 UTC_
 
 ## Contents
 
@@ -748,7 +748,7 @@ _Last updated: 2026-08-08 00:58 UTC_
 | 110 | Crystal Langhorne | 117 |
 | 112 | Ariel Atkins | 115 |
 | 113 | Monique Currie | 114 |
-| 114 | **Rhyne Howard** 🔴 +1 | 112 |
+| 114 | **Rhyne Howard** 🔴 +2 | 113 |
 | 115 | Amanda Lassiter | 111 |
 | 115 | Kamila Vodichkova | 111 |
 | 115 | Sophia Young-Malcolm | 111 |
@@ -1350,9 +1350,9 @@ _Last updated: 2026-08-08 00:58 UTC_
 | 94 | Ivory Latta | 534 |
 | 94 | Iziane Castro Marques | 534 |
 | 96 | Sabrina Ionescu | 533 |
+| 97 | **Jordin Canada** 🔴 +5 | 532 |
 | 97 | Mwadi Mabika | 532 |
-| 98 | **Jordin Canada** 🔴 +4 | 531 |
-| 98 | Nakia Sanford | 531 |
+| 99 | Nakia Sanford | 531 |
 | 100 | Arike Ogunbowale | 529 |
 | 101 | Maya Moore | 527 |
 | 102 | Kara Lawson | 526 |
