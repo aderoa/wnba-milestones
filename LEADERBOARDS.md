@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-08 01:31 UTC_
+_Last updated: 2026-08-08 01:32 UTC_
 
 ## Contents
 
@@ -60,8 +60,8 @@ _Last updated: 2026-08-08 01:31 UTC_
 | 39 | Natasha Howard | 4,682 |
 | 40 | Chelsea Gray | 4,625 |
 | 41 | Penny Taylor | 4,595 |
-| 42 | **Allisha Gray** 🔴 +24 | 4,515 |
-| 43 | **Kelsey Plum** 🔴 +20 | 4,514 |
+| 42 | **Kelsey Plum** 🔴 +23 | 4,517 |
+| 43 | **Allisha Gray** 🔴 +24 | 4,515 |
 | 44 | Kristi Toliver | 4,474 |
 | 45 | **Kahleah Copper** 🔴 +14 | 4,451 |
 | 46 | Crystal Langhorne | 4,433 |
@@ -748,7 +748,7 @@ _Last updated: 2026-08-08 01:31 UTC_
 | 110 | Crystal Langhorne | 117 |
 | 112 | Ariel Atkins | 115 |
 | 113 | Monique Currie | 114 |
-| 114 | **Rhyne Howard** 🔴 +2 | 113 |
+| 113 | **Rhyne Howard** 🔴 +3 | 114 |
 | 115 | Amanda Lassiter | 111 |
 | 115 | Kamila Vodichkova | 111 |
 | 115 | Sophia Young-Malcolm | 111 |
@@ -1059,7 +1059,7 @@ _Last updated: 2026-08-08 01:31 UTC_
 | 9 | Jewell Loyd | 695 |
 | 10 | **DeWanna Bonner** 🔴 | 682 |
 | 11 | Kristi Toliver | 651 |
-| 12 | **Kelsey Plum** 🔴 +2 | 621 |
+| 12 | **Kelsey Plum** 🔴 +3 | 622 |
 | 13 | Tamika Catchings | 605 |
 | 14 | Kara Lawson | 583 |
 | 15 | Arike Ogunbowale | 581 |
@@ -1220,9 +1220,9 @@ _Last updated: 2026-08-08 01:31 UTC_
 | 169 | Leonie Fiebich | 129 |
 | 171 | **Jordin Canada** 🔴 | 128 |
 | 171 | Ticha Penicheiro | 128 |
+| 173 | **Kennedy Burke** 🔴 +2 | 127 |
 | 173 | Michele Timms | 127 |
-| 174 | **Kennedy Burke** 🔴 +1 | 126 |
-| 174 | Tamecka Dixon | 126 |
+| 175 | Tamecka Dixon | 126 |
 | 176 | Lexie Hull | 125 |
 | 177 | Charde Houston | 124 |
 | 177 | Veronica Burton | 124 |
@@ -1573,7 +1573,7 @@ _Last updated: 2026-08-08 01:31 UTC_
 | 112 | Jennifer Gillom | 629 |
 | 112 | Kelsey Mitchell | 629 |
 | 114 | Deanna Nolan | 628 |
-| 115 | **Brionna Jones** 🔴 +1 | 626 |
+| 115 | **Brionna Jones** 🔴 +2 | 627 |
 | 116 | Courtney Paris | 617 |
 | 117 | Coco Miller | 615 |
 | 118 | Brooke Wyckoff | 614 |
