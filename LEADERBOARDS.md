@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-08 20:55 UTC_
+_Last updated: 2026-08-08 20:56 UTC_
 
 ## Contents
 
@@ -1609,7 +1609,7 @@ _Last updated: 2026-08-08 20:55 UTC_
 | 147 | Renee Montgomery | 543 |
 | 149 | Marissa Coleman | 541 |
 | 150 | **Sophie Cunningham** 🔴 | 538 |
-| 151 | **Myisha Hines-Allen** 🔴 | 535 |
+| 151 | **Myisha Hines-Allen** 🔴 +2 | 537 |
 | 152 | Damiris Dantas | 533 |
 | 152 | Kristen Rasmussen | 533 |
 | 154 | Amanda Zahui B | 530 |
