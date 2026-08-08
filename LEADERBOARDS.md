@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-08 17:23 UTC_
+_Last updated: 2026-08-08 17:24 UTC_
 
 ## Contents
 
@@ -873,13 +873,13 @@ _Last updated: 2026-08-08 17:23 UTC_
 | 28 | **Natasha Howard** 🔴 +1 | 468 |
 | 29 | Skylar Diggins | 463 |
 | 29 | Teresa Weatherspoon | 463 |
-| 31 | **Chelsea Gray** 🔴 +1 | 458 |
 | 31 | **Jewell Loyd** 🔴 | 458 |
+| 32 | **Chelsea Gray** 🔴 | 457 |
 | 33 | Rebekkah Brunson | 456 |
 | 34 | Tangela Smith | 455 |
 | 35 | Tina Thompson | 452 |
 | 36 | Maya Moore | 449 |
-| 37 | **Kayla McBride** 🔴 +1 | 447 |
+| 37 | **Kayla McBride** 🔴 | 446 |
 | 38 | Sheri Sam | 438 |
 | 39 | Camille Smith | 437 |
 | 40 | Breanna Stewart | 435 |
@@ -1273,7 +1273,7 @@ _Last updated: 2026-08-08 17:23 UTC_
 | 18 | Cappie Pondexter | 945 |
 | 19 | Katie Smith | 935 |
 | 20 | Shannon Johnson | 934 |
-| 21 | **Chelsea Gray** 🔴 +1 | 928 |
+| 21 | **Chelsea Gray** 🔴 | 927 |
 | 22 | Skylar Diggins | 907 |
 | 23 | Taj McWilliams-Franklin | 898 |
 | 24 | Candice Dupree | 869 |
@@ -1315,8 +1315,8 @@ _Last updated: 2026-08-08 17:23 UTC_
 | 60 | Vickie Johnson | 660 |
 | 61 | Yolanda Griffith | 653 |
 | 62 | Sheri Sam | 650 |
-| 63 | **Kayla McBride** 🔴 +1 | 649 |
-| 64 | Kelsey Plum | 648 |
+| 63 | **Kayla McBride** 🔴 | 648 |
+| 63 | Kelsey Plum | 648 |
 | 65 | Dawn Staley | 643 |
 | 66 | Jonquel Jones | 641 |
 | 67 | Ruth Riley | 637 |
