@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-08 01:49 UTC_
+_Last updated: 2026-08-08 01:50 UTC_
 
 ## Contents
 
@@ -61,7 +61,7 @@ _Last updated: 2026-08-08 01:49 UTC_
 | 40 | Chelsea Gray | 4,625 |
 | 41 | Penny Taylor | 4,595 |
 | 42 | Kelsey Plum | 4,519 |
-| 43 | **Allisha Gray** 🔴 +24 | 4,515 |
+| 43 | **Allisha Gray** 🔴 +26 | 4,517 |
 | 44 | Kristi Toliver | 4,474 |
 | 45 | Kahleah Copper | 4,453 |
 | 46 | Crystal Langhorne | 4,433 |
@@ -86,7 +86,7 @@ _Last updated: 2026-08-08 01:49 UTC_
 | 65 | Jackie Young | 3,698 |
 | 66 | Kara Lawson | 3,670 |
 | 67 | Mwadi Mabika | 3,576 |
-| 68 | **Odyssey Sims** 🔴 | 3,574 |
+| 68 | **Odyssey Sims** 🔴 +1 | 3,575 |
 | 69 | Camille Smith | 3,551 |
 | 70 | Napheesa Collier | 3,542 |
 | 70 | Shannon Johnson | 3,542 |
@@ -798,7 +798,7 @@ _Last updated: 2026-08-08 01:49 UTC_
 | 161 | Charlotte Smith | 81 |
 | 161 | Cintia dos Santos | 81 |
 | 161 | Jessie Hicks | 81 |
-| 164 | Awak Kuier | 80 |
+| 164 | **Awak Kuier** 🔴 | 80 |
 | 164 | Nykesha Sales | 80 |
 | 164 | Rushia Brown | 80 |
 | 167 | Stephanie Talbot | 79 |
