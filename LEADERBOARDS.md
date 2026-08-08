@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-08 00:47 UTC_
+_Last updated: 2026-08-08 00:48 UTC_
 
 ## Contents
 
@@ -739,8 +739,8 @@ _Last updated: 2026-08-08 00:47 UTC_
 | 102 | **Brionna Jones** 🔴 | 125 |
 | 103 | Kamilla Cardoso | 124 |
 | 104 | **Natasha Mack** 🔴 | 123 |
-| 105 | Natalie Williams | 122 |
-| 105 | **Shakira Austin** 🔴 +3 | 122 |
+| 104 | **Shakira Austin** 🔴 +4 | 123 |
+| 106 | Natalie Williams | 122 |
 | 107 | Ebony Hoffman | 121 |
 | 107 | Essence Carson | 121 |
 | 109 | Krystal Thomas | 118 |
@@ -1489,7 +1489,7 @@ _Last updated: 2026-08-08 00:47 UTC_
 | 28 | Yolanda Griffith | 991 |
 | 29 | Lauren Jackson | 982 |
 | 30 | Nakia Sanford | 979 |
-| 31 | **Alyssa Thomas** 🔴 +1 | 973 |
+| 31 | **Alyssa Thomas** 🔴 +2 | 974 |
 | 32 | Asjha Jones | 971 |
 | 33 | Margo Dydek | 950 |
 | 34 | Sancho Lyttle | 947 |
@@ -1541,10 +1541,10 @@ _Last updated: 2026-08-08 00:47 UTC_
 | 80 | Cheryl Ford | 713 |
 | 81 | Jia Perkins | 711 |
 | 82 | Helen Darling | 709 |
-| 83 | **Kelsey Plum** 🔴 +3 | 702 |
-| 84 | Brittney Sykes | 701 |
-| 84 | Matee Ajavon | 701 |
-| 84 | Nicole Powell | 701 |
+| 83 | Brittney Sykes | 701 |
+| 83 | **Kelsey Plum** 🔴 +2 | 701 |
+| 83 | Matee Ajavon | 701 |
+| 83 | Nicole Powell | 701 |
 | 87 | Tan White | 698 |
 | 88 | Katie Douglas | 697 |
 | 89 | Danielle Robinson | 692 |
