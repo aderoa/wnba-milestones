@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-08-08T02:27:00+00:00",
+    "text": "Kayla Thornton passed Suzie McConnell Serio for #182 all-time in assists (career 371) \u2014 up from #184 entering today \u2014 (57.6 - 2nd \u2014 GS @ DAL)",
+    "kind": "rank_pass",
+    "player": "Kayla Thornton",
+    "stat": "assists",
+    "rank": 182,
+    "passed_players": [
+      "Suzie McConnell Serio"
+    ],
+    "new_total": 371
+  },
+  {
     "ts": "2026-08-08T01:42:00+00:00",
     "text": "Brionna Jones passed Deanna Nolan for #114 all-time in fouls (career 629) \u2014 up from #115 entering today \u2014 (1:33 - 4th \u2014 ATL @ WSH)",
     "kind": "rank_pass",
@@ -2981,20 +2993,5 @@
       "Jennifer Lacy"
     ],
     "new_total": 306
-  },
-  {
-    "ts": "2026-07-04T02:06:00+00:00",
-    "text": "Jackie Young passed Cappie Pondexter, Christi Thomas, Olympia Scott, and Sue Bird for #185 all-time in blocks (career 73) \u2014 up from #187 entering today \u2014 (9:21 - 1st \u2014 CHI @ LV)",
-    "kind": "rank_pass",
-    "player": "Jackie Young",
-    "stat": "blocks",
-    "rank": 185,
-    "passed_players": [
-      "Cappie Pondexter",
-      "Christi Thomas",
-      "Olympia Scott",
-      "Sue Bird"
-    ],
-    "new_total": 73
   }
 ]
