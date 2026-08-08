@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-08 01:36 UTC_
+_Last updated: 2026-08-08 01:37 UTC_
 
 ## Contents
 
@@ -63,7 +63,7 @@ _Last updated: 2026-08-08 01:36 UTC_
 | 42 | **Kelsey Plum** 🔴 +23 | 4,517 |
 | 43 | **Allisha Gray** 🔴 +24 | 4,515 |
 | 44 | Kristi Toliver | 4,474 |
-| 45 | **Kahleah Copper** 🔴 +14 | 4,451 |
+| 45 | **Kahleah Copper** 🔴 +16 | 4,453 |
 | 46 | Crystal Langhorne | 4,433 |
 | 46 | Jia Perkins | 4,433 |
 | 48 | Courtney Vandersloot | 4,362 |
@@ -129,7 +129,7 @@ _Last updated: 2026-08-08 01:36 UTC_
 | 108 | Ticha Penicheiro | 2,729 |
 | 109 | Adrienne Goodson | 2,705 |
 | 110 | Riquna Williams | 2,659 |
-| 111 | **Rhyne Howard** 🔴 +16 | 2,653 |
+| 111 | **Rhyne Howard** 🔴 +18 | 2,655 |
 | 112 | Essence Carson | 2,647 |
 | 112 | Lindsey Harding | 2,647 |
 | 114 | Cheyenne Parker-Tyus | 2,645 |
@@ -346,7 +346,7 @@ _Last updated: 2026-08-08 01:36 UTC_
 | 120 | Jackie Young | 1,085 |
 | 121 | Svetlana Abrosimova | 1,078 |
 | 122 | Le'coe Willingham | 1,054 |
-| 123 | **Angel Reese** 🔴 +13 | 1,048 |
+| 123 | **Angel Reese** 🔴 +14 | 1,049 |
 | 124 | Nicole Ohlde | 1,040 |
 | 125 | Tamecka Dixon | 1,035 |
 | 126 | Kamila Vodichkova | 1,031 |
@@ -436,7 +436,7 @@ _Last updated: 2026-08-08 01:36 UTC_
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
 | 6 | Chelsea Gray | 2,003 |
-| 7 | **Alyssa Thomas** 🔴 +4 | 1,975 |
+| 7 | **Alyssa Thomas** 🔴 +5 | 1,976 |
 | 8 | Skylar Diggins | 1,852 |
 | 9 | Natasha Cloud | 1,802 |
 | 10 | Becky Hammon | 1,705 |
@@ -987,11 +987,11 @@ _Last updated: 2026-08-08 01:36 UTC_
 | 142 | Wendy Palmer | 226 |
 | 143 | Alexis Hornbuckle | 225 |
 | 144 | Cheryl Ford | 224 |
+| 145 | **Kahleah Copper** 🔴 +2 | 221 |
 | 145 | Marina Mabrey | 221 |
 | 145 | Rushia Brown | 221 |
-| 147 | DeMya Walker | 220 |
-| 147 | Jennifer Gillom | 220 |
-| 147 | **Kahleah Copper** 🔴 +1 | 220 |
+| 148 | DeMya Walker | 220 |
+| 148 | Jennifer Gillom | 220 |
 | 150 | Allison Feaster | 219 |
 | 151 | Cheyenne Parker-Tyus | 217 |
 | 151 | Shenise Johnson | 217 |
