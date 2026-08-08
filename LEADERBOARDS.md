@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-08 01:46 UTC_
+_Last updated: 2026-08-08 01:47 UTC_
 
 ## Contents
 
@@ -259,7 +259,7 @@ _Last updated: 2026-08-08 01:46 UTC_
 | 33 | Elizabeth Williams | 1,978 |
 | 34 | Cheryl Ford | 1,907 |
 | 35 | Courtney Williams | 1,843 |
-| 36 | **Kiah Stokes** 🔴 +1 | 1,836 |
+| 36 | **Kiah Stokes** 🔴 +2 | 1,837 |
 | 37 | Plenette Pierson | 1,834 |
 | 38 | Natalie Williams | 1,832 |
 | 39 | Wendy Palmer | 1,824 |
@@ -296,7 +296,7 @@ _Last updated: 2026-08-08 01:46 UTC_
 | 70 | Alana Beard | 1,420 |
 | 71 | Nakia Sanford | 1,419 |
 | 72 | **Allisha Gray** 🔴 +6 | 1,410 |
-| 73 | **Kayla Thornton** 🔴 +1 | 1,409 |
+| 72 | **Kayla Thornton** 🔴 +2 | 1,410 |
 | 74 | Kara Braxton | 1,387 |
 | 75 | Courtney Vandersloot | 1,386 |
 | 76 | Katie Smith | 1,383 |
@@ -305,7 +305,7 @@ _Last updated: 2026-08-08 01:46 UTC_
 | 79 | Sheri Sam | 1,356 |
 | 80 | Tamika Whitmore | 1,355 |
 | 81 | Emma Meesseman | 1,350 |
-| 82 | **Brionna Jones** 🔴 +5 | 1,338 |
+| 82 | **Brionna Jones** 🔴 +6 | 1,339 |
 | 83 | Elena Baranova | 1,335 |
 | 84 | Erlana Larkins | 1,329 |
 | 85 | Mwadi Mabika | 1,327 |
@@ -532,9 +532,9 @@ _Last updated: 2026-08-08 01:46 UTC_
 | 100 | Natasha Howard | 615 |
 | 101 | Debbie Black | 612 |
 | 102 | Cynthia Cooper | 602 |
+| 103 | **Gabby Williams** 🔴 +1 | 592 |
 | 103 | Sancho Lyttle | 592 |
-| 104 | Caitlin Clark | 591 |
-| 104 | **Gabby Williams** 🔴 | 591 |
+| 105 | Caitlin Clark | 591 |
 | 106 | Betnijah Laney-Hamilton | 590 |
 | 106 | Camille Smith | 590 |
 | 108 | Armintie Herrington | 589 |
@@ -612,8 +612,8 @@ _Last updated: 2026-08-08 01:46 UTC_
 | 180 | Shenise Johnson | 376 |
 | 181 | **Alanna Smith** 🔴 | 374 |
 | 182 | Suzie McConnell Serio | 370 |
-| 183 | Damiris Dantas | 368 |
-| 183 | **Kayla Thornton** 🔴 | 368 |
+| 183 | **Kayla Thornton** 🔴 +1 | 369 |
+| 184 | Damiris Dantas | 368 |
 | 185 | Roneeka Hodges | 362 |
 | 186 | Andrea Nagy | 361 |
 | 186 | Diamond DeShields | 361 |
@@ -1224,8 +1224,8 @@ _Last updated: 2026-08-08 01:46 UTC_
 | 173 | Michele Timms | 127 |
 | 175 | Tamecka Dixon | 126 |
 | 176 | Lexie Hull | 125 |
-| 177 | Charde Houston | 124 |
-| 177 | **Veronica Burton** 🔴 | 124 |
+| 176 | **Veronica Burton** 🔴 +1 | 125 |
+| 178 | Charde Houston | 124 |
 | 179 | Lisa Leslie | 123 |
 | 180 | Sidney Spencer | 122 |
 | 181 | Tonya Edwards | 118 |
@@ -1420,8 +1420,8 @@ _Last updated: 2026-08-08 01:46 UTC_
 | 164 | Vicky Bullett | 359 |
 | 165 | Tiffany Jackson | 354 |
 | 166 | Adrian Williams-Strong | 353 |
+| 167 | **Brionna Jones** 🔴 +3 | 349 |
 | 167 | Candice Wiggins | 349 |
-| 168 | **Brionna Jones** 🔴 +2 | 348 |
 | 169 | Janell Burse | 347 |
 | 170 | Satou Sabally | 345 |
 | 171 | Teaira McCowan | 340 |
