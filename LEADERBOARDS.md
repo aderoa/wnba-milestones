@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-08 01:22 UTC_
+_Last updated: 2026-08-08 01:23 UTC_
 
 ## Contents
 
@@ -63,7 +63,7 @@ _Last updated: 2026-08-08 01:22 UTC_
 | 42 | **Allisha Gray** 🔴 +22 | 4,513 |
 | 43 | **Kelsey Plum** 🔴 +16 | 4,510 |
 | 44 | Kristi Toliver | 4,474 |
-| 45 | **Kahleah Copper** 🔴 +13 | 4,450 |
+| 45 | **Kahleah Copper** 🔴 +14 | 4,451 |
 | 46 | Crystal Langhorne | 4,433 |
 | 46 | Jia Perkins | 4,433 |
 | 48 | Courtney Vandersloot | 4,362 |
@@ -129,9 +129,9 @@ _Last updated: 2026-08-08 01:22 UTC_
 | 108 | Ticha Penicheiro | 2,729 |
 | 109 | Adrienne Goodson | 2,705 |
 | 110 | Riquna Williams | 2,659 |
-| 111 | Essence Carson | 2,647 |
-| 111 | Lindsey Harding | 2,647 |
-| 111 | **Rhyne Howard** 🔴 +10 | 2,647 |
+| 111 | **Rhyne Howard** 🔴 +16 | 2,653 |
+| 112 | Essence Carson | 2,647 |
+| 112 | Lindsey Harding | 2,647 |
 | 114 | Cheyenne Parker-Tyus | 2,645 |
 | 115 | Tamera Young | 2,641 |
 | 116 | Liz Cambage | 2,634 |
@@ -295,7 +295,7 @@ _Last updated: 2026-08-08 01:22 UTC_
 | 69 | Monique Billings | 1,431 |
 | 70 | Alana Beard | 1,420 |
 | 71 | Nakia Sanford | 1,419 |
-| 72 | **Allisha Gray** 🔴 +5 | 1,409 |
+| 72 | **Allisha Gray** 🔴 +6 | 1,410 |
 | 73 | Kayla Thornton | 1,408 |
 | 74 | Kara Braxton | 1,387 |
 | 75 | Courtney Vandersloot | 1,386 |
@@ -455,7 +455,7 @@ _Last updated: 2026-08-08 01:22 UTC_
 | 23 | Teresa Weatherspoon | 1,333 |
 | 24 | Kristi Toliver | 1,301 |
 | 25 | **Kelsey Plum** 🔴 +3 | 1,273 |
-| 26 | **Jordin Canada** 🔴 +5 | 1,267 |
+| 26 | **Jordin Canada** 🔴 +6 | 1,268 |
 | 27 | Katie Smith | 1,258 |
 | 28 | Odyssey Sims | 1,228 |
 | 29 | Vickie Johnson | 1,202 |
@@ -503,7 +503,7 @@ _Last updated: 2026-08-08 01:22 UTC_
 | 71 | Marina Mabrey | 801 |
 | 72 | Epiphanny Prince | 800 |
 | 73 | Mwadi Mabika | 774 |
-| 74 | **Allisha Gray** 🔴 | 767 |
+| 74 | **Allisha Gray** 🔴 +1 | 768 |
 | 75 | Sheri Sam | 745 |
 | 76 | Monique Currie | 740 |
 | 77 | Elaine Powell | 728 |
@@ -1083,7 +1083,7 @@ _Last updated: 2026-08-08 01:22 UTC_
 | 33 | Lauren Jackson | 436 |
 | 34 | Shameka Christon | 434 |
 | 35 | Crystal Robinson | 425 |
-| 36 | **Rhyne Howard** 🔴 +2 | 422 |
+| 36 | **Rhyne Howard** 🔴 +4 | 424 |
 | 37 | Mwadi Mabika | 415 |
 | 38 | Penny Taylor | 407 |
 | 38 | Riquna Williams | 407 |
@@ -1489,7 +1489,7 @@ _Last updated: 2026-08-08 01:22 UTC_
 | 28 | Yolanda Griffith | 991 |
 | 29 | Lauren Jackson | 982 |
 | 30 | Nakia Sanford | 979 |
-| 31 | **Alyssa Thomas** 🔴 +3 | 975 |
+| 31 | **Alyssa Thomas** 🔴 +4 | 976 |
 | 32 | Asjha Jones | 971 |
 | 33 | Margo Dydek | 950 |
 | 34 | Sancho Lyttle | 947 |
