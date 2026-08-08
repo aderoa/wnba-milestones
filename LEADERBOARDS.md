@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-08 20:17 UTC_
+_Last updated: 2026-08-08 20:18 UTC_
 
 ## Contents
 
@@ -45,7 +45,7 @@ _Last updated: 2026-08-08 20:17 UTC_
 | 24 | DeLisha Milton-Jones | 5,571 |
 | 25 | Katie Douglas | 5,545 |
 | 26 | Lindsay Whalen | 5,511 |
-| 27 | **Kelsey Mitchell** 🔴 +9 | 5,207 |
+| 27 | **Kelsey Mitchell** 🔴 +10 | 5,208 |
 | 28 | Swin Cash | 5,119 |
 | 29 | Tiffany Hayes | 5,049 |
 | 30 | Tangela Smith | 5,035 |
@@ -1634,10 +1634,10 @@ _Last updated: 2026-08-08 20:17 UTC_
 | 173 | Iziane Castro Marques | 502 |
 | 174 | Elena Baranova | 501 |
 | 175 | Nia Coffey | 498 |
-| 176 | Adrian Williams-Strong | 497 |
-| 176 | **Azurá Stevens** 🔴 +2 | 497 |
-| 176 | Essence Carson | 497 |
-| 176 | **Rachel Banham** 🔴 | 497 |
+| 175 | **Rachel Banham** 🔴 +1 | 498 |
+| 177 | Adrian Williams-Strong | 497 |
+| 177 | **Azurá Stevens** 🔴 +2 | 497 |
+| 177 | Essence Carson | 497 |
 | 180 | Karima Christmas-Kelly | 494 |
 | 181 | Ann Wauters | 493 |
 | 181 | Riquna Williams | 493 |
