@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-08-08T18:40:00+00:00",
+    "text": "Dana Evans passed Tyasha Harris and Ukari Figgs for #133 all-time in three-pointers (career 163) \u2014 up from #136 entering today \u2014 (7:49 - 4th \u2014 LV @ MIN)",
+    "kind": "rank_pass",
+    "player": "Dana Evans",
+    "stat": "three-pointers",
+    "rank": 133,
+    "passed_players": [
+      "Tyasha Harris",
+      "Ukari Figgs"
+    ],
+    "new_total": 163
+  },
+  {
     "ts": "2026-08-08T18:32:00+00:00",
     "text": "Napheesa Collier passed Victoria Vivians for #116 all-time in three-pointers (career 193) \u2014 up from #118 entering today \u2014 (25.5 - 3rd \u2014 LV @ MIN)",
     "kind": "rank_pass",
@@ -2980,17 +2993,5 @@
       "Jewell Loyd"
     ],
     "new_total": 459
-  },
-  {
-    "ts": "2026-07-04T02:43:00+00:00",
-    "text": "Jewell Loyd passed Sandrine Gruda for #141 all-time in blocks (career 95) \u2014 (6:23 - 2nd \u2014 CHI @ LV)",
-    "kind": "rank_pass",
-    "player": "Jewell Loyd",
-    "stat": "blocks",
-    "rank": 141,
-    "passed_players": [
-      "Sandrine Gruda"
-    ],
-    "new_total": 95
   }
 ]
