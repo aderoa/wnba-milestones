@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-08 17:31 UTC_
+_Last updated: 2026-08-08 17:32 UTC_
 
 ## Contents
 
@@ -57,8 +57,8 @@ _Last updated: 2026-08-08 17:31 UTC_
 | 36 | Arike Ogunbowale | 4,715 |
 | 37 | Chamique Holdsclaw | 4,713 |
 | 38 | Elena Delle Donne | 4,706 |
-| 39 | **Natasha Howard** 🔴 +7 | 4,689 |
-| 40 | **Chelsea Gray** 🔴 +5 | 4,630 |
+| 39 | **Natasha Howard** 🔴 +9 | 4,691 |
+| 40 | **Chelsea Gray** 🔴 +7 | 4,632 |
 | 41 | Penny Taylor | 4,595 |
 | 42 | Kelsey Plum | 4,494 |
 | 43 | Allisha Gray | 4,491 |
@@ -249,7 +249,7 @@ _Last updated: 2026-08-08 17:31 UTC_
 | 23 | Lauren Jackson | 2,444 |
 | 24 | Yolanda Griffith | 2,440 |
 | 25 | Tangela Smith | 2,328 |
-| 26 | **Natasha Howard** 🔴 +3 | 2,318 |
+| 26 | **Natasha Howard** 🔴 +4 | 2,319 |
 | 27 | Erika de Souza | 2,220 |
 | 28 | Diana Taurasi | 2,201 |
 | 29 | Margo Dydek | 2,138 |
@@ -301,7 +301,7 @@ _Last updated: 2026-08-08 17:31 UTC_
 | 75 | Courtney Vandersloot | 1,386 |
 | 76 | Katie Smith | 1,383 |
 | 77 | Ebony Hoffman | 1,376 |
-| 78 | **Jewell Loyd** 🔴 | 1,371 |
+| 78 | **Jewell Loyd** 🔴 +1 | 1,372 |
 | 79 | Sheri Sam | 1,356 |
 | 80 | Tamika Whitmore | 1,355 |
 | 81 | Emma Meesseman | 1,350 |
