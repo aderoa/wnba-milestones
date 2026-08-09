@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-09 21:16 UTC_
+_Last updated: 2026-08-09 21:17 UTC_
 
 ## Contents
 
@@ -68,7 +68,7 @@ _Last updated: 2026-08-09 21:16 UTC_
 | 46 | Jia Perkins | 4,433 |
 | 48 | Jonquel Jones | 4,368 |
 | 49 | Courtney Vandersloot | 4,362 |
-| 50 | **Courtney Williams** 🔴 +1 | 4,351 |
+| 50 | **Courtney Williams** 🔴 +3 | 4,353 |
 | 51 | Dearica Hamby | 4,330 |
 | 52 | Sophia Young-Malcolm | 4,300 |
 | 53 | Plenette Pierson | 4,258 |
@@ -249,7 +249,7 @@ _Last updated: 2026-08-09 21:16 UTC_
 | 23 | Lauren Jackson | 2,444 |
 | 24 | Yolanda Griffith | 2,440 |
 | 25 | Tangela Smith | 2,328 |
-| 26 | **Natasha Howard** 🔴 +3 | 2,318 |
+| 26 | **Natasha Howard** 🔴 +4 | 2,319 |
 | 27 | Erika de Souza | 2,220 |
 | 28 | Diana Taurasi | 2,201 |
 | 29 | Margo Dydek | 2,138 |
@@ -1320,7 +1320,7 @@ _Last updated: 2026-08-09 21:16 UTC_
 | 65 | Jonquel Jones | 644 |
 | 66 | Dawn Staley | 643 |
 | 67 | Ruth Riley | 637 |
-| 68 | **Odyssey Sims** 🔴 +2 | 633 |
+| 68 | **Odyssey Sims** 🔴 +3 | 634 |
 | 69 | Svetlana Abrosimova | 631 |
 | 70 | Kahleah Copper | 627 |
 | 71 | Tiffany Hayes | 624 |
