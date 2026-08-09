@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-08-09T21:01:00+00:00",
+    "text": "Arike Ogunbowale passed Mwadi Mabika for #97 all-time in turnovers (career 533) \u2014 up from #99 entering today \u2014 (1:10 - 3rd \u2014 DAL @ MIN)",
+    "kind": "rank_pass",
+    "player": "Arike Ogunbowale",
+    "stat": "turnovers",
+    "rank": 97,
+    "passed_players": [
+      "Mwadi Mabika"
+    ],
+    "new_total": 533
+  },
+  {
     "ts": "2026-08-09T20:49:00+00:00",
     "text": "Lucy Olsen reached 200 career points (now 200) \u2014 (9.7 - 4th \u2014 PHX @ WSH)",
     "kind": "round",
@@ -2978,18 +2990,5 @@
       "Shannon Johnson"
     ],
     "new_total": 1144
-  },
-  {
-    "ts": "2026-07-04T04:02:00+00:00",
-    "text": "Natasha Cloud passed Dominique Canty and Renee Montgomery for #67 all-time in steals (career 357) \u2014 up from #69 entering today \u2014 (59.9 - 4th \u2014 CHI @ LV)",
-    "kind": "rank_pass",
-    "player": "Natasha Cloud",
-    "stat": "steals",
-    "rank": 67,
-    "passed_players": [
-      "Dominique Canty",
-      "Renee Montgomery"
-    ],
-    "new_total": 357
   }
 ]

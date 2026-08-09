@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-08-09 21:01 UTC
+
+- **Arike Ogunbowale** passed **Mwadi Mabika** for **#97** all-time in turnovers (career 533) — up from #99 entering today — _1:10 - 3rd — DAL @ MIN_
+
 ## 2026-08-09 20:49 UTC
 
 - **Lucy Olsen** reached **200** career points (now 200) — _9.7 - 4th — PHX @ WSH_
