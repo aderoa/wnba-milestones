@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-09 18:22 UTC_
+_Last updated: 2026-08-09 18:23 UTC_
 
 ## Contents
 
@@ -421,7 +421,7 @@ _Last updated: 2026-08-09 18:22 UTC_
 | 195 | Sami Whitcomb | 726 |
 | 195 | Shekinna Stricklen | 726 |
 | 197 | Olympia Scott | 711 |
-| 198 | **Rebecca Allen** 🔴 +7 | 709 |
+| 198 | **Rebecca Allen** 🔴 +8 | 710 |
 | 199 | Katie Mattera | 708 |
 | 200 | Rushia Brown | 706 |
 
