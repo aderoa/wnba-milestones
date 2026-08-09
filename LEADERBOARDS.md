@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-09 17:36 UTC_
+_Last updated: 2026-08-09 17:37 UTC_
 
 ## Contents
 
@@ -236,7 +236,7 @@ _Last updated: 2026-08-09 17:36 UTC_
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | Alyssa Thomas | 2,858 |
-| 13 | **Jonquel Jones** 🔴 +6 | 2,734 |
+| 13 | **Jonquel Jones** 🔴 +7 | 2,735 |
 | 14 | A'ja Wilson | 2,657 |
 | 15 | **Breanna Stewart** 🔴 +2 | 2,634 |
 | 16 | Sancho Lyttle | 2,596 |
@@ -319,7 +319,7 @@ _Last updated: 2026-08-09 17:36 UTC_
 | 93 | Chelsea Gray | 1,257 |
 | 93 | Tiffany Hayes | 1,257 |
 | 95 | Kayla McBride | 1,256 |
-| 96 | **Brianna Turner** 🔴 +2 | 1,245 |
+| 96 | **Brianna Turner** 🔴 +1 | 1,244 |
 | 97 | Ezi Magbegor | 1,243 |
 | 98 | Seimone Augustus | 1,228 |
 | 99 | Jia Perkins | 1,220 |
@@ -329,7 +329,7 @@ _Last updated: 2026-08-09 17:36 UTC_
 | 103 | Latasha Byears | 1,190 |
 | 103 | Tanisha Wright | 1,190 |
 | 105 | Vicky Bullett | 1,189 |
-| 106 | **NaLyssa Smith** 🔴 +1 | 1,173 |
+| 106 | **NaLyssa Smith** 🔴 +2 | 1,174 |
 | 107 | Brittney Sykes | 1,162 |
 | 108 | Nykesha Sales | 1,148 |
 | 109 | Shannon Johnson | 1,143 |
@@ -767,9 +767,9 @@ _Last updated: 2026-08-09 17:36 UTC_
 | 131 | Chante Black | 100 |
 | 131 | Danielle Adams | 100 |
 | 131 | Nicole Powell | 100 |
-| 134 | Mwadi Mabika | 98 |
-| 134 | **NaLyssa Smith** 🔴 | 98 |
-| 134 | Natalie Achonwa | 98 |
+| 134 | **NaLyssa Smith** 🔴 +1 | 99 |
+| 135 | Mwadi Mabika | 98 |
+| 135 | Natalie Achonwa | 98 |
 | 137 | Aneika Morello | 96 |
 | 137 | Tiffani Johnson | 96 |
 | 139 | Imani McGee-Stafford | 95 |
