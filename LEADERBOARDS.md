@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-09 19:59 UTC_
+_Last updated: 2026-08-09 20:00 UTC_
 
 ## Contents
 
@@ -672,7 +672,7 @@ _Last updated: 2026-08-09 19:59 UTC_
 | 36 | Cheyenne Parker-Tyus | 261 |
 | 37 | Swin Cash | 258 |
 | 38 | Plenette Pierson | 242 |
-| 39 | **Napheesa Collier** 🔴 | 239 |
+| 39 | **Napheesa Collier** 🔴 +1 | 240 |
 | 40 | Emma Meesseman | 238 |
 | 41 | Azurá Stevens | 236 |
 | 42 | Brianna Turner | 235 |
