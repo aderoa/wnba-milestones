@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-09 23:19 UTC_
+_Last updated: 2026-08-09 23:20 UTC_
 
 ## Contents
 
@@ -47,7 +47,7 @@ _Last updated: 2026-08-09 23:19 UTC_
 | 26 | Lindsay Whalen | 5,511 |
 | 27 | Kelsey Mitchell | 5,198 |
 | 28 | Swin Cash | 5,119 |
-| 29 | Tiffany Hayes | 5,049 |
+| 29 | **Tiffany Hayes** 🔴 | 5,049 |
 | 30 | Tangela Smith | 5,035 |
 | 31 | Taj McWilliams-Franklin | 4,992 |
 | 32 | Maya Moore | 4,984 |
@@ -318,7 +318,7 @@ _Last updated: 2026-08-09 23:19 UTC_
 | 92 | Liz Cambage | 1,258 |
 | 93 | Chelsea Gray | 1,257 |
 | 93 | Kayla McBride | 1,257 |
-| 93 | Tiffany Hayes | 1,257 |
+| 93 | **Tiffany Hayes** 🔴 | 1,257 |
 | 96 | Brianna Turner | 1,246 |
 | 97 | Ezi Magbegor | 1,243 |
 | 98 | Seimone Augustus | 1,228 |
@@ -476,7 +476,7 @@ _Last updated: 2026-08-09 23:19 UTC_
 | 45 | Breanna Stewart | 985 |
 | 46 | Nikki Teasley | 982 |
 | 47 | Tamecka Dixon | 960 |
-| 48 | Tiffany Hayes | 957 |
+| 48 | **Tiffany Hayes** 🔴 | 957 |
 | 49 | Arike Ogunbowale | 948 |
 | 50 | Kara Lawson | 946 |
 | 51 | **Nneka Ogwumike** 🔴 | 933 |
@@ -781,7 +781,7 @@ _Last updated: 2026-08-09 23:19 UTC_
 | 145 | Allie Quigley | 90 |
 | 145 | Alysha Clark | 90 |
 | 147 | Natasha Cloud | 89 |
-| 147 | Tiffany Hayes | 89 |
+| 147 | **Tiffany Hayes** 🔴 | 89 |
 | 149 | Marissa Coleman | 88 |
 | 150 | Astou Ndiaye-Diatta | 86 |
 | 151 | Adrian Williams-Strong | 85 |
@@ -896,7 +896,7 @@ _Last updated: 2026-08-09 23:19 UTC_
 | 52 | Deanna Nolan | 388 |
 | 53 | Briann January | 386 |
 | 54 | Swin Cash | 384 |
-| 54 | Tiffany Hayes | 384 |
+| 54 | **Tiffany Hayes** 🔴 | 384 |
 | 54 | Tina Charles | 384 |
 | 57 | Allisha Gray | 379 |
 | 58 | Monique Currie | 378 |
@@ -1076,7 +1076,7 @@ _Last updated: 2026-08-09 23:19 UTC_
 | 27 | Cappie Pondexter | 464 |
 | 28 | Allisha Gray | 458 |
 | 29 | **Ariel Atkins** 🔴 | 455 |
-| 30 | Tiffany Hayes | 454 |
+| 30 | **Tiffany Hayes** 🔴 | 454 |
 | 31 | Chelsea Gray | 450 |
 | 32 | Skylar Diggins | 447 |
 | 33 | Lauren Jackson | 436 |
@@ -1323,7 +1323,7 @@ _Last updated: 2026-08-09 23:19 UTC_
 | 68 | Odyssey Sims | 634 |
 | 69 | Svetlana Abrosimova | 631 |
 | 70 | Kahleah Copper | 627 |
-| 71 | Tiffany Hayes | 624 |
+| 71 | **Tiffany Hayes** 🔴 | 624 |
 | 72 | Rebekkah Brunson | 615 |
 | 73 | Seimone Augustus | 613 |
 | 74 | Teresa Weatherspoon | 601 |
@@ -1481,7 +1481,7 @@ _Last updated: 2026-08-09 23:19 UTC_
 | 21 | Michelle Snow | 1,108 |
 | 22 | Sylvia Fowles | 1,049 |
 | 23 | Tina Charles | 1,037 |
-| 24 | Tiffany Hayes | 1,021 |
+| 24 | **Tiffany Hayes** 🔴 | 1,021 |
 | 25 | Lindsay Whalen | 998 |
 | 26 | Rebekkah Brunson | 996 |
 | 27 | Brittney Griner | 995 |
