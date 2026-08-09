@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-09 20:23 UTC_
+_Last updated: 2026-08-09 20:24 UTC_
 
 ## Contents
 
@@ -52,7 +52,7 @@ _Last updated: 2026-08-09 20:23 UTC_
 | 31 | Taj McWilliams-Franklin | 4,992 |
 | 32 | Maya Moore | 4,984 |
 | 33 | Sheryl Swoopes | 4,875 |
-| 34 | **Alyssa Thomas** 🔴 +8 | 4,760 |
+| 34 | **Alyssa Thomas** 🔴 +10 | 4,762 |
 | 35 | Alana Beard | 4,740 |
 | 36 | **Arike Ogunbowale** 🔴 +2 | 4,717 |
 | 37 | Chamique Holdsclaw | 4,713 |
@@ -378,7 +378,7 @@ _Last updated: 2026-08-09 20:23 UTC_
 | 152 | Natalie Achonwa | 895 |
 | 153 | Temeka Johnson | 889 |
 | 154 | Mistie Bass | 888 |
-| 155 | **Alanna Smith** 🔴 +6 | 884 |
+| 155 | **Alanna Smith** 🔴 +7 | 885 |
 | 156 | Erica Wheeler | 882 |
 | 157 | Marina Mabrey | 874 |
 | 158 | Shameka Christon | 867 |
@@ -526,7 +526,7 @@ _Last updated: 2026-08-09 20:23 UTC_
 | 95 | Alex Bentley | 645 |
 | 96 | Asjha Jones | 637 |
 | 97 | Jennifer Azzi | 636 |
-| 98 | **Sami Whitcomb** 🔴 +1 | 624 |
+| 98 | **Sami Whitcomb** 🔴 +2 | 625 |
 | 99 | Alysha Clark | 619 |
 | 100 | **Natasha Howard** 🔴 +1 | 616 |
 | 101 | Debbie Black | 612 |
@@ -1188,7 +1188,7 @@ _Last updated: 2026-08-09 20:23 UTC_
 | 139 | Aari McDonald | 158 |
 | 139 | Jennifer Azzi | 158 |
 | 139 | **Natasha Howard** 🔴 | 158 |
-| 142 | **Alanna Smith** 🔴 | 156 |
+| 142 | **Alanna Smith** 🔴 +1 | 157 |
 | 143 | **Michaela Onyenwere** 🔴 +3 | 154 |
 | 144 | Bridget Pettis | 153 |
 | 144 | Gabby Williams | 153 |
