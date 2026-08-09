@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-09 20:44 UTC_
+_Last updated: 2026-08-09 20:45 UTC_
 
 ## Contents
 
@@ -57,7 +57,7 @@ _Last updated: 2026-08-09 20:44 UTC_
 | 36 | **Arike Ogunbowale** 🔴 +5 | 4,720 |
 | 37 | Chamique Holdsclaw | 4,713 |
 | 38 | Elena Delle Donne | 4,706 |
-| 39 | **Natasha Howard** 🔴 +4 | 4,686 |
+| 39 | **Natasha Howard** 🔴 +6 | 4,688 |
 | 40 | Chelsea Gray | 4,625 |
 | 41 | Penny Taylor | 4,595 |
 | 42 | **Kelsey Plum** 🔴 +5 | 4,499 |
@@ -85,7 +85,7 @@ _Last updated: 2026-08-09 20:44 UTC_
 | 64 | Brittney Sykes | 3,726 |
 | 65 | Jackie Young | 3,698 |
 | 66 | Kara Lawson | 3,670 |
-| 67 | **Odyssey Sims** 🔴 +8 | 3,582 |
+| 67 | **Odyssey Sims** 🔴 +10 | 3,584 |
 | 68 | Mwadi Mabika | 3,576 |
 | 69 | Camille Smith | 3,551 |
 | 70 | **Napheesa Collier** 🔴 +7 | 3,549 |
