@@ -2,6 +2,11 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-08-09 02:31 UTC
+
+- **Ezi Magbegor** passed **Sandy Brondello** for **#193** all-time in assists (career 350) — up from #198 entering today — _1:23 - 4th — SEA @ POR_
+- **Jordan Horston** reached **600** career points (now 601) — _1:23 - 4th — SEA @ POR_
+
 ## 2026-08-09 00:59 UTC
 
 - **Ezi Magbegor** passed **Ebony Hoffman** and **Tamika Whitmore** for **#194** all-time in assists (career 348) — up from #198 entering today — _37.3 - 1st — SEA @ POR_

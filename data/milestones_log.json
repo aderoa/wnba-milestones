@@ -1,5 +1,26 @@
 [
   {
+    "ts": "2026-08-09T02:31:00+00:00",
+    "text": "Ezi Magbegor passed Sandy Brondello for #193 all-time in assists (career 350) \u2014 up from #198 entering today \u2014 (1:23 - 4th \u2014 SEA @ POR)",
+    "kind": "rank_pass",
+    "player": "Ezi Magbegor",
+    "stat": "assists",
+    "rank": 193,
+    "passed_players": [
+      "Sandy Brondello"
+    ],
+    "new_total": 350
+  },
+  {
+    "ts": "2026-08-09T02:31:00+00:00",
+    "text": "Jordan Horston reached 600 career points (now 601) \u2014 (1:23 - 4th \u2014 SEA @ POR)",
+    "kind": "round",
+    "player": "Jordan Horston",
+    "stat": "points",
+    "value": 600,
+    "new_total": 601
+  },
+  {
     "ts": "2026-08-09T00:59:00+00:00",
     "text": "Ezi Magbegor passed Ebony Hoffman and Tamika Whitmore for #194 all-time in assists (career 348) \u2014 up from #198 entering today \u2014 (37.3 - 1st \u2014 SEA @ POR)",
     "kind": "rank_pass",
@@ -2973,26 +2994,5 @@
       "Kahleah Copper"
     ],
     "new_total": 220
-  },
-  {
-    "ts": "2026-07-04T03:27:00+00:00",
-    "text": "NaLyssa Smith reached 1,900 career points (now 1,901) \u2014 (4:07 - 3rd \u2014 CHI @ LV)",
-    "kind": "round",
-    "player": "NaLyssa Smith",
-    "stat": "points",
-    "value": 1900,
-    "new_total": 1901
-  },
-  {
-    "ts": "2026-07-04T03:27:00+00:00",
-    "text": "NaLyssa Smith passed Gabby Williams for #178 all-time in points (career 1,901) \u2014 up from #179 entering today \u2014 (4:07 - 3rd \u2014 CHI @ LV)",
-    "kind": "rank_pass",
-    "player": "NaLyssa Smith",
-    "stat": "points",
-    "rank": 178,
-    "passed_players": [
-      "Gabby Williams"
-    ],
-    "new_total": 1901
   }
 ]

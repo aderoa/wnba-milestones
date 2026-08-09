@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-09 02:30 UTC_
+_Last updated: 2026-08-09 02:31 UTC_
 
 ## Contents
 
@@ -621,9 +621,9 @@ _Last updated: 2026-08-09 02:30 UTC_
 | 189 | Merlakia Jones | 355 |
 | 190 | Charlotte Smith | 352 |
 | 190 | Ruthie Bolton | 352 |
+| 192 | **Ezi Magbegor** 🔴 +6 | 350 |
 | 192 | Jantel Lavender | 350 |
-| 193 | **Ezi Magbegor** 🔴 +5 | 349 |
-| 193 | Sandy Brondello | 349 |
+| 194 | Sandy Brondello | 349 |
 | 195 | Ebony Hoffman | 347 |
 | 195 | Tamika Whitmore | 347 |
 | 197 | Kristen Rasmussen | 345 |
