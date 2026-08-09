@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-09 21:34 UTC_
+_Last updated: 2026-08-09 21:35 UTC_
 
 ## Contents
 
@@ -569,8 +569,8 @@ _Last updated: 2026-08-09 21:34 UTC_
 | 138 | Janeth Arcain | 469 |
 | 139 | Erin Phillips | 462 |
 | 140 | Sylvia Fowles | 461 |
+| 141 | **Sug Sutton** 🔴 +4 | 460 |
 | 141 | Tyasha Harris | 460 |
-| 142 | **Sug Sutton** 🔴 +3 | 459 |
 | 143 | Sydney Colson | 454 |
 | 144 | Yolanda Griffith | 451 |
 | 145 | Elena Delle Donne | 450 |
