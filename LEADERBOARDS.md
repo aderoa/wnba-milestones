@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-09 01:25 UTC_
+_Last updated: 2026-08-09 01:26 UTC_
 
 ## Contents
 
@@ -1204,8 +1204,8 @@ _Last updated: 2026-08-09 01:25 UTC_
 | 153 | Helen Darling | 144 |
 | 153 | Matee Ajavon | 144 |
 | 156 | Shenise Johnson | 143 |
-| 157 | Jordan Hooper | 141 |
-| 157 | **Karlie Samuelson** 🔴 +2 | 141 |
+| 157 | **Karlie Samuelson** 🔴 +3 | 142 |
+| 158 | Jordan Hooper | 141 |
 | 159 | Coco Miller | 139 |
 | 160 | Loree Moore | 138 |
 | 160 | Tanisha Wright | 138 |
