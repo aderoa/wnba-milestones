@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-09 20:14 UTC_
+_Last updated: 2026-08-09 20:15 UTC_
 
 ## Contents
 
@@ -85,7 +85,7 @@ _Last updated: 2026-08-09 20:14 UTC_
 | 64 | Brittney Sykes | 3,726 |
 | 65 | Jackie Young | 3,698 |
 | 66 | Kara Lawson | 3,670 |
-| 67 | **Odyssey Sims** 🔴 +4 | 3,578 |
+| 67 | **Odyssey Sims** 🔴 +6 | 3,580 |
 | 68 | Mwadi Mabika | 3,576 |
 | 69 | Camille Smith | 3,551 |
 | 70 | **Napheesa Collier** 🔴 +5 | 3,547 |
@@ -249,7 +249,7 @@ _Last updated: 2026-08-09 20:14 UTC_
 | 23 | Lauren Jackson | 2,444 |
 | 24 | Yolanda Griffith | 2,440 |
 | 25 | Tangela Smith | 2,328 |
-| 26 | **Natasha Howard** 🔴 +1 | 2,316 |
+| 26 | **Natasha Howard** 🔴 +2 | 2,317 |
 | 27 | Erika de Souza | 2,220 |
 | 28 | Diana Taurasi | 2,201 |
 | 29 | Margo Dydek | 2,138 |
@@ -928,7 +928,7 @@ _Last updated: 2026-08-09 20:14 UTC_
 | 84 | Kristi Toliver | 329 |
 | 85 | Matee Ajavon | 328 |
 | 86 | Gabby Williams | 326 |
-| 87 | **Napheesa Collier** 🔴 | 325 |
+| 86 | **Napheesa Collier** 🔴 +1 | 326 |
 | 88 | Betty Lennox | 323 |
 | 89 | Tammy Sutton-Brown | 319 |
 | 90 | Alysha Clark | 317 |
@@ -1316,7 +1316,7 @@ _Last updated: 2026-08-09 20:14 UTC_
 | 61 | Yolanda Griffith | 653 |
 | 62 | **Kelsey Plum** 🔴 +3 | 651 |
 | 63 | Sheri Sam | 650 |
-| 64 | **Kayla McBride** 🔴 | 648 |
+| 64 | **Kayla McBride** 🔴 +1 | 649 |
 | 65 | Jonquel Jones | 644 |
 | 66 | Dawn Staley | 643 |
 | 67 | Ruth Riley | 637 |
@@ -1350,8 +1350,8 @@ _Last updated: 2026-08-09 20:14 UTC_
 | 95 | Ivory Latta | 534 |
 | 95 | Iziane Castro Marques | 534 |
 | 97 | Mwadi Mabika | 532 |
+| 98 | **Arike Ogunbowale** 🔴 +2 | 531 |
 | 98 | Nakia Sanford | 531 |
-| 99 | **Arike Ogunbowale** 🔴 +1 | 530 |
 | 100 | Jordin Canada | 527 |
 | 100 | Maya Moore | 527 |
 | 102 | Kara Lawson | 526 |
@@ -1470,7 +1470,7 @@ _Last updated: 2026-08-09 20:14 UTC_
 | 10 | Plenette Pierson | 1,175 |
 | 11 | Chasity Melvin | 1,165 |
 | 12 | Camille Smith | 1,159 |
-| 13 | **Natasha Howard** 🔴 | 1,158 |
+| 12 | **Natasha Howard** 🔴 +1 | 1,159 |
 | 14 | Nneka Ogwumike | 1,156 |
 | 15 | Alana Beard | 1,153 |
 | 16 | Swin Cash | 1,146 |
