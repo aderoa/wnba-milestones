@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-09 18:16 UTC_
+_Last updated: 2026-08-09 18:17 UTC_
 
 ## Contents
 
@@ -217,7 +217,7 @@ _Last updated: 2026-08-09 18:16 UTC_
 | 196 | Janell Burse | 1,580 |
 | 197 | Le'coe Willingham | 1,552 |
 | 198 | Shatori Walker-Kimbrough | 1,544 |
-| 199 | **Rebecca Allen** 🔴 +10 | 1,539 |
+| 199 | **Rebecca Allen** 🔴 +13 | 1,542 |
 | 200 | Jennifer Lacy | 1,504 |
 
 ## Rebounds
@@ -1132,7 +1132,7 @@ _Last updated: 2026-08-09 18:16 UTC_
 | 83 | Iziane Castro Marques | 275 |
 | 84 | Sheryl Swoopes | 270 |
 | 85 | Sophia Witherspoon | 260 |
-| 86 | **Rebecca Allen** 🔴 +1 | 256 |
+| 86 | **Rebecca Allen** 🔴 +2 | 257 |
 | 87 | Dawn Staley | 254 |
 | 88 | Bria Hartley | 253 |
 | 88 | Nneka Ogwumike | 253 |
@@ -1182,9 +1182,9 @@ _Last updated: 2026-08-09 18:16 UTC_
 | 133 | Tyasha Harris | 162 |
 | 133 | Ukari Figgs | 162 |
 | 135 | Edna Campbell | 161 |
-| 136 | **Dana Evans** 🔴 | 160 |
-| 136 | Jennifer Lacy | 160 |
-| 136 | **Stephanie Talbot** 🔴 | 160 |
+| 135 | **Stephanie Talbot** 🔴 +1 | 161 |
+| 137 | **Dana Evans** 🔴 | 160 |
+| 137 | Jennifer Lacy | 160 |
 | 139 | Aari McDonald | 158 |
 | 139 | Jennifer Azzi | 158 |
 | 139 | Natasha Howard | 158 |
