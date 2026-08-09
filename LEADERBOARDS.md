@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-09 23:36 UTC_
+_Last updated: 2026-08-09 23:37 UTC_
 
 ## Contents
 
@@ -259,7 +259,7 @@ _Last updated: 2026-08-09 23:36 UTC_
 | 33 | Elizabeth Williams | 1,978 |
 | 34 | Cheryl Ford | 1,907 |
 | 35 | Courtney Williams | 1,846 |
-| 36 | **Kiah Stokes** 🔴 +1 | 1,836 |
+| 36 | **Kiah Stokes** 🔴 +2 | 1,837 |
 | 37 | Plenette Pierson | 1,834 |
 | 38 | Natalie Williams | 1,832 |
 | 39 | Wendy Palmer | 1,824 |
@@ -379,7 +379,7 @@ _Last updated: 2026-08-09 23:36 UTC_
 | 153 | Temeka Johnson | 889 |
 | 154 | Mistie Bass | 888 |
 | 155 | Alanna Smith | 886 |
-| 156 | **Erica Wheeler** 🔴 +1 | 883 |
+| 156 | **Erica Wheeler** 🔴 +2 | 884 |
 | 157 | Marina Mabrey | 874 |
 | 158 | Shameka Christon | 867 |
 | 159 | Krystal Thomas | 862 |
@@ -950,10 +950,10 @@ _Last updated: 2026-08-09 23:36 UTC_
 | 106 | Tari Phillips | 277 |
 | 107 | Emma Meesseman | 276 |
 | 107 | Erika de Souza | 276 |
+| 109 | **Kayla Thornton** 🔴 +1 | 271 |
 | 109 | Rita Williams | 271 |
-| 110 | **Kayla Thornton** 🔴 | 270 |
-| 110 | Natalie Williams | 270 |
-| 110 | Nicky Anosike | 270 |
+| 111 | Natalie Williams | 270 |
+| 111 | Nicky Anosike | 270 |
 | 113 | Crystal Robinson | 267 |
 | 113 | Kelsey Plum | 267 |
 | 115 | Anna DeForge | 266 |
@@ -1281,7 +1281,7 @@ _Last updated: 2026-08-09 23:36 UTC_
 | 26 | Natasha Howard | 844 |
 | 27 | DeWanna Bonner | 840 |
 | 28 | Katie Douglas | 824 |
-| 29 | **Nneka Ogwumike** 🔴 +2 | 805 |
+| 29 | **Nneka Ogwumike** 🔴 +3 | 806 |
 | 30 | Betty Lennox | 800 |
 | 31 | Jasmine Thomas | 796 |
 | 31 | Jewell Loyd | 796 |
