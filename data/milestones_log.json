@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-08-09T20:32:00+00:00",
+    "text": "Sonia Citron passed Laurie Koehn for #197 all-time in three-pointers (career 106) \u2014 new to top 200 today \u2014 (6:27 - 4th \u2014 PHX @ WSH)",
+    "kind": "rank_pass",
+    "player": "Sonia Citron",
+    "stat": "three-pointers",
+    "rank": 197,
+    "passed_players": [
+      "Laurie Koehn"
+    ],
+    "new_total": 106
+  },
+  {
     "ts": "2026-08-09T20:30:00+00:00",
     "text": "Sonia Citron passed Julie Vanloo for #198 all-time in three-pointers (career 105) \u2014 new to top 200 today \u2014 (8:23 - 4th \u2014 PHX @ WSH)",
     "kind": "rank_pass",
@@ -2982,17 +2994,5 @@
       "Allie Quigley"
     ],
     "new_total": 468
-  },
-  {
-    "ts": "2026-07-04T03:58:00+00:00",
-    "text": "Natasha Cloud passed Jackie Young for #54 all-time in three-pointers (career 347) \u2014 up from #55 entering today \u2014 (3:03 - 4th \u2014 CHI @ LV)",
-    "kind": "rank_pass",
-    "player": "Natasha Cloud",
-    "stat": "three-pointers",
-    "rank": 54,
-    "passed_players": [
-      "Jackie Young"
-    ],
-    "new_total": 347
   }
 ]

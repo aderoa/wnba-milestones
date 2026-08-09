@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-08-09 20:32 UTC
+
+- **Sonia Citron** passed **Laurie Koehn** for **#197** all-time in three-pointers (career 106) — new to top 200 today — _6:27 - 4th — PHX @ WSH_
+
 ## 2026-08-09 20:30 UTC
 
 - **Sonia Citron** passed **Julie Vanloo** for **#198** all-time in three-pointers (career 105) — new to top 200 today — _8:23 - 4th — PHX @ WSH_
