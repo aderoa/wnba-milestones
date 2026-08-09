@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-08-09T18:20:00+00:00",
+    "text": "Marine Johann\u00e8s passed Danielle Adams and Napheesa Collier for #117 all-time in three-pointers (career 189) \u2014 up from #120 entering today \u2014 (1:46 - 4th \u2014 LV @ NY)",
+    "kind": "rank_pass",
+    "player": "Marine Johann\u00e8s",
+    "stat": "three-pointers",
+    "rank": 117,
+    "passed_players": [
+      "Danielle Adams",
+      "Napheesa Collier"
+    ],
+    "new_total": 189
+  },
+  {
     "ts": "2026-08-09T02:31:00+00:00",
     "text": "Ezi Magbegor passed Sandy Brondello for #193 all-time in assists (career 350) \u2014 up from #198 entering today \u2014 (1:23 - 4th \u2014 SEA @ POR)",
     "kind": "rank_pass",
@@ -2981,18 +2994,5 @@
       "Candice Wiggins"
     ],
     "new_total": 1903
-  },
-  {
-    "ts": "2026-07-04T03:30:00+00:00",
-    "text": "Cheyenne Parker-Tyus passed Allison Feaster and Kahleah Copper for #149 all-time in steals (career 220) \u2014 up from #151 entering today \u2014 (3:45 - 3rd \u2014 CHI @ LV)",
-    "kind": "rank_pass",
-    "player": "Cheyenne Parker-Tyus",
-    "stat": "steals",
-    "rank": 149,
-    "passed_players": [
-      "Allison Feaster",
-      "Kahleah Copper"
-    ],
-    "new_total": 220
   }
 ]
