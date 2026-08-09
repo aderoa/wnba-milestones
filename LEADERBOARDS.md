@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-09 19:53 UTC_
+_Last updated: 2026-08-09 19:54 UTC_
 
 ## Contents
 
@@ -88,7 +88,7 @@ _Last updated: 2026-08-09 19:53 UTC_
 | 67 | **Odyssey Sims** 🔴 +4 | 3,578 |
 | 68 | Mwadi Mabika | 3,576 |
 | 69 | Camille Smith | 3,551 |
-| 70 | **Napheesa Collier** 🔴 +3 | 3,545 |
+| 70 | **Napheesa Collier** 🔴 +5 | 3,547 |
 | 71 | Shannon Johnson | 3,542 |
 | 72 | Renee Montgomery | 3,533 |
 | 73 | Jasmine Thomas | 3,522 |
@@ -284,8 +284,8 @@ _Last updated: 2026-08-09 19:53 UTC_
 | 58 | Katie Douglas | 1,562 |
 | 59 | Angel McCoughtry | 1,561 |
 | 60 | Penny Taylor | 1,552 |
-| 61 | Cappie Pondexter | 1,513 |
-| 61 | **Napheesa Collier** 🔴 +3 | 1,513 |
+| 61 | **Napheesa Collier** 🔴 +4 | 1,514 |
+| 62 | Cappie Pondexter | 1,513 |
 | 63 | Ticha Penicheiro | 1,485 |
 | 64 | Alysha Clark | 1,469 |
 | 65 | Sue Bird | 1,466 |
@@ -878,7 +878,7 @@ _Last updated: 2026-08-09 19:53 UTC_
 | 34 | Tangela Smith | 455 |
 | 35 | Tina Thompson | 452 |
 | 36 | Maya Moore | 449 |
-| 37 | **Kayla McBride** 🔴 | 446 |
+| 37 | **Kayla McBride** 🔴 +1 | 447 |
 | 38 | Sheri Sam | 438 |
 | 39 | Camille Smith | 437 |
 | 40 | Breanna Stewart | 436 |
@@ -1320,8 +1320,8 @@ _Last updated: 2026-08-09 19:53 UTC_
 | 65 | Jonquel Jones | 644 |
 | 66 | Dawn Staley | 643 |
 | 67 | Ruth Riley | 637 |
-| 68 | **Odyssey Sims** 🔴 | 631 |
-| 68 | Svetlana Abrosimova | 631 |
+| 68 | **Odyssey Sims** 🔴 +1 | 632 |
+| 69 | Svetlana Abrosimova | 631 |
 | 70 | **Kahleah Copper** 🔴 +1 | 626 |
 | 71 | Tiffany Hayes | 624 |
 | 72 | Rebekkah Brunson | 615 |
