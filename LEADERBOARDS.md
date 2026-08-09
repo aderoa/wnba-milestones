@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-09 20:50 UTC_
+_Last updated: 2026-08-09 20:51 UTC_
 
 ## Contents
 
@@ -85,10 +85,10 @@ _Last updated: 2026-08-09 20:50 UTC_
 | 64 | Brittney Sykes | 3,726 |
 | 65 | Jackie Young | 3,698 |
 | 66 | Kara Lawson | 3,670 |
-| 67 | **Odyssey Sims** 🔴 +12 | 3,586 |
+| 67 | **Odyssey Sims** 🔴 +15 | 3,589 |
 | 68 | Mwadi Mabika | 3,576 |
-| 69 | Camille Smith | 3,551 |
-| 70 | **Napheesa Collier** 🔴 +7 | 3,549 |
+| 69 | **Napheesa Collier** 🔴 +10 | 3,552 |
+| 70 | Camille Smith | 3,551 |
 | 71 | Shannon Johnson | 3,542 |
 | 72 | Renee Montgomery | 3,533 |
 | 73 | Jasmine Thomas | 3,522 |
@@ -443,7 +443,7 @@ _Last updated: 2026-08-09 20:50 UTC_
 | 12 | Cappie Pondexter | 1,575 |
 | 13 | Tamika Catchings | 1,484 |
 | 14 | Danielle Robinson | 1,480 |
-| 15 | **Courtney Williams** 🔴 +5 | 1,443 |
+| 15 | **Courtney Williams** 🔴 +6 | 1,444 |
 | 16 | Shannon Johnson | 1,423 |
 | 16 | Tanisha Wright | 1,423 |
 | 18 | Temeka Johnson | 1,382 |
@@ -1142,9 +1142,9 @@ _Last updated: 2026-08-09 20:50 UTC_
 | 93 | Erin Thorn | 243 |
 | 94 | Alex Bentley | 239 |
 | 94 | Cynthia Cooper | 239 |
+| 96 | **Odyssey Sims** 🔴 +1 | 235 |
 | 96 | Svetlana Abrosimova | 235 |
 | 96 | Tangela Smith | 235 |
-| 98 | **Odyssey Sims** 🔴 | 234 |
 | 99 | Satou Sabally | 232 |
 | 99 | Stacey Dales | 232 |
 | 101 | Elena Baranova | 224 |
@@ -1164,7 +1164,7 @@ _Last updated: 2026-08-09 20:50 UTC_
 | 115 | Lindsay Whalen | 193 |
 | 116 | Victoria Vivians | 192 |
 | 117 | Marine Johannès | 190 |
-| 118 | **Napheesa Collier** 🔴 +1 | 189 |
+| 117 | **Napheesa Collier** 🔴 +2 | 190 |
 | 119 | Danielle Adams | 188 |
 | 120 | Noelle Quinn | 184 |
 | 121 | Karima Christmas-Kelly | 181 |
