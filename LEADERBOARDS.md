@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-09 23:30 UTC_
+_Last updated: 2026-08-09 23:31 UTC_
 
 ## Contents
 
@@ -107,7 +107,7 @@ _Last updated: 2026-08-09 23:30 UTC_
 | 86 | Marina Mabrey | 3,249 |
 | 87 | Stefanie Dolson | 3,217 |
 | 88 | Margo Dydek | 3,214 |
-| 89 | **Erica Wheeler** 🔴 +4 | 3,199 |
+| 89 | **Erica Wheeler** 🔴 +7 | 3,202 |
 | 90 | Danielle Robinson | 3,160 |
 | 91 | Wendy Palmer | 3,135 |
 | 92 | Shavonte Zellous | 3,103 |
@@ -1106,7 +1106,7 @@ _Last updated: 2026-08-09 23:30 UTC_
 | 56 | Elena Delle Donne | 343 |
 | 58 | Candace Parker | 342 |
 | 59 | Deanna Nolan | 340 |
-| 60 | **Erica Wheeler** 🔴 | 337 |
+| 60 | **Erica Wheeler** 🔴 +1 | 338 |
 | 61 | Anna DeForge | 334 |
 | 61 | Sophie Cunningham | 334 |
 | 63 | Natisha Hiedeman | 328 |
@@ -1426,7 +1426,7 @@ _Last updated: 2026-08-09 23:30 UTC_
 | 171 | Teaira McCowan | 340 |
 | 172 | Loree Moore | 339 |
 | 173 | Charlotte Smith | 337 |
-| 174 | **Gabby Williams** 🔴 | 336 |
+| 173 | **Gabby Williams** 🔴 +1 | 337 |
 | 175 | Scholanda Dorrell | 335 |
 | 176 | Aerial Powers | 333 |
 | 176 | Diamond DeShields | 333 |
