@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-09 19:45 UTC_
+_Last updated: 2026-08-09 19:46 UTC_
 
 ## Contents
 
@@ -57,7 +57,7 @@ _Last updated: 2026-08-09 19:45 UTC_
 | 36 | **Arike Ogunbowale** 🔴 +2 | 4,717 |
 | 37 | Chamique Holdsclaw | 4,713 |
 | 38 | Elena Delle Donne | 4,706 |
-| 39 | **Natasha Howard** 🔴 +2 | 4,684 |
+| 39 | **Natasha Howard** 🔴 +4 | 4,686 |
 | 40 | Chelsea Gray | 4,625 |
 | 41 | Penny Taylor | 4,595 |
 | 42 | **Kelsey Plum** 🔴 +5 | 4,499 |
@@ -443,7 +443,7 @@ _Last updated: 2026-08-09 19:45 UTC_
 | 12 | Cappie Pondexter | 1,575 |
 | 13 | Tamika Catchings | 1,484 |
 | 14 | Danielle Robinson | 1,480 |
-| 15 | **Courtney Williams** 🔴 | 1,438 |
+| 15 | **Courtney Williams** 🔴 +1 | 1,439 |
 | 16 | Shannon Johnson | 1,423 |
 | 16 | Tanisha Wright | 1,423 |
 | 18 | Temeka Johnson | 1,382 |
@@ -923,9 +923,9 @@ _Last updated: 2026-08-09 19:45 UTC_
 | 79 | **Odyssey Sims** 🔴 | 334 |
 | 80 | Marie Ferdinand-Harris | 331 |
 | 81 | Chasity Melvin | 330 |
+| 81 | **Courtney Williams** 🔴 +1 | 330 |
 | 81 | Leilani Mitchell | 330 |
-| 83 | **Courtney Williams** 🔴 | 329 |
-| 83 | Kristi Toliver | 329 |
+| 84 | Kristi Toliver | 329 |
 | 85 | Matee Ajavon | 328 |
 | 86 | Gabby Williams | 326 |
 | 87 | **Napheesa Collier** 🔴 | 325 |
@@ -1314,8 +1314,8 @@ _Last updated: 2026-08-09 19:45 UTC_
 | 59 | Chasity Melvin | 666 |
 | 60 | Vickie Johnson | 660 |
 | 61 | Yolanda Griffith | 653 |
-| 62 | **Kelsey Plum** 🔴 +2 | 650 |
-| 62 | Sheri Sam | 650 |
+| 62 | **Kelsey Plum** 🔴 +3 | 651 |
+| 63 | Sheri Sam | 650 |
 | 64 | **Kayla McBride** 🔴 | 648 |
 | 65 | Jonquel Jones | 644 |
 | 66 | Dawn Staley | 643 |
@@ -1543,7 +1543,7 @@ _Last updated: 2026-08-09 19:45 UTC_
 | 83 | Brittney Sykes | 701 |
 | 83 | Matee Ajavon | 701 |
 | 83 | Nicole Powell | 701 |
-| 86 | **Kelsey Plum** 🔴 | 699 |
+| 86 | **Kelsey Plum** 🔴 +1 | 700 |
 | 87 | Tan White | 698 |
 | 88 | Katie Douglas | 697 |
 | 89 | Danielle Robinson | 692 |
