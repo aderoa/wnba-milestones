@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-09 23:06 UTC_
+_Last updated: 2026-08-09 23:07 UTC_
 
 ## Contents
 
@@ -107,7 +107,7 @@ _Last updated: 2026-08-09 23:06 UTC_
 | 86 | Marina Mabrey | 3,249 |
 | 87 | Stefanie Dolson | 3,217 |
 | 88 | Margo Dydek | 3,214 |
-| 89 | **Erica Wheeler** 🔴 +2 | 3,197 |
+| 89 | **Erica Wheeler** 🔴 +4 | 3,199 |
 | 90 | Danielle Robinson | 3,160 |
 | 91 | Wendy Palmer | 3,135 |
 | 92 | Shavonte Zellous | 3,103 |
@@ -531,9 +531,9 @@ _Last updated: 2026-08-09 23:06 UTC_
 | 100 | Natasha Howard | 618 |
 | 101 | Debbie Black | 612 |
 | 102 | Cynthia Cooper | 602 |
+| 103 | **Gabby Williams** 🔴 +1 | 592 |
 | 103 | Sancho Lyttle | 592 |
-| 104 | Caitlin Clark | 591 |
-| 104 | **Gabby Williams** 🔴 | 591 |
+| 105 | Caitlin Clark | 591 |
 | 106 | Betnijah Laney-Hamilton | 590 |
 | 106 | Camille Smith | 590 |
 | 108 | Armintie Herrington | 589 |
@@ -1236,7 +1236,7 @@ _Last updated: 2026-08-09 23:06 UTC_
 | 187 | Gordana Grubin | 114 |
 | 187 | Rickea Jackson | 114 |
 | 187 | Sandy Brondello | 114 |
-| 190 | **Cecilia Zandalasini** 🔴 +1 | 112 |
+| 190 | **Cecilia Zandalasini** 🔴 +2 | 113 |
 | 191 | Janelle Salaun | 111 |
 | 191 | Shoni Schimmel | 111 |
 | 193 | Emma Meesseman | 109 |
@@ -1298,7 +1298,7 @@ _Last updated: 2026-08-09 23:06 UTC_
 | 43 | Michelle Snow | 723 |
 | 44 | Tamecka Dixon | 716 |
 | 45 | Natasha Cloud | 707 |
-| 46 | **Erica Wheeler** 🔴 | 699 |
+| 46 | **Erica Wheeler** 🔴 +1 | 700 |
 | 47 | Renee Montgomery | 697 |
 | 48 | Temeka Johnson | 696 |
 | 49 | Penny Taylor | 695 |
