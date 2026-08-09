@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-08-09T18:21:00+00:00",
+    "text": "Rebecca Allen passed Katie Mattera for #198 all-time in rebounds (career 709) \u2014 new to top 200 today \u2014 (1:20 - 4th \u2014 LV @ NY)",
+    "kind": "rank_pass",
+    "player": "Rebecca Allen",
+    "stat": "rebounds",
+    "rank": 198,
+    "passed_players": [
+      "Katie Mattera"
+    ],
+    "new_total": 709
+  },
+  {
     "ts": "2026-08-09T18:20:00+00:00",
     "text": "Marine Johann\u00e8s passed Danielle Adams and Napheesa Collier for #117 all-time in three-pointers (career 189) \u2014 up from #120 entering today \u2014 (1:46 - 4th \u2014 LV @ NY)",
     "kind": "rank_pass",
@@ -2982,17 +2994,5 @@
       "Brionna Jones"
     ],
     "new_total": 126
-  },
-  {
-    "ts": "2026-07-04T03:46:00+00:00",
-    "text": "NaLyssa Smith passed Candice Wiggins for #177 all-time in points (career 1,903) \u2014 up from #179 entering today \u2014 (6:15 - 4th \u2014 CHI @ LV)",
-    "kind": "rank_pass",
-    "player": "NaLyssa Smith",
-    "stat": "points",
-    "rank": 177,
-    "passed_players": [
-      "Candice Wiggins"
-    ],
-    "new_total": 1903
   }
 ]
