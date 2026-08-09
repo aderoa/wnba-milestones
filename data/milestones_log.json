@@ -1,5 +1,19 @@
 [
   {
+    "ts": "2026-08-09T23:39:00+00:00",
+    "text": "Cecilia Zandalasini passed Gordana Grubin, Rickea Jackson, and Sandy Brondello for #187 all-time in three-pointers (career 115) \u2014 up from #190 entering today \u2014 (4:12 - 2nd \u2014 GS @ LA)",
+    "kind": "rank_pass",
+    "player": "Cecilia Zandalasini",
+    "stat": "three-pointers",
+    "rank": 187,
+    "passed_players": [
+      "Gordana Grubin",
+      "Rickea Jackson",
+      "Sandy Brondello"
+    ],
+    "new_total": 115
+  },
+  {
     "ts": "2026-08-09T21:02:00+00:00",
     "text": "Napheesa Collier passed Matee Ajavon for #85 all-time in steals (career 329) \u2014 up from #87 entering today \u2014 (33.5 - 3rd \u2014 DAL @ MIN)",
     "kind": "rank_pass",
@@ -2981,14 +2995,5 @@
       "Damiris Dantas"
     ],
     "new_total": 369
-  },
-  {
-    "ts": "2026-07-04T04:18:00+00:00",
-    "text": "Kamilla Cardoso reached 200 career assists (now 200) \u2014 (1:08 - OT \u2014 CHI @ LV)",
-    "kind": "round",
-    "player": "Kamilla Cardoso",
-    "stat": "assists",
-    "value": 200,
-    "new_total": 200
   }
 ]

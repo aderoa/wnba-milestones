@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-08-09 23:39 UTC
+
+- **Cecilia Zandalasini** passed **Gordana Grubin**, **Rickea Jackson**, and **Sandy Brondello** for **#187** all-time in three-pointers (career 115) — up from #190 entering today — _4:12 - 2nd — GS @ LA_
+
 ## 2026-08-09 21:02 UTC
 
 - **Napheesa Collier** passed **Matee Ajavon** for **#85** all-time in steals (career 329) — up from #87 entering today — _33.5 - 3rd — DAL @ MIN_
