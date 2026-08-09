@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-09 21:12 UTC_
+_Last updated: 2026-08-09 21:13 UTC_
 
 ## Contents
 
@@ -41,7 +41,7 @@ _Last updated: 2026-08-09 21:12 UTC_
 | 20 | Becky Hammon | 5,816 |
 | 21 | Angel McCoughtry | 5,797 |
 | 22 | Skylar Diggins | 5,732 |
-| 23 | **Kayla McBride** 🔴 +34 | 5,684 |
+| 23 | **Kayla McBride** 🔴 +37 | 5,687 |
 | 24 | DeLisha Milton-Jones | 5,571 |
 | 25 | Katie Douglas | 5,545 |
 | 26 | Lindsay Whalen | 5,511 |
@@ -284,7 +284,7 @@ _Last updated: 2026-08-09 21:12 UTC_
 | 58 | Katie Douglas | 1,562 |
 | 59 | Angel McCoughtry | 1,561 |
 | 60 | Penny Taylor | 1,552 |
-| 61 | **Napheesa Collier** 🔴 +6 | 1,516 |
+| 61 | **Napheesa Collier** 🔴 +7 | 1,517 |
 | 62 | Cappie Pondexter | 1,513 |
 | 63 | Ticha Penicheiro | 1,485 |
 | 64 | Alysha Clark | 1,469 |
@@ -540,7 +540,7 @@ _Last updated: 2026-08-09 21:12 UTC_
 | 109 | Veronica Burton | 579 |
 | 110 | Tan White | 578 |
 | 111 | Matee Ajavon | 577 |
-| 112 | **Napheesa Collier** 🔴 +1 | 571 |
+| 112 | **Napheesa Collier** 🔴 +2 | 572 |
 | 113 | Nicole Powell | 567 |
 | 114 | Loree Moore | 562 |
 | 115 | Sophia Young-Malcolm | 554 |
@@ -1051,7 +1051,7 @@ _Last updated: 2026-08-09 21:12 UTC_
 | 2 | Sue Bird | 1,001 |
 | 3 | Katie Smith | 906 |
 | 4 | Becky Hammon | 825 |
-| 5 | **Kayla McBride** 🔴 +7 | 763 |
+| 5 | **Kayla McBride** 🔴 +8 | 764 |
 | 6 | Tina Thompson | 745 |
 | 7 | Katie Douglas | 723 |
 | 8 | Kelsey Mitchell | 712 |
