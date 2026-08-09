@@ -1,5 +1,14 @@
 [
   {
+    "ts": "2026-08-09T20:49:00+00:00",
+    "text": "Lucy Olsen reached 200 career points (now 200) \u2014 (9.7 - 4th \u2014 PHX @ WSH)",
+    "kind": "round",
+    "player": "Lucy Olsen",
+    "stat": "points",
+    "value": 200,
+    "new_total": 200
+  },
+  {
     "ts": "2026-08-09T20:32:00+00:00",
     "text": "Sonia Citron passed Laurie Koehn for #197 all-time in three-pointers (career 106) \u2014 new to top 200 today \u2014 (6:27 - 4th \u2014 PHX @ WSH)",
     "kind": "rank_pass",
@@ -2982,17 +2991,5 @@
       "Renee Montgomery"
     ],
     "new_total": 357
-  },
-  {
-    "ts": "2026-07-04T04:02:00+00:00",
-    "text": "Jackie Young passed Allie Quigley for #121 all-time in turnovers (career 468) \u2014 up from #123 entering today \u2014 (59.9 - 4th \u2014 CHI @ LV)",
-    "kind": "rank_pass",
-    "player": "Jackie Young",
-    "stat": "turnovers",
-    "rank": 121,
-    "passed_players": [
-      "Allie Quigley"
-    ],
-    "new_total": 468
   }
 ]
