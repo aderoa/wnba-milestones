@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-09 19:54 UTC_
+_Last updated: 2026-08-09 19:55 UTC_
 
 ## Contents
 
@@ -284,7 +284,7 @@ _Last updated: 2026-08-09 19:54 UTC_
 | 58 | Katie Douglas | 1,562 |
 | 59 | Angel McCoughtry | 1,561 |
 | 60 | Penny Taylor | 1,552 |
-| 61 | **Napheesa Collier** 🔴 +4 | 1,514 |
+| 61 | **Napheesa Collier** 🔴 +5 | 1,515 |
 | 62 | Cappie Pondexter | 1,513 |
 | 63 | Ticha Penicheiro | 1,485 |
 | 64 | Alysha Clark | 1,469 |
@@ -443,7 +443,7 @@ _Last updated: 2026-08-09 19:54 UTC_
 | 12 | Cappie Pondexter | 1,575 |
 | 13 | Tamika Catchings | 1,484 |
 | 14 | Danielle Robinson | 1,480 |
-| 15 | **Courtney Williams** 🔴 +2 | 1,440 |
+| 15 | **Courtney Williams** 🔴 +3 | 1,441 |
 | 16 | Shannon Johnson | 1,423 |
 | 16 | Tanisha Wright | 1,423 |
 | 18 | Temeka Johnson | 1,382 |
@@ -797,7 +797,7 @@ _Last updated: 2026-08-09 19:54 UTC_
 | 161 | Charlotte Smith | 81 |
 | 161 | Cintia dos Santos | 81 |
 | 161 | Jessie Hicks | 81 |
-| 164 | Awak Kuier | 80 |
+| 164 | **Awak Kuier** 🔴 | 80 |
 | 164 | Nykesha Sales | 80 |
 | 164 | Rushia Brown | 80 |
 | 167 | Stephanie Talbot | 79 |
