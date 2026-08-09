@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-09 00:58 UTC_
+_Last updated: 2026-08-09 00:59 UTC_
 
 ## Contents
 
@@ -623,9 +623,9 @@ _Last updated: 2026-08-09 00:58 UTC_
 | 190 | Ruthie Bolton | 352 |
 | 192 | Jantel Lavender | 350 |
 | 193 | Sandy Brondello | 349 |
-| 194 | Ebony Hoffman | 347 |
-| 194 | **Ezi Magbegor** 🔴 +3 | 347 |
-| 194 | Tamika Whitmore | 347 |
+| 194 | **Ezi Magbegor** 🔴 +4 | 348 |
+| 195 | Ebony Hoffman | 347 |
+| 195 | Tamika Whitmore | 347 |
 | 197 | Kristen Rasmussen | 345 |
 | 197 | Penny Toler | 345 |
 | 199 | Sonja Henning | 341 |

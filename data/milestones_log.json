@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-08-09T00:59:00+00:00",
+    "text": "Ezi Magbegor passed Ebony Hoffman and Tamika Whitmore for #194 all-time in assists (career 348) \u2014 up from #198 entering today \u2014 (37.3 - 1st \u2014 SEA @ POR)",
+    "kind": "rank_pass",
+    "player": "Ezi Magbegor",
+    "stat": "assists",
+    "rank": 194,
+    "passed_players": [
+      "Ebony Hoffman",
+      "Tamika Whitmore"
+    ],
+    "new_total": 348
+  },
+  {
     "ts": "2026-08-08T21:08:00+00:00",
     "text": "Rachel Banham passed Tianna Hawkins for #194 all-time in turnovers (career 304) \u2014 up from #195 entering today \u2014 (23.1 - 3rd \u2014 IND @ CHI)",
     "kind": "rank_pass",
@@ -2981,17 +2994,5 @@
       "Gabby Williams"
     ],
     "new_total": 1901
-  },
-  {
-    "ts": "2026-07-04T03:18:00+00:00",
-    "text": "Jackie Young passed Ariel Atkins for #122 all-time in turnovers (career 466) \u2014 up from #123 entering today \u2014 (8:14 - 3rd \u2014 CHI @ LV)",
-    "kind": "rank_pass",
-    "player": "Jackie Young",
-    "stat": "turnovers",
-    "rank": 122,
-    "passed_players": [
-      "Ariel Atkins"
-    ],
-    "new_total": 466
   }
 ]
