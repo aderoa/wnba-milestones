@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-09 17:40 UTC_
+_Last updated: 2026-08-09 17:41 UTC_
 
 ## Contents
 
@@ -217,7 +217,7 @@ _Last updated: 2026-08-09 17:40 UTC_
 | 196 | Janell Burse | 1,580 |
 | 197 | Le'coe Willingham | 1,552 |
 | 198 | Shatori Walker-Kimbrough | 1,544 |
-| 199 | **Rebecca Allen** 🔴 +5 | 1,534 |
+| 199 | **Rebecca Allen** 🔴 +10 | 1,539 |
 | 200 | Jennifer Lacy | 1,504 |
 
 ## Rebounds
@@ -422,8 +422,8 @@ _Last updated: 2026-08-09 17:40 UTC_
 | 195 | Shekinna Stricklen | 726 |
 | 197 | Olympia Scott | 711 |
 | 198 | Katie Mattera | 708 |
-| 199 | **Rebecca Allen** 🔴 +4 | 706 |
-| 199 | Rushia Brown | 706 |
+| 199 | **Rebecca Allen** 🔴 +5 | 707 |
+| 200 | Rushia Brown | 706 |
 
 ## Assists
 
@@ -473,7 +473,7 @@ _Last updated: 2026-08-09 17:40 UTC_
 | 42 | Sheryl Swoopes | 1,037 |
 | 43 | Tina Charles | 1,033 |
 | 44 | Kayla McBride | 992 |
-| 45 | **Breanna Stewart** 🔴 +3 | 984 |
+| 45 | **Breanna Stewart** 🔴 +4 | 985 |
 | 46 | Nikki Teasley | 982 |
 | 47 | Tamecka Dixon | 960 |
 | 48 | Tiffany Hayes | 957 |
@@ -958,9 +958,9 @@ _Last updated: 2026-08-09 17:40 UTC_
 | 113 | Kelsey Plum | 267 |
 | 115 | Anna DeForge | 266 |
 | 116 | Brionna Jones | 265 |
+| 117 | **Jonquel Jones** 🔴 +2 | 262 |
 | 117 | Michelle Snow | 262 |
-| 118 | **Jonquel Jones** 🔴 +1 | 261 |
-| 118 | Karima Christmas-Kelly | 261 |
+| 119 | Karima Christmas-Kelly | 261 |
 | 120 | Riquna Williams | 260 |
 | 121 | Noelle Quinn | 256 |
 | 122 | Elaine Powell | 255 |
@@ -1132,7 +1132,7 @@ _Last updated: 2026-08-09 17:40 UTC_
 | 83 | Iziane Castro Marques | 275 |
 | 84 | Sheryl Swoopes | 270 |
 | 85 | Sophia Witherspoon | 260 |
-| 86 | **Rebecca Allen** 🔴 | 255 |
+| 86 | **Rebecca Allen** 🔴 +1 | 256 |
 | 87 | Dawn Staley | 254 |
 | 88 | Bria Hartley | 253 |
 | 88 | Nneka Ogwumike | 253 |
@@ -1283,7 +1283,7 @@ _Last updated: 2026-08-09 17:40 UTC_
 | 29 | Nneka Ogwumike | 803 |
 | 30 | Betty Lennox | 800 |
 | 31 | Jasmine Thomas | 796 |
-| 32 | **Jewell Loyd** 🔴 | 795 |
+| 31 | **Jewell Loyd** 🔴 +1 | 796 |
 | 33 | Chamique Holdsclaw | 789 |
 | 34 | Crystal Langhorne | 782 |
 | 35 | Camille Smith | 779 |
