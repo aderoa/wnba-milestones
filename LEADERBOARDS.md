@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-09 21:01 UTC_
+_Last updated: 2026-08-09 21:02 UTC_
 
 ## Contents
 
@@ -926,8 +926,8 @@ _Last updated: 2026-08-09 21:01 UTC_
 | 81 | **Courtney Williams** 🔴 +1 | 330 |
 | 81 | Leilani Mitchell | 330 |
 | 84 | Kristi Toliver | 329 |
-| 85 | Matee Ajavon | 328 |
-| 85 | **Napheesa Collier** 🔴 +3 | 328 |
+| 84 | **Napheesa Collier** 🔴 +4 | 329 |
+| 86 | Matee Ajavon | 328 |
 | 87 | Gabby Williams | 326 |
 | 88 | Betty Lennox | 323 |
 | 89 | Tammy Sutton-Brown | 319 |

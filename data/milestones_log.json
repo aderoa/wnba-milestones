@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-08-09T21:02:00+00:00",
+    "text": "Napheesa Collier passed Matee Ajavon for #85 all-time in steals (career 329) \u2014 up from #87 entering today \u2014 (33.5 - 3rd \u2014 DAL @ MIN)",
+    "kind": "rank_pass",
+    "player": "Napheesa Collier",
+    "stat": "steals",
+    "rank": 85,
+    "passed_players": [
+      "Matee Ajavon"
+    ],
+    "new_total": 329
+  },
+  {
     "ts": "2026-08-09T21:01:00+00:00",
     "text": "Arike Ogunbowale passed Mwadi Mabika for #97 all-time in turnovers (career 533) \u2014 up from #99 entering today \u2014 (1:10 - 3rd \u2014 DAL @ MIN)",
     "kind": "rank_pass",
@@ -2978,17 +2990,5 @@
     "stat": "assists",
     "value": 200,
     "new_total": 200
-  },
-  {
-    "ts": "2026-07-04T04:13:00+00:00",
-    "text": "Natasha Cloud passed Shannon Johnson for #109 all-time in rebounds (career 1,144) \u2014 up from #110 entering today \u2014 (3:19 - OT \u2014 CHI @ LV)",
-    "kind": "rank_pass",
-    "player": "Natasha Cloud",
-    "stat": "rebounds",
-    "rank": 109,
-    "passed_players": [
-      "Shannon Johnson"
-    ],
-    "new_total": 1144
   }
 ]

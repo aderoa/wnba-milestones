@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-08-09 21:02 UTC
+
+- **Napheesa Collier** passed **Matee Ajavon** for **#85** all-time in steals (career 329) — up from #87 entering today — _33.5 - 3rd — DAL @ MIN_
+
 ## 2026-08-09 21:01 UTC
 
 - **Arike Ogunbowale** passed **Mwadi Mabika** for **#97** all-time in turnovers (career 533) — up from #99 entering today — _1:10 - 3rd — DAL @ MIN_
