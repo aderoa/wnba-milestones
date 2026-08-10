@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-10 00:57 UTC_
+_Last updated: 2026-08-10 00:58 UTC_
 
 ## Contents
 
@@ -94,7 +94,7 @@ _Last updated: 2026-08-10 00:57 UTC_
 | 73 | Jasmine Thomas | 3,522 |
 | 74 | Tamecka Dixon | 3,507 |
 | 75 | Tammy Sutton-Brown | 3,498 |
-| 76 | **Ariel Atkins** 🔴 +4 | 3,485 |
+| 76 | **Ariel Atkins** 🔴 +7 | 3,488 |
 | 77 | Sancho Lyttle | 3,478 |
 | 78 | Ivory Latta | 3,447 |
 | 79 | Nicole Powell | 3,407 |
@@ -479,7 +479,7 @@ _Last updated: 2026-08-10 00:57 UTC_
 | 48 | **Tiffany Hayes** 🔴 +2 | 959 |
 | 49 | Arike Ogunbowale | 948 |
 | 50 | Kara Lawson | 946 |
-| 51 | **Nneka Ogwumike** 🔴 +1 | 934 |
+| 51 | **Nneka Ogwumike** 🔴 +2 | 935 |
 | 52 | Deanna Nolan | 930 |
 | 53 | Kelly Miller | 927 |
 | 54 | DeLisha Milton-Jones | 921 |
@@ -1075,7 +1075,7 @@ _Last updated: 2026-08-10 00:57 UTC_
 | 26 | Breanna Stewart | 465 |
 | 27 | Cappie Pondexter | 464 |
 | 28 | Allisha Gray | 458 |
-| 29 | **Ariel Atkins** 🔴 +1 | 456 |
+| 29 | **Ariel Atkins** 🔴 +2 | 457 |
 | 30 | **Tiffany Hayes** 🔴 +1 | 455 |
 | 31 | Chelsea Gray | 450 |
 | 32 | Skylar Diggins | 447 |
