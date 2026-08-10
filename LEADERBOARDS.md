@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-10 00:14 UTC_
+_Last updated: 2026-08-10 00:15 UTC_
 
 ## Contents
 
@@ -22,7 +22,7 @@ _Last updated: 2026-08-10 00:14 UTC_
 | 1 | Diana Taurasi | 10,608 |
 | 2 | Tina Charles | 8,396 |
 | 3 | DeWanna Bonner | 7,982 |
-| 4 | **Nneka Ogwumike** 🔴 +10 | 7,573 |
+| 4 | **Nneka Ogwumike** 🔴 +12 | 7,575 |
 | 5 | Tina Thompson | 7,470 |
 | 6 | Tamika Catchings | 7,371 |
 | 7 | Candice Dupree | 6,861 |
@@ -148,7 +148,7 @@ _Last updated: 2026-08-10 00:14 UTC_
 | 127 | Ruth Riley | 2,434 |
 | 128 | Svetlana Abrosimova | 2,414 |
 | 129 | Anna DeForge | 2,413 |
-| 130 | **Kayla Thornton** 🔴 +7 | 2,400 |
+| 130 | **Kayla Thornton** 🔴 +9 | 2,402 |
 | 131 | DeMya Walker | 2,379 |
 | 132 | Alex Bentley | 2,350 |
 | 133 | Azurá Stevens | 2,343 |
@@ -195,7 +195,7 @@ _Last updated: 2026-08-10 00:14 UTC_
 | 174 | Jessica Breland | 1,918 |
 | 175 | Nakia Sanford | 1,915 |
 | 176 | Ebony Hoffman | 1,909 |
-| 177 | **Gabby Williams** 🔴 +6 | 1,905 |
+| 177 | **Gabby Williams** 🔴 +8 | 1,907 |
 | 178 | Candice Wiggins | 1,901 |
 | 179 | NaLyssa Smith | 1,886 |
 | 180 | Rachel Banham | 1,843 |
@@ -450,7 +450,7 @@ _Last updated: 2026-08-10 00:14 UTC_
 | 19 | Jasmine Thomas | 1,355 |
 | 20 | Briann January | 1,339 |
 | 21 | Dawn Staley | 1,337 |
-| 22 | **Erica Wheeler** 🔴 +1 | 1,336 |
+| 21 | **Erica Wheeler** 🔴 +2 | 1,337 |
 | 23 | Teresa Weatherspoon | 1,333 |
 | 24 | Kristi Toliver | 1,301 |
 | 25 | Kelsey Plum | 1,272 |
@@ -950,10 +950,10 @@ _Last updated: 2026-08-10 00:14 UTC_
 | 106 | Tari Phillips | 277 |
 | 107 | Emma Meesseman | 276 |
 | 107 | Erika de Souza | 276 |
+| 109 | **Kayla Thornton** 🔴 +1 | 271 |
 | 109 | Rita Williams | 271 |
-| 110 | **Kayla Thornton** 🔴 | 270 |
-| 110 | Natalie Williams | 270 |
-| 110 | Nicky Anosike | 270 |
+| 111 | Natalie Williams | 270 |
+| 111 | Nicky Anosike | 270 |
 | 113 | Crystal Robinson | 267 |
 | 113 | Kelsey Plum | 267 |
 | 115 | Anna DeForge | 266 |
@@ -1298,7 +1298,7 @@ _Last updated: 2026-08-10 00:14 UTC_
 | 43 | Michelle Snow | 723 |
 | 44 | Tamecka Dixon | 716 |
 | 45 | Natasha Cloud | 707 |
-| 46 | **Erica Wheeler** 🔴 | 699 |
+| 46 | **Erica Wheeler** 🔴 +1 | 700 |
 | 47 | Renee Montgomery | 697 |
 | 48 | Temeka Johnson | 696 |
 | 49 | Penny Taylor | 695 |
