@@ -1323,7 +1323,7 @@ _Last updated: 2026-08-10 01:01 UTC_
 | 68 | Odyssey Sims | 634 |
 | 69 | Svetlana Abrosimova | 631 |
 | 70 | Kahleah Copper | 627 |
-| 71 | **Tiffany Hayes** 🔴 +2 | 626 |
+| 70 | **Tiffany Hayes** 🔴 +3 | 627 |
 | 72 | Rebekkah Brunson | 615 |
 | 73 | Seimone Augustus | 613 |
 | 74 | Teresa Weatherspoon | 601 |
