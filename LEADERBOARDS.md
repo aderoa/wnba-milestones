@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-10 00:58 UTC_
+_Last updated: 2026-08-10 00:59 UTC_
 
 ## Contents
 
@@ -47,7 +47,7 @@ _Last updated: 2026-08-10 00:58 UTC_
 | 26 | Lindsay Whalen | 5,511 |
 | 27 | Kelsey Mitchell | 5,198 |
 | 28 | Swin Cash | 5,119 |
-| 29 | **Tiffany Hayes** 🔴 +11 | 5,060 |
+| 29 | **Tiffany Hayes** 🔴 +14 | 5,063 |
 | 30 | Tangela Smith | 5,035 |
 | 31 | Taj McWilliams-Franklin | 4,992 |
 | 32 | Maya Moore | 4,984 |
@@ -107,7 +107,7 @@ _Last updated: 2026-08-10 00:58 UTC_
 | 86 | Marina Mabrey | 3,249 |
 | 87 | Stefanie Dolson | 3,217 |
 | 88 | Margo Dydek | 3,214 |
-| 89 | **Erica Wheeler** 🔴 +12 | 3,207 |
+| 89 | **Erica Wheeler** 🔴 +15 | 3,210 |
 | 90 | Danielle Robinson | 3,160 |
 | 91 | Wendy Palmer | 3,135 |
 | 92 | Shavonte Zellous | 3,103 |
@@ -195,7 +195,7 @@ _Last updated: 2026-08-10 00:58 UTC_
 | 174 | Jessica Breland | 1,918 |
 | 175 | Nakia Sanford | 1,915 |
 | 176 | Ebony Hoffman | 1,909 |
-| 177 | **Gabby Williams** 🔴 +8 | 1,907 |
+| 176 | **Gabby Williams** 🔴 +10 | 1,909 |
 | 178 | Candice Wiggins | 1,901 |
 | 179 | NaLyssa Smith | 1,886 |
 | 180 | Rachel Banham | 1,843 |
@@ -479,7 +479,7 @@ _Last updated: 2026-08-10 00:58 UTC_
 | 48 | **Tiffany Hayes** 🔴 +2 | 959 |
 | 49 | Arike Ogunbowale | 948 |
 | 50 | Kara Lawson | 946 |
-| 51 | **Nneka Ogwumike** 🔴 +2 | 935 |
+| 51 | **Nneka Ogwumike** 🔴 +3 | 936 |
 | 52 | Deanna Nolan | 930 |
 | 53 | Kelly Miller | 927 |
 | 54 | DeLisha Milton-Jones | 921 |
@@ -537,7 +537,7 @@ _Last updated: 2026-08-10 00:58 UTC_
 | 106 | Betnijah Laney-Hamilton | 590 |
 | 106 | Camille Smith | 590 |
 | 108 | Armintie Herrington | 589 |
-| 109 | **Veronica Burton** 🔴 +5 | 584 |
+| 109 | **Veronica Burton** 🔴 +6 | 585 |
 | 110 | Tan White | 578 |
 | 111 | Matee Ajavon | 577 |
 | 112 | Napheesa Collier | 573 |
@@ -885,7 +885,7 @@ _Last updated: 2026-08-10 00:58 UTC_
 | 41 | Candice Dupree | 431 |
 | 42 | Epiphanny Prince | 429 |
 | 43 | Tanisha Wright | 427 |
-| 44 | **Dearica Hamby** 🔴 | 411 |
+| 44 | **Dearica Hamby** 🔴 +1 | 412 |
 | 45 | Katie Smith | 408 |
 | 46 | Cappie Pondexter | 405 |
 | 47 | Nicole Powell | 401 |
@@ -928,7 +928,7 @@ _Last updated: 2026-08-10 00:58 UTC_
 | 84 | Kristi Toliver | 329 |
 | 84 | Napheesa Collier | 329 |
 | 86 | Matee Ajavon | 328 |
-| 87 | **Gabby Williams** 🔴 | 326 |
+| 87 | **Gabby Williams** 🔴 +1 | 327 |
 | 88 | Betty Lennox | 323 |
 | 89 | Tammy Sutton-Brown | 319 |
 | 90 | Alysha Clark | 317 |
@@ -1076,7 +1076,7 @@ _Last updated: 2026-08-10 00:58 UTC_
 | 27 | Cappie Pondexter | 464 |
 | 28 | Allisha Gray | 458 |
 | 29 | **Ariel Atkins** 🔴 +2 | 457 |
-| 30 | **Tiffany Hayes** 🔴 +1 | 455 |
+| 30 | **Tiffany Hayes** 🔴 +2 | 456 |
 | 31 | Chelsea Gray | 450 |
 | 32 | Skylar Diggins | 447 |
 | 33 | Lauren Jackson | 436 |
@@ -1106,7 +1106,7 @@ _Last updated: 2026-08-10 00:58 UTC_
 | 56 | Elena Delle Donne | 343 |
 | 58 | Candace Parker | 342 |
 | 59 | Deanna Nolan | 340 |
-| 60 | **Erica Wheeler** 🔴 +2 | 339 |
+| 59 | **Erica Wheeler** 🔴 +3 | 340 |
 | 61 | Anna DeForge | 334 |
 | 61 | Sophie Cunningham | 334 |
 | 63 | Natisha Hiedeman | 328 |
@@ -1302,8 +1302,8 @@ _Last updated: 2026-08-10 00:58 UTC_
 | 47 | Renee Montgomery | 697 |
 | 48 | Temeka Johnson | 696 |
 | 49 | Penny Taylor | 695 |
-| 50 | **Dearica Hamby** 🔴 +1 | 685 |
-| 50 | Dominique Canty | 685 |
+| 50 | **Dearica Hamby** 🔴 +2 | 686 |
+| 51 | Dominique Canty | 685 |
 | 52 | DeMya Walker | 684 |
 | 53 | Asjha Jones | 682 |
 | 54 | Danielle Robinson | 680 |
@@ -1447,8 +1447,8 @@ _Last updated: 2026-08-10 00:58 UTC_
 | 191 | Jennifer Lacy | 305 |
 | 193 | Azurá Stevens | 304 |
 | 194 | Tianna Hawkins | 303 |
-| 195 | **Kayla Thornton** 🔴 +3 | 301 |
-| 195 | Rachel Banham | 301 |
+| 195 | **Kayla Thornton** 🔴 +4 | 302 |
+| 196 | Rachel Banham | 301 |
 | 197 | Crystal Robinson | 299 |
 | 198 | Michele Timms | 297 |
 | 199 | Damiris Dantas | 289 |

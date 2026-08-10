@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-08-10 00:59 UTC
+
+- **Kayla Thornton** passed **Rachel Banham** for **#195** all-time in turnovers (career 302) — up from #197 entering today — _1:03 - 4th — GS @ LA_
+
 ## 2026-08-10 00:10 UTC
 
 - **Cecilia Zandalasini** passed **Ebony Hoffman**, **Shey Peddy**, and **Stephanie White** for **#184** all-time in three-pointers (career 116) — up from #190 entering today — _7:43 - 3rd — GS @ LA_

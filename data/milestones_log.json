@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-08-10T00:59:00+00:00",
+    "text": "Kayla Thornton passed Rachel Banham for #195 all-time in turnovers (career 302) \u2014 up from #197 entering today \u2014 (1:03 - 4th \u2014 GS @ LA)",
+    "kind": "rank_pass",
+    "player": "Kayla Thornton",
+    "stat": "turnovers",
+    "rank": 195,
+    "passed_players": [
+      "Rachel Banham"
+    ],
+    "new_total": 302
+  },
+  {
     "ts": "2026-08-10T00:10:00+00:00",
     "text": "Cecilia Zandalasini passed Ebony Hoffman, Shey Peddy, and Stephanie White for #184 all-time in three-pointers (career 116) \u2014 up from #190 entering today \u2014 (7:43 - 3rd \u2014 GS @ LA)",
     "kind": "rank_pass",
@@ -2985,17 +2997,5 @@
       "Nicky Anosike"
     ],
     "new_total": 271
-  },
-  {
-    "ts": "2026-07-04T17:37:00+00:00",
-    "text": "Gabby Williams passed Matee Ajavon for #85 all-time in steals (career 329) \u2014 up from #86 entering today \u2014 (6:28 - 2nd \u2014 GS @ ATL)",
-    "kind": "rank_pass",
-    "player": "Gabby Williams",
-    "stat": "steals",
-    "rank": 85,
-    "passed_players": [
-      "Matee Ajavon"
-    ],
-    "new_total": 329
   }
 ]
