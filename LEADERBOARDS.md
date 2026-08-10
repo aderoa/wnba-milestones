@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-10 01:01 UTC_
+_Last updated: 2026-08-10 01:02 UTC_
 
 ## Contents
 
@@ -1447,8 +1447,8 @@ _Last updated: 2026-08-10 01:01 UTC_
 | 191 | Jennifer Lacy | 305 |
 | 193 | Azurá Stevens | 304 |
 | 194 | Tianna Hawkins | 303 |
-| 195 | **Kayla Thornton** 🔴 +4 | 302 |
-| 196 | Rachel Banham | 301 |
+| 195 | **Kayla Thornton** 🔴 +3 | 301 |
+| 195 | Rachel Banham | 301 |
 | 197 | Crystal Robinson | 299 |
 | 198 | Michele Timms | 297 |
 | 199 | Damiris Dantas | 289 |
@@ -1554,8 +1554,8 @@ _Last updated: 2026-08-10 01:01 UTC_
 | 92 | Jasmine Thomas | 685 |
 | 95 | Jewell Loyd | 684 |
 | 95 | Leilani Mitchell | 684 |
-| 97 | Crystal Robinson | 682 |
-| 97 | **Kayla Thornton** 🔴 | 682 |
+| 97 | **Kayla Thornton** 🔴 +1 | 683 |
+| 98 | Crystal Robinson | 682 |
 | 99 | Jennifer Lacy | 680 |
 | 99 | Temeka Johnson | 680 |
 | 101 | Kelly Miller | 676 |
