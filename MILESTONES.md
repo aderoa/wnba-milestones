@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-08-10 00:10 UTC
+
+- **Cecilia Zandalasini** passed **Ebony Hoffman**, **Shey Peddy**, and **Stephanie White** for **#184** all-time in three-pointers (career 116) — up from #190 entering today — _7:43 - 3rd — GS @ LA_
+
 ## 2026-08-09 23:39 UTC
 
 - **Cecilia Zandalasini** passed **Gordana Grubin**, **Rickea Jackson**, and **Sandy Brondello** for **#187** all-time in three-pointers (career 115) — up from #190 entering today — _4:12 - 2nd — GS @ LA_

@@ -1,5 +1,19 @@
 [
   {
+    "ts": "2026-08-10T00:10:00+00:00",
+    "text": "Cecilia Zandalasini passed Ebony Hoffman, Shey Peddy, and Stephanie White for #184 all-time in three-pointers (career 116) \u2014 up from #190 entering today \u2014 (7:43 - 3rd \u2014 GS @ LA)",
+    "kind": "rank_pass",
+    "player": "Cecilia Zandalasini",
+    "stat": "three-pointers",
+    "rank": 184,
+    "passed_players": [
+      "Ebony Hoffman",
+      "Shey Peddy",
+      "Stephanie White"
+    ],
+    "new_total": 116
+  },
+  {
     "ts": "2026-08-09T23:39:00+00:00",
     "text": "Cecilia Zandalasini passed Gordana Grubin, Rickea Jackson, and Sandy Brondello for #187 all-time in three-pointers (career 115) \u2014 up from #190 entering today \u2014 (4:12 - 2nd \u2014 GS @ LA)",
     "kind": "rank_pass",
@@ -2983,17 +2997,5 @@
       "Matee Ajavon"
     ],
     "new_total": 329
-  },
-  {
-    "ts": "2026-07-04T17:06:00+00:00",
-    "text": "Kayla Thornton passed Damiris Dantas for #183 all-time in assists (career 369) \u2014 up from #184 entering today \u2014 (7:54 - 1st \u2014 GS @ ATL)",
-    "kind": "rank_pass",
-    "player": "Kayla Thornton",
-    "stat": "assists",
-    "rank": 183,
-    "passed_players": [
-      "Damiris Dantas"
-    ],
-    "new_total": 369
   }
 ]
