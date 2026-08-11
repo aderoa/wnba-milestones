@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-11 00:45 UTC_
+_Last updated: 2026-08-11 00:46 UTC_
 
 ## Contents
 
@@ -132,7 +132,7 @@ _Last updated: 2026-08-11 00:45 UTC_
 | 111 | Essence Carson | 2,647 |
 | 111 | Lindsey Harding | 2,647 |
 | 113 | Cheyenne Parker-Tyus | 2,645 |
-| 114 | **Rhyne Howard** 🔴 +6 | 2,643 |
+| 113 | **Rhyne Howard** 🔴 +8 | 2,645 |
 | 115 | Tamera Young | 2,641 |
 | 116 | Liz Cambage | 2,634 |
 | 117 | Janeth Arcain | 2,633 |
@@ -186,8 +186,8 @@ _Last updated: 2026-08-11 00:45 UTC_
 | 165 | Chiney Ogwumike | 1,964 |
 | 166 | Nicole Ohlde | 1,959 |
 | 167 | Myisha Hines-Allen | 1,956 |
-| 168 | **Isabelle Harrison** 🔴 +6 | 1,938 |
-| 168 | Kedra Holland-Corn | 1,938 |
+| 168 | **Isabelle Harrison** 🔴 +8 | 1,940 |
+| 169 | Kedra Holland-Corn | 1,938 |
 | 170 | Cathrine Kraayeveld | 1,926 |
 | 171 | Roneeka Hodges | 1,925 |
 | 172 | Latasha Byears | 1,920 |
@@ -216,7 +216,7 @@ _Last updated: 2026-08-11 00:45 UTC_
 | 195 | Monique Billings | 1,612 |
 | 196 | Janell Burse | 1,580 |
 | 197 | Le'coe Willingham | 1,552 |
-| 198 | Shatori Walker-Kimbrough | 1,544 |
+| 198 | **Shatori Walker-Kimbrough** 🔴 | 1,544 |
 | 199 | Rebecca Allen | 1,529 |
 | 200 | Jennifer Lacy | 1,504 |
 
@@ -499,8 +499,8 @@ _Last updated: 2026-08-11 00:45 UTC_
 | 67 | Kelsey Mitchell | 847 |
 | 68 | Jia Perkins | 837 |
 | 69 | Andrea Stinson | 810 |
+| 70 | **Marina Mabrey** 🔴 +2 | 803 |
 | 70 | Tina Thompson | 803 |
-| 71 | **Marina Mabrey** 🔴 +1 | 802 |
 | 72 | Epiphanny Prince | 800 |
 | 73 | Mwadi Mabika | 774 |
 | 74 | **Allisha Gray** 🔴 | 767 |
@@ -791,7 +791,7 @@ _Last updated: 2026-08-11 00:45 UTC_
 | 151 | Kristin Folkl | 85 |
 | 155 | Charde Houston | 84 |
 | 155 | **Marina Mabrey** 🔴 | 84 |
-| 155 | Shatori Walker-Kimbrough | 84 |
+| 155 | **Shatori Walker-Kimbrough** 🔴 | 84 |
 | 158 | Tamera Young | 83 |
 | 159 | Cameron Brink | 82 |
 | 159 | Damiris Dantas | 82 |
@@ -1012,7 +1012,7 @@ _Last updated: 2026-08-11 00:45 UTC_
 | 167 | Jessica Breland | 204 |
 | 167 | Murriel Page | 204 |
 | 167 | Natisha Hiedeman | 204 |
-| 167 | Shatori Walker-Kimbrough | 204 |
+| 167 | **Shatori Walker-Kimbrough** 🔴 | 204 |
 | 171 | Adrienne Goodson | 203 |
 | 172 | Allie Quigley | 198 |
 | 173 | Layshia Clarendon | 195 |
@@ -1173,7 +1173,7 @@ _Last updated: 2026-08-11 00:45 UTC_
 | 122 | Camille Smith | 179 |
 | 124 | Swin Cash | 176 |
 | 125 | Nikki McCray | 175 |
-| 126 | Shatori Walker-Kimbrough | 174 |
+| 126 | **Shatori Walker-Kimbrough** 🔴 | 174 |
 | 126 | Tayler Hill | 174 |
 | 128 | Theresa Plaisance | 172 |
 | 129 | Amanda Lassiter | 170 |
