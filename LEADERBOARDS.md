@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-11 02:21 UTC_
+_Last updated: 2026-08-11 02:22 UTC_
 
 ## Contents
 
@@ -333,7 +333,7 @@ _Last updated: 2026-08-11 02:21 UTC_
 | 107 | Brittney Sykes | 1,162 |
 | 108 | Nykesha Sales | 1,148 |
 | 109 | Shannon Johnson | 1,143 |
-| 110 | **Natasha Cloud** 🔴 | 1,141 |
+| 110 | **Natasha Cloud** 🔴 +1 | 1,142 |
 | 111 | Adrian Williams-Strong | 1,131 |
 | 112 | Andrea Stinson | 1,127 |
 | 112 | Tamika Raymond | 1,127 |
@@ -958,7 +958,7 @@ _Last updated: 2026-08-11 02:21 UTC_
 | 113 | Crystal Robinson | 267 |
 | 113 | Kelsey Plum | 267 |
 | 115 | Anna DeForge | 266 |
-| 116 | Brionna Jones | 265 |
+| 115 | Brionna Jones | 266 |
 | 117 | Michelle Snow | 262 |
 | 118 | Karima Christmas-Kelly | 261 |
 | 119 | Jonquel Jones | 260 |
