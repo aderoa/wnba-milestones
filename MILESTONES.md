@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-08-11 04:01 UTC
+
+- **DiJonai Carrington** reached **1,400** career points (now 1,400) — _2:20 - 4th — CHI @ SEA_
+
 ## 2026-08-11 02:04 UTC
 
 - **Rhyne Howard** passed **Crystal Robinson** for **#35** all-time in three-pointers (career 426) — up from #36 entering today — _3:40 - 4th — TOR @ ATL_

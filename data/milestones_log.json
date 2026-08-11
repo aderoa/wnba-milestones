@@ -1,5 +1,14 @@
 [
   {
+    "ts": "2026-08-11T04:01:00+00:00",
+    "text": "DiJonai Carrington reached 1,400 career points (now 1,400) \u2014 (2:20 - 4th \u2014 CHI @ SEA)",
+    "kind": "round",
+    "player": "DiJonai Carrington",
+    "stat": "points",
+    "value": 1400,
+    "new_total": 1400
+  },
+  {
     "ts": "2026-08-11T02:04:00+00:00",
     "text": "Rhyne Howard passed Crystal Robinson for #35 all-time in three-pointers (career 426) \u2014 up from #36 entering today \u2014 (3:40 - 4th \u2014 TOR @ ATL)",
     "kind": "rank_pass",
@@ -2984,17 +2993,5 @@
       "Kayla Thornton"
     ],
     "new_total": 1409
-  },
-  {
-    "ts": "2026-07-04T18:57:00+00:00",
-    "text": "Kiah Stokes passed Diamond DeShields for #190 all-time in steals (career 181) \u2014 up from #191 entering today \u2014 (8:10 - 4th \u2014 GS @ ATL)",
-    "kind": "rank_pass",
-    "player": "Kiah Stokes",
-    "stat": "steals",
-    "rank": 190,
-    "passed_players": [
-      "Diamond DeShields"
-    ],
-    "new_total": 181
   }
 ]
