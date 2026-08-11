@@ -319,7 +319,7 @@ _Last updated: 2026-08-11 03:51 UTC_
 | 93 | Chelsea Gray | 1,257 |
 | 93 | Tiffany Hayes | 1,257 |
 | 95 | Kayla McBride | 1,256 |
-| 96 | **Ezi Magbegor** 🔴 +3 | 1,246 |
+| 96 | **Ezi Magbegor** 🔴 +4 | 1,247 |
 | 97 | Brianna Turner | 1,243 |
 | 98 | Seimone Augustus | 1,228 |
 | 99 | Jia Perkins | 1,220 |
@@ -657,7 +657,7 @@ _Last updated: 2026-08-11 03:51 UTC_
 | 19 | Natasha Howard | 370 |
 | 21 | Jessica Breland | 367 |
 | 22 | DeWanna Bonner | 358 |
-| 23 | **Ezi Magbegor** 🔴 | 354 |
+| 23 | **Ezi Magbegor** 🔴 +1 | 355 |
 | 24 | Kiah Stokes | 352 |
 | 25 | Diana Taurasi | 349 |
 | 25 | Elena Delle Donne | 349 |
