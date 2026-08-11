@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-11 03:40 UTC_
+_Last updated: 2026-08-11 03:41 UTC_
 
 ## Contents
 
@@ -198,7 +198,7 @@ _Last updated: 2026-08-11 03:40 UTC_
 | 177 | Candice Wiggins | 1,901 |
 | 178 | Gabby Williams | 1,899 |
 | 179 | NaLyssa Smith | 1,879 |
-| 180 | **Rachel Banham** 🔴 +6 | 1,849 |
+| 180 | **Rachel Banham** 🔴 +8 | 1,851 |
 | 181 | Damiris Dantas | 1,842 |
 | 182 | Sophie Cunningham | 1,829 |
 | 183 | Tianna Hawkins | 1,825 |
@@ -1589,7 +1589,7 @@ _Last updated: 2026-08-11 03:40 UTC_
 | 129 | Chiney Ogwumike | 580 |
 | 129 | Hamchetou Maiga-Ba | 580 |
 | 129 | Olympia Scott | 580 |
-| 132 | **Ezi Magbegor** 🔴 +2 | 578 |
+| 132 | **Ezi Magbegor** 🔴 +3 | 579 |
 | 133 | Le'coe Willingham | 571 |
 | 134 | Marina Mabrey | 569 |
 | 135 | Ashley Robinson | 567 |
