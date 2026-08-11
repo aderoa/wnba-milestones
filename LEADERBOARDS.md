@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-11 23:34 UTC_
+_Last updated: 2026-08-11 23:35 UTC_
 
 ## Contents
 
@@ -67,7 +67,7 @@ _Last updated: 2026-08-11 23:34 UTC_
 | 46 | Crystal Langhorne | 4,433 |
 | 46 | Jia Perkins | 4,433 |
 | 48 | Courtney Vandersloot | 4,362 |
-| 49 | **Jonquel Jones** 🔴 | 4,353 |
+| 49 | **Jonquel Jones** 🔴 +3 | 4,356 |
 | 50 | Courtney Williams | 4,350 |
 | 51 | Dearica Hamby | 4,330 |
 | 52 | Sophia Young-Malcolm | 4,300 |
@@ -238,7 +238,7 @@ _Last updated: 2026-08-11 23:34 UTC_
 | 12 | Alyssa Thomas | 2,858 |
 | 13 | **Jonquel Jones** 🔴 | 2,728 |
 | 14 | A'ja Wilson | 2,657 |
-| 15 | **Breanna Stewart** 🔴 +1 | 2,633 |
+| 15 | **Breanna Stewart** 🔴 +2 | 2,634 |
 | 16 | Sancho Lyttle | 2,596 |
 | 17 | Brittney Griner | 2,579 |
 | 18 | DeLisha Milton-Jones | 2,574 |
@@ -324,8 +324,8 @@ _Last updated: 2026-08-11 23:34 UTC_
 | 98 | Seimone Augustus | 1,228 |
 | 99 | Jia Perkins | 1,220 |
 | 100 | Kahleah Copper | 1,204 |
+| 101 | **Aliyah Boston** 🔴 +1 | 1,199 |
 | 101 | DeMya Walker | 1,199 |
-| 102 | **Aliyah Boston** 🔴 | 1,198 |
 | 103 | Latasha Byears | 1,190 |
 | 103 | Tanisha Wright | 1,190 |
 | 105 | Vicky Bullett | 1,189 |
@@ -474,8 +474,8 @@ _Last updated: 2026-08-11 23:34 UTC_
 | 42 | Sheryl Swoopes | 1,037 |
 | 43 | Tina Charles | 1,033 |
 | 44 | Kayla McBride | 992 |
+| 45 | **Breanna Stewart** 🔴 +1 | 982 |
 | 45 | Nikki Teasley | 982 |
-| 46 | **Breanna Stewart** 🔴 | 981 |
 | 47 | Tamecka Dixon | 960 |
 | 48 | Tiffany Hayes | 957 |
 | 49 | Kara Lawson | 946 |
@@ -649,7 +649,7 @@ _Last updated: 2026-08-11 23:34 UTC_
 | 12 | **Breanna Stewart** 🔴 | 450 |
 | 13 | Taj McWilliams-Franklin | 443 |
 | 14 | Tina Charles | 428 |
-| 15 | **Jonquel Jones** 🔴 | 425 |
+| 15 | **Jonquel Jones** 🔴 +1 | 426 |
 | 16 | Michelle Snow | 403 |
 | 17 | Tamika Catchings | 383 |
 | 18 | Tina Thompson | 372 |
@@ -1025,9 +1025,9 @@ _Last updated: 2026-08-11 23:34 UTC_
 | 180 | Tamicha Jackson | 188 |
 | 181 | Michele Timms | 187 |
 | 182 | Charde Houston | 185 |
+| 182 | **Sabrina Ionescu** 🔴 +1 | 185 |
 | 182 | Tiffany Jackson | 185 |
-| 184 | Erin Perperoglou | 184 |
-| 184 | **Sabrina Ionescu** 🔴 | 184 |
+| 185 | Erin Perperoglou | 184 |
 | 186 | **Rebecca Allen** 🔴 | 183 |
 | 187 | Erin Phillips | 182 |
 | 187 | Monique Billings | 182 |
@@ -1089,9 +1089,9 @@ _Last updated: 2026-08-11 23:34 UTC_
 | 38 | Riquna Williams | 407 |
 | 40 | Jia Perkins | 396 |
 | 41 | Alysha Clark | 394 |
+| 42 | **Jonquel Jones** 🔴 +1 | 390 |
 | 42 | Rachel Banham | 390 |
-| 43 | **Jonquel Jones** 🔴 | 389 |
-| 43 | Roneeka Hodges | 389 |
+| 44 | Roneeka Hodges | 389 |
 | 45 | Courtney Vandersloot | 386 |
 | 46 | Briann January | 381 |
 | 47 | Jasmine Thomas | 376 |
@@ -1413,7 +1413,7 @@ _Last updated: 2026-08-11 23:34 UTC_
 | 158 | Anna DeForge | 374 |
 | 158 | Cheryl Ford | 374 |
 | 160 | Allison Feaster | 372 |
-| 161 | **Caitlin Clark** 🔴 | 368 |
+| 161 | **Caitlin Clark** 🔴 +1 | 369 |
 | 162 | Emma Meesseman | 367 |
 | 163 | Latasha Byears | 360 |
 | 164 | Vicky Bullett | 359 |
