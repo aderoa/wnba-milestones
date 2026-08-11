@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-08-11 02:04 UTC
+
+- **Rhyne Howard** passed **Crystal Robinson** for **#35** all-time in three-pointers (career 426) — up from #36 entering today — _3:40 - 4th — TOR @ ATL_
+
 ## 2026-08-11 01:34 UTC
 
 - **Jordin Canada** passed **Myisha Hines-Allen** for **#166** all-time in three-pointers (career 132) — up from #171 entering today — _3:04 - 3rd — TOR @ ATL_
