@@ -624,8 +624,8 @@ _Last updated: 2026-08-11 04:01 UTC_
 | 192 | Jantel Lavender | 350 |
 | 193 | Sandy Brondello | 349 |
 | 194 | Ebony Hoffman | 347 |
+| 194 | **Ezi Magbegor** 🔴 +3 | 347 |
 | 194 | Tamika Whitmore | 347 |
-| 196 | **Ezi Magbegor** 🔴 +2 | 346 |
 | 197 | Kristen Rasmussen | 345 |
 | 197 | Penny Toler | 345 |
 | 199 | Sonja Henning | 341 |
@@ -1297,7 +1297,7 @@ _Last updated: 2026-08-11 04:01 UTC_
 | 42 | Monique Currie | 724 |
 | 43 | Michelle Snow | 723 |
 | 44 | Tamecka Dixon | 716 |
-| 45 | **Natasha Cloud** 🔴 +2 | 709 |
+| 45 | **Natasha Cloud** 🔴 +3 | 710 |
 | 46 | Erica Wheeler | 699 |
 | 47 | Renee Montgomery | 697 |
 | 48 | Temeka Johnson | 696 |
