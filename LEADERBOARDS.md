@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-11 03:34 UTC_
+_Last updated: 2026-08-11 03:35 UTC_
 
 ## Contents
 
@@ -151,8 +151,8 @@ _Last updated: 2026-08-11 03:34 UTC_
 | 130 | Kayla Thornton | 2,393 |
 | 131 | DeMya Walker | 2,379 |
 | 132 | Jordin Canada | 2,362 |
-| 133 | Alex Bentley | 2,350 |
-| 133 | **Azurá Stevens** 🔴 +7 | 2,350 |
+| 133 | **Azurá Stevens** 🔴 +9 | 2,352 |
+| 134 | Alex Bentley | 2,350 |
 | 135 | Merlakia Jones | 2,308 |
 | 136 | Betnijah Laney-Hamilton | 2,302 |
 | 137 | Satou Sabally | 2,296 |
@@ -431,7 +431,7 @@ _Last updated: 2026-08-11 03:34 UTC_
 | Rank | Player | Total |
 |-----:|--------|------:|
 | 1 | Sue Bird | 3,234 |
-| 2 | **Courtney Vandersloot** 🔴 +2 | 2,896 |
+| 2 | **Courtney Vandersloot** 🔴 +3 | 2,897 |
 | 3 | Ticha Penicheiro | 2,588 |
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
