@@ -124,7 +124,7 @@ _Last updated: 2026-08-11 01:34 UTC_
 | 103 | Iziane Castro Marques | 2,862 |
 | 104 | Alysha Clark | 2,808 |
 | 105 | Jantel Lavender | 2,775 |
-| 106 | **Brionna Jones** 🔴 +7 | 2,772 |
+| 106 | **Brionna Jones** 🔴 +9 | 2,774 |
 | 107 | Dominique Canty | 2,763 |
 | 108 | Ticha Penicheiro | 2,729 |
 | 109 | Adrienne Goodson | 2,705 |
@@ -150,7 +150,7 @@ _Last updated: 2026-08-11 01:34 UTC_
 | 129 | Anna DeForge | 2,413 |
 | 130 | Kayla Thornton | 2,393 |
 | 131 | DeMya Walker | 2,379 |
-| 132 | **Jordin Canada** 🔴 +15 | 2,357 |
+| 132 | **Jordin Canada** 🔴 +18 | 2,360 |
 | 133 | Alex Bentley | 2,350 |
 | 134 | Azurá Stevens | 2,343 |
 | 135 | Merlakia Jones | 2,308 |
@@ -186,7 +186,7 @@ _Last updated: 2026-08-11 01:34 UTC_
 | 165 | Chiney Ogwumike | 1,964 |
 | 166 | Nicole Ohlde | 1,959 |
 | 167 | Myisha Hines-Allen | 1,956 |
-| 168 | **Isabelle Harrison** 🔴 +8 | 1,940 |
+| 168 | **Isabelle Harrison** 🔴 +10 | 1,942 |
 | 169 | Kedra Holland-Corn | 1,938 |
 | 170 | Cathrine Kraayeveld | 1,926 |
 | 171 | Roneeka Hodges | 1,925 |
@@ -499,11 +499,11 @@ _Last updated: 2026-08-11 01:34 UTC_
 | 67 | Kelsey Mitchell | 847 |
 | 68 | Jia Perkins | 837 |
 | 69 | Andrea Stinson | 810 |
-| 70 | **Marina Mabrey** 🔴 +2 | 803 |
-| 70 | Tina Thompson | 803 |
+| 70 | **Marina Mabrey** 🔴 +3 | 804 |
+| 71 | Tina Thompson | 803 |
 | 72 | Epiphanny Prince | 800 |
 | 73 | Mwadi Mabika | 774 |
-| 74 | **Allisha Gray** 🔴 | 767 |
+| 74 | **Allisha Gray** 🔴 +1 | 768 |
 | 75 | Sheri Sam | 745 |
 | 76 | Monique Currie | 740 |
 | 77 | Elaine Powell | 728 |
@@ -1213,8 +1213,8 @@ _Last updated: 2026-08-11 01:34 UTC_
 | 163 | Shay Murphy | 134 |
 | 164 | Brooke Wyckoff | 132 |
 | 164 | Jenna O'Hea | 132 |
-| 166 | **Jordin Canada** 🔴 +3 | 131 |
-| 166 | Myisha Hines-Allen | 131 |
+| 164 | **Jordin Canada** 🔴 +4 | 132 |
+| 167 | Myisha Hines-Allen | 131 |
 | 168 | Amanda Zahui B | 130 |
 | 168 | Eva Nemcova | 130 |
 | 170 | Crystal Dangerfield | 129 |

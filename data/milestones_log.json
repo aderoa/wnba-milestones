@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-08-11T01:34:00+00:00",
+    "text": "Jordin Canada passed Myisha Hines-Allen for #166 all-time in three-pointers (career 132) \u2014 up from #171 entering today \u2014 (3:04 - 3rd \u2014 TOR @ ATL)",
+    "kind": "rank_pass",
+    "player": "Jordin Canada",
+    "stat": "three-pointers",
+    "rank": 166,
+    "passed_players": [
+      "Myisha Hines-Allen"
+    ],
+    "new_total": 132
+  },
+  {
     "ts": "2026-08-10T00:59:00+00:00",
     "text": "Kayla Thornton passed Rachel Banham for #195 all-time in turnovers (career 302) \u2014 up from #197 entering today \u2014 (1:03 - 4th \u2014 GS @ LA)",
     "kind": "rank_pass",
@@ -2984,18 +2996,5 @@
       "Alanna Smith"
     ],
     "new_total": 157
-  },
-  {
-    "ts": "2026-07-04T17:42:00+00:00",
-    "text": "Kayla Thornton passed Natalie Williams and Nicky Anosike for #111 all-time in steals (career 271) \u2014 (4:04 - 2nd \u2014 GS @ ATL)",
-    "kind": "rank_pass",
-    "player": "Kayla Thornton",
-    "stat": "steals",
-    "rank": 111,
-    "passed_players": [
-      "Natalie Williams",
-      "Nicky Anosike"
-    ],
-    "new_total": 271
   }
 ]
