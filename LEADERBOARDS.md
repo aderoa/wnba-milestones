@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-11 02:10 UTC_
+_Last updated: 2026-08-11 02:11 UTC_
 
 ## Contents
 
@@ -123,7 +123,7 @@ _Last updated: 2026-08-11 02:10 UTC_
 | 102 | Jennifer Gillom | 2,888 |
 | 103 | Iziane Castro Marques | 2,862 |
 | 104 | Alysha Clark | 2,808 |
-| 105 | **Brionna Jones** 🔴 +11 | 2,776 |
+| 105 | **Brionna Jones** 🔴 +13 | 2,778 |
 | 106 | Jantel Lavender | 2,775 |
 | 107 | Dominique Canty | 2,763 |
 | 108 | Ticha Penicheiro | 2,729 |
@@ -503,7 +503,7 @@ _Last updated: 2026-08-11 02:10 UTC_
 | 71 | Tina Thompson | 803 |
 | 72 | Epiphanny Prince | 800 |
 | 73 | Mwadi Mabika | 774 |
-| 74 | **Allisha Gray** 🔴 +4 | 771 |
+| 74 | **Allisha Gray** 🔴 +5 | 772 |
 | 75 | Sheri Sam | 745 |
 | 76 | Monique Currie | 740 |
 | 77 | Elaine Powell | 728 |
@@ -1259,7 +1259,7 @@ _Last updated: 2026-08-11 02:10 UTC_
 | 4 | Tina Thompson | 1,213 |
 | 5 | Lisa Leslie | 1,186 |
 | 6 | DeLisha Milton-Jones | 1,173 |
-| 7 | **Courtney Vandersloot** 🔴 | 1,147 |
+| 7 | **Courtney Vandersloot** 🔴 +1 | 1,148 |
 | 8 | Swin Cash | 1,127 |
 | 9 | Ticha Penicheiro | 1,125 |
 | 10 | Candace Parker | 1,062 |
@@ -1523,7 +1523,7 @@ _Last updated: 2026-08-11 02:10 UTC_
 | 63 | Nykesha Sales | 796 |
 | 64 | Ebony Hoffman | 791 |
 | 65 | Sue Bird | 775 |
-| 66 | **Natasha Cloud** 🔴 | 773 |
+| 66 | **Natasha Cloud** 🔴 +1 | 774 |
 | 67 | Sheri Sam | 766 |
 | 68 | Kahleah Copper | 758 |
 | 69 | **Allisha Gray** 🔴 +3 | 755 |
