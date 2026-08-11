@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-11 01:36 UTC_
+_Last updated: 2026-08-11 01:37 UTC_
 
 ## Contents
 
@@ -1420,8 +1420,8 @@ _Last updated: 2026-08-11 01:36 UTC_
 | 165 | Tiffany Jackson | 354 |
 | 166 | Adrian Williams-Strong | 353 |
 | 167 | Candice Wiggins | 349 |
-| 168 | **Brionna Jones** 🔴 +1 | 347 |
-| 168 | Janell Burse | 347 |
+| 168 | **Brionna Jones** 🔴 +2 | 348 |
+| 169 | Janell Burse | 347 |
 | 170 | Satou Sabally | 345 |
 | 171 | Teaira McCowan | 340 |
 | 172 | Loree Moore | 339 |
@@ -1571,8 +1571,8 @@ _Last updated: 2026-08-11 01:36 UTC_
 | 111 | Nicole Ohlde | 631 |
 | 112 | Jennifer Gillom | 629 |
 | 112 | Kelsey Mitchell | 629 |
+| 114 | **Brionna Jones** 🔴 +3 | 628 |
 | 114 | Deanna Nolan | 628 |
-| 115 | **Brionna Jones** 🔴 +2 | 627 |
 | 116 | Courtney Paris | 617 |
 | 117 | Coco Miller | 615 |
 | 118 | Brooke Wyckoff | 614 |
