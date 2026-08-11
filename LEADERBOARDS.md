@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-11 03:46 UTC_
+_Last updated: 2026-08-11 03:47 UTC_
 
 ## Contents
 
@@ -308,9 +308,9 @@ _Last updated: 2026-08-11 03:46 UTC_
 | 82 | Brionna Jones | 1,336 |
 | 83 | Elena Baranova | 1,335 |
 | 84 | Erlana Larkins | 1,329 |
-| 85 | **Azurá Stevens** 🔴 +8 | 1,327 |
 | 85 | Mwadi Mabika | 1,327 |
-| 87 | Jayne Appel Marinelli | 1,326 |
+| 86 | **Azurá Stevens** 🔴 +7 | 1,326 |
+| 86 | Jayne Appel Marinelli | 1,326 |
 | 88 | Betty Lennox | 1,296 |
 | 89 | Tari Phillips | 1,274 |
 | 90 | Myisha Hines-Allen | 1,265 |
@@ -1589,7 +1589,7 @@ _Last updated: 2026-08-11 03:46 UTC_
 | 129 | Chiney Ogwumike | 580 |
 | 129 | Hamchetou Maiga-Ba | 580 |
 | 129 | Olympia Scott | 580 |
-| 132 | **Ezi Magbegor** 🔴 +3 | 579 |
+| 132 | **Ezi Magbegor** 🔴 +2 | 578 |
 | 133 | Le'coe Willingham | 571 |
 | 134 | Marina Mabrey | 569 |
 | 135 | Ashley Robinson | 567 |
