@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-11 03:54 UTC_
+_Last updated: 2026-08-11 03:55 UTC_
 
 ## Contents
 
@@ -508,7 +508,7 @@ _Last updated: 2026-08-11 03:54 UTC_
 | 76 | Monique Currie | 740 |
 | 77 | Elaine Powell | 728 |
 | 78 | Dearica Hamby | 726 |
-| 79 | **Stefanie Dolson** 🔴 +1 | 708 |
+| 79 | **Stefanie Dolson** 🔴 +2 | 709 |
 | 80 | Chamique Holdsclaw | 698 |
 | 81 | Shavonte Zellous | 693 |
 | 82 | Allie Quigley | 690 |
@@ -674,8 +674,8 @@ _Last updated: 2026-08-11 03:54 UTC_
 | 37 | Swin Cash | 258 |
 | 38 | Plenette Pierson | 242 |
 | 39 | Napheesa Collier | 239 |
+| 40 | **Azurá Stevens** 🔴 +2 | 238 |
 | 40 | Emma Meesseman | 238 |
-| 41 | **Azurá Stevens** 🔴 +1 | 237 |
 | 42 | Brianna Turner | 234 |
 | 43 | Skylar Diggins | 231 |
 | 44 | Chasity Melvin | 228 |
@@ -1589,7 +1589,7 @@ _Last updated: 2026-08-11 03:54 UTC_
 | 129 | Chiney Ogwumike | 580 |
 | 129 | Hamchetou Maiga-Ba | 580 |
 | 129 | Olympia Scott | 580 |
-| 132 | **Ezi Magbegor** 🔴 +2 | 578 |
+| 132 | **Ezi Magbegor** 🔴 +3 | 579 |
 | 133 | Le'coe Willingham | 571 |
 | 134 | Marina Mabrey | 569 |
 | 135 | Ashley Robinson | 567 |
