@@ -104,7 +104,7 @@ _Last updated: 2026-08-11 01:42 UTC_
 | 83 | Sheri Sam | 3,353 |
 | 84 | Andrea Stinson | 3,351 |
 | 85 | Tanisha Wright | 3,324 |
-| 86 | **Marina Mabrey** 🔴 +22 | 3,271 |
+| 86 | **Marina Mabrey** 🔴 +24 | 3,273 |
 | 87 | Stefanie Dolson | 3,217 |
 | 88 | Margo Dydek | 3,214 |
 | 89 | Erica Wheeler | 3,195 |
