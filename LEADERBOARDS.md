@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-11 02:50 UTC_
+_Last updated: 2026-08-11 02:51 UTC_
 
 ## Contents
 
@@ -940,8 +940,8 @@ _Last updated: 2026-08-11 02:50 UTC_
 | 95 | Ebony Hoffman | 308 |
 | 96 | Tamera Young | 305 |
 | 97 | Kedra Holland-Corn | 301 |
-| 98 | **Elizabeth Williams** 🔴 | 295 |
-| 98 | Lindsey Harding | 295 |
+| 98 | **Elizabeth Williams** 🔴 +1 | 296 |
+| 99 | Lindsey Harding | 295 |
 | 100 | Janel McCarville | 294 |
 | 101 | Kelly Miller | 290 |
 | 102 | Glory Johnson | 289 |
