@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-11 03:29 UTC_
+_Last updated: 2026-08-11 03:30 UTC_
 
 ## Contents
 
@@ -180,7 +180,7 @@ _Last updated: 2026-08-11 03:29 UTC_
 | 159 | Coco Miller | 2,030 |
 | 160 | Diamond DeShields | 2,026 |
 | 161 | Vicky Bullett | 2,018 |
-| 162 | **Natisha Hiedeman** 🔴 +7 | 2,009 |
+| 162 | **Natisha Hiedeman** 🔴 +8 | 2,010 |
 | 163 | **Ezi Magbegor** 🔴 +5 | 2,000 |
 | 164 | Bria Hartley | 1,967 |
 | 165 | Chiney Ogwumike | 1,964 |
@@ -198,7 +198,7 @@ _Last updated: 2026-08-11 03:29 UTC_
 | 177 | Candice Wiggins | 1,901 |
 | 178 | Gabby Williams | 1,899 |
 | 179 | NaLyssa Smith | 1,879 |
-| 180 | **Rachel Banham** 🔴 +3 | 1,846 |
+| 180 | **Rachel Banham** 🔴 +6 | 1,849 |
 | 181 | Damiris Dantas | 1,842 |
 | 182 | Sophie Cunningham | 1,829 |
 | 183 | Tianna Hawkins | 1,825 |
@@ -1089,7 +1089,7 @@ _Last updated: 2026-08-11 03:29 UTC_
 | 38 | Riquna Williams | 407 |
 | 40 | Jia Perkins | 396 |
 | 41 | Alysha Clark | 394 |
-| 42 | **Rachel Banham** 🔴 +1 | 391 |
+| 42 | **Rachel Banham** 🔴 +2 | 392 |
 | 43 | Jonquel Jones | 389 |
 | 43 | Roneeka Hodges | 389 |
 | 45 | **Courtney Vandersloot** 🔴 +1 | 387 |
