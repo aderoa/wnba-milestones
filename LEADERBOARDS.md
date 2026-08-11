@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-11 03:35 UTC_
+_Last updated: 2026-08-11 03:36 UTC_
 
 ## Contents
 
@@ -66,7 +66,7 @@ _Last updated: 2026-08-11 03:35 UTC_
 | 45 | Kahleah Copper | 4,437 |
 | 46 | Crystal Langhorne | 4,433 |
 | 46 | Jia Perkins | 4,433 |
-| 48 | **Courtney Vandersloot** 🔴 +9 | 4,371 |
+| 48 | **Courtney Vandersloot** 🔴 +11 | 4,373 |
 | 49 | Jonquel Jones | 4,353 |
 | 50 | Courtney Williams | 4,350 |
 | 51 | Dearica Hamby | 4,330 |
@@ -180,7 +180,7 @@ _Last updated: 2026-08-11 03:35 UTC_
 | 159 | Coco Miller | 2,030 |
 | 160 | Diamond DeShields | 2,026 |
 | 161 | Vicky Bullett | 2,018 |
-| 162 | **Natisha Hiedeman** 🔴 +8 | 2,010 |
+| 162 | **Natisha Hiedeman** 🔴 +9 | 2,011 |
 | 163 | **Ezi Magbegor** 🔴 +5 | 2,000 |
 | 164 | Bria Hartley | 1,967 |
 | 165 | Chiney Ogwumike | 1,964 |
@@ -1632,8 +1632,8 @@ _Last updated: 2026-08-11 03:35 UTC_
 | 170 | Napheesa Collier | 504 |
 | 173 | Iziane Castro Marques | 502 |
 | 174 | Elena Baranova | 501 |
-| 175 | **Azurá Stevens** 🔴 +3 | 498 |
-| 175 | **Rachel Banham** 🔴 +1 | 498 |
+| 175 | **Azurá Stevens** 🔴 +4 | 499 |
+| 176 | **Rachel Banham** 🔴 +1 | 498 |
 | 177 | Adrian Williams-Strong | 497 |
 | 177 | Essence Carson | 497 |
 | 179 | Nia Coffey | 495 |
