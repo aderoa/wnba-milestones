@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-11 01:26 UTC_
+_Last updated: 2026-08-11 01:27 UTC_
 
 ## Contents
 
@@ -131,8 +131,8 @@ _Last updated: 2026-08-11 01:26 UTC_
 | 110 | Riquna Williams | 2,659 |
 | 111 | Essence Carson | 2,647 |
 | 111 | Lindsey Harding | 2,647 |
-| 113 | Cheyenne Parker-Tyus | 2,645 |
-| 113 | **Rhyne Howard** 🔴 +8 | 2,645 |
+| 111 | **Rhyne Howard** 🔴 +10 | 2,647 |
+| 114 | Cheyenne Parker-Tyus | 2,645 |
 | 115 | Tamera Young | 2,641 |
 | 116 | Liz Cambage | 2,634 |
 | 117 | Janeth Arcain | 2,633 |
@@ -305,8 +305,8 @@ _Last updated: 2026-08-11 01:26 UTC_
 | 79 | Sheri Sam | 1,356 |
 | 80 | Tamika Whitmore | 1,355 |
 | 81 | Emma Meesseman | 1,350 |
+| 82 | **Brionna Jones** 🔴 +2 | 1,335 |
 | 82 | Elena Baranova | 1,335 |
-| 83 | **Brionna Jones** 🔴 +1 | 1,334 |
 | 84 | Erlana Larkins | 1,329 |
 | 85 | Mwadi Mabika | 1,327 |
 | 86 | Jayne Appel Marinelli | 1,326 |
