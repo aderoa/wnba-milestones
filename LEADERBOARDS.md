@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-12 00:08 UTC_
+_Last updated: 2026-08-12 00:09 UTC_
 
 ## Contents
 
@@ -45,7 +45,7 @@ _Last updated: 2026-08-12 00:08 UTC_
 | 24 | DeLisha Milton-Jones | 5,571 |
 | 25 | Katie Douglas | 5,545 |
 | 26 | Lindsay Whalen | 5,511 |
-| 27 | **Kelsey Mitchell** 🔴 +17 | 5,215 |
+| 27 | **Kelsey Mitchell** 🔴 +18 | 5,216 |
 | 28 | Swin Cash | 5,119 |
 | 29 | Tiffany Hayes | 5,049 |
 | 30 | Tangela Smith | 5,035 |
@@ -67,7 +67,7 @@ _Last updated: 2026-08-12 00:08 UTC_
 | 46 | Crystal Langhorne | 4,433 |
 | 46 | Jia Perkins | 4,433 |
 | 48 | Courtney Vandersloot | 4,362 |
-| 49 | **Jonquel Jones** 🔴 +5 | 4,358 |
+| 49 | **Jonquel Jones** 🔴 +8 | 4,361 |
 | 50 | Courtney Williams | 4,350 |
 | 51 | Dearica Hamby | 4,330 |
 | 52 | Sophia Young-Malcolm | 4,300 |
@@ -531,7 +531,7 @@ _Last updated: 2026-08-12 00:08 UTC_
 | 100 | Natasha Howard | 615 |
 | 101 | Debbie Black | 612 |
 | 102 | Cynthia Cooper | 602 |
-| 103 | **Caitlin Clark** 🔴 +5 | 596 |
+| 103 | **Caitlin Clark** 🔴 +6 | 597 |
 | 104 | Sancho Lyttle | 592 |
 | 105 | Gabby Williams | 591 |
 | 106 | Betnijah Laney-Hamilton | 590 |
@@ -1088,8 +1088,8 @@ _Last updated: 2026-08-12 00:08 UTC_
 | 38 | Riquna Williams | 407 |
 | 40 | Jia Perkins | 396 |
 | 41 | Alysha Clark | 394 |
-| 42 | **Jonquel Jones** 🔴 +1 | 390 |
-| 42 | Rachel Banham | 390 |
+| 42 | **Jonquel Jones** 🔴 +2 | 391 |
+| 43 | Rachel Banham | 390 |
 | 44 | Roneeka Hodges | 389 |
 | 45 | Courtney Vandersloot | 386 |
 | 46 | Briann January | 381 |
@@ -1156,8 +1156,8 @@ _Last updated: 2026-08-12 00:08 UTC_
 | 107 | Andrea Stinson | 207 |
 | 108 | Betnijah Laney-Hamilton | 206 |
 | 109 | Lexie Brown | 203 |
+| 110 | **Caitlin Clark** 🔴 +4 | 199 |
 | 110 | Shanna Zolman | 199 |
-| 111 | **Caitlin Clark** 🔴 +3 | 198 |
 | 112 | Temeka Johnson | 197 |
 | 112 | Tina Charles | 197 |
 | 114 | Nia Coffey | 196 |
