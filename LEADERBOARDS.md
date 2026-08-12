@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-12 00:46 UTC_
+_Last updated: 2026-08-12 00:47 UTC_
 
 ## Contents
 
@@ -66,7 +66,7 @@ _Last updated: 2026-08-12 00:46 UTC_
 | 45 | Kahleah Copper | 4,437 |
 | 46 | Crystal Langhorne | 4,433 |
 | 46 | Jia Perkins | 4,433 |
-| 48 | **Jonquel Jones** 🔴 +11 | 4,364 |
+| 48 | **Jonquel Jones** 🔴 +14 | 4,367 |
 | 49 | Courtney Vandersloot | 4,362 |
 | 50 | Courtney Williams | 4,350 |
 | 51 | Dearica Hamby | 4,330 |
@@ -238,7 +238,7 @@ _Last updated: 2026-08-12 00:46 UTC_
 | 12 | Alyssa Thomas | 2,858 |
 | 13 | **Jonquel Jones** 🔴 +7 | 2,735 |
 | 14 | A'ja Wilson | 2,657 |
-| 15 | **Breanna Stewart** 🔴 +4 | 2,636 |
+| 15 | **Breanna Stewart** 🔴 +5 | 2,637 |
 | 16 | Sancho Lyttle | 2,596 |
 | 17 | Brittney Griner | 2,579 |
 | 18 | DeLisha Milton-Jones | 2,574 |
@@ -473,7 +473,7 @@ _Last updated: 2026-08-12 00:46 UTC_
 | 42 | Sheryl Swoopes | 1,037 |
 | 43 | Tina Charles | 1,033 |
 | 44 | Kayla McBride | 992 |
-| 45 | **Breanna Stewart** 🔴 +3 | 984 |
+| 45 | **Breanna Stewart** 🔴 +4 | 985 |
 | 46 | Nikki Teasley | 982 |
 | 47 | Tamecka Dixon | 960 |
 | 48 | Tiffany Hayes | 957 |
@@ -647,8 +647,8 @@ _Last updated: 2026-08-12 00:46 UTC_
 | 11 | Elizabeth Williams | 503 |
 | 12 | **Breanna Stewart** 🔴 | 450 |
 | 13 | Taj McWilliams-Franklin | 443 |
+| 14 | **Jonquel Jones** 🔴 +3 | 428 |
 | 14 | Tina Charles | 428 |
-| 15 | **Jonquel Jones** 🔴 +2 | 427 |
 | 16 | Michelle Snow | 403 |
 | 17 | Tamika Catchings | 383 |
 | 18 | Tina Thompson | 372 |
@@ -1088,7 +1088,7 @@ _Last updated: 2026-08-12 00:46 UTC_
 | 38 | Riquna Williams | 407 |
 | 40 | Jia Perkins | 396 |
 | 41 | Alysha Clark | 394 |
-| 42 | **Jonquel Jones** 🔴 +2 | 391 |
+| 42 | **Jonquel Jones** 🔴 +3 | 392 |
 | 43 | Rachel Banham | 390 |
 | 44 | Roneeka Hodges | 389 |
 | 45 | Courtney Vandersloot | 386 |
@@ -1600,8 +1600,8 @@ _Last updated: 2026-08-12 00:46 UTC_
 | 141 | Glory Johnson | 550 |
 | 141 | Tierra Ruffin-Pratt | 550 |
 | 143 | Jackie Young | 548 |
-| 144 | Erlana Larkins | 546 |
-| 144 | **Monique Billings** 🔴 | 546 |
+| 144 | **Monique Billings** 🔴 +1 | 547 |
+| 145 | Erlana Larkins | 546 |
 | 146 | Jayne Appel Marinelli | 543 |
 | 146 | Kayla McBride | 543 |
 | 146 | Renee Montgomery | 543 |
