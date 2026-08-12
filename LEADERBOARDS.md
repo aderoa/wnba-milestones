@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-12 00:05 UTC_
+_Last updated: 2026-08-12 00:06 UTC_
 
 ## Contents
 
@@ -31,7 +31,7 @@ _Last updated: 2026-08-12 00:05 UTC_
 | 10 | Candace Parker | 6,574 |
 | 11 | Katie Smith | 6,450 |
 | 12 | Sylvia Fowles | 6,413 |
-| 13 | **Breanna Stewart** 🔴 +10 | 6,345 |
+| 13 | **Breanna Stewart** 🔴 +11 | 6,346 |
 | 14 | Lisa Leslie | 6,251 |
 | 15 | A'ja Wilson | 6,178 |
 | 16 | Jewell Loyd | 6,148 |
@@ -45,7 +45,7 @@ _Last updated: 2026-08-12 00:05 UTC_
 | 24 | DeLisha Milton-Jones | 5,571 |
 | 25 | Katie Douglas | 5,545 |
 | 26 | Lindsay Whalen | 5,511 |
-| 27 | **Kelsey Mitchell** 🔴 +12 | 5,210 |
+| 27 | **Kelsey Mitchell** 🔴 +15 | 5,213 |
 | 28 | Swin Cash | 5,119 |
 | 29 | Tiffany Hayes | 5,049 |
 | 30 | Tangela Smith | 5,035 |
@@ -351,7 +351,7 @@ _Last updated: 2026-08-12 00:05 UTC_
 | 124 | Tamecka Dixon | 1,035 |
 | 126 | Kamila Vodichkova | 1,031 |
 | 127 | Jasmine Thomas | 1,027 |
-| 128 | **Sabrina Ionescu** 🔴 +1 | 1,021 |
+| 128 | **Sabrina Ionescu** 🔴 +2 | 1,022 |
 | 129 | Jessica Shepard | 1,016 |
 | 130 | Cathrine Kraayeveld | 1,013 |
 | 131 | Kelly Miller | 1,011 |
@@ -532,7 +532,7 @@ _Last updated: 2026-08-12 00:05 UTC_
 | 100 | Natasha Howard | 615 |
 | 101 | Debbie Black | 612 |
 | 102 | Cynthia Cooper | 602 |
-| 103 | **Caitlin Clark** 🔴 +4 | 595 |
+| 103 | **Caitlin Clark** 🔴 +5 | 596 |
 | 104 | Sancho Lyttle | 592 |
 | 105 | Gabby Williams | 591 |
 | 106 | Betnijah Laney-Hamilton | 590 |
@@ -1055,7 +1055,7 @@ _Last updated: 2026-08-12 00:05 UTC_
 | 5 | Kayla McBride | 756 |
 | 6 | Tina Thompson | 745 |
 | 7 | Katie Douglas | 723 |
-| 8 | **Kelsey Mitchell** 🔴 +2 | 714 |
+| 8 | **Kelsey Mitchell** 🔴 +3 | 715 |
 | 9 | Jewell Loyd | 695 |
 | 10 | DeWanna Bonner | 682 |
 | 11 | Kristi Toliver | 651 |
@@ -1497,8 +1497,8 @@ _Last updated: 2026-08-12 00:05 UTC_
 | 36 | Tamika Whitmore | 940 |
 | 38 | DeWanna Bonner | 922 |
 | 39 | Briann January | 921 |
-| 40 | **Jonquel Jones** 🔴 | 913 |
-| 40 | Ticha Penicheiro | 913 |
+| 40 | **Jonquel Jones** 🔴 +1 | 914 |
+| 41 | Ticha Penicheiro | 913 |
 | 42 | Shavonte Zellous | 907 |
 | 43 | Alysha Clark | 905 |
 | 44 | DeMya Walker | 882 |
