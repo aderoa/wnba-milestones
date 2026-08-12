@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-12 03:48 UTC_
+_Last updated: 2026-08-12 03:49 UTC_
 
 ## Contents
 
@@ -33,7 +33,7 @@ _Last updated: 2026-08-12 03:48 UTC_
 | 12 | Sylvia Fowles | 6,413 |
 | 13 | Breanna Stewart | 6,354 |
 | 14 | Lisa Leslie | 6,251 |
-| 15 | **A'ja Wilson** 🔴 +24 | 6,202 |
+| 15 | **A'ja Wilson** 🔴 +26 | 6,204 |
 | 16 | **Jewell Loyd** 🔴 +2 | 6,150 |
 | 17 | Brittney Griner | 6,087 |
 | 18 | Lauren Jackson | 6,005 |
@@ -231,7 +231,7 @@ _Last updated: 2026-08-12 03:48 UTC_
 | 5 | Rebekkah Brunson | 3,345 |
 | 6 | Tamika Catchings | 3,313 |
 | 7 | Lisa Leslie | 3,303 |
-| 8 | **DeWanna Bonner** 🔴 +4 | 3,294 |
+| 8 | **DeWanna Bonner** 🔴 +5 | 3,295 |
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
@@ -890,8 +890,8 @@ _Last updated: 2026-08-12 03:48 UTC_
 | 46 | Cappie Pondexter | 405 |
 | 47 | Nicole Powell | 401 |
 | 48 | Jordin Canada | 397 |
+| 49 | **Ariel Atkins** 🔴 +4 | 394 |
 | 49 | Jasmine Thomas | 394 |
-| 50 | **Ariel Atkins** 🔴 +3 | 393 |
 | 51 | Danielle Robinson | 389 |
 | 52 | Deanna Nolan | 388 |
 | 53 | Briann January | 386 |
@@ -1496,7 +1496,7 @@ _Last updated: 2026-08-12 03:48 UTC_
 | 35 | Mwadi Mabika | 941 |
 | 36 | Courtney Vandersloot | 940 |
 | 36 | Tamika Whitmore | 940 |
-| 38 | **DeWanna Bonner** 🔴 +2 | 924 |
+| 38 | **DeWanna Bonner** 🔴 +3 | 925 |
 | 39 | Briann January | 921 |
 | 40 | Jonquel Jones | 917 |
 | 41 | Ticha Penicheiro | 913 |
@@ -1649,7 +1649,7 @@ _Last updated: 2026-08-12 03:48 UTC_
 | 187 | Rhonda Mapp | 483 |
 | 189 | **Sami Whitcomb** 🔴 | 480 |
 | 190 | Alanna Smith | 479 |
-| 191 | **NaLyssa Smith** 🔴 +4 | 478 |
+| 190 | **NaLyssa Smith** 🔴 +5 | 479 |
 | 192 | Seimone Augustus | 477 |
 | 193 | Allie Quigley | 475 |
 | 194 | Satou Sabally | 471 |
