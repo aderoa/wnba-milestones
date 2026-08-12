@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-12 03:54 UTC_
+_Last updated: 2026-08-12 03:55 UTC_
 
 ## Contents
 
@@ -83,7 +83,7 @@ _Last updated: 2026-08-12 03:54 UTC_
 | 62 | Allie Quigley | 3,786 |
 | 63 | Chasity Melvin | 3,781 |
 | 64 | Brittney Sykes | 3,726 |
-| 65 | **Jackie Young** 🔴 +22 | 3,720 |
+| 65 | **Jackie Young** 🔴 +24 | 3,722 |
 | 66 | Kara Lawson | 3,670 |
 | 67 | Mwadi Mabika | 3,576 |
 | 68 | Odyssey Sims | 3,574 |
@@ -515,8 +515,8 @@ _Last updated: 2026-08-12 03:54 UTC_
 | 84 | **Ariel Atkins** 🔴 +1 | 683 |
 | 85 | Emma Meesseman | 681 |
 | 86 | Nykesha Sales | 677 |
-| 87 | **A'ja Wilson** 🔴 +1 | 668 |
-| 87 | Natisha Hiedeman | 668 |
+| 87 | **A'ja Wilson** 🔴 +2 | 669 |
+| 88 | Natisha Hiedeman | 668 |
 | 89 | Bria Hartley | 661 |
 | 90 | Brittney Griner | 660 |
 | 91 | Lindsay Allen | 657 |
@@ -848,7 +848,7 @@ _Last updated: 2026-08-12 03:54 UTC_
 | 4 | Alana Beard | 710 |
 | 5 | **Nneka Ogwumike** 🔴 | 687 |
 | 6 | Sheryl Swoopes | 657 |
-| 7 | **DeWanna Bonner** 🔴 | 650 |
+| 7 | **DeWanna Bonner** 🔴 +1 | 651 |
 | 8 | Jia Perkins | 634 |
 | 9 | Sancho Lyttle | 630 |
 | 10 | Angel McCoughtry | 627 |
@@ -873,7 +873,7 @@ _Last updated: 2026-08-12 03:54 UTC_
 | 29 | Skylar Diggins | 463 |
 | 29 | Teresa Weatherspoon | 463 |
 | 31 | **Jewell Loyd** 🔴 +1 | 459 |
-| 32 | **Chelsea Gray** 🔴 | 457 |
+| 32 | **Chelsea Gray** 🔴 +1 | 458 |
 | 33 | Rebekkah Brunson | 456 |
 | 34 | Tangela Smith | 455 |
 | 35 | Tina Thompson | 452 |
@@ -1282,7 +1282,7 @@ _Last updated: 2026-08-12 03:54 UTC_
 | 26 | Natasha Howard | 843 |
 | 27 | **DeWanna Bonner** 🔴 +1 | 841 |
 | 28 | Katie Douglas | 824 |
-| 29 | **Nneka Ogwumike** 🔴 +2 | 805 |
+| 29 | **Nneka Ogwumike** 🔴 +3 | 806 |
 | 30 | Betty Lennox | 800 |
 | 31 | Jasmine Thomas | 796 |
 | 31 | **Jewell Loyd** 🔴 +1 | 796 |
@@ -1526,7 +1526,7 @@ _Last updated: 2026-08-12 03:54 UTC_
 | 65 | Sue Bird | 775 |
 | 66 | Natasha Cloud | 773 |
 | 67 | Sheri Sam | 766 |
-| 68 | **Kahleah Copper** 🔴 +3 | 761 |
+| 68 | **Kahleah Copper** 🔴 +4 | 762 |
 | 69 | Kia Vaughn | 755 |
 | 70 | Allisha Gray | 752 |
 | 70 | Vickie Johnson | 752 |
