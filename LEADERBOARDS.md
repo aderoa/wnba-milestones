@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-12 02:15 UTC_
+_Last updated: 2026-08-12 02:16 UTC_
 
 ## Contents
 
@@ -235,7 +235,7 @@ _Last updated: 2026-08-12 02:15 UTC_
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
-| 12 | **Alyssa Thomas** 🔴 +2 | 2,860 |
+| 12 | **Alyssa Thomas** 🔴 +3 | 2,861 |
 | 13 | Jonquel Jones | 2,738 |
 | 14 | **A'ja Wilson** 🔴 +2 | 2,659 |
 | 15 | Breanna Stewart | 2,639 |
@@ -479,7 +479,7 @@ _Last updated: 2026-08-12 02:15 UTC_
 | 48 | Tiffany Hayes | 957 |
 | 49 | Kara Lawson | 946 |
 | 50 | Arike Ogunbowale | 944 |
-| 51 | **Nneka Ogwumike** 🔴 +2 | 935 |
+| 51 | **Nneka Ogwumike** 🔴 +3 | 936 |
 | 52 | Deanna Nolan | 930 |
 | 53 | Kelly Miller | 927 |
 | 54 | DeLisha Milton-Jones | 921 |
@@ -791,9 +791,9 @@ _Last updated: 2026-08-12 02:15 UTC_
 | 155 | Charde Houston | 84 |
 | 155 | Marina Mabrey | 84 |
 | 155 | Shatori Walker-Kimbrough | 84 |
+| 158 | **Cameron Brink** 🔴 +1 | 83 |
 | 158 | Tamera Young | 83 |
-| 159 | **Cameron Brink** 🔴 | 82 |
-| 159 | Damiris Dantas | 82 |
+| 160 | Damiris Dantas | 82 |
 | 161 | Charlotte Smith | 81 |
 | 161 | Cintia dos Santos | 81 |
 | 161 | Jessie Hicks | 81 |
@@ -1265,7 +1265,7 @@ _Last updated: 2026-08-12 02:15 UTC_
 | 10 | Candace Parker | 1,062 |
 | 11 | Tamika Catchings | 1,041 |
 | 12 | Tina Charles | 1,040 |
-| 13 | **Alyssa Thomas** 🔴 | 1,035 |
+| 13 | **Alyssa Thomas** 🔴 +1 | 1,036 |
 | 14 | Lindsay Whalen | 1,002 |
 | 15 | Sylvia Fowles | 961 |
 | 16 | Tanisha Wright | 954 |
