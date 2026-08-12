@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-12 00:53 UTC_
+_Last updated: 2026-08-12 00:54 UTC_
 
 ## Contents
 
@@ -45,7 +45,7 @@ _Last updated: 2026-08-12 00:53 UTC_
 | 24 | DeLisha Milton-Jones | 5,571 |
 | 25 | Katie Douglas | 5,545 |
 | 26 | Lindsay Whalen | 5,511 |
-| 27 | **Kelsey Mitchell** 🔴 +22 | 5,220 |
+| 27 | **Kelsey Mitchell** 🔴 +24 | 5,222 |
 | 28 | Swin Cash | 5,119 |
 | 29 | Tiffany Hayes | 5,049 |
 | 30 | Tangela Smith | 5,035 |
@@ -568,8 +568,8 @@ _Last updated: 2026-08-12 00:53 UTC_
 | 137 | Ukari Figgs | 470 |
 | 138 | Janeth Arcain | 469 |
 | 139 | Erin Phillips | 462 |
-| 140 | Sylvia Fowles | 461 |
-| 140 | **Tyasha Harris** 🔴 +1 | 461 |
+| 139 | **Tyasha Harris** 🔴 +2 | 462 |
+| 141 | Sylvia Fowles | 461 |
 | 142 | Sug Sutton | 456 |
 | 143 | Sydney Colson | 454 |
 | 144 | Yolanda Griffith | 451 |
@@ -803,11 +803,11 @@ _Last updated: 2026-08-12 00:53 UTC_
 | 167 | Stephanie Talbot | 79 |
 | 168 | Astou Ndour-Fall | 78 |
 | 168 | Katie Smith | 78 |
+| 168 | **Myisha Hines-Allen** 🔴 +1 | 78 |
 | 168 | Slobodanka Tuvic | 78 |
-| 171 | Kara Wolters | 77 |
-| 171 | **Myisha Hines-Allen** 🔴 | 77 |
-| 171 | Noelle Quinn | 77 |
-| 171 | Tierra Ruffin-Pratt | 77 |
+| 172 | Kara Wolters | 77 |
+| 172 | Noelle Quinn | 77 |
+| 172 | Tierra Ruffin-Pratt | 77 |
 | 175 | Jennifer Lacy | 76 |
 | 175 | Sugar Rodgers | 76 |
 | 175 | Tan White | 76 |
