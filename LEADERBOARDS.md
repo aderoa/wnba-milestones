@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-12 03:38 UTC_
+_Last updated: 2026-08-12 03:39 UTC_
 
 ## Contents
 
@@ -1321,9 +1321,9 @@ _Last updated: 2026-08-12 03:38 UTC_
 | 65 | Dawn Staley | 643 |
 | 66 | Jonquel Jones | 642 |
 | 67 | Ruth Riley | 637 |
-| 68 | **Kahleah Copper** 🔴 +6 | 631 |
-| 68 | Odyssey Sims | 631 |
-| 68 | Svetlana Abrosimova | 631 |
+| 68 | **Kahleah Copper** 🔴 +7 | 632 |
+| 69 | Odyssey Sims | 631 |
+| 69 | Svetlana Abrosimova | 631 |
 | 71 | Tiffany Hayes | 624 |
 | 72 | Rebekkah Brunson | 615 |
 | 73 | Seimone Augustus | 613 |
@@ -1526,7 +1526,7 @@ _Last updated: 2026-08-12 03:38 UTC_
 | 65 | Sue Bird | 775 |
 | 66 | Natasha Cloud | 773 |
 | 67 | Sheri Sam | 766 |
-| 68 | **Kahleah Copper** 🔴 +2 | 760 |
+| 68 | **Kahleah Copper** 🔴 +3 | 761 |
 | 69 | Kia Vaughn | 755 |
 | 70 | Allisha Gray | 752 |
 | 70 | Vickie Johnson | 752 |

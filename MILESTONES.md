@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-08-12 03:39 UTC
+
+- **Kahleah Copper** passed **Odyssey Sims** and **Svetlana Abrosimova** for **#68** all-time in turnovers (career 632) — up from #70 entering today — _9:32 - 4th — PHX @ LA_
+
 ## 2026-08-11 04:01 UTC
 
 - **DiJonai Carrington** reached **1,400** career points (now 1,400) — _2:20 - 4th — CHI @ SEA_
