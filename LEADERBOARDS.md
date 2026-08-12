@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-12 03:59 UTC_
+_Last updated: 2026-08-12 04:00 UTC_
 
 ## Contents
 
@@ -235,7 +235,7 @@ _Last updated: 2026-08-12 03:59 UTC_
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
-| 12 | **Alyssa Thomas** 🔴 +5 | 2,863 |
+| 12 | **Alyssa Thomas** 🔴 +6 | 2,864 |
 | 13 | Jonquel Jones | 2,738 |
 | 14 | A'ja Wilson | 2,670 |
 | 15 | Breanna Stewart | 2,639 |
@@ -848,7 +848,7 @@ _Last updated: 2026-08-12 03:59 UTC_
 | 4 | Alana Beard | 710 |
 | 5 | **Nneka Ogwumike** 🔴 | 687 |
 | 6 | Sheryl Swoopes | 657 |
-| 7 | **DeWanna Bonner** 🔴 +1 | 651 |
+| 7 | **DeWanna Bonner** 🔴 +2 | 652 |
 | 8 | Jia Perkins | 634 |
 | 9 | Sancho Lyttle | 630 |
 | 10 | Angel McCoughtry | 627 |
@@ -1303,7 +1303,7 @@ _Last updated: 2026-08-12 03:59 UTC_
 | 47 | Renee Montgomery | 697 |
 | 48 | Temeka Johnson | 696 |
 | 49 | Penny Taylor | 695 |
-| 50 | **Dearica Hamby** 🔴 +2 | 686 |
+| 50 | **Dearica Hamby** 🔴 +3 | 687 |
 | 51 | Dominique Canty | 685 |
 | 52 | DeMya Walker | 684 |
 | 53 | Asjha Jones | 682 |
