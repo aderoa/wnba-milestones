@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-12 04:05 UTC_
+_Last updated: 2026-08-12 04:06 UTC_
 
 ## Contents
 
@@ -22,7 +22,7 @@ _Last updated: 2026-08-12 04:05 UTC_
 | 1 | Diana Taurasi | 10,608 |
 | 2 | Tina Charles | 8,396 |
 | 3 | **DeWanna Bonner** 🔴 +7 | 7,979 |
-| 4 | **Nneka Ogwumike** 🔴 +15 | 7,578 |
+| 4 | **Nneka Ogwumike** 🔴 +18 | 7,581 |
 | 5 | Tina Thompson | 7,470 |
 | 6 | Tamika Catchings | 7,371 |
 | 7 | Candice Dupree | 6,861 |
@@ -52,7 +52,7 @@ _Last updated: 2026-08-12 04:05 UTC_
 | 31 | Taj McWilliams-Franklin | 4,992 |
 | 32 | Maya Moore | 4,984 |
 | 33 | Sheryl Swoopes | 4,875 |
-| 34 | **Alyssa Thomas** 🔴 +12 | 4,764 |
+| 34 | **Alyssa Thomas** 🔴 +14 | 4,766 |
 | 35 | Alana Beard | 4,740 |
 | 36 | Arike Ogunbowale | 4,715 |
 | 37 | Chamique Holdsclaw | 4,713 |
@@ -395,7 +395,7 @@ _Last updated: 2026-08-12 04:05 UTC_
 | 168 | Barbara Farris | 819 |
 | 170 | Betnijah Laney-Hamilton | 814 |
 | 170 | Carolyn Swords | 814 |
-| 172 | **Ariel Atkins** 🔴 +3 | 801 |
+| 172 | **Ariel Atkins** 🔴 +4 | 802 |
 | 173 | Tierra Ruffin-Pratt | 799 |
 | 174 | Charlotte Smith | 794 |
 | 175 | Rhonda Mapp | 788 |
@@ -512,7 +512,7 @@ _Last updated: 2026-08-12 04:05 UTC_
 | 81 | Shavonte Zellous | 693 |
 | 82 | Allie Quigley | 690 |
 | 83 | Moriah Jefferson | 685 |
-| 84 | **Ariel Atkins** 🔴 +1 | 683 |
+| 84 | **Ariel Atkins** 🔴 +2 | 684 |
 | 85 | Emma Meesseman | 681 |
 | 86 | Nykesha Sales | 677 |
 | 87 | A'ja Wilson | 669 |
@@ -526,7 +526,7 @@ _Last updated: 2026-08-12 04:05 UTC_
 | 95 | Alex Bentley | 645 |
 | 96 | Asjha Jones | 637 |
 | 97 | Jennifer Azzi | 636 |
-| 98 | **Sami Whitcomb** 🔴 +2 | 625 |
+| 98 | **Sami Whitcomb** 🔴 +3 | 626 |
 | 99 | Alysha Clark | 619 |
 | 100 | Natasha Howard | 615 |
 | 101 | Debbie Black | 612 |
@@ -1133,8 +1133,8 @@ _Last updated: 2026-08-12 04:05 UTC_
 | 84 | Sheryl Swoopes | 270 |
 | 85 | Sophia Witherspoon | 260 |
 | 86 | Rebecca Allen | 258 |
-| 87 | Dawn Staley | 254 |
-| 87 | **Nneka Ogwumike** 🔴 +1 | 254 |
+| 87 | **Nneka Ogwumike** 🔴 +2 | 255 |
+| 88 | Dawn Staley | 254 |
 | 89 | Bria Hartley | 253 |
 | 90 | Angel McCoughtry | 249 |
 | 91 | Azurá Stevens | 247 |
