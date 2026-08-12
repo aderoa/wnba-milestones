@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-12 01:19 UTC_
+_Last updated: 2026-08-12 01:20 UTC_
 
 ## Contents
 
@@ -213,7 +213,7 @@ _Last updated: 2026-08-12 01:19 UTC_
 | 192 | Armintie Herrington | 1,696 |
 | 193 | Nikki Teasley | 1,690 |
 | 194 | Shenise Johnson | 1,688 |
-| 195 | **Monique Billings** 🔴 +12 | 1,624 |
+| 195 | **Monique Billings** 🔴 +14 | 1,626 |
 | 196 | Janell Burse | 1,580 |
 | 197 | Le'coe Willingham | 1,552 |
 | 198 | Shatori Walker-Kimbrough | 1,544 |
@@ -313,7 +313,7 @@ _Last updated: 2026-08-12 01:19 UTC_
 | 87 | Azurá Stevens | 1,319 |
 | 88 | Betty Lennox | 1,296 |
 | 89 | Tari Phillips | 1,274 |
-| 90 | **Myisha Hines-Allen** 🔴 +1 | 1,266 |
+| 90 | **Myisha Hines-Allen** 🔴 +2 | 1,267 |
 | 91 | Janel McCarville | 1,261 |
 | 92 | Liz Cambage | 1,258 |
 | 93 | Chelsea Gray | 1,257 |
@@ -1402,7 +1402,7 @@ _Last updated: 2026-08-12 01:19 UTC_
 | 148 | Merlakia Jones | 398 |
 | 149 | Glory Johnson | 397 |
 | 150 | Marissa Coleman | 396 |
-| 151 | **Myisha Hines-Allen** 🔴 | 390 |
+| 151 | **Myisha Hines-Allen** 🔴 +1 | 391 |
 | 152 | Elizabeth Williams | 388 |
 | 153 | Sophia Witherspoon | 386 |
 | 154 | Hamchetou Maiga-Ba | 385 |
