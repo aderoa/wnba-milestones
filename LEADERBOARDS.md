@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-12 02:06 UTC_
+_Last updated: 2026-08-12 02:07 UTC_
 
 ## Contents
 
@@ -21,8 +21,8 @@ _Last updated: 2026-08-12 02:06 UTC_
 |-----:|--------|------:|
 | 1 | Diana Taurasi | 10,608 |
 | 2 | Tina Charles | 8,396 |
-| 3 | **DeWanna Bonner** 🔴 | 7,972 |
-| 4 | **Nneka Ogwumike** 🔴 | 7,563 |
+| 3 | **DeWanna Bonner** 🔴 +3 | 7,975 |
+| 4 | **Nneka Ogwumike** 🔴 +5 | 7,568 |
 | 5 | Tina Thompson | 7,470 |
 | 6 | Tamika Catchings | 7,371 |
 | 7 | Candice Dupree | 6,861 |
@@ -435,7 +435,7 @@ _Last updated: 2026-08-12 02:06 UTC_
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
 | 6 | **Chelsea Gray** 🔴 | 2,003 |
-| 7 | **Alyssa Thomas** 🔴 +1 | 1,972 |
+| 7 | **Alyssa Thomas** 🔴 +2 | 1,973 |
 | 8 | Skylar Diggins | 1,852 |
 | 9 | Natasha Cloud | 1,802 |
 | 10 | Becky Hammon | 1,705 |
@@ -450,7 +450,7 @@ _Last updated: 2026-08-12 02:06 UTC_
 | 19 | Jasmine Thomas | 1,355 |
 | 20 | Briann January | 1,339 |
 | 21 | Dawn Staley | 1,337 |
-| 22 | **Erica Wheeler** 🔴 | 1,335 |
+| 22 | **Erica Wheeler** 🔴 +1 | 1,336 |
 | 23 | Teresa Weatherspoon | 1,333 |
 | 24 | Kristi Toliver | 1,301 |
 | 25 | Kelsey Plum | 1,270 |
@@ -1056,7 +1056,7 @@ _Last updated: 2026-08-12 02:06 UTC_
 | 7 | Katie Douglas | 723 |
 | 8 | Kelsey Mitchell | 716 |
 | 9 | Jewell Loyd | 695 |
-| 10 | **DeWanna Bonner** 🔴 | 682 |
+| 10 | **DeWanna Bonner** 🔴 +1 | 683 |
 | 11 | Kristi Toliver | 651 |
 | 12 | Kelsey Plum | 619 |
 | 13 | Tamika Catchings | 605 |
@@ -1134,8 +1134,8 @@ _Last updated: 2026-08-12 02:06 UTC_
 | 85 | Sophia Witherspoon | 260 |
 | 86 | Rebecca Allen | 258 |
 | 87 | Dawn Staley | 254 |
-| 88 | Bria Hartley | 253 |
-| 88 | **Nneka Ogwumike** 🔴 | 253 |
+| 87 | **Nneka Ogwumike** 🔴 +1 | 254 |
+| 89 | Bria Hartley | 253 |
 | 90 | Angel McCoughtry | 249 |
 | 91 | Azurá Stevens | 247 |
 | 91 | Brittney Sykes | 247 |
@@ -1366,7 +1366,7 @@ _Last updated: 2026-08-12 02:06 UTC_
 | 111 | Nikki Teasley | 493 |
 | 111 | Tari Phillips | 493 |
 | 113 | Janel McCarville | 491 |
-| 114 | **A'ja Wilson** 🔴 | 488 |
+| 114 | **A'ja Wilson** 🔴 +1 | 489 |
 | 115 | Erika de Souza | 483 |
 | 116 | Sophia Young-Malcolm | 482 |
 | 117 | Natalie Williams | 480 |
@@ -1495,7 +1495,7 @@ _Last updated: 2026-08-12 02:06 UTC_
 | 35 | Mwadi Mabika | 941 |
 | 36 | Courtney Vandersloot | 940 |
 | 36 | Tamika Whitmore | 940 |
-| 38 | **DeWanna Bonner** 🔴 | 922 |
+| 38 | **DeWanna Bonner** 🔴 +1 | 923 |
 | 39 | Briann January | 921 |
 | 40 | Jonquel Jones | 917 |
 | 41 | Ticha Penicheiro | 913 |
