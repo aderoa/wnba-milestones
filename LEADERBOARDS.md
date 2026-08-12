@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-12 02:11 UTC_
+_Last updated: 2026-08-12 02:12 UTC_
 
 ## Contents
 
@@ -154,7 +154,7 @@ _Last updated: 2026-08-12 02:11 UTC_
 | 133 | Azurá Stevens | 2,343 |
 | 134 | Jordin Canada | 2,342 |
 | 135 | Merlakia Jones | 2,308 |
-| 136 | Betnijah Laney-Hamilton | 2,302 |
+| 136 | **Betnijah Laney-Hamilton** 🔴 | 2,302 |
 | 137 | Satou Sabally | 2,296 |
 | 138 | Kia Vaughn | 2,288 |
 | 139 | Kia Nurse | 2,262 |
@@ -394,7 +394,7 @@ _Last updated: 2026-08-12 02:11 UTC_
 | 168 | Amanda Zahui B | 819 |
 | 168 | Barbara Farris | 819 |
 | 170 | Carolyn Swords | 814 |
-| 171 | Betnijah Laney-Hamilton | 812 |
+| 171 | **Betnijah Laney-Hamilton** 🔴 | 812 |
 | 172 | **Ariel Atkins** 🔴 +1 | 799 |
 | 172 | Tierra Ruffin-Pratt | 799 |
 | 174 | Charlotte Smith | 794 |
@@ -534,7 +534,7 @@ _Last updated: 2026-08-12 02:11 UTC_
 | 103 | Caitlin Clark | 601 |
 | 104 | Sancho Lyttle | 592 |
 | 105 | Gabby Williams | 591 |
-| 106 | Betnijah Laney-Hamilton | 590 |
+| 106 | **Betnijah Laney-Hamilton** 🔴 | 590 |
 | 106 | Camille Smith | 590 |
 | 108 | Armintie Herrington | 589 |
 | 109 | Veronica Burton | 579 |
@@ -728,11 +728,11 @@ _Last updated: 2026-08-12 02:11 UTC_
 | 91 | Nakia Sanford | 131 |
 | 93 | Brooke Wyckoff | 129 |
 | 93 | Cathrine Kraayeveld | 129 |
+| 95 | **Alyssa Thomas** 🔴 +1 | 128 |
 | 95 | Emily Engstler | 128 |
-| 96 | **Alyssa Thomas** 🔴 | 127 |
-| 96 | **Chelsea Gray** 🔴 | 127 |
-| 96 | Chiney Ogwumike | 127 |
-| 96 | Kristen Rasmussen | 127 |
+| 97 | **Chelsea Gray** 🔴 | 127 |
+| 97 | Chiney Ogwumike | 127 |
+| 97 | Kristen Rasmussen | 127 |
 | 100 | Katie Douglas | 126 |
 | 100 | Mistie Bass | 126 |
 | 102 | Brionna Jones | 125 |
@@ -741,7 +741,7 @@ _Last updated: 2026-08-12 02:11 UTC_
 | 105 | Natalie Williams | 122 |
 | 106 | Ebony Hoffman | 121 |
 | 106 | Essence Carson | 121 |
-| 108 | **Shakira Austin** 🔴 | 119 |
+| 108 | **Shakira Austin** 🔴 +1 | 120 |
 | 109 | Krystal Thomas | 118 |
 | 110 | Andrea Stinson | 117 |
 | 110 | Crystal Langhorne | 117 |
@@ -872,7 +872,7 @@ _Last updated: 2026-08-12 02:11 UTC_
 | 28 | Natasha Howard | 467 |
 | 29 | Skylar Diggins | 463 |
 | 29 | Teresa Weatherspoon | 463 |
-| 31 | **Jewell Loyd** 🔴 | 458 |
+| 31 | **Jewell Loyd** 🔴 +1 | 459 |
 | 32 | **Chelsea Gray** 🔴 | 457 |
 | 33 | Rebekkah Brunson | 456 |
 | 34 | Tangela Smith | 455 |
@@ -1006,7 +1006,7 @@ _Last updated: 2026-08-12 02:11 UTC_
 | 161 | Tiffany Mitchell | 209 |
 | 163 | Kia Vaughn | 208 |
 | 163 | Sophia Witherspoon | 208 |
-| 165 | Betnijah Laney-Hamilton | 207 |
+| 165 | **Betnijah Laney-Hamilton** 🔴 | 207 |
 | 166 | Shameka Christon | 205 |
 | 167 | Jessica Breland | 204 |
 | 167 | Murriel Page | 204 |
@@ -1154,7 +1154,7 @@ _Last updated: 2026-08-12 02:11 UTC_
 | 105 | Damiris Dantas | 212 |
 | 106 | Erin Phillips | 211 |
 | 107 | Andrea Stinson | 207 |
-| 108 | Betnijah Laney-Hamilton | 206 |
+| 108 | **Betnijah Laney-Hamilton** 🔴 | 206 |
 | 109 | Lexie Brown | 203 |
 | 110 | Caitlin Clark | 199 |
 | 110 | Shanna Zolman | 199 |
@@ -1376,7 +1376,7 @@ _Last updated: 2026-08-12 02:11 UTC_
 | 121 | Allie Quigley | 467 |
 | 122 | **Ariel Atkins** 🔴 | 465 |
 | 123 | **Jackie Young** 🔴 | 463 |
-| 124 | Betnijah Laney-Hamilton | 456 |
+| 124 | **Betnijah Laney-Hamilton** 🔴 +1 | 457 |
 | 125 | Kia Vaughn | 454 |
 | 126 | Janeth Arcain | 453 |
 | 127 | Elena Baranova | 444 |
@@ -1650,7 +1650,7 @@ _Last updated: 2026-08-12 02:11 UTC_
 | 190 | Alanna Smith | 479 |
 | 191 | Seimone Augustus | 477 |
 | 192 | Allie Quigley | 475 |
-| 193 | **NaLyssa Smith** 🔴 | 474 |
+| 192 | **NaLyssa Smith** 🔴 +1 | 475 |
 | 194 | Satou Sabally | 471 |
 | 195 | Christi Thomas | 463 |
 | 195 | Nikki Teasley | 463 |
