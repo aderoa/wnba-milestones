@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-12 04:30 UTC_
+_Last updated: 2026-08-12 04:31 UTC_
 
 ## Contents
 
@@ -185,7 +185,7 @@ _Last updated: 2026-08-12 04:30 UTC_
 | 164 | Bria Hartley | 1,967 |
 | 165 | Chiney Ogwumike | 1,964 |
 | 166 | Nicole Ohlde | 1,959 |
-| 167 | Myisha Hines-Allen | 1,956 |
+| 167 | Myisha Hines-Allen | 1,958 |
 | 168 | Kedra Holland-Corn | 1,938 |
 | 169 | Isabelle Harrison | 1,932 |
 | 170 | Cathrine Kraayeveld | 1,926 |
@@ -313,7 +313,7 @@ _Last updated: 2026-08-12 04:30 UTC_
 | 87 | Azurá Stevens | 1,319 |
 | 88 | Betty Lennox | 1,296 |
 | 89 | Tari Phillips | 1,274 |
-| 90 | Myisha Hines-Allen | 1,266 |
+| 90 | Myisha Hines-Allen | 1,267 |
 | 91 | Janel McCarville | 1,261 |
 | 92 | Chelsea Gray | 1,259 |
 | 93 | Liz Cambage | 1,258 |
@@ -803,11 +803,11 @@ _Last updated: 2026-08-12 04:30 UTC_
 | 167 | Stephanie Talbot | 79 |
 | 168 | Astou Ndour-Fall | 78 |
 | 168 | Katie Smith | 78 |
+| 168 | Myisha Hines-Allen | 78 |
 | 168 | Slobodanka Tuvic | 78 |
-| 171 | Kara Wolters | 77 |
-| 171 | Myisha Hines-Allen | 77 |
-| 171 | Noelle Quinn | 77 |
-| 171 | Tierra Ruffin-Pratt | 77 |
+| 172 | Kara Wolters | 77 |
+| 172 | Noelle Quinn | 77 |
+| 172 | Tierra Ruffin-Pratt | 77 |
 | 175 | Jennifer Lacy | 76 |
 | 175 | Sugar Rodgers | 76 |
 | 175 | Tan White | 76 |
@@ -1019,7 +1019,7 @@ _Last updated: 2026-08-12 04:30 UTC_
 | 174 | Sonja Henning | 194 |
 | 174 | Tierra Ruffin-Pratt | 194 |
 | 177 | Cynthia Cooper | 192 |
-| 178 | Myisha Hines-Allen | 191 |
+| 177 | Myisha Hines-Allen | 192 |
 | 179 | Isabelle Harrison | 190 |
 | 180 | Tamicha Jackson | 188 |
 | 181 | Michele Timms | 187 |
@@ -1404,7 +1404,7 @@ _Last updated: 2026-08-12 04:30 UTC_
 | 148 | Merlakia Jones | 398 |
 | 149 | Glory Johnson | 397 |
 | 150 | Marissa Coleman | 396 |
-| 151 | Myisha Hines-Allen | 390 |
+| 151 | Myisha Hines-Allen | 391 |
 | 152 | Elizabeth Williams | 388 |
 | 153 | Sophia Witherspoon | 386 |
 | 154 | Hamchetou Maiga-Ba | 385 |
@@ -1609,7 +1609,7 @@ _Last updated: 2026-08-12 04:30 UTC_
 | 146 | Renee Montgomery | 543 |
 | 149 | Marissa Coleman | 541 |
 | 149 | Sophie Cunningham | 541 |
-| 151 | Myisha Hines-Allen | 535 |
+| 151 | Myisha Hines-Allen | 536 |
 | 152 | Damiris Dantas | 533 |
 | 152 | Kristen Rasmussen | 533 |
 | 154 | Amanda Zahui B | 530 |
