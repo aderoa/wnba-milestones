@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-12 01:04 UTC_
+_Last updated: 2026-08-12 01:05 UTC_
 
 ## Contents
 
@@ -110,7 +110,7 @@ _Last updated: 2026-08-12 01:04 UTC_
 | 89 | Erica Wheeler | 3,195 |
 | 90 | Danielle Robinson | 3,160 |
 | 91 | Wendy Palmer | 3,135 |
-| 92 | **Sabrina Ionescu** 🔴 +15 | 3,112 |
+| 92 | **Sabrina Ionescu** 🔴 +17 | 3,114 |
 | 93 | Shavonte Zellous | 3,103 |
 | 94 | Briann January | 3,082 |
 | 95 | Erika de Souza | 3,046 |
@@ -175,7 +175,7 @@ _Last updated: 2026-08-12 01:04 UTC_
 | 154 | Tari Phillips | 2,134 |
 | 155 | Cheryl Ford | 2,116 |
 | 156 | Elena Baranova | 2,110 |
-| 157 | **Aliyah Boston** 🔴 +17 | 2,104 |
+| 157 | **Aliyah Boston** 🔴 +19 | 2,106 |
 | 158 | Aerial Powers | 2,068 |
 | 159 | Coco Miller | 2,030 |
 | 160 | Diamond DeShields | 2,026 |
@@ -217,7 +217,7 @@ _Last updated: 2026-08-12 01:04 UTC_
 | 196 | Janell Burse | 1,580 |
 | 197 | Le'coe Willingham | 1,552 |
 | 198 | Shatori Walker-Kimbrough | 1,544 |
-| 199 | **Rebecca Allen** 🔴 +8 | 1,537 |
+| 199 | **Rebecca Allen** 🔴 +11 | 1,540 |
 | 200 | Jennifer Lacy | 1,504 |
 
 ## Rebounds
@@ -464,7 +464,7 @@ _Last updated: 2026-08-12 01:04 UTC_
 | 33 | Jackie Young | 1,150 |
 | 34 | Renee Montgomery | 1,140 |
 | 35 | Swin Cash | 1,131 |
-| 36 | **Sabrina Ionescu** 🔴 +4 | 1,096 |
+| 36 | **Sabrina Ionescu** 🔴 +5 | 1,097 |
 | 37 | Lindsey Harding | 1,090 |
 | 38 | Katie Douglas | 1,069 |
 | 39 | Alana Beard | 1,061 |
@@ -1023,9 +1023,9 @@ _Last updated: 2026-08-12 01:04 UTC_
 | 179 | Isabelle Harrison | 190 |
 | 180 | Tamicha Jackson | 188 |
 | 181 | Michele Timms | 187 |
-| 182 | Charde Houston | 185 |
-| 182 | **Sabrina Ionescu** 🔴 +1 | 185 |
-| 182 | Tiffany Jackson | 185 |
+| 182 | **Sabrina Ionescu** 🔴 +2 | 186 |
+| 183 | Charde Houston | 185 |
+| 183 | Tiffany Jackson | 185 |
 | 185 | Erin Perperoglou | 184 |
 | 185 | **Monique Billings** 🔴 +2 | 184 |
 | 187 | **Rebecca Allen** 🔴 | 183 |
@@ -1132,7 +1132,7 @@ _Last updated: 2026-08-12 01:04 UTC_
 | 83 | Iziane Castro Marques | 275 |
 | 84 | Sheryl Swoopes | 270 |
 | 85 | Sophia Witherspoon | 260 |
-| 86 | **Rebecca Allen** 🔴 +2 | 257 |
+| 86 | **Rebecca Allen** 🔴 +3 | 258 |
 | 87 | Dawn Staley | 254 |
 | 88 | Bria Hartley | 253 |
 | 88 | Nneka Ogwumike | 253 |
