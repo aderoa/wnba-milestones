@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-12 01:09 UTC_
+_Last updated: 2026-08-12 01:10 UTC_
 
 ## Contents
 
@@ -323,8 +323,8 @@ _Last updated: 2026-08-12 01:09 UTC_
 | 96 | Ezi Magbegor | 1,243 |
 | 98 | Seimone Augustus | 1,228 |
 | 99 | Jia Perkins | 1,220 |
-| 100 | **Aliyah Boston** 🔴 +6 | 1,204 |
-| 100 | Kahleah Copper | 1,204 |
+| 100 | **Aliyah Boston** 🔴 +7 | 1,205 |
+| 101 | Kahleah Copper | 1,204 |
 | 102 | DeMya Walker | 1,199 |
 | 103 | Latasha Byears | 1,190 |
 | 103 | Tanisha Wright | 1,190 |
@@ -881,7 +881,7 @@ _Last updated: 2026-08-12 01:09 UTC_
 | 37 | Kayla McBride | 446 |
 | 38 | Sheri Sam | 438 |
 | 39 | Camille Smith | 437 |
-| 40 | **Breanna Stewart** 🔴 | 435 |
+| 40 | **Breanna Stewart** 🔴 +1 | 436 |
 | 41 | Candice Dupree | 431 |
 | 42 | Epiphanny Prince | 429 |
 | 43 | Tanisha Wright | 427 |
@@ -1331,8 +1331,8 @@ _Last updated: 2026-08-12 01:09 UTC_
 | 77 | Kelly Miller | 596 |
 | 78 | Stefanie Dolson | 594 |
 | 79 | Brittney Sykes | 591 |
-| 80 | **Breanna Stewart** 🔴 | 586 |
-| 80 | **Kelsey Mitchell** 🔴 +1 | 586 |
+| 80 | **Kelsey Mitchell** 🔴 +2 | 587 |
+| 81 | **Breanna Stewart** 🔴 | 586 |
 | 82 | Helen Darling | 575 |
 | 82 | Nykesha Sales | 575 |
 | 84 | Andrea Stinson | 571 |
