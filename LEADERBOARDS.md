@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-12 03:13 UTC_
+_Last updated: 2026-08-12 03:14 UTC_
 
 ## Contents
 
@@ -69,7 +69,7 @@ _Last updated: 2026-08-12 03:13 UTC_
 | 48 | Jonquel Jones | 4,367 |
 | 49 | Courtney Vandersloot | 4,362 |
 | 50 | Courtney Williams | 4,350 |
-| 51 | **Dearica Hamby** 🔴 +13 | 4,343 |
+| 51 | **Dearica Hamby** 🔴 +15 | 4,345 |
 | 52 | Sophia Young-Malcolm | 4,300 |
 | 53 | Plenette Pierson | 4,258 |
 | 54 | Monique Currie | 4,253 |
@@ -83,7 +83,7 @@ _Last updated: 2026-08-12 03:13 UTC_
 | 62 | Allie Quigley | 3,786 |
 | 63 | Chasity Melvin | 3,781 |
 | 64 | Brittney Sykes | 3,726 |
-| 65 | **Jackie Young** 🔴 +16 | 3,714 |
+| 65 | **Jackie Young** 🔴 +18 | 3,716 |
 | 66 | Kara Lawson | 3,670 |
 | 67 | Mwadi Mabika | 3,576 |
 | 68 | Odyssey Sims | 3,574 |
@@ -395,8 +395,8 @@ _Last updated: 2026-08-12 03:13 UTC_
 | 168 | Barbara Farris | 819 |
 | 170 | Carolyn Swords | 814 |
 | 171 | **Betnijah Laney-Hamilton** 🔴 +1 | 813 |
-| 172 | **Ariel Atkins** 🔴 +1 | 799 |
-| 172 | Tierra Ruffin-Pratt | 799 |
+| 172 | **Ariel Atkins** 🔴 +2 | 800 |
+| 173 | Tierra Ruffin-Pratt | 799 |
 | 174 | Charlotte Smith | 794 |
 | 175 | Rhonda Mapp | 788 |
 | 176 | Mercedes Russell | 786 |
@@ -479,7 +479,7 @@ _Last updated: 2026-08-12 03:13 UTC_
 | 48 | Tiffany Hayes | 957 |
 | 49 | Kara Lawson | 946 |
 | 50 | Arike Ogunbowale | 944 |
-| 51 | **Nneka Ogwumike** 🔴 +4 | 937 |
+| 51 | **Nneka Ogwumike** 🔴 +5 | 938 |
 | 52 | Deanna Nolan | 930 |
 | 53 | Kelly Miller | 927 |
 | 54 | DeLisha Milton-Jones | 921 |
@@ -526,7 +526,7 @@ _Last updated: 2026-08-12 03:13 UTC_
 | 95 | Alex Bentley | 645 |
 | 96 | Asjha Jones | 637 |
 | 97 | Jennifer Azzi | 636 |
-| 98 | **Sami Whitcomb** 🔴 | 623 |
+| 98 | **Sami Whitcomb** 🔴 +1 | 624 |
 | 99 | Alysha Clark | 619 |
 | 100 | Natasha Howard | 615 |
 | 101 | Debbie Black | 612 |
@@ -885,13 +885,13 @@ _Last updated: 2026-08-12 03:13 UTC_
 | 41 | Candice Dupree | 431 |
 | 42 | Epiphanny Prince | 429 |
 | 43 | Tanisha Wright | 427 |
-| 44 | **Dearica Hamby** 🔴 +3 | 414 |
+| 44 | **Dearica Hamby** 🔴 +2 | 413 |
 | 45 | Katie Smith | 408 |
 | 46 | Cappie Pondexter | 405 |
 | 47 | Nicole Powell | 401 |
 | 48 | Jordin Canada | 397 |
 | 49 | Jasmine Thomas | 394 |
-| 50 | **Ariel Atkins** 🔴 | 390 |
+| 50 | **Ariel Atkins** 🔴 +1 | 391 |
 | 51 | Danielle Robinson | 389 |
 | 52 | Deanna Nolan | 388 |
 | 53 | Briann January | 386 |
@@ -1488,7 +1488,7 @@ _Last updated: 2026-08-12 03:13 UTC_
 | 28 | Yolanda Griffith | 991 |
 | 29 | Lauren Jackson | 982 |
 | 30 | Nakia Sanford | 979 |
-| 31 | **Alyssa Thomas** 🔴 | 972 |
+| 31 | **Alyssa Thomas** 🔴 +1 | 973 |
 | 32 | Asjha Jones | 971 |
 | 33 | Margo Dydek | 950 |
 | 34 | Sancho Lyttle | 947 |
