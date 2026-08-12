@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-12 03:12 UTC_
+_Last updated: 2026-08-12 03:13 UTC_
 
 ## Contents
 
@@ -63,7 +63,7 @@ _Last updated: 2026-08-12 03:12 UTC_
 | 42 | Kelsey Plum | 4,494 |
 | 43 | Allisha Gray | 4,491 |
 | 44 | Kristi Toliver | 4,474 |
-| 45 | **Kahleah Copper** 🔴 +8 | 4,445 |
+| 45 | **Kahleah Copper** 🔴 +11 | 4,448 |
 | 46 | Crystal Langhorne | 4,433 |
 | 46 | Jia Perkins | 4,433 |
 | 48 | Jonquel Jones | 4,367 |
@@ -164,8 +164,8 @@ _Last updated: 2026-08-12 03:12 UTC_
 | 142 | Matee Ajavon | 2,237 |
 | 144 | Teaira McCowan | 2,229 |
 | 145 | Dawn Staley | 2,228 |
-| 146 | Janel McCarville | 2,215 |
-| 146 | **Sami Whitcomb** 🔴 +4 | 2,215 |
+| 146 | **Sami Whitcomb** 🔴 +7 | 2,218 |
+| 147 | Janel McCarville | 2,215 |
 | 148 | Sophia Witherspoon | 2,210 |
 | 149 | Ruthie Bolton | 2,175 |
 | 150 | Ann Wauters | 2,170 |
@@ -237,7 +237,7 @@ _Last updated: 2026-08-12 03:12 UTC_
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | **Alyssa Thomas** 🔴 +4 | 2,862 |
 | 13 | Jonquel Jones | 2,738 |
-| 14 | **A'ja Wilson** 🔴 +9 | 2,666 |
+| 14 | **A'ja Wilson** 🔴 +10 | 2,667 |
 | 15 | Breanna Stewart | 2,639 |
 | 16 | Sancho Lyttle | 2,596 |
 | 17 | Brittney Griner | 2,579 |
@@ -435,7 +435,7 @@ _Last updated: 2026-08-12 03:12 UTC_
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
 | 6 | **Chelsea Gray** 🔴 +4 | 2,007 |
-| 7 | **Alyssa Thomas** 🔴 +6 | 1,977 |
+| 7 | **Alyssa Thomas** 🔴 +7 | 1,978 |
 | 8 | Skylar Diggins | 1,852 |
 | 9 | Natasha Cloud | 1,802 |
 | 10 | Becky Hammon | 1,705 |
@@ -458,8 +458,8 @@ _Last updated: 2026-08-12 03:12 UTC_
 | 27 | Katie Smith | 1,258 |
 | 28 | Odyssey Sims | 1,228 |
 | 29 | Vickie Johnson | 1,202 |
+| 30 | **DeWanna Bonner** 🔴 +1 | 1,197 |
 | 30 | Leilani Mitchell | 1,197 |
-| 31 | **DeWanna Bonner** 🔴 | 1,196 |
 | 32 | **Jewell Loyd** 🔴 +2 | 1,158 |
 | 33 | **Jackie Young** 🔴 +7 | 1,157 |
 | 34 | Renee Montgomery | 1,140 |
@@ -1066,7 +1066,7 @@ _Last updated: 2026-08-12 03:12 UTC_
 | 17 | Ivory Latta | 536 |
 | 18 | Renee Montgomery | 532 |
 | 19 | Maya Moore | 530 |
-| 20 | **Sami Whitcomb** 🔴 +1 | 512 |
+| 20 | **Sami Whitcomb** 🔴 +2 | 513 |
 | 21 | Allie Quigley | 510 |
 | 22 | Leilani Mitchell | 508 |
 | 23 | Marina Mabrey | 500 |
@@ -1096,7 +1096,7 @@ _Last updated: 2026-08-12 03:12 UTC_
 | 47 | Jasmine Thomas | 376 |
 | 48 | Allison Feaster | 372 |
 | 48 | Betty Lennox | 372 |
-| 50 | **Kahleah Copper** 🔴 | 370 |
+| 50 | **Kahleah Copper** 🔴 +1 | 371 |
 | 51 | Epiphanny Prince | 368 |
 | 51 | Kia Nurse | 368 |
 | 53 | Nykesha Sales | 352 |
@@ -1298,7 +1298,7 @@ _Last updated: 2026-08-12 03:12 UTC_
 | 43 | Michelle Snow | 723 |
 | 44 | Tamecka Dixon | 716 |
 | 45 | Natasha Cloud | 707 |
-| 46 | **Erica Wheeler** 🔴 | 699 |
+| 46 | **Erica Wheeler** 🔴 +1 | 700 |
 | 47 | Renee Montgomery | 697 |
 | 48 | Temeka Johnson | 696 |
 | 49 | Penny Taylor | 695 |
