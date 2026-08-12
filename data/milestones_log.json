@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-08-12T03:48:00+00:00",
+    "text": "Betnijah Laney-Hamilton passed Andrea Stinson for #107 all-time in three-pointers (career 208) \u2014 up from #108 entering today \u2014 (3:42 - 4th \u2014 WSH @ LV)",
+    "kind": "rank_pass",
+    "player": "Betnijah Laney-Hamilton",
+    "stat": "three-pointers",
+    "rank": 107,
+    "passed_players": [
+      "Andrea Stinson"
+    ],
+    "new_total": 208
+  },
+  {
     "ts": "2026-08-12T03:39:00+00:00",
     "text": "Kahleah Copper passed Odyssey Sims and Svetlana Abrosimova for #68 all-time in turnovers (career 632) \u2014 up from #70 entering today \u2014 (9:32 - 4th \u2014 PHX @ LA)",
     "kind": "rank_pass",
@@ -2981,18 +2993,5 @@
       "Nakia Sanford"
     ],
     "new_total": 1916
-  },
-  {
-    "ts": "2026-07-04T19:10:00+00:00",
-    "text": "Veronica Burton passed Kennedy Burke and Lexie Hull for #175 all-time in three-pointers (career 126) \u2014 up from #178 entering today \u2014 (4:20 - 4th \u2014 GS @ ATL)",
-    "kind": "rank_pass",
-    "player": "Veronica Burton",
-    "stat": "three-pointers",
-    "rank": 175,
-    "passed_players": [
-      "Kennedy Burke",
-      "Lexie Hull"
-    ],
-    "new_total": 126
   }
 ]

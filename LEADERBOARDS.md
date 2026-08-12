@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-12 03:47 UTC_
+_Last updated: 2026-08-12 03:48 UTC_
 
 ## Contents
 
@@ -52,7 +52,7 @@ _Last updated: 2026-08-12 03:47 UTC_
 | 31 | Taj McWilliams-Franklin | 4,992 |
 | 32 | Maya Moore | 4,984 |
 | 33 | Sheryl Swoopes | 4,875 |
-| 34 | **Alyssa Thomas** 🔴 +9 | 4,761 |
+| 34 | **Alyssa Thomas** 🔴 +10 | 4,762 |
 | 35 | Alana Beard | 4,740 |
 | 36 | Arike Ogunbowale | 4,715 |
 | 37 | Chamique Holdsclaw | 4,713 |
@@ -153,8 +153,8 @@ _Last updated: 2026-08-12 03:47 UTC_
 | 132 | Alex Bentley | 2,350 |
 | 133 | Azurá Stevens | 2,343 |
 | 134 | Jordin Canada | 2,342 |
+| 135 | **Betnijah Laney-Hamilton** 🔴 +6 | 2,308 |
 | 135 | Merlakia Jones | 2,308 |
-| 136 | **Betnijah Laney-Hamilton** 🔴 +3 | 2,305 |
 | 137 | Satou Sabally | 2,296 |
 | 138 | Kia Vaughn | 2,288 |
 | 139 | Kia Nurse | 2,262 |
@@ -1153,8 +1153,8 @@ _Last updated: 2026-08-12 03:47 UTC_
 | 103 | Sheri Sam | 218 |
 | 105 | Damiris Dantas | 212 |
 | 106 | Erin Phillips | 211 |
-| 107 | Andrea Stinson | 207 |
-| 107 | **Betnijah Laney-Hamilton** 🔴 +1 | 207 |
+| 107 | **Betnijah Laney-Hamilton** 🔴 +2 | 208 |
+| 108 | Andrea Stinson | 207 |
 | 109 | Lexie Brown | 203 |
 | 110 | Caitlin Clark | 199 |
 | 110 | Shanna Zolman | 199 |
