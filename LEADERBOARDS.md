@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-12 03:46 UTC_
+_Last updated: 2026-08-12 03:47 UTC_
 
 ## Contents
 
@@ -33,7 +33,7 @@ _Last updated: 2026-08-12 03:46 UTC_
 | 12 | Sylvia Fowles | 6,413 |
 | 13 | Breanna Stewart | 6,354 |
 | 14 | Lisa Leslie | 6,251 |
-| 15 | **A'ja Wilson** 🔴 +22 | 6,200 |
+| 15 | **A'ja Wilson** 🔴 +24 | 6,202 |
 | 16 | **Jewell Loyd** 🔴 +2 | 6,150 |
 | 17 | Brittney Griner | 6,087 |
 | 18 | Lauren Jackson | 6,005 |
@@ -52,7 +52,7 @@ _Last updated: 2026-08-12 03:46 UTC_
 | 31 | Taj McWilliams-Franklin | 4,992 |
 | 32 | Maya Moore | 4,984 |
 | 33 | Sheryl Swoopes | 4,875 |
-| 34 | **Alyssa Thomas** 🔴 +7 | 4,759 |
+| 34 | **Alyssa Thomas** 🔴 +9 | 4,761 |
 | 35 | Alana Beard | 4,740 |
 | 36 | Arike Ogunbowale | 4,715 |
 | 37 | Chamique Holdsclaw | 4,713 |
@@ -69,7 +69,7 @@ _Last updated: 2026-08-12 03:46 UTC_
 | 48 | Jonquel Jones | 4,367 |
 | 49 | Courtney Vandersloot | 4,362 |
 | 50 | Courtney Williams | 4,350 |
-| 51 | **Dearica Hamby** 🔴 +18 | 4,348 |
+| 51 | **Dearica Hamby** 🔴 +19 | 4,349 |
 | 52 | Sophia Young-Malcolm | 4,300 |
 | 53 | Plenette Pierson | 4,258 |
 | 54 | Monique Currie | 4,253 |
@@ -903,8 +903,8 @@ _Last updated: 2026-08-12 03:46 UTC_
 | 59 | Chamique Holdsclaw | 376 |
 | 60 | Brittney Sykes | 371 |
 | 61 | Mwadi Mabika | 370 |
+| 62 | **A'ja Wilson** 🔴 +2 | 363 |
 | 62 | **Erica Wheeler** 🔴 +2 | 363 |
-| 63 | **A'ja Wilson** 🔴 | 361 |
 | 64 | Lauren Jackson | 360 |
 | 64 | Tan White | 360 |
 | 66 | Vickie Johnson | 357 |
@@ -1004,9 +1004,9 @@ _Last updated: 2026-08-12 03:46 UTC_
 | 160 | Azurá Stevens | 210 |
 | 161 | Iziane Castro Marques | 209 |
 | 161 | Tiffany Mitchell | 209 |
+| 163 | **Betnijah Laney-Hamilton** 🔴 +1 | 208 |
 | 163 | Kia Vaughn | 208 |
 | 163 | Sophia Witherspoon | 208 |
-| 165 | **Betnijah Laney-Hamilton** 🔴 | 207 |
 | 166 | Shameka Christon | 205 |
 | 167 | Jessica Breland | 204 |
 | 167 | Murriel Page | 204 |
@@ -1321,7 +1321,7 @@ _Last updated: 2026-08-12 03:46 UTC_
 | 65 | Dawn Staley | 643 |
 | 66 | Jonquel Jones | 642 |
 | 67 | Ruth Riley | 637 |
-| 68 | **Kahleah Copper** 🔴 +8 | 633 |
+| 68 | **Kahleah Copper** 🔴 +9 | 634 |
 | 69 | Odyssey Sims | 631 |
 | 69 | Svetlana Abrosimova | 631 |
 | 71 | Tiffany Hayes | 624 |
@@ -1364,9 +1364,9 @@ _Last updated: 2026-08-12 03:46 UTC_
 | 108 | Tully Bevilaqua | 514 |
 | 109 | Jia Perkins | 513 |
 | 110 | Tamera Young | 501 |
+| 111 | **A'ja Wilson** 🔴 +5 | 493 |
 | 111 | Nikki Teasley | 493 |
 | 111 | Tari Phillips | 493 |
-| 113 | **A'ja Wilson** 🔴 +4 | 492 |
 | 114 | Janel McCarville | 491 |
 | 115 | Erika de Souza | 483 |
 | 116 | Sophia Young-Malcolm | 482 |
