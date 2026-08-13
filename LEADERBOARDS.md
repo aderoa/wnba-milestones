@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-13 02:39 UTC_
+_Last updated: 2026-08-13 02:40 UTC_
 
 ## Contents
 
@@ -198,7 +198,7 @@ _Last updated: 2026-08-13 02:39 UTC_
 | 177 | **Gabby Williams** 🔴 +3 | 1,902 |
 | 178 | Candice Wiggins | 1,901 |
 | 179 | NaLyssa Smith | 1,879 |
-| 180 | **Rachel Banham** 🔴 +5 | 1,848 |
+| 180 | **Rachel Banham** 🔴 +8 | 1,851 |
 | 181 | Damiris Dantas | 1,842 |
 | 182 | Sophie Cunningham | 1,829 |
 | 183 | Tianna Hawkins | 1,825 |
@@ -477,7 +477,7 @@ _Last updated: 2026-08-13 02:39 UTC_
 | 45 | Nikki Teasley | 982 |
 | 46 | Breanna Stewart | 981 |
 | 47 | Tamecka Dixon | 960 |
-| 48 | **Tiffany Hayes** 🔴 +1 | 958 |
+| 48 | **Tiffany Hayes** 🔴 +2 | 959 |
 | 49 | Arike Ogunbowale | 949 |
 | 50 | Kara Lawson | 946 |
 | 51 | Nneka Ogwumike | 933 |
@@ -1089,7 +1089,7 @@ _Last updated: 2026-08-13 02:39 UTC_
 | 38 | Riquna Williams | 407 |
 | 40 | Jia Perkins | 396 |
 | 41 | Alysha Clark | 395 |
-| 42 | **Rachel Banham** 🔴 +1 | 391 |
+| 42 | **Rachel Banham** 🔴 +2 | 392 |
 | 43 | Jonquel Jones | 389 |
 | 43 | Roneeka Hodges | 389 |
 | 45 | **Courtney Vandersloot** 🔴 | 386 |
