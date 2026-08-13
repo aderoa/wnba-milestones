@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-13 23:05 UTC_
+_Last updated: 2026-08-13 23:06 UTC_
 
 ## Contents
 
@@ -240,7 +240,7 @@ _Last updated: 2026-08-13 23:05 UTC_
 | 14 | A'ja Wilson | 2,657 |
 | 15 | Breanna Stewart | 2,632 |
 | 16 | Sancho Lyttle | 2,596 |
-| 17 | **Brittney Griner** 🔴 +1 | 2,580 |
+| 17 | **Brittney Griner** 🔴 +3 | 2,582 |
 | 18 | DeLisha Milton-Jones | 2,574 |
 | 19 | Swin Cash | 2,521 |
 | 20 | Michelle Snow | 2,476 |
@@ -296,7 +296,7 @@ _Last updated: 2026-08-13 23:05 UTC_
 | 70 | Alana Beard | 1,420 |
 | 71 | Nakia Sanford | 1,419 |
 | 72 | Kayla Thornton | 1,408 |
-| 73 | **Allisha Gray** 🔴 | 1,404 |
+| 73 | **Allisha Gray** 🔴 +1 | 1,405 |
 | 74 | Kara Braxton | 1,387 |
 | 75 | Courtney Vandersloot | 1,386 |
 | 76 | Katie Smith | 1,383 |
@@ -383,7 +383,7 @@ _Last updated: 2026-08-13 23:05 UTC_
 | 157 | Marina Mabrey | 874 |
 | 158 | Shameka Christon | 867 |
 | 159 | Krystal Thomas | 862 |
-| 160 | **Naz Hillmon** 🔴 | 859 |
+| 160 | **Naz Hillmon** 🔴 +1 | 860 |
 | 161 | Leilani Mitchell | 845 |
 | 162 | Essence Carson | 833 |
 | 163 | Shakira Austin | 832 |
