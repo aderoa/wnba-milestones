@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-08-13 03:54 UTC
+
+- **Tiffany Hayes** passed **Janel McCarville** for **#91** all-time in rebounds (career 1,262) — up from #94 entering today — _9:04 - 4th — CHI @ GS_
+
 ## 2026-08-13 02:18 UTC
 
 - **Arike Ogunbowale** passed **Sabrina Ionescu** for **#96** all-time in turnovers (career 534) — up from #99 entering today — _5.9 - 4th — TOR @ DAL_

@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-08-13T03:54:00+00:00",
+    "text": "Tiffany Hayes passed Janel McCarville for #91 all-time in rebounds (career 1,262) \u2014 up from #94 entering today \u2014 (9:04 - 4th \u2014 CHI @ GS)",
+    "kind": "rank_pass",
+    "player": "Tiffany Hayes",
+    "stat": "rebounds",
+    "rank": 91,
+    "passed_players": [
+      "Janel McCarville"
+    ],
+    "new_total": 1262
+  },
+  {
     "ts": "2026-08-13T02:18:00+00:00",
     "text": "Arike Ogunbowale passed Sabrina Ionescu for #96 all-time in turnovers (career 534) \u2014 up from #99 entering today \u2014 (5.9 - 4th \u2014 TOR @ DAL)",
     "kind": "rank_pass",
@@ -2981,17 +2993,5 @@
       "Jennifer Gillom"
     ],
     "new_total": 154
-  },
-  {
-    "ts": "2026-07-05T01:20:00+00:00",
-    "text": "Natisha Hiedeman passed Shameka Christon for #166 all-time in steals (career 206) \u2014 up from #169 entering today \u2014 (1:29 - 1st \u2014 POR @ SEA)",
-    "kind": "rank_pass",
-    "player": "Natisha Hiedeman",
-    "stat": "steals",
-    "rank": 166,
-    "passed_players": [
-      "Shameka Christon"
-    ],
-    "new_total": 206
   }
 ]
