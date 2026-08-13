@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-13 01:21 UTC_
+_Last updated: 2026-08-13 01:22 UTC_
 
 ## Contents
 
@@ -378,7 +378,7 @@ _Last updated: 2026-08-13 01:21 UTC_
 | 152 | Natalie Achonwa | 895 |
 | 153 | Temeka Johnson | 889 |
 | 154 | Mistie Bass | 888 |
-| 155 | **Alanna Smith** 🔴 +7 | 885 |
+| 155 | **Alanna Smith** 🔴 +8 | 886 |
 | 156 | Erica Wheeler | 882 |
 | 157 | **Marina Mabrey** 🔴 +2 | 876 |
 | 158 | Shameka Christon | 867 |
@@ -404,7 +404,7 @@ _Last updated: 2026-08-13 01:21 UTC_
 | 178 | Sue Wicks | 780 |
 | 179 | Lindsey Harding | 779 |
 | 180 | Tiffani Johnson | 778 |
-| 181 | **Arike Ogunbowale** 🔴 +1 | 776 |
+| 181 | **Arike Ogunbowale** 🔴 +2 | 777 |
 | 182 | Teresa Weatherspoon | 775 |
 | 183 | Anna DeForge | 769 |
 | 183 | Kelsey Bone | 769 |
@@ -1350,8 +1350,8 @@ _Last updated: 2026-08-13 01:21 UTC_
 | 94 | Iziane Castro Marques | 534 |
 | 96 | Sabrina Ionescu | 533 |
 | 97 | Mwadi Mabika | 532 |
+| 98 | **Arike Ogunbowale** 🔴 +2 | 531 |
 | 98 | Nakia Sanford | 531 |
-| 99 | **Arike Ogunbowale** 🔴 +1 | 530 |
 | 100 | Jordin Canada | 527 |
 | 100 | Maya Moore | 527 |
 | 102 | Kara Lawson | 526 |
