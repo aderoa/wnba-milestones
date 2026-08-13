@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-13 03:46 UTC_
+_Last updated: 2026-08-13 03:47 UTC_
 
 ## Contents
 
@@ -194,7 +194,7 @@ _Last updated: 2026-08-13 03:46 UTC_
 | 173 | Karima Christmas-Kelly | 1,919 |
 | 174 | Jessica Breland | 1,918 |
 | 175 | Nakia Sanford | 1,915 |
-| 176 | **Gabby Williams** 🔴 +11 | 1,910 |
+| 176 | **Gabby Williams** 🔴 +13 | 1,912 |
 | 177 | Ebony Hoffman | 1,909 |
 | 178 | Candice Wiggins | 1,901 |
 | 179 | NaLyssa Smith | 1,879 |
@@ -476,8 +476,8 @@ _Last updated: 2026-08-13 03:46 UTC_
 | 44 | **Kayla McBride** 🔴 +2 | 994 |
 | 45 | Nikki Teasley | 982 |
 | 46 | Breanna Stewart | 981 |
-| 47 | Tamecka Dixon | 960 |
-| 47 | **Tiffany Hayes** 🔴 +3 | 960 |
+| 47 | **Tiffany Hayes** 🔴 +4 | 961 |
+| 48 | Tamecka Dixon | 960 |
 | 49 | Arike Ogunbowale | 949 |
 | 50 | Kara Lawson | 946 |
 | 51 | Nneka Ogwumike | 933 |
@@ -926,9 +926,9 @@ _Last updated: 2026-08-13 03:46 UTC_
 | 81 | Chasity Melvin | 330 |
 | 81 | Leilani Mitchell | 330 |
 | 83 | **Courtney Williams** 🔴 | 329 |
+| 83 | **Gabby Williams** 🔴 +3 | 329 |
 | 83 | Kristi Toliver | 329 |
-| 85 | **Gabby Williams** 🔴 +2 | 328 |
-| 85 | Matee Ajavon | 328 |
+| 86 | Matee Ajavon | 328 |
 | 87 | **Napheesa Collier** 🔴 +2 | 327 |
 | 88 | Betty Lennox | 323 |
 | 89 | Tammy Sutton-Brown | 319 |
@@ -1404,7 +1404,7 @@ _Last updated: 2026-08-13 03:46 UTC_
 | 149 | Glory Johnson | 397 |
 | 150 | Marissa Coleman | 396 |
 | 151 | Myisha Hines-Allen | 390 |
-| 152 | **Elizabeth Williams** 🔴 | 388 |
+| 152 | **Elizabeth Williams** 🔴 +1 | 389 |
 | 153 | Sophia Witherspoon | 386 |
 | 154 | Hamchetou Maiga-Ba | 385 |
 | 155 | Kamila Vodichkova | 381 |
