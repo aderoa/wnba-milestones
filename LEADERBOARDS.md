@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-13 00:12 UTC_
+_Last updated: 2026-08-13 00:13 UTC_
 
 ## Contents
 
@@ -342,7 +342,7 @@ _Last updated: 2026-08-13 00:12 UTC_
 | 116 | Chiney Ogwumike | 1,110 |
 | 117 | Becky Hammon | 1,108 |
 | 118 | Ann Wauters | 1,105 |
-| 119 | **Isabelle Harrison** 🔴 | 1,097 |
+| 119 | **Isabelle Harrison** 🔴 +1 | 1,098 |
 | 120 | Jackie Young | 1,085 |
 | 121 | Svetlana Abrosimova | 1,078 |
 | 122 | Le'coe Willingham | 1,054 |
@@ -399,8 +399,8 @@ _Last updated: 2026-08-13 00:12 UTC_
 | 173 | Ariel Atkins | 798 |
 | 174 | Charlotte Smith | 794 |
 | 175 | Rhonda Mapp | 788 |
-| 176 | Mercedes Russell | 786 |
-| 176 | **Odyssey Sims** 🔴 +1 | 786 |
+| 176 | **Odyssey Sims** 🔴 +2 | 787 |
+| 177 | Mercedes Russell | 786 |
 | 178 | Sue Wicks | 780 |
 | 179 | Lindsey Harding | 779 |
 | 180 | Tiffani Johnson | 778 |
@@ -457,7 +457,7 @@ _Last updated: 2026-08-13 00:12 UTC_
 | 25 | Kelsey Plum | 1,270 |
 | 26 | Jordin Canada | 1,262 |
 | 27 | Katie Smith | 1,258 |
-| 28 | **Odyssey Sims** 🔴 +1 | 1,229 |
+| 28 | **Odyssey Sims** 🔴 +2 | 1,230 |
 | 29 | Vickie Johnson | 1,202 |
 | 30 | Leilani Mitchell | 1,197 |
 | 31 | DeWanna Bonner | 1,196 |
