@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-13 02:01 UTC_
+_Last updated: 2026-08-13 02:02 UTC_
 
 ## Contents
 
@@ -104,7 +104,7 @@ _Last updated: 2026-08-13 02:01 UTC_
 | 83 | Sheri Sam | 3,353 |
 | 84 | Andrea Stinson | 3,351 |
 | 85 | Tanisha Wright | 3,324 |
-| 86 | **Marina Mabrey** 🔴 +18 | 3,267 |
+| 86 | **Marina Mabrey** 🔴 +19 | 3,268 |
 | 87 | Stefanie Dolson | 3,217 |
 | 88 | Margo Dydek | 3,214 |
 | 89 | Erica Wheeler | 3,195 |
@@ -911,9 +911,9 @@ _Last updated: 2026-08-13 02:01 UTC_
 | 66 | Vickie Johnson | 357 |
 | 67 | Dominique Canty | 356 |
 | 67 | Renee Montgomery | 356 |
+| 69 | **Arike Ogunbowale** 🔴 +1 | 355 |
 | 69 | Natasha Cloud | 355 |
 | 69 | Tamecka Dixon | 355 |
-| 71 | **Arike Ogunbowale** 🔴 | 354 |
 | 72 | Vicky Bullett | 353 |
 | 73 | Svetlana Abrosimova | 352 |
 | 74 | Janeth Arcain | 346 |
@@ -1442,7 +1442,7 @@ _Last updated: 2026-08-13 02:01 UTC_
 | 187 | Alex Bentley | 313 |
 | 188 | Natisha Hiedeman | 312 |
 | 189 | Tamika Raymond | 311 |
-| 190 | **Isabelle Harrison** 🔴 +1 | 308 |
+| 190 | **Isabelle Harrison** 🔴 +2 | 309 |
 | 191 | Erin Perperoglou | 305 |
 | 191 | Jennifer Lacy | 305 |
 | 193 | Azurá Stevens | 304 |
@@ -1499,8 +1499,8 @@ _Last updated: 2026-08-13 02:01 UTC_
 | 39 | Briann January | 921 |
 | 40 | Jonquel Jones | 913 |
 | 40 | Ticha Penicheiro | 913 |
+| 42 | **Alysha Clark** 🔴 +2 | 907 |
 | 42 | Shavonte Zellous | 907 |
-| 43 | **Alysha Clark** 🔴 +1 | 906 |
 | 44 | DeMya Walker | 882 |
 | 45 | Candice Dupree | 876 |
 | 46 | Murriel Page | 872 |
