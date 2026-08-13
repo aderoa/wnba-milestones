@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-13 02:47 UTC_
+_Last updated: 2026-08-13 02:48 UTC_
 
 ## Contents
 
@@ -41,7 +41,7 @@ _Last updated: 2026-08-13 02:47 UTC_
 | 20 | Becky Hammon | 5,816 |
 | 21 | Angel McCoughtry | 5,797 |
 | 22 | Skylar Diggins | 5,732 |
-| 23 | **Kayla McBride** 🔴 +5 | 5,655 |
+| 23 | **Kayla McBride** 🔴 +11 | 5,661 |
 | 24 | DeLisha Milton-Jones | 5,571 |
 | 25 | Katie Douglas | 5,545 |
 | 26 | Lindsay Whalen | 5,511 |
@@ -284,7 +284,7 @@ _Last updated: 2026-08-13 02:47 UTC_
 | 58 | Katie Douglas | 1,562 |
 | 59 | Angel McCoughtry | 1,561 |
 | 60 | Penny Taylor | 1,552 |
-| 61 | **Napheesa Collier** 🔴 +4 | 1,514 |
+| 61 | **Napheesa Collier** 🔴 +5 | 1,515 |
 | 62 | Cappie Pondexter | 1,513 |
 | 63 | Ticha Penicheiro | 1,485 |
 | 64 | Alysha Clark | 1,469 |
@@ -318,7 +318,7 @@ _Last updated: 2026-08-13 02:47 UTC_
 | 92 | Liz Cambage | 1,258 |
 | 92 | **Tiffany Hayes** 🔴 +1 | 1,258 |
 | 94 | Chelsea Gray | 1,257 |
-| 95 | **Kayla McBride** 🔴 | 1,256 |
+| 94 | **Kayla McBride** 🔴 +1 | 1,257 |
 | 96 | Brianna Turner | 1,243 |
 | 96 | Ezi Magbegor | 1,243 |
 | 98 | Seimone Augustus | 1,228 |
@@ -444,7 +444,7 @@ _Last updated: 2026-08-13 02:47 UTC_
 | 12 | Cappie Pondexter | 1,575 |
 | 13 | Tamika Catchings | 1,484 |
 | 14 | Danielle Robinson | 1,480 |
-| 15 | **Courtney Williams** 🔴 +2 | 1,440 |
+| 15 | **Courtney Williams** 🔴 +3 | 1,441 |
 | 16 | Shannon Johnson | 1,423 |
 | 16 | Tanisha Wright | 1,423 |
 | 18 | Temeka Johnson | 1,382 |
@@ -895,8 +895,8 @@ _Last updated: 2026-08-13 02:47 UTC_
 | 50 | Ariel Atkins | 390 |
 | 51 | Danielle Robinson | 389 |
 | 52 | Deanna Nolan | 388 |
-| 53 | Briann January | 386 |
-| 53 | **Tiffany Hayes** 🔴 +2 | 386 |
+| 53 | **Tiffany Hayes** 🔴 +3 | 387 |
+| 54 | Briann January | 386 |
 | 55 | Swin Cash | 384 |
 | 55 | Tina Charles | 384 |
 | 57 | Allisha Gray | 379 |
@@ -1052,7 +1052,7 @@ _Last updated: 2026-08-13 02:47 UTC_
 | 2 | Sue Bird | 1,001 |
 | 3 | Katie Smith | 906 |
 | 4 | Becky Hammon | 825 |
-| 5 | **Kayla McBride** 🔴 +1 | 757 |
+| 5 | **Kayla McBride** 🔴 +3 | 759 |
 | 6 | Tina Thompson | 745 |
 | 7 | Katie Douglas | 723 |
 | 8 | Kelsey Mitchell | 712 |
@@ -1297,7 +1297,7 @@ _Last updated: 2026-08-13 02:47 UTC_
 | 42 | Monique Currie | 724 |
 | 43 | Michelle Snow | 723 |
 | 44 | Tamecka Dixon | 716 |
-| 45 | **Natasha Cloud** 🔴 | 707 |
+| 45 | **Natasha Cloud** 🔴 +1 | 708 |
 | 46 | Erica Wheeler | 699 |
 | 47 | Renee Montgomery | 697 |
 | 48 | Temeka Johnson | 696 |
