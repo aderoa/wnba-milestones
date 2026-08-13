@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-13 01:09 UTC_
+_Last updated: 2026-08-13 01:10 UTC_
 
 ## Contents
 
@@ -54,7 +54,7 @@ _Last updated: 2026-08-13 01:09 UTC_
 | 33 | Sheryl Swoopes | 4,875 |
 | 34 | Alyssa Thomas | 4,752 |
 | 35 | Alana Beard | 4,740 |
-| 36 | **Arike Ogunbowale** 🔴 +9 | 4,724 |
+| 36 | **Arike Ogunbowale** 🔴 +10 | 4,725 |
 | 37 | Chamique Holdsclaw | 4,713 |
 | 38 | Elena Delle Donne | 4,706 |
 | 39 | Natasha Howard | 4,682 |
@@ -1623,10 +1623,10 @@ _Last updated: 2026-08-13 01:09 UTC_
 | 162 | Janeth Arcain | 512 |
 | 164 | Andrea Stinson | 511 |
 | 165 | Vicky Bullett | 507 |
+| 166 | **Isabelle Harrison** 🔴 +1 | 506 |
 | 166 | Merlakia Jones | 506 |
-| 167 | **Isabelle Harrison** 🔴 | 505 |
-| 167 | Rushia Brown | 505 |
-| 167 | Shekinna Stricklen | 505 |
+| 168 | Rushia Brown | 505 |
+| 168 | Shekinna Stricklen | 505 |
 | 170 | Allison Feaster | 504 |
 | 170 | Erin Perperoglou | 504 |
 | 170 | Napheesa Collier | 504 |
