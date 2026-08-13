@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-13 04:11 UTC_
+_Last updated: 2026-08-13 04:12 UTC_
 
 ## Contents
 
@@ -332,7 +332,7 @@ _Last updated: 2026-08-13 04:11 UTC_
 | 106 | NaLyssa Smith | 1,172 |
 | 107 | Brittney Sykes | 1,162 |
 | 108 | Nykesha Sales | 1,148 |
-| 109 | **Natasha Cloud** 🔴 +3 | 1,144 |
+| 109 | **Natasha Cloud** 🔴 +4 | 1,145 |
 | 110 | Shannon Johnson | 1,143 |
 | 111 | Adrian Williams-Strong | 1,131 |
 | 112 | Andrea Stinson | 1,127 |
@@ -1447,7 +1447,7 @@ _Last updated: 2026-08-13 04:11 UTC_
 | 192 | Erin Perperoglou | 305 |
 | 192 | Jennifer Lacy | 305 |
 | 194 | Tianna Hawkins | 303 |
-| 195 | **Rachel Banham** 🔴 | 301 |
+| 195 | **Rachel Banham** 🔴 +1 | 302 |
 | 196 | Crystal Robinson | 299 |
 | 197 | **Kayla Thornton** 🔴 | 298 |
 | 198 | Michele Timms | 297 |
