@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-13 03:38 UTC_
+_Last updated: 2026-08-13 03:39 UTC_
 
 ## Contents
 
@@ -67,7 +67,7 @@ _Last updated: 2026-08-13 03:38 UTC_
 | 46 | Crystal Langhorne | 4,433 |
 | 46 | Jia Perkins | 4,433 |
 | 48 | **Courtney Vandersloot** 🔴 +6 | 4,368 |
-| 49 | **Courtney Williams** 🔴 +7 | 4,357 |
+| 49 | **Courtney Williams** 🔴 +9 | 4,359 |
 | 50 | Jonquel Jones | 4,353 |
 | 51 | Dearica Hamby | 4,330 |
 | 52 | Sophia Young-Malcolm | 4,300 |
@@ -87,7 +87,7 @@ _Last updated: 2026-08-13 03:38 UTC_
 | 66 | Kara Lawson | 3,670 |
 | 67 | Odyssey Sims | 3,583 |
 | 68 | Mwadi Mabika | 3,576 |
-| 69 | **Napheesa Collier** 🔴 +17 | 3,559 |
+| 69 | **Napheesa Collier** 🔴 +19 | 3,561 |
 | 70 | Camille Smith | 3,551 |
 | 71 | Shannon Johnson | 3,542 |
 | 72 | Renee Montgomery | 3,533 |
@@ -529,7 +529,7 @@ _Last updated: 2026-08-13 03:38 UTC_
 | 97 | Jennifer Azzi | 636 |
 | 98 | Sami Whitcomb | 623 |
 | 99 | Alysha Clark | 619 |
-| 100 | **Natasha Howard** 🔴 +3 | 618 |
+| 99 | **Natasha Howard** 🔴 +4 | 619 |
 | 101 | Debbie Black | 612 |
 | 102 | Cynthia Cooper | 602 |
 | 103 | **Gabby Williams** 🔴 +3 | 594 |
@@ -672,8 +672,8 @@ _Last updated: 2026-08-13 03:38 UTC_
 | 35 | Liz Cambage | 264 |
 | 36 | Cheyenne Parker-Tyus | 261 |
 | 37 | Swin Cash | 258 |
+| 38 | **Napheesa Collier** 🔴 +3 | 242 |
 | 38 | Plenette Pierson | 242 |
-| 39 | **Napheesa Collier** 🔴 +2 | 241 |
 | 40 | Emma Meesseman | 238 |
 | 41 | **Azurá Stevens** 🔴 | 236 |
 | 42 | Brianna Turner | 234 |
@@ -1117,8 +1117,8 @@ _Last updated: 2026-08-13 03:38 UTC_
 | 67 | DeLisha Milton-Jones | 312 |
 | 67 | Ruthie Bolton | 312 |
 | 69 | Tan White | 311 |
+| 70 | **Bridget Carleton** 🔴 +1 | 307 |
 | 70 | Kedra Holland-Corn | 307 |
-| 71 | **Bridget Carleton** 🔴 | 306 |
 | 72 | Kelly Miller | 305 |
 | 73 | Nikki Teasley | 304 |
 | 74 | **Kayla Thornton** 🔴 | 300 |
