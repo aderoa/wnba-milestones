@@ -444,7 +444,7 @@ _Last updated: 2026-08-13 02:45 UTC_
 | 12 | Cappie Pondexter | 1,575 |
 | 13 | Tamika Catchings | 1,484 |
 | 14 | Danielle Robinson | 1,480 |
-| 15 | **Courtney Williams** 🔴 +1 | 1,439 |
+| 15 | **Courtney Williams** 🔴 +2 | 1,440 |
 | 16 | Shannon Johnson | 1,423 |
 | 16 | Tanisha Wright | 1,423 |
 | 18 | Temeka Johnson | 1,382 |
