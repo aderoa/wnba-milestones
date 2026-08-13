@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-13 23:58 UTC_
+_Last updated: 2026-08-13 23:59 UTC_
 
 ## Contents
 
@@ -128,8 +128,8 @@ _Last updated: 2026-08-13 23:58 UTC_
 | 107 | Dominique Canty | 2,763 |
 | 108 | Ticha Penicheiro | 2,729 |
 | 109 | Adrienne Goodson | 2,705 |
-| 110 | Riquna Williams | 2,659 |
-| 111 | **Rhyne Howard** 🔴 +21 | 2,658 |
+| 110 | **Rhyne Howard** 🔴 +23 | 2,660 |
+| 111 | Riquna Williams | 2,659 |
 | 112 | Essence Carson | 2,647 |
 | 112 | Lindsey Harding | 2,647 |
 | 114 | Cheyenne Parker-Tyus | 2,645 |
