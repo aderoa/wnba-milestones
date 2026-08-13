@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-13 03:35 UTC_
+_Last updated: 2026-08-13 03:36 UTC_
 
 ## Contents
 
@@ -47,7 +47,7 @@ _Last updated: 2026-08-13 03:35 UTC_
 | 26 | Lindsay Whalen | 5,511 |
 | 27 | Kelsey Mitchell | 5,198 |
 | 28 | Swin Cash | 5,119 |
-| 29 | **Tiffany Hayes** 🔴 +11 | 5,060 |
+| 29 | **Tiffany Hayes** 🔴 +13 | 5,062 |
 | 30 | Tangela Smith | 5,035 |
 | 31 | Taj McWilliams-Franklin | 4,992 |
 | 32 | Maya Moore | 4,984 |
@@ -332,8 +332,8 @@ _Last updated: 2026-08-13 03:35 UTC_
 | 106 | NaLyssa Smith | 1,172 |
 | 107 | Brittney Sykes | 1,162 |
 | 108 | Nykesha Sales | 1,148 |
-| 109 | **Natasha Cloud** 🔴 +2 | 1,143 |
-| 109 | Shannon Johnson | 1,143 |
+| 109 | **Natasha Cloud** 🔴 +3 | 1,144 |
+| 110 | Shannon Johnson | 1,143 |
 | 111 | Adrian Williams-Strong | 1,131 |
 | 112 | Andrea Stinson | 1,127 |
 | 112 | Tamika Raymond | 1,127 |
@@ -1037,11 +1037,11 @@ _Last updated: 2026-08-13 03:35 UTC_
 | 192 | Bridget Pettis | 177 |
 | 193 | Brittany Boyd-Jones | 176 |
 | 193 | Chiney Ogwumike | 176 |
+| 195 | **Bridget Carleton** 🔴 +2 | 175 |
 | 195 | Tamika Raymond | 175 |
-| 196 | **Bridget Carleton** 🔴 +1 | 174 |
-| 196 | Elena Delle Donne | 174 |
-| 196 | Ezi Magbegor | 174 |
-| 196 | Margo Dydek | 174 |
+| 197 | Elena Delle Donne | 174 |
+| 197 | Ezi Magbegor | 174 |
+| 197 | Margo Dydek | 174 |
 | 200 | Kamila Vodichkova | 173 |
 
 ## Three-pointers
@@ -1278,7 +1278,7 @@ _Last updated: 2026-08-13 03:35 UTC_
 | 23 | Taj McWilliams-Franklin | 898 |
 | 24 | Candice Dupree | 869 |
 | 25 | Alana Beard | 854 |
-| 26 | **Natasha Howard** 🔴 +2 | 845 |
+| 26 | **Natasha Howard** 🔴 +3 | 846 |
 | 27 | DeWanna Bonner | 840 |
 | 28 | Katie Douglas | 824 |
 | 29 | Nneka Ogwumike | 803 |
@@ -1389,8 +1389,8 @@ _Last updated: 2026-08-13 03:35 UTC_
 | 134 | Jennifer Gillom | 434 |
 | 134 | Nicole Ohlde | 434 |
 | 136 | Murriel Page | 432 |
-| 137 | **Napheesa Collier** 🔴 +2 | 424 |
-| 137 | Shameka Christon | 424 |
+| 137 | **Napheesa Collier** 🔴 +3 | 425 |
+| 138 | Shameka Christon | 424 |
 | 139 | Cynthia Cooper | 422 |
 | 139 | Noelle Quinn | 422 |
 | 141 | Bria Hartley | 419 |
