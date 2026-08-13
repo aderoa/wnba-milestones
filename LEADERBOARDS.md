@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-13 23:10 UTC_
+_Last updated: 2026-08-13 23:11 UTC_
 
 ## Contents
 
@@ -35,7 +35,7 @@ _Last updated: 2026-08-13 23:10 UTC_
 | 14 | Lisa Leslie | 6,251 |
 | 15 | A'ja Wilson | 6,178 |
 | 16 | Jewell Loyd | 6,148 |
-| 17 | **Brittney Griner** 🔴 +5 | 6,092 |
+| 17 | **Brittney Griner** 🔴 +7 | 6,094 |
 | 18 | Lauren Jackson | 6,005 |
 | 18 | Seimone Augustus | 6,005 |
 | 20 | Becky Hammon | 5,816 |
@@ -131,9 +131,9 @@ _Last updated: 2026-08-13 23:10 UTC_
 | 110 | Riquna Williams | 2,659 |
 | 111 | Essence Carson | 2,647 |
 | 111 | Lindsey Harding | 2,647 |
-| 113 | Cheyenne Parker-Tyus | 2,645 |
-| 114 | **Rhyne Howard** 🔴 +4 | 2,641 |
-| 114 | Tamera Young | 2,641 |
+| 111 | **Rhyne Howard** 🔴 +10 | 2,647 |
+| 114 | Cheyenne Parker-Tyus | 2,645 |
+| 115 | Tamera Young | 2,641 |
 | 116 | Liz Cambage | 2,634 |
 | 117 | Janeth Arcain | 2,633 |
 | 118 | Temeka Johnson | 2,620 |
@@ -151,8 +151,8 @@ _Last updated: 2026-08-13 23:10 UTC_
 | 130 | Kayla Thornton | 2,393 |
 | 131 | DeMya Walker | 2,379 |
 | 132 | Alex Bentley | 2,350 |
-| 133 | Azurá Stevens | 2,343 |
-| 134 | **Jordin Canada** 🔴 | 2,342 |
+| 133 | **Jordin Canada** 🔴 +2 | 2,344 |
+| 134 | Azurá Stevens | 2,343 |
 | 135 | Merlakia Jones | 2,308 |
 | 136 | Betnijah Laney-Hamilton | 2,302 |
 | 137 | Satou Sabally | 2,296 |
@@ -455,7 +455,7 @@ _Last updated: 2026-08-13 23:10 UTC_
 | 23 | Teresa Weatherspoon | 1,333 |
 | 24 | Kristi Toliver | 1,301 |
 | 25 | Kelsey Plum | 1,270 |
-| 26 | **Jordin Canada** 🔴 | 1,262 |
+| 26 | **Jordin Canada** 🔴 +1 | 1,263 |
 | 27 | Katie Smith | 1,258 |
 | 28 | Odyssey Sims | 1,228 |
 | 29 | Vickie Johnson | 1,202 |
@@ -964,9 +964,9 @@ _Last updated: 2026-08-13 23:10 UTC_
 | 119 | Jonquel Jones | 260 |
 | 119 | Riquna Williams | 260 |
 | 121 | Noelle Quinn | 256 |
-| 122 | Elaine Powell | 255 |
-| 122 | Loree Moore | 255 |
-| 122 | **Rhyne Howard** 🔴 +1 | 255 |
+| 121 | **Rhyne Howard** 🔴 +2 | 256 |
+| 123 | Elaine Powell | 255 |
+| 123 | Loree Moore | 255 |
 | 125 | Ruthie Bolton | 254 |
 | 126 | Hamchetou Maiga-Ba | 251 |
 | 126 | Tamika Whitmore | 251 |
@@ -1083,7 +1083,7 @@ _Last updated: 2026-08-13 23:10 UTC_
 | 33 | Lauren Jackson | 436 |
 | 34 | Shameka Christon | 434 |
 | 35 | Crystal Robinson | 425 |
-| 36 | **Rhyne Howard** 🔴 | 420 |
+| 36 | **Rhyne Howard** 🔴 +2 | 422 |
 | 37 | Mwadi Mabika | 415 |
 | 38 | Penny Taylor | 407 |
 | 38 | Riquna Williams | 407 |
