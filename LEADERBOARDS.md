@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-13 03:48 UTC_
+_Last updated: 2026-08-13 03:49 UTC_
 
 ## Contents
 
@@ -198,7 +198,7 @@ _Last updated: 2026-08-13 03:48 UTC_
 | 177 | Ebony Hoffman | 1,909 |
 | 178 | Candice Wiggins | 1,901 |
 | 179 | NaLyssa Smith | 1,879 |
-| 180 | **Rachel Banham** 🔴 +8 | 1,851 |
+| 180 | **Rachel Banham** 🔴 +11 | 1,854 |
 | 181 | Damiris Dantas | 1,842 |
 | 182 | Sophie Cunningham | 1,829 |
 | 183 | Tianna Hawkins | 1,825 |
@@ -256,7 +256,7 @@ _Last updated: 2026-08-13 03:48 UTC_
 | 30 | Chamique Holdsclaw | 2,123 |
 | 31 | Chasity Melvin | 2,097 |
 | 32 | Tammy Sutton-Brown | 2,010 |
-| 33 | **Elizabeth Williams** 🔴 +1 | 1,979 |
+| 33 | **Elizabeth Williams** 🔴 +2 | 1,980 |
 | 34 | Cheryl Ford | 1,907 |
 | 35 | **Courtney Williams** 🔴 +1 | 1,844 |
 | 36 | Kiah Stokes | 1,835 |
@@ -564,7 +564,7 @@ _Last updated: 2026-08-13 03:48 UTC_
 | 132 | Crystal Robinson | 488 |
 | 132 | Tiffany Mitchell | 488 |
 | 134 | Rebekkah Brunson | 486 |
-| 135 | **Elizabeth Williams** 🔴 +2 | 481 |
+| 135 | **Elizabeth Williams** 🔴 +3 | 482 |
 | 136 | Satou Sabally | 476 |
 | 137 | Ukari Figgs | 470 |
 | 138 | Janeth Arcain | 469 |
@@ -727,9 +727,9 @@ _Last updated: 2026-08-13 03:48 UTC_
 | 87 | Seimone Augustus | 133 |
 | 91 | Katie Mattera | 131 |
 | 91 | Nakia Sanford | 131 |
-| 93 | Brooke Wyckoff | 129 |
-| 93 | Cathrine Kraayeveld | 129 |
-| 93 | **Emily Engstler** 🔴 +1 | 129 |
+| 93 | **Emily Engstler** 🔴 +2 | 130 |
+| 94 | Brooke Wyckoff | 129 |
+| 94 | Cathrine Kraayeveld | 129 |
 | 96 | Alyssa Thomas | 127 |
 | 96 | Chelsea Gray | 127 |
 | 96 | Chiney Ogwumike | 127 |
@@ -1089,7 +1089,7 @@ _Last updated: 2026-08-13 03:48 UTC_
 | 38 | Riquna Williams | 407 |
 | 40 | Jia Perkins | 396 |
 | 41 | Alysha Clark | 395 |
-| 42 | **Rachel Banham** 🔴 +2 | 392 |
+| 42 | **Rachel Banham** 🔴 +3 | 393 |
 | 43 | Jonquel Jones | 389 |
 | 43 | Roneeka Hodges | 389 |
 | 45 | **Courtney Vandersloot** 🔴 | 386 |
