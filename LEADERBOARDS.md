@@ -87,7 +87,7 @@ _Last updated: 2026-08-13 03:06 UTC_
 | 66 | Kara Lawson | 3,670 |
 | 67 | Odyssey Sims | 3,583 |
 | 68 | Mwadi Mabika | 3,576 |
-| 69 | **Napheesa Collier** 🔴 +14 | 3,556 |
+| 69 | **Napheesa Collier** 🔴 +17 | 3,559 |
 | 70 | Camille Smith | 3,551 |
 | 71 | Shannon Johnson | 3,542 |
 | 72 | Renee Montgomery | 3,533 |
