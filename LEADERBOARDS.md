@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-13 01:23 UTC_
+_Last updated: 2026-08-13 01:24 UTC_
 
 ## Contents
 
@@ -378,7 +378,7 @@ _Last updated: 2026-08-13 01:23 UTC_
 | 152 | Natalie Achonwa | 895 |
 | 153 | Temeka Johnson | 889 |
 | 154 | Mistie Bass | 888 |
-| 155 | **Alanna Smith** 🔴 +8 | 886 |
+| 155 | **Alanna Smith** 🔴 +9 | 887 |
 | 156 | Erica Wheeler | 882 |
 | 157 | **Marina Mabrey** 🔴 +2 | 876 |
 | 158 | Shameka Christon | 867 |
@@ -679,7 +679,7 @@ _Last updated: 2026-08-13 01:23 UTC_
 | 42 | Brianna Turner | 234 |
 | 43 | Skylar Diggins | 231 |
 | 44 | Chasity Melvin | 228 |
-| 45 | **Alanna Smith** 🔴 +1 | 226 |
+| 45 | **Alanna Smith** 🔴 +2 | 227 |
 | 46 | Teaira McCowan | 225 |
 | 47 | Sancho Lyttle | 221 |
 | 48 | Alana Beard | 220 |
@@ -1349,9 +1349,9 @@ _Last updated: 2026-08-13 01:23 UTC_
 | 94 | Ivory Latta | 534 |
 | 94 | Iziane Castro Marques | 534 |
 | 96 | Sabrina Ionescu | 533 |
+| 97 | **Arike Ogunbowale** 🔴 +3 | 532 |
 | 97 | Mwadi Mabika | 532 |
-| 98 | **Arike Ogunbowale** 🔴 +2 | 531 |
-| 98 | Nakia Sanford | 531 |
+| 99 | Nakia Sanford | 531 |
 | 100 | Jordin Canada | 527 |
 | 100 | Maya Moore | 527 |
 | 102 | Kara Lawson | 526 |
@@ -1579,7 +1579,7 @@ _Last updated: 2026-08-13 01:23 UTC_
 | 119 | **Odyssey Sims** 🔴 +3 | 613 |
 | 119 | Svetlana Abrosimova | 613 |
 | 121 | Layshia Clarendon | 609 |
-| 122 | **Arike Ogunbowale** 🔴 +2 | 606 |
+| 122 | **Arike Ogunbowale** 🔴 +3 | 607 |
 | 123 | Tiffany Mitchell | 604 |
 | 124 | Janel McCarville | 597 |
 | 125 | Kamila Vodichkova | 596 |
