@@ -57,7 +57,7 @@ _Last updated: 2026-08-13 02:06 UTC_
 | 36 | **Arike Ogunbowale** 🔴 +16 | 4,731 |
 | 37 | Chamique Holdsclaw | 4,713 |
 | 38 | Elena Delle Donne | 4,706 |
-| 39 | **Natasha Howard** 🔴 +2 | 4,684 |
+| 39 | **Natasha Howard** 🔴 +4 | 4,686 |
 | 40 | Chelsea Gray | 4,625 |
 | 41 | Penny Taylor | 4,595 |
 | 42 | Kelsey Plum | 4,494 |
@@ -88,8 +88,8 @@ _Last updated: 2026-08-13 02:06 UTC_
 | 67 | **Odyssey Sims** 🔴 +9 | 3,583 |
 | 68 | Mwadi Mabika | 3,576 |
 | 69 | Camille Smith | 3,551 |
-| 70 | **Napheesa Collier** 🔴 | 3,542 |
-| 70 | Shannon Johnson | 3,542 |
+| 70 | **Napheesa Collier** 🔴 +2 | 3,544 |
+| 71 | Shannon Johnson | 3,542 |
 | 72 | Renee Montgomery | 3,533 |
 | 73 | Jasmine Thomas | 3,522 |
 | 74 | Tamecka Dixon | 3,507 |
@@ -249,7 +249,7 @@ _Last updated: 2026-08-13 02:06 UTC_
 | 23 | Lauren Jackson | 2,444 |
 | 24 | Yolanda Griffith | 2,440 |
 | 25 | Tangela Smith | 2,328 |
-| 26 | **Natasha Howard** 🔴 +2 | 2,317 |
+| 26 | **Natasha Howard** 🔴 +3 | 2,318 |
 | 27 | Erika de Souza | 2,220 |
 | 28 | Diana Taurasi | 2,201 |
 | 29 | Margo Dydek | 2,138 |
@@ -444,7 +444,7 @@ _Last updated: 2026-08-13 02:06 UTC_
 | 12 | Cappie Pondexter | 1,575 |
 | 13 | Tamika Catchings | 1,484 |
 | 14 | Danielle Robinson | 1,480 |
-| 15 | **Courtney Williams** 🔴 | 1,438 |
+| 15 | **Courtney Williams** 🔴 +1 | 1,439 |
 | 16 | Shannon Johnson | 1,423 |
 | 16 | Tanisha Wright | 1,423 |
 | 18 | Temeka Johnson | 1,382 |
