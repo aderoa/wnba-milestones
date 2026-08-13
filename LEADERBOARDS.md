@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-13 00:28 UTC_
+_Last updated: 2026-08-13 00:29 UTC_
 
 ## Contents
 
@@ -1435,7 +1435,7 @@ _Last updated: 2026-08-13 00:28 UTC_
 | 179 | Rita Williams | 326 |
 | 181 | Le'coe Willingham | 325 |
 | 182 | Olympia Scott | 324 |
-| 183 | **Kia Nurse** 🔴 | 320 |
+| 183 | **Kia Nurse** 🔴 +1 | 321 |
 | 184 | Barbara Farris | 315 |
 | 185 | Monique Billings | 314 |
 | 185 | Moriah Jefferson | 314 |
@@ -1642,8 +1642,8 @@ _Last updated: 2026-08-13 00:28 UTC_
 | 181 | Riquna Williams | 493 |
 | 183 | Charde Houston | 487 |
 | 184 | Lindsey Harding | 486 |
-| 185 | Cathrine Kraayeveld | 484 |
-| 185 | **Kia Nurse** 🔴 | 484 |
+| 185 | **Kia Nurse** 🔴 +1 | 485 |
+| 186 | Cathrine Kraayeveld | 484 |
 | 187 | Liz Cambage | 483 |
 | 187 | Rhonda Mapp | 483 |
 | 189 | Sami Whitcomb | 480 |
