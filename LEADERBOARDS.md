@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-13 02:09 UTC_
+_Last updated: 2026-08-13 02:10 UTC_
 
 ## Contents
 
@@ -88,7 +88,7 @@ _Last updated: 2026-08-13 02:09 UTC_
 | 67 | **Odyssey Sims** 🔴 +9 | 3,583 |
 | 68 | Mwadi Mabika | 3,576 |
 | 69 | Camille Smith | 3,551 |
-| 70 | **Napheesa Collier** 🔴 +4 | 3,546 |
+| 70 | **Napheesa Collier** 🔴 +5 | 3,547 |
 | 71 | Shannon Johnson | 3,542 |
 | 72 | Renee Montgomery | 3,533 |
 | 73 | Jasmine Thomas | 3,522 |
@@ -341,7 +341,7 @@ _Last updated: 2026-08-13 02:09 UTC_
 | 115 | Deanna Nolan | 1,112 |
 | 116 | Chiney Ogwumike | 1,110 |
 | 117 | Becky Hammon | 1,108 |
-| 118 | **Isabelle Harrison** 🔴 +9 | 1,106 |
+| 118 | **Isabelle Harrison** 🔴 +10 | 1,107 |
 | 119 | Ann Wauters | 1,105 |
 | 120 | Jackie Young | 1,085 |
 | 121 | Svetlana Abrosimova | 1,078 |
@@ -374,11 +374,11 @@ _Last updated: 2026-08-13 02:09 UTC_
 | 148 | Nicky Anosike | 922 |
 | 149 | Janeth Arcain | 916 |
 | 150 | Karima Christmas-Kelly | 908 |
-| 151 | Nia Coffey | 903 |
+| 151 | **Nia Coffey** 🔴 | 903 |
 | 152 | Natalie Achonwa | 895 |
+| 153 | **Alanna Smith** 🔴 +11 | 889 |
 | 153 | Temeka Johnson | 889 |
-| 154 | **Alanna Smith** 🔴 +10 | 888 |
-| 154 | Mistie Bass | 888 |
+| 155 | Mistie Bass | 888 |
 | 156 | Erica Wheeler | 882 |
 | 157 | **Marina Mabrey** 🔴 +2 | 876 |
 | 158 | Shameka Christon | 867 |
@@ -697,7 +697,7 @@ _Last updated: 2026-08-13 02:09 UTC_
 | 60 | Kelly Schumacher | 183 |
 | 61 | Maria Stepanova | 182 |
 | 62 | Courtney Paris | 178 |
-| 63 | Nia Coffey | 177 |
+| 63 | **Nia Coffey** 🔴 | 177 |
 | 63 | Vanessa Hayden | 177 |
 | 65 | Maya Moore | 176 |
 | 66 | Kia Vaughn | 175 |
@@ -759,10 +759,10 @@ _Last updated: 2026-08-13 02:09 UTC_
 | 122 | Dearica Hamby | 106 |
 | 122 | Sylvia Crawley | 106 |
 | 124 | Carolyn Swords | 104 |
+| 124 | **Isabelle Harrison** 🔴 +2 | 104 |
 | 124 | Rebecca Lobo | 104 |
-| 126 | **Isabelle Harrison** 🔴 +1 | 103 |
-| 126 | Jennifer Gillom | 103 |
-| 126 | Jia Perkins | 103 |
+| 127 | Jennifer Gillom | 103 |
+| 127 | Jia Perkins | 103 |
 | 129 | Theresa Plaisance | 102 |
 | 130 | Deanna Nolan | 101 |
 | 131 | Chante Black | 100 |
@@ -1160,7 +1160,7 @@ _Last updated: 2026-08-13 02:09 UTC_
 | 110 | Shanna Zolman | 199 |
 | 111 | Temeka Johnson | 197 |
 | 111 | Tina Charles | 197 |
-| 113 | Nia Coffey | 196 |
+| 113 | **Nia Coffey** 🔴 | 196 |
 | 114 | Caitlin Clark | 195 |
 | 115 | Lindsay Whalen | 193 |
 | 116 | Victoria Vivians | 192 |
@@ -1452,7 +1452,7 @@ _Last updated: 2026-08-13 02:09 UTC_
 | 197 | Kayla Thornton | 298 |
 | 198 | Michele Timms | 297 |
 | 199 | Damiris Dantas | 289 |
-| 199 | Nia Coffey | 289 |
+| 199 | **Nia Coffey** 🔴 | 289 |
 
 ## Personal fouls
 
@@ -1636,7 +1636,7 @@ _Last updated: 2026-08-13 02:09 UTC_
 | 175 | Essence Carson | 497 |
 | 175 | Rachel Banham | 497 |
 | 178 | Azurá Stevens | 495 |
-| 178 | Nia Coffey | 495 |
+| 178 | **Nia Coffey** 🔴 | 495 |
 | 180 | Karima Christmas-Kelly | 494 |
 | 181 | Ann Wauters | 493 |
 | 181 | Riquna Williams | 493 |
