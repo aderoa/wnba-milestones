@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-08-13 00:18 UTC
+
+- **Alanna Smith** passed **Shenise Johnson** for **#180** all-time in assists (career 377) — up from #181 entering today — _4:02 - 1st — TOR @ DAL_
+
 ## 2026-08-12 03:48 UTC
 
 - **Betnijah Laney-Hamilton** passed **Andrea Stinson** for **#107** all-time in three-pointers (career 208) — up from #108 entering today — _3:42 - 4th — WSH @ LV_

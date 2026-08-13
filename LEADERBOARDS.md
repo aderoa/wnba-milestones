@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-13 00:17 UTC_
+_Last updated: 2026-08-13 00:18 UTC_
 
 ## Contents
 
@@ -104,7 +104,7 @@ _Last updated: 2026-08-13 00:17 UTC_
 | 83 | Sheri Sam | 3,353 |
 | 84 | Andrea Stinson | 3,351 |
 | 85 | Tanisha Wright | 3,324 |
-| 86 | **Marina Mabrey** 🔴 +4 | 3,253 |
+| 86 | **Marina Mabrey** 🔴 +8 | 3,257 |
 | 87 | Stefanie Dolson | 3,217 |
 | 88 | Margo Dydek | 3,214 |
 | 89 | Erica Wheeler | 3,195 |
@@ -608,9 +608,9 @@ _Last updated: 2026-08-13 00:17 UTC_
 | 176 | Riquna Williams | 387 |
 | 177 | Bridget Carleton | 384 |
 | 178 | Dana Evans | 379 |
+| 179 | **Alanna Smith** 🔴 +3 | 377 |
 | 179 | Jessica Breland | 377 |
-| 180 | **Alanna Smith** 🔴 +2 | 376 |
-| 180 | Shenise Johnson | 376 |
+| 181 | Shenise Johnson | 376 |
 | 182 | Suzie McConnell Serio | 370 |
 | 183 | Damiris Dantas | 368 |
 | 183 | Kayla Thornton | 368 |
