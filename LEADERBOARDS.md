@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-13 02:40 UTC_
+_Last updated: 2026-08-13 02:41 UTC_
 
 ## Contents
 
@@ -67,8 +67,8 @@ _Last updated: 2026-08-13 02:40 UTC_
 | 46 | Crystal Langhorne | 4,433 |
 | 46 | Jia Perkins | 4,433 |
 | 48 | **Courtney Vandersloot** 🔴 +6 | 4,368 |
-| 49 | **Courtney Williams** 🔴 +3 | 4,353 |
-| 49 | Jonquel Jones | 4,353 |
+| 49 | **Courtney Williams** 🔴 +5 | 4,355 |
+| 50 | Jonquel Jones | 4,353 |
 | 51 | Dearica Hamby | 4,330 |
 | 52 | Sophia Young-Malcolm | 4,300 |
 | 53 | Plenette Pierson | 4,258 |
@@ -87,7 +87,7 @@ _Last updated: 2026-08-13 02:40 UTC_
 | 66 | Kara Lawson | 3,670 |
 | 67 | Odyssey Sims | 3,583 |
 | 68 | Mwadi Mabika | 3,576 |
-| 69 | **Napheesa Collier** 🔴 +12 | 3,554 |
+| 69 | **Napheesa Collier** 🔴 +14 | 3,556 |
 | 70 | Camille Smith | 3,551 |
 | 71 | Shannon Johnson | 3,542 |
 | 72 | Renee Montgomery | 3,533 |
@@ -285,7 +285,7 @@ _Last updated: 2026-08-13 02:40 UTC_
 | 59 | Angel McCoughtry | 1,561 |
 | 60 | Penny Taylor | 1,552 |
 | 61 | Cappie Pondexter | 1,513 |
-| 62 | **Napheesa Collier** 🔴 +2 | 1,512 |
+| 61 | **Napheesa Collier** 🔴 +3 | 1,513 |
 | 63 | Ticha Penicheiro | 1,485 |
 | 64 | Alysha Clark | 1,469 |
 | 65 | Sue Bird | 1,466 |
@@ -529,11 +529,11 @@ _Last updated: 2026-08-13 02:40 UTC_
 | 97 | Jennifer Azzi | 636 |
 | 98 | Sami Whitcomb | 623 |
 | 99 | Alysha Clark | 619 |
-| 100 | **Natasha Howard** 🔴 +3 | 618 |
+| 99 | **Natasha Howard** 🔴 +4 | 619 |
 | 101 | Debbie Black | 612 |
 | 102 | Cynthia Cooper | 602 |
-| 103 | **Gabby Williams** 🔴 +1 | 592 |
-| 103 | Sancho Lyttle | 592 |
+| 103 | **Gabby Williams** 🔴 +2 | 593 |
+| 104 | Sancho Lyttle | 592 |
 | 105 | Caitlin Clark | 591 |
 | 106 | Betnijah Laney-Hamilton | 590 |
 | 106 | Camille Smith | 590 |
@@ -673,7 +673,7 @@ _Last updated: 2026-08-13 02:40 UTC_
 | 36 | Cheyenne Parker-Tyus | 261 |
 | 37 | Swin Cash | 258 |
 | 38 | Plenette Pierson | 242 |
-| 39 | **Napheesa Collier** 🔴 +1 | 240 |
+| 39 | **Napheesa Collier** 🔴 +2 | 241 |
 | 40 | Emma Meesseman | 238 |
 | 41 | **Azurá Stevens** 🔴 | 236 |
 | 42 | Brianna Turner | 234 |
@@ -1469,8 +1469,8 @@ _Last updated: 2026-08-13 02:40 UTC_
 | 9 | Tammy Sutton-Brown | 1,193 |
 | 10 | Plenette Pierson | 1,175 |
 | 11 | Chasity Melvin | 1,165 |
-| 12 | Camille Smith | 1,159 |
-| 12 | **Natasha Howard** 🔴 +1 | 1,159 |
+| 12 | **Natasha Howard** 🔴 +2 | 1,160 |
+| 13 | Camille Smith | 1,159 |
 | 14 | Nneka Ogwumike | 1,156 |
 | 15 | Alana Beard | 1,153 |
 | 16 | Swin Cash | 1,146 |
