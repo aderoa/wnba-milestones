@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-13 01:14 UTC_
+_Last updated: 2026-08-13 01:16 UTC_
 
 ## Contents
 
@@ -378,7 +378,7 @@ _Last updated: 2026-08-13 01:14 UTC_
 | 152 | Natalie Achonwa | 895 |
 | 153 | Temeka Johnson | 889 |
 | 154 | Mistie Bass | 888 |
-| 155 | **Alanna Smith** 🔴 +6 | 884 |
+| 155 | **Alanna Smith** 🔴 +7 | 885 |
 | 156 | Erica Wheeler | 882 |
 | 157 | **Marina Mabrey** 🔴 +2 | 876 |
 | 158 | Shameka Christon | 867 |
@@ -478,8 +478,8 @@ _Last updated: 2026-08-13 01:14 UTC_
 | 46 | Breanna Stewart | 981 |
 | 47 | Tamecka Dixon | 960 |
 | 48 | Tiffany Hayes | 957 |
-| 49 | **Arike Ogunbowale** 🔴 +2 | 946 |
-| 49 | Kara Lawson | 946 |
+| 49 | **Arike Ogunbowale** 🔴 +3 | 947 |
+| 50 | Kara Lawson | 946 |
 | 51 | Nneka Ogwumike | 933 |
 | 52 | Deanna Nolan | 930 |
 | 53 | Kelly Miller | 927 |
@@ -1579,7 +1579,7 @@ _Last updated: 2026-08-13 01:14 UTC_
 | 119 | **Odyssey Sims** 🔴 +3 | 613 |
 | 119 | Svetlana Abrosimova | 613 |
 | 121 | Layshia Clarendon | 609 |
-| 122 | **Arike Ogunbowale** 🔴 +1 | 605 |
+| 122 | **Arike Ogunbowale** 🔴 +2 | 606 |
 | 123 | Tiffany Mitchell | 604 |
 | 124 | Janel McCarville | 597 |
 | 125 | Kamila Vodichkova | 596 |
