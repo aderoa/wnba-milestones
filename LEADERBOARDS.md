@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-13 02:17 UTC_
+_Last updated: 2026-08-13 02:18 UTC_
 
 ## Contents
 
@@ -66,7 +66,7 @@ _Last updated: 2026-08-13 02:17 UTC_
 | 45 | Kahleah Copper | 4,437 |
 | 46 | Crystal Langhorne | 4,433 |
 | 46 | Jia Perkins | 4,433 |
-| 48 | **Courtney Vandersloot** 🔴 | 4,362 |
+| 48 | **Courtney Vandersloot** 🔴 +2 | 4,364 |
 | 49 | Jonquel Jones | 4,353 |
 | 50 | **Courtney Williams** 🔴 | 4,350 |
 | 51 | Dearica Hamby | 4,330 |
@@ -87,7 +87,7 @@ _Last updated: 2026-08-13 02:17 UTC_
 | 66 | Kara Lawson | 3,670 |
 | 67 | **Odyssey Sims** 🔴 +9 | 3,583 |
 | 68 | Mwadi Mabika | 3,576 |
-| 69 | **Napheesa Collier** 🔴 +10 | 3,552 |
+| 69 | **Napheesa Collier** 🔴 +12 | 3,554 |
 | 70 | Camille Smith | 3,551 |
 | 71 | Shannon Johnson | 3,542 |
 | 72 | Renee Montgomery | 3,533 |
@@ -115,7 +115,7 @@ _Last updated: 2026-08-13 02:17 UTC_
 | 94 | Briann January | 3,082 |
 | 95 | Erika de Souza | 3,046 |
 | 96 | Shameka Christon | 3,039 |
-| 97 | **Natasha Cloud** 🔴 | 3,018 |
+| 97 | **Natasha Cloud** 🔴 +2 | 3,020 |
 | 98 | Marie Ferdinand-Harris | 3,001 |
 | 99 | Emma Meesseman | 2,966 |
 | 100 | Elizabeth Williams | 2,933 |
@@ -333,7 +333,7 @@ _Last updated: 2026-08-13 02:17 UTC_
 | 107 | Brittney Sykes | 1,162 |
 | 108 | Nykesha Sales | 1,148 |
 | 109 | Shannon Johnson | 1,143 |
-| 110 | **Natasha Cloud** 🔴 | 1,141 |
+| 110 | **Natasha Cloud** 🔴 +1 | 1,142 |
 | 111 | Adrian Williams-Strong | 1,131 |
 | 112 | Andrea Stinson | 1,127 |
 | 112 | Tamika Raymond | 1,127 |
@@ -438,7 +438,7 @@ _Last updated: 2026-08-13 02:17 UTC_
 | 6 | Chelsea Gray | 2,003 |
 | 7 | Alyssa Thomas | 1,971 |
 | 8 | Skylar Diggins | 1,852 |
-| 9 | **Natasha Cloud** 🔴 | 1,802 |
+| 9 | **Natasha Cloud** 🔴 +1 | 1,803 |
 | 10 | Becky Hammon | 1,705 |
 | 11 | Candace Parker | 1,634 |
 | 12 | Cappie Pondexter | 1,575 |
@@ -541,7 +541,7 @@ _Last updated: 2026-08-13 02:17 UTC_
 | 109 | **Veronica Burton** 🔴 | 579 |
 | 110 | Tan White | 578 |
 | 111 | Matee Ajavon | 577 |
-| 112 | **Napheesa Collier** 🔴 | 570 |
+| 112 | **Napheesa Collier** 🔴 +1 | 571 |
 | 113 | Nicole Powell | 567 |
 | 114 | Loree Moore | 562 |
 | 115 | Sophia Young-Malcolm | 554 |
@@ -1346,10 +1346,10 @@ _Last updated: 2026-08-13 02:17 UTC_
 | 91 | Adrienne Goodson | 542 |
 | 92 | **Marina Mabrey** 🔴 +2 | 539 |
 | 93 | Layshia Clarendon | 536 |
+| 94 | **Arike Ogunbowale** 🔴 +5 | 534 |
 | 94 | Ivory Latta | 534 |
 | 94 | Iziane Castro Marques | 534 |
-| 96 | **Arike Ogunbowale** 🔴 +4 | 533 |
-| 96 | Sabrina Ionescu | 533 |
+| 97 | Sabrina Ionescu | 533 |
 | 98 | Mwadi Mabika | 532 |
 | 99 | Nakia Sanford | 531 |
 | 100 | Jordin Canada | 527 |
@@ -1441,8 +1441,8 @@ _Last updated: 2026-08-13 02:17 UTC_
 | 185 | Moriah Jefferson | 314 |
 | 187 | Alex Bentley | 313 |
 | 188 | Natisha Hiedeman | 312 |
+| 189 | **Isabelle Harrison** 🔴 +4 | 311 |
 | 189 | Tamika Raymond | 311 |
-| 190 | **Isabelle Harrison** 🔴 +3 | 310 |
 | 191 | Erin Perperoglou | 305 |
 | 191 | Jennifer Lacy | 305 |
 | 193 | **Azurá Stevens** 🔴 | 304 |

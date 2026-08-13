@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-08-13T02:18:00+00:00",
+    "text": "Arike Ogunbowale passed Sabrina Ionescu for #96 all-time in turnovers (career 534) \u2014 up from #99 entering today \u2014 (5.9 - 4th \u2014 TOR @ DAL)",
+    "kind": "rank_pass",
+    "player": "Arike Ogunbowale",
+    "stat": "turnovers",
+    "rank": 96,
+    "passed_players": [
+      "Sabrina Ionescu"
+    ],
+    "new_total": 534
+  },
+  {
     "ts": "2026-08-13T01:18:00+00:00",
     "text": "Alanna Smith passed Jessica Breland for #179 all-time in assists (career 378) \u2014 up from #181 entering today \u2014 (5:39 - 3rd \u2014 TOR @ DAL)",
     "kind": "rank_pass",
@@ -2981,17 +2993,5 @@
       "Shameka Christon"
     ],
     "new_total": 206
-  },
-  {
-    "ts": "2026-07-05T01:19:00+00:00",
-    "text": "Ezi Magbegor passed Brianna Turner for #96 all-time in rebounds (career 1,244) \u2014 up from #97 entering today \u2014 (2:02 - 1st \u2014 POR @ SEA)",
-    "kind": "rank_pass",
-    "player": "Ezi Magbegor",
-    "stat": "rebounds",
-    "rank": 96,
-    "passed_players": [
-      "Brianna Turner"
-    ],
-    "new_total": 1244
   }
 ]
