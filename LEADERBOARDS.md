@@ -398,8 +398,8 @@ _Last updated: 2026-08-13 01:16 UTC_
 | 172 | Tierra Ruffin-Pratt | 799 |
 | 173 | Ariel Atkins | 798 |
 | 174 | Charlotte Smith | 794 |
+| 175 | **Odyssey Sims** 🔴 +3 | 788 |
 | 175 | Rhonda Mapp | 788 |
-| 176 | **Odyssey Sims** 🔴 +2 | 787 |
 | 177 | Mercedes Russell | 786 |
 | 178 | Sue Wicks | 780 |
 | 179 | Lindsey Harding | 779 |
@@ -789,9 +789,9 @@ _Last updated: 2026-08-13 01:16 UTC_
 | 151 | Erlana Larkins | 85 |
 | 151 | Kalani Brown | 85 |
 | 151 | Kristin Folkl | 85 |
-| 155 | Charde Houston | 84 |
-| 155 | **Marina Mabrey** 🔴 | 84 |
-| 155 | Shatori Walker-Kimbrough | 84 |
+| 151 | **Marina Mabrey** 🔴 +1 | 85 |
+| 156 | Charde Houston | 84 |
+| 156 | Shatori Walker-Kimbrough | 84 |
 | 158 | Tamera Young | 83 |
 | 159 | Cameron Brink | 82 |
 | 159 | Damiris Dantas | 82 |
