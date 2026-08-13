@@ -47,7 +47,7 @@ _Last updated: 2026-08-13 03:41 UTC_
 | 26 | Lindsay Whalen | 5,511 |
 | 27 | Kelsey Mitchell | 5,198 |
 | 28 | Swin Cash | 5,119 |
-| 29 | **Tiffany Hayes** 🔴 +17 | 5,066 |
+| 29 | **Tiffany Hayes** 🔴 +19 | 5,068 |
 | 30 | Tangela Smith | 5,035 |
 | 31 | Taj McWilliams-Franklin | 4,992 |
 | 32 | Maya Moore | 4,984 |
