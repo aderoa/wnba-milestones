@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-08-13T01:18:00+00:00",
+    "text": "Alanna Smith passed Jessica Breland for #179 all-time in assists (career 378) \u2014 up from #181 entering today \u2014 (5:39 - 3rd \u2014 TOR @ DAL)",
+    "kind": "rank_pass",
+    "player": "Alanna Smith",
+    "stat": "assists",
+    "rank": 179,
+    "passed_players": [
+      "Jessica Breland"
+    ],
+    "new_total": 378
+  },
+  {
     "ts": "2026-08-13T00:18:00+00:00",
     "text": "Alanna Smith passed Shenise Johnson for #180 all-time in assists (career 377) \u2014 up from #181 entering today \u2014 (4:02 - 1st \u2014 TOR @ DAL)",
     "kind": "rank_pass",
@@ -2981,17 +2993,5 @@
       "Brianna Turner"
     ],
     "new_total": 1244
-  },
-  {
-    "ts": "2026-07-04T19:26:00+00:00",
-    "text": "Veronica Burton passed Shannon Johnson for #196 all-time in blocks (career 68) \u2014 up from #197 entering today \u2014 (Final \u2014 GS @ ATL)",
-    "kind": "rank_pass",
-    "player": "Veronica Burton",
-    "stat": "blocks",
-    "rank": 196,
-    "passed_players": [
-      "Shannon Johnson"
-    ],
-    "new_total": 68
   }
 ]

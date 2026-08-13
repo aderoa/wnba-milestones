@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-13 01:17 UTC_
+_Last updated: 2026-08-13 01:18 UTC_
 
 ## Contents
 
@@ -608,8 +608,8 @@ _Last updated: 2026-08-13 01:17 UTC_
 | 176 | Riquna Williams | 387 |
 | 177 | Bridget Carleton | 384 |
 | 178 | Dana Evans | 379 |
-| 179 | **Alanna Smith** 🔴 +3 | 377 |
-| 179 | Jessica Breland | 377 |
+| 179 | **Alanna Smith** 🔴 +4 | 378 |
+| 180 | Jessica Breland | 377 |
 | 181 | Shenise Johnson | 376 |
 | 182 | Suzie McConnell Serio | 370 |
 | 183 | Damiris Dantas | 368 |
