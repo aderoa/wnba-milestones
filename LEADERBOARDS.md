@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-14 23:33 UTC_
+_Last updated: 2026-08-14 23:34 UTC_
 
 ## Contents
 
@@ -175,7 +175,7 @@ _Last updated: 2026-08-14 23:33 UTC_
 | 154 | Tari Phillips | 2,134 |
 | 155 | Cheryl Ford | 2,116 |
 | 156 | Elena Baranova | 2,110 |
-| 157 | **Aliyah Boston** 🔴 | 2,087 |
+| 157 | **Aliyah Boston** 🔴 +2 | 2,089 |
 | 158 | Aerial Powers | 2,068 |
 | 159 | Coco Miller | 2,030 |
 | 160 | Diamond DeShields | 2,026 |
@@ -400,7 +400,7 @@ _Last updated: 2026-08-14 23:33 UTC_
 | 174 | Charlotte Smith | 794 |
 | 175 | Rhonda Mapp | 788 |
 | 176 | Mercedes Russell | 786 |
-| 177 | **Odyssey Sims** 🔴 | 785 |
+| 176 | **Odyssey Sims** 🔴 +1 | 786 |
 | 178 | Sue Wicks | 780 |
 | 179 | Lindsey Harding | 779 |
 | 180 | Tiffani Johnson | 778 |
@@ -457,7 +457,7 @@ _Last updated: 2026-08-14 23:33 UTC_
 | 25 | Kelsey Plum | 1,270 |
 | 26 | Jordin Canada | 1,262 |
 | 27 | Katie Smith | 1,258 |
-| 28 | **Odyssey Sims** 🔴 | 1,228 |
+| 28 | **Odyssey Sims** 🔴 +1 | 1,229 |
 | 29 | Vickie Johnson | 1,202 |
 | 30 | Leilani Mitchell | 1,197 |
 | 31 | DeWanna Bonner | 1,196 |
