@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-14 02:25 UTC_
+_Last updated: 2026-08-14 02:26 UTC_
 
 ## Contents
 
@@ -83,7 +83,7 @@ _Last updated: 2026-08-14 02:25 UTC_
 | 62 | Allie Quigley | 3,786 |
 | 63 | Chasity Melvin | 3,781 |
 | 64 | Brittney Sykes | 3,726 |
-| 65 | **Jackie Young** 🔴 +10 | 3,708 |
+| 65 | **Jackie Young** 🔴 +12 | 3,710 |
 | 66 | Kara Lawson | 3,670 |
 | 67 | Mwadi Mabika | 3,576 |
 | 68 | Odyssey Sims | 3,574 |
@@ -197,7 +197,7 @@ _Last updated: 2026-08-14 02:25 UTC_
 | 176 | Ebony Hoffman | 1,909 |
 | 177 | Candice Wiggins | 1,901 |
 | 178 | Gabby Williams | 1,899 |
-| 179 | **NaLyssa Smith** 🔴 +2 | 1,881 |
+| 179 | **NaLyssa Smith** 🔴 +4 | 1,883 |
 | 180 | Rachel Banham | 1,843 |
 | 181 | Damiris Dantas | 1,842 |
 | 182 | Sophie Cunningham | 1,829 |
@@ -460,7 +460,7 @@ _Last updated: 2026-08-14 02:25 UTC_
 | 29 | Vickie Johnson | 1,202 |
 | 30 | Leilani Mitchell | 1,197 |
 | 31 | DeWanna Bonner | 1,196 |
-| 32 | **Jewell Loyd** 🔴 | 1,156 |
+| 32 | **Jewell Loyd** 🔴 +1 | 1,157 |
 | 33 | **Jackie Young** 🔴 | 1,150 |
 | 34 | Renee Montgomery | 1,140 |
 | 35 | Swin Cash | 1,131 |
