@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-14 02:45 UTC_
+_Last updated: 2026-08-14 02:46 UTC_
 
 ## Contents
 
@@ -1375,7 +1375,7 @@ _Last updated: 2026-08-14 02:45 UTC_
 | 120 | Elaine Powell | 469 |
 | 121 | Allie Quigley | 467 |
 | 121 | Ariel Atkins | 467 |
-| 123 | **Jackie Young** 🔴 | 463 |
+| 123 | **Jackie Young** 🔴 +1 | 464 |
 | 124 | **Betnijah Laney-Hamilton** 🔴 | 456 |
 | 125 | Kia Vaughn | 454 |
 | 126 | Janeth Arcain | 453 |
@@ -1648,8 +1648,8 @@ _Last updated: 2026-08-14 02:45 UTC_
 | 187 | Rhonda Mapp | 483 |
 | 189 | Sami Whitcomb | 480 |
 | 190 | Alanna Smith | 479 |
+| 191 | **NaLyssa Smith** 🔴 +3 | 477 |
 | 191 | Seimone Augustus | 477 |
-| 192 | **NaLyssa Smith** 🔴 +2 | 476 |
 | 193 | Allie Quigley | 475 |
 | 194 | Satou Sabally | 471 |
 | 195 | Christi Thomas | 463 |
