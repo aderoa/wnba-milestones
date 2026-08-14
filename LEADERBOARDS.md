@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-14 02:12 UTC_
+_Last updated: 2026-08-14 02:13 UTC_
 
 ## Contents
 
@@ -110,7 +110,7 @@ _Last updated: 2026-08-14 02:12 UTC_
 | 89 | **Erica Wheeler** 🔴 +6 | 3,201 |
 | 90 | Danielle Robinson | 3,160 |
 | 91 | Wendy Palmer | 3,135 |
-| 92 | **Sabrina Ionescu** 🔴 +17 | 3,114 |
+| 92 | **Sabrina Ionescu** 🔴 +19 | 3,116 |
 | 93 | Shavonte Zellous | 3,103 |
 | 94 | Briann January | 3,082 |
 | 95 | Erika de Souza | 3,046 |
@@ -395,7 +395,7 @@ _Last updated: 2026-08-14 02:12 UTC_
 | 168 | Barbara Farris | 819 |
 | 170 | Carolyn Swords | 814 |
 | 171 | **Betnijah Laney-Hamilton** 🔴 | 812 |
-| 172 | **Ariel Atkins** 🔴 +4 | 802 |
+| 172 | **Ariel Atkins** 🔴 +5 | 803 |
 | 173 | Tierra Ruffin-Pratt | 799 |
 | 174 | Charlotte Smith | 794 |
 | 175 | Rhonda Mapp | 788 |
@@ -879,9 +879,9 @@ _Last updated: 2026-08-14 02:12 UTC_
 | 35 | Tina Thompson | 452 |
 | 36 | Maya Moore | 449 |
 | 37 | Kayla McBride | 446 |
+| 38 | **Breanna Stewart** 🔴 +3 | 438 |
 | 38 | Sheri Sam | 438 |
-| 39 | **Breanna Stewart** 🔴 +2 | 437 |
-| 39 | Camille Smith | 437 |
+| 40 | Camille Smith | 437 |
 | 41 | Candice Dupree | 431 |
 | 42 | Epiphanny Prince | 429 |
 | 43 | Tanisha Wright | 427 |
@@ -1372,8 +1372,8 @@ _Last updated: 2026-08-14 02:12 UTC_
 | 118 | Allisha Gray | 478 |
 | 119 | Ebony Hoffman | 470 |
 | 120 | Elaine Powell | 469 |
-| 121 | Allie Quigley | 467 |
-| 121 | **Ariel Atkins** 🔴 +2 | 467 |
+| 121 | **Ariel Atkins** 🔴 +3 | 468 |
+| 122 | Allie Quigley | 467 |
 | 123 | **Jackie Young** 🔴 | 463 |
 | 124 | **Betnijah Laney-Hamilton** 🔴 | 456 |
 | 125 | Kia Vaughn | 454 |
