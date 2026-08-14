@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-14 01:11 UTC_
+_Last updated: 2026-08-14 01:12 UTC_
 
 ## Contents
 
@@ -110,8 +110,8 @@ _Last updated: 2026-08-14 01:11 UTC_
 | 89 | **Erica Wheeler** 🔴 +4 | 3,199 |
 | 90 | Danielle Robinson | 3,160 |
 | 91 | Wendy Palmer | 3,135 |
+| 92 | **Sabrina Ionescu** 🔴 +6 | 3,103 |
 | 92 | Shavonte Zellous | 3,103 |
-| 93 | **Sabrina Ionescu** 🔴 +4 | 3,101 |
 | 94 | Briann January | 3,082 |
 | 95 | Erika de Souza | 3,046 |
 | 96 | Shameka Christon | 3,039 |
@@ -1023,9 +1023,9 @@ _Last updated: 2026-08-14 01:11 UTC_
 | 179 | Isabelle Harrison | 190 |
 | 180 | Tamicha Jackson | 188 |
 | 181 | Michele Timms | 187 |
-| 182 | Charde Houston | 185 |
-| 182 | **Sabrina Ionescu** 🔴 +1 | 185 |
-| 182 | Tiffany Jackson | 185 |
+| 182 | **Sabrina Ionescu** 🔴 +2 | 186 |
+| 183 | Charde Houston | 185 |
+| 183 | Tiffany Jackson | 185 |
 | 185 | Erin Perperoglou | 184 |
 | 185 | **Rebecca Allen** 🔴 +1 | 184 |
 | 187 | Erin Phillips | 182 |
@@ -1297,7 +1297,7 @@ _Last updated: 2026-08-14 01:11 UTC_
 | 43 | Michelle Snow | 723 |
 | 44 | Tamecka Dixon | 716 |
 | 45 | Natasha Cloud | 707 |
-| 46 | **Erica Wheeler** 🔴 +3 | 702 |
+| 46 | **Erica Wheeler** 🔴 +4 | 703 |
 | 47 | Renee Montgomery | 697 |
 | 48 | Temeka Johnson | 696 |
 | 49 | Penny Taylor | 695 |
@@ -1532,8 +1532,8 @@ _Last updated: 2026-08-14 01:11 UTC_
 | 73 | Crystal Langhorne | 737 |
 | 74 | Shameka Christon | 734 |
 | 75 | Becky Hammon | 733 |
+| 76 | **Ariel Atkins** 🔴 +2 | 732 |
 | 76 | Elizabeth Williams | 732 |
-| 77 | **Ariel Atkins** 🔴 +1 | 731 |
 | 78 | Latasha Byears | 730 |
 | 79 | Kristi Toliver | 722 |
 | 80 | Cheryl Ford | 713 |
