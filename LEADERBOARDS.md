@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-14 23:57 UTC_
+_Last updated: 2026-08-14 23:58 UTC_
 
 ## Contents
 
@@ -402,9 +402,9 @@ _Last updated: 2026-08-14 23:57 UTC_
 | 176 | Mercedes Russell | 786 |
 | 176 | **Odyssey Sims** 🔴 +1 | 786 |
 | 178 | Sue Wicks | 780 |
+| 179 | **Arike Ogunbowale** 🔴 +4 | 779 |
 | 179 | Lindsey Harding | 779 |
-| 180 | **Arike Ogunbowale** 🔴 +3 | 778 |
-| 180 | Tiffani Johnson | 778 |
+| 181 | Tiffani Johnson | 778 |
 | 182 | Teresa Weatherspoon | 775 |
 | 183 | Anna DeForge | 769 |
 | 183 | Kelsey Bone | 769 |
@@ -1579,7 +1579,7 @@ _Last updated: 2026-08-14 23:57 UTC_
 | 119 | Svetlana Abrosimova | 613 |
 | 120 | **Odyssey Sims** 🔴 | 610 |
 | 121 | Layshia Clarendon | 609 |
-| 122 | **Arike Ogunbowale** 🔴 +1 | 605 |
+| 122 | **Arike Ogunbowale** 🔴 +2 | 606 |
 | 123 | Tiffany Mitchell | 604 |
 | 124 | Janel McCarville | 597 |
 | 125 | Kamila Vodichkova | 596 |
