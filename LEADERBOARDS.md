@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-14 00:21 UTC_
+_Last updated: 2026-08-14 00:22 UTC_
 
 ## Contents
 
@@ -60,7 +60,7 @@ _Last updated: 2026-08-14 00:21 UTC_
 | 39 | Natasha Howard | 4,682 |
 | 40 | Chelsea Gray | 4,625 |
 | 41 | Penny Taylor | 4,595 |
-| 42 | **Allisha Gray** 🔴 +17 | 4,508 |
+| 42 | **Allisha Gray** 🔴 +19 | 4,510 |
 | 43 | Kelsey Plum | 4,494 |
 | 44 | Kristi Toliver | 4,474 |
 | 45 | Kahleah Copper | 4,437 |
@@ -880,8 +880,8 @@ _Last updated: 2026-08-14 00:21 UTC_
 | 36 | Maya Moore | 449 |
 | 37 | Kayla McBride | 446 |
 | 38 | Sheri Sam | 438 |
+| 39 | **Breanna Stewart** 🔴 +2 | 437 |
 | 39 | Camille Smith | 437 |
-| 40 | **Breanna Stewart** 🔴 +1 | 436 |
 | 41 | Candice Dupree | 431 |
 | 42 | Epiphanny Prince | 429 |
 | 43 | Tanisha Wright | 427 |
@@ -1166,7 +1166,7 @@ _Last updated: 2026-08-14 00:21 UTC_
 | 117 | Danielle Adams | 188 |
 | 117 | Napheesa Collier | 188 |
 | 119 | Noelle Quinn | 184 |
-| 120 | Marine Johannès | 183 |
+| 120 | **Marine Johannès** 🔴 | 183 |
 | 121 | Karima Christmas-Kelly | 181 |
 | 122 | Aerial Powers | 179 |
 | 122 | Camille Smith | 179 |
