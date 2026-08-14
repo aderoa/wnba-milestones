@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-14 01:24 UTC_
+_Last updated: 2026-08-14 01:25 UTC_
 
 ## Contents
 
@@ -66,7 +66,7 @@ _Last updated: 2026-08-14 01:24 UTC_
 | 45 | Kahleah Copper | 4,437 |
 | 46 | Crystal Langhorne | 4,433 |
 | 46 | Jia Perkins | 4,433 |
-| 48 | **Jonquel Jones** 🔴 +10 | 4,363 |
+| 48 | **Jonquel Jones** 🔴 +11 | 4,364 |
 | 49 | Courtney Vandersloot | 4,362 |
 | 50 | Courtney Williams | 4,350 |
 | 51 | **Dearica Hamby** 🔴 +11 | 4,341 |
@@ -236,7 +236,7 @@ _Last updated: 2026-08-14 01:24 UTC_
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | Alyssa Thomas | 2,858 |
-| 13 | **Jonquel Jones** 🔴 +14 | 2,742 |
+| 13 | **Jonquel Jones** 🔴 +13 | 2,741 |
 | 14 | A'ja Wilson | 2,657 |
 | 15 | **Breanna Stewart** 🔴 +4 | 2,636 |
 | 16 | Sancho Lyttle | 2,596 |
@@ -1372,8 +1372,8 @@ _Last updated: 2026-08-14 01:24 UTC_
 | 118 | Allisha Gray | 478 |
 | 119 | Ebony Hoffman | 470 |
 | 120 | Elaine Powell | 469 |
-| 121 | **Ariel Atkins** 🔴 +3 | 468 |
-| 122 | Allie Quigley | 467 |
+| 121 | Allie Quigley | 467 |
+| 121 | **Ariel Atkins** 🔴 +2 | 467 |
 | 123 | Jackie Young | 463 |
 | 124 | Betnijah Laney-Hamilton | 456 |
 | 125 | Kia Vaughn | 454 |
@@ -1530,9 +1530,9 @@ _Last updated: 2026-08-14 01:24 UTC_
 | 71 | Vickie Johnson | 752 |
 | 72 | Kara Braxton | 748 |
 | 73 | Crystal Langhorne | 737 |
-| 74 | **Ariel Atkins** 🔴 +4 | 734 |
 | 74 | Shameka Christon | 734 |
-| 76 | Becky Hammon | 733 |
+| 75 | **Ariel Atkins** 🔴 +3 | 733 |
+| 75 | Becky Hammon | 733 |
 | 77 | Elizabeth Williams | 732 |
 | 78 | Latasha Byears | 730 |
 | 79 | Kristi Toliver | 722 |
