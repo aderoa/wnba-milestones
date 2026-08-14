@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-14 02:30 UTC_
+_Last updated: 2026-08-14 02:31 UTC_
 
 ## Contents
 
@@ -385,8 +385,8 @@ _Last updated: 2026-08-14 02:30 UTC_
 | 159 | Naz Hillmon | 866 |
 | 160 | Krystal Thomas | 862 |
 | 161 | Leilani Mitchell | 845 |
-| 162 | Essence Carson | 833 |
-| 162 | **Shakira Austin** 🔴 +1 | 833 |
+| 162 | **Shakira Austin** 🔴 +2 | 834 |
+| 163 | Essence Carson | 833 |
 | 164 | Gabby Williams | 831 |
 | 165 | Kristi Toliver | 829 |
 | 166 | Marie Ferdinand-Harris | 828 |
@@ -1552,8 +1552,8 @@ _Last updated: 2026-08-14 02:30 UTC_
 | 92 | Maya Moore | 686 |
 | 93 | Cheyenne Parker-Tyus | 685 |
 | 93 | Jasmine Thomas | 685 |
-| 95 | **Jewell Loyd** 🔴 | 684 |
-| 95 | Leilani Mitchell | 684 |
+| 93 | **Jewell Loyd** 🔴 +1 | 685 |
+| 96 | Leilani Mitchell | 684 |
 | 97 | Crystal Robinson | 682 |
 | 97 | Kayla Thornton | 682 |
 | 99 | Jennifer Lacy | 680 |
