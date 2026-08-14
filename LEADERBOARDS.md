@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-14 01:17 UTC_
+_Last updated: 2026-08-14 01:18 UTC_
 
 ## Contents
 
@@ -22,7 +22,7 @@ _Last updated: 2026-08-14 01:17 UTC_
 | 1 | Diana Taurasi | 10,608 |
 | 2 | Tina Charles | 8,396 |
 | 3 | DeWanna Bonner | 7,972 |
-| 4 | **Nneka Ogwumike** 🔴 +3 | 7,566 |
+| 4 | **Nneka Ogwumike** 🔴 +5 | 7,568 |
 | 5 | Tina Thompson | 7,470 |
 | 6 | Tamika Catchings | 7,371 |
 | 7 | Candice Dupree | 6,861 |
@@ -217,7 +217,7 @@ _Last updated: 2026-08-14 01:17 UTC_
 | 196 | Janell Burse | 1,580 |
 | 197 | Le'coe Willingham | 1,552 |
 | 198 | Shatori Walker-Kimbrough | 1,546 |
-| 199 | **Rebecca Allen** 🔴 +8 | 1,537 |
+| 199 | **Rebecca Allen** 🔴 +11 | 1,540 |
 | 200 | Jennifer Lacy | 1,504 |
 
 ## Rebounds
@@ -238,7 +238,7 @@ _Last updated: 2026-08-14 01:17 UTC_
 | 12 | Alyssa Thomas | 2,858 |
 | 13 | **Jonquel Jones** 🔴 +13 | 2,741 |
 | 14 | A'ja Wilson | 2,657 |
-| 15 | **Breanna Stewart** 🔴 +1 | 2,633 |
+| 15 | **Breanna Stewart** 🔴 +2 | 2,634 |
 | 16 | Sancho Lyttle | 2,596 |
 | 17 | Brittney Griner | 2,587 |
 | 18 | DeLisha Milton-Jones | 2,574 |
@@ -473,7 +473,7 @@ _Last updated: 2026-08-14 01:17 UTC_
 | 42 | Sheryl Swoopes | 1,037 |
 | 43 | Tina Charles | 1,033 |
 | 44 | Kayla McBride | 992 |
-| 45 | **Breanna Stewart** 🔴 +4 | 985 |
+| 45 | **Breanna Stewart** 🔴 +5 | 986 |
 | 46 | Nikki Teasley | 982 |
 | 47 | Tamecka Dixon | 960 |
 | 48 | Tiffany Hayes | 957 |
@@ -1132,7 +1132,7 @@ _Last updated: 2026-08-14 01:17 UTC_
 | 83 | Iziane Castro Marques | 275 |
 | 84 | Sheryl Swoopes | 270 |
 | 85 | Sophia Witherspoon | 260 |
-| 86 | **Rebecca Allen** 🔴 +2 | 257 |
+| 86 | **Rebecca Allen** 🔴 +3 | 258 |
 | 87 | Dawn Staley | 254 |
 | 88 | Bria Hartley | 253 |
 | 88 | **Nneka Ogwumike** 🔴 | 253 |
