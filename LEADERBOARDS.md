@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-14 01:29 UTC_
+_Last updated: 2026-08-14 01:30 UTC_
 
 ## Contents
 
@@ -236,7 +236,7 @@ _Last updated: 2026-08-14 01:29 UTC_
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | Alyssa Thomas | 2,858 |
-| 13 | **Jonquel Jones** 🔴 +13 | 2,741 |
+| 13 | **Jonquel Jones** 🔴 +14 | 2,742 |
 | 14 | A'ja Wilson | 2,657 |
 | 15 | **Breanna Stewart** 🔴 +4 | 2,636 |
 | 16 | Sancho Lyttle | 2,596 |
@@ -449,7 +449,7 @@ _Last updated: 2026-08-14 01:29 UTC_
 | 18 | Temeka Johnson | 1,382 |
 | 19 | Jasmine Thomas | 1,355 |
 | 20 | Briann January | 1,339 |
-| 20 | **Erica Wheeler** 🔴 +4 | 1,339 |
+| 21 | **Erica Wheeler** 🔴 +3 | 1,338 |
 | 22 | Dawn Staley | 1,337 |
 | 23 | Teresa Weatherspoon | 1,333 |
 | 24 | Kristi Toliver | 1,301 |
@@ -755,8 +755,8 @@ _Last updated: 2026-08-14 01:29 UTC_
 | 119 | Courtney Williams | 109 |
 | 120 | Erin Perperoglou | 108 |
 | 120 | Glory Johnson | 108 |
-| 122 | **Dearica Hamby** 🔴 +1 | 107 |
-| 123 | Sylvia Crawley | 106 |
+| 122 | **Dearica Hamby** 🔴 | 106 |
+| 122 | Sylvia Crawley | 106 |
 | 124 | Carolyn Swords | 104 |
 | 124 | Rebecca Lobo | 104 |
 | 126 | Jennifer Gillom | 103 |
