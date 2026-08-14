@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-14 00:07 UTC_
+_Last updated: 2026-08-14 00:08 UTC_
 
 ## Contents
 
@@ -236,7 +236,7 @@ _Last updated: 2026-08-14 00:07 UTC_
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | Alyssa Thomas | 2,858 |
-| 13 | **Jonquel Jones** 🔴 +3 | 2,731 |
+| 13 | **Jonquel Jones** 🔴 +4 | 2,732 |
 | 14 | A'ja Wilson | 2,657 |
 | 15 | **Breanna Stewart** 🔴 | 2,632 |
 | 16 | Sancho Lyttle | 2,596 |
@@ -244,7 +244,7 @@ _Last updated: 2026-08-14 00:07 UTC_
 | 18 | DeLisha Milton-Jones | 2,574 |
 | 19 | Swin Cash | 2,521 |
 | 20 | Michelle Snow | 2,476 |
-| 21 | **Dearica Hamby** 🔴 | 2,455 |
+| 21 | **Dearica Hamby** 🔴 +1 | 2,456 |
 | 22 | Crystal Langhorne | 2,454 |
 | 23 | Lauren Jackson | 2,444 |
 | 24 | Yolanda Griffith | 2,440 |
@@ -395,8 +395,8 @@ _Last updated: 2026-08-14 00:07 UTC_
 | 168 | Barbara Farris | 819 |
 | 170 | Carolyn Swords | 814 |
 | 171 | Betnijah Laney-Hamilton | 812 |
+| 172 | **Ariel Atkins** 🔴 +1 | 799 |
 | 172 | Tierra Ruffin-Pratt | 799 |
-| 173 | **Ariel Atkins** 🔴 | 798 |
 | 174 | Charlotte Smith | 794 |
 | 175 | Rhonda Mapp | 788 |
 | 176 | Mercedes Russell | 786 |
@@ -1291,7 +1291,7 @@ _Last updated: 2026-08-14 00:07 UTC_
 | 36 | Plenette Pierson | 773 |
 | 37 | Briann January | 771 |
 | 38 | Margo Dydek | 758 |
-| 39 | **Brittney Griner** 🔴 +2 | 753 |
+| 39 | **Brittney Griner** 🔴 +1 | 752 |
 | 40 | Tangela Smith | 751 |
 | 41 | Kristi Toliver | 748 |
 | 42 | Monique Currie | 724 |
