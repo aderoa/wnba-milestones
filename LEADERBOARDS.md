@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-14 00:09 UTC_
+_Last updated: 2026-08-14 00:10 UTC_
 
 ## Contents
 
@@ -227,7 +227,7 @@ _Last updated: 2026-08-14 00:09 UTC_
 | 1 | Tina Charles | 4,262 |
 | 2 | Sylvia Fowles | 4,005 |
 | 3 | Candace Parker | 3,467 |
-| 4 | **Nneka Ogwumike** 🔴 | 3,406 |
+| 4 | **Nneka Ogwumike** 🔴 +1 | 3,407 |
 | 5 | Rebekkah Brunson | 3,345 |
 | 6 | Tamika Catchings | 3,313 |
 | 7 | Lisa Leslie | 3,303 |
@@ -378,7 +378,7 @@ _Last updated: 2026-08-14 00:09 UTC_
 | 152 | Natalie Achonwa | 895 |
 | 153 | Temeka Johnson | 889 |
 | 154 | Mistie Bass | 888 |
-| 155 | **Erica Wheeler** 🔴 | 882 |
+| 155 | **Erica Wheeler** 🔴 +1 | 883 |
 | 156 | Alanna Smith | 878 |
 | 157 | Marina Mabrey | 874 |
 | 158 | Shameka Christon | 867 |
@@ -513,7 +513,7 @@ _Last updated: 2026-08-14 00:09 UTC_
 | 81 | Shavonte Zellous | 693 |
 | 82 | Allie Quigley | 690 |
 | 83 | Moriah Jefferson | 685 |
-| 84 | **Ariel Atkins** 🔴 +1 | 683 |
+| 84 | **Ariel Atkins** 🔴 +2 | 684 |
 | 85 | Emma Meesseman | 681 |
 | 86 | Nykesha Sales | 677 |
 | 87 | Natisha Hiedeman | 668 |
@@ -882,7 +882,7 @@ _Last updated: 2026-08-14 00:09 UTC_
 | 37 | Kayla McBride | 446 |
 | 38 | Sheri Sam | 438 |
 | 39 | Camille Smith | 437 |
-| 40 | **Breanna Stewart** 🔴 | 435 |
+| 40 | **Breanna Stewart** 🔴 +1 | 436 |
 | 41 | Candice Dupree | 431 |
 | 42 | Epiphanny Prince | 429 |
 | 43 | Tanisha Wright | 427 |
@@ -1027,8 +1027,8 @@ _Last updated: 2026-08-14 00:09 UTC_
 | 182 | Charde Houston | 185 |
 | 182 | Tiffany Jackson | 185 |
 | 184 | Erin Perperoglou | 184 |
+| 184 | **Rebecca Allen** 🔴 +1 | 184 |
 | 184 | **Sabrina Ionescu** 🔴 | 184 |
-| 186 | **Rebecca Allen** 🔴 | 183 |
 | 187 | Erin Phillips | 182 |
 | 187 | Monique Billings | 182 |
 | 189 | Nakia Sanford | 181 |
@@ -1298,7 +1298,7 @@ _Last updated: 2026-08-14 00:09 UTC_
 | 43 | Michelle Snow | 723 |
 | 44 | Tamecka Dixon | 716 |
 | 45 | Natasha Cloud | 707 |
-| 46 | **Erica Wheeler** 🔴 | 699 |
+| 46 | **Erica Wheeler** 🔴 +1 | 700 |
 | 47 | Renee Montgomery | 697 |
 | 48 | Temeka Johnson | 696 |
 | 49 | Penny Taylor | 695 |
