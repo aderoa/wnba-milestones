@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-15 00:55 UTC_
+_Last updated: 2026-08-15 00:56 UTC_
 
 ## Contents
 
@@ -287,7 +287,7 @@ _Last updated: 2026-08-15 00:55 UTC_
 | 61 | Cappie Pondexter | 1,513 |
 | 62 | Napheesa Collier | 1,510 |
 | 63 | Ticha Penicheiro | 1,485 |
-| 64 | **Alysha Clark** 🔴 +1 | 1,470 |
+| 64 | **Alysha Clark** 🔴 +2 | 1,471 |
 | 65 | Sue Bird | 1,466 |
 | 66 | Cheyenne Parker-Tyus | 1,463 |
 | 67 | Nicole Powell | 1,457 |
@@ -777,10 +777,10 @@ _Last updated: 2026-08-15 00:55 UTC_
 | 140 | Jewell Loyd | 94 |
 | 140 | Sandrine Gruda | 94 |
 | 142 | Kayla Thornton | 93 |
+| 143 | **Alysha Clark** 🔴 +1 | 91 |
 | 143 | Jasmine Thomas | 91 |
 | 143 | Kayla Alexander | 91 |
-| 145 | Allie Quigley | 90 |
-| 145 | **Alysha Clark** 🔴 | 90 |
+| 146 | Allie Quigley | 90 |
 | 147 | Natasha Cloud | 89 |
 | 147 | Tiffany Hayes | 89 |
 | 149 | Marissa Coleman | 88 |
