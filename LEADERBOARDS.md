@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-15 01:42 UTC_
+_Last updated: 2026-08-15 01:43 UTC_
 
 ## Contents
 
@@ -401,8 +401,8 @@ _Last updated: 2026-08-15 01:42 UTC_
 | 175 | Rhonda Mapp | 788 |
 | 176 | Odyssey Sims | 787 |
 | 177 | Mercedes Russell | 786 |
-| 178 | Arike Ogunbowale | 780 |
-| 178 | Sue Wicks | 780 |
+| 178 | Arike Ogunbowale | 781 |
+| 179 | Sue Wicks | 780 |
 | 180 | Lindsey Harding | 779 |
 | 181 | Tiffani Johnson | 778 |
 | 182 | Teresa Weatherspoon | 775 |
