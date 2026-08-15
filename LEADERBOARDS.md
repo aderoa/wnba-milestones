@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-15 03:35 UTC_
+_Last updated: 2026-08-15 03:36 UTC_
 
 ## Contents
 
@@ -624,8 +624,8 @@ _Last updated: 2026-08-15 03:35 UTC_
 | 192 | Jantel Lavender | 350 |
 | 193 | Sandy Brondello | 349 |
 | 194 | Ebony Hoffman | 347 |
+| 194 | **Ezi Magbegor** 🔴 +3 | 347 |
 | 194 | Tamika Whitmore | 347 |
-| 196 | **Ezi Magbegor** 🔴 +2 | 346 |
 | 197 | Kristen Rasmussen | 345 |
 | 197 | Penny Toler | 345 |
 | 199 | Sonja Henning | 341 |
@@ -1117,7 +1117,7 @@ _Last updated: 2026-08-15 03:35 UTC_
 | 67 | DeLisha Milton-Jones | 312 |
 | 67 | Ruthie Bolton | 312 |
 | 69 | Tan White | 311 |
-| 70 | **Bridget Carleton** 🔴 +3 | 309 |
+| 70 | **Bridget Carleton** 🔴 +4 | 310 |
 | 71 | Kedra Holland-Corn | 307 |
 | 72 | Kelly Miller | 305 |
 | 73 | Nikki Teasley | 304 |
@@ -1190,10 +1190,10 @@ _Last updated: 2026-08-15 03:35 UTC_
 | 139 | Jennifer Azzi | 158 |
 | 139 | Natasha Howard | 158 |
 | 142 | Alanna Smith | 156 |
-| 143 | Bridget Pettis | 153 |
-| 143 | Gabby Williams | 153 |
-| 143 | Jennifer Gillom | 153 |
-| 143 | **Katie Lou Samuelson** 🔴 | 153 |
+| 143 | **Katie Lou Samuelson** 🔴 +1 | 154 |
+| 144 | Bridget Pettis | 153 |
+| 144 | Gabby Williams | 153 |
+| 144 | Jennifer Gillom | 153 |
 | 147 | Michaela Onyenwere | 151 |
 | 148 | Rita Williams | 150 |
 | 149 | Moriah Jefferson | 149 |
