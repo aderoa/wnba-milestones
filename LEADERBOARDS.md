@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-15 03:46 UTC_
+_Last updated: 2026-08-15 03:47 UTC_
 
 ## Contents
 
@@ -319,7 +319,7 @@ _Last updated: 2026-08-15 03:46 UTC_
 | 93 | Chelsea Gray | 1,257 |
 | 93 | Tiffany Hayes | 1,257 |
 | 95 | Kayla McBride | 1,256 |
-| 96 | **Ezi Magbegor** 🔴 +6 | 1,249 |
+| 96 | **Ezi Magbegor** 🔴 +7 | 1,250 |
 | 97 | Brianna Turner | 1,243 |
 | 98 | Seimone Augustus | 1,228 |
 | 99 | Jia Perkins | 1,220 |
@@ -1587,9 +1587,9 @@ _Last updated: 2026-08-15 03:46 UTC_
 | 127 | Emma Meesseman | 585 |
 | 128 | Courtney Williams | 583 |
 | 129 | Chiney Ogwumike | 580 |
+| 129 | **Ezi Magbegor** 🔴 +4 | 580 |
 | 129 | Hamchetou Maiga-Ba | 580 |
 | 129 | Olympia Scott | 580 |
-| 132 | **Ezi Magbegor** 🔴 +3 | 579 |
 | 133 | Le'coe Willingham | 571 |
 | 134 | Ashley Robinson | 567 |
 | 135 | Marina Mabrey | 566 |
