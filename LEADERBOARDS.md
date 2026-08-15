@@ -66,7 +66,7 @@ _Last updated: 2026-08-15 17:45 UTC_
 | 45 | Kahleah Copper | 4,437 |
 | 46 | Crystal Langhorne | 4,433 |
 | 46 | Jia Perkins | 4,433 |
-| 48 | **Jonquel Jones** 🔴 +16 | 4,369 |
+| 48 | **Jonquel Jones** 🔴 +19 | 4,372 |
 | 49 | Courtney Vandersloot | 4,362 |
 | 50 | Courtney Williams | 4,350 |
 | 51 | Dearica Hamby | 4,330 |
@@ -238,7 +238,7 @@ _Last updated: 2026-08-15 17:45 UTC_
 | 12 | Alyssa Thomas | 2,858 |
 | 13 | **Jonquel Jones** 🔴 +6 | 2,734 |
 | 14 | A'ja Wilson | 2,657 |
-| 15 | **Breanna Stewart** 🔴 +1 | 2,633 |
+| 15 | **Breanna Stewart** 🔴 +2 | 2,634 |
 | 16 | Sancho Lyttle | 2,596 |
 | 17 | Brittney Griner | 2,579 |
 | 18 | DeLisha Milton-Jones | 2,574 |
@@ -473,8 +473,8 @@ _Last updated: 2026-08-15 17:45 UTC_
 | 42 | Sheryl Swoopes | 1,037 |
 | 43 | Tina Charles | 1,033 |
 | 44 | Kayla McBride | 992 |
+| 45 | **Breanna Stewart** 🔴 +1 | 982 |
 | 45 | Nikki Teasley | 982 |
-| 46 | **Breanna Stewart** 🔴 | 981 |
 | 47 | Tamecka Dixon | 960 |
 | 48 | Tiffany Hayes | 957 |
 | 49 | Kara Lawson | 946 |
@@ -522,7 +522,7 @@ _Last updated: 2026-08-15 17:45 UTC_
 | 91 | Lindsay Allen | 657 |
 | 92 | Betty Lennox | 651 |
 | 92 | Plenette Pierson | 651 |
-| 94 | **Jonquel Jones** 🔴 +1 | 648 |
+| 94 | **Jonquel Jones** 🔴 +2 | 649 |
 | 95 | Alex Bentley | 645 |
 | 96 | Asjha Jones | 637 |
 | 97 | Jennifer Azzi | 636 |
@@ -1088,7 +1088,7 @@ _Last updated: 2026-08-15 17:45 UTC_
 | 38 | Riquna Williams | 407 |
 | 40 | Jia Perkins | 396 |
 | 41 | Alysha Clark | 394 |
-| 42 | **Jonquel Jones** 🔴 +2 | 391 |
+| 42 | **Jonquel Jones** 🔴 +3 | 392 |
 | 43 | Rachel Banham | 390 |
 | 44 | Roneeka Hodges | 389 |
 | 45 | Courtney Vandersloot | 386 |
