@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-15 00:18 UTC_
+_Last updated: 2026-08-15 00:19 UTC_
 
 ## Contents
 
@@ -313,7 +313,7 @@ _Last updated: 2026-08-15 00:18 UTC_
 | 87 | Azurá Stevens | 1,319 |
 | 88 | Betty Lennox | 1,296 |
 | 89 | Tari Phillips | 1,274 |
-| 90 | **Myisha Hines-Allen** 🔴 | 1,265 |
+| 90 | **Myisha Hines-Allen** 🔴 +1 | 1,266 |
 | 91 | Janel McCarville | 1,261 |
 | 92 | Liz Cambage | 1,258 |
 | 93 | Chelsea Gray | 1,257 |
@@ -804,11 +804,11 @@ _Last updated: 2026-08-15 00:18 UTC_
 | 167 | Stephanie Talbot | 79 |
 | 168 | Astou Ndour-Fall | 78 |
 | 168 | Katie Smith | 78 |
+| 168 | **Myisha Hines-Allen** 🔴 +1 | 78 |
 | 168 | Slobodanka Tuvic | 78 |
-| 171 | Kara Wolters | 77 |
-| 171 | **Myisha Hines-Allen** 🔴 | 77 |
-| 171 | Noelle Quinn | 77 |
-| 171 | Tierra Ruffin-Pratt | 77 |
+| 172 | Kara Wolters | 77 |
+| 172 | Noelle Quinn | 77 |
+| 172 | Tierra Ruffin-Pratt | 77 |
 | 175 | Jennifer Lacy | 76 |
 | 175 | Sugar Rodgers | 76 |
 | 175 | Tan White | 76 |
@@ -1413,7 +1413,7 @@ _Last updated: 2026-08-15 00:18 UTC_
 | 158 | Anna DeForge | 374 |
 | 158 | Cheryl Ford | 374 |
 | 160 | Allison Feaster | 372 |
-| 161 | **Caitlin Clark** 🔴 | 368 |
+| 161 | **Caitlin Clark** 🔴 +1 | 369 |
 | 162 | Emma Meesseman | 367 |
 | 163 | Latasha Byears | 360 |
 | 164 | Vicky Bullett | 359 |
@@ -1608,7 +1608,7 @@ _Last updated: 2026-08-15 00:18 UTC_
 | 146 | Renee Montgomery | 543 |
 | 149 | Marissa Coleman | 541 |
 | 150 | **Sophie Cunningham** 🔴 +1 | 539 |
-| 151 | **Myisha Hines-Allen** 🔴 +2 | 537 |
+| 151 | **Myisha Hines-Allen** 🔴 +1 | 536 |
 | 152 | Damiris Dantas | 533 |
 | 152 | Kristen Rasmussen | 533 |
 | 154 | Amanda Zahui B | 530 |
