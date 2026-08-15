@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-15 03:42 UTC_
+_Last updated: 2026-08-15 03:43 UTC_
 
 ## Contents
 
@@ -1205,8 +1205,8 @@ _Last updated: 2026-08-15 03:42 UTC_
 | 153 | Matee Ajavon | 144 |
 | 156 | Shenise Johnson | 143 |
 | 157 | Jordan Hooper | 141 |
-| 158 | Coco Miller | 139 |
-| 158 | **Karlie Samuelson** 🔴 | 139 |
+| 158 | **Karlie Samuelson** 🔴 +1 | 140 |
+| 159 | Coco Miller | 139 |
 | 160 | Loree Moore | 138 |
 | 160 | Tanisha Wright | 138 |
 | 162 | Kaleena Mosqueda-Lewis | 137 |
@@ -1439,8 +1439,8 @@ _Last updated: 2026-08-15 03:42 UTC_
 | 184 | Barbara Farris | 315 |
 | 184 | Monique Billings | 315 |
 | 186 | Moriah Jefferson | 314 |
-| 187 | Alex Bentley | 313 |
-| 187 | **Natisha Hiedeman** 🔴 +1 | 313 |
+| 186 | **Natisha Hiedeman** 🔴 +2 | 314 |
+| 188 | Alex Bentley | 313 |
 | 189 | Tamika Raymond | 311 |
 | 190 | Isabelle Harrison | 307 |
 | 191 | Erin Perperoglou | 305 |
