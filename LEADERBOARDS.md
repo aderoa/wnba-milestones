@@ -31,7 +31,7 @@ _Last updated: 2026-08-15 18:56 UTC_
 | 10 | Candace Parker | 6,574 |
 | 11 | Katie Smith | 6,450 |
 | 12 | Sylvia Fowles | 6,413 |
-| 13 | **Breanna Stewart** 🔴 +9 | 6,344 |
+| 13 | **Breanna Stewart** 🔴 +11 | 6,346 |
 | 14 | Lisa Leslie | 6,251 |
 | 15 | A'ja Wilson | 6,178 |
 | 16 | Jewell Loyd | 6,148 |
@@ -1220,9 +1220,9 @@ _Last updated: 2026-08-15 18:56 UTC_
 | 171 | Jordin Canada | 128 |
 | 171 | Ticha Penicheiro | 128 |
 | 173 | Michele Timms | 127 |
+| 174 | **Kennedy Burke** 🔴 +1 | 126 |
 | 174 | Tamecka Dixon | 126 |
-| 175 | **Kennedy Burke** 🔴 | 125 |
-| 175 | Lexie Hull | 125 |
+| 176 | Lexie Hull | 125 |
 | 177 | Charde Houston | 124 |
 | 177 | Veronica Burton | 124 |
 | 179 | Lisa Leslie | 123 |
