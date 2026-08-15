@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-15 02:16 UTC_
+_Last updated: 2026-08-15 02:17 UTC_
 
 ## Contents
 
@@ -1193,7 +1193,7 @@ _Last updated: 2026-08-15 02:16 UTC_
 | 143 | Bridget Pettis | 153 |
 | 143 | Gabby Williams | 153 |
 | 143 | Jennifer Gillom | 153 |
-| 143 | Katie Lou Samuelson | 153 |
+| 143 | **Katie Lou Samuelson** 🔴 | 153 |
 | 147 | Michaela Onyenwere | 151 |
 | 148 | Rita Williams | 150 |
 | 149 | Moriah Jefferson | 149 |
@@ -1206,7 +1206,7 @@ _Last updated: 2026-08-15 02:16 UTC_
 | 156 | Shenise Johnson | 143 |
 | 157 | Jordan Hooper | 141 |
 | 158 | Coco Miller | 139 |
-| 158 | Karlie Samuelson | 139 |
+| 158 | **Karlie Samuelson** 🔴 | 139 |
 | 160 | Loree Moore | 138 |
 | 160 | Tanisha Wright | 138 |
 | 162 | Kaleena Mosqueda-Lewis | 137 |
