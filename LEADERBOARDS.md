@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-15 00:20 UTC_
+_Last updated: 2026-08-15 00:21 UTC_
 
 ## Contents
 
@@ -85,7 +85,7 @@ _Last updated: 2026-08-15 00:20 UTC_
 | 64 | Brittney Sykes | 3,726 |
 | 65 | Jackie Young | 3,698 |
 | 66 | Kara Lawson | 3,670 |
-| 67 | **Odyssey Sims** 🔴 +6 | 3,580 |
+| 67 | **Odyssey Sims** 🔴 +10 | 3,584 |
 | 68 | Mwadi Mabika | 3,576 |
 | 69 | Camille Smith | 3,551 |
 | 70 | Napheesa Collier | 3,542 |
@@ -399,8 +399,8 @@ _Last updated: 2026-08-15 00:20 UTC_
 | 173 | Ariel Atkins | 798 |
 | 174 | Charlotte Smith | 794 |
 | 175 | Rhonda Mapp | 788 |
-| 176 | Mercedes Russell | 786 |
-| 176 | **Odyssey Sims** 🔴 +1 | 786 |
+| 176 | **Odyssey Sims** 🔴 +2 | 787 |
+| 177 | Mercedes Russell | 786 |
 | 178 | **Arike Ogunbowale** 🔴 +5 | 780 |
 | 178 | Sue Wicks | 780 |
 | 180 | Lindsey Harding | 779 |
@@ -792,10 +792,10 @@ _Last updated: 2026-08-15 00:20 UTC_
 | 155 | Charde Houston | 84 |
 | 155 | Marina Mabrey | 84 |
 | 155 | Shatori Walker-Kimbrough | 84 |
+| 158 | **Awak Kuier** 🔴 +3 | 83 |
 | 158 | Tamera Young | 83 |
-| 159 | **Awak Kuier** 🔴 +2 | 82 |
-| 159 | Cameron Brink | 82 |
-| 159 | Damiris Dantas | 82 |
+| 160 | Cameron Brink | 82 |
+| 160 | Damiris Dantas | 82 |
 | 162 | Charlotte Smith | 81 |
 | 162 | Cintia dos Santos | 81 |
 | 162 | Jessie Hicks | 81 |
@@ -1143,7 +1143,7 @@ _Last updated: 2026-08-15 00:20 UTC_
 | 93 | Erin Thorn | 243 |
 | 94 | Alex Bentley | 239 |
 | 94 | Cynthia Cooper | 239 |
-| 96 | **Odyssey Sims** 🔴 +2 | 236 |
+| 96 | **Odyssey Sims** 🔴 +3 | 237 |
 | 97 | Svetlana Abrosimova | 235 |
 | 97 | Tangela Smith | 235 |
 | 99 | Satou Sabally | 232 |
@@ -1608,7 +1608,7 @@ _Last updated: 2026-08-15 00:20 UTC_
 | 146 | Renee Montgomery | 543 |
 | 149 | Marissa Coleman | 541 |
 | 150 | **Sophie Cunningham** 🔴 +1 | 539 |
-| 151 | **Myisha Hines-Allen** 🔴 +1 | 536 |
+| 151 | **Myisha Hines-Allen** 🔴 +2 | 537 |
 | 152 | Damiris Dantas | 533 |
 | 152 | Kristen Rasmussen | 533 |
 | 154 | Amanda Zahui B | 530 |
