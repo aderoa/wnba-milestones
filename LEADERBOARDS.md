@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-16 22:17 UTC_
+_Last updated: 2026-08-16 22:18 UTC_
 
 ## Contents
 
@@ -60,7 +60,7 @@ _Last updated: 2026-08-16 22:17 UTC_
 | 39 | Natasha Howard | 4,682 |
 | 40 | Chelsea Gray | 4,625 |
 | 41 | Penny Taylor | 4,595 |
-| 42 | **Allisha Gray** 🔴 +19 | 4,510 |
+| 42 | **Allisha Gray** 🔴 +21 | 4,512 |
 | 43 | Kelsey Plum | 4,494 |
 | 44 | Kristi Toliver | 4,474 |
 | 45 | Kahleah Copper | 4,437 |
@@ -295,8 +295,8 @@ _Last updated: 2026-08-16 22:17 UTC_
 | 69 | Tamera Young | 1,433 |
 | 70 | Alana Beard | 1,420 |
 | 71 | Nakia Sanford | 1,419 |
+| 72 | **Allisha Gray** 🔴 +4 | 1,408 |
 | 72 | Kayla Thornton | 1,408 |
-| 73 | **Allisha Gray** 🔴 +3 | 1,407 |
 | 74 | **Courtney Vandersloot** 🔴 +3 | 1,389 |
 | 75 | Kara Braxton | 1,387 |
 | 76 | Katie Smith | 1,383 |
@@ -410,7 +410,7 @@ _Last updated: 2026-08-16 22:17 UTC_
 | 183 | Kelsey Bone | 769 |
 | 183 | Tan White | 769 |
 | 186 | Tully Bevilaqua | 767 |
-| 187 | **Kamilla Cardoso** 🔴 +8 | 758 |
+| 187 | **Kamilla Cardoso** 🔴 +9 | 759 |
 | 188 | Layshia Clarendon | 756 |
 | 189 | Brooke Wyckoff | 751 |
 | 190 | Coco Miller | 750 |
@@ -503,7 +503,7 @@ _Last updated: 2026-08-16 22:17 UTC_
 | 71 | Marina Mabrey | 801 |
 | 72 | Epiphanny Prince | 800 |
 | 73 | Mwadi Mabika | 774 |
-| 74 | **Allisha Gray** 🔴 +2 | 769 |
+| 74 | **Allisha Gray** 🔴 +3 | 770 |
 | 75 | Sheri Sam | 745 |
 | 76 | Monique Currie | 740 |
 | 77 | Elaine Powell | 728 |
@@ -657,7 +657,7 @@ _Last updated: 2026-08-16 22:17 UTC_
 | 19 | Natasha Howard | 370 |
 | 21 | Jessica Breland | 367 |
 | 22 | DeWanna Bonner | 358 |
-| 23 | **Ezi Magbegor** 🔴 | 354 |
+| 23 | **Ezi Magbegor** 🔴 +3 | 357 |
 | 24 | Kiah Stokes | 352 |
 | 25 | Diana Taurasi | 349 |
 | 25 | Elena Delle Donne | 349 |
@@ -1333,7 +1333,7 @@ _Last updated: 2026-08-16 22:17 UTC_
 | 78 | **Stefanie Dolson** 🔴 | 594 |
 | 79 | Brittney Sykes | 591 |
 | 80 | Breanna Stewart | 586 |
-| 81 | **Kelsey Mitchell** 🔴 | 585 |
+| 80 | **Kelsey Mitchell** 🔴 +1 | 586 |
 | 82 | Helen Darling | 575 |
 | 82 | Nykesha Sales | 575 |
 | 84 | Andrea Stinson | 571 |
@@ -1568,8 +1568,8 @@ _Last updated: 2026-08-16 22:17 UTC_
 | 108 | Charlotte Smith | 638 |
 | 109 | Teaira McCowan | 637 |
 | 110 | Janell Burse | 632 |
-| 111 | **Kelsey Mitchell** 🔴 +2 | 631 |
-| 111 | Nicole Ohlde | 631 |
+| 110 | **Kelsey Mitchell** 🔴 +3 | 632 |
+| 112 | Nicole Ohlde | 631 |
 | 113 | Jennifer Gillom | 629 |
 | 114 | Deanna Nolan | 628 |
 | 115 | Brionna Jones | 625 |
