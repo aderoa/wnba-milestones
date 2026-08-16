@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-08-16 21:32 UTC
+
+- **Zia Cooke** reached **100** career turnovers (now 100) — _5:31 - 2nd — CHI @ SEA_
+
 ## 2026-08-16 01:34 UTC
 
 - **Nia Coffey** reached **200** career three-pointers (now 200) — _9.6 - 3rd — MIN @ LV_

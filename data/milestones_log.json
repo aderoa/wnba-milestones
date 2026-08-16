@@ -1,5 +1,14 @@
 [
   {
+    "ts": "2026-08-16T21:32:00+00:00",
+    "text": "Zia Cooke reached 100 career turnovers (now 100) \u2014 (5:31 - 2nd \u2014 CHI @ SEA)",
+    "kind": "round",
+    "player": "Zia Cooke",
+    "stat": "turnovers",
+    "value": 100,
+    "new_total": 100
+  },
+  {
     "ts": "2026-08-16T01:34:00+00:00",
     "text": "Nia Coffey reached 200 career three-pointers (now 200) \u2014 (9.6 - 3rd \u2014 MIN @ LV)",
     "kind": "round",
@@ -2979,17 +2988,5 @@
       "Sophia Witherspoon"
     ],
     "new_total": 209
-  },
-  {
-    "ts": "2026-07-05T02:40:00+00:00",
-    "text": "Natisha Hiedeman passed Betnijah Laney-Hamilton for #165 all-time in steals (career 208) \u2014 up from #169 entering today \u2014 (4:32 - 4th \u2014 POR @ SEA)",
-    "kind": "rank_pass",
-    "player": "Natisha Hiedeman",
-    "stat": "steals",
-    "rank": 165,
-    "passed_players": [
-      "Betnijah Laney-Hamilton"
-    ],
-    "new_total": 208
   }
 ]
