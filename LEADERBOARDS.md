@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-16 22:41 UTC_
+_Last updated: 2026-08-16 22:42 UTC_
 
 ## Contents
 
@@ -175,7 +175,7 @@ _Last updated: 2026-08-16 22:41 UTC_
 | 154 | Tari Phillips | 2,134 |
 | 155 | Cheryl Ford | 2,116 |
 | 156 | Elena Baranova | 2,110 |
-| 157 | **Aliyah Boston** 🔴 +12 | 2,099 |
+| 157 | **Aliyah Boston** 🔴 +14 | 2,101 |
 | 158 | Aerial Powers | 2,068 |
 | 159 | Coco Miller | 2,030 |
 | 160 | Diamond DeShields | 2,026 |
@@ -295,8 +295,8 @@ _Last updated: 2026-08-16 22:41 UTC_
 | 69 | Tamera Young | 1,433 |
 | 70 | Alana Beard | 1,420 |
 | 71 | Nakia Sanford | 1,419 |
-| 72 | **Allisha Gray** 🔴 +4 | 1,408 |
-| 72 | Kayla Thornton | 1,408 |
+| 72 | **Allisha Gray** 🔴 +5 | 1,409 |
+| 73 | Kayla Thornton | 1,408 |
 | 74 | **Courtney Vandersloot** 🔴 +3 | 1,389 |
 | 75 | Kara Braxton | 1,387 |
 | 76 | Katie Smith | 1,383 |
@@ -323,7 +323,7 @@ _Last updated: 2026-08-16 22:41 UTC_
 | 97 | Brianna Turner | 1,243 |
 | 98 | Seimone Augustus | 1,228 |
 | 99 | Jia Perkins | 1,220 |
-| 100 | **Aliyah Boston** 🔴 +7 | 1,205 |
+| 100 | **Aliyah Boston** 🔴 +8 | 1,206 |
 | 101 | Kahleah Copper | 1,204 |
 | 102 | DeMya Walker | 1,199 |
 | 103 | Latasha Byears | 1,190 |
@@ -1370,7 +1370,7 @@ _Last updated: 2026-08-16 22:41 UTC_
 | 115 | Erika de Souza | 483 |
 | 116 | Sophia Young-Malcolm | 482 |
 | 117 | Natalie Williams | 480 |
-| 118 | **Allisha Gray** 🔴 | 476 |
+| 118 | **Allisha Gray** 🔴 +1 | 477 |
 | 119 | Ebony Hoffman | 470 |
 | 120 | Elaine Powell | 469 |
 | 121 | Allie Quigley | 467 |
