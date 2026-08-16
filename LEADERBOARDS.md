@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-16 22:04 UTC_
+_Last updated: 2026-08-16 22:05 UTC_
 
 ## Contents
 
@@ -908,10 +908,10 @@ _Last updated: 2026-08-16 22:04 UTC_
 | 62 | Erica Wheeler | 361 |
 | 64 | Lauren Jackson | 360 |
 | 64 | Tan White | 360 |
+| 66 | **Natasha Cloud** 🔴 +2 | 357 |
 | 66 | Vickie Johnson | 357 |
-| 67 | Dominique Canty | 356 |
-| 67 | **Natasha Cloud** 🔴 +1 | 356 |
-| 67 | Renee Montgomery | 356 |
+| 68 | Dominique Canty | 356 |
+| 68 | Renee Montgomery | 356 |
 | 70 | Tamecka Dixon | 355 |
 | 71 | Arike Ogunbowale | 354 |
 | 72 | Vicky Bullett | 353 |
@@ -1635,8 +1635,8 @@ _Last updated: 2026-08-16 22:04 UTC_
 | 175 | Adrian Williams-Strong | 497 |
 | 175 | Essence Carson | 497 |
 | 175 | **Rachel Banham** 🔴 | 497 |
-| 178 | **Azurá Stevens** 🔴 | 495 |
-| 178 | Nia Coffey | 495 |
+| 178 | **Azurá Stevens** 🔴 +1 | 496 |
+| 179 | Nia Coffey | 495 |
 | 180 | Karima Christmas-Kelly | 494 |
 | 181 | Ann Wauters | 493 |
 | 181 | Riquna Williams | 493 |
