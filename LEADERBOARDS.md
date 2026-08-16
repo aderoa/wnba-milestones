@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-16 22:15 UTC_
+_Last updated: 2026-08-16 22:16 UTC_
 
 ## Contents
 
@@ -180,8 +180,8 @@ _Last updated: 2026-08-16 22:15 UTC_
 | 159 | Coco Miller | 2,030 |
 | 160 | Diamond DeShields | 2,026 |
 | 161 | Vicky Bullett | 2,018 |
-| 162 | Natisha Hiedeman | 2,002 |
-| 163 | **Ezi Magbegor** 🔴 +6 | 2,001 |
+| 162 | **Ezi Magbegor** 🔴 +8 | 2,003 |
+| 163 | Natisha Hiedeman | 2,002 |
 | 164 | Bria Hartley | 1,967 |
 | 165 | Chiney Ogwumike | 1,964 |
 | 166 | Nicole Ohlde | 1,959 |
@@ -858,7 +858,7 @@ _Last updated: 2026-08-16 22:15 UTC_
 | 13 | Alyssa Thomas | 582 |
 | 14 | Taj McWilliams-Franklin | 577 |
 | 15 | Tully Bevilaqua | 571 |
-| 16 | **Courtney Vandersloot** 🔴 +2 | 546 |
+| 16 | **Courtney Vandersloot** 🔴 +3 | 547 |
 | 17 | Yolanda Griffith | 527 |
 | 18 | Candace Parker | 521 |
 | 19 | Diana Taurasi | 515 |
@@ -908,8 +908,8 @@ _Last updated: 2026-08-16 22:15 UTC_
 | 62 | Erica Wheeler | 361 |
 | 64 | Lauren Jackson | 360 |
 | 64 | Tan White | 360 |
-| 66 | **Natasha Cloud** 🔴 +3 | 358 |
-| 67 | Vickie Johnson | 357 |
+| 66 | **Natasha Cloud** 🔴 +2 | 357 |
+| 66 | Vickie Johnson | 357 |
 | 68 | Dominique Canty | 356 |
 | 68 | Renee Montgomery | 356 |
 | 70 | Tamecka Dixon | 355 |
