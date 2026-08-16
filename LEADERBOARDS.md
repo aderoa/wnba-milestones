@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-16 01:18 UTC_
+_Last updated: 2026-08-16 01:19 UTC_
 
 ## Contents
 
@@ -249,7 +249,7 @@ _Last updated: 2026-08-16 01:18 UTC_
 | 23 | Lauren Jackson | 2,444 |
 | 24 | Yolanda Griffith | 2,440 |
 | 25 | Tangela Smith | 2,328 |
-| 26 | **Natasha Howard** 🔴 +7 | 2,322 |
+| 26 | **Natasha Howard** 🔴 +8 | 2,323 |
 | 27 | Erika de Souza | 2,220 |
 | 28 | Diana Taurasi | 2,201 |
 | 29 | Margo Dydek | 2,138 |
@@ -301,7 +301,7 @@ _Last updated: 2026-08-16 01:18 UTC_
 | 75 | Courtney Vandersloot | 1,386 |
 | 76 | Katie Smith | 1,383 |
 | 77 | Ebony Hoffman | 1,376 |
-| 78 | **Jewell Loyd** 🔴 | 1,371 |
+| 78 | **Jewell Loyd** 🔴 +1 | 1,372 |
 | 79 | Sheri Sam | 1,356 |
 | 80 | Tamika Whitmore | 1,355 |
 | 81 | Emma Meesseman | 1,350 |
@@ -374,7 +374,7 @@ _Last updated: 2026-08-16 01:18 UTC_
 | 148 | Nicky Anosike | 922 |
 | 149 | Janeth Arcain | 916 |
 | 150 | Karima Christmas-Kelly | 908 |
-| 151 | **Nia Coffey** 🔴 +3 | 906 |
+| 151 | **Nia Coffey** 🔴 +4 | 907 |
 | 152 | Natalie Achonwa | 895 |
 | 153 | Temeka Johnson | 889 |
 | 154 | Mistie Bass | 888 |
@@ -696,8 +696,8 @@ _Last updated: 2026-08-16 01:18 UTC_
 | 60 | Kelly Schumacher | 183 |
 | 61 | Maria Stepanova | 182 |
 | 62 | Courtney Paris | 178 |
-| 63 | **Nia Coffey** 🔴 | 177 |
-| 63 | Vanessa Hayden | 177 |
+| 62 | **Nia Coffey** 🔴 +1 | 178 |
+| 64 | Vanessa Hayden | 177 |
 | 65 | Maya Moore | 176 |
 | 66 | Kia Vaughn | 175 |
 | 67 | Amanda Zahui B | 171 |
@@ -1470,8 +1470,8 @@ _Last updated: 2026-08-16 01:18 UTC_
 | 9 | Tammy Sutton-Brown | 1,193 |
 | 10 | Plenette Pierson | 1,175 |
 | 11 | Chasity Melvin | 1,165 |
-| 12 | Camille Smith | 1,159 |
-| 12 | **Natasha Howard** 🔴 +1 | 1,159 |
+| 12 | **Natasha Howard** 🔴 +2 | 1,160 |
+| 13 | Camille Smith | 1,159 |
 | 14 | **Nneka Ogwumike** 🔴 | 1,156 |
 | 15 | Alana Beard | 1,153 |
 | 16 | Swin Cash | 1,146 |
