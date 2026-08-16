@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-16 02:06 UTC_
+_Last updated: 2026-08-16 02:07 UTC_
 
 ## Contents
 
@@ -68,7 +68,7 @@ _Last updated: 2026-08-16 02:06 UTC_
 | 46 | Jia Perkins | 4,433 |
 | 48 | Jonquel Jones | 4,376 |
 | 49 | Courtney Vandersloot | 4,362 |
-| 50 | **Courtney Williams** 🔴 +10 | 4,360 |
+| 49 | **Courtney Williams** 🔴 +12 | 4,362 |
 | 51 | Dearica Hamby | 4,341 |
 | 52 | Sophia Young-Malcolm | 4,300 |
 | 53 | Plenette Pierson | 4,258 |
@@ -301,7 +301,7 @@ _Last updated: 2026-08-16 02:06 UTC_
 | 75 | Courtney Vandersloot | 1,386 |
 | 76 | Katie Smith | 1,383 |
 | 77 | Ebony Hoffman | 1,376 |
-| 78 | **Jewell Loyd** 🔴 +2 | 1,373 |
+| 78 | **Jewell Loyd** 🔴 +3 | 1,374 |
 | 79 | Sheri Sam | 1,356 |
 | 80 | Tamika Whitmore | 1,355 |
 | 81 | Emma Meesseman | 1,350 |
@@ -944,7 +944,7 @@ _Last updated: 2026-08-16 02:06 UTC_
 | 100 | Janel McCarville | 294 |
 | 101 | Kelly Miller | 290 |
 | 102 | Glory Johnson | 289 |
-| 102 | **Jackie Young** 🔴 +2 | 289 |
+| 103 | **Jackie Young** 🔴 +1 | 288 |
 | 104 | Essence Carson | 285 |
 | 105 | Seimone Augustus | 280 |
 | 106 | Tari Phillips | 277 |
@@ -1599,9 +1599,9 @@ _Last updated: 2026-08-16 02:06 UTC_
 | 138 | Jessica Breland | 562 |
 | 139 | **A'ja Wilson** 🔴 +2 | 556 |
 | 140 | Dawn Staley | 551 |
-| 141 | Glory Johnson | 550 |
-| 141 | **Jackie Young** 🔴 +2 | 550 |
-| 141 | Tierra Ruffin-Pratt | 550 |
+| 140 | **Jackie Young** 🔴 +3 | 551 |
+| 142 | Glory Johnson | 550 |
+| 142 | Tierra Ruffin-Pratt | 550 |
 | 144 | Erlana Larkins | 546 |
 | 144 | **Kayla McBride** 🔴 +3 | 546 |
 | 144 | Monique Billings | 546 |
