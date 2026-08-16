@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-16 23:46 UTC_
+_Last updated: 2026-08-16 23:47 UTC_
 
 ## Contents
 
@@ -21,7 +21,7 @@ _Last updated: 2026-08-16 23:46 UTC_
 |-----:|--------|------:|
 | 1 | Diana Taurasi | 10,608 |
 | 2 | Tina Charles | 8,396 |
-| 3 | **DeWanna Bonner** 🔴 +9 | 7,981 |
+| 3 | **DeWanna Bonner** 🔴 +11 | 7,983 |
 | 4 | Nneka Ogwumike | 7,563 |
 | 5 | Tina Thompson | 7,470 |
 | 6 | Tamika Catchings | 7,371 |
@@ -63,7 +63,7 @@ _Last updated: 2026-08-16 23:46 UTC_
 | 42 | Allisha Gray | 4,523 |
 | 43 | Kelsey Plum | 4,494 |
 | 44 | Kristi Toliver | 4,474 |
-| 45 | **Kahleah Copper** 🔴 +4 | 4,441 |
+| 45 | **Kahleah Copper** 🔴 +5 | 4,442 |
 | 46 | Crystal Langhorne | 4,433 |
 | 46 | Jia Perkins | 4,433 |
 | 48 | Courtney Vandersloot | 4,377 |
@@ -231,7 +231,7 @@ _Last updated: 2026-08-16 23:46 UTC_
 | 5 | Rebekkah Brunson | 3,345 |
 | 6 | Tamika Catchings | 3,313 |
 | 7 | Lisa Leslie | 3,303 |
-| 8 | **DeWanna Bonner** 🔴 +2 | 3,292 |
+| 8 | **DeWanna Bonner** 🔴 +3 | 3,293 |
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
@@ -324,7 +324,7 @@ _Last updated: 2026-08-16 23:46 UTC_
 | 98 | Seimone Augustus | 1,228 |
 | 99 | Jia Perkins | 1,220 |
 | 100 | Aliyah Boston | 1,212 |
-| 101 | **Kahleah Copper** 🔴 +3 | 1,207 |
+| 101 | **Kahleah Copper** 🔴 +4 | 1,208 |
 | 102 | DeMya Walker | 1,199 |
 | 103 | Latasha Byears | 1,190 |
 | 103 | Tanisha Wright | 1,190 |
@@ -436,7 +436,7 @@ _Last updated: 2026-08-16 23:46 UTC_
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
 | 6 | Chelsea Gray | 2,003 |
-| 7 | **Alyssa Thomas** 🔴 +4 | 1,975 |
+| 7 | **Alyssa Thomas** 🔴 +5 | 1,976 |
 | 8 | Skylar Diggins | 1,852 |
 | 9 | Natasha Cloud | 1,805 |
 | 10 | Becky Hammon | 1,705 |
@@ -1279,7 +1279,7 @@ _Last updated: 2026-08-16 23:46 UTC_
 | 24 | Candice Dupree | 869 |
 | 25 | Alana Beard | 854 |
 | 26 | Natasha Howard | 843 |
-| 27 | **DeWanna Bonner** 🔴 | 840 |
+| 27 | **DeWanna Bonner** 🔴 +1 | 841 |
 | 28 | Katie Douglas | 824 |
 | 29 | Nneka Ogwumike | 803 |
 | 30 | Betty Lennox | 800 |
