@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-16 01:19 UTC_
+_Last updated: 2026-08-16 01:21 UTC_
 
 ## Contents
 
@@ -237,7 +237,7 @@ _Last updated: 2026-08-16 01:19 UTC_
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | Alyssa Thomas | 2,858 |
 | 13 | Jonquel Jones | 2,739 |
-| 14 | **A'ja Wilson** 🔴 +4 | 2,661 |
+| 14 | **A'ja Wilson** 🔴 +5 | 2,662 |
 | 15 | Breanna Stewart | 2,636 |
 | 16 | Sancho Lyttle | 2,596 |
 | 17 | Brittney Griner | 2,579 |
@@ -1243,8 +1243,8 @@ _Last updated: 2026-08-16 01:19 UTC_
 | 193 | Scholanda Dorrell | 109 |
 | 195 | Belinda Snell | 108 |
 | 196 | Layshia Clarendon | 107 |
-| 197 | Laurie Koehn | 105 |
-| 197 | **Sonia Citron** 🔴 +3 | 105 |
+| 197 | **Sonia Citron** 🔴 +4 | 106 |
+| 198 | Laurie Koehn | 105 |
 | 199 | Julie Vanloo | 104 |
 | 200 | **A'ja Wilson** 🔴 +1 | 103 |
 | 200 | Jeanette Pohlen-Mavunga | 103 |
@@ -1375,8 +1375,8 @@ _Last updated: 2026-08-16 01:19 UTC_
 | 119 | Ebony Hoffman | 470 |
 | 120 | Elaine Powell | 469 |
 | 121 | Allie Quigley | 467 |
-| 122 | **Ariel Atkins** 🔴 +1 | 466 |
-| 122 | **Jackie Young** 🔴 +3 | 466 |
+| 121 | **Jackie Young** 🔴 +4 | 467 |
+| 123 | **Ariel Atkins** 🔴 +1 | 466 |
 | 124 | **Betnijah Laney-Hamilton** 🔴 | 456 |
 | 125 | Kia Vaughn | 454 |
 | 126 | Janeth Arcain | 453 |
