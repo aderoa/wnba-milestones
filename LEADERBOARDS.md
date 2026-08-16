@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-16 22:12 UTC_
+_Last updated: 2026-08-16 22:13 UTC_
 
 ## Contents
 
@@ -45,7 +45,7 @@ _Last updated: 2026-08-16 22:12 UTC_
 | 24 | DeLisha Milton-Jones | 5,571 |
 | 25 | Katie Douglas | 5,545 |
 | 26 | Lindsay Whalen | 5,511 |
-| 27 | **Kelsey Mitchell** 🔴 +7 | 5,205 |
+| 27 | **Kelsey Mitchell** 🔴 +11 | 5,209 |
 | 28 | Swin Cash | 5,119 |
 | 29 | Tiffany Hayes | 5,049 |
 | 30 | Tangela Smith | 5,035 |
@@ -60,7 +60,7 @@ _Last updated: 2026-08-16 22:12 UTC_
 | 39 | Natasha Howard | 4,682 |
 | 40 | Chelsea Gray | 4,625 |
 | 41 | Penny Taylor | 4,595 |
-| 42 | **Allisha Gray** 🔴 +17 | 4,508 |
+| 42 | **Allisha Gray** 🔴 +19 | 4,510 |
 | 43 | Kelsey Plum | 4,494 |
 | 44 | Kristi Toliver | 4,474 |
 | 45 | Kahleah Copper | 4,437 |
@@ -115,7 +115,7 @@ _Last updated: 2026-08-16 22:12 UTC_
 | 94 | Briann January | 3,082 |
 | 95 | Erika de Souza | 3,046 |
 | 96 | Shameka Christon | 3,039 |
-| 97 | **Natasha Cloud** 🔴 +10 | 3,028 |
+| 97 | **Natasha Cloud** 🔴 +12 | 3,030 |
 | 98 | Marie Ferdinand-Harris | 3,001 |
 | 99 | Emma Meesseman | 2,966 |
 | 100 | **Elizabeth Williams** 🔴 | 2,933 |
@@ -323,8 +323,8 @@ _Last updated: 2026-08-16 22:12 UTC_
 | 97 | Brianna Turner | 1,243 |
 | 98 | Seimone Augustus | 1,228 |
 | 99 | Jia Perkins | 1,220 |
+| 100 | **Aliyah Boston** 🔴 +6 | 1,204 |
 | 100 | Kahleah Copper | 1,204 |
-| 101 | **Aliyah Boston** 🔴 +5 | 1,203 |
 | 102 | DeMya Walker | 1,199 |
 | 103 | Latasha Byears | 1,190 |
 | 103 | Tanisha Wright | 1,190 |
@@ -532,7 +532,7 @@ _Last updated: 2026-08-16 22:12 UTC_
 | 100 | Natasha Howard | 615 |
 | 101 | Debbie Black | 612 |
 | 102 | Cynthia Cooper | 602 |
-| 103 | **Caitlin Clark** 🔴 +5 | 596 |
+| 103 | **Caitlin Clark** 🔴 +6 | 597 |
 | 104 | Sancho Lyttle | 592 |
 | 105 | Gabby Williams | 591 |
 | 106 | Betnijah Laney-Hamilton | 590 |
@@ -550,7 +550,7 @@ _Last updated: 2026-08-16 22:12 UTC_
 | 118 | Janel McCarville | 551 |
 | 118 | Svetlana Abrosimova | 551 |
 | 120 | Michele Timms | 549 |
-| 121 | **Rhyne Howard** 🔴 +2 | 538 |
+| 121 | **Rhyne Howard** 🔴 +3 | 539 |
 | 122 | Myisha Hines-Allen | 529 |
 | 123 | Marie Ferdinand-Harris | 528 |
 | 124 | Margo Dydek | 524 |
@@ -586,8 +586,8 @@ _Last updated: 2026-08-16 22:12 UTC_
 | 154 | Lauren Jackson | 435 |
 | 155 | Adrienne Goodson | 433 |
 | 155 | Crystal Langhorne | 433 |
-| 157 | **Aliyah Boston** 🔴 +2 | 430 |
-| 157 | Elena Baranova | 430 |
+| 157 | **Aliyah Boston** 🔴 +3 | 431 |
+| 158 | Elena Baranova | 430 |
 | 159 | Tierra Ruffin-Pratt | 424 |
 | 160 | Kedra Holland-Corn | 423 |
 | 161 | Crystal Dangerfield | 418 |
@@ -1158,10 +1158,10 @@ _Last updated: 2026-08-16 22:12 UTC_
 | 108 | Betnijah Laney-Hamilton | 206 |
 | 109 | Lexie Brown | 203 |
 | 110 | Shanna Zolman | 199 |
+| 111 | **Caitlin Clark** 🔴 +2 | 197 |
 | 111 | Temeka Johnson | 197 |
 | 111 | Tina Charles | 197 |
-| 113 | **Caitlin Clark** 🔴 +1 | 196 |
-| 113 | Nia Coffey | 196 |
+| 114 | Nia Coffey | 196 |
 | 115 | Lindsay Whalen | 193 |
 | 116 | Victoria Vivians | 192 |
 | 117 | Danielle Adams | 188 |
@@ -1632,10 +1632,10 @@ _Last updated: 2026-08-16 22:12 UTC_
 | 170 | Napheesa Collier | 504 |
 | 173 | Iziane Castro Marques | 502 |
 | 174 | Elena Baranova | 501 |
-| 175 | Adrian Williams-Strong | 497 |
-| 175 | **Azurá Stevens** 🔴 +2 | 497 |
-| 175 | Essence Carson | 497 |
-| 175 | **Rachel Banham** 🔴 | 497 |
+| 175 | **Azurá Stevens** 🔴 +3 | 498 |
+| 176 | Adrian Williams-Strong | 497 |
+| 176 | Essence Carson | 497 |
+| 176 | **Rachel Banham** 🔴 | 497 |
 | 179 | Nia Coffey | 495 |
 | 180 | Karima Christmas-Kelly | 494 |
 | 181 | Ann Wauters | 493 |
