@@ -332,7 +332,7 @@ _Last updated: 2026-08-16 22:23 UTC_
 | 106 | NaLyssa Smith | 1,172 |
 | 107 | Brittney Sykes | 1,162 |
 | 108 | Nykesha Sales | 1,148 |
-| 109 | **Natasha Cloud** 🔴 +5 | 1,146 |
+| 109 | **Natasha Cloud** 🔴 +6 | 1,147 |
 | 110 | Shannon Johnson | 1,143 |
 | 111 | Adrian Williams-Strong | 1,131 |
 | 112 | Andrea Stinson | 1,127 |
@@ -674,8 +674,8 @@ _Last updated: 2026-08-16 22:23 UTC_
 | 37 | Swin Cash | 258 |
 | 38 | Plenette Pierson | 242 |
 | 39 | Napheesa Collier | 239 |
+| 40 | **Azurá Stevens** 🔴 +2 | 238 |
 | 40 | Emma Meesseman | 238 |
-| 41 | **Azurá Stevens** 🔴 +1 | 237 |
 | 42 | Brianna Turner | 234 |
 | 43 | Skylar Diggins | 231 |
 | 44 | Chasity Melvin | 228 |
