@@ -21,7 +21,7 @@ _Last updated: 2026-08-16 23:35 UTC_
 |-----:|--------|------:|
 | 1 | Diana Taurasi | 10,608 |
 | 2 | Tina Charles | 8,396 |
-| 3 | **DeWanna Bonner** 🔴 +6 | 7,978 |
+| 3 | **DeWanna Bonner** 🔴 +9 | 7,981 |
 | 4 | Nneka Ogwumike | 7,563 |
 | 5 | Tina Thompson | 7,470 |
 | 6 | Tamika Catchings | 7,371 |
@@ -1057,7 +1057,7 @@ _Last updated: 2026-08-16 23:35 UTC_
 | 7 | Katie Douglas | 723 |
 | 8 | Kelsey Mitchell | 714 |
 | 9 | Jewell Loyd | 695 |
-| 10 | **DeWanna Bonner** 🔴 +2 | 684 |
+| 10 | **DeWanna Bonner** 🔴 +3 | 685 |
 | 11 | Kristi Toliver | 651 |
 | 12 | Kelsey Plum | 619 |
 | 13 | Tamika Catchings | 605 |
