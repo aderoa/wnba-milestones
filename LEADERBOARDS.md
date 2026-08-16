@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-16 02:00 UTC_
+_Last updated: 2026-08-16 02:01 UTC_
 
 ## Contents
 
@@ -249,7 +249,7 @@ _Last updated: 2026-08-16 02:00 UTC_
 | 23 | Lauren Jackson | 2,444 |
 | 24 | Yolanda Griffith | 2,440 |
 | 25 | Tangela Smith | 2,328 |
-| 26 | **Natasha Howard** 🔴 +10 | 2,325 |
+| 26 | **Natasha Howard** 🔴 +11 | 2,326 |
 | 27 | Erika de Souza | 2,220 |
 | 28 | Diana Taurasi | 2,201 |
 | 29 | Margo Dydek | 2,138 |
@@ -329,7 +329,7 @@ _Last updated: 2026-08-16 02:00 UTC_
 | 103 | Latasha Byears | 1,190 |
 | 103 | Tanisha Wright | 1,190 |
 | 105 | Vicky Bullett | 1,189 |
-| 106 | **NaLyssa Smith** 🔴 +11 | 1,183 |
+| 106 | **NaLyssa Smith** 🔴 +12 | 1,184 |
 | 107 | Brittney Sykes | 1,162 |
 | 108 | Nykesha Sales | 1,148 |
 | 109 | Shannon Johnson | 1,143 |
@@ -1597,7 +1597,7 @@ _Last updated: 2026-08-16 02:00 UTC_
 | 136 | Ivory Latta | 565 |
 | 137 | Barbara Farris | 563 |
 | 138 | Jessica Breland | 562 |
-| 139 | **A'ja Wilson** 🔴 +1 | 555 |
+| 139 | **A'ja Wilson** 🔴 +2 | 556 |
 | 140 | Dawn Staley | 551 |
 | 141 | Glory Johnson | 550 |
 | 141 | **Jackie Young** 🔴 +2 | 550 |
