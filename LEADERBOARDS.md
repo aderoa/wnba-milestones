@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-16 01:29 UTC_
+_Last updated: 2026-08-16 01:31 UTC_
 
 ## Contents
 
@@ -1508,7 +1508,7 @@ _Last updated: 2026-08-16 01:29 UTC_
 | 47 | Cappie Pondexter | 869 |
 | 48 | Erika de Souza | 858 |
 | 49 | Angel McCoughtry | 857 |
-| 50 | **Dearica Hamby** 🔴 +5 | 855 |
+| 50 | **Dearica Hamby** 🔴 +6 | 856 |
 | 51 | Betty Lennox | 851 |
 | 52 | Tamecka Dixon | 849 |
 | 53 | Natalie Williams | 847 |
@@ -1548,10 +1548,10 @@ _Last updated: 2026-08-16 01:29 UTC_
 | 87 | Tan White | 698 |
 | 88 | Katie Douglas | 697 |
 | 89 | Danielle Robinson | 692 |
+| 90 | **Jewell Loyd** 🔴 +3 | 687 |
 | 90 | Sophia Young-Malcolm | 687 |
-| 91 | Breanna Stewart | 686 |
-| 91 | **Jewell Loyd** 🔴 +2 | 686 |
-| 91 | Maya Moore | 686 |
+| 92 | Breanna Stewart | 686 |
+| 92 | Maya Moore | 686 |
 | 94 | Cheyenne Parker-Tyus | 685 |
 | 94 | Jasmine Thomas | 685 |
 | 96 | Leilani Mitchell | 684 |
