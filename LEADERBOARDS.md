@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-16 21:11 UTC_
+_Last updated: 2026-08-16 21:12 UTC_
 
 ## Contents
 
@@ -133,7 +133,7 @@ _Last updated: 2026-08-16 21:11 UTC_
 | 111 | Lindsey Harding | 2,647 |
 | 113 | Cheyenne Parker-Tyus | 2,645 |
 | 114 | Tamera Young | 2,641 |
-| 115 | **Rhyne Howard** 🔴 | 2,637 |
+| 115 | **Rhyne Howard** 🔴 +3 | 2,640 |
 | 116 | Liz Cambage | 2,634 |
 | 117 | Janeth Arcain | 2,633 |
 | 118 | Temeka Johnson | 2,620 |
@@ -296,7 +296,7 @@ _Last updated: 2026-08-16 21:11 UTC_
 | 70 | Alana Beard | 1,420 |
 | 71 | Nakia Sanford | 1,419 |
 | 72 | Kayla Thornton | 1,408 |
-| 73 | **Allisha Gray** 🔴 | 1,404 |
+| 73 | **Allisha Gray** 🔴 +1 | 1,405 |
 | 74 | **Courtney Vandersloot** 🔴 +2 | 1,388 |
 | 75 | Kara Braxton | 1,387 |
 | 76 | Katie Smith | 1,383 |
@@ -310,7 +310,7 @@ _Last updated: 2026-08-16 21:11 UTC_
 | 84 | Erlana Larkins | 1,329 |
 | 85 | Mwadi Mabika | 1,327 |
 | 86 | Jayne Appel Marinelli | 1,326 |
-| 87 | **Azurá Stevens** 🔴 +2 | 1,321 |
+| 87 | **Azurá Stevens** 🔴 +1 | 1,320 |
 | 88 | Betty Lennox | 1,296 |
 | 89 | Tari Phillips | 1,274 |
 | 90 | Myisha Hines-Allen | 1,265 |
@@ -1083,7 +1083,7 @@ _Last updated: 2026-08-16 21:11 UTC_
 | 33 | Lauren Jackson | 436 |
 | 34 | Shameka Christon | 434 |
 | 35 | Crystal Robinson | 425 |
-| 36 | **Rhyne Howard** 🔴 | 420 |
+| 36 | **Rhyne Howard** 🔴 +1 | 421 |
 | 37 | Mwadi Mabika | 415 |
 | 38 | Penny Taylor | 407 |
 | 38 | Riquna Williams | 407 |
