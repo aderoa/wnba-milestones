@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-16 21:52 UTC_
+_Last updated: 2026-08-16 21:53 UTC_
 
 ## Contents
 
@@ -60,7 +60,7 @@ _Last updated: 2026-08-16 21:52 UTC_
 | 39 | Natasha Howard | 4,682 |
 | 40 | Chelsea Gray | 4,625 |
 | 41 | Penny Taylor | 4,595 |
-| 42 | **Allisha Gray** 🔴 +16 | 4,507 |
+| 42 | **Allisha Gray** 🔴 +17 | 4,508 |
 | 43 | Kelsey Plum | 4,494 |
 | 44 | Kristi Toliver | 4,474 |
 | 45 | Kahleah Copper | 4,437 |
@@ -296,7 +296,7 @@ _Last updated: 2026-08-16 21:52 UTC_
 | 70 | Alana Beard | 1,420 |
 | 71 | Nakia Sanford | 1,419 |
 | 72 | Kayla Thornton | 1,408 |
-| 73 | **Allisha Gray** 🔴 +2 | 1,406 |
+| 73 | **Allisha Gray** 🔴 +3 | 1,407 |
 | 74 | **Courtney Vandersloot** 🔴 +3 | 1,389 |
 | 75 | Kara Braxton | 1,387 |
 | 76 | Katie Smith | 1,383 |
@@ -324,7 +324,7 @@ _Last updated: 2026-08-16 21:52 UTC_
 | 98 | Seimone Augustus | 1,228 |
 | 99 | Jia Perkins | 1,220 |
 | 100 | Kahleah Copper | 1,204 |
-| 101 | **Aliyah Boston** 🔴 +4 | 1,202 |
+| 101 | **Aliyah Boston** 🔴 +5 | 1,203 |
 | 102 | DeMya Walker | 1,199 |
 | 103 | Latasha Byears | 1,190 |
 | 103 | Tanisha Wright | 1,190 |
