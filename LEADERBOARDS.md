@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-16 22:10 UTC_
+_Last updated: 2026-08-16 22:11 UTC_
 
 ## Contents
 
@@ -45,7 +45,7 @@ _Last updated: 2026-08-16 22:10 UTC_
 | 24 | DeLisha Milton-Jones | 5,571 |
 | 25 | Katie Douglas | 5,545 |
 | 26 | Lindsay Whalen | 5,511 |
-| 27 | **Kelsey Mitchell** 🔴 +5 | 5,203 |
+| 27 | **Kelsey Mitchell** 🔴 +7 | 5,205 |
 | 28 | Swin Cash | 5,119 |
 | 29 | Tiffany Hayes | 5,049 |
 | 30 | Tangela Smith | 5,035 |
@@ -132,7 +132,7 @@ _Last updated: 2026-08-16 22:10 UTC_
 | 111 | Essence Carson | 2,647 |
 | 111 | Lindsey Harding | 2,647 |
 | 113 | Cheyenne Parker-Tyus | 2,645 |
-| 114 | **Rhyne Howard** 🔴 +5 | 2,642 |
+| 114 | **Rhyne Howard** 🔴 +7 | 2,644 |
 | 115 | Tamera Young | 2,641 |
 | 116 | Liz Cambage | 2,634 |
 | 117 | Janeth Arcain | 2,633 |
@@ -410,8 +410,8 @@ _Last updated: 2026-08-16 22:10 UTC_
 | 183 | Kelsey Bone | 769 |
 | 183 | Tan White | 769 |
 | 186 | Tully Bevilaqua | 767 |
-| 187 | **Kamilla Cardoso** 🔴 +6 | 756 |
-| 187 | Layshia Clarendon | 756 |
+| 187 | **Kamilla Cardoso** 🔴 +8 | 758 |
+| 188 | Layshia Clarendon | 756 |
 | 189 | Brooke Wyckoff | 751 |
 | 190 | Coco Miller | 750 |
 | 191 | Kelsey Plum | 741 |
@@ -908,8 +908,8 @@ _Last updated: 2026-08-16 22:10 UTC_
 | 62 | Erica Wheeler | 361 |
 | 64 | Lauren Jackson | 360 |
 | 64 | Tan White | 360 |
-| 66 | **Natasha Cloud** 🔴 +2 | 357 |
-| 66 | Vickie Johnson | 357 |
+| 66 | **Natasha Cloud** 🔴 +3 | 358 |
+| 67 | Vickie Johnson | 357 |
 | 68 | Dominique Canty | 356 |
 | 68 | Renee Montgomery | 356 |
 | 70 | Tamecka Dixon | 355 |
@@ -1527,7 +1527,7 @@ _Last updated: 2026-08-16 22:10 UTC_
 | 67 | Sheri Sam | 766 |
 | 68 | Kahleah Copper | 758 |
 | 69 | Kia Vaughn | 755 |
-| 70 | **Allisha Gray** 🔴 +1 | 753 |
+| 70 | **Allisha Gray** 🔴 +2 | 754 |
 | 71 | Vickie Johnson | 752 |
 | 72 | Kara Braxton | 748 |
 | 73 | Crystal Langhorne | 737 |
@@ -1633,9 +1633,9 @@ _Last updated: 2026-08-16 22:10 UTC_
 | 173 | Iziane Castro Marques | 502 |
 | 174 | Elena Baranova | 501 |
 | 175 | Adrian Williams-Strong | 497 |
+| 175 | **Azurá Stevens** 🔴 +2 | 497 |
 | 175 | Essence Carson | 497 |
 | 175 | **Rachel Banham** 🔴 | 497 |
-| 178 | **Azurá Stevens** 🔴 +1 | 496 |
 | 179 | Nia Coffey | 495 |
 | 180 | Karima Christmas-Kelly | 494 |
 | 181 | Ann Wauters | 493 |
