@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-16 23:13 UTC_
+_Last updated: 2026-08-16 23:14 UTC_
 
 ## Contents
 
@@ -63,7 +63,7 @@ _Last updated: 2026-08-16 23:13 UTC_
 | 42 | **Allisha Gray** 🔴 +32 | 4,523 |
 | 43 | Kelsey Plum | 4,494 |
 | 44 | Kristi Toliver | 4,474 |
-| 45 | **Kahleah Copper** 🔴 | 4,437 |
+| 45 | **Kahleah Copper** 🔴 +3 | 4,440 |
 | 46 | Crystal Langhorne | 4,433 |
 | 46 | Jia Perkins | 4,433 |
 | 48 | Courtney Vandersloot | 4,377 |
@@ -418,8 +418,8 @@ _Last updated: 2026-08-16 23:13 UTC_
 | 192 | Alex Montgomery | 735 |
 | 193 | Ashley Robinson | 734 |
 | 194 | Shenise Johnson | 729 |
-| 195 | **Sami Whitcomb** 🔴 | 726 |
-| 195 | Shekinna Stricklen | 726 |
+| 195 | **Sami Whitcomb** 🔴 +1 | 727 |
+| 196 | Shekinna Stricklen | 726 |
 | 197 | Olympia Scott | 711 |
 | 198 | Katie Mattera | 708 |
 | 199 | Rushia Brown | 706 |
@@ -527,7 +527,7 @@ _Last updated: 2026-08-16 23:13 UTC_
 | 95 | Alex Bentley | 645 |
 | 96 | Asjha Jones | 637 |
 | 97 | Jennifer Azzi | 636 |
-| 98 | **Sami Whitcomb** 🔴 +1 | 624 |
+| 98 | **Sami Whitcomb** 🔴 +2 | 625 |
 | 99 | Alysha Clark | 619 |
 | 100 | Natasha Howard | 615 |
 | 101 | Debbie Black | 612 |
@@ -1097,7 +1097,7 @@ _Last updated: 2026-08-16 23:13 UTC_
 | 47 | Jasmine Thomas | 376 |
 | 48 | Allison Feaster | 372 |
 | 48 | Betty Lennox | 372 |
-| 50 | **Kahleah Copper** 🔴 | 370 |
+| 50 | **Kahleah Copper** 🔴 +1 | 371 |
 | 51 | Epiphanny Prince | 368 |
 | 51 | Kia Nurse | 368 |
 | 53 | Nykesha Sales | 352 |
