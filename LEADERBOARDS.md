@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-16 01:52 UTC_
+_Last updated: 2026-08-16 01:53 UTC_
 
 ## Contents
 
@@ -249,7 +249,7 @@ _Last updated: 2026-08-16 01:52 UTC_
 | 23 | Lauren Jackson | 2,444 |
 | 24 | Yolanda Griffith | 2,440 |
 | 25 | Tangela Smith | 2,328 |
-| 26 | **Natasha Howard** 🔴 +9 | 2,324 |
+| 26 | **Natasha Howard** 🔴 +10 | 2,325 |
 | 27 | Erika de Souza | 2,220 |
 | 28 | Diana Taurasi | 2,201 |
 | 29 | Margo Dydek | 2,138 |
@@ -695,8 +695,8 @@ _Last updated: 2026-08-16 01:52 UTC_
 | 57 | Murriel Page | 193 |
 | 60 | Kelly Schumacher | 183 |
 | 61 | Maria Stepanova | 182 |
-| 62 | Courtney Paris | 178 |
-| 62 | **Nia Coffey** 🔴 +1 | 178 |
+| 62 | **Nia Coffey** 🔴 +2 | 179 |
+| 63 | Courtney Paris | 178 |
 | 64 | Vanessa Hayden | 177 |
 | 65 | Maya Moore | 176 |
 | 66 | Kia Vaughn | 175 |
