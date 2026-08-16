@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-16 21:39 UTC_
+_Last updated: 2026-08-16 21:40 UTC_
 
 ## Contents
 
@@ -291,8 +291,8 @@ _Last updated: 2026-08-16 21:39 UTC_
 | 65 | Sue Bird | 1,466 |
 | 66 | Cheyenne Parker-Tyus | 1,463 |
 | 67 | Nicole Powell | 1,457 |
-| 68 | Tamera Young | 1,433 |
-| 69 | **Monique Billings** 🔴 +1 | 1,432 |
+| 68 | **Monique Billings** 🔴 +3 | 1,434 |
+| 69 | Tamera Young | 1,433 |
 | 70 | Alana Beard | 1,420 |
 | 71 | Nakia Sanford | 1,419 |
 | 72 | Kayla Thornton | 1,408 |
@@ -431,7 +431,7 @@ _Last updated: 2026-08-16 21:39 UTC_
 | Rank | Player | Total |
 |-----:|--------|------:|
 | 1 | Sue Bird | 3,234 |
-| 2 | **Courtney Vandersloot** 🔴 +1 | 2,895 |
+| 2 | **Courtney Vandersloot** 🔴 +2 | 2,896 |
 | 3 | Ticha Penicheiro | 2,588 |
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
@@ -720,7 +720,7 @@ _Last updated: 2026-08-16 21:39 UTC_
 | 83 | Shavonte Zellous | 139 |
 | 84 | Brittney Sykes | 136 |
 | 84 | Penny Taylor | 136 |
-| 86 | **Monique Billings** 🔴 | 134 |
+| 86 | **Monique Billings** 🔴 +1 | 135 |
 | 87 | Devereaux Peters | 133 |
 | 87 | Nicky Anosike | 133 |
 | 87 | Olivia Nelson-Ododa | 133 |
@@ -733,10 +733,10 @@ _Last updated: 2026-08-16 21:39 UTC_
 | 96 | Alyssa Thomas | 127 |
 | 96 | Chelsea Gray | 127 |
 | 96 | Chiney Ogwumike | 127 |
+| 96 | **Kamilla Cardoso** 🔴 +3 | 127 |
 | 96 | Kristen Rasmussen | 127 |
-| 100 | **Kamilla Cardoso** 🔴 +2 | 126 |
-| 100 | Katie Douglas | 126 |
-| 100 | Mistie Bass | 126 |
+| 101 | Katie Douglas | 126 |
+| 101 | Mistie Bass | 126 |
 | 103 | Brionna Jones | 125 |
 | 104 | Natasha Mack | 123 |
 | 105 | Natalie Williams | 122 |
@@ -1413,7 +1413,7 @@ _Last updated: 2026-08-16 21:39 UTC_
 | 158 | Anna DeForge | 374 |
 | 158 | Cheryl Ford | 374 |
 | 160 | Allison Feaster | 372 |
-| 161 | **Caitlin Clark** 🔴 +1 | 369 |
+| 161 | **Caitlin Clark** 🔴 +2 | 370 |
 | 162 | Emma Meesseman | 367 |
 | 163 | Latasha Byears | 360 |
 | 164 | Vicky Bullett | 359 |
