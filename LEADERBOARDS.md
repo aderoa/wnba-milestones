@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-16 21:17 UTC_
+_Last updated: 2026-08-16 21:18 UTC_
 
 ## Contents
 
@@ -115,7 +115,7 @@ _Last updated: 2026-08-16 21:17 UTC_
 | 94 | Briann January | 3,082 |
 | 95 | Erika de Souza | 3,046 |
 | 96 | Shameka Christon | 3,039 |
-| 97 | **Natasha Cloud** 🔴 +2 | 3,020 |
+| 97 | **Natasha Cloud** 🔴 +5 | 3,023 |
 | 98 | Marie Ferdinand-Harris | 3,001 |
 | 99 | Emma Meesseman | 2,966 |
 | 100 | **Elizabeth Williams** 🔴 | 2,933 |
@@ -332,8 +332,8 @@ _Last updated: 2026-08-16 21:17 UTC_
 | 106 | NaLyssa Smith | 1,172 |
 | 107 | Brittney Sykes | 1,162 |
 | 108 | Nykesha Sales | 1,148 |
+| 109 | **Natasha Cloud** 🔴 +2 | 1,143 |
 | 109 | Shannon Johnson | 1,143 |
-| 110 | **Natasha Cloud** 🔴 +1 | 1,142 |
 | 111 | Adrian Williams-Strong | 1,131 |
 | 112 | Andrea Stinson | 1,127 |
 | 112 | Tamika Raymond | 1,127 |
@@ -347,7 +347,7 @@ _Last updated: 2026-08-16 21:17 UTC_
 | 121 | Svetlana Abrosimova | 1,078 |
 | 122 | Le'coe Willingham | 1,054 |
 | 123 | Nicole Ohlde | 1,040 |
-| 124 | **Angel Reese** 🔴 +3 | 1,038 |
+| 124 | **Angel Reese** 🔴 +4 | 1,039 |
 | 125 | Tamecka Dixon | 1,035 |
 | 126 | Kamila Vodichkova | 1,031 |
 | 127 | Jasmine Thomas | 1,027 |
@@ -564,7 +564,7 @@ _Last updated: 2026-08-16 21:17 UTC_
 | 132 | Crystal Robinson | 488 |
 | 132 | Tiffany Mitchell | 488 |
 | 134 | Rebekkah Brunson | 486 |
-| 135 | **Elizabeth Williams** 🔴 | 479 |
+| 135 | **Elizabeth Williams** 🔴 +1 | 480 |
 | 136 | Satou Sabally | 476 |
 | 137 | Ukari Figgs | 470 |
 | 138 | Janeth Arcain | 469 |
@@ -1102,7 +1102,7 @@ _Last updated: 2026-08-16 21:17 UTC_
 | 51 | Kia Nurse | 368 |
 | 53 | Nykesha Sales | 352 |
 | 54 | Jackie Young | 346 |
-| 55 | **Natasha Cloud** 🔴 | 345 |
+| 54 | **Natasha Cloud** 🔴 +1 | 346 |
 | 56 | Cathrine Kraayeveld | 343 |
 | 56 | Elena Delle Donne | 343 |
 | 58 | Candace Parker | 342 |
@@ -1632,9 +1632,9 @@ _Last updated: 2026-08-16 21:17 UTC_
 | 170 | Napheesa Collier | 504 |
 | 173 | Iziane Castro Marques | 502 |
 | 174 | Elena Baranova | 501 |
-| 175 | **Rachel Banham** 🔴 +1 | 498 |
-| 176 | Adrian Williams-Strong | 497 |
-| 176 | Essence Carson | 497 |
+| 175 | Adrian Williams-Strong | 497 |
+| 175 | Essence Carson | 497 |
+| 175 | **Rachel Banham** 🔴 | 497 |
 | 178 | **Azurá Stevens** 🔴 | 495 |
 | 178 | Nia Coffey | 495 |
 | 180 | Karima Christmas-Kelly | 494 |
