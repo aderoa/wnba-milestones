@@ -175,7 +175,7 @@ _Last updated: 2026-08-16 23:22 UTC_
 | 154 | Tari Phillips | 2,134 |
 | 155 | Cheryl Ford | 2,116 |
 | 156 | Elena Baranova | 2,110 |
-| 157 | **Aliyah Boston** 🔴 +16 | 2,103 |
+| 157 | **Aliyah Boston** 🔴 +18 | 2,105 |
 | 158 | Aerial Powers | 2,068 |
 | 159 | Coco Miller | 2,030 |
 | 160 | Diamond DeShields | 2,026 |
