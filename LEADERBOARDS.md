@@ -284,7 +284,7 @@ _Last updated: 2026-08-16 02:01 UTC_
 | 58 | Katie Douglas | 1,562 |
 | 59 | Angel McCoughtry | 1,561 |
 | 60 | Penny Taylor | 1,552 |
-| 61 | **Napheesa Collier** 🔴 +4 | 1,514 |
+| 61 | **Napheesa Collier** 🔴 +5 | 1,515 |
 | 62 | Cappie Pondexter | 1,513 |
 | 63 | Ticha Penicheiro | 1,485 |
 | 64 | Alysha Clark | 1,469 |
