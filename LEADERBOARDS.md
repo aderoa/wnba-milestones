@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-16 00:06 UTC_
+_Last updated: 2026-08-16 00:08 UTC_
 
 ## Contents
 
@@ -1281,7 +1281,7 @@ _Last updated: 2026-08-16 00:06 UTC_
 | 26 | **Natasha Howard** 🔴 | 843 |
 | 27 | DeWanna Bonner | 840 |
 | 28 | Katie Douglas | 824 |
-| 29 | **Nneka Ogwumike** 🔴 +2 | 805 |
+| 29 | **Nneka Ogwumike** 🔴 +1 | 804 |
 | 30 | Betty Lennox | 800 |
 | 31 | Jasmine Thomas | 796 |
 | 32 | Jewell Loyd | 795 |
@@ -1471,7 +1471,7 @@ _Last updated: 2026-08-16 00:06 UTC_
 | 11 | Chasity Melvin | 1,165 |
 | 12 | Camille Smith | 1,159 |
 | 13 | **Natasha Howard** 🔴 | 1,158 |
-| 14 | **Nneka Ogwumike** 🔴 +1 | 1,157 |
+| 14 | **Nneka Ogwumike** 🔴 | 1,156 |
 | 15 | Alana Beard | 1,153 |
 | 16 | Swin Cash | 1,146 |
 | 17 | Taj McWilliams-Franklin | 1,145 |
@@ -1625,11 +1625,11 @@ _Last updated: 2026-08-16 00:06 UTC_
 | 165 | Vicky Bullett | 507 |
 | 166 | Merlakia Jones | 506 |
 | 167 | Isabelle Harrison | 505 |
+| 167 | **Napheesa Collier** 🔴 +1 | 505 |
 | 167 | Rushia Brown | 505 |
 | 167 | Shekinna Stricklen | 505 |
-| 170 | Allison Feaster | 504 |
-| 170 | Erin Perperoglou | 504 |
-| 170 | **Napheesa Collier** 🔴 | 504 |
+| 171 | Allison Feaster | 504 |
+| 171 | Erin Perperoglou | 504 |
 | 173 | Iziane Castro Marques | 502 |
 | 174 | Elena Baranova | 501 |
 | 175 | Adrian Williams-Strong | 497 |
