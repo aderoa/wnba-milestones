@@ -903,8 +903,8 @@ _Last updated: 2026-08-16 01:21 UTC_
 | 59 | Chamique Holdsclaw | 376 |
 | 60 | Brittney Sykes | 371 |
 | 61 | Mwadi Mabika | 370 |
-| 62 | **A'ja Wilson** 🔴 +1 | 362 |
-| 62 | **Erica Wheeler** 🔴 +1 | 362 |
+| 62 | **A'ja Wilson** 🔴 +2 | 363 |
+| 63 | **Erica Wheeler** 🔴 +1 | 362 |
 | 64 | Lauren Jackson | 360 |
 | 64 | Tan White | 360 |
 | 66 | Vickie Johnson | 357 |
@@ -921,10 +921,10 @@ _Last updated: 2026-08-16 01:21 UTC_
 | 77 | Armintie Herrington | 340 |
 | 78 | Dawn Staley | 338 |
 | 79 | Odyssey Sims | 334 |
+| 80 | **Courtney Williams** 🔴 +2 | 331 |
 | 80 | Marie Ferdinand-Harris | 331 |
-| 81 | Chasity Melvin | 330 |
-| 81 | **Courtney Williams** 🔴 +1 | 330 |
-| 81 | Leilani Mitchell | 330 |
+| 82 | Chasity Melvin | 330 |
+| 82 | Leilani Mitchell | 330 |
 | 84 | Kristi Toliver | 329 |
 | 85 | Matee Ajavon | 328 |
 | 86 | Gabby Williams | 326 |
@@ -1284,8 +1284,8 @@ _Last updated: 2026-08-16 01:21 UTC_
 | 28 | Katie Douglas | 824 |
 | 29 | **Nneka Ogwumike** 🔴 +2 | 805 |
 | 30 | Betty Lennox | 800 |
-| 31 | Jasmine Thomas | 796 |
-| 31 | **Jewell Loyd** 🔴 +1 | 796 |
+| 31 | **Jewell Loyd** 🔴 +2 | 797 |
+| 32 | Jasmine Thomas | 796 |
 | 33 | Chamique Holdsclaw | 789 |
 | 34 | Crystal Langhorne | 782 |
 | 35 | Camille Smith | 779 |
@@ -1308,8 +1308,8 @@ _Last updated: 2026-08-16 01:21 UTC_
 | 52 | DeMya Walker | 684 |
 | 53 | Asjha Jones | 682 |
 | 54 | Danielle Robinson | 680 |
+| 55 | **Courtney Williams** 🔴 +2 | 677 |
 | 55 | Sheryl Swoopes | 677 |
-| 56 | **Courtney Williams** 🔴 +1 | 676 |
 | 57 | Tammy Sutton-Brown | 672 |
 | 58 | Deanna Nolan | 669 |
 | 59 | Chasity Melvin | 666 |
@@ -1550,10 +1550,10 @@ _Last updated: 2026-08-16 01:21 UTC_
 | 89 | Danielle Robinson | 692 |
 | 90 | Sophia Young-Malcolm | 687 |
 | 91 | Breanna Stewart | 686 |
+| 91 | **Jewell Loyd** 🔴 +2 | 686 |
 | 91 | Maya Moore | 686 |
-| 93 | Cheyenne Parker-Tyus | 685 |
-| 93 | Jasmine Thomas | 685 |
-| 93 | **Jewell Loyd** 🔴 +1 | 685 |
+| 94 | Cheyenne Parker-Tyus | 685 |
+| 94 | Jasmine Thomas | 685 |
 | 96 | Leilani Mitchell | 684 |
 | 97 | Crystal Robinson | 682 |
 | 97 | Kayla Thornton | 682 |
