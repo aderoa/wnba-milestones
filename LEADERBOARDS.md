@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-16 01:39 UTC_
+_Last updated: 2026-08-16 01:40 UTC_
 
 ## Contents
 
@@ -877,7 +877,7 @@ _Last updated: 2026-08-16 01:39 UTC_
 | 33 | Rebekkah Brunson | 456 |
 | 34 | Tangela Smith | 455 |
 | 35 | Tina Thompson | 452 |
-| 36 | **Kayla McBride** 🔴 +5 | 451 |
+| 36 | **Kayla McBride** 🔴 +4 | 450 |
 | 37 | Maya Moore | 449 |
 | 38 | Sheri Sam | 438 |
 | 39 | Camille Smith | 437 |
