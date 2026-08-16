@@ -58,7 +58,7 @@ _Last updated: 2026-08-16 00:06 UTC_
 | 37 | Chamique Holdsclaw | 4,713 |
 | 38 | Elena Delle Donne | 4,706 |
 | 39 | **Natasha Howard** 🔴 | 4,682 |
-| 40 | **Chelsea Gray** 🔴 | 4,625 |
+| 40 | **Chelsea Gray** 🔴 +3 | 4,628 |
 | 41 | Penny Taylor | 4,595 |
 | 42 | Kelsey Plum | 4,494 |
 | 43 | Allisha Gray | 4,491 |
@@ -329,7 +329,7 @@ _Last updated: 2026-08-16 00:06 UTC_
 | 103 | Latasha Byears | 1,190 |
 | 103 | Tanisha Wright | 1,190 |
 | 105 | Vicky Bullett | 1,189 |
-| 106 | **NaLyssa Smith** 🔴 | 1,172 |
+| 106 | **NaLyssa Smith** 🔴 +1 | 1,173 |
 | 107 | Brittney Sykes | 1,162 |
 | 108 | Nykesha Sales | 1,148 |
 | 109 | Shannon Johnson | 1,143 |
@@ -434,7 +434,7 @@ _Last updated: 2026-08-16 00:06 UTC_
 | 3 | Ticha Penicheiro | 2,588 |
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
-| 6 | **Chelsea Gray** 🔴 | 2,003 |
+| 6 | **Chelsea Gray** 🔴 +1 | 2,004 |
 | 7 | Alyssa Thomas | 1,971 |
 | 8 | Skylar Diggins | 1,852 |
 | 9 | Natasha Cloud | 1,802 |
@@ -461,7 +461,7 @@ _Last updated: 2026-08-16 00:06 UTC_
 | 30 | Leilani Mitchell | 1,197 |
 | 31 | DeWanna Bonner | 1,196 |
 | 32 | Jewell Loyd | 1,156 |
-| 33 | **Jackie Young** 🔴 | 1,150 |
+| 33 | **Jackie Young** 🔴 +1 | 1,151 |
 | 34 | Renee Montgomery | 1,140 |
 | 35 | Swin Cash | 1,131 |
 | 36 | Sabrina Ionescu | 1,092 |
@@ -1077,7 +1077,7 @@ _Last updated: 2026-08-16 00:06 UTC_
 | 28 | Allisha Gray | 458 |
 | 29 | **Ariel Atkins** 🔴 | 455 |
 | 30 | Tiffany Hayes | 454 |
-| 31 | **Chelsea Gray** 🔴 | 450 |
+| 31 | **Chelsea Gray** 🔴 +1 | 451 |
 | 32 | Skylar Diggins | 447 |
 | 33 | Lauren Jackson | 436 |
 | 34 | Shameka Christon | 434 |
