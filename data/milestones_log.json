@@ -1,5 +1,26 @@
 [
   {
+    "ts": "2026-08-16T01:34:00+00:00",
+    "text": "Nia Coffey reached 200 career three-pointers (now 200) \u2014 (9.6 - 3rd \u2014 MIN @ LV)",
+    "kind": "round",
+    "player": "Nia Coffey",
+    "stat": "three-pointers",
+    "value": 200,
+    "new_total": 200
+  },
+  {
+    "ts": "2026-08-16T01:34:00+00:00",
+    "text": "Nia Coffey passed Shanna Zolman for #110 all-time in three-pointers (career 200) \u2014 up from #113 entering today \u2014 (9.6 - 3rd \u2014 MIN @ LV)",
+    "kind": "rank_pass",
+    "player": "Nia Coffey",
+    "stat": "three-pointers",
+    "rank": 110,
+    "passed_players": [
+      "Shanna Zolman"
+    ],
+    "new_total": 200
+  },
+  {
     "ts": "2026-08-13T03:54:00+00:00",
     "text": "Tiffany Hayes passed Janel McCarville for #91 all-time in rebounds (career 1,262) \u2014 up from #94 entering today \u2014 (9:04 - 4th \u2014 CHI @ GS)",
     "kind": "rank_pass",
@@ -2970,28 +2991,5 @@
       "Betnijah Laney-Hamilton"
     ],
     "new_total": 208
-  },
-  {
-    "ts": "2026-07-05T02:24:00+00:00",
-    "text": "Katie Lou Samuelson reached 100 career steals (now 100) \u2014 (End of 3rd \u2014 POR @ SEA)",
-    "kind": "round",
-    "player": "Katie Lou Samuelson",
-    "stat": "steals",
-    "value": 100,
-    "new_total": 100
-  },
-  {
-    "ts": "2026-07-05T02:18:00+00:00",
-    "text": "Katie Lou Samuelson passed Bridget Pettis, Gabby Williams, and Jennifer Gillom for #143 all-time in three-pointers (career 154) \u2014 up from #146 entering today \u2014 (2:47 - 3rd \u2014 POR @ SEA)",
-    "kind": "rank_pass",
-    "player": "Katie Lou Samuelson",
-    "stat": "three-pointers",
-    "rank": 143,
-    "passed_players": [
-      "Bridget Pettis",
-      "Gabby Williams",
-      "Jennifer Gillom"
-    ],
-    "new_total": 154
   }
 ]

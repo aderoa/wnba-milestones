@@ -2,6 +2,11 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-08-16 01:34 UTC
+
+- **Nia Coffey** reached **200** career three-pointers (now 200) — _9.6 - 3rd — MIN @ LV_
+- **Nia Coffey** passed **Shanna Zolman** for **#110** all-time in three-pointers (career 200) — up from #113 entering today — _9.6 - 3rd — MIN @ LV_
+
 ## 2026-08-13 03:54 UTC
 
 - **Tiffany Hayes** passed **Janel McCarville** for **#91** all-time in rebounds (career 1,262) — up from #94 entering today — _9:04 - 4th — CHI @ GS_
