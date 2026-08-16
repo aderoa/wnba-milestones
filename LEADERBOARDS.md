@@ -323,8 +323,8 @@ _Last updated: 2026-08-16 23:24 UTC_
 | 97 | Brianna Turner | 1,243 |
 | 98 | Seimone Augustus | 1,228 |
 | 99 | Jia Perkins | 1,220 |
-| 100 | **Aliyah Boston** 🔴 +13 | 1,211 |
-| 101 | **Kahleah Copper** 🔴 | 1,204 |
+| 100 | **Aliyah Boston** 🔴 +14 | 1,212 |
+| 101 | **Kahleah Copper** 🔴 +1 | 1,205 |
 | 102 | DeMya Walker | 1,199 |
 | 103 | Latasha Byears | 1,190 |
 | 103 | Tanisha Wright | 1,190 |
