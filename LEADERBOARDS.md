@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-16 23:14 UTC_
+_Last updated: 2026-08-16 23:15 UTC_
 
 ## Contents
 
@@ -231,7 +231,7 @@ _Last updated: 2026-08-16 23:14 UTC_
 | 5 | Rebekkah Brunson | 3,345 |
 | 6 | Tamika Catchings | 3,313 |
 | 7 | Lisa Leslie | 3,303 |
-| 8 | **DeWanna Bonner** 🔴 +1 | 3,291 |
+| 8 | **DeWanna Bonner** 🔴 +2 | 3,292 |
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
@@ -346,7 +346,7 @@ _Last updated: 2026-08-16 23:14 UTC_
 | 120 | Jackie Young | 1,085 |
 | 121 | Svetlana Abrosimova | 1,078 |
 | 122 | Le'coe Willingham | 1,054 |
-| 123 | **Angel Reese** 🔴 +13 | 1,048 |
+| 123 | **Angel Reese** 🔴 +14 | 1,049 |
 | 124 | Nicole Ohlde | 1,040 |
 | 125 | Tamecka Dixon | 1,035 |
 | 126 | Kamila Vodichkova | 1,031 |
@@ -418,7 +418,7 @@ _Last updated: 2026-08-16 23:14 UTC_
 | 192 | Alex Montgomery | 735 |
 | 193 | Ashley Robinson | 734 |
 | 194 | Shenise Johnson | 729 |
-| 195 | **Sami Whitcomb** 🔴 +1 | 727 |
+| 195 | **Sami Whitcomb** 🔴 +2 | 728 |
 | 196 | Shekinna Stricklen | 726 |
 | 197 | Olympia Scott | 711 |
 | 198 | Katie Mattera | 708 |
@@ -706,7 +706,7 @@ _Last updated: 2026-08-16 23:14 UTC_
 | 69 | Jantel Lavender | 170 |
 | 70 | Camille Smith | 169 |
 | 71 | Shameka Christon | 165 |
-| 72 | **Aliyah Boston** 🔴 +2 | 162 |
+| 72 | **Aliyah Boston** 🔴 +3 | 163 |
 | 73 | Cheryl Ford | 160 |
 | 74 | **Allisha Gray** 🔴 | 157 |
 | 74 | Kara Braxton | 157 |
@@ -1394,7 +1394,7 @@ _Last updated: 2026-08-16 23:14 UTC_
 | 138 | Napheesa Collier | 422 |
 | 138 | Noelle Quinn | 422 |
 | 141 | Bria Hartley | 419 |
-| 142 | **Sami Whitcomb** 🔴 | 416 |
+| 142 | **Sami Whitcomb** 🔴 +1 | 417 |
 | 143 | Coco Miller | 410 |
 | 144 | Epiphanny Prince | 408 |
 | 145 | Cathrine Kraayeveld | 406 |
