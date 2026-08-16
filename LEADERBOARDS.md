@@ -115,7 +115,7 @@ _Last updated: 2026-08-16 22:31 UTC_
 | 94 | Briann January | 3,082 |
 | 95 | Erika de Souza | 3,046 |
 | 96 | Shameka Christon | 3,039 |
-| 97 | **Natasha Cloud** 🔴 +15 | 3,033 |
+| 97 | **Natasha Cloud** 🔴 +16 | 3,034 |
 | 98 | Marie Ferdinand-Harris | 3,001 |
 | 99 | Emma Meesseman | 2,966 |
 | 100 | **Elizabeth Williams** 🔴 | 2,933 |
@@ -180,7 +180,7 @@ _Last updated: 2026-08-16 22:31 UTC_
 | 159 | Coco Miller | 2,030 |
 | 160 | Diamond DeShields | 2,026 |
 | 161 | Vicky Bullett | 2,018 |
-| 162 | **Ezi Magbegor** 🔴 +10 | 2,005 |
+| 162 | **Ezi Magbegor** 🔴 +12 | 2,007 |
 | 163 | Natisha Hiedeman | 2,002 |
 | 164 | Bria Hartley | 1,967 |
 | 165 | Chiney Ogwumike | 1,964 |
