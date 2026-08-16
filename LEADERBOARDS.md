@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-16 22:52 UTC_
+_Last updated: 2026-08-16 22:53 UTC_
 
 ## Contents
 
@@ -200,7 +200,7 @@ _Last updated: 2026-08-16 22:52 UTC_
 | 179 | NaLyssa Smith | 1,879 |
 | 180 | **Rachel Banham** 🔴 +5 | 1,848 |
 | 181 | Damiris Dantas | 1,842 |
-| 182 | **Sophie Cunningham** 🔴 +2 | 1,831 |
+| 182 | **Sophie Cunningham** 🔴 +3 | 1,832 |
 | 183 | Tianna Hawkins | 1,825 |
 | 184 | Noelle Quinn | 1,824 |
 | 185 | Danielle Adams | 1,820 |
@@ -297,7 +297,7 @@ _Last updated: 2026-08-16 22:52 UTC_
 | 71 | Nakia Sanford | 1,419 |
 | 72 | **Allisha Gray** 🔴 +6 | 1,410 |
 | 73 | Kayla Thornton | 1,408 |
-| 74 | **Courtney Vandersloot** 🔴 +4 | 1,390 |
+| 74 | **Courtney Vandersloot** 🔴 +5 | 1,391 |
 | 75 | Kara Braxton | 1,387 |
 | 76 | Katie Smith | 1,383 |
 | 77 | Ebony Hoffman | 1,376 |
@@ -781,8 +781,8 @@ _Last updated: 2026-08-16 22:52 UTC_
 | 143 | Kayla Alexander | 91 |
 | 145 | Allie Quigley | 90 |
 | 145 | Alysha Clark | 90 |
-| 147 | **Natasha Cloud** 🔴 | 89 |
-| 147 | Tiffany Hayes | 89 |
+| 145 | **Natasha Cloud** 🔴 +1 | 90 |
+| 148 | Tiffany Hayes | 89 |
 | 149 | Marissa Coleman | 88 |
 | 150 | Astou Ndiaye-Diatta | 86 |
 | 151 | Adrian Williams-Strong | 85 |
@@ -1492,9 +1492,9 @@ _Last updated: 2026-08-16 22:52 UTC_
 | 32 | Asjha Jones | 971 |
 | 33 | Margo Dydek | 950 |
 | 34 | Sancho Lyttle | 947 |
+| 35 | **Courtney Vandersloot** 🔴 +1 | 941 |
 | 35 | Mwadi Mabika | 941 |
-| 36 | **Courtney Vandersloot** 🔴 | 940 |
-| 36 | Tamika Whitmore | 940 |
+| 37 | Tamika Whitmore | 940 |
 | 38 | DeWanna Bonner | 922 |
 | 39 | Briann January | 921 |
 | 40 | Jonquel Jones | 913 |
@@ -1657,4 +1657,4 @@ _Last updated: 2026-08-16 22:52 UTC_
 | 197 | Sue Wicks | 462 |
 | 198 | Natalie Achonwa | 459 |
 | 199 | Kara Lawson | 457 |
-| 200 | **Aliyah Boston** 🔴 +1 | 455 |
+| 200 | **Aliyah Boston** 🔴 +2 | 456 |
