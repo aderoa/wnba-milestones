@@ -244,7 +244,7 @@ _Last updated: 2026-08-16 01:02 UTC_
 | 18 | DeLisha Milton-Jones | 2,574 |
 | 19 | Swin Cash | 2,521 |
 | 20 | Michelle Snow | 2,476 |
-| 21 | **Dearica Hamby** 🔴 +6 | 2,461 |
+| 21 | **Dearica Hamby** 🔴 +7 | 2,462 |
 | 22 | Crystal Langhorne | 2,454 |
 | 23 | Lauren Jackson | 2,444 |
 | 24 | Yolanda Griffith | 2,440 |
@@ -1244,8 +1244,8 @@ _Last updated: 2026-08-16 01:02 UTC_
 | 195 | Belinda Snell | 108 |
 | 196 | Layshia Clarendon | 107 |
 | 197 | Laurie Koehn | 105 |
-| 198 | Julie Vanloo | 104 |
-| 198 | **Sonia Citron** 🔴 +2 | 104 |
+| 197 | **Sonia Citron** 🔴 +3 | 105 |
+| 199 | Julie Vanloo | 104 |
 | 200 | **A'ja Wilson** 🔴 +1 | 103 |
 | 200 | Jeanette Pohlen-Mavunga | 103 |
 | 200 | Kiesha Brown | 103 |
