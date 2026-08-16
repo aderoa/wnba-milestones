@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-16 22:42 UTC_
+_Last updated: 2026-08-16 22:43 UTC_
 
 ## Contents
 
@@ -60,7 +60,7 @@ _Last updated: 2026-08-16 22:42 UTC_
 | 39 | Natasha Howard | 4,682 |
 | 40 | Chelsea Gray | 4,625 |
 | 41 | Penny Taylor | 4,595 |
-| 42 | **Allisha Gray** 🔴 +29 | 4,520 |
+| 42 | **Allisha Gray** 🔴 +32 | 4,523 |
 | 43 | Kelsey Plum | 4,494 |
 | 44 | Kristi Toliver | 4,474 |
 | 45 | Kahleah Copper | 4,437 |
@@ -180,7 +180,7 @@ _Last updated: 2026-08-16 22:42 UTC_
 | 159 | Coco Miller | 2,030 |
 | 160 | Diamond DeShields | 2,026 |
 | 161 | Vicky Bullett | 2,018 |
-| 162 | **Ezi Magbegor** 🔴 +12 | 2,007 |
+| 162 | **Ezi Magbegor** 🔴 +14 | 2,009 |
 | 163 | Natisha Hiedeman | 2,002 |
 | 164 | Bria Hartley | 1,967 |
 | 165 | Chiney Ogwumike | 1,964 |
@@ -319,7 +319,7 @@ _Last updated: 2026-08-16 22:42 UTC_
 | 93 | Chelsea Gray | 1,257 |
 | 93 | Tiffany Hayes | 1,257 |
 | 95 | Kayla McBride | 1,256 |
-| 96 | **Ezi Magbegor** 🔴 +3 | 1,246 |
+| 96 | **Ezi Magbegor** 🔴 +4 | 1,247 |
 | 97 | Brianna Turner | 1,243 |
 | 98 | Seimone Augustus | 1,228 |
 | 99 | Jia Perkins | 1,220 |
@@ -1075,7 +1075,7 @@ _Last updated: 2026-08-16 22:42 UTC_
 | 24 | Shekinna Stricklen | 468 |
 | 26 | Breanna Stewart | 465 |
 | 27 | Cappie Pondexter | 464 |
-| 28 | **Allisha Gray** 🔴 +3 | 461 |
+| 28 | **Allisha Gray** 🔴 +4 | 462 |
 | 29 | Ariel Atkins | 455 |
 | 30 | Tiffany Hayes | 454 |
 | 31 | Chelsea Gray | 450 |
@@ -1632,8 +1632,8 @@ _Last updated: 2026-08-16 22:42 UTC_
 | 170 | Napheesa Collier | 504 |
 | 173 | Iziane Castro Marques | 502 |
 | 174 | Elena Baranova | 501 |
-| 175 | **Azurá Stevens** 🔴 +3 | 498 |
-| 175 | **Rachel Banham** 🔴 +1 | 498 |
+| 175 | **Rachel Banham** 🔴 +2 | 499 |
+| 176 | **Azurá Stevens** 🔴 +3 | 498 |
 | 177 | Adrian Williams-Strong | 497 |
 | 177 | Essence Carson | 497 |
 | 179 | Nia Coffey | 495 |
