@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-16 01:46 UTC_
+_Last updated: 2026-08-16 01:47 UTC_
 
 ## Contents
 
@@ -58,7 +58,7 @@ _Last updated: 2026-08-16 01:46 UTC_
 | 37 | Chamique Holdsclaw | 4,713 |
 | 38 | Elena Delle Donne | 4,706 |
 | 39 | **Natasha Howard** 🔴 +13 | 4,695 |
-| 40 | **Chelsea Gray** 🔴 +5 | 4,630 |
+| 40 | **Chelsea Gray** 🔴 +7 | 4,632 |
 | 41 | Penny Taylor | 4,595 |
 | 42 | Kelsey Plum | 4,494 |
 | 43 | Allisha Gray | 4,491 |
@@ -87,7 +87,7 @@ _Last updated: 2026-08-16 01:46 UTC_
 | 66 | Kara Lawson | 3,670 |
 | 67 | Mwadi Mabika | 3,576 |
 | 68 | Odyssey Sims | 3,574 |
-| 69 | **Napheesa Collier** 🔴 +11 | 3,553 |
+| 69 | **Napheesa Collier** 🔴 +17 | 3,559 |
 | 70 | Camille Smith | 3,551 |
 | 71 | Shannon Johnson | 3,542 |
 | 72 | Renee Montgomery | 3,533 |
@@ -1163,9 +1163,9 @@ _Last updated: 2026-08-16 01:46 UTC_
 | 114 | Caitlin Clark | 195 |
 | 115 | Lindsay Whalen | 193 |
 | 116 | Victoria Vivians | 192 |
-| 117 | Danielle Adams | 188 |
-| 117 | Marine Johannès | 188 |
-| 117 | **Napheesa Collier** 🔴 | 188 |
+| 117 | **Napheesa Collier** 🔴 +2 | 190 |
+| 118 | Danielle Adams | 188 |
+| 118 | Marine Johannès | 188 |
 | 120 | Noelle Quinn | 184 |
 | 121 | Karima Christmas-Kelly | 181 |
 | 122 | Aerial Powers | 179 |
