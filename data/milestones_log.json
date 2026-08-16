@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-08-16T22:39:00+00:00",
+    "text": "Ezi Magbegor passed DeWanna Bonner for #22 all-time in blocks (career 359) \u2014 up from #23 entering today \u2014 (6:54 - 4th \u2014 CHI @ SEA)",
+    "kind": "rank_pass",
+    "player": "Ezi Magbegor",
+    "stat": "blocks",
+    "rank": 22,
+    "passed_players": [
+      "DeWanna Bonner"
+    ],
+    "new_total": 359
+  },
+  {
     "ts": "2026-08-16T22:34:00+00:00",
     "text": "Natasha Cloud passed Nykesha Sales for #108 all-time in rebounds (career 1,149) \u2014 up from #110 entering today \u2014 (8:11 - 4th \u2014 CHI @ SEA)",
     "kind": "rank_pass",
@@ -2975,17 +2987,5 @@
       "Tierra Ruffin-Pratt"
     ],
     "new_total": 195
-  },
-  {
-    "ts": "2026-07-05T19:07:00+00:00",
-    "text": "Marina Mabrey passed Rushia Brown for #146 all-time in steals (career 222) \u2014 (6:15 - 1st \u2014 DAL @ TOR)",
-    "kind": "rank_pass",
-    "player": "Marina Mabrey",
-    "stat": "steals",
-    "rank": 146,
-    "passed_players": [
-      "Rushia Brown"
-    ],
-    "new_total": 222
   }
 ]
