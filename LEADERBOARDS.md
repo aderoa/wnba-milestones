@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-17 00:55 UTC_
+_Last updated: 2026-08-17 00:56 UTC_
 
 ## Contents
 
@@ -738,7 +738,7 @@ _Last updated: 2026-08-17 00:55 UTC_
 | 101 | Katie Douglas | 126 |
 | 101 | Mistie Bass | 126 |
 | 103 | Brionna Jones | 125 |
-| 104 | **Natasha Mack** 🔴 | 123 |
+| 104 | **Natasha Mack** 🔴 +1 | 124 |
 | 105 | Natalie Williams | 122 |
 | 106 | Ebony Hoffman | 121 |
 | 106 | Essence Carson | 121 |
