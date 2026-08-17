@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-17 01:20 UTC_
+_Last updated: 2026-08-17 01:21 UTC_
 
 ## Contents
 
@@ -52,7 +52,7 @@ _Last updated: 2026-08-17 01:20 UTC_
 | 31 | Taj McWilliams-Franklin | 4,992 |
 | 32 | Maya Moore | 4,984 |
 | 33 | Sheryl Swoopes | 4,875 |
-| 34 | **Alyssa Thomas** 🔴 +14 | 4,766 |
+| 34 | **Alyssa Thomas** 🔴 +17 | 4,769 |
 | 35 | Alana Beard | 4,740 |
 | 36 | Arike Ogunbowale | 4,715 |
 | 37 | Chamique Holdsclaw | 4,713 |
@@ -855,7 +855,7 @@ _Last updated: 2026-08-17 01:20 UTC_
 | 10 | Angel McCoughtry | 627 |
 | 11 | Katie Douglas | 623 |
 | 12 | DeLisha Milton-Jones | 619 |
-| 13 | **Alyssa Thomas** 🔴 +2 | 584 |
+| 13 | **Alyssa Thomas** 🔴 +3 | 585 |
 | 14 | Taj McWilliams-Franklin | 577 |
 | 15 | Tully Bevilaqua | 571 |
 | 16 | Courtney Vandersloot | 548 |
@@ -1263,9 +1263,9 @@ _Last updated: 2026-08-17 01:20 UTC_
 | 8 | Swin Cash | 1,127 |
 | 9 | Ticha Penicheiro | 1,125 |
 | 10 | Candace Parker | 1,062 |
+| 11 | **Alyssa Thomas** 🔴 +6 | 1,041 |
 | 11 | Tamika Catchings | 1,041 |
-| 12 | **Alyssa Thomas** 🔴 +5 | 1,040 |
-| 12 | Tina Charles | 1,040 |
+| 13 | Tina Charles | 1,040 |
 | 14 | Lindsay Whalen | 1,002 |
 | 15 | Sylvia Fowles | 961 |
 | 16 | Tanisha Wright | 954 |
