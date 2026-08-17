@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-08-17 01:15 UTC
+
+- **Sami Whitcomb** passed **Cathrine Kraayeveld** and **Kia Nurse** for **#185** all-time in fouls (career 485) — up from #189 entering today — _20.3 - 4th — POR @ PHX_
+
 ## 2026-08-16 22:39 UTC
 
 - **Ezi Magbegor** passed **DeWanna Bonner** for **#22** all-time in blocks (career 359) — up from #23 entering today — _6:54 - 4th — CHI @ SEA_

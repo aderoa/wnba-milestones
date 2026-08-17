@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-08-17T01:15:00+00:00",
+    "text": "Sami Whitcomb passed Cathrine Kraayeveld and Kia Nurse for #185 all-time in fouls (career 485) \u2014 up from #189 entering today \u2014 (20.3 - 4th \u2014 POR @ PHX)",
+    "kind": "rank_pass",
+    "player": "Sami Whitcomb",
+    "stat": "fouls",
+    "rank": 185,
+    "passed_players": [
+      "Cathrine Kraayeveld",
+      "Kia Nurse"
+    ],
+    "new_total": 485
+  },
+  {
     "ts": "2026-08-16T22:39:00+00:00",
     "text": "Ezi Magbegor passed DeWanna Bonner for #22 all-time in blocks (career 359) \u2014 up from #23 entering today \u2014 (6:54 - 4th \u2014 CHI @ SEA)",
     "kind": "rank_pass",
@@ -2974,18 +2987,5 @@
       "Temeka Johnson"
     ],
     "new_total": 318
-  },
-  {
-    "ts": "2026-07-05T19:23:00+00:00",
-    "text": "Alanna Smith passed Sonja Henning and Tierra Ruffin-Pratt for #175 all-time in steals (career 195) \u2014 (1:25 - 1st \u2014 DAL @ TOR)",
-    "kind": "rank_pass",
-    "player": "Alanna Smith",
-    "stat": "steals",
-    "rank": 175,
-    "passed_players": [
-      "Sonja Henning",
-      "Tierra Ruffin-Pratt"
-    ],
-    "new_total": 195
   }
 ]
