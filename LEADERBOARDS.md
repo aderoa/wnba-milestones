@@ -324,7 +324,7 @@ _Last updated: 2026-08-17 00:23 UTC_
 | 98 | Seimone Augustus | 1,228 |
 | 99 | Jia Perkins | 1,220 |
 | 100 | Aliyah Boston | 1,212 |
-| 101 | **Kahleah Copper** 🔴 +5 | 1,209 |
+| 101 | **Kahleah Copper** 🔴 +6 | 1,210 |
 | 102 | DeMya Walker | 1,199 |
 | 103 | Latasha Byears | 1,190 |
 | 103 | Tanisha Wright | 1,190 |
@@ -1525,7 +1525,7 @@ _Last updated: 2026-08-17 00:23 UTC_
 | 65 | Natasha Cloud | 775 |
 | 65 | Sue Bird | 775 |
 | 67 | Sheri Sam | 766 |
-| 68 | **Kahleah Copper** 🔴 | 758 |
+| 68 | **Kahleah Copper** 🔴 +1 | 759 |
 | 69 | Allisha Gray | 757 |
 | 70 | Kia Vaughn | 755 |
 | 71 | Vickie Johnson | 752 |
