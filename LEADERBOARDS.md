@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-18 02:57 UTC_
+_Last updated: 2026-08-18 02:58 UTC_
 
 ## Contents
 
@@ -194,8 +194,8 @@ _Last updated: 2026-08-18 02:57 UTC_
 | 173 | Karima Christmas-Kelly | 1,919 |
 | 174 | Jessica Breland | 1,918 |
 | 175 | Nakia Sanford | 1,915 |
-| 176 | Ebony Hoffman | 1,909 |
-| 177 | **Gabby Williams** 🔴 +9 | 1,908 |
+| 176 | **Gabby Williams** 🔴 +11 | 1,910 |
+| 177 | Ebony Hoffman | 1,909 |
 | 178 | Candice Wiggins | 1,901 |
 | 179 | NaLyssa Smith | 1,879 |
 | 180 | Rachel Banham | 1,843 |
@@ -259,7 +259,7 @@ _Last updated: 2026-08-18 02:57 UTC_
 | 33 | Elizabeth Williams | 1,978 |
 | 34 | Cheryl Ford | 1,907 |
 | 35 | Courtney Williams | 1,843 |
-| 36 | **Kiah Stokes** 🔴 +2 | 1,837 |
+| 36 | **Kiah Stokes** 🔴 +3 | 1,838 |
 | 37 | Plenette Pierson | 1,834 |
 | 38 | Natalie Williams | 1,832 |
 | 39 | Wendy Palmer | 1,824 |
@@ -658,7 +658,7 @@ _Last updated: 2026-08-18 02:57 UTC_
 | 21 | Jessica Breland | 367 |
 | 22 | DeWanna Bonner | 358 |
 | 23 | Ezi Magbegor | 354 |
-| 24 | **Kiah Stokes** 🔴 | 352 |
+| 24 | **Kiah Stokes** 🔴 +1 | 353 |
 | 25 | Diana Taurasi | 349 |
 | 25 | Elena Delle Donne | 349 |
 | 27 | DeLisha Milton-Jones | 339 |
@@ -1425,8 +1425,8 @@ _Last updated: 2026-08-18 02:57 UTC_
 | 170 | Satou Sabally | 345 |
 | 171 | Teaira McCowan | 340 |
 | 172 | Loree Moore | 339 |
-| 173 | Charlotte Smith | 337 |
-| 173 | **Gabby Williams** 🔴 +1 | 337 |
+| 173 | **Gabby Williams** 🔴 +2 | 338 |
+| 174 | Charlotte Smith | 337 |
 | 175 | Scholanda Dorrell | 335 |
 | 176 | Aerial Powers | 333 |
 | 176 | Diamond DeShields | 333 |
@@ -1553,8 +1553,8 @@ _Last updated: 2026-08-18 02:57 UTC_
 | 92 | Cheyenne Parker-Tyus | 685 |
 | 92 | Jasmine Thomas | 685 |
 | 95 | Jewell Loyd | 684 |
+| 95 | **Kayla Thornton** 🔴 +2 | 684 |
 | 95 | Leilani Mitchell | 684 |
-| 97 | **Kayla Thornton** 🔴 +1 | 683 |
 | 98 | Crystal Robinson | 682 |
 | 99 | Jennifer Lacy | 680 |
 | 99 | Temeka Johnson | 680 |
