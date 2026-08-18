@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-08-18T23:45:00+00:00",
+    "text": "Brittney Sykes passed Matee Ajavon and Nicole Powell for #84 all-time in fouls (career 702) \u2014 (3:51 - 2nd \u2014 IND @ TOR)",
+    "kind": "rank_pass",
+    "player": "Brittney Sykes",
+    "stat": "fouls",
+    "rank": 84,
+    "passed_players": [
+      "Matee Ajavon",
+      "Nicole Powell"
+    ],
+    "new_total": 702
+  },
+  {
     "ts": "2026-08-18T04:09:00+00:00",
     "text": "Gabby Williams passed Latasha Byears for #172 all-time in points (career 1,922) \u2014 up from #178 entering today \u2014 (28.3 - 4th \u2014 DAL @ GS)",
     "kind": "rank_pass",
@@ -2976,17 +2989,5 @@
       "Jia Perkins"
     ],
     "new_total": 104
-  },
-  {
-    "ts": "2026-07-05T19:46:00+00:00",
-    "text": "Arike Ogunbowale passed Lindsey Harding for #179 all-time in rebounds (career 780) \u2014 up from #181 entering today \u2014 (4:45 - 2nd \u2014 DAL @ TOR)",
-    "kind": "rank_pass",
-    "player": "Arike Ogunbowale",
-    "stat": "rebounds",
-    "rank": 179,
-    "passed_players": [
-      "Lindsey Harding"
-    ],
-    "new_total": 780
   }
 ]
