@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-18 23:23 UTC_
+_Last updated: 2026-08-18 23:24 UTC_
 
 ## Contents
 
@@ -200,7 +200,7 @@ _Last updated: 2026-08-18 23:23 UTC_
 | 179 | NaLyssa Smith | 1,879 |
 | 180 | Rachel Banham | 1,843 |
 | 181 | Damiris Dantas | 1,842 |
-| 182 | **Sophie Cunningham** 🔴 | 1,829 |
+| 182 | **Sophie Cunningham** 🔴 +1 | 1,830 |
 | 183 | Tianna Hawkins | 1,825 |
 | 184 | Noelle Quinn | 1,824 |
 | 185 | Danielle Adams | 1,820 |
@@ -330,7 +330,7 @@ _Last updated: 2026-08-18 23:23 UTC_
 | 103 | Tanisha Wright | 1,190 |
 | 105 | Vicky Bullett | 1,189 |
 | 106 | NaLyssa Smith | 1,172 |
-| 107 | **Brittney Sykes** 🔴 +1 | 1,163 |
+| 107 | **Brittney Sykes** 🔴 +2 | 1,164 |
 | 108 | Nykesha Sales | 1,148 |
 | 109 | Shannon Johnson | 1,143 |
 | 110 | Natasha Cloud | 1,141 |
@@ -1642,8 +1642,8 @@ _Last updated: 2026-08-18 23:23 UTC_
 | 181 | Riquna Williams | 493 |
 | 183 | Charde Houston | 487 |
 | 184 | Lindsey Harding | 486 |
-| 185 | Cathrine Kraayeveld | 484 |
-| 185 | **Kia Nurse** 🔴 | 484 |
+| 185 | **Kia Nurse** 🔴 +1 | 485 |
+| 186 | Cathrine Kraayeveld | 484 |
 | 187 | Liz Cambage | 483 |
 | 187 | Rhonda Mapp | 483 |
 | 189 | Sami Whitcomb | 480 |
