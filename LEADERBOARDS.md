@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-18 03:54 UTC_
+_Last updated: 2026-08-18 03:55 UTC_
 
 ## Contents
 
@@ -1423,8 +1423,8 @@ _Last updated: 2026-08-18 03:54 UTC_
 | 168 | Janell Burse | 347 |
 | 169 | Brionna Jones | 346 |
 | 170 | Satou Sabally | 345 |
-| 171 | **Gabby Williams** 🔴 +4 | 340 |
-| 171 | Teaira McCowan | 340 |
+| 171 | **Gabby Williams** 🔴 +5 | 341 |
+| 172 | Teaira McCowan | 340 |
 | 173 | Loree Moore | 339 |
 | 174 | Charlotte Smith | 337 |
 | 175 | Scholanda Dorrell | 335 |
