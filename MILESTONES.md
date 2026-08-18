@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-08-18 04:09 UTC
+
+- **Gabby Williams** passed **Latasha Byears** for **#172** all-time in points (career 1,922) — up from #178 entering today — _28.3 - 4th — DAL @ GS_
+
 ## 2026-08-18 03:56 UTC
 
 - **Gabby Williams** passed **Karima Christmas-Kelly** and **Jessica Breland** for **#173** all-time in points (career 1,920) — up from #178 entering today — _3:18 - 4th — DAL @ GS_
