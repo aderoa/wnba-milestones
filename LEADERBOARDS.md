@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-18 02:20 UTC_
+_Last updated: 2026-08-18 02:21 UTC_
 
 ## Contents
 
@@ -54,7 +54,7 @@ _Last updated: 2026-08-18 02:20 UTC_
 | 33 | Sheryl Swoopes | 4,875 |
 | 34 | Alyssa Thomas | 4,752 |
 | 35 | Alana Beard | 4,740 |
-| 36 | **Arike Ogunbowale** 🔴 | 4,715 |
+| 36 | **Arike Ogunbowale** 🔴 +2 | 4,717 |
 | 37 | Chamique Holdsclaw | 4,713 |
 | 38 | Elena Delle Donne | 4,706 |
 | 39 | Natasha Howard | 4,682 |
@@ -287,7 +287,7 @@ _Last updated: 2026-08-18 02:20 UTC_
 | 61 | Cappie Pondexter | 1,513 |
 | 62 | Napheesa Collier | 1,510 |
 | 63 | Ticha Penicheiro | 1,485 |
-| 64 | **Alysha Clark** 🔴 +2 | 1,471 |
+| 64 | **Alysha Clark** 🔴 +3 | 1,472 |
 | 65 | Sue Bird | 1,466 |
 | 66 | Cheyenne Parker-Tyus | 1,463 |
 | 67 | Nicole Powell | 1,457 |
@@ -478,8 +478,8 @@ _Last updated: 2026-08-18 02:20 UTC_
 | 46 | Breanna Stewart | 981 |
 | 47 | Tamecka Dixon | 960 |
 | 48 | Tiffany Hayes | 957 |
+| 49 | **Arike Ogunbowale** 🔴 +2 | 946 |
 | 49 | Kara Lawson | 946 |
-| 50 | **Arike Ogunbowale** 🔴 +1 | 945 |
 | 51 | Nneka Ogwumike | 933 |
 | 52 | Deanna Nolan | 930 |
 | 53 | Kelly Miller | 927 |
@@ -581,8 +581,8 @@ _Last updated: 2026-08-18 02:20 UTC_
 | 149 | DeMya Walker | 446 |
 | 150 | Essence Carson | 445 |
 | 151 | Julie Allemand | 444 |
-| 152 | **Jessica Shepard** 🔴 +1 | 437 |
-| 152 | Michelle Snow | 437 |
+| 152 | **Jessica Shepard** 🔴 +2 | 438 |
+| 153 | Michelle Snow | 437 |
 | 154 | Lauren Jackson | 435 |
 | 155 | Adrienne Goodson | 433 |
 | 155 | Crystal Langhorne | 433 |
