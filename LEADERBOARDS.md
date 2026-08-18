@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-18 23:17 UTC_
+_Last updated: 2026-08-18 23:18 UTC_
 
 ## Contents
 
@@ -45,7 +45,7 @@ _Last updated: 2026-08-18 23:17 UTC_
 | 24 | DeLisha Milton-Jones | 5,571 |
 | 25 | Katie Douglas | 5,545 |
 | 26 | Lindsay Whalen | 5,511 |
-| 27 | **Kelsey Mitchell** 🔴 +7 | 5,205 |
+| 27 | **Kelsey Mitchell** 🔴 +9 | 5,207 |
 | 28 | Swin Cash | 5,119 |
 | 29 | Tiffany Hayes | 5,049 |
 | 30 | Tangela Smith | 5,035 |
@@ -104,7 +104,7 @@ _Last updated: 2026-08-18 23:17 UTC_
 | 83 | Sheri Sam | 3,353 |
 | 84 | Andrea Stinson | 3,351 |
 | 85 | Tanisha Wright | 3,324 |
-| 86 | **Marina Mabrey** 🔴 | 3,249 |
+| 86 | **Marina Mabrey** 🔴 +3 | 3,252 |
 | 87 | Stefanie Dolson | 3,217 |
 | 88 | Margo Dydek | 3,214 |
 | 89 | Erica Wheeler | 3,195 |
@@ -157,7 +157,7 @@ _Last updated: 2026-08-18 23:17 UTC_
 | 136 | Betnijah Laney-Hamilton | 2,302 |
 | 137 | Satou Sabally | 2,296 |
 | 138 | Kia Vaughn | 2,288 |
-| 139 | Kia Nurse | 2,262 |
+| 139 | **Kia Nurse** 🔴 | 2,262 |
 | 140 | Allison Feaster | 2,258 |
 | 141 | Shekinna Stricklen | 2,245 |
 | 142 | Kara Braxton | 2,237 |
@@ -200,7 +200,7 @@ _Last updated: 2026-08-18 23:17 UTC_
 | 179 | NaLyssa Smith | 1,879 |
 | 180 | Rachel Banham | 1,843 |
 | 181 | Damiris Dantas | 1,842 |
-| 182 | Sophie Cunningham | 1,829 |
+| 182 | **Sophie Cunningham** 🔴 | 1,829 |
 | 183 | Tianna Hawkins | 1,825 |
 | 184 | Noelle Quinn | 1,824 |
 | 185 | Danielle Adams | 1,820 |
@@ -213,7 +213,7 @@ _Last updated: 2026-08-18 23:17 UTC_
 | 192 | Armintie Herrington | 1,696 |
 | 193 | Nikki Teasley | 1,690 |
 | 194 | Shenise Johnson | 1,688 |
-| 195 | Monique Billings | 1,612 |
+| 195 | **Monique Billings** 🔴 | 1,612 |
 | 196 | Janell Burse | 1,580 |
 | 197 | Le'coe Willingham | 1,552 |
 | 198 | Shatori Walker-Kimbrough | 1,544 |
@@ -292,7 +292,7 @@ _Last updated: 2026-08-18 23:17 UTC_
 | 66 | Cheyenne Parker-Tyus | 1,463 |
 | 67 | Nicole Powell | 1,457 |
 | 68 | Tamera Young | 1,433 |
-| 69 | Monique Billings | 1,431 |
+| 69 | **Monique Billings** 🔴 | 1,431 |
 | 70 | Alana Beard | 1,420 |
 | 71 | Nakia Sanford | 1,419 |
 | 72 | Kayla Thornton | 1,408 |
@@ -596,7 +596,7 @@ _Last updated: 2026-08-18 23:17 UTC_
 | 164 | Erin Thorn | 414 |
 | 165 | Jamierra Faulkner | 410 |
 | 165 | Murriel Page | 410 |
-| 167 | Kia Nurse | 407 |
+| 167 | **Kia Nurse** 🔴 | 407 |
 | 168 | Allison Feaster | 406 |
 | 169 | Rita Williams | 403 |
 | 170 | Stephanie Talbot | 400 |
@@ -720,7 +720,7 @@ _Last updated: 2026-08-18 23:17 UTC_
 | 83 | Shavonte Zellous | 139 |
 | 84 | **Brittney Sykes** 🔴 | 136 |
 | 84 | Penny Taylor | 136 |
-| 86 | Monique Billings | 134 |
+| 86 | **Monique Billings** 🔴 | 134 |
 | 87 | Devereaux Peters | 133 |
 | 87 | Nicky Anosike | 133 |
 | 87 | **Olivia Nelson-Ododa** 🔴 | 133 |
@@ -886,7 +886,7 @@ _Last updated: 2026-08-18 23:17 UTC_
 | 41 | Candice Dupree | 431 |
 | 42 | Epiphanny Prince | 429 |
 | 43 | Tanisha Wright | 427 |
-| 44 | **Dearica Hamby** 🔴 +1 | 412 |
+| 44 | **Dearica Hamby** 🔴 | 411 |
 | 45 | Katie Smith | 408 |
 | 46 | Cappie Pondexter | 405 |
 | 47 | Nicole Powell | 401 |
@@ -1030,7 +1030,7 @@ _Last updated: 2026-08-18 23:17 UTC_
 | 184 | Sabrina Ionescu | 184 |
 | 186 | Rebecca Allen | 183 |
 | 187 | Erin Phillips | 182 |
-| 187 | Monique Billings | 182 |
+| 187 | **Monique Billings** 🔴 | 182 |
 | 189 | Nakia Sanford | 181 |
 | 190 | Diamond DeShields | 180 |
 | 191 | Kiah Stokes | 178 |
@@ -1070,7 +1070,7 @@ _Last updated: 2026-08-18 23:17 UTC_
 | 20 | Sami Whitcomb | 511 |
 | 21 | Allie Quigley | 510 |
 | 22 | Leilani Mitchell | 508 |
-| 23 | **Marina Mabrey** 🔴 | 500 |
+| 23 | **Marina Mabrey** 🔴 +1 | 501 |
 | 24 | Sabrina Ionescu | 468 |
 | 24 | Shekinna Stricklen | 468 |
 | 26 | Breanna Stewart | 465 |
@@ -1099,7 +1099,7 @@ _Last updated: 2026-08-18 23:17 UTC_
 | 48 | Betty Lennox | 372 |
 | 50 | Kahleah Copper | 370 |
 | 51 | Epiphanny Prince | 368 |
-| 51 | Kia Nurse | 368 |
+| 51 | **Kia Nurse** 🔴 | 368 |
 | 53 | Nykesha Sales | 352 |
 | 54 | Jackie Young | 346 |
 | 55 | Natasha Cloud | 345 |
@@ -1109,7 +1109,7 @@ _Last updated: 2026-08-18 23:17 UTC_
 | 59 | Deanna Nolan | 340 |
 | 60 | Erica Wheeler | 337 |
 | 61 | Anna DeForge | 334 |
-| 61 | Sophie Cunningham | 334 |
+| 61 | **Sophie Cunningham** 🔴 | 334 |
 | 63 | Natisha Hiedeman | 328 |
 | 64 | Sugar Rodgers | 317 |
 | 65 | Marissa Coleman | 315 |
@@ -1435,9 +1435,9 @@ _Last updated: 2026-08-18 23:17 UTC_
 | 179 | Rita Williams | 326 |
 | 181 | Le'coe Willingham | 325 |
 | 182 | Olympia Scott | 324 |
-| 183 | Kia Nurse | 320 |
+| 183 | **Kia Nurse** 🔴 | 320 |
 | 184 | Barbara Farris | 315 |
-| 185 | Monique Billings | 314 |
+| 185 | **Monique Billings** 🔴 | 314 |
 | 185 | Moriah Jefferson | 314 |
 | 187 | Alex Bentley | 313 |
 | 188 | Natisha Hiedeman | 312 |
@@ -1602,12 +1602,12 @@ _Last updated: 2026-08-18 23:17 UTC_
 | 141 | Tierra Ruffin-Pratt | 550 |
 | 143 | Jackie Young | 548 |
 | 144 | Erlana Larkins | 546 |
-| 144 | Monique Billings | 546 |
+| 144 | **Monique Billings** 🔴 | 546 |
 | 146 | Jayne Appel Marinelli | 543 |
 | 146 | Kayla McBride | 543 |
 | 146 | Renee Montgomery | 543 |
 | 149 | Marissa Coleman | 541 |
-| 150 | Sophie Cunningham | 538 |
+| 150 | **Sophie Cunningham** 🔴 | 538 |
 | 151 | Myisha Hines-Allen | 535 |
 | 152 | Damiris Dantas | 533 |
 | 152 | Kristen Rasmussen | 533 |
@@ -1643,7 +1643,7 @@ _Last updated: 2026-08-18 23:17 UTC_
 | 183 | Charde Houston | 487 |
 | 184 | Lindsey Harding | 486 |
 | 185 | Cathrine Kraayeveld | 484 |
-| 185 | Kia Nurse | 484 |
+| 185 | **Kia Nurse** 🔴 | 484 |
 | 187 | Liz Cambage | 483 |
 | 187 | Rhonda Mapp | 483 |
 | 189 | Sami Whitcomb | 480 |
