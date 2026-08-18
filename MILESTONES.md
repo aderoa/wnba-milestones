@@ -2,6 +2,11 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-08-18 03:56 UTC
+
+- **Gabby Williams** passed **Karima Christmas-Kelly** and **Jessica Breland** for **#173** all-time in points (career 1,920) — up from #178 entering today — _3:18 - 4th — DAL @ GS_
+- **Gabby Williams** passed **Courtney Williams** and **Kristi Toliver** for **#83** all-time in steals (career 330) — up from #86 entering today — _3:18 - 4th — DAL @ GS_
+
 ## 2026-08-17 01:15 UTC
 
 - **Sami Whitcomb** passed **Cathrine Kraayeveld** and **Kia Nurse** for **#185** all-time in fouls (career 485) — up from #189 entering today — _20.3 - 4th — POR @ PHX_

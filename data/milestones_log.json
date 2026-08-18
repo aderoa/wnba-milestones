@@ -1,5 +1,31 @@
 [
   {
+    "ts": "2026-08-18T03:56:00+00:00",
+    "text": "Gabby Williams passed Karima Christmas-Kelly and Jessica Breland for #173 all-time in points (career 1,920) \u2014 up from #178 entering today \u2014 (3:18 - 4th \u2014 DAL @ GS)",
+    "kind": "rank_pass",
+    "player": "Gabby Williams",
+    "stat": "points",
+    "rank": 173,
+    "passed_players": [
+      "Karima Christmas-Kelly",
+      "Jessica Breland"
+    ],
+    "new_total": 1920
+  },
+  {
+    "ts": "2026-08-18T03:56:00+00:00",
+    "text": "Gabby Williams passed Courtney Williams and Kristi Toliver for #83 all-time in steals (career 330) \u2014 up from #86 entering today \u2014 (3:18 - 4th \u2014 DAL @ GS)",
+    "kind": "rank_pass",
+    "player": "Gabby Williams",
+    "stat": "steals",
+    "rank": 83,
+    "passed_players": [
+      "Courtney Williams",
+      "Kristi Toliver"
+    ],
+    "new_total": 330
+  },
+  {
     "ts": "2026-08-17T01:15:00+00:00",
     "text": "Sami Whitcomb passed Cathrine Kraayeveld and Kia Nurse for #185 all-time in fouls (career 485) \u2014 up from #189 entering today \u2014 (20.3 - 4th \u2014 POR @ PHX)",
     "kind": "rank_pass",
@@ -2962,30 +2988,5 @@
       "Teaira McCowan"
     ],
     "new_total": 226
-  },
-  {
-    "ts": "2026-07-05T19:34:00+00:00",
-    "text": "Marina Mabrey passed Tina Thompson for #70 all-time in assists (career 804) \u2014 up from #71 entering today \u2014 (6:32 - 2nd \u2014 DAL @ TOR)",
-    "kind": "rank_pass",
-    "player": "Marina Mabrey",
-    "stat": "assists",
-    "rank": 70,
-    "passed_players": [
-      "Tina Thompson"
-    ],
-    "new_total": 804
-  },
-  {
-    "ts": "2026-07-05T19:25:00+00:00",
-    "text": "Alysha Clark passed Plenette Pierson and Temeka Johnson for #91 all-time in steals (career 318) \u2014 (41.3 - 1st \u2014 DAL @ TOR)",
-    "kind": "rank_pass",
-    "player": "Alysha Clark",
-    "stat": "steals",
-    "rank": 91,
-    "passed_players": [
-      "Plenette Pierson",
-      "Temeka Johnson"
-    ],
-    "new_total": 318
   }
 ]

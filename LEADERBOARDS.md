@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-18 03:55 UTC_
+_Last updated: 2026-08-18 03:56 UTC_
 
 ## Contents
 
@@ -190,10 +190,10 @@ _Last updated: 2026-08-18 03:55 UTC_
 | 169 | Isabelle Harrison | 1,932 |
 | 170 | Cathrine Kraayeveld | 1,926 |
 | 171 | Roneeka Hodges | 1,925 |
+| 172 | **Gabby Williams** 🔴 +21 | 1,920 |
 | 172 | Latasha Byears | 1,920 |
-| 173 | Karima Christmas-Kelly | 1,919 |
-| 174 | Jessica Breland | 1,918 |
-| 175 | **Gabby Williams** 🔴 +18 | 1,917 |
+| 174 | Karima Christmas-Kelly | 1,919 |
+| 175 | Jessica Breland | 1,918 |
 | 176 | Nakia Sanford | 1,915 |
 | 177 | Ebony Hoffman | 1,909 |
 | 178 | Candice Wiggins | 1,901 |
@@ -259,7 +259,7 @@ _Last updated: 2026-08-18 03:55 UTC_
 | 33 | Elizabeth Williams | 1,978 |
 | 34 | Cheryl Ford | 1,907 |
 | 35 | Courtney Williams | 1,843 |
-| 36 | **Kiah Stokes** 🔴 +4 | 1,839 |
+| 36 | **Kiah Stokes** 🔴 +5 | 1,840 |
 | 37 | Plenette Pierson | 1,834 |
 | 38 | Natalie Williams | 1,832 |
 | 39 | Wendy Palmer | 1,824 |
@@ -379,7 +379,7 @@ _Last updated: 2026-08-18 03:55 UTC_
 | 153 | Temeka Johnson | 889 |
 | 154 | Mistie Bass | 888 |
 | 155 | Erica Wheeler | 882 |
-| 156 | **Alanna Smith** 🔴 +2 | 880 |
+| 156 | **Alanna Smith** 🔴 +3 | 881 |
 | 157 | Marina Mabrey | 874 |
 | 158 | Shameka Christon | 867 |
 | 159 | Krystal Thomas | 862 |
@@ -538,7 +538,7 @@ _Last updated: 2026-08-18 03:55 UTC_
 | 106 | Betnijah Laney-Hamilton | 590 |
 | 106 | Camille Smith | 590 |
 | 108 | Armintie Herrington | 589 |
-| 109 | **Veronica Burton** 🔴 +4 | 583 |
+| 109 | **Veronica Burton** 🔴 +5 | 584 |
 | 110 | Tan White | 578 |
 | 111 | Matee Ajavon | 577 |
 | 112 | Napheesa Collier | 570 |
@@ -924,10 +924,10 @@ _Last updated: 2026-08-18 03:55 UTC_
 | 79 | **Odyssey Sims** 🔴 | 334 |
 | 80 | Marie Ferdinand-Harris | 331 |
 | 81 | Chasity Melvin | 330 |
+| 81 | **Gabby Williams** 🔴 +4 | 330 |
 | 81 | Leilani Mitchell | 330 |
-| 83 | Courtney Williams | 329 |
-| 83 | **Gabby Williams** 🔴 +3 | 329 |
-| 83 | Kristi Toliver | 329 |
+| 84 | Courtney Williams | 329 |
+| 84 | Kristi Toliver | 329 |
 | 86 | Matee Ajavon | 328 |
 | 87 | Napheesa Collier | 325 |
 | 88 | Betty Lennox | 323 |
@@ -1190,7 +1190,7 @@ _Last updated: 2026-08-18 03:55 UTC_
 | 139 | Jennifer Azzi | 158 |
 | 139 | Natasha Howard | 158 |
 | 142 | **Alanna Smith** 🔴 +1 | 157 |
-| 143 | **Gabby Williams** 🔴 +2 | 155 |
+| 143 | **Gabby Williams** 🔴 +3 | 156 |
 | 144 | Bridget Pettis | 153 |
 | 144 | Jennifer Gillom | 153 |
 | 144 | Katie Lou Samuelson | 153 |
