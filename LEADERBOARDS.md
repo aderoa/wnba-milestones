@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-18 23:45 UTC_
+_Last updated: 2026-08-18 23:46 UTC_
 
 ## Contents
 
@@ -82,7 +82,7 @@ _Last updated: 2026-08-18 23:45 UTC_
 | 61 | Betty Lennox | 3,856 |
 | 62 | Allie Quigley | 3,786 |
 | 63 | Chasity Melvin | 3,781 |
-| 64 | **Brittney Sykes** 🔴 +6 | 3,732 |
+| 64 | **Brittney Sykes** 🔴 +8 | 3,734 |
 | 65 | Jackie Young | 3,698 |
 | 66 | Kara Lawson | 3,670 |
 | 67 | Mwadi Mabika | 3,576 |
