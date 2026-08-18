@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-18 23:51 UTC_
+_Last updated: 2026-08-18 23:52 UTC_
 
 ## Contents
 
@@ -82,7 +82,7 @@ _Last updated: 2026-08-18 23:51 UTC_
 | 61 | Betty Lennox | 3,856 |
 | 62 | Allie Quigley | 3,786 |
 | 63 | Chasity Melvin | 3,781 |
-| 64 | **Brittney Sykes** 🔴 +10 | 3,736 |
+| 64 | **Brittney Sykes** 🔴 +12 | 3,738 |
 | 65 | Jackie Young | 3,698 |
 | 66 | Kara Lawson | 3,670 |
 | 67 | Mwadi Mabika | 3,576 |
@@ -94,7 +94,7 @@ _Last updated: 2026-08-18 23:51 UTC_
 | 73 | Jasmine Thomas | 3,522 |
 | 74 | Tamecka Dixon | 3,507 |
 | 75 | Tammy Sutton-Brown | 3,498 |
-| 76 | **Ariel Atkins** 🔴 +3 | 3,484 |
+| 76 | **Ariel Atkins** 🔴 +4 | 3,485 |
 | 77 | Sancho Lyttle | 3,478 |
 | 78 | Ivory Latta | 3,447 |
 | 79 | Nicole Powell | 3,407 |
@@ -185,7 +185,7 @@ _Last updated: 2026-08-18 23:51 UTC_
 | 164 | Bria Hartley | 1,967 |
 | 165 | Chiney Ogwumike | 1,964 |
 | 166 | Nicole Ohlde | 1,959 |
-| 167 | **Myisha Hines-Allen** 🔴 | 1,956 |
+| 167 | **Myisha Hines-Allen** 🔴 +2 | 1,958 |
 | 168 | Kedra Holland-Corn | 1,938 |
 | 169 | **Isabelle Harrison** 🔴 +2 | 1,934 |
 | 170 | Cathrine Kraayeveld | 1,926 |
@@ -395,8 +395,8 @@ _Last updated: 2026-08-18 23:51 UTC_
 | 168 | Barbara Farris | 819 |
 | 170 | Carolyn Swords | 814 |
 | 171 | Betnijah Laney-Hamilton | 812 |
-| 172 | **Ariel Atkins** 🔴 +1 | 799 |
-| 172 | Tierra Ruffin-Pratt | 799 |
+| 172 | **Ariel Atkins** 🔴 +2 | 800 |
+| 173 | Tierra Ruffin-Pratt | 799 |
 | 174 | Charlotte Smith | 794 |
 | 175 | Rhonda Mapp | 788 |
 | 176 | Mercedes Russell | 786 |
@@ -494,7 +494,7 @@ _Last updated: 2026-08-18 23:51 UTC_
 | 62 | Taj McWilliams-Franklin | 879 |
 | 63 | Noelle Quinn | 878 |
 | 64 | Lisa Leslie | 873 |
-| 65 | **Brittney Sykes** 🔴 +1 | 867 |
+| 65 | **Brittney Sykes** 🔴 +2 | 868 |
 | 66 | Tully Bevilaqua | 853 |
 | 67 | **Kelsey Mitchell** 🔴 +2 | 849 |
 | 68 | Jia Perkins | 837 |
@@ -506,8 +506,8 @@ _Last updated: 2026-08-18 23:51 UTC_
 | 74 | Allisha Gray | 767 |
 | 75 | Sheri Sam | 745 |
 | 76 | Monique Currie | 740 |
-| 77 | **Dearica Hamby** 🔴 +2 | 728 |
-| 77 | Elaine Powell | 728 |
+| 77 | **Dearica Hamby** 🔴 +3 | 729 |
+| 78 | Elaine Powell | 728 |
 | 79 | Stefanie Dolson | 707 |
 | 80 | Chamique Holdsclaw | 698 |
 | 81 | Shavonte Zellous | 693 |
@@ -532,7 +532,7 @@ _Last updated: 2026-08-18 23:51 UTC_
 | 100 | Natasha Howard | 615 |
 | 101 | Debbie Black | 612 |
 | 102 | Cynthia Cooper | 602 |
-| 103 | **Caitlin Clark** 🔴 +3 | 594 |
+| 103 | **Caitlin Clark** 🔴 +5 | 596 |
 | 104 | Sancho Lyttle | 592 |
 | 105 | Gabby Williams | 591 |
 | 106 | Betnijah Laney-Hamilton | 590 |
