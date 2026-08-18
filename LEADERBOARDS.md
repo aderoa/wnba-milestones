@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-18 23:04 UTC_
+_Last updated: 2026-08-18 23:05 UTC_
 
 ## Contents
 
@@ -324,13 +324,13 @@ _Last updated: 2026-08-18 23:04 UTC_
 | 98 | Seimone Augustus | 1,228 |
 | 99 | Jia Perkins | 1,220 |
 | 100 | Kahleah Copper | 1,204 |
+| 101 | **Aliyah Boston** 🔴 +1 | 1,199 |
 | 101 | DeMya Walker | 1,199 |
-| 102 | **Aliyah Boston** 🔴 | 1,198 |
 | 103 | Latasha Byears | 1,190 |
 | 103 | Tanisha Wright | 1,190 |
 | 105 | Vicky Bullett | 1,189 |
 | 106 | NaLyssa Smith | 1,172 |
-| 107 | **Brittney Sykes** 🔴 | 1,162 |
+| 107 | **Brittney Sykes** 🔴 +1 | 1,163 |
 | 108 | Nykesha Sales | 1,148 |
 | 109 | Shannon Johnson | 1,143 |
 | 110 | Natasha Cloud | 1,141 |
@@ -342,7 +342,7 @@ _Last updated: 2026-08-18 23:04 UTC_
 | 116 | Chiney Ogwumike | 1,110 |
 | 117 | Becky Hammon | 1,108 |
 | 118 | Ann Wauters | 1,105 |
-| 119 | **Isabelle Harrison** 🔴 | 1,097 |
+| 119 | **Isabelle Harrison** 🔴 +1 | 1,098 |
 | 120 | Jackie Young | 1,085 |
 | 121 | Svetlana Abrosimova | 1,078 |
 | 122 | Le'coe Willingham | 1,054 |
