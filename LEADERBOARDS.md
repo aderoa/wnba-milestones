@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-18 03:18 UTC_
+_Last updated: 2026-08-18 03:19 UTC_
 
 ## Contents
 
@@ -193,8 +193,8 @@ _Last updated: 2026-08-18 03:18 UTC_
 | 172 | Latasha Byears | 1,920 |
 | 173 | Karima Christmas-Kelly | 1,919 |
 | 174 | Jessica Breland | 1,918 |
+| 175 | **Gabby Williams** 🔴 +16 | 1,915 |
 | 175 | Nakia Sanford | 1,915 |
-| 176 | **Gabby Williams** 🔴 +14 | 1,913 |
 | 177 | Ebony Hoffman | 1,909 |
 | 178 | Candice Wiggins | 1,901 |
 | 179 | NaLyssa Smith | 1,879 |
@@ -538,7 +538,7 @@ _Last updated: 2026-08-18 03:18 UTC_
 | 106 | Betnijah Laney-Hamilton | 590 |
 | 106 | Camille Smith | 590 |
 | 108 | Armintie Herrington | 589 |
-| 109 | **Veronica Burton** 🔴 +1 | 580 |
+| 109 | **Veronica Burton** 🔴 +2 | 581 |
 | 110 | Tan White | 578 |
 | 111 | Matee Ajavon | 577 |
 | 112 | Napheesa Collier | 570 |
@@ -1379,7 +1379,7 @@ _Last updated: 2026-08-18 03:18 UTC_
 | 124 | Betnijah Laney-Hamilton | 456 |
 | 125 | Kia Vaughn | 454 |
 | 126 | Janeth Arcain | 453 |
-| 127 | **Alysha Clark** 🔴 +2 | 445 |
+| 127 | **Alysha Clark** 🔴 +3 | 446 |
 | 128 | Elena Baranova | 444 |
 | 128 | Jantel Lavender | 444 |
 | 130 | Cheyenne Parker-Tyus | 441 |
@@ -1499,8 +1499,8 @@ _Last updated: 2026-08-18 03:18 UTC_
 | 39 | Briann January | 921 |
 | 40 | Jonquel Jones | 913 |
 | 40 | Ticha Penicheiro | 913 |
+| 42 | **Alysha Clark** 🔴 +2 | 907 |
 | 42 | Shavonte Zellous | 907 |
-| 43 | **Alysha Clark** 🔴 +1 | 906 |
 | 44 | DeMya Walker | 882 |
 | 45 | Candice Dupree | 876 |
 | 46 | Murriel Page | 872 |
