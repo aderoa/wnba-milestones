@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-18 23:37 UTC_
+_Last updated: 2026-08-18 23:38 UTC_
 
 ## Contents
 
@@ -175,7 +175,7 @@ _Last updated: 2026-08-18 23:37 UTC_
 | 154 | Tari Phillips | 2,134 |
 | 155 | Cheryl Ford | 2,116 |
 | 156 | Elena Baranova | 2,110 |
-| 157 | **Aliyah Boston** 🔴 +4 | 2,091 |
+| 157 | **Aliyah Boston** 🔴 +6 | 2,093 |
 | 158 | Aerial Powers | 2,068 |
 | 159 | Coco Miller | 2,030 |
 | 160 | Diamond DeShields | 2,026 |
@@ -342,7 +342,7 @@ _Last updated: 2026-08-18 23:37 UTC_
 | 116 | Chiney Ogwumike | 1,110 |
 | 117 | Becky Hammon | 1,108 |
 | 118 | Ann Wauters | 1,105 |
-| 119 | **Isabelle Harrison** 🔴 +3 | 1,100 |
+| 119 | **Isabelle Harrison** 🔴 +4 | 1,101 |
 | 120 | Jackie Young | 1,085 |
 | 121 | Svetlana Abrosimova | 1,078 |
 | 122 | Le'coe Willingham | 1,054 |
@@ -706,7 +706,7 @@ _Last updated: 2026-08-18 23:37 UTC_
 | 69 | Jantel Lavender | 170 |
 | 70 | Camille Smith | 169 |
 | 71 | Shameka Christon | 165 |
-| 72 | **Aliyah Boston** 🔴 +1 | 161 |
+| 72 | **Aliyah Boston** 🔴 +2 | 162 |
 | 73 | Cheryl Ford | 160 |
 | 74 | Allisha Gray | 157 |
 | 74 | Kara Braxton | 157 |
@@ -1641,8 +1641,8 @@ _Last updated: 2026-08-18 23:37 UTC_
 | 181 | Ann Wauters | 493 |
 | 181 | Riquna Williams | 493 |
 | 183 | Charde Houston | 487 |
+| 184 | **Kia Nurse** 🔴 +2 | 486 |
 | 184 | Lindsey Harding | 486 |
-| 185 | **Kia Nurse** 🔴 +1 | 485 |
 | 186 | Cathrine Kraayeveld | 484 |
 | 187 | Liz Cambage | 483 |
 | 187 | Rhonda Mapp | 483 |
