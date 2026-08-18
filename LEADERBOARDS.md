@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-18 03:16 UTC_
+_Last updated: 2026-08-18 03:17 UTC_
 
 ## Contents
 
@@ -194,7 +194,7 @@ _Last updated: 2026-08-18 03:16 UTC_
 | 173 | Karima Christmas-Kelly | 1,919 |
 | 174 | Jessica Breland | 1,918 |
 | 175 | Nakia Sanford | 1,915 |
-| 176 | **Gabby Williams** 🔴 +11 | 1,910 |
+| 176 | **Gabby Williams** 🔴 +14 | 1,913 |
 | 177 | Ebony Hoffman | 1,909 |
 | 178 | Candice Wiggins | 1,901 |
 | 179 | NaLyssa Smith | 1,879 |
@@ -403,8 +403,8 @@ _Last updated: 2026-08-18 03:16 UTC_
 | 177 | **Odyssey Sims** 🔴 | 785 |
 | 178 | Sue Wicks | 780 |
 | 179 | Lindsey Harding | 779 |
+| 180 | **Arike Ogunbowale** 🔴 +3 | 778 |
 | 180 | Tiffani Johnson | 778 |
-| 181 | **Arike Ogunbowale** 🔴 +2 | 777 |
 | 182 | Teresa Weatherspoon | 775 |
 | 183 | Anna DeForge | 769 |
 | 183 | Kelsey Bone | 769 |
@@ -538,7 +538,7 @@ _Last updated: 2026-08-18 03:16 UTC_
 | 106 | Betnijah Laney-Hamilton | 590 |
 | 106 | Camille Smith | 590 |
 | 108 | Armintie Herrington | 589 |
-| 109 | **Veronica Burton** 🔴 | 579 |
+| 109 | **Veronica Burton** 🔴 +1 | 580 |
 | 110 | Tan White | 578 |
 | 111 | Matee Ajavon | 577 |
 | 112 | Napheesa Collier | 570 |
@@ -1015,10 +1015,10 @@ _Last updated: 2026-08-18 03:16 UTC_
 | 167 | Shatori Walker-Kimbrough | 204 |
 | 171 | Adrienne Goodson | 203 |
 | 172 | Allie Quigley | 198 |
+| 173 | **Alanna Smith** 🔴 +1 | 195 |
 | 173 | Layshia Clarendon | 195 |
-| 174 | **Alanna Smith** 🔴 | 194 |
-| 174 | Sonja Henning | 194 |
-| 174 | Tierra Ruffin-Pratt | 194 |
+| 175 | Sonja Henning | 194 |
+| 175 | Tierra Ruffin-Pratt | 194 |
 | 177 | Cynthia Cooper | 192 |
 | 178 | Myisha Hines-Allen | 191 |
 | 179 | Isabelle Harrison | 190 |
@@ -1190,7 +1190,7 @@ _Last updated: 2026-08-18 03:16 UTC_
 | 139 | Jennifer Azzi | 158 |
 | 139 | Natasha Howard | 158 |
 | 142 | **Alanna Smith** 🔴 +1 | 157 |
-| 143 | **Gabby Williams** 🔴 +1 | 154 |
+| 143 | **Gabby Williams** 🔴 +2 | 155 |
 | 144 | Bridget Pettis | 153 |
 | 144 | Jennifer Gillom | 153 |
 | 144 | Katie Lou Samuelson | 153 |
