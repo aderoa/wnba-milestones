@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-08-19 02:51 UTC
+
+- **Natasha Cloud** passed **Erika de Souza** for **#95** all-time in points (career 3,047) — up from #97 entering today — _1:50 - 4th — NY @ CHI_
+
 ## 2026-08-19 02:19 UTC
 
 - **Natasha Cloud** passed **Shameka Christon** for **#96** all-time in points (career 3,040) — up from #97 entering today — _5:11 - 3rd — NY @ CHI_

@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-19 02:50 UTC_
+_Last updated: 2026-08-19 02:51 UTC_
 
 ## Contents
 
@@ -113,8 +113,8 @@ _Last updated: 2026-08-19 02:50 UTC_
 | 92 | **Sabrina Ionescu** 🔴 +18 | 3,115 |
 | 93 | Shavonte Zellous | 3,103 |
 | 94 | Briann January | 3,082 |
-| 95 | Erika de Souza | 3,046 |
-| 95 | **Natasha Cloud** 🔴 +28 | 3,046 |
+| 95 | **Natasha Cloud** 🔴 +29 | 3,047 |
+| 96 | Erika de Souza | 3,046 |
 | 97 | Shameka Christon | 3,039 |
 | 98 | Marie Ferdinand-Harris | 3,001 |
 | 99 | Emma Meesseman | 2,966 |
@@ -197,7 +197,7 @@ _Last updated: 2026-08-19 02:50 UTC_
 | 176 | Ebony Hoffman | 1,909 |
 | 177 | Candice Wiggins | 1,901 |
 | 178 | Gabby Williams | 1,899 |
-| 179 | **NaLyssa Smith** 🔴 +3 | 1,882 |
+| 179 | **NaLyssa Smith** 🔴 +5 | 1,884 |
 | 180 | **Rachel Banham** 🔴 +3 | 1,846 |
 | 181 | Damiris Dantas | 1,842 |
 | 181 | Sophie Cunningham | 1,842 |
@@ -309,8 +309,8 @@ _Last updated: 2026-08-19 02:50 UTC_
 | 83 | Brionna Jones | 1,333 |
 | 84 | Erlana Larkins | 1,329 |
 | 85 | Mwadi Mabika | 1,327 |
+| 86 | **Azurá Stevens** 🔴 +7 | 1,326 |
 | 86 | Jayne Appel Marinelli | 1,326 |
-| 87 | **Azurá Stevens** 🔴 +6 | 1,325 |
 | 88 | Betty Lennox | 1,296 |
 | 89 | Tari Phillips | 1,274 |
 | 90 | Myisha Hines-Allen | 1,266 |

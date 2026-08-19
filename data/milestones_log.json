@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-08-19T02:51:00+00:00",
+    "text": "Natasha Cloud passed Erika de Souza for #95 all-time in points (career 3,047) \u2014 up from #97 entering today \u2014 (1:50 - 4th \u2014 NY @ CHI)",
+    "kind": "rank_pass",
+    "player": "Natasha Cloud",
+    "stat": "points",
+    "rank": 95,
+    "passed_players": [
+      "Erika de Souza"
+    ],
+    "new_total": 3047
+  },
+  {
     "ts": "2026-08-19T02:19:00+00:00",
     "text": "Natasha Cloud passed Shameka Christon for #96 all-time in points (career 3,040) \u2014 up from #97 entering today \u2014 (5:11 - 3rd \u2014 NY @ CHI)",
     "kind": "rank_pass",
@@ -2975,17 +2987,5 @@
       "Jessie Hicks"
     ],
     "new_total": 82
-  },
-  {
-    "ts": "2026-07-05T20:16:00+00:00",
-    "text": "Arike Ogunbowale passed Sue Wicks for #178 all-time in rebounds (career 781) \u2014 up from #181 entering today \u2014 (8:35 - 3rd \u2014 DAL @ TOR)",
-    "kind": "rank_pass",
-    "player": "Arike Ogunbowale",
-    "stat": "rebounds",
-    "rank": 178,
-    "passed_players": [
-      "Sue Wicks"
-    ],
-    "new_total": 781
   }
 ]
