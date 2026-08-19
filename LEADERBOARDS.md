@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-19 02:56 UTC_
+_Last updated: 2026-08-19 02:57 UTC_
 
 ## Contents
 
@@ -83,7 +83,7 @@ _Last updated: 2026-08-19 02:56 UTC_
 | 62 | Allie Quigley | 3,786 |
 | 63 | Chasity Melvin | 3,781 |
 | 64 | Brittney Sykes | 3,741 |
-| 65 | **Jackie Young** 🔴 +21 | 3,719 |
+| 65 | **Jackie Young** 🔴 +22 | 3,720 |
 | 66 | Kara Lawson | 3,670 |
 | 67 | Mwadi Mabika | 3,576 |
 | 68 | Odyssey Sims | 3,574 |
@@ -113,7 +113,7 @@ _Last updated: 2026-08-19 02:56 UTC_
 | 92 | **Sabrina Ionescu** 🔴 +18 | 3,115 |
 | 93 | Shavonte Zellous | 3,103 |
 | 94 | Briann January | 3,082 |
-| 95 | **Natasha Cloud** 🔴 +31 | 3,049 |
+| 95 | **Natasha Cloud** 🔴 +32 | 3,050 |
 | 96 | Erika de Souza | 3,046 |
 | 97 | Shameka Christon | 3,039 |
 | 98 | Marie Ferdinand-Harris | 3,001 |
@@ -331,8 +331,8 @@ _Last updated: 2026-08-19 02:56 UTC_
 | 105 | Vicky Bullett | 1,189 |
 | 106 | **NaLyssa Smith** 🔴 +6 | 1,178 |
 | 107 | Brittney Sykes | 1,164 |
-| 108 | **Natasha Cloud** 🔴 +7 | 1,148 |
-| 108 | Nykesha Sales | 1,148 |
+| 108 | **Natasha Cloud** 🔴 +8 | 1,149 |
+| 109 | Nykesha Sales | 1,148 |
 | 110 | Shannon Johnson | 1,143 |
 | 111 | Adrian Williams-Strong | 1,131 |
 | 112 | Andrea Stinson | 1,127 |
@@ -879,9 +879,9 @@ _Last updated: 2026-08-19 02:56 UTC_
 | 35 | Tina Thompson | 452 |
 | 36 | Maya Moore | 449 |
 | 37 | Kayla McBride | 446 |
+| 38 | **Breanna Stewart** 🔴 +3 | 438 |
 | 38 | Sheri Sam | 438 |
-| 39 | **Breanna Stewart** 🔴 +2 | 437 |
-| 39 | Camille Smith | 437 |
+| 40 | Camille Smith | 437 |
 | 41 | Candice Dupree | 431 |
 | 42 | Epiphanny Prince | 429 |
 | 43 | Tanisha Wright | 427 |
@@ -1297,7 +1297,7 @@ _Last updated: 2026-08-19 02:56 UTC_
 | 42 | Monique Currie | 724 |
 | 43 | Michelle Snow | 723 |
 | 44 | Tamecka Dixon | 716 |
-| 45 | **Natasha Cloud** 🔴 +2 | 709 |
+| 45 | **Natasha Cloud** 🔴 +3 | 710 |
 | 46 | Erica Wheeler | 699 |
 | 47 | Renee Montgomery | 697 |
 | 48 | Temeka Johnson | 696 |
@@ -1648,7 +1648,7 @@ _Last updated: 2026-08-19 02:56 UTC_
 | 187 | Rhonda Mapp | 483 |
 | 189 | Sami Whitcomb | 480 |
 | 190 | Alanna Smith | 479 |
-| 191 | **NaLyssa Smith** 🔴 +4 | 478 |
+| 190 | **NaLyssa Smith** 🔴 +5 | 479 |
 | 192 | Seimone Augustus | 477 |
 | 193 | Allie Quigley | 475 |
 | 194 | Satou Sabally | 471 |
