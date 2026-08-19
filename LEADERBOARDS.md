@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-19 01:14 UTC_
+_Last updated: 2026-08-19 01:15 UTC_
 
 ## Contents
 
@@ -152,7 +152,7 @@ _Last updated: 2026-08-19 01:14 UTC_
 | 131 | DeMya Walker | 2,379 |
 | 132 | Alex Bentley | 2,350 |
 | 133 | **Azurá Stevens** 🔴 +6 | 2,349 |
-| 134 | **Jordin Canada** 🔴 | 2,342 |
+| 134 | **Jordin Canada** 🔴 +2 | 2,344 |
 | 135 | Merlakia Jones | 2,308 |
 | 136 | Betnijah Laney-Hamilton | 2,302 |
 | 137 | Satou Sabally | 2,296 |
@@ -296,7 +296,7 @@ _Last updated: 2026-08-19 01:14 UTC_
 | 70 | Alana Beard | 1,420 |
 | 71 | Nakia Sanford | 1,419 |
 | 72 | Kayla Thornton | 1,408 |
-| 73 | **Allisha Gray** 🔴 +1 | 1,405 |
+| 73 | **Allisha Gray** 🔴 +2 | 1,406 |
 | 74 | **Courtney Vandersloot** 🔴 +1 | 1,387 |
 | 74 | Kara Braxton | 1,387 |
 | 76 | Katie Smith | 1,383 |
@@ -315,9 +315,9 @@ _Last updated: 2026-08-19 01:14 UTC_
 | 89 | Tari Phillips | 1,274 |
 | 90 | Myisha Hines-Allen | 1,266 |
 | 91 | Janel McCarville | 1,261 |
+| 92 | **Chelsea Gray** 🔴 +1 | 1,258 |
 | 92 | Liz Cambage | 1,258 |
-| 93 | **Chelsea Gray** 🔴 | 1,257 |
-| 93 | Tiffany Hayes | 1,257 |
+| 94 | Tiffany Hayes | 1,257 |
 | 95 | Kayla McBride | 1,256 |
 | 96 | Brianna Turner | 1,243 |
 | 96 | Ezi Magbegor | 1,243 |
@@ -767,9 +767,9 @@ _Last updated: 2026-08-19 01:14 UTC_
 | 131 | Chante Black | 100 |
 | 131 | Danielle Adams | 100 |
 | 131 | Nicole Powell | 100 |
-| 134 | Mwadi Mabika | 98 |
-| 134 | **NaLyssa Smith** 🔴 | 98 |
-| 134 | Natalie Achonwa | 98 |
+| 134 | **NaLyssa Smith** 🔴 +1 | 99 |
+| 135 | Mwadi Mabika | 98 |
+| 135 | Natalie Achonwa | 98 |
 | 137 | Aneika Morello | 96 |
 | 137 | Tiffani Johnson | 96 |
 | 139 | Imani McGee-Stafford | 95 |
@@ -889,7 +889,7 @@ _Last updated: 2026-08-19 01:14 UTC_
 | 45 | Katie Smith | 408 |
 | 46 | Cappie Pondexter | 405 |
 | 47 | Nicole Powell | 401 |
-| 48 | **Jordin Canada** 🔴 +1 | 398 |
+| 48 | **Jordin Canada** 🔴 +2 | 399 |
 | 49 | Jasmine Thomas | 394 |
 | 50 | Ariel Atkins | 392 |
 | 51 | Danielle Robinson | 389 |
