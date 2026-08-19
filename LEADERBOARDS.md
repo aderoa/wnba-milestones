@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-19 02:48 UTC_
+_Last updated: 2026-08-19 02:49 UTC_
 
 ## Contents
 
@@ -217,7 +217,7 @@ _Last updated: 2026-08-19 02:48 UTC_
 | 196 | Janell Burse | 1,580 |
 | 197 | Le'coe Willingham | 1,552 |
 | 198 | Shatori Walker-Kimbrough | 1,544 |
-| 199 | **Rebecca Allen** 🔴 +13 | 1,542 |
+| 199 | **Rebecca Allen** 🔴 +14 | 1,543 |
 | 200 | Jennifer Lacy | 1,504 |
 
 ## Rebounds
@@ -297,7 +297,7 @@ _Last updated: 2026-08-19 02:48 UTC_
 | 71 | Nakia Sanford | 1,419 |
 | 72 | **Allisha Gray** 🔴 +6 | 1,410 |
 | 73 | Kayla Thornton | 1,408 |
-| 74 | **Courtney Vandersloot** 🔴 +2 | 1,388 |
+| 74 | **Courtney Vandersloot** 🔴 +3 | 1,389 |
 | 75 | Kara Braxton | 1,387 |
 | 76 | Katie Smith | 1,383 |
 | 77 | Ebony Hoffman | 1,376 |
@@ -332,7 +332,7 @@ _Last updated: 2026-08-19 02:48 UTC_
 | 106 | **NaLyssa Smith** 🔴 +6 | 1,178 |
 | 107 | Brittney Sykes | 1,164 |
 | 108 | Nykesha Sales | 1,148 |
-| 109 | **Natasha Cloud** 🔴 +5 | 1,146 |
+| 109 | **Natasha Cloud** 🔴 +6 | 1,147 |
 | 110 | Shannon Johnson | 1,143 |
 | 111 | Adrian Williams-Strong | 1,131 |
 | 112 | Andrea Stinson | 1,127 |
@@ -881,7 +881,7 @@ _Last updated: 2026-08-19 02:48 UTC_
 | 37 | Kayla McBride | 446 |
 | 38 | Sheri Sam | 438 |
 | 39 | Camille Smith | 437 |
-| 40 | **Breanna Stewart** 🔴 | 435 |
+| 40 | **Breanna Stewart** 🔴 +1 | 436 |
 | 41 | Candice Dupree | 431 |
 | 42 | Epiphanny Prince | 429 |
 | 43 | Tanisha Wright | 427 |
@@ -1297,7 +1297,7 @@ _Last updated: 2026-08-19 02:48 UTC_
 | 42 | Monique Currie | 724 |
 | 43 | Michelle Snow | 723 |
 | 44 | Tamecka Dixon | 716 |
-| 45 | **Natasha Cloud** 🔴 +1 | 708 |
+| 45 | **Natasha Cloud** 🔴 +2 | 709 |
 | 46 | Erica Wheeler | 699 |
 | 47 | Renee Montgomery | 697 |
 | 48 | Temeka Johnson | 696 |
