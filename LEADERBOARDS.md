@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-19 03:19 UTC_
+_Last updated: 2026-08-19 03:20 UTC_
 
 ## Contents
 
@@ -1548,9 +1548,9 @@ _Last updated: 2026-08-19 03:19 UTC_
 | 88 | Katie Douglas | 697 |
 | 89 | Danielle Robinson | 692 |
 | 90 | Breanna Stewart | 688 |
-| 91 | **Cheyenne Parker-Tyus** 🔴 +2 | 687 |
-| 91 | **Jewell Loyd** 🔴 +3 | 687 |
-| 91 | Sophia Young-Malcolm | 687 |
+| 90 | **Jewell Loyd** 🔴 +4 | 688 |
+| 92 | **Cheyenne Parker-Tyus** 🔴 +2 | 687 |
+| 92 | Sophia Young-Malcolm | 687 |
 | 94 | Maya Moore | 686 |
 | 95 | Jasmine Thomas | 685 |
 | 96 | Leilani Mitchell | 684 |
