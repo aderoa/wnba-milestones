@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-19 01:11 UTC_
+_Last updated: 2026-08-19 01:12 UTC_
 
 ## Contents
 
@@ -61,7 +61,7 @@ _Last updated: 2026-08-19 01:11 UTC_
 | 40 | **Chelsea Gray** 🔴 | 4,625 |
 | 41 | Penny Taylor | 4,595 |
 | 42 | Kelsey Plum | 4,494 |
-| 43 | **Allisha Gray** 🔴 | 4,491 |
+| 43 | **Allisha Gray** 🔴 +2 | 4,493 |
 | 44 | Kristi Toliver | 4,474 |
 | 45 | Kahleah Copper | 4,437 |
 | 46 | Crystal Langhorne | 4,433 |
@@ -83,7 +83,7 @@ _Last updated: 2026-08-19 01:11 UTC_
 | 62 | Allie Quigley | 3,786 |
 | 63 | Chasity Melvin | 3,781 |
 | 64 | Brittney Sykes | 3,741 |
-| 65 | **Jackie Young** 🔴 | 3,698 |
+| 65 | **Jackie Young** 🔴 +2 | 3,700 |
 | 66 | Kara Lawson | 3,670 |
 | 67 | Mwadi Mabika | 3,576 |
 | 68 | Odyssey Sims | 3,574 |
@@ -151,7 +151,7 @@ _Last updated: 2026-08-19 01:11 UTC_
 | 130 | Kayla Thornton | 2,393 |
 | 131 | DeMya Walker | 2,379 |
 | 132 | Alex Bentley | 2,350 |
-| 133 | **Azurá Stevens** 🔴 +2 | 2,345 |
+| 133 | **Azurá Stevens** 🔴 +4 | 2,347 |
 | 134 | **Jordin Canada** 🔴 | 2,342 |
 | 135 | Merlakia Jones | 2,308 |
 | 136 | Betnijah Laney-Hamilton | 2,302 |
@@ -347,8 +347,8 @@ _Last updated: 2026-08-19 01:11 UTC_
 | 121 | Svetlana Abrosimova | 1,078 |
 | 122 | Le'coe Willingham | 1,054 |
 | 123 | Nicole Ohlde | 1,040 |
-| 124 | **Angel Reese** 🔴 | 1,035 |
-| 124 | Tamecka Dixon | 1,035 |
+| 124 | **Angel Reese** 🔴 +1 | 1,036 |
+| 125 | Tamecka Dixon | 1,035 |
 | 126 | Kamila Vodichkova | 1,031 |
 | 127 | Jasmine Thomas | 1,027 |
 | 128 | **Sabrina Ionescu** 🔴 | 1,020 |
@@ -437,7 +437,7 @@ _Last updated: 2026-08-19 01:11 UTC_
 | 6 | **Chelsea Gray** 🔴 | 2,003 |
 | 7 | Alyssa Thomas | 1,971 |
 | 8 | Skylar Diggins | 1,852 |
-| 9 | **Natasha Cloud** 🔴 | 1,802 |
+| 9 | **Natasha Cloud** 🔴 +1 | 1,803 |
 | 10 | Becky Hammon | 1,705 |
 | 11 | Candace Parker | 1,634 |
 | 12 | Cappie Pondexter | 1,575 |
@@ -515,8 +515,8 @@ _Last updated: 2026-08-19 01:11 UTC_
 | 84 | Ariel Atkins | 684 |
 | 85 | Emma Meesseman | 681 |
 | 86 | Nykesha Sales | 677 |
+| 87 | **A'ja Wilson** 🔴 +1 | 668 |
 | 87 | Natisha Hiedeman | 668 |
-| 88 | **A'ja Wilson** 🔴 | 667 |
 | 89 | Bria Hartley | 661 |
 | 90 | Brittney Griner | 660 |
 | 91 | Lindsay Allen | 657 |
@@ -549,7 +549,7 @@ _Last updated: 2026-08-19 01:11 UTC_
 | 118 | Janel McCarville | 551 |
 | 118 | Svetlana Abrosimova | 551 |
 | 120 | Michele Timms | 549 |
-| 121 | **Rhyne Howard** 🔴 | 536 |
+| 121 | **Rhyne Howard** 🔴 +1 | 537 |
 | 122 | Myisha Hines-Allen | 532 |
 | 123 | Marie Ferdinand-Harris | 528 |
 | 124 | Margo Dydek | 524 |
@@ -1331,8 +1331,8 @@ _Last updated: 2026-08-19 01:11 UTC_
 | 77 | Kelly Miller | 596 |
 | 78 | Stefanie Dolson | 594 |
 | 79 | Brittney Sykes | 592 |
-| 80 | **Breanna Stewart** 🔴 +1 | 587 |
-| 80 | Kelsey Mitchell | 587 |
+| 80 | **Breanna Stewart** 🔴 +2 | 588 |
+| 81 | Kelsey Mitchell | 587 |
 | 82 | Helen Darling | 575 |
 | 82 | Nykesha Sales | 575 |
 | 84 | Andrea Stinson | 571 |
