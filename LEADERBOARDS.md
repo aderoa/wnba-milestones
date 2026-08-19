@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-19 02:08 UTC_
+_Last updated: 2026-08-19 02:09 UTC_
 
 ## Contents
 
@@ -115,7 +115,7 @@ _Last updated: 2026-08-19 02:08 UTC_
 | 94 | Briann January | 3,082 |
 | 95 | Erika de Souza | 3,046 |
 | 96 | Shameka Christon | 3,039 |
-| 97 | **Natasha Cloud** 🔴 +18 | 3,036 |
+| 97 | **Natasha Cloud** 🔴 +20 | 3,038 |
 | 98 | Marie Ferdinand-Harris | 3,001 |
 | 99 | Emma Meesseman | 2,966 |
 | 100 | **Elizabeth Williams** 🔴 +1 | 2,934 |
@@ -217,7 +217,7 @@ _Last updated: 2026-08-19 02:08 UTC_
 | 196 | Janell Burse | 1,580 |
 | 197 | Le'coe Willingham | 1,552 |
 | 198 | Shatori Walker-Kimbrough | 1,544 |
-| 199 | **Rebecca Allen** 🔴 | 1,529 |
+| 199 | **Rebecca Allen** 🔴 +3 | 1,532 |
 | 200 | Jennifer Lacy | 1,504 |
 
 ## Rebounds
@@ -464,7 +464,7 @@ _Last updated: 2026-08-19 02:08 UTC_
 | 33 | **Jackie Young** 🔴 +2 | 1,152 |
 | 34 | Renee Montgomery | 1,140 |
 | 35 | Swin Cash | 1,131 |
-| 36 | **Sabrina Ionescu** 🔴 +5 | 1,097 |
+| 36 | **Sabrina Ionescu** 🔴 +6 | 1,098 |
 | 37 | Lindsey Harding | 1,090 |
 | 38 | Katie Douglas | 1,069 |
 | 39 | Alana Beard | 1,061 |
@@ -1132,7 +1132,7 @@ _Last updated: 2026-08-19 02:08 UTC_
 | 83 | Iziane Castro Marques | 275 |
 | 84 | Sheryl Swoopes | 270 |
 | 85 | Sophia Witherspoon | 260 |
-| 86 | **Rebecca Allen** 🔴 | 255 |
+| 86 | **Rebecca Allen** 🔴 +1 | 256 |
 | 87 | Dawn Staley | 254 |
 | 88 | Bria Hartley | 253 |
 | 88 | Nneka Ogwumike | 253 |
@@ -1633,9 +1633,9 @@ _Last updated: 2026-08-19 02:08 UTC_
 | 173 | Iziane Castro Marques | 502 |
 | 174 | Elena Baranova | 501 |
 | 175 | Adrian Williams-Strong | 497 |
+| 175 | **Azurá Stevens** 🔴 +2 | 497 |
 | 175 | Essence Carson | 497 |
 | 175 | **Rachel Banham** 🔴 | 497 |
-| 178 | **Azurá Stevens** 🔴 +1 | 496 |
 | 179 | Nia Coffey | 495 |
 | 180 | Karima Christmas-Kelly | 494 |
 | 181 | Ann Wauters | 493 |
