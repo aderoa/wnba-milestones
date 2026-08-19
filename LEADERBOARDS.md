@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-19 01:55 UTC_
+_Last updated: 2026-08-19 01:56 UTC_
 
 ## Contents
 
@@ -60,7 +60,7 @@ _Last updated: 2026-08-19 01:55 UTC_
 | 39 | Natasha Howard | 4,682 |
 | 40 | **Chelsea Gray** 🔴 +10 | 4,635 |
 | 41 | Penny Taylor | 4,595 |
-| 42 | **Allisha Gray** 🔴 +8 | 4,499 |
+| 42 | **Allisha Gray** 🔴 +11 | 4,502 |
 | 43 | Kelsey Plum | 4,494 |
 | 44 | Kristi Toliver | 4,474 |
 | 45 | Kahleah Copper | 4,437 |
@@ -83,7 +83,7 @@ _Last updated: 2026-08-19 01:55 UTC_
 | 62 | Allie Quigley | 3,786 |
 | 63 | Chasity Melvin | 3,781 |
 | 64 | Brittney Sykes | 3,741 |
-| 65 | **Jackie Young** 🔴 +5 | 3,703 |
+| 65 | **Jackie Young** 🔴 +7 | 3,705 |
 | 66 | Kara Lawson | 3,670 |
 | 67 | Mwadi Mabika | 3,576 |
 | 68 | Odyssey Sims | 3,574 |
@@ -329,7 +329,7 @@ _Last updated: 2026-08-19 01:55 UTC_
 | 103 | Latasha Byears | 1,190 |
 | 103 | Tanisha Wright | 1,190 |
 | 105 | Vicky Bullett | 1,189 |
-| 106 | **NaLyssa Smith** 🔴 +4 | 1,176 |
+| 106 | **NaLyssa Smith** 🔴 +3 | 1,175 |
 | 107 | Brittney Sykes | 1,164 |
 | 108 | Nykesha Sales | 1,148 |
 | 109 | **Natasha Cloud** 🔴 +4 | 1,145 |
@@ -343,7 +343,7 @@ _Last updated: 2026-08-19 01:55 UTC_
 | 117 | Becky Hammon | 1,108 |
 | 118 | Ann Wauters | 1,105 |
 | 119 | Isabelle Harrison | 1,104 |
-| 120 | **Jackie Young** 🔴 +3 | 1,088 |
+| 120 | **Jackie Young** 🔴 +4 | 1,089 |
 | 121 | Svetlana Abrosimova | 1,078 |
 | 122 | Le'coe Willingham | 1,054 |
 | 123 | **Angel Reese** 🔴 +5 | 1,040 |
@@ -383,7 +383,7 @@ _Last updated: 2026-08-19 01:55 UTC_
 | 157 | Marina Mabrey | 875 |
 | 158 | Shameka Christon | 867 |
 | 159 | Krystal Thomas | 862 |
-| 160 | **Naz Hillmon** 🔴 +2 | 861 |
+| 159 | **Naz Hillmon** 🔴 +3 | 862 |
 | 161 | Leilani Mitchell | 845 |
 | 162 | Essence Carson | 833 |
 | 163 | Shakira Austin | 832 |
@@ -1074,7 +1074,7 @@ _Last updated: 2026-08-19 01:55 UTC_
 | 25 | Shekinna Stricklen | 468 |
 | 26 | **Breanna Stewart** 🔴 | 465 |
 | 27 | Cappie Pondexter | 464 |
-| 28 | **Allisha Gray** 🔴 | 458 |
+| 28 | **Allisha Gray** 🔴 +1 | 459 |
 | 29 | Ariel Atkins | 456 |
 | 30 | Tiffany Hayes | 454 |
 | 31 | **Chelsea Gray** 🔴 +2 | 452 |
