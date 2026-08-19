@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-08-19 00:31 UTC
+
+- **Brittney Sykes** passed **Penny Taylor** for **#85** all-time in blocks (career 137) — _21.7 - 3rd — IND @ TOR_
+
 ## 2026-08-18 23:45 UTC
 
 - **Brittney Sykes** passed **Matee Ajavon** and **Nicole Powell** for **#84** all-time in fouls (career 702) — _3:51 - 2nd — IND @ TOR_

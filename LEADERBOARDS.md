@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-19 00:30 UTC_
+_Last updated: 2026-08-19 00:31 UTC_
 
 ## Contents
 
@@ -45,7 +45,7 @@ _Last updated: 2026-08-19 00:30 UTC_
 | 24 | DeLisha Milton-Jones | 5,571 |
 | 25 | Katie Douglas | 5,545 |
 | 26 | Lindsay Whalen | 5,511 |
-| 27 | **Kelsey Mitchell** 🔴 +26 | 5,224 |
+| 27 | **Kelsey Mitchell** 🔴 +29 | 5,227 |
 | 28 | Swin Cash | 5,119 |
 | 29 | Tiffany Hayes | 5,049 |
 | 30 | Tangela Smith | 5,035 |
@@ -494,7 +494,7 @@ _Last updated: 2026-08-19 00:30 UTC_
 | 62 | Taj McWilliams-Franklin | 879 |
 | 63 | Noelle Quinn | 878 |
 | 64 | Lisa Leslie | 873 |
-| 65 | **Brittney Sykes** 🔴 +4 | 870 |
+| 65 | **Brittney Sykes** 🔴 +5 | 871 |
 | 66 | Tully Bevilaqua | 853 |
 | 67 | **Kelsey Mitchell** 🔴 +2 | 849 |
 | 68 | Jia Perkins | 837 |
@@ -718,8 +718,8 @@ _Last updated: 2026-08-19 00:30 UTC_
 | 81 | Alison Bales | 148 |
 | 82 | Chamique Holdsclaw | 143 |
 | 83 | Shavonte Zellous | 139 |
-| 84 | **Brittney Sykes** 🔴 | 136 |
-| 84 | Penny Taylor | 136 |
+| 84 | **Brittney Sykes** 🔴 +1 | 137 |
+| 85 | Penny Taylor | 136 |
 | 86 | **Olivia Nelson-Ododa** 🔴 +2 | 135 |
 | 87 | **Monique Billings** 🔴 | 134 |
 | 88 | Devereaux Peters | 133 |
@@ -1055,7 +1055,7 @@ _Last updated: 2026-08-19 00:30 UTC_
 | 5 | Kayla McBride | 756 |
 | 6 | Tina Thompson | 745 |
 | 7 | Katie Douglas | 723 |
-| 8 | **Kelsey Mitchell** 🔴 +3 | 715 |
+| 8 | **Kelsey Mitchell** 🔴 +4 | 716 |
 | 9 | Jewell Loyd | 695 |
 | 10 | DeWanna Bonner | 682 |
 | 11 | Kristi Toliver | 651 |

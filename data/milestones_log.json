@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-08-19T00:31:00+00:00",
+    "text": "Brittney Sykes passed Penny Taylor for #85 all-time in blocks (career 137) \u2014 (21.7 - 3rd \u2014 IND @ TOR)",
+    "kind": "rank_pass",
+    "player": "Brittney Sykes",
+    "stat": "blocks",
+    "rank": 85,
+    "passed_players": [
+      "Penny Taylor"
+    ],
+    "new_total": 137
+  },
+  {
     "ts": "2026-08-18T23:45:00+00:00",
     "text": "Brittney Sykes passed Matee Ajavon and Nicole Powell for #84 all-time in fouls (career 702) \u2014 (3:51 - 2nd \u2014 IND @ TOR)",
     "kind": "rank_pass",
@@ -2976,18 +2988,5 @@
       "Shatori Walker-Kimbrough"
     ],
     "new_total": 85
-  },
-  {
-    "ts": "2026-07-05T19:54:00+00:00",
-    "text": "Isabelle Harrison passed Jennifer Gillom and Jia Perkins for #126 all-time in blocks (career 104) \u2014 up from #128 entering today \u2014 (2:04 - 2nd \u2014 DAL @ TOR)",
-    "kind": "rank_pass",
-    "player": "Isabelle Harrison",
-    "stat": "blocks",
-    "rank": 126,
-    "passed_players": [
-      "Jennifer Gillom",
-      "Jia Perkins"
-    ],
-    "new_total": 104
   }
 ]
