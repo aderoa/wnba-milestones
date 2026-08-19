@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-19 00:36 UTC_
+_Last updated: 2026-08-19 00:37 UTC_
 
 ## Contents
 
@@ -175,7 +175,7 @@ _Last updated: 2026-08-19 00:36 UTC_
 | 154 | Tari Phillips | 2,134 |
 | 155 | Cheryl Ford | 2,116 |
 | 156 | Elena Baranova | 2,110 |
-| 157 | **Aliyah Boston** 🔴 +12 | 2,099 |
+| 157 | **Aliyah Boston** 🔴 +14 | 2,101 |
 | 158 | Aerial Powers | 2,068 |
 | 159 | Coco Miller | 2,030 |
 | 160 | Diamond DeShields | 2,026 |
@@ -568,8 +568,8 @@ _Last updated: 2026-08-19 00:36 UTC_
 | 136 | Satou Sabally | 476 |
 | 137 | Ukari Figgs | 470 |
 | 138 | Janeth Arcain | 469 |
-| 139 | Erin Phillips | 462 |
-| 139 | **Tyasha Harris** 🔴 +2 | 462 |
+| 139 | **Tyasha Harris** 🔴 +3 | 463 |
+| 140 | Erin Phillips | 462 |
 | 141 | Sylvia Fowles | 461 |
 | 142 | Sug Sutton | 456 |
 | 143 | Sydney Colson | 454 |
