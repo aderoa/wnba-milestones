@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-19 01:52 UTC_
+_Last updated: 2026-08-19 01:53 UTC_
 
 ## Contents
 
@@ -151,8 +151,8 @@ _Last updated: 2026-08-19 01:52 UTC_
 | 130 | Kayla Thornton | 2,393 |
 | 131 | DeMya Walker | 2,379 |
 | 132 | **Azurá Stevens** 🔴 +10 | 2,353 |
-| 133 | Alex Bentley | 2,350 |
-| 134 | **Jordin Canada** 🔴 +7 | 2,349 |
+| 133 | **Jordin Canada** 🔴 +10 | 2,352 |
+| 134 | Alex Bentley | 2,350 |
 | 135 | Merlakia Jones | 2,308 |
 | 136 | Betnijah Laney-Hamilton | 2,302 |
 | 137 | Satou Sabally | 2,296 |
@@ -329,7 +329,7 @@ _Last updated: 2026-08-19 01:52 UTC_
 | 103 | Latasha Byears | 1,190 |
 | 103 | Tanisha Wright | 1,190 |
 | 105 | Vicky Bullett | 1,189 |
-| 106 | **NaLyssa Smith** 🔴 +3 | 1,175 |
+| 106 | **NaLyssa Smith** 🔴 +4 | 1,176 |
 | 107 | Brittney Sykes | 1,164 |
 | 108 | Nykesha Sales | 1,148 |
 | 109 | **Natasha Cloud** 🔴 +4 | 1,145 |
@@ -1215,9 +1215,9 @@ _Last updated: 2026-08-19 01:52 UTC_
 | 166 | Myisha Hines-Allen | 131 |
 | 167 | Amanda Zahui B | 130 |
 | 167 | Eva Nemcova | 130 |
-| 169 | Crystal Dangerfield | 129 |
-| 169 | **Jordin Canada** 🔴 +1 | 129 |
-| 169 | Leonie Fiebich | 129 |
+| 167 | **Jordin Canada** 🔴 +2 | 130 |
+| 170 | Crystal Dangerfield | 129 |
+| 170 | Leonie Fiebich | 129 |
 | 172 | Kennedy Burke | 128 |
 | 172 | Ticha Penicheiro | 128 |
 | 174 | Michele Timms | 127 |
@@ -1375,7 +1375,7 @@ _Last updated: 2026-08-19 01:52 UTC_
 | 120 | Elaine Powell | 469 |
 | 121 | Allie Quigley | 467 |
 | 122 | Ariel Atkins | 466 |
-| 123 | **Jackie Young** 🔴 +2 | 465 |
+| 122 | **Jackie Young** 🔴 +3 | 466 |
 | 124 | Betnijah Laney-Hamilton | 456 |
 | 125 | Kia Vaughn | 454 |
 | 126 | Janeth Arcain | 453 |
