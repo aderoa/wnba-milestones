@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-19 01:05 UTC_
+_Last updated: 2026-08-19 01:06 UTC_
 
 ## Contents
 
@@ -31,7 +31,7 @@ _Last updated: 2026-08-19 01:05 UTC_
 | 10 | Candace Parker | 6,574 |
 | 11 | Katie Smith | 6,450 |
 | 12 | Sylvia Fowles | 6,413 |
-| 13 | **Breanna Stewart** 🔴 | 6,335 |
+| 13 | **Breanna Stewart** 🔴 +2 | 6,337 |
 | 14 | Lisa Leslie | 6,251 |
 | 15 | A'ja Wilson | 6,178 |
 | 16 | Jewell Loyd | 6,148 |
@@ -115,7 +115,7 @@ _Last updated: 2026-08-19 01:05 UTC_
 | 94 | Briann January | 3,082 |
 | 95 | Erika de Souza | 3,046 |
 | 96 | Shameka Christon | 3,039 |
-| 97 | **Natasha Cloud** 🔴 | 3,018 |
+| 97 | **Natasha Cloud** 🔴 +3 | 3,021 |
 | 98 | Marie Ferdinand-Harris | 3,001 |
 | 99 | Emma Meesseman | 2,966 |
 | 100 | Elizabeth Williams | 2,933 |
@@ -175,7 +175,7 @@ _Last updated: 2026-08-19 01:05 UTC_
 | 154 | Tari Phillips | 2,134 |
 | 155 | Cheryl Ford | 2,116 |
 | 156 | Elena Baranova | 2,110 |
-| 157 | **Aliyah Boston** 🔴 +14 | 2,101 |
+| 157 | **Aliyah Boston** 🔴 +16 | 2,103 |
 | 158 | Aerial Powers | 2,068 |
 | 159 | Coco Miller | 2,030 |
 | 160 | Diamond DeShields | 2,026 |
@@ -333,7 +333,7 @@ _Last updated: 2026-08-19 01:05 UTC_
 | 107 | **Brittney Sykes** 🔴 +2 | 1,164 |
 | 108 | Nykesha Sales | 1,148 |
 | 109 | Shannon Johnson | 1,143 |
-| 110 | **Natasha Cloud** 🔴 | 1,141 |
+| 110 | **Natasha Cloud** 🔴 +1 | 1,142 |
 | 111 | Adrian Williams-Strong | 1,131 |
 | 112 | Andrea Stinson | 1,127 |
 | 112 | Tamika Raymond | 1,127 |
@@ -523,7 +523,7 @@ _Last updated: 2026-08-19 01:05 UTC_
 | 91 | Lindsay Allen | 657 |
 | 92 | Betty Lennox | 651 |
 | 92 | Plenette Pierson | 651 |
-| 94 | **Jonquel Jones** 🔴 | 647 |
+| 94 | **Jonquel Jones** 🔴 +1 | 648 |
 | 95 | Alex Bentley | 645 |
 | 96 | Asjha Jones | 637 |
 | 97 | Jennifer Azzi | 636 |
@@ -1102,7 +1102,7 @@ _Last updated: 2026-08-19 01:05 UTC_
 | 52 | Epiphanny Prince | 368 |
 | 53 | Nykesha Sales | 352 |
 | 54 | Jackie Young | 346 |
-| 55 | **Natasha Cloud** 🔴 | 345 |
+| 54 | **Natasha Cloud** 🔴 +1 | 346 |
 | 56 | Cathrine Kraayeveld | 343 |
 | 56 | Elena Delle Donne | 343 |
 | 58 | Candace Parker | 342 |
@@ -1622,7 +1622,7 @@ _Last updated: 2026-08-19 01:05 UTC_
 | 162 | Adrienne Goodson | 512 |
 | 162 | Janeth Arcain | 512 |
 | 164 | Andrea Stinson | 511 |
-| 165 | **Isabelle Harrison** 🔴 +3 | 508 |
+| 165 | **Isabelle Harrison** 🔴 +4 | 509 |
 | 166 | Vicky Bullett | 507 |
 | 167 | Merlakia Jones | 506 |
 | 168 | Rushia Brown | 505 |
