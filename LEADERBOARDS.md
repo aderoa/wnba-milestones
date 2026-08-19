@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-19 02:38 UTC_
+_Last updated: 2026-08-19 02:39 UTC_
 
 ## Contents
 
@@ -114,7 +114,7 @@ _Last updated: 2026-08-19 02:38 UTC_
 | 93 | Shavonte Zellous | 3,103 |
 | 94 | Briann January | 3,082 |
 | 95 | Erika de Souza | 3,046 |
-| 96 | **Natasha Cloud** 🔴 +24 | 3,042 |
+| 96 | **Natasha Cloud** 🔴 +26 | 3,044 |
 | 97 | Shameka Christon | 3,039 |
 | 98 | Marie Ferdinand-Harris | 3,001 |
 | 99 | Emma Meesseman | 2,966 |
@@ -129,7 +129,7 @@ _Last updated: 2026-08-19 02:38 UTC_
 | 108 | Ticha Penicheiro | 2,729 |
 | 109 | Adrienne Goodson | 2,705 |
 | 110 | Riquna Williams | 2,659 |
-| 111 | **Rhyne Howard** 🔴 +11 | 2,648 |
+| 111 | **Rhyne Howard** 🔴 +14 | 2,651 |
 | 112 | **Cheyenne Parker-Tyus** 🔴 +2 | 2,647 |
 | 112 | Essence Carson | 2,647 |
 | 112 | Lindsey Harding | 2,647 |
@@ -410,7 +410,7 @@ _Last updated: 2026-08-19 02:38 UTC_
 | 183 | Kelsey Bone | 769 |
 | 183 | Tan White | 769 |
 | 186 | Tully Bevilaqua | 767 |
-| 187 | **Kamilla Cardoso** 🔴 +8 | 758 |
+| 187 | **Kamilla Cardoso** 🔴 +10 | 760 |
 | 188 | Layshia Clarendon | 756 |
 | 189 | Brooke Wyckoff | 751 |
 | 190 | Coco Miller | 750 |
@@ -422,8 +422,8 @@ _Last updated: 2026-08-19 02:38 UTC_
 | 195 | Shekinna Stricklen | 726 |
 | 197 | Olympia Scott | 711 |
 | 198 | Katie Mattera | 708 |
-| 199 | **Rebecca Allen** 🔴 +4 | 706 |
-| 199 | Rushia Brown | 706 |
+| 199 | **Rebecca Allen** 🔴 +5 | 707 |
+| 200 | Rushia Brown | 706 |
 
 ## Assists
 
@@ -872,8 +872,8 @@ _Last updated: 2026-08-19 02:38 UTC_
 | 28 | Natasha Howard | 467 |
 | 29 | Skylar Diggins | 463 |
 | 29 | Teresa Weatherspoon | 463 |
-| 31 | **Chelsea Gray** 🔴 +1 | 458 |
-| 31 | **Jewell Loyd** 🔴 | 458 |
+| 31 | **Jewell Loyd** 🔴 +1 | 459 |
+| 32 | **Chelsea Gray** 🔴 +1 | 458 |
 | 33 | Rebekkah Brunson | 456 |
 | 34 | Tangela Smith | 455 |
 | 35 | Tina Thompson | 452 |
@@ -1082,7 +1082,7 @@ _Last updated: 2026-08-19 02:38 UTC_
 | 33 | Lauren Jackson | 436 |
 | 34 | Shameka Christon | 434 |
 | 35 | Crystal Robinson | 425 |
-| 36 | **Rhyne Howard** 🔴 +1 | 421 |
+| 36 | **Rhyne Howard** 🔴 +2 | 422 |
 | 37 | Mwadi Mabika | 415 |
 | 38 | Penny Taylor | 407 |
 | 38 | Riquna Williams | 407 |
