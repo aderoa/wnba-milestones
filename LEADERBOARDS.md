@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-19 03:07 UTC_
+_Last updated: 2026-08-19 03:08 UTC_
 
 ## Contents
 
@@ -889,7 +889,7 @@ _Last updated: 2026-08-19 03:07 UTC_
 | 45 | Katie Smith | 408 |
 | 46 | Cappie Pondexter | 405 |
 | 47 | Nicole Powell | 401 |
-| 48 | **Jordin Canada** 🔴 +2 | 399 |
+| 48 | **Jordin Canada** 🔴 +3 | 400 |
 | 49 | Jasmine Thomas | 394 |
 | 50 | Ariel Atkins | 392 |
 | 51 | Danielle Robinson | 389 |
@@ -1365,8 +1365,8 @@ _Last updated: 2026-08-19 03:07 UTC_
 | 110 | Tamera Young | 501 |
 | 111 | Nikki Teasley | 493 |
 | 111 | Tari Phillips | 493 |
-| 113 | **A'ja Wilson** 🔴 +3 | 491 |
-| 113 | Janel McCarville | 491 |
+| 113 | **A'ja Wilson** 🔴 +4 | 492 |
+| 114 | Janel McCarville | 491 |
 | 115 | Erika de Souza | 483 |
 | 116 | Sophia Young-Malcolm | 482 |
 | 117 | Natalie Williams | 480 |
@@ -1596,7 +1596,7 @@ _Last updated: 2026-08-19 03:07 UTC_
 | 136 | Ivory Latta | 565 |
 | 137 | Barbara Farris | 563 |
 | 138 | Jessica Breland | 562 |
-| 139 | **A'ja Wilson** 🔴 | 554 |
+| 139 | **A'ja Wilson** 🔴 +1 | 555 |
 | 140 | Dawn Staley | 551 |
 | 141 | Glory Johnson | 550 |
 | 141 | Tierra Ruffin-Pratt | 550 |
