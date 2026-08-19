@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-19 01:48 UTC_
+_Last updated: 2026-08-19 01:49 UTC_
 
 ## Contents
 
@@ -110,12 +110,12 @@ _Last updated: 2026-08-19 01:48 UTC_
 | 89 | Erica Wheeler | 3,195 |
 | 90 | Danielle Robinson | 3,160 |
 | 91 | Wendy Palmer | 3,135 |
-| 92 | Shavonte Zellous | 3,103 |
-| 93 | **Sabrina Ionescu** 🔴 +5 | 3,102 |
+| 92 | **Sabrina Ionescu** 🔴 +7 | 3,104 |
+| 93 | Shavonte Zellous | 3,103 |
 | 94 | Briann January | 3,082 |
 | 95 | Erika de Souza | 3,046 |
 | 96 | Shameka Christon | 3,039 |
-| 97 | **Natasha Cloud** 🔴 +13 | 3,031 |
+| 97 | **Natasha Cloud** 🔴 +16 | 3,034 |
 | 98 | Marie Ferdinand-Harris | 3,001 |
 | 99 | Emma Meesseman | 2,966 |
 | 100 | **Elizabeth Williams** 🔴 +1 | 2,934 |
@@ -351,7 +351,7 @@ _Last updated: 2026-08-19 01:48 UTC_
 | 125 | Tamecka Dixon | 1,035 |
 | 126 | Kamila Vodichkova | 1,031 |
 | 127 | Jasmine Thomas | 1,027 |
-| 128 | **Sabrina Ionescu** 🔴 +1 | 1,021 |
+| 128 | **Sabrina Ionescu** 🔴 +2 | 1,022 |
 | 129 | Jessica Shepard | 1,016 |
 | 130 | Cathrine Kraayeveld | 1,013 |
 | 131 | Kelly Miller | 1,011 |
@@ -1100,7 +1100,7 @@ _Last updated: 2026-08-19 01:48 UTC_
 | 50 | Kia Nurse | 370 |
 | 52 | Epiphanny Prince | 368 |
 | 53 | Nykesha Sales | 352 |
-| 54 | **Natasha Cloud** 🔴 +3 | 348 |
+| 54 | **Natasha Cloud** 🔴 +4 | 349 |
 | 55 | **Jackie Young** 🔴 +1 | 347 |
 | 56 | Cathrine Kraayeveld | 343 |
 | 56 | Elena Delle Donne | 343 |
