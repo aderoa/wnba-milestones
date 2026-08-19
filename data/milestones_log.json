@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-08-19T03:19:00+00:00",
+    "text": "NaLyssa Smith passed Alanna Smith for #190 all-time in fouls (career 480) \u2014 up from #193 entering today \u2014 (40.3 - 4th \u2014 ATL @ LV)",
+    "kind": "rank_pass",
+    "player": "NaLyssa Smith",
+    "stat": "fouls",
+    "rank": 190,
+    "passed_players": [
+      "Alanna Smith"
+    ],
+    "new_total": 480
+  },
+  {
     "ts": "2026-08-19T02:58:00+00:00",
     "text": "Chelsea Gray passed Emily Engstler for #95 all-time in blocks (career 129) \u2014 up from #97 entering today \u2014 (6:42 - 4th \u2014 ATL @ LV)",
     "kind": "rank_pass",
@@ -2973,17 +2985,5 @@
       "Ashley Robinson"
     ],
     "new_total": 568
-  },
-  {
-    "ts": "2026-07-05T20:43:00+00:00",
-    "text": "Odyssey Sims passed Svetlana Abrosimova for #119 all-time in fouls (career 614) \u2014 up from #120 entering today \u2014 (6:36 - 4th \u2014 DAL @ TOR)",
-    "kind": "rank_pass",
-    "player": "Odyssey Sims",
-    "stat": "fouls",
-    "rank": 119,
-    "passed_players": [
-      "Svetlana Abrosimova"
-    ],
-    "new_total": 614
   }
 ]
