@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-19 01:21 UTC_
+_Last updated: 2026-08-19 01:22 UTC_
 
 ## Contents
 
@@ -58,7 +58,7 @@ _Last updated: 2026-08-19 01:21 UTC_
 | 37 | Chamique Holdsclaw | 4,713 |
 | 38 | Elena Delle Donne | 4,706 |
 | 39 | Natasha Howard | 4,682 |
-| 40 | **Chelsea Gray** 🔴 +3 | 4,628 |
+| 40 | **Chelsea Gray** 🔴 +5 | 4,630 |
 | 41 | Penny Taylor | 4,595 |
 | 42 | **Allisha Gray** 🔴 +6 | 4,497 |
 | 43 | Kelsey Plum | 4,494 |
@@ -66,7 +66,7 @@ _Last updated: 2026-08-19 01:21 UTC_
 | 45 | Kahleah Copper | 4,437 |
 | 46 | Crystal Langhorne | 4,433 |
 | 46 | Jia Perkins | 4,433 |
-| 48 | **Courtney Vandersloot** 🔴 | 4,362 |
+| 48 | **Courtney Vandersloot** 🔴 +2 | 4,364 |
 | 49 | **Jonquel Jones** 🔴 +5 | 4,358 |
 | 50 | Courtney Williams | 4,350 |
 | 51 | Dearica Hamby | 4,345 |
@@ -83,7 +83,7 @@ _Last updated: 2026-08-19 01:21 UTC_
 | 62 | Allie Quigley | 3,786 |
 | 63 | Chasity Melvin | 3,781 |
 | 64 | Brittney Sykes | 3,741 |
-| 65 | **Jackie Young** 🔴 +2 | 3,700 |
+| 65 | **Jackie Young** 🔴 +5 | 3,703 |
 | 66 | Kara Lawson | 3,670 |
 | 67 | Mwadi Mabika | 3,576 |
 | 68 | Odyssey Sims | 3,574 |
@@ -343,7 +343,7 @@ _Last updated: 2026-08-19 01:21 UTC_
 | 117 | Becky Hammon | 1,108 |
 | 118 | Ann Wauters | 1,105 |
 | 119 | Isabelle Harrison | 1,104 |
-| 120 | **Jackie Young** 🔴 +1 | 1,086 |
+| 120 | **Jackie Young** 🔴 +2 | 1,087 |
 | 121 | Svetlana Abrosimova | 1,078 |
 | 122 | Le'coe Willingham | 1,054 |
 | 123 | Nicole Ohlde | 1,040 |
@@ -437,7 +437,7 @@ _Last updated: 2026-08-19 01:21 UTC_
 | 6 | **Chelsea Gray** 🔴 | 2,003 |
 | 7 | Alyssa Thomas | 1,971 |
 | 8 | Skylar Diggins | 1,852 |
-| 9 | **Natasha Cloud** 🔴 +1 | 1,803 |
+| 9 | **Natasha Cloud** 🔴 +2 | 1,804 |
 | 10 | Becky Hammon | 1,705 |
 | 11 | Candace Parker | 1,634 |
 | 12 | Cappie Pondexter | 1,575 |
@@ -728,11 +728,11 @@ _Last updated: 2026-08-19 01:21 UTC_
 | 91 | Nakia Sanford | 131 |
 | 93 | Brooke Wyckoff | 129 |
 | 93 | Cathrine Kraayeveld | 129 |
+| 95 | **Chelsea Gray** 🔴 +1 | 128 |
 | 95 | Emily Engstler | 128 |
-| 96 | Alyssa Thomas | 127 |
-| 96 | **Chelsea Gray** 🔴 | 127 |
-| 96 | Chiney Ogwumike | 127 |
-| 96 | Kristen Rasmussen | 127 |
+| 97 | Alyssa Thomas | 127 |
+| 97 | Chiney Ogwumike | 127 |
+| 97 | Kristen Rasmussen | 127 |
 | 100 | Katie Douglas | 126 |
 | 100 | Mistie Bass | 126 |
 | 102 | Brionna Jones | 125 |
@@ -1100,8 +1100,8 @@ _Last updated: 2026-08-19 01:21 UTC_
 | 50 | Kia Nurse | 370 |
 | 52 | Epiphanny Prince | 368 |
 | 53 | Nykesha Sales | 352 |
-| 54 | **Jackie Young** 🔴 | 346 |
-| 54 | **Natasha Cloud** 🔴 +1 | 346 |
+| 54 | **Jackie Young** 🔴 +1 | 347 |
+| 55 | **Natasha Cloud** 🔴 +1 | 346 |
 | 56 | Cathrine Kraayeveld | 343 |
 | 56 | Elena Delle Donne | 343 |
 | 58 | Candace Parker | 342 |
