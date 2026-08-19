@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-19 02:59 UTC_
+_Last updated: 2026-08-19 03:00 UTC_
 
 ## Contents
 
@@ -31,7 +31,7 @@ _Last updated: 2026-08-19 02:59 UTC_
 | 10 | Candace Parker | 6,574 |
 | 11 | Katie Smith | 6,450 |
 | 12 | Sylvia Fowles | 6,413 |
-| 13 | **Breanna Stewart** 🔴 +20 | 6,355 |
+| 13 | **Breanna Stewart** 🔴 +22 | 6,357 |
 | 14 | Lisa Leslie | 6,251 |
 | 15 | **A'ja Wilson** 🔴 +23 | 6,201 |
 | 16 | **Jewell Loyd** 🔴 +3 | 6,151 |
@@ -66,7 +66,7 @@ _Last updated: 2026-08-19 02:59 UTC_
 | 45 | Kahleah Copper | 4,437 |
 | 46 | Crystal Langhorne | 4,433 |
 | 46 | Jia Perkins | 4,433 |
-| 48 | **Courtney Vandersloot** 🔴 +7 | 4,369 |
+| 48 | **Courtney Vandersloot** 🔴 +8 | 4,370 |
 | 49 | **Jonquel Jones** 🔴 +5 | 4,358 |
 | 50 | Courtney Williams | 4,350 |
 | 51 | Dearica Hamby | 4,345 |
@@ -113,7 +113,7 @@ _Last updated: 2026-08-19 02:59 UTC_
 | 92 | **Sabrina Ionescu** 🔴 +18 | 3,115 |
 | 93 | Shavonte Zellous | 3,103 |
 | 94 | Briann January | 3,082 |
-| 95 | **Natasha Cloud** 🔴 +34 | 3,052 |
+| 95 | **Natasha Cloud** 🔴 +35 | 3,053 |
 | 96 | Erika de Souza | 3,046 |
 | 97 | Shameka Christon | 3,039 |
 | 98 | Marie Ferdinand-Harris | 3,001 |
@@ -150,7 +150,7 @@ _Last updated: 2026-08-19 02:59 UTC_
 | 129 | Anna DeForge | 2,413 |
 | 130 | Kayla Thornton | 2,393 |
 | 131 | DeMya Walker | 2,379 |
-| 132 | **Jordin Canada** 🔴 +14 | 2,356 |
+| 132 | **Jordin Canada** 🔴 +15 | 2,357 |
 | 133 | **Azurá Stevens** 🔴 +12 | 2,355 |
 | 134 | Alex Bentley | 2,350 |
 | 135 | Merlakia Jones | 2,308 |
@@ -382,8 +382,8 @@ _Last updated: 2026-08-19 02:59 UTC_
 | 156 | Alanna Smith | 878 |
 | 157 | Marina Mabrey | 875 |
 | 158 | Shameka Christon | 867 |
-| 159 | Krystal Thomas | 862 |
-| 159 | **Naz Hillmon** 🔴 +3 | 862 |
+| 159 | **Naz Hillmon** 🔴 +4 | 863 |
+| 160 | Krystal Thomas | 862 |
 | 161 | Leilani Mitchell | 845 |
 | 162 | Essence Carson | 833 |
 | 163 | Shakira Austin | 832 |
@@ -464,7 +464,7 @@ _Last updated: 2026-08-19 02:59 UTC_
 | 33 | **Jackie Young** 🔴 +4 | 1,154 |
 | 34 | Renee Montgomery | 1,140 |
 | 35 | Swin Cash | 1,131 |
-| 36 | **Sabrina Ionescu** 🔴 +11 | 1,103 |
+| 36 | **Sabrina Ionescu** 🔴 +12 | 1,104 |
 | 37 | Lindsey Harding | 1,090 |
 | 38 | Katie Douglas | 1,069 |
 | 39 | Alana Beard | 1,061 |
@@ -1547,10 +1547,10 @@ _Last updated: 2026-08-19 02:59 UTC_
 | 87 | Tan White | 698 |
 | 88 | Katie Douglas | 697 |
 | 89 | Danielle Robinson | 692 |
-| 90 | **Breanna Stewart** 🔴 +2 | 687 |
-| 90 | **Cheyenne Parker-Tyus** 🔴 +2 | 687 |
-| 90 | **Jewell Loyd** 🔴 +3 | 687 |
-| 90 | Sophia Young-Malcolm | 687 |
+| 90 | **Breanna Stewart** 🔴 +3 | 688 |
+| 91 | **Cheyenne Parker-Tyus** 🔴 +2 | 687 |
+| 91 | **Jewell Loyd** 🔴 +3 | 687 |
+| 91 | Sophia Young-Malcolm | 687 |
 | 94 | Maya Moore | 686 |
 | 95 | Jasmine Thomas | 685 |
 | 96 | Leilani Mitchell | 684 |
