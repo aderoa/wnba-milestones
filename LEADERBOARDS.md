@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-19 00:09 UTC_
+_Last updated: 2026-08-19 00:10 UTC_
 
 ## Contents
 
@@ -104,7 +104,7 @@ _Last updated: 2026-08-19 00:09 UTC_
 | 83 | Sheri Sam | 3,353 |
 | 84 | Andrea Stinson | 3,351 |
 | 85 | Tanisha Wright | 3,324 |
-| 86 | **Marina Mabrey** 🔴 +9 | 3,258 |
+| 86 | **Marina Mabrey** 🔴 +12 | 3,261 |
 | 87 | Stefanie Dolson | 3,217 |
 | 88 | Margo Dydek | 3,214 |
 | 89 | Erica Wheeler | 3,195 |
@@ -227,7 +227,7 @@ _Last updated: 2026-08-19 00:09 UTC_
 | 1 | Tina Charles | 4,262 |
 | 2 | Sylvia Fowles | 4,005 |
 | 3 | Candace Parker | 3,467 |
-| 4 | **Nneka Ogwumike** 🔴 +3 | 3,409 |
+| 4 | **Nneka Ogwumike** 🔴 +4 | 3,410 |
 | 5 | Rebekkah Brunson | 3,345 |
 | 6 | Tamika Catchings | 3,313 |
 | 7 | Lisa Leslie | 3,303 |
@@ -244,7 +244,7 @@ _Last updated: 2026-08-19 00:09 UTC_
 | 18 | DeLisha Milton-Jones | 2,574 |
 | 19 | Swin Cash | 2,521 |
 | 20 | Michelle Snow | 2,476 |
-| 21 | **Dearica Hamby** 🔴 +2 | 2,457 |
+| 21 | **Dearica Hamby** 🔴 +3 | 2,458 |
 | 22 | Crystal Langhorne | 2,454 |
 | 23 | Lauren Jackson | 2,444 |
 | 24 | Yolanda Griffith | 2,440 |
@@ -721,10 +721,10 @@ _Last updated: 2026-08-19 00:09 UTC_
 | 84 | **Brittney Sykes** 🔴 | 136 |
 | 84 | Penny Taylor | 136 |
 | 86 | **Monique Billings** 🔴 | 134 |
-| 87 | Devereaux Peters | 133 |
-| 87 | Nicky Anosike | 133 |
-| 87 | **Olivia Nelson-Ododa** 🔴 | 133 |
-| 87 | Seimone Augustus | 133 |
+| 86 | **Olivia Nelson-Ododa** 🔴 +1 | 134 |
+| 88 | Devereaux Peters | 133 |
+| 88 | Nicky Anosike | 133 |
+| 88 | Seimone Augustus | 133 |
 | 91 | Katie Mattera | 131 |
 | 91 | Nakia Sanford | 131 |
 | 93 | Brooke Wyckoff | 129 |
@@ -1070,7 +1070,7 @@ _Last updated: 2026-08-19 00:09 UTC_
 | 20 | Sami Whitcomb | 511 |
 | 21 | Allie Quigley | 510 |
 | 22 | Leilani Mitchell | 508 |
-| 23 | **Marina Mabrey** 🔴 +1 | 501 |
+| 23 | **Marina Mabrey** 🔴 +2 | 502 |
 | 24 | Sabrina Ionescu | 468 |
 | 24 | Shekinna Stricklen | 468 |
 | 26 | Breanna Stewart | 465 |
@@ -1302,7 +1302,7 @@ _Last updated: 2026-08-19 00:09 UTC_
 | 47 | Renee Montgomery | 697 |
 | 48 | Temeka Johnson | 696 |
 | 49 | Penny Taylor | 695 |
-| 50 | **Dearica Hamby** 🔴 +3 | 687 |
+| 50 | **Dearica Hamby** 🔴 +4 | 688 |
 | 51 | Dominique Canty | 685 |
 | 52 | DeMya Walker | 684 |
 | 53 | Asjha Jones | 682 |
