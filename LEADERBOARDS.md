@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-19 01:57 UTC_
+_Last updated: 2026-08-19 01:58 UTC_
 
 ## Contents
 
@@ -237,7 +237,7 @@ _Last updated: 2026-08-19 01:57 UTC_
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | Alyssa Thomas | 2,858 |
 | 13 | **Jonquel Jones** 🔴 | 2,728 |
-| 14 | **A'ja Wilson** 🔴 +4 | 2,661 |
+| 14 | **A'ja Wilson** 🔴 +6 | 2,663 |
 | 15 | **Breanna Stewart** 🔴 +2 | 2,634 |
 | 16 | Sancho Lyttle | 2,596 |
 | 17 | Brittney Griner | 2,579 |
@@ -295,8 +295,8 @@ _Last updated: 2026-08-19 01:57 UTC_
 | 68 | Tamera Young | 1,433 |
 | 70 | Alana Beard | 1,420 |
 | 71 | Nakia Sanford | 1,419 |
+| 72 | **Allisha Gray** 🔴 +4 | 1,408 |
 | 72 | Kayla Thornton | 1,408 |
-| 73 | **Allisha Gray** 🔴 +3 | 1,407 |
 | 74 | **Courtney Vandersloot** 🔴 +2 | 1,388 |
 | 75 | Kara Braxton | 1,387 |
 | 76 | Katie Smith | 1,383 |
@@ -817,12 +817,12 @@ _Last updated: 2026-08-19 01:57 UTC_
 | 179 | Tianna Hawkins | 75 |
 | 182 | Epiphanny Prince | 74 |
 | 183 | Ayana Walker | 73 |
+| 183 | **Jackie Young** 🔴 +1 | 73 |
 | 183 | Lindsay Wisdom-Hylton | 73 |
-| 185 | Cappie Pondexter | 72 |
-| 185 | Christi Thomas | 72 |
-| 185 | **Jackie Young** 🔴 | 72 |
-| 185 | Olympia Scott | 72 |
-| 185 | Sue Bird | 72 |
+| 186 | Cappie Pondexter | 72 |
+| 186 | Christi Thomas | 72 |
+| 186 | Olympia Scott | 72 |
+| 186 | Sue Bird | 72 |
 | 190 | Marlies Askamp | 71 |
 | 190 | Tanisha Wright | 71 |
 | 192 | Wendy Palmer | 70 |
@@ -1273,7 +1273,7 @@ _Last updated: 2026-08-19 01:57 UTC_
 | 18 | Cappie Pondexter | 945 |
 | 19 | Katie Smith | 935 |
 | 20 | Shannon Johnson | 934 |
-| 21 | **Chelsea Gray** 🔴 +1 | 928 |
+| 21 | **Chelsea Gray** 🔴 +2 | 929 |
 | 22 | Skylar Diggins | 907 |
 | 23 | Taj McWilliams-Franklin | 898 |
 | 24 | Candice Dupree | 869 |
@@ -1564,7 +1564,7 @@ _Last updated: 2026-08-19 01:57 UTC_
 | 104 | Kiah Stokes | 651 |
 | 105 | Tari Phillips | 648 |
 | 106 | Marie Ferdinand-Harris | 646 |
-| 107 | **Chelsea Gray** 🔴 | 640 |
+| 107 | **Chelsea Gray** 🔴 +1 | 641 |
 | 108 | Charlotte Smith | 638 |
 | 109 | Teaira McCowan | 637 |
 | 110 | Janell Burse | 632 |
