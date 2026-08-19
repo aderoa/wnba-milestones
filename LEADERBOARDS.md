@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-19 01:29 UTC_
+_Last updated: 2026-08-19 01:30 UTC_
 
 ## Contents
 
@@ -152,7 +152,7 @@ _Last updated: 2026-08-19 01:29 UTC_
 | 131 | DeMya Walker | 2,379 |
 | 132 | **Azurá Stevens** 🔴 +10 | 2,353 |
 | 133 | Alex Bentley | 2,350 |
-| 134 | **Jordin Canada** 🔴 +2 | 2,344 |
+| 134 | **Jordin Canada** 🔴 +5 | 2,347 |
 | 135 | Merlakia Jones | 2,308 |
 | 136 | Betnijah Laney-Hamilton | 2,302 |
 | 137 | Satou Sabally | 2,296 |
@@ -297,8 +297,8 @@ _Last updated: 2026-08-19 01:29 UTC_
 | 71 | Nakia Sanford | 1,419 |
 | 72 | Kayla Thornton | 1,408 |
 | 73 | **Allisha Gray** 🔴 +2 | 1,406 |
-| 74 | **Courtney Vandersloot** 🔴 +2 | 1,388 |
-| 75 | Kara Braxton | 1,387 |
+| 74 | **Courtney Vandersloot** 🔴 +1 | 1,387 |
+| 74 | Kara Braxton | 1,387 |
 | 76 | Katie Smith | 1,383 |
 | 77 | Ebony Hoffman | 1,376 |
 | 78 | **Jewell Loyd** 🔴 | 1,371 |
@@ -411,8 +411,8 @@ _Last updated: 2026-08-19 01:29 UTC_
 | 183 | Tan White | 769 |
 | 186 | Tully Bevilaqua | 767 |
 | 187 | Layshia Clarendon | 756 |
-| 188 | Brooke Wyckoff | 751 |
-| 188 | **Kamilla Cardoso** 🔴 +1 | 751 |
+| 188 | **Kamilla Cardoso** 🔴 +3 | 753 |
+| 189 | Brooke Wyckoff | 751 |
 | 190 | Coco Miller | 750 |
 | 191 | Kelsey Plum | 741 |
 | 192 | Alex Montgomery | 735 |
@@ -1216,10 +1216,10 @@ _Last updated: 2026-08-19 01:29 UTC_
 | 167 | Amanda Zahui B | 130 |
 | 167 | Eva Nemcova | 130 |
 | 169 | Crystal Dangerfield | 129 |
+| 169 | **Jordin Canada** 🔴 +1 | 129 |
 | 169 | Leonie Fiebich | 129 |
-| 171 | **Jordin Canada** 🔴 | 128 |
-| 171 | Kennedy Burke | 128 |
-| 171 | Ticha Penicheiro | 128 |
+| 172 | Kennedy Burke | 128 |
+| 172 | Ticha Penicheiro | 128 |
 | 174 | Michele Timms | 127 |
 | 175 | Tamecka Dixon | 126 |
 | 176 | Lexie Hull | 125 |
@@ -1552,8 +1552,8 @@ _Last updated: 2026-08-19 01:29 UTC_
 | 92 | **Breanna Stewart** 🔴 | 685 |
 | 92 | Cheyenne Parker-Tyus | 685 |
 | 92 | Jasmine Thomas | 685 |
-| 95 | **Jewell Loyd** 🔴 | 684 |
-| 95 | Leilani Mitchell | 684 |
+| 92 | **Jewell Loyd** 🔴 +1 | 685 |
+| 96 | Leilani Mitchell | 684 |
 | 97 | Crystal Robinson | 682 |
 | 97 | Kayla Thornton | 682 |
 | 99 | Jennifer Lacy | 680 |
