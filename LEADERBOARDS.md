@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-19 02:39 UTC_
+_Last updated: 2026-08-19 02:40 UTC_
 
 ## Contents
 
@@ -33,7 +33,7 @@ _Last updated: 2026-08-19 02:39 UTC_
 | 12 | Sylvia Fowles | 6,413 |
 | 13 | **Breanna Stewart** 🔴 +15 | 6,350 |
 | 14 | Lisa Leslie | 6,251 |
-| 15 | **A'ja Wilson** 🔴 +18 | 6,196 |
+| 15 | **A'ja Wilson** 🔴 +20 | 6,198 |
 | 16 | **Jewell Loyd** 🔴 +3 | 6,151 |
 | 17 | Brittney Griner | 6,087 |
 | 18 | Lauren Jackson | 6,005 |
@@ -256,7 +256,7 @@ _Last updated: 2026-08-19 02:39 UTC_
 | 30 | Chamique Holdsclaw | 2,123 |
 | 31 | Chasity Melvin | 2,097 |
 | 32 | Tammy Sutton-Brown | 2,010 |
-| 33 | **Elizabeth Williams** 🔴 +1 | 1,979 |
+| 33 | **Elizabeth Williams** 🔴 +2 | 1,980 |
 | 34 | Cheryl Ford | 1,907 |
 | 35 | Courtney Williams | 1,843 |
 | 36 | Kiah Stokes | 1,835 |
@@ -319,8 +319,8 @@ _Last updated: 2026-08-19 02:39 UTC_
 | 92 | Liz Cambage | 1,258 |
 | 94 | Tiffany Hayes | 1,257 |
 | 95 | Kayla McBride | 1,256 |
-| 96 | **Brianna Turner** 🔴 | 1,243 |
-| 96 | Ezi Magbegor | 1,243 |
+| 96 | **Brianna Turner** 🔴 +1 | 1,244 |
+| 97 | Ezi Magbegor | 1,243 |
 | 98 | Seimone Augustus | 1,228 |
 | 99 | Jia Perkins | 1,220 |
 | 100 | Aliyah Boston | 1,204 |
@@ -346,12 +346,12 @@ _Last updated: 2026-08-19 02:39 UTC_
 | 120 | **Jackie Young** 🔴 +5 | 1,090 |
 | 121 | Svetlana Abrosimova | 1,078 |
 | 122 | Le'coe Willingham | 1,054 |
-| 123 | **Angel Reese** 🔴 +7 | 1,042 |
+| 123 | **Angel Reese** 🔴 +8 | 1,043 |
 | 124 | Nicole Ohlde | 1,040 |
 | 125 | Tamecka Dixon | 1,035 |
 | 126 | Kamila Vodichkova | 1,031 |
 | 127 | Jasmine Thomas | 1,027 |
-| 128 | **Sabrina Ionescu** 🔴 +5 | 1,025 |
+| 128 | **Sabrina Ionescu** 🔴 +6 | 1,026 |
 | 129 | Jessica Shepard | 1,016 |
 | 130 | Cathrine Kraayeveld | 1,013 |
 | 131 | Kelly Miller | 1,011 |
@@ -675,7 +675,7 @@ _Last updated: 2026-08-19 02:39 UTC_
 | 39 | Napheesa Collier | 239 |
 | 40 | Emma Meesseman | 238 |
 | 41 | **Azurá Stevens** 🔴 +1 | 237 |
-| 42 | **Brianna Turner** 🔴 | 234 |
+| 42 | **Brianna Turner** 🔴 +1 | 235 |
 | 43 | Skylar Diggins | 231 |
 | 44 | Chasity Melvin | 228 |
 | 45 | Alanna Smith | 225 |
