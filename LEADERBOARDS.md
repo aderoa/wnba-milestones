@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-19 01:56 UTC_
+_Last updated: 2026-08-19 01:57 UTC_
 
 ## Contents
 
@@ -33,8 +33,8 @@ _Last updated: 2026-08-19 01:56 UTC_
 | 12 | Sylvia Fowles | 6,413 |
 | 13 | **Breanna Stewart** 🔴 +9 | 6,344 |
 | 14 | Lisa Leslie | 6,251 |
-| 15 | **A'ja Wilson** 🔴 +12 | 6,190 |
-| 16 | **Jewell Loyd** 🔴 | 6,148 |
+| 15 | **A'ja Wilson** 🔴 +14 | 6,192 |
+| 16 | **Jewell Loyd** 🔴 +3 | 6,151 |
 | 17 | Brittney Griner | 6,087 |
 | 18 | Lauren Jackson | 6,005 |
 | 18 | Seimone Augustus | 6,005 |
@@ -434,7 +434,7 @@ _Last updated: 2026-08-19 01:56 UTC_
 | 3 | Ticha Penicheiro | 2,588 |
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
-| 6 | **Chelsea Gray** 🔴 +1 | 2,004 |
+| 6 | **Chelsea Gray** 🔴 +2 | 2,005 |
 | 7 | Alyssa Thomas | 1,971 |
 | 8 | Skylar Diggins | 1,852 |
 | 9 | **Natasha Cloud** 🔴 +2 | 1,804 |
@@ -454,14 +454,14 @@ _Last updated: 2026-08-19 01:56 UTC_
 | 23 | Teresa Weatherspoon | 1,333 |
 | 24 | Kristi Toliver | 1,301 |
 | 25 | Kelsey Plum | 1,270 |
-| 26 | **Jordin Canada** 🔴 +3 | 1,265 |
+| 26 | **Jordin Canada** 🔴 +4 | 1,266 |
 | 27 | Katie Smith | 1,258 |
 | 28 | Odyssey Sims | 1,228 |
 | 29 | Vickie Johnson | 1,202 |
 | 30 | Leilani Mitchell | 1,197 |
 | 31 | DeWanna Bonner | 1,196 |
 | 32 | **Jewell Loyd** 🔴 +1 | 1,157 |
-| 33 | **Jackie Young** 🔴 +1 | 1,151 |
+| 33 | **Jackie Young** 🔴 +2 | 1,152 |
 | 34 | Renee Montgomery | 1,140 |
 | 35 | Swin Cash | 1,131 |
 | 36 | **Sabrina Ionescu** 🔴 +5 | 1,097 |
@@ -1055,7 +1055,7 @@ _Last updated: 2026-08-19 01:56 UTC_
 | 6 | Tina Thompson | 745 |
 | 7 | Katie Douglas | 723 |
 | 8 | Kelsey Mitchell | 716 |
-| 9 | **Jewell Loyd** 🔴 | 695 |
+| 9 | **Jewell Loyd** 🔴 +1 | 696 |
 | 10 | DeWanna Bonner | 682 |
 | 11 | Kristi Toliver | 651 |
 | 12 | Kelsey Plum | 619 |
