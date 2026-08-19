@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-19 02:25 UTC_
+_Last updated: 2026-08-19 02:26 UTC_
 
 ## Contents
 
@@ -114,7 +114,7 @@ _Last updated: 2026-08-19 02:25 UTC_
 | 93 | Shavonte Zellous | 3,103 |
 | 94 | Briann January | 3,082 |
 | 95 | Erika de Souza | 3,046 |
-| 96 | **Natasha Cloud** 🔴 +22 | 3,040 |
+| 96 | **Natasha Cloud** 🔴 +24 | 3,042 |
 | 97 | Shameka Christon | 3,039 |
 | 98 | Marie Ferdinand-Harris | 3,001 |
 | 99 | Emma Meesseman | 2,966 |
@@ -329,7 +329,7 @@ _Last updated: 2026-08-19 02:25 UTC_
 | 103 | Latasha Byears | 1,190 |
 | 103 | Tanisha Wright | 1,190 |
 | 105 | Vicky Bullett | 1,189 |
-| 106 | **NaLyssa Smith** 🔴 +4 | 1,176 |
+| 106 | **NaLyssa Smith** 🔴 +5 | 1,177 |
 | 107 | Brittney Sykes | 1,164 |
 | 108 | Nykesha Sales | 1,148 |
 | 109 | **Natasha Cloud** 🔴 +5 | 1,146 |
@@ -553,7 +553,7 @@ _Last updated: 2026-08-19 02:25 UTC_
 | 122 | Myisha Hines-Allen | 532 |
 | 123 | Marie Ferdinand-Harris | 528 |
 | 124 | Margo Dydek | 524 |
-| 125 | **Rachel Banham** 🔴 | 511 |
+| 125 | **Rachel Banham** 🔴 +1 | 512 |
 | 126 | Iziane Castro Marques | 509 |
 | 127 | Brittany Boyd-Jones | 508 |
 | 127 | Chasity Melvin | 508 |
@@ -1526,8 +1526,8 @@ _Last updated: 2026-08-19 02:25 UTC_
 | 66 | Sue Bird | 775 |
 | 67 | Sheri Sam | 766 |
 | 68 | Kahleah Copper | 758 |
-| 69 | **Allisha Gray** 🔴 +3 | 755 |
-| 69 | Kia Vaughn | 755 |
+| 69 | **Allisha Gray** 🔴 +4 | 756 |
+| 70 | Kia Vaughn | 755 |
 | 71 | Vickie Johnson | 752 |
 | 72 | Kara Braxton | 748 |
 | 73 | Crystal Langhorne | 737 |
