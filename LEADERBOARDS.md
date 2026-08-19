@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-19 23:37 UTC_
+_Last updated: 2026-08-19 23:38 UTC_
 
 ## Contents
 
@@ -760,10 +760,10 @@ _Last updated: 2026-08-19 23:37 UTC_
 | 122 | Sylvia Crawley | 106 |
 | 124 | Carolyn Swords | 104 |
 | 124 | Rebecca Lobo | 104 |
+| 126 | **Isabelle Harrison** 🔴 +1 | 103 |
 | 126 | Jennifer Gillom | 103 |
 | 126 | Jia Perkins | 103 |
-| 128 | **Isabelle Harrison** 🔴 | 102 |
-| 128 | Theresa Plaisance | 102 |
+| 129 | Theresa Plaisance | 102 |
 | 130 | Deanna Nolan | 101 |
 | 131 | Chante Black | 100 |
 | 131 | Danielle Adams | 100 |
@@ -1623,10 +1623,10 @@ _Last updated: 2026-08-19 23:37 UTC_
 | 162 | Janeth Arcain | 512 |
 | 164 | Andrea Stinson | 511 |
 | 165 | Vicky Bullett | 507 |
-| 166 | **Isabelle Harrison** 🔴 +1 | 506 |
 | 166 | Merlakia Jones | 506 |
-| 168 | Rushia Brown | 505 |
-| 168 | Shekinna Stricklen | 505 |
+| 167 | **Isabelle Harrison** 🔴 | 505 |
+| 167 | Rushia Brown | 505 |
+| 167 | Shekinna Stricklen | 505 |
 | 170 | Allison Feaster | 504 |
 | 170 | Erin Perperoglou | 504 |
 | 170 | Napheesa Collier | 504 |
