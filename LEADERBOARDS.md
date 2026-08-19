@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-19 01:36 UTC_
+_Last updated: 2026-08-19 01:37 UTC_
 
 ## Contents
 
@@ -131,7 +131,7 @@ _Last updated: 2026-08-19 01:36 UTC_
 | 110 | Riquna Williams | 2,659 |
 | 111 | Essence Carson | 2,647 |
 | 111 | Lindsey Harding | 2,647 |
-| 113 | Cheyenne Parker-Tyus | 2,645 |
+| 113 | **Cheyenne Parker-Tyus** 🔴 | 2,645 |
 | 114 | Tamera Young | 2,641 |
 | 115 | **Rhyne Howard** 🔴 +2 | 2,639 |
 | 116 | Liz Cambage | 2,634 |
@@ -289,7 +289,7 @@ _Last updated: 2026-08-19 01:36 UTC_
 | 63 | Ticha Penicheiro | 1,485 |
 | 64 | Alysha Clark | 1,469 |
 | 65 | Sue Bird | 1,466 |
-| 66 | Cheyenne Parker-Tyus | 1,463 |
+| 66 | **Cheyenne Parker-Tyus** 🔴 | 1,463 |
 | 67 | Nicole Powell | 1,457 |
 | 68 | Monique Billings | 1,433 |
 | 68 | Tamera Young | 1,433 |
@@ -437,7 +437,7 @@ _Last updated: 2026-08-19 01:36 UTC_
 | 6 | **Chelsea Gray** 🔴 +1 | 2,004 |
 | 7 | Alyssa Thomas | 1,971 |
 | 8 | Skylar Diggins | 1,852 |
-| 9 | **Natasha Cloud** 🔴 +2 | 1,804 |
+| 9 | **Natasha Cloud** 🔴 +3 | 1,805 |
 | 10 | Becky Hammon | 1,705 |
 | 11 | Candace Parker | 1,634 |
 | 12 | Cappie Pondexter | 1,575 |
@@ -669,7 +669,7 @@ _Last updated: 2026-08-19 01:36 UTC_
 | 33 | Rebekkah Brunson | 281 |
 | 34 | Nneka Ogwumike | 266 |
 | 35 | Liz Cambage | 264 |
-| 36 | Cheyenne Parker-Tyus | 261 |
+| 36 | **Cheyenne Parker-Tyus** 🔴 | 261 |
 | 37 | Swin Cash | 258 |
 | 38 | Plenette Pierson | 242 |
 | 39 | Napheesa Collier | 239 |
@@ -992,7 +992,7 @@ _Last updated: 2026-08-19 01:36 UTC_
 | 147 | Jennifer Gillom | 220 |
 | 149 | Allison Feaster | 219 |
 | 149 | Kahleah Copper | 219 |
-| 151 | Cheyenne Parker-Tyus | 217 |
+| 151 | **Cheyenne Parker-Tyus** 🔴 | 217 |
 | 151 | Shenise Johnson | 217 |
 | 153 | Adrian Williams-Strong | 216 |
 | 153 | Moriah Jefferson | 216 |
@@ -1348,7 +1348,7 @@ _Last updated: 2026-08-19 01:36 UTC_
 | 93 | Layshia Clarendon | 536 |
 | 94 | Ivory Latta | 534 |
 | 94 | Iziane Castro Marques | 534 |
-| 96 | **Sabrina Ionescu** 🔴 | 533 |
+| 94 | **Sabrina Ionescu** 🔴 +1 | 534 |
 | 97 | Mwadi Mabika | 532 |
 | 98 | Nakia Sanford | 531 |
 | 99 | Arike Ogunbowale | 529 |
@@ -1382,7 +1382,7 @@ _Last updated: 2026-08-19 01:36 UTC_
 | 127 | Elena Baranova | 444 |
 | 127 | Jantel Lavender | 444 |
 | 129 | Alysha Clark | 443 |
-| 130 | Cheyenne Parker-Tyus | 441 |
+| 130 | **Cheyenne Parker-Tyus** 🔴 | 441 |
 | 131 | Ann Wauters | 440 |
 | 132 | Tiffany Mitchell | 439 |
 | 133 | Kedra Holland-Corn | 438 |
@@ -1527,8 +1527,8 @@ _Last updated: 2026-08-19 01:36 UTC_
 | 67 | Sheri Sam | 766 |
 | 68 | Kahleah Copper | 758 |
 | 69 | Kia Vaughn | 755 |
-| 70 | **Allisha Gray** 🔴 | 752 |
-| 70 | Vickie Johnson | 752 |
+| 70 | **Allisha Gray** 🔴 +1 | 753 |
+| 71 | Vickie Johnson | 752 |
 | 72 | Kara Braxton | 748 |
 | 73 | Crystal Langhorne | 737 |
 | 74 | Shameka Christon | 734 |
@@ -1550,7 +1550,7 @@ _Last updated: 2026-08-19 01:36 UTC_
 | 90 | Sophia Young-Malcolm | 687 |
 | 91 | Maya Moore | 686 |
 | 92 | **Breanna Stewart** 🔴 | 685 |
-| 92 | Cheyenne Parker-Tyus | 685 |
+| 92 | **Cheyenne Parker-Tyus** 🔴 | 685 |
 | 92 | Jasmine Thomas | 685 |
 | 92 | **Jewell Loyd** 🔴 +1 | 685 |
 | 96 | Leilani Mitchell | 684 |
