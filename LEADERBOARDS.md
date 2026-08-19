@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-19 02:32 UTC_
+_Last updated: 2026-08-19 02:33 UTC_
 
 ## Contents
 
@@ -150,8 +150,8 @@ _Last updated: 2026-08-19 02:32 UTC_
 | 129 | Anna DeForge | 2,413 |
 | 130 | Kayla Thornton | 2,393 |
 | 131 | DeMya Walker | 2,379 |
-| 132 | **Azurá Stevens** 🔴 +12 | 2,355 |
-| 133 | **Jordin Canada** 🔴 +12 | 2,354 |
+| 132 | **Jordin Canada** 🔴 +14 | 2,356 |
+| 133 | **Azurá Stevens** 🔴 +12 | 2,355 |
 | 134 | Alex Bentley | 2,350 |
 | 135 | Merlakia Jones | 2,308 |
 | 136 | Betnijah Laney-Hamilton | 2,302 |
@@ -351,7 +351,7 @@ _Last updated: 2026-08-19 02:32 UTC_
 | 125 | Tamecka Dixon | 1,035 |
 | 126 | Kamila Vodichkova | 1,031 |
 | 127 | Jasmine Thomas | 1,027 |
-| 128 | **Sabrina Ionescu** 🔴 +4 | 1,024 |
+| 128 | **Sabrina Ionescu** 🔴 +5 | 1,025 |
 | 129 | Jessica Shepard | 1,016 |
 | 130 | Cathrine Kraayeveld | 1,013 |
 | 131 | Kelly Miller | 1,011 |
@@ -889,7 +889,7 @@ _Last updated: 2026-08-19 02:32 UTC_
 | 45 | Katie Smith | 408 |
 | 46 | Cappie Pondexter | 405 |
 | 47 | Nicole Powell | 401 |
-| 48 | **Jordin Canada** 🔴 +2 | 399 |
+| 48 | **Jordin Canada** 🔴 +3 | 400 |
 | 49 | Jasmine Thomas | 394 |
 | 50 | Ariel Atkins | 392 |
 | 51 | Danielle Robinson | 389 |
@@ -903,7 +903,7 @@ _Last updated: 2026-08-19 02:32 UTC_
 | 59 | Chamique Holdsclaw | 376 |
 | 60 | Brittney Sykes | 371 |
 | 61 | Mwadi Mabika | 370 |
-| 62 | **A'ja Wilson** 🔴 +1 | 362 |
+| 62 | **A'ja Wilson** 🔴 +2 | 363 |
 | 63 | Erica Wheeler | 361 |
 | 64 | Lauren Jackson | 360 |
 | 64 | Tan White | 360 |
@@ -939,7 +939,7 @@ _Last updated: 2026-08-19 02:32 UTC_
 | 95 | Ebony Hoffman | 308 |
 | 96 | Tamera Young | 305 |
 | 97 | Kedra Holland-Corn | 301 |
-| 98 | **Elizabeth Williams** 🔴 +1 | 296 |
+| 98 | **Elizabeth Williams** 🔴 +2 | 297 |
 | 99 | Lindsey Harding | 295 |
 | 100 | Janel McCarville | 294 |
 | 101 | Kelly Miller | 290 |
