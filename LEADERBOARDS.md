@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-19 02:51 UTC_
+_Last updated: 2026-08-19 02:52 UTC_
 
 ## Contents
 
@@ -113,7 +113,7 @@ _Last updated: 2026-08-19 02:51 UTC_
 | 92 | **Sabrina Ionescu** 🔴 +18 | 3,115 |
 | 93 | Shavonte Zellous | 3,103 |
 | 94 | Briann January | 3,082 |
-| 95 | **Natasha Cloud** 🔴 +29 | 3,047 |
+| 95 | **Natasha Cloud** 🔴 +31 | 3,049 |
 | 96 | Erika de Souza | 3,046 |
 | 97 | Shameka Christon | 3,039 |
 | 98 | Marie Ferdinand-Harris | 3,001 |
@@ -197,7 +197,7 @@ _Last updated: 2026-08-19 02:51 UTC_
 | 176 | Ebony Hoffman | 1,909 |
 | 177 | Candice Wiggins | 1,901 |
 | 178 | Gabby Williams | 1,899 |
-| 179 | **NaLyssa Smith** 🔴 +5 | 1,884 |
+| 179 | **NaLyssa Smith** 🔴 +7 | 1,886 |
 | 180 | **Rachel Banham** 🔴 +3 | 1,846 |
 | 181 | Damiris Dantas | 1,842 |
 | 181 | Sophie Cunningham | 1,842 |
@@ -502,7 +502,7 @@ _Last updated: 2026-08-19 02:51 UTC_
 | 71 | Tina Thompson | 803 |
 | 72 | Epiphanny Prince | 800 |
 | 73 | Mwadi Mabika | 774 |
-| 74 | **Allisha Gray** 🔴 +2 | 769 |
+| 74 | **Allisha Gray** 🔴 +3 | 770 |
 | 75 | Sheri Sam | 745 |
 | 76 | Monique Currie | 740 |
 | 77 | Dearica Hamby | 729 |
@@ -1632,7 +1632,7 @@ _Last updated: 2026-08-19 02:51 UTC_
 | 170 | Napheesa Collier | 504 |
 | 173 | Iziane Castro Marques | 502 |
 | 174 | Elena Baranova | 501 |
-| 175 | **Azurá Stevens** 🔴 +3 | 498 |
+| 175 | **Azurá Stevens** 🔴 +4 | 499 |
 | 176 | Adrian Williams-Strong | 497 |
 | 176 | Essence Carson | 497 |
 | 176 | **Rachel Banham** 🔴 | 497 |
