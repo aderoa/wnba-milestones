@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-08-19T02:19:00+00:00",
+    "text": "Natasha Cloud passed Shameka Christon for #96 all-time in points (career 3,040) \u2014 up from #97 entering today \u2014 (5:11 - 3rd \u2014 NY @ CHI)",
+    "kind": "rank_pass",
+    "player": "Natasha Cloud",
+    "stat": "points",
+    "rank": 96,
+    "passed_players": [
+      "Shameka Christon"
+    ],
+    "new_total": 3040
+  },
+  {
     "ts": "2026-08-19T00:31:00+00:00",
     "text": "Brittney Sykes passed Penny Taylor for #85 all-time in blocks (career 137) \u2014 (21.7 - 3rd \u2014 IND @ TOR)",
     "kind": "rank_pass",
@@ -2975,18 +2987,5 @@
       "Sue Wicks"
     ],
     "new_total": 781
-  },
-  {
-    "ts": "2026-07-05T20:01:00+00:00",
-    "text": "Marina Mabrey passed Charde Houston and Shatori Walker-Kimbrough for #155 all-time in blocks (career 85) \u2014 up from #156 entering today \u2014 (Halftime \u2014 DAL @ TOR)",
-    "kind": "rank_pass",
-    "player": "Marina Mabrey",
-    "stat": "blocks",
-    "rank": 155,
-    "passed_players": [
-      "Charde Houston",
-      "Shatori Walker-Kimbrough"
-    ],
-    "new_total": 85
   }
 ]

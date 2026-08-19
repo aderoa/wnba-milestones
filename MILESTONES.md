@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-08-19 02:19 UTC
+
+- **Natasha Cloud** passed **Shameka Christon** for **#96** all-time in points (career 3,040) — up from #97 entering today — _5:11 - 3rd — NY @ CHI_
+
 ## 2026-08-19 00:31 UTC
 
 - **Brittney Sykes** passed **Penny Taylor** for **#85** all-time in blocks (career 137) — _21.7 - 3rd — IND @ TOR_
