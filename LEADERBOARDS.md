@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-19 01:31 UTC_
+_Last updated: 2026-08-19 01:32 UTC_
 
 ## Contents
 
@@ -238,7 +238,7 @@ _Last updated: 2026-08-19 01:31 UTC_
 | 12 | Alyssa Thomas | 2,858 |
 | 13 | **Jonquel Jones** 🔴 | 2,728 |
 | 14 | **A'ja Wilson** 🔴 +3 | 2,660 |
-| 15 | **Breanna Stewart** 🔴 +1 | 2,633 |
+| 15 | **Breanna Stewart** 🔴 +2 | 2,634 |
 | 16 | Sancho Lyttle | 2,596 |
 | 17 | Brittney Griner | 2,579 |
 | 18 | DeLisha Milton-Jones | 2,574 |
@@ -434,7 +434,7 @@ _Last updated: 2026-08-19 01:31 UTC_
 | 3 | Ticha Penicheiro | 2,588 |
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
-| 6 | **Chelsea Gray** 🔴 | 2,003 |
+| 6 | **Chelsea Gray** 🔴 +1 | 2,004 |
 | 7 | Alyssa Thomas | 1,971 |
 | 8 | Skylar Diggins | 1,852 |
 | 9 | **Natasha Cloud** 🔴 +2 | 1,804 |
@@ -1649,8 +1649,8 @@ _Last updated: 2026-08-19 01:31 UTC_
 | 189 | Sami Whitcomb | 480 |
 | 190 | Alanna Smith | 479 |
 | 191 | Seimone Augustus | 477 |
-| 192 | Allie Quigley | 475 |
-| 192 | **NaLyssa Smith** 🔴 +1 | 475 |
+| 192 | **NaLyssa Smith** 🔴 +2 | 476 |
+| 193 | Allie Quigley | 475 |
 | 194 | Satou Sabally | 471 |
 | 195 | Christi Thomas | 463 |
 | 195 | Nikki Teasley | 463 |
