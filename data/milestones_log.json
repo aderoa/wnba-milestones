@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-08-19T02:58:00+00:00",
+    "text": "Chelsea Gray passed Emily Engstler for #95 all-time in blocks (career 129) \u2014 up from #97 entering today \u2014 (6:42 - 4th \u2014 ATL @ LV)",
+    "kind": "rank_pass",
+    "player": "Chelsea Gray",
+    "stat": "blocks",
+    "rank": 95,
+    "passed_players": [
+      "Emily Engstler"
+    ],
+    "new_total": 129
+  },
+  {
     "ts": "2026-08-19T02:51:00+00:00",
     "text": "Natasha Cloud passed Erika de Souza for #95 all-time in points (career 3,047) \u2014 up from #97 entering today \u2014 (1:50 - 4th \u2014 NY @ CHI)",
     "kind": "rank_pass",
@@ -2973,19 +2985,5 @@
       "Svetlana Abrosimova"
     ],
     "new_total": 614
-  },
-  {
-    "ts": "2026-07-05T20:23:00+00:00",
-    "text": "Awak Kuier passed Charlotte Smith, Cintia dos Santos, and Jessie Hicks for #161 all-time in blocks (career 82) \u2014 up from #164 entering today \u2014 (5:32 - 3rd \u2014 DAL @ TOR)",
-    "kind": "rank_pass",
-    "player": "Awak Kuier",
-    "stat": "blocks",
-    "rank": 161,
-    "passed_players": [
-      "Charlotte Smith",
-      "Cintia dos Santos",
-      "Jessie Hicks"
-    ],
-    "new_total": 82
   }
 ]
