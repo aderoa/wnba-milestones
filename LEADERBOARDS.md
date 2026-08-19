@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-19 01:38 UTC_
+_Last updated: 2026-08-19 01:39 UTC_
 
 ## Contents
 
@@ -152,7 +152,7 @@ _Last updated: 2026-08-19 01:38 UTC_
 | 131 | DeMya Walker | 2,379 |
 | 132 | **Azurá Stevens** 🔴 +10 | 2,353 |
 | 133 | Alex Bentley | 2,350 |
-| 134 | **Jordin Canada** 🔴 +5 | 2,347 |
+| 134 | **Jordin Canada** 🔴 +7 | 2,349 |
 | 135 | Merlakia Jones | 2,308 |
 | 136 | Betnijah Laney-Hamilton | 2,302 |
 | 137 | Satou Sabally | 2,296 |
@@ -383,7 +383,7 @@ _Last updated: 2026-08-19 01:38 UTC_
 | 157 | Marina Mabrey | 875 |
 | 158 | Shameka Christon | 867 |
 | 159 | Krystal Thomas | 862 |
-| 160 | **Naz Hillmon** 🔴 +1 | 860 |
+| 160 | **Naz Hillmon** 🔴 +2 | 861 |
 | 161 | Leilani Mitchell | 845 |
 | 162 | Essence Carson | 833 |
 | 163 | Shakira Austin | 832 |
@@ -1492,8 +1492,8 @@ _Last updated: 2026-08-19 01:38 UTC_
 | 32 | Asjha Jones | 971 |
 | 33 | Margo Dydek | 950 |
 | 34 | Sancho Lyttle | 947 |
-| 35 | **Courtney Vandersloot** 🔴 +1 | 941 |
-| 35 | Mwadi Mabika | 941 |
+| 35 | **Courtney Vandersloot** 🔴 +2 | 942 |
+| 36 | Mwadi Mabika | 941 |
 | 37 | Tamika Whitmore | 940 |
 | 38 | DeWanna Bonner | 922 |
 | 39 | Briann January | 921 |
@@ -1548,11 +1548,11 @@ _Last updated: 2026-08-19 01:38 UTC_
 | 88 | Katie Douglas | 697 |
 | 89 | Danielle Robinson | 692 |
 | 90 | Sophia Young-Malcolm | 687 |
+| 91 | **Cheyenne Parker-Tyus** 🔴 +1 | 686 |
 | 91 | Maya Moore | 686 |
-| 92 | **Breanna Stewart** 🔴 | 685 |
-| 92 | **Cheyenne Parker-Tyus** 🔴 | 685 |
-| 92 | Jasmine Thomas | 685 |
-| 92 | **Jewell Loyd** 🔴 +1 | 685 |
+| 93 | **Breanna Stewart** 🔴 | 685 |
+| 93 | Jasmine Thomas | 685 |
+| 93 | **Jewell Loyd** 🔴 +1 | 685 |
 | 96 | Leilani Mitchell | 684 |
 | 97 | Crystal Robinson | 682 |
 | 97 | Kayla Thornton | 682 |
