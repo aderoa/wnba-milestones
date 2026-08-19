@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-19 01:20 UTC_
+_Last updated: 2026-08-19 01:21 UTC_
 
 ## Contents
 
@@ -31,10 +31,10 @@ _Last updated: 2026-08-19 01:20 UTC_
 | 10 | Candace Parker | 6,574 |
 | 11 | Katie Smith | 6,450 |
 | 12 | Sylvia Fowles | 6,413 |
-| 13 | **Breanna Stewart** 🔴 +6 | 6,341 |
+| 13 | **Breanna Stewart** 🔴 +8 | 6,343 |
 | 14 | Lisa Leslie | 6,251 |
 | 15 | **A'ja Wilson** 🔴 | 6,178 |
-| 16 | Jewell Loyd | 6,148 |
+| 16 | **Jewell Loyd** 🔴 | 6,148 |
 | 17 | Brittney Griner | 6,087 |
 | 18 | Lauren Jackson | 6,005 |
 | 18 | Seimone Augustus | 6,005 |
@@ -115,7 +115,7 @@ _Last updated: 2026-08-19 01:20 UTC_
 | 94 | Briann January | 3,082 |
 | 95 | Erika de Souza | 3,046 |
 | 96 | Shameka Christon | 3,039 |
-| 97 | **Natasha Cloud** 🔴 +3 | 3,021 |
+| 97 | **Natasha Cloud** 🔴 +5 | 3,023 |
 | 98 | Marie Ferdinand-Harris | 3,001 |
 | 99 | Emma Meesseman | 2,966 |
 | 100 | **Elizabeth Williams** 🔴 | 2,933 |
@@ -301,7 +301,7 @@ _Last updated: 2026-08-19 01:20 UTC_
 | 74 | Kara Braxton | 1,387 |
 | 76 | Katie Smith | 1,383 |
 | 77 | Ebony Hoffman | 1,376 |
-| 78 | Jewell Loyd | 1,371 |
+| 78 | **Jewell Loyd** 🔴 | 1,371 |
 | 79 | Sheri Sam | 1,356 |
 | 80 | Tamika Whitmore | 1,355 |
 | 81 | Emma Meesseman | 1,350 |
@@ -332,8 +332,8 @@ _Last updated: 2026-08-19 01:20 UTC_
 | 106 | **NaLyssa Smith** 🔴 +2 | 1,174 |
 | 107 | Brittney Sykes | 1,164 |
 | 108 | Nykesha Sales | 1,148 |
-| 109 | **Natasha Cloud** 🔴 +2 | 1,143 |
-| 109 | Shannon Johnson | 1,143 |
+| 109 | **Natasha Cloud** 🔴 +3 | 1,144 |
+| 110 | Shannon Johnson | 1,143 |
 | 111 | Adrian Williams-Strong | 1,131 |
 | 112 | Andrea Stinson | 1,127 |
 | 112 | Tamika Raymond | 1,127 |
@@ -347,7 +347,7 @@ _Last updated: 2026-08-19 01:20 UTC_
 | 121 | Svetlana Abrosimova | 1,078 |
 | 122 | Le'coe Willingham | 1,054 |
 | 123 | Nicole Ohlde | 1,040 |
-| 124 | **Angel Reese** 🔴 +3 | 1,038 |
+| 124 | **Angel Reese** 🔴 +4 | 1,039 |
 | 125 | Tamecka Dixon | 1,035 |
 | 126 | Kamila Vodichkova | 1,031 |
 | 127 | Jasmine Thomas | 1,027 |
@@ -460,11 +460,11 @@ _Last updated: 2026-08-19 01:20 UTC_
 | 29 | Vickie Johnson | 1,202 |
 | 30 | Leilani Mitchell | 1,197 |
 | 31 | DeWanna Bonner | 1,196 |
-| 32 | Jewell Loyd | 1,156 |
+| 32 | **Jewell Loyd** 🔴 | 1,156 |
 | 33 | **Jackie Young** 🔴 | 1,150 |
 | 34 | Renee Montgomery | 1,140 |
 | 35 | Swin Cash | 1,131 |
-| 36 | **Sabrina Ionescu** 🔴 +2 | 1,094 |
+| 36 | **Sabrina Ionescu** 🔴 +4 | 1,096 |
 | 37 | Lindsey Harding | 1,090 |
 | 38 | Katie Douglas | 1,069 |
 | 39 | Alana Beard | 1,061 |
@@ -502,7 +502,7 @@ _Last updated: 2026-08-19 01:20 UTC_
 | 71 | Tina Thompson | 803 |
 | 72 | Epiphanny Prince | 800 |
 | 73 | Mwadi Mabika | 774 |
-| 74 | **Allisha Gray** 🔴 | 767 |
+| 74 | **Allisha Gray** 🔴 +1 | 768 |
 | 75 | Sheri Sam | 745 |
 | 76 | Monique Currie | 740 |
 | 77 | Dearica Hamby | 729 |
@@ -773,7 +773,7 @@ _Last updated: 2026-08-19 01:20 UTC_
 | 137 | Aneika Morello | 96 |
 | 137 | Tiffani Johnson | 96 |
 | 139 | Imani McGee-Stafford | 95 |
-| 140 | Jewell Loyd | 94 |
+| 140 | **Jewell Loyd** 🔴 | 94 |
 | 140 | Sandrine Gruda | 94 |
 | 142 | Kayla Thornton | 93 |
 | 143 | Jasmine Thomas | 91 |
@@ -872,7 +872,7 @@ _Last updated: 2026-08-19 01:20 UTC_
 | 28 | Natasha Howard | 467 |
 | 29 | Skylar Diggins | 463 |
 | 29 | Teresa Weatherspoon | 463 |
-| 31 | Jewell Loyd | 458 |
+| 31 | **Jewell Loyd** 🔴 | 458 |
 | 32 | **Chelsea Gray** 🔴 | 457 |
 | 33 | Rebekkah Brunson | 456 |
 | 34 | Tangela Smith | 455 |
@@ -1055,7 +1055,7 @@ _Last updated: 2026-08-19 01:20 UTC_
 | 6 | Tina Thompson | 745 |
 | 7 | Katie Douglas | 723 |
 | 8 | Kelsey Mitchell | 716 |
-| 9 | Jewell Loyd | 695 |
+| 9 | **Jewell Loyd** 🔴 | 695 |
 | 10 | DeWanna Bonner | 682 |
 | 11 | Kristi Toliver | 651 |
 | 12 | Kelsey Plum | 619 |
@@ -1283,7 +1283,7 @@ _Last updated: 2026-08-19 01:20 UTC_
 | 29 | Nneka Ogwumike | 804 |
 | 30 | Betty Lennox | 800 |
 | 31 | Jasmine Thomas | 796 |
-| 32 | Jewell Loyd | 795 |
+| 32 | **Jewell Loyd** 🔴 | 795 |
 | 33 | Chamique Holdsclaw | 789 |
 | 34 | Crystal Langhorne | 782 |
 | 35 | Camille Smith | 779 |
@@ -1551,7 +1551,7 @@ _Last updated: 2026-08-19 01:20 UTC_
 | 92 | **Breanna Stewart** 🔴 | 685 |
 | 92 | Cheyenne Parker-Tyus | 685 |
 | 92 | Jasmine Thomas | 685 |
-| 95 | Jewell Loyd | 684 |
+| 95 | **Jewell Loyd** 🔴 | 684 |
 | 95 | Leilani Mitchell | 684 |
 | 97 | Crystal Robinson | 682 |
 | 97 | Kayla Thornton | 682 |
