@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-19 02:24 UTC_
+_Last updated: 2026-08-19 02:25 UTC_
 
 ## Contents
 
@@ -33,7 +33,7 @@ _Last updated: 2026-08-19 02:24 UTC_
 | 12 | Sylvia Fowles | 6,413 |
 | 13 | **Breanna Stewart** 🔴 +13 | 6,348 |
 | 14 | Lisa Leslie | 6,251 |
-| 15 | **A'ja Wilson** 🔴 +17 | 6,195 |
+| 15 | **A'ja Wilson** 🔴 +18 | 6,196 |
 | 16 | **Jewell Loyd** 🔴 +3 | 6,151 |
 | 17 | Brittney Griner | 6,087 |
 | 18 | Lauren Jackson | 6,005 |
@@ -132,7 +132,7 @@ _Last updated: 2026-08-19 02:24 UTC_
 | 111 | **Cheyenne Parker-Tyus** 🔴 +2 | 2,647 |
 | 111 | Essence Carson | 2,647 |
 | 111 | Lindsey Harding | 2,647 |
-| 114 | **Rhyne Howard** 🔴 +7 | 2,644 |
+| 114 | **Rhyne Howard** 🔴 +9 | 2,646 |
 | 115 | Tamera Young | 2,641 |
 | 116 | Liz Cambage | 2,634 |
 | 117 | Janeth Arcain | 2,633 |
@@ -295,7 +295,7 @@ _Last updated: 2026-08-19 02:24 UTC_
 | 68 | Tamera Young | 1,433 |
 | 70 | Alana Beard | 1,420 |
 | 71 | Nakia Sanford | 1,419 |
-| 72 | **Allisha Gray** 🔴 +5 | 1,409 |
+| 72 | **Allisha Gray** 🔴 +6 | 1,410 |
 | 73 | Kayla Thornton | 1,408 |
 | 74 | **Courtney Vandersloot** 🔴 +2 | 1,388 |
 | 75 | Kara Braxton | 1,387 |
@@ -329,7 +329,7 @@ _Last updated: 2026-08-19 02:24 UTC_
 | 103 | Latasha Byears | 1,190 |
 | 103 | Tanisha Wright | 1,190 |
 | 105 | Vicky Bullett | 1,189 |
-| 106 | **NaLyssa Smith** 🔴 +3 | 1,175 |
+| 106 | **NaLyssa Smith** 🔴 +4 | 1,176 |
 | 107 | Brittney Sykes | 1,164 |
 | 108 | Nykesha Sales | 1,148 |
 | 109 | **Natasha Cloud** 🔴 +5 | 1,146 |
@@ -800,7 +800,7 @@ _Last updated: 2026-08-19 02:24 UTC_
 | 164 | Awak Kuier | 80 |
 | 164 | Nykesha Sales | 80 |
 | 164 | Rushia Brown | 80 |
-| 167 | **Stephanie Talbot** 🔴 | 79 |
+| 164 | **Stephanie Talbot** 🔴 +1 | 80 |
 | 168 | Astou Ndour-Fall | 78 |
 | 168 | Katie Smith | 78 |
 | 168 | Slobodanka Tuvic | 78 |
@@ -898,7 +898,7 @@ _Last updated: 2026-08-19 02:24 UTC_
 | 54 | Swin Cash | 384 |
 | 54 | Tiffany Hayes | 384 |
 | 54 | Tina Charles | 384 |
-| 57 | **Allisha Gray** 🔴 +1 | 380 |
+| 57 | **Allisha Gray** 🔴 +2 | 381 |
 | 58 | Monique Currie | 378 |
 | 59 | Chamique Holdsclaw | 376 |
 | 60 | Brittney Sykes | 371 |
@@ -1273,7 +1273,7 @@ _Last updated: 2026-08-19 02:24 UTC_
 | 18 | Cappie Pondexter | 945 |
 | 19 | Katie Smith | 935 |
 | 20 | Shannon Johnson | 934 |
-| 21 | **Chelsea Gray** 🔴 +2 | 929 |
+| 21 | **Chelsea Gray** 🔴 +3 | 930 |
 | 22 | Skylar Diggins | 907 |
 | 23 | Taj McWilliams-Franklin | 898 |
 | 24 | Candice Dupree | 869 |
