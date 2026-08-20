@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-20 01:02 UTC_
+_Last updated: 2026-08-20 01:03 UTC_
 
 ## Contents
 
@@ -187,7 +187,7 @@ _Last updated: 2026-08-20 01:02 UTC_
 | 166 | Nicole Ohlde | 1,959 |
 | 167 | Myisha Hines-Allen | 1,956 |
 | 168 | Kedra Holland-Corn | 1,938 |
-| 169 | **Isabelle Harrison** 🔴 | 1,932 |
+| 169 | **Isabelle Harrison** 🔴 +2 | 1,934 |
 | 170 | Cathrine Kraayeveld | 1,926 |
 | 171 | Roneeka Hodges | 1,925 |
 | 172 | Latasha Byears | 1,920 |
@@ -758,9 +758,9 @@ _Last updated: 2026-08-20 01:02 UTC_
 | 120 | Glory Johnson | 108 |
 | 122 | Dearica Hamby | 106 |
 | 122 | Sylvia Crawley | 106 |
-| 124 | Carolyn Swords | 104 |
-| 124 | **Isabelle Harrison** 🔴 +2 | 104 |
-| 124 | Rebecca Lobo | 104 |
+| 124 | **Isabelle Harrison** 🔴 +3 | 105 |
+| 125 | Carolyn Swords | 104 |
+| 125 | Rebecca Lobo | 104 |
 | 127 | Jennifer Gillom | 103 |
 | 127 | Jia Perkins | 103 |
 | 129 | Theresa Plaisance | 102 |

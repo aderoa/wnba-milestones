@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-08-20T01:03:00+00:00",
+    "text": "Isabelle Harrison passed Carolyn Swords and Rebecca Lobo for #124 all-time in blocks (career 105) \u2014 up from #128 entering today \u2014 (9:25 - 4th \u2014 TOR @ WSH)",
+    "kind": "rank_pass",
+    "player": "Isabelle Harrison",
+    "stat": "blocks",
+    "rank": 124,
+    "passed_players": [
+      "Carolyn Swords",
+      "Rebecca Lobo"
+    ],
+    "new_total": 105
+  },
+  {
     "ts": "2026-08-20T00:54:00+00:00",
     "text": "Betnijah Laney-Hamilton passed Merlakia Jones for #135 all-time in points (career 2,309) \u2014 up from #136 entering today \u2014 (39.1 - 3rd \u2014 TOR @ WSH)",
     "kind": "rank_pass",
@@ -2973,17 +2986,5 @@
       "Damiris Dantas"
     ],
     "new_total": 83
-  },
-  {
-    "ts": "2026-07-05T20:50:00+00:00",
-    "text": "Marina Mabrey passed Alanna Smith for #156 all-time in rebounds (career 879) \u2014 up from #157 entering today \u2014 (5:13 - 4th \u2014 DAL @ TOR)",
-    "kind": "rank_pass",
-    "player": "Marina Mabrey",
-    "stat": "rebounds",
-    "rank": 156,
-    "passed_players": [
-      "Alanna Smith"
-    ],
-    "new_total": 879
   }
 ]

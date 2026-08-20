@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-08-20 01:03 UTC
+
+- **Isabelle Harrison** passed **Carolyn Swords** and **Rebecca Lobo** for **#124** all-time in blocks (career 105) — up from #128 entering today — _9:25 - 4th — TOR @ WSH_
+
 ## 2026-08-20 00:54 UTC
 
 - **Betnijah Laney-Hamilton** passed **Merlakia Jones** for **#135** all-time in points (career 2,309) — up from #136 entering today — _39.1 - 3rd — TOR @ WSH_
