@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-08-20 02:29 UTC
+
+- **Tiffany Hayes** passed **Allie Quigley** and **Alysha Clark** for **#145** all-time in blocks (career 91) — up from #148 entering today — _27.9 - 1st — MIN @ GS_
+
 ## 2026-08-20 01:19 UTC
 
 - **Kia Nurse** passed **Jamierra Faulkner** and **Murriel Page** for **#165** all-time in assists (career 411) — up from #167 entering today — _4:04 - 4th — TOR @ WSH_

@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-08-20T02:29:00+00:00",
+    "text": "Tiffany Hayes passed Allie Quigley and Alysha Clark for #145 all-time in blocks (career 91) \u2014 up from #148 entering today \u2014 (27.9 - 1st \u2014 MIN @ GS)",
+    "kind": "rank_pass",
+    "player": "Tiffany Hayes",
+    "stat": "blocks",
+    "rank": 145,
+    "passed_players": [
+      "Allie Quigley",
+      "Alysha Clark"
+    ],
+    "new_total": 91
+  },
+  {
     "ts": "2026-08-20T01:19:00+00:00",
     "text": "Kia Nurse passed Jamierra Faulkner and Murriel Page for #165 all-time in assists (career 411) \u2014 up from #167 entering today \u2014 (4:04 - 4th \u2014 TOR @ WSH)",
     "kind": "rank_pass",
@@ -2974,17 +2987,5 @@
       "Jennifer Lacy"
     ],
     "new_total": 161
-  },
-  {
-    "ts": "2026-07-05T21:07:00+00:00",
-    "text": "Alysha Clark passed Allie Quigley for #145 all-time in blocks (career 91) \u2014 up from #146 entering today \u2014 (End of 4th \u2014 DAL @ TOR)",
-    "kind": "rank_pass",
-    "player": "Alysha Clark",
-    "stat": "blocks",
-    "rank": 145,
-    "passed_players": [
-      "Allie Quigley"
-    ],
-    "new_total": 91
   }
 ]
