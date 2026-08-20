@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-20 02:43 UTC_
+_Last updated: 2026-08-20 02:44 UTC_
 
 ## Contents
 
@@ -1426,8 +1426,8 @@ _Last updated: 2026-08-20 02:43 UTC_
 | 170 | Satou Sabally | 345 |
 | 171 | Teaira McCowan | 340 |
 | 172 | Loree Moore | 339 |
-| 173 | Charlotte Smith | 337 |
-| 173 | **Gabby Williams** 🔴 +1 | 337 |
+| 173 | **Gabby Williams** 🔴 +2 | 338 |
+| 174 | Charlotte Smith | 337 |
 | 175 | Scholanda Dorrell | 335 |
 | 176 | Aerial Powers | 333 |
 | 176 | Diamond DeShields | 333 |
