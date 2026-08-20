@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-20 03:26 UTC_
+_Last updated: 2026-08-20 03:27 UTC_
 
 ## Contents
 
@@ -1324,7 +1324,7 @@ _Last updated: 2026-08-20 03:26 UTC_
 | 68 | Odyssey Sims | 631 |
 | 68 | Svetlana Abrosimova | 631 |
 | 70 | Kahleah Copper | 625 |
-| 71 | **Tiffany Hayes** 🔴 | 624 |
+| 70 | **Tiffany Hayes** 🔴 +1 | 625 |
 | 72 | Rebekkah Brunson | 615 |
 | 73 | Seimone Augustus | 613 |
 | 74 | Teresa Weatherspoon | 601 |
@@ -1390,8 +1390,8 @@ _Last updated: 2026-08-20 03:26 UTC_
 | 134 | Jennifer Gillom | 434 |
 | 134 | Nicole Ohlde | 434 |
 | 136 | Murriel Page | 432 |
+| 137 | **Napheesa Collier** 🔴 +2 | 424 |
 | 137 | Shameka Christon | 424 |
-| 138 | **Napheesa Collier** 🔴 +1 | 423 |
 | 139 | Cynthia Cooper | 422 |
 | 139 | Noelle Quinn | 422 |
 | 141 | Bria Hartley | 419 |
@@ -1482,7 +1482,7 @@ _Last updated: 2026-08-20 03:26 UTC_
 | 21 | Michelle Snow | 1,108 |
 | 22 | Sylvia Fowles | 1,049 |
 | 23 | Tina Charles | 1,037 |
-| 24 | **Tiffany Hayes** 🔴 +2 | 1,023 |
+| 24 | **Tiffany Hayes** 🔴 +3 | 1,024 |
 | 25 | Lindsay Whalen | 998 |
 | 26 | Rebekkah Brunson | 996 |
 | 27 | Brittney Griner | 995 |
@@ -1635,8 +1635,8 @@ _Last updated: 2026-08-20 03:26 UTC_
 | 174 | Elena Baranova | 501 |
 | 175 | Adrian Williams-Strong | 497 |
 | 175 | Essence Carson | 497 |
+| 175 | **Nia Coffey** 🔴 +2 | 497 |
 | 175 | Rachel Banham | 497 |
-| 178 | **Nia Coffey** 🔴 +1 | 496 |
 | 179 | Azurá Stevens | 495 |
 | 180 | Karima Christmas-Kelly | 494 |
 | 181 | Ann Wauters | 493 |
