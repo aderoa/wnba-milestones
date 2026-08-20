@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-20 03:25 UTC_
+_Last updated: 2026-08-20 03:26 UTC_
 
 ## Contents
 
@@ -477,7 +477,7 @@ _Last updated: 2026-08-20 03:25 UTC_
 | 45 | Nikki Teasley | 982 |
 | 46 | Breanna Stewart | 981 |
 | 47 | Tamecka Dixon | 960 |
-| 48 | **Tiffany Hayes** 🔴 | 957 |
+| 48 | **Tiffany Hayes** 🔴 +1 | 958 |
 | 49 | Kara Lawson | 946 |
 | 50 | Arike Ogunbowale | 944 |
 | 51 | Nneka Ogwumike | 933 |
@@ -697,8 +697,8 @@ _Last updated: 2026-08-20 03:25 UTC_
 | 60 | Kelly Schumacher | 183 |
 | 61 | Maria Stepanova | 182 |
 | 62 | Courtney Paris | 178 |
-| 62 | **Nia Coffey** 🔴 +1 | 178 |
-| 64 | Vanessa Hayden | 177 |
+| 63 | **Nia Coffey** 🔴 | 177 |
+| 63 | Vanessa Hayden | 177 |
 | 65 | Maya Moore | 176 |
 | 66 | Kia Vaughn | 175 |
 | 67 | Amanda Zahui B | 171 |
@@ -1222,9 +1222,9 @@ _Last updated: 2026-08-20 03:25 UTC_
 | 171 | Ticha Penicheiro | 128 |
 | 173 | Michele Timms | 127 |
 | 174 | Tamecka Dixon | 126 |
-| 175 | Kennedy Burke | 125 |
-| 175 | Lexie Hull | 125 |
-| 175 | **Veronica Burton** 🔴 +1 | 125 |
+| 174 | **Veronica Burton** 🔴 +2 | 126 |
+| 176 | Kennedy Burke | 125 |
+| 176 | Lexie Hull | 125 |
 | 178 | Charde Houston | 124 |
 | 179 | Lisa Leslie | 123 |
 | 180 | Sidney Spencer | 122 |
@@ -1470,8 +1470,8 @@ _Last updated: 2026-08-20 03:25 UTC_
 | 9 | Tammy Sutton-Brown | 1,193 |
 | 10 | Plenette Pierson | 1,175 |
 | 11 | Chasity Melvin | 1,165 |
-| 12 | Camille Smith | 1,159 |
-| 12 | **Natasha Howard** 🔴 +1 | 1,159 |
+| 12 | **Natasha Howard** 🔴 +2 | 1,160 |
+| 13 | Camille Smith | 1,159 |
 | 14 | Nneka Ogwumike | 1,156 |
 | 15 | Alana Beard | 1,153 |
 | 16 | Swin Cash | 1,146 |
