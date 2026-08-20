@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-20 03:31 UTC_
+_Last updated: 2026-08-20 03:32 UTC_
 
 ## Contents
 
@@ -1390,8 +1390,8 @@ _Last updated: 2026-08-20 03:31 UTC_
 | 134 | Jennifer Gillom | 434 |
 | 134 | Nicole Ohlde | 434 |
 | 136 | Murriel Page | 432 |
-| 137 | **Napheesa Collier** 🔴 +2 | 424 |
-| 137 | Shameka Christon | 424 |
+| 137 | **Napheesa Collier** 🔴 +3 | 425 |
+| 138 | Shameka Christon | 424 |
 | 139 | Cynthia Cooper | 422 |
 | 139 | Noelle Quinn | 422 |
 | 141 | Bria Hartley | 419 |
@@ -1626,11 +1626,11 @@ _Last updated: 2026-08-20 03:31 UTC_
 | 165 | Vicky Bullett | 507 |
 | 166 | Isabelle Harrison | 506 |
 | 166 | Merlakia Jones | 506 |
+| 168 | **Napheesa Collier** 🔴 +1 | 505 |
 | 168 | Rushia Brown | 505 |
 | 168 | Shekinna Stricklen | 505 |
-| 170 | Allison Feaster | 504 |
-| 170 | Erin Perperoglou | 504 |
-| 170 | **Napheesa Collier** 🔴 | 504 |
+| 171 | Allison Feaster | 504 |
+| 171 | Erin Perperoglou | 504 |
 | 173 | Iziane Castro Marques | 502 |
 | 174 | Elena Baranova | 501 |
 | 175 | Adrian Williams-Strong | 497 |
