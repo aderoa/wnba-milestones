@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-20 03:21 UTC_
+_Last updated: 2026-08-20 03:22 UTC_
 
 ## Contents
 
@@ -697,8 +697,8 @@ _Last updated: 2026-08-20 03:21 UTC_
 | 60 | Kelly Schumacher | 183 |
 | 61 | Maria Stepanova | 182 |
 | 62 | Courtney Paris | 178 |
-| 63 | **Nia Coffey** 🔴 | 177 |
-| 63 | Vanessa Hayden | 177 |
+| 62 | **Nia Coffey** 🔴 +1 | 178 |
+| 64 | Vanessa Hayden | 177 |
 | 65 | Maya Moore | 176 |
 | 66 | Kia Vaughn | 175 |
 | 67 | Amanda Zahui B | 171 |
