@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-20 02:17 UTC_
+_Last updated: 2026-08-20 02:18 UTC_
 
 ## Contents
 
@@ -41,7 +41,7 @@ _Last updated: 2026-08-20 02:17 UTC_
 | 20 | Becky Hammon | 5,816 |
 | 21 | Angel McCoughtry | 5,797 |
 | 22 | Skylar Diggins | 5,732 |
-| 23 | **Kayla McBride** 🔴 +3 | 5,653 |
+| 23 | **Kayla McBride** 🔴 +4 | 5,654 |
 | 24 | DeLisha Milton-Jones | 5,571 |
 | 25 | Katie Douglas | 5,545 |
 | 26 | Lindsay Whalen | 5,511 |
@@ -285,7 +285,7 @@ _Last updated: 2026-08-20 02:17 UTC_
 | 59 | Angel McCoughtry | 1,561 |
 | 60 | Penny Taylor | 1,552 |
 | 61 | Cappie Pondexter | 1,513 |
-| 62 | **Napheesa Collier** 🔴 | 1,510 |
+| 62 | **Napheesa Collier** 🔴 +1 | 1,511 |
 | 63 | Ticha Penicheiro | 1,485 |
 | 64 | Alysha Clark | 1,469 |
 | 65 | Sue Bird | 1,466 |
@@ -316,9 +316,9 @@ _Last updated: 2026-08-20 02:17 UTC_
 | 90 | Myisha Hines-Allen | 1,265 |
 | 91 | Janel McCarville | 1,261 |
 | 92 | Liz Cambage | 1,258 |
-| 93 | Chelsea Gray | 1,257 |
-| 93 | **Kayla McBride** 🔴 +1 | 1,257 |
-| 93 | **Tiffany Hayes** 🔴 | 1,257 |
+| 92 | **Tiffany Hayes** 🔴 +1 | 1,258 |
+| 94 | Chelsea Gray | 1,257 |
+| 94 | **Kayla McBride** 🔴 +1 | 1,257 |
 | 96 | Brianna Turner | 1,243 |
 | 96 | Ezi Magbegor | 1,243 |
 | 98 | Seimone Augustus | 1,228 |
