@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-20 01:18 UTC_
+_Last updated: 2026-08-20 01:19 UTC_
 
 ## Contents
 
@@ -594,9 +594,9 @@ _Last updated: 2026-08-20 01:18 UTC_
 | 162 | Candice Wiggins | 417 |
 | 163 | Aari McDonald | 415 |
 | 164 | Erin Thorn | 414 |
-| 165 | Jamierra Faulkner | 410 |
-| 165 | **Kia Nurse** 🔴 +3 | 410 |
-| 165 | Murriel Page | 410 |
+| 165 | **Kia Nurse** 🔴 +4 | 411 |
+| 166 | Jamierra Faulkner | 410 |
+| 166 | Murriel Page | 410 |
 | 168 | Allison Feaster | 406 |
 | 169 | Rita Williams | 403 |
 | 170 | Stephanie Talbot | 400 |

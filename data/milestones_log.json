@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-08-20T01:19:00+00:00",
+    "text": "Kia Nurse passed Jamierra Faulkner and Murriel Page for #165 all-time in assists (career 411) \u2014 up from #167 entering today \u2014 (4:04 - 4th \u2014 TOR @ WSH)",
+    "kind": "rank_pass",
+    "player": "Kia Nurse",
+    "stat": "assists",
+    "rank": 165,
+    "passed_players": [
+      "Jamierra Faulkner",
+      "Murriel Page"
+    ],
+    "new_total": 411
+  },
+  {
     "ts": "2026-08-20T01:03:00+00:00",
     "text": "Isabelle Harrison passed Carolyn Swords and Rebecca Lobo for #124 all-time in blocks (career 105) \u2014 up from #128 entering today \u2014 (9:25 - 4th \u2014 TOR @ WSH)",
     "kind": "rank_pass",
@@ -2973,18 +2986,5 @@
       "Allie Quigley"
     ],
     "new_total": 91
-  },
-  {
-    "ts": "2026-07-05T20:50:00+00:00",
-    "text": "Awak Kuier passed Cameron Brink and Damiris Dantas for #159 all-time in blocks (career 83) \u2014 up from #164 entering today \u2014 (5:13 - 4th \u2014 DAL @ TOR)",
-    "kind": "rank_pass",
-    "player": "Awak Kuier",
-    "stat": "blocks",
-    "rank": 159,
-    "passed_players": [
-      "Cameron Brink",
-      "Damiris Dantas"
-    ],
-    "new_total": 83
   }
 ]

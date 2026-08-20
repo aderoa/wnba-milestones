@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-08-20 01:19 UTC
+
+- **Kia Nurse** passed **Jamierra Faulkner** and **Murriel Page** for **#165** all-time in assists (career 411) — up from #167 entering today — _4:04 - 4th — TOR @ WSH_
+
 ## 2026-08-20 01:03 UTC
 
 - **Isabelle Harrison** passed **Carolyn Swords** and **Rebecca Lobo** for **#124** all-time in blocks (career 105) — up from #128 entering today — _9:25 - 4th — TOR @ WSH_
