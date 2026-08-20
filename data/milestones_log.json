@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-08-20T00:54:00+00:00",
+    "text": "Betnijah Laney-Hamilton passed Merlakia Jones for #135 all-time in points (career 2,309) \u2014 up from #136 entering today \u2014 (39.1 - 3rd \u2014 TOR @ WSH)",
+    "kind": "rank_pass",
+    "player": "Betnijah Laney-Hamilton",
+    "stat": "points",
+    "rank": 135,
+    "passed_players": [
+      "Merlakia Jones"
+    ],
+    "new_total": 2309
+  },
+  {
     "ts": "2026-08-19T03:19:00+00:00",
     "text": "NaLyssa Smith passed Alanna Smith for #190 all-time in fouls (career 480) \u2014 up from #193 entering today \u2014 (40.3 - 4th \u2014 ATL @ LV)",
     "kind": "rank_pass",
@@ -2973,17 +2985,5 @@
       "Alanna Smith"
     ],
     "new_total": 879
-  },
-  {
-    "ts": "2026-07-05T20:49:00+00:00",
-    "text": "Marina Mabrey passed Ashley Robinson for #134 all-time in fouls (career 568) \u2014 up from #135 entering today \u2014 (5:38 - 4th \u2014 DAL @ TOR)",
-    "kind": "rank_pass",
-    "player": "Marina Mabrey",
-    "stat": "fouls",
-    "rank": 134,
-    "passed_players": [
-      "Ashley Robinson"
-    ],
-    "new_total": 568
   }
 ]
