@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-20 03:45 UTC_
+_Last updated: 2026-08-20 03:46 UTC_
 
 ## Contents
 
@@ -538,7 +538,7 @@ _Last updated: 2026-08-20 03:45 UTC_
 | 106 | Caitlin Clark | 591 |
 | 107 | Camille Smith | 590 |
 | 108 | Armintie Herrington | 589 |
-| 109 | **Veronica Burton** 🔴 +2 | 581 |
+| 109 | **Veronica Burton** 🔴 +3 | 582 |
 | 110 | Tan White | 578 |
 | 111 | Matee Ajavon | 577 |
 | 112 | **Napheesa Collier** 🔴 | 570 |
@@ -927,8 +927,8 @@ _Last updated: 2026-08-20 03:45 UTC_
 | 81 | Leilani Mitchell | 330 |
 | 83 | **Courtney Williams** 🔴 | 329 |
 | 83 | Kristi Toliver | 329 |
+| 85 | **Gabby Williams** 🔴 +2 | 328 |
 | 85 | Matee Ajavon | 328 |
-| 86 | **Gabby Williams** 🔴 +1 | 327 |
 | 87 | **Napheesa Collier** 🔴 | 325 |
 | 88 | Betty Lennox | 323 |
 | 89 | Tammy Sutton-Brown | 319 |
