@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-20 02:34 UTC_
+_Last updated: 2026-08-20 02:35 UTC_
 
 ## Contents
 
@@ -67,8 +67,8 @@ _Last updated: 2026-08-20 02:34 UTC_
 | 46 | Crystal Langhorne | 4,433 |
 | 46 | Jia Perkins | 4,433 |
 | 48 | Courtney Vandersloot | 4,362 |
-| 49 | Jonquel Jones | 4,353 |
-| 50 | **Courtney Williams** 🔴 +2 | 4,352 |
+| 49 | **Courtney Williams** 🔴 +5 | 4,355 |
+| 50 | Jonquel Jones | 4,353 |
 | 51 | Dearica Hamby | 4,330 |
 | 52 | Sophia Young-Malcolm | 4,300 |
 | 53 | Plenette Pierson | 4,258 |
@@ -88,7 +88,7 @@ _Last updated: 2026-08-20 02:34 UTC_
 | 67 | Mwadi Mabika | 3,576 |
 | 68 | Odyssey Sims | 3,574 |
 | 69 | Camille Smith | 3,551 |
-| 70 | **Napheesa Collier** 🔴 +6 | 3,548 |
+| 70 | **Napheesa Collier** 🔴 +8 | 3,550 |
 | 71 | Shannon Johnson | 3,542 |
 | 72 | Renee Montgomery | 3,533 |
 | 73 | Jasmine Thomas | 3,522 |
@@ -285,7 +285,7 @@ _Last updated: 2026-08-20 02:34 UTC_
 | 59 | Angel McCoughtry | 1,561 |
 | 60 | Penny Taylor | 1,552 |
 | 61 | Cappie Pondexter | 1,513 |
-| 62 | **Napheesa Collier** 🔴 +1 | 1,511 |
+| 62 | **Napheesa Collier** 🔴 +2 | 1,512 |
 | 63 | Ticha Penicheiro | 1,485 |
 | 64 | Alysha Clark | 1,469 |
 | 65 | Sue Bird | 1,466 |
@@ -1128,8 +1128,8 @@ _Last updated: 2026-08-20 02:34 UTC_
 | 77 | Tully Bevilaqua | 290 |
 | 79 | Alana Beard | 288 |
 | 80 | Monique Currie | 284 |
+| 81 | **Courtney Williams** 🔴 +1 | 278 |
 | 81 | Stefanie Dolson | 278 |
-| 82 | **Courtney Williams** 🔴 | 277 |
 | 83 | Iziane Castro Marques | 275 |
 | 84 | Sheryl Swoopes | 270 |
 | 85 | Sophia Witherspoon | 260 |
