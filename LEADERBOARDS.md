@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-21 01:25 UTC_
+_Last updated: 2026-08-21 01:26 UTC_
 
 ## Contents
 
@@ -54,7 +54,7 @@ _Last updated: 2026-08-21 01:25 UTC_
 | 33 | Sheryl Swoopes | 4,875 |
 | 34 | Alyssa Thomas | 4,752 |
 | 35 | Alana Beard | 4,740 |
-| 36 | **Arike Ogunbowale** 🔴 +11 | 4,726 |
+| 36 | **Arike Ogunbowale** 🔴 +14 | 4,729 |
 | 37 | Chamique Holdsclaw | 4,713 |
 | 38 | Elena Delle Donne | 4,706 |
 | 39 | Natasha Howard | 4,682 |
@@ -496,7 +496,7 @@ _Last updated: 2026-08-21 01:25 UTC_
 | 64 | Lisa Leslie | 873 |
 | 65 | Brittney Sykes | 866 |
 | 66 | Tully Bevilaqua | 853 |
-| 67 | **Kelsey Mitchell** 🔴 +2 | 849 |
+| 67 | **Kelsey Mitchell** 🔴 +3 | 850 |
 | 68 | Jia Perkins | 837 |
 | 69 | Andrea Stinson | 810 |
 | 70 | Tina Thompson | 803 |
@@ -785,11 +785,11 @@ _Last updated: 2026-08-21 01:25 UTC_
 | 147 | Tiffany Hayes | 89 |
 | 149 | Marissa Coleman | 88 |
 | 150 | Astou Ndiaye-Diatta | 86 |
-| 151 | Adrian Williams-Strong | 85 |
-| 151 | **Awak Kuier** 🔴 +5 | 85 |
-| 151 | Erlana Larkins | 85 |
-| 151 | Kalani Brown | 85 |
-| 151 | Kristin Folkl | 85 |
+| 150 | **Awak Kuier** 🔴 +6 | 86 |
+| 152 | Adrian Williams-Strong | 85 |
+| 152 | Erlana Larkins | 85 |
+| 152 | Kalani Brown | 85 |
+| 152 | Kristin Folkl | 85 |
 | 156 | Charde Houston | 84 |
 | 156 | Marina Mabrey | 84 |
 | 156 | Shatori Walker-Kimbrough | 84 |
@@ -1062,7 +1062,7 @@ _Last updated: 2026-08-21 01:25 UTC_
 | 12 | Kelsey Plum | 619 |
 | 13 | Tamika Catchings | 605 |
 | 14 | Kara Lawson | 583 |
-| 15 | **Arike Ogunbowale** 🔴 | 581 |
+| 15 | **Arike Ogunbowale** 🔴 +1 | 582 |
 | 16 | Nicole Powell | 579 |
 | 17 | Ivory Latta | 536 |
 | 18 | Renee Montgomery | 532 |
@@ -1221,9 +1221,9 @@ _Last updated: 2026-08-21 01:25 UTC_
 | 171 | Jordin Canada | 128 |
 | 171 | Ticha Penicheiro | 128 |
 | 173 | Michele Timms | 127 |
+| 174 | **Lexie Hull** 🔴 +1 | 126 |
 | 174 | Tamecka Dixon | 126 |
-| 175 | Kennedy Burke | 125 |
-| 175 | **Lexie Hull** 🔴 | 125 |
+| 176 | Kennedy Burke | 125 |
 | 177 | Charde Houston | 124 |
 | 177 | Veronica Burton | 124 |
 | 179 | Lisa Leslie | 123 |

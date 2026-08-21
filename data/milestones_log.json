@@ -1,5 +1,20 @@
 [
   {
+    "ts": "2026-08-21T01:26:00+00:00",
+    "text": "Awak Kuier passed Adrian Williams-Strong, Erlana Larkins, Kalani Brown, and Kristin Folkl for #151 all-time in blocks (career 86) \u2014 up from #164 entering today \u2014 (4:07 - 3rd \u2014 IND @ DAL)",
+    "kind": "rank_pass",
+    "player": "Awak Kuier",
+    "stat": "blocks",
+    "rank": 151,
+    "passed_players": [
+      "Adrian Williams-Strong",
+      "Erlana Larkins",
+      "Kalani Brown",
+      "Kristin Folkl"
+    ],
+    "new_total": 86
+  },
+  {
     "ts": "2026-08-21T00:56:00+00:00",
     "text": "Awak Kuier passed Charde Houston, Marina Mabrey, and Shatori Walker-Kimbrough for #155 all-time in blocks (career 85) \u2014 up from #164 entering today \u2014 (1:36 - 2nd \u2014 IND @ DAL)",
     "kind": "rank_pass",
@@ -2976,17 +2991,5 @@
       "Jasmine Thomas"
     ],
     "new_total": 797
-  },
-  {
-    "ts": "2026-07-06T00:16:00+00:00",
-    "text": "Monique Billings passed Moriah Jefferson for #186 all-time in turnovers (career 315) \u2014 (7:52 - 3rd \u2014 IND @ LV)",
-    "kind": "rank_pass",
-    "player": "Monique Billings",
-    "stat": "turnovers",
-    "rank": 186,
-    "passed_players": [
-      "Moriah Jefferson"
-    ],
-    "new_total": 315
   }
 ]
