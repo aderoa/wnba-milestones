@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-21 01:15 UTC_
+_Last updated: 2026-08-21 01:16 UTC_
 
 ## Contents
 
@@ -1644,9 +1644,9 @@ _Last updated: 2026-08-21 01:15 UTC_
 | 184 | Lindsey Harding | 486 |
 | 185 | Cathrine Kraayeveld | 484 |
 | 185 | Kia Nurse | 484 |
+| 187 | **Alanna Smith** 🔴 +4 | 483 |
 | 187 | Liz Cambage | 483 |
 | 187 | Rhonda Mapp | 483 |
-| 189 | **Alanna Smith** 🔴 +3 | 482 |
 | 190 | Sami Whitcomb | 480 |
 | 191 | Seimone Augustus | 477 |
 | 192 | Allie Quigley | 475 |
