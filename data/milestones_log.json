@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-08-21T02:02:00+00:00",
+    "text": "Awak Kuier passed Astou Ndiaye-Diatta for #150 all-time in blocks (career 87) \u2014 up from #164 entering today \u2014 (2:57 - 4th \u2014 IND @ DAL)",
+    "kind": "rank_pass",
+    "player": "Awak Kuier",
+    "stat": "blocks",
+    "rank": 150,
+    "passed_players": [
+      "Astou Ndiaye-Diatta"
+    ],
+    "new_total": 87
+  },
+  {
     "ts": "2026-08-21T01:26:00+00:00",
     "text": "Awak Kuier passed Adrian Williams-Strong, Erlana Larkins, Kalani Brown, and Kristin Folkl for #151 all-time in blocks (career 86) \u2014 up from #164 entering today \u2014 (4:07 - 3rd \u2014 IND @ DAL)",
     "kind": "rank_pass",
@@ -2979,17 +2991,5 @@
       "Barbara Farris"
     ],
     "new_total": 316
-  },
-  {
-    "ts": "2026-07-06T00:39:00+00:00",
-    "text": "Jewell Loyd passed Jasmine Thomas for #31 all-time in turnovers (career 797) \u2014 up from #32 entering today \u2014 (End of 3rd \u2014 IND @ LV)",
-    "kind": "rank_pass",
-    "player": "Jewell Loyd",
-    "stat": "turnovers",
-    "rank": 31,
-    "passed_players": [
-      "Jasmine Thomas"
-    ],
-    "new_total": 797
   }
 ]
