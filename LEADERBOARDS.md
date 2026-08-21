@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-21 03:36 UTC_
+_Last updated: 2026-08-21 03:37 UTC_
 
 ## Contents
 
@@ -34,7 +34,7 @@ _Last updated: 2026-08-21 03:36 UTC_
 | 13 | Breanna Stewart | 6,335 |
 | 14 | Lisa Leslie | 6,251 |
 | 15 | **A'ja Wilson** 🔴 +16 | 6,194 |
-| 16 | **Jewell Loyd** 🔴 | 6,148 |
+| 16 | **Jewell Loyd** 🔴 +2 | 6,150 |
 | 17 | Brittney Griner | 6,087 |
 | 18 | Lauren Jackson | 6,005 |
 | 18 | Seimone Augustus | 6,005 |
@@ -60,7 +60,7 @@ _Last updated: 2026-08-21 03:36 UTC_
 | 39 | Natasha Howard | 4,682 |
 | 40 | **Chelsea Gray** 🔴 +6 | 4,631 |
 | 41 | Penny Taylor | 4,595 |
-| 42 | **Allisha Gray** 🔴 +10 | 4,501 |
+| 42 | **Allisha Gray** 🔴 +13 | 4,504 |
 | 43 | Kelsey Plum | 4,494 |
 | 44 | Kristi Toliver | 4,474 |
 | 45 | Kahleah Copper | 4,437 |
@@ -151,7 +151,7 @@ _Last updated: 2026-08-21 03:36 UTC_
 | 130 | Kayla Thornton | 2,393 |
 | 131 | DeMya Walker | 2,379 |
 | 132 | Alex Bentley | 2,350 |
-| 133 | **Jordin Canada** 🔴 +7 | 2,349 |
+| 132 | **Jordin Canada** 🔴 +8 | 2,350 |
 | 134 | Azurá Stevens | 2,343 |
 | 135 | Merlakia Jones | 2,308 |
 | 136 | Betnijah Laney-Hamilton | 2,302 |
@@ -346,7 +346,7 @@ _Last updated: 2026-08-21 03:36 UTC_
 | 120 | **Jackie Young** 🔴 +7 | 1,092 |
 | 121 | Svetlana Abrosimova | 1,078 |
 | 122 | Le'coe Willingham | 1,054 |
-| 123 | **Angel Reese** 🔴 +8 | 1,043 |
+| 123 | **Angel Reese** 🔴 +9 | 1,044 |
 | 124 | Nicole Ohlde | 1,040 |
 | 125 | Tamecka Dixon | 1,035 |
 | 126 | Kamila Vodichkova | 1,031 |
@@ -454,8 +454,8 @@ _Last updated: 2026-08-21 03:36 UTC_
 | 22 | **Erica Wheeler** 🔴 | 1,335 |
 | 23 | Teresa Weatherspoon | 1,333 |
 | 24 | Kristi Toliver | 1,301 |
-| 25 | **Jordin Canada** 🔴 +8 | 1,270 |
-| 25 | Kelsey Plum | 1,270 |
+| 25 | **Jordin Canada** 🔴 +9 | 1,271 |
+| 26 | Kelsey Plum | 1,270 |
 | 27 | Katie Smith | 1,258 |
 | 28 | Odyssey Sims | 1,231 |
 | 29 | Vickie Johnson | 1,202 |
@@ -1075,7 +1075,7 @@ _Last updated: 2026-08-21 03:36 UTC_
 | 24 | Shekinna Stricklen | 468 |
 | 26 | Breanna Stewart | 465 |
 | 27 | Cappie Pondexter | 464 |
-| 28 | **Allisha Gray** 🔴 | 458 |
+| 28 | **Allisha Gray** 🔴 +1 | 459 |
 | 29 | **Ariel Atkins** 🔴 +1 | 456 |
 | 30 | Tiffany Hayes | 454 |
 | 31 | **Chelsea Gray** 🔴 | 450 |
