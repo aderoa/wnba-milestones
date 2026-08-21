@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-08-21 00:56 UTC
+
+- **Awak Kuier** passed **Charde Houston**, **Marina Mabrey**, and **Shatori Walker-Kimbrough** for **#155** all-time in blocks (career 85) — up from #164 entering today — _1:36 - 2nd — IND @ DAL_
+
 ## 2026-08-20 02:29 UTC
 
 - **Tiffany Hayes** passed **Allie Quigley** and **Alysha Clark** for **#145** all-time in blocks (career 91) — up from #148 entering today — _27.9 - 1st — MIN @ GS_

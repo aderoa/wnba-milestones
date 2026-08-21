@@ -1,5 +1,19 @@
 [
   {
+    "ts": "2026-08-21T00:56:00+00:00",
+    "text": "Awak Kuier passed Charde Houston, Marina Mabrey, and Shatori Walker-Kimbrough for #155 all-time in blocks (career 85) \u2014 up from #164 entering today \u2014 (1:36 - 2nd \u2014 IND @ DAL)",
+    "kind": "rank_pass",
+    "player": "Awak Kuier",
+    "stat": "blocks",
+    "rank": 155,
+    "passed_players": [
+      "Charde Houston",
+      "Marina Mabrey",
+      "Shatori Walker-Kimbrough"
+    ],
+    "new_total": 85
+  },
+  {
     "ts": "2026-08-20T02:29:00+00:00",
     "text": "Tiffany Hayes passed Allie Quigley and Alysha Clark for #145 all-time in blocks (career 91) \u2014 up from #148 entering today \u2014 (27.9 - 1st \u2014 MIN @ GS)",
     "kind": "rank_pass",
@@ -2974,18 +2988,5 @@
       "Moriah Jefferson"
     ],
     "new_total": 315
-  },
-  {
-    "ts": "2026-07-05T23:24:00+00:00",
-    "text": "Stephanie Talbot passed Dana Evans and Jennifer Lacy for #136 all-time in three-pointers (career 161) \u2014 up from #138 entering today \u2014 (31.3 - 1st \u2014 IND @ LV)",
-    "kind": "rank_pass",
-    "player": "Stephanie Talbot",
-    "stat": "three-pointers",
-    "rank": 136,
-    "passed_players": [
-      "Dana Evans",
-      "Jennifer Lacy"
-    ],
-    "new_total": 161
   }
 ]
