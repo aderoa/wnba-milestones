@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-21 03:42 UTC_
+_Last updated: 2026-08-21 03:43 UTC_
 
 ## Contents
 
@@ -130,7 +130,7 @@ _Last updated: 2026-08-21 03:42 UTC_
 | 109 | Adrienne Goodson | 2,705 |
 | 110 | **Cheyenne Parker-Tyus** 🔴 +15 | 2,660 |
 | 111 | Riquna Williams | 2,659 |
-| 112 | **Rhyne Howard** 🔴 +19 | 2,656 |
+| 112 | **Rhyne Howard** 🔴 +21 | 2,658 |
 | 113 | Essence Carson | 2,647 |
 | 113 | Lindsey Harding | 2,647 |
 | 115 | Tamera Young | 2,641 |
