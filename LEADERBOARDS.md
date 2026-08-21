@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-21 00:15 UTC_
+_Last updated: 2026-08-21 00:16 UTC_
 
 ## Contents
 
@@ -324,8 +324,8 @@ _Last updated: 2026-08-21 00:15 UTC_
 | 98 | Seimone Augustus | 1,228 |
 | 99 | Jia Perkins | 1,220 |
 | 100 | Kahleah Copper | 1,204 |
-| 101 | **Aliyah Boston** 🔴 +1 | 1,199 |
-| 101 | DeMya Walker | 1,199 |
+| 101 | **Aliyah Boston** 🔴 +2 | 1,200 |
+| 102 | DeMya Walker | 1,199 |
 | 103 | Latasha Byears | 1,190 |
 | 103 | Tanisha Wright | 1,190 |
 | 105 | Vicky Bullett | 1,189 |
@@ -352,7 +352,7 @@ _Last updated: 2026-08-21 00:15 UTC_
 | 126 | Kamila Vodichkova | 1,031 |
 | 127 | Jasmine Thomas | 1,027 |
 | 128 | Sabrina Ionescu | 1,020 |
-| 129 | **Jessica Shepard** 🔴 +1 | 1,017 |
+| 129 | **Jessica Shepard** 🔴 +2 | 1,018 |
 | 130 | Cathrine Kraayeveld | 1,013 |
 | 131 | Kelly Miller | 1,011 |
 | 131 | Noelle Quinn | 1,011 |
