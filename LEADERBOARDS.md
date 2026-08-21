@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-21 23:43 UTC_
+_Last updated: 2026-08-21 23:44 UTC_
 
 ## Contents
 
@@ -115,7 +115,7 @@ _Last updated: 2026-08-21 23:43 UTC_
 | 94 | Briann January | 3,082 |
 | 95 | Erika de Souza | 3,046 |
 | 96 | Shameka Christon | 3,039 |
-| 97 | **Natasha Cloud** 🔴 | 3,018 |
+| 97 | **Natasha Cloud** 🔴 +3 | 3,021 |
 | 98 | Marie Ferdinand-Harris | 3,001 |
 | 99 | Emma Meesseman | 2,966 |
 | 100 | Elizabeth Williams | 2,933 |
@@ -310,7 +310,7 @@ _Last updated: 2026-08-21 23:43 UTC_
 | 84 | Erlana Larkins | 1,329 |
 | 85 | Mwadi Mabika | 1,327 |
 | 86 | Jayne Appel Marinelli | 1,326 |
-| 87 | **Azurá Stevens** 🔴 +4 | 1,323 |
+| 87 | **Azurá Stevens** 🔴 +5 | 1,324 |
 | 88 | Betty Lennox | 1,296 |
 | 89 | Tari Phillips | 1,274 |
 | 90 | Myisha Hines-Allen | 1,265 |
@@ -387,7 +387,7 @@ _Last updated: 2026-08-21 23:43 UTC_
 | 161 | Leilani Mitchell | 845 |
 | 162 | **Shakira Austin** 🔴 +5 | 837 |
 | 163 | Essence Carson | 833 |
-| 164 | **Gabby Williams** 🔴 | 831 |
+| 164 | **Gabby Williams** 🔴 +1 | 832 |
 | 165 | Kristi Toliver | 829 |
 | 166 | Marie Ferdinand-Harris | 828 |
 | 167 | Marlies Askamp | 822 |
@@ -412,8 +412,8 @@ _Last updated: 2026-08-21 23:43 UTC_
 | 186 | Tully Bevilaqua | 767 |
 | 187 | Layshia Clarendon | 756 |
 | 188 | Brooke Wyckoff | 751 |
-| 189 | Coco Miller | 750 |
-| 189 | **Kamilla Cardoso** 🔴 | 750 |
+| 188 | **Kamilla Cardoso** 🔴 +1 | 751 |
+| 190 | Coco Miller | 750 |
 | 191 | Kelsey Plum | 741 |
 | 192 | Alex Montgomery | 735 |
 | 193 | Ashley Robinson | 734 |
@@ -438,7 +438,7 @@ _Last updated: 2026-08-21 23:43 UTC_
 | 6 | Chelsea Gray | 2,003 |
 | 7 | Alyssa Thomas | 1,971 |
 | 8 | Skylar Diggins | 1,852 |
-| 9 | **Natasha Cloud** 🔴 +1 | 1,803 |
+| 9 | **Natasha Cloud** 🔴 +2 | 1,804 |
 | 10 | Becky Hammon | 1,705 |
 | 11 | Candace Parker | 1,634 |
 | 12 | Cappie Pondexter | 1,575 |
@@ -675,7 +675,7 @@ _Last updated: 2026-08-21 23:43 UTC_
 | 38 | Plenette Pierson | 242 |
 | 39 | Napheesa Collier | 239 |
 | 40 | Emma Meesseman | 238 |
-| 41 | **Azurá Stevens** 🔴 | 236 |
+| 41 | **Azurá Stevens** 🔴 +1 | 237 |
 | 42 | Brianna Turner | 234 |
 | 43 | Skylar Diggins | 231 |
 | 44 | Chasity Melvin | 228 |
@@ -1102,7 +1102,7 @@ _Last updated: 2026-08-21 23:43 UTC_
 | 51 | Kia Nurse | 368 |
 | 53 | Nykesha Sales | 352 |
 | 54 | Jackie Young | 346 |
-| 55 | **Natasha Cloud** 🔴 | 345 |
+| 54 | **Natasha Cloud** 🔴 +1 | 346 |
 | 56 | Cathrine Kraayeveld | 343 |
 | 56 | Elena Delle Donne | 343 |
 | 58 | Candace Parker | 342 |
