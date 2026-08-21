@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-21 03:27 UTC_
+_Last updated: 2026-08-21 03:28 UTC_
 
 ## Contents
 
@@ -128,9 +128,9 @@ _Last updated: 2026-08-21 03:27 UTC_
 | 107 | Dominique Canty | 2,763 |
 | 108 | Ticha Penicheiro | 2,729 |
 | 109 | Adrienne Goodson | 2,705 |
-| 110 | Riquna Williams | 2,659 |
-| 111 | **Cheyenne Parker-Tyus** 🔴 +12 | 2,657 |
-| 112 | **Rhyne Howard** 🔴 +17 | 2,654 |
+| 110 | **Cheyenne Parker-Tyus** 🔴 +15 | 2,660 |
+| 111 | Riquna Williams | 2,659 |
+| 112 | **Rhyne Howard** 🔴 +18 | 2,655 |
 | 113 | Essence Carson | 2,647 |
 | 113 | Lindsey Harding | 2,647 |
 | 115 | Tamera Young | 2,641 |
@@ -227,7 +227,7 @@ _Last updated: 2026-08-21 03:27 UTC_
 | 1 | Tina Charles | 4,262 |
 | 2 | Sylvia Fowles | 4,005 |
 | 3 | Candace Parker | 3,467 |
-| 4 | **Nneka Ogwumike** 🔴 +4 | 3,410 |
+| 4 | **Nneka Ogwumike** 🔴 +5 | 3,411 |
 | 5 | Rebekkah Brunson | 3,345 |
 | 6 | Tamika Catchings | 3,313 |
 | 7 | Lisa Leslie | 3,303 |
@@ -288,7 +288,7 @@ _Last updated: 2026-08-21 03:27 UTC_
 | 62 | Napheesa Collier | 1,510 |
 | 63 | Ticha Penicheiro | 1,485 |
 | 64 | Alysha Clark | 1,473 |
-| 65 | **Cheyenne Parker-Tyus** 🔴 +7 | 1,470 |
+| 65 | **Cheyenne Parker-Tyus** 🔴 +8 | 1,471 |
 | 66 | Sue Bird | 1,466 |
 | 67 | Nicole Powell | 1,457 |
 | 68 | Tamera Young | 1,433 |
@@ -343,7 +343,7 @@ _Last updated: 2026-08-21 03:27 UTC_
 | 117 | Becky Hammon | 1,108 |
 | 118 | Ann Wauters | 1,105 |
 | 119 | Isabelle Harrison | 1,097 |
-| 120 | **Jackie Young** 🔴 +6 | 1,091 |
+| 120 | **Jackie Young** 🔴 +7 | 1,092 |
 | 121 | Svetlana Abrosimova | 1,078 |
 | 122 | Le'coe Willingham | 1,054 |
 | 123 | **Angel Reese** 🔴 +8 | 1,043 |
