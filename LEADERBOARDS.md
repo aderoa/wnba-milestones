@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-21 00:35 UTC_
+_Last updated: 2026-08-21 00:36 UTC_
 
 ## Contents
 
@@ -175,7 +175,7 @@ _Last updated: 2026-08-21 00:35 UTC_
 | 154 | Tari Phillips | 2,134 |
 | 155 | Cheryl Ford | 2,116 |
 | 156 | Elena Baranova | 2,110 |
-| 157 | **Aliyah Boston** 🔴 +2 | 2,089 |
+| 157 | **Aliyah Boston** 🔴 +4 | 2,091 |
 | 158 | Aerial Powers | 2,068 |
 | 159 | Coco Miller | 2,030 |
 | 160 | Diamond DeShields | 2,026 |
@@ -532,7 +532,7 @@ _Last updated: 2026-08-21 00:35 UTC_
 | 100 | Natasha Howard | 615 |
 | 101 | Debbie Black | 612 |
 | 102 | Cynthia Cooper | 602 |
-| 103 | **Caitlin Clark** 🔴 +3 | 594 |
+| 103 | **Caitlin Clark** 🔴 +4 | 595 |
 | 104 | Sancho Lyttle | 592 |
 | 105 | Gabby Williams | 591 |
 | 106 | Betnijah Laney-Hamilton | 590 |
@@ -571,7 +571,7 @@ _Last updated: 2026-08-21 00:35 UTC_
 | 139 | Erin Phillips | 462 |
 | 140 | Sylvia Fowles | 461 |
 | 141 | **Tyasha Harris** 🔴 | 460 |
-| 142 | **Sug Sutton** 🔴 | 456 |
+| 142 | **Sug Sutton** 🔴 +1 | 457 |
 | 143 | Sydney Colson | 454 |
 | 144 | Yolanda Griffith | 451 |
 | 145 | Elena Delle Donne | 450 |
@@ -921,7 +921,7 @@ _Last updated: 2026-08-21 00:35 UTC_
 | 76 | Andrea Stinson | 342 |
 | 77 | Armintie Herrington | 340 |
 | 78 | Dawn Staley | 338 |
-| 79 | **Odyssey Sims** 🔴 +1 | 335 |
+| 79 | **Odyssey Sims** 🔴 +2 | 336 |
 | 80 | Marie Ferdinand-Harris | 331 |
 | 81 | Chasity Melvin | 330 |
 | 81 | Leilani Mitchell | 330 |
@@ -1413,7 +1413,7 @@ _Last updated: 2026-08-21 00:35 UTC_
 | 158 | Anna DeForge | 374 |
 | 158 | Cheryl Ford | 374 |
 | 160 | Allison Feaster | 372 |
-| 161 | **Caitlin Clark** 🔴 +1 | 369 |
+| 161 | **Caitlin Clark** 🔴 +2 | 370 |
 | 162 | Emma Meesseman | 367 |
 | 163 | Latasha Byears | 360 |
 | 164 | Vicky Bullett | 359 |
