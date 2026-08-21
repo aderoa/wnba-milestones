@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-21 23:51 UTC_
+_Last updated: 2026-08-21 23:52 UTC_
 
 ## Contents
 
@@ -477,7 +477,7 @@ _Last updated: 2026-08-21 23:51 UTC_
 | 45 | Nikki Teasley | 982 |
 | 46 | Breanna Stewart | 981 |
 | 47 | Tamecka Dixon | 960 |
-| 48 | **Tiffany Hayes** 🔴 | 957 |
+| 48 | **Tiffany Hayes** 🔴 +1 | 958 |
 | 49 | Kara Lawson | 946 |
 | 50 | Arike Ogunbowale | 944 |
 | 51 | Nneka Ogwumike | 933 |
@@ -896,9 +896,9 @@ _Last updated: 2026-08-21 23:51 UTC_
 | 51 | Danielle Robinson | 389 |
 | 52 | Deanna Nolan | 388 |
 | 53 | Briann January | 386 |
-| 54 | Swin Cash | 384 |
-| 54 | **Tiffany Hayes** 🔴 | 384 |
-| 54 | Tina Charles | 384 |
+| 54 | **Tiffany Hayes** 🔴 +1 | 385 |
+| 55 | Swin Cash | 384 |
+| 55 | Tina Charles | 384 |
 | 57 | Allisha Gray | 379 |
 | 58 | Monique Currie | 378 |
 | 59 | Chamique Holdsclaw | 376 |
