@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-21 00:25 UTC_
+_Last updated: 2026-08-21 00:26 UTC_
 
 ## Contents
 
@@ -45,7 +45,7 @@ _Last updated: 2026-08-21 00:25 UTC_
 | 24 | DeLisha Milton-Jones | 5,571 |
 | 25 | Katie Douglas | 5,545 |
 | 26 | Lindsay Whalen | 5,511 |
-| 27 | **Kelsey Mitchell** 🔴 +7 | 5,205 |
+| 27 | **Kelsey Mitchell** 🔴 +8 | 5,206 |
 | 28 | Swin Cash | 5,119 |
 | 29 | Tiffany Hayes | 5,049 |
 | 30 | Tangela Smith | 5,035 |
@@ -213,7 +213,7 @@ _Last updated: 2026-08-21 00:25 UTC_
 | 192 | Armintie Herrington | 1,696 |
 | 193 | Nikki Teasley | 1,690 |
 | 194 | Shenise Johnson | 1,688 |
-| 195 | Monique Billings | 1,612 |
+| 195 | **Monique Billings** 🔴 | 1,612 |
 | 196 | Janell Burse | 1,580 |
 | 197 | Le'coe Willingham | 1,552 |
 | 198 | Shatori Walker-Kimbrough | 1,544 |
@@ -292,7 +292,7 @@ _Last updated: 2026-08-21 00:25 UTC_
 | 66 | Cheyenne Parker-Tyus | 1,463 |
 | 67 | Nicole Powell | 1,457 |
 | 68 | Tamera Young | 1,433 |
-| 69 | Monique Billings | 1,431 |
+| 69 | **Monique Billings** 🔴 | 1,431 |
 | 70 | Alana Beard | 1,420 |
 | 71 | Nakia Sanford | 1,419 |
 | 72 | Kayla Thornton | 1,408 |
@@ -570,7 +570,7 @@ _Last updated: 2026-08-21 00:25 UTC_
 | 138 | Janeth Arcain | 469 |
 | 139 | Erin Phillips | 462 |
 | 140 | Sylvia Fowles | 461 |
-| 141 | Tyasha Harris | 460 |
+| 141 | **Tyasha Harris** 🔴 | 460 |
 | 142 | Sug Sutton | 456 |
 | 143 | Sydney Colson | 454 |
 | 144 | Yolanda Griffith | 451 |
@@ -720,7 +720,7 @@ _Last updated: 2026-08-21 00:25 UTC_
 | 83 | Shavonte Zellous | 139 |
 | 84 | Brittney Sykes | 136 |
 | 84 | Penny Taylor | 136 |
-| 86 | Monique Billings | 134 |
+| 86 | **Monique Billings** 🔴 | 134 |
 | 87 | Devereaux Peters | 133 |
 | 87 | Nicky Anosike | 133 |
 | 87 | Olivia Nelson-Ododa | 133 |
@@ -1030,7 +1030,7 @@ _Last updated: 2026-08-21 00:25 UTC_
 | 184 | Sabrina Ionescu | 184 |
 | 186 | Rebecca Allen | 183 |
 | 187 | Erin Phillips | 182 |
-| 187 | Monique Billings | 182 |
+| 187 | **Monique Billings** 🔴 | 182 |
 | 189 | Nakia Sanford | 181 |
 | 190 | Diamond DeShields | 180 |
 | 191 | Kiah Stokes | 178 |
@@ -1180,7 +1180,7 @@ _Last updated: 2026-08-21 00:25 UTC_
 | 130 | Shavonte Zellous | 167 |
 | 130 | Tianna Hawkins | 167 |
 | 132 | Charlotte Smith | 164 |
-| 133 | Tyasha Harris | 162 |
+| 133 | **Tyasha Harris** 🔴 | 162 |
 | 133 | Ukari Figgs | 162 |
 | 135 | Edna Campbell | 161 |
 | 136 | Dana Evans | 160 |
@@ -1437,7 +1437,7 @@ _Last updated: 2026-08-21 00:25 UTC_
 | 182 | Olympia Scott | 324 |
 | 183 | Kia Nurse | 320 |
 | 184 | Barbara Farris | 315 |
-| 185 | Monique Billings | 314 |
+| 185 | **Monique Billings** 🔴 | 314 |
 | 185 | Moriah Jefferson | 314 |
 | 187 | Alex Bentley | 313 |
 | 188 | Natisha Hiedeman | 312 |
@@ -1579,7 +1579,7 @@ _Last updated: 2026-08-21 00:25 UTC_
 | 119 | Svetlana Abrosimova | 613 |
 | 120 | **Odyssey Sims** 🔴 | 610 |
 | 121 | Layshia Clarendon | 609 |
-| 122 | **Arike Ogunbowale** 🔴 +2 | 606 |
+| 122 | **Arike Ogunbowale** 🔴 +3 | 607 |
 | 123 | Tiffany Mitchell | 604 |
 | 124 | Janel McCarville | 597 |
 | 125 | Kamila Vodichkova | 596 |
@@ -1602,7 +1602,7 @@ _Last updated: 2026-08-21 00:25 UTC_
 | 141 | Tierra Ruffin-Pratt | 550 |
 | 143 | Jackie Young | 548 |
 | 144 | Erlana Larkins | 546 |
-| 144 | Monique Billings | 546 |
+| 144 | **Monique Billings** 🔴 | 546 |
 | 146 | Jayne Appel Marinelli | 543 |
 | 146 | Kayla McBride | 543 |
 | 146 | Renee Montgomery | 543 |
