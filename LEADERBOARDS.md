@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-21 02:31 UTC_
+_Last updated: 2026-08-21 02:32 UTC_
 
 ## Contents
 
@@ -129,7 +129,7 @@ _Last updated: 2026-08-21 02:31 UTC_
 | 108 | Ticha Penicheiro | 2,729 |
 | 109 | Adrienne Goodson | 2,705 |
 | 110 | Riquna Williams | 2,659 |
-| 111 | **Cheyenne Parker-Tyus** 🔴 +7 | 2,652 |
+| 111 | **Cheyenne Parker-Tyus** 🔴 +8 | 2,653 |
 | 112 | Essence Carson | 2,647 |
 | 112 | Lindsey Harding | 2,647 |
 | 114 | **Rhyne Howard** 🔴 +7 | 2,644 |
@@ -899,7 +899,7 @@ _Last updated: 2026-08-21 02:31 UTC_
 | 54 | Swin Cash | 384 |
 | 54 | Tiffany Hayes | 384 |
 | 54 | Tina Charles | 384 |
-| 57 | **Allisha Gray** 🔴 | 379 |
+| 57 | **Allisha Gray** 🔴 +1 | 380 |
 | 58 | Monique Currie | 378 |
 | 59 | Chamique Holdsclaw | 376 |
 | 60 | Brittney Sykes | 371 |
@@ -1649,8 +1649,8 @@ _Last updated: 2026-08-21 02:31 UTC_
 | 188 | Rhonda Mapp | 483 |
 | 190 | Sami Whitcomb | 480 |
 | 191 | Seimone Augustus | 477 |
-| 192 | Allie Quigley | 475 |
-| 192 | **NaLyssa Smith** 🔴 +1 | 475 |
+| 192 | **NaLyssa Smith** 🔴 +2 | 476 |
+| 193 | Allie Quigley | 475 |
 | 194 | Satou Sabally | 471 |
 | 195 | Christi Thomas | 463 |
 | 195 | Nikki Teasley | 463 |
