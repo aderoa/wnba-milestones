@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-08-21T03:39:00+00:00",
+    "text": "Stephanie Talbot passed Rita Williams for #169 all-time in assists (career 404) \u2014 up from #170 entering today \u2014 (7:24 - 4th \u2014 CON @ LV)",
+    "kind": "rank_pass",
+    "player": "Stephanie Talbot",
+    "stat": "assists",
+    "rank": 169,
+    "passed_players": [
+      "Rita Williams"
+    ],
+    "new_total": 404
+  },
+  {
     "ts": "2026-08-21T02:02:00+00:00",
     "text": "Awak Kuier passed Astou Ndiaye-Diatta for #150 all-time in blocks (career 87) \u2014 up from #164 entering today \u2014 (2:57 - 4th \u2014 IND @ DAL)",
     "kind": "rank_pass",
@@ -2979,17 +2991,5 @@
       "Nicole Ohlde"
     ],
     "new_total": 632
-  },
-  {
-    "ts": "2026-07-06T00:49:00+00:00",
-    "text": "Monique Billings passed Barbara Farris for #184 all-time in turnovers (career 316) \u2014 up from #185 entering today \u2014 (6:26 - 4th \u2014 IND @ LV)",
-    "kind": "rank_pass",
-    "player": "Monique Billings",
-    "stat": "turnovers",
-    "rank": 184,
-    "passed_players": [
-      "Barbara Farris"
-    ],
-    "new_total": 316
   }
 ]
