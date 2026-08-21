@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-21 03:46 UTC_
+_Last updated: 2026-08-21 03:47 UTC_
 
 ## Contents
 
@@ -22,7 +22,7 @@ _Last updated: 2026-08-21 03:46 UTC_
 | 1 | Diana Taurasi | 10,608 |
 | 2 | Tina Charles | 8,396 |
 | 3 | DeWanna Bonner | 7,972 |
-| 4 | **Nneka Ogwumike** 🔴 +8 | 7,571 |
+| 4 | **Nneka Ogwumike** 🔴 +9 | 7,572 |
 | 5 | Tina Thompson | 7,470 |
 | 6 | Tamika Catchings | 7,371 |
 | 7 | Candice Dupree | 6,861 |
@@ -216,7 +216,7 @@ _Last updated: 2026-08-21 03:46 UTC_
 | 195 | Monique Billings | 1,616 |
 | 196 | Janell Burse | 1,580 |
 | 197 | Le'coe Willingham | 1,552 |
-| 198 | Shatori Walker-Kimbrough | 1,544 |
+| 198 | **Shatori Walker-Kimbrough** 🔴 | 1,544 |
 | 199 | Rebecca Allen | 1,529 |
 | 200 | Jennifer Lacy | 1,504 |
 
@@ -454,7 +454,7 @@ _Last updated: 2026-08-21 03:46 UTC_
 | 22 | **Erica Wheeler** 🔴 | 1,335 |
 | 23 | Teresa Weatherspoon | 1,333 |
 | 24 | Kristi Toliver | 1,301 |
-| 25 | **Jordin Canada** 🔴 +10 | 1,272 |
+| 25 | **Jordin Canada** 🔴 +11 | 1,273 |
 | 26 | Kelsey Plum | 1,270 |
 | 27 | Katie Smith | 1,258 |
 | 28 | Odyssey Sims | 1,231 |
@@ -792,7 +792,7 @@ _Last updated: 2026-08-21 03:46 UTC_
 | 152 | Kristin Folkl | 85 |
 | 156 | Charde Houston | 84 |
 | 156 | Marina Mabrey | 84 |
-| 156 | Shatori Walker-Kimbrough | 84 |
+| 156 | **Shatori Walker-Kimbrough** 🔴 | 84 |
 | 159 | Tamera Young | 83 |
 | 160 | **Cameron Brink** 🔴 | 82 |
 | 160 | Damiris Dantas | 82 |
@@ -1012,7 +1012,7 @@ _Last updated: 2026-08-21 03:46 UTC_
 | 167 | Jessica Breland | 204 |
 | 167 | Murriel Page | 204 |
 | 167 | Natisha Hiedeman | 204 |
-| 167 | Shatori Walker-Kimbrough | 204 |
+| 167 | **Shatori Walker-Kimbrough** 🔴 | 204 |
 | 171 | Adrienne Goodson | 203 |
 | 172 | Allie Quigley | 198 |
 | 173 | Layshia Clarendon | 195 |
@@ -1173,7 +1173,7 @@ _Last updated: 2026-08-21 03:46 UTC_
 | 122 | Camille Smith | 179 |
 | 124 | Swin Cash | 176 |
 | 125 | Nikki McCray | 175 |
-| 126 | Shatori Walker-Kimbrough | 174 |
+| 126 | **Shatori Walker-Kimbrough** 🔴 | 174 |
 | 126 | Tayler Hill | 174 |
 | 128 | Theresa Plaisance | 172 |
 | 129 | Amanda Lassiter | 170 |
