@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-08-21T04:03:00+00:00",
+    "text": "Shatori Walker-Kimbrough passed Tayler Hill for #127 all-time in three-pointers (career 175) \u2014 (1:48 - 4th \u2014 ATL @ LA)",
+    "kind": "rank_pass",
+    "player": "Shatori Walker-Kimbrough",
+    "stat": "three-pointers",
+    "rank": 127,
+    "passed_players": [
+      "Tayler Hill"
+    ],
+    "new_total": 175
+  },
+  {
     "ts": "2026-08-21T03:39:00+00:00",
     "text": "Stephanie Talbot passed Rita Williams for #169 all-time in assists (career 404) \u2014 up from #170 entering today \u2014 (7:24 - 4th \u2014 CON @ LV)",
     "kind": "rank_pass",
@@ -2979,17 +2991,5 @@
       "Courtney Paris"
     ],
     "new_total": 179
-  },
-  {
-    "ts": "2026-07-06T01:01:00+00:00",
-    "text": "Kelsey Mitchell passed Nicole Ohlde for #111 all-time in fouls (career 632) \u2014 up from #113 entering today \u2014 (3:06 - 4th \u2014 IND @ LV)",
-    "kind": "rank_pass",
-    "player": "Kelsey Mitchell",
-    "stat": "fouls",
-    "rank": 111,
-    "passed_players": [
-      "Nicole Ohlde"
-    ],
-    "new_total": 632
   }
 ]
