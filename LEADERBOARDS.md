@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-21 03:18 UTC_
+_Last updated: 2026-08-21 03:19 UTC_
 
 ## Contents
 
@@ -33,7 +33,7 @@ _Last updated: 2026-08-21 03:18 UTC_
 | 12 | Sylvia Fowles | 6,413 |
 | 13 | Breanna Stewart | 6,335 |
 | 14 | Lisa Leslie | 6,251 |
-| 15 | **A'ja Wilson** 🔴 +9 | 6,187 |
+| 15 | **A'ja Wilson** 🔴 +11 | 6,189 |
 | 16 | **Jewell Loyd** 🔴 | 6,148 |
 | 17 | Brittney Griner | 6,087 |
 | 18 | Lauren Jackson | 6,005 |
@@ -130,7 +130,7 @@ _Last updated: 2026-08-21 03:18 UTC_
 | 109 | Adrienne Goodson | 2,705 |
 | 110 | Riquna Williams | 2,659 |
 | 111 | **Cheyenne Parker-Tyus** 🔴 +10 | 2,655 |
-| 112 | **Rhyne Howard** 🔴 +13 | 2,650 |
+| 112 | **Rhyne Howard** 🔴 +15 | 2,652 |
 | 113 | Essence Carson | 2,647 |
 | 113 | Lindsey Harding | 2,647 |
 | 115 | Tamera Young | 2,641 |
@@ -237,7 +237,7 @@ _Last updated: 2026-08-21 03:18 UTC_
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | Alyssa Thomas | 2,858 |
 | 13 | Jonquel Jones | 2,728 |
-| 14 | **A'ja Wilson** 🔴 +2 | 2,659 |
+| 14 | **A'ja Wilson** 🔴 +3 | 2,660 |
 | 15 | Breanna Stewart | 2,632 |
 | 16 | Sancho Lyttle | 2,596 |
 | 17 | Brittney Griner | 2,579 |
@@ -346,7 +346,7 @@ _Last updated: 2026-08-21 03:18 UTC_
 | 120 | **Jackie Young** 🔴 +5 | 1,090 |
 | 121 | Svetlana Abrosimova | 1,078 |
 | 122 | Le'coe Willingham | 1,054 |
-| 123 | **Angel Reese** 🔴 +6 | 1,041 |
+| 123 | **Angel Reese** 🔴 +7 | 1,042 |
 | 124 | Nicole Ohlde | 1,040 |
 | 125 | Tamecka Dixon | 1,035 |
 | 126 | Kamila Vodichkova | 1,031 |
@@ -435,7 +435,7 @@ _Last updated: 2026-08-21 03:18 UTC_
 | 3 | Ticha Penicheiro | 2,588 |
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
-| 6 | **Chelsea Gray** 🔴 +1 | 2,004 |
+| 6 | **Chelsea Gray** 🔴 +2 | 2,005 |
 | 7 | Alyssa Thomas | 1,971 |
 | 8 | Skylar Diggins | 1,852 |
 | 9 | Natasha Cloud | 1,802 |
@@ -1507,8 +1507,8 @@ _Last updated: 2026-08-21 03:18 UTC_
 | 47 | Cappie Pondexter | 869 |
 | 48 | Erika de Souza | 858 |
 | 49 | Angel McCoughtry | 857 |
-| 50 | Betty Lennox | 851 |
-| 50 | **Dearica Hamby** 🔴 +1 | 851 |
+| 50 | **Dearica Hamby** 🔴 +2 | 852 |
+| 51 | Betty Lennox | 851 |
 | 52 | Tamecka Dixon | 849 |
 | 53 | Natalie Williams | 847 |
 | 53 | Tamera Young | 847 |
