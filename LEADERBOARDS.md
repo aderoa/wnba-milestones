@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-21 03:16 UTC_
+_Last updated: 2026-08-21 03:17 UTC_
 
 ## Contents
 
@@ -60,7 +60,7 @@ _Last updated: 2026-08-21 03:16 UTC_
 | 39 | Natasha Howard | 4,682 |
 | 40 | **Chelsea Gray** 🔴 +6 | 4,631 |
 | 41 | Penny Taylor | 4,595 |
-| 42 | **Allisha Gray** 🔴 +6 | 4,497 |
+| 42 | **Allisha Gray** 🔴 +8 | 4,499 |
 | 43 | Kelsey Plum | 4,494 |
 | 44 | Kristi Toliver | 4,474 |
 | 45 | Kahleah Copper | 4,437 |
@@ -550,7 +550,7 @@ _Last updated: 2026-08-21 03:16 UTC_
 | 118 | Janel McCarville | 551 |
 | 118 | Svetlana Abrosimova | 551 |
 | 120 | Michele Timms | 549 |
-| 121 | **Rhyne Howard** 🔴 +3 | 539 |
+| 121 | **Rhyne Howard** 🔴 +4 | 540 |
 | 122 | Myisha Hines-Allen | 529 |
 | 123 | Marie Ferdinand-Harris | 528 |
 | 124 | Margo Dydek | 524 |
@@ -1298,7 +1298,7 @@ _Last updated: 2026-08-21 03:16 UTC_
 | 43 | Michelle Snow | 723 |
 | 44 | Tamecka Dixon | 716 |
 | 45 | Natasha Cloud | 707 |
-| 46 | **Erica Wheeler** 🔴 | 699 |
+| 46 | **Erica Wheeler** 🔴 +1 | 700 |
 | 47 | Renee Montgomery | 697 |
 | 48 | Temeka Johnson | 696 |
 | 49 | Penny Taylor | 695 |
