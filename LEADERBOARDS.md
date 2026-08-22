@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-22 00:59 UTC_
+_Last updated: 2026-08-22 01:00 UTC_
 
 ## Contents
 
@@ -385,7 +385,7 @@ _Last updated: 2026-08-22 00:59 UTC_
 | 159 | Krystal Thomas | 862 |
 | 160 | Naz Hillmon | 859 |
 | 161 | Leilani Mitchell | 845 |
-| 162 | **Shakira Austin** 🔴 +6 | 838 |
+| 162 | **Shakira Austin** 🔴 +7 | 839 |
 | 163 | **Gabby Williams** 🔴 +3 | 834 |
 | 164 | Essence Carson | 833 |
 | 165 | Kristi Toliver | 829 |
@@ -1298,7 +1298,7 @@ _Last updated: 2026-08-22 00:59 UTC_
 | 42 | Monique Currie | 724 |
 | 43 | Michelle Snow | 723 |
 | 44 | Tamecka Dixon | 716 |
-| 45 | **Natasha Cloud** 🔴 +3 | 710 |
+| 45 | **Natasha Cloud** 🔴 +4 | 711 |
 | 46 | Erica Wheeler | 699 |
 | 47 | Renee Montgomery | 697 |
 | 48 | Temeka Johnson | 696 |
@@ -1636,8 +1636,8 @@ _Last updated: 2026-08-22 00:59 UTC_
 | 175 | **Rachel Banham** 🔴 +3 | 500 |
 | 176 | Adrian Williams-Strong | 497 |
 | 176 | Essence Carson | 497 |
-| 178 | **Azurá Stevens** 🔴 +1 | 496 |
-| 178 | **Nia Coffey** 🔴 +1 | 496 |
+| 176 | **Nia Coffey** 🔴 +2 | 497 |
+| 179 | **Azurá Stevens** 🔴 +1 | 496 |
 | 180 | Karima Christmas-Kelly | 494 |
 | 181 | Ann Wauters | 493 |
 | 181 | Riquna Williams | 493 |
