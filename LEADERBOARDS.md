@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-22 03:54 UTC_
+_Last updated: 2026-08-22 03:55 UTC_
 
 ## Contents
 
@@ -727,9 +727,9 @@ _Last updated: 2026-08-22 03:54 UTC_
 | 87 | Seimone Augustus | 133 |
 | 91 | Katie Mattera | 131 |
 | 91 | Nakia Sanford | 131 |
-| 93 | **Emily Engstler** 🔴 +2 | 130 |
-| 94 | Brooke Wyckoff | 129 |
-| 94 | Cathrine Kraayeveld | 129 |
+| 93 | Brooke Wyckoff | 129 |
+| 93 | Cathrine Kraayeveld | 129 |
+| 93 | **Emily Engstler** 🔴 +1 | 129 |
 | 96 | Alyssa Thomas | 127 |
 | 96 | Chelsea Gray | 127 |
 | 96 | Chiney Ogwumike | 127 |
@@ -1443,7 +1443,7 @@ _Last updated: 2026-08-22 03:54 UTC_
 | 187 | Alex Bentley | 313 |
 | 188 | Natisha Hiedeman | 312 |
 | 189 | Tamika Raymond | 311 |
-| 190 | **Isabelle Harrison** 🔴 | 307 |
+| 190 | **Isabelle Harrison** 🔴 +1 | 308 |
 | 191 | Azurá Stevens | 306 |
 | 192 | Erin Perperoglou | 305 |
 | 192 | Jennifer Lacy | 305 |
