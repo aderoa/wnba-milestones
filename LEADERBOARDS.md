@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-22 03:55 UTC_
+_Last updated: 2026-08-22 03:56 UTC_
 
 ## Contents
 
@@ -725,11 +725,11 @@ _Last updated: 2026-08-22 03:55 UTC_
 | 87 | Nicky Anosike | 133 |
 | 87 | Olivia Nelson-Ododa | 133 |
 | 87 | Seimone Augustus | 133 |
+| 91 | **Emily Engstler** 🔴 +3 | 131 |
 | 91 | Katie Mattera | 131 |
 | 91 | Nakia Sanford | 131 |
-| 93 | Brooke Wyckoff | 129 |
-| 93 | Cathrine Kraayeveld | 129 |
-| 93 | **Emily Engstler** 🔴 +1 | 129 |
+| 94 | Brooke Wyckoff | 129 |
+| 94 | Cathrine Kraayeveld | 129 |
 | 96 | Alyssa Thomas | 127 |
 | 96 | Chelsea Gray | 127 |
 | 96 | Chiney Ogwumike | 127 |
