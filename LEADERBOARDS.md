@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-22 00:09 UTC_
+_Last updated: 2026-08-22 00:10 UTC_
 
 ## Contents
 
@@ -57,7 +57,7 @@ _Last updated: 2026-08-22 00:09 UTC_
 | 36 | Arike Ogunbowale | 4,715 |
 | 37 | Chamique Holdsclaw | 4,713 |
 | 38 | Elena Delle Donne | 4,706 |
-| 39 | **Natasha Howard** 🔴 +7 | 4,689 |
+| 39 | **Natasha Howard** 🔴 +9 | 4,691 |
 | 40 | Chelsea Gray | 4,625 |
 | 41 | Penny Taylor | 4,595 |
 | 42 | Kelsey Plum | 4,494 |
@@ -151,7 +151,7 @@ _Last updated: 2026-08-22 00:09 UTC_
 | 130 | **Kayla Thornton** 🔴 | 2,393 |
 | 131 | DeMya Walker | 2,379 |
 | 132 | Alex Bentley | 2,350 |
-| 133 | **Azurá Stevens** 🔴 | 2,343 |
+| 133 | **Azurá Stevens** 🔴 +2 | 2,345 |
 | 134 | Jordin Canada | 2,342 |
 | 135 | Merlakia Jones | 2,308 |
 | 136 | **Betnijah Laney-Hamilton** 🔴 | 2,302 |
@@ -295,7 +295,7 @@ _Last updated: 2026-08-22 00:09 UTC_
 | 69 | Monique Billings | 1,431 |
 | 70 | Alana Beard | 1,420 |
 | 71 | Nakia Sanford | 1,419 |
-| 72 | **Kayla Thornton** 🔴 | 1,408 |
+| 72 | **Kayla Thornton** 🔴 +1 | 1,409 |
 | 73 | Allisha Gray | 1,404 |
 | 74 | Kara Braxton | 1,387 |
 | 75 | **Courtney Vandersloot** 🔴 | 1,386 |
@@ -411,7 +411,7 @@ _Last updated: 2026-08-22 00:09 UTC_
 | 183 | Tan White | 769 |
 | 186 | Tully Bevilaqua | 767 |
 | 187 | Layshia Clarendon | 756 |
-| 188 | **Kamilla Cardoso** 🔴 +4 | 754 |
+| 188 | **Kamilla Cardoso** 🔴 +5 | 755 |
 | 189 | Brooke Wyckoff | 751 |
 | 190 | Coco Miller | 750 |
 | 191 | Kelsey Plum | 741 |
@@ -431,7 +431,7 @@ _Last updated: 2026-08-22 00:09 UTC_
 | Rank | Player | Total |
 |-----:|--------|------:|
 | 1 | Sue Bird | 3,234 |
-| 2 | **Courtney Vandersloot** 🔴 +1 | 2,895 |
+| 2 | **Courtney Vandersloot** 🔴 +2 | 2,896 |
 | 3 | Ticha Penicheiro | 2,588 |
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
@@ -532,9 +532,9 @@ _Last updated: 2026-08-22 00:09 UTC_
 | 100 | **Natasha Howard** 🔴 +2 | 617 |
 | 101 | Debbie Black | 612 |
 | 102 | Cynthia Cooper | 602 |
-| 103 | **Gabby Williams** 🔴 +1 | 592 |
 | 103 | Sancho Lyttle | 592 |
-| 105 | Caitlin Clark | 591 |
+| 104 | Caitlin Clark | 591 |
+| 104 | **Gabby Williams** 🔴 | 591 |
 | 106 | **Betnijah Laney-Hamilton** 🔴 | 590 |
 | 106 | Camille Smith | 590 |
 | 108 | Armintie Herrington | 589 |
