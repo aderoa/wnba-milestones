@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-22 00:13 UTC_
+_Last updated: 2026-08-22 00:14 UTC_
 
 ## Contents
 
@@ -473,7 +473,7 @@ _Last updated: 2026-08-22 00:13 UTC_
 | 41 | Dominique Canty | 1,042 |
 | 42 | Sheryl Swoopes | 1,037 |
 | 43 | Tina Charles | 1,033 |
-| 44 | **Kayla McBride** 🔴 +2 | 994 |
+| 44 | **Kayla McBride** 🔴 +3 | 995 |
 | 45 | Nikki Teasley | 982 |
 | 46 | Breanna Stewart | 981 |
 | 47 | Tamecka Dixon | 960 |
