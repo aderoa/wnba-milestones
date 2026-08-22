@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-22 23:24 UTC_
+_Last updated: 2026-08-22 23:25 UTC_
 
 ## Contents
 
@@ -45,7 +45,7 @@ _Last updated: 2026-08-22 23:24 UTC_
 | 24 | DeLisha Milton-Jones | 5,571 |
 | 25 | Katie Douglas | 5,545 |
 | 26 | Lindsay Whalen | 5,511 |
-| 27 | **Kelsey Mitchell** 🔴 +7 | 5,205 |
+| 27 | **Kelsey Mitchell** 🔴 +9 | 5,207 |
 | 28 | Swin Cash | 5,119 |
 | 29 | Tiffany Hayes | 5,049 |
 | 30 | Tangela Smith | 5,035 |
@@ -217,7 +217,7 @@ _Last updated: 2026-08-22 23:24 UTC_
 | 196 | Janell Burse | 1,580 |
 | 197 | Le'coe Willingham | 1,552 |
 | 198 | Shatori Walker-Kimbrough | 1,544 |
-| 199 | **Rebecca Allen** 🔴 | 1,529 |
+| 199 | **Rebecca Allen** 🔴 +3 | 1,532 |
 | 200 | Jennifer Lacy | 1,504 |
 
 ## Rebounds
@@ -465,7 +465,7 @@ _Last updated: 2026-08-22 23:24 UTC_
 | 33 | Jackie Young | 1,150 |
 | 34 | Renee Montgomery | 1,140 |
 | 35 | Swin Cash | 1,131 |
-| 36 | **Sabrina Ionescu** 🔴 +1 | 1,093 |
+| 36 | **Sabrina Ionescu** 🔴 +2 | 1,094 |
 | 37 | Lindsey Harding | 1,090 |
 | 38 | Katie Douglas | 1,069 |
 | 39 | Alana Beard | 1,061 |
@@ -496,7 +496,7 @@ _Last updated: 2026-08-22 23:24 UTC_
 | 64 | Lisa Leslie | 873 |
 | 65 | Brittney Sykes | 866 |
 | 66 | Tully Bevilaqua | 853 |
-| 67 | **Kelsey Mitchell** 🔴 +1 | 848 |
+| 67 | **Kelsey Mitchell** 🔴 +2 | 849 |
 | 68 | Jia Perkins | 837 |
 | 69 | Andrea Stinson | 810 |
 | 70 | Tina Thompson | 803 |
@@ -1133,7 +1133,7 @@ _Last updated: 2026-08-22 23:24 UTC_
 | 83 | Iziane Castro Marques | 275 |
 | 84 | Sheryl Swoopes | 270 |
 | 85 | Sophia Witherspoon | 260 |
-| 86 | **Rebecca Allen** 🔴 | 255 |
+| 86 | **Rebecca Allen** 🔴 +1 | 256 |
 | 87 | Dawn Staley | 254 |
 | 88 | Bria Hartley | 253 |
 | 88 | Nneka Ogwumike | 253 |
@@ -1180,8 +1180,8 @@ _Last updated: 2026-08-22 23:24 UTC_
 | 130 | Shavonte Zellous | 167 |
 | 130 | Tianna Hawkins | 167 |
 | 132 | Charlotte Smith | 164 |
-| 133 | **Tyasha Harris** 🔴 | 162 |
-| 133 | Ukari Figgs | 162 |
+| 133 | **Tyasha Harris** 🔴 +1 | 163 |
+| 134 | Ukari Figgs | 162 |
 | 135 | Edna Campbell | 161 |
 | 136 | Dana Evans | 160 |
 | 136 | Jennifer Lacy | 160 |
