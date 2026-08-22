@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-22 01:14 UTC_
+_Last updated: 2026-08-22 01:15 UTC_
 
 ## Contents
 
@@ -198,7 +198,7 @@ _Last updated: 2026-08-22 01:14 UTC_
 | 177 | Candice Wiggins | 1,901 |
 | 177 | **Gabby Williams** 🔴 +2 | 1,901 |
 | 179 | NaLyssa Smith | 1,879 |
-| 180 | **Rachel Banham** 🔴 +4 | 1,847 |
+| 180 | **Rachel Banham** 🔴 +7 | 1,850 |
 | 181 | Damiris Dantas | 1,842 |
 | 182 | Sophie Cunningham | 1,829 |
 | 183 | Tianna Hawkins | 1,825 |
@@ -690,10 +690,10 @@ _Last updated: 2026-08-22 01:14 UTC_
 | 52 | Asjha Jones | 204 |
 | 54 | Janel McCarville | 201 |
 | 55 | Rebecca Allen | 196 |
+| 56 | **Courtney Vandersloot** 🔴 +1 | 194 |
 | 56 | Jayne Appel Marinelli | 194 |
-| 57 | Angel McCoughtry | 193 |
-| 57 | **Courtney Vandersloot** 🔴 | 193 |
-| 57 | Murriel Page | 193 |
+| 58 | Angel McCoughtry | 193 |
+| 58 | Murriel Page | 193 |
 | 60 | Kelly Schumacher | 183 |
 | 61 | Maria Stepanova | 182 |
 | 62 | Courtney Paris | 178 |
@@ -1089,7 +1089,7 @@ _Last updated: 2026-08-22 01:14 UTC_
 | 38 | Riquna Williams | 407 |
 | 40 | Jia Perkins | 396 |
 | 41 | Alysha Clark | 394 |
-| 42 | **Rachel Banham** 🔴 +1 | 391 |
+| 42 | **Rachel Banham** 🔴 +2 | 392 |
 | 43 | Jonquel Jones | 389 |
 | 43 | Roneeka Hodges | 389 |
 | 45 | **Courtney Vandersloot** 🔴 +2 | 388 |
@@ -1470,7 +1470,7 @@ _Last updated: 2026-08-22 01:14 UTC_
 | 9 | Tammy Sutton-Brown | 1,193 |
 | 10 | Plenette Pierson | 1,175 |
 | 11 | Chasity Melvin | 1,165 |
-| 12 | **Natasha Howard** 🔴 +3 | 1,161 |
+| 12 | **Natasha Howard** 🔴 +4 | 1,162 |
 | 13 | Camille Smith | 1,159 |
 | 14 | Nneka Ogwumike | 1,156 |
 | 15 | Alana Beard | 1,153 |
