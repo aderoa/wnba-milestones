@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-22 23:21 UTC_
+_Last updated: 2026-08-22 23:22 UTC_
 
 ## Contents
 
@@ -217,7 +217,7 @@ _Last updated: 2026-08-22 23:21 UTC_
 | 196 | Janell Burse | 1,580 |
 | 197 | Le'coe Willingham | 1,552 |
 | 198 | Shatori Walker-Kimbrough | 1,544 |
-| 199 | Rebecca Allen | 1,529 |
+| 199 | **Rebecca Allen** 🔴 | 1,529 |
 | 200 | Jennifer Lacy | 1,504 |
 
 ## Rebounds
@@ -424,7 +424,7 @@ _Last updated: 2026-08-22 23:21 UTC_
 | 198 | Katie Mattera | 708 |
 | 199 | Rushia Brown | 706 |
 | 200 | Allie Quigley | 702 |
-| 200 | Rebecca Allen | 702 |
+| 200 | **Rebecca Allen** 🔴 | 702 |
 
 ## Assists
 
@@ -474,7 +474,7 @@ _Last updated: 2026-08-22 23:21 UTC_
 | 42 | Sheryl Swoopes | 1,037 |
 | 43 | Tina Charles | 1,033 |
 | 44 | Kayla McBride | 992 |
-| 45 | **Breanna Stewart** 🔴 +2 | 983 |
+| 45 | **Breanna Stewart** 🔴 +3 | 984 |
 | 46 | Nikki Teasley | 982 |
 | 47 | Tamecka Dixon | 960 |
 | 48 | Tiffany Hayes | 957 |
@@ -532,9 +532,9 @@ _Last updated: 2026-08-22 23:21 UTC_
 | 100 | Natasha Howard | 615 |
 | 101 | Debbie Black | 612 |
 | 102 | Cynthia Cooper | 602 |
-| 103 | **Caitlin Clark** 🔴 +1 | 592 |
 | 103 | Sancho Lyttle | 592 |
-| 105 | Gabby Williams | 591 |
+| 104 | **Caitlin Clark** 🔴 | 591 |
+| 104 | Gabby Williams | 591 |
 | 106 | Betnijah Laney-Hamilton | 590 |
 | 106 | Camille Smith | 590 |
 | 108 | Armintie Herrington | 589 |
@@ -689,7 +689,7 @@ _Last updated: 2026-08-22 23:21 UTC_
 | 52 | Ashley Robinson | 204 |
 | 52 | Asjha Jones | 204 |
 | 54 | Janel McCarville | 201 |
-| 55 | Rebecca Allen | 196 |
+| 55 | **Rebecca Allen** 🔴 | 196 |
 | 56 | Jayne Appel Marinelli | 194 |
 | 57 | Angel McCoughtry | 193 |
 | 57 | Courtney Vandersloot | 193 |
@@ -1029,7 +1029,7 @@ _Last updated: 2026-08-22 23:21 UTC_
 | 184 | Erin Perperoglou | 184 |
 | 184 | **Sabrina Ionescu** 🔴 | 184 |
 | 186 | **Monique Billings** 🔴 +1 | 183 |
-| 186 | Rebecca Allen | 183 |
+| 186 | **Rebecca Allen** 🔴 | 183 |
 | 188 | Erin Phillips | 182 |
 | 189 | Nakia Sanford | 181 |
 | 190 | Diamond DeShields | 180 |
@@ -1133,7 +1133,7 @@ _Last updated: 2026-08-22 23:21 UTC_
 | 83 | Iziane Castro Marques | 275 |
 | 84 | Sheryl Swoopes | 270 |
 | 85 | Sophia Witherspoon | 260 |
-| 86 | Rebecca Allen | 255 |
+| 86 | **Rebecca Allen** 🔴 | 255 |
 | 87 | Dawn Staley | 254 |
 | 88 | Bria Hartley | 253 |
 | 88 | Nneka Ogwumike | 253 |
@@ -1166,8 +1166,8 @@ _Last updated: 2026-08-22 23:21 UTC_
 | 116 | Victoria Vivians | 192 |
 | 117 | Danielle Adams | 188 |
 | 117 | Napheesa Collier | 188 |
-| 119 | **Marine Johannès** 🔴 +1 | 184 |
-| 119 | Noelle Quinn | 184 |
+| 119 | **Marine Johannès** 🔴 +2 | 185 |
+| 120 | Noelle Quinn | 184 |
 | 121 | Karima Christmas-Kelly | 181 |
 | 122 | Aerial Powers | 179 |
 | 122 | Camille Smith | 179 |
