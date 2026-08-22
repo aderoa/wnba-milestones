@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-22 02:59 UTC_
+_Last updated: 2026-08-22 03:00 UTC_
 
 ## Contents
 
@@ -186,7 +186,7 @@ _Last updated: 2026-08-22 02:59 UTC_
 | 165 | Chiney Ogwumike | 1,964 |
 | 166 | Nicole Ohlde | 1,959 |
 | 167 | Myisha Hines-Allen | 1,956 |
-| 168 | **Isabelle Harrison** 🔴 +10 | 1,942 |
+| 168 | **Isabelle Harrison** 🔴 +12 | 1,944 |
 | 169 | Kedra Holland-Corn | 1,938 |
 | 170 | Cathrine Kraayeveld | 1,926 |
 | 171 | Roneeka Hodges | 1,925 |
@@ -578,7 +578,7 @@ _Last updated: 2026-08-22 02:59 UTC_
 | 145 | Kristi Harrower | 450 |
 | 145 | Nikki McCray | 450 |
 | 148 | Ruth Riley | 449 |
-| 149 | **Julie Allemand** 🔴 +3 | 447 |
+| 149 | **Julie Allemand** 🔴 +4 | 448 |
 | 150 | DeMya Walker | 446 |
 | 151 | Essence Carson | 445 |
 | 152 | Michelle Snow | 437 |
@@ -690,10 +690,10 @@ _Last updated: 2026-08-22 02:59 UTC_
 | 52 | Asjha Jones | 204 |
 | 54 | Janel McCarville | 201 |
 | 55 | Rebecca Allen | 196 |
-| 56 | Courtney Vandersloot | 194 |
 | 56 | Jayne Appel Marinelli | 194 |
-| 58 | Angel McCoughtry | 193 |
-| 58 | Murriel Page | 193 |
+| 57 | Angel McCoughtry | 193 |
+| 57 | Courtney Vandersloot | 193 |
+| 57 | Murriel Page | 193 |
 | 60 | Kelly Schumacher | 183 |
 | 61 | Maria Stepanova | 182 |
 | 62 | Courtney Paris | 178 |
