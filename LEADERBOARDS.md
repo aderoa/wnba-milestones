@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-22 00:46 UTC_
+_Last updated: 2026-08-22 00:47 UTC_
 
 ## Contents
 
@@ -57,7 +57,7 @@ _Last updated: 2026-08-22 00:46 UTC_
 | 36 | Arike Ogunbowale | 4,715 |
 | 37 | Chamique Holdsclaw | 4,713 |
 | 38 | Elena Delle Donne | 4,706 |
-| 39 | **Natasha Howard** 🔴 +13 | 4,695 |
+| 39 | **Natasha Howard** 🔴 +15 | 4,697 |
 | 40 | Chelsea Gray | 4,625 |
 | 41 | Penny Taylor | 4,595 |
 | 42 | Kelsey Plum | 4,494 |
@@ -318,7 +318,7 @@ _Last updated: 2026-08-22 00:46 UTC_
 | 92 | Janel McCarville | 1,261 |
 | 93 | Liz Cambage | 1,258 |
 | 94 | Chelsea Gray | 1,257 |
-| 95 | **Kayla McBride** 🔴 | 1,256 |
+| 94 | **Kayla McBride** 🔴 +1 | 1,257 |
 | 96 | Brianna Turner | 1,243 |
 | 96 | Ezi Magbegor | 1,243 |
 | 98 | Seimone Augustus | 1,228 |
@@ -533,10 +533,10 @@ _Last updated: 2026-08-22 00:46 UTC_
 | 101 | Debbie Black | 612 |
 | 102 | Cynthia Cooper | 602 |
 | 103 | Sancho Lyttle | 592 |
+| 104 | **Betnijah Laney-Hamilton** 🔴 +1 | 591 |
 | 104 | Caitlin Clark | 591 |
 | 104 | **Gabby Williams** 🔴 | 591 |
-| 106 | **Betnijah Laney-Hamilton** 🔴 | 590 |
-| 106 | Camille Smith | 590 |
+| 107 | Camille Smith | 590 |
 | 108 | Armintie Herrington | 589 |
 | 109 | **Veronica Burton** 🔴 | 579 |
 | 110 | Tan White | 578 |
@@ -1315,8 +1315,8 @@ _Last updated: 2026-08-22 00:46 UTC_
 | 60 | Vickie Johnson | 660 |
 | 61 | Yolanda Griffith | 653 |
 | 62 | Sheri Sam | 650 |
-| 63 | **Kayla McBride** 🔴 | 648 |
-| 63 | Kelsey Plum | 648 |
+| 63 | **Kayla McBride** 🔴 +1 | 649 |
+| 64 | Kelsey Plum | 648 |
 | 65 | Dawn Staley | 643 |
 | 66 | Jonquel Jones | 641 |
 | 67 | Ruth Riley | 637 |
@@ -1603,9 +1603,9 @@ _Last updated: 2026-08-22 00:46 UTC_
 | 143 | Jackie Young | 548 |
 | 144 | Erlana Larkins | 546 |
 | 144 | Monique Billings | 546 |
-| 146 | Jayne Appel Marinelli | 543 |
-| 146 | **Kayla McBride** 🔴 | 543 |
-| 146 | Renee Montgomery | 543 |
+| 146 | **Kayla McBride** 🔴 +1 | 544 |
+| 147 | Jayne Appel Marinelli | 543 |
+| 147 | Renee Montgomery | 543 |
 | 149 | Marissa Coleman | 541 |
 | 150 | Sophie Cunningham | 538 |
 | 151 | Myisha Hines-Allen | 535 |
