@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-22 01:32 UTC_
+_Last updated: 2026-08-22 01:33 UTC_
 
 ## Contents
 
@@ -115,7 +115,7 @@ _Last updated: 2026-08-22 01:32 UTC_
 | 94 | Briann January | 3,082 |
 | 95 | Erika de Souza | 3,046 |
 | 96 | Shameka Christon | 3,039 |
-| 97 | **Natasha Cloud** 🔴 +15 | 3,033 |
+| 97 | **Natasha Cloud** 🔴 +17 | 3,035 |
 | 98 | Marie Ferdinand-Harris | 3,001 |
 | 99 | Emma Meesseman | 2,966 |
 | 100 | **Elizabeth Williams** 🔴 | 2,933 |
@@ -476,8 +476,8 @@ _Last updated: 2026-08-22 01:32 UTC_
 | 44 | Kayla McBride | 995 |
 | 45 | Nikki Teasley | 982 |
 | 46 | Breanna Stewart | 981 |
-| 47 | Tamecka Dixon | 960 |
-| 47 | **Tiffany Hayes** 🔴 +3 | 960 |
+| 47 | **Tiffany Hayes** 🔴 +4 | 961 |
+| 48 | Tamecka Dixon | 960 |
 | 49 | Kara Lawson | 946 |
 | 50 | Arike Ogunbowale | 944 |
 | 51 | Nneka Ogwumike | 933 |
@@ -538,7 +538,7 @@ _Last updated: 2026-08-22 01:32 UTC_
 | 104 | **Gabby Williams** 🔴 | 591 |
 | 107 | Camille Smith | 590 |
 | 108 | Armintie Herrington | 589 |
-| 109 | **Veronica Burton** 🔴 +1 | 580 |
+| 109 | **Veronica Burton** 🔴 +2 | 581 |
 | 110 | Tan White | 578 |
 | 111 | Matee Ajavon | 577 |
 | 112 | Napheesa Collier | 570 |
