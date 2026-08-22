@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-22 01:03 UTC_
+_Last updated: 2026-08-22 01:04 UTC_
 
 ## Contents
 
@@ -57,7 +57,7 @@ _Last updated: 2026-08-22 01:03 UTC_
 | 36 | Arike Ogunbowale | 4,715 |
 | 37 | Chamique Holdsclaw | 4,713 |
 | 38 | Elena Delle Donne | 4,706 |
-| 39 | **Natasha Howard** 🔴 +17 | 4,699 |
+| 39 | **Natasha Howard** 🔴 +19 | 4,701 |
 | 40 | Chelsea Gray | 4,625 |
 | 41 | Penny Taylor | 4,595 |
 | 42 | Kelsey Plum | 4,494 |
@@ -258,7 +258,7 @@ _Last updated: 2026-08-22 01:03 UTC_
 | 32 | Tammy Sutton-Brown | 2,010 |
 | 33 | **Elizabeth Williams** 🔴 | 1,978 |
 | 34 | Cheryl Ford | 1,907 |
-| 35 | **Courtney Williams** 🔴 +5 | 1,848 |
+| 35 | **Courtney Williams** 🔴 +6 | 1,849 |
 | 36 | **Kiah Stokes** 🔴 +4 | 1,839 |
 | 37 | Plenette Pierson | 1,834 |
 | 38 | Natalie Williams | 1,832 |
@@ -444,7 +444,7 @@ _Last updated: 2026-08-22 01:03 UTC_
 | 12 | Cappie Pondexter | 1,575 |
 | 13 | Tamika Catchings | 1,484 |
 | 14 | Danielle Robinson | 1,480 |
-| 15 | **Courtney Williams** 🔴 +5 | 1,443 |
+| 15 | **Courtney Williams** 🔴 +6 | 1,444 |
 | 16 | Shannon Johnson | 1,423 |
 | 16 | Tanisha Wright | 1,423 |
 | 18 | Temeka Johnson | 1,382 |
@@ -653,8 +653,8 @@ _Last updated: 2026-08-22 01:03 UTC_
 | 16 | Michelle Snow | 403 |
 | 17 | Tamika Catchings | 383 |
 | 18 | Tina Thompson | 372 |
-| 19 | Erika de Souza | 370 |
-| 19 | **Natasha Howard** 🔴 | 370 |
+| 19 | **Natasha Howard** 🔴 +1 | 371 |
+| 20 | Erika de Souza | 370 |
 | 21 | Jessica Breland | 367 |
 | 22 | DeWanna Bonner | 358 |
 | 23 | Ezi Magbegor | 354 |
