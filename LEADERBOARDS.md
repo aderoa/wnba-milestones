@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-22 01:29 UTC_
+_Last updated: 2026-08-22 01:30 UTC_
 
 ## Contents
 
@@ -47,7 +47,7 @@ _Last updated: 2026-08-22 01:29 UTC_
 | 26 | Lindsay Whalen | 5,511 |
 | 27 | Kelsey Mitchell | 5,198 |
 | 28 | Swin Cash | 5,119 |
-| 29 | **Tiffany Hayes** 🔴 +8 | 5,057 |
+| 29 | **Tiffany Hayes** 🔴 +10 | 5,059 |
 | 30 | Tangela Smith | 5,035 |
 | 31 | Taj McWilliams-Franklin | 4,992 |
 | 32 | Maya Moore | 4,984 |
@@ -538,7 +538,7 @@ _Last updated: 2026-08-22 01:29 UTC_
 | 104 | **Gabby Williams** 🔴 | 591 |
 | 107 | Camille Smith | 590 |
 | 108 | Armintie Herrington | 589 |
-| 109 | **Veronica Burton** 🔴 | 579 |
+| 109 | **Veronica Burton** 🔴 +1 | 580 |
 | 110 | Tan White | 578 |
 | 111 | Matee Ajavon | 577 |
 | 112 | Napheesa Collier | 570 |
@@ -673,9 +673,9 @@ _Last updated: 2026-08-22 01:29 UTC_
 | 36 | Cheyenne Parker-Tyus | 261 |
 | 37 | Swin Cash | 258 |
 | 38 | Plenette Pierson | 242 |
+| 39 | **Azurá Stevens** 🔴 +3 | 239 |
 | 39 | Napheesa Collier | 239 |
-| 40 | **Azurá Stevens** 🔴 +2 | 238 |
-| 40 | Emma Meesseman | 238 |
+| 41 | Emma Meesseman | 238 |
 | 42 | Brianna Turner | 234 |
 | 43 | Skylar Diggins | 231 |
 | 44 | Chasity Melvin | 228 |
