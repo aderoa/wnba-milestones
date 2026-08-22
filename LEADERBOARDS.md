@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-22 00:39 UTC_
+_Last updated: 2026-08-22 00:40 UTC_
 
 ## Contents
 
@@ -115,7 +115,7 @@ _Last updated: 2026-08-22 00:39 UTC_
 | 94 | Briann January | 3,082 |
 | 95 | Erika de Souza | 3,046 |
 | 96 | Shameka Christon | 3,039 |
-| 97 | **Natasha Cloud** 🔴 +9 | 3,027 |
+| 97 | **Natasha Cloud** 🔴 +12 | 3,030 |
 | 98 | Marie Ferdinand-Harris | 3,001 |
 | 99 | Emma Meesseman | 2,966 |
 | 100 | **Elizabeth Williams** 🔴 | 2,933 |
@@ -386,8 +386,8 @@ _Last updated: 2026-08-22 00:39 UTC_
 | 160 | Naz Hillmon | 859 |
 | 161 | Leilani Mitchell | 845 |
 | 162 | **Shakira Austin** 🔴 +6 | 838 |
-| 163 | Essence Carson | 833 |
-| 163 | **Gabby Williams** 🔴 +2 | 833 |
+| 163 | **Gabby Williams** 🔴 +3 | 834 |
+| 164 | Essence Carson | 833 |
 | 165 | Kristi Toliver | 829 |
 | 166 | Marie Ferdinand-Harris | 828 |
 | 167 | Marlies Askamp | 822 |
@@ -1101,7 +1101,7 @@ _Last updated: 2026-08-22 00:39 UTC_
 | 51 | Epiphanny Prince | 368 |
 | 51 | Kia Nurse | 368 |
 | 53 | Nykesha Sales | 352 |
-| 54 | **Natasha Cloud** 🔴 +3 | 348 |
+| 54 | **Natasha Cloud** 🔴 +4 | 349 |
 | 55 | Jackie Young | 346 |
 | 56 | Cathrine Kraayeveld | 343 |
 | 56 | Elena Delle Donne | 343 |
