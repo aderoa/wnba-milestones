@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-08-22T01:17:00+00:00",
+    "text": "Rachel Banham passed Elena Baranova for #174 all-time in fouls (career 502) \u2014 up from #177 entering today \u2014 (5:44 - 4th \u2014 GS @ CHI)",
+    "kind": "rank_pass",
+    "player": "Rachel Banham",
+    "stat": "fouls",
+    "rank": 174,
+    "passed_players": [
+      "Elena Baranova"
+    ],
+    "new_total": 502
+  },
+  {
     "ts": "2026-08-22T00:59:00+00:00",
     "text": "Rachel Banham reached 500 career fouls (now 500) \u2014 (45.5 - 3rd \u2014 GS @ CHI)",
     "kind": "round",
@@ -2976,17 +2988,5 @@
       "Liz Cambage"
     ],
     "new_total": 1259
-  },
-  {
-    "ts": "2026-07-07T01:13:00+00:00",
-    "text": "Kiah Stokes passed Courtney Williams for #35 all-time in rebounds (career 1,844) \u2014 up from #36 entering today \u2014 (4:23 - 4th \u2014 GS @ WSH)",
-    "kind": "rank_pass",
-    "player": "Kiah Stokes",
-    "stat": "rebounds",
-    "rank": 35,
-    "passed_players": [
-      "Courtney Williams"
-    ],
-    "new_total": 1844
   }
 ]
