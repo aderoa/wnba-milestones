@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-22 01:23 UTC_
+_Last updated: 2026-08-22 01:24 UTC_
 
 ## Contents
 
@@ -41,7 +41,7 @@ _Last updated: 2026-08-22 01:23 UTC_
 | 20 | Becky Hammon | 5,816 |
 | 21 | Angel McCoughtry | 5,797 |
 | 22 | Skylar Diggins | 5,732 |
-| 23 | **Kayla McBride** 🔴 +12 | 5,662 |
+| 23 | **Kayla McBride** 🔴 +15 | 5,665 |
 | 24 | DeLisha Milton-Jones | 5,571 |
 | 25 | Katie Douglas | 5,545 |
 | 26 | Lindsay Whalen | 5,511 |
@@ -444,7 +444,7 @@ _Last updated: 2026-08-22 01:23 UTC_
 | 12 | Cappie Pondexter | 1,575 |
 | 13 | Tamika Catchings | 1,484 |
 | 14 | Danielle Robinson | 1,480 |
-| 15 | **Courtney Williams** 🔴 +6 | 1,444 |
+| 15 | **Courtney Williams** 🔴 +7 | 1,445 |
 | 16 | Shannon Johnson | 1,423 |
 | 16 | Tanisha Wright | 1,423 |
 | 18 | Temeka Johnson | 1,382 |
@@ -870,7 +870,7 @@ _Last updated: 2026-08-22 01:23 UTC_
 | 25 | Becky Hammon | 485 |
 | 26 | Penny Taylor | 479 |
 | 27 | Sophia Young-Malcolm | 477 |
-| 28 | **Natasha Howard** 🔴 | 467 |
+| 28 | **Natasha Howard** 🔴 +1 | 468 |
 | 29 | Skylar Diggins | 463 |
 | 29 | Teresa Weatherspoon | 463 |
 | 31 | Jewell Loyd | 458 |
@@ -1052,7 +1052,7 @@ _Last updated: 2026-08-22 01:23 UTC_
 | 2 | Sue Bird | 1,001 |
 | 3 | Katie Smith | 906 |
 | 4 | Becky Hammon | 825 |
-| 5 | **Kayla McBride** 🔴 +2 | 758 |
+| 5 | **Kayla McBride** 🔴 +3 | 759 |
 | 6 | Tina Thompson | 745 |
 | 7 | Katie Douglas | 723 |
 | 8 | Kelsey Mitchell | 712 |
@@ -1323,8 +1323,8 @@ _Last updated: 2026-08-22 01:23 UTC_
 | 67 | Ruth Riley | 637 |
 | 68 | Odyssey Sims | 631 |
 | 68 | Svetlana Abrosimova | 631 |
-| 70 | Kahleah Copper | 625 |
-| 70 | **Tiffany Hayes** 🔴 +1 | 625 |
+| 70 | **Tiffany Hayes** 🔴 +2 | 626 |
+| 71 | Kahleah Copper | 625 |
 | 72 | Rebekkah Brunson | 615 |
 | 73 | Seimone Augustus | 613 |
 | 74 | Teresa Weatherspoon | 601 |
@@ -1604,7 +1604,7 @@ _Last updated: 2026-08-22 01:23 UTC_
 | 143 | Jackie Young | 548 |
 | 144 | Erlana Larkins | 546 |
 | 144 | Monique Billings | 546 |
-| 146 | **Kayla McBride** 🔴 +1 | 544 |
+| 146 | **Kayla McBride** 🔴 +2 | 545 |
 | 147 | Jayne Appel Marinelli | 543 |
 | 147 | Renee Montgomery | 543 |
 | 149 | Marissa Coleman | 541 |
