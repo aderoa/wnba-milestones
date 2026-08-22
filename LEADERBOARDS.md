@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-22 03:56 UTC_
+_Last updated: 2026-08-22 03:57 UTC_
 
 ## Contents
 
@@ -1116,8 +1116,8 @@ _Last updated: 2026-08-22 03:56 UTC_
 | 66 | Shannon Johnson | 313 |
 | 67 | DeLisha Milton-Jones | 312 |
 | 67 | Ruthie Bolton | 312 |
+| 69 | **Bridget Carleton** 🔴 +5 | 311 |
 | 69 | Tan White | 311 |
-| 70 | **Bridget Carleton** 🔴 +4 | 310 |
 | 71 | Kedra Holland-Corn | 307 |
 | 72 | Kelly Miller | 305 |
 | 73 | Nikki Teasley | 304 |
