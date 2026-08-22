@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-22 01:35 UTC_
+_Last updated: 2026-08-22 01:36 UTC_
 
 ## Contents
 
@@ -297,8 +297,8 @@ _Last updated: 2026-08-22 01:35 UTC_
 | 71 | Nakia Sanford | 1,419 |
 | 72 | **Kayla Thornton** 🔴 +2 | 1,410 |
 | 73 | Allisha Gray | 1,404 |
+| 74 | **Courtney Vandersloot** 🔴 +1 | 1,387 |
 | 74 | Kara Braxton | 1,387 |
-| 75 | **Courtney Vandersloot** 🔴 | 1,386 |
 | 76 | Katie Smith | 1,383 |
 | 77 | Ebony Hoffman | 1,376 |
 | 78 | Jewell Loyd | 1,371 |
@@ -431,7 +431,7 @@ _Last updated: 2026-08-22 01:35 UTC_
 | Rank | Player | Total |
 |-----:|--------|------:|
 | 1 | Sue Bird | 3,234 |
-| 2 | **Courtney Vandersloot** 🔴 +4 | 2,898 |
+| 2 | **Courtney Vandersloot** 🔴 +5 | 2,899 |
 | 3 | Ticha Penicheiro | 2,588 |
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
@@ -1444,9 +1444,9 @@ _Last updated: 2026-08-22 01:35 UTC_
 | 188 | Natisha Hiedeman | 312 |
 | 189 | Tamika Raymond | 311 |
 | 190 | Isabelle Harrison | 307 |
-| 191 | **Azurá Stevens** 🔴 +1 | 305 |
-| 191 | Erin Perperoglou | 305 |
-| 191 | Jennifer Lacy | 305 |
+| 191 | **Azurá Stevens** 🔴 +2 | 306 |
+| 192 | Erin Perperoglou | 305 |
+| 192 | Jennifer Lacy | 305 |
 | 194 | Tianna Hawkins | 303 |
 | 195 | **Rachel Banham** 🔴 | 301 |
 | 196 | Crystal Robinson | 299 |
