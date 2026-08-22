@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-08-22 00:59 UTC
+
+- **Rachel Banham** reached **500** career fouls (now 500) — _45.5 - 3rd — GS @ CHI_
+
 ## 2026-08-21 04:03 UTC
 
 - **Shatori Walker-Kimbrough** passed **Tayler Hill** for **#127** all-time in three-pointers (career 175) — _1:48 - 4th — ATL @ LA_

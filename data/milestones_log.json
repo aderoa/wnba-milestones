@@ -1,5 +1,14 @@
 [
   {
+    "ts": "2026-08-22T00:59:00+00:00",
+    "text": "Rachel Banham reached 500 career fouls (now 500) \u2014 (45.5 - 3rd \u2014 GS @ CHI)",
+    "kind": "round",
+    "player": "Rachel Banham",
+    "stat": "fouls",
+    "value": 500,
+    "new_total": 500
+  },
+  {
     "ts": "2026-08-21T04:03:00+00:00",
     "text": "Shatori Walker-Kimbrough passed Tayler Hill for #127 all-time in three-pointers (career 175) \u2014 (1:48 - 4th \u2014 ATL @ LA)",
     "kind": "rank_pass",
@@ -2979,17 +2988,5 @@
       "Courtney Williams"
     ],
     "new_total": 1844
-  },
-  {
-    "ts": "2026-07-07T00:36:00+00:00",
-    "text": "Nia Coffey passed Courtney Paris for #62 all-time in blocks (career 179) \u2014 up from #63 entering today \u2014 (7:11 - 2nd \u2014 CON @ MIN)",
-    "kind": "rank_pass",
-    "player": "Nia Coffey",
-    "stat": "blocks",
-    "rank": 62,
-    "passed_players": [
-      "Courtney Paris"
-    ],
-    "new_total": 179
   }
 ]
