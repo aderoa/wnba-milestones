@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-22 02:05 UTC_
+_Last updated: 2026-08-22 02:06 UTC_
 
 ## Contents
 
@@ -82,7 +82,7 @@ _Last updated: 2026-08-22 02:05 UTC_
 | 61 | Betty Lennox | 3,856 |
 | 62 | Allie Quigley | 3,786 |
 | 63 | Chasity Melvin | 3,781 |
-| 64 | Brittney Sykes | 3,726 |
+| 64 | **Brittney Sykes** 🔴 | 3,726 |
 | 65 | Jackie Young | 3,698 |
 | 66 | Kara Lawson | 3,670 |
 | 67 | Mwadi Mabika | 3,576 |
@@ -187,7 +187,7 @@ _Last updated: 2026-08-22 02:05 UTC_
 | 166 | Nicole Ohlde | 1,959 |
 | 167 | Myisha Hines-Allen | 1,956 |
 | 168 | Kedra Holland-Corn | 1,938 |
-| 169 | Isabelle Harrison | 1,932 |
+| 169 | **Isabelle Harrison** 🔴 | 1,932 |
 | 170 | Cathrine Kraayeveld | 1,926 |
 | 171 | Roneeka Hodges | 1,925 |
 | 172 | Latasha Byears | 1,920 |
@@ -330,7 +330,7 @@ _Last updated: 2026-08-22 02:05 UTC_
 | 103 | Tanisha Wright | 1,190 |
 | 105 | Vicky Bullett | 1,189 |
 | 106 | NaLyssa Smith | 1,172 |
-| 107 | Brittney Sykes | 1,162 |
+| 107 | **Brittney Sykes** 🔴 | 1,162 |
 | 108 | Natasha Cloud | 1,148 |
 | 108 | Nykesha Sales | 1,148 |
 | 110 | Shannon Johnson | 1,143 |
@@ -342,7 +342,7 @@ _Last updated: 2026-08-22 02:05 UTC_
 | 116 | Chiney Ogwumike | 1,110 |
 | 117 | Becky Hammon | 1,108 |
 | 118 | Ann Wauters | 1,105 |
-| 119 | Isabelle Harrison | 1,097 |
+| 119 | **Isabelle Harrison** 🔴 | 1,097 |
 | 120 | Jackie Young | 1,085 |
 | 121 | Svetlana Abrosimova | 1,078 |
 | 122 | Le'coe Willingham | 1,054 |
@@ -494,7 +494,7 @@ _Last updated: 2026-08-22 02:05 UTC_
 | 62 | Taj McWilliams-Franklin | 879 |
 | 63 | Noelle Quinn | 878 |
 | 64 | Lisa Leslie | 873 |
-| 65 | Brittney Sykes | 866 |
+| 65 | **Brittney Sykes** 🔴 | 866 |
 | 66 | Tully Bevilaqua | 853 |
 | 67 | Kelsey Mitchell | 847 |
 | 68 | Jia Perkins | 837 |
@@ -580,7 +580,7 @@ _Last updated: 2026-08-22 02:05 UTC_
 | 148 | Ruth Riley | 449 |
 | 149 | DeMya Walker | 446 |
 | 150 | Essence Carson | 445 |
-| 151 | Julie Allemand | 444 |
+| 151 | **Julie Allemand** 🔴 | 444 |
 | 152 | Michelle Snow | 437 |
 | 153 | Jessica Shepard | 436 |
 | 154 | Lauren Jackson | 435 |
@@ -606,7 +606,7 @@ _Last updated: 2026-08-22 02:05 UTC_
 | 174 | Shameka Christon | 389 |
 | 174 | Tamicha Jackson | 389 |
 | 176 | Riquna Williams | 387 |
-| 177 | Bridget Carleton | 384 |
+| 177 | **Bridget Carleton** 🔴 | 384 |
 | 178 | Dana Evans | 379 |
 | 179 | Jessica Breland | 377 |
 | 180 | Shenise Johnson | 376 |
@@ -718,7 +718,7 @@ _Last updated: 2026-08-22 02:05 UTC_
 | 81 | Alison Bales | 148 |
 | 82 | Chamique Holdsclaw | 143 |
 | 83 | Shavonte Zellous | 139 |
-| 84 | Brittney Sykes | 136 |
+| 84 | **Brittney Sykes** 🔴 | 136 |
 | 84 | Penny Taylor | 136 |
 | 86 | Monique Billings | 134 |
 | 87 | Devereaux Peters | 133 |
@@ -729,7 +729,7 @@ _Last updated: 2026-08-22 02:05 UTC_
 | 91 | Nakia Sanford | 131 |
 | 93 | Brooke Wyckoff | 129 |
 | 93 | Cathrine Kraayeveld | 129 |
-| 95 | Emily Engstler | 128 |
+| 95 | **Emily Engstler** 🔴 | 128 |
 | 96 | Alyssa Thomas | 127 |
 | 96 | Chelsea Gray | 127 |
 | 96 | Chiney Ogwumike | 127 |
@@ -762,7 +762,7 @@ _Last updated: 2026-08-22 02:05 UTC_
 | 124 | Rebecca Lobo | 104 |
 | 126 | Jennifer Gillom | 103 |
 | 126 | Jia Perkins | 103 |
-| 128 | Isabelle Harrison | 102 |
+| 128 | **Isabelle Harrison** 🔴 | 102 |
 | 128 | Theresa Plaisance | 102 |
 | 130 | Deanna Nolan | 101 |
 | 131 | Chante Black | 100 |
@@ -902,7 +902,7 @@ _Last updated: 2026-08-22 02:05 UTC_
 | 57 | Allisha Gray | 379 |
 | 58 | Monique Currie | 378 |
 | 59 | Chamique Holdsclaw | 376 |
-| 60 | Brittney Sykes | 371 |
+| 60 | **Brittney Sykes** 🔴 | 371 |
 | 61 | Mwadi Mabika | 370 |
 | 62 | A'ja Wilson | 361 |
 | 62 | Erica Wheeler | 361 |
@@ -1021,7 +1021,7 @@ _Last updated: 2026-08-22 02:05 UTC_
 | 174 | Tierra Ruffin-Pratt | 194 |
 | 177 | Cynthia Cooper | 192 |
 | 178 | Myisha Hines-Allen | 191 |
-| 179 | Isabelle Harrison | 190 |
+| 179 | **Isabelle Harrison** 🔴 | 190 |
 | 180 | Tamicha Jackson | 188 |
 | 181 | Michele Timms | 187 |
 | 182 | Charde Houston | 185 |
@@ -1041,7 +1041,7 @@ _Last updated: 2026-08-22 02:05 UTC_
 | 196 | Elena Delle Donne | 174 |
 | 196 | Ezi Magbegor | 174 |
 | 196 | Margo Dydek | 174 |
-| 199 | Bridget Carleton | 173 |
+| 199 | **Bridget Carleton** 🔴 | 173 |
 | 199 | Kamila Vodichkova | 173 |
 
 ## Three-pointers
@@ -1118,7 +1118,7 @@ _Last updated: 2026-08-22 02:05 UTC_
 | 67 | Ruthie Bolton | 312 |
 | 69 | Tan White | 311 |
 | 70 | Kedra Holland-Corn | 307 |
-| 71 | Bridget Carleton | 306 |
+| 71 | **Bridget Carleton** 🔴 | 306 |
 | 72 | Kelly Miller | 305 |
 | 73 | Nikki Teasley | 304 |
 | 74 | Kayla Thornton | 300 |
@@ -1139,7 +1139,7 @@ _Last updated: 2026-08-22 02:05 UTC_
 | 88 | Nneka Ogwumike | 253 |
 | 90 | Angel McCoughtry | 249 |
 | 91 | Azurá Stevens | 247 |
-| 91 | Brittney Sykes | 247 |
+| 91 | **Brittney Sykes** 🔴 | 247 |
 | 93 | Erin Thorn | 243 |
 | 94 | Alex Bentley | 239 |
 | 94 | Cynthia Cooper | 239 |
@@ -1332,7 +1332,7 @@ _Last updated: 2026-08-22 02:05 UTC_
 | 75 | Tamika Whitmore | 600 |
 | 77 | Kelly Miller | 596 |
 | 78 | Stefanie Dolson | 594 |
-| 79 | Brittney Sykes | 591 |
+| 79 | **Brittney Sykes** 🔴 | 591 |
 | 80 | Breanna Stewart | 586 |
 | 81 | Kelsey Mitchell | 585 |
 | 82 | Helen Darling | 575 |
@@ -1443,7 +1443,7 @@ _Last updated: 2026-08-22 02:05 UTC_
 | 187 | Alex Bentley | 313 |
 | 188 | Natisha Hiedeman | 312 |
 | 189 | Tamika Raymond | 311 |
-| 190 | Isabelle Harrison | 307 |
+| 190 | **Isabelle Harrison** 🔴 | 307 |
 | 191 | Azurá Stevens | 306 |
 | 192 | Erin Perperoglou | 305 |
 | 192 | Jennifer Lacy | 305 |
@@ -1541,7 +1541,7 @@ _Last updated: 2026-08-22 02:05 UTC_
 | 80 | Cheryl Ford | 713 |
 | 81 | Jia Perkins | 711 |
 | 82 | Helen Darling | 709 |
-| 83 | Brittney Sykes | 701 |
+| 83 | **Brittney Sykes** 🔴 | 701 |
 | 83 | Matee Ajavon | 701 |
 | 83 | Nicole Powell | 701 |
 | 86 | Kelsey Plum | 699 |
@@ -1625,7 +1625,7 @@ _Last updated: 2026-08-22 02:05 UTC_
 | 164 | Andrea Stinson | 511 |
 | 165 | Vicky Bullett | 507 |
 | 166 | Merlakia Jones | 506 |
-| 167 | Isabelle Harrison | 505 |
+| 167 | **Isabelle Harrison** 🔴 | 505 |
 | 167 | Rushia Brown | 505 |
 | 167 | Shekinna Stricklen | 505 |
 | 170 | Allison Feaster | 504 |
