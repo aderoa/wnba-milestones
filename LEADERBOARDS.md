@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-22 00:21 UTC_
+_Last updated: 2026-08-22 00:22 UTC_
 
 ## Contents
 
@@ -315,7 +315,7 @@ _Last updated: 2026-08-22 00:21 UTC_
 | 89 | Tari Phillips | 1,274 |
 | 90 | Myisha Hines-Allen | 1,265 |
 | 91 | Janel McCarville | 1,261 |
-| 92 | **Tiffany Hayes** 🔴 +2 | 1,259 |
+| 92 | **Tiffany Hayes** 🔴 +3 | 1,260 |
 | 93 | Liz Cambage | 1,258 |
 | 94 | Chelsea Gray | 1,257 |
 | 95 | **Kayla McBride** 🔴 | 1,256 |
@@ -410,8 +410,8 @@ _Last updated: 2026-08-22 00:21 UTC_
 | 183 | Kelsey Bone | 769 |
 | 183 | Tan White | 769 |
 | 186 | Tully Bevilaqua | 767 |
-| 187 | **Kamilla Cardoso** 🔴 +7 | 757 |
-| 188 | Layshia Clarendon | 756 |
+| 187 | **Kamilla Cardoso** 🔴 +6 | 756 |
+| 187 | Layshia Clarendon | 756 |
 | 189 | Brooke Wyckoff | 751 |
 | 190 | Coco Miller | 750 |
 | 191 | Kelsey Plum | 741 |
