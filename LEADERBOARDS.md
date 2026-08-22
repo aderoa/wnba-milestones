@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-22 00:38 UTC_
+_Last updated: 2026-08-22 00:39 UTC_
 
 ## Contents
 
@@ -41,7 +41,7 @@ _Last updated: 2026-08-22 00:38 UTC_
 | 20 | Becky Hammon | 5,816 |
 | 21 | Angel McCoughtry | 5,797 |
 | 22 | Skylar Diggins | 5,732 |
-| 23 | **Kayla McBride** 🔴 +7 | 5,657 |
+| 23 | **Kayla McBride** 🔴 +10 | 5,660 |
 | 24 | DeLisha Milton-Jones | 5,571 |
 | 25 | Katie Douglas | 5,545 |
 | 26 | Lindsay Whalen | 5,511 |
@@ -259,7 +259,7 @@ _Last updated: 2026-08-22 00:38 UTC_
 | 33 | **Elizabeth Williams** 🔴 | 1,978 |
 | 34 | Cheryl Ford | 1,907 |
 | 35 | **Courtney Williams** 🔴 +4 | 1,847 |
-| 36 | **Kiah Stokes** 🔴 +3 | 1,838 |
+| 36 | **Kiah Stokes** 🔴 +4 | 1,839 |
 | 37 | Plenette Pierson | 1,834 |
 | 38 | Natalie Williams | 1,832 |
 | 39 | Wendy Palmer | 1,824 |
@@ -295,7 +295,7 @@ _Last updated: 2026-08-22 00:38 UTC_
 | 69 | Monique Billings | 1,431 |
 | 70 | Alana Beard | 1,420 |
 | 71 | Nakia Sanford | 1,419 |
-| 72 | **Kayla Thornton** 🔴 +1 | 1,409 |
+| 72 | **Kayla Thornton** 🔴 +2 | 1,410 |
 | 73 | Allisha Gray | 1,404 |
 | 74 | Kara Braxton | 1,387 |
 | 75 | **Courtney Vandersloot** 🔴 | 1,386 |
@@ -410,8 +410,8 @@ _Last updated: 2026-08-22 00:38 UTC_
 | 183 | Kelsey Bone | 769 |
 | 183 | Tan White | 769 |
 | 186 | Tully Bevilaqua | 767 |
-| 187 | **Kamilla Cardoso** 🔴 +6 | 756 |
-| 187 | Layshia Clarendon | 756 |
+| 187 | **Kamilla Cardoso** 🔴 +7 | 757 |
+| 188 | Layshia Clarendon | 756 |
 | 189 | Brooke Wyckoff | 751 |
 | 190 | Coco Miller | 750 |
 | 191 | Kelsey Plum | 741 |
@@ -529,7 +529,7 @@ _Last updated: 2026-08-22 00:38 UTC_
 | 97 | Jennifer Azzi | 636 |
 | 98 | Sami Whitcomb | 623 |
 | 99 | Alysha Clark | 619 |
-| 100 | **Natasha Howard** 🔴 +3 | 618 |
+| 99 | **Natasha Howard** 🔴 +4 | 619 |
 | 101 | Debbie Black | 612 |
 | 102 | Cynthia Cooper | 602 |
 | 103 | Sancho Lyttle | 592 |
@@ -1052,7 +1052,7 @@ _Last updated: 2026-08-22 00:38 UTC_
 | 2 | Sue Bird | 1,001 |
 | 3 | Katie Smith | 906 |
 | 4 | Becky Hammon | 825 |
-| 5 | **Kayla McBride** 🔴 +1 | 757 |
+| 5 | **Kayla McBride** 🔴 +2 | 758 |
 | 6 | Tina Thompson | 745 |
 | 7 | Katie Douglas | 723 |
 | 8 | Kelsey Mitchell | 712 |
@@ -1224,8 +1224,8 @@ _Last updated: 2026-08-22 00:38 UTC_
 | 174 | Tamecka Dixon | 126 |
 | 175 | Kennedy Burke | 125 |
 | 175 | Lexie Hull | 125 |
-| 177 | Charde Houston | 124 |
-| 177 | **Veronica Burton** 🔴 | 124 |
+| 175 | **Veronica Burton** 🔴 +1 | 125 |
+| 178 | Charde Houston | 124 |
 | 179 | Lisa Leslie | 123 |
 | 180 | Sidney Spencer | 122 |
 | 181 | Tonya Edwards | 118 |
