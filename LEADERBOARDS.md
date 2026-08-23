@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-23 23:45 UTC_
+_Last updated: 2026-08-23 23:46 UTC_
 
 ## Contents
 
@@ -45,7 +45,7 @@ _Last updated: 2026-08-23 23:45 UTC_
 | 24 | DeLisha Milton-Jones | 5,571 |
 | 25 | Katie Douglas | 5,545 |
 | 26 | Lindsay Whalen | 5,511 |
-| 27 | **Kelsey Mitchell** 🔴 +2 | 5,200 |
+| 27 | **Kelsey Mitchell** 🔴 +4 | 5,202 |
 | 28 | Swin Cash | 5,119 |
 | 29 | Tiffany Hayes | 5,049 |
 | 30 | Tangela Smith | 5,035 |
@@ -291,8 +291,8 @@ _Last updated: 2026-08-23 23:45 UTC_
 | 65 | Sue Bird | 1,466 |
 | 66 | **Cheyenne Parker-Tyus** 🔴 +1 | 1,464 |
 | 67 | Nicole Powell | 1,457 |
-| 68 | **Monique Billings** 🔴 +2 | 1,433 |
-| 68 | Tamera Young | 1,433 |
+| 68 | **Monique Billings** 🔴 +3 | 1,434 |
+| 69 | Tamera Young | 1,433 |
 | 70 | Alana Beard | 1,420 |
 | 71 | Nakia Sanford | 1,419 |
 | 72 | Kayla Thornton | 1,408 |
@@ -554,7 +554,7 @@ _Last updated: 2026-08-23 23:45 UTC_
 | 122 | **Myisha Hines-Allen** 🔴 | 529 |
 | 123 | Marie Ferdinand-Harris | 528 |
 | 124 | Margo Dydek | 524 |
-| 125 | **Rachel Banham** 🔴 | 511 |
+| 125 | **Rachel Banham** 🔴 +1 | 512 |
 | 126 | Iziane Castro Marques | 509 |
 | 127 | Brittany Boyd-Jones | 508 |
 | 127 | Chasity Melvin | 508 |
@@ -742,7 +742,7 @@ _Last updated: 2026-08-23 23:45 UTC_
 | 105 | Natalie Williams | 122 |
 | 106 | Ebony Hoffman | 121 |
 | 106 | Essence Carson | 121 |
-| 108 | **Shakira Austin** 🔴 +1 | 120 |
+| 106 | **Shakira Austin** 🔴 +2 | 121 |
 | 109 | Krystal Thomas | 118 |
 | 110 | Andrea Stinson | 117 |
 | 110 | Crystal Langhorne | 117 |
@@ -1158,9 +1158,9 @@ _Last updated: 2026-08-23 23:45 UTC_
 | 108 | **Betnijah Laney-Hamilton** 🔴 | 206 |
 | 109 | Lexie Brown | 203 |
 | 110 | Shanna Zolman | 199 |
-| 111 | **Caitlin Clark** 🔴 +2 | 197 |
-| 111 | Temeka Johnson | 197 |
-| 111 | Tina Charles | 197 |
+| 111 | **Caitlin Clark** 🔴 +3 | 198 |
+| 112 | Temeka Johnson | 197 |
+| 112 | Tina Charles | 197 |
 | 114 | Nia Coffey | 196 |
 | 115 | Lindsay Whalen | 193 |
 | 116 | Victoria Vivians | 192 |
@@ -1376,7 +1376,7 @@ _Last updated: 2026-08-23 23:45 UTC_
 | 121 | Allie Quigley | 467 |
 | 122 | Ariel Atkins | 465 |
 | 123 | **Jackie Young** 🔴 +1 | 464 |
-| 124 | **Betnijah Laney-Hamilton** 🔴 | 456 |
+| 124 | **Betnijah Laney-Hamilton** 🔴 +1 | 457 |
 | 125 | Kia Vaughn | 454 |
 | 126 | Janeth Arcain | 453 |
 | 127 | Alysha Clark | 445 |
