@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-23 21:18 UTC_
+_Last updated: 2026-08-23 21:19 UTC_
 
 ## Contents
 
@@ -1379,9 +1379,9 @@ _Last updated: 2026-08-23 21:18 UTC_
 | 124 | Betnijah Laney-Hamilton | 456 |
 | 125 | Kia Vaughn | 454 |
 | 126 | Janeth Arcain | 453 |
-| 127 | **Alysha Clark** 🔴 +1 | 444 |
-| 127 | Elena Baranova | 444 |
-| 127 | Jantel Lavender | 444 |
+| 127 | **Alysha Clark** 🔴 +2 | 445 |
+| 128 | Elena Baranova | 444 |
+| 128 | Jantel Lavender | 444 |
 | 130 | Cheyenne Parker-Tyus | 441 |
 | 131 | Ann Wauters | 440 |
 | 132 | Tiffany Mitchell | 439 |
