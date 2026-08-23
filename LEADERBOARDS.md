@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-23 02:05 UTC_
+_Last updated: 2026-08-23 02:06 UTC_
 
 ## Contents
 
@@ -21,7 +21,7 @@ _Last updated: 2026-08-23 02:05 UTC_
 |-----:|--------|------:|
 | 1 | Diana Taurasi | 10,608 |
 | 2 | Tina Charles | 8,396 |
-| 3 | **DeWanna Bonner** 🔴 | 7,972 |
+| 3 | **DeWanna Bonner** 🔴 +2 | 7,974 |
 | 4 | **Nneka Ogwumike** 🔴 +7 | 7,570 |
 | 5 | Tina Thompson | 7,470 |
 | 6 | Tamika Catchings | 7,371 |
@@ -235,7 +235,7 @@ _Last updated: 2026-08-23 02:05 UTC_
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
-| 12 | **Alyssa Thomas** 🔴 | 2,858 |
+| 12 | **Alyssa Thomas** 🔴 +1 | 2,859 |
 | 13 | Jonquel Jones | 2,738 |
 | 14 | A'ja Wilson | 2,657 |
 | 15 | Breanna Stewart | 2,640 |
