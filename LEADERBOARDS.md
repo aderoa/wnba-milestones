@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-23 02:56 UTC_
+_Last updated: 2026-08-23 02:57 UTC_
 
 ## Contents
 
@@ -107,7 +107,7 @@ _Last updated: 2026-08-23 02:56 UTC_
 | 86 | Marina Mabrey | 3,249 |
 | 87 | Stefanie Dolson | 3,217 |
 | 88 | Margo Dydek | 3,214 |
-| 89 | **Erica Wheeler** 🔴 +8 | 3,203 |
+| 89 | **Erica Wheeler** 🔴 +11 | 3,206 |
 | 90 | Danielle Robinson | 3,160 |
 | 91 | Wendy Palmer | 3,135 |
 | 92 | Sabrina Ionescu | 3,109 |
@@ -1106,7 +1106,7 @@ _Last updated: 2026-08-23 02:56 UTC_
 | 56 | Elena Delle Donne | 343 |
 | 58 | Candace Parker | 342 |
 | 59 | Deanna Nolan | 340 |
-| 60 | **Erica Wheeler** 🔴 +2 | 339 |
+| 59 | **Erica Wheeler** 🔴 +3 | 340 |
 | 61 | Sophie Cunningham | 336 |
 | 62 | Anna DeForge | 334 |
 | 63 | Natisha Hiedeman | 328 |
