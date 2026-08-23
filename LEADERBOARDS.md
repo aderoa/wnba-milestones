@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-23 20:18 UTC_
+_Last updated: 2026-08-23 20:19 UTC_
 
 ## Contents
 
@@ -181,7 +181,7 @@ _Last updated: 2026-08-23 20:18 UTC_
 | 160 | Diamond DeShields | 2,026 |
 | 161 | Vicky Bullett | 2,018 |
 | 162 | Natisha Hiedeman | 2,002 |
-| 163 | **Ezi Magbegor** 🔴 +1 | 1,996 |
+| 163 | **Ezi Magbegor** 🔴 +2 | 1,997 |
 | 164 | Bria Hartley | 1,967 |
 | 165 | Chiney Ogwumike | 1,964 |
 | 166 | Nicole Ohlde | 1,959 |
