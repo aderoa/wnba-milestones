@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-23 03:20 UTC_
+_Last updated: 2026-08-23 03:21 UTC_
 
 ## Contents
 
@@ -60,10 +60,10 @@ _Last updated: 2026-08-23 03:20 UTC_
 | 39 | Natasha Howard | 4,682 |
 | 40 | Chelsea Gray | 4,625 |
 | 41 | Penny Taylor | 4,595 |
-| 42 | **Allisha Gray** 🔴 +12 | 4,503 |
+| 42 | **Allisha Gray** 🔴 +15 | 4,506 |
 | 43 | Kelsey Plum | 4,494 |
 | 44 | Kristi Toliver | 4,474 |
-| 45 | **Kahleah Copper** 🔴 +28 | 4,465 |
+| 45 | **Kahleah Copper** 🔴 +31 | 4,468 |
 | 46 | Crystal Langhorne | 4,433 |
 | 46 | Jia Perkins | 4,433 |
 | 48 | Jonquel Jones | 4,372 |
@@ -235,7 +235,7 @@ _Last updated: 2026-08-23 03:20 UTC_
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
-| 12 | **Alyssa Thomas** 🔴 +11 | 2,869 |
+| 12 | **Alyssa Thomas** 🔴 +12 | 2,870 |
 | 13 | Jonquel Jones | 2,738 |
 | 14 | A'ja Wilson | 2,657 |
 | 15 | Breanna Stewart | 2,640 |
@@ -346,7 +346,7 @@ _Last updated: 2026-08-23 03:20 UTC_
 | 120 | Jackie Young | 1,085 |
 | 121 | Svetlana Abrosimova | 1,078 |
 | 122 | Le'coe Willingham | 1,054 |
-| 123 | **Angel Reese** 🔴 +10 | 1,045 |
+| 123 | **Angel Reese** 🔴 +11 | 1,046 |
 | 124 | Nicole Ohlde | 1,040 |
 | 125 | Tamecka Dixon | 1,035 |
 | 126 | Kamila Vodichkova | 1,031 |
@@ -435,7 +435,7 @@ _Last updated: 2026-08-23 03:20 UTC_
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
 | 6 | Chelsea Gray | 2,003 |
-| 7 | **Alyssa Thomas** 🔴 +9 | 1,980 |
+| 7 | **Alyssa Thomas** 🔴 +10 | 1,981 |
 | 8 | Skylar Diggins | 1,852 |
 | 9 | Natasha Cloud | 1,802 |
 | 10 | Becky Hammon | 1,705 |
@@ -454,7 +454,7 @@ _Last updated: 2026-08-23 03:20 UTC_
 | 23 | Teresa Weatherspoon | 1,333 |
 | 24 | Kristi Toliver | 1,301 |
 | 25 | Kelsey Plum | 1,270 |
-| 26 | **Jordin Canada** 🔴 +2 | 1,264 |
+| 26 | **Jordin Canada** 🔴 +4 | 1,266 |
 | 27 | Katie Smith | 1,258 |
 | 28 | Odyssey Sims | 1,228 |
 | 29 | Vickie Johnson | 1,202 |
@@ -1074,7 +1074,7 @@ _Last updated: 2026-08-23 03:20 UTC_
 | 25 | Shekinna Stricklen | 468 |
 | 26 | Breanna Stewart | 465 |
 | 27 | Cappie Pondexter | 464 |
-| 28 | **Allisha Gray** 🔴 +1 | 459 |
+| 28 | **Allisha Gray** 🔴 +2 | 460 |
 | 29 | Ariel Atkins | 455 |
 | 30 | Tiffany Hayes | 454 |
 | 31 | Chelsea Gray | 450 |
@@ -1094,9 +1094,9 @@ _Last updated: 2026-08-23 03:20 UTC_
 | 45 | Courtney Vandersloot | 386 |
 | 46 | Briann January | 381 |
 | 47 | Jasmine Thomas | 376 |
-| 48 | Allison Feaster | 372 |
-| 48 | Betty Lennox | 372 |
-| 48 | **Kahleah Copper** 🔴 +2 | 372 |
+| 48 | **Kahleah Copper** 🔴 +3 | 373 |
+| 49 | Allison Feaster | 372 |
+| 49 | Betty Lennox | 372 |
 | 51 | Epiphanny Prince | 368 |
 | 51 | Kia Nurse | 368 |
 | 53 | Nykesha Sales | 352 |
