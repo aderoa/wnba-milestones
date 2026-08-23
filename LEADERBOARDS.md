@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-23 02:38 UTC_
+_Last updated: 2026-08-23 02:39 UTC_
 
 ## Contents
 
@@ -1278,7 +1278,7 @@ _Last updated: 2026-08-23 02:38 UTC_
 | 24 | Candice Dupree | 869 |
 | 25 | Alana Beard | 854 |
 | 26 | Natasha Howard | 843 |
-| 27 | **DeWanna Bonner** 🔴 | 840 |
+| 27 | **DeWanna Bonner** 🔴 +1 | 841 |
 | 28 | Katie Douglas | 824 |
 | 29 | **Nneka Ogwumike** 🔴 +2 | 805 |
 | 30 | Betty Lennox | 800 |
@@ -1506,8 +1506,8 @@ _Last updated: 2026-08-23 02:38 UTC_
 | 47 | Cappie Pondexter | 869 |
 | 48 | Erika de Souza | 858 |
 | 49 | Angel McCoughtry | 857 |
-| 50 | Betty Lennox | 851 |
-| 50 | **Dearica Hamby** 🔴 +1 | 851 |
+| 50 | **Dearica Hamby** 🔴 +2 | 852 |
+| 51 | Betty Lennox | 851 |
 | 52 | Tamecka Dixon | 849 |
 | 53 | Natalie Williams | 847 |
 | 53 | Tamera Young | 847 |
