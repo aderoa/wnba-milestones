@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-23 03:03 UTC_
+_Last updated: 2026-08-23 03:04 UTC_
 
 ## Contents
 
@@ -63,7 +63,7 @@ _Last updated: 2026-08-23 03:03 UTC_
 | 42 | **Allisha Gray** 🔴 +7 | 4,498 |
 | 43 | Kelsey Plum | 4,494 |
 | 44 | Kristi Toliver | 4,474 |
-| 45 | **Kahleah Copper** 🔴 +13 | 4,450 |
+| 45 | **Kahleah Copper** 🔴 +16 | 4,453 |
 | 46 | Crystal Langhorne | 4,433 |
 | 46 | Jia Perkins | 4,433 |
 | 48 | Jonquel Jones | 4,372 |
@@ -526,7 +526,7 @@ _Last updated: 2026-08-23 03:03 UTC_
 | 95 | Alex Bentley | 645 |
 | 96 | Asjha Jones | 637 |
 | 97 | Jennifer Azzi | 636 |
-| 98 | **Sami Whitcomb** 🔴 +1 | 624 |
+| 98 | **Sami Whitcomb** 🔴 +2 | 625 |
 | 99 | Alysha Clark | 619 |
 | 100 | Natasha Howard | 615 |
 | 101 | Debbie Black | 612 |
@@ -990,8 +990,8 @@ _Last updated: 2026-08-23 03:03 UTC_
 | 145 | Rushia Brown | 221 |
 | 147 | DeMya Walker | 220 |
 | 147 | Jennifer Gillom | 220 |
-| 149 | Allison Feaster | 219 |
-| 149 | **Kahleah Copper** 🔴 | 219 |
+| 147 | **Kahleah Copper** 🔴 +1 | 220 |
+| 150 | Allison Feaster | 219 |
 | 151 | Cheyenne Parker-Tyus | 217 |
 | 151 | Shenise Johnson | 217 |
 | 153 | Adrian Williams-Strong | 216 |
@@ -1297,7 +1297,7 @@ _Last updated: 2026-08-23 03:03 UTC_
 | 43 | Michelle Snow | 723 |
 | 44 | Tamecka Dixon | 716 |
 | 45 | Natasha Cloud | 707 |
-| 46 | **Erica Wheeler** 🔴 +3 | 702 |
+| 46 | **Erica Wheeler** 🔴 +4 | 703 |
 | 47 | Renee Montgomery | 697 |
 | 48 | Temeka Johnson | 696 |
 | 49 | Penny Taylor | 695 |
