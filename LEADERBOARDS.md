@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-23 23:47 UTC_
+_Last updated: 2026-08-23 23:48 UTC_
 
 ## Contents
 
@@ -213,7 +213,7 @@ _Last updated: 2026-08-23 23:47 UTC_
 | 192 | Armintie Herrington | 1,696 |
 | 193 | Nikki Teasley | 1,690 |
 | 194 | Shenise Johnson | 1,688 |
-| 195 | **Monique Billings** 🔴 +2 | 1,614 |
+| 195 | **Monique Billings** 🔴 +4 | 1,616 |
 | 196 | Janell Burse | 1,580 |
 | 197 | Le'coe Willingham | 1,552 |
 | 198 | Shatori Walker-Kimbrough | 1,544 |
@@ -310,7 +310,7 @@ _Last updated: 2026-08-23 23:47 UTC_
 | 84 | Erlana Larkins | 1,329 |
 | 85 | Mwadi Mabika | 1,327 |
 | 86 | Jayne Appel Marinelli | 1,326 |
-| 87 | **Azurá Stevens** 🔴 +3 | 1,322 |
+| 87 | **Azurá Stevens** 🔴 +4 | 1,323 |
 | 88 | Betty Lennox | 1,296 |
 | 89 | Tari Phillips | 1,274 |
 | 90 | **Myisha Hines-Allen** 🔴 +4 | 1,269 |
@@ -532,7 +532,7 @@ _Last updated: 2026-08-23 23:47 UTC_
 | 100 | Natasha Howard | 615 |
 | 101 | Debbie Black | 612 |
 | 102 | Cynthia Cooper | 602 |
-| 103 | **Caitlin Clark** 🔴 +4 | 595 |
+| 103 | **Caitlin Clark** 🔴 +5 | 596 |
 | 104 | **Betnijah Laney-Hamilton** 🔴 +3 | 593 |
 | 105 | Sancho Lyttle | 592 |
 | 106 | Gabby Williams | 591 |
@@ -1376,7 +1376,7 @@ _Last updated: 2026-08-23 23:47 UTC_
 | 121 | Allie Quigley | 467 |
 | 122 | Ariel Atkins | 465 |
 | 123 | **Jackie Young** 🔴 +1 | 464 |
-| 124 | **Betnijah Laney-Hamilton** 🔴 +1 | 457 |
+| 124 | **Betnijah Laney-Hamilton** 🔴 +2 | 458 |
 | 125 | Kia Vaughn | 454 |
 | 126 | Janeth Arcain | 453 |
 | 127 | Alysha Clark | 445 |
@@ -1443,9 +1443,9 @@ _Last updated: 2026-08-23 23:47 UTC_
 | 188 | Natisha Hiedeman | 312 |
 | 189 | Tamika Raymond | 311 |
 | 190 | **Isabelle Harrison** 🔴 +1 | 308 |
+| 191 | **Azurá Stevens** 🔴 +1 | 305 |
 | 191 | Erin Perperoglou | 305 |
 | 191 | Jennifer Lacy | 305 |
-| 193 | **Azurá Stevens** 🔴 | 304 |
 | 194 | Tianna Hawkins | 303 |
 | 195 | **Rachel Banham** 🔴 | 301 |
 | 196 | Crystal Robinson | 299 |
