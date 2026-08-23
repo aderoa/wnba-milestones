@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-23 00:44 UTC_
+_Last updated: 2026-08-23 00:45 UTC_
 
 ## Contents
 
@@ -66,7 +66,7 @@ _Last updated: 2026-08-23 00:44 UTC_
 | 45 | Kahleah Copper | 4,437 |
 | 46 | Crystal Langhorne | 4,433 |
 | 46 | Jia Perkins | 4,433 |
-| 48 | **Jonquel Jones** 🔴 +17 | 4,370 |
+| 48 | **Jonquel Jones** 🔴 +18 | 4,371 |
 | 49 | Courtney Vandersloot | 4,362 |
 | 50 | Courtney Williams | 4,350 |
 | 51 | Dearica Hamby | 4,330 |
@@ -1597,9 +1597,9 @@ _Last updated: 2026-08-23 00:44 UTC_
 | 138 | Jessica Breland | 562 |
 | 139 | A'ja Wilson | 554 |
 | 140 | Dawn Staley | 551 |
-| 141 | Glory Johnson | 550 |
-| 141 | **Monique Billings** 🔴 +4 | 550 |
-| 141 | Tierra Ruffin-Pratt | 550 |
+| 140 | **Monique Billings** 🔴 +5 | 551 |
+| 142 | Glory Johnson | 550 |
+| 142 | Tierra Ruffin-Pratt | 550 |
 | 144 | Jackie Young | 548 |
 | 145 | Erlana Larkins | 546 |
 | 146 | Jayne Appel Marinelli | 543 |

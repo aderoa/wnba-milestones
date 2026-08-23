@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-08-23 00:45 UTC
+
+- **Monique Billings** passed **Glory Johnson** and **Tierra Ruffin-Pratt** for **#141** all-time in fouls (career 551) — up from #145 entering today — _6:08 - 4th — IND @ NY_
+
 ## 2026-08-22 01:17 UTC
 
 - **Rachel Banham** passed **Elena Baranova** for **#174** all-time in fouls (career 502) — up from #177 entering today — _5:44 - 4th — GS @ CHI_

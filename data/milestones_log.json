@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-08-23T00:45:00+00:00",
+    "text": "Monique Billings passed Glory Johnson and Tierra Ruffin-Pratt for #141 all-time in fouls (career 551) \u2014 up from #145 entering today \u2014 (6:08 - 4th \u2014 IND @ NY)",
+    "kind": "rank_pass",
+    "player": "Monique Billings",
+    "stat": "fouls",
+    "rank": 141,
+    "passed_players": [
+      "Glory Johnson",
+      "Tierra Ruffin-Pratt"
+    ],
+    "new_total": 551
+  },
+  {
     "ts": "2026-08-22T01:17:00+00:00",
     "text": "Rachel Banham passed Elena Baranova for #174 all-time in fouls (career 502) \u2014 up from #177 entering today \u2014 (5:44 - 4th \u2014 GS @ CHI)",
     "kind": "rank_pass",
@@ -2976,17 +2989,5 @@
       "Marie Ferdinand-Harris"
     ],
     "new_total": 332
-  },
-  {
-    "ts": "2026-07-07T01:29:00+00:00",
-    "text": "Kayla McBride passed Liz Cambage for #92 all-time in rebounds (career 1,259) \u2014 up from #95 entering today \u2014 (2:46 - 3rd \u2014 CON @ MIN)",
-    "kind": "rank_pass",
-    "player": "Kayla McBride",
-    "stat": "rebounds",
-    "rank": 92,
-    "passed_players": [
-      "Liz Cambage"
-    ],
-    "new_total": 1259
   }
 ]
