@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-23 23:32 UTC_
+_Last updated: 2026-08-23 23:33 UTC_
 
 ## Contents
 
@@ -83,7 +83,7 @@ _Last updated: 2026-08-23 23:32 UTC_
 | 62 | Allie Quigley | 3,786 |
 | 63 | Chasity Melvin | 3,781 |
 | 64 | Brittney Sykes | 3,726 |
-| 65 | **Jackie Young** 🔴 +2 | 3,700 |
+| 65 | **Jackie Young** 🔴 +5 | 3,703 |
 | 66 | Kara Lawson | 3,670 |
 | 67 | Mwadi Mabika | 3,576 |
 | 68 | Odyssey Sims | 3,574 |
@@ -313,14 +313,14 @@ _Last updated: 2026-08-23 23:32 UTC_
 | 87 | **Azurá Stevens** 🔴 +1 | 1,320 |
 | 88 | Betty Lennox | 1,296 |
 | 89 | Tari Phillips | 1,274 |
-| 90 | **Myisha Hines-Allen** 🔴 | 1,265 |
+| 90 | **Myisha Hines-Allen** 🔴 +1 | 1,266 |
 | 91 | Janel McCarville | 1,261 |
 | 92 | **Chelsea Gray** 🔴 +1 | 1,258 |
 | 92 | Liz Cambage | 1,258 |
 | 94 | Tiffany Hayes | 1,257 |
 | 95 | Kayla McBride | 1,256 |
 | 96 | Ezi Magbegor | 1,247 |
-| 97 | **Brianna Turner** 🔴 | 1,243 |
+| 97 | **Brianna Turner** 🔴 +2 | 1,245 |
 | 98 | Seimone Augustus | 1,228 |
 | 99 | Jia Perkins | 1,220 |
 | 100 | Kahleah Copper | 1,204 |
@@ -516,7 +516,7 @@ _Last updated: 2026-08-23 23:32 UTC_
 | 84 | Ariel Atkins | 682 |
 | 85 | Emma Meesseman | 681 |
 | 86 | Nykesha Sales | 677 |
-| 87 | **A'ja Wilson** 🔴 +2 | 669 |
+| 87 | **A'ja Wilson** 🔴 +3 | 670 |
 | 88 | Natisha Hiedeman | 668 |
 | 89 | Bria Hartley | 661 |
 | 90 | Brittney Griner | 660 |
@@ -645,7 +645,7 @@ _Last updated: 2026-08-23 23:32 UTC_
 | 8 | Tammy Sutton-Brown | 555 |
 | 9 | Tangela Smith | 554 |
 | 10 | Ruth Riley | 505 |
-| 11 | **Elizabeth Williams** 🔴 | 503 |
+| 11 | **Elizabeth Williams** 🔴 +1 | 504 |
 | 12 | Breanna Stewart | 450 |
 | 13 | Taj McWilliams-Franklin | 443 |
 | 14 | Tina Charles | 428 |
@@ -1101,7 +1101,7 @@ _Last updated: 2026-08-23 23:32 UTC_
 | 51 | **Kia Nurse** 🔴 +1 | 369 |
 | 52 | Epiphanny Prince | 368 |
 | 53 | Nykesha Sales | 352 |
-| 54 | **Jackie Young** 🔴 | 346 |
+| 54 | **Jackie Young** 🔴 +1 | 347 |
 | 55 | **Natasha Cloud** 🔴 | 345 |
 | 56 | Cathrine Kraayeveld | 343 |
 | 56 | Elena Delle Donne | 343 |
