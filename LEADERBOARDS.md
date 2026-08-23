@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-23 23:43 UTC_
+_Last updated: 2026-08-23 23:44 UTC_
 
 ## Contents
 
@@ -154,7 +154,7 @@ _Last updated: 2026-08-23 23:43 UTC_
 | 133 | **Azurá Stevens** 🔴 +5 | 2,348 |
 | 134 | Jordin Canada | 2,342 |
 | 135 | Merlakia Jones | 2,308 |
-| 136 | **Betnijah Laney-Hamilton** 🔴 +1 | 2,303 |
+| 136 | **Betnijah Laney-Hamilton** 🔴 +3 | 2,305 |
 | 137 | Satou Sabally | 2,296 |
 | 138 | Kia Vaughn | 2,288 |
 | 139 | **Kia Nurse** 🔴 +3 | 2,265 |
@@ -237,7 +237,7 @@ _Last updated: 2026-08-23 23:43 UTC_
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | Alyssa Thomas | 2,858 |
 | 13 | Jonquel Jones | 2,728 |
-| 14 | **A'ja Wilson** 🔴 +3 | 2,660 |
+| 14 | **A'ja Wilson** 🔴 +4 | 2,661 |
 | 15 | Breanna Stewart | 2,632 |
 | 16 | Sancho Lyttle | 2,596 |
 | 17 | Brittney Griner | 2,579 |
@@ -310,7 +310,7 @@ _Last updated: 2026-08-23 23:43 UTC_
 | 84 | Erlana Larkins | 1,329 |
 | 85 | Mwadi Mabika | 1,327 |
 | 86 | Jayne Appel Marinelli | 1,326 |
-| 87 | **Azurá Stevens** 🔴 +2 | 1,321 |
+| 87 | **Azurá Stevens** 🔴 +3 | 1,322 |
 | 88 | Betty Lennox | 1,296 |
 | 89 | Tari Phillips | 1,274 |
 | 90 | **Myisha Hines-Allen** 🔴 +4 | 1,269 |
@@ -411,8 +411,8 @@ _Last updated: 2026-08-23 23:43 UTC_
 | 183 | Tan White | 769 |
 | 186 | Tully Bevilaqua | 767 |
 | 187 | Layshia Clarendon | 756 |
-| 188 | Brooke Wyckoff | 751 |
-| 188 | **Kamilla Cardoso** 🔴 +1 | 751 |
+| 188 | **Kamilla Cardoso** 🔴 +2 | 752 |
+| 189 | Brooke Wyckoff | 751 |
 | 190 | Coco Miller | 750 |
 | 191 | Kelsey Plum | 741 |
 | 192 | Alex Montgomery | 735 |
@@ -730,10 +730,10 @@ _Last updated: 2026-08-23 23:43 UTC_
 | 93 | Brooke Wyckoff | 129 |
 | 93 | Cathrine Kraayeveld | 129 |
 | 93 | **Emily Engstler** 🔴 +1 | 129 |
-| 96 | Alyssa Thomas | 127 |
-| 96 | **Chelsea Gray** 🔴 | 127 |
-| 96 | Chiney Ogwumike | 127 |
-| 96 | Kristen Rasmussen | 127 |
+| 96 | **Chelsea Gray** 🔴 +1 | 128 |
+| 97 | Alyssa Thomas | 127 |
+| 97 | Chiney Ogwumike | 127 |
+| 97 | Kristen Rasmussen | 127 |
 | 100 | Katie Douglas | 126 |
 | 100 | Mistie Bass | 126 |
 | 102 | Brionna Jones | 125 |
@@ -1375,7 +1375,7 @@ _Last updated: 2026-08-23 23:43 UTC_
 | 120 | Elaine Powell | 469 |
 | 121 | Allie Quigley | 467 |
 | 122 | Ariel Atkins | 465 |
-| 123 | **Jackie Young** 🔴 | 463 |
+| 123 | **Jackie Young** 🔴 +1 | 464 |
 | 124 | **Betnijah Laney-Hamilton** 🔴 | 456 |
 | 125 | Kia Vaughn | 454 |
 | 126 | Janeth Arcain | 453 |
