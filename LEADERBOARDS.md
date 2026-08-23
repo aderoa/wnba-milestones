@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-23 21:21 UTC_
+_Last updated: 2026-08-23 21:22 UTC_
 
 ## Contents
 
@@ -624,8 +624,8 @@ _Last updated: 2026-08-23 21:21 UTC_
 | 192 | Jantel Lavender | 350 |
 | 193 | Sandy Brondello | 349 |
 | 194 | Ebony Hoffman | 347 |
+| 194 | **Ezi Magbegor** 🔴 +3 | 347 |
 | 194 | Tamika Whitmore | 347 |
-| 196 | **Ezi Magbegor** 🔴 +2 | 346 |
 | 197 | Kristen Rasmussen | 345 |
 | 197 | Penny Toler | 345 |
 | 199 | Sonja Henning | 341 |
@@ -1379,7 +1379,7 @@ _Last updated: 2026-08-23 21:21 UTC_
 | 124 | Betnijah Laney-Hamilton | 456 |
 | 125 | Kia Vaughn | 454 |
 | 126 | Janeth Arcain | 453 |
-| 127 | **Alysha Clark** 🔴 +3 | 446 |
+| 127 | **Alysha Clark** 🔴 +2 | 445 |
 | 128 | Elena Baranova | 444 |
 | 128 | Jantel Lavender | 444 |
 | 130 | Cheyenne Parker-Tyus | 441 |
