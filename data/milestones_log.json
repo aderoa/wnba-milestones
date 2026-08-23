@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-08-23T03:06:00+00:00",
+    "text": "Sami Whitcomb passed Bria Hartley for #141 all-time in turnovers (career 420) \u2014 up from #142 entering today \u2014 (8:03 - 3rd \u2014 ATL @ PHX)",
+    "kind": "rank_pass",
+    "player": "Sami Whitcomb",
+    "stat": "turnovers",
+    "rank": 141,
+    "passed_players": [
+      "Bria Hartley"
+    ],
+    "new_total": 420
+  },
+  {
     "ts": "2026-08-23T00:45:00+00:00",
     "text": "Monique Billings passed Glory Johnson and Tierra Ruffin-Pratt for #141 all-time in fouls (career 551) \u2014 up from #145 entering today \u2014 (6:08 - 4th \u2014 IND @ NY)",
     "kind": "rank_pass",
@@ -2977,17 +2989,5 @@
       "Yolanda Griffith"
     ],
     "new_total": 654
-  },
-  {
-    "ts": "2026-07-07T01:42:00+00:00",
-    "text": "Courtney Williams passed Marie Ferdinand-Harris for #80 all-time in steals (career 332) \u2014 up from #83 entering today \u2014 (8:53 - 4th \u2014 CON @ MIN)",
-    "kind": "rank_pass",
-    "player": "Courtney Williams",
-    "stat": "steals",
-    "rank": 80,
-    "passed_players": [
-      "Marie Ferdinand-Harris"
-    ],
-    "new_total": 332
   }
 ]

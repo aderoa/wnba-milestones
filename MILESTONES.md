@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-08-23 03:06 UTC
+
+- **Sami Whitcomb** passed **Bria Hartley** for **#141** all-time in turnovers (career 420) — up from #142 entering today — _8:03 - 3rd — ATL @ PHX_
+
 ## 2026-08-23 00:45 UTC
 
 - **Monique Billings** passed **Glory Johnson** and **Tierra Ruffin-Pratt** for **#141** all-time in fouls (career 551) — up from #145 entering today — _6:08 - 4th — IND @ NY_
