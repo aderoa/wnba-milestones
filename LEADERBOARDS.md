@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-23 00:01 UTC_
+_Last updated: 2026-08-23 00:02 UTC_
 
 ## Contents
 
@@ -184,8 +184,8 @@ _Last updated: 2026-08-23 00:01 UTC_
 | 163 | Ezi Magbegor | 1,995 |
 | 164 | Bria Hartley | 1,967 |
 | 165 | Chiney Ogwumike | 1,964 |
-| 166 | **Myisha Hines-Allen** 🔴 +3 | 1,959 |
-| 166 | Nicole Ohlde | 1,959 |
+| 166 | **Myisha Hines-Allen** 🔴 +4 | 1,960 |
+| 167 | Nicole Ohlde | 1,959 |
 | 168 | Kedra Holland-Corn | 1,938 |
 | 169 | Isabelle Harrison | 1,932 |
 | 170 | Cathrine Kraayeveld | 1,926 |
@@ -236,7 +236,7 @@ _Last updated: 2026-08-23 00:01 UTC_
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | Alyssa Thomas | 2,858 |
-| 13 | **Jonquel Jones** 🔴 +6 | 2,734 |
+| 13 | **Jonquel Jones** 🔴 +7 | 2,735 |
 | 14 | A'ja Wilson | 2,657 |
 | 15 | **Breanna Stewart** 🔴 +2 | 2,634 |
 | 16 | Sancho Lyttle | 2,596 |
@@ -313,7 +313,7 @@ _Last updated: 2026-08-23 00:01 UTC_
 | 87 | Azurá Stevens | 1,319 |
 | 88 | Betty Lennox | 1,296 |
 | 89 | Tari Phillips | 1,274 |
-| 90 | **Myisha Hines-Allen** 🔴 +1 | 1,266 |
+| 90 | **Myisha Hines-Allen** 🔴 +2 | 1,267 |
 | 91 | Janel McCarville | 1,261 |
 | 92 | Liz Cambage | 1,258 |
 | 93 | Chelsea Gray | 1,257 |
@@ -979,7 +979,7 @@ _Last updated: 2026-08-23 00:01 UTC_
 | 134 | Coco Miller | 237 |
 | 135 | Marissa Coleman | 236 |
 | 136 | Nikki McCray | 235 |
-| 137 | **Kelsey Mitchell** 🔴 | 233 |
+| 137 | **Kelsey Mitchell** 🔴 +1 | 234 |
 | 138 | Merlakia Jones | 232 |
 | 139 | Ruth Riley | 231 |
 | 140 | Scholanda Dorrell | 230 |
@@ -1318,7 +1318,7 @@ _Last updated: 2026-08-23 00:01 UTC_
 | 63 | Kayla McBride | 648 |
 | 63 | Kelsey Plum | 648 |
 | 65 | Dawn Staley | 643 |
-| 66 | **Jonquel Jones** 🔴 | 641 |
+| 66 | **Jonquel Jones** 🔴 +1 | 642 |
 | 67 | Ruth Riley | 637 |
 | 68 | Odyssey Sims | 631 |
 | 68 | Svetlana Abrosimova | 631 |
