@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-23 21:15 UTC_
+_Last updated: 2026-08-23 21:16 UTC_
 
 ## Contents
 
@@ -351,7 +351,7 @@ _Last updated: 2026-08-23 21:15 UTC_
 | 124 | Tamecka Dixon | 1,035 |
 | 126 | Kamila Vodichkova | 1,031 |
 | 127 | Jasmine Thomas | 1,027 |
-| 128 | **Jessica Shepard** 🔴 +8 | 1,024 |
+| 128 | **Jessica Shepard** 🔴 +9 | 1,025 |
 | 129 | Sabrina Ionescu | 1,020 |
 | 130 | Cathrine Kraayeveld | 1,013 |
 | 131 | Kelly Miller | 1,011 |
