@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-23 04:04 UTC_
+_Last updated: 2026-08-23 04:05 UTC_
 
 ## Contents
 
@@ -21,7 +21,7 @@ _Last updated: 2026-08-23 04:04 UTC_
 |-----:|--------|------:|
 | 1 | Diana Taurasi | 10,608 |
 | 2 | Tina Charles | 8,396 |
-| 3 | **DeWanna Bonner** 🔴 +10 | 7,982 |
+| 3 | **DeWanna Bonner** 🔴 +12 | 7,984 |
 | 4 | Nneka Ogwumike | 7,574 |
 | 5 | Tina Thompson | 7,470 |
 | 6 | Tamika Catchings | 7,371 |
@@ -129,7 +129,7 @@ _Last updated: 2026-08-23 04:04 UTC_
 | 108 | Ticha Penicheiro | 2,729 |
 | 109 | Adrienne Goodson | 2,705 |
 | 110 | Riquna Williams | 2,659 |
-| 111 | **Rhyne Howard** 🔴 +18 | 2,655 |
+| 111 | **Rhyne Howard** 🔴 +20 | 2,657 |
 | 112 | Essence Carson | 2,647 |
 | 112 | Lindsey Harding | 2,647 |
 | 114 | Cheyenne Parker-Tyus | 2,645 |
@@ -526,7 +526,7 @@ _Last updated: 2026-08-23 04:04 UTC_
 | 95 | Alex Bentley | 645 |
 | 96 | Asjha Jones | 637 |
 | 97 | Jennifer Azzi | 636 |
-| 98 | **Sami Whitcomb** 🔴 +4 | 627 |
+| 98 | **Sami Whitcomb** 🔴 +5 | 628 |
 | 99 | Alysha Clark | 619 |
 | 100 | Natasha Howard | 615 |
 | 101 | Debbie Black | 612 |
@@ -889,7 +889,7 @@ _Last updated: 2026-08-23 04:04 UTC_
 | 45 | Katie Smith | 408 |
 | 46 | Cappie Pondexter | 405 |
 | 47 | Nicole Powell | 401 |
-| 48 | **Jordin Canada** 🔴 +1 | 398 |
+| 48 | **Jordin Canada** 🔴 +2 | 399 |
 | 49 | Jasmine Thomas | 394 |
 | 50 | Ariel Atkins | 391 |
 | 51 | Danielle Robinson | 389 |
@@ -1392,7 +1392,7 @@ _Last updated: 2026-08-23 04:04 UTC_
 | 138 | Cynthia Cooper | 422 |
 | 138 | Napheesa Collier | 422 |
 | 138 | Noelle Quinn | 422 |
-| 141 | **Sami Whitcomb** 🔴 +4 | 420 |
+| 141 | **Sami Whitcomb** 🔴 +5 | 421 |
 | 142 | Bria Hartley | 419 |
 | 143 | Coco Miller | 410 |
 | 144 | Epiphanny Prince | 408 |
