@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-08-23T04:02:00+00:00",
+    "text": "Kahleah Copper passed Kristi Toliver for #44 all-time in points (career 4,476) \u2014 up from #45 entering today \u2014 (53.3 - 4th \u2014 ATL @ PHX)",
+    "kind": "rank_pass",
+    "player": "Kahleah Copper",
+    "stat": "points",
+    "rank": 44,
+    "passed_players": [
+      "Kristi Toliver"
+    ],
+    "new_total": 4476
+  },
+  {
     "ts": "2026-08-23T03:06:00+00:00",
     "text": "Sami Whitcomb passed Bria Hartley for #141 all-time in turnovers (career 420) \u2014 up from #142 entering today \u2014 (8:03 - 3rd \u2014 ATL @ PHX)",
     "kind": "rank_pass",
@@ -2977,17 +2989,5 @@
       "Kamila Vodichkova"
     ],
     "new_total": 174
-  },
-  {
-    "ts": "2026-07-07T01:57:00+00:00",
-    "text": "Kayla McBride passed Yolanda Griffith for #61 all-time in turnovers (career 654) \u2014 up from #63 entering today \u2014 (3:49 - 4th \u2014 CON @ MIN)",
-    "kind": "rank_pass",
-    "player": "Kayla McBride",
-    "stat": "turnovers",
-    "rank": 61,
-    "passed_players": [
-      "Yolanda Griffith"
-    ],
-    "new_total": 654
   }
 ]

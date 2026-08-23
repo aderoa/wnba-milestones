@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-23 04:01 UTC_
+_Last updated: 2026-08-23 04:02 UTC_
 
 ## Contents
 
@@ -62,8 +62,8 @@ _Last updated: 2026-08-23 04:01 UTC_
 | 41 | Penny Taylor | 4,595 |
 | 42 | **Allisha Gray** 🔴 +17 | 4,508 |
 | 43 | Kelsey Plum | 4,494 |
-| 44 | **Kahleah Copper** 🔴 +37 | 4,474 |
-| 44 | Kristi Toliver | 4,474 |
+| 44 | **Kahleah Copper** 🔴 +39 | 4,476 |
+| 45 | Kristi Toliver | 4,474 |
 | 46 | Crystal Langhorne | 4,433 |
 | 46 | Jia Perkins | 4,433 |
 | 48 | Jonquel Jones | 4,372 |
@@ -1487,7 +1487,7 @@ _Last updated: 2026-08-23 04:01 UTC_
 | 28 | Yolanda Griffith | 991 |
 | 29 | Lauren Jackson | 982 |
 | 30 | Nakia Sanford | 979 |
-| 31 | **Alyssa Thomas** 🔴 +1 | 973 |
+| 31 | **Alyssa Thomas** 🔴 +2 | 974 |
 | 32 | Asjha Jones | 971 |
 | 33 | Margo Dydek | 950 |
 | 34 | Sancho Lyttle | 947 |

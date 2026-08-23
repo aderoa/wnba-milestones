@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-08-23 04:02 UTC
+
+- **Kahleah Copper** passed **Kristi Toliver** for **#44** all-time in points (career 4,476) — up from #45 entering today — _53.3 - 4th — ATL @ PHX_
+
 ## 2026-08-23 03:06 UTC
 
 - **Sami Whitcomb** passed **Bria Hartley** for **#141** all-time in turnovers (career 420) — up from #142 entering today — _8:03 - 3rd — ATL @ PHX_
