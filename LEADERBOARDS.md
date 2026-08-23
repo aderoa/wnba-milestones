@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-23 23:33 UTC_
+_Last updated: 2026-08-23 23:34 UTC_
 
 ## Contents
 
@@ -115,7 +115,7 @@ _Last updated: 2026-08-23 23:33 UTC_
 | 94 | Briann January | 3,082 |
 | 95 | Erika de Souza | 3,046 |
 | 96 | Shameka Christon | 3,039 |
-| 97 | **Natasha Cloud** 🔴 +4 | 3,022 |
+| 97 | **Natasha Cloud** 🔴 +6 | 3,024 |
 | 98 | Marie Ferdinand-Harris | 3,001 |
 | 99 | Emma Meesseman | 2,966 |
 | 100 | **Elizabeth Williams** 🔴 | 2,933 |
@@ -185,7 +185,7 @@ _Last updated: 2026-08-23 23:33 UTC_
 | 164 | Bria Hartley | 1,967 |
 | 165 | Chiney Ogwumike | 1,964 |
 | 166 | Nicole Ohlde | 1,959 |
-| 167 | **Myisha Hines-Allen** 🔴 | 1,956 |
+| 167 | **Myisha Hines-Allen** 🔴 +1 | 1,957 |
 | 168 | Kedra Holland-Corn | 1,938 |
 | 169 | **Isabelle Harrison** 🔴 +4 | 1,936 |
 | 170 | Cathrine Kraayeveld | 1,926 |
@@ -320,7 +320,7 @@ _Last updated: 2026-08-23 23:33 UTC_
 | 94 | Tiffany Hayes | 1,257 |
 | 95 | Kayla McBride | 1,256 |
 | 96 | Ezi Magbegor | 1,247 |
-| 97 | **Brianna Turner** 🔴 +2 | 1,245 |
+| 97 | **Brianna Turner** 🔴 +1 | 1,244 |
 | 98 | Seimone Augustus | 1,228 |
 | 99 | Jia Perkins | 1,220 |
 | 100 | Kahleah Copper | 1,204 |
@@ -342,7 +342,7 @@ _Last updated: 2026-08-23 23:33 UTC_
 | 116 | Chiney Ogwumike | 1,110 |
 | 117 | Becky Hammon | 1,108 |
 | 118 | Ann Wauters | 1,105 |
-| 119 | **Isabelle Harrison** 🔴 +1 | 1,098 |
+| 119 | **Isabelle Harrison** 🔴 +2 | 1,099 |
 | 120 | **Jackie Young** 🔴 +1 | 1,086 |
 | 121 | Svetlana Abrosimova | 1,078 |
 | 122 | Le'coe Willingham | 1,054 |
@@ -564,7 +564,7 @@ _Last updated: 2026-08-23 23:33 UTC_
 | 132 | Crystal Robinson | 488 |
 | 132 | Tiffany Mitchell | 488 |
 | 134 | Rebekkah Brunson | 486 |
-| 135 | **Elizabeth Williams** 🔴 | 479 |
+| 135 | **Elizabeth Williams** 🔴 +1 | 480 |
 | 136 | Satou Sabally | 476 |
 | 137 | Ukari Figgs | 470 |
 | 138 | Janeth Arcain | 469 |
@@ -579,8 +579,8 @@ _Last updated: 2026-08-23 23:33 UTC_
 | 145 | Nikki McCray | 450 |
 | 148 | Ruth Riley | 449 |
 | 149 | DeMya Walker | 446 |
-| 150 | Essence Carson | 445 |
-| 150 | **Julie Allemand** 🔴 +1 | 445 |
+| 149 | **Julie Allemand** 🔴 +2 | 446 |
+| 151 | Essence Carson | 445 |
 | 152 | Jessica Shepard | 440 |
 | 153 | Michelle Snow | 437 |
 | 154 | Lauren Jackson | 435 |
@@ -1020,8 +1020,8 @@ _Last updated: 2026-08-23 23:33 UTC_
 | 175 | Sonja Henning | 194 |
 | 175 | Tierra Ruffin-Pratt | 194 |
 | 177 | Cynthia Cooper | 192 |
-| 178 | **Isabelle Harrison** 🔴 +1 | 191 |
-| 178 | **Myisha Hines-Allen** 🔴 | 191 |
+| 177 | **Myisha Hines-Allen** 🔴 +1 | 192 |
+| 179 | **Isabelle Harrison** 🔴 +1 | 191 |
 | 180 | Tamicha Jackson | 188 |
 | 181 | Michele Timms | 187 |
 | 182 | Charde Houston | 185 |
@@ -1297,7 +1297,7 @@ _Last updated: 2026-08-23 23:33 UTC_
 | 42 | Monique Currie | 724 |
 | 43 | Michelle Snow | 723 |
 | 44 | Tamecka Dixon | 716 |
-| 45 | **Natasha Cloud** 🔴 +1 | 708 |
+| 45 | **Natasha Cloud** 🔴 +2 | 709 |
 | 46 | Erica Wheeler | 699 |
 | 47 | Renee Montgomery | 697 |
 | 48 | Temeka Johnson | 696 |
@@ -1412,8 +1412,8 @@ _Last updated: 2026-08-23 23:33 UTC_
 | 157 | Armintie Herrington | 377 |
 | 158 | Anna DeForge | 374 |
 | 158 | Cheryl Ford | 374 |
-| 160 | Allison Feaster | 372 |
-| 160 | **Caitlin Clark** 🔴 +4 | 372 |
+| 160 | **Caitlin Clark** 🔴 +5 | 373 |
+| 161 | Allison Feaster | 372 |
 | 162 | Emma Meesseman | 367 |
 | 163 | Latasha Byears | 360 |
 | 164 | Vicky Bullett | 359 |
