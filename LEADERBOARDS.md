@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-23 23:52 UTC_
+_Last updated: 2026-08-23 23:53 UTC_
 
 ## Contents
 
@@ -157,7 +157,7 @@ _Last updated: 2026-08-23 23:52 UTC_
 | 136 | **Betnijah Laney-Hamilton** 🔴 +3 | 2,305 |
 | 137 | Satou Sabally | 2,296 |
 | 138 | Kia Vaughn | 2,288 |
-| 139 | **Kia Nurse** 🔴 +5 | 2,267 |
+| 139 | **Kia Nurse** 🔴 +7 | 2,269 |
 | 140 | Allison Feaster | 2,258 |
 | 141 | Shekinna Stricklen | 2,245 |
 | 142 | Kara Braxton | 2,237 |
@@ -332,7 +332,7 @@ _Last updated: 2026-08-23 23:52 UTC_
 | 106 | **NaLyssa Smith** 🔴 +4 | 1,176 |
 | 107 | Brittney Sykes | 1,162 |
 | 108 | Nykesha Sales | 1,148 |
-| 109 | **Natasha Cloud** 🔴 +3 | 1,144 |
+| 109 | **Natasha Cloud** 🔴 +4 | 1,145 |
 | 110 | Shannon Johnson | 1,143 |
 | 111 | Adrian Williams-Strong | 1,131 |
 | 112 | Andrea Stinson | 1,127 |
@@ -411,7 +411,7 @@ _Last updated: 2026-08-23 23:52 UTC_
 | 183 | Tan White | 769 |
 | 186 | Tully Bevilaqua | 767 |
 | 187 | Layshia Clarendon | 756 |
-| 188 | **Kamilla Cardoso** 🔴 +2 | 752 |
+| 188 | **Kamilla Cardoso** 🔴 +3 | 753 |
 | 189 | Brooke Wyckoff | 751 |
 | 190 | Coco Miller | 750 |
 | 191 | Kelsey Plum | 741 |
@@ -1117,8 +1117,8 @@ _Last updated: 2026-08-23 23:52 UTC_
 | 67 | DeLisha Milton-Jones | 312 |
 | 67 | Ruthie Bolton | 312 |
 | 69 | Tan White | 311 |
+| 70 | **Bridget Carleton** 🔴 +1 | 307 |
 | 70 | Kedra Holland-Corn | 307 |
-| 71 | **Bridget Carleton** 🔴 | 306 |
 | 72 | Kelly Miller | 305 |
 | 73 | Nikki Teasley | 304 |
 | 74 | Kayla Thornton | 300 |
@@ -1375,7 +1375,7 @@ _Last updated: 2026-08-23 23:52 UTC_
 | 120 | Elaine Powell | 469 |
 | 121 | Allie Quigley | 467 |
 | 122 | Ariel Atkins | 465 |
-| 123 | **Jackie Young** 🔴 +1 | 464 |
+| 122 | **Jackie Young** 🔴 +2 | 465 |
 | 124 | **Betnijah Laney-Hamilton** 🔴 +2 | 458 |
 | 125 | Kia Vaughn | 454 |
 | 126 | Janeth Arcain | 453 |
