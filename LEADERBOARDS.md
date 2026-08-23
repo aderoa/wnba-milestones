@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-23 00:40 UTC_
+_Last updated: 2026-08-23 00:41 UTC_
 
 ## Contents
 
@@ -200,7 +200,7 @@ _Last updated: 2026-08-23 00:40 UTC_
 | 179 | NaLyssa Smith | 1,879 |
 | 180 | Rachel Banham | 1,843 |
 | 181 | Damiris Dantas | 1,842 |
-| 182 | **Sophie Cunningham** 🔴 +5 | 1,834 |
+| 182 | **Sophie Cunningham** 🔴 +8 | 1,837 |
 | 183 | Tianna Hawkins | 1,825 |
 | 184 | Noelle Quinn | 1,824 |
 | 185 | Danielle Adams | 1,820 |
@@ -217,7 +217,7 @@ _Last updated: 2026-08-23 00:40 UTC_
 | 196 | Janell Burse | 1,580 |
 | 197 | Le'coe Willingham | 1,552 |
 | 198 | Shatori Walker-Kimbrough | 1,544 |
-| 199 | **Rebecca Allen** 🔴 +3 | 1,532 |
+| 199 | **Rebecca Allen** 🔴 +6 | 1,535 |
 | 200 | Jennifer Lacy | 1,504 |
 
 ## Rebounds
@@ -324,7 +324,7 @@ _Last updated: 2026-08-23 00:40 UTC_
 | 98 | Seimone Augustus | 1,228 |
 | 99 | Jia Perkins | 1,220 |
 | 100 | Kahleah Copper | 1,204 |
-| 101 | **Aliyah Boston** 🔴 +2 | 1,200 |
+| 101 | **Aliyah Boston** 🔴 +3 | 1,201 |
 | 102 | DeMya Walker | 1,199 |
 | 103 | Latasha Byears | 1,190 |
 | 103 | Tanisha Wright | 1,190 |
@@ -423,8 +423,7 @@ _Last updated: 2026-08-23 00:40 UTC_
 | 197 | Olympia Scott | 711 |
 | 198 | Katie Mattera | 708 |
 | 199 | Rushia Brown | 706 |
-| 200 | Allie Quigley | 702 |
-| 200 | **Rebecca Allen** 🔴 | 702 |
+| 200 | **Rebecca Allen** 🔴 +1 | 703 |
 
 ## Assists
 
@@ -584,9 +583,9 @@ _Last updated: 2026-08-23 00:40 UTC_
 | 152 | Michelle Snow | 437 |
 | 153 | Jessica Shepard | 436 |
 | 154 | Lauren Jackson | 435 |
-| 155 | Adrienne Goodson | 433 |
-| 155 | **Aliyah Boston** 🔴 +5 | 433 |
-| 155 | Crystal Langhorne | 433 |
+| 155 | **Aliyah Boston** 🔴 +6 | 434 |
+| 156 | Adrienne Goodson | 433 |
+| 156 | Crystal Langhorne | 433 |
 | 158 | Elena Baranova | 430 |
 | 159 | Tierra Ruffin-Pratt | 424 |
 | 160 | Kedra Holland-Corn | 423 |
@@ -1108,7 +1107,7 @@ _Last updated: 2026-08-23 00:40 UTC_
 | 58 | Candace Parker | 342 |
 | 59 | Deanna Nolan | 340 |
 | 60 | Erica Wheeler | 337 |
-| 61 | **Sophie Cunningham** 🔴 +1 | 335 |
+| 61 | **Sophie Cunningham** 🔴 +2 | 336 |
 | 62 | Anna DeForge | 334 |
 | 63 | Natisha Hiedeman | 328 |
 | 64 | Sugar Rodgers | 317 |
@@ -1133,7 +1132,7 @@ _Last updated: 2026-08-23 00:40 UTC_
 | 83 | Iziane Castro Marques | 275 |
 | 84 | Sheryl Swoopes | 270 |
 | 85 | Sophia Witherspoon | 260 |
-| 86 | **Rebecca Allen** 🔴 +1 | 256 |
+| 86 | **Rebecca Allen** 🔴 +2 | 257 |
 | 87 | Dawn Staley | 254 |
 | 88 | Bria Hartley | 253 |
 | 88 | Nneka Ogwumike | 253 |
