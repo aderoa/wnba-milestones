@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-23 23:20 UTC_
+_Last updated: 2026-08-23 23:21 UTC_
 
 ## Contents
 
@@ -151,10 +151,10 @@ _Last updated: 2026-08-23 23:20 UTC_
 | 130 | Kayla Thornton | 2,393 |
 | 131 | DeMya Walker | 2,379 |
 | 132 | Alex Bentley | 2,350 |
-| 133 | **Azurá Stevens** 🔴 | 2,343 |
+| 133 | **Azurá Stevens** 🔴 +3 | 2,346 |
 | 134 | Jordin Canada | 2,342 |
 | 135 | Merlakia Jones | 2,308 |
-| 136 | **Betnijah Laney-Hamilton** 🔴 | 2,302 |
+| 136 | **Betnijah Laney-Hamilton** 🔴 +1 | 2,303 |
 | 137 | Satou Sabally | 2,296 |
 | 138 | Kia Vaughn | 2,288 |
 | 139 | **Kia Nurse** 🔴 +3 | 2,265 |
@@ -292,7 +292,7 @@ _Last updated: 2026-08-23 23:20 UTC_
 | 66 | **Cheyenne Parker-Tyus** 🔴 +1 | 1,464 |
 | 67 | Nicole Powell | 1,457 |
 | 68 | Tamera Young | 1,433 |
-| 69 | **Monique Billings** 🔴 | 1,431 |
+| 69 | **Monique Billings** 🔴 +1 | 1,432 |
 | 70 | Alana Beard | 1,420 |
 | 71 | Nakia Sanford | 1,419 |
 | 72 | Kayla Thornton | 1,408 |
@@ -310,7 +310,7 @@ _Last updated: 2026-08-23 23:20 UTC_
 | 84 | Erlana Larkins | 1,329 |
 | 85 | Mwadi Mabika | 1,327 |
 | 86 | Jayne Appel Marinelli | 1,326 |
-| 87 | **Azurá Stevens** 🔴 | 1,319 |
+| 87 | **Azurá Stevens** 🔴 +1 | 1,320 |
 | 88 | Betty Lennox | 1,296 |
 | 89 | Tari Phillips | 1,274 |
 | 90 | Myisha Hines-Allen | 1,265 |
@@ -333,7 +333,7 @@ _Last updated: 2026-08-23 23:20 UTC_
 | 107 | Brittney Sykes | 1,162 |
 | 108 | Nykesha Sales | 1,148 |
 | 109 | Shannon Johnson | 1,143 |
-| 110 | **Natasha Cloud** 🔴 | 1,141 |
+| 110 | **Natasha Cloud** 🔴 +1 | 1,142 |
 | 111 | Adrian Williams-Strong | 1,131 |
 | 112 | Andrea Stinson | 1,127 |
 | 112 | Tamika Raymond | 1,127 |
@@ -438,7 +438,7 @@ _Last updated: 2026-08-23 23:20 UTC_
 | 6 | **Chelsea Gray** 🔴 +1 | 2,004 |
 | 7 | Alyssa Thomas | 1,971 |
 | 8 | Skylar Diggins | 1,852 |
-| 9 | **Natasha Cloud** 🔴 | 1,802 |
+| 9 | **Natasha Cloud** 🔴 +1 | 1,803 |
 | 10 | Becky Hammon | 1,705 |
 | 11 | Candace Parker | 1,634 |
 | 12 | Cappie Pondexter | 1,575 |
@@ -1138,8 +1138,8 @@ _Last updated: 2026-08-23 23:20 UTC_
 | 88 | Bria Hartley | 253 |
 | 88 | Nneka Ogwumike | 253 |
 | 90 | Angel McCoughtry | 249 |
-| 91 | **Azurá Stevens** 🔴 | 247 |
-| 91 | Brittney Sykes | 247 |
+| 91 | **Azurá Stevens** 🔴 +1 | 248 |
+| 92 | Brittney Sykes | 247 |
 | 93 | Erin Thorn | 243 |
 | 94 | Alex Bentley | 239 |
 | 94 | Cynthia Cooper | 239 |
@@ -1206,7 +1206,7 @@ _Last updated: 2026-08-23 23:20 UTC_
 | 156 | Shenise Johnson | 143 |
 | 157 | Jordan Hooper | 141 |
 | 158 | Coco Miller | 139 |
-| 158 | Karlie Samuelson | 139 |
+| 158 | **Karlie Samuelson** 🔴 | 139 |
 | 160 | Loree Moore | 138 |
 | 160 | Tanisha Wright | 138 |
 | 162 | Kaleena Mosqueda-Lewis | 137 |
@@ -1635,8 +1635,8 @@ _Last updated: 2026-08-23 23:20 UTC_
 | 175 | Adrian Williams-Strong | 497 |
 | 175 | Essence Carson | 497 |
 | 175 | Rachel Banham | 497 |
-| 178 | **Azurá Stevens** 🔴 | 495 |
-| 178 | Nia Coffey | 495 |
+| 178 | **Azurá Stevens** 🔴 +1 | 496 |
+| 179 | Nia Coffey | 495 |
 | 180 | Karima Christmas-Kelly | 494 |
 | 181 | Ann Wauters | 493 |
 | 181 | Riquna Williams | 493 |
