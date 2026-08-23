@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-23 00:21 UTC_
+_Last updated: 2026-08-23 00:22 UTC_
 
 ## Contents
 
@@ -175,7 +175,7 @@ _Last updated: 2026-08-23 00:21 UTC_
 | 154 | Tari Phillips | 2,134 |
 | 155 | Cheryl Ford | 2,116 |
 | 156 | Elena Baranova | 2,110 |
-| 157 | **Aliyah Boston** 🔴 +10 | 2,097 |
+| 157 | **Aliyah Boston** 🔴 +13 | 2,100 |
 | 158 | Aerial Powers | 2,068 |
 | 159 | Coco Miller | 2,030 |
 | 160 | Diamond DeShields | 2,026 |
@@ -474,7 +474,7 @@ _Last updated: 2026-08-23 00:21 UTC_
 | 42 | Sheryl Swoopes | 1,037 |
 | 43 | Tina Charles | 1,033 |
 | 44 | Kayla McBride | 992 |
-| 45 | **Breanna Stewart** 🔴 +3 | 984 |
+| 45 | **Breanna Stewart** 🔴 +4 | 985 |
 | 46 | Nikki Teasley | 982 |
 | 47 | Tamecka Dixon | 960 |
 | 48 | Tiffany Hayes | 957 |
@@ -496,7 +496,7 @@ _Last updated: 2026-08-23 00:21 UTC_
 | 64 | Lisa Leslie | 873 |
 | 65 | Brittney Sykes | 866 |
 | 66 | Tully Bevilaqua | 853 |
-| 67 | **Kelsey Mitchell** 🔴 +3 | 850 |
+| 67 | **Kelsey Mitchell** 🔴 +4 | 851 |
 | 68 | Jia Perkins | 837 |
 | 69 | Andrea Stinson | 810 |
 | 70 | Tina Thompson | 803 |
@@ -523,7 +523,7 @@ _Last updated: 2026-08-23 00:21 UTC_
 | 91 | Lindsay Allen | 657 |
 | 92 | Betty Lennox | 651 |
 | 92 | Plenette Pierson | 651 |
-| 94 | **Jonquel Jones** 🔴 +2 | 649 |
+| 94 | **Jonquel Jones** 🔴 +1 | 648 |
 | 95 | Alex Bentley | 645 |
 | 96 | Asjha Jones | 637 |
 | 97 | Jennifer Azzi | 636 |
@@ -1213,10 +1213,10 @@ _Last updated: 2026-08-23 00:21 UTC_
 | 163 | Shay Murphy | 134 |
 | 164 | Brooke Wyckoff | 132 |
 | 164 | Jenna O'Hea | 132 |
+| 166 | **Leonie Fiebich** 🔴 +2 | 131 |
 | 166 | **Myisha Hines-Allen** 🔴 | 131 |
-| 167 | Amanda Zahui B | 130 |
-| 167 | Eva Nemcova | 130 |
-| 167 | **Leonie Fiebich** 🔴 +1 | 130 |
+| 168 | Amanda Zahui B | 130 |
+| 168 | Eva Nemcova | 130 |
 | 170 | Crystal Dangerfield | 129 |
 | 171 | Jordin Canada | 128 |
 | 171 | Ticha Penicheiro | 128 |
@@ -1346,9 +1346,9 @@ _Last updated: 2026-08-23 00:21 UTC_
 | 91 | Adrienne Goodson | 542 |
 | 92 | Marina Mabrey | 537 |
 | 93 | Layshia Clarendon | 536 |
-| 94 | Ivory Latta | 534 |
-| 94 | Iziane Castro Marques | 534 |
-| 94 | **Sabrina Ionescu** 🔴 +1 | 534 |
+| 94 | **Sabrina Ionescu** 🔴 +2 | 535 |
+| 95 | Ivory Latta | 534 |
+| 95 | Iziane Castro Marques | 534 |
 | 97 | Mwadi Mabika | 532 |
 | 98 | Nakia Sanford | 531 |
 | 99 | Arike Ogunbowale | 529 |
