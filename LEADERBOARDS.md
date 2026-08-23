@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-23 23:51 UTC_
+_Last updated: 2026-08-23 23:52 UTC_
 
 ## Contents
 
@@ -157,7 +157,7 @@ _Last updated: 2026-08-23 23:51 UTC_
 | 136 | **Betnijah Laney-Hamilton** 🔴 +3 | 2,305 |
 | 137 | Satou Sabally | 2,296 |
 | 138 | Kia Vaughn | 2,288 |
-| 139 | **Kia Nurse** 🔴 +3 | 2,265 |
+| 139 | **Kia Nurse** 🔴 +5 | 2,267 |
 | 140 | Allison Feaster | 2,258 |
 | 141 | Shekinna Stricklen | 2,245 |
 | 142 | Kara Braxton | 2,237 |
@@ -1037,11 +1037,11 @@ _Last updated: 2026-08-23 23:51 UTC_
 | 192 | Bridget Pettis | 177 |
 | 193 | Brittany Boyd-Jones | 176 |
 | 193 | Chiney Ogwumike | 176 |
+| 195 | **Bridget Carleton** 🔴 +2 | 175 |
 | 195 | Tamika Raymond | 175 |
-| 196 | **Bridget Carleton** 🔴 +1 | 174 |
-| 196 | Elena Delle Donne | 174 |
-| 196 | Ezi Magbegor | 174 |
-| 196 | Margo Dydek | 174 |
+| 197 | Elena Delle Donne | 174 |
+| 197 | Ezi Magbegor | 174 |
+| 197 | Margo Dydek | 174 |
 | 200 | Kamila Vodichkova | 173 |
 
 ## Three-pointers
@@ -1283,8 +1283,8 @@ _Last updated: 2026-08-23 23:51 UTC_
 | 28 | Katie Douglas | 824 |
 | 29 | Nneka Ogwumike | 803 |
 | 30 | Betty Lennox | 800 |
-| 31 | Jasmine Thomas | 796 |
-| 31 | **Jewell Loyd** 🔴 +1 | 796 |
+| 31 | **Jewell Loyd** 🔴 +2 | 797 |
+| 32 | Jasmine Thomas | 796 |
 | 33 | Chamique Holdsclaw | 789 |
 | 34 | Crystal Langhorne | 782 |
 | 35 | Camille Smith | 779 |
@@ -1601,7 +1601,7 @@ _Last updated: 2026-08-23 23:51 UTC_
 | 141 | Glory Johnson | 550 |
 | 141 | **Jackie Young** 🔴 +2 | 550 |
 | 141 | Tierra Ruffin-Pratt | 550 |
-| 144 | **Monique Billings** 🔴 +1 | 547 |
+| 144 | **Monique Billings** 🔴 +2 | 548 |
 | 145 | Erlana Larkins | 546 |
 | 146 | Jayne Appel Marinelli | 543 |
 | 146 | Kayla McBride | 543 |
