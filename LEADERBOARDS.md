@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-23 23:41 UTC_
+_Last updated: 2026-08-23 23:42 UTC_
 
 ## Contents
 
@@ -33,7 +33,7 @@ _Last updated: 2026-08-23 23:41 UTC_
 | 12 | Sylvia Fowles | 6,413 |
 | 13 | Breanna Stewart | 6,335 |
 | 14 | Lisa Leslie | 6,251 |
-| 15 | **A'ja Wilson** 🔴 +9 | 6,187 |
+| 15 | **A'ja Wilson** 🔴 +11 | 6,189 |
 | 16 | **Jewell Loyd** 🔴 | 6,148 |
 | 17 | Brittney Griner | 6,087 |
 | 18 | Lauren Jackson | 6,005 |
@@ -200,7 +200,7 @@ _Last updated: 2026-08-23 23:41 UTC_
 | 179 | **NaLyssa Smith** 🔴 +4 | 1,883 |
 | 180 | **Rachel Banham** 🔴 +3 | 1,846 |
 | 181 | Damiris Dantas | 1,842 |
-| 182 | **Sophie Cunningham** 🔴 | 1,829 |
+| 182 | **Sophie Cunningham** 🔴 +3 | 1,832 |
 | 183 | Tianna Hawkins | 1,825 |
 | 184 | Noelle Quinn | 1,824 |
 | 185 | Danielle Adams | 1,820 |
@@ -496,7 +496,7 @@ _Last updated: 2026-08-23 23:41 UTC_
 | 64 | Lisa Leslie | 873 |
 | 65 | Brittney Sykes | 866 |
 | 66 | Tully Bevilaqua | 853 |
-| 67 | **Kelsey Mitchell** 🔴 +3 | 850 |
+| 67 | **Kelsey Mitchell** 🔴 +4 | 851 |
 | 68 | Jia Perkins | 837 |
 | 69 | Andrea Stinson | 810 |
 | 70 | Tina Thompson | 803 |
@@ -675,7 +675,7 @@ _Last updated: 2026-08-23 23:41 UTC_
 | 38 | Plenette Pierson | 242 |
 | 39 | Napheesa Collier | 239 |
 | 40 | Emma Meesseman | 238 |
-| 41 | **Azurá Stevens** 🔴 | 236 |
+| 41 | **Azurá Stevens** 🔴 +1 | 237 |
 | 42 | **Brianna Turner** 🔴 | 234 |
 | 43 | Skylar Diggins | 231 |
 | 44 | Chasity Melvin | 228 |
@@ -1108,8 +1108,8 @@ _Last updated: 2026-08-23 23:41 UTC_
 | 58 | Candace Parker | 342 |
 | 59 | Deanna Nolan | 340 |
 | 60 | Erica Wheeler | 337 |
-| 61 | Anna DeForge | 334 |
-| 61 | **Sophie Cunningham** 🔴 | 334 |
+| 61 | **Sophie Cunningham** 🔴 +1 | 335 |
+| 62 | Anna DeForge | 334 |
 | 63 | Natisha Hiedeman | 328 |
 | 64 | Sugar Rodgers | 317 |
 | 65 | Marissa Coleman | 315 |
