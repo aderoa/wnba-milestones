@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-23 23:40 UTC_
+_Last updated: 2026-08-23 23:41 UTC_
 
 ## Contents
 
@@ -431,7 +431,7 @@ _Last updated: 2026-08-23 23:40 UTC_
 | Rank | Player | Total |
 |-----:|--------|------:|
 | 1 | Sue Bird | 3,234 |
-| 2 | **Courtney Vandersloot** 🔴 +3 | 2,897 |
+| 2 | **Courtney Vandersloot** 🔴 +4 | 2,898 |
 | 3 | Ticha Penicheiro | 2,588 |
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
@@ -533,8 +533,8 @@ _Last updated: 2026-08-23 23:40 UTC_
 | 101 | Debbie Black | 612 |
 | 102 | Cynthia Cooper | 602 |
 | 103 | **Caitlin Clark** 🔴 +4 | 595 |
-| 104 | **Betnijah Laney-Hamilton** 🔴 +2 | 592 |
-| 104 | Sancho Lyttle | 592 |
+| 104 | **Betnijah Laney-Hamilton** 🔴 +3 | 593 |
+| 105 | Sancho Lyttle | 592 |
 | 106 | Gabby Williams | 591 |
 | 107 | Camille Smith | 590 |
 | 108 | Armintie Herrington | 589 |
@@ -742,7 +742,7 @@ _Last updated: 2026-08-23 23:40 UTC_
 | 105 | Natalie Williams | 122 |
 | 106 | Ebony Hoffman | 121 |
 | 106 | Essence Carson | 121 |
-| 108 | **Shakira Austin** 🔴 | 119 |
+| 108 | **Shakira Austin** 🔴 +1 | 120 |
 | 109 | Krystal Thomas | 118 |
 | 110 | Andrea Stinson | 117 |
 | 110 | Crystal Langhorne | 117 |

@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-08-23 23:41 UTC
+
+- **Betnijah Laney-Hamilton** passed **Sancho Lyttle** for **#103** all-time in assists (career 593) — up from #106 entering today — _5:44 - 2nd — WSH @ POR_
+
 ## 2026-08-23 04:02 UTC
 
 - **Kahleah Copper** passed **Kristi Toliver** for **#44** all-time in points (career 4,476) — up from #45 entering today — _53.3 - 4th — ATL @ PHX_

@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-08-23T23:41:00+00:00",
+    "text": "Betnijah Laney-Hamilton passed Sancho Lyttle for #103 all-time in assists (career 593) \u2014 up from #106 entering today \u2014 (5:44 - 2nd \u2014 WSH @ POR)",
+    "kind": "rank_pass",
+    "player": "Betnijah Laney-Hamilton",
+    "stat": "assists",
+    "rank": 103,
+    "passed_players": [
+      "Sancho Lyttle"
+    ],
+    "new_total": 593
+  },
+  {
     "ts": "2026-08-23T04:02:00+00:00",
     "text": "Kahleah Copper passed Kristi Toliver for #44 all-time in points (career 4,476) \u2014 up from #45 entering today \u2014 (53.3 - 4th \u2014 ATL @ PHX)",
     "kind": "rank_pass",
@@ -2976,18 +2988,5 @@
       "Bria Hartley"
     ],
     "new_total": 254
-  },
-  {
-    "ts": "2026-07-07T01:58:00+00:00",
-    "text": "Brittney Griner passed Bridget Carleton and Kamila Vodichkova for #199 all-time in steals (career 174) \u2014 new to top 200 today \u2014 (3:49 - 4th \u2014 CON @ MIN)",
-    "kind": "rank_pass",
-    "player": "Brittney Griner",
-    "stat": "steals",
-    "rank": 199,
-    "passed_players": [
-      "Bridget Carleton",
-      "Kamila Vodichkova"
-    ],
-    "new_total": 174
   }
 ]
