@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-24 01:12 UTC_
+_Last updated: 2026-08-24 01:13 UTC_
 
 ## Contents
 
@@ -979,7 +979,7 @@ _Last updated: 2026-08-24 01:12 UTC_
 | 134 | Coco Miller | 237 |
 | 135 | Marissa Coleman | 236 |
 | 136 | Nikki McCray | 235 |
-| 137 | **Kelsey Mitchell** 🔴 | 233 |
+| 137 | **Kelsey Mitchell** 🔴 +1 | 234 |
 | 138 | Merlakia Jones | 232 |
 | 139 | Ruth Riley | 231 |
 | 140 | Scholanda Dorrell | 230 |
@@ -1156,8 +1156,8 @@ _Last updated: 2026-08-24 01:12 UTC_
 | 106 | Erin Phillips | 211 |
 | 107 | Andrea Stinson | 207 |
 | 108 | **Betnijah Laney-Hamilton** 🔴 | 206 |
+| 109 | **Caitlin Clark** 🔴 +8 | 203 |
 | 109 | Lexie Brown | 203 |
-| 110 | **Caitlin Clark** 🔴 +7 | 202 |
 | 111 | Shanna Zolman | 199 |
 | 112 | Temeka Johnson | 197 |
 | 112 | Tina Charles | 197 |
@@ -1298,7 +1298,7 @@ _Last updated: 2026-08-24 01:12 UTC_
 | 42 | Monique Currie | 724 |
 | 43 | Michelle Snow | 723 |
 | 44 | Tamecka Dixon | 716 |
-| 45 | **Natasha Cloud** 🔴 +3 | 710 |
+| 45 | **Natasha Cloud** 🔴 +4 | 711 |
 | 46 | Erica Wheeler | 699 |
 | 47 | Renee Montgomery | 697 |
 | 48 | Temeka Johnson | 696 |
