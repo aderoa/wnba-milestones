@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-08-24 00:29 UTC
+
+- **Betnijah Laney-Hamilton** passed **Kia Vaughn** and **Sophia Witherspoon** for **#163** all-time in steals (career 209) — up from #165 entering today — _4:25 - 3rd — WSH @ POR_
+
 ## 2026-08-23 23:41 UTC
 
 - **Betnijah Laney-Hamilton** passed **Sancho Lyttle** for **#103** all-time in assists (career 593) — up from #106 entering today — _5:44 - 2nd — WSH @ POR_

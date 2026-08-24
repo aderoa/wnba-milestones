@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-08-24T00:29:00+00:00",
+    "text": "Betnijah Laney-Hamilton passed Kia Vaughn and Sophia Witherspoon for #163 all-time in steals (career 209) \u2014 up from #165 entering today \u2014 (4:25 - 3rd \u2014 WSH @ POR)",
+    "kind": "rank_pass",
+    "player": "Betnijah Laney-Hamilton",
+    "stat": "steals",
+    "rank": 163,
+    "passed_players": [
+      "Kia Vaughn",
+      "Sophia Witherspoon"
+    ],
+    "new_total": 209
+  },
+  {
     "ts": "2026-08-23T23:41:00+00:00",
     "text": "Betnijah Laney-Hamilton passed Sancho Lyttle for #103 all-time in assists (career 593) \u2014 up from #106 entering today \u2014 (5:44 - 2nd \u2014 WSH @ POR)",
     "kind": "rank_pass",
@@ -2976,17 +2989,5 @@
       "A'ja Wilson"
     ],
     "new_total": 362
-  },
-  {
-    "ts": "2026-07-07T02:26:00+00:00",
-    "text": "Nneka Ogwumike passed Bria Hartley for #88 all-time in three-pointers (career 254) \u2014 up from #89 entering today \u2014 (End of 1st \u2014 SEA @ LA)",
-    "kind": "rank_pass",
-    "player": "Nneka Ogwumike",
-    "stat": "three-pointers",
-    "rank": 88,
-    "passed_players": [
-      "Bria Hartley"
-    ],
-    "new_total": 254
   }
 ]

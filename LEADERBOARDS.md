@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-24 00:28 UTC_
+_Last updated: 2026-08-24 00:29 UTC_
 
 ## Contents
 
@@ -83,7 +83,7 @@ _Last updated: 2026-08-24 00:28 UTC_
 | 62 | Allie Quigley | 3,786 |
 | 63 | Chasity Melvin | 3,781 |
 | 64 | Brittney Sykes | 3,726 |
-| 65 | **Jackie Young** 🔴 +13 | 3,711 |
+| 65 | **Jackie Young** 🔴 +15 | 3,713 |
 | 66 | Kara Lawson | 3,670 |
 | 67 | Mwadi Mabika | 3,576 |
 | 68 | Odyssey Sims | 3,574 |
@@ -150,7 +150,7 @@ _Last updated: 2026-08-24 00:28 UTC_
 | 129 | Anna DeForge | 2,413 |
 | 130 | Kayla Thornton | 2,393 |
 | 131 | DeMya Walker | 2,379 |
-| 132 | **Azurá Stevens** 🔴 +12 | 2,355 |
+| 132 | **Azurá Stevens** 🔴 +14 | 2,357 |
 | 133 | Alex Bentley | 2,350 |
 | 134 | Jordin Canada | 2,342 |
 | 135 | Merlakia Jones | 2,308 |
@@ -343,7 +343,7 @@ _Last updated: 2026-08-24 00:28 UTC_
 | 117 | Becky Hammon | 1,108 |
 | 118 | Ann Wauters | 1,105 |
 | 119 | **Isabelle Harrison** 🔴 +4 | 1,101 |
-| 120 | **Jackie Young** 🔴 +2 | 1,087 |
+| 120 | **Jackie Young** 🔴 +3 | 1,088 |
 | 121 | Svetlana Abrosimova | 1,078 |
 | 122 | Le'coe Willingham | 1,054 |
 | 123 | Nicole Ohlde | 1,040 |
@@ -532,7 +532,7 @@ _Last updated: 2026-08-24 00:28 UTC_
 | 100 | Natasha Howard | 615 |
 | 101 | Debbie Black | 612 |
 | 102 | Cynthia Cooper | 602 |
-| 103 | **Caitlin Clark** 🔴 +6 | 597 |
+| 103 | **Caitlin Clark** 🔴 +7 | 598 |
 | 104 | **Betnijah Laney-Hamilton** 🔴 +3 | 593 |
 | 105 | Sancho Lyttle | 592 |
 | 106 | Gabby Williams | 591 |
@@ -1003,11 +1003,11 @@ _Last updated: 2026-08-24 00:28 UTC_
 | 158 | Shekinna Stricklen | 213 |
 | 159 | **Azurá Stevens** 🔴 +1 | 211 |
 | 159 | Nikki Teasley | 211 |
+| 161 | **Betnijah Laney-Hamilton** 🔴 +2 | 209 |
 | 161 | Iziane Castro Marques | 209 |
 | 161 | Tiffany Mitchell | 209 |
-| 163 | **Betnijah Laney-Hamilton** 🔴 +1 | 208 |
-| 163 | Kia Vaughn | 208 |
-| 163 | Sophia Witherspoon | 208 |
+| 164 | Kia Vaughn | 208 |
+| 164 | Sophia Witherspoon | 208 |
 | 166 | Shameka Christon | 205 |
 | 167 | Jessica Breland | 204 |
 | 167 | Murriel Page | 204 |
@@ -1220,9 +1220,9 @@ _Last updated: 2026-08-24 00:28 UTC_
 | 169 | Leonie Fiebich | 129 |
 | 171 | Jordin Canada | 128 |
 | 171 | Ticha Penicheiro | 128 |
+| 173 | **Lexie Hull** 🔴 +2 | 127 |
 | 173 | Michele Timms | 127 |
-| 174 | **Lexie Hull** 🔴 +1 | 126 |
-| 174 | Tamecka Dixon | 126 |
+| 175 | Tamecka Dixon | 126 |
 | 176 | Kennedy Burke | 125 |
 | 177 | Charde Houston | 124 |
 | 177 | Veronica Burton | 124 |
@@ -1375,8 +1375,8 @@ _Last updated: 2026-08-24 00:28 UTC_
 | 119 | Ebony Hoffman | 470 |
 | 120 | Elaine Powell | 469 |
 | 121 | Allie Quigley | 467 |
-| 122 | Ariel Atkins | 465 |
-| 122 | **Jackie Young** 🔴 +2 | 465 |
+| 122 | **Jackie Young** 🔴 +3 | 466 |
+| 123 | Ariel Atkins | 465 |
 | 124 | **Betnijah Laney-Hamilton** 🔴 +2 | 458 |
 | 125 | Kia Vaughn | 454 |
 | 126 | Janeth Arcain | 453 |
@@ -1444,9 +1444,9 @@ _Last updated: 2026-08-24 00:28 UTC_
 | 188 | Natisha Hiedeman | 312 |
 | 189 | Tamika Raymond | 311 |
 | 190 | **Isabelle Harrison** 🔴 +1 | 308 |
-| 191 | **Azurá Stevens** 🔴 +1 | 305 |
-| 191 | Erin Perperoglou | 305 |
-| 191 | Jennifer Lacy | 305 |
+| 191 | **Azurá Stevens** 🔴 +2 | 306 |
+| 192 | Erin Perperoglou | 305 |
+| 192 | Jennifer Lacy | 305 |
 | 194 | Tianna Hawkins | 303 |
 | 195 | **Rachel Banham** 🔴 | 301 |
 | 196 | Crystal Robinson | 299 |
