@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-24 00:21 UTC_
+_Last updated: 2026-08-24 00:22 UTC_
 
 ## Contents
 
@@ -83,7 +83,7 @@ _Last updated: 2026-08-24 00:21 UTC_
 | 62 | Allie Quigley | 3,786 |
 | 63 | Chasity Melvin | 3,781 |
 | 64 | Brittney Sykes | 3,726 |
-| 65 | **Jackie Young** 🔴 +11 | 3,709 |
+| 65 | **Jackie Young** 🔴 +13 | 3,711 |
 | 66 | Kara Lawson | 3,670 |
 | 67 | Mwadi Mabika | 3,576 |
 | 68 | Odyssey Sims | 3,574 |
@@ -157,7 +157,7 @@ _Last updated: 2026-08-24 00:21 UTC_
 | 136 | **Betnijah Laney-Hamilton** 🔴 +3 | 2,305 |
 | 137 | Satou Sabally | 2,296 |
 | 138 | Kia Vaughn | 2,288 |
-| 139 | **Kia Nurse** 🔴 +10 | 2,272 |
+| 139 | **Kia Nurse** 🔴 +13 | 2,275 |
 | 140 | Allison Feaster | 2,258 |
 | 141 | Shekinna Stricklen | 2,245 |
 | 142 | Kara Braxton | 2,237 |
@@ -874,7 +874,7 @@ _Last updated: 2026-08-24 00:21 UTC_
 | 29 | Skylar Diggins | 463 |
 | 29 | Teresa Weatherspoon | 463 |
 | 31 | **Chelsea Gray** 🔴 +2 | 459 |
-| 32 | **Jewell Loyd** 🔴 | 458 |
+| 31 | **Jewell Loyd** 🔴 +1 | 459 |
 | 33 | Rebekkah Brunson | 456 |
 | 34 | Tangela Smith | 455 |
 | 35 | Tina Thompson | 452 |
@@ -1035,10 +1035,10 @@ _Last updated: 2026-08-24 00:21 UTC_
 | 190 | Diamond DeShields | 180 |
 | 191 | Kiah Stokes | 178 |
 | 192 | Bridget Pettis | 177 |
+| 193 | **Bridget Carleton** 🔴 +3 | 176 |
 | 193 | Brittany Boyd-Jones | 176 |
 | 193 | Chiney Ogwumike | 176 |
-| 195 | **Bridget Carleton** 🔴 +2 | 175 |
-| 195 | Tamika Raymond | 175 |
+| 196 | Tamika Raymond | 175 |
 | 197 | Elena Delle Donne | 174 |
 | 197 | Ezi Magbegor | 174 |
 | 197 | Margo Dydek | 174 |
@@ -1097,8 +1097,8 @@ _Last updated: 2026-08-24 00:21 UTC_
 | 47 | Jasmine Thomas | 376 |
 | 48 | Allison Feaster | 372 |
 | 48 | Betty Lennox | 372 |
-| 50 | Kahleah Copper | 370 |
-| 50 | **Kia Nurse** 🔴 +2 | 370 |
+| 50 | **Kia Nurse** 🔴 +3 | 371 |
+| 51 | Kahleah Copper | 370 |
 | 52 | Epiphanny Prince | 368 |
 | 53 | Nykesha Sales | 352 |
 | 54 | **Jackie Young** 🔴 +1 | 347 |
