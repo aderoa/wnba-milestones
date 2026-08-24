@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-24 00:31 UTC_
+_Last updated: 2026-08-24 00:32 UTC_
 
 ## Contents
 
@@ -45,7 +45,7 @@ _Last updated: 2026-08-24 00:31 UTC_
 | 24 | DeLisha Milton-Jones | 5,571 |
 | 25 | Katie Douglas | 5,545 |
 | 26 | Lindsay Whalen | 5,511 |
-| 27 | **Kelsey Mitchell** 🔴 +13 | 5,211 |
+| 27 | **Kelsey Mitchell** 🔴 +16 | 5,214 |
 | 28 | Swin Cash | 5,119 |
 | 29 | Tiffany Hayes | 5,049 |
 | 30 | Tangela Smith | 5,035 |
@@ -394,7 +394,7 @@ _Last updated: 2026-08-24 00:31 UTC_
 | 168 | Amanda Zahui B | 819 |
 | 168 | Barbara Farris | 819 |
 | 170 | Carolyn Swords | 814 |
-| 171 | **Betnijah Laney-Hamilton** 🔴 | 812 |
+| 171 | **Betnijah Laney-Hamilton** 🔴 +1 | 813 |
 | 172 | Tierra Ruffin-Pratt | 799 |
 | 173 | Ariel Atkins | 798 |
 | 174 | Charlotte Smith | 794 |
@@ -1055,7 +1055,7 @@ _Last updated: 2026-08-24 00:31 UTC_
 | 5 | Kayla McBride | 756 |
 | 6 | Tina Thompson | 745 |
 | 7 | Katie Douglas | 723 |
-| 8 | **Kelsey Mitchell** 🔴 +2 | 714 |
+| 8 | **Kelsey Mitchell** 🔴 +3 | 715 |
 | 9 | **Jewell Loyd** 🔴 | 695 |
 | 10 | DeWanna Bonner | 682 |
 | 11 | Kristi Toliver | 651 |
@@ -1523,8 +1523,8 @@ _Last updated: 2026-08-24 00:31 UTC_
 | 62 | Erica Wheeler | 808 |
 | 63 | Nykesha Sales | 796 |
 | 64 | Ebony Hoffman | 791 |
-| 65 | **Natasha Cloud** 🔴 +2 | 775 |
-| 65 | Sue Bird | 775 |
+| 65 | **Natasha Cloud** 🔴 +3 | 776 |
+| 66 | Sue Bird | 775 |
 | 67 | Sheri Sam | 766 |
 | 68 | Kahleah Copper | 758 |
 | 69 | Kia Vaughn | 755 |
