@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-24 00:56 UTC_
+_Last updated: 2026-08-24 00:57 UTC_
 
 ## Contents
 
@@ -184,9 +184,9 @@ _Last updated: 2026-08-24 00:56 UTC_
 | 163 | Ezi Magbegor | 1,997 |
 | 164 | Bria Hartley | 1,967 |
 | 165 | Chiney Ogwumike | 1,964 |
-| 166 | **Myisha Hines-Allen** 🔴 +3 | 1,959 |
-| 166 | Nicole Ohlde | 1,959 |
-| 168 | **Isabelle Harrison** 🔴 +10 | 1,942 |
+| 166 | **Myisha Hines-Allen** 🔴 +5 | 1,961 |
+| 167 | Nicole Ohlde | 1,959 |
+| 168 | **Isabelle Harrison** 🔴 +11 | 1,943 |
 | 169 | Kedra Holland-Corn | 1,938 |
 | 170 | Cathrine Kraayeveld | 1,926 |
 | 171 | Roneeka Hodges | 1,925 |
@@ -532,7 +532,7 @@ _Last updated: 2026-08-24 00:56 UTC_
 | 100 | Natasha Howard | 615 |
 | 101 | Debbie Black | 612 |
 | 102 | Cynthia Cooper | 602 |
-| 103 | **Caitlin Clark** 🔴 +8 | 599 |
+| 103 | **Caitlin Clark** 🔴 +9 | 600 |
 | 104 | **Betnijah Laney-Hamilton** 🔴 +4 | 594 |
 | 105 | Sancho Lyttle | 592 |
 | 106 | Gabby Williams | 591 |
@@ -1548,8 +1548,8 @@ _Last updated: 2026-08-24 00:56 UTC_
 | 87 | Tan White | 698 |
 | 88 | Katie Douglas | 697 |
 | 89 | Danielle Robinson | 692 |
-| 90 | **Cheyenne Parker-Tyus** 🔴 +2 | 687 |
-| 90 | Sophia Young-Malcolm | 687 |
+| 90 | **Cheyenne Parker-Tyus** 🔴 +3 | 688 |
+| 91 | Sophia Young-Malcolm | 687 |
 | 92 | Maya Moore | 686 |
 | 93 | Breanna Stewart | 685 |
 | 93 | Jasmine Thomas | 685 |
