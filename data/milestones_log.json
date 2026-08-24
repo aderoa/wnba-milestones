@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-08-24T00:56:00+00:00",
+    "text": "Kia Nurse passed Charde Houston for #183 all-time in fouls (career 488) \u2014 up from #186 entering today \u2014 (1:49 - 4th \u2014 LV @ TOR)",
+    "kind": "rank_pass",
+    "player": "Kia Nurse",
+    "stat": "fouls",
+    "rank": 183,
+    "passed_players": [
+      "Charde Houston"
+    ],
+    "new_total": 488
+  },
+  {
     "ts": "2026-08-24T00:29:00+00:00",
     "text": "Betnijah Laney-Hamilton passed Kia Vaughn and Sophia Witherspoon for #163 all-time in steals (career 209) \u2014 up from #165 entering today \u2014 (4:25 - 3rd \u2014 WSH @ POR)",
     "kind": "rank_pass",
@@ -2977,17 +2989,5 @@
       "Allie Quigley"
     ],
     "new_total": 468
-  },
-  {
-    "ts": "2026-07-07T03:33:00+00:00",
-    "text": "Erica Wheeler passed A'ja Wilson for #62 all-time in steals (career 362) \u2014 up from #63 entering today \u2014 (9:04 - 4th \u2014 SEA @ LA)",
-    "kind": "rank_pass",
-    "player": "Erica Wheeler",
-    "stat": "steals",
-    "rank": 62,
-    "passed_players": [
-      "A'ja Wilson"
-    ],
-    "new_total": 362
   }
 ]
