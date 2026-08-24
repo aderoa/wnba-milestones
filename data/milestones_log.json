@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-08-24T01:10:00+00:00",
+    "text": "Bridget Carleton passed Bridget Pettis for #192 all-time in steals (career 178) \u2014 up from #199 entering today \u2014 (35.9 - 4th \u2014 WSH @ POR)",
+    "kind": "rank_pass",
+    "player": "Bridget Carleton",
+    "stat": "steals",
+    "rank": 192,
+    "passed_players": [
+      "Bridget Pettis"
+    ],
+    "new_total": 178
+  },
+  {
     "ts": "2026-08-24T00:56:00+00:00",
     "text": "Kia Nurse passed Charde Houston for #183 all-time in fouls (career 488) \u2014 up from #186 entering today \u2014 (1:49 - 4th \u2014 LV @ TOR)",
     "kind": "rank_pass",
@@ -2977,17 +2989,5 @@
       "Mwadi Mabika"
     ],
     "new_total": 3578
-  },
-  {
-    "ts": "2026-07-07T03:43:00+00:00",
-    "text": "Ariel Atkins passed Allie Quigley for #121 all-time in turnovers (career 468) \u2014 up from #122 entering today \u2014 (5:21 - 4th \u2014 SEA @ LA)",
-    "kind": "rank_pass",
-    "player": "Ariel Atkins",
-    "stat": "turnovers",
-    "rank": 121,
-    "passed_players": [
-      "Allie Quigley"
-    ],
-    "new_total": 468
   }
 ]

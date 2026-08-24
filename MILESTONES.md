@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-08-24 01:10 UTC
+
+- **Bridget Carleton** passed **Bridget Pettis** for **#192** all-time in steals (career 178) — up from #199 entering today — _35.9 - 4th — WSH @ POR_
+
 ## 2026-08-24 00:56 UTC
 
 - **Kia Nurse** passed **Charde Houston** for **#183** all-time in fouls (career 488) — up from #186 entering today — _1:49 - 4th — LV @ TOR_

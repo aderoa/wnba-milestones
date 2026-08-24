@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-24 01:09 UTC_
+_Last updated: 2026-08-24 01:10 UTC_
 
 ## Contents
 
@@ -605,8 +605,8 @@ _Last updated: 2026-08-24 01:09 UTC_
 | 173 | Sugar Rodgers | 393 |
 | 174 | Shameka Christon | 389 |
 | 174 | Tamicha Jackson | 389 |
-| 176 | **Bridget Carleton** 🔴 +3 | 387 |
-| 176 | Riquna Williams | 387 |
+| 176 | **Bridget Carleton** 🔴 +4 | 388 |
+| 177 | Riquna Williams | 387 |
 | 178 | Dana Evans | 379 |
 | 179 | Jessica Breland | 377 |
 | 180 | Shenise Johnson | 376 |
@@ -1033,9 +1033,9 @@ _Last updated: 2026-08-24 01:09 UTC_
 | 188 | Erin Phillips | 182 |
 | 189 | Nakia Sanford | 181 |
 | 190 | Diamond DeShields | 180 |
+| 191 | **Bridget Carleton** 🔴 +5 | 178 |
 | 191 | Kiah Stokes | 178 |
-| 192 | **Bridget Carleton** 🔴 +4 | 177 |
-| 192 | Bridget Pettis | 177 |
+| 193 | Bridget Pettis | 177 |
 | 194 | Brittany Boyd-Jones | 176 |
 | 194 | Chiney Ogwumike | 176 |
 | 196 | Tamika Raymond | 175 |
