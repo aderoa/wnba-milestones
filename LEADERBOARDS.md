@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-24 01:15 UTC_
+_Last updated: 2026-08-24 01:16 UTC_
 
 ## Contents
 
@@ -532,7 +532,7 @@ _Last updated: 2026-08-24 01:15 UTC_
 | 100 | Natasha Howard | 615 |
 | 101 | Debbie Black | 612 |
 | 102 | Cynthia Cooper | 602 |
-| 103 | **Caitlin Clark** 🔴 +9 | 600 |
+| 103 | **Caitlin Clark** 🔴 +10 | 601 |
 | 104 | **Betnijah Laney-Hamilton** 🔴 +4 | 594 |
 | 105 | Sancho Lyttle | 592 |
 | 106 | Gabby Williams | 591 |
@@ -603,9 +603,9 @@ _Last updated: 2026-08-24 01:15 UTC_
 | 171 | Marissa Coleman | 399 |
 | 172 | Stacey Dales | 395 |
 | 173 | Sugar Rodgers | 393 |
+| 174 | **Bridget Carleton** 🔴 +5 | 389 |
 | 174 | Shameka Christon | 389 |
 | 174 | Tamicha Jackson | 389 |
-| 176 | **Bridget Carleton** 🔴 +4 | 388 |
 | 177 | Riquna Williams | 387 |
 | 178 | Dana Evans | 379 |
 | 179 | Jessica Breland | 377 |
