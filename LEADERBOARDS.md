@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-24 00:36 UTC_
+_Last updated: 2026-08-24 00:37 UTC_
 
 ## Contents
 
@@ -83,7 +83,7 @@ _Last updated: 2026-08-24 00:36 UTC_
 | 62 | Allie Quigley | 3,786 |
 | 63 | Chasity Melvin | 3,781 |
 | 64 | Brittney Sykes | 3,726 |
-| 65 | **Jackie Young** 🔴 +15 | 3,713 |
+| 65 | **Jackie Young** 🔴 +17 | 3,715 |
 | 66 | Kara Lawson | 3,670 |
 | 67 | Mwadi Mabika | 3,576 |
 | 68 | Odyssey Sims | 3,574 |
@@ -431,7 +431,7 @@ _Last updated: 2026-08-24 00:36 UTC_
 | Rank | Player | Total |
 |-----:|--------|------:|
 | 1 | Sue Bird | 3,234 |
-| 2 | **Courtney Vandersloot** 🔴 +6 | 2,900 |
+| 2 | **Courtney Vandersloot** 🔴 +7 | 2,901 |
 | 3 | Ticha Penicheiro | 2,588 |
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
@@ -1633,17 +1633,17 @@ _Last updated: 2026-08-24 00:36 UTC_
 | 170 | Napheesa Collier | 504 |
 | 173 | Iziane Castro Marques | 502 |
 | 174 | Elena Baranova | 501 |
-| 175 | Adrian Williams-Strong | 497 |
-| 175 | **Azurá Stevens** 🔴 +2 | 497 |
-| 175 | Essence Carson | 497 |
-| 175 | **Rachel Banham** 🔴 | 497 |
+| 175 | **Azurá Stevens** 🔴 +3 | 498 |
+| 176 | Adrian Williams-Strong | 497 |
+| 176 | Essence Carson | 497 |
+| 176 | **Rachel Banham** 🔴 | 497 |
 | 179 | Nia Coffey | 495 |
 | 180 | Karima Christmas-Kelly | 494 |
 | 181 | Ann Wauters | 493 |
 | 181 | Riquna Williams | 493 |
 | 183 | Charde Houston | 487 |
+| 184 | **Kia Nurse** 🔴 +2 | 486 |
 | 184 | Lindsey Harding | 486 |
-| 185 | **Kia Nurse** 🔴 +1 | 485 |
 | 186 | Cathrine Kraayeveld | 484 |
 | 187 | Liz Cambage | 483 |
 | 187 | Rhonda Mapp | 483 |
