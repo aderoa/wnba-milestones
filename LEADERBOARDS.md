@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-24 00:29 UTC_
+_Last updated: 2026-08-24 00:30 UTC_
 
 ## Contents
 
@@ -310,7 +310,7 @@ _Last updated: 2026-08-24 00:29 UTC_
 | 84 | Erlana Larkins | 1,329 |
 | 85 | Mwadi Mabika | 1,327 |
 | 86 | Jayne Appel Marinelli | 1,326 |
-| 87 | **Azurá Stevens** 🔴 +5 | 1,324 |
+| 87 | **Azurá Stevens** 🔴 +6 | 1,325 |
 | 88 | Betty Lennox | 1,296 |
 | 89 | Tari Phillips | 1,274 |
 | 90 | **Myisha Hines-Allen** 🔴 +4 | 1,269 |
@@ -734,10 +734,10 @@ _Last updated: 2026-08-24 00:29 UTC_
 | 97 | Alyssa Thomas | 127 |
 | 97 | Chiney Ogwumike | 127 |
 | 97 | Kristen Rasmussen | 127 |
+| 100 | **Kamilla Cardoso** 🔴 +2 | 126 |
 | 100 | Katie Douglas | 126 |
 | 100 | Mistie Bass | 126 |
-| 102 | Brionna Jones | 125 |
-| 102 | **Kamilla Cardoso** 🔴 +1 | 125 |
+| 103 | Brionna Jones | 125 |
 | 104 | Natasha Mack | 123 |
 | 105 | Natalie Williams | 122 |
 | 106 | Ebony Hoffman | 121 |
@@ -1034,10 +1034,10 @@ _Last updated: 2026-08-24 00:29 UTC_
 | 189 | Nakia Sanford | 181 |
 | 190 | Diamond DeShields | 180 |
 | 191 | Kiah Stokes | 178 |
+| 192 | **Bridget Carleton** 🔴 +4 | 177 |
 | 192 | Bridget Pettis | 177 |
-| 193 | **Bridget Carleton** 🔴 +3 | 176 |
-| 193 | Brittany Boyd-Jones | 176 |
-| 193 | Chiney Ogwumike | 176 |
+| 194 | Brittany Boyd-Jones | 176 |
+| 194 | Chiney Ogwumike | 176 |
 | 196 | Tamika Raymond | 175 |
 | 197 | Elena Delle Donne | 174 |
 | 197 | Ezi Magbegor | 174 |
@@ -1157,8 +1157,8 @@ _Last updated: 2026-08-24 00:29 UTC_
 | 107 | Andrea Stinson | 207 |
 | 108 | **Betnijah Laney-Hamilton** 🔴 | 206 |
 | 109 | Lexie Brown | 203 |
+| 110 | **Caitlin Clark** 🔴 +4 | 199 |
 | 110 | Shanna Zolman | 199 |
-| 111 | **Caitlin Clark** 🔴 +3 | 198 |
 | 112 | Temeka Johnson | 197 |
 | 112 | Tina Charles | 197 |
 | 114 | Nia Coffey | 196 |
