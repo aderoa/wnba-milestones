@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-24 00:16 UTC_
+_Last updated: 2026-08-24 00:17 UTC_
 
 ## Contents
 
@@ -186,8 +186,8 @@ _Last updated: 2026-08-24 00:16 UTC_
 | 165 | Chiney Ogwumike | 1,964 |
 | 166 | **Myisha Hines-Allen** 🔴 +3 | 1,959 |
 | 166 | Nicole Ohlde | 1,959 |
-| 168 | **Isabelle Harrison** 🔴 +6 | 1,938 |
-| 168 | Kedra Holland-Corn | 1,938 |
+| 168 | **Isabelle Harrison** 🔴 +8 | 1,940 |
+| 169 | Kedra Holland-Corn | 1,938 |
 | 170 | Cathrine Kraayeveld | 1,926 |
 | 171 | Roneeka Hodges | 1,925 |
 | 172 | Latasha Byears | 1,920 |
@@ -342,7 +342,7 @@ _Last updated: 2026-08-24 00:16 UTC_
 | 116 | Chiney Ogwumike | 1,110 |
 | 117 | Becky Hammon | 1,108 |
 | 118 | Ann Wauters | 1,105 |
-| 119 | **Isabelle Harrison** 🔴 +3 | 1,100 |
+| 119 | **Isabelle Harrison** 🔴 +4 | 1,101 |
 | 120 | **Jackie Young** 🔴 +1 | 1,086 |
 | 121 | Svetlana Abrosimova | 1,078 |
 | 122 | Le'coe Willingham | 1,054 |
@@ -516,7 +516,7 @@ _Last updated: 2026-08-24 00:16 UTC_
 | 84 | Ariel Atkins | 682 |
 | 85 | Emma Meesseman | 681 |
 | 86 | Nykesha Sales | 677 |
-| 87 | **A'ja Wilson** 🔴 +4 | 671 |
+| 87 | **A'ja Wilson** 🔴 +5 | 672 |
 | 88 | Natisha Hiedeman | 668 |
 | 89 | Bria Hartley | 661 |
 | 90 | Brittney Griner | 660 |
@@ -1597,7 +1597,7 @@ _Last updated: 2026-08-24 00:16 UTC_
 | 136 | Ivory Latta | 565 |
 | 137 | Barbara Farris | 563 |
 | 138 | Jessica Breland | 562 |
-| 139 | **A'ja Wilson** 🔴 +1 | 555 |
+| 139 | **A'ja Wilson** 🔴 +2 | 556 |
 | 140 | Dawn Staley | 551 |
 | 141 | Glory Johnson | 550 |
 | 141 | **Jackie Young** 🔴 +2 | 550 |
