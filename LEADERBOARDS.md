@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-24 00:57 UTC_
+_Last updated: 2026-08-24 00:58 UTC_
 
 ## Contents
 
@@ -186,7 +186,7 @@ _Last updated: 2026-08-24 00:57 UTC_
 | 165 | Chiney Ogwumike | 1,964 |
 | 166 | **Myisha Hines-Allen** 🔴 +5 | 1,961 |
 | 167 | Nicole Ohlde | 1,959 |
-| 168 | **Isabelle Harrison** 🔴 +11 | 1,943 |
+| 168 | **Isabelle Harrison** 🔴 +12 | 1,944 |
 | 169 | Kedra Holland-Corn | 1,938 |
 | 170 | Cathrine Kraayeveld | 1,926 |
 | 171 | Roneeka Hodges | 1,925 |
@@ -993,8 +993,8 @@ _Last updated: 2026-08-24 00:57 UTC_
 | 147 | Jennifer Gillom | 220 |
 | 149 | Allison Feaster | 219 |
 | 149 | Kahleah Copper | 219 |
-| 151 | **Cheyenne Parker-Tyus** 🔴 | 217 |
-| 151 | Shenise Johnson | 217 |
+| 151 | **Cheyenne Parker-Tyus** 🔴 +1 | 218 |
+| 152 | Shenise Johnson | 217 |
 | 153 | Adrian Williams-Strong | 216 |
 | 153 | Moriah Jefferson | 216 |
 | 155 | Asjha Jones | 215 |
