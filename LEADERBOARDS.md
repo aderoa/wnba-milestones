@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-25 02:34 UTC_
+_Last updated: 2026-08-25 02:35 UTC_
 
 ## Contents
 
@@ -69,7 +69,7 @@ _Last updated: 2026-08-25 02:34 UTC_
 | 48 | Courtney Vandersloot | 4,362 |
 | 49 | Jonquel Jones | 4,353 |
 | 50 | Courtney Williams | 4,350 |
-| 51 | **Dearica Hamby** 🔴 +4 | 4,334 |
+| 51 | **Dearica Hamby** 🔴 +5 | 4,335 |
 | 52 | Sophia Young-Malcolm | 4,300 |
 | 53 | Plenette Pierson | 4,258 |
 | 54 | Monique Currie | 4,253 |
@@ -455,7 +455,7 @@ _Last updated: 2026-08-25 02:34 UTC_
 | 23 | Teresa Weatherspoon | 1,333 |
 | 24 | Kristi Toliver | 1,301 |
 | 25 | Kelsey Plum | 1,270 |
-| 26 | **Jordin Canada** 🔴 +1 | 1,263 |
+| 26 | **Jordin Canada** 🔴 +2 | 1,264 |
 | 27 | Katie Smith | 1,258 |
 | 28 | Odyssey Sims | 1,228 |
 | 29 | Vickie Johnson | 1,202 |
@@ -785,11 +785,11 @@ _Last updated: 2026-08-25 02:34 UTC_
 | 147 | Tiffany Hayes | 89 |
 | 149 | Marissa Coleman | 88 |
 | 150 | Astou Ndiaye-Diatta | 86 |
-| 150 | **Cameron Brink** 🔴 +4 | 86 |
-| 152 | Adrian Williams-Strong | 85 |
-| 152 | Erlana Larkins | 85 |
-| 152 | Kalani Brown | 85 |
-| 152 | Kristin Folkl | 85 |
+| 151 | Adrian Williams-Strong | 85 |
+| 151 | **Cameron Brink** 🔴 +3 | 85 |
+| 151 | Erlana Larkins | 85 |
+| 151 | Kalani Brown | 85 |
+| 151 | Kristin Folkl | 85 |
 | 156 | Charde Houston | 84 |
 | 156 | Marina Mabrey | 84 |
 | 156 | Shatori Walker-Kimbrough | 84 |
