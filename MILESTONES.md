@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-08-25 03:50 UTC
+
+- **Angel Reese** passed **Le'coe Willingham** for **#122** all-time in rebounds (career 1,055) — up from #124 entering today — _7:50 - 4th — ATL @ LA_
+
 ## 2026-08-25 02:31 UTC
 
 - **Cameron Brink** passed **Adrian Williams-Strong**, **Erlana Larkins**, **Kalani Brown**, and **Kristin Folkl** for **#151** all-time in blocks (career 86) — up from #159 entering today — _1:32 - 1st — ATL @ LA_

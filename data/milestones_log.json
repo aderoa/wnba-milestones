@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-08-25T03:50:00+00:00",
+    "text": "Angel Reese passed Le'coe Willingham for #122 all-time in rebounds (career 1,055) \u2014 up from #124 entering today \u2014 (7:50 - 4th \u2014 ATL @ LA)",
+    "kind": "rank_pass",
+    "player": "Angel Reese",
+    "stat": "rebounds",
+    "rank": 122,
+    "passed_players": [
+      "Le'coe Willingham"
+    ],
+    "new_total": 1055
+  },
+  {
     "ts": "2026-08-25T02:31:00+00:00",
     "text": "Cameron Brink passed Adrian Williams-Strong, Erlana Larkins, Kalani Brown, and Kristin Folkl for #151 all-time in blocks (career 86) \u2014 up from #159 entering today \u2014 (1:32 - 1st \u2014 ATL @ LA)",
     "kind": "rank_pass",
@@ -2980,17 +2992,5 @@
       "Erica Wheeler"
     ],
     "new_total": 883
-  },
-  {
-    "ts": "2026-07-08T01:23:00+00:00",
-    "text": "Sabrina Ionescu passed Layshia Clarendon for #93 all-time in turnovers (career 537) \u2014 up from #96 entering today \u2014 (5:49 - 3rd \u2014 DAL @ NY)",
-    "kind": "rank_pass",
-    "player": "Sabrina Ionescu",
-    "stat": "turnovers",
-    "rank": 93,
-    "passed_players": [
-      "Layshia Clarendon"
-    ],
-    "new_total": 537
   }
 ]
