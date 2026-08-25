@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-25 04:07 UTC_
+_Last updated: 2026-08-25 04:08 UTC_
 
 ## Contents
 
@@ -94,7 +94,7 @@ _Last updated: 2026-08-25 04:07 UTC_
 | 73 | Jasmine Thomas | 3,522 |
 | 74 | Tamecka Dixon | 3,507 |
 | 75 | Tammy Sutton-Brown | 3,498 |
-| 76 | **Ariel Atkins** 🔴 +7 | 3,488 |
+| 76 | **Ariel Atkins** 🔴 +10 | 3,491 |
 | 77 | Sancho Lyttle | 3,478 |
 | 78 | Ivory Latta | 3,447 |
 | 79 | Nicole Powell | 3,407 |
@@ -345,7 +345,7 @@ _Last updated: 2026-08-25 04:07 UTC_
 | 119 | Isabelle Harrison | 1,097 |
 | 120 | Jackie Young | 1,085 |
 | 121 | Svetlana Abrosimova | 1,078 |
-| 122 | **Angel Reese** 🔴 +22 | 1,057 |
+| 122 | **Angel Reese** 🔴 +23 | 1,058 |
 | 123 | Le'coe Willingham | 1,054 |
 | 124 | Nicole Ohlde | 1,040 |
 | 125 | Tamecka Dixon | 1,035 |
@@ -784,8 +784,8 @@ _Last updated: 2026-08-25 04:07 UTC_
 | 147 | Natasha Cloud | 89 |
 | 147 | Tiffany Hayes | 89 |
 | 149 | Marissa Coleman | 88 |
-| 150 | Astou Ndiaye-Diatta | 86 |
-| 150 | **Cameron Brink** 🔴 +4 | 86 |
+| 150 | **Cameron Brink** 🔴 +5 | 87 |
+| 151 | Astou Ndiaye-Diatta | 86 |
 | 152 | Adrian Williams-Strong | 85 |
 | 152 | Erlana Larkins | 85 |
 | 152 | Kalani Brown | 85 |
@@ -1076,8 +1076,8 @@ _Last updated: 2026-08-25 04:07 UTC_
 | 26 | Breanna Stewart | 465 |
 | 27 | Cappie Pondexter | 464 |
 | 28 | **Allisha Gray** 🔴 +2 | 460 |
-| 29 | **Ariel Atkins** 🔴 +1 | 456 |
-| 29 | Tiffany Hayes | 456 |
+| 29 | **Ariel Atkins** 🔴 +2 | 457 |
+| 30 | Tiffany Hayes | 456 |
 | 31 | Chelsea Gray | 450 |
 | 32 | Skylar Diggins | 447 |
 | 33 | Lauren Jackson | 436 |

@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-08-25T04:08:00+00:00",
+    "text": "Cameron Brink passed Astou Ndiaye-Diatta for #150 all-time in blocks (career 87) \u2014 up from #159 entering today \u2014 (2:16 - 4th \u2014 ATL @ LA)",
+    "kind": "rank_pass",
+    "player": "Cameron Brink",
+    "stat": "blocks",
+    "rank": 150,
+    "passed_players": [
+      "Astou Ndiaye-Diatta"
+    ],
+    "new_total": 87
+  },
+  {
     "ts": "2026-08-25T03:50:00+00:00",
     "text": "Angel Reese passed Le'coe Willingham for #122 all-time in rebounds (career 1,055) \u2014 up from #124 entering today \u2014 (7:50 - 4th \u2014 ATL @ LA)",
     "kind": "rank_pass",
@@ -2980,17 +2992,5 @@
       "Allie Quigley"
     ],
     "new_total": 703
-  },
-  {
-    "ts": "2026-07-08T01:38:00+00:00",
-    "text": "Alanna Smith passed Erica Wheeler for #155 all-time in rebounds (career 883) \u2014 up from #156 entering today \u2014 (End of 3rd \u2014 DAL @ NY)",
-    "kind": "rank_pass",
-    "player": "Alanna Smith",
-    "stat": "rebounds",
-    "rank": 155,
-    "passed_players": [
-      "Erica Wheeler"
-    ],
-    "new_total": 883
   }
 ]
