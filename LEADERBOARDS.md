@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-25 03:50 UTC_
+_Last updated: 2026-08-25 03:51 UTC_
 
 ## Contents
 
@@ -129,7 +129,7 @@ _Last updated: 2026-08-25 03:50 UTC_
 | 108 | Ticha Penicheiro | 2,729 |
 | 109 | Adrienne Goodson | 2,705 |
 | 110 | Riquna Williams | 2,659 |
-| 111 | **Rhyne Howard** 🔴 +13 | 2,650 |
+| 111 | **Rhyne Howard** 🔴 +16 | 2,653 |
 | 112 | Essence Carson | 2,647 |
 | 112 | Lindsey Harding | 2,647 |
 | 114 | Cheyenne Parker-Tyus | 2,645 |
@@ -503,7 +503,7 @@ _Last updated: 2026-08-25 03:50 UTC_
 | 71 | Marina Mabrey | 801 |
 | 72 | Epiphanny Prince | 800 |
 | 73 | Mwadi Mabika | 774 |
-| 74 | **Allisha Gray** 🔴 +4 | 771 |
+| 74 | **Allisha Gray** 🔴 +5 | 772 |
 | 75 | Sheri Sam | 745 |
 | 76 | Monique Currie | 740 |
 | 77 | **Dearica Hamby** 🔴 +3 | 729 |
@@ -1083,7 +1083,7 @@ _Last updated: 2026-08-25 03:50 UTC_
 | 33 | Lauren Jackson | 436 |
 | 34 | Shameka Christon | 434 |
 | 35 | Crystal Robinson | 425 |
-| 36 | **Rhyne Howard** 🔴 +1 | 421 |
+| 36 | **Rhyne Howard** 🔴 +2 | 422 |
 | 37 | Mwadi Mabika | 415 |
 | 38 | Penny Taylor | 407 |
 | 38 | Riquna Williams | 407 |
