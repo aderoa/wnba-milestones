@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-25 03:53 UTC_
+_Last updated: 2026-08-25 03:54 UTC_
 
 ## Contents
 
@@ -1281,7 +1281,7 @@ _Last updated: 2026-08-25 03:53 UTC_
 | 26 | Natasha Howard | 846 |
 | 27 | DeWanna Bonner | 840 |
 | 28 | Katie Douglas | 824 |
-| 29 | **Nneka Ogwumike** 🔴 +3 | 806 |
+| 29 | **Nneka Ogwumike** 🔴 +4 | 807 |
 | 30 | Betty Lennox | 800 |
 | 31 | Jasmine Thomas | 796 |
 | 32 | Jewell Loyd | 795 |
