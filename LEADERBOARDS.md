@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-25 03:58 UTC_
+_Last updated: 2026-08-25 03:59 UTC_
 
 ## Contents
 
@@ -512,7 +512,7 @@ _Last updated: 2026-08-25 03:58 UTC_
 | 80 | Chamique Holdsclaw | 698 |
 | 81 | Shavonte Zellous | 693 |
 | 82 | Allie Quigley | 690 |
-| 83 | **Ariel Atkins** 🔴 +5 | 687 |
+| 83 | **Ariel Atkins** 🔴 +6 | 688 |
 | 84 | Moriah Jefferson | 685 |
 | 85 | Emma Meesseman | 681 |
 | 86 | Nykesha Sales | 677 |
