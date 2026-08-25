@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-25 03:55 UTC_
+_Last updated: 2026-08-25 03:56 UTC_
 
 ## Contents
 
@@ -227,7 +227,7 @@ _Last updated: 2026-08-25 03:55 UTC_
 | 1 | Tina Charles | 4,262 |
 | 2 | Sylvia Fowles | 4,005 |
 | 3 | Candace Parker | 3,467 |
-| 4 | **Nneka Ogwumike** 🔴 +13 | 3,419 |
+| 4 | **Nneka Ogwumike** 🔴 +14 | 3,420 |
 | 5 | Rebekkah Brunson | 3,345 |
 | 6 | Tamika Catchings | 3,313 |
 | 7 | Lisa Leslie | 3,303 |
@@ -345,7 +345,7 @@ _Last updated: 2026-08-25 03:55 UTC_
 | 119 | Isabelle Harrison | 1,097 |
 | 120 | Jackie Young | 1,085 |
 | 121 | Svetlana Abrosimova | 1,078 |
-| 122 | **Angel Reese** 🔴 +20 | 1,055 |
+| 122 | **Angel Reese** 🔴 +21 | 1,056 |
 | 123 | Le'coe Willingham | 1,054 |
 | 124 | Nicole Ohlde | 1,040 |
 | 125 | Tamecka Dixon | 1,035 |
@@ -450,8 +450,8 @@ _Last updated: 2026-08-25 03:55 UTC_
 | 18 | Temeka Johnson | 1,382 |
 | 19 | Jasmine Thomas | 1,355 |
 | 20 | Briann January | 1,339 |
-| 21 | Dawn Staley | 1,337 |
-| 21 | **Erica Wheeler** 🔴 +2 | 1,337 |
+| 21 | **Erica Wheeler** 🔴 +3 | 1,338 |
+| 22 | Dawn Staley | 1,337 |
 | 23 | Teresa Weatherspoon | 1,333 |
 | 24 | Kristi Toliver | 1,301 |
 | 25 | Kelsey Plum | 1,270 |
@@ -785,11 +785,11 @@ _Last updated: 2026-08-25 03:55 UTC_
 | 147 | Tiffany Hayes | 89 |
 | 149 | Marissa Coleman | 88 |
 | 150 | Astou Ndiaye-Diatta | 86 |
-| 151 | Adrian Williams-Strong | 85 |
-| 151 | **Cameron Brink** 🔴 +3 | 85 |
-| 151 | Erlana Larkins | 85 |
-| 151 | Kalani Brown | 85 |
-| 151 | Kristin Folkl | 85 |
+| 150 | **Cameron Brink** 🔴 +4 | 86 |
+| 152 | Adrian Williams-Strong | 85 |
+| 152 | Erlana Larkins | 85 |
+| 152 | Kalani Brown | 85 |
+| 152 | Kristin Folkl | 85 |
 | 156 | Charde Houston | 84 |
 | 156 | Marina Mabrey | 84 |
 | 156 | Shatori Walker-Kimbrough | 84 |
