@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-25 01:33 UTC_
+_Last updated: 2026-08-25 01:34 UTC_
 
 ## Contents
 
@@ -195,7 +195,7 @@ _Last updated: 2026-08-25 01:33 UTC_
 | 174 | Jessica Breland | 1,918 |
 | 175 | Nakia Sanford | 1,915 |
 | 176 | Ebony Hoffman | 1,909 |
-| 177 | **Gabby Williams** 🔴 +5 | 1,904 |
+| 177 | **Gabby Williams** 🔴 +7 | 1,906 |
 | 178 | Candice Wiggins | 1,901 |
 | 179 | NaLyssa Smith | 1,879 |
 | 180 | Rachel Banham | 1,843 |
@@ -316,8 +316,8 @@ _Last updated: 2026-08-25 01:33 UTC_
 | 90 | Myisha Hines-Allen | 1,265 |
 | 91 | Janel McCarville | 1,261 |
 | 92 | **Kayla McBride** 🔴 +3 | 1,259 |
-| 93 | Liz Cambage | 1,258 |
-| 93 | **Tiffany Hayes** 🔴 +1 | 1,258 |
+| 92 | **Tiffany Hayes** 🔴 +2 | 1,259 |
+| 94 | Liz Cambage | 1,258 |
 | 95 | Chelsea Gray | 1,257 |
 | 96 | Brianna Turner | 1,243 |
 | 96 | Ezi Magbegor | 1,243 |
@@ -476,8 +476,8 @@ _Last updated: 2026-08-25 01:33 UTC_
 | 44 | **Kayla McBride** 🔴 +3 | 995 |
 | 45 | Nikki Teasley | 982 |
 | 46 | Breanna Stewart | 981 |
-| 47 | Tamecka Dixon | 960 |
-| 47 | **Tiffany Hayes** 🔴 +3 | 960 |
+| 47 | **Tiffany Hayes** 🔴 +4 | 961 |
+| 48 | Tamecka Dixon | 960 |
 | 49 | Kara Lawson | 946 |
 | 50 | Arike Ogunbowale | 944 |
 | 51 | Nneka Ogwumike | 933 |
