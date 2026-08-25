@@ -1,5 +1,20 @@
 [
   {
+    "ts": "2026-08-25T02:31:00+00:00",
+    "text": "Cameron Brink passed Adrian Williams-Strong, Erlana Larkins, Kalani Brown, and Kristin Folkl for #151 all-time in blocks (career 86) \u2014 up from #159 entering today \u2014 (1:32 - 1st \u2014 ATL @ LA)",
+    "kind": "rank_pass",
+    "player": "Cameron Brink",
+    "stat": "blocks",
+    "rank": 151,
+    "passed_players": [
+      "Adrian Williams-Strong",
+      "Erlana Larkins",
+      "Kalani Brown",
+      "Kristin Folkl"
+    ],
+    "new_total": 86
+  },
+  {
     "ts": "2026-08-24T01:10:00+00:00",
     "text": "Bridget Carleton passed Bridget Pettis for #192 all-time in steals (career 178) \u2014 up from #199 entering today \u2014 (35.9 - 4th \u2014 WSH @ POR)",
     "kind": "rank_pass",
@@ -2977,17 +2992,5 @@
       "Layshia Clarendon"
     ],
     "new_total": 537
-  },
-  {
-    "ts": "2026-07-08T00:18:00+00:00",
-    "text": "Odyssey Sims passed Mwadi Mabika for #67 all-time in points (career 3,578) \u2014 up from #68 entering today \u2014 (1:18 - 1st \u2014 DAL @ NY)",
-    "kind": "rank_pass",
-    "player": "Odyssey Sims",
-    "stat": "points",
-    "rank": 67,
-    "passed_players": [
-      "Mwadi Mabika"
-    ],
-    "new_total": 3578
   }
 ]
