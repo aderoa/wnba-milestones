@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-25 02:55 UTC_
+_Last updated: 2026-08-25 02:56 UTC_
 
 ## Contents
 
@@ -227,7 +227,7 @@ _Last updated: 2026-08-25 02:55 UTC_
 | 1 | Tina Charles | 4,262 |
 | 2 | Sylvia Fowles | 4,005 |
 | 3 | Candace Parker | 3,467 |
-| 4 | **Nneka Ogwumike** 🔴 +7 | 3,413 |
+| 4 | **Nneka Ogwumike** 🔴 +8 | 3,414 |
 | 5 | Rebekkah Brunson | 3,345 |
 | 6 | Tamika Catchings | 3,313 |
 | 7 | Lisa Leslie | 3,303 |
@@ -346,7 +346,7 @@ _Last updated: 2026-08-25 02:55 UTC_
 | 120 | Jackie Young | 1,085 |
 | 121 | Svetlana Abrosimova | 1,078 |
 | 122 | Le'coe Willingham | 1,054 |
-| 123 | **Angel Reese** 🔴 +10 | 1,045 |
+| 123 | **Angel Reese** 🔴 +11 | 1,046 |
 | 124 | Nicole Ohlde | 1,040 |
 | 125 | Tamecka Dixon | 1,035 |
 | 126 | Kamila Vodichkova | 1,031 |
@@ -1370,7 +1370,7 @@ _Last updated: 2026-08-25 02:55 UTC_
 | 115 | Erika de Souza | 483 |
 | 116 | Sophia Young-Malcolm | 482 |
 | 117 | Natalie Williams | 480 |
-| 118 | **Allisha Gray** 🔴 | 476 |
+| 118 | **Allisha Gray** 🔴 +1 | 477 |
 | 119 | Ebony Hoffman | 470 |
 | 120 | Elaine Powell | 469 |
 | 121 | Allie Quigley | 467 |
@@ -1527,8 +1527,8 @@ _Last updated: 2026-08-25 02:55 UTC_
 | 67 | Sheri Sam | 766 |
 | 68 | Kahleah Copper | 758 |
 | 69 | Kia Vaughn | 755 |
-| 70 | **Allisha Gray** 🔴 | 752 |
-| 70 | Vickie Johnson | 752 |
+| 70 | **Allisha Gray** 🔴 +1 | 753 |
+| 71 | Vickie Johnson | 752 |
 | 72 | Kara Braxton | 748 |
 | 73 | Crystal Langhorne | 737 |
 | 74 | Shameka Christon | 734 |
