@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-25 01:59 UTC_
+_Last updated: 2026-08-25 02:00 UTC_
 
 ## Contents
 
@@ -1237,8 +1237,8 @@ _Last updated: 2026-08-25 01:59 UTC_
 | 187 | Gordana Grubin | 114 |
 | 187 | Rickea Jackson | 114 |
 | 187 | Sandy Brondello | 114 |
+| 190 | **Cecilia Zandalasini** 🔴 +2 | 113 |
 | 190 | **Janelle Salaun** 🔴 +2 | 113 |
-| 191 | **Cecilia Zandalasini** 🔴 +1 | 112 |
 | 192 | Shoni Schimmel | 111 |
 | 193 | Emma Meesseman | 109 |
 | 193 | Scholanda Dorrell | 109 |
@@ -1278,7 +1278,7 @@ _Last updated: 2026-08-25 01:59 UTC_
 | 23 | Taj McWilliams-Franklin | 898 |
 | 24 | Candice Dupree | 869 |
 | 25 | Alana Beard | 854 |
-| 26 | **Natasha Howard** 🔴 +2 | 845 |
+| 26 | **Natasha Howard** 🔴 +3 | 846 |
 | 27 | DeWanna Bonner | 840 |
 | 28 | Katie Douglas | 824 |
 | 29 | Nneka Ogwumike | 803 |
@@ -1469,7 +1469,7 @@ _Last updated: 2026-08-25 01:59 UTC_
 | 9 | Tammy Sutton-Brown | 1,193 |
 | 10 | Plenette Pierson | 1,175 |
 | 11 | Chasity Melvin | 1,165 |
-| 12 | **Natasha Howard** 🔴 +2 | 1,160 |
+| 12 | **Natasha Howard** 🔴 +3 | 1,161 |
 | 13 | Camille Smith | 1,159 |
 | 14 | Nneka Ogwumike | 1,156 |
 | 15 | Alana Beard | 1,153 |
