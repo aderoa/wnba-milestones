@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-25 01:53 UTC_
+_Last updated: 2026-08-25 01:54 UTC_
 
 ## Contents
 
@@ -374,7 +374,7 @@ _Last updated: 2026-08-25 01:53 UTC_
 | 148 | Nicky Anosike | 922 |
 | 149 | Janeth Arcain | 916 |
 | 150 | Karima Christmas-Kelly | 908 |
-| 151 | **Nia Coffey** 🔴 +2 | 905 |
+| 151 | **Nia Coffey** 🔴 +3 | 906 |
 | 152 | Natalie Achonwa | 895 |
 | 153 | Temeka Johnson | 889 |
 | 154 | Mistie Bass | 888 |
@@ -532,7 +532,7 @@ _Last updated: 2026-08-25 01:53 UTC_
 | 100 | **Natasha Howard** 🔴 +1 | 616 |
 | 101 | Debbie Black | 612 |
 | 102 | Cynthia Cooper | 602 |
-| 103 | **Gabby Williams** 🔴 +3 | 594 |
+| 103 | **Gabby Williams** 🔴 +4 | 595 |
 | 104 | Sancho Lyttle | 592 |
 | 105 | Caitlin Clark | 591 |
 | 106 | Betnijah Laney-Hamilton | 590 |
@@ -696,8 +696,8 @@ _Last updated: 2026-08-25 01:53 UTC_
 | 57 | Murriel Page | 193 |
 | 60 | Kelly Schumacher | 183 |
 | 61 | Maria Stepanova | 182 |
-| 62 | Courtney Paris | 178 |
-| 62 | **Nia Coffey** 🔴 +1 | 178 |
+| 62 | **Nia Coffey** 🔴 +2 | 179 |
+| 63 | Courtney Paris | 178 |
 | 64 | Vanessa Hayden | 177 |
 | 65 | Maya Moore | 176 |
 | 66 | Kia Vaughn | 175 |
@@ -1238,8 +1238,8 @@ _Last updated: 2026-08-25 01:53 UTC_
 | 187 | Rickea Jackson | 114 |
 | 187 | Sandy Brondello | 114 |
 | 190 | **Janelle Salaun** 🔴 +2 | 113 |
-| 191 | **Cecilia Zandalasini** 🔴 | 111 |
-| 191 | Shoni Schimmel | 111 |
+| 191 | **Cecilia Zandalasini** 🔴 +1 | 112 |
+| 192 | Shoni Schimmel | 111 |
 | 193 | Emma Meesseman | 109 |
 | 193 | Scholanda Dorrell | 109 |
 | 195 | Belinda Snell | 108 |
@@ -1451,7 +1451,7 @@ _Last updated: 2026-08-25 01:53 UTC_
 | 196 | Crystal Robinson | 299 |
 | 197 | **Kayla Thornton** 🔴 | 298 |
 | 198 | Michele Timms | 297 |
-| 199 | **Nia Coffey** 🔴 +2 | 291 |
+| 199 | **Nia Coffey** 🔴 +3 | 292 |
 | 200 | Damiris Dantas | 289 |
 
 ## Personal fouls
@@ -1469,8 +1469,8 @@ _Last updated: 2026-08-25 01:53 UTC_
 | 9 | Tammy Sutton-Brown | 1,193 |
 | 10 | Plenette Pierson | 1,175 |
 | 11 | Chasity Melvin | 1,165 |
-| 12 | Camille Smith | 1,159 |
-| 12 | **Natasha Howard** 🔴 +1 | 1,159 |
+| 12 | **Natasha Howard** 🔴 +2 | 1,160 |
+| 13 | Camille Smith | 1,159 |
 | 14 | Nneka Ogwumike | 1,156 |
 | 15 | Alana Beard | 1,153 |
 | 16 | Swin Cash | 1,146 |
