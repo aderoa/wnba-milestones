@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-26 00:15 UTC_
+_Last updated: 2026-08-26 00:16 UTC_
 
 ## Contents
 
@@ -792,10 +792,10 @@ _Last updated: 2026-08-26 00:15 UTC_
 | 155 | Charde Houston | 84 |
 | 155 | Marina Mabrey | 84 |
 | 155 | Shatori Walker-Kimbrough | 84 |
+| 158 | **Awak Kuier** 🔴 +3 | 83 |
 | 158 | Tamera Young | 83 |
-| 159 | **Awak Kuier** 🔴 +2 | 82 |
-| 159 | Cameron Brink | 82 |
-| 159 | Damiris Dantas | 82 |
+| 160 | Cameron Brink | 82 |
+| 160 | Damiris Dantas | 82 |
 | 162 | Charlotte Smith | 81 |
 | 162 | Cintia dos Santos | 81 |
 | 162 | Jessie Hicks | 81 |
