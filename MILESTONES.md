@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-08-26 03:38 UTC
+
+- **Natasha Mack** passed **Brionna Jones** for **#102** all-time in blocks (career 126) — up from #104 entering today — _7:38 - 4th — WSH @ PHX_
+
 ## 2026-08-26 03:32 UTC
 
 - **Natasha Mack** reached **500** career points (now 501) — _9:26 - 4th — WSH @ PHX_
