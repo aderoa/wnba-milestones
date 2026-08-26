@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-26 02:17 UTC_
+_Last updated: 2026-08-26 02:18 UTC_
 
 ## Contents
 
@@ -154,7 +154,7 @@ _Last updated: 2026-08-26 02:17 UTC_
 | 133 | Alex Bentley | 2,350 |
 | 134 | Jordin Canada | 2,342 |
 | 135 | Merlakia Jones | 2,308 |
-| 136 | **Betnijah Laney-Hamilton** 🔴 +2 | 2,304 |
+| 136 | **Betnijah Laney-Hamilton** 🔴 +4 | 2,306 |
 | 137 | Satou Sabally | 2,296 |
 | 138 | Kia Vaughn | 2,288 |
 | 139 | Kia Nurse | 2,262 |
@@ -533,10 +533,10 @@ _Last updated: 2026-08-26 02:17 UTC_
 | 101 | Debbie Black | 612 |
 | 102 | Cynthia Cooper | 602 |
 | 103 | Sancho Lyttle | 592 |
+| 104 | **Betnijah Laney-Hamilton** 🔴 +1 | 591 |
 | 104 | Caitlin Clark | 591 |
 | 104 | Gabby Williams | 591 |
-| 106 | **Betnijah Laney-Hamilton** 🔴 | 590 |
-| 106 | Camille Smith | 590 |
+| 107 | Camille Smith | 590 |
 | 108 | Armintie Herrington | 589 |
 | 109 | Veronica Burton | 579 |
 | 110 | Tan White | 578 |
