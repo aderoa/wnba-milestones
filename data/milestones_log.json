@@ -1,5 +1,14 @@
 [
   {
+    "ts": "2026-08-26T00:33:00+00:00",
+    "text": "Aaliyah Edwards reached 600 career points (now 600) \u2014 (End of 3rd \u2014 CHI @ CON)",
+    "kind": "round",
+    "player": "Aaliyah Edwards",
+    "stat": "points",
+    "value": 600,
+    "new_total": 600
+  },
+  {
     "ts": "2026-08-25T04:08:00+00:00",
     "text": "Cameron Brink passed Astou Ndiaye-Diatta for #150 all-time in blocks (career 87) \u2014 up from #159 entering today \u2014 (2:16 - 4th \u2014 ATL @ LA)",
     "kind": "rank_pass",
@@ -2980,17 +2989,5 @@
       "Julie Allemand"
     ],
     "new_total": 445
-  },
-  {
-    "ts": "2026-07-08T01:45:00+00:00",
-    "text": "Rebecca Allen passed Allie Quigley for #200 all-time in rebounds (career 703) \u2014 new to top 200 today \u2014 (7:33 - 4th \u2014 DAL @ NY)",
-    "kind": "rank_pass",
-    "player": "Rebecca Allen",
-    "stat": "rebounds",
-    "rank": 200,
-    "passed_players": [
-      "Allie Quigley"
-    ],
-    "new_total": 703
   }
 ]

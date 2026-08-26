@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-08-26 00:33 UTC
+
+- **Aaliyah Edwards** reached **600** career points (now 600) — _End of 3rd — CHI @ CON_
+
 ## 2026-08-25 04:08 UTC
 
 - **Cameron Brink** passed **Astou Ndiaye-Diatta** for **#150** all-time in blocks (career 87) — up from #159 entering today — _2:16 - 4th — ATL @ LA_
