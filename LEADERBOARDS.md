@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-26 23:11 UTC_
+_Last updated: 2026-08-26 23:12 UTC_
 
 ## Contents
 
@@ -532,9 +532,9 @@ _Last updated: 2026-08-26 23:11 UTC_
 | 100 | Natasha Howard | 615 |
 | 101 | Debbie Black | 612 |
 | 102 | Cynthia Cooper | 602 |
+| 103 | **Gabby Williams** 🔴 +1 | 592 |
 | 103 | Sancho Lyttle | 592 |
-| 104 | Caitlin Clark | 591 |
-| 104 | **Gabby Williams** 🔴 | 591 |
+| 105 | Caitlin Clark | 591 |
 | 106 | Betnijah Laney-Hamilton | 590 |
 | 106 | Camille Smith | 590 |
 | 108 | Armintie Herrington | 589 |
@@ -832,12 +832,12 @@ _Last updated: 2026-08-26 23:11 UTC_
 | 193 | Satou Sabally | 69 |
 | 196 | Shannon Johnson | 67 |
 | 196 | **Veronica Burton** 🔴 | 67 |
+| 198 | **Gabby Williams** 🔴 +1 | 66 |
 | 198 | **Kennedy Burke** 🔴 | 66 |
-| 199 | Crystal Robinson | 65 |
-| 199 | **Gabby Williams** 🔴 | 65 |
-| 199 | Queen Egbo | 65 |
-| 199 | Riquna Williams | 65 |
-| 199 | Sabrina Ionescu | 65 |
+| 200 | Crystal Robinson | 65 |
+| 200 | Queen Egbo | 65 |
+| 200 | Riquna Williams | 65 |
+| 200 | Sabrina Ionescu | 65 |
 
 ## Steals
 
