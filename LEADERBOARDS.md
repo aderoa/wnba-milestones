@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-26 01:18 UTC_
+_Last updated: 2026-08-26 01:19 UTC_
 
 ## Contents
 
@@ -287,7 +287,7 @@ _Last updated: 2026-08-26 01:18 UTC_
 | 61 | Cappie Pondexter | 1,513 |
 | 62 | Napheesa Collier | 1,510 |
 | 63 | Ticha Penicheiro | 1,485 |
-| 64 | **Alysha Clark** 🔴 +1 | 1,470 |
+| 64 | **Alysha Clark** 🔴 +2 | 1,471 |
 | 65 | Sue Bird | 1,466 |
 | 66 | Cheyenne Parker-Tyus | 1,463 |
 | 67 | Nicole Powell | 1,457 |
@@ -571,7 +571,7 @@ _Last updated: 2026-08-26 01:18 UTC_
 | 139 | Erin Phillips | 462 |
 | 140 | Sylvia Fowles | 461 |
 | 141 | Tyasha Harris | 460 |
-| 142 | **Sug Sutton** 🔴 | 456 |
+| 142 | **Sug Sutton** 🔴 +1 | 457 |
 | 143 | Sydney Colson | 454 |
 | 144 | Yolanda Griffith | 451 |
 | 145 | Elena Delle Donne | 450 |
@@ -786,13 +786,13 @@ _Last updated: 2026-08-26 01:18 UTC_
 | 149 | Marissa Coleman | 88 |
 | 150 | Astou Ndiaye-Diatta | 86 |
 | 151 | Adrian Williams-Strong | 85 |
+| 151 | **Awak Kuier** 🔴 +5 | 85 |
 | 151 | Erlana Larkins | 85 |
 | 151 | Kalani Brown | 85 |
 | 151 | Kristin Folkl | 85 |
-| 155 | **Awak Kuier** 🔴 +4 | 84 |
-| 155 | Charde Houston | 84 |
-| 155 | Marina Mabrey | 84 |
-| 155 | Shatori Walker-Kimbrough | 84 |
+| 156 | Charde Houston | 84 |
+| 156 | Marina Mabrey | 84 |
+| 156 | Shatori Walker-Kimbrough | 84 |
 | 159 | Tamera Young | 83 |
 | 160 | Cameron Brink | 82 |
 | 160 | Damiris Dantas | 82 |
