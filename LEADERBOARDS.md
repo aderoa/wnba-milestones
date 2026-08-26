@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-26 02:04 UTC_
+_Last updated: 2026-08-26 02:05 UTC_
 
 ## Contents
 
@@ -52,7 +52,7 @@ _Last updated: 2026-08-26 02:04 UTC_
 | 31 | Taj McWilliams-Franklin | 4,992 |
 | 32 | Maya Moore | 4,984 |
 | 33 | Sheryl Swoopes | 4,875 |
-| 34 | **Alyssa Thomas** 🔴 | 4,752 |
+| 34 | **Alyssa Thomas** 🔴 +2 | 4,754 |
 | 35 | Alana Beard | 4,740 |
 | 36 | Arike Ogunbowale | 4,732 |
 | 37 | Chamique Holdsclaw | 4,713 |
@@ -527,7 +527,7 @@ _Last updated: 2026-08-26 02:04 UTC_
 | 95 | Alex Bentley | 645 |
 | 96 | Asjha Jones | 637 |
 | 97 | Jennifer Azzi | 636 |
-| 98 | **Sami Whitcomb** 🔴 | 623 |
+| 98 | **Sami Whitcomb** 🔴 +1 | 624 |
 | 99 | Alysha Clark | 619 |
 | 100 | Natasha Howard | 615 |
 | 101 | Debbie Black | 612 |
@@ -1194,7 +1194,7 @@ _Last updated: 2026-08-26 02:04 UTC_
 | 143 | Gabby Williams | 153 |
 | 143 | Jennifer Gillom | 153 |
 | 143 | Katie Lou Samuelson | 153 |
-| 147 | **Michaela Onyenwere** 🔴 | 151 |
+| 147 | **Michaela Onyenwere** 🔴 +1 | 152 |
 | 148 | Rita Williams | 150 |
 | 149 | Moriah Jefferson | 149 |
 | 149 | Tiffany Mitchell | 149 |
