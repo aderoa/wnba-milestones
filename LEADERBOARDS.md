@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-26 00:08 UTC_
+_Last updated: 2026-08-26 00:09 UTC_
 
 ## Contents
 
@@ -66,7 +66,7 @@ _Last updated: 2026-08-26 00:08 UTC_
 | 45 | Kahleah Copper | 4,437 |
 | 46 | Crystal Langhorne | 4,433 |
 | 46 | Jia Perkins | 4,433 |
-| 48 | **Courtney Vandersloot** 🔴 +2 | 4,364 |
+| 48 | **Courtney Vandersloot** 🔴 +5 | 4,367 |
 | 49 | Jonquel Jones | 4,353 |
 | 50 | Courtney Williams | 4,350 |
 | 51 | Dearica Hamby | 4,330 |
@@ -737,7 +737,7 @@ _Last updated: 2026-08-26 00:08 UTC_
 | 100 | Katie Douglas | 126 |
 | 100 | Mistie Bass | 126 |
 | 102 | Brionna Jones | 125 |
-| 103 | **Kamilla Cardoso** 🔴 | 124 |
+| 102 | **Kamilla Cardoso** 🔴 +1 | 125 |
 | 104 | Natasha Mack | 123 |
 | 105 | Natalie Williams | 122 |
 | 106 | Ebony Hoffman | 121 |
@@ -1092,7 +1092,7 @@ _Last updated: 2026-08-26 00:08 UTC_
 | 42 | **Rachel Banham** 🔴 | 390 |
 | 43 | Jonquel Jones | 389 |
 | 43 | Roneeka Hodges | 389 |
-| 45 | **Courtney Vandersloot** 🔴 | 386 |
+| 45 | **Courtney Vandersloot** 🔴 +1 | 387 |
 | 46 | Briann January | 381 |
 | 47 | Jasmine Thomas | 376 |
 | 48 | Allison Feaster | 372 |
@@ -1632,7 +1632,7 @@ _Last updated: 2026-08-26 00:08 UTC_
 | 170 | Napheesa Collier | 504 |
 | 173 | Iziane Castro Marques | 502 |
 | 174 | Elena Baranova | 501 |
-| 175 | **Azurá Stevens** 🔴 +3 | 498 |
+| 175 | **Azurá Stevens** 🔴 +4 | 499 |
 | 176 | Adrian Williams-Strong | 497 |
 | 176 | Essence Carson | 497 |
 | 176 | **Rachel Banham** 🔴 | 497 |
