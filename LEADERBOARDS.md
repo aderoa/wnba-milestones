@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-26 00:13 UTC_
+_Last updated: 2026-08-26 00:14 UTC_
 
 ## Contents
 
@@ -479,7 +479,7 @@ _Last updated: 2026-08-26 00:13 UTC_
 | 47 | Tamecka Dixon | 960 |
 | 48 | Tiffany Hayes | 957 |
 | 49 | Kara Lawson | 946 |
-| 50 | **Arike Ogunbowale** 🔴 | 944 |
+| 50 | **Arike Ogunbowale** 🔴 +1 | 945 |
 | 51 | Nneka Ogwumike | 933 |
 | 52 | Deanna Nolan | 930 |
 | 53 | Kelly Miller | 927 |
@@ -793,12 +793,12 @@ _Last updated: 2026-08-26 00:13 UTC_
 | 155 | Marina Mabrey | 84 |
 | 155 | Shatori Walker-Kimbrough | 84 |
 | 158 | Tamera Young | 83 |
+| 159 | **Awak Kuier** 🔴 +2 | 82 |
 | 159 | Cameron Brink | 82 |
 | 159 | Damiris Dantas | 82 |
-| 161 | **Awak Kuier** 🔴 +1 | 81 |
-| 161 | Charlotte Smith | 81 |
-| 161 | Cintia dos Santos | 81 |
-| 161 | Jessie Hicks | 81 |
+| 162 | Charlotte Smith | 81 |
+| 162 | Cintia dos Santos | 81 |
+| 162 | Jessie Hicks | 81 |
 | 165 | Nykesha Sales | 80 |
 | 165 | Rushia Brown | 80 |
 | 167 | Stephanie Talbot | 79 |
@@ -1117,8 +1117,8 @@ _Last updated: 2026-08-26 00:13 UTC_
 | 67 | DeLisha Milton-Jones | 312 |
 | 67 | Ruthie Bolton | 312 |
 | 69 | Tan White | 311 |
-| 70 | **Bridget Carleton** 🔴 +1 | 307 |
-| 70 | Kedra Holland-Corn | 307 |
+| 70 | **Bridget Carleton** 🔴 +2 | 308 |
+| 71 | Kedra Holland-Corn | 307 |
 | 72 | Kelly Miller | 305 |
 | 73 | Nikki Teasley | 304 |
 | 74 | Kayla Thornton | 300 |
