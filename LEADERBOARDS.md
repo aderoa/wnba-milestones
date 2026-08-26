@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-26 02:14 UTC_
+_Last updated: 2026-08-26 02:15 UTC_
 
 ## Contents
 
@@ -60,7 +60,7 @@ _Last updated: 2026-08-26 02:14 UTC_
 | 39 | Natasha Howard | 4,682 |
 | 40 | Chelsea Gray | 4,625 |
 | 41 | Penny Taylor | 4,595 |
-| 42 | Kelsey Plum | 4,494 |
+| 42 | **Kelsey Plum** 🔴 | 4,494 |
 | 43 | Allisha Gray | 4,491 |
 | 44 | Kristi Toliver | 4,474 |
 | 45 | **Kahleah Copper** 🔴 +2 | 4,439 |
@@ -414,7 +414,7 @@ _Last updated: 2026-08-26 02:14 UTC_
 | 188 | Layshia Clarendon | 756 |
 | 189 | Brooke Wyckoff | 751 |
 | 190 | Coco Miller | 750 |
-| 191 | Kelsey Plum | 741 |
+| 191 | **Kelsey Plum** 🔴 | 741 |
 | 192 | Alex Montgomery | 735 |
 | 193 | Ashley Robinson | 734 |
 | 194 | Shenise Johnson | 729 |
@@ -454,7 +454,7 @@ _Last updated: 2026-08-26 02:14 UTC_
 | 22 | Erica Wheeler | 1,335 |
 | 23 | Teresa Weatherspoon | 1,333 |
 | 24 | Kristi Toliver | 1,301 |
-| 25 | Kelsey Plum | 1,270 |
+| 25 | **Kelsey Plum** 🔴 | 1,270 |
 | 26 | Jordin Canada | 1,262 |
 | 27 | Katie Smith | 1,258 |
 | 28 | Odyssey Sims | 1,228 |
@@ -742,7 +742,7 @@ _Last updated: 2026-08-26 02:14 UTC_
 | 105 | Natalie Williams | 122 |
 | 106 | Ebony Hoffman | 121 |
 | 106 | Essence Carson | 121 |
-| 108 | **Shakira Austin** 🔴 | 119 |
+| 108 | **Shakira Austin** 🔴 +1 | 120 |
 | 109 | Krystal Thomas | 118 |
 | 110 | Andrea Stinson | 117 |
 | 110 | Crystal Langhorne | 117 |
@@ -956,7 +956,7 @@ _Last updated: 2026-08-26 02:14 UTC_
 | 110 | Natalie Williams | 270 |
 | 110 | Nicky Anosike | 270 |
 | 113 | Crystal Robinson | 267 |
-| 113 | Kelsey Plum | 267 |
+| 113 | **Kelsey Plum** 🔴 | 267 |
 | 115 | Anna DeForge | 266 |
 | 116 | Brionna Jones | 265 |
 | 117 | Michelle Snow | 262 |
@@ -1059,7 +1059,7 @@ _Last updated: 2026-08-26 02:14 UTC_
 | 9 | Jewell Loyd | 695 |
 | 10 | DeWanna Bonner | 682 |
 | 11 | Kristi Toliver | 651 |
-| 12 | Kelsey Plum | 619 |
+| 12 | **Kelsey Plum** 🔴 | 619 |
 | 13 | Tamika Catchings | 605 |
 | 14 | Arike Ogunbowale | 584 |
 | 15 | Kara Lawson | 583 |
@@ -1315,8 +1315,8 @@ _Last updated: 2026-08-26 02:14 UTC_
 | 60 | Vickie Johnson | 660 |
 | 61 | Yolanda Griffith | 653 |
 | 62 | Sheri Sam | 650 |
-| 63 | Kayla McBride | 648 |
-| 63 | Kelsey Plum | 648 |
+| 63 | **Kelsey Plum** 🔴 +1 | 649 |
+| 64 | Kayla McBride | 648 |
 | 65 | Dawn Staley | 643 |
 | 66 | Jonquel Jones | 641 |
 | 67 | Ruth Riley | 637 |
@@ -1543,7 +1543,7 @@ _Last updated: 2026-08-26 02:14 UTC_
 | 83 | Brittney Sykes | 701 |
 | 83 | Matee Ajavon | 701 |
 | 83 | Nicole Powell | 701 |
-| 86 | Kelsey Plum | 699 |
+| 86 | **Kelsey Plum** 🔴 | 699 |
 | 87 | Tan White | 698 |
 | 88 | Katie Douglas | 697 |
 | 89 | Danielle Robinson | 692 |
