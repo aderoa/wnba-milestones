@@ -1,5 +1,14 @@
 [
   {
+    "ts": "2026-08-26T03:32:00+00:00",
+    "text": "Natasha Mack reached 500 career points (now 501) \u2014 (9:26 - 4th \u2014 WSH @ PHX)",
+    "kind": "round",
+    "player": "Natasha Mack",
+    "stat": "points",
+    "value": 500,
+    "new_total": 501
+  },
+  {
     "ts": "2026-08-26T00:33:00+00:00",
     "text": "Aaliyah Edwards reached 600 career points (now 600) \u2014 (End of 3rd \u2014 CHI @ CON)",
     "kind": "round",
@@ -2977,17 +2986,5 @@
       "Essence Carson"
     ],
     "new_total": 446
-  },
-  {
-    "ts": "2026-07-08T01:57:00+00:00",
-    "text": "Jessica Shepard passed Julie Allemand for #151 all-time in assists (career 445) \u2014 up from #153 entering today \u2014 (4:23 - 4th \u2014 DAL @ NY)",
-    "kind": "rank_pass",
-    "player": "Jessica Shepard",
-    "stat": "assists",
-    "rank": 151,
-    "passed_players": [
-      "Julie Allemand"
-    ],
-    "new_total": 445
   }
 ]
