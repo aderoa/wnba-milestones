@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-26 03:19 UTC_
+_Last updated: 2026-08-26 03:20 UTC_
 
 ## Contents
 
@@ -63,7 +63,7 @@ _Last updated: 2026-08-26 03:19 UTC_
 | 42 | **Kelsey Plum** 🔴 +2 | 4,496 |
 | 43 | Allisha Gray | 4,491 |
 | 44 | Kristi Toliver | 4,474 |
-| 45 | **Kahleah Copper** 🔴 +11 | 4,448 |
+| 45 | **Kahleah Copper** 🔴 +12 | 4,449 |
 | 46 | Crystal Langhorne | 4,433 |
 | 46 | Jia Perkins | 4,433 |
 | 48 | Courtney Vandersloot | 4,370 |
@@ -991,8 +991,8 @@ _Last updated: 2026-08-26 03:19 UTC_
 | 145 | Rushia Brown | 221 |
 | 147 | DeMya Walker | 220 |
 | 147 | Jennifer Gillom | 220 |
-| 149 | Allison Feaster | 219 |
-| 149 | **Kahleah Copper** 🔴 | 219 |
+| 147 | **Kahleah Copper** 🔴 +1 | 220 |
+| 150 | Allison Feaster | 219 |
 | 151 | Cheyenne Parker-Tyus | 217 |
 | 151 | Shenise Johnson | 217 |
 | 153 | Adrian Williams-Strong | 216 |
@@ -1541,10 +1541,10 @@ _Last updated: 2026-08-26 03:19 UTC_
 | 80 | Cheryl Ford | 713 |
 | 81 | Jia Perkins | 711 |
 | 82 | Helen Darling | 709 |
-| 83 | Brittney Sykes | 701 |
-| 83 | **Kelsey Plum** 🔴 +2 | 701 |
-| 83 | Matee Ajavon | 701 |
-| 83 | Nicole Powell | 701 |
+| 83 | **Kelsey Plum** 🔴 +3 | 702 |
+| 84 | Brittney Sykes | 701 |
+| 84 | Matee Ajavon | 701 |
+| 84 | Nicole Powell | 701 |
 | 87 | Tan White | 698 |
 | 88 | Katie Douglas | 697 |
 | 89 | Danielle Robinson | 692 |
