@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-08-27T04:06:00+00:00",
+    "text": "Isabelle Harrison passed Chiney Ogwumike for #116 all-time in rebounds (career 1,111) \u2014 up from #119 entering today \u2014 (50.0 - 4th \u2014 TOR @ SEA)",
+    "kind": "rank_pass",
+    "player": "Isabelle Harrison",
+    "stat": "rebounds",
+    "rank": 116,
+    "passed_players": [
+      "Chiney Ogwumike"
+    ],
+    "new_total": 1111
+  },
+  {
     "ts": "2026-08-27T03:52:00+00:00",
     "text": "Isabelle Harrison passed Becky Hammon for #117 all-time in rebounds (career 1,109) \u2014 up from #119 entering today \u2014 (3:47 - 4th \u2014 TOR @ SEA)",
     "kind": "rank_pass",
@@ -2973,18 +2985,5 @@
       "Jayne Appel Marinelli"
     ],
     "new_total": 1327
-  },
-  {
-    "ts": "2026-07-08T02:41:00+00:00",
-    "text": "Kahleah Copper passed Allison Feaster and Betty Lennox for #48 all-time in three-pointers (career 373) \u2014 up from #50 entering today \u2014 (4:22 - 2nd \u2014 CHI @ PHX)",
-    "kind": "rank_pass",
-    "player": "Kahleah Copper",
-    "stat": "three-pointers",
-    "rank": 48,
-    "passed_players": [
-      "Allison Feaster",
-      "Betty Lennox"
-    ],
-    "new_total": 373
   }
 ]
