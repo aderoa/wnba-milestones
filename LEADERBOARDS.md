@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-27 00:22 UTC_
+_Last updated: 2026-08-27 00:23 UTC_
 
 ## Contents
 
@@ -1230,11 +1230,11 @@ _Last updated: 2026-08-27 00:22 UTC_
 | 180 | Sidney Spencer | 122 |
 | 181 | Tonya Edwards | 118 |
 | 182 | Edwige Lawson-Wade | 116 |
-| 182 | **Janelle Salaun** 🔴 +5 | 116 |
 | 182 | Marie Ferdinand-Harris | 116 |
-| 185 | Ebony Hoffman | 115 |
-| 185 | Shey Peddy | 115 |
-| 185 | Stephanie White | 115 |
+| 184 | Ebony Hoffman | 115 |
+| 184 | **Janelle Salaun** 🔴 +4 | 115 |
+| 184 | Shey Peddy | 115 |
+| 184 | Stephanie White | 115 |
 | 188 | Gordana Grubin | 114 |
 | 188 | Rickea Jackson | 114 |
 | 188 | Sandy Brondello | 114 |
