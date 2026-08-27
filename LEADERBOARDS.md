@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-27 02:07 UTC_
+_Last updated: 2026-08-27 02:08 UTC_
 
 ## Contents
 
@@ -181,13 +181,13 @@ _Last updated: 2026-08-27 02:07 UTC_
 | 160 | Diamond DeShields | 2,026 |
 | 161 | Vicky Bullett | 2,018 |
 | 162 | Natisha Hiedeman | 2,002 |
-| 163 | Ezi Magbegor | 1,995 |
+| 163 | **Ezi Magbegor** 🔴 | 1,995 |
 | 164 | Bria Hartley | 1,967 |
 | 165 | Chiney Ogwumike | 1,964 |
 | 166 | Nicole Ohlde | 1,959 |
 | 167 | Myisha Hines-Allen | 1,956 |
 | 168 | Kedra Holland-Corn | 1,938 |
-| 169 | Isabelle Harrison | 1,932 |
+| 169 | **Isabelle Harrison** 🔴 | 1,932 |
 | 170 | Cathrine Kraayeveld | 1,926 |
 | 171 | Roneeka Hodges | 1,925 |
 | 172 | Latasha Byears | 1,920 |
@@ -320,7 +320,7 @@ _Last updated: 2026-08-27 02:07 UTC_
 | 93 | Tiffany Hayes | 1,257 |
 | 95 | Kayla McBride | 1,256 |
 | 96 | Brianna Turner | 1,243 |
-| 96 | Ezi Magbegor | 1,243 |
+| 96 | **Ezi Magbegor** 🔴 | 1,243 |
 | 98 | Seimone Augustus | 1,228 |
 | 99 | Jia Perkins | 1,220 |
 | 100 | Kahleah Copper | 1,204 |
@@ -342,7 +342,7 @@ _Last updated: 2026-08-27 02:07 UTC_
 | 116 | Chiney Ogwumike | 1,110 |
 | 117 | Becky Hammon | 1,108 |
 | 118 | Ann Wauters | 1,105 |
-| 119 | Isabelle Harrison | 1,097 |
+| 119 | **Isabelle Harrison** 🔴 | 1,097 |
 | 120 | Jackie Young | 1,085 |
 | 121 | Svetlana Abrosimova | 1,078 |
 | 122 | Le'coe Willingham | 1,054 |
@@ -627,7 +627,7 @@ _Last updated: 2026-08-27 02:07 UTC_
 | 194 | Tamika Whitmore | 347 |
 | 196 | Kristen Rasmussen | 345 |
 | 196 | Penny Toler | 345 |
-| 198 | Ezi Magbegor | 344 |
+| 198 | **Ezi Magbegor** 🔴 | 344 |
 | 199 | Sonja Henning | 341 |
 | 200 | Alexis Hornbuckle | 336 |
 
@@ -658,7 +658,7 @@ _Last updated: 2026-08-27 02:07 UTC_
 | 21 | Jessica Breland | 367 |
 | 22 | DeWanna Bonner | 358 |
 | 23 | Kiah Stokes | 355 |
-| 24 | Ezi Magbegor | 354 |
+| 24 | **Ezi Magbegor** 🔴 | 354 |
 | 25 | Diana Taurasi | 349 |
 | 25 | Elena Delle Donne | 349 |
 | 27 | DeLisha Milton-Jones | 339 |
@@ -762,7 +762,7 @@ _Last updated: 2026-08-27 02:07 UTC_
 | 124 | Rebecca Lobo | 104 |
 | 126 | Jennifer Gillom | 103 |
 | 126 | Jia Perkins | 103 |
-| 128 | Isabelle Harrison | 102 |
+| 128 | **Isabelle Harrison** 🔴 | 102 |
 | 128 | Theresa Plaisance | 102 |
 | 130 | Deanna Nolan | 101 |
 | 131 | Chante Black | 100 |
@@ -1021,7 +1021,7 @@ _Last updated: 2026-08-27 02:07 UTC_
 | 174 | Tierra Ruffin-Pratt | 194 |
 | 177 | Cynthia Cooper | 192 |
 | 178 | Myisha Hines-Allen | 191 |
-| 179 | Isabelle Harrison | 190 |
+| 179 | **Isabelle Harrison** 🔴 | 190 |
 | 180 | Tamicha Jackson | 188 |
 | 181 | Michele Timms | 187 |
 | 182 | Charde Houston | 185 |
@@ -1039,7 +1039,7 @@ _Last updated: 2026-08-27 02:07 UTC_
 | 193 | Chiney Ogwumike | 176 |
 | 195 | Tamika Raymond | 175 |
 | 196 | Elena Delle Donne | 174 |
-| 196 | Ezi Magbegor | 174 |
+| 196 | **Ezi Magbegor** 🔴 | 174 |
 | 196 | Margo Dydek | 174 |
 | 199 | Bridget Carleton | 173 |
 | 199 | Kamila Vodichkova | 173 |
@@ -1442,7 +1442,7 @@ _Last updated: 2026-08-27 02:07 UTC_
 | 187 | Alex Bentley | 313 |
 | 188 | Natisha Hiedeman | 312 |
 | 189 | Tamika Raymond | 311 |
-| 190 | Isabelle Harrison | 307 |
+| 190 | **Isabelle Harrison** 🔴 | 307 |
 | 191 | Erin Perperoglou | 305 |
 | 191 | Jennifer Lacy | 305 |
 | 193 | Azurá Stevens | 304 |
@@ -1589,7 +1589,7 @@ _Last updated: 2026-08-27 02:07 UTC_
 | 129 | Chiney Ogwumike | 580 |
 | 129 | Hamchetou Maiga-Ba | 580 |
 | 129 | Olympia Scott | 580 |
-| 132 | Ezi Magbegor | 576 |
+| 132 | **Ezi Magbegor** 🔴 | 576 |
 | 133 | Le'coe Willingham | 571 |
 | 134 | Ashley Robinson | 567 |
 | 135 | Marina Mabrey | 566 |
@@ -1624,7 +1624,7 @@ _Last updated: 2026-08-27 02:07 UTC_
 | 164 | Andrea Stinson | 511 |
 | 165 | Vicky Bullett | 507 |
 | 166 | Merlakia Jones | 506 |
-| 167 | Isabelle Harrison | 505 |
+| 167 | **Isabelle Harrison** 🔴 | 505 |
 | 167 | Rushia Brown | 505 |
 | 167 | Shekinna Stricklen | 505 |
 | 170 | Allison Feaster | 504 |
