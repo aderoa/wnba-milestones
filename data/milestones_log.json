@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-08-27T03:52:00+00:00",
+    "text": "Isabelle Harrison passed Becky Hammon for #117 all-time in rebounds (career 1,109) \u2014 up from #119 entering today \u2014 (3:47 - 4th \u2014 TOR @ SEA)",
+    "kind": "rank_pass",
+    "player": "Isabelle Harrison",
+    "stat": "rebounds",
+    "rank": 117,
+    "passed_players": [
+      "Becky Hammon"
+    ],
+    "new_total": 1109
+  },
+  {
     "ts": "2026-08-26T03:38:00+00:00",
     "text": "Natasha Mack passed Brionna Jones for #102 all-time in blocks (career 126) \u2014 up from #104 entering today \u2014 (7:38 - 4th \u2014 WSH @ PHX)",
     "kind": "rank_pass",
@@ -2974,17 +2986,5 @@
       "Betty Lennox"
     ],
     "new_total": 373
-  },
-  {
-    "ts": "2026-07-08T02:07:00+00:00",
-    "text": "Jessica Shepard passed DeMya Walker for #149 all-time in assists (career 447) \u2014 up from #153 entering today \u2014 (55.7 - 4th \u2014 DAL @ NY)",
-    "kind": "rank_pass",
-    "player": "Jessica Shepard",
-    "stat": "assists",
-    "rank": 149,
-    "passed_players": [
-      "DeMya Walker"
-    ],
-    "new_total": 447
   }
 ]
