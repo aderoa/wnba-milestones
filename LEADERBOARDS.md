@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-27 03:38 UTC_
+_Last updated: 2026-08-27 03:39 UTC_
 
 ## Contents
 
@@ -1191,9 +1191,9 @@ _Last updated: 2026-08-27 03:38 UTC_
 | 139 | Natasha Howard | 158 |
 | 142 | Alanna Smith | 156 |
 | 143 | Gabby Williams | 155 |
-| 144 | Bridget Pettis | 153 |
-| 144 | Jennifer Gillom | 153 |
-| 144 | **Katie Lou Samuelson** 🔴 | 153 |
+| 144 | **Katie Lou Samuelson** 🔴 +1 | 154 |
+| 145 | Bridget Pettis | 153 |
+| 145 | Jennifer Gillom | 153 |
 | 147 | Michaela Onyenwere | 151 |
 | 148 | Rita Williams | 150 |
 | 149 | Moriah Jefferson | 149 |
