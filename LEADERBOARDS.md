@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-27 03:50 UTC_
+_Last updated: 2026-08-27 03:51 UTC_
 
 ## Contents
 
@@ -1037,10 +1037,10 @@ _Last updated: 2026-08-27 03:50 UTC_
 | 192 | Bridget Pettis | 177 |
 | 193 | Brittany Boyd-Jones | 176 |
 | 193 | Chiney Ogwumike | 176 |
+| 195 | **Ezi Magbegor** 🔴 +1 | 175 |
 | 195 | Tamika Raymond | 175 |
-| 196 | Elena Delle Donne | 174 |
-| 196 | **Ezi Magbegor** 🔴 | 174 |
-| 196 | Margo Dydek | 174 |
+| 197 | Elena Delle Donne | 174 |
+| 197 | Margo Dydek | 174 |
 | 199 | Bridget Carleton | 173 |
 | 199 | Kamila Vodichkova | 173 |
 
