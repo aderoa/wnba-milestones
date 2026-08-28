@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-28 03:18 UTC_
+_Last updated: 2026-08-28 03:19 UTC_
 
 ## Contents
 
@@ -63,7 +63,7 @@ _Last updated: 2026-08-28 03:18 UTC_
 | 42 | Kelsey Plum | 4,494 |
 | 43 | Allisha Gray | 4,491 |
 | 44 | Kristi Toliver | 4,474 |
-| 45 | **Kahleah Copper** 🔴 +24 | 4,461 |
+| 45 | **Kahleah Copper** 🔴 +27 | 4,464 |
 | 46 | Crystal Langhorne | 4,433 |
 | 46 | Jia Perkins | 4,433 |
 | 48 | Jonquel Jones | 4,371 |
@@ -235,7 +235,7 @@ _Last updated: 2026-08-28 03:18 UTC_
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
-| 12 | **Alyssa Thomas** 🔴 +6 | 2,864 |
+| 12 | **Alyssa Thomas** 🔴 +7 | 2,865 |
 | 13 | Jonquel Jones | 2,735 |
 | 14 | A'ja Wilson | 2,657 |
 | 15 | Breanna Stewart | 2,638 |
@@ -393,7 +393,7 @@ _Last updated: 2026-08-28 03:18 UTC_
 | 167 | Marlies Askamp | 822 |
 | 168 | Amanda Zahui B | 819 |
 | 168 | Barbara Farris | 819 |
-| 170 | **Betnijah Laney-Hamilton** 🔴 +3 | 815 |
+| 170 | **Betnijah Laney-Hamilton** 🔴 +4 | 816 |
 | 171 | Carolyn Swords | 814 |
 | 172 | Tierra Ruffin-Pratt | 799 |
 | 173 | Ariel Atkins | 798 |
@@ -435,7 +435,7 @@ _Last updated: 2026-08-28 03:18 UTC_
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
 | 6 | Chelsea Gray | 2,003 |
-| 7 | **Alyssa Thomas** 🔴 +6 | 1,977 |
+| 7 | **Alyssa Thomas** 🔴 +7 | 1,978 |
 | 8 | Skylar Diggins | 1,852 |
 | 9 | Natasha Cloud | 1,802 |
 | 10 | Becky Hammon | 1,705 |
@@ -1096,7 +1096,7 @@ _Last updated: 2026-08-28 03:18 UTC_
 | 47 | Jasmine Thomas | 376 |
 | 48 | Allison Feaster | 372 |
 | 48 | Betty Lennox | 372 |
-| 50 | **Kahleah Copper** 🔴 +1 | 371 |
+| 48 | **Kahleah Copper** 🔴 +2 | 372 |
 | 51 | Epiphanny Prince | 368 |
 | 51 | Kia Nurse | 368 |
 | 53 | Nykesha Sales | 352 |
