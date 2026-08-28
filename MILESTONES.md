@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-08-28 03:18 UTC
+
+- **Natasha Mack** passed **Katie Douglas** and **Mistie Bass** for **#100** all-time in blocks (career 127) — up from #104 entering today — _6:49 - 3rd — WSH @ PHX_
+
 ## 2026-08-28 01:57 UTC
 
 - **Veronica Burton** passed **Caitlin Clark** and **Gabby Williams** for **#104** all-time in assists (career 592) — up from #109 entering today — _3:13 - 4th — GS @ NY_

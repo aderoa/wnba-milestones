@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-08-28T03:18:00+00:00",
+    "text": "Natasha Mack passed Katie Douglas and Mistie Bass for #100 all-time in blocks (career 127) \u2014 up from #104 entering today \u2014 (6:49 - 3rd \u2014 WSH @ PHX)",
+    "kind": "rank_pass",
+    "player": "Natasha Mack",
+    "stat": "blocks",
+    "rank": 100,
+    "passed_players": [
+      "Katie Douglas",
+      "Mistie Bass"
+    ],
+    "new_total": 127
+  },
+  {
     "ts": "2026-08-28T01:57:00+00:00",
     "text": "Veronica Burton passed Caitlin Clark and Gabby Williams for #104 all-time in assists (career 592) \u2014 up from #109 entering today \u2014 (3:13 - 4th \u2014 GS @ NY)",
     "kind": "rank_pass",
@@ -2974,18 +2987,5 @@
       "Kristen Rasmussen"
     ],
     "new_total": 128
-  },
-  {
-    "ts": "2026-07-08T03:57:00+00:00",
-    "text": "Kamilla Cardoso passed Katie Douglas and Mistie Bass for #100 all-time in blocks (career 127) \u2014 up from #103 entering today \u2014 (3:06 - 4th \u2014 CHI @ PHX)",
-    "kind": "rank_pass",
-    "player": "Kamilla Cardoso",
-    "stat": "blocks",
-    "rank": 100,
-    "passed_players": [
-      "Katie Douglas",
-      "Mistie Bass"
-    ],
-    "new_total": 127
   }
 ]
