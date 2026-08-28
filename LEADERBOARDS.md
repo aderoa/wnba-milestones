@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-28 00:53 UTC_
+_Last updated: 2026-08-28 00:54 UTC_
 
 ## Contents
 
@@ -47,7 +47,7 @@ _Last updated: 2026-08-28 00:53 UTC_
 | 26 | Lindsay Whalen | 5,511 |
 | 27 | Kelsey Mitchell | 5,198 |
 | 28 | Swin Cash | 5,119 |
-| 29 | **Tiffany Hayes** 🔴 +5 | 5,054 |
+| 29 | **Tiffany Hayes** 🔴 +8 | 5,057 |
 | 30 | Tangela Smith | 5,035 |
 | 31 | Taj McWilliams-Franklin | 4,992 |
 | 32 | Maya Moore | 4,984 |
@@ -111,7 +111,7 @@ _Last updated: 2026-08-28 00:53 UTC_
 | 90 | Danielle Robinson | 3,160 |
 | 91 | Wendy Palmer | 3,135 |
 | 92 | Shavonte Zellous | 3,103 |
-| 93 | **Sabrina Ionescu** 🔴 +2 | 3,099 |
+| 93 | **Sabrina Ionescu** 🔴 +5 | 3,102 |
 | 94 | Briann January | 3,082 |
 | 95 | Erika de Souza | 3,046 |
 | 96 | Shameka Christon | 3,039 |
@@ -259,7 +259,7 @@ _Last updated: 2026-08-28 00:53 UTC_
 | 33 | Elizabeth Williams | 1,978 |
 | 34 | Cheryl Ford | 1,907 |
 | 35 | Courtney Williams | 1,843 |
-| 36 | **Kiah Stokes** 🔴 +4 | 1,839 |
+| 36 | **Kiah Stokes** 🔴 +6 | 1,841 |
 | 37 | Plenette Pierson | 1,834 |
 | 38 | Natalie Williams | 1,832 |
 | 39 | Wendy Palmer | 1,824 |
@@ -315,8 +315,8 @@ _Last updated: 2026-08-28 00:53 UTC_
 | 89 | Tari Phillips | 1,274 |
 | 90 | Myisha Hines-Allen | 1,265 |
 | 91 | Janel McCarville | 1,261 |
-| 92 | Liz Cambage | 1,258 |
-| 92 | **Tiffany Hayes** 🔴 +1 | 1,258 |
+| 92 | **Tiffany Hayes** 🔴 +2 | 1,259 |
+| 93 | Liz Cambage | 1,258 |
 | 94 | Chelsea Gray | 1,257 |
 | 95 | Kayla McBride | 1,256 |
 | 96 | Brianna Turner | 1,243 |
@@ -1071,13 +1071,13 @@ _Last updated: 2026-08-28 00:53 UTC_
 | 21 | Allie Quigley | 510 |
 | 22 | Leilani Mitchell | 508 |
 | 23 | Marina Mabrey | 500 |
-| 24 | **Sabrina Ionescu** 🔴 | 468 |
-| 24 | Shekinna Stricklen | 468 |
+| 24 | **Sabrina Ionescu** 🔴 +1 | 469 |
+| 25 | Shekinna Stricklen | 468 |
 | 26 | **Breanna Stewart** 🔴 | 465 |
 | 27 | Cappie Pondexter | 464 |
 | 28 | Allisha Gray | 458 |
 | 29 | Ariel Atkins | 455 |
-| 30 | **Tiffany Hayes** 🔴 | 454 |
+| 29 | **Tiffany Hayes** 🔴 +1 | 455 |
 | 31 | Chelsea Gray | 450 |
 | 32 | Skylar Diggins | 447 |
 | 33 | Lauren Jackson | 436 |
