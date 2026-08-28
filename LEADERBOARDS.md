@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-28 02:23 UTC_
+_Last updated: 2026-08-28 02:24 UTC_
 
 ## Contents
 
@@ -154,7 +154,7 @@ _Last updated: 2026-08-28 02:23 UTC_
 | 133 | Azurá Stevens | 2,343 |
 | 134 | Jordin Canada | 2,342 |
 | 135 | Merlakia Jones | 2,308 |
-| 136 | **Betnijah Laney-Hamilton** 🔴 | 2,302 |
+| 136 | **Betnijah Laney-Hamilton** 🔴 +2 | 2,304 |
 | 137 | Satou Sabally | 2,296 |
 | 138 | Kia Vaughn | 2,288 |
 | 139 | Kia Nurse | 2,262 |
