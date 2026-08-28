@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-28 00:42 UTC_
+_Last updated: 2026-08-28 00:43 UTC_
 
 ## Contents
 
@@ -386,8 +386,8 @@ _Last updated: 2026-08-28 00:42 UTC_
 | 160 | Naz Hillmon | 859 |
 | 161 | Leilani Mitchell | 845 |
 | 162 | Essence Carson | 833 |
-| 163 | **Gabby Williams** 🔴 +1 | 832 |
-| 163 | Shakira Austin | 832 |
+| 162 | **Gabby Williams** 🔴 +2 | 833 |
+| 164 | Shakira Austin | 832 |
 | 165 | Kristi Toliver | 829 |
 | 166 | Marie Ferdinand-Harris | 828 |
 | 167 | Marlies Askamp | 822 |
@@ -833,11 +833,11 @@ _Last updated: 2026-08-28 00:42 UTC_
 | 196 | Shannon Johnson | 67 |
 | 196 | **Veronica Burton** 🔴 | 67 |
 | 198 | Kennedy Burke | 66 |
-| 199 | Crystal Robinson | 65 |
-| 199 | **Gabby Williams** 🔴 | 65 |
-| 199 | Queen Egbo | 65 |
-| 199 | Riquna Williams | 65 |
-| 199 | **Sabrina Ionescu** 🔴 | 65 |
+| 198 | **Sabrina Ionescu** 🔴 +1 | 66 |
+| 200 | Crystal Robinson | 65 |
+| 200 | **Gabby Williams** 🔴 | 65 |
+| 200 | Queen Egbo | 65 |
+| 200 | Riquna Williams | 65 |
 
 ## Steals
 
