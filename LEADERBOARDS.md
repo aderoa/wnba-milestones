@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-28 03:13 UTC_
+_Last updated: 2026-08-28 03:14 UTC_
 
 ## Contents
 
@@ -63,7 +63,7 @@ _Last updated: 2026-08-28 03:13 UTC_
 | 42 | Kelsey Plum | 4,494 |
 | 43 | Allisha Gray | 4,491 |
 | 44 | Kristi Toliver | 4,474 |
-| 45 | **Kahleah Copper** 🔴 +22 | 4,459 |
+| 45 | **Kahleah Copper** 🔴 +24 | 4,461 |
 | 46 | Crystal Langhorne | 4,433 |
 | 46 | Jia Perkins | 4,433 |
 | 48 | Jonquel Jones | 4,371 |
@@ -235,7 +235,7 @@ _Last updated: 2026-08-28 03:13 UTC_
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
-| 12 | **Alyssa Thomas** 🔴 +5 | 2,863 |
+| 12 | **Alyssa Thomas** 🔴 +6 | 2,864 |
 | 13 | Jonquel Jones | 2,735 |
 | 14 | A'ja Wilson | 2,657 |
 | 15 | Breanna Stewart | 2,638 |
@@ -386,7 +386,7 @@ _Last updated: 2026-08-28 03:13 UTC_
 | 160 | Naz Hillmon | 859 |
 | 161 | Leilani Mitchell | 845 |
 | 162 | Gabby Williams | 835 |
-| 163 | **Shakira Austin** 🔴 +2 | 834 |
+| 162 | **Shakira Austin** 🔴 +3 | 835 |
 | 164 | Essence Carson | 833 |
 | 165 | Kristi Toliver | 829 |
 | 166 | Marie Ferdinand-Harris | 828 |
@@ -435,7 +435,7 @@ _Last updated: 2026-08-28 03:13 UTC_
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
 | 6 | Chelsea Gray | 2,003 |
-| 7 | **Alyssa Thomas** 🔴 +5 | 1,976 |
+| 7 | **Alyssa Thomas** 🔴 +6 | 1,977 |
 | 8 | Skylar Diggins | 1,852 |
 | 9 | Natasha Cloud | 1,802 |
 | 10 | Becky Hammon | 1,705 |
