@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-08-28T01:55:00+00:00",
+    "text": "Veronica Burton passed Betnijah Laney-Hamilton and Camille Smith for #106 all-time in assists (career 591) \u2014 up from #109 entering today \u2014 (4:10 - 4th \u2014 GS @ NY)",
+    "kind": "rank_pass",
+    "player": "Veronica Burton",
+    "stat": "assists",
+    "rank": 106,
+    "passed_players": [
+      "Betnijah Laney-Hamilton",
+      "Camille Smith"
+    ],
+    "new_total": 591
+  },
+  {
     "ts": "2026-08-27T04:06:00+00:00",
     "text": "Isabelle Harrison passed Chiney Ogwumike for #116 all-time in rebounds (career 1,111) \u2014 up from #119 entering today \u2014 (50.0 - 4th \u2014 TOR @ SEA)",
     "kind": "rank_pass",
@@ -2973,17 +2986,5 @@
       "Mwadi Mabika"
     ],
     "new_total": 1328
-  },
-  {
-    "ts": "2026-07-08T03:44:00+00:00",
-    "text": "Azur\u00e1 Stevens passed Jayne Appel Marinelli for #86 all-time in rebounds (career 1,327) \u2014 up from #87 entering today \u2014 (7:29 - 4th \u2014 CHI @ PHX)",
-    "kind": "rank_pass",
-    "player": "Azur\u00e1 Stevens",
-    "stat": "rebounds",
-    "rank": 86,
-    "passed_players": [
-      "Jayne Appel Marinelli"
-    ],
-    "new_total": 1327
   }
 ]
