@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-28 02:18 UTC_
+_Last updated: 2026-08-28 02:19 UTC_
 
 ## Contents
 
@@ -534,9 +534,9 @@ _Last updated: 2026-08-28 02:18 UTC_
 | 103 | Gabby Williams | 594 |
 | 104 | Sancho Lyttle | 592 |
 | 104 | Veronica Burton | 592 |
+| 106 | **Betnijah Laney-Hamilton** 🔴 +1 | 591 |
 | 106 | Caitlin Clark | 591 |
-| 107 | **Betnijah Laney-Hamilton** 🔴 | 590 |
-| 107 | Camille Smith | 590 |
+| 108 | Camille Smith | 590 |
 | 109 | Armintie Herrington | 589 |
 | 110 | Tan White | 578 |
 | 111 | Matee Ajavon | 577 |
@@ -1321,8 +1321,8 @@ _Last updated: 2026-08-28 02:18 UTC_
 | 67 | Ruth Riley | 637 |
 | 68 | Odyssey Sims | 631 |
 | 68 | Svetlana Abrosimova | 631 |
-| 70 | **Kahleah Copper** 🔴 | 625 |
-| 70 | Tiffany Hayes | 625 |
+| 70 | **Kahleah Copper** 🔴 +1 | 626 |
+| 71 | Tiffany Hayes | 625 |
 | 72 | Rebekkah Brunson | 615 |
 | 73 | Seimone Augustus | 613 |
 | 74 | Teresa Weatherspoon | 601 |
@@ -1524,7 +1524,7 @@ _Last updated: 2026-08-28 02:18 UTC_
 | 65 | Sue Bird | 775 |
 | 66 | Natasha Cloud | 773 |
 | 67 | Sheri Sam | 766 |
-| 68 | **Kahleah Copper** 🔴 +1 | 759 |
+| 68 | **Kahleah Copper** 🔴 +2 | 760 |
 | 69 | Kia Vaughn | 755 |
 | 70 | Allisha Gray | 752 |
 | 70 | Vickie Johnson | 752 |
