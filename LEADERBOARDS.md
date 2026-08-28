@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-28 01:56 UTC_
+_Last updated: 2026-08-28 01:57 UTC_
 
 ## Contents
 
@@ -31,7 +31,7 @@ _Last updated: 2026-08-28 01:56 UTC_
 | 10 | Candace Parker | 6,574 |
 | 11 | Katie Smith | 6,450 |
 | 12 | Sylvia Fowles | 6,413 |
-| 13 | **Breanna Stewart** 🔴 +15 | 6,350 |
+| 13 | **Breanna Stewart** 🔴 +16 | 6,351 |
 | 14 | Lisa Leslie | 6,251 |
 | 15 | A'ja Wilson | 6,178 |
 | 16 | Jewell Loyd | 6,148 |
@@ -66,7 +66,7 @@ _Last updated: 2026-08-28 01:56 UTC_
 | 45 | Kahleah Copper | 4,437 |
 | 46 | Crystal Langhorne | 4,433 |
 | 46 | Jia Perkins | 4,433 |
-| 48 | **Jonquel Jones** 🔴 +15 | 4,368 |
+| 48 | **Jonquel Jones** 🔴 +18 | 4,371 |
 | 49 | Courtney Vandersloot | 4,362 |
 | 50 | Courtney Williams | 4,350 |
 | 51 | Dearica Hamby | 4,330 |
@@ -236,7 +236,7 @@ _Last updated: 2026-08-28 01:56 UTC_
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | Alyssa Thomas | 2,858 |
-| 13 | **Jonquel Jones** 🔴 +6 | 2,734 |
+| 13 | **Jonquel Jones** 🔴 +7 | 2,735 |
 | 14 | A'ja Wilson | 2,657 |
 | 15 | **Breanna Stewart** 🔴 +6 | 2,638 |
 | 16 | Sancho Lyttle | 2,596 |
@@ -533,8 +533,8 @@ _Last updated: 2026-08-28 01:56 UTC_
 | 102 | Cynthia Cooper | 602 |
 | 103 | **Gabby Williams** 🔴 +3 | 594 |
 | 104 | Sancho Lyttle | 592 |
-| 105 | Caitlin Clark | 591 |
-| 105 | **Veronica Burton** 🔴 +12 | 591 |
+| 104 | **Veronica Burton** 🔴 +13 | 592 |
+| 106 | Caitlin Clark | 591 |
 | 107 | Betnijah Laney-Hamilton | 590 |
 | 107 | Camille Smith | 590 |
 | 109 | Armintie Herrington | 589 |
@@ -1088,7 +1088,7 @@ _Last updated: 2026-08-28 01:56 UTC_
 | 38 | Riquna Williams | 407 |
 | 40 | Jia Perkins | 396 |
 | 41 | Alysha Clark | 394 |
-| 42 | **Jonquel Jones** 🔴 +3 | 392 |
+| 42 | **Jonquel Jones** 🔴 +4 | 393 |
 | 43 | Rachel Banham | 390 |
 | 44 | Roneeka Hodges | 389 |
 | 45 | Courtney Vandersloot | 386 |
