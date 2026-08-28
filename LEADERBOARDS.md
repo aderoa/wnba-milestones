@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-28 00:10 UTC_
+_Last updated: 2026-08-28 00:11 UTC_
 
 ## Contents
 
@@ -148,7 +148,7 @@ _Last updated: 2026-08-28 00:10 UTC_
 | 127 | Ruth Riley | 2,434 |
 | 128 | Svetlana Abrosimova | 2,414 |
 | 129 | Anna DeForge | 2,413 |
-| 130 | **Kayla Thornton** 🔴 | 2,393 |
+| 130 | **Kayla Thornton** 🔴 +3 | 2,396 |
 | 131 | DeMya Walker | 2,379 |
 | 132 | Alex Bentley | 2,350 |
 | 133 | Azurá Stevens | 2,343 |
@@ -532,9 +532,9 @@ _Last updated: 2026-08-28 00:10 UTC_
 | 100 | Natasha Howard | 615 |
 | 101 | Debbie Black | 612 |
 | 102 | Cynthia Cooper | 602 |
+| 103 | **Gabby Williams** 🔴 +1 | 592 |
 | 103 | Sancho Lyttle | 592 |
-| 104 | Caitlin Clark | 591 |
-| 104 | **Gabby Williams** 🔴 | 591 |
+| 105 | Caitlin Clark | 591 |
 | 106 | Betnijah Laney-Hamilton | 590 |
 | 106 | Camille Smith | 590 |
 | 108 | Armintie Herrington | 589 |
@@ -1121,7 +1121,7 @@ _Last updated: 2026-08-28 00:10 UTC_
 | 71 | Bridget Carleton | 306 |
 | 72 | Kelly Miller | 305 |
 | 73 | Nikki Teasley | 304 |
-| 74 | **Kayla Thornton** 🔴 | 300 |
+| 74 | **Kayla Thornton** 🔴 +1 | 301 |
 | 75 | Vickie Johnson | 295 |
 | 76 | Seimone Augustus | 293 |
 | 77 | Candice Wiggins | 290 |
@@ -1554,8 +1554,8 @@ _Last updated: 2026-08-28 00:10 UTC_
 | 92 | Jasmine Thomas | 685 |
 | 95 | Jewell Loyd | 684 |
 | 95 | Leilani Mitchell | 684 |
-| 97 | Crystal Robinson | 682 |
-| 97 | **Kayla Thornton** 🔴 | 682 |
+| 97 | **Kayla Thornton** 🔴 +1 | 683 |
+| 98 | Crystal Robinson | 682 |
 | 99 | Jennifer Lacy | 680 |
 | 99 | Temeka Johnson | 680 |
 | 101 | Kelly Miller | 676 |
