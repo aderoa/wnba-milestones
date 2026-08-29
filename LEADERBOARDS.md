@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-29 01:26 UTC_
+_Last updated: 2026-08-29 01:27 UTC_
 
 ## Contents
 
@@ -346,7 +346,7 @@ _Last updated: 2026-08-29 01:26 UTC_
 | 120 | Jackie Young | 1,085 |
 | 121 | Svetlana Abrosimova | 1,078 |
 | 122 | Le'coe Willingham | 1,054 |
-| 123 | **Angel Reese** 🔴 +14 | 1,049 |
+| 123 | **Angel Reese** 🔴 +15 | 1,050 |
 | 124 | Nicole Ohlde | 1,040 |
 | 125 | Tamecka Dixon | 1,035 |
 | 126 | Kamila Vodichkova | 1,031 |
@@ -725,9 +725,9 @@ _Last updated: 2026-08-29 01:26 UTC_
 | 87 | Nicky Anosike | 133 |
 | 87 | Olivia Nelson-Ododa | 133 |
 | 87 | Seimone Augustus | 133 |
+| 91 | **Emily Engstler** 🔴 +3 | 131 |
 | 91 | Katie Mattera | 131 |
 | 91 | Nakia Sanford | 131 |
-| 93 | **Emily Engstler** 🔴 +2 | 130 |
 | 94 | Brooke Wyckoff | 129 |
 | 94 | Cathrine Kraayeveld | 129 |
 | 96 | Alyssa Thomas | 127 |
