@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-29 18:30 UTC_
+_Last updated: 2026-08-29 18:31 UTC_
 
 ## Contents
 
@@ -31,7 +31,7 @@ _Last updated: 2026-08-29 18:30 UTC_
 | 10 | Candace Parker | 6,574 |
 | 11 | Katie Smith | 6,450 |
 | 12 | Sylvia Fowles | 6,413 |
-| 13 | **Breanna Stewart** 🔴 +11 | 6,346 |
+| 13 | **Breanna Stewart** 🔴 +13 | 6,348 |
 | 14 | Lisa Leslie | 6,251 |
 | 15 | A'ja Wilson | 6,178 |
 | 16 | Jewell Loyd | 6,148 |
@@ -422,8 +422,8 @@ _Last updated: 2026-08-29 18:30 UTC_
 | 195 | Shekinna Stricklen | 726 |
 | 197 | Olympia Scott | 711 |
 | 198 | Katie Mattera | 708 |
+| 199 | **Rebecca Allen** 🔴 +4 | 706 |
 | 199 | Rushia Brown | 706 |
-| 200 | **Rebecca Allen** 🔴 +3 | 705 |
 
 ## Assists
 
@@ -1632,7 +1632,7 @@ _Last updated: 2026-08-29 18:30 UTC_
 | 173 | Iziane Castro Marques | 502 |
 | 174 | Elena Baranova | 501 |
 | 175 | **Azurá Stevens** 🔴 +4 | 499 |
-| 176 | **Rachel Banham** 🔴 +1 | 498 |
+| 175 | **Rachel Banham** 🔴 +2 | 499 |
 | 177 | Adrian Williams-Strong | 497 |
 | 177 | Essence Carson | 497 |
 | 179 | Nia Coffey | 495 |
