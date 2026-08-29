@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-29 00:01 UTC_
+_Last updated: 2026-08-29 00:02 UTC_
 
 ## Contents
 
@@ -503,7 +503,7 @@ _Last updated: 2026-08-29 00:01 UTC_
 | 71 | Marina Mabrey | 801 |
 | 72 | Epiphanny Prince | 800 |
 | 73 | Mwadi Mabika | 774 |
-| 74 | **Allisha Gray** 🔴 | 767 |
+| 74 | **Allisha Gray** 🔴 +1 | 768 |
 | 75 | Sheri Sam | 745 |
 | 76 | Monique Currie | 740 |
 | 77 | Elaine Powell | 728 |
@@ -1158,10 +1158,10 @@ _Last updated: 2026-08-29 00:01 UTC_
 | 108 | Betnijah Laney-Hamilton | 206 |
 | 109 | Lexie Brown | 203 |
 | 110 | Shanna Zolman | 199 |
+| 111 | **Caitlin Clark** 🔴 +2 | 197 |
 | 111 | Temeka Johnson | 197 |
 | 111 | Tina Charles | 197 |
-| 113 | **Caitlin Clark** 🔴 +1 | 196 |
-| 113 | Nia Coffey | 196 |
+| 114 | Nia Coffey | 196 |
 | 115 | Lindsay Whalen | 193 |
 | 116 | Victoria Vivians | 192 |
 | 117 | Danielle Adams | 188 |
@@ -1413,7 +1413,7 @@ _Last updated: 2026-08-29 00:01 UTC_
 | 158 | Anna DeForge | 374 |
 | 158 | Cheryl Ford | 374 |
 | 160 | Allison Feaster | 372 |
-| 161 | **Caitlin Clark** 🔴 +2 | 370 |
+| 161 | **Caitlin Clark** 🔴 +3 | 371 |
 | 162 | Emma Meesseman | 367 |
 | 163 | Latasha Byears | 360 |
 | 164 | Vicky Bullett | 359 |
