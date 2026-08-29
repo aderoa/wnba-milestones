@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-29 18:42 UTC_
+_Last updated: 2026-08-29 18:43 UTC_
 
 ## Contents
 
@@ -217,7 +217,7 @@ _Last updated: 2026-08-29 18:42 UTC_
 | 196 | Janell Burse | 1,580 |
 | 197 | Le'coe Willingham | 1,552 |
 | 198 | Shatori Walker-Kimbrough | 1,544 |
-| 199 | **Rebecca Allen** 🔴 | 1,529 |
+| 199 | **Rebecca Allen** 🔴 +3 | 1,532 |
 | 200 | Jennifer Lacy | 1,504 |
 
 ## Rebounds
@@ -430,7 +430,7 @@ _Last updated: 2026-08-29 18:42 UTC_
 | Rank | Player | Total |
 |-----:|--------|------:|
 | 1 | Sue Bird | 3,234 |
-| 2 | **Courtney Vandersloot** 🔴 +5 | 2,899 |
+| 2 | **Courtney Vandersloot** 🔴 +6 | 2,900 |
 | 3 | Ticha Penicheiro | 2,588 |
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
@@ -1132,7 +1132,7 @@ _Last updated: 2026-08-29 18:42 UTC_
 | 83 | Iziane Castro Marques | 275 |
 | 84 | Sheryl Swoopes | 270 |
 | 85 | Sophia Witherspoon | 260 |
-| 86 | **Rebecca Allen** 🔴 | 255 |
+| 86 | **Rebecca Allen** 🔴 +1 | 256 |
 | 87 | Dawn Staley | 254 |
 | 88 | Bria Hartley | 253 |
 | 88 | Nneka Ogwumike | 253 |
