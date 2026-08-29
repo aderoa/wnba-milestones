@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-29 02:30 UTC_
+_Last updated: 2026-08-29 02:31 UTC_
 
 ## Contents
 
@@ -130,7 +130,7 @@ _Last updated: 2026-08-29 02:30 UTC_
 | 109 | Adrienne Goodson | 2,705 |
 | 110 | Rhyne Howard | 2,663 |
 | 111 | Riquna Williams | 2,659 |
-| 112 | **Cheyenne Parker-Tyus** 🔴 +7 | 2,652 |
+| 112 | **Cheyenne Parker-Tyus** 🔴 +9 | 2,654 |
 | 113 | Essence Carson | 2,647 |
 | 113 | Lindsey Harding | 2,647 |
 | 115 | Tamera Young | 2,641 |
@@ -157,7 +157,7 @@ _Last updated: 2026-08-29 02:30 UTC_
 | 136 | **Betnijah Laney-Hamilton** 🔴 +4 | 2,306 |
 | 137 | Satou Sabally | 2,296 |
 | 138 | Kia Vaughn | 2,288 |
-| 139 | **Kia Nurse** 🔴 +3 | 2,265 |
+| 139 | **Kia Nurse** 🔴 +6 | 2,268 |
 | 140 | Allison Feaster | 2,258 |
 | 141 | Shekinna Stricklen | 2,245 |
 | 142 | Kara Braxton | 2,237 |
@@ -244,7 +244,7 @@ _Last updated: 2026-08-29 02:30 UTC_
 | 18 | DeLisha Milton-Jones | 2,574 |
 | 19 | Swin Cash | 2,521 |
 | 20 | Michelle Snow | 2,476 |
-| 21 | **Dearica Hamby** 🔴 +2 | 2,457 |
+| 21 | **Dearica Hamby** 🔴 +3 | 2,458 |
 | 22 | Crystal Langhorne | 2,454 |
 | 23 | Lauren Jackson | 2,444 |
 | 24 | Yolanda Griffith | 2,440 |
@@ -288,8 +288,8 @@ _Last updated: 2026-08-29 02:30 UTC_
 | 62 | Napheesa Collier | 1,510 |
 | 63 | Ticha Penicheiro | 1,485 |
 | 64 | Alysha Clark | 1,469 |
+| 65 | **Cheyenne Parker-Tyus** 🔴 +3 | 1,466 |
 | 65 | Sue Bird | 1,466 |
-| 66 | **Cheyenne Parker-Tyus** 🔴 +2 | 1,465 |
 | 67 | Nicole Powell | 1,457 |
 | 68 | Monique Billings | 1,433 |
 | 68 | Tamera Young | 1,433 |
@@ -385,7 +385,7 @@ _Last updated: 2026-08-29 02:30 UTC_
 | 159 | Shameka Christon | 867 |
 | 160 | Krystal Thomas | 862 |
 | 161 | Leilani Mitchell | 845 |
-| 162 | **Shakira Austin** 🔴 +4 | 836 |
+| 162 | **Shakira Austin** 🔴 +5 | 837 |
 | 163 | Essence Carson | 833 |
 | 164 | Gabby Williams | 831 |
 | 165 | Kristi Toliver | 829 |
@@ -1098,7 +1098,7 @@ _Last updated: 2026-08-29 02:30 UTC_
 | 48 | Allison Feaster | 372 |
 | 48 | Betty Lennox | 372 |
 | 50 | Kahleah Copper | 370 |
-| 51 | **Kia Nurse** 🔴 +1 | 369 |
+| 50 | **Kia Nurse** 🔴 +2 | 370 |
 | 52 | Epiphanny Prince | 368 |
 | 53 | Nykesha Sales | 352 |
 | 54 | **Jackie Young** 🔴 +3 | 349 |
@@ -1549,10 +1549,10 @@ _Last updated: 2026-08-29 02:30 UTC_
 | 88 | Katie Douglas | 697 |
 | 89 | Danielle Robinson | 692 |
 | 90 | Sophia Young-Malcolm | 687 |
+| 91 | **Cheyenne Parker-Tyus** 🔴 +1 | 686 |
 | 91 | Maya Moore | 686 |
-| 92 | Breanna Stewart | 685 |
-| 92 | **Cheyenne Parker-Tyus** 🔴 | 685 |
-| 92 | Jasmine Thomas | 685 |
+| 93 | Breanna Stewart | 685 |
+| 93 | Jasmine Thomas | 685 |
 | 95 | **Jewell Loyd** 🔴 | 684 |
 | 95 | Leilani Mitchell | 684 |
 | 97 | Crystal Robinson | 682 |
