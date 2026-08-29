@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-29 02:07 UTC_
+_Last updated: 2026-08-29 02:08 UTC_
 
 ## Contents
 
@@ -22,7 +22,7 @@ _Last updated: 2026-08-29 02:07 UTC_
 | 1 | Diana Taurasi | 10,608 |
 | 2 | Tina Charles | 8,396 |
 | 3 | DeWanna Bonner | 7,972 |
-| 4 | **Nneka Ogwumike** 🔴 | 7,563 |
+| 4 | **Nneka Ogwumike** 🔴 +4 | 7,567 |
 | 5 | Tina Thompson | 7,470 |
 | 6 | Tamika Catchings | 7,371 |
 | 7 | Candice Dupree | 6,861 |
@@ -33,7 +33,7 @@ _Last updated: 2026-08-29 02:07 UTC_
 | 12 | Sylvia Fowles | 6,413 |
 | 13 | Breanna Stewart | 6,335 |
 | 14 | Lisa Leslie | 6,251 |
-| 15 | **A'ja Wilson** 🔴 | 6,178 |
+| 15 | **A'ja Wilson** 🔴 +2 | 6,180 |
 | 16 | Jewell Loyd | 6,148 |
 | 17 | Brittney Griner | 6,087 |
 | 18 | Lauren Jackson | 6,005 |
@@ -342,7 +342,7 @@ _Last updated: 2026-08-29 02:07 UTC_
 | 116 | Chiney Ogwumike | 1,110 |
 | 117 | Becky Hammon | 1,108 |
 | 118 | Ann Wauters | 1,105 |
-| 119 | **Isabelle Harrison** 🔴 | 1,097 |
+| 119 | **Isabelle Harrison** 🔴 +1 | 1,098 |
 | 120 | **Jackie Young** 🔴 | 1,085 |
 | 121 | Svetlana Abrosimova | 1,078 |
 | 122 | Le'coe Willingham | 1,054 |
@@ -435,7 +435,7 @@ _Last updated: 2026-08-29 02:07 UTC_
 | 3 | Ticha Penicheiro | 2,588 |
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
-| 6 | **Chelsea Gray** 🔴 | 2,003 |
+| 6 | **Chelsea Gray** 🔴 +1 | 2,004 |
 | 7 | Alyssa Thomas | 1,971 |
 | 8 | Skylar Diggins | 1,852 |
 | 9 | Natasha Cloud | 1,802 |
@@ -451,7 +451,7 @@ _Last updated: 2026-08-29 02:07 UTC_
 | 19 | Jasmine Thomas | 1,355 |
 | 20 | Briann January | 1,339 |
 | 21 | Dawn Staley | 1,337 |
-| 22 | **Erica Wheeler** 🔴 | 1,335 |
+| 22 | **Erica Wheeler** 🔴 +1 | 1,336 |
 | 23 | Teresa Weatherspoon | 1,333 |
 | 24 | Kristi Toliver | 1,301 |
 | 25 | Kelsey Plum | 1,270 |
@@ -462,7 +462,7 @@ _Last updated: 2026-08-29 02:07 UTC_
 | 30 | Leilani Mitchell | 1,197 |
 | 31 | DeWanna Bonner | 1,196 |
 | 32 | Jewell Loyd | 1,156 |
-| 33 | **Jackie Young** 🔴 | 1,150 |
+| 33 | **Jackie Young** 🔴 +1 | 1,151 |
 | 34 | Renee Montgomery | 1,140 |
 | 35 | Swin Cash | 1,131 |
 | 36 | Sabrina Ionescu | 1,092 |
@@ -1435,7 +1435,7 @@ _Last updated: 2026-08-29 02:07 UTC_
 | 179 | Rita Williams | 326 |
 | 181 | Le'coe Willingham | 325 |
 | 182 | Olympia Scott | 324 |
-| 183 | **Kia Nurse** 🔴 | 320 |
+| 183 | **Kia Nurse** 🔴 +1 | 321 |
 | 184 | Barbara Farris | 315 |
 | 185 | Monique Billings | 314 |
 | 185 | Moriah Jefferson | 314 |
