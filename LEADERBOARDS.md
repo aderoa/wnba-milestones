@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-29 02:37 UTC_
+_Last updated: 2026-08-29 02:38 UTC_
 
 ## Contents
 
@@ -22,7 +22,7 @@ _Last updated: 2026-08-29 02:37 UTC_
 | 1 | Diana Taurasi | 10,608 |
 | 2 | Tina Charles | 8,396 |
 | 3 | DeWanna Bonner | 7,972 |
-| 4 | **Nneka Ogwumike** 🔴 +8 | 7,571 |
+| 4 | **Nneka Ogwumike** 🔴 +11 | 7,574 |
 | 5 | Tina Thompson | 7,470 |
 | 6 | Tamika Catchings | 7,371 |
 | 7 | Candice Dupree | 6,861 |
@@ -513,7 +513,7 @@ _Last updated: 2026-08-29 02:37 UTC_
 | 81 | Shavonte Zellous | 693 |
 | 82 | Allie Quigley | 690 |
 | 83 | Moriah Jefferson | 685 |
-| 84 | **Ariel Atkins** 🔴 | 682 |
+| 84 | **Ariel Atkins** 🔴 +1 | 683 |
 | 85 | Emma Meesseman | 681 |
 | 86 | Nykesha Sales | 677 |
 | 87 | **A'ja Wilson** 🔴 +2 | 669 |
@@ -533,9 +533,9 @@ _Last updated: 2026-08-29 02:37 UTC_
 | 101 | Debbie Black | 612 |
 | 102 | Caitlin Clark | 603 |
 | 103 | Cynthia Cooper | 602 |
+| 104 | **Betnijah Laney-Hamilton** 🔴 +2 | 592 |
 | 104 | Sancho Lyttle | 592 |
-| 105 | **Betnijah Laney-Hamilton** 🔴 +1 | 591 |
-| 105 | Gabby Williams | 591 |
+| 106 | Gabby Williams | 591 |
 | 107 | Camille Smith | 590 |
 | 108 | Armintie Herrington | 589 |
 | 109 | Veronica Burton | 579 |
@@ -1135,8 +1135,8 @@ _Last updated: 2026-08-29 02:37 UTC_
 | 85 | Sophia Witherspoon | 260 |
 | 86 | Rebecca Allen | 255 |
 | 87 | Dawn Staley | 254 |
-| 88 | Bria Hartley | 253 |
-| 88 | **Nneka Ogwumike** 🔴 | 253 |
+| 87 | **Nneka Ogwumike** 🔴 +1 | 254 |
+| 89 | Bria Hartley | 253 |
 | 90 | Angel McCoughtry | 249 |
 | 91 | Azurá Stevens | 247 |
 | 91 | Brittney Sykes | 247 |
@@ -1520,7 +1520,7 @@ _Last updated: 2026-08-29 02:37 UTC_
 | 59 | Skylar Diggins | 825 |
 | 60 | Shannon Johnson | 813 |
 | 60 | Tully Bevilaqua | 813 |
-| 62 | **Erica Wheeler** 🔴 | 808 |
+| 62 | **Erica Wheeler** 🔴 +1 | 809 |
 | 63 | Nykesha Sales | 796 |
 | 64 | Ebony Hoffman | 791 |
 | 65 | Sue Bird | 775 |
