@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-29 02:24 UTC_
+_Last updated: 2026-08-29 02:25 UTC_
 
 ## Contents
 
@@ -69,7 +69,7 @@ _Last updated: 2026-08-29 02:24 UTC_
 | 48 | Courtney Vandersloot | 4,362 |
 | 49 | Jonquel Jones | 4,353 |
 | 50 | Courtney Williams | 4,350 |
-| 51 | **Dearica Hamby** 🔴 +4 | 4,334 |
+| 51 | **Dearica Hamby** 🔴 +5 | 4,335 |
 | 52 | Sophia Young-Malcolm | 4,300 |
 | 53 | Plenette Pierson | 4,258 |
 | 54 | Monique Currie | 4,253 |
@@ -130,9 +130,9 @@ _Last updated: 2026-08-29 02:24 UTC_
 | 109 | Adrienne Goodson | 2,705 |
 | 110 | Rhyne Howard | 2,663 |
 | 111 | Riquna Williams | 2,659 |
-| 112 | **Cheyenne Parker-Tyus** 🔴 +2 | 2,647 |
-| 112 | Essence Carson | 2,647 |
-| 112 | Lindsey Harding | 2,647 |
+| 112 | **Cheyenne Parker-Tyus** 🔴 +5 | 2,650 |
+| 113 | Essence Carson | 2,647 |
+| 113 | Lindsey Harding | 2,647 |
 | 115 | Tamera Young | 2,641 |
 | 116 | Liz Cambage | 2,634 |
 | 117 | Janeth Arcain | 2,633 |
@@ -393,8 +393,8 @@ _Last updated: 2026-08-29 02:24 UTC_
 | 167 | Marlies Askamp | 822 |
 | 168 | Amanda Zahui B | 819 |
 | 168 | Barbara Farris | 819 |
+| 170 | **Betnijah Laney-Hamilton** 🔴 +2 | 814 |
 | 170 | Carolyn Swords | 814 |
-| 171 | **Betnijah Laney-Hamilton** 🔴 +1 | 813 |
 | 172 | Tierra Ruffin-Pratt | 799 |
 | 173 | **Ariel Atkins** 🔴 | 798 |
 | 174 | Charlotte Smith | 794 |
