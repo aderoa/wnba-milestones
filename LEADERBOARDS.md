@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-29 17:43 UTC_
+_Last updated: 2026-08-29 17:44 UTC_
 
 ## Contents
 
@@ -115,7 +115,7 @@ _Last updated: 2026-08-29 17:43 UTC_
 | 94 | Briann January | 3,082 |
 | 95 | Erika de Souza | 3,046 |
 | 96 | Shameka Christon | 3,039 |
-| 97 | **Natasha Cloud** 🔴 +8 | 3,026 |
+| 97 | **Natasha Cloud** 🔴 +10 | 3,028 |
 | 98 | Marie Ferdinand-Harris | 3,001 |
 | 99 | Emma Meesseman | 2,966 |
 | 100 | **Elizabeth Williams** 🔴 | 2,933 |
@@ -151,7 +151,7 @@ _Last updated: 2026-08-29 17:43 UTC_
 | 130 | Kayla Thornton | 2,393 |
 | 131 | DeMya Walker | 2,379 |
 | 132 | Alex Bentley | 2,350 |
-| 133 | **Azurá Stevens** 🔴 | 2,343 |
+| 133 | **Azurá Stevens** 🔴 +2 | 2,345 |
 | 134 | Jordin Canada | 2,342 |
 | 135 | Merlakia Jones | 2,308 |
 | 136 | Betnijah Laney-Hamilton | 2,302 |
@@ -297,8 +297,8 @@ _Last updated: 2026-08-29 17:43 UTC_
 | 71 | Nakia Sanford | 1,419 |
 | 72 | Kayla Thornton | 1,408 |
 | 73 | Allisha Gray | 1,404 |
-| 74 | **Courtney Vandersloot** 🔴 +1 | 1,387 |
-| 74 | Kara Braxton | 1,387 |
+| 74 | **Courtney Vandersloot** 🔴 +2 | 1,388 |
+| 75 | Kara Braxton | 1,387 |
 | 76 | Katie Smith | 1,383 |
 | 77 | Ebony Hoffman | 1,376 |
 | 78 | Jewell Loyd | 1,371 |
@@ -430,7 +430,7 @@ _Last updated: 2026-08-29 17:43 UTC_
 | Rank | Player | Total |
 |-----:|--------|------:|
 | 1 | Sue Bird | 3,234 |
-| 2 | **Courtney Vandersloot** 🔴 +2 | 2,896 |
+| 2 | **Courtney Vandersloot** 🔴 +3 | 2,897 |
 | 3 | Ticha Penicheiro | 2,588 |
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
@@ -733,10 +733,10 @@ _Last updated: 2026-08-29 17:43 UTC_
 | 96 | Chelsea Gray | 127 |
 | 96 | Chiney Ogwumike | 127 |
 | 96 | Kristen Rasmussen | 127 |
+| 100 | **Kamilla Cardoso** 🔴 +2 | 126 |
 | 100 | Katie Douglas | 126 |
 | 100 | Mistie Bass | 126 |
-| 102 | Brionna Jones | 125 |
-| 102 | **Kamilla Cardoso** 🔴 +1 | 125 |
+| 103 | Brionna Jones | 125 |
 | 104 | Natasha Mack | 123 |
 | 105 | Natalie Williams | 122 |
 | 106 | Ebony Hoffman | 121 |
