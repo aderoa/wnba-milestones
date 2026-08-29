@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-29 19:00 UTC_
+_Last updated: 2026-08-29 19:01 UTC_
 
 ## Contents
 
@@ -422,7 +422,7 @@ _Last updated: 2026-08-29 19:00 UTC_
 | 195 | Shekinna Stricklen | 726 |
 | 197 | Olympia Scott | 711 |
 | 198 | Katie Mattera | 708 |
-| 199 | **Rebecca Allen** 🔴 +5 | 707 |
+| 198 | **Rebecca Allen** 🔴 +6 | 708 |
 | 200 | Rushia Brown | 706 |
 
 ## Assists
