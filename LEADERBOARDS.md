@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-29 18:20 UTC_
+_Last updated: 2026-08-29 18:21 UTC_
 
 ## Contents
 
@@ -115,7 +115,7 @@ _Last updated: 2026-08-29 18:20 UTC_
 | 94 | Briann January | 3,082 |
 | 95 | Erika de Souza | 3,046 |
 | 96 | Shameka Christon | 3,039 |
-| 97 | **Natasha Cloud** 🔴 +12 | 3,030 |
+| 97 | **Natasha Cloud** 🔴 +14 | 3,032 |
 | 98 | Marie Ferdinand-Harris | 3,001 |
 | 99 | Emma Meesseman | 2,966 |
 | 100 | **Elizabeth Williams** 🔴 | 2,933 |
@@ -430,7 +430,7 @@ _Last updated: 2026-08-29 18:20 UTC_
 | Rank | Player | Total |
 |-----:|--------|------:|
 | 1 | Sue Bird | 3,234 |
-| 2 | **Courtney Vandersloot** 🔴 +4 | 2,898 |
+| 2 | **Courtney Vandersloot** 🔴 +5 | 2,899 |
 | 3 | Ticha Penicheiro | 2,588 |
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
