@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-29 01:05 UTC_
+_Last updated: 2026-08-29 01:06 UTC_
 
 ## Contents
 
@@ -291,8 +291,8 @@ _Last updated: 2026-08-29 01:05 UTC_
 | 65 | Sue Bird | 1,466 |
 | 66 | Cheyenne Parker-Tyus | 1,463 |
 | 67 | Nicole Powell | 1,457 |
+| 68 | **Monique Billings** 🔴 +2 | 1,433 |
 | 68 | Tamera Young | 1,433 |
-| 69 | **Monique Billings** 🔴 +1 | 1,432 |
 | 70 | Alana Beard | 1,420 |
 | 71 | Nakia Sanford | 1,419 |
 | 72 | Kayla Thornton | 1,408 |
@@ -1350,8 +1350,8 @@ _Last updated: 2026-08-29 01:05 UTC_
 | 94 | Iziane Castro Marques | 534 |
 | 96 | Sabrina Ionescu | 533 |
 | 97 | Mwadi Mabika | 532 |
+| 98 | **Jordin Canada** 🔴 +4 | 531 |
 | 98 | Nakia Sanford | 531 |
-| 99 | **Jordin Canada** 🔴 +3 | 530 |
 | 100 | Arike Ogunbowale | 529 |
 | 101 | Maya Moore | 527 |
 | 102 | Kara Lawson | 526 |
