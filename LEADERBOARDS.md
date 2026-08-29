@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-29 18:29 UTC_
+_Last updated: 2026-08-29 18:30 UTC_
 
 ## Contents
 
@@ -31,7 +31,7 @@ _Last updated: 2026-08-29 18:29 UTC_
 | 10 | Candace Parker | 6,574 |
 | 11 | Katie Smith | 6,450 |
 | 12 | Sylvia Fowles | 6,413 |
-| 13 | **Breanna Stewart** 🔴 +9 | 6,344 |
+| 13 | **Breanna Stewart** 🔴 +11 | 6,346 |
 | 14 | Lisa Leslie | 6,251 |
 | 15 | A'ja Wilson | 6,178 |
 | 16 | Jewell Loyd | 6,148 |
@@ -238,7 +238,7 @@ _Last updated: 2026-08-29 18:29 UTC_
 | 12 | Alyssa Thomas | 2,858 |
 | 13 | **Jonquel Jones** 🔴 +4 | 2,732 |
 | 14 | A'ja Wilson | 2,657 |
-| 15 | **Breanna Stewart** 🔴 +8 | 2,640 |
+| 15 | **Breanna Stewart** 🔴 +9 | 2,641 |
 | 16 | Sancho Lyttle | 2,596 |
 | 17 | Brittney Griner | 2,579 |
 | 18 | DeLisha Milton-Jones | 2,574 |
@@ -423,7 +423,7 @@ _Last updated: 2026-08-29 18:29 UTC_
 | 197 | Olympia Scott | 711 |
 | 198 | Katie Mattera | 708 |
 | 199 | Rushia Brown | 706 |
-| 200 | **Rebecca Allen** 🔴 +2 | 704 |
+| 200 | **Rebecca Allen** 🔴 +3 | 705 |
 
 ## Assists
 
