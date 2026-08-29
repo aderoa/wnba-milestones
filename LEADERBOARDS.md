@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-29 18:57 UTC_
+_Last updated: 2026-08-29 18:58 UTC_
 
 ## Contents
 
@@ -1631,8 +1631,8 @@ _Last updated: 2026-08-29 18:57 UTC_
 | 170 | Napheesa Collier | 504 |
 | 173 | Iziane Castro Marques | 502 |
 | 174 | Elena Baranova | 501 |
-| 175 | **Azurá Stevens** 🔴 +4 | 499 |
-| 175 | **Rachel Banham** 🔴 +2 | 499 |
+| 175 | **Rachel Banham** 🔴 +3 | 500 |
+| 176 | **Azurá Stevens** 🔴 +4 | 499 |
 | 177 | Adrian Williams-Strong | 497 |
 | 177 | Essence Carson | 497 |
 | 179 | Nia Coffey | 495 |
