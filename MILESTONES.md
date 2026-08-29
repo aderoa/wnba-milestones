@@ -2,6 +2,11 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-08-29 01:13 UTC
+
+- **Naz Hillmon** passed **Shameka Christon** for **#158** all-time in rebounds (career 868) — up from #160 entering today — _5:58 - 4th — POR @ ATL_
+- **Caitlin Clark** passed **Cynthia Cooper** for **#102** all-time in assists (career 603) — up from #104 entering today — _7:32 - 4th — CON @ IND_
+
 ## 2026-08-29 01:02 UTC
 
 - **Mercedes Russell** passed **Rhonda Mapp** for **#175** all-time in rebounds (career 789) — up from #176 entering today — _2:03 - 3rd — CON @ IND_

@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-29 01:12 UTC_
+_Last updated: 2026-08-29 01:13 UTC_
 
 ## Contents
 
@@ -175,7 +175,7 @@ _Last updated: 2026-08-29 01:12 UTC_
 | 154 | Tari Phillips | 2,134 |
 | 155 | Cheryl Ford | 2,116 |
 | 156 | Elena Baranova | 2,110 |
-| 157 | **Aliyah Boston** 🔴 +10 | 2,097 |
+| 157 | **Aliyah Boston** 🔴 +12 | 2,099 |
 | 158 | Aerial Powers | 2,068 |
 | 159 | Coco Miller | 2,030 |
 | 160 | Diamond DeShields | 2,026 |
@@ -346,7 +346,7 @@ _Last updated: 2026-08-29 01:12 UTC_
 | 120 | Jackie Young | 1,085 |
 | 121 | Svetlana Abrosimova | 1,078 |
 | 122 | Le'coe Willingham | 1,054 |
-| 123 | **Angel Reese** 🔴 +13 | 1,048 |
+| 123 | **Angel Reese** 🔴 +14 | 1,049 |
 | 124 | Nicole Ohlde | 1,040 |
 | 125 | Tamecka Dixon | 1,035 |
 | 126 | Kamila Vodichkova | 1,031 |
@@ -381,8 +381,8 @@ _Last updated: 2026-08-29 01:12 UTC_
 | 155 | Erica Wheeler | 882 |
 | 156 | Alanna Smith | 878 |
 | 157 | Marina Mabrey | 874 |
-| 158 | **Naz Hillmon** 🔴 +8 | 867 |
-| 158 | Shameka Christon | 867 |
+| 158 | **Naz Hillmon** 🔴 +9 | 868 |
+| 159 | Shameka Christon | 867 |
 | 160 | Krystal Thomas | 862 |
 | 161 | Leilani Mitchell | 845 |
 | 162 | Essence Carson | 833 |
@@ -531,8 +531,8 @@ _Last updated: 2026-08-29 01:12 UTC_
 | 99 | Alysha Clark | 619 |
 | 100 | Natasha Howard | 615 |
 | 101 | Debbie Black | 612 |
-| 102 | **Caitlin Clark** 🔴 +11 | 602 |
-| 102 | Cynthia Cooper | 602 |
+| 102 | **Caitlin Clark** 🔴 +12 | 603 |
+| 103 | Cynthia Cooper | 602 |
 | 104 | Sancho Lyttle | 592 |
 | 105 | Gabby Williams | 591 |
 | 106 | Betnijah Laney-Hamilton | 590 |
@@ -570,7 +570,7 @@ _Last updated: 2026-08-29 01:12 UTC_
 | 138 | Janeth Arcain | 469 |
 | 139 | Erin Phillips | 462 |
 | 140 | Sylvia Fowles | 461 |
-| 141 | **Tyasha Harris** 🔴 | 460 |
+| 140 | **Tyasha Harris** 🔴 +1 | 461 |
 | 142 | Sug Sutton | 456 |
 | 143 | Sydney Colson | 454 |
 | 144 | Yolanda Griffith | 451 |
@@ -586,8 +586,8 @@ _Last updated: 2026-08-29 01:12 UTC_
 | 154 | Lauren Jackson | 435 |
 | 155 | Adrienne Goodson | 433 |
 | 155 | Crystal Langhorne | 433 |
+| 157 | **Aliyah Boston** 🔴 +2 | 430 |
 | 157 | Elena Baranova | 430 |
-| 158 | **Aliyah Boston** 🔴 +1 | 429 |
 | 159 | Tierra Ruffin-Pratt | 424 |
 | 160 | Kedra Holland-Corn | 423 |
 | 161 | Crystal Dangerfield | 418 |
