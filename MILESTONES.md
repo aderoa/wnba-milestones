@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-08-29 01:02 UTC
+
+- **Mercedes Russell** passed **Rhonda Mapp** for **#175** all-time in rebounds (career 789) — up from #176 entering today — _2:03 - 3rd — CON @ IND_
+
 ## 2026-08-28 03:18 UTC
 
 - **Natasha Mack** passed **Katie Douglas** and **Mistie Bass** for **#100** all-time in blocks (career 127) — up from #104 entering today — _6:49 - 3rd — WSH @ PHX_

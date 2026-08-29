@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-08-29T01:02:00+00:00",
+    "text": "Mercedes Russell passed Rhonda Mapp for #175 all-time in rebounds (career 789) \u2014 up from #176 entering today \u2014 (2:03 - 3rd \u2014 CON @ IND)",
+    "kind": "rank_pass",
+    "player": "Mercedes Russell",
+    "stat": "rebounds",
+    "rank": 175,
+    "passed_players": [
+      "Rhonda Mapp"
+    ],
+    "new_total": 789
+  },
+  {
     "ts": "2026-08-28T03:18:00+00:00",
     "text": "Natasha Mack passed Katie Douglas and Mistie Bass for #100 all-time in blocks (career 127) \u2014 up from #104 entering today \u2014 (6:49 - 3rd \u2014 WSH @ PHX)",
     "kind": "rank_pass",
@@ -2972,20 +2984,5 @@
       "Tamika Raymond"
     ],
     "new_total": 312
-  },
-  {
-    "ts": "2026-07-08T04:05:00+00:00",
-    "text": "Kamilla Cardoso passed Alyssa Thomas, Chelsea Gray, Chiney Ogwumike, and Kristen Rasmussen for #96 all-time in blocks (career 128) \u2014 up from #103 entering today \u2014 (End of 4th \u2014 CHI @ PHX)",
-    "kind": "rank_pass",
-    "player": "Kamilla Cardoso",
-    "stat": "blocks",
-    "rank": 96,
-    "passed_players": [
-      "Alyssa Thomas",
-      "Chelsea Gray",
-      "Chiney Ogwumike",
-      "Kristen Rasmussen"
-    ],
-    "new_total": 128
   }
 ]
