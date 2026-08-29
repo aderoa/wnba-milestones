@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-29 00:54 UTC_
+_Last updated: 2026-08-29 00:55 UTC_
 
 ## Contents
 
@@ -966,8 +966,8 @@ _Last updated: 2026-08-29 00:54 UTC_
 | 121 | Noelle Quinn | 256 |
 | 122 | Elaine Powell | 255 |
 | 122 | Loree Moore | 255 |
-| 124 | **Rhyne Howard** 🔴 | 254 |
-| 124 | Ruthie Bolton | 254 |
+| 122 | **Rhyne Howard** 🔴 +1 | 255 |
+| 125 | Ruthie Bolton | 254 |
 | 126 | Hamchetou Maiga-Ba | 251 |
 | 126 | Tamika Whitmore | 251 |
 | 128 | Sami Whitcomb | 246 |
@@ -1351,8 +1351,8 @@ _Last updated: 2026-08-29 00:54 UTC_
 | 96 | Sabrina Ionescu | 533 |
 | 97 | Mwadi Mabika | 532 |
 | 98 | Nakia Sanford | 531 |
-| 99 | Arike Ogunbowale | 529 |
-| 99 | **Jordin Canada** 🔴 +2 | 529 |
+| 99 | **Jordin Canada** 🔴 +3 | 530 |
+| 100 | Arike Ogunbowale | 529 |
 | 101 | Maya Moore | 527 |
 | 102 | Kara Lawson | 526 |
 | 103 | Leilani Mitchell | 525 |
@@ -1526,8 +1526,8 @@ _Last updated: 2026-08-29 00:54 UTC_
 | 66 | Natasha Cloud | 773 |
 | 67 | Sheri Sam | 766 |
 | 68 | Kahleah Copper | 758 |
+| 69 | **Allisha Gray** 🔴 +3 | 755 |
 | 69 | Kia Vaughn | 755 |
-| 70 | **Allisha Gray** 🔴 +2 | 754 |
 | 71 | Vickie Johnson | 752 |
 | 72 | Kara Braxton | 748 |
 | 73 | Crystal Langhorne | 737 |
