@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-29 03:38 UTC_
+_Last updated: 2026-08-29 03:39 UTC_
 
 ## Contents
 
@@ -378,7 +378,7 @@ _Last updated: 2026-08-29 03:38 UTC_
 | 152 | Natalie Achonwa | 895 |
 | 153 | Temeka Johnson | 889 |
 | 154 | Mistie Bass | 888 |
-| 155 | **Erica Wheeler** 🔴 +2 | 884 |
+| 155 | **Erica Wheeler** 🔴 +3 | 885 |
 | 156 | Alanna Smith | 878 |
 | 157 | Marina Mabrey | 874 |
 | 158 | Naz Hillmon | 868 |
@@ -873,7 +873,7 @@ _Last updated: 2026-08-29 03:38 UTC_
 | 28 | Natasha Howard | 467 |
 | 29 | Skylar Diggins | 463 |
 | 29 | Teresa Weatherspoon | 463 |
-| 31 | **Chelsea Gray** 🔴 +3 | 460 |
+| 31 | **Chelsea Gray** 🔴 +4 | 461 |
 | 32 | **Jewell Loyd** 🔴 +1 | 459 |
 | 33 | Rebekkah Brunson | 456 |
 | 34 | Tangela Smith | 455 |
@@ -1274,7 +1274,7 @@ _Last updated: 2026-08-29 03:38 UTC_
 | 18 | Cappie Pondexter | 945 |
 | 19 | Katie Smith | 935 |
 | 20 | Shannon Johnson | 934 |
-| 21 | **Chelsea Gray** 🔴 | 927 |
+| 21 | **Chelsea Gray** 🔴 +1 | 928 |
 | 22 | Skylar Diggins | 907 |
 | 23 | Taj McWilliams-Franklin | 898 |
 | 24 | Candice Dupree | 869 |
@@ -1443,7 +1443,7 @@ _Last updated: 2026-08-29 03:38 UTC_
 | 187 | Alex Bentley | 313 |
 | 188 | Natisha Hiedeman | 312 |
 | 189 | Tamika Raymond | 311 |
-| 190 | **Isabelle Harrison** 🔴 +2 | 309 |
+| 190 | **Isabelle Harrison** 🔴 +3 | 310 |
 | 191 | Erin Perperoglou | 305 |
 | 191 | Jennifer Lacy | 305 |
 | 193 | Azurá Stevens | 304 |
@@ -1532,9 +1532,9 @@ _Last updated: 2026-08-29 03:38 UTC_
 | 71 | Vickie Johnson | 752 |
 | 72 | Kara Braxton | 748 |
 | 73 | Crystal Langhorne | 737 |
+| 74 | **Ariel Atkins** 🔴 +4 | 734 |
 | 74 | Shameka Christon | 734 |
-| 75 | **Ariel Atkins** 🔴 +3 | 733 |
-| 75 | Becky Hammon | 733 |
+| 76 | Becky Hammon | 733 |
 | 77 | Elizabeth Williams | 732 |
 | 78 | Latasha Byears | 730 |
 | 79 | Kristi Toliver | 722 |
