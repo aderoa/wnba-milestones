@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-29 18:21 UTC_
+_Last updated: 2026-08-29 18:22 UTC_
 
 ## Contents
 
@@ -236,7 +236,7 @@ _Last updated: 2026-08-29 18:21 UTC_
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | Alyssa Thomas | 2,858 |
-| 13 | **Jonquel Jones** 🔴 +2 | 2,730 |
+| 13 | **Jonquel Jones** 🔴 +4 | 2,732 |
 | 14 | A'ja Wilson | 2,657 |
 | 15 | **Breanna Stewart** 🔴 +7 | 2,639 |
 | 16 | Sancho Lyttle | 2,596 |
@@ -297,7 +297,7 @@ _Last updated: 2026-08-29 18:21 UTC_
 | 71 | Nakia Sanford | 1,419 |
 | 72 | Kayla Thornton | 1,408 |
 | 73 | Allisha Gray | 1,404 |
-| 74 | **Courtney Vandersloot** 🔴 +3 | 1,389 |
+| 74 | **Courtney Vandersloot** 🔴 +4 | 1,390 |
 | 75 | Kara Braxton | 1,387 |
 | 76 | Katie Smith | 1,383 |
 | 77 | Ebony Hoffman | 1,376 |
@@ -1631,8 +1631,8 @@ _Last updated: 2026-08-29 18:21 UTC_
 | 170 | Napheesa Collier | 504 |
 | 173 | Iziane Castro Marques | 502 |
 | 174 | Elena Baranova | 501 |
-| 175 | **Azurá Stevens** 🔴 +3 | 498 |
-| 175 | **Rachel Banham** 🔴 +1 | 498 |
+| 175 | **Azurá Stevens** 🔴 +4 | 499 |
+| 176 | **Rachel Banham** 🔴 +1 | 498 |
 | 177 | Adrian Williams-Strong | 497 |
 | 177 | Essence Carson | 497 |
 | 179 | Nia Coffey | 495 |
