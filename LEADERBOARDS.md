@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-29 03:14 UTC_
+_Last updated: 2026-08-29 03:15 UTC_
 
 ## Contents
 
@@ -69,7 +69,7 @@ _Last updated: 2026-08-29 03:14 UTC_
 | 48 | Courtney Vandersloot | 4,362 |
 | 49 | Jonquel Jones | 4,353 |
 | 50 | Courtney Williams | 4,350 |
-| 51 | **Dearica Hamby** 🔴 +7 | 4,337 |
+| 51 | **Dearica Hamby** 🔴 +9 | 4,339 |
 | 52 | Sophia Young-Malcolm | 4,300 |
 | 53 | Plenette Pierson | 4,258 |
 | 54 | Monique Currie | 4,253 |
@@ -480,7 +480,7 @@ _Last updated: 2026-08-29 03:14 UTC_
 | 48 | Tiffany Hayes | 957 |
 | 49 | Kara Lawson | 946 |
 | 50 | Arike Ogunbowale | 944 |
-| 51 | **Nneka Ogwumike** 🔴 +3 | 936 |
+| 51 | **Nneka Ogwumike** 🔴 +4 | 937 |
 | 52 | Deanna Nolan | 930 |
 | 53 | Kelly Miller | 927 |
 | 54 | DeLisha Milton-Jones | 921 |
@@ -847,7 +847,7 @@ _Last updated: 2026-08-29 03:14 UTC_
 | 2 | Ticha Penicheiro | 761 |
 | 3 | Sue Bird | 724 |
 | 4 | Alana Beard | 710 |
-| 5 | **Nneka Ogwumike** 🔴 +5 | 692 |
+| 5 | **Nneka Ogwumike** 🔴 +4 | 691 |
 | 6 | Sheryl Swoopes | 657 |
 | 7 | DeWanna Bonner | 650 |
 | 8 | Jia Perkins | 634 |
@@ -892,7 +892,7 @@ _Last updated: 2026-08-29 03:14 UTC_
 | 47 | Nicole Powell | 401 |
 | 48 | Jordin Canada | 397 |
 | 49 | Jasmine Thomas | 394 |
-| 50 | **Ariel Atkins** 🔴 | 390 |
+| 50 | **Ariel Atkins** 🔴 +1 | 391 |
 | 51 | Danielle Robinson | 389 |
 | 52 | Deanna Nolan | 388 |
 | 53 | Briann January | 386 |
