@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-29 03:37 UTC_
+_Last updated: 2026-08-29 03:38 UTC_
 
 ## Contents
 
@@ -1244,8 +1244,8 @@ _Last updated: 2026-08-29 03:37 UTC_
 | 193 | Scholanda Dorrell | 109 |
 | 195 | Belinda Snell | 108 |
 | 196 | Layshia Clarendon | 107 |
-| 197 | Laurie Koehn | 105 |
-| 197 | **Sonia Citron** 🔴 +3 | 105 |
+| 197 | **Sonia Citron** 🔴 +4 | 106 |
+| 198 | Laurie Koehn | 105 |
 | 199 | Julie Vanloo | 104 |
 | 200 | Jeanette Pohlen-Mavunga | 103 |
 | 200 | Kiesha Brown | 103 |
