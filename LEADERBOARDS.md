@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-29 01:09 UTC_
+_Last updated: 2026-08-29 01:10 UTC_
 
 ## Contents
 
@@ -128,8 +128,8 @@ _Last updated: 2026-08-29 01:09 UTC_
 | 107 | Dominique Canty | 2,763 |
 | 108 | Ticha Penicheiro | 2,729 |
 | 109 | Adrienne Goodson | 2,705 |
-| 110 | Riquna Williams | 2,659 |
-| 111 | **Rhyne Howard** 🔴 +21 | 2,658 |
+| 110 | **Rhyne Howard** 🔴 +24 | 2,661 |
+| 111 | Riquna Williams | 2,659 |
 | 112 | Essence Carson | 2,647 |
 | 112 | Lindsey Harding | 2,647 |
 | 114 | Cheyenne Parker-Tyus | 2,645 |
@@ -455,7 +455,7 @@ _Last updated: 2026-08-29 01:09 UTC_
 | 23 | Teresa Weatherspoon | 1,333 |
 | 24 | Kristi Toliver | 1,301 |
 | 25 | Kelsey Plum | 1,270 |
-| 26 | **Jordin Canada** 🔴 +4 | 1,266 |
+| 26 | **Jordin Canada** 🔴 +5 | 1,267 |
 | 27 | Katie Smith | 1,258 |
 | 28 | Odyssey Sims | 1,228 |
 | 29 | Vickie Johnson | 1,202 |
@@ -1082,8 +1082,8 @@ _Last updated: 2026-08-29 01:09 UTC_
 | 32 | Skylar Diggins | 447 |
 | 33 | Lauren Jackson | 436 |
 | 34 | Shameka Christon | 434 |
-| 35 | Crystal Robinson | 425 |
-| 35 | **Rhyne Howard** 🔴 +5 | 425 |
+| 35 | **Rhyne Howard** 🔴 +6 | 426 |
+| 36 | Crystal Robinson | 425 |
 | 37 | Mwadi Mabika | 415 |
 | 38 | Penny Taylor | 407 |
 | 38 | Riquna Williams | 407 |
