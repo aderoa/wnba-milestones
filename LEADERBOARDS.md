@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-29 03:52 UTC_
+_Last updated: 2026-08-29 03:53 UTC_
 
 ## Contents
 
@@ -157,7 +157,7 @@ _Last updated: 2026-08-29 03:52 UTC_
 | 135 | Merlakia Jones | 2,308 |
 | 137 | Satou Sabally | 2,296 |
 | 138 | Kia Vaughn | 2,288 |
-| 139 | **Kia Nurse** 🔴 +9 | 2,271 |
+| 139 | **Kia Nurse** 🔴 +12 | 2,274 |
 | 140 | Allison Feaster | 2,258 |
 | 141 | Shekinna Stricklen | 2,245 |
 | 142 | Kara Braxton | 2,237 |
@@ -1097,7 +1097,7 @@ _Last updated: 2026-08-29 03:52 UTC_
 | 47 | Jasmine Thomas | 376 |
 | 48 | Allison Feaster | 372 |
 | 48 | Betty Lennox | 372 |
-| 50 | **Kia Nurse** 🔴 +3 | 371 |
+| 48 | **Kia Nurse** 🔴 +4 | 372 |
 | 51 | Kahleah Copper | 370 |
 | 52 | Epiphanny Prince | 368 |
 | 53 | Nykesha Sales | 352 |
