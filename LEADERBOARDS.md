@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-29 00:56 UTC_
+_Last updated: 2026-08-29 00:57 UTC_
 
 ## Contents
 
@@ -45,7 +45,7 @@ _Last updated: 2026-08-29 00:56 UTC_
 | 24 | DeLisha Milton-Jones | 5,571 |
 | 25 | Katie Douglas | 5,545 |
 | 26 | Lindsay Whalen | 5,511 |
-| 27 | **Kelsey Mitchell** 🔴 +19 | 5,217 |
+| 27 | **Kelsey Mitchell** 🔴 +21 | 5,219 |
 | 28 | Swin Cash | 5,119 |
 | 29 | Tiffany Hayes | 5,049 |
 | 30 | Tangela Smith | 5,035 |
@@ -496,7 +496,7 @@ _Last updated: 2026-08-29 00:56 UTC_
 | 64 | Lisa Leslie | 873 |
 | 65 | Brittney Sykes | 866 |
 | 66 | Tully Bevilaqua | 853 |
-| 67 | **Kelsey Mitchell** 🔴 +2 | 849 |
+| 67 | **Kelsey Mitchell** 🔴 +3 | 850 |
 | 68 | Jia Perkins | 837 |
 | 69 | Andrea Stinson | 810 |
 | 70 | Tina Thompson | 803 |
@@ -532,7 +532,7 @@ _Last updated: 2026-08-29 00:56 UTC_
 | 100 | Natasha Howard | 615 |
 | 101 | Debbie Black | 612 |
 | 102 | Cynthia Cooper | 602 |
-| 103 | **Caitlin Clark** 🔴 +8 | 599 |
+| 103 | **Caitlin Clark** 🔴 +9 | 600 |
 | 104 | Sancho Lyttle | 592 |
 | 105 | Gabby Williams | 591 |
 | 106 | Betnijah Laney-Hamilton | 590 |
@@ -1221,9 +1221,9 @@ _Last updated: 2026-08-29 00:56 UTC_
 | 171 | **Jordin Canada** 🔴 | 128 |
 | 171 | Ticha Penicheiro | 128 |
 | 173 | Michele Timms | 127 |
+| 174 | **Lexie Hull** 🔴 +1 | 126 |
 | 174 | Tamecka Dixon | 126 |
-| 175 | Kennedy Burke | 125 |
-| 175 | **Lexie Hull** 🔴 | 125 |
+| 176 | Kennedy Burke | 125 |
 | 177 | Charde Houston | 124 |
 | 177 | Veronica Burton | 124 |
 | 179 | Lisa Leslie | 123 |
@@ -1333,7 +1333,7 @@ _Last updated: 2026-08-29 00:56 UTC_
 | 78 | Stefanie Dolson | 594 |
 | 79 | Brittney Sykes | 591 |
 | 80 | Breanna Stewart | 586 |
-| 81 | **Kelsey Mitchell** 🔴 | 585 |
+| 80 | **Kelsey Mitchell** 🔴 +1 | 586 |
 | 82 | Helen Darling | 575 |
 | 82 | Nykesha Sales | 575 |
 | 84 | Andrea Stinson | 571 |
