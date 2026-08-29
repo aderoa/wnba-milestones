@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-29 00:19 UTC_
+_Last updated: 2026-08-29 00:20 UTC_
 
 ## Contents
 
@@ -132,7 +132,7 @@ _Last updated: 2026-08-29 00:19 UTC_
 | 111 | Essence Carson | 2,647 |
 | 111 | Lindsey Harding | 2,647 |
 | 113 | Cheyenne Parker-Tyus | 2,645 |
-| 114 | **Rhyne Howard** 🔴 +5 | 2,642 |
+| 113 | **Rhyne Howard** 🔴 +8 | 2,645 |
 | 115 | Tamera Young | 2,641 |
 | 116 | Liz Cambage | 2,634 |
 | 117 | Janeth Arcain | 2,633 |
@@ -383,7 +383,7 @@ _Last updated: 2026-08-29 00:19 UTC_
 | 157 | Marina Mabrey | 874 |
 | 158 | Shameka Christon | 867 |
 | 159 | Krystal Thomas | 862 |
-| 160 | **Naz Hillmon** 🔴 +2 | 861 |
+| 159 | **Naz Hillmon** 🔴 +3 | 862 |
 | 161 | Leilani Mitchell | 845 |
 | 162 | Essence Carson | 833 |
 | 163 | Shakira Austin | 832 |
@@ -587,7 +587,7 @@ _Last updated: 2026-08-29 00:19 UTC_
 | 155 | Adrienne Goodson | 433 |
 | 155 | Crystal Langhorne | 433 |
 | 157 | Elena Baranova | 430 |
-| 158 | **Aliyah Boston** 🔴 | 428 |
+| 158 | **Aliyah Boston** 🔴 +1 | 429 |
 | 159 | Tierra Ruffin-Pratt | 424 |
 | 160 | Kedra Holland-Corn | 423 |
 | 161 | Crystal Dangerfield | 418 |
@@ -1083,7 +1083,7 @@ _Last updated: 2026-08-29 00:19 UTC_
 | 33 | Lauren Jackson | 436 |
 | 34 | Shameka Christon | 434 |
 | 35 | Crystal Robinson | 425 |
-| 36 | **Rhyne Howard** 🔴 | 420 |
+| 36 | **Rhyne Howard** 🔴 +1 | 421 |
 | 37 | Mwadi Mabika | 415 |
 | 38 | Penny Taylor | 407 |
 | 38 | Riquna Williams | 407 |
