@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-29 03:47 UTC_
+_Last updated: 2026-08-29 03:48 UTC_
 
 ## Contents
 
@@ -435,7 +435,7 @@ _Last updated: 2026-08-29 03:47 UTC_
 | 3 | Ticha Penicheiro | 2,588 |
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
-| 6 | **Chelsea Gray** 🔴 +3 | 2,006 |
+| 6 | **Chelsea Gray** 🔴 +4 | 2,007 |
 | 7 | Alyssa Thomas | 1,971 |
 | 8 | Skylar Diggins | 1,852 |
 | 9 | Natasha Cloud | 1,802 |
@@ -904,8 +904,8 @@ _Last updated: 2026-08-29 03:47 UTC_
 | 59 | Chamique Holdsclaw | 376 |
 | 60 | Brittney Sykes | 371 |
 | 61 | Mwadi Mabika | 370 |
-| 62 | **A'ja Wilson** 🔴 | 361 |
-| 62 | **Erica Wheeler** 🔴 | 361 |
+| 62 | **A'ja Wilson** 🔴 +1 | 362 |
+| 63 | **Erica Wheeler** 🔴 | 361 |
 | 64 | Lauren Jackson | 360 |
 | 64 | Tan White | 360 |
 | 66 | Vickie Johnson | 357 |
@@ -1183,9 +1183,9 @@ _Last updated: 2026-08-29 03:47 UTC_
 | 133 | Tyasha Harris | 163 |
 | 134 | Ukari Figgs | 162 |
 | 135 | Edna Campbell | 161 |
-| 136 | **Dana Evans** 🔴 | 160 |
-| 136 | Jennifer Lacy | 160 |
-| 136 | **Stephanie Talbot** 🔴 | 160 |
+| 135 | **Stephanie Talbot** 🔴 +1 | 161 |
+| 137 | **Dana Evans** 🔴 | 160 |
+| 137 | Jennifer Lacy | 160 |
 | 139 | Aari McDonald | 158 |
 | 139 | Jennifer Azzi | 158 |
 | 139 | Natasha Howard | 158 |
@@ -1442,8 +1442,8 @@ _Last updated: 2026-08-29 03:47 UTC_
 | 185 | Moriah Jefferson | 314 |
 | 187 | Alex Bentley | 313 |
 | 188 | Natisha Hiedeman | 312 |
+| 189 | **Isabelle Harrison** 🔴 +4 | 311 |
 | 189 | Tamika Raymond | 311 |
-| 190 | **Isabelle Harrison** 🔴 +3 | 310 |
 | 191 | Erin Perperoglou | 305 |
 | 191 | Jennifer Lacy | 305 |
 | 193 | Azurá Stevens | 304 |
