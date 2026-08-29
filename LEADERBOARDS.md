@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-29 02:25 UTC_
+_Last updated: 2026-08-29 02:26 UTC_
 
 ## Contents
 
@@ -69,7 +69,7 @@ _Last updated: 2026-08-29 02:25 UTC_
 | 48 | Courtney Vandersloot | 4,362 |
 | 49 | Jonquel Jones | 4,353 |
 | 50 | Courtney Williams | 4,350 |
-| 51 | **Dearica Hamby** 🔴 +5 | 4,335 |
+| 51 | **Dearica Hamby** 🔴 +7 | 4,337 |
 | 52 | Sophia Young-Malcolm | 4,300 |
 | 53 | Plenette Pierson | 4,258 |
 | 54 | Monique Currie | 4,253 |
@@ -385,7 +385,7 @@ _Last updated: 2026-08-29 02:25 UTC_
 | 159 | Shameka Christon | 867 |
 | 160 | Krystal Thomas | 862 |
 | 161 | Leilani Mitchell | 845 |
-| 162 | **Shakira Austin** 🔴 +3 | 835 |
+| 162 | **Shakira Austin** 🔴 +4 | 836 |
 | 163 | Essence Carson | 833 |
 | 164 | Gabby Williams | 831 |
 | 165 | Kristi Toliver | 829 |
@@ -534,9 +534,9 @@ _Last updated: 2026-08-29 02:25 UTC_
 | 102 | Caitlin Clark | 603 |
 | 103 | Cynthia Cooper | 602 |
 | 104 | Sancho Lyttle | 592 |
+| 105 | **Betnijah Laney-Hamilton** 🔴 +1 | 591 |
 | 105 | Gabby Williams | 591 |
-| 106 | **Betnijah Laney-Hamilton** 🔴 | 590 |
-| 106 | Camille Smith | 590 |
+| 107 | Camille Smith | 590 |
 | 108 | Armintie Herrington | 589 |
 | 109 | Veronica Burton | 579 |
 | 110 | Tan White | 578 |
