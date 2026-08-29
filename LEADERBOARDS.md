@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-29 02:28 UTC_
+_Last updated: 2026-08-29 02:29 UTC_
 
 ## Contents
 
@@ -130,7 +130,7 @@ _Last updated: 2026-08-29 02:28 UTC_
 | 109 | Adrienne Goodson | 2,705 |
 | 110 | Rhyne Howard | 2,663 |
 | 111 | Riquna Williams | 2,659 |
-| 112 | **Cheyenne Parker-Tyus** 🔴 +5 | 2,650 |
+| 112 | **Cheyenne Parker-Tyus** 🔴 +6 | 2,651 |
 | 113 | Essence Carson | 2,647 |
 | 113 | Lindsey Harding | 2,647 |
 | 115 | Tamera Young | 2,641 |
@@ -289,7 +289,7 @@ _Last updated: 2026-08-29 02:28 UTC_
 | 63 | Ticha Penicheiro | 1,485 |
 | 64 | Alysha Clark | 1,469 |
 | 65 | Sue Bird | 1,466 |
-| 66 | **Cheyenne Parker-Tyus** 🔴 +1 | 1,464 |
+| 66 | **Cheyenne Parker-Tyus** 🔴 +2 | 1,465 |
 | 67 | Nicole Powell | 1,457 |
 | 68 | Monique Billings | 1,433 |
 | 68 | Tamera Young | 1,433 |
@@ -607,7 +607,7 @@ _Last updated: 2026-08-29 02:28 UTC_
 | 174 | Tamicha Jackson | 389 |
 | 176 | Bridget Carleton | 387 |
 | 176 | Riquna Williams | 387 |
-| 178 | Dana Evans | 379 |
+| 178 | **Dana Evans** 🔴 | 379 |
 | 179 | Jessica Breland | 377 |
 | 180 | Shenise Johnson | 376 |
 | 181 | Alanna Smith | 374 |
@@ -1183,7 +1183,7 @@ _Last updated: 2026-08-29 02:28 UTC_
 | 133 | Tyasha Harris | 163 |
 | 134 | Ukari Figgs | 162 |
 | 135 | Edna Campbell | 161 |
-| 136 | Dana Evans | 160 |
+| 136 | **Dana Evans** 🔴 | 160 |
 | 136 | Jennifer Lacy | 160 |
 | 136 | **Stephanie Talbot** 🔴 | 160 |
 | 139 | Aari McDonald | 158 |
