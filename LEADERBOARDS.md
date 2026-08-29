@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-29 02:41 UTC_
+_Last updated: 2026-08-29 02:42 UTC_
 
 ## Contents
 
@@ -22,7 +22,7 @@ _Last updated: 2026-08-29 02:41 UTC_
 | 1 | Diana Taurasi | 10,608 |
 | 2 | Tina Charles | 8,396 |
 | 3 | DeWanna Bonner | 7,972 |
-| 4 | **Nneka Ogwumike** 🔴 +11 | 7,574 |
+| 4 | **Nneka Ogwumike** 🔴 +13 | 7,576 |
 | 5 | Tina Thompson | 7,470 |
 | 6 | Tamika Catchings | 7,371 |
 | 7 | Candice Dupree | 6,861 |
@@ -385,7 +385,7 @@ _Last updated: 2026-08-29 02:41 UTC_
 | 159 | Shameka Christon | 867 |
 | 160 | Krystal Thomas | 862 |
 | 161 | Leilani Mitchell | 845 |
-| 162 | **Shakira Austin** 🔴 +7 | 839 |
+| 162 | **Shakira Austin** 🔴 +6 | 838 |
 | 163 | Essence Carson | 833 |
 | 164 | Gabby Williams | 831 |
 | 165 | Kristi Toliver | 829 |
@@ -450,7 +450,7 @@ _Last updated: 2026-08-29 02:41 UTC_
 | 18 | Temeka Johnson | 1,382 |
 | 19 | Jasmine Thomas | 1,355 |
 | 20 | Briann January | 1,339 |
-| 21 | **Erica Wheeler** 🔴 +3 | 1,338 |
+| 20 | **Erica Wheeler** 🔴 +4 | 1,339 |
 | 22 | Dawn Staley | 1,337 |
 | 23 | Teresa Weatherspoon | 1,333 |
 | 24 | Kristi Toliver | 1,301 |
