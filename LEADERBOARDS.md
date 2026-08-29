@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-29 02:10 UTC_
+_Last updated: 2026-08-29 02:11 UTC_
 
 ## Contents
 
@@ -154,7 +154,7 @@ _Last updated: 2026-08-29 02:10 UTC_
 | 133 | Alex Bentley | 2,350 |
 | 134 | Azurá Stevens | 2,343 |
 | 135 | Merlakia Jones | 2,308 |
-| 136 | Betnijah Laney-Hamilton | 2,302 |
+| 136 | **Betnijah Laney-Hamilton** 🔴 | 2,302 |
 | 137 | Satou Sabally | 2,296 |
 | 138 | Kia Vaughn | 2,288 |
 | 139 | **Kia Nurse** 🔴 +3 | 2,265 |
@@ -394,7 +394,7 @@ _Last updated: 2026-08-29 02:10 UTC_
 | 168 | Amanda Zahui B | 819 |
 | 168 | Barbara Farris | 819 |
 | 170 | Carolyn Swords | 814 |
-| 171 | Betnijah Laney-Hamilton | 812 |
+| 171 | **Betnijah Laney-Hamilton** 🔴 | 812 |
 | 172 | Tierra Ruffin-Pratt | 799 |
 | 173 | **Ariel Atkins** 🔴 | 798 |
 | 174 | Charlotte Smith | 794 |
@@ -451,7 +451,7 @@ _Last updated: 2026-08-29 02:10 UTC_
 | 19 | Jasmine Thomas | 1,355 |
 | 20 | Briann January | 1,339 |
 | 21 | Dawn Staley | 1,337 |
-| 22 | **Erica Wheeler** 🔴 +1 | 1,336 |
+| 21 | **Erica Wheeler** 🔴 +2 | 1,337 |
 | 23 | Teresa Weatherspoon | 1,333 |
 | 24 | Kristi Toliver | 1,301 |
 | 25 | Kelsey Plum | 1,270 |
@@ -535,7 +535,7 @@ _Last updated: 2026-08-29 02:10 UTC_
 | 103 | Cynthia Cooper | 602 |
 | 104 | Sancho Lyttle | 592 |
 | 105 | Gabby Williams | 591 |
-| 106 | Betnijah Laney-Hamilton | 590 |
+| 106 | **Betnijah Laney-Hamilton** 🔴 | 590 |
 | 106 | Camille Smith | 590 |
 | 108 | Armintie Herrington | 589 |
 | 109 | Veronica Burton | 579 |
@@ -873,8 +873,8 @@ _Last updated: 2026-08-29 02:10 UTC_
 | 28 | Natasha Howard | 467 |
 | 29 | Skylar Diggins | 463 |
 | 29 | Teresa Weatherspoon | 463 |
+| 31 | **Chelsea Gray** 🔴 +1 | 458 |
 | 31 | Jewell Loyd | 458 |
-| 32 | **Chelsea Gray** 🔴 | 457 |
 | 33 | Rebekkah Brunson | 456 |
 | 34 | Tangela Smith | 455 |
 | 35 | Tina Thompson | 452 |
@@ -1007,7 +1007,7 @@ _Last updated: 2026-08-29 02:10 UTC_
 | 161 | Tiffany Mitchell | 209 |
 | 163 | Kia Vaughn | 208 |
 | 163 | Sophia Witherspoon | 208 |
-| 165 | Betnijah Laney-Hamilton | 207 |
+| 165 | **Betnijah Laney-Hamilton** 🔴 | 207 |
 | 166 | Shameka Christon | 205 |
 | 167 | Jessica Breland | 204 |
 | 167 | Murriel Page | 204 |
@@ -1155,7 +1155,7 @@ _Last updated: 2026-08-29 02:10 UTC_
 | 105 | Damiris Dantas | 212 |
 | 106 | Erin Phillips | 211 |
 | 107 | Andrea Stinson | 207 |
-| 108 | Betnijah Laney-Hamilton | 206 |
+| 108 | **Betnijah Laney-Hamilton** 🔴 | 206 |
 | 109 | Lexie Brown | 203 |
 | 110 | Caitlin Clark | 201 |
 | 111 | Shanna Zolman | 199 |
@@ -1377,7 +1377,7 @@ _Last updated: 2026-08-29 02:10 UTC_
 | 121 | Allie Quigley | 467 |
 | 122 | **Ariel Atkins** 🔴 | 465 |
 | 123 | **Jackie Young** 🔴 | 463 |
-| 124 | Betnijah Laney-Hamilton | 456 |
+| 124 | **Betnijah Laney-Hamilton** 🔴 | 456 |
 | 125 | Kia Vaughn | 454 |
 | 126 | Janeth Arcain | 453 |
 | 127 | Elena Baranova | 444 |
@@ -1436,7 +1436,7 @@ _Last updated: 2026-08-29 02:10 UTC_
 | 179 | Rita Williams | 326 |
 | 181 | Le'coe Willingham | 325 |
 | 182 | Olympia Scott | 324 |
-| 183 | **Kia Nurse** 🔴 +1 | 321 |
+| 183 | **Kia Nurse** 🔴 +2 | 322 |
 | 184 | Barbara Farris | 315 |
 | 185 | Monique Billings | 314 |
 | 185 | Moriah Jefferson | 314 |
@@ -1535,8 +1535,8 @@ _Last updated: 2026-08-29 02:10 UTC_
 | 74 | Shameka Christon | 734 |
 | 75 | Becky Hammon | 733 |
 | 76 | Elizabeth Williams | 732 |
-| 77 | **Ariel Atkins** 🔴 | 730 |
-| 77 | Latasha Byears | 730 |
+| 77 | **Ariel Atkins** 🔴 +1 | 731 |
+| 78 | Latasha Byears | 730 |
 | 79 | Kristi Toliver | 722 |
 | 80 | Cheryl Ford | 713 |
 | 81 | Jia Perkins | 711 |
