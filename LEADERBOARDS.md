@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-29 03:11 UTC_
+_Last updated: 2026-08-29 03:12 UTC_
 
 ## Contents
 
@@ -22,7 +22,7 @@ _Last updated: 2026-08-29 03:11 UTC_
 | 1 | Diana Taurasi | 10,608 |
 | 2 | Tina Charles | 8,396 |
 | 3 | DeWanna Bonner | 7,972 |
-| 4 | **Nneka Ogwumike** 🔴 +22 | 7,585 |
+| 4 | **Nneka Ogwumike** 🔴 +24 | 7,587 |
 | 5 | Tina Thompson | 7,470 |
 | 6 | Tamika Catchings | 7,371 |
 | 7 | Candice Dupree | 6,861 |
@@ -58,7 +58,7 @@ _Last updated: 2026-08-29 03:11 UTC_
 | 37 | Chamique Holdsclaw | 4,713 |
 | 38 | Elena Delle Donne | 4,706 |
 | 39 | Natasha Howard | 4,682 |
-| 40 | **Chelsea Gray** 🔴 +4 | 4,629 |
+| 40 | **Chelsea Gray** 🔴 +6 | 4,631 |
 | 41 | Penny Taylor | 4,595 |
 | 42 | Allisha Gray | 4,502 |
 | 43 | Kelsey Plum | 4,494 |
@@ -83,7 +83,7 @@ _Last updated: 2026-08-29 03:11 UTC_
 | 62 | Allie Quigley | 3,786 |
 | 63 | Chasity Melvin | 3,781 |
 | 64 | Brittney Sykes | 3,726 |
-| 65 | **Jackie Young** 🔴 +17 | 3,715 |
+| 65 | **Jackie Young** 🔴 +19 | 3,717 |
 | 66 | Kara Lawson | 3,670 |
 | 67 | Mwadi Mabika | 3,576 |
 | 68 | Odyssey Sims | 3,574 |
@@ -237,7 +237,7 @@ _Last updated: 2026-08-29 03:11 UTC_
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | Alyssa Thomas | 2,858 |
 | 13 | Jonquel Jones | 2,728 |
-| 14 | **A'ja Wilson** 🔴 +4 | 2,661 |
+| 14 | **A'ja Wilson** 🔴 +5 | 2,662 |
 | 15 | Breanna Stewart | 2,632 |
 | 16 | Sancho Lyttle | 2,596 |
 | 17 | Brittney Griner | 2,579 |
@@ -343,7 +343,7 @@ _Last updated: 2026-08-29 03:11 UTC_
 | 117 | Becky Hammon | 1,108 |
 | 118 | Ann Wauters | 1,105 |
 | 119 | **Isabelle Harrison** 🔴 +5 | 1,102 |
-| 120 | **Jackie Young** 🔴 +2 | 1,087 |
+| 120 | **Jackie Young** 🔴 +3 | 1,088 |
 | 121 | Svetlana Abrosimova | 1,078 |
 | 122 | Le'coe Willingham | 1,054 |
 | 123 | Angel Reese | 1,051 |
@@ -395,8 +395,8 @@ _Last updated: 2026-08-29 03:11 UTC_
 | 168 | Barbara Farris | 819 |
 | 170 | **Betnijah Laney-Hamilton** 🔴 +2 | 814 |
 | 170 | Carolyn Swords | 814 |
+| 172 | **Ariel Atkins** 🔴 +1 | 799 |
 | 172 | Tierra Ruffin-Pratt | 799 |
-| 173 | **Ariel Atkins** 🔴 | 798 |
 | 174 | Charlotte Smith | 794 |
 | 175 | Mercedes Russell | 789 |
 | 176 | Rhonda Mapp | 788 |
@@ -449,8 +449,8 @@ _Last updated: 2026-08-29 03:11 UTC_
 | 16 | Tanisha Wright | 1,423 |
 | 18 | Temeka Johnson | 1,382 |
 | 19 | Jasmine Thomas | 1,355 |
-| 20 | Briann January | 1,339 |
-| 20 | **Erica Wheeler** 🔴 +4 | 1,339 |
+| 20 | **Erica Wheeler** 🔴 +5 | 1,340 |
+| 21 | Briann January | 1,339 |
 | 22 | Dawn Staley | 1,337 |
 | 23 | Teresa Weatherspoon | 1,333 |
 | 24 | Kristi Toliver | 1,301 |
@@ -461,8 +461,8 @@ _Last updated: 2026-08-29 03:11 UTC_
 | 29 | Vickie Johnson | 1,202 |
 | 30 | Leilani Mitchell | 1,197 |
 | 31 | DeWanna Bonner | 1,196 |
+| 32 | **Jackie Young** 🔴 +7 | 1,157 |
 | 32 | **Jewell Loyd** 🔴 +1 | 1,157 |
-| 33 | **Jackie Young** 🔴 +6 | 1,156 |
 | 34 | Renee Montgomery | 1,140 |
 | 35 | Swin Cash | 1,131 |
 | 36 | Sabrina Ionescu | 1,092 |
@@ -1367,7 +1367,7 @@ _Last updated: 2026-08-29 03:11 UTC_
 | 111 | Nikki Teasley | 493 |
 | 111 | Tari Phillips | 493 |
 | 113 | Janel McCarville | 491 |
-| 114 | **A'ja Wilson** 🔴 | 488 |
+| 114 | **A'ja Wilson** 🔴 +1 | 489 |
 | 115 | Erika de Souza | 483 |
 | 116 | Sophia Young-Malcolm | 482 |
 | 117 | Natalie Williams | 480 |
