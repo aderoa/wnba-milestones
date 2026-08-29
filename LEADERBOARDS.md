@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-29 03:53 UTC_
+_Last updated: 2026-08-29 03:54 UTC_
 
 ## Contents
 
@@ -288,7 +288,7 @@ _Last updated: 2026-08-29 03:53 UTC_
 | 62 | Napheesa Collier | 1,510 |
 | 63 | Ticha Penicheiro | 1,485 |
 | 64 | Alysha Clark | 1,469 |
-| 65 | **Cheyenne Parker-Tyus** 🔴 +4 | 1,467 |
+| 65 | **Cheyenne Parker-Tyus** 🔴 +5 | 1,468 |
 | 66 | Sue Bird | 1,466 |
 | 67 | Nicole Powell | 1,457 |
 | 68 | Monique Billings | 1,433 |
@@ -904,7 +904,7 @@ _Last updated: 2026-08-29 03:53 UTC_
 | 59 | Chamique Holdsclaw | 376 |
 | 60 | Brittney Sykes | 371 |
 | 61 | Mwadi Mabika | 370 |
-| 62 | **A'ja Wilson** 🔴 +2 | 363 |
+| 62 | **A'ja Wilson** 🔴 +1 | 362 |
 | 63 | **Erica Wheeler** 🔴 | 361 |
 | 64 | Lauren Jackson | 360 |
 | 64 | Tan White | 360 |
@@ -1532,8 +1532,8 @@ _Last updated: 2026-08-29 03:53 UTC_
 | 71 | Vickie Johnson | 752 |
 | 72 | Kara Braxton | 748 |
 | 73 | Crystal Langhorne | 737 |
-| 74 | **Ariel Atkins** 🔴 +4 | 734 |
-| 74 | Shameka Christon | 734 |
+| 74 | **Ariel Atkins** 🔴 +5 | 735 |
+| 75 | Shameka Christon | 734 |
 | 76 | Becky Hammon | 733 |
 | 77 | Elizabeth Williams | 732 |
 | 78 | Latasha Byears | 730 |
