@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-30 22:08 UTC_
+_Last updated: 2026-08-30 22:09 UTC_
 
 ## Contents
 
@@ -22,7 +22,7 @@ _Last updated: 2026-08-30 22:08 UTC_
 | 1 | Diana Taurasi | 10,608 |
 | 2 | Tina Charles | 8,396 |
 | 3 | DeWanna Bonner | 7,979 |
-| 4 | **Nneka Ogwumike** 🔴 +12 | 7,575 |
+| 4 | **Nneka Ogwumike** 🔴 +17 | 7,580 |
 | 5 | Tina Thompson | 7,470 |
 | 6 | Tamika Catchings | 7,371 |
 | 7 | Candice Dupree | 6,861 |
@@ -451,7 +451,7 @@ _Last updated: 2026-08-30 22:08 UTC_
 | 19 | Jasmine Thomas | 1,355 |
 | 20 | Briann January | 1,339 |
 | 21 | Dawn Staley | 1,337 |
-| 22 | **Erica Wheeler** 🔴 +1 | 1,336 |
+| 21 | **Erica Wheeler** 🔴 +2 | 1,337 |
 | 23 | Teresa Weatherspoon | 1,333 |
 | 24 | Kristi Toliver | 1,301 |
 | 25 | Jordin Canada | 1,272 |
@@ -506,8 +506,8 @@ _Last updated: 2026-08-30 22:08 UTC_
 | 74 | Allisha Gray | 769 |
 | 75 | Sheri Sam | 745 |
 | 76 | Monique Currie | 740 |
+| 77 | **Dearica Hamby** 🔴 +2 | 728 |
 | 77 | Elaine Powell | 728 |
-| 78 | **Dearica Hamby** 🔴 +1 | 727 |
 | 79 | **Stefanie Dolson** 🔴 | 707 |
 | 80 | Chamique Holdsclaw | 698 |
 | 81 | Shavonte Zellous | 693 |
@@ -886,7 +886,7 @@ _Last updated: 2026-08-30 22:08 UTC_
 | 41 | Candice Dupree | 431 |
 | 42 | Epiphanny Prince | 429 |
 | 43 | Tanisha Wright | 427 |
-| 44 | **Dearica Hamby** 🔴 +2 | 413 |
+| 44 | **Dearica Hamby** 🔴 +3 | 414 |
 | 45 | Katie Smith | 408 |
 | 46 | Cappie Pondexter | 405 |
 | 47 | Nicole Powell | 401 |
@@ -1133,9 +1133,9 @@ _Last updated: 2026-08-30 22:08 UTC_
 | 83 | Iziane Castro Marques | 275 |
 | 84 | Sheryl Swoopes | 270 |
 | 85 | Sophia Witherspoon | 260 |
+| 86 | **Nneka Ogwumike** 🔴 +2 | 255 |
 | 86 | Rebecca Allen | 255 |
-| 87 | Dawn Staley | 254 |
-| 87 | **Nneka Ogwumike** 🔴 +1 | 254 |
+| 88 | Dawn Staley | 254 |
 | 89 | Bria Hartley | 253 |
 | 90 | Angel McCoughtry | 249 |
 | 91 | Azurá Stevens | 247 |
