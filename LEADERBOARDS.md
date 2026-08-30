@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-30 20:43 UTC_
+_Last updated: 2026-08-30 20:44 UTC_
 
 ## Contents
 
@@ -1527,7 +1527,7 @@ _Last updated: 2026-08-30 20:43 UTC_
 | 67 | Sheri Sam | 766 |
 | 68 | Kahleah Copper | 758 |
 | 69 | Kia Vaughn | 755 |
-| 70 | **Allisha Gray** 🔴 +1 | 753 |
+| 70 | **Allisha Gray** 🔴 +2 | 754 |
 | 71 | Vickie Johnson | 752 |
 | 72 | Kara Braxton | 748 |
 | 73 | Crystal Langhorne | 737 |
@@ -1635,8 +1635,8 @@ _Last updated: 2026-08-30 20:43 UTC_
 | 175 | Adrian Williams-Strong | 497 |
 | 175 | Essence Carson | 497 |
 | 175 | Rachel Banham | 497 |
-| 178 | Azurá Stevens | 495 |
-| 178 | **Nia Coffey** 🔴 | 495 |
+| 178 | **Nia Coffey** 🔴 +1 | 496 |
+| 179 | Azurá Stevens | 495 |
 | 180 | Karima Christmas-Kelly | 494 |
 | 181 | Ann Wauters | 493 |
 | 181 | Riquna Williams | 493 |
