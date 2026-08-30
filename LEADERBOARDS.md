@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-30 02:05 UTC_
+_Last updated: 2026-08-30 02:06 UTC_
 
 ## Contents
 
@@ -52,7 +52,7 @@ _Last updated: 2026-08-30 02:05 UTC_
 | 31 | Taj McWilliams-Franklin | 4,992 |
 | 32 | Maya Moore | 4,984 |
 | 33 | Sheryl Swoopes | 4,875 |
-| 34 | **Alyssa Thomas** 🔴 +2 | 4,754 |
+| 34 | Alyssa Thomas | 4,752 |
 | 35 | Alana Beard | 4,740 |
 | 36 | Arike Ogunbowale | 4,715 |
 | 37 | Chamique Holdsclaw | 4,713 |
@@ -157,7 +157,7 @@ _Last updated: 2026-08-30 02:05 UTC_
 | 136 | Betnijah Laney-Hamilton | 2,302 |
 | 137 | Satou Sabally | 2,296 |
 | 138 | Kia Vaughn | 2,288 |
-| 139 | **Kia Nurse** 🔴 | 2,262 |
+| 139 | Kia Nurse | 2,262 |
 | 140 | Allison Feaster | 2,258 |
 | 141 | Shekinna Stricklen | 2,245 |
 | 142 | Kara Braxton | 2,237 |
@@ -165,7 +165,7 @@ _Last updated: 2026-08-30 02:05 UTC_
 | 144 | Teaira McCowan | 2,229 |
 | 145 | Dawn Staley | 2,228 |
 | 146 | Janel McCarville | 2,215 |
-| 147 | **Sami Whitcomb** 🔴 | 2,211 |
+| 147 | Sami Whitcomb | 2,211 |
 | 148 | Sophia Witherspoon | 2,210 |
 | 149 | Ruthie Bolton | 2,175 |
 | 150 | Ann Wauters | 2,170 |
@@ -187,7 +187,7 @@ _Last updated: 2026-08-30 02:05 UTC_
 | 166 | Nicole Ohlde | 1,959 |
 | 167 | Myisha Hines-Allen | 1,956 |
 | 168 | Kedra Holland-Corn | 1,938 |
-| 169 | **Isabelle Harrison** 🔴 | 1,932 |
+| 169 | Isabelle Harrison | 1,932 |
 | 170 | Cathrine Kraayeveld | 1,926 |
 | 171 | Roneeka Hodges | 1,925 |
 | 172 | Latasha Byears | 1,920 |
@@ -235,7 +235,7 @@ _Last updated: 2026-08-30 02:05 UTC_
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
-| 12 | **Alyssa Thomas** 🔴 | 2,858 |
+| 12 | Alyssa Thomas | 2,858 |
 | 13 | Jonquel Jones | 2,732 |
 | 14 | A'ja Wilson | 2,657 |
 | 15 | Breanna Stewart | 2,641 |
@@ -342,7 +342,7 @@ _Last updated: 2026-08-30 02:05 UTC_
 | 116 | Chiney Ogwumike | 1,110 |
 | 117 | Becky Hammon | 1,108 |
 | 118 | Ann Wauters | 1,105 |
-| 119 | **Isabelle Harrison** 🔴 | 1,097 |
+| 119 | Isabelle Harrison | 1,097 |
 | 120 | Jackie Young | 1,085 |
 | 121 | Svetlana Abrosimova | 1,078 |
 | 122 | Le'coe Willingham | 1,054 |
@@ -418,8 +418,8 @@ _Last updated: 2026-08-30 02:05 UTC_
 | 192 | Alex Montgomery | 735 |
 | 193 | Ashley Robinson | 734 |
 | 194 | Shenise Johnson | 729 |
-| 195 | **Sami Whitcomb** 🔴 +1 | 727 |
-| 196 | Shekinna Stricklen | 726 |
+| 195 | Sami Whitcomb | 726 |
+| 195 | Shekinna Stricklen | 726 |
 | 197 | Olympia Scott | 711 |
 | 198 | Rebecca Allen | 709 |
 | 199 | Katie Mattera | 708 |
@@ -435,7 +435,7 @@ _Last updated: 2026-08-30 02:05 UTC_
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
 | 6 | Chelsea Gray | 2,003 |
-| 7 | **Alyssa Thomas** 🔴 | 1,971 |
+| 7 | Alyssa Thomas | 1,971 |
 | 8 | Skylar Diggins | 1,852 |
 | 9 | Natasha Cloud | 1,803 |
 | 10 | Becky Hammon | 1,705 |
@@ -526,7 +526,7 @@ _Last updated: 2026-08-30 02:05 UTC_
 | 95 | Alex Bentley | 645 |
 | 96 | Asjha Jones | 637 |
 | 97 | Jennifer Azzi | 636 |
-| 98 | **Sami Whitcomb** 🔴 | 623 |
+| 98 | Sami Whitcomb | 623 |
 | 99 | Alysha Clark | 619 |
 | 100 | Natasha Howard | 615 |
 | 101 | Debbie Black | 612 |
@@ -595,7 +595,7 @@ _Last updated: 2026-08-30 02:05 UTC_
 | 164 | Erin Thorn | 414 |
 | 165 | Jamierra Faulkner | 410 |
 | 165 | Murriel Page | 410 |
-| 167 | **Kia Nurse** 🔴 | 407 |
+| 167 | Kia Nurse | 407 |
 | 168 | Allison Feaster | 406 |
 | 169 | Rita Williams | 403 |
 | 170 | Stephanie Talbot | 400 |
@@ -729,7 +729,7 @@ _Last updated: 2026-08-30 02:05 UTC_
 | 93 | Brooke Wyckoff | 129 |
 | 93 | Cathrine Kraayeveld | 129 |
 | 95 | Emily Engstler | 128 |
-| 96 | **Alyssa Thomas** 🔴 | 127 |
+| 96 | Alyssa Thomas | 127 |
 | 96 | Chelsea Gray | 127 |
 | 96 | Chiney Ogwumike | 127 |
 | 96 | Kristen Rasmussen | 127 |
@@ -737,7 +737,7 @@ _Last updated: 2026-08-30 02:05 UTC_
 | 100 | Katie Douglas | 126 |
 | 100 | Mistie Bass | 126 |
 | 103 | Brionna Jones | 125 |
-| 104 | **Natasha Mack** 🔴 | 123 |
+| 104 | Natasha Mack | 123 |
 | 105 | Natalie Williams | 122 |
 | 106 | Ebony Hoffman | 121 |
 | 106 | Essence Carson | 121 |
@@ -761,7 +761,7 @@ _Last updated: 2026-08-30 02:05 UTC_
 | 124 | Rebecca Lobo | 104 |
 | 126 | Jennifer Gillom | 103 |
 | 126 | Jia Perkins | 103 |
-| 128 | **Isabelle Harrison** 🔴 | 102 |
+| 128 | Isabelle Harrison | 102 |
 | 128 | Theresa Plaisance | 102 |
 | 130 | Deanna Nolan | 101 |
 | 131 | Chante Black | 100 |
@@ -854,7 +854,7 @@ _Last updated: 2026-08-30 02:05 UTC_
 | 10 | Angel McCoughtry | 627 |
 | 11 | Katie Douglas | 623 |
 | 12 | DeLisha Milton-Jones | 619 |
-| 13 | **Alyssa Thomas** 🔴 | 582 |
+| 13 | Alyssa Thomas | 582 |
 | 14 | Taj McWilliams-Franklin | 577 |
 | 15 | Tully Bevilaqua | 571 |
 | 16 | Courtney Vandersloot | 545 |
@@ -969,7 +969,7 @@ _Last updated: 2026-08-30 02:05 UTC_
 | 124 | Ruthie Bolton | 254 |
 | 126 | Hamchetou Maiga-Ba | 251 |
 | 126 | Tamika Whitmore | 251 |
-| 128 | **Sami Whitcomb** 🔴 | 246 |
+| 128 | Sami Whitcomb | 246 |
 | 129 | Latasha Byears | 245 |
 | 130 | Alex Bentley | 244 |
 | 131 | Ivory Latta | 243 |
@@ -1020,7 +1020,7 @@ _Last updated: 2026-08-30 02:05 UTC_
 | 174 | Tierra Ruffin-Pratt | 194 |
 | 177 | Cynthia Cooper | 192 |
 | 178 | Myisha Hines-Allen | 191 |
-| 179 | **Isabelle Harrison** 🔴 | 190 |
+| 179 | Isabelle Harrison | 190 |
 | 180 | Tamicha Jackson | 188 |
 | 181 | Michele Timms | 187 |
 | 182 | Charde Houston | 185 |
@@ -1066,7 +1066,7 @@ _Last updated: 2026-08-30 02:05 UTC_
 | 17 | Ivory Latta | 536 |
 | 18 | Renee Montgomery | 532 |
 | 19 | Maya Moore | 530 |
-| 20 | **Sami Whitcomb** 🔴 | 511 |
+| 20 | Sami Whitcomb | 511 |
 | 21 | Allie Quigley | 510 |
 | 22 | Leilani Mitchell | 508 |
 | 23 | Marina Mabrey | 500 |
@@ -1098,7 +1098,7 @@ _Last updated: 2026-08-30 02:05 UTC_
 | 48 | Betty Lennox | 372 |
 | 50 | Kahleah Copper | 370 |
 | 51 | Epiphanny Prince | 368 |
-| 51 | **Kia Nurse** 🔴 | 368 |
+| 51 | Kia Nurse | 368 |
 | 53 | Nykesha Sales | 352 |
 | 54 | Jackie Young | 346 |
 | 54 | Natasha Cloud | 346 |
@@ -1264,7 +1264,7 @@ _Last updated: 2026-08-30 02:05 UTC_
 | 10 | Candace Parker | 1,062 |
 | 11 | Tamika Catchings | 1,041 |
 | 12 | Tina Charles | 1,040 |
-| 13 | **Alyssa Thomas** 🔴 | 1,035 |
+| 13 | Alyssa Thomas | 1,035 |
 | 14 | Lindsay Whalen | 1,002 |
 | 15 | Sylvia Fowles | 961 |
 | 16 | Tanisha Wright | 954 |
@@ -1393,7 +1393,7 @@ _Last updated: 2026-08-30 02:05 UTC_
 | 138 | Napheesa Collier | 422 |
 | 138 | Noelle Quinn | 422 |
 | 141 | Bria Hartley | 419 |
-| 142 | **Sami Whitcomb** 🔴 | 416 |
+| 142 | Sami Whitcomb | 416 |
 | 143 | Coco Miller | 410 |
 | 144 | Epiphanny Prince | 408 |
 | 145 | Cathrine Kraayeveld | 406 |
@@ -1434,14 +1434,14 @@ _Last updated: 2026-08-30 02:05 UTC_
 | 179 | Rita Williams | 326 |
 | 181 | Le'coe Willingham | 325 |
 | 182 | Olympia Scott | 324 |
-| 183 | **Kia Nurse** 🔴 | 320 |
+| 183 | Kia Nurse | 320 |
 | 184 | Barbara Farris | 315 |
 | 185 | Monique Billings | 314 |
 | 185 | Moriah Jefferson | 314 |
 | 187 | Alex Bentley | 313 |
 | 188 | Natisha Hiedeman | 312 |
 | 189 | Tamika Raymond | 311 |
-| 190 | **Isabelle Harrison** 🔴 | 307 |
+| 190 | Isabelle Harrison | 307 |
 | 191 | Erin Perperoglou | 305 |
 | 191 | Jennifer Lacy | 305 |
 | 193 | Azurá Stevens | 304 |
@@ -1487,7 +1487,7 @@ _Last updated: 2026-08-30 02:05 UTC_
 | 28 | Yolanda Griffith | 991 |
 | 29 | Lauren Jackson | 982 |
 | 30 | Nakia Sanford | 979 |
-| 31 | **Alyssa Thomas** 🔴 | 972 |
+| 31 | Alyssa Thomas | 972 |
 | 32 | Asjha Jones | 971 |
 | 33 | Margo Dydek | 950 |
 | 34 | Sancho Lyttle | 947 |
@@ -1623,7 +1623,7 @@ _Last updated: 2026-08-30 02:05 UTC_
 | 164 | Andrea Stinson | 511 |
 | 165 | Vicky Bullett | 507 |
 | 166 | Merlakia Jones | 506 |
-| 167 | **Isabelle Harrison** 🔴 | 505 |
+| 167 | Isabelle Harrison | 505 |
 | 167 | Rushia Brown | 505 |
 | 167 | Shekinna Stricklen | 505 |
 | 170 | Allison Feaster | 504 |
@@ -1642,10 +1642,10 @@ _Last updated: 2026-08-30 02:05 UTC_
 | 183 | Charde Houston | 487 |
 | 184 | Lindsey Harding | 486 |
 | 185 | Cathrine Kraayeveld | 484 |
-| 185 | **Kia Nurse** 🔴 | 484 |
+| 185 | Kia Nurse | 484 |
 | 187 | Liz Cambage | 483 |
 | 187 | Rhonda Mapp | 483 |
-| 189 | **Sami Whitcomb** 🔴 | 480 |
+| 189 | Sami Whitcomb | 480 |
 | 190 | Alanna Smith | 479 |
 | 191 | Seimone Augustus | 477 |
 | 192 | Allie Quigley | 475 |
