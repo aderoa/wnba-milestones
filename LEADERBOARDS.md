@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-30 20:59 UTC_
+_Last updated: 2026-08-30 21:00 UTC_
 
 ## Contents
 
@@ -1624,10 +1624,10 @@ _Last updated: 2026-08-30 20:59 UTC_
 | 164 | Andrea Stinson | 511 |
 | 165 | Vicky Bullett | 507 |
 | 166 | Merlakia Jones | 506 |
-| 167 | Isabelle Harrison | 505 |
-| 167 | **Napheesa Collier** 🔴 +1 | 505 |
-| 167 | Rushia Brown | 505 |
-| 167 | Shekinna Stricklen | 505 |
+| 166 | **Napheesa Collier** 🔴 +2 | 506 |
+| 168 | Isabelle Harrison | 505 |
+| 168 | Rushia Brown | 505 |
+| 168 | Shekinna Stricklen | 505 |
 | 171 | Allison Feaster | 504 |
 | 171 | Erin Perperoglou | 504 |
 | 173 | Iziane Castro Marques | 502 |
