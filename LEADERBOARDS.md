@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-30 20:23 UTC_
+_Last updated: 2026-08-30 20:24 UTC_
 
 ## Contents
 
@@ -150,7 +150,7 @@ _Last updated: 2026-08-30 20:23 UTC_
 | 129 | Anna DeForge | 2,413 |
 | 130 | Kayla Thornton | 2,393 |
 | 131 | DeMya Walker | 2,379 |
-| 132 | **Jordin Canada** 🔴 +9 | 2,351 |
+| 132 | **Jordin Canada** 🔴 +12 | 2,354 |
 | 133 | Alex Bentley | 2,350 |
 | 134 | Azurá Stevens | 2,343 |
 | 135 | Merlakia Jones | 2,308 |
@@ -249,7 +249,7 @@ _Last updated: 2026-08-30 20:23 UTC_
 | 23 | Lauren Jackson | 2,444 |
 | 24 | Yolanda Griffith | 2,440 |
 | 25 | Tangela Smith | 2,328 |
-| 26 | **Natasha Howard** 🔴 +6 | 2,321 |
+| 26 | **Natasha Howard** 🔴 +7 | 2,322 |
 | 27 | Erika de Souza | 2,220 |
 | 28 | Diana Taurasi | 2,201 |
 | 29 | Margo Dydek | 2,138 |
@@ -315,8 +315,8 @@ _Last updated: 2026-08-30 20:23 UTC_
 | 89 | Tari Phillips | 1,274 |
 | 90 | Myisha Hines-Allen | 1,265 |
 | 91 | Janel McCarville | 1,261 |
-| 92 | **Kayla McBride** 🔴 +2 | 1,258 |
-| 92 | Liz Cambage | 1,258 |
+| 92 | **Kayla McBride** 🔴 +3 | 1,259 |
+| 93 | Liz Cambage | 1,258 |
 | 94 | Chelsea Gray | 1,257 |
 | 94 | Tiffany Hayes | 1,257 |
 | 96 | Brianna Turner | 1,243 |
@@ -346,7 +346,7 @@ _Last updated: 2026-08-30 20:23 UTC_
 | 120 | Jackie Young | 1,085 |
 | 121 | Svetlana Abrosimova | 1,078 |
 | 122 | Le'coe Willingham | 1,054 |
-| 123 | **Angel Reese** 🔴 +6 | 1,041 |
+| 123 | **Angel Reese** 🔴 +7 | 1,042 |
 | 124 | Nicole Ohlde | 1,040 |
 | 125 | Tamecka Dixon | 1,035 |
 | 126 | Kamila Vodichkova | 1,031 |
@@ -454,8 +454,8 @@ _Last updated: 2026-08-30 20:23 UTC_
 | 22 | Erica Wheeler | 1,335 |
 | 23 | Teresa Weatherspoon | 1,333 |
 | 24 | Kristi Toliver | 1,301 |
+| 25 | **Jordin Canada** 🔴 +8 | 1,270 |
 | 25 | Kelsey Plum | 1,270 |
-| 26 | **Jordin Canada** 🔴 +7 | 1,269 |
 | 27 | Katie Smith | 1,258 |
 | 28 | Odyssey Sims | 1,228 |
 | 29 | Vickie Johnson | 1,202 |
@@ -653,8 +653,8 @@ _Last updated: 2026-08-30 20:23 UTC_
 | 16 | Michelle Snow | 403 |
 | 17 | Tamika Catchings | 383 |
 | 18 | Tina Thompson | 372 |
-| 19 | Erika de Souza | 370 |
-| 19 | **Natasha Howard** 🔴 | 370 |
+| 19 | **Natasha Howard** 🔴 +1 | 371 |
+| 20 | Erika de Souza | 370 |
 | 21 | Jessica Breland | 367 |
 | 22 | **DeWanna Bonner** 🔴 | 358 |
 | 23 | Ezi Magbegor | 354 |
@@ -1216,9 +1216,9 @@ _Last updated: 2026-08-30 20:23 UTC_
 | 166 | Myisha Hines-Allen | 131 |
 | 167 | Amanda Zahui B | 130 |
 | 167 | Eva Nemcova | 130 |
-| 169 | Crystal Dangerfield | 129 |
-| 169 | **Jordin Canada** 🔴 +1 | 129 |
-| 169 | Leonie Fiebich | 129 |
+| 167 | **Jordin Canada** 🔴 +2 | 130 |
+| 170 | Crystal Dangerfield | 129 |
+| 170 | Leonie Fiebich | 129 |
 | 172 | Ticha Penicheiro | 128 |
 | 173 | Michele Timms | 127 |
 | 174 | Tamecka Dixon | 126 |
