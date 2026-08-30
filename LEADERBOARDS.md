@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-30 23:44 UTC_
+_Last updated: 2026-08-30 23:45 UTC_
 
 ## Contents
 
@@ -296,7 +296,7 @@ _Last updated: 2026-08-30 23:44 UTC_
 | 70 | Alana Beard | 1,420 |
 | 71 | Nakia Sanford | 1,419 |
 | 72 | Allisha Gray | 1,415 |
-| 73 | **Kayla Thornton** 🔴 | 1,408 |
+| 73 | **Kayla Thornton** 🔴 +1 | 1,409 |
 | 74 | Kara Braxton | 1,387 |
 | 75 | Courtney Vandersloot | 1,386 |
 | 76 | Katie Smith | 1,383 |
@@ -315,7 +315,7 @@ _Last updated: 2026-08-30 23:44 UTC_
 | 89 | Tari Phillips | 1,274 |
 | 90 | Myisha Hines-Allen | 1,265 |
 | 91 | Janel McCarville | 1,261 |
-| 92 | **Tiffany Hayes** 🔴 +3 | 1,260 |
+| 91 | **Tiffany Hayes** 🔴 +4 | 1,261 |
 | 93 | Kayla McBride | 1,259 |
 | 94 | Liz Cambage | 1,258 |
 | 95 | Chelsea Gray | 1,257 |
@@ -538,7 +538,7 @@ _Last updated: 2026-08-30 23:44 UTC_
 | 106 | Betnijah Laney-Hamilton | 590 |
 | 106 | Camille Smith | 590 |
 | 108 | Armintie Herrington | 589 |
-| 109 | **Veronica Burton** 🔴 | 579 |
+| 109 | **Veronica Burton** 🔴 +1 | 580 |
 | 110 | Tan White | 578 |
 | 111 | Matee Ajavon | 577 |
 | 112 | Napheesa Collier | 572 |
