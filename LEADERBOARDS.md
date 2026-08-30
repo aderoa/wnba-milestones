@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-30 20:15 UTC_
+_Last updated: 2026-08-30 20:16 UTC_
 
 ## Contents
 
@@ -150,8 +150,8 @@ _Last updated: 2026-08-30 20:15 UTC_
 | 129 | Anna DeForge | 2,413 |
 | 130 | Kayla Thornton | 2,393 |
 | 131 | DeMya Walker | 2,379 |
-| 132 | Alex Bentley | 2,350 |
-| 133 | **Jordin Canada** 🔴 +7 | 2,349 |
+| 132 | **Jordin Canada** 🔴 +9 | 2,351 |
+| 133 | Alex Bentley | 2,350 |
 | 134 | Azurá Stevens | 2,343 |
 | 135 | Merlakia Jones | 2,308 |
 | 136 | Betnijah Laney-Hamilton | 2,302 |
@@ -284,7 +284,7 @@ _Last updated: 2026-08-30 20:15 UTC_
 | 58 | Katie Douglas | 1,562 |
 | 59 | Angel McCoughtry | 1,561 |
 | 60 | Penny Taylor | 1,552 |
-| 61 | **Napheesa Collier** 🔴 +6 | 1,516 |
+| 61 | **Napheesa Collier** 🔴 +7 | 1,517 |
 | 62 | Cappie Pondexter | 1,513 |
 | 63 | Ticha Penicheiro | 1,485 |
 | 64 | Alysha Clark | 1,469 |
@@ -1584,8 +1584,8 @@ _Last updated: 2026-08-30 20:15 UTC_
 | 124 | Janel McCarville | 597 |
 | 125 | Kamila Vodichkova | 596 |
 | 126 | Teresa Weatherspoon | 589 |
+| 127 | **Courtney Williams** 🔴 +2 | 585 |
 | 127 | Emma Meesseman | 585 |
-| 128 | **Courtney Williams** 🔴 +1 | 584 |
 | 129 | Chiney Ogwumike | 580 |
 | 129 | Hamchetou Maiga-Ba | 580 |
 | 129 | Olympia Scott | 580 |
