@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-30 20:53 UTC_
+_Last updated: 2026-08-30 20:54 UTC_
 
 ## Contents
 
@@ -41,7 +41,7 @@ _Last updated: 2026-08-30 20:53 UTC_
 | 20 | Becky Hammon | 5,816 |
 | 21 | Angel McCoughtry | 5,797 |
 | 22 | Skylar Diggins | 5,732 |
-| 23 | **Kayla McBride** 🔴 +15 | 5,665 |
+| 23 | **Kayla McBride** 🔴 +17 | 5,667 |
 | 24 | DeLisha Milton-Jones | 5,571 |
 | 25 | Katie Douglas | 5,545 |
 | 26 | Lindsay Whalen | 5,511 |
@@ -129,7 +129,7 @@ _Last updated: 2026-08-30 20:53 UTC_
 | 108 | Ticha Penicheiro | 2,729 |
 | 109 | Adrienne Goodson | 2,705 |
 | 110 | Riquna Williams | 2,659 |
-| 111 | **Rhyne Howard** 🔴 +14 | 2,651 |
+| 111 | **Rhyne Howard** 🔴 +16 | 2,653 |
 | 112 | Essence Carson | 2,647 |
 | 112 | Lindsey Harding | 2,647 |
 | 114 | Cheyenne Parker-Tyus | 2,645 |
@@ -528,7 +528,7 @@ _Last updated: 2026-08-30 20:53 UTC_
 | 96 | Asjha Jones | 637 |
 | 97 | Jennifer Azzi | 636 |
 | 98 | Sami Whitcomb | 623 |
-| 99 | **Natasha Howard** 🔴 +5 | 620 |
+| 99 | **Natasha Howard** 🔴 +7 | 622 |
 | 100 | Alysha Clark | 619 |
 | 101 | Debbie Black | 612 |
 | 102 | Cynthia Cooper | 602 |
