@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-30 23:43 UTC_
+_Last updated: 2026-08-30 23:44 UTC_
 
 ## Contents
 
@@ -315,8 +315,8 @@ _Last updated: 2026-08-30 23:43 UTC_
 | 89 | Tari Phillips | 1,274 |
 | 90 | Myisha Hines-Allen | 1,265 |
 | 91 | Janel McCarville | 1,261 |
-| 92 | Kayla McBride | 1,259 |
-| 92 | **Tiffany Hayes** 🔴 +2 | 1,259 |
+| 92 | **Tiffany Hayes** 🔴 +3 | 1,260 |
+| 93 | Kayla McBride | 1,259 |
 | 94 | Liz Cambage | 1,258 |
 | 95 | Chelsea Gray | 1,257 |
 | 96 | Ezi Magbegor | 1,248 |
