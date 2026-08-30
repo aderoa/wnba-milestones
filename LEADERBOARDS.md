@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-30 19:44 UTC_
+_Last updated: 2026-08-30 19:45 UTC_
 
 ## Contents
 
@@ -41,7 +41,7 @@ _Last updated: 2026-08-30 19:44 UTC_
 | 20 | Becky Hammon | 5,816 |
 | 21 | Angel McCoughtry | 5,797 |
 | 22 | Skylar Diggins | 5,732 |
-| 23 | **Kayla McBride** 🔴 +3 | 5,653 |
+| 23 | **Kayla McBride** 🔴 +6 | 5,656 |
 | 24 | DeLisha Milton-Jones | 5,571 |
 | 25 | Katie Douglas | 5,545 |
 | 26 | Lindsay Whalen | 5,511 |
@@ -231,7 +231,7 @@ _Last updated: 2026-08-30 19:44 UTC_
 | 5 | Rebekkah Brunson | 3,345 |
 | 6 | Tamika Catchings | 3,313 |
 | 7 | Lisa Leslie | 3,303 |
-| 8 | **DeWanna Bonner** 🔴 +3 | 3,293 |
+| 8 | **DeWanna Bonner** 🔴 +2 | 3,292 |
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
@@ -249,7 +249,7 @@ _Last updated: 2026-08-30 19:44 UTC_
 | 23 | Lauren Jackson | 2,444 |
 | 24 | Yolanda Griffith | 2,440 |
 | 25 | Tangela Smith | 2,328 |
-| 26 | **Natasha Howard** 🔴 +3 | 2,318 |
+| 26 | **Natasha Howard** 🔴 +4 | 2,319 |
 | 27 | Erika de Souza | 2,220 |
 | 28 | Diana Taurasi | 2,201 |
 | 29 | Margo Dydek | 2,138 |
@@ -258,7 +258,7 @@ _Last updated: 2026-08-30 19:44 UTC_
 | 32 | Tammy Sutton-Brown | 2,010 |
 | 33 | Elizabeth Williams | 1,978 |
 | 34 | Cheryl Ford | 1,907 |
-| 35 | **Courtney Williams** 🔴 | 1,843 |
+| 35 | **Courtney Williams** 🔴 +1 | 1,844 |
 | 36 | Kiah Stokes | 1,835 |
 | 37 | Plenette Pierson | 1,834 |
 | 38 | Natalie Williams | 1,832 |
@@ -529,7 +529,7 @@ _Last updated: 2026-08-30 19:44 UTC_
 | 97 | Jennifer Azzi | 636 |
 | 98 | Sami Whitcomb | 623 |
 | 99 | Alysha Clark | 619 |
-| 100 | **Natasha Howard** 🔴 +3 | 618 |
+| 99 | **Natasha Howard** 🔴 +4 | 619 |
 | 101 | Debbie Black | 612 |
 | 102 | Cynthia Cooper | 602 |
 | 103 | Sancho Lyttle | 592 |
@@ -1052,7 +1052,7 @@ _Last updated: 2026-08-30 19:44 UTC_
 | 2 | Sue Bird | 1,001 |
 | 3 | Katie Smith | 906 |
 | 4 | Becky Hammon | 825 |
-| 5 | **Kayla McBride** 🔴 | 756 |
+| 5 | **Kayla McBride** 🔴 +1 | 757 |
 | 6 | Tina Thompson | 745 |
 | 7 | Katie Douglas | 723 |
 | 8 | Kelsey Mitchell | 712 |
