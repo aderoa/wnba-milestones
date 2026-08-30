@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-30 19:17 UTC_
+_Last updated: 2026-08-30 19:18 UTC_
 
 ## Contents
 
@@ -231,7 +231,7 @@ _Last updated: 2026-08-30 19:17 UTC_
 | 5 | Rebekkah Brunson | 3,345 |
 | 6 | Tamika Catchings | 3,313 |
 | 7 | Lisa Leslie | 3,303 |
-| 8 | **DeWanna Bonner** 🔴 | 3,290 |
+| 8 | **DeWanna Bonner** 🔴 +1 | 3,291 |
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
@@ -870,7 +870,7 @@ _Last updated: 2026-08-30 19:17 UTC_
 | 25 | Becky Hammon | 485 |
 | 26 | Penny Taylor | 479 |
 | 27 | Sophia Young-Malcolm | 477 |
-| 28 | **Natasha Howard** 🔴 | 467 |
+| 28 | **Natasha Howard** 🔴 +1 | 468 |
 | 29 | Skylar Diggins | 463 |
 | 29 | Teresa Weatherspoon | 463 |
 | 31 | Jewell Loyd | 458 |
@@ -1308,7 +1308,7 @@ _Last updated: 2026-08-30 19:17 UTC_
 | 53 | Asjha Jones | 682 |
 | 54 | Danielle Robinson | 680 |
 | 55 | Sheryl Swoopes | 677 |
-| 56 | **Courtney Williams** 🔴 | 675 |
+| 56 | **Courtney Williams** 🔴 +1 | 676 |
 | 57 | Tammy Sutton-Brown | 672 |
 | 58 | Deanna Nolan | 669 |
 | 59 | Chasity Melvin | 666 |
