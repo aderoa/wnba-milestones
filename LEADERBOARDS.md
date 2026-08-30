@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-30 19:32 UTC_
+_Last updated: 2026-08-30 19:33 UTC_
 
 ## Contents
 
@@ -151,7 +151,7 @@ _Last updated: 2026-08-30 19:32 UTC_
 | 130 | Kayla Thornton | 2,393 |
 | 131 | DeMya Walker | 2,379 |
 | 132 | Alex Bentley | 2,350 |
-| 133 | **Jordin Canada** 🔴 +2 | 2,344 |
+| 133 | **Jordin Canada** 🔴 +5 | 2,347 |
 | 134 | Azurá Stevens | 2,343 |
 | 135 | Merlakia Jones | 2,308 |
 | 136 | Betnijah Laney-Hamilton | 2,302 |
@@ -459,8 +459,8 @@ _Last updated: 2026-08-30 19:32 UTC_
 | 27 | Katie Smith | 1,258 |
 | 28 | Odyssey Sims | 1,228 |
 | 29 | Vickie Johnson | 1,202 |
+| 30 | **DeWanna Bonner** 🔴 +1 | 1,197 |
 | 30 | Leilani Mitchell | 1,197 |
-| 31 | **DeWanna Bonner** 🔴 | 1,196 |
 | 32 | Jewell Loyd | 1,156 |
 | 33 | Jackie Young | 1,150 |
 | 34 | Renee Montgomery | 1,140 |
@@ -1217,9 +1217,9 @@ _Last updated: 2026-08-30 19:32 UTC_
 | 167 | Amanda Zahui B | 130 |
 | 167 | Eva Nemcova | 130 |
 | 169 | Crystal Dangerfield | 129 |
+| 169 | **Jordin Canada** 🔴 +1 | 129 |
 | 169 | Leonie Fiebich | 129 |
-| 171 | **Jordin Canada** 🔴 | 128 |
-| 171 | Ticha Penicheiro | 128 |
+| 172 | Ticha Penicheiro | 128 |
 | 173 | Michele Timms | 127 |
 | 174 | Tamecka Dixon | 126 |
 | 175 | Kennedy Burke | 125 |
@@ -1527,8 +1527,8 @@ _Last updated: 2026-08-30 19:32 UTC_
 | 67 | Sheri Sam | 766 |
 | 68 | Kahleah Copper | 758 |
 | 69 | Kia Vaughn | 755 |
-| 70 | **Allisha Gray** 🔴 | 752 |
-| 70 | Vickie Johnson | 752 |
+| 70 | **Allisha Gray** 🔴 +1 | 753 |
+| 71 | Vickie Johnson | 752 |
 | 72 | Kara Braxton | 748 |
 | 73 | Crystal Langhorne | 737 |
 | 74 | Shameka Christon | 734 |
