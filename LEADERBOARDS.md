@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-30 03:12 UTC_
+_Last updated: 2026-08-30 03:13 UTC_
 
 ## Contents
 
@@ -417,8 +417,8 @@ _Last updated: 2026-08-30 03:12 UTC_
 | 191 | Kelsey Plum | 741 |
 | 192 | Alex Montgomery | 735 |
 | 193 | Ashley Robinson | 734 |
+| 194 | **Sami Whitcomb** 🔴 +3 | 729 |
 | 194 | Shenise Johnson | 729 |
-| 195 | **Sami Whitcomb** 🔴 +2 | 728 |
 | 196 | Shekinna Stricklen | 726 |
 | 197 | Olympia Scott | 711 |
 | 198 | Rebecca Allen | 709 |
@@ -435,7 +435,7 @@ _Last updated: 2026-08-30 03:12 UTC_
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
 | 6 | Chelsea Gray | 2,003 |
-| 7 | **Alyssa Thomas** 🔴 +8 | 1,979 |
+| 7 | **Alyssa Thomas** 🔴 +9 | 1,980 |
 | 8 | Skylar Diggins | 1,852 |
 | 9 | Natasha Cloud | 1,803 |
 | 10 | Becky Hammon | 1,705 |
