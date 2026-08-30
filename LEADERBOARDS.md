@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-30 21:09 UTC_
+_Last updated: 2026-08-30 21:10 UTC_
 
 ## Contents
 
@@ -22,7 +22,7 @@ _Last updated: 2026-08-30 21:09 UTC_
 | 1 | Diana Taurasi | 10,608 |
 | 2 | Tina Charles | 8,396 |
 | 3 | DeWanna Bonner | 7,979 |
-| 4 | **Nneka Ogwumike** 🔴 | 7,563 |
+| 4 | **Nneka Ogwumike** 🔴 +2 | 7,565 |
 | 5 | Tina Thompson | 7,470 |
 | 6 | Tamika Catchings | 7,371 |
 | 7 | Candice Dupree | 6,861 |
@@ -378,7 +378,7 @@ _Last updated: 2026-08-30 21:09 UTC_
 | 152 | Natalie Achonwa | 895 |
 | 153 | Temeka Johnson | 889 |
 | 154 | Mistie Bass | 888 |
-| 155 | **Erica Wheeler** 🔴 | 882 |
+| 155 | **Erica Wheeler** 🔴 +1 | 883 |
 | 156 | Alanna Smith | 878 |
 | 157 | Marina Mabrey | 874 |
 | 158 | Shameka Christon | 867 |
@@ -886,7 +886,7 @@ _Last updated: 2026-08-30 21:09 UTC_
 | 41 | Candice Dupree | 431 |
 | 42 | Epiphanny Prince | 429 |
 | 43 | Tanisha Wright | 427 |
-| 44 | **Dearica Hamby** 🔴 +1 | 412 |
+| 44 | **Dearica Hamby** 🔴 +2 | 413 |
 | 45 | Katie Smith | 408 |
 | 46 | Cappie Pondexter | 405 |
 | 47 | Nicole Powell | 401 |
