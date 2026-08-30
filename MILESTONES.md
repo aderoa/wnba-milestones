@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-08-30 21:46 UTC
+
+- **Ezi Magbegor** passed **Brittany Boyd-Jones** and **Chiney Ogwumike** for **#193** all-time in steals (career 177) — up from #197 entering today — _53.2 - 2nd — LA @ SEA_
+
 ## 2026-08-29 01:13 UTC
 
 - **Naz Hillmon** passed **Shameka Christon** for **#158** all-time in rebounds (career 868) — up from #160 entering today — _5:58 - 4th — POR @ ATL_

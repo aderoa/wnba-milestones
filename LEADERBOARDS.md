@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-30 21:45 UTC_
+_Last updated: 2026-08-30 21:46 UTC_
 
 ## Contents
 
@@ -181,7 +181,7 @@ _Last updated: 2026-08-30 21:45 UTC_
 | 160 | Diamond DeShields | 2,026 |
 | 161 | Vicky Bullett | 2,018 |
 | 162 | Natisha Hiedeman | 2,002 |
-| 163 | **Ezi Magbegor** 🔴 | 1,995 |
+| 163 | **Ezi Magbegor** 🔴 +2 | 1,997 |
 | 164 | Bria Hartley | 1,967 |
 | 165 | Chiney Ogwumike | 1,964 |
 | 166 | Nicole Ohlde | 1,959 |
@@ -1035,9 +1035,9 @@ _Last updated: 2026-08-30 21:45 UTC_
 | 190 | Diamond DeShields | 180 |
 | 191 | Kiah Stokes | 178 |
 | 192 | Bridget Pettis | 177 |
-| 193 | Brittany Boyd-Jones | 176 |
-| 193 | Chiney Ogwumike | 176 |
-| 193 | **Ezi Magbegor** 🔴 +2 | 176 |
+| 192 | **Ezi Magbegor** 🔴 +3 | 177 |
+| 194 | Brittany Boyd-Jones | 176 |
+| 194 | Chiney Ogwumike | 176 |
 | 196 | Tamika Raymond | 175 |
 | 197 | Elena Delle Donne | 174 |
 | 197 | Margo Dydek | 174 |
@@ -1281,7 +1281,7 @@ _Last updated: 2026-08-30 21:45 UTC_
 | 26 | Natasha Howard | 847 |
 | 27 | DeWanna Bonner | 842 |
 | 28 | Katie Douglas | 824 |
-| 29 | **Nneka Ogwumike** 🔴 | 803 |
+| 29 | **Nneka Ogwumike** 🔴 +1 | 804 |
 | 30 | Betty Lennox | 800 |
 | 31 | Jasmine Thomas | 796 |
 | 32 | Jewell Loyd | 795 |

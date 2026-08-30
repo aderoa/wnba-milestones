@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-08-30T21:46:00+00:00",
+    "text": "Ezi Magbegor passed Brittany Boyd-Jones and Chiney Ogwumike for #193 all-time in steals (career 177) \u2014 up from #197 entering today \u2014 (53.2 - 2nd \u2014 LA @ SEA)",
+    "kind": "rank_pass",
+    "player": "Ezi Magbegor",
+    "stat": "steals",
+    "rank": 193,
+    "passed_players": [
+      "Brittany Boyd-Jones",
+      "Chiney Ogwumike"
+    ],
+    "new_total": 177
+  },
+  {
     "ts": "2026-08-29T01:13:00+00:00",
     "text": "Naz Hillmon passed Shameka Christon for #158 all-time in rebounds (career 868) \u2014 up from #160 entering today \u2014 (5:58 - 4th \u2014 POR @ ATL)",
     "kind": "rank_pass",
@@ -2972,17 +2985,5 @@
       "Sandy Brondello"
     ],
     "new_total": 115
-  },
-  {
-    "ts": "2026-07-09T00:29:00+00:00",
-    "text": "Isabelle Harrison passed Myisha Hines-Allen for #178 all-time in steals (career 192) \u2014 up from #179 entering today \u2014 (2:24 - 3rd \u2014 GS @ TOR)",
-    "kind": "rank_pass",
-    "player": "Isabelle Harrison",
-    "stat": "steals",
-    "rank": 178,
-    "passed_players": [
-      "Myisha Hines-Allen"
-    ],
-    "new_total": 192
   }
 ]
