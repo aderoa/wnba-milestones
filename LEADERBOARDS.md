@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-30 19:34 UTC_
+_Last updated: 2026-08-30 19:35 UTC_
 
 ## Contents
 
@@ -346,8 +346,8 @@ _Last updated: 2026-08-30 19:34 UTC_
 | 120 | Jackie Young | 1,085 |
 | 121 | Svetlana Abrosimova | 1,078 |
 | 122 | Le'coe Willingham | 1,054 |
-| 123 | **Angel Reese** 🔴 +5 | 1,040 |
-| 123 | Nicole Ohlde | 1,040 |
+| 123 | **Angel Reese** 🔴 +6 | 1,041 |
+| 124 | Nicole Ohlde | 1,040 |
 | 125 | Tamecka Dixon | 1,035 |
 | 126 | Kamila Vodichkova | 1,031 |
 | 127 | Jasmine Thomas | 1,027 |
@@ -870,7 +870,7 @@ _Last updated: 2026-08-30 19:34 UTC_
 | 25 | Becky Hammon | 485 |
 | 26 | Penny Taylor | 479 |
 | 27 | Sophia Young-Malcolm | 477 |
-| 28 | **Natasha Howard** 🔴 +1 | 468 |
+| 28 | **Natasha Howard** 🔴 +2 | 469 |
 | 29 | Skylar Diggins | 463 |
 | 29 | Teresa Weatherspoon | 463 |
 | 31 | Jewell Loyd | 458 |
@@ -922,8 +922,8 @@ _Last updated: 2026-08-30 19:34 UTC_
 | 77 | Armintie Herrington | 340 |
 | 78 | Dawn Staley | 338 |
 | 79 | Odyssey Sims | 334 |
-| 80 | **Courtney Williams** 🔴 +2 | 331 |
-| 80 | Marie Ferdinand-Harris | 331 |
+| 80 | **Courtney Williams** 🔴 +3 | 332 |
+| 81 | Marie Ferdinand-Harris | 331 |
 | 82 | Chasity Melvin | 330 |
 | 82 | Leilani Mitchell | 330 |
 | 84 | Kristi Toliver | 329 |
