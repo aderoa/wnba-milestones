@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-30 19:19 UTC_
+_Last updated: 2026-08-30 19:20 UTC_
 
 ## Contents
 
@@ -87,8 +87,8 @@ _Last updated: 2026-08-30 19:19 UTC_
 | 66 | Kara Lawson | 3,670 |
 | 67 | Mwadi Mabika | 3,576 |
 | 68 | Odyssey Sims | 3,574 |
-| 69 | Camille Smith | 3,551 |
-| 69 | **Napheesa Collier** 🔴 +9 | 3,551 |
+| 69 | **Napheesa Collier** 🔴 +11 | 3,553 |
+| 70 | Camille Smith | 3,551 |
 | 71 | Shannon Johnson | 3,542 |
 | 72 | Renee Montgomery | 3,533 |
 | 73 | Jasmine Thomas | 3,522 |
@@ -374,7 +374,7 @@ _Last updated: 2026-08-30 19:19 UTC_
 | 148 | Nicky Anosike | 922 |
 | 149 | Janeth Arcain | 916 |
 | 150 | Karima Christmas-Kelly | 908 |
-| 151 | **Nia Coffey** 🔴 | 903 |
+| 151 | **Nia Coffey** 🔴 +1 | 904 |
 | 152 | Natalie Achonwa | 895 |
 | 153 | Temeka Johnson | 889 |
 | 154 | Mistie Bass | 888 |
@@ -529,7 +529,7 @@ _Last updated: 2026-08-30 19:19 UTC_
 | 97 | Jennifer Azzi | 636 |
 | 98 | Sami Whitcomb | 623 |
 | 99 | Alysha Clark | 619 |
-| 100 | **Natasha Howard** 🔴 +2 | 617 |
+| 100 | **Natasha Howard** 🔴 +3 | 618 |
 | 101 | Debbie Black | 612 |
 | 102 | Cynthia Cooper | 602 |
 | 103 | Sancho Lyttle | 592 |
@@ -922,10 +922,10 @@ _Last updated: 2026-08-30 19:19 UTC_
 | 77 | Armintie Herrington | 340 |
 | 78 | Dawn Staley | 338 |
 | 79 | Odyssey Sims | 334 |
+| 80 | **Courtney Williams** 🔴 +2 | 331 |
 | 80 | Marie Ferdinand-Harris | 331 |
-| 81 | Chasity Melvin | 330 |
-| 81 | **Courtney Williams** 🔴 +1 | 330 |
-| 81 | Leilani Mitchell | 330 |
+| 82 | Chasity Melvin | 330 |
+| 82 | Leilani Mitchell | 330 |
 | 84 | Kristi Toliver | 329 |
 | 85 | Matee Ajavon | 328 |
 | 86 | Gabby Williams | 326 |
@@ -1352,8 +1352,8 @@ _Last updated: 2026-08-30 19:19 UTC_
 | 97 | Mwadi Mabika | 532 |
 | 98 | Nakia Sanford | 531 |
 | 99 | Arike Ogunbowale | 529 |
-| 100 | **Jordin Canada** 🔴 | 527 |
-| 100 | Maya Moore | 527 |
+| 100 | **Jordin Canada** 🔴 +1 | 528 |
+| 101 | Maya Moore | 527 |
 | 102 | Kara Lawson | 526 |
 | 103 | Leilani Mitchell | 525 |
 | 103 | Nicole Powell | 525 |
