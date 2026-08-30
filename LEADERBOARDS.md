@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-30 23:50 UTC_
+_Last updated: 2026-08-30 23:51 UTC_
 
 ## Contents
 
@@ -896,7 +896,7 @@ _Last updated: 2026-08-30 23:50 UTC_
 | 51 | Danielle Robinson | 389 |
 | 52 | Deanna Nolan | 388 |
 | 53 | Briann January | 386 |
-| 54 | **Tiffany Hayes** 🔴 +1 | 385 |
+| 53 | **Tiffany Hayes** 🔴 +2 | 386 |
 | 55 | Swin Cash | 384 |
 | 55 | Tina Charles | 384 |
 | 57 | Allisha Gray | 382 |
