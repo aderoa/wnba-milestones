@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-30 20:49 UTC_
+_Last updated: 2026-08-30 20:50 UTC_
 
 ## Contents
 
@@ -870,7 +870,7 @@ _Last updated: 2026-08-30 20:49 UTC_
 | 25 | Becky Hammon | 485 |
 | 26 | Penny Taylor | 479 |
 | 27 | Sophia Young-Malcolm | 477 |
-| 28 | **Natasha Howard** 🔴 +3 | 470 |
+| 28 | **Natasha Howard** 🔴 +4 | 471 |
 | 29 | Skylar Diggins | 463 |
 | 29 | Teresa Weatherspoon | 463 |
 | 31 | Jewell Loyd | 458 |
@@ -964,9 +964,9 @@ _Last updated: 2026-08-30 20:49 UTC_
 | 119 | Jonquel Jones | 260 |
 | 119 | Riquna Williams | 260 |
 | 121 | Noelle Quinn | 256 |
-| 122 | Elaine Powell | 255 |
-| 122 | Loree Moore | 255 |
-| 122 | **Rhyne Howard** 🔴 +1 | 255 |
+| 121 | **Rhyne Howard** 🔴 +2 | 256 |
+| 123 | Elaine Powell | 255 |
+| 123 | Loree Moore | 255 |
 | 125 | Ruthie Bolton | 254 |
 | 126 | Hamchetou Maiga-Ba | 251 |
 | 126 | Tamika Whitmore | 251 |
@@ -1307,8 +1307,8 @@ _Last updated: 2026-08-30 20:49 UTC_
 | 51 | Dearica Hamby | 684 |
 | 53 | Asjha Jones | 682 |
 | 54 | Danielle Robinson | 680 |
-| 55 | **Courtney Williams** 🔴 +2 | 677 |
-| 55 | Sheryl Swoopes | 677 |
+| 55 | **Courtney Williams** 🔴 +3 | 678 |
+| 56 | Sheryl Swoopes | 677 |
 | 57 | Tammy Sutton-Brown | 672 |
 | 58 | Deanna Nolan | 669 |
 | 59 | Chasity Melvin | 666 |
