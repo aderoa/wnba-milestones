@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-08-31 00:06 UTC_
+_Last updated: 2026-08-31 00:07 UTC_
 
 ## Contents
 
@@ -148,7 +148,7 @@ _Last updated: 2026-08-31 00:06 UTC_
 | 127 | Ruth Riley | 2,434 |
 | 128 | Svetlana Abrosimova | 2,414 |
 | 129 | Anna DeForge | 2,413 |
-| 130 | **Kayla Thornton** 🔴 +6 | 2,399 |
+| 130 | **Kayla Thornton** 🔴 +9 | 2,402 |
 | 131 | DeMya Walker | 2,379 |
 | 132 | Jordin Canada | 2,358 |
 | 133 | Alex Bentley | 2,350 |
@@ -477,7 +477,7 @@ _Last updated: 2026-08-31 00:06 UTC_
 | 45 | Nikki Teasley | 982 |
 | 46 | Breanna Stewart | 981 |
 | 47 | Tamecka Dixon | 960 |
-| 48 | **Tiffany Hayes** 🔴 +1 | 958 |
+| 48 | **Tiffany Hayes** 🔴 +2 | 959 |
 | 49 | Kara Lawson | 946 |
 | 50 | Arike Ogunbowale | 944 |
 | 51 | Nneka Ogwumike | 936 |
@@ -1121,7 +1121,7 @@ _Last updated: 2026-08-31 00:06 UTC_
 | 71 | **Bridget Carleton** 🔴 | 306 |
 | 72 | Kelly Miller | 305 |
 | 73 | Nikki Teasley | 304 |
-| 74 | **Kayla Thornton** 🔴 | 300 |
+| 74 | **Kayla Thornton** 🔴 +1 | 301 |
 | 75 | Vickie Johnson | 295 |
 | 76 | Seimone Augustus | 293 |
 | 77 | Candice Wiggins | 290 |
