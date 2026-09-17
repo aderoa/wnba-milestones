@@ -723,7 +723,7 @@ _Last updated: 2026-09-17 23:59 UTC_
 | 86 | Monique Billings | 134 |
 | 87 | Devereaux Peters | 133 |
 | 87 | Nicky Anosike | 133 |
-| 87 | Olivia Nelson-Ododa | 133 |
+| 87 | **Olivia Nelson-Ododa** 🔴 | 133 |
 | 87 | Seimone Augustus | 133 |
 | 91 | Katie Mattera | 131 |
 | 91 | Nakia Sanford | 131 |
