@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-18 00:54 UTC_
+_Last updated: 2026-09-18 00:55 UTC_
 
 ## Contents
 
@@ -231,7 +231,7 @@ _Last updated: 2026-09-18 00:54 UTC_
 | 5 | Rebekkah Brunson | 3,345 |
 | 6 | Tamika Catchings | 3,313 |
 | 7 | Lisa Leslie | 3,303 |
-| 8 | **DeWanna Bonner** 🔴 +3 | 3,293 |
+| 8 | **DeWanna Bonner** 🔴 +5 | 3,295 |
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
@@ -346,12 +346,12 @@ _Last updated: 2026-09-18 00:54 UTC_
 | 120 | Jackie Young | 1,085 |
 | 121 | Svetlana Abrosimova | 1,078 |
 | 122 | Le'coe Willingham | 1,054 |
-| 123 | **Angel Reese** 🔴 +7 | 1,042 |
+| 123 | **Angel Reese** 🔴 +9 | 1,044 |
 | 124 | Nicole Ohlde | 1,040 |
 | 125 | Tamecka Dixon | 1,035 |
 | 126 | Kamila Vodichkova | 1,031 |
 | 127 | Jasmine Thomas | 1,027 |
-| 128 | **Jessica Shepard** 🔴 +7 | 1,023 |
+| 128 | **Jessica Shepard** 🔴 +8 | 1,024 |
 | 129 | Sabrina Ionescu | 1,020 |
 | 130 | Cathrine Kraayeveld | 1,013 |
 | 131 | Kelly Miller | 1,011 |
@@ -550,7 +550,7 @@ _Last updated: 2026-09-18 00:54 UTC_
 | 118 | Janel McCarville | 551 |
 | 118 | Svetlana Abrosimova | 551 |
 | 120 | Michele Timms | 549 |
-| 121 | **Rhyne Howard** 🔴 +6 | 542 |
+| 121 | **Rhyne Howard** 🔴 +7 | 543 |
 | 122 | Myisha Hines-Allen | 529 |
 | 123 | Marie Ferdinand-Harris | 528 |
 | 124 | Margo Dydek | 524 |
@@ -580,8 +580,8 @@ _Last updated: 2026-09-18 00:54 UTC_
 | 148 | Ruth Riley | 449 |
 | 149 | DeMya Walker | 446 |
 | 150 | Essence Carson | 445 |
+| 151 | **Jessica Shepard** 🔴 +8 | 444 |
 | 151 | Julie Allemand | 444 |
-| 152 | **Jessica Shepard** 🔴 +7 | 443 |
 | 153 | Michelle Snow | 437 |
 | 154 | Lauren Jackson | 435 |
 | 155 | Adrienne Goodson | 433 |
@@ -963,7 +963,7 @@ _Last updated: 2026-09-18 00:54 UTC_
 | 118 | Karima Christmas-Kelly | 261 |
 | 119 | Jonquel Jones | 260 |
 | 119 | Riquna Williams | 260 |
-| 121 | **Rhyne Howard** 🔴 +3 | 257 |
+| 121 | **Rhyne Howard** 🔴 +4 | 258 |
 | 122 | Noelle Quinn | 256 |
 | 123 | Elaine Powell | 255 |
 | 123 | Loree Moore | 255 |
