@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-18 03:54 UTC_
+_Last updated: 2026-09-18 03:55 UTC_
 
 ## Contents
 
@@ -164,7 +164,7 @@ _Last updated: 2026-09-18 03:54 UTC_
 | 142 | Matee Ajavon | 2,237 |
 | 144 | Teaira McCowan | 2,229 |
 | 145 | Dawn Staley | 2,228 |
-| 146 | **Sami Whitcomb** 🔴 +6 | 2,217 |
+| 146 | **Sami Whitcomb** 🔴 +8 | 2,219 |
 | 147 | Janel McCarville | 2,215 |
 | 148 | Sophia Witherspoon | 2,210 |
 | 149 | Ruthie Bolton | 2,175 |
@@ -436,7 +436,7 @@ _Last updated: 2026-09-18 03:54 UTC_
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
 | 6 | **Chelsea Gray** 🔴 +4 | 2,007 |
-| 7 | **Alyssa Thomas** 🔴 +4 | 1,975 |
+| 7 | **Alyssa Thomas** 🔴 +5 | 1,976 |
 | 8 | Skylar Diggins | 1,852 |
 | 9 | Natasha Cloud | 1,804 |
 | 10 | Becky Hammon | 1,705 |
