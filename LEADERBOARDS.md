@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-18 01:43 UTC_
+_Last updated: 2026-09-18 01:44 UTC_
 
 ## Contents
 
@@ -69,7 +69,7 @@ _Last updated: 2026-09-18 01:43 UTC_
 | 48 | **Courtney Vandersloot** 🔴 +14 | 4,376 |
 | 49 | Jonquel Jones | 4,353 |
 | 50 | Courtney Williams | 4,350 |
-| 51 | **Dearica Hamby** 🔴 +11 | 4,341 |
+| 51 | **Dearica Hamby** 🔴 +13 | 4,343 |
 | 52 | Sophia Young-Malcolm | 4,300 |
 | 53 | Plenette Pierson | 4,258 |
 | 54 | Monique Currie | 4,253 |
@@ -122,7 +122,7 @@ _Last updated: 2026-09-18 01:43 UTC_
 | 101 | Natalie Williams | 2,894 |
 | 102 | Jennifer Gillom | 2,888 |
 | 103 | Iziane Castro Marques | 2,862 |
-| 104 | **Alysha Clark** 🔴 +5 | 2,813 |
+| 104 | **Alysha Clark** 🔴 +6 | 2,814 |
 | 105 | Jantel Lavender | 2,775 |
 | 106 | Brionna Jones | 2,765 |
 | 107 | Dominique Canty | 2,763 |
@@ -528,14 +528,14 @@ _Last updated: 2026-09-18 01:43 UTC_
 | 96 | Asjha Jones | 637 |
 | 97 | Jennifer Azzi | 636 |
 | 98 | Sami Whitcomb | 623 |
-| 99 | **Alysha Clark** 🔴 | 619 |
+| 99 | **Alysha Clark** 🔴 +1 | 620 |
 | 100 | Natasha Howard | 615 |
 | 101 | Debbie Black | 612 |
 | 102 | Cynthia Cooper | 602 |
+| 103 | **Betnijah Laney-Hamilton** 🔴 +2 | 592 |
 | 103 | Sancho Lyttle | 592 |
-| 104 | **Betnijah Laney-Hamilton** 🔴 +1 | 591 |
-| 104 | Caitlin Clark | 591 |
-| 104 | Gabby Williams | 591 |
+| 105 | Caitlin Clark | 591 |
+| 105 | Gabby Williams | 591 |
 | 107 | Camille Smith | 590 |
 | 108 | Armintie Herrington | 589 |
 | 109 | Veronica Burton | 579 |
@@ -1194,7 +1194,7 @@ _Last updated: 2026-09-18 01:43 UTC_
 | 143 | Gabby Williams | 153 |
 | 143 | Jennifer Gillom | 153 |
 | 143 | Katie Lou Samuelson | 153 |
-| 147 | **Michaela Onyenwere** 🔴 +1 | 152 |
+| 143 | **Michaela Onyenwere** 🔴 +2 | 153 |
 | 148 | Rita Williams | 150 |
 | 149 | Moriah Jefferson | 149 |
 | 149 | Tiffany Mitchell | 149 |
