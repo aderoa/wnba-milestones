@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-18 02:14 UTC_
+_Last updated: 2026-09-18 02:15 UTC_
 
 ## Contents
 
@@ -315,9 +315,9 @@ _Last updated: 2026-09-18 02:14 UTC_
 | 89 | Tari Phillips | 1,274 |
 | 90 | Myisha Hines-Allen | 1,265 |
 | 91 | Janel McCarville | 1,261 |
-| 92 | Liz Cambage | 1,258 |
-| 93 | **Chelsea Gray** 🔴 | 1,257 |
-| 93 | Tiffany Hayes | 1,257 |
+| 92 | **Chelsea Gray** 🔴 +2 | 1,259 |
+| 93 | Liz Cambage | 1,258 |
+| 94 | Tiffany Hayes | 1,257 |
 | 95 | Kayla McBride | 1,256 |
 | 96 | **Brianna Turner** 🔴 | 1,243 |
 | 96 | Ezi Magbegor | 1,243 |
@@ -1008,11 +1008,11 @@ _Last updated: 2026-09-18 02:14 UTC_
 | 163 | Betnijah Laney-Hamilton | 208 |
 | 163 | Kia Vaughn | 208 |
 | 163 | Sophia Witherspoon | 208 |
+| 166 | **Natisha Hiedeman** 🔴 +1 | 205 |
 | 166 | Shameka Christon | 205 |
-| 167 | Jessica Breland | 204 |
-| 167 | Murriel Page | 204 |
-| 167 | **Natisha Hiedeman** 🔴 | 204 |
-| 167 | Shatori Walker-Kimbrough | 204 |
+| 168 | Jessica Breland | 204 |
+| 168 | Murriel Page | 204 |
+| 168 | Shatori Walker-Kimbrough | 204 |
 | 171 | Adrienne Goodson | 203 |
 | 172 | Allie Quigley | 198 |
 | 173 | Layshia Clarendon | 195 |
@@ -1375,7 +1375,7 @@ _Last updated: 2026-09-18 02:14 UTC_
 | 120 | Elaine Powell | 469 |
 | 121 | Allie Quigley | 467 |
 | 122 | Ariel Atkins | 466 |
-| 123 | **Jackie Young** 🔴 | 463 |
+| 123 | **Jackie Young** 🔴 +1 | 464 |
 | 124 | Betnijah Laney-Hamilton | 457 |
 | 125 | Kia Vaughn | 454 |
 | 126 | Janeth Arcain | 453 |
