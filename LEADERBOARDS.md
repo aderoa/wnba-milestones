@@ -33,7 +33,7 @@ _Last updated: 2026-09-18 03:31 UTC_
 | 12 | Sylvia Fowles | 6,413 |
 | 13 | Breanna Stewart | 6,335 |
 | 14 | Lisa Leslie | 6,251 |
-| 15 | **A'ja Wilson** 🔴 +17 | 6,195 |
+| 15 | **A'ja Wilson** 🔴 +18 | 6,196 |
 | 16 | **Jewell Loyd** 🔴 | 6,148 |
 | 17 | Brittney Griner | 6,087 |
 | 18 | Lauren Jackson | 6,005 |
@@ -82,8 +82,8 @@ _Last updated: 2026-09-18 03:31 UTC_
 | 61 | Betty Lennox | 3,856 |
 | 62 | Allie Quigley | 3,786 |
 | 63 | Chasity Melvin | 3,781 |
-| 64 | Brittney Sykes | 3,726 |
-| 64 | **Jackie Young** 🔴 +28 | 3,726 |
+| 64 | **Jackie Young** 🔴 +31 | 3,729 |
+| 65 | Brittney Sykes | 3,726 |
 | 66 | Kara Lawson | 3,670 |
 | 67 | Mwadi Mabika | 3,576 |
 | 67 | Odyssey Sims | 3,576 |
@@ -237,7 +237,7 @@ _Last updated: 2026-09-18 03:31 UTC_
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | **Alyssa Thomas** 🔴 +4 | 2,862 |
 | 13 | Jonquel Jones | 2,728 |
-| 14 | **A'ja Wilson** 🔴 +4 | 2,661 |
+| 14 | **A'ja Wilson** 🔴 +5 | 2,662 |
 | 15 | Breanna Stewart | 2,632 |
 | 16 | Sancho Lyttle | 2,596 |
 | 17 | Brittney Griner | 2,579 |
@@ -435,7 +435,7 @@ _Last updated: 2026-09-18 03:31 UTC_
 | 3 | Ticha Penicheiro | 2,588 |
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
-| 6 | **Chelsea Gray** 🔴 +3 | 2,006 |
+| 6 | **Chelsea Gray** 🔴 +4 | 2,007 |
 | 7 | **Alyssa Thomas** 🔴 +4 | 1,975 |
 | 8 | Skylar Diggins | 1,852 |
 | 9 | Natasha Cloud | 1,804 |
@@ -1101,7 +1101,7 @@ _Last updated: 2026-09-18 03:31 UTC_
 | 51 | Epiphanny Prince | 368 |
 | 51 | Kia Nurse | 368 |
 | 53 | Nykesha Sales | 352 |
-| 54 | **Jackie Young** 🔴 +3 | 349 |
+| 54 | **Jackie Young** 🔴 +4 | 350 |
 | 55 | Natasha Cloud | 345 |
 | 56 | Cathrine Kraayeveld | 343 |
 | 56 | Elena Delle Donne | 343 |
