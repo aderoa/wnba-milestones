@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-18 02:38 UTC_
+_Last updated: 2026-09-18 02:39 UTC_
 
 ## Contents
 
@@ -52,7 +52,7 @@ _Last updated: 2026-09-18 02:38 UTC_
 | 31 | Taj McWilliams-Franklin | 4,992 |
 | 32 | Maya Moore | 4,984 |
 | 33 | Sheryl Swoopes | 4,875 |
-| 34 | **Alyssa Thomas** 🔴 +7 | 4,759 |
+| 34 | **Alyssa Thomas** 🔴 +9 | 4,761 |
 | 35 | Alana Beard | 4,740 |
 | 36 | Arike Ogunbowale | 4,726 |
 | 37 | Chamique Holdsclaw | 4,713 |
@@ -607,7 +607,7 @@ _Last updated: 2026-09-18 02:38 UTC_
 | 174 | Tamicha Jackson | 389 |
 | 176 | Riquna Williams | 387 |
 | 177 | Bridget Carleton | 384 |
-| 178 | Dana Evans | 379 |
+| 178 | **Dana Evans** 🔴 | 379 |
 | 179 | Jessica Breland | 377 |
 | 180 | Shenise Johnson | 376 |
 | 181 | Alanna Smith | 374 |
@@ -789,7 +789,7 @@ _Last updated: 2026-09-18 02:38 UTC_
 | 150 | Cameron Brink | 86 |
 | 153 | Adrian Williams-Strong | 85 |
 | 153 | Erlana Larkins | 85 |
-| 153 | Kalani Brown | 85 |
+| 153 | **Kalani Brown** 🔴 | 85 |
 | 153 | Kristin Folkl | 85 |
 | 157 | Charde Houston | 84 |
 | 157 | Marina Mabrey | 84 |
@@ -1184,7 +1184,7 @@ _Last updated: 2026-09-18 02:38 UTC_
 | 133 | Ukari Figgs | 162 |
 | 135 | Edna Campbell | 161 |
 | 135 | **Stephanie Talbot** 🔴 +1 | 161 |
-| 137 | Dana Evans | 160 |
+| 137 | **Dana Evans** 🔴 | 160 |
 | 137 | Jennifer Lacy | 160 |
 | 139 | Aari McDonald | 158 |
 | 139 | Jennifer Azzi | 158 |
@@ -1476,7 +1476,7 @@ _Last updated: 2026-09-18 02:38 UTC_
 | 16 | Swin Cash | 1,146 |
 | 17 | Taj McWilliams-Franklin | 1,145 |
 | 18 | Monique Currie | 1,137 |
-| 19 | **Stefanie Dolson** 🔴 +2 | 1,135 |
+| 19 | **Stefanie Dolson** 🔴 +1 | 1,134 |
 | 20 | Tanisha Wright | 1,109 |
 | 21 | Michelle Snow | 1,108 |
 | 22 | Sylvia Fowles | 1,049 |
