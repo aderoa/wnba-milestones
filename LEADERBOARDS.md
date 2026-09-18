@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-18 23:54 UTC_
+_Last updated: 2026-09-18 23:56 UTC_
 
 ## Contents
 
@@ -157,7 +157,7 @@ _Last updated: 2026-09-18 23:54 UTC_
 | 136 | Betnijah Laney-Hamilton | 2,302 |
 | 137 | Satou Sabally | 2,296 |
 | 138 | Kia Vaughn | 2,288 |
-| 139 | **Kia Nurse** 🔴 +3 | 2,265 |
+| 139 | **Kia Nurse** 🔴 +4 | 2,266 |
 | 140 | Allison Feaster | 2,258 |
 | 141 | Shekinna Stricklen | 2,245 |
 | 142 | Kara Braxton | 2,237 |
@@ -1413,7 +1413,7 @@ _Last updated: 2026-09-18 23:54 UTC_
 | 158 | Anna DeForge | 374 |
 | 158 | Cheryl Ford | 374 |
 | 160 | Allison Feaster | 372 |
-| 161 | **Caitlin Clark** 🔴 +1 | 369 |
+| 161 | **Caitlin Clark** 🔴 +2 | 370 |
 | 162 | Emma Meesseman | 367 |
 | 163 | Latasha Byears | 360 |
 | 164 | Vicky Bullett | 359 |
@@ -1607,7 +1607,7 @@ _Last updated: 2026-09-18 23:54 UTC_
 | 146 | **Kayla McBride** 🔴 | 543 |
 | 146 | Renee Montgomery | 543 |
 | 149 | Marissa Coleman | 541 |
-| 150 | **Sophie Cunningham** 🔴 +2 | 540 |
+| 149 | **Sophie Cunningham** 🔴 +3 | 541 |
 | 151 | Myisha Hines-Allen | 535 |
 | 152 | Damiris Dantas | 533 |
 | 152 | Kristen Rasmussen | 533 |
