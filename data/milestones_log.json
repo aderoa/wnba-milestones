@@ -1,5 +1,14 @@
 [
   {
+    "ts": "2026-09-18T01:53:00+00:00",
+    "text": "Kitija Laksa reached 200 career points (now 202) \u2014 (4:33 - 4th \u2014 LA @ DAL)",
+    "kind": "round",
+    "player": "Kitija Laksa",
+    "stat": "points",
+    "value": 200,
+    "new_total": 202
+  },
+  {
     "ts": "2026-08-30T21:46:00+00:00",
     "text": "Ezi Magbegor passed Brittany Boyd-Jones and Chiney Ogwumike for #193 all-time in steals (career 177) \u2014 up from #197 entering today \u2014 (53.2 - 2nd \u2014 LA @ SEA)",
     "kind": "rank_pass",
@@ -2971,19 +2980,5 @@
       "Stephanie White"
     ],
     "new_total": 116
-  },
-  {
-    "ts": "2026-07-09T01:03:00+00:00",
-    "text": "Janelle Salaun passed Gordana Grubin, Rickea Jackson, and Sandy Brondello for #187 all-time in three-pointers (career 115) \u2014 up from #191 entering today \u2014 (1:47 - 4th \u2014 GS @ TOR)",
-    "kind": "rank_pass",
-    "player": "Janelle Salaun",
-    "stat": "three-pointers",
-    "rank": 187,
-    "passed_players": [
-      "Gordana Grubin",
-      "Rickea Jackson",
-      "Sandy Brondello"
-    ],
-    "new_total": 115
   }
 ]

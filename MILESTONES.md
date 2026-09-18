@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-09-18 01:53 UTC
+
+- **Kitija Laksa** reached **200** career points (now 202) — _4:33 - 4th — LA @ DAL_
+
 ## 2026-08-30 21:46 UTC
 
 - **Ezi Magbegor** passed **Brittany Boyd-Jones** and **Chiney Ogwumike** for **#193** all-time in steals (career 177) — up from #197 entering today — _53.2 - 2nd — LA @ SEA_
