@@ -527,7 +527,7 @@ _Last updated: 2026-09-18 02:08 UTC_
 | 95 | Alex Bentley | 645 |
 | 96 | Asjha Jones | 637 |
 | 97 | Jennifer Azzi | 636 |
-| 98 | **Sami Whitcomb** 🔴 | 623 |
+| 98 | **Sami Whitcomb** 🔴 +1 | 624 |
 | 99 | Alysha Clark | 620 |
 | 100 | Natasha Howard | 615 |
 | 101 | Debbie Black | 612 |
