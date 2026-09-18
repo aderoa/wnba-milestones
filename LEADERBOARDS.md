@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-18 03:50 UTC_
+_Last updated: 2026-09-18 03:52 UTC_
 
 ## Contents
 
@@ -52,7 +52,7 @@ _Last updated: 2026-09-18 03:50 UTC_
 | 31 | Taj McWilliams-Franklin | 4,992 |
 | 32 | Maya Moore | 4,984 |
 | 33 | Sheryl Swoopes | 4,875 |
-| 34 | **Alyssa Thomas** 🔴 +17 | 4,769 |
+| 34 | **Alyssa Thomas** 🔴 +18 | 4,770 |
 | 35 | Alana Beard | 4,740 |
 | 36 | Arike Ogunbowale | 4,726 |
 | 37 | Chamique Holdsclaw | 4,713 |
@@ -235,7 +235,7 @@ _Last updated: 2026-09-18 03:50 UTC_
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
-| 12 | **Alyssa Thomas** 🔴 +4 | 2,862 |
+| 12 | **Alyssa Thomas** 🔴 +5 | 2,863 |
 | 13 | Jonquel Jones | 2,728 |
 | 14 | **A'ja Wilson** 🔴 +6 | 2,663 |
 | 15 | Breanna Stewart | 2,632 |
@@ -313,8 +313,8 @@ _Last updated: 2026-09-18 03:50 UTC_
 | 87 | Azurá Stevens | 1,322 |
 | 88 | Betty Lennox | 1,296 |
 | 89 | Tari Phillips | 1,274 |
+| 90 | **Chelsea Gray** 🔴 +8 | 1,265 |
 | 90 | Myisha Hines-Allen | 1,265 |
-| 91 | **Chelsea Gray** 🔴 +7 | 1,264 |
 | 92 | Janel McCarville | 1,261 |
 | 93 | Liz Cambage | 1,258 |
 | 94 | Tiffany Hayes | 1,257 |
