@@ -66,7 +66,7 @@ _Last updated: 2026-09-18 01:21 UTC_
 | 45 | Kahleah Copper | 4,437 |
 | 46 | Crystal Langhorne | 4,433 |
 | 46 | Jia Perkins | 4,433 |
-| 48 | **Courtney Vandersloot** 🔴 +9 | 4,371 |
+| 48 | **Courtney Vandersloot** 🔴 +10 | 4,372 |
 | 49 | Jonquel Jones | 4,353 |
 | 50 | Courtney Williams | 4,350 |
 | 51 | **Dearica Hamby** 🔴 +11 | 4,341 |
@@ -216,7 +216,7 @@ _Last updated: 2026-09-18 01:21 UTC_
 | 195 | Monique Billings | 1,612 |
 | 196 | Janell Burse | 1,580 |
 | 197 | Le'coe Willingham | 1,552 |
-| 198 | **Shatori Walker-Kimbrough** 🔴 +2 | 1,546 |
+| 198 | **Shatori Walker-Kimbrough** 🔴 +4 | 1,548 |
 | 199 | Rebecca Allen | 1,529 |
 | 200 | Jennifer Lacy | 1,504 |
 
@@ -533,10 +533,10 @@ _Last updated: 2026-09-18 01:21 UTC_
 | 101 | Debbie Black | 612 |
 | 102 | Cynthia Cooper | 602 |
 | 103 | Sancho Lyttle | 592 |
+| 104 | **Betnijah Laney-Hamilton** 🔴 +1 | 591 |
 | 104 | Caitlin Clark | 591 |
 | 104 | Gabby Williams | 591 |
-| 106 | **Betnijah Laney-Hamilton** 🔴 | 590 |
-| 106 | Camille Smith | 590 |
+| 107 | Camille Smith | 590 |
 | 108 | Armintie Herrington | 589 |
 | 109 | Veronica Burton | 579 |
 | 110 | Tan White | 578 |
