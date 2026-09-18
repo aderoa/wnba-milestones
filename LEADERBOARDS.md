@@ -579,8 +579,8 @@ _Last updated: 2026-09-18 01:35 UTC_
 | 145 | Nikki McCray | 450 |
 | 148 | Ruth Riley | 449 |
 | 149 | DeMya Walker | 446 |
-| 150 | Essence Carson | 445 |
-| 150 | **Jessica Shepard** 🔴 +9 | 445 |
+| 149 | **Jessica Shepard** 🔴 +10 | 446 |
+| 151 | Essence Carson | 445 |
 | 152 | Julie Allemand | 444 |
 | 153 | Michelle Snow | 437 |
 | 154 | Lauren Jackson | 435 |
@@ -785,11 +785,11 @@ _Last updated: 2026-09-18 01:35 UTC_
 | 147 | Tiffany Hayes | 89 |
 | 149 | Marissa Coleman | 88 |
 | 150 | Astou Ndiaye-Diatta | 86 |
-| 151 | Adrian Williams-Strong | 85 |
-| 151 | **Awak Kuier** 🔴 +5 | 85 |
-| 151 | Erlana Larkins | 85 |
-| 151 | Kalani Brown | 85 |
-| 151 | Kristin Folkl | 85 |
+| 150 | **Awak Kuier** 🔴 +6 | 86 |
+| 152 | Adrian Williams-Strong | 85 |
+| 152 | Erlana Larkins | 85 |
+| 152 | Kalani Brown | 85 |
+| 152 | Kristin Folkl | 85 |
 | 156 | **Cameron Brink** 🔴 +2 | 84 |
 | 156 | Charde Houston | 84 |
 | 156 | Marina Mabrey | 84 |
@@ -932,9 +932,9 @@ _Last updated: 2026-09-18 01:35 UTC_
 | 87 | Napheesa Collier | 325 |
 | 88 | Betty Lennox | 323 |
 | 89 | Tammy Sutton-Brown | 319 |
-| 90 | **Alysha Clark** 🔴 | 317 |
-| 90 | Plenette Pierson | 317 |
-| 90 | Temeka Johnson | 317 |
+| 90 | **Alysha Clark** 🔴 +1 | 318 |
+| 91 | Plenette Pierson | 317 |
+| 91 | Temeka Johnson | 317 |
 | 93 | Debbie Black | 315 |
 | 94 | Crystal Langhorne | 314 |
 | 95 | Ebony Hoffman | 308 |
