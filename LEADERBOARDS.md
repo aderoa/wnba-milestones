@@ -1439,8 +1439,8 @@ _Last updated: 2026-09-18 03:27 UTC_
 | 184 | Barbara Farris | 315 |
 | 185 | Monique Billings | 314 |
 | 185 | Moriah Jefferson | 314 |
-| 187 | Alex Bentley | 313 |
-| 187 | **Natisha Hiedeman** 🔴 +1 | 313 |
+| 185 | **Natisha Hiedeman** 🔴 +2 | 314 |
+| 188 | Alex Bentley | 313 |
 | 189 | Tamika Raymond | 311 |
 | 190 | Isabelle Harrison | 307 |
 | 191 | Azurá Stevens | 305 |
