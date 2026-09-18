@@ -1,5 +1,26 @@
 [
   {
+    "ts": "2026-09-18T03:59:00+00:00",
+    "text": "Chelsea Gray passed Myisha Hines-Allen for #90 all-time in rebounds (career 1,266) \u2014 up from #93 entering today \u2014 (7:33 - 4th \u2014 LV @ SEA)",
+    "kind": "rank_pass",
+    "player": "Chelsea Gray",
+    "stat": "rebounds",
+    "rank": 90,
+    "passed_players": [
+      "Myisha Hines-Allen"
+    ],
+    "new_total": 1266
+  },
+  {
+    "ts": "2026-09-18T03:59:00+00:00",
+    "text": "Kalani Brown reached 800 career points (now 802) \u2014 (7:33 - 4th \u2014 LV @ SEA)",
+    "kind": "round",
+    "player": "Kalani Brown",
+    "stat": "points",
+    "value": 800,
+    "new_total": 802
+  },
+  {
     "ts": "2026-09-18T01:53:00+00:00",
     "text": "Kitija Laksa reached 200 career points (now 202) \u2014 (4:33 - 4th \u2014 LA @ DAL)",
     "kind": "round",
@@ -2954,31 +2975,5 @@
       "Gabby Williams"
     ],
     "new_total": 592
-  },
-  {
-    "ts": "2026-07-09T01:23:00+00:00",
-    "text": "Natasha Howard passed Tina Thompson for #18 all-time in blocks (career 373) \u2014 up from #20 entering today \u2014 (6:55 - 4th \u2014 MIN @ CON)",
-    "kind": "rank_pass",
-    "player": "Natasha Howard",
-    "stat": "blocks",
-    "rank": 18,
-    "passed_players": [
-      "Tina Thompson"
-    ],
-    "new_total": 373
-  },
-  {
-    "ts": "2026-07-09T01:05:00+00:00",
-    "text": "Janelle Salaun passed Ebony Hoffman, Shey Peddy, and Stephanie White for #184 all-time in three-pointers (career 116) \u2014 up from #191 entering today \u2014 (1:16 - 4th \u2014 GS @ TOR)",
-    "kind": "rank_pass",
-    "player": "Janelle Salaun",
-    "stat": "three-pointers",
-    "rank": 184,
-    "passed_players": [
-      "Ebony Hoffman",
-      "Shey Peddy",
-      "Stephanie White"
-    ],
-    "new_total": 116
   }
 ]

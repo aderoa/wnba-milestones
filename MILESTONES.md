@@ -2,6 +2,11 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-09-18 03:59 UTC
+
+- **Chelsea Gray** passed **Myisha Hines-Allen** for **#90** all-time in rebounds (career 1,266) — up from #93 entering today — _7:33 - 4th — LV @ SEA_
+- **Kalani Brown** reached **800** career points (now 802) — _7:33 - 4th — LV @ SEA_
+
 ## 2026-09-18 01:53 UTC
 
 - **Kitija Laksa** reached **200** career points (now 202) — _4:33 - 4th — LA @ DAL_
