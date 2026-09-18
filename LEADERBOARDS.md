@@ -118,7 +118,7 @@ _Last updated: 2026-09-18 01:31 UTC_
 | 97 | **Natasha Cloud** 🔴 +2 | 3,020 |
 | 98 | Marie Ferdinand-Harris | 3,001 |
 | 99 | Emma Meesseman | 2,966 |
-| 100 | **Elizabeth Williams** 🔴 +3 | 2,936 |
+| 100 | **Elizabeth Williams** 🔴 +5 | 2,938 |
 | 101 | Natalie Williams | 2,894 |
 | 102 | Jennifer Gillom | 2,888 |
 | 103 | Iziane Castro Marques | 2,862 |
@@ -154,7 +154,7 @@ _Last updated: 2026-09-18 01:31 UTC_
 | 133 | **Azurá Stevens** 🔴 +6 | 2,349 |
 | 134 | Jordin Canada | 2,347 |
 | 135 | Merlakia Jones | 2,308 |
-| 136 | **Betnijah Laney-Hamilton** 🔴 +2 | 2,304 |
+| 136 | **Betnijah Laney-Hamilton** 🔴 +4 | 2,306 |
 | 137 | Satou Sabally | 2,296 |
 | 138 | Kia Vaughn | 2,288 |
 | 139 | Kia Nurse | 2,262 |
@@ -256,7 +256,7 @@ _Last updated: 2026-09-18 01:31 UTC_
 | 30 | Chamique Holdsclaw | 2,123 |
 | 31 | Chasity Melvin | 2,097 |
 | 32 | Tammy Sutton-Brown | 2,010 |
-| 33 | **Elizabeth Williams** 🔴 +3 | 1,981 |
+| 33 | **Elizabeth Williams** 🔴 +4 | 1,982 |
 | 34 | Cheryl Ford | 1,907 |
 | 35 | Courtney Williams | 1,843 |
 | 36 | Kiah Stokes | 1,835 |
