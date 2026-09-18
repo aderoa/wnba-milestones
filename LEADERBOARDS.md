@@ -607,7 +607,7 @@ _Last updated: 2026-09-18 03:52 UTC_
 | 174 | Tamicha Jackson | 389 |
 | 176 | Riquna Williams | 387 |
 | 177 | Bridget Carleton | 384 |
-| 178 | **Dana Evans** 🔴 +1 | 380 |
+| 178 | **Dana Evans** 🔴 +2 | 381 |
 | 179 | Jessica Breland | 377 |
 | 180 | Shenise Johnson | 376 |
 | 181 | Alanna Smith | 374 |
