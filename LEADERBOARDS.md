@@ -235,7 +235,7 @@ _Last updated: 2026-09-18 04:09 UTC_
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
-| 12 | **Alyssa Thomas** 🔴 +6 | 2,864 |
+| 12 | **Alyssa Thomas** 🔴 +7 | 2,865 |
 | 13 | Jonquel Jones | 2,728 |
 | 14 | **A'ja Wilson** 🔴 +7 | 2,664 |
 | 15 | Breanna Stewart | 2,632 |
@@ -461,7 +461,7 @@ _Last updated: 2026-09-18 04:09 UTC_
 | 29 | Vickie Johnson | 1,202 |
 | 30 | DeWanna Bonner | 1,197 |
 | 30 | Leilani Mitchell | 1,197 |
-| 32 | **Jewell Loyd** 🔴 +1 | 1,157 |
+| 32 | **Jewell Loyd** 🔴 +2 | 1,158 |
 | 33 | **Jackie Young** 🔴 +5 | 1,155 |
 | 34 | Renee Montgomery | 1,140 |
 | 35 | Swin Cash | 1,131 |
@@ -1180,11 +1180,11 @@ _Last updated: 2026-09-18 04:09 UTC_
 | 130 | Shavonte Zellous | 167 |
 | 130 | Tianna Hawkins | 167 |
 | 132 | Charlotte Smith | 164 |
+| 133 | **Dana Evans** 🔴 +2 | 162 |
 | 133 | **Stephanie Talbot** 🔴 +2 | 162 |
 | 133 | Tyasha Harris | 162 |
 | 133 | Ukari Figgs | 162 |
-| 136 | **Dana Evans** 🔴 +1 | 161 |
-| 136 | Edna Campbell | 161 |
+| 137 | Edna Campbell | 161 |
 | 138 | Jennifer Lacy | 160 |
 | 139 | Aari McDonald | 158 |
 | 139 | Jennifer Azzi | 158 |
