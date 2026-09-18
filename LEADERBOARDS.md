@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-18 03:03 UTC_
+_Last updated: 2026-09-18 03:04 UTC_
 
 ## Contents
 
@@ -343,7 +343,7 @@ _Last updated: 2026-09-18 03:03 UTC_
 | 117 | Becky Hammon | 1,108 |
 | 118 | Ann Wauters | 1,105 |
 | 119 | Isabelle Harrison | 1,097 |
-| 120 | **Jackie Young** 🔴 | 1,085 |
+| 120 | **Jackie Young** 🔴 +1 | 1,086 |
 | 121 | Svetlana Abrosimova | 1,078 |
 | 122 | Le'coe Willingham | 1,054 |
 | 123 | Angel Reese | 1,045 |
@@ -670,7 +670,7 @@ _Last updated: 2026-09-18 03:03 UTC_
 | 33 | Rebekkah Brunson | 281 |
 | 34 | Nneka Ogwumike | 266 |
 | 35 | Liz Cambage | 264 |
-| 36 | **Cheyenne Parker-Tyus** 🔴 +1 | 262 |
+| 36 | **Cheyenne Parker-Tyus** 🔴 +2 | 263 |
 | 37 | Swin Cash | 258 |
 | 38 | Plenette Pierson | 242 |
 | 39 | Napheesa Collier | 239 |
@@ -1374,8 +1374,8 @@ _Last updated: 2026-09-18 03:03 UTC_
 | 119 | Ebony Hoffman | 470 |
 | 120 | Elaine Powell | 469 |
 | 121 | Allie Quigley | 467 |
-| 122 | Ariel Atkins | 466 |
-| 122 | **Jackie Young** 🔴 +3 | 466 |
+| 121 | **Jackie Young** 🔴 +4 | 467 |
+| 123 | Ariel Atkins | 466 |
 | 124 | Betnijah Laney-Hamilton | 457 |
 | 125 | Kia Vaughn | 454 |
 | 126 | Janeth Arcain | 453 |
@@ -1564,7 +1564,7 @@ _Last updated: 2026-09-18 03:03 UTC_
 | 104 | Kiah Stokes | 651 |
 | 105 | Tari Phillips | 648 |
 | 106 | Marie Ferdinand-Harris | 646 |
-| 107 | **Chelsea Gray** 🔴 +1 | 641 |
+| 107 | **Chelsea Gray** 🔴 +2 | 642 |
 | 108 | Charlotte Smith | 638 |
 | 109 | Teaira McCowan | 637 |
 | 110 | Janell Burse | 632 |
