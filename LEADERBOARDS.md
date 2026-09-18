@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-18 03:43 UTC_
+_Last updated: 2026-09-18 03:45 UTC_
 
 ## Contents
 
@@ -82,7 +82,7 @@ _Last updated: 2026-09-18 03:43 UTC_
 | 61 | Betty Lennox | 3,856 |
 | 62 | Allie Quigley | 3,786 |
 | 63 | Chasity Melvin | 3,781 |
-| 64 | **Jackie Young** 🔴 +33 | 3,731 |
+| 64 | **Jackie Young** 🔴 +34 | 3,732 |
 | 65 | Brittney Sykes | 3,726 |
 | 66 | Kara Lawson | 3,670 |
 | 67 | Mwadi Mabika | 3,576 |
@@ -105,7 +105,7 @@ _Last updated: 2026-09-18 03:43 UTC_
 | 84 | Andrea Stinson | 3,351 |
 | 85 | Tanisha Wright | 3,324 |
 | 86 | Marina Mabrey | 3,249 |
-| 87 | **Stefanie Dolson** 🔴 +7 | 3,224 |
+| 87 | **Stefanie Dolson** 🔴 +8 | 3,225 |
 | 88 | Margo Dydek | 3,214 |
 | 89 | Erica Wheeler | 3,198 |
 | 90 | Danielle Robinson | 3,160 |
@@ -1476,7 +1476,7 @@ _Last updated: 2026-09-18 03:43 UTC_
 | 16 | Swin Cash | 1,146 |
 | 17 | Taj McWilliams-Franklin | 1,145 |
 | 18 | Monique Currie | 1,137 |
-| 19 | **Stefanie Dolson** 🔴 +3 | 1,136 |
+| 18 | **Stefanie Dolson** 🔴 +4 | 1,137 |
 | 20 | Tanisha Wright | 1,109 |
 | 21 | Michelle Snow | 1,108 |
 | 22 | Sylvia Fowles | 1,049 |
