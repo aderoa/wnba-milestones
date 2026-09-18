@@ -1476,8 +1476,8 @@ _Last updated: 2026-09-18 04:12 UTC_
 | 15 | Alana Beard | 1,153 |
 | 16 | Swin Cash | 1,146 |
 | 17 | Taj McWilliams-Franklin | 1,145 |
-| 18 | Monique Currie | 1,137 |
-| 18 | **Stefanie Dolson** 🔴 +4 | 1,137 |
+| 18 | **Stefanie Dolson** 🔴 +5 | 1,138 |
+| 19 | Monique Currie | 1,137 |
 | 20 | Tanisha Wright | 1,109 |
 | 21 | Michelle Snow | 1,108 |
 | 22 | Sylvia Fowles | 1,049 |
