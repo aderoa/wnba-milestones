@@ -385,7 +385,7 @@ _Last updated: 2026-09-18 01:43 UTC_
 | 159 | Naz Hillmon | 865 |
 | 160 | Krystal Thomas | 862 |
 | 161 | Leilani Mitchell | 845 |
-| 162 | **Shakira Austin** 🔴 +6 | 838 |
+| 162 | **Shakira Austin** 🔴 +7 | 839 |
 | 163 | Essence Carson | 833 |
 | 164 | Gabby Williams | 831 |
 | 165 | Kristi Toliver | 829 |
