@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-18 03:42 UTC_
+_Last updated: 2026-09-18 03:43 UTC_
 
 ## Contents
 
@@ -105,7 +105,7 @@ _Last updated: 2026-09-18 03:42 UTC_
 | 84 | Andrea Stinson | 3,351 |
 | 85 | Tanisha Wright | 3,324 |
 | 86 | Marina Mabrey | 3,249 |
-| 87 | **Stefanie Dolson** 🔴 +6 | 3,223 |
+| 87 | **Stefanie Dolson** 🔴 +7 | 3,224 |
 | 88 | Margo Dydek | 3,214 |
 | 89 | Erica Wheeler | 3,198 |
 | 90 | Danielle Robinson | 3,160 |
@@ -1552,8 +1552,8 @@ _Last updated: 2026-09-18 03:42 UTC_
 | 92 | Maya Moore | 686 |
 | 93 | Breanna Stewart | 685 |
 | 93 | Jasmine Thomas | 685 |
-| 95 | **Jewell Loyd** 🔴 | 684 |
-| 95 | Leilani Mitchell | 684 |
+| 93 | **Jewell Loyd** 🔴 +1 | 685 |
+| 96 | Leilani Mitchell | 684 |
 | 97 | Crystal Robinson | 682 |
 | 97 | Kayla Thornton | 682 |
 | 99 | Jennifer Lacy | 680 |
