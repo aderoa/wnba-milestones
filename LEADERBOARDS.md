@@ -33,7 +33,7 @@ _Last updated: 2026-09-18 03:36 UTC_
 | 12 | Sylvia Fowles | 6,413 |
 | 13 | Breanna Stewart | 6,335 |
 | 14 | Lisa Leslie | 6,251 |
-| 15 | **A'ja Wilson** 🔴 +19 | 6,197 |
+| 15 | **A'ja Wilson** 🔴 +21 | 6,199 |
 | 16 | **Jewell Loyd** 🔴 | 6,148 |
 | 17 | Brittney Griner | 6,087 |
 | 18 | Lauren Jackson | 6,005 |
@@ -129,7 +129,7 @@ _Last updated: 2026-09-18 03:36 UTC_
 | 108 | Ticha Penicheiro | 2,729 |
 | 109 | Adrienne Goodson | 2,705 |
 | 110 | Riquna Williams | 2,659 |
-| 111 | **Cheyenne Parker-Tyus** 🔴 +7 | 2,652 |
+| 111 | **Cheyenne Parker-Tyus** 🔴 +9 | 2,654 |
 | 112 | Essence Carson | 2,647 |
 | 112 | Lindsey Harding | 2,647 |
 | 112 | Rhyne Howard | 2,647 |
@@ -237,7 +237,7 @@ _Last updated: 2026-09-18 03:36 UTC_
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | **Alyssa Thomas** 🔴 +4 | 2,862 |
 | 13 | Jonquel Jones | 2,728 |
-| 14 | **A'ja Wilson** 🔴 +5 | 2,662 |
+| 14 | **A'ja Wilson** 🔴 +6 | 2,663 |
 | 15 | Breanna Stewart | 2,632 |
 | 16 | Sancho Lyttle | 2,596 |
 | 17 | Brittney Griner | 2,579 |
@@ -288,7 +288,7 @@ _Last updated: 2026-09-18 03:36 UTC_
 | 62 | Napheesa Collier | 1,510 |
 | 63 | Ticha Penicheiro | 1,485 |
 | 64 | Alysha Clark | 1,471 |
-| 65 | **Cheyenne Parker-Tyus** 🔴 +4 | 1,467 |
+| 65 | **Cheyenne Parker-Tyus** 🔴 +5 | 1,468 |
 | 66 | Sue Bird | 1,466 |
 | 67 | Nicole Powell | 1,457 |
 | 68 | Tamera Young | 1,433 |
@@ -462,7 +462,7 @@ _Last updated: 2026-09-18 03:36 UTC_
 | 30 | DeWanna Bonner | 1,197 |
 | 30 | Leilani Mitchell | 1,197 |
 | 32 | **Jewell Loyd** 🔴 +1 | 1,157 |
-| 33 | **Jackie Young** 🔴 +2 | 1,152 |
+| 33 | **Jackie Young** 🔴 +3 | 1,153 |
 | 34 | Renee Montgomery | 1,140 |
 | 35 | Swin Cash | 1,131 |
 | 36 | Sabrina Ionescu | 1,092 |
