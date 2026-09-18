@@ -1644,9 +1644,9 @@ _Last updated: 2026-09-18 03:11 UTC_
 | 184 | Lindsey Harding | 486 |
 | 185 | Cathrine Kraayeveld | 484 |
 | 185 | Kia Nurse | 484 |
-| 187 | Liz Cambage | 483 |
-| 187 | Rhonda Mapp | 483 |
-| 187 | **Sami Whitcomb** 🔴 +3 | 483 |
+| 185 | **Sami Whitcomb** 🔴 +4 | 484 |
+| 188 | Liz Cambage | 483 |
+| 188 | Rhonda Mapp | 483 |
 | 190 | Alanna Smith | 479 |
 | 191 | Seimone Augustus | 477 |
 | 192 | Allie Quigley | 475 |
