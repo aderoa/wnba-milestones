@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-18 03:39 UTC_
+_Last updated: 2026-09-18 03:40 UTC_
 
 ## Contents
 
@@ -34,7 +34,7 @@ _Last updated: 2026-09-18 03:39 UTC_
 | 13 | Breanna Stewart | 6,335 |
 | 14 | Lisa Leslie | 6,251 |
 | 15 | **A'ja Wilson** 🔴 +21 | 6,199 |
-| 16 | **Jewell Loyd** 🔴 | 6,148 |
+| 16 | **Jewell Loyd** 🔴 +3 | 6,151 |
 | 17 | Brittney Griner | 6,087 |
 | 18 | Lauren Jackson | 6,005 |
 | 18 | Seimone Augustus | 6,005 |
@@ -82,7 +82,7 @@ _Last updated: 2026-09-18 03:39 UTC_
 | 61 | Betty Lennox | 3,856 |
 | 62 | Allie Quigley | 3,786 |
 | 63 | Chasity Melvin | 3,781 |
-| 64 | **Jackie Young** 🔴 +31 | 3,729 |
+| 64 | **Jackie Young** 🔴 +33 | 3,731 |
 | 65 | Brittney Sykes | 3,726 |
 | 66 | Kara Lawson | 3,670 |
 | 67 | Mwadi Mabika | 3,576 |
@@ -180,7 +180,7 @@ _Last updated: 2026-09-18 03:39 UTC_
 | 159 | Coco Miller | 2,030 |
 | 160 | Diamond DeShields | 2,026 |
 | 161 | Vicky Bullett | 2,018 |
-| 162 | **Natisha Hiedeman** 🔴 +10 | 2,012 |
+| 162 | **Natisha Hiedeman** 🔴 +12 | 2,014 |
 | 163 | **Ezi Magbegor** 🔴 | 1,995 |
 | 164 | Bria Hartley | 1,967 |
 | 165 | Chiney Ogwumike | 1,964 |
@@ -517,7 +517,7 @@ _Last updated: 2026-09-18 03:39 UTC_
 | 85 | Emma Meesseman | 681 |
 | 86 | Nykesha Sales | 677 |
 | 87 | **Natisha Hiedeman** 🔴 +5 | 673 |
-| 88 | **A'ja Wilson** 🔴 +4 | 671 |
+| 88 | **A'ja Wilson** 🔴 +5 | 672 |
 | 89 | Bria Hartley | 661 |
 | 90 | Brittney Griner | 660 |
 | 91 | Lindsay Allen | 657 |
@@ -527,7 +527,7 @@ _Last updated: 2026-09-18 03:39 UTC_
 | 95 | Alex Bentley | 645 |
 | 96 | Asjha Jones | 637 |
 | 97 | Jennifer Azzi | 636 |
-| 98 | **Sami Whitcomb** 🔴 +2 | 625 |
+| 98 | **Sami Whitcomb** 🔴 +3 | 626 |
 | 99 | Alysha Clark | 620 |
 | 100 | Natasha Howard | 615 |
 | 101 | Debbie Black | 612 |
@@ -727,9 +727,9 @@ _Last updated: 2026-09-18 03:39 UTC_
 | 87 | Seimone Augustus | 133 |
 | 91 | Katie Mattera | 131 |
 | 91 | Nakia Sanford | 131 |
-| 93 | **Emily Engstler** 🔴 +2 | 130 |
-| 94 | Brooke Wyckoff | 129 |
-| 94 | Cathrine Kraayeveld | 129 |
+| 93 | Brooke Wyckoff | 129 |
+| 93 | Cathrine Kraayeveld | 129 |
+| 93 | **Emily Engstler** 🔴 +1 | 129 |
 | 96 | **Alyssa Thomas** 🔴 | 127 |
 | 96 | **Chelsea Gray** 🔴 | 127 |
 | 96 | Chiney Ogwumike | 127 |
@@ -1056,7 +1056,7 @@ _Last updated: 2026-09-18 03:39 UTC_
 | 6 | Tina Thompson | 745 |
 | 7 | Katie Douglas | 723 |
 | 8 | Kelsey Mitchell | 712 |
-| 9 | **Jewell Loyd** 🔴 | 695 |
+| 9 | **Jewell Loyd** 🔴 +1 | 696 |
 | 10 | DeWanna Bonner | 682 |
 | 11 | Kristi Toliver | 651 |
 | 12 | Kelsey Plum | 619 |
@@ -1205,7 +1205,7 @@ _Last updated: 2026-09-18 03:39 UTC_
 | 153 | Matee Ajavon | 144 |
 | 156 | Shenise Johnson | 143 |
 | 157 | Jordan Hooper | 141 |
-| 158 | **Karlie Samuelson** 🔴 +1 | 140 |
+| 157 | **Karlie Samuelson** 🔴 +2 | 141 |
 | 159 | Coco Miller | 139 |
 | 160 | Loree Moore | 138 |
 | 160 | Tanisha Wright | 138 |
@@ -1547,8 +1547,8 @@ _Last updated: 2026-09-18 03:39 UTC_
 | 87 | Tan White | 698 |
 | 88 | Katie Douglas | 697 |
 | 89 | Danielle Robinson | 692 |
-| 90 | **Cheyenne Parker-Tyus** 🔴 +2 | 687 |
-| 90 | Sophia Young-Malcolm | 687 |
+| 90 | **Cheyenne Parker-Tyus** 🔴 +3 | 688 |
+| 91 | Sophia Young-Malcolm | 687 |
 | 92 | Maya Moore | 686 |
 | 93 | Breanna Stewart | 685 |
 | 93 | Jasmine Thomas | 685 |
