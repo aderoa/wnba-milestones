@@ -33,7 +33,7 @@ _Last updated: 2026-09-18 03:42 UTC_
 | 12 | Sylvia Fowles | 6,413 |
 | 13 | Breanna Stewart | 6,335 |
 | 14 | Lisa Leslie | 6,251 |
-| 15 | **A'ja Wilson** 🔴 +23 | 6,201 |
+| 15 | **A'ja Wilson** 🔴 +24 | 6,202 |
 | 16 | **Jewell Loyd** 🔴 +3 | 6,151 |
 | 17 | Brittney Griner | 6,087 |
 | 18 | Lauren Jackson | 6,005 |
