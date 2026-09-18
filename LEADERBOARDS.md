@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-18 01:11 UTC_
+_Last updated: 2026-09-18 01:12 UTC_
 
 ## Contents
 
@@ -346,7 +346,7 @@ _Last updated: 2026-09-18 01:11 UTC_
 | 120 | Jackie Young | 1,085 |
 | 121 | Svetlana Abrosimova | 1,078 |
 | 122 | Le'coe Willingham | 1,054 |
-| 123 | **Angel Reese** 🔴 +9 | 1,044 |
+| 123 | **Angel Reese** 🔴 +10 | 1,045 |
 | 124 | Nicole Ohlde | 1,040 |
 | 125 | Tamecka Dixon | 1,035 |
 | 126 | Kamila Vodichkova | 1,031 |
@@ -385,7 +385,7 @@ _Last updated: 2026-09-18 01:11 UTC_
 | 159 | **Naz Hillmon** 🔴 +6 | 865 |
 | 160 | Krystal Thomas | 862 |
 | 161 | Leilani Mitchell | 845 |
-| 162 | **Shakira Austin** 🔴 +3 | 835 |
+| 162 | **Shakira Austin** 🔴 +4 | 836 |
 | 163 | Essence Carson | 833 |
 | 164 | Gabby Williams | 831 |
 | 165 | Kristi Toliver | 829 |
@@ -892,7 +892,7 @@ _Last updated: 2026-09-18 01:11 UTC_
 | 47 | Nicole Powell | 401 |
 | 48 | **Jordin Canada** 🔴 +2 | 399 |
 | 49 | Jasmine Thomas | 394 |
-| 50 | **Ariel Atkins** 🔴 +1 | 391 |
+| 50 | **Ariel Atkins** 🔴 +2 | 392 |
 | 51 | Danielle Robinson | 389 |
 | 52 | Deanna Nolan | 388 |
 | 53 | Briann January | 386 |
@@ -911,9 +911,9 @@ _Last updated: 2026-09-18 01:11 UTC_
 | 66 | Vickie Johnson | 357 |
 | 67 | Dominique Canty | 356 |
 | 67 | Renee Montgomery | 356 |
+| 69 | **Arike Ogunbowale** 🔴 +1 | 355 |
 | 69 | **Natasha Cloud** 🔴 | 355 |
 | 69 | Tamecka Dixon | 355 |
-| 71 | **Arike Ogunbowale** 🔴 | 354 |
 | 72 | Vicky Bullett | 353 |
 | 73 | Svetlana Abrosimova | 352 |
 | 74 | Janeth Arcain | 346 |
@@ -1374,7 +1374,7 @@ _Last updated: 2026-09-18 01:11 UTC_
 | 119 | Ebony Hoffman | 470 |
 | 120 | Elaine Powell | 469 |
 | 121 | Allie Quigley | 467 |
-| 122 | **Ariel Atkins** 🔴 | 465 |
+| 122 | **Ariel Atkins** 🔴 +1 | 466 |
 | 123 | Jackie Young | 463 |
 | 124 | **Betnijah Laney-Hamilton** 🔴 | 456 |
 | 125 | Kia Vaughn | 454 |
