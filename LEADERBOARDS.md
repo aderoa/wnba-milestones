@@ -180,7 +180,7 @@ _Last updated: 2026-09-18 02:30 UTC_
 | 159 | Coco Miller | 2,030 |
 | 160 | Diamond DeShields | 2,026 |
 | 161 | Vicky Bullett | 2,018 |
-| 162 | **Natisha Hiedeman** 🔴 +3 | 2,005 |
+| 162 | **Natisha Hiedeman** 🔴 +4 | 2,006 |
 | 163 | Ezi Magbegor | 1,995 |
 | 164 | Bria Hartley | 1,967 |
 | 165 | Chiney Ogwumike | 1,964 |
