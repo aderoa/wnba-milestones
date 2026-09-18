@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-18 04:09 UTC_
+_Last updated: 2026-09-18 04:11 UTC_
 
 ## Contents
 
@@ -267,7 +267,7 @@ _Last updated: 2026-09-18 04:09 UTC_
 | 41 | Lindsay Whalen | 1,805 |
 | 42 | Camille Smith | 1,802 |
 | 43 | Asjha Jones | 1,751 |
-| 44 | **Stefanie Dolson** 🔴 +2 | 1,705 |
+| 44 | **Stefanie Dolson** 🔴 +3 | 1,706 |
 | 45 | Teaira McCowan | 1,694 |
 | 46 | Monique Currie | 1,666 |
 | 47 | Glory Johnson | 1,640 |
@@ -1180,10 +1180,10 @@ _Last updated: 2026-09-18 04:09 UTC_
 | 130 | Shavonte Zellous | 167 |
 | 130 | Tianna Hawkins | 167 |
 | 132 | Charlotte Smith | 164 |
-| 133 | **Dana Evans** 🔴 +2 | 162 |
-| 133 | **Stephanie Talbot** 🔴 +2 | 162 |
-| 133 | Tyasha Harris | 162 |
-| 133 | Ukari Figgs | 162 |
+| 133 | **Dana Evans** 🔴 +3 | 163 |
+| 134 | **Stephanie Talbot** 🔴 +2 | 162 |
+| 134 | Tyasha Harris | 162 |
+| 134 | Ukari Figgs | 162 |
 | 137 | Edna Campbell | 161 |
 | 138 | Jennifer Lacy | 160 |
 | 139 | Aari McDonald | 158 |
