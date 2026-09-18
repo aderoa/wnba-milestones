@@ -33,7 +33,7 @@ _Last updated: 2026-09-18 02:52 UTC_
 | 12 | Sylvia Fowles | 6,413 |
 | 13 | Breanna Stewart | 6,335 |
 | 14 | Lisa Leslie | 6,251 |
-| 15 | **A'ja Wilson** 🔴 +7 | 6,185 |
+| 15 | **A'ja Wilson** 🔴 +9 | 6,187 |
 | 16 | **Jewell Loyd** 🔴 | 6,148 |
 | 17 | Brittney Griner | 6,087 |
 | 18 | Lauren Jackson | 6,005 |
@@ -180,7 +180,7 @@ _Last updated: 2026-09-18 02:52 UTC_
 | 159 | Coco Miller | 2,030 |
 | 160 | Diamond DeShields | 2,026 |
 | 161 | Vicky Bullett | 2,018 |
-| 162 | **Natisha Hiedeman** 🔴 +5 | 2,007 |
+| 162 | **Natisha Hiedeman** 🔴 +7 | 2,009 |
 | 163 | **Ezi Magbegor** 🔴 | 1,995 |
 | 164 | Bria Hartley | 1,967 |
 | 165 | Chiney Ogwumike | 1,964 |
@@ -599,7 +599,7 @@ _Last updated: 2026-09-18 02:52 UTC_
 | 167 | Kia Nurse | 407 |
 | 168 | Allison Feaster | 406 |
 | 169 | Rita Williams | 403 |
-| 170 | **Stephanie Talbot** 🔴 +1 | 401 |
+| 170 | **Stephanie Talbot** 🔴 +2 | 402 |
 | 171 | Marissa Coleman | 399 |
 | 172 | Stacey Dales | 395 |
 | 173 | Sugar Rodgers | 393 |
@@ -855,7 +855,7 @@ _Last updated: 2026-09-18 02:52 UTC_
 | 10 | Angel McCoughtry | 627 |
 | 11 | Katie Douglas | 623 |
 | 12 | DeLisha Milton-Jones | 619 |
-| 13 | **Alyssa Thomas** 🔴 | 582 |
+| 13 | **Alyssa Thomas** 🔴 +1 | 583 |
 | 14 | Taj McWilliams-Franklin | 577 |
 | 15 | Tully Bevilaqua | 571 |
 | 16 | Courtney Vandersloot | 544 |
