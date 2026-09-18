@@ -288,7 +288,7 @@ _Last updated: 2026-09-18 03:46 UTC_
 | 62 | Napheesa Collier | 1,510 |
 | 63 | Ticha Penicheiro | 1,485 |
 | 64 | Alysha Clark | 1,471 |
-| 65 | **Cheyenne Parker-Tyus** 🔴 +5 | 1,468 |
+| 65 | **Cheyenne Parker-Tyus** 🔴 +6 | 1,469 |
 | 66 | Sue Bird | 1,466 |
 | 67 | Nicole Powell | 1,457 |
 | 68 | Tamera Young | 1,433 |
@@ -301,7 +301,7 @@ _Last updated: 2026-09-18 03:46 UTC_
 | 75 | Kara Braxton | 1,387 |
 | 76 | Katie Smith | 1,383 |
 | 77 | Ebony Hoffman | 1,376 |
-| 78 | **Jewell Loyd** 🔴 | 1,371 |
+| 78 | **Jewell Loyd** 🔴 +1 | 1,372 |
 | 79 | Sheri Sam | 1,356 |
 | 80 | Tamika Whitmore | 1,355 |
 | 81 | Emma Meesseman | 1,350 |
