@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-18 23:58 UTC_
+_Last updated: 2026-09-18 23:59 UTC_
 
 ## Contents
 
@@ -217,7 +217,7 @@ _Last updated: 2026-09-18 23:58 UTC_
 | 196 | Janell Burse | 1,580 |
 | 197 | Le'coe Willingham | 1,552 |
 | 198 | Shatori Walker-Kimbrough | 1,544 |
-| 199 | **Rebecca Allen** 🔴 | 1,529 |
+| 199 | **Rebecca Allen** 🔴 +2 | 1,531 |
 | 200 | Jennifer Lacy | 1,504 |
 
 ## Rebounds
@@ -1435,7 +1435,7 @@ _Last updated: 2026-09-18 23:58 UTC_
 | 179 | Rita Williams | 326 |
 | 181 | Le'coe Willingham | 325 |
 | 182 | Olympia Scott | 324 |
-| 183 | **Kia Nurse** 🔴 +1 | 321 |
+| 183 | **Kia Nurse** 🔴 | 320 |
 | 184 | Barbara Farris | 315 |
 | 185 | **Monique Billings** 🔴 | 314 |
 | 185 | Moriah Jefferson | 314 |
