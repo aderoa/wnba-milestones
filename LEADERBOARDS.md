@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-19 23:17 UTC_
+_Last updated: 2026-09-19 23:18 UTC_
 
 ## Contents
 
@@ -455,7 +455,7 @@ _Last updated: 2026-09-19 23:17 UTC_
 | 23 | Teresa Weatherspoon | 1,333 |
 | 24 | Kristi Toliver | 1,301 |
 | 25 | Kelsey Plum | 1,270 |
-| 26 | **Jordin Canada** 🔴 +2 | 1,264 |
+| 26 | **Jordin Canada** 🔴 +3 | 1,265 |
 | 27 | Katie Smith | 1,258 |
 | 28 | Odyssey Sims | 1,228 |
 | 29 | Vickie Johnson | 1,202 |
@@ -966,8 +966,8 @@ _Last updated: 2026-09-19 23:17 UTC_
 | 121 | Noelle Quinn | 256 |
 | 122 | Elaine Powell | 255 |
 | 122 | Loree Moore | 255 |
-| 124 | **Rhyne Howard** 🔴 | 254 |
-| 124 | Ruthie Bolton | 254 |
+| 122 | **Rhyne Howard** 🔴 +1 | 255 |
+| 125 | Ruthie Bolton | 254 |
 | 126 | Hamchetou Maiga-Ba | 251 |
 | 126 | Tamika Whitmore | 251 |
 | 128 | Sami Whitcomb | 246 |
@@ -1352,8 +1352,8 @@ _Last updated: 2026-09-19 23:17 UTC_
 | 97 | Mwadi Mabika | 532 |
 | 98 | Nakia Sanford | 531 |
 | 99 | Arike Ogunbowale | 529 |
-| 100 | **Jordin Canada** 🔴 | 527 |
-| 100 | Maya Moore | 527 |
+| 100 | **Jordin Canada** 🔴 +1 | 528 |
+| 101 | Maya Moore | 527 |
 | 102 | Kara Lawson | 526 |
 | 103 | Leilani Mitchell | 525 |
 | 103 | Nicole Powell | 525 |
