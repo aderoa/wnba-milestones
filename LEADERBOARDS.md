@@ -436,7 +436,7 @@ _Last updated: 2026-09-19 18:24 UTC_
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
 | 6 | Chelsea Gray | 2,003 |
-| 7 | **Alyssa Thomas** 🔴 +6 | 1,977 |
+| 7 | **Alyssa Thomas** 🔴 +7 | 1,978 |
 | 8 | Skylar Diggins | 1,852 |
 | 9 | Natasha Cloud | 1,802 |
 | 10 | Becky Hammon | 1,705 |
@@ -1500,7 +1500,7 @@ _Last updated: 2026-09-19 18:24 UTC_
 | 40 | Jonquel Jones | 913 |
 | 40 | Ticha Penicheiro | 913 |
 | 42 | Shavonte Zellous | 907 |
-| 43 | **Alysha Clark** 🔴 | 905 |
+| 43 | **Alysha Clark** 🔴 +1 | 906 |
 | 44 | DeMya Walker | 882 |
 | 45 | Candice Dupree | 876 |
 | 46 | Murriel Page | 872 |
