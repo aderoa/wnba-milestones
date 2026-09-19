@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-19 23:45 UTC_
+_Last updated: 2026-09-19 23:46 UTC_
 
 ## Contents
 
@@ -297,7 +297,7 @@ _Last updated: 2026-09-19 23:45 UTC_
 | 71 | Nakia Sanford | 1,419 |
 | 72 | Kayla Thornton | 1,408 |
 | 73 | **Allisha Gray** 🔴 +3 | 1,407 |
-| 74 | **Courtney Vandersloot** 🔴 +4 | 1,390 |
+| 74 | **Courtney Vandersloot** 🔴 +5 | 1,391 |
 | 75 | Kara Braxton | 1,387 |
 | 76 | Katie Smith | 1,383 |
 | 77 | Ebony Hoffman | 1,376 |
@@ -346,8 +346,8 @@ _Last updated: 2026-09-19 23:45 UTC_
 | 120 | Jackie Young | 1,085 |
 | 121 | Svetlana Abrosimova | 1,078 |
 | 122 | Le'coe Willingham | 1,054 |
+| 123 | **Angel Reese** 🔴 +5 | 1,040 |
 | 123 | Nicole Ohlde | 1,040 |
-| 124 | **Angel Reese** 🔴 +3 | 1,038 |
 | 125 | Tamecka Dixon | 1,035 |
 | 126 | Kamila Vodichkova | 1,031 |
 | 127 | Jasmine Thomas | 1,027 |
@@ -503,7 +503,7 @@ _Last updated: 2026-09-19 23:45 UTC_
 | 71 | Marina Mabrey | 801 |
 | 72 | Epiphanny Prince | 800 |
 | 73 | Mwadi Mabika | 774 |
-| 74 | **Allisha Gray** 🔴 | 767 |
+| 74 | **Allisha Gray** 🔴 +1 | 768 |
 | 75 | Sheri Sam | 745 |
 | 76 | Monique Currie | 740 |
 | 77 | Elaine Powell | 728 |
@@ -708,8 +708,8 @@ _Last updated: 2026-09-19 23:45 UTC_
 | 71 | Shameka Christon | 165 |
 | 72 | Aliyah Boston | 160 |
 | 72 | Cheryl Ford | 160 |
-| 74 | **Allisha Gray** 🔴 | 157 |
-| 74 | Kara Braxton | 157 |
+| 74 | **Allisha Gray** 🔴 +1 | 158 |
+| 75 | Kara Braxton | 157 |
 | 76 | DeMya Walker | 155 |
 | 76 | Tamika Whitmore | 155 |
 | 78 | Ann Wauters | 153 |
