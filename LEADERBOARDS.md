@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-19 00:06 UTC_
+_Last updated: 2026-09-19 00:08 UTC_
 
 ## Contents
 
@@ -67,8 +67,8 @@ _Last updated: 2026-09-19 00:06 UTC_
 | 46 | Crystal Langhorne | 4,433 |
 | 46 | Jia Perkins | 4,433 |
 | 48 | Courtney Vandersloot | 4,362 |
-| 49 | **Courtney Williams** 🔴 +9 | 4,359 |
-| 50 | **Jonquel Jones** 🔴 +5 | 4,358 |
+| 48 | **Courtney Williams** 🔴 +12 | 4,362 |
+| 50 | **Jonquel Jones** 🔴 +7 | 4,360 |
 | 51 | Dearica Hamby | 4,330 |
 | 52 | Sophia Young-Malcolm | 4,300 |
 | 53 | Plenette Pierson | 4,258 |
@@ -238,7 +238,7 @@ _Last updated: 2026-09-19 00:06 UTC_
 | 12 | Alyssa Thomas | 2,858 |
 | 13 | **Jonquel Jones** 🔴 +3 | 2,731 |
 | 14 | A'ja Wilson | 2,657 |
-| 15 | **Breanna Stewart** 🔴 +2 | 2,634 |
+| 15 | **Breanna Stewart** 🔴 +3 | 2,635 |
 | 16 | Sancho Lyttle | 2,596 |
 | 17 | Brittney Griner | 2,579 |
 | 18 | DeLisha Milton-Jones | 2,574 |
@@ -284,7 +284,7 @@ _Last updated: 2026-09-19 00:06 UTC_
 | 58 | Katie Douglas | 1,562 |
 | 59 | Angel McCoughtry | 1,561 |
 | 60 | Penny Taylor | 1,552 |
-| 61 | **Napheesa Collier** 🔴 +4 | 1,514 |
+| 61 | **Napheesa Collier** 🔴 +5 | 1,515 |
 | 62 | Cappie Pondexter | 1,513 |
 | 63 | Ticha Penicheiro | 1,485 |
 | 64 | Alysha Clark | 1,469 |
@@ -473,8 +473,8 @@ _Last updated: 2026-09-19 00:06 UTC_
 | 42 | Sheryl Swoopes | 1,037 |
 | 43 | Tina Charles | 1,033 |
 | 44 | **Kayla McBride** 🔴 | 992 |
+| 45 | **Breanna Stewart** 🔴 +1 | 982 |
 | 45 | Nikki Teasley | 982 |
-| 46 | **Breanna Stewart** 🔴 | 981 |
 | 47 | Tamecka Dixon | 960 |
 | 48 | Tiffany Hayes | 957 |
 | 49 | Kara Lawson | 946 |
@@ -540,7 +540,7 @@ _Last updated: 2026-09-19 00:06 UTC_
 | 109 | Veronica Burton | 579 |
 | 110 | Tan White | 578 |
 | 111 | Matee Ajavon | 577 |
-| 112 | **Napheesa Collier** 🔴 +1 | 571 |
+| 112 | **Napheesa Collier** 🔴 +2 | 572 |
 | 113 | Nicole Powell | 567 |
 | 114 | Loree Moore | 562 |
 | 115 | Sophia Young-Malcolm | 554 |
@@ -1024,9 +1024,9 @@ _Last updated: 2026-09-19 00:06 UTC_
 | 180 | Tamicha Jackson | 188 |
 | 181 | Michele Timms | 187 |
 | 182 | Charde Houston | 185 |
+| 182 | **Sabrina Ionescu** 🔴 +1 | 185 |
 | 182 | Tiffany Jackson | 185 |
-| 184 | Erin Perperoglou | 184 |
-| 184 | **Sabrina Ionescu** 🔴 | 184 |
+| 185 | Erin Perperoglou | 184 |
 | 186 | **Rebecca Allen** 🔴 | 183 |
 | 187 | Erin Phillips | 182 |
 | 187 | **Monique Billings** 🔴 | 182 |
@@ -1127,8 +1127,8 @@ _Last updated: 2026-09-19 00:06 UTC_
 | 77 | Tully Bevilaqua | 290 |
 | 79 | Alana Beard | 288 |
 | 80 | Monique Currie | 284 |
-| 81 | **Courtney Williams** 🔴 +1 | 278 |
-| 81 | Stefanie Dolson | 278 |
+| 81 | **Courtney Williams** 🔴 +2 | 279 |
+| 82 | Stefanie Dolson | 278 |
 | 83 | Iziane Castro Marques | 275 |
 | 84 | Sheryl Swoopes | 270 |
 | 85 | Sophia Witherspoon | 260 |
@@ -1388,8 +1388,8 @@ _Last updated: 2026-09-19 00:06 UTC_
 | 134 | Jennifer Gillom | 434 |
 | 134 | Nicole Ohlde | 434 |
 | 136 | Murriel Page | 432 |
+| 137 | **Napheesa Collier** 🔴 +2 | 424 |
 | 137 | Shameka Christon | 424 |
-| 138 | **Napheesa Collier** 🔴 +1 | 423 |
 | 139 | Cynthia Cooper | 422 |
 | 139 | Noelle Quinn | 422 |
 | 141 | Bria Hartley | 419 |
