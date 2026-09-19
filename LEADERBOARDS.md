@@ -66,7 +66,7 @@ _Last updated: 2026-09-19 01:12 UTC_
 | 45 | Kahleah Copper | 4,437 |
 | 46 | Crystal Langhorne | 4,433 |
 | 46 | Jia Perkins | 4,433 |
-| 48 | **Jonquel Jones** 🔴 +11 | 4,364 |
+| 48 | **Jonquel Jones** 🔴 +13 | 4,366 |
 | 49 | Courtney Vandersloot | 4,362 |
 | 49 | **Courtney Williams** 🔴 +12 | 4,362 |
 | 51 | Dearica Hamby | 4,330 |
@@ -528,7 +528,7 @@ _Last updated: 2026-09-19 01:12 UTC_
 | 97 | Jennifer Azzi | 636 |
 | 98 | Sami Whitcomb | 623 |
 | 99 | Alysha Clark | 619 |
-| 100 | **Natasha Howard** 🔴 +2 | 617 |
+| 100 | **Natasha Howard** 🔴 +3 | 618 |
 | 101 | Debbie Black | 612 |
 | 102 | **Caitlin Clark** 🔴 +11 | 602 |
 | 102 | Cynthia Cooper | 602 |
@@ -1468,7 +1468,7 @@ _Last updated: 2026-09-19 01:12 UTC_
 | 9 | Tammy Sutton-Brown | 1,193 |
 | 10 | Plenette Pierson | 1,175 |
 | 11 | Chasity Melvin | 1,165 |
-| 12 | **Natasha Howard** 🔴 +4 | 1,162 |
+| 12 | **Natasha Howard** 🔴 +5 | 1,163 |
 | 13 | Camille Smith | 1,159 |
 | 14 | Nneka Ogwumike | 1,156 |
 | 15 | Alana Beard | 1,153 |
