@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-19 01:22 UTC_
+_Last updated: 2026-09-19 01:24 UTC_
 
 ## Contents
 
@@ -313,7 +313,7 @@ _Last updated: 2026-09-19 01:22 UTC_
 | 87 | Azurá Stevens | 1,319 |
 | 88 | Betty Lennox | 1,296 |
 | 89 | Tari Phillips | 1,274 |
-| 90 | **Myisha Hines-Allen** 🔴 +2 | 1,267 |
+| 90 | **Myisha Hines-Allen** 🔴 +4 | 1,269 |
 | 91 | Janel McCarville | 1,261 |
 | 92 | **Kayla McBride** 🔴 +3 | 1,259 |
 | 93 | Liz Cambage | 1,258 |
@@ -342,7 +342,7 @@ _Last updated: 2026-09-19 01:22 UTC_
 | 116 | Chiney Ogwumike | 1,110 |
 | 117 | Becky Hammon | 1,108 |
 | 118 | Ann Wauters | 1,105 |
-| 119 | **Isabelle Harrison** 🔴 +7 | 1,104 |
+| 118 | **Isabelle Harrison** 🔴 +8 | 1,105 |
 | 120 | Jackie Young | 1,085 |
 | 121 | Svetlana Abrosimova | 1,078 |
 | 122 | Le'coe Willingham | 1,054 |
@@ -759,10 +759,10 @@ _Last updated: 2026-09-19 01:22 UTC_
 | 122 | Sylvia Crawley | 106 |
 | 124 | Carolyn Swords | 104 |
 | 124 | Rebecca Lobo | 104 |
+| 126 | **Isabelle Harrison** 🔴 +1 | 103 |
 | 126 | Jennifer Gillom | 103 |
 | 126 | Jia Perkins | 103 |
-| 128 | **Isabelle Harrison** 🔴 | 102 |
-| 128 | Theresa Plaisance | 102 |
+| 129 | Theresa Plaisance | 102 |
 | 130 | Deanna Nolan | 101 |
 | 131 | Chante Black | 100 |
 | 131 | Danielle Adams | 100 |
@@ -803,11 +803,11 @@ _Last updated: 2026-09-19 01:22 UTC_
 | 167 | Stephanie Talbot | 79 |
 | 168 | Astou Ndour-Fall | 78 |
 | 168 | Katie Smith | 78 |
+| 168 | **Myisha Hines-Allen** 🔴 +1 | 78 |
 | 168 | Slobodanka Tuvic | 78 |
-| 171 | Kara Wolters | 77 |
-| 171 | **Myisha Hines-Allen** 🔴 | 77 |
-| 171 | Noelle Quinn | 77 |
-| 171 | Tierra Ruffin-Pratt | 77 |
+| 172 | Kara Wolters | 77 |
+| 172 | Noelle Quinn | 77 |
+| 172 | Tierra Ruffin-Pratt | 77 |
 | 175 | Jennifer Lacy | 76 |
 | 175 | Sugar Rodgers | 76 |
 | 175 | Tan White | 76 |
@@ -1019,8 +1019,8 @@ _Last updated: 2026-09-19 01:22 UTC_
 | 174 | Sonja Henning | 194 |
 | 174 | Tierra Ruffin-Pratt | 194 |
 | 177 | Cynthia Cooper | 192 |
-| 178 | **Isabelle Harrison** 🔴 +1 | 191 |
-| 178 | **Myisha Hines-Allen** 🔴 | 191 |
+| 177 | **Myisha Hines-Allen** 🔴 +1 | 192 |
+| 179 | **Isabelle Harrison** 🔴 +1 | 191 |
 | 180 | Tamicha Jackson | 188 |
 | 181 | Michele Timms | 187 |
 | 181 | **Sabrina Ionescu** 🔴 +3 | 187 |
@@ -1607,7 +1607,7 @@ _Last updated: 2026-09-19 01:22 UTC_
 | 147 | Renee Montgomery | 543 |
 | 149 | **Sophie Cunningham** 🔴 +4 | 542 |
 | 150 | Marissa Coleman | 541 |
-| 151 | **Myisha Hines-Allen** 🔴 | 535 |
+| 151 | **Myisha Hines-Allen** 🔴 +1 | 536 |
 | 152 | Damiris Dantas | 533 |
 | 152 | Kristen Rasmussen | 533 |
 | 154 | Amanda Zahui B | 530 |
