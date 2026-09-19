@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-19 01:13 UTC_
+_Last updated: 2026-09-19 01:14 UTC_
 
 ## Contents
 
@@ -1621,10 +1621,10 @@ _Last updated: 2026-09-19 01:13 UTC_
 | 162 | Adrienne Goodson | 512 |
 | 162 | Janeth Arcain | 512 |
 | 164 | Andrea Stinson | 511 |
+| 165 | **Isabelle Harrison** 🔴 +2 | 507 |
 | 165 | **Napheesa Collier** 🔴 +3 | 507 |
 | 165 | Vicky Bullett | 507 |
-| 167 | **Isabelle Harrison** 🔴 +1 | 506 |
-| 167 | Merlakia Jones | 506 |
+| 168 | Merlakia Jones | 506 |
 | 169 | Rushia Brown | 505 |
 | 169 | Shekinna Stricklen | 505 |
 | 171 | Allison Feaster | 504 |
