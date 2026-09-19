@@ -175,7 +175,7 @@ _Last updated: 2026-09-19 00:52 UTC_
 | 154 | Tari Phillips | 2,134 |
 | 155 | Cheryl Ford | 2,116 |
 | 156 | Elena Baranova | 2,110 |
-| 157 | **Aliyah Boston** 🔴 +3 | 2,090 |
+| 157 | **Aliyah Boston** 🔴 +6 | 2,093 |
 | 158 | Aerial Powers | 2,068 |
 | 159 | Coco Miller | 2,030 |
 | 160 | Diamond DeShields | 2,026 |
@@ -351,7 +351,7 @@ _Last updated: 2026-09-19 00:52 UTC_
 | 124 | Tamecka Dixon | 1,035 |
 | 126 | Kamila Vodichkova | 1,031 |
 | 127 | Jasmine Thomas | 1,027 |
-| 128 | **Sabrina Ionescu** 🔴 +2 | 1,022 |
+| 128 | **Sabrina Ionescu** 🔴 +3 | 1,023 |
 | 129 | Jessica Shepard | 1,016 |
 | 130 | Cathrine Kraayeveld | 1,013 |
 | 131 | Kelly Miller | 1,011 |
@@ -531,7 +531,7 @@ _Last updated: 2026-09-19 00:52 UTC_
 | 100 | **Natasha Howard** 🔴 +2 | 617 |
 | 101 | Debbie Black | 612 |
 | 102 | Cynthia Cooper | 602 |
-| 103 | **Caitlin Clark** 🔴 +9 | 600 |
+| 103 | **Caitlin Clark** 🔴 +10 | 601 |
 | 104 | Sancho Lyttle | 592 |
 | 105 | Gabby Williams | 591 |
 | 106 | Betnijah Laney-Hamilton | 590 |
@@ -540,7 +540,7 @@ _Last updated: 2026-09-19 00:52 UTC_
 | 109 | Veronica Burton | 579 |
 | 110 | Tan White | 578 |
 | 111 | Matee Ajavon | 577 |
-| 112 | **Napheesa Collier** 🔴 +2 | 572 |
+| 112 | **Napheesa Collier** 🔴 +3 | 573 |
 | 113 | Nicole Powell | 567 |
 | 114 | Loree Moore | 562 |
 | 115 | Sophia Young-Malcolm | 554 |
@@ -976,9 +976,9 @@ _Last updated: 2026-09-19 00:52 UTC_
 | 132 | Erlana Larkins | 242 |
 | 133 | Shavonte Zellous | 241 |
 | 134 | Coco Miller | 237 |
-| 135 | **Kelsey Mitchell** 🔴 +3 | 236 |
 | 135 | Marissa Coleman | 236 |
-| 137 | Nikki McCray | 235 |
+| 136 | **Kelsey Mitchell** 🔴 +2 | 235 |
+| 136 | Nikki McCray | 235 |
 | 138 | Merlakia Jones | 232 |
 | 139 | Ruth Riley | 231 |
 | 140 | Scholanda Dorrell | 230 |
@@ -1316,7 +1316,7 @@ _Last updated: 2026-09-19 00:52 UTC_
 | 62 | **Kayla McBride** 🔴 +2 | 650 |
 | 62 | Sheri Sam | 650 |
 | 64 | Kelsey Plum | 648 |
-| 65 | **Jonquel Jones** 🔴 +3 | 644 |
+| 65 | **Jonquel Jones** 🔴 +4 | 645 |
 | 66 | Dawn Staley | 643 |
 | 67 | Ruth Riley | 637 |
 | 68 | Odyssey Sims | 631 |
