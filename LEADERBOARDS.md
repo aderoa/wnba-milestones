@@ -110,7 +110,7 @@ _Last updated: 2026-09-19 00:18 UTC_
 | 89 | Erica Wheeler | 3,195 |
 | 90 | Danielle Robinson | 3,160 |
 | 91 | Wendy Palmer | 3,135 |
-| 92 | **Sabrina Ionescu** 🔴 +8 | 3,105 |
+| 92 | **Sabrina Ionescu** 🔴 +10 | 3,107 |
 | 93 | Shavonte Zellous | 3,103 |
 | 94 | Briann January | 3,082 |
 | 95 | Erika de Souza | 3,046 |
@@ -313,7 +313,7 @@ _Last updated: 2026-09-19 00:18 UTC_
 | 87 | Azurá Stevens | 1,319 |
 | 88 | Betty Lennox | 1,296 |
 | 89 | Tari Phillips | 1,274 |
-| 90 | **Myisha Hines-Allen** 🔴 | 1,265 |
+| 90 | **Myisha Hines-Allen** 🔴 +1 | 1,266 |
 | 91 | Janel McCarville | 1,261 |
 | 92 | Liz Cambage | 1,258 |
 | 93 | Chelsea Gray | 1,257 |
@@ -1468,7 +1468,7 @@ _Last updated: 2026-09-19 00:18 UTC_
 | 9 | Tammy Sutton-Brown | 1,193 |
 | 10 | Plenette Pierson | 1,175 |
 | 11 | Chasity Melvin | 1,165 |
-| 12 | **Natasha Howard** 🔴 +2 | 1,160 |
+| 12 | **Natasha Howard** 🔴 +3 | 1,161 |
 | 13 | Camille Smith | 1,159 |
 | 14 | Nneka Ogwumike | 1,156 |
 | 15 | Alana Beard | 1,153 |
@@ -1583,8 +1583,8 @@ _Last updated: 2026-09-19 00:18 UTC_
 | 124 | Janel McCarville | 597 |
 | 125 | Kamila Vodichkova | 596 |
 | 126 | Teresa Weatherspoon | 589 |
-| 127 | **Courtney Williams** 🔴 +2 | 585 |
-| 127 | Emma Meesseman | 585 |
+| 127 | **Courtney Williams** 🔴 +3 | 586 |
+| 128 | Emma Meesseman | 585 |
 | 129 | Chiney Ogwumike | 580 |
 | 129 | Hamchetou Maiga-Ba | 580 |
 | 129 | Olympia Scott | 580 |
