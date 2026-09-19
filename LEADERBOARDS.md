@@ -476,7 +476,7 @@ _Last updated: 2026-09-19 02:31 UTC_
 | 45 | Breanna Stewart | 985 |
 | 46 | Nikki Teasley | 982 |
 | 47 | Tamecka Dixon | 960 |
-| 48 | **Tiffany Hayes** 🔴 +1 | 958 |
+| 48 | **Tiffany Hayes** 🔴 +2 | 959 |
 | 49 | Kara Lawson | 946 |
 | 50 | Arike Ogunbowale | 944 |
 | 51 | Nneka Ogwumike | 933 |
