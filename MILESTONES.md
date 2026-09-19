@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-09-19 01:44 UTC
+
+- **Myisha Hines-Allen** passed **Chiney Ogwumike** for **#165** all-time in points (career 1,965) — up from #167 entering today — _18.4 - 4th — IND @ TOR_
+
 ## 2026-09-18 03:59 UTC
 
 - **Chelsea Gray** passed **Myisha Hines-Allen** for **#90** all-time in rebounds (career 1,266) — up from #93 entering today — _7:33 - 4th — LV @ SEA_

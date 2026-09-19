@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-09-19T01:44:00+00:00",
+    "text": "Myisha Hines-Allen passed Chiney Ogwumike for #165 all-time in points (career 1,965) \u2014 up from #167 entering today \u2014 (18.4 - 4th \u2014 IND @ TOR)",
+    "kind": "rank_pass",
+    "player": "Myisha Hines-Allen",
+    "stat": "points",
+    "rank": 165,
+    "passed_players": [
+      "Chiney Ogwumike"
+    ],
+    "new_total": 1965
+  },
+  {
     "ts": "2026-09-18T03:59:00+00:00",
     "text": "Chelsea Gray passed Myisha Hines-Allen for #90 all-time in rebounds (career 1,266) \u2014 up from #93 entering today \u2014 (7:33 - 4th \u2014 LV @ SEA)",
     "kind": "rank_pass",
@@ -2963,17 +2975,5 @@
       "Sancho Lyttle"
     ],
     "new_total": 593
-  },
-  {
-    "ts": "2026-07-09T02:04:00+00:00",
-    "text": "Caitlin Clark passed Gabby Williams for #105 all-time in assists (career 592) \u2014 (8:40 - 1st \u2014 IND @ LA)",
-    "kind": "rank_pass",
-    "player": "Caitlin Clark",
-    "stat": "assists",
-    "rank": 105,
-    "passed_players": [
-      "Gabby Williams"
-    ],
-    "new_total": 592
   }
 ]

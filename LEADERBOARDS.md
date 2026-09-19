@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-19 01:43 UTC_
+_Last updated: 2026-09-19 01:44 UTC_
 
 ## Contents
 
@@ -183,8 +183,8 @@ _Last updated: 2026-09-19 01:43 UTC_
 | 162 | Natisha Hiedeman | 2,002 |
 | 163 | Ezi Magbegor | 1,995 |
 | 164 | Bria Hartley | 1,967 |
-| 165 | Chiney Ogwumike | 1,964 |
-| 166 | **Myisha Hines-Allen** 🔴 +7 | 1,963 |
+| 165 | **Myisha Hines-Allen** 🔴 +9 | 1,965 |
+| 166 | Chiney Ogwumike | 1,964 |
 | 167 | Nicole Ohlde | 1,959 |
 | 168 | **Isabelle Harrison** 🔴 +16 | 1,948 |
 | 169 | Kedra Holland-Corn | 1,938 |
@@ -567,8 +567,8 @@ _Last updated: 2026-09-19 01:43 UTC_
 | 136 | Satou Sabally | 476 |
 | 137 | Ukari Figgs | 470 |
 | 138 | Janeth Arcain | 469 |
-| 139 | Erin Phillips | 462 |
-| 139 | **Tyasha Harris** 🔴 +2 | 462 |
+| 139 | **Tyasha Harris** 🔴 +3 | 463 |
+| 140 | Erin Phillips | 462 |
 | 141 | Sylvia Fowles | 461 |
 | 142 | Sug Sutton | 456 |
 | 143 | Sydney Colson | 454 |
@@ -1019,8 +1019,8 @@ _Last updated: 2026-09-19 01:43 UTC_
 | 174 | Sonja Henning | 194 |
 | 174 | Tierra Ruffin-Pratt | 194 |
 | 177 | Cynthia Cooper | 192 |
-| 178 | **Isabelle Harrison** 🔴 +1 | 191 |
-| 178 | **Myisha Hines-Allen** 🔴 | 191 |
+| 177 | **Myisha Hines-Allen** 🔴 +1 | 192 |
+| 179 | **Isabelle Harrison** 🔴 +1 | 191 |
 | 180 | Tamicha Jackson | 188 |
 | 181 | Michele Timms | 187 |
 | 181 | Sabrina Ionescu | 187 |
@@ -1434,7 +1434,7 @@ _Last updated: 2026-09-19 01:43 UTC_
 | 179 | Rita Williams | 326 |
 | 181 | Le'coe Willingham | 325 |
 | 182 | Olympia Scott | 324 |
-| 183 | **Kia Nurse** 🔴 | 320 |
+| 183 | **Kia Nurse** 🔴 +1 | 321 |
 | 184 | Barbara Farris | 315 |
 | 185 | **Monique Billings** 🔴 | 314 |
 | 185 | Moriah Jefferson | 314 |
