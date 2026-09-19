@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-19 00:54 UTC_
+_Last updated: 2026-09-19 00:55 UTC_
 
 ## Contents
 
@@ -41,7 +41,7 @@ _Last updated: 2026-09-19 00:54 UTC_
 | 20 | Becky Hammon | 5,816 |
 | 21 | Angel McCoughtry | 5,797 |
 | 22 | Skylar Diggins | 5,732 |
-| 23 | **Kayla McBride** 🔴 +11 | 5,661 |
+| 23 | **Kayla McBride** 🔴 +13 | 5,663 |
 | 24 | DeLisha Milton-Jones | 5,571 |
 | 25 | Katie Douglas | 5,545 |
 | 26 | Lindsay Whalen | 5,511 |
@@ -110,7 +110,7 @@ _Last updated: 2026-09-19 00:54 UTC_
 | 89 | Erica Wheeler | 3,195 |
 | 90 | Danielle Robinson | 3,160 |
 | 91 | Wendy Palmer | 3,135 |
-| 92 | **Sabrina Ionescu** 🔴 +12 | 3,109 |
+| 92 | **Sabrina Ionescu** 🔴 +15 | 3,112 |
 | 93 | Shavonte Zellous | 3,103 |
 | 94 | Briann January | 3,082 |
 | 95 | Erika de Souza | 3,046 |
@@ -315,8 +315,8 @@ _Last updated: 2026-09-19 00:54 UTC_
 | 89 | Tari Phillips | 1,274 |
 | 90 | **Myisha Hines-Allen** 🔴 +1 | 1,266 |
 | 91 | Janel McCarville | 1,261 |
-| 92 | **Kayla McBride** 🔴 +2 | 1,258 |
-| 92 | Liz Cambage | 1,258 |
+| 92 | **Kayla McBride** 🔴 +3 | 1,259 |
+| 93 | Liz Cambage | 1,258 |
 | 94 | Chelsea Gray | 1,257 |
 | 94 | Tiffany Hayes | 1,257 |
 | 96 | Brianna Turner | 1,243 |
@@ -473,8 +473,8 @@ _Last updated: 2026-09-19 00:54 UTC_
 | 42 | Sheryl Swoopes | 1,037 |
 | 43 | Tina Charles | 1,033 |
 | 44 | **Kayla McBride** 🔴 +1 | 993 |
-| 45 | **Breanna Stewart** 🔴 +1 | 982 |
-| 45 | Nikki Teasley | 982 |
+| 45 | **Breanna Stewart** 🔴 +2 | 983 |
+| 46 | Nikki Teasley | 982 |
 | 47 | Tamecka Dixon | 960 |
 | 48 | Tiffany Hayes | 957 |
 | 49 | Kara Lawson | 946 |
@@ -1070,7 +1070,7 @@ _Last updated: 2026-09-19 00:54 UTC_
 | 21 | Allie Quigley | 510 |
 | 22 | Leilani Mitchell | 508 |
 | 23 | Marina Mabrey | 500 |
-| 24 | **Sabrina Ionescu** 🔴 +2 | 470 |
+| 24 | **Sabrina Ionescu** 🔴 +3 | 471 |
 | 25 | Shekinna Stricklen | 468 |
 | 26 | **Breanna Stewart** 🔴 +1 | 466 |
 | 27 | Cappie Pondexter | 464 |
