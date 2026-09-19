@@ -1646,7 +1646,7 @@ _Last updated: 2026-09-19 17:10 UTC_
 | 185 | Kia Nurse | 484 |
 | 187 | Liz Cambage | 483 |
 | 187 | Rhonda Mapp | 483 |
-| 189 | **Sami Whitcomb** 🔴 | 480 |
+| 189 | **Sami Whitcomb** 🔴 +1 | 481 |
 | 190 | Alanna Smith | 479 |
 | 191 | Seimone Augustus | 477 |
 | 192 | Allie Quigley | 475 |
