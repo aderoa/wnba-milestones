@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-09-19 18:33 UTC
+
+- **Alysha Clark** passed **Jasmine Thomas** and **Kayla Alexander** for **#143** all-time in blocks (career 92) — up from #146 entering today — _1:14 - 3rd — PHX @ DAL_
+
 ## 2026-09-19 18:30 UTC
 
 - **Alyssa Thomas** passed **Emily Engstler** for **#95** all-time in blocks (career 129) — up from #96 entering today — _3:16 - 3rd — PHX @ DAL_
