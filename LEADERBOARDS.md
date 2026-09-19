@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-19 17:55 UTC_
+_Last updated: 2026-09-19 17:56 UTC_
 
 ## Contents
 
@@ -235,7 +235,7 @@ _Last updated: 2026-09-19 17:55 UTC_
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
-| 12 | **Alyssa Thomas** 🔴 +3 | 2,861 |
+| 12 | **Alyssa Thomas** 🔴 +5 | 2,863 |
 | 13 | Jonquel Jones | 2,728 |
 | 14 | A'ja Wilson | 2,657 |
 | 15 | Breanna Stewart | 2,632 |
@@ -1394,7 +1394,7 @@ _Last updated: 2026-09-19 17:55 UTC_
 | 138 | Napheesa Collier | 422 |
 | 138 | Noelle Quinn | 422 |
 | 141 | Bria Hartley | 419 |
-| 142 | **Sami Whitcomb** 🔴 +1 | 417 |
+| 142 | **Sami Whitcomb** 🔴 +2 | 418 |
 | 143 | Coco Miller | 410 |
 | 144 | Epiphanny Prince | 408 |
 | 145 | Cathrine Kraayeveld | 406 |
@@ -1646,7 +1646,7 @@ _Last updated: 2026-09-19 17:55 UTC_
 | 185 | Kia Nurse | 484 |
 | 187 | Liz Cambage | 483 |
 | 187 | Rhonda Mapp | 483 |
-| 189 | **Sami Whitcomb** 🔴 +2 | 482 |
+| 187 | **Sami Whitcomb** 🔴 +3 | 483 |
 | 190 | Alanna Smith | 479 |
 | 191 | Seimone Augustus | 477 |
 | 192 | Allie Quigley | 475 |
