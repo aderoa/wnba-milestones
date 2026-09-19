@@ -550,7 +550,7 @@ _Last updated: 2026-09-19 23:52 UTC_
 | 118 | Janel McCarville | 551 |
 | 118 | Svetlana Abrosimova | 551 |
 | 120 | Michele Timms | 549 |
-| 121 | **Rhyne Howard** 🔴 +3 | 539 |
+| 121 | **Rhyne Howard** 🔴 +4 | 540 |
 | 122 | Myisha Hines-Allen | 529 |
 | 123 | Marie Ferdinand-Harris | 528 |
 | 124 | Margo Dydek | 524 |
