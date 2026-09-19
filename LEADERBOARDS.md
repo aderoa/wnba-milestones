@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-19 00:46 UTC_
+_Last updated: 2026-09-19 00:48 UTC_
 
 ## Contents
 
@@ -45,7 +45,7 @@ _Last updated: 2026-09-19 00:46 UTC_
 | 24 | DeLisha Milton-Jones | 5,571 |
 | 25 | Katie Douglas | 5,545 |
 | 26 | Lindsay Whalen | 5,511 |
-| 27 | **Kelsey Mitchell** 🔴 +19 | 5,217 |
+| 27 | **Kelsey Mitchell** 🔴 +22 | 5,220 |
 | 28 | Swin Cash | 5,119 |
 | 29 | Tiffany Hayes | 5,049 |
 | 30 | Tangela Smith | 5,035 |
@@ -577,7 +577,7 @@ _Last updated: 2026-09-19 00:46 UTC_
 | 145 | Kristi Harrower | 450 |
 | 145 | Nikki McCray | 450 |
 | 148 | Ruth Riley | 449 |
-| 149 | **Julie Allemand** 🔴 +3 | 447 |
+| 149 | **Julie Allemand** 🔴 +4 | 448 |
 | 150 | DeMya Walker | 446 |
 | 151 | Essence Carson | 445 |
 | 152 | Michelle Snow | 437 |
@@ -976,9 +976,9 @@ _Last updated: 2026-09-19 00:46 UTC_
 | 132 | Erlana Larkins | 242 |
 | 133 | Shavonte Zellous | 241 |
 | 134 | Coco Miller | 237 |
+| 135 | **Kelsey Mitchell** 🔴 +3 | 236 |
 | 135 | Marissa Coleman | 236 |
-| 136 | **Kelsey Mitchell** 🔴 +2 | 235 |
-| 136 | Nikki McCray | 235 |
+| 137 | Nikki McCray | 235 |
 | 138 | Merlakia Jones | 232 |
 | 139 | Ruth Riley | 231 |
 | 140 | Scholanda Dorrell | 230 |
@@ -1054,7 +1054,7 @@ _Last updated: 2026-09-19 00:46 UTC_
 | 5 | **Kayla McBride** 🔴 +1 | 757 |
 | 6 | Tina Thompson | 745 |
 | 7 | Katie Douglas | 723 |
-| 8 | **Kelsey Mitchell** 🔴 +4 | 716 |
+| 8 | **Kelsey Mitchell** 🔴 +5 | 717 |
 | 9 | Jewell Loyd | 695 |
 | 10 | DeWanna Bonner | 682 |
 | 11 | Kristi Toliver | 651 |
@@ -1622,11 +1622,11 @@ _Last updated: 2026-09-19 00:46 UTC_
 | 162 | Janeth Arcain | 512 |
 | 164 | Andrea Stinson | 511 |
 | 165 | Vicky Bullett | 507 |
+| 166 | **Isabelle Harrison** 🔴 +1 | 506 |
 | 166 | Merlakia Jones | 506 |
 | 166 | **Napheesa Collier** 🔴 +2 | 506 |
-| 168 | **Isabelle Harrison** 🔴 | 505 |
-| 168 | Rushia Brown | 505 |
-| 168 | Shekinna Stricklen | 505 |
+| 169 | Rushia Brown | 505 |
+| 169 | Shekinna Stricklen | 505 |
 | 171 | Allison Feaster | 504 |
 | 171 | Erin Perperoglou | 504 |
 | 173 | Iziane Castro Marques | 502 |
