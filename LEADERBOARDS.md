@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-19 23:08 UTC_
+_Last updated: 2026-09-19 23:09 UTC_
 
 ## Contents
 
@@ -151,8 +151,8 @@ _Last updated: 2026-09-19 23:08 UTC_
 | 130 | Kayla Thornton | 2,393 |
 | 131 | DeMya Walker | 2,379 |
 | 132 | Alex Bentley | 2,350 |
-| 133 | Azurá Stevens | 2,343 |
-| 134 | **Jordin Canada** 🔴 | 2,342 |
+| 133 | **Jordin Canada** 🔴 +2 | 2,344 |
+| 134 | Azurá Stevens | 2,343 |
 | 135 | Merlakia Jones | 2,308 |
 | 136 | Betnijah Laney-Hamilton | 2,302 |
 | 137 | Satou Sabally | 2,296 |
@@ -297,8 +297,8 @@ _Last updated: 2026-09-19 23:08 UTC_
 | 71 | Nakia Sanford | 1,419 |
 | 72 | Kayla Thornton | 1,408 |
 | 73 | **Allisha Gray** 🔴 | 1,404 |
-| 74 | **Courtney Vandersloot** 🔴 +1 | 1,387 |
-| 74 | Kara Braxton | 1,387 |
+| 74 | **Courtney Vandersloot** 🔴 +2 | 1,388 |
+| 75 | Kara Braxton | 1,387 |
 | 76 | Katie Smith | 1,383 |
 | 77 | Ebony Hoffman | 1,376 |
 | 78 | Jewell Loyd | 1,371 |
@@ -412,8 +412,8 @@ _Last updated: 2026-09-19 23:08 UTC_
 | 186 | Tully Bevilaqua | 767 |
 | 187 | Layshia Clarendon | 756 |
 | 188 | Brooke Wyckoff | 751 |
-| 189 | Coco Miller | 750 |
-| 189 | **Kamilla Cardoso** 🔴 | 750 |
+| 188 | **Kamilla Cardoso** 🔴 +1 | 751 |
+| 190 | Coco Miller | 750 |
 | 191 | Kelsey Plum | 741 |
 | 192 | Alex Montgomery | 735 |
 | 193 | Ashley Robinson | 734 |
