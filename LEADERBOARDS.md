@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-19 17:19 UTC_
+_Last updated: 2026-09-19 17:20 UTC_
 
 ## Contents
 
@@ -52,9 +52,9 @@ _Last updated: 2026-09-19 17:19 UTC_
 | 31 | Taj McWilliams-Franklin | 4,992 |
 | 32 | Maya Moore | 4,984 |
 | 33 | Sheryl Swoopes | 4,875 |
-| 34 | **Alyssa Thomas** 🔴 +6 | 4,758 |
+| 34 | **Alyssa Thomas** 🔴 +8 | 4,760 |
 | 35 | Alana Beard | 4,740 |
-| 36 | **Arike Ogunbowale** 🔴 +2 | 4,717 |
+| 36 | **Arike Ogunbowale** 🔴 +3 | 4,718 |
 | 37 | Chamique Holdsclaw | 4,713 |
 | 38 | Elena Delle Donne | 4,706 |
 | 39 | Natasha Howard | 4,682 |
