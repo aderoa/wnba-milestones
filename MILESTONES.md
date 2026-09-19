@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-09-19 18:30 UTC
+
+- **Alyssa Thomas** passed **Emily Engstler** for **#95** all-time in blocks (career 129) — up from #96 entering today — _3:16 - 3rd — PHX @ DAL_
+
 ## 2026-09-19 01:44 UTC
 
 - **Myisha Hines-Allen** passed **Chiney Ogwumike** for **#165** all-time in points (career 1,965) — up from #167 entering today — _18.4 - 4th — IND @ TOR_
