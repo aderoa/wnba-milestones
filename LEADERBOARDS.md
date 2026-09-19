@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-19 01:20 UTC_
+_Last updated: 2026-09-19 01:21 UTC_
 
 ## Contents
 
@@ -550,7 +550,7 @@ _Last updated: 2026-09-19 01:20 UTC_
 | 118 | Svetlana Abrosimova | 551 |
 | 120 | Michele Timms | 549 |
 | 121 | Rhyne Howard | 536 |
-| 122 | **Myisha Hines-Allen** 🔴 | 529 |
+| 122 | **Myisha Hines-Allen** 🔴 +1 | 530 |
 | 123 | Marie Ferdinand-Harris | 528 |
 | 124 | Margo Dydek | 524 |
 | 125 | Rachel Banham | 511 |
@@ -585,7 +585,7 @@ _Last updated: 2026-09-19 01:20 UTC_
 | 154 | Lauren Jackson | 435 |
 | 155 | Adrienne Goodson | 433 |
 | 155 | Crystal Langhorne | 433 |
-| 157 | **Aliyah Boston** 🔴 +4 | 432 |
+| 157 | **Aliyah Boston** 🔴 +3 | 431 |
 | 158 | Elena Baranova | 430 |
 | 159 | Tierra Ruffin-Pratt | 424 |
 | 160 | Kedra Holland-Corn | 423 |
@@ -1411,8 +1411,8 @@ _Last updated: 2026-09-19 01:20 UTC_
 | 157 | Armintie Herrington | 377 |
 | 158 | Anna DeForge | 374 |
 | 158 | Cheryl Ford | 374 |
-| 160 | Allison Feaster | 372 |
-| 160 | **Caitlin Clark** 🔴 +4 | 372 |
+| 160 | **Caitlin Clark** 🔴 +5 | 373 |
+| 161 | Allison Feaster | 372 |
 | 162 | Emma Meesseman | 367 |
 | 163 | Latasha Byears | 360 |
 | 164 | Vicky Bullett | 359 |
@@ -1496,7 +1496,7 @@ _Last updated: 2026-09-19 01:20 UTC_
 | 36 | Tamika Whitmore | 940 |
 | 38 | DeWanna Bonner | 922 |
 | 39 | Briann January | 921 |
-| 40 | **Jonquel Jones** 🔴 +2 | 915 |
+| 40 | **Jonquel Jones** 🔴 +3 | 916 |
 | 41 | Ticha Penicheiro | 913 |
 | 42 | Shavonte Zellous | 907 |
 | 43 | Alysha Clark | 905 |
@@ -1605,8 +1605,8 @@ _Last updated: 2026-09-19 01:20 UTC_
 | 146 | **Kayla McBride** 🔴 +2 | 545 |
 | 147 | Jayne Appel Marinelli | 543 |
 | 147 | Renee Montgomery | 543 |
-| 149 | Marissa Coleman | 541 |
-| 149 | **Sophie Cunningham** 🔴 +3 | 541 |
+| 149 | **Sophie Cunningham** 🔴 +4 | 542 |
+| 150 | Marissa Coleman | 541 |
 | 151 | **Myisha Hines-Allen** 🔴 | 535 |
 | 152 | Damiris Dantas | 533 |
 | 152 | Kristen Rasmussen | 533 |
