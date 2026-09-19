@@ -41,7 +41,7 @@ _Last updated: 2026-09-19 00:45 UTC_
 | 20 | Becky Hammon | 5,816 |
 | 21 | Angel McCoughtry | 5,797 |
 | 22 | Skylar Diggins | 5,732 |
-| 23 | **Kayla McBride** 🔴 +7 | 5,657 |
+| 23 | **Kayla McBride** 🔴 +10 | 5,660 |
 | 24 | DeLisha Milton-Jones | 5,571 |
 | 25 | Katie Douglas | 5,545 |
 | 26 | Lindsay Whalen | 5,511 |
@@ -651,8 +651,8 @@ _Last updated: 2026-09-19 00:45 UTC_
 | 15 | **Jonquel Jones** 🔴 +1 | 426 |
 | 16 | Michelle Snow | 403 |
 | 17 | Tamika Catchings | 383 |
-| 18 | **Natasha Howard** 🔴 +3 | 373 |
-| 19 | Tina Thompson | 372 |
+| 18 | **Natasha Howard** 🔴 +2 | 372 |
+| 18 | Tina Thompson | 372 |
 | 20 | Erika de Souza | 370 |
 | 21 | Jessica Breland | 367 |
 | 22 | DeWanna Bonner | 358 |
@@ -1051,7 +1051,7 @@ _Last updated: 2026-09-19 00:45 UTC_
 | 2 | Sue Bird | 1,001 |
 | 3 | Katie Smith | 906 |
 | 4 | Becky Hammon | 825 |
-| 5 | **Kayla McBride** 🔴 | 756 |
+| 5 | **Kayla McBride** 🔴 +1 | 757 |
 | 6 | Tina Thompson | 745 |
 | 7 | Katie Douglas | 723 |
 | 8 | **Kelsey Mitchell** 🔴 +3 | 715 |
@@ -1215,8 +1215,8 @@ _Last updated: 2026-09-19 00:45 UTC_
 | 166 | **Myisha Hines-Allen** 🔴 | 131 |
 | 167 | Amanda Zahui B | 130 |
 | 167 | Eva Nemcova | 130 |
-| 169 | Crystal Dangerfield | 129 |
-| 169 | **Leonie Fiebich** 🔴 | 129 |
+| 167 | **Leonie Fiebich** 🔴 +1 | 130 |
+| 170 | Crystal Dangerfield | 129 |
 | 171 | Jordin Canada | 128 |
 | 171 | Ticha Penicheiro | 128 |
 | 173 | Michele Timms | 127 |
@@ -1412,7 +1412,7 @@ _Last updated: 2026-09-19 00:45 UTC_
 | 158 | Anna DeForge | 374 |
 | 158 | Cheryl Ford | 374 |
 | 160 | Allison Feaster | 372 |
-| 161 | **Caitlin Clark** 🔴 +3 | 371 |
+| 160 | **Caitlin Clark** 🔴 +4 | 372 |
 | 162 | Emma Meesseman | 367 |
 | 163 | Latasha Byears | 360 |
 | 164 | Vicky Bullett | 359 |
