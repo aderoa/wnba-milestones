@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-19 00:23 UTC_
+_Last updated: 2026-09-19 00:24 UTC_
 
 ## Contents
 
@@ -577,8 +577,8 @@ _Last updated: 2026-09-19 00:23 UTC_
 | 145 | Kristi Harrower | 450 |
 | 145 | Nikki McCray | 450 |
 | 148 | Ruth Riley | 449 |
-| 149 | DeMya Walker | 446 |
-| 149 | **Julie Allemand** 🔴 +2 | 446 |
+| 149 | **Julie Allemand** 🔴 +3 | 447 |
+| 150 | DeMya Walker | 446 |
 | 151 | Essence Carson | 445 |
 | 152 | Michelle Snow | 437 |
 | 153 | Jessica Shepard | 436 |
@@ -1019,8 +1019,8 @@ _Last updated: 2026-09-19 00:23 UTC_
 | 174 | Sonja Henning | 194 |
 | 174 | Tierra Ruffin-Pratt | 194 |
 | 177 | Cynthia Cooper | 192 |
+| 178 | **Isabelle Harrison** 🔴 +1 | 191 |
 | 178 | **Myisha Hines-Allen** 🔴 | 191 |
-| 179 | **Isabelle Harrison** 🔴 | 190 |
 | 180 | Tamicha Jackson | 188 |
 | 181 | Michele Timms | 187 |
 | 181 | **Sabrina Ionescu** 🔴 +3 | 187 |
@@ -1412,7 +1412,7 @@ _Last updated: 2026-09-19 00:23 UTC_
 | 158 | Anna DeForge | 374 |
 | 158 | Cheryl Ford | 374 |
 | 160 | Allison Feaster | 372 |
-| 161 | **Caitlin Clark** 🔴 +2 | 370 |
+| 161 | **Caitlin Clark** 🔴 +3 | 371 |
 | 162 | Emma Meesseman | 367 |
 | 163 | Latasha Byears | 360 |
 | 164 | Vicky Bullett | 359 |
@@ -1568,8 +1568,8 @@ _Last updated: 2026-09-19 00:23 UTC_
 | 109 | Teaira McCowan | 637 |
 | 110 | Janell Burse | 632 |
 | 111 | Nicole Ohlde | 631 |
-| 112 | Jennifer Gillom | 629 |
-| 112 | **Kelsey Mitchell** 🔴 | 629 |
+| 112 | **Kelsey Mitchell** 🔴 +1 | 630 |
+| 113 | Jennifer Gillom | 629 |
 | 114 | Deanna Nolan | 628 |
 | 115 | Brionna Jones | 625 |
 | 116 | Courtney Paris | 617 |
