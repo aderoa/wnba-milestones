@@ -54,7 +54,7 @@ _Last updated: 2026-09-19 19:01 UTC_
 | 33 | Sheryl Swoopes | 4,875 |
 | 34 | **Alyssa Thomas** 🔴 +19 | 4,771 |
 | 35 | Alana Beard | 4,740 |
-| 36 | **Arike Ogunbowale** 🔴 +17 | 4,732 |
+| 36 | **Arike Ogunbowale** 🔴 +19 | 4,734 |
 | 37 | Chamique Holdsclaw | 4,713 |
 | 38 | Elena Delle Donne | 4,706 |
 | 39 | Natasha Howard | 4,682 |
@@ -165,7 +165,7 @@ _Last updated: 2026-09-19 19:01 UTC_
 | 144 | Teaira McCowan | 2,229 |
 | 145 | Dawn Staley | 2,228 |
 | 146 | Janel McCarville | 2,215 |
-| 147 | **Sami Whitcomb** 🔴 +1 | 2,212 |
+| 146 | **Sami Whitcomb** 🔴 +4 | 2,215 |
 | 148 | Sophia Witherspoon | 2,210 |
 | 149 | Ruthie Bolton | 2,175 |
 | 150 | Ann Wauters | 2,170 |
@@ -436,7 +436,7 @@ _Last updated: 2026-09-19 19:01 UTC_
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
 | 6 | Chelsea Gray | 2,003 |
-| 7 | **Alyssa Thomas** 🔴 +8 | 1,979 |
+| 7 | **Alyssa Thomas** 🔴 +9 | 1,980 |
 | 8 | Skylar Diggins | 1,852 |
 | 9 | Natasha Cloud | 1,802 |
 | 10 | Becky Hammon | 1,705 |
@@ -1067,7 +1067,7 @@ _Last updated: 2026-09-19 19:01 UTC_
 | 17 | Ivory Latta | 536 |
 | 18 | Renee Montgomery | 532 |
 | 19 | Maya Moore | 530 |
-| 20 | **Sami Whitcomb** 🔴 | 511 |
+| 20 | **Sami Whitcomb** 🔴 +1 | 512 |
 | 21 | Allie Quigley | 510 |
 | 22 | Leilani Mitchell | 508 |
 | 23 | Marina Mabrey | 500 |
