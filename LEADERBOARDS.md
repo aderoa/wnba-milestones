@@ -238,7 +238,7 @@ _Last updated: 2026-09-20 20:33 UTC_
 | 12 | Alyssa Thomas | 2,858 |
 | 13 | **Jonquel Jones** 🔴 +3 | 2,731 |
 | 14 | A'ja Wilson | 2,657 |
-| 15 | **Breanna Stewart** 🔴 +7 | 2,639 |
+| 15 | **Breanna Stewart** 🔴 +8 | 2,640 |
 | 16 | Sancho Lyttle | 2,596 |
 | 17 | Brittney Griner | 2,579 |
 | 18 | DeLisha Milton-Jones | 2,574 |
@@ -399,7 +399,7 @@ _Last updated: 2026-09-20 20:33 UTC_
 | 173 | Ariel Atkins | 798 |
 | 174 | Charlotte Smith | 794 |
 | 175 | Rhonda Mapp | 788 |
-| 176 | **Mercedes Russell** 🔴 | 786 |
+| 176 | **Mercedes Russell** 🔴 +1 | 787 |
 | 177 | Odyssey Sims | 785 |
 | 178 | Sue Wicks | 780 |
 | 179 | Lindsey Harding | 779 |
