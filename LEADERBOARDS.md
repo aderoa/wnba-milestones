@@ -295,7 +295,7 @@ _Last updated: 2026-09-20 02:42 UTC_
 | 69 | Monique Billings | 1,431 |
 | 70 | Alana Beard | 1,420 |
 | 71 | Nakia Sanford | 1,419 |
-| 72 | **Kayla Thornton** 🔴 +5 | 1,413 |
+| 72 | **Kayla Thornton** 🔴 +6 | 1,414 |
 | 73 | Allisha Gray | 1,407 |
 | 74 | Courtney Vandersloot | 1,391 |
 | 75 | Kara Braxton | 1,387 |
