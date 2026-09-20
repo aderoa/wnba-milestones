@@ -584,8 +584,8 @@ _Last updated: 2026-09-20 22:03 UTC_
 | 153 | Jessica Shepard | 436 |
 | 154 | Lauren Jackson | 435 |
 | 155 | Adrienne Goodson | 433 |
+| 155 | **Aliyah Boston** 🔴 +5 | 433 |
 | 155 | Crystal Langhorne | 433 |
-| 157 | **Aliyah Boston** 🔴 +4 | 432 |
 | 158 | Elena Baranova | 430 |
 | 159 | Tierra Ruffin-Pratt | 424 |
 | 160 | Kedra Holland-Corn | 423 |
