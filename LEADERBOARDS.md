@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-20 20:26 UTC_
+_Last updated: 2026-09-20 20:27 UTC_
 
 ## Contents
 
@@ -68,7 +68,7 @@ _Last updated: 2026-09-20 20:26 UTC_
 | 46 | Jia Perkins | 4,433 |
 | 48 | Courtney Vandersloot | 4,362 |
 | 49 | Courtney Williams | 4,361 |
-| 50 | **Jonquel Jones** 🔴 +4 | 4,357 |
+| 50 | **Jonquel Jones** 🔴 +6 | 4,359 |
 | 51 | Dearica Hamby | 4,330 |
 | 52 | Sophia Young-Malcolm | 4,300 |
 | 53 | Plenette Pierson | 4,258 |
@@ -236,7 +236,7 @@ _Last updated: 2026-09-20 20:26 UTC_
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | Alyssa Thomas | 2,858 |
-| 13 | **Jonquel Jones** 🔴 +2 | 2,730 |
+| 13 | **Jonquel Jones** 🔴 +3 | 2,731 |
 | 14 | A'ja Wilson | 2,657 |
 | 15 | **Breanna Stewart** 🔴 +6 | 2,638 |
 | 16 | Sancho Lyttle | 2,596 |
@@ -465,7 +465,7 @@ _Last updated: 2026-09-20 20:26 UTC_
 | 33 | Jackie Young | 1,150 |
 | 34 | Renee Montgomery | 1,140 |
 | 35 | Swin Cash | 1,131 |
-| 36 | **Sabrina Ionescu** 🔴 +7 | 1,099 |
+| 36 | **Sabrina Ionescu** 🔴 +8 | 1,100 |
 | 37 | Lindsey Harding | 1,090 |
 | 38 | Katie Douglas | 1,069 |
 | 39 | Alana Beard | 1,061 |
@@ -570,7 +570,7 @@ _Last updated: 2026-09-20 20:26 UTC_
 | 138 | Janeth Arcain | 469 |
 | 139 | Erin Phillips | 462 |
 | 140 | Sylvia Fowles | 461 |
-| 141 | Tyasha Harris | 460 |
+| 141 | **Tyasha Harris** 🔴 | 460 |
 | 142 | Sug Sutton | 456 |
 | 143 | Sydney Colson | 454 |
 | 144 | Yolanda Griffith | 451 |
@@ -586,8 +586,8 @@ _Last updated: 2026-09-20 20:26 UTC_
 | 154 | Lauren Jackson | 435 |
 | 155 | Adrienne Goodson | 433 |
 | 155 | Crystal Langhorne | 433 |
-| 157 | **Aliyah Boston** 🔴 +2 | 430 |
-| 157 | Elena Baranova | 430 |
+| 157 | **Aliyah Boston** 🔴 +3 | 431 |
+| 158 | Elena Baranova | 430 |
 | 159 | Tierra Ruffin-Pratt | 424 |
 | 160 | Kedra Holland-Corn | 423 |
 | 161 | Crystal Dangerfield | 418 |
@@ -1180,7 +1180,7 @@ _Last updated: 2026-09-20 20:26 UTC_
 | 130 | Shavonte Zellous | 167 |
 | 130 | Tianna Hawkins | 167 |
 | 132 | Charlotte Smith | 164 |
-| 133 | Tyasha Harris | 162 |
+| 133 | **Tyasha Harris** 🔴 | 162 |
 | 133 | Ukari Figgs | 162 |
 | 135 | Edna Campbell | 161 |
 | 136 | Dana Evans | 160 |
