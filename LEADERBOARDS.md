@@ -1476,7 +1476,7 @@ _Last updated: 2026-09-20 01:21 UTC_
 | 16 | Swin Cash | 1,146 |
 | 17 | Taj McWilliams-Franklin | 1,145 |
 | 18 | Monique Currie | 1,137 |
-| 19 | **Stefanie Dolson** 🔴 | 1,133 |
+| 19 | **Stefanie Dolson** 🔴 +1 | 1,134 |
 | 20 | Tanisha Wright | 1,109 |
 | 21 | Michelle Snow | 1,108 |
 | 22 | Sylvia Fowles | 1,049 |
