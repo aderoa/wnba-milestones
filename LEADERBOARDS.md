@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-20 02:22 UTC_
+_Last updated: 2026-09-20 02:23 UTC_
 
 ## Contents
 
@@ -180,7 +180,7 @@ _Last updated: 2026-09-20 02:22 UTC_
 | 159 | Coco Miller | 2,030 |
 | 160 | Diamond DeShields | 2,026 |
 | 161 | Vicky Bullett | 2,018 |
-| 162 | **Natisha Hiedeman** 🔴 +2 | 2,004 |
+| 162 | **Natisha Hiedeman** 🔴 +5 | 2,007 |
 | 163 | Ezi Magbegor | 1,995 |
 | 164 | Bria Hartley | 1,967 |
 | 165 | Chiney Ogwumike | 1,964 |
@@ -508,7 +508,7 @@ _Last updated: 2026-09-20 02:22 UTC_
 | 76 | Monique Currie | 740 |
 | 77 | Elaine Powell | 728 |
 | 78 | Dearica Hamby | 726 |
-| 79 | **Stefanie Dolson** 🔴 +1 | 708 |
+| 79 | **Stefanie Dolson** 🔴 +2 | 709 |
 | 80 | Chamique Holdsclaw | 698 |
 | 81 | Shavonte Zellous | 693 |
 | 82 | Allie Quigley | 690 |
@@ -1110,7 +1110,7 @@ _Last updated: 2026-09-20 02:22 UTC_
 | 60 | Erica Wheeler | 337 |
 | 61 | Anna DeForge | 334 |
 | 61 | Sophie Cunningham | 334 |
-| 63 | **Natisha Hiedeman** 🔴 | 328 |
+| 63 | **Natisha Hiedeman** 🔴 +1 | 329 |
 | 64 | Sugar Rodgers | 317 |
 | 65 | Marissa Coleman | 315 |
 | 66 | Shannon Johnson | 313 |
@@ -1553,8 +1553,8 @@ _Last updated: 2026-09-20 02:22 UTC_
 | 92 | Cheyenne Parker-Tyus | 685 |
 | 92 | Jasmine Thomas | 685 |
 | 95 | Jewell Loyd | 684 |
+| 95 | **Kayla Thornton** 🔴 +2 | 684 |
 | 95 | Leilani Mitchell | 684 |
-| 97 | **Kayla Thornton** 🔴 +1 | 683 |
 | 98 | Crystal Robinson | 682 |
 | 99 | Jennifer Lacy | 680 |
 | 99 | Temeka Johnson | 680 |
