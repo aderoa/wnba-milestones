@@ -455,7 +455,7 @@ _Last updated: 2026-09-20 00:39 UTC_
 | 23 | Teresa Weatherspoon | 1,333 |
 | 24 | Kristi Toliver | 1,301 |
 | 25 | Kelsey Plum | 1,270 |
-| 26 | **Jordin Canada** 🔴 +5 | 1,267 |
+| 26 | **Jordin Canada** 🔴 +6 | 1,268 |
 | 27 | Katie Smith | 1,258 |
 | 28 | Odyssey Sims | 1,228 |
 | 29 | Vickie Johnson | 1,202 |
