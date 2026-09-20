@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-20 20:38 UTC_
+_Last updated: 2026-09-20 20:39 UTC_
 
 ## Contents
 
@@ -385,7 +385,7 @@ _Last updated: 2026-09-20 20:38 UTC_
 | 159 | Krystal Thomas | 862 |
 | 160 | Naz Hillmon | 859 |
 | 161 | Leilani Mitchell | 845 |
-| 162 | **Shakira Austin** 🔴 +4 | 836 |
+| 162 | **Shakira Austin** 🔴 +5 | 837 |
 | 163 | Essence Carson | 833 |
 | 164 | Gabby Williams | 831 |
 | 165 | Kristi Toliver | 829 |
@@ -393,7 +393,7 @@ _Last updated: 2026-09-20 20:38 UTC_
 | 167 | Marlies Askamp | 822 |
 | 168 | Amanda Zahui B | 819 |
 | 168 | Barbara Farris | 819 |
-| 170 | **Betnijah Laney-Hamilton** 🔴 +3 | 815 |
+| 170 | **Betnijah Laney-Hamilton** 🔴 +4 | 816 |
 | 171 | Carolyn Swords | 814 |
 | 172 | Tierra Ruffin-Pratt | 799 |
 | 173 | Ariel Atkins | 798 |
@@ -531,10 +531,10 @@ _Last updated: 2026-09-20 20:38 UTC_
 | 100 | Natasha Howard | 617 |
 | 101 | Debbie Black | 612 |
 | 102 | Cynthia Cooper | 602 |
+| 103 | **Betnijah Laney-Hamilton** 🔴 +2 | 592 |
 | 103 | **Caitlin Clark** 🔴 +1 | 592 |
 | 103 | Sancho Lyttle | 592 |
-| 105 | **Betnijah Laney-Hamilton** 🔴 +1 | 591 |
-| 105 | Gabby Williams | 591 |
+| 106 | Gabby Williams | 591 |
 | 107 | Camille Smith | 590 |
 | 108 | Armintie Herrington | 589 |
 | 109 | Veronica Burton | 579 |
