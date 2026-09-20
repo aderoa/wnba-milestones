@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-20 00:53 UTC_
+_Last updated: 2026-09-20 00:54 UTC_
 
 ## Contents
 
@@ -858,7 +858,7 @@ _Last updated: 2026-09-20 00:53 UTC_
 | 13 | Alyssa Thomas | 583 |
 | 14 | Taj McWilliams-Franklin | 577 |
 | 15 | Tully Bevilaqua | 571 |
-| 16 | **Courtney Vandersloot** 🔴 +1 | 545 |
+| 16 | **Courtney Vandersloot** 🔴 +2 | 546 |
 | 17 | Yolanda Griffith | 527 |
 | 18 | Candace Parker | 521 |
 | 19 | Diana Taurasi | 515 |
