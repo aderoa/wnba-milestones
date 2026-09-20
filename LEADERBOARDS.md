@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-20 21:10 UTC_
+_Last updated: 2026-09-20 21:11 UTC_
 
 ## Contents
 
@@ -585,7 +585,7 @@ _Last updated: 2026-09-20 21:10 UTC_
 | 154 | Lauren Jackson | 435 |
 | 155 | Adrienne Goodson | 433 |
 | 155 | Crystal Langhorne | 433 |
-| 157 | **Aliyah Boston** 🔴 +3 | 431 |
+| 157 | **Aliyah Boston** 🔴 +4 | 432 |
 | 158 | Elena Baranova | 430 |
 | 159 | Tierra Ruffin-Pratt | 424 |
 | 160 | Kedra Holland-Corn | 423 |
@@ -1157,10 +1157,10 @@ _Last updated: 2026-09-20 21:10 UTC_
 | 108 | **Betnijah Laney-Hamilton** 🔴 | 206 |
 | 109 | Lexie Brown | 203 |
 | 110 | Shanna Zolman | 199 |
+| 111 | **Caitlin Clark** 🔴 +2 | 197 |
 | 111 | Temeka Johnson | 197 |
 | 111 | Tina Charles | 197 |
-| 113 | **Caitlin Clark** 🔴 +1 | 196 |
-| 113 | Nia Coffey | 196 |
+| 114 | Nia Coffey | 196 |
 | 115 | Lindsay Whalen | 193 |
 | 116 | Victoria Vivians | 192 |
 | 117 | Danielle Adams | 188 |
