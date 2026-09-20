@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-20 21:36 UTC_
+_Last updated: 2026-09-20 21:38 UTC_
 
 ## Contents
 
@@ -175,7 +175,7 @@ _Last updated: 2026-09-20 21:36 UTC_
 | 154 | Tari Phillips | 2,134 |
 | 155 | Cheryl Ford | 2,116 |
 | 156 | Elena Baranova | 2,110 |
-| 157 | **Aliyah Boston** 🔴 +3 | 2,090 |
+| 157 | **Aliyah Boston** 🔴 +5 | 2,092 |
 | 158 | Aerial Powers | 2,068 |
 | 159 | Coco Miller | 2,030 |
 | 160 | Diamond DeShields | 2,026 |
@@ -313,7 +313,7 @@ _Last updated: 2026-09-20 21:36 UTC_
 | 87 | Azurá Stevens | 1,319 |
 | 88 | Betty Lennox | 1,296 |
 | 89 | Tari Phillips | 1,274 |
-| 90 | **Myisha Hines-Allen** 🔴 +3 | 1,268 |
+| 90 | **Myisha Hines-Allen** 🔴 +4 | 1,269 |
 | 91 | Janel McCarville | 1,261 |
 | 92 | Kayla McBride | 1,259 |
 | 93 | Liz Cambage | 1,258 |
@@ -531,7 +531,7 @@ _Last updated: 2026-09-20 21:36 UTC_
 | 100 | Natasha Howard | 617 |
 | 101 | Debbie Black | 612 |
 | 102 | Cynthia Cooper | 602 |
-| 103 | **Caitlin Clark** 🔴 +3 | 594 |
+| 103 | **Caitlin Clark** 🔴 +4 | 595 |
 | 104 | **Betnijah Laney-Hamilton** 🔴 +2 | 592 |
 | 104 | Sancho Lyttle | 592 |
 | 106 | Gabby Williams | 591 |
@@ -1655,6 +1655,6 @@ _Last updated: 2026-09-20 21:36 UTC_
 | 195 | Christi Thomas | 463 |
 | 195 | Nikki Teasley | 463 |
 | 197 | Sue Wicks | 462 |
+| 198 | **Aliyah Boston** 🔴 +5 | 459 |
 | 198 | Natalie Achonwa | 459 |
-| 199 | **Aliyah Boston** 🔴 +4 | 458 |
 | 200 | Kara Lawson | 457 |
