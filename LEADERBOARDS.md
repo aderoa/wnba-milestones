@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-20 19:50 UTC_
+_Last updated: 2026-09-20 19:52 UTC_
 
 ## Contents
 
@@ -187,7 +187,7 @@ _Last updated: 2026-09-20 19:50 UTC_
 | 166 | Nicole Ohlde | 1,959 |
 | 167 | Myisha Hines-Allen | 1,956 |
 | 168 | Kedra Holland-Corn | 1,938 |
-| 169 | **Isabelle Harrison** 🔴 | 1,932 |
+| 169 | **Isabelle Harrison** 🔴 +3 | 1,935 |
 | 170 | Cathrine Kraayeveld | 1,926 |
 | 171 | Roneeka Hodges | 1,925 |
 | 172 | Latasha Byears | 1,920 |
@@ -351,7 +351,7 @@ _Last updated: 2026-09-20 19:50 UTC_
 | 124 | Tamecka Dixon | 1,035 |
 | 126 | Kamila Vodichkova | 1,031 |
 | 127 | Jasmine Thomas | 1,027 |
-| 128 | **Sabrina Ionescu** 🔴 +4 | 1,024 |
+| 128 | **Sabrina Ionescu** 🔴 +3 | 1,023 |
 | 129 | Jessica Shepard | 1,016 |
 | 130 | Cathrine Kraayeveld | 1,013 |
 | 131 | Kelly Miller | 1,011 |
@@ -579,8 +579,8 @@ _Last updated: 2026-09-20 19:50 UTC_
 | 145 | Nikki McCray | 450 |
 | 148 | Ruth Riley | 449 |
 | 149 | DeMya Walker | 446 |
-| 150 | Essence Carson | 445 |
-| 150 | **Julie Allemand** 🔴 +1 | 445 |
+| 149 | **Julie Allemand** 🔴 +2 | 446 |
+| 151 | Essence Carson | 445 |
 | 152 | Michelle Snow | 437 |
 | 153 | Jessica Shepard | 436 |
 | 154 | Lauren Jackson | 435 |
@@ -1442,7 +1442,7 @@ _Last updated: 2026-09-20 19:50 UTC_
 | 187 | Alex Bentley | 313 |
 | 188 | Natisha Hiedeman | 312 |
 | 189 | Tamika Raymond | 311 |
-| 190 | **Isabelle Harrison** 🔴 +2 | 309 |
+| 190 | **Isabelle Harrison** 🔴 +1 | 308 |
 | 191 | Erin Perperoglou | 305 |
 | 191 | Jennifer Lacy | 305 |
 | 193 | Azurá Stevens | 304 |
@@ -1622,8 +1622,8 @@ _Last updated: 2026-09-20 19:50 UTC_
 | 162 | Adrienne Goodson | 512 |
 | 162 | Janeth Arcain | 512 |
 | 164 | Andrea Stinson | 511 |
-| 165 | **Isabelle Harrison** 🔴 +3 | 508 |
-| 166 | Vicky Bullett | 507 |
+| 165 | **Isabelle Harrison** 🔴 +2 | 507 |
+| 165 | Vicky Bullett | 507 |
 | 167 | Merlakia Jones | 506 |
 | 168 | Napheesa Collier | 505 |
 | 168 | Rushia Brown | 505 |
