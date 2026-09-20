@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-20 19:29 UTC_
+_Last updated: 2026-09-20 19:30 UTC_
 
 ## Contents
 
@@ -960,9 +960,9 @@ _Last updated: 2026-09-20 19:29 UTC_
 | 115 | Anna DeForge | 266 |
 | 116 | Brionna Jones | 265 |
 | 117 | Michelle Snow | 262 |
-| 118 | **Jonquel Jones** 🔴 +1 | 261 |
 | 118 | Karima Christmas-Kelly | 261 |
-| 120 | Riquna Williams | 260 |
+| 119 | **Jonquel Jones** 🔴 | 260 |
+| 119 | Riquna Williams | 260 |
 | 121 | Noelle Quinn | 256 |
 | 122 | Elaine Powell | 255 |
 | 122 | Loree Moore | 255 |
@@ -1318,7 +1318,7 @@ _Last updated: 2026-09-20 19:29 UTC_
 | 63 | Kayla McBride | 649 |
 | 64 | Kelsey Plum | 648 |
 | 65 | Dawn Staley | 643 |
-| 66 | **Jonquel Jones** 🔴 +1 | 642 |
+| 65 | **Jonquel Jones** 🔴 +2 | 643 |
 | 67 | Ruth Riley | 637 |
 | 68 | Odyssey Sims | 631 |
 | 68 | Svetlana Abrosimova | 631 |
@@ -1497,8 +1497,8 @@ _Last updated: 2026-09-20 19:29 UTC_
 | 36 | Tamika Whitmore | 940 |
 | 38 | DeWanna Bonner | 922 |
 | 39 | Briann January | 921 |
-| 40 | **Jonquel Jones** 🔴 | 913 |
-| 40 | Ticha Penicheiro | 913 |
+| 40 | **Jonquel Jones** 🔴 +1 | 914 |
+| 41 | Ticha Penicheiro | 913 |
 | 42 | Shavonte Zellous | 907 |
 | 43 | Alysha Clark | 905 |
 | 44 | DeMya Walker | 882 |
