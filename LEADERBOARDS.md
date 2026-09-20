@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-20 23:49 UTC_
+_Last updated: 2026-09-20 23:51 UTC_
 
 ## Contents
 
@@ -22,7 +22,7 @@ _Last updated: 2026-09-20 23:49 UTC_
 | 1 | Diana Taurasi | 10,608 |
 | 2 | Tina Charles | 8,396 |
 | 3 | DeWanna Bonner | 7,972 |
-| 4 | **Nneka Ogwumike** 🔴 +7 | 7,570 |
+| 4 | **Nneka Ogwumike** 🔴 +9 | 7,572 |
 | 5 | Tina Thompson | 7,470 |
 | 6 | Tamika Catchings | 7,371 |
 | 7 | Candice Dupree | 6,861 |
@@ -94,7 +94,7 @@ _Last updated: 2026-09-20 23:49 UTC_
 | 73 | Jasmine Thomas | 3,522 |
 | 74 | Tamecka Dixon | 3,507 |
 | 75 | Tammy Sutton-Brown | 3,498 |
-| 76 | **Ariel Atkins** 🔴 +6 | 3,487 |
+| 76 | **Ariel Atkins** 🔴 +8 | 3,489 |
 | 77 | Sancho Lyttle | 3,478 |
 | 78 | Ivory Latta | 3,447 |
 | 79 | Nicole Powell | 3,407 |
@@ -395,7 +395,7 @@ _Last updated: 2026-09-20 23:49 UTC_
 | 168 | Barbara Farris | 819 |
 | 170 | Betnijah Laney-Hamilton | 816 |
 | 171 | Carolyn Swords | 814 |
-| 172 | **Ariel Atkins** 🔴 +3 | 801 |
+| 172 | **Ariel Atkins** 🔴 +4 | 802 |
 | 173 | Tierra Ruffin-Pratt | 799 |
 | 174 | Charlotte Smith | 794 |
 | 175 | Mercedes Russell | 789 |
@@ -846,7 +846,7 @@ _Last updated: 2026-09-20 23:49 UTC_
 | 2 | Ticha Penicheiro | 761 |
 | 3 | Sue Bird | 724 |
 | 4 | Alana Beard | 710 |
-| 5 | **Nneka Ogwumike** 🔴 +1 | 688 |
+| 5 | **Nneka Ogwumike** 🔴 +2 | 689 |
 | 6 | Sheryl Swoopes | 657 |
 | 7 | DeWanna Bonner | 650 |
 | 8 | Jia Perkins | 634 |
