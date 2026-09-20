@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-20 23:39 UTC_
+_Last updated: 2026-09-20 23:40 UTC_
 
 ## Contents
 
@@ -107,7 +107,7 @@ _Last updated: 2026-09-20 23:39 UTC_
 | 86 | Marina Mabrey | 3,249 |
 | 87 | Stefanie Dolson | 3,217 |
 | 88 | Margo Dydek | 3,214 |
-| 89 | **Erica Wheeler** 🔴 | 3,195 |
+| 89 | **Erica Wheeler** 🔴 +3 | 3,198 |
 | 90 | Danielle Robinson | 3,160 |
 | 91 | Wendy Palmer | 3,135 |
 | 92 | Sabrina Ionescu | 3,103 |
@@ -395,7 +395,7 @@ _Last updated: 2026-09-20 23:39 UTC_
 | 168 | Barbara Farris | 819 |
 | 170 | Betnijah Laney-Hamilton | 816 |
 | 171 | Carolyn Swords | 814 |
-| 172 | **Ariel Atkins** 🔴 +2 | 800 |
+| 172 | **Ariel Atkins** 🔴 +3 | 801 |
 | 173 | Tierra Ruffin-Pratt | 799 |
 | 174 | Charlotte Smith | 794 |
 | 175 | Mercedes Russell | 789 |
@@ -512,7 +512,7 @@ _Last updated: 2026-09-20 23:39 UTC_
 | 81 | Shavonte Zellous | 693 |
 | 82 | Allie Quigley | 690 |
 | 83 | Moriah Jefferson | 685 |
-| 84 | **Ariel Atkins** 🔴 +1 | 683 |
+| 84 | **Ariel Atkins** 🔴 +2 | 684 |
 | 85 | Emma Meesseman | 681 |
 | 86 | Nykesha Sales | 677 |
 | 87 | Natisha Hiedeman | 668 |
@@ -1106,7 +1106,7 @@ _Last updated: 2026-09-20 23:39 UTC_
 | 56 | Elena Delle Donne | 343 |
 | 58 | Candace Parker | 342 |
 | 59 | Deanna Nolan | 340 |
-| 60 | **Erica Wheeler** 🔴 | 337 |
+| 60 | **Erica Wheeler** 🔴 +1 | 338 |
 | 61 | Anna DeForge | 334 |
 | 61 | Sophie Cunningham | 334 |
 | 63 | Natisha Hiedeman | 328 |
