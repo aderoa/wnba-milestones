@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-20 01:37 UTC_
+_Last updated: 2026-09-20 01:39 UTC_
 
 ## Contents
 
@@ -267,7 +267,7 @@ _Last updated: 2026-09-20 01:37 UTC_
 | 41 | Lindsay Whalen | 1,805 |
 | 42 | Camille Smith | 1,802 |
 | 43 | Asjha Jones | 1,751 |
-| 44 | **Stefanie Dolson** 🔴 +1 | 1,704 |
+| 44 | **Stefanie Dolson** 🔴 +2 | 1,705 |
 | 45 | Teaira McCowan | 1,694 |
 | 46 | Monique Currie | 1,666 |
 | 47 | Glory Johnson | 1,640 |
@@ -664,7 +664,7 @@ _Last updated: 2026-09-20 01:37 UTC_
 | 27 | DeLisha Milton-Jones | 339 |
 | 28 | Yolanda Griffith | 323 |
 | 29 | Elena Baranova | 320 |
-| 30 | **Stefanie Dolson** 🔴 | 317 |
+| 30 | **Stefanie Dolson** 🔴 +1 | 318 |
 | 31 | Candice Dupree | 316 |
 | 32 | Vicky Bullett | 288 |
 | 33 | Rebekkah Brunson | 281 |
@@ -1033,7 +1033,7 @@ _Last updated: 2026-09-20 01:37 UTC_
 | 187 | Monique Billings | 182 |
 | 189 | Nakia Sanford | 181 |
 | 190 | Diamond DeShields | 180 |
-| 191 | **Kiah Stokes** 🔴 | 178 |
+| 191 | **Kiah Stokes** 🔴 +1 | 179 |
 | 192 | Bridget Pettis | 177 |
 | 193 | Brittany Boyd-Jones | 176 |
 | 193 | Chiney Ogwumike | 176 |
