@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-20 17:07 UTC_
+_Last updated: 2026-09-20 17:08 UTC_
 
 ## Contents
 
@@ -57,7 +57,7 @@ _Last updated: 2026-09-20 17:07 UTC_
 | 36 | Arike Ogunbowale | 4,715 |
 | 37 | Chamique Holdsclaw | 4,713 |
 | 38 | Elena Delle Donne | 4,706 |
-| 39 | **Natasha Howard** 🔴 | 4,682 |
+| 39 | **Natasha Howard** 🔴 +2 | 4,684 |
 | 40 | Chelsea Gray | 4,625 |
 | 41 | Penny Taylor | 4,595 |
 | 42 | Kelsey Plum | 4,494 |
@@ -67,8 +67,8 @@ _Last updated: 2026-09-20 17:07 UTC_
 | 46 | Crystal Langhorne | 4,433 |
 | 46 | Jia Perkins | 4,433 |
 | 48 | Courtney Vandersloot | 4,362 |
-| 49 | Jonquel Jones | 4,353 |
-| 50 | **Courtney Williams** 🔴 +2 | 4,352 |
+| 49 | **Courtney Williams** 🔴 +5 | 4,355 |
+| 50 | Jonquel Jones | 4,353 |
 | 51 | Dearica Hamby | 4,330 |
 | 52 | Sophia Young-Malcolm | 4,300 |
 | 53 | Plenette Pierson | 4,258 |
@@ -870,7 +870,7 @@ _Last updated: 2026-09-20 17:07 UTC_
 | 25 | Becky Hammon | 485 |
 | 26 | Penny Taylor | 479 |
 | 27 | Sophia Young-Malcolm | 477 |
-| 28 | **Natasha Howard** 🔴 | 467 |
+| 28 | **Natasha Howard** 🔴 +1 | 468 |
 | 29 | Skylar Diggins | 463 |
 | 29 | Teresa Weatherspoon | 463 |
 | 31 | Jewell Loyd | 458 |
@@ -1128,8 +1128,8 @@ _Last updated: 2026-09-20 17:07 UTC_
 | 77 | Tully Bevilaqua | 290 |
 | 79 | Alana Beard | 288 |
 | 80 | Monique Currie | 284 |
+| 81 | **Courtney Williams** 🔴 +1 | 278 |
 | 81 | Stefanie Dolson | 278 |
-| 82 | **Courtney Williams** 🔴 | 277 |
 | 83 | Iziane Castro Marques | 275 |
 | 84 | Sheryl Swoopes | 270 |
 | 85 | Sophia Witherspoon | 260 |
