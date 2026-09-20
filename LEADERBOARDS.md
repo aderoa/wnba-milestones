@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-20 02:09 UTC_
+_Last updated: 2026-09-20 02:10 UTC_
 
 ## Contents
 
@@ -295,7 +295,7 @@ _Last updated: 2026-09-20 02:09 UTC_
 | 69 | Monique Billings | 1,431 |
 | 70 | Alana Beard | 1,420 |
 | 71 | Nakia Sanford | 1,419 |
-| 72 | **Kayla Thornton** 🔴 +2 | 1,410 |
+| 72 | **Kayla Thornton** 🔴 +3 | 1,411 |
 | 73 | Allisha Gray | 1,407 |
 | 74 | Courtney Vandersloot | 1,391 |
 | 75 | Kara Braxton | 1,387 |
@@ -476,8 +476,8 @@ _Last updated: 2026-09-20 02:09 UTC_
 | 44 | Kayla McBride | 992 |
 | 45 | Nikki Teasley | 982 |
 | 46 | Breanna Stewart | 981 |
-| 47 | Tamecka Dixon | 960 |
-| 47 | **Tiffany Hayes** 🔴 +3 | 960 |
+| 47 | **Tiffany Hayes** 🔴 +4 | 961 |
+| 48 | Tamecka Dixon | 960 |
 | 49 | Arike Ogunbowale | 950 |
 | 50 | Kara Lawson | 946 |
 | 51 | Nneka Ogwumike | 933 |
@@ -830,8 +830,8 @@ _Last updated: 2026-09-20 02:09 UTC_
 | 193 | Mercedes Russell | 69 |
 | 193 | Rhonda Mapp | 69 |
 | 193 | Satou Sabally | 69 |
-| 196 | Shannon Johnson | 67 |
-| 196 | **Veronica Burton** 🔴 | 67 |
+| 196 | **Veronica Burton** 🔴 +1 | 68 |
+| 197 | Shannon Johnson | 67 |
 | 198 | Kennedy Burke | 66 |
 | 199 | Crystal Robinson | 65 |
 | 199 | Gabby Williams | 65 |
