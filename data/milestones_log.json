@@ -1,5 +1,14 @@
 [
   {
+    "ts": "2026-09-20T20:52:00+00:00",
+    "text": "Rebekah Gardner reached 100 career turnovers (now 100) \u2014 (6:42 - 4th \u2014 NY @ TOR)",
+    "kind": "round",
+    "player": "Rebekah Gardner",
+    "stat": "turnovers",
+    "value": 100,
+    "new_total": 100
+  },
+  {
     "ts": "2026-09-20T17:26:00+00:00",
     "text": "Aari McDonald reached 1,200 career points (now 1,200) \u2014 (24.7 - 1st \u2014 MIN @ CON)",
     "kind": "round",
@@ -2964,14 +2973,5 @@
       "Sophie Cunningham"
     ],
     "new_total": 539
-  },
-  {
-    "ts": "2026-07-09T03:15:00+00:00",
-    "text": "Erica Wheeler reached 3,200 career points (now 3,200) \u2014 (8:17 - 3rd \u2014 IND @ LA)",
-    "kind": "round",
-    "player": "Erica Wheeler",
-    "stat": "points",
-    "value": 3200,
-    "new_total": 3200
   }
 ]

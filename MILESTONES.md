@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-09-20 20:52 UTC
+
+- **Rebekah Gardner** reached **100** career turnovers (now 100) — _6:42 - 4th — NY @ TOR_
+
 ## 2026-09-20 17:26 UTC
 
 - **Aari McDonald** reached **1,200** career points (now 1,200) — _24.7 - 1st — MIN @ CON_
