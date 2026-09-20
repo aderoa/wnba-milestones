@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-20 02:11 UTC_
+_Last updated: 2026-09-20 02:13 UTC_
 
 ## Contents
 
@@ -259,7 +259,7 @@ _Last updated: 2026-09-20 02:11 UTC_
 | 33 | Elizabeth Williams | 1,982 |
 | 34 | Cheryl Ford | 1,907 |
 | 35 | Courtney Williams | 1,843 |
-| 36 | **Kiah Stokes** 🔴 +5 | 1,840 |
+| 36 | **Kiah Stokes** 🔴 +6 | 1,841 |
 | 37 | Plenette Pierson | 1,834 |
 | 38 | Natalie Williams | 1,832 |
 | 39 | Wendy Palmer | 1,824 |
@@ -657,8 +657,8 @@ _Last updated: 2026-09-20 02:11 UTC_
 | 19 | Natasha Howard | 370 |
 | 21 | Jessica Breland | 367 |
 | 22 | DeWanna Bonner | 358 |
-| 23 | Ezi Magbegor | 354 |
-| 23 | **Kiah Stokes** 🔴 +2 | 354 |
+| 23 | **Kiah Stokes** 🔴 +3 | 355 |
+| 24 | Ezi Magbegor | 354 |
 | 25 | Diana Taurasi | 349 |
 | 25 | Elena Delle Donne | 349 |
 | 27 | DeLisha Milton-Jones | 339 |
@@ -951,7 +951,7 @@ _Last updated: 2026-09-20 02:11 UTC_
 | 106 | Tari Phillips | 277 |
 | 107 | Emma Meesseman | 276 |
 | 107 | Erika de Souza | 276 |
-| 109 | **Kayla Thornton** 🔴 +2 | 272 |
+| 109 | **Kayla Thornton** 🔴 +3 | 273 |
 | 110 | Rita Williams | 271 |
 | 111 | Natalie Williams | 270 |
 | 111 | Nicky Anosike | 270 |
@@ -1323,7 +1323,7 @@ _Last updated: 2026-09-20 02:11 UTC_
 | 68 | Odyssey Sims | 631 |
 | 68 | Svetlana Abrosimova | 631 |
 | 70 | Kahleah Copper | 625 |
-| 71 | **Tiffany Hayes** 🔴 | 624 |
+| 70 | **Tiffany Hayes** 🔴 +1 | 625 |
 | 72 | Rebekkah Brunson | 615 |
 | 73 | Seimone Augustus | 613 |
 | 74 | Teresa Weatherspoon | 601 |
