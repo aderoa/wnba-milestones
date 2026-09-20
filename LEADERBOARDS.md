@@ -67,7 +67,7 @@ _Last updated: 2026-09-20 17:12 UTC_
 | 46 | Crystal Langhorne | 4,433 |
 | 46 | Jia Perkins | 4,433 |
 | 48 | Courtney Vandersloot | 4,362 |
-| 49 | **Courtney Williams** 🔴 +5 | 4,355 |
+| 49 | **Courtney Williams** 🔴 +7 | 4,357 |
 | 50 | Jonquel Jones | 4,353 |
 | 51 | Dearica Hamby | 4,330 |
 | 52 | Sophia Young-Malcolm | 4,300 |
