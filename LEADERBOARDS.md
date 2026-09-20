@@ -516,7 +516,7 @@ _Last updated: 2026-09-20 02:13 UTC_
 | 84 | Ariel Atkins | 682 |
 | 85 | Emma Meesseman | 681 |
 | 86 | Nykesha Sales | 677 |
-| 87 | **Natisha Hiedeman** 🔴 +1 | 669 |
+| 87 | **Natisha Hiedeman** 🔴 +2 | 670 |
 | 88 | A'ja Wilson | 667 |
 | 89 | Bria Hartley | 661 |
 | 90 | Brittney Griner | 660 |
@@ -1561,7 +1561,7 @@ _Last updated: 2026-09-20 02:13 UTC_
 | 101 | Kelly Miller | 676 |
 | 102 | Chamique Holdsclaw | 667 |
 | 103 | Tianna Hawkins | 662 |
-| 104 | **Kiah Stokes** 🔴 +1 | 652 |
+| 104 | **Kiah Stokes** 🔴 +2 | 653 |
 | 105 | Tari Phillips | 648 |
 | 106 | Marie Ferdinand-Harris | 646 |
 | 107 | Chelsea Gray | 640 |
