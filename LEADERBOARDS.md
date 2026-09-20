@@ -940,7 +940,7 @@ _Last updated: 2026-09-20 00:57 UTC_
 | 95 | Ebony Hoffman | 308 |
 | 96 | Tamera Young | 305 |
 | 97 | Kedra Holland-Corn | 301 |
-| 98 | **Elizabeth Williams** 🔴 +1 | 296 |
+| 98 | **Elizabeth Williams** 🔴 +2 | 297 |
 | 99 | Lindsey Harding | 295 |
 | 100 | Janel McCarville | 294 |
 | 101 | Kelly Miller | 290 |
