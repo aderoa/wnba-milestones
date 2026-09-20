@@ -258,8 +258,8 @@ _Last updated: 2026-09-20 02:49 UTC_
 | 32 | Tammy Sutton-Brown | 2,010 |
 | 33 | Elizabeth Williams | 1,982 |
 | 34 | Cheryl Ford | 1,907 |
-| 35 | Courtney Williams | 1,843 |
-| 35 | **Kiah Stokes** 🔴 +8 | 1,843 |
+| 35 | **Kiah Stokes** 🔴 +9 | 1,844 |
+| 36 | Courtney Williams | 1,843 |
 | 37 | Plenette Pierson | 1,834 |
 | 38 | Natalie Williams | 1,832 |
 | 39 | Wendy Palmer | 1,824 |
