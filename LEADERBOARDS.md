@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-20 00:49 UTC_
+_Last updated: 2026-09-20 00:51 UTC_
 
 ## Contents
 
@@ -216,7 +216,7 @@ _Last updated: 2026-09-20 00:49 UTC_
 | 195 | Monique Billings | 1,612 |
 | 196 | Janell Burse | 1,580 |
 | 197 | Le'coe Willingham | 1,552 |
-| 198 | Shatori Walker-Kimbrough | 1,544 |
+| 198 | **Shatori Walker-Kimbrough** 🔴 | 1,544 |
 | 199 | Rebecca Allen | 1,529 |
 | 200 | Jennifer Lacy | 1,504 |
 
@@ -644,8 +644,8 @@ _Last updated: 2026-09-20 00:49 UTC_
 | 7 | A'ja Wilson | 568 |
 | 8 | Tammy Sutton-Brown | 555 |
 | 9 | Tangela Smith | 554 |
-| 10 | **Elizabeth Williams** 🔴 +2 | 505 |
-| 10 | Ruth Riley | 505 |
+| 10 | **Elizabeth Williams** 🔴 +3 | 506 |
+| 11 | Ruth Riley | 505 |
 | 12 | Breanna Stewart | 450 |
 | 13 | Taj McWilliams-Franklin | 443 |
 | 14 | Tina Charles | 428 |
@@ -791,7 +791,7 @@ _Last updated: 2026-09-20 00:49 UTC_
 | 151 | Kristin Folkl | 85 |
 | 155 | Charde Houston | 84 |
 | 155 | Marina Mabrey | 84 |
-| 155 | Shatori Walker-Kimbrough | 84 |
+| 155 | **Shatori Walker-Kimbrough** 🔴 | 84 |
 | 158 | Tamera Young | 83 |
 | 159 | Cameron Brink | 82 |
 | 159 | Damiris Dantas | 82 |
@@ -1012,7 +1012,7 @@ _Last updated: 2026-09-20 00:49 UTC_
 | 167 | Jessica Breland | 204 |
 | 167 | Murriel Page | 204 |
 | 167 | Natisha Hiedeman | 204 |
-| 167 | Shatori Walker-Kimbrough | 204 |
+| 167 | **Shatori Walker-Kimbrough** 🔴 | 204 |
 | 171 | Adrienne Goodson | 203 |
 | 172 | Allie Quigley | 198 |
 | 173 | Layshia Clarendon | 195 |
@@ -1173,7 +1173,7 @@ _Last updated: 2026-09-20 00:49 UTC_
 | 122 | Camille Smith | 179 |
 | 124 | Swin Cash | 176 |
 | 125 | Nikki McCray | 175 |
-| 126 | Shatori Walker-Kimbrough | 174 |
+| 126 | **Shatori Walker-Kimbrough** 🔴 | 174 |
 | 126 | Tayler Hill | 174 |
 | 128 | Theresa Plaisance | 172 |
 | 129 | Amanda Lassiter | 170 |
