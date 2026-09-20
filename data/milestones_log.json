@@ -1,5 +1,14 @@
 [
   {
+    "ts": "2026-09-20T17:26:00+00:00",
+    "text": "Aari McDonald reached 1,200 career points (now 1,200) \u2014 (24.7 - 1st \u2014 MIN @ CON)",
+    "kind": "round",
+    "player": "Aari McDonald",
+    "stat": "points",
+    "value": 1200,
+    "new_total": 1200
+  },
+  {
     "ts": "2026-09-19T18:33:00+00:00",
     "text": "Alysha Clark passed Jasmine Thomas and Kayla Alexander for #143 all-time in blocks (career 92) \u2014 up from #146 entering today \u2014 (1:14 - 3rd \u2014 PHX @ DAL)",
     "kind": "rank_pass",
@@ -2964,17 +2973,5 @@
     "stat": "points",
     "value": 3200,
     "new_total": 3200
-  },
-  {
-    "ts": "2026-07-09T02:56:00+00:00",
-    "text": "Lexie Hull passed Tamecka Dixon for #174 all-time in three-pointers (career 127) \u2014 up from #176 entering today \u2014 (26.8 - 2nd \u2014 IND @ LA)",
-    "kind": "rank_pass",
-    "player": "Lexie Hull",
-    "stat": "three-pointers",
-    "rank": 174,
-    "passed_players": [
-      "Tamecka Dixon"
-    ],
-    "new_total": 127
   }
 ]

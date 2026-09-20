@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-09-20 17:26 UTC
+
+- **Aari McDonald** reached **1,200** career points (now 1,200) — _24.7 - 1st — MIN @ CON_
+
 ## 2026-09-19 18:33 UTC
 
 - **Alysha Clark** passed **Jasmine Thomas** and **Kayla Alexander** for **#143** all-time in blocks (career 92) — up from #146 entering today — _1:14 - 3rd — PHX @ DAL_
