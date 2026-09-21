@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-09-21T02:46:00+00:00",
+    "text": "Stefanie Dolson passed Kelly Miller for #77 all-time in turnovers (career 597) \u2014 up from #78 entering today \u2014 (11.9 - 3rd \u2014 SEA @ LV)",
+    "kind": "rank_pass",
+    "player": "Stefanie Dolson",
+    "stat": "turnovers",
+    "rank": 77,
+    "passed_players": [
+      "Kelly Miller"
+    ],
+    "new_total": 597
+  },
+  {
     "ts": "2026-09-20T20:52:00+00:00",
     "text": "Rebekah Gardner reached 100 career turnovers (now 100) \u2014 (6:42 - 4th \u2014 NY @ TOR)",
     "kind": "round",
@@ -2961,17 +2973,5 @@
       "Dawn Staley"
     ],
     "new_total": 255
-  },
-  {
-    "ts": "2026-07-09T03:17:00+00:00",
-    "text": "Myisha Hines-Allen passed Sophie Cunningham for #150 all-time in fouls (career 539) \u2014 up from #151 entering today \u2014 (7:23 - 3rd \u2014 IND @ LA)",
-    "kind": "rank_pass",
-    "player": "Myisha Hines-Allen",
-    "stat": "fouls",
-    "rank": 150,
-    "passed_players": [
-      "Sophie Cunningham"
-    ],
-    "new_total": 539
   }
 ]
