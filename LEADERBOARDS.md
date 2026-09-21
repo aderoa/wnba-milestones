@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-21 03:02 UTC_
+_Last updated: 2026-09-21 03:03 UTC_
 
 ## Contents
 
@@ -58,7 +58,7 @@ _Last updated: 2026-09-21 03:02 UTC_
 | 37 | Chamique Holdsclaw | 4,713 |
 | 38 | Elena Delle Donne | 4,706 |
 | 39 | Natasha Howard | 4,700 |
-| 40 | **Chelsea Gray** 🔴 +13 | 4,638 |
+| 40 | **Chelsea Gray** 🔴 +15 | 4,640 |
 | 41 | Penny Taylor | 4,595 |
 | 42 | Kelsey Plum | 4,494 |
 | 43 | Allisha Gray | 4,491 |
@@ -237,7 +237,7 @@ _Last updated: 2026-09-21 03:02 UTC_
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | Alyssa Thomas | 2,858 |
 | 13 | Jonquel Jones | 2,731 |
-| 14 | **A'ja Wilson** 🔴 +7 | 2,664 |
+| 14 | **A'ja Wilson** 🔴 +8 | 2,665 |
 | 15 | Breanna Stewart | 2,640 |
 | 16 | Sancho Lyttle | 2,596 |
 | 17 | Brittney Griner | 2,579 |
@@ -460,7 +460,7 @@ _Last updated: 2026-09-21 03:02 UTC_
 | 29 | Vickie Johnson | 1,202 |
 | 30 | Leilani Mitchell | 1,197 |
 | 31 | DeWanna Bonner | 1,196 |
-| 32 | **Jackie Young** 🔴 +7 | 1,157 |
+| 32 | **Jackie Young** 🔴 +8 | 1,158 |
 | 33 | **Jewell Loyd** 🔴 | 1,156 |
 | 34 | Renee Montgomery | 1,140 |
 | 35 | Swin Cash | 1,131 |
