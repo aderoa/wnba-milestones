@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-21 02:02 UTC_
+_Last updated: 2026-09-21 02:03 UTC_
 
 ## Contents
 
@@ -33,7 +33,7 @@ _Last updated: 2026-09-21 02:02 UTC_
 | 12 | Sylvia Fowles | 6,413 |
 | 13 | Breanna Stewart | 6,362 |
 | 14 | Lisa Leslie | 6,251 |
-| 15 | **A'ja Wilson** 🔴 +16 | 6,194 |
+| 15 | **A'ja Wilson** 🔴 +18 | 6,196 |
 | 16 | **Jewell Loyd** 🔴 | 6,148 |
 | 17 | Brittney Griner | 6,087 |
 | 18 | Lauren Jackson | 6,005 |
@@ -83,7 +83,7 @@ _Last updated: 2026-09-21 02:02 UTC_
 | 62 | Allie Quigley | 3,786 |
 | 63 | Chasity Melvin | 3,781 |
 | 64 | Brittney Sykes | 3,726 |
-| 65 | **Jackie Young** 🔴 +16 | 3,714 |
+| 65 | **Jackie Young** 🔴 +18 | 3,716 |
 | 66 | Kara Lawson | 3,670 |
 | 67 | Mwadi Mabika | 3,576 |
 | 68 | Odyssey Sims | 3,574 |
@@ -1439,8 +1439,8 @@ _Last updated: 2026-09-21 02:02 UTC_
 | 184 | Barbara Farris | 315 |
 | 184 | Monique Billings | 315 |
 | 186 | Moriah Jefferson | 314 |
-| 187 | Alex Bentley | 313 |
-| 187 | **Natisha Hiedeman** 🔴 +1 | 313 |
+| 186 | **Natisha Hiedeman** 🔴 +2 | 314 |
+| 188 | Alex Bentley | 313 |
 | 189 | Tamika Raymond | 311 |
 | 190 | Isabelle Harrison | 308 |
 | 191 | Erin Perperoglou | 305 |
