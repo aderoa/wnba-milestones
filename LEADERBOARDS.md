@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-22 01:19 UTC_
+_Last updated: 2026-09-22 01:20 UTC_
 
 ## Contents
 
@@ -31,7 +31,7 @@ _Last updated: 2026-09-22 01:19 UTC_
 | 10 | Candace Parker | 6,574 |
 | 11 | Katie Smith | 6,450 |
 | 12 | Sylvia Fowles | 6,413 |
-| 13 | **Breanna Stewart** 🔴 +9 | 6,344 |
+| 13 | **Breanna Stewart** 🔴 +11 | 6,346 |
 | 14 | Lisa Leslie | 6,251 |
 | 15 | A'ja Wilson | 6,178 |
 | 16 | Jewell Loyd | 6,148 |
@@ -61,7 +61,7 @@ _Last updated: 2026-09-22 01:19 UTC_
 | 40 | Chelsea Gray | 4,625 |
 | 41 | Penny Taylor | 4,595 |
 | 42 | Kelsey Plum | 4,494 |
-| 43 | **Allisha Gray** 🔴 | 4,491 |
+| 43 | **Allisha Gray** 🔴 +2 | 4,493 |
 | 44 | Kristi Toliver | 4,474 |
 | 45 | Kahleah Copper | 4,437 |
 | 46 | Crystal Langhorne | 4,433 |
@@ -132,8 +132,8 @@ _Last updated: 2026-09-22 01:19 UTC_
 | 111 | Essence Carson | 2,647 |
 | 111 | Lindsey Harding | 2,647 |
 | 113 | Cheyenne Parker-Tyus | 2,645 |
-| 114 | **Rhyne Howard** 🔴 +4 | 2,641 |
-| 114 | Tamera Young | 2,641 |
+| 114 | **Rhyne Howard** 🔴 +6 | 2,643 |
+| 115 | Tamera Young | 2,641 |
 | 116 | Liz Cambage | 2,634 |
 | 117 | Janeth Arcain | 2,633 |
 | 118 | Temeka Johnson | 2,620 |
@@ -238,7 +238,7 @@ _Last updated: 2026-09-22 01:19 UTC_
 | 12 | Alyssa Thomas | 2,858 |
 | 13 | **Jonquel Jones** 🔴 +9 | 2,737 |
 | 14 | A'ja Wilson | 2,657 |
-| 15 | **Breanna Stewart** 🔴 +8 | 2,640 |
+| 15 | **Breanna Stewart** 🔴 +9 | 2,641 |
 | 16 | Sancho Lyttle | 2,596 |
 | 17 | Brittney Griner | 2,579 |
 | 18 | DeLisha Milton-Jones | 2,574 |
