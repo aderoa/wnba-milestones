@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-22 03:50 UTC_
+_Last updated: 2026-09-22 03:51 UTC_
 
 ## Contents
 
@@ -63,7 +63,7 @@ _Last updated: 2026-09-22 03:50 UTC_
 | 42 | Allisha Gray | 4,505 |
 | 43 | Kelsey Plum | 4,494 |
 | 44 | Kristi Toliver | 4,474 |
-| 45 | **Kahleah Copper** 🔴 +17 | 4,454 |
+| 45 | **Kahleah Copper** 🔴 +18 | 4,455 |
 | 46 | Crystal Langhorne | 4,433 |
 | 46 | Jia Perkins | 4,433 |
 | 48 | Jonquel Jones | 4,371 |
@@ -323,7 +323,7 @@ _Last updated: 2026-09-22 03:50 UTC_
 | 96 | Ezi Magbegor | 1,243 |
 | 98 | Seimone Augustus | 1,228 |
 | 99 | Jia Perkins | 1,220 |
-| 100 | **Kahleah Copper** 🔴 +3 | 1,207 |
+| 100 | **Kahleah Copper** 🔴 +4 | 1,208 |
 | 101 | DeMya Walker | 1,199 |
 | 102 | Aliyah Boston | 1,198 |
 | 103 | Latasha Byears | 1,190 |
@@ -456,7 +456,7 @@ _Last updated: 2026-09-22 03:50 UTC_
 | 25 | Jordin Canada | 1,271 |
 | 26 | Kelsey Plum | 1,270 |
 | 27 | Katie Smith | 1,258 |
-| 28 | **Odyssey Sims** 🔴 +4 | 1,232 |
+| 28 | **Odyssey Sims** 🔴 +5 | 1,233 |
 | 29 | Vickie Johnson | 1,202 |
 | 30 | DeWanna Bonner | 1,198 |
 | 31 | Leilani Mitchell | 1,197 |
@@ -477,8 +477,8 @@ _Last updated: 2026-09-22 03:50 UTC_
 | 46 | Nikki Teasley | 982 |
 | 47 | Tamecka Dixon | 960 |
 | 48 | Tiffany Hayes | 957 |
-| 49 | **Arike Ogunbowale** 🔴 +3 | 947 |
-| 50 | Kara Lawson | 946 |
+| 49 | **Arike Ogunbowale** 🔴 +2 | 946 |
+| 49 | Kara Lawson | 946 |
 | 51 | Nneka Ogwumike | 933 |
 | 52 | Deanna Nolan | 930 |
 | 53 | Kelly Miller | 927 |
@@ -785,13 +785,13 @@ _Last updated: 2026-09-22 03:50 UTC_
 | 149 | Marissa Coleman | 88 |
 | 150 | Astou Ndiaye-Diatta | 86 |
 | 151 | Adrian Williams-Strong | 85 |
+| 151 | **Awak Kuier** 🔴 +5 | 85 |
 | 151 | Erlana Larkins | 85 |
 | 151 | Kalani Brown | 85 |
 | 151 | Kristin Folkl | 85 |
-| 155 | **Awak Kuier** 🔴 +4 | 84 |
-| 155 | Charde Houston | 84 |
-| 155 | Marina Mabrey | 84 |
-| 155 | Shatori Walker-Kimbrough | 84 |
+| 156 | Charde Houston | 84 |
+| 156 | Marina Mabrey | 84 |
+| 156 | Shatori Walker-Kimbrough | 84 |
 | 159 | Tamera Young | 83 |
 | 160 | Cameron Brink | 82 |
 | 160 | Damiris Dantas | 82 |
