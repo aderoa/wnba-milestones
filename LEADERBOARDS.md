@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-22 02:32 UTC_
+_Last updated: 2026-09-22 02:33 UTC_
 
 ## Contents
 
@@ -122,7 +122,7 @@ _Last updated: 2026-09-22 02:32 UTC_
 | 101 | Natalie Williams | 2,894 |
 | 102 | Jennifer Gillom | 2,888 |
 | 103 | Iziane Castro Marques | 2,862 |
-| 104 | **Alysha Clark** 🔴 +3 | 2,811 |
+| 104 | **Alysha Clark** 🔴 +4 | 2,812 |
 | 105 | Jantel Lavender | 2,775 |
 | 106 | Brionna Jones | 2,765 |
 | 107 | Dominique Canty | 2,763 |
@@ -399,8 +399,8 @@ _Last updated: 2026-09-22 02:32 UTC_
 | 173 | Ariel Atkins | 798 |
 | 174 | Charlotte Smith | 794 |
 | 175 | Rhonda Mapp | 788 |
-| 176 | Mercedes Russell | 786 |
-| 176 | **Odyssey Sims** 🔴 +1 | 786 |
+| 176 | **Odyssey Sims** 🔴 +2 | 787 |
+| 177 | Mercedes Russell | 786 |
 | 178 | Sue Wicks | 780 |
 | 179 | Lindsey Harding | 779 |
 | 180 | Tiffani Johnson | 778 |
@@ -776,10 +776,10 @@ _Last updated: 2026-09-22 02:32 UTC_
 | 140 | Jewell Loyd | 94 |
 | 140 | Sandrine Gruda | 94 |
 | 142 | Kayla Thornton | 93 |
+| 143 | **Alysha Clark** 🔴 +1 | 91 |
 | 143 | Jasmine Thomas | 91 |
 | 143 | Kayla Alexander | 91 |
-| 145 | Allie Quigley | 90 |
-| 145 | **Alysha Clark** 🔴 | 90 |
+| 146 | Allie Quigley | 90 |
 | 147 | Natasha Cloud | 89 |
 | 147 | Tiffany Hayes | 89 |
 | 149 | Marissa Coleman | 88 |
