@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-22 03:48 UTC_
+_Last updated: 2026-09-22 03:49 UTC_
 
 ## Contents
 
@@ -349,7 +349,7 @@ _Last updated: 2026-09-22 03:48 UTC_
 | 123 | Angel Reese | 1,045 |
 | 124 | Nicole Ohlde | 1,040 |
 | 125 | Tamecka Dixon | 1,035 |
-| 126 | **Jessica Shepard** 🔴 +17 | 1,033 |
+| 126 | **Jessica Shepard** 🔴 +18 | 1,034 |
 | 127 | Kamila Vodichkova | 1,031 |
 | 128 | Jasmine Thomas | 1,027 |
 | 129 | Sabrina Ionescu | 1,020 |
@@ -477,8 +477,8 @@ _Last updated: 2026-09-22 03:48 UTC_
 | 46 | Nikki Teasley | 982 |
 | 47 | Tamecka Dixon | 960 |
 | 48 | Tiffany Hayes | 957 |
-| 49 | **Arike Ogunbowale** 🔴 +2 | 946 |
-| 49 | Kara Lawson | 946 |
+| 49 | **Arike Ogunbowale** 🔴 +3 | 947 |
+| 50 | Kara Lawson | 946 |
 | 51 | Nneka Ogwumike | 933 |
 | 52 | Deanna Nolan | 930 |
 | 53 | Kelly Miller | 927 |
@@ -788,11 +788,11 @@ _Last updated: 2026-09-22 03:48 UTC_
 | 151 | Erlana Larkins | 85 |
 | 151 | Kalani Brown | 85 |
 | 151 | Kristin Folkl | 85 |
+| 155 | **Awak Kuier** 🔴 +4 | 84 |
 | 155 | Charde Houston | 84 |
 | 155 | Marina Mabrey | 84 |
 | 155 | Shatori Walker-Kimbrough | 84 |
-| 158 | **Awak Kuier** 🔴 +3 | 83 |
-| 158 | Tamera Young | 83 |
+| 159 | Tamera Young | 83 |
 | 160 | Cameron Brink | 82 |
 | 160 | Damiris Dantas | 82 |
 | 162 | Charlotte Smith | 81 |
