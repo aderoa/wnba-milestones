@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-22 02:53 UTC_
+_Last updated: 2026-09-22 02:54 UTC_
 
 ## Contents
 
@@ -164,8 +164,8 @@ _Last updated: 2026-09-22 02:53 UTC_
 | 142 | Matee Ajavon | 2,237 |
 | 144 | Teaira McCowan | 2,229 |
 | 145 | Dawn Staley | 2,228 |
-| 146 | Janel McCarville | 2,215 |
-| 147 | **Sami Whitcomb** 🔴 +3 | 2,214 |
+| 146 | **Sami Whitcomb** 🔴 +5 | 2,216 |
+| 147 | Janel McCarville | 2,215 |
 | 148 | Sophia Witherspoon | 2,210 |
 | 149 | Ruthie Bolton | 2,175 |
 | 150 | Ann Wauters | 2,170 |
@@ -435,7 +435,7 @@ _Last updated: 2026-09-22 02:53 UTC_
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
 | 6 | Chelsea Gray | 2,003 |
-| 7 | **Alyssa Thomas** 🔴 +2 | 1,973 |
+| 7 | **Alyssa Thomas** 🔴 +4 | 1,975 |
 | 8 | Skylar Diggins | 1,852 |
 | 9 | Natasha Cloud | 1,802 |
 | 10 | Becky Hammon | 1,705 |
@@ -580,7 +580,7 @@ _Last updated: 2026-09-22 02:53 UTC_
 | 149 | DeMya Walker | 446 |
 | 150 | Essence Carson | 445 |
 | 151 | Julie Allemand | 444 |
-| 152 | **Jessica Shepard** 🔴 +2 | 438 |
+| 152 | **Jessica Shepard** 🔴 +3 | 439 |
 | 153 | Michelle Snow | 437 |
 | 154 | Lauren Jackson | 435 |
 | 155 | Adrienne Goodson | 433 |
@@ -1350,7 +1350,7 @@ _Last updated: 2026-09-22 02:53 UTC_
 | 95 | Iziane Castro Marques | 534 |
 | 97 | Mwadi Mabika | 532 |
 | 98 | Nakia Sanford | 531 |
-| 99 | **Arike Ogunbowale** 🔴 | 529 |
+| 99 | **Arike Ogunbowale** 🔴 +1 | 530 |
 | 100 | Jordin Canada | 528 |
 | 101 | Maya Moore | 527 |
 | 102 | Kara Lawson | 526 |
@@ -1578,7 +1578,7 @@ _Last updated: 2026-09-22 02:53 UTC_
 | 119 | Svetlana Abrosimova | 613 |
 | 120 | **Odyssey Sims** 🔴 | 610 |
 | 121 | Layshia Clarendon | 609 |
-| 122 | **Arike Ogunbowale** 🔴 +2 | 606 |
+| 122 | **Arike Ogunbowale** 🔴 +3 | 607 |
 | 123 | Tiffany Mitchell | 604 |
 | 124 | Janel McCarville | 597 |
 | 125 | Kamila Vodichkova | 596 |
