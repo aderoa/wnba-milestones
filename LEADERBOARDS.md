@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-22 04:15 UTC_
+_Last updated: 2026-09-22 04:16 UTC_
 
 ## Contents
 
@@ -63,7 +63,7 @@ _Last updated: 2026-09-22 04:15 UTC_
 | 42 | Allisha Gray | 4,505 |
 | 43 | Kelsey Plum | 4,494 |
 | 44 | Kristi Toliver | 4,474 |
-| 45 | **Kahleah Copper** 🔴 +29 | 4,466 |
+| 45 | **Kahleah Copper** 🔴 +31 | 4,468 |
 | 46 | Crystal Langhorne | 4,433 |
 | 46 | Jia Perkins | 4,433 |
 | 48 | Jonquel Jones | 4,371 |
@@ -435,7 +435,7 @@ _Last updated: 2026-09-22 04:15 UTC_
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
 | 6 | Chelsea Gray | 2,003 |
-| 7 | **Alyssa Thomas** 🔴 +11 | 1,982 |
+| 7 | **Alyssa Thomas** 🔴 +12 | 1,983 |
 | 8 | Skylar Diggins | 1,852 |
 | 9 | Natasha Cloud | 1,802 |
 | 10 | Becky Hammon | 1,705 |
@@ -990,8 +990,8 @@ _Last updated: 2026-09-22 04:15 UTC_
 | 145 | Rushia Brown | 221 |
 | 147 | DeMya Walker | 220 |
 | 147 | Jennifer Gillom | 220 |
-| 149 | Allison Feaster | 219 |
-| 149 | **Kahleah Copper** 🔴 | 219 |
+| 147 | **Kahleah Copper** 🔴 +1 | 220 |
+| 150 | Allison Feaster | 219 |
 | 151 | Cheyenne Parker-Tyus | 217 |
 | 151 | Shenise Johnson | 217 |
 | 153 | Adrian Williams-Strong | 216 |
@@ -1349,8 +1349,8 @@ _Last updated: 2026-09-22 04:15 UTC_
 | 95 | Ivory Latta | 534 |
 | 95 | Iziane Castro Marques | 534 |
 | 97 | Mwadi Mabika | 532 |
+| 98 | **Arike Ogunbowale** 🔴 +2 | 531 |
 | 98 | Nakia Sanford | 531 |
-| 99 | **Arike Ogunbowale** 🔴 +1 | 530 |
 | 100 | Jordin Canada | 528 |
 | 101 | Maya Moore | 527 |
 | 102 | Kara Lawson | 526 |
@@ -1487,7 +1487,7 @@ _Last updated: 2026-09-22 04:15 UTC_
 | 28 | Yolanda Griffith | 991 |
 | 29 | Lauren Jackson | 982 |
 | 30 | Nakia Sanford | 979 |
-| 31 | **Alyssa Thomas** 🔴 +2 | 974 |
+| 31 | **Alyssa Thomas** 🔴 +1 | 973 |
 | 32 | Asjha Jones | 971 |
 | 33 | Margo Dydek | 950 |
 | 34 | Sancho Lyttle | 947 |
