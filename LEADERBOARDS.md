@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-22 02:25 UTC_
+_Last updated: 2026-09-22 02:26 UTC_
 
 ## Contents
 
@@ -63,7 +63,7 @@ _Last updated: 2026-09-22 02:25 UTC_
 | 42 | Allisha Gray | 4,505 |
 | 43 | Kelsey Plum | 4,494 |
 | 44 | Kristi Toliver | 4,474 |
-| 45 | **Kahleah Copper** 🔴 | 4,437 |
+| 45 | **Kahleah Copper** 🔴 +2 | 4,439 |
 | 46 | Crystal Langhorne | 4,433 |
 | 46 | Jia Perkins | 4,433 |
 | 48 | Jonquel Jones | 4,371 |
@@ -86,7 +86,7 @@ _Last updated: 2026-09-22 02:25 UTC_
 | 65 | Jackie Young | 3,698 |
 | 66 | Kara Lawson | 3,670 |
 | 67 | Mwadi Mabika | 3,576 |
-| 68 | **Odyssey Sims** 🔴 | 3,574 |
+| 67 | **Odyssey Sims** 🔴 +2 | 3,576 |
 | 69 | Camille Smith | 3,551 |
 | 70 | Napheesa Collier | 3,542 |
 | 70 | Shannon Johnson | 3,542 |
@@ -791,10 +791,10 @@ _Last updated: 2026-09-22 02:25 UTC_
 | 155 | Charde Houston | 84 |
 | 155 | Marina Mabrey | 84 |
 | 155 | Shatori Walker-Kimbrough | 84 |
+| 158 | **Awak Kuier** 🔴 +3 | 83 |
 | 158 | Tamera Young | 83 |
-| 159 | **Awak Kuier** 🔴 +2 | 82 |
-| 159 | Cameron Brink | 82 |
-| 159 | Damiris Dantas | 82 |
+| 160 | Cameron Brink | 82 |
+| 160 | Damiris Dantas | 82 |
 | 162 | Charlotte Smith | 81 |
 | 162 | Cintia dos Santos | 81 |
 | 162 | Jessie Hicks | 81 |
@@ -1499,7 +1499,7 @@ _Last updated: 2026-09-22 02:25 UTC_
 | 40 | Jonquel Jones | 916 |
 | 41 | Ticha Penicheiro | 913 |
 | 42 | Shavonte Zellous | 907 |
-| 43 | **Alysha Clark** 🔴 | 905 |
+| 43 | **Alysha Clark** 🔴 +1 | 906 |
 | 44 | DeMya Walker | 882 |
 | 45 | Candice Dupree | 876 |
 | 46 | Murriel Page | 872 |
