@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-22 00:29 UTC_
+_Last updated: 2026-09-22 00:30 UTC_
 
 ## Contents
 
@@ -21,7 +21,7 @@ _Last updated: 2026-09-22 00:29 UTC_
 |-----:|--------|------:|
 | 1 | Diana Taurasi | 10,608 |
 | 2 | Tina Charles | 8,396 |
-| 3 | **DeWanna Bonner** 🔴 +3 | 7,975 |
+| 3 | **DeWanna Bonner** 🔴 +5 | 7,977 |
 | 4 | Nneka Ogwumike | 7,563 |
 | 5 | Tina Thompson | 7,470 |
 | 6 | Tamika Catchings | 7,371 |
@@ -31,7 +31,7 @@ _Last updated: 2026-09-22 00:29 UTC_
 | 10 | Candace Parker | 6,574 |
 | 11 | Katie Smith | 6,450 |
 | 12 | Sylvia Fowles | 6,413 |
-| 13 | **Breanna Stewart** 🔴 +2 | 6,337 |
+| 13 | **Breanna Stewart** 🔴 +3 | 6,338 |
 | 14 | Lisa Leslie | 6,251 |
 | 15 | A'ja Wilson | 6,178 |
 | 16 | Jewell Loyd | 6,148 |
@@ -455,7 +455,7 @@ _Last updated: 2026-09-22 00:29 UTC_
 | 23 | Teresa Weatherspoon | 1,333 |
 | 24 | Kristi Toliver | 1,301 |
 | 25 | Kelsey Plum | 1,270 |
-| 26 | **Jordin Canada** 🔴 +1 | 1,263 |
+| 26 | **Jordin Canada** 🔴 +2 | 1,264 |
 | 27 | Katie Smith | 1,258 |
 | 28 | Odyssey Sims | 1,228 |
 | 29 | Vickie Johnson | 1,202 |
@@ -1167,7 +1167,7 @@ _Last updated: 2026-09-22 00:29 UTC_
 | 117 | Danielle Adams | 188 |
 | 117 | Napheesa Collier | 188 |
 | 119 | Noelle Quinn | 184 |
-| 120 | Marine Johannès | 183 |
+| 120 | **Marine Johannès** 🔴 | 183 |
 | 121 | Karima Christmas-Kelly | 181 |
 | 122 | Aerial Powers | 179 |
 | 122 | Camille Smith | 179 |
