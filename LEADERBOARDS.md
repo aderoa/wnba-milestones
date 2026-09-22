@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-22 03:34 UTC_
+_Last updated: 2026-09-22 03:35 UTC_
 
 ## Contents
 
@@ -164,7 +164,7 @@ _Last updated: 2026-09-22 03:34 UTC_
 | 142 | Matee Ajavon | 2,237 |
 | 144 | Teaira McCowan | 2,229 |
 | 145 | Dawn Staley | 2,228 |
-| 146 | **Sami Whitcomb** 🔴 +5 | 2,216 |
+| 146 | **Sami Whitcomb** 🔴 +8 | 2,219 |
 | 147 | Janel McCarville | 2,215 |
 | 148 | Sophia Witherspoon | 2,210 |
 | 149 | Ruthie Bolton | 2,175 |
@@ -349,8 +349,8 @@ _Last updated: 2026-09-22 03:34 UTC_
 | 123 | Angel Reese | 1,045 |
 | 124 | Nicole Ohlde | 1,040 |
 | 125 | Tamecka Dixon | 1,035 |
-| 126 | **Jessica Shepard** 🔴 +15 | 1,031 |
-| 126 | Kamila Vodichkova | 1,031 |
+| 126 | **Jessica Shepard** 🔴 +16 | 1,032 |
+| 127 | Kamila Vodichkova | 1,031 |
 | 128 | Jasmine Thomas | 1,027 |
 | 129 | Sabrina Ionescu | 1,020 |
 | 130 | Cathrine Kraayeveld | 1,013 |
@@ -1066,7 +1066,7 @@ _Last updated: 2026-09-22 03:34 UTC_
 | 17 | Ivory Latta | 536 |
 | 18 | Renee Montgomery | 532 |
 | 19 | Maya Moore | 530 |
-| 20 | **Sami Whitcomb** 🔴 | 511 |
+| 20 | **Sami Whitcomb** 🔴 +1 | 512 |
 | 21 | Allie Quigley | 510 |
 | 22 | Leilani Mitchell | 508 |
 | 23 | Marina Mabrey | 500 |
