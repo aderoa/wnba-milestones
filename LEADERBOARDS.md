@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-22 01:43 UTC_
+_Last updated: 2026-09-22 01:44 UTC_
 
 ## Contents
 
@@ -888,8 +888,8 @@ _Last updated: 2026-09-22 01:43 UTC_
 | 44 | Dearica Hamby | 411 |
 | 45 | Katie Smith | 408 |
 | 46 | Cappie Pondexter | 405 |
-| 47 | **Jordin Canada** 🔴 +4 | 401 |
 | 47 | Nicole Powell | 401 |
+| 48 | **Jordin Canada** 🔴 +3 | 400 |
 | 49 | Jasmine Thomas | 394 |
 | 50 | Ariel Atkins | 390 |
 | 51 | Danielle Robinson | 389 |
@@ -898,7 +898,7 @@ _Last updated: 2026-09-22 01:43 UTC_
 | 54 | Swin Cash | 384 |
 | 54 | Tiffany Hayes | 384 |
 | 54 | Tina Charles | 384 |
-| 57 | **Allisha Gray** 🔴 +1 | 380 |
+| 57 | **Allisha Gray** 🔴 +2 | 381 |
 | 58 | Monique Currie | 378 |
 | 59 | Chamique Holdsclaw | 376 |
 | 60 | Brittney Sykes | 371 |
