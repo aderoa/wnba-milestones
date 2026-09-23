@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-23 01:37 UTC_
+_Last updated: 2026-09-23 01:38 UTC_
 
 ## Contents
 
@@ -410,8 +410,8 @@ _Last updated: 2026-09-23 01:37 UTC_
 | 183 | Kelsey Bone | 769 |
 | 183 | Tan White | 769 |
 | 186 | Tully Bevilaqua | 767 |
-| 187 | **Kamilla Cardoso** 🔴 +6 | 756 |
-| 187 | Layshia Clarendon | 756 |
+| 187 | **Kamilla Cardoso** 🔴 +7 | 757 |
+| 188 | Layshia Clarendon | 756 |
 | 189 | Brooke Wyckoff | 751 |
 | 190 | Coco Miller | 750 |
 | 191 | Kelsey Plum | 741 |
@@ -431,7 +431,7 @@ _Last updated: 2026-09-23 01:37 UTC_
 | Rank | Player | Total |
 |-----:|--------|------:|
 | 1 | Sue Bird | 3,234 |
-| 2 | **Courtney Vandersloot** 🔴 +6 | 2,900 |
+| 2 | **Courtney Vandersloot** 🔴 +7 | 2,901 |
 | 3 | Ticha Penicheiro | 2,588 |
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
@@ -1531,9 +1531,9 @@ _Last updated: 2026-09-23 01:37 UTC_
 | 70 | Vickie Johnson | 752 |
 | 72 | Kara Braxton | 748 |
 | 73 | Crystal Langhorne | 737 |
+| 74 | **Elizabeth Williams** 🔴 +2 | 734 |
 | 74 | Shameka Christon | 734 |
-| 75 | Becky Hammon | 733 |
-| 75 | **Elizabeth Williams** 🔴 +1 | 733 |
+| 76 | Becky Hammon | 733 |
 | 77 | Ariel Atkins | 730 |
 | 77 | Latasha Byears | 730 |
 | 79 | Kristi Toliver | 722 |
