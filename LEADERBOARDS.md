@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-23 02:54 UTC_
+_Last updated: 2026-09-23 02:55 UTC_
 
 ## Contents
 
@@ -34,7 +34,7 @@ _Last updated: 2026-09-23 02:54 UTC_
 | 13 | Breanna Stewart | 6,335 |
 | 14 | Lisa Leslie | 6,251 |
 | 15 | **A'ja Wilson** 🔴 +6 | 6,184 |
-| 16 | **Jewell Loyd** 🔴 | 6,148 |
+| 16 | **Jewell Loyd** 🔴 +3 | 6,151 |
 | 17 | Brittney Griner | 6,087 |
 | 18 | Lauren Jackson | 6,005 |
 | 18 | Seimone Augustus | 6,005 |
@@ -107,7 +107,7 @@ _Last updated: 2026-09-23 02:54 UTC_
 | 86 | Marina Mabrey | 3,249 |
 | 87 | Stefanie Dolson | 3,217 |
 | 88 | Margo Dydek | 3,214 |
-| 89 | **Erica Wheeler** 🔴 +9 | 3,204 |
+| 89 | **Erica Wheeler** 🔴 +11 | 3,206 |
 | 90 | Danielle Robinson | 3,160 |
 | 91 | Wendy Palmer | 3,135 |
 | 92 | Shavonte Zellous | 3,103 |
@@ -227,7 +227,7 @@ _Last updated: 2026-09-23 02:54 UTC_
 | 1 | Tina Charles | 4,262 |
 | 2 | Sylvia Fowles | 4,005 |
 | 3 | Candace Parker | 3,467 |
-| 4 | **Nneka Ogwumike** 🔴 +4 | 3,410 |
+| 4 | **Nneka Ogwumike** 🔴 +5 | 3,411 |
 | 5 | Rebekkah Brunson | 3,345 |
 | 6 | Tamika Catchings | 3,313 |
 | 7 | Lisa Leslie | 3,303 |
@@ -435,7 +435,7 @@ _Last updated: 2026-09-23 02:54 UTC_
 | 3 | Ticha Penicheiro | 2,588 |
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
-| 6 | **Chelsea Gray** 🔴 +1 | 2,004 |
+| 6 | **Chelsea Gray** 🔴 +2 | 2,005 |
 | 7 | Alyssa Thomas | 1,971 |
 | 8 | Skylar Diggins | 1,852 |
 | 9 | Natasha Cloud | 1,802 |
@@ -450,8 +450,8 @@ _Last updated: 2026-09-23 02:54 UTC_
 | 18 | Temeka Johnson | 1,382 |
 | 19 | Jasmine Thomas | 1,355 |
 | 20 | Briann January | 1,339 |
-| 21 | Dawn Staley | 1,337 |
-| 21 | **Erica Wheeler** 🔴 +2 | 1,337 |
+| 21 | **Erica Wheeler** 🔴 +3 | 1,338 |
+| 22 | Dawn Staley | 1,337 |
 | 23 | Teresa Weatherspoon | 1,333 |
 | 24 | Kristi Toliver | 1,301 |
 | 25 | Kelsey Plum | 1,270 |
@@ -668,7 +668,7 @@ _Last updated: 2026-09-23 02:54 UTC_
 | 31 | Candice Dupree | 316 |
 | 32 | Vicky Bullett | 288 |
 | 33 | Rebekkah Brunson | 281 |
-| 34 | **Nneka Ogwumike** 🔴 | 266 |
+| 34 | **Nneka Ogwumike** 🔴 +1 | 267 |
 | 35 | Liz Cambage | 264 |
 | 36 | **Cheyenne Parker-Tyus** 🔴 +1 | 262 |
 | 37 | Swin Cash | 258 |
@@ -1056,7 +1056,7 @@ _Last updated: 2026-09-23 02:54 UTC_
 | 6 | Tina Thompson | 745 |
 | 7 | Katie Douglas | 723 |
 | 8 | Kelsey Mitchell | 714 |
-| 9 | **Jewell Loyd** 🔴 | 695 |
+| 9 | **Jewell Loyd** 🔴 +1 | 696 |
 | 10 | DeWanna Bonner | 682 |
 | 11 | Kristi Toliver | 651 |
 | 12 | Kelsey Plum | 619 |
@@ -1552,9 +1552,9 @@ _Last updated: 2026-09-23 02:54 UTC_
 | 91 | Maya Moore | 686 |
 | 93 | Breanna Stewart | 685 |
 | 93 | Jasmine Thomas | 685 |
-| 95 | **Jewell Loyd** 🔴 | 684 |
-| 95 | **Kayla Thornton** 🔴 +2 | 684 |
-| 95 | Leilani Mitchell | 684 |
+| 93 | **Kayla Thornton** 🔴 +3 | 685 |
+| 96 | **Jewell Loyd** 🔴 | 684 |
+| 96 | Leilani Mitchell | 684 |
 | 98 | Crystal Robinson | 682 |
 | 99 | Jennifer Lacy | 680 |
 | 99 | Temeka Johnson | 680 |
