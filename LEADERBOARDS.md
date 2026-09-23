@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-23 02:18 UTC_
+_Last updated: 2026-09-23 02:19 UTC_
 
 ## Contents
 
@@ -319,7 +319,7 @@ _Last updated: 2026-09-23 02:18 UTC_
 | 92 | Liz Cambage | 1,258 |
 | 94 | **Tiffany Hayes** 🔴 | 1,257 |
 | 95 | Kayla McBride | 1,256 |
-| 96 | **Brianna Turner** 🔴 +1 | 1,244 |
+| 96 | **Brianna Turner** 🔴 +2 | 1,245 |
 | 97 | Ezi Magbegor | 1,243 |
 | 98 | Seimone Augustus | 1,228 |
 | 99 | Jia Perkins | 1,220 |
@@ -343,7 +343,7 @@ _Last updated: 2026-09-23 02:18 UTC_
 | 116 | Isabelle Harrison | 1,110 |
 | 118 | Becky Hammon | 1,108 |
 | 119 | Ann Wauters | 1,105 |
-| 120 | **Jackie Young** 🔴 | 1,085 |
+| 120 | **Jackie Young** 🔴 +1 | 1,086 |
 | 121 | Svetlana Abrosimova | 1,078 |
 | 122 | Le'coe Willingham | 1,054 |
 | 123 | Nicole Ohlde | 1,040 |
@@ -462,7 +462,7 @@ _Last updated: 2026-09-23 02:18 UTC_
 | 30 | Leilani Mitchell | 1,197 |
 | 31 | DeWanna Bonner | 1,196 |
 | 32 | Jewell Loyd | 1,156 |
-| 33 | **Jackie Young** 🔴 +1 | 1,151 |
+| 33 | **Jackie Young** 🔴 +3 | 1,153 |
 | 34 | Renee Montgomery | 1,140 |
 | 35 | Swin Cash | 1,131 |
 | 36 | Sabrina Ionescu | 1,092 |
@@ -904,8 +904,8 @@ _Last updated: 2026-09-23 02:18 UTC_
 | 59 | Chamique Holdsclaw | 376 |
 | 60 | Brittney Sykes | 371 |
 | 61 | Mwadi Mabika | 370 |
-| 62 | **A'ja Wilson** 🔴 | 361 |
-| 62 | **Erica Wheeler** 🔴 | 361 |
+| 62 | **Erica Wheeler** 🔴 +1 | 362 |
+| 63 | **A'ja Wilson** 🔴 | 361 |
 | 64 | Lauren Jackson | 360 |
 | 64 | Tan White | 360 |
 | 66 | Vickie Johnson | 357 |
@@ -1117,8 +1117,8 @@ _Last updated: 2026-09-23 02:18 UTC_
 | 67 | DeLisha Milton-Jones | 312 |
 | 67 | Ruthie Bolton | 312 |
 | 69 | Tan White | 311 |
+| 70 | **Bridget Carleton** 🔴 +1 | 307 |
 | 70 | Kedra Holland-Corn | 307 |
-| 71 | **Bridget Carleton** 🔴 | 306 |
 | 72 | Kelly Miller | 305 |
 | 73 | Nikki Teasley | 304 |
 | 74 | **Kayla Thornton** 🔴 +1 | 301 |
@@ -1298,7 +1298,7 @@ _Last updated: 2026-09-23 02:18 UTC_
 | 43 | Michelle Snow | 723 |
 | 44 | Tamecka Dixon | 716 |
 | 45 | Natasha Cloud | 707 |
-| 46 | **Erica Wheeler** 🔴 | 699 |
+| 46 | **Erica Wheeler** 🔴 +1 | 700 |
 | 47 | Renee Montgomery | 697 |
 | 48 | Temeka Johnson | 696 |
 | 49 | Penny Taylor | 695 |
@@ -1366,7 +1366,7 @@ _Last updated: 2026-09-23 02:18 UTC_
 | 111 | Nikki Teasley | 493 |
 | 111 | Tari Phillips | 493 |
 | 113 | Janel McCarville | 491 |
-| 114 | **A'ja Wilson** 🔴 +1 | 489 |
+| 114 | **A'ja Wilson** 🔴 +2 | 490 |
 | 115 | Erika de Souza | 483 |
 | 116 | Sophia Young-Malcolm | 482 |
 | 117 | Natalie Williams | 480 |
