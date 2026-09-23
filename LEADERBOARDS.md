@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-23 00:39 UTC_
+_Last updated: 2026-09-23 00:40 UTC_
 
 ## Contents
 
@@ -645,7 +645,7 @@ _Last updated: 2026-09-23 00:39 UTC_
 | 8 | Tammy Sutton-Brown | 555 |
 | 9 | Tangela Smith | 554 |
 | 10 | Ruth Riley | 505 |
-| 11 | **Elizabeth Williams** 🔴 | 503 |
+| 11 | **Elizabeth Williams** 🔴 +1 | 504 |
 | 12 | Breanna Stewart | 450 |
 | 13 | Taj McWilliams-Franklin | 443 |
 | 14 | Tina Charles | 428 |
@@ -1390,9 +1390,9 @@ _Last updated: 2026-09-23 00:39 UTC_
 | 134 | Nicole Ohlde | 434 |
 | 136 | Murriel Page | 432 |
 | 137 | Shameka Christon | 424 |
-| 138 | Cynthia Cooper | 422 |
-| 138 | **Napheesa Collier** 🔴 | 422 |
-| 138 | Noelle Quinn | 422 |
+| 138 | **Napheesa Collier** 🔴 +1 | 423 |
+| 139 | Cynthia Cooper | 422 |
+| 139 | Noelle Quinn | 422 |
 | 141 | Bria Hartley | 419 |
 | 142 | Sami Whitcomb | 416 |
 | 143 | Coco Miller | 410 |
