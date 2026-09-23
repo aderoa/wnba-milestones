@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-23 04:14 UTC_
+_Last updated: 2026-09-23 04:15 UTC_
 
 ## Contents
 
@@ -670,7 +670,7 @@ _Last updated: 2026-09-23 04:14 UTC_
 | 33 | Rebekkah Brunson | 281 |
 | 34 | Nneka Ogwumike | 267 |
 | 35 | Liz Cambage | 264 |
-| 36 | Cheyenne Parker-Tyus | 263 |
+| 36 | Cheyenne Parker-Tyus | 262 |
 | 37 | Swin Cash | 258 |
 | 38 | Plenette Pierson | 242 |
 | 39 | Napheesa Collier | 240 |
