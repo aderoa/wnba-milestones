@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-23 02:07 UTC_
+_Last updated: 2026-09-23 02:08 UTC_
 
 ## Contents
 
@@ -259,7 +259,7 @@ _Last updated: 2026-09-23 02:07 UTC_
 | 33 | Elizabeth Williams | 1,989 |
 | 34 | Cheryl Ford | 1,907 |
 | 35 | Courtney Williams | 1,843 |
-| 36 | **Kiah Stokes** 🔴 +1 | 1,836 |
+| 36 | **Kiah Stokes** 🔴 +3 | 1,838 |
 | 37 | Plenette Pierson | 1,834 |
 | 38 | Natalie Williams | 1,832 |
 | 39 | Wendy Palmer | 1,824 |
@@ -538,7 +538,7 @@ _Last updated: 2026-09-23 02:07 UTC_
 | 106 | Betnijah Laney-Hamilton | 590 |
 | 106 | Camille Smith | 590 |
 | 108 | Armintie Herrington | 589 |
-| 109 | **Veronica Burton** 🔴 | 579 |
+| 109 | **Veronica Burton** 🔴 +1 | 580 |
 | 110 | Tan White | 578 |
 | 111 | Matee Ajavon | 577 |
 | 112 | Napheesa Collier | 570 |
@@ -1224,8 +1224,8 @@ _Last updated: 2026-09-23 02:07 UTC_
 | 174 | Tamecka Dixon | 126 |
 | 175 | Kennedy Burke | 125 |
 | 175 | Lexie Hull | 125 |
-| 177 | Charde Houston | 124 |
-| 177 | **Veronica Burton** 🔴 | 124 |
+| 175 | **Veronica Burton** 🔴 +1 | 125 |
+| 178 | Charde Houston | 124 |
 | 179 | Lisa Leslie | 123 |
 | 180 | Sidney Spencer | 122 |
 | 181 | Tonya Edwards | 118 |
@@ -1237,9 +1237,9 @@ _Last updated: 2026-09-23 02:07 UTC_
 | 187 | Gordana Grubin | 114 |
 | 187 | Rickea Jackson | 114 |
 | 187 | Sandy Brondello | 114 |
-| 190 | **Cecilia Zandalasini** 🔴 | 111 |
-| 190 | Janelle Salaun | 111 |
-| 190 | Shoni Schimmel | 111 |
+| 190 | **Cecilia Zandalasini** 🔴 +1 | 112 |
+| 191 | Janelle Salaun | 111 |
+| 191 | Shoni Schimmel | 111 |
 | 193 | Emma Meesseman | 109 |
 | 193 | Scholanda Dorrell | 109 |
 | 195 | Belinda Snell | 108 |
