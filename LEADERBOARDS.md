@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-23 00:12 UTC_
+_Last updated: 2026-09-23 00:13 UTC_
 
 ## Contents
 
@@ -157,7 +157,7 @@ _Last updated: 2026-09-23 00:12 UTC_
 | 136 | **Betnijah Laney-Hamilton** 🔴 | 2,302 |
 | 137 | Satou Sabally | 2,296 |
 | 138 | Kia Vaughn | 2,288 |
-| 139 | Kia Nurse | 2,262 |
+| 139 | **Kia Nurse** 🔴 | 2,262 |
 | 140 | Allison Feaster | 2,258 |
 | 141 | Shekinna Stricklen | 2,245 |
 | 142 | Kara Braxton | 2,237 |
@@ -175,7 +175,7 @@ _Last updated: 2026-09-23 00:12 UTC_
 | 154 | Tari Phillips | 2,134 |
 | 155 | Cheryl Ford | 2,116 |
 | 156 | Elena Baranova | 2,110 |
-| 157 | **Aliyah Boston** 🔴 +1 | 2,088 |
+| 157 | **Aliyah Boston** 🔴 +2 | 2,089 |
 | 158 | Aerial Powers | 2,068 |
 | 159 | Coco Miller | 2,030 |
 | 160 | Diamond DeShields | 2,026 |
@@ -200,7 +200,7 @@ _Last updated: 2026-09-23 00:12 UTC_
 | 179 | NaLyssa Smith | 1,879 |
 | 180 | Rachel Banham | 1,843 |
 | 181 | Damiris Dantas | 1,842 |
-| 182 | Sophie Cunningham | 1,829 |
+| 182 | **Sophie Cunningham** 🔴 | 1,829 |
 | 183 | Tianna Hawkins | 1,825 |
 | 184 | Noelle Quinn | 1,824 |
 | 185 | Danielle Adams | 1,820 |
@@ -592,11 +592,11 @@ _Last updated: 2026-09-23 00:12 UTC_
 | 160 | Kedra Holland-Corn | 423 |
 | 161 | Crystal Dangerfield | 418 |
 | 162 | Candice Wiggins | 417 |
-| 163 | Aari McDonald | 415 |
+| 163 | **Aari McDonald** 🔴 | 415 |
 | 164 | Erin Thorn | 414 |
 | 165 | Jamierra Faulkner | 410 |
 | 165 | Murriel Page | 410 |
-| 167 | Kia Nurse | 407 |
+| 167 | **Kia Nurse** 🔴 | 407 |
 | 168 | Allison Feaster | 406 |
 | 169 | Rita Williams | 403 |
 | 170 | Stephanie Talbot | 400 |
@@ -1099,7 +1099,7 @@ _Last updated: 2026-09-23 00:12 UTC_
 | 48 | Betty Lennox | 372 |
 | 50 | Kahleah Copper | 370 |
 | 51 | Epiphanny Prince | 368 |
-| 51 | Kia Nurse | 368 |
+| 51 | **Kia Nurse** 🔴 | 368 |
 | 53 | Nykesha Sales | 352 |
 | 54 | Jackie Young | 346 |
 | 55 | Natasha Cloud | 345 |
@@ -1109,7 +1109,7 @@ _Last updated: 2026-09-23 00:12 UTC_
 | 59 | Deanna Nolan | 340 |
 | 60 | Erica Wheeler | 337 |
 | 61 | Anna DeForge | 334 |
-| 61 | Sophie Cunningham | 334 |
+| 61 | **Sophie Cunningham** 🔴 | 334 |
 | 63 | Natisha Hiedeman | 328 |
 | 64 | Sugar Rodgers | 317 |
 | 65 | Marissa Coleman | 315 |
@@ -1186,7 +1186,7 @@ _Last updated: 2026-09-23 00:12 UTC_
 | 136 | Dana Evans | 160 |
 | 136 | Jennifer Lacy | 160 |
 | 136 | Stephanie Talbot | 160 |
-| 139 | Aari McDonald | 158 |
+| 139 | **Aari McDonald** 🔴 | 158 |
 | 139 | Jennifer Azzi | 158 |
 | 139 | **Natasha Howard** 🔴 | 158 |
 | 142 | Alanna Smith | 156 |
@@ -1435,7 +1435,7 @@ _Last updated: 2026-09-23 00:12 UTC_
 | 179 | Rita Williams | 326 |
 | 181 | Le'coe Willingham | 325 |
 | 182 | Olympia Scott | 324 |
-| 183 | Kia Nurse | 320 |
+| 183 | **Kia Nurse** 🔴 | 320 |
 | 184 | Barbara Farris | 315 |
 | 185 | Monique Billings | 314 |
 | 185 | Moriah Jefferson | 314 |
@@ -1584,8 +1584,8 @@ _Last updated: 2026-09-23 00:12 UTC_
 | 124 | Janel McCarville | 597 |
 | 125 | Kamila Vodichkova | 596 |
 | 126 | Teresa Weatherspoon | 589 |
+| 127 | **Courtney Williams** 🔴 +2 | 585 |
 | 127 | Emma Meesseman | 585 |
-| 128 | **Courtney Williams** 🔴 +1 | 584 |
 | 129 | Chiney Ogwumike | 580 |
 | 129 | Hamchetou Maiga-Ba | 580 |
 | 129 | Olympia Scott | 580 |
@@ -1607,7 +1607,7 @@ _Last updated: 2026-09-23 00:12 UTC_
 | 146 | **Kayla McBride** 🔴 | 543 |
 | 146 | Renee Montgomery | 543 |
 | 149 | Marissa Coleman | 541 |
-| 150 | Sophie Cunningham | 538 |
+| 150 | **Sophie Cunningham** 🔴 | 538 |
 | 151 | Myisha Hines-Allen | 535 |
 | 152 | Damiris Dantas | 533 |
 | 152 | Kristen Rasmussen | 533 |
@@ -1643,7 +1643,7 @@ _Last updated: 2026-09-23 00:12 UTC_
 | 183 | Charde Houston | 487 |
 | 184 | Lindsey Harding | 486 |
 | 185 | Cathrine Kraayeveld | 484 |
-| 185 | Kia Nurse | 484 |
+| 185 | **Kia Nurse** 🔴 | 484 |
 | 187 | Liz Cambage | 483 |
 | 187 | Rhonda Mapp | 483 |
 | 189 | Sami Whitcomb | 480 |
