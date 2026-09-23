@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-23 04:01 UTC_
+_Last updated: 2026-09-23 04:02 UTC_
 
 ## Contents
 
@@ -47,7 +47,7 @@ _Last updated: 2026-09-23 04:01 UTC_
 | 26 | Lindsay Whalen | 5,511 |
 | 27 | Kelsey Mitchell | 5,218 |
 | 28 | Swin Cash | 5,119 |
-| 29 | **Tiffany Hayes** 🔴 +7 | 5,056 |
+| 29 | **Tiffany Hayes** 🔴 +10 | 5,059 |
 | 30 | Tangela Smith | 5,035 |
 | 31 | Taj McWilliams-Franklin | 4,992 |
 | 32 | Maya Moore | 4,984 |
@@ -533,7 +533,7 @@ _Last updated: 2026-09-23 04:01 UTC_
 | 101 | Debbie Black | 612 |
 | 102 | Cynthia Cooper | 602 |
 | 103 | Caitlin Clark | 600 |
-| 104 | **Gabby Williams** 🔴 +2 | 593 |
+| 104 | **Gabby Williams** 🔴 +3 | 594 |
 | 105 | Sancho Lyttle | 592 |
 | 106 | Betnijah Laney-Hamilton | 590 |
 | 106 | Camille Smith | 590 |
@@ -670,7 +670,7 @@ _Last updated: 2026-09-23 04:01 UTC_
 | 33 | Rebekkah Brunson | 281 |
 | 34 | **Nneka Ogwumike** 🔴 +1 | 267 |
 | 35 | Liz Cambage | 264 |
-| 36 | **Cheyenne Parker-Tyus** 🔴 +1 | 262 |
+| 36 | **Cheyenne Parker-Tyus** 🔴 +2 | 263 |
 | 37 | Swin Cash | 258 |
 | 38 | Plenette Pierson | 242 |
 | 39 | Napheesa Collier | 240 |
@@ -993,8 +993,8 @@ _Last updated: 2026-09-23 04:01 UTC_
 | 147 | Jennifer Gillom | 220 |
 | 149 | Allison Feaster | 219 |
 | 149 | Kahleah Copper | 219 |
-| 151 | **Cheyenne Parker-Tyus** 🔴 | 217 |
-| 151 | Shenise Johnson | 217 |
+| 151 | **Cheyenne Parker-Tyus** 🔴 +1 | 218 |
+| 152 | Shenise Johnson | 217 |
 | 153 | Adrian Williams-Strong | 216 |
 | 153 | Moriah Jefferson | 216 |
 | 155 | Asjha Jones | 215 |
@@ -1077,7 +1077,7 @@ _Last updated: 2026-09-23 04:01 UTC_
 | 27 | Cappie Pondexter | 464 |
 | 28 | Allisha Gray | 458 |
 | 29 | **Ariel Atkins** 🔴 +1 | 456 |
-| 30 | **Tiffany Hayes** 🔴 | 454 |
+| 30 | **Tiffany Hayes** 🔴 +1 | 455 |
 | 31 | **Chelsea Gray** 🔴 +2 | 452 |
 | 32 | Skylar Diggins | 447 |
 | 33 | Lauren Jackson | 436 |
