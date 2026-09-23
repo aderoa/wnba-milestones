@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-23 04:05 UTC_
+_Last updated: 2026-09-23 04:06 UTC_
 
 ## Contents
 
@@ -218,7 +218,7 @@ _Last updated: 2026-09-23 04:05 UTC_
 | 197 | Le'coe Willingham | 1,552 |
 | 198 | Shatori Walker-Kimbrough | 1,544 |
 | 199 | Rebecca Allen | 1,529 |
-| 200 | **Bridget Carleton** 🔴 +21 | 1,506 |
+| 200 | **Bridget Carleton** 🔴 +23 | 1,508 |
 
 ## Rebounds
 
@@ -1037,11 +1037,11 @@ _Last updated: 2026-09-23 04:05 UTC_
 | 192 | Bridget Pettis | 177 |
 | 193 | Brittany Boyd-Jones | 176 |
 | 193 | Chiney Ogwumike | 176 |
+| 195 | **Bridget Carleton** 🔴 +2 | 175 |
 | 195 | Tamika Raymond | 175 |
-| 196 | **Bridget Carleton** 🔴 +1 | 174 |
-| 196 | Elena Delle Donne | 174 |
-| 196 | Ezi Magbegor | 174 |
-| 196 | Margo Dydek | 174 |
+| 197 | Elena Delle Donne | 174 |
+| 197 | Ezi Magbegor | 174 |
+| 197 | Margo Dydek | 174 |
 | 200 | Kamila Vodichkova | 173 |
 
 ## Three-pointers
@@ -1324,7 +1324,7 @@ _Last updated: 2026-09-23 04:05 UTC_
 | 68 | Odyssey Sims | 631 |
 | 68 | Svetlana Abrosimova | 631 |
 | 70 | Kahleah Copper | 625 |
-| 71 | **Tiffany Hayes** 🔴 | 624 |
+| 70 | **Tiffany Hayes** 🔴 +1 | 625 |
 | 72 | Rebekkah Brunson | 615 |
 | 73 | Seimone Augustus | 613 |
 | 74 | Teresa Weatherspoon | 601 |
