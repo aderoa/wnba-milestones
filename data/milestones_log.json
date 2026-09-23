@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-09-23T01:25:00+00:00",
+    "text": "Aari McDonald passed Crystal Dangerfield for #161 all-time in assists (career 419) \u2014 up from #163 entering today \u2014 (5:23 - 3rd \u2014 MIN @ IND)",
+    "kind": "rank_pass",
+    "player": "Aari McDonald",
+    "stat": "assists",
+    "rank": 161,
+    "passed_players": [
+      "Crystal Dangerfield"
+    ],
+    "new_total": 419
+  },
+  {
     "ts": "2026-09-23T01:13:00+00:00",
     "text": "Aari McDonald passed Candice Wiggins for #162 all-time in assists (career 418) \u2014 up from #163 entering today \u2014 (8:50 - 3rd \u2014 MIN @ IND)",
     "kind": "rank_pass",
@@ -2961,17 +2973,5 @@
     "stat": "points",
     "value": 100,
     "new_total": 100
-  },
-  {
-    "ts": "2026-07-09T03:32:00+00:00",
-    "text": "Damiris Dantas passed Rachel Banham for #180 all-time in points (career 1,845) \u2014 up from #181 entering today \u2014 (1:03 - 3rd \u2014 IND @ LA)",
-    "kind": "rank_pass",
-    "player": "Damiris Dantas",
-    "stat": "points",
-    "rank": 180,
-    "passed_players": [
-      "Rachel Banham"
-    ],
-    "new_total": 1845
   }
 ]
