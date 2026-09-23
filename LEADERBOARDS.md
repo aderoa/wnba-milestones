@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-23 03:50 UTC_
+_Last updated: 2026-09-23 03:51 UTC_
 
 ## Contents
 
@@ -33,7 +33,7 @@ _Last updated: 2026-09-23 03:50 UTC_
 | 12 | Sylvia Fowles | 6,413 |
 | 13 | Breanna Stewart | 6,335 |
 | 14 | Lisa Leslie | 6,251 |
-| 15 | **A'ja Wilson** 🔴 +13 | 6,191 |
+| 15 | **A'ja Wilson** 🔴 +15 | 6,193 |
 | 16 | **Jewell Loyd** 🔴 +9 | 6,157 |
 | 17 | Brittney Griner | 6,087 |
 | 18 | Lauren Jackson | 6,005 |
@@ -47,7 +47,7 @@ _Last updated: 2026-09-23 03:50 UTC_
 | 26 | Lindsay Whalen | 5,511 |
 | 27 | Kelsey Mitchell | 5,218 |
 | 28 | Swin Cash | 5,119 |
-| 29 | **Tiffany Hayes** 🔴 +5 | 5,054 |
+| 29 | **Tiffany Hayes** 🔴 +7 | 5,056 |
 | 30 | Tangela Smith | 5,035 |
 | 31 | Taj McWilliams-Franklin | 4,992 |
 | 32 | Maya Moore | 4,984 |
@@ -107,7 +107,7 @@ _Last updated: 2026-09-23 03:50 UTC_
 | 86 | Marina Mabrey | 3,249 |
 | 87 | Stefanie Dolson | 3,217 |
 | 88 | Margo Dydek | 3,214 |
-| 89 | **Erica Wheeler** 🔴 +13 | 3,208 |
+| 89 | **Erica Wheeler** 🔴 +16 | 3,211 |
 | 90 | Danielle Robinson | 3,160 |
 | 91 | Wendy Palmer | 3,135 |
 | 92 | Shavonte Zellous | 3,103 |
@@ -218,8 +218,7 @@ _Last updated: 2026-09-23 03:50 UTC_
 | 197 | Le'coe Willingham | 1,552 |
 | 198 | Shatori Walker-Kimbrough | 1,544 |
 | 199 | Rebecca Allen | 1,529 |
-| 200 | **Bridget Carleton** 🔴 +19 | 1,504 |
-| 200 | Jennifer Lacy | 1,504 |
+| 200 | **Bridget Carleton** 🔴 +21 | 1,506 |
 
 ## Rebounds
 
@@ -238,7 +237,7 @@ _Last updated: 2026-09-23 03:50 UTC_
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | Alyssa Thomas | 2,858 |
 | 13 | Jonquel Jones | 2,728 |
-| 14 | **A'ja Wilson** 🔴 +8 | 2,665 |
+| 14 | **A'ja Wilson** 🔴 +9 | 2,666 |
 | 15 | Breanna Stewart | 2,632 |
 | 16 | Sancho Lyttle | 2,596 |
 | 17 | Brittney Griner | 2,579 |
@@ -608,7 +607,7 @@ _Last updated: 2026-09-23 03:50 UTC_
 | 174 | Tamicha Jackson | 389 |
 | 176 | Riquna Williams | 387 |
 | 177 | **Bridget Carleton** 🔴 +1 | 385 |
-| 178 | **Dana Evans** 🔴 +1 | 380 |
+| 178 | **Dana Evans** 🔴 +3 | 382 |
 | 179 | Jessica Breland | 377 |
 | 180 | Shenise Johnson | 376 |
 | 181 | Alanna Smith | 374 |
@@ -929,7 +928,7 @@ _Last updated: 2026-09-23 03:50 UTC_
 | 83 | Courtney Williams | 329 |
 | 83 | Kristi Toliver | 329 |
 | 85 | Matee Ajavon | 328 |
-| 86 | **Gabby Williams** 🔴 | 326 |
+| 86 | **Gabby Williams** 🔴 +1 | 327 |
 | 87 | Napheesa Collier | 325 |
 | 88 | Betty Lennox | 323 |
 | 89 | Tammy Sutton-Brown | 319 |
@@ -1108,7 +1107,7 @@ _Last updated: 2026-09-23 03:50 UTC_
 | 56 | Elena Delle Donne | 343 |
 | 58 | Candace Parker | 342 |
 | 59 | Deanna Nolan | 340 |
-| 60 | **Erica Wheeler** 🔴 +1 | 338 |
+| 60 | **Erica Wheeler** 🔴 +2 | 339 |
 | 61 | Sophie Cunningham | 337 |
 | 62 | Anna DeForge | 334 |
 | 63 | Natisha Hiedeman | 328 |
@@ -1181,11 +1180,11 @@ _Last updated: 2026-09-23 03:50 UTC_
 | 130 | Shavonte Zellous | 167 |
 | 130 | Tianna Hawkins | 167 |
 | 132 | Charlotte Smith | 164 |
+| 133 | **Stephanie Talbot** 🔴 +2 | 162 |
 | 133 | Tyasha Harris | 162 |
 | 133 | Ukari Figgs | 162 |
-| 135 | **Dana Evans** 🔴 +1 | 161 |
-| 135 | Edna Campbell | 161 |
-| 135 | **Stephanie Talbot** 🔴 +1 | 161 |
+| 136 | **Dana Evans** 🔴 +1 | 161 |
+| 136 | Edna Campbell | 161 |
 | 138 | Jennifer Lacy | 160 |
 | 139 | Aari McDonald | 159 |
 | 140 | Jennifer Azzi | 158 |

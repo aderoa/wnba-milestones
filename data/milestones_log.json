@@ -1,5 +1,14 @@
 [
   {
+    "ts": "2026-09-23T03:51:00+00:00",
+    "text": "Stephanie Talbot reached 1,100 career points (now 1,101) \u2014 (4:16 - 4th \u2014 LA @ LV)",
+    "kind": "round",
+    "player": "Stephanie Talbot",
+    "stat": "points",
+    "value": 1100,
+    "new_total": 1101
+  },
+  {
     "ts": "2026-09-23T02:01:00+00:00",
     "text": "Aari McDonald passed Jennifer Azzi and Natasha Howard for #140 all-time in three-pointers (career 159) \u2014 (1:08 - 4th \u2014 MIN @ IND)",
     "kind": "rank_pass",
@@ -2965,17 +2974,5 @@
       "Skylar Diggins"
     ],
     "new_total": 1009
-  },
-  {
-    "ts": "2026-07-09T03:56:00+00:00",
-    "text": "Nneka Ogwumike passed Natasha Howard for #13 all-time in fouls (career 1,159) \u2014 up from #14 entering today \u2014 (3:04 - 4th \u2014 IND @ LA)",
-    "kind": "rank_pass",
-    "player": "Nneka Ogwumike",
-    "stat": "fouls",
-    "rank": 13,
-    "passed_players": [
-      "Natasha Howard"
-    ],
-    "new_total": 1159
   }
 ]
