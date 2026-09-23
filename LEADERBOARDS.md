@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-23 03:41 UTC_
+_Last updated: 2026-09-23 03:42 UTC_
 
 ## Contents
 
@@ -1384,7 +1384,7 @@ _Last updated: 2026-09-23 03:41 UTC_
 | 127 | Elena Baranova | 444 |
 | 127 | Jantel Lavender | 444 |
 | 129 | Alysha Clark | 443 |
-| 130 | **Cheyenne Parker-Tyus** 🔴 | 441 |
+| 130 | **Cheyenne Parker-Tyus** 🔴 +1 | 442 |
 | 131 | Ann Wauters | 440 |
 | 132 | Tiffany Mitchell | 439 |
 | 133 | Kedra Holland-Corn | 438 |
@@ -1549,10 +1549,10 @@ _Last updated: 2026-09-23 03:41 UTC_
 | 87 | Tan White | 698 |
 | 88 | Katie Douglas | 697 |
 | 89 | Danielle Robinson | 692 |
-| 90 | Sophia Young-Malcolm | 687 |
-| 91 | **Cheyenne Parker-Tyus** 🔴 +1 | 686 |
-| 91 | **Kayla Thornton** 🔴 +4 | 686 |
-| 91 | Maya Moore | 686 |
+| 90 | **Cheyenne Parker-Tyus** 🔴 +3 | 688 |
+| 91 | Sophia Young-Malcolm | 687 |
+| 92 | **Kayla Thornton** 🔴 +4 | 686 |
+| 92 | Maya Moore | 686 |
 | 94 | Breanna Stewart | 685 |
 | 94 | Jasmine Thomas | 685 |
 | 96 | **Jewell Loyd** 🔴 | 684 |
