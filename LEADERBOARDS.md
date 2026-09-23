@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-23 01:18 UTC_
+_Last updated: 2026-09-23 01:19 UTC_
 
 ## Contents
 
@@ -157,7 +157,7 @@ _Last updated: 2026-09-23 01:18 UTC_
 | 136 | **Betnijah Laney-Hamilton** 🔴 +3 | 2,305 |
 | 137 | Satou Sabally | 2,296 |
 | 138 | Kia Vaughn | 2,288 |
-| 139 | **Kia Nurse** 🔴 +3 | 2,265 |
+| 139 | **Kia Nurse** 🔴 +6 | 2,268 |
 | 140 | Allison Feaster | 2,258 |
 | 141 | Shekinna Stricklen | 2,245 |
 | 142 | Kara Braxton | 2,237 |
@@ -385,7 +385,7 @@ _Last updated: 2026-09-23 01:18 UTC_
 | 159 | Krystal Thomas | 862 |
 | 160 | Naz Hillmon | 859 |
 | 161 | Leilani Mitchell | 845 |
-| 162 | **Shakira Austin** 🔴 +10 | 842 |
+| 162 | **Shakira Austin** 🔴 +12 | 844 |
 | 163 | Essence Carson | 833 |
 | 164 | Gabby Williams | 831 |
 | 165 | Kristi Toliver | 829 |
@@ -564,7 +564,7 @@ _Last updated: 2026-09-23 01:18 UTC_
 | 132 | Crystal Robinson | 488 |
 | 132 | Tiffany Mitchell | 488 |
 | 134 | Rebekkah Brunson | 486 |
-| 135 | **Elizabeth Williams** 🔴 +1 | 480 |
+| 135 | **Elizabeth Williams** 🔴 +2 | 481 |
 | 136 | Satou Sabally | 476 |
 | 137 | Ukari Figgs | 470 |
 | 138 | Janeth Arcain | 469 |
@@ -1098,7 +1098,7 @@ _Last updated: 2026-09-23 01:18 UTC_
 | 48 | Allison Feaster | 372 |
 | 48 | Betty Lennox | 372 |
 | 50 | Kahleah Copper | 370 |
-| 51 | **Kia Nurse** 🔴 +1 | 369 |
+| 50 | **Kia Nurse** 🔴 +2 | 370 |
 | 52 | Epiphanny Prince | 368 |
 | 53 | Nykesha Sales | 352 |
 | 54 | Jackie Young | 346 |
