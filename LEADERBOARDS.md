@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-23 00:26 UTC_
+_Last updated: 2026-09-23 00:27 UTC_
 
 ## Contents
 
@@ -186,8 +186,8 @@ _Last updated: 2026-09-23 00:26 UTC_
 | 165 | Chiney Ogwumike | 1,964 |
 | 166 | Nicole Ohlde | 1,959 |
 | 167 | **Myisha Hines-Allen** 🔴 | 1,956 |
-| 168 | **Isabelle Harrison** 🔴 +6 | 1,938 |
-| 168 | Kedra Holland-Corn | 1,938 |
+| 168 | **Isabelle Harrison** 🔴 +7 | 1,939 |
+| 169 | Kedra Holland-Corn | 1,938 |
 | 170 | Cathrine Kraayeveld | 1,926 |
 | 171 | Roneeka Hodges | 1,925 |
 | 172 | Latasha Byears | 1,920 |
@@ -256,7 +256,7 @@ _Last updated: 2026-09-23 00:26 UTC_
 | 30 | Chamique Holdsclaw | 2,123 |
 | 31 | Chasity Melvin | 2,097 |
 | 32 | Tammy Sutton-Brown | 2,010 |
-| 33 | **Elizabeth Williams** 🔴 +5 | 1,983 |
+| 33 | **Elizabeth Williams** 🔴 +6 | 1,984 |
 | 34 | Cheryl Ford | 1,907 |
 | 35 | **Courtney Williams** 🔴 | 1,843 |
 | 36 | Kiah Stokes | 1,835 |
@@ -285,7 +285,7 @@ _Last updated: 2026-09-23 00:26 UTC_
 | 59 | Angel McCoughtry | 1,561 |
 | 60 | Penny Taylor | 1,552 |
 | 61 | Cappie Pondexter | 1,513 |
-| 62 | **Napheesa Collier** 🔴 +1 | 1,511 |
+| 62 | **Napheesa Collier** 🔴 +2 | 1,512 |
 | 63 | Ticha Penicheiro | 1,485 |
 | 64 | Alysha Clark | 1,469 |
 | 65 | Sue Bird | 1,466 |
@@ -342,7 +342,7 @@ _Last updated: 2026-09-23 00:26 UTC_
 | 116 | Chiney Ogwumike | 1,110 |
 | 117 | Becky Hammon | 1,108 |
 | 118 | Ann Wauters | 1,105 |
-| 119 | **Isabelle Harrison** 🔴 +3 | 1,100 |
+| 119 | **Isabelle Harrison** 🔴 +4 | 1,101 |
 | 120 | Jackie Young | 1,085 |
 | 121 | Svetlana Abrosimova | 1,078 |
 | 122 | Le'coe Willingham | 1,054 |
@@ -431,7 +431,7 @@ _Last updated: 2026-09-23 00:26 UTC_
 | Rank | Player | Total |
 |-----:|--------|------:|
 | 1 | Sue Bird | 3,234 |
-| 2 | **Courtney Vandersloot** 🔴 +2 | 2,896 |
+| 2 | **Courtney Vandersloot** 🔴 +3 | 2,897 |
 | 3 | Ticha Penicheiro | 2,588 |
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
