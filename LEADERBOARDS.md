@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-23 03:20 UTC_
+_Last updated: 2026-09-23 03:21 UTC_
 
 ## Contents
 
@@ -641,7 +641,7 @@ _Last updated: 2026-09-23 03:20 UTC_
 | 4 | Sylvia Fowles | 721 |
 | 5 | Candace Parker | 619 |
 | 6 | Lauren Jackson | 586 |
-| 7 | **A'ja Wilson** 🔴 +1 | 569 |
+| 7 | **A'ja Wilson** 🔴 +2 | 570 |
 | 8 | Tammy Sutton-Brown | 555 |
 | 9 | Tangela Smith | 554 |
 | 10 | Ruth Riley | 505 |
@@ -1038,11 +1038,11 @@ _Last updated: 2026-09-23 03:20 UTC_
 | 193 | Brittany Boyd-Jones | 176 |
 | 193 | Chiney Ogwumike | 176 |
 | 195 | Tamika Raymond | 175 |
+| 196 | **Bridget Carleton** 🔴 +1 | 174 |
 | 196 | Elena Delle Donne | 174 |
 | 196 | Ezi Magbegor | 174 |
 | 196 | Margo Dydek | 174 |
-| 199 | **Bridget Carleton** 🔴 | 173 |
-| 199 | Kamila Vodichkova | 173 |
+| 200 | Kamila Vodichkova | 173 |
 
 ## Three-pointers
 
@@ -1273,7 +1273,7 @@ _Last updated: 2026-09-23 03:20 UTC_
 | 18 | Cappie Pondexter | 945 |
 | 19 | Katie Smith | 935 |
 | 20 | Shannon Johnson | 934 |
-| 21 | **Chelsea Gray** 🔴 +1 | 928 |
+| 21 | **Chelsea Gray** 🔴 +2 | 929 |
 | 22 | Skylar Diggins | 907 |
 | 23 | Taj McWilliams-Franklin | 898 |
 | 24 | Candice Dupree | 869 |
@@ -1374,8 +1374,8 @@ _Last updated: 2026-09-23 03:20 UTC_
 | 119 | Ebony Hoffman | 470 |
 | 120 | Elaine Powell | 469 |
 | 121 | Allie Quigley | 467 |
+| 122 | **Ariel Atkins** 🔴 +1 | 466 |
 | 122 | **Jackie Young** 🔴 +3 | 466 |
-| 123 | **Ariel Atkins** 🔴 | 465 |
 | 124 | Betnijah Laney-Hamilton | 456 |
 | 125 | Kia Vaughn | 454 |
 | 126 | Janeth Arcain | 453 |
@@ -1533,8 +1533,8 @@ _Last updated: 2026-09-23 03:20 UTC_
 | 73 | Crystal Langhorne | 737 |
 | 74 | Elizabeth Williams | 735 |
 | 75 | Shameka Christon | 734 |
+| 76 | **Ariel Atkins** 🔴 +3 | 733 |
 | 76 | Becky Hammon | 733 |
-| 77 | **Ariel Atkins** 🔴 +2 | 732 |
 | 78 | Latasha Byears | 730 |
 | 79 | Kristi Toliver | 722 |
 | 80 | Cheryl Ford | 713 |
