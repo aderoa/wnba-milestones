@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-23 01:42 UTC_
+_Last updated: 2026-09-23 01:43 UTC_
 
 ## Contents
 
@@ -734,10 +734,10 @@ _Last updated: 2026-09-23 01:42 UTC_
 | 96 | Chelsea Gray | 127 |
 | 96 | Chiney Ogwumike | 127 |
 | 96 | Kristen Rasmussen | 127 |
+| 100 | **Kamilla Cardoso** 🔴 +2 | 126 |
 | 100 | Katie Douglas | 126 |
 | 100 | Mistie Bass | 126 |
-| 102 | Brionna Jones | 125 |
-| 102 | **Kamilla Cardoso** 🔴 +1 | 125 |
+| 103 | Brionna Jones | 125 |
 | 104 | Natasha Mack | 123 |
 | 105 | Natalie Williams | 122 |
 | 106 | Ebony Hoffman | 121 |
@@ -1601,7 +1601,7 @@ _Last updated: 2026-09-23 01:42 UTC_
 | 141 | Glory Johnson | 550 |
 | 141 | Tierra Ruffin-Pratt | 550 |
 | 143 | Jackie Young | 548 |
-| 144 | **Monique Billings** 🔴 +1 | 547 |
+| 143 | **Monique Billings** 🔴 +2 | 548 |
 | 145 | Erlana Larkins | 546 |
 | 146 | **Kayla McBride** 🔴 +1 | 544 |
 | 147 | Jayne Appel Marinelli | 543 |
