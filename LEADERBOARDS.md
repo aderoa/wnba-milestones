@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-23 01:50 UTC_
+_Last updated: 2026-09-23 01:51 UTC_
 
 ## Contents
 
@@ -186,7 +186,7 @@ _Last updated: 2026-09-23 01:50 UTC_
 | 165 | Chiney Ogwumike | 1,964 |
 | 166 | Nicole Ohlde | 1,959 |
 | 167 | **Myisha Hines-Allen** 🔴 +2 | 1,958 |
-| 168 | **Isabelle Harrison** 🔴 +20 | 1,952 |
+| 168 | **Isabelle Harrison** 🔴 +21 | 1,953 |
 | 169 | Kedra Holland-Corn | 1,938 |
 | 170 | Cathrine Kraayeveld | 1,926 |
 | 171 | Roneeka Hodges | 1,925 |
@@ -340,8 +340,8 @@ _Last updated: 2026-09-23 01:50 UTC_
 | 114 | Adrienne Goodson | 1,126 |
 | 115 | Deanna Nolan | 1,112 |
 | 116 | Chiney Ogwumike | 1,110 |
-| 117 | Becky Hammon | 1,108 |
-| 117 | **Isabelle Harrison** 🔴 +11 | 1,108 |
+| 116 | **Isabelle Harrison** 🔴 +13 | 1,110 |
+| 118 | Becky Hammon | 1,108 |
 | 119 | Ann Wauters | 1,105 |
 | 120 | Jackie Young | 1,085 |
 | 121 | Svetlana Abrosimova | 1,078 |
@@ -1442,12 +1442,12 @@ _Last updated: 2026-09-23 01:50 UTC_
 | 187 | Alex Bentley | 313 |
 | 188 | Natisha Hiedeman | 312 |
 | 189 | Tamika Raymond | 311 |
-| 190 | **Isabelle Harrison** 🔴 +2 | 309 |
+| 190 | **Isabelle Harrison** 🔴 +3 | 310 |
 | 191 | Erin Perperoglou | 305 |
 | 191 | Jennifer Lacy | 305 |
 | 193 | Azurá Stevens | 304 |
-| 194 | **Rachel Banham** 🔴 +2 | 303 |
 | 194 | Tianna Hawkins | 303 |
+| 195 | **Rachel Banham** 🔴 +1 | 302 |
 | 196 | Crystal Robinson | 299 |
 | 197 | Kayla Thornton | 298 |
 | 198 | Michele Timms | 297 |
