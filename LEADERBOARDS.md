@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-23 02:38 UTC_
+_Last updated: 2026-09-23 02:39 UTC_
 
 ## Contents
 
@@ -1534,8 +1534,8 @@ _Last updated: 2026-09-23 02:38 UTC_
 | 74 | Elizabeth Williams | 735 |
 | 75 | Shameka Christon | 734 |
 | 76 | Becky Hammon | 733 |
-| 77 | **Ariel Atkins** 🔴 | 730 |
-| 77 | Latasha Byears | 730 |
+| 77 | **Ariel Atkins** 🔴 +1 | 731 |
+| 78 | Latasha Byears | 730 |
 | 79 | Kristi Toliver | 722 |
 | 80 | Cheryl Ford | 713 |
 | 81 | Jia Perkins | 711 |
