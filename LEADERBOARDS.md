@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-23 03:21 UTC_
+_Last updated: 2026-09-23 03:22 UTC_
 
 ## Contents
 
@@ -227,7 +227,7 @@ _Last updated: 2026-09-23 03:21 UTC_
 | 1 | Tina Charles | 4,262 |
 | 2 | Sylvia Fowles | 4,005 |
 | 3 | Candace Parker | 3,467 |
-| 4 | **Nneka Ogwumike** 🔴 +6 | 3,412 |
+| 4 | **Nneka Ogwumike** 🔴 +7 | 3,413 |
 | 5 | Rebekkah Brunson | 3,345 |
 | 6 | Tamika Catchings | 3,313 |
 | 7 | Lisa Leslie | 3,303 |
@@ -295,7 +295,7 @@ _Last updated: 2026-09-23 03:21 UTC_
 | 69 | Tamera Young | 1,433 |
 | 70 | Alana Beard | 1,420 |
 | 71 | Nakia Sanford | 1,419 |
-| 72 | **Kayla Thornton** 🔴 +3 | 1,411 |
+| 72 | **Kayla Thornton** 🔴 +4 | 1,412 |
 | 73 | Allisha Gray | 1,404 |
 | 74 | Courtney Vandersloot | 1,388 |
 | 75 | Kara Braxton | 1,387 |
@@ -1281,7 +1281,7 @@ _Last updated: 2026-09-23 03:21 UTC_
 | 26 | Natasha Howard | 845 |
 | 27 | DeWanna Bonner | 840 |
 | 28 | Katie Douglas | 824 |
-| 29 | **Nneka Ogwumike** 🔴 +1 | 804 |
+| 29 | **Nneka Ogwumike** 🔴 +2 | 805 |
 | 30 | Betty Lennox | 800 |
 | 31 | Jasmine Thomas | 796 |
 | 32 | **Jewell Loyd** 🔴 | 795 |
@@ -1374,8 +1374,8 @@ _Last updated: 2026-09-23 03:21 UTC_
 | 119 | Ebony Hoffman | 470 |
 | 120 | Elaine Powell | 469 |
 | 121 | Allie Quigley | 467 |
-| 122 | **Ariel Atkins** 🔴 +1 | 466 |
 | 122 | **Jackie Young** 🔴 +3 | 466 |
+| 123 | **Ariel Atkins** 🔴 | 465 |
 | 124 | Betnijah Laney-Hamilton | 456 |
 | 125 | Kia Vaughn | 454 |
 | 126 | Janeth Arcain | 453 |
@@ -1532,9 +1532,9 @@ _Last updated: 2026-09-23 03:21 UTC_
 | 72 | Kara Braxton | 748 |
 | 73 | Crystal Langhorne | 737 |
 | 74 | Elizabeth Williams | 735 |
+| 75 | **Ariel Atkins** 🔴 +4 | 734 |
 | 75 | Shameka Christon | 734 |
-| 76 | **Ariel Atkins** 🔴 +3 | 733 |
-| 76 | Becky Hammon | 733 |
+| 77 | Becky Hammon | 733 |
 | 78 | Latasha Byears | 730 |
 | 79 | Kristi Toliver | 722 |
 | 80 | Cheryl Ford | 713 |
