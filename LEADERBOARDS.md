@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-23 02:31 UTC_
+_Last updated: 2026-09-23 02:32 UTC_
 
 ## Contents
 
@@ -129,9 +129,9 @@ _Last updated: 2026-09-23 02:31 UTC_
 | 108 | Ticha Penicheiro | 2,729 |
 | 109 | Adrienne Goodson | 2,705 |
 | 110 | Riquna Williams | 2,659 |
+| 111 | **Cheyenne Parker-Tyus** 🔴 +2 | 2,647 |
 | 111 | Essence Carson | 2,647 |
 | 111 | Lindsey Harding | 2,647 |
-| 113 | **Cheyenne Parker-Tyus** 🔴 +1 | 2,646 |
 | 114 | Tamera Young | 2,641 |
 | 115 | Rhyne Howard | 2,637 |
 | 116 | Liz Cambage | 2,634 |
@@ -1561,7 +1561,7 @@ _Last updated: 2026-09-23 02:31 UTC_
 | 101 | Kelly Miller | 676 |
 | 102 | Chamique Holdsclaw | 667 |
 | 103 | Tianna Hawkins | 662 |
-| 104 | **Kiah Stokes** 🔴 +1 | 652 |
+| 104 | **Kiah Stokes** 🔴 +2 | 653 |
 | 105 | Tari Phillips | 648 |
 | 106 | Marie Ferdinand-Harris | 646 |
 | 107 | **Chelsea Gray** 🔴 | 640 |
