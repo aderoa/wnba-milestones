@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-09-23 01:13 UTC
+
+- **Aari McDonald** passed **Candice Wiggins** for **#162** all-time in assists (career 418) — up from #163 entering today — _8:50 - 3rd — MIN @ IND_
+
 ## 2026-09-21 02:46 UTC
 
 - **Stefanie Dolson** passed **Kelly Miller** for **#77** all-time in turnovers (career 597) — up from #78 entering today — _11.9 - 3rd — SEA @ LV_

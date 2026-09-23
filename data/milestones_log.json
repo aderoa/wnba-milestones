@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-09-23T01:13:00+00:00",
+    "text": "Aari McDonald passed Candice Wiggins for #162 all-time in assists (career 418) \u2014 up from #163 entering today \u2014 (8:50 - 3rd \u2014 MIN @ IND)",
+    "kind": "rank_pass",
+    "player": "Aari McDonald",
+    "stat": "assists",
+    "rank": 162,
+    "passed_players": [
+      "Candice Wiggins"
+    ],
+    "new_total": 418
+  },
+  {
     "ts": "2026-09-21T02:46:00+00:00",
     "text": "Stefanie Dolson passed Kelly Miller for #77 all-time in turnovers (career 597) \u2014 up from #78 entering today \u2014 (11.9 - 3rd \u2014 SEA @ LV)",
     "kind": "rank_pass",
@@ -2961,17 +2973,5 @@
       "Rachel Banham"
     ],
     "new_total": 1845
-  },
-  {
-    "ts": "2026-07-09T03:20:00+00:00",
-    "text": "Nneka Ogwumike passed Dawn Staley for #87 all-time in three-pointers (career 255) \u2014 up from #89 entering today \u2014 (5:36 - 3rd \u2014 IND @ LA)",
-    "kind": "rank_pass",
-    "player": "Nneka Ogwumike",
-    "stat": "three-pointers",
-    "rank": 87,
-    "passed_players": [
-      "Dawn Staley"
-    ],
-    "new_total": 255
   }
 ]

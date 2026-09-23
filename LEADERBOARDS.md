@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-23 01:12 UTC_
+_Last updated: 2026-09-23 01:13 UTC_
 
 ## Contents
 
@@ -590,9 +590,9 @@ _Last updated: 2026-09-23 01:12 UTC_
 | 157 | Elena Baranova | 430 |
 | 159 | Tierra Ruffin-Pratt | 424 |
 | 160 | Kedra Holland-Corn | 423 |
+| 161 | **Aari McDonald** 🔴 +3 | 418 |
 | 161 | Crystal Dangerfield | 418 |
-| 162 | **Aari McDonald** 🔴 +2 | 417 |
-| 162 | Candice Wiggins | 417 |
+| 163 | Candice Wiggins | 417 |
 | 164 | Erin Thorn | 414 |
 | 165 | Jamierra Faulkner | 410 |
 | 165 | **Kia Nurse** 🔴 +3 | 410 |
