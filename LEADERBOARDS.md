@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-23 02:19 UTC_
+_Last updated: 2026-09-23 02:20 UTC_
 
 ## Contents
 
@@ -58,7 +58,7 @@ _Last updated: 2026-09-23 02:19 UTC_
 | 37 | Chamique Holdsclaw | 4,713 |
 | 38 | Elena Delle Donne | 4,706 |
 | 39 | Natasha Howard | 4,688 |
-| 40 | **Chelsea Gray** 🔴 +2 | 4,627 |
+| 40 | **Chelsea Gray** 🔴 +4 | 4,629 |
 | 41 | Penny Taylor | 4,595 |
 | 42 | Kelsey Plum | 4,494 |
 | 43 | Allisha Gray | 4,491 |
@@ -83,7 +83,7 @@ _Last updated: 2026-09-23 02:19 UTC_
 | 62 | Allie Quigley | 3,786 |
 | 63 | Chasity Melvin | 3,781 |
 | 64 | Brittney Sykes | 3,726 |
-| 65 | **Jackie Young** 🔴 | 3,698 |
+| 65 | **Jackie Young** 🔴 +3 | 3,701 |
 | 66 | Kara Lawson | 3,670 |
 | 67 | Mwadi Mabika | 3,576 |
 | 68 | Odyssey Sims | 3,574 |
@@ -538,7 +538,7 @@ _Last updated: 2026-09-23 02:19 UTC_
 | 106 | Betnijah Laney-Hamilton | 590 |
 | 106 | Camille Smith | 590 |
 | 108 | Armintie Herrington | 589 |
-| 109 | **Veronica Burton** 🔴 +2 | 581 |
+| 109 | **Veronica Burton** 🔴 +3 | 582 |
 | 110 | Tan White | 578 |
 | 111 | Matee Ajavon | 577 |
 | 112 | Napheesa Collier | 570 |
@@ -1101,7 +1101,7 @@ _Last updated: 2026-09-23 02:19 UTC_
 | 51 | Kahleah Copper | 370 |
 | 52 | Epiphanny Prince | 368 |
 | 53 | Nykesha Sales | 352 |
-| 54 | **Jackie Young** 🔴 | 346 |
+| 54 | **Jackie Young** 🔴 +1 | 347 |
 | 55 | Natasha Cloud | 345 |
 | 56 | Cathrine Kraayeveld | 343 |
 | 56 | Elena Delle Donne | 343 |
@@ -1238,8 +1238,8 @@ _Last updated: 2026-09-23 02:19 UTC_
 | 187 | Rickea Jackson | 114 |
 | 187 | Sandy Brondello | 114 |
 | 190 | **Cecilia Zandalasini** 🔴 +1 | 112 |
-| 191 | **Janelle Salaun** 🔴 | 111 |
-| 191 | Shoni Schimmel | 111 |
+| 190 | **Janelle Salaun** 🔴 +1 | 112 |
+| 192 | Shoni Schimmel | 111 |
 | 193 | Emma Meesseman | 109 |
 | 193 | Scholanda Dorrell | 109 |
 | 195 | Belinda Snell | 108 |
