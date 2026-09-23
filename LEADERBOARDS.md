@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-23 01:25 UTC_
+_Last updated: 2026-09-23 01:26 UTC_
 
 ## Contents
 
@@ -385,7 +385,7 @@ _Last updated: 2026-09-23 01:25 UTC_
 | 159 | Krystal Thomas | 862 |
 | 160 | Naz Hillmon | 859 |
 | 161 | Leilani Mitchell | 845 |
-| 162 | **Shakira Austin** 🔴 +12 | 844 |
+| 161 | **Shakira Austin** 🔴 +13 | 845 |
 | 163 | Essence Carson | 833 |
 | 164 | Gabby Williams | 831 |
 | 165 | Kristi Toliver | 829 |
@@ -1028,9 +1028,9 @@ _Last updated: 2026-09-23 01:25 UTC_
 | 182 | Tiffany Jackson | 185 |
 | 184 | Erin Perperoglou | 184 |
 | 184 | Sabrina Ionescu | 184 |
+| 186 | **Monique Billings** 🔴 +1 | 183 |
 | 186 | Rebecca Allen | 183 |
-| 187 | Erin Phillips | 182 |
-| 187 | **Monique Billings** 🔴 | 182 |
+| 188 | Erin Phillips | 182 |
 | 189 | Nakia Sanford | 181 |
 | 190 | Diamond DeShields | 180 |
 | 191 | Kiah Stokes | 178 |
