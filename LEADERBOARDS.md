@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-23 00:32 UTC_
+_Last updated: 2026-09-23 00:33 UTC_
 
 ## Contents
 
@@ -57,7 +57,7 @@ _Last updated: 2026-09-23 00:32 UTC_
 | 36 | Arike Ogunbowale | 4,715 |
 | 37 | Chamique Holdsclaw | 4,713 |
 | 38 | Elena Delle Donne | 4,706 |
-| 39 | **Natasha Howard** 🔴 +2 | 4,684 |
+| 39 | **Natasha Howard** 🔴 +4 | 4,686 |
 | 40 | Chelsea Gray | 4,625 |
 | 41 | Penny Taylor | 4,595 |
 | 42 | Kelsey Plum | 4,494 |
@@ -186,7 +186,7 @@ _Last updated: 2026-09-23 00:32 UTC_
 | 165 | Chiney Ogwumike | 1,964 |
 | 166 | Nicole Ohlde | 1,959 |
 | 167 | **Myisha Hines-Allen** 🔴 | 1,956 |
-| 168 | **Isabelle Harrison** 🔴 +9 | 1,941 |
+| 168 | **Isabelle Harrison** 🔴 +12 | 1,944 |
 | 169 | Kedra Holland-Corn | 1,938 |
 | 170 | Cathrine Kraayeveld | 1,926 |
 | 171 | Roneeka Hodges | 1,925 |
@@ -200,7 +200,7 @@ _Last updated: 2026-09-23 00:32 UTC_
 | 179 | NaLyssa Smith | 1,879 |
 | 180 | **Rachel Banham** 🔴 +3 | 1,846 |
 | 181 | Damiris Dantas | 1,842 |
-| 182 | **Sophie Cunningham** 🔴 | 1,829 |
+| 182 | **Sophie Cunningham** 🔴 +3 | 1,832 |
 | 183 | Tianna Hawkins | 1,825 |
 | 184 | Noelle Quinn | 1,824 |
 | 185 | Danielle Adams | 1,820 |
@@ -324,8 +324,8 @@ _Last updated: 2026-09-23 00:32 UTC_
 | 98 | Seimone Augustus | 1,228 |
 | 99 | Jia Perkins | 1,220 |
 | 100 | Kahleah Copper | 1,204 |
-| 101 | **Aliyah Boston** 🔴 +1 | 1,199 |
-| 101 | DeMya Walker | 1,199 |
+| 101 | **Aliyah Boston** 🔴 +2 | 1,200 |
+| 102 | DeMya Walker | 1,199 |
 | 103 | Latasha Byears | 1,190 |
 | 103 | Tanisha Wright | 1,190 |
 | 105 | Vicky Bullett | 1,189 |
@@ -496,7 +496,7 @@ _Last updated: 2026-09-23 00:32 UTC_
 | 64 | Lisa Leslie | 873 |
 | 65 | Brittney Sykes | 866 |
 | 66 | Tully Bevilaqua | 853 |
-| 67 | **Kelsey Mitchell** 🔴 +1 | 848 |
+| 67 | **Kelsey Mitchell** 🔴 +2 | 849 |
 | 68 | Jia Perkins | 837 |
 | 69 | Andrea Stinson | 810 |
 | 70 | Tina Thompson | 803 |
@@ -578,7 +578,7 @@ _Last updated: 2026-09-23 00:32 UTC_
 | 145 | Kristi Harrower | 450 |
 | 145 | Nikki McCray | 450 |
 | 148 | Ruth Riley | 449 |
-| 149 | **Julie Allemand** 🔴 +3 | 447 |
+| 149 | **Julie Allemand** 🔴 +4 | 448 |
 | 150 | DeMya Walker | 446 |
 | 151 | Essence Carson | 445 |
 | 152 | Michelle Snow | 437 |
@@ -1108,8 +1108,8 @@ _Last updated: 2026-09-23 00:32 UTC_
 | 58 | Candace Parker | 342 |
 | 59 | Deanna Nolan | 340 |
 | 60 | Erica Wheeler | 337 |
-| 61 | Anna DeForge | 334 |
-| 61 | **Sophie Cunningham** 🔴 | 334 |
+| 61 | **Sophie Cunningham** 🔴 +1 | 335 |
+| 62 | Anna DeForge | 334 |
 | 63 | Natisha Hiedeman | 328 |
 | 64 | Sugar Rodgers | 317 |
 | 65 | Marissa Coleman | 315 |
@@ -1569,8 +1569,8 @@ _Last updated: 2026-09-23 00:32 UTC_
 | 109 | Teaira McCowan | 637 |
 | 110 | Janell Burse | 632 |
 | 111 | Nicole Ohlde | 631 |
-| 112 | Jennifer Gillom | 629 |
-| 112 | **Kelsey Mitchell** 🔴 | 629 |
+| 112 | **Kelsey Mitchell** 🔴 +1 | 630 |
+| 113 | Jennifer Gillom | 629 |
 | 114 | Deanna Nolan | 628 |
 | 115 | Brionna Jones | 625 |
 | 116 | Courtney Paris | 617 |
