@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-23 03:51 UTC_
+_Last updated: 2026-09-23 03:52 UTC_
 
 ## Contents
 
@@ -83,7 +83,7 @@ _Last updated: 2026-09-23 03:51 UTC_
 | 62 | Allie Quigley | 3,786 |
 | 63 | Chasity Melvin | 3,781 |
 | 64 | Brittney Sykes | 3,726 |
-| 65 | **Jackie Young** 🔴 +9 | 3,707 |
+| 65 | **Jackie Young** 🔴 +11 | 3,709 |
 | 66 | Kara Lawson | 3,670 |
 | 67 | Mwadi Mabika | 3,576 |
 | 68 | Odyssey Sims | 3,574 |
@@ -94,7 +94,7 @@ _Last updated: 2026-09-23 03:51 UTC_
 | 73 | Jasmine Thomas | 3,522 |
 | 74 | Tamecka Dixon | 3,507 |
 | 75 | Tammy Sutton-Brown | 3,498 |
-| 76 | **Ariel Atkins** 🔴 +7 | 3,488 |
+| 76 | **Ariel Atkins** 🔴 +9 | 3,490 |
 | 77 | Sancho Lyttle | 3,478 |
 | 78 | Ivory Latta | 3,447 |
 | 79 | Nicole Powell | 3,407 |
@@ -395,8 +395,8 @@ _Last updated: 2026-09-23 03:51 UTC_
 | 168 | Barbara Farris | 819 |
 | 170 | Carolyn Swords | 814 |
 | 171 | Betnijah Laney-Hamilton | 812 |
-| 172 | **Ariel Atkins** 🔴 +1 | 799 |
-| 172 | Tierra Ruffin-Pratt | 799 |
+| 172 | **Ariel Atkins** 🔴 +2 | 800 |
+| 173 | Tierra Ruffin-Pratt | 799 |
 | 174 | Charlotte Smith | 794 |
 | 175 | Rhonda Mapp | 788 |
 | 176 | Mercedes Russell | 786 |
@@ -781,8 +781,8 @@ _Last updated: 2026-09-23 03:51 UTC_
 | 143 | Kayla Alexander | 91 |
 | 145 | Allie Quigley | 90 |
 | 145 | Alysha Clark | 90 |
-| 147 | Natasha Cloud | 89 |
-| 147 | **Tiffany Hayes** 🔴 | 89 |
+| 145 | **Tiffany Hayes** 🔴 +1 | 90 |
+| 148 | Natasha Cloud | 89 |
 | 149 | Marissa Coleman | 88 |
 | 150 | Astou Ndiaye-Diatta | 86 |
 | 151 | Adrian Williams-Strong | 85 |
@@ -830,7 +830,7 @@ _Last updated: 2026-09-23 03:51 UTC_
 | 193 | Mercedes Russell | 69 |
 | 193 | Rhonda Mapp | 69 |
 | 193 | Satou Sabally | 69 |
-| 196 | **Veronica Burton** 🔴 +1 | 68 |
+| 193 | **Veronica Burton** 🔴 +2 | 69 |
 | 197 | Shannon Johnson | 67 |
 | 198 | Kennedy Burke | 66 |
 | 199 | Crystal Robinson | 65 |
