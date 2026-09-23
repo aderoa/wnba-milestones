@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-23 03:59 UTC_
+_Last updated: 2026-09-23 04:00 UTC_
 
 ## Contents
 
@@ -22,7 +22,7 @@ _Last updated: 2026-09-23 03:59 UTC_
 | 1 | Diana Taurasi | 10,608 |
 | 2 | Tina Charles | 8,396 |
 | 3 | DeWanna Bonner | 7,972 |
-| 4 | **Nneka Ogwumike** 🔴 +15 | 7,578 |
+| 4 | **Nneka Ogwumike** 🔴 +17 | 7,580 |
 | 5 | Tina Thompson | 7,470 |
 | 6 | Tamika Catchings | 7,371 |
 | 7 | Candice Dupree | 6,861 |
@@ -301,7 +301,7 @@ _Last updated: 2026-09-23 03:59 UTC_
 | 75 | Kara Braxton | 1,387 |
 | 76 | Katie Smith | 1,383 |
 | 77 | Ebony Hoffman | 1,376 |
-| 78 | **Jewell Loyd** 🔴 +3 | 1,374 |
+| 78 | **Jewell Loyd** 🔴 +2 | 1,373 |
 | 79 | Sheri Sam | 1,356 |
 | 80 | Tamika Whitmore | 1,355 |
 | 81 | Emma Meesseman | 1,350 |
@@ -612,8 +612,8 @@ _Last updated: 2026-09-23 03:59 UTC_
 | 180 | Shenise Johnson | 376 |
 | 181 | Alanna Smith | 374 |
 | 182 | Suzie McConnell Serio | 370 |
-| 183 | Damiris Dantas | 368 |
-| 183 | **Kayla Thornton** 🔴 | 368 |
+| 183 | **Kayla Thornton** 🔴 +1 | 369 |
+| 184 | Damiris Dantas | 368 |
 | 185 | Roneeka Hodges | 362 |
 | 186 | Andrea Nagy | 361 |
 | 186 | Diamond DeShields | 361 |
@@ -927,8 +927,8 @@ _Last updated: 2026-09-23 03:59 UTC_
 | 81 | Leilani Mitchell | 330 |
 | 83 | Courtney Williams | 329 |
 | 83 | Kristi Toliver | 329 |
+| 85 | **Gabby Williams** 🔴 +2 | 328 |
 | 85 | Matee Ajavon | 328 |
-| 86 | **Gabby Williams** 🔴 +1 | 327 |
 | 87 | Napheesa Collier | 325 |
 | 88 | Betty Lennox | 323 |
 | 89 | Tammy Sutton-Brown | 319 |
