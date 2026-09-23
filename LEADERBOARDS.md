@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-23 03:23 UTC_
+_Last updated: 2026-09-23 03:24 UTC_
 
 ## Contents
 
@@ -516,8 +516,8 @@ _Last updated: 2026-09-23 03:23 UTC_
 | 84 | **Ariel Atkins** 🔴 +1 | 683 |
 | 85 | Emma Meesseman | 681 |
 | 86 | Nykesha Sales | 677 |
+| 87 | **A'ja Wilson** 🔴 +1 | 668 |
 | 87 | Natisha Hiedeman | 668 |
-| 88 | **A'ja Wilson** 🔴 | 667 |
 | 89 | Bria Hartley | 661 |
 | 90 | Brittney Griner | 660 |
 | 91 | Lindsay Allen | 657 |
@@ -1549,10 +1549,10 @@ _Last updated: 2026-09-23 03:23 UTC_
 | 89 | Danielle Robinson | 692 |
 | 90 | Sophia Young-Malcolm | 687 |
 | 91 | **Cheyenne Parker-Tyus** 🔴 +1 | 686 |
+| 91 | **Kayla Thornton** 🔴 +4 | 686 |
 | 91 | Maya Moore | 686 |
-| 93 | Breanna Stewart | 685 |
-| 93 | Jasmine Thomas | 685 |
-| 93 | **Kayla Thornton** 🔴 +3 | 685 |
+| 94 | Breanna Stewart | 685 |
+| 94 | Jasmine Thomas | 685 |
 | 96 | **Jewell Loyd** 🔴 | 684 |
 | 96 | Leilani Mitchell | 684 |
 | 98 | Crystal Robinson | 682 |
