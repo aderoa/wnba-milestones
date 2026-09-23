@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-23 03:56 UTC_
+_Last updated: 2026-09-23 03:57 UTC_
 
 ## Contents
 
@@ -194,8 +194,8 @@ _Last updated: 2026-09-23 03:56 UTC_
 | 173 | Karima Christmas-Kelly | 1,919 |
 | 174 | Jessica Breland | 1,918 |
 | 175 | Nakia Sanford | 1,915 |
-| 176 | Ebony Hoffman | 1,909 |
-| 176 | **Gabby Williams** 🔴 +10 | 1,909 |
+| 176 | **Gabby Williams** 🔴 +13 | 1,912 |
+| 177 | Ebony Hoffman | 1,909 |
 | 178 | Candice Wiggins | 1,901 |
 | 179 | NaLyssa Smith | 1,879 |
 | 180 | Rachel Banham | 1,846 |
@@ -237,7 +237,7 @@ _Last updated: 2026-09-23 03:56 UTC_
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | Alyssa Thomas | 2,858 |
 | 13 | Jonquel Jones | 2,728 |
-| 14 | **A'ja Wilson** 🔴 +10 | 2,667 |
+| 14 | **A'ja Wilson** 🔴 +9 | 2,666 |
 | 15 | Breanna Stewart | 2,632 |
 | 16 | Sancho Lyttle | 2,596 |
 | 17 | Brittney Griner | 2,579 |
@@ -538,7 +538,7 @@ _Last updated: 2026-09-23 03:56 UTC_
 | 106 | Betnijah Laney-Hamilton | 590 |
 | 106 | Camille Smith | 590 |
 | 108 | Armintie Herrington | 589 |
-| 109 | **Veronica Burton** 🔴 +7 | 586 |
+| 109 | **Veronica Burton** 🔴 +8 | 587 |
 | 110 | Tan White | 578 |
 | 111 | Matee Ajavon | 577 |
 | 112 | Napheesa Collier | 570 |
@@ -1190,10 +1190,10 @@ _Last updated: 2026-09-23 03:56 UTC_
 | 140 | Jennifer Azzi | 158 |
 | 140 | Natasha Howard | 158 |
 | 142 | Alanna Smith | 156 |
-| 143 | Bridget Pettis | 153 |
-| 143 | **Gabby Williams** 🔴 | 153 |
-| 143 | Jennifer Gillom | 153 |
-| 143 | Katie Lou Samuelson | 153 |
+| 143 | **Gabby Williams** 🔴 +1 | 154 |
+| 144 | Bridget Pettis | 153 |
+| 144 | Jennifer Gillom | 153 |
+| 144 | Katie Lou Samuelson | 153 |
 | 147 | Michaela Onyenwere | 152 |
 | 148 | Rita Williams | 150 |
 | 149 | Moriah Jefferson | 149 |
@@ -1449,8 +1449,8 @@ _Last updated: 2026-09-23 03:56 UTC_
 | 193 | Azurá Stevens | 304 |
 | 194 | Tianna Hawkins | 303 |
 | 195 | Rachel Banham | 302 |
-| 196 | Crystal Robinson | 299 |
-| 196 | **Kayla Thornton** 🔴 +1 | 299 |
+| 196 | **Kayla Thornton** 🔴 +2 | 300 |
+| 197 | Crystal Robinson | 299 |
 | 198 | Michele Timms | 297 |
 | 199 | Damiris Dantas | 289 |
 | 199 | Nia Coffey | 289 |
@@ -1549,9 +1549,9 @@ _Last updated: 2026-09-23 03:56 UTC_
 | 88 | Katie Douglas | 697 |
 | 89 | Danielle Robinson | 692 |
 | 90 | **Cheyenne Parker-Tyus** 🔴 +3 | 688 |
+| 91 | **Kayla Thornton** 🔴 +5 | 687 |
 | 91 | Sophia Young-Malcolm | 687 |
-| 92 | **Kayla Thornton** 🔴 +4 | 686 |
-| 92 | Maya Moore | 686 |
+| 93 | Maya Moore | 686 |
 | 94 | Breanna Stewart | 685 |
 | 94 | Jasmine Thomas | 685 |
 | 96 | **Jewell Loyd** 🔴 | 684 |
