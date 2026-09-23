@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-23 02:00 UTC_
+_Last updated: 2026-09-23 02:01 UTC_
 
 ## Contents
 
@@ -45,7 +45,7 @@ _Last updated: 2026-09-23 02:00 UTC_
 | 24 | DeLisha Milton-Jones | 5,571 |
 | 25 | Katie Douglas | 5,545 |
 | 26 | Lindsay Whalen | 5,511 |
-| 27 | **Kelsey Mitchell** 🔴 +17 | 5,215 |
+| 27 | **Kelsey Mitchell** 🔴 +20 | 5,218 |
 | 28 | Swin Cash | 5,119 |
 | 29 | Tiffany Hayes | 5,049 |
 | 30 | Tangela Smith | 5,035 |
@@ -200,7 +200,7 @@ _Last updated: 2026-09-23 02:00 UTC_
 | 179 | NaLyssa Smith | 1,879 |
 | 180 | Rachel Banham | 1,846 |
 | 181 | Damiris Dantas | 1,842 |
-| 182 | **Sophie Cunningham** 🔴 +9 | 1,838 |
+| 182 | **Sophie Cunningham** 🔴 +11 | 1,840 |
 | 183 | Tianna Hawkins | 1,825 |
 | 184 | Noelle Quinn | 1,824 |
 | 185 | Danielle Adams | 1,820 |
@@ -532,7 +532,7 @@ _Last updated: 2026-09-23 02:00 UTC_
 | 100 | **Natasha Howard** 🔴 +3 | 618 |
 | 101 | Debbie Black | 612 |
 | 102 | Cynthia Cooper | 602 |
-| 103 | **Caitlin Clark** 🔴 +8 | 599 |
+| 103 | **Caitlin Clark** 🔴 +9 | 600 |
 | 104 | Sancho Lyttle | 592 |
 | 105 | Gabby Williams | 591 |
 | 106 | Betnijah Laney-Hamilton | 590 |
@@ -586,8 +586,8 @@ _Last updated: 2026-09-23 02:00 UTC_
 | 154 | Lauren Jackson | 435 |
 | 155 | Adrienne Goodson | 433 |
 | 155 | Crystal Langhorne | 433 |
-| 157 | **Aliyah Boston** 🔴 +2 | 430 |
-| 157 | Elena Baranova | 430 |
+| 157 | **Aliyah Boston** 🔴 +3 | 431 |
+| 158 | Elena Baranova | 430 |
 | 159 | Tierra Ruffin-Pratt | 424 |
 | 160 | Kedra Holland-Corn | 423 |
 | 161 | **Aari McDonald** 🔴 +5 | 420 |
@@ -1055,7 +1055,7 @@ _Last updated: 2026-09-23 02:00 UTC_
 | 5 | **Kayla McBride** 🔴 | 756 |
 | 6 | Tina Thompson | 745 |
 | 7 | Katie Douglas | 723 |
-| 8 | **Kelsey Mitchell** 🔴 +1 | 713 |
+| 8 | **Kelsey Mitchell** 🔴 +2 | 714 |
 | 9 | Jewell Loyd | 695 |
 | 10 | DeWanna Bonner | 682 |
 | 11 | Kristi Toliver | 651 |
@@ -1186,9 +1186,9 @@ _Last updated: 2026-09-23 02:00 UTC_
 | 136 | Dana Evans | 160 |
 | 136 | Jennifer Lacy | 160 |
 | 136 | Stephanie Talbot | 160 |
-| 139 | **Aari McDonald** 🔴 | 158 |
-| 139 | Jennifer Azzi | 158 |
-| 139 | **Natasha Howard** 🔴 | 158 |
+| 139 | **Aari McDonald** 🔴 +1 | 159 |
+| 140 | Jennifer Azzi | 158 |
+| 140 | **Natasha Howard** 🔴 | 158 |
 | 142 | Alanna Smith | 156 |
 | 143 | Bridget Pettis | 153 |
 | 143 | Gabby Williams | 153 |

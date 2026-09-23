@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-09-23 02:01 UTC
+
+- **Aari McDonald** passed **Jennifer Azzi** and **Natasha Howard** for **#140** all-time in three-pointers (career 159) — _1:08 - 4th — MIN @ IND_
+
 ## 2026-09-23 01:25 UTC
 
 - **Aari McDonald** passed **Crystal Dangerfield** for **#161** all-time in assists (career 419) — up from #163 entering today — _5:23 - 3rd — MIN @ IND_
