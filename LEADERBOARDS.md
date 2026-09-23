@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-23 02:47 UTC_
+_Last updated: 2026-09-23 02:48 UTC_
 
 ## Contents
 
@@ -58,7 +58,7 @@ _Last updated: 2026-09-23 02:47 UTC_
 | 37 | Chamique Holdsclaw | 4,713 |
 | 38 | Elena Delle Donne | 4,706 |
 | 39 | Natasha Howard | 4,688 |
-| 40 | **Chelsea Gray** 🔴 +6 | 4,631 |
+| 40 | **Chelsea Gray** 🔴 +9 | 4,634 |
 | 41 | Penny Taylor | 4,595 |
 | 42 | Kelsey Plum | 4,494 |
 | 43 | Allisha Gray | 4,491 |
@@ -227,7 +227,7 @@ _Last updated: 2026-09-23 02:47 UTC_
 | 1 | Tina Charles | 4,262 |
 | 2 | Sylvia Fowles | 4,005 |
 | 3 | Candace Parker | 3,467 |
-| 4 | **Nneka Ogwumike** 🔴 +2 | 3,408 |
+| 4 | **Nneka Ogwumike** 🔴 +3 | 3,409 |
 | 5 | Rebekkah Brunson | 3,345 |
 | 6 | Tamika Catchings | 3,313 |
 | 7 | Lisa Leslie | 3,303 |
@@ -237,7 +237,7 @@ _Last updated: 2026-09-23 02:47 UTC_
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | Alyssa Thomas | 2,858 |
 | 13 | Jonquel Jones | 2,728 |
-| 14 | **A'ja Wilson** 🔴 +3 | 2,660 |
+| 14 | **A'ja Wilson** 🔴 +4 | 2,661 |
 | 15 | Breanna Stewart | 2,632 |
 | 16 | Sancho Lyttle | 2,596 |
 | 17 | Brittney Griner | 2,579 |
@@ -378,7 +378,7 @@ _Last updated: 2026-09-23 02:47 UTC_
 | 152 | Natalie Achonwa | 895 |
 | 153 | Temeka Johnson | 889 |
 | 154 | Mistie Bass | 888 |
-| 155 | **Erica Wheeler** 🔴 +1 | 883 |
+| 155 | **Erica Wheeler** 🔴 +2 | 884 |
 | 156 | Alanna Smith | 878 |
 | 157 | Marina Mabrey | 874 |
 | 158 | Shameka Christon | 867 |
@@ -387,7 +387,7 @@ _Last updated: 2026-09-23 02:47 UTC_
 | 161 | Leilani Mitchell | 845 |
 | 161 | Shakira Austin | 845 |
 | 163 | Essence Carson | 833 |
-| 164 | **Gabby Williams** 🔴 +1 | 832 |
+| 163 | **Gabby Williams** 🔴 +2 | 833 |
 | 165 | Kristi Toliver | 829 |
 | 166 | Marie Ferdinand-Harris | 828 |
 | 167 | Marlies Askamp | 822 |
@@ -451,7 +451,7 @@ _Last updated: 2026-09-23 02:47 UTC_
 | 19 | Jasmine Thomas | 1,355 |
 | 20 | Briann January | 1,339 |
 | 21 | Dawn Staley | 1,337 |
-| 22 | **Erica Wheeler** 🔴 +1 | 1,336 |
+| 21 | **Erica Wheeler** 🔴 +2 | 1,337 |
 | 23 | Teresa Weatherspoon | 1,333 |
 | 24 | Kristi Toliver | 1,301 |
 | 25 | Kelsey Plum | 1,270 |
@@ -607,7 +607,7 @@ _Last updated: 2026-09-23 02:47 UTC_
 | 174 | Tamicha Jackson | 389 |
 | 176 | Riquna Williams | 387 |
 | 177 | **Bridget Carleton** 🔴 | 384 |
-| 178 | **Dana Evans** 🔴 | 379 |
+| 178 | **Dana Evans** 🔴 +1 | 380 |
 | 179 | Jessica Breland | 377 |
 | 180 | Shenise Johnson | 376 |
 | 181 | Alanna Smith | 374 |
@@ -1078,7 +1078,7 @@ _Last updated: 2026-09-23 02:47 UTC_
 | 28 | Allisha Gray | 458 |
 | 29 | **Ariel Atkins** 🔴 | 455 |
 | 30 | **Tiffany Hayes** 🔴 | 454 |
-| 31 | **Chelsea Gray** 🔴 | 450 |
+| 31 | **Chelsea Gray** 🔴 +1 | 451 |
 | 32 | Skylar Diggins | 447 |
 | 33 | Lauren Jackson | 436 |
 | 34 | Shameka Christon | 434 |
@@ -1561,7 +1561,7 @@ _Last updated: 2026-09-23 02:47 UTC_
 | 101 | Kelly Miller | 676 |
 | 102 | Chamique Holdsclaw | 667 |
 | 103 | Tianna Hawkins | 662 |
-| 104 | **Kiah Stokes** 🔴 +3 | 654 |
+| 104 | **Kiah Stokes** 🔴 +2 | 653 |
 | 105 | Tari Phillips | 648 |
 | 106 | Marie Ferdinand-Harris | 646 |
 | 107 | **Chelsea Gray** 🔴 | 640 |
