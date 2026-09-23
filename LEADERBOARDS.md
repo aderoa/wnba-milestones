@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-23 04:31 UTC_
+_Last updated: 2026-09-23 04:32 UTC_
 
 ## Contents
 
@@ -218,7 +218,7 @@ _Last updated: 2026-09-23 04:31 UTC_
 | 197 | Le'coe Willingham | 1,552 |
 | 198 | Shatori Walker-Kimbrough | 1,544 |
 | 199 | Rebecca Allen | 1,529 |
-| 200 | **Bridget Carleton** 🔴 +25 | 1,510 |
+| 200 | **Bridget Carleton** 🔴 +26 | 1,511 |
 
 ## Rebounds
 
