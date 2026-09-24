@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-24 04:16 UTC_
+_Last updated: 2026-09-24 04:17 UTC_
 
 ## Contents
 
@@ -180,7 +180,7 @@ _Last updated: 2026-09-24 04:16 UTC_
 | 159 | Coco Miller | 2,030 |
 | 160 | Diamond DeShields | 2,026 |
 | 161 | Vicky Bullett | 2,018 |
-| 162 | **Natisha Hiedeman** 🔴 +9 | 2,011 |
+| 162 | **Natisha Hiedeman** 🔴 +10 | 2,012 |
 | 163 | Ezi Magbegor | 1,995 |
 | 164 | Bria Hartley | 1,967 |
 | 165 | Chiney Ogwumike | 1,964 |
@@ -477,7 +477,7 @@ _Last updated: 2026-09-24 04:16 UTC_
 | 46 | Breanna Stewart | 981 |
 | 47 | Tamecka Dixon | 960 |
 | 48 | Tiffany Hayes | 957 |
-| 49 | **Arike Ogunbowale** 🔴 +6 | 950 |
+| 49 | **Arike Ogunbowale** 🔴 +7 | 951 |
 | 50 | Kara Lawson | 946 |
 | 51 | Nneka Ogwumike | 933 |
 | 52 | Deanna Nolan | 930 |
@@ -791,10 +791,10 @@ _Last updated: 2026-09-24 04:16 UTC_
 | 155 | Charde Houston | 84 |
 | 155 | Marina Mabrey | 84 |
 | 155 | Shatori Walker-Kimbrough | 84 |
+| 158 | **Awak Kuier** 🔴 +3 | 83 |
 | 158 | Tamera Young | 83 |
-| 159 | **Awak Kuier** 🔴 +2 | 82 |
-| 159 | Cameron Brink | 82 |
-| 159 | Damiris Dantas | 82 |
+| 160 | Cameron Brink | 82 |
+| 160 | Damiris Dantas | 82 |
 | 162 | Charlotte Smith | 81 |
 | 162 | Cintia dos Santos | 81 |
 | 162 | Jessie Hicks | 81 |
