@@ -60,8 +60,8 @@ _Last updated: 2026-09-24 00:13 UTC_
 | 39 | Natasha Howard | 4,682 |
 | 40 | Chelsea Gray | 4,625 |
 | 41 | Penny Taylor | 4,595 |
-| 42 | **Allisha Gray** 🔴 +3 | 4,494 |
-| 42 | Kelsey Plum | 4,494 |
+| 42 | **Allisha Gray** 🔴 +4 | 4,495 |
+| 43 | Kelsey Plum | 4,494 |
 | 44 | Kristi Toliver | 4,474 |
 | 45 | Kahleah Copper | 4,437 |
 | 46 | Crystal Langhorne | 4,433 |
