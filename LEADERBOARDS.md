@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-24 03:56 UTC_
+_Last updated: 2026-09-24 03:57 UTC_
 
 ## Contents
 
@@ -85,8 +85,8 @@ _Last updated: 2026-09-24 03:56 UTC_
 | 64 | Brittney Sykes | 3,726 |
 | 65 | Jackie Young | 3,698 |
 | 66 | Kara Lawson | 3,670 |
-| 67 | Mwadi Mabika | 3,576 |
-| 67 | **Odyssey Sims** 🔴 +2 | 3,576 |
+| 67 | **Odyssey Sims** 🔴 +3 | 3,577 |
+| 68 | Mwadi Mabika | 3,576 |
 | 69 | Camille Smith | 3,551 |
 | 70 | Napheesa Collier | 3,542 |
 | 70 | Shannon Johnson | 3,542 |
@@ -351,8 +351,8 @@ _Last updated: 2026-09-24 03:56 UTC_
 | 125 | Tamecka Dixon | 1,035 |
 | 126 | Kamila Vodichkova | 1,031 |
 | 127 | Jasmine Thomas | 1,027 |
+| 128 | **Jessica Shepard** 🔴 +8 | 1,024 |
 | 128 | Sabrina Ionescu | 1,024 |
-| 129 | **Jessica Shepard** 🔴 +7 | 1,023 |
 | 130 | Cathrine Kraayeveld | 1,013 |
 | 131 | Kelly Miller | 1,011 |
 | 131 | Noelle Quinn | 1,011 |
@@ -920,7 +920,7 @@ _Last updated: 2026-09-24 03:56 UTC_
 | 76 | Andrea Stinson | 342 |
 | 77 | Armintie Herrington | 340 |
 | 78 | Dawn Staley | 338 |
-| 79 | **Odyssey Sims** 🔴 | 334 |
+| 79 | **Odyssey Sims** 🔴 +1 | 335 |
 | 80 | Marie Ferdinand-Harris | 331 |
 | 81 | Chasity Melvin | 330 |
 | 81 | Leilani Mitchell | 330 |
