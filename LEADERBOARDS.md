@@ -267,7 +267,7 @@ _Last updated: 2026-09-24 02:27 UTC_
 | 41 | Lindsay Whalen | 1,805 |
 | 42 | Camille Smith | 1,802 |
 | 43 | Asjha Jones | 1,751 |
-| 44 | **Stefanie Dolson** 🔴 | 1,703 |
+| 44 | **Stefanie Dolson** 🔴 +1 | 1,704 |
 | 45 | Teaira McCowan | 1,694 |
 | 46 | Monique Currie | 1,666 |
 | 47 | Glory Johnson | 1,640 |
