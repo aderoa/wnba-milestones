@@ -792,12 +792,12 @@ _Last updated: 2026-09-24 03:26 UTC_
 | 155 | Marina Mabrey | 84 |
 | 155 | Shatori Walker-Kimbrough | 84 |
 | 158 | Tamera Young | 83 |
+| 159 | **Awak Kuier** 🔴 +2 | 82 |
 | 159 | Cameron Brink | 82 |
 | 159 | Damiris Dantas | 82 |
-| 161 | **Awak Kuier** 🔴 +1 | 81 |
-| 161 | Charlotte Smith | 81 |
-| 161 | Cintia dos Santos | 81 |
-| 161 | Jessie Hicks | 81 |
+| 162 | Charlotte Smith | 81 |
+| 162 | Cintia dos Santos | 81 |
+| 162 | Jessie Hicks | 81 |
 | 165 | Nykesha Sales | 80 |
 | 165 | Rushia Brown | 80 |
 | 167 | Stephanie Talbot | 79 |
