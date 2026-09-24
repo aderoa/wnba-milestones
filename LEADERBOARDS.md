@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-24 00:16 UTC_
+_Last updated: 2026-09-24 00:17 UTC_
 
 ## Contents
 
@@ -132,8 +132,8 @@ _Last updated: 2026-09-24 00:16 UTC_
 | 111 | Essence Carson | 2,647 |
 | 111 | Lindsey Harding | 2,647 |
 | 113 | Cheyenne Parker-Tyus | 2,645 |
+| 114 | **Rhyne Howard** 🔴 +4 | 2,641 |
 | 114 | Tamera Young | 2,641 |
-| 115 | **Rhyne Howard** 🔴 +2 | 2,639 |
 | 116 | Liz Cambage | 2,634 |
 | 117 | Janeth Arcain | 2,633 |
 | 118 | Temeka Johnson | 2,620 |
@@ -296,7 +296,7 @@ _Last updated: 2026-09-24 00:16 UTC_
 | 70 | Alana Beard | 1,420 |
 | 71 | Nakia Sanford | 1,419 |
 | 72 | Kayla Thornton | 1,408 |
-| 73 | **Allisha Gray** 🔴 +2 | 1,406 |
+| 73 | **Allisha Gray** 🔴 +1 | 1,405 |
 | 74 | Kara Braxton | 1,387 |
 | 75 | Courtney Vandersloot | 1,386 |
 | 76 | Katie Smith | 1,383 |
@@ -966,8 +966,8 @@ _Last updated: 2026-09-24 00:16 UTC_
 | 121 | Noelle Quinn | 256 |
 | 122 | Elaine Powell | 255 |
 | 122 | Loree Moore | 255 |
-| 124 | **Rhyne Howard** 🔴 | 254 |
-| 124 | Ruthie Bolton | 254 |
+| 122 | **Rhyne Howard** 🔴 +1 | 255 |
+| 125 | Ruthie Bolton | 254 |
 | 126 | Hamchetou Maiga-Ba | 251 |
 | 126 | Tamika Whitmore | 251 |
 | 128 | Sami Whitcomb | 246 |
