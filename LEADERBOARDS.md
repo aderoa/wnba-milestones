@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-24 02:11 UTC_
+_Last updated: 2026-09-24 02:12 UTC_
 
 ## Contents
 
@@ -21,7 +21,7 @@ _Last updated: 2026-09-24 02:11 UTC_
 |-----:|--------|------:|
 | 1 | Diana Taurasi | 10,608 |
 | 2 | Tina Charles | 8,396 |
-| 3 | **DeWanna Bonner** 🔴 +6 | 7,978 |
+| 3 | **DeWanna Bonner** 🔴 +9 | 7,981 |
 | 4 | Nneka Ogwumike | 7,563 |
 | 5 | Tina Thompson | 7,470 |
 | 6 | Tamika Catchings | 7,371 |
@@ -60,7 +60,7 @@ _Last updated: 2026-09-24 02:11 UTC_
 | 39 | Natasha Howard | 4,682 |
 | 40 | Chelsea Gray | 4,625 |
 | 41 | Penny Taylor | 4,595 |
-| 42 | **Allisha Gray** 🔴 +21 | 4,512 |
+| 42 | **Allisha Gray** 🔴 +24 | 4,515 |
 | 43 | Kelsey Plum | 4,494 |
 | 44 | Kristi Toliver | 4,474 |
 | 45 | Kahleah Copper | 4,437 |
@@ -216,7 +216,7 @@ _Last updated: 2026-09-24 02:11 UTC_
 | 195 | Monique Billings | 1,612 |
 | 196 | Janell Burse | 1,580 |
 | 197 | Le'coe Willingham | 1,552 |
-| 198 | Shatori Walker-Kimbrough | 1,544 |
+| 198 | **Shatori Walker-Kimbrough** 🔴 | 1,544 |
 | 199 | **Rebecca Allen** 🔴 +6 | 1,535 |
 | 200 | Jennifer Lacy | 1,504 |
 
@@ -295,8 +295,8 @@ _Last updated: 2026-09-24 02:11 UTC_
 | 69 | Monique Billings | 1,431 |
 | 70 | Alana Beard | 1,420 |
 | 71 | Nakia Sanford | 1,419 |
+| 72 | **Allisha Gray** 🔴 +4 | 1,408 |
 | 72 | Kayla Thornton | 1,408 |
-| 73 | **Allisha Gray** 🔴 +3 | 1,407 |
 | 74 | Kara Braxton | 1,387 |
 | 75 | Courtney Vandersloot | 1,386 |
 | 76 | Katie Smith | 1,383 |
@@ -790,7 +790,7 @@ _Last updated: 2026-09-24 02:11 UTC_
 | 151 | Kristin Folkl | 85 |
 | 155 | Charde Houston | 84 |
 | 155 | Marina Mabrey | 84 |
-| 155 | Shatori Walker-Kimbrough | 84 |
+| 155 | **Shatori Walker-Kimbrough** 🔴 | 84 |
 | 158 | Tamera Young | 83 |
 | 159 | Cameron Brink | 82 |
 | 159 | Damiris Dantas | 82 |
@@ -1011,7 +1011,7 @@ _Last updated: 2026-09-24 02:11 UTC_
 | 167 | Jessica Breland | 204 |
 | 167 | Murriel Page | 204 |
 | 167 | Natisha Hiedeman | 204 |
-| 167 | Shatori Walker-Kimbrough | 204 |
+| 167 | **Shatori Walker-Kimbrough** 🔴 | 204 |
 | 171 | Adrienne Goodson | 203 |
 | 172 | Allie Quigley | 198 |
 | 173 | Layshia Clarendon | 195 |
@@ -1056,7 +1056,7 @@ _Last updated: 2026-09-24 02:11 UTC_
 | 7 | Katie Douglas | 723 |
 | 8 | Kelsey Mitchell | 712 |
 | 9 | Jewell Loyd | 695 |
-| 10 | **DeWanna Bonner** 🔴 +1 | 683 |
+| 10 | **DeWanna Bonner** 🔴 +2 | 684 |
 | 11 | Kristi Toliver | 651 |
 | 12 | Kelsey Plum | 619 |
 | 13 | Tamika Catchings | 605 |
@@ -1074,7 +1074,7 @@ _Last updated: 2026-09-24 02:11 UTC_
 | 25 | Shekinna Stricklen | 468 |
 | 26 | Breanna Stewart | 465 |
 | 27 | Cappie Pondexter | 464 |
-| 28 | **Allisha Gray** 🔴 +3 | 461 |
+| 28 | **Allisha Gray** 🔴 +4 | 462 |
 | 29 | Ariel Atkins | 455 |
 | 30 | Tiffany Hayes | 454 |
 | 31 | Chelsea Gray | 450 |
@@ -1172,7 +1172,7 @@ _Last updated: 2026-09-24 02:11 UTC_
 | 122 | Camille Smith | 179 |
 | 124 | Swin Cash | 176 |
 | 125 | Nikki McCray | 175 |
-| 126 | Shatori Walker-Kimbrough | 174 |
+| 126 | **Shatori Walker-Kimbrough** 🔴 | 174 |
 | 126 | Tayler Hill | 174 |
 | 128 | Theresa Plaisance | 172 |
 | 129 | Amanda Lassiter | 170 |
