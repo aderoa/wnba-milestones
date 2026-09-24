@@ -54,7 +54,7 @@ _Last updated: 2026-09-24 03:03 UTC_
 | 33 | Sheryl Swoopes | 4,875 |
 | 34 | Alyssa Thomas | 4,752 |
 | 35 | Alana Beard | 4,740 |
-| 36 | **Arike Ogunbowale** 🔴 +9 | 4,724 |
+| 36 | **Arike Ogunbowale** 🔴 +11 | 4,726 |
 | 37 | Chamique Holdsclaw | 4,713 |
 | 38 | Elena Delle Donne | 4,706 |
 | 39 | Natasha Howard | 4,682 |
