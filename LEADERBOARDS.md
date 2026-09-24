@@ -54,7 +54,7 @@ _Last updated: 2026-09-24 03:51 UTC_
 | 33 | Sheryl Swoopes | 4,875 |
 | 34 | Alyssa Thomas | 4,752 |
 | 35 | Alana Beard | 4,740 |
-| 36 | **Arike Ogunbowale** 🔴 +21 | 4,736 |
+| 36 | **Arike Ogunbowale** 🔴 +23 | 4,738 |
 | 37 | Chamique Holdsclaw | 4,713 |
 | 38 | Elena Delle Donne | 4,706 |
 | 39 | Natasha Howard | 4,682 |
@@ -180,7 +180,7 @@ _Last updated: 2026-09-24 03:51 UTC_
 | 159 | Coco Miller | 2,030 |
 | 160 | Diamond DeShields | 2,026 |
 | 161 | Vicky Bullett | 2,018 |
-| 162 | **Natisha Hiedeman** 🔴 | 2,002 |
+| 162 | **Natisha Hiedeman** 🔴 +2 | 2,004 |
 | 163 | Ezi Magbegor | 1,995 |
 | 164 | Bria Hartley | 1,967 |
 | 165 | Chiney Ogwumike | 1,964 |
@@ -578,8 +578,8 @@ _Last updated: 2026-09-24 03:51 UTC_
 | 145 | Nikki McCray | 450 |
 | 148 | Ruth Riley | 449 |
 | 149 | DeMya Walker | 446 |
-| 150 | Essence Carson | 445 |
-| 150 | **Jessica Shepard** 🔴 +9 | 445 |
+| 149 | **Jessica Shepard** 🔴 +10 | 446 |
+| 151 | Essence Carson | 445 |
 | 152 | Julie Allemand | 444 |
 | 153 | Michelle Snow | 437 |
 | 154 | Lauren Jackson | 435 |
@@ -1439,7 +1439,7 @@ _Last updated: 2026-09-24 03:51 UTC_
 | 185 | Monique Billings | 314 |
 | 185 | Moriah Jefferson | 314 |
 | 187 | Alex Bentley | 313 |
-| 188 | **Natisha Hiedeman** 🔴 | 312 |
+| 187 | **Natisha Hiedeman** 🔴 +1 | 313 |
 | 189 | Tamika Raymond | 311 |
 | 190 | Isabelle Harrison | 307 |
 | 191 | Erin Perperoglou | 305 |
