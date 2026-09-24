@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-24 00:27 UTC_
+_Last updated: 2026-09-24 00:28 UTC_
 
 ## Contents
 
@@ -347,7 +347,7 @@ _Last updated: 2026-09-24 00:27 UTC_
 | 121 | Svetlana Abrosimova | 1,078 |
 | 122 | Le'coe Willingham | 1,054 |
 | 123 | Nicole Ohlde | 1,040 |
-| 124 | **Angel Reese** 🔴 +1 | 1,036 |
+| 124 | **Angel Reese** 🔴 +3 | 1,038 |
 | 125 | Tamecka Dixon | 1,035 |
 | 126 | Kamila Vodichkova | 1,031 |
 | 127 | Jasmine Thomas | 1,027 |
@@ -423,8 +423,7 @@ _Last updated: 2026-09-24 00:27 UTC_
 | 197 | Olympia Scott | 711 |
 | 198 | Katie Mattera | 708 |
 | 199 | Rushia Brown | 706 |
-| 200 | Allie Quigley | 702 |
-| 200 | **Rebecca Allen** 🔴 | 702 |
+| 200 | **Rebecca Allen** 🔴 +1 | 703 |
 
 ## Assists
 
@@ -890,7 +889,7 @@ _Last updated: 2026-09-24 00:27 UTC_
 | 45 | Katie Smith | 408 |
 | 46 | Cappie Pondexter | 405 |
 | 47 | Nicole Powell | 401 |
-| 48 | **Jordin Canada** 🔴 | 397 |
+| 48 | **Jordin Canada** 🔴 +1 | 398 |
 | 49 | Jasmine Thomas | 394 |
 | 50 | Ariel Atkins | 390 |
 | 51 | Danielle Robinson | 389 |
@@ -1346,9 +1345,9 @@ _Last updated: 2026-09-24 00:27 UTC_
 | 91 | Adrienne Goodson | 542 |
 | 92 | Marina Mabrey | 537 |
 | 93 | Layshia Clarendon | 536 |
-| 94 | Ivory Latta | 534 |
-| 94 | Iziane Castro Marques | 534 |
-| 94 | **Sabrina Ionescu** 🔴 +1 | 534 |
+| 94 | **Sabrina Ionescu** 🔴 +2 | 535 |
+| 95 | Ivory Latta | 534 |
+| 95 | Iziane Castro Marques | 534 |
 | 97 | Mwadi Mabika | 532 |
 | 98 | Nakia Sanford | 531 |
 | 99 | Arike Ogunbowale | 529 |
