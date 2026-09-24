@@ -515,7 +515,7 @@ _Last updated: 2026-09-24 03:02 UTC_
 | 84 | Ariel Atkins | 682 |
 | 85 | Emma Meesseman | 681 |
 | 86 | Nykesha Sales | 677 |
-| 87 | **Natisha Hiedeman** 🔴 +6 | 674 |
+| 87 | **Natisha Hiedeman** 🔴 +7 | 675 |
 | 88 | A'ja Wilson | 667 |
 | 89 | Bria Hartley | 661 |
 | 90 | Brittney Griner | 660 |
