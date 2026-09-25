@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-25 00:18 UTC_
+_Last updated: 2026-09-25 00:19 UTC_
 
 ## Contents
 
@@ -313,7 +313,7 @@ _Last updated: 2026-09-25 00:18 UTC_
 | 87 | Azurá Stevens | 1,319 |
 | 88 | Betty Lennox | 1,296 |
 | 89 | Tari Phillips | 1,274 |
-| 90 | **Myisha Hines-Allen** 🔴 | 1,265 |
+| 90 | **Myisha Hines-Allen** 🔴 +1 | 1,266 |
 | 91 | Janel McCarville | 1,261 |
 | 92 | Liz Cambage | 1,258 |
 | 93 | Chelsea Gray | 1,257 |
@@ -592,7 +592,7 @@ _Last updated: 2026-09-25 00:18 UTC_
 | 160 | Kedra Holland-Corn | 423 |
 | 161 | Crystal Dangerfield | 418 |
 | 162 | Candice Wiggins | 417 |
-| 163 | Aari McDonald | 415 |
+| 163 | **Aari McDonald** 🔴 | 415 |
 | 164 | Erin Thorn | 414 |
 | 165 | Jamierra Faulkner | 410 |
 | 165 | Murriel Page | 410 |
@@ -1186,7 +1186,7 @@ _Last updated: 2026-09-25 00:18 UTC_
 | 136 | Dana Evans | 160 |
 | 136 | Jennifer Lacy | 160 |
 | 136 | Stephanie Talbot | 160 |
-| 139 | Aari McDonald | 158 |
+| 139 | **Aari McDonald** 🔴 | 158 |
 | 139 | Jennifer Azzi | 158 |
 | 139 | **Natasha Howard** 🔴 | 158 |
 | 142 | Alanna Smith | 156 |
@@ -1403,7 +1403,7 @@ _Last updated: 2026-09-25 00:18 UTC_
 | 148 | Merlakia Jones | 398 |
 | 149 | Glory Johnson | 397 |
 | 150 | Marissa Coleman | 396 |
-| 151 | **Myisha Hines-Allen** 🔴 | 390 |
+| 151 | **Myisha Hines-Allen** 🔴 +1 | 391 |
 | 152 | **Elizabeth Williams** 🔴 | 388 |
 | 153 | Sophia Witherspoon | 386 |
 | 154 | Hamchetou Maiga-Ba | 385 |
@@ -1625,11 +1625,11 @@ _Last updated: 2026-09-25 00:18 UTC_
 | 165 | Vicky Bullett | 507 |
 | 166 | **Isabelle Harrison** 🔴 +1 | 506 |
 | 166 | Merlakia Jones | 506 |
+| 168 | **Napheesa Collier** 🔴 +1 | 505 |
 | 168 | Rushia Brown | 505 |
 | 168 | Shekinna Stricklen | 505 |
-| 170 | Allison Feaster | 504 |
-| 170 | Erin Perperoglou | 504 |
-| 170 | **Napheesa Collier** 🔴 | 504 |
+| 171 | Allison Feaster | 504 |
+| 171 | Erin Perperoglou | 504 |
 | 173 | Iziane Castro Marques | 502 |
 | 174 | Elena Baranova | 501 |
 | 175 | Adrian Williams-Strong | 497 |
