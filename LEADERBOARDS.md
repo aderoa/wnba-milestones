@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-25 03:55 UTC_
+_Last updated: 2026-09-25 03:56 UTC_
 
 ## Contents
 
@@ -22,7 +22,7 @@ _Last updated: 2026-09-25 03:55 UTC_
 | 1 | Diana Taurasi | 10,608 |
 | 2 | Tina Charles | 8,396 |
 | 3 | DeWanna Bonner | 7,972 |
-| 4 | **Nneka Ogwumike** 🔴 +15 | 7,578 |
+| 4 | **Nneka Ogwumike** 🔴 +17 | 7,580 |
 | 5 | Tina Thompson | 7,470 |
 | 6 | Tamika Catchings | 7,371 |
 | 7 | Candice Dupree | 6,861 |
@@ -436,7 +436,7 @@ _Last updated: 2026-09-25 03:55 UTC_
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
 | 6 | **Chelsea Gray** 🔴 +9 | 2,012 |
-| 7 | **Alyssa Thomas** 🔴 +7 | 1,978 |
+| 7 | **Alyssa Thomas** 🔴 +8 | 1,979 |
 | 8 | Skylar Diggins | 1,852 |
 | 9 | Natasha Cloud | 1,802 |
 | 10 | Becky Hammon | 1,705 |
@@ -450,8 +450,8 @@ _Last updated: 2026-09-25 03:55 UTC_
 | 18 | Temeka Johnson | 1,382 |
 | 19 | Jasmine Thomas | 1,355 |
 | 20 | Briann January | 1,339 |
-| 21 | Dawn Staley | 1,337 |
-| 21 | **Erica Wheeler** 🔴 +2 | 1,337 |
+| 21 | **Erica Wheeler** 🔴 +3 | 1,338 |
+| 22 | Dawn Staley | 1,337 |
 | 23 | Teresa Weatherspoon | 1,333 |
 | 24 | Kristi Toliver | 1,301 |
 | 25 | Kelsey Plum | 1,270 |
@@ -1224,8 +1224,8 @@ _Last updated: 2026-09-25 03:55 UTC_
 | 174 | Lexie Hull | 126 |
 | 174 | Tamecka Dixon | 126 |
 | 176 | Kennedy Burke | 125 |
-| 177 | Charde Houston | 124 |
-| 177 | **Veronica Burton** 🔴 | 124 |
+| 176 | **Veronica Burton** 🔴 +1 | 125 |
+| 178 | Charde Houston | 124 |
 | 179 | Lisa Leslie | 123 |
 | 180 | Sidney Spencer | 122 |
 | 181 | Tonya Edwards | 118 |
@@ -1267,7 +1267,7 @@ _Last updated: 2026-09-25 03:55 UTC_
 | 10 | Candace Parker | 1,062 |
 | 11 | Tamika Catchings | 1,041 |
 | 12 | Tina Charles | 1,040 |
-| 13 | **Alyssa Thomas** 🔴 +1 | 1,036 |
+| 13 | **Alyssa Thomas** 🔴 +2 | 1,037 |
 | 14 | Lindsay Whalen | 1,002 |
 | 15 | Sylvia Fowles | 961 |
 | 16 | Tanisha Wright | 954 |
@@ -1275,7 +1275,7 @@ _Last updated: 2026-09-25 03:55 UTC_
 | 18 | Cappie Pondexter | 945 |
 | 19 | Katie Smith | 935 |
 | 20 | Shannon Johnson | 934 |
-| 21 | **Chelsea Gray** 🔴 +5 | 932 |
+| 21 | **Chelsea Gray** 🔴 +6 | 933 |
 | 22 | Skylar Diggins | 907 |
 | 23 | Taj McWilliams-Franklin | 898 |
 | 24 | Candice Dupree | 869 |
@@ -1473,7 +1473,7 @@ _Last updated: 2026-09-25 03:55 UTC_
 | 11 | Chasity Melvin | 1,165 |
 | 12 | Camille Smith | 1,159 |
 | 13 | Natasha Howard | 1,158 |
-| 14 | **Nneka Ogwumike** 🔴 +1 | 1,157 |
+| 13 | **Nneka Ogwumike** 🔴 +2 | 1,158 |
 | 15 | Alana Beard | 1,153 |
 | 16 | Swin Cash | 1,146 |
 | 17 | Taj McWilliams-Franklin | 1,145 |
@@ -1490,7 +1490,7 @@ _Last updated: 2026-09-25 03:55 UTC_
 | 28 | Yolanda Griffith | 991 |
 | 29 | Lauren Jackson | 982 |
 | 30 | Nakia Sanford | 979 |
-| 31 | **Alyssa Thomas** 🔴 | 972 |
+| 31 | **Alyssa Thomas** 🔴 +1 | 973 |
 | 32 | Asjha Jones | 971 |
 | 33 | Margo Dydek | 950 |
 | 34 | Sancho Lyttle | 947 |
