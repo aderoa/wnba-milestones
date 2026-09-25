@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-09-25 04:16 UTC
+
+- **Kayla Thornton** passed **Jewell Loyd** and **Sandrine Gruda** for **#140** all-time in blocks (career 95) — up from #142 entering today — _10.8 - 4th — GS @ LA_
+
 ## 2026-09-25 04:06 UTC
 
 - **Jewell Loyd** reached **700** career three-pointers (now 700) — _40.1 - 4th — LV @ PHX_
