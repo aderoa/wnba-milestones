@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-09-25 04:04 UTC
+
+- **Kahleah Copper** passed **Marina Mabrey** and **Rushia Brown** for **#145** all-time in steals (career 222) — up from #150 entering today — _2:14 - 4th — LV @ PHX_
+
 ## 2026-09-25 03:01 UTC
 
 - **Kalani Brown** passed **Astou Ndiaye-Diatta** for **#150** all-time in blocks (career 87) — up from #153 entering today — _Halftime — LV @ PHX_

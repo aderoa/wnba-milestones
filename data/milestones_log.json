@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-09-25T04:04:00+00:00",
+    "text": "Kahleah Copper passed Marina Mabrey and Rushia Brown for #145 all-time in steals (career 222) \u2014 up from #150 entering today \u2014 (2:14 - 4th \u2014 LV @ PHX)",
+    "kind": "rank_pass",
+    "player": "Kahleah Copper",
+    "stat": "steals",
+    "rank": 145,
+    "passed_players": [
+      "Marina Mabrey",
+      "Rushia Brown"
+    ],
+    "new_total": 222
+  },
+  {
     "ts": "2026-09-25T03:01:00+00:00",
     "text": "Kalani Brown passed Astou Ndiaye-Diatta for #150 all-time in blocks (career 87) \u2014 up from #153 entering today \u2014 (Halftime \u2014 LV @ PHX)",
     "kind": "rank_pass",
@@ -2964,17 +2977,5 @@
       "Shenise Johnson"
     ],
     "new_total": 730
-  },
-  {
-    "ts": "2026-07-10T02:39:00+00:00",
-    "text": "Sami Whitcomb passed Shekinna Stricklen for #196 all-time in rebounds (career 727) \u2014 (5:57 - 2nd \u2014 IND @ PHX)",
-    "kind": "rank_pass",
-    "player": "Sami Whitcomb",
-    "stat": "rebounds",
-    "rank": 196,
-    "passed_players": [
-      "Shekinna Stricklen"
-    ],
-    "new_total": 727
   }
 ]

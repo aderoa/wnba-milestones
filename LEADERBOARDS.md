@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-25 04:03 UTC_
+_Last updated: 2026-09-25 04:04 UTC_
 
 ## Contents
 
@@ -987,9 +987,9 @@ _Last updated: 2026-09-25 04:03 UTC_
 | 142 | Wendy Palmer | 226 |
 | 143 | Alexis Hornbuckle | 225 |
 | 144 | Cheryl Ford | 224 |
-| 145 | **Kahleah Copper** 🔴 +2 | 221 |
-| 145 | Marina Mabrey | 221 |
-| 145 | Rushia Brown | 221 |
+| 145 | **Kahleah Copper** 🔴 +3 | 222 |
+| 146 | Marina Mabrey | 221 |
+| 146 | Rushia Brown | 221 |
 | 148 | DeMya Walker | 220 |
 | 148 | Jennifer Gillom | 220 |
 | 150 | Allison Feaster | 219 |
@@ -1267,7 +1267,7 @@ _Last updated: 2026-09-25 04:03 UTC_
 | 10 | Candace Parker | 1,062 |
 | 11 | Tamika Catchings | 1,041 |
 | 12 | Tina Charles | 1,040 |
-| 13 | **Alyssa Thomas** 🔴 +2 | 1,037 |
+| 13 | **Alyssa Thomas** 🔴 +3 | 1,038 |
 | 14 | Lindsay Whalen | 1,002 |
 | 15 | Sylvia Fowles | 961 |
 | 16 | Tanisha Wright | 954 |
@@ -1324,7 +1324,7 @@ _Last updated: 2026-09-25 04:03 UTC_
 | 67 | Ruth Riley | 637 |
 | 68 | Odyssey Sims | 631 |
 | 68 | Svetlana Abrosimova | 631 |
-| 70 | **Kahleah Copper** 🔴 +3 | 628 |
+| 70 | **Kahleah Copper** 🔴 +4 | 629 |
 | 71 | **Tiffany Hayes** 🔴 +2 | 626 |
 | 72 | Rebekkah Brunson | 615 |
 | 73 | Seimone Augustus | 613 |
@@ -1368,7 +1368,7 @@ _Last updated: 2026-09-25 04:03 UTC_
 | 111 | Nikki Teasley | 493 |
 | 111 | Tari Phillips | 493 |
 | 113 | Janel McCarville | 491 |
-| 114 | **A'ja Wilson** 🔴 +1 | 489 |
+| 114 | **A'ja Wilson** 🔴 +2 | 490 |
 | 115 | Erika de Souza | 483 |
 | 116 | Sophia Young-Malcolm | 482 |
 | 117 | Natalie Williams | 480 |
@@ -1527,7 +1527,7 @@ _Last updated: 2026-09-25 04:03 UTC_
 | 65 | Sue Bird | 775 |
 | 66 | Natasha Cloud | 773 |
 | 67 | Sheri Sam | 766 |
-| 68 | **Kahleah Copper** 🔴 | 758 |
+| 68 | **Kahleah Copper** 🔴 +1 | 759 |
 | 69 | Kia Vaughn | 755 |
 | 70 | Allisha Gray | 752 |
 | 70 | Vickie Johnson | 752 |
