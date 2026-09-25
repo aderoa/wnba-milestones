@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-25 01:39 UTC_
+_Last updated: 2026-09-25 01:40 UTC_
 
 ## Contents
 
@@ -592,7 +592,7 @@ _Last updated: 2026-09-25 01:39 UTC_
 | 160 | Kedra Holland-Corn | 423 |
 | 161 | Crystal Dangerfield | 418 |
 | 162 | Candice Wiggins | 417 |
-| 163 | **Aari McDonald** 🔴 | 415 |
+| 163 | **Aari McDonald** 🔴 +1 | 416 |
 | 164 | Erin Thorn | 414 |
 | 165 | Jamierra Faulkner | 410 |
 | 165 | Murriel Page | 410 |
