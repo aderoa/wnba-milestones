@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-25 01:25 UTC_
+_Last updated: 2026-09-25 01:26 UTC_
 
 ## Contents
 
@@ -213,7 +213,7 @@ _Last updated: 2026-09-25 01:25 UTC_
 | 192 | Armintie Herrington | 1,696 |
 | 193 | Nikki Teasley | 1,690 |
 | 194 | Shenise Johnson | 1,688 |
-| 195 | **Monique Billings** 🔴 +4 | 1,616 |
+| 195 | **Monique Billings** 🔴 +6 | 1,618 |
 | 196 | Janell Burse | 1,580 |
 | 197 | Le'coe Willingham | 1,552 |
 | 198 | Shatori Walker-Kimbrough | 1,544 |
@@ -291,7 +291,7 @@ _Last updated: 2026-09-25 01:25 UTC_
 | 65 | Sue Bird | 1,466 |
 | 66 | Cheyenne Parker-Tyus | 1,463 |
 | 67 | Nicole Powell | 1,457 |
-| 68 | **Monique Billings** 🔴 +8 | 1,439 |
+| 68 | **Monique Billings** 🔴 +10 | 1,441 |
 | 69 | Tamera Young | 1,433 |
 | 70 | Alana Beard | 1,420 |
 | 71 | Nakia Sanford | 1,419 |
@@ -1183,10 +1183,10 @@ _Last updated: 2026-09-25 01:25 UTC_
 | 133 | **Tyasha Harris** 🔴 +1 | 163 |
 | 134 | Ukari Figgs | 162 |
 | 135 | Edna Campbell | 161 |
+| 136 | **Aari McDonald** 🔴 +2 | 160 |
 | 136 | Dana Evans | 160 |
 | 136 | Jennifer Lacy | 160 |
 | 136 | Stephanie Talbot | 160 |
-| 139 | **Aari McDonald** 🔴 +1 | 159 |
 | 140 | Jennifer Azzi | 158 |
 | 140 | **Natasha Howard** 🔴 | 158 |
 | 142 | Alanna Smith | 156 |
