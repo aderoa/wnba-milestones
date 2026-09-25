@@ -1,5 +1,14 @@
 [
   {
+    "ts": "2026-09-25T01:08:00+00:00",
+    "text": "Elizabeth Williams reached 300 career steals (now 300) \u2014 (4:29 - 4th \u2014 CHI @ WSH)",
+    "kind": "round",
+    "player": "Elizabeth Williams",
+    "stat": "steals",
+    "value": 300,
+    "new_total": 300
+  },
+  {
     "ts": "2026-09-24T04:11:00+00:00",
     "text": "Natisha Hiedeman passed Emma Meesseman for #85 all-time in assists (career 682) \u2014 up from #87 entering today \u2014 (3:15 - 4th \u2014 DAL @ SEA)",
     "kind": "rank_pass",
@@ -2962,17 +2971,5 @@
       "Courtney Williams"
     ],
     "new_total": 4351
-  },
-  {
-    "ts": "2026-07-09T04:02:00+00:00",
-    "text": "Damiris Dantas passed Myisha Hines-Allen for #151 all-time in fouls (career 536) \u2014 up from #152 entering today \u2014 (1:00 - 4th \u2014 IND @ LA)",
-    "kind": "rank_pass",
-    "player": "Damiris Dantas",
-    "stat": "fouls",
-    "rank": 151,
-    "passed_players": [
-      "Myisha Hines-Allen"
-    ],
-    "new_total": 536
   }
 ]

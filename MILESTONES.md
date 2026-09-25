@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-09-25 01:08 UTC
+
+- **Elizabeth Williams** reached **300** career steals (now 300) — _4:29 - 4th — CHI @ WSH_
+
 ## 2026-09-24 04:11 UTC
 
 - **Natisha Hiedeman** passed **Emma Meesseman** for **#85** all-time in assists (career 682) — up from #87 entering today — _3:15 - 4th — DAL @ SEA_
