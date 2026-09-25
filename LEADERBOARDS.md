@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-25 02:45 UTC_
+_Last updated: 2026-09-25 02:46 UTC_
 
 ## Contents
 
@@ -69,7 +69,7 @@ _Last updated: 2026-09-25 02:45 UTC_
 | 48 | Courtney Vandersloot | 4,378 |
 | 49 | Courtney Williams | 4,359 |
 | 50 | Jonquel Jones | 4,353 |
-| 51 | **Dearica Hamby** 🔴 +6 | 4,336 |
+| 51 | **Dearica Hamby** 🔴 +7 | 4,337 |
 | 52 | Sophia Young-Malcolm | 4,300 |
 | 53 | Plenette Pierson | 4,258 |
 | 54 | Monique Currie | 4,253 |
@@ -227,7 +227,7 @@ _Last updated: 2026-09-25 02:45 UTC_
 | 1 | Tina Charles | 4,262 |
 | 2 | Sylvia Fowles | 4,005 |
 | 3 | Candace Parker | 3,467 |
-| 4 | **Nneka Ogwumike** 🔴 +7 | 3,413 |
+| 4 | **Nneka Ogwumike** 🔴 +8 | 3,414 |
 | 5 | Rebekkah Brunson | 3,345 |
 | 6 | Tamika Catchings | 3,313 |
 | 7 | Lisa Leslie | 3,303 |
@@ -237,7 +237,7 @@ _Last updated: 2026-09-25 02:45 UTC_
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | **Alyssa Thomas** 🔴 +1 | 2,859 |
 | 13 | Jonquel Jones | 2,728 |
-| 14 | **A'ja Wilson** 🔴 +1 | 2,658 |
+| 14 | **A'ja Wilson** 🔴 +2 | 2,659 |
 | 15 | Breanna Stewart | 2,632 |
 | 16 | Sancho Lyttle | 2,596 |
 | 17 | Brittney Griner | 2,579 |
@@ -738,7 +738,7 @@ _Last updated: 2026-09-25 02:45 UTC_
 | 100 | Mistie Bass | 126 |
 | 102 | Brionna Jones | 125 |
 | 103 | Kamilla Cardoso | 124 |
-| 104 | **Natasha Mack** 🔴 | 123 |
+| 103 | **Natasha Mack** 🔴 +1 | 124 |
 | 105 | Natalie Williams | 122 |
 | 106 | Ebony Hoffman | 121 |
 | 106 | Essence Carson | 121 |
