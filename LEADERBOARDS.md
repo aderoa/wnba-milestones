@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-25 04:18 UTC_
+_Last updated: 2026-09-25 04:19 UTC_
 
 ## Contents
 
@@ -148,7 +148,7 @@ _Last updated: 2026-09-25 04:18 UTC_
 | 127 | Ruth Riley | 2,434 |
 | 128 | Svetlana Abrosimova | 2,414 |
 | 129 | Anna DeForge | 2,413 |
-| 130 | **Kayla Thornton** 🔴 +1 | 2,394 |
+| 130 | **Kayla Thornton** 🔴 +2 | 2,395 |
 | 131 | DeMya Walker | 2,379 |
 | 132 | Alex Bentley | 2,350 |
 | 133 | Azurá Stevens | 2,343 |
@@ -774,9 +774,9 @@ _Last updated: 2026-09-25 04:18 UTC_
 | 137 | Aneika Morello | 96 |
 | 137 | Tiffani Johnson | 96 |
 | 139 | Imani McGee-Stafford | 95 |
-| 139 | **Kayla Thornton** 🔴 +2 | 95 |
-| 141 | Jewell Loyd | 94 |
-| 141 | Sandrine Gruda | 94 |
+| 140 | Jewell Loyd | 94 |
+| 140 | **Kayla Thornton** 🔴 +1 | 94 |
+| 140 | Sandrine Gruda | 94 |
 | 143 | Jasmine Thomas | 91 |
 | 143 | Kayla Alexander | 91 |
 | 145 | Allie Quigley | 90 |
@@ -1509,7 +1509,7 @@ _Last updated: 2026-09-25 04:18 UTC_
 | 47 | Cappie Pondexter | 869 |
 | 48 | Erika de Souza | 858 |
 | 49 | Angel McCoughtry | 857 |
-| 50 | **Dearica Hamby** 🔴 +2 | 852 |
+| 50 | **Dearica Hamby** 🔴 +3 | 853 |
 | 51 | Betty Lennox | 851 |
 | 52 | Tamecka Dixon | 849 |
 | 53 | Natalie Williams | 847 |
@@ -1534,9 +1534,9 @@ _Last updated: 2026-09-25 04:18 UTC_
 | 72 | Kara Braxton | 748 |
 | 73 | Crystal Langhorne | 737 |
 | 73 | Elizabeth Williams | 737 |
+| 75 | **Ariel Atkins** 🔴 +4 | 734 |
 | 75 | Shameka Christon | 734 |
-| 76 | **Ariel Atkins** 🔴 +3 | 733 |
-| 76 | Becky Hammon | 733 |
+| 77 | Becky Hammon | 733 |
 | 78 | Latasha Byears | 730 |
 | 79 | Kristi Toliver | 722 |
 | 80 | Cheryl Ford | 713 |
