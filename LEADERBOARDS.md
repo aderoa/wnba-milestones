@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-25 00:53 UTC_
+_Last updated: 2026-09-25 00:54 UTC_
 
 ## Contents
 
@@ -41,11 +41,11 @@ _Last updated: 2026-09-25 00:53 UTC_
 | 20 | Becky Hammon | 5,816 |
 | 21 | Angel McCoughtry | 5,797 |
 | 22 | Skylar Diggins | 5,732 |
-| 23 | **Kayla McBride** 🔴 +13 | 5,663 |
+| 23 | **Kayla McBride** 🔴 +16 | 5,666 |
 | 24 | DeLisha Milton-Jones | 5,571 |
 | 25 | Katie Douglas | 5,545 |
 | 26 | Lindsay Whalen | 5,511 |
-| 27 | **Kelsey Mitchell** 🔴 +4 | 5,202 |
+| 27 | **Kelsey Mitchell** 🔴 +10 | 5,208 |
 | 28 | Swin Cash | 5,119 |
 | 29 | Tiffany Hayes | 5,049 |
 | 30 | Tangela Smith | 5,035 |
@@ -57,7 +57,7 @@ _Last updated: 2026-09-25 00:53 UTC_
 | 36 | Arike Ogunbowale | 4,715 |
 | 37 | Chamique Holdsclaw | 4,713 |
 | 38 | Elena Delle Donne | 4,706 |
-| 39 | **Natasha Howard** 🔴 +11 | 4,693 |
+| 39 | **Natasha Howard** 🔴 +13 | 4,695 |
 | 40 | Chelsea Gray | 4,625 |
 | 41 | Penny Taylor | 4,595 |
 | 42 | Kelsey Plum | 4,494 |
@@ -444,7 +444,7 @@ _Last updated: 2026-09-25 00:53 UTC_
 | 12 | Cappie Pondexter | 1,575 |
 | 13 | Tamika Catchings | 1,484 |
 | 14 | Danielle Robinson | 1,480 |
-| 15 | **Courtney Williams** 🔴 +6 | 1,444 |
+| 15 | **Courtney Williams** 🔴 +8 | 1,446 |
 | 16 | Shannon Johnson | 1,423 |
 | 16 | Tanisha Wright | 1,423 |
 | 18 | Temeka Johnson | 1,382 |
@@ -551,7 +551,7 @@ _Last updated: 2026-09-25 00:53 UTC_
 | 118 | Svetlana Abrosimova | 551 |
 | 120 | Michele Timms | 549 |
 | 121 | Rhyne Howard | 536 |
-| 122 | **Myisha Hines-Allen** 🔴 | 529 |
+| 122 | **Myisha Hines-Allen** 🔴 +1 | 530 |
 | 123 | Marie Ferdinand-Harris | 528 |
 | 124 | Margo Dydek | 524 |
 | 125 | **Rachel Banham** 🔴 +1 | 512 |
@@ -569,8 +569,8 @@ _Last updated: 2026-09-25 00:53 UTC_
 | 137 | Ukari Figgs | 470 |
 | 138 | Janeth Arcain | 469 |
 | 139 | Erin Phillips | 462 |
-| 140 | Sylvia Fowles | 461 |
-| 140 | **Tyasha Harris** 🔴 +1 | 461 |
+| 139 | **Tyasha Harris** 🔴 +2 | 462 |
+| 141 | Sylvia Fowles | 461 |
 | 142 | Sug Sutton | 456 |
 | 143 | Sydney Colson | 454 |
 | 144 | Yolanda Griffith | 451 |
@@ -1052,10 +1052,10 @@ _Last updated: 2026-09-25 00:53 UTC_
 | 2 | Sue Bird | 1,001 |
 | 3 | Katie Smith | 906 |
 | 4 | Becky Hammon | 825 |
-| 5 | **Kayla McBride** 🔴 +3 | 759 |
+| 5 | **Kayla McBride** 🔴 +4 | 760 |
 | 6 | Tina Thompson | 745 |
 | 7 | Katie Douglas | 723 |
-| 8 | **Kelsey Mitchell** 🔴 | 712 |
+| 8 | **Kelsey Mitchell** 🔴 +2 | 714 |
 | 9 | Jewell Loyd | 695 |
 | 10 | DeWanna Bonner | 682 |
 | 11 | Kristi Toliver | 651 |
@@ -1602,7 +1602,7 @@ _Last updated: 2026-09-25 00:53 UTC_
 | 141 | Glory Johnson | 550 |
 | 141 | Tierra Ruffin-Pratt | 550 |
 | 143 | Jackie Young | 548 |
-| 144 | **Monique Billings** 🔴 +1 | 547 |
+| 143 | **Monique Billings** 🔴 +2 | 548 |
 | 145 | Erlana Larkins | 546 |
 | 146 | Jayne Appel Marinelli | 543 |
 | 146 | **Kayla McBride** 🔴 | 543 |
