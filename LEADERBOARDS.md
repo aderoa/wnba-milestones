@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-25 03:01 UTC_
+_Last updated: 2026-09-25 03:02 UTC_
 
 ## Contents
 
@@ -729,11 +729,11 @@ _Last updated: 2026-09-25 03:01 UTC_
 | 91 | Nakia Sanford | 131 |
 | 93 | Brooke Wyckoff | 129 |
 | 93 | Cathrine Kraayeveld | 129 |
-| 95 | **Chelsea Gray** 🔴 +1 | 128 |
 | 95 | Emily Engstler | 128 |
-| 97 | **Alyssa Thomas** 🔴 | 127 |
-| 97 | Chiney Ogwumike | 127 |
-| 97 | Kristen Rasmussen | 127 |
+| 96 | **Alyssa Thomas** 🔴 | 127 |
+| 96 | **Chelsea Gray** 🔴 | 127 |
+| 96 | Chiney Ogwumike | 127 |
+| 96 | Kristen Rasmussen | 127 |
 | 100 | Katie Douglas | 126 |
 | 100 | Mistie Bass | 126 |
 | 102 | Brionna Jones | 125 |
