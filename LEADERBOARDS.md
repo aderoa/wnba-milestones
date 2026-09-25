@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-25 02:07 UTC_
+_Last updated: 2026-09-25 02:08 UTC_
 
 ## Contents
 
@@ -244,7 +244,7 @@ _Last updated: 2026-09-25 02:07 UTC_
 | 18 | DeLisha Milton-Jones | 2,574 |
 | 19 | Swin Cash | 2,521 |
 | 20 | Michelle Snow | 2,476 |
-| 21 | **Dearica Hamby** 🔴 +1 | 2,456 |
+| 21 | **Dearica Hamby** 🔴 +2 | 2,457 |
 | 22 | Crystal Langhorne | 2,454 |
 | 23 | Lauren Jackson | 2,444 |
 | 24 | Yolanda Griffith | 2,440 |
@@ -259,7 +259,7 @@ _Last updated: 2026-09-25 02:07 UTC_
 | 33 | Elizabeth Williams | 1,980 |
 | 34 | Cheryl Ford | 1,907 |
 | 35 | **Courtney Williams** 🔴 +7 | 1,850 |
-| 36 | **Kiah Stokes** 🔴 +3 | 1,838 |
+| 36 | **Kiah Stokes** 🔴 +4 | 1,839 |
 | 37 | Plenette Pierson | 1,834 |
 | 38 | Natalie Williams | 1,832 |
 | 39 | Wendy Palmer | 1,824 |
@@ -538,7 +538,7 @@ _Last updated: 2026-09-25 02:07 UTC_
 | 105 | **Gabby Williams** 🔴 | 591 |
 | 107 | Camille Smith | 590 |
 | 108 | Armintie Herrington | 589 |
-| 109 | **Veronica Burton** 🔴 | 579 |
+| 109 | **Veronica Burton** 🔴 +1 | 580 |
 | 110 | Tan White | 578 |
 | 111 | Matee Ajavon | 577 |
 | 112 | **Napheesa Collier** 🔴 +3 | 573 |
@@ -775,8 +775,8 @@ _Last updated: 2026-09-25 02:07 UTC_
 | 137 | Tiffani Johnson | 96 |
 | 139 | Imani McGee-Stafford | 95 |
 | 140 | Jewell Loyd | 94 |
+| 140 | **Kayla Thornton** 🔴 +1 | 94 |
 | 140 | Sandrine Gruda | 94 |
-| 142 | **Kayla Thornton** 🔴 | 93 |
 | 143 | Jasmine Thomas | 91 |
 | 143 | Kayla Alexander | 91 |
 | 145 | Allie Quigley | 90 |
