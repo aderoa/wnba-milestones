@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-25 03:20 UTC_
+_Last updated: 2026-09-25 03:21 UTC_
 
 ## Contents
 
@@ -47,12 +47,12 @@ _Last updated: 2026-09-25 03:20 UTC_
 | 26 | Lindsay Whalen | 5,511 |
 | 27 | Kelsey Mitchell | 5,208 |
 | 28 | Swin Cash | 5,119 |
-| 29 | **Tiffany Hayes** 🔴 +2 | 5,051 |
+| 29 | **Tiffany Hayes** 🔴 +3 | 5,052 |
 | 30 | Tangela Smith | 5,035 |
 | 31 | Taj McWilliams-Franklin | 4,992 |
 | 32 | Maya Moore | 4,984 |
 | 33 | Sheryl Swoopes | 4,875 |
-| 34 | **Alyssa Thomas** 🔴 +2 | 4,754 |
+| 34 | **Alyssa Thomas** 🔴 +4 | 4,756 |
 | 35 | Alana Beard | 4,740 |
 | 36 | Arike Ogunbowale | 4,715 |
 | 37 | Chamique Holdsclaw | 4,713 |
@@ -107,7 +107,7 @@ _Last updated: 2026-09-25 03:20 UTC_
 | 86 | Marina Mabrey | 3,249 |
 | 87 | Stefanie Dolson | 3,217 |
 | 88 | Margo Dydek | 3,214 |
-| 89 | **Erica Wheeler** 🔴 +3 | 3,198 |
+| 89 | **Erica Wheeler** 🔴 +5 | 3,200 |
 | 90 | Danielle Robinson | 3,160 |
 | 91 | Wendy Palmer | 3,135 |
 | 92 | Shavonte Zellous | 3,103 |
@@ -436,7 +436,7 @@ _Last updated: 2026-09-25 03:20 UTC_
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
 | 6 | **Chelsea Gray** 🔴 +7 | 2,010 |
-| 7 | **Alyssa Thomas** 🔴 +3 | 1,974 |
+| 7 | **Alyssa Thomas** 🔴 +4 | 1,975 |
 | 8 | Skylar Diggins | 1,852 |
 | 9 | Natasha Cloud | 1,802 |
 | 10 | Becky Hammon | 1,705 |
@@ -560,7 +560,7 @@ _Last updated: 2026-09-25 03:20 UTC_
 | 127 | Chasity Melvin | 508 |
 | 129 | Anna DeForge | 503 |
 | 129 | Coco Miller | 503 |
-| 131 | **Kahleah Copper** 🔴 +1 | 496 |
+| 131 | **Kahleah Copper** 🔴 +2 | 497 |
 | 132 | Crystal Robinson | 488 |
 | 132 | Tiffany Mitchell | 488 |
 | 134 | Rebekkah Brunson | 486 |
@@ -873,7 +873,7 @@ _Last updated: 2026-09-25 03:20 UTC_
 | 28 | Natasha Howard | 467 |
 | 29 | Skylar Diggins | 463 |
 | 29 | Teresa Weatherspoon | 463 |
-| 31 | **Chelsea Gray** 🔴 +2 | 459 |
+| 31 | **Chelsea Gray** 🔴 +3 | 460 |
 | 32 | **Jewell Loyd** 🔴 | 458 |
 | 33 | Rebekkah Brunson | 456 |
 | 34 | Tangela Smith | 455 |
@@ -987,11 +987,11 @@ _Last updated: 2026-09-25 03:20 UTC_
 | 142 | Wendy Palmer | 226 |
 | 143 | Alexis Hornbuckle | 225 |
 | 144 | Cheryl Ford | 224 |
+| 145 | **Kahleah Copper** 🔴 +2 | 221 |
 | 145 | Marina Mabrey | 221 |
 | 145 | Rushia Brown | 221 |
-| 147 | DeMya Walker | 220 |
-| 147 | Jennifer Gillom | 220 |
-| 147 | **Kahleah Copper** 🔴 +1 | 220 |
+| 148 | DeMya Walker | 220 |
+| 148 | Jennifer Gillom | 220 |
 | 150 | Allison Feaster | 219 |
 | 151 | **Cheyenne Parker-Tyus** 🔴 +1 | 218 |
 | 152 | Shenise Johnson | 217 |
@@ -1274,7 +1274,7 @@ _Last updated: 2026-09-25 03:20 UTC_
 | 18 | Cappie Pondexter | 945 |
 | 19 | Katie Smith | 935 |
 | 20 | Shannon Johnson | 934 |
-| 21 | **Chelsea Gray** 🔴 +2 | 929 |
+| 21 | **Chelsea Gray** 🔴 +4 | 931 |
 | 22 | Skylar Diggins | 907 |
 | 23 | Taj McWilliams-Franklin | 898 |
 | 24 | Candice Dupree | 869 |
@@ -1323,7 +1323,7 @@ _Last updated: 2026-09-25 03:20 UTC_
 | 67 | Ruth Riley | 637 |
 | 68 | Odyssey Sims | 631 |
 | 68 | Svetlana Abrosimova | 631 |
-| 70 | **Kahleah Copper** 🔴 +2 | 627 |
+| 70 | **Kahleah Copper** 🔴 +3 | 628 |
 | 71 | **Tiffany Hayes** 🔴 +2 | 626 |
 | 72 | Rebekkah Brunson | 615 |
 | 73 | Seimone Augustus | 613 |
@@ -1535,7 +1535,7 @@ _Last updated: 2026-09-25 03:20 UTC_
 | 73 | Elizabeth Williams | 737 |
 | 75 | Shameka Christon | 734 |
 | 76 | Becky Hammon | 733 |
-| 77 | **Ariel Atkins** 🔴 +1 | 731 |
+| 77 | **Ariel Atkins** 🔴 +2 | 732 |
 | 78 | Latasha Byears | 730 |
 | 79 | Kristi Toliver | 722 |
 | 80 | Cheryl Ford | 713 |
