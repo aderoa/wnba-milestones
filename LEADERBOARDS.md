@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-25 00:46 UTC_
+_Last updated: 2026-09-25 00:47 UTC_
 
 ## Contents
 
@@ -57,7 +57,7 @@ _Last updated: 2026-09-25 00:46 UTC_
 | 36 | Arike Ogunbowale | 4,715 |
 | 37 | Chamique Holdsclaw | 4,713 |
 | 38 | Elena Delle Donne | 4,706 |
-| 39 | **Natasha Howard** 🔴 +7 | 4,689 |
+| 39 | **Natasha Howard** 🔴 +9 | 4,691 |
 | 40 | Chelsea Gray | 4,625 |
 | 41 | Penny Taylor | 4,595 |
 | 42 | Kelsey Plum | 4,494 |
@@ -184,7 +184,7 @@ _Last updated: 2026-09-25 00:46 UTC_
 | 163 | Ezi Magbegor | 1,995 |
 | 164 | Bria Hartley | 1,967 |
 | 165 | Chiney Ogwumike | 1,964 |
-| 166 | **Myisha Hines-Allen** 🔴 +4 | 1,960 |
+| 166 | **Myisha Hines-Allen** 🔴 +6 | 1,962 |
 | 167 | Nicole Ohlde | 1,959 |
 | 168 | **Isabelle Harrison** 🔴 +19 | 1,951 |
 | 169 | Kedra Holland-Corn | 1,938 |
@@ -284,8 +284,8 @@ _Last updated: 2026-09-25 00:46 UTC_
 | 58 | Katie Douglas | 1,562 |
 | 59 | Angel McCoughtry | 1,561 |
 | 60 | Penny Taylor | 1,552 |
-| 61 | Cappie Pondexter | 1,513 |
-| 61 | **Napheesa Collier** 🔴 +3 | 1,513 |
+| 61 | **Napheesa Collier** 🔴 +4 | 1,514 |
+| 62 | Cappie Pondexter | 1,513 |
 | 63 | Ticha Penicheiro | 1,485 |
 | 64 | Alysha Clark | 1,469 |
 | 65 | Sue Bird | 1,466 |
@@ -532,7 +532,7 @@ _Last updated: 2026-09-25 00:46 UTC_
 | 100 | **Natasha Howard** 🔴 +1 | 616 |
 | 101 | Debbie Black | 612 |
 | 102 | Cynthia Cooper | 602 |
-| 103 | **Caitlin Clark** 🔴 +3 | 594 |
+| 103 | **Caitlin Clark** 🔴 +2 | 593 |
 | 104 | Sancho Lyttle | 592 |
 | 105 | Gabby Williams | 591 |
 | 106 | **Betnijah Laney-Hamilton** 🔴 | 590 |
@@ -541,7 +541,7 @@ _Last updated: 2026-09-25 00:46 UTC_
 | 109 | Veronica Burton | 579 |
 | 110 | Tan White | 578 |
 | 111 | Matee Ajavon | 577 |
-| 112 | **Napheesa Collier** 🔴 +1 | 571 |
+| 112 | **Napheesa Collier** 🔴 +2 | 572 |
 | 113 | Nicole Powell | 567 |
 | 114 | Loree Moore | 562 |
 | 115 | Sophia Young-Malcolm | 554 |
@@ -1020,8 +1020,8 @@ _Last updated: 2026-09-25 00:46 UTC_
 | 174 | Sonja Henning | 194 |
 | 174 | Tierra Ruffin-Pratt | 194 |
 | 177 | Cynthia Cooper | 192 |
-| 178 | **Isabelle Harrison** 🔴 +1 | 191 |
-| 178 | **Myisha Hines-Allen** 🔴 | 191 |
+| 177 | **Myisha Hines-Allen** 🔴 +1 | 192 |
+| 179 | **Isabelle Harrison** 🔴 +1 | 191 |
 | 180 | Tamicha Jackson | 188 |
 | 181 | Michele Timms | 187 |
 | 182 | Charde Houston | 185 |
@@ -1391,9 +1391,9 @@ _Last updated: 2026-09-25 00:46 UTC_
 | 134 | Nicole Ohlde | 434 |
 | 136 | Murriel Page | 432 |
 | 137 | Shameka Christon | 424 |
-| 138 | Cynthia Cooper | 422 |
-| 138 | **Napheesa Collier** 🔴 | 422 |
-| 138 | Noelle Quinn | 422 |
+| 138 | **Napheesa Collier** 🔴 +1 | 423 |
+| 139 | Cynthia Cooper | 422 |
+| 139 | Noelle Quinn | 422 |
 | 141 | Bria Hartley | 419 |
 | 142 | Sami Whitcomb | 416 |
 | 143 | Coco Miller | 410 |
