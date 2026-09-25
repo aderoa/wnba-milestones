@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-25 04:13 UTC_
+_Last updated: 2026-09-25 04:14 UTC_
 
 ## Contents
 
@@ -194,7 +194,7 @@ _Last updated: 2026-09-25 04:13 UTC_
 | 173 | Karima Christmas-Kelly | 1,919 |
 | 174 | Jessica Breland | 1,918 |
 | 175 | Nakia Sanford | 1,915 |
-| 176 | **Gabby Williams** 🔴 +11 | 1,910 |
+| 176 | **Gabby Williams** 🔴 +14 | 1,913 |
 | 177 | Ebony Hoffman | 1,909 |
 | 178 | Candice Wiggins | 1,901 |
 | 179 | NaLyssa Smith | 1,879 |
@@ -1190,8 +1190,8 @@ _Last updated: 2026-09-25 04:13 UTC_
 | 140 | Jennifer Azzi | 158 |
 | 140 | Natasha Howard | 158 |
 | 142 | Alanna Smith | 156 |
-| 143 | **Gabby Williams** 🔴 +1 | 154 |
-| 143 | Michaela Onyenwere | 154 |
+| 143 | **Gabby Williams** 🔴 +2 | 155 |
+| 144 | Michaela Onyenwere | 154 |
 | 145 | Bridget Pettis | 153 |
 | 145 | Jennifer Gillom | 153 |
 | 145 | Katie Lou Samuelson | 153 |
