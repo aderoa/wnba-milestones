@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-25 03:27 UTC_
+_Last updated: 2026-09-25 03:28 UTC_
 
 ## Contents
 
@@ -34,7 +34,7 @@ _Last updated: 2026-09-25 03:27 UTC_
 | 13 | Breanna Stewart | 6,335 |
 | 14 | Lisa Leslie | 6,251 |
 | 15 | **A'ja Wilson** 🔴 +27 | 6,205 |
-| 16 | **Jewell Loyd** 🔴 +17 | 6,165 |
+| 16 | **Jewell Loyd** 🔴 +19 | 6,167 |
 | 17 | Brittney Griner | 6,087 |
 | 18 | Lauren Jackson | 6,005 |
 | 18 | Seimone Augustus | 6,005 |
@@ -47,12 +47,12 @@ _Last updated: 2026-09-25 03:27 UTC_
 | 26 | Lindsay Whalen | 5,511 |
 | 27 | Kelsey Mitchell | 5,208 |
 | 28 | Swin Cash | 5,119 |
-| 29 | **Tiffany Hayes** 🔴 +5 | 5,054 |
+| 29 | **Tiffany Hayes** 🔴 +6 | 5,055 |
 | 30 | Tangela Smith | 5,035 |
 | 31 | Taj McWilliams-Franklin | 4,992 |
 | 32 | Maya Moore | 4,984 |
 | 33 | Sheryl Swoopes | 4,875 |
-| 34 | **Alyssa Thomas** 🔴 +4 | 4,756 |
+| 34 | **Alyssa Thomas** 🔴 +6 | 4,758 |
 | 35 | Alana Beard | 4,740 |
 | 36 | Arike Ogunbowale | 4,715 |
 | 37 | Chamique Holdsclaw | 4,713 |
@@ -227,7 +227,7 @@ _Last updated: 2026-09-25 03:27 UTC_
 | 1 | Tina Charles | 4,262 |
 | 2 | Sylvia Fowles | 4,005 |
 | 3 | Candace Parker | 3,467 |
-| 4 | **Nneka Ogwumike** 🔴 +10 | 3,416 |
+| 4 | **Nneka Ogwumike** 🔴 +11 | 3,417 |
 | 5 | Rebekkah Brunson | 3,345 |
 | 6 | Tamika Catchings | 3,313 |
 | 7 | Lisa Leslie | 3,303 |
@@ -235,9 +235,9 @@ _Last updated: 2026-09-25 03:27 UTC_
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
-| 12 | **Alyssa Thomas** 🔴 +3 | 2,861 |
+| 12 | **Alyssa Thomas** 🔴 +4 | 2,862 |
 | 13 | Jonquel Jones | 2,728 |
-| 14 | **A'ja Wilson** 🔴 +7 | 2,664 |
+| 14 | **A'ja Wilson** 🔴 +8 | 2,665 |
 | 15 | Breanna Stewart | 2,632 |
 | 16 | Sancho Lyttle | 2,596 |
 | 17 | Brittney Griner | 2,579 |
@@ -480,7 +480,7 @@ _Last updated: 2026-09-25 03:27 UTC_
 | 48 | **Tiffany Hayes** 🔴 | 957 |
 | 49 | Kara Lawson | 946 |
 | 50 | Arike Ogunbowale | 944 |
-| 51 | **Nneka Ogwumike** 🔴 +2 | 935 |
+| 51 | **Nneka Ogwumike** 🔴 +3 | 936 |
 | 52 | Deanna Nolan | 930 |
 | 53 | Kelly Miller | 927 |
 | 54 | DeLisha Milton-Jones | 921 |
@@ -516,8 +516,8 @@ _Last updated: 2026-09-25 03:27 UTC_
 | 84 | Moriah Jefferson | 685 |
 | 85 | Emma Meesseman | 681 |
 | 86 | Nykesha Sales | 677 |
-| 87 | **A'ja Wilson** 🔴 +1 | 668 |
-| 87 | Natisha Hiedeman | 668 |
+| 87 | **A'ja Wilson** 🔴 +2 | 669 |
+| 88 | Natisha Hiedeman | 668 |
 | 89 | Bria Hartley | 661 |
 | 90 | Brittney Griner | 660 |
 | 91 | Lindsay Allen | 657 |
@@ -560,7 +560,7 @@ _Last updated: 2026-09-25 03:27 UTC_
 | 127 | Chasity Melvin | 508 |
 | 129 | Anna DeForge | 503 |
 | 129 | Coco Miller | 503 |
-| 131 | **Kahleah Copper** 🔴 +2 | 497 |
+| 131 | **Kahleah Copper** 🔴 +3 | 498 |
 | 132 | Crystal Robinson | 488 |
 | 132 | Tiffany Mitchell | 488 |
 | 134 | Rebekkah Brunson | 486 |
