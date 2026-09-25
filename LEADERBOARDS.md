@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-25 02:24 UTC_
+_Last updated: 2026-09-25 02:25 UTC_
 
 ## Contents
 
@@ -991,8 +991,8 @@ _Last updated: 2026-09-25 02:24 UTC_
 | 145 | Rushia Brown | 221 |
 | 147 | DeMya Walker | 220 |
 | 147 | Jennifer Gillom | 220 |
-| 149 | Allison Feaster | 219 |
-| 149 | **Kahleah Copper** 🔴 | 219 |
+| 147 | **Kahleah Copper** 🔴 +1 | 220 |
+| 150 | Allison Feaster | 219 |
 | 151 | Cheyenne Parker-Tyus | 217 |
 | 151 | Shenise Johnson | 217 |
 | 153 | Adrian Williams-Strong | 216 |
@@ -1323,7 +1323,7 @@ _Last updated: 2026-09-25 02:24 UTC_
 | 67 | Ruth Riley | 637 |
 | 68 | Odyssey Sims | 631 |
 | 68 | Svetlana Abrosimova | 631 |
-| 70 | **Kahleah Copper** 🔴 +1 | 626 |
+| 70 | **Kahleah Copper** 🔴 +2 | 627 |
 | 71 | **Tiffany Hayes** 🔴 +1 | 625 |
 | 72 | Rebekkah Brunson | 615 |
 | 73 | Seimone Augustus | 613 |
@@ -1376,7 +1376,7 @@ _Last updated: 2026-09-25 02:24 UTC_
 | 120 | Elaine Powell | 469 |
 | 121 | Allie Quigley | 467 |
 | 122 | **Ariel Atkins** 🔴 | 465 |
-| 123 | **Jackie Young** 🔴 +1 | 464 |
+| 122 | **Jackie Young** 🔴 +2 | 465 |
 | 124 | Betnijah Laney-Hamilton | 456 |
 | 125 | Kia Vaughn | 454 |
 | 126 | Janeth Arcain | 453 |
