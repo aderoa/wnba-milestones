@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-25 02:28 UTC_
+_Last updated: 2026-09-25 02:29 UTC_
 
 ## Contents
 
@@ -34,7 +34,7 @@ _Last updated: 2026-09-25 02:28 UTC_
 | 13 | Breanna Stewart | 6,335 |
 | 14 | Lisa Leslie | 6,251 |
 | 15 | **A'ja Wilson** 🔴 +13 | 6,191 |
-| 16 | **Jewell Loyd** 🔴 | 6,148 |
+| 16 | **Jewell Loyd** 🔴 +3 | 6,151 |
 | 17 | Brittney Griner | 6,087 |
 | 18 | Lauren Jackson | 6,005 |
 | 18 | Seimone Augustus | 6,005 |
@@ -343,7 +343,7 @@ _Last updated: 2026-09-25 02:28 UTC_
 | 117 | Becky Hammon | 1,108 |
 | 118 | Isabelle Harrison | 1,107 |
 | 119 | Ann Wauters | 1,105 |
-| 120 | **Jackie Young** 🔴 | 1,085 |
+| 120 | **Jackie Young** 🔴 +1 | 1,086 |
 | 121 | Svetlana Abrosimova | 1,078 |
 | 122 | Le'coe Willingham | 1,054 |
 | 123 | Nicole Ohlde | 1,040 |
@@ -461,8 +461,8 @@ _Last updated: 2026-09-25 02:28 UTC_
 | 29 | Vickie Johnson | 1,202 |
 | 30 | Leilani Mitchell | 1,197 |
 | 31 | DeWanna Bonner | 1,196 |
+| 32 | **Jackie Young** 🔴 +6 | 1,156 |
 | 32 | **Jewell Loyd** 🔴 | 1,156 |
-| 33 | **Jackie Young** 🔴 +5 | 1,155 |
 | 34 | Renee Montgomery | 1,140 |
 | 35 | Swin Cash | 1,131 |
 | 36 | Sabrina Ionescu | 1,092 |
@@ -756,8 +756,8 @@ _Last updated: 2026-09-25 02:28 UTC_
 | 119 | Courtney Williams | 109 |
 | 120 | Erin Perperoglou | 108 |
 | 120 | Glory Johnson | 108 |
-| 122 | **Dearica Hamby** 🔴 | 106 |
-| 122 | Sylvia Crawley | 106 |
+| 122 | **Dearica Hamby** 🔴 +1 | 107 |
+| 123 | Sylvia Crawley | 106 |
 | 124 | Carolyn Swords | 104 |
 | 124 | Rebecca Lobo | 104 |
 | 126 | Jennifer Gillom | 103 |
@@ -1056,7 +1056,7 @@ _Last updated: 2026-09-25 02:28 UTC_
 | 6 | Tina Thompson | 745 |
 | 7 | Katie Douglas | 723 |
 | 8 | Kelsey Mitchell | 714 |
-| 9 | **Jewell Loyd** 🔴 | 695 |
+| 9 | **Jewell Loyd** 🔴 +1 | 696 |
 | 10 | DeWanna Bonner | 682 |
 | 11 | Kristi Toliver | 651 |
 | 12 | Kelsey Plum | 619 |
@@ -1324,7 +1324,7 @@ _Last updated: 2026-09-25 02:28 UTC_
 | 68 | Odyssey Sims | 631 |
 | 68 | Svetlana Abrosimova | 631 |
 | 70 | **Kahleah Copper** 🔴 +2 | 627 |
-| 71 | **Tiffany Hayes** 🔴 +1 | 625 |
+| 71 | **Tiffany Hayes** 🔴 +2 | 626 |
 | 72 | Rebekkah Brunson | 615 |
 | 73 | Seimone Augustus | 613 |
 | 74 | Teresa Weatherspoon | 601 |
