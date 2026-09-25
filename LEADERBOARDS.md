@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-25 03:16 UTC_
+_Last updated: 2026-09-25 03:17 UTC_
 
 ## Contents
 
@@ -22,7 +22,7 @@ _Last updated: 2026-09-25 03:16 UTC_
 | 1 | Diana Taurasi | 10,608 |
 | 2 | Tina Charles | 8,396 |
 | 3 | DeWanna Bonner | 7,972 |
-| 4 | **Nneka Ogwumike** 🔴 +12 | 7,575 |
+| 4 | **Nneka Ogwumike** 🔴 +13 | 7,576 |
 | 5 | Tina Thompson | 7,470 |
 | 6 | Tamika Catchings | 7,371 |
 | 7 | Candice Dupree | 6,861 |
@@ -259,7 +259,7 @@ _Last updated: 2026-09-25 03:16 UTC_
 | 33 | Elizabeth Williams | 1,980 |
 | 34 | Cheryl Ford | 1,907 |
 | 35 | Courtney Williams | 1,850 |
-| 36 | **Kiah Stokes** 🔴 +7 | 1,842 |
+| 36 | **Kiah Stokes** 🔴 +8 | 1,843 |
 | 37 | Plenette Pierson | 1,834 |
 | 38 | Natalie Williams | 1,832 |
 | 39 | Wendy Palmer | 1,824 |
@@ -295,7 +295,7 @@ _Last updated: 2026-09-25 03:16 UTC_
 | 69 | Tamera Young | 1,433 |
 | 70 | Alana Beard | 1,420 |
 | 71 | Nakia Sanford | 1,419 |
-| 72 | **Kayla Thornton** 🔴 +1 | 1,409 |
+| 72 | **Kayla Thornton** 🔴 +2 | 1,410 |
 | 73 | Allisha Gray | 1,404 |
 | 74 | Courtney Vandersloot | 1,389 |
 | 75 | Kara Braxton | 1,387 |
@@ -323,7 +323,7 @@ _Last updated: 2026-09-25 03:16 UTC_
 | 97 | Ezi Magbegor | 1,243 |
 | 98 | Seimone Augustus | 1,228 |
 | 99 | Jia Perkins | 1,220 |
-| 100 | **Kahleah Copper** 🔴 +3 | 1,207 |
+| 100 | **Kahleah Copper** 🔴 +4 | 1,208 |
 | 101 | Aliyah Boston | 1,201 |
 | 102 | DeMya Walker | 1,199 |
 | 103 | Latasha Byears | 1,190 |
