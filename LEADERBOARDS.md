@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-25 00:37 UTC_
+_Last updated: 2026-09-25 00:38 UTC_
 
 ## Contents
 
@@ -1194,7 +1194,7 @@ _Last updated: 2026-09-25 00:37 UTC_
 | 143 | Gabby Williams | 153 |
 | 143 | Jennifer Gillom | 153 |
 | 143 | Katie Lou Samuelson | 153 |
-| 147 | **Michaela Onyenwere** 🔴 +1 | 152 |
+| 143 | **Michaela Onyenwere** 🔴 +2 | 153 |
 | 148 | Rita Williams | 150 |
 | 149 | Moriah Jefferson | 149 |
 | 149 | Tiffany Mitchell | 149 |
@@ -1248,6 +1248,7 @@ _Last updated: 2026-09-25 00:37 UTC_
 | 198 | Julie Vanloo | 104 |
 | 199 | Jeanette Pohlen-Mavunga | 103 |
 | 199 | Kiesha Brown | 103 |
+| 199 | **Sonia Citron** 🔴 +1 | 103 |
 
 ## Turnovers
 
