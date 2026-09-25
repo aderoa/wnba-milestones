@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-25 00:23 UTC_
+_Last updated: 2026-09-25 00:24 UTC_
 
 ## Contents
 
@@ -41,7 +41,7 @@ _Last updated: 2026-09-25 00:23 UTC_
 | 20 | Becky Hammon | 5,816 |
 | 21 | Angel McCoughtry | 5,797 |
 | 22 | Skylar Diggins | 5,732 |
-| 23 | **Kayla McBride** 🔴 +5 | 5,655 |
+| 23 | **Kayla McBride** 🔴 +7 | 5,657 |
 | 24 | DeLisha Milton-Jones | 5,571 |
 | 25 | Katie Douglas | 5,545 |
 | 26 | Lindsay Whalen | 5,511 |
@@ -653,8 +653,8 @@ _Last updated: 2026-09-25 00:23 UTC_
 | 16 | Michelle Snow | 403 |
 | 17 | Tamika Catchings | 383 |
 | 18 | Tina Thompson | 372 |
-| 19 | Erika de Souza | 370 |
-| 19 | **Natasha Howard** 🔴 | 370 |
+| 19 | **Natasha Howard** 🔴 +1 | 371 |
+| 20 | Erika de Souza | 370 |
 | 21 | Jessica Breland | 367 |
 | 22 | DeWanna Bonner | 358 |
 | 23 | Ezi Magbegor | 354 |
@@ -1601,8 +1601,8 @@ _Last updated: 2026-09-25 00:23 UTC_
 | 141 | Glory Johnson | 550 |
 | 141 | Tierra Ruffin-Pratt | 550 |
 | 143 | Jackie Young | 548 |
-| 144 | Erlana Larkins | 546 |
-| 144 | **Monique Billings** 🔴 | 546 |
+| 144 | **Monique Billings** 🔴 +1 | 547 |
+| 145 | Erlana Larkins | 546 |
 | 146 | Jayne Appel Marinelli | 543 |
 | 146 | **Kayla McBride** 🔴 | 543 |
 | 146 | Renee Montgomery | 543 |
