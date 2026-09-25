@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-25 03:30 UTC_
+_Last updated: 2026-09-25 03:31 UTC_
 
 ## Contents
 
@@ -34,7 +34,7 @@ _Last updated: 2026-09-25 03:30 UTC_
 | 13 | Breanna Stewart | 6,335 |
 | 14 | Lisa Leslie | 6,251 |
 | 15 | **A'ja Wilson** 🔴 +27 | 6,205 |
-| 16 | **Jewell Loyd** 🔴 +19 | 6,167 |
+| 16 | **Jewell Loyd** 🔴 +21 | 6,169 |
 | 17 | Brittney Griner | 6,087 |
 | 18 | Lauren Jackson | 6,005 |
 | 18 | Seimone Augustus | 6,005 |
@@ -343,7 +343,7 @@ _Last updated: 2026-09-25 03:30 UTC_
 | 117 | Becky Hammon | 1,108 |
 | 118 | Isabelle Harrison | 1,107 |
 | 119 | Ann Wauters | 1,105 |
-| 120 | **Jackie Young** 🔴 +6 | 1,091 |
+| 120 | **Jackie Young** 🔴 +7 | 1,092 |
 | 121 | Svetlana Abrosimova | 1,078 |
 | 122 | Le'coe Willingham | 1,054 |
 | 123 | Nicole Ohlde | 1,040 |
@@ -461,7 +461,7 @@ _Last updated: 2026-09-25 03:30 UTC_
 | 29 | Vickie Johnson | 1,202 |
 | 30 | Leilani Mitchell | 1,197 |
 | 31 | DeWanna Bonner | 1,196 |
-| 32 | **Jackie Young** 🔴 +9 | 1,159 |
+| 32 | **Jackie Young** 🔴 +10 | 1,160 |
 | 33 | **Jewell Loyd** 🔴 | 1,156 |
 | 34 | Renee Montgomery | 1,140 |
 | 35 | Swin Cash | 1,131 |
@@ -1374,8 +1374,8 @@ _Last updated: 2026-09-25 03:30 UTC_
 | 118 | Allisha Gray | 476 |
 | 119 | Ebony Hoffman | 470 |
 | 120 | Elaine Powell | 469 |
-| 121 | **Jackie Young** 🔴 +5 | 468 |
-| 122 | Allie Quigley | 467 |
+| 121 | Allie Quigley | 467 |
+| 121 | **Jackie Young** 🔴 +4 | 467 |
 | 123 | **Ariel Atkins** 🔴 | 465 |
 | 124 | Betnijah Laney-Hamilton | 456 |
 | 125 | Kia Vaughn | 454 |
