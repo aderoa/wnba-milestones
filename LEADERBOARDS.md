@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-25 02:23 UTC_
+_Last updated: 2026-09-25 02:24 UTC_
 
 ## Contents
 
@@ -516,8 +516,8 @@ _Last updated: 2026-09-25 02:23 UTC_
 | 84 | **Ariel Atkins** 🔴 | 682 |
 | 85 | Emma Meesseman | 681 |
 | 86 | Nykesha Sales | 677 |
+| 87 | **A'ja Wilson** 🔴 +1 | 668 |
 | 87 | Natisha Hiedeman | 668 |
-| 88 | **A'ja Wilson** 🔴 | 667 |
 | 89 | Bria Hartley | 661 |
 | 90 | Brittney Griner | 660 |
 | 91 | Lindsay Allen | 657 |
@@ -945,7 +945,7 @@ _Last updated: 2026-09-25 02:23 UTC_
 | 100 | Janel McCarville | 294 |
 | 101 | Kelly Miller | 290 |
 | 102 | Glory Johnson | 289 |
-| 103 | **Jackie Young** 🔴 | 287 |
+| 103 | **Jackie Young** 🔴 +1 | 288 |
 | 104 | Essence Carson | 285 |
 | 105 | Seimone Augustus | 280 |
 | 106 | Tari Phillips | 277 |
@@ -1647,7 +1647,7 @@ _Last updated: 2026-09-25 02:23 UTC_
 | 186 | Cathrine Kraayeveld | 484 |
 | 187 | Liz Cambage | 483 |
 | 187 | Rhonda Mapp | 483 |
-| 189 | **Sami Whitcomb** 🔴 | 480 |
+| 189 | **Sami Whitcomb** 🔴 +1 | 481 |
 | 190 | Alanna Smith | 479 |
 | 191 | Seimone Augustus | 477 |
 | 192 | Allie Quigley | 475 |
