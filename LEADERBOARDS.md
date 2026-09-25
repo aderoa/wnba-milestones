@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-25 03:44 UTC_
+_Last updated: 2026-09-25 03:45 UTC_
 
 ## Contents
 
@@ -33,7 +33,7 @@ _Last updated: 2026-09-25 03:44 UTC_
 | 12 | Sylvia Fowles | 6,413 |
 | 13 | Breanna Stewart | 6,335 |
 | 14 | Lisa Leslie | 6,251 |
-| 15 | **A'ja Wilson** 🔴 +29 | 6,207 |
+| 15 | **A'ja Wilson** 🔴 +32 | 6,210 |
 | 16 | **Jewell Loyd** 🔴 +21 | 6,169 |
 | 17 | Brittney Griner | 6,087 |
 | 18 | Lauren Jackson | 6,005 |
@@ -435,7 +435,7 @@ _Last updated: 2026-09-25 03:44 UTC_
 | 3 | Ticha Penicheiro | 2,588 |
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
-| 6 | **Chelsea Gray** 🔴 +8 | 2,011 |
+| 6 | **Chelsea Gray** 🔴 +9 | 2,012 |
 | 7 | **Alyssa Thomas** 🔴 +6 | 1,977 |
 | 8 | Skylar Diggins | 1,852 |
 | 9 | Natasha Cloud | 1,802 |
@@ -1247,6 +1247,7 @@ _Last updated: 2026-09-25 03:44 UTC_
 | 197 | Laurie Koehn | 105 |
 | 198 | Julie Vanloo | 104 |
 | 198 | Sonia Citron | 104 |
+| 200 | **A'ja Wilson** 🔴 +1 | 103 |
 | 200 | Jeanette Pohlen-Mavunga | 103 |
 | 200 | Kiesha Brown | 103 |
 
