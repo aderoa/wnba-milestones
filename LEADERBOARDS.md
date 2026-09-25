@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-25 03:22 UTC_
+_Last updated: 2026-09-25 03:23 UTC_
 
 ## Contents
 
@@ -781,8 +781,8 @@ _Last updated: 2026-09-25 03:22 UTC_
 | 143 | Kayla Alexander | 91 |
 | 145 | Allie Quigley | 90 |
 | 145 | Alysha Clark | 90 |
-| 147 | Natasha Cloud | 89 |
-| 147 | **Tiffany Hayes** 🔴 | 89 |
+| 145 | **Tiffany Hayes** 🔴 +1 | 90 |
+| 148 | Natasha Cloud | 89 |
 | 149 | Marissa Coleman | 88 |
 | 150 | **Kalani Brown** 🔴 +2 | 87 |
 | 151 | Astou Ndiaye-Diatta | 86 |
@@ -1562,7 +1562,7 @@ _Last updated: 2026-09-25 03:22 UTC_
 | 101 | Kelly Miller | 676 |
 | 102 | Chamique Holdsclaw | 667 |
 | 103 | Tianna Hawkins | 662 |
-| 104 | **Kiah Stokes** 🔴 | 651 |
+| 104 | **Kiah Stokes** 🔴 +1 | 652 |
 | 105 | Tari Phillips | 648 |
 | 106 | Marie Ferdinand-Harris | 646 |
 | 107 | **Chelsea Gray** 🔴 +1 | 641 |
