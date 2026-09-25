@@ -341,7 +341,7 @@ _Last updated: 2026-09-25 00:43 UTC_
 | 115 | Deanna Nolan | 1,112 |
 | 116 | Chiney Ogwumike | 1,110 |
 | 117 | Becky Hammon | 1,108 |
-| 118 | **Isabelle Harrison** 🔴 +9 | 1,106 |
+| 118 | **Isabelle Harrison** 🔴 +10 | 1,107 |
 | 119 | Ann Wauters | 1,105 |
 | 120 | Jackie Young | 1,085 |
 | 121 | Svetlana Abrosimova | 1,078 |
