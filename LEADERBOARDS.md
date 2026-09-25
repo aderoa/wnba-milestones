@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-25 00:59 UTC_
+_Last updated: 2026-09-25 01:00 UTC_
 
 ## Contents
 
@@ -157,7 +157,7 @@ _Last updated: 2026-09-25 00:59 UTC_
 | 136 | **Betnijah Laney-Hamilton** 🔴 +2 | 2,304 |
 | 137 | Satou Sabally | 2,296 |
 | 138 | Kia Vaughn | 2,288 |
-| 139 | **Kia Nurse** 🔴 +5 | 2,267 |
+| 139 | **Kia Nurse** 🔴 +7 | 2,269 |
 | 140 | Allison Feaster | 2,258 |
 | 141 | Shekinna Stricklen | 2,245 |
 | 142 | Kara Braxton | 2,237 |
@@ -385,7 +385,7 @@ _Last updated: 2026-09-25 00:59 UTC_
 | 159 | Krystal Thomas | 862 |
 | 160 | Naz Hillmon | 859 |
 | 161 | Leilani Mitchell | 845 |
-| 162 | **Shakira Austin** 🔴 +10 | 842 |
+| 162 | **Shakira Austin** 🔴 +12 | 844 |
 | 163 | Essence Carson | 833 |
 | 164 | Gabby Williams | 831 |
 | 165 | Kristi Toliver | 829 |
