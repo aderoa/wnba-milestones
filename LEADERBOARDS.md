@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-25 03:25 UTC_
+_Last updated: 2026-09-25 03:26 UTC_
 
 ## Contents
 
@@ -33,7 +33,7 @@ _Last updated: 2026-09-25 03:25 UTC_
 | 12 | Sylvia Fowles | 6,413 |
 | 13 | Breanna Stewart | 6,335 |
 | 14 | Lisa Leslie | 6,251 |
-| 15 | **A'ja Wilson** 🔴 +23 | 6,201 |
+| 15 | **A'ja Wilson** 🔴 +25 | 6,203 |
 | 16 | **Jewell Loyd** 🔴 +17 | 6,165 |
 | 17 | Brittney Griner | 6,087 |
 | 18 | Lauren Jackson | 6,005 |
@@ -855,7 +855,7 @@ _Last updated: 2026-09-25 03:25 UTC_
 | 10 | Angel McCoughtry | 627 |
 | 11 | Katie Douglas | 623 |
 | 12 | DeLisha Milton-Jones | 619 |
-| 13 | **Alyssa Thomas** 🔴 | 582 |
+| 13 | **Alyssa Thomas** 🔴 +1 | 583 |
 | 14 | Taj McWilliams-Franklin | 577 |
 | 15 | Tully Bevilaqua | 571 |
 | 16 | Courtney Vandersloot | 546 |
@@ -943,9 +943,9 @@ _Last updated: 2026-09-25 03:25 UTC_
 | 98 | Elizabeth Williams | 300 |
 | 99 | Lindsey Harding | 295 |
 | 100 | Janel McCarville | 294 |
+| 101 | **Jackie Young** 🔴 +3 | 290 |
 | 101 | Kelly Miller | 290 |
-| 102 | Glory Johnson | 289 |
-| 102 | **Jackie Young** 🔴 +2 | 289 |
+| 103 | Glory Johnson | 289 |
 | 104 | Essence Carson | 285 |
 | 105 | Seimone Augustus | 280 |
 | 106 | Tari Phillips | 277 |
@@ -1266,7 +1266,7 @@ _Last updated: 2026-09-25 03:25 UTC_
 | 10 | Candace Parker | 1,062 |
 | 11 | Tamika Catchings | 1,041 |
 | 12 | Tina Charles | 1,040 |
-| 13 | **Alyssa Thomas** 🔴 | 1,035 |
+| 13 | **Alyssa Thomas** 🔴 +1 | 1,036 |
 | 14 | Lindsay Whalen | 1,002 |
 | 15 | Sylvia Fowles | 961 |
 | 16 | Tanisha Wright | 954 |
@@ -1274,7 +1274,7 @@ _Last updated: 2026-09-25 03:25 UTC_
 | 18 | Cappie Pondexter | 945 |
 | 19 | Katie Smith | 935 |
 | 20 | Shannon Johnson | 934 |
-| 21 | **Chelsea Gray** 🔴 +3 | 930 |
+| 21 | **Chelsea Gray** 🔴 +4 | 931 |
 | 22 | Skylar Diggins | 907 |
 | 23 | Taj McWilliams-Franklin | 898 |
 | 24 | Candice Dupree | 869 |
