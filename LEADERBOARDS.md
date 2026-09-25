@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-25 02:37 UTC_
+_Last updated: 2026-09-25 02:38 UTC_
 
 ## Contents
 
@@ -34,7 +34,7 @@ _Last updated: 2026-09-25 02:37 UTC_
 | 13 | Breanna Stewart | 6,335 |
 | 14 | Lisa Leslie | 6,251 |
 | 15 | **A'ja Wilson** 🔴 +17 | 6,195 |
-| 16 | **Jewell Loyd** 🔴 +10 | 6,158 |
+| 16 | **Jewell Loyd** 🔴 +13 | 6,161 |
 | 17 | Brittney Griner | 6,087 |
 | 18 | Lauren Jackson | 6,005 |
 | 18 | Seimone Augustus | 6,005 |
@@ -378,7 +378,7 @@ _Last updated: 2026-09-25 02:37 UTC_
 | 152 | Natalie Achonwa | 895 |
 | 153 | Temeka Johnson | 889 |
 | 154 | Mistie Bass | 888 |
-| 155 | **Erica Wheeler** 🔴 +1 | 883 |
+| 155 | **Erica Wheeler** 🔴 +2 | 884 |
 | 156 | Alanna Smith | 878 |
 | 157 | Marina Mabrey | 874 |
 | 158 | Shameka Christon | 867 |
@@ -513,7 +513,7 @@ _Last updated: 2026-09-25 02:37 UTC_
 | 81 | Shavonte Zellous | 693 |
 | 82 | Allie Quigley | 690 |
 | 83 | Moriah Jefferson | 685 |
-| 84 | **Ariel Atkins** 🔴 | 682 |
+| 84 | **Ariel Atkins** 🔴 +1 | 683 |
 | 85 | Emma Meesseman | 681 |
 | 86 | Nykesha Sales | 677 |
 | 87 | **A'ja Wilson** 🔴 +1 | 668 |
@@ -533,9 +533,9 @@ _Last updated: 2026-09-25 02:37 UTC_
 | 101 | Debbie Black | 612 |
 | 102 | Cynthia Cooper | 602 |
 | 103 | Caitlin Clark | 594 |
+| 104 | **Gabby Williams** 🔴 +1 | 592 |
 | 104 | Sancho Lyttle | 592 |
-| 105 | Betnijah Laney-Hamilton | 591 |
-| 105 | **Gabby Williams** 🔴 | 591 |
+| 106 | Betnijah Laney-Hamilton | 591 |
 | 107 | Camille Smith | 590 |
 | 108 | Armintie Herrington | 589 |
 | 109 | **Veronica Burton** 🔴 +1 | 580 |
@@ -1056,7 +1056,7 @@ _Last updated: 2026-09-25 02:37 UTC_
 | 6 | Tina Thompson | 745 |
 | 7 | Katie Douglas | 723 |
 | 8 | Kelsey Mitchell | 714 |
-| 9 | **Jewell Loyd** 🔴 +2 | 697 |
+| 9 | **Jewell Loyd** 🔴 +3 | 698 |
 | 10 | DeWanna Bonner | 682 |
 | 11 | Kristi Toliver | 651 |
 | 12 | Kelsey Plum | 619 |
