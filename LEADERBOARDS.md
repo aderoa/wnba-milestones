@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-25 01:41 UTC_
+_Last updated: 2026-09-25 01:42 UTC_
 
 ## Contents
 
@@ -1404,7 +1404,7 @@ _Last updated: 2026-09-25 01:41 UTC_
 | 148 | Merlakia Jones | 398 |
 | 149 | Glory Johnson | 397 |
 | 150 | Marissa Coleman | 396 |
-| 151 | **Myisha Hines-Allen** 🔴 +3 | 393 |
+| 151 | **Myisha Hines-Allen** 🔴 +4 | 394 |
 | 152 | Elizabeth Williams | 388 |
 | 153 | Sophia Witherspoon | 386 |
 | 154 | Hamchetou Maiga-Ba | 385 |
