@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-09-25 02:41 UTC
+
+- **Kalani Brown** passed **Adrian Williams-Strong**, **Erlana Larkins**, and **Kristin Folkl** for **#151** all-time in blocks (career 86) — up from #153 entering today — _6:43 - 2nd — LV @ PHX_
+
 ## 2026-09-25 01:08 UTC
 
 - **Elizabeth Williams** reached **300** career steals (now 300) — _4:29 - 4th — CHI @ WSH_

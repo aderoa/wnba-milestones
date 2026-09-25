@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-25 02:40 UTC_
+_Last updated: 2026-09-25 02:41 UTC_
 
 ## Contents
 
@@ -34,7 +34,7 @@ _Last updated: 2026-09-25 02:40 UTC_
 | 13 | Breanna Stewart | 6,335 |
 | 14 | Lisa Leslie | 6,251 |
 | 15 | **A'ja Wilson** 🔴 +17 | 6,195 |
-| 16 | **Jewell Loyd** 🔴 +14 | 6,162 |
+| 16 | **Jewell Loyd** 🔴 +17 | 6,165 |
 | 17 | Brittney Griner | 6,087 |
 | 18 | Lauren Jackson | 6,005 |
 | 18 | Seimone Augustus | 6,005 |
@@ -435,7 +435,7 @@ _Last updated: 2026-09-25 02:40 UTC_
 | 3 | Ticha Penicheiro | 2,588 |
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
-| 6 | **Chelsea Gray** 🔴 +2 | 2,005 |
+| 6 | **Chelsea Gray** 🔴 +3 | 2,006 |
 | 7 | **Alyssa Thomas** 🔴 | 1,971 |
 | 8 | Skylar Diggins | 1,852 |
 | 9 | Natasha Cloud | 1,802 |
@@ -785,10 +785,10 @@ _Last updated: 2026-09-25 02:40 UTC_
 | 147 | **Tiffany Hayes** 🔴 | 89 |
 | 149 | Marissa Coleman | 88 |
 | 150 | Astou Ndiaye-Diatta | 86 |
-| 151 | Adrian Williams-Strong | 85 |
-| 151 | Erlana Larkins | 85 |
-| 151 | **Kalani Brown** 🔴 | 85 |
-| 151 | Kristin Folkl | 85 |
+| 150 | **Kalani Brown** 🔴 +1 | 86 |
+| 152 | Adrian Williams-Strong | 85 |
+| 152 | Erlana Larkins | 85 |
+| 152 | Kristin Folkl | 85 |
 | 155 | Charde Houston | 84 |
 | 155 | Marina Mabrey | 84 |
 | 155 | Shatori Walker-Kimbrough | 84 |
@@ -1056,7 +1056,7 @@ _Last updated: 2026-09-25 02:40 UTC_
 | 6 | Tina Thompson | 745 |
 | 7 | Katie Douglas | 723 |
 | 8 | Kelsey Mitchell | 714 |
-| 9 | **Jewell Loyd** 🔴 +3 | 698 |
+| 9 | **Jewell Loyd** 🔴 +4 | 699 |
 | 10 | DeWanna Bonner | 682 |
 | 11 | Kristi Toliver | 651 |
 | 12 | Kelsey Plum | 619 |

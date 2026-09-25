@@ -1,5 +1,19 @@
 [
   {
+    "ts": "2026-09-25T02:41:00+00:00",
+    "text": "Kalani Brown passed Adrian Williams-Strong, Erlana Larkins, and Kristin Folkl for #151 all-time in blocks (career 86) \u2014 up from #153 entering today \u2014 (6:43 - 2nd \u2014 LV @ PHX)",
+    "kind": "rank_pass",
+    "player": "Kalani Brown",
+    "stat": "blocks",
+    "rank": 151,
+    "passed_players": [
+      "Adrian Williams-Strong",
+      "Erlana Larkins",
+      "Kristin Folkl"
+    ],
+    "new_total": 86
+  },
+  {
     "ts": "2026-09-25T01:08:00+00:00",
     "text": "Elizabeth Williams reached 300 career steals (now 300) \u2014 (4:29 - 4th \u2014 CHI @ WSH)",
     "kind": "round",
@@ -2959,17 +2973,5 @@
     "stat": "steals",
     "value": 400,
     "new_total": 400
-  },
-  {
-    "ts": "2026-07-09T04:03:00+00:00",
-    "text": "Dearica Hamby passed Courtney Williams for #50 all-time in points (career 4,351) \u2014 up from #51 entering today \u2014 (8.4 - 4th \u2014 IND @ LA)",
-    "kind": "rank_pass",
-    "player": "Dearica Hamby",
-    "stat": "points",
-    "rank": 50,
-    "passed_players": [
-      "Courtney Williams"
-    ],
-    "new_total": 4351
   }
 ]
