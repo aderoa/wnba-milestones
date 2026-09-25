@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-25 00:40 UTC_
+_Last updated: 2026-09-25 00:41 UTC_
 
 ## Contents
 
@@ -184,8 +184,8 @@ _Last updated: 2026-09-25 00:40 UTC_
 | 163 | Ezi Magbegor | 1,995 |
 | 164 | Bria Hartley | 1,967 |
 | 165 | Chiney Ogwumike | 1,964 |
-| 166 | Nicole Ohlde | 1,959 |
-| 167 | **Myisha Hines-Allen** 🔴 +2 | 1,958 |
+| 166 | **Myisha Hines-Allen** 🔴 +4 | 1,960 |
+| 167 | Nicole Ohlde | 1,959 |
 | 168 | **Isabelle Harrison** 🔴 +19 | 1,951 |
 | 169 | Kedra Holland-Corn | 1,938 |
 | 170 | Cathrine Kraayeveld | 1,926 |
@@ -341,8 +341,8 @@ _Last updated: 2026-09-25 00:40 UTC_
 | 115 | Deanna Nolan | 1,112 |
 | 116 | Chiney Ogwumike | 1,110 |
 | 117 | Becky Hammon | 1,108 |
-| 118 | Ann Wauters | 1,105 |
-| 118 | **Isabelle Harrison** 🔴 +8 | 1,105 |
+| 118 | **Isabelle Harrison** 🔴 +9 | 1,106 |
+| 119 | Ann Wauters | 1,105 |
 | 120 | Jackie Young | 1,085 |
 | 121 | Svetlana Abrosimova | 1,078 |
 | 122 | Le'coe Willingham | 1,054 |
@@ -411,7 +411,7 @@ _Last updated: 2026-09-25 00:40 UTC_
 | 183 | Tan White | 769 |
 | 186 | Tully Bevilaqua | 767 |
 | 187 | Layshia Clarendon | 756 |
-| 188 | **Kamilla Cardoso** 🔴 +4 | 754 |
+| 188 | **Kamilla Cardoso** 🔴 +5 | 755 |
 | 189 | Brooke Wyckoff | 751 |
 | 190 | Coco Miller | 750 |
 | 191 | Kelsey Plum | 741 |
@@ -532,7 +532,7 @@ _Last updated: 2026-09-25 00:40 UTC_
 | 100 | **Natasha Howard** 🔴 +1 | 616 |
 | 101 | Debbie Black | 612 |
 | 102 | Cynthia Cooper | 602 |
-| 103 | **Caitlin Clark** 🔴 +2 | 593 |
+| 103 | **Caitlin Clark** 🔴 +3 | 594 |
 | 104 | Sancho Lyttle | 592 |
 | 105 | Gabby Williams | 591 |
 | 106 | **Betnijah Laney-Hamilton** 🔴 | 590 |
