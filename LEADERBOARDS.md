@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-25 03:00 UTC_
+_Last updated: 2026-09-25 03:01 UTC_
 
 ## Contents
 
@@ -315,10 +315,10 @@ _Last updated: 2026-09-25 03:00 UTC_
 | 89 | Tari Phillips | 1,274 |
 | 90 | Myisha Hines-Allen | 1,267 |
 | 91 | Janel McCarville | 1,261 |
-| 92 | **Chelsea Gray** 🔴 +1 | 1,258 |
-| 92 | Kayla McBride | 1,258 |
-| 92 | Liz Cambage | 1,258 |
-| 92 | **Tiffany Hayes** 🔴 +1 | 1,258 |
+| 92 | **Chelsea Gray** 🔴 +2 | 1,259 |
+| 93 | Kayla McBride | 1,258 |
+| 93 | Liz Cambage | 1,258 |
+| 93 | **Tiffany Hayes** 🔴 +1 | 1,258 |
 | 96 | **Brianna Turner** 🔴 +3 | 1,246 |
 | 97 | Ezi Magbegor | 1,243 |
 | 98 | Seimone Augustus | 1,228 |
@@ -784,8 +784,8 @@ _Last updated: 2026-09-25 03:00 UTC_
 | 147 | Natasha Cloud | 89 |
 | 147 | **Tiffany Hayes** 🔴 | 89 |
 | 149 | Marissa Coleman | 88 |
-| 150 | Astou Ndiaye-Diatta | 86 |
-| 150 | **Kalani Brown** 🔴 +1 | 86 |
+| 150 | **Kalani Brown** 🔴 +2 | 87 |
+| 151 | Astou Ndiaye-Diatta | 86 |
 | 152 | Adrian Williams-Strong | 85 |
 | 152 | Erlana Larkins | 85 |
 | 152 | Kristin Folkl | 85 |

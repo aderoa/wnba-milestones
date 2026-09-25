@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-09-25 03:01 UTC
+
+- **Kalani Brown** passed **Astou Ndiaye-Diatta** for **#150** all-time in blocks (career 87) — up from #153 entering today — _Halftime — LV @ PHX_
+
 ## 2026-09-25 02:41 UTC
 
 - **Kalani Brown** passed **Adrian Williams-Strong**, **Erlana Larkins**, and **Kristin Folkl** for **#151** all-time in blocks (career 86) — up from #153 entering today — _6:43 - 2nd — LV @ PHX_

@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-09-25T03:01:00+00:00",
+    "text": "Kalani Brown passed Astou Ndiaye-Diatta for #150 all-time in blocks (career 87) \u2014 up from #153 entering today \u2014 (Halftime \u2014 LV @ PHX)",
+    "kind": "rank_pass",
+    "player": "Kalani Brown",
+    "stat": "blocks",
+    "rank": 150,
+    "passed_players": [
+      "Astou Ndiaye-Diatta"
+    ],
+    "new_total": 87
+  },
+  {
     "ts": "2026-09-25T02:41:00+00:00",
     "text": "Kalani Brown passed Adrian Williams-Strong, Erlana Larkins, and Kristin Folkl for #151 all-time in blocks (career 86) \u2014 up from #153 entering today \u2014 (6:43 - 2nd \u2014 LV @ PHX)",
     "kind": "rank_pass",
@@ -2964,14 +2976,5 @@
       "Shekinna Stricklen"
     ],
     "new_total": 727
-  },
-  {
-    "ts": "2026-07-10T02:00:00+00:00",
-    "text": "Jordin Canada reached 400 career steals (now 400) \u2014 (3:09 - 4th \u2014 SEA @ ATL)",
-    "kind": "round",
-    "player": "Jordin Canada",
-    "stat": "steals",
-    "value": 400,
-    "new_total": 400
   }
 ]
