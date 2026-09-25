@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-25 00:17 UTC_
+_Last updated: 2026-09-25 00:18 UTC_
 
 ## Contents
 
@@ -88,8 +88,8 @@ _Last updated: 2026-09-25 00:17 UTC_
 | 67 | Mwadi Mabika | 3,576 |
 | 68 | Odyssey Sims | 3,574 |
 | 69 | Camille Smith | 3,551 |
-| 70 | **Napheesa Collier** 🔴 | 3,542 |
-| 70 | Shannon Johnson | 3,542 |
+| 70 | **Napheesa Collier** 🔴 +3 | 3,545 |
+| 71 | Shannon Johnson | 3,542 |
 | 72 | Renee Montgomery | 3,533 |
 | 73 | Jasmine Thomas | 3,522 |
 | 74 | Tamecka Dixon | 3,507 |
@@ -249,7 +249,7 @@ _Last updated: 2026-09-25 00:17 UTC_
 | 23 | Lauren Jackson | 2,444 |
 | 24 | Yolanda Griffith | 2,440 |
 | 25 | Tangela Smith | 2,328 |
-| 26 | **Natasha Howard** 🔴 +2 | 2,317 |
+| 26 | **Natasha Howard** 🔴 +3 | 2,318 |
 | 27 | Erika de Souza | 2,220 |
 | 28 | Diana Taurasi | 2,201 |
 | 29 | Margo Dydek | 2,138 |
@@ -258,7 +258,7 @@ _Last updated: 2026-09-25 00:17 UTC_
 | 32 | Tammy Sutton-Brown | 2,010 |
 | 33 | **Elizabeth Williams** 🔴 | 1,978 |
 | 34 | Cheryl Ford | 1,907 |
-| 35 | **Courtney Williams** 🔴 +2 | 1,845 |
+| 35 | **Courtney Williams** 🔴 +3 | 1,846 |
 | 36 | Kiah Stokes | 1,835 |
 | 37 | Plenette Pierson | 1,834 |
 | 38 | Natalie Williams | 1,832 |
@@ -342,7 +342,7 @@ _Last updated: 2026-09-25 00:17 UTC_
 | 116 | Chiney Ogwumike | 1,110 |
 | 117 | Becky Hammon | 1,108 |
 | 118 | Ann Wauters | 1,105 |
-| 119 | **Isabelle Harrison** 🔴 +7 | 1,104 |
+| 118 | **Isabelle Harrison** 🔴 +8 | 1,105 |
 | 120 | Jackie Young | 1,085 |
 | 121 | Svetlana Abrosimova | 1,078 |
 | 122 | Le'coe Willingham | 1,054 |
@@ -444,7 +444,7 @@ _Last updated: 2026-09-25 00:17 UTC_
 | 12 | Cappie Pondexter | 1,575 |
 | 13 | Tamika Catchings | 1,484 |
 | 14 | Danielle Robinson | 1,480 |
-| 15 | **Courtney Williams** 🔴 +2 | 1,440 |
+| 15 | **Courtney Williams** 🔴 +3 | 1,441 |
 | 16 | Shannon Johnson | 1,423 |
 | 16 | Tanisha Wright | 1,423 |
 | 18 | Temeka Johnson | 1,382 |
@@ -940,7 +940,7 @@ _Last updated: 2026-09-25 00:17 UTC_
 | 95 | Ebony Hoffman | 308 |
 | 96 | Tamera Young | 305 |
 | 97 | Kedra Holland-Corn | 301 |
-| 98 | **Elizabeth Williams** 🔴 +2 | 297 |
+| 98 | **Elizabeth Williams** 🔴 +3 | 298 |
 | 99 | Lindsey Harding | 295 |
 | 100 | Janel McCarville | 294 |
 | 101 | Kelly Miller | 290 |
@@ -1164,8 +1164,8 @@ _Last updated: 2026-09-25 00:17 UTC_
 | 114 | **Caitlin Clark** 🔴 | 195 |
 | 115 | Lindsay Whalen | 193 |
 | 116 | Victoria Vivians | 192 |
-| 117 | Danielle Adams | 188 |
-| 117 | **Napheesa Collier** 🔴 | 188 |
+| 117 | **Napheesa Collier** 🔴 +1 | 189 |
+| 118 | Danielle Adams | 188 |
 | 119 | Noelle Quinn | 184 |
 | 120 | Marine Johannès | 183 |
 | 121 | Karima Christmas-Kelly | 181 |
