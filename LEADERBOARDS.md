@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-25 02:54 UTC_
+_Last updated: 2026-09-25 02:55 UTC_
 
 ## Contents
 
@@ -63,7 +63,7 @@ _Last updated: 2026-09-25 02:54 UTC_
 | 42 | Kelsey Plum | 4,494 |
 | 43 | Allisha Gray | 4,491 |
 | 44 | Kristi Toliver | 4,474 |
-| 45 | **Kahleah Copper** 🔴 +7 | 4,444 |
+| 45 | **Kahleah Copper** 🔴 +10 | 4,447 |
 | 46 | Crystal Langhorne | 4,433 |
 | 46 | Jia Perkins | 4,433 |
 | 48 | Courtney Vandersloot | 4,378 |
@@ -343,7 +343,7 @@ _Last updated: 2026-09-25 02:54 UTC_
 | 117 | Becky Hammon | 1,108 |
 | 118 | Isabelle Harrison | 1,107 |
 | 119 | Ann Wauters | 1,105 |
-| 120 | **Jackie Young** 🔴 +4 | 1,089 |
+| 120 | **Jackie Young** 🔴 +5 | 1,090 |
 | 121 | Svetlana Abrosimova | 1,078 |
 | 122 | Le'coe Willingham | 1,054 |
 | 123 | Nicole Ohlde | 1,040 |
@@ -436,7 +436,7 @@ _Last updated: 2026-09-25 02:54 UTC_
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
 | 6 | **Chelsea Gray** 🔴 +7 | 2,010 |
-| 7 | **Alyssa Thomas** 🔴 | 1,971 |
+| 7 | **Alyssa Thomas** 🔴 +1 | 1,972 |
 | 8 | Skylar Diggins | 1,852 |
 | 9 | Natasha Cloud | 1,802 |
 | 10 | Becky Hammon | 1,705 |
@@ -1097,7 +1097,7 @@ _Last updated: 2026-09-25 02:54 UTC_
 | 47 | Jasmine Thomas | 376 |
 | 48 | Allison Feaster | 372 |
 | 48 | Betty Lennox | 372 |
-| 50 | **Kahleah Copper** 🔴 +1 | 371 |
+| 48 | **Kahleah Copper** 🔴 +2 | 372 |
 | 51 | Kia Nurse | 370 |
 | 52 | Epiphanny Prince | 368 |
 | 53 | Nykesha Sales | 352 |
@@ -1375,8 +1375,8 @@ _Last updated: 2026-09-25 02:54 UTC_
 | 119 | Ebony Hoffman | 470 |
 | 120 | Elaine Powell | 469 |
 | 121 | Allie Quigley | 467 |
-| 122 | **Ariel Atkins** 🔴 | 465 |
-| 122 | **Jackie Young** 🔴 +2 | 465 |
+| 122 | **Jackie Young** 🔴 +3 | 466 |
+| 123 | **Ariel Atkins** 🔴 | 465 |
 | 124 | Betnijah Laney-Hamilton | 456 |
 | 125 | Kia Vaughn | 454 |
 | 126 | Janeth Arcain | 453 |
