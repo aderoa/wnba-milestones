@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-25 03:23 UTC_
+_Last updated: 2026-09-25 03:24 UTC_
 
 ## Contents
 
@@ -259,7 +259,7 @@ _Last updated: 2026-09-25 03:23 UTC_
 | 33 | Elizabeth Williams | 1,980 |
 | 34 | Cheryl Ford | 1,907 |
 | 35 | Courtney Williams | 1,850 |
-| 36 | **Kiah Stokes** 🔴 +9 | 1,844 |
+| 36 | **Kiah Stokes** 🔴 +10 | 1,845 |
 | 37 | Plenette Pierson | 1,834 |
 | 38 | Natalie Williams | 1,832 |
 | 39 | Wendy Palmer | 1,824 |
@@ -641,7 +641,7 @@ _Last updated: 2026-09-25 03:23 UTC_
 | 4 | Sylvia Fowles | 721 |
 | 5 | Candace Parker | 619 |
 | 6 | Lauren Jackson | 586 |
-| 7 | **A'ja Wilson** 🔴 +1 | 569 |
+| 7 | **A'ja Wilson** 🔴 | 568 |
 | 8 | Tammy Sutton-Brown | 555 |
 | 9 | Tangela Smith | 554 |
 | 10 | Ruth Riley | 505 |
@@ -676,7 +676,7 @@ _Last updated: 2026-09-25 03:23 UTC_
 | 39 | Napheesa Collier | 239 |
 | 40 | Emma Meesseman | 238 |
 | 41 | Azurá Stevens | 236 |
-| 42 | **Brianna Turner** 🔴 | 234 |
+| 42 | **Brianna Turner** 🔴 +1 | 235 |
 | 43 | Skylar Diggins | 231 |
 | 44 | Chasity Melvin | 228 |
 | 45 | Alanna Smith | 225 |
@@ -1562,7 +1562,7 @@ _Last updated: 2026-09-25 03:23 UTC_
 | 101 | Kelly Miller | 676 |
 | 102 | Chamique Holdsclaw | 667 |
 | 103 | Tianna Hawkins | 662 |
-| 104 | **Kiah Stokes** 🔴 +1 | 652 |
+| 104 | **Kiah Stokes** 🔴 +2 | 653 |
 | 105 | Tari Phillips | 648 |
 | 106 | Marie Ferdinand-Harris | 646 |
 | 107 | **Chelsea Gray** 🔴 +1 | 641 |
