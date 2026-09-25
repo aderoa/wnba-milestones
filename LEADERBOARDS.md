@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-25 03:32 UTC_
+_Last updated: 2026-09-25 03:33 UTC_
 
 ## Contents
 
@@ -343,7 +343,7 @@ _Last updated: 2026-09-25 03:32 UTC_
 | 117 | Becky Hammon | 1,108 |
 | 118 | Isabelle Harrison | 1,107 |
 | 119 | Ann Wauters | 1,105 |
-| 120 | **Jackie Young** 🔴 +7 | 1,092 |
+| 120 | **Jackie Young** 🔴 +8 | 1,093 |
 | 121 | Svetlana Abrosimova | 1,078 |
 | 122 | Le'coe Willingham | 1,054 |
 | 123 | Nicole Ohlde | 1,040 |
@@ -1374,8 +1374,8 @@ _Last updated: 2026-09-25 03:32 UTC_
 | 118 | Allisha Gray | 476 |
 | 119 | Ebony Hoffman | 470 |
 | 120 | Elaine Powell | 469 |
-| 121 | Allie Quigley | 467 |
-| 121 | **Jackie Young** 🔴 +4 | 467 |
+| 121 | **Jackie Young** 🔴 +5 | 468 |
+| 122 | Allie Quigley | 467 |
 | 123 | **Ariel Atkins** 🔴 | 465 |
 | 124 | Betnijah Laney-Hamilton | 456 |
 | 125 | Kia Vaughn | 454 |
@@ -1601,8 +1601,8 @@ _Last updated: 2026-09-25 03:32 UTC_
 | 140 | Dawn Staley | 551 |
 | 141 | Glory Johnson | 550 |
 | 141 | Tierra Ruffin-Pratt | 550 |
-| 143 | **Jackie Young** 🔴 | 548 |
-| 143 | Monique Billings | 548 |
+| 143 | **Jackie Young** 🔴 +1 | 549 |
+| 144 | Monique Billings | 548 |
 | 145 | Erlana Larkins | 546 |
 | 146 | Kayla McBride | 545 |
 | 147 | Jayne Appel Marinelli | 543 |
