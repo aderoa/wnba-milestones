@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-25 01:01 UTC_
+_Last updated: 2026-09-25 01:02 UTC_
 
 ## Contents
 
@@ -1642,8 +1642,8 @@ _Last updated: 2026-09-25 01:01 UTC_
 | 181 | Ann Wauters | 493 |
 | 181 | Riquna Williams | 493 |
 | 183 | Charde Houston | 487 |
-| 184 | **Kia Nurse** 🔴 +2 | 486 |
-| 184 | Lindsey Harding | 486 |
+| 183 | **Kia Nurse** 🔴 +3 | 487 |
+| 185 | Lindsey Harding | 486 |
 | 186 | Cathrine Kraayeveld | 484 |
 | 187 | Liz Cambage | 483 |
 | 187 | Rhonda Mapp | 483 |
