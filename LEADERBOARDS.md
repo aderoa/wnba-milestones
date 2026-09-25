@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-25 02:17 UTC_
+_Last updated: 2026-09-25 02:18 UTC_
 
 ## Contents
 
@@ -33,7 +33,7 @@ _Last updated: 2026-09-25 02:17 UTC_
 | 12 | Sylvia Fowles | 6,413 |
 | 13 | Breanna Stewart | 6,335 |
 | 14 | Lisa Leslie | 6,251 |
-| 15 | **A'ja Wilson** 🔴 +4 | 6,182 |
+| 15 | **A'ja Wilson** 🔴 +6 | 6,184 |
 | 16 | Jewell Loyd | 6,148 |
 | 17 | Brittney Griner | 6,087 |
 | 18 | Lauren Jackson | 6,005 |
@@ -94,7 +94,7 @@ _Last updated: 2026-09-25 02:17 UTC_
 | 73 | Jasmine Thomas | 3,522 |
 | 74 | Tamecka Dixon | 3,507 |
 | 75 | Tammy Sutton-Brown | 3,498 |
-| 76 | **Ariel Atkins** 🔴 | 3,481 |
+| 76 | **Ariel Atkins** 🔴 +2 | 3,483 |
 | 77 | Sancho Lyttle | 3,478 |
 | 78 | Ivory Latta | 3,447 |
 | 79 | Nicole Powell | 3,407 |
@@ -227,7 +227,7 @@ _Last updated: 2026-09-25 02:17 UTC_
 | 1 | Tina Charles | 4,262 |
 | 2 | Sylvia Fowles | 4,005 |
 | 3 | Candace Parker | 3,467 |
-| 4 | **Nneka Ogwumike** 🔴 +2 | 3,408 |
+| 4 | **Nneka Ogwumike** 🔴 +4 | 3,410 |
 | 5 | Rebekkah Brunson | 3,345 |
 | 6 | Tamika Catchings | 3,313 |
 | 7 | Lisa Leslie | 3,303 |
@@ -235,7 +235,7 @@ _Last updated: 2026-09-25 02:17 UTC_
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
-| 12 | **Alyssa Thomas** 🔴 | 2,858 |
+| 12 | **Alyssa Thomas** 🔴 +1 | 2,859 |
 | 13 | Jonquel Jones | 2,728 |
 | 14 | **A'ja Wilson** 🔴 +1 | 2,658 |
 | 15 | Breanna Stewart | 2,632 |
@@ -317,8 +317,8 @@ _Last updated: 2026-09-25 02:17 UTC_
 | 91 | Janel McCarville | 1,261 |
 | 92 | Kayla McBride | 1,258 |
 | 92 | Liz Cambage | 1,258 |
-| 94 | **Chelsea Gray** 🔴 | 1,257 |
-| 94 | **Tiffany Hayes** 🔴 | 1,257 |
+| 92 | **Tiffany Hayes** 🔴 +1 | 1,258 |
+| 95 | **Chelsea Gray** 🔴 | 1,257 |
 | 96 | **Brianna Turner** 🔴 +2 | 1,245 |
 | 97 | Ezi Magbegor | 1,243 |
 | 98 | Seimone Augustus | 1,228 |
@@ -480,7 +480,7 @@ _Last updated: 2026-09-25 02:17 UTC_
 | 48 | **Tiffany Hayes** 🔴 | 957 |
 | 49 | Kara Lawson | 946 |
 | 50 | Arike Ogunbowale | 944 |
-| 51 | **Nneka Ogwumike** 🔴 | 933 |
+| 51 | **Nneka Ogwumike** 🔴 +1 | 934 |
 | 52 | Deanna Nolan | 930 |
 | 53 | Kelly Miller | 927 |
 | 54 | DeLisha Milton-Jones | 921 |
@@ -892,7 +892,7 @@ _Last updated: 2026-09-25 02:17 UTC_
 | 47 | Nicole Powell | 401 |
 | 48 | Jordin Canada | 397 |
 | 49 | Jasmine Thomas | 394 |
-| 50 | **Ariel Atkins** 🔴 | 390 |
+| 50 | **Ariel Atkins** 🔴 +1 | 391 |
 | 51 | Danielle Robinson | 389 |
 | 52 | Deanna Nolan | 388 |
 | 53 | Briann January | 386 |
