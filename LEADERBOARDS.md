@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-25 02:33 UTC_
+_Last updated: 2026-09-25 02:34 UTC_
 
 ## Contents
 
@@ -1450,7 +1450,7 @@ _Last updated: 2026-09-25 02:33 UTC_
 | 194 | Tianna Hawkins | 303 |
 | 195 | Rachel Banham | 302 |
 | 196 | Crystal Robinson | 299 |
-| 197 | **Kayla Thornton** 🔴 | 298 |
+| 196 | **Kayla Thornton** 🔴 +1 | 299 |
 | 198 | Michele Timms | 297 |
 | 199 | Damiris Dantas | 289 |
 | 199 | Nia Coffey | 289 |
