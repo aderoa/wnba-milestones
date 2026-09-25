@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-25 01:08 UTC_
+_Last updated: 2026-09-25 01:09 UTC_
 
 ## Contents
 
@@ -157,7 +157,7 @@ _Last updated: 2026-09-25 01:08 UTC_
 | 136 | **Betnijah Laney-Hamilton** 🔴 +2 | 2,304 |
 | 137 | Satou Sabally | 2,296 |
 | 138 | Kia Vaughn | 2,288 |
-| 139 | **Kia Nurse** 🔴 +10 | 2,272 |
+| 139 | Kia Nurse | 2,272 |
 | 140 | Allison Feaster | 2,258 |
 | 141 | Shekinna Stricklen | 2,245 |
 | 142 | Kara Braxton | 2,237 |
@@ -186,7 +186,7 @@ _Last updated: 2026-09-25 01:08 UTC_
 | 165 | Chiney Ogwumike | 1,964 |
 | 166 | **Myisha Hines-Allen** 🔴 +6 | 1,962 |
 | 167 | Nicole Ohlde | 1,959 |
-| 168 | **Isabelle Harrison** 🔴 +19 | 1,951 |
+| 168 | Isabelle Harrison | 1,951 |
 | 169 | Kedra Holland-Corn | 1,938 |
 | 170 | Cathrine Kraayeveld | 1,926 |
 | 171 | Roneeka Hodges | 1,925 |
@@ -341,7 +341,7 @@ _Last updated: 2026-09-25 01:08 UTC_
 | 115 | Deanna Nolan | 1,112 |
 | 116 | Chiney Ogwumike | 1,110 |
 | 117 | Becky Hammon | 1,108 |
-| 118 | **Isabelle Harrison** 🔴 +10 | 1,107 |
+| 118 | Isabelle Harrison | 1,107 |
 | 119 | Ann Wauters | 1,105 |
 | 120 | Jackie Young | 1,085 |
 | 121 | Svetlana Abrosimova | 1,078 |
@@ -577,7 +577,7 @@ _Last updated: 2026-09-25 01:08 UTC_
 | 145 | Elena Delle Donne | 450 |
 | 145 | Kristi Harrower | 450 |
 | 145 | Nikki McCray | 450 |
-| 148 | **Julie Allemand** 🔴 +5 | 449 |
+| 148 | Julie Allemand | 449 |
 | 148 | Ruth Riley | 449 |
 | 150 | DeMya Walker | 446 |
 | 151 | Essence Carson | 445 |
@@ -596,7 +596,7 @@ _Last updated: 2026-09-25 01:08 UTC_
 | 164 | Erin Thorn | 414 |
 | 165 | Jamierra Faulkner | 410 |
 | 165 | Murriel Page | 410 |
-| 167 | **Kia Nurse** 🔴 +1 | 408 |
+| 167 | Kia Nurse | 408 |
 | 168 | Allison Feaster | 406 |
 | 169 | Rita Williams | 403 |
 | 170 | Stephanie Talbot | 400 |
@@ -762,7 +762,7 @@ _Last updated: 2026-09-25 01:08 UTC_
 | 124 | Rebecca Lobo | 104 |
 | 126 | Jennifer Gillom | 103 |
 | 126 | Jia Perkins | 103 |
-| 128 | **Isabelle Harrison** 🔴 | 102 |
+| 128 | Isabelle Harrison | 102 |
 | 128 | Theresa Plaisance | 102 |
 | 130 | Deanna Nolan | 101 |
 | 131 | Chante Black | 100 |
@@ -1021,7 +1021,7 @@ _Last updated: 2026-09-25 01:08 UTC_
 | 174 | Tierra Ruffin-Pratt | 194 |
 | 177 | Cynthia Cooper | 192 |
 | 177 | **Myisha Hines-Allen** 🔴 +1 | 192 |
-| 179 | **Isabelle Harrison** 🔴 +1 | 191 |
+| 179 | Isabelle Harrison | 191 |
 | 180 | Tamicha Jackson | 188 |
 | 181 | Michele Timms | 187 |
 | 182 | Charde Houston | 185 |
@@ -1098,7 +1098,7 @@ _Last updated: 2026-09-25 01:08 UTC_
 | 48 | Allison Feaster | 372 |
 | 48 | Betty Lennox | 372 |
 | 50 | Kahleah Copper | 370 |
-| 50 | **Kia Nurse** 🔴 +2 | 370 |
+| 50 | Kia Nurse | 370 |
 | 52 | Epiphanny Prince | 368 |
 | 53 | Nykesha Sales | 352 |
 | 54 | Jackie Young | 346 |
@@ -1436,13 +1436,13 @@ _Last updated: 2026-09-25 01:08 UTC_
 | 179 | Rita Williams | 326 |
 | 181 | Le'coe Willingham | 325 |
 | 182 | Olympia Scott | 324 |
-| 183 | **Kia Nurse** 🔴 +1 | 321 |
+| 183 | Kia Nurse | 321 |
 | 184 | Barbara Farris | 315 |
 | 185 | **Monique Billings** 🔴 | 314 |
 | 185 | Moriah Jefferson | 314 |
 | 187 | Alex Bentley | 313 |
 | 188 | Natisha Hiedeman | 312 |
-| 189 | **Isabelle Harrison** 🔴 +4 | 311 |
+| 189 | Isabelle Harrison | 311 |
 | 189 | Tamika Raymond | 311 |
 | 191 | Erin Perperoglou | 305 |
 | 191 | Jennifer Lacy | 305 |
@@ -1623,7 +1623,7 @@ _Last updated: 2026-09-25 01:08 UTC_
 | 162 | Adrienne Goodson | 512 |
 | 162 | Janeth Arcain | 512 |
 | 164 | Andrea Stinson | 511 |
-| 165 | **Isabelle Harrison** 🔴 +2 | 507 |
+| 165 | Isabelle Harrison | 507 |
 | 165 | Vicky Bullett | 507 |
 | 167 | Merlakia Jones | 506 |
 | 168 | **Napheesa Collier** 🔴 +1 | 505 |
@@ -1642,7 +1642,7 @@ _Last updated: 2026-09-25 01:08 UTC_
 | 181 | Ann Wauters | 493 |
 | 181 | Riquna Williams | 493 |
 | 183 | Charde Houston | 487 |
-| 183 | **Kia Nurse** 🔴 +3 | 487 |
+| 183 | Kia Nurse | 487 |
 | 185 | Lindsey Harding | 486 |
 | 186 | Cathrine Kraayeveld | 484 |
 | 187 | Liz Cambage | 483 |
