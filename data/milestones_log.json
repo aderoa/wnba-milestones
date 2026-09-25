@@ -1,5 +1,14 @@
 [
   {
+    "ts": "2026-09-25T04:06:00+00:00",
+    "text": "Jewell Loyd reached 700 career three-pointers (now 700) \u2014 (40.1 - 4th \u2014 LV @ PHX)",
+    "kind": "round",
+    "player": "Jewell Loyd",
+    "stat": "three-pointers",
+    "value": 700,
+    "new_total": 700
+  },
+  {
     "ts": "2026-09-25T04:04:00+00:00",
     "text": "Kahleah Copper passed Marina Mabrey and Rushia Brown for #145 all-time in steals (career 222) \u2014 up from #150 entering today \u2014 (2:14 - 4th \u2014 LV @ PHX)",
     "kind": "rank_pass",
@@ -2965,17 +2974,5 @@
       "Glory Johnson"
     ],
     "new_total": 290
-  },
-  {
-    "ts": "2026-07-10T03:42:00+00:00",
-    "text": "Sami Whitcomb passed Shenise Johnson for #194 all-time in rebounds (career 730) \u2014 up from #195 entering today \u2014 (8:00 - 4th \u2014 IND @ PHX)",
-    "kind": "rank_pass",
-    "player": "Sami Whitcomb",
-    "stat": "rebounds",
-    "rank": 194,
-    "passed_players": [
-      "Shenise Johnson"
-    ],
-    "new_total": 730
   }
 ]
