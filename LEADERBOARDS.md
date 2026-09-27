@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-27 21:39 UTC_
+_Last updated: 2026-09-27 21:40 UTC_
 
 ## Contents
 
@@ -33,7 +33,7 @@ _Last updated: 2026-09-27 21:39 UTC_
 | 12 | Sylvia Fowles | 6,413 |
 | 13 | Breanna Stewart | 6,369 |
 | 14 | Lisa Leslie | 6,251 |
-| 15 | **A'ja Wilson** 🔴 +28 | 6,206 |
+| 15 | **A'ja Wilson** 🔴 +30 | 6,208 |
 | 16 | **Jewell Loyd** 🔴 +8 | 6,156 |
 | 17 | Brittney Griner | 6,087 |
 | 18 | Lauren Jackson | 6,005 |
@@ -435,7 +435,7 @@ _Last updated: 2026-09-27 21:39 UTC_
 | 3 | Ticha Penicheiro | 2,588 |
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
-| 6 | **Chelsea Gray** 🔴 +7 | 2,010 |
+| 6 | **Chelsea Gray** 🔴 +8 | 2,011 |
 | 7 | Alyssa Thomas | 1,971 |
 | 8 | Skylar Diggins | 1,852 |
 | 9 | Natasha Cloud | 1,802 |
@@ -1158,9 +1158,9 @@ _Last updated: 2026-09-27 21:39 UTC_
 | 108 | Betnijah Laney-Hamilton | 206 |
 | 109 | Lexie Brown | 203 |
 | 110 | Shanna Zolman | 199 |
-| 111 | **Caitlin Clark** 🔴 +2 | 197 |
-| 111 | Temeka Johnson | 197 |
-| 111 | Tina Charles | 197 |
+| 111 | **Caitlin Clark** 🔴 +3 | 198 |
+| 112 | Temeka Johnson | 197 |
+| 112 | Tina Charles | 197 |
 | 114 | Nia Coffey | 196 |
 | 115 | Lindsay Whalen | 193 |
 | 116 | Victoria Vivians | 192 |
