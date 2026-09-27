@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-27 21:34 UTC_
+_Last updated: 2026-09-27 21:35 UTC_
 
 ## Contents
 
@@ -83,7 +83,7 @@ _Last updated: 2026-09-27 21:34 UTC_
 | 62 | Allie Quigley | 3,786 |
 | 63 | Chasity Melvin | 3,781 |
 | 64 | Brittney Sykes | 3,726 |
-| 65 | **Jackie Young** 🔴 +11 | 3,709 |
+| 65 | **Jackie Young** 🔴 +13 | 3,711 |
 | 66 | Kara Lawson | 3,670 |
 | 67 | Mwadi Mabika | 3,576 |
 | 68 | Odyssey Sims | 3,574 |
@@ -1334,7 +1334,7 @@ _Last updated: 2026-09-27 21:34 UTC_
 | 78 | Stefanie Dolson | 594 |
 | 79 | Breanna Stewart | 591 |
 | 79 | Brittney Sykes | 591 |
-| 81 | **Kelsey Mitchell** 🔴 +2 | 587 |
+| 81 | **Kelsey Mitchell** 🔴 +3 | 588 |
 | 82 | Helen Darling | 575 |
 | 82 | Nykesha Sales | 575 |
 | 84 | Andrea Stinson | 571 |
@@ -1569,8 +1569,8 @@ _Last updated: 2026-09-27 21:34 UTC_
 | 108 | Charlotte Smith | 638 |
 | 109 | Teaira McCowan | 637 |
 | 110 | Janell Burse | 632 |
-| 111 | **Kelsey Mitchell** 🔴 +2 | 631 |
-| 111 | Nicole Ohlde | 631 |
+| 110 | **Kelsey Mitchell** 🔴 +3 | 632 |
+| 112 | Nicole Ohlde | 631 |
 | 113 | Jennifer Gillom | 629 |
 | 114 | Deanna Nolan | 628 |
 | 115 | Brionna Jones | 625 |
