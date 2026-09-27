@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-27 23:51 UTC_
+_Last updated: 2026-09-27 23:52 UTC_
 
 ## Contents
 
@@ -963,8 +963,8 @@ _Last updated: 2026-09-27 23:51 UTC_
 | 118 | Jonquel Jones | 261 |
 | 118 | Karima Christmas-Kelly | 261 |
 | 120 | Riquna Williams | 260 |
-| 121 | Noelle Quinn | 256 |
-| 121 | **Rhyne Howard** 🔴 +2 | 256 |
+| 121 | **Rhyne Howard** 🔴 +3 | 257 |
+| 122 | Noelle Quinn | 256 |
 | 123 | Elaine Powell | 255 |
 | 123 | Loree Moore | 255 |
 | 125 | Ruthie Bolton | 254 |
@@ -1376,7 +1376,7 @@ _Last updated: 2026-09-27 23:51 UTC_
 | 120 | Jackie Young | 469 |
 | 122 | Allie Quigley | 467 |
 | 123 | Ariel Atkins | 465 |
-| 124 | **Betnijah Laney-Hamilton** 🔴 | 456 |
+| 124 | **Betnijah Laney-Hamilton** 🔴 +1 | 457 |
 | 125 | Kia Vaughn | 454 |
 | 126 | Janeth Arcain | 453 |
 | 127 | Elena Baranova | 444 |
