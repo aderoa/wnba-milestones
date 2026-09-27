@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-27 18:52 UTC_
+_Last updated: 2026-09-27 18:53 UTC_
 
 ## Contents
 
@@ -67,8 +67,8 @@ _Last updated: 2026-09-27 18:52 UTC_
 | 46 | Crystal Langhorne | 4,433 |
 | 46 | Jia Perkins | 4,433 |
 | 48 | Courtney Vandersloot | 4,362 |
-| 49 | **Jonquel Jones** 🔴 +6 | 4,359 |
-| 50 | **Courtney Williams** 🔴 +2 | 4,352 |
+| 49 | **Jonquel Jones** 🔴 +8 | 4,361 |
+| 50 | **Courtney Williams** 🔴 +5 | 4,355 |
 | 51 | Dearica Hamby | 4,330 |
 | 52 | Sophia Young-Malcolm | 4,300 |
 | 53 | Plenette Pierson | 4,258 |
@@ -473,7 +473,7 @@ _Last updated: 2026-09-27 18:52 UTC_
 | 41 | Dominique Canty | 1,042 |
 | 42 | Sheryl Swoopes | 1,037 |
 | 43 | Tina Charles | 1,033 |
-| 44 | **Kayla McBride** 🔴 +3 | 995 |
+| 44 | **Kayla McBride** 🔴 +4 | 996 |
 | 45 | **Breanna Stewart** 🔴 +1 | 982 |
 | 45 | Nikki Teasley | 982 |
 | 47 | Tamecka Dixon | 960 |
@@ -1128,8 +1128,8 @@ _Last updated: 2026-09-27 18:52 UTC_
 | 77 | Tully Bevilaqua | 290 |
 | 79 | Alana Beard | 288 |
 | 80 | Monique Currie | 284 |
+| 81 | **Courtney Williams** 🔴 +1 | 278 |
 | 81 | Stefanie Dolson | 278 |
-| 82 | **Courtney Williams** 🔴 | 277 |
 | 83 | Iziane Castro Marques | 275 |
 | 84 | Sheryl Swoopes | 270 |
 | 85 | Sophia Witherspoon | 260 |
@@ -1603,9 +1603,9 @@ _Last updated: 2026-09-27 18:52 UTC_
 | 143 | Jackie Young | 548 |
 | 144 | Erlana Larkins | 546 |
 | 144 | Monique Billings | 546 |
-| 146 | Jayne Appel Marinelli | 543 |
-| 146 | **Kayla McBride** 🔴 | 543 |
-| 146 | Renee Montgomery | 543 |
+| 146 | **Kayla McBride** 🔴 +1 | 544 |
+| 147 | Jayne Appel Marinelli | 543 |
+| 147 | Renee Montgomery | 543 |
 | 149 | Marissa Coleman | 541 |
 | 150 | Sophie Cunningham | 538 |
 | 151 | Myisha Hines-Allen | 535 |
