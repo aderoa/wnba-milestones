@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-27 21:50 UTC_
+_Last updated: 2026-09-27 21:51 UTC_
 
 ## Contents
 
@@ -1437,8 +1437,8 @@ _Last updated: 2026-09-27 21:50 UTC_
 | 181 | Le'coe Willingham | 325 |
 | 182 | Olympia Scott | 324 |
 | 183 | Kia Nurse | 320 |
-| 184 | Barbara Farris | 315 |
-| 184 | **Monique Billings** 🔴 +1 | 315 |
+| 184 | **Monique Billings** 🔴 +2 | 316 |
+| 185 | Barbara Farris | 315 |
 | 186 | Moriah Jefferson | 314 |
 | 187 | Alex Bentley | 313 |
 | 188 | Natisha Hiedeman | 312 |
@@ -1602,8 +1602,8 @@ _Last updated: 2026-09-27 21:50 UTC_
 | 141 | Glory Johnson | 550 |
 | 141 | **Jackie Young** 🔴 +2 | 550 |
 | 141 | Tierra Ruffin-Pratt | 550 |
-| 144 | Erlana Larkins | 546 |
-| 144 | **Monique Billings** 🔴 | 546 |
+| 144 | **Monique Billings** 🔴 +1 | 547 |
+| 145 | Erlana Larkins | 546 |
 | 146 | Kayla McBride | 545 |
 | 147 | Jayne Appel Marinelli | 543 |
 | 147 | Renee Montgomery | 543 |
