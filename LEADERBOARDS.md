@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-27 20:14 UTC_
+_Last updated: 2026-09-27 20:15 UTC_
 
 ## Contents
 
@@ -58,7 +58,7 @@ _Last updated: 2026-09-27 20:14 UTC_
 | 37 | Chamique Holdsclaw | 4,713 |
 | 38 | Elena Delle Donne | 4,706 |
 | 39 | Natasha Howard | 4,690 |
-| 40 | **Chelsea Gray** 🔴 | 4,625 |
+| 40 | **Chelsea Gray** 🔴 +2 | 4,627 |
 | 41 | Penny Taylor | 4,595 |
 | 42 | Kelsey Plum | 4,494 |
 | 43 | Allisha Gray | 4,491 |
@@ -324,8 +324,8 @@ _Last updated: 2026-09-27 20:14 UTC_
 | 98 | Seimone Augustus | 1,228 |
 | 99 | Jia Perkins | 1,220 |
 | 100 | Kahleah Copper | 1,204 |
+| 101 | **Aliyah Boston** 🔴 +1 | 1,199 |
 | 101 | DeMya Walker | 1,199 |
-| 102 | **Aliyah Boston** 🔴 | 1,198 |
 | 103 | Latasha Byears | 1,190 |
 | 103 | Tanisha Wright | 1,190 |
 | 105 | Vicky Bullett | 1,189 |
@@ -462,7 +462,7 @@ _Last updated: 2026-09-27 20:14 UTC_
 | 30 | Leilani Mitchell | 1,197 |
 | 31 | DeWanna Bonner | 1,196 |
 | 32 | Jewell Loyd | 1,156 |
-| 33 | **Jackie Young** 🔴 | 1,150 |
+| 33 | **Jackie Young** 🔴 +1 | 1,151 |
 | 34 | Renee Montgomery | 1,140 |
 | 35 | Swin Cash | 1,131 |
 | 36 | Sabrina Ionescu | 1,098 |
@@ -904,8 +904,8 @@ _Last updated: 2026-09-27 20:14 UTC_
 | 59 | Chamique Holdsclaw | 376 |
 | 60 | Brittney Sykes | 371 |
 | 61 | Mwadi Mabika | 370 |
-| 62 | **A'ja Wilson** 🔴 | 361 |
-| 62 | Erica Wheeler | 361 |
+| 62 | **A'ja Wilson** 🔴 +1 | 362 |
+| 63 | Erica Wheeler | 361 |
 | 64 | Lauren Jackson | 360 |
 | 64 | Tan White | 360 |
 | 66 | Vickie Johnson | 357 |
@@ -1413,7 +1413,7 @@ _Last updated: 2026-09-27 20:14 UTC_
 | 158 | Anna DeForge | 374 |
 | 158 | Cheryl Ford | 374 |
 | 160 | Allison Feaster | 372 |
-| 161 | **Caitlin Clark** 🔴 | 368 |
+| 161 | **Caitlin Clark** 🔴 +1 | 369 |
 | 162 | Emma Meesseman | 367 |
 | 163 | Latasha Byears | 360 |
 | 164 | Vicky Bullett | 359 |
