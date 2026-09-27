@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-27 22:10 UTC_
+_Last updated: 2026-09-27 22:11 UTC_
 
 ## Contents
 
@@ -213,7 +213,7 @@ _Last updated: 2026-09-27 22:10 UTC_
 | 192 | Armintie Herrington | 1,696 |
 | 193 | Nikki Teasley | 1,690 |
 | 194 | Shenise Johnson | 1,688 |
-| 195 | **Monique Billings** 🔴 +2 | 1,614 |
+| 195 | **Monique Billings** 🔴 +4 | 1,616 |
 | 196 | Janell Burse | 1,580 |
 | 197 | Le'coe Willingham | 1,552 |
 | 198 | Shatori Walker-Kimbrough | 1,544 |
@@ -314,8 +314,8 @@ _Last updated: 2026-09-27 22:10 UTC_
 | 88 | Betty Lennox | 1,296 |
 | 89 | Tari Phillips | 1,274 |
 | 90 | Myisha Hines-Allen | 1,265 |
-| 91 | **Chelsea Gray** 🔴 +4 | 1,261 |
-| 91 | Janel McCarville | 1,261 |
+| 91 | **Chelsea Gray** 🔴 +5 | 1,262 |
+| 92 | Janel McCarville | 1,261 |
 | 93 | Kayla McBride | 1,258 |
 | 93 | Liz Cambage | 1,258 |
 | 95 | Tiffany Hayes | 1,257 |
@@ -532,7 +532,7 @@ _Last updated: 2026-09-27 22:10 UTC_
 | 100 | Natasha Howard | 617 |
 | 101 | Debbie Black | 612 |
 | 102 | Cynthia Cooper | 602 |
-| 103 | **Caitlin Clark** 🔴 +9 | 600 |
+| 103 | **Caitlin Clark** 🔴 +10 | 601 |
 | 104 | Sancho Lyttle | 592 |
 | 105 | Gabby Williams | 591 |
 | 106 | Betnijah Laney-Hamilton | 590 |
@@ -1374,7 +1374,7 @@ _Last updated: 2026-09-27 22:10 UTC_
 | 118 | Allisha Gray | 476 |
 | 119 | Ebony Hoffman | 470 |
 | 120 | Elaine Powell | 469 |
-| 121 | **Jackie Young** 🔴 +5 | 468 |
+| 120 | **Jackie Young** 🔴 +6 | 469 |
 | 122 | Allie Quigley | 467 |
 | 123 | Ariel Atkins | 465 |
 | 124 | Betnijah Laney-Hamilton | 456 |
