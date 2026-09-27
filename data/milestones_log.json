@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-09-27T19:49:00+00:00",
+    "text": "Leonie Fiebich passed Brooke Wyckoff and Jenna O'Hea for #164 all-time in three-pointers (career 133) \u2014 up from #170 entering today \u2014 (5:58 - 4th \u2014 NY @ MIN)",
+    "kind": "rank_pass",
+    "player": "Leonie Fiebich",
+    "stat": "three-pointers",
+    "rank": 164,
+    "passed_players": [
+      "Brooke Wyckoff",
+      "Jenna O'Hea"
+    ],
+    "new_total": 133
+  },
+  {
     "ts": "2026-09-25T04:16:00+00:00",
     "text": "Kayla Thornton passed Jewell Loyd and Sandrine Gruda for #140 all-time in blocks (career 95) \u2014 up from #142 entering today \u2014 (10.8 - 4th \u2014 GS @ LA)",
     "kind": "rank_pass",
@@ -2963,17 +2976,5 @@
       "Charlotte Smith"
     ],
     "new_total": 165
-  },
-  {
-    "ts": "2026-07-10T03:56:00+00:00",
-    "text": "Kelsey Mitchell passed Nikki McCray for #136 all-time in steals (career 236) \u2014 up from #137 entering today \u2014 (3:24 - 4th \u2014 IND @ PHX)",
-    "kind": "rank_pass",
-    "player": "Kelsey Mitchell",
-    "stat": "steals",
-    "rank": 136,
-    "passed_players": [
-      "Nikki McCray"
-    ],
-    "new_total": 236
   }
 ]

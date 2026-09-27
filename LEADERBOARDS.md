@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-27 19:48 UTC_
+_Last updated: 2026-09-27 19:49 UTC_
 
 ## Contents
 
@@ -474,7 +474,7 @@ _Last updated: 2026-09-27 19:48 UTC_
 | 42 | Sheryl Swoopes | 1,037 |
 | 43 | Tina Charles | 1,033 |
 | 44 | **Kayla McBride** 🔴 +6 | 998 |
-| 45 | **Breanna Stewart** 🔴 +5 | 986 |
+| 45 | **Breanna Stewart** 🔴 +6 | 987 |
 | 46 | Nikki Teasley | 982 |
 | 47 | Tamecka Dixon | 960 |
 | 48 | Tiffany Hayes | 957 |
@@ -541,7 +541,7 @@ _Last updated: 2026-09-27 19:48 UTC_
 | 109 | Veronica Burton | 579 |
 | 110 | Tan White | 578 |
 | 111 | Matee Ajavon | 577 |
-| 112 | **Napheesa Collier** 🔴 +2 | 572 |
+| 112 | **Napheesa Collier** 🔴 +3 | 573 |
 | 113 | Nicole Powell | 567 |
 | 114 | Loree Moore | 562 |
 | 115 | Sophia Young-Malcolm | 554 |
@@ -1211,9 +1211,9 @@ _Last updated: 2026-09-27 19:48 UTC_
 | 160 | Tanisha Wright | 138 |
 | 162 | Kaleena Mosqueda-Lewis | 137 |
 | 163 | Shay Murphy | 134 |
-| 164 | Brooke Wyckoff | 132 |
-| 164 | Jenna O'Hea | 132 |
-| 164 | **Leonie Fiebich** 🔴 +3 | 132 |
+| 164 | **Leonie Fiebich** 🔴 +4 | 133 |
+| 165 | Brooke Wyckoff | 132 |
+| 165 | Jenna O'Hea | 132 |
 | 167 | Myisha Hines-Allen | 131 |
 | 168 | Amanda Zahui B | 130 |
 | 168 | Eva Nemcova | 130 |
@@ -1469,7 +1469,7 @@ _Last updated: 2026-09-27 19:48 UTC_
 | 9 | Tammy Sutton-Brown | 1,193 |
 | 10 | Plenette Pierson | 1,175 |
 | 11 | Chasity Melvin | 1,165 |
-| 12 | **Natasha Howard** 🔴 +4 | 1,162 |
+| 12 | **Natasha Howard** 🔴 +5 | 1,163 |
 | 13 | Camille Smith | 1,159 |
 | 14 | Nneka Ogwumike | 1,156 |
 | 15 | Alana Beard | 1,153 |
