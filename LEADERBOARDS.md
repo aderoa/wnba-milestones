@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-27 21:28 UTC_
+_Last updated: 2026-09-27 21:30 UTC_
 
 ## Contents
 
@@ -319,7 +319,7 @@ _Last updated: 2026-09-27 21:28 UTC_
 | 93 | Kayla McBride | 1,258 |
 | 93 | Liz Cambage | 1,258 |
 | 95 | Tiffany Hayes | 1,257 |
-| 96 | **Brianna Turner** 🔴 +1 | 1,244 |
+| 96 | **Brianna Turner** 🔴 +2 | 1,245 |
 | 97 | Ezi Magbegor | 1,243 |
 | 98 | Seimone Augustus | 1,228 |
 | 99 | Jia Perkins | 1,220 |
@@ -1376,7 +1376,7 @@ _Last updated: 2026-09-27 21:28 UTC_
 | 120 | Elaine Powell | 469 |
 | 121 | Allie Quigley | 467 |
 | 122 | Ariel Atkins | 465 |
-| 123 | **Jackie Young** 🔴 +1 | 464 |
+| 122 | **Jackie Young** 🔴 +2 | 465 |
 | 124 | Betnijah Laney-Hamilton | 456 |
 | 125 | Kia Vaughn | 454 |
 | 126 | Janeth Arcain | 453 |
@@ -1600,8 +1600,8 @@ _Last updated: 2026-09-27 21:28 UTC_
 | 139 | **A'ja Wilson** 🔴 +2 | 556 |
 | 140 | Dawn Staley | 551 |
 | 141 | Glory Johnson | 550 |
+| 141 | **Jackie Young** 🔴 +2 | 550 |
 | 141 | Tierra Ruffin-Pratt | 550 |
-| 143 | **Jackie Young** 🔴 +1 | 549 |
 | 144 | Erlana Larkins | 546 |
 | 144 | **Monique Billings** 🔴 | 546 |
 | 146 | Kayla McBride | 545 |
