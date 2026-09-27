@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-27 23:48 UTC_
+_Last updated: 2026-09-27 23:49 UTC_
 
 ## Contents
 
@@ -130,7 +130,7 @@ _Last updated: 2026-09-27 23:48 UTC_
 | 109 | Adrienne Goodson | 2,705 |
 | 110 | Riquna Williams | 2,659 |
 | 111 | Cheyenne Parker-Tyus | 2,652 |
-| 112 | **Rhyne Howard** 🔴 +11 | 2,648 |
+| 112 | **Rhyne Howard** 🔴 +12 | 2,649 |
 | 113 | Essence Carson | 2,647 |
 | 113 | Lindsey Harding | 2,647 |
 | 115 | Tamera Young | 2,641 |
@@ -151,7 +151,7 @@ _Last updated: 2026-09-27 23:48 UTC_
 | 130 | Kayla Thornton | 2,393 |
 | 131 | DeMya Walker | 2,379 |
 | 132 | Alex Bentley | 2,350 |
-| 133 | **Jordin Canada** 🔴 +4 | 2,346 |
+| 133 | **Jordin Canada** 🔴 +6 | 2,348 |
 | 134 | Azurá Stevens | 2,343 |
 | 135 | Merlakia Jones | 2,308 |
 | 136 | **Betnijah Laney-Hamilton** 🔴 | 2,302 |
@@ -1527,8 +1527,8 @@ _Last updated: 2026-09-27 23:48 UTC_
 | 67 | Sheri Sam | 766 |
 | 68 | Kahleah Copper | 758 |
 | 69 | Kia Vaughn | 755 |
-| 70 | **Allisha Gray** 🔴 | 752 |
-| 70 | Vickie Johnson | 752 |
+| 70 | **Allisha Gray** 🔴 +1 | 753 |
+| 71 | Vickie Johnson | 752 |
 | 72 | Kara Braxton | 748 |
 | 73 | Crystal Langhorne | 737 |
 | 74 | Shameka Christon | 734 |
