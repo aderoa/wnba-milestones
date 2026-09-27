@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-27 22:07 UTC_
+_Last updated: 2026-09-27 22:08 UTC_
 
 ## Contents
 
@@ -200,7 +200,7 @@ _Last updated: 2026-09-27 22:07 UTC_
 | 179 | NaLyssa Smith | 1,879 |
 | 180 | Rachel Banham | 1,843 |
 | 181 | Damiris Dantas | 1,842 |
-| 182 | **Sophie Cunningham** 🔴 +9 | 1,838 |
+| 182 | **Sophie Cunningham** 🔴 +11 | 1,840 |
 | 183 | Tianna Hawkins | 1,825 |
 | 184 | Noelle Quinn | 1,824 |
 | 185 | Danielle Adams | 1,820 |
@@ -1028,9 +1028,9 @@ _Last updated: 2026-09-27 22:07 UTC_
 | 183 | Charde Houston | 185 |
 | 183 | Tiffany Jackson | 185 |
 | 185 | Erin Perperoglou | 184 |
+| 186 | **Monique Billings** 🔴 +1 | 183 |
 | 186 | Rebecca Allen | 183 |
-| 187 | Erin Phillips | 182 |
-| 187 | **Monique Billings** 🔴 | 182 |
+| 188 | Erin Phillips | 182 |
 | 189 | Nakia Sanford | 181 |
 | 190 | Diamond DeShields | 180 |
 | 191 | Kiah Stokes | 178 |
@@ -1274,7 +1274,7 @@ _Last updated: 2026-09-27 22:07 UTC_
 | 18 | Cappie Pondexter | 945 |
 | 19 | Katie Smith | 935 |
 | 20 | Shannon Johnson | 934 |
-| 21 | **Chelsea Gray** 🔴 +4 | 931 |
+| 21 | **Chelsea Gray** 🔴 +5 | 932 |
 | 22 | Skylar Diggins | 907 |
 | 23 | Taj McWilliams-Franklin | 898 |
 | 24 | Candice Dupree | 869 |
