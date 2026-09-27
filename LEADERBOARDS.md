@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-27 23:26 UTC_
+_Last updated: 2026-09-27 23:27 UTC_
 
 ## Contents
 
@@ -151,8 +151,8 @@ _Last updated: 2026-09-27 23:26 UTC_
 | 130 | Kayla Thornton | 2,393 |
 | 131 | DeMya Walker | 2,379 |
 | 132 | Alex Bentley | 2,350 |
-| 133 | Azurá Stevens | 2,343 |
-| 134 | **Jordin Canada** 🔴 | 2,342 |
+| 133 | **Jordin Canada** 🔴 +2 | 2,344 |
+| 134 | Azurá Stevens | 2,343 |
 | 135 | Merlakia Jones | 2,308 |
 | 136 | **Betnijah Laney-Hamilton** 🔴 | 2,302 |
 | 137 | Satou Sabally | 2,296 |
@@ -1247,9 +1247,7 @@ _Last updated: 2026-09-27 23:26 UTC_
 | 197 | Laurie Koehn | 105 |
 | 198 | A'ja Wilson | 104 |
 | 198 | Julie Vanloo | 104 |
-| 200 | Jeanette Pohlen-Mavunga | 103 |
-| 200 | Kiesha Brown | 103 |
-| 200 | **Sonia Citron** 🔴 +1 | 103 |
+| 198 | **Sonia Citron** 🔴 +2 | 104 |
 
 ## Turnovers
 
