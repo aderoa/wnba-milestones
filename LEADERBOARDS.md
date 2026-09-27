@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-27 20:40 UTC_
+_Last updated: 2026-09-27 20:41 UTC_
 
 ## Contents
 
@@ -58,7 +58,7 @@ _Last updated: 2026-09-27 20:40 UTC_
 | 37 | Chamique Holdsclaw | 4,713 |
 | 38 | Elena Delle Donne | 4,706 |
 | 39 | Natasha Howard | 4,690 |
-| 40 | **Chelsea Gray** 🔴 +5 | 4,630 |
+| 40 | **Chelsea Gray** 🔴 +7 | 4,632 |
 | 41 | Penny Taylor | 4,595 |
 | 42 | Kelsey Plum | 4,494 |
 | 43 | Allisha Gray | 4,491 |
@@ -175,7 +175,7 @@ _Last updated: 2026-09-27 20:40 UTC_
 | 154 | Tari Phillips | 2,134 |
 | 155 | Cheryl Ford | 2,116 |
 | 156 | Elena Baranova | 2,110 |
-| 157 | **Aliyah Boston** 🔴 +3 | 2,090 |
+| 157 | **Aliyah Boston** 🔴 +5 | 2,092 |
 | 158 | Aerial Powers | 2,068 |
 | 159 | Coco Miller | 2,030 |
 | 160 | Diamond DeShields | 2,026 |
@@ -315,9 +315,9 @@ _Last updated: 2026-09-27 20:40 UTC_
 | 89 | Tari Phillips | 1,274 |
 | 90 | Myisha Hines-Allen | 1,265 |
 | 91 | Janel McCarville | 1,261 |
-| 92 | **Chelsea Gray** 🔴 +1 | 1,258 |
-| 92 | Kayla McBride | 1,258 |
-| 92 | Liz Cambage | 1,258 |
+| 92 | **Chelsea Gray** 🔴 +2 | 1,259 |
+| 93 | Kayla McBride | 1,258 |
+| 93 | Liz Cambage | 1,258 |
 | 95 | Tiffany Hayes | 1,257 |
 | 96 | **Brianna Turner** 🔴 +1 | 1,244 |
 | 97 | Ezi Magbegor | 1,243 |
