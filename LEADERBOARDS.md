@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-27 22:14 UTC_
+_Last updated: 2026-09-27 22:15 UTC_
 
 ## Contents
 
@@ -787,7 +787,7 @@ _Last updated: 2026-09-27 22:14 UTC_
 | 150 | Astou Ndiaye-Diatta | 86 |
 | 151 | Adrian Williams-Strong | 85 |
 | 151 | Erlana Larkins | 85 |
-| 151 | Kalani Brown | 85 |
+| 151 | **Kalani Brown** 🔴 | 85 |
 | 151 | Kristin Folkl | 85 |
 | 155 | Charde Houston | 84 |
 | 155 | Marina Mabrey | 84 |
