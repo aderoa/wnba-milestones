@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-27 20:24 UTC_
+_Last updated: 2026-09-27 20:25 UTC_
 
 ## Contents
 
@@ -45,7 +45,7 @@ _Last updated: 2026-09-27 20:24 UTC_
 | 24 | DeLisha Milton-Jones | 5,571 |
 | 25 | Katie Douglas | 5,545 |
 | 26 | Lindsay Whalen | 5,511 |
-| 27 | **Kelsey Mitchell** 🔴 +2 | 5,200 |
+| 27 | **Kelsey Mitchell** 🔴 +4 | 5,202 |
 | 28 | Swin Cash | 5,119 |
 | 29 | Tiffany Hayes | 5,049 |
 | 30 | Tangela Smith | 5,035 |
@@ -200,7 +200,7 @@ _Last updated: 2026-09-27 20:24 UTC_
 | 179 | NaLyssa Smith | 1,879 |
 | 180 | Rachel Banham | 1,843 |
 | 181 | Damiris Dantas | 1,842 |
-| 182 | Sophie Cunningham | 1,829 |
+| 182 | **Sophie Cunningham** 🔴 | 1,829 |
 | 183 | Tianna Hawkins | 1,825 |
 | 184 | Noelle Quinn | 1,824 |
 | 185 | Danielle Adams | 1,820 |
@@ -315,10 +315,10 @@ _Last updated: 2026-09-27 20:24 UTC_
 | 89 | Tari Phillips | 1,274 |
 | 90 | Myisha Hines-Allen | 1,265 |
 | 91 | Janel McCarville | 1,261 |
+| 92 | **Chelsea Gray** 🔴 +1 | 1,258 |
 | 92 | Kayla McBride | 1,258 |
 | 92 | Liz Cambage | 1,258 |
-| 94 | **Chelsea Gray** 🔴 | 1,257 |
-| 94 | Tiffany Hayes | 1,257 |
+| 95 | Tiffany Hayes | 1,257 |
 | 96 | **Brianna Turner** 🔴 +1 | 1,244 |
 | 97 | Ezi Magbegor | 1,243 |
 | 98 | Seimone Augustus | 1,228 |
@@ -462,7 +462,7 @@ _Last updated: 2026-09-27 20:24 UTC_
 | 30 | Leilani Mitchell | 1,197 |
 | 31 | DeWanna Bonner | 1,196 |
 | 32 | **Jewell Loyd** 🔴 | 1,156 |
-| 33 | **Jackie Young** 🔴 +4 | 1,154 |
+| 33 | **Jackie Young** 🔴 +3 | 1,153 |
 | 34 | Renee Montgomery | 1,140 |
 | 35 | Swin Cash | 1,131 |
 | 36 | Sabrina Ionescu | 1,098 |
@@ -706,8 +706,8 @@ _Last updated: 2026-09-27 20:24 UTC_
 | 69 | Jantel Lavender | 170 |
 | 70 | Camille Smith | 169 |
 | 71 | Shameka Christon | 165 |
-| 72 | **Aliyah Boston** 🔴 +1 | 161 |
-| 73 | Cheryl Ford | 160 |
+| 72 | **Aliyah Boston** 🔴 | 160 |
+| 72 | Cheryl Ford | 160 |
 | 74 | Allisha Gray | 157 |
 | 74 | Kara Braxton | 157 |
 | 76 | DeMya Walker | 155 |
@@ -1109,7 +1109,7 @@ _Last updated: 2026-09-27 20:24 UTC_
 | 59 | Deanna Nolan | 340 |
 | 60 | Erica Wheeler | 337 |
 | 61 | Anna DeForge | 334 |
-| 61 | Sophie Cunningham | 334 |
+| 61 | **Sophie Cunningham** 🔴 | 334 |
 | 63 | Natisha Hiedeman | 328 |
 | 64 | Sugar Rodgers | 317 |
 | 65 | Marissa Coleman | 315 |
@@ -1607,7 +1607,7 @@ _Last updated: 2026-09-27 20:24 UTC_
 | 147 | Jayne Appel Marinelli | 543 |
 | 147 | Renee Montgomery | 543 |
 | 149 | Marissa Coleman | 541 |
-| 150 | Sophie Cunningham | 538 |
+| 150 | **Sophie Cunningham** 🔴 | 538 |
 | 151 | Myisha Hines-Allen | 535 |
 | 152 | Damiris Dantas | 533 |
 | 152 | Kristen Rasmussen | 533 |
