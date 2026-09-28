@@ -1,5 +1,14 @@
 [
   {
+    "ts": "2026-09-28T02:30:00+00:00",
+    "text": "Cecilia Zandalasini reached 700 career points (now 701) \u2014 (4:36 - 3rd \u2014 DAL @ GS)",
+    "kind": "round",
+    "player": "Cecilia Zandalasini",
+    "stat": "points",
+    "value": 700,
+    "new_total": 701
+  },
+  {
     "ts": "2026-09-27T19:49:00+00:00",
     "text": "Leonie Fiebich passed Brooke Wyckoff and Jenna O'Hea for #164 all-time in three-pointers (career 133) \u2014 up from #170 entering today \u2014 (5:58 - 4th \u2014 NY @ MIN)",
     "kind": "rank_pass",
@@ -2964,17 +2973,5 @@
       "Tully Bevilaqua"
     ],
     "new_total": 854
-  },
-  {
-    "ts": "2026-07-10T04:00:00+00:00",
-    "text": "Tyasha Harris passed Charlotte Smith for #132 all-time in three-pointers (career 165) \u2014 up from #133 entering today \u2014 (3:12 - 4th \u2014 IND @ PHX)",
-    "kind": "rank_pass",
-    "player": "Tyasha Harris",
-    "stat": "three-pointers",
-    "rank": 132,
-    "passed_players": [
-      "Charlotte Smith"
-    ],
-    "new_total": 165
   }
 ]

@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-09-28 02:30 UTC
+
+- **Cecilia Zandalasini** reached **700** career points (now 701) — _4:36 - 3rd — DAL @ GS_
+
 ## 2026-09-27 19:49 UTC
 
 - **Leonie Fiebich** passed **Brooke Wyckoff** and **Jenna O'Hea** for **#164** all-time in three-pointers (career 133) — up from #170 entering today — _5:58 - 4th — NY @ MIN_
