@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-28 02:48 UTC_
+_Last updated: 2026-09-28 02:49 UTC_
 
 ## Contents
 
@@ -85,8 +85,8 @@ _Last updated: 2026-09-28 02:48 UTC_
 | 64 | Brittney Sykes | 3,726 |
 | 65 | Jackie Young | 3,719 |
 | 66 | Kara Lawson | 3,670 |
-| 67 | Mwadi Mabika | 3,576 |
-| 68 | **Odyssey Sims** 🔴 +1 | 3,575 |
+| 67 | **Odyssey Sims** 🔴 +3 | 3,577 |
+| 68 | Mwadi Mabika | 3,576 |
 | 69 | Napheesa Collier | 3,554 |
 | 70 | Camille Smith | 3,551 |
 | 71 | Shannon Johnson | 3,542 |
@@ -400,7 +400,7 @@ _Last updated: 2026-09-28 02:48 UTC_
 | 174 | Charlotte Smith | 794 |
 | 175 | Rhonda Mapp | 788 |
 | 176 | Mercedes Russell | 787 |
-| 177 | **Odyssey Sims** 🔴 +1 | 786 |
+| 176 | **Odyssey Sims** 🔴 +2 | 787 |
 | 178 | Sue Wicks | 780 |
 | 179 | Lindsey Harding | 779 |
 | 180 | Tiffani Johnson | 778 |
@@ -528,7 +528,7 @@ _Last updated: 2026-09-28 02:48 UTC_
 | 96 | Asjha Jones | 637 |
 | 97 | Jennifer Azzi | 636 |
 | 98 | Sami Whitcomb | 623 |
-| 99 | **Alysha Clark** 🔴 | 619 |
+| 99 | **Alysha Clark** 🔴 +1 | 620 |
 | 100 | Natasha Howard | 617 |
 | 101 | Debbie Black | 612 |
 | 102 | Cynthia Cooper | 602 |
@@ -1577,7 +1577,7 @@ _Last updated: 2026-09-28 02:48 UTC_
 | 117 | Coco Miller | 615 |
 | 118 | Brooke Wyckoff | 614 |
 | 119 | Svetlana Abrosimova | 613 |
-| 120 | **Odyssey Sims** 🔴 | 610 |
+| 120 | **Odyssey Sims** 🔴 +1 | 611 |
 | 121 | Layshia Clarendon | 609 |
 | 122 | **Arike Ogunbowale** 🔴 +3 | 607 |
 | 123 | Tiffany Mitchell | 604 |
