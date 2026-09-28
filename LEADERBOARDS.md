@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-28 02:37 UTC_
+_Last updated: 2026-09-28 02:38 UTC_
 
 ## Contents
 
@@ -86,7 +86,7 @@ _Last updated: 2026-09-28 02:37 UTC_
 | 65 | Jackie Young | 3,719 |
 | 66 | Kara Lawson | 3,670 |
 | 67 | Mwadi Mabika | 3,576 |
-| 68 | **Odyssey Sims** 🔴 | 3,574 |
+| 68 | **Odyssey Sims** 🔴 +1 | 3,575 |
 | 69 | Napheesa Collier | 3,554 |
 | 70 | Camille Smith | 3,551 |
 | 71 | Shannon Johnson | 3,542 |
@@ -457,7 +457,7 @@ _Last updated: 2026-09-28 02:37 UTC_
 | 25 | Jordin Canada | 1,272 |
 | 26 | Kelsey Plum | 1,270 |
 | 27 | Katie Smith | 1,258 |
-| 28 | **Odyssey Sims** 🔴 | 1,228 |
+| 28 | **Odyssey Sims** 🔴 +1 | 1,229 |
 | 29 | Vickie Johnson | 1,202 |
 | 30 | DeWanna Bonner | 1,198 |
 | 31 | Leilani Mitchell | 1,197 |
