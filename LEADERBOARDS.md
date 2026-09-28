@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-28 01:39 UTC_
+_Last updated: 2026-09-28 01:40 UTC_
 
 ## Contents
 
@@ -148,7 +148,7 @@ _Last updated: 2026-09-28 01:39 UTC_
 | 127 | Ruth Riley | 2,434 |
 | 128 | Svetlana Abrosimova | 2,414 |
 | 129 | Anna DeForge | 2,413 |
-| 130 | **Kayla Thornton** 🔴 +3 | 2,396 |
+| 130 | **Kayla Thornton** 🔴 +5 | 2,398 |
 | 131 | DeMya Walker | 2,379 |
 | 132 | Jordin Canada | 2,352 |
 | 133 | Alex Bentley | 2,350 |
@@ -533,8 +533,8 @@ _Last updated: 2026-09-28 01:39 UTC_
 | 101 | Debbie Black | 612 |
 | 102 | Cynthia Cooper | 602 |
 | 103 | Caitlin Clark | 601 |
-| 104 | **Gabby Williams** 🔴 +1 | 592 |
-| 104 | Sancho Lyttle | 592 |
+| 104 | **Gabby Williams** 🔴 +2 | 593 |
+| 105 | Sancho Lyttle | 592 |
 | 106 | Betnijah Laney-Hamilton | 591 |
 | 107 | Camille Smith | 590 |
 | 108 | Armintie Herrington | 589 |
@@ -928,8 +928,8 @@ _Last updated: 2026-09-28 01:39 UTC_
 | 83 | Courtney Williams | 329 |
 | 83 | Kristi Toliver | 329 |
 | 85 | Matee Ajavon | 328 |
-| 86 | **Gabby Williams** 🔴 | 326 |
-| 86 | Napheesa Collier | 326 |
+| 86 | **Gabby Williams** 🔴 +1 | 327 |
+| 87 | Napheesa Collier | 326 |
 | 88 | Betty Lennox | 323 |
 | 89 | Tammy Sutton-Brown | 319 |
 | 90 | **Alysha Clark** 🔴 | 317 |
@@ -1351,8 +1351,8 @@ _Last updated: 2026-09-28 01:39 UTC_
 | 95 | Iziane Castro Marques | 534 |
 | 97 | Mwadi Mabika | 532 |
 | 98 | Nakia Sanford | 531 |
+| 99 | **Arike Ogunbowale** 🔴 +1 | 530 |
 | 99 | Jordin Canada | 530 |
-| 100 | **Arike Ogunbowale** 🔴 | 529 |
 | 101 | Maya Moore | 527 |
 | 102 | Kara Lawson | 526 |
 | 103 | Leilani Mitchell | 525 |
