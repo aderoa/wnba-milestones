@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-28 02:16 UTC_
+_Last updated: 2026-09-28 02:17 UTC_
 
 ## Contents
 
@@ -148,7 +148,7 @@ _Last updated: 2026-09-28 02:16 UTC_
 | 127 | Ruth Riley | 2,434 |
 | 128 | Svetlana Abrosimova | 2,414 |
 | 129 | Anna DeForge | 2,413 |
-| 130 | **Kayla Thornton** 🔴 +5 | 2,398 |
+| 130 | **Kayla Thornton** 🔴 +8 | 2,401 |
 | 131 | DeMya Walker | 2,379 |
 | 132 | Jordin Canada | 2,352 |
 | 133 | Alex Bentley | 2,350 |
@@ -259,7 +259,7 @@ _Last updated: 2026-09-28 02:16 UTC_
 | 33 | Elizabeth Williams | 1,978 |
 | 34 | Cheryl Ford | 1,907 |
 | 35 | Courtney Williams | 1,846 |
-| 36 | **Kiah Stokes** 🔴 +5 | 1,840 |
+| 36 | **Kiah Stokes** 🔴 +6 | 1,841 |
 | 37 | Plenette Pierson | 1,834 |
 | 38 | Natalie Williams | 1,832 |
 | 39 | Wendy Palmer | 1,824 |
@@ -387,7 +387,7 @@ _Last updated: 2026-09-28 02:16 UTC_
 | 161 | Shakira Austin | 848 |
 | 162 | Leilani Mitchell | 845 |
 | 163 | Essence Carson | 833 |
-| 164 | **Gabby Williams** 🔴 +1 | 832 |
+| 163 | **Gabby Williams** 🔴 +2 | 833 |
 | 165 | Kristi Toliver | 829 |
 | 166 | Marie Ferdinand-Harris | 828 |
 | 167 | Marlies Askamp | 822 |
@@ -538,7 +538,7 @@ _Last updated: 2026-09-28 02:16 UTC_
 | 106 | Betnijah Laney-Hamilton | 591 |
 | 107 | Camille Smith | 590 |
 | 108 | Armintie Herrington | 589 |
-| 109 | **Veronica Burton** 🔴 +4 | 583 |
+| 109 | **Veronica Burton** 🔴 +5 | 584 |
 | 110 | Tan White | 578 |
 | 111 | Matee Ajavon | 577 |
 | 112 | Napheesa Collier | 573 |
@@ -1121,7 +1121,7 @@ _Last updated: 2026-09-28 02:16 UTC_
 | 71 | Bridget Carleton | 306 |
 | 72 | Kelly Miller | 305 |
 | 73 | Nikki Teasley | 304 |
-| 74 | **Kayla Thornton** 🔴 +1 | 301 |
+| 74 | **Kayla Thornton** 🔴 +2 | 302 |
 | 75 | Vickie Johnson | 295 |
 | 76 | Seimone Augustus | 293 |
 | 77 | Candice Wiggins | 290 |
