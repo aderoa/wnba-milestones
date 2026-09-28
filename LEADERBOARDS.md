@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-28 03:01 UTC_
+_Last updated: 2026-09-28 03:02 UTC_
 
 ## Contents
 
@@ -457,7 +457,7 @@ _Last updated: 2026-09-28 03:01 UTC_
 | 25 | Jordin Canada | 1,272 |
 | 26 | Kelsey Plum | 1,270 |
 | 27 | Katie Smith | 1,258 |
-| 28 | **Odyssey Sims** 🔴 +6 | 1,234 |
+| 28 | **Odyssey Sims** 🔴 +7 | 1,235 |
 | 29 | Vickie Johnson | 1,202 |
 | 30 | DeWanna Bonner | 1,198 |
 | 31 | Leilani Mitchell | 1,197 |
