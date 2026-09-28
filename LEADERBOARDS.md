@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-28 00:44 UTC_
+_Last updated: 2026-09-28 00:45 UTC_
 
 ## Contents
 
@@ -384,8 +384,8 @@ _Last updated: 2026-09-28 00:44 UTC_
 | 158 | Shameka Christon | 867 |
 | 159 | Krystal Thomas | 862 |
 | 160 | **Naz Hillmon** 🔴 +2 | 861 |
-| 161 | Leilani Mitchell | 845 |
-| 161 | **Shakira Austin** 🔴 +13 | 845 |
+| 161 | **Shakira Austin** 🔴 +14 | 846 |
+| 162 | Leilani Mitchell | 845 |
 | 163 | Essence Carson | 833 |
 | 164 | Gabby Williams | 831 |
 | 165 | Kristi Toliver | 829 |
@@ -963,7 +963,7 @@ _Last updated: 2026-09-28 00:44 UTC_
 | 118 | Jonquel Jones | 261 |
 | 118 | Karima Christmas-Kelly | 261 |
 | 120 | Riquna Williams | 260 |
-| 121 | **Rhyne Howard** 🔴 +4 | 258 |
+| 121 | **Rhyne Howard** 🔴 +5 | 259 |
 | 122 | Noelle Quinn | 256 |
 | 123 | Elaine Powell | 255 |
 | 123 | Loree Moore | 255 |
