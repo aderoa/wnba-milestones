@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-28 01:10 UTC_
+_Last updated: 2026-09-28 01:11 UTC_
 
 ## Contents
 
@@ -259,7 +259,7 @@ _Last updated: 2026-09-28 01:10 UTC_
 | 33 | Elizabeth Williams | 1,978 |
 | 34 | Cheryl Ford | 1,907 |
 | 35 | Courtney Williams | 1,846 |
-| 36 | **Kiah Stokes** 🔴 | 1,835 |
+| 36 | **Kiah Stokes** 🔴 +2 | 1,837 |
 | 37 | Plenette Pierson | 1,834 |
 | 38 | Natalie Williams | 1,832 |
 | 39 | Wendy Palmer | 1,824 |
@@ -384,7 +384,7 @@ _Last updated: 2026-09-28 01:10 UTC_
 | 158 | Shameka Christon | 867 |
 | 159 | Krystal Thomas | 862 |
 | 160 | **Naz Hillmon** 🔴 +2 | 861 |
-| 161 | **Shakira Austin** 🔴 +15 | 847 |
+| 161 | **Shakira Austin** 🔴 +16 | 848 |
 | 162 | Leilani Mitchell | 845 |
 | 163 | Essence Carson | 833 |
 | 164 | **Gabby Williams** 🔴 | 831 |
@@ -1526,7 +1526,7 @@ _Last updated: 2026-09-28 01:10 UTC_
 | 66 | Natasha Cloud | 773 |
 | 67 | Sheri Sam | 766 |
 | 68 | Kahleah Copper | 758 |
-| 69 | **Allisha Gray** 🔴 +4 | 756 |
+| 69 | **Allisha Gray** 🔴 +5 | 757 |
 | 70 | Kia Vaughn | 755 |
 | 71 | Vickie Johnson | 752 |
 | 72 | Kara Braxton | 748 |
