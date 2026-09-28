@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-28 01:24 UTC_
+_Last updated: 2026-09-28 01:25 UTC_
 
 ## Contents
 
@@ -47,7 +47,7 @@ _Last updated: 2026-09-28 01:24 UTC_
 | 26 | Lindsay Whalen | 5,511 |
 | 27 | Kelsey Mitchell | 5,210 |
 | 28 | Swin Cash | 5,119 |
-| 29 | **Tiffany Hayes** 🔴 +5 | 5,054 |
+| 29 | **Tiffany Hayes** 🔴 +7 | 5,056 |
 | 30 | Tangela Smith | 5,035 |
 | 31 | Taj McWilliams-Franklin | 4,992 |
 | 32 | Maya Moore | 4,984 |
@@ -295,7 +295,7 @@ _Last updated: 2026-09-28 01:24 UTC_
 | 69 | Tamera Young | 1,433 |
 | 70 | Alana Beard | 1,420 |
 | 71 | Nakia Sanford | 1,419 |
-| 72 | **Kayla Thornton** 🔴 +2 | 1,410 |
+| 72 | **Kayla Thornton** 🔴 +3 | 1,411 |
 | 73 | Allisha Gray | 1,407 |
 | 74 | Kara Braxton | 1,387 |
 | 75 | Courtney Vandersloot | 1,386 |
@@ -454,7 +454,7 @@ _Last updated: 2026-09-28 01:24 UTC_
 | 22 | Erica Wheeler | 1,335 |
 | 23 | Teresa Weatherspoon | 1,333 |
 | 24 | Kristi Toliver | 1,301 |
-| 25 | Jordin Canada | 1,273 |
+| 25 | Jordin Canada | 1,272 |
 | 26 | Kelsey Plum | 1,270 |
 | 27 | Katie Smith | 1,258 |
 | 28 | Odyssey Sims | 1,228 |
@@ -538,7 +538,7 @@ _Last updated: 2026-09-28 01:24 UTC_
 | 106 | Betnijah Laney-Hamilton | 591 |
 | 107 | Camille Smith | 590 |
 | 108 | Armintie Herrington | 589 |
-| 109 | **Veronica Burton** 🔴 +2 | 581 |
+| 109 | **Veronica Burton** 🔴 +3 | 582 |
 | 110 | Tan White | 578 |
 | 111 | Matee Ajavon | 577 |
 | 112 | Napheesa Collier | 573 |
