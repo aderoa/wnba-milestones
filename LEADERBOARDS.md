@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-28 00:15 UTC_
+_Last updated: 2026-09-28 00:16 UTC_
 
 ## Contents
 
@@ -130,7 +130,7 @@ _Last updated: 2026-09-28 00:15 UTC_
 | 109 | Adrienne Goodson | 2,705 |
 | 110 | Riquna Williams | 2,659 |
 | 111 | Cheyenne Parker-Tyus | 2,652 |
-| 112 | **Rhyne Howard** 🔴 +12 | 2,649 |
+| 112 | **Rhyne Howard** 🔴 +14 | 2,651 |
 | 113 | Essence Carson | 2,647 |
 | 113 | Lindsey Harding | 2,647 |
 | 115 | Tamera Young | 2,641 |
@@ -296,7 +296,7 @@ _Last updated: 2026-09-28 00:15 UTC_
 | 70 | Alana Beard | 1,420 |
 | 71 | Nakia Sanford | 1,419 |
 | 72 | Kayla Thornton | 1,408 |
-| 73 | **Allisha Gray** 🔴 +2 | 1,406 |
+| 73 | **Allisha Gray** 🔴 +3 | 1,407 |
 | 74 | Kara Braxton | 1,387 |
 | 75 | Courtney Vandersloot | 1,386 |
 | 76 | Katie Smith | 1,383 |
@@ -707,8 +707,8 @@ _Last updated: 2026-09-28 00:15 UTC_
 | 70 | Camille Smith | 169 |
 | 71 | Shameka Christon | 165 |
 | 72 | Aliyah Boston | 160 |
-| 72 | **Allisha Gray** 🔴 +3 | 160 |
 | 72 | Cheryl Ford | 160 |
+| 74 | **Allisha Gray** 🔴 +2 | 159 |
 | 75 | Kara Braxton | 157 |
 | 76 | DeMya Walker | 155 |
 | 76 | Tamika Whitmore | 155 |
@@ -963,7 +963,7 @@ _Last updated: 2026-09-28 00:15 UTC_
 | 118 | Jonquel Jones | 261 |
 | 118 | Karima Christmas-Kelly | 261 |
 | 120 | Riquna Williams | 260 |
-| 121 | **Rhyne Howard** 🔴 +4 | 258 |
+| 121 | **Rhyne Howard** 🔴 +3 | 257 |
 | 122 | Noelle Quinn | 256 |
 | 123 | Elaine Powell | 255 |
 | 123 | Loree Moore | 255 |
