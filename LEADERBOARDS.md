@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-28 01:48 UTC_
+_Last updated: 2026-09-28 01:49 UTC_
 
 ## Contents
 
@@ -387,7 +387,7 @@ _Last updated: 2026-09-28 01:48 UTC_
 | 161 | Shakira Austin | 848 |
 | 162 | Leilani Mitchell | 845 |
 | 163 | Essence Carson | 833 |
-| 164 | **Gabby Williams** 🔴 | 831 |
+| 164 | **Gabby Williams** 🔴 +1 | 832 |
 | 165 | Kristi Toliver | 829 |
 | 166 | Marie Ferdinand-Harris | 828 |
 | 167 | Marlies Askamp | 822 |
