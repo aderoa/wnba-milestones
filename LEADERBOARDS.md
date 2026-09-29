@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-29 23:03 UTC_
+_Last updated: 2026-09-29 23:04 UTC_
 
 ## Contents
 
@@ -34,7 +34,7 @@ _Last updated: 2026-09-29 23:03 UTC_
 | 13 | Breanna Stewart | 6,335 |
 | 14 | Lisa Leslie | 6,251 |
 | 15 | **A'ja Wilson** 🔴 +6 | 6,184 |
-| 16 | **Jewell Loyd** 🔴 +2 | 6,150 |
+| 16 | **Jewell Loyd** 🔴 +5 | 6,153 |
 | 17 | Brittney Griner | 6,087 |
 | 18 | Lauren Jackson | 6,005 |
 | 18 | Seimone Augustus | 6,005 |
@@ -435,7 +435,7 @@ _Last updated: 2026-09-29 23:03 UTC_
 | 3 | Ticha Penicheiro | 2,588 |
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
-| 6 | **Chelsea Gray** 🔴 +1 | 2,004 |
+| 6 | **Chelsea Gray** 🔴 +2 | 2,005 |
 | 7 | Alyssa Thomas | 1,971 |
 | 8 | Skylar Diggins | 1,852 |
 | 9 | Natasha Cloud | 1,802 |
@@ -1056,7 +1056,7 @@ _Last updated: 2026-09-29 23:03 UTC_
 | 6 | Tina Thompson | 745 |
 | 7 | Katie Douglas | 723 |
 | 8 | **Kelsey Mitchell** 🔴 +1 | 713 |
-| 9 | **Jewell Loyd** 🔴 | 695 |
+| 9 | **Jewell Loyd** 🔴 +1 | 696 |
 | 10 | DeWanna Bonner | 682 |
 | 11 | Kristi Toliver | 651 |
 | 12 | Kelsey Plum | 619 |
