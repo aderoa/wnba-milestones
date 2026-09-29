@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-29 23:15 UTC_
+_Last updated: 2026-09-29 23:16 UTC_
 
 ## Contents
 
@@ -45,7 +45,7 @@ _Last updated: 2026-09-29 23:15 UTC_
 | 24 | DeLisha Milton-Jones | 5,571 |
 | 25 | Katie Douglas | 5,545 |
 | 26 | Lindsay Whalen | 5,511 |
-| 27 | **Kelsey Mitchell** 🔴 +10 | 5,208 |
+| 27 | **Kelsey Mitchell** 🔴 +12 | 5,210 |
 | 28 | Swin Cash | 5,119 |
 | 29 | Tiffany Hayes | 5,049 |
 | 30 | Tangela Smith | 5,035 |
@@ -213,7 +213,7 @@ _Last updated: 2026-09-29 23:15 UTC_
 | 192 | Armintie Herrington | 1,696 |
 | 193 | Nikki Teasley | 1,690 |
 | 194 | Shenise Johnson | 1,688 |
-| 195 | **Monique Billings** 🔴 | 1,612 |
+| 195 | **Monique Billings** 🔴 +2 | 1,614 |
 | 196 | Janell Burse | 1,580 |
 | 197 | Le'coe Willingham | 1,552 |
 | 198 | Shatori Walker-Kimbrough | 1,544 |
@@ -292,7 +292,7 @@ _Last updated: 2026-09-29 23:15 UTC_
 | 66 | **Cheyenne Parker-Tyus** 🔴 +1 | 1,464 |
 | 67 | Nicole Powell | 1,457 |
 | 68 | Tamera Young | 1,433 |
-| 69 | **Monique Billings** 🔴 | 1,431 |
+| 69 | **Monique Billings** 🔴 +1 | 1,432 |
 | 70 | Alana Beard | 1,420 |
 | 71 | Nakia Sanford | 1,419 |
 | 72 | Kayla Thornton | 1,408 |
@@ -532,7 +532,7 @@ _Last updated: 2026-09-29 23:15 UTC_
 | 100 | Natasha Howard | 615 |
 | 101 | Debbie Black | 612 |
 | 102 | Cynthia Cooper | 602 |
-| 103 | **Caitlin Clark** 🔴 +6 | 597 |
+| 103 | **Caitlin Clark** 🔴 +7 | 598 |
 | 104 | Sancho Lyttle | 592 |
 | 105 | Gabby Williams | 591 |
 | 106 | Betnijah Laney-Hamilton | 590 |
@@ -1366,7 +1366,7 @@ _Last updated: 2026-09-29 23:15 UTC_
 | 111 | Nikki Teasley | 493 |
 | 111 | Tari Phillips | 493 |
 | 113 | Janel McCarville | 491 |
-| 114 | **A'ja Wilson** 🔴 +1 | 489 |
+| 114 | **A'ja Wilson** 🔴 +2 | 490 |
 | 115 | Erika de Souza | 483 |
 | 116 | Sophia Young-Malcolm | 482 |
 | 117 | Natalie Williams | 480 |
