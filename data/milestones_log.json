@@ -1,5 +1,19 @@
 [
   {
+    "ts": "2026-09-29T23:24:00+00:00",
+    "text": "Stephanie Talbot passed Awak Kuier, Nykesha Sales, and Rushia Brown for #164 all-time in blocks (career 81) \u2014 up from #167 entering today \u2014 (32.0 - 2nd \u2014 LV @ IND)",
+    "kind": "rank_pass",
+    "player": "Stephanie Talbot",
+    "stat": "blocks",
+    "rank": 164,
+    "passed_players": [
+      "Awak Kuier",
+      "Nykesha Sales",
+      "Rushia Brown"
+    ],
+    "new_total": 81
+  },
+  {
     "ts": "2026-09-28T02:30:00+00:00",
     "text": "Cecilia Zandalasini reached 700 career points (now 701) \u2014 (4:36 - 3rd \u2014 DAL @ GS)",
     "kind": "round",
@@ -2961,17 +2975,5 @@
       "Kara Lawson"
     ],
     "new_total": 947
-  },
-  {
-    "ts": "2026-07-10T04:01:00+00:00",
-    "text": "Kelsey Mitchell passed Tully Bevilaqua for #66 all-time in assists (career 854) \u2014 up from #67 entering today \u2014 (2:46 - 4th \u2014 IND @ PHX)",
-    "kind": "rank_pass",
-    "player": "Kelsey Mitchell",
-    "stat": "assists",
-    "rank": 66,
-    "passed_players": [
-      "Tully Bevilaqua"
-    ],
-    "new_total": 854
   }
 ]
