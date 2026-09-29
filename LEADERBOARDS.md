@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-29 23:55 UTC_
+_Last updated: 2026-09-29 23:56 UTC_
 
 ## Contents
 
@@ -83,7 +83,7 @@ _Last updated: 2026-09-29 23:55 UTC_
 | 62 | Allie Quigley | 3,786 |
 | 63 | Chasity Melvin | 3,781 |
 | 64 | Brittney Sykes | 3,726 |
-| 65 | **Jackie Young** 🔴 +11 | 3,709 |
+| 65 | **Jackie Young** 🔴 +14 | 3,712 |
 | 66 | Kara Lawson | 3,670 |
 | 67 | Mwadi Mabika | 3,576 |
 | 68 | Odyssey Sims | 3,574 |
@@ -129,7 +129,7 @@ _Last updated: 2026-09-29 23:55 UTC_
 | 108 | Ticha Penicheiro | 2,729 |
 | 109 | Adrienne Goodson | 2,705 |
 | 110 | Riquna Williams | 2,659 |
-| 111 | **Cheyenne Parker-Tyus** 🔴 +4 | 2,649 |
+| 111 | **Cheyenne Parker-Tyus** 🔴 +7 | 2,652 |
 | 112 | Essence Carson | 2,647 |
 | 112 | Lindsey Harding | 2,647 |
 | 114 | Tamera Young | 2,641 |
@@ -185,7 +185,7 @@ _Last updated: 2026-09-29 23:55 UTC_
 | 164 | Bria Hartley | 1,967 |
 | 165 | Chiney Ogwumike | 1,964 |
 | 166 | Nicole Ohlde | 1,959 |
-| 167 | **Myisha Hines-Allen** 🔴 | 1,956 |
+| 167 | **Myisha Hines-Allen** 🔴 +2 | 1,958 |
 | 168 | Kedra Holland-Corn | 1,938 |
 | 169 | Isabelle Harrison | 1,932 |
 | 170 | Cathrine Kraayeveld | 1,926 |
@@ -289,7 +289,7 @@ _Last updated: 2026-09-29 23:55 UTC_
 | 63 | Ticha Penicheiro | 1,485 |
 | 64 | Alysha Clark | 1,469 |
 | 65 | Sue Bird | 1,466 |
-| 66 | **Cheyenne Parker-Tyus** 🔴 +1 | 1,464 |
+| 66 | **Cheyenne Parker-Tyus** 🔴 +2 | 1,465 |
 | 67 | Nicole Powell | 1,457 |
 | 68 | Tamera Young | 1,433 |
 | 69 | **Monique Billings** 🔴 +1 | 1,432 |
@@ -462,7 +462,7 @@ _Last updated: 2026-09-29 23:55 UTC_
 | 30 | Leilani Mitchell | 1,197 |
 | 31 | DeWanna Bonner | 1,196 |
 | 32 | **Jewell Loyd** 🔴 | 1,156 |
-| 33 | **Jackie Young** 🔴 +3 | 1,153 |
+| 33 | **Jackie Young** 🔴 +4 | 1,154 |
 | 34 | Renee Montgomery | 1,140 |
 | 35 | Swin Cash | 1,131 |
 | 36 | Sabrina Ionescu | 1,092 |
@@ -1101,7 +1101,7 @@ _Last updated: 2026-09-29 23:55 UTC_
 | 51 | Epiphanny Prince | 368 |
 | 51 | Kia Nurse | 368 |
 | 53 | Nykesha Sales | 352 |
-| 54 | **Jackie Young** 🔴 +1 | 347 |
+| 54 | **Jackie Young** 🔴 +2 | 348 |
 | 55 | Natasha Cloud | 345 |
 | 56 | Cathrine Kraayeveld | 343 |
 | 56 | Elena Delle Donne | 343 |
