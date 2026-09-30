@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-30 00:03 UTC_
+_Last updated: 2026-09-30 00:04 UTC_
 
 ## Contents
 
@@ -175,7 +175,7 @@ _Last updated: 2026-09-30 00:03 UTC_
 | 154 | Tari Phillips | 2,134 |
 | 155 | Cheryl Ford | 2,116 |
 | 156 | Elena Baranova | 2,110 |
-| 157 | **Aliyah Boston** 🔴 +14 | 2,101 |
+| 157 | **Aliyah Boston** 🔴 +16 | 2,103 |
 | 158 | Aerial Powers | 2,068 |
 | 159 | Coco Miller | 2,030 |
 | 160 | Diamond DeShields | 2,026 |
@@ -288,8 +288,8 @@ _Last updated: 2026-09-30 00:03 UTC_
 | 62 | Napheesa Collier | 1,510 |
 | 63 | Ticha Penicheiro | 1,485 |
 | 64 | Alysha Clark | 1,469 |
+| 65 | **Cheyenne Parker-Tyus** 🔴 +3 | 1,466 |
 | 65 | Sue Bird | 1,466 |
-| 66 | **Cheyenne Parker-Tyus** 🔴 +2 | 1,465 |
 | 67 | Nicole Powell | 1,457 |
 | 68 | **Monique Billings** 🔴 +2 | 1,433 |
 | 68 | Tamera Young | 1,433 |
@@ -301,7 +301,7 @@ _Last updated: 2026-09-30 00:03 UTC_
 | 75 | Courtney Vandersloot | 1,386 |
 | 76 | Katie Smith | 1,383 |
 | 77 | Ebony Hoffman | 1,376 |
-| 78 | **Jewell Loyd** 🔴 +2 | 1,373 |
+| 78 | **Jewell Loyd** 🔴 +3 | 1,374 |
 | 79 | Sheri Sam | 1,356 |
 | 80 | Tamika Whitmore | 1,355 |
 | 81 | Emma Meesseman | 1,350 |
@@ -531,7 +531,7 @@ _Last updated: 2026-09-30 00:03 UTC_
 | 99 | Alysha Clark | 619 |
 | 100 | Natasha Howard | 615 |
 | 101 | Debbie Black | 612 |
-| 102 | **Caitlin Clark** 🔴 +13 | 604 |
+| 102 | **Caitlin Clark** 🔴 +14 | 605 |
 | 103 | Cynthia Cooper | 602 |
 | 104 | Sancho Lyttle | 592 |
 | 105 | Gabby Williams | 591 |
