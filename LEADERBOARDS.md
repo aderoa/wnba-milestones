@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-30 00:41 UTC_
+_Last updated: 2026-09-30 00:42 UTC_
 
 ## Contents
 
@@ -33,7 +33,7 @@ _Last updated: 2026-09-30 00:41 UTC_
 | 12 | Sylvia Fowles | 6,413 |
 | 13 | **Breanna Stewart** 🔴 | 6,335 |
 | 14 | Lisa Leslie | 6,251 |
-| 15 | **A'ja Wilson** 🔴 +18 | 6,196 |
+| 15 | **A'ja Wilson** 🔴 +20 | 6,198 |
 | 16 | **Jewell Loyd** 🔴 +8 | 6,156 |
 | 17 | Brittney Griner | 6,087 |
 | 18 | Lauren Jackson | 6,005 |
@@ -67,7 +67,7 @@ _Last updated: 2026-09-30 00:41 UTC_
 | 46 | Crystal Langhorne | 4,433 |
 | 46 | Jia Perkins | 4,433 |
 | 48 | Courtney Vandersloot | 4,362 |
-| 49 | **Jonquel Jones** 🔴 +5 | 4,358 |
+| 49 | **Jonquel Jones** 🔴 +7 | 4,360 |
 | 50 | **Courtney Williams** 🔴 | 4,350 |
 | 51 | Dearica Hamby | 4,330 |
 | 52 | Sophia Young-Malcolm | 4,300 |
@@ -175,7 +175,7 @@ _Last updated: 2026-09-30 00:41 UTC_
 | 154 | Tari Phillips | 2,134 |
 | 155 | Cheryl Ford | 2,116 |
 | 156 | Elena Baranova | 2,110 |
-| 157 | **Aliyah Boston** 🔴 +20 | 2,107 |
+| 157 | **Aliyah Boston** 🔴 +22 | 2,109 |
 | 158 | Aerial Powers | 2,068 |
 | 159 | Coco Miller | 2,030 |
 | 160 | Diamond DeShields | 2,026 |
@@ -236,7 +236,7 @@ _Last updated: 2026-09-30 00:41 UTC_
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | Alyssa Thomas | 2,858 |
-| 13 | **Jonquel Jones** 🔴 +1 | 2,729 |
+| 13 | **Jonquel Jones** 🔴 +3 | 2,731 |
 | 14 | **A'ja Wilson** 🔴 +9 | 2,666 |
 | 15 | **Breanna Stewart** 🔴 +1 | 2,633 |
 | 16 | Sancho Lyttle | 2,596 |
@@ -249,7 +249,7 @@ _Last updated: 2026-09-30 00:41 UTC_
 | 23 | Lauren Jackson | 2,444 |
 | 24 | Yolanda Griffith | 2,440 |
 | 25 | Tangela Smith | 2,328 |
-| 26 | **Natasha Howard** 🔴 | 2,315 |
+| 26 | **Natasha Howard** 🔴 +1 | 2,316 |
 | 27 | Erika de Souza | 2,220 |
 | 28 | Diana Taurasi | 2,201 |
 | 29 | Margo Dydek | 2,138 |
@@ -1390,9 +1390,9 @@ _Last updated: 2026-09-30 00:41 UTC_
 | 134 | Nicole Ohlde | 434 |
 | 136 | Murriel Page | 432 |
 | 137 | Shameka Christon | 424 |
-| 138 | Cynthia Cooper | 422 |
-| 138 | **Napheesa Collier** 🔴 | 422 |
-| 138 | Noelle Quinn | 422 |
+| 138 | **Napheesa Collier** 🔴 +1 | 423 |
+| 139 | Cynthia Cooper | 422 |
+| 139 | Noelle Quinn | 422 |
 | 141 | Bria Hartley | 419 |
 | 142 | Sami Whitcomb | 416 |
 | 143 | Coco Miller | 410 |
@@ -1625,11 +1625,11 @@ _Last updated: 2026-09-30 00:41 UTC_
 | 165 | Vicky Bullett | 507 |
 | 166 | Merlakia Jones | 506 |
 | 167 | Isabelle Harrison | 505 |
+| 167 | **Napheesa Collier** 🔴 +1 | 505 |
 | 167 | Rushia Brown | 505 |
 | 167 | Shekinna Stricklen | 505 |
-| 170 | Allison Feaster | 504 |
-| 170 | Erin Perperoglou | 504 |
-| 170 | **Napheesa Collier** 🔴 | 504 |
+| 171 | Allison Feaster | 504 |
+| 171 | Erin Perperoglou | 504 |
 | 173 | Iziane Castro Marques | 502 |
 | 174 | Elena Baranova | 501 |
 | 175 | Adrian Williams-Strong | 497 |
