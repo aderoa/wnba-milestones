@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-30 01:58 UTC_
+_Last updated: 2026-09-30 01:59 UTC_
 
 ## Contents
 
@@ -41,7 +41,7 @@ _Last updated: 2026-09-30 01:58 UTC_
 | 20 | Becky Hammon | 5,816 |
 | 21 | Angel McCoughtry | 5,797 |
 | 22 | Skylar Diggins | 5,732 |
-| 23 | **Kayla McBride** 🔴 +6 | 5,656 |
+| 23 | **Kayla McBride** 🔴 +9 | 5,659 |
 | 24 | DeLisha Milton-Jones | 5,571 |
 | 25 | Katie Douglas | 5,545 |
 | 26 | Lindsay Whalen | 5,511 |
@@ -66,7 +66,7 @@ _Last updated: 2026-09-30 01:58 UTC_
 | 45 | Kahleah Copper | 4,437 |
 | 46 | Crystal Langhorne | 4,433 |
 | 46 | Jia Perkins | 4,433 |
-| 48 | **Jonquel Jones** 🔴 +14 | 4,367 |
+| 48 | **Jonquel Jones** 🔴 +16 | 4,369 |
 | 49 | Courtney Vandersloot | 4,362 |
 | 49 | **Courtney Williams** 🔴 +12 | 4,362 |
 | 51 | Dearica Hamby | 4,330 |
@@ -236,7 +236,7 @@ _Last updated: 2026-09-30 01:58 UTC_
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | Alyssa Thomas | 2,858 |
-| 13 | **Jonquel Jones** 🔴 +7 | 2,735 |
+| 13 | **Jonquel Jones** 🔴 +8 | 2,736 |
 | 14 | A'ja Wilson | 2,666 |
 | 15 | **Breanna Stewart** 🔴 +4 | 2,636 |
 | 16 | Sancho Lyttle | 2,596 |
@@ -590,8 +590,8 @@ _Last updated: 2026-09-30 01:58 UTC_
 | 159 | Tierra Ruffin-Pratt | 424 |
 | 160 | Kedra Holland-Corn | 423 |
 | 161 | Crystal Dangerfield | 418 |
+| 162 | **Aari McDonald** 🔴 +2 | 417 |
 | 162 | Candice Wiggins | 417 |
-| 163 | **Aari McDonald** 🔴 +1 | 416 |
 | 164 | Erin Thorn | 414 |
 | 165 | Jamierra Faulkner | 410 |
 | 165 | Murriel Page | 410 |
@@ -1051,7 +1051,7 @@ _Last updated: 2026-09-30 01:58 UTC_
 | 2 | Sue Bird | 1,001 |
 | 3 | Katie Smith | 906 |
 | 4 | Becky Hammon | 825 |
-| 5 | **Kayla McBride** 🔴 +1 | 757 |
+| 5 | **Kayla McBride** 🔴 +2 | 758 |
 | 6 | Tina Thompson | 745 |
 | 7 | Katie Douglas | 723 |
 | 8 | Kelsey Mitchell | 715 |
