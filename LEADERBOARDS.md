@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-30 02:32 UTC_
+_Last updated: 2026-09-30 02:33 UTC_
 
 ## Contents
 
@@ -31,7 +31,7 @@ _Last updated: 2026-09-30 02:32 UTC_
 | 10 | Candace Parker | 6,574 |
 | 11 | Katie Smith | 6,450 |
 | 12 | Sylvia Fowles | 6,413 |
-| 13 | **Breanna Stewart** 🔴 +19 | 6,354 |
+| 13 | **Breanna Stewart** 🔴 +21 | 6,356 |
 | 14 | Lisa Leslie | 6,251 |
 | 15 | A'ja Wilson | 6,200 |
 | 16 | Jewell Loyd | 6,156 |
@@ -41,7 +41,7 @@ _Last updated: 2026-09-30 02:32 UTC_
 | 20 | Becky Hammon | 5,816 |
 | 21 | Angel McCoughtry | 5,797 |
 | 22 | Skylar Diggins | 5,732 |
-| 23 | **Kayla McBride** 🔴 +11 | 5,661 |
+| 23 | **Kayla McBride** 🔴 +14 | 5,664 |
 | 24 | DeLisha Milton-Jones | 5,571 |
 | 25 | Katie Douglas | 5,545 |
 | 26 | Lindsay Whalen | 5,511 |
@@ -589,9 +589,9 @@ _Last updated: 2026-09-30 02:32 UTC_
 | 158 | Elena Baranova | 430 |
 | 159 | Tierra Ruffin-Pratt | 424 |
 | 160 | Kedra Holland-Corn | 423 |
+| 161 | **Aari McDonald** 🔴 +3 | 418 |
 | 161 | Crystal Dangerfield | 418 |
-| 162 | **Aari McDonald** 🔴 +2 | 417 |
-| 162 | Candice Wiggins | 417 |
+| 163 | Candice Wiggins | 417 |
 | 164 | Erin Thorn | 414 |
 | 165 | Jamierra Faulkner | 410 |
 | 165 | Murriel Page | 410 |
@@ -1051,7 +1051,7 @@ _Last updated: 2026-09-30 02:32 UTC_
 | 2 | Sue Bird | 1,001 |
 | 3 | Katie Smith | 906 |
 | 4 | Becky Hammon | 825 |
-| 5 | **Kayla McBride** 🔴 +2 | 758 |
+| 5 | **Kayla McBride** 🔴 +3 | 759 |
 | 6 | Tina Thompson | 745 |
 | 7 | Katie Douglas | 723 |
 | 8 | Kelsey Mitchell | 715 |
