@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-30 00:13 UTC_
+_Last updated: 2026-09-30 00:14 UTC_
 
 ## Contents
 
@@ -33,7 +33,7 @@ _Last updated: 2026-09-30 00:13 UTC_
 | 12 | Sylvia Fowles | 6,413 |
 | 13 | Breanna Stewart | 6,335 |
 | 14 | Lisa Leslie | 6,251 |
-| 15 | **A'ja Wilson** 🔴 +10 | 6,188 |
+| 15 | **A'ja Wilson** 🔴 +11 | 6,189 |
 | 16 | **Jewell Loyd** 🔴 +5 | 6,153 |
 | 17 | Brittney Griner | 6,087 |
 | 18 | Lauren Jackson | 6,005 |
@@ -45,7 +45,7 @@ _Last updated: 2026-09-30 00:13 UTC_
 | 24 | DeLisha Milton-Jones | 5,571 |
 | 25 | Katie Douglas | 5,545 |
 | 26 | Lindsay Whalen | 5,511 |
-| 27 | **Kelsey Mitchell** 🔴 +17 | 5,215 |
+| 27 | **Kelsey Mitchell** 🔴 +19 | 5,217 |
 | 28 | Swin Cash | 5,119 |
 | 29 | Tiffany Hayes | 5,049 |
 | 30 | Tangela Smith | 5,035 |
@@ -1657,4 +1657,4 @@ _Last updated: 2026-09-30 00:13 UTC_
 | 197 | Sue Wicks | 462 |
 | 198 | Natalie Achonwa | 459 |
 | 199 | Kara Lawson | 457 |
-| 200 | **Aliyah Boston** 🔴 | 454 |
+| 200 | **Aliyah Boston** 🔴 +1 | 455 |
