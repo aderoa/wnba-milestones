@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-30 00:27 UTC_
+_Last updated: 2026-09-30 00:28 UTC_
 
 ## Contents
 
@@ -585,8 +585,8 @@ _Last updated: 2026-09-30 00:27 UTC_
 | 153 | Jessica Shepard | 436 |
 | 154 | Lauren Jackson | 435 |
 | 155 | Adrienne Goodson | 433 |
+| 155 | **Aliyah Boston** 🔴 +5 | 433 |
 | 155 | Crystal Langhorne | 433 |
-| 157 | **Aliyah Boston** 🔴 +4 | 432 |
 | 158 | Elena Baranova | 430 |
 | 159 | Tierra Ruffin-Pratt | 424 |
 | 160 | Kedra Holland-Corn | 423 |
@@ -1157,8 +1157,8 @@ _Last updated: 2026-09-30 00:27 UTC_
 | 107 | Andrea Stinson | 207 |
 | 108 | Betnijah Laney-Hamilton | 206 |
 | 109 | Lexie Brown | 203 |
-| 110 | **Caitlin Clark** 🔴 +4 | 199 |
-| 110 | Shanna Zolman | 199 |
+| 110 | **Caitlin Clark** 🔴 +5 | 200 |
+| 111 | Shanna Zolman | 199 |
 | 112 | Temeka Johnson | 197 |
 | 112 | Tina Charles | 197 |
 | 114 | Nia Coffey | 196 |
@@ -1607,7 +1607,7 @@ _Last updated: 2026-09-30 00:27 UTC_
 | 146 | Kayla McBride | 543 |
 | 146 | Renee Montgomery | 543 |
 | 149 | Marissa Coleman | 541 |
-| 150 | **Sophie Cunningham** 🔴 +1 | 539 |
+| 150 | **Sophie Cunningham** 🔴 +2 | 540 |
 | 151 | **Myisha Hines-Allen** 🔴 +2 | 537 |
 | 152 | Damiris Dantas | 533 |
 | 152 | Kristen Rasmussen | 533 |
