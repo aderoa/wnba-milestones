@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-30 02:04 UTC_
+_Last updated: 2026-09-30 02:05 UTC_
 
 ## Contents
 
@@ -1314,8 +1314,8 @@ _Last updated: 2026-09-30 02:04 UTC_
 | 60 | Vickie Johnson | 660 |
 | 61 | Yolanda Griffith | 653 |
 | 62 | Sheri Sam | 650 |
-| 63 | **Kayla McBride** 🔴 | 648 |
-| 63 | Kelsey Plum | 648 |
+| 63 | **Kayla McBride** 🔴 +1 | 649 |
+| 64 | Kelsey Plum | 648 |
 | 65 | Dawn Staley | 643 |
 | 66 | **Jonquel Jones** 🔴 | 641 |
 | 67 | Ruth Riley | 637 |
@@ -1388,8 +1388,8 @@ _Last updated: 2026-09-30 02:04 UTC_
 | 134 | Jennifer Gillom | 434 |
 | 134 | Nicole Ohlde | 434 |
 | 136 | Murriel Page | 432 |
+| 137 | **Napheesa Collier** 🔴 +2 | 424 |
 | 137 | Shameka Christon | 424 |
-| 138 | **Napheesa Collier** 🔴 +1 | 423 |
 | 139 | Cynthia Cooper | 422 |
 | 139 | Noelle Quinn | 422 |
 | 141 | Bria Hartley | 419 |
@@ -1602,7 +1602,7 @@ _Last updated: 2026-09-30 02:04 UTC_
 | 141 | Tierra Ruffin-Pratt | 550 |
 | 144 | Monique Billings | 549 |
 | 145 | Erlana Larkins | 546 |
-| 146 | **Kayla McBride** 🔴 +1 | 544 |
+| 146 | **Kayla McBride** 🔴 +2 | 545 |
 | 147 | Jayne Appel Marinelli | 543 |
 | 147 | Renee Montgomery | 543 |
 | 149 | Marissa Coleman | 541 |
@@ -1621,8 +1621,8 @@ _Last updated: 2026-09-30 02:04 UTC_
 | 162 | Adrienne Goodson | 512 |
 | 162 | Janeth Arcain | 512 |
 | 164 | Andrea Stinson | 511 |
-| 165 | **Napheesa Collier** 🔴 +3 | 507 |
-| 165 | Vicky Bullett | 507 |
+| 165 | **Napheesa Collier** 🔴 +4 | 508 |
+| 166 | Vicky Bullett | 507 |
 | 167 | Merlakia Jones | 506 |
 | 168 | Isabelle Harrison | 505 |
 | 168 | Rushia Brown | 505 |
