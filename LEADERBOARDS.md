@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-30 01:14 UTC_
+_Last updated: 2026-09-30 01:15 UTC_
 
 ## Contents
 
@@ -31,7 +31,7 @@ _Last updated: 2026-09-30 01:14 UTC_
 | 10 | Candace Parker | 6,574 |
 | 11 | Katie Smith | 6,450 |
 | 12 | Sylvia Fowles | 6,413 |
-| 13 | **Breanna Stewart** 🔴 +6 | 6,341 |
+| 13 | **Breanna Stewart** 🔴 +7 | 6,342 |
 | 14 | Lisa Leslie | 6,251 |
 | 15 | A'ja Wilson | 6,200 |
 | 16 | Jewell Loyd | 6,156 |
@@ -592,7 +592,7 @@ _Last updated: 2026-09-30 01:14 UTC_
 | 160 | Kedra Holland-Corn | 423 |
 | 161 | Crystal Dangerfield | 418 |
 | 162 | Candice Wiggins | 417 |
-| 163 | Aari McDonald | 415 |
+| 163 | **Aari McDonald** 🔴 | 415 |
 | 164 | Erin Thorn | 414 |
 | 165 | Jamierra Faulkner | 410 |
 | 165 | Murriel Page | 410 |
@@ -649,7 +649,7 @@ _Last updated: 2026-09-30 01:14 UTC_
 | 12 | **Breanna Stewart** 🔴 +1 | 451 |
 | 13 | Taj McWilliams-Franklin | 443 |
 | 14 | Tina Charles | 428 |
-| 15 | **Jonquel Jones** 🔴 | 425 |
+| 15 | **Jonquel Jones** 🔴 +1 | 426 |
 | 16 | Michelle Snow | 403 |
 | 17 | Tamika Catchings | 383 |
 | 18 | Tina Thompson | 372 |
@@ -1186,7 +1186,7 @@ _Last updated: 2026-09-30 01:14 UTC_
 | 136 | Dana Evans | 160 |
 | 136 | Jennifer Lacy | 160 |
 | 136 | Stephanie Talbot | 160 |
-| 139 | Aari McDonald | 158 |
+| 139 | **Aari McDonald** 🔴 | 158 |
 | 139 | Jennifer Azzi | 158 |
 | 139 | **Natasha Howard** 🔴 | 158 |
 | 142 | Alanna Smith | 156 |
