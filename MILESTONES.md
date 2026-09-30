@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-09-30 00:41 UTC
+
+- **Jewell Loyd** passed **Ebony Hoffman** for **#77** all-time in rebounds (career 1,377) — up from #78 entering today — _2:11 - 4th — LV @ IND_
+
 ## 2026-09-29 23:24 UTC
 
 - **Stephanie Talbot** passed **Awak Kuier**, **Nykesha Sales**, and **Rushia Brown** for **#164** all-time in blocks (career 81) — up from #167 entering today — _32.0 - 2nd — LV @ IND_

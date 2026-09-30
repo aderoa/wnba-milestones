@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-09-30T00:41:00+00:00",
+    "text": "Jewell Loyd passed Ebony Hoffman for #77 all-time in rebounds (career 1,377) \u2014 up from #78 entering today \u2014 (2:11 - 4th \u2014 LV @ IND)",
+    "kind": "rank_pass",
+    "player": "Jewell Loyd",
+    "stat": "rebounds",
+    "rank": 77,
+    "passed_players": [
+      "Ebony Hoffman"
+    ],
+    "new_total": 1377
+  },
+  {
     "ts": "2026-09-29T23:24:00+00:00",
     "text": "Stephanie Talbot passed Awak Kuier, Nykesha Sales, and Rushia Brown for #164 all-time in blocks (career 81) \u2014 up from #167 entering today \u2014 (32.0 - 2nd \u2014 LV @ IND)",
     "kind": "rank_pass",
@@ -2963,17 +2975,5 @@
       "Tangela Smith"
     ],
     "new_total": 236
-  },
-  {
-    "ts": "2026-07-11T00:18:00+00:00",
-    "text": "Arike Ogunbowale passed Kara Lawson for #49 all-time in assists (career 947) \u2014 up from #50 entering today \u2014 (1:30 - 2nd \u2014 DAL @ TOR)",
-    "kind": "rank_pass",
-    "player": "Arike Ogunbowale",
-    "stat": "assists",
-    "rank": 49,
-    "passed_players": [
-      "Kara Lawson"
-    ],
-    "new_total": 947
   }
 ]
