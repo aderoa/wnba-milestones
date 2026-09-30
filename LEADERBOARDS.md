@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-30 00:05 UTC_
+_Last updated: 2026-09-30 00:06 UTC_
 
 ## Contents
 
@@ -83,7 +83,7 @@ _Last updated: 2026-09-30 00:05 UTC_
 | 62 | Allie Quigley | 3,786 |
 | 63 | Chasity Melvin | 3,781 |
 | 64 | Brittney Sykes | 3,726 |
-| 65 | **Jackie Young** 🔴 +14 | 3,712 |
+| 65 | **Jackie Young** 🔴 +15 | 3,713 |
 | 66 | Kara Lawson | 3,670 |
 | 67 | Mwadi Mabika | 3,576 |
 | 68 | Odyssey Sims | 3,574 |
@@ -129,7 +129,7 @@ _Last updated: 2026-09-30 00:05 UTC_
 | 108 | Ticha Penicheiro | 2,729 |
 | 109 | Adrienne Goodson | 2,705 |
 | 110 | Riquna Williams | 2,659 |
-| 111 | **Cheyenne Parker-Tyus** 🔴 +8 | 2,653 |
+| 111 | **Cheyenne Parker-Tyus** 🔴 +9 | 2,654 |
 | 112 | Essence Carson | 2,647 |
 | 112 | Lindsey Harding | 2,647 |
 | 114 | Tamera Young | 2,641 |
@@ -313,7 +313,7 @@ _Last updated: 2026-09-30 00:05 UTC_
 | 87 | Azurá Stevens | 1,319 |
 | 88 | Betty Lennox | 1,296 |
 | 89 | Tari Phillips | 1,274 |
-| 90 | **Myisha Hines-Allen** 🔴 +3 | 1,268 |
+| 90 | **Myisha Hines-Allen** 🔴 +4 | 1,269 |
 | 91 | Janel McCarville | 1,261 |
 | 92 | **Chelsea Gray** 🔴 +1 | 1,258 |
 | 92 | Liz Cambage | 1,258 |
@@ -343,7 +343,7 @@ _Last updated: 2026-09-30 00:05 UTC_
 | 117 | Becky Hammon | 1,108 |
 | 118 | Ann Wauters | 1,105 |
 | 119 | Isabelle Harrison | 1,097 |
-| 120 | **Jackie Young** 🔴 +3 | 1,088 |
+| 120 | **Jackie Young** 🔴 +4 | 1,089 |
 | 121 | Svetlana Abrosimova | 1,078 |
 | 122 | Le'coe Willingham | 1,054 |
 | 123 | Nicole Ohlde | 1,040 |
@@ -1403,7 +1403,7 @@ _Last updated: 2026-09-30 00:05 UTC_
 | 148 | Merlakia Jones | 398 |
 | 149 | Glory Johnson | 397 |
 | 150 | Marissa Coleman | 396 |
-| 151 | **Myisha Hines-Allen** 🔴 +1 | 391 |
+| 151 | **Myisha Hines-Allen** 🔴 +2 | 392 |
 | 152 | Elizabeth Williams | 388 |
 | 153 | Sophia Witherspoon | 386 |
 | 154 | Hamchetou Maiga-Ba | 385 |
@@ -1607,7 +1607,7 @@ _Last updated: 2026-09-30 00:05 UTC_
 | 146 | Kayla McBride | 543 |
 | 146 | Renee Montgomery | 543 |
 | 149 | Marissa Coleman | 541 |
-| 150 | **Sophie Cunningham** 🔴 | 538 |
+| 150 | **Sophie Cunningham** 🔴 +1 | 539 |
 | 151 | **Myisha Hines-Allen** 🔴 +2 | 537 |
 | 152 | Damiris Dantas | 533 |
 | 152 | Kristen Rasmussen | 533 |
