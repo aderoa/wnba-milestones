@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-30 01:54 UTC_
+_Last updated: 2026-09-30 01:55 UTC_
 
 ## Contents
 
@@ -41,7 +41,7 @@ _Last updated: 2026-09-30 01:54 UTC_
 | 20 | Becky Hammon | 5,816 |
 | 21 | Angel McCoughtry | 5,797 |
 | 22 | Skylar Diggins | 5,732 |
-| 23 | **Kayla McBride** 🔴 +3 | 5,653 |
+| 23 | **Kayla McBride** 🔴 +6 | 5,656 |
 | 24 | DeLisha Milton-Jones | 5,571 |
 | 25 | Katie Douglas | 5,545 |
 | 26 | Lindsay Whalen | 5,511 |
@@ -87,8 +87,8 @@ _Last updated: 2026-09-30 01:54 UTC_
 | 66 | Kara Lawson | 3,670 |
 | 67 | Mwadi Mabika | 3,576 |
 | 68 | Odyssey Sims | 3,574 |
-| 69 | Camille Smith | 3,551 |
-| 69 | **Napheesa Collier** 🔴 +9 | 3,551 |
+| 69 | **Napheesa Collier** 🔴 +11 | 3,553 |
+| 70 | Camille Smith | 3,551 |
 | 71 | Shannon Johnson | 3,542 |
 | 72 | Renee Montgomery | 3,533 |
 | 73 | Jasmine Thomas | 3,522 |
@@ -591,7 +591,7 @@ _Last updated: 2026-09-30 01:54 UTC_
 | 160 | Kedra Holland-Corn | 423 |
 | 161 | Crystal Dangerfield | 418 |
 | 162 | Candice Wiggins | 417 |
-| 163 | **Aari McDonald** 🔴 | 415 |
+| 163 | **Aari McDonald** 🔴 +1 | 416 |
 | 164 | Erin Thorn | 414 |
 | 165 | Jamierra Faulkner | 410 |
 | 165 | Murriel Page | 410 |
@@ -1051,7 +1051,7 @@ _Last updated: 2026-09-30 01:54 UTC_
 | 2 | Sue Bird | 1,001 |
 | 3 | Katie Smith | 906 |
 | 4 | Becky Hammon | 825 |
-| 5 | **Kayla McBride** 🔴 | 756 |
+| 5 | **Kayla McBride** 🔴 +1 | 757 |
 | 6 | Tina Thompson | 745 |
 | 7 | Katie Douglas | 723 |
 | 8 | Kelsey Mitchell | 715 |
