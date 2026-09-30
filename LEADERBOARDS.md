@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-30 01:05 UTC_
+_Last updated: 2026-09-30 01:06 UTC_
 
 ## Contents
 
@@ -88,7 +88,7 @@ _Last updated: 2026-09-30 01:05 UTC_
 | 67 | Mwadi Mabika | 3,576 |
 | 68 | Odyssey Sims | 3,574 |
 | 69 | Camille Smith | 3,551 |
-| 70 | **Napheesa Collier** 🔴 +4 | 3,546 |
+| 70 | **Napheesa Collier** 🔴 +5 | 3,547 |
 | 71 | Shannon Johnson | 3,542 |
 | 72 | Renee Montgomery | 3,533 |
 | 73 | Jasmine Thomas | 3,522 |
@@ -238,7 +238,7 @@ _Last updated: 2026-09-30 01:05 UTC_
 | 12 | Alyssa Thomas | 2,858 |
 | 13 | **Jonquel Jones** 🔴 +3 | 2,731 |
 | 14 | A'ja Wilson | 2,666 |
-| 15 | **Breanna Stewart** 🔴 +2 | 2,634 |
+| 15 | **Breanna Stewart** 🔴 +1 | 2,633 |
 | 16 | Sancho Lyttle | 2,596 |
 | 17 | Brittney Griner | 2,579 |
 | 18 | DeLisha Milton-Jones | 2,574 |
@@ -284,7 +284,7 @@ _Last updated: 2026-09-30 01:05 UTC_
 | 58 | Katie Douglas | 1,562 |
 | 59 | Angel McCoughtry | 1,561 |
 | 60 | Penny Taylor | 1,552 |
-| 61 | **Napheesa Collier** 🔴 +4 | 1,514 |
+| 61 | **Napheesa Collier** 🔴 +5 | 1,515 |
 | 62 | Cappie Pondexter | 1,513 |
 | 63 | Ticha Penicheiro | 1,485 |
 | 64 | Alysha Clark | 1,469 |
