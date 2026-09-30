@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-30 01:18 UTC_
+_Last updated: 2026-09-30 01:19 UTC_
 
 ## Contents
 
@@ -88,7 +88,7 @@ _Last updated: 2026-09-30 01:18 UTC_
 | 67 | Mwadi Mabika | 3,576 |
 | 68 | Odyssey Sims | 3,574 |
 | 69 | Camille Smith | 3,551 |
-| 70 | **Napheesa Collier** 🔴 +7 | 3,549 |
+| 69 | **Napheesa Collier** 🔴 +9 | 3,551 |
 | 71 | Shannon Johnson | 3,542 |
 | 72 | Renee Montgomery | 3,533 |
 | 73 | Jasmine Thomas | 3,522 |
@@ -473,7 +473,7 @@ _Last updated: 2026-09-30 01:18 UTC_
 | 41 | Dominique Canty | 1,042 |
 | 42 | Sheryl Swoopes | 1,037 |
 | 43 | Tina Charles | 1,033 |
-| 44 | **Kayla McBride** 🔴 +2 | 994 |
+| 44 | **Kayla McBride** 🔴 +3 | 995 |
 | 45 | **Breanna Stewart** 🔴 +3 | 984 |
 | 46 | Nikki Teasley | 982 |
 | 47 | Tamecka Dixon | 960 |
@@ -1603,9 +1603,9 @@ _Last updated: 2026-09-30 01:18 UTC_
 | 141 | Tierra Ruffin-Pratt | 550 |
 | 144 | Monique Billings | 549 |
 | 145 | Erlana Larkins | 546 |
-| 146 | Jayne Appel Marinelli | 543 |
-| 146 | **Kayla McBride** 🔴 | 543 |
-| 146 | Renee Montgomery | 543 |
+| 146 | **Kayla McBride** 🔴 +1 | 544 |
+| 147 | Jayne Appel Marinelli | 543 |
+| 147 | Renee Montgomery | 543 |
 | 149 | Marissa Coleman | 541 |
 | 150 | Sophie Cunningham | 540 |
 | 151 | Myisha Hines-Allen | 537 |
