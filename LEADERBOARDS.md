@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-30 02:23 UTC_
+_Last updated: 2026-09-30 02:24 UTC_
 
 ## Contents
 
@@ -236,7 +236,7 @@ _Last updated: 2026-09-30 02:23 UTC_
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | Alyssa Thomas | 2,858 |
-| 13 | **Jonquel Jones** 🔴 +10 | 2,738 |
+| 13 | **Jonquel Jones** 🔴 +11 | 2,739 |
 | 14 | A'ja Wilson | 2,666 |
 | 15 | **Breanna Stewart** 🔴 +4 | 2,636 |
 | 16 | Sancho Lyttle | 2,596 |
@@ -443,7 +443,7 @@ _Last updated: 2026-09-30 02:23 UTC_
 | 12 | Cappie Pondexter | 1,575 |
 | 13 | Tamika Catchings | 1,484 |
 | 14 | Danielle Robinson | 1,480 |
-| 15 | **Courtney Williams** 🔴 +3 | 1,441 |
+| 15 | **Courtney Williams** 🔴 +4 | 1,442 |
 | 16 | Shannon Johnson | 1,423 |
 | 16 | Tanisha Wright | 1,423 |
 | 18 | Temeka Johnson | 1,382 |
@@ -878,7 +878,7 @@ _Last updated: 2026-09-30 02:23 UTC_
 | 34 | Tangela Smith | 455 |
 | 35 | Tina Thompson | 452 |
 | 36 | Maya Moore | 449 |
-| 37 | **Kayla McBride** 🔴 +1 | 447 |
+| 37 | **Kayla McBride** 🔴 +2 | 448 |
 | 38 | Sheri Sam | 438 |
 | 39 | Camille Smith | 437 |
 | 40 | **Breanna Stewart** 🔴 +1 | 436 |
@@ -1182,10 +1182,10 @@ _Last updated: 2026-09-30 02:23 UTC_
 | 133 | Tyasha Harris | 162 |
 | 133 | Ukari Figgs | 162 |
 | 135 | Edna Campbell | 161 |
+| 136 | **Aari McDonald** 🔴 +2 | 160 |
 | 136 | Dana Evans | 160 |
 | 136 | Jennifer Lacy | 160 |
 | 136 | Stephanie Talbot | 160 |
-| 139 | **Aari McDonald** 🔴 +1 | 159 |
 | 140 | Jennifer Azzi | 158 |
 | 140 | **Natasha Howard** 🔴 | 158 |
 | 142 | Alanna Smith | 156 |
@@ -1347,7 +1347,7 @@ _Last updated: 2026-09-30 02:23 UTC_
 | 93 | Layshia Clarendon | 536 |
 | 94 | Ivory Latta | 534 |
 | 94 | Iziane Castro Marques | 534 |
-| 96 | **Sabrina Ionescu** 🔴 | 533 |
+| 94 | **Sabrina Ionescu** 🔴 +1 | 534 |
 | 97 | Mwadi Mabika | 532 |
 | 98 | Nakia Sanford | 531 |
 | 99 | Arike Ogunbowale | 529 |
