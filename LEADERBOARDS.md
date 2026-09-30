@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-30 02:14 UTC_
+_Last updated: 2026-09-30 02:15 UTC_
 
 ## Contents
 
@@ -67,8 +67,8 @@ _Last updated: 2026-09-30 02:14 UTC_
 | 46 | Crystal Langhorne | 4,433 |
 | 46 | Jia Perkins | 4,433 |
 | 48 | **Jonquel Jones** 🔴 +16 | 4,369 |
-| 49 | Courtney Vandersloot | 4,362 |
-| 49 | **Courtney Williams** 🔴 +12 | 4,362 |
+| 49 | **Courtney Williams** 🔴 +14 | 4,364 |
+| 50 | Courtney Vandersloot | 4,362 |
 | 51 | Dearica Hamby | 4,330 |
 | 52 | Sophia Young-Malcolm | 4,300 |
 | 53 | Plenette Pierson | 4,258 |
@@ -258,7 +258,7 @@ _Last updated: 2026-09-30 02:14 UTC_
 | 32 | Tammy Sutton-Brown | 2,010 |
 | 33 | Elizabeth Williams | 1,978 |
 | 34 | Cheryl Ford | 1,907 |
-| 35 | **Courtney Williams** 🔴 +6 | 1,849 |
+| 35 | **Courtney Williams** 🔴 +7 | 1,850 |
 | 36 | Kiah Stokes | 1,835 |
 | 37 | Plenette Pierson | 1,834 |
 | 38 | Natalie Williams | 1,832 |
@@ -651,8 +651,8 @@ _Last updated: 2026-09-30 02:14 UTC_
 | 15 | **Jonquel Jones** 🔴 +1 | 426 |
 | 16 | Michelle Snow | 403 |
 | 17 | Tamika Catchings | 383 |
+| 18 | **Natasha Howard** 🔴 +2 | 372 |
 | 18 | Tina Thompson | 372 |
-| 19 | **Natasha Howard** 🔴 +1 | 371 |
 | 20 | Erika de Souza | 370 |
 | 21 | Jessica Breland | 367 |
 | 22 | DeWanna Bonner | 358 |
@@ -1165,8 +1165,8 @@ _Last updated: 2026-09-30 02:14 UTC_
 | 116 | Victoria Vivians | 192 |
 | 117 | Danielle Adams | 188 |
 | 117 | **Napheesa Collier** 🔴 | 188 |
+| 119 | **Marine Johannès** 🔴 +1 | 184 |
 | 119 | Noelle Quinn | 184 |
-| 120 | **Marine Johannès** 🔴 | 183 |
 | 121 | Karima Christmas-Kelly | 181 |
 | 122 | Aerial Powers | 179 |
 | 122 | Camille Smith | 179 |
