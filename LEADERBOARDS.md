@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-30 00:52 UTC_
+_Last updated: 2026-09-30 00:53 UTC_
 
 ## Contents
 
@@ -31,7 +31,7 @@ _Last updated: 2026-09-30 00:52 UTC_
 | 10 | Candace Parker | 6,574 |
 | 11 | Katie Smith | 6,450 |
 | 12 | Sylvia Fowles | 6,413 |
-| 13 | **Breanna Stewart** 🔴 +2 | 6,337 |
+| 13 | **Breanna Stewart** 🔴 +4 | 6,339 |
 | 14 | Lisa Leslie | 6,251 |
 | 15 | A'ja Wilson | 6,200 |
 | 16 | Jewell Loyd | 6,156 |
@@ -444,7 +444,7 @@ _Last updated: 2026-09-30 00:52 UTC_
 | 12 | Cappie Pondexter | 1,575 |
 | 13 | Tamika Catchings | 1,484 |
 | 14 | Danielle Robinson | 1,480 |
-| 15 | **Courtney Williams** 🔴 | 1,438 |
+| 15 | **Courtney Williams** 🔴 +1 | 1,439 |
 | 16 | Shannon Johnson | 1,423 |
 | 16 | Tanisha Wright | 1,423 |
 | 18 | Temeka Johnson | 1,382 |
@@ -465,7 +465,7 @@ _Last updated: 2026-09-30 00:52 UTC_
 | 33 | Jackie Young | 1,155 |
 | 34 | Renee Montgomery | 1,140 |
 | 35 | Swin Cash | 1,131 |
-| 36 | **Sabrina Ionescu** 🔴 +2 | 1,094 |
+| 36 | **Sabrina Ionescu** 🔴 +3 | 1,095 |
 | 37 | Lindsey Harding | 1,090 |
 | 38 | Katie Douglas | 1,069 |
 | 39 | Alana Beard | 1,061 |
