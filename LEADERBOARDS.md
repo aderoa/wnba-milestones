@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-30 01:28 UTC_
+_Last updated: 2026-09-30 01:29 UTC_
 
 ## Contents
 
@@ -66,7 +66,7 @@ _Last updated: 2026-09-30 01:28 UTC_
 | 45 | Kahleah Copper | 4,437 |
 | 46 | Crystal Langhorne | 4,433 |
 | 46 | Jia Perkins | 4,433 |
-| 48 | **Jonquel Jones** 🔴 +12 | 4,365 |
+| 48 | **Jonquel Jones** 🔴 +14 | 4,367 |
 | 49 | Courtney Vandersloot | 4,362 |
 | 50 | **Courtney Williams** 🔴 +10 | 4,360 |
 | 51 | Dearica Hamby | 4,330 |
@@ -236,7 +236,7 @@ _Last updated: 2026-09-30 01:28 UTC_
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | Alyssa Thomas | 2,858 |
-| 13 | **Jonquel Jones** 🔴 +4 | 2,732 |
+| 13 | **Jonquel Jones** 🔴 +5 | 2,733 |
 | 14 | A'ja Wilson | 2,666 |
 | 15 | **Breanna Stewart** 🔴 +4 | 2,636 |
 | 16 | Sancho Lyttle | 2,596 |
@@ -258,7 +258,7 @@ _Last updated: 2026-09-30 01:28 UTC_
 | 32 | Tammy Sutton-Brown | 2,010 |
 | 33 | Elizabeth Williams | 1,978 |
 | 34 | Cheryl Ford | 1,907 |
-| 35 | **Courtney Williams** 🔴 +2 | 1,845 |
+| 35 | **Courtney Williams** 🔴 +3 | 1,846 |
 | 36 | Kiah Stokes | 1,835 |
 | 37 | Plenette Pierson | 1,834 |
 | 38 | Natalie Williams | 1,832 |
@@ -351,7 +351,7 @@ _Last updated: 2026-09-30 01:28 UTC_
 | 124 | Tamecka Dixon | 1,035 |
 | 126 | Kamila Vodichkova | 1,031 |
 | 127 | Jasmine Thomas | 1,027 |
-| 128 | **Sabrina Ionescu** 🔴 +2 | 1,022 |
+| 128 | **Sabrina Ionescu** 🔴 +3 | 1,023 |
 | 129 | Jessica Shepard | 1,016 |
 | 130 | Cathrine Kraayeveld | 1,013 |
 | 131 | Kelly Miller | 1,011 |
@@ -645,7 +645,7 @@ _Last updated: 2026-09-30 01:28 UTC_
 | 9 | Tangela Smith | 554 |
 | 10 | Ruth Riley | 505 |
 | 11 | Elizabeth Williams | 503 |
-| 12 | **Breanna Stewart** 🔴 +1 | 451 |
+| 12 | **Breanna Stewart** 🔴 +2 | 452 |
 | 13 | Taj McWilliams-Franklin | 443 |
 | 14 | Tina Charles | 428 |
 | 15 | **Jonquel Jones** 🔴 +1 | 426 |
