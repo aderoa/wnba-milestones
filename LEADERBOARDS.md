@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-30 02:20 UTC_
+_Last updated: 2026-09-30 02:21 UTC_
 
 ## Contents
 
@@ -66,7 +66,7 @@ _Last updated: 2026-09-30 02:20 UTC_
 | 45 | Kahleah Copper | 4,437 |
 | 46 | Crystal Langhorne | 4,433 |
 | 46 | Jia Perkins | 4,433 |
-| 48 | **Jonquel Jones** 🔴 +16 | 4,369 |
+| 48 | **Jonquel Jones** 🔴 +18 | 4,371 |
 | 49 | **Courtney Williams** 🔴 +16 | 4,366 |
 | 50 | Courtney Vandersloot | 4,362 |
 | 51 | Dearica Hamby | 4,330 |
@@ -464,7 +464,7 @@ _Last updated: 2026-09-30 02:20 UTC_
 | 33 | Jackie Young | 1,155 |
 | 34 | Renee Montgomery | 1,140 |
 | 35 | Swin Cash | 1,131 |
-| 36 | **Sabrina Ionescu** 🔴 +5 | 1,097 |
+| 36 | **Sabrina Ionescu** 🔴 +6 | 1,098 |
 | 37 | Lindsey Harding | 1,090 |
 | 38 | Katie Douglas | 1,069 |
 | 39 | Alana Beard | 1,061 |
@@ -1023,9 +1023,9 @@ _Last updated: 2026-09-30 02:20 UTC_
 | 179 | Isabelle Harrison | 190 |
 | 180 | Tamicha Jackson | 188 |
 | 181 | Michele Timms | 187 |
-| 182 | Charde Houston | 185 |
-| 182 | **Sabrina Ionescu** 🔴 +1 | 185 |
-| 182 | Tiffany Jackson | 185 |
+| 182 | **Sabrina Ionescu** 🔴 +2 | 186 |
+| 183 | Charde Houston | 185 |
+| 183 | Tiffany Jackson | 185 |
 | 185 | Erin Perperoglou | 184 |
 | 186 | **Rebecca Allen** 🔴 | 183 |
 | 187 | Erin Phillips | 182 |
@@ -1314,8 +1314,8 @@ _Last updated: 2026-09-30 02:20 UTC_
 | 60 | Vickie Johnson | 660 |
 | 61 | Yolanda Griffith | 653 |
 | 62 | Sheri Sam | 650 |
-| 63 | **Kayla McBride** 🔴 | 648 |
-| 63 | Kelsey Plum | 648 |
+| 63 | **Kayla McBride** 🔴 +1 | 649 |
+| 64 | Kelsey Plum | 648 |
 | 65 | Dawn Staley | 643 |
 | 66 | **Jonquel Jones** 🔴 +1 | 642 |
 | 67 | Ruth Riley | 637 |
@@ -1621,7 +1621,7 @@ _Last updated: 2026-09-30 02:20 UTC_
 | 162 | Adrienne Goodson | 512 |
 | 162 | Janeth Arcain | 512 |
 | 164 | Andrea Stinson | 511 |
-| 165 | **Napheesa Collier** 🔴 +4 | 508 |
+| 165 | **Napheesa Collier** 🔴 +5 | 509 |
 | 166 | Vicky Bullett | 507 |
 | 167 | Merlakia Jones | 506 |
 | 168 | Isabelle Harrison | 505 |
