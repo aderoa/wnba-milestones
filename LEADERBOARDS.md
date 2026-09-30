@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-09-30 01:23 UTC_
+_Last updated: 2026-09-30 01:24 UTC_
 
 ## Contents
 
@@ -68,7 +68,7 @@ _Last updated: 2026-09-30 01:23 UTC_
 | 46 | Jia Perkins | 4,433 |
 | 48 | **Jonquel Jones** 🔴 +10 | 4,363 |
 | 49 | Courtney Vandersloot | 4,362 |
-| 50 | **Courtney Williams** 🔴 +7 | 4,357 |
+| 50 | **Courtney Williams** 🔴 +9 | 4,359 |
 | 51 | Dearica Hamby | 4,330 |
 | 52 | Sophia Young-Malcolm | 4,300 |
 | 53 | Plenette Pierson | 4,258 |
@@ -541,7 +541,7 @@ _Last updated: 2026-09-30 01:23 UTC_
 | 109 | Veronica Burton | 579 |
 | 110 | Tan White | 578 |
 | 111 | Matee Ajavon | 577 |
-| 112 | **Napheesa Collier** 🔴 | 570 |
+| 112 | **Napheesa Collier** 🔴 +1 | 571 |
 | 113 | Nicole Powell | 567 |
 | 114 | Loree Moore | 562 |
 | 115 | Sophia Young-Malcolm | 554 |
