@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-10-01T02:06:00+00:00",
+    "text": "Alysha Clark passed Jia Perkins for #40 all-time in three-pointers (career 397) \u2014 up from #41 entering today \u2014 (Halftime \u2014 GS @ DAL)",
+    "kind": "rank_pass",
+    "player": "Alysha Clark",
+    "stat": "three-pointers",
+    "rank": 40,
+    "passed_players": [
+      "Jia Perkins"
+    ],
+    "new_total": 397
+  },
+  {
     "ts": "2026-09-30T00:41:00+00:00",
     "text": "Jewell Loyd passed Ebony Hoffman for #77 all-time in rebounds (career 1,377) \u2014 up from #78 entering today \u2014 (2:11 - 4th \u2014 LV @ IND)",
     "kind": "rank_pass",
@@ -2962,18 +2974,5 @@
       "Shavonte Zellous"
     ],
     "new_total": 908
-  },
-  {
-    "ts": "2026-07-11T01:00:00+00:00",
-    "text": "Odyssey Sims passed Svetlana Abrosimova and Tangela Smith for #96 all-time in three-pointers (career 236) \u2014 up from #98 entering today \u2014 (0.0 - 3rd \u2014 DAL @ TOR)",
-    "kind": "rank_pass",
-    "player": "Odyssey Sims",
-    "stat": "three-pointers",
-    "rank": 96,
-    "passed_players": [
-      "Svetlana Abrosimova",
-      "Tangela Smith"
-    ],
-    "new_total": 236
   }
 ]
