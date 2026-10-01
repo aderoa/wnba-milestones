@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-10-01 03:14 UTC
+
+- **Gabby Williams** passed **Roneeka Hodges** for **#171** all-time in points (career 1,926) — up from #178 entering today — _1:19 - 4th — GS @ DAL_
+
 ## 2026-10-01 02:06 UTC
 
 - **Alysha Clark** passed **Jia Perkins** for **#40** all-time in three-pointers (career 397) — up from #41 entering today — _Halftime — GS @ DAL_

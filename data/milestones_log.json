@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-10-01T03:14:00+00:00",
+    "text": "Gabby Williams passed Roneeka Hodges for #171 all-time in points (career 1,926) \u2014 up from #178 entering today \u2014 (1:19 - 4th \u2014 GS @ DAL)",
+    "kind": "rank_pass",
+    "player": "Gabby Williams",
+    "stat": "points",
+    "rank": 171,
+    "passed_players": [
+      "Roneeka Hodges"
+    ],
+    "new_total": 1926
+  },
+  {
     "ts": "2026-10-01T02:06:00+00:00",
     "text": "Alysha Clark passed Jia Perkins for #40 all-time in three-pointers (career 397) \u2014 up from #41 entering today \u2014 (Halftime \u2014 GS @ DAL)",
     "kind": "rank_pass",
@@ -2962,17 +2974,5 @@
       "Matee Ajavon"
     ],
     "new_total": 145
-  },
-  {
-    "ts": "2026-07-11T01:10:00+00:00",
-    "text": "Alysha Clark passed Shavonte Zellous for #42 all-time in fouls (career 908) \u2014 up from #43 entering today \u2014 (6:57 - 4th \u2014 DAL @ TOR)",
-    "kind": "rank_pass",
-    "player": "Alysha Clark",
-    "stat": "fouls",
-    "rank": 42,
-    "passed_players": [
-      "Shavonte Zellous"
-    ],
-    "new_total": 908
   }
 ]
