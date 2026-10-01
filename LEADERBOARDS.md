@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-10-01 02:36 UTC_
+_Last updated: 2026-10-01 02:37 UTC_
 
 ## Contents
 
@@ -478,8 +478,8 @@ _Last updated: 2026-10-01 02:36 UTC_
 | 46 | Breanna Stewart | 981 |
 | 47 | Tamecka Dixon | 960 |
 | 48 | **Tiffany Hayes** 🔴 | 957 |
-| 49 | **Arike Ogunbowale** 🔴 +2 | 946 |
-| 49 | Kara Lawson | 946 |
+| 49 | **Arike Ogunbowale** 🔴 +3 | 947 |
+| 50 | Kara Lawson | 946 |
 | 51 | Nneka Ogwumike | 933 |
 | 52 | Deanna Nolan | 930 |
 | 53 | Kelly Miller | 927 |
@@ -532,7 +532,7 @@ _Last updated: 2026-10-01 02:36 UTC_
 | 100 | Natasha Howard | 615 |
 | 101 | Debbie Black | 612 |
 | 102 | Cynthia Cooper | 602 |
-| 103 | **Gabby Williams** 🔴 +4 | 595 |
+| 103 | **Gabby Williams** 🔴 +5 | 596 |
 | 104 | Sancho Lyttle | 592 |
 | 105 | Caitlin Clark | 591 |
 | 106 | Betnijah Laney-Hamilton | 590 |
@@ -1350,9 +1350,9 @@ _Last updated: 2026-10-01 02:36 UTC_
 | 94 | Ivory Latta | 534 |
 | 94 | Iziane Castro Marques | 534 |
 | 96 | Sabrina Ionescu | 533 |
-| 97 | **Arike Ogunbowale** 🔴 +3 | 532 |
 | 97 | Mwadi Mabika | 532 |
-| 99 | Nakia Sanford | 531 |
+| 98 | **Arike Ogunbowale** 🔴 +2 | 531 |
+| 98 | Nakia Sanford | 531 |
 | 100 | Jordin Canada | 528 |
 | 101 | Maya Moore | 527 |
 | 102 | Kara Lawson | 526 |
