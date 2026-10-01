@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-10-01 02:37 UTC_
+_Last updated: 2026-10-01 02:38 UTC_
 
 ## Contents
 
@@ -385,8 +385,8 @@ _Last updated: 2026-10-01 02:37 UTC_
 | 159 | Krystal Thomas | 862 |
 | 159 | Naz Hillmon | 862 |
 | 161 | Leilani Mitchell | 845 |
-| 162 | **Gabby Williams** 🔴 +4 | 835 |
-| 162 | Shakira Austin | 835 |
+| 162 | **Gabby Williams** 🔴 +5 | 836 |
+| 163 | Shakira Austin | 835 |
 | 164 | Essence Carson | 833 |
 | 165 | Kristi Toliver | 829 |
 | 166 | Marie Ferdinand-Harris | 828 |
@@ -581,7 +581,7 @@ _Last updated: 2026-10-01 02:37 UTC_
 | 149 | DeMya Walker | 446 |
 | 150 | Essence Carson | 445 |
 | 151 | Julie Allemand | 444 |
-| 152 | **Jessica Shepard** 🔴 +5 | 441 |
+| 152 | **Jessica Shepard** 🔴 +6 | 442 |
 | 153 | Michelle Snow | 437 |
 | 154 | Lauren Jackson | 435 |
 | 155 | Adrienne Goodson | 433 |
@@ -1426,8 +1426,8 @@ _Last updated: 2026-10-01 02:37 UTC_
 | 170 | Satou Sabally | 345 |
 | 171 | Teaira McCowan | 340 |
 | 172 | Loree Moore | 339 |
-| 173 | Charlotte Smith | 337 |
-| 173 | **Gabby Williams** 🔴 +1 | 337 |
+| 173 | **Gabby Williams** 🔴 +2 | 338 |
+| 174 | Charlotte Smith | 337 |
 | 175 | Scholanda Dorrell | 335 |
 | 176 | Aerial Powers | 333 |
 | 176 | Diamond DeShields | 333 |
