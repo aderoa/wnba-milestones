@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-10-01 03:18 UTC_
+_Last updated: 2026-10-01 03:19 UTC_
 
 ## Contents
 
@@ -188,7 +188,7 @@ _Last updated: 2026-10-01 03:18 UTC_
 | 167 | Myisha Hines-Allen | 1,956 |
 | 168 | Kedra Holland-Corn | 1,938 |
 | 169 | Isabelle Harrison | 1,932 |
-| 170 | **Gabby Williams** 🔴 +29 | 1,928 |
+| 170 | **Gabby Williams** 🔴 +30 | 1,929 |
 | 171 | Cathrine Kraayeveld | 1,926 |
 | 172 | Roneeka Hodges | 1,925 |
 | 173 | Latasha Byears | 1,920 |
@@ -1580,7 +1580,7 @@ _Last updated: 2026-10-01 03:18 UTC_
 | 119 | Svetlana Abrosimova | 613 |
 | 120 | **Odyssey Sims** 🔴 +2 | 612 |
 | 121 | Layshia Clarendon | 609 |
-| 122 | **Arike Ogunbowale** 🔴 +3 | 607 |
+| 122 | **Arike Ogunbowale** 🔴 +4 | 608 |
 | 123 | Tiffany Mitchell | 604 |
 | 124 | Janel McCarville | 597 |
 | 125 | Kamila Vodichkova | 596 |
