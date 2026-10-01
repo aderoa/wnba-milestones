@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-10-01 02:29 UTC_
+_Last updated: 2026-10-01 02:30 UTC_
 
 ## Contents
 
@@ -122,7 +122,7 @@ _Last updated: 2026-10-01 02:29 UTC_
 | 101 | Natalie Williams | 2,894 |
 | 102 | Jennifer Gillom | 2,888 |
 | 103 | Iziane Castro Marques | 2,862 |
-| 104 | **Alysha Clark** 🔴 +9 | 2,817 |
+| 104 | **Alysha Clark** 🔴 +11 | 2,819 |
 | 105 | Jantel Lavender | 2,775 |
 | 106 | Brionna Jones | 2,765 |
 | 107 | Dominique Canty | 2,763 |
@@ -190,9 +190,9 @@ _Last updated: 2026-10-01 02:29 UTC_
 | 169 | Isabelle Harrison | 1,932 |
 | 170 | Cathrine Kraayeveld | 1,926 |
 | 171 | Roneeka Hodges | 1,925 |
-| 172 | Latasha Byears | 1,920 |
-| 173 | **Gabby Williams** 🔴 +20 | 1,919 |
-| 173 | Karima Christmas-Kelly | 1,919 |
+| 172 | **Gabby Williams** 🔴 +23 | 1,922 |
+| 173 | Latasha Byears | 1,920 |
+| 174 | Karima Christmas-Kelly | 1,919 |
 | 175 | Jessica Breland | 1,918 |
 | 176 | Nakia Sanford | 1,915 |
 | 177 | Ebony Hoffman | 1,909 |
@@ -386,8 +386,8 @@ _Last updated: 2026-10-01 02:29 UTC_
 | 159 | Naz Hillmon | 862 |
 | 161 | Leilani Mitchell | 845 |
 | 162 | Shakira Austin | 835 |
-| 163 | Essence Carson | 833 |
-| 163 | **Gabby Williams** 🔴 +2 | 833 |
+| 163 | **Gabby Williams** 🔴 +3 | 834 |
+| 164 | Essence Carson | 833 |
 | 165 | Kristi Toliver | 829 |
 | 166 | Marie Ferdinand-Harris | 828 |
 | 167 | Marlies Askamp | 822 |
@@ -532,13 +532,13 @@ _Last updated: 2026-10-01 02:29 UTC_
 | 100 | Natasha Howard | 615 |
 | 101 | Debbie Black | 612 |
 | 102 | Cynthia Cooper | 602 |
-| 103 | **Gabby Williams** 🔴 +3 | 594 |
+| 103 | **Gabby Williams** 🔴 +4 | 595 |
 | 104 | Sancho Lyttle | 592 |
 | 105 | Caitlin Clark | 591 |
 | 106 | Betnijah Laney-Hamilton | 590 |
 | 106 | Camille Smith | 590 |
 | 108 | Armintie Herrington | 589 |
-| 109 | **Veronica Burton** 🔴 +3 | 582 |
+| 109 | **Veronica Burton** 🔴 +4 | 583 |
 | 110 | Tan White | 578 |
 | 111 | Matee Ajavon | 577 |
 | 112 | Napheesa Collier | 570 |
@@ -1189,8 +1189,8 @@ _Last updated: 2026-10-01 02:29 UTC_
 | 139 | Aari McDonald | 158 |
 | 139 | Jennifer Azzi | 158 |
 | 139 | Natasha Howard | 158 |
-| 142 | Alanna Smith | 156 |
-| 142 | **Gabby Williams** 🔴 +3 | 156 |
+| 142 | **Gabby Williams** 🔴 +4 | 157 |
+| 143 | Alanna Smith | 156 |
 | 144 | Bridget Pettis | 153 |
 | 144 | Jennifer Gillom | 153 |
 | 144 | Katie Lou Samuelson | 153 |
@@ -1237,9 +1237,9 @@ _Last updated: 2026-10-01 02:29 UTC_
 | 187 | Gordana Grubin | 114 |
 | 187 | Rickea Jackson | 114 |
 | 187 | Sandy Brondello | 114 |
-| 190 | **Cecilia Zandalasini** 🔴 | 111 |
-| 190 | **Janelle Salaun** 🔴 | 111 |
-| 190 | Shoni Schimmel | 111 |
+| 190 | **Cecilia Zandalasini** 🔴 +1 | 112 |
+| 191 | **Janelle Salaun** 🔴 | 111 |
+| 191 | Shoni Schimmel | 111 |
 | 193 | Emma Meesseman | 109 |
 | 193 | Scholanda Dorrell | 109 |
 | 195 | Belinda Snell | 108 |
