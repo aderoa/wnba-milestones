@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-10-01 03:48 UTC_
+_Last updated: 2026-10-01 03:49 UTC_
 
 ## Contents
 
@@ -122,7 +122,7 @@ _Last updated: 2026-10-01 03:48 UTC_
 | 101 | Natalie Williams | 2,894 |
 | 102 | Jennifer Gillom | 2,888 |
 | 103 | Iziane Castro Marques | 2,862 |
-| 104 | **Alysha Clark** 🔴 +19 | 2,827 |
+| 104 | **Alysha Clark** 🔴 +21 | 2,829 |
 | 105 | Jantel Lavender | 2,775 |
 | 106 | Brionna Jones | 2,765 |
 | 107 | Dominique Canty | 2,763 |
@@ -401,7 +401,7 @@ _Last updated: 2026-10-01 03:48 UTC_
 | 175 | Rhonda Mapp | 788 |
 | 176 | Mercedes Russell | 786 |
 | 176 | **Odyssey Sims** 🔴 +1 | 786 |
-| 178 | **Arike Ogunbowale** 🔴 +6 | 781 |
+| 178 | **Arike Ogunbowale** 🔴 +7 | 782 |
 | 179 | Sue Wicks | 780 |
 | 180 | Lindsey Harding | 779 |
 | 181 | Tiffani Johnson | 778 |
