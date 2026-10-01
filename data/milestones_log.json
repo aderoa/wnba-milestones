@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-10-01T03:16:00+00:00",
+    "text": "Gabby Williams passed Cathrine Kraayeveld for #170 all-time in points (career 1,928) \u2014 up from #178 entering today \u2014 (1:00 - 4th \u2014 GS @ DAL)",
+    "kind": "rank_pass",
+    "player": "Gabby Williams",
+    "stat": "points",
+    "rank": 170,
+    "passed_players": [
+      "Cathrine Kraayeveld"
+    ],
+    "new_total": 1928
+  },
+  {
     "ts": "2026-10-01T03:14:00+00:00",
     "text": "Gabby Williams passed Roneeka Hodges for #171 all-time in points (career 1,926) \u2014 up from #178 entering today \u2014 (1:19 - 4th \u2014 GS @ DAL)",
     "kind": "rank_pass",
@@ -2961,18 +2973,5 @@
       "Moriah Jefferson"
     ],
     "new_total": 686
-  },
-  {
-    "ts": "2026-07-11T02:35:00+00:00",
-    "text": "Dearica Hamby passed Helen Darling and Matee Ajavon for #154 all-time in three-pointers (career 145) \u2014 (7:10 - 2nd \u2014 CHI @ LA)",
-    "kind": "rank_pass",
-    "player": "Dearica Hamby",
-    "stat": "three-pointers",
-    "rank": 154,
-    "passed_players": [
-      "Helen Darling",
-      "Matee Ajavon"
-    ],
-    "new_total": 145
   }
 ]

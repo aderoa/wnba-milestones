@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-10-01 03:15 UTC_
+_Last updated: 2026-10-01 03:16 UTC_
 
 ## Contents
 
@@ -188,8 +188,8 @@ _Last updated: 2026-10-01 03:15 UTC_
 | 167 | Myisha Hines-Allen | 1,956 |
 | 168 | Kedra Holland-Corn | 1,938 |
 | 169 | Isabelle Harrison | 1,932 |
-| 170 | Cathrine Kraayeveld | 1,926 |
-| 170 | **Gabby Williams** 🔴 +27 | 1,926 |
+| 170 | **Gabby Williams** 🔴 +29 | 1,928 |
+| 171 | Cathrine Kraayeveld | 1,926 |
 | 172 | Roneeka Hodges | 1,925 |
 | 173 | Latasha Byears | 1,920 |
 | 174 | Karima Christmas-Kelly | 1,919 |
@@ -1349,9 +1349,9 @@ _Last updated: 2026-10-01 03:15 UTC_
 | 93 | Layshia Clarendon | 536 |
 | 94 | Ivory Latta | 534 |
 | 94 | Iziane Castro Marques | 534 |
+| 96 | **Arike Ogunbowale** 🔴 +4 | 533 |
 | 96 | Sabrina Ionescu | 533 |
-| 97 | **Arike Ogunbowale** 🔴 +3 | 532 |
-| 97 | Mwadi Mabika | 532 |
+| 98 | Mwadi Mabika | 532 |
 | 99 | Nakia Sanford | 531 |
 | 100 | Jordin Canada | 528 |
 | 101 | Maya Moore | 527 |
@@ -1500,7 +1500,7 @@ _Last updated: 2026-10-01 03:15 UTC_
 | 39 | Briann January | 921 |
 | 40 | Jonquel Jones | 913 |
 | 40 | Ticha Penicheiro | 913 |
-| 42 | **Alysha Clark** 🔴 +3 | 908 |
+| 42 | **Alysha Clark** 🔴 +4 | 909 |
 | 43 | Shavonte Zellous | 907 |
 | 44 | DeMya Walker | 882 |
 | 45 | Candice Dupree | 876 |
