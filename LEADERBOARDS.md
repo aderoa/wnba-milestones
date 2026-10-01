@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-10-01 02:23 UTC_
+_Last updated: 2026-10-01 02:24 UTC_
 
 ## Contents
 
@@ -148,7 +148,7 @@ _Last updated: 2026-10-01 02:23 UTC_
 | 127 | Ruth Riley | 2,434 |
 | 128 | Svetlana Abrosimova | 2,414 |
 | 129 | Anna DeForge | 2,413 |
-| 130 | **Kayla Thornton** 🔴 +6 | 2,399 |
+| 130 | **Kayla Thornton** 🔴 +9 | 2,402 |
 | 131 | DeMya Walker | 2,379 |
 | 132 | Jordin Canada | 2,361 |
 | 133 | Alex Bentley | 2,350 |
@@ -403,8 +403,8 @@ _Last updated: 2026-10-01 02:23 UTC_
 | 177 | **Odyssey Sims** 🔴 | 785 |
 | 178 | Sue Wicks | 780 |
 | 179 | Lindsey Harding | 779 |
+| 180 | **Arike Ogunbowale** 🔴 +3 | 778 |
 | 180 | Tiffani Johnson | 778 |
-| 181 | **Arike Ogunbowale** 🔴 +2 | 777 |
 | 182 | Teresa Weatherspoon | 775 |
 | 183 | Anna DeForge | 769 |
 | 183 | Kelsey Bone | 769 |
@@ -532,7 +532,7 @@ _Last updated: 2026-10-01 02:23 UTC_
 | 100 | Natasha Howard | 615 |
 | 101 | Debbie Black | 612 |
 | 102 | Cynthia Cooper | 602 |
-| 103 | **Gabby Williams** 🔴 +2 | 593 |
+| 103 | **Gabby Williams** 🔴 +3 | 594 |
 | 104 | Sancho Lyttle | 592 |
 | 105 | Caitlin Clark | 591 |
 | 106 | Betnijah Laney-Hamilton | 590 |
@@ -926,9 +926,9 @@ _Last updated: 2026-10-01 02:23 UTC_
 | 81 | Chasity Melvin | 330 |
 | 81 | Leilani Mitchell | 330 |
 | 83 | Courtney Williams | 329 |
+| 83 | **Gabby Williams** 🔴 +3 | 329 |
 | 83 | Kristi Toliver | 329 |
-| 85 | Matee Ajavon | 328 |
-| 86 | **Gabby Williams** 🔴 +1 | 327 |
+| 86 | Matee Ajavon | 328 |
 | 87 | Napheesa Collier | 325 |
 | 88 | Betty Lennox | 323 |
 | 89 | Tammy Sutton-Brown | 319 |
@@ -1121,7 +1121,7 @@ _Last updated: 2026-10-01 02:23 UTC_
 | 71 | Bridget Carleton | 306 |
 | 72 | Kelly Miller | 305 |
 | 73 | Nikki Teasley | 304 |
-| 74 | **Kayla Thornton** 🔴 +2 | 302 |
+| 74 | **Kayla Thornton** 🔴 +3 | 303 |
 | 75 | Vickie Johnson | 295 |
 | 76 | Seimone Augustus | 293 |
 | 77 | Candice Wiggins | 290 |
