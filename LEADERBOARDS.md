@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-10-01 01:48 UTC_
+_Last updated: 2026-10-01 01:49 UTC_
 
 ## Contents
 
@@ -193,8 +193,8 @@ _Last updated: 2026-10-01 01:48 UTC_
 | 172 | Latasha Byears | 1,920 |
 | 173 | Karima Christmas-Kelly | 1,919 |
 | 174 | Jessica Breland | 1,918 |
+| 175 | **Gabby Williams** 🔴 +16 | 1,915 |
 | 175 | Nakia Sanford | 1,915 |
-| 176 | **Gabby Williams** 🔴 +13 | 1,912 |
 | 177 | Ebony Hoffman | 1,909 |
 | 178 | Candice Wiggins | 1,901 |
 | 179 | NaLyssa Smith | 1,879 |
@@ -1190,7 +1190,7 @@ _Last updated: 2026-10-01 01:48 UTC_
 | 139 | Jennifer Azzi | 158 |
 | 139 | Natasha Howard | 158 |
 | 142 | Alanna Smith | 156 |
-| 143 | **Gabby Williams** 🔴 +2 | 155 |
+| 142 | **Gabby Williams** 🔴 +3 | 156 |
 | 144 | Bridget Pettis | 153 |
 | 144 | Jennifer Gillom | 153 |
 | 144 | Katie Lou Samuelson | 153 |
