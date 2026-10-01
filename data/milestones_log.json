@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-10-01T03:55:00+00:00",
+    "text": "Arike Ogunbowale passed Layshia Clarendon for #121 all-time in fouls (career 610) \u2014 up from #122 entering today \u2014 (12.1 - OT \u2014 GS @ DAL)",
+    "kind": "rank_pass",
+    "player": "Arike Ogunbowale",
+    "stat": "fouls",
+    "rank": 121,
+    "passed_players": [
+      "Layshia Clarendon"
+    ],
+    "new_total": 610
+  },
+  {
     "ts": "2026-10-01T03:46:00+00:00",
     "text": "Arike Ogunbowale passed Alyssa Thomas for #34 all-time in points (career 4,754) \u2014 up from #36 entering today \u2014 (2:26 - OT \u2014 GS @ DAL)",
     "kind": "rank_pass",
@@ -2961,17 +2973,5 @@
       "Rebecca Allen"
     ],
     "new_total": 256
-  },
-  {
-    "ts": "2026-07-11T03:34:00+00:00",
-    "text": "Dearica Hamby passed Sylvia Crawley for #123 all-time in blocks (career 107) \u2014 (9:00 - 4th \u2014 CHI @ LA)",
-    "kind": "rank_pass",
-    "player": "Dearica Hamby",
-    "stat": "blocks",
-    "rank": 123,
-    "passed_players": [
-      "Sylvia Crawley"
-    ],
-    "new_total": 107
   }
 ]

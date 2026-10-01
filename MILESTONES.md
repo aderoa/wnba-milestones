@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-10-01 03:55 UTC
+
+- **Arike Ogunbowale** passed **Layshia Clarendon** for **#121** all-time in fouls (career 610) — up from #122 entering today — _12.1 - OT — GS @ DAL_
+
 ## 2026-10-01 03:46 UTC
 
 - **Arike Ogunbowale** passed **Alyssa Thomas** for **#34** all-time in points (career 4,754) — up from #36 entering today — _2:26 - OT — GS @ DAL_

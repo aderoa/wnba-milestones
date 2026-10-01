@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-10-01 03:54 UTC_
+_Last updated: 2026-10-01 03:55 UTC_
 
 ## Contents
 
@@ -1579,8 +1579,8 @@ _Last updated: 2026-10-01 03:54 UTC_
 | 118 | Brooke Wyckoff | 614 |
 | 119 | Svetlana Abrosimova | 613 |
 | 120 | **Odyssey Sims** 🔴 +2 | 612 |
-| 121 | **Arike Ogunbowale** 🔴 +5 | 609 |
-| 121 | Layshia Clarendon | 609 |
+| 121 | **Arike Ogunbowale** 🔴 +6 | 610 |
+| 122 | Layshia Clarendon | 609 |
 | 123 | Tiffany Mitchell | 604 |
 | 124 | Janel McCarville | 597 |
 | 125 | Kamila Vodichkova | 596 |
