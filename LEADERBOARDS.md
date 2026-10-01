@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-10-01 03:02 UTC_
+_Last updated: 2026-10-01 03:03 UTC_
 
 ## Contents
 
@@ -457,7 +457,7 @@ _Last updated: 2026-10-01 03:02 UTC_
 | 25 | Jordin Canada | 1,273 |
 | 26 | Kelsey Plum | 1,270 |
 | 27 | Katie Smith | 1,258 |
-| 28 | **Odyssey Sims** 🔴 +1 | 1,229 |
+| 28 | **Odyssey Sims** 🔴 +2 | 1,230 |
 | 29 | Vickie Johnson | 1,202 |
 | 30 | Leilani Mitchell | 1,197 |
 | 31 | DeWanna Bonner | 1,196 |
@@ -795,12 +795,12 @@ _Last updated: 2026-10-01 03:02 UTC_
 | 158 | Tamera Young | 83 |
 | 159 | Cameron Brink | 82 |
 | 159 | Damiris Dantas | 82 |
+| 161 | **Awak Kuier** 🔴 +1 | 81 |
 | 161 | Charlotte Smith | 81 |
 | 161 | Cintia dos Santos | 81 |
 | 161 | Jessie Hicks | 81 |
-| 164 | **Awak Kuier** 🔴 | 80 |
-| 164 | Nykesha Sales | 80 |
-| 164 | Rushia Brown | 80 |
+| 165 | Nykesha Sales | 80 |
+| 165 | Rushia Brown | 80 |
 | 167 | Stephanie Talbot | 79 |
 | 168 | Astou Ndour-Fall | 78 |
 | 168 | Katie Smith | 78 |
