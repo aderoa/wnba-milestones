@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-10-01 01:49 UTC_
+_Last updated: 2026-10-01 01:50 UTC_
 
 ## Contents
 
@@ -54,7 +54,7 @@ _Last updated: 2026-10-01 01:49 UTC_
 | 33 | Sheryl Swoopes | 4,875 |
 | 34 | Alyssa Thomas | 4,752 |
 | 35 | Alana Beard | 4,740 |
-| 36 | **Arike Ogunbowale** 🔴 +10 | 4,725 |
+| 36 | **Arike Ogunbowale** 🔴 +12 | 4,727 |
 | 37 | Chamique Holdsclaw | 4,713 |
 | 38 | Elena Delle Donne | 4,706 |
 | 39 | Natasha Howard | 4,682 |
@@ -148,7 +148,7 @@ _Last updated: 2026-10-01 01:49 UTC_
 | 127 | Ruth Riley | 2,434 |
 | 128 | Svetlana Abrosimova | 2,414 |
 | 129 | Anna DeForge | 2,413 |
-| 130 | **Kayla Thornton** 🔴 +3 | 2,396 |
+| 130 | **Kayla Thornton** 🔴 +6 | 2,399 |
 | 131 | DeMya Walker | 2,379 |
 | 132 | Jordin Canada | 2,361 |
 | 133 | Alex Bentley | 2,350 |
@@ -908,10 +908,10 @@ _Last updated: 2026-10-01 01:49 UTC_
 | 62 | Erica Wheeler | 361 |
 | 64 | Lauren Jackson | 360 |
 | 64 | Tan White | 360 |
+| 66 | **Arike Ogunbowale** 🔴 +3 | 357 |
 | 66 | Vickie Johnson | 357 |
-| 67 | **Arike Ogunbowale** 🔴 +2 | 356 |
-| 67 | Dominique Canty | 356 |
-| 67 | Renee Montgomery | 356 |
+| 68 | Dominique Canty | 356 |
+| 68 | Renee Montgomery | 356 |
 | 70 | Natasha Cloud | 355 |
 | 70 | Tamecka Dixon | 355 |
 | 72 | Vicky Bullett | 353 |
@@ -1121,7 +1121,7 @@ _Last updated: 2026-10-01 01:49 UTC_
 | 71 | Bridget Carleton | 306 |
 | 72 | Kelly Miller | 305 |
 | 73 | Nikki Teasley | 304 |
-| 74 | **Kayla Thornton** 🔴 +1 | 301 |
+| 74 | **Kayla Thornton** 🔴 +2 | 302 |
 | 75 | Vickie Johnson | 295 |
 | 76 | Seimone Augustus | 293 |
 | 77 | Candice Wiggins | 290 |
@@ -1427,7 +1427,7 @@ _Last updated: 2026-10-01 01:49 UTC_
 | 171 | Teaira McCowan | 340 |
 | 172 | Loree Moore | 339 |
 | 173 | Charlotte Smith | 337 |
-| 174 | **Gabby Williams** 🔴 | 336 |
+| 173 | **Gabby Williams** 🔴 +1 | 337 |
 | 175 | Scholanda Dorrell | 335 |
 | 176 | Aerial Powers | 333 |
 | 176 | Diamond DeShields | 333 |
