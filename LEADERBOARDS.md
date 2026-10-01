@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-10-01 03:38 UTC_
+_Last updated: 2026-10-01 03:39 UTC_
 
 ## Contents
 
@@ -187,8 +187,8 @@ _Last updated: 2026-10-01 03:38 UTC_
 | 166 | Nicole Ohlde | 1,959 |
 | 167 | Myisha Hines-Allen | 1,956 |
 | 168 | Kedra Holland-Corn | 1,938 |
-| 169 | **Gabby Williams** 🔴 +33 | 1,932 |
-| 169 | Isabelle Harrison | 1,932 |
+| 169 | **Gabby Williams** 🔴 +36 | 1,935 |
+| 170 | Isabelle Harrison | 1,932 |
 | 171 | Cathrine Kraayeveld | 1,926 |
 | 172 | Roneeka Hodges | 1,925 |
 | 173 | Latasha Byears | 1,920 |
@@ -538,7 +538,7 @@ _Last updated: 2026-10-01 03:38 UTC_
 | 106 | Betnijah Laney-Hamilton | 590 |
 | 106 | Camille Smith | 590 |
 | 108 | Armintie Herrington | 589 |
-| 109 | **Veronica Burton** 🔴 +4 | 583 |
+| 109 | **Veronica Burton** 🔴 +5 | 584 |
 | 110 | Tan White | 578 |
 | 111 | Matee Ajavon | 577 |
 | 112 | Napheesa Collier | 570 |
@@ -1187,9 +1187,9 @@ _Last updated: 2026-10-01 03:38 UTC_
 | 136 | Jennifer Lacy | 160 |
 | 136 | Stephanie Talbot | 160 |
 | 139 | Aari McDonald | 158 |
+| 139 | **Gabby Williams** 🔴 +5 | 158 |
 | 139 | Jennifer Azzi | 158 |
 | 139 | Natasha Howard | 158 |
-| 142 | **Gabby Williams** 🔴 +4 | 157 |
 | 143 | Alanna Smith | 156 |
 | 144 | Bridget Pettis | 153 |
 | 144 | Jennifer Gillom | 153 |

@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-10-01T03:39:00+00:00",
+    "text": "Gabby Williams passed Isabelle Harrison for #169 all-time in points (career 1,935) \u2014 up from #178 entering today \u2014 (2:26 - OT \u2014 GS @ DAL)",
+    "kind": "rank_pass",
+    "player": "Gabby Williams",
+    "stat": "points",
+    "rank": 169,
+    "passed_players": [
+      "Isabelle Harrison"
+    ],
+    "new_total": 1935
+  },
+  {
     "ts": "2026-10-01T03:16:00+00:00",
     "text": "Gabby Williams passed Cathrine Kraayeveld for #170 all-time in points (career 1,928) \u2014 up from #178 entering today \u2014 (1:00 - 4th \u2014 GS @ DAL)",
     "kind": "rank_pass",
@@ -2961,17 +2973,5 @@
       "Myisha Hines-Allen"
     ],
     "new_total": 391
-  },
-  {
-    "ts": "2026-07-11T03:23:00+00:00",
-    "text": "Ariel Atkins passed Moriah Jefferson for #83 all-time in assists (career 686) \u2014 up from #84 entering today \u2014 (3:33 - 3rd \u2014 CHI @ LA)",
-    "kind": "rank_pass",
-    "player": "Ariel Atkins",
-    "stat": "assists",
-    "rank": 83,
-    "passed_players": [
-      "Moriah Jefferson"
-    ],
-    "new_total": 686
   }
 ]
