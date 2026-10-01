@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-10-01 00:28 UTC_
+_Last updated: 2026-10-01 00:29 UTC_
 
 ## Contents
 
@@ -60,7 +60,7 @@ _Last updated: 2026-10-01 00:28 UTC_
 | 39 | Natasha Howard | 4,682 |
 | 40 | Chelsea Gray | 4,625 |
 | 41 | Penny Taylor | 4,595 |
-| 42 | **Allisha Gray** 🔴 +18 | 4,509 |
+| 42 | **Allisha Gray** 🔴 +20 | 4,511 |
 | 43 | Kelsey Plum | 4,494 |
 | 44 | Kristi Toliver | 4,474 |
 | 45 | Kahleah Copper | 4,437 |
@@ -454,8 +454,8 @@ _Last updated: 2026-10-01 00:28 UTC_
 | 22 | Erica Wheeler | 1,335 |
 | 23 | Teresa Weatherspoon | 1,333 |
 | 24 | Kristi Toliver | 1,301 |
-| 25 | **Jordin Canada** 🔴 +8 | 1,270 |
-| 25 | Kelsey Plum | 1,270 |
+| 25 | **Jordin Canada** 🔴 +9 | 1,271 |
+| 26 | Kelsey Plum | 1,270 |
 | 27 | Katie Smith | 1,258 |
 | 28 | Odyssey Sims | 1,228 |
 | 29 | Vickie Johnson | 1,202 |
