@@ -183,8 +183,8 @@ _Last updated: 2026-10-02 02:44 UTC_
 | 162 | Natisha Hiedeman | 2,002 |
 | 163 | Ezi Magbegor | 1,995 |
 | 164 | Bria Hartley | 1,967 |
-| 165 | Chiney Ogwumike | 1,964 |
-| 165 | **Myisha Hines-Allen** 🔴 +8 | 1,964 |
+| 165 | **Myisha Hines-Allen** 🔴 +10 | 1,966 |
+| 166 | Chiney Ogwumike | 1,964 |
 | 167 | Nicole Ohlde | 1,959 |
 | 168 | Kedra Holland-Corn | 1,938 |
 | 169 | Isabelle Harrison | 1,932 |
@@ -288,7 +288,7 @@ _Last updated: 2026-10-02 02:44 UTC_
 | 62 | Napheesa Collier | 1,510 |
 | 63 | Ticha Penicheiro | 1,485 |
 | 64 | Alysha Clark | 1,469 |
-| 65 | **Cheyenne Parker-Tyus** 🔴 +4 | 1,467 |
+| 65 | **Cheyenne Parker-Tyus** 🔴 +5 | 1,468 |
 | 66 | Sue Bird | 1,466 |
 | 67 | Nicole Powell | 1,457 |
 | 68 | Tamera Young | 1,433 |
@@ -586,8 +586,8 @@ _Last updated: 2026-10-02 02:44 UTC_
 | 154 | Lauren Jackson | 435 |
 | 155 | Adrienne Goodson | 433 |
 | 155 | Crystal Langhorne | 433 |
-| 157 | **Aliyah Boston** 🔴 +2 | 430 |
-| 157 | Elena Baranova | 430 |
+| 157 | **Aliyah Boston** 🔴 +3 | 431 |
+| 158 | Elena Baranova | 430 |
 | 159 | Tierra Ruffin-Pratt | 424 |
 | 160 | Kedra Holland-Corn | 423 |
 | 161 | Crystal Dangerfield | 418 |
