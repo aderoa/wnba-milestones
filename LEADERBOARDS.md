@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-10-02 03:30 UTC_
+_Last updated: 2026-10-02 03:31 UTC_
 
 ## Contents
 
@@ -83,7 +83,7 @@ _Last updated: 2026-10-02 03:30 UTC_
 | 62 | Allie Quigley | 3,786 |
 | 63 | Chasity Melvin | 3,781 |
 | 64 | Brittney Sykes | 3,726 |
-| 65 | **Jackie Young** 🔴 +16 | 3,714 |
+| 65 | **Jackie Young** 🔴 +18 | 3,716 |
 | 66 | Kara Lawson | 3,670 |
 | 67 | Mwadi Mabika | 3,576 |
 | 68 | Odyssey Sims | 3,574 |
@@ -237,7 +237,7 @@ _Last updated: 2026-10-02 03:30 UTC_
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | Alyssa Thomas | 2,858 |
 | 13 | Jonquel Jones | 2,728 |
-| 14 | **A'ja Wilson** 🔴 +9 | 2,666 |
+| 14 | **A'ja Wilson** 🔴 +10 | 2,667 |
 | 15 | Breanna Stewart | 2,632 |
 | 16 | Sancho Lyttle | 2,596 |
 | 17 | Brittney Griner | 2,579 |
@@ -1609,7 +1609,7 @@ _Last updated: 2026-10-02 03:30 UTC_
 | 146 | Renee Montgomery | 543 |
 | 149 | Marissa Coleman | 541 |
 | 150 | **Myisha Hines-Allen** 🔴 +5 | 540 |
-| 151 | **Sophie Cunningham** 🔴 +1 | 539 |
+| 150 | **Sophie Cunningham** 🔴 +2 | 540 |
 | 152 | Damiris Dantas | 533 |
 | 152 | Kristen Rasmussen | 533 |
 | 154 | Amanda Zahui B | 530 |
