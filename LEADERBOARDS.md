@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-10-02 02:47 UTC_
+_Last updated: 2026-10-02 02:48 UTC_
 
 ## Contents
 
@@ -182,8 +182,8 @@ _Last updated: 2026-10-02 02:47 UTC_
 | 161 | Vicky Bullett | 2,018 |
 | 162 | Natisha Hiedeman | 2,002 |
 | 163 | Ezi Magbegor | 1,995 |
-| 164 | Bria Hartley | 1,967 |
-| 164 | **Myisha Hines-Allen** 🔴 +11 | 1,967 |
+| 164 | **Myisha Hines-Allen** 🔴 +12 | 1,968 |
+| 165 | Bria Hartley | 1,967 |
 | 166 | Chiney Ogwumike | 1,964 |
 | 167 | Nicole Ohlde | 1,959 |
 | 168 | Kedra Holland-Corn | 1,938 |
@@ -288,7 +288,7 @@ _Last updated: 2026-10-02 02:47 UTC_
 | 62 | Napheesa Collier | 1,510 |
 | 63 | Ticha Penicheiro | 1,485 |
 | 64 | Alysha Clark | 1,469 |
-| 65 | **Cheyenne Parker-Tyus** 🔴 +5 | 1,468 |
+| 64 | **Cheyenne Parker-Tyus** 🔴 +6 | 1,469 |
 | 66 | Sue Bird | 1,466 |
 | 67 | Nicole Powell | 1,457 |
 | 68 | Tamera Young | 1,433 |
@@ -313,7 +313,7 @@ _Last updated: 2026-10-02 02:47 UTC_
 | 87 | Azurá Stevens | 1,319 |
 | 88 | Betty Lennox | 1,296 |
 | 89 | Tari Phillips | 1,274 |
-| 90 | **Myisha Hines-Allen** 🔴 +7 | 1,272 |
+| 90 | **Myisha Hines-Allen** 🔴 +8 | 1,273 |
 | 91 | **Chelsea Gray** 🔴 +4 | 1,261 |
 | 91 | Janel McCarville | 1,261 |
 | 93 | Liz Cambage | 1,258 |

@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-10-02T02:48:00+00:00",
+    "text": "Myisha Hines-Allen passed Bria Hartley for #164 all-time in points (career 1,968) \u2014 up from #167 entering today \u2014 (51.2 - 3rd \u2014 IND @ LV)",
+    "kind": "rank_pass",
+    "player": "Myisha Hines-Allen",
+    "stat": "points",
+    "rank": 164,
+    "passed_players": [
+      "Bria Hartley"
+    ],
+    "new_total": 1968
+  },
+  {
     "ts": "2026-10-01T03:55:00+00:00",
     "text": "Arike Ogunbowale passed Layshia Clarendon for #121 all-time in fouls (career 610) \u2014 up from #122 entering today \u2014 (12.1 - OT \u2014 GS @ DAL)",
     "kind": "rank_pass",
@@ -2961,17 +2973,5 @@
       "Gabby Williams"
     ],
     "new_total": 592
-  },
-  {
-    "ts": "2026-07-11T03:55:00+00:00",
-    "text": "Nneka Ogwumike passed Rebecca Allen for #86 all-time in three-pointers (career 256) \u2014 up from #89 entering today \u2014 (2:19 - 4th \u2014 CHI @ LA)",
-    "kind": "rank_pass",
-    "player": "Nneka Ogwumike",
-    "stat": "three-pointers",
-    "rank": 86,
-    "passed_players": [
-      "Rebecca Allen"
-    ],
-    "new_total": 256
   }
 ]
