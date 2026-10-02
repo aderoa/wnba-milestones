@@ -58,7 +58,7 @@ _Last updated: 2026-10-02 03:21 UTC_
 | 37 | Chamique Holdsclaw | 4,713 |
 | 38 | Elena Delle Donne | 4,706 |
 | 39 | Natasha Howard | 4,682 |
-| 40 | **Chelsea Gray** 🔴 +17 | 4,642 |
+| 40 | **Chelsea Gray** 🔴 +19 | 4,644 |
 | 41 | Penny Taylor | 4,595 |
 | 42 | Kelsey Plum | 4,494 |
 | 43 | Allisha Gray | 4,491 |
