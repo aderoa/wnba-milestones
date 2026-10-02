@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-10-02 02:59 UTC_
+_Last updated: 2026-10-02 03:01 UTC_
 
 ## Contents
 
@@ -58,7 +58,7 @@ _Last updated: 2026-10-02 02:59 UTC_
 | 37 | Chamique Holdsclaw | 4,713 |
 | 38 | Elena Delle Donne | 4,706 |
 | 39 | Natasha Howard | 4,682 |
-| 40 | **Chelsea Gray** 🔴 +14 | 4,639 |
+| 40 | **Chelsea Gray** 🔴 +15 | 4,640 |
 | 41 | Penny Taylor | 4,595 |
 | 42 | Kelsey Plum | 4,494 |
 | 43 | Allisha Gray | 4,491 |
@@ -83,7 +83,7 @@ _Last updated: 2026-10-02 02:59 UTC_
 | 62 | Allie Quigley | 3,786 |
 | 63 | Chasity Melvin | 3,781 |
 | 64 | Brittney Sykes | 3,726 |
-| 65 | **Jackie Young** 🔴 +14 | 3,712 |
+| 65 | **Jackie Young** 🔴 +16 | 3,714 |
 | 66 | Kara Lawson | 3,670 |
 | 67 | Mwadi Mabika | 3,576 |
 | 68 | Odyssey Sims | 3,574 |
@@ -323,7 +323,7 @@ _Last updated: 2026-10-02 02:59 UTC_
 | 96 | Ezi Magbegor | 1,243 |
 | 98 | Seimone Augustus | 1,228 |
 | 99 | Jia Perkins | 1,220 |
-| 100 | **Aliyah Boston** 🔴 +8 | 1,206 |
+| 100 | **Aliyah Boston** 🔴 +9 | 1,207 |
 | 101 | Kahleah Copper | 1,204 |
 | 102 | DeMya Walker | 1,199 |
 | 103 | Latasha Byears | 1,190 |
@@ -343,7 +343,7 @@ _Last updated: 2026-10-02 02:59 UTC_
 | 117 | Becky Hammon | 1,108 |
 | 118 | Ann Wauters | 1,105 |
 | 119 | Isabelle Harrison | 1,097 |
-| 120 | **Jackie Young** 🔴 +6 | 1,091 |
+| 120 | **Jackie Young** 🔴 +7 | 1,092 |
 | 121 | Svetlana Abrosimova | 1,078 |
 | 122 | Le'coe Willingham | 1,054 |
 | 123 | Nicole Ohlde | 1,040 |
@@ -1609,7 +1609,7 @@ _Last updated: 2026-10-02 02:59 UTC_
 | 146 | Renee Montgomery | 543 |
 | 149 | Marissa Coleman | 541 |
 | 150 | **Myisha Hines-Allen** 🔴 +5 | 540 |
-| 151 | **Sophie Cunningham** 🔴 | 538 |
+| 151 | **Sophie Cunningham** 🔴 +1 | 539 |
 | 152 | Damiris Dantas | 533 |
 | 152 | Kristen Rasmussen | 533 |
 | 154 | Amanda Zahui B | 530 |
