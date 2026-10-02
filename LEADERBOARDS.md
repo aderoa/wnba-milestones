@@ -33,7 +33,7 @@ _Last updated: 2026-10-02 02:36 UTC_
 | 12 | Sylvia Fowles | 6,413 |
 | 13 | Breanna Stewart | 6,335 |
 | 14 | Lisa Leslie | 6,251 |
-| 15 | **A'ja Wilson** 🔴 +28 | 6,206 |
+| 15 | **A'ja Wilson** 🔴 +29 | 6,207 |
 | 16 | **Jewell Loyd** 🔴 +11 | 6,159 |
 | 17 | Brittney Griner | 6,087 |
 | 18 | Lauren Jackson | 6,005 |
@@ -45,7 +45,7 @@ _Last updated: 2026-10-02 02:36 UTC_
 | 24 | DeLisha Milton-Jones | 5,571 |
 | 25 | Katie Douglas | 5,545 |
 | 26 | Lindsay Whalen | 5,511 |
-| 27 | **Kelsey Mitchell** 🔴 +13 | 5,211 |
+| 27 | **Kelsey Mitchell** 🔴 +15 | 5,213 |
 | 28 | Swin Cash | 5,119 |
 | 29 | Tiffany Hayes | 5,049 |
 | 30 | Tangela Smith | 5,035 |
@@ -1658,4 +1658,4 @@ _Last updated: 2026-10-02 02:36 UTC_
 | 197 | Sue Wicks | 462 |
 | 198 | Natalie Achonwa | 459 |
 | 199 | Kara Lawson | 457 |
-| 200 | **Aliyah Boston** 🔴 +1 | 455 |
+| 200 | **Aliyah Boston** 🔴 +2 | 456 |
