@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-10-02 01:28 UTC_
+_Last updated: 2026-10-02 01:29 UTC_
 
 ## Contents
 
@@ -83,7 +83,7 @@ _Last updated: 2026-10-02 01:28 UTC_
 | 62 | Allie Quigley | 3,786 |
 | 63 | Chasity Melvin | 3,781 |
 | 64 | Brittney Sykes | 3,726 |
-| 65 | **Jackie Young** 🔴 +2 | 3,700 |
+| 65 | **Jackie Young** 🔴 +5 | 3,703 |
 | 66 | Kara Lawson | 3,670 |
 | 67 | Mwadi Mabika | 3,576 |
 | 68 | Odyssey Sims | 3,574 |
@@ -175,7 +175,7 @@ _Last updated: 2026-10-02 01:28 UTC_
 | 154 | Tari Phillips | 2,134 |
 | 155 | Cheryl Ford | 2,116 |
 | 156 | Elena Baranova | 2,110 |
-| 157 | **Aliyah Boston** 🔴 +6 | 2,093 |
+| 157 | **Aliyah Boston** 🔴 +8 | 2,095 |
 | 158 | Aerial Powers | 2,068 |
 | 159 | Coco Miller | 2,030 |
 | 160 | Diamond DeShields | 2,026 |
@@ -315,8 +315,8 @@ _Last updated: 2026-10-02 01:28 UTC_
 | 89 | Tari Phillips | 1,274 |
 | 90 | Myisha Hines-Allen | 1,265 |
 | 91 | Janel McCarville | 1,261 |
-| 92 | **Chelsea Gray** 🔴 +1 | 1,258 |
-| 92 | Liz Cambage | 1,258 |
+| 92 | **Chelsea Gray** 🔴 +2 | 1,259 |
+| 93 | Liz Cambage | 1,258 |
 | 94 | Tiffany Hayes | 1,257 |
 | 95 | Kayla McBride | 1,256 |
 | 96 | **Brianna Turner** 🔴 | 1,243 |
@@ -587,7 +587,7 @@ _Last updated: 2026-10-02 01:28 UTC_
 | 155 | Adrienne Goodson | 433 |
 | 155 | Crystal Langhorne | 433 |
 | 157 | Elena Baranova | 430 |
-| 158 | **Aliyah Boston** 🔴 | 428 |
+| 158 | **Aliyah Boston** 🔴 +1 | 429 |
 | 159 | Tierra Ruffin-Pratt | 424 |
 | 160 | Kedra Holland-Corn | 423 |
 | 161 | Crystal Dangerfield | 418 |
@@ -979,7 +979,7 @@ _Last updated: 2026-10-02 01:28 UTC_
 | 134 | Coco Miller | 237 |
 | 135 | Marissa Coleman | 236 |
 | 136 | Nikki McCray | 235 |
-| 137 | **Kelsey Mitchell** 🔴 | 233 |
+| 137 | **Kelsey Mitchell** 🔴 +1 | 234 |
 | 138 | Merlakia Jones | 232 |
 | 139 | Ruth Riley | 231 |
 | 140 | Scholanda Dorrell | 230 |
@@ -1101,7 +1101,7 @@ _Last updated: 2026-10-02 01:28 UTC_
 | 51 | Epiphanny Prince | 368 |
 | 51 | Kia Nurse | 368 |
 | 53 | Nykesha Sales | 352 |
-| 54 | **Jackie Young** 🔴 | 346 |
+| 54 | **Jackie Young** 🔴 +1 | 347 |
 | 55 | Natasha Cloud | 345 |
 | 56 | Cathrine Kraayeveld | 343 |
 | 56 | Elena Delle Donne | 343 |
@@ -1158,9 +1158,9 @@ _Last updated: 2026-10-02 01:28 UTC_
 | 108 | Betnijah Laney-Hamilton | 206 |
 | 109 | Lexie Brown | 203 |
 | 110 | Shanna Zolman | 199 |
-| 111 | **Caitlin Clark** 🔴 +2 | 197 |
-| 111 | Temeka Johnson | 197 |
-| 111 | Tina Charles | 197 |
+| 111 | **Caitlin Clark** 🔴 +3 | 198 |
+| 112 | Temeka Johnson | 197 |
+| 112 | Tina Charles | 197 |
 | 114 | Nia Coffey | 196 |
 | 115 | Lindsay Whalen | 193 |
 | 116 | Victoria Vivians | 192 |
@@ -1274,7 +1274,7 @@ _Last updated: 2026-10-02 01:28 UTC_
 | 18 | Cappie Pondexter | 945 |
 | 19 | Katie Smith | 935 |
 | 20 | Shannon Johnson | 934 |
-| 21 | **Chelsea Gray** 🔴 | 927 |
+| 21 | **Chelsea Gray** 🔴 +1 | 928 |
 | 22 | Skylar Diggins | 907 |
 | 23 | Taj McWilliams-Franklin | 898 |
 | 24 | Candice Dupree | 869 |
