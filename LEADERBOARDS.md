@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-10-02 02:46 UTC_
+_Last updated: 2026-10-02 02:47 UTC_
 
 ## Contents
 
@@ -183,7 +183,7 @@ _Last updated: 2026-10-02 02:46 UTC_
 | 162 | Natisha Hiedeman | 2,002 |
 | 163 | Ezi Magbegor | 1,995 |
 | 164 | Bria Hartley | 1,967 |
-| 165 | **Myisha Hines-Allen** 🔴 +10 | 1,966 |
+| 164 | **Myisha Hines-Allen** 🔴 +11 | 1,967 |
 | 166 | Chiney Ogwumike | 1,964 |
 | 167 | Nicole Ohlde | 1,959 |
 | 168 | Kedra Holland-Corn | 1,938 |
@@ -1565,7 +1565,7 @@ _Last updated: 2026-10-02 02:46 UTC_
 | 104 | Kiah Stokes | 651 |
 | 105 | Tari Phillips | 648 |
 | 106 | Marie Ferdinand-Harris | 646 |
-| 107 | **Chelsea Gray** 🔴 +1 | 641 |
+| 107 | **Chelsea Gray** 🔴 +2 | 642 |
 | 108 | Charlotte Smith | 638 |
 | 109 | Teaira McCowan | 637 |
 | 110 | Janell Burse | 632 |
