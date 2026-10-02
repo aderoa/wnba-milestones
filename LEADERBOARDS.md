@@ -184,8 +184,8 @@ _Last updated: 2026-10-02 01:51 UTC_
 | 163 | Ezi Magbegor | 1,995 |
 | 164 | Bria Hartley | 1,967 |
 | 165 | Chiney Ogwumike | 1,964 |
-| 166 | Nicole Ohlde | 1,959 |
-| 167 | **Myisha Hines-Allen** 🔴 +2 | 1,958 |
+| 166 | **Myisha Hines-Allen** 🔴 +4 | 1,960 |
+| 167 | Nicole Ohlde | 1,959 |
 | 168 | Kedra Holland-Corn | 1,938 |
 | 169 | Isabelle Harrison | 1,932 |
 | 170 | Cathrine Kraayeveld | 1,926 |
@@ -313,7 +313,7 @@ _Last updated: 2026-10-02 01:51 UTC_
 | 87 | Azurá Stevens | 1,319 |
 | 88 | Betty Lennox | 1,296 |
 | 89 | Tari Phillips | 1,274 |
-| 90 | **Myisha Hines-Allen** 🔴 +2 | 1,267 |
+| 90 | **Myisha Hines-Allen** 🔴 +3 | 1,268 |
 | 91 | Janel McCarville | 1,261 |
 | 92 | **Chelsea Gray** 🔴 +3 | 1,260 |
 | 93 | Liz Cambage | 1,258 |
@@ -532,7 +532,7 @@ _Last updated: 2026-10-02 01:51 UTC_
 | 100 | Natasha Howard | 615 |
 | 101 | Debbie Black | 612 |
 | 102 | Cynthia Cooper | 602 |
-| 103 | **Caitlin Clark** 🔴 +2 | 593 |
+| 103 | **Caitlin Clark** 🔴 +3 | 594 |
 | 104 | Sancho Lyttle | 592 |
 | 105 | Gabby Williams | 591 |
 | 106 | Betnijah Laney-Hamilton | 590 |
@@ -873,8 +873,8 @@ _Last updated: 2026-10-02 01:51 UTC_
 | 28 | Natasha Howard | 467 |
 | 29 | Skylar Diggins | 463 |
 | 29 | Teresa Weatherspoon | 463 |
+| 31 | **Chelsea Gray** 🔴 +1 | 458 |
 | 31 | **Jewell Loyd** 🔴 | 458 |
-| 32 | **Chelsea Gray** 🔴 | 457 |
 | 33 | Rebekkah Brunson | 456 |
 | 34 | Tangela Smith | 455 |
 | 35 | Tina Thompson | 452 |
@@ -1414,7 +1414,7 @@ _Last updated: 2026-10-02 01:51 UTC_
 | 158 | Anna DeForge | 374 |
 | 158 | Cheryl Ford | 374 |
 | 160 | Allison Feaster | 372 |
-| 161 | **Caitlin Clark** 🔴 +1 | 369 |
+| 161 | **Caitlin Clark** 🔴 +2 | 370 |
 | 162 | Emma Meesseman | 367 |
 | 163 | Latasha Byears | 360 |
 | 164 | Vicky Bullett | 359 |
