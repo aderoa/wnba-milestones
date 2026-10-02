@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-10-02T02:56:00+00:00",
+    "text": "Myisha Hines-Allen passed Tari Phillips for #89 all-time in rebounds (career 1,275) \u2014 up from #90 entering today \u2014 (8:22 - 4th \u2014 IND @ LV)",
+    "kind": "rank_pass",
+    "player": "Myisha Hines-Allen",
+    "stat": "rebounds",
+    "rank": 89,
+    "passed_players": [
+      "Tari Phillips"
+    ],
+    "new_total": 1275
+  },
+  {
     "ts": "2026-10-02T02:48:00+00:00",
     "text": "Myisha Hines-Allen passed Bria Hartley for #164 all-time in points (career 1,968) \u2014 up from #167 entering today \u2014 (51.2 - 3rd \u2014 IND @ LV)",
     "kind": "rank_pass",
@@ -2960,18 +2972,5 @@
       "Jennifer Azzi"
     ],
     "new_total": 159
-  },
-  {
-    "ts": "2026-07-11T17:35:00+00:00",
-    "text": "Betnijah Laney-Hamilton passed Caitlin Clark and Gabby Williams for #104 all-time in assists (career 592) \u2014 up from #106 entering today \u2014 (7:06 - 2nd \u2014 NY @ MIN)",
-    "kind": "rank_pass",
-    "player": "Betnijah Laney-Hamilton",
-    "stat": "assists",
-    "rank": 104,
-    "passed_players": [
-      "Caitlin Clark",
-      "Gabby Williams"
-    ],
-    "new_total": 592
   }
 ]

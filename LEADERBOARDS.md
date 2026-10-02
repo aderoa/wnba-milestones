@@ -83,7 +83,7 @@ _Last updated: 2026-10-02 02:56 UTC_
 | 62 | Allie Quigley | 3,786 |
 | 63 | Chasity Melvin | 3,781 |
 | 64 | Brittney Sykes | 3,726 |
-| 65 | **Jackie Young** 🔴 +12 | 3,710 |
+| 65 | **Jackie Young** 🔴 +14 | 3,712 |
 | 66 | Kara Lawson | 3,670 |
 | 67 | Mwadi Mabika | 3,576 |
 | 68 | Odyssey Sims | 3,574 |
@@ -200,7 +200,7 @@ _Last updated: 2026-10-02 02:56 UTC_
 | 179 | NaLyssa Smith | 1,879 |
 | 180 | Rachel Banham | 1,843 |
 | 181 | Damiris Dantas | 1,842 |
-| 182 | **Sophie Cunningham** 🔴 +2 | 1,831 |
+| 182 | **Sophie Cunningham** 🔴 +5 | 1,834 |
 | 183 | Tianna Hawkins | 1,825 |
 | 184 | Noelle Quinn | 1,824 |
 | 185 | Danielle Adams | 1,820 |
@@ -237,7 +237,7 @@ _Last updated: 2026-10-02 02:56 UTC_
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | Alyssa Thomas | 2,858 |
 | 13 | Jonquel Jones | 2,728 |
-| 14 | **A'ja Wilson** 🔴 +6 | 2,663 |
+| 14 | **A'ja Wilson** 🔴 +7 | 2,664 |
 | 15 | Breanna Stewart | 2,632 |
 | 16 | Sancho Lyttle | 2,596 |
 | 17 | Brittney Griner | 2,579 |
@@ -312,8 +312,8 @@ _Last updated: 2026-10-02 02:56 UTC_
 | 86 | Jayne Appel Marinelli | 1,326 |
 | 87 | Azurá Stevens | 1,319 |
 | 88 | Betty Lennox | 1,296 |
-| 89 | **Myisha Hines-Allen** 🔴 +9 | 1,274 |
-| 89 | Tari Phillips | 1,274 |
+| 89 | **Myisha Hines-Allen** 🔴 +10 | 1,275 |
+| 90 | Tari Phillips | 1,274 |
 | 91 | **Chelsea Gray** 🔴 +4 | 1,261 |
 | 91 | Janel McCarville | 1,261 |
 | 93 | Liz Cambage | 1,258 |
@@ -435,7 +435,7 @@ _Last updated: 2026-10-02 02:56 UTC_
 | 3 | Ticha Penicheiro | 2,588 |
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
-| 6 | **Chelsea Gray** 🔴 +4 | 2,007 |
+| 6 | **Chelsea Gray** 🔴 +5 | 2,008 |
 | 7 | Alyssa Thomas | 1,971 |
 | 8 | Skylar Diggins | 1,852 |
 | 9 | Natasha Cloud | 1,802 |
@@ -1108,8 +1108,8 @@ _Last updated: 2026-10-02 02:56 UTC_
 | 58 | Candace Parker | 342 |
 | 59 | Deanna Nolan | 340 |
 | 60 | Erica Wheeler | 337 |
-| 61 | Anna DeForge | 334 |
-| 61 | **Sophie Cunningham** 🔴 | 334 |
+| 61 | **Sophie Cunningham** 🔴 +1 | 335 |
+| 62 | Anna DeForge | 334 |
 | 63 | Natisha Hiedeman | 328 |
 | 64 | Sugar Rodgers | 317 |
 | 65 | Marissa Coleman | 315 |
@@ -1608,8 +1608,8 @@ _Last updated: 2026-10-02 02:56 UTC_
 | 146 | Kayla McBride | 543 |
 | 146 | Renee Montgomery | 543 |
 | 149 | Marissa Coleman | 541 |
-| 150 | **Myisha Hines-Allen** 🔴 +3 | 538 |
-| 150 | **Sophie Cunningham** 🔴 | 538 |
+| 150 | **Myisha Hines-Allen** 🔴 +4 | 539 |
+| 151 | **Sophie Cunningham** 🔴 | 538 |
 | 152 | Damiris Dantas | 533 |
 | 152 | Kristen Rasmussen | 533 |
 | 154 | Amanda Zahui B | 530 |
