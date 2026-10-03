@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-10-03 02:56 UTC_
+_Last updated: 2026-10-03 02:57 UTC_
 
 ## Contents
 
@@ -1576,8 +1576,8 @@ _Last updated: 2026-10-03 02:56 UTC_
 | 116 | Courtney Paris | 617 |
 | 117 | Coco Miller | 615 |
 | 118 | Brooke Wyckoff | 614 |
-| 119 | **Odyssey Sims** 🔴 +3 | 613 |
-| 119 | Svetlana Abrosimova | 613 |
+| 118 | **Odyssey Sims** 🔴 +4 | 614 |
+| 120 | Svetlana Abrosimova | 613 |
 | 121 | Layshia Clarendon | 609 |
 | 122 | **Arike Ogunbowale** 🔴 +4 | 608 |
 | 123 | Tiffany Mitchell | 604 |
