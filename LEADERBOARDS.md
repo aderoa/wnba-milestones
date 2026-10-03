@@ -287,7 +287,7 @@ _Last updated: 2026-10-03 02:26 UTC_
 | 61 | Cappie Pondexter | 1,513 |
 | 62 | Napheesa Collier | 1,510 |
 | 63 | Ticha Penicheiro | 1,485 |
-| 64 | **Alysha Clark** 🔴 +3 | 1,472 |
+| 64 | **Alysha Clark** 🔴 +4 | 1,473 |
 | 65 | Sue Bird | 1,466 |
 | 66 | Cheyenne Parker-Tyus | 1,463 |
 | 67 | Nicole Powell | 1,457 |
