@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-10-03 03:01 UTC_
+_Last updated: 2026-10-03 03:02 UTC_
 
 ## Contents
 
@@ -53,7 +53,7 @@ _Last updated: 2026-10-03 03:01 UTC_
 | 32 | Maya Moore | 4,984 |
 | 33 | Sheryl Swoopes | 4,875 |
 | 34 | Alyssa Thomas | 4,752 |
-| 35 | **Arike Ogunbowale** 🔴 +26 | 4,741 |
+| 35 | **Arike Ogunbowale** 🔴 +28 | 4,743 |
 | 36 | Alana Beard | 4,740 |
 | 37 | Chamique Holdsclaw | 4,713 |
 | 38 | Elena Delle Donne | 4,706 |
@@ -351,7 +351,7 @@ _Last updated: 2026-10-03 03:01 UTC_
 | 124 | Tamecka Dixon | 1,035 |
 | 126 | Kamila Vodichkova | 1,031 |
 | 127 | Jasmine Thomas | 1,027 |
-| 128 | **Jessica Shepard** 🔴 +10 | 1,026 |
+| 127 | **Jessica Shepard** 🔴 +11 | 1,027 |
 | 129 | Sabrina Ionescu | 1,020 |
 | 130 | Cathrine Kraayeveld | 1,013 |
 | 131 | Kelly Miller | 1,011 |
