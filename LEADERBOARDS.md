@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-10-03 02:48 UTC_
+_Last updated: 2026-10-03 02:49 UTC_
 
 ## Contents
 
@@ -54,7 +54,7 @@ _Last updated: 2026-10-03 02:48 UTC_
 | 33 | Sheryl Swoopes | 4,875 |
 | 34 | Alyssa Thomas | 4,752 |
 | 35 | Alana Beard | 4,740 |
-| 36 | **Arike Ogunbowale** 🔴 +21 | 4,736 |
+| 36 | **Arike Ogunbowale** 🔴 +23 | 4,738 |
 | 37 | Chamique Holdsclaw | 4,713 |
 | 38 | Elena Delle Donne | 4,706 |
 | 39 | Natasha Howard | 4,682 |
@@ -258,7 +258,7 @@ _Last updated: 2026-10-03 02:48 UTC_
 | 32 | Tammy Sutton-Brown | 2,010 |
 | 33 | Elizabeth Williams | 1,978 |
 | 34 | Cheryl Ford | 1,907 |
-| 35 | **Kiah Stokes** 🔴 +9 | 1,844 |
+| 35 | **Kiah Stokes** 🔴 +10 | 1,845 |
 | 36 | Courtney Williams | 1,843 |
 | 37 | Plenette Pierson | 1,834 |
 | 38 | Natalie Williams | 1,832 |
@@ -385,8 +385,8 @@ _Last updated: 2026-10-03 02:48 UTC_
 | 159 | Krystal Thomas | 862 |
 | 160 | Naz Hillmon | 859 |
 | 161 | Leilani Mitchell | 845 |
-| 162 | Essence Carson | 833 |
-| 162 | **Gabby Williams** 🔴 +2 | 833 |
+| 162 | **Gabby Williams** 🔴 +3 | 834 |
+| 163 | Essence Carson | 833 |
 | 164 | Shakira Austin | 832 |
 | 165 | Kristi Toliver | 829 |
 | 166 | Marie Ferdinand-Harris | 828 |
@@ -532,8 +532,8 @@ _Last updated: 2026-10-03 02:48 UTC_
 | 100 | Natasha Howard | 615 |
 | 101 | Debbie Black | 612 |
 | 102 | Cynthia Cooper | 602 |
-| 103 | **Gabby Williams** 🔴 +1 | 592 |
-| 103 | Sancho Lyttle | 592 |
+| 103 | **Gabby Williams** 🔴 +2 | 593 |
+| 104 | Sancho Lyttle | 592 |
 | 105 | Caitlin Clark | 591 |
 | 106 | Betnijah Laney-Hamilton | 590 |
 | 106 | Camille Smith | 590 |
