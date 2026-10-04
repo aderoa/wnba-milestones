@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-10-04 21:44 UTC_
+_Last updated: 2026-10-04 21:45 UTC_
 
 ## Contents
 
@@ -33,7 +33,7 @@ _Last updated: 2026-10-04 21:44 UTC_
 | 12 | Sylvia Fowles | 6,413 |
 | 13 | Breanna Stewart | 6,354 |
 | 14 | Lisa Leslie | 6,251 |
-| 15 | **A'ja Wilson** 🔴 +22 | 6,200 |
+| 15 | **A'ja Wilson** 🔴 +24 | 6,202 |
 | 16 | **Jewell Loyd** 🔴 | 6,148 |
 | 17 | Brittney Griner | 6,087 |
 | 18 | Lauren Jackson | 6,005 |
@@ -314,8 +314,8 @@ _Last updated: 2026-10-04 21:44 UTC_
 | 88 | Betty Lennox | 1,296 |
 | 89 | Tari Phillips | 1,274 |
 | 90 | Myisha Hines-Allen | 1,265 |
+| 91 | **Chelsea Gray** 🔴 +4 | 1,261 |
 | 91 | Janel McCarville | 1,261 |
-| 92 | **Chelsea Gray** 🔴 +3 | 1,260 |
 | 93 | Liz Cambage | 1,258 |
 | 93 | **Tiffany Hayes** 🔴 +1 | 1,258 |
 | 95 | Kayla McBride | 1,256 |
@@ -343,7 +343,7 @@ _Last updated: 2026-10-04 21:44 UTC_
 | 117 | Becky Hammon | 1,108 |
 | 118 | Ann Wauters | 1,105 |
 | 119 | Isabelle Harrison | 1,097 |
-| 120 | **Jackie Young** 🔴 +3 | 1,088 |
+| 120 | **Jackie Young** 🔴 +4 | 1,089 |
 | 121 | Svetlana Abrosimova | 1,078 |
 | 122 | Le'coe Willingham | 1,054 |
 | 123 | Angel Reese | 1,042 |
@@ -1548,10 +1548,10 @@ _Last updated: 2026-10-04 21:44 UTC_
 | 89 | Danielle Robinson | 692 |
 | 90 | Breanna Stewart | 688 |
 | 91 | **Cheyenne Parker-Tyus** 🔴 +2 | 687 |
+| 91 | **Kayla Thornton** 🔴 +5 | 687 |
 | 91 | Sophia Young-Malcolm | 687 |
-| 93 | **Jewell Loyd** 🔴 +2 | 686 |
-| 93 | **Kayla Thornton** 🔴 +4 | 686 |
-| 93 | Maya Moore | 686 |
+| 94 | **Jewell Loyd** 🔴 +2 | 686 |
+| 94 | Maya Moore | 686 |
 | 96 | Jasmine Thomas | 685 |
 | 97 | Leilani Mitchell | 684 |
 | 98 | Crystal Robinson | 682 |
