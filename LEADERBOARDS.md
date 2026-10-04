@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-10-04 20:17 UTC_
+_Last updated: 2026-10-04 20:18 UTC_
 
 ## Contents
 
@@ -537,7 +537,7 @@ _Last updated: 2026-10-04 20:17 UTC_
 | 106 | Betnijah Laney-Hamilton | 590 |
 | 106 | Camille Smith | 590 |
 | 108 | Armintie Herrington | 589 |
-| 109 | **Veronica Burton** 🔴 | 579 |
+| 109 | **Veronica Burton** 🔴 +1 | 580 |
 | 110 | Tan White | 578 |
 | 111 | Matee Ajavon | 577 |
 | 112 | Napheesa Collier | 570 |
@@ -1237,7 +1237,7 @@ _Last updated: 2026-10-04 20:17 UTC_
 | 187 | Rickea Jackson | 114 |
 | 187 | Sandy Brondello | 114 |
 | 190 | **Cecilia Zandalasini** 🔴 | 111 |
-| 190 | Janelle Salaun | 111 |
+| 190 | **Janelle Salaun** 🔴 | 111 |
 | 190 | Shoni Schimmel | 111 |
 | 193 | Emma Meesseman | 109 |
 | 193 | Scholanda Dorrell | 109 |
@@ -1283,7 +1283,7 @@ _Last updated: 2026-10-04 20:17 UTC_
 | 29 | Nneka Ogwumike | 803 |
 | 30 | Betty Lennox | 800 |
 | 31 | Jasmine Thomas | 796 |
-| 32 | **Jewell Loyd** 🔴 | 795 |
+| 31 | **Jewell Loyd** 🔴 +1 | 796 |
 | 33 | Chamique Holdsclaw | 789 |
 | 34 | Crystal Langhorne | 782 |
 | 35 | Camille Smith | 779 |
