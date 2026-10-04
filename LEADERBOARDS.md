@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-10-04 21:09 UTC_
+_Last updated: 2026-10-04 21:10 UTC_
 
 ## Contents
 
@@ -319,7 +319,7 @@ _Last updated: 2026-10-04 21:09 UTC_
 | 93 | Liz Cambage | 1,258 |
 | 93 | **Tiffany Hayes** 🔴 +1 | 1,258 |
 | 95 | Kayla McBride | 1,256 |
-| 96 | **Brianna Turner** 🔴 +4 | 1,247 |
+| 96 | **Brianna Turner** 🔴 +6 | 1,249 |
 | 97 | Ezi Magbegor | 1,243 |
 | 98 | Seimone Augustus | 1,228 |
 | 99 | Jia Perkins | 1,220 |
@@ -385,7 +385,7 @@ _Last updated: 2026-10-04 21:09 UTC_
 | 159 | Naz Hillmon | 863 |
 | 160 | Krystal Thomas | 862 |
 | 161 | Leilani Mitchell | 845 |
-| 162 | **Gabby Williams** 🔴 +4 | 835 |
+| 162 | **Gabby Williams** 🔴 +5 | 836 |
 | 163 | Essence Carson | 833 |
 | 164 | Shakira Austin | 832 |
 | 165 | Kristi Toliver | 829 |
@@ -1374,7 +1374,7 @@ _Last updated: 2026-10-04 21:09 UTC_
 | 120 | Elaine Powell | 469 |
 | 121 | Allie Quigley | 467 |
 | 122 | Ariel Atkins | 465 |
-| 123 | **Jackie Young** 🔴 | 463 |
+| 123 | **Jackie Young** 🔴 +1 | 464 |
 | 124 | Betnijah Laney-Hamilton | 456 |
 | 125 | Kia Vaughn | 454 |
 | 126 | Janeth Arcain | 453 |
