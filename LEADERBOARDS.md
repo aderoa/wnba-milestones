@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-10-04 19:27 UTC_
+_Last updated: 2026-10-04 19:28 UTC_
 
 ## Contents
 
@@ -31,7 +31,7 @@ _Last updated: 2026-10-04 19:27 UTC_
 | 10 | Candace Parker | 6,574 |
 | 11 | Katie Smith | 6,450 |
 | 12 | Sylvia Fowles | 6,413 |
-| 13 | **Breanna Stewart** 🔴 +8 | 6,343 |
+| 13 | **Breanna Stewart** 🔴 +10 | 6,345 |
 | 14 | Lisa Leslie | 6,251 |
 | 15 | A'ja Wilson | 6,178 |
 | 16 | Jewell Loyd | 6,148 |
@@ -351,7 +351,7 @@ _Last updated: 2026-10-04 19:27 UTC_
 | 125 | Tamecka Dixon | 1,035 |
 | 126 | Kamila Vodichkova | 1,031 |
 | 127 | Jasmine Thomas | 1,027 |
-| 128 | **Sabrina Ionescu** 🔴 +2 | 1,022 |
+| 128 | **Sabrina Ionescu** 🔴 +3 | 1,023 |
 | 129 | Jessica Shepard | 1,016 |
 | 130 | Cathrine Kraayeveld | 1,013 |
 | 131 | Kelly Miller | 1,011 |
@@ -523,7 +523,7 @@ _Last updated: 2026-10-04 19:27 UTC_
 | 91 | Lindsay Allen | 657 |
 | 92 | Betty Lennox | 651 |
 | 92 | Plenette Pierson | 651 |
-| 94 | **Jonquel Jones** 🔴 +2 | 649 |
+| 94 | **Jonquel Jones** 🔴 +3 | 650 |
 | 95 | Alex Bentley | 645 |
 | 96 | Asjha Jones | 637 |
 | 97 | Jennifer Azzi | 636 |
@@ -1027,8 +1027,8 @@ _Last updated: 2026-10-04 19:27 UTC_
 | 182 | Charde Houston | 185 |
 | 182 | Tiffany Jackson | 185 |
 | 184 | Erin Perperoglou | 184 |
+| 184 | **Rebecca Allen** 🔴 +1 | 184 |
 | 184 | **Sabrina Ionescu** 🔴 | 184 |
-| 186 | **Rebecca Allen** 🔴 | 183 |
 | 187 | Erin Phillips | 182 |
 | 187 | Monique Billings | 182 |
 | 189 | Nakia Sanford | 181 |
