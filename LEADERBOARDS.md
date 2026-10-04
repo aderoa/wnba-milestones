@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-10-04 21:24 UTC_
+_Last updated: 2026-10-04 21:25 UTC_
 
 ## Contents
 
@@ -58,7 +58,7 @@ _Last updated: 2026-10-04 21:24 UTC_
 | 37 | Chamique Holdsclaw | 4,713 |
 | 38 | Elena Delle Donne | 4,706 |
 | 39 | Natasha Howard | 4,682 |
-| 40 | **Chelsea Gray** 🔴 +11 | 4,636 |
+| 40 | **Chelsea Gray** 🔴 +13 | 4,638 |
 | 41 | Penny Taylor | 4,595 |
 | 42 | Allisha Gray | 4,498 |
 | 43 | Kelsey Plum | 4,494 |
@@ -385,7 +385,7 @@ _Last updated: 2026-10-04 21:24 UTC_
 | 159 | Naz Hillmon | 863 |
 | 160 | Krystal Thomas | 862 |
 | 161 | Leilani Mitchell | 845 |
-| 162 | **Gabby Williams** 🔴 +7 | 838 |
+| 162 | **Gabby Williams** 🔴 +8 | 839 |
 | 163 | Essence Carson | 833 |
 | 164 | Shakira Austin | 832 |
 | 165 | Kristi Toliver | 829 |
@@ -942,9 +942,9 @@ _Last updated: 2026-10-04 21:24 UTC_
 | 98 | Elizabeth Williams | 295 |
 | 98 | Lindsey Harding | 295 |
 | 100 | Janel McCarville | 294 |
+| 101 | **Jackie Young** 🔴 +3 | 290 |
 | 101 | Kelly Miller | 290 |
-| 102 | Glory Johnson | 289 |
-| 102 | **Jackie Young** 🔴 +2 | 289 |
+| 103 | Glory Johnson | 289 |
 | 104 | Essence Carson | 285 |
 | 105 | Seimone Augustus | 280 |
 | 106 | Tari Phillips | 277 |
@@ -988,11 +988,11 @@ _Last updated: 2026-10-04 21:24 UTC_
 | 144 | Cheryl Ford | 224 |
 | 145 | Marina Mabrey | 221 |
 | 145 | Rushia Brown | 221 |
+| 147 | **Cheyenne Parker-Tyus** 🔴 +3 | 220 |
 | 147 | DeMya Walker | 220 |
 | 147 | Jennifer Gillom | 220 |
-| 149 | Allison Feaster | 219 |
-| 149 | **Cheyenne Parker-Tyus** 🔴 +2 | 219 |
-| 149 | Kahleah Copper | 219 |
+| 150 | Allison Feaster | 219 |
+| 150 | Kahleah Copper | 219 |
 | 152 | Shenise Johnson | 217 |
 | 153 | Adrian Williams-Strong | 216 |
 | 153 | Moriah Jefferson | 216 |
@@ -1422,9 +1422,9 @@ _Last updated: 2026-10-04 21:24 UTC_
 | 168 | Janell Burse | 347 |
 | 169 | Brionna Jones | 346 |
 | 170 | Satou Sabally | 345 |
+| 171 | **Gabby Williams** 🔴 +4 | 340 |
 | 171 | Teaira McCowan | 340 |
-| 172 | Loree Moore | 339 |
-| 173 | **Gabby Williams** 🔴 +2 | 338 |
+| 173 | Loree Moore | 339 |
 | 174 | Charlotte Smith | 337 |
 | 175 | Scholanda Dorrell | 335 |
 | 176 | Aerial Powers | 333 |
