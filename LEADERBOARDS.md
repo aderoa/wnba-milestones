@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-10-04 19:55 UTC_
+_Last updated: 2026-10-04 19:56 UTC_
 
 ## Contents
 
@@ -231,7 +231,7 @@ _Last updated: 2026-10-04 19:55 UTC_
 | 5 | Rebekkah Brunson | 3,345 |
 | 6 | Tamika Catchings | 3,313 |
 | 7 | Lisa Leslie | 3,303 |
-| 8 | **DeWanna Bonner** 🔴 +8 | 3,298 |
+| 8 | **DeWanna Bonner** 🔴 +9 | 3,299 |
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
@@ -455,7 +455,7 @@ _Last updated: 2026-10-04 19:55 UTC_
 | 23 | Teresa Weatherspoon | 1,333 |
 | 24 | Kristi Toliver | 1,301 |
 | 25 | Kelsey Plum | 1,270 |
-| 26 | **Jordin Canada** 🔴 +2 | 1,264 |
+| 26 | **Jordin Canada** 🔴 +3 | 1,265 |
 | 27 | Katie Smith | 1,258 |
 | 28 | Odyssey Sims | 1,228 |
 | 29 | Vickie Johnson | 1,202 |
@@ -1497,7 +1497,7 @@ _Last updated: 2026-10-04 19:55 UTC_
 | 36 | Tamika Whitmore | 940 |
 | 38 | **DeWanna Bonner** 🔴 | 922 |
 | 39 | Briann January | 921 |
-| 40 | **Jonquel Jones** 🔴 +2 | 915 |
+| 40 | **Jonquel Jones** 🔴 +3 | 916 |
 | 41 | Ticha Penicheiro | 913 |
 | 42 | Shavonte Zellous | 907 |
 | 43 | Alysha Clark | 905 |
