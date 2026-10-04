@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-10-04 19:58 UTC_
+_Last updated: 2026-10-04 19:59 UTC_
 
 ## Contents
 
@@ -455,7 +455,7 @@ _Last updated: 2026-10-04 19:58 UTC_
 | 23 | Teresa Weatherspoon | 1,333 |
 | 24 | Kristi Toliver | 1,301 |
 | 25 | Kelsey Plum | 1,270 |
-| 26 | **Jordin Canada** 🔴 +3 | 1,265 |
+| 26 | **Jordin Canada** 🔴 +4 | 1,266 |
 | 27 | Katie Smith | 1,258 |
 | 28 | Odyssey Sims | 1,228 |
 | 29 | Vickie Johnson | 1,202 |
@@ -648,7 +648,7 @@ _Last updated: 2026-10-04 19:58 UTC_
 | 11 | Elizabeth Williams | 503 |
 | 12 | **Breanna Stewart** 🔴 +3 | 453 |
 | 13 | Taj McWilliams-Franklin | 443 |
-| 14 | **Jonquel Jones** 🔴 +4 | 429 |
+| 14 | **Jonquel Jones** 🔴 +5 | 430 |
 | 15 | Tina Charles | 428 |
 | 16 | Michelle Snow | 403 |
 | 17 | Tamika Catchings | 383 |
@@ -959,9 +959,9 @@ _Last updated: 2026-10-04 19:58 UTC_
 | 113 | Kelsey Plum | 267 |
 | 115 | Anna DeForge | 266 |
 | 116 | Brionna Jones | 265 |
-| 117 | **Jonquel Jones** 🔴 +2 | 262 |
 | 117 | Michelle Snow | 262 |
-| 119 | Karima Christmas-Kelly | 261 |
+| 118 | **Jonquel Jones** 🔴 +1 | 261 |
+| 118 | Karima Christmas-Kelly | 261 |
 | 120 | Riquna Williams | 260 |
 | 121 | Noelle Quinn | 256 |
 | 122 | Elaine Powell | 255 |
