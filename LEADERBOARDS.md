@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-10-04 19:46 UTC_
+_Last updated: 2026-10-04 19:47 UTC_
 
 ## Contents
 
@@ -238,7 +238,7 @@ _Last updated: 2026-10-04 19:46 UTC_
 | 12 | Alyssa Thomas | 2,858 |
 | 13 | **Jonquel Jones** 🔴 +10 | 2,738 |
 | 14 | A'ja Wilson | 2,657 |
-| 15 | **Breanna Stewart** 🔴 +1 | 2,633 |
+| 15 | **Breanna Stewart** 🔴 +2 | 2,634 |
 | 16 | Sancho Lyttle | 2,596 |
 | 17 | Brittney Griner | 2,579 |
 | 18 | DeLisha Milton-Jones | 2,574 |
@@ -648,8 +648,8 @@ _Last updated: 2026-10-04 19:46 UTC_
 | 11 | Elizabeth Williams | 503 |
 | 12 | **Breanna Stewart** 🔴 +3 | 453 |
 | 13 | Taj McWilliams-Franklin | 443 |
+| 14 | **Jonquel Jones** 🔴 +3 | 428 |
 | 14 | Tina Charles | 428 |
-| 15 | **Jonquel Jones** 🔴 +2 | 427 |
 | 16 | Michelle Snow | 403 |
 | 17 | Tamika Catchings | 383 |
 | 18 | Tina Thompson | 372 |
@@ -1344,8 +1344,8 @@ _Last updated: 2026-10-04 19:46 UTC_
 | 89 | Lauren Jackson | 549 |
 | 90 | Matee Ajavon | 544 |
 | 91 | Adrienne Goodson | 542 |
-| 92 | Marina Mabrey | 537 |
-| 92 | **Sabrina Ionescu** 🔴 +4 | 537 |
+| 92 | **Sabrina Ionescu** 🔴 +5 | 538 |
+| 93 | Marina Mabrey | 537 |
 | 94 | Layshia Clarendon | 536 |
 | 95 | Ivory Latta | 534 |
 | 95 | Iziane Castro Marques | 534 |
