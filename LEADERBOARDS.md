@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-10-04 20:07 UTC_
+_Last updated: 2026-10-04 20:08 UTC_
 
 ## Contents
 
@@ -150,7 +150,7 @@ _Last updated: 2026-10-04 20:07 UTC_
 | 129 | Anna DeForge | 2,413 |
 | 130 | **Kayla Thornton** 🔴 | 2,393 |
 | 131 | DeMya Walker | 2,379 |
-| 132 | **Jordin Canada** 🔴 +23 | 2,365 |
+| 132 | **Jordin Canada** 🔴 +25 | 2,367 |
 | 133 | Alex Bentley | 2,350 |
 | 134 | Azurá Stevens | 2,343 |
 | 135 | Merlakia Jones | 2,308 |
@@ -195,8 +195,8 @@ _Last updated: 2026-10-04 20:07 UTC_
 | 174 | Jessica Breland | 1,918 |
 | 175 | Nakia Sanford | 1,915 |
 | 176 | Ebony Hoffman | 1,909 |
-| 177 | Candice Wiggins | 1,901 |
-| 178 | **Gabby Williams** 🔴 | 1,899 |
+| 177 | **Gabby Williams** 🔴 +3 | 1,902 |
+| 178 | Candice Wiggins | 1,901 |
 | 179 | NaLyssa Smith | 1,879 |
 | 180 | Rachel Banham | 1,843 |
 | 181 | Damiris Dantas | 1,842 |
@@ -259,7 +259,7 @@ _Last updated: 2026-10-04 20:07 UTC_
 | 33 | Elizabeth Williams | 1,978 |
 | 34 | Cheryl Ford | 1,907 |
 | 35 | Courtney Williams | 1,843 |
-| 36 | **Kiah Stokes** 🔴 +3 | 1,838 |
+| 36 | **Kiah Stokes** 🔴 +4 | 1,839 |
 | 37 | Plenette Pierson | 1,834 |
 | 38 | Natalie Williams | 1,832 |
 | 39 | Wendy Palmer | 1,824 |
@@ -423,8 +423,7 @@ _Last updated: 2026-10-04 20:07 UTC_
 | 197 | Olympia Scott | 711 |
 | 198 | Katie Mattera | 708 |
 | 199 | Rushia Brown | 706 |
-| 200 | Allie Quigley | 702 |
-| 200 | **Rebecca Allen** 🔴 | 702 |
+| 200 | **Rhyne Howard** 🔴 +8 | 703 |
 
 ## Assists
 
@@ -462,7 +461,7 @@ _Last updated: 2026-10-04 20:07 UTC_
 | 30 | **DeWanna Bonner** 🔴 +2 | 1,198 |
 | 31 | Leilani Mitchell | 1,197 |
 | 32 | **Jewell Loyd** 🔴 +1 | 1,157 |
-| 33 | **Jackie Young** 🔴 +1 | 1,151 |
+| 33 | **Jackie Young** 🔴 +2 | 1,152 |
 | 34 | Renee Montgomery | 1,140 |
 | 35 | Swin Cash | 1,131 |
 | 36 | **Sabrina Ionescu** 🔴 +1 | 1,093 |
@@ -1190,10 +1189,10 @@ _Last updated: 2026-10-04 20:07 UTC_
 | 139 | Jennifer Azzi | 158 |
 | 139 | Natasha Howard | 158 |
 | 142 | Alanna Smith | 156 |
-| 143 | Bridget Pettis | 153 |
-| 143 | **Gabby Williams** 🔴 | 153 |
-| 143 | Jennifer Gillom | 153 |
-| 143 | Katie Lou Samuelson | 153 |
+| 143 | **Gabby Williams** 🔴 +1 | 154 |
+| 144 | Bridget Pettis | 153 |
+| 144 | Jennifer Gillom | 153 |
+| 144 | Katie Lou Samuelson | 153 |
 | 147 | Michaela Onyenwere | 151 |
 | 148 | Rita Williams | 150 |
 | 149 | Moriah Jefferson | 149 |
@@ -1600,7 +1599,7 @@ _Last updated: 2026-10-04 20:07 UTC_
 | 140 | Dawn Staley | 551 |
 | 141 | Glory Johnson | 550 |
 | 141 | Tierra Ruffin-Pratt | 550 |
-| 143 | **Jackie Young** 🔴 | 548 |
+| 143 | **Jackie Young** 🔴 +1 | 549 |
 | 144 | Erlana Larkins | 546 |
 | 144 | Monique Billings | 546 |
 | 146 | Jayne Appel Marinelli | 543 |

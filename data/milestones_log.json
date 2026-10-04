@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-10-04T20:08:00+00:00",
+    "text": "Rhyne Howard passed Allie Quigley for #200 all-time in rebounds (career 703) \u2014 new to top 200 today \u2014 (21.6 - 4th \u2014 NY @ ATL)",
+    "kind": "rank_pass",
+    "player": "Rhyne Howard",
+    "stat": "rebounds",
+    "rank": 200,
+    "passed_players": [
+      "Allie Quigley"
+    ],
+    "new_total": 703
+  },
+  {
     "ts": "2026-10-04T19:57:00+00:00",
     "text": "Jonquel Jones passed Tina Charles for #14 all-time in blocks (career 429) \u2014 up from #15 entering today \u2014 (2:39 - 4th \u2014 NY @ ATL)",
     "kind": "rank_pass",
@@ -2959,17 +2971,5 @@
       "Monique Billings"
     ],
     "new_total": 547
-  },
-  {
-    "ts": "2026-07-11T18:41:00+00:00",
-    "text": "Kayla McBride passed Maya Moore for #36 all-time in steals (career 450) \u2014 up from #37 entering today \u2014 (7:12 - 4th \u2014 NY @ MIN)",
-    "kind": "rank_pass",
-    "player": "Kayla McBride",
-    "stat": "steals",
-    "rank": 36,
-    "passed_players": [
-      "Maya Moore"
-    ],
-    "new_total": 450
   }
 ]
