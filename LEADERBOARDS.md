@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-10-04 21:56 UTC_
+_Last updated: 2026-10-04 21:57 UTC_
 
 ## Contents
 
@@ -294,8 +294,8 @@ _Last updated: 2026-10-04 21:56 UTC_
 | 68 | Tamera Young | 1,433 |
 | 69 | Monique Billings | 1,431 |
 | 70 | Alana Beard | 1,420 |
+| 71 | **Kayla Thornton** 🔴 +11 | 1,419 |
 | 71 | Nakia Sanford | 1,419 |
-| 72 | **Kayla Thornton** 🔴 +10 | 1,418 |
 | 73 | Allisha Gray | 1,405 |
 | 74 | Kara Braxton | 1,387 |
 | 75 | Courtney Vandersloot | 1,386 |
@@ -1598,8 +1598,8 @@ _Last updated: 2026-10-04 21:56 UTC_
 | 139 | **A'ja Wilson** 🔴 +2 | 556 |
 | 140 | Dawn Staley | 551 |
 | 141 | Glory Johnson | 550 |
+| 141 | **Jackie Young** 🔴 +2 | 550 |
 | 141 | Tierra Ruffin-Pratt | 550 |
-| 143 | **Jackie Young** 🔴 +1 | 549 |
 | 144 | Erlana Larkins | 546 |
 | 144 | Monique Billings | 546 |
 | 146 | Jayne Appel Marinelli | 543 |
