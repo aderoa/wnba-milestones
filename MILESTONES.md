@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-10-04 19:30 UTC
+
+- **Jordin Canada** passed **Nicole Powell** for **#47** all-time in steals (career 402) — up from #48 entering today — _1:31 - 3rd — NY @ ATL_
+
 ## 2026-10-02 02:56 UTC
 
 - **Myisha Hines-Allen** passed **Tari Phillips** for **#89** all-time in rebounds (career 1,275) — up from #90 entering today — _8:22 - 4th — IND @ LV_

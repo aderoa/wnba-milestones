@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-10-04T19:30:00+00:00",
+    "text": "Jordin Canada passed Nicole Powell for #47 all-time in steals (career 402) \u2014 up from #48 entering today \u2014 (1:31 - 3rd \u2014 NY @ ATL)",
+    "kind": "rank_pass",
+    "player": "Jordin Canada",
+    "stat": "steals",
+    "rank": 47,
+    "passed_players": [
+      "Nicole Powell"
+    ],
+    "new_total": 402
+  },
+  {
     "ts": "2026-10-02T02:56:00+00:00",
     "text": "Myisha Hines-Allen passed Tari Phillips for #89 all-time in rebounds (career 1,275) \u2014 up from #90 entering today \u2014 (8:22 - 4th \u2014 IND @ LV)",
     "kind": "rank_pass",
@@ -2959,18 +2971,5 @@
       "Noelle Quinn"
     ],
     "new_total": 185
-  },
-  {
-    "ts": "2026-07-11T18:15:00+00:00",
-    "text": "Natasha Howard passed Aari McDonald and Jennifer Azzi for #139 all-time in three-pointers (career 159) \u2014 up from #141 entering today \u2014 (4:57 - 3rd \u2014 NY @ MIN)",
-    "kind": "rank_pass",
-    "player": "Natasha Howard",
-    "stat": "three-pointers",
-    "rank": 139,
-    "passed_players": [
-      "Aari McDonald",
-      "Jennifer Azzi"
-    ],
-    "new_total": 159
   }
 ]
