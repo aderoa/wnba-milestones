@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-10-04 18:51 UTC_
+_Last updated: 2026-10-04 18:52 UTC_
 
 ## Contents
 
@@ -110,7 +110,7 @@ _Last updated: 2026-10-04 18:51 UTC_
 | 89 | Erica Wheeler | 3,195 |
 | 90 | Danielle Robinson | 3,160 |
 | 91 | Wendy Palmer | 3,135 |
-| 92 | **Sabrina Ionescu** 🔴 +10 | 3,107 |
+| 92 | **Sabrina Ionescu** 🔴 +12 | 3,109 |
 | 93 | Shavonte Zellous | 3,103 |
 | 94 | Briann January | 3,082 |
 | 95 | Erika de Souza | 3,046 |
@@ -523,7 +523,7 @@ _Last updated: 2026-10-04 18:51 UTC_
 | 91 | Lindsay Allen | 657 |
 | 92 | Betty Lennox | 651 |
 | 92 | Plenette Pierson | 651 |
-| 94 | **Jonquel Jones** 🔴 | 647 |
+| 94 | **Jonquel Jones** 🔴 +1 | 648 |
 | 95 | Alex Bentley | 645 |
 | 96 | Asjha Jones | 637 |
 | 97 | Jennifer Azzi | 636 |
@@ -960,9 +960,9 @@ _Last updated: 2026-10-04 18:51 UTC_
 | 115 | Anna DeForge | 266 |
 | 116 | Brionna Jones | 265 |
 | 117 | Michelle Snow | 262 |
+| 118 | **Jonquel Jones** 🔴 +1 | 261 |
 | 118 | Karima Christmas-Kelly | 261 |
-| 119 | **Jonquel Jones** 🔴 | 260 |
-| 119 | Riquna Williams | 260 |
+| 120 | Riquna Williams | 260 |
 | 121 | Noelle Quinn | 256 |
 | 122 | Elaine Powell | 255 |
 | 122 | Loree Moore | 255 |
