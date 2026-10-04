@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-10-04 21:10 UTC_
+_Last updated: 2026-10-04 21:11 UTC_
 
 ## Contents
 
@@ -58,7 +58,7 @@ _Last updated: 2026-10-04 21:10 UTC_
 | 37 | Chamique Holdsclaw | 4,713 |
 | 38 | Elena Delle Donne | 4,706 |
 | 39 | Natasha Howard | 4,682 |
-| 40 | **Chelsea Gray** 🔴 +5 | 4,630 |
+| 40 | **Chelsea Gray** 🔴 +8 | 4,633 |
 | 41 | Penny Taylor | 4,595 |
 | 42 | Allisha Gray | 4,498 |
 | 43 | Kelsey Plum | 4,494 |
@@ -258,7 +258,7 @@ _Last updated: 2026-10-04 21:10 UTC_
 | 32 | Tammy Sutton-Brown | 2,010 |
 | 33 | Elizabeth Williams | 1,978 |
 | 34 | Cheryl Ford | 1,907 |
-| 35 | **Kiah Stokes** 🔴 +9 | 1,844 |
+| 35 | **Kiah Stokes** 🔴 +10 | 1,845 |
 | 36 | Courtney Williams | 1,843 |
 | 37 | Plenette Pierson | 1,834 |
 | 38 | Natalie Williams | 1,832 |
@@ -319,7 +319,7 @@ _Last updated: 2026-10-04 21:10 UTC_
 | 93 | Liz Cambage | 1,258 |
 | 93 | **Tiffany Hayes** 🔴 +1 | 1,258 |
 | 95 | Kayla McBride | 1,256 |
-| 96 | **Brianna Turner** 🔴 +6 | 1,249 |
+| 96 | **Brianna Turner** 🔴 +7 | 1,250 |
 | 97 | Ezi Magbegor | 1,243 |
 | 98 | Seimone Augustus | 1,228 |
 | 99 | Jia Perkins | 1,220 |
@@ -1077,7 +1077,7 @@ _Last updated: 2026-10-04 21:10 UTC_
 | 28 | Allisha Gray | 459 |
 | 29 | Ariel Atkins | 455 |
 | 30 | **Tiffany Hayes** 🔴 | 454 |
-| 31 | **Chelsea Gray** 🔴 +1 | 451 |
+| 31 | **Chelsea Gray** 🔴 +2 | 452 |
 | 32 | Skylar Diggins | 447 |
 | 33 | Lauren Jackson | 436 |
 | 34 | Shameka Christon | 434 |
