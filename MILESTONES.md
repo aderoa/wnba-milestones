@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-10-04 19:57 UTC
+
+- **Jonquel Jones** passed **Tina Charles** for **#14** all-time in blocks (career 429) — up from #15 entering today — _2:39 - 4th — NY @ ATL_
+
 ## 2026-10-04 19:30 UTC
 
 - **Jordin Canada** passed **Nicole Powell** for **#47** all-time in steals (career 402) — up from #48 entering today — _1:31 - 3rd — NY @ ATL_
