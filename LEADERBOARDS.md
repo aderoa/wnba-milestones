@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-10-04 19:25 UTC_
+_Last updated: 2026-10-04 19:26 UTC_
 
 ## Contents
 
@@ -150,7 +150,7 @@ _Last updated: 2026-10-04 19:25 UTC_
 | 129 | Anna DeForge | 2,413 |
 | 130 | Kayla Thornton | 2,393 |
 | 131 | DeMya Walker | 2,379 |
-| 132 | **Jordin Canada** 🔴 +12 | 2,354 |
+| 132 | **Jordin Canada** 🔴 +15 | 2,357 |
 | 133 | Alex Bentley | 2,350 |
 | 134 | Azurá Stevens | 2,343 |
 | 135 | Merlakia Jones | 2,308 |
@@ -217,7 +217,7 @@ _Last updated: 2026-10-04 19:25 UTC_
 | 196 | Janell Burse | 1,580 |
 | 197 | Le'coe Willingham | 1,552 |
 | 198 | Shatori Walker-Kimbrough | 1,544 |
-| 199 | Rebecca Allen | 1,529 |
+| 199 | **Rebecca Allen** 🔴 | 1,529 |
 | 200 | Jennifer Lacy | 1,504 |
 
 ## Rebounds
@@ -424,7 +424,7 @@ _Last updated: 2026-10-04 19:25 UTC_
 | 198 | Katie Mattera | 708 |
 | 199 | Rushia Brown | 706 |
 | 200 | Allie Quigley | 702 |
-| 200 | Rebecca Allen | 702 |
+| 200 | **Rebecca Allen** 🔴 | 702 |
 
 ## Assists
 
@@ -689,7 +689,7 @@ _Last updated: 2026-10-04 19:25 UTC_
 | 52 | Ashley Robinson | 204 |
 | 52 | Asjha Jones | 204 |
 | 54 | Janel McCarville | 201 |
-| 55 | Rebecca Allen | 196 |
+| 55 | **Rebecca Allen** 🔴 | 196 |
 | 56 | Jayne Appel Marinelli | 194 |
 | 57 | Angel McCoughtry | 193 |
 | 57 | Courtney Vandersloot | 193 |
@@ -889,8 +889,8 @@ _Last updated: 2026-10-04 19:25 UTC_
 | 44 | Dearica Hamby | 411 |
 | 45 | Katie Smith | 408 |
 | 46 | Cappie Pondexter | 405 |
+| 47 | **Jordin Canada** 🔴 +4 | 401 |
 | 47 | Nicole Powell | 401 |
-| 48 | **Jordin Canada** 🔴 +3 | 400 |
 | 49 | Jasmine Thomas | 394 |
 | 50 | Ariel Atkins | 390 |
 | 51 | Danielle Robinson | 389 |
@@ -1028,7 +1028,7 @@ _Last updated: 2026-10-04 19:25 UTC_
 | 182 | Tiffany Jackson | 185 |
 | 184 | Erin Perperoglou | 184 |
 | 184 | **Sabrina Ionescu** 🔴 | 184 |
-| 186 | Rebecca Allen | 183 |
+| 186 | **Rebecca Allen** 🔴 | 183 |
 | 187 | Erin Phillips | 182 |
 | 187 | Monique Billings | 182 |
 | 189 | Nakia Sanford | 181 |
@@ -1133,7 +1133,7 @@ _Last updated: 2026-10-04 19:25 UTC_
 | 83 | Iziane Castro Marques | 275 |
 | 84 | Sheryl Swoopes | 270 |
 | 85 | Sophia Witherspoon | 260 |
-| 86 | Rebecca Allen | 255 |
+| 86 | **Rebecca Allen** 🔴 | 255 |
 | 87 | Dawn Staley | 254 |
 | 88 | Bria Hartley | 253 |
 | 88 | Nneka Ogwumike | 253 |
@@ -1345,8 +1345,8 @@ _Last updated: 2026-10-04 19:25 UTC_
 | 90 | Matee Ajavon | 544 |
 | 91 | Adrienne Goodson | 542 |
 | 92 | Marina Mabrey | 537 |
-| 93 | Layshia Clarendon | 536 |
-| 93 | **Sabrina Ionescu** 🔴 +3 | 536 |
+| 92 | **Sabrina Ionescu** 🔴 +4 | 537 |
+| 94 | Layshia Clarendon | 536 |
 | 95 | Ivory Latta | 534 |
 | 95 | Iziane Castro Marques | 534 |
 | 97 | Mwadi Mabika | 532 |
