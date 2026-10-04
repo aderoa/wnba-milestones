@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-10-04 20:06 UTC_
+_Last updated: 2026-10-04 20:07 UTC_
 
 ## Contents
 
@@ -33,7 +33,7 @@ _Last updated: 2026-10-04 20:06 UTC_
 | 12 | Sylvia Fowles | 6,413 |
 | 13 | **Breanna Stewart** 🔴 +19 | 6,354 |
 | 14 | Lisa Leslie | 6,251 |
-| 15 | **A'ja Wilson** 🔴 | 6,178 |
+| 15 | **A'ja Wilson** 🔴 +2 | 6,180 |
 | 16 | **Jewell Loyd** 🔴 | 6,148 |
 | 17 | Brittney Griner | 6,087 |
 | 18 | Lauren Jackson | 6,005 |
@@ -110,7 +110,7 @@ _Last updated: 2026-10-04 20:06 UTC_
 | 89 | Erica Wheeler | 3,195 |
 | 90 | Danielle Robinson | 3,160 |
 | 91 | Wendy Palmer | 3,135 |
-| 92 | **Sabrina Ionescu** 🔴 +24 | 3,121 |
+| 92 | **Sabrina Ionescu** 🔴 +27 | 3,124 |
 | 93 | Shavonte Zellous | 3,103 |
 | 94 | Briann January | 3,082 |
 | 95 | Erika de Souza | 3,046 |
@@ -129,7 +129,7 @@ _Last updated: 2026-10-04 20:06 UTC_
 | 108 | Ticha Penicheiro | 2,729 |
 | 109 | Adrienne Goodson | 2,705 |
 | 110 | Riquna Williams | 2,659 |
-| 111 | **Rhyne Howard** 🔴 +13 | 2,650 |
+| 111 | **Rhyne Howard** 🔴 +14 | 2,651 |
 | 112 | Essence Carson | 2,647 |
 | 112 | Lindsey Harding | 2,647 |
 | 114 | Cheyenne Parker-Tyus | 2,645 |
@@ -259,7 +259,7 @@ _Last updated: 2026-10-04 20:06 UTC_
 | 33 | Elizabeth Williams | 1,978 |
 | 34 | Cheryl Ford | 1,907 |
 | 35 | Courtney Williams | 1,843 |
-| 36 | **Kiah Stokes** 🔴 +2 | 1,837 |
+| 36 | **Kiah Stokes** 🔴 +3 | 1,838 |
 | 37 | Plenette Pierson | 1,834 |
 | 38 | Natalie Williams | 1,832 |
 | 39 | Wendy Palmer | 1,824 |
@@ -462,7 +462,7 @@ _Last updated: 2026-10-04 20:06 UTC_
 | 30 | **DeWanna Bonner** 🔴 +2 | 1,198 |
 | 31 | Leilani Mitchell | 1,197 |
 | 32 | **Jewell Loyd** 🔴 +1 | 1,157 |
-| 33 | **Jackie Young** 🔴 | 1,150 |
+| 33 | **Jackie Young** 🔴 +1 | 1,151 |
 | 34 | Renee Montgomery | 1,140 |
 | 35 | Swin Cash | 1,131 |
 | 36 | **Sabrina Ionescu** 🔴 +1 | 1,093 |
@@ -1071,7 +1071,7 @@ _Last updated: 2026-10-04 20:06 UTC_
 | 21 | Allie Quigley | 510 |
 | 22 | Leilani Mitchell | 508 |
 | 23 | Marina Mabrey | 500 |
-| 24 | **Sabrina Ionescu** 🔴 +2 | 470 |
+| 24 | **Sabrina Ionescu** 🔴 +3 | 471 |
 | 25 | Shekinna Stricklen | 468 |
 | 26 | **Breanna Stewart** 🔴 +1 | 466 |
 | 27 | Cappie Pondexter | 464 |
