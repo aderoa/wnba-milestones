@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-10-04 20:35 UTC_
+_Last updated: 2026-10-04 20:36 UTC_
 
 ## Contents
 
@@ -58,7 +58,7 @@ _Last updated: 2026-10-04 20:35 UTC_
 | 37 | Chamique Holdsclaw | 4,713 |
 | 38 | Elena Delle Donne | 4,706 |
 | 39 | Natasha Howard | 4,682 |
-| 40 | **Chelsea Gray** 🔴 +3 | 4,628 |
+| 40 | **Chelsea Gray** 🔴 +5 | 4,630 |
 | 41 | Penny Taylor | 4,595 |
 | 42 | Allisha Gray | 4,498 |
 | 43 | Kelsey Plum | 4,494 |
@@ -193,8 +193,8 @@ _Last updated: 2026-10-04 20:35 UTC_
 | 172 | Latasha Byears | 1,920 |
 | 173 | Karima Christmas-Kelly | 1,919 |
 | 174 | Jessica Breland | 1,918 |
-| 175 | Nakia Sanford | 1,915 |
-| 176 | **Gabby Williams** 🔴 +15 | 1,914 |
+| 175 | **Gabby Williams** 🔴 +18 | 1,917 |
+| 176 | Nakia Sanford | 1,915 |
 | 177 | Ebony Hoffman | 1,909 |
 | 178 | Candice Wiggins | 1,901 |
 | 179 | NaLyssa Smith | 1,879 |
@@ -295,7 +295,7 @@ _Last updated: 2026-10-04 20:35 UTC_
 | 69 | Monique Billings | 1,431 |
 | 70 | Alana Beard | 1,420 |
 | 71 | Nakia Sanford | 1,419 |
-| 72 | **Kayla Thornton** 🔴 | 1,408 |
+| 72 | **Kayla Thornton** 🔴 +1 | 1,409 |
 | 73 | Allisha Gray | 1,405 |
 | 74 | Kara Braxton | 1,387 |
 | 75 | Courtney Vandersloot | 1,386 |
@@ -1189,7 +1189,7 @@ _Last updated: 2026-10-04 20:35 UTC_
 | 139 | Jennifer Azzi | 158 |
 | 139 | Natasha Howard | 158 |
 | 142 | Alanna Smith | 156 |
-| 143 | **Gabby Williams** 🔴 +2 | 155 |
+| 142 | **Gabby Williams** 🔴 +3 | 156 |
 | 144 | Bridget Pettis | 153 |
 | 144 | Jennifer Gillom | 153 |
 | 144 | Katie Lou Samuelson | 153 |
@@ -1563,7 +1563,7 @@ _Last updated: 2026-10-04 20:35 UTC_
 | 104 | **Kiah Stokes** 🔴 +1 | 652 |
 | 105 | Tari Phillips | 648 |
 | 106 | Marie Ferdinand-Harris | 646 |
-| 107 | **Chelsea Gray** 🔴 | 640 |
+| 107 | **Chelsea Gray** 🔴 +1 | 641 |
 | 108 | Charlotte Smith | 638 |
 | 109 | Teaira McCowan | 637 |
 | 110 | Janell Burse | 632 |
