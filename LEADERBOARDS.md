@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-10-04 19:53 UTC_
+_Last updated: 2026-10-04 19:54 UTC_
 
 ## Contents
 
@@ -150,7 +150,7 @@ _Last updated: 2026-10-04 19:53 UTC_
 | 129 | Anna DeForge | 2,413 |
 | 130 | Kayla Thornton | 2,393 |
 | 131 | DeMya Walker | 2,379 |
-| 132 | **Jordin Canada** 🔴 +17 | 2,359 |
+| 132 | **Jordin Canada** 🔴 +20 | 2,362 |
 | 133 | Alex Bentley | 2,350 |
 | 134 | Azurá Stevens | 2,343 |
 | 135 | Merlakia Jones | 2,308 |
@@ -550,7 +550,7 @@ _Last updated: 2026-10-04 19:53 UTC_
 | 118 | Janel McCarville | 551 |
 | 118 | Svetlana Abrosimova | 551 |
 | 120 | Michele Timms | 549 |
-| 121 | **Rhyne Howard** 🔴 +6 | 542 |
+| 121 | **Rhyne Howard** 🔴 +7 | 543 |
 | 122 | Myisha Hines-Allen | 529 |
 | 123 | Marie Ferdinand-Harris | 528 |
 | 124 | Margo Dydek | 524 |
@@ -1213,11 +1213,11 @@ _Last updated: 2026-10-04 19:53 UTC_
 | 163 | Shay Murphy | 134 |
 | 164 | Brooke Wyckoff | 132 |
 | 164 | Jenna O'Hea | 132 |
-| 166 | **Leonie Fiebich** 🔴 +2 | 131 |
-| 166 | Myisha Hines-Allen | 131 |
-| 168 | Amanda Zahui B | 130 |
-| 168 | Eva Nemcova | 130 |
-| 168 | **Jordin Canada** 🔴 +2 | 130 |
+| 164 | **Leonie Fiebich** 🔴 +3 | 132 |
+| 167 | **Jordin Canada** 🔴 +3 | 131 |
+| 167 | Myisha Hines-Allen | 131 |
+| 169 | Amanda Zahui B | 130 |
+| 169 | Eva Nemcova | 130 |
 | 171 | Crystal Dangerfield | 129 |
 | 172 | Ticha Penicheiro | 128 |
 | 173 | Michele Timms | 127 |
