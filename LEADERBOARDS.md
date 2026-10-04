@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-10-04 20:21 UTC_
+_Last updated: 2026-10-04 20:22 UTC_
 
 ## Contents
 
@@ -386,8 +386,8 @@ _Last updated: 2026-10-04 20:21 UTC_
 | 160 | Krystal Thomas | 862 |
 | 161 | Leilani Mitchell | 845 |
 | 162 | Essence Carson | 833 |
+| 163 | **Gabby Williams** 🔴 +1 | 832 |
 | 163 | Shakira Austin | 832 |
-| 164 | **Gabby Williams** 🔴 | 831 |
 | 165 | Kristi Toliver | 829 |
 | 166 | Marie Ferdinand-Harris | 828 |
 | 167 | Marlies Askamp | 822 |
@@ -1272,7 +1272,7 @@ _Last updated: 2026-10-04 20:21 UTC_
 | 18 | Cappie Pondexter | 945 |
 | 19 | Katie Smith | 935 |
 | 20 | Shannon Johnson | 934 |
-| 21 | **Chelsea Gray** 🔴 | 927 |
+| 21 | **Chelsea Gray** 🔴 +1 | 928 |
 | 22 | Skylar Diggins | 907 |
 | 23 | Taj McWilliams-Franklin | 898 |
 | 24 | Candice Dupree | 869 |
@@ -1547,10 +1547,10 @@ _Last updated: 2026-10-04 20:21 UTC_
 | 88 | Katie Douglas | 697 |
 | 89 | Danielle Robinson | 692 |
 | 90 | Breanna Stewart | 688 |
+| 91 | **Cheyenne Parker-Tyus** 🔴 +2 | 687 |
 | 91 | Sophia Young-Malcolm | 687 |
-| 92 | **Cheyenne Parker-Tyus** 🔴 +1 | 686 |
-| 92 | **Jewell Loyd** 🔴 +2 | 686 |
-| 92 | Maya Moore | 686 |
+| 93 | **Jewell Loyd** 🔴 +2 | 686 |
+| 93 | Maya Moore | 686 |
 | 95 | Jasmine Thomas | 685 |
 | 96 | Leilani Mitchell | 684 |
 | 97 | Crystal Robinson | 682 |
