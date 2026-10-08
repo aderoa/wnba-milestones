@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-10-08 03:08 UTC
+
+- **Jackie Young** passed **Kelly Miller** for **#101** all-time in steals (career 291) — up from #103 entering today — _End of 3rd — LV @ GS_
+
 ## 2026-10-04 20:08 UTC
 
 - **Rhyne Howard** passed **Allie Quigley** for **#200** all-time in rebounds (career 703) — new to top 200 today — _21.6 - 4th — NY @ ATL_

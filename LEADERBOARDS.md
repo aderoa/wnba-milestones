@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-10-08 03:07 UTC_
+_Last updated: 2026-10-08 03:08 UTC_
 
 ## Contents
 
@@ -58,7 +58,7 @@ _Last updated: 2026-10-08 03:07 UTC_
 | 37 | Chamique Holdsclaw | 4,713 |
 | 38 | Elena Delle Donne | 4,706 |
 | 39 | Natasha Howard | 4,682 |
-| 40 | **Chelsea Gray** 🔴 +10 | 4,635 |
+| 40 | **Chelsea Gray** 🔴 +12 | 4,637 |
 | 41 | Penny Taylor | 4,595 |
 | 42 | Kelsey Plum | 4,494 |
 | 43 | Allisha Gray | 4,491 |
@@ -237,7 +237,7 @@ _Last updated: 2026-10-08 03:07 UTC_
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | Alyssa Thomas | 2,858 |
 | 13 | Jonquel Jones | 2,736 |
-| 14 | **A'ja Wilson** 🔴 +4 | 2,661 |
+| 14 | **A'ja Wilson** 🔴 +5 | 2,662 |
 | 15 | Breanna Stewart | 2,643 |
 | 16 | Sancho Lyttle | 2,596 |
 | 17 | Brittney Griner | 2,579 |
@@ -942,8 +942,8 @@ _Last updated: 2026-10-08 03:07 UTC_
 | 98 | Elizabeth Williams | 295 |
 | 98 | Lindsey Harding | 295 |
 | 100 | Janel McCarville | 294 |
-| 101 | **Jackie Young** 🔴 +3 | 290 |
-| 101 | Kelly Miller | 290 |
+| 101 | **Jackie Young** 🔴 +4 | 291 |
+| 102 | Kelly Miller | 290 |
 | 103 | Glory Johnson | 289 |
 | 104 | Essence Carson | 285 |
 | 105 | Seimone Augustus | 280 |

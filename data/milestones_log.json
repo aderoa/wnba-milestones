@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-10-08T03:08:00+00:00",
+    "text": "Jackie Young passed Kelly Miller for #101 all-time in steals (career 291) \u2014 up from #103 entering today \u2014 (End of 3rd \u2014 LV @ GS)",
+    "kind": "rank_pass",
+    "player": "Jackie Young",
+    "stat": "steals",
+    "rank": 101,
+    "passed_players": [
+      "Kelly Miller"
+    ],
+    "new_total": 291
+  },
+  {
     "ts": "2026-10-04T20:08:00+00:00",
     "text": "Rhyne Howard passed Allie Quigley for #200 all-time in rebounds (career 703) \u2014 new to top 200 today \u2014 (21.6 - 4th \u2014 NY @ ATL)",
     "kind": "rank_pass",
@@ -2958,18 +2970,5 @@
       "Jasmine Thomas"
     ],
     "new_total": 1028
-  },
-  {
-    "ts": "2026-07-11T18:43:00+00:00",
-    "text": "Kayla McBride passed Erlana Larkins and Monique Billings for #144 all-time in fouls (career 547) \u2014 up from #147 entering today \u2014 (6:33 - 4th \u2014 NY @ MIN)",
-    "kind": "rank_pass",
-    "player": "Kayla McBride",
-    "stat": "fouls",
-    "rank": 144,
-    "passed_players": [
-      "Erlana Larkins",
-      "Monique Billings"
-    ],
-    "new_total": 547
   }
 ]
