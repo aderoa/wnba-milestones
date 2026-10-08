@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-10-08 00:20 UTC_
+_Last updated: 2026-10-08 00:21 UTC_
 
 ## Contents
 
@@ -111,7 +111,7 @@ _Last updated: 2026-10-08 00:20 UTC_
 | 90 | Danielle Robinson | 3,160 |
 | 91 | Wendy Palmer | 3,135 |
 | 92 | Shavonte Zellous | 3,103 |
-| 93 | **Sabrina Ionescu** 🔴 +2 | 3,099 |
+| 93 | **Sabrina Ionescu** 🔴 +5 | 3,102 |
 | 94 | Briann January | 3,082 |
 | 95 | Erika de Souza | 3,046 |
 | 96 | Shameka Christon | 3,039 |
@@ -522,7 +522,7 @@ _Last updated: 2026-10-08 00:20 UTC_
 | 91 | Lindsay Allen | 657 |
 | 92 | Betty Lennox | 651 |
 | 92 | Plenette Pierson | 651 |
-| 94 | **Jonquel Jones** 🔴 | 647 |
+| 94 | **Jonquel Jones** 🔴 +1 | 648 |
 | 95 | Alex Bentley | 645 |
 | 96 | Asjha Jones | 637 |
 | 97 | Jennifer Azzi | 636 |
@@ -1070,8 +1070,8 @@ _Last updated: 2026-10-08 00:20 UTC_
 | 21 | Allie Quigley | 510 |
 | 22 | Leilani Mitchell | 508 |
 | 23 | Marina Mabrey | 500 |
-| 24 | **Sabrina Ionescu** 🔴 | 468 |
-| 24 | Shekinna Stricklen | 468 |
+| 24 | **Sabrina Ionescu** 🔴 +1 | 469 |
+| 25 | Shekinna Stricklen | 468 |
 | 26 | **Breanna Stewart** 🔴 +2 | 467 |
 | 27 | Cappie Pondexter | 464 |
 | 28 | Allisha Gray | 458 |
@@ -1496,7 +1496,7 @@ _Last updated: 2026-10-08 00:20 UTC_
 | 36 | Tamika Whitmore | 940 |
 | 38 | **DeWanna Bonner** 🔴 +1 | 923 |
 | 39 | Briann January | 921 |
-| 40 | **Jonquel Jones** 🔴 +1 | 914 |
+| 40 | **Jonquel Jones** 🔴 +2 | 915 |
 | 41 | Ticha Penicheiro | 913 |
 | 42 | Shavonte Zellous | 907 |
 | 43 | Alysha Clark | 905 |
