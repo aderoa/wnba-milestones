@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-10-08 03:41 UTC_
+_Last updated: 2026-10-08 03:42 UTC_
 
 ## Contents
 
@@ -191,9 +191,9 @@ _Last updated: 2026-10-08 03:41 UTC_
 | 170 | Cathrine Kraayeveld | 1,926 |
 | 171 | Roneeka Hodges | 1,925 |
 | 172 | Latasha Byears | 1,920 |
+| 173 | **Gabby Williams** 🔴 +20 | 1,919 |
 | 173 | Karima Christmas-Kelly | 1,919 |
-| 174 | Jessica Breland | 1,918 |
-| 175 | **Gabby Williams** 🔴 +18 | 1,917 |
+| 175 | Jessica Breland | 1,918 |
 | 176 | Nakia Sanford | 1,915 |
 | 177 | Ebony Hoffman | 1,909 |
 | 178 | Candice Wiggins | 1,901 |
