@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-10-08 00:28 UTC_
+_Last updated: 2026-10-08 00:30 UTC_
 
 ## Contents
 
@@ -31,7 +31,7 @@ _Last updated: 2026-10-08 00:28 UTC_
 | 10 | Candace Parker | 6,574 |
 | 11 | Katie Smith | 6,450 |
 | 12 | Sylvia Fowles | 6,413 |
-| 13 | **Breanna Stewart** 🔴 +21 | 6,356 |
+| 13 | **Breanna Stewart** 🔴 +23 | 6,358 |
 | 14 | Lisa Leslie | 6,251 |
 | 15 | A'ja Wilson | 6,178 |
 | 16 | Jewell Loyd | 6,148 |
@@ -132,8 +132,8 @@ _Last updated: 2026-10-08 00:28 UTC_
 | 111 | Essence Carson | 2,647 |
 | 111 | Lindsey Harding | 2,647 |
 | 113 | Cheyenne Parker-Tyus | 2,645 |
-| 114 | **Rhyne Howard** 🔴 +4 | 2,641 |
-| 114 | Tamera Young | 2,641 |
+| 114 | **Rhyne Howard** 🔴 +7 | 2,644 |
+| 115 | Tamera Young | 2,641 |
 | 116 | Liz Cambage | 2,634 |
 | 117 | Janeth Arcain | 2,633 |
 | 118 | Temeka Johnson | 2,620 |
@@ -238,7 +238,7 @@ _Last updated: 2026-10-08 00:28 UTC_
 | 12 | Alyssa Thomas | 2,858 |
 | 13 | **Jonquel Jones** 🔴 +3 | 2,731 |
 | 14 | A'ja Wilson | 2,657 |
-| 15 | **Breanna Stewart** 🔴 +2 | 2,634 |
+| 15 | **Breanna Stewart** 🔴 +3 | 2,635 |
 | 16 | Sancho Lyttle | 2,596 |
 | 17 | Brittney Griner | 2,579 |
 | 18 | DeLisha Milton-Jones | 2,574 |
@@ -382,8 +382,8 @@ _Last updated: 2026-10-08 00:28 UTC_
 | 156 | Alanna Smith | 878 |
 | 157 | Marina Mabrey | 874 |
 | 158 | Shameka Christon | 867 |
-| 159 | Krystal Thomas | 862 |
-| 159 | **Naz Hillmon** 🔴 +3 | 862 |
+| 159 | **Naz Hillmon** 🔴 +4 | 863 |
+| 160 | Krystal Thomas | 862 |
 | 161 | Leilani Mitchell | 845 |
 | 162 | Essence Carson | 833 |
 | 163 | Shakira Austin | 832 |
@@ -454,7 +454,7 @@ _Last updated: 2026-10-08 00:28 UTC_
 | 23 | Teresa Weatherspoon | 1,333 |
 | 24 | Kristi Toliver | 1,301 |
 | 25 | Kelsey Plum | 1,270 |
-| 26 | **Jordin Canada** 🔴 +3 | 1,265 |
+| 26 | **Jordin Canada** 🔴 +4 | 1,266 |
 | 27 | Katie Smith | 1,258 |
 | 28 | Odyssey Sims | 1,228 |
 | 29 | Vickie Johnson | 1,202 |
@@ -1082,7 +1082,7 @@ _Last updated: 2026-10-08 00:28 UTC_
 | 33 | Lauren Jackson | 436 |
 | 34 | Shameka Christon | 434 |
 | 35 | Crystal Robinson | 425 |
-| 36 | **Rhyne Howard** 🔴 | 420 |
+| 36 | **Rhyne Howard** 🔴 +1 | 421 |
 | 37 | Mwadi Mabika | 415 |
 | 38 | Penny Taylor | 407 |
 | 38 | Riquna Williams | 407 |
