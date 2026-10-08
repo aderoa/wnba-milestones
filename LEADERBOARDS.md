@@ -1496,7 +1496,7 @@ _Last updated: 2026-10-08 01:03 UTC_
 | 36 | Tamika Whitmore | 940 |
 | 38 | **DeWanna Bonner** 🔴 +1 | 923 |
 | 39 | Briann January | 921 |
-| 40 | **Jonquel Jones** 🔴 +3 | 916 |
+| 40 | **Jonquel Jones** 🔴 +4 | 917 |
 | 41 | Ticha Penicheiro | 913 |
 | 42 | Shavonte Zellous | 907 |
 | 43 | Alysha Clark | 905 |
