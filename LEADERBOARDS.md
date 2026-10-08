@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-10-08 00:26 UTC_
+_Last updated: 2026-10-08 00:27 UTC_
 
 ## Contents
 
@@ -21,7 +21,7 @@ _Last updated: 2026-10-08 00:26 UTC_
 |-----:|--------|------:|
 | 1 | Diana Taurasi | 10,608 |
 | 2 | Tina Charles | 8,396 |
-| 3 | **DeWanna Bonner** 🔴 +4 | 7,976 |
+| 3 | **DeWanna Bonner** 🔴 +5 | 7,977 |
 | 4 | Nneka Ogwumike | 7,563 |
 | 5 | Tina Thompson | 7,470 |
 | 6 | Tamika Catchings | 7,371 |
@@ -31,7 +31,7 @@ _Last updated: 2026-10-08 00:26 UTC_
 | 10 | Candace Parker | 6,574 |
 | 11 | Katie Smith | 6,450 |
 | 12 | Sylvia Fowles | 6,413 |
-| 13 | **Breanna Stewart** 🔴 +19 | 6,354 |
+| 13 | **Breanna Stewart** 🔴 +21 | 6,356 |
 | 14 | Lisa Leslie | 6,251 |
 | 15 | A'ja Wilson | 6,178 |
 | 16 | Jewell Loyd | 6,148 |
@@ -351,7 +351,7 @@ _Last updated: 2026-10-08 00:26 UTC_
 | 125 | Tamecka Dixon | 1,035 |
 | 126 | Kamila Vodichkova | 1,031 |
 | 127 | Jasmine Thomas | 1,027 |
-| 128 | **Sabrina Ionescu** 🔴 +1 | 1,021 |
+| 128 | **Sabrina Ionescu** 🔴 +2 | 1,022 |
 | 129 | Jessica Shepard | 1,016 |
 | 130 | Cathrine Kraayeveld | 1,013 |
 | 131 | Kelly Miller | 1,011 |
@@ -383,7 +383,7 @@ _Last updated: 2026-10-08 00:26 UTC_
 | 157 | Marina Mabrey | 874 |
 | 158 | Shameka Christon | 867 |
 | 159 | Krystal Thomas | 862 |
-| 160 | **Naz Hillmon** 🔴 +2 | 861 |
+| 159 | **Naz Hillmon** 🔴 +3 | 862 |
 | 161 | Leilani Mitchell | 845 |
 | 162 | Essence Carson | 833 |
 | 163 | Shakira Austin | 832 |
@@ -464,7 +464,7 @@ _Last updated: 2026-10-08 00:26 UTC_
 | 33 | Jackie Young | 1,150 |
 | 34 | Renee Montgomery | 1,140 |
 | 35 | Swin Cash | 1,131 |
-| 36 | **Sabrina Ionescu** 🔴 +2 | 1,094 |
+| 36 | **Sabrina Ionescu** 🔴 +3 | 1,095 |
 | 37 | Lindsey Harding | 1,090 |
 | 38 | Katie Douglas | 1,069 |
 | 39 | Alana Beard | 1,061 |
@@ -647,8 +647,8 @@ _Last updated: 2026-10-08 00:26 UTC_
 | 11 | Elizabeth Williams | 503 |
 | 12 | **Breanna Stewart** 🔴 | 450 |
 | 13 | Taj McWilliams-Franklin | 443 |
-| 14 | **Jonquel Jones** 🔴 +3 | 428 |
-| 14 | Tina Charles | 428 |
+| 14 | **Jonquel Jones** 🔴 +4 | 429 |
+| 15 | Tina Charles | 428 |
 | 16 | Michelle Snow | 403 |
 | 17 | Tamika Catchings | 383 |
 | 18 | Tina Thompson | 372 |
