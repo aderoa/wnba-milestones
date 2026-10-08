@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-10-08 00:53 UTC_
+_Last updated: 2026-10-08 00:54 UTC_
 
 ## Contents
 
@@ -150,7 +150,7 @@ _Last updated: 2026-10-08 00:53 UTC_
 | 129 | Anna DeForge | 2,413 |
 | 130 | Kayla Thornton | 2,393 |
 | 131 | DeMya Walker | 2,379 |
-| 132 | **Jordin Canada** 🔴 +14 | 2,356 |
+| 132 | **Jordin Canada** 🔴 +17 | 2,359 |
 | 133 | Alex Bentley | 2,350 |
 | 134 | Azurá Stevens | 2,343 |
 | 135 | Merlakia Jones | 2,308 |
@@ -347,7 +347,7 @@ _Last updated: 2026-10-08 00:53 UTC_
 | 121 | Svetlana Abrosimova | 1,078 |
 | 122 | Le'coe Willingham | 1,054 |
 | 123 | Nicole Ohlde | 1,040 |
-| 124 | **Angel Reese** 🔴 +3 | 1,038 |
+| 124 | **Angel Reese** 🔴 +4 | 1,039 |
 | 125 | Tamecka Dixon | 1,035 |
 | 126 | Kamila Vodichkova | 1,031 |
 | 127 | Jasmine Thomas | 1,027 |
@@ -959,9 +959,9 @@ _Last updated: 2026-10-08 00:53 UTC_
 | 115 | Anna DeForge | 266 |
 | 116 | Brionna Jones | 265 |
 | 117 | Michelle Snow | 262 |
+| 118 | **Jonquel Jones** 🔴 +1 | 261 |
 | 118 | Karima Christmas-Kelly | 261 |
-| 119 | **Jonquel Jones** 🔴 | 260 |
-| 119 | Riquna Williams | 260 |
+| 120 | Riquna Williams | 260 |
 | 121 | Noelle Quinn | 256 |
 | 121 | **Rhyne Howard** 🔴 +2 | 256 |
 | 123 | Elaine Powell | 255 |
@@ -1212,10 +1212,10 @@ _Last updated: 2026-10-08 00:53 UTC_
 | 163 | Shay Murphy | 134 |
 | 164 | Brooke Wyckoff | 132 |
 | 164 | Jenna O'Hea | 132 |
+| 166 | **Jordin Canada** 🔴 +3 | 131 |
 | 166 | Myisha Hines-Allen | 131 |
-| 167 | Amanda Zahui B | 130 |
-| 167 | Eva Nemcova | 130 |
-| 167 | **Jordin Canada** 🔴 +2 | 130 |
+| 168 | Amanda Zahui B | 130 |
+| 168 | Eva Nemcova | 130 |
 | 170 | Crystal Dangerfield | 129 |
 | 170 | **Leonie Fiebich** 🔴 | 129 |
 | 172 | Ticha Penicheiro | 128 |
@@ -1347,10 +1347,10 @@ _Last updated: 2026-10-08 00:53 UTC_
 | 93 | Layshia Clarendon | 536 |
 | 94 | Ivory Latta | 534 |
 | 94 | Iziane Castro Marques | 534 |
-| 96 | **Sabrina Ionescu** 🔴 | 533 |
+| 94 | **Sabrina Ionescu** 🔴 +1 | 534 |
 | 97 | Mwadi Mabika | 532 |
+| 98 | **Jordin Canada** 🔴 +4 | 531 |
 | 98 | Nakia Sanford | 531 |
-| 99 | **Jordin Canada** 🔴 +3 | 530 |
 | 100 | Arike Ogunbowale | 529 |
 | 101 | Maya Moore | 527 |
 | 102 | Kara Lawson | 526 |
