@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-10-08 00:11 UTC_
+_Last updated: 2026-10-08 00:12 UTC_
 
 ## Contents
 
@@ -66,8 +66,8 @@ _Last updated: 2026-10-08 00:11 UTC_
 | 45 | Kahleah Copper | 4,437 |
 | 46 | Crystal Langhorne | 4,433 |
 | 46 | Jia Perkins | 4,433 |
-| 48 | Courtney Vandersloot | 4,362 |
-| 48 | **Jonquel Jones** 🔴 +9 | 4,362 |
+| 48 | **Jonquel Jones** 🔴 +11 | 4,364 |
+| 49 | Courtney Vandersloot | 4,362 |
 | 50 | Courtney Williams | 4,350 |
 | 51 | Dearica Hamby | 4,330 |
 | 52 | Sophia Young-Malcolm | 4,300 |
@@ -464,7 +464,7 @@ _Last updated: 2026-10-08 00:11 UTC_
 | 33 | Jackie Young | 1,150 |
 | 34 | Renee Montgomery | 1,140 |
 | 35 | Swin Cash | 1,131 |
-| 36 | **Sabrina Ionescu** 🔴 +1 | 1,093 |
+| 36 | **Sabrina Ionescu** 🔴 +2 | 1,094 |
 | 37 | Lindsey Harding | 1,090 |
 | 38 | Katie Douglas | 1,069 |
 | 39 | Alana Beard | 1,061 |
@@ -647,8 +647,8 @@ _Last updated: 2026-10-08 00:11 UTC_
 | 11 | Elizabeth Williams | 503 |
 | 12 | **Breanna Stewart** 🔴 | 450 |
 | 13 | Taj McWilliams-Franklin | 443 |
+| 14 | **Jonquel Jones** 🔴 +3 | 428 |
 | 14 | Tina Charles | 428 |
-| 15 | **Jonquel Jones** 🔴 +2 | 427 |
 | 16 | Michelle Snow | 403 |
 | 17 | Tamika Catchings | 383 |
 | 18 | Tina Thompson | 372 |
