@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-10-08 01:39 UTC_
+_Last updated: 2026-10-08 01:40 UTC_
 
 ## Contents
 
@@ -58,7 +58,7 @@ _Last updated: 2026-10-08 01:39 UTC_
 | 37 | Chamique Holdsclaw | 4,713 |
 | 38 | Elena Delle Donne | 4,706 |
 | 39 | Natasha Howard | 4,682 |
-| 40 | **Chelsea Gray** 🔴 | 4,625 |
+| 40 | **Chelsea Gray** 🔴 +3 | 4,628 |
 | 41 | Penny Taylor | 4,595 |
 | 42 | Kelsey Plum | 4,494 |
 | 43 | Allisha Gray | 4,491 |
@@ -196,7 +196,7 @@ _Last updated: 2026-10-08 01:39 UTC_
 | 175 | Nakia Sanford | 1,915 |
 | 176 | Ebony Hoffman | 1,909 |
 | 177 | Candice Wiggins | 1,901 |
-| 178 | **Gabby Williams** 🔴 | 1,899 |
+| 177 | **Gabby Williams** 🔴 +2 | 1,901 |
 | 179 | NaLyssa Smith | 1,879 |
 | 180 | Rachel Banham | 1,843 |
 | 181 | Damiris Dantas | 1,842 |
@@ -473,7 +473,7 @@ _Last updated: 2026-10-08 01:39 UTC_
 | 42 | Sheryl Swoopes | 1,037 |
 | 43 | Tina Charles | 1,033 |
 | 44 | Kayla McBride | 992 |
-| 45 | **Breanna Stewart** 🔴 +4 | 985 |
+| 45 | **Breanna Stewart** 🔴 +5 | 986 |
 | 46 | Nikki Teasley | 982 |
 | 47 | Tamecka Dixon | 960 |
 | 48 | Tiffany Hayes | 957 |
@@ -537,7 +537,7 @@ _Last updated: 2026-10-08 01:39 UTC_
 | 106 | Betnijah Laney-Hamilton | 590 |
 | 106 | Camille Smith | 590 |
 | 108 | Armintie Herrington | 589 |
-| 109 | **Veronica Burton** 🔴 +1 | 580 |
+| 109 | **Veronica Burton** 🔴 +2 | 581 |
 | 110 | Tan White | 578 |
 | 111 | Matee Ajavon | 577 |
 | 112 | Napheesa Collier | 570 |
@@ -1077,7 +1077,7 @@ _Last updated: 2026-10-08 01:39 UTC_
 | 28 | Allisha Gray | 458 |
 | 29 | Ariel Atkins | 455 |
 | 30 | Tiffany Hayes | 454 |
-| 31 | **Chelsea Gray** 🔴 | 450 |
+| 31 | **Chelsea Gray** 🔴 +1 | 451 |
 | 32 | Skylar Diggins | 447 |
 | 33 | Lauren Jackson | 436 |
 | 34 | Shameka Christon | 434 |
@@ -1374,7 +1374,7 @@ _Last updated: 2026-10-08 01:39 UTC_
 | 120 | Elaine Powell | 469 |
 | 121 | Allie Quigley | 467 |
 | 122 | Ariel Atkins | 465 |
-| 123 | **Jackie Young** 🔴 | 463 |
+| 123 | **Jackie Young** 🔴 +1 | 464 |
 | 124 | Betnijah Laney-Hamilton | 456 |
 | 125 | Kia Vaughn | 454 |
 | 126 | Janeth Arcain | 453 |
