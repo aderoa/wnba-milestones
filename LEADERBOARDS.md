@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-10-08 01:55 UTC_
+_Last updated: 2026-10-08 01:56 UTC_
 
 ## Contents
 
@@ -47,7 +47,7 @@ _Last updated: 2026-10-08 01:55 UTC_
 | 26 | Lindsay Whalen | 5,511 |
 | 27 | Kelsey Mitchell | 5,198 |
 | 28 | Swin Cash | 5,119 |
-| 29 | **Tiffany Hayes** 🔴 +1 | 5,050 |
+| 29 | **Tiffany Hayes** 🔴 +2 | 5,051 |
 | 30 | Tangela Smith | 5,035 |
 | 31 | Taj McWilliams-Franklin | 4,992 |
 | 32 | Maya Moore | 4,984 |
@@ -944,7 +944,7 @@ _Last updated: 2026-10-08 01:55 UTC_
 | 100 | Janel McCarville | 294 |
 | 101 | Kelly Miller | 290 |
 | 102 | Glory Johnson | 289 |
-| 103 | **Jackie Young** 🔴 +1 | 288 |
+| 102 | **Jackie Young** 🔴 +2 | 289 |
 | 104 | Essence Carson | 285 |
 | 105 | Seimone Augustus | 280 |
 | 106 | Tari Phillips | 277 |
@@ -1374,7 +1374,7 @@ _Last updated: 2026-10-08 01:55 UTC_
 | 120 | Elaine Powell | 469 |
 | 121 | Allie Quigley | 467 |
 | 122 | Ariel Atkins | 465 |
-| 123 | **Jackie Young** 🔴 +1 | 464 |
+| 122 | **Jackie Young** 🔴 +2 | 465 |
 | 124 | Betnijah Laney-Hamilton | 456 |
 | 125 | Kia Vaughn | 454 |
 | 126 | Janeth Arcain | 453 |
