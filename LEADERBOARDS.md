@@ -21,7 +21,7 @@ _Last updated: 2026-10-08 00:30 UTC_
 |-----:|--------|------:|
 | 1 | Diana Taurasi | 10,608 |
 | 2 | Tina Charles | 8,396 |
-| 3 | **DeWanna Bonner** 🔴 +5 | 7,977 |
+| 3 | **DeWanna Bonner** 🔴 +7 | 7,979 |
 | 4 | Nneka Ogwumike | 7,563 |
 | 5 | Tina Thompson | 7,470 |
 | 6 | Tamika Catchings | 7,371 |
@@ -31,7 +31,7 @@ _Last updated: 2026-10-08 00:30 UTC_
 | 10 | Candace Parker | 6,574 |
 | 11 | Katie Smith | 6,450 |
 | 12 | Sylvia Fowles | 6,413 |
-| 13 | **Breanna Stewart** 🔴 +23 | 6,358 |
+| 13 | **Breanna Stewart** 🔴 +25 | 6,360 |
 | 14 | Lisa Leslie | 6,251 |
 | 15 | A'ja Wilson | 6,178 |
 | 16 | Jewell Loyd | 6,148 |
@@ -464,7 +464,7 @@ _Last updated: 2026-10-08 00:30 UTC_
 | 33 | Jackie Young | 1,150 |
 | 34 | Renee Montgomery | 1,140 |
 | 35 | Swin Cash | 1,131 |
-| 36 | **Sabrina Ionescu** 🔴 +3 | 1,095 |
+| 36 | **Sabrina Ionescu** 🔴 +4 | 1,096 |
 | 37 | Lindsey Harding | 1,090 |
 | 38 | Katie Douglas | 1,069 |
 | 39 | Alana Beard | 1,061 |
