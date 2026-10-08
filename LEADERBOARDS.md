@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-10-08 03:38 UTC_
+_Last updated: 2026-10-08 03:39 UTC_
 
 ## Contents
 
@@ -58,7 +58,7 @@ _Last updated: 2026-10-08 03:38 UTC_
 | 37 | Chamique Holdsclaw | 4,713 |
 | 38 | Elena Delle Donne | 4,706 |
 | 39 | Natasha Howard | 4,682 |
-| 40 | **Chelsea Gray** 🔴 +14 | 4,639 |
+| 40 | **Chelsea Gray** 🔴 +17 | 4,642 |
 | 41 | Penny Taylor | 4,595 |
 | 42 | Kelsey Plum | 4,494 |
 | 43 | Allisha Gray | 4,491 |
@@ -316,8 +316,8 @@ _Last updated: 2026-10-08 03:38 UTC_
 | 90 | Myisha Hines-Allen | 1,265 |
 | 91 | Janel McCarville | 1,261 |
 | 92 | **Tiffany Hayes** 🔴 +2 | 1,259 |
+| 93 | **Chelsea Gray** 🔴 +1 | 1,258 |
 | 93 | Liz Cambage | 1,258 |
-| 94 | **Chelsea Gray** 🔴 | 1,257 |
 | 95 | Kayla McBride | 1,256 |
 | 96 | **Brianna Turner** 🔴 | 1,243 |
 | 96 | Ezi Magbegor | 1,243 |
@@ -460,8 +460,8 @@ _Last updated: 2026-10-08 03:38 UTC_
 | 29 | Vickie Johnson | 1,202 |
 | 30 | DeWanna Bonner | 1,199 |
 | 31 | Leilani Mitchell | 1,197 |
-| 32 | **Jackie Young** 🔴 +6 | 1,156 |
-| 32 | Jewell Loyd | 1,156 |
+| 32 | **Jackie Young** 🔴 +8 | 1,158 |
+| 33 | Jewell Loyd | 1,156 |
 | 34 | Renee Montgomery | 1,140 |
 | 35 | Swin Cash | 1,131 |
 | 36 | Sabrina Ionescu | 1,099 |
@@ -1077,7 +1077,7 @@ _Last updated: 2026-10-08 03:38 UTC_
 | 28 | Allisha Gray | 458 |
 | 29 | Ariel Atkins | 455 |
 | 29 | **Tiffany Hayes** 🔴 +1 | 455 |
-| 31 | **Chelsea Gray** 🔴 +2 | 452 |
+| 31 | **Chelsea Gray** 🔴 +3 | 453 |
 | 32 | Skylar Diggins | 447 |
 | 33 | Lauren Jackson | 436 |
 | 34 | Shameka Christon | 434 |
@@ -1182,9 +1182,9 @@ _Last updated: 2026-10-08 03:38 UTC_
 | 133 | **Stephanie Talbot** 🔴 +2 | 162 |
 | 133 | Tyasha Harris | 162 |
 | 133 | Ukari Figgs | 162 |
+| 136 | **Dana Evans** 🔴 +1 | 161 |
 | 136 | Edna Campbell | 161 |
-| 137 | **Dana Evans** 🔴 | 160 |
-| 137 | Jennifer Lacy | 160 |
+| 138 | Jennifer Lacy | 160 |
 | 139 | Aari McDonald | 158 |
 | 139 | Jennifer Azzi | 158 |
 | 139 | Natasha Howard | 158 |
