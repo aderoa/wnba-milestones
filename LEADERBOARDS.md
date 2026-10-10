@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-10-10 01:48 UTC_
+_Last updated: 2026-10-10 01:49 UTC_
 
 ## Contents
 
@@ -21,7 +21,7 @@ _Last updated: 2026-10-10 01:48 UTC_
 |-----:|--------|------:|
 | 1 | Diana Taurasi | 10,608 |
 | 2 | Tina Charles | 8,396 |
-| 3 | **DeWanna Bonner** 🔴 +11 | 7,983 |
+| 3 | **DeWanna Bonner** 🔴 +13 | 7,985 |
 | 4 | Nneka Ogwumike | 7,563 |
 | 5 | Tina Thompson | 7,470 |
 | 6 | Tamika Catchings | 7,371 |
@@ -33,7 +33,7 @@ _Last updated: 2026-10-10 01:48 UTC_
 | 12 | Sylvia Fowles | 6,413 |
 | 13 | **Breanna Stewart** 🔴 +24 | 6,359 |
 | 14 | Lisa Leslie | 6,251 |
-| 15 | **A'ja Wilson** 🔴 +6 | 6,184 |
+| 15 | **A'ja Wilson** 🔴 +7 | 6,185 |
 | 16 | **Jewell Loyd** 🔴 | 6,148 |
 | 17 | Brittney Griner | 6,087 |
 | 18 | Lauren Jackson | 6,005 |
@@ -237,7 +237,7 @@ _Last updated: 2026-10-10 01:48 UTC_
 | 11 | Taj McWilliams-Franklin | 3,006 |
 | 12 | Alyssa Thomas | 2,858 |
 | 13 | **Jonquel Jones** 🔴 +14 | 2,742 |
-| 14 | **A'ja Wilson** 🔴 | 2,657 |
+| 14 | **A'ja Wilson** 🔴 +1 | 2,658 |
 | 15 | **Breanna Stewart** 🔴 +3 | 2,635 |
 | 16 | Sancho Lyttle | 2,596 |
 | 17 | Brittney Griner | 2,579 |
@@ -316,8 +316,8 @@ _Last updated: 2026-10-10 01:48 UTC_
 | 90 | Myisha Hines-Allen | 1,265 |
 | 91 | Janel McCarville | 1,261 |
 | 92 | Liz Cambage | 1,258 |
-| 93 | **Chelsea Gray** 🔴 | 1,257 |
-| 93 | **Tiffany Hayes** 🔴 | 1,257 |
+| 92 | **Tiffany Hayes** 🔴 +1 | 1,258 |
+| 94 | **Chelsea Gray** 🔴 | 1,257 |
 | 95 | Kayla McBride | 1,256 |
 | 96 | **Brianna Turner** 🔴 | 1,243 |
 | 96 | Ezi Magbegor | 1,243 |
@@ -477,7 +477,7 @@ _Last updated: 2026-10-10 01:48 UTC_
 | 45 | **Breanna Stewart** 🔴 +6 | 987 |
 | 46 | Nikki Teasley | 982 |
 | 47 | Tamecka Dixon | 960 |
-| 48 | **Tiffany Hayes** 🔴 | 957 |
+| 48 | **Tiffany Hayes** 🔴 +1 | 958 |
 | 49 | Kara Lawson | 946 |
 | 50 | Arike Ogunbowale | 944 |
 | 51 | Nneka Ogwumike | 933 |
@@ -1238,7 +1238,7 @@ _Last updated: 2026-10-10 01:48 UTC_
 | 187 | Rickea Jackson | 114 |
 | 187 | Sandy Brondello | 114 |
 | 190 | **Cecilia Zandalasini** 🔴 | 111 |
-| 190 | Janelle Salaun | 111 |
+| 190 | **Janelle Salaun** 🔴 | 111 |
 | 190 | Shoni Schimmel | 111 |
 | 193 | Emma Meesseman | 109 |
 | 193 | Scholanda Dorrell | 109 |
