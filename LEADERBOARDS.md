@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-10-10 02:18 UTC_
+_Last updated: 2026-10-10 02:19 UTC_
 
 ## Contents
 
@@ -315,9 +315,9 @@ _Last updated: 2026-10-10 02:18 UTC_
 | 89 | Tari Phillips | 1,274 |
 | 90 | Myisha Hines-Allen | 1,265 |
 | 91 | Janel McCarville | 1,261 |
+| 92 | **Chelsea Gray** 🔴 +1 | 1,258 |
 | 92 | Liz Cambage | 1,258 |
 | 92 | **Tiffany Hayes** 🔴 +1 | 1,258 |
-| 94 | **Chelsea Gray** 🔴 | 1,257 |
 | 95 | Kayla McBride | 1,256 |
 | 96 | **Brianna Turner** 🔴 +1 | 1,244 |
 | 97 | Ezi Magbegor | 1,243 |
@@ -461,7 +461,7 @@ _Last updated: 2026-10-10 02:18 UTC_
 | 29 | Vickie Johnson | 1,202 |
 | 30 | DeWanna Bonner | 1,197 |
 | 30 | Leilani Mitchell | 1,197 |
-| 32 | **Jewell Loyd** 🔴 | 1,156 |
+| 32 | **Jewell Loyd** 🔴 +1 | 1,157 |
 | 33 | **Jackie Young** 🔴 +2 | 1,152 |
 | 34 | Renee Montgomery | 1,140 |
 | 35 | Swin Cash | 1,131 |
@@ -729,11 +729,11 @@ _Last updated: 2026-10-10 02:18 UTC_
 | 91 | Nakia Sanford | 131 |
 | 93 | Brooke Wyckoff | 129 |
 | 93 | Cathrine Kraayeveld | 129 |
+| 95 | **Chelsea Gray** 🔴 +1 | 128 |
 | 95 | Emily Engstler | 128 |
-| 96 | Alyssa Thomas | 127 |
-| 96 | **Chelsea Gray** 🔴 | 127 |
-| 96 | Chiney Ogwumike | 127 |
-| 96 | Kristen Rasmussen | 127 |
+| 97 | Alyssa Thomas | 127 |
+| 97 | Chiney Ogwumike | 127 |
+| 97 | Kristen Rasmussen | 127 |
 | 100 | Katie Douglas | 126 |
 | 100 | Mistie Bass | 126 |
 | 102 | Brionna Jones | 125 |
@@ -1182,10 +1182,10 @@ _Last updated: 2026-10-10 02:18 UTC_
 | 132 | Charlotte Smith | 164 |
 | 133 | Tyasha Harris | 162 |
 | 133 | Ukari Figgs | 162 |
+| 135 | **Dana Evans** 🔴 +1 | 161 |
 | 135 | Edna Campbell | 161 |
-| 136 | **Dana Evans** 🔴 | 160 |
-| 136 | Jennifer Lacy | 160 |
-| 136 | **Stephanie Talbot** 🔴 | 160 |
+| 137 | Jennifer Lacy | 160 |
+| 137 | **Stephanie Talbot** 🔴 | 160 |
 | 139 | Aari McDonald | 158 |
 | 139 | Jennifer Azzi | 158 |
 | 139 | Natasha Howard | 158 |
