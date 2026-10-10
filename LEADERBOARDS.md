@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-10-10 01:49 UTC_
+_Last updated: 2026-10-10 01:50 UTC_
 
 ## Contents
 
@@ -31,7 +31,7 @@ _Last updated: 2026-10-10 01:49 UTC_
 | 10 | Candace Parker | 6,574 |
 | 11 | Katie Smith | 6,450 |
 | 12 | Sylvia Fowles | 6,413 |
-| 13 | **Breanna Stewart** 🔴 +24 | 6,359 |
+| 13 | **Breanna Stewart** 🔴 +26 | 6,361 |
 | 14 | Lisa Leslie | 6,251 |
 | 15 | **A'ja Wilson** 🔴 +7 | 6,185 |
 | 16 | **Jewell Loyd** 🔴 | 6,148 |
@@ -58,7 +58,7 @@ _Last updated: 2026-10-10 01:49 UTC_
 | 37 | Chamique Holdsclaw | 4,713 |
 | 38 | Elena Delle Donne | 4,706 |
 | 39 | Natasha Howard | 4,682 |
-| 40 | **Chelsea Gray** 🔴 | 4,625 |
+| 40 | **Chelsea Gray** 🔴 +2 | 4,627 |
 | 41 | Penny Taylor | 4,595 |
 | 42 | Kelsey Plum | 4,494 |
 | 43 | Allisha Gray | 4,491 |
@@ -238,7 +238,7 @@ _Last updated: 2026-10-10 01:49 UTC_
 | 12 | Alyssa Thomas | 2,858 |
 | 13 | **Jonquel Jones** 🔴 +14 | 2,742 |
 | 14 | **A'ja Wilson** 🔴 +1 | 2,658 |
-| 15 | **Breanna Stewart** 🔴 +3 | 2,635 |
+| 15 | **Breanna Stewart** 🔴 +4 | 2,636 |
 | 16 | Sancho Lyttle | 2,596 |
 | 17 | Brittney Griner | 2,579 |
 | 18 | DeLisha Milton-Jones | 2,574 |
