@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-10-10 00:09 UTC_
+_Last updated: 2026-10-10 00:10 UTC_
 
 ## Contents
 
@@ -238,7 +238,7 @@ _Last updated: 2026-10-10 00:09 UTC_
 | 12 | Alyssa Thomas | 2,858 |
 | 13 | **Jonquel Jones** 🔴 +4 | 2,732 |
 | 14 | A'ja Wilson | 2,657 |
-| 15 | **Breanna Stewart** 🔴 +4 | 2,636 |
+| 15 | **Breanna Stewart** 🔴 +3 | 2,635 |
 | 16 | Sancho Lyttle | 2,596 |
 | 17 | Brittney Griner | 2,579 |
 | 18 | DeLisha Milton-Jones | 2,574 |
@@ -351,7 +351,7 @@ _Last updated: 2026-10-10 00:09 UTC_
 | 125 | Tamecka Dixon | 1,035 |
 | 126 | Kamila Vodichkova | 1,031 |
 | 127 | Jasmine Thomas | 1,027 |
-| 128 | **Sabrina Ionescu** 🔴 +2 | 1,022 |
+| 128 | **Sabrina Ionescu** 🔴 +3 | 1,023 |
 | 129 | Jessica Shepard | 1,016 |
 | 130 | Cathrine Kraayeveld | 1,013 |
 | 131 | Kelly Miller | 1,011 |
@@ -1548,10 +1548,10 @@ _Last updated: 2026-10-10 00:09 UTC_
 | 88 | Katie Douglas | 697 |
 | 89 | Danielle Robinson | 692 |
 | 90 | Sophia Young-Malcolm | 687 |
+| 91 | **Breanna Stewart** 🔴 +1 | 686 |
 | 91 | Maya Moore | 686 |
-| 92 | **Breanna Stewart** 🔴 | 685 |
-| 92 | Cheyenne Parker-Tyus | 685 |
-| 92 | Jasmine Thomas | 685 |
+| 93 | Cheyenne Parker-Tyus | 685 |
+| 93 | Jasmine Thomas | 685 |
 | 95 | Jewell Loyd | 684 |
 | 95 | Leilani Mitchell | 684 |
 | 97 | Crystal Robinson | 682 |
