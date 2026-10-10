@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-10-10 03:14 UTC_
+_Last updated: 2026-10-10 03:15 UTC_
 
 ## Contents
 
@@ -314,8 +314,8 @@ _Last updated: 2026-10-10 03:14 UTC_
 | 88 | Betty Lennox | 1,296 |
 | 89 | Tari Phillips | 1,274 |
 | 90 | Myisha Hines-Allen | 1,265 |
-| 91 | **Chelsea Gray** 🔴 +4 | 1,261 |
-| 91 | Janel McCarville | 1,261 |
+| 91 | **Chelsea Gray** 🔴 +5 | 1,262 |
+| 92 | Janel McCarville | 1,261 |
 | 93 | **Tiffany Hayes** 🔴 +3 | 1,260 |
 | 94 | Liz Cambage | 1,258 |
 | 95 | Kayla McBride | 1,256 |
@@ -435,7 +435,7 @@ _Last updated: 2026-10-10 03:14 UTC_
 | 3 | Ticha Penicheiro | 2,588 |
 | 4 | Diana Taurasi | 2,389 |
 | 5 | Lindsay Whalen | 2,347 |
-| 6 | **Chelsea Gray** 🔴 +2 | 2,005 |
+| 6 | **Chelsea Gray** 🔴 +3 | 2,006 |
 | 7 | Alyssa Thomas | 1,971 |
 | 8 | Skylar Diggins | 1,852 |
 | 9 | Natasha Cloud | 1,802 |
