@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-10-10 00:04 UTC_
+_Last updated: 2026-10-10 00:05 UTC_
 
 ## Contents
 
@@ -231,7 +231,7 @@ _Last updated: 2026-10-10 00:04 UTC_
 | 5 | Rebekkah Brunson | 3,345 |
 | 6 | Tamika Catchings | 3,313 |
 | 7 | Lisa Leslie | 3,303 |
-| 8 | **DeWanna Bonner** 🔴 +5 | 3,295 |
+| 8 | **DeWanna Bonner** 🔴 +6 | 3,296 |
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
@@ -459,8 +459,8 @@ _Last updated: 2026-10-10 00:04 UTC_
 | 27 | Katie Smith | 1,258 |
 | 28 | Odyssey Sims | 1,228 |
 | 29 | Vickie Johnson | 1,202 |
+| 30 | **DeWanna Bonner** 🔴 +1 | 1,197 |
 | 30 | Leilani Mitchell | 1,197 |
-| 31 | **DeWanna Bonner** 🔴 | 1,196 |
 | 32 | Jewell Loyd | 1,156 |
 | 33 | Jackie Young | 1,150 |
 | 34 | Renee Montgomery | 1,140 |
@@ -1348,7 +1348,7 @@ _Last updated: 2026-10-10 00:04 UTC_
 | 93 | Layshia Clarendon | 536 |
 | 94 | Ivory Latta | 534 |
 | 94 | Iziane Castro Marques | 534 |
-| 96 | **Sabrina Ionescu** 🔴 | 533 |
+| 94 | **Sabrina Ionescu** 🔴 +1 | 534 |
 | 97 | Mwadi Mabika | 532 |
 | 98 | Nakia Sanford | 531 |
 | 99 | Arike Ogunbowale | 529 |
