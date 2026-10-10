@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-10-10 03:00 UTC_
+_Last updated: 2026-10-10 03:01 UTC_
 
 ## Contents
 
@@ -658,7 +658,7 @@ _Last updated: 2026-10-10 03:00 UTC_
 | 21 | Jessica Breland | 367 |
 | 22 | DeWanna Bonner | 359 |
 | 23 | Ezi Magbegor | 354 |
-| 24 | **Kiah Stokes** 🔴 | 352 |
+| 24 | **Kiah Stokes** 🔴 +1 | 353 |
 | 25 | Diana Taurasi | 349 |
 | 25 | Elena Delle Donne | 349 |
 | 27 | DeLisha Milton-Jones | 339 |
