@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-10-10 03:13 UTC_
+_Last updated: 2026-10-10 03:14 UTC_
 
 ## Contents
 
@@ -33,7 +33,7 @@ _Last updated: 2026-10-10 03:13 UTC_
 | 12 | Sylvia Fowles | 6,413 |
 | 13 | Breanna Stewart | 6,361 |
 | 14 | Lisa Leslie | 6,251 |
-| 15 | **A'ja Wilson** 🔴 +16 | 6,194 |
+| 15 | **A'ja Wilson** 🔴 +17 | 6,195 |
 | 16 | **Jewell Loyd** 🔴 +3 | 6,151 |
 | 17 | Brittney Griner | 6,087 |
 | 18 | Lauren Jackson | 6,005 |
@@ -195,7 +195,7 @@ _Last updated: 2026-10-10 03:13 UTC_
 | 174 | Jessica Breland | 1,918 |
 | 175 | Nakia Sanford | 1,915 |
 | 176 | Ebony Hoffman | 1,909 |
-| 177 | **Gabby Williams** 🔴 +4 | 1,903 |
+| 177 | **Gabby Williams** 🔴 +6 | 1,905 |
 | 178 | Candice Wiggins | 1,901 |
 | 179 | NaLyssa Smith | 1,879 |
 | 180 | Rachel Banham | 1,843 |
@@ -259,7 +259,7 @@ _Last updated: 2026-10-10 03:13 UTC_
 | 33 | Elizabeth Williams | 1,978 |
 | 34 | Cheryl Ford | 1,907 |
 | 35 | Courtney Williams | 1,843 |
-| 36 | **Kiah Stokes** 🔴 +7 | 1,842 |
+| 35 | **Kiah Stokes** 🔴 +8 | 1,843 |
 | 37 | Plenette Pierson | 1,834 |
 | 38 | Natalie Williams | 1,832 |
 | 39 | Wendy Palmer | 1,824 |
@@ -476,8 +476,8 @@ _Last updated: 2026-10-10 03:13 UTC_
 | 44 | Kayla McBride | 992 |
 | 45 | Breanna Stewart | 987 |
 | 46 | Nikki Teasley | 982 |
-| 47 | Tamecka Dixon | 960 |
-| 47 | **Tiffany Hayes** 🔴 +3 | 960 |
+| 47 | **Tiffany Hayes** 🔴 +4 | 961 |
+| 48 | Tamecka Dixon | 960 |
 | 49 | Kara Lawson | 946 |
 | 50 | Arike Ogunbowale | 944 |
 | 51 | Nneka Ogwumike | 933 |
