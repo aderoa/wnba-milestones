@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-10-10 03:51 UTC_
+_Last updated: 2026-10-10 03:52 UTC_
 
 ## Contents
 
@@ -194,7 +194,7 @@ _Last updated: 2026-10-10 03:51 UTC_
 | 173 | Karima Christmas-Kelly | 1,919 |
 | 174 | Jessica Breland | 1,918 |
 | 175 | Nakia Sanford | 1,915 |
-| 176 | **Gabby Williams** 🔴 +11 | 1,910 |
+| 176 | **Gabby Williams** 🔴 +14 | 1,913 |
 | 177 | Ebony Hoffman | 1,909 |
 | 178 | Candice Wiggins | 1,901 |
 | 179 | NaLyssa Smith | 1,879 |
@@ -1374,8 +1374,8 @@ _Last updated: 2026-10-10 03:51 UTC_
 | 118 | Allisha Gray | 476 |
 | 119 | Ebony Hoffman | 470 |
 | 120 | Elaine Powell | 469 |
-| 121 | Allie Quigley | 467 |
-| 121 | **Jackie Young** 🔴 +4 | 467 |
+| 121 | **Jackie Young** 🔴 +5 | 468 |
+| 122 | Allie Quigley | 467 |
 | 123 | Ariel Atkins | 465 |
 | 124 | Betnijah Laney-Hamilton | 456 |
 | 125 | Kia Vaughn | 454 |
@@ -1599,9 +1599,9 @@ _Last updated: 2026-10-10 03:51 UTC_
 | 138 | Jessica Breland | 562 |
 | 139 | **A'ja Wilson** 🔴 | 554 |
 | 140 | Dawn Staley | 551 |
-| 141 | Glory Johnson | 550 |
-| 141 | **Jackie Young** 🔴 +2 | 550 |
-| 141 | Tierra Ruffin-Pratt | 550 |
+| 140 | **Jackie Young** 🔴 +3 | 551 |
+| 142 | Glory Johnson | 550 |
+| 142 | Tierra Ruffin-Pratt | 550 |
 | 144 | Erlana Larkins | 546 |
 | 144 | Monique Billings | 546 |
 | 146 | Jayne Appel Marinelli | 543 |
