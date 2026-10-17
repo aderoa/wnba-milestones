@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-10-17 19:49 UTC_
+_Last updated: 2026-10-17 19:50 UTC_
 
 ## Contents
 
@@ -21,7 +21,7 @@ _Last updated: 2026-10-17 19:49 UTC_
 |-----:|--------|------:|
 | 1 | Diana Taurasi | 10,608 |
 | 2 | Tina Charles | 8,396 |
-| 3 | **DeWanna Bonner** 🔴 | 7,972 |
+| 3 | **DeWanna Bonner** 🔴 +2 | 7,974 |
 | 4 | Nneka Ogwumike | 7,563 |
 | 5 | Tina Thompson | 7,470 |
 | 6 | Tamika Catchings | 7,371 |
@@ -151,8 +151,8 @@ _Last updated: 2026-10-17 19:49 UTC_
 | 130 | **Kayla Thornton** 🔴 | 2,393 |
 | 131 | DeMya Walker | 2,379 |
 | 132 | Alex Bentley | 2,350 |
-| 133 | Azurá Stevens | 2,343 |
-| 134 | **Jordin Canada** 🔴 | 2,342 |
+| 133 | **Jordin Canada** 🔴 +2 | 2,344 |
+| 134 | Azurá Stevens | 2,343 |
 | 135 | Merlakia Jones | 2,308 |
 | 136 | Betnijah Laney-Hamilton | 2,302 |
 | 137 | Satou Sabally | 2,296 |
@@ -295,8 +295,8 @@ _Last updated: 2026-10-17 19:49 UTC_
 | 69 | Monique Billings | 1,431 |
 | 70 | Alana Beard | 1,420 |
 | 71 | Nakia Sanford | 1,419 |
-| 72 | **Kayla Thornton** 🔴 +3 | 1,411 |
-| 73 | **Allisha Gray** 🔴 +1 | 1,405 |
+| 72 | **Kayla Thornton** 🔴 +2 | 1,410 |
+| 73 | **Allisha Gray** 🔴 +3 | 1,407 |
 | 74 | Kara Braxton | 1,387 |
 | 75 | Courtney Vandersloot | 1,386 |
 | 76 | Katie Smith | 1,383 |
@@ -386,8 +386,8 @@ _Last updated: 2026-10-17 19:49 UTC_
 | 160 | **Naz Hillmon** 🔴 | 859 |
 | 161 | Leilani Mitchell | 845 |
 | 162 | Essence Carson | 833 |
+| 163 | **Gabby Williams** 🔴 +1 | 832 |
 | 163 | Shakira Austin | 832 |
-| 164 | **Gabby Williams** 🔴 | 831 |
 | 165 | Kristi Toliver | 829 |
 | 166 | Marie Ferdinand-Harris | 828 |
 | 167 | Marlies Askamp | 822 |
@@ -503,7 +503,7 @@ _Last updated: 2026-10-17 19:49 UTC_
 | 71 | Marina Mabrey | 801 |
 | 72 | Epiphanny Prince | 800 |
 | 73 | Mwadi Mabika | 774 |
-| 74 | **Allisha Gray** 🔴 | 767 |
+| 74 | **Allisha Gray** 🔴 +1 | 768 |
 | 75 | Sheri Sam | 745 |
 | 76 | Monique Currie | 740 |
 | 77 | Elaine Powell | 728 |
@@ -890,7 +890,7 @@ _Last updated: 2026-10-17 19:49 UTC_
 | 45 | Katie Smith | 408 |
 | 46 | Cappie Pondexter | 405 |
 | 47 | Nicole Powell | 401 |
-| 48 | **Jordin Canada** 🔴 | 397 |
+| 48 | **Jordin Canada** 🔴 +1 | 398 |
 | 49 | Jasmine Thomas | 394 |
 | 50 | Ariel Atkins | 390 |
 | 51 | Danielle Robinson | 389 |
