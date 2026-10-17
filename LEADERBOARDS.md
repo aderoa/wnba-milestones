@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-10-17 21:33 UTC_
+_Last updated: 2026-10-17 21:34 UTC_
 
 ## Contents
 
@@ -191,9 +191,9 @@ _Last updated: 2026-10-17 21:33 UTC_
 | 170 | Cathrine Kraayeveld | 1,926 |
 | 171 | Roneeka Hodges | 1,925 |
 | 172 | Latasha Byears | 1,920 |
+| 173 | **Gabby Williams** 🔴 +20 | 1,919 |
 | 173 | Karima Christmas-Kelly | 1,919 |
-| 174 | Jessica Breland | 1,918 |
-| 175 | **Gabby Williams** 🔴 +18 | 1,917 |
+| 175 | Jessica Breland | 1,918 |
 | 176 | Nakia Sanford | 1,915 |
 | 177 | Ebony Hoffman | 1,909 |
 | 178 | Candice Wiggins | 1,901 |
@@ -314,7 +314,7 @@ _Last updated: 2026-10-17 21:33 UTC_
 | 88 | Betty Lennox | 1,296 |
 | 89 | Tari Phillips | 1,274 |
 | 90 | Myisha Hines-Allen | 1,265 |
-| 91 | **Tiffany Hayes** 🔴 +5 | 1,262 |
+| 91 | **Tiffany Hayes** 🔴 +6 | 1,263 |
 | 92 | Janel McCarville | 1,261 |
 | 93 | Liz Cambage | 1,258 |
 | 94 | Chelsea Gray | 1,257 |
@@ -477,8 +477,8 @@ _Last updated: 2026-10-17 21:33 UTC_
 | 44 | Kayla McBride | 992 |
 | 45 | Nikki Teasley | 982 |
 | 46 | Breanna Stewart | 981 |
-| 47 | Tamecka Dixon | 960 |
-| 47 | **Tiffany Hayes** 🔴 +3 | 960 |
+| 47 | **Tiffany Hayes** 🔴 +4 | 961 |
+| 48 | Tamecka Dixon | 960 |
 | 49 | Kara Lawson | 946 |
 | 50 | Arike Ogunbowale | 944 |
 | 51 | Nneka Ogwumike | 933 |
@@ -658,7 +658,7 @@ _Last updated: 2026-10-17 21:33 UTC_
 | 19 | Natasha Howard | 370 |
 | 21 | Jessica Breland | 367 |
 | 22 | **DeWanna Bonner** 🔴 | 358 |
-| 23 | **Kiah Stokes** 🔴 +4 | 356 |
+| 23 | **Kiah Stokes** 🔴 +5 | 357 |
 | 24 | Ezi Magbegor | 354 |
 | 25 | Diana Taurasi | 349 |
 | 25 | Elena Delle Donne | 349 |
@@ -831,8 +831,8 @@ _Last updated: 2026-10-17 21:33 UTC_
 | 193 | Mercedes Russell | 69 |
 | 193 | Rhonda Mapp | 69 |
 | 193 | Satou Sabally | 69 |
-| 196 | Shannon Johnson | 67 |
-| 196 | **Veronica Burton** 🔴 | 67 |
+| 196 | **Veronica Burton** 🔴 +1 | 68 |
+| 197 | Shannon Johnson | 67 |
 | 198 | Kennedy Burke | 66 |
 | 199 | Crystal Robinson | 65 |
 | 199 | **Gabby Williams** 🔴 | 65 |
