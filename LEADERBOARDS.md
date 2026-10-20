@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-10-20 01:59 UTC_
+_Last updated: 2026-10-20 02:00 UTC_
 
 ## Contents
 
@@ -316,8 +316,8 @@ _Last updated: 2026-10-20 01:59 UTC_
 | 90 | Myisha Hines-Allen | 1,265 |
 | 91 | Janel McCarville | 1,261 |
 | 92 | Liz Cambage | 1,258 |
-| 93 | Chelsea Gray | 1,257 |
-| 93 | **Tiffany Hayes** 🔴 | 1,257 |
+| 92 | **Tiffany Hayes** 🔴 +1 | 1,258 |
+| 94 | Chelsea Gray | 1,257 |
 | 95 | Kayla McBride | 1,256 |
 | 96 | Brianna Turner | 1,243 |
 | 96 | Ezi Magbegor | 1,243 |
@@ -346,7 +346,7 @@ _Last updated: 2026-10-20 01:59 UTC_
 | 120 | Jackie Young | 1,085 |
 | 121 | Svetlana Abrosimova | 1,078 |
 | 122 | Le'coe Willingham | 1,054 |
-| 123 | **Angel Reese** 🔴 +11 | 1,046 |
+| 123 | **Angel Reese** 🔴 +12 | 1,047 |
 | 124 | Nicole Ohlde | 1,040 |
 | 125 | Tamecka Dixon | 1,035 |
 | 126 | Kamila Vodichkova | 1,031 |
@@ -890,7 +890,7 @@ _Last updated: 2026-10-20 01:59 UTC_
 | 45 | Katie Smith | 408 |
 | 46 | Cappie Pondexter | 405 |
 | 47 | Nicole Powell | 401 |
-| 48 | **Jordin Canada** 🔴 | 397 |
+| 48 | **Jordin Canada** 🔴 +1 | 398 |
 | 49 | Jasmine Thomas | 394 |
 | 50 | Ariel Atkins | 390 |
 | 51 | Danielle Robinson | 389 |
@@ -1322,8 +1322,8 @@ _Last updated: 2026-10-20 01:59 UTC_
 | 67 | Ruth Riley | 637 |
 | 68 | Odyssey Sims | 631 |
 | 68 | Svetlana Abrosimova | 631 |
-| 70 | Kahleah Copper | 625 |
-| 70 | **Tiffany Hayes** 🔴 +1 | 625 |
+| 70 | **Tiffany Hayes** 🔴 +2 | 626 |
+| 71 | Kahleah Copper | 625 |
 | 72 | Rebekkah Brunson | 615 |
 | 73 | Seimone Augustus | 613 |
 | 74 | Teresa Weatherspoon | 601 |
