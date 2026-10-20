@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-10-20 02:12 UTC_
+_Last updated: 2026-10-20 02:13 UTC_
 
 ## Contents
 
@@ -346,7 +346,7 @@ _Last updated: 2026-10-20 02:12 UTC_
 | 120 | Jackie Young | 1,085 |
 | 121 | Svetlana Abrosimova | 1,078 |
 | 122 | Le'coe Willingham | 1,054 |
-| 123 | **Angel Reese** 🔴 +13 | 1,048 |
+| 123 | **Angel Reese** 🔴 +14 | 1,049 |
 | 124 | Nicole Ohlde | 1,040 |
 | 125 | Tamecka Dixon | 1,035 |
 | 126 | Kamila Vodichkova | 1,031 |
@@ -924,10 +924,10 @@ _Last updated: 2026-10-20 02:12 UTC_
 | 79 | Odyssey Sims | 334 |
 | 80 | Marie Ferdinand-Harris | 331 |
 | 81 | Chasity Melvin | 330 |
+| 81 | **Gabby Williams** 🔴 +4 | 330 |
 | 81 | Leilani Mitchell | 330 |
-| 83 | Courtney Williams | 329 |
-| 83 | **Gabby Williams** 🔴 +3 | 329 |
-| 83 | Kristi Toliver | 329 |
+| 84 | Courtney Williams | 329 |
+| 84 | Kristi Toliver | 329 |
 | 86 | Matee Ajavon | 328 |
 | 87 | Napheesa Collier | 325 |
 | 88 | Betty Lennox | 323 |
@@ -1350,8 +1350,8 @@ _Last updated: 2026-10-20 02:12 UTC_
 | 94 | Iziane Castro Marques | 534 |
 | 96 | Sabrina Ionescu | 533 |
 | 97 | Mwadi Mabika | 532 |
+| 98 | **Jordin Canada** 🔴 +4 | 531 |
 | 98 | Nakia Sanford | 531 |
-| 99 | **Jordin Canada** 🔴 +3 | 530 |
 | 100 | Arike Ogunbowale | 529 |
 | 101 | Maya Moore | 527 |
 | 102 | Kara Lawson | 526 |
