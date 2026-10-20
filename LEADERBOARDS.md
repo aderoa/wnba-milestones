@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-10-20 01:28 UTC_
+_Last updated: 2026-10-20 01:29 UTC_
 
 ## Contents
 
@@ -385,8 +385,8 @@ _Last updated: 2026-10-20 01:28 UTC_
 | 159 | **Naz Hillmon** 🔴 +4 | 863 |
 | 160 | Krystal Thomas | 862 |
 | 161 | Leilani Mitchell | 845 |
-| 162 | **Gabby Williams** 🔴 +3 | 834 |
-| 163 | Essence Carson | 833 |
+| 162 | Essence Carson | 833 |
+| 162 | **Gabby Williams** 🔴 +2 | 833 |
 | 164 | Shakira Austin | 832 |
 | 165 | Kristi Toliver | 829 |
 | 166 | Marie Ferdinand-Harris | 828 |
@@ -926,9 +926,9 @@ _Last updated: 2026-10-20 01:28 UTC_
 | 81 | Chasity Melvin | 330 |
 | 81 | Leilani Mitchell | 330 |
 | 83 | Courtney Williams | 329 |
+| 83 | **Gabby Williams** 🔴 +3 | 329 |
 | 83 | Kristi Toliver | 329 |
-| 85 | **Gabby Williams** 🔴 +2 | 328 |
-| 85 | Matee Ajavon | 328 |
+| 86 | Matee Ajavon | 328 |
 | 87 | Napheesa Collier | 325 |
 | 88 | Betty Lennox | 323 |
 | 89 | Tammy Sutton-Brown | 319 |
@@ -1370,7 +1370,7 @@ _Last updated: 2026-10-20 01:28 UTC_
 | 115 | Erika de Souza | 483 |
 | 116 | Sophia Young-Malcolm | 482 |
 | 117 | Natalie Williams | 480 |
-| 118 | **Allisha Gray** 🔴 +1 | 477 |
+| 118 | **Allisha Gray** 🔴 +2 | 478 |
 | 119 | Ebony Hoffman | 470 |
 | 120 | Elaine Powell | 469 |
 | 121 | Allie Quigley | 467 |
