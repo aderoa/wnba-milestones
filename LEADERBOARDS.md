@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-10-20 02:10 UTC_
+_Last updated: 2026-10-20 02:11 UTC_
 
 ## Contents
 
@@ -194,7 +194,7 @@ _Last updated: 2026-10-20 02:10 UTC_
 | 173 | Karima Christmas-Kelly | 1,919 |
 | 174 | Jessica Breland | 1,918 |
 | 175 | Nakia Sanford | 1,915 |
-| 176 | **Gabby Williams** 🔴 +12 | 1,911 |
+| 176 | **Gabby Williams** 🔴 +14 | 1,913 |
 | 177 | Ebony Hoffman | 1,909 |
 | 178 | Candice Wiggins | 1,901 |
 | 179 | NaLyssa Smith | 1,879 |
@@ -896,9 +896,9 @@ _Last updated: 2026-10-20 02:10 UTC_
 | 51 | Danielle Robinson | 389 |
 | 52 | Deanna Nolan | 388 |
 | 53 | Briann January | 386 |
-| 54 | Swin Cash | 384 |
-| 54 | **Tiffany Hayes** 🔴 | 384 |
-| 54 | Tina Charles | 384 |
+| 54 | **Tiffany Hayes** 🔴 +1 | 385 |
+| 55 | Swin Cash | 384 |
+| 55 | Tina Charles | 384 |
 | 57 | **Allisha Gray** 🔴 +1 | 380 |
 | 58 | Monique Currie | 378 |
 | 59 | Chamique Holdsclaw | 376 |
@@ -962,8 +962,8 @@ _Last updated: 2026-10-20 02:10 UTC_
 | 117 | Michelle Snow | 262 |
 | 118 | Karima Christmas-Kelly | 261 |
 | 119 | Jonquel Jones | 260 |
+| 119 | **Rhyne Howard** 🔴 +6 | 260 |
 | 119 | Riquna Williams | 260 |
-| 121 | **Rhyne Howard** 🔴 +5 | 259 |
 | 122 | Noelle Quinn | 256 |
 | 123 | Elaine Powell | 255 |
 | 123 | Loree Moore | 255 |
@@ -1351,8 +1351,8 @@ _Last updated: 2026-10-20 02:10 UTC_
 | 96 | Sabrina Ionescu | 533 |
 | 97 | Mwadi Mabika | 532 |
 | 98 | Nakia Sanford | 531 |
-| 99 | Arike Ogunbowale | 529 |
-| 99 | **Jordin Canada** 🔴 +2 | 529 |
+| 99 | **Jordin Canada** 🔴 +3 | 530 |
+| 100 | Arike Ogunbowale | 529 |
 | 101 | Maya Moore | 527 |
 | 102 | Kara Lawson | 526 |
 | 103 | Leilani Mitchell | 525 |
