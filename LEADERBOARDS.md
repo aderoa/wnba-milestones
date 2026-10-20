@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-10-20 01:25 UTC_
+_Last updated: 2026-10-20 01:26 UTC_
 
 ## Contents
 
@@ -346,7 +346,7 @@ _Last updated: 2026-10-20 01:25 UTC_
 | 120 | Jackie Young | 1,085 |
 | 121 | Svetlana Abrosimova | 1,078 |
 | 122 | Le'coe Willingham | 1,054 |
-| 123 | **Angel Reese** 🔴 +7 | 1,042 |
+| 123 | **Angel Reese** 🔴 +8 | 1,043 |
 | 124 | Nicole Ohlde | 1,040 |
 | 125 | Tamecka Dixon | 1,035 |
 | 126 | Kamila Vodichkova | 1,031 |
@@ -385,8 +385,8 @@ _Last updated: 2026-10-20 01:25 UTC_
 | 159 | **Naz Hillmon** 🔴 +4 | 863 |
 | 160 | Krystal Thomas | 862 |
 | 161 | Leilani Mitchell | 845 |
-| 162 | Essence Carson | 833 |
-| 162 | **Gabby Williams** 🔴 +2 | 833 |
+| 162 | **Gabby Williams** 🔴 +3 | 834 |
+| 163 | Essence Carson | 833 |
 | 164 | Shakira Austin | 832 |
 | 165 | Kristi Toliver | 829 |
 | 166 | Marie Ferdinand-Harris | 828 |
@@ -899,7 +899,7 @@ _Last updated: 2026-10-20 01:25 UTC_
 | 54 | Swin Cash | 384 |
 | 54 | **Tiffany Hayes** 🔴 | 384 |
 | 54 | Tina Charles | 384 |
-| 57 | **Allisha Gray** 🔴 | 379 |
+| 57 | **Allisha Gray** 🔴 +1 | 380 |
 | 58 | Monique Currie | 378 |
 | 59 | Chamique Holdsclaw | 376 |
 | 60 | Brittney Sykes | 371 |
