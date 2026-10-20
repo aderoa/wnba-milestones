@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-10-20 00:45 UTC_
+_Last updated: 2026-10-20 00:46 UTC_
 
 ## Contents
 
@@ -60,7 +60,7 @@ _Last updated: 2026-10-20 00:45 UTC_
 | 39 | Natasha Howard | 4,682 |
 | 40 | Chelsea Gray | 4,625 |
 | 41 | Penny Taylor | 4,595 |
-| 42 | **Allisha Gray** 🔴 +6 | 4,497 |
+| 42 | **Allisha Gray** 🔴 +8 | 4,499 |
 | 43 | Kelsey Plum | 4,494 |
 | 44 | Kristi Toliver | 4,474 |
 | 45 | Kahleah Copper | 4,437 |
@@ -195,7 +195,7 @@ _Last updated: 2026-10-20 00:45 UTC_
 | 174 | Jessica Breland | 1,918 |
 | 175 | Nakia Sanford | 1,915 |
 | 176 | Ebony Hoffman | 1,909 |
-| 177 | **Gabby Williams** 🔴 +4 | 1,903 |
+| 177 | **Gabby Williams** 🔴 +5 | 1,904 |
 | 178 | Candice Wiggins | 1,901 |
 | 179 | NaLyssa Smith | 1,879 |
 | 180 | Rachel Banham | 1,843 |
@@ -455,7 +455,7 @@ _Last updated: 2026-10-20 00:45 UTC_
 | 23 | Teresa Weatherspoon | 1,333 |
 | 24 | Kristi Toliver | 1,301 |
 | 25 | Kelsey Plum | 1,270 |
-| 26 | **Jordin Canada** 🔴 +3 | 1,265 |
+| 26 | **Jordin Canada** 🔴 +4 | 1,266 |
 | 27 | Katie Smith | 1,258 |
 | 28 | Odyssey Sims | 1,228 |
 | 29 | Vickie Johnson | 1,202 |
