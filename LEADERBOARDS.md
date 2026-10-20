@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-10-20 02:17 UTC_
+_Last updated: 2026-10-20 02:18 UTC_
 
 ## Contents
 
@@ -47,7 +47,7 @@ _Last updated: 2026-10-20 02:17 UTC_
 | 26 | Lindsay Whalen | 5,511 |
 | 27 | Kelsey Mitchell | 5,198 |
 | 28 | Swin Cash | 5,119 |
-| 29 | **Tiffany Hayes** 🔴 +13 | 5,062 |
+| 29 | **Tiffany Hayes** 🔴 +14 | 5,063 |
 | 30 | Tangela Smith | 5,035 |
 | 31 | Taj McWilliams-Franklin | 4,992 |
 | 32 | Maya Moore | 4,984 |
@@ -60,7 +60,7 @@ _Last updated: 2026-10-20 02:17 UTC_
 | 39 | Natasha Howard | 4,682 |
 | 40 | Chelsea Gray | 4,625 |
 | 41 | Penny Taylor | 4,595 |
-| 42 | **Allisha Gray** 🔴 +17 | 4,508 |
+| 42 | **Allisha Gray** 🔴 +18 | 4,509 |
 | 43 | Kelsey Plum | 4,494 |
 | 44 | Kristi Toliver | 4,474 |
 | 45 | Kahleah Copper | 4,437 |
@@ -1481,7 +1481,7 @@ _Last updated: 2026-10-20 02:17 UTC_
 | 21 | Michelle Snow | 1,108 |
 | 22 | Sylvia Fowles | 1,049 |
 | 23 | Tina Charles | 1,037 |
-| 24 | **Tiffany Hayes** 🔴 +4 | 1,025 |
+| 24 | **Tiffany Hayes** 🔴 +5 | 1,026 |
 | 25 | Lindsay Whalen | 998 |
 | 26 | Rebekkah Brunson | 996 |
 | 27 | Brittney Griner | 995 |
