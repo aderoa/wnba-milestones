@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-10-22 02:01 UTC_
+_Last updated: 2026-10-22 02:03 UTC_
 
 ## Contents
 
@@ -194,8 +194,8 @@ _Last updated: 2026-10-22 02:01 UTC_
 | 173 | Karima Christmas-Kelly | 1,919 |
 | 174 | Jessica Breland | 1,918 |
 | 175 | Nakia Sanford | 1,915 |
-| 176 | Ebony Hoffman | 1,909 |
-| 176 | **Gabby Williams** 🔴 +10 | 1,909 |
+| 176 | **Gabby Williams** 🔴 +13 | 1,912 |
+| 177 | Ebony Hoffman | 1,909 |
 | 178 | Candice Wiggins | 1,901 |
 | 179 | NaLyssa Smith | 1,879 |
 | 180 | Rachel Banham | 1,843 |
@@ -258,8 +258,8 @@ _Last updated: 2026-10-22 02:01 UTC_
 | 32 | Tammy Sutton-Brown | 2,010 |
 | 33 | Elizabeth Williams | 1,978 |
 | 34 | Cheryl Ford | 1,907 |
-| 35 | Courtney Williams | 1,843 |
-| 35 | **Kiah Stokes** 🔴 +8 | 1,843 |
+| 35 | **Kiah Stokes** 🔴 +9 | 1,844 |
+| 36 | Courtney Williams | 1,843 |
 | 37 | Plenette Pierson | 1,834 |
 | 38 | Natalie Williams | 1,832 |
 | 39 | Wendy Palmer | 1,824 |
@@ -532,13 +532,13 @@ _Last updated: 2026-10-22 02:01 UTC_
 | 100 | Natasha Howard | 615 |
 | 101 | Debbie Black | 612 |
 | 102 | Cynthia Cooper | 602 |
-| 103 | **Gabby Williams** 🔴 +7 | 598 |
+| 103 | **Gabby Williams** 🔴 +8 | 599 |
 | 104 | Sancho Lyttle | 592 |
 | 105 | Caitlin Clark | 591 |
 | 106 | Betnijah Laney-Hamilton | 590 |
 | 106 | Camille Smith | 590 |
 | 108 | Armintie Herrington | 589 |
-| 109 | **Veronica Burton** 🔴 +3 | 582 |
+| 109 | **Veronica Burton** 🔴 +4 | 583 |
 | 110 | Tan White | 578 |
 | 111 | Matee Ajavon | 577 |
 | 112 | Napheesa Collier | 570 |
@@ -1190,7 +1190,7 @@ _Last updated: 2026-10-22 02:01 UTC_
 | 139 | Jennifer Azzi | 158 |
 | 139 | Natasha Howard | 158 |
 | 142 | Alanna Smith | 156 |
-| 143 | **Gabby Williams** 🔴 +2 | 155 |
+| 142 | **Gabby Williams** 🔴 +3 | 156 |
 | 144 | Bridget Pettis | 153 |
 | 144 | Jennifer Gillom | 153 |
 | 144 | Katie Lou Samuelson | 153 |
