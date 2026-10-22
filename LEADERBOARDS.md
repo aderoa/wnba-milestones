@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-10-22 01:44 UTC_
+_Last updated: 2026-10-22 01:45 UTC_
 
 ## Contents
 
@@ -21,7 +21,7 @@ _Last updated: 2026-10-22 01:44 UTC_
 |-----:|--------|------:|
 | 1 | Diana Taurasi | 10,608 |
 | 2 | Tina Charles | 8,396 |
-| 3 | **DeWanna Bonner** 🔴 +3 | 7,975 |
+| 3 | **DeWanna Bonner** 🔴 +5 | 7,977 |
 | 4 | Nneka Ogwumike | 7,563 |
 | 5 | Tina Thompson | 7,470 |
 | 6 | Tamika Catchings | 7,371 |
@@ -503,7 +503,7 @@ _Last updated: 2026-10-22 01:44 UTC_
 | 71 | Marina Mabrey | 801 |
 | 72 | Epiphanny Prince | 800 |
 | 73 | Mwadi Mabika | 774 |
-| 74 | **Allisha Gray** 🔴 +2 | 769 |
+| 74 | **Allisha Gray** 🔴 +3 | 770 |
 | 75 | Sheri Sam | 745 |
 | 76 | Monique Currie | 740 |
 | 77 | Elaine Powell | 728 |
@@ -748,11 +748,11 @@ _Last updated: 2026-10-22 01:44 UTC_
 | 110 | Crystal Langhorne | 117 |
 | 112 | Ariel Atkins | 115 |
 | 113 | Monique Currie | 114 |
-| 114 | Amanda Lassiter | 111 |
-| 114 | Kamila Vodichkova | 111 |
-| 114 | **Rhyne Howard** 🔴 | 111 |
-| 114 | Sophia Young-Malcolm | 111 |
-| 114 | Tari Phillips | 111 |
+| 114 | **Rhyne Howard** 🔴 +1 | 112 |
+| 115 | Amanda Lassiter | 111 |
+| 115 | Kamila Vodichkova | 111 |
+| 115 | Sophia Young-Malcolm | 111 |
+| 115 | Tari Phillips | 111 |
 | 119 | Courtney Williams | 109 |
 | 120 | Erin Perperoglou | 108 |
 | 120 | Glory Johnson | 108 |
