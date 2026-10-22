@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-10-22 01:05 UTC_
+_Last updated: 2026-10-22 01:06 UTC_
 
 ## Contents
 
@@ -455,7 +455,7 @@ _Last updated: 2026-10-22 01:05 UTC_
 | 23 | Teresa Weatherspoon | 1,333 |
 | 24 | Kristi Toliver | 1,301 |
 | 25 | Kelsey Plum | 1,270 |
-| 26 | **Jordin Canada** 🔴 +6 | 1,268 |
+| 26 | **Jordin Canada** 🔴 +7 | 1,269 |
 | 27 | Katie Smith | 1,258 |
 | 28 | Odyssey Sims | 1,228 |
 | 29 | Vickie Johnson | 1,202 |
@@ -538,7 +538,7 @@ _Last updated: 2026-10-22 01:05 UTC_
 | 106 | Betnijah Laney-Hamilton | 590 |
 | 106 | Camille Smith | 590 |
 | 108 | Armintie Herrington | 589 |
-| 109 | **Veronica Burton** 🔴 +2 | 581 |
+| 109 | **Veronica Burton** 🔴 +3 | 582 |
 | 110 | Tan White | 578 |
 | 111 | Matee Ajavon | 577 |
 | 112 | Napheesa Collier | 570 |
@@ -1033,7 +1033,7 @@ _Last updated: 2026-10-22 01:05 UTC_
 | 187 | Monique Billings | 182 |
 | 189 | Nakia Sanford | 181 |
 | 190 | Diamond DeShields | 180 |
-| 191 | **Kiah Stokes** 🔴 | 178 |
+| 191 | **Kiah Stokes** 🔴 +1 | 179 |
 | 192 | Bridget Pettis | 177 |
 | 193 | Brittany Boyd-Jones | 176 |
 | 193 | Chiney Ogwumike | 176 |
@@ -1238,7 +1238,7 @@ _Last updated: 2026-10-22 01:05 UTC_
 | 187 | **Janelle Salaun** 🔴 +3 | 114 |
 | 187 | Rickea Jackson | 114 |
 | 187 | Sandy Brondello | 114 |
-| 191 | **Cecilia Zandalasini** 🔴 +1 | 112 |
+| 191 | **Cecilia Zandalasini** 🔴 +2 | 113 |
 | 192 | Shoni Schimmel | 111 |
 | 193 | Emma Meesseman | 109 |
 | 193 | Scholanda Dorrell | 109 |
@@ -1351,8 +1351,8 @@ _Last updated: 2026-10-22 01:05 UTC_
 | 96 | Sabrina Ionescu | 533 |
 | 97 | Mwadi Mabika | 532 |
 | 98 | Nakia Sanford | 531 |
-| 99 | Arike Ogunbowale | 529 |
-| 99 | **Jordin Canada** 🔴 +2 | 529 |
+| 99 | **Jordin Canada** 🔴 +3 | 530 |
+| 100 | Arike Ogunbowale | 529 |
 | 101 | Maya Moore | 527 |
 | 102 | Kara Lawson | 526 |
 | 103 | Leilani Mitchell | 525 |
@@ -1424,8 +1424,8 @@ _Last updated: 2026-10-22 01:05 UTC_
 | 169 | Brionna Jones | 346 |
 | 170 | Satou Sabally | 345 |
 | 171 | Teaira McCowan | 340 |
+| 172 | **Gabby Williams** 🔴 +3 | 339 |
 | 172 | Loree Moore | 339 |
-| 173 | **Gabby Williams** 🔴 +2 | 338 |
 | 174 | Charlotte Smith | 337 |
 | 175 | Scholanda Dorrell | 335 |
 | 176 | Aerial Powers | 333 |
