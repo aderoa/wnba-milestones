@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-10-22 00:12 UTC_
+_Last updated: 2026-10-22 00:13 UTC_
 
 ## Contents
 
@@ -259,7 +259,7 @@ _Last updated: 2026-10-22 00:12 UTC_
 | 33 | Elizabeth Williams | 1,978 |
 | 34 | Cheryl Ford | 1,907 |
 | 35 | Courtney Williams | 1,843 |
-| 36 | **Kiah Stokes** 🔴 | 1,835 |
+| 36 | **Kiah Stokes** 🔴 +1 | 1,836 |
 | 37 | Plenette Pierson | 1,834 |
 | 38 | Natalie Williams | 1,832 |
 | 39 | Wendy Palmer | 1,824 |
@@ -296,7 +296,7 @@ _Last updated: 2026-10-22 00:12 UTC_
 | 70 | Alana Beard | 1,420 |
 | 71 | Nakia Sanford | 1,419 |
 | 72 | **Kayla Thornton** 🔴 +1 | 1,409 |
-| 73 | **Allisha Gray** 🔴 | 1,404 |
+| 73 | **Allisha Gray** 🔴 +1 | 1,405 |
 | 74 | Kara Braxton | 1,387 |
 | 75 | Courtney Vandersloot | 1,386 |
 | 76 | Katie Smith | 1,383 |
@@ -347,8 +347,8 @@ _Last updated: 2026-10-22 00:12 UTC_
 | 121 | Svetlana Abrosimova | 1,078 |
 | 122 | Le'coe Willingham | 1,054 |
 | 123 | Nicole Ohlde | 1,040 |
-| 124 | **Angel Reese** 🔴 | 1,035 |
-| 124 | Tamecka Dixon | 1,035 |
+| 124 | **Angel Reese** 🔴 +1 | 1,036 |
+| 125 | Tamecka Dixon | 1,035 |
 | 126 | Kamila Vodichkova | 1,031 |
 | 127 | Jasmine Thomas | 1,027 |
 | 128 | Sabrina Ionescu | 1,020 |
@@ -383,7 +383,7 @@ _Last updated: 2026-10-22 00:12 UTC_
 | 157 | Marina Mabrey | 874 |
 | 158 | Shameka Christon | 867 |
 | 159 | Krystal Thomas | 862 |
-| 160 | **Naz Hillmon** 🔴 +1 | 860 |
+| 160 | **Naz Hillmon** 🔴 +2 | 861 |
 | 161 | Leilani Mitchell | 845 |
 | 162 | Essence Carson | 833 |
 | 163 | Shakira Austin | 832 |
@@ -550,7 +550,7 @@ _Last updated: 2026-10-22 00:12 UTC_
 | 118 | Janel McCarville | 551 |
 | 118 | Svetlana Abrosimova | 551 |
 | 120 | Michele Timms | 549 |
-| 121 | **Rhyne Howard** 🔴 | 536 |
+| 121 | **Rhyne Howard** 🔴 +1 | 537 |
 | 122 | Myisha Hines-Allen | 529 |
 | 123 | Marie Ferdinand-Harris | 528 |
 | 124 | Margo Dydek | 524 |
@@ -832,12 +832,12 @@ _Last updated: 2026-10-22 00:12 UTC_
 | 193 | Satou Sabally | 69 |
 | 196 | Shannon Johnson | 67 |
 | 196 | **Veronica Burton** 🔴 | 67 |
+| 198 | **Gabby Williams** 🔴 +1 | 66 |
 | 198 | Kennedy Burke | 66 |
-| 199 | Crystal Robinson | 65 |
-| 199 | **Gabby Williams** 🔴 | 65 |
-| 199 | Queen Egbo | 65 |
-| 199 | Riquna Williams | 65 |
-| 199 | Sabrina Ionescu | 65 |
+| 200 | Crystal Robinson | 65 |
+| 200 | Queen Egbo | 65 |
+| 200 | Riquna Williams | 65 |
+| 200 | Sabrina Ionescu | 65 |
 
 ## Steals
 
