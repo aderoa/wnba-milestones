@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-10-24 19:03 UTC_
+_Last updated: 2026-10-24 19:05 UTC_
 
 ## Contents
 
@@ -131,8 +131,8 @@ _Last updated: 2026-10-24 19:03 UTC_
 | 110 | Riquna Williams | 2,659 |
 | 111 | Essence Carson | 2,647 |
 | 111 | Lindsey Harding | 2,647 |
-| 113 | Cheyenne Parker-Tyus | 2,645 |
-| 113 | **Rhyne Howard** 🔴 +8 | 2,645 |
+| 113 | **Rhyne Howard** 🔴 +9 | 2,646 |
+| 114 | Cheyenne Parker-Tyus | 2,645 |
 | 115 | Tamera Young | 2,641 |
 | 116 | Liz Cambage | 2,634 |
 | 117 | Janeth Arcain | 2,633 |
@@ -148,7 +148,7 @@ _Last updated: 2026-10-24 19:03 UTC_
 | 127 | Ruth Riley | 2,434 |
 | 128 | Svetlana Abrosimova | 2,414 |
 | 129 | Anna DeForge | 2,413 |
-| 130 | **Kayla Thornton** 🔴 +3 | 2,396 |
+| 130 | **Kayla Thornton** 🔴 +5 | 2,398 |
 | 131 | DeMya Walker | 2,379 |
 | 132 | Alex Bentley | 2,350 |
 | 132 | **Jordin Canada** 🔴 +8 | 2,350 |
@@ -346,7 +346,7 @@ _Last updated: 2026-10-24 19:03 UTC_
 | 120 | Jackie Young | 1,085 |
 | 121 | Svetlana Abrosimova | 1,078 |
 | 122 | Le'coe Willingham | 1,054 |
-| 123 | **Angel Reese** 🔴 +6 | 1,041 |
+| 123 | **Angel Reese** 🔴 +7 | 1,042 |
 | 124 | Nicole Ohlde | 1,040 |
 | 125 | Tamecka Dixon | 1,035 |
 | 126 | Kamila Vodichkova | 1,031 |
