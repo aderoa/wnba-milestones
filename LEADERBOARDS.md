@@ -382,7 +382,7 @@ _Last updated: 2026-10-24 18:37 UTC_
 | 156 | Alanna Smith | 878 |
 | 157 | Marina Mabrey | 874 |
 | 158 | Shameka Christon | 867 |
-| 159 | **Naz Hillmon** 🔴 +5 | 864 |
+| 159 | **Naz Hillmon** 🔴 +6 | 865 |
 | 160 | Krystal Thomas | 862 |
 | 161 | Leilani Mitchell | 845 |
 | 162 | **Gabby Williams** 🔴 +3 | 834 |
