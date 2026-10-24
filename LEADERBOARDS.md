@@ -381,8 +381,8 @@ _Last updated: 2026-10-24 19:10 UTC_
 | 155 | Erica Wheeler | 882 |
 | 156 | Alanna Smith | 878 |
 | 157 | Marina Mabrey | 874 |
-| 158 | **Naz Hillmon** 🔴 +8 | 867 |
-| 158 | Shameka Christon | 867 |
+| 158 | **Naz Hillmon** 🔴 +9 | 868 |
+| 159 | Shameka Christon | 867 |
 | 160 | Krystal Thomas | 862 |
 | 161 | Leilani Mitchell | 845 |
 | 162 | **Gabby Williams** 🔴 +5 | 836 |
