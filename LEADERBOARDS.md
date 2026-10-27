@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-10-27 02:06 UTC_
+_Last updated: 2026-10-27 02:07 UTC_
 
 ## Contents
 
@@ -47,7 +47,7 @@ _Last updated: 2026-10-27 02:06 UTC_
 | 26 | Lindsay Whalen | 5,511 |
 | 27 | Kelsey Mitchell | 5,198 |
 | 28 | Swin Cash | 5,119 |
-| 29 | **Tiffany Hayes** 🔴 +6 | 5,055 |
+| 29 | **Tiffany Hayes** 🔴 +8 | 5,057 |
 | 30 | Tangela Smith | 5,035 |
 | 31 | Taj McWilliams-Franklin | 4,992 |
 | 32 | Maya Moore | 4,984 |
@@ -381,7 +381,7 @@ _Last updated: 2026-10-27 02:06 UTC_
 | 155 | Erica Wheeler | 882 |
 | 156 | Alanna Smith | 878 |
 | 157 | Marina Mabrey | 874 |
-| 158 | **Naz Hillmon** 🔴 +10 | 869 |
+| 158 | **Naz Hillmon** 🔴 +11 | 870 |
 | 159 | Shameka Christon | 867 |
 | 160 | Krystal Thomas | 862 |
 | 161 | Leilani Mitchell | 845 |
@@ -926,9 +926,9 @@ _Last updated: 2026-10-27 02:06 UTC_
 | 81 | Chasity Melvin | 330 |
 | 81 | Leilani Mitchell | 330 |
 | 83 | Courtney Williams | 329 |
+| 83 | **Gabby Williams** 🔴 +3 | 329 |
 | 83 | Kristi Toliver | 329 |
-| 85 | **Gabby Williams** 🔴 +2 | 328 |
-| 85 | Matee Ajavon | 328 |
+| 86 | Matee Ajavon | 328 |
 | 87 | Napheesa Collier | 325 |
 | 88 | Betty Lennox | 323 |
 | 89 | Tammy Sutton-Brown | 319 |
@@ -1323,7 +1323,7 @@ _Last updated: 2026-10-27 02:06 UTC_
 | 68 | Odyssey Sims | 631 |
 | 68 | Svetlana Abrosimova | 631 |
 | 70 | Kahleah Copper | 625 |
-| 70 | **Tiffany Hayes** 🔴 +1 | 625 |
+| 71 | **Tiffany Hayes** 🔴 | 624 |
 | 72 | Rebekkah Brunson | 615 |
 | 73 | Seimone Augustus | 613 |
 | 74 | Teresa Weatherspoon | 601 |
@@ -1370,7 +1370,7 @@ _Last updated: 2026-10-27 02:06 UTC_
 | 115 | Erika de Souza | 483 |
 | 116 | Sophia Young-Malcolm | 482 |
 | 117 | Natalie Williams | 480 |
-| 118 | **Allisha Gray** 🔴 +2 | 478 |
+| 118 | **Allisha Gray** 🔴 +3 | 479 |
 | 119 | Ebony Hoffman | 470 |
 | 120 | Elaine Powell | 469 |
 | 121 | Allie Quigley | 467 |
