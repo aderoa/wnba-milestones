@@ -2,6 +2,10 @@
 
 Auto-updated by the tracker workflow. Newest entries at the top. Tracks top-200 rank passes/ties and every multiple of 100 in PTS, REB, AST, BLK, STL, 3PM, TOV, PF for active players.
 
+## 2026-10-27 01:49 UTC
+
+- **Veronica Burton** passed **Wendy Palmer** for **#192** all-time in blocks (career 71) — up from #197 entering today — _9:08 - 4th — ATL @ GS_
+
 ## 2026-10-27 01:31 UTC
 
 - **Veronica Burton** passed **Mercedes Russell**, **Rhonda Mapp**, and **Satou Sabally** for **#193** all-time in blocks (career 70) — up from #197 entering today — _5:05 - 3rd — ATL @ GS_

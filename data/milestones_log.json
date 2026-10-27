@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-10-27T01:49:00+00:00",
+    "text": "Veronica Burton passed Wendy Palmer for #192 all-time in blocks (career 71) \u2014 up from #197 entering today \u2014 (9:08 - 4th \u2014 ATL @ GS)",
+    "kind": "rank_pass",
+    "player": "Veronica Burton",
+    "stat": "blocks",
+    "rank": 192,
+    "passed_players": [
+      "Wendy Palmer"
+    ],
+    "new_total": 71
+  },
+  {
     "ts": "2026-10-27T01:31:00+00:00",
     "text": "Veronica Burton passed Mercedes Russell, Rhonda Mapp, and Satou Sabally for #193 all-time in blocks (career 70) \u2014 up from #197 entering today \u2014 (5:05 - 3rd \u2014 ATL @ GS)",
     "kind": "rank_pass",
@@ -2960,17 +2972,5 @@
     "stat": "points",
     "value": 1100,
     "new_total": 1100
-  },
-  {
-    "ts": "2026-07-11T22:06:00+00:00",
-    "text": "Bridget Carleton passed Riquna Williams for #176 all-time in assists (career 388) \u2014 up from #177 entering today \u2014 (3:44 - 4th \u2014 POR @ ATL)",
-    "kind": "rank_pass",
-    "player": "Bridget Carleton",
-    "stat": "assists",
-    "rank": 176,
-    "passed_players": [
-      "Riquna Williams"
-    ],
-    "new_total": 388
   }
 ]
