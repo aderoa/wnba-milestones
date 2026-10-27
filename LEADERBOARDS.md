@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-10-27 00:46 UTC_
+_Last updated: 2026-10-27 00:47 UTC_
 
 ## Contents
 
@@ -295,7 +295,7 @@ _Last updated: 2026-10-27 00:46 UTC_
 | 69 | Monique Billings | 1,431 |
 | 70 | Alana Beard | 1,420 |
 | 71 | Nakia Sanford | 1,419 |
-| 72 | **Kayla Thornton** 🔴 | 1,408 |
+| 72 | **Kayla Thornton** 🔴 +1 | 1,409 |
 | 73 | **Allisha Gray** 🔴 | 1,404 |
 | 74 | Kara Braxton | 1,387 |
 | 75 | Courtney Vandersloot | 1,386 |
@@ -383,7 +383,7 @@ _Last updated: 2026-10-27 00:46 UTC_
 | 157 | Marina Mabrey | 874 |
 | 158 | Shameka Christon | 867 |
 | 159 | Krystal Thomas | 862 |
-| 160 | **Naz Hillmon** 🔴 | 859 |
+| 160 | **Naz Hillmon** 🔴 +1 | 860 |
 | 161 | Leilani Mitchell | 845 |
 | 162 | **Gabby Williams** 🔴 +4 | 835 |
 | 163 | Essence Carson | 833 |
@@ -830,7 +830,7 @@ _Last updated: 2026-10-27 00:46 UTC_
 | 193 | Mercedes Russell | 69 |
 | 193 | Rhonda Mapp | 69 |
 | 193 | Satou Sabally | 69 |
-| 196 | **Veronica Burton** 🔴 +1 | 68 |
+| 193 | **Veronica Burton** 🔴 +2 | 69 |
 | 197 | Shannon Johnson | 67 |
 | 198 | Kennedy Burke | 66 |
 | 199 | Crystal Robinson | 65 |
