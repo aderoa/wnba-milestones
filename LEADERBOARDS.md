@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-10-27 00:48 UTC_
+_Last updated: 2026-10-27 00:49 UTC_
 
 ## Contents
 
@@ -132,8 +132,8 @@ _Last updated: 2026-10-27 00:48 UTC_
 | 111 | Essence Carson | 2,647 |
 | 111 | Lindsey Harding | 2,647 |
 | 113 | Cheyenne Parker-Tyus | 2,645 |
-| 114 | Tamera Young | 2,641 |
-| 115 | **Rhyne Howard** 🔴 +3 | 2,640 |
+| 114 | **Rhyne Howard** 🔴 +5 | 2,642 |
+| 115 | Tamera Young | 2,641 |
 | 116 | Liz Cambage | 2,634 |
 | 117 | Janeth Arcain | 2,633 |
 | 118 | Temeka Johnson | 2,620 |
@@ -315,8 +315,8 @@ _Last updated: 2026-10-27 00:48 UTC_
 | 89 | Tari Phillips | 1,274 |
 | 90 | Myisha Hines-Allen | 1,265 |
 | 91 | Janel McCarville | 1,261 |
-| 92 | Liz Cambage | 1,258 |
-| 92 | **Tiffany Hayes** 🔴 +1 | 1,258 |
+| 92 | **Tiffany Hayes** 🔴 +2 | 1,259 |
+| 93 | Liz Cambage | 1,258 |
 | 94 | Chelsea Gray | 1,257 |
 | 95 | Kayla McBride | 1,256 |
 | 96 | Brianna Turner | 1,243 |
@@ -383,7 +383,7 @@ _Last updated: 2026-10-27 00:48 UTC_
 | 157 | Marina Mabrey | 874 |
 | 158 | Shameka Christon | 867 |
 | 159 | Krystal Thomas | 862 |
-| 160 | **Naz Hillmon** 🔴 +2 | 861 |
+| 159 | **Naz Hillmon** 🔴 +3 | 862 |
 | 161 | Leilani Mitchell | 845 |
 | 162 | **Gabby Williams** 🔴 +4 | 835 |
 | 163 | Essence Carson | 833 |
