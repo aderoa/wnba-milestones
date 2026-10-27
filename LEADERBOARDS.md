@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-10-27 01:35 UTC_
+_Last updated: 2026-10-27 01:36 UTC_
 
 ## Contents
 
@@ -60,7 +60,7 @@ _Last updated: 2026-10-27 01:35 UTC_
 | 39 | Natasha Howard | 4,682 |
 | 40 | Chelsea Gray | 4,625 |
 | 41 | Penny Taylor | 4,595 |
-| 42 | **Allisha Gray** 🔴 +7 | 4,498 |
+| 42 | **Allisha Gray** 🔴 +8 | 4,499 |
 | 43 | Kelsey Plum | 4,494 |
 | 44 | Kristi Toliver | 4,474 |
 | 45 | Kahleah Copper | 4,437 |
@@ -129,9 +129,9 @@ _Last updated: 2026-10-27 01:35 UTC_
 | 108 | Ticha Penicheiro | 2,729 |
 | 109 | Adrienne Goodson | 2,705 |
 | 110 | Riquna Williams | 2,659 |
-| 111 | **Rhyne Howard** 🔴 +11 | 2,648 |
-| 112 | Essence Carson | 2,647 |
-| 112 | Lindsey Harding | 2,647 |
+| 111 | Essence Carson | 2,647 |
+| 111 | Lindsey Harding | 2,647 |
+| 111 | **Rhyne Howard** 🔴 +10 | 2,647 |
 | 114 | Cheyenne Parker-Tyus | 2,645 |
 | 115 | Tamera Young | 2,641 |
 | 116 | Liz Cambage | 2,634 |
@@ -658,7 +658,7 @@ _Last updated: 2026-10-27 01:35 UTC_
 | 21 | Jessica Breland | 367 |
 | 22 | **DeWanna Bonner** 🔴 | 358 |
 | 23 | Ezi Magbegor | 354 |
-| 24 | **Kiah Stokes** 🔴 +1 | 353 |
+| 23 | **Kiah Stokes** 🔴 +2 | 354 |
 | 25 | Diana Taurasi | 349 |
 | 25 | Elena Delle Donne | 349 |
 | 27 | DeLisha Milton-Jones | 339 |
