@@ -1,5 +1,19 @@
 [
   {
+    "ts": "2026-10-27T01:31:00+00:00",
+    "text": "Veronica Burton passed Mercedes Russell, Rhonda Mapp, and Satou Sabally for #193 all-time in blocks (career 70) \u2014 up from #197 entering today \u2014 (5:05 - 3rd \u2014 ATL @ GS)",
+    "kind": "rank_pass",
+    "player": "Veronica Burton",
+    "stat": "blocks",
+    "rank": 193,
+    "passed_players": [
+      "Mercedes Russell",
+      "Rhonda Mapp",
+      "Satou Sabally"
+    ],
+    "new_total": 70
+  },
+  {
     "ts": "2026-10-08T03:08:00+00:00",
     "text": "Jackie Young passed Kelly Miller for #101 all-time in steals (career 291) \u2014 up from #103 entering today \u2014 (End of 3rd \u2014 LV @ GS)",
     "kind": "rank_pass",
@@ -2958,17 +2972,5 @@
       "Riquna Williams"
     ],
     "new_total": 388
-  },
-  {
-    "ts": "2026-07-11T18:48:00+00:00",
-    "text": "Sabrina Ionescu passed Jasmine Thomas for #127 all-time in rebounds (career 1,028) \u2014 up from #128 entering today \u2014 (5:53 - 4th \u2014 NY @ MIN)",
-    "kind": "rank_pass",
-    "player": "Sabrina Ionescu",
-    "stat": "rebounds",
-    "rank": 127,
-    "passed_players": [
-      "Jasmine Thomas"
-    ],
-    "new_total": 1028
   }
 ]
