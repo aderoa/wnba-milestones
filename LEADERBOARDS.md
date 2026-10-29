@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-10-29 17:45 UTC_
+_Last updated: 2026-10-29 17:46 UTC_
 
 ## Contents
 
@@ -259,7 +259,7 @@ _Last updated: 2026-10-29 17:45 UTC_
 | 33 | Elizabeth Williams | 1,978 |
 | 34 | Cheryl Ford | 1,907 |
 | 35 | Courtney Williams | 1,843 |
-| 36 | **Kiah Stokes** 🔴 +5 | 1,840 |
+| 36 | **Kiah Stokes** 🔴 +6 | 1,841 |
 | 37 | Plenette Pierson | 1,834 |
 | 38 | Natalie Williams | 1,832 |
 | 39 | Wendy Palmer | 1,824 |
@@ -708,7 +708,7 @@ _Last updated: 2026-10-29 17:45 UTC_
 | 71 | Shameka Christon | 165 |
 | 72 | Aliyah Boston | 160 |
 | 72 | Cheryl Ford | 160 |
-| 74 | **Allisha Gray** 🔴 +1 | 158 |
+| 74 | **Allisha Gray** 🔴 +2 | 159 |
 | 75 | Kara Braxton | 157 |
 | 76 | DeMya Walker | 155 |
 | 76 | Tamika Whitmore | 155 |
@@ -1426,7 +1426,7 @@ _Last updated: 2026-10-29 17:45 UTC_
 | 171 | Teaira McCowan | 340 |
 | 172 | Loree Moore | 339 |
 | 173 | Charlotte Smith | 337 |
-| 174 | **Gabby Williams** 🔴 | 336 |
+| 173 | **Gabby Williams** 🔴 +1 | 337 |
 | 175 | Scholanda Dorrell | 335 |
 | 176 | Aerial Powers | 333 |
 | 176 | Diamond DeShields | 333 |
