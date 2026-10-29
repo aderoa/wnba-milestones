@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-10-29 17:21 UTC_
+_Last updated: 2026-10-29 17:22 UTC_
 
 ## Contents
 
@@ -259,7 +259,7 @@ _Last updated: 2026-10-29 17:21 UTC_
 | 33 | Elizabeth Williams | 1,978 |
 | 34 | Cheryl Ford | 1,907 |
 | 35 | Courtney Williams | 1,843 |
-| 36 | **Kiah Stokes** 🔴 +4 | 1,839 |
+| 36 | **Kiah Stokes** 🔴 +5 | 1,840 |
 | 37 | Plenette Pierson | 1,834 |
 | 38 | Natalie Williams | 1,832 |
 | 39 | Wendy Palmer | 1,824 |
@@ -296,7 +296,7 @@ _Last updated: 2026-10-29 17:21 UTC_
 | 70 | Alana Beard | 1,420 |
 | 71 | Nakia Sanford | 1,419 |
 | 72 | **Kayla Thornton** 🔴 +1 | 1,409 |
-| 73 | **Allisha Gray** 🔴 +2 | 1,406 |
+| 73 | **Allisha Gray** 🔴 +3 | 1,407 |
 | 74 | Kara Braxton | 1,387 |
 | 75 | Courtney Vandersloot | 1,386 |
 | 76 | Katie Smith | 1,383 |
@@ -346,7 +346,7 @@ _Last updated: 2026-10-29 17:21 UTC_
 | 120 | Jackie Young | 1,085 |
 | 121 | Svetlana Abrosimova | 1,078 |
 | 122 | Le'coe Willingham | 1,054 |
-| 123 | **Angel Reese** 🔴 +6 | 1,041 |
+| 123 | **Angel Reese** 🔴 +7 | 1,042 |
 | 124 | Nicole Ohlde | 1,040 |
 | 125 | Tamecka Dixon | 1,035 |
 | 126 | Kamila Vodichkova | 1,031 |
@@ -832,12 +832,12 @@ _Last updated: 2026-10-29 17:21 UTC_
 | 193 | Satou Sabally | 69 |
 | 196 | Shannon Johnson | 67 |
 | 196 | **Veronica Burton** 🔴 | 67 |
+| 198 | **Gabby Williams** 🔴 +1 | 66 |
 | 198 | Kennedy Burke | 66 |
-| 199 | Crystal Robinson | 65 |
-| 199 | **Gabby Williams** 🔴 | 65 |
-| 199 | Queen Egbo | 65 |
-| 199 | Riquna Williams | 65 |
-| 199 | Sabrina Ionescu | 65 |
+| 200 | Crystal Robinson | 65 |
+| 200 | Queen Egbo | 65 |
+| 200 | Riquna Williams | 65 |
+| 200 | Sabrina Ionescu | 65 |
 
 ## Steals
 
