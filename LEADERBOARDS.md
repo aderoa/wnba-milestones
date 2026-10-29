@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-10-29 16:51 UTC_
+_Last updated: 2026-10-29 16:52 UTC_
 
 ## Contents
 
@@ -503,7 +503,7 @@ _Last updated: 2026-10-29 16:51 UTC_
 | 71 | Marina Mabrey | 801 |
 | 72 | Epiphanny Prince | 800 |
 | 73 | Mwadi Mabika | 774 |
-| 74 | **Allisha Gray** 🔴 | 767 |
+| 74 | **Allisha Gray** 🔴 +1 | 768 |
 | 75 | Sheri Sam | 745 |
 | 76 | Monique Currie | 740 |
 | 77 | Elaine Powell | 728 |
@@ -1561,7 +1561,7 @@ _Last updated: 2026-10-29 16:51 UTC_
 | 101 | Kelly Miller | 676 |
 | 102 | Chamique Holdsclaw | 667 |
 | 103 | Tianna Hawkins | 662 |
-| 104 | **Kiah Stokes** 🔴 | 651 |
+| 104 | **Kiah Stokes** 🔴 +1 | 652 |
 | 105 | Tari Phillips | 648 |
 | 106 | Marie Ferdinand-Harris | 646 |
 | 107 | Chelsea Gray | 640 |
