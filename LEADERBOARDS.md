@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-10-29 16:54 UTC_
+_Last updated: 2026-10-29 16:55 UTC_
 
 ## Contents
 
@@ -60,7 +60,7 @@ _Last updated: 2026-10-29 16:54 UTC_
 | 39 | Natasha Howard | 4,682 |
 | 40 | Chelsea Gray | 4,625 |
 | 41 | Penny Taylor | 4,595 |
-| 42 | **Allisha Gray** 🔴 +5 | 4,496 |
+| 42 | **Allisha Gray** 🔴 +8 | 4,499 |
 | 43 | Kelsey Plum | 4,494 |
 | 44 | Kristi Toliver | 4,474 |
 | 45 | Kahleah Copper | 4,437 |
@@ -148,10 +148,10 @@ _Last updated: 2026-10-29 16:54 UTC_
 | 127 | Ruth Riley | 2,434 |
 | 128 | Svetlana Abrosimova | 2,414 |
 | 129 | Anna DeForge | 2,413 |
-| 130 | Kayla Thornton | 2,393 |
+| 130 | **Kayla Thornton** 🔴 | 2,393 |
 | 131 | DeMya Walker | 2,379 |
 | 132 | Alex Bentley | 2,350 |
-| 133 | **Jordin Canada** 🔴 +3 | 2,345 |
+| 133 | **Jordin Canada** 🔴 +5 | 2,347 |
 | 134 | Azurá Stevens | 2,343 |
 | 135 | Merlakia Jones | 2,308 |
 | 136 | Betnijah Laney-Hamilton | 2,302 |
@@ -295,7 +295,7 @@ _Last updated: 2026-10-29 16:54 UTC_
 | 69 | Monique Billings | 1,431 |
 | 70 | Alana Beard | 1,420 |
 | 71 | Nakia Sanford | 1,419 |
-| 72 | Kayla Thornton | 1,408 |
+| 72 | **Kayla Thornton** 🔴 | 1,408 |
 | 73 | **Allisha Gray** 🔴 | 1,404 |
 | 74 | Kara Braxton | 1,387 |
 | 75 | Courtney Vandersloot | 1,386 |
@@ -347,8 +347,8 @@ _Last updated: 2026-10-29 16:54 UTC_
 | 121 | Svetlana Abrosimova | 1,078 |
 | 122 | Le'coe Willingham | 1,054 |
 | 123 | Nicole Ohlde | 1,040 |
-| 124 | **Angel Reese** 🔴 | 1,035 |
-| 124 | Tamecka Dixon | 1,035 |
+| 124 | **Angel Reese** 🔴 +1 | 1,036 |
+| 125 | Tamecka Dixon | 1,035 |
 | 126 | Kamila Vodichkova | 1,031 |
 | 127 | Jasmine Thomas | 1,027 |
 | 128 | Sabrina Ionescu | 1,020 |
@@ -613,7 +613,7 @@ _Last updated: 2026-10-29 16:54 UTC_
 | 181 | Alanna Smith | 374 |
 | 182 | Suzie McConnell Serio | 370 |
 | 183 | Damiris Dantas | 368 |
-| 183 | Kayla Thornton | 368 |
+| 183 | **Kayla Thornton** 🔴 | 368 |
 | 185 | Roneeka Hodges | 362 |
 | 186 | Andrea Nagy | 361 |
 | 186 | Diamond DeShields | 361 |
@@ -776,7 +776,7 @@ _Last updated: 2026-10-29 16:54 UTC_
 | 139 | Imani McGee-Stafford | 95 |
 | 140 | Jewell Loyd | 94 |
 | 140 | Sandrine Gruda | 94 |
-| 142 | Kayla Thornton | 93 |
+| 142 | **Kayla Thornton** 🔴 | 93 |
 | 143 | Jasmine Thomas | 91 |
 | 143 | Kayla Alexander | 91 |
 | 145 | Allie Quigley | 90 |
@@ -890,7 +890,7 @@ _Last updated: 2026-10-29 16:54 UTC_
 | 45 | Katie Smith | 408 |
 | 46 | Cappie Pondexter | 405 |
 | 47 | Nicole Powell | 401 |
-| 48 | **Jordin Canada** 🔴 | 397 |
+| 48 | **Jordin Canada** 🔴 +1 | 398 |
 | 49 | Jasmine Thomas | 394 |
 | 50 | Ariel Atkins | 390 |
 | 51 | Danielle Robinson | 389 |
@@ -952,7 +952,7 @@ _Last updated: 2026-10-29 16:54 UTC_
 | 107 | Emma Meesseman | 276 |
 | 107 | Erika de Souza | 276 |
 | 109 | Rita Williams | 271 |
-| 110 | Kayla Thornton | 270 |
+| 110 | **Kayla Thornton** 🔴 | 270 |
 | 110 | Natalie Williams | 270 |
 | 110 | Nicky Anosike | 270 |
 | 113 | Crystal Robinson | 267 |
@@ -1075,7 +1075,7 @@ _Last updated: 2026-10-29 16:54 UTC_
 | 24 | Shekinna Stricklen | 468 |
 | 26 | Breanna Stewart | 465 |
 | 27 | Cappie Pondexter | 464 |
-| 28 | **Allisha Gray** 🔴 +1 | 459 |
+| 28 | **Allisha Gray** 🔴 +2 | 460 |
 | 29 | Ariel Atkins | 455 |
 | 30 | **Tiffany Hayes** 🔴 | 454 |
 | 31 | Chelsea Gray | 450 |
@@ -1121,7 +1121,7 @@ _Last updated: 2026-10-29 16:54 UTC_
 | 71 | Bridget Carleton | 306 |
 | 72 | Kelly Miller | 305 |
 | 73 | Nikki Teasley | 304 |
-| 74 | Kayla Thornton | 300 |
+| 74 | **Kayla Thornton** 🔴 | 300 |
 | 75 | Vickie Johnson | 295 |
 | 76 | Seimone Augustus | 293 |
 | 77 | Candice Wiggins | 290 |
@@ -1323,7 +1323,7 @@ _Last updated: 2026-10-29 16:54 UTC_
 | 68 | Odyssey Sims | 631 |
 | 68 | Svetlana Abrosimova | 631 |
 | 70 | Kahleah Copper | 625 |
-| 71 | **Tiffany Hayes** 🔴 | 624 |
+| 70 | **Tiffany Hayes** 🔴 +1 | 625 |
 | 72 | Rebekkah Brunson | 615 |
 | 73 | Seimone Augustus | 613 |
 | 74 | Teresa Weatherspoon | 601 |
@@ -1449,7 +1449,7 @@ _Last updated: 2026-10-29 16:54 UTC_
 | 194 | Tianna Hawkins | 303 |
 | 195 | Rachel Banham | 301 |
 | 196 | Crystal Robinson | 299 |
-| 197 | Kayla Thornton | 298 |
+| 197 | **Kayla Thornton** 🔴 | 298 |
 | 198 | Michele Timms | 297 |
 | 199 | Damiris Dantas | 289 |
 | 199 | Nia Coffey | 289 |
@@ -1555,7 +1555,7 @@ _Last updated: 2026-10-29 16:54 UTC_
 | 95 | Jewell Loyd | 684 |
 | 95 | Leilani Mitchell | 684 |
 | 97 | Crystal Robinson | 682 |
-| 97 | Kayla Thornton | 682 |
+| 97 | **Kayla Thornton** 🔴 | 682 |
 | 99 | Jennifer Lacy | 680 |
 | 99 | Temeka Johnson | 680 |
 | 101 | Kelly Miller | 676 |
