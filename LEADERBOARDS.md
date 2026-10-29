@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-10-29 17:58 UTC_
+_Last updated: 2026-10-29 17:59 UTC_
 
 ## Contents
 
@@ -195,7 +195,7 @@ _Last updated: 2026-10-29 17:58 UTC_
 | 174 | Jessica Breland | 1,918 |
 | 175 | Nakia Sanford | 1,915 |
 | 176 | Ebony Hoffman | 1,909 |
-| 177 | **Gabby Williams** 🔴 +6 | 1,905 |
+| 177 | **Gabby Williams** 🔴 +9 | 1,908 |
 | 178 | Candice Wiggins | 1,901 |
 | 179 | NaLyssa Smith | 1,879 |
 | 180 | Rachel Banham | 1,843 |
@@ -895,11 +895,11 @@ _Last updated: 2026-10-29 17:58 UTC_
 | 50 | Ariel Atkins | 390 |
 | 51 | Danielle Robinson | 389 |
 | 52 | Deanna Nolan | 388 |
-| 53 | Briann January | 386 |
-| 53 | **Tiffany Hayes** 🔴 +2 | 386 |
+| 53 | **Tiffany Hayes** 🔴 +3 | 387 |
+| 54 | Briann January | 386 |
 | 55 | Swin Cash | 384 |
 | 55 | Tina Charles | 384 |
-| 57 | **Allisha Gray** 🔴 +1 | 380 |
+| 57 | **Allisha Gray** 🔴 +2 | 381 |
 | 58 | Monique Currie | 378 |
 | 59 | Chamique Holdsclaw | 376 |
 | 60 | Brittney Sykes | 371 |
@@ -1190,7 +1190,7 @@ _Last updated: 2026-10-29 17:58 UTC_
 | 139 | Jennifer Azzi | 158 |
 | 139 | Natasha Howard | 158 |
 | 142 | Alanna Smith | 156 |
-| 143 | **Gabby Williams** 🔴 +1 | 154 |
+| 143 | **Gabby Williams** 🔴 +2 | 155 |
 | 144 | Bridget Pettis | 153 |
 | 144 | Jennifer Gillom | 153 |
 | 144 | Katie Lou Samuelson | 153 |
@@ -1370,7 +1370,7 @@ _Last updated: 2026-10-29 17:58 UTC_
 | 115 | Erika de Souza | 483 |
 | 116 | Sophia Young-Malcolm | 482 |
 | 117 | Natalie Williams | 480 |
-| 118 | **Allisha Gray** 🔴 | 476 |
+| 118 | **Allisha Gray** 🔴 +2 | 478 |
 | 119 | Ebony Hoffman | 470 |
 | 120 | Elaine Powell | 469 |
 | 121 | Allie Quigley | 467 |
@@ -1425,8 +1425,8 @@ _Last updated: 2026-10-29 17:58 UTC_
 | 170 | Satou Sabally | 345 |
 | 171 | Teaira McCowan | 340 |
 | 172 | Loree Moore | 339 |
-| 173 | Charlotte Smith | 337 |
-| 173 | **Gabby Williams** 🔴 +1 | 337 |
+| 173 | **Gabby Williams** 🔴 +2 | 338 |
+| 174 | Charlotte Smith | 337 |
 | 175 | Scholanda Dorrell | 335 |
 | 176 | Aerial Powers | 333 |
 | 176 | Diamond DeShields | 333 |
