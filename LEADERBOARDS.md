@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-10-29 17:57 UTC_
+_Last updated: 2026-10-29 17:58 UTC_
 
 ## Contents
 
@@ -231,7 +231,7 @@ _Last updated: 2026-10-29 17:57 UTC_
 | 5 | Rebekkah Brunson | 3,345 |
 | 6 | Tamika Catchings | 3,313 |
 | 7 | Lisa Leslie | 3,303 |
-| 8 | **DeWanna Bonner** 🔴 | 3,290 |
+| 8 | **DeWanna Bonner** 🔴 +1 | 3,291 |
 | 9 | Candice Dupree | 3,132 |
 | 10 | Tina Thompson | 3,065 |
 | 11 | Taj McWilliams-Franklin | 3,006 |
@@ -386,8 +386,8 @@ _Last updated: 2026-10-29 17:57 UTC_
 | 160 | Krystal Thomas | 862 |
 | 161 | Leilani Mitchell | 845 |
 | 162 | Essence Carson | 833 |
-| 163 | **Gabby Williams** 🔴 +1 | 832 |
-| 163 | Shakira Austin | 832 |
+| 162 | **Gabby Williams** 🔴 +2 | 833 |
+| 164 | Shakira Austin | 832 |
 | 165 | Kristi Toliver | 829 |
 | 166 | Marie Ferdinand-Harris | 828 |
 | 167 | Marlies Askamp | 822 |
@@ -707,8 +707,8 @@ _Last updated: 2026-10-29 17:57 UTC_
 | 70 | Camille Smith | 169 |
 | 71 | Shameka Christon | 165 |
 | 72 | Aliyah Boston | 160 |
+| 72 | **Allisha Gray** 🔴 +3 | 160 |
 | 72 | Cheryl Ford | 160 |
-| 74 | **Allisha Gray** 🔴 +2 | 159 |
 | 75 | Kara Braxton | 157 |
 | 76 | DeMya Walker | 155 |
 | 76 | Tamika Whitmore | 155 |
@@ -896,7 +896,7 @@ _Last updated: 2026-10-29 17:57 UTC_
 | 51 | Danielle Robinson | 389 |
 | 52 | Deanna Nolan | 388 |
 | 53 | Briann January | 386 |
-| 54 | **Tiffany Hayes** 🔴 +1 | 385 |
+| 53 | **Tiffany Hayes** 🔴 +2 | 386 |
 | 55 | Swin Cash | 384 |
 | 55 | Tina Charles | 384 |
 | 57 | **Allisha Gray** 🔴 +1 | 380 |
