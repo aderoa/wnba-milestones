@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-10-29 17:27 UTC_
+_Last updated: 2026-10-29 17:28 UTC_
 
 ## Contents
 
@@ -47,7 +47,7 @@ _Last updated: 2026-10-29 17:27 UTC_
 | 26 | Lindsay Whalen | 5,511 |
 | 27 | Kelsey Mitchell | 5,198 |
 | 28 | Swin Cash | 5,119 |
-| 29 | **Tiffany Hayes** 🔴 +8 | 5,057 |
+| 29 | **Tiffany Hayes** 🔴 +11 | 5,060 |
 | 30 | Tangela Smith | 5,035 |
 | 31 | Taj McWilliams-Franklin | 4,992 |
 | 32 | Maya Moore | 4,984 |
@@ -896,9 +896,9 @@ _Last updated: 2026-10-29 17:27 UTC_
 | 51 | Danielle Robinson | 389 |
 | 52 | Deanna Nolan | 388 |
 | 53 | Briann January | 386 |
-| 54 | Swin Cash | 384 |
-| 54 | **Tiffany Hayes** 🔴 | 384 |
-| 54 | Tina Charles | 384 |
+| 54 | **Tiffany Hayes** 🔴 +1 | 385 |
+| 55 | Swin Cash | 384 |
+| 55 | Tina Charles | 384 |
 | 57 | **Allisha Gray** 🔴 | 379 |
 | 58 | Monique Currie | 378 |
 | 59 | Chamique Holdsclaw | 376 |
@@ -927,8 +927,8 @@ _Last updated: 2026-10-29 17:27 UTC_
 | 81 | Leilani Mitchell | 330 |
 | 83 | Courtney Williams | 329 |
 | 83 | Kristi Toliver | 329 |
+| 85 | **Gabby Williams** 🔴 +2 | 328 |
 | 85 | Matee Ajavon | 328 |
-| 86 | **Gabby Williams** 🔴 +1 | 327 |
 | 87 | Napheesa Collier | 325 |
 | 88 | Betty Lennox | 323 |
 | 89 | Tammy Sutton-Brown | 319 |
@@ -1077,7 +1077,7 @@ _Last updated: 2026-10-29 17:27 UTC_
 | 27 | Cappie Pondexter | 464 |
 | 28 | **Allisha Gray** 🔴 +2 | 460 |
 | 29 | Ariel Atkins | 455 |
-| 30 | **Tiffany Hayes** 🔴 | 454 |
+| 29 | **Tiffany Hayes** 🔴 +1 | 455 |
 | 31 | Chelsea Gray | 450 |
 | 32 | Skylar Diggins | 447 |
 | 33 | Lauren Jackson | 436 |
