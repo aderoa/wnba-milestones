@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-10-29 18:47 UTC_
+_Last updated: 2026-10-29 18:48 UTC_
 
 ## Contents
 
@@ -190,7 +190,7 @@ _Last updated: 2026-10-29 18:47 UTC_
 | 169 | Isabelle Harrison | 1,932 |
 | 170 | Cathrine Kraayeveld | 1,926 |
 | 171 | Roneeka Hodges | 1,925 |
-| 172 | **Gabby Williams** 🔴 +23 | 1,922 |
+| 172 | **Gabby Williams** 🔴 +25 | 1,924 |
 | 173 | Latasha Byears | 1,920 |
 | 174 | Karima Christmas-Kelly | 1,919 |
 | 175 | Jessica Breland | 1,918 |
@@ -382,7 +382,7 @@ _Last updated: 2026-10-29 18:47 UTC_
 | 156 | Alanna Smith | 878 |
 | 157 | Marina Mabrey | 874 |
 | 158 | Shameka Christon | 867 |
-| 159 | **Naz Hillmon** 🔴 +4 | 863 |
+| 159 | **Naz Hillmon** 🔴 +5 | 864 |
 | 160 | Krystal Thomas | 862 |
 | 161 | Leilani Mitchell | 845 |
 | 162 | **Gabby Williams** 🔴 +3 | 834 |
@@ -1351,8 +1351,8 @@ _Last updated: 2026-10-29 18:47 UTC_
 | 96 | Sabrina Ionescu | 533 |
 | 97 | Mwadi Mabika | 532 |
 | 98 | Nakia Sanford | 531 |
-| 99 | Arike Ogunbowale | 529 |
-| 99 | **Jordin Canada** 🔴 +2 | 529 |
+| 99 | **Jordin Canada** 🔴 +3 | 530 |
+| 100 | Arike Ogunbowale | 529 |
 | 101 | Maya Moore | 527 |
 | 102 | Kara Lawson | 526 |
 | 103 | Leilani Mitchell | 525 |
