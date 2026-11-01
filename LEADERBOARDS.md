@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-11-01 02:00 UTC_
+_Last updated: 2026-11-01 02:01 UTC_
 
 ## Contents
 
@@ -827,11 +827,11 @@ _Last updated: 2026-11-01 02:00 UTC_
 | 190 | Marlies Askamp | 71 |
 | 190 | Tanisha Wright | 71 |
 | 192 | Wendy Palmer | 70 |
+| 193 | **Gabby Williams** 🔴 +4 | 69 |
 | 193 | Mercedes Russell | 69 |
 | 193 | Rhonda Mapp | 69 |
 | 193 | Satou Sabally | 69 |
-| 196 | **Gabby Williams** 🔴 +3 | 68 |
-| 196 | **Veronica Burton** 🔴 +1 | 68 |
+| 197 | **Veronica Burton** 🔴 +1 | 68 |
 | 198 | Shannon Johnson | 67 |
 | 199 | Kennedy Burke | 66 |
 | 200 | Crystal Robinson | 65 |
