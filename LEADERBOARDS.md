@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-11-01 00:59 UTC_
+_Last updated: 2026-11-01 01:00 UTC_
 
 ## Contents
 
@@ -47,7 +47,7 @@ _Last updated: 2026-11-01 00:59 UTC_
 | 26 | Lindsay Whalen | 5,511 |
 | 27 | Kelsey Mitchell | 5,198 |
 | 28 | Swin Cash | 5,119 |
-| 29 | **Tiffany Hayes** 🔴 +3 | 5,052 |
+| 29 | **Tiffany Hayes** 🔴 +5 | 5,054 |
 | 30 | Tangela Smith | 5,035 |
 | 31 | Taj McWilliams-Franklin | 4,992 |
 | 32 | Maya Moore | 4,984 |
@@ -150,7 +150,7 @@ _Last updated: 2026-11-01 00:59 UTC_
 | 129 | Anna DeForge | 2,413 |
 | 130 | **Kayla Thornton** 🔴 +3 | 2,396 |
 | 131 | DeMya Walker | 2,379 |
-| 132 | **Jordin Canada** 🔴 +10 | 2,352 |
+| 132 | **Jordin Canada** 🔴 +13 | 2,355 |
 | 133 | Alex Bentley | 2,350 |
 | 134 | Azurá Stevens | 2,343 |
 | 135 | Merlakia Jones | 2,308 |
@@ -295,7 +295,7 @@ _Last updated: 2026-11-01 00:59 UTC_
 | 69 | Monique Billings | 1,431 |
 | 70 | Alana Beard | 1,420 |
 | 71 | Nakia Sanford | 1,419 |
-| 72 | **Kayla Thornton** 🔴 +2 | 1,410 |
+| 72 | **Kayla Thornton** 🔴 +3 | 1,411 |
 | 73 | **Allisha Gray** 🔴 +3 | 1,407 |
 | 74 | Kara Braxton | 1,387 |
 | 75 | Courtney Vandersloot | 1,386 |
@@ -383,7 +383,7 @@ _Last updated: 2026-11-01 00:59 UTC_
 | 157 | Marina Mabrey | 874 |
 | 158 | Shameka Christon | 867 |
 | 159 | Krystal Thomas | 862 |
-| 160 | **Naz Hillmon** 🔴 +1 | 860 |
+| 160 | **Naz Hillmon** 🔴 +2 | 861 |
 | 161 | Leilani Mitchell | 845 |
 | 162 | Essence Carson | 833 |
 | 163 | **Gabby Williams** 🔴 +1 | 832 |
@@ -538,7 +538,7 @@ _Last updated: 2026-11-01 00:59 UTC_
 | 106 | Betnijah Laney-Hamilton | 590 |
 | 106 | Camille Smith | 590 |
 | 108 | Armintie Herrington | 589 |
-| 109 | **Veronica Burton** 🔴 +1 | 580 |
+| 109 | **Veronica Burton** 🔴 +3 | 582 |
 | 110 | Tan White | 578 |
 | 111 | Matee Ajavon | 577 |
 | 112 | Napheesa Collier | 570 |
@@ -1217,9 +1217,9 @@ _Last updated: 2026-11-01 00:59 UTC_
 | 167 | Amanda Zahui B | 130 |
 | 167 | Eva Nemcova | 130 |
 | 169 | Crystal Dangerfield | 129 |
+| 169 | **Jordin Canada** 🔴 +1 | 129 |
 | 169 | Leonie Fiebich | 129 |
-| 171 | **Jordin Canada** 🔴 | 128 |
-| 171 | Ticha Penicheiro | 128 |
+| 172 | Ticha Penicheiro | 128 |
 | 173 | Michele Timms | 127 |
 | 174 | Tamecka Dixon | 126 |
 | 175 | Kennedy Burke | 125 |
