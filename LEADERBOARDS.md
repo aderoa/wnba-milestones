@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-11-01 00:28 UTC_
+_Last updated: 2026-11-01 00:29 UTC_
 
 ## Contents
 
@@ -1237,7 +1237,7 @@ _Last updated: 2026-11-01 00:28 UTC_
 | 187 | Gordana Grubin | 114 |
 | 187 | Rickea Jackson | 114 |
 | 187 | Sandy Brondello | 114 |
-| 190 | Cecilia Zandalasini | 111 |
+| 190 | **Cecilia Zandalasini** 🔴 | 111 |
 | 190 | Janelle Salaun | 111 |
 | 190 | Shoni Schimmel | 111 |
 | 193 | Emma Meesseman | 109 |
@@ -1279,7 +1279,7 @@ _Last updated: 2026-11-01 00:28 UTC_
 | 24 | Candice Dupree | 869 |
 | 25 | Alana Beard | 854 |
 | 26 | Natasha Howard | 843 |
-| 27 | **DeWanna Bonner** 🔴 | 840 |
+| 27 | **DeWanna Bonner** 🔴 +1 | 841 |
 | 28 | Katie Douglas | 824 |
 | 29 | Nneka Ogwumike | 803 |
 | 30 | Betty Lennox | 800 |
@@ -1495,7 +1495,7 @@ _Last updated: 2026-11-01 00:28 UTC_
 | 35 | Mwadi Mabika | 941 |
 | 36 | Courtney Vandersloot | 940 |
 | 36 | Tamika Whitmore | 940 |
-| 38 | **DeWanna Bonner** 🔴 | 922 |
+| 38 | **DeWanna Bonner** 🔴 +1 | 923 |
 | 39 | Briann January | 921 |
 | 40 | Jonquel Jones | 913 |
 | 40 | Ticha Penicheiro | 913 |
