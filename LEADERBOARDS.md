@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-11-01 01:25 UTC_
+_Last updated: 2026-11-01 01:26 UTC_
 
 ## Contents
 
@@ -259,7 +259,7 @@ _Last updated: 2026-11-01 01:25 UTC_
 | 33 | Elizabeth Williams | 1,978 |
 | 34 | Cheryl Ford | 1,907 |
 | 35 | Courtney Williams | 1,843 |
-| 36 | **Kiah Stokes** 🔴 +5 | 1,840 |
+| 36 | **Kiah Stokes** 🔴 +6 | 1,841 |
 | 37 | Plenette Pierson | 1,834 |
 | 38 | Natalie Williams | 1,832 |
 | 39 | Wendy Palmer | 1,824 |
@@ -296,7 +296,7 @@ _Last updated: 2026-11-01 01:25 UTC_
 | 70 | Alana Beard | 1,420 |
 | 71 | Nakia Sanford | 1,419 |
 | 72 | **Kayla Thornton** 🔴 +3 | 1,411 |
-| 73 | **Allisha Gray** 🔴 +3 | 1,407 |
+| 73 | **Allisha Gray** 🔴 +4 | 1,408 |
 | 74 | Kara Braxton | 1,387 |
 | 75 | Courtney Vandersloot | 1,386 |
 | 76 | Katie Smith | 1,383 |
@@ -658,7 +658,7 @@ _Last updated: 2026-11-01 01:25 UTC_
 | 21 | Jessica Breland | 367 |
 | 22 | **DeWanna Bonner** 🔴 | 358 |
 | 23 | Ezi Magbegor | 354 |
-| 24 | **Kiah Stokes** 🔴 +1 | 353 |
+| 23 | **Kiah Stokes** 🔴 +2 | 354 |
 | 25 | Diana Taurasi | 349 |
 | 25 | Elena Delle Donne | 349 |
 | 27 | DeLisha Milton-Jones | 339 |
