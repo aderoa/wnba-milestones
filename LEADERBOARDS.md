@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-11-01 02:09 UTC_
+_Last updated: 2026-11-01 02:10 UTC_
 
 ## Contents
 
@@ -258,7 +258,7 @@ _Last updated: 2026-11-01 02:09 UTC_
 | 32 | Tammy Sutton-Brown | 2,010 |
 | 33 | Elizabeth Williams | 1,978 |
 | 34 | Cheryl Ford | 1,907 |
-| 35 | **Kiah Stokes** 🔴 +11 | 1,846 |
+| 35 | **Kiah Stokes** 🔴 +13 | 1,848 |
 | 36 | Courtney Williams | 1,843 |
 | 37 | Plenette Pierson | 1,834 |
 | 38 | Natalie Williams | 1,832 |
