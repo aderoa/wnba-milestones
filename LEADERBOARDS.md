@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-11-01 01:27 UTC_
+_Last updated: 2026-11-01 01:28 UTC_
 
 ## Contents
 
@@ -21,7 +21,7 @@ _Last updated: 2026-11-01 01:27 UTC_
 |-----:|--------|------:|
 | 1 | Diana Taurasi | 10,608 |
 | 2 | Tina Charles | 8,396 |
-| 3 | **DeWanna Bonner** 🔴 +2 | 7,974 |
+| 3 | **DeWanna Bonner** 🔴 +4 | 7,976 |
 | 4 | Nneka Ogwumike | 7,563 |
 | 5 | Tina Thompson | 7,470 |
 | 6 | Tamika Catchings | 7,371 |
@@ -503,7 +503,7 @@ _Last updated: 2026-11-01 01:27 UTC_
 | 71 | Marina Mabrey | 801 |
 | 72 | Epiphanny Prince | 800 |
 | 73 | Mwadi Mabika | 774 |
-| 74 | **Allisha Gray** 🔴 +1 | 768 |
+| 74 | **Allisha Gray** 🔴 +2 | 769 |
 | 75 | Sheri Sam | 745 |
 | 76 | Monique Currie | 740 |
 | 77 | Elaine Powell | 728 |
@@ -532,8 +532,8 @@ _Last updated: 2026-11-01 01:27 UTC_
 | 100 | Natasha Howard | 615 |
 | 101 | Debbie Black | 612 |
 | 102 | Cynthia Cooper | 602 |
-| 103 | **Gabby Williams** 🔴 +1 | 592 |
-| 103 | Sancho Lyttle | 592 |
+| 103 | **Gabby Williams** 🔴 +2 | 593 |
+| 104 | Sancho Lyttle | 592 |
 | 105 | Caitlin Clark | 591 |
 | 106 | Betnijah Laney-Hamilton | 590 |
 | 106 | Camille Smith | 590 |
@@ -964,9 +964,9 @@ _Last updated: 2026-11-01 01:27 UTC_
 | 119 | Jonquel Jones | 260 |
 | 119 | Riquna Williams | 260 |
 | 121 | Noelle Quinn | 256 |
-| 122 | Elaine Powell | 255 |
-| 122 | Loree Moore | 255 |
-| 122 | **Rhyne Howard** 🔴 +1 | 255 |
+| 121 | **Rhyne Howard** 🔴 +2 | 256 |
+| 123 | Elaine Powell | 255 |
+| 123 | Loree Moore | 255 |
 | 125 | Ruthie Bolton | 254 |
 | 126 | Hamchetou Maiga-Ba | 251 |
 | 126 | Tamika Whitmore | 251 |
