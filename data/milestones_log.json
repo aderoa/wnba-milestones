@@ -1,5 +1,17 @@
 [
   {
+    "ts": "2026-11-01T00:24:00+00:00",
+    "text": "Gabby Williams passed Kennedy Burke for #198 all-time in blocks (career 67) \u2014 up from #200 entering today \u2014 (5:00 - 1st \u2014 ATL @ GS)",
+    "kind": "rank_pass",
+    "player": "Gabby Williams",
+    "stat": "blocks",
+    "rank": 198,
+    "passed_players": [
+      "Kennedy Burke"
+    ],
+    "new_total": 67
+  },
+  {
     "ts": "2026-10-27T01:49:00+00:00",
     "text": "Veronica Burton passed Wendy Palmer for #192 all-time in blocks (career 71) \u2014 up from #197 entering today \u2014 (9:08 - 4th \u2014 ATL @ GS)",
     "kind": "rank_pass",
@@ -2963,14 +2975,5 @@
       "Sophia Young-Malcolm"
     ],
     "new_total": 688
-  },
-  {
-    "ts": "2026-07-11T22:16:00+00:00",
-    "text": "Naz Hillmon reached 1,100 career points (now 1,100) \u2014 (32.4 - 4th \u2014 POR @ ATL)",
-    "kind": "round",
-    "player": "Naz Hillmon",
-    "stat": "points",
-    "value": 1100,
-    "new_total": 1100
   }
 ]

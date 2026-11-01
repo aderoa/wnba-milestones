@@ -2,7 +2,7 @@
 
 Top 200 in each tracked stat. Live in-game totals are reflected during game windows — players currently in an active game are marked **bold** with 🔴 and a today-delta. Auto-updated by the tracker workflow.
 
-_Last updated: 2026-11-01 00:23 UTC_
+_Last updated: 2026-11-01 00:24 UTC_
 
 ## Contents
 
@@ -347,8 +347,8 @@ _Last updated: 2026-11-01 00:23 UTC_
 | 121 | Svetlana Abrosimova | 1,078 |
 | 122 | Le'coe Willingham | 1,054 |
 | 123 | Nicole Ohlde | 1,040 |
-| 124 | **Angel Reese** 🔴 | 1,035 |
-| 124 | Tamecka Dixon | 1,035 |
+| 124 | **Angel Reese** 🔴 +1 | 1,036 |
+| 125 | Tamecka Dixon | 1,035 |
 | 126 | Kamila Vodichkova | 1,031 |
 | 127 | Jasmine Thomas | 1,027 |
 | 128 | Sabrina Ionescu | 1,020 |
@@ -831,9 +831,9 @@ _Last updated: 2026-11-01 00:23 UTC_
 | 193 | Rhonda Mapp | 69 |
 | 193 | Satou Sabally | 69 |
 | 196 | **Veronica Burton** 🔴 +1 | 68 |
+| 197 | **Gabby Williams** 🔴 +2 | 67 |
 | 197 | Shannon Johnson | 67 |
-| 198 | **Gabby Williams** 🔴 +1 | 66 |
-| 198 | Kennedy Burke | 66 |
+| 199 | Kennedy Burke | 66 |
 | 200 | Crystal Robinson | 65 |
 | 200 | Queen Egbo | 65 |
 | 200 | Riquna Williams | 65 |
