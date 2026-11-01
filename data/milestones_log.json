@@ -1,5 +1,18 @@
 [
   {
+    "ts": "2026-11-01T01:01:00+00:00",
+    "text": "Gabby Williams passed Shannon Johnson and Veronica Burton for #196 all-time in blocks (career 68) \u2014 up from #200 entering today \u2014 (0.0 - 2nd \u2014 ATL @ GS)",
+    "kind": "rank_pass",
+    "player": "Gabby Williams",
+    "stat": "blocks",
+    "rank": 196,
+    "passed_players": [
+      "Shannon Johnson",
+      "Veronica Burton"
+    ],
+    "new_total": 68
+  },
+  {
     "ts": "2026-11-01T00:24:00+00:00",
     "text": "Gabby Williams passed Kennedy Burke for #198 all-time in blocks (career 67) \u2014 up from #200 entering today \u2014 (5:00 - 1st \u2014 ATL @ GS)",
     "kind": "rank_pass",
@@ -2963,17 +2976,5 @@
       "Riquna Williams"
     ],
     "new_total": 2660
-  },
-  {
-    "ts": "2026-07-11T23:40:00+00:00",
-    "text": "Jewell Loyd passed Sophia Young-Malcolm for #90 all-time in fouls (career 688) \u2014 up from #95 entering today \u2014 (1:58 - 3rd \u2014 PHX @ LV)",
-    "kind": "rank_pass",
-    "player": "Jewell Loyd",
-    "stat": "fouls",
-    "rank": 90,
-    "passed_players": [
-      "Sophia Young-Malcolm"
-    ],
-    "new_total": 688
   }
 ]
